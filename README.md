@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Docker: Non-Root User Best Practices](https://dev.to/kfir-g/securing-docker-non-root-user-best-practices-odb)
-- [Mastering Git: Branching and Merging – Part 2](https://dev.to/dipakahirav/mastering-git-branching-and-merging-part-2-od2)
-- [Cracking the Code: Resolving Line-Breaks Style Error in VSCode](https://dev.to/judypearl/cracking-the-code-resolving-line-breaks-style-error-in-vscode-lb4)
-- [single API multiple databases](https://dev.to/ktbsomen/single-api-multiple-databases-44bh)
+- [Animated tab navigation](https://dev.to/obezyankaa/animated-tab-navigation-3nbn)
+- [Active class on click](https://dev.to/webfaisalbd/active-class-on-click-5879)
+- [Insights from &quot;The Making of a Manager&quot; &lpar;Chapter 1&rpar; by Julie Zhuo](https://dev.to/ale3oula/insights-from-the-making-of-a-manager-chapter-1-by-julie-zhuo-5heg)
+- [i don&#39;t care, i love it](https://dev.to/onwritinggames/i-dont-care-i-love-it-3e59)
 <!-- BLOG-POST-LIST:END -->
 
