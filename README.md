@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#1544. Make The String Great](https://dev.to/karleb/1544-make-the-string-great-5co0)
-- [I&#39;ve made game engine &lpar;I think&rpar;](https://dev.to/larcefox/ive-made-game-engine-i-think-36lj)
-- [Flexibility of plang programming language](https://dev.to/ingigauti/flexibility-of-plang-programming-language-1kgn)
-- [Impress Recruiters and Upskill using these 10 Unconventional Software Engineering Projects](https://dev.to/wewake-dev/impress-recruiters-and-upskill-using-these-10-unconventional-software-engineering-projects-4mpo)
+- [How to Market Developer Tools](https://dev.to/jeffmorhous/how-to-market-developer-tools-20f1)
+- [Smoke for pseudo 3d arcade](https://dev.to/bileyg/smoke-for-pseudo-3d-arcade-2ine)
+- [Introduction](https://dev.to/techpepson/introduction-e81)
+- [Improve your productivity with regexp-it-cli](https://dev.to/akgondber/improve-your-productivity-with-regexp-it-cli-4fnp)
 <!-- BLOG-POST-LIST:END -->
 
