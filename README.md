@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn and get certificate with Microsoft Learn](https://dev.to/hasanul_banna_himel/learn-and-get-certificate-with-microsoft-learn-2017)
-- [Day 35/366](https://dev.to/vishalmx3/day-35366-1e07)
-- [SCRIMBA - LEARN JAVASCRIPT - from a beginners perspective](https://dev.to/virtualsobriety/scrimba-learn-javascript-from-a-beginners-perspective-223h)
-- [Designing an API? Try These Techniques to Avoid Future Headaches](https://dev.to/lincemathew/designing-an-api-try-these-techniques-to-avoid-future-headaches-6hp)
+- [Learn Flutter by creating your first Flutter app!](https://dev.to/svprdga/learn-flutter-by-creating-your-first-flutter-app-gfb)
+- [Seeking advice](https://dev.to/j0hanthemoonlightcoder/seeking-advice-4jme)
+- [Image slideshows are boring. Let&#39;s create cubes.](https://dev.to/sarahokolo/image-slideshows-are-boring-lets-create-cubes-593b)
+- [The Document Object Model](https://dev.to/thatohatsi880/the-document-object-model-4dk8)
 <!-- BLOG-POST-LIST:END -->
 
