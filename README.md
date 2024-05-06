@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools that keep me productive](https://dev.to/nickytonline/tools-that-keep-me-productive-1no5)
-- [PHP MySqli CRUD and Vue.js 3 with Composition API using a CDN](https://dev.to/nathakritbc/php-mysqli-crud-and-vuejs-3-with-composition-api-using-a-cdn-5d77)
-- [Say No to SQL 🙅](https://dev.to/itskunal/say-no-to-sql-hce)
-- [Dev OPinion - Netlify Dynamic Site Challenge Submission](https://dev.to/frikishaan/dev-opinion-netlify-dynamic-site-challenge-submission-1l3c)
+- [File Encryption in Rust](https://dev.to/vapourisation/file-encryption-in-rust-3kid)
+- [Efficient Multi Cloud Networking Solutions](https://dev.to/getambassador2024/efficient-multi-cloud-networking-solutions-3gco)
+- [Fine-Tuning LLMs: Technical Overview](https://dev.to/admantium/fine-tuning-llms-technical-overview-55pi)
+- [This is the first Chrome extension I built as a hobby](https://dev.to/siumhossain/this-is-the-first-chrome-extension-i-built-as-a-hobby-1op1)
 <!-- BLOG-POST-LIST:END -->
 
