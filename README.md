@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Code Quality: Setting Up ESLint with Standard JS in TypeScript Projects](https://dev.to/graezykev/mastering-code-quality-setting-up-eslint-with-standard-js-in-typescript-projects-18gl)
-- [Simplifying Redis Installation with Docker: A Step-by-Step Guide](https://dev.to/srishtikprasad/simplifying-redis-installation-with-docker-a-step-by-step-guide-507e)
-- [JuiceFS 1.2 Beta 1: Gateway Upgrade, Enhanced Multi-User Permission Management](https://dev.to/daswu/juicefs-12-beta-1-gateway-upgrade-enhanced-multi-user-permission-management-3c3a)
-- [Solving a Leetcode problem daily — Day 5 | Diagonal Traverse](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-5-diagonal-traverse-1ckj)
+- [&quot;Important Update: Temporary Pause on Learning Sessions Due to Health and Exams&quot;](https://dev.to/nitinbhatt46/important-update-temporary-pause-on-learning-sessions-due-to-health-and-exams-2d2)
+- [What’s New in Apache Answer 1.3.0?](https://dev.to/answerdev/whats-new-in-apache-answer-130-509c)
+- [What do you want to watch next? This is why I built GoodWatch.](https://dev.to/alp/what-do-you-want-to-watch-next-this-is-why-i-built-goodwatch-1cn2)
+- [Message queue with Socket.io](https://dev.to/khoakomlem/message-queue-with-socketio-2d9l)
 <!-- BLOG-POST-LIST:END -->
 
