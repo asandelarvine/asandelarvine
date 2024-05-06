@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Important Update: Temporary Pause on Learning Sessions Due to Health and Exams&quot;](https://dev.to/nitinbhatt46/important-update-temporary-pause-on-learning-sessions-due-to-health-and-exams-2d2)
-- [What’s New in Apache Answer 1.3.0?](https://dev.to/answerdev/whats-new-in-apache-answer-130-509c)
-- [What do you want to watch next? This is why I built GoodWatch.](https://dev.to/alp/what-do-you-want-to-watch-next-this-is-why-i-built-goodwatch-1cn2)
-- [Message queue with Socket.io](https://dev.to/khoakomlem/message-queue-with-socketio-2d9l)
+- [Tools that keep me productive](https://dev.to/nickytonline/tools-that-keep-me-productive-1no5)
+- [PHP MySqli CRUD and Vue.js 3 with Composition API using a CDN](https://dev.to/nathakritbc/php-mysqli-crud-and-vuejs-3-with-composition-api-using-a-cdn-5d77)
+- [Say No to SQL 🙅](https://dev.to/itskunal/say-no-to-sql-hce)
+- [Dev OPinion - Netlify Dynamic Site Challenge Submission](https://dev.to/frikishaan/dev-opinion-netlify-dynamic-site-challenge-submission-1l3c)
 <!-- BLOG-POST-LIST:END -->
 
