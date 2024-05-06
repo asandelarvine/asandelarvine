@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common front-end tool library and high-frequency interview questions &lpar;continuously updated...&rpar;](https://dev.to/niexq/common-front-end-tool-library-and-high-frequency-interview-questions-continuously-updated-2hp0)
-- [Creating a Mobile App with Ionic and Vue.js 🚀📱](https://dev.to/amatisse/creating-a-mobile-app-with-ionic-and-vuejs-36ie)
-- [InnOlympics Hackathon 2024](https://dev.to/kngval/innolympics-hackathon-2024-1ikd)
-- [Weekly Roundup 051 &lpar;Apr 29&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-051-apr-29-hot-topics-in-workplace-sharepoint-and-powerplatform-5g5n)
+- [The Speculation Rules API: A Guide to Faster Websites](https://dev.to/qostya/the-speculation-rules-api-a-guide-to-faster-websites-43b2)
+- [Didn&#39;t know Git was so useful until I started study it.](https://dev.to/deviggor/didnt-know-git-was-so-useful-until-i-started-study-it-1o9o)
+- [How to create a search input with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-search-input-with-tailwind-css-and-alpinejs-4ccm)
+- [Clean Architecture : Infrastructure vs Core](https://dev.to/nlapointe/clean-architecture-infrastructure-vs-core-492k)
 <!-- BLOG-POST-LIST:END -->
 
