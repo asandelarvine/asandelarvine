@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unraveling the Power of Lists in Python: A Comprehensive Guide for Developers](https://dev.to/ekramfl/unraveling-the-power-of-lists-in-python-a-comprehensive-guide-for-developers-i78)
-- [Why Developers Have the Best Community Across Every Industry](https://dev.to/sotergreco/why-developers-have-the-best-community-across-every-industry-3pf5)
-- [AWS Automated Centralized Multi Account Patching](https://dev.to/stintrilamah/aws-automated-centralized-multi-account-patching-50oe)
-- [How the web works](https://dev.to/nas5w/how-the-web-works-1dgj)
+- [How to Develop a Font?](https://dev.to/hahahha/how-to-develop-a-font-53cp)
+- [Total.js — UI library](https://dev.to/palo/totaljs-ui-library-2c3n)
+- [Building for Tomorrow: Part 2 of the Web Application Security Series](https://dev.to/techtobe101/building-for-tomorrow-part-2-of-the-web-application-security-series-oaa)
+- [We Might Need an Effect #1](https://dev.to/kanta1207/we-might-need-an-effect-2bg0)
 <!-- BLOG-POST-LIST:END -->
 
