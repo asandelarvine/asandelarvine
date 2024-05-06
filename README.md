@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for week 19 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-19-of-2024-4c8c)
-- [How I Made a Bot to Plan My Trips Using Julep and Chainlit](https://dev.to/julep/how-i-made-a-bot-to-plan-my-trips-using-julep-and-chainlit-4ekh)
-- [The Age of Smart Applications: How AI is Redefining Business Software](https://dev.to/buildwebcrumbs/the-age-of-smart-applications-how-ai-is-redefining-business-software-mkc)
-- [Blender Tip: Rigging With Mirror](https://dev.to/zaherdirkey/blender-tip-rigging-with-mirror-2hap)
+- [A Deep Dive into the Performance Features of Laravel Herd and ServBay: The Ultimate PHP Development Environment Showdown](https://dev.to/lunamiller/a-deep-dive-into-the-performance-features-of-laravel-herd-and-servbay-the-ultimate-php-development-environment-showdown-4n7g)
+- [Create Your First React App](https://dev.to/kithenry/create-your-first-react-app-5316)
+- [GIT and GITHUB Tutorial](https://dev.to/bbylumi/git-and-github-52bf)
+- [Understand JavaScript &#39;this&#39; keyword in 5 easy steps](https://dev.to/anwar_sadat/understand-javascript-this-keyword-in-5-easy-steps-3166)
 <!-- BLOG-POST-LIST:END -->
 
