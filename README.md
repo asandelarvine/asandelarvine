@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Speculation Rules API: A Guide to Faster Websites](https://dev.to/qostya/the-speculation-rules-api-a-guide-to-faster-websites-43b2)
-- [Didn&#39;t know Git was so useful until I started study it.](https://dev.to/deviggor/didnt-know-git-was-so-useful-until-i-started-study-it-1o9o)
-- [How to create a search input with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-search-input-with-tailwind-css-and-alpinejs-4ccm)
-- [Clean Architecture : Infrastructure vs Core](https://dev.to/nlapointe/clean-architecture-infrastructure-vs-core-492k)
+- [Astro is Amazing](https://dev.to/dayvster/astro-is-amazing-399)
+- [Understanding concurrency in go programming language: goroutines, Channels, WaitGroups and mutexes](https://dev.to/esiebomaj/understanding-concurrency-in-go-programming-language-goroutines-channels-waitgroups-and-mutexes-140m)
+- [Tired of adding sh*tty looking comments on your code? Try this extension](https://dev.to/amanbhoria/tired-of-adding-shtty-looking-comments-on-your-code-try-this-extension-3099)
+- [Mondays in the World of Developers : Share your thoughts!](https://dev.to/respect17/mondays-in-the-world-of-developers-technologist-share-your-thoughts-4246)
 <!-- BLOG-POST-LIST:END -->
 
