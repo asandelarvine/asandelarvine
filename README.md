@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File Encryption in Rust](https://dev.to/vapourisation/file-encryption-in-rust-3kid)
-- [Efficient Multi Cloud Networking Solutions](https://dev.to/getambassador2024/efficient-multi-cloud-networking-solutions-3gco)
-- [Fine-Tuning LLMs: Technical Overview](https://dev.to/admantium/fine-tuning-llms-technical-overview-55pi)
-- [This is the first Chrome extension I built as a hobby](https://dev.to/siumhossain/this-is-the-first-chrome-extension-i-built-as-a-hobby-1op1)
+- [Exploring PostgreSQL jsonpath for Advanced JSON](https://dev.to/dbvismarketing/exploring-postgresql-jsonpath-for-advanced-json-2241)
+- [Your Daily Challenge: What&#39;s the Scary Thing for Today?](https://dev.to/devteam/your-daily-challenge-whats-the-scary-thing-for-today-461i)
+- [Green Software: some thoughts](https://dev.to/giuliano1993/green-software-some-thoughts-nca)
+- [AWS Lambda: Harnessing Serverless Computing](https://dev.to/saumya27/aws-lambda-harnessing-serverless-computing-a4o)
 <!-- BLOG-POST-LIST:END -->
 
