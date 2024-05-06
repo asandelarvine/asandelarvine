@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Market Developer Tools](https://dev.to/jeffmorhous/how-to-market-developer-tools-20f1)
-- [Smoke for pseudo 3d arcade](https://dev.to/bileyg/smoke-for-pseudo-3d-arcade-2ine)
-- [Introduction](https://dev.to/techpepson/introduction-e81)
-- [Improve your productivity with regexp-it-cli](https://dev.to/akgondber/improve-your-productivity-with-regexp-it-cli-4fnp)
+- [AWS — Properly delete messages between Lambdas and SQS Queues](https://dev.to/joehoppe/aws-properly-delete-messages-between-lambdas-and-sqs-queues-41md)
+- [How to Install Drozer using Docker](https://dev.to/olivestem/how-to-install-drozer-using-docker-nmm)
+- [Machine Learning with Scikit-Learn](https://dev.to/kartikmehta8/machine-learning-with-scikit-learn-1f1h)
+- [Rails Designer v0.11.0 released: new Command Menu](https://dev.to/railsdesigner/rails-designer-v0110-released-new-command-menu-1ih0)
 <!-- BLOG-POST-LIST:END -->
 
