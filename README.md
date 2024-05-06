@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Structuring Javascript Code](https://dev.to/donavioli/structuring-javascript-code-4a4n)
-- [Leveraging Brython for Web Development](https://dev.to/saad1926q/leveraging-brython-for-web-development-2eid)
-- [LangChain Memory Management](https://dev.to/rutamstwt/langchain-memory-management-2ogi)
-- [Learn CRO For Developers &lpar;2024 - 2025&rpar;](https://dev.to/elena143/learn-cro-for-developers-2024-2025-oj0)
+- [Top 7 Text-to-Image Generative AI Models](https://dev.to/bybydev/top-7-text-to-image-generative-ai-models-1b44)
+- [Top 10 most asked SQL interview questions along with their answers](https://dev.to/nikhilxd/top-10-most-asked-sql-interview-questions-along-with-their-answers-3amn)
+- [LocalStack - Mock AWS in local development](https://dev.to/ahsanphero2022/localstack-mock-aws-in-local-development-229f)
+- [Threads na linguagem C](https://dev.to/pliniohr/threads-na-linguagem-c-598k)
 <!-- BLOG-POST-LIST:END -->
 
