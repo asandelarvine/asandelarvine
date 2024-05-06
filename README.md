@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Document Object Model](https://dev.to/thetechgirl_ronke/document-object-model-4hai)
-- [Dev Rooms: Collaborative Coding Platform](https://dev.to/dexterxt/dev-rooms-collaborative-coding-platform-166)
-- [Our game progress ~ Basic Rule ~](https://dev.to/takeda1411123/our-game-progress-basic-rule--5h8p)
-- [Case Studies on Strings and Characters](https://dev.to/paulike/case-studies-on-strings-and-characters-1dfh)
+- [Our game progress ~ Mirror Movement ~](https://dev.to/takeda1411123/our-game-progress-mirror-movement--58bm)
+- [🗺️ Neo4J #GraphSummits as data!](https://dev.to/adriens/neo4j-graphsummits-as-data-478l)
+- [Mastering Relational Database Design: A Comprehensive Guide](https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8)
+- [A Comprehensive Guide to Queue Data Structures](https://dev.to/guihbc/a-comprehensive-guide-to-queue-data-structures-439e)
 <!-- BLOG-POST-LIST:END -->
 
