@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop a Font?](https://dev.to/hahahha/how-to-develop-a-font-53cp)
-- [Total.js — UI library](https://dev.to/palo/totaljs-ui-library-2c3n)
-- [Building for Tomorrow: Part 2 of the Web Application Security Series](https://dev.to/techtobe101/building-for-tomorrow-part-2-of-the-web-application-security-series-oaa)
-- [We Might Need an Effect #1](https://dev.to/kanta1207/we-might-need-an-effect-2bg0)
+- [Add Webhook Verification, Queueing, Filtering, and Retry Logic to Any Vercel Deployed Endpoint](https://dev.to/leggetter/add-webhook-verification-queueing-filtering-and-retry-logic-to-any-vercel-deployed-endpoint-4bnp)
+- [Maintainer Monday: Community Care](https://dev.to/opensauced/maintainer-monday-community-care-42ig)
+- [Day 36/366](https://dev.to/vishalmx3/day-36366-ch5)
+- [I created a Kubernetes cluster on AWS EC2 instances](https://dev.to/esuivant/i-created-a-kubernetes-cluster-on-aws-ec2-instances-3idj)
 <!-- BLOG-POST-LIST:END -->
 
