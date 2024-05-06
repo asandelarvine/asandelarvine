@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Text-to-Image Generative AI Models](https://dev.to/bybydev/top-7-text-to-image-generative-ai-models-1b44)
-- [Top 10 most asked SQL interview questions along with their answers](https://dev.to/nikhilxd/top-10-most-asked-sql-interview-questions-along-with-their-answers-3amn)
-- [LocalStack - Mock AWS in local development](https://dev.to/ahsanphero2022/localstack-mock-aws-in-local-development-229f)
-- [Threads na linguagem C](https://dev.to/pliniohr/threads-na-linguagem-c-598k)
+- [Meme Monday](https://dev.to/ben/meme-monday-hc2)
+- [🌝 15 JavaScript frameworks for your next project ⚔](https://dev.to/winglang/15-javascript-frameworks-for-your-next-project-1o7n)
+- [What is a Data Center?](https://dev.to/clouddefenseai/what-is-a-data-center-4bdk)
+- [Enable Edge to Edge in Android Jetpack Compose &lpar;Transparent Status Bar&rpar;](https://dev.to/shivathapaa/enable-edge-to-edge-in-android-jetpack-compose-transparent-status-bar-15dl)
 <!-- BLOG-POST-LIST:END -->
 
