@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The PHP Orkestra Framework](https://dev.to/lucascarvalhopl/the-php-orkestra-framework-2laj)
-- [&lpar;Part 5&rpar;Golang Framework Hands-on - KisFlow Stream Computing Framework-Connector](https://dev.to/aceld/part-5golang-framework-hands-on-kisflow-stream-computing-framework-connector-hcd)
-- [How to Start Learning JavaScript](https://dev.to/thekarlesi/how-to-start-learning-javascript-4p2o)
-- [On Premise Face Recognition SDK and Liveness Detection SDK by FacePlugin](https://dev.to/faceplugin/on-premise-face-recognition-sdk-and-liveness-detection-sdk-by-faceplugin-1mb0)
+- [Mastering Code Quality: Setting Up ESLint with Standard JS in TypeScript Projects](https://dev.to/graezykev/mastering-code-quality-setting-up-eslint-with-standard-js-in-typescript-projects-18gl)
+- [Simplifying Redis Installation with Docker: A Step-by-Step Guide](https://dev.to/srishtikprasad/simplifying-redis-installation-with-docker-a-step-by-step-guide-507e)
+- [JuiceFS 1.2 Beta 1: Gateway Upgrade, Enhanced Multi-User Permission Management](https://dev.to/daswu/juicefs-12-beta-1-gateway-upgrade-enhanced-multi-user-permission-management-3c3a)
+- [Solving a Leetcode problem daily — Day 5 | Diagonal Traverse](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-5-diagonal-traverse-1ckj)
 <!-- BLOG-POST-LIST:END -->
 
