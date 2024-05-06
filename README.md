@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS — Properly delete messages between Lambdas and SQS Queues](https://dev.to/joehoppe/aws-properly-delete-messages-between-lambdas-and-sqs-queues-41md)
-- [How to Install Drozer using Docker](https://dev.to/olivestem/how-to-install-drozer-using-docker-nmm)
-- [Machine Learning with Scikit-Learn](https://dev.to/kartikmehta8/machine-learning-with-scikit-learn-1f1h)
-- [Rails Designer v0.11.0 released: new Command Menu](https://dev.to/railsdesigner/rails-designer-v0110-released-new-command-menu-1ih0)
+- [The PHP Orkestra Framework](https://dev.to/lucascarvalhopl/the-php-orkestra-framework-2laj)
+- [&lpar;Part 5&rpar;Golang Framework Hands-on - KisFlow Stream Computing Framework-Connector](https://dev.to/aceld/part-5golang-framework-hands-on-kisflow-stream-computing-framework-connector-hcd)
+- [How to Start Learning JavaScript](https://dev.to/thekarlesi/how-to-start-learning-javascript-4p2o)
+- [On Premise Face Recognition SDK and Liveness Detection SDK by FacePlugin](https://dev.to/faceplugin/on-premise-face-recognition-sdk-and-liveness-detection-sdk-by-faceplugin-1mb0)
 <!-- BLOG-POST-LIST:END -->
 
