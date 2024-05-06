@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro is Amazing](https://dev.to/dayvster/astro-is-amazing-399)
-- [Understanding concurrency in go programming language: goroutines, Channels, WaitGroups and mutexes](https://dev.to/esiebomaj/understanding-concurrency-in-go-programming-language-goroutines-channels-waitgroups-and-mutexes-140m)
-- [Tired of adding sh*tty looking comments on your code? Try this extension](https://dev.to/amanbhoria/tired-of-adding-shtty-looking-comments-on-your-code-try-this-extension-3099)
-- [Mondays in the World of Developers : Share your thoughts!](https://dev.to/respect17/mondays-in-the-world-of-developers-technologist-share-your-thoughts-4246)
+- [Structuring Javascript Code](https://dev.to/donavioli/structuring-javascript-code-4a4n)
+- [Leveraging Brython for Web Development](https://dev.to/saad1926q/leveraging-brython-for-web-development-2eid)
+- [LangChain Memory Management](https://dev.to/rutamstwt/langchain-memory-management-2ogi)
+- [Learn CRO For Developers &lpar;2024 - 2025&rpar;](https://dev.to/elena143/learn-cro-for-developers-2024-2025-oj0)
 <!-- BLOG-POST-LIST:END -->
 
