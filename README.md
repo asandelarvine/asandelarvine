@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s worse? `NullPointerException` or `try &lpar;error&rpar; {...} catch {// do nothing}`?](https://dev.to/latobibor/whats-worse-nullpointerexception-or-try-error-catch-do-nothing-5002)
-- [W3C Games CG April 2024: GDC](https://dev.to/end3r/w3c-games-cg-april-2024-gdc-3nh0)
-- [A Tale from a Galaxy Far, Far Away](https://dev.to/balagmadhu/a-tale-from-a-galaxy-far-far-away-5797)
-- [Architectural Techniques for React Optimization! Part - 1](https://dev.to/vivekmengu016/architectural-techniques-for-react-optimization-part-1-4dk7)
+- [Document Object Model](https://dev.to/thetechgirl_ronke/document-object-model-4hai)
+- [Dev Rooms: Collaborative Coding Platform](https://dev.to/dexterxt/dev-rooms-collaborative-coding-platform-166)
+- [Our game progress ~ Basic Rule ~](https://dev.to/takeda1411123/our-game-progress-basic-rule--5h8p)
+- [Case Studies on Strings and Characters](https://dev.to/paulike/case-studies-on-strings-and-characters-1dfh)
 <!-- BLOG-POST-LIST:END -->
 
