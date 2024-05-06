@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into the Performance Features of Laravel Herd and ServBay: The Ultimate PHP Development Environment Showdown](https://dev.to/lunamiller/a-deep-dive-into-the-performance-features-of-laravel-herd-and-servbay-the-ultimate-php-development-environment-showdown-4n7g)
-- [Create Your First React App](https://dev.to/kithenry/create-your-first-react-app-5316)
-- [GIT and GITHUB Tutorial](https://dev.to/bbylumi/git-and-github-52bf)
-- [Understand JavaScript &#39;this&#39; keyword in 5 easy steps](https://dev.to/anwar_sadat/understand-javascript-this-keyword-in-5-easy-steps-3166)
+- [Unraveling the Power of Lists in Python: A Comprehensive Guide for Developers](https://dev.to/ekramfl/unraveling-the-power-of-lists-in-python-a-comprehensive-guide-for-developers-i78)
+- [Why Developers Have the Best Community Across Every Industry](https://dev.to/sotergreco/why-developers-have-the-best-community-across-every-industry-3pf5)
+- [AWS Automated Centralized Multi Account Patching](https://dev.to/stintrilamah/aws-automated-centralized-multi-account-patching-50oe)
+- [How the web works](https://dev.to/nas5w/how-the-web-works-1dgj)
 <!-- BLOG-POST-LIST:END -->
 
