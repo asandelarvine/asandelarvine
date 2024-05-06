@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our game progress ~ Mirror Movement ~](https://dev.to/takeda1411123/our-game-progress-mirror-movement--58bm)
-- [🗺️ Neo4J #GraphSummits as data!](https://dev.to/adriens/neo4j-graphsummits-as-data-478l)
-- [Mastering Relational Database Design: A Comprehensive Guide](https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8)
-- [A Comprehensive Guide to Queue Data Structures](https://dev.to/guihbc/a-comprehensive-guide-to-queue-data-structures-439e)
+- [my experience learning python so far in phase 3](https://dev.to/chimichimi123/my-experience-learning-python-so-far-in-phase-3-4aki)
+- [Testing with ReactJS + Typescript, Jest and ViteJS](https://dev.to/nickfane/testing-with-reactjs-typescript-jest-and-vitejs-dlb)
+- [Filesystem API-powered web apps are interesting](https://dev.to/hund/filesystem-api-powered-webapps-are-really-interesting-gp1)
+- [The Document Object Model &lpar;DOM&rpar;](https://dev.to/promiseanuoluwa/the-document-object-model-dom-2gi4)
 <!-- BLOG-POST-LIST:END -->
 
