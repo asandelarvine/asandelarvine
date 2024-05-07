@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python JSON schema](https://dev.to/stefanalfbo/python-json-schema-3o7n)
-- [Get 100 lighthouse performance score with a React app](https://dev.to/mladenstojanovic/get-100-lighthouse-performance-score-with-a-react-app-hc6)
-- [setw&lpar;&rpar; &amp; setfill&lpar;&rpar; | C++ boshlang&#39;ich](https://dev.to/islomali99/setw-setfill-c-boshlangich-4o7p)
-- [cin | C++ boshlang&#39;ich](https://dev.to/islomali99/cin-c-boshlangich-387i)
+- [GRAPHIC DESIGNING](https://dev.to/annasdev06/graphic-designing-1mk8)
+- [Linux Essentials/ Vim](https://dev.to/deadpunnk/linux-essentials-vim-47ke)
+- [SOFTWARE ENGINEERING](https://dev.to/annasdev06/software-engineering-3m4j)
+- [Understanding WebSocket and creating from Scratch with JavaScript](https://dev.to/mayanksahai/understanding-websocket-and-creating-from-scratch-with-javascript-3e92)
 <!-- BLOG-POST-LIST:END -->
 
