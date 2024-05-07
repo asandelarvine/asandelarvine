@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Funemployment 2024](https://dev.to/mraible/funemployment-2024-6gp)
-- [Tips from open-source: Set a maximum time limit on fetch using Promise.race&lpar;&rpar;](https://dev.to/ramunarasinga/tips-from-open-source-set-a-maximum-time-limit-on-fetch-using-promiserace-2kle)
-- [Understanding DAM Storage: The Backbone of Digital Asset Management](https://dev.to/msmith99994/understanding-dam-storage-the-backbone-of-digital-asset-management-2823)
-- [Mantendo seus dados segregados por Padrão](https://dev.to/victorlcampos/mantendo-seus-dados-segregados-por-padrao-3859)
+- [Create a Product Database In 3 Steps](https://dev.to/domfive/create-a-product-database-in-3-steps-1pk9)
+- [Setting Up Service Principle Deployments for Gitlab CI/CD Terraform Virtual Machine Deployments](https://dev.to/frederickollinger/setting-up-service-principle-deployments-for-gitlab-cicd-terraform-virtual-machine-deployments-4ha2)
+- [The Power of UGC Images in Enhancing Brand Engagement](https://dev.to/msmith99994/the-power-of-ugc-images-in-enhancing-brand-engagement-3cg1)
+- [How to Access Real-Time Weather Data in Excel: A Comprehensive Guide](https://dev.to/ericksmith14/how-to-access-real-time-weather-data-in-excel-a-comprehensive-guide-4mda)
 <!-- BLOG-POST-LIST:END -->
 
