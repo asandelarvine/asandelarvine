@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exciting New JavaScript Features in 2024](https://dev.to/hyscaler/exciting-new-javascript-features-in-2024-38lg)
-- [Navigating the Concrete Jungle of APIDays New York 2024](https://dev.to/getambassador2024/navigating-the-concrete-jungle-of-apidays-new-york-2024-3g79)
-- [Streamlining Microservices Management: A Unified Helm Chart Approach](https://dev.to/calinflorescu/streamlining-microservices-management-a-unified-helm-chart-approach-59g7)
-- [Load testing API &lpar;Vanilla PHP vs Laravel vs Go&rpar; with MySQL pessimistic locking](https://dev.to/dkelxldk/load-testing-api-vanilla-php-vs-laravel-vs-go-with-mysql-pessimistic-locking-ppn)
+- [Is this Tiptap Editor Is good For Next Js](https://dev.to/rampawarbaxture/is-this-tiptap-editor-is-good-for-next-js-1ika)
+- [30+ AI libraries you can use for your next project ideas](https://dev.to/copilotkit/30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded)
+- [Have You Ever Stepped Back to Move Forward?](https://dev.to/devteam/have-you-ever-stepped-back-to-move-forward-45j4)
+- [Difference between Apache Kafka, RabbitMQ, and ActiveMQ](https://dev.to/somadevtoo/difference-between-apache-kafka-rabbitmq-and-activemq-4f1k)
 <!-- BLOG-POST-LIST:END -->
 
