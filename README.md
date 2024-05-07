@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming scale challenges with AWS &amp; CloudFront - 5 key takeaways](https://dev.to/ably/overcoming-scale-challenges-with-aws-cloudfront-5-key-takeaways-3gmf)
-- [Elevate - Free Tailwind Business Template](https://dev.to/mikevarenek/elevate-free-tailwind-business-template-452k)
-- [Custom Fonts In React Native: Pro Tip!](https://dev.to/mitchiemt11/custom-fonts-in-react-native-pro-tip-4693)
-- [How To Create A Welcoming Space For New Open Source Contributors](https://dev.to/opensauced/how-to-create-a-welcoming-space-for-new-open-source-contributors-25fd)
+- [Netlify Dynamic Site Challenge : Building blob playground with Netlify Blob](https://dev.to/chintanonweb/netlify-dynamic-site-challenge-building-blob-playground-with-netlify-blob-1im4)
+- [Shoutout to Document360 - An AI-powered knowledge base software ✍](https://dev.to/scofieldidehen/shoutout-to-document360-an-ai-powered-knowledge-base-software-1g1h)
+- [Vue 3 - Recursion with Treeview component](https://dev.to/nassbin/vue-3-recursion-with-treeview-component-3jlj)
+- [Automating CloudFront Cache Invalidation with Lambda: CodePipeline and S3 Events approach](https://dev.to/sammy_cloud/automating-cloudfront-cache-invalidation-with-lambda-codepipeline-and-s3-events-approach-a3j)
 <!-- BLOG-POST-LIST:END -->
 
