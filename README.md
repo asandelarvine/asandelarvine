@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [my experience learning python so far in phase 3](https://dev.to/chimichimi123/my-experience-learning-python-so-far-in-phase-3-4aki)
-- [Testing with ReactJS + Typescript, Jest and ViteJS](https://dev.to/nickfane/testing-with-reactjs-typescript-jest-and-vitejs-dlb)
-- [Filesystem API-powered web apps are interesting](https://dev.to/hund/filesystem-api-powered-webapps-are-really-interesting-gp1)
-- [The Document Object Model &lpar;DOM&rpar;](https://dev.to/promiseanuoluwa/the-document-object-model-dom-2gi4)
+- [OpenBSD 7.3 を 7.4 へ アップグレード](https://dev.to/nabbisen/openbsd-73-wo-74-he-atupuguredo-4kme)
+- [10 Steps to Become a Web Developer](https://dev.to/web_dev_zakaria/10-steps-to-become-a-web-developer-1nco)
+- [VSCode on Android Phone](https://dev.to/annavi11arrea1/vscode-on-android-phone-4i56)
+- [Developing Cross-Platform Apps with Flutter](https://dev.to/kartikmehta8/developing-cross-platform-apps-with-flutter-4gm0)
 <!-- BLOG-POST-LIST:END -->
 
