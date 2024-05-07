@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kanban Methodology: How Kanban Revolutionizes Workflow Management](https://dev.to/productivity/kanban-methodology-how-kanban-revolutionizes-workflow-management-33hb)
-- [Thread Safety C#](https://dev.to/ben-witt/thread-safety-c-3h2p)
-- [Rails Integration Testing with Fixtures: A Practical Approach for Complex Data Sets](https://dev.to/dominik_alberski/rails-integration-testing-with-fixtures-a-practical-approach-for-complex-data-sets-mce)
-- [💵 Why Diversity is important. No, really, actually for real.](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
+- [Deploy an AWS Lambda function using Amazon Q](https://dev.to/aws/deploy-an-aws-lambda-function-using-amazon-q-1ajm)
+- [What is SQL Injection?](https://dev.to/shivamchamoli18/what-is-sql-injection-5f1m)
+- [Releasing LightningChart JS v.5.2](https://dev.to/lightningchart/releasing-lightningchart-js-v52-3c7m)
+- [What is a JWT and why is it not sufficient for fine-grained access control](https://dev.to/spaceblocks/what-is-a-jwt-and-why-is-it-not-sufficient-for-fine-grained-access-control-5aa3)
 <!-- BLOG-POST-LIST:END -->
 
