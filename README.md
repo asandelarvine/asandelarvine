@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [“Implementing AWS Recycle Bin Service for Enhanced Data Recovery”](https://dev.to/prajwal2023/implementing-aws-recycle-bin-service-for-enhanced-data-recovery-863)
-- [From Stage to Snapshot: Unpacking Git&#39;s Index, Blob, &amp; Commit Operations](https://dev.to/siddhantkcode/from-stage-to-snapshot-unpacking-gits-index-blob-commit-operations-3683)
-- [Handing Your Database Over to Users](https://dev.to/e4c5nf3d6/handing-your-data-over-to-users-1g92)
-- [Did you get functional-reactive wrong?](https://dev.to/dariomannu/did-you-get-functional-reactive-wrong-10p0)
+- [Python JSON schema](https://dev.to/stefanalfbo/python-json-schema-3o7n)
+- [Get 100 lighthouse performance score with a React app](https://dev.to/mladenstojanovic/get-100-lighthouse-performance-score-with-a-react-app-hc6)
+- [setw&lpar;&rpar; &amp; setfill&lpar;&rpar; | C++ boshlang&#39;ich](https://dev.to/islomali99/setw-setfill-c-boshlangich-4o7p)
+- [cin | C++ boshlang&#39;ich](https://dev.to/islomali99/cin-c-boshlangich-387i)
 <!-- BLOG-POST-LIST:END -->
 
