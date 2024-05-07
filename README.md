@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to Bubble Sort](https://dev.to/stephbert/an-introduction-to-bubble-sort-288o)
-- [Top 10 Must-Have Productivity Apps for Your Smartphone](https://dev.to/ijassiemartin11/top-10-must-have-productivity-apps-for-your-smartphone-2o9g)
-- [Reducing the Boilerplate for Services Utilizing Subjects in Angular](https://dev.to/bwca/reducing-the-boilerplate-for-services-utilizing-subjects-in-angular-44fp)
-- [Rust Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-cheatsheet-4db9)
+- [Exciting New JavaScript Features in 2024](https://dev.to/hyscaler/exciting-new-javascript-features-in-2024-38lg)
+- [Navigating the Concrete Jungle of APIDays New York 2024](https://dev.to/getambassador2024/navigating-the-concrete-jungle-of-apidays-new-york-2024-3g79)
+- [Streamlining Microservices Management: A Unified Helm Chart Approach](https://dev.to/calinflorescu/streamlining-microservices-management-a-unified-helm-chart-approach-59g7)
+- [Load testing API &lpar;Vanilla PHP vs Laravel vs Go&rpar; with MySQL pessimistic locking](https://dev.to/dkelxldk/load-testing-api-vanilla-php-vs-laravel-vs-go-with-mysql-pessimistic-locking-ppn)
 <!-- BLOG-POST-LIST:END -->
 
