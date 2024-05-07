@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Failure is Required: Understanding Fail-Safe and Fail-Fast Strategies](https://dev.to/codenameone/failure-is-required-understanding-fail-safe-and-fail-fast-strategies-2kpk)
-- [Debugando elementos que desaparem rapidamente da página.](https://dev.to/araujosnathan/debugando-elementos-que-desaparem-rapidamente-da-pagina-56i7)
-- [Exploring Data Warehousing and ELT Tools](https://dev.to/janeth/what-is-data-warehousing-4a1k)
-- [Learning AWS day by Day - Day 58 - Amazon API Gateway](https://dev.to/rksalo88/learning-aws-day-by-day-day-58-amazon-api-gateway-59in)
+- [Improved-Barnacle repository: &lpar;The Cleanup Python Script&rpar;](https://dev.to/charudatta10/improved-barnacle-repository-the-cleanup-python-script-172d)
+- [What i actually do to stay productive](https://dev.to/fullstackdev/what-i-actually-do-to-stay-productive-34np)
+- [Tetris Development #6 - Risk and Reward](https://dev.to/xzzz3/tetris-development-6-risk-and-reward-1ge0)
+- [What are single page apps, really?](https://dev.to/nas5w/what-are-single-page-apps-really-3cf4)
 <!-- BLOG-POST-LIST:END -->
 
