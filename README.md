@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Module not found: Can&#39;t resolve &#39;pino-pretty&#39;](https://dev.to/dinhkhai0201/module-not-found-cant-resolve-pino-pretty-g6)
-- [Securing Remix Apps with Keycloak](https://dev.to/phasetwo/securing-remix-apps-with-keycloak-43mc)
-- [Advanced Git Techniques: Rebasing and Working with Remotes – Part 3](https://dev.to/dipakahirav/advanced-git-techniques-rebasing-and-working-with-remotes-part-3-2n68)
-- [Dimension alignment](https://dev.to/esproc_spl/dimension-alignment-82m)
+- [Unlocking the Power of React: Demystifying Client-Side and Server-Side Rendering with Practical Examples](https://dev.to/karthik_n/unlocking-the-power-of-react-demystifying-client-side-and-server-side-rendering-with-practical-examples-2ogd)
+- [Automation: Holidays](https://dev.to/zachnology/automation-holidays-504a)
+- [The Infrastructure Iceberg](https://dev.to/zachnology/the-infrastructure-iceberg-ede)
+- [Part 2: Comprehensive Guide to Django Models](https://dev.to/kihuni/part-2-comprehensive-guide-to-django-models-pol)
 <!-- BLOG-POST-LIST:END -->
 
