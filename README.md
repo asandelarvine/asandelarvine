@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy an AWS Lambda function using Amazon Q](https://dev.to/aws/deploy-an-aws-lambda-function-using-amazon-q-1ajm)
-- [What is SQL Injection?](https://dev.to/shivamchamoli18/what-is-sql-injection-5f1m)
-- [Releasing LightningChart JS v.5.2](https://dev.to/lightningchart/releasing-lightningchart-js-v52-3c7m)
-- [What is a JWT and why is it not sufficient for fine-grained access control](https://dev.to/spaceblocks/what-is-a-jwt-and-why-is-it-not-sufficient-for-fine-grained-access-control-5aa3)
+- [What to use parquet or CSV?](https://dev.to/hiteshchawla/what-to-use-parquet-or-csv-3bp7)
+- [The Complete Guide to API Rate Limiting](https://dev.to/orhillel/the-complete-guide-to-api-rate-limiting-39gm)
+- [How to use git between devices?](https://dev.to/daunderworks/how-to-use-git-between-devices-3ggo)
+- [A lightweight YugabyteDB docker image for CI/CD](https://dev.to/yugabyte/a-lightweight-yugabytedb-docker-image-for-cicd-3na8)
 <!-- BLOG-POST-LIST:END -->
 
