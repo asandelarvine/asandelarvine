@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# In Practice — Building Tech Support App](https://dev.to/turalsuleymani/c-in-practice-building-tech-support-app-3e98)
-- [DOM... What is it?](https://dev.to/yhuteemoren/dom-what-is-it-3nop)
-- [E-commerce checkout components built with Tailwind CSS and Flowbite](https://dev.to/themesberg/e-commerce-checkout-components-built-with-tailwind-css-and-flowbite-3h6e)
-- [Quick tip: How to Build Local LLM Apps with Ollama and SingleStore](https://dev.to/singlestore/quick-tip-how-to-build-local-llm-apps-with-ollama-and-singlestore-5h1)
+- [Failure is Required: Understanding Fail-Safe and Fail-Fast Strategies](https://dev.to/codenameone/failure-is-required-understanding-fail-safe-and-fail-fast-strategies-2kpk)
+- [Debugando elementos que desaparem rapidamente da página.](https://dev.to/araujosnathan/debugando-elementos-que-desaparem-rapidamente-da-pagina-56i7)
+- [Exploring Data Warehousing and ELT Tools](https://dev.to/janeth/what-is-data-warehousing-4a1k)
+- [Learning AWS day by Day - Day 58 - Amazon API Gateway](https://dev.to/rksalo88/learning-aws-day-by-day-day-58-amazon-api-gateway-59in)
 <!-- BLOG-POST-LIST:END -->
 
