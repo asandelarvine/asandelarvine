@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Dynamic Site Challenge : Building blob playground with Netlify Blob](https://dev.to/chintanonweb/netlify-dynamic-site-challenge-building-blob-playground-with-netlify-blob-1im4)
-- [Shoutout to Document360 - An AI-powered knowledge base software ✍](https://dev.to/scofieldidehen/shoutout-to-document360-an-ai-powered-knowledge-base-software-1g1h)
-- [Vue 3 - Recursion with Treeview component](https://dev.to/nassbin/vue-3-recursion-with-treeview-component-3jlj)
-- [Automating CloudFront Cache Invalidation with Lambda: CodePipeline and S3 Events approach](https://dev.to/sammy_cloud/automating-cloudfront-cache-invalidation-with-lambda-codepipeline-and-s3-events-approach-a3j)
+- [Speech Recognition with Python &amp; CMU Sphinx](https://dev.to/weseek-inc/speech-recognition-with-python-cmu-sphinx-3djg)
+- [AutofacServiceProviderFactory in ASP.NET Core – Problems With Dependency Injection &lpar;Part 1&rpar;](https://dev.to/devleader/autofacserviceproviderfactory-in-aspnet-core-problems-with-dependency-injection-part-1-44de)
+- [How API Testing Ensures the Reliability of Applications](https://dev.to/talenttinaapi/how-api-testing-ensures-the-reliability-of-applications-2e1h)
+- [Ruby Array Methods That Will Blow Your Mind, Pt. 5: The rejected ones](https://dev.to/repiki/ruby-array-methods-that-will-blow-your-mind-pt-5-the-rejected-ones-566f)
 <!-- BLOG-POST-LIST:END -->
 
