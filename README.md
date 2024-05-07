@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improved-Barnacle repository: &lpar;The Cleanup Python Script&rpar;](https://dev.to/charudatta10/improved-barnacle-repository-the-cleanup-python-script-172d)
-- [What i actually do to stay productive](https://dev.to/fullstackdev/what-i-actually-do-to-stay-productive-34np)
-- [Tetris Development #6 - Risk and Reward](https://dev.to/xzzz3/tetris-development-6-risk-and-reward-1ge0)
-- [What are single page apps, really?](https://dev.to/nas5w/what-are-single-page-apps-really-3cf4)
+- [“Implementing AWS Recycle Bin Service for Enhanced Data Recovery”](https://dev.to/prajwal2023/implementing-aws-recycle-bin-service-for-enhanced-data-recovery-863)
+- [From Stage to Snapshot: Unpacking Git&#39;s Index, Blob, &amp; Commit Operations](https://dev.to/siddhantkcode/from-stage-to-snapshot-unpacking-gits-index-blob-commit-operations-3683)
+- [Handing Your Database Over to Users](https://dev.to/e4c5nf3d6/handing-your-data-over-to-users-1g92)
+- [Did you get functional-reactive wrong?](https://dev.to/dariomannu/did-you-get-functional-reactive-wrong-10p0)
 <!-- BLOG-POST-LIST:END -->
 
