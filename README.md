@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech notes 01 - Default Constructor and User-Defined Constructor in Java](https://dev.to/omar99/tech-notes-01-default-constructor-and-user-defined-constructor-in-java-2op3)
-- [Data scientist Job Description](https://dev.to/hiringgo/data-scientist-job-description-4i19)
-- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-87c)
-- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-1pkn)
+- [Overcoming scale challenges with AWS &amp; CloudFront - 5 key takeaways](https://dev.to/ably/overcoming-scale-challenges-with-aws-cloudfront-5-key-takeaways-3gmf)
+- [Elevate - Free Tailwind Business Template](https://dev.to/mikevarenek/elevate-free-tailwind-business-template-452k)
+- [Custom Fonts In React Native: Pro Tip!](https://dev.to/mitchiemt11/custom-fonts-in-react-native-pro-tip-4693)
+- [How To Create A Welcoming Space For New Open Source Contributors](https://dev.to/opensauced/how-to-create-a-welcoming-space-for-new-open-source-contributors-25fd)
 <!-- BLOG-POST-LIST:END -->
 
