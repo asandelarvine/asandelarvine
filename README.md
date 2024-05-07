@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to use parquet or CSV?](https://dev.to/hiteshchawla/what-to-use-parquet-or-csv-3bp7)
-- [The Complete Guide to API Rate Limiting](https://dev.to/orhillel/the-complete-guide-to-api-rate-limiting-39gm)
-- [How to use git between devices?](https://dev.to/daunderworks/how-to-use-git-between-devices-3ggo)
-- [A lightweight YugabyteDB docker image for CI/CD](https://dev.to/yugabyte/a-lightweight-yugabytedb-docker-image-for-cicd-3na8)
+- [Tech notes 01 - Default Constructor and User-Defined Constructor in Java](https://dev.to/omar99/tech-notes-01-default-constructor-and-user-defined-constructor-in-java-2op3)
+- [Data scientist Job Description](https://dev.to/hiringgo/data-scientist-job-description-4i19)
+- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-87c)
+- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-1pkn)
 <!-- BLOG-POST-LIST:END -->
 
