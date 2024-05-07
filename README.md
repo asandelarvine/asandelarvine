@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of React: Demystifying Client-Side and Server-Side Rendering with Practical Examples](https://dev.to/karthik_n/unlocking-the-power-of-react-demystifying-client-side-and-server-side-rendering-with-practical-examples-2ogd)
-- [Automation: Holidays](https://dev.to/zachnology/automation-holidays-504a)
-- [The Infrastructure Iceberg](https://dev.to/zachnology/the-infrastructure-iceberg-ede)
-- [Part 2: Comprehensive Guide to Django Models](https://dev.to/kihuni/part-2-comprehensive-guide-to-django-models-pol)
+- [An Introduction to Bubble Sort](https://dev.to/stephbert/an-introduction-to-bubble-sort-288o)
+- [Top 10 Must-Have Productivity Apps for Your Smartphone](https://dev.to/ijassiemartin11/top-10-must-have-productivity-apps-for-your-smartphone-2o9g)
+- [Reducing the Boilerplate for Services Utilizing Subjects in Angular](https://dev.to/bwca/reducing-the-boilerplate-for-services-utilizing-subjects-in-angular-44fp)
+- [Rust Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-cheatsheet-4db9)
 <!-- BLOG-POST-LIST:END -->
 
