@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD 7.3 を 7.4 へ アップグレード](https://dev.to/nabbisen/openbsd-73-wo-74-he-atupuguredo-4kme)
-- [10 Steps to Become a Web Developer](https://dev.to/web_dev_zakaria/10-steps-to-become-a-web-developer-1nco)
-- [VSCode on Android Phone](https://dev.to/annavi11arrea1/vscode-on-android-phone-4i56)
-- [Developing Cross-Platform Apps with Flutter](https://dev.to/kartikmehta8/developing-cross-platform-apps-with-flutter-4gm0)
+- [Day 2 : Setting up the React Environment](https://dev.to/dipakahirav/day-2-setting-up-the-react-environment-3pal)
+- [How I discovered Named Entity Recognition while trying to remove gibberish from a string.](https://dev.to/saintpetejackboy/how-i-discovered-named-entity-recognition-while-trying-to-remove-gibberish-from-a-string-3243)
+- [What Is API Sprawl? How to Prevent API Sprawl?](https://dev.to/apisix/what-is-api-sprawl-how-to-prevent-api-sprawl-4j5n)
+- [Laravel 11 Vue 3 Inertia](https://dev.to/dancruise/laravel-11-vue-3-inertia-nno)
 <!-- BLOG-POST-LIST:END -->
 
