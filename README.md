@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this Tiptap Editor Is good For Next Js](https://dev.to/rampawarbaxture/is-this-tiptap-editor-is-good-for-next-js-1ika)
-- [30+ AI libraries you can use for your next project ideas](https://dev.to/copilotkit/30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded)
-- [Have You Ever Stepped Back to Move Forward?](https://dev.to/devteam/have-you-ever-stepped-back-to-move-forward-45j4)
-- [Difference between Apache Kafka, RabbitMQ, and ActiveMQ](https://dev.to/somadevtoo/difference-between-apache-kafka-rabbitmq-and-activemq-4f1k)
+- [Kanban Methodology: How Kanban Revolutionizes Workflow Management](https://dev.to/productivity/kanban-methodology-how-kanban-revolutionizes-workflow-management-33hb)
+- [Thread Safety C#](https://dev.to/ben-witt/thread-safety-c-3h2p)
+- [Rails Integration Testing with Fixtures: A Practical Approach for Complex Data Sets](https://dev.to/dominik_alberski/rails-integration-testing-with-fixtures-a-practical-approach-for-complex-data-sets-mce)
+- [💵 Why Diversity is important. No, really, actually for real.](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
 <!-- BLOG-POST-LIST:END -->
 
