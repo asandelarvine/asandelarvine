@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating AI Apps Using RAG &amp; LangChain: A Step-by-Step Developer Guide!](https://dev.to/pavanbelagatti/creating-ai-apps-using-rag-langchain-a-step-by-step-developer-guide-2cd7)
-- [The First Step in My Career: Am I Ready to Start Job Hunting in Programming?](https://dev.to/nataliahavashi/the-first-step-in-my-career-am-i-ready-to-start-job-hunting-in-programming-5agj)
-- [Producing Invoice Reports with the Blazor Server Application](https://dev.to/boldreports/producing-invoice-reports-with-the-blazor-server-application-3jgn)
-- [Error when Implementing Conversation Creation Method Similar to OpenAI&#39;s ChatGPT: Cannot Read Properties of Null](https://dev.to/lccua/error-when-implementing-conversation-creation-method-similar-to-openais-chatgpt-cannot-read-properties-of-null-3ndk)
+- [Descomplicando a Configuração de Producers e Consumers com Kafka](https://dev.to/jjeanjacques10/descomplicando-a-configuracao-de-producers-e-consumers-com-kafka-nj8)
+- [SQL Join Types Explained: Inner, Outer, and More in 2024](https://dev.to/nikhilxd/sql-join-types-explained-inner-outer-and-more-in-2024-cki)
+- [Wasp x Supabase: Smokin’ Hot Full-Stack Combo 🌶️ 🔥](https://dev.to/wasp/wasp-x-supabase-smokin-hot-full-stack-combo-ioe)
+- [Unlocking Performance of Enabling Intel Application Optimization on MSI Motherboard](https://dev.to/thetechbasic/unlocking-performance-of-enabling-intel-application-optimization-on-msi-motherboard-1gbl)
 <!-- BLOG-POST-LIST:END -->
 
