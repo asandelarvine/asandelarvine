@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Flutter QR Code Scanner with Swift and AVFoundation for iOS](https://dev.to/yushulx/implementing-flutter-qr-code-scanner-with-swift-and-avfoundation-for-ios-pkh)
-- [Her - OS1 Loading](https://dev.to/__244a89a3b6d95e0f01f5/her-os1-loading-2b6c)
-- [Struggling with Inventory Management? This Might Help!](https://dev.to/harshitlyzr/struggling-with-inventory-management-this-might-help-5aa)
-- [LangChain Chains: Simple to Advanced Workflows](https://dev.to/rutamstwt/langchain-chains-simple-to-advanced-workflows-17n4)
+- [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
+- [C# dasturlash tilining umumiy tuzilishi.](https://dev.to/ozodbek_soft/c-dasturlash-tilining-umumiy-tuzilishi-3b5e)
+- [How GetX State Management Library Works in Flutter](https://dev.to/codetradeindia/how-getx-state-management-library-works-in-flutter-3on8)
+- [Setting up older mac mini](https://dev.to/codehiccups/setting-up-older-mac-mini-1124)
 <!-- BLOG-POST-LIST:END -->
 
