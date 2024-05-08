@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
-- [C# dasturlash tilining umumiy tuzilishi.](https://dev.to/ozodbek_soft/c-dasturlash-tilining-umumiy-tuzilishi-3b5e)
-- [How GetX State Management Library Works in Flutter](https://dev.to/codetradeindia/how-getx-state-management-library-works-in-flutter-3on8)
-- [Setting up older mac mini](https://dev.to/codehiccups/setting-up-older-mac-mini-1124)
+- [Learn Tauri by Doing - Part 2: First method and APIs call](https://dev.to/giuliano1993/learn-tauri-by-doing-part-2-first-method-and-apis-call-jmh)
+- [How to get CMS in any Next app with one line](https://dev.to/anmolbaranwal/how-to-get-cms-in-any-next-app-with-one-line-2mjp)
+- [Exploring JavaScript Closures: Practical Examples and Insights](https://dev.to/chintanonweb/exploring-javascript-closures-practical-examples-and-insights-49dl)
+- [Print Digits of a number Beginners Coding Problem [Day-01]](https://dev.to/isjasrajchouhan/print-digits-of-a-number-beginners-coding-problem-day-01-448b)
 <!-- BLOG-POST-LIST:END -->
 
