@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First Browser Game with Three.js and React: Part 1 - Getting Started](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-1-getting-started-ife)
-- [A spooky tale of overprovisioning with Amazon DynamoDB and Redis](https://dev.to/momentohq/a-spooky-tale-of-overprovisioning-with-amazon-dynamodb-and-redis-21nj)
-- [Add a custom color to your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-color-to-your-xcode-project-1p)
-- [Notes on The Every Computer Performance Book](https://dev.to/bitmaybewise/notes-on-the-every-computer-performance-book-2l1m)
+- [Check for newer versions of dependencies in pom.xml](https://dev.to/adzubla/check-for-newer-versions-of-dependencies-in-pomxml-21n3)
+- [5 Tips for Junior Node Js Developers](https://dev.to/olaf_ranai/5-tips-for-junior-node-js-developers-4mc2)
+- [The Impact of Video Editing on eCommerce Success](https://dev.to/msmith99994/the-impact-of-video-editing-on-ecommerce-success-4gci)
+- [The Crossover of Health, Technology and Art: CodeNewbie Podcast S27E6](https://dev.to/codenewbieteam/the-crossover-of-health-technology-and-art-codenewbie-podcast-s27e6-4g1c)
 <!-- BLOG-POST-LIST:END -->
 
