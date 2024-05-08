@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate CKA Mock Exam!](https://dev.to/fahmi/ultimate-cka-mock-exam-25pi)
-- [DSA vs. Development, Confused?](https://dev.to/devmarket/dsa-vs-development-confused-176h)
-- [Infinite horizontal scroll, vanilla CSS](https://dev.to/neophen/infinite-horizontal-scroll-vanilla-css-5d7g)
-- [Why Compliance Testing In Digital Transformation Is Vital](https://dev.to/misterankit/why-compliance-testing-in-digital-transformation-is-vital-f4o)
+- [Implementing Flutter QR Code Scanner with Swift and AVFoundation for iOS](https://dev.to/yushulx/implementing-flutter-qr-code-scanner-with-swift-and-avfoundation-for-ios-pkh)
+- [Her - OS1 Loading](https://dev.to/__244a89a3b6d95e0f01f5/her-os1-loading-2b6c)
+- [Struggling with Inventory Management? This Might Help!](https://dev.to/harshitlyzr/struggling-with-inventory-management-this-might-help-5aa)
+- [LangChain Chains: Simple to Advanced Workflows](https://dev.to/rutamstwt/langchain-chains-simple-to-advanced-workflows-17n4)
 <!-- BLOG-POST-LIST:END -->
 
