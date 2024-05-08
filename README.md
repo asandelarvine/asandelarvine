@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the web works: page loading and beyond](https://dev.to/udoka033/how-the-web-works-page-loading-and-beyond-4jd6)
-- [Exploring the &quot;Requester Pays&quot; Feature for AWS S3 Buckets. Use Cases and Cost Analysis](https://dev.to/aws-builders/exploring-the-requester-pays-feature-for-aws-s3-buckets-use-cases-and-cost-analysis-3jk4)
-- [Where do you find remote backend roles?](https://dev.to/kaperskyguru/where-do-you-find-remote-backend-roles-2a3f)
-- [Daily LeetCode Problems: 779 :K-th Symbol in Grammar](https://dev.to/gsanjeewa77/daily-leetcode-problems-779-k-th-symbol-in-grammar-5he6)
+- [Power Automate Desktop Flow Local Folder](https://dev.to/01kg/power-automate-desktop-flow-local-folder-2aa5)
+- [Bespoke vs Off-the-Shelf: Choosing the Right Solution for Your Technical Needs](https://dev.to/saumya27/bespoke-vs-off-the-shelf-choosing-the-right-solution-for-your-technical-needs-4n50)
+- [EmuHub: Simplify Android App Testing with Multiple Emulators](https://dev.to/mohamed-helmy/emuhub-simplify-android-app-testing-with-multiple-emulators-4njo)
+- [What is &quot;User-Defined Type Guard&quot; in TypeScript?](https://dev.to/keento0809/what-is-user-defined-type-guard-in-typescript-423i)
 <!-- BLOG-POST-LIST:END -->
 
