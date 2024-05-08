@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 is Coming, What’s New?](https://dev.to/safdarali/react-19-is-coming-whats-new-3noj)
-- [Unpacking DNS in Kubernetes: How It Works and Why It Matters](https://dev.to/rajeshgheware/unpacking-dns-in-kubernetes-how-it-works-and-why-it-matters-2h63)
-- [Facebook Logo and the History Behind the Company](https://dev.to/pngwing/facebook-logo-and-the-history-behind-the-company-1gbo)
-- [Ensuring High Availability in Financial Services: A Deep Dive into Kubernetes PodDisruptionBudget](https://dev.to/rajeshgheware/ensuring-high-availability-in-financial-services-a-deep-dive-into-kubernetes-poddisruptionbudget-1c0b)
+- [Accessibility Breakdown](https://dev.to/devsatasurion/accessibility-breakdown-5c65)
+- [Giving Odin Vision](https://dev.to/yevhenk/giving-odin-vision-1fd5)
+- [Mastering Favicon Implementation: A Comprehensive Guide.](https://dev.to/be_rajeevkumar/mastering-favicon-implementation-a-comprehensive-guide-1a85)
+- [[Java] Get file list from specified directory](https://dev.to/masanori_msl/java-get-file-list-from-specified-directory-55eg)
 <!-- BLOG-POST-LIST:END -->
 
