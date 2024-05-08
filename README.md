@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Proposal to Add Signals to JavaScript: A Mistake?](https://dev.to/joshuaamaju/a-proposal-to-add-signals-to-javascript-a-mistake-985)
-- [Mastering CQRS Design Pattern with MediatR in C# .NET](https://dev.to/dianaiminza/mastering-cqrs-design-pattern-with-mediatr-in-c-net-khk)
-- [KYC: What is it and How Does it Work?](https://dev.to/luxandcloud/kyc-what-is-it-and-how-does-it-work-2chp)
-- [News: Deepfake of a Popular Blogger Used to Sell Counterfeit Brand Clothing](https://dev.to/luxandcloud/news-deepfake-of-a-popular-blogger-used-to-sell-counterfeit-brand-clothing-55k8)
+- [Creating AI Apps Using RAG &amp; LangChain: A Step-by-Step Developer Guide!](https://dev.to/pavanbelagatti/creating-ai-apps-using-rag-langchain-a-step-by-step-developer-guide-2cd7)
+- [The First Step in My Career: Am I Ready to Start Job Hunting in Programming?](https://dev.to/nataliahavashi/the-first-step-in-my-career-am-i-ready-to-start-job-hunting-in-programming-5agj)
+- [Producing Invoice Reports with the Blazor Server Application](https://dev.to/boldreports/producing-invoice-reports-with-the-blazor-server-application-3jgn)
+- [Error when Implementing Conversation Creation Method Similar to OpenAI&#39;s ChatGPT: Cannot Read Properties of Null](https://dev.to/lccua/error-when-implementing-conversation-creation-method-similar-to-openais-chatgpt-cannot-read-properties-of-null-3ndk)
 <!-- BLOG-POST-LIST:END -->
 
