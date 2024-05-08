@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Tauri by Doing - Part 2: First method and APIs call](https://dev.to/giuliano1993/learn-tauri-by-doing-part-2-first-method-and-apis-call-jmh)
-- [How to get CMS in any Next app with one line](https://dev.to/anmolbaranwal/how-to-get-cms-in-any-next-app-with-one-line-2mjp)
-- [Exploring JavaScript Closures: Practical Examples and Insights](https://dev.to/chintanonweb/exploring-javascript-closures-practical-examples-and-insights-49dl)
-- [Print Digits of a number Beginners Coding Problem [Day-01]](https://dev.to/isjasrajchouhan/print-digits-of-a-number-beginners-coding-problem-day-01-448b)
+- [A Proposal to Add Signals to JavaScript: A Mistake?](https://dev.to/joshuaamaju/a-proposal-to-add-signals-to-javascript-a-mistake-985)
+- [Mastering CQRS Design Pattern with MediatR in C# .NET](https://dev.to/dianaiminza/mastering-cqrs-design-pattern-with-mediatr-in-c-net-khk)
+- [KYC: What is it and How Does it Work?](https://dev.to/luxandcloud/kyc-what-is-it-and-how-does-it-work-2chp)
+- [News: Deepfake of a Popular Blogger Used to Sell Counterfeit Brand Clothing](https://dev.to/luxandcloud/news-deepfake-of-a-popular-blogger-used-to-sell-counterfeit-brand-clothing-55k8)
 <!-- BLOG-POST-LIST:END -->
 
