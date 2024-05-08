@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizing git to make Rust development even sweatier](https://dev.to/askepit/utilizing-git-to-make-rust-development-even-sweatier-2b67)
-- [Encode/Decode emojis into/from base64](https://dev.to/davychxn/encodedecode-emojis-intofrom-base64-3i3)
-- [The Best UX Research Sites for Developers/Designers Inspirations](https://dev.to/renancferro/the-best-ux-research-sites-for-developersdesigners-inspirations-2d0a)
-- [Overcoming Docker Installation Woes on Windows Server 2019 for Lambda Function Testing](https://dev.to/prachibhende/overcoming-docker-installation-woes-on-windows-server-2019-for-lambda-function-testing-3omh)
+- [Nice Froala colour palette](https://dev.to/marwelz/nice-froala-colour-palette-4bbj)
+- [What I do when learning a new framework/language](https://dev.to/kervyntjw/what-i-do-when-learning-a-new-frameworklanguage-2p3a)
+- [Track Unique User Visits and Match with Purchases](https://dev.to/karakhanyans/track-unique-user-visits-and-match-with-purchases-1idj)
+- [Apple Logic Pro 11: A New Era in AI Music Creation](https://dev.to/hyscaler/apple-logic-pro-11-a-new-era-in-ai-music-creation-3dg3)
 <!-- BLOG-POST-LIST:END -->
 
