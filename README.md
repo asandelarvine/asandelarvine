@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Autofac ContainerBuilder in ASP.NET Core – What You Need To Know](https://dev.to/devleader/autofac-containerbuilder-in-aspnet-core-what-you-need-to-know-475e)
-- [How to Use Smart Contracts on Blockchain in Influence Marketing](https://dev.to/crossnetics/how-to-use-smart-contracts-on-blockchain-in-influence-marketing-23fk)
-- [The Sweet Taste of Victory!](https://dev.to/bbylumi/the-sweet-taste-of-victory-28h0)
-- [What is laser scanning?](https://dev.to/tmoss/what-is-laser-scanning-4g7h)
+- [Build a Todo Application Using ToolJet and ToolJetDB](https://dev.to/asjadkhan/build-a-todo-application-using-tooljet-and-tooljetdb-3fbp)
+- [Bra Asks Yangfei Chao: Who Owns the Copyright to Novels Written by AI?](https://dev.to/naizhao/bra-asks-yangfei-chao-who-owns-the-copyright-to-novels-written-by-ai-1ld8)
+- [How Can You Maximize Efficiency with Inspect Element on iPhone?](https://dev.to/jennife05918349/how-can-you-maximize-efficiency-with-inspect-element-on-iphone-4jh3)
+- [This Little kubernetes Port Forwarder Helped me to Save a lot of Time and Headache](https://dev.to/donnercody/this-little-kubernetes-port-forwarder-helped-me-to-save-a-lot-of-time-and-headache-1ba9)
 <!-- BLOG-POST-LIST:END -->
 
