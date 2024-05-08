@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Descomplicando a Configuração de Producers e Consumers com Kafka](https://dev.to/jjeanjacques10/descomplicando-a-configuracao-de-producers-e-consumers-com-kafka-nj8)
-- [SQL Join Types Explained: Inner, Outer, and More in 2024](https://dev.to/nikhilxd/sql-join-types-explained-inner-outer-and-more-in-2024-cki)
-- [Wasp x Supabase: Smokin’ Hot Full-Stack Combo 🌶️ 🔥](https://dev.to/wasp/wasp-x-supabase-smokin-hot-full-stack-combo-ioe)
-- [Unlocking Performance of Enabling Intel Application Optimization on MSI Motherboard](https://dev.to/thetechbasic/unlocking-performance-of-enabling-intel-application-optimization-on-msi-motherboard-1gbl)
+- [Utilizing git to make Rust development even sweatier](https://dev.to/askepit/utilizing-git-to-make-rust-development-even-sweatier-2b67)
+- [Encode/Decode emojis into/from base64](https://dev.to/davychxn/encodedecode-emojis-intofrom-base64-3i3)
+- [The Best UX Research Sites for Developers/Designers Inspirations](https://dev.to/renancferro/the-best-ux-research-sites-for-developersdesigners-inspirations-2d0a)
+- [Overcoming Docker Installation Woes on Windows Server 2019 for Lambda Function Testing](https://dev.to/prachibhende/overcoming-docker-installation-woes-on-windows-server-2019-for-lambda-function-testing-3omh)
 <!-- BLOG-POST-LIST:END -->
 
