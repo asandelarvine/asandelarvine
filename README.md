@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate Desktop Flow Local Folder](https://dev.to/01kg/power-automate-desktop-flow-local-folder-2aa5)
-- [Bespoke vs Off-the-Shelf: Choosing the Right Solution for Your Technical Needs](https://dev.to/saumya27/bespoke-vs-off-the-shelf-choosing-the-right-solution-for-your-technical-needs-4n50)
-- [EmuHub: Simplify Android App Testing with Multiple Emulators](https://dev.to/mohamed-helmy/emuhub-simplify-android-app-testing-with-multiple-emulators-4njo)
-- [What is &quot;User-Defined Type Guard&quot; in TypeScript?](https://dev.to/keento0809/what-is-user-defined-type-guard-in-typescript-423i)
+- [Design Research Methodology in Information Technology](https://dev.to/okyzaprabowo/design-research-methodology-in-information-technology-3mgc)
+- [Image Gallery](https://dev.to/jalpster/image-gallery-585e)
+- [You are a Senior Engineer, now what? &lpar;Part 1&rpar;](https://dev.to/alexandreamadocastro/you-are-a-senior-engineer-now-what-part-1-4bih)
+- [why .txt files in next.js build of new App structure?](https://dev.to/rajasekhar27/why-txt-files-in-nextjs-build-of-new-app-structure-34dk)
 <!-- BLOG-POST-LIST:END -->
 
