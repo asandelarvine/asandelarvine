@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How machines Learn: A look into machine learning.](https://dev.to/fullstackdev/how-machines-learn-a-look-into-machine-learning-47gj)
-- [Creating an Instagram post with multiple photos](https://dev.to/carriefischer/creating-an-instagram-post-with-multiple-photos-29i9)
-- [Compatibility Testing: Everything You Need to Know](https://dev.to/morrismoses149/compatibility-testing-everything-you-need-to-know-321e)
-- [Minimizing Numeric Errors](https://dev.to/paulike/minimizing-numeric-errors-37mh)
+- [Building Your First Browser Game with Three.js and React: Part 1 - Getting Started](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-1-getting-started-ife)
+- [A spooky tale of overprovisioning with Amazon DynamoDB and Redis](https://dev.to/momentohq/a-spooky-tale-of-overprovisioning-with-amazon-dynamodb-and-redis-21nj)
+- [Add a custom color to your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-color-to-your-xcode-project-1p)
+- [Notes on The Every Computer Performance Book](https://dev.to/bitmaybewise/notes-on-the-every-computer-performance-book-2l1m)
 <!-- BLOG-POST-LIST:END -->
 
