@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Product Database In 3 Steps](https://dev.to/domfive/create-a-product-database-in-3-steps-1pk9)
-- [Setting Up Service Principle Deployments for Gitlab CI/CD Terraform Virtual Machine Deployments](https://dev.to/frederickollinger/setting-up-service-principle-deployments-for-gitlab-cicd-terraform-virtual-machine-deployments-4ha2)
-- [The Power of UGC Images in Enhancing Brand Engagement](https://dev.to/msmith99994/the-power-of-ugc-images-in-enhancing-brand-engagement-3cg1)
-- [How to Access Real-Time Weather Data in Excel: A Comprehensive Guide](https://dev.to/ericksmith14/how-to-access-real-time-weather-data-in-excel-a-comprehensive-guide-4mda)
+- [Introduction to Low-Code Development Platforms](https://dev.to/kartikmehta8/introduction-to-low-code-development-platforms-2fj5)
+- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-4ckg)
+- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-e54)
+- [Welcome Thread - v275](https://dev.to/devteam/welcome-thread-v275-5a9f)
 <!-- BLOG-POST-LIST:END -->
 
