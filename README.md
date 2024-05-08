@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Todo Application Using ToolJet and ToolJetDB](https://dev.to/asjadkhan/build-a-todo-application-using-tooljet-and-tooljetdb-3fbp)
-- [Bra Asks Yangfei Chao: Who Owns the Copyright to Novels Written by AI?](https://dev.to/naizhao/bra-asks-yangfei-chao-who-owns-the-copyright-to-novels-written-by-ai-1ld8)
-- [How Can You Maximize Efficiency with Inspect Element on iPhone?](https://dev.to/jennife05918349/how-can-you-maximize-efficiency-with-inspect-element-on-iphone-4jh3)
-- [This Little kubernetes Port Forwarder Helped me to Save a lot of Time and Headache](https://dev.to/donnercody/this-little-kubernetes-port-forwarder-helped-me-to-save-a-lot-of-time-and-headache-1ba9)
+- [React 19 is Coming, What’s New?](https://dev.to/safdarali/react-19-is-coming-whats-new-3noj)
+- [Unpacking DNS in Kubernetes: How It Works and Why It Matters](https://dev.to/rajeshgheware/unpacking-dns-in-kubernetes-how-it-works-and-why-it-matters-2h63)
+- [Facebook Logo and the History Behind the Company](https://dev.to/pngwing/facebook-logo-and-the-history-behind-the-company-1gbo)
+- [Ensuring High Availability in Financial Services: A Deep Dive into Kubernetes PodDisruptionBudget](https://dev.to/rajeshgheware/ensuring-high-availability-in-financial-services-a-deep-dive-into-kubernetes-poddisruptionbudget-1c0b)
 <!-- BLOG-POST-LIST:END -->
 
