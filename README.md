@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nice Froala colour palette](https://dev.to/marwelz/nice-froala-colour-palette-4bbj)
-- [What I do when learning a new framework/language](https://dev.to/kervyntjw/what-i-do-when-learning-a-new-frameworklanguage-2p3a)
-- [Track Unique User Visits and Match with Purchases](https://dev.to/karakhanyans/track-unique-user-visits-and-match-with-purchases-1idj)
-- [Apple Logic Pro 11: A New Era in AI Music Creation](https://dev.to/hyscaler/apple-logic-pro-11-a-new-era-in-ai-music-creation-3dg3)
+- [Autofac ContainerBuilder in ASP.NET Core – What You Need To Know](https://dev.to/devleader/autofac-containerbuilder-in-aspnet-core-what-you-need-to-know-475e)
+- [How to Use Smart Contracts on Blockchain in Influence Marketing](https://dev.to/crossnetics/how-to-use-smart-contracts-on-blockchain-in-influence-marketing-23fk)
+- [The Sweet Taste of Victory!](https://dev.to/bbylumi/the-sweet-taste-of-victory-28h0)
+- [What is laser scanning?](https://dev.to/tmoss/what-is-laser-scanning-4g7h)
 <!-- BLOG-POST-LIST:END -->
 
