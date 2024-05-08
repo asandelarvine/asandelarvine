@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Low-Code Development Platforms](https://dev.to/kartikmehta8/introduction-to-low-code-development-platforms-2fj5)
-- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-4ckg)
-- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-e54)
-- [Welcome Thread - v275](https://dev.to/devteam/welcome-thread-v275-5a9f)
+- [How the web works: page loading and beyond](https://dev.to/udoka033/how-the-web-works-page-loading-and-beyond-4jd6)
+- [Exploring the &quot;Requester Pays&quot; Feature for AWS S3 Buckets. Use Cases and Cost Analysis](https://dev.to/aws-builders/exploring-the-requester-pays-feature-for-aws-s3-buckets-use-cases-and-cost-analysis-3jk4)
+- [Where do you find remote backend roles?](https://dev.to/kaperskyguru/where-do-you-find-remote-backend-roles-2a3f)
+- [Daily LeetCode Problems: 779 :K-th Symbol in Grammar](https://dev.to/gsanjeewa77/daily-leetcode-problems-779-k-th-symbol-in-grammar-5he6)
 <!-- BLOG-POST-LIST:END -->
 
