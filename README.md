@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Loop to Use?](https://dev.to/paulike/which-loop-to-use-34jf)
-- [Consider if you can replace useEffect with event handler &lpar;We Might Not Need an Effect #2&rpar;](https://dev.to/kanta1207/consider-if-you-can-replace-useeffect-with-event-handler-we-might-not-need-an-effect-2-26gc)
-- [Wie man eine django Webapp in Produktion aufsetzt &lpar;Teil 1&rpar;](https://dev.to/rubenvoss/wie-man-eine-django-webapp-in-produktion-aufsetzt-teil-1-1hpm)
-- [Tips and tricks to code in Go in a clean, functional and effective way](https://dev.to/charly3pins/tips-and-tricks-to-code-in-go-in-a-clean-functional-and-effective-way-1d60)
+- [How machines Learn: A look into machine learning.](https://dev.to/fullstackdev/how-machines-learn-a-look-into-machine-learning-47gj)
+- [Creating an Instagram post with multiple photos](https://dev.to/carriefischer/creating-an-instagram-post-with-multiple-photos-29i9)
+- [Compatibility Testing: Everything You Need to Know](https://dev.to/morrismoses149/compatibility-testing-everything-you-need-to-know-321e)
+- [Minimizing Numeric Errors](https://dev.to/paulike/minimizing-numeric-errors-37mh)
 <!-- BLOG-POST-LIST:END -->
 
