@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What an Email Blast Is And How To Do It Right](https://dev.to/brettjhonson01/what-an-email-blast-is-and-how-to-do-it-right-4cdb)
-- [Garbage Collector &lpar;O coletor de lixo do Java&rpar;](https://dev.to/alexreis/garbage-collector-o-coletor-de-lixo-do-java-4gdm)
-- [Using Amazon ECR Image Scanning and AWS Security Hub for Vulnerability Management](https://dev.to/platform_engineers/using-amazon-ecr-image-scanning-and-aws-security-hub-for-vulnerability-management-hfc)
-- [What&#39;s New in AssetIT 1.4.5-AC? 🚀](https://dev.to/assetitapp/whats-new-in-assetit-145-ac-l8k)
+- [The Adventures of Blink #22: Hidden Messages](https://dev.to/linkbenjamin/the-adventures-of-blink-22-hidden-messages-59eg)
+- [C# va .NETga sayohat.](https://dev.to/ozodbek_soft/c-va-netga-sayohat-24kj)
+- [Vonage Welcomes Twilio Programmable Video Customers](https://dev.to/vonagedev/vonage-welcomes-twilio-programmable-video-customers-2edp)
+- [React Hooks : A Comprehensive Beginner’s Guide](https://dev.to/johnnyk/react-hooks-a-comprehensive-beginners-guide-3bgc)
 <!-- BLOG-POST-LIST:END -->
 
