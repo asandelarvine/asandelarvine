@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Exploring the Abstract Factory Design Pattern in Ruby](https://dev.to/davidmrtz-dev/exploring-the-abstract-factory-design-pattern-in-ruby-3206)
-- [Optimizing React Table Rendering By 160x !!!](https://dev.to/navneet7716/optimizing-react-table-rendering-by-160x--5g3c)
-- [Primitive Data Structure](https://dev.to/developedbyjk/primitive-data-structure-3klm)
-- [Why Every Website Needs an SSL Encryption](https://dev.to/me_priya/why-every-website-needs-an-ssl-encryption-4bcb)
+- [Microservice Orchestration Best Practices](https://dev.to/getambassador2024/microservice-orchestration-best-practices-4bid)
+- [What is a Optical Receiver?](https://dev.to/markrobot/what-is-a-optical-receiver-2aig)
+- [EDFA - Everything you should know](https://dev.to/markrobot/edfa-everything-you-should-know-477n)
+- [A Guide to CI/CD Pipelines using GitHub Action](https://dev.to/snehalkadwe/a-guide-to-cicd-pipelines-using-github-action-5doj)
 <!-- BLOG-POST-LIST:END -->
 
