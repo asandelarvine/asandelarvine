@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Reasons Why Every Java and Python Developer Should Understand Machine Learning Algorithms](https://dev.to/myexamcloud/5-reasons-why-every-java-and-python-developer-should-understand-machine-learning-algorithms-18nm)
-- [Everyone knows that you can have relations in MongoDB, right?](https://dev.to/smart_egg/everyone-knows-that-you-can-have-relations-in-mongodb-right-880)
-- [Setup REST-API service of AI by using Local LLMs with Ollama](https://dev.to/dexterxt/setup-rest-api-service-of-ai-by-using-local-llms-with-ollama-2d81)
-- [Microservice: Consideration Before Migrating](https://dev.to/nghtslvr/microservice-consideration-before-migrating-dph)
+- [Durable Execution Explained — How Conductor Delivers Resilient Systems Out Of The Box](https://dev.to/orkes/durable-execution-explained-how-conductor-delivers-resilient-systems-out-of-the-box-3i1p)
+- [Negotiating a Higher Salary as a Junior Developer](https://dev.to/sotergreco/negotiating-a-higher-salary-as-a-junior-developer-nhb)
+- [** ¡Phineas y Ferb conquistando el mundo de la programación imperativa!**👧🏼](https://dev.to/orlidev/-phineas-y-ferd-conquistando-el-mundo-de-la-programacion-imperativa-19l7)
+- [Solving the Localhost Development Headache with Nanocl](https://dev.to/leone/solving-the-localhost-development-headache-with-nanocl-41ak)
 <!-- BLOG-POST-LIST:END -->
 
