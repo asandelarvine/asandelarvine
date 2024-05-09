@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to generate PDF&#39;s with Puppeteer on Vercel in 2024](https://dev.to/travisbeck/how-to-generate-pdfs-with-puppeteer-on-vercel-in-2024-1dm2)
-- [Decoding Fauna: ABAC vs. RBAC Explained](https://dev.to/nosqlknowhow/decoding-fauna-abac-vs-rbac-explained-4pj1)
-- [10 engineering blogs to become a System Design Hero for free](https://dev.to/kumarkalyan/10-engineering-blogs-to-become-a-system-design-hero-for-free-20ee)
-- [Open Source Essentials : Mastering Git, GitHub, Issues, and Best Practices for Beginners](https://dev.to/everlygif/open-source-essentials-mastering-git-github-issues-and-best-practices-for-beginners-4a16)
+- [Docker and WSL2 without Docker Desktop](https://dev.to/rombru/docker-and-wsl2-without-docker-desktop-3pg3)
+- [How To Write Basic List Comprehension In Python](https://dev.to/deborah/how-to-write-basic-list-comprehension-in-python-5a4o)
+- [Creating a conditional wrap component in Vue 3](https://dev.to/alexander-nenashev/creating-a-conditional-wrap-component-in-vue-3-4k7i)
+- [Aya Rust tutorial Part Two - Setting up](https://dev.to/stevelatif/aya-rust-tutorial-part-two-setting-up-1man)
 <!-- BLOG-POST-LIST:END -->
 
