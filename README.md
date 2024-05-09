@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservice Orchestration Best Practices](https://dev.to/getambassador2024/microservice-orchestration-best-practices-4bid)
-- [What is a Optical Receiver?](https://dev.to/markrobot/what-is-a-optical-receiver-2aig)
-- [EDFA - Everything you should know](https://dev.to/markrobot/edfa-everything-you-should-know-477n)
-- [A Guide to CI/CD Pipelines using GitHub Action](https://dev.to/snehalkadwe/a-guide-to-cicd-pipelines-using-github-action-5doj)
+- [Final association query solution](https://dev.to/esproc_spl/final-association-query-solution-4j9n)
+- [How PostgreSQL&#39;s COALESCE Function Simplifies NULL Value Handling](https://dev.to/dbvismarketing/how-postgresqls-coalesce-function-simplifies-null-value-handling-1i65)
+- [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
+- [What is Software Testing? All About its Tools &amp; Methodology](https://dev.to/testscenario/what-is-software-testing-all-about-its-tools-methodology-lgm)
 <!-- BLOG-POST-LIST:END -->
 
