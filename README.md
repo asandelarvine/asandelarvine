@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Building Responsive design in 2024](https://dev.to/linusmwiti21/best-practises-for-building-responsive-design-in-2024-48c4)
-- [I Made a Free Tool to Know My Stargazers 🌟](https://dev.to/latitude/i-made-a-free-tool-to-know-my-stargazers-10l2)
-- [Quickly Create App Icons by Resizing Your Main Image With a Bash Script](https://dev.to/simplykyra/quickly-create-app-icons-by-resizing-your-main-image-with-a-bash-script-3fif)
-- [Streamline Your Contributions: Mastering Issue Forms and PR Templates](https://dev.to/opensauced/streamline-your-contributions-mastering-issue-forms-and-pr-templates-36j5)
+- [Autofac ComponentRegistryBuilder in ASP.NET Core – How To Register Dependencies](https://dev.to/devleader/autofac-componentregistrybuilder-in-aspnet-core-how-to-register-dependencies-ejp)
+- [A Quick Guide for GraphQL](https://dev.to/weseek-inc/a-quick-guide-for-graphql-1569)
+- [SysAdmin](https://dev.to/ashcript/sysadmin-1451)
+- [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
 <!-- BLOG-POST-LIST:END -->
 
