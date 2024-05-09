@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure SQL vs MySQL: What are the Differences?](https://dev.to/spencernguyen/azure-sql-vs-mysql-what-are-the-differences-42mg)
-- [Feature flags with Astro + Vercel Toolbar](https://dev.to/thomasledoux1/feature-flags-with-astro-vercel-toolbar-g3e)
-- [How to Create the Perfect Transparent Login Form](https://dev.to/peboy/how-to-create-the-perfect-transparent-login-form-2lfa)
-- [Aya Rust tutorial Part One](https://dev.to/stevelatif/aya-rust-tutorial-part-one-5h6n)
+- [How to generate PDF&#39;s with Puppeteer on Vercel in 2024](https://dev.to/travisbeck/how-to-generate-pdfs-with-puppeteer-on-vercel-in-2024-1dm2)
+- [Decoding Fauna: ABAC vs. RBAC Explained](https://dev.to/nosqlknowhow/decoding-fauna-abac-vs-rbac-explained-4pj1)
+- [10 engineering blogs to become a System Design Hero for free](https://dev.to/kumarkalyan/10-engineering-blogs-to-become-a-system-design-hero-for-free-20ee)
+- [Open Source Essentials : Mastering Git, GitHub, Issues, and Best Practices for Beginners](https://dev.to/everlygif/open-source-essentials-mastering-git-github-issues-and-best-practices-for-beginners-4a16)
 <!-- BLOG-POST-LIST:END -->
 
