@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Autofac ComponentRegistryBuilder in ASP.NET Core – How To Register Dependencies](https://dev.to/devleader/autofac-componentregistrybuilder-in-aspnet-core-how-to-register-dependencies-ejp)
-- [A Quick Guide for GraphQL](https://dev.to/weseek-inc/a-quick-guide-for-graphql-1569)
-- [SysAdmin](https://dev.to/ashcript/sysadmin-1451)
-- [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
+- [5 Reasons Why Every Java and Python Developer Should Understand Machine Learning Algorithms](https://dev.to/myexamcloud/5-reasons-why-every-java-and-python-developer-should-understand-machine-learning-algorithms-18nm)
+- [Everyone knows that you can have relations in MongoDB, right?](https://dev.to/smart_egg/everyone-knows-that-you-can-have-relations-in-mongodb-right-880)
+- [Setup REST-API service of AI by using Local LLMs with Ollama](https://dev.to/dexterxt/setup-rest-api-service-of-ai-by-using-local-llms-with-ollama-2d81)
+- [Microservice: Consideration Before Migrating](https://dev.to/nghtslvr/microservice-consideration-before-migrating-dph)
 <!-- BLOG-POST-LIST:END -->
 
