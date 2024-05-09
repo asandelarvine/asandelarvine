@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy React App using GitLab CICD and Docker](https://dev.to/jay_sheth/deploy-react-app-using-gitlab-cicd-and-docker-2h56)
-- [Boosting UX: How I Transformed Data Management in Our App with this lib](https://dev.to/joaofelipe/boosting-ux-how-i-transformed-data-management-in-our-app-with-this-lib-1dkk)
-- [NPM libraries to build your next AI projects](https://dev.to/pierre/ai-npm-libraries-packages-3n4e)
-- [Turbocharge your Angular project: A config tutorial](https://dev.to/alcaidio/turbocharge-your-angular-project-a-config-tutorial-58g4)
+- [Azure SQL vs MySQL: What are the Differences?](https://dev.to/spencernguyen/azure-sql-vs-mysql-what-are-the-differences-42mg)
+- [Feature flags with Astro + Vercel Toolbar](https://dev.to/thomasledoux1/feature-flags-with-astro-vercel-toolbar-g3e)
+- [How to Create the Perfect Transparent Login Form](https://dev.to/peboy/how-to-create-the-perfect-transparent-login-form-2lfa)
+- [Aya Rust tutorial Part One](https://dev.to/stevelatif/aya-rust-tutorial-part-one-5h6n)
 <!-- BLOG-POST-LIST:END -->
 
