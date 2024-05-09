@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vary HTTP header](https://dev.to/nfrankel/the-vary-http-header-2m5m)
-- [Recap: Microsoft Build AI Day Switzerland 2024](https://dev.to/arindam0310018/recap-microsoft-build-ai-day-switzerland-2024-2b62)
-- [Unleashing the Power of Collection Expressions in .NET 8](https://dev.to/moh_moh701/unleashing-the-power-of-collection-expressions-in-net-8-5d42)
-- [5 Games that will make you a CSS Expert in 5 days.](https://dev.to/bingecoder89/5-games-that-will-make-you-a-css-expert-in-5-days-705)
+- [What an Email Blast Is And How To Do It Right](https://dev.to/brettjhonson01/what-an-email-blast-is-and-how-to-do-it-right-4cdb)
+- [Garbage Collector &lpar;O coletor de lixo do Java&rpar;](https://dev.to/alexreis/garbage-collector-o-coletor-de-lixo-do-java-4gdm)
+- [Using Amazon ECR Image Scanning and AWS Security Hub for Vulnerability Management](https://dev.to/platform_engineers/using-amazon-ecr-image-scanning-and-aws-security-hub-for-vulnerability-management-hfc)
+- [What&#39;s New in AssetIT 1.4.5-AC? 🚀](https://dev.to/assetitapp/whats-new-in-assetit-145-ac-l8k)
 <!-- BLOG-POST-LIST:END -->
 
