@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check for newer versions of dependencies in pom.xml](https://dev.to/adzubla/check-for-newer-versions-of-dependencies-in-pomxml-21n3)
-- [5 Tips for Junior Node Js Developers](https://dev.to/olaf_ranai/5-tips-for-junior-node-js-developers-4mc2)
-- [The Impact of Video Editing on eCommerce Success](https://dev.to/msmith99994/the-impact-of-video-editing-on-ecommerce-success-4gci)
-- [The Crossover of Health, Technology and Art: CodeNewbie Podcast S27E6](https://dev.to/codenewbieteam/the-crossover-of-health-technology-and-art-codenewbie-podcast-s27e6-4g1c)
+- [Part 3: Introduction to Views and Template Rendering](https://dev.to/kihuni/part-3-introduction-to-views-and-template-rendering-55de)
+- [Testing Java integer cache](https://dev.to/joao9aulo/testing-java-integer-cache-3jlp)
+- [Classificação de Antipadrões em Microsserviços ‐ Parte 03](https://dev.to/yanjustino/classificacao-de-antipadroes-em-microsservicos-parte-03-fk4)
+- [Building Interactive Data Visualizations with Tableau](https://dev.to/kartikmehta8/building-interactive-data-visualizations-with-tableau-5fcf)
 <!-- BLOG-POST-LIST:END -->
 
