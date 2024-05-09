@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Journey to modern databases](https://dev.to/metis/journey-to-modern-databases-1dia)
-- [Simple Preferences to Any Resource with Ruby on Rails](https://dev.to/railsdesigner/simple-preferences-to-any-resource-for-rails-3hnp)
-- [Netlify image CDN](https://dev.to/alisinayousofi/netlify-image-cdn-1cko)
-- [Will Customers Ever Speak Our Language?](https://dev.to/fanatixan/will-customers-ever-speak-our-language-2k2j)
+- [The Vary HTTP header](https://dev.to/nfrankel/the-vary-http-header-2m5m)
+- [Recap: Microsoft Build AI Day Switzerland 2024](https://dev.to/arindam0310018/recap-microsoft-build-ai-day-switzerland-2024-2b62)
+- [Unleashing the Power of Collection Expressions in .NET 8](https://dev.to/moh_moh701/unleashing-the-power-of-collection-expressions-in-net-8-5d42)
+- [5 Games that will make you a CSS Expert in 5 days.](https://dev.to/bingecoder89/5-games-that-will-make-you-a-css-expert-in-5-days-705)
 <!-- BLOG-POST-LIST:END -->
 
