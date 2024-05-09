@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Naming Conventions](https://dev.to/nhannguyendevjs/naming-conventions-4nhi)
-- [Day 8: Objects](https://dev.to/codernko/day-8-objects-50gd)
-- [how to import ngrx StoreModule in angular 17 config file](https://dev.to/samreshkumar/how-to-import-ngrx-storemodule-in-angular-17-config-file-3opi)
-- [Getting Started with Next.js: Part 6 - Advanced Configuration and Optimization](https://dev.to/dipakahirav/getting-started-with-nextjs-part-6-advanced-configuration-and-optimization-3ld0)
+- [Deploy React App using GitLab CICD and Docker](https://dev.to/jay_sheth/deploy-react-app-using-gitlab-cicd-and-docker-2h56)
+- [Boosting UX: How I Transformed Data Management in Our App with this lib](https://dev.to/joaofelipe/boosting-ux-how-i-transformed-data-management-in-our-app-with-this-lib-1dkk)
+- [NPM libraries to build your next AI projects](https://dev.to/pierre/ai-npm-libraries-packages-3n4e)
+- [Turbocharge your Angular project: A config tutorial](https://dev.to/alcaidio/turbocharge-your-angular-project-a-config-tutorial-58g4)
 <!-- BLOG-POST-LIST:END -->
 
