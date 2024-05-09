@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Final association query solution](https://dev.to/esproc_spl/final-association-query-solution-4j9n)
-- [How PostgreSQL&#39;s COALESCE Function Simplifies NULL Value Handling](https://dev.to/dbvismarketing/how-postgresqls-coalesce-function-simplifies-null-value-handling-1i65)
-- [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
-- [What is Software Testing? All About its Tools &amp; Methodology](https://dev.to/testscenario/what-is-software-testing-all-about-its-tools-methodology-lgm)
+- [Journey to modern databases](https://dev.to/metis/journey-to-modern-databases-1dia)
+- [Simple Preferences to Any Resource with Ruby on Rails](https://dev.to/railsdesigner/simple-preferences-to-any-resource-for-rails-3hnp)
+- [Netlify image CDN](https://dev.to/alisinayousofi/netlify-image-cdn-1cko)
+- [Will Customers Ever Speak Our Language?](https://dev.to/fanatixan/will-customers-ever-speak-our-language-2k2j)
 <!-- BLOG-POST-LIST:END -->
 
