@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Voxel51 Filtered Views Newsletter - May 10, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-may-10-2024-5h54)
-- [Introdução aos Princípios do SQL: Fundamentos Teóricos e Práticos](https://dev.to/brunopizol/introducao-aos-principios-do-sql-fundamentos-teoricos-e-praticos-1j0j)
-- [Unveiling the Future: AI&#39;s Role in Enhancing Software Quality Through Regression Testing](https://dev.to/jennife05918349/unveiling-the-future-ais-role-in-enhancing-software-quality-through-regression-testing-547b)
-- [Project-Based Learning vs. Just Courses: Which is the Real Game-Changer?](https://dev.to/dhruvjoshi9/project-based-learning-vs-just-courses-which-is-the-real-game-changer-3p08)
+- [Intrusion Detection System &lpar;IDS&rpar; Vs Intrusion Prevention System &lpar;IPS&rpar;](https://dev.to/clouddefenseai/intrusion-detection-system-ids-vs-intrusion-prevention-system-ips-2hf9)
+- [Dicas e configurações para seu sistema linux](https://dev.to/devhat/dicas-e-configuracoes-para-seu-sistema-linux-5dll)
+- [Career-minded individuals: Importance of taking breaks](https://dev.to/kervyntjw/career-minded-individuals-importance-of-taking-breaks-3bi5)
+- [Incidents and Operational Resiliency - Why it Matters and What to Consider](https://dev.to/kreuzwerker-/incidents-and-operational-resiliency-why-it-matters-and-what-to-consider-3jm6)
 <!-- BLOG-POST-LIST:END -->
 
