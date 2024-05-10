@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️ Gowebly CLI now supports the PocketBase framework](https://dev.to/koddr/gowebly-cli-now-supports-the-pocketbase-framework-bi6)
-- [How to a create a scroll progress bar with Tailwind CSS and Javascript](https://dev.to/mike_andreuzza/how-to-a-create-a-scroll-progress-bar-with-tailwind-css-and-javascript-3hl1)
-- [Fisher Yates - How the popular shuffling Algorithm Works - Under the hood series](https://dev.to/abdulmuminyqn/fisher-yates-how-the-popular-shuffling-algorithm-works-under-the-hood-series-1dg9)
-- [LangChain: LLM App Evaluation](https://dev.to/rutamstwt/langchain-llm-app-evaluation-3m2l)
+- [Authentication opens a new window popup with postMessage](https://dev.to/trantn/authentication-opens-a-new-window-popup-with-postmessage-dmi)
+- [Creating a conditional wrap component in Vue 3](https://dev.to/alexander-nenashev/creating-a-conditional-wrap-component-in-vue-3-18ml)
+- [is Hadoop Dead?](https://dev.to/hiteshchawla/is-hadoop-dead-2jo)
+- [The Hungary-Serbia railway project is a landmark project of China-Hungary jointly building the “Belt and Road”](https://dev.to/enatomika38519/the-hungary-serbia-railway-project-is-a-landmark-project-of-china-hungary-jointly-building-the-belt-and-road-5af7)
 <!-- BLOG-POST-LIST:END -->
 
