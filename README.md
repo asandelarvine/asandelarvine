@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Method Abstraction and Stepwise Refinement](https://dev.to/paulike/method-abstraction-and-stepwise-refinement-519l)
-- [How to write memory efficient machine learning model prediction data pipelines in Python,With an Example](https://dev.to/rajun/how-to-write-memory-efficient-machine-learning-model-prediction-data-pipelines-in-pythonwith-an-example-44e1)
-- [Demo: Minder, a software supply chain security platform from Stacklok](https://dev.to/ninfriendos1/demo-minder-a-software-supply-chain-security-platform-from-stacklok-3010)
-- [Computer Vision Meetup: Anomaly Detection with Anomalib and FiftyOne](https://dev.to/voxel51/computer-vision-meetup-anomaly-detection-with-anomalib-and-fiftyone-4gfo)
+- [DSA for Data Scientists](https://dev.to/niladridas/dsa-for-data-scientists-4ekp)
+- [Embed a form builder with Kotlin](https://dev.to/joyfill/embed-a-form-builder-with-kotlin-4d34)
+- [Image Moderation: What It Is, Why It Matters, and Where It&#39;s Needed](https://dev.to/msmith99994/image-moderation-what-it-is-why-it-matters-and-where-its-needed-185m)
+- [Demystifying Regular Expressions in JavaScript: A Comprehensive Guide](https://dev.to/pinky057/demystifying-regular-expressions-in-javascript-a-comprehensive-guide-1mjk)
 <!-- BLOG-POST-LIST:END -->
 
