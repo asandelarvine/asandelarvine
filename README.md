@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intrusion Detection System &lpar;IDS&rpar; Vs Intrusion Prevention System &lpar;IPS&rpar;](https://dev.to/clouddefenseai/intrusion-detection-system-ids-vs-intrusion-prevention-system-ips-2hf9)
-- [Dicas e configurações para seu sistema linux](https://dev.to/devhat/dicas-e-configuracoes-para-seu-sistema-linux-5dll)
-- [Career-minded individuals: Importance of taking breaks](https://dev.to/kervyntjw/career-minded-individuals-importance-of-taking-breaks-3bi5)
-- [Incidents and Operational Resiliency - Why it Matters and What to Consider](https://dev.to/kreuzwerker-/incidents-and-operational-resiliency-why-it-matters-and-what-to-consider-3jm6)
+- [Day 40/366](https://dev.to/vishalmx3/day-40366-5h23)
+- [How to Create Your Own Chrome Extension?](https://dev.to/nooriameer/how-to-create-your-own-chrome-extension-12je)
+- [The Scope of Variables](https://dev.to/paulike/the-scope-of-variables-4m0a)
+- [Navigating the Rapids: A Junior Developer&#39;s Journey Through Challenges and Growth](https://dev.to/daffydanni__/navigating-the-rapids-a-junior-developers-journey-through-challenges-and-growth-186c)
 <!-- BLOG-POST-LIST:END -->
 
