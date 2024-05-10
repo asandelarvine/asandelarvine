@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is API Integration?](https://dev.to/apidna/what-is-api-integration-d5o)
-- [The Power of Feedback: A Story of Junior and Senior Developers](https://dev.to/myexamcloud/the-power-of-feedback-a-story-of-junior-and-senior-developers-4ah8)
-- [A news feed for google classroom](https://dev.to/renzhamin/a-news-feed-for-google-classroom-2dmb)
-- [3. Longest Substring Without Repeating Characters](https://dev.to/mdarifulhaque/3-longest-substring-without-repeating-characters-3m10)
+- [Full Stack is not for beginners!](https://dev.to/bingecoder89/full-stack-is-not-for-beginners-j2j)
+- [CSS Selectors Practice Exercise](https://dev.to/hamzaiqbal007/css-selectors-practice-exercise-19g5)
+- [Why Your Web Bundler Matters For Optimized WebGPU-Powered 3D Game Development](https://dev.to/joshalphonse/why-your-web-bundler-matters-for-optimized-webgpu-powered-3d-game-development-498h)
+- [How To Register a Smart Contract to the SFS with Foundry](https://dev.to/modenetwork/how-to-register-a-smart-contract-to-the-sfs-with-foundry-34jo)
 <!-- BLOG-POST-LIST:END -->
 
