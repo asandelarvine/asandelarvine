@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays and ArrayList in JAVA](https://dev.to/_bhupeshk_/arrays-and-arraylist-in-java-1jc2)
-- [Working with junior programmers](https://dev.to/nedtwigg/working-with-junior-programmers-57oj)
-- [Never write code you don&#39;t want to run, part 1](https://dev.to/thecontextwindow/never-write-code-you-dont-want-to-run-part-1-2i9f)
-- [Stripe Developer Digest Sessions 2024](https://dev.to/stripe/stripe-developer-digest-sessions-2024-66n)
+- [An In-Depth Objective Review of JUMP By Cognixia’s Python Program](https://dev.to/annaliesetech/an-in-depth-objective-review-of-jump-by-cognixias-python-program-15db)
+- [Value of Frida Dynamic Instrumentation to Cyber Community](https://dev.to/phantomthreads/value-of-frida-dynamic-instrumentation-to-cyber-community-3bka)
+- [Different Types of Digital Asset Management](https://dev.to/msmith99994/different-types-of-digital-asset-management-2c2c)
+- [Understanding the HTTP/3 Protocol](https://dev.to/kartikmehta8/understanding-the-http3-protocol-13bh)
 <!-- BLOG-POST-LIST:END -->
 
