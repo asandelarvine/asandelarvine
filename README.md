@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An In-Depth Objective Review of JUMP By Cognixia’s Python Program](https://dev.to/annaliesetech/an-in-depth-objective-review-of-jump-by-cognixias-python-program-15db)
-- [Value of Frida Dynamic Instrumentation to Cyber Community](https://dev.to/phantomthreads/value-of-frida-dynamic-instrumentation-to-cyber-community-3bka)
-- [Different Types of Digital Asset Management](https://dev.to/msmith99994/different-types-of-digital-asset-management-2c2c)
-- [Understanding the HTTP/3 Protocol](https://dev.to/kartikmehta8/understanding-the-http3-protocol-13bh)
+- [Make a statement with a stunning backlit circle mirror in your space.](https://dev.to/bluegreen/make-a-statement-with-a-stunning-backlit-circle-mirror-in-your-space-349l)
+- [Illuminate your routine with a backlit circle mirror.](https://dev.to/bluegreen/illuminate-your-routine-with-a-backlit-circle-mirror-4bfj)
+- [Mastering Service to Pod Communication in Kubernetes: Unveiling the Role of iptables and Kube-proxy](https://dev.to/rajeshgheware/mastering-service-to-pod-communication-in-kubernetes-unveiling-the-role-of-iptables-and-kube-proxy-4jmh)
+- [JavaScript Learning Roadmap 🚀](https://dev.to/dhirajaryaa/javascript-learning-roadmap-4nc3)
 <!-- BLOG-POST-LIST:END -->
 
