@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Power of Union and Intersection Types in TypeScript](https://dev.to/nahidulislam/exploring-the-power-of-union-and-intersection-types-in-typescript-oma)
-- [10 Cool CodePen Demos &lpar;April 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2024-4a70)
-- [10 Cool CodePen Demos &lpar;March 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-2024-3ak8)
-- [Simplifying Your Workflow: npm run vs npm --run](https://dev.to/manthanank/simplifying-your-workflow-npm-run-vs-npm-run-2p69)
+- [Wayne Learning Hub: Empowering Your Learning Journey](https://dev.to/sycomirza/wayne-learning-hub-empowering-your-learning-journey-a50)
+- [Implementing Firebase Background Notifications in Flutter 👌](https://dev.to/abhinavk454/implementing-firebase-background-notifications-in-flutter-5di4)
+- [Making Sense of Microservices: Building Software Like Lego Blocks](https://dev.to/sihabuddin999/making-sense-of-microservices-building-software-like-lego-blocks-48pa)
+- [Request -&gt; Handler -&gt; SubPub Pattern with MediatR or Raw F# code](https://dev.to/rockfire/subpub-pattern-with-mediatr-raw-f-code-2dg2)
 <!-- BLOG-POST-LIST:END -->
 
