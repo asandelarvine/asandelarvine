@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortcut your way through the terminal 🌀](https://dev.to/devonremote/shortcut-your-way-through-the-terminal-23f0)
-- [Building a better product is not just easy, it&#39;s obvious](https://dev.to/horaceshmorace/building-a-better-product-is-totally-so-super-easy-2h7b)
-- [Marking macOS component packages available based on hardware platform type](https://dev.to/wardsparadox/marking-macos-component-packages-available-based-on-hardware-platform-type-477m)
-- [Cloud Computing Interview Questions](https://dev.to/engineeringexpert/cloud-computing-interview-questions-j8a)
+- [Window funtions in postgreSQL](https://dev.to/johnniekay/window-funtions-in-postgresql-2iha)
+- [Explain these key concepts &lpar;Beginner Cloud DevOps Program &rpar;](https://dev.to/chifum/explain-these-key-concepts-beginner-cloud-devops-program--1k3i)
+- [Stream Audio from Raspberry Pi to Local Computer](https://dev.to/shilleh/stream-audio-from-raspberry-pi-to-local-computer-1a1c)
+- [self-host a Streamlit app&#39; on a Ubuntu server](https://dev.to/yactouat/self-host-a-streamlit-app-on-a-ubuntu-server-1f78)
 <!-- BLOG-POST-LIST:END -->
 
