@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Path To A Clean&lpar;er&rpar; React Architecture - API Layer &amp; Data Transformations](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-api-layer-data-transformations-1go0)
-- [Implementing React `forwardRef` with TypeScript](https://dev.to/hossain45/implementing-react-forwardref-with-typescript-5ka)
-- [Monorepo Backend Application with Bundled Packages](https://dev.to/alonn24/monorepo-backend-application-with-bundled-packages-4a2m)
-- [Building Your First Browser Game with Three.js and React: Part 2 - Implementing 3D Models](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-2-implementing-3d-models-1jlj)
+- [Should we be adding Keyboard Shortcuts to our websites?](https://dev.to/buildwebcrumbs/should-we-be-adding-keyboard-shortcuts-to-our-websites-16k)
+- [3 VSCODE TIPS](https://dev.to/dino2328/3-vscode-tips-58d7)
+- [Help us test free-threaded Python without the GIL](https://dev.to/hugovk/help-us-test-free-threaded-python-without-the-gil-1hgf)
+- [Mastering S.O.L.I.D Principles in React: Easy Examples and Best Practices](https://dev.to/drruvari/mastering-solid-principles-in-react-easy-examples-and-best-practices-142b)
 <!-- BLOG-POST-LIST:END -->
 
