@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should we be adding Keyboard Shortcuts to our websites?](https://dev.to/buildwebcrumbs/should-we-be-adding-keyboard-shortcuts-to-our-websites-16k)
-- [3 VSCODE TIPS](https://dev.to/dino2328/3-vscode-tips-58d7)
-- [Help us test free-threaded Python without the GIL](https://dev.to/hugovk/help-us-test-free-threaded-python-without-the-gil-1hgf)
-- [Mastering S.O.L.I.D Principles in React: Easy Examples and Best Practices](https://dev.to/drruvari/mastering-solid-principles-in-react-easy-examples-and-best-practices-142b)
+- [Voxel51 Filtered Views Newsletter - May 10, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-may-10-2024-5h54)
+- [Introdução aos Princípios do SQL: Fundamentos Teóricos e Práticos](https://dev.to/brunopizol/introducao-aos-principios-do-sql-fundamentos-teoricos-e-praticos-1j0j)
+- [Unveiling the Future: AI&#39;s Role in Enhancing Software Quality Through Regression Testing](https://dev.to/jennife05918349/unveiling-the-future-ais-role-in-enhancing-software-quality-through-regression-testing-547b)
+- [Project-Based Learning vs. Just Courses: Which is the Real Game-Changer?](https://dev.to/dhruvjoshi9/project-based-learning-vs-just-courses-which-is-the-real-game-changer-3p08)
 <!-- BLOG-POST-LIST:END -->
 
