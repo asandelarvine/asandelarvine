@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[TryHackMe][CTF] GoldenEye](https://dev.to/expiredcode/tryhackmectf-goldeneye-4b43)
-- [Load and stress testing with k6](https://dev.to/zsevic/load-and-stress-testing-with-k6-4d63)
-- [Running LLMs on Android: A Step-by-Step Guide](https://dev.to/davidefornelli/running-llms-on-android-a-step-by-step-guide-3ekc)
-- [Como rodar um servidor NodeJS em um smartphone Android](https://dev.to/rubalaine/como-rodar-um-servidor-nodejs-em-um-smartphone-android-4ab2)
+- [Shortcut your way through the terminal 🌀](https://dev.to/devonremote/shortcut-your-way-through-the-terminal-23f0)
+- [Building a better product is not just easy, it&#39;s obvious](https://dev.to/horaceshmorace/building-a-better-product-is-totally-so-super-easy-2h7b)
+- [Marking macOS component packages available based on hardware platform type](https://dev.to/wardsparadox/marking-macos-component-packages-available-based-on-hardware-platform-type-477m)
+- [Cloud Computing Interview Questions](https://dev.to/engineeringexpert/cloud-computing-interview-questions-j8a)
 <!-- BLOG-POST-LIST:END -->
 
