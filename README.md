@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 40/366](https://dev.to/vishalmx3/day-40366-5h23)
-- [How to Create Your Own Chrome Extension?](https://dev.to/nooriameer/how-to-create-your-own-chrome-extension-12je)
-- [The Scope of Variables](https://dev.to/paulike/the-scope-of-variables-4m0a)
-- [Navigating the Rapids: A Junior Developer&#39;s Journey Through Challenges and Growth](https://dev.to/daffydanni__/navigating-the-rapids-a-junior-developers-journey-through-challenges-and-growth-186c)
+- [What is API Integration?](https://dev.to/apidna/what-is-api-integration-d5o)
+- [The Power of Feedback: A Story of Junior and Senior Developers](https://dev.to/myexamcloud/the-power-of-feedback-a-story-of-junior-and-senior-developers-4ah8)
+- [A news feed for google classroom](https://dev.to/renzhamin/a-news-feed-for-google-classroom-2dmb)
+- [3. Longest Substring Without Repeating Characters](https://dev.to/mdarifulhaque/3-longest-substring-without-repeating-characters-3m10)
 <!-- BLOG-POST-LIST:END -->
 
