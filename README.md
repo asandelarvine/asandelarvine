@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication opens a new window popup with postMessage](https://dev.to/trantn/authentication-opens-a-new-window-popup-with-postmessage-dmi)
-- [Creating a conditional wrap component in Vue 3](https://dev.to/alexander-nenashev/creating-a-conditional-wrap-component-in-vue-3-18ml)
-- [is Hadoop Dead?](https://dev.to/hiteshchawla/is-hadoop-dead-2jo)
-- [The Hungary-Serbia railway project is a landmark project of China-Hungary jointly building the “Belt and Road”](https://dev.to/enatomika38519/the-hungary-serbia-railway-project-is-a-landmark-project-of-china-hungary-jointly-building-the-belt-and-road-5af7)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4o5p)
+- [Tips and Tricks for Optimizing Magento 2 for Better Performance and Faster Load Times](https://dev.to/charleslyman/tips-and-tricks-for-optimizing-magento-2-for-better-performance-and-faster-load-times-25ep)
+- [How to Replace Character at Nth Index in Python String](https://dev.to/techosha/how-to-replace-character-at-nth-index-in-python-string-1b7p)
+- [Salesforce Clouds Overview](https://dev.to/elena_routine/salesforce-clouds-overview-2e8h)
 <!-- BLOG-POST-LIST:END -->
 
