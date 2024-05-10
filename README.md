@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making It Work vs. Making It Perfect?](https://dev.to/devteam/making-it-work-vs-making-it-perfect-212b)
-- [What do you want to know about tech &amp; open source? AMA](https://dev.to/opensauced/what-do-you-want-to-know-about-tech-open-source-ama-1i4f)
-- [Building Real-Time Boards with Angular and NestJS Using Server-Sent Events](https://dev.to/this-is-angular/building-real-time-boards-with-angular-and-nestjs-using-server-sent-events-3k9j)
-- [Ioto Device Management for Volume Device Builders](https://dev.to/embedthis/ioto-device-management-for-volume-device-builders-2ol9)
+- [⚡️ Gowebly CLI now supports the PocketBase framework](https://dev.to/koddr/gowebly-cli-now-supports-the-pocketbase-framework-bi6)
+- [How to a create a scroll progress bar with Tailwind CSS and Javascript](https://dev.to/mike_andreuzza/how-to-a-create-a-scroll-progress-bar-with-tailwind-css-and-javascript-3hl1)
+- [Fisher Yates - How the popular shuffling Algorithm Works - Under the hood series](https://dev.to/abdulmuminyqn/fisher-yates-how-the-popular-shuffling-algorithm-works-under-the-hood-series-1dg9)
+- [LangChain: LLM App Evaluation](https://dev.to/rutamstwt/langchain-llm-app-evaluation-3m2l)
 <!-- BLOG-POST-LIST:END -->
 
