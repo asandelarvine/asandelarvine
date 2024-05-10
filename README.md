@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Arbitrary Precision In PHP](https://dev.to/jszutkowski/using-arbitrary-precision-in-php-mme)
-- [How To Get A Remote Executive Assistant Job?](https://dev.to/fgeurson/how-to-get-a-remote-executive-assistant-job-3ke7)
-- [Hello! 👋](https://dev.to/petercsiba/hello-l3l)
-- [Learning Statistics with R, Part-2](https://dev.to/afrozansenjuti/learning-statistics-with-r-part-2-3lf8)
+- [[TryHackMe][CTF] GoldenEye](https://dev.to/expiredcode/tryhackmectf-goldeneye-4b43)
+- [Load and stress testing with k6](https://dev.to/zsevic/load-and-stress-testing-with-k6-4d63)
+- [Running LLMs on Android: A Step-by-Step Guide](https://dev.to/davidefornelli/running-llms-on-android-a-step-by-step-guide-3ekc)
+- [Como rodar um servidor NodeJS em um smartphone Android](https://dev.to/rubalaine/como-rodar-um-servidor-nodejs-em-um-smartphone-android-4ab2)
 <!-- BLOG-POST-LIST:END -->
 
