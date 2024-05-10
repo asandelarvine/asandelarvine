@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DSA for Data Scientists](https://dev.to/niladridas/dsa-for-data-scientists-4ekp)
-- [Embed a form builder with Kotlin](https://dev.to/joyfill/embed-a-form-builder-with-kotlin-4d34)
-- [Image Moderation: What It Is, Why It Matters, and Where It&#39;s Needed](https://dev.to/msmith99994/image-moderation-what-it-is-why-it-matters-and-where-its-needed-185m)
-- [Demystifying Regular Expressions in JavaScript: A Comprehensive Guide](https://dev.to/pinky057/demystifying-regular-expressions-in-javascript-a-comprehensive-guide-1mjk)
+- [Using Arbitrary Precision In PHP](https://dev.to/jszutkowski/using-arbitrary-precision-in-php-mme)
+- [How To Get A Remote Executive Assistant Job?](https://dev.to/fgeurson/how-to-get-a-remote-executive-assistant-job-3ke7)
+- [Hello! 👋](https://dev.to/petercsiba/hello-l3l)
+- [Learning Statistics with R, Part-2](https://dev.to/afrozansenjuti/learning-statistics-with-r-part-2-3lf8)
 <!-- BLOG-POST-LIST:END -->
 
