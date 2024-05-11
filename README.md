@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to become an Azure engineer](https://dev.to/themaxmillan/how-to-become-an-azure-engineer-31g8)
-- [What Happens When You Type https://www.google.com](https://dev.to/alsayedaldahawy/what-happens-when-you-type-httpswwwgooglecom-5ble)
-- [Using TimeProvider for Easier Unit Testing in .NET 8](https://dev.to/moh_moh701/using-timeprovider-for-easier-unit-testing-in-net-8-5fl3)
-- [Hosting a static website on an S3 bucket using Amazon CloudFront](https://dev.to/florenceokoli/hosting-a-static-website-on-an-s3-bucket-using-amazon-cloudfront-ob2)
+- [Multi-Tenant SaaS Architecture - Database Per Tenant](https://dev.to/developerpartners/multi-tenant-saas-architecture-database-per-tenant-1170)
+- [RHEL : A better cheat Sheet](https://dev.to/kaustubhyerkade/rhel-a-better-cheat-sheet-2km1)
+- [Binary Lab](https://dev.to/abenteuerzeit/binary-lab-18j)
+- [What I Learned After Applying to Over 150 Software Engineer Internships](https://dev.to/vitalipri/what-i-learned-after-applying-to-over-150-software-engineer-internships-4og3)
 <!-- BLOG-POST-LIST:END -->
 
