@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How an individual developer released seven apps in five months after registering as a developer](https://dev.to/zmsoft/how-an-individual-developer-released-seven-apps-in-five-months-after-registering-as-a-developer-3n7f)
+- [Netlify Image Game 🩻🕹️](https://dev.to/mattlewandowski93/netlify-image-game-1pk0)
+- [Light up your life with a backlit circle mirror on your vanity.](https://dev.to/mirrors/light-up-your-life-with-a-backlit-circle-mirror-on-your-vanity-3mpo)
 - [Unleash Your Inner Web Dev with CodeLekhan: A Real-Time Code Editor Playground](https://dev.to/azadnishad/unleash-your-inner-web-dev-with-codelekhan-a-real-time-code-editor-playground-4b21)
-- [How to make all x-axis labels displayed](https://dev.to/xuefei1313/how-to-make-all-x-axis-labels-displayed-5h08)
-- [Apache Kafka](https://dev.to/sachithmayantha/apache-kafka-16ml)
-- [Shine bright like a diamond with the backlit circle mirror.](https://dev.to/mirrors/shine-bright-like-a-diamond-with-the-backlit-circle-mirror-1pb)
 <!-- BLOG-POST-LIST:END -->
 
