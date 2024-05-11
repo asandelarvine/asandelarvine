@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Competitive Coding: String](https://dev.to/vivek1030/mastering-competitive-coding-string-4nic)
-- [Cloud Native](https://dev.to/mustafacam/cloud-native-46bd)
-- [Effective Terraform Variable Management in GitHub Actions](https://dev.to/bhanufyi/effective-terraform-variable-management-in-github-actions-488l)
-- [Introducing Krabber.net](https://dev.to/toul_codes/introducing-krabbernet-fh8)
+- [How to Apply a Material File to an OBJ in A-Frame](https://dev.to/mitchallen/how-to-apply-a-material-file-to-an-obj-in-a-frame-4j54)
+- [Image Editing with AI Cropping Tools](https://dev.to/msmith99994/image-editing-with-ai-cropping-tools-dbd)
+- [Exploring DDD, CQRS, and Event Sourcing: Insights from a complex project](https://dev.to/mmed199/exploring-ddd-cqrs-and-event-sourcing-insights-from-a-complex-project-2m9o)
+- [Single-Dimensional Arrays](https://dev.to/paulike/single-dimensional-arrays-33bh)
 <!-- BLOG-POST-LIST:END -->
 
