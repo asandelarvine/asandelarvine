@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deprecating Angular App Inbox towards web-inbox](https://dev.to/suprsend/deprecating-angular-app-inbox-towards-web-inbox-50ef)
-- [Angular App Inbox](https://dev.to/suprsend/angular-app-inbox-2ik7)
-- [Why NVM is Tremendously Helpful for Web Developers](https://dev.to/mohammadfaisal/why-nvm-is-tremendously-helpful-for-web-developers-17i9)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1nn8)
+- [Functional Programming in Javascript.](https://dev.to/abhishekkrpand1/functional-programming-in-javascript-ia6)
+- [Custom Hooks made easy :&rpar;](https://dev.to/deepak22448/custom-hooks-made-easy--2m0e)
+- [Re-inventing the wheel - Use list](https://dev.to/rjfranco_95/re-inventing-the-wheel-use-list-4gb4)
+- [10 Ferramentas de Produtividade para Desenvolvedores Experimentarem em 2024](https://dev.to/henriquevital777/10-ferramentas-de-produtividade-para-desenvolvedores-experimentarem-em-2024-56p7)
 <!-- BLOG-POST-LIST:END -->
 
