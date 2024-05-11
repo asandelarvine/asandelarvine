@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Action: Error Handling In gRPC](https://dev.to/huizhou92/go-action-error-handling-in-grpc-agj)
-- [Json Web Tokens](https://dev.to/ezekiel_77/json-web-tokens-47de)
-- [Quick reference for UI new emerging stacks and frameworks !!!](https://dev.to/vaibhavpatil123/quick-reference-for-ui-new-emerging-stacks-and-frameworks--593e)
-- [How to create a chat bubble with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-chat-bubble-with-tailwind-css-and-alpinejs-i8p)
+- [0x11. What happens when you type google.com in your browser and press Enter](https://dev.to/jacques00077/0x11-what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-429l)
+- [cài đặt .net framework 3.5 - 2024](https://dev.to/longtth/cai-dat-net-framework-35-2024-28l9)
+- [Assumptions in Software Development &lpar;with EF Core as example&rpar;](https://dev.to/krste/assumptions-in-software-development-with-ef-core-as-example-3nl0)
+- [Hacking out an AI spider with Node](https://dev.to/adaschevici/hacking-out-an-ai-spider-with-node-1h31)
 <!-- BLOG-POST-LIST:END -->
 
