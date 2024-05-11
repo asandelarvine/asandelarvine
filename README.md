@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Flutter&#39;s Power: Successfully Migrating Your App](https://dev.to/kachi14/unlocking-flutters-power-successfully-migrating-your-app-28gg)
-- [Understanding the controller-runtime Cache Seriously](https://dev.to/shuheiktgw/understanding-the-controller-runtime-cache-seriously-3c2k)
-- [Exploring the Solidity Programming Language for Smart Contracts](https://dev.to/kartikmehta8/exploring-the-solidity-programming-language-for-smart-contracts-28jk)
-- [Network Topologies- Netlify Dynamic Site Challenge](https://dev.to/yowise/network-topologies-netlify-dynamic-site-challenge-gje)
+- [Java Iron Man Suit Simulator - A Fun Beginner Project!&quot;](https://dev.to/lebo2007/java-iron-man-suit-simulator-a-fun-beginner-project-39fm)
+- [Gulp versus Grunt](https://dev.to/henriquevital777/gulp-versus-grunt-12a)
+- [Simulating NMEA Data with nmeasim in Python](https://dev.to/okyzaprabowo/simulating-nmea-data-with-nmeasim-in-python-4o7n)
+- [Another genie&#39;s out of the bottle - decoding Warren Buffett&#39;s Take On Gen AI](https://dev.to/edytawrobel/another-genies-out-of-the-bottle-decoding-warren-buffetts-take-on-gen-ai-19gf)
 <!-- BLOG-POST-LIST:END -->
 
