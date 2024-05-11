@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Wonder What is Hoisting? let&#39;s understand JavaScript&#39;s Built-in Behaviour](https://dev.to/codebyshreya/every-wonder-what-is-hoisting-3ch)
-- [Differences between CSS transitions, transforms, and animations](https://dev.to/palchandu_dev/differences-between-css-transitions-transforms-and-animations-58hi)
-- [My Pen on CodePen](https://dev.to/dominyke/my-pen-on-codepen-14fl)
-- [Go-like channels in C++](https://dev.to/hardenedsteel/go-like-channels-in-c-3i7h)
+- [Detecting Blocked Google Ads with Simple and Effective JavaScript](https://dev.to/livetvchannels/detecting-blocked-google-ads-with-simple-and-effective-javascript-1m5o)
+- [HOW CSS WORKS BEHIND THE SCENE](https://dev.to/princessaisha/how-css-works-behind-the-scene-497p)
+- [The Impact of Emerging Technologies on Adaptive Software Development](https://dev.to/ray_parker01/the-impact-of-emerging-technologies-on-adaptive-software-development-51em)
+- [Docker for Next.js](https://dev.to/codeparrot/docker-for-nextjs-4b2i)
 <!-- BLOG-POST-LIST:END -->
 
