@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Window funtions in postgreSQL](https://dev.to/johnniekay/window-funtions-in-postgresql-2iha)
-- [Explain these key concepts &lpar;Beginner Cloud DevOps Program &rpar;](https://dev.to/chifum/explain-these-key-concepts-beginner-cloud-devops-program--1k3i)
-- [Stream Audio from Raspberry Pi to Local Computer](https://dev.to/shilleh/stream-audio-from-raspberry-pi-to-local-computer-1a1c)
-- [self-host a Streamlit app&#39; on a Ubuntu server](https://dev.to/yactouat/self-host-a-streamlit-app-on-a-ubuntu-server-1f78)
+- [Unlocking Flutter&#39;s Power: Successfully Migrating Your App](https://dev.to/kachi14/unlocking-flutters-power-successfully-migrating-your-app-28gg)
+- [Understanding the controller-runtime Cache Seriously](https://dev.to/shuheiktgw/understanding-the-controller-runtime-cache-seriously-3c2k)
+- [Exploring the Solidity Programming Language for Smart Contracts](https://dev.to/kartikmehta8/exploring-the-solidity-programming-language-for-smart-contracts-28jk)
+- [Network Topologies- Netlify Dynamic Site Challenge](https://dev.to/yowise/network-topologies-netlify-dynamic-site-challenge-gje)
 <!-- BLOG-POST-LIST:END -->
 
