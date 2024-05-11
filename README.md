@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Apply a Material File to an OBJ in A-Frame](https://dev.to/mitchallen/how-to-apply-a-material-file-to-an-obj-in-a-frame-4j54)
-- [Image Editing with AI Cropping Tools](https://dev.to/msmith99994/image-editing-with-ai-cropping-tools-dbd)
-- [Exploring DDD, CQRS, and Event Sourcing: Insights from a complex project](https://dev.to/mmed199/exploring-ddd-cqrs-and-event-sourcing-insights-from-a-complex-project-2m9o)
-- [Single-Dimensional Arrays](https://dev.to/paulike/single-dimensional-arrays-33bh)
+- [How to become an Azure engineer](https://dev.to/themaxmillan/how-to-become-an-azure-engineer-31g8)
+- [What Happens When You Type https://www.google.com](https://dev.to/alsayedaldahawy/what-happens-when-you-type-httpswwwgooglecom-5ble)
+- [Using TimeProvider for Easier Unit Testing in .NET 8](https://dev.to/moh_moh701/using-timeprovider-for-easier-unit-testing-in-net-8-5fl3)
+- [Hosting a static website on an S3 bucket using Amazon CloudFront](https://dev.to/florenceokoli/hosting-a-static-website-on-an-s3-bucket-using-amazon-cloudfront-ob2)
 <!-- BLOG-POST-LIST:END -->
 
