@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Blocked Google Ads with Simple and Effective JavaScript](https://dev.to/livetvchannels/detecting-blocked-google-ads-with-simple-and-effective-javascript-1m5o)
-- [HOW CSS WORKS BEHIND THE SCENE](https://dev.to/princessaisha/how-css-works-behind-the-scene-497p)
-- [The Impact of Emerging Technologies on Adaptive Software Development](https://dev.to/ray_parker01/the-impact-of-emerging-technologies-on-adaptive-software-development-51em)
-- [Docker for Next.js](https://dev.to/codeparrot/docker-for-nextjs-4b2i)
+- [Curated List of the 500+ Best AI Tools, Ranked by Traffic](https://dev.to/foxinfotech/curated-list-of-the-500-best-ai-tools-ranked-by-traffic-15e8)
+- [Bubble pop challenge game by planets](https://dev.to/tidycoder/bubble-pop-challenge-game-by-planets-417j)
+- [Creating Kubernetes Cluster using Azure VMs](https://dev.to/deepcodr/creating-kubernetes-cluster-using-azure-vms-546k)
+- [Codepen logo with filter &lpar;filter challenge&rpar; by tidycoder](https://dev.to/tidycoder/codepen-logo-with-filter-filter-challenge-by-tidycoder-1hcb)
 <!-- BLOG-POST-LIST:END -->
 
