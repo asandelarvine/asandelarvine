@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A small survey about modern social medias.](https://dev.to/darnethal0z/a-small-survey-about-modern-social-medias-3lhe)
-- [Microsoft Azure AD Roles and Azure Roles Explained with Examples](https://dev.to/sangifeanyi/microsoft-azure-ad-roles-and-azure-roles-explained-with-examples-3dfa)
-- [4. Median of Two Sorted Arrays](https://dev.to/mdarifulhaque/4-median-of-two-sorted-arrays-54pa)
-- [857. Minimum Cost to Hire K Workers](https://dev.to/mdarifulhaque/857-minimum-cost-to-hire-k-workers-20e6)
+- [List of AI Models](https://dev.to/sbalasa/list-of-ai-models-17on)
+- [Como solucionar o erro &quot;The engine node is incompatible with this module.&quot;](https://dev.to/devaugusto/como-solucionar-o-erro-the-engine-node-is-incompatible-with-this-module-1jb4)
+- [Day 10: Anonymous Function](https://dev.to/codernko/day-10-anonymous-function-3cjh)
+- [Next js 14 First day - Styling in Next js](https://dev.to/mo7amedramadan/next-js-14-first-day-styling-in-next-js-3i0n)
 <!-- BLOG-POST-LIST:END -->
 
