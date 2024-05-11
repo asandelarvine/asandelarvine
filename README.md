@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Curated List of the 500+ Best AI Tools, Ranked by Traffic](https://dev.to/foxinfotech/curated-list-of-the-500-best-ai-tools-ranked-by-traffic-15e8)
-- [Bubble pop challenge game by planets](https://dev.to/tidycoder/bubble-pop-challenge-game-by-planets-417j)
-- [Creating Kubernetes Cluster using Azure VMs](https://dev.to/deepcodr/creating-kubernetes-cluster-using-azure-vms-546k)
-- [Codepen logo with filter &lpar;filter challenge&rpar; by tidycoder](https://dev.to/tidycoder/codepen-logo-with-filter-filter-challenge-by-tidycoder-1hcb)
+- [A small survey about modern social medias.](https://dev.to/darnethal0z/a-small-survey-about-modern-social-medias-3lhe)
+- [Microsoft Azure AD Roles and Azure Roles Explained with Examples](https://dev.to/sangifeanyi/microsoft-azure-ad-roles-and-azure-roles-explained-with-examples-3dfa)
+- [4. Median of Two Sorted Arrays](https://dev.to/mdarifulhaque/4-median-of-two-sorted-arrays-54pa)
+- [857. Minimum Cost to Hire K Workers](https://dev.to/mdarifulhaque/857-minimum-cost-to-hire-k-workers-20e6)
 <!-- BLOG-POST-LIST:END -->
 
