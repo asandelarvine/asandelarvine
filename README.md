@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache SOLR](https://dev.to/ale23yfm/apache-solr-2mli)
-- [HORROR GAME IN SCRATCH](https://dev.to/dino2328/horror-game-in-scratch-51gf)
-- [useEffect Hook](https://dev.to/fatimaalam1234/useeffect-hook-3gon)
-- [Basic concepts in Cloud Computing](https://dev.to/stippy4real/basic-concepts-in-cloud-computing-1i47)
+- [Every Wonder What is Hoisting? let&#39;s understand JavaScript&#39;s Built-in Behaviour](https://dev.to/codebyshreya/every-wonder-what-is-hoisting-3ch)
+- [Differences between CSS transitions, transforms, and animations](https://dev.to/palchandu_dev/differences-between-css-transitions-transforms-and-animations-58hi)
+- [My Pen on CodePen](https://dev.to/dominyke/my-pen-on-codepen-14fl)
+- [Go-like channels in C++](https://dev.to/hardenedsteel/go-like-channels-in-c-3i7h)
 <!-- BLOG-POST-LIST:END -->
 
