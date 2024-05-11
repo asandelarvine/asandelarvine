@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [List of AI Models](https://dev.to/sbalasa/list-of-ai-models-17on)
-- [Como solucionar o erro &quot;The engine node is incompatible with this module.&quot;](https://dev.to/devaugusto/como-solucionar-o-erro-the-engine-node-is-incompatible-with-this-module-1jb4)
-- [Day 10: Anonymous Function](https://dev.to/codernko/day-10-anonymous-function-3cjh)
-- [Next js 14 First day - Styling in Next js](https://dev.to/mo7amedramadan/next-js-14-first-day-styling-in-next-js-3i0n)
+- [Mastering Competitive Coding: String](https://dev.to/vivek1030/mastering-competitive-coding-string-4nic)
+- [Cloud Native](https://dev.to/mustafacam/cloud-native-46bd)
+- [Effective Terraform Variable Management in GitHub Actions](https://dev.to/bhanufyi/effective-terraform-variable-management-in-github-actions-488l)
+- [Introducing Krabber.net](https://dev.to/toul_codes/introducing-krabbernet-fh8)
 <!-- BLOG-POST-LIST:END -->
 
