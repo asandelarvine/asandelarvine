@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Foreign-key pre-join](https://dev.to/esproc_spl/foreign-key-pre-join-277n)
-- [How to Create a Travel Planner App With Flutter? Quick Guide](https://dev.to/dhruvjoshi9/how-to-create-a-travel-planner-app-with-flutter-quick-guide-57n1)
-- [Java Service Provider Interface &lpar;SPI&rpar;, what is it and how to use it](https://dev.to/c4rlosmonteiro/java-service-provider-interface-spi-what-is-it-and-how-to-use-it-3kn)
-- [Laravel Relationship Recipes: Simplifying Queries with whereBelongsTo](https://dev.to/muhammadsaim/laravel-relationship-recipes-simplifying-queries-with-wherebelongsto-17cm)
+- [Toxic Workplaces: When Is Enough Enough?](https://dev.to/devteam/toxic-workplaces-when-is-enough-enough-3cm)
+- [Back To Python Basics: *args &amp; **Kwargs](https://dev.to/bekbrace/back-to-python-basics-args-kwargs-1ooe)
+- [How to import CSV Files with React](https://dev.to/iacons/how-to-import-csv-files-with-react-2f0c)
+- [Building a TODO List App in React.js with Local Storage.](https://dev.to/vyan/building-a-todo-list-app-in-reactjs-with-local-storage-3fkg)
 <!-- BLOG-POST-LIST:END -->
 
