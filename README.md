@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS in a Simplified way and altruism thought](https://dev.to/janmejaisingh/css-in-a-simplified-way-and-altruism-thought-3abk)
-- [Harnessing Node.js Native File Watching for Enhanced Developer Productivity](https://dev.to/davidking/harnessing-nodejs-native-file-watching-for-enhanced-developer-productivity-fa7)
-- [Publish pure ESM npm package written in TypeScript to JSR](https://dev.to/fabon/publish-pure-esm-npm-package-written-in-typescript-to-jsr-4ih2)
-- [Social Sizer: Perfectly-Sized Images for Every Social Platform](https://dev.to/jeevaramanathan/social-sizer-perfectly-sized-images-for-every-social-platform-1kh3)
+- [Getting Started with TypeScript: Types](https://dev.to/youxufkhan/getting-started-with-typescript-types-4ono)
+- [Getting Started with TypeScript: Types](https://dev.to/youxufkhan/getting-started-with-typescript-types-2d2)
+- [Bypass AWS API Gateway limits: Upload large files using AWS S3 presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
+- [Stacks in Action: A Dive into the Concept and Implementation](https://dev.to/guihbc/stacks-in-action-a-dive-into-the-concept-and-implementation-2oo)
 <!-- BLOG-POST-LIST:END -->
 
