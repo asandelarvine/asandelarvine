@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap to Becoming a Java Backend Developer in 2024](https://dev.to/nikhilxd/roadmap-to-becoming-a-java-backend-developerin-2024-55og)
-- [🤝 Collaborative &amp; 📸 PhotoGrid Collage Maker - Built on Netlify Primitives ⚡️](https://dev.to/anselm94/collaborative-photogrid-collage-maker-built-on-netlify-primitives-gam)
-- [How to set time intervals on the timeline?](https://dev.to/skie1997/how-to-set-time-intervals-on-the-timeline-2l5h)
-- [Break repeating-key XOR](https://dev.to/stefanalfbo/break-repeating-key-xor-2jc6)
+- [Insights from HackSpaceCon 2024: Navigating Cybersecurity Challenges Ahead](https://dev.to/gitguardian/insights-from-hackspacecon-2024-navigating-cybersecurity-challenges-ahead-li3)
+- [Docker Container health Dashboard in Go](https://dev.to/surajupadhaya/docker-container-health-dashboard-in-go-4ehe)
+- [Automated Latex Resume with GitHub Action](https://dev.to/sahrohit/automated-latex-resume-with-github-action-e0p)
+- [Changing default application](https://dev.to/chalist/changing-default-application-j01)
 <!-- BLOG-POST-LIST:END -->
 
