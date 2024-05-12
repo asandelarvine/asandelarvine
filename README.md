@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JS Eventloop and Nodejs event loop different or not?](https://dev.to/killjoy__02/js-eventloop-and-nodejs-event-loop-different-or-not-4hbi)
-- [Static Code Analysis — deep dive](https://dev.to/pavlo_lozovikov/static-code-analysis-deep-dive-5e57)
-- [LangChain: Document Loading](https://dev.to/rutamstwt/langchain-document-loading-36j3)
-- [20+ Handy JavaScript Functions to Simplify Your Code | JavaScript Tutorial](https://dev.to/devsmitra/20-handy-javascript-functions-to-simplify-your-code-javascript-tutorial-i0e)
+- [Do You Meditate? 🧘‍♂️](https://dev.to/devteam/do-you-meditate-2b6e)
+- [10 Google Apps for Flutter Development with API Integration](https://dev.to/abdulrazack23/10-google-apps-for-flutter-development-with-api-integration-1n83)
+- [Static Code Analysis - deep dive](https://dev.to/plozovik/static-code-analysis-deep-dive-2790)
+- [🏆 Pick Your Champion - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/pick-your-champion-netlify-dynamic-site-challenge-502k)
 <!-- BLOG-POST-LIST:END -->
 
