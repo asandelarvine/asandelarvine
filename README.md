@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Thing Called AI; A Series](https://dev.to/zadazini/the-thing-called-ai-a-series-pi9)
-- [Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB&#39;s Practices](https://dev.to/greptime/error-handling-for-large-rust-projects-a-deep-dive-into-greptimedbs-practices-l9i)
-- [Overcoming Prometheus&#39;s Single-Value Data Model Limitations - A New Approach by GreptimeDB](https://dev.to/greptime/overcoming-prometheuss-single-value-data-model-limitations-a-new-approach-by-greptimedb-30cg)
-- [Vercel&#39;s New waitUntil Utility 🕰️✨](https://dev.to/mattlewandowski93/vercels-new-waituntil-30g9)
+- [Spotify + AI = Tune Genie](https://dev.to/joojodontoh/spotify-ai-tune-genie-7ko)
+- [Beginner&#39;s Guide to Writing Cleaner React Code with TanStack-Query](https://dev.to/abdullah-dev0/beginners-guide-to-writing-cleaner-react-code-with-tanstack-query-gn0)
+- [Coding with my team](https://dev.to/endlesslove21/coding-with-my-team-4f87)
+- [Using Valibot for Recursive Schema Validation](https://dev.to/allieschen/using-valibot-for-recursive-schema-validation-15ej)
 <!-- BLOG-POST-LIST:END -->
 
