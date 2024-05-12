@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The difference of writing CSR, SSR and SSG in Next.js App Router and Page Router.](https://dev.to/jamescroissant/the-difference-of-writing-csr-ssr-and-ssg-in-nextjs-app-router-and-page-router-1ci5)
-- [Use Smartphone Camera as Webcam for Apps in Windows 11](https://dev.to/winsidescom/use-smartphone-camera-as-webcam-for-apps-in-windows-11-cal)
-- [Obtaining the Cubic Hermite Spline Derivative on an Arbitrary Interval](https://dev.to/enghqii/obtaining-the-cubic-hermite-spline-derivative-on-an-arbitrary-interval-1hio)
-- [Quiz Dynamic App with Vue JS](https://dev.to/wilsonjuma/quiz-dynamic-app-with-vue-js-3c5c)
+- [JS Eventloop and Nodejs event loop different or not?](https://dev.to/killjoy__02/js-eventloop-and-nodejs-event-loop-different-or-not-4hbi)
+- [Static Code Analysis — deep dive](https://dev.to/pavlo_lozovikov/static-code-analysis-deep-dive-5e57)
+- [LangChain: Document Loading](https://dev.to/rutamstwt/langchain-document-loading-36j3)
+- [20+ Handy JavaScript Functions to Simplify Your Code | JavaScript Tutorial](https://dev.to/devsmitra/20-handy-javascript-functions-to-simplify-your-code-javascript-tutorial-i0e)
 <!-- BLOG-POST-LIST:END -->
 
