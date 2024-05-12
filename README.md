@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling Anchor Program From Rust](https://dev.to/swaroopmaddu/calling-anchor-program-from-rust-1ee2)
-- [Understanding Object-Oriented Analysis and Design &lpar;OOAD&rpar;](https://dev.to/zaselalk/understanding-object-oriented-analysis-and-design-ooad-loo)
-- [Netlify Dynamic Site Challenge: Mini Gallery](https://dev.to/ridays2001/netlify-dynamic-site-challenge-mini-gallery-h0f)
-- [Asymptotic Notations: A Comprehensive Guide](https://dev.to/princem/asymptotic-notations-a-comprehensive-guide-30i8)
+- [The Thing Called AI; A Series](https://dev.to/zadazini/the-thing-called-ai-a-series-pi9)
+- [Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB&#39;s Practices](https://dev.to/greptime/error-handling-for-large-rust-projects-a-deep-dive-into-greptimedbs-practices-l9i)
+- [Overcoming Prometheus&#39;s Single-Value Data Model Limitations - A New Approach by GreptimeDB](https://dev.to/greptime/overcoming-prometheuss-single-value-data-model-limitations-a-new-approach-by-greptimedb-30cg)
+- [Vercel&#39;s New waitUntil Utility 🕰️✨](https://dev.to/mattlewandowski93/vercels-new-waituntil-30g9)
 <!-- BLOG-POST-LIST:END -->
 
