@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [17. Letter Combinations of a Phone Number](https://dev.to/mdarifulhaque/17-letter-combinations-of-a-phone-number-1fjc)
-- [2373. Largest Local Values in a Matrix](https://dev.to/mdarifulhaque/2373-largest-local-values-in-a-matrix-5ale)
-- [Looking for a little direction](https://dev.to/kenny_hoyte_fb798a6e1196f/looking-for-a-little-direction-14mi)
-- [Manage a multiple websites server with Docker, Traefik and auto SSL certificates](https://dev.to/steeve/manage-a-multiple-websites-server-with-docker-treafik-and-auto-ssl-certificates-2hlj)
+- [Roadmap to Becoming a Java Backend Developer in 2024](https://dev.to/nikhilxd/roadmap-to-becoming-a-java-backend-developerin-2024-55og)
+- [🤝 Collaborative &amp; 📸 PhotoGrid Collage Maker - Built on Netlify Primitives ⚡️](https://dev.to/anselm94/collaborative-photogrid-collage-maker-built-on-netlify-primitives-gam)
+- [How to set time intervals on the timeline?](https://dev.to/skie1997/how-to-set-time-intervals-on-the-timeline-2l5h)
+- [Break repeating-key XOR](https://dev.to/stefanalfbo/break-repeating-key-xor-2jc6)
 <!-- BLOG-POST-LIST:END -->
 
