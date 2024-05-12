@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A litle bit CSS &amp; Variable Fonts Magic](https://dev.to/tetragius/a-litle-bit-css-variable-fonts-magic-41hi)
-- [Zig is the Next Big Programming Language](https://dev.to/dayvster/zig-is-the-next-big-programming-language-4dcl)
-- [Unveiling the Power of the &lt;img&gt; Element in HTML](https://dev.to/gracekid/unveiling-the-power-of-the-element-in-html-54kk)
-- [Mastering Lists in HTML: A Comprehensive Guide](https://dev.to/gracekid/mastering-lists-in-html-a-comprehensive-guide-17og)
+- [My new freelance era!](https://dev.to/supeergabs/my-new-freelance-era-5252)
+- [I need to create a PXE with the following configuration:](https://dev.to/octavio188/i-need-to-create-a-pxe-with-the-following-configuration-4l8m)
+- [Advanced Techniques in Deep Learning with TensorFlow](https://dev.to/kartikmehta8/advanced-techniques-in-deep-learning-with-tensorflow-5beo)
+- [Progress Update: Moving Forward with a New Functionality Implemented](https://dev.to/juan-alcalde/progress-update-moving-forward-with-a-new-functionality-implemented-59c3)
 <!-- BLOG-POST-LIST:END -->
 
