@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Meditate? 🧘‍♂️](https://dev.to/devteam/do-you-meditate-2b6e)
-- [10 Google Apps for Flutter Development with API Integration](https://dev.to/abdulrazack23/10-google-apps-for-flutter-development-with-api-integration-1n83)
-- [Static Code Analysis - deep dive](https://dev.to/plozovik/static-code-analysis-deep-dive-2790)
-- [🏆 Pick Your Champion - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/pick-your-champion-netlify-dynamic-site-challenge-502k)
+- [Calling Anchor Program From Rust](https://dev.to/swaroopmaddu/calling-anchor-program-from-rust-1ee2)
+- [Understanding Object-Oriented Analysis and Design &lpar;OOAD&rpar;](https://dev.to/zaselalk/understanding-object-oriented-analysis-and-design-ooad-loo)
+- [Netlify Dynamic Site Challenge: Mini Gallery](https://dev.to/ridays2001/netlify-dynamic-site-challenge-mini-gallery-h0f)
+- [Asymptotic Notations: A Comprehensive Guide](https://dev.to/princem/asymptotic-notations-a-comprehensive-guide-30i8)
 <!-- BLOG-POST-LIST:END -->
 
