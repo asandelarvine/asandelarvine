@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to take unlimited arguments in JavaScript](https://dev.to/bybydev/how-to-take-unlimited-arguments-in-javascript-21nb)
-- [How to Implement Deferrable Views in Angular 17 for Faster Load Times](https://dev.to/bytebantz/how-to-implement-deferrable-views-in-angular-17-for-faster-load-times-3036)
-- [How to Implement Deferrable Views in Angular 17 for Faster Load Times](https://dev.to/bytebantz/how-to-implement-deferrable-views-in-angular-17-for-faster-load-times-520a)
-- [How to Implement Deferrable Views in Angular 17 for Faster Load Times](https://dev.to/bytebantz/how-to-implement-deferrable-views-in-angular-17-for-faster-load-times-2bpj)
+- [17. Letter Combinations of a Phone Number](https://dev.to/mdarifulhaque/17-letter-combinations-of-a-phone-number-1fjc)
+- [2373. Largest Local Values in a Matrix](https://dev.to/mdarifulhaque/2373-largest-local-values-in-a-matrix-5ale)
+- [Looking for a little direction](https://dev.to/kenny_hoyte_fb798a6e1196f/looking-for-a-little-direction-14mi)
+- [Manage a multiple websites server with Docker, Traefik and auto SSL certificates](https://dev.to/steeve/manage-a-multiple-websites-server-with-docker-treafik-and-auto-ssl-certificates-2hlj)
 <!-- BLOG-POST-LIST:END -->
 
