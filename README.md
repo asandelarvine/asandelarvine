@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My new freelance era!](https://dev.to/supeergabs/my-new-freelance-era-5252)
+- [Memories Apple Vision👓 Concept App using Netlify&#39;s Image CDN](https://dev.to/srikant_code/memories-apple-vision-concept-app-using-netlifys-image-cdn-1i0h)
+- [My new freelance era!](https://dev.to/supeergabs/my-freelance-era-4iki)
 - [I need to create a PXE with the following configuration:](https://dev.to/octavio188/i-need-to-create-a-pxe-with-the-following-configuration-4l8m)
 - [Advanced Techniques in Deep Learning with TensorFlow](https://dev.to/kartikmehta8/advanced-techniques-in-deep-learning-with-tensorflow-5beo)
-- [Progress Update: Moving Forward with a New Functionality Implemented](https://dev.to/juan-alcalde/progress-update-moving-forward-with-a-new-functionality-implemented-59c3)
 <!-- BLOG-POST-LIST:END -->
 
