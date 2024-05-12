@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing GitHub Repositories with this package manager](https://dev.to/omegaui/installing-github-repositories-with-this-package-manager-5a3o)
-- [Automatic Image Cropping](https://dev.to/msmith99994/automatic-image-cropping-5f3k)
-- [Topic Modeling: Machine Learning Technique 301](https://dev.to/aftabahmedabro/topic-modeling-machine-learning-technique-301-17og)
-- [Integrating Video in Next.js Projects](https://dev.to/msmith99994/integrating-video-in-nextjs-projects-2g4f)
+- [Clever Caching a Stock Analysis app using Netlify&#39;s fine-grained cache control](https://dev.to/ashiqsultan/clever-caching-a-stock-analysis-app-using-netlifys-fine-grained-cache-control-268b)
+- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-1a2i)
+- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-4a9o)
+- [Rust Advance Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-advance-cheatsheet-4ki8)
 <!-- BLOG-POST-LIST:END -->
 
