@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Stunning React Photo Gallery](https://dev.to/msmith99994/building-a-stunning-react-photo-gallery-5e66)
-- [Friendly Waffle 🧇](https://dev.to/lizardkinglk/friendly-waffle-81g)
-- [Is null a dataType in Javascript?](https://dev.to/const_variable/is-null-a-datatype-in-javascript-1ol2)
-- [With Makefile - Nest.js docker deployment and versioning automation](https://dev.to/pragmaticfrontend/with-makefile-nestjs-docker-deployment-and-versioning-automation-m6m)
+- [Installing GitHub Repositories with this package manager](https://dev.to/omegaui/installing-github-repositories-with-this-package-manager-5a3o)
+- [Automatic Image Cropping](https://dev.to/msmith99994/automatic-image-cropping-5f3k)
+- [Topic Modeling: Machine Learning Technique 301](https://dev.to/aftabahmedabro/topic-modeling-machine-learning-technique-301-17og)
+- [Integrating Video in Next.js Projects](https://dev.to/msmith99994/integrating-video-in-nextjs-projects-2g4f)
 <!-- BLOG-POST-LIST:END -->
 
