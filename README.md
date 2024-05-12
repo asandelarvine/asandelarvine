@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify + AI = Tune Genie](https://dev.to/joojodontoh/spotify-ai-tune-genie-7ko)
-- [Beginner&#39;s Guide to Writing Cleaner React Code with TanStack-Query](https://dev.to/abdullah-dev0/beginners-guide-to-writing-cleaner-react-code-with-tanstack-query-gn0)
-- [Coding with my team](https://dev.to/endlesslove21/coding-with-my-team-4f87)
-- [Using Valibot for Recursive Schema Validation](https://dev.to/allieschen/using-valibot-for-recursive-schema-validation-15ej)
+- [Building a Stunning React Photo Gallery](https://dev.to/msmith99994/building-a-stunning-react-photo-gallery-5e66)
+- [Friendly Waffle 🧇](https://dev.to/lizardkinglk/friendly-waffle-81g)
+- [Is null a dataType in Javascript?](https://dev.to/const_variable/is-null-a-datatype-in-javascript-1ol2)
+- [With Makefile - Nest.js docker deployment and versioning automation](https://dev.to/pragmaticfrontend/with-makefile-nestjs-docker-deployment-and-versioning-automation-m6m)
 <!-- BLOG-POST-LIST:END -->
 
