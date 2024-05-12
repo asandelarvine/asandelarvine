@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clever Caching a Stock Analysis app using Netlify&#39;s fine-grained cache control](https://dev.to/ashiqsultan/clever-caching-a-stock-analysis-app-using-netlifys-fine-grained-cache-control-268b)
-- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-1a2i)
-- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-4a9o)
-- [Rust Advance Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-advance-cheatsheet-4ki8)
+- [Asterisk Stun Turn Server: How to.](https://dev.to/alakkadshaw/asterisk-stun-turn-server-how-to-322e)
+- [Writing automated tests with Python](https://dev.to/jared201/writing-automated-tests-with-python-3kcj)
+- [💎 Using Ruby&#39;s SecureRandom to Strengthen User Authentication](https://dev.to/take0420/using-rubys-securerandom-to-strengthen-user-authentication-he3)
+- [Laravel Machine Learning Anybody?](https://dev.to/kwnaidoo/laravel-machine-learning-anybody-10ba)
 <!-- BLOG-POST-LIST:END -->
 
