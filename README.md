@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Logo Hunter - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/logo-hunter-netlify-dynamic-site-challenge-367g)
-- [JavaScript vs TypeScript](https://dev.to/sh20raj/javascript-vs-typescript-5ag7)
-- [5 Angular Libraries You Want To Use In Your Project](https://dev.to/hirushafernando/5-angular-libraries-you-want-to-use-in-your-project-35ic)
-- [Introducing encache: A Powerful Caching Library for Go](https://dev.to/forkbikash/introducing-encache-a-powerful-caching-library-for-go-2jdp)
+- [The difference of writing CSR, SSR and SSG in Next.js App Router and Page Router.](https://dev.to/jamescroissant/the-difference-of-writing-csr-ssr-and-ssg-in-nextjs-app-router-and-page-router-1ci5)
+- [Use Smartphone Camera as Webcam for Apps in Windows 11](https://dev.to/winsidescom/use-smartphone-camera-as-webcam-for-apps-in-windows-11-cal)
+- [Obtaining the Cubic Hermite Spline Derivative on an Arbitrary Interval](https://dev.to/enghqii/obtaining-the-cubic-hermite-spline-derivative-on-an-arbitrary-interval-1hio)
+- [Quiz Dynamic App with Vue JS](https://dev.to/wilsonjuma/quiz-dynamic-app-with-vue-js-3c5c)
 <!-- BLOG-POST-LIST:END -->
 
