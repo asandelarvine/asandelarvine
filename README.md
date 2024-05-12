@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Colab With Open AI](https://dev.to/rswijesena/google-colab-with-open-ai-2l7j)
-- [Discover | Apple Vision👓 Concept App using Netlify&#39;s Cache revalidation &amp; Next JS SSR](https://dev.to/srikant_code/discover-apple-vision-concept-app-using-netlifys-cache-revalidation-next-js-ssr-1ifj)
-- [Hosting Sendy on AWS EC2](https://dev.to/azayshrestha/hosting-sendy-on-aws-ec2-1i9b)
-- [Albums | Apple Vision👓 Concept App using Netlify&#39;s Blobs &amp; Next JS](https://dev.to/srikant_code/albums-apple-vision-concept-app-using-netlifys-blobs-next-js-9ep)
+- [🎨 Logo Hunter - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/logo-hunter-netlify-dynamic-site-challenge-367g)
+- [JavaScript vs TypeScript](https://dev.to/sh20raj/javascript-vs-typescript-5ag7)
+- [5 Angular Libraries You Want To Use In Your Project](https://dev.to/hirushafernando/5-angular-libraries-you-want-to-use-in-your-project-35ic)
+- [Introducing encache: A Powerful Caching Library for Go](https://dev.to/forkbikash/introducing-encache-a-powerful-caching-library-for-go-2jdp)
 <!-- BLOG-POST-LIST:END -->
 
