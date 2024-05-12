@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MagPies - An Image sharing app built using Rasengan.js and Netlify CDN Image.](https://dev.to/dilane3/magpies-an-image-sharing-app-built-using-rasenganjs-and-netlify-cdn-image-2inc)
-- [Art x Hack](https://dev.to/code42cate/art-x-hack-44k7)
-- [Firebase Needs More Compatibility for JavaScript Environments](https://dev.to/jdgamble555/firebase-needs-more-compatibility-for-javascript-environments-g50)
-- [Fast Storage - Netlify Blob challenge](https://dev.to/hailg/fast-storage-netlify-blob-challenge-5f96)
+- [What not to do when learning React?](https://dev.to/g3nt/what-not-to-do-when-learning-react-4489)
+- [Leitura comentada - Arquitetura Limpa - Capítulo 3 - Panorama do Paradigma](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-capitulo-3-panorama-do-paradigma-3ebg)
+- [How to handle media uploads in Django](https://dev.to/emiloju/how-to-handle-media-uploads-in-django-1kpc)
+- [Mappables in typescript](https://dev.to/eatyourabstractions/mappables-in-typescript-26f8)
 <!-- BLOG-POST-LIST:END -->
 
