@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What not to do when learning React?](https://dev.to/g3nt/what-not-to-do-when-learning-react-4489)
-- [Leitura comentada - Arquitetura Limpa - Capítulo 3 - Panorama do Paradigma](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-capitulo-3-panorama-do-paradigma-3ebg)
-- [How to handle media uploads in Django](https://dev.to/emiloju/how-to-handle-media-uploads-in-django-1kpc)
-- [Mappables in typescript](https://dev.to/eatyourabstractions/mappables-in-typescript-26f8)
+- [How to convert python byte string to byte array c-sharp/Java](https://dev.to/lexycodestudio/how-to-convert-python-byte-string-to-byte-array-c-sharpjava-27b1)
+- [Making payments with Stripe](https://dev.to/yokwejuste/making-payments-with-stripe-5ekn)
+- [Netlify Dynamic Site Challenge : Using the power of CDNs and Transformations for a visual feast](https://dev.to/mayankarya/netlify-dynamic-site-challenge-using-the-power-of-cdns-and-transformations-for-a-visual-feast-4kce)
+- [Next.js Zustand Integration Guide for Server and Client Components](https://dev.to/abdullah-dev0/nextjs-zustand-integration-guide-for-server-and-client-components-4ge9)
 <!-- BLOG-POST-LIST:END -->
 
