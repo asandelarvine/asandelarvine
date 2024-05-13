@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [History of Artificial Intelligence: How it all started.](https://dev.to/michellebuchiokonicha/history-of-artificial-intelligence-how-it-all-started-20eb)
-- [2024-05-13: Skipped a week](https://dev.to/armantark/2024-05-13-skipped-a-week-1gp9)
-- [Test post](https://dev.to/justingonca/test-post-mif)
-- [Personalizando o README do seu perfil do GitHub](https://dev.to/kauefraga/personalizando-o-readme-do-seu-perfil-do-github-52ke)
+- [Understanding Closure in JavaScript: A Comprehensive Guide](https://dev.to/jekingohel/understanding-closure-in-javascript-a-comprehensive-guide-28gl)
+- [Linux: fast understand how to use a command](https://dev.to/devh0us3/linux-fast-understand-how-to-use-a-command-5g2h)
+- [The ORM vs. ODM Debate: A Node.js Backend Perspective](https://dev.to/iam-phenomenal/the-orm-vs-odm-debate-a-nodejs-backend-perspective-3pa0)
+- [Noscript: Turn off useless scripts](https://dev.to/devh0us3/noscript-turn-off-useless-scripts-5ank)
 <!-- BLOG-POST-LIST:END -->
 
