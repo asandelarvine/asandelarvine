@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with features, not apps](https://dev.to/opensourcee/start-with-features-not-apps-20oc)
-- [Tell us about your first step in your coding journey✈](https://dev.to/masteing_the_code/tell-us-about-your-first-step-in-your-coding-journey-1c10)
-- [Passwort Generator](https://dev.to/bylickilabs/passwort-generator-4jbb)
-- [How to Persist User Info Using Redux Persist with TypeScript](https://dev.to/hossain45/how-to-persist-user-info-using-redux-persist-with-typescript-54g9)
+- [Understanding JavaScript Closures](https://dev.to/antonmartyniuk/understanding-javascript-closures-1gb8)
+- [AWS open source newsletter, #197](https://dev.to/aws/aws-open-source-newsletter-197-2e2d)
+- [Python sets and tuples in pictures](https://dev.to/onumaku_bobby/python-sets-and-tuples-in-pictures-pke)
+- [Clean Architecture: Business rules first!](https://dev.to/nlapointe/clean-architecture-business-rules-first-4dlo)
 <!-- BLOG-POST-LIST:END -->
 
