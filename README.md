@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Encryption: Secure Your Data with Best Practices](https://dev.to/dbvismarketing/database-encryption-secure-your-data-with-best-practices-20ei)
-- [Mitosis - One compoent for all](https://dev.to/giuliano1993/mitosis-one-compoent-for-all-300e)
-- [Do Hard Habits Pay Off?](https://dev.to/devteam/do-hard-habits-pay-off-2cjh)
-- [Dynamic Gallery with Netlify Image CDN](https://dev.to/aniket_chauhan/dynamic-gallery-with-netlify-image-cdn-2k80)
+- [Top 7 VS Code Extensions for React Developers](https://dev.to/mirfan244/top-7-vs-code-extensions-for-react-developers-1npo)
+- [Introduction to Using Vuex for State Management in Vue.js 🚀🔄](https://dev.to/amatisse/introduction-to-using-vuex-for-state-management-in-vuejs-2io)
+- [Arrays and slices in Go](https://dev.to/charly3pins/arrays-and-slices-in-go-5cml)
+- [Fileman - SFTP File Manager](https://dev.to/cold_weather/fileman-sftp-file-manager-15p)
 <!-- BLOG-POST-LIST:END -->
 
