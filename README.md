@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Chat App with Your Postgres Data using Agent Cloud](https://dev.to/agentcloud/how-to-build-a-chat-app-with-your-postgres-data-using-agent-cloud-33hk)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7)
-- [Mastering React Hooks: Best Practices and Common Pitfalls](https://dev.to/codesensei/mastering-react-hooks-best-practices-and-common-pitfalls-3d9i)
-- [The Must-Have VS Code Extensions of 2024: Guide to Essential VS Code Extensions](https://dev.to/proflead/the-must-have-vs-code-extensions-of-2024-guide-to-essential-vs-code-extensions-209o)
+- [The Advantages of Bun: When to Choose it Over Node.js 🔥](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
+- [JUnit Tutorial: An Inclusive Guide [With Enhanced Features]](https://dev.to/saniyagazala/junit-tutorial-an-inclusive-guide-with-enhanced-features-285k)
+- [Yokai - new SQL module](https://dev.to/ekkinox/yokai-new-sql-module-1jep)
+- [Ctrl + Alt + Kubernetes: Navigate the Cloud-Native Cosmos with Me :-&rpar;](https://dev.to/talyitzhak/ctrl-alt-kubernetes-navigate-the-cloud-native-cosmos-with-me--37e0)
 <!-- BLOG-POST-LIST:END -->
 
