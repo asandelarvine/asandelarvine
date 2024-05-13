@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a command line application with Rust](https://dev.to/damcosset/create-a-command-line-application-with-rust-45o6)
-- [WHOIS JSON APIs: Simplifying Domain Information](https://dev.to/ahmedmukhtar1133/whois-json-apis-simplifying-domain-information-4bno)
-- [Day 1 of Coding Bootcamp](https://dev.to/brittanykreyes/day-1-of-coding-bootcamp-2403)
-- [Discord CDN Proxy](https://dev.to/useapi/discord-cdn-proxy-211c)
+- [Podcast Palooza— What are you listening to? &lpar;Music Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-music-edition-325k)
+- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://dev.to/aws-builders/mastering-the-aws-security-specialty-scs-exam-a-quick-guide-2go0)
+- [In technical writing, the devil is NOT in the details](https://dev.to/gewenyu99/in-technical-writing-the-devil-is-not-in-the-details-36fn)
+- [OAuth2.0](https://dev.to/arimayuji/oauth20-5e5g)
 <!-- BLOG-POST-LIST:END -->
 
