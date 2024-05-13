@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enjoy Comfortable Operation with a Lightweight Handheld Chainsaw](https://dev.to/cleopat00/enjoy-comfortable-operation-with-a-lightweight-handheld-chainsaw-1j2k)
-- [Classes and Objects: Representations of Our World in Code](https://dev.to/gasparericmartin/classes-and-objects-representations-of-our-world-in-code-4dhi)
-- [Testes unitários](https://dev.to/gabrielsb18/testes-unitarios-21np)
-- [The FAQ of productivity application RunFlow](https://dev.to/easepan/the-faq-of-productivity-application-runflow-2205)
+- [A Beginner’s Look into Azure Active Directory &lpar;Microsoft Entra ID&rpar; and Roles with a Simple Exercise](https://dev.to/himora22/a-beginners-look-into-azure-active-directory-microsoft-entra-id-and-roles-in-azure-with-a-simple-exercise-2k4c)
+- [Arrow Flight SQL in Apache Doris for 10X faster data transfer](https://dev.to/apachedoris/arrow-flight-sql-in-apache-doris-for-10x-faster-data-transfermd-33ag)
+- [The Graph&#39;s Revolutionary Expansion](https://dev.to/wesson_huang/the-graphs-revolutionary-expansion-22kf)
+- [React Error Boundary: A Guide to Gracefully Handling Errors](https://dev.to/sachinchaurasiya/react-error-boundary-a-guide-to-gracefully-handling-errors-2050)
 <!-- BLOG-POST-LIST:END -->
 
