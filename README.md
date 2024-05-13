@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Advantages of Bun: When to Choose it Over Node.js 🔥](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
-- [JUnit Tutorial: An Inclusive Guide [With Enhanced Features]](https://dev.to/saniyagazala/junit-tutorial-an-inclusive-guide-with-enhanced-features-285k)
-- [Yokai - new SQL module](https://dev.to/ekkinox/yokai-new-sql-module-1jep)
-- [Ctrl + Alt + Kubernetes: Navigate the Cloud-Native Cosmos with Me :-&rpar;](https://dev.to/talyitzhak/ctrl-alt-kubernetes-navigate-the-cloud-native-cosmos-with-me--37e0)
+- [History of Artificial Intelligence: How it all started.](https://dev.to/michellebuchiokonicha/history-of-artificial-intelligence-how-it-all-started-20eb)
+- [2024-05-13: Skipped a week](https://dev.to/armantark/2024-05-13-skipped-a-week-1gp9)
+- [Test post](https://dev.to/justingonca/test-post-mif)
+- [Personalizando o README do seu perfil do GitHub](https://dev.to/kauefraga/personalizando-o-readme-do-seu-perfil-do-github-52ke)
 <!-- BLOG-POST-LIST:END -->
 
