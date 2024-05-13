@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Closure in JavaScript: A Comprehensive Guide](https://dev.to/jekingohel/understanding-closure-in-javascript-a-comprehensive-guide-28gl)
-- [Linux: fast understand how to use a command](https://dev.to/devh0us3/linux-fast-understand-how-to-use-a-command-5g2h)
-- [The ORM vs. ODM Debate: A Node.js Backend Perspective](https://dev.to/iam-phenomenal/the-orm-vs-odm-debate-a-nodejs-backend-perspective-3pa0)
-- [Noscript: Turn off useless scripts](https://dev.to/devh0us3/noscript-turn-off-useless-scripts-5ank)
+- [Understanding JavaScript Prototypes: From Basics to ES6 Classes](https://dev.to/jekingohel/understanding-javascript-prototypes-from-basics-to-es6-classes-3noj)
+- [O que é SOAR?](https://dev.to/rafaelbonilha/o-que-e-soar-3j50)
+- [Snowy Insights - A Data Exploration and visualization](https://dev.to/olatunjiayodel9/snowy-insights-a-data-exploration-and-visualization-3i8i)
+- [Integrating a custom AI copilot into a new](https://dev.to/olatunjiayodel9/integrating-a-custom-ai-copilot-into-a-new-3e37)
 <!-- BLOG-POST-LIST:END -->
 
