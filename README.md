@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Prototypes: From Basics to ES6 Classes](https://dev.to/jekingohel/understanding-javascript-prototypes-from-basics-to-es6-classes-3noj)
-- [O que é SOAR?](https://dev.to/rafaelbonilha/o-que-e-soar-3j50)
-- [Snowy Insights - A Data Exploration and visualization](https://dev.to/olatunjiayodel9/snowy-insights-a-data-exploration-and-visualization-3i8i)
-- [Integrating a custom AI copilot into a new](https://dev.to/olatunjiayodel9/integrating-a-custom-ai-copilot-into-a-new-3e37)
+- [A Verdade Inconveniente sobre a Lógica de Programação - Por que Ela não Prepara os Alunos para a Orientação a Objetos](https://dev.to/terminalcoffee/a-verdade-inconveniente-sobre-a-logica-de-programacao-por-que-ela-nao-prepara-os-alunos-para-a-orientacao-a-objetos-3l28)
+- [A Brief History Of Serverless](https://dev.to/jasonsmith/a-brief-history-of-serverless-1db6)
+- [Leveraging AI in Video Editing: An Exploration of Cutting-Edge Tools for Developers](https://dev.to/matthewshort11/leveraging-ai-in-video-editing-an-exploration-of-cutting-edge-tools-for-developers-2n3b)
+- [Hide Rick Rolls in a Spotify Link](https://dev.to/wulfmann/spotify-rick-roll-8ec)
 <!-- BLOG-POST-LIST:END -->
 
