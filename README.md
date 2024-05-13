@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to convert python byte string to byte array c-sharp/Java](https://dev.to/lexycodestudio/how-to-convert-python-byte-string-to-byte-array-c-sharpjava-27b1)
-- [Making payments with Stripe](https://dev.to/yokwejuste/making-payments-with-stripe-5ekn)
-- [Netlify Dynamic Site Challenge : Using the power of CDNs and Transformations for a visual feast](https://dev.to/mayankarya/netlify-dynamic-site-challenge-using-the-power-of-cdns-and-transformations-for-a-visual-feast-4kce)
-- [Next.js Zustand Integration Guide for Server and Client Components](https://dev.to/abdullah-dev0/nextjs-zustand-integration-guide-for-server-and-client-components-4ge9)
+- [Hey!Sound: Upload and Vote for the Best Audios on the Internet](https://dev.to/fazzaamiarso/heysound-upload-and-vote-for-the-best-audios-on-the-internet-57me)
+- [Why Python Is Easier &lpar;Loops edition&rpar;](https://dev.to/chaseteague/why-python-is-easier-loops-edition-8p3)
+- [Introduction to Zero Trust Security Models](https://dev.to/kartikmehta8/introduction-to-zero-trust-security-models-4g1n)
+- [Mastering Object Calisthenics in PHP 8: Crafting Cleaner Code](https://dev.to/razielrodrigues/mastering-object-calisthenics-in-php-8-crafting-cleaner-code-381l)
 <!-- BLOG-POST-LIST:END -->
 
