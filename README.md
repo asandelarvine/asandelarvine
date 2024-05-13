@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley&#39;s Inevitable Collapse](https://dev.to/polterguy/silicon-valleys-inevitable-collapse-2702)
-- [40 Interview Questions on Python Strings](https://dev.to/chinnanj/40-interview-questions-on-python-strings-4b0e)
-- [Styling dynamic HTML content in Vue &amp; React with TailwindCSS](https://dev.to/jacobandrewsky/styling-dynamic-html-content-in-vue-react-with-tailwindcss-396a)
-- [Advanced Magento 2 Security Features: A Deep Dive](https://dev.to/charleslyman/advanced-magento-2-security-features-a-deep-dive-2n2l)
+- [Start with features, not apps](https://dev.to/opensourcee/start-with-features-not-apps-20oc)
+- [Tell us about your first step in your coding journey✈](https://dev.to/masteing_the_code/tell-us-about-your-first-step-in-your-coding-journey-1c10)
+- [Passwort Generator](https://dev.to/bylickilabs/passwort-generator-4jbb)
+- [How to Persist User Info Using Redux Persist with TypeScript](https://dev.to/hossain45/how-to-persist-user-info-using-redux-persist-with-typescript-54g9)
 <!-- BLOG-POST-LIST:END -->
 
