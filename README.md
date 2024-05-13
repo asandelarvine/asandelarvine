@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Powerful Practices Every New Developer Should Adopt](https://dev.to/baransel/powerful-practices-every-new-developer-should-adopt-2j7d)
-- [Terraform Registry Guide: Tips, Examples and Best Practices](https://dev.to/env0/terraform-registry-guide-tips-examples-and-best-practices-1idl)
-- [How to Add Paid Features to Your SaaS Apps](https://dev.to/aws-builders/how-to-add-paid-features-to-your-saas-apps-1fjb)
-- [Manual setup for a minimal Storybook](https://dev.to/dannyhw/manual-minimal-storybook-8-setup-98j)
+- [Engineering for Product market fit](https://dev.to/udayanmaurya/engineering-for-product-market-fit-47a8)
+- [Python in DevOps: Automation and Configuration Management](https://dev.to/techtobe101/python-in-devops-automation-and-configuration-management-2lnn)
+- [Getting Started with Python for DevOps](https://dev.to/techtobe101/getting-started-with-python-for-devops-3172)
+- [Mastering the Remote Work &amp; Travel Balance: My 8-Week Journey in Australia](https://dev.to/per-starke-642/mastering-the-remote-work-travel-balance-my-8-week-journey-in-australia-2p62)
 <!-- BLOG-POST-LIST:END -->
 
