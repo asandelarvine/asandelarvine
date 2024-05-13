@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Verdade Inconveniente sobre a Lógica de Programação - Por que Ela não Prepara os Alunos para a Orientação a Objetos](https://dev.to/terminalcoffee/a-verdade-inconveniente-sobre-a-logica-de-programacao-por-que-ela-nao-prepara-os-alunos-para-a-orientacao-a-objetos-3l28)
-- [A Brief History Of Serverless](https://dev.to/jasonsmith/a-brief-history-of-serverless-1db6)
-- [Leveraging AI in Video Editing: An Exploration of Cutting-Edge Tools for Developers](https://dev.to/matthewshort11/leveraging-ai-in-video-editing-an-exploration-of-cutting-edge-tools-for-developers-2n3b)
-- [Hide Rick Rolls in a Spotify Link](https://dev.to/wulfmann/spotify-rick-roll-8ec)
+- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-53g0)
+- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-2jk9)
+- [Staking Triple: Restaking de tokens de Restaking en Solidity &lpar;Con Ejemplos&rpar;](https://dev.to/turupawn/staking-triple-restaking-de-tokens-de-restaking-en-solidity-con-ejemplos-3229)
+- [Create and Deploy a Discord Bot for Free with Fly.io](https://dev.to/columk1/create-and-deploy-a-discord-bot-for-free-with-flyio-dp9)
 <!-- BLOG-POST-LIST:END -->
 
