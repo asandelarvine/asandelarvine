@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 VS Code Extensions for React Developers](https://dev.to/mirfan244/top-7-vs-code-extensions-for-react-developers-1npo)
-- [Introduction to Using Vuex for State Management in Vue.js 🚀🔄](https://dev.to/amatisse/introduction-to-using-vuex-for-state-management-in-vuejs-2io)
-- [Arrays and slices in Go](https://dev.to/charly3pins/arrays-and-slices-in-go-5cml)
-- [Fileman - SFTP File Manager](https://dev.to/cold_weather/fileman-sftp-file-manager-15p)
+- [Silicon Valley&#39;s Inevitable Collapse](https://dev.to/polterguy/silicon-valleys-inevitable-collapse-2702)
+- [40 Interview Questions on Python Strings](https://dev.to/chinnanj/40-interview-questions-on-python-strings-4b0e)
+- [Styling dynamic HTML content in Vue &amp; React with TailwindCSS](https://dev.to/jacobandrewsky/styling-dynamic-html-content-in-vue-react-with-tailwindcss-396a)
+- [Advanced Magento 2 Security Features: A Deep Dive](https://dev.to/charleslyman/advanced-magento-2-security-features-a-deep-dive-2n2l)
 <!-- BLOG-POST-LIST:END -->
 
