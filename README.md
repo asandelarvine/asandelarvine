@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a free, fully-featured, infinitely scalable IaaS with predictable pricing](https://dev.to/winstonpuckett/making-a-free-fully-featured-infinitely-scalable-iaas-with-predictable-pricing-1ip2)
-- [Opensource vs Closedsource Models?](https://dev.to/sid16/opensource-vs-closedsource-models-5gpm)
-- [Use Cases of XPath Python In Selenium With Examples](https://dev.to/lambdatest/use-cases-of-xpath-python-in-selenium-with-examples-lec)
-- [How to Model Cloud-Native Authorization](https://dev.to/permit_io/how-to-model-cloud-native-authorization-aek)
+- [Powerful Practices Every New Developer Should Adopt](https://dev.to/baransel/powerful-practices-every-new-developer-should-adopt-2j7d)
+- [Terraform Registry Guide: Tips, Examples and Best Practices](https://dev.to/env0/terraform-registry-guide-tips-examples-and-best-practices-1idl)
+- [How to Add Paid Features to Your SaaS Apps](https://dev.to/aws-builders/how-to-add-paid-features-to-your-saas-apps-1fjb)
+- [Manual setup for a minimal Storybook](https://dev.to/dannyhw/manual-minimal-storybook-8-setup-98j)
 <!-- BLOG-POST-LIST:END -->
 
