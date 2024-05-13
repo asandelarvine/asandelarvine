@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Look into Azure Active Directory &lpar;Microsoft Entra ID&rpar; and Roles with a Simple Exercise](https://dev.to/himora22/a-beginners-look-into-azure-active-directory-microsoft-entra-id-and-roles-in-azure-with-a-simple-exercise-2k4c)
-- [Arrow Flight SQL in Apache Doris for 10X faster data transfer](https://dev.to/apachedoris/arrow-flight-sql-in-apache-doris-for-10x-faster-data-transfermd-33ag)
-- [The Graph&#39;s Revolutionary Expansion](https://dev.to/wesson_huang/the-graphs-revolutionary-expansion-22kf)
-- [React Error Boundary: A Guide to Gracefully Handling Errors](https://dev.to/sachinchaurasiya/react-error-boundary-a-guide-to-gracefully-handling-errors-2050)
+- [✨ Meet EP - A Bespoke Platform For Uploading Event Photos, Powered By Netlify](https://dev.to/omzi/meet-ep-a-bespoke-platform-for-uploading-event-photos-powered-by-netlify-4ge5)
+- [This is how I&#39;d start an Ultralearning project](https://dev.to/canro91/this-is-how-id-start-an-ultralearning-project-359b)
+- [How do SQL interprets nulls?](https://dev.to/mustafabalila/how-do-sql-interprets-nulls-315k)
+- [Schemetastic Renders - Free 3D renders for your next project](https://dev.to/schemetastic/schemetastic-renders-free-3d-renders-for-your-next-project-1l35)
 <!-- BLOG-POST-LIST:END -->
 
