@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-53g0)
-- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-2jk9)
-- [Staking Triple: Restaking de tokens de Restaking en Solidity &lpar;Con Ejemplos&rpar;](https://dev.to/turupawn/staking-triple-restaking-de-tokens-de-restaking-en-solidity-con-ejemplos-3229)
-- [Create and Deploy a Discord Bot for Free with Fly.io](https://dev.to/columk1/create-and-deploy-a-discord-bot-for-free-with-flyio-dp9)
+- [Create a command line application with Rust](https://dev.to/damcosset/create-a-command-line-application-with-rust-45o6)
+- [WHOIS JSON APIs: Simplifying Domain Information](https://dev.to/ahmedmukhtar1133/whois-json-apis-simplifying-domain-information-4bno)
+- [Day 1 of Coding Bootcamp](https://dev.to/brittanykreyes/day-1-of-coding-bootcamp-2403)
+- [Discord CDN Proxy](https://dev.to/useapi/discord-cdn-proxy-211c)
 <!-- BLOG-POST-LIST:END -->
 
