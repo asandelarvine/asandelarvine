@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Closures](https://dev.to/antonmartyniuk/understanding-javascript-closures-1gb8)
-- [AWS open source newsletter, #197](https://dev.to/aws/aws-open-source-newsletter-197-2e2d)
-- [Python sets and tuples in pictures](https://dev.to/onumaku_bobby/python-sets-and-tuples-in-pictures-pke)
-- [Clean Architecture: Business rules first!](https://dev.to/nlapointe/clean-architecture-business-rules-first-4dlo)
+- [Making a free, fully-featured, infinitely scalable IaaS with predictable pricing](https://dev.to/winstonpuckett/making-a-free-fully-featured-infinitely-scalable-iaas-with-predictable-pricing-1ip2)
+- [Opensource vs Closedsource Models?](https://dev.to/sid16/opensource-vs-closedsource-models-5gpm)
+- [Use Cases of XPath Python In Selenium With Examples](https://dev.to/lambdatest/use-cases-of-xpath-python-in-selenium-with-examples-lec)
+- [How to Model Cloud-Native Authorization](https://dev.to/permit_io/how-to-model-cloud-native-authorization-aek)
 <!-- BLOG-POST-LIST:END -->
 
