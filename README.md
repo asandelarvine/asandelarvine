@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting and Searching in Python&lpar;looking for help&rpar;](https://dev.to/kumatso1/sorting-and-searching-in-pythonlooking-for-help-38lf)
-- [memegraph - search and explore memes](https://dev.to/seanvelasco/memegraph-search-and-explore-memes-533c)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;06/05/2024 - 12/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-06052024-12052024-2hm2)
-- [How To Stay Fit Physically And Mentally And Keep Coding](https://dev.to/thekarlesi/how-to-stay-fit-physically-and-mentally-and-keep-coding-4h5e)
+- [Enjoy Comfortable Operation with a Lightweight Handheld Chainsaw](https://dev.to/cleopat00/enjoy-comfortable-operation-with-a-lightweight-handheld-chainsaw-1j2k)
+- [Classes and Objects: Representations of Our World in Code](https://dev.to/gasparericmartin/classes-and-objects-representations-of-our-world-in-code-4dhi)
+- [Testes unitários](https://dev.to/gabrielsb18/testes-unitarios-21np)
+- [The FAQ of productivity application RunFlow](https://dev.to/easepan/the-faq-of-productivity-application-runflow-2205)
 <!-- BLOG-POST-LIST:END -->
 
