@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Learning Styles: A Myth?&quot;](https://dev.to/thejoernal/learning-styles-a-myth-2gce)
-- [Deploying subdirectory projects to Heroku](https://dev.to/jetthoughts/deploying-subdirectory-projects-to-heroku-5cj3)
-- [Implement Advanced Chart Types like Heatmaps and Contour Plots](https://dev.to/tooljet/implement-advanced-chart-types-like-heatmaps-and-contour-plots-3h1f)
-- [How paranoid is it to not use facial recognition on an Iphone?](https://dev.to/luxandcloud/how-paranoid-is-it-to-not-use-facial-recognition-on-an-iphone-12ai)
+- [How To Create A Seamless.AI Scraping Bot For Your Business](https://dev.to/rayyan_shaikh/how-to-create-a-seamlessai-scraping-bot-for-your-business-4g3p)
+- [Quickly Trace and Understand The Key Concepts of VictoriaMetrics](https://dev.to/weseek-inc/quickly-trace-and-understand-the-key-concepts-of-victoriametrics-4ldd)
+- [Rails virtual attributes use cases](https://dev.to/jetthoughts/rails-virtual-attributes-use-cases-58j1)
+- [How to get your coding journey started?](https://dev.to/devmarket/how-to-get-your-coding-journey-started-el4)
 <!-- BLOG-POST-LIST:END -->
 
