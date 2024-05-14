@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array.reduce&lpar;&rpar; is Goated 🐐✨](https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j)
-- [Compiled queries under Entity Framework as a performance enhancement](https://dev.to/ben-witt/compiled-queries-under-entity-framework-as-a-performance-enhancement-4b3h)
-- [What’s the Difference Between Flask and FastAPI?](https://dev.to/shariqahmed525/whats-the-difference-between-flask-and-fastapi-2kpo)
-- [Automating your home with computer vision using any camera](https://dev.to/miguelaeh/automating-your-home-with-computer-vision-using-any-camera-59f)
+- [Custom Confirm Dialog For Turbo and Rails](https://dev.to/railsdesigner/custom-confirm-dialog-for-turbo-and-rails-3n96)
+- [Aha Moments I Had When Trying Next.js 14 for the First Time &lpar;as a React Dev&rpar; 🚀🤯✨](https://dev.to/joannaotmianowska/aha-moments-i-had-when-trying-nextjs-14-for-the-first-time-as-a-react-dev-1mkk)
+- [Install NVTOP in WSL debian](https://dev.to/krschap/install-nvtop-in-wsl-debian-1g2g)
+- [AI APIs](https://dev.to/nikoldimit/ai-apis-c4h)
 <!-- BLOG-POST-LIST:END -->
 
