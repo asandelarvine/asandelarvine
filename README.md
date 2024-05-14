@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¡Actualizando librerías en ReactJS: Una experiencia de migración exitosa!](https://dev.to/wedburst/actualizando-librerias-en-reactjs-una-experiencia-de-migracion-exitosa-22pl)
-- [everything-ai: the power of AI, on your computer](https://dev.to/astrabert/everything-ai-the-power-of-ai-on-your-computer-5h4j)
-- [How the presence of indexes and the size of tables affect the choice of execution plan when joining tables in PostgreSQL?](https://dev.to/dm8ry/how-the-presence-of-indexes-and-the-size-of-tables-affect-the-choice-of-execution-plan-when-joining-tables-in-postgresql-1jil)
-- [Understanding JavaScript Functions; The Beginner&#39;s Guide.](https://dev.to/mlasunilag/understanding-javascript-functions-the-beginners-guide-2f0a)
+- [Project - ME.](https://dev.to/evelyn_ovi/project-me-4079)
+- [XML, YAML, JSON; Differences and Similarities](https://dev.to/anwar_sadat/ml-yaml-json-differences-and-similarities-3n17)
+- [Tech Note: Type inference takes place when initializing variables and members](https://dev.to/kanta1207/tech-note-type-inference-takes-place-when-initializing-variables-and-members-n4m)
+- [The Clean Code book and the clean code paradigms](https://dev.to/prox_sea/the-clean-code-book-and-the-clean-code-paradigms-g6p)
 <!-- BLOG-POST-LIST:END -->
 
