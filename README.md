@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Way to Create Discord User Installable Apps &lpar;Discord.js + Robo.js&rpar;](https://dev.to/waveplay/best-way-to-create-discord-user-installable-apps-discordjs-robojs-317g)
-- [How I Build Paradise UI: A React UI Component Library](https://dev.to/syakirurahman/how-i-build-paradise-ui-a-react-ui-component-library-4eff)
-- [How to Easily Implement easily RAG &lpar;Retrieval Augmented Generation&rpar; with Bedrock!](https://dev.to/faye_ellis/how-to-easily-implement-easily-rag-retrieval-augmented-generation-with-bedrock-1mo2)
-- [Tutorial: How to Implement Passkeys in Vue.js Apps](https://dev.to/corbado/tutorial-how-to-implement-passkeys-in-vuejs-apps-2jmk)
+- [API REST avec Prisma , PostgreSQL et Express](https://dev.to/samuelmbabhazi/api-rest-avec-prisma-postgresql-et-express-5705)
+- [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
+- [NestJS tip: how to use Node.js built-in .env file reader with NestJS CLI](https://dev.to/micalevisk/nestjs-tip-how-to-use-nodejs-built-in-env-file-reader-with-nestjs-cli-4alm)
+- [The State of .NET Tooling 2024](https://dev.to/nickytonline/the-state-of-net-tooling-2024-169g)
 <!-- BLOG-POST-LIST:END -->
 
