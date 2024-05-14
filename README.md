@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
-- [PubNubプレゼンスの有効化と設定方法](https://dev.to/pubnub-jp/pubnubpurezensunoyou-xiao-hua-toshe-ding-fang-fa-2fae)
-- [Jak włączyć i skonfigurować PubNub Presence](https://dev.to/pubnub-pl/jak-wlaczyc-i-skonfigurowac-pubnub-presence-5945)
-- [How to Enable and Configure PubNub Presence](https://dev.to/pubnub/how-to-enable-and-configure-pubnub-presence-307d)
+- [Array.reduce&lpar;&rpar; is Goated 🐐✨](https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j)
+- [Compiled queries under Entity Framework as a performance enhancement](https://dev.to/ben-witt/compiled-queries-under-entity-framework-as-a-performance-enhancement-4b3h)
+- [What’s the Difference Between Flask and FastAPI?](https://dev.to/shariqahmed525/whats-the-difference-between-flask-and-fastapi-2kpo)
+- [Automating your home with computer vision using any camera](https://dev.to/miguelaeh/automating-your-home-with-computer-vision-using-any-camera-59f)
 <!-- BLOG-POST-LIST:END -->
 
