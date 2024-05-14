@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Resource Group on Azure](https://dev.to/blessingoseyenum/how-to-create-resource-group-on-azure-9k8)
-- [How to use NextAuth useSession on Storybook 8](https://dev.to/heymarkkop/how-to-use-nextauth-usesession-on-storybook-8-3eon)
-- [Four Things To Take Away From RailsConf 2024](https://dev.to/kevin_j_m/four-things-to-take-away-from-railsconf-2024-45o9)
-- [Set up Wifi from terminal](https://dev.to/shreyashah1903/set-up-wifi-from-terminal-5c5m)
+- [Punishing myself](https://dev.to/jjuarez5/punishing-myself-2kg3)
+- [Meteor 2.16 and Oplog Tailing Optimization](https://dev.to/meteor/meteor-216-and-oplog-tailing-optimization-ckk)
+- [Tips from Open source: Use shadow DOM to avoid potential CSS breaks](https://dev.to/ramunarasinga/tips-from-open-source-use-shadow-dom-to-avoid-potential-css-breaks-41dd)
+- [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
 <!-- BLOG-POST-LIST:END -->
 
