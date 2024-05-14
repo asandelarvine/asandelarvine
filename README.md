@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Syncing AWS Secrets Manager across accounts](https://dev.to/siddhantkcode/syncing-aws-secrets-manager-across-accounts-247h)
-- [How to Send Emails with Mailgun in NestJS](https://dev.to/stormsidali2001/how-to-send-emails-with-mailgun-in-nestjs-j97)
-- [GPT-4 Literally Doubles Your Learning Speed ... &lpar;According to GPT-4&rpar;](https://dev.to/andrewrgarcia/gpt-4-literally-doubles-your-learning-speed-according-to-gpt-4-3hfi)
-- [Implement a Simple Calculator Android App by Reusing Logics in Rust via JavaScript-WASM Interfacing](https://dev.to/trevorwslee/implement-a-simple-calculator-android-app-by-reusing-logics-in-rust-via-javascript-wasm-interfacing-3915)
+- [Best Way to Create Discord User Installable Apps &lpar;Discord.js + Robo.js&rpar;](https://dev.to/waveplay/best-way-to-create-discord-user-installable-apps-discordjs-robojs-317g)
+- [How I Build Paradise UI: A React UI Component Library](https://dev.to/syakirurahman/how-i-build-paradise-ui-a-react-ui-component-library-4eff)
+- [How to Easily Implement easily RAG &lpar;Retrieval Augmented Generation&rpar; with Bedrock!](https://dev.to/faye_ellis/how-to-easily-implement-easily-rag-retrieval-augmented-generation-with-bedrock-1mo2)
+- [Tutorial: How to Implement Passkeys in Vue.js Apps](https://dev.to/corbado/tutorial-how-to-implement-passkeys-in-vuejs-apps-2jmk)
 <!-- BLOG-POST-LIST:END -->
 
