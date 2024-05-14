@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More and more people are choosing to use AI tools to write papers](https://dev.to/writegoai/more-and-more-people-are-choosing-to-use-ai-tools-to-write-papers-4527)
-- [Achieving High Availability &amp; Scalability with a K8s API Gateway](https://dev.to/getambassador2024/achieving-high-availability-scalability-with-a-k8s-api-gateway-4gg2)
-- [550 5.7.1 Relaying denied](https://dev.to/codarbind/550-571-relaying-denied-3167)
-- [How We Saved 10s of Thousands of Dollars Deploying Low Cost Open Source AI Technologies At Scale with Kubernetes](https://dev.to/opensauced/how-we-saved-10s-of-thousands-of-dollars-deploying-low-cost-open-source-ai-technologies-at-scale-with-kubernetes-57j8)
+- [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
+- [PubNubプレゼンスの有効化と設定方法](https://dev.to/pubnub-jp/pubnubpurezensunoyou-xiao-hua-toshe-ding-fang-fa-2fae)
+- [Jak włączyć i skonfigurować PubNub Presence](https://dev.to/pubnub-pl/jak-wlaczyc-i-skonfigurowac-pubnub-presence-5945)
+- [How to Enable and Configure PubNub Presence](https://dev.to/pubnub/how-to-enable-and-configure-pubnub-presence-307d)
 <!-- BLOG-POST-LIST:END -->
 
