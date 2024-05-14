@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Cartography: Python&#39;s Top 4 Map-Making Libraries](https://dev.to/chinnanj/mastering-cartography-pythons-top-3-map-making-libraries-555n)
-- [Stop Dreaming, Start Building: Gain Real-World Dev Experience with Our Open-Source Community](https://dev.to/fifa/stop-dreaming-start-building-gain-real-world-dev-experience-with-our-open-source-community-p9p)
-- [Delivery Flow for Distributed Remote Teams](https://dev.to/jetthoughts/delivery-flow-for-distributed-remote-teams-19k9)
-- [Immutable Dictionary and Frozen Dictionary in .NET](https://dev.to/moh_moh701/immutable-dictionary-and-frozen-dictionary-in-net-2978)
+- [&quot;Learning Styles: A Myth?&quot;](https://dev.to/thejoernal/learning-styles-a-myth-2gce)
+- [Deploying subdirectory projects to Heroku](https://dev.to/jetthoughts/deploying-subdirectory-projects-to-heroku-5cj3)
+- [Implement Advanced Chart Types like Heatmaps and Contour Plots](https://dev.to/tooljet/implement-advanced-chart-types-like-heatmaps-and-contour-plots-3h1f)
+- [How paranoid is it to not use facial recognition on an Iphone?](https://dev.to/luxandcloud/how-paranoid-is-it-to-not-use-facial-recognition-on-an-iphone-12ai)
 <!-- BLOG-POST-LIST:END -->
 
