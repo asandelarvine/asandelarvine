@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Darling, I converted our perfectly fine SPA application into SSR: Part 2](https://dev.to/findlabs/darling-i-converted-our-perfectly-fine-spa-application-into-ssr-part-2-185n)
-- [OpenAI Unleashes GPT-4o!](https://dev.to/be3tle/openai-unleashes-gpt-4o-129l)
-- [RabbitMQ on Kubernetes](https://dev.to/glasskube/rabbitmq-on-kubernetes-1pi2)
-- [Your 2024 Guide to Becoming a Freelance Digital Marketer](https://dev.to/digital_strategeist/your-2024-guide-to-becoming-a-freelance-digital-marketer-1l56)
+- [Every millisecond matters in Javascript](https://dev.to/alexander-nenashev/every-millisecond-matters-in-javascript-13ab)
+- [O básico de Threads no Java](https://dev.to/alexreis/o-basico-de-threads-no-java-1881)
+- [Mastering Callbacks in JavaScript 💻🔥](https://dev.to/engcj/mastering-callbacks-in-javascript-2jf1)
+- [Building Your First Browser Game with Three.js and React: Part 3 - Adding Interactivity and Physics](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-3-adding-interactivity-and-physics-3np0)
 <!-- BLOG-POST-LIST:END -->
 
