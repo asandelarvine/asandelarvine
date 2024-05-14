@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create A Seamless.AI Scraping Bot For Your Business](https://dev.to/rayyan_shaikh/how-to-create-a-seamlessai-scraping-bot-for-your-business-4g3p)
-- [Quickly Trace and Understand The Key Concepts of VictoriaMetrics](https://dev.to/weseek-inc/quickly-trace-and-understand-the-key-concepts-of-victoriametrics-4ldd)
-- [Rails virtual attributes use cases](https://dev.to/jetthoughts/rails-virtual-attributes-use-cases-58j1)
-- [How to get your coding journey started?](https://dev.to/devmarket/how-to-get-your-coding-journey-started-el4)
+- [React Router not working after &quot;React app&quot; published through GitHub actions](https://dev.to/azadulkabir455/react-router-not-working-after-react-app-published-through-github-actions-1ddj)
+- [Deploying a Next.js App on AWS EC2 Ubuntu Server](https://dev.to/sh20raj/deploying-a-nextjs-app-on-aws-ec2-ubuntu-server-5ak1)
+- [Firebase Functions Express Typescript Project Guide Part 2](https://dev.to/cassina/firebase-functions-express-typescript-project-guide-part-2-3jhg)
+- [Introducing the Unreal Engine Plugin for JetBrains TeamCity](https://dev.to/teamcity/introducing-the-unreal-engine-plugin-for-jetbrains-teamcity-1im7)
 <!-- BLOG-POST-LIST:END -->
 
