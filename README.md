@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1219. Path with Maximum Gold](https://dev.to/karleb/1219-path-with-maximum-gold-5a11)
-- [🎥 Worried about video preprocessing for ML?!](https://dev.to/raghavtwenty/worried-about-video-preprocessing-for-ml-49oi)
-- [Transform Your Django Images with django-imagekit](https://dev.to/devasservice/transform-your-django-images-with-django-imagekit-11h0)
-- [1219. Path with Maximum Gold](https://dev.to/mdarifulhaque/1219-path-with-maximum-gold-3pb0)
+- [Syncing AWS Secrets Manager across accounts](https://dev.to/siddhantkcode/syncing-aws-secrets-manager-across-accounts-247h)
+- [How to Send Emails with Mailgun in NestJS](https://dev.to/stormsidali2001/how-to-send-emails-with-mailgun-in-nestjs-j97)
+- [GPT-4 Literally Doubles Your Learning Speed ... &lpar;According to GPT-4&rpar;](https://dev.to/andrewrgarcia/gpt-4-literally-doubles-your-learning-speed-according-to-gpt-4-3hfi)
+- [Implement a Simple Calculator Android App by Reusing Logics in Rust via JavaScript-WASM Interfacing](https://dev.to/trevorwslee/implement-a-simple-calculator-android-app-by-reusing-logics-in-rust-via-javascript-wasm-interfacing-3915)
 <!-- BLOG-POST-LIST:END -->
 
