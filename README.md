@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Router not working after &quot;React app&quot; published through GitHub actions](https://dev.to/azadulkabir455/react-router-not-working-after-react-app-published-through-github-actions-1ddj)
-- [Deploying a Next.js App on AWS EC2 Ubuntu Server](https://dev.to/sh20raj/deploying-a-nextjs-app-on-aws-ec2-ubuntu-server-5ak1)
-- [Firebase Functions Express Typescript Project Guide Part 2](https://dev.to/cassina/firebase-functions-express-typescript-project-guide-part-2-3jhg)
-- [Introducing the Unreal Engine Plugin for JetBrains TeamCity](https://dev.to/teamcity/introducing-the-unreal-engine-plugin-for-jetbrains-teamcity-1im7)
+- [1219. Path with Maximum Gold](https://dev.to/karleb/1219-path-with-maximum-gold-5a11)
+- [🎥 Worried about video preprocessing for ML?!](https://dev.to/raghavtwenty/worried-about-video-preprocessing-for-ml-49oi)
+- [Transform Your Django Images with django-imagekit](https://dev.to/devasservice/transform-your-django-images-with-django-imagekit-11h0)
+- [1219. Path with Maximum Gold](https://dev.to/mdarifulhaque/1219-path-with-maximum-gold-3pb0)
 <!-- BLOG-POST-LIST:END -->
 
