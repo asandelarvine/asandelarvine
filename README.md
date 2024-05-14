@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Confirm Dialog For Turbo and Rails](https://dev.to/railsdesigner/custom-confirm-dialog-for-turbo-and-rails-3n96)
-- [Aha Moments I Had When Trying Next.js 14 for the First Time &lpar;as a React Dev&rpar; 🚀🤯✨](https://dev.to/joannaotmianowska/aha-moments-i-had-when-trying-nextjs-14-for-the-first-time-as-a-react-dev-1mkk)
-- [Install NVTOP in WSL debian](https://dev.to/krschap/install-nvtop-in-wsl-debian-1g2g)
-- [AI APIs](https://dev.to/nikoldimit/ai-apis-c4h)
+- [Darling, I converted our perfectly fine SPA application into SSR: Part 2](https://dev.to/findlabs/darling-i-converted-our-perfectly-fine-spa-application-into-ssr-part-2-185n)
+- [OpenAI Unleashes GPT-4o!](https://dev.to/be3tle/openai-unleashes-gpt-4o-129l)
+- [RabbitMQ on Kubernetes](https://dev.to/glasskube/rabbitmq-on-kubernetes-1pi2)
+- [Your 2024 Guide to Becoming a Freelance Digital Marketer](https://dev.to/digital_strategeist/your-2024-guide-to-becoming-a-freelance-digital-marketer-1l56)
 <!-- BLOG-POST-LIST:END -->
 
