@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidelines for Structuring code snippets in technical writing for GenAI-based agents](https://dev.to/ragavi_document360/guidelines-for-structuring-code-snippets-in-technical-writing-for-genai-based-agents-4ao1)
-- [Next.js App Router](https://dev.to/shieldstring/nextjs-app-router-393i)
-- [Understanding Thymeleaf: A Powerful Java Template Engine](https://dev.to/nikhilxd/understanding-thymeleaf-a-powerful-java-template-engine-3bnh)
-- [Simplificando a Codificação HTML: Atalhos para uma Criação Mais Eficiente](https://dev.to/leehxd/simplificando-a-codificacao-html-atalhos-para-uma-criacao-mais-eficiente-3noi)
+- [More and more people are choosing to use AI tools to write papers](https://dev.to/writegoai/more-and-more-people-are-choosing-to-use-ai-tools-to-write-papers-4527)
+- [Achieving High Availability &amp; Scalability with a K8s API Gateway](https://dev.to/getambassador2024/achieving-high-availability-scalability-with-a-k8s-api-gateway-4gg2)
+- [550 5.7.1 Relaying denied](https://dev.to/codarbind/550-571-relaying-denied-3167)
+- [How We Saved 10s of Thousands of Dollars Deploying Low Cost Open Source AI Technologies At Scale with Kubernetes](https://dev.to/opensauced/how-we-saved-10s-of-thousands-of-dollars-deploying-low-cost-open-source-ai-technologies-at-scale-with-kubernetes-57j8)
 <!-- BLOG-POST-LIST:END -->
 
