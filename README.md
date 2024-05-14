@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Every millisecond matters in Javascript](https://dev.to/alexander-nenashev/every-millisecond-matters-in-javascript-13ab)
-- [O básico de Threads no Java](https://dev.to/alexreis/o-basico-de-threads-no-java-1881)
-- [Mastering Callbacks in JavaScript 💻🔥](https://dev.to/engcj/mastering-callbacks-in-javascript-2jf1)
-- [Building Your First Browser Game with Three.js and React: Part 3 - Adding Interactivity and Physics](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-3-adding-interactivity-and-physics-3np0)
+- [Mastering Cartography: Python&#39;s Top 4 Map-Making Libraries](https://dev.to/chinnanj/mastering-cartography-pythons-top-3-map-making-libraries-555n)
+- [Stop Dreaming, Start Building: Gain Real-World Dev Experience with Our Open-Source Community](https://dev.to/fifa/stop-dreaming-start-building-gain-real-world-dev-experience-with-our-open-source-community-p9p)
+- [Delivery Flow for Distributed Remote Teams](https://dev.to/jetthoughts/delivery-flow-for-distributed-remote-teams-19k9)
+- [Immutable Dictionary and Frozen Dictionary in .NET](https://dev.to/moh_moh701/immutable-dictionary-and-frozen-dictionary-in-net-2978)
 <!-- BLOG-POST-LIST:END -->
 
