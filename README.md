@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcast Palooza— What are you listening to? &lpar;Music Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-music-edition-325k)
-- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://dev.to/aws-builders/mastering-the-aws-security-specialty-scs-exam-a-quick-guide-2go0)
-- [In technical writing, the devil is NOT in the details](https://dev.to/gewenyu99/in-technical-writing-the-devil-is-not-in-the-details-36fn)
-- [OAuth2.0](https://dev.to/arimayuji/oauth20-5e5g)
+- [Using styled-components in React/Next Applications](https://dev.to/chauhoangminhnguyen/using-styled-components-in-reactnext-applications-10if)
+- [Python FastAPI: Integrating OAuth2 Security with the Application&#39;s Own Authentication Process](https://dev.to/behainguyen/python-fastapi-integrating-oauth2-security-with-the-applications-own-authentication-process-335i)
+- [Building Desktop Applications with Electron](https://dev.to/kartikmehta8/building-desktop-applications-with-electron-1bbg)
+- [Google App Script React Template](https://dev.to/crspradlin/google-app-script-react-template-489p)
 <!-- BLOG-POST-LIST:END -->
 
