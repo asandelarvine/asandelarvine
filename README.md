@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API REST avec Prisma , PostgreSQL et Express](https://dev.to/samuelmbabhazi/api-rest-avec-prisma-postgresql-et-express-5705)
-- [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
-- [NestJS tip: how to use Node.js built-in .env file reader with NestJS CLI](https://dev.to/micalevisk/nestjs-tip-how-to-use-nodejs-built-in-env-file-reader-with-nestjs-cli-4alm)
-- [The State of .NET Tooling 2024](https://dev.to/nickytonline/the-state-of-net-tooling-2024-169g)
+- [¡Actualizando librerías en ReactJS: Una experiencia de migración exitosa!](https://dev.to/wedburst/actualizando-librerias-en-reactjs-una-experiencia-de-migracion-exitosa-22pl)
+- [everything-ai: the power of AI, on your computer](https://dev.to/astrabert/everything-ai-the-power-of-ai-on-your-computer-5h4j)
+- [How the presence of indexes and the size of tables affect the choice of execution plan when joining tables in PostgreSQL?](https://dev.to/dm8ry/how-the-presence-of-indexes-and-the-size-of-tables-affect-the-choice-of-execution-plan-when-joining-tables-in-postgresql-1jil)
+- [Understanding JavaScript Functions; The Beginner&#39;s Guide.](https://dev.to/mlasunilag/understanding-javascript-functions-the-beginners-guide-2f0a)
 <!-- BLOG-POST-LIST:END -->
 
