@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using styled-components in React/Next Applications](https://dev.to/chauhoangminhnguyen/using-styled-components-in-reactnext-applications-10if)
-- [Python FastAPI: Integrating OAuth2 Security with the Application&#39;s Own Authentication Process](https://dev.to/behainguyen/python-fastapi-integrating-oauth2-security-with-the-applications-own-authentication-process-335i)
-- [Building Desktop Applications with Electron](https://dev.to/kartikmehta8/building-desktop-applications-with-electron-1bbg)
-- [Google App Script React Template](https://dev.to/crspradlin/google-app-script-react-template-489p)
+- [String Manipulation Techniques](https://dev.to/ivstudio/string-manipulation-techniques-2ecn)
+- [Blender Animations and THREE.js - MEOW!](https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1)
+- [AI empowered micro-services: Future application development driven by Spring Boot and Machine Learning](https://dev.to/shingaiz/ai-empowered-micro-services-future-application-development-driven-by-spring-boot-and-machine-learning-2a9b)
+- [I&#39;m BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast](https://dev.to/samglish/im-beidi-dina-samuel-cybersecurity-and-open-source-enthusiast-4a3h)
 <!-- BLOG-POST-LIST:END -->
 
