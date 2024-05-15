@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AI: Advanced Tools and Integrations for Enhancing SaaS Products](https://dev.to/digitalsamba/leveraging-ai-advanced-tools-and-integrations-for-enhancing-saas-products-l8l)
-- [Everything You Need to Know About the docker-compose up Command in Docker](https://dev.to/kailashnirmal/everything-you-need-to-know-about-thedocker-compose-upcommand-in-docker-5cf2)
-- [Connecting to a Remote Linux Server Using SSH](https://dev.to/emminex/connecting-to-a-remote-linux-server-using-ssh-4kaf)
-- [Introducing Ripple&#39;s Brazil Fund: Fostering XRP Ledger Innovation in Brazil](https://dev.to/ripplexdev/introducing-ripples-brazil-fund-fostering-xrp-ledger-innovation-in-brazil-3mpp)
+- [How to add a Feedback Widget to your website](https://dev.to/nsmet/how-to-add-a-feedback-widget-to-your-website-149e)
+- [AI-Powered, No-code Automated Software Testing: What differentiates MagicPod from its peers?](https://dev.to/kingkunte_/ai-powered-no-code-automated-software-testing-what-differentiates-magicpod-from-its-peers-3b7g)
+- [Mastering Higher-Order Components in React: A Guide to DRY Code](https://dev.to/nikuwadaskar/mastering-higher-order-components-in-react-a-guide-to-dry-code-4bil)
+- [AI Software Development Lifecycle](https://dev.to/loganmary689/ai-software-development-lifecycle-3hhn)
 <!-- BLOG-POST-LIST:END -->
 
