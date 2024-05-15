@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a WeCom App to enable WeCom Login for the Web app](https://dev.to/jefftian/how-to-create-a-wecom-app-to-enable-wecom-login-for-the-web-app-539)
-- [Why You are Not Getting Interviews](https://dev.to/thekarlesi/why-you-are-not-getting-interviews-3hn2)
-- [Quick note on HTML and CSS](https://dev.to/viviancreates/quick-note-on-html-and-css-482h)
-- [Frameworks of BunJS: ElysiaJS and Hono](https://dev.to/mlvnthanhvo/frameworks-of-bunjs-elysiajs-and-hono-4all)
+- [14 Common Questions for JSX &lpar;React&rpar; and Their Answers](https://dev.to/codeguage/14-common-questions-for-jsx-react-and-their-answers-2dji)
+- [Unityゲームにスコアボードとリーダーボードを追加する方法](https://dev.to/pubnub-jp/unitygemunisukoabodotoridabodowozhui-jia-surufang-fa-483)
+- [link com vercel](https://dev.to/dehkeep/link-com-vercel-3f46)
+- [Event Tracking and Parameters: Setting up custom events and parameters in Google Analytics 4](https://dev.to/gerryleonugroho/event-tracking-and-parameters-setting-up-custom-events-and-parameters-in-google-analytics-4-5hh4)
 <!-- BLOG-POST-LIST:END -->
 
