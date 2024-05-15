@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte and SvelteKit Explained](https://dev.to/kedzior_io/svelte-and-sveltekit-explained-3513)
-- [Join our free webinar: “Removing Friction from Design System Workflows”](https://dev.to/uxpin/join-our-free-webinar-removing-friction-from-design-system-workflows-9me)
-- [Navigating the Nuances: How Machine Learning Powers Artificial Intelligence](https://dev.to/launchpadlab/navigating-the-nuances-how-machine-learning-powers-artificial-intelligence-33kb)
-- [LMS de código abierto versus propietario - ¿Cuál eligir?](https://dev.to/krestomatio/lms-de-codigo-abierto-versus-propietario-cual-eligir-28f0)
+- [Best practices from open source:](https://dev.to/ramunarasinga/best-practices-from-open-source-aje)
+- [Best practices from open source:](https://dev.to/ramunarasinga/best-practices-from-open-source-2eb3)
+- [why your content should be briefer](https://dev.to/yelldutz/why-your-content-should-be-briefer-5goa)
+- [Zuri Internship - Backend Node.js Track: Handling Concurrent Requests with CORS &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/arbythecoder/zuri-internship-backend-nodejs-track-handling-concurrent-requests-with-cors-beginner-friendly-guide-27h2)
 <!-- BLOG-POST-LIST:END -->
 
