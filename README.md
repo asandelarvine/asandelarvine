@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O Highlights: Firebase Genkit](https://dev.to/mitchiemt11/google-io-highlights-firebase-genkit-2dl0)
-- [Streamlining Real Estate Software Development: A Guide for Companies](https://dev.to/botikul/streamlining-real-estate-software-development-a-guide-for-companies-15de)
-- [20+ DOM Projects: Your Frontend Breakthrough!](https://dev.to/jisan/20-dom-projects-your-frontend-breakthrough-1h8a)
-- [Uber’s technology history learning](https://dev.to/tuananhpham/ubers-technology-history-learning-4335)
+- [SDP-SSP-Compose-Multiplatform](https://dev.to/mobileinnovation/sdp-ssp-compose-multiplatform-6po)
+- [Are Your Secrets Projects Truly Safe?🔐](https://dev.to/bytehide/are-your-secrets-projects-truly-safe-2573)
+- [C#: propiedades de lectura... y de las otras.](https://dev.to/baltasarq/c-propiedades-de-lectura-y-de-las-otras-2kfn)
+- [Why Traditional MFA isn&#39;t Enough?](https://dev.to/blogginger/why-traditional-mfa-isnt-enough-5068)
 <!-- BLOG-POST-LIST:END -->
 
