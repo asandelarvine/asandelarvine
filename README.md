@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Server-Side Rendering: A Deep Dive](https://dev.to/shieldstring/nextjs-server-side-rendering-a-deep-dive-3e6d)
-- [JS Hoisting cheetsheet](https://dev.to/debojyoti/js-hoisting-cheetsheet-41o6)
-- [Firebase Realtime Database vs Cloud Firestore](https://dev.to/debajit13/firebase-realtime-database-vs-cloud-firestore-4325)
-- [8 Software Truths](https://dev.to/crumpetsforlife/8-software-truths-4125)
+- [8 Influential Software Development Technologies for Developers in 2024 and Beyond](https://dev.to/zorian/7-influential-software-development-technologies-for-developers-in-2024-and-beyond-2bc9)
+- [JetThoughts receives First Review on Clutch.co: Thank you](https://dev.to/jetthoughts/jetthoughts-receives-first-review-on-clutchco-thank-you-3i48)
+- [Understanding the Software Stack in Quantum Computing](https://dev.to/hellodavidryan/understanding-the-software-stack-in-quantum-computing-3iii)
+- [Speed up GitHub PR’s review of your React applications](https://dev.to/jetthoughts/speed-up-github-prs-review-of-your-react-applications-4n8o)
 <!-- BLOG-POST-LIST:END -->
 
