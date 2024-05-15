@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a job](https://dev.to/nandinishinduja/looking-for-a-job-1j7k)
-- [Revisiting the &quot;Rules of React&quot;](https://dev.to/martinrojas/revisiting-the-rules-of-react-e85)
-- [Master GitHub with Microsoft’s Comprehensive Learning Resources!](https://dev.to/praven_raam_76450422374aa/master-github-with-microsofts-comprehensive-learning-resources-5gmp)
-- [How to prevent generating new access tokens.](https://dev.to/theprateekgoyal2/how-to-prevent-generating-new-access-tokens-39ig)
+- [Svelte and SvelteKit Explained](https://dev.to/kedzior_io/svelte-and-sveltekit-explained-3513)
+- [Join our free webinar: “Removing Friction from Design System Workflows”](https://dev.to/uxpin/join-our-free-webinar-removing-friction-from-design-system-workflows-9me)
+- [Navigating the Nuances: How Machine Learning Powers Artificial Intelligence](https://dev.to/launchpadlab/navigating-the-nuances-how-machine-learning-powers-artificial-intelligence-33kb)
+- [LMS de código abierto versus propietario - ¿Cuál eligir?](https://dev.to/krestomatio/lms-de-codigo-abierto-versus-propietario-cual-eligir-28f0)
 <!-- BLOG-POST-LIST:END -->
 
