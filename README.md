@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Influential Software Development Technologies for Developers in 2024 and Beyond](https://dev.to/zorian/7-influential-software-development-technologies-for-developers-in-2024-and-beyond-2bc9)
-- [JetThoughts receives First Review on Clutch.co: Thank you](https://dev.to/jetthoughts/jetthoughts-receives-first-review-on-clutchco-thank-you-3i48)
-- [Understanding the Software Stack in Quantum Computing](https://dev.to/hellodavidryan/understanding-the-software-stack-in-quantum-computing-3iii)
-- [Speed up GitHub PR’s review of your React applications](https://dev.to/jetthoughts/speed-up-github-prs-review-of-your-react-applications-4n8o)
+- [Cisco Routerda Netflow Yapılandırması Nasıl Yapılır?](https://dev.to/emre-karac/cisco-routerda-netflow-yapilandirmasi-2c9p)
+- [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
+- [Tips for writing readable system tests in Rails](https://dev.to/jetthoughts/tips-for-writing-readable-system-tests-in-rails-4dnc)
+- [How to handle remote services in tests](https://dev.to/jetthoughts/how-to-handle-remote-services-in-tests-33af)
 <!-- BLOG-POST-LIST:END -->
 
