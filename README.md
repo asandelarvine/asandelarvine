@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Punishing myself](https://dev.to/jjuarez5/punishing-myself-2kg3)
-- [Meteor 2.16 and Oplog Tailing Optimization](https://dev.to/meteor/meteor-216-and-oplog-tailing-optimization-ckk)
-- [Tips from Open source: Use shadow DOM to avoid potential CSS breaks](https://dev.to/ramunarasinga/tips-from-open-source-use-shadow-dom-to-avoid-potential-css-breaks-41dd)
-- [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
+- [Heading back to the mountain](https://dev.to/landon_lomax_devut/heading-back-to-the-mountain-2k63)
+- [Multi-Cluster com Karmada [Lab Session]](https://dev.to/aws-builders/multi-cluster-com-karmada-lab-session-2dgm)
+- [GitLab on Ubuntu 22.04: Self-Hosted Version Control](https://dev.to/ersinkoc/gitlab-on-ubuntu-2204-self-hosted-version-control-5b34)
+- [rx-angular/state - a library for managing states of an Angular application](https://dev.to/railsstudent/rx-angularstate-a-library-for-managing-states-of-an-angular-application-1cfp)
 <!-- BLOG-POST-LIST:END -->
 
