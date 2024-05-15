@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [14 Common Questions for JSX &lpar;React&rpar; and Their Answers](https://dev.to/codeguage/14-common-questions-for-jsx-react-and-their-answers-2dji)
-- [Unityゲームにスコアボードとリーダーボードを追加する方法](https://dev.to/pubnub-jp/unitygemunisukoabodotoridabodowozhui-jia-surufang-fa-483)
-- [link com vercel](https://dev.to/dehkeep/link-com-vercel-3f46)
-- [Event Tracking and Parameters: Setting up custom events and parameters in Google Analytics 4](https://dev.to/gerryleonugroho/event-tracking-and-parameters-setting-up-custom-events-and-parameters-in-google-analytics-4-5hh4)
+- [Understanding LXC: Linux Containers and Their Role in Modern App Development](https://dev.to/activus_d/understanding-lxc-and-its-use-in-modern-application-development-4ji4)
+- [Solving a Leetcode problem daily — Day 11 | Find Minimum in Rotated Sorted Array](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-11-find-minimum-in-rotated-sorted-array-3f7g)
+- [Code a Neural Network from scratch to solve the binary MNIST problem](https://dev.to/hoangng/code-a-neural-network-from-scratch-to-solve-the-binary-mnist-problem-k0e)
+- [You are a Senior Engineer, Mastering Software Architecture and Design &lpar;Part 2&rpar;](https://dev.to/alexandreamadocastro/you-are-a-senior-engineer-mastering-software-architecture-and-design-part-2-549k)
 <!-- BLOG-POST-LIST:END -->
 
