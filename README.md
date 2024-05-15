@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding LXC: Linux Containers and Their Role in Modern App Development](https://dev.to/activus_d/understanding-lxc-and-its-use-in-modern-application-development-4ji4)
-- [Solving a Leetcode problem daily — Day 11 | Find Minimum in Rotated Sorted Array](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-11-find-minimum-in-rotated-sorted-array-3f7g)
-- [Code a Neural Network from scratch to solve the binary MNIST problem](https://dev.to/hoangng/code-a-neural-network-from-scratch-to-solve-the-binary-mnist-problem-k0e)
-- [You are a Senior Engineer, Mastering Software Architecture and Design &lpar;Part 2&rpar;](https://dev.to/alexandreamadocastro/you-are-a-senior-engineer-mastering-software-architecture-and-design-part-2-549k)
+- [Next.js Server-Side Rendering: A Deep Dive](https://dev.to/shieldstring/nextjs-server-side-rendering-a-deep-dive-3e6d)
+- [JS Hoisting cheetsheet](https://dev.to/debojyoti/js-hoisting-cheetsheet-41o6)
+- [Firebase Realtime Database vs Cloud Firestore](https://dev.to/debajit13/firebase-realtime-database-vs-cloud-firestore-4325)
+- [8 Software Truths](https://dev.to/crumpetsforlife/8-software-truths-4125)
 <!-- BLOG-POST-LIST:END -->
 
