@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Arc browser: A Chrome replacement?](https://dev.to/codeparrot/the-arc-browser-a-chrome-replacement-db7)
-- [How to Integrate Passkeys into JavaScript Apps](https://dev.to/corbado/how-to-integrate-passkeys-into-javascript-apps-3n8p)
-- [Quantum Computing : What’s the Buzz All bout](https://dev.to/anshul_kichara/quantum-computing-whats-the-buzz-all-bout-49f9)
-- [Who is to blame when a project fails?](https://dev.to/jetthoughts/who-is-to-blame-when-a-project-fails-4i0j)
+- [Google I/O Highlights: Firebase Genkit](https://dev.to/mitchiemt11/google-io-highlights-firebase-genkit-2dl0)
+- [Streamlining Real Estate Software Development: A Guide for Companies](https://dev.to/botikul/streamlining-real-estate-software-development-a-guide-for-companies-15de)
+- [20+ DOM Projects: Your Frontend Breakthrough!](https://dev.to/jisan/20-dom-projects-your-frontend-breakthrough-1h8a)
+- [Uber’s technology history learning](https://dev.to/tuananhpham/ubers-technology-history-learning-4335)
 <!-- BLOG-POST-LIST:END -->
 
