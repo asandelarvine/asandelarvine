@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Routerda Netflow Yapılandırması Nasıl Yapılır?](https://dev.to/emre-karac/cisco-routerda-netflow-yapilandirmasi-2c9p)
-- [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
-- [Tips for writing readable system tests in Rails](https://dev.to/jetthoughts/tips-for-writing-readable-system-tests-in-rails-4dnc)
-- [How to handle remote services in tests](https://dev.to/jetthoughts/how-to-handle-remote-services-in-tests-33af)
+- [The Arc browser: A Chrome replacement?](https://dev.to/codeparrot/the-arc-browser-a-chrome-replacement-db7)
+- [How to Integrate Passkeys into JavaScript Apps](https://dev.to/corbado/how-to-integrate-passkeys-into-javascript-apps-3n8p)
+- [Quantum Computing : What’s the Buzz All bout](https://dev.to/anshul_kichara/quantum-computing-whats-the-buzz-all-bout-49f9)
+- [Who is to blame when a project fails?](https://dev.to/jetthoughts/who-is-to-blame-when-a-project-fails-4i0j)
 <!-- BLOG-POST-LIST:END -->
 
