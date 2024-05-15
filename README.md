@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best practices from open source:](https://dev.to/ramunarasinga/best-practices-from-open-source-aje)
-- [Best practices from open source:](https://dev.to/ramunarasinga/best-practices-from-open-source-2eb3)
-- [why your content should be briefer](https://dev.to/yelldutz/why-your-content-should-be-briefer-5goa)
-- [Zuri Internship - Backend Node.js Track: Handling Concurrent Requests with CORS &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/arbythecoder/zuri-internship-backend-nodejs-track-handling-concurrent-requests-with-cors-beginner-friendly-guide-27h2)
+- [Software Design: Strategies for Modular Programming and Loose Coupling](https://dev.to/ayako_yk/software-design-strategies-for-modular-programming-and-loose-coupling-joi)
+- [JavaScript: Separate Predicate Functions](https://dev.to/oculus42/javascript-separate-predicate-functions-1deh)
+- [Copy/Pasting output from the terminal](https://dev.to/saranshk/copypasting-output-from-the-terminal-1c6g)
+- [Agents in Action - MindsDB Hackathon Recap](https://dev.to/mindsdb/agents-in-action-mindsdb-hackathon-recap-2k71)
 <!-- BLOG-POST-LIST:END -->
 
