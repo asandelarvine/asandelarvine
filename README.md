@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a web server on the Linux virtual machine](https://dev.to/raviknce0509/deploying-a-web-server-on-the-linux-virtual-machine-17ib)
-- [Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
-- [Building High-Performance, Secure Static Websites on a Budget with AWS and Terraform](https://dev.to/kingkonsole/building-high-performance-secure-static-websites-on-a-budget-with-aws-and-terraform-1eed)
-- [How to Integrate a Carousel into React Applications](https://dev.to/michaellarocca/how-to-integrate-a-carousel-into-react-applications-4e1d)
+- [2022-02-23 - TRAFFIC ANALYSIS EXERCISE - SUNNYSTATION](https://dev.to/mihika/2022-02-23-traffic-analysis-exercise-sunnystation-1alk)
+- [Battleship.... in the Terminal!](https://dev.to/frank_lawrence_95abcdfe80/battleship-in-the-terminal-8dj)
+- [RESTful API in Django [Django Rest Framework]](https://dev.to/bekbrace/restful-api-in-django-django-rest-framework-2aen)
+- [Inside SQL Joins](https://dev.to/balajisasi/inside-sql-joins-5h6b)
 <!-- BLOG-POST-LIST:END -->
 
