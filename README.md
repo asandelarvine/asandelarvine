@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From GUI to CLI: Transforming my query workflow with usql and jq](https://dev.to/lorransr/from-gui-to-cli-transforming-my-query-workflow-with-usql-and-jq-175i)
-- [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
-- [Google I/O 2024: AI Innovations and Developer Tools](https://dev.to/martinrojas/google-io-2024-ai-innovations-and-developer-tools-1f8c)
-- [How to make your GitHub profile stand out.](https://dev.to/bingecoder89/how-to-make-your-github-profile-stand-out-3f8)
+- [Deploying a web server on the Linux virtual machine](https://dev.to/raviknce0509/deploying-a-web-server-on-the-linux-virtual-machine-17ib)
+- [Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
+- [Building High-Performance, Secure Static Websites on a Budget with AWS and Terraform](https://dev.to/kingkonsole/building-high-performance-secure-static-websites-on-a-budget-with-aws-and-terraform-1eed)
+- [How to Integrate a Carousel into React Applications](https://dev.to/michaellarocca/how-to-integrate-a-carousel-into-react-applications-4e1d)
 <!-- BLOG-POST-LIST:END -->
 
