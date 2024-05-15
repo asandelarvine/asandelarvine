@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Heading back to the mountain](https://dev.to/landon_lomax_devut/heading-back-to-the-mountain-2k63)
-- [Multi-Cluster com Karmada [Lab Session]](https://dev.to/aws-builders/multi-cluster-com-karmada-lab-session-2dgm)
-- [GitLab on Ubuntu 22.04: Self-Hosted Version Control](https://dev.to/ersinkoc/gitlab-on-ubuntu-2204-self-hosted-version-control-5b34)
-- [rx-angular/state - a library for managing states of an Angular application](https://dev.to/railsstudent/rx-angularstate-a-library-for-managing-states-of-an-angular-application-1cfp)
+- [How to create a WeCom App to enable WeCom Login for the Web app](https://dev.to/jefftian/how-to-create-a-wecom-app-to-enable-wecom-login-for-the-web-app-539)
+- [Why You are Not Getting Interviews](https://dev.to/thekarlesi/why-you-are-not-getting-interviews-3hn2)
+- [Quick note on HTML and CSS](https://dev.to/viviancreates/quick-note-on-html-and-css-482h)
+- [Frameworks of BunJS: ElysiaJS and Hono](https://dev.to/mlvnthanhvo/frameworks-of-bunjs-elysiajs-and-hono-4all)
 <!-- BLOG-POST-LIST:END -->
 
