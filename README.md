@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SDP-SSP-Compose-Multiplatform](https://dev.to/mobileinnovation/sdp-ssp-compose-multiplatform-6po)
-- [Are Your Secrets Projects Truly Safe?🔐](https://dev.to/bytehide/are-your-secrets-projects-truly-safe-2573)
-- [C#: propiedades de lectura... y de las otras.](https://dev.to/baltasarq/c-propiedades-de-lectura-y-de-las-otras-2kfn)
-- [Why Traditional MFA isn&#39;t Enough?](https://dev.to/blogginger/why-traditional-mfa-isnt-enough-5068)
+- [Should Developers Design? The Blurring Lines Between Disciplines](https://dev.to/shieldstring/should-developers-design-the-blurring-lines-between-disciplines-36dk)
+- [Git: Commands beginners don&#39;t know](https://dev.to/alexreis/git-commands-beginners-dont-know-4i3h)
+- [&quot;if&quot; and &quot;?&quot;: how they&#39;re different in Javscript](https://dev.to/const_variable/if-and-how-theyre-different-in-javscript-411e)
+- [Некоторые подходы к архитектуре приложений в Amazon](https://dev.to/faangmaster/niekotoryie-podkhody-k-arkhitiekturie-prilozhienii-v-amazon-1720)
 <!-- BLOG-POST-LIST:END -->
 
