@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2022-02-23 - TRAFFIC ANALYSIS EXERCISE - SUNNYSTATION](https://dev.to/mihika/2022-02-23-traffic-analysis-exercise-sunnystation-1alk)
-- [Battleship.... in the Terminal!](https://dev.to/frank_lawrence_95abcdfe80/battleship-in-the-terminal-8dj)
-- [RESTful API in Django [Django Rest Framework]](https://dev.to/bekbrace/restful-api-in-django-django-rest-framework-2aen)
-- [Inside SQL Joins](https://dev.to/balajisasi/inside-sql-joins-5h6b)
+- [Looking for a job](https://dev.to/nandinishinduja/looking-for-a-job-1j7k)
+- [Revisiting the &quot;Rules of React&quot;](https://dev.to/martinrojas/revisiting-the-rules-of-react-e85)
+- [Master GitHub with Microsoft’s Comprehensive Learning Resources!](https://dev.to/praven_raam_76450422374aa/master-github-with-microsofts-comprehensive-learning-resources-5gmp)
+- [How to prevent generating new access tokens.](https://dev.to/theprateekgoyal2/how-to-prevent-generating-new-access-tokens-39ig)
 <!-- BLOG-POST-LIST:END -->
 
