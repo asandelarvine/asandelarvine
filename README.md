@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should Developers Design? The Blurring Lines Between Disciplines](https://dev.to/shieldstring/should-developers-design-the-blurring-lines-between-disciplines-36dk)
-- [Git: Commands beginners don&#39;t know](https://dev.to/alexreis/git-commands-beginners-dont-know-4i3h)
-- [&quot;if&quot; and &quot;?&quot;: how they&#39;re different in Javscript](https://dev.to/const_variable/if-and-how-theyre-different-in-javscript-411e)
-- [Некоторые подходы к архитектуре приложений в Amazon](https://dev.to/faangmaster/niekotoryie-podkhody-k-arkhitiekturie-prilozhienii-v-amazon-1720)
+- [Leveraging AI: Advanced Tools and Integrations for Enhancing SaaS Products](https://dev.to/digitalsamba/leveraging-ai-advanced-tools-and-integrations-for-enhancing-saas-products-l8l)
+- [Everything You Need to Know About the docker-compose up Command in Docker](https://dev.to/kailashnirmal/everything-you-need-to-know-about-thedocker-compose-upcommand-in-docker-5cf2)
+- [Connecting to a Remote Linux Server Using SSH](https://dev.to/emminex/connecting-to-a-remote-linux-server-using-ssh-4kaf)
+- [Introducing Ripple&#39;s Brazil Fund: Fostering XRP Ledger Innovation in Brazil](https://dev.to/ripplexdev/introducing-ripples-brazil-fund-fostering-xrp-ledger-innovation-in-brazil-3mpp)
 <!-- BLOG-POST-LIST:END -->
 
