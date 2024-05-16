@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapped Object Types](https://dev.to/scottpony/mapped-object-types-3o0p)
-- [Building your own ChatGPT Graphical Client with NextJS and Wing 🤯](https://dev.to/winglang/building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj)
-- [The World of 3D Asset Management](https://dev.to/msmith99994/the-world-of-3d-asset-management-4975)
-- [How to shuffle an array in JavaScript](https://dev.to/bybydev/how-to-shuffle-an-array-in-javascript-3efd)
+- [Jornada pessoal em Machine Learning](https://dev.to/devxbr/jornada-pessoal-em-machine-learning-2c3n)
+- [Essential tools for Frontend Developers](https://dev.to/bingecoder89/essential-tools-for-frontend-developers-3e2i)
+- [Uploaded pdf&#39;s file type didn&#39;t recognize in firebase storage dotnet 8](https://dev.to/malshan/uploaded-pdfs-file-type-didnt-recognize-in-firebase-storage-dotnet-8-4nd)
+- [Effortlessly Export AWS Health Organizational View to CSV with This CLI Tool](https://dev.to/aws-builders/effortlessly-export-aws-health-organizational-view-to-csv-with-this-cli-tool-29ae)
 <!-- BLOG-POST-LIST:END -->
 
