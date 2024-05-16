@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 0] My Journey So Far: About Me, My Purpose, &amp; My Goals](https://dev.to/thomascansino/day-0-my-journey-so-far-about-me-my-purpose-my-goals-5e9k)
-- [Testing is...](https://dev.to/st1p3kolovrat/testing-is-9h2)
-- [2331. Evaluate Boolean Binary Tree](https://dev.to/karleb/2331-evaluate-boolean-binary-tree-47mg)
-- [Understanding Conditional Statements in JavaScript](https://dev.to/linusmwiti21/understanding-conditional-statements-in-javascript-5ba7)
+- [The essential guide to application integration on AWS](https://dev.to/softwebsolution/the-essential-guide-to-application-integration-on-aws-1g6o)
+- [Singleton Design Pattern](https://dev.to/varun21vaidya/singleton-design-pattern-4bc0)
+- [How to get hired: Insights from an Engineering Manager](https://dev.to/tim-e/how-to-get-hired-insights-from-an-engineering-manager-48pa)
+- [A Many-to-Many Relationship in a Sequelize Model](https://dev.to/lovertab/a-many-to-many-relationship-in-a-sequelize-model-3akb)
 <!-- BLOG-POST-LIST:END -->
 
