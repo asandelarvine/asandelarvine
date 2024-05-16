@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My opinion on the Tauri framework](https://dev.to/nfrankel/my-opinion-on-the-tauri-framework-54c3)
-- [Embracing Simplicity in Software Development: A Realistic Approach](https://dev.to/drruvari/embracing-simplicity-in-software-development-a-realistic-approach-3ff4)
-- [Basic Markdown](https://dev.to/zemerik/basic-markdown-2jel)
-- [🎉 Exciting Update: NFTScan Enhances the NFT Explorer of Ordinals with Advanced Data Parsing and Expanded Market Analysis](https://dev.to/nft_research/exciting-update-nftscan-enhances-the-nft-explorer-of-ordinals-with-advanced-data-parsing-and-expanded-market-analysis-5g6g)
+- [[DAY 0] My Journey So Far: About Me, My Purpose, &amp; My Goals](https://dev.to/thomascansino/day-0-my-journey-so-far-about-me-my-purpose-my-goals-5e9k)
+- [Testing is...](https://dev.to/st1p3kolovrat/testing-is-9h2)
+- [2331. Evaluate Boolean Binary Tree](https://dev.to/karleb/2331-evaluate-boolean-binary-tree-47mg)
+- [Understanding Conditional Statements in JavaScript](https://dev.to/linusmwiti21/understanding-conditional-statements-in-javascript-5ba7)
 <!-- BLOG-POST-LIST:END -->
 
