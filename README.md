@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Design: Strategies for Modular Programming and Loose Coupling](https://dev.to/ayako_yk/software-design-strategies-for-modular-programming-and-loose-coupling-joi)
-- [JavaScript: Separate Predicate Functions](https://dev.to/oculus42/javascript-separate-predicate-functions-1deh)
-- [Copy/Pasting output from the terminal](https://dev.to/saranshk/copypasting-output-from-the-terminal-1c6g)
-- [Agents in Action - MindsDB Hackathon Recap](https://dev.to/mindsdb/agents-in-action-mindsdb-hackathon-recap-2k71)
+- [What Makes You Want Candle Box Packaging](https://dev.to/john_andrew/what-makes-you-want-candle-box-packaging-5hn2)
+- [Serverless Computing with Google Cloud Functions](https://dev.to/kartikmehta8/serverless-computing-with-google-cloud-functions-17e7)
+- [Las 20 preguntas principales de entrevistas sobre React](https://dev.to/w4ll-3/las-20-preguntas-principales-de-entrevistas-sobre-react-58h7)
+- [Unleashing the Power of HTML5: A Modern Web Revolution](https://dev.to/gracekid/unleashing-the-power-of-html5-a-modern-web-revolution-3dk6)
 <!-- BLOG-POST-LIST:END -->
 
