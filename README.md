@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Beans Picker Bot 1: Tech-Humor By FEMI](https://dev.to/femolacaster/the-beans-picker-bot-1-tech-humor-by-femi-42o1)
-- [Devoxx France 2024](https://dev.to/onepoint/devoxx-france-2024-8o)
-- [Calculus for ML: Derivatives Part - 01](https://dev.to/fatimajannat/calculus-for-ml-derivatives-part-01-2adm)
-- [Calculus for ML: Derivatives. Part - 2](https://dev.to/fatimajannat/calculus-for-ml-derivatives-part-2-2igb)
+- [Let&#39;s Use the Brower Developer Tools!](https://dev.to/weseek-inc/lets-use-the-brower-developer-tools-1844)
+- [7 Best Chart Libraries For Developers In 2024 🤯](https://dev.to/latitude/7-best-chart-libraries-for-developers-in-2024-25he)
+- [How to activate open source communities](https://dev.to/codexhyun/how-to-activate-open-source-communities-2mb9)
+- [How to Master Go File I/O in 4 Weeks](https://dev.to/zone01kisumu/how-to-master-go-file-io-in-4-weeks-27b)
 <!-- BLOG-POST-LIST:END -->
 
