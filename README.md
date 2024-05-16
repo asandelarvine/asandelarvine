@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Design Patterns - Structural - Proxy](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-proxy-1hci)
-- [Automate the Deployment of a LAMP Stack &amp; Laravel App with a Script and Ansible](https://dev.to/chigozieco/automate-the-deployment-of-a-lamp-stack-laravel-app-with-a-script-and-ansible-hf0)
-- [How to check if the character is alphanumeric in GO](https://dev.to/regalman/how-to-check-if-the-character-is-alphanumeric-in-go-4837)
-- [Japanese standard stock photos](https://dev.to/yamashee/japanese-standard-stock-photos-43cc)
+- [The Future of Digital Asset Management: Exploring Headless DAM](https://dev.to/msmith99994/the-future-of-digital-asset-management-exploring-headless-dam-5ap6)
+- [TypeScript Adventures: Prop Drilling Down the Rabbit Hole](https://dev.to/wearypossum4770/typescript-adventures-prop-drilling-down-the-rabbit-hole-9ld)
+- [Understanding Internet Content Providers &lpar;ICP&rpar; and ICP Licenses in China](https://dev.to/sparkycode/understanding-internet-content-providers-icp-and-icp-licenses-in-china-4f8o)
+- [Docker for Beginners](https://dev.to/shriyaexe/docker-for-beginners-394m)
 <!-- BLOG-POST-LIST:END -->
 
