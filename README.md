@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AllowedValues and DeniedValues in .NET 8](https://dev.to/moh_moh701/using-allowedvalues-and-deniedvalues-in-net-8-21ao)
-- [Streamlining Pipeline Automation with JavaScript Scripts from GitLab Repositories](https://dev.to/hasantezcan/streamlining-pipeline-automation-with-javascript-scripts-from-gitlab-repositories-30me)
-- [🕔 This 5-Hour Rule Can Change Your Coding Habits Forever](https://dev.to/evergrowingdev/this-5-hour-rule-can-change-your-coding-habits-forever-1n0e)
-- [file extension from byte array](https://dev.to/ajit_singh_3adb4debf5b324/file-extension-from-byte-array-2lm9)
+- [The Beans Picker Bot 1: Tech-Humor By FEMI](https://dev.to/femolacaster/the-beans-picker-bot-1-tech-humor-by-femi-42o1)
+- [Devoxx France 2024](https://dev.to/onepoint/devoxx-france-2024-8o)
+- [Calculus for ML: Derivatives Part - 01](https://dev.to/fatimajannat/calculus-for-ml-derivatives-part-01-2adm)
+- [Calculus for ML: Derivatives. Part - 2](https://dev.to/fatimajannat/calculus-for-ml-derivatives-part-2-2igb)
 <!-- BLOG-POST-LIST:END -->
 
