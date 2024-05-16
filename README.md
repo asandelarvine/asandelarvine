@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AWS Day by Day — Day 66 — AWS CodePipeline](https://dev.to/rksalo88/learning-aws-day-by-day-day-66-aws-codepipeline-2khn)
-- [Vanilla JavaScript - Tabs](https://dev.to/serhatbek/vanilla-javascript-tabs-21i8)
-- [Video Tutorial - How To Run Llama 3 locally with Ollama and OpenWebUI!](https://dev.to/timesurgelabs/video-tutorial-how-to-run-llama-3-locally-with-ollama-and-openwebui-1dn1)
-- [Ragable: Making machine learning easy](https://dev.to/kwnaidoo/ragable-making-machine-learning-easy-4lgf)
+- [JavaScript Design Patterns - Structural - Proxy](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-proxy-1hci)
+- [Automate the Deployment of a LAMP Stack &amp; Laravel App with a Script and Ansible](https://dev.to/chigozieco/automate-the-deployment-of-a-lamp-stack-laravel-app-with-a-script-and-ansible-hf0)
+- [How to check if the character is alphanumeric in GO](https://dev.to/regalman/how-to-check-if-the-character-is-alphanumeric-in-go-4837)
+- [Japanese standard stock photos](https://dev.to/yamashee/japanese-standard-stock-photos-43cc)
 <!-- BLOG-POST-LIST:END -->
 
