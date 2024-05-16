@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your Mock Server with Mockingbird](https://dev.to/ozkeisar/setting-up-your-mock-server-with-mockingbird-1b72)
-- [Cloud Optimization: AWS Lambda vs. EC2](https://dev.to/jakeinthecloud/cloud-optimization-aws-lambda-vs-ec2-2ki4)
-- [Comment ajouter un chat en temps réel à votre jeu Unity](https://dev.to/pubnub-fr/comment-ajouter-un-chat-en-temps-reel-a-votre-jeu-unity-a4b)
-- [My Second project Guessing Number Game](https://dev.to/usaid4150/my-second-project-guessing-number-game-3mi8)
+- [Do not Reinvent the Wheel: Utilize Django’s Built-in Auth App to Create a Robust Authentication System](https://dev.to/odhiambo/do-not-reinvent-the-wheel-utilize-djangos-built-in-auth-app-to-create-a-robust-authentication-system-4840)
+- [Containerize your Django Web Application with Docker](https://dev.to/odhiambo/containerize-your-django-web-application-with-docker-2c2e)
+- [Keybindings in Terminal in VS Code](https://dev.to/h3h/keybindings-in-terminal-in-vs-code-1lo7)
+- [Sending SMS Messages with Python and ClickSend](https://dev.to/foysal365/sending-sms-messages-with-python-and-clicksend-phl)
 <!-- BLOG-POST-LIST:END -->
 
