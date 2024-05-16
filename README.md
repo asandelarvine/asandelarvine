@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Use the Brower Developer Tools!](https://dev.to/weseek-inc/lets-use-the-brower-developer-tools-1844)
-- [7 Best Chart Libraries For Developers In 2024 🤯](https://dev.to/latitude/7-best-chart-libraries-for-developers-in-2024-25he)
-- [How to activate open source communities](https://dev.to/codexhyun/how-to-activate-open-source-communities-2mb9)
-- [How to Master Go File I/O in 4 Weeks](https://dev.to/zone01kisumu/how-to-master-go-file-io-in-4-weeks-27b)
+- [Mapped Object Types](https://dev.to/scottpony/mapped-object-types-3o0p)
+- [Building your own ChatGPT Graphical Client with NextJS and Wing 🤯](https://dev.to/winglang/building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj)
+- [The World of 3D Asset Management](https://dev.to/msmith99994/the-world-of-3d-asset-management-4975)
+- [How to shuffle an array in JavaScript](https://dev.to/bybydev/how-to-shuffle-an-array-in-javascript-3efd)
 <!-- BLOG-POST-LIST:END -->
 
