@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Life without Screens Possible?](https://dev.to/devteam/is-life-without-screens-possible-5fb1)
-- [Building Safe Communities with AI-powered Content Moderation](https://dev.to/exoapi/building-safe-communities-with-ai-powered-content-moderation-5e2k)
-- [Database Drivers: What You Need to Know](https://dev.to/dbvismarketing/database-drivers-what-you-need-to-know-f1j)
-- [Understanding Consensus Algorithms In Blockchain](https://dev.to/syntheticwizard2244/understanding-consensus-algorithms-in-blockchain-48mn)
+- [Inline SVG Icons in Your Rails App](https://dev.to/railsdesigner/inline-svg-icons-in-your-rails-app-325a)
+- [PostgreSQL on steroids - how to ace your database configuration](https://dev.to/metis/postgresql-on-steroids-how-to-ace-your-database-configuration-496d)
+- [Write clean code in JavaScript with this! 👇](https://dev.to/shehzadhussain/write-clean-code-in-javascript-with-this-382h)
+- [Mastering JavaScript&#39;s Call, Apply, and Bind Methods: A Comprehensive Guide](https://dev.to/devvarun/mastering-javascripts-call-apply-and-bind-methods-a-comprehensive-guide-434n)
 <!-- BLOG-POST-LIST:END -->
 
