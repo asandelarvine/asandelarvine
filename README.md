@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Sudden Crashes of Eclipse IDE on Ubuntu](https://dev.to/toindranildutta/how-to-prevent-sudden-crashes-of-eclipse-ide-on-ubuntu-5bnl)
-- [How Does Google Treat AI Content?](https://dev.to/scrumdigital/how-does-google-treat-ai-content-2j9o)
-- [Vitest setup with serverless framework: Node.js Express.js](https://dev.to/abdul_165bf98345e29aea8ef/vitest-setup-with-serverless-framework-nodejs-expressjs-550c)
-- [Write a backend server, and you get an Admin Dashboard for free!](https://dev.to/victeoteokw/write-a-backend-server-and-you-get-an-admin-dashboard-for-free-2f5p)
+- [What is API Management and How It Benefits Your Organization](https://dev.to/getambassador2024/what-is-api-management-and-how-it-benefits-your-organization-5757)
+- [How to Get Your First Job in 8 Steps: Leveraging the Power of an AI Cover Letter](https://dev.to/blogsx/how-to-get-your-first-job-in-8-steps-leveraging-the-power-of-an-ai-cover-letter-4g8g)
+- [What makes a good REST API?](https://dev.to/apitally/what-makes-a-good-rest-api-1eo7)
+- [AWS AMPLIFY FULLSTACK CHALLENGE](https://dev.to/harsh432004/aws-amplify-fullstack-challenge-37fc)
 <!-- BLOG-POST-LIST:END -->
 
