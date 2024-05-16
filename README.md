@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React Server Component](https://dev.to/chauhoangminhnguyen/understanding-react-server-component-4hjc)
-- [Create a super fast AI assistant with Groq &lpar;Without a database&rpar;](https://dev.to/serpapi/create-a-super-fast-ai-assistant-with-groq-without-a-database-7e7)
-- [Simple Guide to Using Intersection Observer API with ReactJS](https://dev.to/sachinchaurasiya/simple-guide-to-using-intersection-observer-api-with-reactjs-42n2)
-- [Angular + Gemini Pro Vision](https://dev.to/combimauri/angular-gemini-pro-vision-3fcf)
+- [A beginner&#39;s dilemma](https://dev.to/raj_nair_83/a-beginners-dilemma-30k9)
+- [Reverting File Changes in Git: A Comprehensive Guide](https://dev.to/mochafreddo/reverting-file-changes-in-git-a-comprehensive-guide-80i)
+- [Postman new update that developer should know](https://dev.to/aniksaha12/postman-new-update-that-developer-should-know-5gg0)
+- [F# For Dummys - Day 0](https://dev.to/pythonzhu/f-for-dummys-day-0-1lb)
 <!-- BLOG-POST-LIST:END -->
 
