@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inline SVG Icons in Your Rails App](https://dev.to/railsdesigner/inline-svg-icons-in-your-rails-app-325a)
-- [PostgreSQL on steroids - how to ace your database configuration](https://dev.to/metis/postgresql-on-steroids-how-to-ace-your-database-configuration-496d)
-- [Write clean code in JavaScript with this! 👇](https://dev.to/shehzadhussain/write-clean-code-in-javascript-with-this-382h)
-- [Mastering JavaScript&#39;s Call, Apply, and Bind Methods: A Comprehensive Guide](https://dev.to/devvarun/mastering-javascripts-call-apply-and-bind-methods-a-comprehensive-guide-434n)
+- [My opinion on the Tauri framework](https://dev.to/nfrankel/my-opinion-on-the-tauri-framework-54c3)
+- [Embracing Simplicity in Software Development: A Realistic Approach](https://dev.to/drruvari/embracing-simplicity-in-software-development-a-realistic-approach-3ff4)
+- [Basic Markdown](https://dev.to/zemerik/basic-markdown-2jel)
+- [🎉 Exciting Update: NFTScan Enhances the NFT Explorer of Ordinals with Advanced Data Parsing and Expanded Market Analysis](https://dev.to/nft_research/exciting-update-nftscan-enhances-the-nft-explorer-of-ordinals-with-advanced-data-parsing-and-expanded-market-analysis-5g6g)
 <!-- BLOG-POST-LIST:END -->
 
