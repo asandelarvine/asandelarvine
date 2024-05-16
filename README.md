@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up HTMX in Django](https://dev.to/agarjoshua/how-to-set-up-htmx-in-django-307f)
-- [webdev sql databses development](https://dev.to/gauravsingh94/webdev-sql-databses-development-510c)
-- [WebSockets](https://dev.to/jay818/websockets-1dke)
-- [Composable Architecture](https://dev.to/msmith99994/composable-architecture-21eb)
+- [Setting Up Your Mock Server with Mockingbird](https://dev.to/ozkeisar/setting-up-your-mock-server-with-mockingbird-1b72)
+- [Cloud Optimization: AWS Lambda vs. EC2](https://dev.to/jakeinthecloud/cloud-optimization-aws-lambda-vs-ec2-2ki4)
+- [Comment ajouter un chat en temps réel à votre jeu Unity](https://dev.to/pubnub-fr/comment-ajouter-un-chat-en-temps-reel-a-votre-jeu-unity-a4b)
+- [My Second project Guessing Number Game](https://dev.to/usaid4150/my-second-project-guessing-number-game-3mi8)
 <!-- BLOG-POST-LIST:END -->
 
