@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JSX Editing in Emacs with Tree-sitter](https://dev.to/p233/mastering-jsx-editing-in-emacs-with-tree-sitter-2b3a)
-- [Top 5 Features of the Best Passport recognition technology by FacePlugin](https://dev.to/faceplugin/top-5-features-of-the-best-passport-recognition-technology-by-faceplugin-2ci6)
-- [What Makes You Want Candle Box Packaging](https://dev.to/john_andrew/what-makes-you-want-candle-box-packaging-5hn2)
-- [Demystifying Computer Files: A Beginner&#39;s Guide to Navigating Programming](https://dev.to/gracekid/demystifying-computer-files-a-beginners-guide-to-navigating-programming-5da)
+- [Understanding React Server Component](https://dev.to/chauhoangminhnguyen/understanding-react-server-component-4hjc)
+- [Create a super fast AI assistant with Groq &lpar;Without a database&rpar;](https://dev.to/serpapi/create-a-super-fast-ai-assistant-with-groq-without-a-database-7e7)
+- [Simple Guide to Using Intersection Observer API with ReactJS](https://dev.to/sachinchaurasiya/simple-guide-to-using-intersection-observer-api-with-reactjs-42n2)
+- [Angular + Gemini Pro Vision](https://dev.to/combimauri/angular-gemini-pro-vision-3fcf)
 <!-- BLOG-POST-LIST:END -->
 
