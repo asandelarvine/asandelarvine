@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s dilemma](https://dev.to/raj_nair_83/a-beginners-dilemma-30k9)
-- [Reverting File Changes in Git: A Comprehensive Guide](https://dev.to/mochafreddo/reverting-file-changes-in-git-a-comprehensive-guide-80i)
-- [Postman new update that developer should know](https://dev.to/aniksaha12/postman-new-update-that-developer-should-know-5gg0)
-- [F# For Dummys - Day 0](https://dev.to/pythonzhu/f-for-dummys-day-0-1lb)
+- [How to Prevent Sudden Crashes of Eclipse IDE on Ubuntu](https://dev.to/toindranildutta/how-to-prevent-sudden-crashes-of-eclipse-ide-on-ubuntu-5bnl)
+- [How Does Google Treat AI Content?](https://dev.to/scrumdigital/how-does-google-treat-ai-content-2j9o)
+- [Vitest setup with serverless framework: Node.js Express.js](https://dev.to/abdul_165bf98345e29aea8ef/vitest-setup-with-serverless-framework-nodejs-expressjs-550c)
+- [Write a backend server, and you get an Admin Dashboard for free!](https://dev.to/victeoteokw/write-a-backend-server-and-you-get-an-admin-dashboard-for-free-2f5p)
 <!-- BLOG-POST-LIST:END -->
 
