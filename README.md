@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jornada pessoal em Machine Learning](https://dev.to/devxbr/jornada-pessoal-em-machine-learning-2c3n)
-- [Essential tools for Frontend Developers](https://dev.to/bingecoder89/essential-tools-for-frontend-developers-3e2i)
-- [Uploaded pdf&#39;s file type didn&#39;t recognize in firebase storage dotnet 8](https://dev.to/malshan/uploaded-pdfs-file-type-didnt-recognize-in-firebase-storage-dotnet-8-4nd)
-- [Effortlessly Export AWS Health Organizational View to CSV with This CLI Tool](https://dev.to/aws-builders/effortlessly-export-aws-health-organizational-view-to-csv-with-this-cli-tool-29ae)
+- [Learning AWS Day by Day — Day 66 — AWS CodePipeline](https://dev.to/rksalo88/learning-aws-day-by-day-day-66-aws-codepipeline-2khn)
+- [Vanilla JavaScript - Tabs](https://dev.to/serhatbek/vanilla-javascript-tabs-21i8)
+- [Video Tutorial - How To Run Llama 3 locally with Ollama and OpenWebUI!](https://dev.to/timesurgelabs/video-tutorial-how-to-run-llama-3-locally-with-ollama-and-openwebui-1dn1)
+- [Ragable: Making machine learning easy](https://dev.to/kwnaidoo/ragable-making-machine-learning-easy-4lgf)
 <!-- BLOG-POST-LIST:END -->
 
