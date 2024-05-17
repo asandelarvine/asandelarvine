@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GET File&lpar;s&rpar; from a GitHub Commit ID](https://dev.to/sh20raj/get-files-from-a-github-commit-id-1alh)
-- [10+ Best Open Source Icon Libraries in 2024](https://dev.to/masumparvej/10-best-open-source-icon-libraries-3pf6)
-- [ChatGPT Prompts for developers](https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d)
-- [Ensuring Optimal Performance: A Deep Dive into Functional Testing of Automotive Infotainment Devices](https://dev.to/abhayit2000/ensuring-optimal-performance-a-deep-dive-into-functional-testing-of-automotive-infotainment-devices-kgb)
+- [Simple Nginx Docker Proxy with high availability and security](https://dev.to/andrewkangg/simple-nginx-docker-proxy-with-high-availability-and-security-3p3a)
+- [My impressions about the book The Clean Coder 🧹📚](https://dev.to/zangassis/my-impressions-about-the-book-the-clean-coder-le0)
+- [First-Time Startup Leader — What Could Go Wrong?](https://dev.to/lukepreston/first-time-startup-leader-what-could-go-wrong-298d)
+- [java enum](https://dev.to/mustafacam/java-enum-fn3)
 <!-- BLOG-POST-LIST:END -->
 
