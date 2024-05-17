@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing the Cloud #29](https://dev.to/8carroll/securing-the-cloud-29-12o3)
-- [How to Enable Named Pipe Activation in Windows 11?](https://dev.to/winsidescom/how-to-enable-named-pipe-activation-in-windows-11-5djb)
-- [Anywho.com Review: A Comprehensive Look at the Popular People Search Site](https://dev.to/beingoptimists/anywhocom-review-a-comprehensive-look-at-the-popular-people-search-site-n0p)
-- [API Gateway Security: Guarding the Gates of Your Microservices Empire](https://dev.to/syncloop_dev/api-gateway-security-guarding-the-gates-of-your-microservices-empire-48he)
+- [⚙️ Laravel Queues: Rate-Limiting jobs](https://dev.to/ionbazan/laravel-queues-rate-limiting-jobs-14m3)
+- [Confessions of a Serial Debugger 🐛💻](https://dev.to/buildwebcrumbs/confessions-of-a-serial-debugger-4hjn)
+- [pyaction 4.30.0 Released](https://dev.to/cicirello/pyaction-4300-released-2ig7)
+- [Handle Clerk Authentication for back-end in TRPC + Next.js](https://dev.to/harit_joshi_54274da5caf60/handle-clerk-authentication-for-back-end-in-trpc-nextjs-2fek)
 <!-- BLOG-POST-LIST:END -->
 
