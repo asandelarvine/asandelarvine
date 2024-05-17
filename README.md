@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in API7 Enterprise 3.2.11: Supporting SCIM and SSO Role Mapping](https://dev.to/api7/whats-new-in-api7-enterprise-3211-supporting-scim-and-sso-role-mapping-117c)
-- [From Pixels to People: Redefining UX for Social Impact](https://dev.to/yujofficial/from-pixels-to-people-redefining-ux-for-social-impact-4nac)
-- [Removing orphaned Parents with Doctrine](https://dev.to/altesack/removing-orphaned-parents-with-doctrine-b4e)
-- [How Prompt Engineering Can Revolutionize Your Web Development Projects](https://dev.to/delia_code/how-prompt-engineering-can-revolutionize-your-web-development-projects-3ae3)
+- [8 new technology trends and methodologies for app modernization](https://dev.to/gem_corporation/8-new-technology-trends-and-methodologies-for-app-modernization-3e20)
+- [Split screen left , right and bottom . But bottom should be moved to left side.](https://dev.to/ajay_babu_4fef98fd4857104/split-screen-left-right-and-bottom-but-bottom-should-be-moved-to-left-side-18eo)
+- [Uploading big files at amazon sagemaker jupyter Lab](https://dev.to/hassaan68/uploading-big-files-at-amazon-sagemaker-jupyter-lab-300b)
+- [Kotlin DSL: Configurando JaCoco](https://dev.to/klinsmannlopes/kotlin-dsl-configurando-jacoco-em-um-projeto-jvm-4j00)
 <!-- BLOG-POST-LIST:END -->
 
