@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Security Settings in Umbraco: A Comprehensive Guide](https://dev.to/shekhartarare/configuring-security-settings-in-umbraco-a-comprehensive-guide-5361)
-- [Get ChatGPT Equivalent in Under 5 Minutes with Ollama &amp; Open WebUI](https://dev.to/tanguy_chenier/get-chatgpt-equivalent-in-under-5-minutes-with-ollama-open-webui-271e)
-- [Method References](https://dev.to/mustafacam/method-references-3981)
-- [Introducing Pieces Copilot+, now with Live Context](https://dev.to/get_pieces/introducing-pieces-copilot-now-with-live-context-4ho9)
+- [The Art of Using A Paper Notebook in App Development](https://dev.to/paperprogramming/the-art-of-using-a-paper-notebook-in-app-development-19c1)
+- [Gestió Integral de la Seguretat al Núvol amb AWS Security Hub](https://dev.to/gcjordi/gestio-integral-de-la-seguretat-al-nuvol-amb-aws-security-hub-5fdd)
+- [Enabling Cross-Account Access for AWS Lake Formation with Data Filters Using Terraform](https://dev.to/thulasirajkomminar/enabling-cross-account-access-for-lake-formation-with-data-filters-using-terraform-38d1)
+- [[ptbr] Consumir Funções do PostGIS direto do Python](https://dev.to/maurojosedmjr/ptbr-consumir-funcoes-do-postgis-direto-do-python-pcp)
 <!-- BLOG-POST-LIST:END -->
 
