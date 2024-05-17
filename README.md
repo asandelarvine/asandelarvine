@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Back-end](https://dev.to/r4nd3l/dev-back-end-nej)
-- [Burnout Warning Signs: What We Often Overlook](https://dev.to/arooj/burnout-warning-signs-what-we-often-overlook-4oj2)
-- [How to Set Up Your Development Environment for Solidity](https://dev.to/superxdev/how-to-set-up-your-development-environment-for-solidity-42fc)
-- [Card Animation](https://dev.to/ranjith_r_40a2e27714f8781/card-animation-nc7)
+- [The Rise of AI in Web Design: 5 Game-Changing Ways AI is Revolutionizing the Industry](https://dev.to/delia_code/the-rise-of-ai-in-web-design-5-game-changing-ways-ai-is-revolutionizing-the-industry-24ke)
+- [Free Web Development Course](https://dev.to/kuvindu_damvin/free-web-development-course-2512)
+- [How to dynamically set the min and max values of the progressBar type in the VTable component?](https://dev.to/fangsmile/how-to-dynamically-set-the-min-and-max-values-of-the-progressbar-type-in-the-vtable-component-484e)
+- [Can the VTable component be drag-and-drop to swap rows?](https://dev.to/fangsmile/can-the-vtable-component-be-drag-and-drop-to-swap-rows-172n)
 <!-- BLOG-POST-LIST:END -->
 
