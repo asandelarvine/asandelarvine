@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 new technology trends and methodologies for app modernization](https://dev.to/gem_corporation/8-new-technology-trends-and-methodologies-for-app-modernization-3e20)
-- [Split screen left , right and bottom . But bottom should be moved to left side.](https://dev.to/ajay_babu_4fef98fd4857104/split-screen-left-right-and-bottom-but-bottom-should-be-moved-to-left-side-18eo)
-- [Uploading big files at amazon sagemaker jupyter Lab](https://dev.to/hassaan68/uploading-big-files-at-amazon-sagemaker-jupyter-lab-300b)
-- [Kotlin DSL: Configurando JaCoco](https://dev.to/klinsmannlopes/kotlin-dsl-configurando-jacoco-em-um-projeto-jvm-4j00)
+- [Unlocking Success: Mobile App Development In Kuwait](https://dev.to/purvi/unlocking-success-mobile-app-development-in-kuwait-2kj0)
+- [Avoid iterators/generators in Javascript](https://dev.to/alexander-nenashev/avoid-iteratorsgenerators-in-javascript-116n)
+- [Browser Begins Support for Popover API: A Quick Guide](https://dev.to/zacharylee/browser-begins-support-for-popover-api-a-quick-guide-i1c)
+- [From Zero to Hero: Disaster Recovery for PostgreSQL with Streaming Replication in Kubernetes](https://dev.to/spronin/from-zero-to-hero-disaster-recovery-for-postgresql-with-streaming-replication-in-kubernetes-2g96)
 <!-- BLOG-POST-LIST:END -->
 
