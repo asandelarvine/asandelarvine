@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Using A Paper Notebook in App Development](https://dev.to/paperprogramming/the-art-of-using-a-paper-notebook-in-app-development-19c1)
-- [Gestió Integral de la Seguretat al Núvol amb AWS Security Hub](https://dev.to/gcjordi/gestio-integral-de-la-seguretat-al-nuvol-amb-aws-security-hub-5fdd)
-- [Enabling Cross-Account Access for AWS Lake Formation with Data Filters Using Terraform](https://dev.to/thulasirajkomminar/enabling-cross-account-access-for-lake-formation-with-data-filters-using-terraform-38d1)
-- [[ptbr] Consumir Funções do PostGIS direto do Python](https://dev.to/maurojosedmjr/ptbr-consumir-funcoes-do-postgis-direto-do-python-pcp)
+- [Removendo Dados Sensiveis de Images](https://dev.to/r9n/removendo-dados-sensiveis-de-images-2k0e)
+- [Nueva ventana](https://dev.to/srparis/nueva-ventana-531b)
+- [Event Loop part 2](https://dev.to/ylanzinhoy/event-loop-part-2-2jib)
+- [LeetCode Meditations — Chapter 9: Backtracking](https://dev.to/rivea0/leetcode-meditations-chapter-9-backtracking-4lk7)
 <!-- BLOG-POST-LIST:END -->
 
