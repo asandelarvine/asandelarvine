@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Nginx Docker Proxy with high availability and security](https://dev.to/andrewkangg/simple-nginx-docker-proxy-with-high-availability-and-security-3p3a)
-- [My impressions about the book The Clean Coder 🧹📚](https://dev.to/zangassis/my-impressions-about-the-book-the-clean-coder-le0)
-- [First-Time Startup Leader — What Could Go Wrong?](https://dev.to/lukepreston/first-time-startup-leader-what-could-go-wrong-298d)
-- [java enum](https://dev.to/mustafacam/java-enum-fn3)
+- [Front-End Web Design: Beginner’s Guide](https://dev.to/apidna/front-end-web-design-beginners-guide-2o58)
+- [LinkedList, ArrayList](https://dev.to/mustafacam/linkedlist-arraylist-50o)
+- [Codo to image: A handy tool to convert a code snippet to an image](https://dev.to/natenguyen/codo-to-image-a-handy-tool-to-convert-a-code-snippet-to-an-image-pei)
+- [3 Essential Skills for Coders in the Generative AI Era](https://dev.to/skillreactor/3-essential-skills-for-coders-in-the-generative-ai-era-4cbc)
 <!-- BLOG-POST-LIST:END -->
 
