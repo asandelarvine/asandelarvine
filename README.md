@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sample Videos for Testing](https://dev.to/sh20raj/sample-videos-for-testing-4a30)
-- [Stream API](https://dev.to/mustafacam/stream-api-32j)
-- [Create Professional Forms in Minutes with ZIGAFORM](https://dev.to/softdiscover/create-professional-forms-in-minutes-with-zigaform-44da)
-- [how to create wizard form with ZIGAFORM Cost Estimation Form Builder](https://dev.to/softdiscover/how-to-create-wizard-form-with-zigaform-cost-estimation-form-builder-1ead)
+- [Configuring Security Settings in Umbraco: A Comprehensive Guide](https://dev.to/shekhartarare/configuring-security-settings-in-umbraco-a-comprehensive-guide-5361)
+- [Get ChatGPT Equivalent in Under 5 Minutes with Ollama &amp; Open WebUI](https://dev.to/tanguy_chenier/get-chatgpt-equivalent-in-under-5-minutes-with-ollama-open-webui-271e)
+- [Method References](https://dev.to/mustafacam/method-references-3981)
+- [Introducing Pieces Copilot+, now with Live Context](https://dev.to/get_pieces/introducing-pieces-copilot-now-with-live-context-4ho9)
 <!-- BLOG-POST-LIST:END -->
 
