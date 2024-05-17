@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do not Reinvent the Wheel: Utilize Django’s Built-in Auth App to Create a Robust Authentication System](https://dev.to/odhiambo/do-not-reinvent-the-wheel-utilize-djangos-built-in-auth-app-to-create-a-robust-authentication-system-4840)
-- [Containerize your Django Web Application with Docker](https://dev.to/odhiambo/containerize-your-django-web-application-with-docker-2c2e)
-- [Keybindings in Terminal in VS Code](https://dev.to/h3h/keybindings-in-terminal-in-vs-code-1lo7)
-- [Sending SMS Messages with Python and ClickSend](https://dev.to/foysal365/sending-sms-messages-with-python-and-clicksend-phl)
+- [Python. Flipping Calendars.](https://dev.to/dm8ry/python-flipping-calendars-22f5)
+- [Login problem - cant read get_current_active_user over dependency in student route.](https://dev.to/nemsho_82acce26316/login-problem-cant-read-getcurrentactiveuser-over-dependency-in-student-route-47g8)
+- [10 Essential Questions to Ask When Starting with NumPy Data Manipulation](https://dev.to/marcconci/10-essential-questions-to-ask-when-starting-with-numpy-data-manipulation-da6)
+- [Introduction to Natural Language Processing with NLTK](https://dev.to/kartikmehta8/introduction-to-natural-language-processing-with-nltk-4o34)
 <!-- BLOG-POST-LIST:END -->
 
