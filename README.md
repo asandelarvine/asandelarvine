@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Removendo Dados Sensiveis de Images](https://dev.to/r9n/removendo-dados-sensiveis-de-images-2k0e)
-- [Nueva ventana](https://dev.to/srparis/nueva-ventana-531b)
-- [Event Loop part 2](https://dev.to/ylanzinhoy/event-loop-part-2-2jib)
-- [LeetCode Meditations — Chapter 9: Backtracking](https://dev.to/rivea0/leetcode-meditations-chapter-9-backtracking-4lk7)
+- [Elanat CMS 2.2, Ability to Replace Pages Before Response](https://dev.to/elanatframework/elanat-cms-22-ability-to-replace-pages-before-response-234n)
+- [Simplifying Web Forms with the FormData Web API](https://dev.to/wdp/simplifying-web-forms-with-the-formdata-web-api-4mb4)
+- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-3odj)
+- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-5b54)
 <!-- BLOG-POST-LIST:END -->
 
