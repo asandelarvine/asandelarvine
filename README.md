@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting start with Tables using Next.js, Tanstack Table and Typescript](https://dev.to/franciscolunadev82/getting-start-with-tables-using-nextjs-tanstack-table-and-typescript-2aig)
-- [Understanding Node.js: A Comprehensive Guide](https://dev.to/abhayradadiya_59/understanding-nodejs-a-comprehensive-guide-onh)
-- [Optimizing MySQL Database Performance: Identifying and Managing Long Queries](https://dev.to/dm8ry/optimizing-mysql-database-performance-identifying-and-managing-long-queries-3da5)
-- [Implementing GraphRAG for Query-Focused Summarization](https://dev.to/stephenc222/implementing-graphrag-for-query-focused-summarization-47ib)
+- [How to Get a Dev Job](https://dev.to/thekarlesi/how-to-get-a-dev-job-3806)
+- [Generic constant expressions: a future bright side of nightly Rust](https://dev.to/iprosk/generic-constant-expressions-a-future-bright-side-of-nightly-rust-3bp7)
+- [Unified Stream and Batch Processing of WorldQuant 101 Alphas in DolphinDB](https://dev.to/dolphindb/unified-stream-and-batch-processing-of-worldquant-101-alphas-in-dolphindb-3def)
+- [Helpful Tools for Quant丨Efficiently Calculate Transaction Costs from Tick Data](https://dev.to/dolphindb/helpful-tools-for-quantgun-efficiently-calculate-transaction-costs-from-tick-data-58h4)
 <!-- BLOG-POST-LIST:END -->
 
