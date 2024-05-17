@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 easy tips to improve your personal website performance](https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng)
-- [Apply for Apache Answer’s Project at OSPP 2024](https://dev.to/answerdev/apply-for-apache-answers-project-at-ospp-2024-59nk)
-- [How to create a sidebar navigation with Astro, Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-sidebar-navigation-with-astro-tailwind-css-and-javascript-1lo1)
-- [Work for It: The Pathway to Your Greatest Achievements](https://dev.to/devdiscove19083/work-for-it-the-pathway-to-your-greatest-achievements-10b2)
+- [New View Types For Data Representation: List, Card, and Calendar](https://dev.to/flatlogic/new-view-types-for-data-representation-list-card-and-calendar-3ccc)
+- [Explore Sponsored Hackathons 2024 by Flatlogic](https://dev.to/flatlogic/explore-sponsored-hackathons-2024-by-flatlogic-1eda)
+- [Best 10 + AI Tools for HR – Flatlogic List](https://dev.to/flatlogic/best-10-ai-tools-for-hr-flatlogic-list-2ocf)
+- [Does VChart&#39;s multi-group bar chart support multi-layer axis labels?](https://dev.to/da730/does-vcharts-multi-group-bar-chart-support-multi-layer-axis-labels-33c1)
 <!-- BLOG-POST-LIST:END -->
 
