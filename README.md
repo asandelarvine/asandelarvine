@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django 8: Implementing the game in Player vs Player](https://dev.to/doctorserone/django-8-implementing-the-game-in-player-vs-player-ji0)
-- [How to run any LLM model with Hugging-Face 🤗](https://dev.to/rswijesena/how-to-run-any-llm-model-with-hugging-face-4hg3)
-- [How to Boost Image Loading Speed in Your Angular 17 App](https://dev.to/bytebantz/how-to-boost-image-loading-speed-in-your-angular-17-app-513)
-- [how i can click a child element inside of element ?](https://dev.to/trit_giang_1b4ae9067df33/how-i-can-click-a-child-element-inside-of-element--1m1k)
+- [Dev: Back-end](https://dev.to/r4nd3l/dev-back-end-nej)
+- [Burnout Warning Signs: What We Often Overlook](https://dev.to/arooj/burnout-warning-signs-what-we-often-overlook-4oj2)
+- [How to Set Up Your Development Environment for Solidity](https://dev.to/superxdev/how-to-set-up-your-development-environment-for-solidity-42fc)
+- [Card Animation](https://dev.to/ranjith_r_40a2e27714f8781/card-animation-nc7)
 <!-- BLOG-POST-LIST:END -->
 
