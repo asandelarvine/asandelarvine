@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End Web Design: Beginner’s Guide](https://dev.to/apidna/front-end-web-design-beginners-guide-2o58)
-- [LinkedList, ArrayList](https://dev.to/mustafacam/linkedlist-arraylist-50o)
-- [Codo to image: A handy tool to convert a code snippet to an image](https://dev.to/natenguyen/codo-to-image-a-handy-tool-to-convert-a-code-snippet-to-an-image-pei)
-- [3 Essential Skills for Coders in the Generative AI Era](https://dev.to/skillreactor/3-essential-skills-for-coders-in-the-generative-ai-era-4cbc)
+- [Securing the Cloud #29](https://dev.to/8carroll/securing-the-cloud-29-12o3)
+- [How to Enable Named Pipe Activation in Windows 11?](https://dev.to/winsidescom/how-to-enable-named-pipe-activation-in-windows-11-5djb)
+- [Anywho.com Review: A Comprehensive Look at the Popular People Search Site](https://dev.to/beingoptimists/anywhocom-review-a-comprehensive-look-at-the-popular-people-search-site-n0p)
+- [API Gateway Security: Guarding the Gates of Your Microservices Empire](https://dev.to/syncloop_dev/api-gateway-security-guarding-the-gates-of-your-microservices-empire-48he)
 <!-- BLOG-POST-LIST:END -->
 
