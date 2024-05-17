@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Laravel Queues: Rate-Limiting jobs](https://dev.to/ionbazan/laravel-queues-rate-limiting-jobs-14m3)
-- [Confessions of a Serial Debugger 🐛💻](https://dev.to/buildwebcrumbs/confessions-of-a-serial-debugger-4hjn)
-- [pyaction 4.30.0 Released](https://dev.to/cicirello/pyaction-4300-released-2ig7)
-- [Handle Clerk Authentication for back-end in TRPC + Next.js](https://dev.to/harit_joshi_54274da5caf60/handle-clerk-authentication-for-back-end-in-trpc-nextjs-2fek)
+- [Sample Videos for Testing](https://dev.to/sh20raj/sample-videos-for-testing-4a30)
+- [Stream API](https://dev.to/mustafacam/stream-api-32j)
+- [Create Professional Forms in Minutes with ZIGAFORM](https://dev.to/softdiscover/create-professional-forms-in-minutes-with-zigaform-44da)
+- [how to create wizard form with ZIGAFORM Cost Estimation Form Builder](https://dev.to/softdiscover/how-to-create-wizard-form-with-zigaform-cost-estimation-form-builder-1ead)
 <!-- BLOG-POST-LIST:END -->
 
