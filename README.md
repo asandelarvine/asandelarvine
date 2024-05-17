@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New View Types For Data Representation: List, Card, and Calendar](https://dev.to/flatlogic/new-view-types-for-data-representation-list-card-and-calendar-3ccc)
-- [Explore Sponsored Hackathons 2024 by Flatlogic](https://dev.to/flatlogic/explore-sponsored-hackathons-2024-by-flatlogic-1eda)
-- [Best 10 + AI Tools for HR – Flatlogic List](https://dev.to/flatlogic/best-10-ai-tools-for-hr-flatlogic-list-2ocf)
-- [Does VChart&#39;s multi-group bar chart support multi-layer axis labels?](https://dev.to/da730/does-vcharts-multi-group-bar-chart-support-multi-layer-axis-labels-33c1)
+- [What&#39;s New in API7 Enterprise 3.2.11: Supporting SCIM and SSO Role Mapping](https://dev.to/api7/whats-new-in-api7-enterprise-3211-supporting-scim-and-sso-role-mapping-117c)
+- [From Pixels to People: Redefining UX for Social Impact](https://dev.to/yujofficial/from-pixels-to-people-redefining-ux-for-social-impact-4nac)
+- [Removing orphaned Parents with Doctrine](https://dev.to/altesack/removing-orphaned-parents-with-doctrine-b4e)
+- [How Prompt Engineering Can Revolutionize Your Web Development Projects](https://dev.to/delia_code/how-prompt-engineering-can-revolutionize-your-web-development-projects-3ae3)
 <!-- BLOG-POST-LIST:END -->
 
