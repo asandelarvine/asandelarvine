@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [F# For Dummys - Day 6](https://dev.to/pythonzhu/f-for-dummys-day-6-2cpj)
-- [React Router has merged with Remix, should you use a different router?](https://dev.to/rudolfolah/react-router-has-merged-with-remix-should-you-use-a-different-router-5e2a)
-- [Relaciones many to many: conceptos y fundamentos.](https://dev.to/gfouz/relaciones-many-to-many-conceptos-y-fundamentos-5884)
-- [How to Get a Dev Job](https://dev.to/thekarlesi/how-to-get-a-dev-job-3806)
+- [Django 8: Implementing the game in Player vs Player](https://dev.to/doctorserone/django-8-implementing-the-game-in-player-vs-player-ji0)
+- [How to run any LLM model with Hugging-Face 🤗](https://dev.to/rswijesena/how-to-run-any-llm-model-with-hugging-face-4hg3)
+- [How to Boost Image Loading Speed in Your Angular 17 App](https://dev.to/bytebantz/how-to-boost-image-loading-speed-in-your-angular-17-app-513)
+- [how i can click a child element inside of element ?](https://dev.to/trit_giang_1b4ae9067df33/how-i-can-click-a-child-element-inside-of-element--1m1k)
 <!-- BLOG-POST-LIST:END -->
 
