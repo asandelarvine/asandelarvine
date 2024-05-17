@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI in Web Design: 5 Game-Changing Ways AI is Revolutionizing the Industry](https://dev.to/delia_code/the-rise-of-ai-in-web-design-5-game-changing-ways-ai-is-revolutionizing-the-industry-24ke)
-- [Free Web Development Course](https://dev.to/kuvindu_damvin/free-web-development-course-2512)
-- [How to dynamically set the min and max values of the progressBar type in the VTable component?](https://dev.to/fangsmile/how-to-dynamically-set-the-min-and-max-values-of-the-progressbar-type-in-the-vtable-component-484e)
-- [Can the VTable component be drag-and-drop to swap rows?](https://dev.to/fangsmile/can-the-vtable-component-be-drag-and-drop-to-swap-rows-172n)
+- [5 easy tips to improve your personal website performance](https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng)
+- [Apply for Apache Answer’s Project at OSPP 2024](https://dev.to/answerdev/apply-for-apache-answers-project-at-ospp-2024-59nk)
+- [How to create a sidebar navigation with Astro, Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-sidebar-navigation-with-astro-tailwind-css-and-javascript-1lo1)
+- [Work for It: The Pathway to Your Greatest Achievements](https://dev.to/devdiscove19083/work-for-it-the-pathway-to-your-greatest-achievements-10b2)
 <!-- BLOG-POST-LIST:END -->
 
