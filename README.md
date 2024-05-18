@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Spillage in Cyber Awareness](https://dev.to/beingoptimists/understanding-spillage-in-cyber-awareness-2m43)
-- [A Simple Guide to Creating Microsoft Azure Resources &lpar;Method 1&rpar;](https://dev.to/olawaleoloye/a-simple-guide-to-creating-microsoft-azure-resources-41pd)
-- [Get API &amp; Fetching Data from MongoDB in Go - 05](https://dev.to/anuragaffection/get-api-fetching-data-from-mongodb-in-go-05-5hca)
-- [How to Optimize Images in Angular Using ngOptimizedImage Directive](https://dev.to/danywalls/how-to-optimize-images-in-angular-using-ngoptimizedimage-directive-30k2)
+- [This Week In React #185: React Conf, React Query, refs, Next.js after, mini-react...](https://dev.to/sebastienlorber/this-week-in-react-185-react-conf-react-query-refs-nextjs-after-mini-react-1bhi)
+- [This Week In React #184: Patching, Expo, Strict Mode, DevTools, Next.js, Mitosis, Twofold, Terminosaurus...](https://dev.to/sebastienlorber/this-week-in-react-184-patching-expo-strict-mode-devtools-nextjs-mitosis-twofold-terminosaurus-344k)
+- [This Week In React #183: Vercel Edge, React Native 0.74 + IDE, refs, patching fetch&lpar;&rpar;, Remix Single Fetch...](https://dev.to/sebastienlorber/this-week-in-react-183-vercel-edge-react-native-074-ide-refs-patching-fetch-remix-single-fetch-2e6a)
+- [Synthetic Monitoring with Grafana Cloud](https://dev.to/aws-builders/synthetic-monitoring-with-grafana-cloud-1n5b)
 <!-- BLOG-POST-LIST:END -->
 
