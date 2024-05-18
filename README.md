@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux pip install problems](https://dev.to/kazure/linux-pip-install-problems-1cp1)
-- [Software Engineering Principles Every backend Developer Should Know](https://dev.to/nikhilxd/software-engineering-principles-every-backend-developer-should-know-3j7c)
-- [Understanding Indexing and Slicing in NumPy Arrays](https://dev.to/lohith0512/understanding-indexing-and-slicing-in-numpy-arrays-39ag)
-- [🚀 5 Reasons Why Callgent is Revolutionizing Business Operations](https://dev.to/callgent/5-reasons-why-callgent-is-revolutionizing-business-operations-opp)
+- [How to Install MongoDB Locally on a MacBook](https://dev.to/saint_vandora/how-to-install-mongodb-locally-on-a-macbook-5h3a)
+- [Is it Worth if I Develop a WHMCS Admin Hybrid App in React and Laravel?](https://dev.to/amar_singh_c867e458ab2059/is-it-worth-if-i-develop-a-whmcs-admin-hybrid-app-in-react-and-laravel-oen)
+- [Type Hinting and Annotations in Python: Improving Code Readability and Understanding](https://dev.to/myexamcloud/type-hinting-and-annotations-in-python-improving-code-readability-and-understanding-49jj)
+- [How to inverse a matrix in C#](https://dev.to/rk042/how-to-inverse-a-matrix-in-c-12jg)
 <!-- BLOG-POST-LIST:END -->
 
