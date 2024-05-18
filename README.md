@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React JS with Yarn 4](https://dev.to/prateekwayne/react-js-with-yarn-4-4a2m)
-- [Basics of Statistics](https://dev.to/ngneha09/basics-of-statistics-5fll)
-- [I created an Open Source Custom Code Editor](https://dev.to/dhanushnehru/i-created-an-open-source-custom-code-editor-f7)
-- [How To Set Up An EC2 Instance on AWS](https://dev.to/david_oyewole/how-to-set-up-an-ec2-instance-on-aws-k2c)
+- [can anyone help me to convert or replace a field of a nested column of a dataframe?](https://dev.to/mohit_bhakat_bd2dc5072d28/can-anyone-help-me-to-convert-or-replace-a-field-of-a-nested-column-of-a-dataframe-3llg)
+- [Audio play with buffer in React Native](https://dev.to/arsen_3caf411ee001daa102c/audio-play-with-buffer-in-react-native-32fa)
+- [Learning AWS Day by Day - Day 68 - Amazon Kinesis Data Firehose](https://dev.to/rksalo88/learning-aws-day-by-day-day-68-amazon-kinesis-data-firehose-1kfj)
+- [Awesome Ethereum Development Tools I used](https://dev.to/luazhizhan/awesome-ethereum-development-tools-i-used-3dj7)
 <!-- BLOG-POST-LIST:END -->
 
