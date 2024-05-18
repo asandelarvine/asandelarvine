@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Tostify Usage in NextJS or ReactJS](https://dev.to/sh20raj/react-tostify-usage-in-nextjs-or-reactjs-3d8i)
-- [TypeDefs, Resolvers and Mutations](https://dev.to/lovertab/typedefs-resolvers-and-mutations-cgd)
-- [Researcher Ranking Us Pop-Out Effect](https://dev.to/kevgutierrez09_/researcher-ranking-us-pop-out-effect-2ko2)
-- [Micelio.uca.edu.sv-Particles](https://dev.to/kevgutierrez09_/micelioucaedusv-particles-1ljp)
+- [Upload multiple images to Cloudinary using React](https://dev.to/shieldstring/upload-multiple-images-to-cloudinary-using-react-5323)
+- [Navigation in React Native](https://dev.to/codeparrot/navigation-in-react-native-2l8c)
+- [Langchain Retrieval](https://dev.to/rutamstwt/langchain-retrieval-ida)
+- [Preview of PHP 8.4 New Features](https://dev.to/servbay/preview-of-php-84-new-features-5551)
 <!-- BLOG-POST-LIST:END -->
 
