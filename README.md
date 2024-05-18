@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing dirb_rust: A High-Performance URL and Port Scanner](https://dev.to/nopass0/introducing-dirbrust-a-high-performance-url-and-port-scanner-3hp4)
-- [Microservicios con colecciones dinámicas en jmoordbcore](https://dev.to/avbravo/microservicios-con-colecciones-dinamicas-en-jmoordbcore-14of)
-- [Multi AI Agent Systems using OpenAI&#39;s new GPT-4o Model](https://dev.to/metaskills/multi-ai-agent-systems-using-openais-new-gpt-4o-model-15gi)
-- [Introdução ao framework Astro](https://dev.to/lumamontes/introducao-ao-framework-astro-398j)
+- [React Tostify Usage in NextJS or ReactJS](https://dev.to/sh20raj/react-tostify-usage-in-nextjs-or-reactjs-3d8i)
+- [TypeDefs, Resolvers and Mutations](https://dev.to/lovertab/typedefs-resolvers-and-mutations-cgd)
+- [Researcher Ranking Us Pop-Out Effect](https://dev.to/kevgutierrez09_/researcher-ranking-us-pop-out-effect-2ko2)
+- [Micelio.uca.edu.sv-Particles](https://dev.to/kevgutierrez09_/micelioucaedusv-particles-1ljp)
 <!-- BLOG-POST-LIST:END -->
 
