@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Snowflake Resource Deployment using Terraform and GitHub Actions](https://dev.to/aws-builders/automating-snowflake-resource-deployment-using-terraform-and-github-actions-2blj)
-- [Color Psychology for Front-End Developers](https://dev.to/homayunmmdy/color-psychology-for-front-end-developers-5169)
-- [Building on Morph](https://dev.to/tosynthegeek/building-on-morph-49jc)
-- [🚀 Announcing Our Comprehensive Frontend Development Course! 🚀](https://dev.to/imyogeshyadav/announcing-our-comprehensive-frontend-development-course-4f4p)
+- [Exploring C# Custom Types: Understanding Records, Structs, and Classes](https://dev.to/tkarropoulos/exploring-c-custom-types-understanding-records-structs-and-classes-410h)
+- [Oficial! Gemini Google AI Dart/Flutter SDK— Integrando Flutter com o GEMINI](https://dev.to/flutterbrasil/oficial-gemini-google-ai-dartflutter-sdk-integrando-flutter-com-o-gemini-29ka)
+- [Desenhe o que quiser com Custom Paint no Flutter](https://dev.to/flutterbrasil/desenhe-o-que-quiser-com-custom-paint-no-flutter-1kdo)
+- [Kickstart Your Journey into Android Development with Java](https://dev.to/tahirhassan23/kickstart-your-journey-into-android-development-with-java-17jp)
 <!-- BLOG-POST-LIST:END -->
 
