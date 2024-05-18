@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #185: React Conf, React Query, refs, Next.js after, mini-react...](https://dev.to/sebastienlorber/this-week-in-react-185-react-conf-react-query-refs-nextjs-after-mini-react-1bhi)
-- [This Week In React #184: Patching, Expo, Strict Mode, DevTools, Next.js, Mitosis, Twofold, Terminosaurus...](https://dev.to/sebastienlorber/this-week-in-react-184-patching-expo-strict-mode-devtools-nextjs-mitosis-twofold-terminosaurus-344k)
-- [This Week In React #183: Vercel Edge, React Native 0.74 + IDE, refs, patching fetch&lpar;&rpar;, Remix Single Fetch...](https://dev.to/sebastienlorber/this-week-in-react-183-vercel-edge-react-native-074-ide-refs-patching-fetch-remix-single-fetch-2e6a)
-- [Synthetic Monitoring with Grafana Cloud](https://dev.to/aws-builders/synthetic-monitoring-with-grafana-cloud-1n5b)
+- [Linux pip install problems](https://dev.to/kazure/linux-pip-install-problems-1cp1)
+- [Software Engineering Principles Every backend Developer Should Know](https://dev.to/nikhilxd/software-engineering-principles-every-backend-developer-should-know-3j7c)
+- [Understanding Indexing and Slicing in NumPy Arrays](https://dev.to/lohith0512/understanding-indexing-and-slicing-in-numpy-arrays-39ag)
+- [🚀 5 Reasons Why Callgent is Revolutionizing Business Operations](https://dev.to/callgent/5-reasons-why-callgent-is-revolutionizing-business-operations-opp)
 <!-- BLOG-POST-LIST:END -->
 
