@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install MongoDB Locally on a MacBook](https://dev.to/saint_vandora/how-to-install-mongodb-locally-on-a-macbook-5h3a)
-- [Is it Worth if I Develop a WHMCS Admin Hybrid App in React and Laravel?](https://dev.to/amar_singh_c867e458ab2059/is-it-worth-if-i-develop-a-whmcs-admin-hybrid-app-in-react-and-laravel-oen)
-- [Type Hinting and Annotations in Python: Improving Code Readability and Understanding](https://dev.to/myexamcloud/type-hinting-and-annotations-in-python-improving-code-readability-and-understanding-49jj)
-- [How to inverse a matrix in C#](https://dev.to/rk042/how-to-inverse-a-matrix-in-c-12jg)
+- [Next.js 14 SSO Github &lpar;Supabase Auth&rpar;](https://dev.to/ajherrera/nextjs-14-sso-github-supabase-auth-4bi8)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-fm9)
+- [Top 20 React.JS interview questions.](https://dev.to/itzmesalamu/top-20-reactjs-interview-questions-15i9)
+- [Configuration of AWS Secret Manager with Spring Boot](https://dev.to/deepcodr/configuration-of-aws-secret-manager-with-spring-boot-4n6e)
 <!-- BLOG-POST-LIST:END -->
 
