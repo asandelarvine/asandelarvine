@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Upload multiple images to Cloudinary using React](https://dev.to/shieldstring/upload-multiple-images-to-cloudinary-using-react-5323)
-- [Navigation in React Native](https://dev.to/codeparrot/navigation-in-react-native-2l8c)
-- [Langchain Retrieval](https://dev.to/rutamstwt/langchain-retrieval-ida)
-- [Preview of PHP 8.4 New Features](https://dev.to/servbay/preview-of-php-84-new-features-5551)
+- [What Not to Do When Learning Flutter as a Beginner](https://dev.to/abdulrazack23/what-not-to-do-when-learning-flutter-as-a-beginner-14a7)
+- [Mobile Proxy Tips for Beginners](https://dev.to/rodneywilham/mobile-proxy-tips-for-beginners-3mm9)
+- [How to Earn Money Using Flutter and Google AdMob](https://dev.to/abdulrazack23/how-to-earn-money-using-flutter-and-google-admob-1n0n)
+- [Webpack4 fix for .mjs files](https://dev.to/amythical/webpack4-fix-for-mjs-files-3ggh)
 <!-- BLOG-POST-LIST:END -->
 
