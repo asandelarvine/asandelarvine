@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elanat CMS 2.2, Ability to Replace Pages Before Response](https://dev.to/elanatframework/elanat-cms-22-ability-to-replace-pages-before-response-234n)
-- [Simplifying Web Forms with the FormData Web API](https://dev.to/wdp/simplifying-web-forms-with-the-formdata-web-api-4mb4)
-- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-3odj)
-- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-5b54)
+- [Integration Testing with Node.js](https://dev.to/claradev32/integration-testing-with-nodejs-370c)
+- [Integration Testing with Node.js](https://dev.to/claradev32/integration-testing-with-nodejs-4mio)
+- [Como resolver um &quot;Failed to Download Module&quot; do Terraform / OpenTofu](https://dev.to/marcopollivier/como-resolver-um-failed-to-download-module-do-terraform-opentofu-5cha)
+- [What I Learned as a Junior Developer](https://dev.to/beatrizfriso/what-i-learned-as-a-junior-developer-15lp)
 <!-- BLOG-POST-LIST:END -->
 
