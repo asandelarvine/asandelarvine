@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hack4Bengal College Edition](https://dev.to/arup_matabber/hack4bengal-college-edition-24e6)
-- [A CLI to grab song lyrics](https://dev.to/mperkins808/a-cli-to-grab-song-lyrics-3iil)
-- [Enhance Your Coding Environment: Making Visual Studio Code Background Translucent](https://dev.to/jaykgupta/enhance-your-coding-environment-making-visual-studio-code-background-translucent-2n8p)
-- [What Not to Do When Learning Flutter as a Beginner](https://dev.to/abdulrazack23/what-not-to-do-when-learning-flutter-as-a-beginner-14a7)
+- [Understanding Spillage in Cyber Awareness](https://dev.to/beingoptimists/understanding-spillage-in-cyber-awareness-2m43)
+- [A Simple Guide to Creating Microsoft Azure Resources &lpar;Method 1&rpar;](https://dev.to/olawaleoloye/a-simple-guide-to-creating-microsoft-azure-resources-41pd)
+- [Get API &amp; Fetching Data from MongoDB in Go - 05](https://dev.to/anuragaffection/get-api-fetching-data-from-mongodb-in-go-05-5hca)
+- [How to Optimize Images in Angular Using ngOptimizedImage Directive](https://dev.to/danywalls/how-to-optimize-images-in-angular-using-ngoptimizedimage-directive-30k2)
 <!-- BLOG-POST-LIST:END -->
 
