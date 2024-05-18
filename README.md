@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use local AI Models easily for Development and Experimentation](https://dev.to/myfear/use-local-ai-models-easily-for-development-and-experimentation-4leg)
-- [Git 101 for Beginners: Learn Git Commands, Branching, and Collaboration](https://dev.to/grover_sumrit/git-101-for-beginners-learn-git-commands-branching-and-collaboration-2cdp)
-- [Managing Data with SQL: CRUD Operations Made Simple](https://dev.to/tinapyp/managing-data-with-sql-crud-operations-made-simple-18l1)
-- [storm effect with svg filter no css animation no js](https://dev.to/tidycoder/storm-effect-with-svg-filter-no-css-animation-no-js-1koa)
+- [React JS with Yarn 4](https://dev.to/prateekwayne/react-js-with-yarn-4-4a2m)
+- [Basics of Statistics](https://dev.to/ngneha09/basics-of-statistics-5fll)
+- [I created an Open Source Custom Code Editor](https://dev.to/dhanushnehru/i-created-an-open-source-custom-code-editor-f7)
+- [How To Set Up An EC2 Instance on AWS](https://dev.to/david_oyewole/how-to-set-up-an-ec2-instance-on-aws-k2c)
 <!-- BLOG-POST-LIST:END -->
 
