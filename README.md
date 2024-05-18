@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hack4Bengal College Edition](https://dev.to/arup_matabber/hack4bengal-college-edition-24e6)
+- [A CLI to grab song lyrics](https://dev.to/mperkins808/a-cli-to-grab-song-lyrics-3iil)
+- [Enhance Your Coding Environment: Making Visual Studio Code Background Translucent](https://dev.to/jaykgupta/enhance-your-coding-environment-making-visual-studio-code-background-translucent-2n8p)
 - [What Not to Do When Learning Flutter as a Beginner](https://dev.to/abdulrazack23/what-not-to-do-when-learning-flutter-as-a-beginner-14a7)
-- [Mobile Proxy Tips for Beginners](https://dev.to/rodneywilham/mobile-proxy-tips-for-beginners-3mm9)
-- [How to Earn Money Using Flutter and Google AdMob](https://dev.to/abdulrazack23/how-to-earn-money-using-flutter-and-google-admob-1n0n)
-- [Webpack4 fix for .mjs files](https://dev.to/amythical/webpack4-fix-for-mjs-files-3ggh)
 <!-- BLOG-POST-LIST:END -->
 
