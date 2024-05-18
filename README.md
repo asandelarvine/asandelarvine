@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration Testing with Node.js](https://dev.to/claradev32/integration-testing-with-nodejs-370c)
-- [Integration Testing with Node.js](https://dev.to/claradev32/integration-testing-with-nodejs-4mio)
-- [Como resolver um &quot;Failed to Download Module&quot; do Terraform / OpenTofu](https://dev.to/marcopollivier/como-resolver-um-failed-to-download-module-do-terraform-opentofu-5cha)
-- [What I Learned as a Junior Developer](https://dev.to/beatrizfriso/what-i-learned-as-a-junior-developer-15lp)
+- [Setting Up a Windows 11 Virtual Machine with Azure on a MacOs](https://dev.to/tundeiness/setting-up-a-windows-11-virtual-machine-with-azure-on-a-macos-88m)
+- [Advanced Topics in E2E Testing Introduction](https://dev.to/claradev32/advanced-topics-in-e2e-testingintroduction-3ij)
+- [Overview of the DevOps Interview Process: From Application to Selection - Part 4 - Docker](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-part-4-docker-1p89)
+- [Install the official build of mpv media player on any Linux distribution](https://dev.to/archerallstars/install-the-official-build-of-mpv-media-player-on-any-linux-distribution-4ifg)
 <!-- BLOG-POST-LIST:END -->
 
