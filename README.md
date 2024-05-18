@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to ship code fast: Like a 10x developer](https://dev.to/tecnosam/how-to-ship-code-fast-like-a-10x-developer-42an)
-- [Summarize a web page using langchain.js and Gemini in a NestJS application](https://dev.to/railsstudent/summarize-a-web-page-using-langchainjs-and-gemini-in-a-nestjs-application-4fjo)
-- [Exploring the Magic of Python&#39;s Random Module](https://dev.to/alvisonhunter/exploring-the-magic-of-pythons-random-module-3i74)
-- [Where is my &quot;Business logic&quot;!?](https://dev.to/gulshan/where-is-my-business-logic-5gpn)
+- [Conventional Commits](https://dev.to/thiagoanjos/conventional-commits-346l)
+- [How I Entered the World of Programming: A Personal History](https://dev.to/gift_mugweni_1c055b418706/how-i-entered-the-world-of-programming-a-personal-history-peh)
+- [Reflexões sobre SOLID - A Letra &quot;L&quot;](https://dev.to/mdeamp/reflexoes-sobre-solid-a-letra-l-5bm3)
+- [Thoughts about SOLID - The Letter &quot;L&quot;](https://dev.to/mdeamp/thoughts-about-solid-the-letter-l-1egf)
 <!-- BLOG-POST-LIST:END -->
 
