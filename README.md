@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 14 SSO Github &lpar;Supabase Auth&rpar;](https://dev.to/ajherrera/nextjs-14-sso-github-supabase-auth-4bi8)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-fm9)
-- [Top 20 React.JS interview questions.](https://dev.to/itzmesalamu/top-20-reactjs-interview-questions-15i9)
-- [Configuration of AWS Secret Manager with Spring Boot](https://dev.to/deepcodr/configuration-of-aws-secret-manager-with-spring-boot-4n6e)
+- [Automating Snowflake Resource Deployment using Terraform and GitHub Actions](https://dev.to/aws-builders/automating-snowflake-resource-deployment-using-terraform-and-github-actions-2blj)
+- [Color Psychology for Front-End Developers](https://dev.to/homayunmmdy/color-psychology-for-front-end-developers-5169)
+- [Building on Morph](https://dev.to/tosynthegeek/building-on-morph-49jc)
+- [🚀 Announcing Our Comprehensive Frontend Development Course! 🚀](https://dev.to/imyogeshyadav/announcing-our-comprehensive-frontend-development-course-4f4p)
 <!-- BLOG-POST-LIST:END -->
 
