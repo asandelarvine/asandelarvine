@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [can anyone help me to convert or replace a field of a nested column of a dataframe?](https://dev.to/mohit_bhakat_bd2dc5072d28/can-anyone-help-me-to-convert-or-replace-a-field-of-a-nested-column-of-a-dataframe-3llg)
-- [Audio play with buffer in React Native](https://dev.to/arsen_3caf411ee001daa102c/audio-play-with-buffer-in-react-native-32fa)
-- [Learning AWS Day by Day - Day 68 - Amazon Kinesis Data Firehose](https://dev.to/rksalo88/learning-aws-day-by-day-day-68-amazon-kinesis-data-firehose-1kfj)
-- [Awesome Ethereum Development Tools I used](https://dev.to/luazhizhan/awesome-ethereum-development-tools-i-used-3dj7)
+- [Axios certificate error](https://dev.to/amythical/axios-certificate-error-4l3i)
+- [Overview of the DevOps Interview Process: From Application to Selection - Part 5 - Kubernetes](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-part-5-kubernetes-2ing)
+- [Optimize your Django Application with Asynchronous tasks and Django-Q](https://dev.to/azayshrestha/optimize-your-django-application-with-asynchronous-tasks-and-django-q-4li)
+- [Steping-Up as a junior Dev](https://dev.to/andre_orlowski_b2d1a3d47e/steping-up-as-a-junior-dev-50on)
 <!-- BLOG-POST-LIST:END -->
 
