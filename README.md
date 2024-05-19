@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Some notes on symmetric encryption in golang](https://dev.to/nigel447/some-notes-on-symmetric-encryption-in-golang-2c9i)
-- [Don&#39;t struggle with CSS anymore!](https://dev.to/shehzadhussain/dont-struggle-with-css-anymore-2fe6)
-- [How to Implement a Whitelist in NFT contracts using Merkle Tree](https://dev.to/abdxzi/how-to-implement-a-whitelist-in-nft-contracts-using-merkle-tree-4apk)
-- [How to debug a Remix V2 &lpar;Vite&rpar; application with VSCode](https://dev.to/javiasilis/how-to-debug-a-remix-v2-vite-application-with-vscode-1kk)
+- [Testing Pyramid](https://dev.to/st1p3kolovrat/testing-pyramid-2bj0)
+- [Spring Boot vs. Quarkus vs. Micronaut: The Best Java Frameworks for Modern Development](https://dev.to/nikhilxd/spring-boot-vs-quarkus-vs-micronaut-the-best-java-frameworks-for-modern-development-5ccd)
+- [How to leverage Jest in your JavaScript codebase: A guide to Snapshot Testing](https://dev.to/devmirx/how-to-leverage-jest-in-your-javascript-codebase-a-guide-to-snapshot-testing-p5k)
+- [A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
 <!-- BLOG-POST-LIST:END -->
 
