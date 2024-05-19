@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the most important thing for you in your job? 🤔](https://dev.to/devonremote/what-is-the-most-important-thing-for-you-in-your-job-2jkm)
-- [Battlesnake Challenge #2 - JavaScript](https://dev.to/robvanderleek/battlesnake-challenge-2-javascript-15fi)
-- [Streamline Your API Documentation with Swagger: A Must-Have Tool for Developers](https://dev.to/devmaiko/streamline-your-api-documentation-with-swagger-a-must-have-tool-for-developers-3lo7)
-- [Responsible Services](https://dev.to/dwildt/responsible-services-1cmb)
+- [Top 10 Myths About Starting a Career in Tech](https://dev.to/bingecoder89/top-10-myths-about-starting-a-career-in-tech-48il)
+- [Django &lpar;Python&rpar; Introduction](https://dev.to/samuellubliner/django-python-introduction-i42)
+- [Implementing Google Login with Redirect-Based Approach in ReactJS](https://dev.to/yusufginanjar/implementing-google-login-with-redirect-based-approach-in-reactjs-3711)
+- [Learning AWS Day by Day — Day 69 — Amazon OpsWorks](https://dev.to/rksalo88/learning-aws-day-by-day-day-69-amazon-opsworks-536h)
 <!-- BLOG-POST-LIST:END -->
 
