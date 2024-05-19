@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Reversible Actions using the Command Pattern](https://dev.to/bearevans/implementing-reversible-actions-using-the-command-pattern-4fac)
+- [Apache Hudi on AWS Glue](https://dev.to/sagarlakshmipathy/apache-hudi-on-aws-glue-450l)
+- [I built a free, open-source project manager that helps teams keep costs under $15/month.](https://dev.to/hudy9x/i-built-a-free-open-source-project-manager-that-helps-teams-keep-costs-under-15month-3pmk)
 - [Navigating the Clouds: A Comprehensive Guide to Modern Cloud Infrastructures](https://dev.to/markyu/navigating-the-clouds-a-comprehensive-guide-to-modern-cloud-infrastructures-35b5)
-- [Setting Up MySQL Database in Python](https://dev.to/sachingeek/setting-up-mysql-database-in-python-5c5p)
-- [Cómo desplegar y monitorear aplicaciones web en Azure con Terraform: Guía paso a paso](https://dev.to/danieljsaldana/como-desplegar-y-monitorear-aplicaciones-web-en-azure-con-terraform-guia-paso-a-paso-22b8)
-- [Setting Up and Managing Android Emulators on macOS with Homebrew](https://dev.to/mochafreddo/setting-up-and-managing-android-emulators-on-macos-with-homebrew-3fg0)
 <!-- BLOG-POST-LIST:END -->
 
