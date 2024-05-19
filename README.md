@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Reversible Actions using the Command Pattern](https://dev.to/bearevans/implementing-reversible-actions-using-the-command-pattern-4fac)
-- [Apache Hudi on AWS Glue](https://dev.to/sagarlakshmipathy/apache-hudi-on-aws-glue-450l)
-- [I built a free, open-source project manager that helps teams keep costs under $15/month.](https://dev.to/hudy9x/i-built-a-free-open-source-project-manager-that-helps-teams-keep-costs-under-15month-3pmk)
-- [Navigating the Clouds: A Comprehensive Guide to Modern Cloud Infrastructures](https://dev.to/markyu/navigating-the-clouds-a-comprehensive-guide-to-modern-cloud-infrastructures-35b5)
+- [Portfolio Website using Next JS](https://dev.to/anmolsaini16/portfolio-website-using-next-js-435b)
+- [Go Lang Cheatsheet](https://dev.to/syedmuhammadaliraza/go-lang-cheatsheet-31d8)
+- [How to Structure an HTML Document Correctly](https://dev.to/george_kingi/how-to-structure-an-html-document-correctly-4918)
+- [Unlocking how Socket.io can boost your React app&#39;s real-time capabilities](https://dev.to/gboladetrue/unlocking-how-socketio-can-boost-your-react-apps-real-time-capabilities-1542)
 <!-- BLOG-POST-LIST:END -->
 
