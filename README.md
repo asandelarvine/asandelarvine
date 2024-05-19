@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Sub-Issues in GitHub Issues: A Guide](https://dev.to/sh20raj/creating-sub-issues-in-github-issues-a-guide-1b50)
-- [Laravel Livewire CRUD with Breeze &amp; Tailwind CSS](https://dev.to/saim_ansari/laravel-livewire-crud-with-breeze-tailwind-css-2fk4)
-- [You might not be lazy loading properly in Angular. Pitfall of barrel files.](https://dev.to/jstnjs/you-might-not-be-lazy-loading-properly-in-angular-pitfall-of-barrel-files-2oij)
-- [Announcing git bisect-find](https://dev.to/kevincox/announcing-git-bisect-find-4fcf)
+- [OpenAPI &lpar;Swagger docs&rpar; integration with serverless framework | Node.js Express.js Typescript](https://dev.to/abdul_165bf98345e29aea8ef/openapi-swagger-docs-integration-with-serverless-framework-nodejs-expressjs-typescript-30l)
+- [Demo Highlight: cardFlip](https://dev.to/joestrout/demo-highlight-cardflip-26o1)
+- [Ultimate Guide to Flutter Development Setup 2024](https://dev.to/kachi14/ultimate-guide-to-flutter-development-setup-2024-5bg3)
+- [The Remote Revolution: How Work-from-Home is Reshaping Our Lives and Economy](https://dev.to/isasharafdin/the-remote-revolution-how-work-from-home-is-reshaping-our-lives-and-economy-49p1)
 <!-- BLOG-POST-LIST:END -->
 
