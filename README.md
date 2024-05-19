@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Java: Pass by Value vs. Pass by Reference](https://dev.to/jusufoski/understanding-java-pass-by-value-vs-pass-by-reference-20me)
-- [Null or Nothing? Unmasking the Mystery of Parameters in Dart](https://dev.to/rlazom/null-or-nothing-unmasking-the-mystery-of-parameters-in-dart-14bl)
-- [Help with a function in java script](https://dev.to/thesurfer26/help-with-a-function-in-java-script-3188)
-- [My Journey in Coding: From nothing to Code](https://dev.to/gmartin772/my-journey-in-coding-from-nothing-to-code-1cib)
+- [Dev: Full-Stack](https://dev.to/r4nd3l/dev-full-stack-lgi)
+- [Jaspersoft Studio: Using a new font in the report](https://dev.to/chanyayun/jaspersoft-studio-using-a-new-font-in-the-report-45h0)
+- [Mastering Python for Data Analysis: A Comprehensive Guide](https://dev.to/emmanuelj/mastering-python-for-data-analysis-a-comprehensive-guide-46li)
+- [Load Testing a Non-API Laravel Web Application with Sanctum Session-Based Authentication Using K6](https://dev.to/eldeeno/load-testing-a-non-api-laravel-web-application-with-sanctum-session-based-authentication-using-k6-39dn)
 <!-- BLOG-POST-LIST:END -->
 
