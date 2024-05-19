@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Website using Next JS](https://dev.to/anmolsaini16/portfolio-website-using-next-js-435b)
-- [Go Lang Cheatsheet](https://dev.to/syedmuhammadaliraza/go-lang-cheatsheet-31d8)
-- [How to Structure an HTML Document Correctly](https://dev.to/george_kingi/how-to-structure-an-html-document-correctly-4918)
-- [Unlocking how Socket.io can boost your React app&#39;s real-time capabilities](https://dev.to/gboladetrue/unlocking-how-socketio-can-boost-your-react-apps-real-time-capabilities-1542)
+- [What is the most important thing for you in your job? 🤔](https://dev.to/devonremote/what-is-the-most-important-thing-for-you-in-your-job-2jkm)
+- [Battlesnake Challenge #2 - JavaScript](https://dev.to/robvanderleek/battlesnake-challenge-2-javascript-15fi)
+- [Streamline Your API Documentation with Swagger: A Must-Have Tool for Developers](https://dev.to/devmaiko/streamline-your-api-documentation-with-swagger-a-must-have-tool-for-developers-3lo7)
+- [Responsible Services](https://dev.to/dwildt/responsible-services-1cmb)
 <!-- BLOG-POST-LIST:END -->
 
