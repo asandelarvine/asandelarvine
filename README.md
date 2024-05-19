@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Video: Using Material 3 &lpar;M3&rpar; with Angular](https://dev.to/ngmaterialdev/video-using-material-3-m3-with-angular-jg0)
-- [Integrate Cloud Secrets with Kubernetes Secrets using External Secrets Through Terraform](https://dev.to/viradiaharsh/integrate-cloud-secrets-with-kubernetes-secrets-using-external-secrets-through-terraform-56o2)
-- [Binary Search Top Interview Problems](https://dev.to/mukeshwebs/binary-search-top-interview-problems-2i65)
-- [9 HTTP request methods explained!](https://dev.to/hy_piyush/9-http-request-methods-explained-354i)
+- [Thinking of how we should follow AI.](https://dev.to/ugo/thinking-of-how-we-should-follow-ai-3e19)
+- [How to fix &#39;process&#39; is not defined &lpar;React+Vite&rpar;](https://dev.to/navinduabhishek/how-to-fix-process-is-not-defined-reactvite-1nn4)
+- [Langchain: Data Protection](https://dev.to/rutamstwt/langchain-data-protection-op9)
+- [Python &quot;argparse&quot; library](https://dev.to/nadun96/python-argparse-library-2c1c)
 <!-- BLOG-POST-LIST:END -->
 
