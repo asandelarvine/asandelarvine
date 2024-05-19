@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Myths About Starting a Career in Tech](https://dev.to/bingecoder89/top-10-myths-about-starting-a-career-in-tech-48il)
-- [Django &lpar;Python&rpar; Introduction](https://dev.to/samuellubliner/django-python-introduction-i42)
-- [Implementing Google Login with Redirect-Based Approach in ReactJS](https://dev.to/yusufginanjar/implementing-google-login-with-redirect-based-approach-in-reactjs-3711)
-- [Learning AWS Day by Day — Day 69 — Amazon OpsWorks](https://dev.to/rksalo88/learning-aws-day-by-day-day-69-amazon-opsworks-536h)
+- [Creating Sub-Issues in GitHub Issues: A Guide](https://dev.to/sh20raj/creating-sub-issues-in-github-issues-a-guide-1b50)
+- [Laravel Livewire CRUD with Breeze &amp; Tailwind CSS](https://dev.to/saim_ansari/laravel-livewire-crud-with-breeze-tailwind-css-2fk4)
+- [You might not be lazy loading properly in Angular. Pitfall of barrel files.](https://dev.to/jstnjs/you-might-not-be-lazy-loading-properly-in-angular-pitfall-of-barrel-files-2oij)
+- [Announcing git bisect-find](https://dev.to/kevincox/announcing-git-bisect-find-4fcf)
 <!-- BLOG-POST-LIST:END -->
 
