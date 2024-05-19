@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stepping into Ubuntu Linux: A VirtualBox Installation Guide.](https://dev.to/pascalpedro/stepping-into-ubuntu-linux-a-virtualbox-installation-guide-2h4m)
-- [learning javaScript: i built a robots.txt generator](https://dev.to/ben_dunlea/learning-javascript-i-built-a-robotstxt-generator-5ccj)
-- [All about OpenNotas - What is it?](https://dev.to/hoaitx/all-about-opennotas-what-is-it-1ojo)
-- [Difference between GraphQL, REST, and gRPC](https://dev.to/somadevtoo/difference-between-graphql-rest-and-grpc-58bl)
+- [Some notes on symmetric encryption in golang](https://dev.to/nigel447/some-notes-on-symmetric-encryption-in-golang-2c9i)
+- [Don&#39;t struggle with CSS anymore!](https://dev.to/shehzadhussain/dont-struggle-with-css-anymore-2fe6)
+- [How to Implement a Whitelist in NFT contracts using Merkle Tree](https://dev.to/abdxzi/how-to-implement-a-whitelist-in-nft-contracts-using-merkle-tree-4apk)
+- [How to debug a Remix V2 &lpar;Vite&rpar; application with VSCode](https://dev.to/javiasilis/how-to-debug-a-remix-v2-vite-application-with-vscode-1kk)
 <!-- BLOG-POST-LIST:END -->
 
