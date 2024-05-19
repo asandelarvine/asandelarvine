@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking of how we should follow AI.](https://dev.to/ugo/thinking-of-how-we-should-follow-ai-3e19)
-- [How to fix &#39;process&#39; is not defined &lpar;React+Vite&rpar;](https://dev.to/navinduabhishek/how-to-fix-process-is-not-defined-reactvite-1nn4)
-- [Langchain: Data Protection](https://dev.to/rutamstwt/langchain-data-protection-op9)
-- [Python &quot;argparse&quot; library](https://dev.to/nadun96/python-argparse-library-2c1c)
+- [Day 6: Advanced React Concepts](https://dev.to/dipakahirav/day-6-advanced-react-concepts-4co4)
+- [Let&#39;s dive into the magical world of React 19 – the latest version of React JS. 🚀✨](https://dev.to/dharamgfx/lets-dive-into-the-magical-world-of-react-19-the-latest-version-of-react-js-g0j)
+- [Lights, Camera, Encode](https://dev.to/ishar19/lights-camera-encode-3mc3)
+- [8 Gmail Hacks that you shouldn&#39;t miss](https://dev.to/sagorbro005/8-gmail-hacks-that-you-shouldnt-miss-3a31)
 <!-- BLOG-POST-LIST:END -->
 
