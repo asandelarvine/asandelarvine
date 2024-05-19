@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAPI &lpar;Swagger docs&rpar; integration with serverless framework | Node.js Express.js Typescript](https://dev.to/abdul_165bf98345e29aea8ef/openapi-swagger-docs-integration-with-serverless-framework-nodejs-expressjs-typescript-30l)
-- [Demo Highlight: cardFlip](https://dev.to/joestrout/demo-highlight-cardflip-26o1)
-- [Ultimate Guide to Flutter Development Setup 2024](https://dev.to/kachi14/ultimate-guide-to-flutter-development-setup-2024-5bg3)
-- [The Remote Revolution: How Work-from-Home is Reshaping Our Lives and Economy](https://dev.to/isasharafdin/the-remote-revolution-how-work-from-home-is-reshaping-our-lives-and-economy-49p1)
+- [Benchmark testing in Go](https://dev.to/stefanalfbo/benchmark-testing-in-go-17dc)
+- [Three Important Things I Learned While Jest Testing My Next.js Application](https://dev.to/c0xxxtv/three-important-things-i-learned-while-jest-testing-my-nextjs-application-1be5)
+- [How does Rust go “from” here “into” there](https://dev.to/michal1024/how-rust-goes-from-there-into-here-34fb)
+- [Adding Plaid to Your Rails Application](https://dev.to/duartemartins/adding-plaid-to-your-rails-application-2f8f)
 <!-- BLOG-POST-LIST:END -->
 
