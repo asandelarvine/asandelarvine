@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Options Pattern in Go](https://dev.to/fufu/functional-options-pattern-in-go-42lm)
-- [Why Design Patterns Matter: A Beginner&#39;s Guide to Choosing the Right Pattern](https://dev.to/waqaryounis7564/why-design-patterns-matter-a-beginners-guide-to-choosing-the-right-pattern-4hd8)
-- [My mistake with resolve and return resolve](https://dev.to/amythical/my-mistake-with-resolve-and-return-resolve-4a7b)
-- [[DAY 3] First Time Using CSS To Add An Animated Gradient Background To My Webpage](https://dev.to/thomascansino/day-3-first-time-using-css-to-add-an-animated-gradient-background-to-my-webpage-4850)
+- [Designing for Code: Bridging the Gap Between Designers and Developers](https://dev.to/shieldstring/designing-for-code-bridging-the-gap-between-designers-and-developers-2ag8)
+- [Solving a Leetcode problem daily — Day 12 | 347. Top K frequent elements](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-12-347-top-k-frequent-elements-2i7h)
+- [ast-grep got 6000 stars!](https://dev.to/herrington_darkholme/ast-grep-got-6000-stars-3eo2)
+- [Debugger.godMode&lpar;&rpar;](https://dev.to/flounder4130/debuggergodmode-4567)
 <!-- BLOG-POST-LIST:END -->
 
