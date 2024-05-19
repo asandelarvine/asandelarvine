@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Advanced React Concepts](https://dev.to/dipakahirav/day-6-advanced-react-concepts-4co4)
-- [Let&#39;s dive into the magical world of React 19 – the latest version of React JS. 🚀✨](https://dev.to/dharamgfx/lets-dive-into-the-magical-world-of-react-19-the-latest-version-of-react-js-g0j)
-- [Lights, Camera, Encode](https://dev.to/ishar19/lights-camera-encode-3mc3)
-- [8 Gmail Hacks that you shouldn&#39;t miss](https://dev.to/sagorbro005/8-gmail-hacks-that-you-shouldnt-miss-3a31)
+- [How to configure gradual change colors for discrete data in VChart?](https://dev.to/skie1997/how-to-configure-gradual-change-colors-for-discrete-data-in-vchart-4jgp)
+- [Safeguarding Your API Keys in React](https://dev.to/kachi14/safeguarding-your-api-keys-in-react-h09)
+- [Top College&#39;s Abroad for MCA](https://dev.to/suraj_0031/top-college-abroad-for-mca-27f1)
+- [How does react-vchart achieve on-demand loading?](https://dev.to/skie1997/how-does-react-vchart-achieve-on-demand-loading-2la6)
 <!-- BLOG-POST-LIST:END -->
 
