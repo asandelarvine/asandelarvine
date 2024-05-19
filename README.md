@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing for Code: Bridging the Gap Between Designers and Developers](https://dev.to/shieldstring/designing-for-code-bridging-the-gap-between-designers-and-developers-2ag8)
-- [Solving a Leetcode problem daily — Day 12 | 347. Top K frequent elements](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-12-347-top-k-frequent-elements-2i7h)
-- [ast-grep got 6000 stars!](https://dev.to/herrington_darkholme/ast-grep-got-6000-stars-3eo2)
-- [Debugger.godMode&lpar;&rpar;](https://dev.to/flounder4130/debuggergodmode-4567)
+- [Video: Using Material 3 &lpar;M3&rpar; with Angular](https://dev.to/ngmaterialdev/video-using-material-3-m3-with-angular-jg0)
+- [Integrate Cloud Secrets with Kubernetes Secrets using External Secrets Through Terraform](https://dev.to/viradiaharsh/integrate-cloud-secrets-with-kubernetes-secrets-using-external-secrets-through-terraform-56o2)
+- [Binary Search Top Interview Problems](https://dev.to/mukeshwebs/binary-search-top-interview-problems-2i65)
+- [9 HTTP request methods explained!](https://dev.to/hy_piyush/9-http-request-methods-explained-354i)
 <!-- BLOG-POST-LIST:END -->
 
