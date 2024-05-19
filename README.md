@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark testing in Go](https://dev.to/stefanalfbo/benchmark-testing-in-go-17dc)
-- [Three Important Things I Learned While Jest Testing My Next.js Application](https://dev.to/c0xxxtv/three-important-things-i-learned-while-jest-testing-my-nextjs-application-1be5)
-- [How does Rust go “from” here “into” there](https://dev.to/michal1024/how-rust-goes-from-there-into-here-34fb)
-- [Adding Plaid to Your Rails Application](https://dev.to/duartemartins/adding-plaid-to-your-rails-application-2f8f)
+- [Understanding Java: Pass by Value vs. Pass by Reference](https://dev.to/jusufoski/understanding-java-pass-by-value-vs-pass-by-reference-20me)
+- [Null or Nothing? Unmasking the Mystery of Parameters in Dart](https://dev.to/rlazom/null-or-nothing-unmasking-the-mystery-of-parameters-in-dart-14bl)
+- [Help with a function in java script](https://dev.to/thesurfer26/help-with-a-function-in-java-script-3188)
+- [My Journey in Coding: From nothing to Code](https://dev.to/gmartin772/my-journey-in-coding-from-nothing-to-code-1cib)
 <!-- BLOG-POST-LIST:END -->
 
