@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure gradual change colors for discrete data in VChart?](https://dev.to/skie1997/how-to-configure-gradual-change-colors-for-discrete-data-in-vchart-4jgp)
-- [Safeguarding Your API Keys in React](https://dev.to/kachi14/safeguarding-your-api-keys-in-react-h09)
-- [Top College&#39;s Abroad for MCA](https://dev.to/suraj_0031/top-college-abroad-for-mca-27f1)
-- [How does react-vchart achieve on-demand loading?](https://dev.to/skie1997/how-does-react-vchart-achieve-on-demand-loading-2la6)
+- [Stepping into Ubuntu Linux: A VirtualBox Installation Guide.](https://dev.to/pascalpedro/stepping-into-ubuntu-linux-a-virtualbox-installation-guide-2h4m)
+- [learning javaScript: i built a robots.txt generator](https://dev.to/ben_dunlea/learning-javascript-i-built-a-robotstxt-generator-5ccj)
+- [All about OpenNotas - What is it?](https://dev.to/hoaitx/all-about-opennotas-what-is-it-1ojo)
+- [Difference between GraphQL, REST, and gRPC](https://dev.to/somadevtoo/difference-between-graphql-rest-and-grpc-58bl)
 <!-- BLOG-POST-LIST:END -->
 
