@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hide Scrollbar Using CSS?](https://dev.to/refine/how-to-hide-scrollbar-using-css-2509)
-- [Effective Strategies for Searching Stored Procedures in Oracle](https://dev.to/luca1iu/effective-strategies-for-searching-stored-procedures-in-oracle-p3m)
-- [Exploring IoT Testing: Varieties and Instrumentation](https://dev.to/jennife05918349/exploring-iot-testing-varieties-and-instrumentation-5b14)
-- [What Is Artificial Intelligence? Types, Benefits, Career Options](https://dev.to/topainewsindia/what-is-artificial-intelligence-types-benefits-career-options-3kfl)
+- [Quick Guide to PostgreSQL&#39;s MVCC](https://dev.to/dbvismarketing/quick-guide-to-postgresqls-mvcc-212j)
+- [Prompt Fuzzer: how to keep your agents on the right path](https://dev.to/giuliano1993/prompt-fuzzer-how-to-keep-your-agents-on-the-right-path-fc2)
+- [Building an Elearning Course Creator with Streamlit and Lyzr Automata](https://dev.to/harshitlyzr/building-an-elearning-course-creator-with-streamlit-and-lyzr-automata-55im)
+- [Automate Legal Contract Generation with Streamlit and Lyzr Automata](https://dev.to/harshitlyzr/automate-legal-contract-generation-with-streamlit-and-lyzr-automata-15b9)
 <!-- BLOG-POST-LIST:END -->
 
