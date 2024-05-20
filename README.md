@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check MySQL Database and Table Sizes](https://dev.to/drupaladmin/how-to-check-mysql-database-and-table-sizes-2ep2)
-- [ecto&#39;s cast/4 function explained](https://dev.to/senyeezus/ectos-cast4-function-explained-p2e)
-- [How to use an Azure Custom Template to deploy a Virtual Machine](https://dev.to/ajayi/how-to-use-an-azure-custom-template-to-deploy-a-virtual-machine-43da)
-- [How to Develop a Machine Learning Model to Drive Business Success](https://dev.to/marufhossain/how-to-develop-a-machine-learning-model-to-drive-business-success-3566)
+- [Finding the duplicate number in constant space &lpar;Python&rpar;](https://dev.to/saurabhparyani/finding-the-duplicate-number-in-constant-space-python-mn9)
+- [Building the Blocks of the Web: A Beginner&#39;s Guide to HTML](https://dev.to/harsh_dev26/building-the-blocks-of-the-web-a-beginners-guide-to-html-4ffo)
+- [Algorytmy rekurencyjne](https://dev.to/kumala3/algorytmy-rekurencyjne-4ea5)
+- [The Document Object Model &lpar;DOM&rpar;- A Complete Guide](https://dev.to/kingsley_uwandu/the-document-object-model-dom-a-complete-guide-1kk)
 <!-- BLOG-POST-LIST:END -->
 
