@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 24/20: Angular Talks at Google I/O, JSWorld, TiL](https://dev.to/this-is-angular/episode-2420-angular-talks-at-google-io-jsworld-til-44b7)
-- [Image Transformations for Developers](https://dev.to/msmith99994/image-transformations-for-developers-4aik)
-- [Uncertainty towards which place to start](https://dev.to/opdark/uncertainty-towards-which-place-to-start-2n1c)
-- [Why I don&#39;t use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
+- [Genetic Algorithms with Go](https://dev.to/stefanalfbo/genetic-algorithms-with-go-1b5b)
+- [JavaScript Unlocked: Effortlessly Master React, Vue, and Angular](https://dev.to/bilelsalemdev/javascript-unlocked-effortlessly-master-react-vue-and-angular-4773)
+- [Bringing up BPI-F3 - Part 2](https://dev.to/luzero/bringing-up-bpi-f3-part-2-2ikj)
+- [Understanding RTO &amp; RPO in Disaster Recovery](https://dev.to/jakeinthecloud/understanding-rto-rpo-in-disaster-recovery-3oe8)
 <!-- BLOG-POST-LIST:END -->
 
