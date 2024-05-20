@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;13/05/2024–19/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-13052024-19052024-2bj3)
-- [10 Tailwind CSS Classes Save Your Time](https://dev.to/thefaruksardar/10-tailwind-css-classes-save-your-time-16a3)
-- [JavaScript30 - 2 JS + CSS Clock](https://dev.to/virtualsobriety/javascript30-2-js-css-clock-1h1g)
-- [What are your goals for week 21 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-21-of-2024-1dal)
+- [How to Check MySQL Database and Table Sizes](https://dev.to/drupaladmin/how-to-check-mysql-database-and-table-sizes-2ep2)
+- [ecto&#39;s cast/4 function explained](https://dev.to/senyeezus/ectos-cast4-function-explained-p2e)
+- [How to use an Azure Custom Template to deploy a Virtual Machine](https://dev.to/ajayi/how-to-use-an-azure-custom-template-to-deploy-a-virtual-machine-43da)
+- [How to Develop a Machine Learning Model to Drive Business Success](https://dev.to/marufhossain/how-to-develop-a-machine-learning-model-to-drive-business-success-3566)
 <!-- BLOG-POST-LIST:END -->
 
