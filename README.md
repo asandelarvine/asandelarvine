@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to place a buy &amp; sell trade on pump.fun tokens](https://dev.to/voren_tai_24467d3051ef996/how-to-place-a-buy-sell-trade-on-pumpfun-tokens-1dlf)
+- [Docker, Linux, Security. Kinda.](https://dev.to/terminaldweller/docker-linux-security-kinda-2l1f)
 - [Computer Networks: Protocol Layering and the OSI Model](https://dev.to/shoki/computer-networks-protocol-layering-and-the-osi-model-256f)
 - [12 Quick Tips for Writing Clean Code](https://dev.to/zacharylee/12-quick-tips-for-writing-clean-code-34bm)
-- [Do You Need a CS Degree to Get a Job in Tech?](https://dev.to/thekarlesi/do-you-need-a-cs-degree-to-get-a-job-in-tech-jf2)
-- [Cloud Build Setup with Private Github Repos and Submodules](https://dev.to/charlottetowell/cloud-build-setup-with-private-github-repos-and-submodules-k4g)
 <!-- BLOG-POST-LIST:END -->
 
