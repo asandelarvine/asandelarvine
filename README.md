@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Genetic Algorithms with Go](https://dev.to/stefanalfbo/genetic-algorithms-with-go-1b5b)
-- [JavaScript Unlocked: Effortlessly Master React, Vue, and Angular](https://dev.to/bilelsalemdev/javascript-unlocked-effortlessly-master-react-vue-and-angular-4773)
-- [Bringing up BPI-F3 - Part 2](https://dev.to/luzero/bringing-up-bpi-f3-part-2-2ikj)
-- [Understanding RTO &amp; RPO in Disaster Recovery](https://dev.to/jakeinthecloud/understanding-rto-rpo-in-disaster-recovery-3oe8)
+- [Setting up GitHub SSH on Linux](https://dev.to/carlpadilla/setting-up-github-ssh-on-linux-4975)
+- [🚀 Achieving 100/100 Lighthouse Metrics: A Technical Breakdown](https://dev.to/ashutosh_verma/achieving-100100-lighthouse-metrics-a-technical-breakdown-54dj)
+- [C programming: Strings, arrays, and pointers.](https://dev.to/max_githinji/c-programming-strings-arrays-and-pointers-23h5)
+- [From Zero to Rust: Simplified Embedded Systems Programming](https://dev.to/theembeddedrustacean/from-zero-to-rust-simplified-embedded-systems-programming-5075)
 <!-- BLOG-POST-LIST:END -->
 
