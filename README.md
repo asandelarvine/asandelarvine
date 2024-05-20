@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up GitHub SSH on Linux](https://dev.to/carlpadilla/setting-up-github-ssh-on-linux-4975)
-- [🚀 Achieving 100/100 Lighthouse Metrics: A Technical Breakdown](https://dev.to/ashutosh_verma/achieving-100100-lighthouse-metrics-a-technical-breakdown-54dj)
-- [C programming: Strings, arrays, and pointers.](https://dev.to/max_githinji/c-programming-strings-arrays-and-pointers-23h5)
-- [From Zero to Rust: Simplified Embedded Systems Programming](https://dev.to/theembeddedrustacean/from-zero-to-rust-simplified-embedded-systems-programming-5075)
+- [Finally, the question of how to centre a div is OVER !!!](https://dev.to/shreyvijayvargiya/finally-the-question-of-how-to-centre-a-div-is-over--32o)
+- [My first foray into OOP](https://dev.to/sleepysloth/my-first-foray-into-oop-4mmd)
+- [Specification-Based Testing: Analyze boundaries](https://dev.to/tiuwill/specification-based-testing-analyze-boundaries-585h)
+- [Boas Práticas ao nomear variáveis e funções](https://dev.to/lliuti/boas-praticas-ao-nomear-variaveis-e-funcoes-3k4l)
 <!-- BLOG-POST-LIST:END -->
 
