@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Automatic User Redirects in Next.js with Next-Auth](https://dev.to/itselftools/implementing-automatic-user-redirects-in-nextjs-with-next-auth-nm8)
-- [Our weekly API update: Historical Vessel Tracker, Live Ship Tracking and location maritime traffic tracking](https://dev.to/worldindata/our-weekly-api-update-historical-vessel-tracker-live-ship-tracking-and-location-maritime-traffic-tracking-355g)
-- [Exploring Astro: A Journey into Modern Web Development with Astro JS](https://dev.to/eneaslari/exploring-astro-a-journey-into-modern-web-development-with-astro-js-5ge6)
-- [Introduction to web2, general terminology, different architecture, SSR, Single Page App, Serverless Functions](https://dev.to/swarnendu0123/introduction-to-web2-general-terminology-different-architecture-ssr-single-page-app-serverless-functions-f5a)
+- [📢 Announcement | NFTScan Now Supports Mint Blockchain for Both NFTScan Explorer and NFTScan API](https://dev.to/nft_research/announcement-nftscan-now-supports-mint-blockchain-for-both-nftscan-explorer-and-nftscan-api-2jgm)
+- [C# Indexers. When do we use it ?](https://dev.to/nirmalkumar/c-indexers-when-do-we-use-it--29lh)
+- [The Emergence of JavaScript Frameworks &amp; Libraries](https://dev.to/outstandingvick/the-emergence-of-javascript-frameworks-libraries-3jfc)
+- [Weekly Roundup 053 &lpar;May 13&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-053-may-13-hot-topics-in-workplace-sharepoint-and-powerplatform-58n1)
 <!-- BLOG-POST-LIST:END -->
 
