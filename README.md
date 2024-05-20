@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Guide to PostgreSQL&#39;s MVCC](https://dev.to/dbvismarketing/quick-guide-to-postgresqls-mvcc-212j)
-- [Prompt Fuzzer: how to keep your agents on the right path](https://dev.to/giuliano1993/prompt-fuzzer-how-to-keep-your-agents-on-the-right-path-fc2)
-- [Building an Elearning Course Creator with Streamlit and Lyzr Automata](https://dev.to/harshitlyzr/building-an-elearning-course-creator-with-streamlit-and-lyzr-automata-55im)
-- [Automate Legal Contract Generation with Streamlit and Lyzr Automata](https://dev.to/harshitlyzr/automate-legal-contract-generation-with-streamlit-and-lyzr-automata-15b9)
+- [Configuring Internationalization in a Vue.js Application 🚀🌐](https://dev.to/amatisse/configuring-internationalization-in-a-vuejs-application-410e)
+- [nvm](https://dev.to/stuartcreed/nvm-1o1a)
+- [How to register internal controllers in Umbraco 13+](https://dev.to/d_inventor/how-to-register-internal-controllers-in-umbraco-13-4a1a)
+- [Laravel&#39;s most underrated security feature - What actually is a signed URL, and how do they work?](https://dev.to/danakin/laravels-most-underrated-security-feature-what-actually-is-a-signed-url-and-how-do-they-work-3768)
 <!-- BLOG-POST-LIST:END -->
 
