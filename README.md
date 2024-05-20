@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to update outdated npm packages](https://dev.to/cbillowes/how-to-update-outdated-npm-packages-1ig7)
-- [Here&#39;s how I achieved faster code runs for running Docker Containers in Jetson Nano L4T](https://dev.to/sushantnair/heres-how-i-achieved-faster-code-runs-for-running-docker-containers-in-jetson-nano-l4t-2d05)
-- [Terratest vs Terraform/OpenTofu Test: In-Depth Comparison](https://dev.to/env0/terratest-vs-terraformopentofu-test-in-depth-comparison-10le)
-- [F# For Dummys - Day 9](https://dev.to/pythonzhu/f-for-dummys-day-9-l9p)
+- [I&#39;m Building an AI-Powered Blog &lpar;Next.js, LangChain, Supabase&rpar;](https://dev.to/copilotkit/im-building-an-ai-powered-blog-nextjs-langchain-supabase-5145)
+- [How To Use IServiceCollection In Console Applications – What You Need To Know](https://dev.to/devleader/how-to-use-iservicecollection-in-console-applications-what-you-need-to-know-17e)
+- [CSSBattle | #32 Band-aid](https://dev.to/npranto/cssbattle-32-band-aid-3685)
+- [Agent Cloud vs Qdrant](https://dev.to/agentcloud/agent-cloud-vs-qdrant-h08)
 <!-- BLOG-POST-LIST:END -->
 
