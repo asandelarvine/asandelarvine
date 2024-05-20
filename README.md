@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Balanced Trees - The Experience](https://dev.to/nidheeshmvakharia/balanced-trees-the-experience-1559)
-- [Demystifying Regex in Go](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
-- [Phase-1 Project](https://dev.to/silasgebhart/phase-1-project-131f)
-- [AI vs Software Engineers](https://dev.to/maggiekaruri/ai-vs-software-engineers-3aip)
+- [Enhancing LLMs through RAG Knowledge Integration](https://dev.to/asmisalan/enhancing-llms-through-rag-knowledge-integration-35e2)
+- [Building a Fort: Django Security Best Practices](https://dev.to/topunix/building-a-fort-django-security-best-practices-4fa4)
+- [Titulo de prueba](https://dev.to/programacion_creativa/titulo-de-prueba-5agj)
+- [📌 Overview of the DevOps Interview Process: From Application to Selection - Part 6 - Terraform 📌](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-part-6-terraform-16cg)
 <!-- BLOG-POST-LIST:END -->
 
