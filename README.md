@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Building an AI-Powered Blog &lpar;Next.js, LangChain, Supabase&rpar;](https://dev.to/copilotkit/im-building-an-ai-powered-blog-nextjs-langchain-supabase-5145)
-- [How To Use IServiceCollection In Console Applications – What You Need To Know](https://dev.to/devleader/how-to-use-iservicecollection-in-console-applications-what-you-need-to-know-17e)
-- [CSSBattle | #32 Band-aid](https://dev.to/npranto/cssbattle-32-band-aid-3685)
-- [Agent Cloud vs Qdrant](https://dev.to/agentcloud/agent-cloud-vs-qdrant-h08)
+- [Which AI feature would you want MOST from your project management tool?](https://dev.to/openproject/which-ai-feature-would-you-want-most-from-your-project-management-tool-pj3)
+- [Building QR Code Component](https://dev.to/be_rajeevkumar/building-qr-code-component-1j4o)
+- [Async Constructor](https://dev.to/xpr/async-constructor-4jgg)
+- [How I use git on multiple devices](https://dev.to/daunderworks/how-i-use-git-on-multiple-devices-2nbm)
 <!-- BLOG-POST-LIST:END -->
 
