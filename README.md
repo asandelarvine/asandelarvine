@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 Announcement | NFTScan Now Supports Mint Blockchain for Both NFTScan Explorer and NFTScan API](https://dev.to/nft_research/announcement-nftscan-now-supports-mint-blockchain-for-both-nftscan-explorer-and-nftscan-api-2jgm)
-- [C# Indexers. When do we use it ?](https://dev.to/nirmalkumar/c-indexers-when-do-we-use-it--29lh)
-- [The Emergence of JavaScript Frameworks &amp; Libraries](https://dev.to/outstandingvick/the-emergence-of-javascript-frameworks-libraries-3jfc)
-- [Weekly Roundup 053 &lpar;May 13&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-053-may-13-hot-topics-in-workplace-sharepoint-and-powerplatform-58n1)
+- [14 Best Machine Learning &amp; AI Newsletters List &lpar;May 2024&rpar;](https://dev.to/blog/10-best-machine-learning-ai-newsletters-list-may-2024-23o3)
+- [Amazon DevOps Guru for the Serverless applications - Part 10 Anomaly detection on Aurora Serverless v2](https://dev.to/aws-builders/amazon-devops-guru-for-the-serverless-applications-part-10-anomaly-detection-on-aurora-serverless-v2-3am2)
+- [GitHub API fetch](https://dev.to/koredekizzy/github-api-fetch-51f4)
+- [Angular 17 - Nuevo Control de Flujo Integrado.](https://dev.to/akotech/angular-17-nuevo-control-de-flujo-integrado-2m54)
 <!-- BLOG-POST-LIST:END -->
 
