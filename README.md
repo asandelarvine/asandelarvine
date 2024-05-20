@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why nobody grows up wanting to be a DevOps engineer](https://dev.to/glasskube/why-nobody-grows-up-wanting-to-be-a-devops-engineer-2jli)
-- [Rails Designer v0.12.0 released. New utilities category 💖](https://dev.to/railsdesigner/rails-designer-v0120-released-new-utilities-category-4gmd)
-- [Working with JsonObject, JsonNode, JsonValue and JsonArray [System.Text.Json API]](https://dev.to/vparab/working-with-jsonobject-jsonnode-jsonvalue-and-jsonarray-systemtextjson-api-5b8l)
-- [Decomposition.](https://dev.to/robinkiplangat/decomposition-346f)
+- [Implementing Automatic User Redirects in Next.js with Next-Auth](https://dev.to/itselftools/implementing-automatic-user-redirects-in-nextjs-with-next-auth-nm8)
+- [Our weekly API update: Historical Vessel Tracker, Live Ship Tracking and location maritime traffic tracking](https://dev.to/worldindata/our-weekly-api-update-historical-vessel-tracker-live-ship-tracking-and-location-maritime-traffic-tracking-355g)
+- [Exploring Astro: A Journey into Modern Web Development with Astro JS](https://dev.to/eneaslari/exploring-astro-a-journey-into-modern-web-development-with-astro-js-5ge6)
+- [Introduction to web2, general terminology, different architecture, SSR, Single Page App, Serverless Functions](https://dev.to/swarnendu0123/introduction-to-web2-general-terminology-different-architecture-ssr-single-page-app-serverless-functions-f5a)
 <!-- BLOG-POST-LIST:END -->
 
