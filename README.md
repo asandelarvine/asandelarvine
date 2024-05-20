@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to place a buy &amp; sell trade on pump.fun tokens](https://dev.to/voren_tai_24467d3051ef996/how-to-place-a-buy-sell-trade-on-pumpfun-tokens-1dlf)
-- [Docker, Linux, Security. Kinda.](https://dev.to/terminaldweller/docker-linux-security-kinda-2l1f)
-- [Computer Networks: Protocol Layering and the OSI Model](https://dev.to/shoki/computer-networks-protocol-layering-and-the-osi-model-256f)
-- [12 Quick Tips for Writing Clean Code](https://dev.to/zacharylee/12-quick-tips-for-writing-clean-code-34bm)
+- [Google Closed Testing Reject ~You need to think about how to get testers~](https://dev.to/zmsoft/google-closed-testing-reject-you-need-to-think-about-how-to-get-testers-36hj)
+- [Consult Bridge v1](https://dev.to/tdubs/consult-bridge-v1-57en)
+- [Artificial Intelligence is not as bad as you think, you&#39;re just not reading allat](https://dev.to/tpacce/artificial-intelligence-is-not-as-bad-as-you-think-youre-just-not-reading-allat-44m)
+- [Tech Fun Facts: The Quirky Side of Technology](https://dev.to/jackrover/tech-fun-facts-the-quirky-side-of-technology-1d42)
 <!-- BLOG-POST-LIST:END -->
 
