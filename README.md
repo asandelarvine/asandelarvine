@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AI feature would you want MOST from your project management tool?](https://dev.to/openproject/which-ai-feature-would-you-want-most-from-your-project-management-tool-pj3)
-- [Building QR Code Component](https://dev.to/be_rajeevkumar/building-qr-code-component-1j4o)
-- [Async Constructor](https://dev.to/xpr/async-constructor-4jgg)
-- [How I use git on multiple devices](https://dev.to/daunderworks/how-i-use-git-on-multiple-devices-2nbm)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;13/05/2024–19/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-13052024-19052024-2bj3)
+- [10 Tailwind CSS Classes Save Your Time](https://dev.to/thefaruksardar/10-tailwind-css-classes-save-your-time-16a3)
+- [JavaScript30 - 2 JS + CSS Clock](https://dev.to/virtualsobriety/javascript30-2-js-css-clock-1h1g)
+- [What are your goals for week 21 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-21-of-2024-1dal)
 <!-- BLOG-POST-LIST:END -->
 
