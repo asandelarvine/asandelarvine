@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [14 Best Machine Learning &amp; AI Newsletters List &lpar;May 2024&rpar;](https://dev.to/blog/10-best-machine-learning-ai-newsletters-list-may-2024-23o3)
-- [Amazon DevOps Guru for the Serverless applications - Part 10 Anomaly detection on Aurora Serverless v2](https://dev.to/aws-builders/amazon-devops-guru-for-the-serverless-applications-part-10-anomaly-detection-on-aurora-serverless-v2-3am2)
-- [GitHub API fetch](https://dev.to/koredekizzy/github-api-fetch-51f4)
-- [Angular 17 - Nuevo Control de Flujo Integrado.](https://dev.to/akotech/angular-17-nuevo-control-de-flujo-integrado-2m54)
+- [How to update outdated npm packages](https://dev.to/cbillowes/how-to-update-outdated-npm-packages-1ig7)
+- [Here&#39;s how I achieved faster code runs for running Docker Containers in Jetson Nano L4T](https://dev.to/sushantnair/heres-how-i-achieved-faster-code-runs-for-running-docker-containers-in-jetson-nano-l4t-2d05)
+- [Terratest vs Terraform/OpenTofu Test: In-Depth Comparison](https://dev.to/env0/terratest-vs-terraformopentofu-test-in-depth-comparison-10le)
+- [F# For Dummys - Day 9](https://dev.to/pythonzhu/f-for-dummys-day-9-l9p)
 <!-- BLOG-POST-LIST:END -->
 
