@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the duplicate number in constant space &lpar;Python&rpar;](https://dev.to/saurabhparyani/finding-the-duplicate-number-in-constant-space-python-mn9)
-- [Building the Blocks of the Web: A Beginner&#39;s Guide to HTML](https://dev.to/harsh_dev26/building-the-blocks-of-the-web-a-beginners-guide-to-html-4ffo)
-- [Algorytmy rekurencyjne](https://dev.to/kumala3/algorytmy-rekurencyjne-4ea5)
-- [The Document Object Model &lpar;DOM&rpar;- A Complete Guide](https://dev.to/kingsley_uwandu/the-document-object-model-dom-a-complete-guide-1kk)
+- [Episode 24/20: Angular Talks at Google I/O, JSWorld, TiL](https://dev.to/this-is-angular/episode-2420-angular-talks-at-google-io-jsworld-til-44b7)
+- [Image Transformations for Developers](https://dev.to/msmith99994/image-transformations-for-developers-4aik)
+- [Uncertainty towards which place to start](https://dev.to/opdark/uncertainty-towards-which-place-to-start-2n1c)
+- [Why I don&#39;t use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
 <!-- BLOG-POST-LIST:END -->
 
