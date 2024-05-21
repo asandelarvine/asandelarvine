@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use Terraform to Deploy My AWS Amplify React Project](https://dev.to/igeadetokunbo/how-i-use-terraform-to-deploy-my-aws-amplify-react-project-2hea)
-- [A Command line memorable password generator. Now in Python.](https://dev.to/msanders5/a-command-line-memorable-password-generator-now-in-python-kcj)
-- [Call C binary from javascript WITHOUT process.exec](https://dev.to/amythical/call-c-binary-from-javascript-without-processexec-4251)
-- [A way to configure an asp.net core site](https://dev.to/sltech/a-way-to-configure-an-aspnet-core-site-45ol)
+- [study rust](https://dev.to/zhangwuji/study-rust-1a8p)
+- [Environment Variable.js file cant be show in Browser](https://dev.to/vijayachandra_nimmakuri_6/environment-variablejs-file-cant-be-show-in-browser-481n)
+- [Amazon Warehouses: An Overview of the Different Types](https://dev.to/donaldwilsonweb/amazon-warehouses-an-overview-of-the-different-types-4hd5)
+- [The Ultimate Guide How to Get Backlinks for Guest Posts](https://dev.to/donaldwilsonweb/the-ultimate-guide-how-to-get-backlinks-for-guest-posts-d5a)
 <!-- BLOG-POST-LIST:END -->
 
