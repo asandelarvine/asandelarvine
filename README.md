@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Channels — Efficient and secure communication between threads and tasks](https://dev.to/ben-witt/c-channels-efficient-and-secure-communication-between-threads-and-tasks-26mc)
-- [Choosing the Right Partner for Headless Development using Sanity](https://dev.to/incerro111/choosing-the-right-partner-for-headless-development-using-sanity-4no5)
-- [Optimizing E-Commerce: The Crucial Role of Magento Web Hosting](https://dev.to/charleslyman/optimizing-e-commerce-the-crucial-role-of-magento-web-hosting-a92)
-- [What is the difference between cample-html and htmx?](https://dev.to/antonmak1/what-is-the-difference-between-cample-html-and-htmx-2c0m)
+- [Things I learned last week &lpar;20/24&rpar;](https://dev.to/calier/things-i-learned-last-week-2024-29pl)
+- [How to learn Go: Setting up Go and writing your first program](https://dev.to/gitchimp88/how-to-learn-go-setting-up-go-and-writing-your-first-program-596b)
+- [Why X-ray Clinics Are Essential for Diagnosis](https://dev.to/stethcare/why-x-ray-clinics-are-essential-for-diagnosis-3ha7)
+- [Python Trick for Data Manipulation with operator.itemgetter](https://dev.to/devasservice/python-trick-for-data-manipulation-with-operatoritemgetter-p48)
 <!-- BLOG-POST-LIST:END -->
 
