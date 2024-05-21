@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Employee Engagement Survey Dashboard using ToolJet](https://dev.to/tooljet/build-an-employee-engagement-survey-dashboard-using-tooljet-5bed)
-- [A Comprehensive Guide to Vector Databases and Embeddings](https://dev.to/hayyanstudio/a-comprehensive-guide-to-vector-databases-and-embeddings-594n)
-- [How to create VM with PowerShell](https://dev.to/ajayi/how-to-create-vm-with-powershell-604)
-- [Lighthouse를 활용한 Tree Shaking](https://dev.to/hxxtae/lighthousereul-hwalyonghan-tree-shaking-8ie)
+- [Tips on Handling Hash Keys in Rails](https://dev.to/weseek-inc/tips-on-handling-hash-keys-in-rails-3k64)
+- [Normalization in Rails 7.1 era](https://dev.to/ahmednadar/normalization-in-rails-71-era-33n6)
+- [Bas&#39; Take on Tech: OpenAI, e/acc, PyCon](https://dev.to/bascodes/bas-take-on-tech-openai-eacc-pycon-1eem)
+- [25 projects that you can build with Python and AI](https://dev.to/taipy/25-projects-that-you-can-build-with-python-and-ai-12i9)
 <!-- BLOG-POST-LIST:END -->
 
