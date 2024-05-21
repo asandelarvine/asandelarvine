@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Must-Have Command Line Tools for Developers](https://dev.to/dshafik/five-must-have-command-line-tools-for-developers-1hl6)
-- [How Beautiful Soup is used to extract data out of the Public Web](https://dev.to/marcconci/how-beautiful-soup-is-used-to-extract-data-out-of-the-public-web-25id)
-- [Side Quest #3: maybe the real Deepfakes were the friends we made along the way](https://dev.to/basicallyok/side-quest-3-maybe-the-real-deepfakes-were-the-friends-we-made-along-the-way-2g47)
-- [The Quirky Guide to Crafting and Publishing Your Cypress NPM Plugin](https://dev.to/sebastianclavijo/the-quirky-guide-to-crafting-and-publishing-your-cypress-npm-plugin-2pii)
+- [Newest Kohya SDXL DreamBooth Hyper Parameter research results — Used RealVis XL4 as a base model](https://dev.to/furkangozukara/newest-kohya-sdxl-dreambooth-hyper-parameter-research-results-used-realvis-xl4-as-a-base-model-59j5)
+- [Pagination condition for multiple columns](https://dev.to/xuanyu/pagination-condition-for-multiple-columns-4c5i)
+- [The reason why becoming a Software Engineer is a struggle.](https://dev.to/lorddesert/the-reason-why-becoming-a-software-engineer-is-a-struggle-591j)
+- [Guía para Crear una Instancia de Prueba en AWS EC2](https://dev.to/jamesnoria95/guia-para-crear-una-instancia-de-prueba-en-aws-ec2-4pka)
 <!-- BLOG-POST-LIST:END -->
 
