@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Aspects of TypeScript and How to Resolve Them](https://dev.to/byteminds_agency/hidden-aspects-of-typescript-and-how-to-resolve-them-1k5c)
-- [XRPL Grants Wave 7 Awardees Unveiled](https://dev.to/ripplexdev/xrpl-grants-wave-7-awardees-unveiled-2klk)
-- [F# For Dummys - Day 10](https://dev.to/pythonzhu/f-for-dummys-day-10-5dog)
-- [TanStack Form Tutorial: Advanced Validation](https://dev.to/this-is-learning/tanstack-form-tutorial-advanced-validation-41hc)
+- [Build an Employee Engagement Survey Dashboard using ToolJet](https://dev.to/tooljet/build-an-employee-engagement-survey-dashboard-using-tooljet-5bed)
+- [A Comprehensive Guide to Vector Databases and Embeddings](https://dev.to/hayyanstudio/a-comprehensive-guide-to-vector-databases-and-embeddings-594n)
+- [How to create VM with PowerShell](https://dev.to/ajayi/how-to-create-vm-with-powershell-604)
+- [Lighthouse를 활용한 Tree Shaking](https://dev.to/hxxtae/lighthousereul-hwalyonghan-tree-shaking-8ie)
 <!-- BLOG-POST-LIST:END -->
 
