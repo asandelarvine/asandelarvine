@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrum: An Agile Methodology to Achieve Goals Efficiently!](https://dev.to/devmoreir4/scrum-an-agile-methodology-to-achieve-goals-efficiently-28jp)
-- [My first $10k month as an agency owner](https://dev.to/salmandotweb/my-first-10k-month-as-an-agency-owner-35fh)
-- [Exploring the tool ./jq](https://dev.to/stefanalfbo/exploring-the-tool-jq-125g)
-- [What is Next JS and Why Should You Use it in 2024?](https://dev.to/jeaninovejas/what-is-next-js-and-why-should-you-use-it-in-2024-5cnl)
+- [Specification-Based Testing: Devise test cases](https://dev.to/tiuwill/specification-based-testing-devise-test-cases-2lcp)
+- [[Discussão] - Como você implementa suas apis ?](https://dev.to/devxbr/discussao-como-voce-implementa-suas-apis--2cml)
+- [How to Add Multiplayer to Your Discord Activity](https://dev.to/waveplay/how-to-add-multiplayer-to-your-discord-activity-lo1)
+- [The role of CI/CD interoperability in Developer Experience](https://dev.to/jerdog/the-role-of-cicd-interoperability-in-developer-experience-26dl)
 <!-- BLOG-POST-LIST:END -->
 
