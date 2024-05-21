@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips on Handling Hash Keys in Rails](https://dev.to/weseek-inc/tips-on-handling-hash-keys-in-rails-3k64)
-- [Normalization in Rails 7.1 era](https://dev.to/ahmednadar/normalization-in-rails-71-era-33n6)
-- [Bas&#39; Take on Tech: OpenAI, e/acc, PyCon](https://dev.to/bascodes/bas-take-on-tech-openai-eacc-pycon-1eem)
-- [25 projects that you can build with Python and AI](https://dev.to/taipy/25-projects-that-you-can-build-with-python-and-ai-12i9)
+- [The Puppeteer Language Experiment](https://dev.to/zirkelc/the-puppeteer-language-experiment-4k90)
+- [How to Dockerize a Ruby on Rails application](https://dev.to/datarockets/how-to-dockerize-a-ruby-on-rails-application-4h81)
+- [Send Push Notifications without Hassles of FCM Token Generation](https://dev.to/suprsend/send-push-notifications-without-hassles-of-fcm-token-generation-1n91)
+- [Debugging Kubernetes Part 1: An Introduction](https://dev.to/codenameone/debugging-kubernetes-part-1-an-introduction-1l21)
 <!-- BLOG-POST-LIST:END -->
 
