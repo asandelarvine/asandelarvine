@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Too many third-party embeds are making this accessibility mistake](https://dev.to/robole/too-many-third-party-embeds-are-making-this-accessibility-mistake-3h7l)
-- [From Contributor to Maintainer: My Journey in Open Source](https://dev.to/adiatiayu/from-contributor-to-maintainer-my-journey-in-open-source-1lif)
-- [Building VS. Selling: Why a Stellar Product Outshines Marketing and Sales](https://dev.to/drpraze/building-vs-selling-why-a-stellar-product-outshines-marketing-and-sales-514f)
-- [Search will be the future of LLM and AI Applications.](https://dev.to/srbhr/search-will-be-the-future-of-llm-and-ai-applications-26fl)
+- [Hidden Aspects of TypeScript and How to Resolve Them](https://dev.to/byteminds_agency/hidden-aspects-of-typescript-and-how-to-resolve-them-1k5c)
+- [XRPL Grants Wave 7 Awardees Unveiled](https://dev.to/ripplexdev/xrpl-grants-wave-7-awardees-unveiled-2klk)
+- [F# For Dummys - Day 10](https://dev.to/pythonzhu/f-for-dummys-day-10-5dog)
+- [TanStack Form Tutorial: Advanced Validation](https://dev.to/this-is-learning/tanstack-form-tutorial-advanced-validation-41hc)
 <!-- BLOG-POST-LIST:END -->
 
