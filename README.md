@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Puppeteer Language Experiment](https://dev.to/zirkelc/the-puppeteer-language-experiment-4k90)
-- [How to Dockerize a Ruby on Rails application](https://dev.to/datarockets/how-to-dockerize-a-ruby-on-rails-application-4h81)
-- [Send Push Notifications without Hassles of FCM Token Generation](https://dev.to/suprsend/send-push-notifications-without-hassles-of-fcm-token-generation-1n91)
-- [Debugging Kubernetes Part 1: An Introduction](https://dev.to/codenameone/debugging-kubernetes-part-1-an-introduction-1l21)
+- [Learning: Preparing the Modeling Environment](https://dev.to/dentrodailha96/learning-preparing-the-modeling-environment-5dij)
+- [React Native Video v6.0.0: A Comprehensive Update Packed with New Features and Improvements](https://dev.to/amitkumar13/react-native-video-v600-a-comprehensive-update-packed-with-new-features-and-improvements-1pdb)
+- [How We Built an AI Startup in a Weekend Hackathon in Germany](https://dev.to/markparker5/how-we-built-an-ai-startup-in-a-weekend-hackathon-in-germany-2c3k)
+- [Less Is More When Prompting - A live example on how to combine CoT with JSON](https://dev.to/aphanite/less-is-more-when-prompting-2ie4)
 <!-- BLOG-POST-LIST:END -->
 
