@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1863. Sum of All Subset XOR Totals](https://dev.to/karleb/1863-sum-of-all-subset-xor-totals-3hga)
-- [[Game of Purpose] - Day 2](https://dev.to/humberd/game-of-purpose-day-2-17o6)
-- [Monorepo architecture in shadcn-ui/ui.](https://dev.to/ramunarasinga/monorepo-architecture-in-shadcn-uiui-6n2)
-- [Good practices that make a difference #1](https://dev.to/superp0sit1on/small-good-practices-that-make-a-difference-part-1-584)
+- [Five Must-Have Command Line Tools for Developers](https://dev.to/dshafik/five-must-have-command-line-tools-for-developers-1hl6)
+- [How Beautiful Soup is used to extract data out of the Public Web](https://dev.to/marcconci/how-beautiful-soup-is-used-to-extract-data-out-of-the-public-web-25id)
+- [Side Quest #3: maybe the real Deepfakes were the friends we made along the way](https://dev.to/basicallyok/side-quest-3-maybe-the-real-deepfakes-were-the-friends-we-made-along-the-way-2g47)
+- [The Quirky Guide to Crafting and Publishing Your Cypress NPM Plugin](https://dev.to/sebastianclavijo/the-quirky-guide-to-crafting-and-publishing-your-cypress-npm-plugin-2pii)
 <!-- BLOG-POST-LIST:END -->
 
