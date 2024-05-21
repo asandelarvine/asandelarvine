@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I learned last week &lpar;20/24&rpar;](https://dev.to/calier/things-i-learned-last-week-2024-29pl)
-- [How to learn Go: Setting up Go and writing your first program](https://dev.to/gitchimp88/how-to-learn-go-setting-up-go-and-writing-your-first-program-596b)
-- [Why X-ray Clinics Are Essential for Diagnosis](https://dev.to/stethcare/why-x-ray-clinics-are-essential-for-diagnosis-3ha7)
-- [Python Trick for Data Manipulation with operator.itemgetter](https://dev.to/devasservice/python-trick-for-data-manipulation-with-operatoritemgetter-p48)
+- [Search for an internship](https://dev.to/suphi/search-for-an-internship-2em7)
+- [Understanding AI](https://dev.to/54chen/understanding-ai-3f99)
+- [How to Optimize React Components with useMemo&lpar;&rpar;](https://dev.to/dharamgfx/how-to-optimize-react-components-with-usememo-482l)
+- [Why I Chose React to Start My Full-Stack Journey](https://dev.to/ayue/why-i-chose-react-to-start-my-full-stack-journey-ogc)
 <!-- BLOG-POST-LIST:END -->
 
