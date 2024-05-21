@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Specification-Based Testing: Devise test cases](https://dev.to/tiuwill/specification-based-testing-devise-test-cases-2lcp)
-- [[Discussão] - Como você implementa suas apis ?](https://dev.to/devxbr/discussao-como-voce-implementa-suas-apis--2cml)
-- [How to Add Multiplayer to Your Discord Activity](https://dev.to/waveplay/how-to-add-multiplayer-to-your-discord-activity-lo1)
-- [The role of CI/CD interoperability in Developer Experience](https://dev.to/jerdog/the-role-of-cicd-interoperability-in-developer-experience-26dl)
+- [10+ Free Tailwind CSS Templates](https://dev.to/mikevarenek/10-free-tailwind-css-templates-32f7)
+- [Dev: Mobile App](https://dev.to/r4nd3l/dev-mobile-app-be6)
+- [Better Performance in C#](https://dev.to/mrgolabvand/better-performance-in-c-2kc0)
+- [How to export a CSV with my data posts in DEV using its API](https://dev.to/msc2020/how-to-export-a-csv-with-my-data-posts-in-dev-using-its-api-382f)
 <!-- BLOG-POST-LIST:END -->
 
