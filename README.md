@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Search for an internship](https://dev.to/suphi/search-for-an-internship-2em7)
-- [Understanding AI](https://dev.to/54chen/understanding-ai-3f99)
-- [How to Optimize React Components with useMemo&lpar;&rpar;](https://dev.to/dharamgfx/how-to-optimize-react-components-with-usememo-482l)
-- [Why I Chose React to Start My Full-Stack Journey](https://dev.to/ayue/why-i-chose-react-to-start-my-full-stack-journey-ogc)
+- [Too many third-party embeds are making this accessibility mistake](https://dev.to/robole/too-many-third-party-embeds-are-making-this-accessibility-mistake-3h7l)
+- [From Contributor to Maintainer: My Journey in Open Source](https://dev.to/adiatiayu/from-contributor-to-maintainer-my-journey-in-open-source-1lif)
+- [Building VS. Selling: Why a Stellar Product Outshines Marketing and Sales](https://dev.to/drpraze/building-vs-selling-why-a-stellar-product-outshines-marketing-and-sales-514f)
+- [Search will be the future of LLM and AI Applications.](https://dev.to/srbhr/search-will-be-the-future-of-llm-and-ai-applications-26fl)
 <!-- BLOG-POST-LIST:END -->
 
