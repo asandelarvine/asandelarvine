@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Peeling the MongoDB Drivers Onion](https://dev.to/alexbevi/peeling-the-mongodb-drivers-onion-2gma)
-- [Add Sitemap in Next.js 14 [Static &amp; Dynamic]](https://dev.to/thefaruksardar/add-sitemap-in-nextjs-14-static-dynamic-2eo1)
-- [GitHub Sponsors 💰 and Perl 🐫](https://dev.to/szabgab/github-sponsors-and-perl-fam)
-- [How to Contribute to the Open Source Learn to Code Platform GIGO Dev](https://dev.to/gigo_dev/how-to-contribute-to-the-open-source-learn-to-code-platform-gigo-dev-4d4a)
+- [Scrum: An Agile Methodology to Achieve Goals Efficiently!](https://dev.to/devmoreir4/scrum-an-agile-methodology-to-achieve-goals-efficiently-28jp)
+- [My first $10k month as an agency owner](https://dev.to/salmandotweb/my-first-10k-month-as-an-agency-owner-35fh)
+- [Exploring the tool ./jq](https://dev.to/stefanalfbo/exploring-the-tool-jq-125g)
+- [What is Next JS and Why Should You Use it in 2024?](https://dev.to/jeaninovejas/what-is-next-js-and-why-should-you-use-it-in-2024-5cnl)
 <!-- BLOG-POST-LIST:END -->
 
