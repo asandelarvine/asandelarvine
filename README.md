@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Potential of Blockchain Beyond Cryptocurrencies](https://dev.to/nikhilpandey12/exploring-the-potential-of-blockchain-beyond-cryptocurrencies-d2e)
-- [The Future of Web Development: Embracing Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/nikhilpandey12/the-future-of-web-development-embracing-progressive-web-apps-pwas-1m1n)
-- [Upgrading Node.js via the terminal &lpar;NVM or brew&rpar;](https://dev.to/sh20raj/upgrading-nodejs-via-the-terminal-nvm-or-brew-220d)
-- [Upgrading Node.js via the terminal &lpar;NVM or brew&rpar;](https://dev.to/sh20raj/upgrading-nodejs-via-the-terminal-nvm-or-brew-3h43)
+- [Mastering Time Management: Balance Your Job and Personal Growth 📈🧘‍♂](https://dev.to/hey_rishabh/mastering-time-management-balance-your-job-and-personal-growth-4l7h)
+- [Step-by-Step Guide to Building an E-commerce Site with Laravel](https://dev.to/hirelaraveldevelopers/step-by-step-guide-to-building-an-e-commerce-site-with-laravel-3ihn)
+- [Master Targeted Communication in Microsoft 365](https://dev.to/jaloplo/master-targeted-communication-in-microsoft-365-525o)
+- [Quantum Computing: Shaping the Future of Problem Solving](https://dev.to/nikhilpandey12/quantum-computing-shaping-the-future-of-problem-solving-h5j)
 <!-- BLOG-POST-LIST:END -->
 
