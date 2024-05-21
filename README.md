@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning: Preparing the Modeling Environment](https://dev.to/dentrodailha96/learning-preparing-the-modeling-environment-5dij)
-- [React Native Video v6.0.0: A Comprehensive Update Packed with New Features and Improvements](https://dev.to/amitkumar13/react-native-video-v600-a-comprehensive-update-packed-with-new-features-and-improvements-1pdb)
-- [How We Built an AI Startup in a Weekend Hackathon in Germany](https://dev.to/markparker5/how-we-built-an-ai-startup-in-a-weekend-hackathon-in-germany-2c3k)
-- [Less Is More When Prompting - A live example on how to combine CoT with JSON](https://dev.to/aphanite/less-is-more-when-prompting-2ie4)
+- [Build 2024 - Book Of News - DevOps Edition](https://dev.to/pwd9000/build-2024-book-of-news-devops-edition-40hk)
+- [[Cypress] Precisa fazer uma instrução condicional baseado se um elemento existe?](https://dev.to/araujosnathan/cypress-precisa-fazer-uma-instrucao-condicional-baseado-se-um-elemento-existe-36kn)
+- [78. Subsets](https://dev.to/mdarifulhaque/78-subsets-b0e)
+- [Build a cross-platform desktop app with electron and react typescript, tailwind css](https://dev.to/phamquyetthang/build-a-cross-platform-desktop-app-with-electron-and-react-typescript-tailwind-css-39k0)
 <!-- BLOG-POST-LIST:END -->
 
