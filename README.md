@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [study rust](https://dev.to/zhangwuji/study-rust-1a8p)
-- [Environment Variable.js file cant be show in Browser](https://dev.to/vijayachandra_nimmakuri_6/environment-variablejs-file-cant-be-show-in-browser-481n)
-- [Amazon Warehouses: An Overview of the Different Types](https://dev.to/donaldwilsonweb/amazon-warehouses-an-overview-of-the-different-types-4hd5)
-- [The Ultimate Guide How to Get Backlinks for Guest Posts](https://dev.to/donaldwilsonweb/the-ultimate-guide-how-to-get-backlinks-for-guest-posts-d5a)
+- [Exploring the Potential of Blockchain Beyond Cryptocurrencies](https://dev.to/nikhilpandey12/exploring-the-potential-of-blockchain-beyond-cryptocurrencies-d2e)
+- [The Future of Web Development: Embracing Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/nikhilpandey12/the-future-of-web-development-embracing-progressive-web-apps-pwas-1m1n)
+- [Upgrading Node.js via the terminal &lpar;NVM or brew&rpar;](https://dev.to/sh20raj/upgrading-nodejs-via-the-terminal-nvm-or-brew-220d)
+- [Upgrading Node.js via the terminal &lpar;NVM or brew&rpar;](https://dev.to/sh20raj/upgrading-nodejs-via-the-terminal-nvm-or-brew-3h43)
 <!-- BLOG-POST-LIST:END -->
 
