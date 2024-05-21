@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WP Rocket Cheap Price $3.50](https://dev.to/wpsite/wp-rocket-cheap-price-350-2naj)
-- [Build a password manager with Rust - Part 1](https://dev.to/damcosset/build-a-password-manager-with-rust-part-1-3g3)
-- [Anotações da faculdade - Matemática - Teoria dos conjuntos](https://dev.to/jvmartyns/anotacoes-da-faculdade-matematica-teoria-dos-conjuntos-24i0)
-- [Devin AI Will this AI Replace Programmers?](https://dev.to/prox_sea/devin-ai-will-this-ai-replace-programmers-12gp)
+- [Peeling the MongoDB Drivers Onion](https://dev.to/alexbevi/peeling-the-mongodb-drivers-onion-2gma)
+- [Add Sitemap in Next.js 14 [Static &amp; Dynamic]](https://dev.to/thefaruksardar/add-sitemap-in-nextjs-14-static-dynamic-2eo1)
+- [GitHub Sponsors 💰 and Perl 🐫](https://dev.to/szabgab/github-sponsors-and-perl-fam)
+- [How to Contribute to the Open Source Learn to Code Platform GIGO Dev](https://dev.to/gigo_dev/how-to-contribute-to-the-open-source-learn-to-code-platform-gigo-dev-4d4a)
 <!-- BLOG-POST-LIST:END -->
 
