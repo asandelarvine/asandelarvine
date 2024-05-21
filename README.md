@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build 2024 - Book Of News - DevOps Edition](https://dev.to/pwd9000/build-2024-book-of-news-devops-edition-40hk)
-- [[Cypress] Precisa fazer uma instrução condicional baseado se um elemento existe?](https://dev.to/araujosnathan/cypress-precisa-fazer-uma-instrucao-condicional-baseado-se-um-elemento-existe-36kn)
-- [78. Subsets](https://dev.to/mdarifulhaque/78-subsets-b0e)
-- [Build a cross-platform desktop app with electron and react typescript, tailwind css](https://dev.to/phamquyetthang/build-a-cross-platform-desktop-app-with-electron-and-react-typescript-tailwind-css-39k0)
+- [WP Rocket Cheap Price $3.50](https://dev.to/wpsite/wp-rocket-cheap-price-350-2naj)
+- [Build a password manager with Rust - Part 1](https://dev.to/damcosset/build-a-password-manager-with-rust-part-1-3g3)
+- [Anotações da faculdade - Matemática - Teoria dos conjuntos](https://dev.to/jvmartyns/anotacoes-da-faculdade-matematica-teoria-dos-conjuntos-24i0)
+- [Devin AI Will this AI Replace Programmers?](https://dev.to/prox_sea/devin-ai-will-this-ai-replace-programmers-12gp)
 <!-- BLOG-POST-LIST:END -->
 
