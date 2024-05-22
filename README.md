@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Professional Ways to Deal With Missed Bugs Effectively](https://dev.to/morrismoses149/5-professional-ways-to-deal-with-missed-bugs-effectively-37c7)
-- [Make NFT using ERC721](https://dev.to/abdxzi/make-nft-using-erc721-243i)
-- [React: Effective UI Practices](https://dev.to/gokulnathp/react-effective-ui-practices-478o)
-- [Creating Storage For Less Important Data On Azure With Simple Configuration Settings](https://dev.to/olaraph/creating-storage-for-less-important-data-on-azure-with-simple-configuration-settings-3b70)
+- [Conquering the World: How to Elevate Products for a Global Audience](https://dev.to/shieldstring/conquering-the-world-how-to-elevate-products-for-a-global-audience-4o34)
+- [Time Series Analysis of Plausible Data](https://dev.to/blacknight318/time-series-analysis-of-plausible-data-1dbj)
+- [Creating a Software Product Strategy to Drive Revenue](https://dev.to/rahulsukhwal/creating-a-software-product-strategy-to-drive-revenue-2kgd)
+- [Understanding the Use of `flock` in Linux Cron Jobs: Preventing Concurrent Script Execution](https://dev.to/mochafreddo/understanding-the-use-of-flock-in-linux-cron-jobs-preventing-concurrent-script-execution-3c5h)
 <!-- BLOG-POST-LIST:END -->
 
