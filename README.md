@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [wget examples](https://dev.to/youngjoonwon/wget-examples-3bp9)
-- [Breaking Down Big Texts with LangChain: The Art of Chunking](https://dev.to/jackrover/breaking-down-big-texts-with-langchain-the-art-of-chunking-2b03)
-- [How to secure Python Flask applications](https://dev.to/snyk/how-to-secure-python-flask-applications-2156)
-- [cmd and powershell](https://dev.to/zhangwuji/cmd-and-powershell-369a)
+- [Rust type Result](https://dev.to/zhangwuji/rust-type-result-150p)
+- [Securing an Angular and Spring Boot Application with Keycloak](https://dev.to/phasetwo/securing-an-angular-and-spring-boot-application-with-keycloak-2oj6)
+- [How does HTTPS work](https://dev.to/zacharylee/how-does-https-work-18pp)
+- [How to Improve Team Development Efficiency with Effective Use of Pull Requests and Code Comments](https://dev.to/femtowork/how-to-improve-team-development-efficiency-with-effective-use-of-pull-requests-and-code-comments-f2p)
 <!-- BLOG-POST-LIST:END -->
 
