@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a resource group](https://dev.to/stippy4real/how-to-create-a-resource-group-3j5k)
-- [The Future of Web Design: Emerging Technologies and Trends](https://dev.to/robertadler/the-future-of-web-design-emerging-technologies-and-trends-35jg)
-- [Creating new Perl composite actions from a repository template](https://dev.to/jj/creating-new-perl-composite-actions-from-a-repository-template-3c0k)
-- [JHipster 8 - Analisando o código da nossa primeira aplicação monolítica - Parte 3/3](https://dev.to/meucodigoagil/jhipster-8-analisando-o-codigo-da-nossa-primeira-aplicacao-monolitica-parte-33-2ic6)
+- [Navigating the Digital Landscape: The Pros and Cons of Social Media](https://dev.to/techstuff/navigating-the-digital-landscape-the-pros-and-cons-of-social-media-55h1)
+- [Secure-by-Design Software in DevSecOps](https://dev.to/gitguardian/secure-by-design-software-in-devsecops-4459)
+- [Update multiple Kubernetes objects/configmaps in one go!](https://dev.to/aws-builders/update-multiple-kubernetes-objectsconfigmaps-in-one-go-5417)
+- [How to Use ngrok to Expose Access to Your Local Web Server Remotely](https://dev.to/codegirl0101/how-to-use-ngrok-to-expose-access-to-your-local-web-server-remotely-58fe)
 <!-- BLOG-POST-LIST:END -->
 
