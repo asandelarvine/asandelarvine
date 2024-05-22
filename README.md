@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Discriminated Unions in TypeScript](https://dev.to/antonmartyniuk/mastering-discriminated-unions-in-typescript-2e01)
-- [Optimizing Costs in DevOps: Migrating a Kubernetes App from Amazon to Digital Ocean](https://dev.to/fively/optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90)
-- [Creating a Storage Account for a Public Website on Azure](https://dev.to/blessingoseyenum/creating-a-storage-account-for-a-public-website-on-azure-18jk)
-- [Building a MERN Stack Application for My Portfolio Project - Medikall: Lessons and Wins](https://dev.to/cre8stevedev/building-a-mern-stack-application-for-my-portfolio-project-medikall-lessons-and-wins-1pdm)
+- [How to create a resource group](https://dev.to/stippy4real/how-to-create-a-resource-group-3j5k)
+- [The Future of Web Design: Emerging Technologies and Trends](https://dev.to/robertadler/the-future-of-web-design-emerging-technologies-and-trends-35jg)
+- [Creating new Perl composite actions from a repository template](https://dev.to/jj/creating-new-perl-composite-actions-from-a-repository-template-3c0k)
+- [JHipster 8 - Analisando o código da nossa primeira aplicação monolítica - Parte 3/3](https://dev.to/meucodigoagil/jhipster-8-analisando-o-codigo-da-nossa-primeira-aplicacao-monolitica-parte-33-2ic6)
 <!-- BLOG-POST-LIST:END -->
 
