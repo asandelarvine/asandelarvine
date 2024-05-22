@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using WebRTC to implement P2P video streaming](https://dev.to/logrocket/using-webrtc-to-implement-p2p-video-streaming-5f5g)
-- [Why PowerShell Does Not Run Angular Commands: A Detailed Explanation](https://dev.to/fullstackjava/why-powershell-does-not-run-angular-commands-a-detailed-explanation-2hh8)
-- [useImmer an excelent alternative to useState](https://dev.to/jesusjimenezc/useimmer-an-excelent-alternative-to-usestate-22ci)
-- [Dealing with slow page loads](https://dev.to/amythical/dealing-with-slow-page-loads-3joa)
+- [Why Soft Skills Matter in Tech: Communication and Collaboration](https://dev.to/bingecoder89/why-soft-skills-matter-in-tech-communication-and-collaboration-5gih)
+- [Getting Started with GitHub](https://dev.to/vidyarathna/getting-started-with-github-3a7d)
+- [Understanding EIP-2535 Diamonds: The Future of Smart Contract Design](https://dev.to/mudgen/understanding-eip-2535-diamonds-the-future-of-smart-contract-design-doh)
+- [🛑 Stop resizing your browser: improve testing for responsiveness](https://dev.to/jenc/stop-resizing-your-browser-improve-testing-for-responsiveness-4pbm)
 <!-- BLOG-POST-LIST:END -->
 
