@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Effective Rate Limiting in Application Design](https://dev.to/getambassador2024/how-to-implement-effective-rate-limiting-in-application-design-2oob)
-- [Programming analogies:- Variables](https://dev.to/learn_with_santosh/programming-analogies-variables-1m0)
-- [Demystifying the Python Datetime Library](https://dev.to/aglili/demystifying-the-python-datetime-library-3hfo)
-- [What is the Future of Multi-Factor Authentication](https://dev.to/blogginger/what-is-the-future-of-multi-factor-authentication-48cn)
+- [I MADE A GAME IN SCRATCH 😭](https://dev.to/mince/i-made-a-game-in-scratch-1k5e)
+- [Understanding NumPy Array Shapes in Python](https://dev.to/lohith0512/understanding-numpy-array-shapes-in-python-2oan)
+- [My Take: Speed vs Quality &lpar;The Scope Secret&rpar;](https://dev.to/mitchiemt11/my-take-speed-vs-quality-the-scope-secret-n9p)
+- [How to stop taking things &quot;So&quot; personally](https://dev.to/tanujav/how-to-stop-taking-things-so-personally-57dk)
 <!-- BLOG-POST-LIST:END -->
 
