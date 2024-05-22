@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conquering the World: How to Elevate Products for a Global Audience](https://dev.to/shieldstring/conquering-the-world-how-to-elevate-products-for-a-global-audience-4o34)
-- [Time Series Analysis of Plausible Data](https://dev.to/blacknight318/time-series-analysis-of-plausible-data-1dbj)
-- [Creating a Software Product Strategy to Drive Revenue](https://dev.to/rahulsukhwal/creating-a-software-product-strategy-to-drive-revenue-2kgd)
-- [Understanding the Use of `flock` in Linux Cron Jobs: Preventing Concurrent Script Execution](https://dev.to/mochafreddo/understanding-the-use-of-flock-in-linux-cron-jobs-preventing-concurrent-script-execution-3c5h)
+- [How to Implement Effective Rate Limiting in Application Design](https://dev.to/getambassador2024/how-to-implement-effective-rate-limiting-in-application-design-2oob)
+- [Programming analogies:- Variables](https://dev.to/learn_with_santosh/programming-analogies-variables-1m0)
+- [Demystifying the Python Datetime Library](https://dev.to/aglili/demystifying-the-python-datetime-library-3hfo)
+- [What is the Future of Multi-Factor Authentication](https://dev.to/blogginger/what-is-the-future-of-multi-factor-authentication-48cn)
 <!-- BLOG-POST-LIST:END -->
 
