@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use Godot Over Unity](https://dev.to/hayyanstudio/why-you-should-use-godot-over-unity-3mpm)
-- [GitHub Actions Secrets: Enhancing Workflow Security](https://dev.to/saumya27/github-actions-secrets-enhancing-workflow-security-490g)
-- [SenchaCmd 7.8](https://dev.to/lminuti/senchacmd-78-589f)
-- [How to Set Up Your Terminal for Maximum Productivity in Development](https://dev.to/arekko/how-to-set-up-your-terminal-for-maximum-productivity-in-development-5ao1)
+- [Mastering Discriminated Unions in TypeScript](https://dev.to/antonmartyniuk/mastering-discriminated-unions-in-typescript-2e01)
+- [Optimizing Costs in DevOps: Migrating a Kubernetes App from Amazon to Digital Ocean](https://dev.to/fively/optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90)
+- [Creating a Storage Account for a Public Website on Azure](https://dev.to/blessingoseyenum/creating-a-storage-account-for-a-public-website-on-azure-18jk)
+- [Building a MERN Stack Application for My Portfolio Project - Medikall: Lessons and Wins](https://dev.to/cre8stevedev/building-a-mern-stack-application-for-my-portfolio-project-medikall-lessons-and-wins-1pdm)
 <!-- BLOG-POST-LIST:END -->
 
