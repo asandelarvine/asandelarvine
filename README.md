@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 3](https://dev.to/humberd/game-of-purpose-day-3-3pof)
-- [Why Stake&#39;s mines is nearly IMPOSSIBLE TO WIN?](https://dev.to/vaib215/why-stakes-mines-is-nearly-impossible-to-win-i9n)
-- [getRegistryIndex&lpar;&rpar; function in shadcn-ui/ui source code.](https://dev.to/ramunarasinga/getregistryindex-function-in-shadcn-uiui-source-code-1dnp)
-- [10+ Free Tailwind CSS Templates](https://dev.to/mikevarenek/10-free-tailwind-css-templates-32f7)
+- [Unveiling an Interactive Integration Experience for Faster Development](https://dev.to/paypaldeveloper/unveiling-an-interactive-integration-experience-for-faster-development-10cg)
+- [Boost Your DevOps Workflow with Traefik](https://dev.to/bansikah/boost-your-devops-workflow-with-traefik-30e2)
+- [Ransomware Defense: Comprehensive Guide to Data and System Safety](https://dev.to/jchristopher0033/ransomware-defense-comprehensive-guide-to-data-and-system-safety-5ei2)
+- [Developing Augmented Reality Apps with Unity and Vuforia](https://dev.to/kartikmehta8/developing-augmented-reality-apps-with-unity-and-vuforia-216e)
 <!-- BLOG-POST-LIST:END -->
 
