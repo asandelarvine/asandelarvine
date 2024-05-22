@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I MADE A GAME IN SCRATCH 😭](https://dev.to/mince/i-made-a-game-in-scratch-1k5e)
-- [Understanding NumPy Array Shapes in Python](https://dev.to/lohith0512/understanding-numpy-array-shapes-in-python-2oan)
-- [My Take: Speed vs Quality &lpar;The Scope Secret&rpar;](https://dev.to/mitchiemt11/my-take-speed-vs-quality-the-scope-secret-n9p)
-- [How to stop taking things &quot;So&quot; personally](https://dev.to/tanujav/how-to-stop-taking-things-so-personally-57dk)
+- [Astro and Express: SSR in Astro](https://dev.to/eneaslari/astro-and-express-ssr-in-astro-2j9d)
+- [I MADE A MOVIE IN SCRATCH](https://dev.to/dino2328/i-made-a-movie-in-scratch-1hm3)
+- [25 Things I Wish I Knew When I Started to Code 💻📚](https://dev.to/learn_with_santosh/25-things-i-wish-i-knew-when-i-started-to-code-3c7b)
+- [Chain some Math with Promises](https://dev.to/tufail/chain-some-math-with-promises-3g5m)
 <!-- BLOG-POST-LIST:END -->
 
