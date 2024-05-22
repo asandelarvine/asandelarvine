@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Angular 17 SSR: A Simple Guide to Understanding the Rendering Process](https://dev.to/bytebantz/demystifying-angular-17-ssr-a-simple-guide-to-understanding-the-rendering-process-24gn)
-- [React Rendering the component Twice](https://dev.to/oatula/react-rendering-the-component-twice-5c5n)
-- [[Game of Purpose] Day 4](https://dev.to/humberd/game-of-purpose-day-4-15fo)
-- [3 Essential React Hooks You Should Have in Your Project](https://dev.to/geraldhamiltonwicks/3-essential-react-hooks-you-should-have-in-your-project-241p)
+- [Talk : How often do you document your code ?](https://dev.to/lotfijb/talk-how-often-do-you-document-your-code--4g9b)
+- [Boost your Cloud Security with Network ACLs in your VPC](https://dev.to/fdtm/boost-your-cloud-security-with-network-acls-in-your-vpc-6c7)
+- [Web Extraction with Vision-LLMs: SQL-Ready Data From Any URL with GPT-4o](https://dev.to/emcf/web-extraction-with-vision-llms-done-the-right-way-structured-data-from-any-url-with-gpt-4o-1al8)
+- [I Built an App with Remix in 30 Minutes](https://dev.to/alvinslee/i-built-an-app-with-remix-in-30-minutes-219k)
 <!-- BLOG-POST-LIST:END -->
 
