@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro and Express: SSR in Astro](https://dev.to/eneaslari/astro-and-express-ssr-in-astro-2j9d)
-- [I MADE A MOVIE IN SCRATCH](https://dev.to/dino2328/i-made-a-movie-in-scratch-1hm3)
-- [25 Things I Wish I Knew When I Started to Code 💻📚](https://dev.to/learn_with_santosh/25-things-i-wish-i-knew-when-i-started-to-code-3c7b)
-- [Chain some Math with Promises](https://dev.to/tufail/chain-some-math-with-promises-3g5m)
+- [Best C#/ .NET PDF Library 2024](https://dev.to/derek-compdf/best-c-net-pdf-library-2024-1kn4)
+- [Blade FR MMI](https://dev.to/hugodemont/blade-fr-mmi-2jip)
+- [Profile UI Design CSS](https://dev.to/aniketchugh/profile-ui-design-css-5edl)
+- [Reusable UI structure: Layouts 💱](https://dev.to/dvalin99/a-reusable-ui-structure-layouts-5eh5)
 <!-- BLOG-POST-LIST:END -->
 
