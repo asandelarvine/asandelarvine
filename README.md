@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Find out how the Ora package is used to show a CLI spinner in shadcn-ui/ui source code.](https://dev.to/ramunarasinga/find-out-how-the-ora-package-is-used-to-show-a-cli-spinner-in-shadcn-uiui-source-code-4562)
-- [Top ChatGPT Prompts Every Developer Should Know](https://dev.to/abdullah-dev0/top-chatgpt-prompts-every-developer-should-know-7kj)
-- [PostgreSQL to NATS Streaming](https://dev.to/levla/postgresql-to-nats-streaming-1o4f)
-- [Tips to Build React Components that Devs will LOVE](https://dev.to/devsatasurion/tips-to-build-react-components-that-devs-will-love-4l62)
+- [Demystifying Angular 17 SSR: A Simple Guide to Understanding the Rendering Process](https://dev.to/bytebantz/demystifying-angular-17-ssr-a-simple-guide-to-understanding-the-rendering-process-24gn)
+- [React Rendering the component Twice](https://dev.to/oatula/react-rendering-the-component-twice-5c5n)
+- [[Game of Purpose] Day 4](https://dev.to/humberd/game-of-purpose-day-4-15fo)
+- [3 Essential React Hooks You Should Have in Your Project](https://dev.to/geraldhamiltonwicks/3-essential-react-hooks-you-should-have-in-your-project-241p)
 <!-- BLOG-POST-LIST:END -->
 
