@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust type Result](https://dev.to/zhangwuji/rust-type-result-150p)
-- [Securing an Angular and Spring Boot Application with Keycloak](https://dev.to/phasetwo/securing-an-angular-and-spring-boot-application-with-keycloak-2oj6)
-- [How does HTTPS work](https://dev.to/zacharylee/how-does-https-work-18pp)
-- [How to Improve Team Development Efficiency with Effective Use of Pull Requests and Code Comments](https://dev.to/femtowork/how-to-improve-team-development-efficiency-with-effective-use-of-pull-requests-and-code-comments-f2p)
+- [5 Professional Ways to Deal With Missed Bugs Effectively](https://dev.to/morrismoses149/5-professional-ways-to-deal-with-missed-bugs-effectively-37c7)
+- [Make NFT using ERC721](https://dev.to/abdxzi/make-nft-using-erc721-243i)
+- [React: Effective UI Practices](https://dev.to/gokulnathp/react-effective-ui-practices-478o)
+- [Creating Storage For Less Important Data On Azure With Simple Configuration Settings](https://dev.to/olaraph/creating-storage-for-less-important-data-on-azure-with-simple-configuration-settings-3b70)
 <!-- BLOG-POST-LIST:END -->
 
