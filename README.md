@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Soft Skills Matter in Tech: Communication and Collaboration](https://dev.to/bingecoder89/why-soft-skills-matter-in-tech-communication-and-collaboration-5gih)
-- [Getting Started with GitHub](https://dev.to/vidyarathna/getting-started-with-github-3a7d)
-- [Understanding EIP-2535 Diamonds: The Future of Smart Contract Design](https://dev.to/mudgen/understanding-eip-2535-diamonds-the-future-of-smart-contract-design-doh)
-- [🛑 Stop resizing your browser: improve testing for responsiveness](https://dev.to/jenc/stop-resizing-your-browser-improve-testing-for-responsiveness-4pbm)
+- [I created free React Material UI dashboard theme](https://dev.to/pbasiak/i-created-free-react-material-ui-dashboard-theme-52ek)
+- [My Journey After Software Engineering Bootcamp: Finding My Dream Role in the Oil and Energy Industry](https://dev.to/janicera2880/my-journey-after-flatiron-school-finding-my-dream-role-in-oil-and-energy-industry-2gnf)
+- [Da un marker leaflet alla foto in una galleria fotografica e ritorno](https://dev.to/trincadev/da-un-marker-leaflet-alla-foto-in-una-galleria-fotografica-e-ritorno-leh)
+- [From leaflet popup marker to photo gallery image and back](https://dev.to/trincadev/from-leaflet-popup-marker-to-photo-gallery-image-and-back-2f6k)
 <!-- BLOG-POST-LIST:END -->
 
