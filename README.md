@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Craft an Effective Tech Resume Without Experience](https://dev.to/bingecoder89/how-to-craft-an-effective-tech-resume-without-experience-1l1m)
-- [Building Robust Applications in React with TypeScript and Zod for REST API Validation](https://dev.to/schead/building-robust-applications-in-react-with-typescript-and-zod-for-rest-api-validation-cl8)
-- [Tricky Golang interview questions - Part 2: BigO of len&lpar;...&rpar;](https://dev.to/crusty0gphr/tricky-golang-interview-questions-part-2-bigo-of-len-2om9)
-- [Agile has fallen. Or has it ?](https://dev.to/polinaeliana/agile-has-fallen-or-has-it--470m)
+- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 6](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-6-4973)
+- [How to configure PHP in Airflow?](https://dev.to/darkotodoric/how-to-configure-php-in-airflow-5d9i)
+- [** Penélope Glamour y los Secretos del Diseño UI/UX **🙎🏼](https://dev.to/orlidev/-penelope-glamour-y-los-secretos-del-diseno-uiux--4i0e)
+- [Creating a skeleton website &lpar;Django&rpar;](https://dev.to/samuellubliner/creating-a-skeleton-website-django-dg7)
 <!-- BLOG-POST-LIST:END -->
 
