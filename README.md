@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Celebrity Flights in Python!](https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86)
-- [Top 10 Trends in BDD Testing 2024](https://dev.to/ngocninh123/top-10-trends-in-bdd-testing-2024-2l30)
-- [Enhancing User Experience with a Bootstrap Range Slider](https://dev.to/okibayu/bootstrap-range-slider-1oi4)
-- [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
+- [How to create a .env file in an ASP.NET Core Web API project and use its values in the application configuration](https://dev.to/sudha533/how-to-create-a-env-file-in-an-aspnet-core-web-api-project-and-use-its-values-in-the-application-configuration-fam)
+- [Increase Your Code Coverage with Cover-Agent](https://dev.to/davidking/increase-your-code-coverage-with-cover-agent-3g0p)
+- [Array Manipulation: A Deep Dive into Insertions and Deletions](https://dev.to/lohith0512/array-manipulation-a-deep-dive-into-insertions-and-deletions-280d)
+- [&quot;Top Linux Interview Questions and Answers for Aspiring System Administrators&quot;](https://dev.to/nikhilxd/top-linux-interview-questions-and-answers-for-aspiring-system-administrators-443c)
 <!-- BLOG-POST-LIST:END -->
 
