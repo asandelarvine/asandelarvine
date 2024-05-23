@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vyper beginner&#39;s tutorial: Variables.](https://dev.to/mosesmuwawu/vyper-beginners-tutorial-variables-1eo2)
-- [Create a Weather App using ToolJet and OpenWeatherMap API](https://dev.to/tooljet/create-a-weather-app-using-tooljet-and-openweathermap-api-3cfm)
-- [Tableau Desktop Public: Try the Free Version for Data Visualization](https://dev.to/luca1iu/tableau-desktop-public-try-the-free-version-for-data-visualization-46b8)
-- [JavaScript Mini Password Generator](https://dev.to/petrinaropra/javascript-mini-password-generator-30b)
+- [Environment Output Variables: Easy and Secure Output Piping](https://dev.to/env0/environment-output-variables-easy-and-secure-output-piping-3li0)
+- [How to Target XHR Errors in Cypress](https://dev.to/weseek-inc/how-to-target-xhr-errors-in-cypress-59cl)
+- [SQL Complete Beginner Course 2024](https://dev.to/shubhadip_bhowmik/sql-complete-beginner-course-2024-2omg)
+- [Technical Documentation: Student Attendance Tracking with API Integration for Parental Notifications](https://dev.to/emmanuelj/technical-documentation-student-attendance-tracking-with-api-integration-for-parental-notifications-1a2)
 <!-- BLOG-POST-LIST:END -->
 
