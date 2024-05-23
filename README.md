@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Software Development Teams: 8 Tips for Success](https://dev.to/garbanea/managing-software-development-teams-8-tips-for-success-255k)
-- [Things I wish I knew before I started an open-source project](https://dev.to/latitude/things-i-wish-i-knew-before-i-started-an-open-source-project-1pdn)
-- [Effective Testing in JavaScript](https://dev.to/appsignal/effective-testing-in-javascript-29fj)
-- [⛅️ 9 Best Free Tools for Creating &amp; Managing APIs](https://dev.to/evergrowingdev/9-best-free-tools-for-creating-managing-apis-53ej)
+- [Vyper beginner&#39;s tutorial: Variables.](https://dev.to/mosesmuwawu/vyper-beginners-tutorial-variables-1eo2)
+- [Create a Weather App using ToolJet and OpenWeatherMap API](https://dev.to/tooljet/create-a-weather-app-using-tooljet-and-openweathermap-api-3cfm)
+- [Tableau Desktop Public: Try the Free Version for Data Visualization](https://dev.to/luca1iu/tableau-desktop-public-try-the-free-version-for-data-visualization-46b8)
+- [JavaScript Mini Password Generator](https://dev.to/petrinaropra/javascript-mini-password-generator-30b)
 <!-- BLOG-POST-LIST:END -->
 
