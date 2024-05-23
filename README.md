@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL-like features in Django Rest Framework](https://dev.to/danihodovic/graphql-like-features-in-django-rest-framework-3mop)
-- [The Lottery Factor in Open Source](https://dev.to/opensauced/the-lottery-factor-in-open-source-3fpc)
-- [6 Tips for Beginners to Write Clean and Maintainable Code](https://dev.to/syedbalkhi/6-tips-for-beginners-to-write-clean-and-maintainable-code-4cad)
-- [Ponteiros na programação para iniciantes.](https://dev.to/delmiro/ponteiros-na-programacao-para-iniciantes-1hgb)
+- [Bookmyflight : A web app that helps you find cheap flights and book them based on your budget.](https://dev.to/nitintwt27/bookmyflight-a-web-app-that-helps-you-find-cheap-flights-and-book-them-based-on-your-budget-9b3)
+- [How to use Async/Await in Promise.](https://dev.to/makoto0825/how-to-use-asyncawait-in-promise-38hc)
+- [How to use Promise chaining in Javascript.](https://dev.to/makoto0825/how-to-use-promise-chaining-in-javascript-391c)
+- [“cn” utility function in shadcn-ui/ui:](https://dev.to/ramunarasinga/cn-utility-function-in-shadcn-uiui-3c4k)
 <!-- BLOG-POST-LIST:END -->
 
