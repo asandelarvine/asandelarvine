@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink #24: Javascript? Ain&#39;t Nobody Got Time Fo Dat](https://dev.to/linkbenjamin/the-adventures-of-blink-24-javascript-aint-nobody-got-time-fo-dat-46bc)
-- [Streams do Java](https://dev.to/alexreis/streams-do-java-2a5b)
-- [Cyber Attacks Prevention Methods](https://dev.to/elainecbennet/cyber-attacks-prevention-methods-25m3)
-- [Understanding Insert/Inject Script Rule](https://dev.to/requestlyio/understanding-insertinject-script-rule-nl6)
+- [Managing Software Development Teams: 8 Tips for Success](https://dev.to/garbanea/managing-software-development-teams-8-tips-for-success-255k)
+- [Things I wish I knew before I started an open-source project](https://dev.to/latitude/things-i-wish-i-knew-before-i-started-an-open-source-project-1pdn)
+- [Effective Testing in JavaScript](https://dev.to/appsignal/effective-testing-in-javascript-29fj)
+- [⛅️ 9 Best Free Tools for Creating &amp; Managing APIs](https://dev.to/evergrowingdev/9-best-free-tools-for-creating-managing-apis-53ej)
 <!-- BLOG-POST-LIST:END -->
 
