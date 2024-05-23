@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring OpenID Connect configuration: Key fields and their uses](https://dev.to/logto/exploring-openid-connect-configuration-key-fields-and-their-uses-4dh1)
-- [CHAT GPT4o&#39;s Filetypes for Github - Noobs like me](https://dev.to/apiphine/chat-gpt4os-filetypes-for-github-noobs-like-me-m0d)
-- [Understand the difference between quantitative and categorical features](https://dev.to/marcconci/understand-the-difference-between-quantitative-and-categorical-features-58of)
-- [Understanding the Basics of Quantum Programming](https://dev.to/kartikmehta8/understanding-the-basics-of-quantum-programming-41fp)
+- [Question of the Day: Event Handling in JavaScript 🚀](https://dev.to/erasmuskotoka/question-of-the-day-event-handling-in-javascript-n5b)
+- [Native Support for CJS/ESM Interoperability Begins in Node.js 22](https://dev.to/zacharylee/native-support-for-cjsesm-interoperability-begins-in-nodejs-22-3p1b)
+- [Preventing broken access control in express Node.js applications](https://dev.to/snyk/preventing-broken-access-control-in-express-nodejs-applications-hdd)
+- [Datalking #1: So, the machine is learning... How?](https://dev.to/anewrites/datalking-1-so-the-machine-is-learning-learning-what-3lpd)
 <!-- BLOG-POST-LIST:END -->
 
