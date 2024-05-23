@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Emmet: A Productivity Booster for Web Developers.](https://dev.to/catwebdev/emmet-a-productivity-booster-for-web-developers-2ni7)
-- [Programación asincrónica en Javascript](https://dev.to/w4ll-3/programacion-asincronica-en-javascript-46c5)
-- [Introduction to Data Bindings](https://dev.to/anvil/introduction-to-data-bindings-1op4)
-- [How to call out contributions to new releases](https://dev.to/openproject/how-to-call-out-contributions-to-new-releases-3cdb)
+- [GraphQL-like features in Django Rest Framework](https://dev.to/danihodovic/graphql-like-features-in-django-rest-framework-3mop)
+- [The Lottery Factor in Open Source](https://dev.to/opensauced/the-lottery-factor-in-open-source-3fpc)
+- [6 Tips for Beginners to Write Clean and Maintainable Code](https://dev.to/syedbalkhi/6-tips-for-beginners-to-write-clean-and-maintainable-code-4cad)
+- [Ponteiros na programação para iniciantes.](https://dev.to/delmiro/ponteiros-na-programacao-para-iniciantes-1hgb)
 <!-- BLOG-POST-LIST:END -->
 
