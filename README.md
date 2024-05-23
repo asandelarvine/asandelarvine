@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 6](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-6-4973)
-- [How to configure PHP in Airflow?](https://dev.to/darkotodoric/how-to-configure-php-in-airflow-5d9i)
-- [** Penélope Glamour y los Secretos del Diseño UI/UX **🙎🏼](https://dev.to/orlidev/-penelope-glamour-y-los-secretos-del-diseno-uiux--4i0e)
-- [Creating a skeleton website &lpar;Django&rpar;](https://dev.to/samuellubliner/creating-a-skeleton-website-django-dg7)
+- [Emmet: A Productivity Booster for Web Developers.](https://dev.to/catwebdev/emmet-a-productivity-booster-for-web-developers-2ni7)
+- [Programación asincrónica en Javascript](https://dev.to/w4ll-3/programacion-asincronica-en-javascript-46c5)
+- [Introduction to Data Bindings](https://dev.to/anvil/introduction-to-data-bindings-1op4)
+- [How to call out contributions to new releases](https://dev.to/openproject/how-to-call-out-contributions-to-new-releases-3cdb)
 <!-- BLOG-POST-LIST:END -->
 
