@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Descriptive Statistics || Part 1&lpar;Central Tendency and Dispersion&rpar;](https://dev.to/ngneha09/descriptive-statistics-part-1central-tendency-and-dispersion-35j8)
-- [How to Set Up a MySQL Master-Slave Replication in Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
-- [EasyTdd 0.4.0 Release: Introducing the Incremental Builder](https://dev.to/easytdd/easytdd-040-release-introducing-the-incremental-builder-4k09)
-- [Fast string case transformation for the C#](https://dev.to/szymonhalucha/fast-string-case-transformation-for-the-c-3b4e)
+- [Deploy MinIO on Amazon EKS and use your S3 Compatible Storage](https://dev.to/devarshishimpi/deploy-minio-on-amazon-eks-and-use-your-s3-compatible-storage-ld2)
+- [Why You Should Leverage Database Integration with OpenTelemetry](https://dev.to/metis/why-you-should-leverage-database-integration-with-opentelemetry-4dme)
+- [Only Use Env&lpar;&rpar; In Config Files](https://dev.to/paulund/only-use-env-in-config-files-14d)
+- [🔥 Vue Tip: Using Once Watchers](https://dev.to/abanoubgeorge/vue-tip-using-once-watchers-ol0)
 <!-- BLOG-POST-LIST:END -->
 
