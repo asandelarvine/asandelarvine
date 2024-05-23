@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Question of the Day: Event Handling in JavaScript 🚀](https://dev.to/erasmuskotoka/question-of-the-day-event-handling-in-javascript-n5b)
-- [Native Support for CJS/ESM Interoperability Begins in Node.js 22](https://dev.to/zacharylee/native-support-for-cjsesm-interoperability-begins-in-nodejs-22-3p1b)
-- [Preventing broken access control in express Node.js applications](https://dev.to/snyk/preventing-broken-access-control-in-express-nodejs-applications-hdd)
-- [Datalking #1: So, the machine is learning... How?](https://dev.to/anewrites/datalking-1-so-the-machine-is-learning-learning-what-3lpd)
+- [How to obtain the relative position of brush in the coordinate system in the vchart chart library?](https://dev.to/da730/how-to-obtain-the-relative-position-of-brush-in-the-coordinate-system-in-the-vchart-chart-library-1an6)
+- [Virtual DOM and its Significance in React](https://dev.to/kiransm/virtual-dom-and-its-significance-in-react-1f1e)
+- [Astro vs Visual Studio 2022 as Static Site Generators](https://dev.to/msanders5/astro-vs-visual-studio-2022-as-static-site-generators-32nd)
+- [Uhmm Virtual DOM In React?...](https://dev.to/thatohatsi880/uhmm-virtual-dom-in-react-3oo9)
 <!-- BLOG-POST-LIST:END -->
 
