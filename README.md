@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Environment Output Variables: Easy and Secure Output Piping](https://dev.to/env0/environment-output-variables-easy-and-secure-output-piping-3li0)
-- [How to Target XHR Errors in Cypress](https://dev.to/weseek-inc/how-to-target-xhr-errors-in-cypress-59cl)
-- [SQL Complete Beginner Course 2024](https://dev.to/shubhadip_bhowmik/sql-complete-beginner-course-2024-2omg)
-- [Technical Documentation: Student Attendance Tracking with API Integration for Parental Notifications](https://dev.to/emmanuelj/technical-documentation-student-attendance-tracking-with-api-integration-for-parental-notifications-1a2)
+- [Why CSS-in-JS Doesn&#39;t Solve Problems](https://dev.to/m_midas/why-css-in-js-doesnt-solve-problems-14i9)
+- [KubeIP v2: Assigning Static Public IPs to Kubernetes Nodes Across Cloud Providers](https://dev.to/alexeiled/kubeip-v2-assigning-static-public-ips-to-kubernetes-nodes-across-cloud-providers-1a57)
+- [From Frustration to Fix: Conquering Vercel Errors Like a Pro](https://dev.to/ehtisamhaq/from-frustration-to-fix-conquering-vercel-errors-like-a-pro-4mdo)
+- [Is Flutter Right For Your Mobile App?](https://dev.to/n968941/is-flutter-right-for-your-mobile-app-480b)
 <!-- BLOG-POST-LIST:END -->
 
