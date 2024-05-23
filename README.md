@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Profiling Rust with VS on Windows](https://dev.to/jambochen/profiling-rust-with-vs-on-windows-3m4l)
-- [How to check your site in different languages and writing modes](https://dev.to/polypane/how-to-check-your-site-in-different-languages-and-writing-modes-5f87)
-- [Mais oui, IA de la DATA à Devoxx France 2024 !](https://dev.to/onepoint/mais-oui-ia-de-la-data-a-devoxx-france-2024--4kpe)
-- [Let&#39;s build a simple MLOps workflow on AWS! #2 - Building infrastructure on AWS](https://dev.to/hikarunakatani/lets-build-a-simple-mlops-workflow-on-aws-2-building-infrastructure-on-aws-3h2j)
+- [The Adventures of Blink #24: Javascript? Ain&#39;t Nobody Got Time Fo Dat](https://dev.to/linkbenjamin/the-adventures-of-blink-24-javascript-aint-nobody-got-time-fo-dat-46bc)
+- [Streams do Java](https://dev.to/alexreis/streams-do-java-2a5b)
+- [Cyber Attacks Prevention Methods](https://dev.to/elainecbennet/cyber-attacks-prevention-methods-25m3)
+- [Understanding Insert/Inject Script Rule](https://dev.to/requestlyio/understanding-insertinject-script-rule-nl6)
 <!-- BLOG-POST-LIST:END -->
 
