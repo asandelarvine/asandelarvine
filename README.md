@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Piece Your AI-Powered App Needs!](https://dev.to/kais_rad/the-missing-piece-your-ai-powered-app-needs-3m98)
-- [Build a Powerful Video Processing Pipeline with AssemblyAI and Deploy it to Koyeb](https://dev.to/koyeb/build-a-powerful-video-processing-pipeline-with-assemblyai-and-deploy-it-to-koyeb-1l56)
-- [Backend Testing - exciting😀 yet confusing 🤔](https://dev.to/prakirth/backend-testing-exciting-yet-confusing-4k51)
-- [AWS in a Nutshell](https://dev.to/jay818/aws-in-a-nutshell-391o)
+- [Simple Method to Block Copy and Paste in Monaco Editor with React](https://dev.to/ritish_shelke_526e503c1b7/simple-method-to-block-copy-and-paste-in-monaco-editor-with-react-eam)
+- [Introducing Molend: the Pioneering Lending Protocol on Mode Network](https://dev.to/modenetwork/introducing-molend-the-pioneering-lending-protocol-on-mode-network-2976)
+- [If Error Messages Were Honest &lpar;and Cats&rpar;](https://dev.to/buildwebcrumbs/if-error-messages-were-honest-and-cats-56ea)
+- [AWS SnapStart - Part 21 Measuring cold starts and deployment time with Java 17 using different compilation options](https://dev.to/aws-builders/aws-snapstart-part-21-measuring-cold-starts-and-deployment-time-with-java-17-using-different-compilation-options-o14)
 <!-- BLOG-POST-LIST:END -->
 
