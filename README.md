@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Business Efficiency: A Comprehensive Guide to Choosing and Implementing Process Mapping Software](https://dev.to/blog_ts/enhancing-business-efficiency-a-comprehensive-guide-to-choosing-and-implementing-process-mapping-software-53k3)
-- [API Gateways: The Impact on API Management and Security](https://dev.to/apidna/api-gateways-the-impact-on-api-management-and-security-2o6k)
-- [Manipulando o hook useState](https://dev.to/devborges/manipulando-o-hook-usestate-b54)
-- [Understanding Idempotency in Software Development 🥇](https://dev.to/_hm/understanding-idempotency-in-software-development-4kgo)
+- [Angular code obfuscation made easy](https://dev.to/jodamco/angular-code-obfuscation-made-easy-4gjm)
+- [5 Most Used Array Methods in Front-End Development](https://dev.to/shehzadhussain/5-most-used-array-methods-in-front-end-development-2lgb)
+- [Effective way to deploy virtual machines using Quickstart Templates and Monitor your resources through Mobile App.](https://dev.to/latoniw/effective-way-to-deploy-virtual-machines-using-quickstart-templates-and-monitor-your-resources-through-mobile-app-1m9g)
+- [AWS Amplify Challenge - I Got A Patent Pending 🦄](https://dev.to/vitalipom/aws-amplify-challenge-i-got-a-patent-pending-gch)
 <!-- BLOG-POST-LIST:END -->
 
