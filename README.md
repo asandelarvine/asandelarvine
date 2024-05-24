@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Serverless Architecture Right For You?](https://dev.to/getambassador2024/is-serverless-architecture-right-for-you-4gp7)
-- [Database Replication Encyclopaedia — Single Leader Replication &lpar;1/3&rpar;](https://dev.to/the_infinity/database-replication-encyclopaedia-single-leader-replication-13-2l5c)
-- [Understanding FedEx Operational Delays: What You Need to Know and How to Manage Them](https://dev.to/thenexttech/understanding-fedex-operational-delays-what-you-need-to-know-and-how-to-manage-them-1nba)
-- [Finding the Perfect WordPress Developer: A Step-by-Step Guide](https://dev.to/hirelaraveldevelopers/finding-the-perfect-wordpress-developer-a-step-by-step-guide-66c)
+- [Setting Up Docker Compose for Golang Application](https://dev.to/ynrfin/setting-up-docker-compose-for-golang-application-2cf2)
+- [Getting Creative with CSS Grid](https://dev.to/madsstoumann/getting-creative-with-css-grid-mco)
+- [Day 1 of my progress as a vue dev](https://dev.to/zain725342/day-1-of-my-progress-as-a-vue-dev-1hn3)
+- [Exploring React Router 6](https://dev.to/justvicky/exploring-react-router-6-5bee)
 <!-- BLOG-POST-LIST:END -->
 
