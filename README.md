@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【visionOS/ARKit】Simplest sample code for hand tracking](https://dev.to/sfrrvsdbbf/visionosarkit-simplest-sample-code-for-hand-tracking-4g66)
-- [🌟 **Exploring Front End Development with HTML, CSS, and React.js** 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-k2p)
-- [How to Create a Virtual Machine &lpar;Windows 11 Pro&rpar;](https://dev.to/opsyog/create-a-virtual-machine-4boj)
-- [Understanding Lasso Regularization: Enhancing Model Performance and Feature Selection](https://dev.to/harsimranjit_singh_0133dc/understanding-lasso-regularization-enhancing-model-performance-and-feature-selection-330p)
+- [How to create a Virtual Machine that is highly available.](https://dev.to/opsyog/how-to-create-a-virtual-machine-that-is-highly-available-1c1h)
+- [Next.js: Upload de imagem para a Cloudflare R2 Utilizando Presigned URL](https://dev.to/lucianogmoraesjr/nextjs-upload-de-imagem-para-a-cloudflare-r2-utilizando-presigned-url-26o4)
+- [Top UI/UX Design Trends](https://dev.to/pepper_square/top-uiux-design-trends-14jc)
+- [User Story EP1 : How Alex Built His First GPT Action from Scratch🎉](https://dev.to/dancemove_marscode/user-story-ep1-how-alex-built-his-first-gpt-action-from-scratch-48ca)
 <!-- BLOG-POST-LIST:END -->
 
