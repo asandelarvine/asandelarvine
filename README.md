@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview of the DevOps Interview Process: From Application to Selection - In 50 min](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-in-50-min-1nlp)
-- [Building a RESTful API with Flask in Python: A Beginner&#39;s Guide](https://dev.to/manavcodaty/building-a-restful-api-with-flask-in-python-a-beginners-guide-meb)
-- [Mastering React Optimization Techniques: Boost Your App&#39;s Performance](https://dev.to/delia_code/mastering-react-optimization-techniques-boost-your-apps-performance-1ka)
-- [Turso - LibSQL Driver Laravel](https://dev.to/darkterminal/turso-libsql-driver-laravel-131k)
+- [Is Serverless Architecture Right For You?](https://dev.to/getambassador2024/is-serverless-architecture-right-for-you-4gp7)
+- [Database Replication Encyclopaedia — Single Leader Replication &lpar;1/3&rpar;](https://dev.to/the_infinity/database-replication-encyclopaedia-single-leader-replication-13-2l5c)
+- [Understanding FedEx Operational Delays: What You Need to Know and How to Manage Them](https://dev.to/thenexttech/understanding-fedex-operational-delays-what-you-need-to-know-and-how-to-manage-them-1nba)
+- [Finding the Perfect WordPress Developer: A Step-by-Step Guide](https://dev.to/hirelaraveldevelopers/finding-the-perfect-wordpress-developer-a-step-by-step-guide-66c)
 <!-- BLOG-POST-LIST:END -->
 
