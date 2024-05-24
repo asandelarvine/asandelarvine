@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Associating a Custom Domain to an API Gateway on Google Cloud](https://dev.to/burgossrodrigo/associating-a-custom-domain-to-an-api-gateway-on-google-cloud-4ph6)
-- [Enhance Your Design System Workflow with Kelp Plugin for Android Studio 🌱](https://dev.to/popovanton0/enhance-your-design-system-workflow-with-kelp-plugin-for-android-studio-6pm)
-- [Welcome To A New Series](https://dev.to/nhelchitnis/welcome-to-a-new-series-hp4)
-- [Navigating React State: useState, useReducer, Context, Redux Toolkit, Recoil](https://dev.to/bilelsalemdev/navigating-react-state-usestate-usereducer-context-redux-toolkit-recoil-3i98)
+- [Understanding Data Manipulation Language&lpar;DML&rpar; statements in SQL](https://dev.to/kellyblaire/understanding-the-data-manipulation-languagedml-statements-in-sql-23f5)
+- [CodeCompanion is launching : Take your documentation to the next level](https://dev.to/lotfijb/codecompanion-is-launching-take-your-documentation-to-the-next-level-1d8d)
+- [Constraints in SQL: Enforcing Data Integrity](https://dev.to/kellyblaire/constraints-in-sql-enforcing-data-integrity-3pa1)
+- [Could Microservices Be a Good Fit for Micro SaaS?](https://dev.to/zachbenson/could-microservices-be-a-good-fit-for-micro-saas-startups-47hg)
 <!-- BLOG-POST-LIST:END -->
 
