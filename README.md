@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You no longer need Vuex / Pinia for shared state in Vue.](https://dev.to/dperrymorrow/you-no-longer-need-vuex-pinia-for-shared-state-in-vue-4ikp)
-- [How to Install Pip Packages in AWS Lambda Using Docker and ECR](https://dev.to/shilleh/how-to-install-pip-packages-in-aws-lambda-using-docker-and-ecr-2ghh)
-- [Google Frontend Interview](https://dev.to/unalo_baayriyo/google-frontend-interview-2o1h)
-- [Database Migrations : From Manual to Automated Management.](https://dev.to/aharmaz/database-migrations-from-manual-to-automated-management-5ffj)
+- [Associating a Custom Domain to an API Gateway on Google Cloud](https://dev.to/burgossrodrigo/associating-a-custom-domain-to-an-api-gateway-on-google-cloud-4ph6)
+- [Enhance Your Design System Workflow with Kelp Plugin for Android Studio 🌱](https://dev.to/popovanton0/enhance-your-design-system-workflow-with-kelp-plugin-for-android-studio-6pm)
+- [Welcome To A New Series](https://dev.to/nhelchitnis/welcome-to-a-new-series-hp4)
+- [Navigating React State: useState, useReducer, Context, Redux Toolkit, Recoil](https://dev.to/bilelsalemdev/navigating-react-state-usestate-usereducer-context-redux-toolkit-recoil-3i98)
 <!-- BLOG-POST-LIST:END -->
 
