@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Docker Compose for Golang Application](https://dev.to/ynrfin/setting-up-docker-compose-for-golang-application-2cf2)
-- [Getting Creative with CSS Grid](https://dev.to/madsstoumann/getting-creative-with-css-grid-mco)
-- [Day 1 of my progress as a vue dev](https://dev.to/zain725342/day-1-of-my-progress-as-a-vue-dev-1hn3)
-- [Exploring React Router 6](https://dev.to/justvicky/exploring-react-router-6-5bee)
+- [Maximizing ROI: Leveraging IP Look Up for Enhanced Audience Targeting](https://dev.to/johnmiller/maximizing-roi-leveraging-ip-look-up-for-enhanced-audience-targeting-57li)
+- [How To Not Be Replaced By AI As A Software Engineer](https://dev.to/sotergreco/how-to-not-be-replaced-by-ai-as-a-software-engineer-2j26)
+- [Kickstart Your Next.js App with This Turbo Template](https://dev.to/jadrizk/kickstart-your-nextjs-app-with-this-turbo-template-1e4b)
+- [5 considerations for Client-side Security](https://dev.to/armstrong2035/5-considerations-for-client-side-security-5fk6)
 <!-- BLOG-POST-LIST:END -->
 
