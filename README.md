@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Method to Block Copy and Paste in Monaco Editor with React](https://dev.to/ritish_shelke_526e503c1b7/simple-method-to-block-copy-and-paste-in-monaco-editor-with-react-eam)
-- [Introducing Molend: the Pioneering Lending Protocol on Mode Network](https://dev.to/modenetwork/introducing-molend-the-pioneering-lending-protocol-on-mode-network-2976)
-- [If Error Messages Were Honest &lpar;and Cats&rpar;](https://dev.to/buildwebcrumbs/if-error-messages-were-honest-and-cats-56ea)
-- [AWS SnapStart - Part 21 Measuring cold starts and deployment time with Java 17 using different compilation options](https://dev.to/aws-builders/aws-snapstart-part-21-measuring-cold-starts-and-deployment-time-with-java-17-using-different-compilation-options-o14)
+- [Enhancing Business Efficiency: A Comprehensive Guide to Choosing and Implementing Process Mapping Software](https://dev.to/blog_ts/enhancing-business-efficiency-a-comprehensive-guide-to-choosing-and-implementing-process-mapping-software-53k3)
+- [API Gateways: The Impact on API Management and Security](https://dev.to/apidna/api-gateways-the-impact-on-api-management-and-security-2o6k)
+- [Manipulando o hook useState](https://dev.to/devborges/manipulando-o-hook-usestate-b54)
+- [Understanding Idempotency in Software Development 🥇](https://dev.to/_hm/understanding-idempotency-in-software-development-4kgo)
 <!-- BLOG-POST-LIST:END -->
 
