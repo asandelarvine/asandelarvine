@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech: The Tech Banking Sector We Should Be Grateful For](https://dev.to/hnkomuwa/fintech-the-tech-banking-sector-we-should-be-grateful-for-4lmi)
-- [Marketing Strategies](https://dev.to/techstuff/marketing-strategies-4l3e)
-- [Higher-Order Functions &lpar;HOFs&rpar; in JavaScript: A Comprehensive Guide 🚀](https://dev.to/madhurop/higher-order-functions-hofs-in-javascript-a-comprehensive-guide-32aa)
-- [Voxel51 Filtered Views Newsletter - May 24, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-may-24-2024-110b)
+- [The Missing Piece Your AI-Powered App Needs!](https://dev.to/kais_rad/the-missing-piece-your-ai-powered-app-needs-3m98)
+- [Build a Powerful Video Processing Pipeline with AssemblyAI and Deploy it to Koyeb](https://dev.to/koyeb/build-a-powerful-video-processing-pipeline-with-assemblyai-and-deploy-it-to-koyeb-1l56)
+- [Backend Testing - exciting😀 yet confusing 🤔](https://dev.to/prakirth/backend-testing-exciting-yet-confusing-4k51)
+- [AWS in a Nutshell](https://dev.to/jay818/aws-in-a-nutshell-391o)
 <!-- BLOG-POST-LIST:END -->
 
