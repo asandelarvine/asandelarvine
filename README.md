@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Music Streaming App with Spotify API](https://dev.to/kartikmehta8/building-a-music-streaming-app-with-spotify-api-4onl)
-- [How to Get a Perfect Deep Copy in JavaScript?](https://dev.to/zacharylee/how-to-get-a-perfect-deep-copy-in-javascript-1b9f)
-- [CONQUERING THE CLOUD RESUME CHALLENGE: MY JOURNEY](https://dev.to/osugodbless/conquering-the-cloud-resume-challenge-my-journey-1lbe)
-- [Microservices With Spring Boot](https://dev.to/oloruntobi600/microservices-with-spring-boot-5457)
+- [Create a Virtual Machine](https://dev.to/opsyog/create-a-virtual-machine-4boj)
+- [Introducing react-tools: A Toolbox for Streamlining React Development](https://dev.to/galiprandi/introducing-react-tools-a-toolbox-for-streamlining-react-development-2f23)
+- [region-screenshot-js helps you quickly build the selection screenshot function](https://dev.to/brilliant/region-screenshot-js-helps-you-quickly-build-the-selection-screenshot-function-5mg)
+- [How to scale a Django application to serve one million users?](https://dev.to/prox_sea/how-to-scale-a-django-application-to-serve-one-million-users-4m)
 <!-- BLOG-POST-LIST:END -->
 
