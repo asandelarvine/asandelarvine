@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MONGODB](https://dev.to/eniola/mongodb-34fc)
-- [Scraper compania Olinio](https://dev.to/ale23yfm/scraper-compania-olinio-34g2)
-- [Vocode Setup for GenAI Voice Calls: A Guide for Non-Python Developers](https://dev.to/bajajcodes/vocode-setup-for-genai-voice-calls-a-guide-for-non-python-developers-4f21)
-- [**¡Aventuras en la prehistoria de las bases de datos con el Capitán Cavernícola!**🦖](https://dev.to/orlidev/aventuras-en-la-prehistoria-de-las-bases-de-datos-con-el-capitan-cavernicola-39l5)
+- [Simulating Life with TensorflowJS](https://dev.to/jgracie52/simulating-life-with-tensorflowjs-4cah)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos para Desenvolvedores.](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-para-desenvolvedores-2lph)
+- [Desmistificando: Entendendo interações entre navegador e usuário #1](https://dev.to/cavalcanteyury/desmistificando-entendendo-interacoes-entre-navegador-e-usuario-1-250c)
+- [Add Vector Search to Your Site](https://dev.to/bengreenberg/add-vector-search-to-your-site-2c73)
 <!-- BLOG-POST-LIST:END -->
 
