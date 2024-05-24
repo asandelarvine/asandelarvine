@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing mobile apps, the right way](https://dev.to/talenttinaapi/testing-mobile-apps-the-right-way-dch)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1khk)
-- [Excluding Dependencies: Bundling for Node and the Browser](https://dev.to/zirkelc/excluding-dependencies-bundling-for-node-and-the-browser-34af)
-- [Path To A Clean&lpar;er&rpar; React Architecture - Domain Entities &amp; DTOs](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-domain-entities-dtos-3ja0)
+- [3D WEBSITES NOW EASIER 🤯](https://dev.to/mince/3d-websites-now-easier-18e2)
+- [Why react just won&#39;t die 😠](https://dev.to/patrickweb/why-react-just-wont-die-3jb7)
+- [Revolutionizing React: Unveiling the New Hooks in React 19🚀](https://dev.to/dharamgfx/revolutionizing-react-unveiling-the-new-hooks-in-react-19-3lik)
+- [Survey: Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach](https://dev.to/tutti/survey-integrating-large-language-models-in-causal-discovery-a-statistical-causal-approach-3p7d)
 <!-- BLOG-POST-LIST:END -->
 
