@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Meditations: Implement Trie &lpar;Prefix Tree&rpar;](https://dev.to/rivea0/leetcode-meditations-implement-trie-prefix-tree-3dfp)
-- [Multi-language Web Novel Scraper in Python](https://dev.to/reinaldoassis/multi-language-web-novel-scraper-in-python-3cd2)
-- [1255. Maximum Score Words Formed by Letters](https://dev.to/mdarifulhaque/1255-maximum-score-words-formed-by-letters-25bj)
-- [1255. Maximum Score Words Formed by Letters](https://dev.to/karleb/1255-maximum-score-words-formed-by-letters-a55)
+- [You no longer need Vuex / Pinia for shared state in Vue.](https://dev.to/dperrymorrow/you-no-longer-need-vuex-pinia-for-shared-state-in-vue-4ikp)
+- [How to Install Pip Packages in AWS Lambda Using Docker and ECR](https://dev.to/shilleh/how-to-install-pip-packages-in-aws-lambda-using-docker-and-ecr-2ghh)
+- [Google Frontend Interview](https://dev.to/unalo_baayriyo/google-frontend-interview-2o1h)
+- [Database Migrations : From Manual to Automated Management.](https://dev.to/aharmaz/database-migrations-from-manual-to-automated-management-5ffj)
 <!-- BLOG-POST-LIST:END -->
 
