@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular code obfuscation made easy](https://dev.to/jodamco/angular-code-obfuscation-made-easy-4gjm)
-- [5 Most Used Array Methods in Front-End Development](https://dev.to/shehzadhussain/5-most-used-array-methods-in-front-end-development-2lgb)
-- [Effective way to deploy virtual machines using Quickstart Templates and Monitor your resources through Mobile App.](https://dev.to/latoniw/effective-way-to-deploy-virtual-machines-using-quickstart-templates-and-monitor-your-resources-through-mobile-app-1m9g)
-- [AWS Amplify Challenge - I Got A Patent Pending 🦄](https://dev.to/vitalipom/aws-amplify-challenge-i-got-a-patent-pending-gch)
+- [MONGODB](https://dev.to/eniola/mongodb-34fc)
+- [Scraper compania Olinio](https://dev.to/ale23yfm/scraper-compania-olinio-34g2)
+- [Vocode Setup for GenAI Voice Calls: A Guide for Non-Python Developers](https://dev.to/bajajcodes/vocode-setup-for-genai-voice-calls-a-guide-for-non-python-developers-4f21)
+- [**¡Aventuras en la prehistoria de las bases de datos con el Capitán Cavernícola!**🦖](https://dev.to/orlidev/aventuras-en-la-prehistoria-de-las-bases-de-datos-con-el-capitan-cavernicola-39l5)
 <!-- BLOG-POST-LIST:END -->
 
