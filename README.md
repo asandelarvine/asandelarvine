@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Think Golang in oop way](https://dev.to/kingrayhan/think-golang-in-oop-way-1ki)
-- [If CI/CD Pipelines Were Human: A Day in the Life](https://dev.to/mitch1009/if-cicd-pipelines-were-human-a-day-in-the-life-47d)
-- [Accelerating Chip Design and Testing in the Semiconductor Industry with AWS](https://dev.to/sudoconsultants/accelerating-chip-design-and-testing-in-the-semiconductor-industry-with-aws-3aci)
-- [Conquering AWS Cloud Challenge](https://dev.to/madhesh_waran_63/conquering-aws-cloud-challenge-1799)
+- [Testing mobile apps, the right way](https://dev.to/talenttinaapi/testing-mobile-apps-the-right-way-dch)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1khk)
+- [Excluding Dependencies: Bundling for Node and the Browser](https://dev.to/zirkelc/excluding-dependencies-bundling-for-node-and-the-browser-34af)
+- [Path To A Clean&lpar;er&rpar; React Architecture - Domain Entities &amp; DTOs](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-domain-entities-dtos-3ja0)
 <!-- BLOG-POST-LIST:END -->
 
