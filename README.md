@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3D WEBSITES NOW EASIER 🤯](https://dev.to/mince/3d-websites-now-easier-18e2)
-- [Why react just won&#39;t die 😠](https://dev.to/patrickweb/why-react-just-wont-die-3jb7)
-- [Revolutionizing React: Unveiling the New Hooks in React 19🚀](https://dev.to/dharamgfx/revolutionizing-react-unveiling-the-new-hooks-in-react-19-3lik)
-- [Survey: Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach](https://dev.to/tutti/survey-integrating-large-language-models-in-causal-discovery-a-statistical-causal-approach-3p7d)
+- [Fintech: The Tech Banking Sector We Should Be Grateful For](https://dev.to/hnkomuwa/fintech-the-tech-banking-sector-we-should-be-grateful-for-4lmi)
+- [Marketing Strategies](https://dev.to/techstuff/marketing-strategies-4l3e)
+- [Higher-Order Functions &lpar;HOFs&rpar; in JavaScript: A Comprehensive Guide 🚀](https://dev.to/madhurop/higher-order-functions-hofs-in-javascript-a-comprehensive-guide-32aa)
+- [Voxel51 Filtered Views Newsletter - May 24, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-may-24-2024-110b)
 <!-- BLOG-POST-LIST:END -->
 
