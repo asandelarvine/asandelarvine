@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI usefulness is a Bathtub Curve](https://dev.to/johntellsall/ai-usefulness-is-a-bathtub-curve-40ka)
-- [Introduction to Spring Boot](https://dev.to/oloruntobi600/introduction-to-spring-boot-1oic)
-- [[Game of Purpose] Day 5](https://dev.to/humberd/game-of-purpose-day-5-5hl9)
-- [Tutorial: Using Minder to automate management of source code repository configuration and security](https://dev.to/ninfriendos1/tutorial-using-minder-to-automate-management-of-source-code-repository-configuration-and-security-n7e)
+- [Building a Music Streaming App with Spotify API](https://dev.to/kartikmehta8/building-a-music-streaming-app-with-spotify-api-4onl)
+- [How to Get a Perfect Deep Copy in JavaScript?](https://dev.to/zacharylee/how-to-get-a-perfect-deep-copy-in-javascript-1b9f)
+- [CONQUERING THE CLOUD RESUME CHALLENGE: MY JOURNEY](https://dev.to/osugodbless/conquering-the-cloud-resume-challenge-my-journey-1lbe)
+- [Microservices With Spring Boot](https://dev.to/oloruntobi600/microservices-with-spring-boot-5457)
 <!-- BLOG-POST-LIST:END -->
 
