@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Data Manipulation Language&lpar;DML&rpar; statements in SQL](https://dev.to/kellyblaire/understanding-the-data-manipulation-languagedml-statements-in-sql-23f5)
-- [CodeCompanion is launching : Take your documentation to the next level](https://dev.to/lotfijb/codecompanion-is-launching-take-your-documentation-to-the-next-level-1d8d)
-- [Constraints in SQL: Enforcing Data Integrity](https://dev.to/kellyblaire/constraints-in-sql-enforcing-data-integrity-3pa1)
-- [Could Microservices Be a Good Fit for Micro SaaS?](https://dev.to/zachbenson/could-microservices-be-a-good-fit-for-micro-saas-startups-47hg)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [L] - Liskov Substitution Principle - LSP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-l-liskov-substitution-principle-lsp-5ebg)
+- [Exploring the Features of HTML5](https://dev.to/kartikmehta8/exploring-the-features-of-html5-iai)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [O] - Open/Closed Principle - OCP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-o-openclosed-principle-ocp-3bal)
+- [CLI Tools every Developer should know](https://dev.to/codeparrot/cli-tools-every-developer-should-know-6kd)
 <!-- BLOG-POST-LIST:END -->
 
