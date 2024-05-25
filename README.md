@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Function Composition in JavaScript! 🛠️](https://dev.to/adii/function-composition-in-javascript-1306)
-- [5 Powerful TypeScript Tricks](https://dev.to/sachinchaurasiya/5-powerful-typescript-tricks-11lg)
-- [How to upgrade Openshift 4.x](https://dev.to/mkdev/how-to-upgrade-openshift-4x-5baa)
-- [TIL: What is a Balint group?](https://dev.to/shaharke/til-what-is-a-balint-group-4hok)
+- [Metadata for win — Apache Parquet](https://dev.to/rahuldubey391/metadata-for-win-apache-parquet-3mb5)
+- [Effective Unit Testing for REST APIs with Node.js, TypeScript](https://dev.to/qbentil/effective-unit-testing-for-rest-apis-with-nodejs-typescript-2e4o)
+- [F# For Dummys - Day 14 Collections Map](https://dev.to/pythonzhu/f-for-dummys-day-14-collections-map-big)
+- [What is Content Delivery Networks &lpar;CDNs&rpar;?](https://dev.to/the_infinity/what-is-content-delivery-networks-cdns-3abd)
 <!-- BLOG-POST-LIST:END -->
 
