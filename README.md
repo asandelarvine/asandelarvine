@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [L] - Liskov Substitution Principle - LSP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-l-liskov-substitution-principle-lsp-5ebg)
-- [Exploring the Features of HTML5](https://dev.to/kartikmehta8/exploring-the-features-of-html5-iai)
-- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [O] - Open/Closed Principle - OCP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-o-openclosed-principle-ocp-3bal)
-- [CLI Tools every Developer should know](https://dev.to/codeparrot/cli-tools-every-developer-should-know-6kd)
+- [Create Your First Discord Bot with Lambda](https://dev.to/devbu9/create-your-first-discord-bot-with-lambda-4om4)
+- [Securing the Cloud #30](https://dev.to/8carroll/securing-the-cloud-30-1g6m)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [I] - Interface Segregation Principle - ISP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-i-interface-segregation-principle-isp-3ho3)
+- [Concurrency c# part 1](https://dev.to/dat_ngo_524c98f33bc09e368/concurrency-c-part-1-2h7b)
 <!-- BLOG-POST-LIST:END -->
 
