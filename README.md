@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Human-Centered Design: Advocating for and Designing for Our Needs](https://dev.to/shieldstring/human-centered-design-advocating-for-and-designing-for-our-needs-5c8n)
-- [Creating Simple Shaders in WebGL: A Step-by-Step Guide](https://dev.to/hayyanstudio/creating-simple-shaders-in-webgl-a-step-by-step-guide-46gg)
-- [&quot; Getting Started with HTML: Building Blocks of Web Pages](https://dev.to/erasmuskotoka/-getting-started-with-html-building-blocks-of-web-pages-1m3c)
-- [NEXT 15 is here! : What&#39;s New and Exciting?](https://dev.to/grenishrai/next-15-is-here-whats-new-and-exciting-1nkl)
+- [All About NPM &lpar;Node Package Manager&rpar;](https://dev.to/olibhiaghosh/all-about-npm-node-package-manager-hk2)
+- [How Function And Variable works in JavaScript : Behind The Scenes](https://dev.to/pervez/how-function-and-variable-works-in-javascript-behind-the-scenes-54e0)
+- [YMIN capacitors enhance performance and stability in charging piles.](https://dev.to/yolosaki/ymin-capacitors-enhance-performance-and-stability-in-charging-piles-19d6)
+- [Lenses Pattern in JavaScript](https://dev.to/ashutosh_mathur/understanding-and-implementing-the-lenses-pattern-in-javascript-333a)
 <!-- BLOG-POST-LIST:END -->
 
