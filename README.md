@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GENERATE 3D MODELS FROM TEXT 🧠](https://dev.to/mince/generate-3d-models-from-text-3ida)
-- [QA Testing for Cloud Applications: A Special Focus](https://dev.to/ray_parker01/qa-testing-for-cloud-applications-a-special-focus-3f5c)
-- [Converting couple thousands Js/Ts files that contains JSX content to jsx extension](https://dev.to/elpddev/converting-couple-thousands-jsts-files-that-contains-jsx-content-to-jsx-extension-58oh)
-- [How to Optimize Performance in Vue.js Applications: Beginner to Advanced Guide](https://dev.to/delia_code/how-to-optimize-performance-in-vuejs-applications-beginner-to-advanced-guide-53db)
+- [Function Composition in JavaScript! 🛠️](https://dev.to/adii/function-composition-in-javascript-1306)
+- [5 Powerful TypeScript Tricks](https://dev.to/sachinchaurasiya/5-powerful-typescript-tricks-11lg)
+- [How to upgrade Openshift 4.x](https://dev.to/mkdev/how-to-upgrade-openshift-4x-5baa)
+- [TIL: What is a Balint group?](https://dev.to/shaharke/til-what-is-a-balint-group-4hok)
 <!-- BLOG-POST-LIST:END -->
 
