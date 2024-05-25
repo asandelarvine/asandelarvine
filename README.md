@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Core Navigation markers](https://dev.to/karenpayneoregon/aspnet-core-navigation-markers-2j38)
-- [Achieving Success in Online Learning: A Practical Guide](https://dev.to/gift_mugweni_1c055b418706/achieving-success-in-online-learning-a-practical-guide-h86)
-- [Looking for Angular Mentor](https://dev.to/kmuppalla/looking-for-angular-mentor-56ig)
-- [Kubernetes Ingress in a nutshell Part01](https://dev.to/sambo2021/kubernetes-ingress-in-a-nutshell-part01-28j)
+- [Time-Series Mastery: Techniques for Precise Predictive Modeling](https://dev.to/annaliesetech/time-series-mastery-techniques-for-precise-predictive-modeling-n2e)
+- [Machine Learning 101: What You Need to Know](https://dev.to/ankur0904/machine-learning-101-what-you-need-to-know-1nip)
+- [Buttons with CSS Effects](https://dev.to/rinkon/buttons-with-css-effects-o66)
+- [Use Cases of the Power Platform:](https://dev.to/deransmith/use-cases-of-the-power-platform-4kh2)
 <!-- BLOG-POST-LIST:END -->
 
