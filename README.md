@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Time-Series Mastery: Techniques for Precise Predictive Modeling](https://dev.to/annaliesetech/time-series-mastery-techniques-for-precise-predictive-modeling-n2e)
-- [Machine Learning 101: What You Need to Know](https://dev.to/ankur0904/machine-learning-101-what-you-need-to-know-1nip)
-- [Buttons with CSS Effects](https://dev.to/rinkon/buttons-with-css-effects-o66)
-- [Use Cases of the Power Platform:](https://dev.to/deransmith/use-cases-of-the-power-platform-4kh2)
+- [Apache Spark 101](https://dev.to/rubnsbarbosa/apache-spark-101-2p68)
+- [Mario made only with CSS gradients - no JS, no embedded images/data URIs, no external images and using a micro HTML =&rpar;](https://dev.to/__d007e49033/mario-made-only-with-css-gradients-no-js-no-embedded-imagesdata-uris-no-external-images-and-using-a-micro-html--4f5f)
+- [Creating generic types for API &lpar;backend&rpar; responses](https://dev.to/lurco/creating-generic-types-for-api-backend-responses-3ho2)
+- [Controlling user auth flow with Lambda &amp; Cognito](https://dev.to/jodamco/controlling-user-auth-flow-with-lambda-cognito-28k9)
 <!-- BLOG-POST-LIST:END -->
 
