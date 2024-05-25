@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Metadata for win — Apache Parquet](https://dev.to/rahuldubey391/metadata-for-win-apache-parquet-3mb5)
-- [Effective Unit Testing for REST APIs with Node.js, TypeScript](https://dev.to/qbentil/effective-unit-testing-for-rest-apis-with-nodejs-typescript-2e4o)
-- [F# For Dummys - Day 14 Collections Map](https://dev.to/pythonzhu/f-for-dummys-day-14-collections-map-big)
-- [What is Content Delivery Networks &lpar;CDNs&rpar;?](https://dev.to/the_infinity/what-is-content-delivery-networks-cdns-3abd)
+- [The long path of JavaScript - from ES6 until today.](https://dev.to/fsh02/the-long-path-of-javascript-from-es6-until-today-3gc3)
+- [Comment bien gérer les erreurs avec Remix ? &lpar;ErrorBoundary&rpar;](https://dev.to/varkoff/comment-bien-gerer-les-erreurs-avec-remix-errorboundary-1m6m)
+- [HOW TO CREATE FILE SHARE](https://dev.to/shaloversal123/how-to-create-file-share-3ifb)
+- [How to create a layout switcher with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-layout-switcher-with-tailwind-css-and-javascript-2c7k)
 <!-- BLOG-POST-LIST:END -->
 
