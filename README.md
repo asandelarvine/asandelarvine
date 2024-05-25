@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All About NPM &lpar;Node Package Manager&rpar;](https://dev.to/olibhiaghosh/all-about-npm-node-package-manager-hk2)
-- [How Function And Variable works in JavaScript : Behind The Scenes](https://dev.to/pervez/how-function-and-variable-works-in-javascript-behind-the-scenes-54e0)
-- [YMIN capacitors enhance performance and stability in charging piles.](https://dev.to/yolosaki/ymin-capacitors-enhance-performance-and-stability-in-charging-piles-19d6)
-- [Lenses Pattern in JavaScript](https://dev.to/ashutosh_mathur/understanding-and-implementing-the-lenses-pattern-in-javascript-333a)
+- [GENERATE 3D MODELS FROM TEXT 🧠](https://dev.to/mince/generate-3d-models-from-text-3ida)
+- [QA Testing for Cloud Applications: A Special Focus](https://dev.to/ray_parker01/qa-testing-for-cloud-applications-a-special-focus-3f5c)
+- [Converting couple thousands Js/Ts files that contains JSX content to jsx extension](https://dev.to/elpddev/converting-couple-thousands-jsts-files-that-contains-jsx-content-to-jsx-extension-58oh)
+- [How to Optimize Performance in Vue.js Applications: Beginner to Advanced Guide](https://dev.to/delia_code/how-to-optimize-performance-in-vuejs-applications-beginner-to-advanced-guide-53db)
 <!-- BLOG-POST-LIST:END -->
 
