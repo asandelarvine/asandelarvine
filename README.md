@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All About NPM &lpar;Node Package Manager&rpar;](https://dev.to/siddhant-vij/all-about-npm-node-package-manager-217m)
-- [Symfony Station Communiqué — 24 May 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-24-may-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-281j)
-- [Build Real-time transcription app using React Hooks](https://dev.to/video-sdk/build-real-time-transcription-app-using-react-hooks-1coe)
-- [JavaScript vs. TypeScript: A Comprehensive Comparison](https://dev.to/dipakahirav/javascript-vs-typescript-a-comprehensive-comparison-c97)
+- [ASP.NET Core Navigation markers](https://dev.to/karenpayneoregon/aspnet-core-navigation-markers-2j38)
+- [Achieving Success in Online Learning: A Practical Guide](https://dev.to/gift_mugweni_1c055b418706/achieving-success-in-online-learning-a-practical-guide-h86)
+- [Looking for Angular Mentor](https://dev.to/kmuppalla/looking-for-angular-mentor-56ig)
+- [Kubernetes Ingress in a nutshell Part01](https://dev.to/sambo2021/kubernetes-ingress-in-a-nutshell-part01-28j)
 <!-- BLOG-POST-LIST:END -->
 
