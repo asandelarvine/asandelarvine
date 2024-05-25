@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is an ORM and when developers should and shouldn&#39;t use it](https://dev.to/neurelo/what-is-an-orm-and-when-developers-should-and-shouldnt-use-it-1hm2)
-- [Comparing WebRTC and WebSocket: Choosing the Right Technology for Real-Time Experience](https://dev.to/arjunkava/comparing-webrtc-and-websocket-choosing-the-right-technology-for-real-time-experience-4ie9)
-- [Comprehensive Guide to Using Observers in Laravel](https://dev.to/devbalop/comprehensive-guide-to-using-observers-in-laravel-5dcf)
-- [Learning AWS Day by Day — Day 75 — Elastic Network Interface](https://dev.to/rksalo88/learning-aws-day-by-day-day-75-elastic-network-interface-2jab)
+- [All About NPM &lpar;Node Package Manager&rpar;](https://dev.to/siddhant-vij/all-about-npm-node-package-manager-217m)
+- [Symfony Station Communiqué — 24 May 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-24-may-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-281j)
+- [Build Real-time transcription app using React Hooks](https://dev.to/video-sdk/build-real-time-transcription-app-using-react-hooks-1coe)
+- [JavaScript vs. TypeScript: A Comprehensive Comparison](https://dev.to/dipakahirav/javascript-vs-typescript-a-comprehensive-comparison-c97)
 <!-- BLOG-POST-LIST:END -->
 
