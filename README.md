@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The long path of JavaScript - from ES6 until today.](https://dev.to/fsh02/the-long-path-of-javascript-from-es6-until-today-3gc3)
-- [Comment bien gérer les erreurs avec Remix ? &lpar;ErrorBoundary&rpar;](https://dev.to/varkoff/comment-bien-gerer-les-erreurs-avec-remix-errorboundary-1m6m)
-- [HOW TO CREATE FILE SHARE](https://dev.to/shaloversal123/how-to-create-file-share-3ifb)
-- [How to create a layout switcher with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-layout-switcher-with-tailwind-css-and-javascript-2c7k)
+- [Integrating a ReactPHP Server in Laravel](https://dev.to/kornatzky/integrating-a-reactphp-server-in-laravel-lo0)
+- [Turbocharge Your Shaders: Performance Optimization Tips and Tricks](https://dev.to/hayyanstudio/turbocharge-your-shaders-performance-optimization-tips-and-tricks-367h)
+- [Advanced Shader Techniques: Delving into Ray Tracing and Signed Distance Functions](https://dev.to/hayyanstudio/advanced-shader-techniques-delving-into-ray-tracing-and-signed-distance-functions-4li0)
+- [[DAY 15-17] I Got My First Web Dev Certification &amp; Started Learning Javascript](https://dev.to/thomascansino/day-15-17-i-got-my-first-web-dev-certification-started-learning-javascript-55jl)
 <!-- BLOG-POST-LIST:END -->
 
