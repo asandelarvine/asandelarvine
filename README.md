@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating a ReactPHP Server in Laravel](https://dev.to/kornatzky/integrating-a-reactphp-server-in-laravel-lo0)
-- [Turbocharge Your Shaders: Performance Optimization Tips and Tricks](https://dev.to/hayyanstudio/turbocharge-your-shaders-performance-optimization-tips-and-tricks-367h)
-- [Advanced Shader Techniques: Delving into Ray Tracing and Signed Distance Functions](https://dev.to/hayyanstudio/advanced-shader-techniques-delving-into-ray-tracing-and-signed-distance-functions-4li0)
-- [[DAY 15-17] I Got My First Web Dev Certification &amp; Started Learning Javascript](https://dev.to/thomascansino/day-15-17-i-got-my-first-web-dev-certification-started-learning-javascript-55jl)
+- [12 Benefits Of Learning Python 🐍](https://dev.to/developedbyjk/12-benefits-of-learning-python-k1h)
+- [Generate a Laravel CRUD &lpar;Create, Read, Update, Delete&rpar; in 5 minutes.](https://dev.to/karandatwani92/generate-a-laravel-crud-create-read-update-delete-in-5-minutes-409o)
+- [We need to slow down, Everything is going too fast](https://dev.to/shreyvijayvargiya/we-need-to-slow-down-everything-is-going-too-fast-db4)
+- [Next.js e Vercel: Otimizando Aplicações para Produção](https://dev.to/vitorrios1001/nextjs-e-vercel-otimizando-aplicacoes-para-producao-378j)
 <!-- BLOG-POST-LIST:END -->
 
