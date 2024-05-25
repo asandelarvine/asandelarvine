@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Design for Developers: Crafting User-Centered Experiences🚀](https://dev.to/dharamgfx/mastering-design-for-developers-crafting-user-centered-experiences-3nkf)
-- [Image super-resolution using GAN &lpar;SRGAN&rpar;](https://dev.to/adamazuddin/image-super-resolution-using-gan-srgan-kgc)
-- [Day 2 of my progress as a vue dev](https://dev.to/zain725342/day-2-of-my-progress-as-a-vue-dev-2227)
-- [Unlocking the Power of NodeJS with Human Library](https://dev.to/tarek_eissa/unlocking-the-power-of-nodejs-with-human-library-3jo0)
+- [Sum Root to Leaf Numbers | LeetCode | Java](https://dev.to/tanujav/sum-root-to-leaf-numbers-leetcode-java-30em)
+- [Exploring Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/jps27cse/exploring-asynchronous-javascript-callbacks-promises-and-asyncawait-16k6)
+- [I&#39;ve Created an Awesome List of Gifs that can be added to your Github Profile README](https://dev.to/nhelchitnis/ive-created-an-awesome-list-of-gifs-that-can-be-added-to-your-github-profile-readme-2jf3)
+- [Terraform vs Ansible](https://dev.to/vaibhavhariaramani/terraform-vs-ansible-103g)
 <!-- BLOG-POST-LIST:END -->
 
