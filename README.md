@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Benefits Of Learning Python 🐍](https://dev.to/developedbyjk/12-benefits-of-learning-python-k1h)
-- [Generate a Laravel CRUD &lpar;Create, Read, Update, Delete&rpar; in 5 minutes.](https://dev.to/karandatwani92/generate-a-laravel-crud-create-read-update-delete-in-5-minutes-409o)
-- [We need to slow down, Everything is going too fast](https://dev.to/shreyvijayvargiya/we-need-to-slow-down-everything-is-going-too-fast-db4)
-- [Next.js e Vercel: Otimizando Aplicações para Produção](https://dev.to/vitorrios1001/nextjs-e-vercel-otimizando-aplicacoes-para-producao-378j)
+- [Mastering Design for Developers: Crafting User-Centered Experiences🚀](https://dev.to/dharamgfx/mastering-design-for-developers-crafting-user-centered-experiences-3nkf)
+- [Image super-resolution using GAN &lpar;SRGAN&rpar;](https://dev.to/adamazuddin/image-super-resolution-using-gan-srgan-kgc)
+- [Day 2 of my progress as a vue dev](https://dev.to/zain725342/day-2-of-my-progress-as-a-vue-dev-2227)
+- [Unlocking the Power of NodeJS with Human Library](https://dev.to/tarek_eissa/unlocking-the-power-of-nodejs-with-human-library-3jo0)
 <!-- BLOG-POST-LIST:END -->
 
