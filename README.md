@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 I made a simple JavaScript to Python Converter with AI 🔄](https://dev.to/best_codes/i-made-a-simple-javascript-to-python-converter-with-ai-3069)
-- [Resolving CSS and HTML Not Displaying in Laravel Hosted Files](https://dev.to/japhethjoepari/resolving-css-and-html-not-displaying-in-laravel-hosted-files-2605)
-- [Best sites to practice your programming logic 💻](https://dev.to/miguelrodriguezp99/best-sites-to-practice-your-programming-logic-4pgc)
-- [Test our AI Documentation Tool in its Beta version !!!!!!](https://dev.to/lotfijb/test-our-ai-documentation-tool-in-its-beta-version--509f)
+- [Pathfinding Algorithms Part 2 with A*](https://dev.to/excaliburjs/pathfinding-part-2-with-a-ina)
+- [Exploring Web Development: Python + Django](https://dev.to/alexphebert2000/exploring-web-development-python-django-acb)
+- [🚀 Exploring Front-End Development with HTML, CSS, and React.js! 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-4h7k)
+- [Why I came over to dev.to](https://dev.to/kination/why-i-came-over-to-devto-3kdm)
 <!-- BLOG-POST-LIST:END -->
 
