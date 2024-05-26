@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Python&#39;s Built-in Functions](https://dev.to/varshav/guide-to-pythons-built-in-functions-18oa)
-- [Creating a simple Message Bus: Episode 1](https://dev.to/breda/creating-a-simple-message-bus-episode-1-2hjm)
-- [30 Days of CPP](https://dev.to/shubhadip_bhowmik/30-days-of-cpp-4go7)
-- [Behind the scenes with FTP](https://dev.to/mahakfaheem/behind-the-scenes-with-ftp-28be)
+- [Dev: Software](https://dev.to/r4nd3l/dev-software-3bh1)
+- [Dev: Software](https://dev.to/r4nd3l/dev-software-3pmh)
+- [Creating PDF and EPUB eBook from Laravel Documentation using Ibis Next](https://dev.to/robertobutti/creating-pdf-and-epub-ebook-from-laravel-documentation-using-ibis-next-3bgc)
+- [¿Morirá React como jQuery?](https://dev.to/gfouz/morira-react-como-jquery-13bl)
 <!-- BLOG-POST-LIST:END -->
 
