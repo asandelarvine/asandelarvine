@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Different Ways to Include External JavaScript in HTML](https://dev.to/imabhinavdev/different-ways-to-include-external-javascript-in-html-34ab)
-- [IPFS &lpar;InterPlanetary File System&rpar; Explained](https://dev.to/kamilrashidev/ipfs-interplanetary-file-system-explained-2kn1)
-- [Making Your GitHub Readme Profile Stand Out](https://dev.to/raielly/making-your-github-readme-profile-stand-out-4m52)
-- [Let&#39;s Talk Cloud Computing](https://dev.to/oliviaoputa_/lets-talk-cloud-computing-5c1c)
+- [Ethereum Hits the Road to $4,000. Or Not?](https://dev.to/endeo/ethereum-hits-the-road-to-4000-or-not-3d4g)
+- [Open document in &quot;Viewing&quot; mode](https://dev.to/rationalkunal/open-document-in-viewing-mode-5ej1)
+- [Rule Changing Poker Game &quot;Balatro&quot; recreated in JavaScript - Behind the Code](https://dev.to/michi/rule-changing-poker-game-balatro-recreated-in-javascript-behind-the-code-42bg)
+- [Understanding Lombok: Simplifying Java Code with Ease](https://dev.to/fullstackjava/understanding-lombok-simplifying-java-code-with-ease-o5i)
 <!-- BLOG-POST-LIST:END -->
 
