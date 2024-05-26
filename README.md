@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide To Choose A Database For Your Next Design](https://dev.to/isurumax26/guide-to-choose-a-database-for-your-next-design-5cam)
-- [Amplify-Gallery](https://dev.to/kakug/amplify-gallery-4g36)
-- [**SOLID PRINCIPLE OF SOFTWARE ENGINEERING**](https://dev.to/hussain101/solid-principle-of-software-engineering-8cf)
-- [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
+- [My first DEV community post](https://dev.to/mihailocv/my-first-dev-community-post-38b6)
+- [How to deploy an AWS EC2 Instance](https://dev.to/uhrinuh/how-to-deploy-an-aws-ec2-instance-l9k)
+- [Free headless CMS for devs](https://dev.to/rahulsingh_ca/free-headless-cms-for-devs-2h56)
+- [Echodiary : AI-Powered Diary with AWS Amplify](https://dev.to/sidjs/echodiary-ai-powered-diary-with-aws-amplify-i9a)
 <!-- BLOG-POST-LIST:END -->
 
