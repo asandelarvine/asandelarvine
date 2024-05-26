@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first DEV community post](https://dev.to/mihailocv/my-first-dev-community-post-38b6)
-- [How to deploy an AWS EC2 Instance](https://dev.to/uhrinuh/how-to-deploy-an-aws-ec2-instance-l9k)
-- [Free headless CMS for devs](https://dev.to/rahulsingh_ca/free-headless-cms-for-devs-2h56)
-- [Echodiary : AI-Powered Diary with AWS Amplify](https://dev.to/sidjs/echodiary-ai-powered-diary-with-aws-amplify-i9a)
+- [Guide to Python&#39;s Built-in Functions](https://dev.to/varshav/guide-to-pythons-built-in-functions-18oa)
+- [Creating a simple Message Bus: Episode 1](https://dev.to/breda/creating-a-simple-message-bus-episode-1-2hjm)
+- [30 Days of CPP](https://dev.to/shubhadip_bhowmik/30-days-of-cpp-4go7)
+- [Behind the scenes with FTP](https://dev.to/mahakfaheem/behind-the-scenes-with-ftp-28be)
 <!-- BLOG-POST-LIST:END -->
 
