@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse a String in Python in 60 Seconds!](https://dev.to/dipakahirav/reverse-a-string-in-python-in-60-seconds-4lk0)
-- [Javascript&#39;s Single Threaded Nature](https://dev.to/ikbalarslan/javascripts-single-threaded-nature-m33)
-- [WhatsApp for Developers](https://dev.to/kehindedaniels/whatsapp-for-developers-28dg)
-- [AWS announces new edge location in Egypt](https://dev.to/basel5001/aws-announces-new-edge-location-in-egypt-4e78)
+- [Learning AWS Day by Day — Day 75 — AWS CloudFront](https://dev.to/rksalo88/learning-aws-day-by-day-day-75-aws-cloudfront-4ndp)
+- [Amazon Forecast : Best Practices and Anti-Patterns implementing AIOps](https://dev.to/aws-builders/amazon-forecast-best-practices-and-anti-patterns-implementing-aiops-2p5a)
+- [Retail Industry Use Case with Brainboard: Enhanced Supply Chain Visibility and Management](https://dev.to/brainboard/retail-industry-use-case-with-brainboard-enhanced-supply-chain-visibility-and-management-1108)
+- [HOW TO CREATE AZURE VIRTUAL MACHINE USING WINDOWS 11](https://dev.to/edjdeborah/how-to-create-azure-virtual-machine-using-windows-11-m57)
 <!-- BLOG-POST-LIST:END -->
 
