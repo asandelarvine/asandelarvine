@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My zsh config](https://dev.to/mannu/my-zsh-config-4pop)
-- [Amazon Macie to detect sensitive data from your S3 Buckets](https://dev.to/asankab/amazon-macie-to-detect-sensitive-data-from-s3-buckets-1eol)
-- [How to Simplify Your Code with TypeScript Discriminated Union Types](https://dev.to/keyurparalkar/make-your-life-easy-with-discriminated-union-types-2moi)
-- [Display Flash Messages Using Laravel and Inertia](https://dev.to/paulund/display-flash-messages-using-laravel-and-inertia-2030)
+- [DC Bat Cowls with Amplify Gen 2 Fullstack Typescript](https://dev.to/aws-builders/dc-bat-cowls-with-amplify-gen-2-fullstack-typescript-43ac)
+- [JavaScript Tricks You Didn’t Know Existed](https://dev.to/delia_code/javascript-tricks-you-didnt-know-existed-4gog)
+- [Tools and Libraries that make my my life easier as a solo developer 🔥](https://dev.to/legationpro/tools-and-libraries-that-make-my-my-life-easier-as-a-solo-developer-3bj8)
+- [9 Caching Strategies for System Design Interviews](https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g)
 <!-- BLOG-POST-LIST:END -->
 
