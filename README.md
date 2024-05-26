@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to protect your Next.js Routes with reCAPTCHA](https://dev.to/ikoichi/how-to-protect-your-nextjs-routes-with-recaptcha-4p3k)
-- [Debugging Shaders: Mastering Tools and Methods for Effective Shader Debugging](https://dev.to/hayyanstudio/debugging-shaders-mastering-tools-and-methods-for-effective-shader-debugging-3en8)
-- [A Step-by-Step Tutorial on Setting Up Jenkins for Spring Boot Development](https://dev.to/fullstackjava/jenkins-and-spring-boot-a-comprehensive-guide-5f20)
-- [5 WordPress Plugin that You Must Have to Speed up Your Website in 2024](https://dev.to/ajeetraina/5-wordpress-plugin-that-you-must-have-to-speed-up-your-website-in-2024-o7b)
+- [My zsh config](https://dev.to/mannu/my-zsh-config-4pop)
+- [Amazon Macie to detect sensitive data from your S3 Buckets](https://dev.to/asankab/amazon-macie-to-detect-sensitive-data-from-s3-buckets-1eol)
+- [How to Simplify Your Code with TypeScript Discriminated Union Types](https://dev.to/keyurparalkar/make-your-life-easy-with-discriminated-union-types-2moi)
+- [Display Flash Messages Using Laravel and Inertia](https://dev.to/paulund/display-flash-messages-using-laravel-and-inertia-2030)
 <!-- BLOG-POST-LIST:END -->
 
