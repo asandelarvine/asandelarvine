@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Concept : Memory Allocation and Behavior](https://dev.to/sromelrey/javascript-concept-memory-allocation-and-behavior-485b)
+- [How to Fix React Router&#39;s Scroll Position on Page Transitions](https://dev.to/kingjames_x/how-to-fix-react-routers-scroll-position-on-page-transitions-7cb)
+- [Why Dockerize a React App?](https://dev.to/snehasishkonger/why-dockerize-a-react-app-17h1)
 - [MelodyLink: A Social Media App for Music Producers](https://dev.to/logarithmicspirals/melodylink-a-social-media-app-for-music-producers-22km)
-- [File accessed using keys and managed identities - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/file-accessed-using-keys-and-managed-identities-azure-files-and-azure-blobs-4ck4)
-- [Pathfinding Algorithms Part 2 with A*](https://dev.to/excaliburjs/pathfinding-part-2-with-a-ina)
-- [Exploring Web Development: Python + Django](https://dev.to/alexphebert2000/exploring-web-development-python-django-acb)
 <!-- BLOG-POST-LIST:END -->
 
