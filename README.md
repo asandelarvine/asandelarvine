@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [552. Student Attendance Record II](https://dev.to/mdarifulhaque/552-student-attendance-record-ii-1n4b)
-- [Introduction to Frida for Reverse Engineering](https://dev.to/phantomthreads/introduction-to-frida-for-reverse-engineering-1gc9)
-- [Learning Python](https://dev.to/adarshagupta/learning-python-2n4j)
-- [Understanding Higher-Order Components &lpar;HOCs&rpar; in React: A Beginner&#39;s Guide](https://dev.to/mradamus/understanding-higher-order-components-hocs-in-react-a-beginners-guide-4cp4)
+- [AWS Amplify Fullstack TypeScript Challenge Submission](https://dev.to/davidlewisgardin/aws-amplify-fullstack-typescript-challenge-submission-41fn)
+- [ChatGPT - Prompts for Code Review and Debugging](https://dev.to/techiesdiary/chatgpt-prompts-for-code-review-and-debugging-48j)
+- [Create a numbered textarea](https://dev.to/tidycoder/create-a-numbered-textarea-1340)
+- [Boost Your Productivity: Essential VSCode Extensions for Developers](https://dev.to/vidyarathna/boost-your-productivity-essential-vscode-extensions-for-developers-25bd)
 <!-- BLOG-POST-LIST:END -->
 
