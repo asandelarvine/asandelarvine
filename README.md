@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DC Bat Cowls with Amplify Gen 2 Fullstack Typescript](https://dev.to/aws-builders/dc-bat-cowls-with-amplify-gen-2-fullstack-typescript-43ac)
-- [JavaScript Tricks You Didn’t Know Existed](https://dev.to/delia_code/javascript-tricks-you-didnt-know-existed-4gog)
-- [Tools and Libraries that make my my life easier as a solo developer 🔥](https://dev.to/legationpro/tools-and-libraries-that-make-my-my-life-easier-as-a-solo-developer-3bj8)
-- [9 Caching Strategies for System Design Interviews](https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g)
+- [Docker Build with Mac](https://dev.to/anilxnmdrz/docker-build-with-mac-2j9d)
+- [Understanding JavaScript keyword var, let, const and hoisting.](https://dev.to/sromelrey/understanding-javascript-keyword-var-let-const-and-hoisting-jhh)
+- [Answer: Cannot read properties of undefined &lpar;reading &#39;invalidatesTags&#39;&rpar; [duplicate]](https://dev.to/hossain45/answer-cannot-read-properties-of-undefined-reading-invalidatestags-duplicate-igp)
+- [OpenAI Assistant with NextJS](https://dev.to/nhd2106/openai-assistant-with-nextjs-1c1n)
 <!-- BLOG-POST-LIST:END -->
 
