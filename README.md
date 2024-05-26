@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Share Your AI Insights: How Do You Use ChatGPT for Work and Studying?](https://dev.to/per-starke-642/share-your-ai-insights-how-do-you-use-chatgpt-for-work-and-studying-e78)
-- [How to create an Azure resource group from the Azure portal](https://dev.to/edjdeborah/how-to-create-an-azure-resource-group-from-the-azure-portal-2gk1)
-- [Market Weekly Recap: Bitcoin Gains Momentum as Ethereum Enters ETF-Based Rally](https://dev.to/endeo/market-weekly-recap-bitcoin-gains-momentum-as-ethereum-enters-etf-based-rally-45bg)
-- [Code Spirited MVP - A P2P Coding Bootcamp Organizer](https://dev.to/llinodelrosario/code-spirited-mvp-a-p2p-coding-bootcamp-organizer-2l9d)
+- [Reverse a String in Python in 60 Seconds!](https://dev.to/dipakahirav/reverse-a-string-in-python-in-60-seconds-4lk0)
+- [Javascript&#39;s Single Threaded Nature](https://dev.to/ikbalarslan/javascripts-single-threaded-nature-m33)
+- [WhatsApp for Developers](https://dev.to/kehindedaniels/whatsapp-for-developers-28dg)
+- [AWS announces new edge location in Egypt](https://dev.to/basel5001/aws-announces-new-edge-location-in-egypt-4e78)
 <!-- BLOG-POST-LIST:END -->
 
