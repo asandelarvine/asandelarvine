@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a shopping cart using React, Redux toolkit](https://dev.to/clarenceg01/building-a-shopping-cart-using-react-redux-toolkit-1fd5)
-- [Differences between Public, Private, Protected, and Abstract Modifiers in TypeScript](https://dev.to/doccaio/differences-between-public-private-protected-and-abstract-modifiers-in-typescript-4mgk)
-- [What is Natural Language Processing &lpar;NLP&rpar;?](https://dev.to/gevorg_grigoryan_576e0dc8/what-is-natural-language-processing-nlp-4dnf)
-- [Dynamic Language v.s. Static Language](https://dev.to/ikbalarslan/dynamic-language-vs-static-language-942)
+- [Share Your AI Insights: How Do You Use ChatGPT for Work and Studying?](https://dev.to/per-starke-642/share-your-ai-insights-how-do-you-use-chatgpt-for-work-and-studying-e78)
+- [How to create an Azure resource group from the Azure portal](https://dev.to/edjdeborah/how-to-create-an-azure-resource-group-from-the-azure-portal-2gk1)
+- [Market Weekly Recap: Bitcoin Gains Momentum as Ethereum Enters ETF-Based Rally](https://dev.to/endeo/market-weekly-recap-bitcoin-gains-momentum-as-ethereum-enters-etf-based-rally-45bg)
+- [Code Spirited MVP - A P2P Coding Bootcamp Organizer](https://dev.to/llinodelrosario/code-spirited-mvp-a-p2p-coding-bootcamp-organizer-2l9d)
 <!-- BLOG-POST-LIST:END -->
 
