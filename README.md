@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Software](https://dev.to/r4nd3l/dev-software-3bh1)
-- [Dev: Software](https://dev.to/r4nd3l/dev-software-3pmh)
-- [Creating PDF and EPUB eBook from Laravel Documentation using Ibis Next](https://dev.to/robertobutti/creating-pdf-and-epub-ebook-from-laravel-documentation-using-ibis-next-3bgc)
-- [¿Morirá React como jQuery?](https://dev.to/gfouz/morira-react-como-jquery-13bl)
+- [Understanding WP-Cron: The Essential Guide](https://dev.to/mikevarenek/understanding-wp-cron-the-essential-guide-3mn7)
+- [Explaining the Concept of the State Pattern in Flutter](https://dev.to/anurika_joy_c83cb5039b071/explaining-the-concept-of-the-state-pattern-in-flutter-4ool)
+- [How To Build a Data Analytics Dashboard](https://dev.to/domfive/how-to-build-a-data-analytics-dashboard-5805)
+- [Online Journal](https://dev.to/imkarthikeyan/online-journal-2icm)
 <!-- BLOG-POST-LIST:END -->
 
