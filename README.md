@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 7](https://dev.to/humberd/game-of-purpose-day-7-1opi)
-- [Appunti sul machine learning](https://dev.to/trincadev/appunti-sul-machine-learning-ijn)
-- [How to learn machine learning](https://dev.to/trincadev/how-to-learn-machine-learning-888)
-- [Nginx WebServer on Ubuntu OS running via EC2 &lpar;AWS&rpar;](https://dev.to/olawaleoloye/nginx-webserver-on-ubuntu-os-running-via-ec2-aws-1l5g)
+- [🔥 I made a simple JavaScript to Python Converter with AI 🔄](https://dev.to/best_codes/i-made-a-simple-javascript-to-python-converter-with-ai-3069)
+- [Resolving CSS and HTML Not Displaying in Laravel Hosted Files](https://dev.to/japhethjoepari/resolving-css-and-html-not-displaying-in-laravel-hosted-files-2605)
+- [Best sites to practice your programming logic 💻](https://dev.to/miguelrodriguezp99/best-sites-to-practice-your-programming-logic-4pgc)
+- [Test our AI Documentation Tool in its Beta version !!!!!!](https://dev.to/lotfijb/test-our-ai-documentation-tool-in-its-beta-version--509f)
 <!-- BLOG-POST-LIST:END -->
 
