@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AWS Day by Day — Day 75 — AWS CloudFront](https://dev.to/rksalo88/learning-aws-day-by-day-day-75-aws-cloudfront-4ndp)
-- [Amazon Forecast : Best Practices and Anti-Patterns implementing AIOps](https://dev.to/aws-builders/amazon-forecast-best-practices-and-anti-patterns-implementing-aiops-2p5a)
-- [Retail Industry Use Case with Brainboard: Enhanced Supply Chain Visibility and Management](https://dev.to/brainboard/retail-industry-use-case-with-brainboard-enhanced-supply-chain-visibility-and-management-1108)
-- [HOW TO CREATE AZURE VIRTUAL MACHINE USING WINDOWS 11](https://dev.to/edjdeborah/how-to-create-azure-virtual-machine-using-windows-11-m57)
+- [552. Student Attendance Record II](https://dev.to/mdarifulhaque/552-student-attendance-record-ii-1n4b)
+- [Introduction to Frida for Reverse Engineering](https://dev.to/phantomthreads/introduction-to-frida-for-reverse-engineering-1gc9)
+- [Learning Python](https://dev.to/adarshagupta/learning-python-2n4j)
+- [Understanding Higher-Order Components &lpar;HOCs&rpar; in React: A Beginner&#39;s Guide](https://dev.to/mradamus/understanding-higher-order-components-hocs-in-react-a-beginners-guide-4cp4)
 <!-- BLOG-POST-LIST:END -->
 
