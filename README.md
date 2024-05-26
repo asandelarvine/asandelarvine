@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Amplify Fullstack TypeScript Challenge Submission](https://dev.to/davidlewisgardin/aws-amplify-fullstack-typescript-challenge-submission-41fn)
-- [ChatGPT - Prompts for Code Review and Debugging](https://dev.to/techiesdiary/chatgpt-prompts-for-code-review-and-debugging-48j)
-- [Create a numbered textarea](https://dev.to/tidycoder/create-a-numbered-textarea-1340)
-- [Boost Your Productivity: Essential VSCode Extensions for Developers](https://dev.to/vidyarathna/boost-your-productivity-essential-vscode-extensions-for-developers-25bd)
+- [Guide To Choose A Database For Your Next Design](https://dev.to/isurumax26/guide-to-choose-a-database-for-your-next-design-5cam)
+- [Amplify-Gallery](https://dev.to/kakug/amplify-gallery-4g36)
+- [**SOLID PRINCIPLE OF SOFTWARE ENGINEERING**](https://dev.to/hussain101/solid-principle-of-software-engineering-8cf)
+- [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
 <!-- BLOG-POST-LIST:END -->
 
