@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Short Overview: Micro-Frontends 🧩](https://dev.to/buildwebcrumbs/short-overview-micro-frontends-2f5i)
-- [What is the git index?](https://dev.to/colin-williams-dev/what-is-the-git-index-2485)
-- [Create a Python app easily with Streamlit](https://dev.to/kevin75/create-a-python-app-easily-with-streamlit-38k3)
-- [My mistakes regarding the tech SEO optimization of my website](https://dev.to/prox_sea/my-mistakes-regarding-the-tech-seo-optimization-of-my-website-46hb)
+- [Web Sunucuları: İnternetin Temel Taşları](https://dev.to/teknikbilimler/web-sunuculari-internetin-temel-taslari-36k9)
+- [Explore the world with Google Maps APIs](https://dev.to/wescpy/explore-the-world-with-google-maps-apis-lhj)
+- [64-Bit Assembly Language Lab 3 part-2](https://dev.to/yuktimulani/64-bit-assembly-language-lab-3-part-2-f9p)
+- [Mastering Regex: From Beginner to Expert in Find and Replace](https://dev.to/silverindigo/mastering-regex-from-beginner-to-expert-in-find-and-replace-4350)
 <!-- BLOG-POST-LIST:END -->
 
