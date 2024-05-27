@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Sunucuları: İnternetin Temel Taşları](https://dev.to/teknikbilimler/web-sunuculari-internetin-temel-taslari-36k9)
-- [Explore the world with Google Maps APIs](https://dev.to/wescpy/explore-the-world-with-google-maps-apis-lhj)
-- [64-Bit Assembly Language Lab 3 part-2](https://dev.to/yuktimulani/64-bit-assembly-language-lab-3-part-2-f9p)
-- [Mastering Regex: From Beginner to Expert in Find and Replace](https://dev.to/silverindigo/mastering-regex-from-beginner-to-expert-in-find-and-replace-4350)
+- [How to Fix Stuck Ready Event in Discord Embedded App SDK](https://dev.to/waveplay/how-to-fix-stuck-ready-event-in-discord-embedded-app-sdk-h9e)
+- [JOTAI&lpar;GLOBAL STATE MANGEMENT&rpar;](https://dev.to/hussain101/jotaiglobal-state-mangement-2aaa)
+- [Exploring the Cutting-Edge: Software Testing Trends in 2024](https://dev.to/cheikh_sadbouh_abd98924d6/exploring-the-cutting-edge-software-testing-trends-in-2024-4e83)
+- [¿Qué esta pasando con Gemini AI de Google?](https://dev.to/marianocodes/que-esta-pasando-con-gemini-ai-de-google-h06)
 <!-- BLOG-POST-LIST:END -->
 
