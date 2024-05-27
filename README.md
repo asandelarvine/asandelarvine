@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [External CSS to Inline CSS Converter](https://dev.to/foxinfotech/external-css-to-inline-css-converter-32k5)
-- [GitHub Basics: Creating Repository and Maintaining It](https://dev.to/swahilipotdevs/github-basics-creating-repository-and-maintaining-it-4i04)
-- [How to Create Storage Account With High Availability On Microsoft Azure.](https://dev.to/olaraph/how-to-create-storage-account-with-high-availability-on-microsoft-azure-42a4)
-- [Unable to verify digital signature with public key and detached payload](https://dev.to/shreya_dalvi_40fd31b69610/unable-to-verify-digital-signature-with-public-key-and-detached-payload-3dh5)
+- [How to Use loading state in React with Mantine](https://dev.to/aaronnfs/how-to-use-loading-state-in-react-with-mantine-3dnd)
+- [What can we learn from Bootstrap CSS](https://dev.to/paras594/what-can-we-learn-from-bootstrap-css-42ll)
+- [What is AI in Cybersecurity?](https://dev.to/whotarusharora/what-is-ai-in-cybersecurity-5ali)
+- [Ace Your Interviews with this ONE Technique!](https://dev.to/magi-magificient/ace-your-interviews-with-this-one-technique-1lh5)
 <!-- BLOG-POST-LIST:END -->
 
