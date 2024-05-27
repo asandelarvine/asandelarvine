@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use loading state in React with Mantine](https://dev.to/aaronnfs/how-to-use-loading-state-in-react-with-mantine-3dnd)
-- [What can we learn from Bootstrap CSS](https://dev.to/paras594/what-can-we-learn-from-bootstrap-css-42ll)
-- [What is AI in Cybersecurity?](https://dev.to/whotarusharora/what-is-ai-in-cybersecurity-5ali)
-- [Ace Your Interviews with this ONE Technique!](https://dev.to/magi-magificient/ace-your-interviews-with-this-one-technique-1lh5)
+- [Must-have resources for new .NET Aspire developers](https://dev.to/asimmon/must-have-resources-for-new-net-aspire-developers-3jc2)
+- [This week&#39;s API summary round-up: Vessel Info, Vessel Finder and port finder](https://dev.to/worldindata/this-weeks-api-summary-round-up-vessel-info-vessel-finder-and-port-finder-il0)
+- [Amazon Location Service Plugin for QGIS released in OSS](https://dev.to/aws-heroes/amazon-location-service-plugin-for-qgis-released-in-oss-28fd)
+- [Getting Started with GitHub CLI: A Quick Guide to Installation and Usage](https://dev.to/swahilipotdevs/getting-started-with-github-cli-a-quick-guide-to-installation-and-usage-lhd)
 <!-- BLOG-POST-LIST:END -->
 
