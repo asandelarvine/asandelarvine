@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Vite.js for My React Projects](https://dev.to/guillaumeduhan/why-i-chose-vitejs-for-my-react-projects-p43)
-- [What’s New in React 19: Key Features and Enhancements](https://dev.to/jehnz/whats-new-in-react-19-key-features-and-enhancements-26h6)
-- [How to Land Your First Job as a Web Developer: Tips and Resources](https://dev.to/delia_code/how-to-land-your-first-job-as-a-web-developer-tips-and-resources-2301)
-- [National Identity-focused Social Platform](https://dev.to/floratobydev/national-identity-focused-social-platform-150o)
+- [Provide storage for the public website](https://dev.to/opsyog/provide-storage-for-the-public-website-2e3p)
+- [Zabbix ile Prometheus Metrik Formatında Kafka İzleme](https://dev.to/aciklab/zabbix-ile-prometheus-metrik-formatinda-kafka-izleme-3knk)
+- [Blog App using AWS Amplify, Angular](https://dev.to/vuchuru27916/blog-app-using-aws-amplify-angular-3dd3)
+- [Recruitify - Where Talent Meets Opportunity](https://dev.to/thegeekyamit/recruitify-where-talent-meets-opportunity-1185)
 <!-- BLOG-POST-LIST:END -->
 
