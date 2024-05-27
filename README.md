@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Replaced Gaming with Coding and Became a Web Developer](https://dev.to/proflead/how-i-replaced-gaming-with-coding-and-became-a-web-developer-18bf)
-- [Component Services Management Shortcut in Windows 11](https://dev.to/winsidescom/component-services-management-shortcut-in-windows-11-532f)
-- [Disable Dualsence touchpad on Ubuntu](https://dev.to/gordinmitya/disable-dualsence-touchpad-on-ubuntu-2j2i)
-- [Getting Started with VSCode: A Beginner&#39;s Guide](https://dev.to/umeshtharukaofficial/getting-started-with-vscode-a-beginners-guide-2mic)
+- [O que é strict mode no JavaScript?](https://dev.to/cristuker/o-que-e-strict-mode-no-javascript-16cb)
+- [Terraform Destroy Command: A Guide to Controlled Infrastructure Removal](https://dev.to/env0/terraform-destroy-command-a-guide-to-controlled-infrastructure-removal-4af8)
+- [A Guide to Case-Insensitive String Comparison](https://dev.to/marcobustillo/a-guide-to-case-insensitive-string-comparison-3339)
+- [Day 4 of my progress as a vue dev](https://dev.to/zain725342/day-4-of-my-progress-as-a-vue-dev-1h09)
 <!-- BLOG-POST-LIST:END -->
 
