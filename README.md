@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Stuck Ready Event in Discord Embedded App SDK](https://dev.to/waveplay/how-to-fix-stuck-ready-event-in-discord-embedded-app-sdk-h9e)
-- [JOTAI&lpar;GLOBAL STATE MANGEMENT&rpar;](https://dev.to/hussain101/jotaiglobal-state-mangement-2aaa)
-- [Exploring the Cutting-Edge: Software Testing Trends in 2024](https://dev.to/cheikh_sadbouh_abd98924d6/exploring-the-cutting-edge-software-testing-trends-in-2024-4e83)
-- [¿Qué esta pasando con Gemini AI de Google?](https://dev.to/marianocodes/que-esta-pasando-con-gemini-ai-de-google-h06)
+- [64-Bit Assembly Language Lab 3 part-3](https://dev.to/yuktimulani/64-bit-assembly-language-lab-3-part-3-3ipi)
+- [Showcase Your GitHub Profile: Contribute to the &quot;Cool GitHub Profile README&quot; Repository!](https://dev.to/nikhilshukla/showcase-your-github-profile-contribute-to-the-cool-github-profile-readme-repository-4c1p)
+- [JavaScript&#39;s Gotchas, also known as &quot;WTF JS](https://dev.to/falselight/javascripts-gotchas-also-known-as-wtf-js-obf)
+- [help with apps script](https://dev.to/emily_tischer_bf4f731fb26/help-with-apps-script-4180)
 <!-- BLOG-POST-LIST:END -->
 
