@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4l95)
-- [Build a Scalable REST API with TypeScript, Express, Drizzle ORM, and Turso Database: A Step-by-Step Guide](https://dev.to/ibrocodes/build-a-scalable-rest-api-with-typescript-express-drizzle-orm-and-turso-database-a-step-by-step-guide-2hnd)
-- [GRAPHQL](https://dev.to/dariusc16/graphql-38ei)
-- [I made a clicker game in scratch in just 1 hour](https://dev.to/dino2328/i-made-a-clicker-game-in-scratch-in-just-an-hour-27k3)
+- [Host a Static Website using Amazon S3 and Serve it Through Amazon CloudFront.](https://dev.to/chigozieco/host-a-static-website-using-amazon-s3-and-serve-it-through-amazon-cloudfront-3om8)
+- [My suitable posts](https://dev.to/hieupham259/my-suitable-posts-5d1i)
+- [Mapping Your Rails Journey: A Guide to Leaflet Integration](https://dev.to/asimkhan2019/mapping-your-rails-journey-a-guide-to-leaflet-integration-390l)
+- [SaladUI - Implement avatar component for Phoenix LiveView](https://dev.to/bluzky/saladui-avatar-component-for-phoenix-liveview-3j1l)
 <!-- BLOG-POST-LIST:END -->
 
