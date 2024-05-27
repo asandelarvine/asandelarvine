@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Equality Check](https://dev.to/ikbalarslan/javascript-equality-check-37m6)
-- [The only tutorial to learn Javascript Callbacks](https://dev.to/turalsuleymani/the-only-tutorial-to-learn-javascript-callbacks-hml)
-- [AI Chrome Extension - Web Summarizer &amp; Translator - Your Essential Tool for Learning English](https://dev.to/minhhungit/chrome-extension-web-summarizer-translator-your-essential-tool-for-learning-english-59dd)
-- [Adding dd&lpar;&rpar; in Wordpress development](https://dev.to/rabibsust/adding-dd-in-wordpress-development-124h)
+- [Short Overview: Micro-Frontends 🧩](https://dev.to/buildwebcrumbs/short-overview-micro-frontends-2f5i)
+- [What is the git index?](https://dev.to/colin-williams-dev/what-is-the-git-index-2485)
+- [Create a Python app easily with Streamlit](https://dev.to/kevin75/create-a-python-app-easily-with-streamlit-38k3)
+- [My mistakes regarding the tech SEO optimization of my website](https://dev.to/prox_sea/my-mistakes-regarding-the-tech-seo-optimization-of-my-website-46hb)
 <!-- BLOG-POST-LIST:END -->
 
