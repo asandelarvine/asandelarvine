@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Host a Static Website using Amazon S3 and Serve it Through Amazon CloudFront.](https://dev.to/chigozieco/host-a-static-website-using-amazon-s3-and-serve-it-through-amazon-cloudfront-3om8)
-- [My suitable posts](https://dev.to/hieupham259/my-suitable-posts-5d1i)
-- [Mapping Your Rails Journey: A Guide to Leaflet Integration](https://dev.to/asimkhan2019/mapping-your-rails-journey-a-guide-to-leaflet-integration-390l)
-- [SaladUI - Implement avatar component for Phoenix LiveView](https://dev.to/bluzky/saladui-avatar-component-for-phoenix-liveview-3j1l)
+- [Javascript Working Mechanism](https://dev.to/ikbalarslan/javascript-working-mechanism-351n)
+- [How To Manage IAM Access Analyzer in AWS Organizations Using Terraform](https://dev.to/aws-builders/how-to-manage-iam-access-analyzer-in-aws-organizations-using-terraform-34fi)
+- [7 Reasons, Why You Should Learn the Power Platform.](https://dev.to/primado/7-reasons-why-you-should-learn-the-power-platform-39io)
+- [Interactive Loading Animation with CSS](https://dev.to/alikhanzada577/interactive-loading-animation-with-css-26fm)
 <!-- BLOG-POST-LIST:END -->
 
