@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Must-have resources for new .NET Aspire developers](https://dev.to/asimmon/must-have-resources-for-new-net-aspire-developers-3jc2)
-- [This week&#39;s API summary round-up: Vessel Info, Vessel Finder and port finder](https://dev.to/worldindata/this-weeks-api-summary-round-up-vessel-info-vessel-finder-and-port-finder-il0)
-- [Amazon Location Service Plugin for QGIS released in OSS](https://dev.to/aws-heroes/amazon-location-service-plugin-for-qgis-released-in-oss-28fd)
-- [Getting Started with GitHub CLI: A Quick Guide to Installation and Usage](https://dev.to/swahilipotdevs/getting-started-with-github-cli-a-quick-guide-to-installation-and-usage-lhd)
+- [How I Replaced Gaming with Coding and Became a Web Developer](https://dev.to/proflead/how-i-replaced-gaming-with-coding-and-became-a-web-developer-18bf)
+- [Component Services Management Shortcut in Windows 11](https://dev.to/winsidescom/component-services-management-shortcut-in-windows-11-532f)
+- [Disable Dualsence touchpad on Ubuntu](https://dev.to/gordinmitya/disable-dualsence-touchpad-on-ubuntu-2j2i)
+- [Getting Started with VSCode: A Beginner&#39;s Guide](https://dev.to/umeshtharukaofficial/getting-started-with-vscode-a-beginners-guide-2mic)
 <!-- BLOG-POST-LIST:END -->
 
