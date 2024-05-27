@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide shared file storage for the company offices.](https://dev.to/opsyog/provide-shared-file-storage-for-the-company-offices-12k)
-- [Implement React v18 from Scratch Using WASM and Rust - [14] Implement Scheduler](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-14-implement-scheduler-dm2)
-- [Fix &quot;The permission &#39;KILL DATABASE CONNECTION&#39; is not supported in this version of SQL Server&quot; while importing a D365FO .bacpac](https://dev.to/edoardu/fix-the-permission-kill-database-connection-is-not-supported-in-this-version-of-sql-server-while-importing-a-d365fo-bacpac-4k81)
-- [How to Deploy a Django Full-stack Application over Kubernetes](https://dev.to/devtron_/how-to-deploy-a-django-full-stack-application-over-kubernetes-1h5p)
+- [Recipe App submission for AWS Amplify Fullstack Typescript Challenge](https://dev.to/katvengo/recipe-app-submission-for-aws-amplify-fullstack-typescript-challenge-2p4g)
+- [Django: Using models](https://dev.to/samuellubliner/django-using-models-54bh)
+- [Elixir: Strengths](https://dev.to/cody-daigle/elixir-strengths-53mp)
+- [Introducing Verse.db: The Next Generation of Lightweight, High-Performance Databases](https://dev.to/jedi-studio/introducing-versedb-the-next-generation-of-lightweight-high-performance-databases-2ple)
 <!-- BLOG-POST-LIST:END -->
 
