@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Different Looping Techniques in JavaScript 🚀🔄](https://dev.to/amatisse/exploring-different-looping-techniques-in-javascript-3j9n)
-- [Weekly Roundup 054 &lpar;May 20&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-054-may-20-hot-topics-in-workplace-sharepoint-and-powerplatform-jd6)
-- [Laravel 10 Installation with necessary functions pt 1.](https://dev.to/dgloriaweb/laravel-10-installation-with-necessary-functions-pt-1-4ac2)
-- [Lazy load components in Nuxt to improve performance](https://dev.to/jacobandrewsky/lazy-load-components-in-nuxt-to-improve-performance-4lg6)
+- [External CSS to Inline CSS Converter](https://dev.to/foxinfotech/external-css-to-inline-css-converter-32k5)
+- [GitHub Basics: Creating Repository and Maintaining It](https://dev.to/swahilipotdevs/github-basics-creating-repository-and-maintaining-it-4i04)
+- [How to Create Storage Account With High Availability On Microsoft Azure.](https://dev.to/olaraph/how-to-create-storage-account-with-high-availability-on-microsoft-azure-42a4)
+- [Unable to verify digital signature with public key and detached payload](https://dev.to/shreya_dalvi_40fd31b69610/unable-to-verify-digital-signature-with-public-key-and-detached-payload-3dh5)
 <!-- BLOG-POST-LIST:END -->
 
