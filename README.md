@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing AWS VPC Security: Accessing Your Network with a Private Jumpbox using Tailscale](https://dev.to/tevindeale/enhancing-aws-vpc-security-accessing-your-network-with-a-private-jumpbox-using-tailscale-1k83)
-- [Dev na Gringa: Processos Seletivos e Onde Estudar Para Eles](https://dev.to/lucasheriques/dev-na-gringa-processos-seletivos-e-onde-estudar-para-eles-b9f)
-- [Introduction to Time Series Analysis with Python](https://dev.to/kartikmehta8/introduction-to-time-series-analysis-with-python-15o1)
-- [Say Goodbye to Flaky Rendering &amp; Animation Issues](https://dev.to/anurika_joy_c83cb5039b071/say-goodbye-to-flaky-rendering-animation-issues-h0)
+- [What Are The Uses of JavaScript](https://dev.to/thekarlesi/what-are-the-uses-of-javascript-32io)
+- [HTML may be adding a native switch attribute to checkbox inputs!](https://dev.to/rphilippe2/html-may-be-adding-a-native-switch-attribute-to-checkbox-inputs-42db)
+- [Usando a IA do Google SafeSearch em um cenário real](https://dev.to/fillipedornelas/usando-a-ia-do-google-safesearch-em-um-cenario-real-2fii)
+- [What&#39;s the method to hook into the side panel to add panels in the settings group?](https://dev.to/kirk_wallace/whats-the-method-to-hook-into-the-side-panel-to-add-panels-in-the-settings-group-2oca)
 <!-- BLOG-POST-LIST:END -->
 
