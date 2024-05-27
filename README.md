@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VanillaJS Lazy Load images/video/embed/youtube](https://dev.to/ktrblog/vanillajs-lazy-load-imagesvideoembedyoutube-3583)
-- [Choosing the Best Messaging System: Practical Guide](https://dev.to/patrick0806/choosing-the-best-messaging-system-practical-guide-286m)
-- [Choosing the Best Messaging System: Practical Guide**](https://dev.to/patrick0806/choosing-the-best-messaging-system-practical-guide-pda)
-- [Understanding MongoDB Atlas](https://dev.to/vidyarathna/understanding-mongodb-atlas-i2)
+- [Javascript Equality Check](https://dev.to/ikbalarslan/javascript-equality-check-37m6)
+- [The only tutorial to learn Javascript Callbacks](https://dev.to/turalsuleymani/the-only-tutorial-to-learn-javascript-callbacks-hml)
+- [AI Chrome Extension - Web Summarizer &amp; Translator - Your Essential Tool for Learning English](https://dev.to/minhhungit/chrome-extension-web-summarizer-translator-your-essential-tool-for-learning-english-59dd)
+- [Adding dd&lpar;&rpar; in Wordpress development](https://dev.to/rabibsust/adding-dd-in-wordpress-development-124h)
 <!-- BLOG-POST-LIST:END -->
 
