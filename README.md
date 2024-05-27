@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é strict mode no JavaScript?](https://dev.to/cristuker/o-que-e-strict-mode-no-javascript-16cb)
-- [Terraform Destroy Command: A Guide to Controlled Infrastructure Removal](https://dev.to/env0/terraform-destroy-command-a-guide-to-controlled-infrastructure-removal-4af8)
-- [A Guide to Case-Insensitive String Comparison](https://dev.to/marcobustillo/a-guide-to-case-insensitive-string-comparison-3339)
-- [Day 4 of my progress as a vue dev](https://dev.to/zain725342/day-4-of-my-progress-as-a-vue-dev-1h09)
+- [Meme Monday](https://dev.to/ben/meme-monday-4l95)
+- [Build a Scalable REST API with TypeScript, Express, Drizzle ORM, and Turso Database: A Step-by-Step Guide](https://dev.to/ibrocodes/build-a-scalable-rest-api-with-typescript-express-drizzle-orm-and-turso-database-a-step-by-step-guide-2hnd)
+- [GRAPHQL](https://dev.to/dariusc16/graphql-38ei)
+- [I made a clicker game in scratch in just 1 hour](https://dev.to/dino2328/i-made-a-clicker-game-in-scratch-in-just-an-hour-27k3)
 <!-- BLOG-POST-LIST:END -->
 
