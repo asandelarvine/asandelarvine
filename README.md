@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding WP-Cron: The Essential Guide](https://dev.to/mikevarenek/understanding-wp-cron-the-essential-guide-3mn7)
-- [Explaining the Concept of the State Pattern in Flutter](https://dev.to/anurika_joy_c83cb5039b071/explaining-the-concept-of-the-state-pattern-in-flutter-4ool)
-- [How To Build a Data Analytics Dashboard](https://dev.to/domfive/how-to-build-a-data-analytics-dashboard-5805)
-- [Online Journal](https://dev.to/imkarthikeyan/online-journal-2icm)
+- [Enhancing AWS VPC Security: Accessing Your Network with a Private Jumpbox using Tailscale](https://dev.to/tevindeale/enhancing-aws-vpc-security-accessing-your-network-with-a-private-jumpbox-using-tailscale-1k83)
+- [Dev na Gringa: Processos Seletivos e Onde Estudar Para Eles](https://dev.to/lucasheriques/dev-na-gringa-processos-seletivos-e-onde-estudar-para-eles-b9f)
+- [Introduction to Time Series Analysis with Python](https://dev.to/kartikmehta8/introduction-to-time-series-analysis-with-python-15o1)
+- [Say Goodbye to Flaky Rendering &amp; Animation Issues](https://dev.to/anurika_joy_c83cb5039b071/say-goodbye-to-flaky-rendering-animation-issues-h0)
 <!-- BLOG-POST-LIST:END -->
 
