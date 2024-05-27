@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recipe App submission for AWS Amplify Fullstack Typescript Challenge](https://dev.to/katvengo/recipe-app-submission-for-aws-amplify-fullstack-typescript-challenge-2p4g)
-- [Django: Using models](https://dev.to/samuellubliner/django-using-models-54bh)
-- [Elixir: Strengths](https://dev.to/cody-daigle/elixir-strengths-53mp)
-- [Introducing Verse.db: The Next Generation of Lightweight, High-Performance Databases](https://dev.to/jedi-studio/introducing-versedb-the-next-generation-of-lightweight-high-performance-databases-2ple)
+- [Why I Chose Vite.js for My React Projects](https://dev.to/guillaumeduhan/why-i-chose-vitejs-for-my-react-projects-p43)
+- [What’s New in React 19: Key Features and Enhancements](https://dev.to/jehnz/whats-new-in-react-19-key-features-and-enhancements-26h6)
+- [How to Land Your First Job as a Web Developer: Tips and Resources](https://dev.to/delia_code/how-to-land-your-first-job-as-a-web-developer-tips-and-resources-2301)
+- [National Identity-focused Social Platform](https://dev.to/floratobydev/national-identity-focused-social-platform-150o)
 <!-- BLOG-POST-LIST:END -->
 
