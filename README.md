@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Working Mechanism](https://dev.to/ikbalarslan/javascript-working-mechanism-351n)
-- [How To Manage IAM Access Analyzer in AWS Organizations Using Terraform](https://dev.to/aws-builders/how-to-manage-iam-access-analyzer-in-aws-organizations-using-terraform-34fi)
-- [7 Reasons, Why You Should Learn the Power Platform.](https://dev.to/primado/7-reasons-why-you-should-learn-the-power-platform-39io)
-- [Interactive Loading Animation with CSS](https://dev.to/alikhanzada577/interactive-loading-animation-with-css-26fm)
+- [How to Upload a File in nodejs: A step by step guide](https://dev.to/luqmanshaban/how-to-upload-a-file-in-nodejs-a-step-by-step-guide-5cf6)
+- [Software Testing](https://dev.to/samu_deva/software-testing-kcm)
+- [I made a framework, looking for early adopters :D](https://dev.to/mcharytoniuk/i-made-a-framework-looking-for-early-adopters-d-1k0l)
+- [Web Development in the Age of 5G: What Faster Speeds Mean for Developers](https://dev.to/buildwebcrumbs/web-development-in-the-age-of-5g-what-faster-speeds-mean-for-developers-1eg4)
 <!-- BLOG-POST-LIST:END -->
 
