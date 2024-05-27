@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the public website](https://dev.to/opsyog/provide-storage-for-the-public-website-2e3p)
-- [Zabbix ile Prometheus Metrik Formatında Kafka İzleme](https://dev.to/aciklab/zabbix-ile-prometheus-metrik-formatinda-kafka-izleme-3knk)
-- [Blog App using AWS Amplify, Angular](https://dev.to/vuchuru27916/blog-app-using-aws-amplify-angular-3dd3)
-- [Recruitify - Where Talent Meets Opportunity](https://dev.to/thegeekyamit/recruitify-where-talent-meets-opportunity-1185)
+- [👾 Using Arguments in Bash Scripts](https://dev.to/refine/using-arguments-in-bash-scripts-2d69)
+- [Building a subscription tracker Desktop and iOS app with compose multiplatform - Part 1](https://dev.to/kuroski/building-a-subscription-tracker-desktop-and-ios-app-with-compose-multiplatform-5feg)
+- [URL Tracker DevLog #4: The first alpha version of the new URL Tracker is out! 🎉](https://dev.to/d_inventor/url-tracker-devlog-4-the-first-alpha-version-of-the-new-url-tracker-is-out-2ipc)
+- [Where MonDev tools comes from](https://dev.to/giuliano1993/where-mondev-tools-comes-from-57ni)
 <!-- BLOG-POST-LIST:END -->
 
