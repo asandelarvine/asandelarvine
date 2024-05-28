@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customize the Turbo Progress Bar](https://dev.to/railsdesigner/customize-the-turbo-progress-bar-p6j)
-- [Exploring the Intersection of JavaScript Development and Cryptocurrency Exchanges](https://dev.to/klimd1389/exploring-the-intersection-of-javascript-development-and-cryptocurrency-exchanges-3f71)
-- [Basic explanation of how whitelisting works in Solidity](https://dev.to/muratcanyuksel/basic-explanation-of-how-whitelisting-works-in-solidity-f19)
-- [Guide: How to Develop Web3 DApps on Mint Blockchain Using NFTScan API](https://dev.to/nft_research/guide-how-to-develop-web3-dapps-on-mint-blockchain-using-nftscan-api-2690)
+- [Herramientas SSDLC: SAST, DAST y SCA](https://dev.to/rodri-oliveira-dev/herramientas-ssdlc-sast-dast-y-sca-7ja)
+- [Contours on MYSQL Aurora Database with Blue/Green Deployment and Switch Over](https://dev.to/aws-builders/contours-on-mysql-aurora-database-with-bluegreen-deployment-and-switch-over-3i7k)
+- [Solving the Radix Integration Issue in Next.js](https://dev.to/workodoro/solving-the-radix-integration-issue-in-nextjs-4cme)
+- [1Z0-829 Java SE 17 Developer Certification Exam Preparation Study Plan](https://dev.to/myexamcloud/1z0-829-java-se-17-developer-certification-exam-preparation-study-plan-1ifk)
 <!-- BLOG-POST-LIST:END -->
 
