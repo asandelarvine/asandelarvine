@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Updated Algorithm](https://dev.to/christopherchhim/googles-updated-algorithm-13oe)
-- [Top Open Source Tools](https://dev.to/samglish/top-open-source-tools-4841)
-- [LeetCode Meditations: Design Add and Search Words Data Structure](https://dev.to/rivea0/leetcode-meditations-design-add-and-search-words-data-structure-58dn)
-- [The Best Way To Integrate APIs In React JS](https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he)
+- [Dev: DevOps](https://dev.to/r4nd3l/dev-devops-5653)
+- [Python Architecture Essentials: Building Scalable and Clean Application for Juniors](https://dev.to/markparker5/python-architecture-essentials-building-scalable-and-clean-application-for-juniors-2o14)
+- [Javascript behind the scenes](https://dev.to/bilelsalemdev/javascript-behind-the-scenes-35og)
+- [My first ever company meeting.](https://dev.to/angeljrp/my-first-ever-business-meeting-1kjl)
 <!-- BLOG-POST-LIST:END -->
 
