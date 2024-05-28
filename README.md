@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is JavaScript statement](https://dev.to/kemiowoyele1/what-is-javascript-statement-5bk4)
-- [Introducing Hana: Your Ultimate Business Helper](https://dev.to/nav_archer/introducing-hana-your-ultimate-business-helper-3jhh)
-- [Mastering SaaS SEO Strategy: A Comprehensive Guide](https://dev.to/joycesemma/mastering-saas-seo-strategy-a-comprehensive-guide-3lj9)
-- [Rebuilding Luxauto File Processing with Containers](https://dev.to/luxauto/rebuilding-luxauto-file-processing-with-containers-ejo)
+- [Create a Code Explanation Tool using ToolJet and Gemini API](https://dev.to/tooljet/create-a-code-explanation-tool-using-tooljet-and-gemini-api-7l3)
+- [Introducing AlphaFold 3: Revolutionizing Biological Research and Drug Discovery](https://dev.to/aishikl/introducing-alphafold-3-revolutionizing-biological-research-and-drug-discovery-4ag)
+- [Amplify vs. EC2](https://dev.to/sh20raj/amplify-vs-ec2-4o00)
+- [Deploying an Application on AWS: Amplify vs. EC2](https://dev.to/sh20raj/deploying-an-application-on-aws-amplify-vs-ec2-533f)
 <!-- BLOG-POST-LIST:END -->
 
