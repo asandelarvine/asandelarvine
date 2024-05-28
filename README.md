@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncontrolled vs Controlled React Components](https://dev.to/shehzadhussain/uncontrolled-vs-controlled-react-components-4295)
-- [Game Development Diary #8 : Still Second Course](https://dev.to/hizrawandwioka/game-development-diary-8-still-second-course-5g85)
-- [Creating Line Plots with Object-Oriented API and Subplot Function in Python](https://dev.to/lohith0512/creating-line-plots-with-object-oriented-api-and-subplot-function-in-python-4nel)
-- [Top 10 Code Review Tools for Developers](https://dev.to/hyscaler/top-10-code-review-tools-for-developers-26o4)
+- [Describe testing techniques with proper examples](https://dev.to/nandhini_manikandan_/describe-testing-techniques-with-proper-examples-2la7)
+- [Auto Generate Open Graph Images With Laravel](https://dev.to/paulund/auto-generate-open-graph-images-with-laravel-560j)
+- [Scaling Up Your Design System: From Seedling to Flourishing Forest](https://dev.to/shieldstring/scaling-up-your-design-system-from-seedling-to-flourishing-forest-4l2n)
+- [The problem with “async void”](https://dev.to/ben-witt/the-problem-with-async-void-5f0j)
 <!-- BLOG-POST-LIST:END -->
 
