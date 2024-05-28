@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [64-Bit Assembly Language Lab 3 part-3](https://dev.to/yuktimulani/64-bit-assembly-language-lab-3-part-3-3ipi)
-- [Showcase Your GitHub Profile: Contribute to the &quot;Cool GitHub Profile README&quot; Repository!](https://dev.to/nikhilshukla/showcase-your-github-profile-contribute-to-the-cool-github-profile-readme-repository-4c1p)
-- [JavaScript&#39;s Gotchas, also known as &quot;WTF JS](https://dev.to/falselight/javascripts-gotchas-also-known-as-wtf-js-obf)
-- [help with apps script](https://dev.to/emily_tischer_bf4f731fb26/help-with-apps-script-4180)
+- [Building a Multiplayer Game Server with Node.js](https://dev.to/kartikmehta8/building-a-multiplayer-game-server-with-nodejs-68g)
+- [Django: Sample data](https://dev.to/samuellubliner/django-sample-data-ng2)
+- [Unlock React Form Validation with Trivule: The Game-Changing Approach](https://dev.to/claudye/simplify-react-form-validation-with-trivule-a-revolutionary-approach-28k8)
+- [Getting Started with TanStack Query](https://dev.to/john_dunn_ec1dda9d69d5743/getting-started-with-tanstack-query-5b58)
 <!-- BLOG-POST-LIST:END -->
 
