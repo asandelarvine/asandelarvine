@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying llama.cpp on AWS &lpar;with Troubleshooting&rpar;](https://dev.to/mcharytoniuk/deploying-llamacpp-on-aws-with-troubleshooting-187o)
-- [Securing Your Laravel Backend REST API: A Comprehensive Guide](https://dev.to/asfiaaiman/securing-your-laravel-backend-rest-api-a-comprehensive-guide-ll2)
-- [Congrats to the The AWS Amplify Fullstack TypeScript Challenge Winners!](https://dev.to/devteam/congrats-to-the-the-aws-amplify-fullstack-typescript-challenge-winners-1l37)
-- [🗞 Rapyd Developer Newsletter: May 2024 💳 👛 Card Provisioning for Digital Wallets + Rapyd API Request Signatures in Java](https://dev.to/rapyd/rapyd-developer-newsletter-may-2024-43d3)
+- [Code With Me: Daily Twitter Tips &amp; Discussions](https://dev.to/m__mdy__m/code-with-me-daily-twitter-tips-discussions-45mg)
+- [Como classificar a sua linguagem - Introdução a sistema de tipos](https://dev.to/terminalcoffee/como-classificar-a-sua-linguagem-introducao-a-sistema-de-tipos-kgk)
+- [Load .env using Config Module in NestJS](https://dev.to/depak379mandal/load-env-using-config-module-in-nestjs-eeo)
+- [Java String Management: String Pool vs String Heap Explained](https://dev.to/nrj-21/java-string-management-string-pool-vs-string-heap-explained-p0a)
 <!-- BLOG-POST-LIST:END -->
 
