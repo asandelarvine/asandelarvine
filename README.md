@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-Processing Effects with Shaders: Enhancing Rendered Scenes with Post-Processing Effects](https://dev.to/hayyanstudio/post-processing-effects-with-shaders-enhancing-rendered-scenes-with-post-processing-effects-ocp)
-- [Introduction to AWS](https://dev.to/arsalanmemon130/introduction-to-aws-4inc)
-- [How to use feature flags for staged rollouts](https://dev.to/pradumnasaraf/how-to-use-feature-flags-for-staged-rollouts-187g)
-- [OWL Odoo framework](https://dev.to/jeevanizm/owl-odoo-framework-48de)
+- [Mongo db connection simplified](https://dev.to/joshua_a930edbfd6426b1c7e/mongo-db-connection-simplified-1o1c)
+- [** ¡Códigos de estado HTTP con Courage el perro cobarde **🐕](https://dev.to/orlidev/-codigos-de-estado-http-con-courage-el-perro-cobarde--5b8d)
+- [Book Club: Eloquent JavaScript. 4 Data Structures: Objects and Arrays](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-data-structures-objects-and-arrays-57e3)
+- [Mastering JavaScript Frameworks: A Comprehensive Guide.🚀🚀](https://dev.to/dharamgfx/mastering-javascript-frameworks-a-comprehensive-guide-338p)
 <!-- BLOG-POST-LIST:END -->
 
