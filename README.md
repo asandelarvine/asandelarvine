@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: DevOps](https://dev.to/r4nd3l/dev-devops-5653)
-- [Python Architecture Essentials: Building Scalable and Clean Application for Juniors](https://dev.to/markparker5/python-architecture-essentials-building-scalable-and-clean-application-for-juniors-2o14)
-- [Javascript behind the scenes](https://dev.to/bilelsalemdev/javascript-behind-the-scenes-35og)
-- [My first ever company meeting.](https://dev.to/angeljrp/my-first-ever-business-meeting-1kjl)
+- [Mastering React: A Mindset for Component-Centric Development](https://dev.to/chelmerrox/mastering-react-a-mindset-for-component-centric-development-d76)
+- [Relocating? Ultimate Guide To Find Your Next Apartment](https://dev.to/megaconfidence/relocating-ultimate-guide-to-find-your-next-apartment-1ekl)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-160j)
+- [How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error](https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1)
 <!-- BLOG-POST-LIST:END -->
 
