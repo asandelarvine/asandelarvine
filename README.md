@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding HTML Tags and Attributes: A Comprehensive Guide:-](https://dev.to/harsh_dev26/understanding-html-tags-and-attributes-a-comprehensive-guide--4gem)
-- [How to tailor your technology resume for the job you want](https://dev.to/chinnanj/how-to-tailor-your-technology-resume-for-the-job-you-want-45e8)
-- [Life [1]- Daily update](https://dev.to/fadhilsaheer/life-1-daily-update-1lje)
-- [Built text summarization application to summarize a web page with Angular](https://dev.to/railsstudent/built-text-summarization-application-to-summarize-a-web-page-with-angular-2im1)
+- [Guía Completa sobre Pruebas Unitarias en Angular 16](https://dev.to/nerm_frontend/guia-completa-sobre-pruebas-unitarias-en-angular-16-4djl)
+- [Quantum Convolutional Neural Networks](https://dev.to/zachbenson/quantum-convolutional-neural-networks-clm)
+- [VTable usage issue: How to add column total information to the list](https://dev.to/rayssss/vtable-usage-issue-how-to-add-column-total-information-to-the-list-p1m)
+- [How to deploy your own website on AWS](https://dev.to/rolfstreefkerk/how-to-deploy-your-own-website-on-aws-1l05)
 <!-- BLOG-POST-LIST:END -->
 
