@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails: Switches Serializer according to STI Type](https://dev.to/weseek-inc/rails-switches-serializer-according-to-sti-type-4pc7)
-- [What is the Best way to Learn to Think Like a Programmer?](https://dev.to/anitaolsen/what-is-the-best-way-to-learn-to-think-like-a-programmer-2498)
-- [Variable-Length Argument Lists](https://dev.to/paulike/variable-length-argument-lists-4li7)
-- [Memory Management and Garbage Collection In Java](https://dev.to/akamzchidi/memory-management-and-garbage-collection-in-java-3odf)
+- [AWS open source newsletter, #198](https://dev.to/aws/aws-open-source-newsletter-198-13o2)
+- [Helping PostgreSQL® professionals with AI-assisted performance recommendations](https://dev.to/ftisiot/helping-postgresqlr-professionals-with-ai-assisted-performance-recommendations-27k2)
+- [What are Websockets: The detailed Guide.](https://dev.to/alakkadshaw/what-are-websockets-the-detailed-guide-3hke)
+- [ReScript has come a long way, maybe it&#39;s time to switch from TypeScript?](https://dev.to/jderochervlk/rescript-has-come-a-long-way-maybe-its-time-to-switch-from-typescript-29he)
 <!-- BLOG-POST-LIST:END -->
 
