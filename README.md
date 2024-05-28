@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multiplayer Game Server with Node.js](https://dev.to/kartikmehta8/building-a-multiplayer-game-server-with-nodejs-68g)
-- [Django: Sample data](https://dev.to/samuellubliner/django-sample-data-ng2)
-- [Unlock React Form Validation with Trivule: The Game-Changing Approach](https://dev.to/claudye/simplify-react-form-validation-with-trivule-a-revolutionary-approach-28k8)
-- [Getting Started with TanStack Query](https://dev.to/john_dunn_ec1dda9d69d5743/getting-started-with-tanstack-query-5b58)
+- [Life [1]- Daily update](https://dev.to/fadhilsaheer/life-1-daily-update-1lje)
+- [Create an AI Version of Yourself with LogiChat](https://dev.to/dalenguyen/create-an-ai-version-of-yourself-with-logichat-2hk8)
+- [hyper &lpar;Rust&rpar; upgrade to v1: Higher-level Server / Client were removed](https://dev.to/nabbisen/hyper-rust-upgrade-to-v1-higher-level-server-client-were-removed-46dl)
+- [Next.js: Three Ways to Call Server Actions from Client Components](https://dev.to/jonathan-dev/nextjs-three-ways-to-call-server-actions-from-client-components-30p3)
 <!-- BLOG-POST-LIST:END -->
 
