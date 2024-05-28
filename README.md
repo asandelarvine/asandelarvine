@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mongo db connection simplified](https://dev.to/joshua_a930edbfd6426b1c7e/mongo-db-connection-simplified-1o1c)
-- [** ¡Códigos de estado HTTP con Courage el perro cobarde **🐕](https://dev.to/orlidev/-codigos-de-estado-http-con-courage-el-perro-cobarde--5b8d)
-- [Book Club: Eloquent JavaScript. 4 Data Structures: Objects and Arrays](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-data-structures-objects-and-arrays-57e3)
-- [Mastering JavaScript Frameworks: A Comprehensive Guide.🚀🚀](https://dev.to/dharamgfx/mastering-javascript-frameworks-a-comprehensive-guide-338p)
+- [When Shouldn&#39;t You Use Redis?](https://dev.to/itskunal/when-shouldnt-you-use-redis-1hd1)
+- [How to create and deploy a storage account to support testing and training](https://dev.to/stippy4real/how-to-create-and-deploy-a-storage-account-to-support-testing-and-training-55cm)
+- [How to create a resource group](https://dev.to/stippy4real/how-to-create-a-resource-group-3igg)
+- [How we automated displaying error pages based on API responses](https://dev.to/tsudhishnair/how-we-automated-displaying-error-pages-based-on-api-responses-1nkj)
 <!-- BLOG-POST-LIST:END -->
 
