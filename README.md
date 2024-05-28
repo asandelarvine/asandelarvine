@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Java Application Development for Businesses?](https://dev.to/justinsaran/what-is-java-application-development-for-businesses-1ej2)
-- [Liman MYS - Cihaz Yönetimi -Windows Miço Ajan Defender Problem Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-mico-ajan-defender-problem-cozumu-2ppn)
-- [Liman MYS - Cihaz Yönetimi - Windows RDP Erişim Problemi ve Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-rdp-erisim-problemi-ve-cozumu-1j9d)
-- [Windows Üzerinde Miço Ajan Kurulumu](https://dev.to/aciklab/windows-uzerinde-mico-ajan-kurulumu-417c)
+- [What is JavaScript statement](https://dev.to/kemiowoyele1/what-is-javascript-statement-5bk4)
+- [Introducing Hana: Your Ultimate Business Helper](https://dev.to/nav_archer/introducing-hana-your-ultimate-business-helper-3jhh)
+- [Mastering SaaS SEO Strategy: A Comprehensive Guide](https://dev.to/joycesemma/mastering-saas-seo-strategy-a-comprehensive-guide-3lj9)
+- [Rebuilding Luxauto File Processing with Containers](https://dev.to/luxauto/rebuilding-luxauto-file-processing-with-containers-ejo)
 <!-- BLOG-POST-LIST:END -->
 
