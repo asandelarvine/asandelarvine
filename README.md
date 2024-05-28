@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Describe testing techniques with proper examples](https://dev.to/nandhini_manikandan_/describe-testing-techniques-with-proper-examples-2la7)
-- [Auto Generate Open Graph Images With Laravel](https://dev.to/paulund/auto-generate-open-graph-images-with-laravel-560j)
-- [Scaling Up Your Design System: From Seedling to Flourishing Forest](https://dev.to/shieldstring/scaling-up-your-design-system-from-seedling-to-flourishing-forest-4l2n)
-- [The problem with “async void”](https://dev.to/ben-witt/the-problem-with-async-void-5f0j)
+- [Customize the Turbo Progress Bar](https://dev.to/railsdesigner/customize-the-turbo-progress-bar-p6j)
+- [Exploring the Intersection of JavaScript Development and Cryptocurrency Exchanges](https://dev.to/klimd1389/exploring-the-intersection-of-javascript-development-and-cryptocurrency-exchanges-3f71)
+- [Basic explanation of how whitelisting works in Solidity](https://dev.to/muratcanyuksel/basic-explanation-of-how-whitelisting-works-in-solidity-f19)
+- [Guide: How to Develop Web3 DApps on Mint Blockchain Using NFTScan API](https://dev.to/nft_research/guide-how-to-develop-web3-dapps-on-mint-blockchain-using-nftscan-api-2690)
 <!-- BLOG-POST-LIST:END -->
 
