@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Herramientas SSDLC: SAST, DAST y SCA](https://dev.to/rodri-oliveira-dev/herramientas-ssdlc-sast-dast-y-sca-7ja)
-- [Contours on MYSQL Aurora Database with Blue/Green Deployment and Switch Over](https://dev.to/aws-builders/contours-on-mysql-aurora-database-with-bluegreen-deployment-and-switch-over-3i7k)
-- [Solving the Radix Integration Issue in Next.js](https://dev.to/workodoro/solving-the-radix-integration-issue-in-nextjs-4cme)
-- [1Z0-829 Java SE 17 Developer Certification Exam Preparation Study Plan](https://dev.to/myexamcloud/1z0-829-java-se-17-developer-certification-exam-preparation-study-plan-1ifk)
+- [What is Java Application Development for Businesses?](https://dev.to/justinsaran/what-is-java-application-development-for-businesses-1ej2)
+- [Liman MYS - Cihaz Yönetimi -Windows Miço Ajan Defender Problem Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-mico-ajan-defender-problem-cozumu-2ppn)
+- [Liman MYS - Cihaz Yönetimi - Windows RDP Erişim Problemi ve Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-rdp-erisim-problemi-ve-cozumu-1j9d)
+- [Windows Üzerinde Miço Ajan Kurulumu](https://dev.to/aciklab/windows-uzerinde-mico-ajan-kurulumu-417c)
 <!-- BLOG-POST-LIST:END -->
 
