@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #198](https://dev.to/aws/aws-open-source-newsletter-198-13o2)
-- [Helping PostgreSQL® professionals with AI-assisted performance recommendations](https://dev.to/ftisiot/helping-postgresqlr-professionals-with-ai-assisted-performance-recommendations-27k2)
-- [What are Websockets: The detailed Guide.](https://dev.to/alakkadshaw/what-are-websockets-the-detailed-guide-3hke)
-- [ReScript has come a long way, maybe it&#39;s time to switch from TypeScript?](https://dev.to/jderochervlk/rescript-has-come-a-long-way-maybe-its-time-to-switch-from-typescript-29he)
+- [Post-Processing Effects with Shaders: Enhancing Rendered Scenes with Post-Processing Effects](https://dev.to/hayyanstudio/post-processing-effects-with-shaders-enhancing-rendered-scenes-with-post-processing-effects-ocp)
+- [Introduction to AWS](https://dev.to/arsalanmemon130/introduction-to-aws-4inc)
+- [How to use feature flags for staged rollouts](https://dev.to/pradumnasaraf/how-to-use-feature-flags-for-staged-rollouts-187g)
+- [OWL Odoo framework](https://dev.to/jeevanizm/owl-odoo-framework-48de)
 <!-- BLOG-POST-LIST:END -->
 
