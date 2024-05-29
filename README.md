@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [La Luzerne](https://dev.to/madsstoumann/la-luzerne-bfe)
-- [How I Passed the Certified Kubernetes Administrator &lpar;CKA&rpar; Exam and How You Can Too](https://dev.to/girishmukim/how-i-passed-the-certified-kubernetes-administrator-cka-exam-and-how-you-can-too-5c1e)
-- [Mastering Data Management: Designing a Database for an FMCG Alcoholic Beverages Company](https://dev.to/kellyblaire/mastering-data-management-designing-a-database-for-an-fmcg-alcoholic-beverages-company-2998)
-- [Temporal Dead Zone In JavaScript](https://dev.to/pervez/temporal-dead-zone-in-javascript-4ef8)
+- [Correcting iBus/X-Windows compose key conflicts](https://dev.to/peateasea/correcting-ibusx-windows-compose-key-conflicts-44df)
+- [Market Weekly Recap: Ethereum ETF Ignites the Market; PEPE and NOT Mark New Highs](https://dev.to/endeo/market-weekly-recap-ethereum-etf-ignites-the-market-pepe-and-not-mark-new-highs-4d7h)
+- [How to build a basic RAG app](https://dev.to/rogiia/how-to-build-a-basic-rag-app-h9p)
+- [Speed Up Your Site with 3 Simple JavaScript Performance Optimization Tips](https://dev.to/buildwebcrumbs/speed-up-your-site-with-3-simple-javascript-performance-optimization-tips-4gc2)
 <!-- BLOG-POST-LIST:END -->
 
