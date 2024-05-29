@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What errors are lurking in LLVM code?](https://dev.to/anogneva/what-errors-are-lurking-in-llvm-code-1b1j)
-- [FastAPI Beyond CRUD Part1 - Introduction And Project Set Up](https://dev.to/jod35/fastapi-beyond-crud-part1-introduction-and-project-set-up-4gd0)
-- [Building a serverless connected BBQ as SaaS - Part 1](https://dev.to/jimmydqv/building-a-serverless-connected-bbq-as-saas-part-1-59gn)
-- [Testing APIs: Tools and Techniques](https://dev.to/sofiamurphy/testing-apis-tools-and-techniques-58fg)
+- [How to Build an AI-powered To-Do list &lpar;Next.js, GPT4, &amp; CopilotKit&rpar;](https://dev.to/copilotkit/how-to-build-an-ai-powered-to-do-list-nextjs-gpt4-copilotkit-20i4)
+- [Scroll progress animations in CSS.🚀](https://dev.to/dharamgfx/scroll-progress-animations-in-css-4h0g)
+- [nvidia-dkms-545 error in Ubuntu 24.04](https://dev.to/ordigital/nvidia-dkms-545-error-in-ubuntu-2404-585b)
+- [React Hooks: A Comprehensive Guide](https://dev.to/elightwalk/react-hooks-a-comprehensive-guide-394o)
 <!-- BLOG-POST-LIST:END -->
 
