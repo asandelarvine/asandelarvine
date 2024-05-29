@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1 Common Mistake Qualified Developers Make in Job Interviews](https://dev.to/thekarlesi/1-common-mistake-qualified-developers-make-in-job-interviews-3173)
-- [Help im stuck](https://dev.to/jth1903/help-im-stuck-1k1m)
-- [Day 1: Getting Started with HTML](https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1)
-- [JS Versialari haqida: JS Data types: Variables &lpar;O&#39;zgaruvchilar&rpar;:](https://dev.to/bekmuhammaddev/js-versialari-haqida-js-data-types-variables-ozgaruvchilar-16fh)
+- [Introducing Really: A New Policy as Code DSL… that doesn&#39;t suck](https://dev.to/resourcely/introducing-really-a-new-policy-as-code-dsl-that-doesnt-suck-9l1)
+- [Setting Up a Linux Virtual Machine with Azure on a MacOs using Password Authentication &lpar;Part I&rpar;](https://dev.to/tundeiness/setting-up-a-linux-virtual-machine-with-azure-on-a-macos-using-password-authentication-part-i-bkh)
+- [Integrating OpenAI API with a React Application](https://dev.to/jehnz/integrating-openai-api-with-a-react-application-3378)
+- [DMS error - Failed to get the capture list from the endpoint](https://dev.to/hvmathan/dms-error-failed-to-get-the-capture-list-from-the-endpoint-107h)
 <!-- BLOG-POST-LIST:END -->
 
