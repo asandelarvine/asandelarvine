@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Iteration vs Recursion ➰](https://dev.to/sh20raj/iteration-vs-recursion-1n2g)
-- [How to Manage and Migrate Docker Volumes for PostgreSQL](https://dev.to/mochafreddo/how-to-manage-and-migrate-docker-volumes-for-postgresql-5e37)
-- [Create a Node App in a Minute](https://dev.to/kmsaifullah/create-a-node-app-in-a-minute-2jfd)
-- [Cybersecurity Level 2 - Hacking within Lab](https://dev.to/aisha_javed_2423b548aa1e9/cybersecurity-level-2-hacking-within-lab-1f73)
+- [Game Development Diary #9 : Second Course Complete](https://dev.to/hizrawandwioka/game-development-diary-9-second-course-complete-1mo6)
+- [A programming language coding in a grid](https://dev.to/esproc_spl/a-programming-language-coding-in-a-grid-2mhc)
+- [Mastering Matplotlib: A Guide to Bar Charts, Histograms, Scatter Plots, and Pie Charts](https://dev.to/lohith0512/mastering-matplotlib-a-guide-to-bar-charts-histograms-scatter-plots-and-pie-charts-mgb)
+- [Seeking Guidance: How Can a Cloud Data Engineer Harness the Power of GenAI?](https://dev.to/rajaryan/seeking-guidance-how-can-a-cloud-data-engineer-harness-the-power-of-genai-322p)
 <!-- BLOG-POST-LIST:END -->
 
