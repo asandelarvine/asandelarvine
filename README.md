@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Algorithms: The Simple Path to Becoming a Coding Pro](https://dev.to/venigallapraveen/mastering-algorithms-the-simple-path-to-becoming-a-coding-pro-2gce)
-- [The Cloud Resume Challenge](https://dev.to/jmkriz/the-cloud-resume-challenge-19d5)
-- [Exploring the Capabilities of the Docker Engine](https://dev.to/kartikmehta8/exploring-the-capabilities-of-the-docker-engine-j4g)
-- [Welcome Thread - v278](https://dev.to/devteam/welcome-thread-v278-2jha)
+- [JS Versialari haqida: JS Data types: Variables &lpar;O&#39;zgaruvchilar&rpar;:](https://dev.to/bekmuhammaddev/js-versialari-haqida-js-data-types-variables-ozgaruvchilar-16fh)
+- [¿Como Personalizar Neovim?](https://dev.to/erickvasm/como-personalizar-neovim-3gg8)
+- [Fastify plugins as building blocks for a backend Node.js API](https://dev.to/snyk/fastify-plugins-as-building-blocks-for-a-backend-nodejs-api-5136)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;20/05/2024-26/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-20052024-26052024-4888)
 <!-- BLOG-POST-LIST:END -->
 
