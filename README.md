@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Game Development Diary #9 : Second Course Complete](https://dev.to/hizrawandwioka/game-development-diary-9-second-course-complete-1mo6)
-- [A programming language coding in a grid](https://dev.to/esproc_spl/a-programming-language-coding-in-a-grid-2mhc)
-- [Mastering Matplotlib: A Guide to Bar Charts, Histograms, Scatter Plots, and Pie Charts](https://dev.to/lohith0512/mastering-matplotlib-a-guide-to-bar-charts-histograms-scatter-plots-and-pie-charts-mgb)
-- [Seeking Guidance: How Can a Cloud Data Engineer Harness the Power of GenAI?](https://dev.to/rajaryan/seeking-guidance-how-can-a-cloud-data-engineer-harness-the-power-of-genai-322p)
+- [The Future of Software Development: Trends and Predictions](https://dev.to/markwilliams21/the-future-of-software-development-trends-and-predictions-5d8n)
+- [Tokens in JavaScript](https://dev.to/vman_eesh/tokens-in-programming-languages-4hke)
+- [How to Enable Dark Mode Using CSS](https://dev.to/xd199c/how-to-enable-dark-mode-using-css-2ced)
+- [Reminder: You might want to quit peppering Password Now!](https://dev.to/achianumba/reminder-you-might-want-to-quit-peppering-password-now-1eem)
 <!-- BLOG-POST-LIST:END -->
 
