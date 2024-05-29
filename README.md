@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI-powered To-Do list &lpar;Next.js, GPT4, &amp; CopilotKit&rpar;](https://dev.to/copilotkit/how-to-build-an-ai-powered-to-do-list-nextjs-gpt4-copilotkit-20i4)
-- [Scroll progress animations in CSS.🚀](https://dev.to/dharamgfx/scroll-progress-animations-in-css-4h0g)
-- [nvidia-dkms-545 error in Ubuntu 24.04](https://dev.to/ordigital/nvidia-dkms-545-error-in-ubuntu-2404-585b)
-- [React Hooks: A Comprehensive Guide](https://dev.to/elightwalk/react-hooks-a-comprehensive-guide-394o)
+- [ReactJS Interview Questions and Answers](https://dev.to/lalyadav/reactjs-interview-questions-and-answers-3586)
+- [What is OpenTofu?](https://dev.to/spacelift/what-is-opentofu-4jgn)
+- [mysql: using json data and not hating it](https://dev.to/gbhorwood/mysql-using-json-data-and-not-hating-it-6lc)
+- [Top Plugins for Importing HTML Content into WordPress](https://dev.to/__6097f/top-plugins-for-importing-html-content-into-wordpress-332n)
 <!-- BLOG-POST-LIST:END -->
 
