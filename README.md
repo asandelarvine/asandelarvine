@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Do Verified Commits on GitHub](https://dev.to/deeshansharma/how-to-do-verified-commits-on-github-11oa)
-- [Spiner! a package/project manager. first look](https://dev.to/eliaondacs/spiner-a-packageproject-manager-first-look-4h17)
-- [Building Vue3 Component Library from Scratch #10 Create Cli Scaffold](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-10-create-cli-scaffold-1om0)
-- [How to run npm scripts concurrently?](https://dev.to/przemyslawjanbeigert/how-to-run-npm-scripts-concurrently-2l4c)
+- [What errors are lurking in LLVM code?](https://dev.to/anogneva/what-errors-are-lurking-in-llvm-code-1b1j)
+- [FastAPI Beyond CRUD Part1 - Introduction And Project Set Up](https://dev.to/jod35/fastapi-beyond-crud-part1-introduction-and-project-set-up-4gd0)
+- [Building a serverless connected BBQ as SaaS - Part 1](https://dev.to/jimmydqv/building-a-serverless-connected-bbq-as-saas-part-1-59gn)
+- [Testing APIs: Tools and Techniques](https://dev.to/sofiamurphy/testing-apis-tools-and-techniques-58fg)
 <!-- BLOG-POST-LIST:END -->
 
