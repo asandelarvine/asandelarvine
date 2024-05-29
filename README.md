@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🦊GitLab Cheatsheet - 15 - GitLab Duo](https://dev.to/zenika/gitlab-cheatsheet-15-gitlab-duo-3fhg)
-- [Wang 2-Corner Tiles](https://dev.to/joestrout/wang-2-corner-tiles-544k)
-- [How to Tame Kanban for Your Team&#39;s Success](https://dev.to/garbanea/how-to-tame-kanban-for-your-teams-success-557b)
-- [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://dev.to/mdarifulhaque/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one-34nd)
+- [Accessibility Breakdown | Navigating Landmarks](https://dev.to/devsatasurion/accessibility-breakdown-navigating-landmarks-1g8g)
+- [Top 10 Skills Every Junior Developer Should Learn](https://dev.to/bingecoder89/top-10-skills-every-junior-developer-should-learn-5fl8)
+- [Generating PDFs in Angular using jsPDF](https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6)
+- [GCP Cloud Run vs Kubernetes](https://dev.to/thenjdevopsguy/gcp-cloud-run-vs-kubernetes-5g2b)
 <!-- BLOG-POST-LIST:END -->
 
