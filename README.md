@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazing React 19 Updates 🔥🔥😍...](https://dev.to/srijanbaniyal/amazing-react-19-updates--4g5a)
-- [Java Unit Testing: A Comprehensive Guide](https://dev.to/keploy/java-unit-testing-a-comprehensive-guide-4930)
-- [How to use Quill Editor with Laravel 10 and Livewire v3](https://dev.to/adetolaaremu/how-to-use-quill-editor-with-laravel-10-and-livewire-v3-2l6c)
-- [PYTHON SELENIUM ARCHITECTURE](https://dev.to/bhavanikannan/python-selenium-architecture-30co)
+- [How to Do Verified Commits on GitHub](https://dev.to/deeshansharma/how-to-do-verified-commits-on-github-11oa)
+- [Spiner! a package/project manager. first look](https://dev.to/eliaondacs/spiner-a-packageproject-manager-first-look-4h17)
+- [Building Vue3 Component Library from Scratch #10 Create Cli Scaffold](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-10-create-cli-scaffold-1om0)
+- [How to run npm scripts concurrently?](https://dev.to/przemyslawjanbeigert/how-to-run-npm-scripts-concurrently-2l4c)
 <!-- BLOG-POST-LIST:END -->
 
