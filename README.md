@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Interview Questions and Answers](https://dev.to/lalyadav/reactjs-interview-questions-and-answers-3586)
-- [What is OpenTofu?](https://dev.to/spacelift/what-is-opentofu-4jgn)
-- [mysql: using json data and not hating it](https://dev.to/gbhorwood/mysql-using-json-data-and-not-hating-it-6lc)
-- [Top Plugins for Importing HTML Content into WordPress](https://dev.to/__6097f/top-plugins-for-importing-html-content-into-wordpress-332n)
+- [What is Threat Detection and Response &lpar;TDR&rpar;?](https://dev.to/clouddefenseai/what-is-threat-detection-and-response-tdr-1ib1)
+- [How to track your GitHub todos and accomplishments](https://dev.to/sdotson/how-to-track-your-github-todos-and-accomplishments-3n59)
+- [Newbie feedback](https://dev.to/newbiedev24/newbie-feedback-2dbg)
+- [WeatherIcon](https://dev.to/chensov/weathericon-3jj)
 <!-- BLOG-POST-LIST:END -->
 
