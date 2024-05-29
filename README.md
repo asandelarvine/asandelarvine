@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres ORMs](https://dev.to/neurelo/postgres-orms-4g91)
-- [Case Study: Two-Dimensional Array](https://dev.to/paulike/case-study-two-dimensional-array-4l30)
-- [Measuring Data Science Models](https://dev.to/leandro_betaacid/measuring-data-science-models-44eb)
-- [Building Vue3 Component Library from Scratch #11 ESlint + Prettier + Stylelint](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-11-eslint-prettier-stylelint-a41)
+- [🦊GitLab Cheatsheet - 15 - GitLab Duo](https://dev.to/zenika/gitlab-cheatsheet-15-gitlab-duo-3fhg)
+- [Wang 2-Corner Tiles](https://dev.to/joestrout/wang-2-corner-tiles-544k)
+- [How to Tame Kanban for Your Team&#39;s Success](https://dev.to/garbanea/how-to-tame-kanban-for-your-teams-success-557b)
+- [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://dev.to/mdarifulhaque/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one-34nd)
 <!-- BLOG-POST-LIST:END -->
 
