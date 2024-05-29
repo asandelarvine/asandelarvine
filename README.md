@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MySQL Query Optimizer: COUNT&lpar;id&rpar; vs COUNT&lpar;*&rpar;](https://dev.to/darkotodoric/understanding-mysql-query-optimizer-countid-vs-count-2ed5)
-- [How to Do a Code Review of Bash Scripts](https://dev.to/karandaid/how-to-do-a-code-review-of-bash-scripts-4bpo)
-- [Codepen editor](https://dev.to/tidycoder/codepen-editor-f7i)
-- [Difference between Libraries and Frameworks](https://dev.to/devmatsu/difference-between-libraries-and-frameworks-3fca)
+- [La Luzerne](https://dev.to/madsstoumann/la-luzerne-bfe)
+- [How I Passed the Certified Kubernetes Administrator &lpar;CKA&rpar; Exam and How You Can Too](https://dev.to/girishmukim/how-i-passed-the-certified-kubernetes-administrator-cka-exam-and-how-you-can-too-5c1e)
+- [Mastering Data Management: Designing a Database for an FMCG Alcoholic Beverages Company](https://dev.to/kellyblaire/mastering-data-management-designing-a-database-for-an-fmcg-alcoholic-beverages-company-2998)
+- [Temporal Dead Zone In JavaScript](https://dev.to/pervez/temporal-dead-zone-in-javascript-4ef8)
 <!-- BLOG-POST-LIST:END -->
 
