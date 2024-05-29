@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Threat Detection and Response &lpar;TDR&rpar;?](https://dev.to/clouddefenseai/what-is-threat-detection-and-response-tdr-1ib1)
-- [How to track your GitHub todos and accomplishments](https://dev.to/sdotson/how-to-track-your-github-todos-and-accomplishments-3n59)
-- [Newbie feedback](https://dev.to/newbiedev24/newbie-feedback-2dbg)
-- [WeatherIcon](https://dev.to/chensov/weathericon-3jj)
+- [Postgres ORMs](https://dev.to/neurelo/postgres-orms-4g91)
+- [Case Study: Two-Dimensional Array](https://dev.to/paulike/case-study-two-dimensional-array-4l30)
+- [Measuring Data Science Models](https://dev.to/leandro_betaacid/measuring-data-science-models-44eb)
+- [Building Vue3 Component Library from Scratch #11 ESlint + Prettier + Stylelint](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-11-eslint-prettier-stylelint-a41)
 <!-- BLOG-POST-LIST:END -->
 
