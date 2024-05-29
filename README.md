@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Software Development: Trends and Predictions](https://dev.to/markwilliams21/the-future-of-software-development-trends-and-predictions-5d8n)
-- [Tokens in JavaScript](https://dev.to/vman_eesh/tokens-in-programming-languages-4hke)
-- [How to Enable Dark Mode Using CSS](https://dev.to/xd199c/how-to-enable-dark-mode-using-css-2ced)
-- [Reminder: You might want to quit peppering Password Now!](https://dev.to/achianumba/reminder-you-might-want-to-quit-peppering-password-now-1eem)
+- [Amazing React 19 Updates 🔥🔥😍...](https://dev.to/srijanbaniyal/amazing-react-19-updates--4g5a)
+- [Java Unit Testing: A Comprehensive Guide](https://dev.to/keploy/java-unit-testing-a-comprehensive-guide-4930)
+- [How to use Quill Editor with Laravel 10 and Livewire v3](https://dev.to/adetolaaremu/how-to-use-quill-editor-with-laravel-10-and-livewire-v3-2l6c)
+- [PYTHON SELENIUM ARCHITECTURE](https://dev.to/bhavanikannan/python-selenium-architecture-30co)
 <!-- BLOG-POST-LIST:END -->
 
