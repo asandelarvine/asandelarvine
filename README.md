@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating with Supabase](https://dev.to/logto/integrating-with-supabase-4d0i)
-- [Django 9: Scheduled tasks](https://dev.to/doctorserone/django-9-scheduled-tasks-3m4n)
-- [Building Vue3 Component Library from Scratch #8 Publish](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-8-publish-2dgl)
-- [Junior Designers vs. Senior Designers](https://dev.to/vrajparikh/junior-designers-vs-senior-designers-5co6)
+- [Iteration vs Recursion ➰](https://dev.to/sh20raj/iteration-vs-recursion-1n2g)
+- [How to Manage and Migrate Docker Volumes for PostgreSQL](https://dev.to/mochafreddo/how-to-manage-and-migrate-docker-volumes-for-postgresql-5e37)
+- [Create a Node App in a Minute](https://dev.to/kmsaifullah/create-a-node-app-in-a-minute-2jfd)
+- [Cybersecurity Level 2 - Hacking within Lab](https://dev.to/aisha_javed_2423b548aa1e9/cybersecurity-level-2-hacking-within-lab-1f73)
 <!-- BLOG-POST-LIST:END -->
 
