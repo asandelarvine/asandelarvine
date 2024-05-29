@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Correcting iBus/X-Windows compose key conflicts](https://dev.to/peateasea/correcting-ibusx-windows-compose-key-conflicts-44df)
-- [Market Weekly Recap: Ethereum ETF Ignites the Market; PEPE and NOT Mark New Highs](https://dev.to/endeo/market-weekly-recap-ethereum-etf-ignites-the-market-pepe-and-not-mark-new-highs-4d7h)
-- [How to build a basic RAG app](https://dev.to/rogiia/how-to-build-a-basic-rag-app-h9p)
-- [Speed Up Your Site with 3 Simple JavaScript Performance Optimization Tips](https://dev.to/buildwebcrumbs/speed-up-your-site-with-3-simple-javascript-performance-optimization-tips-4gc2)
+- [How to monitor all AWS Console logins and failed attempts with CloudTrail and CloudWatch - Terraform automation](https://dev.to/montaigu/how-to-monitor-all-aws-console-logins-and-failed-attempts-with-cloudtrail-and-cloudwatch-terraform-automation-2pi1)
+- [Cloudd](https://dev.to/ozcankara/cloudd-1f7f)
+- [HOW TO CONNECT AN IOT FIELD DEVICE &lpar;RASPBERRY PI SIMULATOR&rpar; FROM THE FIELD TO AN AZURE CLOUD IOT HUB FOR COMMUNICATION AND DATA](https://dev.to/atony07/how-to-connect-an-iot-field-device-raspberry-pi-simulator-from-the-field-to-an-azure-cloud-iot-hub-for-communication-and-data-iob)
+- [Datalists or 50 lines of extra JavaScript and HTML?](https://dev.to/wagenrace/datalists-or-50-lines-of-extra-javascript-and-html-51j1)
 <!-- BLOG-POST-LIST:END -->
 
