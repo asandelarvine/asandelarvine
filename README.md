@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React: A Mindset for Component-Centric Development](https://dev.to/chelmerrox/mastering-react-a-mindset-for-component-centric-development-d76)
-- [Relocating? Ultimate Guide To Find Your Next Apartment](https://dev.to/megaconfidence/relocating-ultimate-guide-to-find-your-next-apartment-1ekl)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-160j)
-- [How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error](https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1)
+- [Mastering Algorithms: The Simple Path to Becoming a Coding Pro](https://dev.to/venigallapraveen/mastering-algorithms-the-simple-path-to-becoming-a-coding-pro-2gce)
+- [The Cloud Resume Challenge](https://dev.to/jmkriz/the-cloud-resume-challenge-19d5)
+- [Exploring the Capabilities of the Docker Engine](https://dev.to/kartikmehta8/exploring-the-capabilities-of-the-docker-engine-j4g)
+- [Welcome Thread - v278](https://dev.to/devteam/welcome-thread-v278-2jha)
 <!-- BLOG-POST-LIST:END -->
 
