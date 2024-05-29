@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Really: A New Policy as Code DSL… that doesn&#39;t suck](https://dev.to/resourcely/introducing-really-a-new-policy-as-code-dsl-that-doesnt-suck-9l1)
-- [Setting Up a Linux Virtual Machine with Azure on a MacOs using Password Authentication &lpar;Part I&rpar;](https://dev.to/tundeiness/setting-up-a-linux-virtual-machine-with-azure-on-a-macos-using-password-authentication-part-i-bkh)
-- [Integrating OpenAI API with a React Application](https://dev.to/jehnz/integrating-openai-api-with-a-react-application-3378)
-- [DMS error - Failed to get the capture list from the endpoint](https://dev.to/hvmathan/dms-error-failed-to-get-the-capture-list-from-the-endpoint-107h)
+- [Integrating with Supabase](https://dev.to/logto/integrating-with-supabase-4d0i)
+- [Django 9: Scheduled tasks](https://dev.to/doctorserone/django-9-scheduled-tasks-3m4n)
+- [Building Vue3 Component Library from Scratch #8 Publish](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-8-publish-2dgl)
+- [Junior Designers vs. Senior Designers](https://dev.to/vrajparikh/junior-designers-vs-senior-designers-5co6)
 <!-- BLOG-POST-LIST:END -->
 
