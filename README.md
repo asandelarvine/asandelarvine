@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Dockerize vs. When to use ModelKit](https://dev.to/kitops/when-to-dockerize-vs-when-to-use-modelkit-4mbj)
-- [Use Self-Made Type Guard with TypeScript &quot;is&quot; Operator](https://dev.to/weseek-inc/use-self-made-type-guard-with-typescript-is-operator-13e6)
-- [How I integrated Privy&#39;s JavaScript SDK Core in a Vue 3 project](https://dev.to/inertia/how-i-integrated-privys-javascript-sdk-core-in-a-vue-3-project-2k)
-- [Understanding Signals and Effects in Angular](https://dev.to/bytebantz/understanding-signals-and-effects-in-angular-2goh)
+- [Elvis operator ?: vs Null coalescing operator](https://dev.to/thibaultchatelain/elvis-operator-vs-null-coalescing-operator-2l31)
+- [API Testing Got a Glowup](https://dev.to/qyrusai/api-testing-got-a-glowup-ba3)
+- [11 Tools To Improve Your Developer Experience by 10x 🚀](https://dev.to/latitude/11-tools-to-improve-your-developer-experience-by-10x-1f22)
+- [Valuable insights to gain from top React Native showcases](https://dev.to/proxify_dev/valuable-insights-to-gain-from-top-react-native-showcases-582l)
 <!-- BLOG-POST-LIST:END -->
 
