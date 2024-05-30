@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink #25: Building Excitement](https://dev.to/linkbenjamin/the-adventures-of-blink-25-building-excitement-5fnh)
-- [Error on verge of extinction, or why I put if &lpar;x = 42&rpar; in Red List of C &amp; C++ bugs](https://dev.to/anogneva/error-on-verge-of-extinction-or-why-i-put-if-x-42-in-red-list-of-c-c-bugs-p54)
-- [A Trip To The Beach](https://dev.to/madsstoumann/a-trip-to-the-beach-f9i)
-- [Using the New Milvus-Lite](https://dev.to/tspannhw/using-the-new-milvus-lite-4dea)
+- [What is AWS Organization?](https://dev.to/jay_tillu/what-is-aws-organization-416o)
+- [🗳️ 5 Top Free Resources to Learn AWS Amplify](https://dev.to/evergrowingdev/5-top-free-resources-to-learn-aws-amplify-4pp9)
+- [Understanding CSS Units: px, rem, and em](https://dev.to/sidramaqbool/understanding-css-units-px-rem-and-em-390h)
+- [How To Make Money On The Side As A Developer](https://dev.to/sotergreco/how-to-make-money-on-the-side-as-a-developer-260h)
 <!-- BLOG-POST-LIST:END -->
 
