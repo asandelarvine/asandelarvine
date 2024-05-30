@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contextual Targeting vs Cookies: Who will win in 2024?](https://dev.to/silverpush/contextual-targeting-vs-cookies-who-will-win-in-2024-2m5h)
-- [Simplify RAG application with MongoDB Atlas and Amazon Bedrock](https://dev.to/aws/simplify-rag-application-with-mongodb-atlas-and-amazon-bedrock-3fda)
-- [Building Vue3 Component Library from Scratch #12 Vitest](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-12-vitest-2kkf)
-- [How To Apply The GCP Service Account Into On-premise K8S Step By Step](https://dev.to/u2633/how-to-apply-the-gcp-service-account-into-on-premise-k8s-step-by-step-4oc8)
+- [Finding what iterator to use and when from a beginner!](https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h)
+- [Im accused of being a micromanager. Higher-ups want to build team capacity at the expense of quality](https://dev.to/humanspecimen/im-accused-of-being-a-micromanager-higher-ups-want-to-build-team-capacity-at-the-expense-of-quality-2lmb)
+- [Web App Pentesting on AWS: A Comprehensive Guide](https://dev.to/sudoconsultants/web-app-pentesting-on-aws-a-comprehensive-guide-3opa)
+- [Contextual Software Development](https://dev.to/rasharm_/contextual-software-development-18c6)
 <!-- BLOG-POST-LIST:END -->
 
