@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elvis operator ?: vs Null coalescing operator](https://dev.to/thibaultchatelain/elvis-operator-vs-null-coalescing-operator-2l31)
-- [API Testing Got a Glowup](https://dev.to/qyrusai/api-testing-got-a-glowup-ba3)
-- [11 Tools To Improve Your Developer Experience by 10x 🚀](https://dev.to/latitude/11-tools-to-improve-your-developer-experience-by-10x-1f22)
-- [Valuable insights to gain from top React Native showcases](https://dev.to/proxify_dev/valuable-insights-to-gain-from-top-react-native-showcases-582l)
+- [Notre retour &lpar;Build &amp; Deploy&rpar; sur Devoxx France 2024](https://dev.to/onepoint/notre-retour-build-deploy-sur-devoxx-france-2024-kg7)
+- [Buy Some Happiness This Summer! - Web Page](https://dev.to/sarmittal/buy-some-happiness-this-summer-web-page-202h)
+- [The Uprising of Machines is Getting Closer with Soft Skin and Wetware](https://dev.to/iwooky/the-uprising-of-machines-is-getting-closer-with-soft-skin-and-wetware-41f6)
+- [Rust Snippet: Exec with Update Intervals](https://dev.to/therustgarden/rust-snippet-exec-with-update-intervals-kgo)
 <!-- BLOG-POST-LIST:END -->
 
