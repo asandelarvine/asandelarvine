@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Notre retour &lpar;Build &amp; Deploy&rpar; sur Devoxx France 2024](https://dev.to/onepoint/notre-retour-build-deploy-sur-devoxx-france-2024-kg7)
-- [Buy Some Happiness This Summer! - Web Page](https://dev.to/sarmittal/buy-some-happiness-this-summer-web-page-202h)
-- [The Uprising of Machines is Getting Closer with Soft Skin and Wetware](https://dev.to/iwooky/the-uprising-of-machines-is-getting-closer-with-soft-skin-and-wetware-41f6)
-- [Rust Snippet: Exec with Update Intervals](https://dev.to/therustgarden/rust-snippet-exec-with-update-intervals-kgo)
+- [Enhance Your Search Capabilities Using Algoboost as a Vector Store](https://dev.to/tshidisoisazi/enhance-your-search-capabilities-using-algoboost-as-a-vector-store-30ll)
+- [Concurrency Limit](https://dev.to/officialbidisha/concurrency-limit-1ajg)
+- [Take me to the beach Frontend Challenge: June Edition](https://dev.to/chintanonweb/take-me-to-the-beach-frontend-challenge-june-edition-1b5d)
+- [Scraper compania Blackline](https://dev.to/ale23yfm/scraper-compania-ccc)
 <!-- BLOG-POST-LIST:END -->
 
