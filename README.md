@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learnings on tech leading: Making estimations](https://dev.to/kaityhallman/learnings-on-tech-leading-making-estimations-gp7)
-- [Building a TailwindCSS-Powered Laravel Application with Email Verification and Queued Jobs](https://dev.to/haseebmirza/building-a-tailwindcss-powered-laravel-application-with-email-verification-and-queued-jobs-1m31)
-- [**Pac-Man y los Comandos de la Línea de Comandos: ¡Come, Ejecuta, Repite! **🍒](https://dev.to/orlidev/pac-man-y-los-comandos-de-la-linea-de-comandos-come-ejecuta-repite--5573)
-- [PLSQL - Day 1](https://dev.to/technonotes/plsql-day-1-3j4i)
+- [Software Design and Architecture: Understanding Their Roles and Challenges in Development](https://dev.to/mathsena/software-design-and-architecture-understanding-their-roles-and-challenges-in-development-4jkf)
+- [Overview: Express.js Framework Middleware&#39;s](https://dev.to/buildwebcrumbs/overview-expressjs-framework-middlewares-4o65)
+- [Design e Arquitetura de Software: Entendendo Suas Funções e Desafios no Desenvolvimento](https://dev.to/mathsena/design-e-arquitetura-de-software-entendendo-suas-funcoes-e-desafios-no-desenvolvimento-3b6e)
+- [Suivi en temps réel des commits sur le tableau de bord GitHub](https://dev.to/pubnub-fr/suivi-en-temps-reel-des-commits-sur-le-tableau-de-bord-github-p51)
 <!-- BLOG-POST-LIST:END -->
 
