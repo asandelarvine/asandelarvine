@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://dev.to/karleb/1442-count-triplets-that-can-form-two-arrays-of-equal-xor-2lp1)
-- [Frontend Challenge June Edition - Take me to the beach](https://dev.to/shantih_palani/frontend-challenge-june-edition-take-me-to-the-beach-2h6h)
-- [Learn React composition in 15 minutes](https://dev.to/lgtome/react-components-composition-2djl)
-- [Creating a Smaller Docker Image: A Practical Guide](https://dev.to/nmend/creating-a-smaller-docker-image-a-practical-guide-17b)
+- [Dev: Embedded Systems](https://dev.to/r4nd3l/dev-embedded-systems-3l6h)
+- [Database Design](https://dev.to/brvarner/database-design-5g4j)
+- [app/&lpar;app&rpar; route group in shadcn-ui/ui](https://dev.to/ramunarasinga/appapp-route-group-in-shadcn-uiui-j3)
+- [Ruby Sinatra Bootstrap view accordion](https://dev.to/adolfonava/ruby-sinatra-bootstrap-view-accordion-2ok4)
 <!-- BLOG-POST-LIST:END -->
 
