@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Listeners in Javascript](https://dev.to/spencer_adler_880da14d230/event-listeners-in-javascript-489f)
-- [Streamlining Webpage Deployment on Multi-VMs Using Bash Scripts](https://dev.to/ritik_saxena/streamlining-webpage-deployment-on-multi-vms-using-bash-scripts-2ml2)
-- [How To Host a Static Website in Azure Blob Storage](https://dev.to/emmamag/how-to-host-a-static-website-in-azure-blob-storage-bab)
-- [Instruction Set Architecture, a linguagem das máquinas](https://dev.to/erick_tmr/instruction-set-architecture-a-linguagem-das-maquinas-4o8d)
+- [How I became a better software engineer by using a visual knowledge management tool](https://dev.to/leonardoventurini/how-i-became-a-better-software-engineer-by-using-a-visual-knowledge-management-tool-33kf)
+- [C# dagi Method overload va Method group.](https://dev.to/farkhadk/c-dagi-method-overload-va-method-group-3p7k)
+- [Entenda o que é CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/thiagohnrt/entenda-o-que-e-cors-cross-origin-resource-sharing-2601)
+- [Introduction to API Design and Development with Swagger](https://dev.to/kartikmehta8/introduction-to-api-design-and-development-with-swagger-5dfm)
 <!-- BLOG-POST-LIST:END -->
 
