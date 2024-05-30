@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Embedded Systems](https://dev.to/r4nd3l/dev-embedded-systems-3l6h)
-- [Database Design](https://dev.to/brvarner/database-design-5g4j)
-- [app/&lpar;app&rpar; route group in shadcn-ui/ui](https://dev.to/ramunarasinga/appapp-route-group-in-shadcn-uiui-j3)
-- [Ruby Sinatra Bootstrap view accordion](https://dev.to/adolfonava/ruby-sinatra-bootstrap-view-accordion-2ok4)
+- [Azure Storage - On-Behalf-Of token and audit log](https://dev.to/campelo/azure-storage-on-behalf-of-token-and-audit-log-502l)
+- [Thoughts about SOLID - The Letter &quot;I&quot;](https://dev.to/mdeamp/thoughts-about-solid-the-letter-i-3gp7)
+- [Reflexões sobre SOLID - A Letra &quot;I&quot;](https://dev.to/mdeamp/reflexoes-sobre-solid-a-letra-i-1684)
+- [MuleSoft Associate Certification: Essential Tips and Key Concepts](https://dev.to/this-is-learning/mulesoft-associate-certification-essential-tips-and-key-concepts-505m)
 <!-- BLOG-POST-LIST:END -->
 
