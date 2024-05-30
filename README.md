@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS concept for Automation of documentation management](https://dev.to/mrarnaudmichel/saas-concept-for-automation-of-documentation-management-45p7)
-- [Building a SQL Query Generator Using ToolJet + Gemini API](https://dev.to/tooljet/building-a-sql-query-generator-using-tooljet-gemini-api-4lo9)
-- [Build a QA Bot for your documentation with Langchain](https://dev.to/winglang/build-a-qa-bot-for-your-documentation-with-langchain-48g9)
-- [Writing Self-Documenting Code for Django](https://dev.to/django-webdev/writing-self-documenting-code-for-django-1k59)
+- [When to Dockerize vs. When to use ModelKit](https://dev.to/kitops/when-to-dockerize-vs-when-to-use-modelkit-4mbj)
+- [Use Self-Made Type Guard with TypeScript &quot;is&quot; Operator](https://dev.to/weseek-inc/use-self-made-type-guard-with-typescript-is-operator-13e6)
+- [How I integrated Privy&#39;s JavaScript SDK Core in a Vue 3 project](https://dev.to/inertia/how-i-integrated-privys-javascript-sdk-core-in-a-vue-3-project-2k)
+- [Understanding Signals and Effects in Angular](https://dev.to/bytebantz/understanding-signals-and-effects-in-angular-2goh)
 <!-- BLOG-POST-LIST:END -->
 
