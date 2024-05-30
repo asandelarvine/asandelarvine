@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding what iterator to use and when from a beginner!](https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h)
-- [Im accused of being a micromanager. Higher-ups want to build team capacity at the expense of quality](https://dev.to/humanspecimen/im-accused-of-being-a-micromanager-higher-ups-want-to-build-team-capacity-at-the-expense-of-quality-2lmb)
-- [Web App Pentesting on AWS: A Comprehensive Guide](https://dev.to/sudoconsultants/web-app-pentesting-on-aws-a-comprehensive-guide-3opa)
-- [Contextual Software Development](https://dev.to/rasharm_/contextual-software-development-18c6)
+- [How Retrieval Augmented Generation &lpar;RAG&rpar; Work](https://dev.to/cybersasa/how-retrieval-augmented-generation-rag-work-101e)
+- [Awesome JavaScript Frameworks that make workflow simple and easy](https://dev.to/mroman7/awesome-javascript-frameworks-that-make-workflow-simple-and-easy-10lo)
+- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-4kp0)
+- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-min)
 <!-- BLOG-POST-LIST:END -->
 
