@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Server Rendering | React Query with Next.js App Router](https://dev.to/ryanmabrouk/advanced-server-rendering-react-query-with-nextjs-app-router-bi7)
-- [Go Lang Advance Concepts](https://dev.to/syedmuhammadaliraza/go-lang-advance-concepts-2dpi)
-- [What is DevOps?](https://dev.to/bhuvaneshwa/what-is-devops-36f6)
-- [Mastering React Hooks: Best Practices for Efficient and Maintainable Code](https://dev.to/shantih_palani/mastering-react-hooks-best-practices-for-efficient-and-maintainable-code-4mp5)
+- [Learnings on tech leading: Making estimations](https://dev.to/kaityhallman/learnings-on-tech-leading-making-estimations-gp7)
+- [Building a TailwindCSS-Powered Laravel Application with Email Verification and Queued Jobs](https://dev.to/haseebmirza/building-a-tailwindcss-powered-laravel-application-with-email-verification-and-queued-jobs-1m31)
+- [**Pac-Man y los Comandos de la Línea de Comandos: ¡Come, Ejecuta, Repite! **🍒](https://dev.to/orlidev/pac-man-y-los-comandos-de-la-linea-de-comandos-come-ejecuta-repite--5573)
+- [PLSQL - Day 1](https://dev.to/technonotes/plsql-day-1-3j4i)
 <!-- BLOG-POST-LIST:END -->
 
