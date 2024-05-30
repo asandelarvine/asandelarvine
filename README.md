@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Design and Architecture: Understanding Their Roles and Challenges in Development](https://dev.to/mathsena/software-design-and-architecture-understanding-their-roles-and-challenges-in-development-4jkf)
-- [Overview: Express.js Framework Middleware&#39;s](https://dev.to/buildwebcrumbs/overview-expressjs-framework-middlewares-4o65)
-- [Design e Arquitetura de Software: Entendendo Suas Funções e Desafios no Desenvolvimento](https://dev.to/mathsena/design-e-arquitetura-de-software-entendendo-suas-funcoes-e-desafios-no-desenvolvimento-3b6e)
-- [Suivi en temps réel des commits sur le tableau de bord GitHub](https://dev.to/pubnub-fr/suivi-en-temps-reel-des-commits-sur-le-tableau-de-bord-github-p51)
+- [#1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://dev.to/karleb/1442-count-triplets-that-can-form-two-arrays-of-equal-xor-2lp1)
+- [Frontend Challenge June Edition - Take me to the beach](https://dev.to/shantih_palani/frontend-challenge-june-edition-take-me-to-the-beach-2h6h)
+- [Learn React composition in 15 minutes](https://dev.to/lgtome/react-components-composition-2djl)
+- [Creating a Smaller Docker Image: A Practical Guide](https://dev.to/nmend/creating-a-smaller-docker-image-a-practical-guide-17b)
 <!-- BLOG-POST-LIST:END -->
 
