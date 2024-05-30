@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Search Accuracy with RRF&lpar;Reciprocal Rank Fusion&rpar; in Alibaba Cloud Elasticsearch 8.x](https://dev.to/a_lucas/enhancing-search-accuracy-with-rrfreciprocal-rank-fusion-in-alibaba-cloud-elasticsearch-8x-2i5l)
-- [Connecting to IRC with Halloy](https://dev.to/djdesu/connecting-to-irc-with-halloy-5i8)
-- [How Moonrepo Recognizes Project Languages](https://dev.to/suin/how-moonrepo-recognizes-project-languages-5ck5)
-- [How I became a better software engineer by using a visual knowledge management tool](https://dev.to/leonardoventurini/how-i-became-a-better-software-engineer-by-using-a-visual-knowledge-management-tool-33kf)
+- [Day 2: Understanding Variables and Data Types in JavaScript](https://dev.to/dipakahirav/day-2-understanding-variables-and-data-types-in-javascript-2p97)
+- [Brute to Beaut](https://dev.to/snackcode/brute-to-beaut-1kb7)
+- [How to Control the Number of Concurrent Promises in JavaScript](https://dev.to/zacharylee/how-to-control-the-number-of-concurrent-promises-in-javascript-3mg8)
+- [Has tu README realmente útil](https://dev.to/jairofernandez/has-tu-readme-realmente-util-49ea)
 <!-- BLOG-POST-LIST:END -->
 
