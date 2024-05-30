@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Understanding Variables and Data Types in JavaScript](https://dev.to/dipakahirav/day-2-understanding-variables-and-data-types-in-javascript-2p97)
-- [Brute to Beaut](https://dev.to/snackcode/brute-to-beaut-1kb7)
-- [How to Control the Number of Concurrent Promises in JavaScript](https://dev.to/zacharylee/how-to-control-the-number-of-concurrent-promises-in-javascript-3mg8)
-- [Has tu README realmente útil](https://dev.to/jairofernandez/has-tu-readme-realmente-util-49ea)
+- [Contextual Targeting vs Cookies: Who will win in 2024?](https://dev.to/silverpush/contextual-targeting-vs-cookies-who-will-win-in-2024-2m5h)
+- [Simplify RAG application with MongoDB Atlas and Amazon Bedrock](https://dev.to/aws/simplify-rag-application-with-mongodb-atlas-and-amazon-bedrock-3fda)
+- [Building Vue3 Component Library from Scratch #12 Vitest](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-12-vitest-2kkf)
+- [How To Apply The GCP Service Account Into On-premise K8S Step By Step](https://dev.to/u2633/how-to-apply-the-gcp-service-account-into-on-premise-k8s-step-by-step-4oc8)
 <!-- BLOG-POST-LIST:END -->
 
