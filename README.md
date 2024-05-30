@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lesser Known Rails Helpers to Write Cleaner View Code](https://dev.to/railsdesigner/lesser-known-rails-helpers-to-write-cleaner-view-code-5d3n)
-- [Naming Conventions in Programming](https://dev.to/kellyblaire/naming-conventions-in-programming-20ak)
-- [What Crawls Into My Mind When My Free Trial Expires](https://dev.to/lolllla/what-crawls-into-my-mind-when-my-free-trial-expires-3dih)
-- [Laravel Polymorphic Models By Type](https://dev.to/paulund/laravel-polymorphic-models-by-type-3fkh)
+- [Mastering the Strategy Pattern: A Real-World Example in E-commerce Shipping with Java](https://dev.to/waqaryounis7564/mastering-the-strategy-pattern-a-real-world-example-in-e-commerce-shipping-with-java-ni)
+- [What I learnt at the Web Performance workshop by Cloudinary](https://dev.to/kervyntjw/what-i-learnt-at-the-web-performance-workshop-by-cloudinary-4fc)
+- [BEGINNERS COMMAND - GIT](https://dev.to/shreeprabha_bhat/beginners-command-git-5354)
+- [Mastering Magento PIM Integration](https://dev.to/charleslyman/mastering-magento-pim-integration-3cf1)
 <!-- BLOG-POST-LIST:END -->
 
