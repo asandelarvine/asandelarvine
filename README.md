@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is AWS Organization?](https://dev.to/jay_tillu/what-is-aws-organization-416o)
-- [🗳️ 5 Top Free Resources to Learn AWS Amplify](https://dev.to/evergrowingdev/5-top-free-resources-to-learn-aws-amplify-4pp9)
-- [Understanding CSS Units: px, rem, and em](https://dev.to/sidramaqbool/understanding-css-units-px-rem-and-em-390h)
-- [How To Make Money On The Side As A Developer](https://dev.to/sotergreco/how-to-make-money-on-the-side-as-a-developer-260h)
+- [SaaS concept for Automation of documentation management](https://dev.to/mrarnaudmichel/saas-concept-for-automation-of-documentation-management-45p7)
+- [Building a SQL Query Generator Using ToolJet + Gemini API](https://dev.to/tooljet/building-a-sql-query-generator-using-tooljet-gemini-api-4lo9)
+- [Build a QA Bot for your documentation with Langchain](https://dev.to/winglang/build-a-qa-bot-for-your-documentation-with-langchain-48g9)
+- [Writing Self-Documenting Code for Django](https://dev.to/django-webdev/writing-self-documenting-code-for-django-1k59)
 <!-- BLOG-POST-LIST:END -->
 
