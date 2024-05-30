@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Strategy Pattern: A Real-World Example in E-commerce Shipping with Java](https://dev.to/waqaryounis7564/mastering-the-strategy-pattern-a-real-world-example-in-e-commerce-shipping-with-java-ni)
-- [What I learnt at the Web Performance workshop by Cloudinary](https://dev.to/kervyntjw/what-i-learnt-at-the-web-performance-workshop-by-cloudinary-4fc)
-- [BEGINNERS COMMAND - GIT](https://dev.to/shreeprabha_bhat/beginners-command-git-5354)
-- [Mastering Magento PIM Integration](https://dev.to/charleslyman/mastering-magento-pim-integration-3cf1)
+- [The Adventures of Blink #25: Building Excitement](https://dev.to/linkbenjamin/the-adventures-of-blink-25-building-excitement-5fnh)
+- [Error on verge of extinction, or why I put if &lpar;x = 42&rpar; in Red List of C &amp; C++ bugs](https://dev.to/anogneva/error-on-verge-of-extinction-or-why-i-put-if-x-42-in-red-list-of-c-c-bugs-p54)
+- [A Trip To The Beach](https://dev.to/madsstoumann/a-trip-to-the-beach-f9i)
+- [Using the New Milvus-Lite](https://dev.to/tspannhw/using-the-new-milvus-lite-4dea)
 <!-- BLOG-POST-LIST:END -->
 
