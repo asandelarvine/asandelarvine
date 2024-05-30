@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Search Accuracy with RRF&lpar;Reciprocal Rank Fusion&rpar; in Alibaba Cloud Elasticsearch 8.x](https://dev.to/a_lucas/enhancing-search-accuracy-with-rrfreciprocal-rank-fusion-in-alibaba-cloud-elasticsearch-8x-2i5l)
+- [Connecting to IRC with Halloy](https://dev.to/djdesu/connecting-to-irc-with-halloy-5i8)
+- [How Moonrepo Recognizes Project Languages](https://dev.to/suin/how-moonrepo-recognizes-project-languages-5ck5)
 - [How I became a better software engineer by using a visual knowledge management tool](https://dev.to/leonardoventurini/how-i-became-a-better-software-engineer-by-using-a-visual-knowledge-management-tool-33kf)
-- [C# dagi Method overload va Method group.](https://dev.to/farkhadk/c-dagi-method-overload-va-method-group-3p7k)
-- [Entenda o que é CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/thiagohnrt/entenda-o-que-e-cors-cross-origin-resource-sharing-2601)
-- [Introduction to API Design and Development with Swagger](https://dev.to/kartikmehta8/introduction-to-api-design-and-development-with-swagger-5dfm)
 <!-- BLOG-POST-LIST:END -->
 
