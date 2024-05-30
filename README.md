@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Retrieval Augmented Generation &lpar;RAG&rpar; Work](https://dev.to/cybersasa/how-retrieval-augmented-generation-rag-work-101e)
-- [Awesome JavaScript Frameworks that make workflow simple and easy](https://dev.to/mroman7/awesome-javascript-frameworks-that-make-workflow-simple-and-easy-10lo)
-- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-4kp0)
-- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-min)
+- [Views vs. Materialized Views: What’s the Difference?](https://dev.to/dbvismarketing/views-vs-materialized-views-whats-the-difference-2e5b)
+- [My 1st Post! - Intro &amp; why I joined Dev.to](https://dev.to/ryoichihomma/my-1st-post-intro-why-i-joined-devto-ind)
+- [Enhancing Workstation Security with Single Sign-On &lpar;SSO&rpar; Solutions](https://dev.to/blogginger/enhancing-workstation-security-with-single-sign-on-sso-solutions-17jb)
+- [Telehealth Solutions on AWS: Connecting Patients and Providers](https://dev.to/sidrasaleem296/telehealth-solutions-on-aws-connecting-patients-and-providers-32i3)
 <!-- BLOG-POST-LIST:END -->
 
