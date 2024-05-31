@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy Web3 Coding: The Ultimate Tool You Need For DApp Development — TransactionKit](https://dev.to/etherspot/easy-web3-coding-the-ultimate-tool-you-need-for-dapp-development-transactionkit-5ded)
-- [RSA Conference 2024: AI and the Future Of Security](https://dev.to/gitguardian/rsa-conference-2024-ai-and-the-future-of-security-5463)
-- [Suivi de la géolocalisation en JavaScript avec l&#39;API Google Maps](https://dev.to/pubnub-fr/suivi-de-la-geolocalisation-en-javascript-avec-lapi-google-maps-27af)
-- [Top 50 Python Projects You Can Build Today 🚀🐍](https://dev.to/kumarkalyan/top-50-python-projects-you-can-build-today-34h5)
+- [API Integration: A Game-Changer for Your Business](https://dev.to/apidna/api-integration-a-game-changer-for-your-business-59il)
+- [Como projetar para várias telas? Aprenda os 4c&#39;s](https://dev.to/devsnorte/como-projetar-para-varias-telas-aprenda-os-4cs-551)
+- [How to setup an Apache server on Ubuntu 22.04.4 LTS with Virtual hosting](https://dev.to/oyololatoni/how-to-setup-an-apache-server-on-ubuntu-22044-lts-with-virtual-hosting-1mnm)
+- [how to use navbar in react ant design 5](https://dev.to/aaronnfs/how-to-use-navbar-in-react-ant-design-5-1bfp)
 <!-- BLOG-POST-LIST:END -->
 
