@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering ReactJS: A Comprehensive Roadmap](https://dev.to/vyan/mastering-reactjs-a-comprehensive-roadmap-8pn)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-3g0f)
-- [Mastering Go: Guide to Type Declarations, Variables, and Constants](https://dev.to/saumya27/mastering-go-guide-to-type-declarations-variables-and-constants-2agb)
-- [Difference between Functional Testing and Non-Functional Testing with examples](https://dev.to/s1eb0d54/difference-between-functional-testing-and-non-functional-testing-with-examples-3a81)
+- [100 Salesforce Pardot Interview Questions and Answers](https://dev.to/doriansabitov/100-salesforce-pardot-interview-questions-and-answers-kk3)
+- [Level Up Your Coding Skills: Rust Operators Simplified.](https://dev.to/johnniekay/level-up-your-coding-skills-rust-operators-simplified-4fjj)
+- [The Importance of Comments in Large Projects](https://dev.to/vidyarathna/the-importance-of-comments-in-large-projects-34ka)
+- [Entity FrameWork](https://dev.to/mohamedabdiahmed/entity-framework-4e37)
 <!-- BLOG-POST-LIST:END -->
 
