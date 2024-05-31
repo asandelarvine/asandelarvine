@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory-efficient mass data transfer between Excel and database using Apache POI, Spring Event, Async Threads](https://dev.to/andrewkangg/memory-efficient-mass-data-transfer-between-excel-and-database-using-apache-poi-spring-event-async-threads-3ejc)
-- [This Week In React #187: Next.js, Expo, Popover, rethrow, SWR, React-Query, Astro, PPR...](https://dev.to/sebastienlorber/this-week-in-react-187-nextjs-expo-popover-rethrow-swr-react-query-astro-ppr-2k8d)
-- [コグニティブ・サービスのユースケースを探る](https://dev.to/pubnub-jp/koguniteibusabisunoyusukesuwotan-ru-59h6)
-- [React Big Calendar Functionality in a Scheduling Application](https://dev.to/spencerbrown80/react-big-calendar-functionality-in-a-scheduling-application-2n4g)
+- [Easy Web3 Coding: The Ultimate Tool You Need For DApp Development — TransactionKit](https://dev.to/etherspot/easy-web3-coding-the-ultimate-tool-you-need-for-dapp-development-transactionkit-5ded)
+- [RSA Conference 2024: AI and the Future Of Security](https://dev.to/gitguardian/rsa-conference-2024-ai-and-the-future-of-security-5463)
+- [Suivi de la géolocalisation en JavaScript avec l&#39;API Google Maps](https://dev.to/pubnub-fr/suivi-de-la-geolocalisation-en-javascript-avec-lapi-google-maps-27af)
+- [Top 50 Python Projects You Can Build Today 🚀🐍](https://dev.to/kumarkalyan/top-50-python-projects-you-can-build-today-34h5)
 <!-- BLOG-POST-LIST:END -->
 
