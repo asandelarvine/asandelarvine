@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Homework](https://dev.to/xojiakbar_abdulaxatov_48e/homework-3pmc)
-- [Leveraging Multicore Processors &lpar;M1 &amp; M2&rpar; for Delay Sensitive Audio Application Development in MacOS](https://dev.to/mrasyadc/leveraging-multicore-processors-m1-m2-for-delay-sensitive-audio-application-development-in-macos-26kn)
-- [Announcing an Open-Source 200-JavaScript Project List](https://dev.to/dk119819/announcing-an-open-source-200-javascript-project-list-58g4)
-- [🔍📊 Mastering the Magic: Algorithms &amp; Data Structures in Programming ✨](https://dev.to/learn_with_santosh/mastering-the-magic-algorithms-data-structures-in-programming-3fjh)
+- [The Future of Software is Couture: Tailoring Technology to Individual Needs](https://dev.to/shieldstring/the-future-of-software-is-couture-tailoring-technology-to-individual-needs-30aj)
+- [Generics in Rust: visualizing Bezier curves in a Jupyter notebook -- Part 3](https://dev.to/iprosk/generics-in-rust-visualizing-bezier-curves-in-a-jupyter-notebook-part-3-565n)
+- [Crafting a Cohesive UI Color Palette: A Step-by-Step Guide😬👀](https://dev.to/sahilshityalkar/crafting-a-cohesive-ui-color-palette-a-step-by-step-guide-48bp)
+- [AI and Developers: Positive Impacts, Concerns, and Solutions](https://dev.to/kukhoonryou/ai-and-developers-positive-impacts-concerns-and-solutions-48ie)
 <!-- BLOG-POST-LIST:END -->
 
