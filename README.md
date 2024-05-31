@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Salesforce Pardot Interview Questions and Answers](https://dev.to/doriansabitov/100-salesforce-pardot-interview-questions-and-answers-kk3)
-- [Level Up Your Coding Skills: Rust Operators Simplified.](https://dev.to/johnniekay/level-up-your-coding-skills-rust-operators-simplified-4fjj)
-- [The Importance of Comments in Large Projects](https://dev.to/vidyarathna/the-importance-of-comments-in-large-projects-34ka)
-- [Entity FrameWork](https://dev.to/mohamedabdiahmed/entity-framework-4e37)
+- [Mastering JavaScript Loops🔁: for, for...in, for...of, and forEach.🚀](https://dev.to/dharamgfx/mastering-javascript-loops-for-forin-forof-and-foreach-1ded)
+- [Ultimate Guide to Basic Server Types](https://dev.to/kernelrb/ultimate-guide-to-basic-server-types-56i1)
+- [TailwindCSS | Group Selector](https://dev.to/shubhamtiwari909/tailwindcss-group-focus-4pao)
+- [Part 3 Angular&#39;s ngOnInit: Your Key to Component Initialization Excellence](https://dev.to/chintanonweb/part-3-angulars-ngoninit-your-key-to-component-initialization-excellence-11gm)
 <!-- BLOG-POST-LIST:END -->
 
