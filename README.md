@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure - Building Multimodal Generative Experiences. Part 2](https://dev.to/manjunani/azure-building-multimodal-generative-experiences-part-2-i3)
-- [How To Tell An Amateur Programmer From a Professional](https://dev.to/thekarlesi/how-to-tell-an-amateur-programmer-from-a-professional-1dnn)
-- [Dev Archetypes: How to Recognize Yours and Leverage It](https://dev.to/jeriel/dev-archetypes-how-to-recognize-yours-and-leverage-it-3o4o)
-- [First Glance at Ansible](https://dev.to/feng_wei/first-glance-at-ansible-3522)
+- [1. Concorrência Java: Threads! Processando em Paralelo e Ganhando Throughput](https://dev.to/kauegatto/1-concorrencia-java-threads-processando-em-paralelo-e-ganhando-throughput-426)
+- [Glam Up My Markup: Beaches](https://dev.to/altafsyah/glam-up-my-markup-beaches-4hfg)
+- [Next.js: Simple Example using revalidateTag](https://dev.to/jonathan-dev/nextjs-simple-example-using-revalidatetag-41f5)
+- [Why You Should Choose TypeScript Over JavaScript](https://dev.to/vyan/why-you-should-choose-typescript-over-javascript-d5m)
 <!-- BLOG-POST-LIST:END -->
 
