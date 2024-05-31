@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro: Working with the Playwright Framework](https://dev.to/amanda_guan_582314203565d/working-with-the-playwright-framework-an-in-depth-journey-1nn6)
-- [Variables &lpar;O&#39;zgaruvchilar&rpar;](https://dev.to/muxiddin/variables-ozgaruvchilar-2ofm)
-- [The end of my first week, can&#39;t wait for the next one!](https://dev.to/angeljrp/the-end-of-my-first-week-cant-wait-for-the-next-one-58jb)
-- [How to provide private storage for internal company documents](https://dev.to/stippy4real/how-to-provide-private-storage-for-internal-company-documents-43kj)
+- [Important Terminologies in JavaScript](https://dev.to/bhavesh_jadhav_dc5b8ed28b/important-terminologies-in-javascript-4cp6)
+- [Babylon.js Browser MMO - DevLog - Update #1 - Rewriting to ECS framework](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-1-rewriting-to-ecs-framework-1pme)
+- [Essential Helper Functions for Your JavaScript Projects](https://dev.to/timmy471/essential-helper-functions-for-your-javascript-projects-4n5f)
+- [Cloud Resume Challenge Chunk 1](https://dev.to/brianhaas/cloud-resume-challenge-chunk-1-3681)
 <!-- BLOG-POST-LIST:END -->
 
