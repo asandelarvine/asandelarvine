@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Important Terminologies in JavaScript](https://dev.to/bhavesh_jadhav_dc5b8ed28b/important-terminologies-in-javascript-4cp6)
-- [Babylon.js Browser MMO - DevLog - Update #1 - Rewriting to ECS framework](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-1-rewriting-to-ecs-framework-1pme)
-- [Essential Helper Functions for Your JavaScript Projects](https://dev.to/timmy471/essential-helper-functions-for-your-javascript-projects-4n5f)
-- [Cloud Resume Challenge Chunk 1](https://dev.to/brianhaas/cloud-resume-challenge-chunk-1-3681)
+- [Comprehensive Guide to SQL Operators](https://dev.to/kellyblaire/comprehensive-guide-to-sql-operators-1l81)
+- [AWS DataSync Accelerating Data Transfer for Software and Hardware Teams](https://dev.to/sudoconsultants/aws-datasync-accelerating-data-transfer-for-software-and-hardware-teams-3d2c)
+- [“Mail” example in shadcn-ui/ui manages state using Jotai.](https://dev.to/ramunarasinga/mail-example-in-shadcn-uiui-manages-state-using-jotai-5bb8)
+- [I built a React Native Boilerplate to ship your apps faster🚀](https://dev.to/rudolfsrijkuris/i-built-a-react-native-boilerplate-to-ship-your-apps-faster-2246)
 <!-- BLOG-POST-LIST:END -->
 
