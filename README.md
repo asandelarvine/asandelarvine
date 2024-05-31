@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Loops🔁: for, for...in, for...of, and forEach.🚀](https://dev.to/dharamgfx/mastering-javascript-loops-for-forin-forof-and-foreach-1ded)
-- [Ultimate Guide to Basic Server Types](https://dev.to/kernelrb/ultimate-guide-to-basic-server-types-56i1)
-- [TailwindCSS | Group Selector](https://dev.to/shubhamtiwari909/tailwindcss-group-focus-4pao)
-- [Part 3 Angular&#39;s ngOnInit: Your Key to Component Initialization Excellence](https://dev.to/chintanonweb/part-3-angulars-ngoninit-your-key-to-component-initialization-excellence-11gm)
+- [Memory-efficient mass data transfer between Excel and database using Apache POI, Spring Event, Async Threads](https://dev.to/andrewkangg/memory-efficient-mass-data-transfer-between-excel-and-database-using-apache-poi-spring-event-async-threads-3ejc)
+- [This Week In React #187: Next.js, Expo, Popover, rethrow, SWR, React-Query, Astro, PPR...](https://dev.to/sebastienlorber/this-week-in-react-187-nextjs-expo-popover-rethrow-swr-react-query-astro-ppr-2k8d)
+- [コグニティブ・サービスのユースケースを探る](https://dev.to/pubnub-jp/koguniteibusabisunoyusukesuwotan-ru-59h6)
+- [React Big Calendar Functionality in a Scheduling Application](https://dev.to/spencerbrown80/react-big-calendar-functionality-in-a-scheduling-application-2n4g)
 <!-- BLOG-POST-LIST:END -->
 
