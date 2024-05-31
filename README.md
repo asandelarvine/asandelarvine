@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spiner 0.1.3 beta | New Editor!](https://dev.to/eliaondacs/spiner-013-beta-new-editor-4428)
-- [Creative ways to use Array.map&lpar;&rpar;](https://dev.to/aneeqakhan/creative-ways-to-use-arraymap-4ce1)
-- [Advanced MongoDB: Mastering Query Optimization and Complex Aggregations](https://dev.to/bilelsalemdev/advanced-mongodb-mastering-query-optimization-and-complex-aggregations-28gb)
-- [Need help in SvelteKit query based tab navigation.](https://dev.to/sarandha/need-help-in-sveltekit-query-based-tab-navigation-31id)
+- [The Frontend Challenge: Celebrating June with Chhota Bheem Adventures](https://dev.to/niketmishra/the-frontend-challenge-celebrating-june-with-chhota-bheem-adventures-3a0a)
+- [How to Switch from HTTPS to SSH for GitLab Repositories](https://dev.to/mochafreddo/how-to-switch-from-https-to-ssh-for-gitlab-repositories-2b4o)
+- [A data analysis engine reducing application cost by N times](https://dev.to/esproc_spl/a-data-analysis-engine-reducing-application-cost-by-n-times-3ph6)
+- [Debugging in VSCode: Tips and Tricks for Efficient Debugging](https://dev.to/umeshtharukaofficial/debugging-in-vscode-tips-and-tricks-for-efficient-debugging-3757)
 <!-- BLOG-POST-LIST:END -->
 
