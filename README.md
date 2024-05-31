@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Frontend Challenge: Celebrating June with Chhota Bheem Adventures](https://dev.to/niketmishra/the-frontend-challenge-celebrating-june-with-chhota-bheem-adventures-3a0a)
-- [How to Switch from HTTPS to SSH for GitLab Repositories](https://dev.to/mochafreddo/how-to-switch-from-https-to-ssh-for-gitlab-repositories-2b4o)
-- [A data analysis engine reducing application cost by N times](https://dev.to/esproc_spl/a-data-analysis-engine-reducing-application-cost-by-n-times-3ph6)
-- [Debugging in VSCode: Tips and Tricks for Efficient Debugging](https://dev.to/umeshtharukaofficial/debugging-in-vscode-tips-and-tricks-for-efficient-debugging-3757)
+- [MY Submission for dev/Frontend_Challenge June edition](https://dev.to/prakhar30/my-submission-for-devfrontendchallenge-june-edition-434n)
+- [Enhancing Data Security with Role-Based Access Control of Qdrant Vector Database](https://dev.to/quamernasim/enhancing-data-security-with-role-based-access-control-of-qdrant-vector-database-1ii4)
+- [Get Creative: How Generative AI is Shaping the Future](https://dev.to/krunalbhimani/get-creative-how-generative-ai-is-shaping-the-future-128f)
+- [Why migrate VB6 to .NET code in 2024](https://dev.to/abtosoftware/why-migrate-vb6-to-net-code-in-2024-1ni9)
 <!-- BLOG-POST-LIST:END -->
 
