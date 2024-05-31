@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn CSS BOX MODEL](https://dev.to/jitendrachoudhary/learn-css-box-model-mgh)
-- [JS Versialar haqida ma&#39;lumot](https://dev.to/muxiddin/js-versialar-haqida-malumot-dgd)
-- [Distributed Snapshots: Chandy-Lamport protocol](https://dev.to/federico_ponzi/distributed-snapshots-chandy-lamport-protocol-32o7)
-- [Upstream preview: Secure by design with Aeva Black and Jack Cable from CISA](https://dev.to/tidelift/upstream-preview-secure-by-design-with-aeva-black-and-jack-cable-from-cisa-182h)
+- [pyaction pulled 4 million times and counting from the GitHub Container Registry](https://dev.to/cicirello/pyaction-pulled-4-million-times-and-counting-from-the-github-container-registry-47i3)
+- [Forensic Analysis of AWS EBS Volumes: Pentesting Storage](https://dev.to/sudoconsultants/forensic-analysis-of-aws-ebs-volumes-pentesting-storage-20ch)
+- [How to Integrate Your Poe.com Ai Bot into Your Website: A Step-by-Step Guide](https://dev.to/thelime1/how-to-integrate-your-poecom-ai-bot-into-your-website-a-step-by-step-guide-32m3)
+- [The Rise of Edge Computing: Enhancing Data Processing and Security](https://dev.to/futuristicgeeks/the-rise-of-edge-computing-enhancing-data-processing-and-security-5ee0)
 <!-- BLOG-POST-LIST:END -->
 
