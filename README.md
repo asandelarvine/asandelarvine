@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Object Accessors](https://dev.to/jps27cse/understanding-javascript-object-accessors-3i25)
-- [A Beginner’s Guide to Using Vuex](https://dev.to/delia_code/a-beginners-guide-to-using-vuex-4egh)
-- [Querying DNS Records with PowerShell](https://dev.to/techielass/querying-dns-records-with-powershell-35pp)
-- [Search a 2D Matrix | LeetCode | Java](https://dev.to/tanujav/search-a-2d-matrix-leetcode-java-1e1n)
+- [Spiner 0.1.3 beta | New Editor!](https://dev.to/eliaondacs/spiner-013-beta-new-editor-4428)
+- [Creative ways to use Array.map&lpar;&rpar;](https://dev.to/aneeqakhan/creative-ways-to-use-arraymap-4ce1)
+- [Advanced MongoDB: Mastering Query Optimization and Complex Aggregations](https://dev.to/bilelsalemdev/advanced-mongodb-mastering-query-optimization-and-complex-aggregations-28gb)
+- [Need help in SvelteKit query based tab navigation.](https://dev.to/sarandha/need-help-in-sveltekit-query-based-tab-navigation-31id)
 <!-- BLOG-POST-LIST:END -->
 
