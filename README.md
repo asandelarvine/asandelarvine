@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Serverless Application In AWS](https://dev.to/anson_ly/build-serverless-application-in-aws-4b2i)
-- [Book Synopsis &amp; Review - Docs Like Code](https://dev.to/dreamlogic/book-synopsis-review-docs-like-code-5g7c)
-- [Open AI with Vercel: Solution to Gateway Timeouts](https://dev.to/buildwebcrumbs/open-ai-with-vercel-a-way-around-gateway-timeouts-1ec9)
-- [What programming language would be dealing more with AI?](https://dev.to/gaebh/what-programming-language-would-be-dealing-more-with-ai-kgh)
+- [Azure - Building Multimodal Generative Experiences. Part 2](https://dev.to/manjunani/azure-building-multimodal-generative-experiences-part-2-i3)
+- [How To Tell An Amateur Programmer From a Professional](https://dev.to/thekarlesi/how-to-tell-an-amateur-programmer-from-a-professional-1dnn)
+- [Dev Archetypes: How to Recognize Yours and Leverage It](https://dev.to/jeriel/dev-archetypes-how-to-recognize-yours-and-leverage-it-3o4o)
+- [First Glance at Ansible](https://dev.to/feng_wei/first-glance-at-ansible-3522)
 <!-- BLOG-POST-LIST:END -->
 
