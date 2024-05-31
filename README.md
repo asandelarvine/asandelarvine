@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Integration: A Game-Changer for Your Business](https://dev.to/apidna/api-integration-a-game-changer-for-your-business-59il)
-- [Como projetar para várias telas? Aprenda os 4c&#39;s](https://dev.to/devsnorte/como-projetar-para-varias-telas-aprenda-os-4cs-551)
-- [How to setup an Apache server on Ubuntu 22.04.4 LTS with Virtual hosting](https://dev.to/oyololatoni/how-to-setup-an-apache-server-on-ubuntu-22044-lts-with-virtual-hosting-1mnm)
-- [how to use navbar in react ant design 5](https://dev.to/aaronnfs/how-to-use-navbar-in-react-ant-design-5-1bfp)
+- [How I Manage to Do Everything I Love: Time Blocking Tips and Personal Insights](https://dev.to/per-starke-642/how-i-manage-to-do-everything-i-love-time-blocking-tips-and-personal-insights-2pen)
+- [Decorating with React and TypeScript](https://dev.to/abglassford/decorating-with-react-and-typescript-237p)
+- [How to secure a WordPress site: auditing and monitoring tools](https://dev.to/ispmanager_com/how-to-secure-a-wordpress-site-auditing-and-monitoring-tools-4ba9)
+- [HOW TO CONNECT AN INTERNET OF THINGS &lpar;IoT&rpar; TO RASPBERRY PI SIMULATOR IN AZURE CLOUD THROUGH IoT HUB FOR COMMUNICATION AND DATA](https://dev.to/latoniw/how-to-connect-an-internet-of-things-iot-to-raspberry-pi-simulator-in-azure-cloud-through-iot-hub-for-communication-and-data-7ek)
 <!-- BLOG-POST-LIST:END -->
 
