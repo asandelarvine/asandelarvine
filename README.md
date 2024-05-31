@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Storage - On-Behalf-Of token and audit log](https://dev.to/campelo/azure-storage-on-behalf-of-token-and-audit-log-502l)
-- [Thoughts about SOLID - The Letter &quot;I&quot;](https://dev.to/mdeamp/thoughts-about-solid-the-letter-i-3gp7)
-- [Reflexões sobre SOLID - A Letra &quot;I&quot;](https://dev.to/mdeamp/reflexoes-sobre-solid-a-letra-i-1684)
-- [MuleSoft Associate Certification: Essential Tips and Key Concepts](https://dev.to/this-is-learning/mulesoft-associate-certification-essential-tips-and-key-concepts-505m)
+- [Build Serverless Application In AWS](https://dev.to/anson_ly/build-serverless-application-in-aws-4b2i)
+- [Book Synopsis &amp; Review - Docs Like Code](https://dev.to/dreamlogic/book-synopsis-review-docs-like-code-5g7c)
+- [Open AI with Vercel: Solution to Gateway Timeouts](https://dev.to/buildwebcrumbs/open-ai-with-vercel-a-way-around-gateway-timeouts-1ec9)
+- [What programming language would be dealing more with AI?](https://dev.to/gaebh/what-programming-language-would-be-dealing-more-with-ai-kgh)
 <!-- BLOG-POST-LIST:END -->
 
