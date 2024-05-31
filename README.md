@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1. Concorrência Java: Threads! Processando em Paralelo e Ganhando Throughput](https://dev.to/kauegatto/1-concorrencia-java-threads-processando-em-paralelo-e-ganhando-throughput-426)
-- [Glam Up My Markup: Beaches](https://dev.to/altafsyah/glam-up-my-markup-beaches-4hfg)
-- [Next.js: Simple Example using revalidateTag](https://dev.to/jonathan-dev/nextjs-simple-example-using-revalidatetag-41f5)
-- [Why You Should Choose TypeScript Over JavaScript](https://dev.to/vyan/why-you-should-choose-typescript-over-javascript-d5m)
+- [Homework](https://dev.to/xojiakbar_abdulaxatov_48e/homework-3pmc)
+- [Leveraging Multicore Processors &lpar;M1 &amp; M2&rpar; for Delay Sensitive Audio Application Development in MacOS](https://dev.to/mrasyadc/leveraging-multicore-processors-m1-m2-for-delay-sensitive-audio-application-development-in-macos-26kn)
+- [Announcing an Open-Source 200-JavaScript Project List](https://dev.to/dk119819/announcing-an-open-source-200-javascript-project-list-58g4)
+- [🔍📊 Mastering the Magic: Algorithms &amp; Data Structures in Programming ✨](https://dev.to/learn_with_santosh/mastering-the-magic-algorithms-data-structures-in-programming-3fjh)
 <!-- BLOG-POST-LIST:END -->
 
