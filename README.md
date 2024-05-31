@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MY Submission for dev/Frontend_Challenge June edition](https://dev.to/prakhar30/my-submission-for-devfrontendchallenge-june-edition-434n)
-- [Enhancing Data Security with Role-Based Access Control of Qdrant Vector Database](https://dev.to/quamernasim/enhancing-data-security-with-role-based-access-control-of-qdrant-vector-database-1ii4)
-- [Get Creative: How Generative AI is Shaping the Future](https://dev.to/krunalbhimani/get-creative-how-generative-ai-is-shaping-the-future-128f)
-- [Why migrate VB6 to .NET code in 2024](https://dev.to/abtosoftware/why-migrate-vb6-to-net-code-in-2024-1ni9)
+- [Mastering ReactJS: A Comprehensive Roadmap](https://dev.to/vyan/mastering-reactjs-a-comprehensive-roadmap-8pn)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-3g0f)
+- [Mastering Go: Guide to Type Declarations, Variables, and Constants](https://dev.to/saumya27/mastering-go-guide-to-type-declarations-variables-and-constants-2agb)
+- [Difference between Functional Testing and Non-Functional Testing with examples](https://dev.to/s1eb0d54/difference-between-functional-testing-and-non-functional-testing-with-examples-3a81)
 <!-- BLOG-POST-LIST:END -->
 
