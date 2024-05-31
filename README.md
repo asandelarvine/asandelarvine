@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [pyaction pulled 4 million times and counting from the GitHub Container Registry](https://dev.to/cicirello/pyaction-pulled-4-million-times-and-counting-from-the-github-container-registry-47i3)
-- [Forensic Analysis of AWS EBS Volumes: Pentesting Storage](https://dev.to/sudoconsultants/forensic-analysis-of-aws-ebs-volumes-pentesting-storage-20ch)
-- [How to Integrate Your Poe.com Ai Bot into Your Website: A Step-by-Step Guide](https://dev.to/thelime1/how-to-integrate-your-poecom-ai-bot-into-your-website-a-step-by-step-guide-32m3)
-- [The Rise of Edge Computing: Enhancing Data Processing and Security](https://dev.to/futuristicgeeks/the-rise-of-edge-computing-enhancing-data-processing-and-security-5ee0)
+- [Retro: Working with the Playwright Framework](https://dev.to/amanda_guan_582314203565d/working-with-the-playwright-framework-an-in-depth-journey-1nn6)
+- [Variables &lpar;O&#39;zgaruvchilar&rpar;](https://dev.to/muxiddin/variables-ozgaruvchilar-2ofm)
+- [The end of my first week, can&#39;t wait for the next one!](https://dev.to/angeljrp/the-end-of-my-first-week-cant-wait-for-the-next-one-58jb)
+- [How to provide private storage for internal company documents](https://dev.to/stippy4real/how-to-provide-private-storage-for-internal-company-documents-43kj)
 <!-- BLOG-POST-LIST:END -->
 
