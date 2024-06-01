@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World AVS: Dev Entrypoint](https://dev.to/gaj/hello-world-avs-dev-entrypoint-f92)
-- [REST API Design Rules](https://dev.to/ezekiel_77/rest-api-design-rules-2c4j)
-- [Introduction to EigenLayer](https://dev.to/gaj/introduction-to-eigenlayer-45ob)
-- [My Top 5 Favorite Algorithm Problems at Codewars](https://dev.to/zeedu_dev/my-top-5-favorite-algorithm-problems-at-codewars-545k)
+- [The 8-Hour Debug: How a Silly Mistake Cost Me a Day](https://dev.to/mmvergara/the-8-hour-debug-how-a-silly-mistake-cost-me-a-day-543e)
+- [[Game of Purpose] Day 14](https://dev.to/humberd/game-of-purpose-day-14-520)
+- [The Start of E.V.O T](https://dev.to/kevinpalma21/the-start-of-evo-t-ibf)
+- [Transform Game Visuals Using Meta AI](https://dev.to/gift_mugweni_1c055b418706/transform-game-visuals-using-meta-ai-1hn5)
 <!-- BLOG-POST-LIST:END -->
 
