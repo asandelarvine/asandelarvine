@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A practical guide against barrel files for library authors](https://dev.to/thepassle/a-practical-guide-against-barrel-files-for-library-authors-118c)
-- [Promise.race: The best method to implement time limit on Promises. ⏳](https://dev.to/creuserr/promiserace-the-best-method-to-implement-time-limit-on-promises-3dm6)
-- [Ubuntu上默认证书库是怎么回事](https://dev.to/shouhua_57/ubuntushang-mo-ren-zheng-shu-ku-shi-zen-yao-hui-shi-28kc)
-- [Latest Newsletter: Vibes, the Economy, Blogging and Freedom &lpar;Issue #166&rpar;](https://dev.to/mjgs/latest-newsletter-vibes-the-economy-blogging-and-freedom-issue-166-5bfn)
+- [My one Month AZ-900 Exam Prep Journey](https://dev.to/untrus12345/my-one-month-az-900-exam-prep-journey-60)
+- [Crack the Code: Hosting Your Website on GitHub Pages](https://dev.to/angelika_jolly_4aa3821499/crack-the-code-hosting-your-website-on-github-pages-1na)
+- [How to compile, deploy and interact with smart contracts using Apeworx&lpar;ape&rpar; and VS Code.](https://dev.to/mosesmuwawu/how-to-compile-deploy-and-interact-with-smart-contracts-using-apeworxape-and-vs-code-4hie)
+- [Navigating the Cloud: My Journey through AWS Certification](https://dev.to/amitkolekar/navigating-the-cloud-my-journey-through-aws-certification-4p70)
 <!-- BLOG-POST-LIST:END -->
 
