@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Achieving the AWS Cloud Practitioner Badge](https://dev.to/yasodha_n_d0cc5b4deb74194/my-journey-to-achieving-the-aws-cloud-practitioner-badge-21ai)
-- [Unit Tests for Frontend Developers &lpar;with code examples&rpar; [Part 1]](https://dev.to/solleedata/unit-tests-for-frontend-developers-with-code-examples-part-1-2f2p)
-- [Scaling Your Storage Needs: A Deep Dive into AWS S3](https://dev.to/virajlakshitha/scaling-your-storage-needs-a-deep-dive-into-aws-s3-8bg)
-- [Take control! Run ChatGPT and Github Copilot yourself!](https://dev.to/sein_digital/personal-free-open-source-openai-like-gpt-4an7)
+- [Building a Simple Kafka Producer and Consumer using Python](https://dev.to/abhinav_nath/building-a-simple-kafka-producer-and-consumer-using-python-4o5h)
+- [3110. Score of a String](https://dev.to/karleb/3110-score-of-a-string-17jg)
+- [&quot;Heading elements are not in a sequentially-descending order.&quot;](https://dev.to/sandeepcnath/heading-elements-are-not-in-a-sequentially-descending-order-2306)
+- [My Journey Through the AWS Cloud Practitioner Course](https://dev.to/magesh_sri_2bf29ab9cdbbc8/my-journey-through-the-aws-cloud-practitioner-course-22if)
 <!-- BLOG-POST-LIST:END -->
 
