@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In-Project Virtualenvs in Poetry](https://dev.to/rudolfolah/in-project-virtualenvs-in-poetry-30km)
-- [Django: Generic List and Detail Views](https://dev.to/samuellubliner/django-generic-list-and-detail-views-3nfc)
-- [Glam Up My Markup: Beaches Challenge](https://dev.to/minalfatih/glam-up-my-markup-beaches-challenge-5dld)
-- [Building Chat Applications with OpenAI&#39;s GPT-3.5-turbo using Streamlit, Chainlit, and Gradio](https://dev.to/samagra07/building-chat-applications-with-openais-gpt-35-turbo-using-streamlit-chainlit-and-gradio-4g6p)
+- [PAT TASK 17 Selenium](https://dev.to/jalikatti/pat-task-17-selenium-4aae)
+- [Let&#39;s Start Exploring OOP without saying OOPS. #Day1](https://dev.to/developervignesh/lets-start-exploring-oop-without-saying-oops-day1-3c9e)
+- [VS Code extensions for React developers](https://dev.to/kevinbenjamin77/vs-code-extensions-for-react-developers-3k35)
+- [Bloom Filter](https://dev.to/princekumar799/bloom-filter-14k2)
 <!-- BLOG-POST-LIST:END -->
 
