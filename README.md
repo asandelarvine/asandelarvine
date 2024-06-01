@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you understand what a Microservice or Monolith architecture is after all?](https://dev.to/sourabpramanik/how-do-you-understand-what-a-microservice-or-monolith-architecture-is-after-all-2i1o)
-- [I Got Rejected by Y Combinator This Week &#39;S24 😅](https://dev.to/omranic/i-got-rejected-by-y-combinator-this-week-s24-522c)
-- [How to create a beautiful square in HTML CSS No JS](https://dev.to/tidycoder/how-to-create-a-beautiful-square-in-html-css-no-js-i20)
-- [3 Tips to Use DEV Better](https://dev.to/mikeselva/3-tips-to-use-dev-better-1l7i)
+- [** Autenticación en Aplicaciones Web: Explicado al estilo de Beavis &amp; Butthead **🔐](https://dev.to/orlidev/-autenticacion-en-aplicaciones-web-explicado-al-estilo-de-beavis-butthead--5c6l)
+- [How was your tech stack switching experience? what difficulty you faced, specially to be java developer ?](https://dev.to/mrmonk/how-was-your-tech-stack-switching-experience-what-difficulty-you-faced-specially-to-be-java-developer--59a0)
+- [Build a password manager with Rust - Part 2](https://dev.to/damcosset/build-a-password-manager-with-rust-part-2-3bmm)
+- [Update Profile README with Latest Blog Posts](https://dev.to/mikeselva/update-profile-readme-with-latest-blog-posts-57bj)
 <!-- BLOG-POST-LIST:END -->
 
