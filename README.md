@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a fully-fledged telegram bot in Python](https://dev.to/emiloju/how-to-build-a-fully-fledged-telegram-bot-in-python-2al0)
-- [On VSCode, how to open the selected folder from Explorer view into the current open terminal &lpar;without opening a new one&rpar;?](https://dev.to/eduardohilariodev/on-vscode-how-to-open-the-selected-folder-from-explorer-view-into-the-current-open-terminal-without-opening-a-new-one-2d93)
-- [Cloud Resume Challenge - Chunk 3](https://dev.to/brianhaas/cloud-resume-challenge-chunk-3-4ana)
-- [Node.js is not single-threaded](https://dev.to/nowaliraza/nodejs-is-not-single-threaded-2i1l)
+- [How to setup ishaan1013/sandbox locally](https://dev.to/jamesmurdza/how-to-setup-ishaan1013sandbox-locally-503p)
+- [Advanced Object-Oriented Programming in Java](https://dev.to/kartikmehta8/advanced-object-oriented-programming-in-java-5a77)
+- [Why Spring Matters for Java Developers](https://dev.to/tiuwill/why-spring-matters-for-java-developers-2jf2)
+- [Practical advice for writing React Components](https://dev.to/lime517/practical-advice-for-writing-react-components-1o85)
 <!-- BLOG-POST-LIST:END -->
 
