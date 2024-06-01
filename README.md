@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [** Autenticación en Aplicaciones Web: Explicado al estilo de Beavis &amp; Butthead **🔐](https://dev.to/orlidev/-autenticacion-en-aplicaciones-web-explicado-al-estilo-de-beavis-butthead--5c6l)
-- [How was your tech stack switching experience? what difficulty you faced, specially to be java developer ?](https://dev.to/mrmonk/how-was-your-tech-stack-switching-experience-what-difficulty-you-faced-specially-to-be-java-developer--59a0)
-- [Build a password manager with Rust - Part 2](https://dev.to/damcosset/build-a-password-manager-with-rust-part-2-3bmm)
-- [Update Profile README with Latest Blog Posts](https://dev.to/mikeselva/update-profile-readme-with-latest-blog-posts-57bj)
+- [In-Project Virtualenvs in Poetry](https://dev.to/rudolfolah/in-project-virtualenvs-in-poetry-30km)
+- [Django: Generic List and Detail Views](https://dev.to/samuellubliner/django-generic-list-and-detail-views-3nfc)
+- [Glam Up My Markup: Beaches Challenge](https://dev.to/minalfatih/glam-up-my-markup-beaches-challenge-5dld)
+- [Building Chat Applications with OpenAI&#39;s GPT-3.5-turbo using Streamlit, Chainlit, and Gradio](https://dev.to/samagra07/building-chat-applications-with-openais-gpt-35-turbo-using-streamlit-chainlit-and-gradio-4g6p)
 <!-- BLOG-POST-LIST:END -->
 
