@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup ishaan1013/sandbox locally](https://dev.to/jamesmurdza/how-to-setup-ishaan1013sandbox-locally-503p)
-- [Advanced Object-Oriented Programming in Java](https://dev.to/kartikmehta8/advanced-object-oriented-programming-in-java-5a77)
-- [Why Spring Matters for Java Developers](https://dev.to/tiuwill/why-spring-matters-for-java-developers-2jf2)
-- [Practical advice for writing React Components](https://dev.to/lime517/practical-advice-for-writing-react-components-1o85)
+- [Cómo Exponer un Servicio Local a Internet Usando ngrok en una Mac](https://dev.to/olverarobertp/como-exponer-un-servicio-local-a-internet-usando-ngrok-en-una-mac-1o3c)
+- [Unlocking the Decentralized Future: Exploring Web3 Technology 🔓](https://dev.to/vyan/unlocking-the-decentralized-future-exploring-web3-technology-3l01)
+- [Introduction To Mathematical Thinking](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc)
+- [Flower](https://dev.to/araguaci/flower-3oc3)
 <!-- BLOG-POST-LIST:END -->
 
