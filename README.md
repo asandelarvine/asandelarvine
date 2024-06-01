@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Kafka Producer and Consumer using Python](https://dev.to/abhinav_nath/building-a-simple-kafka-producer-and-consumer-using-python-4o5h)
-- [3110. Score of a String](https://dev.to/karleb/3110-score-of-a-string-17jg)
-- [&quot;Heading elements are not in a sequentially-descending order.&quot;](https://dev.to/sandeepcnath/heading-elements-are-not-in-a-sequentially-descending-order-2306)
-- [My Journey Through the AWS Cloud Practitioner Course](https://dev.to/magesh_sri_2bf29ab9cdbbc8/my-journey-through-the-aws-cloud-practitioner-course-22if)
+- [Questions to Ask During an Interview: Understand Company Culture and Job Expectations 🏢📝](https://dev.to/hey_rishabh/questions-to-ask-during-an-interview-understand-company-culture-and-job-expectations-1i2j)
+- [Survey: Supply chain risk’s impact on corporate financial performance](https://dev.to/tutti/survey-supply-chain-risks-impact-on-corporate-financial-performance-3b6j)
+- [Task - 2](https://dev.to/nandha_gopan_8d5cab887741/task-2-7k9)
+- [Unveiling the Future of Party Planning: My First Experience with the Party Rock AI App Builder](https://dev.to/dcvicta/unveiling-the-future-of-party-planning-my-first-experience-with-the-party-rock-ai-app-builder-46fo)
 <!-- BLOG-POST-LIST:END -->
 
