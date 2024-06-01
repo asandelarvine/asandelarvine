@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TLDR; Suspense in react-query](https://dev.to/thechaudhrysab/tldr-suspense-in-react-query-5f4c)
-- [EP-1: WTF is Spring Boot?](https://dev.to/0x4e43/ep-1-wtf-is-spring-boot-a31)
-- [Building Zerocalc, part I - rustc lexer and a lexer in rust](https://dev.to/michal1024/building-zerocalc-part-i-rustc-lexer-and-a-lexer-in-rust-3ipf)
-- [I&#39;m New To Flutter.](https://dev.to/lyzab/im-new-to-flutter-3j7g)
+- [Need Suggestion](https://dev.to/abdullah_ali_eb8b6b0c2208/need-suggestion-2i8g)
+- [Take me to a Beach! T-T](https://dev.to/dhrutisubham03/take-me-to-a-beach-t-t-5c5a)
+- [What state management system should I use with React Query for my MERN Stack project?](https://dev.to/said96dev/what-state-management-system-should-i-use-with-react-query-for-my-mern-stack-project-40hi)
+- [The No-Cheat Code Challenge - Surviving The Odin Project](https://dev.to/codebyblazej/the-no-cheat-code-challenge-surviving-the-odin-project-2oaa)
 <!-- BLOG-POST-LIST:END -->
 
