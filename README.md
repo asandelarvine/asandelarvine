@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mi primer Google I/O experience](https://dev.to/karmenatwork/mi-primer-google-io-experience-1d4k)
-- [Storing and Handling Confidential Data in ClickHouse](https://dev.to/ranjbaryshahab/storing-and-handling-confidential-data-in-clickhouse-2p04)
-- [Destructuring is Bad!](https://dev.to/imabhinavdev/destructuring-is-bad-4ioc)
-- [🚀 Innic —— Pioneering the AI SQL Revolution, Now Officially Launched!](https://dev.to/innicdata/innic-pioneering-the-ai-sql-revolution-now-officially-launched-51gp)
+- [Take control! Run ChatGPT and Github Copilot yourself!](https://dev.to/sein_digital/personal-free-open-source-openai-like-gpt-4an7)
+- [Particle Systems with Shaders: Creating particle systems for effects like fire, smoke, and magic spells.](https://dev.to/hayyanstudio/particle-systems-with-shaders-creating-particle-systems-for-effects-like-fire-smoke-and-magic-spells-1d74)
+- [Android Studio Jellyfish](https://dev.to/shubhadip_bhowmik/android-studio-jellyfish-5e8l)
+- [The DevRel Digest May 2024: Documentation and the Developer Journey](https://dev.to/lizzzzz/the-devrel-digest-may-2024-documentation-and-the-developer-journey-28m8)
 <!-- BLOG-POST-LIST:END -->
 
