@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey to Achieving the AWS Cloud Practitioner Badge](https://dev.to/yasodha_n_d0cc5b4deb74194/my-journey-to-achieving-the-aws-cloud-practitioner-badge-21ai)
+- [Unit Tests for Frontend Developers &lpar;with code examples&rpar; [Part 1]](https://dev.to/solleedata/unit-tests-for-frontend-developers-with-code-examples-part-1-2f2p)
+- [Scaling Your Storage Needs: A Deep Dive into AWS S3](https://dev.to/virajlakshitha/scaling-your-storage-needs-a-deep-dive-into-aws-s3-8bg)
 - [Take control! Run ChatGPT and Github Copilot yourself!](https://dev.to/sein_digital/personal-free-open-source-openai-like-gpt-4an7)
-- [Particle Systems with Shaders: Creating particle systems for effects like fire, smoke, and magic spells.](https://dev.to/hayyanstudio/particle-systems-with-shaders-creating-particle-systems-for-effects-like-fire-smoke-and-magic-spells-1d74)
-- [Android Studio Jellyfish](https://dev.to/shubhadip_bhowmik/android-studio-jellyfish-5e8l)
-- [The DevRel Digest May 2024: Documentation and the Developer Journey](https://dev.to/lizzzzz/the-devrel-digest-may-2024-documentation-and-the-developer-journey-28m8)
 <!-- BLOG-POST-LIST:END -->
 
