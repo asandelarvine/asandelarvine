@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PAT TASK 17 Selenium](https://dev.to/jalikatti/pat-task-17-selenium-4aae)
-- [Let&#39;s Start Exploring OOP without saying OOPS. #Day1](https://dev.to/developervignesh/lets-start-exploring-oop-without-saying-oops-day1-3c9e)
-- [VS Code extensions for React developers](https://dev.to/kevinbenjamin77/vs-code-extensions-for-react-developers-3k35)
-- [Bloom Filter](https://dev.to/princekumar799/bloom-filter-14k2)
+- [TLDR; Suspense in react-query](https://dev.to/thechaudhrysab/tldr-suspense-in-react-query-5f4c)
+- [EP-1: WTF is Spring Boot?](https://dev.to/0x4e43/ep-1-wtf-is-spring-boot-a31)
+- [Building Zerocalc, part I - rustc lexer and a lexer in rust](https://dev.to/michal1024/building-zerocalc-part-i-rustc-lexer-and-a-lexer-in-rust-3ipf)
+- [I&#39;m New To Flutter.](https://dev.to/lyzab/im-new-to-flutter-3j7g)
 <!-- BLOG-POST-LIST:END -->
 
