@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My one Month AZ-900 Exam Prep Journey](https://dev.to/untrus12345/my-one-month-az-900-exam-prep-journey-60)
-- [Crack the Code: Hosting Your Website on GitHub Pages](https://dev.to/angelika_jolly_4aa3821499/crack-the-code-hosting-your-website-on-github-pages-1na)
-- [How to compile, deploy and interact with smart contracts using Apeworx&lpar;ape&rpar; and VS Code.](https://dev.to/mosesmuwawu/how-to-compile-deploy-and-interact-with-smart-contracts-using-apeworxape-and-vs-code-4hie)
-- [Navigating the Cloud: My Journey through AWS Certification](https://dev.to/amitkolekar/navigating-the-cloud-my-journey-through-aws-certification-4p70)
+- [Currying in JavaScript](https://dev.to/mrhimanshusahni/currying-in-javascript-20d5)
+- [🌐 Why is front-end development so complicated?](https://dev.to/shehzadhussain/why-is-front-end-development-so-complicated-3g8o)
+- [Top Flutter Interview Questions and Answers](https://dev.to/lalyadav/top-flutter-interview-questions-and-answers-1hf9)
+- [🌊 Glam Up My Markup: Beach Edition 🌴](https://dev.to/programordie/glam-up-my-markup-beach-edition-17d4)
 <!-- BLOG-POST-LIST:END -->
 
