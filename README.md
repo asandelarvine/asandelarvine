@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Questions to Ask During an Interview: Understand Company Culture and Job Expectations 🏢📝](https://dev.to/hey_rishabh/questions-to-ask-during-an-interview-understand-company-culture-and-job-expectations-1i2j)
-- [Survey: Supply chain risk’s impact on corporate financial performance](https://dev.to/tutti/survey-supply-chain-risks-impact-on-corporate-financial-performance-3b6j)
-- [Task - 2](https://dev.to/nandha_gopan_8d5cab887741/task-2-7k9)
-- [Unveiling the Future of Party Planning: My First Experience with the Party Rock AI App Builder](https://dev.to/dcvicta/unveiling-the-future-of-party-planning-my-first-experience-with-the-party-rock-ai-app-builder-46fo)
+- [Lively Search Input with Animated Border Progress](https://dev.to/stefanak-michal/lively-search-input-with-animated-border-progress-37op)
+- [C# - Flatter structure vs Nested structure](https://dev.to/js123/c-flatter-structure-vs-nested-structure-3368)
+- [Optimizing Performance in Next.js 13+ Applications: Techniques for Faster Rendering](https://dev.to/codesensei/optimizing-performance-in-nextjs-13-applications-techniques-for-faster-rendering-1b6l)
+- [Integrate Slack with Jenkins to receive CICD pipeline notification](https://dev.to/rgupta87/integrate-slack-with-jenkins-to-receive-cicd-pipeline-notification-9mi)
 <!-- BLOG-POST-LIST:END -->
 
