@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Need Suggestion](https://dev.to/abdullah_ali_eb8b6b0c2208/need-suggestion-2i8g)
-- [Take me to a Beach! T-T](https://dev.to/dhrutisubham03/take-me-to-a-beach-t-t-5c5a)
-- [What state management system should I use with React Query for my MERN Stack project?](https://dev.to/said96dev/what-state-management-system-should-i-use-with-react-query-for-my-mern-stack-project-40hi)
-- [The No-Cheat Code Challenge - Surviving The Odin Project](https://dev.to/codebyblazej/the-no-cheat-code-challenge-surviving-the-odin-project-2oaa)
+- [Hello World AVS: Dev Entrypoint](https://dev.to/gaj/hello-world-avs-dev-entrypoint-f92)
+- [REST API Design Rules](https://dev.to/ezekiel_77/rest-api-design-rules-2c4j)
+- [Introduction to EigenLayer](https://dev.to/gaj/introduction-to-eigenlayer-45ob)
+- [My Top 5 Favorite Algorithm Problems at Codewars](https://dev.to/zeedu_dev/my-top-5-favorite-algorithm-problems-at-codewars-545k)
 <!-- BLOG-POST-LIST:END -->
 
