@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Homebrew on Amazon Linux in AWS Cloud9](https://dev.to/sh20raj/install-homebrew-on-amazon-linux-in-aws-cloud9-12ad)
-- [How To: Install Homebrew on Amazon Linux](https://dev.to/sh20raj/how-to-install-homebrew-on-amazon-linux-1cd3)
-- [Scripting with Java](https://dev.to/toliyansky/scripting-with-java-3i9k)
-- [The most aesthetic linux distribution - Garuda Linux! 🎨](https://dev.to/perisicnikola37/exploring-the-aesthetics-of-garuda-linux-1f6i)
+- [Inaccessible forms](https://dev.to/emmadawsondev/inaccessible-forms-47f6)
+- [Day 8 of my progress as a vue dev](https://dev.to/zain725342/day-8-of-my-progress-as-a-vue-dev-2g8a)
+- [C# Fundamentals](https://dev.to/suneeh/c-fundamentals-3n08)
+- [Linked List, Data Structures](https://dev.to/harshm03/linked-list-data-structures-4i35)
 <!-- BLOG-POST-LIST:END -->
 
