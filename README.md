@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meningkatkan User Experiece &lpar;UX&rpar; Aplikasi Menggunakan useOptimistic Hooks pada React JS/Next JS](https://dev.to/yogameleniawan/meningkatkan-user-experiece-ux-aplikasi-menggunakan-useoptimistic-hooks-pada-react-jsnext-js-4cpl)
-- [Write SOLID React Hooks](https://dev.to/perssondennis/write-solid-react-hooks-436o)
-- [Multitask - Should I stay or should I go?](https://dev.to/ferjssilva/multitask-should-i-stay-or-should-i-go-2il9)
-- [Sunday Fun: Re-creating a Radiohead cover](https://dev.to/madsstoumann/sunday-fun-re-creating-a-radiohead-cover-20ma)
+- [Keeping up with Spring Boot](https://dev.to/mhjaafar/keeping-up-with-spring-boot-b96)
+- [Boosting Angular App Performance Using NgOptimizedImage](https://dev.to/this-is-angular/boosting-angular-app-performance-using-ngoptimizedimage-153m)
+- [Deploying a Vue or React App Using Azure Static Web Apps and Azure DevOps](https://dev.to/aamirkhancr7/deploying-a-vue-or-react-app-using-azure-static-web-apps-and-azure-devops-5edi)
+- [Cómo desplegar un servidor PostgreSQL Flexible en Azure con Terraform y Azure Key Vault](https://dev.to/danieljsaldana/como-desplegar-un-servidor-postgresql-flexible-en-azure-con-terraform-y-azure-key-vault-2pkd)
 <!-- BLOG-POST-LIST:END -->
 
