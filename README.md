@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a Free Custom Domain](https://dev.to/ryoichihomma/how-to-get-a-free-custom-domain-4d56)
-- [Top 5 tools to improve your Web Page Designs](https://dev.to/amanagnihotri/top-5-tools-to-improve-your-web-page-designs-hpe)
-- [เริ่มต้น Quarkus 3 part 1](https://dev.to/pramoth/erimtn-quarkus-3-part-1-ane)
-- [Rebuilding TensorFlow 2.8.4 on Ubuntu 22.04 to patch vulnerabilities](https://dev.to/dchaley/rebuilding-tensorflow-284-on-ubuntu-2204-to-patch-vulnerabilities-3j3m)
+- [How to package and deploy a Lambda function as a container image](https://dev.to/seifrajhi/how-to-package-and-deploy-a-lambda-function-as-a-container-image-3d1a)
+- [เริ่มต้น Quarkus 3 part 2 Web](https://dev.to/pramoth/erimtn-quarkus-3-part-2-web-4bkm)
+- [A Farcaster Frame Starter For Slides](https://dev.to/foxgem/a-farcaster-frame-starter-for-slides-gfg)
+- [Javascript Template Engines Benchmark &lpar;2024&rpar;](https://dev.to/devcrafter91/javascript-template-engine-benchmark-2024-2m3j)
 <!-- BLOG-POST-LIST:END -->
 
