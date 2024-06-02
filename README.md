@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My GitHub Profile](https://dev.to/sudhanshuambastha/my-github-profile-47bc)
-- [What Really Matters in Your 20s?](https://dev.to/chinnanj/what-really-matters-in-your-20s-4a39)
-- [How to Build a Shopping Cart AI Chatbot](https://dev.to/polterguy/how-to-build-a-shopping-cart-ai-chatbot-47gh)
-- [PAT TASK 18](https://dev.to/jalikatti/pat-task-1-2p18)
+- [How to install lando on mac for Acquia Recipe](https://dev.to/sanjay_mogra/how-to-install-lando-on-mac-for-acquia-recipe-3p15)
+- [Clock App](https://dev.to/sudhanshuambastha/clock-app-1n9m)
+- [Error v/s Exception](https://dev.to/dipesh_the_dev/error-vs-exception-5h7d)
+- [Revolutionizing Development with Type-Safe Dropbox SDK](https://dev.to/bilelsalemdev/revolutionizing-development-with-type-safe-dropbox-sdk-nod)
 <!-- BLOG-POST-LIST:END -->
 
