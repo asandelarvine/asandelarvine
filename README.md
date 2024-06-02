@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to package and deploy a Lambda function as a container image](https://dev.to/seifrajhi/how-to-package-and-deploy-a-lambda-function-as-a-container-image-3d1a)
-- [เริ่มต้น Quarkus 3 part 2 Web](https://dev.to/pramoth/erimtn-quarkus-3-part-2-web-4bkm)
-- [A Farcaster Frame Starter For Slides](https://dev.to/foxgem/a-farcaster-frame-starter-for-slides-gfg)
-- [Javascript Template Engines Benchmark &lpar;2024&rpar;](https://dev.to/devcrafter91/javascript-template-engine-benchmark-2024-2m3j)
+- [My GitHub Profile](https://dev.to/sudhanshuambastha/my-github-profile-47bc)
+- [What Really Matters in Your 20s?](https://dev.to/chinnanj/what-really-matters-in-your-20s-4a39)
+- [How to Build a Shopping Cart AI Chatbot](https://dev.to/polterguy/how-to-build-a-shopping-cart-ai-chatbot-47gh)
+- [PAT TASK 18](https://dev.to/jalikatti/pat-task-1-2p18)
 <!-- BLOG-POST-LIST:END -->
 
