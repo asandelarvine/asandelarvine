@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Next.js: A Quick Guide to Pros and Cons](https://dev.to/saudtech/simplifying-nextjs-a-quick-guide-to-pros-and-cons-1b15)
-- [How to get start Elixir](https://dev.to/rhaenyraliang/how-to-get-start-elixir-3l65)
-- [Connect-Four Game](https://dev.to/sarmittal/connect-four-game-5k5)
-- [Supabase: The Open-Source Superhero That Saves You From Firebase](https://dev.to/anshul_bhartiya_37e68ba7b/supabase-the-open-source-superhero-that-saves-you-from-firebase-3klj)
+- [Install Homebrew on Amazon Linux in AWS Cloud9](https://dev.to/sh20raj/install-homebrew-on-amazon-linux-in-aws-cloud9-12ad)
+- [How To: Install Homebrew on Amazon Linux](https://dev.to/sh20raj/how-to-install-homebrew-on-amazon-linux-1cd3)
+- [Scripting with Java](https://dev.to/toliyansky/scripting-with-java-3i9k)
+- [The most aesthetic linux distribution - Garuda Linux! 🎨](https://dev.to/perisicnikola37/exploring-the-aesthetics-of-garuda-linux-1f6i)
 <!-- BLOG-POST-LIST:END -->
 
