@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 8-Hour Debug: How a Silly Mistake Cost Me a Day](https://dev.to/mmvergara/the-8-hour-debug-how-a-silly-mistake-cost-me-a-day-543e)
-- [[Game of Purpose] Day 14](https://dev.to/humberd/game-of-purpose-day-14-520)
-- [The Start of E.V.O T](https://dev.to/kevinpalma21/the-start-of-evo-t-ibf)
-- [Transform Game Visuals Using Meta AI](https://dev.to/gift_mugweni_1c055b418706/transform-game-visuals-using-meta-ai-1hn5)
+- [IOT Raspberry Pi using Azure](https://dev.to/emmyfx1/iot-raspberry-pi-using-azure-58m7)
+- [Exploring the Power of Hooks in React](https://dev.to/kartikmehta8/exploring-the-power-of-hooks-in-react-4a1)
+- [Running Lua C modules in a pure Lua environment &lpar;1&rpar;](https://dev.to/jackmacwindows/running-lua-c-modules-in-a-pure-lua-environment-part-1-2aho)
+- [Software Engineers Learn More from Failures than Wins: A Perspective](https://dev.to/bede_hampo/software-engineers-learn-more-from-failures-than-wins-a-perspective-3a6b)
 <!-- BLOG-POST-LIST:END -->
 
