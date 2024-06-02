@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install lando on mac for Acquia Recipe](https://dev.to/sanjay_mogra/how-to-install-lando-on-mac-for-acquia-recipe-3p15)
-- [Clock App](https://dev.to/sudhanshuambastha/clock-app-1n9m)
-- [Error v/s Exception](https://dev.to/dipesh_the_dev/error-vs-exception-5h7d)
-- [Revolutionizing Development with Type-Safe Dropbox SDK](https://dev.to/bilelsalemdev/revolutionizing-development-with-type-safe-dropbox-sdk-nod)
+- [How to Create an AWS account](https://dev.to/sirlawdin/how-to-create-an-aws-account-39cn)
+- [How to configure Dependabot on GitHub in only 3 steps](https://dev.to/perisicnikola37/how-to-configure-dependabot-on-github-in-only-3-steps-5309)
+- [Managing Projects in VSCode: Workspaces and Folder Structures](https://dev.to/umeshtharukaofficial/managing-projects-in-vscode-workspaces-and-folder-structures-3n78)
+- [21 VS Code Extensions To Boost Your Productivity](https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil)
 <!-- BLOG-POST-LIST:END -->
 
