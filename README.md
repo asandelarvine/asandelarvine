@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Cloud](https://dev.to/r4nd3l/dev-cloud-2o85)
-- [Metadata and Dynamic Metadata in Next.js](https://dev.to/adrianbailador/metadata-and-dynamic-metadata-in-nextjs-4omh)
-- [Metadata and Dynamic Metadata in Next.js](https://dev.to/adrianbailador/metadata-and-dynamic-metadata-in-nextjs-3e9m)
-- [Symfony Station Communiqué — 31 May 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-31-may-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-13fe)
+- [Best Deepfake Open Source App ROPE — So Easy To Use Full HD Feceswap DeepFace, Tutorials for Windows and Cloud — No GPU Required](https://dev.to/furkangozukara/best-deepfake-open-source-app-rope-so-easy-to-use-full-hd-feceswap-deepface-tutorials-for-windows-and-cloud-no-gpu-required-1eeg)
+- [Key Tips for Database Design](https://dev.to/mauritzkurt/key-tips-for-database-design-1f8)
+- [Demystifying the Cloud: A Beginner&#39;s Guide to Cloud Computing Concepts](https://dev.to/jimi487/demystifying-the-cloud-a-beginners-guide-to-cloud-computing-concepts-9fk)
+- [Playing with the embryonic connections in Java with the Foreign Function](https://dev.to/ulrich/playing-with-the-embryonic-connections-in-java-with-the-foreign-function-24k7)
 <!-- BLOG-POST-LIST:END -->
 
