@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping up with Spring Boot](https://dev.to/mhjaafar/keeping-up-with-spring-boot-b96)
-- [Boosting Angular App Performance Using NgOptimizedImage](https://dev.to/this-is-angular/boosting-angular-app-performance-using-ngoptimizedimage-153m)
-- [Deploying a Vue or React App Using Azure Static Web Apps and Azure DevOps](https://dev.to/aamirkhancr7/deploying-a-vue-or-react-app-using-azure-static-web-apps-and-azure-devops-5edi)
-- [Cómo desplegar un servidor PostgreSQL Flexible en Azure con Terraform y Azure Key Vault](https://dev.to/danieljsaldana/como-desplegar-un-servidor-postgresql-flexible-en-azure-con-terraform-y-azure-key-vault-2pkd)
+- [Stacks, Data Structures](https://dev.to/harshm03/stacks-data-structures-1an2)
+- [Creating Your Own Telegram Bot for Generating Images with DALL-E 3](https://dev.to/king_triton/creating-your-own-telegram-bot-for-generating-images-with-dall-e-3-3k1e)
+- [Can we skip parent layout in a nested page in app dir?](https://dev.to/mayank_tamrkar/can-we-skip-parent-layout-in-a-nested-page-in-app-dir-3dgp)
+- [Ensuring Seamless Digital Transformation with Robust Automated Data Validation Tools](https://dev.to/onixcloud/ensuring-seamless-digital-transformation-with-robust-automated-data-validation-tools-2kk8)
 <!-- BLOG-POST-LIST:END -->
 
