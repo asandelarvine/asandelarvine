@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building your own Productivity app using React JS and Mock API&#39;s](https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2)
-- [Keyoxide Identity Proof](https://dev.to/zelnickb/keyoxide-identity-proof-22b0)
-- [Reactive vs. Template-Driven Approaches: Exploring Angular Forms](https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f)
-- [Understanding Nodes in Java: The Building Blocks of Data Structures](https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3)
+- [How to Get a Free Custom Domain](https://dev.to/ryoichihomma/how-to-get-a-free-custom-domain-4d56)
+- [Top 5 tools to improve your Web Page Designs](https://dev.to/amanagnihotri/top-5-tools-to-improve-your-web-page-designs-hpe)
+- [เริ่มต้น Quarkus 3 part 1](https://dev.to/pramoth/erimtn-quarkus-3-part-1-ane)
+- [Rebuilding TensorFlow 2.8.4 on Ubuntu 22.04 to patch vulnerabilities](https://dev.to/dchaley/rebuilding-tensorflow-284-on-ubuntu-2204-to-patch-vulnerabilities-3j3m)
 <!-- BLOG-POST-LIST:END -->
 
