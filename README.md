@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unifi Autobackup Data Recovery and Restore](https://dev.to/kurtmc/unifi-autobackup-data-recovery-and-restore-1fc4)
-- [Bug Bounty Recon &lt;nmap&gt;](https://dev.to/hax/bug-bounty-recon-3mgf)
-- [Make Maintainable Python Project](https://dev.to/bimaadi/make-maintainable-python-project-4jme)
-- [Membuat Project Python yang mudah untuk dimaintain](https://dev.to/bimaadi/membuat-project-python-yang-mudah-untuk-dimaintain-442p)
+- [Keyoxide/Ariadne Identity Verification](https://dev.to/zelnickb/keyoxideariadne-identity-verification-5ai4)
+- [The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯](https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k)
+- [Rails on Docker - Simplify Your Development with Docker and DevContainers](https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8)
+- [let vs var vs Const](https://dev.to/kameshoff/let-vs-var-vs-const-197c)
 <!-- BLOG-POST-LIST:END -->
 
