@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stacks, Data Structures](https://dev.to/harshm03/stacks-data-structures-1an2)
-- [Creating Your Own Telegram Bot for Generating Images with DALL-E 3](https://dev.to/king_triton/creating-your-own-telegram-bot-for-generating-images-with-dall-e-3-3k1e)
-- [Can we skip parent layout in a nested page in app dir?](https://dev.to/mayank_tamrkar/can-we-skip-parent-layout-in-a-nested-page-in-app-dir-3dgp)
-- [Ensuring Seamless Digital Transformation with Robust Automated Data Validation Tools](https://dev.to/onixcloud/ensuring-seamless-digital-transformation-with-robust-automated-data-validation-tools-2kk8)
+- [Building a Simple Weather Dashboard with JavaScript and Mock APIs](https://dev.to/rharshit82/building-a-simple-weather-dashboard-with-javascript-and-mock-apis-2k7i)
+- [Wave Function Collapse](https://dev.to/excaliburjs/wave-function-collapse-d3c)
+- [My Pen on CodePen](https://dev.to/muzammil_iqbal_cdeacd8cb8/my-pen-on-codepen-1dlk)
+- [A step-by-step guide on how to use the Amazon Bedrock Converse API](https://dev.to/aws-builders/a-step-by-step-guide-on-how-to-use-the-amazon-bedrock-converse-api-2mnl)
 <!-- BLOG-POST-LIST:END -->
 
