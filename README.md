@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyoxide/Ariadne Identity Verification](https://dev.to/zelnickb/keyoxideariadne-identity-verification-5ai4)
-- [The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯](https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k)
-- [Rails on Docker - Simplify Your Development with Docker and DevContainers](https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8)
-- [let vs var vs Const](https://dev.to/kameshoff/let-vs-var-vs-const-197c)
+- [Building your own Productivity app using React JS and Mock API&#39;s](https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2)
+- [Keyoxide Identity Proof](https://dev.to/zelnickb/keyoxide-identity-proof-22b0)
+- [Reactive vs. Template-Driven Approaches: Exploring Angular Forms](https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f)
+- [Understanding Nodes in Java: The Building Blocks of Data Structures](https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3)
 <!-- BLOG-POST-LIST:END -->
 
