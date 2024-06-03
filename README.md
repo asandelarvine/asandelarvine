@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Arrays in JavaScript](https://dev.to/huericnan/introduction-to-arrays-in-javascript-599h)
-- [Changing SQL Dialect From Teradata To SQLite](https://dev.to/geraldew/changing-sql-dialect-from-teradata-to-sqlite-i23)
-- [Build a reverse ssh tunnel reverse proxy for &lpar;not&rpar; fun and &lpar;not&rpar; profit](https://dev.to/matfire/build-a-reverse-ssh-tunnel-reverse-proxy-for-not-fun-and-not-profit-50kl)
-- [Spec Coder: Your Powerful AI Co-pilot for Supercharged Coding in Visual Studio Code](https://dev.to/hkp22/spec-coder-your-powerful-ai-co-pilot-for-supercharged-coding-in-visual-studio-code-5dmm)
+- [Expert-Level Tutorials on Stable Diffusion &amp; SDXL &amp; Generative AI: Master Advanced Techs — 75 Tutorials](https://dev.to/furkangozukara/expert-level-tutorials-on-stable-diffusion-sdxl-generative-ai-master-advanced-techs-75-tutorials-4f0l)
+- [Introducing &quot;Speed&quot;](https://dev.to/stroiman/introducing-speed-2ofk)
+- [Closures in JavaScript: What They Are and Why They Matter](https://dev.to/dev_diaries_by_varun/closures-in-javascript-what-they-are-and-why-they-matter-o6)
+- [AI Will Live and Die By Trust it](https://dev.to/chinnanj/ai-will-live-and-die-by-trust-it-2l63)
 <!-- BLOG-POST-LIST:END -->
 
