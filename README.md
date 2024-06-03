@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shallow Copy v/s Deep Copy](https://dev.to/kiransm/shallow-copy-vs-deep-copy-a8l)
-- [Building Custom Hooks in React: Best Practices and Use Cases](https://dev.to/delia_code/building-custom-hooks-in-react-best-practices-and-use-cases-273l)
-- [What is DevSecOps? A Comprehensive Look at DevSecOps](https://dev.to/gauri1504/what-is-devsecops-a-comprehensive-look-at-devsecops-4892)
-- [How new Builders Tame Mode Network](https://dev.to/wolfcito/how-new-builders-tame-mode-network-b1l)
+- [Why Do Some Software Projects Fail?](https://dev.to/canro91/why-do-some-software-projects-fail-n16)
+- [Beyond Utility: Bringing Delight to Everyday Apps](https://dev.to/shieldstring/beyond-utility-bringing-delight-to-everyday-apps-53b0)
+- [Até os ventos te sopram experiências 🍃](https://dev.to/milenaemmert/ate-os-ventos-te-sopram-experiencias-c9l)
+- [Stay ahead in web development: latest news, tools, and insights #35](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-35-gck)
 <!-- BLOG-POST-LIST:END -->
 
