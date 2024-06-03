@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficiently Managing Unstructured Data with PostgreSQL hstore](https://dev.to/dbvismarketing/efficiently-managing-unstructured-data-with-postgresql-hstore-377f)
-- [Danger: keep order in your PRs](https://dev.to/giuliano1993/danger-keep-order-in-your-prs-281d)
-- [AWS Security Best Practices: Leveraging IAM for Service-to-Service Authentication and Authorization](https://dev.to/aws-heroes/aws-security-best-practices-leveraging-iam-for-service-to-service-authentication-and-authorization-5doi)
-- [Day 1: What is Node.js?](https://dev.to/learn_with_santosh/day-1-what-is-nodejs-436p)
+- [In Excel, Align Every Two Columns to Present Them While Setting Missing Values as 0](https://dev.to/judithliu677/in-excel-align-every-two-columns-to-present-them-while-setting-missing-values-as-0-37i1)
+- [Deploying a NestJS Application on Vercel with a PostgreSQL Database](https://dev.to/bilalurrehman27/deploying-a-nestjs-application-on-vercel-with-a-postgresql-database-2be0)
+- [Flutter: Best Practices for API Key Security](https://dev.to/harsh8088/flutter-best-practices-for-api-key-security-145m)
+- [Setting Up a CI/CD Pipeline with Jenkins, GitHub Actions, or CircleCI](https://dev.to/markwilliams21/setting-up-a-cicd-pipeline-with-jenkins-github-actions-or-circleci-2bfi)
 <!-- BLOG-POST-LIST:END -->
 
