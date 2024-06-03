@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your Power Platform Strategy](https://dev.to/wyattdave/whats-your-power-platform-strategy-2a17)
-- [A dive into hacking and its evolution](https://dev.to/cougarred1/a-dive-into-hacking-and-its-evolution-3iop)
-- [Getting ImagePullBackOff in K8s? How to Fix and 4 Ways to Prevent It](https://dev.to/giladmaayan/getting-imagepullbackoff-in-k8s-how-to-fix-and-4-ways-to-prevent-it-31g0)
-- [SOAP vs. REST API: Understanding the Battle of Web Services](https://dev.to/keploy/soap-vs-rest-api-understanding-the-battle-of-web-services-5g9a)
+- [Efficiently Managing Unstructured Data with PostgreSQL hstore](https://dev.to/dbvismarketing/efficiently-managing-unstructured-data-with-postgresql-hstore-377f)
+- [Danger: keep order in your PRs](https://dev.to/giuliano1993/danger-keep-order-in-your-prs-281d)
+- [AWS Security Best Practices: Leveraging IAM for Service-to-Service Authentication and Authorization](https://dev.to/aws-heroes/aws-security-best-practices-leveraging-iam-for-service-to-service-authentication-and-authorization-5doi)
+- [Day 1: What is Node.js?](https://dev.to/learn_with_santosh/day-1-what-is-nodejs-436p)
 <!-- BLOG-POST-LIST:END -->
 
