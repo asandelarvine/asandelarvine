@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Styling in ReactJS: Exploring the Best Libraries](https://dev.to/vyan/styling-in-reactjs-exploring-the-best-libraries-j42)
+- [Web Dev Day 5: Bootstrap Guide](https://dev.to/_bhupeshk_/web-dev-day-5-bootstrap-guide-359p)
 - [Top 4 Reasons Why I Learnt JavaScript](https://dev.to/thekarlesi/top-4-reasons-to-learn-javascript-7m3)
 - [Use Gemini to Understand Errors with Google Chrome Dev Tools](https://dev.to/0xkoji/use-gemini-to-understand-errors-with-google-chrome-dev-tools-4b54)
-- [Introducing Idyllic Apps AI Dictionary: Redefining the Way You Understand Words](https://dev.to/tonux-jan/introducing-idyllic-apps-ai-dictionary-redefining-the-way-you-understand-words-2dpb)
 <!-- BLOG-POST-LIST:END -->
 
