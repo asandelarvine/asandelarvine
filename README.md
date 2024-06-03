@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Content matters for Ecommerce?](https://dev.to/jacobandrewsky/why-content-matters-for-ecommerce-10gd)
-- [This week&#39;s API highlights round-up: Container Info, Container Legs and shipments](https://dev.to/worldindata/this-weeks-api-highlights-round-up-container-info-container-legs-and-shipments-39n1)
-- [Innovation in Shared Storage Makes Kafka Great Again](https://dev.to/automq/innovation-in-shared-storage-makes-kafka-great-again-m86)
-- [Creative Testimonial Slider - Swiper Slider](https://dev.to/creative_salahu/creative-testimonial-slider-swiper-slider-f70)
+- [Ibuprofeno.py💊| #117: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-117-explica-este-codigo-python-3di9)
+- [How to Reverse an Array: Step-by-Step Guide](https://dev.to/masum-dev/how-to-reverse-an-array-step-by-step-guide-8b0)
+- [HTML Newsletter Popup Form](https://dev.to/creative_salahu/html-newsletter-popup-form-43i8)
+- [AWESOME MOUSE 🤩 !](https://dev.to/mince/awesome-mouse--3l1n)
 <!-- BLOG-POST-LIST:END -->
 
