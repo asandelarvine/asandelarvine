@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Abstracting State Management in React with Typescript, and its Benefits](https://dev.to/bwca/abstracting-state-management-in-react-with-typescript-and-its-benefits-8mk)
-- [Does Serverless Still Matter?](https://dev.to/aws-builders/does-serverless-still-matter-2jag)
-- [Class Constructors](https://dev.to/shantel57427931/class-constructors-j7h)
-- [Difference between Synchronous and Asynchronous Java Script](https://dev.to/shantel57427931/difference-between-synchronous-and-asynchronous-java-script-39o4)
+- [React Concepts: Hook Proximity](https://dev.to/clschnei/react-concepts-hook-proximity-43jj)
+- [Creating Shell Extensions in .NET 8 with SharpShell](https://dev.to/issamboutissante/creating-shell-extensions-in-net-8-with-sharpshell-2ioe)
+- [React Native - 15 Core Components](https://dev.to/himanshuaggar/react-native-15-core-components-2ifg)
+- [Top 5 Tailwind CSS Interview Questions and Answers](https://dev.to/lalyadav/top-5-tailwind-css-interview-questions-and-answers-4do6)
 <!-- BLOG-POST-LIST:END -->
 
