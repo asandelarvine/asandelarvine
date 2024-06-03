@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Expert-Level Tutorials on Stable Diffusion &amp; SDXL &amp; Generative AI: Master Advanced Techs — 75 Tutorials](https://dev.to/furkangozukara/expert-level-tutorials-on-stable-diffusion-sdxl-generative-ai-master-advanced-techs-75-tutorials-4f0l)
-- [Introducing &quot;Speed&quot;](https://dev.to/stroiman/introducing-speed-2ofk)
-- [Closures in JavaScript: What They Are and Why They Matter](https://dev.to/dev_diaries_by_varun/closures-in-javascript-what-they-are-and-why-they-matter-o6)
-- [AI Will Live and Die By Trust it](https://dev.to/chinnanj/ai-will-live-and-die-by-trust-it-2l63)
+- [2486. Append Characters to String to Make Subsequence](https://dev.to/mdarifulhaque/2486-append-characters-to-string-to-make-subsequence-5633)
+- [Blockchain Beyond Bitcoin: Innovative Uses in Various Industries](https://dev.to/bingecoder89/blockchain-beyond-bitcoin-innovative-uses-in-various-industries-5boo)
+- [Implementing API Rate Limiting with a Token Bucket 🪣](https://dev.to/keploy/implementing-api-rate-limiting-with-a-token-bucket-jmd)
+- [System Design Resources that are Not ByteByteGo](https://dev.to/vladi-stevanovic/system-design-resources-that-are-not-bytebytego-1h2j)
 <!-- BLOG-POST-LIST:END -->
 
