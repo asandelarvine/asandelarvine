@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Principais Hooks no React com exercícios](https://dev.to/parkournick3/principais-hooks-no-react-com-exercicios-46m7)
-- [Git Commands](https://dev.to/mayas1111/git-commands-2mm)
-- [User behavior in the website or webapp](https://dev.to/litlyx/user-behavior-in-the-website-or-webapp-3kg0)
-- [Building Blocks Of Zig: slices](https://dev.to/dayvster/building-blocks-of-zig-slices-1fan)
+- [Sleepy Pikachu🥱 | Frontend Challenge June | CSS Art](https://dev.to/dhrutisubham03/sleepy-pikachu-4iha)
+- [Still Struggling with JavaScript Promises?](https://dev.to/godinhojoao/still-struggling-with-javascript-promises-kdh)
+- [Opt-In VS Opt-Out](https://dev.to/cxdezign/opt-in-vs-opt-out-2c48)
+- [[Game of Purpose] Day 16](https://dev.to/humberd/game-of-purpose-day-16-1pm3)
 <!-- BLOG-POST-LIST:END -->
 
