@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Scope of Variables](https://dev.to/paulike/the-scope-of-variables-2h0m)
-- [Immutable Objects and Classes](https://dev.to/paulike/immutable-objects-and-classes-31gj)
-- [Comparing C++ range libraries for filter+reverse case with non-trivial lambda](https://dev.to/serpent7776/comparing-c-range-libraries-for-filterreverse-case-with-non-trivial-lambda-4lj7)
-- [How to Install and Configure Cloudflared on Linux](https://dev.to/sh20raj/how-to-install-and-configure-cloudflared-on-linux-4l3)
+- [I&#39;m learning something new!](https://dev.to/cmcrawford2/im-learning-something-new-3kd5)
+- [Smart contracts privados con Solidity y Circom](https://dev.to/turupawn/smart-contracts-privados-con-solidity-y-circom-3a8h)
+- [Managing Architectural Tech Debt](https://dev.to/johnjvester/managing-architectural-tech-debt-i82)
+- [Simple &quot;Infinite&quot; Grid Shader](https://dev.to/javiersalcedopuyo/simple-infinite-grid-shader-5fah)
 <!-- BLOG-POST-LIST:END -->
 
