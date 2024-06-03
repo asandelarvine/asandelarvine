@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Deepfake Open Source App ROPE — So Easy To Use Full HD Feceswap DeepFace, Tutorials for Windows and Cloud — No GPU Required](https://dev.to/furkangozukara/best-deepfake-open-source-app-rope-so-easy-to-use-full-hd-feceswap-deepface-tutorials-for-windows-and-cloud-no-gpu-required-1eeg)
-- [Key Tips for Database Design](https://dev.to/mauritzkurt/key-tips-for-database-design-1f8)
-- [Demystifying the Cloud: A Beginner&#39;s Guide to Cloud Computing Concepts](https://dev.to/jimi487/demystifying-the-cloud-a-beginners-guide-to-cloud-computing-concepts-9fk)
-- [Playing with the embryonic connections in Java with the Foreign Function](https://dev.to/ulrich/playing-with-the-embryonic-connections-in-java-with-the-foreign-function-24k7)
+- [THE FASTEST LOCAL DATABASE EVER WITH CLI??!!!](https://dev.to/jedi-studio/the-fastest-local-database-ever-with-cli-lm6)
+- [Provide storage for a new company app](https://dev.to/opsyog/provide-storage-for-a-new-company-app-4hce)
+- [Mengenal Konsep MVC di Laravel: Panduan Lengkap untuk Pemula](https://dev.to/yogameleniawan/mengenal-konsep-mvc-di-laravel-panduan-lengkap-untuk-pemula-1h5o)
+- [Developers Need Practical Kubernetes Experience](https://dev.to/coddicat/developers-need-practical-kubernetes-experience-24oh)
 <!-- BLOG-POST-LIST:END -->
 
