@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Some Software Projects Fail?](https://dev.to/canro91/why-do-some-software-projects-fail-n16)
-- [Beyond Utility: Bringing Delight to Everyday Apps](https://dev.to/shieldstring/beyond-utility-bringing-delight-to-everyday-apps-53b0)
-- [Até os ventos te sopram experiências 🍃](https://dev.to/milenaemmert/ate-os-ventos-te-sopram-experiencias-c9l)
-- [Stay ahead in web development: latest news, tools, and insights #35](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-35-gck)
+- [What&#39;s Your Power Platform Strategy](https://dev.to/wyattdave/whats-your-power-platform-strategy-2a17)
+- [A dive into hacking and its evolution](https://dev.to/cougarred1/a-dive-into-hacking-and-its-evolution-3iop)
+- [Getting ImagePullBackOff in K8s? How to Fix and 4 Ways to Prevent It](https://dev.to/giladmaayan/getting-imagepullbackoff-in-k8s-how-to-fix-and-4-ways-to-prevent-it-31g0)
+- [SOAP vs. REST API: Understanding the Battle of Web Services](https://dev.to/keploy/soap-vs-rest-api-understanding-the-battle-of-web-services-5g9a)
 <!-- BLOG-POST-LIST:END -->
 
