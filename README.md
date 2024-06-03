@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Concepts: Hook Proximity](https://dev.to/clschnei/react-concepts-hook-proximity-43jj)
-- [Creating Shell Extensions in .NET 8 with SharpShell](https://dev.to/issamboutissante/creating-shell-extensions-in-net-8-with-sharpshell-2ioe)
-- [React Native - 15 Core Components](https://dev.to/himanshuaggar/react-native-15-core-components-2ifg)
-- [Top 5 Tailwind CSS Interview Questions and Answers](https://dev.to/lalyadav/top-5-tailwind-css-interview-questions-and-answers-4do6)
+- [Introduction to Arrays in JavaScript](https://dev.to/huericnan/introduction-to-arrays-in-javascript-599h)
+- [Changing SQL Dialect From Teradata To SQLite](https://dev.to/geraldew/changing-sql-dialect-from-teradata-to-sqlite-i23)
+- [Build a reverse ssh tunnel reverse proxy for &lpar;not&rpar; fun and &lpar;not&rpar; profit](https://dev.to/matfire/build-a-reverse-ssh-tunnel-reverse-proxy-for-not-fun-and-not-profit-50kl)
+- [Spec Coder: Your Powerful AI Co-pilot for Supercharged Coding in Visual Studio Code](https://dev.to/hkp22/spec-coder-your-powerful-ai-co-pilot-for-supercharged-coding-in-visual-studio-code-5dmm)
 <!-- BLOG-POST-LIST:END -->
 
