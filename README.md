@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m learning something new!](https://dev.to/cmcrawford2/im-learning-something-new-3kd5)
-- [Smart contracts privados con Solidity y Circom](https://dev.to/turupawn/smart-contracts-privados-con-solidity-y-circom-3a8h)
-- [Managing Architectural Tech Debt](https://dev.to/johnjvester/managing-architectural-tech-debt-i82)
-- [Simple &quot;Infinite&quot; Grid Shader](https://dev.to/javiersalcedopuyo/simple-infinite-grid-shader-5fah)
+- [Principais Hooks no React com exercícios](https://dev.to/parkournick3/principais-hooks-no-react-com-exercicios-46m7)
+- [Git Commands](https://dev.to/mayas1111/git-commands-2mm)
+- [User behavior in the website or webapp](https://dev.to/litlyx/user-behavior-in-the-website-or-webapp-3kg0)
+- [Building Blocks Of Zig: slices](https://dev.to/dayvster/building-blocks-of-zig-slices-1fan)
 <!-- BLOG-POST-LIST:END -->
 
