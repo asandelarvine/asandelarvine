@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #117: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-117-explica-este-codigo-python-3di9)
-- [How to Reverse an Array: Step-by-Step Guide](https://dev.to/masum-dev/how-to-reverse-an-array-step-by-step-guide-8b0)
-- [HTML Newsletter Popup Form](https://dev.to/creative_salahu/html-newsletter-popup-form-43i8)
-- [AWESOME MOUSE 🤩 !](https://dev.to/mince/awesome-mouse--3l1n)
+- [Meme Monday](https://dev.to/ben/meme-monday-f28)
+- [Learn machine learning with Microsoft learn](https://dev.to/hasanul_banna_himel/learn-machine-learning-with-microsoft-learn-2ekn)
+- [Terraform Apply Command: Options, Examples and Best Practices](https://dev.to/env0/terraform-apply-command-options-examples-and-best-practices-o4n)
+- [Jumpstart Your JavaScript Journey: First Steps to Mastery🚶‍♂️](https://dev.to/dharamgfx/jumpstart-your-javascript-journey-first-steps-to-mastery-41jc)
 <!-- BLOG-POST-LIST:END -->
 
