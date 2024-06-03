@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [THE FASTEST LOCAL DATABASE EVER WITH CLI??!!!](https://dev.to/jedi-studio/the-fastest-local-database-ever-with-cli-lm6)
-- [Provide storage for a new company app](https://dev.to/opsyog/provide-storage-for-a-new-company-app-4hce)
-- [Mengenal Konsep MVC di Laravel: Panduan Lengkap untuk Pemula](https://dev.to/yogameleniawan/mengenal-konsep-mvc-di-laravel-panduan-lengkap-untuk-pemula-1h5o)
-- [Developers Need Practical Kubernetes Experience](https://dev.to/coddicat/developers-need-practical-kubernetes-experience-24oh)
+- [Styling in ReactJS: Exploring the Best Libraries](https://dev.to/vyan/styling-in-reactjs-exploring-the-best-libraries-j42)
+- [Top 4 Reasons Why I Learnt JavaScript](https://dev.to/thekarlesi/top-4-reasons-to-learn-javascript-7m3)
+- [Use Gemini to Understand Errors with Google Chrome Dev Tools](https://dev.to/0xkoji/use-gemini-to-understand-errors-with-google-chrome-dev-tools-4b54)
+- [Introducing Idyllic Apps AI Dictionary: Redefining the Way You Understand Words](https://dev.to/tonux-jan/introducing-idyllic-apps-ai-dictionary-redefining-the-way-you-understand-words-2dpb)
 <!-- BLOG-POST-LIST:END -->
 
