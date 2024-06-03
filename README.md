@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-f28)
-- [Learn machine learning with Microsoft learn](https://dev.to/hasanul_banna_himel/learn-machine-learning-with-microsoft-learn-2ekn)
-- [Terraform Apply Command: Options, Examples and Best Practices](https://dev.to/env0/terraform-apply-command-options-examples-and-best-practices-o4n)
-- [Jumpstart Your JavaScript Journey: First Steps to Mastery🚶‍♂️](https://dev.to/dharamgfx/jumpstart-your-javascript-journey-first-steps-to-mastery-41jc)
+- [Abstracting State Management in React with Typescript, and its Benefits](https://dev.to/bwca/abstracting-state-management-in-react-with-typescript-and-its-benefits-8mk)
+- [Does Serverless Still Matter?](https://dev.to/aws-builders/does-serverless-still-matter-2jag)
+- [Class Constructors](https://dev.to/shantel57427931/class-constructors-j7h)
+- [Difference between Synchronous and Asynchronous Java Script](https://dev.to/shantel57427931/difference-between-synchronous-and-asynchronous-java-script-39o4)
 <!-- BLOG-POST-LIST:END -->
 
