@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing vs End-To-End Testing: Understanding Key Differences](https://dev.to/jennife05918349/unit-testing-vs-end-to-end-testing-understanding-key-differences-3gk4)
-- [CLOUD COMPUTING 101.1](https://dev.to/aizeon/cloud-computing-1011-3nge)
-- [Debugging Techniques Every Mobile App Developer Should Know](https://dev.to/tarunnagar/debugging-techniques-every-mobile-app-developer-should-know-1ok6)
-- [HTML Interview Questions and Answers for Freshers](https://dev.to/lalyadav/html-interview-questions-and-answers-for-freshers-5bpp)
+- [Ibuprofeno.py💊| #118: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-118-explica-este-codigo-python-el5)
+- [How AI is Transforming Salesforce Document Generation Tool?](https://dev.to/zoyazenniefer/how-ai-is-transforming-salesforce-document-generation-tool-300b)
+- [Kubernetes Cluster Architecture](https://dev.to/abdallah_kordy_94db275ef5/kubernetes-cluster-architecture-2cpl)
+- [TryParse in C# 🚀- Level up your Code with this Incredible Feature](https://dev.to/bytehide/tryparse-in-c-level-up-your-code-with-this-incredible-feature-5fif)
 <!-- BLOG-POST-LIST:END -->
 
