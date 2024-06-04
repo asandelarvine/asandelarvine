@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Script to get the emails of your dev.to followers](https://dev.to/plutov/script-to-get-the-emails-of-your-devto-followers-4bff)
-- [SQLtest.online: a great platform to test and improve your SQL skills](https://dev.to/gerda/sqltestonline-a-great-platform-to-test-and-improve-your-sql-skills-ae3)
-- [Java URI Library Compliant with RFC 3986](https://dev.to/authlete/java-uri-library-compliant-with-rfc-3986-21bb)
-- [Page Load Speed: The Cornerstone of Web Success](https://dev.to/elainecbennet/page-load-speed-the-cornerstone-of-web-success-k3e)
+- [Unit Testing vs End-To-End Testing: Understanding Key Differences](https://dev.to/jennife05918349/unit-testing-vs-end-to-end-testing-understanding-key-differences-3gk4)
+- [CLOUD COMPUTING 101.1](https://dev.to/aizeon/cloud-computing-1011-3nge)
+- [Debugging Techniques Every Mobile App Developer Should Know](https://dev.to/tarunnagar/debugging-techniques-every-mobile-app-developer-should-know-1ok6)
+- [HTML Interview Questions and Answers for Freshers](https://dev.to/lalyadav/html-interview-questions-and-answers-for-freshers-5bpp)
 <!-- BLOG-POST-LIST:END -->
 
