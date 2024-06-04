@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memahami CQRS &lpar;Command Query Responsibility Segregation&rpar; Kenapa dan Bagaimana Menggunakannya](https://dev.to/yogameleniawan/memahami-cqrs-command-query-responsibility-segregation-kenapa-dan-bagaimana-menggunakannya-4hmf)
-- [Deploying NextJS app to mobile App Stores using CapacitorJS](https://dev.to/jacobporci/deploying-nextjs-app-to-mobile-app-stores-using-capacitorjs-215c)
-- [[Conceito] - Não Use HTTP 404 ou 204 para Buscas Sem Resultados](https://dev.to/zanfranceschi/conceito-nao-use-http-404-ou-204-para-buscas-sem-resultados-6ki)
-- [Word Frequency Analysis using Elasticsearch on Alibaba Cloud](https://dev.to/a_lucas/word-frequency-analysis-using-elasticsearch-on-alibaba-cloud-4i6j)
+- [Rust vs Typescript Variables](https://dev.to/daveturissini/rust-vs-typescript-variables-38ab)
+- [Answer: How to print __int128 in g++?](https://dev.to/mdsiaofficial/answer-how-to-print-int128-in-g-3mki)
+- [A Developer&#39;s Guide to Boosting Ecommerce Sales: From Code to Checkout Success](https://dev.to/elena143/a-developers-guide-to-boosting-ecommerce-sales-from-code-to-checkout-success-4p3h)
+- [Simplifying Authentication with JWT, TypeScript and Fastify](https://dev.to/sraveend/simplifying-authentication-with-jwt-typescript-and-fastify-1dc9)
 <!-- BLOG-POST-LIST:END -->
 
