@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Linux Virtual Machine with Ubuntu Server using Password Authentication.](https://dev.to/opsyog/creating-a-linux-virtual-machine-with-ubuntu-server-using-password-authentication-2nec)
-- [Handling CORS Errors in ReactJS](https://dev.to/vyan/handling-cors-errors-in-reactjs-42pl)
-- [Welcome to my Blog](https://dev.to/ganatrajay2000/welcome-to-my-blog-1cmh)
-- [How to host a Minecraft server for Java on PC](https://dev.to/walkera1/how-to-host-a-minecraft-server-for-java-on-pc-4m5j)
+- [Create Test REST APIs in Seconds! 🚀](https://dev.to/miguelrodriguezp99/create-test-rest-apis-in-seconds-cag)
+- [Day 3](https://dev.to/han_han/day-3-155)
+- [GSAP &lpar;GreenSock Animation Platform&rpar;: Revolutionizing Web Animations](https://dev.to/italohgs/gsap-greensock-animation-platform-revolutionizing-web-animations-14ga)
+- [Entendendo e Utilizando Tipos Condicionais &lpar;TypeScript&rpar;](https://dev.to/iagobelo/entendendo-e-utilizando-tipos-condicionais-typescript-40ib)
 <!-- BLOG-POST-LIST:END -->
 
