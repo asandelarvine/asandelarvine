@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RTSP: Real Time Streaming Protocol Explained](https://dev.to/alakkadshaw/rtsp-real-time-streaming-protocol-explained-3p82)
-- [Advanced Error Handling in Node.js](https://dev.to/amritak27/advanced-error-handling-in-nodejs-1ep8)
-- [VScode: How to Chain Multiple Devcontainer for Development](https://dev.to/weseek-inc/vscode-how-to-chain-multiple-devcontainer-for-development-2aep)
-- [What are Your Best Tips for Building a Coding Portfolio?](https://dev.to/anitaolsen/what-are-your-best-tips-for-building-a-coding-portfolio-415f)
+- [🕒 Task vs Promise: Encadenación](https://dev.to/oscareduardolp6/task-vs-promise-encadenacion-4ejj)
+- [Database Observability: An Introductory Guide](https://dev.to/neurelo/database-observability-an-introductory-guide-1pbc)
+- [🕒 Task vs Promise: Chaining](https://dev.to/oscareduardolp6/task-vs-promise-chaining-2p7)
+- [How to unit test a private method in Kotlin without making it public](https://dev.to/theplebdev/how-to-unit-test-a-private-method-in-kotlin-without-making-it-public-glc)
 <!-- BLOG-POST-LIST:END -->
 
