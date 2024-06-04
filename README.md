@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Contribution Guidelines](https://dev.to/vauntdev/level-up-your-contribution-guidelines-3jc7)
-- [C# Attributes In Practice — Building A Payment Terminal](https://dev.to/turalsuleymani/c-attributes-in-practice-building-a-payment-terminal-2ofa)
-- [How to learn Nest JS?](https://dev.to/nadim_ch0wdhury/how-to-learn-nest-js-20nc)
-- [How to Ensure Docker Compose Uses Environment Variables from the `.env` File](https://dev.to/mochafreddo/how-to-ensure-docker-compose-uses-environment-variables-from-the-env-file-2ib6)
+- [Automating Insulin Ordering: Capturing the GP Request &lpar;Part 2&rpar;](https://dev.to/goudekettingrm/automating-insulin-ordering-capturing-the-gp-request-part-2-4pl0)
+- [Learn Redux Toolkit for State Management in React](https://dev.to/codeparrot/learn-redux-toolkit-for-state-management-in-react-5d4m)
+- [Task vs ValueTask](https://dev.to/ben-witt/task-vs-valuetask-499n)
+- [Excel Perform COUNT on Each Category and Concatenate Results into a String](https://dev.to/judith677/excel-perform-count-on-each-category-and-concatenate-results-into-a-string-4fn4)
 <!-- BLOG-POST-LIST:END -->
 
