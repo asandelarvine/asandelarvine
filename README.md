@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Blockchain](https://dev.to/r4nd3l/dev-blockchain-akg)
-- [SAST Scanning with SonarQube and Docker](https://dev.to/damienjburks/sast-scanning-with-sonarqube-and-docker-4cp7)
-- [Daily Notes](https://dev.to/dylansarikas/daily-notes-1m8f)
-- [Babylon.js Browser MMO - DevLog - Update #5 - Area of interest with spatial hash grid](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-5-area-of-interest-with-spatial-hash-grid-ifd)
+- [Deploying static webs apps with the Azure cli and bicep](https://dev.to/danwright/deploying-static-webs-apps-1dib)
+- [Best Practices for Working with Next.js](https://dev.to/enitanogun1/best-practices-for-working-with-nextjs-49np)
+- [How to create a Storage Account in Microsoft Azure](https://dev.to/atony07/how-to-create-a-storage-account-in-microsoft-azure-44e7)
+- [Mastering Python Comprehensions: Crafting Efficient and Readable Code](https://dev.to/sahilfruitwala/mastering-python-comprehensions-crafting-efficient-and-readable-code-a89)
 <!-- BLOG-POST-LIST:END -->
 
