@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O que realmente significa ser um Engenheiro de Software?](https://dev.to/j0suetm/o-que-realmente-significa-ser-um-engenheiro-de-software-o16)
-- [A step-by-step guide to building an MLOps pipeline](https://dev.to/kitops/a-step-by-step-guide-to-building-an-mlops-pipeline-1h4b)
-- [How to Use Firebase Authentication for Secure User Login](https://dev.to/dk119819/how-to-use-firebase-authentication-for-secure-user-login-3df9)
-- [Exploring the Exciting New Features in React 18](https://dev.to/shantih_palani/exploring-the-exciting-new-features-in-react-18-54m4)
+- [RTSP: Real Time Streaming Protocol Explained](https://dev.to/alakkadshaw/rtsp-real-time-streaming-protocol-explained-3p82)
+- [Advanced Error Handling in Node.js](https://dev.to/amritak27/advanced-error-handling-in-nodejs-1ep8)
+- [VScode: How to Chain Multiple Devcontainer for Development](https://dev.to/weseek-inc/vscode-how-to-chain-multiple-devcontainer-for-development-2aep)
+- [What are Your Best Tips for Building a Coding Portfolio?](https://dev.to/anitaolsen/what-are-your-best-tips-for-building-a-coding-portfolio-415f)
 <!-- BLOG-POST-LIST:END -->
 
