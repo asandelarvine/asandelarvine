@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Look Once to Hear: Target Speech Hearing with Noisy Examples](https://dev.to/mikeyoung44/look-once-to-hear-target-speech-hearing-with-noisy-examples-ccd)
-- [Generate and Pray: Using SALLMS to Evaluate the Security of LLM Generated Code](https://dev.to/mikeyoung44/generate-and-pray-using-sallms-to-evaluate-the-security-of-llm-generated-code-l24)
-- [Migrating a project from Visual studio to Rider](https://dev.to/doki_kapoki/migrating-a-project-from-visual-studio-to-rider-4o7k)
-- [Frontdesk/Visitor Management System project](https://dev.to/md-sazzadul-islam/frontdeskvisitor-management-system-project-2m8o)
+- [O que realmente significa ser um Engenheiro de Software?](https://dev.to/j0suetm/o-que-realmente-significa-ser-um-engenheiro-de-software-o16)
+- [A step-by-step guide to building an MLOps pipeline](https://dev.to/kitops/a-step-by-step-guide-to-building-an-mlops-pipeline-1h4b)
+- [How to Use Firebase Authentication for Secure User Login](https://dev.to/dk119819/how-to-use-firebase-authentication-for-secure-user-login-3df9)
+- [Exploring the Exciting New Features in React 18](https://dev.to/shantih_palani/exploring-the-exciting-new-features-in-react-18-54m4)
 <!-- BLOG-POST-LIST:END -->
 
