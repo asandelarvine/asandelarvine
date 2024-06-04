@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing up BPI-F3 - Part 3](https://dev.to/luzero/bringing-up-bpi-f3-part-3-101h)
-- [What is Front End Development?](https://dev.to/jockko/what-is-front-end-development-17ak)
-- [How Technology and Programming Help My Hikes](https://dev.to/outofyourcomfortzone/how-technology-and-programming-help-my-hikes-28ap)
-- [Day 10 of my progress as a vue dev](https://dev.to/zain725342/day-10-of-my-progress-as-a-vue-dev-177b)
+- [Introduction to Trees and Binary Tree, Data Structures: &lpar;Trees, Part I&rpar;](https://dev.to/harshm03/introduction-to-trees-and-binary-tree-data-structures-trees-part-i-4cmf)
+- [Introduction to &quot;Accel Record&quot;: A TypeScript ORM Using the Active Record Pattern](https://dev.to/koyopro/introduction-to-accel-record-a-typescript-orm-using-the-active-record-pattern-2oeh)
+- [Building An E-Commerce Store With NextJS](https://dev.to/novu/building-an-e-commerce-store-with-nextjs-49m)
+- [Exception In java and hierarchy](https://dev.to/rajubora/exception-in-java-and-hierarchy-53f5)
 <!-- BLOG-POST-LIST:END -->
 
