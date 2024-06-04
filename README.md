@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Monolith to Microservices or Enhanced SOA: A Comprehensive Guide to Modernizing Your Application Architecture](https://dev.to/marufhossain/from-monolith-to-microservices-or-enhanced-soa-a-comprehensive-guide-to-modernizing-your-application-architecture-26fa)
-- [I Got Tired of the Way I Type Parentheses on a QWERTY Keyboard](https://dev.to/zinnwan/i-got-tired-of-the-way-i-type-parentheses-on-a-qwerty-keyboard-55ff)
-- [What is zoom in Web Design? A funny story.](https://dev.to/alishgiri/what-is-zoom-in-web-design-3ddb)
-- [How to build a chrome extension in 2024](https://dev.to/kalisen/how-to-build-a-chrome-extension-in-2024-1ba3)
+- [** Los Mejores Entornos de Desarrollo Integrado &lpar;IDE&rpar; Explicados con la Magia de Escandalosos **🐻‍❄️🐼🐻](https://dev.to/orlidev/-los-mejores-entornos-de-desarrollo-integrado-ide-explicados-con-la-magia-de-escandalosos--m07)
+- [Upstream preview: The value of open source software](https://dev.to/tidelift/upstream-preview-the-value-of-open-source-software-2pfm)
+- [Top 10 Youtube channels to follow if you&#39;re a Programmer 🚀](https://dev.to/prathamjagga/top-10-youtube-channels-to-follow-if-youre-a-programmer-28c8)
+- [เริ่มต้น Quarkus 3 part 2.3 Renarde](https://dev.to/pramoth/erimtn-quarkus-3-part-23-renarde-2bgd)
 <!-- BLOG-POST-LIST:END -->
 
