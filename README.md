@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs Typescript Variables](https://dev.to/daveturissini/rust-vs-typescript-variables-38ab)
-- [Answer: How to print __int128 in g++?](https://dev.to/mdsiaofficial/answer-how-to-print-int128-in-g-3mki)
-- [A Developer&#39;s Guide to Boosting Ecommerce Sales: From Code to Checkout Success](https://dev.to/elena143/a-developers-guide-to-boosting-ecommerce-sales-from-code-to-checkout-success-4p3h)
-- [Simplifying Authentication with JWT, TypeScript and Fastify](https://dev.to/sraveend/simplifying-authentication-with-jwt-typescript-and-fastify-1dc9)
+- [Are Passkeys SCA-Compliant?](https://dev.to/corbado/are-passkeys-sca-compliant-12jp)
+- [How to use Express JS with Mongoose?](https://dev.to/nadim_ch0wdhury/how-to-use-express-js-with-mongoose-94o)
+- [TryParse C# | Int32. Uzbek](https://dev.to/ozodbek_soft/tryparse-c-int32-uzbek-e1j)
+- [How to use Nest JS with Prisma?](https://dev.to/nadim_ch0wdhury/how-to-use-nest-js-with-prisma-52c0)
 <!-- BLOG-POST-LIST:END -->
 
