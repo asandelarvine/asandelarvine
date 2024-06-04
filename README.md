@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #118: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-118-explica-este-codigo-python-el5)
-- [How AI is Transforming Salesforce Document Generation Tool?](https://dev.to/zoyazenniefer/how-ai-is-transforming-salesforce-document-generation-tool-300b)
-- [Kubernetes Cluster Architecture](https://dev.to/abdallah_kordy_94db275ef5/kubernetes-cluster-architecture-2cpl)
-- [TryParse in C# 🚀- Level up your Code with this Incredible Feature](https://dev.to/bytehide/tryparse-in-c-level-up-your-code-with-this-incredible-feature-5fif)
+- [Look Once to Hear: Target Speech Hearing with Noisy Examples](https://dev.to/mikeyoung44/look-once-to-hear-target-speech-hearing-with-noisy-examples-ccd)
+- [Generate and Pray: Using SALLMS to Evaluate the Security of LLM Generated Code](https://dev.to/mikeyoung44/generate-and-pray-using-sallms-to-evaluate-the-security-of-llm-generated-code-l24)
+- [Migrating a project from Visual studio to Rider](https://dev.to/doki_kapoki/migrating-a-project-from-visual-studio-to-rider-4o7k)
+- [Frontdesk/Visitor Management System project](https://dev.to/md-sazzadul-islam/frontdeskvisitor-management-system-project-2m8o)
 <!-- BLOG-POST-LIST:END -->
 
