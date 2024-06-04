@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Passkeys SCA-Compliant?](https://dev.to/corbado/are-passkeys-sca-compliant-12jp)
-- [How to use Express JS with Mongoose?](https://dev.to/nadim_ch0wdhury/how-to-use-express-js-with-mongoose-94o)
-- [TryParse C# | Int32. Uzbek](https://dev.to/ozodbek_soft/tryparse-c-int32-uzbek-e1j)
-- [How to use Nest JS with Prisma?](https://dev.to/nadim_ch0wdhury/how-to-use-nest-js-with-prisma-52c0)
+- [Level Up Your Contribution Guidelines](https://dev.to/vauntdev/level-up-your-contribution-guidelines-3jc7)
+- [C# Attributes In Practice — Building A Payment Terminal](https://dev.to/turalsuleymani/c-attributes-in-practice-building-a-payment-terminal-2ofa)
+- [How to learn Nest JS?](https://dev.to/nadim_ch0wdhury/how-to-learn-nest-js-20nc)
+- [How to Ensure Docker Compose Uses Environment Variables from the `.env` File](https://dev.to/mochafreddo/how-to-ensure-docker-compose-uses-environment-variables-from-the-env-file-2ib6)
 <!-- BLOG-POST-LIST:END -->
 
