@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🕒 Task vs Promise: Encadenación](https://dev.to/oscareduardolp6/task-vs-promise-encadenacion-4ejj)
-- [Database Observability: An Introductory Guide](https://dev.to/neurelo/database-observability-an-introductory-guide-1pbc)
-- [🕒 Task vs Promise: Chaining](https://dev.to/oscareduardolp6/task-vs-promise-chaining-2p7)
-- [How to unit test a private method in Kotlin without making it public](https://dev.to/theplebdev/how-to-unit-test-a-private-method-in-kotlin-without-making-it-public-glc)
+- [From Monolith to Microservices or Enhanced SOA: A Comprehensive Guide to Modernizing Your Application Architecture](https://dev.to/marufhossain/from-monolith-to-microservices-or-enhanced-soa-a-comprehensive-guide-to-modernizing-your-application-architecture-26fa)
+- [I Got Tired of the Way I Type Parentheses on a QWERTY Keyboard](https://dev.to/zinnwan/i-got-tired-of-the-way-i-type-parentheses-on-a-qwerty-keyboard-55ff)
+- [What is zoom in Web Design? A funny story.](https://dev.to/alishgiri/what-is-zoom-in-web-design-3ddb)
+- [How to build a chrome extension in 2024](https://dev.to/kalisen/how-to-build-a-chrome-extension-in-2024-1ba3)
 <!-- BLOG-POST-LIST:END -->
 
