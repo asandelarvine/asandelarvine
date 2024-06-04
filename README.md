@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sleepy Pikachu🥱 | Frontend Challenge June | CSS Art](https://dev.to/dhrutisubham03/sleepy-pikachu-4iha)
-- [Still Struggling with JavaScript Promises?](https://dev.to/godinhojoao/still-struggling-with-javascript-promises-kdh)
-- [Opt-In VS Opt-Out](https://dev.to/cxdezign/opt-in-vs-opt-out-2c48)
-- [[Game of Purpose] Day 16](https://dev.to/humberd/game-of-purpose-day-16-1pm3)
+- [Bug: Docker-compose up?](https://dev.to/fabiobazurtobla/bug-docker-compose-up-1coj)
+- [ReactJS and JavaScript, in Frontend Development](https://dev.to/buildwebcrumbs/reactjs-and-javascript-in-frontend-development-2eek)
+- [Top 4 Reasons to Hire a Software Development Consultant](https://dev.to/developerpartners/top-4-reasons-to-hire-a-software-development-consultant-1p1p)
+- [How to Instantly Track Message Broker Job Status Within the Same Request With NestJS and RabbitMQ](https://dev.to/luscasleo/how-to-instantly-track-message-broker-job-status-within-the-same-request-with-nestjs-and-rabbitmq-1g60)
 <!-- BLOG-POST-LIST:END -->
 
