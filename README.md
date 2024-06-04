@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Test REST APIs in Seconds! 🚀](https://dev.to/miguelrodriguezp99/create-test-rest-apis-in-seconds-cag)
-- [Day 3](https://dev.to/han_han/day-3-155)
-- [GSAP &lpar;GreenSock Animation Platform&rpar;: Revolutionizing Web Animations](https://dev.to/italohgs/gsap-greensock-animation-platform-revolutionizing-web-animations-14ga)
-- [Entendendo e Utilizando Tipos Condicionais &lpar;TypeScript&rpar;](https://dev.to/iagobelo/entendendo-e-utilizando-tipos-condicionais-typescript-40ib)
+- [Memahami CQRS &lpar;Command Query Responsibility Segregation&rpar; Kenapa dan Bagaimana Menggunakannya](https://dev.to/yogameleniawan/memahami-cqrs-command-query-responsibility-segregation-kenapa-dan-bagaimana-menggunakannya-4hmf)
+- [Deploying NextJS app to mobile App Stores using CapacitorJS](https://dev.to/jacobporci/deploying-nextjs-app-to-mobile-app-stores-using-capacitorjs-215c)
+- [[Conceito] - Não Use HTTP 404 ou 204 para Buscas Sem Resultados](https://dev.to/zanfranceschi/conceito-nao-use-http-404-ou-204-para-buscas-sem-resultados-6ki)
+- [Word Frequency Analysis using Elasticsearch on Alibaba Cloud](https://dev.to/a_lucas/word-frequency-analysis-using-elasticsearch-on-alibaba-cloud-4i6j)
 <!-- BLOG-POST-LIST:END -->
 
