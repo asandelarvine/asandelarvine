@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo o Uso de Offset em Tópicos do Kafka](https://dev.to/romerodias/entendendo-o-uso-de-offset-em-topicos-do-kafka-82)
-- [Golang REST API boilerplate](https://dev.to/haithambh/golang-rest-api-boilerplate-165k)
-- [How to use Notion as a backend in a project using Next.js](https://dev.to/johnatan_stevenortizsal/how-to-use-notion-as-a-backend-in-a-project-using-nextjs-3cp3)
-- [Shadcn-ui codebase analysis: How is the hero section built on ui.shadcn.com website?](https://dev.to/ramunarasinga/shadcn-ui-codebase-analysis-how-is-the-hero-section-built-on-uishadcncom-website-1hom)
+- [Dev: Blockchain](https://dev.to/r4nd3l/dev-blockchain-akg)
+- [SAST Scanning with SonarQube and Docker](https://dev.to/damienjburks/sast-scanning-with-sonarqube-and-docker-4cp7)
+- [Daily Notes](https://dev.to/dylansarikas/daily-notes-1m8f)
+- [Babylon.js Browser MMO - DevLog - Update #5 - Area of interest with spatial hash grid](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-5-area-of-interest-with-spatial-hash-grid-ifd)
 <!-- BLOG-POST-LIST:END -->
 
