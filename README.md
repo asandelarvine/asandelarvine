@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [** Los Mejores Entornos de Desarrollo Integrado &lpar;IDE&rpar; Explicados con la Magia de Escandalosos **🐻‍❄️🐼🐻](https://dev.to/orlidev/-los-mejores-entornos-de-desarrollo-integrado-ide-explicados-con-la-magia-de-escandalosos--m07)
-- [Upstream preview: The value of open source software](https://dev.to/tidelift/upstream-preview-the-value-of-open-source-software-2pfm)
-- [Top 10 Youtube channels to follow if you&#39;re a Programmer 🚀](https://dev.to/prathamjagga/top-10-youtube-channels-to-follow-if-youre-a-programmer-28c8)
-- [เริ่มต้น Quarkus 3 part 2.3 Renarde](https://dev.to/pramoth/erimtn-quarkus-3-part-23-renarde-2bgd)
+- [Bringing up BPI-F3 - Part 3](https://dev.to/luzero/bringing-up-bpi-f3-part-3-101h)
+- [What is Front End Development?](https://dev.to/jockko/what-is-front-end-development-17ak)
+- [How Technology and Programming Help My Hikes](https://dev.to/outofyourcomfortzone/how-technology-and-programming-help-my-hikes-28ap)
+- [Day 10 of my progress as a vue dev](https://dev.to/zain725342/day-10-of-my-progress-as-a-vue-dev-177b)
 <!-- BLOG-POST-LIST:END -->
 
