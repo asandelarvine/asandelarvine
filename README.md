@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bug: Docker-compose up?](https://dev.to/fabiobazurtobla/bug-docker-compose-up-1coj)
-- [ReactJS and JavaScript, in Frontend Development](https://dev.to/buildwebcrumbs/reactjs-and-javascript-in-frontend-development-2eek)
-- [Top 4 Reasons to Hire a Software Development Consultant](https://dev.to/developerpartners/top-4-reasons-to-hire-a-software-development-consultant-1p1p)
-- [How to Instantly Track Message Broker Job Status Within the Same Request With NestJS and RabbitMQ](https://dev.to/luscasleo/how-to-instantly-track-message-broker-job-status-within-the-same-request-with-nestjs-and-rabbitmq-1g60)
+- [Creating a Linux Virtual Machine with Ubuntu Server using Password Authentication.](https://dev.to/opsyog/creating-a-linux-virtual-machine-with-ubuntu-server-using-password-authentication-2nec)
+- [Handling CORS Errors in ReactJS](https://dev.to/vyan/handling-cors-errors-in-reactjs-42pl)
+- [Welcome to my Blog](https://dev.to/ganatrajay2000/welcome-to-my-blog-1cmh)
+- [How to host a Minecraft server for Java on PC](https://dev.to/walkera1/how-to-host-a-minecraft-server-for-java-on-pc-4m5j)
 <!-- BLOG-POST-LIST:END -->
 
