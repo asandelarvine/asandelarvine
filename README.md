@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the SQL ORDER BY Clause](https://dev.to/kellyblaire/understanding-the-sql-order-by-clause-llg)
-- [OpenID Connect Flows: From Implicit to Authorization Code with PKCE &amp; BFF](https://dev.to/alexey-abblix/openid-connect-flows-from-implicit-to-authorization-code-with-pkce-bff-4ke8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pg0)
-- [NULL Handling in SQL](https://dev.to/kellyblaire/null-handling-in-sql-1mp2)
+- [Entendendo o Uso de Offset em Tópicos do Kafka](https://dev.to/romerodias/entendendo-o-uso-de-offset-em-topicos-do-kafka-82)
+- [Golang REST API boilerplate](https://dev.to/haithambh/golang-rest-api-boilerplate-165k)
+- [How to use Notion as a backend in a project using Next.js](https://dev.to/johnatan_stevenortizsal/how-to-use-notion-as-a-backend-in-a-project-using-nextjs-3cp3)
+- [Shadcn-ui codebase analysis: How is the hero section built on ui.shadcn.com website?](https://dev.to/ramunarasinga/shadcn-ui-codebase-analysis-how-is-the-hero-section-built-on-uishadcncom-website-1hom)
 <!-- BLOG-POST-LIST:END -->
 
