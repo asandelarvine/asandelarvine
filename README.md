@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WEDNESDAY POLL DAY 🤘](https://dev.to/mince/wednesday-poll-day-4p9i)
-- [Identity and Access Management: Why it is an Absolute Necessity Today](https://dev.to/sennovate/identity-and-access-management-why-it-is-an-absolute-necessity-today-5hdi)
-- [How To Memoize False and Nil Values](https://dev.to/jetthoughts/how-to-memoize-false-and-nil-values-50g3)
-- [Test Driven Thinking for Solving Common Ruby Pitfalls](https://dev.to/jetthoughts/test-driven-thinking-for-solving-common-ruby-pitfalls-3gb7)
+- [PSD3 &amp; PSR Implications for Passkey Authentication](https://dev.to/corbado/psd3-psr-implications-for-passkey-authentication-22e2)
+- [Optimize your Chrome options for testing to get x1.25 impact](https://dev.to/jetthoughts/optimize-your-chrome-options-for-testing-to-get-x125-impact-djf)
+- [Manage Bundler indirect dependencies versions](https://dev.to/jetthoughts/manage-bundler-indirect-dependencies-versions-50cf)
+- [Onboarding Tests into Legacy Project](https://dev.to/jetthoughts/onboarding-tests-into-legacy-project-54f3)
 <!-- BLOG-POST-LIST:END -->
 
