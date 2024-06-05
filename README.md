@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Trade Operations with Intelligent Document Processing &lpar;IDP&rpar;](https://dev.to/john_hall/streamlining-trade-operations-with-intelligent-document-processing-idp-1hpi)
-- [Day 5 of #90daysofdevops Advanced Linux Shell Scripting for DevOps Engineers with User Management](https://dev.to/oncloud7/day-5-of-90daysofdevops-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-2lg2)
-- [✨ 10 useful webdev insight &amp; learning resources!](https://dev.to/thexdev/10-useful-webdev-insight-learning-resources-eoe)
-- [Understanding gRPC: A Modern Approach to Remote Procedure Calls](https://dev.to/arefin6/understanding-grpc-a-modern-approach-to-remote-procedure-calls-59c)
+- [Pipeline Integrity and Security in DevSecOps](https://dev.to/gitguardian/pipeline-integrity-and-security-in-devsecops-2p81)
+- [Thrive as a Junior Engineer: Embrace Deliberate Progress](https://dev.to/alexroor4/thrive-as-a-junior-engineer-embrace-deliberate-progress-5bnn)
+- [Karyam: Simples everyday writing app](https://dev.to/shreyvijayvargiya/karyam-simples-everyday-writing-app-489m)
+- [Next.js 15 just got faster: Comprehensive guide to testing Turbopack](https://dev.to/perisicnikola37/nextjs-15-just-got-faster-comprehensive-guide-to-testing-turbopack-4a7n)
 <!-- BLOG-POST-LIST:END -->
 
