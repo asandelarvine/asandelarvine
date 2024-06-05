@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Smooth Hover Effects for Menu Icons](https://dev.to/yordiverkroost/creating-smooth-hover-effects-for-menu-icons-4ond)
-- [The Future of Web Design: Expert Insights from Leading Kochi Web Design Companies](https://dev.to/witsow_branding/the-future-of-web-design-expert-insights-from-leading-kochi-web-design-companies-5fog)
-- [Why does not postgres use my index?](https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf)
-- [Hoisting for dummies &lpar;aka me&rpar;](https://dev.to/bibschan/hoisting-for-dummies-aka-me-2i6k)
+- [WEDNESDAY POLL DAY 🤘](https://dev.to/mince/wednesday-poll-day-4p9i)
+- [Identity and Access Management: Why it is an Absolute Necessity Today](https://dev.to/sennovate/identity-and-access-management-why-it-is-an-absolute-necessity-today-5hdi)
+- [How To Memoize False and Nil Values](https://dev.to/jetthoughts/how-to-memoize-false-and-nil-values-50g3)
+- [Test Driven Thinking for Solving Common Ruby Pitfalls](https://dev.to/jetthoughts/test-driven-thinking-for-solving-common-ruby-pitfalls-3gb7)
 <!-- BLOG-POST-LIST:END -->
 
