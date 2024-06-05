@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reactive Contexts in Angular 18](https://dev.to/diegoquesadadev/understanding-reactive-contexts-in-angular-18-17b9)
-- [Class Relationships](https://dev.to/paulike/class-relationships-324b)
-- [On-Scroll Animation](https://dev.to/alikhanzada577/on-scroll-animation-11am)
-- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-504f)
+- [The BigInteger and BigDecimal Classes](https://dev.to/paulike/the-biginteger-and-bigdecimal-classes-1eeg)
+- [Automatic Conversion between Primitive Types and Wrapper Class Types](https://dev.to/paulike/automatic-conversion-between-primitive-types-and-wrapper-class-types-46en)
+- [Configuração de ambiente BackEnd](https://dev.to/anuntech/configuracao-de-ambiente-backend-3j9k)
+- [Configuração de ambiente Web](https://dev.to/anuntech/configuracao-de-ambiente-web-n4f)
 <!-- BLOG-POST-LIST:END -->
 
