@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to share your &quot;localhost&quot; with the world](https://dev.to/darkotodoric/how-to-share-your-localhost-with-the-world-2h)
-- [Accessibility Break Down | Focusable Indicators](https://dev.to/devsatasurion/accessibility-break-down-focusable-indicators-1ibe)
-- [Footer UI Example | ReadymadeUI](https://dev.to/readymade-ui/footer-ui-example-readymadeui-4j7d)
-- [Debugging beyond console.log&lpar;&rpar; in JavaScript](https://dev.to/codeparrot/debugging-beyond-consolelog-in-javascript-32g6)
+- [Como Configurar uma Pipeline para Bitbucket Pipelines em um Projeto Node.js](https://dev.to/vitorrios1001/como-configurar-uma-pipeline-para-bitbucket-pipelines-em-um-projeto-nodejs-32ph)
+- [The Core Architectural Components of Azure](https://dev.to/dera2024/the-core-architectural-components-of-azure-2pf)
+- [Please help, I am new to Agentic LLM](https://dev.to/karan_vyas/please-help-i-am-new-to-agentic-llm-3af5)
+- [7 Ways to Improve Asset Visibility](https://dev.to/yayabobi/7-ways-to-improve-asset-visibility-8kj)
 <!-- BLOG-POST-LIST:END -->
 
