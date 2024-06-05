@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Merge Two Arrays in Java: A Simple Guide](https://dev.to/dk119819/how-to-merge-two-arrays-in-java-a-simple-guide-13hc)
-- [Developing Interactive E-Learning Content with HTML5 and JavaScript](https://dev.to/kartikmehta8/developing-interactive-e-learning-content-with-html5-and-javascript-2hio)
-- [GraphQL vs. REST: Qual é a Melhor Escolha para sua API?](https://dev.to/thiagohnrt/graphql-vs-rest-qual-e-a-melhor-escolha-para-sua-api-59cj)
-- [Welcome Thread - v279](https://dev.to/devteam/welcome-thread-v279-2mg1)
+- [What is cloud computing ?](https://dev.to/leonardosantosbr/what-is-cloud-computing--13f1)
+- [How to Build AI-Driven Retrieval by Integrating Langchain and Elasticsearch](https://dev.to/a_lucas/how-to-build-ai-driven-retrieval-by-integrating-langchain-and-elasticsearch-35j0)
+- [Streamlining Image Annotation with Annotate-Lab](https://dev.to/sumn2u/streamlining-image-annotation-with-annotate-lab-6hc)
+- [The Backbone of Collaboration: Understanding Merge Request Reviews](https://dev.to/iswanjumat/the-backbone-of-collaboration-understanding-merge-request-reviews-3c8g)
 <!-- BLOG-POST-LIST:END -->
 
