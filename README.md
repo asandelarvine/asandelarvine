@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [17 Tailwind CSS Tips &amp; Tricks You Probably Don&#39;t Know](https://dev.to/syakirurahman/17-tailwind-css-tips-tricks-you-probably-dont-know-2d7k)
-- [Title: Unpacking the Core Architectural Components of Microsoft Azure](https://dev.to/francis_mbamara_05cc4a12d/title-unpacking-the-core-architectural-components-of-microsoft-azure-2cgo)
-- [Streamline Your Workflow with Numverify&#39;s Zapier Integration](https://dev.to/aanchal_chauhan_430724679/streamline-your-workflow-with-numverifys-zapier-integration-1cfh)
-- [Essential Guide to the Top 12 Open Source Performance Testing Tools](https://dev.to/satokenta/essential-guide-to-the-top-12-open-source-performance-testing-tools-1jf7)
+- [Evaluation Metrics: Machine Learning Models 🤖🐍](https://dev.to/kammarianand/evaluation-metrics-machine-learning-models-lg5)
+- [What are the most promising decentralized applications available today?](https://dev.to/sanaellie/what-are-the-most-promising-decentralized-applications-available-today-1af1)
+- [Sachin Dev Duggal - Future Employment and AI: Moving Beyond Technological Displacement](https://dev.to/triptivermaa01/sachin-dev-duggal-future-employment-and-ai-moving-beyond-technological-displacement-lf6)
+- [What is MANUAL TESTING its DRAWBACKS and BENEFITS.](https://dev.to/s1eb0d54/what-is-manual-testing-its-drawbacks-and-benefits-4830)
 <!-- BLOG-POST-LIST:END -->
 
