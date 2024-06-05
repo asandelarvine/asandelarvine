@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SELENIUM](https://dev.to/jayshankark/selenium-2c2d)
-- [Ace Your Exams: Automated Question Generation for the Diligent Student](https://dev.to/roomals/ace-your-exams-automated-question-generation-for-the-diligent-student-11c)
-- [Constraints &amp; Validations](https://dev.to/gasparericmartin/constraints-validations-2n1i)
-- [🚀 First Week of Computer Programming Courses: What I’ve Learned! 🚀](https://dev.to/itschristinamba/first-week-of-computer-programming-courses-what-ive-learned-3p45)
+- [The Best Alternatives to Postman for API Testing](https://dev.to/vyan/the-best-alternatives-to-postman-for-api-testing-2bno)
+- [React: Design Patterns | Controlled &amp; Uncontrolled Components](https://dev.to/andresz74/react-design-patterns-controlled-uncontrolled-components-e2c)
+- [How to setup a Svelte project](https://dev.to/dumorando/how-to-setup-a-svelte-project-4kho)
+- [SPA vs MPA: Which is better?](https://dev.to/twinkle123/spa-vs-mpa-which-is-better-4mb7)
 <!-- BLOG-POST-LIST:END -->
 
