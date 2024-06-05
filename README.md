@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing: Theme Builder for Angular Material](https://dev.to/ngmaterialdev/announcing-theme-builder-for-angular-material-3kpf)
-- [Take Your First Steps for Building on LLMs with Google Gemini](https://dev.to/alvinslee/take-your-first-steps-for-building-on-llms-with-google-gemini-4169)
-- [Be a Part of OWASP Top 10 2024!](https://dev.to/owasp/be-a-part-of-owasp-top-10-2024-3j1b)
-- [Implementing Role Based Access Control &lpar;RBAC&rpar; in Node.js and Express App](https://dev.to/permify/implementing-role-based-access-control-rbac-in-nodejs-and-express-app-5df4)
+- [How to share your &quot;localhost&quot; with the world](https://dev.to/darkotodoric/how-to-share-your-localhost-with-the-world-2h)
+- [Accessibility Break Down | Focusable Indicators](https://dev.to/devsatasurion/accessibility-break-down-focusable-indicators-1ibe)
+- [Footer UI Example | ReadymadeUI](https://dev.to/readymade-ui/footer-ui-example-readymadeui-4j7d)
+- [Debugging beyond console.log&lpar;&rpar; in JavaScript](https://dev.to/codeparrot/debugging-beyond-consolelog-in-javascript-32g6)
 <!-- BLOG-POST-LIST:END -->
 
