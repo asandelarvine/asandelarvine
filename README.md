@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmented Reality &lpar;AR&rpar; in Everyday Life: Current Applications and Future Trends](https://dev.to/bingecoder89/augmented-reality-ar-in-everyday-life-current-applications-and-future-trends-1jca)
-- [Automatically remove automatic IPv4 address assignment to Amazon EC2 instances](https://dev.to/nishikawaakira/automatically-remove-automatic-ipv4-address-assignment-to-amazon-ec2-instances-12fl)
-- [Release 0.37.0 of Spellcheck &lpar;GitHub&rpar; Action - yet another maintenance release](https://dev.to/jonasbn/release-0370-of-spellcheck-github-action-yet-another-maintenance-release-2dj9)
-- [ASO 101: App store optimization for Amazon Developers](https://dev.to/amazonappdev/aso-101-app-store-optimization-for-amazon-developers-57lp)
+- [How to Recover an Entire Folder in S3 After Accidental Deletion](https://dev.to/siddhantkcode/how-to-recover-an-entire-folder-in-s3-after-accidental-deletion-173f)
+- [AWS Summit Stockholm](https://dev.to/stefanalfbo/aws-summit-stockholm-17k4)
+- [New domain OSINT tool. Your thoughts and feedback?](https://dev.to/osinttechnologies/new-domain-osint-tool-your-thoughts-and-feedback-3in6)
+- [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-22jk)
 <!-- BLOG-POST-LIST:END -->
 
