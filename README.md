@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying static webs apps with the Azure cli and bicep](https://dev.to/danwright/deploying-static-webs-apps-1dib)
-- [Best Practices for Working with Next.js](https://dev.to/enitanogun1/best-practices-for-working-with-nextjs-49np)
-- [How to create a Storage Account in Microsoft Azure](https://dev.to/atony07/how-to-create-a-storage-account-in-microsoft-azure-44e7)
-- [Mastering Python Comprehensions: Crafting Efficient and Readable Code](https://dev.to/sahilfruitwala/mastering-python-comprehensions-crafting-efficient-and-readable-code-a89)
+- [How to Merge Two Arrays in Java: A Simple Guide](https://dev.to/dk119819/how-to-merge-two-arrays-in-java-a-simple-guide-13hc)
+- [Developing Interactive E-Learning Content with HTML5 and JavaScript](https://dev.to/kartikmehta8/developing-interactive-e-learning-content-with-html5-and-javascript-2hio)
+- [GraphQL vs. REST: Qual é a Melhor Escolha para sua API?](https://dev.to/thiagohnrt/graphql-vs-rest-qual-e-a-melhor-escolha-para-sua-api-59cj)
+- [Welcome Thread - v279](https://dev.to/devteam/welcome-thread-v279-2mg1)
 <!-- BLOG-POST-LIST:END -->
 
