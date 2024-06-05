@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Alternatives to Postman for API Testing](https://dev.to/vyan/the-best-alternatives-to-postman-for-api-testing-2bno)
-- [React: Design Patterns | Controlled &amp; Uncontrolled Components](https://dev.to/andresz74/react-design-patterns-controlled-uncontrolled-components-e2c)
-- [How to setup a Svelte project](https://dev.to/dumorando/how-to-setup-a-svelte-project-4kho)
-- [SPA vs MPA: Which is better?](https://dev.to/twinkle123/spa-vs-mpa-which-is-better-4mb7)
+- [Creating Smooth Hover Effects for Menu Icons](https://dev.to/yordiverkroost/creating-smooth-hover-effects-for-menu-icons-4ond)
+- [The Future of Web Design: Expert Insights from Leading Kochi Web Design Companies](https://dev.to/witsow_branding/the-future-of-web-design-expert-insights-from-leading-kochi-web-design-companies-5fog)
+- [Why does not postgres use my index?](https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf)
+- [Hoisting for dummies &lpar;aka me&rpar;](https://dev.to/bibschan/hoisting-for-dummies-aka-me-2i6k)
 <!-- BLOG-POST-LIST:END -->
 
