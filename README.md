@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation Metrics: Machine Learning Models 🤖🐍](https://dev.to/kammarianand/evaluation-metrics-machine-learning-models-lg5)
-- [What are the most promising decentralized applications available today?](https://dev.to/sanaellie/what-are-the-most-promising-decentralized-applications-available-today-1af1)
-- [Sachin Dev Duggal - Future Employment and AI: Moving Beyond Technological Displacement](https://dev.to/triptivermaa01/sachin-dev-duggal-future-employment-and-ai-moving-beyond-technological-displacement-lf6)
-- [What is MANUAL TESTING its DRAWBACKS and BENEFITS.](https://dev.to/s1eb0d54/what-is-manual-testing-its-drawbacks-and-benefits-4830)
+- [Learning Zig, day #1](https://dev.to/brharrelldev/learning-zig-day-1-g6l)
+- [Accent Colors for Checkboxes and Radios](https://dev.to/priyankachettri/accent-colors-for-checkboxes-and-radios-5jb)
+- [Adaptive Artificial Intelligence in Business How Can You Implement it](https://dev.to/aishikl/adaptive-artificial-intelligence-in-business-how-can-you-implement-it-4big)
+- [Interoperability for Seamless Integration of Blockchain Networks](https://dev.to/bloxbytes/interoperability-for-seamless-integration-of-blockchain-networks-4bkf)
 <!-- BLOG-POST-LIST:END -->
 
