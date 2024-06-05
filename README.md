@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is cloud computing ?](https://dev.to/leonardosantosbr/what-is-cloud-computing--13f1)
-- [How to Build AI-Driven Retrieval by Integrating Langchain and Elasticsearch](https://dev.to/a_lucas/how-to-build-ai-driven-retrieval-by-integrating-langchain-and-elasticsearch-35j0)
-- [Streamlining Image Annotation with Annotate-Lab](https://dev.to/sumn2u/streamlining-image-annotation-with-annotate-lab-6hc)
-- [The Backbone of Collaboration: Understanding Merge Request Reviews](https://dev.to/iswanjumat/the-backbone-of-collaboration-understanding-merge-request-reviews-3c8g)
+- [SELENIUM](https://dev.to/jayshankark/selenium-2c2d)
+- [Ace Your Exams: Automated Question Generation for the Diligent Student](https://dev.to/roomals/ace-your-exams-automated-question-generation-for-the-diligent-student-11c)
+- [Constraints &amp; Validations](https://dev.to/gasparericmartin/constraints-validations-2n1i)
+- [🚀 First Week of Computer Programming Courses: What I’ve Learned! 🚀](https://dev.to/itschristinamba/first-week-of-computer-programming-courses-what-ive-learned-3p45)
 <!-- BLOG-POST-LIST:END -->
 
