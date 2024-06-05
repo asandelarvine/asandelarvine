@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Recover an Entire Folder in S3 After Accidental Deletion](https://dev.to/siddhantkcode/how-to-recover-an-entire-folder-in-s3-after-accidental-deletion-173f)
-- [AWS Summit Stockholm](https://dev.to/stefanalfbo/aws-summit-stockholm-17k4)
-- [New domain OSINT tool. Your thoughts and feedback?](https://dev.to/osinttechnologies/new-domain-osint-tool-your-thoughts-and-feedback-3in6)
-- [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-22jk)
+- [Thinking in Objects](https://dev.to/paulike/thinking-in-objects-44nb)
+- [Unlocking the Potential of Free Shipping APIs](https://dev.to/ericksmith14/unlocking-the-potential-of-free-shipping-apis-5f0m)
+- [What I learned after burnout](https://dev.to/leonardoventurini/what-i-learned-after-burnout-105n)
+- [[WIP] Test UI?](https://dev.to/linediconsine/wip-test-ui-dl4)
 <!-- BLOG-POST-LIST:END -->
 
