@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Configurar uma Pipeline para Bitbucket Pipelines em um Projeto Node.js](https://dev.to/vitorrios1001/como-configurar-uma-pipeline-para-bitbucket-pipelines-em-um-projeto-nodejs-32ph)
-- [The Core Architectural Components of Azure](https://dev.to/dera2024/the-core-architectural-components-of-azure-2pf)
-- [Please help, I am new to Agentic LLM](https://dev.to/karan_vyas/please-help-i-am-new-to-agentic-llm-3af5)
-- [7 Ways to Improve Asset Visibility](https://dev.to/yayabobi/7-ways-to-improve-asset-visibility-8kj)
+- [Augmented Reality &lpar;AR&rpar; in Everyday Life: Current Applications and Future Trends](https://dev.to/bingecoder89/augmented-reality-ar-in-everyday-life-current-applications-and-future-trends-1jca)
+- [Automatically remove automatic IPv4 address assignment to Amazon EC2 instances](https://dev.to/nishikawaakira/automatically-remove-automatic-ipv4-address-assignment-to-amazon-ec2-instances-12fl)
+- [Release 0.37.0 of Spellcheck &lpar;GitHub&rpar; Action - yet another maintenance release](https://dev.to/jonasbn/release-0370-of-spellcheck-github-action-yet-another-maintenance-release-2dj9)
+- [ASO 101: App store optimization for Amazon Developers](https://dev.to/amazonappdev/aso-101-app-store-optimization-for-amazon-developers-57lp)
 <!-- BLOG-POST-LIST:END -->
 
