@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Backend Engineering with Self-Directed Learning](https://dev.to/bede_hampo/level-up-your-backend-engineering-with-self-directed-learning-13a5)
-- [What is Machine Learning?](https://dev.to/madhuripatil/what-is-machine-learning-53cl)
-- [Amazon Inspector](https://dev.to/aws-builders/amazon-inspector-4fk4)
-- [Separate GitHub Accounts for Work and Personal Projects: A Step-by-Step Guide](https://dev.to/nkrumahthis/separate-github-accounts-for-work-and-personal-projects-a-step-by-step-guide-28jk)
+- [17 Tailwind CSS Tips &amp; Tricks You Probably Don&#39;t Know](https://dev.to/syakirurahman/17-tailwind-css-tips-tricks-you-probably-dont-know-2d7k)
+- [Title: Unpacking the Core Architectural Components of Microsoft Azure](https://dev.to/francis_mbamara_05cc4a12d/title-unpacking-the-core-architectural-components-of-microsoft-azure-2cgo)
+- [Streamline Your Workflow with Numverify&#39;s Zapier Integration](https://dev.to/aanchal_chauhan_430724679/streamline-your-workflow-with-numverifys-zapier-integration-1cfh)
+- [Essential Guide to the Top 12 Open Source Performance Testing Tools](https://dev.to/satokenta/essential-guide-to-the-top-12-open-source-performance-testing-tools-1jf7)
 <!-- BLOG-POST-LIST:END -->
 
