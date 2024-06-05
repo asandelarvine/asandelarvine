@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Data Types in Java with Examples](https://dev.to/fullstackjava/a-comprehensive-guide-to-data-types-in-java-with-examples-2716)
-- [Rendering a list of elements in JSX](https://dev.to/ark7/rendering-a-list-of-elements-in-jsx-35am)
-- [What is Func Keyword in C#? Main Usages ⭐](https://dev.to/bytehide/what-is-func-keyword-in-c-main-usages-3gmj)
-- [Automating Insulin Ordering: Sending the Email to the Pharmacy &lpar;Part 4&rpar;](https://dev.to/goudekettingrm/automating-insulin-ordering-sending-the-email-to-the-pharmacy-part-4-1bp)
+- [Level Up Your Backend Engineering with Self-Directed Learning](https://dev.to/bede_hampo/level-up-your-backend-engineering-with-self-directed-learning-13a5)
+- [What is Machine Learning?](https://dev.to/madhuripatil/what-is-machine-learning-53cl)
+- [Amazon Inspector](https://dev.to/aws-builders/amazon-inspector-4fk4)
+- [Separate GitHub Accounts for Work and Personal Projects: A Step-by-Step Guide](https://dev.to/nkrumahthis/separate-github-accounts-for-work-and-personal-projects-a-step-by-step-guide-28jk)
 <!-- BLOG-POST-LIST:END -->
 
