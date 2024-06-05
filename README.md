@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Perform Semantic Search using ChromaDB in JavaScript](https://dev.to/vaatiesther/how-to-perform-semantic-search-using-chromadb-in-javascript-3og8)
-- [Understanding AI Code Analysis and Real-Time Performance Monitoring](https://dev.to/get_pieces/understanding-ai-code-analysis-and-real-time-performance-monitoring-1ao4)
-- [SQL Mastery: Unleashing the Power of Queries](https://dev.to/mahabubr/sql-mastery-unleashing-the-power-of-queries-5bnl)
-- [HOW TO HOST AN APPLICATION USING GITHUB](https://dev.to/shreeprabha_bhat/how-to-host-an-application-using-github-49bh)
+- [Announcing: Theme Builder for Angular Material](https://dev.to/ngmaterialdev/announcing-theme-builder-for-angular-material-3kpf)
+- [Take Your First Steps for Building on LLMs with Google Gemini](https://dev.to/alvinslee/take-your-first-steps-for-building-on-llms-with-google-gemini-4169)
+- [Be a Part of OWASP Top 10 2024!](https://dev.to/owasp/be-a-part-of-owasp-top-10-2024-3j1b)
+- [Implementing Role Based Access Control &lpar;RBAC&rpar; in Node.js and Express App](https://dev.to/permify/implementing-role-based-access-control-rbac-in-nodejs-and-express-app-5df4)
 <!-- BLOG-POST-LIST:END -->
 
