@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HackerRank SQL Preparation: Select by ID&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-select-by-idmysql-267j)
-- [HackerRank SQL Preparation: Select All&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-select-allmysql-31da)
-- [Lightning-fast, powerful, and ready-to-use TypeScript toolkit Introduction](https://dev.to/linhanlove/lightning-fast-powerful-and-ready-to-use-typescript-toolkitintroduction-3cag)
-- [C Reflection Magic: A Wrapper for Printing Arbitrary Functions Arguments and Results](https://dev.to/alexey_odinokov_734a1ba32/c-reflection-magic-a-wrapper-for-printing-arbitrary-functions-arguments-and-results-1k0b)
+- [How &lpar;Not&rpar; To Use AI When Learning to Code](https://dev.to/nmiller15/how-not-to-use-ai-when-learning-to-code-4jgf)
+- [Deploy Postgres on any Kubernetes using CloudNativePG](https://dev.to/gangaprasad_07bcb0289de5d/deploy-postgres-on-any-kubernetes-using-cloudnativepg-3bn4)
+- [Secrets management with Azure Key Vault](https://dev.to/borisgigovic/secrets-management-with-azure-key-vault-15dg)
+- [The difference between the P tag and the PRE tag in HTML](https://dev.to/tidycoder/the-difference-between-the-p-tag-and-the-pre-tag-in-html-15in)
 <!-- BLOG-POST-LIST:END -->
 
