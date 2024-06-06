@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential GitHub Commands for Beginners](https://dev.to/vyan/essential-github-commands-for-beginners-34ia)
-- [Como a AWS Cloud Control API e o novo Terraform provider impactam sua vida?](https://dev.to/aws-builders/como-a-aws-cloud-control-api-e-o-novo-terraform-provider-impactam-sua-vida-3jg8)
-- [In Excel, Combine Every N Row into A New Row](https://dev.to/judith677/in-excel-combine-every-n-row-into-a-new-row-21k2)
-- [Parallel Sub-tests in Go: A Cautionary Tale](https://dev.to/blazingbits/parallel-sub-tests-in-go-a-cautionary-tale-54ha)
+- [Design Quality: The Cornerstone of a Lasting Brand Legacy](https://dev.to/shieldstring/design-quality-the-cornerstone-of-a-lasting-brand-legacy-1fh7)
+- [HTTP/2 Server Push Arrives: Faster Delivery for a Smoother User Experience](https://dev.to/akaksha/http2-server-push-arrives-faster-delivery-for-a-smoother-user-experience-13l8)
+- [The Importance of Software Quality](https://dev.to/joaomarques/the-importance-of-software-quality-8f8)
+- [Ditch the Pixels: The Small and Vectorized Web](https://dev.to/yordiverkroost/ditch-the-pixels-the-small-and-vectorized-web-1f4e)
 <!-- BLOG-POST-LIST:END -->
 
