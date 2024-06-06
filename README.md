@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌊 Beach Quest with Finley and Friends !](https://dev.to/everlygif/beach-quest-with-finley-and-friends--bmk)
-- [But do you have a portfolio?](https://dev.to/amandakoster/but-do-you-have-a-portfolio-bf3)
-- [How To Create a Virtual ATM Card using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-virtual-atm-card-using-plain-html-css-nmj)
-- [Unleash the True Potential of Your Web Applications with React to Next.js](https://dev.to/s0330b/unleash-the-true-potential-of-your-web-applications-with-react-to-nextjs-314k)
+- [Tune In to &quot;Talking Tech with Techielass&quot; – Your Weekly Azure Update in Under 5 Minutes!](https://dev.to/techielass/tune-in-to-talking-tech-with-techielass-your-weekly-azure-update-in-under-5-minutes-43b9)
+- [Python Bytecode: A Beginner’s Guide](https://dev.to/emminex/python-bytecode-a-beginners-guide-35bb)
+- [Using Azure Bicep to deploy MS Graph resources](https://dev.to/omiossec/using-azure-bicep-to-deploy-ms-graph-resources-gh)
+- [SwiftUI and Navigation](https://dev.to/simplykyra/swiftui-and-navigation-1p2i)
 <!-- BLOG-POST-LIST:END -->
 
