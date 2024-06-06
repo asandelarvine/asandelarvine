@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Performance Optimization: Unleashing the Full Potential of Your Applications](https://dev.to/raksbisht/nodejs-performance-optimization-unleashing-the-full-potential-of-your-applications-4njm)
-- [Take User Input in JavaScript Without Prompt Method](https://dev.to/yasminsardar/take-user-input-in-javascript-without-prompt-method-5mh)
-- [Créer une application en ligne de commande avec Rust](https://dev.to/damcosset/creer-une-application-en-ligne-de-commande-avec-rust-54j3)
-- [Node.js vs. PHP: Key Differences for Web Development](https://dev.to/raksbisht/nodejs-vs-php-key-differences-for-web-development-hml)
+- [A Deep Dive into Next.js 14: Solving Common, Intermediate, and Advanced Issues 🚀](https://dev.to/mohith/a-deep-dive-into-nextjs-14-solving-common-intermediate-and-advanced-issues-hja)
+- [How to use a custom font on Excalidraw.com](https://dev.to/dawidcodes/how-to-use-a-custom-font-on-excalidrawcom-4jl4)
+- [Unleash the Power of System Design: Essential for Every Software Engineer! 💻🚀](https://dev.to/raksbisht/unleash-the-power-of-system-design-essential-for-every-software-engineer-52a)
+- [Desfazer o último commit no Git](https://dev.to/lucasvalhos/desfazer-o-ultimo-commit-no-git-38e0)
 <!-- BLOG-POST-LIST:END -->
 
