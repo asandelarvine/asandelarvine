@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The BigInteger and BigDecimal Classes](https://dev.to/paulike/the-biginteger-and-bigdecimal-classes-1eeg)
-- [Automatic Conversion between Primitive Types and Wrapper Class Types](https://dev.to/paulike/automatic-conversion-between-primitive-types-and-wrapper-class-types-46en)
-- [Configuração de ambiente BackEnd](https://dev.to/anuntech/configuracao-de-ambiente-backend-3j9k)
-- [Configuração de ambiente Web](https://dev.to/anuntech/configuracao-de-ambiente-web-n4f)
+- [My Game Recommendation Program](https://dev.to/carterwr/my-game-recommendation-software-27pk)
+- [Understanding Microservices Architecture](https://dev.to/kartikmehta8/understanding-microservices-architecture-3278)
+- [Optimising Your Cloud Spend: Top Strategies for AWS Cost Management](https://dev.to/kelvinskell/optimising-your-cloud-spend-top-strategies-for-aws-cost-management-4l13)
+- [Case Study: Ignoring Nonalphanumeric Characters When Checking Palindromes](https://dev.to/paulike/case-study-ignoring-nonalphanumeric-characters-when-checking-palindromes-34n9)
 <!-- BLOG-POST-LIST:END -->
 
