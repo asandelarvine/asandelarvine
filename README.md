@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All Useful AWS Commands](https://dev.to/devops_den/all-useful-aws-commands-g4p)
-- [PDF Form Manipulation API](https://dev.to/fileforge/pdf-form-manipulation-api-2kcg)
-- [The Adventures of Blink #26: GPT4All! &lpar;and All4GPT!&rpar;](https://dev.to/linkbenjamin/the-adventures-of-blink-26-gpt4all-and-all4gpt-2hdp)
-- [Sloan&#39;s Inbox: Should You Trust Developers Who Use Light Mode? 😝](https://dev.to/devteam/sloans-inbox-should-you-trust-developers-who-use-light-mode-5009)
+- [Recovering from burn out by building in public](https://dev.to/liaob/recovering-from-burn-out-by-building-in-public-3lb1)
+- [Terraform Best Practices: State Management, Reusability, Security and Beyond](https://dev.to/env0/terraform-best-practices-state-management-reusability-security-and-beyond-27ch)
+- [🕸️ A Guide to Lean Web Design for Developers](https://dev.to/evergrowingdev/a-guide-to-lean-web-design-for-developers-p90)
+- [Why ModHeader Users Are Moving to Requestly](https://dev.to/requestlyio/why-modheader-users-are-moving-to-requestly-4192)
 <!-- BLOG-POST-LIST:END -->
 
