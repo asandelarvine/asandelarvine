@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Even more Opentelemetry!](https://dev.to/apisix/even-more-opentelemetry-2pmo)
-- [Ask everybody to share experiences on analytics](https://dev.to/litlyx/ask-everybody-to-share-experiences-on-analytics-54eh)
-- [Update a Progress Bar using Turbo Streams &lpar;using Custom Actions&rpar;](https://dev.to/railsdesigner/update-a-progress-bar-using-turbo-streams-using-custom-actions-j2c)
-- [12 tips for starting an online business](https://dev.to/martinbaun/12-tips-for-starting-an-online-business-1bn6)
+- [Not 💩, here&#39;s how to write actually good commit messages &lpar;hint: It&#39;s not just adding commit-lint&rpar;](https://dev.to/middleware/not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i)
+- [Maximizing ROI: From Google Analytics To Custom Analytics](https://dev.to/sotergreco/maximizing-roi-from-google-analytics-to-custom-analytics-5915)
+- [Navigating the Data Jungle. Data Analysis Software: A Comprehensive Guide](https://dev.to/jaydipparikh/navigating-the-data-jungle-data-analysis-software-a-comprehensive-guide-2k08)
+- [Feature testing with PHPUnit and things to avoid](https://dev.to/massivebrains/feature-testing-with-phpunit-and-things-to-avoid-58ao)
 <!-- BLOG-POST-LIST:END -->
 
