@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Quality: The Cornerstone of a Lasting Brand Legacy](https://dev.to/shieldstring/design-quality-the-cornerstone-of-a-lasting-brand-legacy-1fh7)
-- [HTTP/2 Server Push Arrives: Faster Delivery for a Smoother User Experience](https://dev.to/akaksha/http2-server-push-arrives-faster-delivery-for-a-smoother-user-experience-13l8)
-- [The Importance of Software Quality](https://dev.to/joaomarques/the-importance-of-software-quality-8f8)
-- [Ditch the Pixels: The Small and Vectorized Web](https://dev.to/yordiverkroost/ditch-the-pixels-the-small-and-vectorized-web-1f4e)
+- [Combining Edge Stack &amp; Istio to Unlock the Full Potential of Your K8s Microservices](https://dev.to/getambassador2024/combining-edge-stack-istio-to-unlock-the-full-potential-of-your-k8s-microservices-4bel)
+- [Vim-style repeatable key bindings for navigating windows in Emacs](https://dev.to/rajasegar/vim-style-repeatable-key-bindings-for-navigating-windows-in-emacs-5c4l)
+- [Is distributed technology the panacea for big data processing?](https://dev.to/esproc_spl/is-distributed-technology-the-panacea-for-big-data-processing-5hgh)
+- [Book Recommendations](https://dev.to/jobreadyprogrammer/book-recommendations-281h)
 <!-- BLOG-POST-LIST:END -->
 
