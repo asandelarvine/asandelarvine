@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #120: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-120-explica-este-codigo-python-2p9)
-- [Service Discovery and Service Registry](https://dev.to/mustafacam/service-registry-n97)
-- [Bahas Tipis Seputar Redis](https://dev.to/revtm/bahas-tipis-seputar-redis-65d)
-- [The Effects of AI in Technical Writing](https://dev.to/cyberlord/the-effects-of-ai-in-technical-writing-4cl4)
+- [All Useful AWS Commands](https://dev.to/devops_den/all-useful-aws-commands-g4p)
+- [PDF Form Manipulation API](https://dev.to/fileforge/pdf-form-manipulation-api-2kcg)
+- [The Adventures of Blink #26: GPT4All! &lpar;and All4GPT!&rpar;](https://dev.to/linkbenjamin/the-adventures-of-blink-26-gpt4all-and-all4gpt-2hdp)
+- [Sloan&#39;s Inbox: Should You Trust Developers Who Use Light Mode? 😝](https://dev.to/devteam/sloans-inbox-should-you-trust-developers-who-use-light-mode-5009)
 <!-- BLOG-POST-LIST:END -->
 
