@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Not 💩, here&#39;s how to write actually good commit messages &lpar;hint: It&#39;s not just adding commit-lint&rpar;](https://dev.to/middleware/not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i)
-- [Maximizing ROI: From Google Analytics To Custom Analytics](https://dev.to/sotergreco/maximizing-roi-from-google-analytics-to-custom-analytics-5915)
-- [Navigating the Data Jungle. Data Analysis Software: A Comprehensive Guide](https://dev.to/jaydipparikh/navigating-the-data-jungle-data-analysis-software-a-comprehensive-guide-2k08)
-- [Feature testing with PHPUnit and things to avoid](https://dev.to/massivebrains/feature-testing-with-phpunit-and-things-to-avoid-58ao)
+- [Ibuprofeno.py💊| #120: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-120-explica-este-codigo-python-2p9)
+- [Service Discovery and Service Registry](https://dev.to/mustafacam/service-registry-n97)
+- [Bahas Tipis Seputar Redis](https://dev.to/revtm/bahas-tipis-seputar-redis-65d)
+- [The Effects of AI in Technical Writing](https://dev.to/cyberlord/the-effects-of-ai-in-technical-writing-4cl4)
 <!-- BLOG-POST-LIST:END -->
 
