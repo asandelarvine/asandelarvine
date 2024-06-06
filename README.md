@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Game Recommendation Program](https://dev.to/carterwr/my-game-recommendation-software-27pk)
-- [Understanding Microservices Architecture](https://dev.to/kartikmehta8/understanding-microservices-architecture-3278)
-- [Optimising Your Cloud Spend: Top Strategies for AWS Cost Management](https://dev.to/kelvinskell/optimising-your-cloud-spend-top-strategies-for-aws-cost-management-4l13)
-- [Case Study: Ignoring Nonalphanumeric Characters When Checking Palindromes](https://dev.to/paulike/case-study-ignoring-nonalphanumeric-characters-when-checking-palindromes-34n9)
+- [12 Ways to Use the @Value Annotation in Spring for Flexible and Maintainable Applications](https://dev.to/tiuwill/12-ways-to-use-the-value-annotation-in-spring-for-flexible-and-maintainable-applications-2fg2)
+- [How I leveled-up my Github projects with Gitflow](https://dev.to/dedsyn4ps3/how-i-leveled-up-my-github-projects-with-gitflow-25k)
+- [Tenant isolation in multi-tenant application](https://dev.to/logto/tenant-isolation-in-multi-tenant-application-52f)
+- [Top SQL IDEs in 2024](https://dev.to/concerate/top-sql-ides-in-2024-14bj)
 <!-- BLOG-POST-LIST:END -->
 
