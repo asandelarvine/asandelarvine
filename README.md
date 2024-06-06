@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How &lpar;Not&rpar; To Use AI When Learning to Code](https://dev.to/nmiller15/how-not-to-use-ai-when-learning-to-code-4jgf)
-- [Deploy Postgres on any Kubernetes using CloudNativePG](https://dev.to/gangaprasad_07bcb0289de5d/deploy-postgres-on-any-kubernetes-using-cloudnativepg-3bn4)
-- [Secrets management with Azure Key Vault](https://dev.to/borisgigovic/secrets-management-with-azure-key-vault-15dg)
-- [The difference between the P tag and the PRE tag in HTML](https://dev.to/tidycoder/the-difference-between-the-p-tag-and-the-pre-tag-in-html-15in)
+- [🌊 Beach Quest with Finley and Friends !](https://dev.to/everlygif/beach-quest-with-finley-and-friends--bmk)
+- [But do you have a portfolio?](https://dev.to/amandakoster/but-do-you-have-a-portfolio-bf3)
+- [How To Create a Virtual ATM Card using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-virtual-atm-card-using-plain-html-css-nmj)
+- [Unleash the True Potential of Your Web Applications with React to Next.js](https://dev.to/s0330b/unleash-the-true-potential-of-your-web-applications-with-react-to-nextjs-314k)
 <!-- BLOG-POST-LIST:END -->
 
