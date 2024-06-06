@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best SQL Server Clients for Mac: Simplify Your Database Management](https://dev.to/dbvismarketing/best-sql-server-clients-for-mac-simplify-your-database-management-3h2m)
-- [Best Practices for Building Microservices with NestJS](https://dev.to/ezilemdodana/best-practices-for-building-microservices-with-nestjs-p3e)
-- [Understanding the Software Testing Life Cycle &lpar;STLC&rpar;](https://dev.to/keploy/understanding-the-software-testing-life-cycle-stlc-58p9)
-- [👾 Git - Getting Started Guide for Dummies 👾](https://dev.to/hammyasf/git-getting-started-guide-for-dummies-50a)
+- [Building a CRUD Application with Node.js, Express, and MySQL](https://dev.to/manthanank/building-a-crud-application-with-nodejs-express-and-mysql-4d2m)
+- [Core Architectural components of Microsoft Azure](https://dev.to/mabis12/core-architectural-components-of-microsoft-azure-4323)
+- [[AIAnsible]Using Ansible to Deploy Kubernetes --- Detailed Explanation of Kubespray Source Code &lpar;Part One&rpar;](https://dev.to/a_jun_1d592a39703eed80f31/using-ansible-to-deploy-kubernetes-detailed-explanation-of-kubespray-source-code-part-one-3ab6)
+- [Resolving the &quot;zsh: command not found: yarn&quot; Error on macOS](https://dev.to/giwajossy/resolving-the-zsh-command-not-found-yarn-error-on-macos-1fnk)
 <!-- BLOG-POST-LIST:END -->
 
