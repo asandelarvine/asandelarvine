@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tune In to &quot;Talking Tech with Techielass&quot; – Your Weekly Azure Update in Under 5 Minutes!](https://dev.to/techielass/tune-in-to-talking-tech-with-techielass-your-weekly-azure-update-in-under-5-minutes-43b9)
-- [Python Bytecode: A Beginner’s Guide](https://dev.to/emminex/python-bytecode-a-beginners-guide-35bb)
-- [Using Azure Bicep to deploy MS Graph resources](https://dev.to/omiossec/using-azure-bicep-to-deploy-ms-graph-resources-gh)
-- [SwiftUI and Navigation](https://dev.to/simplykyra/swiftui-and-navigation-1p2i)
+- [Node.js Performance Optimization: Unleashing the Full Potential of Your Applications](https://dev.to/raksbisht/nodejs-performance-optimization-unleashing-the-full-potential-of-your-applications-4njm)
+- [Take User Input in JavaScript Without Prompt Method](https://dev.to/yasminsardar/take-user-input-in-javascript-without-prompt-method-5mh)
+- [Créer une application en ligne de commande avec Rust](https://dev.to/damcosset/creer-une-application-en-ligne-de-commande-avec-rust-54j3)
+- [Node.js vs. PHP: Key Differences for Web Development](https://dev.to/raksbisht/nodejs-vs-php-key-differences-for-web-development-hml)
 <!-- BLOG-POST-LIST:END -->
 
