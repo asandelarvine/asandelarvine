@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Next.js 14: Solving Common, Intermediate, and Advanced Issues 🚀](https://dev.to/mohith/a-deep-dive-into-nextjs-14-solving-common-intermediate-and-advanced-issues-hja)
-- [How to use a custom font on Excalidraw.com](https://dev.to/dawidcodes/how-to-use-a-custom-font-on-excalidrawcom-4jl4)
-- [Unleash the Power of System Design: Essential for Every Software Engineer! 💻🚀](https://dev.to/raksbisht/unleash-the-power-of-system-design-essential-for-every-software-engineer-52a)
-- [Desfazer o último commit no Git](https://dev.to/lucasvalhos/desfazer-o-ultimo-commit-no-git-38e0)
+- [Callbacks vs Promises vs Async/Await Concept in JavaScript](https://dev.to/ayas_tech_2b0560ee159e661/callbacks-vs-promises-vs-asyncawait-concept-in-javascript-hp6)
+- [BDD Testing in .NET8](https://dev.to/vinicius_estevam/teste-bdd-em-net8-4ech)
+- [Streamlining Angular Deployment with GitHub Actions, GitHub Container registry , Docker, and Nginx](https://dev.to/aixart/streamlining-angular-deployment-with-github-actions-github-container-registry-docker-and-nginx-27bo)
+- [A Deep Dive into Three.js: Exploring the Beauty of 3D on the Web 🌐](https://dev.to/mohith/a-deep-dive-into-threejs-exploring-the-beauty-of-3d-on-the-web-5812)
 <!-- BLOG-POST-LIST:END -->
 
