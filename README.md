@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Callbacks vs Promises vs Async/Await Concept in JavaScript](https://dev.to/ayas_tech_2b0560ee159e661/callbacks-vs-promises-vs-asyncawait-concept-in-javascript-hp6)
-- [BDD Testing in .NET8](https://dev.to/vinicius_estevam/teste-bdd-em-net8-4ech)
-- [Streamlining Angular Deployment with GitHub Actions, GitHub Container registry , Docker, and Nginx](https://dev.to/aixart/streamlining-angular-deployment-with-github-actions-github-container-registry-docker-and-nginx-27bo)
-- [A Deep Dive into Three.js: Exploring the Beauty of 3D on the Web 🌐](https://dev.to/mohith/a-deep-dive-into-threejs-exploring-the-beauty-of-3d-on-the-web-5812)
+- [Broadcast Audio URI](https://dev.to/denladeside/broadcast-audio-uri-1kkd)
+- [The Art of Being Bored: The Upside to Downtime](https://dev.to/tdesseyn/the-art-of-being-bored-the-upside-to-downtime-4ggo)
+- [Google Search themed portfolio website](https://dev.to/enjeck/google-search-themed-portfolio-website-4kim)
+- [GenAI is Shaping the Future of Software Development](https://dev.to/get_pieces/genai-is-shaping-the-future-of-software-development-1m36)
 <!-- BLOG-POST-LIST:END -->
 
