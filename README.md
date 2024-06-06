@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Broadcast Audio URI](https://dev.to/denladeside/broadcast-audio-uri-1kkd)
-- [The Art of Being Bored: The Upside to Downtime](https://dev.to/tdesseyn/the-art-of-being-bored-the-upside-to-downtime-4ggo)
-- [Google Search themed portfolio website](https://dev.to/enjeck/google-search-themed-portfolio-website-4kim)
-- [GenAI is Shaping the Future of Software Development](https://dev.to/get_pieces/genai-is-shaping-the-future-of-software-development-1m36)
+- [Dev: Machine Learning](https://dev.to/r4nd3l/dev-machine-learning-f9a)
+- [Gopherizing some puppeteer code](https://dev.to/adaschevici/gopherizing-some-puppeteer-code-29g4)
+- [AI Excels in Small Domains](https://dev.to/max_prehoda_9cb09ea7c8d07/ai-excels-in-small-domains-50gi)
+- [Understanding Spring&#39;s @Required Annotation: A Legacy Perspective](https://dev.to/tiuwill/understanding-springs-required-annotation-a-legacy-perspective-5il)
 <!-- BLOG-POST-LIST:END -->
 
