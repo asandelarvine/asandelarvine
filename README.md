@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recovering from burn out by building in public](https://dev.to/liaob/recovering-from-burn-out-by-building-in-public-3lb1)
-- [Terraform Best Practices: State Management, Reusability, Security and Beyond](https://dev.to/env0/terraform-best-practices-state-management-reusability-security-and-beyond-27ch)
-- [🕸️ A Guide to Lean Web Design for Developers](https://dev.to/evergrowingdev/a-guide-to-lean-web-design-for-developers-p90)
-- [Why ModHeader Users Are Moving to Requestly](https://dev.to/requestlyio/why-modheader-users-are-moving-to-requestly-4192)
+- [HackerRank SQL Preparation: Select by ID&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-select-by-idmysql-267j)
+- [HackerRank SQL Preparation: Select All&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-select-allmysql-31da)
+- [Lightning-fast, powerful, and ready-to-use TypeScript toolkit Introduction](https://dev.to/linhanlove/lightning-fast-powerful-and-ready-to-use-typescript-toolkitintroduction-3cag)
+- [C Reflection Magic: A Wrapper for Printing Arbitrary Functions Arguments and Results](https://dev.to/alexey_odinokov_734a1ba32/c-reflection-magic-a-wrapper-for-printing-arbitrary-functions-arguments-and-results-1k0b)
 <!-- BLOG-POST-LIST:END -->
 
