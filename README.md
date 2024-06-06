@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Combining Edge Stack &amp; Istio to Unlock the Full Potential of Your K8s Microservices](https://dev.to/getambassador2024/combining-edge-stack-istio-to-unlock-the-full-potential-of-your-k8s-microservices-4bel)
-- [Vim-style repeatable key bindings for navigating windows in Emacs](https://dev.to/rajasegar/vim-style-repeatable-key-bindings-for-navigating-windows-in-emacs-5c4l)
-- [Is distributed technology the panacea for big data processing?](https://dev.to/esproc_spl/is-distributed-technology-the-panacea-for-big-data-processing-5hgh)
-- [Book Recommendations](https://dev.to/jobreadyprogrammer/book-recommendations-281h)
+- [Best SQL Server Clients for Mac: Simplify Your Database Management](https://dev.to/dbvismarketing/best-sql-server-clients-for-mac-simplify-your-database-management-3h2m)
+- [Best Practices for Building Microservices with NestJS](https://dev.to/ezilemdodana/best-practices-for-building-microservices-with-nestjs-p3e)
+- [Understanding the Software Testing Life Cycle &lpar;STLC&rpar;](https://dev.to/keploy/understanding-the-software-testing-life-cycle-stlc-58p9)
+- [👾 Git - Getting Started Guide for Dummies 👾](https://dev.to/hammyasf/git-getting-started-guide-for-dummies-50a)
 <!-- BLOG-POST-LIST:END -->
 
