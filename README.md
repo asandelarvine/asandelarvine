@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a CRUD Application with Node.js, Express, and MySQL](https://dev.to/manthanank/building-a-crud-application-with-nodejs-express-and-mysql-4d2m)
-- [Core Architectural components of Microsoft Azure](https://dev.to/mabis12/core-architectural-components-of-microsoft-azure-4323)
-- [[AIAnsible]Using Ansible to Deploy Kubernetes --- Detailed Explanation of Kubespray Source Code &lpar;Part One&rpar;](https://dev.to/a_jun_1d592a39703eed80f31/using-ansible-to-deploy-kubernetes-detailed-explanation-of-kubespray-source-code-part-one-3ab6)
-- [Resolving the &quot;zsh: command not found: yarn&quot; Error on macOS](https://dev.to/giwajossy/resolving-the-zsh-command-not-found-yarn-error-on-macos-1fnk)
+- [Even more Opentelemetry!](https://dev.to/apisix/even-more-opentelemetry-2pmo)
+- [Ask everybody to share experiences on analytics](https://dev.to/litlyx/ask-everybody-to-share-experiences-on-analytics-54eh)
+- [Update a Progress Bar using Turbo Streams &lpar;using Custom Actions&rpar;](https://dev.to/railsdesigner/update-a-progress-bar-using-turbo-streams-using-custom-actions-j2c)
+- [12 tips for starting an online business](https://dev.to/martinbaun/12-tips-for-starting-an-online-business-1bn6)
 <!-- BLOG-POST-LIST:END -->
 
