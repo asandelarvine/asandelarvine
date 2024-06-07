@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go and WebUI](https://dev.to/stefanalfbo/go-and-webui-djj)
-- [Creative Parallax Slider | Swiper Slider](https://dev.to/creative_salahu/creative-parallax-slider-swiper-slider-3lgj)
-- [I Created Corona Clicker on Vue3 and Integrated It into a Telegram Web App](https://dev.to/king_triton/i-created-corona-clicker-on-vue3-and-integrated-it-into-a-telegram-web-app-172f)
-- [Dev Challenges: Frontend - Neeraj Gupta](https://dev.to/neeraj15022001/dev-challenges-frontend-neeraj-gupta-321h)
+- [Normalization and Normal Forms &lpar;1NF, 2NF, 3NF&rpar;](https://dev.to/kellyblaire/normalization-and-normal-forms-1nf-2nf-3nf-240a)
+- [Advice 65 Million Years in the Making: How Jurassic Park Made Me a Better Programmer](https://dev.to/daniel_ankofski_0c1a307be/advice-65-million-years-in-the-making-how-jurassic-park-made-me-a-better-programmer-3bcd)
+- [Database Design and Entity-Relationship Diagrams &lpar;ERDs&rpar;](https://dev.to/kellyblaire/database-design-and-entity-relationship-diagrams-erds-2909)
+- [Weekly Updates - June 7, 2024](https://dev.to/couchbase/weekly-updates-june-7-2024-1d7b)
 <!-- BLOG-POST-LIST:END -->
 
