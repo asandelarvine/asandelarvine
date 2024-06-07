@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 5 useful productivity apps for every developer!](https://dev.to/thexdev/5-useful-productivity-apps-for-every-developer-357b)
-- [Core Architectural Component of Azure, Step by Step Guide](https://dev.to/romanus_onyekwere/core-architectural-component-of-azure-step-by-step-guide-1mjf)
-- [Creating a CRUD Application With Express and HTMX](https://dev.to/ethand91/creating-a-crud-application-with-express-and-htmx-1o08)
-- [Building Reliable Microservices: Testing Strategies for Success](https://dev.to/akaksha/building-reliable-microservices-testing-strategies-for-success-3i7b)
+- [Texted 0.3.4 released](https://dev.to/thiagomg/texted-034-released-2el7)
+- [A Comprehensive Guide to API Endpoints](https://dev.to/getambassador2024/a-comprehensive-guide-to-api-endpoints-1agl)
+- [Version Control Systems and Their Importance](https://dev.to/shariqahmed525/version-control-systems-and-their-importance-1jjk)
+- [Deploy a full-stack cloud-native app with SSL to CloudFront, API Gateway, and Route53 with a custom domain](https://dev.to/joelwembo/deploy-a-full-stack-cloud-native-app-with-ssl-to-cloudfront-api-gateway-and-route53-with-a-custom-domain-3epc)
 <!-- BLOG-POST-LIST:END -->
 
