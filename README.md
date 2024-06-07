@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Nodemailer](https://dev.to/scofieldidehen/a-beginners-guide-to-nodemailer-33d1)
-- [c++ 3 dars](https://dev.to/diyorbek_19badf8e0c3d0931/c-dars-3-3h38)
-- [Huawei Cloud - Solution Architectures](https://dev.to/ozcankara/huawei-cloud-solution-architectures-1229)
-- [C++](https://dev.to/anvarbek/c-31ge)
+- [Time management tips for professionals](https://dev.to/swati_sharma/time-management-tips-for-professionals-469)
+- [Perform text translation using Vertex AI, Gemini, and NodeJS](https://dev.to/railsstudent/perform-text-translation-using-vertex-ai-gemini-and-nodejs-127h)
+- [Tips and Тricks to Мodernizing Your App with Blazor](https://dev.to/galinaj/tips-and-tricks-to-modernizing-your-app-with-blazor-9np)
+- [What is robots.txt file ? How to add into your Next.js app ?](https://dev.to/swhabitation/what-is-robotstxt-file-how-to-add-into-your-nextjs-app--3em4)
 <!-- BLOG-POST-LIST:END -->
 
