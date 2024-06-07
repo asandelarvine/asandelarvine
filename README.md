@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Time management tips for professionals](https://dev.to/swati_sharma/time-management-tips-for-professionals-469)
-- [Perform text translation using Vertex AI, Gemini, and NodeJS](https://dev.to/railsstudent/perform-text-translation-using-vertex-ai-gemini-and-nodejs-127h)
-- [Tips and Тricks to Мodernizing Your App with Blazor](https://dev.to/galinaj/tips-and-tricks-to-modernizing-your-app-with-blazor-9np)
-- [What is robots.txt file ? How to add into your Next.js app ?](https://dev.to/swhabitation/what-is-robotstxt-file-how-to-add-into-your-nextjs-app--3em4)
+- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5ep8)
+- [Highlight on End-to-End Automation Testing](https://dev.to/jennife05918349/highlight-on-end-to-end-automation-testing-4kca)
+- [What is a Container Registry? – Types and Benefits](https://dev.to/clouddefenseai/what-is-a-container-registry-types-and-benefits-869)
+- [Game Dev Digest — Issue #236 - Cinematics, UX and more](https://dev.to/gamedevdigest/game-dev-digest-issue-236-cinematics-ux-and-more-gk3)
 <!-- BLOG-POST-LIST:END -->
 
