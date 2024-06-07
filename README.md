@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining Async/Await in JavaScript in 10 Minutes](https://dev.to/chauhoangminhnguyen/explaining-asyncawait-in-javascript-in-10-minutes-9o5)
-- [I want to get back into desktop programming - help me choose](https://dev.to/rolandixor/i-want-to-get-back-into-desktop-programming-help-me-choose-4169)
-- [The Basics of Big Data: What You Need to Know](https://dev.to/bvanderbilt0033/the-basics-of-big-data-what-you-need-to-know-260e)
-- [Penerapan Domain-Driven Design dan CQRS Pattern di Golang untuk Pemula](https://dev.to/yogameleniawan/penerapan-domain-driven-design-dan-cqrs-pattern-di-golang-untuk-pemula-4bdl)
+- [This week trending news in tech](https://dev.to/shreyvijayvargiya/this-week-trending-news-in-tech-fj)
+- [AutoMQ Automated Streaming System Continuous Testing Platform Technical Insider](https://dev.to/automq/automq-automated-streaming-system-continuous-testing-platform-technical-insider-2c0f)
+- [Django 10 - Implementing TicTacToe with IA](https://dev.to/doctorserone/django-10-implementing-tictactoe-with-ia-oh4)
+- [State Management in Angular: NgRx vs NGXS](https://dev.to/dipakahirav/state-management-in-angular-ngrx-vs-ngxs-1me)
 <!-- BLOG-POST-LIST:END -->
 
