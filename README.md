@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Texted 0.3.4 released](https://dev.to/thiagomg/texted-034-released-2el7)
-- [A Comprehensive Guide to API Endpoints](https://dev.to/getambassador2024/a-comprehensive-guide-to-api-endpoints-1agl)
-- [Version Control Systems and Their Importance](https://dev.to/shariqahmed525/version-control-systems-and-their-importance-1jjk)
-- [Deploy a full-stack cloud-native app with SSL to CloudFront, API Gateway, and Route53 with a custom domain](https://dev.to/joelwembo/deploy-a-full-stack-cloud-native-app-with-ssl-to-cloudfront-api-gateway-and-route53-with-a-custom-domain-3epc)
+- [Using environment variables in React and Vite](https://dev.to/codeparrot/using-environment-variables-in-react-and-vite-31kc)
+- [Day 6](https://dev.to/han_han/day-6-21a6)
+- [Understanding Core Architectural Components of Microsoft Azure](https://dev.to/temidayo_adeoye_ccfea1cab/understanding-core-architectural-components-of-microsoft-azure-5no)
+- [Automating Kong Konnect Configuration with Terraform](https://dev.to/robincher/automating-kong-konnect-configuration-with-terraform-3c0c)
 <!-- BLOG-POST-LIST:END -->
 
