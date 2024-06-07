@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Step Functionsに入門する](https://dev.to/aws-builders/aws-step-functionsniru-men-suru-2b7p)
-- [How to monitor events in data dimensions and obtain corresponding data?](https://dev.to/purpose233/how-to-monitor-events-in-data-dimensions-and-obtain-corresponding-data-14lh)
-- [Deploy React.js application using AWS S3 &amp; GitLab pipelines for automatic deployment 2024](https://dev.to/perisicnikola37/deploy-reactjs-application-using-aws-s3-gitlab-pipelines-for-automatic-deployment-2024-nbd)
-- [Open-Source Question](https://dev.to/litlyx/open-source-question-2j48)
+- [Is CSS Tricks back?](https://dev.to/robole/is-css-tricks-back-4jh3)
+- [Ibuprofeno.py💊| #121: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-121-explica-este-codigo-python-528e)
+- [The first Product Hunt launch experience](https://dev.to/drupaladmin/the-first-product-hunt-launch-experience-5ccg)
+- [Mobile Security Tools part 2: Frida](https://dev.to/whatminjacodes/mobile-security-tools-part-2-frida-3mb3)
 <!-- BLOG-POST-LIST:END -->
 
