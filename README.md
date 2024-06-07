@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate from Heroku to AWS: A Best Practices Guide](https://dev.to/the_real_zan/migrate-from-heroku-to-aws-a-best-practices-guide-29f)
-- [648. Replace Words](https://dev.to/mdarifulhaque/648-replace-words-4f20)
-- [When Less is More: Why You Don&#39;t Always Need JavaScript in B2B Ruby on Rails Web Apps](https://dev.to/mariomarroquim/when-less-is-more-why-you-dont-always-need-javascript-in-b2b-ruby-on-rails-web-apps-4ecp)
-- [Automatically Test Your Regex Without Writing a Single C# Line of Code](https://dev.to/dimonsmart/automatically-test-your-regex-without-writing-a-single-c-line-of-code-1k9p)
+- [Day 966 : The Next Chapter](https://dev.to/dwane/day-966-the-next-chapter-2cd7)
+- [capstone debugging: learnings](https://dev.to/ashleyd480/capstone-debugging-learnings-3495)
+- [Learn How to Create a Simple PHP REST API](https://dev.to/ayas_tech_2b0560ee159e661/learn-how-to-create-a-simple-php-rest-api-185i)
+- [Shadcn-ui codebase analysis: site-footer.tsx explained.](https://dev.to/ramunarasinga/shadcn-ui-codebase-analysis-site-footertsx-explained-2bgh)
 <!-- BLOG-POST-LIST:END -->
 
