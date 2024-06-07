@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5ep8)
-- [Highlight on End-to-End Automation Testing](https://dev.to/jennife05918349/highlight-on-end-to-end-automation-testing-4kca)
-- [What is a Container Registry? – Types and Benefits](https://dev.to/clouddefenseai/what-is-a-container-registry-types-and-benefits-869)
-- [Game Dev Digest — Issue #236 - Cinematics, UX and more](https://dev.to/gamedevdigest/game-dev-digest-issue-236-cinematics-ux-and-more-gk3)
+- [Local and offline AI code assistant for VS Code with Ollama and Sourcegraph](https://dev.to/thorwebdev/local-and-offline-ai-code-assistant-for-vs-code-with-ollama-and-sourcegraph-2jf8)
+- [We just migrate from Google analysis to PostHog](https://dev.to/shu12388y/we-just-migrate-from-google-analysis-to-posthog-a6d)
+- [Elevate Your Web Projects: Mastering JavaScript Accessibility🚀🚀](https://dev.to/dharamgfx/elevate-your-web-projects-mastering-javascript-accessibility-40oo)
+- [Unveiling the Future: A Look at Top Tech Trends on the Rise](https://dev.to/dishan_maduranga_0adcb598/unveiling-the-future-a-look-at-top-tech-trends-on-the-rise-1k3o)
 <!-- BLOG-POST-LIST:END -->
 
