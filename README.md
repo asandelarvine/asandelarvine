@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help with GPO](https://dev.to/kalyan333/need-help-with-gpo-3ch2)
-- [API Security: Key Protocols](https://dev.to/apidna/api-security-key-protocols-19fl)
-- [How to get started with Shopify theme development](https://dev.to/gadgetdev/how-to-get-started-with-shopify-theme-development-3kb4)
-- [Connection Pooling in Spring Boot](https://dev.to/lakmal_asela_8be4eb30d9db/connection-pooling-in-spring-boot-4k21)
+- [How to Reverse a String in Java: A Comprehensive Guide](https://dev.to/fullstackjava/how-to-reverse-a-string-in-java-a-comprehensive-guide-10n4)
+- [Fixtures do Cypress para testes](https://dev.to/gustavoacaetano/fixtures-do-cypress-para-testes-1748)
+- [Foreign Exchange API: Enhancing Financial Applications with Accurate Data](https://dev.to/sameeranthony/foreign-exchange-api-enhancing-financial-applications-with-accurate-data-3126)
+- [242. Valid Anagram](https://dev.to/whereislijah/242-valid-anagram-35o7)
 <!-- BLOG-POST-LIST:END -->
 
