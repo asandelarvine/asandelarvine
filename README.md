@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MicrosoftLearning/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage](https://dev.to/emmyfx1/microsoftlearningsecure-storage-for-azure-files-and-azure-blob-storage-978)
-- [From Whispers to Wildfire: Celebrating a Decade of Kubernetes](https://dev.to/fermyon/from-whispers-to-wildfire-celebrating-a-decade-of-kubernetes-112l)
-- [Deep Learning for Camera Calibration and Beyond: A Survey](https://dev.to/mikeyoung44/deep-learning-for-camera-calibration-and-beyond-a-survey-2hf0)
-- [Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study](https://dev.to/mikeyoung44/enhancing-multimodal-large-language-models-with-vision-detection-models-an-empirical-study-2ef3)
+- [Go and WebUI](https://dev.to/stefanalfbo/go-and-webui-djj)
+- [Creative Parallax Slider | Swiper Slider](https://dev.to/creative_salahu/creative-parallax-slider-swiper-slider-3lgj)
+- [I Created Corona Clicker on Vue3 and Integrated It into a Telegram Web App](https://dev.to/king_triton/i-created-corona-clicker-on-vue3-and-integrated-it-into-a-telegram-web-app-172f)
+- [Dev Challenges: Frontend - Neeraj Gupta](https://dev.to/neeraj15022001/dev-challenges-frontend-neeraj-gupta-321h)
 <!-- BLOG-POST-LIST:END -->
 
