@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 966 : The Next Chapter](https://dev.to/dwane/day-966-the-next-chapter-2cd7)
-- [capstone debugging: learnings](https://dev.to/ashleyd480/capstone-debugging-learnings-3495)
-- [Learn How to Create a Simple PHP REST API](https://dev.to/ayas_tech_2b0560ee159e661/learn-how-to-create-a-simple-php-rest-api-185i)
-- [Shadcn-ui codebase analysis: site-footer.tsx explained.](https://dev.to/ramunarasinga/shadcn-ui-codebase-analysis-site-footertsx-explained-2bgh)
+- [AWS Services for Microservice Architectures: A Beginner&#39;s Overview &lpar;Part 1 - Computing&rpar;](https://dev.to/edriste/aws-services-for-microservice-architectures-a-beginners-overview-part-1-computing-4c36)
+- [Resolving the &quot;Length of LOB Data &lpar;78862&rpar; to be Replicated Exceeds Configured Maximum 65536&quot; Error](https://dev.to/shekhartarare/resolving-the-length-of-lob-data-78862-to-be-replicated-exceeds-configured-maximum-65536-error-bfb)
+- [A Step-by-Step Guide to Writing Your First Move Smart Contract on Aptos](https://dev.to/amity808/a-step-by-step-guide-to-writing-your-first-move-smart-contract-on-aptos-ae8)
+- [Understanding Primary Keys and Foreign Keys in SQL: A Simple and Detailed Guide](https://dev.to/kellyblaire/understanding-primary-keys-and-foreign-keys-in-sql-a-simple-and-detailed-guide-28jm)
 <!-- BLOG-POST-LIST:END -->
 
