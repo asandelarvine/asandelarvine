@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to customize the labels of a pie chart in VChart?](https://dev.to/neuqzxy/how-to-customize-the-labels-of-a-pie-chart-in-vchart-55kb)
-- [SIMILAR TERMS USED IN CLOUD COMPUTING](https://dev.to/aizeon/similar-terms-used-in-cloud-computing-53a8)
-- [VTable usage issue: How to set only one column to not be selected for operation](https://dev.to/rayssss/vtable-usage-issue-how-to-set-only-one-column-to-not-be-selected-for-operation-4d32)
-- [360 landing page using three.js and nuxt.js](https://dev.to/sumer5020/360-landing-page-using-threejs-and-nuxtjs-4j3m)
+- [AWS Step Functionsに入門する](https://dev.to/aws-builders/aws-step-functionsniru-men-suru-2b7p)
+- [How to monitor events in data dimensions and obtain corresponding data?](https://dev.to/purpose233/how-to-monitor-events-in-data-dimensions-and-obtain-corresponding-data-14lh)
+- [Deploy React.js application using AWS S3 &amp; GitLab pipelines for automatic deployment 2024](https://dev.to/perisicnikola37/deploy-reactjs-application-using-aws-s3-gitlab-pipelines-for-automatic-deployment-2024-nbd)
+- [Open-Source Question](https://dev.to/litlyx/open-source-question-2j48)
 <!-- BLOG-POST-LIST:END -->
 
