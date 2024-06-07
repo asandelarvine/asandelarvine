@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Free from Tutorial Hell: My Journey to Becoming a Web Developer](https://dev.to/aniiketpal/breaking-free-from-tutorial-hell-my-journey-to-becoming-a-web-developer-3889)
-- [Obtendo Dados do WhoScored: Projeto de Web Scraping com Selenium](https://dev.to/lisandramelo/obtendo-dados-do-whoscored-projeto-de-web-scraping-com-selenium-4538)
-- [Resilis: Global Low Latency APIs](https://dev.to/resilis/resilis-global-low-latency-apis-7l1)
-- [Dev: Machine Learning](https://dev.to/r4nd3l/dev-machine-learning-f9a)
+- [Core Architectural Components of Azure](https://dev.to/celestina_odili/core-architectural-components-of-azure-3mk7)
+- [10 Genius Hacks Using Array.filter&lpar;&rpar; That You Must Try](https://dev.to/aneeqakhan/10-genius-hacks-using-arrayfilter-that-you-must-try-239f)
+- [Building a Portfolio Website with Jekyll](https://dev.to/kartikmehta8/building-a-portfolio-website-with-jekyll-22k)
+- [Extending PHP Faker Library to define custom data structures using Laravel 11](https://dev.to/victormlima98/extending-php-faker-library-to-define-custom-data-structures-using-laravel-11-25lc)
 <!-- BLOG-POST-LIST:END -->
 
