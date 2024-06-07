@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local and offline AI code assistant for VS Code with Ollama and Sourcegraph](https://dev.to/thorwebdev/local-and-offline-ai-code-assistant-for-vs-code-with-ollama-and-sourcegraph-2jf8)
-- [We just migrate from Google analysis to PostHog](https://dev.to/shu12388y/we-just-migrate-from-google-analysis-to-posthog-a6d)
-- [Elevate Your Web Projects: Mastering JavaScript Accessibility🚀🚀](https://dev.to/dharamgfx/elevate-your-web-projects-mastering-javascript-accessibility-40oo)
-- [Unveiling the Future: A Look at Top Tech Trends on the Rise](https://dev.to/dishan_maduranga_0adcb598/unveiling-the-future-a-look-at-top-tech-trends-on-the-rise-1k3o)
+- [Need help with GPO](https://dev.to/kalyan333/need-help-with-gpo-3ch2)
+- [API Security: Key Protocols](https://dev.to/apidna/api-security-key-protocols-19fl)
+- [How to get started with Shopify theme development](https://dev.to/gadgetdev/how-to-get-started-with-shopify-theme-development-3kb4)
+- [Connection Pooling in Spring Boot](https://dev.to/lakmal_asela_8be4eb30d9db/connection-pooling-in-spring-boot-4k21)
 <!-- BLOG-POST-LIST:END -->
 
