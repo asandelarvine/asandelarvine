@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This week trending news in tech](https://dev.to/shreyvijayvargiya/this-week-trending-news-in-tech-fj)
-- [AutoMQ Automated Streaming System Continuous Testing Platform Technical Insider](https://dev.to/automq/automq-automated-streaming-system-continuous-testing-platform-technical-insider-2c0f)
-- [Django 10 - Implementing TicTacToe with IA](https://dev.to/doctorserone/django-10-implementing-tictactoe-with-ia-oh4)
-- [State Management in Angular: NgRx vs NGXS](https://dev.to/dipakahirav/state-management-in-angular-ngrx-vs-ngxs-1me)
+- [✨ 5 useful productivity apps for every developer!](https://dev.to/thexdev/5-useful-productivity-apps-for-every-developer-357b)
+- [Core Architectural Component of Azure, Step by Step Guide](https://dev.to/romanus_onyekwere/core-architectural-component-of-azure-step-by-step-guide-1mjf)
+- [Creating a CRUD Application With Express and HTMX](https://dev.to/ethand91/creating-a-crud-application-with-express-and-htmx-1o08)
+- [Building Reliable Microservices: Testing Strategies for Success](https://dev.to/akaksha/building-reliable-microservices-testing-strategies-for-success-3i7b)
 <!-- BLOG-POST-LIST:END -->
 
