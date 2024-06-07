@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using environment variables in React and Vite](https://dev.to/codeparrot/using-environment-variables-in-react-and-vite-31kc)
-- [Day 6](https://dev.to/han_han/day-6-21a6)
-- [Understanding Core Architectural Components of Microsoft Azure](https://dev.to/temidayo_adeoye_ccfea1cab/understanding-core-architectural-components-of-microsoft-azure-5no)
-- [Automating Kong Konnect Configuration with Terraform](https://dev.to/robincher/automating-kong-konnect-configuration-with-terraform-3c0c)
+- [eBPF, sidecars, and the future of the service mesh](https://dev.to/gulcantopcu/ebpf-sidecars-and-the-future-of-the-service-mesh-32ad)
+- [5 C# OCR Libraries commonly Used by Developers](https://dev.to/xeshan6981/5-c-ocr-libraries-commonly-used-by-developers-429b)
+- [How to Perform Rake Tasks in Rails](https://dev.to/afaq_shahid/how-to-perform-rake-tasks-in-rails-ol2)
+- [Understanding Canary Testing: A Comprehensive Guide](https://dev.to/keploy/understanding-canary-testing-a-comprehensive-guide-2i5i)
 <!-- BLOG-POST-LIST:END -->
 
