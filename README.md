@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Core Architectural Components of Azure](https://dev.to/celestina_odili/core-architectural-components-of-azure-3mk7)
-- [10 Genius Hacks Using Array.filter&lpar;&rpar; That You Must Try](https://dev.to/aneeqakhan/10-genius-hacks-using-arrayfilter-that-you-must-try-239f)
-- [Building a Portfolio Website with Jekyll](https://dev.to/kartikmehta8/building-a-portfolio-website-with-jekyll-22k)
-- [Extending PHP Faker Library to define custom data structures using Laravel 11](https://dev.to/victormlima98/extending-php-faker-library-to-define-custom-data-structures-using-laravel-11-25lc)
+- [Rumo do dev.to e aprendizado.](https://dev.to/matheuscsnt/rumo-do-devto-e-aprendizado-50m1)
+- [Elevate Your Next.js E-commerce App with Google Tag Manager](https://dev.to/abdur_rakibrony_97cea0e9/elevate-your-nextjs-e-commerce-app-with-google-tag-manager-1ke0)
+- [Use non-root user in scratch docker image](https://dev.to/hsatac/use-non-root-user-in-scratch-docker-image-1c0o)
+- [Questions to identify/assess culture &lpar;fit&rpar; in tech](https://dev.to/rvprasad/questions-to-identifyassess-culture-fit-in-tech-1d98)
 <!-- BLOG-POST-LIST:END -->
 
