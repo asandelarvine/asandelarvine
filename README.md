@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is CSS Tricks back?](https://dev.to/robole/is-css-tricks-back-4jh3)
-- [Ibuprofeno.py💊| #121: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-121-explica-este-codigo-python-528e)
-- [The first Product Hunt launch experience](https://dev.to/drupaladmin/the-first-product-hunt-launch-experience-5ccg)
-- [Mobile Security Tools part 2: Frida](https://dev.to/whatminjacodes/mobile-security-tools-part-2-frida-3mb3)
+- [A Beginner&#39;s Guide to Nodemailer](https://dev.to/scofieldidehen/a-beginners-guide-to-nodemailer-33d1)
+- [c++ 3 dars](https://dev.to/diyorbek_19badf8e0c3d0931/c-dars-3-3h38)
+- [Huawei Cloud - Solution Architectures](https://dev.to/ozcankara/huawei-cloud-solution-architectures-1229)
+- [C++](https://dev.to/anvarbek/c-31ge)
 <!-- BLOG-POST-LIST:END -->
 
