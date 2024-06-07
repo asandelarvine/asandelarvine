@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [eBPF, sidecars, and the future of the service mesh](https://dev.to/gulcantopcu/ebpf-sidecars-and-the-future-of-the-service-mesh-32ad)
-- [5 C# OCR Libraries commonly Used by Developers](https://dev.to/xeshan6981/5-c-ocr-libraries-commonly-used-by-developers-429b)
-- [How to Perform Rake Tasks in Rails](https://dev.to/afaq_shahid/how-to-perform-rake-tasks-in-rails-ol2)
-- [Understanding Canary Testing: A Comprehensive Guide](https://dev.to/keploy/understanding-canary-testing-a-comprehensive-guide-2i5i)
+- [How to customize the labels of a pie chart in VChart?](https://dev.to/neuqzxy/how-to-customize-the-labels-of-a-pie-chart-in-vchart-55kb)
+- [SIMILAR TERMS USED IN CLOUD COMPUTING](https://dev.to/aizeon/similar-terms-used-in-cloud-computing-53a8)
+- [VTable usage issue: How to set only one column to not be selected for operation](https://dev.to/rayssss/vtable-usage-issue-how-to-set-only-one-column-to-not-be-selected-for-operation-4d32)
+- [360 landing page using three.js and nuxt.js](https://dev.to/sumer5020/360-landing-page-using-threejs-and-nuxtjs-4j3m)
 <!-- BLOG-POST-LIST:END -->
 
