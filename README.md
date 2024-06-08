@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Software Architecture: The Indispensable Role of Diagrams](https://dev.to/tomjohnson3/mastering-software-architecture-the-indispensable-role-of-diagrams-2847)
-- [CSS Art: June](https://dev.to/afzalimdad9/css-art-june-1fog)
-- [Harnessing the Power of WebAssembly in Modern Web Applications](https://dev.to/emmanuelj/harnessing-the-power-of-webassembly-in-modern-web-applications-439c)
-- [How many ways to import a package?](https://dev.to/levihoang/how-many-ways-to-import-a-package-32b1)
+- [JavaScript Performance: Making Websites Fast and Responsive🚀🚀🚀](https://dev.to/dharamgfx/javascript-performance-making-websites-fast-and-responsive-g9)
+- [Are Device-Bound Passkeys AAL2- or AAL3-Compliant?](https://dev.to/corbado/are-device-bound-passkeys-aal2-or-aal3-compliant-504b)
+- [What is Amazon RDS &lpar;Relational Database Service&rpar;?](https://dev.to/devops_den/what-is-amazon-rds-relational-database-service-22ld)
+- [The Role of a C-Rank Executive in Corporate Operations](https://dev.to/nandha_krishnan_nk/the-role-of-a-c-rank-executive-in-corporate-operations-3087)
 <!-- BLOG-POST-LIST:END -->
 
