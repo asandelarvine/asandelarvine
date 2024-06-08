@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Aced the DP-100 Exam and Became an Azure Data Scientist Associate](https://dev.to/mohamed-bekheet/how-i-aced-the-dp-100-exam-and-became-an-azure-data-scientist-associate-1ng)
+- [1. Two Sum](https://dev.to/whereislijah/1-two-sum-4a4n)
+- [Statistics for Data Science and Machine Learning](https://dev.to/harshm03/statistics-for-data-science-and-machine-learning-8f1)
 - [Building PDF Open Source Services with Angular &amp; GCP — Deploy services to Cloud Run](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-deploy-services-to-cloud-run-56i)
-- [Frontend Challenge: June Beach Sunset](https://dev.to/jarvisscript/frontend-challenge-june-beach-sunset-48pa)
-- [Awesome List](https://dev.to/litlyx/awesome-list-3pdc)
-- [Connecting ServiceNow to Jira](https://dev.to/vivek_soni/connecting-servicenow-to-jira-4390)
 <!-- BLOG-POST-LIST:END -->
 
