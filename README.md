@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ How to Review Code Effectively: A Simple Guide for Developers](https://dev.to/raksbisht/how-to-review-code-effectively-a-simple-guide-for-developers-556e)
-- [Getting spell checker working in Neovim](https://dev.to/rafi993/getting-spell-checker-working-in-neovim-2375)
-- [Can you explain how LPPE works to protect users&#39; location data from precise tracking?](https://dev.to/richerdjames/can-you-explain-how-lppe-works-to-protect-users-location-data-from-precise-tracking-afp)
-- [Understanding Generative AI and LLMs](https://dev.to/gervaisamoah/understanding-generative-ai-and-llms-47cb)
+- [Mastering Software Architecture: The Indispensable Role of Diagrams](https://dev.to/tomjohnson3/mastering-software-architecture-the-indispensable-role-of-diagrams-2847)
+- [CSS Art: June](https://dev.to/afzalimdad9/css-art-june-1fog)
+- [Harnessing the Power of WebAssembly in Modern Web Applications](https://dev.to/emmanuelj/harnessing-the-power-of-webassembly-in-modern-web-applications-439c)
+- [How many ways to import a package?](https://dev.to/levihoang/how-many-ways-to-import-a-package-32b1)
 <!-- BLOG-POST-LIST:END -->
 
