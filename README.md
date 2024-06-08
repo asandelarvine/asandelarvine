@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Laravel locally on Ubuntu using Apache virtual host](https://dev.to/medilies/run-laravel-locally-on-ubuntu-using-apache-virtual-host-chd)
-- [One beach to rule them all](https://dev.to/rcmonteiro/one-beach-to-rule-them-all-3nid)
-- [A Beginner&#39;s Guide to Linux Networking Fundamentals - Dev-ops Prerequisite 7](https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o)
-- [PHP sem nada de Xampp e com muito Xdebug no Windows](https://dev.to/wesleyotio/php-sem-nada-de-xampp-e-com-muito-xdebug-no-windows-opa)
+- [Programming on a Budget: Leveraging the Power of Chromebooks](https://dev.to/baraq/programming-on-a-budget-leveraging-the-power-of-chromebooks-2kd7)
+- [🌐 Speed Up Your React Apps With Code Splitting](https://dev.to/shehzadhussain/speed-up-your-react-apps-with-code-splitting-57cg)
+- [All about Google Firebase](https://dev.to/shafayeat/all-about-google-firebase-2onk)
+- [What Has Tech Done For You](https://dev.to/scofieldidehen/what-has-tech-done-for-you-3og3)
 <!-- BLOG-POST-LIST:END -->
 
