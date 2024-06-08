@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Topojsons build error in react: Reached heap limit Allocation failed](https://dev.to/gautamsarawagi/need-help-with-the-use-of-topojsons-3if9)
-- [Pong in my own language in my own graphics library in my own game](https://dev.to/chigbeef_77/pong-in-my-own-language-in-my-own-graphics-library-in-my-own-game-3fa9)
-- [How to Install Node.js and npm on Ubuntu Server 22.04](https://dev.to/ersinkoc/how-to-install-nodejs-and-npm-on-ubuntu-server-2204-1g7c)
-- [Fixing Disqus &#39;Auto&#39; theme switching when using Next.js + next-themes](https://dev.to/mahdava/fixing-disqus-auto-theme-switching-when-using-nextjs-next-themes-3l4k)
+- [Ibuprofeno.py💊| #122: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-122-explica-este-codigo-python-k28)
+- [Best Free Online JSON Viewer Tools for Data Visualization](https://dev.to/codegirl0101/best-free-online-json-viewer-tools-for-data-visualization-pfa)
+- [TypeScript LeetCode! 🔥](https://dev.to/alisamirali/typescript-leetcode-4bd)
+- [SQL generation: Golang&#39;s builder pattern vs Clojure&#39;s persistent map](https://dev.to/veer66/sql-generation-builder-pattern-vs-persistent-map-1bfl)
 <!-- BLOG-POST-LIST:END -->
 
