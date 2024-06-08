@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚫 8 Signs Programming Might Not Be Your Jam 🚫](https://dev.to/learn_with_santosh/8-signs-programming-might-not-be-your-jam-g9m)
-- [Reactjs](https://dev.to/ozodboyeva/reactjs-d0a)
-- [Relational Databases: PostgreSQL Vs. MariaDB Vs. MySQL Vs. SQLite](https://dev.to/strapi/relational-databases-postgresql-vs-mariadb-vs-mysql-vs-sqlite-5dn7)
-- [Latest Newsletter: Collaborating on a Rocky Road &lpar;Issue #167&rpar;](https://dev.to/mjgs/latest-newsletter-collaborating-on-a-rocky-road-issue-167-3ph5)
+- [Using Ecto &lpar;without Db&rpar; for validating Phoenix form](https://dev.to/manhvanvu/using-ecto-without-db-for-validating-phoenix-form-4chp)
+- [History of HTML](https://dev.to/code-with-ali/history-of-html-6lm)
+- [Next.js in production?](https://dev.to/kwnaidoo/nextjs-in-production-2im3)
+- [How to Create Linux virtual machine on Azure SSH into Linux server and install nginx on it.](https://dev.to/olaraph/how-to-install-linux-virtual-machine-on-azure-and-ssh-into-linux-server-4oon)
 <!-- BLOG-POST-LIST:END -->
 
