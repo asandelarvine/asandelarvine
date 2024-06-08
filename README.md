@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture with NestJS: Using the EventEmitter Module](https://dev.to/ezilemdodana/event-driven-architecture-with-nestjs-using-the-eventemitter-module-35fe)
-- [GPT-4o Computer Assistant](https://dev.to/bartupso/gpt-4o-computer-assistant-b4p)
-- [How to setup resources for k8s pod](https://dev.to/kination/how-to-setup-resources-for-k8s-pod-4bh6)
-- [How to Create a Window Server Virtual Machine and install and IIS Web server role on the VM](https://dev.to/olaraph/how-to-create-a-window-server-virtual-machine-and-install-and-iis-web-server-role-on-the-vm-4d04)
+- [Go concurrency in the smoothiest way](https://dev.to/lucasherlon/go-concurrency-in-the-smoothiest-way-15kk)
+- [Convert JPG, PNG to WebP Pro: Optimize Your Website Images](https://dev.to/digital_accolades/convert-jpg-png-to-webp-pro-optimize-your-website-images-2bc0)
+- [Frontend Challenge: June Edition](https://dev.to/thaisavieira/frontend-challenge-june-edition-3bce)
+- [HackTheBox - Writeup Nunchucks [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-nunchucks-retired-4gik)
 <!-- BLOG-POST-LIST:END -->
 
