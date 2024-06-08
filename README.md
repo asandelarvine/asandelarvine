@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EsLint + TypeScript + Prettier &lpar;Flat Config&rpar;](https://dev.to/joshuanr5/eslint-typescript-prettier-flat-config-1bmb)
-- [Learning the Basics of Large Language Model &lpar;LLM&rpar; Applications with LangChainJS](https://dev.to/praveencs87/learning-the-basics-of-large-language-model-llm-applications-with-langchainjs-4035)
-- [Beginner&#39;s Guide to Clocks: Understanding the Essentials](https://dev.to/dk119819/beginners-guide-to-clocks-understanding-the-essentials-1g0l)
-- [Exploring Data Structures and Algorithms in C](https://dev.to/kartikmehta8/exploring-data-structures-and-algorithms-in-c-2am9)
+- [Estudos em Quality Assurance &lpar;QA&rpar; - SDLC](https://dev.to/julianoquites/estudos-em-quality-assurance-qa-sdlc-172p)
+- [Arquitetura Monolítica: Uma Visão Geral](https://dev.to/iamthiago/arquitetura-monolitica-uma-visao-geral-l9j)
+- [Let’s Build One Person Business Using 100% AI](https://dev.to/exploredataaiml/lets-build-one-person-business-using-100-ai-1mgo)
+- [Sleepy Cloud Animation](https://dev.to/umeshsuwal/sleepy-cloud-animation-5g5b)
 <!-- BLOG-POST-LIST:END -->
 
