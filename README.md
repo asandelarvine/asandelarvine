@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #122: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-122-explica-este-codigo-python-k28)
-- [Best Free Online JSON Viewer Tools for Data Visualization](https://dev.to/codegirl0101/best-free-online-json-viewer-tools-for-data-visualization-pfa)
-- [TypeScript LeetCode! 🔥](https://dev.to/alisamirali/typescript-leetcode-4bd)
-- [SQL generation: Golang&#39;s builder pattern vs Clojure&#39;s persistent map](https://dev.to/veer66/sql-generation-builder-pattern-vs-persistent-map-1bfl)
+- [Day 7: Building a React Project](https://dev.to/dipakahirav/day-7-building-a-react-project-5gld)
+- [Beginner 101: How to contribute to open source projects ? &lpar;Javascript&rpar;](https://dev.to/aadesh_kulkarni_ff9fad10b/beginner-101-how-to-contribute-to-open-source-projects-javascript-1gkf)
+- [The First AGI Company on Earth](https://dev.to/polterguy/the-first-agi-company-on-earth-3kcl)
+- [Can you fix 2 GPT Web Component errors??](https://dev.to/dannyengelman/can-you-fix-2-gpt-web-component-errors-52n3)
 <!-- BLOG-POST-LIST:END -->
 
