@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Estudos em Quality Assurance &lpar;QA&rpar; - SDLC](https://dev.to/julianoquites/estudos-em-quality-assurance-qa-sdlc-172p)
-- [Arquitetura Monolítica: Uma Visão Geral](https://dev.to/iamthiago/arquitetura-monolitica-uma-visao-geral-l9j)
-- [Let’s Build One Person Business Using 100% AI](https://dev.to/exploredataaiml/lets-build-one-person-business-using-100-ai-1mgo)
-- [Sleepy Cloud Animation](https://dev.to/umeshsuwal/sleepy-cloud-animation-5g5b)
+- [Seamlessly Connect MongoDB with Node.js: A Practical Guide with Mongoose](https://dev.to/vyan/seamlessly-connect-mongodb-with-nodejs-a-practical-guide-with-mongoose-1gk6)
+- [Setting Up Docker in a Next.js Project: A Comprehensive Guide](https://dev.to/hasancse/setting-up-docker-in-a-nextjs-project-a-comprehensive-guide-3m5d)
+- [Endless Summer](https://dev.to/srishti_01/endless-summer-4964)
+- [Get wallet address for multiple chains in cosmos app chains](https://dev.to/tqmvt/get-wallet-address-for-multiple-chains-in-cosmos-app-chains-56pb)
 <!-- BLOG-POST-LIST:END -->
 
