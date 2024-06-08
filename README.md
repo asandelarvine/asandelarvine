@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go concurrency in the smoothiest way](https://dev.to/lucasherlon/go-concurrency-in-the-smoothiest-way-15kk)
-- [Convert JPG, PNG to WebP Pro: Optimize Your Website Images](https://dev.to/digital_accolades/convert-jpg-png-to-webp-pro-optimize-your-website-images-2bc0)
-- [Frontend Challenge: June Edition](https://dev.to/thaisavieira/frontend-challenge-june-edition-3bce)
-- [HackTheBox - Writeup Nunchucks [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-nunchucks-retired-4gik)
+- [Mastering CRUD Operations with PHP and MySQL](https://dev.to/rkadriu/mastering-crud-operations-with-php-and-mysql-51gh)
+- [[Kafka] 1.Cài Đặt Kafka Server Trong 1 Phút](https://dev.to/opendev_dev/kafka-1cai-dat-kafka-server-trong-1-phut-52of)
+- [LeetCode Day4 LinkedList part2](https://dev.to/flame_chan_a3b11ee24d487d/leetcode-day4-linkedlist-part2-4lac)
+- [Forget Shadcn, Tailus UI React is now stable](https://dev.to/meschacirung/forget-shadcn-tailus-ui-react-is-now-stable-d16)
 <!-- BLOG-POST-LIST:END -->
 
