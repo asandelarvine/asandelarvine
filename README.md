@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming on a Budget: Leveraging the Power of Chromebooks](https://dev.to/baraq/programming-on-a-budget-leveraging-the-power-of-chromebooks-2kd7)
-- [🌐 Speed Up Your React Apps With Code Splitting](https://dev.to/shehzadhussain/speed-up-your-react-apps-with-code-splitting-57cg)
-- [All about Google Firebase](https://dev.to/shafayeat/all-about-google-firebase-2onk)
-- [What Has Tech Done For You](https://dev.to/scofieldidehen/what-has-tech-done-for-you-3og3)
+- [🚨 CSS Injection on GitHub: What Happened and How to Stay Safe 🚨](https://dev.to/sh20raj/css-injection-on-github-what-happened-and-how-to-stay-safe-j2h)
+- [Dynamic Testimonial Showcase Slider](https://dev.to/creative_salahu/dynamic-testimonial-showcase-slider-56ep)
+- [523. Continuous Subarray Sum](https://dev.to/mdarifulhaque/523-continuous-subarray-sum-2b4)
+- [Step-by-Step nextpalestine Setup: Complete Overview](https://dev.to/adelpro/step-by-step-nextpalestine-setup-complete-overview-484e)
 <!-- BLOG-POST-LIST:END -->
 
