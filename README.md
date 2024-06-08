@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Aced the DP-100 Exam and Became an Azure Data Scientist Associate](https://dev.to/mohamed-bekheet/how-i-aced-the-dp-100-exam-and-became-an-azure-data-scientist-associate-1ng)
-- [1. Two Sum](https://dev.to/whereislijah/1-two-sum-4a4n)
-- [Statistics for Data Science and Machine Learning](https://dev.to/harshm03/statistics-for-data-science-and-machine-learning-8f1)
-- [Building PDF Open Source Services with Angular &amp; GCP — Deploy services to Cloud Run](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-deploy-services-to-cloud-run-56i)
+- [Understanding SOAP APIs and Their Usage](https://dev.to/ayas_tech_2b0560ee159e661/understanding-soap-apis-and-their-usage-2mak)
+- [A Beginner&#39;s Journey into Graphics Programming](https://dev.to/gift_mugweni_1c055b418706/a-beginners-journey-into-graphics-programming-4p9p)
+- [Understanding MongoDB and Its Differences from SQL Databases](https://dev.to/ayas_tech_2b0560ee159e661/understanding-mongodb-and-its-differences-from-sql-databases-7h6)
+- [Securing Your Next.js with Arcjet on Fly.io with Lightning-Fast Deployment](https://dev.to/nickolasbenakis/securing-your-nextjs-with-arcjet-on-flyio-with-lightning-fast-deployment-4kl0)
 <!-- BLOG-POST-LIST:END -->
 
