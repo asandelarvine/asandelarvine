@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Performance: Making Websites Fast and Responsive🚀🚀🚀](https://dev.to/dharamgfx/javascript-performance-making-websites-fast-and-responsive-g9)
-- [Are Device-Bound Passkeys AAL2- or AAL3-Compliant?](https://dev.to/corbado/are-device-bound-passkeys-aal2-or-aal3-compliant-504b)
-- [What is Amazon RDS &lpar;Relational Database Service&rpar;?](https://dev.to/devops_den/what-is-amazon-rds-relational-database-service-22ld)
-- [The Role of a C-Rank Executive in Corporate Operations](https://dev.to/nandha_krishnan_nk/the-role-of-a-c-rank-executive-in-corporate-operations-3087)
+- [🚫 8 Signs Programming Might Not Be Your Jam 🚫](https://dev.to/learn_with_santosh/8-signs-programming-might-not-be-your-jam-g9m)
+- [Reactjs](https://dev.to/ozodboyeva/reactjs-d0a)
+- [Relational Databases: PostgreSQL Vs. MariaDB Vs. MySQL Vs. SQLite](https://dev.to/strapi/relational-databases-postgresql-vs-mariadb-vs-mysql-vs-sqlite-5dn7)
+- [Latest Newsletter: Collaborating on a Rocky Road &lpar;Issue #167&rpar;](https://dev.to/mjgs/latest-newsletter-collaborating-on-a-rocky-road-issue-167-3ph5)
 <!-- BLOG-POST-LIST:END -->
 
