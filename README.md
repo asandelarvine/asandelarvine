@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7: Building a React Project](https://dev.to/dipakahirav/day-7-building-a-react-project-5gld)
-- [Beginner 101: How to contribute to open source projects ? &lpar;Javascript&rpar;](https://dev.to/aadesh_kulkarni_ff9fad10b/beginner-101-how-to-contribute-to-open-source-projects-javascript-1gkf)
-- [The First AGI Company on Earth](https://dev.to/polterguy/the-first-agi-company-on-earth-3kcl)
-- [Can you fix 2 GPT Web Component errors??](https://dev.to/dannyengelman/can-you-fix-2-gpt-web-component-errors-52n3)
+- [Event-Driven Architecture with NestJS: Using the EventEmitter Module](https://dev.to/ezilemdodana/event-driven-architecture-with-nestjs-using-the-eventemitter-module-35fe)
+- [GPT-4o Computer Assistant](https://dev.to/bartupso/gpt-4o-computer-assistant-b4p)
+- [How to setup resources for k8s pod](https://dev.to/kination/how-to-setup-resources-for-k8s-pod-4bh6)
+- [How to Create a Window Server Virtual Machine and install and IIS Web server role on the VM](https://dev.to/olaraph/how-to-create-a-window-server-virtual-machine-and-install-and-iis-web-server-role-on-the-vm-4d04)
 <!-- BLOG-POST-LIST:END -->
 
