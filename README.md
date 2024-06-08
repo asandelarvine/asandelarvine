@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Ecto &lpar;without Db&rpar; for validating Phoenix form](https://dev.to/manhvanvu/using-ecto-without-db-for-validating-phoenix-form-4chp)
-- [History of HTML](https://dev.to/code-with-ali/history-of-html-6lm)
-- [Next.js in production?](https://dev.to/kwnaidoo/nextjs-in-production-2im3)
-- [How to Create Linux virtual machine on Azure SSH into Linux server and install nginx on it.](https://dev.to/olaraph/how-to-install-linux-virtual-machine-on-azure-and-ssh-into-linux-server-4oon)
+- [How AI can optimize Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; processes.](https://dev.to/devops_den/how-ai-can-optimize-continuous-integration-and-continuous-deployment-cicd-processes-4f67)
+- [How the web works?](https://dev.to/34shifty/how-the-web-works-12il)
+- [Route Rider System](https://dev.to/akramghaleb/route-rider-system-3dc8)
+- [The Best Programming Languages for Modern Web Browsers](https://dev.to/karthik_n/the-best-programming-languages-for-modern-web-browsers-2p1a)
 <!-- BLOG-POST-LIST:END -->
 
