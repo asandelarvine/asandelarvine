@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Scripting for Software Engineers - A Beginner&#39;s Guide](https://dev.to/alexindevs/bash-scripting-for-software-engineers-a-beginners-guide-1j65)
-- [Understanding DNS: The Backbone of the Internet](https://dev.to/elizabethsobiya/understanding-dns-the-backbone-of-the-internet-49d7)
-- [PACX ⁓ Working with solutions](https://dev.to/_neronotte/pacx-working-with-solutions-5fil)
-- [JavaScript Coding Interview Questions](https://dev.to/fatimaalam1234/javascript-interview-questions-576j)
+- [Node.js vs. NestJS: A Comparative Analysis](https://dev.to/yelethe1st/nodejs-vs-nestjs-a-comparative-analysis-3f7o)
+- [Glam Markup Beaches](https://dev.to/thabangrammitlwa/glam-markup-beaches-3ln3)
+- [Advice for Intermediate developers](https://dev.to/rampa2510/advice-for-intermediate-developers-4777)
+- [How to Use NgRx Selectors in Angular](https://dev.to/danywalls/how-to-use-ngrx-selectors-in-angular-5cem)
 <!-- BLOG-POST-LIST:END -->
 
