@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create breath-taking videos with PixVerse AI](https://dev.to/useapi/create-breath-taking-videos-with-pixverse-ai-41l2)
-- [Must Join Discord Servers for Developers 💬](https://dev.to/lilxyzz/must-join-discord-servers-for-developers-4k6)
-- [Passkeys: How to work with CBOR &amp; COSE](https://dev.to/corbado/passkeys-how-to-work-with-cbor-cose-26h)
-- [Override TailwindCSS classes in ReactJs](https://dev.to/sinaghadimi/override-tailwindcss-class-in-reactjs-44de)
+- [I created my own search engine](https://dev.to/schbenedikt/i-created-my-own-search-engine-go4)
+- [laravel-nuxt-template](https://dev.to/akramghaleb/laravel-nuxt-template-1c6j)
+- [Performance Optimization of LazyColumn in Jetpack Compose](https://dev.to/aritradas/performance-optimization-of-lazycolumn-in-jetpack-compose-2pf2)
+- [Tabs](https://dev.to/kakimaru/tabs-2e6l)
 <!-- BLOG-POST-LIST:END -->
 
