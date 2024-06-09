@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Types vs Interfaces in TypeScript](https://dev.to/betelgeuseas/types-vs-interfaces-in-typescript-2ebo)
-- [You&#39;re doing state wrong](https://dev.to/kl13nt/youre-doing-state-wrong-2ch8)
-- [Accessibility on TV](https://dev.to/nicm42/accessibility-on-tv-5246)
-- [Intro to MultiversX blockchain interactions with JavaScript SDK](https://dev.to/julian-io/intro-to-multiversx-blockchain-interactions-with-javascript-sdk-1hc0)
+- [Compile your NodeJS application to single file executable](https://dev.to/sudospace/compile-your-nodejs-application-to-single-file-executable-5aoe)
+- [Mastering JavaScript MathML: Writing Mathematics with MathML](https://dev.to/dharamgfx/mastering-javascript-mathml-writing-mathematics-with-mathml-1fll)
+- [Identifying Container Image Vulnerabilities with Docker Scout](https://dev.to/plutov/identifying-container-image-vulnerabilities-with-docker-scout-503o)
+- [Java Stream API](https://dev.to/abhishek999/java-stream-api-lh2)
 <!-- BLOG-POST-LIST:END -->
 
