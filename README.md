@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a python script as a standalone task in ECS](https://dev.to/harsh_vardhansingh_69340/running-a-python-script-as-a-standalone-task-in-ecs-317l)
-- [Auto suggest vscode plugins for your team through the settings in your repo.](https://dev.to/matthewbill/auto-suggest-vscode-plugins-for-your-team-through-the-settings-in-your-repo-1l6m)
-- [Building a Audience Analyzer using Lyzr SDK](https://dev.to/akshay007/building-a-audience-analyzer-using-lyzr-sdk-1kb6)
-- [.gitignore file IGNORED my .env file](https://dev.to/bkaush/gitignore-file-ignored-my-env-file-3lgf)
+- [Effortless – Free Tailwind CSS Website Template](https://dev.to/mikevarenek/effortless-free-tailwind-css-website-template-5ghd)
+- [Learning by Doing: Event Loop in Rust](https://dev.to/luisccc/learning-by-doing-event-loop-in-rust-hf1)
+- [GitOps for CloudFront and S3](https://dev.to/wardove/gitops-for-cloudfront-and-s3-5c7o)
+- [hello,programers,i really wanna know which language is good for seeking a job.](https://dev.to/hallowaw/helloprogramersi-really-wanna-know-which-language-is-good-for-seeking-a-job-1fk2)
 <!-- BLOG-POST-LIST:END -->
 
