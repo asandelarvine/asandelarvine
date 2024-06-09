@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Likes Broken Code: The Programmer&#39;s Lament &lpar;and How to Fix It&rpar;](https://dev.to/shieldstring/nobody-likes-broken-code-the-programmers-lament-and-how-to-fix-it-55i)
-- [✨ 6 website learning gems you should visit!](https://dev.to/thexdev/5-website-learning-gems-you-should-visit-2pn5)
-- [JS Inheritance - Part 2: Factory Functions vs. Classes](https://dev.to/huudyy/js-inheritance-part-2-factory-functions-vs-classes-7o)
-- [Funny JavaScript, It&#39;ll make you Laugh and Cry](https://dev.to/grover_sumrit/funny-javascript-itll-make-you-laugh-and-cry-4925)
+- [Create breath-taking videos with PixVerse AI](https://dev.to/useapi/create-breath-taking-videos-with-pixverse-ai-41l2)
+- [Must Join Discord Servers for Developers 💬](https://dev.to/lilxyzz/must-join-discord-servers-for-developers-4k6)
+- [Passkeys: How to work with CBOR &amp; COSE](https://dev.to/corbado/passkeys-how-to-work-with-cbor-cose-26h)
+- [Override TailwindCSS classes in ReactJs](https://dev.to/sinaghadimi/override-tailwindcss-class-in-reactjs-44de)
 <!-- BLOG-POST-LIST:END -->
 
