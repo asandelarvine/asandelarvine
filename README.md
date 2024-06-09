@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compile your NodeJS application to single file executable](https://dev.to/sudospace/compile-your-nodejs-application-to-single-file-executable-5aoe)
-- [Mastering JavaScript MathML: Writing Mathematics with MathML](https://dev.to/dharamgfx/mastering-javascript-mathml-writing-mathematics-with-mathml-1fll)
-- [Identifying Container Image Vulnerabilities with Docker Scout](https://dev.to/plutov/identifying-container-image-vulnerabilities-with-docker-scout-503o)
-- [Java Stream API](https://dev.to/abhishek999/java-stream-api-lh2)
+- [Bash Scripting for Software Engineers - A Beginner&#39;s Guide](https://dev.to/alexindevs/bash-scripting-for-software-engineers-a-beginners-guide-1j65)
+- [Understanding DNS: The Backbone of the Internet](https://dev.to/elizabethsobiya/understanding-dns-the-backbone-of-the-internet-49d7)
+- [PACX ⁓ Working with solutions](https://dev.to/_neronotte/pacx-working-with-solutions-5fil)
+- [JavaScript Coding Interview Questions](https://dev.to/fatimaalam1234/javascript-interview-questions-576j)
 <!-- BLOG-POST-LIST:END -->
 
