@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs. NestJS: A Comparative Analysis](https://dev.to/yelethe1st/nodejs-vs-nestjs-a-comparative-analysis-3f7o)
-- [Glam Markup Beaches](https://dev.to/thabangrammitlwa/glam-markup-beaches-3ln3)
-- [Advice for Intermediate developers](https://dev.to/rampa2510/advice-for-intermediate-developers-4777)
-- [How to Use NgRx Selectors in Angular](https://dev.to/danywalls/how-to-use-ngrx-selectors-in-angular-5cem)
+- [Ethical AI: Balancing Innovation with Responsibility](https://dev.to/bingecoder89/ethical-ai-balancing-innovation-with-responsibility-2lgk)
+- [Building a Funnel with XState and React Hook Form](https://dev.to/ato_deshi/building-a-funnel-with-xstate-and-react-hook-form-4an3)
+- [Como se destacar em qualquer processo seletivo que você participe](https://dev.to/lucasheriques/como-se-destacar-em-qualquer-processo-seletivo-que-voce-participe-294l)
+- [974. Subarray Sums Divisible by K](https://dev.to/mdarifulhaque/974-subarray-sums-divisible-by-k-dd)
 <!-- BLOG-POST-LIST:END -->
 
