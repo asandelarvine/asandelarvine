@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the Draggable Element Background Issue in Chromium Browsers](https://dev.to/ganatrajay2000/fixing-the-draggable-element-background-issue-in-chromium-browsers-25g3)
-- [Documenting my pin collection with Segment Anything: Part 1](https://dev.to/feregri_no/documenting-my-pin-collection-with-segment-anything-part-1-4k3o)
-- [Wie man django in Entwicklung Containerisiert - via docker compose](https://dev.to/rubenvoss/wie-man-django-in-entwicklung-containerisiert-via-docker-compose-3n0b)
-- [Two Flags, One Country, Same Message](https://dev.to/cbid2/two-flags-one-country-same-message-6d7)
+- [World Bicycle Day CSS Art : Frontend Challenge &lpar;June Edition&rpar;](https://dev.to/israebenboujema/world-bicycle-day-css-art-frontend-challenge-june-edition-31oc)
+- [How to get html from the server using javascript using fetch?](https://dev.to/antonmak1/how-to-get-html-from-the-server-using-javascript-using-fetch-1kih)
+- [Solving Tailwind&#39;s &quot;Unknown at rule @apply&quot;](https://dev.to/mahdava/solving-tailwinds-unknown-at-rule-apply-3c7g)
+- [Using interactive rebase in Git](https://dev.to/lyumotech/using-interactive-rebase-in-git-361d)
 <!-- BLOG-POST-LIST:END -->
 
