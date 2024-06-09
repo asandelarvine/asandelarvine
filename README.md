@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Services in Linux: systemd and SysVinit Essentials - DevOps Prerequisite 8](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop)
-- [How to Manage Services in Linux: systemd and SysVinit Essentials - DevOps Prerequisite 8](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-2i9)
-- [Kubernetes: Hello World](https://dev.to/pratikjagrut/kubernetes-hello-world-268d)
-- [How to configure a Disk on a virtual machine from Azure Cloud and Install windows features using PowerShell.](https://dev.to/busybrain/how-to-configure-a-disk-on-a-virtual-machine-from-azure-cloud-and-install-windows-features-using-powershell-3m54)
+- [Types vs Interfaces in TypeScript](https://dev.to/betelgeuseas/types-vs-interfaces-in-typescript-2ebo)
+- [You&#39;re doing state wrong](https://dev.to/kl13nt/youre-doing-state-wrong-2ch8)
+- [Accessibility on TV](https://dev.to/nicm42/accessibility-on-tv-5246)
+- [Intro to MultiversX blockchain interactions with JavaScript SDK](https://dev.to/julian-io/intro-to-multiversx-blockchain-interactions-with-javascript-sdk-1hc0)
 <!-- BLOG-POST-LIST:END -->
 
