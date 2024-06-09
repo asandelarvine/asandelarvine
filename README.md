@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Data Engineer](https://dev.to/r4nd3l/dev-data-engineer-on1)
-- [Budgtr Downtime incident report.](https://dev.to/thobeats/budgtr-downtime-incident-report-2lph)
-- [I&#39;m not a designer, but ...](https://dev.to/lisacee/im-not-a-designer-but--lke)
-- [🌐Extensões para produtividade de um dev no Navegador &lpar;Arc Browser&rpar;](https://dev.to/neiesc/extensoes-para-produtividade-de-um-dev-no-navegador-arc-browser-3of)
+- [𝗙𝗿𝗲𝘀𝗵𝗣𝗶𝗰𝗸 Web application](https://dev.to/clear008/web-application-2e5d)
+- [Polling in React](https://dev.to/tangoindiamango/polling-in-react-3h8a)
+- [Update Profile README with Latest Blog Posts](https://dev.to/justingoncat/update-profile-readme-with-latest-blog-posts-2ogi)
+- [How to authenticate a Spotify User in next.js 14 using NextAuth](https://dev.to/matdweb/how-to-authenticate-a-spotify-user-in-nextjs-14-using-nextauth-5f6i)
 <!-- BLOG-POST-LIST:END -->
 
