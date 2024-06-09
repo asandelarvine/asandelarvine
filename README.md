@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MongoDB Aggregation: A Simple Guide 🚀](https://dev.to/raksbisht/understanding-mongodb-aggregation-a-simple-guide-1g4a)
-- [Search &amp; Replace Texts in DOCX](https://dev.to/satyajitnayak/search-replace-texts-in-docx-3o40)
-- [Best Amazon Scraper APIs To Check Out in 2024](https://dev.to/serpdogapi/best-amazon-scraper-apis-to-check-out-in-2024-4e81)
-- [Building a NL2GraphQL using Lyzr SDK](https://dev.to/akshay007/building-a-nl2graphql-using-lyzr-sdk-148o)
+- [How to Manage Services in Linux: systemd and SysVinit Essentials - DevOps Prerequisite 8](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop)
+- [How to Manage Services in Linux: systemd and SysVinit Essentials - DevOps Prerequisite 8](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-2i9)
+- [Kubernetes: Hello World](https://dev.to/pratikjagrut/kubernetes-hello-world-268d)
+- [How to configure a Disk on a virtual machine from Azure Cloud and Install windows features using PowerShell.](https://dev.to/busybrain/how-to-configure-a-disk-on-a-virtual-machine-from-azure-cloud-and-install-windows-features-using-powershell-3m54)
 <!-- BLOG-POST-LIST:END -->
 
