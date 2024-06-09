@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your GPT Chatbot with .NET](https://dev.to/feiyun0112/how-to-build-your-gpt-chatbot-with-net-549d)
-- [Enviroment Variables In Docker](https://dev.to/zundamon/enviroment-variables-in-docker-2od3)
-- [Introduction to Cloud Native Applications with Kubernetes](https://dev.to/kartikmehta8/introduction-to-cloud-native-applications-with-kubernetes-1j6o)
-- [Transforming GitHub Codespace Log Files to OpenTelemetry Traces](https://dev.to/agardnerit/transforming-github-codespace-log-files-to-opentelemetry-traces-23m3)
+- [Análise das reservas federais - parte 1](https://dev.to/devsnorte/analise-das-reservas-federais-parte-1-2j6f)
+- [Key Tips on Freelancing](https://dev.to/miguel_c/key-tips-on-freelancing-3p1j)
+- [Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](https://dev.to/mikeyoung44/know-your-neighborhood-general-and-zero-shot-capable-binary-function-search-powered-by-call-graphlets-106m)
+- [Scalable MatMul-free Language Modeling](https://dev.to/mikeyoung44/scalable-matmul-free-language-modeling-16lc)
 <!-- BLOG-POST-LIST:END -->
 
