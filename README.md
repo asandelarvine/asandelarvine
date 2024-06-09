@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [World Bicycle Day CSS Art : Frontend Challenge &lpar;June Edition&rpar;](https://dev.to/israebenboujema/world-bicycle-day-css-art-frontend-challenge-june-edition-31oc)
-- [How to get html from the server using javascript using fetch?](https://dev.to/antonmak1/how-to-get-html-from-the-server-using-javascript-using-fetch-1kih)
-- [Solving Tailwind&#39;s &quot;Unknown at rule @apply&quot;](https://dev.to/mahdava/solving-tailwinds-unknown-at-rule-apply-3c7g)
-- [Using interactive rebase in Git](https://dev.to/lyumotech/using-interactive-rebase-in-git-361d)
+- [Dev: Data Engineer](https://dev.to/r4nd3l/dev-data-engineer-on1)
+- [Budgtr Downtime incident report.](https://dev.to/thobeats/budgtr-downtime-incident-report-2lph)
+- [I&#39;m not a designer, but ...](https://dev.to/lisacee/im-not-a-designer-but--lke)
+- [🌐Extensões para produtividade de um dev no Navegador &lpar;Arc Browser&rpar;](https://dev.to/neiesc/extensoes-para-produtividade-de-um-dev-no-navegador-arc-browser-3of)
 <!-- BLOG-POST-LIST:END -->
 
