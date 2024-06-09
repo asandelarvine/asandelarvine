@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Análise das reservas federais - parte 1](https://dev.to/devsnorte/analise-das-reservas-federais-parte-1-2j6f)
-- [Key Tips on Freelancing](https://dev.to/miguel_c/key-tips-on-freelancing-3p1j)
-- [Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](https://dev.to/mikeyoung44/know-your-neighborhood-general-and-zero-shot-capable-binary-function-search-powered-by-call-graphlets-106m)
-- [Scalable MatMul-free Language Modeling](https://dev.to/mikeyoung44/scalable-matmul-free-language-modeling-16lc)
+- [Logging Done Right](https://dev.to/markadel/logging-done-right-1nnm)
+- [Mastering Async/Await in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/mastering-asyncawait-in-typescript-a-comprehensive-guide-22kf)
+- [Frontend Challenge: Pride Month Pure CSS Pixel Art](https://dev.to/vivitt/frontend-challenge-pride-month-pure-css-pixel-art-213i)
+- [How To Access Web Camera Using JavaScript And Capture Images And Record Video With Audio](https://dev.to/manojkadam8/how-to-access-web-camera-using-javascript-and-capture-images-and-record-video-with-audio-3kco)
 <!-- BLOG-POST-LIST:END -->
 
