@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [0x00. Shell, navigation](https://dev.to/john_otienoh/0x00-shell-navigation-3jpb)
-- [GitHub Release Action for the Python Package Index](https://dev.to/jphutchins/github-release-action-for-the-python-package-index-1m7n)
-- [Deep Learning Workflow in PyTorch](https://dev.to/hyperkai/deep-learning-workflow-in-pytorch-10ik)
-- [Runtime Environment Config in Angular, but Without Dependency Injection](https://dev.to/bwca/runtime-environment-config-in-angular-but-without-dependency-injection-kno)
+- [How to Build Your GPT Chatbot with .NET](https://dev.to/feiyun0112/how-to-build-your-gpt-chatbot-with-net-549d)
+- [Enviroment Variables In Docker](https://dev.to/zundamon/enviroment-variables-in-docker-2od3)
+- [Introduction to Cloud Native Applications with Kubernetes](https://dev.to/kartikmehta8/introduction-to-cloud-native-applications-with-kubernetes-1j6o)
+- [Transforming GitHub Codespace Log Files to OpenTelemetry Traces](https://dev.to/agardnerit/transforming-github-codespace-log-files-to-opentelemetry-traces-23m3)
 <!-- BLOG-POST-LIST:END -->
 
