@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical AI: Balancing Innovation with Responsibility](https://dev.to/bingecoder89/ethical-ai-balancing-innovation-with-responsibility-2lgk)
-- [Building a Funnel with XState and React Hook Form](https://dev.to/ato_deshi/building-a-funnel-with-xstate-and-react-hook-form-4an3)
-- [Como se destacar em qualquer processo seletivo que você participe](https://dev.to/lucasheriques/como-se-destacar-em-qualquer-processo-seletivo-que-voce-participe-294l)
-- [974. Subarray Sums Divisible by K](https://dev.to/mdarifulhaque/974-subarray-sums-divisible-by-k-dd)
+- [Integrating Google Translate API with Yii2](https://dev.to/toru/integrating-google-translate-api-with-yii2-c7o)
+- [Take me to the beach: Frontend](https://dev.to/gloria_gyemfa/take-me-to-the-beach-frontend-1oij)
+- [Can you beat the &#39;Maze Of Monsters&#39;?](https://dev.to/bryson_noblesbemomusi/can-you-beat-the-maze-of-monsters-23ce)
+- [Deploying a Web Socket Application on Kubernetes](https://dev.to/adilansari/deploying-a-web-socket-application-on-kubernetes-2h33)
 <!-- BLOG-POST-LIST:END -->
 
