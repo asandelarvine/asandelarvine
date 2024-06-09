@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Sharding for System Design Interview](https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b)
-- [Deployment Strategies: All at Once, Rolling Deploys, Blue-Green, and Canary Releases](https://dev.to/spantheslayer/deployment-and-delivery-strategies-all-at-once-rolling-deploys-blue-green-and-canary-releases-fd5)
-- [Stop Using TypeScript Interfaces](https://dev.to/afzalimdad9/stop-using-typescript-interfaces-1lc2)
-- [IntersectionObserver](https://dev.to/kakimaru/intersectionobserver-161c)
+- [Running a python script as a standalone task in ECS](https://dev.to/harsh_vardhansingh_69340/running-a-python-script-as-a-standalone-task-in-ecs-317l)
+- [Auto suggest vscode plugins for your team through the settings in your repo.](https://dev.to/matthewbill/auto-suggest-vscode-plugins-for-your-team-through-the-settings-in-your-repo-1l6m)
+- [Building a Audience Analyzer using Lyzr SDK](https://dev.to/akshay007/building-a-audience-analyzer-using-lyzr-sdk-1kb6)
+- [.gitignore file IGNORED my .env file](https://dev.to/bkaush/gitignore-file-ignored-my-env-file-3lgf)
 <!-- BLOG-POST-LIST:END -->
 
