@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I created my own search engine](https://dev.to/schbenedikt/i-created-my-own-search-engine-go4)
-- [laravel-nuxt-template](https://dev.to/akramghaleb/laravel-nuxt-template-1c6j)
-- [Performance Optimization of LazyColumn in Jetpack Compose](https://dev.to/aritradas/performance-optimization-of-lazycolumn-in-jetpack-compose-2pf2)
-- [Tabs](https://dev.to/kakimaru/tabs-2e6l)
+- [Database Sharding for System Design Interview](https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b)
+- [Deployment Strategies: All at Once, Rolling Deploys, Blue-Green, and Canary Releases](https://dev.to/spantheslayer/deployment-and-delivery-strategies-all-at-once-rolling-deploys-blue-green-and-canary-releases-fd5)
+- [Stop Using TypeScript Interfaces](https://dev.to/afzalimdad9/stop-using-typescript-interfaces-1lc2)
+- [IntersectionObserver](https://dev.to/kakimaru/intersectionobserver-161c)
 <!-- BLOG-POST-LIST:END -->
 
