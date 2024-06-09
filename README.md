@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Quality Infrastructure Components](https://dev.to/developedbyjk/software-quality-infrastructure-components-2hj7)
-- [Sailing Smoothly with AWS Container Registry: Your Gateway to Containerized Applications](https://dev.to/virajlakshitha/sailing-smoothly-with-aws-container-registry-your-gateway-to-containerized-applications-3jfm)
-- [Logging Done Right](https://dev.to/markadel/logging-done-right-1nnm)
-- [Mastering Async/Await in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/mastering-asyncawait-in-typescript-a-comprehensive-guide-22kf)
+- [Nobody Likes Broken Code: The Programmer&#39;s Lament &lpar;and How to Fix It&rpar;](https://dev.to/shieldstring/nobody-likes-broken-code-the-programmers-lament-and-how-to-fix-it-55i)
+- [✨ 6 website learning gems you should visit!](https://dev.to/thexdev/5-website-learning-gems-you-should-visit-2pn5)
+- [JS Inheritance - Part 2: Factory Functions vs. Classes](https://dev.to/huudyy/js-inheritance-part-2-factory-functions-vs-classes-7o)
+- [Funny JavaScript, It&#39;ll make you Laugh and Cry](https://dev.to/grover_sumrit/funny-javascript-itll-make-you-laugh-and-cry-4925)
 <!-- BLOG-POST-LIST:END -->
 
