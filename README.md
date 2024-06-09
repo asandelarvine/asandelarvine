@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React hooks nobody told you before](https://dev.to/kumarkalyan/react-hooks-nobody-told-you-before-14)
-- [JavaScript Latest Version: What&#39;s New?](https://dev.to/azeem_shafeeq/javascript-latest-version-whats-new-532m)
-- [HackerRank SQL Preparation: Weather Observation Station 1&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-weather-observation-station-1mysql-1gke)
-- [Handling AWS WAF Capacity Limits with Terraform](https://dev.to/mukulsharma/handling-aws-waf-capacity-limits-with-terraform-1741)
+- [Fixing the Draggable Element Background Issue in Chromium Browsers](https://dev.to/ganatrajay2000/fixing-the-draggable-element-background-issue-in-chromium-browsers-25g3)
+- [Documenting my pin collection with Segment Anything: Part 1](https://dev.to/feregri_no/documenting-my-pin-collection-with-segment-anything-part-1-4k3o)
+- [Wie man django in Entwicklung Containerisiert - via docker compose](https://dev.to/rubenvoss/wie-man-django-in-entwicklung-containerisiert-via-docker-compose-3n0b)
+- [Two Flags, One Country, Same Message](https://dev.to/cbid2/two-flags-one-country-same-message-6d7)
 <!-- BLOG-POST-LIST:END -->
 
