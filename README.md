@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Embedded Systems](https://dev.to/ccwell11/intro-to-embedded-systems-5c7p)
-- [Update: Live Feedback script](https://dev.to/juliankominovic/update-live-feedback-script-35oi)
-- [How to study React to become a pro. Introduction to React.](https://dev.to/yukionishi1129/how-to-study-react-to-become-a-pro-introduction-to-react-p3l)
-- [Interface Segregation Principle](https://dev.to/palanivel_sundararajangu/interface-segregation-principle-2edj)
+- [Sample Datasets and Resources for Practicing Pandas](https://dev.to/sh20raj/sample-datasets-and-resources-for-practicing-pandas-56h)
+- [Automatically Update the Local Branch with the Remote Version When Switching Branches in Git](https://dev.to/untilyou58/automatically-update-the-local-branch-with-the-remote-version-when-switching-branches-in-git-3114)
+- [Everything you need to know about monitoring CoreDNS for DNS performance](https://dev.to/aws-builders/everything-you-need-to-know-about-monitoring-coredns-for-dns-performance-5hi9)
+- [Building a Bulletproof CI/CD Pipeline: A Comprehensive Guide](https://dev.to/gauri1504/building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3)
 <!-- BLOG-POST-LIST:END -->
 
