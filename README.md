@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Choose ReactJS for Frontend Development: Unveiling the Advantages](https://dev.to/jottyjohn/why-choose-reactjs-for-frontend-development-unveiling-the-advantages-k0d)
-- [How to Stream Pure Flix on Your Smart TV](https://dev.to/charlotte_wesker_2b851e4f/how-to-stream-pure-flix-on-your-smart-tv-3o3a)
-- [Best Chrome Extensions for Web Developers](https://dev.to/sandip2196/best-chrome-extensions-for-web-developers-3358)
-- [Save Time Building Jamstack / Headless CMS Backed Websites](https://dev.to/alangleeson/save-time-building-jamstack-headless-cms-backed-websites-4e3m)
+- [Importance of Mobile App Market Research and How To Do It](https://dev.to/pepper_square/importance-of-mobile-app-market-research-and-how-to-do-it-2jge)
+- [Casting Objects and the instanceof Operator](https://dev.to/paulike/casting-objects-and-the-instanceof-operator-2hgj)
+- [Mocking navigator.clipboard.writeText in Jest](https://dev.to/andrewchaa/mocking-navigatorclipboardwritetext-in-jest-3hih)
+- [How to use LLM for efficient text outputs longer than 4k tokens?](https://dev.to/theluk/how-to-use-llm-for-efficient-text-outputs-longer-than-4k-tokens-1glc)
 <!-- BLOG-POST-LIST:END -->
 
