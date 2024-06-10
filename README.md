@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating replies using Langchain multiple chains and Gemini in NestJS](https://dev.to/railsstudent/generating-replies-using-langchain-multiple-chains-and-gemini-in-nestjs-dm6)
-- [Real-time Data &amp; Modern UXs: The Power and the Peril When Things Go Wrong](https://dev.to/causely/real-time-data-modern-uxs-the-power-and-the-peril-when-things-go-wrong-58ib)
-- [Swift 101: Collections Part II - Sets](https://dev.to/silviaespanagil/swift-101-collections-part-ii-sets-3i41)
-- [What are your Goals for week 24 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-24-of-2024-4jcf)
+- [Automating RDS CA &lpar;Certificate Authority&rpar; Using AWS Lambda](https://dev.to/lrdplopes/automating-rds-ca-certificate-authority-using-aws-lambda-3kb7)
+- [Open-Source Exploitation](https://dev.to/dagnelies/open-source-exploitation-2eh4)
+- [Dreamin&#39; in Color Countdown](https://dev.to/arbrazil/dreamin-in-color-countdown-3ldh)
+- [Smart Cities: How Tech is Revolutionizing Urban Living](https://dev.to/bingecoder89/smart-cities-how-tech-is-revolutionizing-urban-living-1l75)
 <!-- BLOG-POST-LIST:END -->
 
