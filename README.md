@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Methods to Find GitHub Users](https://dev.to/dk119819/best-ways-to-search-for-github-users-53no)
-- [Lập trình web phải phân biệt được Session và Cookie](https://dev.to/duongphan/lap-trinh-web-phai-phan-biet-duoc-session-va-cookie-2mi0)
-- [Reading Laravel](https://dev.to/bruno_beghelli_210b82ca3b/reading-laravel-2j7p)
-- [Effective Methods to Secure Your Online Store Against Cyber Threats](https://dev.to/jchristopher0033/effective-methods-to-secure-your-online-store-against-cyber-threats-457e)
+- [Vídeo de apresentação e artigo do projeto de identificação facial com AWS Rekognition](https://dev.to/aws-builders/video-de-apresentacao-e-artigo-do-projeto-de-identificacao-facial-com-aws-rekognition-4efa)
+- [Vertical or Horizontal Scale?](https://dev.to/fidsouza/vertical-or-horizontal-scale-1dje)
+- [[DAY 48-53] I Built A Pokemon Search App](https://dev.to/thomascansino/day-48-53-i-built-a-pokemon-search-app-pmk)
+- [Sử dụng MongoDB hiệu quả trong Nodejs](https://dev.to/duongphan/su-dung-mongodb-hieu-qua-trong-nodejs-2kh9)
 <!-- BLOG-POST-LIST:END -->
 
