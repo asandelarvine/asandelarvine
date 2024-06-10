@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenge Submission: Glam Up My Markup](https://dev.to/agagag/challenge-submission-glam-up-my-markup-4954)
-- [Perl Weekly #672 - It&#39;s time ...](https://dev.to/szabgab/perl-weekly-672-its-time--2dab)
-- [Async Nx Monorepo: Enhancing Productivity and Scalability](https://dev.to/hasancse/async-nx-monorepo-enhancing-productivity-and-scalability-2iim)
-- [Full-Stack Development: Bridging the Gap](https://dev.to/rachana/full-stack-development-bridging-the-gap-211i)
+- [InnoDB&#39;s ibdata1: Essential Management Tips for MySQL](https://dev.to/dbvismarketing/innodbs-ibdata1-essential-management-tips-for-mysql-4ccd)
+- [How To Implement The WebAuthn Autcomplete Token](https://dev.to/corbado/how-to-implement-the-webauthn-autcomplete-token-4mi0)
+- [python selenium](https://dev.to/kavithagovindaraj/python-selenium-35ml)
+- [Trace Hawk](https://dev.to/tracehawk/trace-hawk-472e)
 <!-- BLOG-POST-LIST:END -->
 
