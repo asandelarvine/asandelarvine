@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6 of Machine Learning||Supervised ML Algorithms](https://dev.to/ngneha09/day-6-of-machine-learningsupervised-ml-algorithms-2op8)
-- [Single Server Setup: Basics of System Design](https://dev.to/bkaush/single-server-setup-basics-of-system-design-b59)
-- [Day 14 of my progress as a vue dev](https://dev.to/zain725342/day-14-of-my-progress-as-a-vue-dev-36g3)
-- [Epoch - Ethereum 2.0](https://dev.to/st1p3kolovrat/epoch-ethereum-20-k9f)
+- [Generating replies using Langchain multiple chains and Gemini in NestJS](https://dev.to/railsstudent/generating-replies-using-langchain-multiple-chains-and-gemini-in-nestjs-dm6)
+- [Real-time Data &amp; Modern UXs: The Power and the Peril When Things Go Wrong](https://dev.to/causely/real-time-data-modern-uxs-the-power-and-the-peril-when-things-go-wrong-58ib)
+- [Swift 101: Collections Part II - Sets](https://dev.to/silviaespanagil/swift-101-collections-part-ii-sets-3i41)
+- [What are your Goals for week 24 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-24-of-2024-4jcf)
 <!-- BLOG-POST-LIST:END -->
 
