@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Be a Hero](https://dev.to/canro91/dont-be-a-hero-5gko)
-- [Elasticsearch APM Server Kurulumu ve Uygulama İzleme](https://dev.to/aciklab/elasticsearch-apm-server-kurulumu-ve-uygulama-izleme-17m0)
-- [The Power of Visual Studio: A Match Made in Developer Heaven](https://dev.to/akaksha/the-power-of-visual-studio-a-match-made-in-developer-heaven-1cjm)
-- [TypeScript Interfaces: Crafting Code with Creative Precision](https://dev.to/bilelsalemdev/typescript-interfaces-crafting-code-with-creative-precision-65m)
+- [Challenge Submission: Glam Up My Markup](https://dev.to/agagag/challenge-submission-glam-up-my-markup-4954)
+- [Perl Weekly #672 - It&#39;s time ...](https://dev.to/szabgab/perl-weekly-672-its-time--2dab)
+- [Async Nx Monorepo: Enhancing Productivity and Scalability](https://dev.to/hasancse/async-nx-monorepo-enhancing-productivity-and-scalability-2iim)
+- [Full-Stack Development: Bridging the Gap](https://dev.to/rachana/full-stack-development-bridging-the-gap-211i)
 <!-- BLOG-POST-LIST:END -->
 
