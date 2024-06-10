@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Free from Analysis Paralysis](https://dev.to/asvid/breaking-free-from-analysis-paralysis-2g5p)
-- [Master Nodemailer: The Ultimate Guide to Sending Emails from Node.js](https://dev.to/scofieldidehen/master-nodemailer-the-ultimate-guide-to-sending-emails-from-nodejs-24a3)
-- [Day 15 of 30 of JavaScript](https://dev.to/akshat0610/day-15-of-30-of-javascript-2a4c)
-- [Introduction to Git](https://dev.to/aws-builders/introduction-to-git-ga9)
+- [I made a application, which shows you a film🍿 based on your mood.](https://dev.to/artemowandrei/i-made-a-application-which-shows-you-a-film-based-on-your-mood-332)
+- [The Evolution of API Development Styles: The GraphQL Architecture](https://dev.to/paltadash/the-evolution-of-api-development-styles-the-graphql-architecture-3jjl)
+- [Nucleoid: Reasoning Engine for Neuro-Symbolic AI](https://dev.to/nucleoid/nucleoid-reasoning-engine-for-neuro-symbolic-ai-14c5)
+- [CodeBehind 2.6 Released](https://dev.to/elanatframework/codebehind-26-released-1dne)
 <!-- BLOG-POST-LIST:END -->
 
