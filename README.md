@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating RDS CA &lpar;Certificate Authority&rpar; Using AWS Lambda](https://dev.to/lrdplopes/automating-rds-ca-certificate-authority-using-aws-lambda-3kb7)
-- [Open-Source Exploitation](https://dev.to/dagnelies/open-source-exploitation-2eh4)
-- [Dreamin&#39; in Color Countdown](https://dev.to/arbrazil/dreamin-in-color-countdown-3ldh)
-- [Smart Cities: How Tech is Revolutionizing Urban Living](https://dev.to/bingecoder89/smart-cities-how-tech-is-revolutionizing-urban-living-1l75)
+- [Breaking Free from Analysis Paralysis](https://dev.to/asvid/breaking-free-from-analysis-paralysis-2g5p)
+- [Master Nodemailer: The Ultimate Guide to Sending Emails from Node.js](https://dev.to/scofieldidehen/master-nodemailer-the-ultimate-guide-to-sending-emails-from-nodejs-24a3)
+- [Day 15 of 30 of JavaScript](https://dev.to/akshat0610/day-15-of-30-of-javascript-2a4c)
+- [Introduction to Git](https://dev.to/aws-builders/introduction-to-git-ga9)
 <!-- BLOG-POST-LIST:END -->
 
