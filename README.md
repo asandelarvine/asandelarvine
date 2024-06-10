@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One does not simply delete cookies](https://dev.to/whitep4nth3r/one-does-not-simply-delete-cookies-5fdi)
-- [How to disable Rails Form&#39;s `.field_with_errors`](https://dev.to/railsdesigner/how-to-disable-rails-forms-fieldwitherrors-2mbj)
-- [Create A Sidebar Menu using HTML and CSS only](https://dev.to/codingnepal/create-a-sidebar-menu-using-html-and-css-only-2e79)
-- [0 downtime is a myth with deployment slots](https://dev.to/c0dingpanda/0-downtime-is-a-myth-with-deployment-slots-3o7j)
+- [Why Choose ReactJS for Frontend Development: Unveiling the Advantages](https://dev.to/jottyjohn/why-choose-reactjs-for-frontend-development-unveiling-the-advantages-k0d)
+- [How to Stream Pure Flix on Your Smart TV](https://dev.to/charlotte_wesker_2b851e4f/how-to-stream-pure-flix-on-your-smart-tv-3o3a)
+- [Best Chrome Extensions for Web Developers](https://dev.to/sandip2196/best-chrome-extensions-for-web-developers-3358)
+- [Save Time Building Jamstack / Headless CMS Backed Websites](https://dev.to/alangleeson/save-time-building-jamstack-headless-cms-backed-websites-4e3m)
 <!-- BLOG-POST-LIST:END -->
 
