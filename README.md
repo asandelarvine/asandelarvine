@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vídeo de apresentação e artigo do projeto de identificação facial com AWS Rekognition](https://dev.to/aws-builders/video-de-apresentacao-e-artigo-do-projeto-de-identificacao-facial-com-aws-rekognition-4efa)
-- [Vertical or Horizontal Scale?](https://dev.to/fidsouza/vertical-or-horizontal-scale-1dje)
-- [[DAY 48-53] I Built A Pokemon Search App](https://dev.to/thomascansino/day-48-53-i-built-a-pokemon-search-app-pmk)
-- [Sử dụng MongoDB hiệu quả trong Nodejs](https://dev.to/duongphan/su-dung-mongodb-hieu-qua-trong-nodejs-2kh9)
+- [Intro to Embedded Systems](https://dev.to/ccwell11/intro-to-embedded-systems-5c7p)
+- [Update: Live Feedback script](https://dev.to/juliankominovic/update-live-feedback-script-35oi)
+- [How to study React to become a pro. Introduction to React.](https://dev.to/yukionishi1129/how-to-study-react-to-become-a-pro-introduction-to-react-p3l)
+- [Interface Segregation Principle](https://dev.to/palanivel_sundararajangu/interface-segregation-principle-2edj)
 <!-- BLOG-POST-LIST:END -->
 
