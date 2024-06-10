@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server Side Components no React: O Futuro da Renderização?](https://dev.to/vitorrios1001/server-side-components-no-react-o-futuro-da-renderizacao-2b03)
-- [Understanding Weatherstack&#39;s API Pricing and Real-Time Weather Data](https://dev.to/sameeranthony/understanding-weatherstacks-api-pricing-and-real-time-weather-data-41i0)
-- [Create CSS Animations with AI](https://dev.to/max_prehoda_9cb09ea7c8d07/create-css-animations-with-ai-5b4o)
-- [shadcn-ui/ui codebase analysis: examples route explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-examples-route-explained-58mk)
+- [Babylon.js Browser MMORPG - DevLog - Update #8 - Syncing combat animations, sound and damage text](https://dev.to/maiu/babylonjs-browser-mmorpg-devlog-update-8-syncing-combat-animations-sound-and-damage-text-glg)
+- [Day 967 : Magnificence](https://dev.to/dwane/day-967-magnificence-29oc)
+- [[Game of Purpose] Day 23](https://dev.to/humberd/game-of-purpose-day-23-1jif)
+- [git commit -m is a lie! How to commit like a pro](https://dev.to/andrews1022/git-commit-m-is-a-lie-how-to-commit-like-a-pro-l1)
 <!-- BLOG-POST-LIST:END -->
 
