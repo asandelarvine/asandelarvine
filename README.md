@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Importance of Mobile App Market Research and How To Do It](https://dev.to/pepper_square/importance-of-mobile-app-market-research-and-how-to-do-it-2jge)
-- [Casting Objects and the instanceof Operator](https://dev.to/paulike/casting-objects-and-the-instanceof-operator-2hgj)
-- [Mocking navigator.clipboard.writeText in Jest](https://dev.to/andrewchaa/mocking-navigatorclipboardwritetext-in-jest-3hih)
-- [How to use LLM for efficient text outputs longer than 4k tokens?](https://dev.to/theluk/how-to-use-llm-for-efficient-text-outputs-longer-than-4k-tokens-1glc)
+- [Day 9 - Deep Dive in Git &amp; GitHub for DevOps Engineers](https://dev.to/oncloud7/day-9-deep-dive-in-git-github-for-devops-engineers-bck)
+- [How does 10x programmer test code?](https://dev.to/krystofee/how-does-10x-programmer-test-code-3lc9)
+- [Useful Methods for Lists](https://dev.to/paulike/useful-methods-for-lists-eol)
+- [Unpacking Cloud Infrastructure and Virtualization: A Deep Dive into Their Differences](https://dev.to/liong/unpacking-cloud-infrastructure-and-virtualization-a-deep-dive-into-their-differences-e8j)
 <!-- BLOG-POST-LIST:END -->
 
