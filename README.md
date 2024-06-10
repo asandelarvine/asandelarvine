@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗙𝗿𝗲𝘀𝗵𝗣𝗶𝗰𝗸 Web application](https://dev.to/clear008/web-application-2e5d)
-- [Polling in React](https://dev.to/tangoindiamango/polling-in-react-3h8a)
-- [Update Profile README with Latest Blog Posts](https://dev.to/justingoncat/update-profile-readme-with-latest-blog-posts-2ogi)
-- [How to authenticate a Spotify User in next.js 14 using NextAuth](https://dev.to/matdweb/how-to-authenticate-a-spotify-user-in-nextjs-14-using-nextauth-5f6i)
+- [Top Methods to Find GitHub Users](https://dev.to/dk119819/best-ways-to-search-for-github-users-53no)
+- [Lập trình web phải phân biệt được Session và Cookie](https://dev.to/duongphan/lap-trinh-web-phai-phan-biet-duoc-session-va-cookie-2mi0)
+- [Reading Laravel](https://dev.to/bruno_beghelli_210b82ca3b/reading-laravel-2j7p)
+- [Effective Methods to Secure Your Online Store Against Cyber Threats](https://dev.to/jchristopher0033/effective-methods-to-secure-your-online-store-against-cyber-threats-457e)
 <!-- BLOG-POST-LIST:END -->
 
