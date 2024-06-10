@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a application, which shows you a film🍿 based on your mood.](https://dev.to/artemowandrei/i-made-a-application-which-shows-you-a-film-based-on-your-mood-332)
-- [The Evolution of API Development Styles: The GraphQL Architecture](https://dev.to/paltadash/the-evolution-of-api-development-styles-the-graphql-architecture-3jjl)
-- [Nucleoid: Reasoning Engine for Neuro-Symbolic AI](https://dev.to/nucleoid/nucleoid-reasoning-engine-for-neuro-symbolic-ai-14c5)
-- [CodeBehind 2.6 Released](https://dev.to/elanatframework/codebehind-26-released-1dne)
+- [shadcn-ui/ui codebase analysis: examples route explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-examples-route-explained-58mk)
+- [🌟 Comprehensive Guide to Firebase Cloud Messaging in React with Vite 🚀](https://dev.to/shahharsh/comprehensive-guide-to-firebase-cloud-messaging-in-react-with-vite-abm)
+- [Future-proof software development with the Azure Serverless Modulith](https://dev.to/florianlenz/future-proof-software-development-with-the-azure-serverless-modulith-12bl)
+- [Enforcing &#39;noImplicitAny&#39; on callbacks to generic functions](https://dev.to/seasonedcc/enforcing-noimplicitany-on-callbacks-to-generic-functions-7f1)
 <!-- BLOG-POST-LIST:END -->
 
