@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Chatbot with Python and Gemini API: Comprehensive Guide](https://dev.to/proflead/how-to-build-an-ai-chatbot-with-python-and-gemini-api-comprehensive-guide-4dep)
-- [Using AI to improve security and learning in your AWS environment.](https://dev.to/monica_escobar/using-ai-to-improve-security-and-learning-in-your-aws-environment-p90)
-- [A Beginner&#39;s Guide to Prompt Engineering with GitHub Copilot](https://dev.to/manam_saiteja_e83fd9ab159/a-beginners-guide-to-prompt-engineering-with-github-copilot-147n)
-- [TOP 5 Best JavaScript Gantt Chart Library](https://dev.to/lenormor/top-5-best-javascript-gantt-chart-library-fjg)
+- [WebRTC Vs Websocket: Which is best for your application](https://dev.to/alakkadshaw/webrtc-vs-websocket-which-is-best-for-your-application-1eon)
+- [RAG using Ollama](https://dev.to/urvesh/rag-using-ollama-1bam)
+- [How to Dockerize a React App](https://dev.to/hemanthreddyb/how-to-dockerize-a-react-app-3g5m)
+- [CSS Only Cards Carousel](https://dev.to/brookesb91/css-only-cards-carousel-950)
 <!-- BLOG-POST-LIST:END -->
 
