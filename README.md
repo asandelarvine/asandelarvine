@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel&#39;de Pivot Tablo Oluşturma Rehberi](https://dev.to/baris/laravelde-pivot-tablo-olusturma-rehberi-2af9)
-- [My Animal Mart &lpar;Part 1&rpar; - The outline shader problem.](https://dev.to/longchau/my-animal-mart-part-1-the-outline-shader-problem-447f)
-- [Kong Plugin Development: Local Development and Installation on Your Laptop/VM](https://dev.to/zelarsoft/kong-plugin-development-local-development-and-installation-on-your-laptopvm-dbp)
-- [Inheritance, Superclasses and Subclasses.](https://dev.to/paulike/inheritance-superclasses-and-subclasses-5ede)
+- [Automating the installation of a LAMP stack on Ubuntu 22.04](https://dev.to/oyololatoni/automating-the-installation-of-a-lamp-stack-on-ubuntu-2204-4419)
+- [Glasskube reaches 1k stars 🌟](https://dev.to/glasskube/glasskube-reaches-1k-stars-o5j)
+- [Get Certified with GitHub Article Giving Proceeds](https://dev.to/mukuastephen/get-certified-with-github-article-giving-proceeds-2dbd)
+- [Awesome | Top 20 Starred Repo on Github](https://dev.to/litlyx/awesome-top-20-starred-repo-on-github-14f7)
 <!-- BLOG-POST-LIST:END -->
 
