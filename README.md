@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InnoDB&#39;s ibdata1: Essential Management Tips for MySQL](https://dev.to/dbvismarketing/innodbs-ibdata1-essential-management-tips-for-mysql-4ccd)
-- [How To Implement The WebAuthn Autcomplete Token](https://dev.to/corbado/how-to-implement-the-webauthn-autcomplete-token-4mi0)
-- [python selenium](https://dev.to/kavithagovindaraj/python-selenium-35ml)
-- [Trace Hawk](https://dev.to/tracehawk/trace-hawk-472e)
+- [Laravel&#39;de Pivot Tablo Oluşturma Rehberi](https://dev.to/baris/laravelde-pivot-tablo-olusturma-rehberi-2af9)
+- [My Animal Mart &lpar;Part 1&rpar; - The outline shader problem.](https://dev.to/longchau/my-animal-mart-part-1-the-outline-shader-problem-447f)
+- [Kong Plugin Development: Local Development and Installation on Your Laptop/VM](https://dev.to/zelarsoft/kong-plugin-development-local-development-and-installation-on-your-laptopvm-dbp)
+- [Inheritance, Superclasses and Subclasses.](https://dev.to/paulike/inheritance-superclasses-and-subclasses-5ede)
 <!-- BLOG-POST-LIST:END -->
 
