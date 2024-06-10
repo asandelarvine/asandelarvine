@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating the installation of a LAMP stack on Ubuntu 22.04](https://dev.to/oyololatoni/automating-the-installation-of-a-lamp-stack-on-ubuntu-2204-4419)
-- [Glasskube reaches 1k stars 🌟](https://dev.to/glasskube/glasskube-reaches-1k-stars-o5j)
-- [Get Certified with GitHub Article Giving Proceeds](https://dev.to/mukuastephen/get-certified-with-github-article-giving-proceeds-2dbd)
-- [Awesome | Top 20 Starred Repo on Github](https://dev.to/litlyx/awesome-top-20-starred-repo-on-github-14f7)
+- [One does not simply delete cookies](https://dev.to/whitep4nth3r/one-does-not-simply-delete-cookies-5fdi)
+- [How to disable Rails Form&#39;s `.field_with_errors`](https://dev.to/railsdesigner/how-to-disable-rails-forms-fieldwitherrors-2mbj)
+- [Create A Sidebar Menu using HTML and CSS only](https://dev.to/codingnepal/create-a-sidebar-menu-using-html-and-css-only-2e79)
+- [0 downtime is a myth with deployment slots](https://dev.to/c0dingpanda/0-downtime-is-a-myth-with-deployment-slots-3o7j)
 <!-- BLOG-POST-LIST:END -->
 
