@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9 - Deep Dive in Git &amp; GitHub for DevOps Engineers](https://dev.to/oncloud7/day-9-deep-dive-in-git-github-for-devops-engineers-bck)
-- [How does 10x programmer test code?](https://dev.to/krystofee/how-does-10x-programmer-test-code-3lc9)
-- [Useful Methods for Lists](https://dev.to/paulike/useful-methods-for-lists-eol)
-- [Unpacking Cloud Infrastructure and Virtualization: A Deep Dive into Their Differences](https://dev.to/liong/unpacking-cloud-infrastructure-and-virtualization-a-deep-dive-into-their-differences-e8j)
+- [How to Build an AI Chatbot with Python and Gemini API: Comprehensive Guide](https://dev.to/proflead/how-to-build-an-ai-chatbot-with-python-and-gemini-api-comprehensive-guide-4dep)
+- [Using AI to improve security and learning in your AWS environment.](https://dev.to/monica_escobar/using-ai-to-improve-security-and-learning-in-your-aws-environment-p90)
+- [A Beginner&#39;s Guide to Prompt Engineering with GitHub Copilot](https://dev.to/manam_saiteja_e83fd9ab159/a-beginners-guide-to-prompt-engineering-with-github-copilot-147n)
+- [TOP 5 Best JavaScript Gantt Chart Library](https://dev.to/lenormor/top-5-best-javascript-gantt-chart-library-fjg)
 <!-- BLOG-POST-LIST:END -->
 
