@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeking a Type-Safe Ruby on Rails in TypeScript, I Started Developing an ORM](https://dev.to/koyopro/seeking-a-type-safe-ruby-on-rails-in-typescript-i-started-developing-an-orm-1of5)
-- [ice-cream shop](https://dev.to/kemiowoyele1/ice-cream-shop-1l64)
-- [Promoting your website for traffic](https://dev.to/sh20raj/promoting-your-website-for-traffic-1emk)
-- [Day 15 of my progress as a vue dev](https://dev.to/zain725342/day-15-of-my-progress-as-a-vue-dev-43fj)
+- [Understanding Memory Management, Pointers, and Function Pointers in C](https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld)
+- [Creative HTML Accordion | Style 1](https://dev.to/creative_salahu/creative-html-accordion-style-1-4ml1)
+- [Exploring Test Case Generators: Revolutionizing Software Testing](https://dev.to/keploy/exploring-test-case-generators-revolutionizing-software-testing-7pe)
+- [Imagine No More Info Chaos: we built the solution that keeps your work in perfect harmony](https://dev.to/reich/imagine-no-more-info-chaos-we-built-the-solution-that-keeps-your-work-in-perfect-harmony-ea4)
 <!-- BLOG-POST-LIST:END -->
 
