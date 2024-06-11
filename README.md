@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [238. Products of Array Discluding Self](https://dev.to/whereislijah/products-of-array-discluding-self-4mb2)
-- [Beginner Project Ideas with GitHub repos](https://dev.to/evansifyke/beginner-project-ideas-with-github-repos-ao7)
-- [No Longer DEV&#39;s Community Manager, But Still Got Lotsa Love For Y&#39;all! 💚](https://dev.to/michaeltharrington/no-longer-devs-community-manager-but-still-got-love-for-yall-3ocp)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3dk1)
+- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai2/implementing-mlops-with-github-actions-30nn)
+- [Building &quot;Ohey&quot;: A Promise-Based HTTP Client like axios/fetch](https://dev.to/shamimbinnur/building-ohey-a-promise-based-http-client-like-axiosfetch-4c96)
+- [Download all LeetCode solved questions](https://dev.to/theshubham99/download-all-leetcode-solved-questions-4lk)
+- [This is for you, let&#39;s build some cool stuff! 🚀✨](https://dev.to/sauravshah31/this-is-for-you-lets-build-some-cool-stuff-15kn)
 <!-- BLOG-POST-LIST:END -->
 
