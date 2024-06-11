@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The ONLY thing I did when I started learning to code.](https://dev.to/thomascansino/the-only-thing-i-did-when-i-started-learning-to-code-552a)
-- [Como construir um operador HPA baseado na fila do RabbitMQ no Kubernetes](https://dev.to/ezequiel_lopes/como-construir-um-operador-hpa-baseado-na-fila-do-rabbitmq-no-kubernetes-3j2n)
-- [Bagaimana cara memindahkan branch utama git dari master menjadi main](https://dev.to/awan/bagaimana-cara-memindahkan-branch-utama-git-dari-master-menjadi-main-2o7n)
-- [#1122. Relative Sort Array](https://dev.to/karleb/1122-relative-sort-array-51bd)
+- [Learn SQL in 7 days - &lpar;SDET&rpar;](https://dev.to/sureshayyanna/learn-sql-in-7-days-sdet-5hc8)
+- [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-2701)
+- [Make your own music downloader website](https://dev.to/rafaeljohn9/make-your-own-music-downloader-website-4o1p)
+- [Setting Up an Nx Monorepo: A Step-by-Step Guide](https://dev.to/hasancse/setting-up-an-nx-monorepo-a-step-by-step-guide-9k4)
 <!-- BLOG-POST-LIST:END -->
 
