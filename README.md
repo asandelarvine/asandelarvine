@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidelines for managing code with Git](https://dev.to/untilyou58/guidelines-for-managing-code-with-git-1bnm)
-- [On Writing a ComputerCraft OS](https://dev.to/jackmacwindows/on-writing-a-computercraft-os-4lnk)
-- [If your dokku push doesn&#39;t trigger a build](https://dev.to/cerico/dokku-kdh)
-- [Unleashing the Power of DynamoDB: A Deep Dive into Serverless Databases](https://dev.to/virajlakshitha/unleashing-the-power-of-dynamodb-a-deep-dive-into-serverless-databases-130n)
+- [Streamline Your Coding Workflow with 12 Powerful VS Code Shortcuts](https://dev.to/vyan/streamline-your-coding-workflow-with-12-powerful-vs-code-shortcuts-55b9)
+- [Building in Public - 2](https://dev.to/liaob/building-in-public-2-i75)
+- [𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭: 𝟤/𝟔 - 𝐑𝐞𝐯𝐞𝐚𝐥𝐢𝐧𝐠 𝐌𝐨𝐝𝐮𝐥𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧](https://dev.to/kiransm/--5bf0)
+- [Optimizing Bank Data Growth with Sharding Architecture](https://dev.to/joaomarques/optimizing-bank-data-growth-with-sharding-architecture-3pnf)
 <!-- BLOG-POST-LIST:END -->
 
