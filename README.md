@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo desarrollar habilidades de resolución de problemas en programación](https://dev.to/rodri-oliveira-dev/como-desarrollar-habilidades-de-resolucion-de-problemas-en-programacion-3i83)
-- [Converging project boilerplates with copier](https://dev.to/adaschevici/converging-project-boilerplates-with-copier-f62)
-- [How To Write Elegant Code with C# Switch Expressions](https://dev.to/antonmartyniuk/how-to-write-elegant-code-with-c-switch-expressions-127d)
-- [Released my first python package 🥳🙌🏻](https://dev.to/kunalkhairnar/released-my-first-python-package-24gh)
+- [Observability 101: A Beginner&#39;s Journey Free of Print Statements.](https://dev.to/cloudnative_eng/observability-101-a-beginners-journey-free-of-print-statements-3lb2)
+- [Mastering JavaScript Promises: Best Practices for Clean and Efficient Code](https://dev.to/hkp22/mastering-javascript-promises-best-practices-for-clean-and-efficient-code-519)
+- [DevOps Fundamentals : Harnessing the Power of Collaboration and Automation](https://dev.to/pateldeep34/devops-fundamentals-harnessing-the-power-of-collaboration-and-automation-4888)
+- [Effortless Global Trade: Unleashing the Power of Customs Clearance Software](https://dev.to/john_hall/effortless-global-trade-unleashing-the-power-of-customs-clearance-software-4ga4)
 <!-- BLOG-POST-LIST:END -->
 
