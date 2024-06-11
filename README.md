@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Mistakes Engineering Managers Do 🤦🏻](https://dev.to/middleware/top-5-mistakes-engineering-managers-do-2819)
-- [Building a Travel Agency Website with the Rapyd Payment Gateway](https://dev.to/rapyd/building-a-travel-agency-website-with-the-rapyd-payment-gateway-2ekm)
-- [The Top 5 Cell Phone APIs Every Developer Should Know About](https://dev.to/rameshchauhan/the-top-5-cell-phone-apis-every-developer-should-know-about-30jk)
-- [Essential MongoDB Operators: A Guide to Effective Data Management](https://dev.to/kawsarkabir/essential-mongodb-operators-a-guide-to-effective-data-management-445b)
+- [Result Pattern](https://dev.to/ben-witt/result-pattern-5290)
+- [Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
+- [How to sign in with LinkedIn in a Strapi and Next.js app with custom authentication](https://dev.to/stanojevicbojan/how-to-sign-in-with-linkedin-in-a-strapi-and-nextjs-app-with-custom-authentication-a53)
+- [Selenium](https://dev.to/priyanka624/selenium-54l2)
 <!-- BLOG-POST-LIST:END -->
 
