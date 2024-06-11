@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Babylon.js Browser MMORPG - DevLog - Update #8 - Syncing combat animations, sound and damage text](https://dev.to/maiu/babylonjs-browser-mmorpg-devlog-update-8-syncing-combat-animations-sound-and-damage-text-glg)
-- [Day 967 : Magnificence](https://dev.to/dwane/day-967-magnificence-29oc)
-- [[Game of Purpose] Day 23](https://dev.to/humberd/game-of-purpose-day-23-1jif)
-- [git commit -m is a lie! How to commit like a pro](https://dev.to/andrews1022/git-commit-m-is-a-lie-how-to-commit-like-a-pro-l1)
+- [The ONLY thing I did when I started learning to code.](https://dev.to/thomascansino/the-only-thing-i-did-when-i-started-learning-to-code-552a)
+- [Como construir um operador HPA baseado na fila do RabbitMQ no Kubernetes](https://dev.to/ezequiel_lopes/como-construir-um-operador-hpa-baseado-na-fila-do-rabbitmq-no-kubernetes-3j2n)
+- [Bagaimana cara memindahkan branch utama git dari master menjadi main](https://dev.to/awan/bagaimana-cara-memindahkan-branch-utama-git-dari-master-menjadi-main-2o7n)
+- [#1122. Relative Sort Array](https://dev.to/karleb/1122-relative-sort-array-51bd)
 <!-- BLOG-POST-LIST:END -->
 
