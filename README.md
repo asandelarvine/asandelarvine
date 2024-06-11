@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your Coding Workflow with 12 Powerful VS Code Shortcuts](https://dev.to/vyan/streamline-your-coding-workflow-with-12-powerful-vs-code-shortcuts-55b9)
-- [Building in Public - 2](https://dev.to/liaob/building-in-public-2-i75)
-- [𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭: 𝟤/𝟔 - 𝐑𝐞𝐯𝐞𝐚𝐥𝐢𝐧𝐠 𝐌𝐨𝐝𝐮𝐥𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧](https://dev.to/kiransm/--5bf0)
-- [Optimizing Bank Data Growth with Sharding Architecture](https://dev.to/joaomarques/optimizing-bank-data-growth-with-sharding-architecture-3pnf)
+- [How to Protect Your Privacy When Using Bitcoin to Naira Apps](https://dev.to/sharoncros38803/how-to-protect-your-privacy-when-using-bitcoin-to-naira-apps-3o2g)
+- [Which Tool and Programming Language to Choose for Web Scraping](https://dev.to/ionegarza/which-tool-and-programming-language-to-choose-for-web-scraping-2218)
+- [How Passkeys Protect Against Phishing](https://dev.to/corbado/how-passkeys-protect-against-phishing-2cgo)
+- [Why Do We Write `super&lpar;props&rpar;` in React?](https://dev.to/emal_isuranga_22428bdd80e/why-do-we-write-superprops-in-react-3g08)
 <!-- BLOG-POST-LIST:END -->
 
