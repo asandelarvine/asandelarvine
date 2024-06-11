@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Result Pattern](https://dev.to/ben-witt/result-pattern-5290)
-- [Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
-- [How to sign in with LinkedIn in a Strapi and Next.js app with custom authentication](https://dev.to/stanojevicbojan/how-to-sign-in-with-linkedin-in-a-strapi-and-nextjs-app-with-custom-authentication-a53)
-- [Selenium](https://dev.to/priyanka624/selenium-54l2)
+- [Mastering Embedded Analytics: A Getting Started Guide 📊](https://dev.to/latitude/mastering-embedded-analytics-a-getting-started-guide-4od5)
+- [Awesome | Top 9 UI Frameworks for Vue.js](https://dev.to/litlyx/awesome-top-9-ui-frameworks-for-vuejs-dpi)
+- [WebAuthn &amp; iframes Integration for Cross-Origin Authentication](https://dev.to/corbado/webauthn-iframes-integration-for-cross-origin-authentication-3jn3)
+- [Day 16 of 30 of JavaScript](https://dev.to/akshat0610/day-16-of-30-of-javascript-1ci4)
 <!-- BLOG-POST-LIST:END -->
 
