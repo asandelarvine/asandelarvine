@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AWS app in depth like never before with sls-mentor](https://dev.to/pchol22/your-aws-app-in-depth-like-never-before-with-sls-mentor-1dgf)
-- [Hibernate Connection Library with GUI Generation](https://dev.to/luisfrasnelli/hibernate-connection-library-with-gui-generation-2i80)
-- [Mastering the First Steps of AI Development: Problem Definition and Data Collection](https://dev.to/dev_2311/mastering-the-first-steps-of-ai-development-problem-definition-and-data-collection-h4o)
-- [Congrats to the Frontend Challenge: June Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-june-edition-winners-26kd)
+- [Why Do Codes Have Bugs?](https://dev.to/scofieldidehen/-why-does-my-code-have-bugs-1b0l)
+- [How to Read a JSON File in JavaScript](https://dev.to/markliu2013/how-to-read-a-json-file-in-javascript-3cfn)
+- [Unlock the Power of Generators and Iterators in JavaScript: A Comprehensive Guide](https://dev.to/dipakahirav/unlock-the-power-of-generators-and-iterators-in-javascript-a-comprehensive-guide-3mc9)
+- [Meilleures pratiques pour créer une application Express.js](https://dev.to/land-bit/meilleures-pratiques-pour-creer-une-application-expressjs-583g)
 <!-- BLOG-POST-LIST:END -->
 
