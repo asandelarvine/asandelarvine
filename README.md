@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Codes Have Bugs?](https://dev.to/scofieldidehen/-why-does-my-code-have-bugs-1b0l)
-- [How to Read a JSON File in JavaScript](https://dev.to/markliu2013/how-to-read-a-json-file-in-javascript-3cfn)
-- [Unlock the Power of Generators and Iterators in JavaScript: A Comprehensive Guide](https://dev.to/dipakahirav/unlock-the-power-of-generators-and-iterators-in-javascript-a-comprehensive-guide-3mc9)
-- [Meilleures pratiques pour créer une application Express.js](https://dev.to/land-bit/meilleures-pratiques-pour-creer-une-application-expressjs-583g)
+- [Seeking a Type-Safe Ruby on Rails in TypeScript, I Started Developing an ORM](https://dev.to/koyopro/seeking-a-type-safe-ruby-on-rails-in-typescript-i-started-developing-an-orm-1of5)
+- [ice-cream shop](https://dev.to/kemiowoyele1/ice-cream-shop-1l64)
+- [Promoting your website for traffic](https://dev.to/sh20raj/promoting-your-website-for-traffic-1emk)
+- [Day 15 of my progress as a vue dev](https://dev.to/zain725342/day-15-of-my-progress-as-a-vue-dev-43fj)
 <!-- BLOG-POST-LIST:END -->
 
