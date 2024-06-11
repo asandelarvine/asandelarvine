@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai2/implementing-mlops-with-github-actions-30nn)
-- [Building &quot;Ohey&quot;: A Promise-Based HTTP Client like axios/fetch](https://dev.to/shamimbinnur/building-ohey-a-promise-based-http-client-like-axiosfetch-4c96)
-- [Download all LeetCode solved questions](https://dev.to/theshubham99/download-all-leetcode-solved-questions-4lk)
-- [This is for you, let&#39;s build some cool stuff! 🚀✨](https://dev.to/sauravshah31/this-is-for-you-lets-build-some-cool-stuff-15kn)
+- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-2pmi)
+- [Git &amp; GitHub, de l&#39;historique aux dépôts distants](https://dev.to/tacite243/git-github-de-lhistoriques-aux-depots-distants-31gd)
+- [$in, $nin, $implicit in MongoDB: Examples and Usage🔥](https://dev.to/kawsarkabir/in-nin-implicit-in-mongodb-examples-and-usage-46jj)
+- [AR Game ~ ChatGPT API ~](https://dev.to/takeda1411123/ar-game-chatgpt-api--1gpg)
 <!-- BLOG-POST-LIST:END -->
 
