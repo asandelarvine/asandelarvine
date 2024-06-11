@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common SEO Mistakes and How to Fix Them](https://dev.to/juddiy/common-seo-mistakes-and-how-to-fix-them-4011)
-- [7 Habits that Programmers Must Have!](https://dev.to/tentanganak/7-habits-that-programmers-must-have-1dfj)
-- [Generating replies using Huggingface interference and Mistrial in NestJS](https://dev.to/railsstudent/generating-replies-using-huggingface-interference-and-mistrial-in-nestjs-mfp)
-- [Top 25 SQL Interview Question for SDET](https://dev.to/sureshayyanna/top-25-sql-interview-question-for-sdet-2jlk)
+- [Guidelines for managing code with Git](https://dev.to/untilyou58/guidelines-for-managing-code-with-git-1bnm)
+- [On Writing a ComputerCraft OS](https://dev.to/jackmacwindows/on-writing-a-computercraft-os-4lnk)
+- [If your dokku push doesn&#39;t trigger a build](https://dev.to/cerico/dokku-kdh)
+- [Unleashing the Power of DynamoDB: A Deep Dive into Serverless Databases](https://dev.to/virajlakshitha/unleashing-the-power-of-dynamodb-a-deep-dive-into-serverless-databases-130n)
 <!-- BLOG-POST-LIST:END -->
 
