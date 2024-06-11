@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day #10 : Advance Git &amp; GitHub for DevOps Engineers.](https://dev.to/oncloud7/day-10-advance-git-github-for-devops-engineers-20ip)
-- [Simple Node Application with Docker + Nginx + Postgres + Docker Compose](https://dev.to/abraaoduarte/simple-node-application-with-docker-nginx-postgres-docker-compose-16p3)
-- [What is Project Management and Who is a Project Manager?](https://dev.to/nicklasmikke1sen/what-is-project-management-and-who-is-a-project-manager-3nad)
-- [I&#39;ve been writing TypeScript without understanding it](https://dev.to/wasp/ive-been-writing-typescript-without-understanding-it-5ef4)
+- [Create an App Like Nextdoor: The Ultimate Guide](https://dev.to/keliaewart/create-an-app-like-nextdoor-the-ultimate-guide-3bea)
+- [Debugging docker-compose errors](https://dev.to/anyigortobias_5/debugging-docker-compose-errors-2b29)
+- [Introduction to GitHub](https://dev.to/learnwithsrini/introduction-to-github-1mfn)
+- [How I created a live subscribers counter in NextJS &lpar;with source code&rpar;](https://dev.to/pierremouchan/how-i-created-a-live-subscribers-counter-with-peoples-avatars-in-nextjs-with-source-code-1l07)
 <!-- BLOG-POST-LIST:END -->
 
