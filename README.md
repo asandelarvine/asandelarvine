@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Protect Your Privacy When Using Bitcoin to Naira Apps](https://dev.to/sharoncros38803/how-to-protect-your-privacy-when-using-bitcoin-to-naira-apps-3o2g)
-- [Which Tool and Programming Language to Choose for Web Scraping](https://dev.to/ionegarza/which-tool-and-programming-language-to-choose-for-web-scraping-2218)
-- [How Passkeys Protect Against Phishing](https://dev.to/corbado/how-passkeys-protect-against-phishing-2cgo)
-- [Why Do We Write `super&lpar;props&rpar;` in React?](https://dev.to/emal_isuranga_22428bdd80e/why-do-we-write-superprops-in-react-3g08)
+- [Top 5 Mistakes Engineering Managers Do 🤦🏻](https://dev.to/middleware/top-5-mistakes-engineering-managers-do-2819)
+- [Building a Travel Agency Website with the Rapyd Payment Gateway](https://dev.to/rapyd/building-a-travel-agency-website-with-the-rapyd-payment-gateway-2ekm)
+- [The Top 5 Cell Phone APIs Every Developer Should Know About](https://dev.to/rameshchauhan/the-top-5-cell-phone-apis-every-developer-should-know-about-30jk)
+- [Essential MongoDB Operators: A Guide to Effective Data Management](https://dev.to/kawsarkabir/essential-mongodb-operators-a-guide-to-effective-data-management-445b)
 <!-- BLOG-POST-LIST:END -->
 
