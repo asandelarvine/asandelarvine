@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Embedded Analytics: A Getting Started Guide 📊](https://dev.to/latitude/mastering-embedded-analytics-a-getting-started-guide-4od5)
-- [Awesome | Top 9 UI Frameworks for Vue.js](https://dev.to/litlyx/awesome-top-9-ui-frameworks-for-vuejs-dpi)
-- [WebAuthn &amp; iframes Integration for Cross-Origin Authentication](https://dev.to/corbado/webauthn-iframes-integration-for-cross-origin-authentication-3jn3)
-- [Day 16 of 30 of JavaScript](https://dev.to/akshat0610/day-16-of-30-of-javascript-1ci4)
+- [Cómo desarrollar habilidades de resolución de problemas en programación](https://dev.to/rodri-oliveira-dev/como-desarrollar-habilidades-de-resolucion-de-problemas-en-programacion-3i83)
+- [Converging project boilerplates with copier](https://dev.to/adaschevici/converging-project-boilerplates-with-copier-f62)
+- [How To Write Elegant Code with C# Switch Expressions](https://dev.to/antonmartyniuk/how-to-write-elegant-code-with-c-switch-expressions-127d)
+- [Released my first python package 🥳🙌🏻](https://dev.to/kunalkhairnar/released-my-first-python-package-24gh)
 <!-- BLOG-POST-LIST:END -->
 
