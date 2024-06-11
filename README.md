@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Memory Management, Pointers, and Function Pointers in C](https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld)
-- [Creative HTML Accordion | Style 1](https://dev.to/creative_salahu/creative-html-accordion-style-1-4ml1)
-- [Exploring Test Case Generators: Revolutionizing Software Testing](https://dev.to/keploy/exploring-test-case-generators-revolutionizing-software-testing-7pe)
-- [Imagine No More Info Chaos: we built the solution that keeps your work in perfect harmony](https://dev.to/reich/imagine-no-more-info-chaos-we-built-the-solution-that-keeps-your-work-in-perfect-harmony-ea4)
+- [238. Products of Array Discluding Self](https://dev.to/whereislijah/products-of-array-discluding-self-4mb2)
+- [Beginner Project Ideas with GitHub repos](https://dev.to/evansifyke/beginner-project-ideas-with-github-repos-ao7)
+- [No Longer DEV&#39;s Community Manager, But Still Got Lotsa Love For Y&#39;all! 💚](https://dev.to/michaeltharrington/no-longer-devs-community-manager-but-still-got-love-for-yall-3ocp)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3dk1)
 <!-- BLOG-POST-LIST:END -->
 
