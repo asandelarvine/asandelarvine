@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-2pmi)
-- [Git &amp; GitHub, de l&#39;historique aux dépôts distants](https://dev.to/tacite243/git-github-de-lhistoriques-aux-depots-distants-31gd)
-- [$in, $nin, $implicit in MongoDB: Examples and Usage🔥](https://dev.to/kawsarkabir/in-nin-implicit-in-mongodb-examples-and-usage-46jj)
-- [AR Game ~ ChatGPT API ~](https://dev.to/takeda1411123/ar-game-chatgpt-api--1gpg)
+- [🚀 How to Create React Components Really Quick 🛠️](https://dev.to/buildwebcrumbs/how-to-create-react-components-really-quick-c84)
+- [@Duolingo is amazing! 🤩](https://dev.to/maatheusgois/duolingo-is-amazing-9i5)
+- [D&#39;orsogna Delights: Navigating the Culinary Riches of Italian Tradition with Emphasis on Food Safety and Quality](https://dev.to/dorsogna/dorsogna-delights-navigating-the-culinary-riches-of-italian-tradition-with-emphasis-on-food-safety-and-quality-5fi1)
+- [Como Escrever Testes Unitários para Serviços Backend com Dependências de Banco de Dados Usando SQLite In-Memory](https://dev.to/vitorrios1001/como-escrever-testes-unitarios-para-servicos-backend-com-dependencias-de-banco-de-dados-usando-sqlite-in-memory-4526)
 <!-- BLOG-POST-LIST:END -->
 
