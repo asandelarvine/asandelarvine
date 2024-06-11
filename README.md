@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of the Personal Computer](https://dev.to/bascodes/the-end-of-the-personal-computer-5ie)
-- [Are Certificates From Code-Learning Websites Worth Anything?](https://dev.to/anitaolsen/are-certificates-from-code-learning-websites-worth-anything-3loh)
-- [Estudos de Quality Assurance &lpar;QA&rpar; - Tipos de Testes](https://dev.to/julianoquites/estudos-de-quality-assurance-qa-tipos-de-testes-1k35)
-- [Securing Kubernetes Pods For Production Workloads](https://dev.to/thenjdevopsguy/securing-kubernetes-pods-for-production-workloads-51oh)
+- [Your AWS app in depth like never before with sls-mentor](https://dev.to/pchol22/your-aws-app-in-depth-like-never-before-with-sls-mentor-1dgf)
+- [Hibernate Connection Library with GUI Generation](https://dev.to/luisfrasnelli/hibernate-connection-library-with-gui-generation-2i80)
+- [Mastering the First Steps of AI Development: Problem Definition and Data Collection](https://dev.to/dev_2311/mastering-the-first-steps-of-ai-development-problem-definition-and-data-collection-h4o)
+- [Congrats to the Frontend Challenge: June Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-june-edition-winners-26kd)
 <!-- BLOG-POST-LIST:END -->
 
