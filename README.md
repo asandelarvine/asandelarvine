@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability 101: A Beginner&#39;s Journey Free of Print Statements.](https://dev.to/cloudnative_eng/observability-101-a-beginners-journey-free-of-print-statements-3lb2)
-- [Mastering JavaScript Promises: Best Practices for Clean and Efficient Code](https://dev.to/hkp22/mastering-javascript-promises-best-practices-for-clean-and-efficient-code-519)
-- [DevOps Fundamentals : Harnessing the Power of Collaboration and Automation](https://dev.to/pateldeep34/devops-fundamentals-harnessing-the-power-of-collaboration-and-automation-4888)
-- [Effortless Global Trade: Unleashing the Power of Customs Clearance Software](https://dev.to/john_hall/effortless-global-trade-unleashing-the-power-of-customs-clearance-software-4ga4)
+- [Day #10 : Advance Git &amp; GitHub for DevOps Engineers.](https://dev.to/oncloud7/day-10-advance-git-github-for-devops-engineers-20ip)
+- [Simple Node Application with Docker + Nginx + Postgres + Docker Compose](https://dev.to/abraaoduarte/simple-node-application-with-docker-nginx-postgres-docker-compose-16p3)
+- [What is Project Management and Who is a Project Manager?](https://dev.to/nicklasmikke1sen/what-is-project-management-and-who-is-a-project-manager-3nad)
+- [I&#39;ve been writing TypeScript without understanding it](https://dev.to/wasp/ive-been-writing-typescript-without-understanding-it-5ef4)
 <!-- BLOG-POST-LIST:END -->
 
