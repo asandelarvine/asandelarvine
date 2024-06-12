@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Ways to Use the @Lazy Annotation in Spring](https://dev.to/tiuwill/3-ways-to-use-the-lazy-annotation-in-spring-3hnh)
-- [Deconstructing Search Input Box on Fluent UI&#39;s Demo Website…](https://dev.to/zawhtut/deconstructing-search-input-box-on-fluent-uis-demo-website-4nho)
-- [Exploring the Use of AI in Web Development](https://dev.to/kartikmehta8/exploring-the-use-of-ai-in-web-development-3f6h)
-- [Button Animation](https://dev.to/sabeerjuniad/button-animation-2n3f)
+- [Dynamic CSS Shadows Creation](https://dev.to/labex/dynamic-css-shadows-creation-3056)
+- [Access Google Cloud Storage from AWS Lambda using Workload Identity Federation](https://dev.to/specky_shooter/access-google-cloud-storage-from-aws-lambda-using-workload-identity-federation-3laj)
+- [Why I Developed a Salesforce Chrome Extension?](https://dev.to/dyn/why-i-developed-a-salesforce-chrome-extension-361a)
+- [flower with heart](https://dev.to/uzumaki156/flower-with-heart-2c0)
 <!-- BLOG-POST-LIST:END -->
 
