@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [run.bash &amp; migrate.bash - Pimpe deine .bashrc auf 🔝🔥](https://dev.to/rubenvoss/runbash-migratebash-pimpe-deine-bashrc-auf-307h)
-- [Workflow and Internal Mechanics of CSS with PostCSS and Vite](https://dev.to/dev_raghvendra/workflow-and-internal-mechanics-of-css-with-postcss-and-vite-9o1)
-- [Seeking for A SKILLED Golang Developer &lpar;URGENT HIRING *&rpar;](https://dev.to/andrew_king_cd5fbd2e15d08/seeking-for-a-skilled-golang-developer-urgent-hiring--3il4)
-- [Exploring Destructuring in JS](https://dev.to/daniel_trejo_a04c7df29ef8/exploring-destructuring-in-js-114j)
+- [🎯 Unlock the Magic of Popover Toggletips &amp; Anchor Positioning!](https://dev.to/adam/unlock-the-magic-of-popover-toggletips-anchor-positioning-2olf)
+- [☁️Cloud Computing☁️😺](https://dev.to/banega00/cloud-computing-2op7)
+- [Understanding Terraform: A Guide to Effective IaC Practices](https://dev.to/hassan_aftab/understanding-terraform-a-guide-to-effective-iac-practices-28pn)
+- [Clean Code With AI](https://dev.to/mcsee/clean-code-with-ai-4kck)
 <!-- BLOG-POST-LIST:END -->
 
