@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool VSCode Extensions that that I&#39;ve discovered](https://dev.to/mitchiemt11/cool-vscode-extensions-that-that-ive-discovered-12mg)
-- [Essential Coding Challenges Every Developer Should Know](https://dev.to/spiritmoney/essential-coding-challenges-every-developer-should-know-5b7h)
-- [Responsive Landing Page with ReactJs &amp; Scss](https://dev.to/sudhanshuambastha/responsive-landing-page-with-reactjs-scss-2ak4)
-- [HTML layout elements and techniques, HTML responsive web designs, HTML computer code elements](https://dev.to/wasifali/html-layout-elements-and-techniques-html-responsive-web-designs-html-computer-code-elements-4962)
+- [In Excel, Expand All Combinations of Multiple Columns](https://dev.to/judith677/in-excel-expand-all-combinations-of-multiple-columns-lgh)
+- [ꜱᴄᴀʟɪɴɢ ᴀɴᴅ ɴᴏʀᴍᴀʟɪᴢɪɴɢ ᴅᴀᴛᴀ ꜰᴏʀ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ](https://dev.to/kammarianand/ling-n-nrliing-r-hin-lrning-l-4bij)
+- [Access Tokens vs Refresh Tokens vs ID Tokens](https://dev.to/rahulvijayvergiya/access-tokens-vs-refresh-tokens-vs-id-tokens-3c97)
+- [Pros and Cons of Benchmark Testing](https://dev.to/ngocninh123/pros-and-cons-of-benchmark-testing-2ki3)
 <!-- BLOG-POST-LIST:END -->
 
