@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building React Apps with the Nx Standalone Setup](https://dev.to/dev_ai/building-react-apps-with-the-nx-standalone-setup-171m)
-- [Creating and Deploying a Windows 11 Virtual Machine on Microsoft Azure](https://dev.to/tracyee_/creating-and-deploying-a-windows-11-virtual-machine-on-microsoft-azure-2kn3)
-- [How to Send Bulk Emails For Free using SMTP &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/scofieldidehen/how-to-send-bulk-emails-for-free-using-smtp-beginners-guide-1h46)
-- [Introducing Our First Computer Science Challenge!](https://dev.to/devteam/introducing-our-first-computer-science-challenge-hp2)
+- [My First Freelance Gig: Building an E-Commerce Store](https://dev.to/shrey802/my-first-freelance-gig-building-an-e-commerce-store-3kp5)
+- [Item 34: Use enums em vez de constantes int](https://dev.to/giselecoder/item-34-use-enums-em-vez-de-constantes-int-mm5)
+- [Ansible: No python interpreters found for host](https://dev.to/vidyasagarmsc/ansible-no-python-interpreters-found-for-host-4dpf)
+- [Dates References: A Timely Affair](https://dev.to/cedricfrancoys/dates-references-a-timely-affair-2kmh)
 <!-- BLOG-POST-LIST:END -->
 
