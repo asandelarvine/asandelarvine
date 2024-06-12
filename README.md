@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Posted my first video on YouTube | Need your advice](https://dev.to/tanujav/posted-my-first-video-on-youtube-need-your-advice-49lj)
-- [Scaling Sidecars to Zero in Kubernetes](https://dev.to/fermyon/scaling-sidecars-to-zero-in-kubernetes-2m23)
-- [Getting an error while importing Langchain Packages](https://dev.to/urvesh/getting-an-error-while-importing-langchain-packages-o09)
-- [Content structures: A guide to Content Modeling basics](https://dev.to/momciloo/content-structures-a-guide-to-content-modeling-basics-20hl)
+- [Watercooler Wednesday](https://dev.to/ben/watercooler-wednesday-5bel)
+- [Exploring Different API Architecture Styles: GraphQL, gRPC, Sockets, and SOAP](https://dev.to/dylantv/exploring-different-api-architecture-styles-graphql-grpc-sockets-and-soap-50ho)
+- [Usando Cilium no WSL](https://dev.to/cslemes/usando-cilium-no-wsl-a1)
+- [Blurr Element - JavaScript &amp; CSS](https://dev.to/boibolang/blurr-element-javascript-css-2e48)
 <!-- BLOG-POST-LIST:END -->
 
