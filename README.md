@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating into AI: Lessons from AWS](https://dev.to/kitops/accelerating-into-ai-lessons-from-aws-4cl2)
-- [How to create an npm package + CI/CD in 10 minutes](https://dev.to/luizrebelatto/how-to-create-an-npm-package-cicd-in-10-minutes-47l1)
-- [How To Build A WordPress Site From Scratch](https://dev.to/sirgicheha/how-to-create-a-wordpress-site-from-scratch-3o7l)
-- [Want to deploy Puppeter or chrome-browser](https://dev.to/om0509/want-to-deploy-pupeeter-or-chrome-browser-lk4)
+- [Enhancing Cloud SRE Efficiency with Distributed Tracing](https://dev.to/harishpadmanaban/enhancing-cloud-sre-efficiency-with-distributed-tracing-47lm)
+- [8 Best Automated Android App Testing Tools and Framework](https://dev.to/jennife05918349/8-best-automated-android-app-testing-tools-and-framework-3fh7)
+- [Mastering the Cloud: Building a High-Performing SRE Team on AWS, Azure, and GCP](https://dev.to/harishpadmanaban/mastering-the-cloud-building-a-high-performing-sre-team-on-aws-azure-and-gcp-4mon)
+- [Hello everyone!!](https://dev.to/estudiante71/hello-everyone-4p47)
 <!-- BLOG-POST-LIST:END -->
 
