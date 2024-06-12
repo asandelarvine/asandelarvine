@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does SAP Migration Work?](https://dev.to/templatewallet/how-does-sap-migration-work-3784)
-- [1. Introducción a la Observabilidad](https://dev.to/ray_floresnolasco_b50a4e/1-introduccion-a-la-observabilidad-4fah)
-- [TypeScript strictly typed - Part 2: full coverage typing](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-2-full-coverage-typing-4cg1)
-- [TypeScript strictly typed - Part 1: configuring a project](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-1-configuring-a-project-9ca)
+- [Asynchronous JavaScript: Practical Tips for Better Code](https://dev.to/buildwebcrumbs/demystifying-asynchronous-javascript-practical-tips-for-better-code-15m1)
+- [Unlocking Data Relationships: MongoDB&#39;s $lookup vs. Mongoose&#39;s Populate](https://dev.to/sujeetsingh123/unlocking-data-relationships-mongodbs-lookup-vs-mongooses-populate-mc5)
+- [Unlocking Data Relationships: MongoDB&#39;s $lookup vs. Mongoose&#39;s Populate](https://dev.to/sujeetsingh123/unlocking-data-relationships-mongodbs-lookup-vs-mongooses-populate-lgk)
+- [Choosing the Right Database Solution for Your Project: SQL or NoSQL?](https://dev.to/sujeetsingh123/choosing-the-right-database-solution-for-your-project-sql-or-nosql-2nno)
 <!-- BLOG-POST-LIST:END -->
 
