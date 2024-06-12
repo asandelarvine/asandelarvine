@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Cloud SRE Efficiency with Distributed Tracing](https://dev.to/harishpadmanaban/enhancing-cloud-sre-efficiency-with-distributed-tracing-47lm)
-- [8 Best Automated Android App Testing Tools and Framework](https://dev.to/jennife05918349/8-best-automated-android-app-testing-tools-and-framework-3fh7)
-- [Mastering the Cloud: Building a High-Performing SRE Team on AWS, Azure, and GCP](https://dev.to/harishpadmanaban/mastering-the-cloud-building-a-high-performing-sre-team-on-aws-azure-and-gcp-4mon)
-- [Hello everyone!!](https://dev.to/estudiante71/hello-everyone-4p47)
+- [Chatbot in Python - Build AI Assistant with Gemini API](https://dev.to/proflead/chatbot-in-python-build-ai-assistant-with-gemini-api-5hd0)
+- [My Top VS Code Extensions for a Better Development Experience](https://dev.to/danjiro/my-top-vs-code-extensions-for-a-better-development-experience-3p9e)
+- [Everything You Need to Know About ChatGPT Model 4o](https://dev.to/rayyan_shaikh/everything-you-need-to-know-about-chatgpt-model-4o-3eij)
+- [Responsive Comparison Table](https://dev.to/dmtlo/responsive-comparison-table-5fen)
 <!-- BLOG-POST-LIST:END -->
 
