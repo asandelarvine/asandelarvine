@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcements from AWS re:Inforce 2024 Keynote](https://dev.to/aws-builders/announcements-from-aws-reinforce-2024-keynote-481f)
-- [Comprehensive Guide to Angular Forms: Fundamental Concepts and Examples](https://dev.to/manthanank/comprehensive-guide-to-angular-forms-fundamental-concepts-and-examples-4ljc)
-- [Single Sign-On &lpar;SSO&rpar; using AWS Cognito and Azure AD](https://dev.to/getambassador2024/single-sign-on-sso-using-aws-cognito-and-azure-ad-851)
-- [Top Best Web Scraping API Services](https://dev.to/ionegarza/top-best-web-scraping-api-services-21o4)
+- [Essential VS Code Extensions for Web Developers](https://dev.to/vyan/essential-vs-code-extensions-for-web-developers-90m)
+- [Cultivating Trust and Innovation: Top 10 .NET Development Partners You Can Rely On](https://dev.to/akaksha/cultivating-trust-and-innovation-top-10-net-development-partners-you-can-rely-on-1h28)
+- [AI copilot tools for your terminal](https://dev.to/gopher65/ai-copilot-tools-for-your-terminal-18hk)
+- [Interactive Learning Activities: Engaging Exercises for Novice Musicians by Charles Barnett](https://dev.to/charlesbarnett/interactive-learning-activities-engaging-exercises-for-novice-musicians-by-charles-barnett-2eff)
 <!-- BLOG-POST-LIST:END -->
 
