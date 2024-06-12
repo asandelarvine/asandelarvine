@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Watercooler Wednesday](https://dev.to/ben/watercooler-wednesday-5bel)
-- [Exploring Different API Architecture Styles: GraphQL, gRPC, Sockets, and SOAP](https://dev.to/dylantv/exploring-different-api-architecture-styles-graphql-grpc-sockets-and-soap-50ho)
-- [Usando Cilium no WSL](https://dev.to/cslemes/usando-cilium-no-wsl-a1)
-- [Blurr Element - JavaScript &amp; CSS](https://dev.to/boibolang/blurr-element-javascript-css-2e48)
+- [How Does SAP Migration Work?](https://dev.to/templatewallet/how-does-sap-migration-work-3784)
+- [1. Introducción a la Observabilidad](https://dev.to/ray_floresnolasco_b50a4e/1-introduccion-a-la-observabilidad-4fah)
+- [TypeScript strictly typed - Part 2: full coverage typing](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-2-full-coverage-typing-4cg1)
+- [TypeScript strictly typed - Part 1: configuring a project](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-1-configuring-a-project-9ca)
 <!-- BLOG-POST-LIST:END -->
 
