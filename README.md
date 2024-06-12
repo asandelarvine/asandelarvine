@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: How to declutter sites with uBlock Origin filters](https://dev.to/canro91/til-how-to-declutter-sites-with-ublock-origin-filters-503h)
-- [From Keyframes to Keycaps: A Journey Through Animation Design](https://dev.to/shieldstring/from-keyframes-to-keycaps-a-journey-through-animation-design-419c)
-- [Get Geeky with Python: Build a System Monitor with Flair](https://dev.to/pranjol-dev/get-geeky-with-python-build-a-system-monitor-with-flair-gh2)
-- [How to resolve Docker Compose Warning WARN[0000] Found orphan containers](https://dev.to/almatins/how-to-resolve-docker-compose-warning-warn0000-found-orphan-containers-4dfi)
+- [Announcements from AWS re:Inforce 2024 Keynote](https://dev.to/aws-builders/announcements-from-aws-reinforce-2024-keynote-481f)
+- [Comprehensive Guide to Angular Forms: Fundamental Concepts and Examples](https://dev.to/manthanank/comprehensive-guide-to-angular-forms-fundamental-concepts-and-examples-4ljc)
+- [Single Sign-On &lpar;SSO&rpar; using AWS Cognito and Azure AD](https://dev.to/getambassador2024/single-sign-on-sso-using-aws-cognito-and-azure-ad-851)
+- [Top Best Web Scraping API Services](https://dev.to/ionegarza/top-best-web-scraping-api-services-21o4)
 <!-- BLOG-POST-LIST:END -->
 
