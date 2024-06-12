@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In Excel, Expand All Combinations of Multiple Columns](https://dev.to/judith677/in-excel-expand-all-combinations-of-multiple-columns-lgh)
-- [ꜱᴄᴀʟɪɴɢ ᴀɴᴅ ɴᴏʀᴍᴀʟɪᴢɪɴɢ ᴅᴀᴛᴀ ꜰᴏʀ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ](https://dev.to/kammarianand/ling-n-nrliing-r-hin-lrning-l-4bij)
-- [Access Tokens vs Refresh Tokens vs ID Tokens](https://dev.to/rahulvijayvergiya/access-tokens-vs-refresh-tokens-vs-id-tokens-3c97)
-- [Pros and Cons of Benchmark Testing](https://dev.to/ngocninh123/pros-and-cons-of-benchmark-testing-2ki3)
+- [Write It Down](https://dev.to/wraith/write-it-down-404h)
+- [Tailwind CSS Refund Form Component Examples](https://dev.to/themesberg/tailwind-css-refund-form-component-examples-78a)
+- [Spiking Neural Networks](https://dev.to/serpapi/spiking-neural-networks-2k5p)
+- [How I learned JavaScript](https://dev.to/muchai_joseph/how-i-learned-javascript-22dl)
 <!-- BLOG-POST-LIST:END -->
 
