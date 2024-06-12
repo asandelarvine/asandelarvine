@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential VS Code Extensions for Web Developers](https://dev.to/vyan/essential-vs-code-extensions-for-web-developers-90m)
-- [Cultivating Trust and Innovation: Top 10 .NET Development Partners You Can Rely On](https://dev.to/akaksha/cultivating-trust-and-innovation-top-10-net-development-partners-you-can-rely-on-1h28)
-- [AI copilot tools for your terminal](https://dev.to/gopher65/ai-copilot-tools-for-your-terminal-18hk)
-- [Interactive Learning Activities: Engaging Exercises for Novice Musicians by Charles Barnett](https://dev.to/charlesbarnett/interactive-learning-activities-engaging-exercises-for-novice-musicians-by-charles-barnett-2eff)
+- [Cool VSCode Extensions that that I&#39;ve discovered](https://dev.to/mitchiemt11/cool-vscode-extensions-that-that-ive-discovered-12mg)
+- [Essential Coding Challenges Every Developer Should Know](https://dev.to/spiritmoney/essential-coding-challenges-every-developer-should-know-5b7h)
+- [Responsive Landing Page with ReactJs &amp; Scss](https://dev.to/sudhanshuambastha/responsive-landing-page-with-reactjs-scss-2ak4)
+- [HTML layout elements and techniques, HTML responsive web designs, HTML computer code elements](https://dev.to/wasifali/html-layout-elements-and-techniques-html-responsive-web-designs-html-computer-code-elements-4962)
 <!-- BLOG-POST-LIST:END -->
 
