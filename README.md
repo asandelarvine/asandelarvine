@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extracting the Sender from a Transaction with Go-Ethereum](https://dev.to/burgossrodrigo/extracting-the-sender-from-a-transaction-with-go-ethereum-1cn3)
-- [Understanding DML, DDL, DCL,TCL SQL Commands in MySQL](https://dev.to/ayas_tech_2b0560ee159e661/understanding-dml-ddl-dcltcl-sql-commands-in-mysql-o1f)
-- [Understanding the Difference Between JavaScript and TypeScript](https://dev.to/ayas_tech_2b0560ee159e661/understanding-the-difference-between-javascript-and-typescript-jm1)
-- [Creating mocked data for EF Core using Bogus and more](https://dev.to/karenpayneoregon/creating-mocked-data-for-ef-core-using-bogus-and-more-2l0i)
+- [3 Ways to Use the @Lazy Annotation in Spring](https://dev.to/tiuwill/3-ways-to-use-the-lazy-annotation-in-spring-3hnh)
+- [Deconstructing Search Input Box on Fluent UI&#39;s Demo Website…](https://dev.to/zawhtut/deconstructing-search-input-box-on-fluent-uis-demo-website-4nho)
+- [Exploring the Use of AI in Web Development](https://dev.to/kartikmehta8/exploring-the-use-of-ai-in-web-development-3f6h)
+- [Button Animation](https://dev.to/sabeerjuniad/button-animation-2n3f)
 <!-- BLOG-POST-LIST:END -->
 
