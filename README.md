@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Freelance Gig: Building an E-Commerce Store](https://dev.to/shrey802/my-first-freelance-gig-building-an-e-commerce-store-3kp5)
-- [Item 34: Use enums em vez de constantes int](https://dev.to/giselecoder/item-34-use-enums-em-vez-de-constantes-int-mm5)
-- [Ansible: No python interpreters found for host](https://dev.to/vidyasagarmsc/ansible-no-python-interpreters-found-for-host-4dpf)
-- [Dates References: A Timely Affair](https://dev.to/cedricfrancoys/dates-references-a-timely-affair-2kmh)
+- [Learn GO: Creating Variables in GO Lang](https://dev.to/ivewor/learn-go-creating-variables-in-go-lang-5dim)
+- [shadcn-ui/ui codebase analysis: Dashboard example explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-dashboard-example-explained-42a1)
+- [Build Your Own Chatbot in Kotlin with GPT: A Step-by-Step Guide](https://dev.to/josmel/build-your-own-chatbot-in-kotlin-with-gpt-a-step-by-step-guide-27fd)
+- [css girl](https://dev.to/kemiowoyele1/css-girl-adc)
 <!-- BLOG-POST-LIST:END -->
 
