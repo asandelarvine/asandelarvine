@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Write It Down](https://dev.to/wraith/write-it-down-404h)
-- [Tailwind CSS Refund Form Component Examples](https://dev.to/themesberg/tailwind-css-refund-form-component-examples-78a)
-- [Spiking Neural Networks](https://dev.to/serpapi/spiking-neural-networks-2k5p)
-- [How I learned JavaScript](https://dev.to/muchai_joseph/how-i-learned-javascript-22dl)
+- [Day 7 of Machine Learning|| Linear Regression Part 1](https://dev.to/ngneha09/day-7-of-machine-learning-linear-regression-part-1-5ffe)
+- [Build your own image gallery CMS](https://dev.to/xata/build-your-own-image-gallery-cms-4pao)
+- [TypeScript Tales: Unraveling Abstracts and Interfaces](https://dev.to/bilelsalemdev/typescript-tales-unraveling-abstracts-and-interfaces-3bhf)
+- [How to run Ansible on Windows?](https://dev.to/devopspass-ai/how-to-run-ansible-on-windows-1l9k)
 <!-- BLOG-POST-LIST:END -->
 
