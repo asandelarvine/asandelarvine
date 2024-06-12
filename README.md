@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot in Python - Build AI Assistant with Gemini API](https://dev.to/proflead/chatbot-in-python-build-ai-assistant-with-gemini-api-5hd0)
-- [My Top VS Code Extensions for a Better Development Experience](https://dev.to/danjiro/my-top-vs-code-extensions-for-a-better-development-experience-3p9e)
-- [Everything You Need to Know About ChatGPT Model 4o](https://dev.to/rayyan_shaikh/everything-you-need-to-know-about-chatgpt-model-4o-3eij)
-- [Responsive Comparison Table](https://dev.to/dmtlo/responsive-comparison-table-5fen)
+- [Posted my first video on YouTube | Need your advice](https://dev.to/tanujav/posted-my-first-video-on-youtube-need-your-advice-49lj)
+- [Scaling Sidecars to Zero in Kubernetes](https://dev.to/fermyon/scaling-sidecars-to-zero-in-kubernetes-2m23)
+- [Getting an error while importing Langchain Packages](https://dev.to/urvesh/getting-an-error-while-importing-langchain-packages-o09)
+- [Content structures: A guide to Content Modeling basics](https://dev.to/momciloo/content-structures-a-guide-to-content-modeling-basics-20hl)
 <!-- BLOG-POST-LIST:END -->
 
