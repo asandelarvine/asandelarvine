@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn GO: Creating Variables in GO Lang](https://dev.to/ivewor/learn-go-creating-variables-in-go-lang-5dim)
-- [shadcn-ui/ui codebase analysis: Dashboard example explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-dashboard-example-explained-42a1)
-- [Build Your Own Chatbot in Kotlin with GPT: A Step-by-Step Guide](https://dev.to/josmel/build-your-own-chatbot-in-kotlin-with-gpt-a-step-by-step-guide-27fd)
-- [css girl](https://dev.to/kemiowoyele1/css-girl-adc)
+- [run.bash &amp; migrate.bash - Pimpe deine .bashrc auf 🔝🔥](https://dev.to/rubenvoss/runbash-migratebash-pimpe-deine-bashrc-auf-307h)
+- [Workflow and Internal Mechanics of CSS with PostCSS and Vite](https://dev.to/dev_raghvendra/workflow-and-internal-mechanics-of-css-with-postcss-and-vite-9o1)
+- [Seeking for A SKILLED Golang Developer &lpar;URGENT HIRING *&rpar;](https://dev.to/andrew_king_cd5fbd2e15d08/seeking-for-a-skilled-golang-developer-urgent-hiring--3il4)
+- [Exploring Destructuring in JS](https://dev.to/daniel_trejo_a04c7df29ef8/exploring-destructuring-in-js-114j)
 <!-- BLOG-POST-LIST:END -->
 
