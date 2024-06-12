@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7 of Machine Learning|| Linear Regression Part 1](https://dev.to/ngneha09/day-7-of-machine-learning-linear-regression-part-1-5ffe)
-- [Build your own image gallery CMS](https://dev.to/xata/build-your-own-image-gallery-cms-4pao)
-- [TypeScript Tales: Unraveling Abstracts and Interfaces](https://dev.to/bilelsalemdev/typescript-tales-unraveling-abstracts-and-interfaces-3bhf)
-- [How to run Ansible on Windows?](https://dev.to/devopspass-ai/how-to-run-ansible-on-windows-1l9k)
+- [Accelerating into AI: Lessons from AWS](https://dev.to/kitops/accelerating-into-ai-lessons-from-aws-4cl2)
+- [How to create an npm package + CI/CD in 10 minutes](https://dev.to/luizrebelatto/how-to-create-an-npm-package-cicd-in-10-minutes-47l1)
+- [How To Build A WordPress Site From Scratch](https://dev.to/sirgicheha/how-to-create-a-wordpress-site-from-scratch-3o7l)
+- [Want to deploy Puppeter or chrome-browser](https://dev.to/om0509/want-to-deploy-pupeeter-or-chrome-browser-lk4)
 <!-- BLOG-POST-LIST:END -->
 
