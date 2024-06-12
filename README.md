@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring TypeScript Functions: A Comprehensive Guide](https://dev.to/hasancse/exploring-typescript-functions-a-comprehensive-guide-3hii)
-- [On Writing a Sane API](https://dev.to/jackmacwindows/on-writing-a-sane-api-4enm)
-- [Introducing LaravelCart: A Streamlined Shopping Cart Solution for Laravel Developers](https://dev.to/abiruzzamanmolla/introducing-laravelcart-a-streamlined-shopping-cart-solution-for-laravel-developers-287a)
-- [API Architecture Styles: Sockets](https://dev.to/team3/api-architecture-styles-sockets-11o4)
+- [TIL: How to declutter sites with uBlock Origin filters](https://dev.to/canro91/til-how-to-declutter-sites-with-ublock-origin-filters-503h)
+- [From Keyframes to Keycaps: A Journey Through Animation Design](https://dev.to/shieldstring/from-keyframes-to-keycaps-a-journey-through-animation-design-419c)
+- [Get Geeky with Python: Build a System Monitor with Flair](https://dev.to/pranjol-dev/get-geeky-with-python-build-a-system-monitor-with-flair-gh2)
+- [How to resolve Docker Compose Warning WARN[0000] Found orphan containers](https://dev.to/almatins/how-to-resolve-docker-compose-warning-warn0000-found-orphan-containers-4dfi)
 <!-- BLOG-POST-LIST:END -->
 
