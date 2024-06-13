@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Differences Between &quot;Test Coverage&quot; and &quot;Code Coverage&quot;](https://dev.to/accreditly/the-differences-between-test-coverage-and-code-coverage-20fc)
-- [Don&#39;t worry! Deploy! Metis has your database covered.](https://dev.to/metis/dont-worry-deploy-metis-has-your-database-covered-4jj)
-- [Importance of CyberSecurity](https://dev.to/deepesh_patil_611/importance-of-cybersecurity-11h1)
-- [CVA vs. Tailwind Variants: Choosing the Right Tool for Your Design System](https://dev.to/suhag_lapani_ac1bd0b026f2/cva-vs-tailwind-variants-choosing-the-right-tool-for-your-design-system-12am)
+- [Tech Stack for Minimalists [FTMHP] 👌](https://dev.to/rudransh61/tech-stack-for-minimalists-ftmhp-1n48)
+- [Random and fixed routes with Apache APISIX](https://dev.to/apisix/random-and-fixed-routes-with-apache-apisix-12b)
+- [Awesome GitHub Profile](https://dev.to/zemerik/awesome-github-profile-5bc5)
+- [ReductStore v1.10.0: downsampling and optimization](https://dev.to/reductstore/reductstore-v1100-downsampling-and-optimization-27h3)
 <!-- BLOG-POST-LIST:END -->
 
