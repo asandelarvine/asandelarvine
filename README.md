@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t refactor the code](https://dev.to/katafrakt/dont-refactor-the-code-igk)
-- [Redux: As a beginner](https://dev.to/georgiosdrivas/redux-as-a-beginner-5akb)
-- [Error after upgrade on Ubuntu 24.04 &quot;Oh no! Something went wrong&quot;](https://dev.to/justplegend/error-after-upgrade-on-ubuntu-2404-oh-no-something-went-wrong-1840)
-- [2037. Minimum Number of Moves to Seat Everyone](https://dev.to/mdarifulhaque/2037-minimum-number-of-moves-to-seat-everyone-164a)
+- [Unlocking the Power of Bing Search Engine API: Your Guide to a Free Search API](https://dev.to/sameeranthony/unlocking-the-power-of-bing-search-engine-api-your-guide-to-a-free-search-api-14ff)
+- [Secure Your Applications: Introducing CyberSentinel&#39;s Powerful APIs](https://dev.to/pr0biex/secure-your-applications-introducing-cybersentinels-powerful-apis-9da)
+- [STEPS IN DEPLOYING WINDOW 11 VM ON AZURE.](https://dev.to/collins_uwa_1f4dc406f079c/steps-in-deploying-window-11-vm-on-azure-31n6)
+- [Simplifying Selenium Projects with Containerized Chrome](https://dev.to/mohitmajumdar/simplifying-selenium-projects-with-containerized-chrome-43ll)
 <!-- BLOG-POST-LIST:END -->
 
