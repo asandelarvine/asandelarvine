@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: AI](https://dev.to/r4nd3l/dev-ai-29ll)
-- [Creating an AI-driven experience using Twilio](https://dev.to/hussein09/creating-an-ai-driven-experience-using-twilio-31he)
-- [Let&#39;s Build HTTP Client From Scratch In Rust](https://dev.to/hiro_111/lets-build-http-client-from-scratch-in-rust-46ad)
-- [Babylon.js Browser MMORPG - DevLog - Update #10- Entities interpolation](https://dev.to/maiu/babylonjs-browser-mmorpg-devlog-update-10-entities-interpolation-2a9g)
+- [Cyclic has shut down and I am migrating my data to another service](https://dev.to/devlawrence/cyclic-has-shut-down-and-i-am-migrating-my-data-to-another-service-4nj6)
+- [Docker + MariaDB](https://dev.to/thiagoeti/docker-mariadb-4n2c)
+- [Github - Organization&lpar;Demo&rpar;](https://dev.to/learnwithsrini/github-organizationdemo-3p89)
+- [DEV Computer Science Challenge v24.06.12 : Recursion](https://dev.to/therbstar/dev-computer-science-challenge-v240612-recursion-28ik)
 <!-- BLOG-POST-LIST:END -->
 
