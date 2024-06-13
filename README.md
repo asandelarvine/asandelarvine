@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Bing Search Engine API: Your Guide to a Free Search API](https://dev.to/sameeranthony/unlocking-the-power-of-bing-search-engine-api-your-guide-to-a-free-search-api-14ff)
-- [Secure Your Applications: Introducing CyberSentinel&#39;s Powerful APIs](https://dev.to/pr0biex/secure-your-applications-introducing-cybersentinels-powerful-apis-9da)
-- [STEPS IN DEPLOYING WINDOW 11 VM ON AZURE.](https://dev.to/collins_uwa_1f4dc406f079c/steps-in-deploying-window-11-vm-on-azure-31n6)
-- [Simplifying Selenium Projects with Containerized Chrome](https://dev.to/mohitmajumdar/simplifying-selenium-projects-with-containerized-chrome-43ll)
+- [Harnessing the Power of React&#39;s useContext Hook: Simplifying State Management in Complex Applications](https://dev.to/mahabubr/harnessing-the-power-of-reacts-usecontext-hook-simplifying-state-management-in-complex-applications-46ne)
+- [EF Core 8 Update Entity](https://dev.to/karenpayneoregon/ef-core-8-update-entity-37il)
+- [Programação Orientada a Objetos: Abstração](https://dev.to/fabianoflorentino/programacao-orientada-a-objetos-abstracao-157o)
+- [Netex Server - Netex Sensör - Ağ Keşif Eklentisi](https://dev.to/aciklab/netex-server-netex-sensor-ag-kesif-eklentisi-5c6a)
 <!-- BLOG-POST-LIST:END -->
 
