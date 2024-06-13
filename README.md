@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One-Byte: CAP Theorem](https://dev.to/stunspot/one-byte-cap-theorem-107i)
-- [Design Pattern #2 - Facade Pattern](https://dev.to/superviz/design-pattern-2-facade-pattern-1dhl)
-- [LeetCode Day7 String Part.1](https://dev.to/flame_chan_llll/leetcode-day8-string-3mln)
-- [Deploying and Connecting to a Virtual Machine in Azure.](https://dev.to/tojumercy1/deploying-and-connecting-to-a-virtual-machine-in-azure-373o)
+- [Navbar component](https://dev.to/kamalkant_nawal_1c6234c37/navbar-component-2p5i)
+- [Understanding Types and Interfaces in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/understanding-types-and-interfaces-in-typescript-a-comprehensive-guide-1pm7)
+- [Introduction to Sorting Algorithms in JavaScript](https://dev.to/alexmercedcoder/introduction-to-sorting-algorithms-in-javascript-b60)
+- [Currying function🤓](https://dev.to/__khojiakbar__/currying-function-1f7a)
 <!-- BLOG-POST-LIST:END -->
 
