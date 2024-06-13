@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NextJS Discord Bot | Create and host a bot for free.](https://dev.to/mmvergara/nextjs-discord-bot-create-and-host-a-bot-for-free-26jo)
-- [Running a Node Service with PM2](https://dev.to/spiritmoney/running-a-node-service-with-pm2-3319)
-- [Python Basics Cheat Sheet](https://dev.to/documendous/python-basics-cheat-sheet-3edj)
-- [Instant 3D Human Avatar Generation using Image Diffusion Models](https://dev.to/mikeyoung44/instant-3d-human-avatar-generation-using-image-diffusion-models-3mnl)
+- [Sponsor your repo! Down below!](https://dev.to/litlyx/sponsor-your-repo-down-below-5hl0)
+- [Build an AI Business Proposal Writer Using Gemini API and ToolJet in 10 minutes](https://dev.to/tooljet/build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j)
+- [Process of System Development: An Example of TMB Net Banking Login System](https://dev.to/ray_parker01/process-of-system-development-an-example-of-tmb-net-banking-login-system-54pm)
+- [Deep learning with cats](https://dev.to/mishmanners/deep-learning-with-cats-5ae1)
 <!-- BLOG-POST-LIST:END -->
 
