@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navbar component](https://dev.to/kamalkant_nawal_1c6234c37/navbar-component-2p5i)
-- [Understanding Types and Interfaces in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/understanding-types-and-interfaces-in-typescript-a-comprehensive-guide-1pm7)
-- [Introduction to Sorting Algorithms in JavaScript](https://dev.to/alexmercedcoder/introduction-to-sorting-algorithms-in-javascript-b60)
-- [Currying function🤓](https://dev.to/__khojiakbar__/currying-function-1f7a)
+- [How I became a Software Engineer and how it’s going.](https://dev.to/rob097/how-i-became-a-software-engineer-and-how-its-going-5cj7)
+- [Build an Antivirus with Python &lpar;Beginners Guide&rpar;](https://dev.to/scofieldidehen/build-an-antivirus-with-python-beginners-guide-16oh)
+- [Implement JWT Refresh Token Authentication with Elysia JS and Prisma: A Step-by-Step Guide](https://dev.to/harshmangalam/implement-jwt-refresh-token-authentication-with-elysia-js-and-prisma-a-step-by-step-guide-1dc)
+- [HANCITOR - TRAFFIC ANALYSIS - SOL-LIGHTNET](https://dev.to/mihika/hancitor-traffic-analysis-sol-lightnet-1m7n)
 <!-- BLOG-POST-LIST:END -->
 
