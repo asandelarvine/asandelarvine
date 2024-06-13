@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech programming](https://dev.to/hussein09/tech-programming-co0)
-- [Mastering Immutable Types with TypeScript `as const`](https://dev.to/adeelibr/mastering-immutable-types-with-typescript-as-const-gh1)
-- [4 Ways to backup mySql database to a csv file](https://dev.to/instanceofgod/4-ways-to-backup-mysql-database-to-a-csv-file-3e9j)
-- [Look what they need to mimic a fraction of our power](https://dev.to/manuartero/look-what-they-need-to-mimic-a-fraction-of-our-power-40j)
+- [NextJS Discord Bot | Create and host a bot for free.](https://dev.to/mmvergara/nextjs-discord-bot-create-and-host-a-bot-for-free-26jo)
+- [Running a Node Service with PM2](https://dev.to/spiritmoney/running-a-node-service-with-pm2-3319)
+- [Python Basics Cheat Sheet](https://dev.to/documendous/python-basics-cheat-sheet-3edj)
+- [Instant 3D Human Avatar Generation using Image Diffusion Models](https://dev.to/mikeyoung44/instant-3d-human-avatar-generation-using-image-diffusion-models-3mnl)
 <!-- BLOG-POST-LIST:END -->
 
