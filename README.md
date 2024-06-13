@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between APIs and Endpoints](https://dev.to/msnmongare/understanding-the-difference-between-apis-and-endpoints-402a)
-- [Big O Notation](https://dev.to/bpk45_0670a02e0f3a6839b3a/big-o-notation-3nnf)
-- [Step-by-Step Guide for Web Scraping Using BeautifulSoup](https://dev.to/ionegarza/step-by-step-guide-for-web-scraping-using-beautifulsoup-hcd)
-- [Continuous Integration Testing: Streamlining Software Development and Ensuring Quality](https://dev.to/keploy/continuous-integration-testing-streamlining-software-development-and-ensuring-quality-10mc)
+- [The Differences Between &quot;Test Coverage&quot; and &quot;Code Coverage&quot;](https://dev.to/accreditly/the-differences-between-test-coverage-and-code-coverage-20fc)
+- [Don&#39;t worry! Deploy! Metis has your database covered.](https://dev.to/metis/dont-worry-deploy-metis-has-your-database-covered-4jj)
+- [Importance of CyberSecurity](https://dev.to/deepesh_patil_611/importance-of-cybersecurity-11h1)
+- [CVA vs. Tailwind Variants: Choosing the Right Tool for Your Design System](https://dev.to/suhag_lapani_ac1bd0b026f2/cva-vs-tailwind-variants-choosing-the-right-tool-for-your-design-system-12am)
 <!-- BLOG-POST-LIST:END -->
 
