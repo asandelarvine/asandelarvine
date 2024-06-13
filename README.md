@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing the Power of React&#39;s useContext Hook: Simplifying State Management in Complex Applications](https://dev.to/mahabubr/harnessing-the-power-of-reacts-usecontext-hook-simplifying-state-management-in-complex-applications-46ne)
-- [EF Core 8 Update Entity](https://dev.to/karenpayneoregon/ef-core-8-update-entity-37il)
-- [Programação Orientada a Objetos: Abstração](https://dev.to/fabianoflorentino/programacao-orientada-a-objetos-abstracao-157o)
-- [Netex Server - Netex Sensör - Ağ Keşif Eklentisi](https://dev.to/aciklab/netex-server-netex-sensor-ag-kesif-eklentisi-5c6a)
+- [Dev: AI](https://dev.to/r4nd3l/dev-ai-29ll)
+- [Creating an AI-driven experience using Twilio](https://dev.to/hussein09/creating-an-ai-driven-experience-using-twilio-31he)
+- [Let&#39;s Build HTTP Client From Scratch In Rust](https://dev.to/hiro_111/lets-build-http-client-from-scratch-in-rust-46ad)
+- [Babylon.js Browser MMORPG - DevLog - Update #10- Entities interpolation](https://dev.to/maiu/babylonjs-browser-mmorpg-devlog-update-10-entities-interpolation-2a9g)
 <!-- BLOG-POST-LIST:END -->
 
