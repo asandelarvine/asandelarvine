@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello DEV Community! 👋](https://dev.to/techgirlkaydee/hello-dev-community-4mb2)
-- [One-shot migration from Create React App to Vite](https://dev.to/bhbs/one-shot-migration-from-create-react-app-to-vite-f3)
-- [Making Serverless 15x Cheaper](https://dev.to/dbos/making-serverless-15x-cheaper-751)
-- [Why I Recommend SQLynx as the Best SQL IDE](https://dev.to/concerate/why-i-recommend-sqlynx-as-the-best-sql-ide-316l)
+- [Alternatives to npm: Exploring Different Package Managers for JavaScript Development](https://dev.to/vyan/alternatives-to-npm-exploring-different-package-managers-for-javascript-development-1h7g)
+- [Fastest Way To Learn a Programming Language](https://dev.to/thekarlesi/fastest-way-to-learn-a-programming-language-2kc3)
+- [How to efficiently use drf_social_oauth2 and django_rest_framework_simplejwt](https://dev.to/codewitgabi/how-to-efficiently-use-drfsocialoauth2-and-djangorestframeworksimplejwt-23i5)
+- [Gemika&#39;s Awesome Git Adventures: A Fun Guide to Coding Magic! 🧙‍♂️✨](https://dev.to/gerryleonugroho/gemikas-awesome-git-adventures-a-fun-guide-to-coding-magic--4p49)
 <!-- BLOG-POST-LIST:END -->
 
