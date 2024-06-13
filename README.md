@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I became a Software Engineer and how it’s going.](https://dev.to/rob097/how-i-became-a-software-engineer-and-how-its-going-5cj7)
-- [Build an Antivirus with Python &lpar;Beginners Guide&rpar;](https://dev.to/scofieldidehen/build-an-antivirus-with-python-beginners-guide-16oh)
-- [Implement JWT Refresh Token Authentication with Elysia JS and Prisma: A Step-by-Step Guide](https://dev.to/harshmangalam/implement-jwt-refresh-token-authentication-with-elysia-js-and-prisma-a-step-by-step-guide-1dc)
-- [HANCITOR - TRAFFIC ANALYSIS - SOL-LIGHTNET](https://dev.to/mihika/hancitor-traffic-analysis-sol-lightnet-1m7n)
+- [Code Diagrams - 3 Tools to Try](https://dev.to/danielwarner/code-diagrams-3-tools-to-try-1ef2)
+- [30 Days of AWS- Part 2: AWS Compute](https://dev.to/achenchi/30-days-of-aws-part-2-aws-compute-4f3i)
+- [I Learned JavaScript &amp; Made A Web App That Went Viral 🤯](https://dev.to/rammcodes/i-learned-javascript-made-a-web-app-that-went-viral-3no0)
+- [Task - 15](https://dev.to/mohamed_shajan/task-15-1l9g)
 <!-- BLOG-POST-LIST:END -->
 
