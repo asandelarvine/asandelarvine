@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Diagrams - 3 Tools to Try](https://dev.to/danielwarner/code-diagrams-3-tools-to-try-1ef2)
-- [30 Days of AWS- Part 2: AWS Compute](https://dev.to/achenchi/30-days-of-aws-part-2-aws-compute-4f3i)
-- [I Learned JavaScript &amp; Made A Web App That Went Viral 🤯](https://dev.to/rammcodes/i-learned-javascript-made-a-web-app-that-went-viral-3no0)
-- [Task - 15](https://dev.to/mohamed_shajan/task-15-1l9g)
+- [Don&#39;t refactor the code](https://dev.to/katafrakt/dont-refactor-the-code-igk)
+- [Redux: As a beginner](https://dev.to/georgiosdrivas/redux-as-a-beginner-5akb)
+- [Error after upgrade on Ubuntu 24.04 &quot;Oh no! Something went wrong&quot;](https://dev.to/justplegend/error-after-upgrade-on-ubuntu-2404-oh-no-something-went-wrong-1840)
+- [2037. Minimum Number of Moves to Seat Everyone](https://dev.to/mdarifulhaque/2037-minimum-number-of-moves-to-seat-everyone-164a)
 <!-- BLOG-POST-LIST:END -->
 
