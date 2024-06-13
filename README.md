@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Unlock the Magic of Popover Toggletips &amp; Anchor Positioning!](https://dev.to/adam/unlock-the-magic-of-popover-toggletips-anchor-positioning-2olf)
-- [☁️Cloud Computing☁️😺](https://dev.to/banega00/cloud-computing-2op7)
-- [Understanding Terraform: A Guide to Effective IaC Practices](https://dev.to/hassan_aftab/understanding-terraform-a-guide-to-effective-iac-practices-28pn)
-- [Clean Code With AI](https://dev.to/mcsee/clean-code-with-ai-4kck)
+- [Hello DEV Community! 👋](https://dev.to/techgirlkaydee/hello-dev-community-4mb2)
+- [One-shot migration from Create React App to Vite](https://dev.to/bhbs/one-shot-migration-from-create-react-app-to-vite-f3)
+- [Making Serverless 15x Cheaper](https://dev.to/dbos/making-serverless-15x-cheaper-751)
+- [Why I Recommend SQLynx as the Best SQL IDE](https://dev.to/concerate/why-i-recommend-sqlynx-as-the-best-sql-ide-316l)
 <!-- BLOG-POST-LIST:END -->
 
