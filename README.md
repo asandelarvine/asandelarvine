@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing coroutines in Swift using Swift Concurrency](https://dev.to/jackmacwindows/implementing-coroutines-in-swift-using-swift-concurrency-453g)
-- [Creating AI Applications with Pixie: A Step-by-Step Guide](https://dev.to/gptconsole/creating-ai-applications-with-pixie-a-step-by-step-guide-1bfn)
-- [Beware of Memory Leaks: How Node.js Timeouts Can Cause Major Issues](https://dev.to/srijan_karki/nodejs-timeouts-and-memory-leaks-3l64)
-- [Node.js Timeouts and Memory Leaks](https://dev.to/srijan_karki/nodejs-timeouts-and-memory-leaks-5g1p)
+- [Understanding Tokens in Node.js and NestJS 🚀](https://dev.to/shahharsh/understanding-tokens-in-nodejs-and-nestjs-4a55)
+- [Write content to file in Magento2](https://dev.to/pabodah/write-content-to-file-in-magento2-aa5)
+- [The Future of Web Development: Exploring WebAssembly &lpar;Wasm&rpar;](https://dev.to/a_a_b6c834ea264e0ac7ef46c/the-future-of-web-development-exploring-webassembly-wasm-5b5k)
+- [Exploring Python Coverage Tools: Enhancing Testing Effectiveness](https://dev.to/keploy/exploring-python-coverage-tools-enhancing-testing-effectiveness-in0)
 <!-- BLOG-POST-LIST:END -->
 
