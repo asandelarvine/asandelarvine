@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sponsor your repo! Down below!](https://dev.to/litlyx/sponsor-your-repo-down-below-5hl0)
-- [Build an AI Business Proposal Writer Using Gemini API and ToolJet in 10 minutes](https://dev.to/tooljet/build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j)
-- [Process of System Development: An Example of TMB Net Banking Login System](https://dev.to/ray_parker01/process-of-system-development-an-example-of-tmb-net-banking-login-system-54pm)
-- [Deep learning with cats](https://dev.to/mishmanners/deep-learning-with-cats-5ae1)
+- [Meilleures pratiques pour créer une application Express.js](https://dev.to/land-bit/meilleures-pratiques-pour-creer-une-application-expressjs-1e5b)
+- [Super useful console.log tricks](https://dev.to/dhanushnehru/super-useful-consolelog-tricks-222d)
+- [Convert YouTube Video to Podcast with Python](https://dev.to/stokry/convert-youtube-video-to-podcast-with-python-405b)
+- [Leveraging PostGIS to Write And Read FlatGeobuf Files](https://dev.to/spwoodcock/leveraging-postgis-to-write-and-read-flatgeobuf-files-1bp2)
 <!-- BLOG-POST-LIST:END -->
 
