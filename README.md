@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Layouts Work in Rails](https://dev.to/railsdesigner/how-layouts-work-in-rails-2cfl)
-- [Tools and Tool_Choice - Azure GPT4](https://dev.to/praveenr2998/tools-and-toolchoice-azure-gpt4-4f81)
-- [UUID: A Profundidade dos Identificadores Únicos Universais](https://dev.to/iamthiago/uuid-a-profundidade-dos-identificadores-unicos-universais-2ced)
-- [The Bug Bounty Dilemma: Are We Rewarding Skills or Exploits in Blockchain?](https://dev.to/calyptus_ninja/the-bug-bounty-dilemma-are-we-rewarding-skills-or-exploits-in-blockchain-1f1p)
+- [Tech programming](https://dev.to/hussein09/tech-programming-co0)
+- [Mastering Immutable Types with TypeScript `as const`](https://dev.to/adeelibr/mastering-immutable-types-with-typescript-as-const-gh1)
+- [4 Ways to backup mySql database to a csv file](https://dev.to/instanceofgod/4-ways-to-backup-mysql-database-to-a-csv-file-3e9j)
+- [Look what they need to mimic a fraction of our power](https://dev.to/manuartero/look-what-they-need-to-mimic-a-fraction-of-our-power-40j)
 <!-- BLOG-POST-LIST:END -->
 
