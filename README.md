@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Stack for Minimalists [FTMHP] 👌](https://dev.to/rudransh61/tech-stack-for-minimalists-ftmhp-1n48)
-- [Random and fixed routes with Apache APISIX](https://dev.to/apisix/random-and-fixed-routes-with-apache-apisix-12b)
-- [Awesome GitHub Profile](https://dev.to/zemerik/awesome-github-profile-5bc5)
-- [ReductStore v1.10.0: downsampling and optimization](https://dev.to/reductstore/reductstore-v1100-downsampling-and-optimization-27h3)
+- [How Layouts Work in Rails](https://dev.to/railsdesigner/how-layouts-work-in-rails-2cfl)
+- [Tools and Tool_Choice - Azure GPT4](https://dev.to/praveenr2998/tools-and-toolchoice-azure-gpt4-4f81)
+- [UUID: A Profundidade dos Identificadores Únicos Universais](https://dev.to/iamthiago/uuid-a-profundidade-dos-identificadores-unicos-universais-2ced)
+- [The Bug Bounty Dilemma: Are We Rewarding Skills or Exploits in Blockchain?](https://dev.to/calyptus_ninja/the-bug-bounty-dilemma-are-we-rewarding-skills-or-exploits-in-blockchain-1f1p)
 <!-- BLOG-POST-LIST:END -->
 
