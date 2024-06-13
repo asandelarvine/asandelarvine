@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meilleures pratiques pour créer une application Express.js](https://dev.to/land-bit/meilleures-pratiques-pour-creer-une-application-expressjs-1e5b)
-- [Super useful console.log tricks](https://dev.to/dhanushnehru/super-useful-consolelog-tricks-222d)
-- [Convert YouTube Video to Podcast with Python](https://dev.to/stokry/convert-youtube-video-to-podcast-with-python-405b)
-- [Leveraging PostGIS to Write And Read FlatGeobuf Files](https://dev.to/spwoodcock/leveraging-postgis-to-write-and-read-flatgeobuf-files-1bp2)
+- [One-Byte: CAP Theorem](https://dev.to/stunspot/one-byte-cap-theorem-107i)
+- [Design Pattern #2 - Facade Pattern](https://dev.to/superviz/design-pattern-2-facade-pattern-1dhl)
+- [LeetCode Day7 String Part.1](https://dev.to/flame_chan_llll/leetcode-day8-string-3mln)
+- [Deploying and Connecting to a Virtual Machine in Azure.](https://dev.to/tojumercy1/deploying-and-connecting-to-a-virtual-machine-in-azure-373o)
 <!-- BLOG-POST-LIST:END -->
 
