@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Tokens in Node.js and NestJS 🚀](https://dev.to/shahharsh/understanding-tokens-in-nodejs-and-nestjs-4a55)
-- [Write content to file in Magento2](https://dev.to/pabodah/write-content-to-file-in-magento2-aa5)
-- [The Future of Web Development: Exploring WebAssembly &lpar;Wasm&rpar;](https://dev.to/a_a_b6c834ea264e0ac7ef46c/the-future-of-web-development-exploring-webassembly-wasm-5b5k)
-- [Exploring Python Coverage Tools: Enhancing Testing Effectiveness](https://dev.to/keploy/exploring-python-coverage-tools-enhancing-testing-effectiveness-in0)
+- [&lt;h1&gt;&lt;/h1&gt;](https://dev.to/aishik_chatterjee_0060e71/-54f1)
+- [&lt;h1&gt;&lt;/h1&gt;](https://dev.to/aishik_chatterjee_0060e71/-979)
+- [Warning for Front-End Dev Careers!](https://dev.to/jobreadyprogrammer/warning-for-front-end-dev-careers-224k)
+- [Apple&#39;s new feature that just killed my startup 🤯](https://dev.to/darkinventor/apple-just-killed-my-startup-with-its-apple-intelligence-integration-1ihj)
 <!-- BLOG-POST-LIST:END -->
 
