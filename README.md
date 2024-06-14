@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Litlyx | The One-Line Code Analytics | Plug anywhere!](https://dev.to/litlyx/litlyx-the-one-line-code-analytics-plug-anywhere-e6h)
-- [Sending GitHub Secrets to Docker Apps on VMs Using adnanh/webhooks](https://dev.to/burgossrodrigo/sending-github-secrets-to-docker-apps-on-vms-using-adnanhwebhooks-1jdo)
-- [Como fui aprovada em Duas Iniciações Cientificas: Uma Com Bolsa e Outra Voluntária](https://dev.to/ianevictoria/como-fui-aprovada-em-duas-iniciacoes-cientificas-uma-com-bolsa-e-outra-voluntaria-1pf1)
-- [P vs NP Problem](https://dev.to/syedmuhammadaliraza/p-vs-np-problem-4hai)
+- [Day 971 : The Upgrade](https://dev.to/dwane/day-971-the-upgrade-5212)
+- [Unique combinations of a string](https://dev.to/johnscode/unique-combinations-of-a-string-ekj)
+- [Security news weekly round-up - 14th June 2024](https://dev.to/ziizium/security-news-weekly-round-up-14th-june-2024-8ac)
+- [Playwright with Python - A Quick Guide](https://dev.to/lrenzi/playwright-with-python-a-quick-guide-356p)
 <!-- BLOG-POST-LIST:END -->
 
