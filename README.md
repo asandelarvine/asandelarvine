@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [User Story EP3: How to Practice LeetCode Problems](https://dev.to/marscode/user-story-ep3-how-to-practice-leetcode-problems-5elj)
-- [Understanding How APIs Make AI Work](https://dev.to/nextjswebdev/understanding-how-apis-make-ai-work-7oa)
-- [The activation functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-activation-functions-for-neural-network-in-pytorch-1jpm)
-- [Test Data Generator: A Vital Tool in Software Development](https://dev.to/keploy/test-data-generator-a-vital-tool-in-software-development-205k)
+- [Top 10 App Stores with High Traffic for Publishing Your Apps | Google Play Store Alternatives](https://dev.to/sh20raj/top-10-app-stores-with-high-traffic-for-publishing-your-apps-google-play-store-alternatives-58k3)
+- [Stage &lpar;1/30&rpar;: Intro to Computer programming &amp; Java](https://dev.to/khalid1718/stage-130-intro-to-computer-programming-java-4jd9)
+- [Angular 18 app | Zoneless All the way](https://dev.to/john_kirathe/angular-18-app-zoneless-all-the-way-2nbb)
+- [how to build server-side rendered React apps using ReactJS with Next.js](https://dev.to/milanpanchasara/how-to-build-server-side-rendered-react-apps-using-reactjs-with-nextjs-509h)
 <!-- BLOG-POST-LIST:END -->
 
