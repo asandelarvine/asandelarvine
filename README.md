@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 App Stores with High Traffic for Publishing Your Apps | Google Play Store Alternatives](https://dev.to/sh20raj/top-10-app-stores-with-high-traffic-for-publishing-your-apps-google-play-store-alternatives-58k3)
-- [Stage &lpar;1/30&rpar;: Intro to Computer programming &amp; Java](https://dev.to/khalid1718/stage-130-intro-to-computer-programming-java-4jd9)
-- [Angular 18 app | Zoneless All the way](https://dev.to/john_kirathe/angular-18-app-zoneless-all-the-way-2nbb)
-- [how to build server-side rendered React apps using ReactJS with Next.js](https://dev.to/milanpanchasara/how-to-build-server-side-rendered-react-apps-using-reactjs-with-nextjs-509h)
+- [INTERVIEW Question : Local Storage - Access between Tabs](https://dev.to/zeeshanali0704/interview-question-local-storage-access-between-tabs-5aol)
+- [Mon aventure en tant que stagiaire chez Kali Academy : Une immersion dans l&#39;open source](https://dev.to/land-bit/mon-aventure-en-tant-que-stagiaire-chez-kali-academy-une-immersion-dans-lopen-source-1an)
+- [Copy Javascript Object from Safari Browser Console](https://dev.to/dinesh_d/copy-javascript-object-from-safari-browser-console-4kfl)
+- [Why iOS beta versions don&#39;t belong on everyday devices](https://dev.to/disane/why-ios-beta-versions-dont-belong-on-everyday-devices-1blc)
 <!-- BLOG-POST-LIST:END -->
 
