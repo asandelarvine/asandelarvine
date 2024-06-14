@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose for a Full-Stack Application with React, Node.js, and PostgreSQL](https://dev.to/snigdho611/docker-compose-for-a-full-stack-application-with-react-nodejs-and-postgresql-3kdl)
-- [Introduction to HTML: The Backbone of the Web by Michael Savage](https://dev.to/savagenewcanaan/introduction-to-html-the-backbone-of-the-web-48m)
-- [How to use of post method in react js](https://dev.to/04anilr/how-to-use-of-post-method-in-react-js-k99)
-- [How to use of post method in react js](https://dev.to/04anilr/how-to-use-of-post-method-in-react-js-48l7)
+- [How Internet Search Works](https://dev.to/jay818/how-internet-search-works-5fma)
+- [Exploring Common JavaScript Methods](https://dev.to/jlotti2/exploring-common-javascript-methods-35np)
+- [Step by Step Guide to Create Deploy and Connect to a Virtual Machine on Azure](https://dev.to/florence_8042063da11e29d1/step-by-step-guide-to-create-deploy-and-connect-to-a-virtual-machine-on-azure-1b00)
+- [Eclipse Shortcuts for Java Developers](https://dev.to/marudhu99/eclipse-shortcuts-for-java-developers-1la5)
 <!-- BLOG-POST-LIST:END -->
 
