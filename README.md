@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🙅 Why I don&#39;t use AI as my copilot 🤖](https://dev.to/middleware/why-i-dont-use-ai-as-my-copilot-47k3)
-- [Laravel Scope to get locations nearest the user location](https://dev.to/johndivam/laravel-scope-to-get-locations-nearest-the-user-location-2fk5)
-- [How to Become a Professional .NET Developer in 2024](https://dev.to/turalsuleymani/how-to-become-a-professional-net-developer-in-2024-2nip)
-- [Virtualization 256 chars](https://dev.to/fmalk/virtualization-256-chars-444k)
+- [Litlyx | The One-Line Code Analytics | Plug anywhere!](https://dev.to/litlyx/litlyx-the-one-line-code-analytics-plug-anywhere-e6h)
+- [Sending GitHub Secrets to Docker Apps on VMs Using adnanh/webhooks](https://dev.to/burgossrodrigo/sending-github-secrets-to-docker-apps-on-vms-using-adnanhwebhooks-1jdo)
+- [Como fui aprovada em Duas Iniciações Cientificas: Uma Com Bolsa e Outra Voluntária](https://dev.to/ianevictoria/como-fui-aprovada-em-duas-iniciacoes-cientificas-uma-com-bolsa-e-outra-voluntaria-1pf1)
+- [P vs NP Problem](https://dev.to/syedmuhammadaliraza/p-vs-np-problem-4hai)
 <!-- BLOG-POST-LIST:END -->
 
