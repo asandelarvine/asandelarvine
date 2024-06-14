@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 of my progress as a vue dev](https://dev.to/zain725342/day-18-of-my-progress-as-a-vue-dev-17c4)
-- [Create a Web API with MongoDB](https://dev.to/vzldev/create-a-web-api-with-mongodb-16kn)
-- [Version Control Best Practices with Git and GitHub](https://dev.to/haseebmirza/version-control-best-practices-with-git-and-github-364h)
-- [CVPR Pre-Show: Open3DSG: an Open-Vocabulary 3D Scene Graph Generation Method](https://dev.to/voxel51/unpublished-video-586k-4c4)
+- [Docker Compose for a Full-Stack Application with React, Node.js, and PostgreSQL](https://dev.to/snigdho611/docker-compose-for-a-full-stack-application-with-react-nodejs-and-postgresql-3kdl)
+- [Introduction to HTML: The Backbone of the Web by Michael Savage](https://dev.to/savagenewcanaan/introduction-to-html-the-backbone-of-the-web-48m)
+- [How to use of post method in react js](https://dev.to/04anilr/how-to-use-of-post-method-in-react-js-k99)
+- [How to use of post method in react js](https://dev.to/04anilr/how-to-use-of-post-method-in-react-js-48l7)
 <!-- BLOG-POST-LIST:END -->
 
