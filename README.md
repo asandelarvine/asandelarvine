@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More on Exception Handling](https://dev.to/paulike/more-on-exception-handling-529c)
-- [How to Invoke the Same API with Varying Parameters](https://dev.to/satokenta/how-to-invoke-the-same-api-with-varying-parameters-3aaf)
-- [Difference between Docker, Kubernetes, and Podman for System Design Interview?](https://dev.to/somadevtoo/difference-between-docker-kubernetes-and-podman-for-system-design-interview-3an6)
-- [One Byte Explainer](https://dev.to/sharmi2020/one-byte-explainer-57b0)
+- [ReactJS vs NextJS: A Comprehensive Comparison for JavaScript Enthusiasts.🚀](https://dev.to/dharamgfx/reactjs-vs-nextjs-a-comprehensive-comparison-for-javascript-enthusiasts-18o)
+- [How to delete the content of the selected cell using hotkeys in VTable?](https://dev.to/fangsmile/how-to-delete-the-content-of-the-selected-cell-using-hotkeys-in-vtable-4p0)
+- [The File Class](https://dev.to/paulike/the-file-class-f7h)
+- [Hey there Folks - It&#39;s my First Post !](https://dev.to/tonic/hey-there-folks-its-my-first-post--52k)
 <!-- BLOG-POST-LIST:END -->
 
