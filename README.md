@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Enums are *more than ok*](https://dev.to/boscodomingo/typescript-enums-are-more-than-ok-ed6)
-- [Ağ Keşif - SNMP Keşif Oluşturma](https://dev.to/aciklab/ag-kesif-snmp-kesif-olusturma-3e0h)
-- [How Deutsche Telekom MMS optimizes Ansible Playbooks with Steampunk Spotter](https://dev.to/xlab_steampunk/how-deutsche-telekom-mms-optimizes-ansible-playbooks-with-steampunk-spotter-n26)
-- [Create your game with Octokit: The first ever Text-to-game AI generator](https://dev.to/bui/create-your-game-with-octokit-the-first-ever-text-to-game-ai-generator-502b)
+- [Object Oriented Programming](https://dev.to/efpage/object-oriente-programming-4c8a)
+- [Multifunctional IDE using Neovim &lpar;3 of 3&rpar;](https://dev.to/alekanteri/multifunctional-ide-using-neovim-3-of-3-1d62)
+- [OPAL Fetcher using GraphQL and Neon](https://dev.to/nithamitabh/opal-fetcher-using-graphql-and-neon-394b)
+- [5 Unique Features that Put Goleko Ahead of the Game](https://dev.to/odhiambo_ouko/5-unique-features-that-put-goleko-ahead-of-the-game-3o0d)
 <!-- BLOG-POST-LIST:END -->
 
