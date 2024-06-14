@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [INTERVIEW Question : Local Storage - Access between Tabs](https://dev.to/zeeshanali0704/interview-question-local-storage-access-between-tabs-5aol)
-- [Mon aventure en tant que stagiaire chez Kali Academy : Une immersion dans l&#39;open source](https://dev.to/land-bit/mon-aventure-en-tant-que-stagiaire-chez-kali-academy-une-immersion-dans-lopen-source-1an)
-- [Copy Javascript Object from Safari Browser Console](https://dev.to/dinesh_d/copy-javascript-object-from-safari-browser-console-4kfl)
-- [Why iOS beta versions don&#39;t belong on everyday devices](https://dev.to/disane/why-ios-beta-versions-dont-belong-on-everyday-devices-1blc)
+- [Introducing Semantic Kernel](https://dev.to/thwani47/introducing-semantic-kernel-41d5)
+- [Building a CRUD app with React Query, TypeScript, and Axios](https://dev.to/thwani47/building-a-crud-app-with-react-query-typescript-and-axios-2d0j)
+- [Build a chat room with custom bots powered by OpenAI/Gemini](https://dev.to/encore/build-a-chat-room-with-custom-bots-powered-by-openaigemini-47h3)
+- [Deep Dive Into .NET Minimal APIs](https://dev.to/thwani47/deep-dive-into-net-minimal-apis-399g)
 <!-- BLOG-POST-LIST:END -->
 
