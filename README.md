@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Essential Roles of Autonomous Agents in Modern API Integration](https://dev.to/apidna/the-essential-roles-of-autonomous-agents-in-modern-api-integration-5b9m)
-- [Linux and Git-GitHub Cheat Sheet](https://dev.to/oncloud7/linux-and-git-github-cheat-sheet-i93)
-- [HTML TAGS](https://dev.to/michweb/html-tags-2h3o)
-- [What it&#39;s like to be a woman developer](https://dev.to/webdevqueen/what-its-like-to-be-a-woman-developer-4d0)
+- [Day 18 of my progress as a vue dev](https://dev.to/zain725342/day-18-of-my-progress-as-a-vue-dev-17c4)
+- [Create a Web API with MongoDB](https://dev.to/vzldev/create-a-web-api-with-mongodb-16kn)
+- [Version Control Best Practices with Git and GitHub](https://dev.to/haseebmirza/version-control-best-practices-with-git-and-github-364h)
+- [CVPR Pre-Show: Open3DSG: an Open-Vocabulary 3D Scene Graph Generation Method](https://dev.to/voxel51/unpublished-video-586k-4c4)
 <!-- BLOG-POST-LIST:END -->
 
