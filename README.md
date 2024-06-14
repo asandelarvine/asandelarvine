@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Semantic Kernel](https://dev.to/thwani47/introducing-semantic-kernel-41d5)
-- [Building a CRUD app with React Query, TypeScript, and Axios](https://dev.to/thwani47/building-a-crud-app-with-react-query-typescript-and-axios-2d0j)
-- [Build a chat room with custom bots powered by OpenAI/Gemini](https://dev.to/encore/build-a-chat-room-with-custom-bots-powered-by-openaigemini-47h3)
-- [Deep Dive Into .NET Minimal APIs](https://dev.to/thwani47/deep-dive-into-net-minimal-apis-399g)
+- [Exception Types](https://dev.to/paulike/exception-types-351p)
+- [Getting Started with NestJS and TypeORM: A Beginner&#39;s Guide](https://dev.to/souhailxedits/getting-started-with-nestjs-and-typeorm-a-beginners-guide-ggc)
+- [Exception-Handling Overview](https://dev.to/paulike/exception-handling-overview-5eo8)
+- [Top 17 Fast-Growing Github Repo of 2024](https://dev.to/litlyx/top-17-fast-growing-github-repo-of-2024-cm7)
 <!-- BLOG-POST-LIST:END -->
 
