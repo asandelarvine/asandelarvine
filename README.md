@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering NextJS: Exploration of Its 12 Key Concepts](https://dev.to/vyan/mastering-nextjs-exploration-of-its-12-key-concepts-14e1)
-- [Best Practices for Migrating from Heroku to AWS](https://dev.to/emma_in_tech/best-practices-for-migrating-from-heroku-to-aws-11aa)
-- [Mastering Version Control with Git: Beyond the Basics](https://dev.to/gauri1504/mastering-version-control-with-git-beyond-the-basics-44ib)
-- [How Data Integration Is Evolving Beyond ETL](https://dev.to/seatunnel/how-data-integration-is-evolving-beyond-etl-4gn1)
+- [User Story EP3: How to Practice LeetCode Problems](https://dev.to/marscode/user-story-ep3-how-to-practice-leetcode-problems-5elj)
+- [Understanding How APIs Make AI Work](https://dev.to/nextjswebdev/understanding-how-apis-make-ai-work-7oa)
+- [The activation functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-activation-functions-for-neural-network-in-pytorch-1jpm)
+- [Test Data Generator: A Vital Tool in Software Development](https://dev.to/keploy/test-data-generator-a-vital-tool-in-software-development-205k)
 <!-- BLOG-POST-LIST:END -->
 
