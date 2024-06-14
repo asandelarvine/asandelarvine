@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyclic has shut down and I am migrating my data to another service](https://dev.to/devlawrence/cyclic-has-shut-down-and-i-am-migrating-my-data-to-another-service-4nj6)
-- [Docker + MariaDB](https://dev.to/thiagoeti/docker-mariadb-4n2c)
-- [Github - Organization&lpar;Demo&rpar;](https://dev.to/learnwithsrini/github-organizationdemo-3p89)
-- [DEV Computer Science Challenge v24.06.12 : Recursion](https://dev.to/therbstar/dev-computer-science-challenge-v240612-recursion-28ik)
+- [FastAPI for Data Applications: From Concept to Creation. Part I](https://dev.to/felipe_de_godoy/fastapi-for-data-applications-from-concept-to-creation-part-i-15ia)
+- [Create Window 11 virtual machine in Azure portal](https://dev.to/emeka_moses_c752f2bdde061/create-window-11-virtual-machine-in-azure-portal-4p53)
+- [Turbocharge Your OpenDevin Development: A Deep Dive into a Time-Saving Bash Script](https://dev.to/tosin2013/turbocharge-your-opendevin-development-a-deep-dive-into-a-time-saving-bash-script-3p31)
+- [Introduction to Ethical Hacking with Kali Linux](https://dev.to/kartikmehta8/introduction-to-ethical-hacking-with-kali-linux-1fl4)
 <!-- BLOG-POST-LIST:END -->
 
