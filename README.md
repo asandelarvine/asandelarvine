@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 971 : The Upgrade](https://dev.to/dwane/day-971-the-upgrade-5212)
-- [Unique combinations of a string](https://dev.to/johnscode/unique-combinations-of-a-string-ekj)
-- [Security news weekly round-up - 14th June 2024](https://dev.to/ziizium/security-news-weekly-round-up-14th-june-2024-8ac)
-- [Playwright with Python - A Quick Guide](https://dev.to/lrenzi/playwright-with-python-a-quick-guide-356p)
+- [Angular Animations Tutorial: Route Transitions](https://dev.to/brianmtreese/angular-animations-tutorial-route-transitions-17g9)
+- [Relaxamento Natural: Guia Passo a Passo para Óleos de Massagem com Lavanda](https://dev.to/vidacomartesanato/relaxamento-natural-guia-passo-a-passo-para-oleos-de-massagem-com-lavanda-36jo)
+- [Project Stage-2 Implementation [part-2]](https://dev.to/yuktimulani/project-stage-2-implementation-part-2-klo)
+- [Notes about The Chapter 01 of Web Scalability For Startup Engineers](https://dev.to/ezpzdevelopement/notes-about-the-chapter-01-of-web-scalability-for-startup-engineers-28oc)
 <!-- BLOG-POST-LIST:END -->
 
