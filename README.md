@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Object Oriented Programming](https://dev.to/efpage/object-oriente-programming-4c8a)
-- [Multifunctional IDE using Neovim &lpar;3 of 3&rpar;](https://dev.to/alekanteri/multifunctional-ide-using-neovim-3-of-3-1d62)
-- [OPAL Fetcher using GraphQL and Neon](https://dev.to/nithamitabh/opal-fetcher-using-graphql-and-neon-394b)
-- [5 Unique Features that Put Goleko Ahead of the Game](https://dev.to/odhiambo_ouko/5-unique-features-that-put-goleko-ahead-of-the-game-3o0d)
+- [Como recuperar arquivos perdidos no Git utilizando o VSCode](https://dev.to/codigoaoponto/como-recuperar-arquivos-perdidos-no-git-utilizando-o-vscode-2ec3)
+- [Building a Cloud-Native Spreadsheet Copilot with Winglang and LangChain](https://dev.to/winglang/building-a-cloud-native-spreadsheet-copilot-with-winglang-and-langchain-68h)
+- [Remote Startup Chaos: Do This and Thrive](https://dev.to/opensourceyllen/remote-startup-chaos-do-this-and-thrive-23j3)
+- [STEP BY STEP ON HOW TO DEPLOY AND CONNECT A VIRTUAL MACHINE ON AZURE CLOUD.](https://dev.to/phillip_ajifowobaje_68724/step-by-step-on-how-to-deploy-and-connect-a-virtual-machine-on-azure-cloud-44oe)
 <!-- BLOG-POST-LIST:END -->
 
