@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Un buen libro para aprender y educar en programación](https://dev.to/chema/un-buen-libro-para-aprender-y-educar-en-programacion-20li)
-- [Benefits of Having a High Google Page Ranking](https://dev.to/juddiy/benefits-of-having-a-high-google-page-ranking-1g1j)
-- [Steps to create Azure Virtual Machine](https://dev.to/ikay/steps-to-create-azure-virtual-machine-5a74)
-- [Unveiling URI, URL, and URN](https://dev.to/logto/unveiling-uri-url-and-urn-12b6)
+- [Mastering NextJS: Exploration of Its 12 Key Concepts](https://dev.to/vyan/mastering-nextjs-exploration-of-its-12-key-concepts-14e1)
+- [Best Practices for Migrating from Heroku to AWS](https://dev.to/emma_in_tech/best-practices-for-migrating-from-heroku-to-aws-11aa)
+- [Mastering Version Control with Git: Beyond the Basics](https://dev.to/gauri1504/mastering-version-control-with-git-beyond-the-basics-44ib)
+- [How Data Integration Is Evolving Beyond ETL](https://dev.to/seatunnel/how-data-integration-is-evolving-beyond-etl-4gn1)
 <!-- BLOG-POST-LIST:END -->
 
