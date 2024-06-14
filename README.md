@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Internet Search Works](https://dev.to/jay818/how-internet-search-works-5fma)
-- [Exploring Common JavaScript Methods](https://dev.to/jlotti2/exploring-common-javascript-methods-35np)
-- [Step by Step Guide to Create Deploy and Connect to a Virtual Machine on Azure](https://dev.to/florence_8042063da11e29d1/step-by-step-guide-to-create-deploy-and-connect-to-a-virtual-machine-on-azure-1b00)
-- [Eclipse Shortcuts for Java Developers](https://dev.to/marudhu99/eclipse-shortcuts-for-java-developers-1la5)
+- [🙅 Why I don&#39;t use AI as my copilot 🤖](https://dev.to/middleware/why-i-dont-use-ai-as-my-copilot-47k3)
+- [Laravel Scope to get locations nearest the user location](https://dev.to/johndivam/laravel-scope-to-get-locations-nearest-the-user-location-2fk5)
+- [How to Become a Professional .NET Developer in 2024](https://dev.to/turalsuleymani/how-to-become-a-professional-net-developer-in-2024-2nip)
+- [Virtualization 256 chars](https://dev.to/fmalk/virtualization-256-chars-444k)
 <!-- BLOG-POST-LIST:END -->
 
