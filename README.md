@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI for Data Applications: From Concept to Creation. Part I](https://dev.to/felipe_de_godoy/fastapi-for-data-applications-from-concept-to-creation-part-i-15ia)
-- [Create Window 11 virtual machine in Azure portal](https://dev.to/emeka_moses_c752f2bdde061/create-window-11-virtual-machine-in-azure-portal-4p53)
-- [Turbocharge Your OpenDevin Development: A Deep Dive into a Time-Saving Bash Script](https://dev.to/tosin2013/turbocharge-your-opendevin-development-a-deep-dive-into-a-time-saving-bash-script-3p31)
-- [Introduction to Ethical Hacking with Kali Linux](https://dev.to/kartikmehta8/introduction-to-ethical-hacking-with-kali-linux-1fl4)
+- [Unveiling URI, URL, and URN](https://dev.to/logto/unveiling-uri-url-and-urn-12b6)
+- [Ready, Set, LAUNCH!! How to Launch and Connect to an AWS EC2 Instance.](https://dev.to/techgirlkaydee/ready-set-launch-how-to-launch-and-connect-to-an-aws-ec2-instance-1jbj)
+- [Laravel 11.x Sanctum SPA authentication with Postman!](https://dev.to/prismlabsdev/laravel-11x-sanctum-spa-authentication-with-postman-3ji0)
+- [Breaking Out of Tutorial Hell](https://dev.to/kevin-jin/breaking-out-of-tutorial-hell-lgf)
 <!-- BLOG-POST-LIST:END -->
 
