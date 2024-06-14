@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS vs NextJS: A Comprehensive Comparison for JavaScript Enthusiasts.🚀](https://dev.to/dharamgfx/reactjs-vs-nextjs-a-comprehensive-comparison-for-javascript-enthusiasts-18o)
-- [How to delete the content of the selected cell using hotkeys in VTable?](https://dev.to/fangsmile/how-to-delete-the-content-of-the-selected-cell-using-hotkeys-in-vtable-4p0)
-- [The File Class](https://dev.to/paulike/the-file-class-f7h)
-- [Hey there Folks - It&#39;s my First Post !](https://dev.to/tonic/hey-there-folks-its-my-first-post--52k)
+- [TypeScript Enums are *more than ok*](https://dev.to/boscodomingo/typescript-enums-are-more-than-ok-ed6)
+- [Ağ Keşif - SNMP Keşif Oluşturma](https://dev.to/aciklab/ag-kesif-snmp-kesif-olusturma-3e0h)
+- [How Deutsche Telekom MMS optimizes Ansible Playbooks with Steampunk Spotter](https://dev.to/xlab_steampunk/how-deutsche-telekom-mms-optimizes-ansible-playbooks-with-steampunk-spotter-n26)
+- [Create your game with Octokit: The first ever Text-to-game AI generator](https://dev.to/bui/create-your-game-with-octokit-the-first-ever-text-to-game-ai-generator-502b)
 <!-- BLOG-POST-LIST:END -->
 
