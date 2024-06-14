@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exception Types](https://dev.to/paulike/exception-types-351p)
-- [Getting Started with NestJS and TypeORM: A Beginner&#39;s Guide](https://dev.to/souhailxedits/getting-started-with-nestjs-and-typeorm-a-beginners-guide-ggc)
-- [Exception-Handling Overview](https://dev.to/paulike/exception-handling-overview-5eo8)
-- [Top 17 Fast-Growing Github Repo of 2024](https://dev.to/litlyx/top-17-fast-growing-github-repo-of-2024-cm7)
+- [More on Exception Handling](https://dev.to/paulike/more-on-exception-handling-529c)
+- [How to Invoke the Same API with Varying Parameters](https://dev.to/satokenta/how-to-invoke-the-same-api-with-varying-parameters-3aaf)
+- [Difference between Docker, Kubernetes, and Podman for System Design Interview?](https://dev.to/somadevtoo/difference-between-docker-kubernetes-and-podman-for-system-design-interview-3an6)
+- [One Byte Explainer](https://dev.to/sharmi2020/one-byte-explainer-57b0)
 <!-- BLOG-POST-LIST:END -->
 
