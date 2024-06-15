@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Form Handling with Custom Hooks in React](https://dev.to/hasancse/mastering-form-handling-with-custom-hooks-in-react-h02)
-- [Design patterns: Part One - A brief explanation of creational pattern](https://dev.to/andres_paladines/design-patterns-part-one-a-brief-explanation-of-creational-pattern-5507)
-- [🔥 Isolating Linux Performance Issues in 1 Minute Without Installing Any New Tools or Packages 🔥](https://dev.to/lakhera2015/isolating-linux-performance-issues-in-1-minute-without-installing-any-new-tools-or-packages-2h36)
-- [Build your own SSO Service with next-auth integration](https://dev.to/priyanshuverma/build-your-own-sso-service-with-next-auth-integration-4i2k)
+- [Array high order methods](https://dev.to/__khojiakbar__/array-high-order-methods-l5f)
+- [How to Deploy Your Backend on Vercel Using `vercel.json`: A Step-by-Step Guide](https://dev.to/vyan/how-to-deploy-your-backend-on-vercel-using-verceljson-a-step-by-step-guide-5a78)
+- [🧙‍♂️ 10 Magical Tips Every Programmer Should Know from &quot;97 Things Every Programmer Should Know&quot; 🧙‍♀️](https://dev.to/kalyani_borkar_87ce4bb608/10-magical-tips-every-programmer-should-know-from-97-things-every-programmer-should-know-5786)
+- [Creating a Character Device Driver for Raspberry Pi Using Buildroot](https://dev.to/devdoesit17/creating-a-character-device-driver-for-raspberry-pi-using-buildroot-2i9a)
 <!-- BLOG-POST-LIST:END -->
 
