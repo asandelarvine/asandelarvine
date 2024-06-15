@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue.js Loyihamizning tuzilmasi haqida.](https://dev.to/mukhriddinweb/vuejs-loyihamizning-tuzilmasi-haqida-3cek)
-- [BharatGPT: The Next Generation AI Language Model](https://dev.to/nashetking/bharatgpt-the-next-generation-ai-language-model-296c)
-- [Safely Handling HTML in React](https://dev.to/joshydev/safely-handling-html-in-react-ba)
-- [Mathematics secret behind AI on Digit Recognition](https://dev.to/devloker/mathematics-secret-behind-ai-on-digit-recognition-49lc)
+- [How airport design mirrors software design](https://dev.to/arjunrao87/how-airport-design-mirrors-software-design-25d5)
+- [Designing an Optimal Database Schema for a Followers-Following System in a Blog-Post App](https://dev.to/zobaidulkazi/designing-an-optimal-database-schema-for-a-followers-following-system-in-a-blog-post-app-fj4)
+- [Proposal - Blockchain Coordination](https://dev.to/nkianil/proposal-blockchain-coordination-5793)
+- [How to Create a Library Package from an existing Angular App](https://dev.to/jcarloscandela/how-to-create-a-library-package-from-an-existing-angular-app-using-ng-packagr-3b62)
 <!-- BLOG-POST-LIST:END -->
 
