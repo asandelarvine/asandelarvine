@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Queue?](https://dev.to/codewitgabi/what-is-a-queue-18p7)
-- [1.2 - Um segundo programa simples](https://dev.to/devsjavagirls/12-um-segundo-programa-simples-m5l)
-- [Video: Modify Angular Material &lpar;v18&rpar; themes with CSS Variables using Theme Builder](https://dev.to/ngmaterialdev/video-modify-angular-material-v18-themes-with-css-variables-using-theme-builder-3278)
-- [Troubleshooting with PipeOps: Error 502 with React apps](https://dev.to/orunto/troubleshooting-with-pipeops-error-502-with-react-apps-cb)
+- [Using lerp and damp in javascript](https://dev.to/iliketoplay/using-lerp-and-damp-in-javascript-3f7p)
+- [Shades of Open Source - Understanding The Many Meanings of &quot;Open&quot;](https://dev.to/alexmercedcoder/shades-of-open-source-understanding-the-many-meanings-of-open-35je)
+- [Nega aynan Vue.js ?](https://dev.to/mystery9807/nega-aynan-vuejs--3cf5)
+- [One Byte Explainer - Closures](https://dev.to/imkarthikeyan/one-byte-explainer-closures-o84)
 <!-- BLOG-POST-LIST:END -->
 
