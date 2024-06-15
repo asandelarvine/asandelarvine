@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadcn UI: Must-Have Tools &amp; Resources](https://dev.to/sh20raj/shadcn-ui-must-have-tools-resources-5488)
-- [1.1 - Um primeiro programa simples](https://dev.to/devsjavagirls/11-um-primeiro-programa-simples-5ah2)
-- [🐣 Assignment Expressions &lpar;The Walrus Operator&rpar; in Python](https://dev.to/talaatmagdy/assignment-expressions-the-walrus-operator-in-python-1m2d)
-- [Mastering the Adapter Design Pattern: Bridging Incompatible Interfaces](https://dev.to/rupesh_mishra/mastering-the-adapter-design-pattern-bridging-incompatible-interfaces-4ici)
+- [Mastering Form Handling with Custom Hooks in React](https://dev.to/hasancse/mastering-form-handling-with-custom-hooks-in-react-h02)
+- [Design patterns: Part One - A brief explanation of creational pattern](https://dev.to/andres_paladines/design-patterns-part-one-a-brief-explanation-of-creational-pattern-5507)
+- [🔥 Isolating Linux Performance Issues in 1 Minute Without Installing Any New Tools or Packages 🔥](https://dev.to/lakhera2015/isolating-linux-performance-issues-in-1-minute-without-installing-any-new-tools-or-packages-2h36)
+- [Build your own SSO Service with next-auth integration](https://dev.to/priyanshuverma/build-your-own-sso-service-with-next-auth-integration-4i2k)
 <!-- BLOG-POST-LIST:END -->
 
