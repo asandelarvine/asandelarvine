@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 19 of my progress as a vue dev](https://dev.to/zain725342/day-19-of-my-progress-as-a-vue-dev-1j0n)
-- [5 Auth0 Gotchas to Consider](https://dev.to/ujjavala/5-auth0-gotchas-to-consider-3g96)
-- [Install zsh-autocomplete on WSL2](https://dev.to/0xkoji/install-zsh-autocomplete-on-wsl2-21ij)
-- [Class Typescript](https://dev.to/drsimplegraffiti/class-typescript-12mb)
+- [Make our component&#39;s Tailwind class names more understandable in React&#39;s HTML](https://dev.to/vuthanhnguyen/make-our-components-tailwind-class-names-more-understandable-in-reacts-html-1e5h)
+- [Mastering Clean Code: Essential Practices for Developers](https://dev.to/mahabubr/mastering-clean-code-essential-practices-for-developers-1287)
+- [Mock Data: A Cornerstone of Efficient Software Testing](https://dev.to/keploy/mock-data-a-cornerstone-of-efficient-software-testing-e0m)
+- [Integration testing with Spring Boot and embedded kafka](https://dev.to/steffenwda/integration-testing-with-spring-boot-and-embedded-kafka-1ld0)
 <!-- BLOG-POST-LIST:END -->
 
