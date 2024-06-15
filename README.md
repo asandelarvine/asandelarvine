@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make our component&#39;s Tailwind class names more understandable in React&#39;s HTML](https://dev.to/vuthanhnguyen/make-our-components-tailwind-class-names-more-understandable-in-reacts-html-1e5h)
-- [Mastering Clean Code: Essential Practices for Developers](https://dev.to/mahabubr/mastering-clean-code-essential-practices-for-developers-1287)
-- [Mock Data: A Cornerstone of Efficient Software Testing](https://dev.to/keploy/mock-data-a-cornerstone-of-efficient-software-testing-e0m)
-- [Integration testing with Spring Boot and embedded kafka](https://dev.to/steffenwda/integration-testing-with-spring-boot-and-embedded-kafka-1ld0)
+- [What is a Queue?](https://dev.to/codewitgabi/what-is-a-queue-18p7)
+- [1.2 - Um segundo programa simples](https://dev.to/devsjavagirls/12-um-segundo-programa-simples-m5l)
+- [Video: Modify Angular Material &lpar;v18&rpar; themes with CSS Variables using Theme Builder](https://dev.to/ngmaterialdev/video-modify-angular-material-v18-themes-with-css-variables-using-theme-builder-3278)
+- [Troubleshooting with PipeOps: Error 502 with React apps](https://dev.to/orunto/troubleshooting-with-pipeops-error-502-with-react-apps-cb)
 <!-- BLOG-POST-LIST:END -->
 
