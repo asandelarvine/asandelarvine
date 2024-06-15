@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array high order methods](https://dev.to/__khojiakbar__/array-high-order-methods-l5f)
-- [How to Deploy Your Backend on Vercel Using `vercel.json`: A Step-by-Step Guide](https://dev.to/vyan/how-to-deploy-your-backend-on-vercel-using-verceljson-a-step-by-step-guide-5a78)
-- [🧙‍♂️ 10 Magical Tips Every Programmer Should Know from &quot;97 Things Every Programmer Should Know&quot; 🧙‍♀️](https://dev.to/kalyani_borkar_87ce4bb608/10-magical-tips-every-programmer-should-know-from-97-things-every-programmer-should-know-5786)
-- [Creating a Character Device Driver for Raspberry Pi Using Buildroot](https://dev.to/devdoesit17/creating-a-character-device-driver-for-raspberry-pi-using-buildroot-2i9a)
+- [Empowering Businesses Through Cutting-Edge App Development: The Journey of iTechTribe International](https://dev.to/itechtshahzaib_1a2c1cd10/empowering-businesses-through-cutting-edge-app-development-the-journey-of-itechtribe-international-41mb)
+- [The Evolution of Coding: From Punch Cards to Quantum Computing](https://dev.to/judescripts/the-evolution-of-coding-from-punch-cards-to-quantum-computing-2921)
+- [🌐 Resource Preloading in HTML | One Byte Explainer](https://dev.to/everlygif/resource-preloading-in-html-one-byte-explainer-25pl)
+- [JavaScript: CallBack Hell](https://dev.to/fatimaalam1234/javascript-callback-hell-1a1f)
 <!-- BLOG-POST-LIST:END -->
 
