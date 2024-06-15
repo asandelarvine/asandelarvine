@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Improve User Experience with Image Previews: A Step-by-Step Guide](https://dev.to/dk119819/how-to-improve-user-experience-with-image-previews-a-step-by-step-guide-1p87)
-- [My Day of Code - The Bare Minimum](https://dev.to/anitaolsen/my-day-of-code-the-bare-minimum-3cgb)
-- [Voxxed Days Trieste &lpar;May 30, 2024&rpar;](https://dev.to/danielzotti/voxxed-days-trieste-may-30-2024-13id)
-- [the detailed process for sloving leetcode problem 13](https://dev.to/hallowaw/the-detailed-process-for-sloving-leetcode-problem-13-3b6k)
+- [Azure Fundamentals: Understanding Microsoft&#39;s Cloud Platform](https://dev.to/prakash_rao/azure-fundamentals-understanding-microsofts-cloud-platform-86o)
+- [502. IPO](https://dev.to/mdarifulhaque/502-ipo-295e)
+- [Two simple re-rendering pitfalls I learned about while building my React app](https://dev.to/hudy9x/two-simple-re-rendering-pitfalls-i-learned-about-while-building-my-react-app-2n7)
+- [Hi Guys I started learning with AWS and I&#39;ll share what i learn each day and if you find something wrong then let me know](https://dev.to/deepak5812/hi-guys-i-started-learning-with-aws-and-ill-share-what-i-learn-each-day-and-if-you-find-something-wrong-then-let-me-know-52k1)
 <!-- BLOG-POST-LIST:END -->
 
