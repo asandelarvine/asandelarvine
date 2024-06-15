@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Understanding Microsoft&#39;s Cloud Platform](https://dev.to/prakash_rao/azure-fundamentals-understanding-microsofts-cloud-platform-86o)
-- [502. IPO](https://dev.to/mdarifulhaque/502-ipo-295e)
-- [Two simple re-rendering pitfalls I learned about while building my React app](https://dev.to/hudy9x/two-simple-re-rendering-pitfalls-i-learned-about-while-building-my-react-app-2n7)
-- [Hi Guys I started learning with AWS and I&#39;ll share what i learn each day and if you find something wrong then let me know](https://dev.to/deepak5812/hi-guys-i-started-learning-with-aws-and-ill-share-what-i-learn-each-day-and-if-you-find-something-wrong-then-let-me-know-52k1)
+- [Day 19 of my progress as a vue dev](https://dev.to/zain725342/day-19-of-my-progress-as-a-vue-dev-1j0n)
+- [5 Auth0 Gotchas to Consider](https://dev.to/ujjavala/5-auth0-gotchas-to-consider-3g96)
+- [Install zsh-autocomplete on WSL2](https://dev.to/0xkoji/install-zsh-autocomplete-on-wsl2-21ij)
+- [Class Typescript](https://dev.to/drsimplegraffiti/class-typescript-12mb)
 <!-- BLOG-POST-LIST:END -->
 
