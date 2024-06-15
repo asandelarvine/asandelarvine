@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learnt from taking charge on a complex backend feature](https://dev.to/kervyntjw/what-i-learnt-from-taking-charge-on-a-complex-backend-feature-3nl9)
-- [Left-aligned headings in the hero section are the best](https://dev.to/meschacirung/left-aligned-headings-in-the-hero-section-are-the-best-5fn8)
-- [Guitar - Interactive Musical Experience with SVG and GSAP](https://dev.to/sarmittal/guitar-interactive-musical-experience-with-svg-and-gsap-1kn5)
-- [React Reconciliation is a Shit](https://dev.to/ashsajal/react-reconciliation-is-a-shit-16g1)
+- [Unlocking Opportunities: The Microsoft Learn Student Ambassadors Program 2024](https://dev.to/safi-ullah/unlocking-opportunities-the-microsoft-learn-student-ambassadors-program-2024-2cnm)
+- [Introduction to Nodejs](https://dev.to/sojida/introduction-to-nodejs-4ne8)
+- [Introduction to Docker: Revolutionizing Software Deployment](https://dev.to/sojida/introduction-to-docker-revolutionizing-software-deployment-2nap)
+- [Understanding Dockerfile: The Blueprint of Docker Containers and Images](https://dev.to/sojida/understanding-dockerfile-the-blueprint-of-docker-containers-and-images-3jgb)
 <!-- BLOG-POST-LIST:END -->
 
