@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Firebase Auth Template &lpar;With Protected Routes&rpar;](https://dev.to/mmvergara/react-firebase-auth-template-with-protected-routes-1974)
-- [Hexaflare: Exploring Data Structures](https://dev.to/gazayas/hexaflare-exploring-data-structures-1ond)
-- [Evolution of the concept of open source](https://dev.to/abcsxyz/evolution-of-open-source-49h5)
-- [One Byte Explainer - Promise](https://dev.to/imkarthikeyan/one-byte-explainer-promise-m5c)
+- [Bootstrap Crash Course: Get Started with Responsive Web Design](https://dev.to/igbojionu/bootstrap-crash-course-get-started-with-responsive-web-design-3mp4)
+- [GSoC’24&lpar;CircuitVerse&rpar; Week 1 &amp; 2](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-1-2-37gj)
+- [Understanding Recursion: A Function’s Self-Call](https://dev.to/codewithuma/understanding-recursion-a-functions-self-call-4ne1)
+- [Demystifying Big O Notation: A Deep Dive into Algorithm Efficiency](https://dev.to/kamomkoyan2/demystifying-big-o-notation-a-deep-dive-into-algorithm-efficiency-4g8o)
 <!-- BLOG-POST-LIST:END -->
 
