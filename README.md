@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Businesses Through Cutting-Edge App Development: The Journey of iTechTribe International](https://dev.to/itechtshahzaib_1a2c1cd10/empowering-businesses-through-cutting-edge-app-development-the-journey-of-itechtribe-international-41mb)
-- [The Evolution of Coding: From Punch Cards to Quantum Computing](https://dev.to/judescripts/the-evolution-of-coding-from-punch-cards-to-quantum-computing-2921)
-- [🌐 Resource Preloading in HTML | One Byte Explainer](https://dev.to/everlygif/resource-preloading-in-html-one-byte-explainer-25pl)
-- [JavaScript: CallBack Hell](https://dev.to/fatimaalam1234/javascript-callback-hell-1a1f)
+- [What I learnt from taking charge on a complex backend feature](https://dev.to/kervyntjw/what-i-learnt-from-taking-charge-on-a-complex-backend-feature-3nl9)
+- [Left-aligned headings in the hero section are the best](https://dev.to/meschacirung/left-aligned-headings-in-the-hero-section-are-the-best-5fn8)
+- [Guitar - Interactive Musical Experience with SVG and GSAP](https://dev.to/sarmittal/guitar-interactive-musical-experience-with-svg-and-gsap-1kn5)
+- [React Reconciliation is a Shit](https://dev.to/ashsajal/react-reconciliation-is-a-shit-16g1)
 <!-- BLOG-POST-LIST:END -->
 
