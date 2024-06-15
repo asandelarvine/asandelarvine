@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How airport design mirrors software design](https://dev.to/arjunrao87/how-airport-design-mirrors-software-design-25d5)
-- [Designing an Optimal Database Schema for a Followers-Following System in a Blog-Post App](https://dev.to/zobaidulkazi/designing-an-optimal-database-schema-for-a-followers-following-system-in-a-blog-post-app-fj4)
-- [Proposal - Blockchain Coordination](https://dev.to/nkianil/proposal-blockchain-coordination-5793)
-- [How to Create a Library Package from an existing Angular App](https://dev.to/jcarloscandela/how-to-create-a-library-package-from-an-existing-angular-app-using-ng-packagr-3b62)
+- [Mase JS is a new way to write HTML entirely in your JavaScript.](https://dev.to/greenestgoat/mase-js-is-a-new-way-to-write-html-entirely-in-your-javascript-bd8)
+- [CYPRESS-AJV-SCHEMA-VALIDATOR Plugin: The Brave Vigilante for Your API Contracts](https://dev.to/sebastianclavijo/cypress-ajv-schema-validator-plugin-the-brave-vigilante-for-your-api-contracts-5cfe)
+- [Discussion: How do you approach building websites or apps?](https://dev.to/jennavisions/discussion-how-do-you-approach-building-websites-or-apps-3oi9)
+- [🚀 Continuous Integration and Continuous Delivery &lpar;CI/CD&rpar;: A Must-Have for SMBs 🚀](https://dev.to/vaibhavhariaramani/continuous-integration-and-continuous-delivery-cicd-a-must-have-for-smbs-4pm)
 <!-- BLOG-POST-LIST:END -->
 
