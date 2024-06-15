@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Shadcn UI: Must-Have Tools &amp; Resources](https://dev.to/sh20raj/shadcn-ui-must-have-tools-resources-5488)
+- [1.1 - Um primeiro programa simples](https://dev.to/devsjavagirls/11-um-primeiro-programa-simples-5ah2)
 - [🐣 Assignment Expressions &lpar;The Walrus Operator&rpar; in Python](https://dev.to/talaatmagdy/assignment-expressions-the-walrus-operator-in-python-1m2d)
-- [1-Introdução](https://dev.to/devsjavagirls/1-introducao-2cpf)
-- [Running DeepCell on Google Batch with node pools](https://dev.to/dchaley/running-deepcell-on-google-batch-with-node-pools-3hfd)
-- [Virtualization &amp; Containerization with Docker.](https://dev.to/michellebuchiokonicha/virtualization-containerization-with-docker-storage-and-network-services-2bjf)
+- [Mastering the Adapter Design Pattern: Bridging Incompatible Interfaces](https://dev.to/rupesh_mishra/mastering-the-adapter-design-pattern-bridging-incompatible-interfaces-4ici)
 <!-- BLOG-POST-LIST:END -->
 
