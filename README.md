@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Custom Attributes in C#](https://dev.to/antonmartyniuk/creating-custom-attributes-in-c-4k56)
-- [Poly repo support for Dotnet Aspire](https://dev.to/olivierus/poly-repo-support-for-dotnet-aspire-14d5)
-- [Tecnologia: a desunião entre a academia e o mercado de trabalho privado](https://dev.to/lexipedia/tecnologia-a-desuniao-entre-a-academia-e-o-mercado-de-trabalho-privado-33f7)
-- [How to Move Zeros to the End of an Array](https://dev.to/masum-dev/how-to-move-zeros-to-the-end-of-an-array-5ea3)
+- [Vue.js Loyihamizning tuzilmasi haqida.](https://dev.to/mukhriddinweb/vuejs-loyihamizning-tuzilmasi-haqida-3cek)
+- [BharatGPT: The Next Generation AI Language Model](https://dev.to/nashetking/bharatgpt-the-next-generation-ai-language-model-296c)
+- [Safely Handling HTML in React](https://dev.to/joshydev/safely-handling-html-in-react-ba)
+- [Mathematics secret behind AI on Digit Recognition](https://dev.to/devloker/mathematics-secret-behind-ai-on-digit-recognition-49lc)
 <!-- BLOG-POST-LIST:END -->
 
