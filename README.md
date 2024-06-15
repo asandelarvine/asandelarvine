@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Information Overload: A Beginner&#39;s Guide to Starting Your Cloud Engineering Journey](https://dev.to/ikoh_sylva/navigating-information-overload-a-beginners-guide-to-starting-your-cloud-engineering-journey-46hb)
-- [Exploring ORM - Object Relational Mapping](https://dev.to/sashafbrockman/exploring-orm-object-relational-mapping-51lm)
-- [Creative HTML Coming Soon Template | Theme 1](https://dev.to/creative_salahu/creative-html-coming-soon-template-theme-1-4aln)
-- [Python in the Browser, Fetching JSON from an AWS S3 bucket into a Bokeh Line Chart, a Serverless solution](https://dev.to/rickdelpo1/python-in-the-browser-fetching-json-from-an-aws-s3-bucket-a-serverless-solution-55hg)
+- [How to Improve User Experience with Image Previews: A Step-by-Step Guide](https://dev.to/dk119819/how-to-improve-user-experience-with-image-previews-a-step-by-step-guide-1p87)
+- [My Day of Code - The Bare Minimum](https://dev.to/anitaolsen/my-day-of-code-the-bare-minimum-3cgb)
+- [Voxxed Days Trieste &lpar;May 30, 2024&rpar;](https://dev.to/danielzotti/voxxed-days-trieste-may-30-2024-13id)
+- [the detailed process for sloving leetcode problem 13](https://dev.to/hallowaw/the-detailed-process-for-sloving-leetcode-problem-13-3b6k)
 <!-- BLOG-POST-LIST:END -->
 
