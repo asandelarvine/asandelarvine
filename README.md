@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrap Crash Course: Get Started with Responsive Web Design](https://dev.to/igbojionu/bootstrap-crash-course-get-started-with-responsive-web-design-3mp4)
-- [GSoC’24&lpar;CircuitVerse&rpar; Week 1 &amp; 2](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-1-2-37gj)
-- [Understanding Recursion: A Function’s Self-Call](https://dev.to/codewithuma/understanding-recursion-a-functions-self-call-4ne1)
-- [Demystifying Big O Notation: A Deep Dive into Algorithm Efficiency](https://dev.to/kamomkoyan2/demystifying-big-o-notation-a-deep-dive-into-algorithm-efficiency-4g8o)
+- [Navigating Information Overload: A Beginner&#39;s Guide to Starting Your Cloud Engineering Journey](https://dev.to/ikoh_sylva/navigating-information-overload-a-beginners-guide-to-starting-your-cloud-engineering-journey-46hb)
+- [Exploring ORM - Object Relational Mapping](https://dev.to/sashafbrockman/exploring-orm-object-relational-mapping-51lm)
+- [Creative HTML Coming Soon Template | Theme 1](https://dev.to/creative_salahu/creative-html-coming-soon-template-theme-1-4aln)
+- [Python in the Browser, Fetching JSON from an AWS S3 bucket into a Bokeh Line Chart, a Serverless solution](https://dev.to/rickdelpo1/python-in-the-browser-fetching-json-from-an-aws-s3-bucket-a-serverless-solution-55hg)
 <!-- BLOG-POST-LIST:END -->
 
