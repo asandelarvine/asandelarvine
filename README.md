@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Azure Hub ☁️ Your Azure learning resources 📚](https://dev.to/tungbq/the-azure-hub-your-azure-learning-resources-3b6n)
-- [Invoke Dataverse AI Actions via Powershell](https://dev.to/_neronotte/invoke-dataverse-ai-actions-via-powershell-10em)
-- [What is Big-O?](https://dev.to/muchai_joseph/what-is-big-o-18c)
-- [Generating Random Colors in JavaScript: A Step-by-Step Guide](https://dev.to/dk119819/generating-random-colors-in-javascript-a-step-by-step-guide-2a4d)
+- [React Firebase Auth Template &lpar;With Protected Routes&rpar;](https://dev.to/mmvergara/react-firebase-auth-template-with-protected-routes-1974)
+- [Hexaflare: Exploring Data Structures](https://dev.to/gazayas/hexaflare-exploring-data-structures-1ond)
+- [Evolution of the concept of open source](https://dev.to/abcsxyz/evolution-of-open-source-49h5)
+- [One Byte Explainer - Promise](https://dev.to/imkarthikeyan/one-byte-explainer-promise-m5c)
 <!-- BLOG-POST-LIST:END -->
 
