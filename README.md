@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rejected, Not Deflected: My Journey After Out in Tech](https://dev.to/annaliesetech/rejected-not-deflected-my-journey-after-out-in-tech-18pd)
-- [cheap countries to visit in March in europ](https://dev.to/blogland/cheap-countries-to-visit-in-march-in-europ-34bc)
-- [Creating and Managing Multiple Projects and Servers with Mockingbird](https://dev.to/ozkeisar/creating-and-managing-multiple-projects-and-servers-with-mockingbird-a7b)
-- [cheap countries to visit in February with family and friends](https://dev.to/blogland/cheap-countries-to-visit-in-february-with-family-and-friends-3492)
+- [Part 2 — Initialize OpenVR](https://dev.to/kurohuku/part-2-initialize-openvr-4gfh)
+- [How to Analyze Instagram Likes: A Simple Python App](https://dev.to/apiharbor/how-to-analyze-instagram-likes-a-simple-python-app-2fl1)
+- [Basic Linux Command used in Pentesting and Other Cyber Security Domains](https://dev.to/akash32755/basic-linux-command-used-in-pentesting-and-other-cyber-security-domains-1kll)
+- [Finding things](https://dev.to/simongreennet/finding-things-1f34)
 <!-- BLOG-POST-LIST:END -->
 
