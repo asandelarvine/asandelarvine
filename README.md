@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Native Applications with Capacitor and ReactJS](https://dev.to/eddiemuhoro/building-native-applications-with-capacitor-and-reactjs-26a1)
-- [How to Release Service](https://dev.to/ryanrizky/how-to-release-service-5eaj)
-- [Efficiently Managing Remote Data in Vue with Vue Query](https://dev.to/alimetehrani/efficiently-managing-remote-data-in-vue-with-vue-query-192h)
-- [Let&#39;s practice clean reusable components in react](https://dev.to/codewithshahan/lets-practice-clean-reusable-components-in-react-5flj)
+- [If Else In Python](https://dev.to/pulkitgovrani/if-else-in-python-2315)
+- [Cheap countries to travel in winter with family](https://dev.to/blogland/cheap-countries-to-travel-in-winter-with-family-3f66)
+- [Project: Echopad](https://dev.to/paras594/project-echopad-37jc)
+- [How to build a Web IDE like codesandbox?](https://dev.to/abdul_165bf98345e29aea8ef/how-to-build-a-web-ide-like-codesandbox-38e6)
 <!-- BLOG-POST-LIST:END -->
 
