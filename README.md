@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Memory Game: Step-by-Step Guide](https://dev.to/dk119819/how-to-create-a-memory-game-step-by-step-guide-4c4l)
-- [Open Web Application Security Project OWASP Top Ten](https://dev.to/ferdousazad/open-web-application-security-project-owasp-top-ten-l7o)
-- [What is full stack developer ?](https://dev.to/vicky435435/what-is-full-stack-developer--4ka9)
-- [Unlocking the Future: Passwordless Authentication&lpar;Passkey&rpar; With Flutter and Node.js](https://dev.to/djsmk123/unlocking-the-future-passwordless-authenticationpasskey-with-flutter-and-nodejs-1ojh)
+- [Scroll progress timeline bar in easy step.](https://dev.to/sunder_mehra_246c4308e1dd/scroll-progress-timeline-bar-in-easy-step-1mk0)
+- [Day 20 of my progress as a vue dev](https://dev.to/zain725342/day-20-of-my-progress-as-a-vue-dev-2inl)
+- [Spring Framework: About Aware suffix interface](https://dev.to/saladlam/spring-framework-about-aware-suffix-interface-39pb)
+- [From React to Hotwire - Part II - [EN]](https://dev.to/cirdes/from-react-to-hotwire-part-ii-en-2lim)
 <!-- BLOG-POST-LIST:END -->
 
