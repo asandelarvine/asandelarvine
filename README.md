@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Push notifications from server with Telegram Bot API](https://dev.to/climentea/push-notifications-from-server-with-telegram-bot-api-32b3)
-- [5 Essential Tips for New Frontend Web Developers](https://dev.to/ridoy_hasan/5-essential-tips-for-new-frontend-web-developers-2556)
-- [SQL-Server add record tip](https://dev.to/karenpayneoregon/sql-server-add-record-tip-j3j)
-- [Using Apache ECharts with Lit and TypeScript](https://dev.to/manufac/using-apache-echarts-with-lit-and-typescript-1597)
+- [Difoosion, a Simple Web-Interface for Stable Diffusion Models](https://dev.to/sn3llius/difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2)
+- [PACX ⁓ Create columns: Numeric](https://dev.to/_neronotte/pacx-create-columns-numeric-4nk5)
+- [Twilio Challenge: Language Translator via Twilio Functions, WhatsApp, &amp; OpenAI](https://dev.to/adityaoberai/twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc)
+- [Part 7 — Draw Camera Output](https://dev.to/kurohuku/part-7-draw-camera-output-4l3a)
 <!-- BLOG-POST-LIST:END -->
 
