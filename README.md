@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GSoC Week 3](https://dev.to/chiemezuo/gsoc-week-3-12h3)
-- [Getting Started with Flutter: Understanding the Basics and State Management](https://dev.to/ayas_tech_2b0560ee159e661/getting-started-with-flutter-understanding-the-basics-and-state-management-g3e)
-- [How to configure Pulumi using YAML Config Files](https://dev.to/nicolaimagnussen/how-to-configure-pulumi-using-yaml-config-files-2nfm)
-- [Part 3 — Create Overlay](https://dev.to/kurohuku/part-3-create-overlay-3em1)
+- [The Importance of Personal Branding for Web Developers: My Journey and Lessons Learned](https://dev.to/ridoy_hasan/the-importance-of-personal-branding-for-web-developers-my-journey-and-lessons-learned-4b3g)
+- [Dockerise a Golang Application](https://dev.to/abhishekcs3459/dockerise-a-golang-application-25lc)
+- [Browser MMORPG #indiegamedev #babylonjs Ep20 - Client Side Prediction &amp; Reconciliation](https://dev.to/maiu/browser-mmorpg-indiegamedev-babylonjs-ep20-client-side-prediction-reconciliation-3fc7)
+- [Optimizing React Performance: Avoiding Unnecessary Rendering with Hooks](https://dev.to/ayas_tech_2b0560ee159e661/optimizing-react-performance-avoiding-unnecessary-rendering-with-hooks-446i)
 <!-- BLOG-POST-LIST:END -->
 
