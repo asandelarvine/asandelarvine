@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [P=NP? 256 chars](https://dev.to/fmalk/pnp-256-chars-49k7)
-- [RECURSION: A Beginner’s Guide](https://dev.to/wendyver/recursion-a-beginners-guide-57pd)
-- [Refactoring 013 - Remove Repeated Code](https://dev.to/mcsee/refactoring-013-remove-repeated-code-4npi)
-- [As a matter of fact AWS Chatbot uses us-east-2 region](https://dev.to/takahiro_82jp/as-a-matter-of-fact-aws-chatbot-uses-us-east-2-region-2ghk)
+- [Mastering Client and Server Components in Next.js: A Comprehensive Guide](https://dev.to/vyan/mastering-client-and-server-components-in-nextjs-a-comprehensive-guide-42hp)
+- [Dealing with Unicode string, done right and better.](https://dev.to/cometkim/dealing-with-unicode-string-done-right-and-better-2nei)
+- [aws cli on windows vscode](https://dev.to/bartdev/aws-cli-on-windows-vscode-2h16)
+- [Top JavaScript Frameworks in 2024](https://dev.to/1saptarshi/top-javascript-frameworks-in-2024-1i7i)
 <!-- BLOG-POST-LIST:END -->
 
