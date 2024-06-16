@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Personal Branding for Web Developers: My Journey and Lessons Learned](https://dev.to/ridoy_hasan/the-importance-of-personal-branding-for-web-developers-my-journey-and-lessons-learned-4b3g)
-- [Dockerise a Golang Application](https://dev.to/abhishekcs3459/dockerise-a-golang-application-25lc)
-- [Browser MMORPG #indiegamedev #babylonjs Ep20 - Client Side Prediction &amp; Reconciliation](https://dev.to/maiu/browser-mmorpg-indiegamedev-babylonjs-ep20-client-side-prediction-reconciliation-3fc7)
-- [Optimizing React Performance: Avoiding Unnecessary Rendering with Hooks](https://dev.to/ayas_tech_2b0560ee159e661/optimizing-react-performance-avoiding-unnecessary-rendering-with-hooks-446i)
+- [AssaultCube | Writing your first external cheat in RustLang](https://dev.to/zofia/assaultcube-writing-your-first-external-cheat-in-rustlang-3m7)
+- [Reading Transaction Events from a Smart Contract Using ethers.js](https://dev.to/spiritmoney/reading-transaction-events-from-a-smart-contract-using-ethersjs-4goo)
+- [Understanding the Need for Apache Kafka](https://dev.to/aadarsh-nagrath/understanding-the-need-for-apache-kafka-i44)
+- [How to build a custom React table component with Typescript &lpar;Part 1&rpar;](https://dev.to/igbominadeveloper/how-to-build-a-custom-react-table-component-with-typescript-part-1-1ln)
 <!-- BLOG-POST-LIST:END -->
 
