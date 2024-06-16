@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Web Development: Embracing Emerging Technologies and Trends](https://dev.to/matin_mollapur/the-future-of-web-development-embracing-emerging-technologies-and-trends-4pno)
-- [Day 4 of 30... Current day](https://dev.to/francis_ngugi/day-4-of-30-current-day-3p5e)
-- [DAY 3 OF 30... Also Forgot to post this blog](https://dev.to/francis_ngugi/day-3-of-30-also-forgot-to-post-this-blog-3o47)
-- [Generate Dynamic Open Graph Images using Nextjs](https://dev.to/shrihari/generate-dynamic-open-graph-images-using-nextjs-4k9g)
+- [GSoC Week 3](https://dev.to/chiemezuo/gsoc-week-3-12h3)
+- [Getting Started with Flutter: Understanding the Basics and State Management](https://dev.to/ayas_tech_2b0560ee159e661/getting-started-with-flutter-understanding-the-basics-and-state-management-g3e)
+- [How to configure Pulumi using YAML Config Files](https://dev.to/nicolaimagnussen/how-to-configure-pulumi-using-yaml-config-files-2nfm)
+- [Part 3 — Create Overlay](https://dev.to/kurohuku/part-3-create-overlay-3em1)
 <!-- BLOG-POST-LIST:END -->
 
