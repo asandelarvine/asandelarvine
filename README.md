@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the Largest Sum Subarray: Step-by-Step Guide Using Kadane&#39;s Algorithm](https://dev.to/rk042/finding-the-largest-sum-subarray-step-by-step-guide-using-kadanes-algorithm-1nc1)
-- [A Beginner&#39;s Guide to Component Design in React](https://dev.to/lovishduggal/a-beginners-guide-to-component-design-in-react-521g)
-- [Websites to Inspire Web Design and Development in 2024](https://dev.to/lilxyzz/websites-to-inspire-web-design-and-development-in-2024-40am)
-- [React Context-API Pro | Build state management using useContext + useReducer | Typescript](https://dev.to/thisisarkajitroy/react-context-api-pro-build-state-management-using-usecontext-usereducer-typescript-3gm1)
+- [Best Practices for Creating Reusable Custom Hooks in React](https://dev.to/hasancse/best-practices-for-creating-reusable-custom-hooks-in-react-37nj)
+- [Amazon RDS Multi-AZ Deployments vs Read Replica](https://dev.to/sachithmayantha/amazon-rds-multi-az-deployments-vs-read-replica-1ki3)
+- [Duo Studio UI clone 🚀](https://dev.to/sameer07x19/duo-studio-ui-clone-1ldk)
+- [Problem : - Your project requires a newer version of the Kotlin Gradle plugin in Flutter.](https://dev.to/ozonexkeshav07/problem-your-project-requires-a-newer-version-of-the-kotlin-gradle-plugin-in-flutter-5da3)
 <!-- BLOG-POST-LIST:END -->
 
