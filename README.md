@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front end in 7 days?](https://dev.to/siri999/front-end-in-7-days-5a8n)
-- [3D Glowing Card Carousel Slider](https://dev.to/divinector/3d-glowing-card-carousel-slider-4io)
-- [Explain X Like I&#39;m Five](https://dev.to/ahmad_rifai_54a20be09025e/explain-x-like-im-five-n8j)
-- [Unleashing the Power of Serverless Data Analysis with AWS Athena](https://dev.to/virajlakshitha/unleashing-the-power-of-serverless-data-analysis-with-aws-athena-3amh)
+- [Finding the Largest Sum Subarray: Step-by-Step Guide Using Kadane&#39;s Algorithm](https://dev.to/rk042/finding-the-largest-sum-subarray-step-by-step-guide-using-kadanes-algorithm-1nc1)
+- [A Beginner&#39;s Guide to Component Design in React](https://dev.to/lovishduggal/a-beginners-guide-to-component-design-in-react-521g)
+- [Websites to Inspire Web Design and Development in 2024](https://dev.to/lilxyzz/websites-to-inspire-web-design-and-development-in-2024-40am)
+- [React Context-API Pro | Build state management using useContext + useReducer | Typescript](https://dev.to/thisisarkajitroy/react-context-api-pro-build-state-management-using-usecontext-usereducer-typescript-3gm1)
 <!-- BLOG-POST-LIST:END -->
 
