@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scroll progress timeline bar in easy step.](https://dev.to/sunder_mehra_246c4308e1dd/scroll-progress-timeline-bar-in-easy-step-1mk0)
-- [Day 20 of my progress as a vue dev](https://dev.to/zain725342/day-20-of-my-progress-as-a-vue-dev-2inl)
-- [Spring Framework: About Aware suffix interface](https://dev.to/saladlam/spring-framework-about-aware-suffix-interface-39pb)
-- [From React to Hotwire - Part II - [EN]](https://dev.to/cirdes/from-react-to-hotwire-part-ii-en-2lim)
+- [Unlock the Secrets to Writing Clean and Structured JavaScript Code: Essential Practices for Developers](https://dev.to/futuristicgeeks/unlock-the-secrets-to-writing-clean-and-structured-javascript-code-essential-practices-for-developers-43ml)
+- [Enhancing Rust Enums in the State Pattern](https://dev.to/digclo/enhancing-rust-enums-in-the-state-pattern-35pa)
+- [Exploring the World of Generative AI: Key Takeaways](https://dev.to/bishop_bhaumik_fcd744a89e/exploring-the-world-of-generative-ai-key-takeaways-3hea)
+- [Criando componentes para Web #01: Acessibilidade &lpar;a11y&rpar; na prática com WAI-ARIA](https://dev.to/afonsopacifer/criando-componentes-para-web-01-acessibilidade-a11y-na-pratica-com-wai-aria-45ef)
 <!-- BLOG-POST-LIST:END -->
 
