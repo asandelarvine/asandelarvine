@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2 — Initialize OpenVR](https://dev.to/kurohuku/part-2-initialize-openvr-4gfh)
-- [How to Analyze Instagram Likes: A Simple Python App](https://dev.to/apiharbor/how-to-analyze-instagram-likes-a-simple-python-app-2fl1)
-- [Basic Linux Command used in Pentesting and Other Cyber Security Domains](https://dev.to/akash32755/basic-linux-command-used-in-pentesting-and-other-cyber-security-domains-1kll)
-- [Finding things](https://dev.to/simongreennet/finding-things-1f34)
+- [Discover the VERN Stack: Revolutionizing Web Development with VERSE.DB, Express, React, and Node](https://dev.to/jedi-studio/discover-the-vern-stack-revolutionizing-web-development-with-versedb-express-react-and-node-4ki1)
+- [Do React ao Hotwire - Parte I - [PT-BR]](https://dev.to/cirdes/do-react-ao-hotwire-parte-i-pt-br-1hm2)
+- [Python for DevOps: #Day13 of 90DaysofDevops](https://dev.to/oncloud7/python-for-devops-day13-of-90daysofdevops-1bdo)
+- [Part 5 — Change Size and Position](https://dev.to/kurohuku/part-5-change-size-and-position-2dj7)
 <!-- BLOG-POST-LIST:END -->
 
