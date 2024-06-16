@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If Else In Python](https://dev.to/pulkitgovrani/if-else-in-python-2315)
-- [Cheap countries to travel in winter with family](https://dev.to/blogland/cheap-countries-to-travel-in-winter-with-family-3f66)
-- [Project: Echopad](https://dev.to/paras594/project-echopad-37jc)
-- [How to build a Web IDE like codesandbox?](https://dev.to/abdul_165bf98345e29aea8ef/how-to-build-a-web-ide-like-codesandbox-38e6)
+- [Rejected, Not Deflected: My Journey After Out in Tech](https://dev.to/annaliesetech/rejected-not-deflected-my-journey-after-out-in-tech-18pd)
+- [cheap countries to visit in March in europ](https://dev.to/blogland/cheap-countries-to-visit-in-march-in-europ-34bc)
+- [Creating and Managing Multiple Projects and Servers with Mockingbird](https://dev.to/ozkeisar/creating-and-managing-multiple-projects-and-servers-with-mockingbird-a7b)
+- [cheap countries to visit in February with family and friends](https://dev.to/blogland/cheap-countries-to-visit-in-february-with-family-and-friends-3492)
 <!-- BLOG-POST-LIST:END -->
 
