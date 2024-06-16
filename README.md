@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Security](https://dev.to/r4nd3l/dev-security-1fj0)
-- [Top 5 things you should be aware of when dealing with AI models](https://dev.to/devot/top-5-things-you-should-be-aware-of-when-dealing-with-ai-models-5fd4)
-- [Building Go packages for Windows on ARM](https://dev.to/x1unix/building-go-packages-for-windows-on-arm-1721)
-- [Setting Up a Secure Wazuh Environment by AWS EC2](https://dev.to/zahraajawad/setting-up-a-secure-wazuh-environment-by-aws-ec2-487o)
+- [Heroes of DDD: Prologue](https://dev.to/mateusznowak/heroes-of-domain-driven-design-prologue-f37)
+- [Arquitetura Hexagonal Explicada: como Transformar seu Desenvolvimento de Software](https://dev.to/pmafra/arquitetura-hexagonal-explicada-como-transformar-seu-desenvolvimento-de-software-43d9)
+- [Creation of Resource Group in MS Azure](https://dev.to/kennyig/creation-of-resource-group-in-ms-azure-5f9i)
+- [Career Transition at 31: How I Became a Front-End Developer](https://dev.to/artcodes/career-transition-at-31-how-i-became-a-front-end-developer-2c8l)
 <!-- BLOG-POST-LIST:END -->
 
