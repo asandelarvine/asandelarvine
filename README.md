@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AssaultCube | Writing your first external cheat in RustLang](https://dev.to/zofia/assaultcube-writing-your-first-external-cheat-in-rustlang-3m7)
-- [Reading Transaction Events from a Smart Contract Using ethers.js](https://dev.to/spiritmoney/reading-transaction-events-from-a-smart-contract-using-ethersjs-4goo)
-- [Understanding the Need for Apache Kafka](https://dev.to/aadarsh-nagrath/understanding-the-need-for-apache-kafka-i44)
-- [How to build a custom React table component with Typescript &lpar;Part 1&rpar;](https://dev.to/igbominadeveloper/how-to-build-a-custom-react-table-component-with-typescript-part-1-1ln)
+- [Dev: Security](https://dev.to/r4nd3l/dev-security-1fj0)
+- [Top 5 things you should be aware of when dealing with AI models](https://dev.to/devot/top-5-things-you-should-be-aware-of-when-dealing-with-ai-models-5fd4)
+- [Building Go packages for Windows on ARM](https://dev.to/x1unix/building-go-packages-for-windows-on-arm-1721)
+- [Setting Up a Secure Wazuh Environment by AWS EC2](https://dev.to/zahraajawad/setting-up-a-secure-wazuh-environment-by-aws-ec2-487o)
 <!-- BLOG-POST-LIST:END -->
 
