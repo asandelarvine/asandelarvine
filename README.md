@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the VERN Stack: Revolutionizing Web Development with VERSE.DB, Express, React, and Node](https://dev.to/jedi-studio/discover-the-vern-stack-revolutionizing-web-development-with-versedb-express-react-and-node-4ki1)
-- [Do React ao Hotwire - Parte I - [PT-BR]](https://dev.to/cirdes/do-react-ao-hotwire-parte-i-pt-br-1hm2)
-- [Python for DevOps: #Day13 of 90DaysofDevops](https://dev.to/oncloud7/python-for-devops-day13-of-90daysofdevops-1bdo)
-- [Part 5 — Change Size and Position](https://dev.to/kurohuku/part-5-change-size-and-position-2dj7)
+- [Push notifications from server with Telegram Bot API](https://dev.to/climentea/push-notifications-from-server-with-telegram-bot-api-32b3)
+- [5 Essential Tips for New Frontend Web Developers](https://dev.to/ridoy_hasan/5-essential-tips-for-new-frontend-web-developers-2556)
+- [SQL-Server add record tip](https://dev.to/karenpayneoregon/sql-server-add-record-tip-j3j)
+- [Using Apache ECharts with Lit and TypeScript](https://dev.to/manufac/using-apache-echarts-with-lit-and-typescript-1597)
 <!-- BLOG-POST-LIST:END -->
 
