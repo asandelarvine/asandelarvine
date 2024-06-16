@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Difoosion, a Simple Web-Interface for Stable Diffusion Models](https://dev.to/sn3llius/difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2)
-- [PACX ⁓ Create columns: Numeric](https://dev.to/_neronotte/pacx-create-columns-numeric-4nk5)
-- [Twilio Challenge: Language Translator via Twilio Functions, WhatsApp, &amp; OpenAI](https://dev.to/adityaoberai/twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc)
-- [Part 7 — Draw Camera Output](https://dev.to/kurohuku/part-7-draw-camera-output-4l3a)
+- [How to Create a Memory Game: Step-by-Step Guide](https://dev.to/dk119819/how-to-create-a-memory-game-step-by-step-guide-4c4l)
+- [Open Web Application Security Project OWASP Top Ten](https://dev.to/ferdousazad/open-web-application-security-project-owasp-top-ten-l7o)
+- [What is full stack developer ?](https://dev.to/vicky435435/what-is-full-stack-developer--4ka9)
+- [Unlocking the Future: Passwordless Authentication&lpar;Passkey&rpar; With Flutter and Node.js](https://dev.to/djsmk123/unlocking-the-future-passwordless-authenticationpasskey-with-flutter-and-nodejs-1ojh)
 <!-- BLOG-POST-LIST:END -->
 
