@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first experience with the LAMP stack](https://dev.to/marko_k/my-first-experience-with-the-lamp-stack-b0h)
-- [Rendering Images The Good Way In Your React Application](https://dev.to/stan015/rendering-images-the-good-way-in-your-react-application-3fdl)
-- [Task Unity- Achieve More Together](https://dev.to/mdkaifansari04/task-unity-achieve-more-together-2co2)
-- [THE ROTATION THING PART 2](https://dev.to/kevinpalma21/the-rotation-thing-part-2-3nnm)
+- [Mastering API Integrations: A Step-by-Step Guide to Secure API Authentication in Java](https://dev.to/joaomarques/mastering-api-integrations-a-step-by-step-guide-to-secure-api-authentication-in-java-3b36)
+- [WebSocket vs HTTP](https://dev.to/elinatsovo/websocket-vs-http-3d5p)
+- [Quamtum Computing and its importance](https://dev.to/elmerurbina/quamtum-computing-and-its-importance-29on)
+- [Latest Redux Toolkit: Using the Builder Callback Notation in createReducer 💻](https://dev.to/adii/latest-redux-toolkit-using-the-builder-callback-notation-in-createreducer-1p5)
 <!-- BLOG-POST-LIST:END -->
 
