@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Inmutabilidad](https://dev.to/oscareduardolp6/inmutabilidad-2n1n)
-- [🧱 Immutability](https://dev.to/oscareduardolp6/immutability-5gph)
-- [The Cloneable Interface](https://dev.to/paulike/the-cloneable-interface-icp)
-- [Automatisons l&#39;enregistrement du User sur n&#39;importe quelle entité [Symfony]](https://dev.to/aratinau/automatisons-lenregistrement-du-user-sur-nimporte-quelle-entite-4f68)
+- [AWS Community Day 2024: A Landmark Event in Kenya&#39;s Tech Landscape](https://dev.to/aws-builders/aws-community-day-2024-a-landmark-event-in-kenyas-tech-landscape-5073)
+- [Class Design Guidelines](https://dev.to/paulike/class-design-guidelines-58gc)
+- [What are the Benefits of Using ECMAScript Classes Over Traditional Prototype-Based Inheritance?](https://dev.to/orases1/what-are-the-benefits-of-using-ecmascript-classes-over-traditional-prototype-based-inheritance-2j7h)
+- [Creating a browser extension for Chrome / Edge](https://dev.to/prakashm88/creating-a-browser-extension-for-chrome-edge-3d69)
 <!-- BLOG-POST-LIST:END -->
 
