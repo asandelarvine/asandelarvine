@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to run sample Goang file in Docker image which is available in EKS](https://dev.to/suryarao_koppula_0852f49f/how-to-run-sample-goang-file-in-docker-image-which-is-available-in-eks-3cbg)
-- [How to create a Virtual Environment in Python in 1 Minute?](https://dev.to/adityashrivastavv/how-to-create-a-virtual-environment-in-python-in-1-minute-5ah9)
-- [iOS18, iPadOS18, macOS15 developer beta 下載方法分享](https://dev.to/kueiapp/ios18-ipados18-macos15-developer-beta-xia-zai-fang-fa-fen-xiang-23ae)
-- [AI Revolutionizes Medical Staff Training: Personalized Learning for a Healthier Future](https://dev.to/zheleznayanatalia/ai-revolutionizes-medical-staff-training-personalized-learning-for-a-healthier-future-5eie)
+- [Can the VChart axis be set to avoid decimals?](https://dev.to/flyingandfly/can-the-vchart-axis-be-set-to-avoid-decimals-45ec)
+- [How to Use Ollama for Front-end with Streaming Output](https://dev.to/ppaanngggg/how-to-use-ollama-for-front-end-with-streaming-output-5efj)
+- [Essential Deep Learning Checklist: Best Practices Unveiled](https://dev.to/api4ai/essential-deep-learning-checklist-best-practices-unveiled-5gma)
+- [Basic Container Lifecycle Management](https://dev.to/kalkwst/basic-container-lifecycle-management-3n9k)
 <!-- BLOG-POST-LIST:END -->
 
