@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentos do desenvolvedor frontend](https://dev.to/lpazzim/fundamentos-do-desenvolvedor-frontend-jo6)
-- [9 tools, libraries and extensions our developer can&#39;t live without &lpar;and why&rpar;](https://dev.to/shohams/9-tools-libraries-and-extensions-our-developer-cant-live-without-and-why-3d9p)
-- [Redux Toolkit APIs](https://dev.to/bmanish/redux-toolkit-apis-27fj)
-- [Creative Full Screen Carousal Hero](https://dev.to/creative_salahu/creative-full-screen-carousal-hero-43k5)
+- [#babylonjs Browser MMORPG #indiegamedev Ep21 - Spatial Hash Grid Area of Interest](https://dev.to/maiu/babylonjs-browser-mmorpg-indiegamedev-ep21-spatial-hash-grid-area-of-interest-4fmc)
+- [Are we all prompting wrong? Balancing Creativity and Consistency in RAG.](https://dev.to/llmware/are-we-all-prompting-wrong-balancing-creativity-and-consistency-in-rag-20fm)
+- [Machine Learning Roadmap for Beginners &lpar; If you have a Non-CSE background like me😉&rpar;](https://dev.to/shemanto_sharkar/machine-learning-roadmap-for-beginners-if-you-have-a-non-cse-background-like-me-7g3)
+- [Scroll-snap property Exemple](https://dev.to/tidycoder/scroll-snap-property-exemple-20eg)
 <!-- BLOG-POST-LIST:END -->
 
