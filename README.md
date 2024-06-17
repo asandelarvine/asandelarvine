@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing for the Internet of Things &lpar;IoT&rpar;](https://dev.to/divine-ikechukwu/designing-for-the-internet-of-things-iot-7hl)
-- [Master The Behavioral Interview: 5 Effective Storytelling Frameworks](https://dev.to/alexr/master-the-behavioral-interview-5-effective-storytelling-frameworks-5df4)
-- [Registration Closed for Hack4Bengal, But You Can Still Join the Fun!](https://dev.to/arup_matabber/registration-closed-for-hack4bengal-but-you-can-still-join-the-fun-4c92)
-- [A cool loading animation in CSS pure](https://dev.to/tidycoder/a-cool-loading-animation-in-css-pure-n6m)
+- [Fundamentos do desenvolvedor frontend](https://dev.to/lpazzim/fundamentos-do-desenvolvedor-frontend-jo6)
+- [9 tools, libraries and extensions our developer can&#39;t live without &lpar;and why&rpar;](https://dev.to/shohams/9-tools-libraries-and-extensions-our-developer-cant-live-without-and-why-3d9p)
+- [Redux Toolkit APIs](https://dev.to/bmanish/redux-toolkit-apis-27fj)
+- [Creative Full Screen Carousal Hero](https://dev.to/creative_salahu/creative-full-screen-carousal-hero-43k5)
 <!-- BLOG-POST-LIST:END -->
 
