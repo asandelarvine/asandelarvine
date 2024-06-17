@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Job Security is a Myth: Three Lessons on Layoffs](https://dev.to/canro91/job-security-is-a-myth-three-lessons-on-layoffs-17bj)
-- [Valibot: A New Approach to Data Validation in JavaScript](https://dev.to/opensauced/valibot-a-new-approach-to-data-validation-in-javascript-1mgb)
-- [Write your first Spring Boot application](https://dev.to/jottyjohn/write-your-first-spring-boot-application-119d)
-- [Finishing implementation and doc strings](https://dev.to/ahmedhosssam/finishing-implementation-and-doc-strings-4c2a)
+- [Crafting a web SDK for Logto in minutes](https://dev.to/logto/crafting-a-web-sdk-for-logto-in-minutes-i4p)
+- [5 Quick Fixes for Power Automate](https://dev.to/wyattdave/5-quick-fixes-for-power-automate-1ola)
+- [Macbook air m1 vs macbook pro 15 2018 vs mac mini 2018](https://dev.to/luisgmoreno/macbook-air-m1-vs-macbook-pro-15-2018-vs-mac-mini-2018-56o6)
+- [How to deploy a React app with Kamal &lpar;formerly known as MRSK&rpar; &amp; GitHub Action](https://dev.to/tannakartikey/how-to-deploy-a-react-app-with-kamal-formerly-known-as-mrsk-github-action-32i8)
 <!-- BLOG-POST-LIST:END -->
 
