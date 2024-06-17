@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The loss functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-loss-functions-for-neural-network-in-pytorch-hf9)
-- [Data Dynamics: Exploring Information Theory Essentials](https://dev.to/kevinbg012/data-dynamics-exploring-information-theory-essentials-1eoa)
-- [Building a Weather Application with OpenWeatherMap API](https://dev.to/kartikmehta8/building-a-weather-application-with-openweathermap-api-3ldh)
-- [Install PHP 8.3 and config Apache in Ubuntu 22.04](https://dev.to/automata/install-php-83-and-to-config-apache-in-ubuntu-2204-602)
+- [Get Ready for Your JavaScript Interview: Top 100 Questions to Practice](https://dev.to/dk119819/get-ready-for-your-javascript-interview-top-100-questions-to-practice-5mn)
+- [Backend Developer Skills You Must Know in 2024](https://dev.to/thekarlesi/backend-developer-skills-you-must-know-in-2024-4mi8)
+- [Setting up Vim for PHP and laravel in 2024](https://dev.to/woland/setting-up-vim-for-php-and-laravel-in-2024-1pl7)
+- [How to Create a Loading Bar Using HTML, CSS, and JavaScript](https://dev.to/dk119819/how-to-create-a-loading-bar-using-html-css-and-javascript-326j)
 <!-- BLOG-POST-LIST:END -->
 
