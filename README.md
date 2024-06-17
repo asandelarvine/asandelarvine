@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Convolutional neural network &lpar;CNN&rpar; on Google Colab?](https://dev.to/stevenmathew/a-simple-convolutional-neural-network-cnn-on-google-colab-4hfi)
-- [Terraform Dynamic Blocks: Advanced Use Cases and Examples](https://dev.to/env0/terraform-dynamic-blocks-advanced-use-cases-and-examples-32g8)
-- [RFID - low wave radio communications](https://dev.to/tyler_wes/rfid-low-wave-radio-communications-4acf)
-- [Deep vs Shallow cloning 2](https://dev.to/__khojiakbar__/deep-vs-shallow-cloning-2-2jjg)
+- [SFU vs MCU vs P2P: WebRTC Architectures Explained](https://dev.to/alakkadshaw/sfu-vs-mcu-vs-p2p-webrtc-architectures-explained-43de)
+- [Sentiment Analysis using CPU-Friendly Small Language Models 😡 😃](https://dev.to/llmware/sentiment-analysis-using-cpu-friendly-small-language-models-1idd)
+- [Image Optimization and Lazy Loading](https://dev.to/joaopaulo_avila/image-optimization-and-lazy-loading-30gj)
+- [Concurrency in Go: Goroutines, Channels, and Concurrency Patterns](https://dev.to/gophers_kisumu/concurrency-in-go-goroutines-channels-and-concurrency-patterns-4hlc)
 <!-- BLOG-POST-LIST:END -->
 
