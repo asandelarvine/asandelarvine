@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Humans of OpenTelemetry: KubeCon EU 2024](https://dev.to/avillela/the-humans-of-opentelemetry-kubecon-eu-2024-1hm5)
-- [Building a Rock-Solid Foundation with Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/gauri1504/building-a-rock-solid-foundation-with-infrastructure-as-code-iac-efo)
-- [Understanding OIDC back-channel logout](https://dev.to/logto/understanding-oidc-back-channel-logout-f95)
-- [Day 1: Introduction to Data Structures and Algorithms &lpar;DSA&rpar;🚀](https://dev.to/dipakahirav/day-1-introduction-to-data-structures-and-algorithms-dsa-122o)
+- [Job Security is a Myth: Three Lessons on Layoffs](https://dev.to/canro91/job-security-is-a-myth-three-lessons-on-layoffs-17bj)
+- [Valibot: A New Approach to Data Validation in JavaScript](https://dev.to/opensauced/valibot-a-new-approach-to-data-validation-in-javascript-1mgb)
+- [Write your first Spring Boot application](https://dev.to/jottyjohn/write-your-first-spring-boot-application-119d)
+- [Finishing implementation and doc strings](https://dev.to/ahmedhosssam/finishing-implementation-and-doc-strings-4c2a)
 <!-- BLOG-POST-LIST:END -->
 
