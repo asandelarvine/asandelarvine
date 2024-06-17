@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SFU vs MCU vs P2P: WebRTC Architectures Explained](https://dev.to/alakkadshaw/sfu-vs-mcu-vs-p2p-webrtc-architectures-explained-43de)
-- [Sentiment Analysis using CPU-Friendly Small Language Models 😡 😃](https://dev.to/llmware/sentiment-analysis-using-cpu-friendly-small-language-models-1idd)
-- [Image Optimization and Lazy Loading](https://dev.to/joaopaulo_avila/image-optimization-and-lazy-loading-30gj)
-- [Concurrency in Go: Goroutines, Channels, and Concurrency Patterns](https://dev.to/gophers_kisumu/concurrency-in-go-goroutines-channels-and-concurrency-patterns-4hlc)
+- [AIM Weekly 17 June 2024](https://dev.to/tspannhw/aim-weekly-17-june-2024-3cmp)
+- [Tech radar: Keep an eye on the technology landscape](https://dev.to/jdxlabs/tech-radar-keep-an-eye-on-the-technology-landscape-2pnd)
+- [Day 18 of 30 of JavaScript](https://dev.to/akshat0610/day-18-of-30-of-javascript-1ph8)
+- [In Java how to create a custom ArrayList that doesn&#39;t allow duplicate?](https://dev.to/codegreen/in-java-how-to-create-a-custom-arraylist-that-doesnt-allow-duplicate-dbj)
 <!-- BLOG-POST-LIST:END -->
 
