@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Diffusion: An Elementary Tutorial](https://dev.to/mikeyoung44/step-by-step-diffusion-an-elementary-tutorial-7cc)
-- [Rough Set improved Therapy-Based Metaverse Assisting System](https://dev.to/mikeyoung44/rough-set-improved-therapy-based-metaverse-assisting-system-450l)
-- [AES: The Power of Advanced Encryption Standard for Data Security](https://dev.to/harish_05/aes-the-power-of-advanced-encryption-standard-for-data-security-g6c)
-- [Open Problems in DAOs](https://dev.to/mikeyoung44/open-problems-in-daos-35cn)
+- [Designing for the Internet of Things &lpar;IoT&rpar;](https://dev.to/divine-ikechukwu/designing-for-the-internet-of-things-iot-7hl)
+- [Master The Behavioral Interview: 5 Effective Storytelling Frameworks](https://dev.to/alexr/master-the-behavioral-interview-5-effective-storytelling-frameworks-5df4)
+- [Registration Closed for Hack4Bengal, But You Can Still Join the Fun!](https://dev.to/arup_matabber/registration-closed-for-hack4bengal-but-you-can-still-join-the-fun-4c92)
+- [A cool loading animation in CSS pure](https://dev.to/tidycoder/a-cool-loading-animation-in-css-pure-n6m)
 <!-- BLOG-POST-LIST:END -->
 
