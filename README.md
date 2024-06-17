@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BEM Modifiers in Pure CSS Nesting](https://dev.to/what1s1ove/bem-modifiers-in-pure-css-nesting-4j9k)
-- [Onshoring vs. Offshoring Developer Comparison](https://dev.to/zoey_nguyen/onshoring-vs-offshoring-developer-comparison-49m9)
-- [Mastering Web Breakpoints: Creating Responsive Designs for All Devices 🔥](https://dev.to/alisamirali/mastering-web-breakpoints-creating-responsive-designs-for-all-devices-3jmj)
-- [How to Check for Key Presence in a JavaScript Object](https://dev.to/keploy/how-to-check-for-key-presence-in-a-javascript-object-3589)
+- [How to run sample Goang file in Docker image which is available in EKS](https://dev.to/suryarao_koppula_0852f49f/how-to-run-sample-goang-file-in-docker-image-which-is-available-in-eks-3cbg)
+- [How to create a Virtual Environment in Python in 1 Minute?](https://dev.to/adityashrivastavv/how-to-create-a-virtual-environment-in-python-in-1-minute-5ah9)
+- [iOS18, iPadOS18, macOS15 developer beta 下載方法分享](https://dev.to/kueiapp/ios18-ipados18-macos15-developer-beta-xia-zai-fang-fa-fen-xiang-23ae)
+- [AI Revolutionizes Medical Staff Training: Personalized Learning for a Healthier Future](https://dev.to/zheleznayanatalia/ai-revolutionizes-medical-staff-training-personalized-learning-for-a-healthier-future-5eie)
 <!-- BLOG-POST-LIST:END -->
 
