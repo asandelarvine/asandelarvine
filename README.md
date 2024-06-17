@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 8.0 - JWT Token Authentication Using The Example API](https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l)
-- [The Joy Of &lpar;Digital&rpar; &quot;Painting&quot;](https://dev.to/tremartin/the-joy-of-digital-painting-33ia)
-- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-3bmd)
-- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-4337)
+- [How Many Ingress Controllers We Need in K8S?](https://dev.to/u2633/how-many-ingress-controllers-we-need-in-k8s-12c7)
+- [In Excel, Identify Data Layers Correctly and Convert Them to a Standardized Table](https://dev.to/judith677/in-excel-identify-data-layers-correctly-and-convert-them-to-a-standardized-table-epl)
+- [Leveraging Blockchain Technology in eWallet App Development for Enhanced Security](https://dev.to/chariesdevil/leveraging-blockchain-technology-in-ewallet-app-development-for-enhanced-security-617)
+- [Angular vs React: In-depth comparison of the most popular front-end technologies](https://dev.to/pzurawski/angular-vs-react-in-depth-comparison-of-the-most-popular-front-end-technologies-ij)
 <!-- BLOG-POST-LIST:END -->
 
