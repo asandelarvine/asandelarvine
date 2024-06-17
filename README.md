@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Ready for Your JavaScript Interview: Top 100 Questions to Practice](https://dev.to/dk119819/get-ready-for-your-javascript-interview-top-100-questions-to-practice-5mn)
-- [Backend Developer Skills You Must Know in 2024](https://dev.to/thekarlesi/backend-developer-skills-you-must-know-in-2024-4mi8)
-- [Setting up Vim for PHP and laravel in 2024](https://dev.to/woland/setting-up-vim-for-php-and-laravel-in-2024-1pl7)
-- [How to Create a Loading Bar Using HTML, CSS, and JavaScript](https://dev.to/dk119819/how-to-create-a-loading-bar-using-html-css-and-javascript-326j)
+- [SSL context creation crashes of c++ native module in Electron application](https://dev.to/codert0109/ssl-context-creation-crashes-of-c-native-module-in-electron-application-307a)
+- [The Basics of BABEL](https://dev.to/gagecantrelle/the-basics-of-babel-2d8f)
+- [Top CSS Websites for Developers: Elevate Your Frontend Skills](https://dev.to/vyan/top-css-websites-for-developers-elevate-your-frontend-skills-550l)
+- [Azure Resource Naming Conventions! Best Practices for Optimal Management](https://dev.to/karthiksdevopsengineer/azure-resource-naming-conventions-best-practices-for-optimal-management-9d0)
 <!-- BLOG-POST-LIST:END -->
 
