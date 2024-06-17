@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Ingress Controllers We Need in K8S?](https://dev.to/u2633/how-many-ingress-controllers-we-need-in-k8s-12c7)
-- [In Excel, Identify Data Layers Correctly and Convert Them to a Standardized Table](https://dev.to/judith677/in-excel-identify-data-layers-correctly-and-convert-them-to-a-standardized-table-epl)
-- [Leveraging Blockchain Technology in eWallet App Development for Enhanced Security](https://dev.to/chariesdevil/leveraging-blockchain-technology-in-ewallet-app-development-for-enhanced-security-617)
-- [Angular vs React: In-depth comparison of the most popular front-end technologies](https://dev.to/pzurawski/angular-vs-react-in-depth-comparison-of-the-most-popular-front-end-technologies-ij)
+- [BEM Modifiers in Pure CSS Nesting](https://dev.to/what1s1ove/bem-modifiers-in-pure-css-nesting-4j9k)
+- [Onshoring vs. Offshoring Developer Comparison](https://dev.to/zoey_nguyen/onshoring-vs-offshoring-developer-comparison-49m9)
+- [Mastering Web Breakpoints: Creating Responsive Designs for All Devices 🔥](https://dev.to/alisamirali/mastering-web-breakpoints-creating-responsive-designs-for-all-devices-3jmj)
+- [How to Check for Key Presence in a JavaScript Object](https://dev.to/keploy/how-to-check-for-key-presence-in-a-javascript-object-3589)
 <!-- BLOG-POST-LIST:END -->
 
