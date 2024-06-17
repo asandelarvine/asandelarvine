@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Heroes of DDD: Prologue](https://dev.to/mateusznowak/heroes-of-domain-driven-design-prologue-f37)
-- [Arquitetura Hexagonal Explicada: como Transformar seu Desenvolvimento de Software](https://dev.to/pmafra/arquitetura-hexagonal-explicada-como-transformar-seu-desenvolvimento-de-software-43d9)
-- [Creation of Resource Group in MS Azure](https://dev.to/kennyig/creation-of-resource-group-in-ms-azure-5f9i)
-- [Career Transition at 31: How I Became a Front-End Developer](https://dev.to/artcodes/career-transition-at-31-how-i-became-a-front-end-developer-2c8l)
+- [The loss functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-loss-functions-for-neural-network-in-pytorch-hf9)
+- [Data Dynamics: Exploring Information Theory Essentials](https://dev.to/kevinbg012/data-dynamics-exploring-information-theory-essentials-1eoa)
+- [Building a Weather Application with OpenWeatherMap API](https://dev.to/kartikmehta8/building-a-weather-application-with-openweathermap-api-3ldh)
+- [Install PHP 8.3 and config Apache in Ubuntu 22.04](https://dev.to/automata/install-php-83-and-to-config-apache-in-ubuntu-2204-602)
 <!-- BLOG-POST-LIST:END -->
 
