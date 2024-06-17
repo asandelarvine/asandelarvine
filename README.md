@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting a web SDK for Logto in minutes](https://dev.to/logto/crafting-a-web-sdk-for-logto-in-minutes-i4p)
-- [5 Quick Fixes for Power Automate](https://dev.to/wyattdave/5-quick-fixes-for-power-automate-1ola)
-- [Macbook air m1 vs macbook pro 15 2018 vs mac mini 2018](https://dev.to/luisgmoreno/macbook-air-m1-vs-macbook-pro-15-2018-vs-mac-mini-2018-56o6)
-- [How to deploy a React app with Kamal &lpar;formerly known as MRSK&rpar; &amp; GitHub Action](https://dev.to/tannakartikey/how-to-deploy-a-react-app-with-kamal-formerly-known-as-mrsk-github-action-32i8)
+- [.NET 8.0 - JWT Token Authentication Using The Example API](https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l)
+- [The Joy Of &lpar;Digital&rpar; &quot;Painting&quot;](https://dev.to/tremartin/the-joy-of-digital-painting-33ia)
+- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-3bmd)
+- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-4337)
 <!-- BLOG-POST-LIST:END -->
 
