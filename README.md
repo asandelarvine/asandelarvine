@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can the VChart axis be set to avoid decimals?](https://dev.to/flyingandfly/can-the-vchart-axis-be-set-to-avoid-decimals-45ec)
-- [How to Use Ollama for Front-end with Streaming Output](https://dev.to/ppaanngggg/how-to-use-ollama-for-front-end-with-streaming-output-5efj)
-- [Essential Deep Learning Checklist: Best Practices Unveiled](https://dev.to/api4ai/essential-deep-learning-checklist-best-practices-unveiled-5gma)
-- [Basic Container Lifecycle Management](https://dev.to/kalkwst/basic-container-lifecycle-management-3n9k)
+- [A Simple Convolutional neural network &lpar;CNN&rpar; on Google Colab?](https://dev.to/stevenmathew/a-simple-convolutional-neural-network-cnn-on-google-colab-4hfi)
+- [Terraform Dynamic Blocks: Advanced Use Cases and Examples](https://dev.to/env0/terraform-dynamic-blocks-advanced-use-cases-and-examples-32g8)
+- [RFID - low wave radio communications](https://dev.to/tyler_wes/rfid-low-wave-radio-communications-4acf)
+- [Deep vs Shallow cloning 2](https://dev.to/__khojiakbar__/deep-vs-shallow-cloning-2-2jjg)
 <!-- BLOG-POST-LIST:END -->
 
