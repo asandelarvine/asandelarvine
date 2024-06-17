@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Community Day 2024: A Landmark Event in Kenya&#39;s Tech Landscape](https://dev.to/aws-builders/aws-community-day-2024-a-landmark-event-in-kenyas-tech-landscape-5073)
-- [Class Design Guidelines](https://dev.to/paulike/class-design-guidelines-58gc)
-- [What are the Benefits of Using ECMAScript Classes Over Traditional Prototype-Based Inheritance?](https://dev.to/orases1/what-are-the-benefits-of-using-ecmascript-classes-over-traditional-prototype-based-inheritance-2j7h)
-- [Creating a browser extension for Chrome / Edge](https://dev.to/prakashm88/creating-a-browser-extension-for-chrome-edge-3d69)
+- [My first experience with the LAMP stack](https://dev.to/marko_k/my-first-experience-with-the-lamp-stack-b0h)
+- [Rendering Images The Good Way In Your React Application](https://dev.to/stan015/rendering-images-the-good-way-in-your-react-application-3fdl)
+- [Task Unity- Achieve More Together](https://dev.to/mdkaifansari04/task-unity-achieve-more-together-2co2)
+- [THE ROTATION THING PART 2](https://dev.to/kevinpalma21/the-rotation-thing-part-2-3nnm)
 <!-- BLOG-POST-LIST:END -->
 
