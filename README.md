@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automatically Approve All Posts in Your Reddit Subreddit](https://dev.to/sh20raj/how-to-automatically-approve-all-posts-in-your-reddit-subreddit-1hmk)
-- [How to Empower Developers with Guardrails Instead of Cages](https://dev.to/getambassador2024/how-to-empower-developers-with-guardrails-instead-of-cages-395l)
-- [Pull Request Review using AI: A Technical Guide](https://dev.to/coderbotics_ai/pull-request-review-using-ai-a-technical-guide-55cm)
-- [Every Google &amp;udm=? in the world](https://dev.to/terrytanys/every-google-udm-in-the-world-2a88)
+- [PACX ⁓ Create columns: Choice &lpar;Picklist&rpar;](https://dev.to/_neronotte/pacx-create-columns-choice-picklist-3m11)
+- [Heroes of DDD: BEHAVING perspective. What do I do?](https://dev.to/mateusznowak/heroes-of-ddd-behaving-perspective-what-do-i-do-1o1b)
+- [Golang CRUD API](https://dev.to/maulik2900/3-bando-455g)
+- [Leveraging OpenTelemetry Logs and Java Auto Instrumentation in Object-Oriented Programming](https://dev.to/stackify/leveraging-opentelemetry-logs-and-java-auto-instrumentation-in-object-oriented-programming-oc2)
 <!-- BLOG-POST-LIST:END -->
 
