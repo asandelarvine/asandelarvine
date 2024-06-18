@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of My 90-Day DevOps Journey: Getting Started with Terraform and AWS](https://dev.to/arbythecoder/day-1-of-my-90-day-devops-journey-getting-started-with-terraform-and-aws-2d5g)
-- [Why is SEO So Important? How Does It Work?](https://dev.to/juddiy/why-is-seo-so-important-how-does-it-work-3n9e)
-- [PHP HyperF -&gt; Overhead + Circuit Breaker](https://dev.to/thiagoeti/php-hyperf-overhead-circuit-breaker-2fg2)
-- [Java prep for 3+ years](https://dev.to/mallikarjunht/java-prep-for-3-years-4n8b)
+- [Constants, Object.freeze, Object.seal and Immutable in JavaScript](https://dev.to/chauhoangminhnguyen/constants-objectfreeze-objectseal-and-immutable-in-javascript-3iha)
+- [The Ultimate Guide to Prisma ORM: Transforming Database Management for Developers](https://dev.to/abhilaksharora/the-ultimate-guide-to-prisma-orm-transforming-database-management-for-developers-470n)
+- [A Dropbox nightmare: Paying for storage I can&#39;t use](https://dev.to/lunks/a-dropbox-nightmare-b8a)
+- [java prep - part 3](https://dev.to/mallikarjunht/java-prep-part-3-5c7e)
 <!-- BLOG-POST-LIST:END -->
 
