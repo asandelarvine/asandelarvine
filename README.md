@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: AR/VR](https://dev.to/r4nd3l/dev-arvr-5fa4)
-- [Using RAG to Build Your IDE Agents](https://dev.to/commanddash/using-rag-to-build-your-ide-agents-1pcj)
-- [.NET 8 💥 - Intro to Kubernetes for .NET Devs](https://dev.to/moe23/net-8-intro-to-kubernetes-for-net-devs-1omm)
-- [Lesser-known HTML tags #1](https://dev.to/blobbybobby/lesser-known-html-tags-1-1697)
+- [SQLynx - Best Web-Based SQL Editor for Developers and Data Analysts](https://dev.to/concerate/sqlynx-best-web-based-sql-editor-for-developers-and-data-analysts-1p0f)
+- [Build your Service Mesh [Part 1]](https://dev.to/ramonberrutti/build-your-service-mesh-part-1-10ed)
+- [Dicas de Terminal e SSH](https://dev.to/rafaone/dicas-de-terminal-e-ssh-47bd)
+- [Building my Own wc Tool in Rust&#39;](https://dev.to/krymancer/building-my-own-wc-tool-in-rust-l0c)
 <!-- BLOG-POST-LIST:END -->
 
