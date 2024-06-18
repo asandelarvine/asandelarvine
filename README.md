@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study - TDD in Node.js Inspector Server and Other Projects](https://dev.to/eugeneo_17/case-study-tdd-in-nodejs-inspector-server-and-other-projects-30e6)
-- [CSS Variables &lpar;CSS Custom properties&rpar; for Beginners](https://dev.to/udoka033/css-variables-css-custom-properties-for-beginners-3oha)
-- [GO — Estrutura de projetos](https://dev.to/espigah/go-estrutura-de-projetos-1j0k)
-- [🎉 Celebrating 90 Hours of Coding! 🚀](https://dev.to/zobaidulkazi/celebrating-90-hours-of-coding-3mln)
+- [Dev: AR/VR](https://dev.to/r4nd3l/dev-arvr-5fa4)
+- [Using RAG to Build Your IDE Agents](https://dev.to/commanddash/using-rag-to-build-your-ide-agents-1pcj)
+- [.NET 8 💥 - Intro to Kubernetes for .NET Devs](https://dev.to/moe23/net-8-intro-to-kubernetes-for-net-devs-1omm)
+- [Lesser-known HTML tags #1](https://dev.to/blobbybobby/lesser-known-html-tags-1-1697)
 <!-- BLOG-POST-LIST:END -->
 
