@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interceptors: The basics and their use under Entity Framework](https://dev.to/ben-witt/interceptors-the-basics-and-their-use-under-entity-framework-j8f)
-- [The latest trends and technological innovations in the field of money transfers](https://dev.to/danieldavis/the-latest-trends-and-technological-innovations-in-the-field-of-money-transfers-jfd)
-- [Understanding Null, Undefined, and Undeclared in JavaScript](https://dev.to/dk119819/understanding-null-undefined-and-undeclared-in-javascript-3k66)
-- [7 Tips for Effective Communication in Remote Teams](https://dev.to/martinbaun/7-tips-for-effective-communication-in-remote-teams-4714)
+- [Rust vs. C++: Modern Developers’ Dilemma](https://dev.to/zoltan_fehervari_52b16d1d/rust-vs-c-modern-developers-dilemma-1i0p)
+- [Swithing Data Types: Understanding the &#39;Type Switch&#39; in GoLang](https://dev.to/ishmam_abir/swithing-data-types-understanding-the-type-switch-in-golang-4enc)
+- [Combatting Food Waste with Code: Python for Perishable Goods](https://dev.to/akaksha/combatting-food-waste-with-code-python-for-perishable-goods-2e56)
+- [Lessons from Google’s technical writing course for engineering blogs](https://dev.to/annelaure13/lessons-from-googles-technical-writing-course-for-engineering-blogs-4458)
 <!-- BLOG-POST-LIST:END -->
 
