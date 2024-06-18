@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the outcome of TailwindCSS vs Bootstrap!](https://dev.to/zoltan_fehervari_52b16d1d/watch-the-outcome-of-tailwindcss-vs-bootstrap-1o2o)
-- [Need Help While Learning the Web Devlopment](https://dev.to/raj_kumar_3be6c725b7b7beb/need-help-while-learning-the-web-devlopment-3265)
-- [Understanding Loops - A Tangible Example](https://dev.to/terabytetiger/understanding-loops-a-tangible-example-2o0p)
-- [Part 9 — Overlay Events](https://dev.to/kurohuku/part-9-overlay-events-4342)
+- [Synchronizing multiple graphics](https://dev.to/lenormor/synchronizing-multiple-graphics-31mc)
+- [Generative AI, from your local machine to Azure with LangChain.js](https://dev.to/azure/generative-ai-from-your-local-machine-to-azure-with-langchainjs-5288)
+- [The Ultimate 2024 Tech Stack for Solo SaaS Developers: Build Smarter, Not Harder](https://dev.to/ixartz/the-ultimate-2024-tech-stack-for-solo-saas-developers-build-smarter-not-harder-14kb)
+- [Empleabilidad en el ámbito cloud, by Experis](https://dev.to/aws-espanol/empleabilidad-en-el-ambito-cloud-by-experis-3df)
 <!-- BLOG-POST-LIST:END -->
 
