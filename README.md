@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate JavaScript Cheatsheet for Developers](https://dev.to/dk119819/ultimate-javascript-cheatsheet-for-developers-43d3)
-- [Configuring Access to Prometheus and Grafana via Sub-paths](https://dev.to/tinhtq97/configuring-access-to-prometheus-and-grafana-via-sub-paths-55n7)
-- [Exploring the Fundamentals of Data Visualization with ggplot2](https://dev.to/kartikmehta8/exploring-the-fundamentals-of-data-visualization-with-ggplot2-2f0h)
-- [Introducing Intention: A High-Performance RSGI Framework for Python](https://dev.to/mcharytoniuk/introducing-intention-a-high-performance-rsgi-framework-for-python-38gp)
+- [Day 1 of My 90-Day DevOps Journey: Getting Started with Terraform and AWS](https://dev.to/arbythecoder/day-1-of-my-90-day-devops-journey-getting-started-with-terraform-and-aws-2d5g)
+- [Why is SEO So Important? How Does It Work?](https://dev.to/juddiy/why-is-seo-so-important-how-does-it-work-3n9e)
+- [PHP HyperF -&gt; Overhead + Circuit Breaker](https://dev.to/thiagoeti/php-hyperf-overhead-circuit-breaker-2fg2)
+- [Java prep for 3+ years](https://dev.to/mallikarjunht/java-prep-for-3-years-4n8b)
 <!-- BLOG-POST-LIST:END -->
 
