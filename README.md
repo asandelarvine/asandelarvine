@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Food Manufacturing with Python: Optimizing Raw Materials](https://dev.to/twinkle123/enhancing-food-manufacturing-with-python-optimizing-raw-materials-38c6)
-- [1.WHAT IS SELENIUM 2.USE OF SELENIUM FOR AUTOMATION](https://dev.to/sunmathi/1what-is-selenium-2use-of-selenium-for-automation-jhf)
-- [** Perdidos en la Isla del Internet de las Cosas: IoT y la Serie &quot;Lost&quot;** 🏝️](https://dev.to/orlidev/-perdidos-en-la-isla-del-internet-de-las-cosas-iot-y-la-serie-lost-41n3)
-- [Understanding Concurrency and Parallelism: What&#39;s the Difference?](https://dev.to/ryanmabrouk/understanding-concurrency-and-parallelism-whats-the-difference-3d45)
+- [A journey to Flutter liveness &lpar;pt1&rpar;](https://dev.to/jodamco/a-journey-to-flutter-liveness-pt1-4164)
+- [Design Pattern Operation Result em C#](https://dev.to/felipesntr/design-pattern-operation-result-em-c-2g8o)
+- [Byte: Beads on a Bracelet](https://dev.to/avishek_chowdhury/byte-beads-on-a-bracelet-f5b)
+- [JPG to WebP: Enhancing Image Efficiency](https://dev.to/msmith99994/jpg-to-webp-enhancing-image-efficiency-205p)
 <!-- BLOG-POST-LIST:END -->
 
