@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-15 Task: Python Libraries for DevOps](https://dev.to/oncloud7/day-15-task-python-libraries-for-devops-464o)
-- [Review of the Oldest Project Management Tools](https://dev.to/nicklasmikke1sen/review-of-the-oldest-project-management-tools-3j6h)
-- [Best Productivity Hacks for Developers](https://dev.to/geekflarehq/best-productivity-hacks-for-developers-374h)
-- [Step-by-Step Guide: Random Post in Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-random-post-in-bear-blog-4ke1)
+- [Angular Authentication: Upgrade to Angular 18 🚀](https://dev.to/nikosanif/angular-authentication-upgrade-to-angular-18-382h)
+- [Wow! These expert comparisons are getting out of hand: NestJS vs Express!](https://dev.to/zoltan_fehervari_52b16d1d/wow-these-expert-comparisons-are-getting-out-of-hand-nestjs-vs-express-2n9b)
+- [What are the essential features to include in a sexting website for user engagement and safety?](https://dev.to/scarlettevans09/what-are-the-essential-features-to-include-in-a-sexting-website-for-user-engagement-and-safety-4h91)
+- [Mastering Environment Variables in Node.js: A Step-by-Step Guide Using DotEnv](https://dev.to/spiritmoney/mastering-environment-variables-in-nodejs-a-step-by-step-guide-using-dotenv-39h9)
 <!-- BLOG-POST-LIST:END -->
 
