@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Authentication Providers in Next.js](https://dev.to/vyan/exploring-authentication-providers-in-nextjs-4nh7)
-- [7 Ways AI is Transforming Cloud Computing](https://dev.to/calsoftinc/7-ways-ai-is-transforming-cloud-computing-8cj)
-- [Ultimate Guide: Creating and Publishing Your First React Component on NPM](https://dev.to/futuristicgeeks/ultimate-guide-creating-and-publishing-your-first-react-component-on-npm-22dp)
-- [A Complete Guide on Test Case Management [Tools &amp; Types]](https://dev.to/elle_richard_232/a-complete-guide-on-test-case-management-tools-types-5pk)
+- [How to Automatically Approve All Posts in Your Reddit Subreddit](https://dev.to/sh20raj/how-to-automatically-approve-all-posts-in-your-reddit-subreddit-1hmk)
+- [How to Empower Developers with Guardrails Instead of Cages](https://dev.to/getambassador2024/how-to-empower-developers-with-guardrails-instead-of-cages-395l)
+- [Pull Request Review using AI: A Technical Guide](https://dev.to/coderbotics_ai/pull-request-review-using-ai-a-technical-guide-55cm)
+- [Every Google &amp;udm=? in the world](https://dev.to/terrytanys/every-google-udm-in-the-world-2a88)
 <!-- BLOG-POST-LIST:END -->
 
