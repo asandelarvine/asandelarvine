@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PACX ⁓ Create columns: Choice &lpar;Picklist&rpar;](https://dev.to/_neronotte/pacx-create-columns-choice-picklist-3m11)
-- [Heroes of DDD: BEHAVING perspective. What do I do?](https://dev.to/mateusznowak/heroes-of-ddd-behaving-perspective-what-do-i-do-1o1b)
-- [Golang CRUD API](https://dev.to/maulik2900/3-bando-455g)
-- [Leveraging OpenTelemetry Logs and Java Auto Instrumentation in Object-Oriented Programming](https://dev.to/stackify/leveraging-opentelemetry-logs-and-java-auto-instrumentation-in-object-oriented-programming-oc2)
+- [Interceptors: The basics and their use under Entity Framework](https://dev.to/ben-witt/interceptors-the-basics-and-their-use-under-entity-framework-j8f)
+- [The latest trends and technological innovations in the field of money transfers](https://dev.to/danieldavis/the-latest-trends-and-technological-innovations-in-the-field-of-money-transfers-jfd)
+- [Understanding Null, Undefined, and Undeclared in JavaScript](https://dev.to/dk119819/understanding-null-undefined-and-undeclared-in-javascript-3k66)
+- [7 Tips for Effective Communication in Remote Teams](https://dev.to/martinbaun/7-tips-for-effective-communication-in-remote-teams-4714)
 <!-- BLOG-POST-LIST:END -->
 
