@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Distributed Systems: Essential Design Patterns for Scalability and Resilience](https://dev.to/tutorialq/mastering-distributed-systems-essential-design-patterns-for-scalability-and-resilience-35ck)
-- [Directory Structure : Selenium Automation](https://dev.to/parthkamal/directory-structure-selenium-automation-52ic)
-- [HTML5 API&#39;s](https://dev.to/kiransm/html5-apis-1dbb)
-- [Stepping into Storage: A Guide to Creating an S3 Bucket and Uploading Files on AWS](https://dev.to/techgirlkaydee/stepping-into-storage-a-guide-to-creating-an-s3-bucket-and-uploading-files-on-aws-2624)
+- [Exploring Authentication Providers in Next.js](https://dev.to/vyan/exploring-authentication-providers-in-nextjs-4nh7)
+- [7 Ways AI is Transforming Cloud Computing](https://dev.to/calsoftinc/7-ways-ai-is-transforming-cloud-computing-8cj)
+- [Ultimate Guide: Creating and Publishing Your First React Component on NPM](https://dev.to/futuristicgeeks/ultimate-guide-creating-and-publishing-your-first-react-component-on-npm-22dp)
+- [A Complete Guide on Test Case Management [Tools &amp; Types]](https://dev.to/elle_richard_232/a-complete-guide-on-test-case-management-tools-types-5pk)
 <!-- BLOG-POST-LIST:END -->
 
