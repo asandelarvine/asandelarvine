@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Authentication: Upgrade to Angular 18 🚀](https://dev.to/nikosanif/angular-authentication-upgrade-to-angular-18-382h)
-- [Wow! These expert comparisons are getting out of hand: NestJS vs Express!](https://dev.to/zoltan_fehervari_52b16d1d/wow-these-expert-comparisons-are-getting-out-of-hand-nestjs-vs-express-2n9b)
-- [What are the essential features to include in a sexting website for user engagement and safety?](https://dev.to/scarlettevans09/what-are-the-essential-features-to-include-in-a-sexting-website-for-user-engagement-and-safety-4h91)
-- [Mastering Environment Variables in Node.js: A Step-by-Step Guide Using DotEnv](https://dev.to/spiritmoney/mastering-environment-variables-in-nodejs-a-step-by-step-guide-using-dotenv-39h9)
+- [Lock / Mutex to a CS undergraduate](https://dev.to/sauravshah31/lock-mutex-to-a-cs-undergraduate-59me)
+- [Building a SQL Report Generator using Gemini AI + ToolJet](https://dev.to/tooljet/building-a-sql-report-generator-using-gemini-ai-tooljet-424p)
+- [Understanding the Singleton Pattern in TypeScript](https://dev.to/bilelsalemdev/understanding-the-singleton-pattern-in-typescript-4kep)
+- [25 funded projects you can contribute in open source](https://dev.to/taipy/25-funded-projects-you-can-contribute-in-open-source-40lh)
 <!-- BLOG-POST-LIST:END -->
 
