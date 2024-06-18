@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Pyramid in Front-End development](https://dev.to/godblessed/understanding-the-pyramid-in-front-end-development-5b08)
-- [Code Reviews vs. QA: Why Your React Project Needs Both](https://dev.to/nilanth/code-reviews-vs-qa-why-your-react-project-needs-both-bmc)
-- [constructor / Errors&lpar;xatolar&rpar;](https://dev.to/bekmuhammaddev/constructor-errorsxatolar-3791)
-- [Mastering Kubernetes Multi-Cluster: Strategies for Improved Availability, Isolation, and Scalability.](https://dev.to/getambassador2024/mastering-kubernetes-multi-cluster-strategies-for-improved-availability-isolation-and-scalability-7gm)
+- [One Byte Explainer: Algorithm](https://dev.to/pachicodes/one-byte-explainer-algorithm-27do)
+- [Optimized Toggle Visibility](https://dev.to/mahmudurbd/optimized-toggle-visibility-14k8)
+- [Life on the Moors: A Journey Through Emily Brontë’s Wuthering Heights](https://dev.to/markhfd/life-on-the-moors-a-journey-through-emily-brontes-wuthering-heights-54p5)
+- [Filament PHP Blade UI Components Visually Explained](https://dev.to/andreiabohner/filament-php-blade-ui-components-visually-explained-3941)
 <!-- BLOG-POST-LIST:END -->
 
