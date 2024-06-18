@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lock / Mutex to a CS undergraduate](https://dev.to/sauravshah31/lock-mutex-to-a-cs-undergraduate-59me)
-- [Building a SQL Report Generator using Gemini AI + ToolJet](https://dev.to/tooljet/building-a-sql-report-generator-using-gemini-ai-tooljet-424p)
-- [Understanding the Singleton Pattern in TypeScript](https://dev.to/bilelsalemdev/understanding-the-singleton-pattern-in-typescript-4kep)
-- [25 funded projects you can contribute in open source](https://dev.to/taipy/25-funded-projects-you-can-contribute-in-open-source-40lh)
+- [Watch the outcome of TailwindCSS vs Bootstrap!](https://dev.to/zoltan_fehervari_52b16d1d/watch-the-outcome-of-tailwindcss-vs-bootstrap-1o2o)
+- [Need Help While Learning the Web Devlopment](https://dev.to/raj_kumar_3be6c725b7b7beb/need-help-while-learning-the-web-devlopment-3265)
+- [Understanding Loops - A Tangible Example](https://dev.to/terabytetiger/understanding-loops-a-tangible-example-2o0p)
+- [Part 9 — Overlay Events](https://dev.to/kurohuku/part-9-overlay-events-4342)
 <!-- BLOG-POST-LIST:END -->
 
