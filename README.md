@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One Byte Explainer: Algorithm](https://dev.to/pachicodes/one-byte-explainer-algorithm-27do)
-- [Optimized Toggle Visibility](https://dev.to/mahmudurbd/optimized-toggle-visibility-14k8)
-- [Life on the Moors: A Journey Through Emily Brontë’s Wuthering Heights](https://dev.to/markhfd/life-on-the-moors-a-journey-through-emily-brontes-wuthering-heights-54p5)
-- [Filament PHP Blade UI Components Visually Explained](https://dev.to/andreiabohner/filament-php-blade-ui-components-visually-explained-3941)
+- [Enhancing Food Manufacturing with Python: Optimizing Raw Materials](https://dev.to/twinkle123/enhancing-food-manufacturing-with-python-optimizing-raw-materials-38c6)
+- [1.WHAT IS SELENIUM 2.USE OF SELENIUM FOR AUTOMATION](https://dev.to/sunmathi/1what-is-selenium-2use-of-selenium-for-automation-jhf)
+- [** Perdidos en la Isla del Internet de las Cosas: IoT y la Serie &quot;Lost&quot;** 🏝️](https://dev.to/orlidev/-perdidos-en-la-isla-del-internet-de-las-cosas-iot-y-la-serie-lost-41n3)
+- [Understanding Concurrency and Parallelism: What&#39;s the Difference?](https://dev.to/ryanmabrouk/understanding-concurrency-and-parallelism-whats-the-difference-3d45)
 <!-- BLOG-POST-LIST:END -->
 
