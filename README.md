@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Integrations: A Step-by-Step Guide to Secure API Authentication in Java](https://dev.to/joaomarques/mastering-api-integrations-a-step-by-step-guide-to-secure-api-authentication-in-java-3b36)
-- [WebSocket vs HTTP](https://dev.to/elinatsovo/websocket-vs-http-3d5p)
-- [Quamtum Computing and its importance](https://dev.to/elmerurbina/quamtum-computing-and-its-importance-29on)
-- [Latest Redux Toolkit: Using the Builder Callback Notation in createReducer 💻](https://dev.to/adii/latest-redux-toolkit-using-the-builder-callback-notation-in-createreducer-1p5)
+- [Ultimate JavaScript Cheatsheet for Developers](https://dev.to/dk119819/ultimate-javascript-cheatsheet-for-developers-43d3)
+- [Configuring Access to Prometheus and Grafana via Sub-paths](https://dev.to/tinhtq97/configuring-access-to-prometheus-and-grafana-via-sub-paths-55n7)
+- [Exploring the Fundamentals of Data Visualization with ggplot2](https://dev.to/kartikmehta8/exploring-the-fundamentals-of-data-visualization-with-ggplot2-2f0h)
+- [Introducing Intention: A High-Performance RSGI Framework for Python](https://dev.to/mcharytoniuk/introducing-intention-a-high-performance-rsgi-framework-for-python-38gp)
 <!-- BLOG-POST-LIST:END -->
 
