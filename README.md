@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Number of Islands | LeetCode](https://dev.to/tanujav/number-of-islands-leetcode-2a42)
-- [Understanding JWT Authentication: A Complete Guide](https://dev.to/dk119819/understanding-jwt-authentication-a-complete-guide-34fo)
-- [constructor function /](https://dev.to/bekmuhammaddev/constructor-function--40id)
-- [Beyond Traditional Email Services: Dynamic Solutions for Developers](https://dev.to/shreyvijayvargiya/beyond-traditional-email-services-dynamic-solutions-for-developers-4e28)
+- [5 Free AI Coding Copilots to Help You Fly Out of the Dev Blackhole](https://dev.to/middleware/5-free-ai-coding-copilots-to-help-you-fly-out-of-the-dev-blackhole-4p53)
+- [Top 9 Websites for Remote Developer Job Opportunities](https://dev.to/dk119819/top-9-websites-for-remote-developer-job-opportunities-3d4i)
+- [Day 19 of 30 of JavaScript](https://dev.to/akshat0610/day-19-of-30-of-javascript-2bki)
+- [TIL: Max/MSP/Jitter](https://dev.to/prettyalana/til-maxmspjitter-36l2)
 <!-- BLOG-POST-LIST:END -->
 
