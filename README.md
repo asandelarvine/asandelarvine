@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Printing in C#: How To Do It Correctly 🔮](https://dev.to/bytehide/printing-in-c-how-to-do-it-correctly-1007)
-- [Building a Desktop C++ Barcode Scanner with Slimmed-Down OpenCV and Webcam](https://dev.to/yushulx/building-a-desktop-c-barcode-scanner-with-slimmed-down-opencv-and-webcam-2o22)
-- [My online HTML editor in action](https://dev.to/anjandutta/my-online-html-editor-in-action-19pf)
-- [[Unity] Dropdown menu with search](https://dev.to/piler-tam/unity-dropdown-menu-with-search-3a4c)
+- [Internet Needs Decentralization](https://dev.to/sophie_k2/internet-needs-decentralization-54ag)
+- [Top 11 Open Source Design Systems](https://dev.to/litlyx/top-11-open-source-design-systems-1m70)
+- [Software Solutions That Solve Your Real Problems: Topiax to the Rescue!](https://dev.to/cypriantinasheaarons/software-solutions-that-solve-your-real-problems-topiax-to-the-rescue-1j6i)
+- [Implementing a contextual menu](https://dev.to/lenormor/implementing-a-contextual-menu-4mck)
 <!-- BLOG-POST-LIST:END -->
 
