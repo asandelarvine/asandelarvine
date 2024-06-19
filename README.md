@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Order: Structured JSON with Pydantic and Instructor in LLMs](https://dev.to/gaw/from-chaos-to-order-structured-json-with-pydantic-and-instructor-in-llms-m5o)
-- [Recursion Lunch Meeting!](https://dev.to/codeeartist/recursion-lunch-meeting-5dbc)
-- [Hello Data](https://dev.to/kathrinesathi/hello-data-569i)
-- [Graphs and why so important!](https://dev.to/mlodovico/graphs-and-why-so-important-8bm)
+- [Generate assertions using AI](https://dev.to/gaw/generate-assertions-using-ai-2bim)
+- [Test more efficiently with GenAI](https://dev.to/gaw/test-more-efficiently-with-genai-2g3k)
+- [HTML tips and tricks.](https://dev.to/firas_lajmi_/html-tips-and-tricks-22ok)
+- [Add API inputs in many easy ways](https://dev.to/gaw/add-api-inputs-in-many-easy-ways-154)
 <!-- BLOG-POST-LIST:END -->
 
