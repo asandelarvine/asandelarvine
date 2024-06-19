@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How UI/UX Can Influence User Behavior and Drive Engagement](https://dev.to/purnimashrestha/how-uiux-can-influence-user-behavior-and-drive-engagement-27l5)
-- [Deploying Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild and CodeDeploy](https://dev.to/xreyc/deploying-flutter-web-to-s3-with-codecommit-codepipeline-codebuild-and-codedeploy-3i4h)
-- [Creating a Simple RESTful API with Node.js](https://dev.to/vaishnavi_rawool/creating-a-simple-restful-api-with-nodejs-a96)
-- [Try To Use `savepoint` In Spring JPA/Hibernate](https://dev.to/georgech2/try-to-use-savepoint-in-spring-jpahibernate-12pj)
+- [From Chaos to Order: Structured JSON with Pydantic and Instructor in LLMs](https://dev.to/gaw/from-chaos-to-order-structured-json-with-pydantic-and-instructor-in-llms-m5o)
+- [Recursion Lunch Meeting!](https://dev.to/codeeartist/recursion-lunch-meeting-5dbc)
+- [Hello Data](https://dev.to/kathrinesathi/hello-data-569i)
+- [Graphs and why so important!](https://dev.to/mlodovico/graphs-and-why-so-important-8bm)
 <!-- BLOG-POST-LIST:END -->
 
