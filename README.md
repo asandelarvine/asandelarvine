@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving - From DigitalOcean to Cloudflare Pages](https://dev.to/hoaitx/moving-from-digitalocean-to-cloudflare-pages-1p5)
-- [전역 상태 관리 Recoil과 Zustand.](https://dev.to/hxxtae/jeonyeog-sangtae-gwanri-recoilgwa-zustand-d2k)
-- [Explain a computer science concept in 256 characters or less](https://dev.to/madelene/explain-a-computer-science-concept-in-256-characters-or-less-18e7)
-- [Fast and Slow Pointers, Coding Interview Pattern](https://dev.to/harshm03/fast-and-slow-pointers-coding-interview-pattern-m5p)
+- [Getting Started With Terraform For Infrastructure Provisioning 🛠️](https://dev.to/angelotheman/getting-started-with-terraform-for-infrastructure-provisioning-15hi)
+- [Step-by-Step Instructions for Task Management Apps](https://dev.to/dk119819/step-by-step-instructions-for-task-management-apps-24di)
+- [Implementing Light/Dark Mode in Your Vite App with shadcn/ui](https://dev.to/ashsajal/implementing-lightdark-mode-in-your-vite-app-with-shadcnui-1ae4)
+- [Select Element in Array&lpar;&rpar; to a new Array&lpar;&rpar; JavaScript](https://dev.to/tsitohaina/select-element-in-array-to-a-new-array-javascript-2805)
 <!-- BLOG-POST-LIST:END -->
 
