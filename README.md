@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create and connect to a Linux VM using a Public Key.](https://dev.to/laoluafolami/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-2jhb)
-- [Simplified Virtual Development Environment on the Browser: GitHub Codespace](https://dev.to/paschalogu/simplified-virtual-development-environment-on-the-browser-github-codespace-1lab)
-- [Iniciando em DevOps e Linux](https://dev.to/ebagabe/iniciando-em-devops-e-linux-22l8)
-- [a web perfomance introduction and why you should care;](https://dev.to/nosylasairaf/web-perfomance-and-why-you-should-care-4n8j)
+- [React: Prevent UI Blocking from Busy Logic Using Web Workers API](https://dev.to/lico/react-prevent-ui-blocking-from-busy-logic-using-web-workers-api-59eo)
+- [# HTTP Caching 101](https://dev.to/godinhojoao/-http-caching-101-4ib0)
+- [Explorando Linux Server](https://dev.to/ebagabe/explorando-linux-server-30k0)
+- [Self-host - Part 1 - Securing your remote server](https://dev.to/davorj94/self-host-part-1-securing-your-remote-server-3l94)
 <!-- BLOG-POST-LIST:END -->
 
