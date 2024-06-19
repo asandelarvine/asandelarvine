@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3-step process to break into tech in 180 days.](https://dev.to/swastikyadav/3-step-process-to-break-into-tech-in-180-days-2193)
-- [Enhancing Enum Constants in Laravel with Description and Label Attributes](https://dev.to/realrashid/enhancing-enum-constants-in-laravel-with-description-and-label-attributes-5df5)
-- [Removing sensitive content from GIT | BFG](https://dev.to/roitpak/removing-sensitive-content-from-git-bfg-5blf)
-- [Why I chose Supabase as BaaS for my projects](https://dev.to/edubchenko/why-i-chose-supabase-as-baas-for-my-projects-2pnf)
+- [Web Designing Interview Questions and Answers for Freshers](https://dev.to/lalyadav/web-designing-interview-questions-and-answers-for-freshers-13e4)
+- [Designing the Future_ Trends in Higher Education Curriculum Development](https://dev.to/jacquelinedavid/designing-the-future-trends-in-higher-education-curriculum-development-3lb)
+- [Make your first contribution on github easily](https://dev.to/eter7/make-your-first-contribution-on-github-easily-25di)
+- [Harnessing AI for Zero Carbonization: Innovations and Impacts](https://dev.to/jottyjohn/harnessing-ai-for-zero-carbonization-innovations-and-impacts-3aga)
 <!-- BLOG-POST-LIST:END -->
 
