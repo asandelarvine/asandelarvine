@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Cypress Component Testing in your Next.js Application with TypeScript and GraphQL](https://dev.to/schead/using-cypress-component-testing-in-your-nextjs-application-with-typescript-and-graphql-1c1f)
-- [Skeleton Loaders: Simplifying Data Loading in React: Part 1](https://dev.to/topeogunleye/skeleton-loaders-simplifying-data-loading-in-react-part-1-1kmo)
-- [Demystifying UI, UX, and CX: Day 2 of My Journey into Design](https://dev.to/prince_chouhan/demystifying-ui-ux-and-cx-day-2-of-my-journey-into-design-3564)
-- [Boost Your Code Review Game with Custom VSCode Shortcuts ⌨️](https://dev.to/krisplatis/boost-your-code-review-game-with-custom-vscode-shortcuts-3p8o)
+- [How to create and connect to a Linux VM using a Public Key.](https://dev.to/laoluafolami/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-2jhb)
+- [Simplified Virtual Development Environment on the Browser: GitHub Codespace](https://dev.to/paschalogu/simplified-virtual-development-environment-on-the-browser-github-codespace-1lab)
+- [Iniciando em DevOps e Linux](https://dev.to/ebagabe/iniciando-em-devops-e-linux-22l8)
+- [a web perfomance introduction and why you should care;](https://dev.to/nosylasairaf/web-perfomance-and-why-you-should-care-4n8j)
 <!-- BLOG-POST-LIST:END -->
 
