@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogger icon a little modified no svg no img no js CSS+HTML only](https://dev.to/tidycoder/blogger-icon-a-little-modified-no-svg-no-img-no-js-csshtml-only-328c)
-- [Demystifying the Machine: A Beginner&#39;s Guide to Machine Learning Algorithms](https://dev.to/fizza_c3e734ee2a307cf35e5/demystifying-the-machine-a-beginners-guide-to-machine-learning-algorithms-i33)
-- [A simple distributed lock implementation using Redis](https://dev.to/woovi/a-simple-distributed-lock-implementation-using-redis-445c)
-- [Neural Network &lpar;explained in 1 Byte&rpar;](https://dev.to/jjokah/neural-network-explained-in-1-byte-2hop)
+- [10 Essential Books to Accelerate your Cloud Career](https://dev.to/glasskube/10-essential-books-to-accelerate-your-cloud-career-j66)
+- [How to create an Instagram API client in python: a step-by-step tutorial](https://dev.to/apiharbor/how-to-create-an-instagram-api-client-in-python-a-step-by-step-tutorial-2l1h)
+- [The History Of JavaScript: A Journey Through Time](https://dev.to/swhabitation/the-history-of-javascript-a-journey-through-time-1k0)
+- [Cebolas e camadas para padrões de projetos no Front-end — Parte I](https://dev.to/tino-tech/cebolas-e-camadas-para-padroes-de-projetos-no-front-end-parte-i-55af)
 <!-- BLOG-POST-LIST:END -->
 
