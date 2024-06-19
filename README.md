@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big O notation](https://dev.to/funwieblaise/big-o-notation-3d39)
-- [Step-by-Step Instructions for Forward Proxy Setup](https://dev.to/iaadidev/step-by-step-instructions-for-forward-proxy-setup-c22)
-- [Big O notation](https://dev.to/funwieblaise/big-o-notation-4gck)
-- [Clonador y Fusionador de Playlists para Spotify](https://dev.to/garcodas/clonador-y-fusionador-de-playlists-para-spotify-k45)
+- [Number of Islands | LeetCode](https://dev.to/tanujav/number-of-islands-leetcode-2a42)
+- [Understanding JWT Authentication: A Complete Guide](https://dev.to/dk119819/understanding-jwt-authentication-a-complete-guide-34fo)
+- [constructor function /](https://dev.to/bekmuhammaddev/constructor-function--40id)
+- [Beyond Traditional Email Services: Dynamic Solutions for Developers](https://dev.to/shreyvijayvargiya/beyond-traditional-email-services-dynamic-solutions-for-developers-4e28)
 <!-- BLOG-POST-LIST:END -->
 
