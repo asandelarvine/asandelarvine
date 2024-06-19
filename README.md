@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Terraform For Infrastructure Provisioning 🛠️](https://dev.to/angelotheman/getting-started-with-terraform-for-infrastructure-provisioning-15hi)
-- [Step-by-Step Instructions for Task Management Apps](https://dev.to/dk119819/step-by-step-instructions-for-task-management-apps-24di)
-- [Implementing Light/Dark Mode in Your Vite App with shadcn/ui](https://dev.to/ashsajal/implementing-lightdark-mode-in-your-vite-app-with-shadcnui-1ae4)
-- [Select Element in Array&lpar;&rpar; to a new Array&lpar;&rpar; JavaScript](https://dev.to/tsitohaina/select-element-in-array-to-a-new-array-javascript-2805)
+- [How UI/UX Can Influence User Behavior and Drive Engagement](https://dev.to/purnimashrestha/how-uiux-can-influence-user-behavior-and-drive-engagement-27l5)
+- [Deploying Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild and CodeDeploy](https://dev.to/xreyc/deploying-flutter-web-to-s3-with-codecommit-codepipeline-codebuild-and-codedeploy-3i4h)
+- [Creating a Simple RESTful API with Node.js](https://dev.to/vaishnavi_rawool/creating-a-simple-restful-api-with-nodejs-a96)
+- [Try To Use `savepoint` In Spring JPA/Hibernate](https://dev.to/georgech2/try-to-use-savepoint-in-spring-jpahibernate-12pj)
 <!-- BLOG-POST-LIST:END -->
 
