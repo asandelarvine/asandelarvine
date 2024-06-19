@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Designing Interview Questions and Answers for Freshers](https://dev.to/lalyadav/web-designing-interview-questions-and-answers-for-freshers-13e4)
-- [Designing the Future_ Trends in Higher Education Curriculum Development](https://dev.to/jacquelinedavid/designing-the-future-trends-in-higher-education-curriculum-development-3lb)
-- [Make your first contribution on github easily](https://dev.to/eter7/make-your-first-contribution-on-github-easily-25di)
-- [Harnessing AI for Zero Carbonization: Innovations and Impacts](https://dev.to/jottyjohn/harnessing-ai-for-zero-carbonization-innovations-and-impacts-3aga)
+- [Blogger icon a little modified no svg no img no js CSS+HTML only](https://dev.to/tidycoder/blogger-icon-a-little-modified-no-svg-no-img-no-js-csshtml-only-328c)
+- [Demystifying the Machine: A Beginner&#39;s Guide to Machine Learning Algorithms](https://dev.to/fizza_c3e734ee2a307cf35e5/demystifying-the-machine-a-beginners-guide-to-machine-learning-algorithms-i33)
+- [A simple distributed lock implementation using Redis](https://dev.to/woovi/a-simple-distributed-lock-implementation-using-redis-445c)
+- [Neural Network &lpar;explained in 1 Byte&rpar;](https://dev.to/jjokah/neural-network-explained-in-1-byte-2hop)
 <!-- BLOG-POST-LIST:END -->
 
