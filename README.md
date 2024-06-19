@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate assertions using AI](https://dev.to/gaw/generate-assertions-using-ai-2bim)
-- [Test more efficiently with GenAI](https://dev.to/gaw/test-more-efficiently-with-genai-2g3k)
-- [HTML tips and tricks.](https://dev.to/firas_lajmi_/html-tips-and-tricks-22ok)
-- [Add API inputs in many easy ways](https://dev.to/gaw/add-api-inputs-in-many-easy-ways-154)
+- [Using Cypress Component Testing in your Next.js Application with TypeScript and GraphQL](https://dev.to/schead/using-cypress-component-testing-in-your-nextjs-application-with-typescript-and-graphql-1c1f)
+- [Skeleton Loaders: Simplifying Data Loading in React: Part 1](https://dev.to/topeogunleye/skeleton-loaders-simplifying-data-loading-in-react-part-1-1kmo)
+- [Demystifying UI, UX, and CX: Day 2 of My Journey into Design](https://dev.to/prince_chouhan/demystifying-ui-ux-and-cx-day-2-of-my-journey-into-design-3564)
+- [Boost Your Code Review Game with Custom VSCode Shortcuts ⌨️](https://dev.to/krisplatis/boost-your-code-review-game-with-custom-vscode-shortcuts-3p8o)
 <!-- BLOG-POST-LIST:END -->
 
