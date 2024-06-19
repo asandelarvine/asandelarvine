@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Halting Problem](https://dev.to/damari/the-halting-problem-2o4a)
-- [Comprehensive Guide to Django](https://dev.to/kihuni/comprehensive-guide-to-django-38ie)
-- [Travelling Salesman Problem &lpar;TSP&rpar;](https://dev.to/damari/travelling-salesman-problem-tsp-5dc0)
-- [Aya Rust Tutorial part 5: Using Maps](https://dev.to/stevelatif/aya-rust-tutorial-part-5-using-maps-1boe)
+- [Building My Own JSON Parser in Rust](https://dev.to/krymancer/building-my-own-json-parser-in-rust-fk3)
+- [Comparison of Navicat and SQLynx Features &lpar;Overall Comparison&rpar;](https://dev.to/concerate/comparison-of-navicat-and-sqlynx-features-overall-comparison-2hhf)
+- [How to conduct keyword research and choose the most effective keywords for your website](https://dev.to/juddiy/how-to-conduct-keyword-research-and-choose-the-most-effective-keywords-for-your-website-4ld3)
+- [Challenge twilio](https://dev.to/yhordic/challenge-twilio-554o)
 <!-- BLOG-POST-LIST:END -->
 
