@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Is Scary And How To Learn Better](https://dev.to/thekarlesi/why-coding-is-scary-and-how-to-learn-better-6e0)
-- [Mastering Git Rebase: Streamlining Your Commit History](https://dev.to/vyan/mastering-git-rebase-streamlining-your-commit-history-3ce4)
-- [Measure and optimize your Flutter app size](https://dev.to/tentanganak/measure-and-optimize-your-flutter-app-size-1nde)
-- [Is mitt dead? 🥊](https://dev.to/stackoverfloweth/is-mitt-dead-3lb0)
+- [Paradigma procedural x orientado a objetos: um paralelo](https://dev.to/lvteixeira/paradigma-procedural-x-orientado-a-objetos-um-paralelo-28dg)
+- [One Byte Explainer: Recursion](https://dev.to/david001/one-byte-explainer-recursion-240o)
+- [Install github desktop on linux](https://dev.to/ktrajasekar/install-github-desktop-on-linux-25h5)
+- [Advanced CI/CD Pipeline Configuration Strategies](https://dev.to/gauri1504/advanced-cicd-pipeline-configuration-strategies-4mjh)
 <!-- BLOG-POST-LIST:END -->
 
