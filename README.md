@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Paradigma procedural x orientado a objetos: um paralelo](https://dev.to/lvteixeira/paradigma-procedural-x-orientado-a-objetos-um-paralelo-28dg)
-- [One Byte Explainer: Recursion](https://dev.to/david001/one-byte-explainer-recursion-240o)
-- [Install github desktop on linux](https://dev.to/ktrajasekar/install-github-desktop-on-linux-25h5)
-- [Advanced CI/CD Pipeline Configuration Strategies](https://dev.to/gauri1504/advanced-cicd-pipeline-configuration-strategies-4mjh)
+- [Big O notation](https://dev.to/funwieblaise/big-o-notation-3d39)
+- [Step-by-Step Instructions for Forward Proxy Setup](https://dev.to/iaadidev/step-by-step-instructions-for-forward-proxy-setup-c22)
+- [Big O notation](https://dev.to/funwieblaise/big-o-notation-4gck)
+- [Clonador y Fusionador de Playlists para Spotify](https://dev.to/garcodas/clonador-y-fusionador-de-playlists-para-spotify-k45)
 <!-- BLOG-POST-LIST:END -->
 
