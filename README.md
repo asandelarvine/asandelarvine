@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Free Database Providers for MySQL, PostgreSQL, MongoDB, and Redis](https://dev.to/sh20raj/top-free-database-providers-for-mysql-postgresql-mongodb-and-redis-2770)
-- [Open-Source, Let&#39;s Talk About it](https://dev.to/litlyx/open-source-lets-talk-about-it-42jo)
-- [How To Build a TikTok Clone With SwiftUI](https://dev.to/amosgyamfi/how-to-build-a-tiktok-clone-with-swiftui-3ban)
-- [My First Post](https://dev.to/techsalesjobsus/my-first-post-e7k)
+- [Moving - From DigitalOcean to Cloudflare Pages](https://dev.to/hoaitx/moving-from-digitalocean-to-cloudflare-pages-1p5)
+- [전역 상태 관리 Recoil과 Zustand.](https://dev.to/hxxtae/jeonyeog-sangtae-gwanri-recoilgwa-zustand-d2k)
+- [Explain a computer science concept in 256 characters or less](https://dev.to/madelene/explain-a-computer-science-concept-in-256-characters-or-less-18e7)
+- [Fast and Slow Pointers, Coding Interview Pattern](https://dev.to/harshm03/fast-and-slow-pointers-coding-interview-pattern-m5p)
 <!-- BLOG-POST-LIST:END -->
 
