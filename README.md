@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Tailwind CSS for Your Ruby On Rails Project](https://dev.to/appsignal/how-to-use-tailwind-css-for-your-ruby-on-rails-project-ak2)
-- [OpenTelemetry Trace Context Propagation for gRPC Streams](https://dev.to/kubeshop/opentelemetry-trace-context-propagation-for-grpc-streams-4511)
-- [How to Write an Effective README File - A Guide for Software Engineers](https://dev.to/kfir-g/how-to-write-an-effective-readme-file-a-guide-for-software-engineers-207b)
-- [How AI Coding Tools Might Set You Up for Failure](https://dev.to/iwooky/how-ai-coding-tools-might-set-you-up-for-failure-1pdf)
+- [Top Free Database Providers for MySQL, PostgreSQL, MongoDB, and Redis](https://dev.to/sh20raj/top-free-database-providers-for-mysql-postgresql-mongodb-and-redis-2770)
+- [Open-Source, Let&#39;s Talk About it](https://dev.to/litlyx/open-source-lets-talk-about-it-42jo)
+- [How To Build a TikTok Clone With SwiftUI](https://dev.to/amosgyamfi/how-to-build-a-tiktok-clone-with-swiftui-3ban)
+- [My First Post](https://dev.to/techsalesjobsus/my-first-post-e7k)
 <!-- BLOG-POST-LIST:END -->
 
