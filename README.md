@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLynx - Best Web-Based SQL Editor for Developers and Data Analysts](https://dev.to/concerate/sqlynx-best-web-based-sql-editor-for-developers-and-data-analysts-1p0f)
-- [Build your Service Mesh [Part 1]](https://dev.to/ramonberrutti/build-your-service-mesh-part-1-10ed)
-- [Dicas de Terminal e SSH](https://dev.to/rafaone/dicas-de-terminal-e-ssh-47bd)
-- [Building my Own wc Tool in Rust&#39;](https://dev.to/krymancer/building-my-own-wc-tool-in-rust-l0c)
+- [The Halting Problem](https://dev.to/damari/the-halting-problem-2o4a)
+- [Comprehensive Guide to Django](https://dev.to/kihuni/comprehensive-guide-to-django-38ie)
+- [Travelling Salesman Problem &lpar;TSP&rpar;](https://dev.to/damari/travelling-salesman-problem-tsp-5dc0)
+- [Aya Rust Tutorial part 5: Using Maps](https://dev.to/stevelatif/aya-rust-tutorial-part-5-using-maps-1boe)
 <!-- BLOG-POST-LIST:END -->
 
