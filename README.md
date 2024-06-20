@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [t3twilio: Never Forget Again!](https://dev.to/kanav_gupta/t3twilio-never-forget-again-20bl)
-- [🧠 Neural Networks Explained](https://dev.to/aviralgarg05/neural-networks-explained-2c0p)
-- [Python Decorators: Simplified Explanation](https://dev.to/francescoagati/python-decorators-simplified-explanation-hm1)
-- [Dapper Stored Procedure tip](https://dev.to/karenpayneoregon/dapper-stored-procedure-tip-13j4)
+- [Dev: Automation](https://dev.to/r4nd3l/dev-automation-2233)
+- [Day 975 : Alright](https://dev.to/dwane/day-975-alright-5e7f)
+- [Mastering UI Design Principles: Day 3 of My UI/UX Learning Journey](https://dev.to/prince_chouhan/mastering-ui-design-principles-day-3-of-my-uiux-learning-journey-1pmh)
+- [[Game of Purpose] Day 33](https://dev.to/humberd/game-of-purpose-day-33-5bng)
 <!-- BLOG-POST-LIST:END -->
 
