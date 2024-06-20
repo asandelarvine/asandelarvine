@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Simulcasting?](https://dev.to/alakkadshaw/what-is-simulcasting-nb3)
-- [Wishes From AI](https://dev.to/vibrazy/wishes-from-ai-2jl2)
-- [Estruturas de declaração de pagina em CSS](https://dev.to/marimnz/estruturas-de-declaracao-de-pagina-em-css-3c1d)
-- [Design Pattern #3 - Observer Pattern](https://dev.to/superviz/design-pattern-3-observer-pattern-36eo)
+- [Understanding the Difference Between Spread and Rest Operators in JavaScript](https://dev.to/dk119819/understanding-the-difference-between-spread-and-rest-operators-in-javascript-3ooc)
+- [Hands-On: Escalonamento automático com EKS e Cluster Autoscaler utilizando Terraform e Helm](https://dev.to/aws-builders/hands-on-escalonamento-automatico-com-eks-e-cluster-autoscaler-utilizando-terraform-e-helm-51ki)
+- [Day1-100 series - Learning System Design for Interviews.](https://dev.to/taniskannpurna/day1-100-series-learning-system-design-for-interviews-13f3)
+- [Transactional Email vs Marketing Email &lpar;+ Examples&rpar;](https://dev.to/k_vrbova/transactional-email-vs-marketing-email-examples-269m)
 <!-- BLOG-POST-LIST:END -->
 
