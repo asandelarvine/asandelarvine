@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an Undo Action with Rails](https://dev.to/railsdesigner/how-to-create-an-undo-action-with-rails-39jo)
-- [[DAY 57-59] I learned React &amp; Redux](https://dev.to/thomascansino/day-57-59-i-learned-react-redux-157h)
-- [A refresher on GitHub Pages](https://dev.to/nfrankel/a-refresher-on-github-pages-20b8)
-- [Why Choose a JS Gantt Library? Advantages and Use Cases](https://dev.to/lenormor/why-choose-a-js-gantt-library-advantages-and-use-cases-58n3)
+- [How to properly measure code speed in .NET](https://dev.to/byteminds_agency/how-to-properly-measure-code-speed-in-net-158o)
+- [Building a Note/Thought Sharing WebApp with OPAL Authorization and Custom MySQL Fetcher](https://dev.to/sonu2164/building-a-notethought-sharing-webapp-with-opal-authorization-and-custom-mysql-fetcher-44b7)
+- [Beyond Workbench: Introducing SQLynx as a Complete MySQL Solution](https://dev.to/tom8daafe63765434221/beyond-workbench-introducing-sqlynx-as-a-complete-mysql-solution-49dh)
+- [Postmortem Report: Load Balancer Outage](https://dev.to/kgothatsontsane/postmortem-report-load-balancer-outage-2i6d)
 <!-- BLOG-POST-LIST:END -->
 
