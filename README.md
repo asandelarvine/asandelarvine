@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 Snapshot Management: How to get AWS EC2 Snapshot Information with Python](https://dev.to/aws-builders/ec2-snapshot-management-how-to-get-aws-ec2-snapshot-information-with-python-753)
-- [Essential HTTP Status Codes Every Web Developer Should Know](https://dev.to/vyan/essential-http-status-codes-every-web-developer-should-know-2gnd)
-- [🕒 Understanding the Event Loop and Concurrency Model in JavaScript](https://dev.to/dipakahirav/understanding-the-event-loop-and-concurrency-model-in-javascript-1ml2)
-- [Understanding Zod: A Comprehensive Guide to Schema Validation in JavaScript/Typescript](https://dev.to/abhilaksharora/understanding-zod-a-comprehensive-guide-to-schema-validation-in-javascripttypescript-171k)
+- [Using Miniconda with Conda-Forge to Avoid Anaconda Licensing Issues](https://dev.to/kaamisan/using-miniconda-with-conda-forge-to-avoid-anaconda-licensing-issues-5hkj)
+- [Android Performance Optimization: Best Practices and Tools](https://dev.to/wetest/android-performance-optimization-best-practices-and-tools-262g)
+- [Nuxt3 CSR Background Image Lazy loading](https://dev.to/kontact00/nuxt3-csr-background-image-lazy-loading-28i7)
+- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-1nne)
 <!-- BLOG-POST-LIST:END -->
 
