@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a QR Code Generator Using ToolJet and Python in 5 Minutes! 🛠️](https://dev.to/tooljet/create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6)
-- [Beyond Coding: Learn to interact with AI](https://dev.to/rishika_kalita_80ef41e273/beyond-coding-learn-to-interact-with-ai-23l7)
-- [Google Youtube Codepen icons+search inputs &lpar;only CSS&rpar;](https://dev.to/tidycoder/google-youtube-codepen-iconssearch-inputs-only-css-4fjf)
-- [Async/await and SwiftUI](https://dev.to/ishouldhaveknown/asyncawait-and-swiftui-3b2h)
+- [What is Simulcasting?](https://dev.to/alakkadshaw/what-is-simulcasting-nb3)
+- [Wishes From AI](https://dev.to/vibrazy/wishes-from-ai-2jl2)
+- [Estruturas de declaração de pagina em CSS](https://dev.to/marimnz/estruturas-de-declaracao-de-pagina-em-css-3c1d)
+- [Design Pattern #3 - Observer Pattern](https://dev.to/superviz/design-pattern-3-observer-pattern-36eo)
 <!-- BLOG-POST-LIST:END -->
 
