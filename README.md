@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Miniconda with Conda-Forge to Avoid Anaconda Licensing Issues](https://dev.to/kaamisan/using-miniconda-with-conda-forge-to-avoid-anaconda-licensing-issues-5hkj)
-- [Android Performance Optimization: Best Practices and Tools](https://dev.to/wetest/android-performance-optimization-best-practices-and-tools-262g)
-- [Nuxt3 CSR Background Image Lazy loading](https://dev.to/kontact00/nuxt3-csr-background-image-lazy-loading-28i7)
-- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-1nne)
+- [First Post](https://dev.to/xdoggox/first-post-2h20)
+- [I&#39;m Moth, and this is my first post!](https://dev.to/moth668/im-moth-and-this-is-my-first-post-3mn)
+- [Test Creation using Record and Playback Testing](https://dev.to/elle_richard_232/test-creation-using-record-and-playback-testing-56nf)
+- [Effortless Container Deployment with AWS App Runner 🏃‍♂️🚀](https://dev.to/virajlakshitha/effortless-container-deployment-with-aws-app-runner-3n3j)
 <!-- BLOG-POST-LIST:END -->
 
