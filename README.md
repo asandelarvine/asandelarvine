@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between Spread and Rest Operators in JavaScript](https://dev.to/dk119819/understanding-the-difference-between-spread-and-rest-operators-in-javascript-3ooc)
-- [Hands-On: Escalonamento automático com EKS e Cluster Autoscaler utilizando Terraform e Helm](https://dev.to/aws-builders/hands-on-escalonamento-automatico-com-eks-e-cluster-autoscaler-utilizando-terraform-e-helm-51ki)
-- [Day1-100 series - Learning System Design for Interviews.](https://dev.to/taniskannpurna/day1-100-series-learning-system-design-for-interviews-13f3)
-- [Transactional Email vs Marketing Email &lpar;+ Examples&rpar;](https://dev.to/k_vrbova/transactional-email-vs-marketing-email-examples-269m)
+- [Migrate from Cord to SuperViz](https://dev.to/superviz/migrate-from-cord-to-superviz-2f9m)
+- [Understanding Kubernetes: Why It&#39;s Essential for Modern Applications](https://dev.to/jensen1806/understanding-kubernetes-why-its-essential-for-modern-applications-1b4m)
+- [Property Binding](https://dev.to/paulike/property-binding-2kgi)
+- [A WhatsApp game where you create your own Adventure](https://dev.to/kamecat/a-whatsapp-game-where-you-create-your-own-adventure-47o7)
 <!-- BLOG-POST-LIST:END -->
 
