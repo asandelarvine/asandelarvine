@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Data Structures for SQL Database Efficiency](https://dev.to/dbvismarketing/key-data-structures-for-sql-database-efficiency-4om4)
-- [Introducing Django Headless CMS: A Powerful and Flexible CMS Solution](https://dev.to/huynguyengl99/introducing-django-headless-cms-a-powerful-and-flexible-cms-solution-82d)
-- [Understanding Virtual Environments in Python](https://dev.to/vidyarathna/understanding-virtual-environments-in-python-l5a)
-- [I wish Google work this way](https://dev.to/terrytanys/i-wish-google-work-this-way-9od)
+- [10 Microservice Best Practices for Building Scalable and Resilient Apps](https://dev.to/somadevtoo/10-microservice-best-practices-for-building-scalable-and-resilient-apps-1p0j)
+- [Unit Testing: Why It Matters and How to Do It Effectively in Python](https://dev.to/manavcodaty/unit-testing-why-it-matters-and-how-to-do-it-effectively-in-python-g65)
+- [Forget your database exists! Leave it to Metis](https://dev.to/metis/forget-your-database-exists-leave-it-to-metis-5c4m)
+- [DHT22 with MicroPython on ESP32](https://dev.to/shemanto_sharkar/dht22-with-micropython-on-esp32-16j6)
 <!-- BLOG-POST-LIST:END -->
 
