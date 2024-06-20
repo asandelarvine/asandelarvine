@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A React Global State that can persist data too!](https://dev.to/ajejey/a-react-global-state-that-can-persist-data-too-41ib)
-- [Understanding the Testing Pyramid: A Comprehensive Guide](https://dev.to/keploy/understanding-the-testing-pyramid-a-comprehensive-guide-1p5k)
-- [MICROSOFT APPLIED SKILL. Guided Project: Provide storage for the IT department testing and training](https://dev.to/sethgiddy/microsoft-applied-skill-guided-project-provide-storage-for-the-it-department-testing-and-training-31je)
-- [MsSQL on MacOs](https://dev.to/pranjal_sharma_38482a3041/mssql-on-macos-2l3e)
+- [Enhancing List Functionality in Dart with Custom Extensions](https://dev.to/francescoagati/enhancing-list-functionality-in-dart-with-custom-extensions-4c7)
+- [Enjoy react key takeaways from a new developer.](https://dev.to/killerfox007/enjoy-react-key-takeaways-from-a-new-developer-5gdi)
+- [5. Where to Go Now: Putting Unit Testing into Action](https://dev.to/sandheep_kumarpatro_1c48/5-where-to-go-now-putting-unit-testing-into-action-58el)
+- [4. Some More Examples and Explanations](https://dev.to/sandheep_kumarpatro_1c48/4-some-more-examples-and-explanations-38a3)
 <!-- BLOG-POST-LIST:END -->
 
