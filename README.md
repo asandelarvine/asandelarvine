@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Microservice Best Practices for Building Scalable and Resilient Apps](https://dev.to/somadevtoo/10-microservice-best-practices-for-building-scalable-and-resilient-apps-1p0j)
-- [Unit Testing: Why It Matters and How to Do It Effectively in Python](https://dev.to/manavcodaty/unit-testing-why-it-matters-and-how-to-do-it-effectively-in-python-g65)
-- [Forget your database exists! Leave it to Metis](https://dev.to/metis/forget-your-database-exists-leave-it-to-metis-5c4m)
-- [DHT22 with MicroPython on ESP32](https://dev.to/shemanto_sharkar/dht22-with-micropython-on-esp32-16j6)
+- [A refresher on GitHub Pages](https://dev.to/nfrankel/a-refresher-on-github-pages-20b8)
+- [Why Choose a JS Gantt Library? Advantages and Use Cases](https://dev.to/lenormor/why-choose-a-js-gantt-library-advantages-and-use-cases-58n3)
+- [Why Can’t Robots Click The “I’m Not a Robot” Box On Websites?](https://dev.to/safdarali/why-cant-robots-click-the-im-not-a-robot-box-on-websites-2bo5)
+- [Database generated events: LiveSync’s database connector vs CDC](https://dev.to/ably/database-generated-events-livesyncs-database-connector-vs-cdc-lhk)
 <!-- BLOG-POST-LIST:END -->
 
