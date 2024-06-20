@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React: Prevent UI Blocking from Busy Logic Using Web Workers API](https://dev.to/lico/react-prevent-ui-blocking-from-busy-logic-using-web-workers-api-59eo)
-- [# HTTP Caching 101](https://dev.to/godinhojoao/-http-caching-101-4ib0)
-- [Explorando Linux Server](https://dev.to/ebagabe/explorando-linux-server-30k0)
-- [Self-host - Part 1 - Securing your remote server](https://dev.to/davorj94/self-host-part-1-securing-your-remote-server-3l94)
+- [Effortless VM Data Security with NAKIVO and Proxmox Backup](https://dev.to/jeffreyboyle0033/effortless-vm-data-security-with-nakivo-and-proxmox-backup-11gn)
+- [Understanding Keywords in SEO: A Comprehensive Guide](https://dev.to/gohil1401/understanding-keywords-in-seo-a-comprehensive-guide-lj1)
+- [Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem.](https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184)
+- [Developing a Custom Content Management System with Laravel](https://dev.to/kartikmehta8/developing-a-custom-content-management-system-with-laravel-5ff7)
 <!-- BLOG-POST-LIST:END -->
 
