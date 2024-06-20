@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to properly measure code speed in .NET](https://dev.to/byteminds_agency/how-to-properly-measure-code-speed-in-net-158o)
-- [Building a Note/Thought Sharing WebApp with OPAL Authorization and Custom MySQL Fetcher](https://dev.to/sonu2164/building-a-notethought-sharing-webapp-with-opal-authorization-and-custom-mysql-fetcher-44b7)
-- [Beyond Workbench: Introducing SQLynx as a Complete MySQL Solution](https://dev.to/tom8daafe63765434221/beyond-workbench-introducing-sqlynx-as-a-complete-mysql-solution-49dh)
-- [Postmortem Report: Load Balancer Outage](https://dev.to/kgothatsontsane/postmortem-report-load-balancer-outage-2i6d)
+- [How to Write Your First Cypress Test [With Examples]](https://dev.to/lambdatest/how-to-write-your-first-cypress-test-with-examples-2p2e)
+- [Automated Regression Testing: Enhancing Software Quality and Efficiency](https://dev.to/keploy/automated-regression-testing-enhancing-software-quality-and-efficiency-1991)
+- [Refactoring: User data service](https://dev.to/cezar-plescan/refactoring-user-data-service-nop)
+- [مقدمة إلى خدمات أيه دبليو إس](https://dev.to/khalidelgazzar/mqdm-l-khdmt-yh-dblyw-s-3i6g)
 <!-- BLOG-POST-LIST:END -->
 
