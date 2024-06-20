@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Authentication Made Simple: Detailed Code Examples](https://dev.to/dk119819/firebase-authentication-made-simple-detailed-code-examples-31gl)
-- [Streamline Git Workflows: Automate with Hooks - Branch Name &amp; Commit Convention Example](https://dev.to/smy/streamline-git-workflows-automate-with-hooks-branch-name-commit-convention-example-2hg)
-- [&quot;Think Big&quot; or make progress?](https://dev.to/moozzyk/think-big-or-make-progress-d9i)
-- [The Calculator Project - Easier, Yet Full of Hurdles](https://dev.to/codebyblazej/the-calculator-project-easier-yet-full-of-hurdles-2gke)
+- [Key Data Structures for SQL Database Efficiency](https://dev.to/dbvismarketing/key-data-structures-for-sql-database-efficiency-4om4)
+- [Introducing Django Headless CMS: A Powerful and Flexible CMS Solution](https://dev.to/huynguyengl99/introducing-django-headless-cms-a-powerful-and-flexible-cms-solution-82d)
+- [Understanding Virtual Environments in Python](https://dev.to/vidyarathna/understanding-virtual-environments-in-python-l5a)
+- [I wish Google work this way](https://dev.to/terrytanys/i-wish-google-work-this-way-9od)
 <!-- BLOG-POST-LIST:END -->
 
