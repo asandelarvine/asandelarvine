@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing List Functionality in Dart with Custom Extensions](https://dev.to/francescoagati/enhancing-list-functionality-in-dart-with-custom-extensions-4c7)
-- [Enjoy react key takeaways from a new developer.](https://dev.to/killerfox007/enjoy-react-key-takeaways-from-a-new-developer-5gdi)
-- [5. Where to Go Now: Putting Unit Testing into Action](https://dev.to/sandheep_kumarpatro_1c48/5-where-to-go-now-putting-unit-testing-into-action-58el)
-- [4. Some More Examples and Explanations](https://dev.to/sandheep_kumarpatro_1c48/4-some-more-examples-and-explanations-38a3)
+- [Build a website with Next.js using next/images](https://dev.to/malvinjay/build-a-website-with-nextjs-using-nextimages-2d2d)
+- [Asynchronous Streams in Dart with RxDart](https://dev.to/francescoagati/mastering-asynchronous-streams-in-dart-with-rxdart-1pid)
+- [Case Study: The ClockPane Class](https://dev.to/paulike/case-study-the-clockpane-class-4bpg)
+- [What are DTOs and their significance?](https://dev.to/prathamjagga/what-are-dtos-and-their-significance-2e72)
 <!-- BLOG-POST-LIST:END -->
 
