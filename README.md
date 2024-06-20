@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless VM Data Security with NAKIVO and Proxmox Backup](https://dev.to/jeffreyboyle0033/effortless-vm-data-security-with-nakivo-and-proxmox-backup-11gn)
-- [Understanding Keywords in SEO: A Comprehensive Guide](https://dev.to/gohil1401/understanding-keywords-in-seo-a-comprehensive-guide-lj1)
-- [Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem.](https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184)
-- [Developing a Custom Content Management System with Laravel](https://dev.to/kartikmehta8/developing-a-custom-content-management-system-with-laravel-5ff7)
+- [EC2 Snapshot Management: How to get AWS EC2 Snapshot Information with Python](https://dev.to/aws-builders/ec2-snapshot-management-how-to-get-aws-ec2-snapshot-information-with-python-753)
+- [Essential HTTP Status Codes Every Web Developer Should Know](https://dev.to/vyan/essential-http-status-codes-every-web-developer-should-know-2gnd)
+- [🕒 Understanding the Event Loop and Concurrency Model in JavaScript](https://dev.to/dipakahirav/understanding-the-event-loop-and-concurrency-model-in-javascript-1ml2)
+- [Understanding Zod: A Comprehensive Guide to Schema Validation in JavaScript/Typescript](https://dev.to/abhilaksharora/understanding-zod-a-comprehensive-guide-to-schema-validation-in-javascripttypescript-171k)
 <!-- BLOG-POST-LIST:END -->
 
