@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Creepy Crawlies of Code: Why Bugs Are Gross &lpar;Even in the Digital World&rpar;](https://dev.to/shieldstring/the-creepy-crawlies-of-code-why-bugs-are-gross-even-in-the-digital-world-16l0)
-- [10 Hidden AI Tools Every Developer Should Know About](https://dev.to/delia_code/10-hidden-ai-tools-every-developer-should-know-about-36gf)
-- [Ultimate Guide to Effective Project Progress Communication with Top Management](https://dev.to/futuristicgeeks/ultimate-guide-to-effective-project-progress-communication-with-top-management-10id)
-- [Boost Your Coding Efficiency: 10 Productivity Tips for Developers](https://dev.to/delia_code/boost-your-coding-efficiency-10-productivity-tips-for-developers-2b45)
+- [Firebase Authentication Made Simple: Detailed Code Examples](https://dev.to/dk119819/firebase-authentication-made-simple-detailed-code-examples-31gl)
+- [Streamline Git Workflows: Automate with Hooks - Branch Name &amp; Commit Convention Example](https://dev.to/smy/streamline-git-workflows-automate-with-hooks-branch-name-commit-convention-example-2hg)
+- [&quot;Think Big&quot; or make progress?](https://dev.to/moozzyk/think-big-or-make-progress-d9i)
+- [The Calculator Project - Easier, Yet Full of Hurdles](https://dev.to/codebyblazej/the-calculator-project-easier-yet-full-of-hurdles-2gke)
 <!-- BLOG-POST-LIST:END -->
 
