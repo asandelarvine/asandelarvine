@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate from Cord to SuperViz](https://dev.to/superviz/migrate-from-cord-to-superviz-2f9m)
-- [Understanding Kubernetes: Why It&#39;s Essential for Modern Applications](https://dev.to/jensen1806/understanding-kubernetes-why-its-essential-for-modern-applications-1b4m)
-- [Property Binding](https://dev.to/paulike/property-binding-2kgi)
-- [A WhatsApp game where you create your own Adventure](https://dev.to/kamecat/a-whatsapp-game-where-you-create-your-own-adventure-47o7)
+- [Why Specifying the Node.js Version is Essential](https://dev.to/robertoumbelino/why-specifying-the-nodejs-version-is-essential-4nhp)
+- [Testing Your API with Fastify and Vitest: A Step-by-Step Guide](https://dev.to/robertoumbelino/testing-your-api-with-fastify-and-vitest-a-step-by-step-guide-2840)
+- [ChatGPT Slack Bot](https://dev.to/pranjal_sharma_38482a3041/chatgpt-slack-bot-3bfe)
+- [Day 24 of my progress as a vue dev](https://dev.to/zain725342/day-24-of-my-progress-as-a-vue-dev-5ggi)
 <!-- BLOG-POST-LIST:END -->
 
