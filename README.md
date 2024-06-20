@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a website with Next.js using next/images](https://dev.to/malvinjay/build-a-website-with-nextjs-using-nextimages-2d2d)
-- [Asynchronous Streams in Dart with RxDart](https://dev.to/francescoagati/mastering-asynchronous-streams-in-dart-with-rxdart-1pid)
-- [Case Study: The ClockPane Class](https://dev.to/paulike/case-study-the-clockpane-class-4bpg)
-- [What are DTOs and their significance?](https://dev.to/prathamjagga/what-are-dtos-and-their-significance-2e72)
+- [t3twilio: Never Forget Again!](https://dev.to/kanav_gupta/t3twilio-never-forget-again-20bl)
+- [🧠 Neural Networks Explained](https://dev.to/aviralgarg05/neural-networks-explained-2c0p)
+- [Python Decorators: Simplified Explanation](https://dev.to/francescoagati/python-decorators-simplified-explanation-hm1)
+- [Dapper Stored Procedure tip](https://dev.to/karenpayneoregon/dapper-stored-procedure-tip-13j4)
 <!-- BLOG-POST-LIST:END -->
 
