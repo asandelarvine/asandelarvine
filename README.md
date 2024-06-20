@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Your First Cypress Test [With Examples]](https://dev.to/lambdatest/how-to-write-your-first-cypress-test-with-examples-2p2e)
-- [Automated Regression Testing: Enhancing Software Quality and Efficiency](https://dev.to/keploy/automated-regression-testing-enhancing-software-quality-and-efficiency-1991)
-- [Refactoring: User data service](https://dev.to/cezar-plescan/refactoring-user-data-service-nop)
-- [مقدمة إلى خدمات أيه دبليو إس](https://dev.to/khalidelgazzar/mqdm-l-khdmt-yh-dblyw-s-3i6g)
+- [Create a QR Code Generator Using ToolJet and Python in 5 Minutes! 🛠️](https://dev.to/tooljet/create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6)
+- [Beyond Coding: Learn to interact with AI](https://dev.to/rishika_kalita_80ef41e273/beyond-coding-learn-to-interact-with-ai-23l7)
+- [Google Youtube Codepen icons+search inputs &lpar;only CSS&rpar;](https://dev.to/tidycoder/google-youtube-codepen-iconssearch-inputs-only-css-4fjf)
+- [Async/await and SwiftUI](https://dev.to/ishouldhaveknown/asyncawait-and-swiftui-3b2h)
 <!-- BLOG-POST-LIST:END -->
 
