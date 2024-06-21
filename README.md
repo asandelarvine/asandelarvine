@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a GUI Clock with Python: A Comprehensive Step-by-Step Guide](https://dev.to/scofieldidehen/how-to-build-a-gui-clock-with-python-a-comprehensive-step-by-step-guide-2l2l)
-- [How to get elements by tag name of DOM child in React Native?](https://dev.to/ik6ne/how-to-get-elements-by-tag-name-of-dom-child-in-react-native-4620)
-- [Case: buscando soluções simples para automatizar atividades de D&amp;A](https://dev.to/camila_arruda_ec496aeea5c/case-buscando-solucoes-simples-para-automatizar-atividades-de-da-5fj8)
-- [SHA-256 in 256 Characters](https://dev.to/cadenmilne/sha-256-in-256-characters-9fh)
+- [Understanding JWT Authentication: A Comprehensive Guide with Examples](https://dev.to/vyan/understanding-jwt-authentication-a-comprehensive-guide-with-examples-1l3)
+- [Building a Secure CI/CD Pipeline: Beyond the Basics of Security Testing](https://dev.to/gauri1504/building-a-secure-cicd-pipeline-beyond-the-basics-of-security-testing-gpk)
+- [Getting Started with ReductStore in Node.js](https://dev.to/reductstore/getting-started-with-reductstore-in-nodejs-4p8l)
+- [Can we hide payloads in api calls?](https://dev.to/mechatron/can-we-hide-payloads-in-api-calls-7dh)
 <!-- BLOG-POST-LIST:END -->
 
