@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Certification Exam 8](https://dev.to/vidhey071/aws-certification-exam-8-nf9)
-- [Master Object Oriented Programming with TypeScript | OOP Concepts Part 1](https://dev.to/drsimplegraffiti/master-object-oriented-programming-with-typescript-oop-concepts-part-1-2pp3)
-- [AWS Backup Primer](https://dev.to/vidhey071/aws-backup-primer-1m94)
-- [Mastering .env File Usage in React Applications](https://dev.to/dk119819/mastering-env-file-usage-in-react-applications-1og5)
+- [Exploring Destructuring in JavaScript](https://dev.to/ddebajyati/exploring-destructuring-in-javascript-5a24)
+- [AWS Storage](https://dev.to/vidhey071/aws-storage-196c)
+- [Age of Spagetti Code](https://dev.to/pengeszikra/age-of-spagetti-code-5451)
+- [Day 25 of my progress as a vue dev](https://dev.to/zain725342/day-25-of-my-progress-as-a-vue-dev-2bg4)
 <!-- BLOG-POST-LIST:END -->
 
