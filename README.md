@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Disable Effects of a Controller On its Pods in Kubernetes](https://dev.to/umairk/disable-effects-of-a-controller-on-its-pods-in-kubernetes-64a)
-- [Swimming Like a Fish &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/swimming-like-a-fish-bite-size-article-29bm)
-- [AWS Polling - What is it and why you should do it](https://dev.to/onesoltechnologies/aws-polling-what-is-it-and-why-you-should-do-it-4cob)
-- [Crafting Effective UI Layouts: Day 4 of My UI/UX Design Journey](https://dev.to/prince_chouhan/crafting-effective-ui-layouts-day-4-of-my-uiux-design-journey-4i87)
+- [My Flow and Productivity has Improved with the Simplicity of Neovim](https://dev.to/aws-builders/my-flow-and-productivity-has-improved-with-the-simplicity-of-neovim-2lhm)
+- [💾 Database Management Systems &lpar;DBMS&rpar; Explained](https://dev.to/aviralgarg05/database-management-systems-dbms-explained-44ia)
+- [Day 976 : Manifest](https://dev.to/dwane/day-976-manifest-llo)
+- [What do a bug screen and a firewall have in common?](https://dev.to/yowise/what-do-a-bug-screen-and-a-firewall-have-in-common-olg)
 <!-- BLOG-POST-LIST:END -->
 
