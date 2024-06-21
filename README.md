@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wins of the Week! 🔥](https://dev.to/anitaolsen/my-wins-of-the-week-gdn)
-- [Introduction to Serverless Development](https://dev.to/vidhey071/introduction-to-serverless-development-15ef)
-- [Improving Your Development Environment on VS Code](https://dev.to/buildwebcrumbs/improving-your-development-environment-on-vs-code-2pi7)
-- [Cloud Essentials](https://dev.to/vidhey071/cloud-essentials-576k)
+- [AWS Certification Exam 8](https://dev.to/vidhey071/aws-certification-exam-8-nf9)
+- [Master Object Oriented Programming with TypeScript | OOP Concepts Part 1](https://dev.to/drsimplegraffiti/master-object-oriented-programming-with-typescript-oop-concepts-part-1-2pp3)
+- [AWS Backup Primer](https://dev.to/vidhey071/aws-backup-primer-1m94)
+- [Mastering .env File Usage in React Applications](https://dev.to/dk119819/mastering-env-file-usage-in-react-applications-1og5)
 <!-- BLOG-POST-LIST:END -->
 
