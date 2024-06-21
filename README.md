@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech to Non-tech in Search of better Tech Roles again!](https://dev.to/parthmagicss/tech-to-non-tech-in-search-of-better-tech-roles-again-104f)
-- [CMA Foundation Passing Marks : A Deep Dive](https://dev.to/samina_fatima_d743b381a14/cma-foundation-passing-marks-a-deep-dive-2p7a)
-- [VSCode C++ extension 執行程式時的工作路徑](https://dev.to/codemee/vscode-c-extension-zhi-xing-cheng-shi-shi-de-gong-zuo-lu-jing-1lgc)
-- [Flashback in GBase 8c for Data Consistency](https://dev.to/congcong/flashback-in-gbase-8c-for-data-consistency-hgk)
+- [Discover the Power of JavaScript MutationObserver!💪🚀](https://dev.to/dharamgfx/discover-the-power-of-javascript-mutationobserver-o42)
+- [Learning the Basics of the eBay API](https://dev.to/satokenta/learning-the-basics-of-the-ebay-api-2kf1)
+- [OSPF vs. RIP: A Comparison of Interior Gateway Protocols](https://dev.to/kutt27/ospf-vs-rip-a-comparison-of-interior-gateway-protocols-71i)
+- [Top 10 Cybersecurity Tools. Effective open-source.](https://dev.to/litlyx/top-10-cybersecurity-tools-effective-open-source-35ak)
 <!-- BLOG-POST-LIST:END -->
 
