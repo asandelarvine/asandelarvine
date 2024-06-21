@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 JavaScript Closures 🧩](https://dev.to/chinwuba_okafor_fed1ed88f/javascript-closures-35e6)
-- [JavaScript30 - 6 Ajax Type Ahead](https://dev.to/virtualsobriety/javascript30-6-ajax-type-ahead-1ne6)
-- [Understanding Generators, Coroutines, and Fibers Across Different Languages](https://dev.to/francescoagati/understanding-generators-coroutines-and-fibers-across-different-languages-4len)
-- [API Integration Best Practices: Ensuring Robust and Scalable Systems](https://dev.to/apidna/api-integration-best-practices-ensuring-robust-and-scalable-systems-50hd)
+- [Make a Billion in 6 Month in Tech &lpar;Only For Billionaires&rpar;](https://dev.to/scofieldidehen/make-a-billion-in-6-month-in-tech-only-for-billionaires-a14)
+- [HealthLingo | AI Agents Enabling Multilingual Doctor consultation via WhatsApp](https://dev.to/ashiqsultan/healthlingo-consult-doctors-from-whatsapp-in-your-native-language-twilio-with-gpt-544m)
+- [F1 app made in react](https://dev.to/itzale/f1-app-made-in-react-4187)
+- [Remote-first companies we should know about 🤔](https://dev.to/devonremote/remote-first-companies-we-should-know-about-2lgm)
 <!-- BLOG-POST-LIST:END -->
 
