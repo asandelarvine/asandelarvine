@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between Library and Framework](https://dev.to/chintamani_pala/what-is-the-difference-between-library-and-framework-1b8g)
-- [Worker Pool Design Pattern Explanation](https://dev.to/zeedu_dev/worker-pool-design-pattern-explanation-3kil)
-- [The &quot;Works on My Machine&quot; Curse: Slaying the Productivity Dragon in Local Development](https://dev.to/ssadasivuni/the-works-on-my-machine-curse-slaying-the-productivity-dragon-in-local-development-276)
-- [The MEVN Stack: A Modern Web Development Powerhouse](https://dev.to/matin_mollapur/the-mevn-stack-a-modern-web-development-powerhouse-34ji)
+- [Disable Effects of a Controller On its Pods in Kubernetes](https://dev.to/umairk/disable-effects-of-a-controller-on-its-pods-in-kubernetes-64a)
+- [Swimming Like a Fish &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/swimming-like-a-fish-bite-size-article-29bm)
+- [AWS Polling - What is it and why you should do it](https://dev.to/onesoltechnologies/aws-polling-what-is-it-and-why-you-should-do-it-4cob)
+- [Crafting Effective UI Layouts: Day 4 of My UI/UX Design Journey](https://dev.to/prince_chouhan/crafting-effective-ui-layouts-day-4-of-my-uiux-design-journey-4i87)
 <!-- BLOG-POST-LIST:END -->
 
