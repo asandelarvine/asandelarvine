@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Destructuring in JavaScript](https://dev.to/ddebajyati/exploring-destructuring-in-javascript-5a24)
-- [AWS Storage](https://dev.to/vidhey071/aws-storage-196c)
-- [Age of Spagetti Code](https://dev.to/pengeszikra/age-of-spagetti-code-5451)
-- [Day 25 of my progress as a vue dev](https://dev.to/zain725342/day-25-of-my-progress-as-a-vue-dev-2bg4)
+- [🧩 JavaScript Closures 🧩](https://dev.to/chinwuba_okafor_fed1ed88f/javascript-closures-35e6)
+- [JavaScript30 - 6 Ajax Type Ahead](https://dev.to/virtualsobriety/javascript30-6-ajax-type-ahead-1ne6)
+- [Understanding Generators, Coroutines, and Fibers Across Different Languages](https://dev.to/francescoagati/understanding-generators-coroutines-and-fibers-across-different-languages-4len)
+- [API Integration Best Practices: Ensuring Robust and Scalable Systems](https://dev.to/apidna/api-integration-best-practices-ensuring-robust-and-scalable-systems-50hd)
 <!-- BLOG-POST-LIST:END -->
 
