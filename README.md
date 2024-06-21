@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seamless State Management using Async Iterators](https://dev.to/matatbread/seamless-state-management-using-async-iterators-fp7)
-- [Static in C# - Part 1](https://dev.to/locnguyenpv/static-in-c-part-1-51h1)
-- [How to Create and Connect to a Linux VM Using a Public Key](https://dev.to/florence_8042063da11e29d1/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-if3)
-- [Code Your Way to Freedom: A Hard-Earned Guide](https://dev.to/trae_z/code-your-way-to-freedom-a-hard-earned-guide-2k39)
+- [My Wins of the Week! 🔥](https://dev.to/anitaolsen/my-wins-of-the-week-gdn)
+- [Introduction to Serverless Development](https://dev.to/vidhey071/introduction-to-serverless-development-15ef)
+- [Improving Your Development Environment on VS Code](https://dev.to/buildwebcrumbs/improving-your-development-environment-on-vs-code-2pi7)
+- [Cloud Essentials](https://dev.to/vidhey071/cloud-essentials-576k)
 <!-- BLOG-POST-LIST:END -->
 
