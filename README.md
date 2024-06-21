@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CA Intermediate Registration 2025: Deadline Alert](https://dev.to/ananya_seth12/ca-intermediate-registration-2025-deadline-alert-2fn1)
-- [Understanding Infrastructure as Code: Tools and Techniques Explained - My 100 days of learning devops- DAY 2 PART 2](https://dev.to/dilshavijay/understanding-infrastructure-as-code-tools-and-techniques-explained-my-100-days-of-learning-devops-day-2-part-2-45li)
-- [Forms In React](https://dev.to/ark7/forms-in-react-38c7)
-- [My 100-Day DevOps Journey: Day 2 Recap](https://dev.to/dilshavijay/my-100-day-devops-journey-day-2-recap-1dkh)
+- [PASETO: A New Era of Token-Based Authentication with Node.js and Express](https://dev.to/manojgohel/paseto-a-new-era-of-token-based-authentication-with-nodejs-and-express-559c)
+- [🎣 Webhooks: The secret sauce of web communication! 🌐](https://dev.to/codejourney/webhooks-the-secret-sauce-of-web-communication-2j9k)
+- [Ensuring Compliance: Integrating External APIs with HubSpot CMS and Adhering to EU Cookie Policies](https://dev.to/vadim_volnitsky_dafeb7b32/ensuring-compliance-integrating-external-apis-with-hubspot-cms-and-adhering-to-eu-cookie-policies-2ga4)
+- [Need to implement custom android native dialer with advanced features call transfer and conference](https://dev.to/balaji_ratnala_7b49c9d707/need-to-implement-custom-android-native-dialer-with-advanced-features-call-transfer-and-conference-58ha)
 <!-- BLOG-POST-LIST:END -->
 
