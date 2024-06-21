@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Power of JavaScript MutationObserver!💪🚀](https://dev.to/dharamgfx/discover-the-power-of-javascript-mutationobserver-o42)
-- [Learning the Basics of the eBay API](https://dev.to/satokenta/learning-the-basics-of-the-ebay-api-2kf1)
-- [OSPF vs. RIP: A Comparison of Interior Gateway Protocols](https://dev.to/kutt27/ospf-vs-rip-a-comparison-of-interior-gateway-protocols-71i)
-- [Top 10 Cybersecurity Tools. Effective open-source.](https://dev.to/litlyx/top-10-cybersecurity-tools-effective-open-source-35ak)
+- [Discover the Power of GaliChat: Your Ultimate AI Support Assistant](https://dev.to/marqbeniamin/discover-the-power-of-galichat-your-ultimate-ai-support-assistant-1n3j)
+- [Top 10 Popular Kubernetes Interview Questions](https://dev.to/iarchitsharma/top-10-popular-kubernetes-interview-questions-3kfd)
+- [New Course Launch: SPL Programming on esProc Desktop](https://dev.to/judith677/new-course-launch-spl-programming-on-esproc-desktop-2lma)
+- [Turing Machine: Foundation of Computation](https://dev.to/dee_codes/turing-machine-foundation-of-computation-1144)
 <!-- BLOG-POST-LIST:END -->
 
