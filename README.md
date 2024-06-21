@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT Authentication: A Comprehensive Guide with Examples](https://dev.to/vyan/understanding-jwt-authentication-a-comprehensive-guide-with-examples-1l3)
-- [Building a Secure CI/CD Pipeline: Beyond the Basics of Security Testing](https://dev.to/gauri1504/building-a-secure-cicd-pipeline-beyond-the-basics-of-security-testing-gpk)
-- [Getting Started with ReductStore in Node.js](https://dev.to/reductstore/getting-started-with-reductstore-in-nodejs-4p8l)
-- [Can we hide payloads in api calls?](https://dev.to/mechatron/can-we-hide-payloads-in-api-calls-7dh)
+- [CA Intermediate Registration 2025: Deadline Alert](https://dev.to/ananya_seth12/ca-intermediate-registration-2025-deadline-alert-2fn1)
+- [Understanding Infrastructure as Code: Tools and Techniques Explained - My 100 days of learning devops- DAY 2 PART 2](https://dev.to/dilshavijay/understanding-infrastructure-as-code-tools-and-techniques-explained-my-100-days-of-learning-devops-day-2-part-2-45li)
+- [Forms In React](https://dev.to/ark7/forms-in-react-38c7)
+- [My 100-Day DevOps Journey: Day 2 Recap](https://dev.to/dilshavijay/my-100-day-devops-journey-day-2-recap-1dkh)
 <!-- BLOG-POST-LIST:END -->
 
