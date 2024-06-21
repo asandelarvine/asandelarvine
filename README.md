@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a Billion in 6 Month in Tech &lpar;Only For Billionaires&rpar;](https://dev.to/scofieldidehen/make-a-billion-in-6-month-in-tech-only-for-billionaires-a14)
-- [HealthLingo | AI Agents Enabling Multilingual Doctor consultation via WhatsApp](https://dev.to/ashiqsultan/healthlingo-consult-doctors-from-whatsapp-in-your-native-language-twilio-with-gpt-544m)
-- [F1 app made in react](https://dev.to/itzale/f1-app-made-in-react-4187)
-- [Remote-first companies we should know about 🤔](https://dev.to/devonremote/remote-first-companies-we-should-know-about-2lgm)
+- [Recursion: Computer Science Challenge](https://dev.to/karim_abdallah/recursion-computer-science-challenge-b6p)
+- [My First Blog](https://dev.to/shrishti_srivastava_/my-first-blog-3e9k)
+- [How RAG with txtai works](https://dev.to/neuml/how-rag-with-txtai-works-4lkh)
+- [Big O Notation](https://dev.to/pirisaurio32/big-o-notation-40bb)
 <!-- BLOG-POST-LIST:END -->
 
