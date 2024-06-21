@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion: Computer Science Challenge](https://dev.to/karim_abdallah/recursion-computer-science-challenge-b6p)
-- [My First Blog](https://dev.to/shrishti_srivastava_/my-first-blog-3e9k)
-- [How RAG with txtai works](https://dev.to/neuml/how-rag-with-txtai-works-4lkh)
-- [Big O Notation](https://dev.to/pirisaurio32/big-o-notation-40bb)
+- [What is the difference between Library and Framework](https://dev.to/chintamani_pala/what-is-the-difference-between-library-and-framework-1b8g)
+- [Worker Pool Design Pattern Explanation](https://dev.to/zeedu_dev/worker-pool-design-pattern-explanation-3kil)
+- [The &quot;Works on My Machine&quot; Curse: Slaying the Productivity Dragon in Local Development](https://dev.to/ssadasivuni/the-works-on-my-machine-curse-slaying-the-productivity-dragon-in-local-development-276)
+- [The MEVN Stack: A Modern Web Development Powerhouse](https://dev.to/matin_mollapur/the-mevn-stack-a-modern-web-development-powerhouse-34ji)
 <!-- BLOG-POST-LIST:END -->
 
