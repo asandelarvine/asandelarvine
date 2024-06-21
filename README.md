@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Flow and Productivity has Improved with the Simplicity of Neovim](https://dev.to/aws-builders/my-flow-and-productivity-has-improved-with-the-simplicity-of-neovim-2lhm)
-- [💾 Database Management Systems &lpar;DBMS&rpar; Explained](https://dev.to/aviralgarg05/database-management-systems-dbms-explained-44ia)
-- [Day 976 : Manifest](https://dev.to/dwane/day-976-manifest-llo)
-- [What do a bug screen and a firewall have in common?](https://dev.to/yowise/what-do-a-bug-screen-and-a-firewall-have-in-common-olg)
+- [4 useState Mistakes You Should Avoid in React🚫](https://dev.to/safdarali/4-usestate-mistakes-you-should-avoid-in-react-1ol0)
+- [Firebase Authentication: Are you truly secure?](https://dev.to/oyegoke/firebase-authentication-are-you-truly-secure-1bo4)
+- [[Game of Purpose] Day 34](https://dev.to/humberd/game-of-purpose-day-34-47j4)
+- [Networking and Sockets: Syn and Accept queue](https://dev.to/douglasmakey/networking-and-sockets-syn-and-accept-queue-1lgn)
 <!-- BLOG-POST-LIST:END -->
 
