@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Silicon, State-of-the-art ARM CPU](https://dev.to/choonho/apple-silicon-state-of-the-art-arm-cpu-4131)
-- [Implement React v18 from Scratch Using WASM and Rust - [17] Implement Concurrent Mode](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-17-implement-concurrent-mode-3680)
-- [Easily Migrate DataBase Data in Just 3 Steps, Even for Beginners](https://dev.to/concerate/easily-migrate-database-data-in-just-3-steps-even-for-beginners-37o0)
-- [How to Enhance File Security: Three Key Measures for Your Business](https://dev.to/jeffreyboyle0033/how-to-enhance-file-security-three-key-measures-for-your-business-589)
+- [How to Build a GUI Clock with Python: A Comprehensive Step-by-Step Guide](https://dev.to/scofieldidehen/how-to-build-a-gui-clock-with-python-a-comprehensive-step-by-step-guide-2l2l)
+- [How to get elements by tag name of DOM child in React Native?](https://dev.to/ik6ne/how-to-get-elements-by-tag-name-of-dom-child-in-react-native-4620)
+- [Case: buscando soluções simples para automatizar atividades de D&amp;A](https://dev.to/camila_arruda_ec496aeea5c/case-buscando-solucoes-simples-para-automatizar-atividades-de-da-5fj8)
+- [SHA-256 in 256 Characters](https://dev.to/cadenmilne/sha-256-in-256-characters-9fh)
 <!-- BLOG-POST-LIST:END -->
 
