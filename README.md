@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into the `array.map` Method - Mastering JavaScript](https://dev.to/hkp22/a-deep-dive-into-the-arraymap-method-mastering-javascript-1dj4)
-- [ES-6 What is it?](https://dev.to/harshasrisameera/es-6-what-is-it-2ibd)
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 6&rpar; - Business Logic Separation](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-6-business-logic-separation-221g)
-- [Why CLIs are STILL important](https://dev.to/cyclops-ui/why-clis-are-still-important-425a)
+- [Seamless State Management using Async Iterators](https://dev.to/matatbread/seamless-state-management-using-async-iterators-fp7)
+- [Static in C# - Part 1](https://dev.to/locnguyenpv/static-in-c-part-1-51h1)
+- [How to Create and Connect to a Linux VM Using a Public Key](https://dev.to/florence_8042063da11e29d1/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-if3)
+- [Code Your Way to Freedom: A Hard-Earned Guide](https://dev.to/trae_z/code-your-way-to-freedom-a-hard-earned-guide-2k39)
 <!-- BLOG-POST-LIST:END -->
 
