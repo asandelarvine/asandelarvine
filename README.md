@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PASETO: A New Era of Token-Based Authentication with Node.js and Express](https://dev.to/manojgohel/paseto-a-new-era-of-token-based-authentication-with-nodejs-and-express-559c)
-- [🎣 Webhooks: The secret sauce of web communication! 🌐](https://dev.to/codejourney/webhooks-the-secret-sauce-of-web-communication-2j9k)
-- [Ensuring Compliance: Integrating External APIs with HubSpot CMS and Adhering to EU Cookie Policies](https://dev.to/vadim_volnitsky_dafeb7b32/ensuring-compliance-integrating-external-apis-with-hubspot-cms-and-adhering-to-eu-cookie-policies-2ga4)
-- [Need to implement custom android native dialer with advanced features call transfer and conference](https://dev.to/balaji_ratnala_7b49c9d707/need-to-implement-custom-android-native-dialer-with-advanced-features-call-transfer-and-conference-58ha)
+- [Join Us in Building IconSnap.me: Revolutionizing Real-Time Icon Correction](https://dev.to/stokry/join-us-in-building-iconsnapme-revolutionizing-real-time-icon-correction-4mcc)
+- [Big-Oh defined &lpar;the fun way &rpar;](https://dev.to/mitchiemt11/big-oh-defined-the-fun-way--16h5)
+- [What is Java’s default GC algorithm?](https://dev.to/ram_lakshmanan_001/what-is-javas-default-gc-algorithm-4fgb)
+- [Bit Wars: 32-bit vs 64-bit Systems Explained](https://dev.to/shravan20/bit-wars-32-bit-vs-64-bit-systems-explained-511a)
 <!-- BLOG-POST-LIST:END -->
 
