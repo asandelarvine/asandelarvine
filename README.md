@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go from one page to another with javascript](https://dev.to/raz41/go-from-one-page-to-another-with-javascript-dil)
-- [Pure Functions in Next.js](https://dev.to/sabermekki/pure-functions-in-nextjs-4ni4)
-- [🚀 API Maker : Release Notes for v1.6.0](https://dev.to/apimaker/api-maker-release-notes-for-v160-5786)
-- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-8b7)
+- [A Deep Dive into the `array.map` Method - Mastering JavaScript](https://dev.to/hkp22/a-deep-dive-into-the-arraymap-method-mastering-javascript-1dj4)
+- [ES-6 What is it?](https://dev.to/harshasrisameera/es-6-what-is-it-2ibd)
+- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 6&rpar; - Business Logic Separation](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-6-business-logic-separation-221g)
+- [Why CLIs are STILL important](https://dev.to/cyclops-ui/why-clis-are-still-important-425a)
 <!-- BLOG-POST-LIST:END -->
 
