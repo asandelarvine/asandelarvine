@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should you really Roll your own auth?](https://dev.to/devlawrence/should-you-really-roll-your-own-auth-4dj)
-- [Entendendo as Nomenclaturas getBy..., findBy... e queryBy... no Jest](https://dev.to/vitorrios1001/entendendo-as-nomenclaturas-getby-findby-e-queryby-no-jest-2ni4)
-- [Modelo de Desing de Aplicações Backend](https://dev.to/brunobrolesi/modelo-de-desing-de-aplicacoes-backend-47jp)
-- [MICROSOFT APPLIED SKILL. Guided Project:](https://dev.to/sethgiddy/microsoft-applied-skill-guided-project-4ci9)
+- [Pros and Cons of AI-Assisted Software Development](https://dev.to/olivia1202/pros-and-cons-of-ai-assisted-software-development-3373)
+- [Top Anker Products for Developers in 2024](https://dev.to/judescripts/top-anker-products-for-developers-in-2024-3enm)
+- [BLUETTI Portable Power Stations for Developers](https://dev.to/judescripts/bluetti-portable-power-stations-for-developers-503p)
+- [Top IT Staffing Companies in the USA](https://dev.to/balazsrefi/top-it-staffing-companies-in-the-usa-2jnb)
 <!-- BLOG-POST-LIST:END -->
 
