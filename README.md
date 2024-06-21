@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Us in Building IconSnap.me: Revolutionizing Real-Time Icon Correction](https://dev.to/stokry/join-us-in-building-iconsnapme-revolutionizing-real-time-icon-correction-4mcc)
-- [Big-Oh defined &lpar;the fun way &rpar;](https://dev.to/mitchiemt11/big-oh-defined-the-fun-way--16h5)
-- [What is Java’s default GC algorithm?](https://dev.to/ram_lakshmanan_001/what-is-javas-default-gc-algorithm-4fgb)
-- [Bit Wars: 32-bit vs 64-bit Systems Explained](https://dev.to/shravan20/bit-wars-32-bit-vs-64-bit-systems-explained-511a)
+- [Tech to Non-tech in Search of better Tech Roles again!](https://dev.to/parthmagicss/tech-to-non-tech-in-search-of-better-tech-roles-again-104f)
+- [CMA Foundation Passing Marks : A Deep Dive](https://dev.to/samina_fatima_d743b381a14/cma-foundation-passing-marks-a-deep-dive-2p7a)
+- [VSCode C++ extension 執行程式時的工作路徑](https://dev.to/codemee/vscode-c-extension-zhi-xing-cheng-shi-shi-de-gong-zuo-lu-jing-1lgc)
+- [Flashback in GBase 8c for Data Consistency](https://dev.to/congcong/flashback-in-gbase-8c-for-data-consistency-hgk)
 <!-- BLOG-POST-LIST:END -->
 
