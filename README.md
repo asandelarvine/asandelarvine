@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Power of GaliChat: Your Ultimate AI Support Assistant](https://dev.to/marqbeniamin/discover-the-power-of-galichat-your-ultimate-ai-support-assistant-1n3j)
-- [Top 10 Popular Kubernetes Interview Questions](https://dev.to/iarchitsharma/top-10-popular-kubernetes-interview-questions-3kfd)
-- [New Course Launch: SPL Programming on esProc Desktop](https://dev.to/judith677/new-course-launch-spl-programming-on-esproc-desktop-2lma)
-- [Turing Machine: Foundation of Computation](https://dev.to/dee_codes/turing-machine-foundation-of-computation-1144)
+- [Go from one page to another with javascript](https://dev.to/raz41/go-from-one-page-to-another-with-javascript-dil)
+- [Pure Functions in Next.js](https://dev.to/sabermekki/pure-functions-in-nextjs-4ni4)
+- [🚀 API Maker : Release Notes for v1.6.0](https://dev.to/apimaker/api-maker-release-notes-for-v160-5786)
+- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-8b7)
 <!-- BLOG-POST-LIST:END -->
 
