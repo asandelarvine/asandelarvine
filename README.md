@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tree data structures in Rust with tree-ds &lpar;#1: Getting Started&rpar;](https://dev.to/clementwanjau/tree-data-structures-in-rust-with-tree-ds-1-getting-started-3pb4)
-- [Deep Dive on AWS Clean Rooms with Integration to AWS Glue](https://dev.to/aws-builders/deep-dive-on-aws-clean-rooms-with-integration-to-aws-glue-3dbf)
-- [5 Reasons Why You Are Losing Hackathons](https://dev.to/code42cate/5-reasons-why-you-are-losing-hackathons-4k70)
-- [Resolving Log Permission Issues in Laravel](https://dev.to/fernandomullerjr/resolving-log-permission-issues-in-laravel-2mko)
+- [Mastering Clean Code: Essential Practices Every Developer Should Know](https://dev.to/delia_code/mastering-clean-code-essential-practices-every-developer-should-know-5a93)
+- [Implementing Caching Strategies: Techniques for High-Performance Web Apps](https://dev.to/nayanraj-adhikary/implementing-caching-strategies-techniques-for-high-performance-web-apps-3dm7)
+- [docker config auths reverse engineering](https://dev.to/malikbenkirane/docker-config-auths-reverse-engineering-b02)
+- [Exclusive Free eBook: Mastering Solidity and Ethereum Development](https://dev.to/superxdev/exclusive-free-ebook-master-solidity-and-ethereum-development-2ajo)
 <!-- BLOG-POST-LIST:END -->
 
