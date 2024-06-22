@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Delete Documents, Drop Collection in MongoDB](https://dev.to/kawsarkabir/delete-documents-drop-collection-in-mongodb-4i09)
-- [Count Number of Nice Subarrays](https://dev.to/zeeshanali0704/count-number-of-nice-subarrays-3id2)
-- [Stay Tuned 🤩](https://dev.to/coderbotics_ai/stay-tuned-4a79)
-- [Stay Tuned 🤩](https://dev.to/coderbotics_ai/stay-tuned-2l10)
+- [Tree data structures in Rust with tree-ds &lpar;#1: Getting Started&rpar;](https://dev.to/clementwanjau/tree-data-structures-in-rust-with-tree-ds-1-getting-started-3pb4)
+- [Deep Dive on AWS Clean Rooms with Integration to AWS Glue](https://dev.to/aws-builders/deep-dive-on-aws-clean-rooms-with-integration-to-aws-glue-3dbf)
+- [5 Reasons Why You Are Losing Hackathons](https://dev.to/code42cate/5-reasons-why-you-are-losing-hackathons-4k70)
+- [Resolving Log Permission Issues in Laravel](https://dev.to/fernandomullerjr/resolving-log-permission-issues-in-laravel-2mko)
 <!-- BLOG-POST-LIST:END -->
 
