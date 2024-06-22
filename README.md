@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Certifications](https://dev.to/bvidhey/aws-certifications-5ejc)
-- [O que é Blochchain e como a tecnologia funciona?](https://dev.to/starch1/o-que-e-blochchain-e-como-a-tecnologia-funciona-24b0)
-- [Excited to Join and Learn: My Journey in Tech](https://dev.to/ruturajj/excited-to-join-and-learn-my-journey-in-tech-59b9)
-- [javascript exeuction context](https://dev.to/mhmd-salah/javascript-exeuction-context-12le)
+- [Computer Programming: What is Looping?](https://dev.to/codesmith/computer-programming-what-is-looping-4oda)
+- [The Concept of Looping in Computer Programming](https://dev.to/codesmith/the-concept-of-looping-in-computer-programming-27ic)
+- [[JS]Bootstrap version converter](https://dev.to/jkdevarg/jsbootstrap-version-converter-5a1m)
+- [30 Days of Google Cloud- a review](https://dev.to/gdscbbit/30-days-of-google-cloud-a-review-59o)
 <!-- BLOG-POST-LIST:END -->
 
