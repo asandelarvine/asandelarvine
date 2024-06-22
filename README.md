@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Облачные технологии и виртуализация — ключевые концепции.](https://dev.to/mibii/oblachnykh-tiekhnologhii-i-virtualizatsii-kliuchievyie-kontsieptsii-1ca4)
-- [Exploring Blockchain Technology Beyond Cryptocurrencies](https://dev.to/kartikmehta8/exploring-blockchain-technology-beyond-cryptocurrencies-2k48)
-- [How to create and connect to a Linux VM on Azure using a Public Key.](https://dev.to/phillip_ajifowobaje_68724/how-to-create-and-connect-to-a-linux-vm-on-azure-using-a-public-key-5fm1)
-- [GIF to JPG: Transitioning Between Image Formats](https://dev.to/msmith99994/gif-to-jpg-transitioning-between-image-formats-2e28)
+- [Day 4 of 90 Days of DevOps: Resetting the Jenkins Password on Windows and Setting Up CI with Jenkins](https://dev.to/arbythecoder/day-4-of-90-days-of-devops-resetting-the-jenkins-password-on-windows-and-setting-up-ci-with-jenkins-1n9j)
+- [Filtering in JOIN or WHERE in MySQL: Differences and Performance Impact](https://dev.to/robertoumbelino/filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g)
+- [Pseudocode/Python Project](https://dev.to/thefoxlion/pseudocodepython-project-4p7n)
+- [Building Custom PCs for Developers: Three Different Approaches](https://dev.to/judescripts/building-custom-pcs-for-developers-three-different-approaches-nll)
 <!-- BLOG-POST-LIST:END -->
 
