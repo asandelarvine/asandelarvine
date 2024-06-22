@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Prompting &amp; Training in LLMs - II](https://dev.to/mahakfaheem/mastering-prompting-training-in-llms-ii-nk4)
-- [Versatility in Action: Exploring Key Fields Where MERN Stack Developers Excel](https://dev.to/ridoy_hasan/versatility-in-action-exploring-key-fields-where-mern-stack-developers-excel-4bdc)
-- [We all want a good DevEx. Here&#39;s how to do it right](https://dev.to/opensourcee/we-all-want-a-good-devex-heres-how-to-do-it-right-11hj)
-- [Twilio challenge submission](https://dev.to/mr-simze/twilio-challenge-submission-2680)
+- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/the-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-6l7)
+- [How to get test net coins](https://dev.to/uthmancpder/how-to-get-test-net-coins-2d6a)
+- [Exploring Option Constructors in Effect-TS](https://dev.to/almaclaine/exploring-option-constructors-in-effect-ts-4ka0)
+- [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 <!-- BLOG-POST-LIST:END -->
 
