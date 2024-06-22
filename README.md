@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Science under 125 characters.](https://dev.to/ahad23/computer-science-under-125-characters-52fd)
-- [AVIF vs JPG: A Comparative Analysis](https://dev.to/msmith99994/avif-vs-jpg-a-comparative-analysis-372j)
-- [Solution for Render.com Web services spin down due to inactivity.](https://dev.to/harshgit98/solution-for-rendercom-web-services-spin-down-due-to-inactivity-2h8i)
-- [Feedback : Using embedded python daily for more than 2 years](https://dev.to/intersystems/feedback-using-embedded-python-daily-for-more-than-2-years-3f4g)
+- [AWS Certifications](https://dev.to/bvidhey/aws-certifications-5ejc)
+- [O que é Blochchain e como a tecnologia funciona?](https://dev.to/starch1/o-que-e-blochchain-e-como-a-tecnologia-funciona-24b0)
+- [Excited to Join and Learn: My Journey in Tech](https://dev.to/ruturajj/excited-to-join-and-learn-my-journey-in-tech-59b9)
+- [javascript exeuction context](https://dev.to/mhmd-salah/javascript-exeuction-context-12le)
 <!-- BLOG-POST-LIST:END -->
 
