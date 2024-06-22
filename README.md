@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Database Offerings](https://dev.to/vidhey071/aws-database-offerings-5f25)
-- [AWS Certified Solutions Architect - Professional](https://dev.to/vidhey071/aws-certified-solutions-architect-professional-2p27)
-- [Simplifying Persistent Storage in Kubernetes: A Deep Dive into PVs, PVCs, and SCs](https://dev.to/piyushbagani15/simplifying-persistent-storage-in-kubernetes-a-deep-dive-into-pvs-pvcs-and-scs-1p3c)
-- [AWS Security, Identity and Compliance](https://dev.to/vidhey071/aws-security-identity-and-compliance-2121)
+- [Zero to Hero Stable Diffusion 3 Tutorial with Amazing SwarmUI SD Web UI that Utilizes ComfyUI](https://dev.to/furkangozukara/zero-to-hero-stable-diffusion-3-tutorial-with-amazing-swarmui-sd-web-ui-that-utilizes-comfyui-27hl)
+- [JpaRepository ve JpaSpecificationExecutor](https://dev.to/mustafacam/jparepository-ve-jpaspecificationexecutor-3nch)
+- [MERN Stack Development Services: A Comprehensive Guide](https://dev.to/akaeidalakib/mern-stack-development-services-a-comprehensive-guide-55mm)
+- [Top State management libs for React Native ✨](https://dev.to/manjotdhiman/top-state-management-libs-for-react-native-1dl5)
 <!-- BLOG-POST-LIST:END -->
 
