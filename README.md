@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Letz Understand NPM Versioning: A Beginner&#39;s Guide](https://dev.to/darshanraval/letz-understand-npm-versioning-a-beginners-guide-58pf)
-- [Pro Tips: Dos and Don&#39;ts for Efficient Coding](https://dev.to/dipakahirav/pro-tips-dos-and-donts-for-efficient-coding-425p)
-- [Completed MySQL and Database Design Course](https://dev.to/csathishkumar/completed-mysql-and-database-design-course-59a1)
-- [How to authorize user to view only their own created notes?](https://dev.to/ghulam_mujtaba_247/how-to-authorize-user-to-view-only-their-own-created-notes-5h49)
+- [Advanced NVM Commands for Efficient Node.js Version Management](https://dev.to/rigalpatel001/advanced-nvm-commands-for-efficient-nodejs-version-management-4h5l)
+- [One Byte Explainer - Djikstra&#39;s Algorithm](https://dev.to/vanshgoel/one-byte-explainer-djikstras-algorithm-40o2)
+- [CMA Foundation Registration: Significant Details](https://dev.to/saumya03/cma-foundation-registration-significant-details-42ak)
+- [Generative AI: The Next Frontier of Artificial Intelligence](https://dev.to/deepakbhagat7/generative-ai-the-next-frontier-of-artificial-intelligence-2igo)
 <!-- BLOG-POST-LIST:END -->
 
