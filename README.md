@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Hero Stable Diffusion 3 Tutorial with Amazing SwarmUI SD Web UI that Utilizes ComfyUI](https://dev.to/furkangozukara/zero-to-hero-stable-diffusion-3-tutorial-with-amazing-swarmui-sd-web-ui-that-utilizes-comfyui-27hl)
-- [JpaRepository ve JpaSpecificationExecutor](https://dev.to/mustafacam/jparepository-ve-jpaspecificationexecutor-3nch)
-- [MERN Stack Development Services: A Comprehensive Guide](https://dev.to/akaeidalakib/mern-stack-development-services-a-comprehensive-guide-55mm)
-- [Top State management libs for React Native ✨](https://dev.to/manjotdhiman/top-state-management-libs-for-react-native-1dl5)
+- [Computer Science under 125 characters.](https://dev.to/ahad23/computer-science-under-125-characters-52fd)
+- [AVIF vs JPG: A Comparative Analysis](https://dev.to/msmith99994/avif-vs-jpg-a-comparative-analysis-372j)
+- [Solution for Render.com Web services spin down due to inactivity.](https://dev.to/harshgit98/solution-for-rendercom-web-services-spin-down-due-to-inactivity-2h8i)
+- [Feedback : Using embedded python daily for more than 2 years](https://dev.to/intersystems/feedback-using-embedded-python-daily-for-more-than-2-years-3f4g)
 <!-- BLOG-POST-LIST:END -->
 
