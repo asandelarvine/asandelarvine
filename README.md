@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 of 90 Days of DevOps: Resetting the Jenkins Password on Windows and Setting Up CI with Jenkins](https://dev.to/arbythecoder/day-4-of-90-days-of-devops-resetting-the-jenkins-password-on-windows-and-setting-up-ci-with-jenkins-1n9j)
-- [Filtering in JOIN or WHERE in MySQL: Differences and Performance Impact](https://dev.to/robertoumbelino/filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g)
-- [Pseudocode/Python Project](https://dev.to/thefoxlion/pseudocodepython-project-4p7n)
-- [Building Custom PCs for Developers: Three Different Approaches](https://dev.to/judescripts/building-custom-pcs-for-developers-three-different-approaches-nll)
+- [&quot;Blockchain Unleashed: The Cat Diary Chronicles&quot;](https://dev.to/vinothrajat/blockchain-unleashed-the-cat-diary-chronicles-36pm)
+- [&quot;Blockchain Unleashed: The Cat Diary Chronicles&quot;](https://dev.to/vinothrajat/blockchain-unleashed-the-cat-diary-chronicles-3k0k)
+- [Configuración de Dockerfile para proyecto Nest.js: tutorial práctico](https://dev.to/ronnymedina/configuracion-de-dockerfile-para-proyecto-nestjs-tutorial-practico-1jpi)
+- [การสร้างผู้ใช้งาน และให้สิทธิความเป็นเจ้าของฐานข้อมูล PostgreSQL บน Ubuntu](https://dev.to/everthing-was-postgres/kaarsraangphuuaichngaan-aelaaihsiththikhwaamepnecchaakhngthaankhmuul-postgresql-bn-ubuntu-9pk)
 <!-- BLOG-POST-LIST:END -->
 
