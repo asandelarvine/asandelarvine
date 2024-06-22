@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to the Data Science Life Cycle with Python Libraries 🐍🤖](https://dev.to/kammarianand/a-comprehensive-guide-to-the-data-science-life-cycle-with-python-libraries-dgd)
-- [Build A CSS Word Search Game In ... CSS!](https://dev.to/madsstoumann/build-a-css-word-search-game-in-css-10d1)
-- [Understanding CSS: Advantages and Disadvantages of Inline, Internal, and External Styles](https://dev.to/brendan_frasser/understanding-css-advantages-and-disadvantages-of-inline-internal-and-external-styles-glk)
-- [Understanding DevOps: Principles, Practices, and Culture - Day 3 Recap](https://dev.to/dilshavijay/understanding-devops-principles-practices-and-culture-day-3-recap-8la)
+- [AWS Database Offerings](https://dev.to/vidhey071/aws-database-offerings-5f25)
+- [AWS Certified Solutions Architect - Professional](https://dev.to/vidhey071/aws-certified-solutions-architect-professional-2p27)
+- [Simplifying Persistent Storage in Kubernetes: A Deep Dive into PVs, PVCs, and SCs](https://dev.to/piyushbagani15/simplifying-persistent-storage-in-kubernetes-a-deep-dive-into-pvs-pvcs-and-scs-1p3c)
+- [AWS Security, Identity and Compliance](https://dev.to/vidhey071/aws-security-identity-and-compliance-2121)
 <!-- BLOG-POST-LIST:END -->
 
