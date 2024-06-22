@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to AWS IAM](https://dev.to/vidhey071/introduction-to-aws-iam-40c1)
-- [AWS ECS Primer](https://dev.to/vidhey071/aws-ecs-primer-2cpd)
-- [Working on a browser / Je travaille sur un moteur de recheche](https://dev.to/afk7275/working-on-a-browser-je-travaille-sur-un-moteur-de-recheche-24o1)
-- [Thoughts/feedback on project](https://dev.to/jcw_316/thoughtsfeedback-on-project-dkf)
+- [A Comprehensive Guide to the Data Science Life Cycle with Python Libraries 🐍🤖](https://dev.to/kammarianand/a-comprehensive-guide-to-the-data-science-life-cycle-with-python-libraries-dgd)
+- [Build A CSS Word Search Game In ... CSS!](https://dev.to/madsstoumann/build-a-css-word-search-game-in-css-10d1)
+- [Understanding CSS: Advantages and Disadvantages of Inline, Internal, and External Styles](https://dev.to/brendan_frasser/understanding-css-advantages-and-disadvantages-of-inline-internal-and-external-styles-glk)
+- [Understanding DevOps: Principles, Practices, and Culture - Day 3 Recap](https://dev.to/dilshavijay/understanding-devops-principles-practices-and-culture-day-3-recap-8la)
 <!-- BLOG-POST-LIST:END -->
 
