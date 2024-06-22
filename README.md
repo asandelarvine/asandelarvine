@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced NVM Commands for Efficient Node.js Version Management](https://dev.to/rigalpatel001/advanced-nvm-commands-for-efficient-nodejs-version-management-4h5l)
-- [One Byte Explainer - Djikstra&#39;s Algorithm](https://dev.to/vanshgoel/one-byte-explainer-djikstras-algorithm-40o2)
-- [CMA Foundation Registration: Significant Details](https://dev.to/saumya03/cma-foundation-registration-significant-details-42ak)
-- [Generative AI: The Next Frontier of Artificial Intelligence](https://dev.to/deepakbhagat7/generative-ai-the-next-frontier-of-artificial-intelligence-2igo)
+- [Introduction to AWS IAM](https://dev.to/vidhey071/introduction-to-aws-iam-40c1)
+- [AWS ECS Primer](https://dev.to/vidhey071/aws-ecs-primer-2cpd)
+- [Working on a browser / Je travaille sur un moteur de recheche](https://dev.to/afk7275/working-on-a-browser-je-travaille-sur-un-moteur-de-recheche-24o1)
+- [Thoughts/feedback on project](https://dev.to/jcw_316/thoughtsfeedback-on-project-dkf)
 <!-- BLOG-POST-LIST:END -->
 
