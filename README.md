@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Pandas](https://dev.to/ugonma/introduction-to-pandas-11on)
-- [The Body Shop of Security: Biometrics](https://dev.to/swayam_248/the-body-shop-of-security-biometrics-2hba)
-- [Responsive design principles](https://dev.to/shivansh_vohra_2d13220efa/responsive-design-principles-1aba)
-- [Lynx - A Fast, Secure and Reliable Terraform Backend](https://dev.to/clivern/lynx-a-fast-secure-and-reliable-terraform-backend-4fi0)
+- [Mastering Prompting &amp; Training in LLMs - II](https://dev.to/mahakfaheem/mastering-prompting-training-in-llms-ii-nk4)
+- [Versatility in Action: Exploring Key Fields Where MERN Stack Developers Excel](https://dev.to/ridoy_hasan/versatility-in-action-exploring-key-fields-where-mern-stack-developers-excel-4bdc)
+- [We all want a good DevEx. Here&#39;s how to do it right](https://dev.to/opensourcee/we-all-want-a-good-devex-heres-how-to-do-it-right-11hj)
+- [Twilio challenge submission](https://dev.to/mr-simze/twilio-challenge-submission-2680)
 <!-- BLOG-POST-LIST:END -->
 
