@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Cybersecurity and Beyond &lpar;Vuln](https://dev.to/claireclark187/my-journey-into-cybersecurity-and-beyond-vuln-33mf)
-- [Showcase Your Achievements Securely with CertiFolio 🚀](https://dev.to/priyanshuverma/showcase-your-achievements-securely-with-certifolio-42af)
-- [onClick={someFunction} VS onClick={&lpar;&rpar;=&gt;someFunction}](https://dev.to/itric/onclicksomefunction-vs-onclicksomefunction-5d1i)
-- [Angular CDK Tutorial: Accordion Module](https://dev.to/brianmtreese/angular-cdk-tutorial-accordion-module-c11)
+- [Delete Documents, Drop Collection in MongoDB](https://dev.to/kawsarkabir/delete-documents-drop-collection-in-mongodb-4i09)
+- [Count Number of Nice Subarrays](https://dev.to/zeeshanali0704/count-number-of-nice-subarrays-3id2)
+- [Stay Tuned 🤩](https://dev.to/coderbotics_ai/stay-tuned-4a79)
+- [Stay Tuned 🤩](https://dev.to/coderbotics_ai/stay-tuned-2l10)
 <!-- BLOG-POST-LIST:END -->
 
