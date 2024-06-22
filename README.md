@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Programming: What is Looping?](https://dev.to/codesmith/computer-programming-what-is-looping-4oda)
-- [The Concept of Looping in Computer Programming](https://dev.to/codesmith/the-concept-of-looping-in-computer-programming-27ic)
-- [[JS]Bootstrap version converter](https://dev.to/jkdevarg/jsbootstrap-version-converter-5a1m)
-- [30 Days of Google Cloud- a review](https://dev.to/gdscbbit/30-days-of-google-cloud-a-review-59o)
+- [Adding Middleware to .NET Desktop Applications](https://dev.to/amehdaly/adding-middleware-to-net-desktop-applications-4gh)
+- [refactoring C# code advices](https://dev.to/dejan_jovancevic_ns/refactoring-c-code-advices-ng7)
+- [Django Basics: A Comprehensive Guide](https://dev.to/kihuni/django-basics-a-comprehensive-guide-4dhl)
+- [SOLID PRIINCIPLES](https://dev.to/dev_eze/solid-priinciples-g5c)
 <!-- BLOG-POST-LIST:END -->
 
