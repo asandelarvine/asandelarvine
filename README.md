@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/the-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-6l7)
+- [Setup a Next.JS project for production-ready](https://dev.to/es_pythonus/setup-a-nextjs-project-for-production-ready-2nho)
+- [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l)
+- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/a-brief-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-1d71)
 - [How to get test net coins](https://dev.to/uthmancpder/how-to-get-test-net-coins-2d6a)
-- [Exploring Option Constructors in Effect-TS](https://dev.to/almaclaine/exploring-option-constructors-in-effect-ts-4ka0)
-- [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 <!-- BLOG-POST-LIST:END -->
 
