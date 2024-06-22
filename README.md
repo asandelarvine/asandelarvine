@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Middleware to .NET Desktop Applications](https://dev.to/amehdaly/adding-middleware-to-net-desktop-applications-4gh)
-- [refactoring C# code advices](https://dev.to/dejan_jovancevic_ns/refactoring-c-code-advices-ng7)
-- [Django Basics: A Comprehensive Guide](https://dev.to/kihuni/django-basics-a-comprehensive-guide-4dhl)
-- [SOLID PRIINCIPLES](https://dev.to/dev_eze/solid-priinciples-g5c)
+- [Introduction to Pandas](https://dev.to/ugonma/introduction-to-pandas-11on)
+- [The Body Shop of Security: Biometrics](https://dev.to/swayam_248/the-body-shop-of-security-biometrics-2hba)
+- [Responsive design principles](https://dev.to/shivansh_vohra_2d13220efa/responsive-design-principles-1aba)
+- [Lynx - A Fast, Secure and Reliable Terraform Backend](https://dev.to/clivern/lynx-a-fast-secure-and-reliable-terraform-backend-4fi0)
 <!-- BLOG-POST-LIST:END -->
 
