@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of CDK and Terraform in Cloud Deployments](https://dev.to/aws-builders/unleashing-the-power-of-cdk-and-terraform-in-cloud-deployments-5680)
-- [Purple Team Assessment](https://dev.to/certcube/purple-team-assessment-2ma5)
-- [What is Tailwind CSS? Modern Web Designing](https://dev.to/pererayesh17/what-is-tailwind-css-modern-web-designing-2kge)
-- [Serverless Saga: Building Scalable Apps in the Cloud Kingdom](https://dev.to/victoramit/serverless-saga-building-scalable-apps-in-the-cloud-kingdom-21k3)
+- [High-speed, adaptive streaming video player for web](https://dev.to/ahmetilhn/high-speed-adaptive-streaming-video-player-for-web-2ld2)
+- [WordPress PHP Unit Testing | Step-by-Step Guide | 2024](https://dev.to/adeleyeayodeji/wordpress-php-unit-testing-step-by-step-guide-2024-1a1l)
+- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-1gnk)
+- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-2n8b)
 <!-- BLOG-POST-LIST:END -->
 
