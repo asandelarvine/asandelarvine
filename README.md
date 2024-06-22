@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Blockchain Unleashed: The Cat Diary Chronicles&quot;](https://dev.to/vinothrajat/blockchain-unleashed-the-cat-diary-chronicles-36pm)
-- [&quot;Blockchain Unleashed: The Cat Diary Chronicles&quot;](https://dev.to/vinothrajat/blockchain-unleashed-the-cat-diary-chronicles-3k0k)
-- [Configuración de Dockerfile para proyecto Nest.js: tutorial práctico](https://dev.to/ronnymedina/configuracion-de-dockerfile-para-proyecto-nestjs-tutorial-practico-1jpi)
-- [การสร้างผู้ใช้งาน และให้สิทธิความเป็นเจ้าของฐานข้อมูล PostgreSQL บน Ubuntu](https://dev.to/everthing-was-postgres/kaarsraangphuuaichngaan-aelaaihsiththikhwaamepnecchaakhngthaankhmuul-postgresql-bn-ubuntu-9pk)
+- [My Journey into Cybersecurity and Beyond &lpar;Vuln](https://dev.to/claireclark187/my-journey-into-cybersecurity-and-beyond-vuln-33mf)
+- [Showcase Your Achievements Securely with CertiFolio 🚀](https://dev.to/priyanshuverma/showcase-your-achievements-securely-with-certifolio-42af)
+- [onClick={someFunction} VS onClick={&lpar;&rpar;=&gt;someFunction}](https://dev.to/itric/onclicksomefunction-vs-onclicksomefunction-5d1i)
+- [Angular CDK Tutorial: Accordion Module](https://dev.to/brianmtreese/angular-cdk-tutorial-accordion-module-c11)
 <!-- BLOG-POST-LIST:END -->
 
