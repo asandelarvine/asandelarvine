@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching GitLoop AI codebase Assistant and code reviewer for GitHub PRs, commits, issues and more...](https://dev.to/akirasato/launching-gitloop-ai-codebase-assistant-and-code-reviewer-for-github-prs-commits-issues-and-more-431j)
-- [How to used CORS?](https://dev.to/hxxtae/how-to-used-cors-4ld)
-- [Leetcode - Next Greater Element II](https://dev.to/rakeshreddy512/leetcode-next-greater-element-ii-6g)
-- [Stylish Accordion Animation](https://dev.to/alcu1n/stylish-accordion-animation-233f)
+- [Understanding Scalar and Vector in Front-End Web Development with React](https://dev.to/godblessed/understanding-scalar-and-vector-in-front-end-web-development-with-react-igc)
+- [DAY 1 PROJECT](https://dev.to/shrishti_srivastava_/day-1-project-2hg9)
+- [Understanding Deadlock: When Computers Play Musical Chairs](https://dev.to/vidyarathna/understanding-deadlock-when-computers-play-musical-chairs-28c)
+- [GCP for beginners 2024: Build a simple web app with Cloud Run and Cloud Build through terminal](https://dev.to/robertasaservice/gcp-for-beginners-2024-build-a-simple-web-app-with-cloud-run-and-cloud-build-through-terminal-2kop)
 <!-- BLOG-POST-LIST:END -->
 
