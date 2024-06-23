@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mood-Based Music: A WhatsApp Chatbot That Curates Personalized Playlists](https://dev.to/irensaltali/mood-based-music-a-whatsapp-chatbot-that-curates-personalized-playlists-n51)
-- [Quick tip: Using picoGPT in the SingleStore portal](https://dev.to/singlestore/quick-tip-using-picogpt-in-the-singlestore-portal-24lf)
-- [The History of Large Language Models &lpar;LLM&rpar;](https://dev.to/sgaglione/the-history-of-large-language-models-llm-82f)
-- [Creating a Material Spinner with Pure and Simple CSS](https://dev.to/alekseiberezkin/creating-a-material-spinner-with-pure-and-simple-css-1b60)
+- [Wie man Wordpress lokal mit docker compose aufsetzt](https://dev.to/rubenvoss/wie-man-wordpress-lokal-mit-docker-compose-aufsetzt-3m33)
+- [WordPress Classic vs. Block Themes](https://dev.to/mikevarenek/wordpress-classic-vs-block-themes-4pi1)
+- [My 2024 Software Development Goals Update](https://dev.to/evansifyke/my-2024-software-development-goals-update-49o2)
+- [Introducing the Schengen Area Calculator: Plan Your European Travels Seamlessly](https://dev.to/dany_trakhtenberg_11a414b/introducing-the-schengen-area-calculator-plan-your-european-travels-seamlessly-398k)
 <!-- BLOG-POST-LIST:END -->
 
