@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Everyone into Indie Development? - FAV0 Weekly Issue 004](https://dev.to/justin3go/why-is-everyone-into-indie-development-fav0-weekly-issue-004-1maj)
-- [Idempotency in 256 characters or less](https://dev.to/derlin/idempotency-in-256-characters-or-less-118c)
-- [Job Adventures - PDF generation | Jun 2024](https://dev.to/goamaral/job-adventures-pdf-generation-jun-2024-2o0k)
-- [How we declare one dimensional array by using JavaScript and Python language](https://dev.to/wasifali/how-we-declare-one-dimensional-array-by-using-javascript-and-python-language-3dp5)
+- [Launching GitLoop AI codebase Assistant and code reviewer for GitHub PRs, commits, issues and more...](https://dev.to/akirasato/launching-gitloop-ai-codebase-assistant-and-code-reviewer-for-github-prs-commits-issues-and-more-431j)
+- [How to used CORS?](https://dev.to/hxxtae/how-to-used-cors-4ld)
+- [Leetcode - Next Greater Element II](https://dev.to/rakeshreddy512/leetcode-next-greater-element-ii-6g)
+- [Stylish Accordion Animation](https://dev.to/alcu1n/stylish-accordion-animation-233f)
 <!-- BLOG-POST-LIST:END -->
 
