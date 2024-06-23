@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Recursion?](https://dev.to/00gizem00/what-is-recursion-145e)
-- [Working of Web and DNS - Day 1/?](https://dev.to/theshakeabhi/re-learning-the-basics-of-web-day-1-34gh)
-- [geojson-faker: fake geodata in GeoJSON format](https://dev.to/impocode/geojson-faker-fake-geodata-in-geojson-format-3oho)
-- [Twilio challenge - Environmental Bot](https://dev.to/imkarthikeyan/twilio-challenge-environmental-bot-jm1)
+- [Mood-Based Music: A WhatsApp Chatbot That Curates Personalized Playlists](https://dev.to/irensaltali/mood-based-music-a-whatsapp-chatbot-that-curates-personalized-playlists-n51)
+- [Quick tip: Using picoGPT in the SingleStore portal](https://dev.to/singlestore/quick-tip-using-picogpt-in-the-singlestore-portal-24lf)
+- [The History of Large Language Models &lpar;LLM&rpar;](https://dev.to/sgaglione/the-history-of-large-language-models-llm-82f)
+- [Creating a Material Spinner with Pure and Simple CSS](https://dev.to/alekseiberezkin/creating-a-material-spinner-with-pure-and-simple-css-1b60)
 <!-- BLOG-POST-LIST:END -->
 
