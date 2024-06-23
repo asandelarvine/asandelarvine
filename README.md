@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized Storage Networks with Redistribution?](https://dev.to/moogamouth/decentralized-storage-networks-with-redistribution-3pa7)
-- [Unlocking the Secrets of JavaScript: My Exhilarating Adventure in Web Development](https://dev.to/m_affannazeer_8f74d021e_50/unlocking-the-secrets-of-javascript-my-exhilarating-adventure-in-web-development-34mc)
-- [React as a Library and Create React App / Vite as Frameworks](https://dev.to/imabhinavdev/react-as-a-library-and-create-react-app-vite-as-frameworks-284b)
-- [Made typos in routes? Redirect routes with functions](https://dev.to/railsstudent/made-typos-in-routes-redirect-routes-with-functions-5dhc)
+- [O básico de mirror do Istio](https://dev.to/wandpsilva/o-basico-de-mirror-do-istio-4k5)
+- [Lists and tuples in Elixir](https://dev.to/rhaenyraliang/lists-and-tuples-in-elixir-2lme)
+- [Get started with Fullstack Development: React + SpringBoot + MySQL + Postman](https://dev.to/kajal_mapare24/get-started-with-fullstack-development-react-springboot-mysql-postman-5997)
+- [When You Need More Power Than a Lambda Provides](https://dev.to/johnjvester/when-you-need-more-power-than-a-lambda-provides-3061)
 <!-- BLOG-POST-LIST:END -->
 
