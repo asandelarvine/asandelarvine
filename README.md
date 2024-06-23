@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Book That Can Save You from Failing the AWS Certified Cloud Practitioner Exam — CLF-C02](https://dev.to/mannan/the-book-that-can-save-you-from-failing-the-aws-certified-cloud-practitioner-exam-clf-c02-kme)
-- [Variables](https://dev.to/vlad__siomga11/variables-l0m)
-- [Quickly Set Up a Local Web Server on Mac with ServBay](https://dev.to/servbay/quickly-set-up-a-local-web-server-on-mac-with-servbay-4mml)
-- [Speaking Goat Latin on the fastest bus to town](https://dev.to/simongreennet/speaking-goat-latin-on-the-fastest-bus-to-town-59b2)
+- [Why is Everyone into Indie Development? - FAV0 Weekly Issue 004](https://dev.to/justin3go/why-is-everyone-into-indie-development-fav0-weekly-issue-004-1maj)
+- [Idempotency in 256 characters or less](https://dev.to/derlin/idempotency-in-256-characters-or-less-118c)
+- [Job Adventures - PDF generation | Jun 2024](https://dev.to/goamaral/job-adventures-pdf-generation-jun-2024-2o0k)
+- [How we declare one dimensional array by using JavaScript and Python language](https://dev.to/wasifali/how-we-declare-one-dimensional-array-by-using-javascript-and-python-language-3dp5)
 <!-- BLOG-POST-LIST:END -->
 
