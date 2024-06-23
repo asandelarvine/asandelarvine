@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Api-platform : filtrer les résultats uniquement sur l&#39;utilisateur connecté](https://dev.to/aratinau/api-platform-filtrer-les-resultats-uniquement-sur-lutilisateur-connecte-1fp6)
-- [HTML input attributes with examples](https://dev.to/wasifali/html-input-attributes-with-examples-48jn)
-- [Maiu Online - Browser MMORPG #indiegamedev #babylonjs Ep24 - SAT 2D collision detection](https://dev.to/maiu/maiu-online-browser-mmorpg-indiegamedev-babylonjs-ep24-sat-2d-collision-detection-42ab)
-- [Maiu Online - Browser MMORPG #indiegamedev #babylonjs Ep23 - Global Chat](https://dev.to/maiu/maiu-online-browser-mmorpg-indiegamedev-babylonjs-ep23-global-chat-1clk)
+- [Nike Website](https://dev.to/sudhanshuambastha/nike-website-54gn)
+- [Firebase hosting issue on Flutter Web](https://dev.to/pagebook1/firebase-hosting-issue-on-flutter-web-2c8n)
+- [Thread fundamentals in Java](https://dev.to/rafaaraujoo/thread-fundamentals-in-java-43h1)
+- [Make your own Arc at home](https://dev.to/qostya/make-your-own-arc-at-home-4cn7)
 <!-- BLOG-POST-LIST:END -->
 
