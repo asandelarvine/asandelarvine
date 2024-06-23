@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [One Byte Explainer: the Halting Problem](https://dev.to/dchaley/one-byte-explainer-the-halting-problem-p18)
+- [Vs code extension that are a must use ⭐](https://dev.to/mince/vs-code-extension-that-are-a-must-use-1d7)
+- [Comparing JavaScript and TypeScript: Key Differences and Features](https://dev.to/vyan/comparing-javascript-and-typescript-key-differences-and-features-1fm7)
 - [A tool that combines force-directed graphs and flow charts](https://dev.to/fridaymeng/a-tool-that-combines-force-directed-graphs-and-flow-charts-3okn)
-- [How to Contribute to Laravel: A Step-by-Step Guide](https://dev.to/msamgan/how-to-contribute-to-laravel-a-step-by-step-guide-560k)
-- [How content creation helped me land my first tech job?](https://dev.to/coderamrin/how-content-creation-helped-me-land-my-first-tech-job-4d8b)
-- [Monthly Amazon Location Service Updates - 2024.05](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202405-36me)
 <!-- BLOG-POST-LIST:END -->
 
