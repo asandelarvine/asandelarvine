@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Web](https://dev.to/r4nd3l/dev-web-4f7k)
-- [Bizzen: Business, Made Zen](https://dev.to/jhhayashi/bizzen-business-made-zen-155b)
-- [Generative AI Assistant for Loyalty Reward System Using Amazon Bedrock Knowledge bases &amp; Agent](https://dev.to/girishmukim/generative-ai-assistant-for-loyalty-reward-system-using-amazon-bedrock-knowledge-bases-agent-1670)
-- [How to create LazyColumn with drag and drop elements in Jetpack Compose. Part 1.](https://dev.to/mardsoul/how-to-create-lazycolumn-with-drag-and-drop-elements-in-jetpack-compose-part-1-4bn5)
+- [AI Taxi Dispatch Operator](https://dev.to/alaba_mustapha/ai-taxi-dispatch-operator-2kop)
+- [Simplify Phone Screening with Twilio and AI Automation](https://dev.to/bibekkakati/simplify-phone-screening-with-twilio-and-ai-automation-3e8e)
+- [A Journey into Microservices — Part 1](https://dev.to/gervaisamoah/a-journey-into-microservices-part-1-4gck)
+- [The Magical World of Machine Learning at Hogwarts &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/the-magical-world-of-machine-learning-at-hogwarts-part-1-2jp4)
 <!-- BLOG-POST-LIST:END -->
 
