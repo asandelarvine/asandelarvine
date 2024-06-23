@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One Byte Explainer: the Halting Problem](https://dev.to/dchaley/one-byte-explainer-the-halting-problem-p18)
-- [Vs code extension that are a must use ⭐](https://dev.to/mince/vs-code-extension-that-are-a-must-use-1d7)
-- [Comparing JavaScript and TypeScript: Key Differences and Features](https://dev.to/vyan/comparing-javascript-and-typescript-key-differences-and-features-1fm7)
-- [A tool that combines force-directed graphs and flow charts](https://dev.to/fridaymeng/a-tool-that-combines-force-directed-graphs-and-flow-charts-3okn)
+- [MY NEW PROJECT IS NOW ON GITHUB : NOSHII](https://dev.to/1hamzabek/my-new-project-is-now-on-github-noshii-38kk)
+- [AI Chatbot for the personalized feedback and recommendations](https://dev.to/mahupreti/ai-chatbot-for-the-personalized-feedback-and-recommendations-5e9e)
+- [Understanding Ansible Roles: A Comprehensive Guide](https://dev.to/faruq2991/understanding-ansible-roles-a-comprehensive-guide-2bbj)
+- [Mengatasi masalah OR-CBAT-15 di GCP dengan Cloudflare](https://dev.to/rizalord/mengatasi-masalah-or-cbat-15-di-gcp-dengan-cloudflare-173b)
 <!-- BLOG-POST-LIST:END -->
 
