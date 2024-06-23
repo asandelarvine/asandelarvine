@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [To build Twilio AI Assistants](https://dev.to/olatunjiayodel9/to-build-twilio-ai-assistants-hhp)
-- [How to Integrate Embedded MongoDB for Unit Testing in a Spring Application](https://dev.to/fullstackjava/how-to-integrate-embedded-mongodb-for-unit-testing-in-a-spring-application-49pi)
-- [The new and shiny](https://dev.to/armen138/the-new-and-shiny-4eil)
-- [🚀 Exploring Predictive Analysis of Breast Tumor Diagnosis with Streamlit and SVM! 🚀](https://dev.to/amna200123/exploring-predictive-analysis-of-breast-tumor-diagnosis-with-streamlit-and-svm-dh3)
+- [What is Recursion?](https://dev.to/00gizem00/what-is-recursion-145e)
+- [Working of Web and DNS - Day 1/?](https://dev.to/theshakeabhi/re-learning-the-basics-of-web-day-1-34gh)
+- [geojson-faker: fake geodata in GeoJSON format](https://dev.to/impocode/geojson-faker-fake-geodata-in-geojson-format-3oho)
+- [Twilio challenge - Environmental Bot](https://dev.to/imkarthikeyan/twilio-challenge-environmental-bot-jm1)
 <!-- BLOG-POST-LIST:END -->
 
