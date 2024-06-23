@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nike Website](https://dev.to/sudhanshuambastha/nike-website-54gn)
-- [Firebase hosting issue on Flutter Web](https://dev.to/pagebook1/firebase-hosting-issue-on-flutter-web-2c8n)
-- [Thread fundamentals in Java](https://dev.to/rafaaraujoo/thread-fundamentals-in-java-43h1)
-- [Make your own Arc at home](https://dev.to/qostya/make-your-own-arc-at-home-4cn7)
+- [Decentralized Storage Networks with Redistribution?](https://dev.to/moogamouth/decentralized-storage-networks-with-redistribution-3pa7)
+- [Unlocking the Secrets of JavaScript: My Exhilarating Adventure in Web Development](https://dev.to/m_affannazeer_8f74d021e_50/unlocking-the-secrets-of-javascript-my-exhilarating-adventure-in-web-development-34mc)
+- [React as a Library and Create React App / Vite as Frameworks](https://dev.to/imabhinavdev/react-as-a-library-and-create-react-app-vite-as-frameworks-284b)
+- [Made typos in routes? Redirect routes with functions](https://dev.to/railsstudent/made-typos-in-routes-redirect-routes-with-functions-5dhc)
 <!-- BLOG-POST-LIST:END -->
 
