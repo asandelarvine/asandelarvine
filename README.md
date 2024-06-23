@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [BEST CSS🧡GUIDELINES BY Aryan🤣](https://dev.to/aryan015/best-cssguidelines-by-aryan-5cie)
+- [Mastering Config-Driven UI: A Beginner&#39;s Guide to Flexible and Scalable Interfaces](https://dev.to/lovishduggal/mastering-config-driven-ui-a-beginners-guide-to-flexible-and-scalable-interfaces-3l91)
 - [Exploring CRUD: What It Is and How It Works](https://dev.to/dk119819/exploring-crud-what-it-is-and-how-it-works-4nnk)
 - [repeat_interleave&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/repeatinterleave-in-pytorch-201n)
-- [Bytes: The Meal That Makes Your Computer Feast Like Crazy](https://dev.to/cbid2/bytes-the-meal-that-makes-your-computer-feast-like-crazy-5bgc)
-- [在Web工程中使用CSS级联层](https://dev.to/tm-sunnyday/zai-webgong-cheng-zhong-shi-yong-cssji-lian-ceng-322b)
 <!-- BLOG-POST-LIST:END -->
 
