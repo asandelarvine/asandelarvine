@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a Next.JS project for production-ready](https://dev.to/es_pythonus/setup-a-nextjs-project-for-production-ready-2nho)
-- [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l)
-- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/a-brief-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-1d71)
-- [How to get test net coins](https://dev.to/uthmancpder/how-to-get-test-net-coins-2d6a)
+- [Javascript](https://dev.to/bekmuhammaddev/javascript-4na1)
+- [Comprehensive Guide to HTMX: Building Dynamic Web Applications with Ease](https://dev.to/judescripts/comprehensive-guide-to-htmx-building-dynamic-web-applications-with-ease-3nnm)
+- [Building a Cryptocurrency Trading Bot with Python](https://dev.to/kartikmehta8/building-a-cryptocurrency-trading-bot-with-python-1n8b)
+- [We all operate at four altitudes…](https://dev.to/horaceshmorace/we-all-operate-at-four-altitudes-5e1n)
 <!-- BLOG-POST-LIST:END -->
 
