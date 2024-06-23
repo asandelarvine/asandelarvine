@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BEST CSS🧡GUIDELINES BY Aryan🤣](https://dev.to/aryan015/best-cssguidelines-by-aryan-5cie)
-- [Mastering Config-Driven UI: A Beginner&#39;s Guide to Flexible and Scalable Interfaces](https://dev.to/lovishduggal/mastering-config-driven-ui-a-beginners-guide-to-flexible-and-scalable-interfaces-3l91)
-- [Exploring CRUD: What It Is and How It Works](https://dev.to/dk119819/exploring-crud-what-it-is-and-how-it-works-4nnk)
-- [repeat_interleave&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/repeatinterleave-in-pytorch-201n)
+- [What is Threads and its use in Node.js](https://dev.to/m__mdy__m/what-is-threads-and-its-use-in-nodejs-3j8p)
+- [How authentication works](https://dev.to/mannawar/how-authentication-works-3m41)
+- [Laravel Create Virtual Database Column](https://dev.to/paulund/laravel-create-virtual-database-column-38g8)
+- [A Comprehensive Guide to Using Arrays in JavaScript](https://dev.to/fridaymeng/a-comprehensive-guide-to-using-arrays-in-javascript-2i88)
 <!-- BLOG-POST-LIST:END -->
 
