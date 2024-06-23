@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MY NEW PROJECT IS NOW ON GITHUB : NOSHII](https://dev.to/1hamzabek/my-new-project-is-now-on-github-noshii-38kk)
-- [AI Chatbot for the personalized feedback and recommendations](https://dev.to/mahupreti/ai-chatbot-for-the-personalized-feedback-and-recommendations-5e9e)
-- [Understanding Ansible Roles: A Comprehensive Guide](https://dev.to/faruq2991/understanding-ansible-roles-a-comprehensive-guide-2bbj)
-- [Mengatasi masalah OR-CBAT-15 di GCP dengan Cloudflare](https://dev.to/rizalord/mengatasi-masalah-or-cbat-15-di-gcp-dengan-cloudflare-173b)
+- [Exploring CRUD: What It Is and How It Works](https://dev.to/dk119819/exploring-crud-what-it-is-and-how-it-works-4nnk)
+- [repeat_interleave&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/repeatinterleave-in-pytorch-201n)
+- [Bytes: The Meal That Makes Your Computer Feast Like Crazy](https://dev.to/cbid2/bytes-the-meal-that-makes-your-computer-feast-like-crazy-5bgc)
+- [在Web工程中使用CSS级联层](https://dev.to/tm-sunnyday/zai-webgong-cheng-zhong-shi-yong-cssji-lian-ceng-322b)
 <!-- BLOG-POST-LIST:END -->
 
