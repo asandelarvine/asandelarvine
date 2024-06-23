@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Monolithic to Microservices: A Comprehensive Guide](https://dev.to/ali_tariq_90f2c6a125b095c/from-monolithic-to-microservices-a-comprehensive-guide-58h6)
-- [How to generate thumbnails from video ?](https://dev.to/codewithlaksh/how-to-generate-thumbnails-from-video--11a)
-- [AI Interview Copilot: Revolutionizing Job Interviews with Real-Time AI Assistance](https://dev.to/vilkis_f56dcd0aeba7027545/ai-interview-copilot-revolutionizing-job-interviews-with-real-time-ai-assistance-5ang)
-- [Exploring React: A Revolutionary Journey in Web Development](https://dev.to/jatinrai/exploring-react-a-revolutionary-journey-in-web-development-3npk)
+- [4 Ideas to Create Organic Growth for a Web App](https://dev.to/alvinscherdin/4-ideas-to-create-organic-growth-for-a-web-app-j9m)
+- [Install local environment - CachyOS](https://dev.to/sebiboga/install-local-environment-cachyos-3953)
+- [Simple YAML Linter/Validator Workflow for GitHub Actions](https://dev.to/codewithcaen/simple-yaml-lintervalidator-workflow-for-github-actions-4ipg)
+- [React App Inbox with 0 Notification Costs.](https://dev.to/suprsend/react-app-inbox-with-0-notification-costs-jik)
 <!-- BLOG-POST-LIST:END -->
 
