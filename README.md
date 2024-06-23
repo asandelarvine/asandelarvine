@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Threads and its use in Node.js](https://dev.to/m__mdy__m/what-is-threads-and-its-use-in-nodejs-3j8p)
-- [How authentication works](https://dev.to/mannawar/how-authentication-works-3m41)
-- [Laravel Create Virtual Database Column](https://dev.to/paulund/laravel-create-virtual-database-column-38g8)
-- [A Comprehensive Guide to Using Arrays in JavaScript](https://dev.to/fridaymeng/a-comprehensive-guide-to-using-arrays-in-javascript-2i88)
+- [From Monolithic to Microservices: A Comprehensive Guide](https://dev.to/ali_tariq_90f2c6a125b095c/from-monolithic-to-microservices-a-comprehensive-guide-58h6)
+- [How to generate thumbnails from video ?](https://dev.to/codewithlaksh/how-to-generate-thumbnails-from-video--11a)
+- [AI Interview Copilot: Revolutionizing Job Interviews with Real-Time AI Assistance](https://dev.to/vilkis_f56dcd0aeba7027545/ai-interview-copilot-revolutionizing-job-interviews-with-real-time-ai-assistance-5ang)
+- [Exploring React: A Revolutionary Journey in Web Development](https://dev.to/jatinrai/exploring-react-a-revolutionary-journey-in-web-development-3npk)
 <!-- BLOG-POST-LIST:END -->
 
