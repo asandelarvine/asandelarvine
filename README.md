@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FitSnap: image-to-workout](https://dev.to/matt_permentier_8d9ea83d9/fitsnap-image-to-workout-p81)
-- [MeteorJS 3.0 major impact estimated for July 2024 ☄️ - here is all you need to know 🧐](https://dev.to/meteor/meteorjs-30-major-impact-estimated-for-july-2024-here-is-all-you-need-to-know-13oh)
-- [Day 21 of 30 of JavaScript](https://dev.to/akshat0610/day-21-of-30-of-javascript-2hdp)
-- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY.](https://dev.to/temidayo_adeoye_ccfea1cab/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-c5i)
+- [How to Install and Configure ownCloud on CentOS 9 Stream](https://dev.to/ersinkoc/how-to-install-and-configure-owncloud-on-centos-9-stream-470k)
+- [Building Fintech Payment Solutions with Java](https://dev.to/twinkle123/building-fintech-payment-solutions-with-java-2dg0)
+- [Java: The WHORE Without The H](https://dev.to/one/java-the-whore-without-the-h-4c0n)
+- [&#39;memba?: Twilio &amp; Vertex AI Reminder System for Seniors who don&#39;t &#39;memba.](https://dev.to/richardevcom/memba-twilio-vertex-ai-reminder-system-for-seniors-who-dont-memba-5h02)
 <!-- BLOG-POST-LIST:END -->
 
