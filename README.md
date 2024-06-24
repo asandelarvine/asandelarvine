@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploiting Smart Contracts - Understanding and Performing Reentrancy Attacks in Solidity](https://dev.to/passandscore/exploiting-smart-contracts-understanding-and-performing-reentrancy-attacks-in-solidity-40df)
-- [Handling complex events with Bacon.js and combineTemplate](https://dev.to/francescoagati/handling-complex-events-with-baconjs-and-combinetemplate-4cfi)
-- [NextJS loading problem 🤨 - refetching api data on revisit #64822](https://dev.to/sh20raj/nextjs-loading-problem-refetching-api-data-on-revisit-64822-3i10)
-- [Simplifying Event Handling Using Lambda Expressions](https://dev.to/paulike/simplifying-event-handling-using-lambda-expressions-5ajf)
+- [How to improve Django Framework?](https://dev.to/zeedu_dev/how-to-improve-django-framework-4jal)
+- [Uma Introdução às HashTables](https://dev.to/pedromiguelmvs/uma-introducao-as-hashtables-201e)
+- [Laravel RAG System in 4 Steps!](https://dev.to/alnutile/laravel-rag-system-in-4-steps-2jc)
+- [Listeners for Observable Objects](https://dev.to/paulike/listeners-for-observable-objects-37pc)
 <!-- BLOG-POST-LIST:END -->
 
