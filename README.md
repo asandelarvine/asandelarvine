@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly for 24 June 2024](https://dev.to/tspannhw/aim-weekly-for-24-june-2024-4o5l)
-- [Como Transformar-se em uma Máquina de Aprender: Um Guia Pragmático](https://dev.to/dev-mais-eficiente/como-transformar-se-em-uma-maquina-de-aprender-um-guia-pragmatico-31l)
-- [C# PDF Generator Tutorial &lpar;HTML to PDF, Merge, Watermark. Extract&rpar;](https://dev.to/mhamzap10/c-pdf-generator-tutorial-html-to-pdf-merge-watermark-extract-h3i)
-- [Tricky Golang interview questions - Part 4: Concurrent Consumption](https://dev.to/crusty0gphr/tricky-golang-interview-questions-part-4-concurrent-consumption-34oe)
+- [The Hardest Problem in RAG... Handling &#39;NOT FOUND&#39; Answers 🔍🤔](https://dev.to/llmware/the-hardest-problem-in-rag-handling-not-found-answers-7md)
+- [Docker: Introduction step-by-step guide for beginners DevOps Engineers.](https://dev.to/oncloud7/docker-introduction-step-by-step-guide-for-beginners-devops-engineers-5fee)
+- [DreamMachineAI - free luma ai video generator](https://dev.to/runningdogg/dreammachineai-free-luma-ai-video-generator-3d0h)
+- [Meme Monday](https://dev.to/td_inc/meme-monday-nf7)
 <!-- BLOG-POST-LIST:END -->
 
