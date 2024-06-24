@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Controlled and Uncontrolled Components in React.js?](https://dev.to/dk119819/what-are-controlled-and-uncontrolled-components-in-reactjs-51a0)
-- [The Clean Coder, a Better Book Recommendation](https://dev.to/canro91/the-clean-coder-a-better-book-recommendation-2p4f)
-- [Signalize.js - Introduction to Modular Javascript Framework](https://dev.to/machy8/signalizejs-introduction-to-modular-javascript-framework-49oh)
-- [Mastering Advanced Array Methods in JavaScript: Unlock the Full Potential of Your Code](https://dev.to/delia_code/mastering-advanced-array-methods-in-javascript-unlock-the-full-potential-of-your-code-1ipc)
+- [How to Add Syntax Highlighting to Next.js app router with PrismJS &lpar; Server + Client &rpar; Components](https://dev.to/sh20raj/how-to-add-syntax-highlighting-to-nextjs-app-router-with-prismjs-server-client-components-40mm)
+- [Attaching To Containers Using the Attach Command](https://dev.to/kalkwst/attaching-to-containers-using-the-attach-command-aaa)
+- [Stay ahead in web development: latest news, tools, and insights #38](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-38-36a5)
+- [Power Platform Dataverse 101](https://dev.to/wyattdave/power-platform-dataverse-101-11g5)
 <!-- BLOG-POST-LIST:END -->
 
