@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Core Concepts List](https://dev.to/ashsajal/rust-core-concepts-list-27of)
-- [Elixir/Nerves: blinking LED](https://dev.to/mnishiguchi/elixirnerves-blinking-led-5gf1)
-- [How to Seamlessly Integrate OSS with Alibaba Cloud Elasticsearch Using Regular Service Roles](https://dev.to/a_lucas/how-to-seamlessly-integrate-oss-with-alibaba-cloud-elasticsearch-using-regular-service-roles-59lm)
-- [Understanding OOPs in Python 🐍🌠](https://dev.to/kammarianand/understanding-oops-in-python-1k4k)
+- [Explain it to me like I&#39;m five: Why is SQLynx better than DataGrip?](https://dev.to/tom8daafe63765434221/explain-it-to-me-like-im-five-why-is-sqlynx-better-than-datagrip-1fpb)
+- [my idea for buildspace s5](https://dev.to/muhtalhakhan/my-idea-for-buildspace-s5-3c7l)
+- [Comparing Top Backend Frameworks: C#, Python, Node.js, Go, Rust, C++, and Java](https://dev.to/judescripts/choosing-the-right-backend-framework-a-comparison-of-c-python-nodejs-go-rust-c-and-java-279p)
+- [Mastering Authentication in Modern Next.js Apps](https://dev.to/vyan/mastering-authentication-in-modern-nextjs-apps-32eh)
 <!-- BLOG-POST-LIST:END -->
 
