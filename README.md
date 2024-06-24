@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to improve Django Framework?](https://dev.to/zeedu_dev/how-to-improve-django-framework-4jal)
-- [Uma Introdução às HashTables](https://dev.to/pedromiguelmvs/uma-introducao-as-hashtables-201e)
-- [Laravel RAG System in 4 Steps!](https://dev.to/alnutile/laravel-rag-system-in-4-steps-2jc)
-- [Listeners for Observable Objects](https://dev.to/paulike/listeners-for-observable-objects-37pc)
+- [Case Study: Bouncing Ball](https://dev.to/paulike/case-study-bouncing-ball-39cj)
+- [Implementing a Mail Delivery Switch in Python for Local and AWS Environments Using Amazon SES](https://dev.to/kojiisd/implementing-a-mail-delivery-switch-in-python-for-local-and-aws-environments-using-amazon-ses-2kp2)
+- [Implementing localization to your Svelte App: A step-by-step guide](https://dev.to/harshil1712/implementing-localization-to-your-svelte-app-a-step-by-step-guide-4cf)
+- [The Role of Technology in Optimizing Clinical Trial Processes](https://dev.to/mcdowell/the-role-of-technology-in-optimizing-clinical-trial-processes-50d5)
 <!-- BLOG-POST-LIST:END -->
 
