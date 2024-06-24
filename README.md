@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 36](https://dev.to/humberd/game-of-purpose-day-36-38ko)
-- [Dev challenge - Algorithms](https://dev.to/marimnz/dev-challenge-algorithms-ldi)
-- [Introduction to Game AI Development](https://dev.to/kartikmehta8/introduction-to-game-ai-development-3oa4)
-- [Chappy: Your Friendly and Quirky Chat Buddy](https://dev.to/ketanrajpal/chappy-your-friendly-and-quirky-chat-buddy-14pl)
+- [Rust Core Concepts List](https://dev.to/ashsajal/rust-core-concepts-list-27of)
+- [Elixir/Nerves: blinking LED](https://dev.to/mnishiguchi/elixirnerves-blinking-led-5gf1)
+- [How to Seamlessly Integrate OSS with Alibaba Cloud Elasticsearch Using Regular Service Roles](https://dev.to/a_lucas/how-to-seamlessly-integrate-oss-with-alibaba-cloud-elasticsearch-using-regular-service-roles-59lm)
+- [Understanding OOPs in Python 🐍🌠](https://dev.to/kammarianand/understanding-oops-in-python-1k4k)
 <!-- BLOG-POST-LIST:END -->
 
