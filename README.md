@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailstore - Free Tailwind CSS eCommerce Template](https://dev.to/mikevarenek/tailstore-free-tailwind-css-ecommerce-template-fbm)
-- [How to Cloud: IaC](https://dev.to/aws-builders/how-to-cloud-iac-3ifl)
-- [Swiftwave PaaS: One Year in Development](https://dev.to/tanmoysrt/swiftwave-paas-one-year-in-development-3nph)
-- [Why Choose Laravel for Web Development?](https://dev.to/samantha_hayes/why-choose-laravel-for-web-development-46im)
+- [Best Chat Apps for Businesses in 2024](https://dev.to/stan8086/best-chat-apps-for-businesses-in-2024-209g)
+- [Agile Manifesto in examples](https://dev.to/firstname_lastname/agile-manifesto-in-examples-o2)
+- [Automated Deployment of a Next.js Application on Ubuntu server with Git Hooks](https://dev.to/sabermekki/automated-deployment-of-a-nextjs-application-on-ubuntu-with-git-hooks-30fk)
+- [Primitive Type Differentiation in F#](https://dev.to/mrdimosthenis/primitive-type-differentiation-in-f-4fl4)
 <!-- BLOG-POST-LIST:END -->
 
