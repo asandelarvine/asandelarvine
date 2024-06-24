@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Chat Apps for Businesses in 2024](https://dev.to/stan8086/best-chat-apps-for-businesses-in-2024-209g)
-- [Agile Manifesto in examples](https://dev.to/firstname_lastname/agile-manifesto-in-examples-o2)
-- [Automated Deployment of a Next.js Application on Ubuntu server with Git Hooks](https://dev.to/sabermekki/automated-deployment-of-a-nextjs-application-on-ubuntu-with-git-hooks-30fk)
-- [Primitive Type Differentiation in F#](https://dev.to/mrdimosthenis/primitive-type-differentiation-in-f-4fl4)
+- [AWS open source newsletter, #200](https://dev.to/aws/aws-open-source-newsletter-200-2595)
+- [Understanding closures, promises, and async/await](https://dev.to/sumit_01/understanding-closures-promises-and-asyncawait-2601)
+- [You&#39;re not in the right place if...](https://dev.to/pulkit30/youre-not-in-the-right-place-if-34k6)
+- [Stop Using JSON.parse&lpar;JSON.stringify&lpar;object&rpar;&rpar; for Deep Cloning! Try This Instead](https://dev.to/rajusaha/stop-using-jsonparsejsonstringifyobject-for-deep-cloning-try-this-instead-2cmc)
 <!-- BLOG-POST-LIST:END -->
 
