@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Configure ownCloud on CentOS 9 Stream](https://dev.to/ersinkoc/how-to-install-and-configure-owncloud-on-centos-9-stream-470k)
-- [Building Fintech Payment Solutions with Java](https://dev.to/twinkle123/building-fintech-payment-solutions-with-java-2dg0)
-- [Java: The WHORE Without The H](https://dev.to/one/java-the-whore-without-the-h-4c0n)
-- [&#39;memba?: Twilio &amp; Vertex AI Reminder System for Seniors who don&#39;t &#39;memba.](https://dev.to/richardevcom/memba-twilio-vertex-ai-reminder-system-for-seniors-who-dont-memba-5h02)
+- [What is Video Compression? How does it work?](https://dev.to/alakkadshaw/what-is-video-compression-how-does-it-work-ide)
+- [Mastering Iconography: Enhancing UX Through Visual Symbols](https://dev.to/prince_chouhan/mastering-iconography-enhancing-ux-through-visual-symbols-43in)
+- [Registering Handlers and Handling Events](https://dev.to/paulike/registering-handlers-and-handling-events-3j7e)
+- [Git Revert? Restore? Reset?](https://dev.to/jakeroggenbuck/git-revert-restore-reset-1g91)
 <!-- BLOG-POST-LIST:END -->
 
