@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DarkSIDE of AI : Power Hungry process](https://dev.to/balagmadhu/darkside-of-ai-power-hungry-process-42oi)
-- [Persistencia para frontends](https://dev.to/dezkareid/persistencia-para-frontends-2b64)
-- [WHY CAN&#39;T I get Chrome devtools frontend to display message in the console panel through Chrome Devtools Protocol?](https://dev.to/wwereal/cant-get-chrome-devtools-frontend-to-display-message-in-the-console-panel-through-chrome-devtools-protocol-h3b)
-- [Mastering Enterprise Test Automation: Key Strategies for Enhancing Digital Quality](https://dev.to/berthaw82414312/mastering-enterprise-test-automation-key-strategies-for-enhancing-digital-quality-1ji)
+- [GSoC Week 4](https://dev.to/chiemezuo/gsoc-week-4-3n9)
+- [Get Started With CPU Profiling](https://dev.to/flounder4130/get-started-with-cpu-profiling-16i2)
+- [How to cancel Debezium Incremental Snapshot](https://dev.to/shooma/how-to-cancel-debezium-incremental-snapshot-3c5j)
+- [Capture the Magic: Mastering Star Trails with Your Galaxy S23 Ultra](https://dev.to/suavebajaj/capture-the-magic-mastering-star-trails-with-your-galaxy-s23-ultra-3g03)
 <!-- BLOG-POST-LIST:END -->
 
