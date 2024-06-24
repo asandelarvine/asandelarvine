@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Cursor IDE Enhances Code Editing Using AI](https://dev.to/da4ndo/how-cursor-ide-enhances-code-editing-using-ai-jj2)
-- [🚀 Boost Your JavaScript Performance: Tips and Best Practices](https://dev.to/parthchovatiya/boost-your-javascript-performance-tips-and-best-practices-114l)
-- [Receipt to Insights: Your AI-Powered Expense Tracker 💸🤖](https://dev.to/hussainshaikh12/receipt-to-insights-your-ai-powered-expense-tracker-2d8)
-- [Leetcode - 207. Course Schedule](https://dev.to/rakeshreddy512/leetcode-207-course-schedule-3cdi)
+- [What are Controlled and Uncontrolled Components in React.js?](https://dev.to/dk119819/what-are-controlled-and-uncontrolled-components-in-reactjs-51a0)
+- [The Clean Coder, a Better Book Recommendation](https://dev.to/canro91/the-clean-coder-a-better-book-recommendation-2p4f)
+- [Signalize.js - Introduction to Modular Javascript Framework](https://dev.to/machy8/signalizejs-introduction-to-modular-javascript-framework-49oh)
+- [Mastering Advanced Array Methods in JavaScript: Unlock the Full Potential of Your Code](https://dev.to/delia_code/mastering-advanced-array-methods-in-javascript-unlock-the-full-potential-of-your-code-1ipc)
 <!-- BLOG-POST-LIST:END -->
 
