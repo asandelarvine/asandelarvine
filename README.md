@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging PostgreSQL CAST for Data Type Conversions](https://dev.to/dbvismarketing/leveraging-postgresql-cast-for-data-type-conversions-895)
-- [Integrating TinyML, GenAI, and Twilio API for Smart Solutions](https://dev.to/engineeredsoul/integrating-tinyml-genai-and-twilio-api-for-smart-solutions-4o01)
-- [🕸 Networking is easy, fun, and probably not what you think it is.](https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc)
-- [Creating a CRUD App With Go](https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3)
+- [DarkSIDE of AI : Power Hungry process](https://dev.to/balagmadhu/darkside-of-ai-power-hungry-process-42oi)
+- [Persistencia para frontends](https://dev.to/dezkareid/persistencia-para-frontends-2b64)
+- [WHY CAN&#39;T I get Chrome devtools frontend to display message in the console panel through Chrome Devtools Protocol?](https://dev.to/wwereal/cant-get-chrome-devtools-frontend-to-display-message-in-the-console-panel-through-chrome-devtools-protocol-h3b)
+- [Mastering Enterprise Test Automation: Key Strategies for Enhancing Digital Quality](https://dev.to/berthaw82414312/mastering-enterprise-test-automation-key-strategies-for-enhancing-digital-quality-1ji)
 <!-- BLOG-POST-LIST:END -->
 
