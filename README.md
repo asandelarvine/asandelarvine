@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explain it to me like I&#39;m five: Why is SQLynx better than DataGrip?](https://dev.to/tom8daafe63765434221/explain-it-to-me-like-im-five-why-is-sqlynx-better-than-datagrip-1fpb)
-- [my idea for buildspace s5](https://dev.to/muhtalhakhan/my-idea-for-buildspace-s5-3c7l)
-- [Comparing Top Backend Frameworks: C#, Python, Node.js, Go, Rust, C++, and Java](https://dev.to/judescripts/choosing-the-right-backend-framework-a-comparison-of-c-python-nodejs-go-rust-c-and-java-279p)
-- [Mastering Authentication in Modern Next.js Apps](https://dev.to/vyan/mastering-authentication-in-modern-nextjs-apps-32eh)
+- [How Cursor IDE Enhances Code Editing Using AI](https://dev.to/da4ndo/how-cursor-ide-enhances-code-editing-using-ai-jj2)
+- [🚀 Boost Your JavaScript Performance: Tips and Best Practices](https://dev.to/parthchovatiya/boost-your-javascript-performance-tips-and-best-practices-114l)
+- [Receipt to Insights: Your AI-Powered Expense Tracker 💸🤖](https://dev.to/hussainshaikh12/receipt-to-insights-your-ai-powered-expense-tracker-2d8)
+- [Leetcode - 207. Course Schedule](https://dev.to/rakeshreddy512/leetcode-207-course-schedule-3cdi)
 <!-- BLOG-POST-LIST:END -->
 
