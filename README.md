@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Projects from DEV Community Post](https://dev.to/litlyx/open-source-projects-from-dev-community-post-406c)
-- [Meme Monday](https://dev.to/ben/meme-monday-5b9c)
-- [Learn how to create a awesome cards component using HTML &amp; CSS only](https://dev.to/ehsancoder/learn-how-to-create-a-awesome-cards-component-using-html-css-only-1dba)
-- [Data Science in Marketing: Unlocking Customer Insights and Personalization](https://dev.to/fizza_c3e734ee2a307cf35e5/data-science-in-marketing-unlocking-customer-insights-and-personalization-2fao)
+- [3 Essentials For Landing Your Dream Tech Job](https://dev.to/thekarlesi/3-essentials-for-landing-your-dream-tech-job-4le8)
+- [Mobile Development: Engineering the Future of Applications](https://dev.to/jinesh_vora_ab4d7886e6a8d/mobile-development-engineering-the-future-of-applications-d53)
+- [Building a Telegram Bot to deliver weekly stock open and close prices](https://dev.to/pluri45/building-a-telegram-bot-to-deliver-weekly-stock-open-and-close-prices-moh)
+- [Drupal Access Policy demystified](https://dev.to/sparkfabrik/drupal-access-policy-demystified-44bj)
 <!-- BLOG-POST-LIST:END -->
 
