@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GSoC Week 4](https://dev.to/chiemezuo/gsoc-week-4-3n9)
-- [Get Started With CPU Profiling](https://dev.to/flounder4130/get-started-with-cpu-profiling-16i2)
-- [How to cancel Debezium Incremental Snapshot](https://dev.to/shooma/how-to-cancel-debezium-incremental-snapshot-3c5j)
-- [Capture the Magic: Mastering Star Trails with Your Galaxy S23 Ultra](https://dev.to/suavebajaj/capture-the-magic-mastering-star-trails-with-your-galaxy-s23-ultra-3g03)
+- [Open Source Projects from DEV Community Post](https://dev.to/litlyx/open-source-projects-from-dev-community-post-406c)
+- [Meme Monday](https://dev.to/ben/meme-monday-5b9c)
+- [Learn how to create a awesome cards component using HTML &amp; CSS only](https://dev.to/ehsancoder/learn-how-to-create-a-awesome-cards-component-using-html-css-only-1dba)
+- [Data Science in Marketing: Unlocking Customer Insights and Personalization](https://dev.to/fizza_c3e734ee2a307cf35e5/data-science-in-marketing-unlocking-customer-insights-and-personalization-2fao)
 <!-- BLOG-POST-LIST:END -->
 
