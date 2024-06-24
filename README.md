@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage your tasks with the terminal](https://dev.to/stokry/manage-your-tasks-with-the-terminal-2g3b)
-- [Throttling vs. Debouncing in JavaScript](https://dev.to/rahulvijayvergiya/throttling-vs-debouncing-in-javascript-4mb0)
-- [What is HTML?](https://dev.to/iam_divs/what-is-html-46ag)
-- [Understanding HTTP Status Codes](https://dev.to/keploy/understanding-http-status-codes-2nn)
+- [Tailstore - Free Tailwind CSS eCommerce Template](https://dev.to/mikevarenek/tailstore-free-tailwind-css-ecommerce-template-fbm)
+- [How to Cloud: IaC](https://dev.to/aws-builders/how-to-cloud-iac-3ifl)
+- [Swiftwave PaaS: One Year in Development](https://dev.to/tanmoysrt/swiftwave-paas-one-year-in-development-3nph)
+- [Why Choose Laravel for Web Development?](https://dev.to/samantha_hayes/why-choose-laravel-for-web-development-46im)
 <!-- BLOG-POST-LIST:END -->
 
