@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Essentials For Landing Your Dream Tech Job](https://dev.to/thekarlesi/3-essentials-for-landing-your-dream-tech-job-4le8)
-- [Mobile Development: Engineering the Future of Applications](https://dev.to/jinesh_vora_ab4d7886e6a8d/mobile-development-engineering-the-future-of-applications-d53)
-- [Building a Telegram Bot to deliver weekly stock open and close prices](https://dev.to/pluri45/building-a-telegram-bot-to-deliver-weekly-stock-open-and-close-prices-moh)
-- [Drupal Access Policy demystified](https://dev.to/sparkfabrik/drupal-access-policy-demystified-44bj)
+- [Manage your tasks with the terminal](https://dev.to/stokry/manage-your-tasks-with-the-terminal-2g3b)
+- [Throttling vs. Debouncing in JavaScript](https://dev.to/rahulvijayvergiya/throttling-vs-debouncing-in-javascript-4mb0)
+- [What is HTML?](https://dev.to/iam_divs/what-is-html-46ag)
+- [Understanding HTTP Status Codes](https://dev.to/keploy/understanding-http-status-codes-2nn)
 <!-- BLOG-POST-LIST:END -->
 
