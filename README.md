@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Syntax Highlighting to Next.js app router with PrismJS &lpar; Server + Client &rpar; Components](https://dev.to/sh20raj/how-to-add-syntax-highlighting-to-nextjs-app-router-with-prismjs-server-client-components-40mm)
-- [Attaching To Containers Using the Attach Command](https://dev.to/kalkwst/attaching-to-containers-using-the-attach-command-aaa)
-- [Stay ahead in web development: latest news, tools, and insights #38](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-38-36a5)
-- [Power Platform Dataverse 101](https://dev.to/wyattdave/power-platform-dataverse-101-11g5)
+- [Leveraging PostgreSQL CAST for Data Type Conversions](https://dev.to/dbvismarketing/leveraging-postgresql-cast-for-data-type-conversions-895)
+- [Integrating TinyML, GenAI, and Twilio API for Smart Solutions](https://dev.to/engineeredsoul/integrating-tinyml-genai-and-twilio-api-for-smart-solutions-4o01)
+- [🕸 Networking is easy, fun, and probably not what you think it is.](https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc)
+- [Creating a CRUD App With Go](https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3)
 <!-- BLOG-POST-LIST:END -->
 
