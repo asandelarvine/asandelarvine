@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #200](https://dev.to/aws/aws-open-source-newsletter-200-2595)
-- [Understanding closures, promises, and async/await](https://dev.to/sumit_01/understanding-closures-promises-and-asyncawait-2601)
-- [You&#39;re not in the right place if...](https://dev.to/pulkit30/youre-not-in-the-right-place-if-34k6)
-- [Stop Using JSON.parse&lpar;JSON.stringify&lpar;object&rpar;&rpar; for Deep Cloning! Try This Instead](https://dev.to/rajusaha/stop-using-jsonparsejsonstringifyobject-for-deep-cloning-try-this-instead-2cmc)
+- [AIM Weekly for 24 June 2024](https://dev.to/tspannhw/aim-weekly-for-24-june-2024-4o5l)
+- [Como Transformar-se em uma Máquina de Aprender: Um Guia Pragmático](https://dev.to/dev-mais-eficiente/como-transformar-se-em-uma-maquina-de-aprender-um-guia-pragmatico-31l)
+- [C# PDF Generator Tutorial &lpar;HTML to PDF, Merge, Watermark. Extract&rpar;](https://dev.to/mhamzap10/c-pdf-generator-tutorial-html-to-pdf-merge-watermark-extract-h3i)
+- [Tricky Golang interview questions - Part 4: Concurrent Consumption](https://dev.to/crusty0gphr/tricky-golang-interview-questions-part-4-concurrent-consumption-34oe)
 <!-- BLOG-POST-LIST:END -->
 
