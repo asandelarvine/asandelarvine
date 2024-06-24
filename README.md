@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hardest Problem in RAG... Handling &#39;NOT FOUND&#39; Answers 🔍🤔](https://dev.to/llmware/the-hardest-problem-in-rag-handling-not-found-answers-7md)
-- [Docker: Introduction step-by-step guide for beginners DevOps Engineers.](https://dev.to/oncloud7/docker-introduction-step-by-step-guide-for-beginners-devops-engineers-5fee)
-- [DreamMachineAI - free luma ai video generator](https://dev.to/runningdogg/dreammachineai-free-luma-ai-video-generator-3d0h)
-- [Meme Monday](https://dev.to/td_inc/meme-monday-nf7)
+- [FitSnap: image-to-workout](https://dev.to/matt_permentier_8d9ea83d9/fitsnap-image-to-workout-p81)
+- [MeteorJS 3.0 major impact estimated for July 2024 ☄️ - here is all you need to know 🧐](https://dev.to/meteor/meteorjs-30-major-impact-estimated-for-july-2024-here-is-all-you-need-to-know-13oh)
+- [Day 21 of 30 of JavaScript](https://dev.to/akshat0610/day-21-of-30-of-javascript-2hdp)
+- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY.](https://dev.to/temidayo_adeoye_ccfea1cab/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-c5i)
 <!-- BLOG-POST-LIST:END -->
 
