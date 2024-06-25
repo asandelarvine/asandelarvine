@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript “this” keyword in simple words](https://dev.to/skorphil/javascript-this-keyword-in-simple-words-2ch0)
-- [Docker for Beginners &lpar;Windows&rpar;](https://dev.to/rifat87/docker-for-beginners-windows-434i)
-- [Setting Up Local Kubernetes Cluster with Kind](https://dev.to/jensen1806/setting-up-local-kubernetes-cluster-with-kind-19m4)
-- [🌟 Exciting Machine Learning Journey Ahead! 📊](https://dev.to/divyansh_gawri/exciting-machine-learning-journey-ahead-3h8n)
+- [** ¡Desvela los secretos de los métodos HTTP Request con la ayuda de Malcolm el del Medio! **🧑](https://dev.to/orlidev/-desvela-los-secretos-de-los-metodos-http-request-con-la-ayuda-de-malcolm-el-del-medio--4mm0)
+- [Fun with Array.prototype.fill&lpar;&rpar;](https://dev.to/smlka/fun-with-arrayprototypefill-123n)
+- [The Innovative DevOps Philosophy at Netflix](https://dev.to/azeem_shafeeq/the-innovative-devops-philosophy-at-netflix-528h)
+- [Firebase Security Rules: Effortless control over your app&#39;s data.](https://dev.to/codingcatdev/firebase-security-rules-effortless-control-over-your-apps-data-550m)
 <!-- BLOG-POST-LIST:END -->
 
