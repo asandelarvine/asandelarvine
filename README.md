@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Terms for a Meeting with Me](https://dev.to/polterguy/the-terms-for-a-meeting-with-me-1koa)
-- [Emotional Intelligence: The Key to Professional Success](https://dev.to/devmercy/emotional-intelligence-the-key-to-professional-success-eec)
-- [Hoisting](https://dev.to/abhinavkushagra/hoisting-1l7p)
-- [Mastering Typography in UI Design: Enhancing Readability and User Experience](https://dev.to/prince_chouhan/mastering-typography-in-ui-design-enhancing-readability-and-user-experience-1627)
+- [Dev: IoT](https://dev.to/r4nd3l/dev-iot-16do)
+- [Understanding the @DependsOn Annotation in Spring](https://dev.to/tiuwill/understanding-the-dependson-annotation-in-spring-3dok)
+- [K.I.S.S. - Why I moved my main site from Drupal to Grav CMS](https://dev.to/reubenwalker64/kiss-why-i-moved-my-main-site-from-drupal-to-grav-cms-d76)
+- [Code joke &lpar;may contain bugs&rpar;](https://dev.to/snook/code-joke-1lf2)
 <!-- BLOG-POST-LIST:END -->
 
