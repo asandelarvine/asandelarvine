@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can We Improve Mockingbird for Better Developer Experience?](https://dev.to/ozkeisar/how-can-we-improve-mockingbird-for-better-developer-experience-3i9d)
-- [Raspberry Pi: What you need to know](https://dev.to/jane_white_74334c599bfafa/raspberry-pi-what-you-need-to-know-lhc)
-- [4090 - ECC ON vs ECC OFF](https://dev.to/maximsaplin/4090-ecc-on-vs-ecc-off-36m4)
-- [Highlight.js copy button plugin](https://dev.to/farazpatankar/highlightjs-copy-button-plugin-3dld)
+- [For Engineers in a Hurry: A Guide for Implementing Security](https://dev.to/llxd/for-engineers-in-a-hurry-a-guide-for-implementing-security-1o8m)
+- [Build a real-time voting app with WebSockets, React &amp; TypeScript 🔌⚡️](https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-3oof)
+- [String methods in JavaScript.! part&lpar;1&rpar;](https://dev.to/samandarhodiev/string-methods-in-javascript-part1-14h5)
+- [Cloud-based Tax Software vs. Tax Software Hosting Solutions](https://dev.to/him_tyagi/cloud-based-tax-software-vs-tax-software-hosting-solutions-2a02)
 <!-- BLOG-POST-LIST:END -->
 
