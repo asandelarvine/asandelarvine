@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write an Outline for a Technical Article.](https://dev.to/spiff/how-to-write-an-outline-for-a-technical-article-oha)
-- [Virtual Production Studio Dimension Selects AWS and Arch Platform](https://dev.to/maxhar/virtual-production-studio-dimension-selects-aws-and-arch-platform-11b)
-- [A better way to learn programming.](https://dev.to/itric/a-better-way-to-learn-programming-h6l)
-- [Load Balancer vs Reverse Proxy vs API Gateway](https://dev.to/manojgohel/load-balancer-vs-reverse-proxy-vs-api-gateway-3ged)
+- [5 Best Websites for Free Django Templates](https://dev.to/devluc/5-best-websites-for-free-django-templates-27mn)
+- [React Magical trick with useCotext and understand prop drilling.](https://dev.to/sayyedasad786/react-magical-trick-with-usecotext-and-understand-prop-drilling-4fod)
+- [100+ Keyboard Shortcuts Windows 11!](https://dev.to/winsides/100-keyboard-shortcuts-windows-11-1lli)
+- [Next JS 15 pre-release](https://dev.to/wadizaatour/next-js-15-pre-release-3885)
 <!-- BLOG-POST-LIST:END -->
 
