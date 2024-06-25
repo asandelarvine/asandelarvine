@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supply Chain Security in Mobile App Development: Why is it Important? 📲](https://dev.to/bytehide/supply-chain-security-in-mobile-app-development-why-is-it-important-afd)
-- [MongoDB database cloud migration](https://dev.to/woovi/mongodb-database-cloud-migration-14ea)
-- [Going Pro](https://dev.to/aws-builders/going-pro-20m7)
-- [Building a Mock Data Generator with Google Sheets, Gemini AI &amp; ToolJet](https://dev.to/tooljet/building-a-mock-data-generator-with-google-sheets-gemini-ai-tooljet-24f2)
+- [Congrats to our first Computer Science Challenge Winners!](https://dev.to/devteam/congrats-to-our-first-computer-science-challenge-winners-2mg2)
+- [MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data](https://dev.to/mikeyoung44/mindeye2-shared-subject-models-enable-fmri-to-image-with-1-hour-of-data-9pi)
+- [JavaFX In Action with Pedro Duque Vieira, aka Duke, about Hero, PDFSam, FXThemes, FXComponents,...](https://dev.to/fdelporte/javafx-in-action-with-pedro-duque-vieira-aka-duke-about-hero-pdfsam-fxthemes-fxcomponents-54jf)
+- [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://dev.to/mikeyoung44/self-play-fine-tuning-converts-weak-language-models-to-strong-language-models-222a)
 <!-- BLOG-POST-LIST:END -->
 
