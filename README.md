@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [16 Killer Web Applications to Boost Your Workflow with AI 🚀🔥](https://dev.to/madza/16-killer-web-applications-to-boost-your-workflow-with-ai-2cj8)
-- [&lpar;Unofficial&rpar; Getting Started with Elixir Phoenix Guide](https://dev.to/andyklimczak/very-unofficial-getting-started-with-elixir-phoenix-guide-3k55)
-- [Ibuprofeno.py💊| #124: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-124-explica-este-codigo-python-34m6)
-- [Python vs Java: The Battle of the Programming Titans](https://dev.to/jinesh_vora_ab4d7886e6a8d/python-vs-java-the-battle-of-the-programming-titans-flm)
+- [How Can We Improve Mockingbird for Better Developer Experience?](https://dev.to/ozkeisar/how-can-we-improve-mockingbird-for-better-developer-experience-3i9d)
+- [Raspberry Pi: What you need to know](https://dev.to/jane_white_74334c599bfafa/raspberry-pi-what-you-need-to-know-lhc)
+- [4090 - ECC ON vs ECC OFF](https://dev.to/maximsaplin/4090-ecc-on-vs-ecc-off-36m4)
+- [Highlight.js copy button plugin](https://dev.to/farazpatankar/highlightjs-copy-button-plugin-3dld)
 <!-- BLOG-POST-LIST:END -->
 
