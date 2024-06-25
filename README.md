@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [For Engineers in a Hurry: A Guide for Implementing Security](https://dev.to/llxd/for-engineers-in-a-hurry-a-guide-for-implementing-security-1o8m)
-- [Build a real-time voting app with WebSockets, React &amp; TypeScript 🔌⚡️](https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-3oof)
-- [String methods in JavaScript.! part&lpar;1&rpar;](https://dev.to/samandarhodiev/string-methods-in-javascript-part1-14h5)
-- [Cloud-based Tax Software vs. Tax Software Hosting Solutions](https://dev.to/him_tyagi/cloud-based-tax-software-vs-tax-software-hosting-solutions-2a02)
+- [Supply Chain Security in Mobile App Development: Why is it Important? 📲](https://dev.to/bytehide/supply-chain-security-in-mobile-app-development-why-is-it-important-afd)
+- [MongoDB database cloud migration](https://dev.to/woovi/mongodb-database-cloud-migration-14ea)
+- [Going Pro](https://dev.to/aws-builders/going-pro-20m7)
+- [Building a Mock Data Generator with Google Sheets, Gemini AI &amp; ToolJet](https://dev.to/tooljet/building-a-mock-data-generator-with-google-sheets-gemini-ai-tooljet-24f2)
 <!-- BLOG-POST-LIST:END -->
 
