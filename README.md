@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to Playing Snake: Rules and Strategies](https://dev.to/dk119819/beginners-guide-to-playing-snake-rules-and-strategies-jkf)
-- [javascript string manipulation Interview Questions](https://dev.to/shivam_sahu_704d021337aec/javascript-string-manipulation-interview-questions-26oo)
-- [Openshift Kubernetes Distribution &lpar;OKD&rpar;](https://dev.to/lanamaulanna/openshift-kubernetes-distribution-okd-4g23)
-- [5 Unsuspected Ways You Can Already Be Documenting Your Projects &lpar;Without Even Knowing!&rpar;](https://dev.to/jaloplo/5-unsuspected-ways-you-can-already-be-documenting-your-projects-without-even-knowing-23af)
+- [Implementing the Cached Repository Pattern in C#](https://dev.to/ben-witt/implementing-the-cached-repository-pattern-in-c-o85)
+- [Adivina Quién / Guess who..](https://dev.to/jagedn/adivina-quien-guess-who-om4)
+- [🧠 50 Outstanding WebDev Articles](https://dev.to/florianrappl/50-outstanding-webdev-articles-4b82)
+- [Building Your Own 2048 Game: Complete Instructions](https://dev.to/dk119819/step-by-step-2048-game-tutorial-569g)
 <!-- BLOG-POST-LIST:END -->
 
