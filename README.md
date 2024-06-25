@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: IoT](https://dev.to/r4nd3l/dev-iot-16do)
-- [Understanding the @DependsOn Annotation in Spring](https://dev.to/tiuwill/understanding-the-dependson-annotation-in-spring-3dok)
-- [K.I.S.S. - Why I moved my main site from Drupal to Grav CMS](https://dev.to/reubenwalker64/kiss-why-i-moved-my-main-site-from-drupal-to-grav-cms-d76)
-- [Code joke &lpar;may contain bugs&rpar;](https://dev.to/snook/code-joke-1lf2)
+- [CSS – Cascading Style Sheets.](https://dev.to/n3rdnerd/css-cascading-style-sheets-4oa6)
+- [The Journey to Financial Freedom: Lessons from Felix](https://dev.to/devmercy/the-journey-to-financial-freedom-lessons-from-felix-469k)
+- [Guía completa para crear y configurar Azure Cosmos DB con Terraform](https://dev.to/danieljsaldana/guia-completa-para-crear-y-configurar-azure-cosmos-db-con-terraform-cpa)
+- [JSON – JavaScript Object Notation](https://dev.to/n3rdnerd/json-javascript-object-notation-5ad2)
 <!-- BLOG-POST-LIST:END -->
 
