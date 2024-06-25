@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [** ¡Desvela los secretos de los métodos HTTP Request con la ayuda de Malcolm el del Medio! **🧑](https://dev.to/orlidev/-desvela-los-secretos-de-los-metodos-http-request-con-la-ayuda-de-malcolm-el-del-medio--4mm0)
-- [Fun with Array.prototype.fill&lpar;&rpar;](https://dev.to/smlka/fun-with-arrayprototypefill-123n)
-- [The Innovative DevOps Philosophy at Netflix](https://dev.to/azeem_shafeeq/the-innovative-devops-philosophy-at-netflix-528h)
-- [Firebase Security Rules: Effortless control over your app&#39;s data.](https://dev.to/codingcatdev/firebase-security-rules-effortless-control-over-your-apps-data-550m)
+- [The Best Video Conferencing APIs and SDKs](https://dev.to/emilyrobertsatstream/the-best-video-conferencing-apis-and-sdks-2eac)
+- [test2](https://dev.to/codingcatdev/test2-2gff)
+- [Responsividade](https://dev.to/annalaura2/responsividade-dpb)
+- [Docker Security Checklist: Are You Production Ready?](https://dev.to/shettigarc/docker-security-checklist-are-you-production-ready-443p)
 <!-- BLOG-POST-LIST:END -->
 
