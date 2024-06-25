@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CREATING A VIRTUAL MACHINE USING AZURE CLI](https://dev.to/aizeon/creating-a-virtual-machine-using-azure-cli-5ec7)
-- [DAY 3 PROJECT](https://dev.to/shrishti_srivastava_/day-3-project-3hd2)
-- [The various modules of Digital Marketing.](https://dev.to/khushithakuri/the-various-modules-of-digital-marketing-8i0)
-- [Super Club Net: Libro de Introducción a HTML, CSS y JS](https://dev.to/javascriptchile/super-club-net-libro-de-introduccion-a-html-css-y-js-32hc)
+- [JavaScript “this” keyword in simple words](https://dev.to/skorphil/javascript-this-keyword-in-simple-words-2ch0)
+- [Docker for Beginners &lpar;Windows&rpar;](https://dev.to/rifat87/docker-for-beginners-windows-434i)
+- [Setting Up Local Kubernetes Cluster with Kind](https://dev.to/jensen1806/setting-up-local-kubernetes-cluster-with-kind-19m4)
+- [🌟 Exciting Machine Learning Journey Ahead! 📊](https://dev.to/divyansh_gawri/exciting-machine-learning-journey-ahead-3h8n)
 <!-- BLOG-POST-LIST:END -->
 
