@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Cheap Ways to Host Redis](https://dev.to/code42cate/5-cheap-ways-to-host-redis-2njm)
-- [Difference between templatetag: linebreaks and linebreaksbr in Django template](https://dev.to/doridoro/difference-between-templatetag-linebreaks-and-linebreaksbr-in-django-template-50hg)
-- [How do we resolve race conditions?](https://dev.to/codermansithakur/how-do-we-resolve-race-conditions-416c)
-- [Overview of Deep Learning](https://dev.to/fridaymeng/overview-of-deep-learning-2lgi)
+- [16 Killer Web Applications to Boost Your Workflow with AI 🚀🔥](https://dev.to/madza/16-killer-web-applications-to-boost-your-workflow-with-ai-2cj8)
+- [&lpar;Unofficial&rpar; Getting Started with Elixir Phoenix Guide](https://dev.to/andyklimczak/very-unofficial-getting-started-with-elixir-phoenix-guide-3k55)
+- [Ibuprofeno.py💊| #124: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-124-explica-este-codigo-python-34m6)
+- [Python vs Java: The Battle of the Programming Titans](https://dev.to/jinesh_vora_ab4d7886e6a8d/python-vs-java-the-battle-of-the-programming-titans-flm)
 <!-- BLOG-POST-LIST:END -->
 
