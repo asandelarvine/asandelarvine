@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ONTO THE OTHER](https://dev.to/kevinpalma21/onto-the-other-30af)
-- [Ultimate Neovim Setup Guide: lazy.nvim Plugin Manager](https://dev.to/slydragonn/ultimate-neovim-setup-guide-lazynvim-plugin-manager-23b7)
-- [Integrating multiple databases in a todos app &lpar;Personal project&rpar;](https://dev.to/caresle/integrating-multiple-databases-in-a-todos-app-personal-project-6kh)
-- [Developing High-Performance Web Applications with Go](https://dev.to/kartikmehta8/developing-high-performance-web-applications-with-go-2264)
+- [Set dtype with dtype argument functions and get it in PyTorch](https://dev.to/hyperkai/set-dtype-with-dtype-argument-functions-and-get-it-in-pytorch-13h2)
+- [Comparing 13 LLM Providers API Performance with Node.js: Latency and Response Times Across Models](https://dev.to/samestrin/comparing-13-llm-providers-api-performance-with-nodejs-latency-and-response-times-across-models-2ka4)
+- [Automatizing Git Branches Cleanup: Streamlining Your Workflow](https://dev.to/fernandomullerjr/automatizing-git-branches-cleanup-streamlining-your-workflow-1584)
+- [AWS IoT projects](https://dev.to/sherlockyadav/aws-iot-projects-4e1f)
 <!-- BLOG-POST-LIST:END -->
 
