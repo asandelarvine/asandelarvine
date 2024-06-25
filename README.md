@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to our first Computer Science Challenge Winners!](https://dev.to/devteam/congrats-to-our-first-computer-science-challenge-winners-2mg2)
-- [MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data](https://dev.to/mikeyoung44/mindeye2-shared-subject-models-enable-fmri-to-image-with-1-hour-of-data-9pi)
-- [JavaFX In Action with Pedro Duque Vieira, aka Duke, about Hero, PDFSam, FXThemes, FXComponents,...](https://dev.to/fdelporte/javafx-in-action-with-pedro-duque-vieira-aka-duke-about-hero-pdfsam-fxthemes-fxcomponents-54jf)
-- [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://dev.to/mikeyoung44/self-play-fine-tuning-converts-weak-language-models-to-strong-language-models-222a)
+- [Manipulating Elements](https://dev.to/__khojiakbar__/manipulating-elements-1m5g)
+- [Object reference not set to an instance of an object](https://dev.to/blakemckenna/object-reference-not-set-to-an-instance-of-an-object-3c58)
+- [Serving different routes depending the port webserver serves my applciation in laravel.](https://dev.to/pcmagas/serving-different-routes-depending-the-port-webserver-serves-my-applciation-in-laravel-5fi9)
+- [Sass II - Funciones avanzadas](https://dev.to/fernandomoyano/sass-ii-funciones-avanzadas-14m)
 <!-- BLOG-POST-LIST:END -->
 
