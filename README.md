@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Websites for Free Django Templates](https://dev.to/devluc/5-best-websites-for-free-django-templates-27mn)
-- [React Magical trick with useCotext and understand prop drilling.](https://dev.to/sayyedasad786/react-magical-trick-with-usecotext-and-understand-prop-drilling-4fod)
-- [100+ Keyboard Shortcuts Windows 11!](https://dev.to/winsides/100-keyboard-shortcuts-windows-11-1lli)
-- [Next JS 15 pre-release](https://dev.to/wadizaatour/next-js-15-pre-release-3885)
+- [Beginner&#39;s Guide to Playing Snake: Rules and Strategies](https://dev.to/dk119819/beginners-guide-to-playing-snake-rules-and-strategies-jkf)
+- [javascript string manipulation Interview Questions](https://dev.to/shivam_sahu_704d021337aec/javascript-string-manipulation-interview-questions-26oo)
+- [Openshift Kubernetes Distribution &lpar;OKD&rpar;](https://dev.to/lanamaulanna/openshift-kubernetes-distribution-okd-4g23)
+- [5 Unsuspected Ways You Can Already Be Documenting Your Projects &lpar;Without Even Knowing!&rpar;](https://dev.to/jaloplo/5-unsuspected-ways-you-can-already-be-documenting-your-projects-without-even-knowing-23af)
 <!-- BLOG-POST-LIST:END -->
 
