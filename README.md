@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manipulating Elements](https://dev.to/__khojiakbar__/manipulating-elements-1m5g)
-- [Object reference not set to an instance of an object](https://dev.to/blakemckenna/object-reference-not-set-to-an-instance-of-an-object-3c58)
-- [Serving different routes depending the port webserver serves my applciation in laravel.](https://dev.to/pcmagas/serving-different-routes-depending-the-port-webserver-serves-my-applciation-in-laravel-5fi9)
-- [Sass II - Funciones avanzadas](https://dev.to/fernandomoyano/sass-ii-funciones-avanzadas-14m)
+- [CREATING A VIRTUAL MACHINE USING AZURE CLI](https://dev.to/aizeon/creating-a-virtual-machine-using-azure-cli-5ec7)
+- [DAY 3 PROJECT](https://dev.to/shrishti_srivastava_/day-3-project-3hd2)
+- [The various modules of Digital Marketing.](https://dev.to/khushithakuri/the-various-modules-of-digital-marketing-8i0)
+- [Super Club Net: Libro de Introducción a HTML, CSS y JS](https://dev.to/javascriptchile/super-club-net-libro-de-introduccion-a-html-css-y-js-32hc)
 <!-- BLOG-POST-LIST:END -->
 
