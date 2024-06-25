@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Bouncing Ball](https://dev.to/paulike/case-study-bouncing-ball-39cj)
-- [Implementing a Mail Delivery Switch in Python for Local and AWS Environments Using Amazon SES](https://dev.to/kojiisd/implementing-a-mail-delivery-switch-in-python-for-local-and-aws-environments-using-amazon-ses-2kp2)
-- [Implementing localization to your Svelte App: A step-by-step guide](https://dev.to/harshil1712/implementing-localization-to-your-svelte-app-a-step-by-step-guide-4cf)
-- [The Role of Technology in Optimizing Clinical Trial Processes](https://dev.to/mcdowell/the-role-of-technology-in-optimizing-clinical-trial-processes-50d5)
+- [ONTO THE OTHER](https://dev.to/kevinpalma21/onto-the-other-30af)
+- [Ultimate Neovim Setup Guide: lazy.nvim Plugin Manager](https://dev.to/slydragonn/ultimate-neovim-setup-guide-lazynvim-plugin-manager-23b7)
+- [Integrating multiple databases in a todos app &lpar;Personal project&rpar;](https://dev.to/caresle/integrating-multiple-databases-in-a-todos-app-personal-project-6kh)
+- [Developing High-Performance Web Applications with Go](https://dev.to/kartikmehta8/developing-high-performance-web-applications-with-go-2264)
 <!-- BLOG-POST-LIST:END -->
 
