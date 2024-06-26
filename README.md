@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Heap Memory Errors in Sitecore XM Cloud Next.js Projects](https://dev.to/sebasab/troubleshooting-heap-memory-errors-in-sitecore-xm-cloud-nextjs-projects-bl6)
-- [Enterprise Software Development: A Comprehensive Workflow Overview Example](https://dev.to/vyan/enterprise-software-development-a-comprehensive-workflow-overview-example-2jfn)
-- [Essential Linux Commands for Daily Use as a Developer](https://dev.to/mesonu/essential-linux-commands-for-daily-use-as-a-developer-3l0l)
-- [Uploading Files to Amazon S3 in a Next.js Application Using AWS SDK v3](https://dev.to/sh20raj/uploading-files-to-amazon-s3-in-a-nextjs-application-using-aws-sdk-v3-21a2)
+- [Several recommended practices for writing good asynchronous JavaScript code](https://dev.to/safdarali/several-recommended-practices-for-writing-good-asynchronous-javascript-code-1oc1)
+- [🚀 Understanding the V8 Engine: Optimizing JavaScript for Peak Performance](https://dev.to/parthchovatiya/understanding-the-v8-engine-optimizing-javascript-for-peak-performance-1c9b)
+- [Streaming Camera with C++ WebRTC GStreamer](https://dev.to/ethand91/streaming-camera-with-c-webrtc-gstreamer-pof)
+- [How ChatGPT Works: The Model Behind The Bot](https://dev.to/manojgohel/how-chatgpt-works-the-model-behind-the-bot-195j)
 <!-- BLOG-POST-LIST:END -->
 
