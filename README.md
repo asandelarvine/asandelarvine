@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Software Development](https://dev.to/jottyjohn/ai-in-software-development-5c31)
-- [Understanding HTTP Status Codes: A Comprehensive Guide](https://dev.to/keploy/understanding-http-status-codes-a-comprehensive-guide-2iai)
-- [Next.js 14: App with OpenAI API Integration](https://dev.to/wadizaatour/nextjs-14-app-with-openai-api-integration-293k)
-- [Why single sign-on &lpar;SSO&rpar; is better](https://dev.to/logto/why-single-sign-on-sso-is-better-4maf)
+- [Atomic Agents Framework: Building a Simple AI Agent](https://dev.to/hyscaler/atomic-agents-framework-building-a-simple-ai-agent-4847)
+- [Scop in Javascript.](https://dev.to/sagor_cnits_73eb557b53820/scop-in-javascript-11ci)
+- [Removing redundant libraries from Makefiles](https://dev.to/albertjokelin/removing-redundant-libraries-from-makefiles-55nl)
+- [How to create a search input with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-search-input-with-tailwind-css-and-javascript-4iom)
 <!-- BLOG-POST-LIST:END -->
 
