@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for the Wix Studio Challenge with Special Guest Judge Ania Kubów: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-wix-studio-challenge-with-special-guest-judge-ania-kubow-3000-in-prizes-3ial)
-- [[DAY 63-65] I built a markdown previewer using React](https://dev.to/thomascansino/day-63-65-i-built-a-markdown-previewer-18a4)
-- [Setting Up a New Angular Project and Installing Dependencies](https://dev.to/orases1/setting-up-a-new-angular-project-and-installing-dependencies-1a4o)
-- [alternate way of doing word split/phrase segmentation in python](https://dev.to/alexey_27/alternate-way-of-doing-word-splitphrase-segmentation-in-python-pj1)
+- [🔍 Dive into CSS Anchor Positioning – Let&#39;s Hang!](https://dev.to/adam/dive-into-css-anchor-positioning-lets-hang-5eob)
+- [Troubleshooting CORS Issues in Express.js: A Simple Misconfiguration](https://dev.to/sepiyush/troubleshooting-cors-issues-in-expressjs-a-simple-misconfiguration-2e4k)
+- [Decoding Demystified : How LLMs Generate Text - III](https://dev.to/mahakfaheem/decoding-demystified-how-llms-generate-text-iii-3a0d)
+- [🌟 Project 2: Nike Product Card - Part of My 50 Projects Challenge 🏆](https://dev.to/bytesage/project-2-nike-product-card-part-of-my-50-projects-challenge-2mje)
 <!-- BLOG-POST-LIST:END -->
 
