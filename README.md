@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to JavaScript Testing: Frameworks, Tools, and Practices](https://dev.to/pachicodes/intro-to-javascript-testing-frameworks-tools-and-practices-167i)
-- [Windows 11 unsuckifying guide](https://dev.to/thejaredwilcurt/windows-11-unsuckifying-guide-1oc5)
-- [Process Scheduling](https://dev.to/_hm/process-scheduling-52a)
-- [Let’s Get Hands-On with WordPress FSE Theme and Custom Blocks — Part 1](https://dev.to/silviamalavasi/lets-get-hands-on-with-wordpress-fse-theme-and-custom-blocks-part-1-lmj)
+- [Database Transactions : Concurrency Control](https://dev.to/aharmaz/database-transactions-concurrency-control-1h6i)
+- [Differences between Asp.net and Asp.net Core](https://dev.to/pains_arch/differences-between-aspnet-and-aspnet-core-23o7)
+- [Top 5 Must-Ask Questions About Your Career in IT](https://dev.to/usulpro/top-5-must-ask-questions-about-your-career-in-it-2245)
+- [1382. Balance a Binary Search Tree](https://dev.to/mdarifulhaque/1382-balance-a-binary-search-tree-1bj8)
 <!-- BLOG-POST-LIST:END -->
 
