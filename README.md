@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Won’t Replace Programmers, Probably](https://dev.to/salladshooter/why-ai-wont-replace-programmers-probably-bj7)
-- [How to create an SSL certificate with Let’s Encrypt](https://dev.to/_briannw/how-to-create-an-ssl-certificate-with-lets-encrypt-5e5e)
-- [How to accept Cash App payments on your Node.js web server without Cash App Pay!](https://dev.to/_briannw/how-to-accept-cash-app-payments-on-your-nodejs-web-server-without-cash-app-pay-1k7g)
-- [WebRTC in WebView in IOS](https://dev.to/alakkadshaw/webrtc-in-webview-in-ios-ci2)
+- [Finding and fixing exposed hardcoded secrets in your GitHub project with Snyk](https://dev.to/snyk/finding-and-fixing-exposed-hardcoded-secrets-in-your-github-project-with-snyk-3ldl)
+- [How to Quickly Drive Traffic to Your Website](https://dev.to/juddiy/how-to-quickly-drive-traffic-to-your-website-2dlp)
+- [Terraform Basics](https://dev.to/sanjaikumar2311/terraform-basics-1d2j)
+- [Amazon S3 Storage Classes](https://dev.to/sachithmayantha/amazon-s3-storage-classes-1kjn)
 <!-- BLOG-POST-LIST:END -->
 
