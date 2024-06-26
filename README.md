@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Released SuperDuperDB v0.2](https://dev.to/kartik_sharma_0adb5cbf63f/released-superduperdb-v02-30cb)
-- [Pushing the Boundaries of Web Apps: Exploring Advanced Features and Hardware Integration](https://dev.to/paco_ita/pushing-the-boundaries-of-web-apps-exploring-advanced-features-and-hardware-integration-d00)
-- [Python Basics](https://dev.to/harshm03/python-basics-235f)
-- [Working with the Node.js Tools](https://dev.to/priya_sharma/working-with-the-nodejs-tools-3pp5)
+- [Star Rating](https://dev.to/sportivearavind/star-rating-57da)
+- [Understanding Lazy Initialization in Spring Boot](https://dev.to/tharindufdo/understanding-lazy-initialization-in-spring-boot-2fbd)
+- [TypeScript What &#39;string &amp; {}&#39; mean meaning?](https://dev.to/nhannguyendevjs/typescript-what-string-mean-meaning-2f70)
+- [Bishop on Chessboard](https://dev.to/sportivearavind/bishop-on-chessboard-45p2)
 <!-- BLOG-POST-LIST:END -->
 
