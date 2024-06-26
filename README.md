@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Atomic Agents Framework: Building a Simple AI Agent](https://dev.to/hyscaler/atomic-agents-framework-building-a-simple-ai-agent-4847)
-- [Scop in Javascript.](https://dev.to/sagor_cnits_73eb557b53820/scop-in-javascript-11ci)
-- [Removing redundant libraries from Makefiles](https://dev.to/albertjokelin/removing-redundant-libraries-from-makefiles-55nl)
-- [How to create a search input with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-search-input-with-tailwind-css-and-javascript-4iom)
+- [Understanding Android Application Lifecycle and Process](https://dev.to/dilip2882/understanding-android-application-lifecycle-and-process-3k50)
+- [Mock TypeORM Package](https://dev.to/jazimabbas/mock-typeorm-package-3okl)
+- [Breaking Down Instagram&#39;s Follow Limit: Facts and Figures](https://dev.to/ray_parker01/breaking-down-instagrams-follow-limit-facts-and-figures-4m67)
+- [Linux “date” Command](https://dev.to/mahir_dasare_333/linux-date-command-a83)
 <!-- BLOG-POST-LIST:END -->
 
