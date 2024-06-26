@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Dive into CSS Anchor Positioning – Let&#39;s Hang!](https://dev.to/adam/dive-into-css-anchor-positioning-lets-hang-5eob)
-- [Troubleshooting CORS Issues in Express.js: A Simple Misconfiguration](https://dev.to/sepiyush/troubleshooting-cors-issues-in-expressjs-a-simple-misconfiguration-2e4k)
-- [Decoding Demystified : How LLMs Generate Text - III](https://dev.to/mahakfaheem/decoding-demystified-how-llms-generate-text-iii-3a0d)
-- [🌟 Project 2: Nike Product Card - Part of My 50 Projects Challenge 🏆](https://dev.to/bytesage/project-2-nike-product-card-part-of-my-50-projects-challenge-2mje)
+- [Intro to JavaScript Testing: Frameworks, Tools, and Practices](https://dev.to/pachicodes/intro-to-javascript-testing-frameworks-tools-and-practices-167i)
+- [Windows 11 unsuckifying guide](https://dev.to/thejaredwilcurt/windows-11-unsuckifying-guide-1oc5)
+- [Process Scheduling](https://dev.to/_hm/process-scheduling-52a)
+- [Let’s Get Hands-On with WordPress FSE Theme and Custom Blocks — Part 1](https://dev.to/silviamalavasi/lets-get-hands-on-with-wordpress-fse-theme-and-custom-blocks-part-1-lmj)
 <!-- BLOG-POST-LIST:END -->
 
