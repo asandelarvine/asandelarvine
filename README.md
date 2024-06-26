@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PicRanker: Your Ultimate Image Categorization and Management App.🚀](https://dev.to/dharamgfx/introducing-picranker-your-ultimate-image-categorization-and-management-app-4o57)
-- [Learn How to Use Postman for Sending POST Requests](https://dev.to/satokenta/learn-how-to-use-postman-for-sending-post-requests-4hff)
-- [Healthcare Web Application Development: Definition, Process and Cost](https://dev.to/bytesfarms/healthcare-web-application-development-definition-process-and-cost-3j2)
-- [Introducing Crisp Chat: Enhance Your Flutter Apps with Real-time Customer Support](https://dev.to/alaminkarno/introducing-crisp-chat-enhance-your-flutter-apps-with-real-time-customer-support-nfe)
+- [Using Python for Automated Testing In DevOps](https://dev.to/davidbosah/using-python-for-automated-testing-in-devops-1mj5)
+- [Simplified Guide to Installing NVM on Ubuntu](https://dev.to/mesonu/simplified-guide-to-installing-nvm-on-ubuntu-3dpa)
+- [The Accidental Inventor Who Sparked the Silicon Valley Revolution](https://dev.to/hyscaler/the-accidental-inventor-who-sparked-the-silicon-valley-revolution-285k)
+- [Monitor the Performance of Your Ruby on Rails Application Using AppSignal](https://dev.to/appsignal/monitor-the-performance-of-your-ruby-on-rails-application-using-appsignal-2bih)
 <!-- BLOG-POST-LIST:END -->
 
