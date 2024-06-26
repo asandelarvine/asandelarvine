@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Transactions : Concurrency Control](https://dev.to/aharmaz/database-transactions-concurrency-control-1h6i)
-- [Differences between Asp.net and Asp.net Core](https://dev.to/pains_arch/differences-between-aspnet-and-aspnet-core-23o7)
-- [Top 5 Must-Ask Questions About Your Career in IT](https://dev.to/usulpro/top-5-must-ask-questions-about-your-career-in-it-2245)
-- [1382. Balance a Binary Search Tree](https://dev.to/mdarifulhaque/1382-balance-a-binary-search-tree-1bj8)
+- [Studying for the AWS SAA](https://dev.to/tklevits/studying-for-the-aws-saa-4000)
+- [React Server Component is perfect for Backends-for-Frontends](https://dev.to/yaodingyd/react-server-component-is-perfect-for-backends-for-frontends-123n)
+- [A Disposable Firefox Instance](https://dev.to/terminaldweller/a-disposable-firefox-instance-3p03)
+- [RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale](https://dev.to/mikeyoung44/res-q-evaluating-code-editing-large-language-model-systems-at-the-repository-scale-1p6d)
 <!-- BLOG-POST-LIST:END -->
 
