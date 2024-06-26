@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Android Application Lifecycle and Process](https://dev.to/dilip2882/understanding-android-application-lifecycle-and-process-3k50)
-- [Mock TypeORM Package](https://dev.to/jazimabbas/mock-typeorm-package-3okl)
-- [Breaking Down Instagram&#39;s Follow Limit: Facts and Figures](https://dev.to/ray_parker01/breaking-down-instagrams-follow-limit-facts-and-figures-4m67)
-- [Linux “date” Command](https://dev.to/mahir_dasare_333/linux-date-command-a83)
+- [Released SuperDuperDB v0.2](https://dev.to/kartik_sharma_0adb5cbf63f/released-superduperdb-v02-30cb)
+- [Pushing the Boundaries of Web Apps: Exploring Advanced Features and Hardware Integration](https://dev.to/paco_ita/pushing-the-boundaries-of-web-apps-exploring-advanced-features-and-hardware-integration-d00)
+- [Python Basics](https://dev.to/harshm03/python-basics-235f)
+- [Working with the Node.js Tools](https://dev.to/priya_sharma/working-with-the-nodejs-tools-3pp5)
 <!-- BLOG-POST-LIST:END -->
 
