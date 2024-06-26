@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Python for Automated Testing In DevOps](https://dev.to/davidbosah/using-python-for-automated-testing-in-devops-1mj5)
-- [Simplified Guide to Installing NVM on Ubuntu](https://dev.to/mesonu/simplified-guide-to-installing-nvm-on-ubuntu-3dpa)
-- [The Accidental Inventor Who Sparked the Silicon Valley Revolution](https://dev.to/hyscaler/the-accidental-inventor-who-sparked-the-silicon-valley-revolution-285k)
-- [Monitor the Performance of Your Ruby on Rails Application Using AppSignal](https://dev.to/appsignal/monitor-the-performance-of-your-ruby-on-rails-application-using-appsignal-2bih)
+- [Why do we need clean code?](https://dev.to/wraith/why-do-we-need-clean-code-1cea)
+- [Day 22 of 30 of JavaScript](https://dev.to/akshat0610/day-22-of-30-of-javascript-2omi)
+- [Flutter liveness: 300% performance enhance](https://dev.to/jodamco/flutter-liveness-300-performance-enhance-3kkh)
+- [Creating a Virtual Machine Scale-Set in Azure &lpar;VMSS&rpar;.](https://dev.to/laoluafolami/creating-a-virtual-machine-scale-set-in-azure-vmss-21g9)
 <!-- BLOG-POST-LIST:END -->
 
