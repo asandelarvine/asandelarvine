@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS – Cascading Style Sheets.](https://dev.to/n3rdnerd/css-cascading-style-sheets-4oa6)
-- [The Journey to Financial Freedom: Lessons from Felix](https://dev.to/devmercy/the-journey-to-financial-freedom-lessons-from-felix-469k)
-- [Guía completa para crear y configurar Azure Cosmos DB con Terraform](https://dev.to/danieljsaldana/guia-completa-para-crear-y-configurar-azure-cosmos-db-con-terraform-cpa)
-- [JSON – JavaScript Object Notation](https://dev.to/n3rdnerd/json-javascript-object-notation-5ad2)
+- [Why AI Won’t Replace Programmers, Probably](https://dev.to/salladshooter/why-ai-wont-replace-programmers-probably-bj7)
+- [How to create an SSL certificate with Let’s Encrypt](https://dev.to/_briannw/how-to-create-an-ssl-certificate-with-lets-encrypt-5e5e)
+- [How to accept Cash App payments on your Node.js web server without Cash App Pay!](https://dev.to/_briannw/how-to-accept-cash-app-payments-on-your-nodejs-web-server-without-cash-app-pay-1k7g)
+- [WebRTC in WebView in IOS](https://dev.to/alakkadshaw/webrtc-in-webview-in-ios-ci2)
 <!-- BLOG-POST-LIST:END -->
 
