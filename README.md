@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 17: Docker Project for DevOps Engineers](https://dev.to/oncloud7/day-17-docker-project-for-devops-engineers-45cp)
-- [The Complete Guide to Serverless Apps I - Introduction](https://dev.to/fermyon/the-complete-guide-to-serverless-apps-i-introduction-1ga4)
-- [C# event-driven programming with delegates and events.](https://dev.to/emanuelgustafzon/c-event-driven-programming-with-delegates-and-events-47lh)
-- [Front-End Technologies](https://dev.to/pothuganti_arun_920006d12/front-end-technologies-58jn)
+- [Join us for the Wix Studio Challenge with Special Guest Judge Ania Kubów: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-wix-studio-challenge-with-special-guest-judge-ania-kubow-3000-in-prizes-3ial)
+- [[DAY 63-65] I built a markdown previewer using React](https://dev.to/thomascansino/day-63-65-i-built-a-markdown-previewer-18a4)
+- [Setting Up a New Angular Project and Installing Dependencies](https://dev.to/orases1/setting-up-a-new-angular-project-and-installing-dependencies-1a4o)
+- [alternate way of doing word split/phrase segmentation in python](https://dev.to/alexey_27/alternate-way-of-doing-word-splitphrase-segmentation-in-python-pj1)
 <!-- BLOG-POST-LIST:END -->
 
