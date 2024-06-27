@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Install SQLite On Windows](https://dev.to/karim_abdallah/how-to-install-sqlite-on-windows-5aam)
-- [Frontend Technologies](https://dev.to/celine/frontend-technologies-511n)
-- [Exploring Svelte and Vue.js: A Newbie&#39;s Perspective on Modern Frontend Technologies.](https://dev.to/harbiehorla/exploring-svelte-and-vuejs-a-newbies-perspective-on-modern-frontend-technologies-1k20)
-- [Types Of Software Architecture](https://dev.to/oussama_bel/types-of-software-architecture-mkf)
+- [Harmonizing Smart Homes and Nature Building Sustainable Connected Neighborhoods](https://dev.to/eric_dequ/harmonizing-smart-homes-and-nature-building-sustainable-connected-neighborhoods-3i7a)
+- [Dev: Quantum](https://dev.to/r4nd3l/dev-quantum-4ne6)
+- [Como funciona o Enum em C#](https://dev.to/iamjose/como-funciona-o-enum-em-c-488e)
+- [Circuit Breaker - Um apagador de fogo?](https://dev.to/felipepaz/circuit-breaker-um-apagador-de-fogo-4m74)
 <!-- BLOG-POST-LIST:END -->
 
