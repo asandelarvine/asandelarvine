@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS S3 Bucket Website Hosting using Terraform](https://dev.to/camillehe1992/aws-s3-bucket-website-hosting-using-terraform-4fk5)
-- [Laravel Telescope – Insightful Debugging and Profiling](https://dev.to/n3rdnerd/laravel-telescope-insightful-debugging-and-profiling-5alo)
-- [Maximum Likelihood Estimation with Logistic Regression](https://dev.to/harsimranjit_singh_0133dc/maximum-likelihood-estimation-with-logistic-regression-2g3n)
-- [What is AMP &lpar;Amplified Mobile Pages&rpar;](https://dev.to/chidera_kanu/what-is-amp-amplified-mobile-pages-3i82)
+- [Design Systems: The Backbone of Cohesive and Efficient Design](https://dev.to/shieldstring/design-systems-the-backbone-of-cohesive-and-efficient-design-1ojl)
+- [Mitigating disruption during Amazon EKS cluster upgrade with blue/green deployment](https://dev.to/haintkit/mitigating-disruption-during-amazon-eks-cluster-upgrade-with-bluegreen-deployments-5co)
+- [Which Database is Perfect for You? A Comprehensive Guide to MySQL, PostgreSQL, NoSQL, and More](https://dev.to/mmainulhasan/which-database-is-perfect-for-you-a-comprehensive-guide-to-mysql-postgresql-nosql-and-more-50jk)
+- [Laravel Timestamps – Automatic Handling of Created and Updated Dates](https://dev.to/n3rdnerd/laravel-timestamps-automatic-handling-of-created-and-updated-dates-530l)
 <!-- BLOG-POST-LIST:END -->
 
