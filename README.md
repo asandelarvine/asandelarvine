@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform Dataverse](https://dev.to/mubashar1009/power-platform-dataverse-oen)
-- [[Game of Purpose] Day 39](https://dev.to/humberd/game-of-purpose-day-39-4n66)
-- [The Importance of Financial Education and Taking Action](https://dev.to/devmercy/the-importance-of-financial-education-and-taking-action-1igg)
-- [@Resource: The Versatile Bean Injection Annotation for Jakarta EE and Spring](https://dev.to/tiuwill/resource-the-versatile-bean-injection-annotation-for-jakarta-ee-and-spring-5af9)
+- [Comandos importantes Git](https://dev.to/nathanndos/comandos-importantes-git-2nmi)
+- [Building a Scalable API with NestJS: A Comprehensive Guide](https://dev.to/3a5abi/building-a-scalable-api-with-nestjs-a-comprehensive-guide-15jj)
+- [Building a Custom Analytics Dashboard with React and D3.js](https://dev.to/kartikmehta8/building-a-custom-analytics-dashboard-with-react-and-d3js-3amf)
+- [🚀 Authentication and Authorization in Node.js 🚀](https://dev.to/erasmuskotoka/authentication-and-authorization-in-nodejs-4j5b)
 <!-- BLOG-POST-LIST:END -->
 
