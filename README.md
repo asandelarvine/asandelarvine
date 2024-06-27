@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comandos importantes Git](https://dev.to/nathanndos/comandos-importantes-git-2nmi)
-- [Building a Scalable API with NestJS: A Comprehensive Guide](https://dev.to/3a5abi/building-a-scalable-api-with-nestjs-a-comprehensive-guide-15jj)
-- [Building a Custom Analytics Dashboard with React and D3.js](https://dev.to/kartikmehta8/building-a-custom-analytics-dashboard-with-react-and-d3js-3amf)
-- [🚀 Authentication and Authorization in Node.js 🚀](https://dev.to/erasmuskotoka/authentication-and-authorization-in-nodejs-4j5b)
+- [程序员在企业中是如何做需求的](https://dev.to/javapub/cheng-xu-yuan-zai-qi-ye-zhong-shi-ru-he-zuo-xu-qiu-de-3g6a)
+- [How to Dynamically Assign Ports and Access Your Next.js App Across the Network](https://dev.to/xanderselorm/how-to-dynamically-assign-ports-and-access-your-nextjs-app-across-the-network-3p57)
+- [What happens when you Enter a URL in browser &amp; hit enter](https://dev.to/zeeshanali0704/what-happens-when-you-enter-a-url-in-browser-hit-enter-2i2a)
+- [VMSS CREATION AND CONNECTING.](https://dev.to/collins_uwa_1f4dc406f079c/vmss-creation-and-connecting-1g3f)
 <!-- BLOG-POST-LIST:END -->
 
