@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-4o — Are We Being LIED To?](https://dev.to/safdarali/gpt-4o-are-we-being-lied-to-4h0d)
-- [Optimizing the API Lifecycle: A Complete Guide](https://dev.to/getambassador2024/optimizing-the-api-lifecycle-a-complete-guide-i4c)
-- [Reclaiming Simplicity: How Blazor Revolutionized My Coding World](https://dev.to/3a5abi/reclaiming-simplicity-how-blazor-revolutionized-my-coding-world-3fbb)
-- [Enhancing Performance in Your React Application](https://dev.to/msubhro/enhancing-performance-in-your-react-application-4pno)
+- [SSH Tunneling: Essential Guide](https://dev.to/dbvismarketing/ssh-tunneling-essential-guide-lbp)
+- [GBase 8a Implementation Guide: Application Development Optimization](https://dev.to/congcong/gbase-8a-implementation-guide-application-development-optimization-1epd)
+- [Stable, Secure, and Efficient: The Core Role of USDB on the Broken Bound Platform](https://dev.to/brokenbound/stable-secure-and-efficient-the-core-role-of-usdb-on-the-broken-bound-platform-49e4)
+- [Scope vs. Context in JavaScript: Clearing Up the Confusion](https://dev.to/rahulvijayvergiya/scope-vs-context-in-javascript-clearing-up-the-confusion-1d9m)
 <!-- BLOG-POST-LIST:END -->
 
