@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Systems: The Backbone of Cohesive and Efficient Design](https://dev.to/shieldstring/design-systems-the-backbone-of-cohesive-and-efficient-design-1ojl)
-- [Mitigating disruption during Amazon EKS cluster upgrade with blue/green deployment](https://dev.to/haintkit/mitigating-disruption-during-amazon-eks-cluster-upgrade-with-bluegreen-deployments-5co)
-- [Which Database is Perfect for You? A Comprehensive Guide to MySQL, PostgreSQL, NoSQL, and More](https://dev.to/mmainulhasan/which-database-is-perfect-for-you-a-comprehensive-guide-to-mysql-postgresql-nosql-and-more-50jk)
-- [Laravel Timestamps – Automatic Handling of Created and Updated Dates](https://dev.to/n3rdnerd/laravel-timestamps-automatic-handling-of-created-and-updated-dates-530l)
+- [GPT-4o — Are We Being LIED To?](https://dev.to/safdarali/gpt-4o-are-we-being-lied-to-4h0d)
+- [Optimizing the API Lifecycle: A Complete Guide](https://dev.to/getambassador2024/optimizing-the-api-lifecycle-a-complete-guide-i4c)
+- [Reclaiming Simplicity: How Blazor Revolutionized My Coding World](https://dev.to/3a5abi/reclaiming-simplicity-how-blazor-revolutionized-my-coding-world-3fbb)
+- [Enhancing Performance in Your React Application](https://dev.to/msubhro/enhancing-performance-in-your-react-application-4pno)
 <!-- BLOG-POST-LIST:END -->
 
