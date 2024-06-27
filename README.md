@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What it’s like to put code in production](https://dev.to/shreyvijayvargiya/what-its-like-to-put-code-in-production-4m61)
-- [How set, get and delete URL Params using React](https://dev.to/rafaelborges26/how-set-and-get-url-params-using-react-21hl)
-- [Availability Sets vs Availability Zones](https://dev.to/dera2024/availability-sets-vs-availability-zones-2a4n)
-- [AZURE VIRTUAL MACHINE SCALE SET &lpar;VMSS&rpar;](https://dev.to/presh1/azure-virtual-machine-scale-set-vmss-2lo3)
+- [How To Install SQLite On Windows](https://dev.to/karim_abdallah/how-to-install-sqlite-on-windows-5aam)
+- [Frontend Technologies](https://dev.to/celine/frontend-technologies-511n)
+- [Exploring Svelte and Vue.js: A Newbie&#39;s Perspective on Modern Frontend Technologies.](https://dev.to/harbiehorla/exploring-svelte-and-vuejs-a-newbies-perspective-on-modern-frontend-technologies-1k20)
+- [Types Of Software Architecture](https://dev.to/oussama_bel/types-of-software-architecture-mkf)
 <!-- BLOG-POST-LIST:END -->
 
