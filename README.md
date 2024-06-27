@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 FREE Frontend Challenges](https://dev.to/bigsondev/100-free-frontend-challenges-3f0)
-- [Understanding APIs: 10 API Concepts and Examples](https://dev.to/latitude/understanding-apis-10-api-concepts-and-examples-23cn)
-- [-LocalStorage, Session, Cookies](https://dev.to/husniddin6939/-localstorage-session-cookies-3f3f)
-- [Mastering Cypher Queries in Apache AGE](https://dev.to/nim12/mastering-cypher-queries-in-apache-age-2kc8)
+- [What plugins do you dream of?](https://dev.to/buildwebcrumbs/what-plugins-do-you-dream-of-2cac)
+- [Frontend Technologies](https://dev.to/sardiusjay/frontend-technologies-2c27)
+- [Umbraco Helper Labels](https://dev.to/phil_93fe5acfd2fc42/umbraco-helper-labels-3okc)
+- [Practical usages of Idempotency](https://dev.to/woovi/practical-usages-of-idempotency-3926)
 <!-- BLOG-POST-LIST:END -->
 
