@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [程序员在企业中是如何做需求的](https://dev.to/javapub/cheng-xu-yuan-zai-qi-ye-zhong-shi-ru-he-zuo-xu-qiu-de-3g6a)
-- [How to Dynamically Assign Ports and Access Your Next.js App Across the Network](https://dev.to/xanderselorm/how-to-dynamically-assign-ports-and-access-your-nextjs-app-across-the-network-3p57)
-- [What happens when you Enter a URL in browser &amp; hit enter](https://dev.to/zeeshanali0704/what-happens-when-you-enter-a-url-in-browser-hit-enter-2i2a)
-- [VMSS CREATION AND CONNECTING.](https://dev.to/collins_uwa_1f4dc406f079c/vmss-creation-and-connecting-1g3f)
+- [ว่าด้วย Extension บน PostgreSQL](https://dev.to/iconnext/waadwy-extension-bn-postgresql-22pn)
+- [Top 10 der Programmiersprachen mit den besten Job-Aussichten](https://dev.to/emilia/top-10-der-programmiersprachen-mit-den-besten-job-aussichten-ap7)
+- [Optimizing Re-Rendering in React: Why It Matters and How to Do It](https://dev.to/vyan/optimizing-re-rendering-in-react-why-it-matters-and-how-to-do-it-1gob)
+- [Puppet Vs Trojan virus working principle.](https://dev.to/mibii/puppet-vs-trojan-virus-working-principle-2pcb)
 <!-- BLOG-POST-LIST:END -->
 
