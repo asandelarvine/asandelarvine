@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #126: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-126-explica-este-codigo-python-bc6)
-- [The Adventures of Blink #29: How to Unalive Your Company](https://dev.to/linkbenjamin/the-adventures-of-blink-29-how-to-unalive-your-company-11i9)
-- [Building Advanced Chatbots with MindsDB: A Comprehensive Guide](https://dev.to/visheshrwl/building-advanced-chatbots-with-mindsdb-a-comprehensive-guide-6fk)
-- [Learn CSS Positions: with Real Examples](https://dev.to/jitendrachoudhary/learn-css-positions-with-real-examples-4kbd)
+- [The root cause of “works on my machine”](https://dev.to/makky/the-root-cause-of-works-on-my-machine-2ec0)
+- [How to generate dynamic OG &lpar;OpenGraph&rpar; images with Satori and React](https://dev.to/woovi/how-to-generate-dynamic-og-opengraph-images-with-satori-and-react-1bhb)
+- [How to Improve AirPods Battery Life: Tips and Solutions](https://dev.to/marandagarner21/how-to-improve-airpods-battery-life-tips-and-solutions-4h07)
+- [How to Manage Terraform Locals](https://dev.to/env0/how-to-manage-terraform-locals-4onb)
 <!-- BLOG-POST-LIST:END -->
 
