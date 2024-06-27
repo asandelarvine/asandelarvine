@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Renovate for everything](https://dev.to/nfrankel/renovate-for-everything-1483)
-- [How to add “Save and add another” feature to Rails apps](https://dev.to/railsdesigner/how-to-add-save-and-add-another-feature-to-rails-apps-1ofa)
-- [What is Azure Bastion: An In-Depth Guide to Enhanced Connectivity](https://dev.to/dhruvil_joshi14/what-is-azure-bastion-an-in-depth-guide-to-enhanced-connectivity-2i27)
-- [Code Future Software Development Trends](https://dev.to/igor_ag_aaa2341e64b1f4cb4/code-future-software-development-8fp)
+- [Automating AWS Cost and Usage Report with CloudFormation](https://dev.to/felipe_de_godoy/automating-aws-cost-and-usage-report-with-cloudformation-1d3k)
+- [Why Beginners Should Start Writing Code in a Plain Text Editor](https://dev.to/md_shariarhaque_11695a3/why-beginners-should-start-writing-code-in-a-plain-text-editor-37h)
+- [C# pass delegate methods as arguments.](https://dev.to/emanuelgustafzon/c-pass-delegate-methods-as-arguments-10ap)
+- [How the Page Visibility API Improves Web Performance and User Experience](https://dev.to/sachinchaurasiya/how-the-page-visibility-api-improves-web-performance-and-user-experience-1gnh)
 <!-- BLOG-POST-LIST:END -->
 
