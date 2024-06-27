@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH Tunneling: Essential Guide](https://dev.to/dbvismarketing/ssh-tunneling-essential-guide-lbp)
-- [GBase 8a Implementation Guide: Application Development Optimization](https://dev.to/congcong/gbase-8a-implementation-guide-application-development-optimization-1epd)
-- [Stable, Secure, and Efficient: The Core Role of USDB on the Broken Bound Platform](https://dev.to/brokenbound/stable-secure-and-efficient-the-core-role-of-usdb-on-the-broken-bound-platform-49e4)
-- [Scope vs. Context in JavaScript: Clearing Up the Confusion](https://dev.to/rahulvijayvergiya/scope-vs-context-in-javascript-clearing-up-the-confusion-1d9m)
+- [Seeking Guidance on Advancing My Career as a Web Developer](https://dev.to/jay818/seeking-guidance-on-advancing-my-career-as-a-web-developer-55gj)
+- [Metis Enables your teams to own their databases with ease](https://dev.to/metis/metis-enables-your-teams-to-own-their-databases-with-ease-30f0)
+- [Understanding Phone Lookup APIs](https://dev.to/sameeranthony/understanding-phone-lookup-apis-4j65)
+- [PowerShell Development in Neovim](https://dev.to/kas_m/powershell-development-in-neovim-4e9)
 <!-- BLOG-POST-LIST:END -->
 
