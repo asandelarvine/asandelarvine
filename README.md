@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The root cause of “works on my machine”](https://dev.to/makky/the-root-cause-of-works-on-my-machine-2ec0)
-- [How to generate dynamic OG &lpar;OpenGraph&rpar; images with Satori and React](https://dev.to/woovi/how-to-generate-dynamic-og-opengraph-images-with-satori-and-react-1bhb)
-- [How to Improve AirPods Battery Life: Tips and Solutions](https://dev.to/marandagarner21/how-to-improve-airpods-battery-life-tips-and-solutions-4h07)
-- [How to Manage Terraform Locals](https://dev.to/env0/how-to-manage-terraform-locals-4onb)
+- [100 FREE Frontend Challenges](https://dev.to/bigsondev/100-free-frontend-challenges-3f0)
+- [Understanding APIs: 10 API Concepts and Examples](https://dev.to/latitude/understanding-apis-10-api-concepts-and-examples-23cn)
+- [-LocalStorage, Session, Cookies](https://dev.to/husniddin6939/-localstorage-session-cookies-3f3f)
+- [Mastering Cypher Queries in Apache AGE](https://dev.to/nim12/mastering-cypher-queries-in-apache-age-2kc8)
 <!-- BLOG-POST-LIST:END -->
 
