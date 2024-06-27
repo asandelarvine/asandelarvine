@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Vitor Ayres, a Tauri Maintainer](https://dev.to/crabnebula/interview-with-vitor-ayres-a-tauri-maintainer-c7l)
-- [TextField](https://dev.to/paulike/textfield-4jgh)
-- [Jornada para se tornar um tech lead](https://dev.to/rscholant/jornada-para-se-tornar-um-tech-lead-2b8k)
-- [Jornada para se tornar um tech lead](https://dev.to/rscholant/jornada-para-se-tornar-um-tech-lead-1m6j)
+- [Connecting the Dots: Evaluating Abstract Reasoning Capabilities of LLMs Using the New York Times Connections Word Game](https://dev.to/mikeyoung44/connecting-the-dots-evaluating-abstract-reasoning-capabilities-of-llms-using-the-new-york-times-connections-word-game-5hai)
+- [Be Here Now by Ram Dass A Spiritual Journey from Psychedelics to Self-Discovery](https://dev.to/eric_dequ/be-here-now-by-ram-dass-a-spiritual-journey-from-psychedelics-to-self-discovery-1me0)
+- [Generate Q&amp;A from Wikipedia Pages with Pydantic, Instructor, and Phi-3 LLM](https://dev.to/francescoagati/generate-qa-from-wikipedia-pages-with-pydantic-instructor-and-phi-3-llm-o0i)
+- [Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://dev.to/mikeyoung44/emergent-world-representations-exploring-a-sequence-model-trained-on-a-synthetic-task-2ec6)
 <!-- BLOG-POST-LIST:END -->
 
