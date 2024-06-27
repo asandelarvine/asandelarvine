@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting the Dots: Evaluating Abstract Reasoning Capabilities of LLMs Using the New York Times Connections Word Game](https://dev.to/mikeyoung44/connecting-the-dots-evaluating-abstract-reasoning-capabilities-of-llms-using-the-new-york-times-connections-word-game-5hai)
-- [Be Here Now by Ram Dass A Spiritual Journey from Psychedelics to Self-Discovery](https://dev.to/eric_dequ/be-here-now-by-ram-dass-a-spiritual-journey-from-psychedelics-to-self-discovery-1me0)
-- [Generate Q&amp;A from Wikipedia Pages with Pydantic, Instructor, and Phi-3 LLM](https://dev.to/francescoagati/generate-qa-from-wikipedia-pages-with-pydantic-instructor-and-phi-3-llm-o0i)
-- [Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://dev.to/mikeyoung44/emergent-world-representations-exploring-a-sequence-model-trained-on-a-synthetic-task-2ec6)
+- [What it’s like to put code in production](https://dev.to/shreyvijayvargiya/what-its-like-to-put-code-in-production-4m61)
+- [How set, get and delete URL Params using React](https://dev.to/rafaelborges26/how-set-and-get-url-params-using-react-21hl)
+- [Availability Sets vs Availability Zones](https://dev.to/dera2024/availability-sets-vs-availability-zones-2a4n)
+- [AZURE VIRTUAL MACHINE SCALE SET &lpar;VMSS&rpar;](https://dev.to/presh1/azure-virtual-machine-scale-set-vmss-2lo3)
 <!-- BLOG-POST-LIST:END -->
 
