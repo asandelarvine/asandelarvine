@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ว่าด้วย Extension บน PostgreSQL](https://dev.to/iconnext/waadwy-extension-bn-postgresql-22pn)
-- [Top 10 der Programmiersprachen mit den besten Job-Aussichten](https://dev.to/emilia/top-10-der-programmiersprachen-mit-den-besten-job-aussichten-ap7)
-- [Optimizing Re-Rendering in React: Why It Matters and How to Do It](https://dev.to/vyan/optimizing-re-rendering-in-react-why-it-matters-and-how-to-do-it-1gob)
-- [Puppet Vs Trojan virus working principle.](https://dev.to/mibii/puppet-vs-trojan-virus-working-principle-2pcb)
+- [AWS S3 Bucket Website Hosting using Terraform](https://dev.to/camillehe1992/aws-s3-bucket-website-hosting-using-terraform-4fk5)
+- [Laravel Telescope – Insightful Debugging and Profiling](https://dev.to/n3rdnerd/laravel-telescope-insightful-debugging-and-profiling-5alo)
+- [Maximum Likelihood Estimation with Logistic Regression](https://dev.to/harsimranjit_singh_0133dc/maximum-likelihood-estimation-with-logistic-regression-2g3n)
+- [What is AMP &lpar;Amplified Mobile Pages&rpar;](https://dev.to/chidera_kanu/what-is-amp-amplified-mobile-pages-3i82)
 <!-- BLOG-POST-LIST:END -->
 
