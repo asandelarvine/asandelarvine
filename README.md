@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Education: How AI Will Transform Personalized Learning](https://dev.to/techdogs_inc/ai-powered-education-how-ai-will-transform-personalized-learning-5cbm)
-- [Seeking Career Advice: Balancing Backend Web Development and Data Analytics as a Recent Software Engineering Graduat](https://dev.to/necaak_01/seeking-career-advice-balancing-backend-web-development-and-data-analytics-as-a-recent-software-engineering-graduat-1313)
-- [Understanding MicroPython: Python for Small Devices](https://dev.to/richardshaju/understanding-micropython-python-for-small-devices-1i0)
-- [DORA is More Than DORA](https://dev.to/peteking/dora-is-more-than-dora-22ic)
+- [Deployments and Replica Sets in Kubernetes](https://dev.to/jensen1806/deployments-and-replica-sets-in-kubernetes-3ef5)
+- [Set requires_grad with requires_grad argument functions and get it in PyTorch](https://dev.to/hyperkai/set-requiresgrad-with-requiresgrad-argument-functions-and-get-it-in-pytorch-39c3)
+- [Balancing Side Projects with Full-Time Development Work](https://dev.to/bingecoder89/balancing-side-projects-with-full-time-development-work-13gc)
+- [-Events, Events Object, Window Elemnts, ClassList](https://dev.to/husniddin6939/-events-events-object-window-elemnts-classlist-ke5)
 <!-- BLOG-POST-LIST:END -->
 
