@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beer CSS: The Secret Weapon for Material Design 3 UIs](https://dev.to/leonardorafael/beer-css-the-secret-weapon-for-material-design-3-uis-53i3)
-- [Design Patterns](https://dev.to/oigorrudel/design-patterns-agb)
-- [Don&#39;t write npx prisma generate command](https://dev.to/ashsajal/dont-write-npx-prisma-generate-command-42i6)
-- [Showing progress for page transitions in Next.js](https://dev.to/logrocket/showing-progress-for-page-transitions-in-nextjs-878)
+- [AI-Powered Education: How AI Will Transform Personalized Learning](https://dev.to/techdogs_inc/ai-powered-education-how-ai-will-transform-personalized-learning-5cbm)
+- [Seeking Career Advice: Balancing Backend Web Development and Data Analytics as a Recent Software Engineering Graduat](https://dev.to/necaak_01/seeking-career-advice-balancing-backend-web-development-and-data-analytics-as-a-recent-software-engineering-graduat-1313)
+- [Understanding MicroPython: Python for Small Devices](https://dev.to/richardshaju/understanding-micropython-python-for-small-devices-1i0)
+- [DORA is More Than DORA](https://dev.to/peteking/dora-is-more-than-dora-22ic)
 <!-- BLOG-POST-LIST:END -->
 
