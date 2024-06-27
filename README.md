@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deployments and Replica Sets in Kubernetes](https://dev.to/jensen1806/deployments-and-replica-sets-in-kubernetes-3ef5)
-- [Set requires_grad with requires_grad argument functions and get it in PyTorch](https://dev.to/hyperkai/set-requiresgrad-with-requiresgrad-argument-functions-and-get-it-in-pytorch-39c3)
-- [Balancing Side Projects with Full-Time Development Work](https://dev.to/bingecoder89/balancing-side-projects-with-full-time-development-work-13gc)
-- [-Events, Events Object, Window Elemnts, ClassList](https://dev.to/husniddin6939/-events-events-object-window-elemnts-classlist-ke5)
+- [Interview with Vitor Ayres, a Tauri Maintainer](https://dev.to/crabnebula/interview-with-vitor-ayres-a-tauri-maintainer-c7l)
+- [TextField](https://dev.to/paulike/textfield-4jgh)
+- [Jornada para se tornar um tech lead](https://dev.to/rscholant/jornada-para-se-tornar-um-tech-lead-2b8k)
+- [Jornada para se tornar um tech lead](https://dev.to/rscholant/jornada-para-se-tornar-um-tech-lead-1m6j)
 <!-- BLOG-POST-LIST:END -->
 
