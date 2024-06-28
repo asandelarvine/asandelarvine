@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Magento 2 GraphQL](https://dev.to/maulik2900/magento-2-graphql-3hl2)
-- [Working with Nodemon in Node.js projects](https://dev.to/ashade_samson/working-with-nodemon-in-nodejs-projects-54ci)
-- [TanStack Table Explained: Everything You Need to Know](https://dev.to/arnabsahawrk/tanstack-table-explained-everything-you-need-to-know-16g9)
-- [Quality Assurance Best Practices for Government Contract Performance](https://dev.to/quantumcybersolution/quality-assurance-best-practices-for-government-contract-performance-h71)
+- [My Wins of the Week! 🥈🏆🏝️](https://dev.to/anitaolsen/my-wins-of-the-week-2l4b)
+- [The Contracting Officer Representatives Role in Contract Management](https://dev.to/quantumcybersolution/the-contracting-officer-representatives-role-in-contract-management-2icj)
+- [DIY Lava Lamp Exploring Liquid Density and Immiscibility](https://dev.to/eric_dequ/diy-lava-lamp-exploring-liquid-density-and-immiscibility-12ch)
+- [How to use guardrail to protect PII information with AWS Bedrock Converse API, Lambda and Python! - Anthropic Haiku](https://dev.to/bhatiagirish/how-to-use-guardrail-to-protect-pii-information-with-aws-bedrock-converse-api-lambda-and-python-anthropic-haiku-1323)
 <!-- BLOG-POST-LIST:END -->
 
