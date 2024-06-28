@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [amber: writing bash scripts in amber instead. pt. 3: the standard library](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-3-the-standard-library-53e8)
-- [The Importance of Ethics Training for Employees Working on Government Contracts](https://dev.to/quantumcybersolution/the-importance-of-ethics-training-for-employees-working-on-government-contracts-5cj2)
-- [How To Build RESTful APIs With ASP.NET Core 8](https://dev.to/wirefuture/how-to-build-restful-apis-with-aspnet-core-8-j5)
-- [Quantum Algorithms for Logistics Optimization A Technical Deep Dive](https://dev.to/eric_dequ/quantum-algorithms-for-logistics-optimization-a-technical-deep-dive-o39)
+- [Matlab](https://dev.to/eric_dequ/matlab-1e1c)
+- [Turning Adobe Illustrator Into A People Generator &lpar;aka, A Dress Up Doll Maker&rpar;](https://dev.to/kocreative/turning-adobe-illustrator-into-a-people-generator-aka-a-dress-up-doll-maker-29j1)
+- [How to Use Augmented Reality for Construction Site Inspections](https://dev.to/quantumcybersolution/how-to-use-augmented-reality-for-construction-site-inspections-2fm7)
+- [Understanding the Defense Federal Acquisition Regulation Supplement DFARS](https://dev.to/quantumcybersolution/understanding-the-defense-federal-acquisition-regulation-supplement-dfars-1pja)
 <!-- BLOG-POST-LIST:END -->
 
