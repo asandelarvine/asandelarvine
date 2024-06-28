@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Construction Collaboration Virtual and Augmented Reality Tools](https://dev.to/quantumcybersolution/the-future-of-construction-collaboration-virtual-and-augmented-reality-tools-13m1)
-- [React 19: Exploring the Exciting New Features](https://dev.to/asar109/react-19-exploring-the-exciting-new-features-21m0)
-- [How to Read People and Understand Body Language](https://dev.to/eric_dequ/how-to-read-people-and-understand-body-language-167h)
-- [Weekly Updates - June 28, 2024](https://dev.to/couchbase/weekly-updates-june-28-2024-26j8)
+- [The Future of Construction Labor Embracing Automation and AI](https://dev.to/quantumcybersolution/the-future-of-construction-labor-embracing-automation-and-ai-311i)
+- [Bootstrap vs Tailwind](https://dev.to/ugochukwu_nebolisa_99efd3/bootstrap-vs-tailwind-4paf)
+- [Security news weekly round-up - 28th June 2024](https://dev.to/ziizium/security-news-weekly-round-up-28th-june-2024-2487)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.2](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-22-4bc0)
 <!-- BLOG-POST-LIST:END -->
 
