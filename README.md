@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Winning Strategies for Blackjack](https://dev.to/eric_dequ/winning-strategies-for-blackjack-5fig)
-- [Effective Program Management Techniques for Government Contracts](https://dev.to/quantumcybersolution/effective-program-management-techniques-for-government-contracts-1g4f)
-- [The case against comments](https://dev.to/stackoverfloweth/the-case-against-comments-4kne)
-- [Transforming Dried Mushrooms into Liquid Culture A Modern Approach](https://dev.to/eric_dequ/transforming-dried-mushrooms-into-liquid-culture-a-modern-approach-46pl)
+- [Implementing Earned Value Management EVM in Government Projects](https://dev.to/quantumcybersolution/implementing-earned-value-management-evm-in-government-projects-4gh6)
+- [Protect Your Website from XSS Attacks](https://dev.to/eric_dequ/protect-your-website-from-xss-attacks-2fpo)
+- [How Artificial Intelligence is Improving Construction Site Security](https://dev.to/quantumcybersolution/how-artificial-intelligence-is-improving-construction-site-security-ijk)
+- [Implementing Continuous Improvement Practices in Government Contracting](https://dev.to/quantumcybersolution/implementing-continuous-improvement-practices-in-government-contracting-bff)
 <!-- BLOG-POST-LIST:END -->
 
