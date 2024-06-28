@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #127: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-127-explica-este-codigo-python-9o)
-- [Ibuprofeno.py💊| #128: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-128-explica-este-codigo-python-5c8a)
-- [Redes: TCP - Entendendo o Protocolo de Controle de Transmissão](https://dev.to/iamthiago/redes-tcp-entendendo-o-protocolo-de-controle-de-transmissao-4e50)
-- [The Shift In Tech](https://dev.to/divine-ikechukwu/the-shift-in-tech-2c4k)
+- [This Week In React #190: Suspense, Internals Explorer, DevTools, RSC + Vite, Codemod, Astro, INP, composition, Reassure...](https://dev.to/sebastienlorber/this-week-in-react-190-suspense-internals-explorer-devtools-rsc-vite-codemod-astro-inp-composition-reassure-352h)
+- [Design Pattern #4 - Publisher/Subscriber Pattern](https://dev.to/superviz/design-pattern-4-publishersubscriber-pattern-4jg9)
+- [Validando input file e select com Yup](https://dev.to/jardelima/validando-input-file-e-select-com-yup-1k03)
+- [React vs. Svelte: A Quick Comparison of Frontend Technologies](https://dev.to/monyasau/react-vs-svelte-a-quick-comparison-of-frontend-technologies-3l5p)
 <!-- BLOG-POST-LIST:END -->
 
