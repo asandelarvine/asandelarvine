@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrology and Quantum Entanglement Unveiling the Cosmic Dance](https://dev.to/eric_dequ/astrology-and-quantum-entanglement-unveiling-the-cosmic-dance-74g)
-- [Protecting User Data: Encryption and Secure Storage in Frontend](https://dev.to/outstandingvick/protecting-user-data-encryption-and-secure-storage-in-frontend-53ak)
-- [Unacceptable Lobster](https://dev.to/myrojyn/unacceptable-lobster-5afd)
-- [Unlocking Government Contract Opportunities with the SAMgov API](https://dev.to/quantumcybersolution/unlocking-government-contract-opportunities-with-the-samgov-api-1bm9)
+- [Mastering Frontend Performance: Harnessing the Power of Caching](https://dev.to/alankrita1998/mastering-frontend-performance-harnessing-the-power-of-caching-2l6a)
+- [Honeywell Quantum Solutions Advancing Ion Trap Quantum Computing](https://dev.to/quantumcybersolution/honeywell-quantum-solutions-advancing-ion-trap-quantum-computing-3idi)
+- [Overview of the Retail Sales Kaggle Dataset](https://dev.to/paulinebanye/overview-of-the-retail-sales-kaggle-dataset-51e6)
+- [Using AI-Generated Alt Text for Better Search Ranking](https://dev.to/divine-ikechukwu/using-ai-generated-alt-text-for-better-search-ranking-3j1n)
 <!-- BLOG-POST-LIST:END -->
 
