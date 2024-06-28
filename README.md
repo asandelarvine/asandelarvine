@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing the Benefits of the Women-Owned Small Business WOSB Program](https://dev.to/quantumcybersolution/maximizing-the-benefits-of-the-women-owned-small-business-wosb-program-5cb5)
-- [How Digital Twins are Revolutionizing Construction Project Management](https://dev.to/quantumcybersolution/how-digital-twins-are-revolutionizing-construction-project-management-1oph)
-- [Mastering Your DCAA Audit Preparation](https://dev.to/quantumcybersolution/mastering-your-dcaa-audit-preparation-1lom)
-- [Modafinil The Smart Drug for Enhanced Cognitive Performance](https://dev.to/eric_dequ/modafinil-the-smart-drug-for-enhanced-cognitive-performance-8po)
+- [Worldwide Cybersecurity market summary Q1 2024](https://dev.to/attaullahshafiq10/worldwide-cybersecurity-market-summary-q1-2024-ael)
+- [Top 10 Things You Should Take Care During Angular Web Development](https://dev.to/dhruvjoshi9/top-10-things-you-should-take-care-during-angular-web-development-53cb)
+- [John Dee](https://dev.to/eric_dequ/john-dee-53nl)
+- [Navigating the Complexities of Government Contract Pricing](https://dev.to/quantumcybersolution/navigating-the-complexities-of-government-contract-pricing-2ham)
 <!-- BLOG-POST-LIST:END -->
 
