@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Worldwide Cybersecurity market summary Q1 2024](https://dev.to/attaullahshafiq10/worldwide-cybersecurity-market-summary-q1-2024-ael)
-- [Top 10 Things You Should Take Care During Angular Web Development](https://dev.to/dhruvjoshi9/top-10-things-you-should-take-care-during-angular-web-development-53cb)
-- [John Dee](https://dev.to/eric_dequ/john-dee-53nl)
-- [Navigating the Complexities of Government Contract Pricing](https://dev.to/quantumcybersolution/navigating-the-complexities-of-government-contract-pricing-2ham)
+- [The Influence of Nature on Design: From Evolutionary Lessons to Practical Applications](https://dev.to/frtechy/the-influence-of-nature-on-design-from-evolutionary-lessons-to-practical-applications-4141)
+- [How Technology is Transforming Construction Site Logistics](https://dev.to/quantumcybersolution/how-technology-is-transforming-construction-site-logistics-3957)
+- [DIY Summer Dinghy Project Build Your Own Floating Deck](https://dev.to/eric_dequ/diy-summer-dinghy-project-build-your-own-floating-deck-2bke)
+- [Regression Testing: Ensuring Stability and Reliability in Software Development](https://dev.to/keploy/regression-testing-ensuring-stability-and-reliability-in-software-development-1228)
 <!-- BLOG-POST-LIST:END -->
 
