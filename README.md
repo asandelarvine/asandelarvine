@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #190: Suspense, Internals Explorer, DevTools, RSC + Vite, Codemod, Astro, INP, composition, Reassure...](https://dev.to/sebastienlorber/this-week-in-react-190-suspense-internals-explorer-devtools-rsc-vite-codemod-astro-inp-composition-reassure-352h)
-- [Design Pattern #4 - Publisher/Subscriber Pattern](https://dev.to/superviz/design-pattern-4-publishersubscriber-pattern-4jg9)
-- [Validando input file e select com Yup](https://dev.to/jardelima/validando-input-file-e-select-com-yup-1k03)
-- [React vs. Svelte: A Quick Comparison of Frontend Technologies](https://dev.to/monyasau/react-vs-svelte-a-quick-comparison-of-frontend-technologies-3l5p)
+- [Magento 2 GraphQL](https://dev.to/maulik2900/magento-2-graphql-3hl2)
+- [Working with Nodemon in Node.js projects](https://dev.to/ashade_samson/working-with-nodemon-in-nodejs-projects-54ci)
+- [TanStack Table Explained: Everything You Need to Know](https://dev.to/arnabsahawrk/tanstack-table-explained-everything-you-need-to-know-16g9)
+- [Quality Assurance Best Practices for Government Contract Performance](https://dev.to/quantumcybersolution/quality-assurance-best-practices-for-government-contract-performance-h71)
 <!-- BLOG-POST-LIST:END -->
 
