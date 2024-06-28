@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wins of the Week! 🥈🏆🏝️](https://dev.to/anitaolsen/my-wins-of-the-week-2l4b)
-- [The Contracting Officer Representatives Role in Contract Management](https://dev.to/quantumcybersolution/the-contracting-officer-representatives-role-in-contract-management-2icj)
-- [DIY Lava Lamp Exploring Liquid Density and Immiscibility](https://dev.to/eric_dequ/diy-lava-lamp-exploring-liquid-density-and-immiscibility-12ch)
-- [How to use guardrail to protect PII information with AWS Bedrock Converse API, Lambda and Python! - Anthropic Haiku](https://dev.to/bhatiagirish/how-to-use-guardrail-to-protect-pii-information-with-aws-bedrock-converse-api-lambda-and-python-anthropic-haiku-1323)
+- [amber: writing bash scripts in amber instead. pt. 3: the standard library](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-3-the-standard-library-53e8)
+- [The Importance of Ethics Training for Employees Working on Government Contracts](https://dev.to/quantumcybersolution/the-importance-of-ethics-training-for-employees-working-on-government-contracts-5cj2)
+- [How To Build RESTful APIs With ASP.NET Core 8](https://dev.to/wirefuture/how-to-build-restful-apis-with-aspnet-core-8-j5)
+- [Quantum Algorithms for Logistics Optimization A Technical Deep Dive](https://dev.to/eric_dequ/quantum-algorithms-for-logistics-optimization-a-technical-deep-dive-o39)
 <!-- BLOG-POST-LIST:END -->
 
