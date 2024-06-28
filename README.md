@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Technology for Contract Performance Monitoring](https://dev.to/quantumcybersolution/leveraging-technology-for-contract-performance-monitoring-dgk)
-- [Github as Helm repository](https://dev.to/boris/github-as-helm-repository-1lcf)
-- [Difference between CommonJS and ESM modules](https://dev.to/vinay_madan/difference-between-commonjs-and-esm-modules-4pff)
-- [Probiotics and Prebiotics Unleashing the Power of Gut Health for Mental Well-being](https://dev.to/eric_dequ/probiotics-and-prebiotics-unleashing-the-power-of-gut-health-for-mental-well-being-16mi)
+- [Maximizing the Benefits of the Women-Owned Small Business WOSB Program](https://dev.to/quantumcybersolution/maximizing-the-benefits-of-the-women-owned-small-business-wosb-program-5cb5)
+- [How Digital Twins are Revolutionizing Construction Project Management](https://dev.to/quantumcybersolution/how-digital-twins-are-revolutionizing-construction-project-management-1oph)
+- [Mastering Your DCAA Audit Preparation](https://dev.to/quantumcybersolution/mastering-your-dcaa-audit-preparation-1lom)
+- [Modafinil The Smart Drug for Enhanced Cognitive Performance](https://dev.to/eric_dequ/modafinil-the-smart-drug-for-enhanced-cognitive-performance-8po)
 <!-- BLOG-POST-LIST:END -->
 
