@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye, Singleton! Should We Implement this in Flutter?](https://dev.to/tentanganak/goodbye-singleton-should-we-implement-this-in-flutter-4gf4)
-- [How to Make React Applications SEO Friendly?](https://dev.to/wirefuture/how-to-make-react-applications-seo-friendly-23lo)
-- [Building a Scalable Authentication System: My Journey and Insights](https://dev.to/adewunmioladele/building-a-scalable-authentication-system-my-journey-and-insights-131k)
-- [The 5 Myths of QA](https://dev.to/martinbaun/the-5-myths-of-qa-1m7j)
+- [How to share tailwind configuration between nuxt layers](https://dev.to/leamsigc/how-to-share-tailwind-configuration-between-nuxt-layers-1gk5)
+- [Observability - Why logging its important](https://dev.to/tentanganak/observability-why-logging-its-important-104b)
+- [Next.js Vs React.Js: What you need to know](https://dev.to/mikeya-yo/nextjs-vs-reactjs-what-you-need-to-know-319k)
+- [Ruby on Rails](https://dev.to/m_hussain/ruby-on-rails-57cb)
 <!-- BLOG-POST-LIST:END -->
 
