@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Frontend Performance: Harnessing the Power of Caching](https://dev.to/alankrita1998/mastering-frontend-performance-harnessing-the-power-of-caching-2l6a)
-- [Honeywell Quantum Solutions Advancing Ion Trap Quantum Computing](https://dev.to/quantumcybersolution/honeywell-quantum-solutions-advancing-ion-trap-quantum-computing-3idi)
-- [Overview of the Retail Sales Kaggle Dataset](https://dev.to/paulinebanye/overview-of-the-retail-sales-kaggle-dataset-51e6)
-- [Using AI-Generated Alt Text for Better Search Ranking](https://dev.to/divine-ikechukwu/using-ai-generated-alt-text-for-better-search-ranking-3j1n)
+- [Safely Upgrading our Open Source Dependencies at Scale](https://dev.to/tylerjang27/safely-upgrading-our-open-source-dependencies-at-scale-1ha3)
+- [Revolutionizing Safety How Robotics are Transforming Demolition and Hazardous Material Handling](https://dev.to/quantumcybersolution/revolutionizing-safety-how-robotics-are-transforming-demolition-and-hazardous-material-handling-e1o)
+- [Quantum Teleportation and Entanglement Bridging Space with Quantum Information](https://dev.to/eric_dequ/quantum-teleportation-and-entanglement-bridging-space-with-quantum-information-3pda)
+- [What&#39;s the Next Step After CSS? Exploring Sass, Bootstrap, and Tailwind CSS](https://dev.to/faith_dev_/whats-the-next-step-after-css-exploring-sass-bootstrap-and-tailwind-css-5c5g)
 <!-- BLOG-POST-LIST:END -->
 
