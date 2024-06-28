@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [THE DIFFERENT BETWEEN LIBRARY AND FRAMEWORK AND NOT USING BOTH WITH REAL LIFE  ILLUSTRATIONS](https://dev.to/abdulsalamamtech/the-different-between-library-and-framework-and-not-using-both-with-real-life-illustrations-48o4)
-- [How to Filter Image Uploads using PixLab NSFW API &amp; Next.js](https://dev.to/envitab/how-to-filter-image-uploads-using-pixlab-nsfw-api-nextjs-2ldf)
-- [Securing the Power Grid The Case for Localized Renewable Infrastructure](https://dev.to/eric_dequ/securing-the-power-grid-the-case-for-localized-renewable-infrastructure-hob)
-- [REDTEAM Embracing Adversarial Tactics for Ironclad Security](https://dev.to/eric_dequ/redteam-embracing-adversarial-tactics-for-ironclad-security-1nmk)
+- [Winning Strategies for Blackjack](https://dev.to/eric_dequ/winning-strategies-for-blackjack-5fig)
+- [Effective Program Management Techniques for Government Contracts](https://dev.to/quantumcybersolution/effective-program-management-techniques-for-government-contracts-1g4f)
+- [The case against comments](https://dev.to/stackoverfloweth/the-case-against-comments-4kne)
+- [Transforming Dried Mushrooms into Liquid Culture A Modern Approach](https://dev.to/eric_dequ/transforming-dried-mushrooms-into-liquid-culture-a-modern-approach-46pl)
 <!-- BLOG-POST-LIST:END -->
 
