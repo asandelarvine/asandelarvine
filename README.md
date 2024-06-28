@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to share tailwind configuration between nuxt layers](https://dev.to/leamsigc/how-to-share-tailwind-configuration-between-nuxt-layers-1gk5)
-- [Observability - Why logging its important](https://dev.to/tentanganak/observability-why-logging-its-important-104b)
-- [Next.js Vs React.Js: What you need to know](https://dev.to/mikeya-yo/nextjs-vs-reactjs-what-you-need-to-know-319k)
-- [Ruby on Rails](https://dev.to/m_hussain/ruby-on-rails-57cb)
+- [Ibuprofeno.py💊| #127: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-127-explica-este-codigo-python-9o)
+- [Ibuprofeno.py💊| #128: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-128-explica-este-codigo-python-5c8a)
+- [Redes: TCP - Entendendo o Protocolo de Controle de Transmissão](https://dev.to/iamthiago/redes-tcp-entendendo-o-protocolo-de-controle-de-transmissao-4e50)
+- [The Shift In Tech](https://dev.to/divine-ikechukwu/the-shift-in-tech-2c4k)
 <!-- BLOG-POST-LIST:END -->
 
