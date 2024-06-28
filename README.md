@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Construction Labor Embracing Automation and AI](https://dev.to/quantumcybersolution/the-future-of-construction-labor-embracing-automation-and-ai-311i)
-- [Bootstrap vs Tailwind](https://dev.to/ugochukwu_nebolisa_99efd3/bootstrap-vs-tailwind-4paf)
-- [Security news weekly round-up - 28th June 2024](https://dev.to/ziizium/security-news-weekly-round-up-28th-june-2024-2487)
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.2](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-22-4bc0)
+- [Solving a Complex Backend Challenge: Integrating OpenAI and Termii for Multilingual SMS Delivery](https://dev.to/dhamolahedonist/solving-a-complex-backend-challenge-integrating-openai-and-termii-for-multilingual-sms-delivery-5fmd)
+- [The Future of Construction Workforce Embracing Automation and Technology](https://dev.to/quantumcybersolution/the-future-of-construction-workforce-embracing-automation-and-technology-3kl3)
+- [Challenges and Opportunities in Developing Space-Based Transportation Systems for Cargo and Personnel](https://dev.to/quantumcybersolution/challenges-and-opportunities-in-developing-space-based-transportation-systems-for-cargo-and-personnel-19bp)
+- [LeetCode Meditations: Climbing Stairs](https://dev.to/rivea0/leetcode-meditations-climbing-stairs-52ko)
 <!-- BLOG-POST-LIST:END -->
 
