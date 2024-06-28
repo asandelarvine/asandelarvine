@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Team Alignment &amp; Its Value to My Organization?](https://dev.to/jhonharry65/what-is-team-alignment-its-value-to-my-organization-2h48)
-- [Nitro Card, Why AWS is best!](https://dev.to/choonho/nitro-card-why-aws-is-best-46ph)
-- [What Makes AngularJS Developers Essential for Modern Web Application Management?](https://dev.to/hirelaraveldevelopers/what-makes-angularjs-developers-essential-for-modern-web-application-management-13h8)
-- [Will AI Replace Programmers?](https://dev.to/devot/will-ai-replace-programmers-1634)
+- [Goodbye, Singleton! Should We Implement this in Flutter?](https://dev.to/tentanganak/goodbye-singleton-should-we-implement-this-in-flutter-4gf4)
+- [How to Make React Applications SEO Friendly?](https://dev.to/wirefuture/how-to-make-react-applications-seo-friendly-23lo)
+- [Building a Scalable Authentication System: My Journey and Insights](https://dev.to/adewunmioladele/building-a-scalable-authentication-system-my-journey-and-insights-131k)
+- [The 5 Myths of QA](https://dev.to/martinbaun/the-5-myths-of-qa-1m7j)
 <!-- BLOG-POST-LIST:END -->
 
