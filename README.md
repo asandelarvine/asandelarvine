@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Safely Upgrading our Open Source Dependencies at Scale](https://dev.to/tylerjang27/safely-upgrading-our-open-source-dependencies-at-scale-1ha3)
-- [Revolutionizing Safety How Robotics are Transforming Demolition and Hazardous Material Handling](https://dev.to/quantumcybersolution/revolutionizing-safety-how-robotics-are-transforming-demolition-and-hazardous-material-handling-e1o)
-- [Quantum Teleportation and Entanglement Bridging Space with Quantum Information](https://dev.to/eric_dequ/quantum-teleportation-and-entanglement-bridging-space-with-quantum-information-3pda)
-- [What&#39;s the Next Step After CSS? Exploring Sass, Bootstrap, and Tailwind CSS](https://dev.to/faith_dev_/whats-the-next-step-after-css-exploring-sass-bootstrap-and-tailwind-css-5c5g)
+- [The Future of Construction Collaboration Virtual and Augmented Reality Tools](https://dev.to/quantumcybersolution/the-future-of-construction-collaboration-virtual-and-augmented-reality-tools-13m1)
+- [React 19: Exploring the Exciting New Features](https://dev.to/asar109/react-19-exploring-the-exciting-new-features-21m0)
+- [How to Read People and Understand Body Language](https://dev.to/eric_dequ/how-to-read-people-and-understand-body-language-167h)
+- [Weekly Updates - June 28, 2024](https://dev.to/couchbase/weekly-updates-june-28-2024-26j8)
 <!-- BLOG-POST-LIST:END -->
 
