@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Influence of Nature on Design: From Evolutionary Lessons to Practical Applications](https://dev.to/frtechy/the-influence-of-nature-on-design-from-evolutionary-lessons-to-practical-applications-4141)
-- [How Technology is Transforming Construction Site Logistics](https://dev.to/quantumcybersolution/how-technology-is-transforming-construction-site-logistics-3957)
-- [DIY Summer Dinghy Project Build Your Own Floating Deck](https://dev.to/eric_dequ/diy-summer-dinghy-project-build-your-own-floating-deck-2bke)
-- [Regression Testing: Ensuring Stability and Reliability in Software Development](https://dev.to/keploy/regression-testing-ensuring-stability-and-reliability-in-software-development-1228)
+- [WebRTC vs WebSocket: Key Differences and Which to Use](https://dev.to/stephen568hub/webrtc-vs-websocket-key-differences-and-which-to-use-20bi)
+- [Tutorial Laravel 11 Auth con Bootstrap](https://dev.to/syngrowly/tutorial-laravel-11-auth-con-bootstrap-56n1)
+- [What is this weird CSS Syntax?](https://dev.to/seths10/what-is-this-weird-css-syntax-44ki)
+- [Wie kann man Python Scraper mit Selenium erstellen?](https://dev.to/emilia/wie-kann-man-python-scraper-mit-selenium-erstellen-24nd)
 <!-- BLOG-POST-LIST:END -->
 
