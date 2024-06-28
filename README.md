@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Matlab](https://dev.to/eric_dequ/matlab-1e1c)
-- [Turning Adobe Illustrator Into A People Generator &lpar;aka, A Dress Up Doll Maker&rpar;](https://dev.to/kocreative/turning-adobe-illustrator-into-a-people-generator-aka-a-dress-up-doll-maker-29j1)
-- [How to Use Augmented Reality for Construction Site Inspections](https://dev.to/quantumcybersolution/how-to-use-augmented-reality-for-construction-site-inspections-2fm7)
-- [Understanding the Defense Federal Acquisition Regulation Supplement DFARS](https://dev.to/quantumcybersolution/understanding-the-defense-federal-acquisition-regulation-supplement-dfars-1pja)
+- [Astrology and Quantum Entanglement Unveiling the Cosmic Dance](https://dev.to/eric_dequ/astrology-and-quantum-entanglement-unveiling-the-cosmic-dance-74g)
+- [Protecting User Data: Encryption and Secure Storage in Frontend](https://dev.to/outstandingvick/protecting-user-data-encryption-and-secure-storage-in-frontend-53ak)
+- [Unacceptable Lobster](https://dev.to/myrojyn/unacceptable-lobster-5afd)
+- [Unlocking Government Contract Opportunities with the SAMgov API](https://dev.to/quantumcybersolution/unlocking-government-contract-opportunities-with-the-samgov-api-1bm9)
 <!-- BLOG-POST-LIST:END -->
 
