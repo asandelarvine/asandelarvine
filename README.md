@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using PureComponent and React.memo to Improve Performance in React](https://dev.to/chauhoangminhnguyen/using-purecomponent-and-reactmemo-to-improve-performance-in-react-f2h)
-- [The Popcorn Phenomenon Exploring the Science Behind the Pop](https://dev.to/eric_dequ/the-popcorn-phenomenon-exploring-the-science-behind-the-pop-eok)
-- [Heliums Funny Effect Why Does Helium Make Your Voice Sound Funny](https://dev.to/eric_dequ/heliums-funny-effect-why-does-helium-make-your-voice-sound-funny-1o0l)
-- [The Role of AI in Construction Defect Detection and Quality Control](https://dev.to/quantumcybersolution/the-role-of-ai-in-construction-defect-detection-and-quality-control-2eg6)
+- [How to Use JSON Files in React JS](https://dev.to/sudhanshu_developer/how-to-use-json-files-in-react-js-42ad)
+- [How To Set up Lefthook to handle git hooks in react applications](https://dev.to/renanpaixao/how-to-set-up-lefthook-to-handle-git-hooks-in-react-applications-527i)
+- [The Unique Patterns of Identity Why Do We Have Fingerprints](https://dev.to/eric_dequ/the-unique-patterns-of-identity-why-do-we-have-fingerprints-1pdn)
+- [The Role of Construction Technology in Enhancing Building Lifespan](https://dev.to/quantumcybersolution/the-role-of-construction-technology-in-enhancing-building-lifespan-4agk)
 <!-- BLOG-POST-LIST:END -->
 
