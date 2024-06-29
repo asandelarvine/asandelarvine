@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Secret to Perfect UI Design!](https://dev.to/prince_chouhan/unlock-the-secret-to-perfect-ui-design-3b0)
-- [Managing Existing AWS Resources with Terraform Import](https://dev.to/sepiyush/managing-existing-aws-resources-with-terraform-import-dd)
-- [Gravitational Waves The Symphony of the Cosmos](https://dev.to/quantumcybersolution/gravitational-waves-the-symphony-of-the-cosmos-ji6)
-- [Error handling in Next.js App Router](https://dev.to/syketb/error-handling-in-nextjs-app-router-5b8a)
+- [Kickstart Your Python Journey A Beginners Guide](https://dev.to/quantumcybersolution/kickstart-your-python-journey-a-beginners-guide-14c5)
+- [Demystifying AI: A Beginner&#39;s Guide to Artificial Intelligence](https://dev.to/akshay5651/demystifying-ai-a-beginners-guide-to-artificial-intelligence-3p4d)
+- [The distinctions between React and Vue](https://dev.to/isonguyom/the-distinctions-between-react-and-vue-2b3i)
+- [&quot;HNG 11 internship: Embracing new challenges&quot;](https://dev.to/muhammad235/hng-11-internship-embracing-new-challenges-118e)
 <!-- BLOG-POST-LIST:END -->
 
