@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use JSON Files in React JS](https://dev.to/sudhanshu_developer/how-to-use-json-files-in-react-js-42ad)
-- [How To Set up Lefthook to handle git hooks in react applications](https://dev.to/renanpaixao/how-to-set-up-lefthook-to-handle-git-hooks-in-react-applications-527i)
-- [The Unique Patterns of Identity Why Do We Have Fingerprints](https://dev.to/eric_dequ/the-unique-patterns-of-identity-why-do-we-have-fingerprints-1pdn)
-- [The Role of Construction Technology in Enhancing Building Lifespan](https://dev.to/quantumcybersolution/the-role-of-construction-technology-in-enhancing-building-lifespan-4agk)
+- [Planning My Prework Study Guide Website](https://dev.to/moth668/planning-my-prework-study-guide-website-1n38)
+- [DiamondBack Flooring Review](https://dev.to/eric_dequ/diamondback-flooring-review-48hp)
+- [The Role of Digital Dashboards in Construction Project Management](https://dev.to/quantumcybersolution/the-role-of-digital-dashboards-in-construction-project-management-1pik)
+- [[Rails] count vs length vs size with Samples and a Diagram](https://dev.to/yutakusuno/rails-count-vs-length-vs-size-with-samples-and-a-diagram-37be)
 <!-- BLOG-POST-LIST:END -->
 
