@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How everyone could have prevented the polyfill dot io supply chain attacks ?](https://dev.to/franklinthaker/how-everyone-could-have-prevented-the-polyfill-dot-io-supply-chain-attacks--5f9o)
-- [Orbital Package Delivery Launch Phase - Preparation Vehicle Selection and Operations](https://dev.to/eric_dequ/orbital-package-delivery-launch-phase-preparation-vehicle-selection-and-operations-1li0)
-- [Mushroom Mycelium The Key to Interstellar Exploration and Extraterrestrial Civilizations](https://dev.to/eric_dequ/mushroom-mycelium-the-key-to-interstellar-exploration-and-extraterrestrial-civilizations-480d)
-- [Exploring the Frontier The Role of Quantum Simulation in Understanding Complex Quantum Systems](https://dev.to/quantumcybersolution/exploring-the-frontier-the-role-of-quantum-simulation-in-understanding-complex-quantum-systems-92d)
+- [A Beginner&#39;s Guide to Mastering Data Science: Key Tips and Strategies 🤖](https://dev.to/kammarianand/a-beginners-guide-to-mastering-data-science-key-tips-and-strategies-h8a)
+- [Exploring the Kardashev Scale A Cosmic Metric for Advanced Civilizations](https://dev.to/quantumcybersolution/exploring-the-kardashev-scale-a-cosmic-metric-for-advanced-civilizations-38l)
+- [Quantum-Enhanced Orbital Mechanics Unlocking Unprecedented Efficiency in Space Logistics](https://dev.to/eric_dequ/quantum-enhanced-orbital-mechanics-unlocking-unprecedented-efficiency-in-space-logistics-f63)
+- [10 frases que suelen decir los developers &lpar;Parte 1&rpar;](https://dev.to/codechappie/10-frases-que-suelen-decir-los-developers-parte-1-5ap6)
 <!-- BLOG-POST-LIST:END -->
 
