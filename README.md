@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstart Your Python Journey A Beginners Guide](https://dev.to/quantumcybersolution/kickstart-your-python-journey-a-beginners-guide-14c5)
-- [Demystifying AI: A Beginner&#39;s Guide to Artificial Intelligence](https://dev.to/akshay5651/demystifying-ai-a-beginners-guide-to-artificial-intelligence-3p4d)
-- [The distinctions between React and Vue](https://dev.to/isonguyom/the-distinctions-between-react-and-vue-2b3i)
-- [&quot;HNG 11 internship: Embracing new challenges&quot;](https://dev.to/muhammad235/hng-11-internship-embracing-new-challenges-118e)
+- [Title: Svelte vs Astro: A Comparison of Frontend Technologies.](https://dev.to/agunwachidiebelecalistus/title-svelte-vs-astro-a-comparison-of-frontend-technologies-3e5b)
+- [Mastering Adobe Lightroom From Importing to Exporting](https://dev.to/quantumcybersolution/mastering-adobe-lightroom-from-importing-to-exporting-2p8f)
+- [LeetCode Day21 BackTracking Part 3](https://dev.to/flame_chan_llll/leetcode-day21-backtracking-part-3-2hhk)
+- [Asynchronous JavaScript: An In-Depth Guide](https://dev.to/genius1k/asynchronous-javascript-an-in-depth-guide-oea)
 <!-- BLOG-POST-LIST:END -->
 
