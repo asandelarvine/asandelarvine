@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Svelte vs Astro: A Comparison of Frontend Technologies.](https://dev.to/agunwachidiebelecalistus/title-svelte-vs-astro-a-comparison-of-frontend-technologies-3e5b)
-- [Mastering Adobe Lightroom From Importing to Exporting](https://dev.to/quantumcybersolution/mastering-adobe-lightroom-from-importing-to-exporting-2p8f)
-- [LeetCode Day21 BackTracking Part 3](https://dev.to/flame_chan_llll/leetcode-day21-backtracking-part-3-2hhk)
-- [Asynchronous JavaScript: An In-Depth Guide](https://dev.to/genius1k/asynchronous-javascript-an-in-depth-guide-oea)
+- [SOLID Design Principles](https://dev.to/vinaykumar0339/solid-design-principles-53il)
+- [How I Tackled a Challenging Backend Problem](https://dev.to/tolusky/how-i-tackled-a-challenging-backend-problem-26be)
+- [TailwindCSS vs Bootstrap](https://dev.to/vectorgits/tailwindcss-vs-bootstrap-9de)
+- [Mastering Project Management with Trello A Comprehensive Guide](https://dev.to/quantumcybersolution/mastering-project-management-with-trello-a-comprehensive-guide-139h)
 <!-- BLOG-POST-LIST:END -->
 
