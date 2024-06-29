@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use SwarmUI &amp; Stable Diffusion 3 on Cloud Services Kaggle &lpar;free&rpar;, Massed Compute &amp; RunPod](https://dev.to/furkangozukara/how-to-use-swarmui-stable-diffusion-3-on-cloud-services-kaggle-free-massed-compute-runpod-104h)
-- [Quantum Revolution The Challenges of Developing Quantum Compilers](https://dev.to/quantumcybersolution/quantum-revolution-the-challenges-of-developing-quantum-compilers-5hkg)
-- [FRONTEND TECHNOLOGIES](https://dev.to/dam563/frontend-technologies-15n4)
-- [Principios SOLID en React](https://dev.to/iencotech/principios-solid-en-react-f5f)
+- [RxJS: The Reactive Revolution in JavaScript 🚀](https://dev.to/disane/rxjs-the-reactive-revolution-in-javascript-2kai)
+- [Everything you have to know about React 19 ⚛️](https://dev.to/dealwith/everything-you-have-to-know-about-react-19-3bgf)
+- [Understanding The Use Of Context API In React JS](https://dev.to/shrikant9907/understanding-the-use-of-context-api-in-react-js-3l1i)
+- [Quantum Supremacy Ushering a New Era of Computing](https://dev.to/quantumcybersolution/quantum-supremacy-ushering-a-new-era-of-computing-57j2)
 <!-- BLOG-POST-LIST:END -->
 
