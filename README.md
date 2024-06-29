@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [@PreDestroy and @PostConstruct in Spring](https://dev.to/tiuwill/predestroy-and-postconstruct-in-spring-2ff)
-- [Build a Responsive Website Step-by-Step HTML CSS and JavaScript](https://dev.to/quantumcybersolution/build-a-responsive-website-step-by-step-html-css-and-javascript-20l0)
-- [Tutorial to Create a Virtual Machine Scale Set in Microsoft Azure.](https://dev.to/ikay/tutorial-to-create-a-virtual-machine-scale-set-in-microsoft-azure-5a69)
-- [Mastering Logging with Winston in Node.js](https://dev.to/abigail_nneoma/mastering-logging-with-winston-in-nodejs-5fnl)
+- [Capturing Moments Unraveling the Science Behind How Cameras Work](https://dev.to/eric_dequ/capturing-moments-unraveling-the-science-behind-how-cameras-work-20jb)
+- [The Impact of Smart Contracts on Construction Project Delivery](https://dev.to/quantumcybersolution/the-impact-of-smart-contracts-on-construction-project-delivery-fi0)
+- [Navigating the Night How Do Bats Navigate in the Dark](https://dev.to/eric_dequ/navigating-the-night-how-do-bats-navigate-in-the-dark-50lp)
+- [Ant Strength How Do Ants Carry Objects Much Larger Than Themselves](https://dev.to/eric_dequ/ant-strength-how-do-ants-carry-objects-much-larger-than-themselves-1n30)
 <!-- BLOG-POST-LIST:END -->
 
