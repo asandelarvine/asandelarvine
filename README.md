@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing a Dataset and Writing a “First Glance” Technical Report](https://dev.to/isah_katunadam_00cd9ef1f/analyzing-a-dataset-and-writing-a-first-glance-technical-report-2jg7)
-- [A Comparative Dive into Alpine.js and Stimulus.js: Niche Frontend Technologies](https://dev.to/nwogu_precious_52ab8ab48c/a-comparative-dive-into-alpinejs-and-stimulusjs-niche-frontend-technologies-9og)
-- [React JS vs Angular, What’s The Difference?](https://dev.to/zoeyahmi/react-js-and-angular-whats-the-difference-npb)
-- [Comparing Frontend Technologies: ReactJS vs. Pure HTML, CSS, and JavaScript](https://dev.to/jomagene/comparing-frontend-technologies-reactjs-vs-pure-html-css-and-javascript-3ofb)
+- [Zig First Impressions](https://dev.to/nw229/zig-first-impressions-3f5p)
+- [Web Development from my view.](https://dev.to/jprof/web-development-from-my-view-1n8c)
+- [React vs. Vue.js: Comparing two popular component-based frontend technologies](https://dev.to/dmystical_coder/react-vs-vuejs-comparing-two-popular-component-based-frontend-technologies-g50)
+- [About the &quot;S&quot; in Solid](https://dev.to/efpage/about-the-s-in-solid-4gcl)
 <!-- BLOG-POST-LIST:END -->
 
