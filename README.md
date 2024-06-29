@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning My Prework Study Guide Website](https://dev.to/moth668/planning-my-prework-study-guide-website-1n38)
-- [DiamondBack Flooring Review](https://dev.to/eric_dequ/diamondback-flooring-review-48hp)
-- [The Role of Digital Dashboards in Construction Project Management](https://dev.to/quantumcybersolution/the-role-of-digital-dashboards-in-construction-project-management-1pik)
-- [[Rails] count vs length vs size with Samples and a Diagram](https://dev.to/yutakusuno/rails-count-vs-length-vs-size-with-samples-and-a-diagram-37be)
+- [How everyone could have prevented the polyfill dot io supply chain attacks ?](https://dev.to/franklinthaker/how-everyone-could-have-prevented-the-polyfill-dot-io-supply-chain-attacks--5f9o)
+- [Orbital Package Delivery Launch Phase - Preparation Vehicle Selection and Operations](https://dev.to/eric_dequ/orbital-package-delivery-launch-phase-preparation-vehicle-selection-and-operations-1li0)
+- [Mushroom Mycelium The Key to Interstellar Exploration and Extraterrestrial Civilizations](https://dev.to/eric_dequ/mushroom-mycelium-the-key-to-interstellar-exploration-and-extraterrestrial-civilizations-480d)
+- [Exploring the Frontier The Role of Quantum Simulation in Understanding Complex Quantum Systems](https://dev.to/quantumcybersolution/exploring-the-frontier-the-role-of-quantum-simulation-in-understanding-complex-quantum-systems-92d)
 <!-- BLOG-POST-LIST:END -->
 
