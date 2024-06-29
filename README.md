@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Key Distribution Revolutionizing Secure Communications](https://dev.to/quantumcybersolution/quantum-key-distribution-revolutionizing-secure-communications-1dbg)
-- [Por que a Apple Odeia o Brasil? A História Proibida que Ninguém Contou!](https://dev.to/terminalcoffee/por-que-a-apple-odeia-o-brasil-a-historia-proibida-que-ninguem-contou-21ek)
-- [AI-powered Resume and Cover Letter Generator &lpar;Next.js, GPT4, Langchain &amp; CopilotKit&rpar;](https://dev.to/the_greatbonnie/ai-powered-resume-and-cover-letter-generator-nextjs-gpt4-langchain-copilotkit-53pb)
-- [Day 19 Task: Docker for DevOps Engineers](https://dev.to/oncloud7/day-19-task-docker-for-devops-engineers-5ck5)
+- [How to Use SwarmUI &amp; Stable Diffusion 3 on Cloud Services Kaggle &lpar;free&rpar;, Massed Compute &amp; RunPod](https://dev.to/furkangozukara/how-to-use-swarmui-stable-diffusion-3-on-cloud-services-kaggle-free-massed-compute-runpod-104h)
+- [Quantum Revolution The Challenges of Developing Quantum Compilers](https://dev.to/quantumcybersolution/quantum-revolution-the-challenges-of-developing-quantum-compilers-5hkg)
+- [FRONTEND TECHNOLOGIES](https://dev.to/dam563/frontend-technologies-15n4)
+- [Principios SOLID en React](https://dev.to/iencotech/principios-solid-en-react-f5f)
 <!-- BLOG-POST-LIST:END -->
 
