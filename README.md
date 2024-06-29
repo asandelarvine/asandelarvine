@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Cross-Platform Solutions with Wearable App Integration](https://dev.to/chariesdevil/building-cross-platform-solutions-with-wearable-app-integration-2n2d)
-- [Angular vs. Vue.js: Choosing the Right Tool for the Job](https://dev.to/milesssssss/angular-vs-vuejs-choosing-the-right-tool-for-the-job-4pdd)
-- [Jenkins Ci/Cd Pipeline to Build a Go Application into a Docker Image with Multistage build](https://dev.to/audu97/jenkins-cicd-pipeline-to-build-a-go-application-into-a-docker-image-with-multistage-build-394j)
-- [Install and Set Up Kubernetes on Linux](https://dev.to/markliu2013/install-and-set-up-kubernetes-on-linux-1pgo)
+- [Why I Chose React Over Angular](https://dev.to/elmoustafi/why-i-chose-react-over-angular-2ho1)
+- [Quantum Cybersecurity Challenges and Opportunities](https://dev.to/quantumcybersolution/quantum-cybersecurity-challenges-and-opportunities-d3o)
+- [Comparing Frontend Technologies: ReactJS vs. Svelte](https://dev.to/bobod24/comparing-frontend-technologies-reactjs-vs-svelte-45aa)
+- [Implementing API query parameters and joining HNG 11](https://dev.to/thefranklinikeh/implementing-api-query-parameters-and-joining-hng-11-4c4p)
 <!-- BLOG-POST-LIST:END -->
 
