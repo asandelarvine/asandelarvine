@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Energy Storage The Game-Changer for Renewable Energy](https://dev.to/quantumcybersolution/revolutionizing-energy-storage-the-game-changer-for-renewable-energy-56ko)
-- [Tab Closer Pro v1.0.1: Sorting, and Search Features](https://dev.to/plsankar/tab-closer-pro-v101-sorting-and-search-features-o0l)
-- [Understanding prisma codes for beginners in 100 seconds](https://dev.to/jamescroissant/understanding-prisma-codes-for-beginners-in-100-seconds-489)
-- [Handling multiple request in a controller action: a note management](https://dev.to/ghulam_mujtaba_247/handling-multiple-request-in-a-controller-action-a-note-management-53kg)
+- [dependency injection in typescript using di-injectable library](https://dev.to/farajshuaib/dependency-injection-in-typescript-using-di-injectable-library-29n2)
+- [C, Essential Libraries](https://dev.to/harshm03/c-essential-libraries-4hda)
+- [Forging Impenetrable AWS Identities: Safeguarding the Root User and IAM Users](https://dev.to/ikoh_sylva/forging-impenetrable-aws-identities-safeguarding-the-root-user-and-iam-users-16e1)
+- [Creating a simple referral System in ExpressJS](https://dev.to/konan69/creating-a-simple-referral-system-in-expressjs-3b3b)
 <!-- BLOG-POST-LIST:END -->
 
