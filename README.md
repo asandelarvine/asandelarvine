@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Defying Gravity The Science Behind Airplanes Staying Aloft](https://dev.to/eric_dequ/defying-gravity-the-science-behind-airplanes-staying-aloft-hb8)
-- [The Role of Advanced Robotics in Construction Automation](https://dev.to/quantumcybersolution/the-role-of-advanced-robotics-in-construction-automation-5893)
-- [The Marvel of Gecko Adhesion How Geckos Stick to Walls](https://dev.to/eric_dequ/the-marvel-of-gecko-adhesion-how-geckos-stick-to-walls-48fh)
-- [The Rhythm of the Ocean How Do Tides Work](https://dev.to/eric_dequ/the-rhythm-of-the-ocean-how-do-tides-work-48dh)
+- [Using PureComponent and React.memo to Improve Performance in React](https://dev.to/chauhoangminhnguyen/using-purecomponent-and-reactmemo-to-improve-performance-in-react-f2h)
+- [The Popcorn Phenomenon Exploring the Science Behind the Pop](https://dev.to/eric_dequ/the-popcorn-phenomenon-exploring-the-science-behind-the-pop-eok)
+- [Heliums Funny Effect Why Does Helium Make Your Voice Sound Funny](https://dev.to/eric_dequ/heliums-funny-effect-why-does-helium-make-your-voice-sound-funny-1o0l)
+- [The Role of AI in Construction Defect Detection and Quality Control](https://dev.to/quantumcybersolution/the-role-of-ai-in-construction-defect-detection-and-quality-control-2eg6)
 <!-- BLOG-POST-LIST:END -->
 
