@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Design Principles](https://dev.to/vinaykumar0339/solid-design-principles-53il)
-- [How I Tackled a Challenging Backend Problem](https://dev.to/tolusky/how-i-tackled-a-challenging-backend-problem-26be)
-- [TailwindCSS vs Bootstrap](https://dev.to/vectorgits/tailwindcss-vs-bootstrap-9de)
-- [Mastering Project Management with Trello A Comprehensive Guide](https://dev.to/quantumcybersolution/mastering-project-management-with-trello-a-comprehensive-guide-139h)
+- [Entendendo o MTU nas Redes de Computadores](https://dev.to/iamthiago/entendendo-o-mtu-nas-redes-de-computadores-21d5)
+- [Exploring Frontend Technologies: Elm vs. Svelte](https://dev.to/0mobolaji/exploring-frontend-technologies-elm-vs-svelte-4hp0)
+- [CodeBehind 2.8 Released, Cache the Pages and the Controller](https://dev.to/elanatframework/codebehind-28-released-cache-the-pages-and-the-controller-j6h)
+- [Databricks - Variant Type Analysis](https://dev.to/dadak5/databricks-variant-type-analysis-1bh1)
 <!-- BLOG-POST-LIST:END -->
 
