@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Observability with Logs: An In-Depth Guide for Beginners](https://dev.to/cloudnative_eng/master-observability-with-logs-an-in-depth-guide-for-beginners-3dlj)
-- [Announcing a New Puppet Code Testing Course: On-Demand PE502 - Test and Deliver](https://dev.to/tomchisholm/announcing-a-new-puppet-code-testing-course-on-demand-pe502-test-and-deliver-43p8)
-- [How I solved a problem I encounter as a backend developer](https://dev.to/theecypher/how-i-solved-a-problem-i-encounter-as-a-backend-developer-1kpp)
-- [The Brilliance of Space-Based Energy Storage Systems Fueling the Future of Space Exploration](https://dev.to/quantumcybersolution/the-brilliance-of-space-based-energy-storage-systems-fueling-the-future-of-space-exploration-2075)
+- [Analyzing a Dataset and Writing a “First Glance” Technical Report](https://dev.to/isah_katunadam_00cd9ef1f/analyzing-a-dataset-and-writing-a-first-glance-technical-report-2jg7)
+- [A Comparative Dive into Alpine.js and Stimulus.js: Niche Frontend Technologies](https://dev.to/nwogu_precious_52ab8ab48c/a-comparative-dive-into-alpinejs-and-stimulusjs-niche-frontend-technologies-9og)
+- [React JS vs Angular, What’s The Difference?](https://dev.to/zoeyahmi/react-js-and-angular-whats-the-difference-npb)
+- [Comparing Frontend Technologies: ReactJS vs. Pure HTML, CSS, and JavaScript](https://dev.to/jomagene/comparing-frontend-technologies-reactjs-vs-pure-html-css-and-javascript-3ofb)
 <!-- BLOG-POST-LIST:END -->
 
