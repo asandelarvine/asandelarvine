@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Capturing Moments Unraveling the Science Behind How Cameras Work](https://dev.to/eric_dequ/capturing-moments-unraveling-the-science-behind-how-cameras-work-20jb)
-- [The Impact of Smart Contracts on Construction Project Delivery](https://dev.to/quantumcybersolution/the-impact-of-smart-contracts-on-construction-project-delivery-fi0)
-- [Navigating the Night How Do Bats Navigate in the Dark](https://dev.to/eric_dequ/navigating-the-night-how-do-bats-navigate-in-the-dark-50lp)
-- [Ant Strength How Do Ants Carry Objects Much Larger Than Themselves](https://dev.to/eric_dequ/ant-strength-how-do-ants-carry-objects-much-larger-than-themselves-1n30)
+- [Defying Gravity The Science Behind Airplanes Staying Aloft](https://dev.to/eric_dequ/defying-gravity-the-science-behind-airplanes-staying-aloft-hb8)
+- [The Role of Advanced Robotics in Construction Automation](https://dev.to/quantumcybersolution/the-role-of-advanced-robotics-in-construction-automation-5893)
+- [The Marvel of Gecko Adhesion How Geckos Stick to Walls](https://dev.to/eric_dequ/the-marvel-of-gecko-adhesion-how-geckos-stick-to-walls-48fh)
+- [The Rhythm of the Ocean How Do Tides Work](https://dev.to/eric_dequ/the-rhythm-of-the-ocean-how-do-tides-work-48dh)
 <!-- BLOG-POST-LIST:END -->
 
