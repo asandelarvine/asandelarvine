@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RxJS: The Reactive Revolution in JavaScript 🚀](https://dev.to/disane/rxjs-the-reactive-revolution-in-javascript-2kai)
-- [Everything you have to know about React 19 ⚛️](https://dev.to/dealwith/everything-you-have-to-know-about-react-19-3bgf)
-- [Understanding The Use Of Context API In React JS](https://dev.to/shrikant9907/understanding-the-use-of-context-api-in-react-js-3l1i)
-- [Quantum Supremacy Ushering a New Era of Computing](https://dev.to/quantumcybersolution/quantum-supremacy-ushering-a-new-era-of-computing-57j2)
+- [Revolutionizing Energy Storage The Game-Changer for Renewable Energy](https://dev.to/quantumcybersolution/revolutionizing-energy-storage-the-game-changer-for-renewable-energy-56ko)
+- [Tab Closer Pro v1.0.1: Sorting, and Search Features](https://dev.to/plsankar/tab-closer-pro-v101-sorting-and-search-features-o0l)
+- [Understanding prisma codes for beginners in 100 seconds](https://dev.to/jamescroissant/understanding-prisma-codes-for-beginners-in-100-seconds-489)
+- [Handling multiple request in a controller action: a note management](https://dev.to/ghulam_mujtaba_247/handling-multiple-request-in-a-controller-action-a-note-management-53kg)
 <!-- BLOG-POST-LIST:END -->
 
