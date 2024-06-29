@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [dependency injection in typescript using di-injectable library](https://dev.to/farajshuaib/dependency-injection-in-typescript-using-di-injectable-library-29n2)
-- [C, Essential Libraries](https://dev.to/harshm03/c-essential-libraries-4hda)
-- [Forging Impenetrable AWS Identities: Safeguarding the Root User and IAM Users](https://dev.to/ikoh_sylva/forging-impenetrable-aws-identities-safeguarding-the-root-user-and-iam-users-16e1)
-- [Creating a simple referral System in ExpressJS](https://dev.to/konan69/creating-a-simple-referral-system-in-expressjs-3b3b)
+- [Master Observability with Logs: An In-Depth Guide for Beginners](https://dev.to/cloudnative_eng/master-observability-with-logs-an-in-depth-guide-for-beginners-3dlj)
+- [Announcing a New Puppet Code Testing Course: On-Demand PE502 - Test and Deliver](https://dev.to/tomchisholm/announcing-a-new-puppet-code-testing-course-on-demand-pe502-test-and-deliver-43p8)
+- [How I solved a problem I encounter as a backend developer](https://dev.to/theecypher/how-i-solved-a-problem-i-encounter-as-a-backend-developer-1kpp)
+- [The Brilliance of Space-Based Energy Storage Systems Fueling the Future of Space Exploration](https://dev.to/quantumcybersolution/the-brilliance-of-space-based-energy-storage-systems-fueling-the-future-of-space-exploration-2075)
 <!-- BLOG-POST-LIST:END -->
 
