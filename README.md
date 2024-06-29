@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose React Over Angular](https://dev.to/elmoustafi/why-i-chose-react-over-angular-2ho1)
-- [Quantum Cybersecurity Challenges and Opportunities](https://dev.to/quantumcybersolution/quantum-cybersecurity-challenges-and-opportunities-d3o)
-- [Comparing Frontend Technologies: ReactJS vs. Svelte](https://dev.to/bobod24/comparing-frontend-technologies-reactjs-vs-svelte-45aa)
-- [Implementing API query parameters and joining HNG 11](https://dev.to/thefranklinikeh/implementing-api-query-parameters-and-joining-hng-11-4c4p)
+- [Quantum Key Distribution Revolutionizing Secure Communications](https://dev.to/quantumcybersolution/quantum-key-distribution-revolutionizing-secure-communications-1dbg)
+- [Por que a Apple Odeia o Brasil? A História Proibida que Ninguém Contou!](https://dev.to/terminalcoffee/por-que-a-apple-odeia-o-brasil-a-historia-proibida-que-ninguem-contou-21ek)
+- [AI-powered Resume and Cover Letter Generator &lpar;Next.js, GPT4, Langchain &amp; CopilotKit&rpar;](https://dev.to/the_greatbonnie/ai-powered-resume-and-cover-letter-generator-nextjs-gpt4-langchain-copilotkit-53pb)
+- [Day 19 Task: Docker for DevOps Engineers](https://dev.to/oncloud7/day-19-task-docker-for-devops-engineers-5ck5)
 <!-- BLOG-POST-LIST:END -->
 
