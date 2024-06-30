@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 How to Fork Your Own Repository on GitHub](https://dev.to/marmariadev/how-to-fork-your-own-repository-on-github-4oof)
-- [The operating mechanism of BitPower Loop](https://dev.to/woy_ca2a85cabb11e9fa2bd0d/the-operating-mechanism-of-bitpower-loop-5c06)
-- [Git revert commit – Come rimuovere l&#39;ultimo commit fatto](https://dev.to/mcale/git-revert-commit-come-rimuovere-lultimo-commit-fatto-1nb3)
-- [The operating mechanism of BitPower Loop](https://dev.to/woy_621fc0f3ac62fff68606e/the-operating-mechanism-of-bitpower-loop-2085)
+- [Array search methods in JavaScript.!](https://dev.to/samandarhodiev/array-search-methods-in-javascript-406p)
+- [Understanding Security Context in Kubernetes](https://dev.to/piyushbagani15/understanding-security-context-in-kubernetes-1gkn)
+- [Ego, Not Pride, Comes Before a Fall](https://dev.to/thesimpledev/ego-not-pride-comes-before-a-fall-3bcl)
+- [Kubernetes-project-using-an-EKS-cluster](https://dev.to/sukuru_naga_sai_srinivasu/kubernetes-project-using-an-eks-cluster-42kg)
 <!-- BLOG-POST-LIST:END -->
 
