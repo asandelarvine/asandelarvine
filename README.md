@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array search methods in JavaScript.!](https://dev.to/samandarhodiev/array-search-methods-in-javascript-406p)
-- [Understanding Security Context in Kubernetes](https://dev.to/piyushbagani15/understanding-security-context-in-kubernetes-1gkn)
-- [Ego, Not Pride, Comes Before a Fall](https://dev.to/thesimpledev/ego-not-pride-comes-before-a-fall-3bcl)
-- [Kubernetes-project-using-an-EKS-cluster](https://dev.to/sukuru_naga_sai_srinivasu/kubernetes-project-using-an-eks-cluster-42kg)
+- [Automating Email Notifications for S3 Object Uploads using SNS](https://dev.to/mohanapriya_s_1808/automating-email-notifications-for-s3-object-uploads-using-sns-5efb)
+- [Deep Dive: Caching in Distributed Systems / At Scale](https://dev.to/nayanraj-adhikary/deep-dive-caching-in-distributed-systems-at-scale-3h1g)
+- [Issue 005 - The Bottleneck of Continuous Writing](https://dev.to/justin3go/issue-005-the-bottleneck-of-continuous-writing-313b)
+- [About using Microsoft office 365 &lpar;offline version&rpar; for free](https://dev.to/dipalee_gaware_b4630cc678/about-using-microsoft-office-365-offline-version-for-free-42im)
 <!-- BLOG-POST-LIST:END -->
 
