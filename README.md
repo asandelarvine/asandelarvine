@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Email Notifications for S3 Object Uploads using SNS](https://dev.to/mohanapriya_s_1808/automating-email-notifications-for-s3-object-uploads-using-sns-5efb)
-- [Deep Dive: Caching in Distributed Systems / At Scale](https://dev.to/nayanraj-adhikary/deep-dive-caching-in-distributed-systems-at-scale-3h1g)
-- [Issue 005 - The Bottleneck of Continuous Writing](https://dev.to/justin3go/issue-005-the-bottleneck-of-continuous-writing-313b)
-- [About using Microsoft office 365 &lpar;offline version&rpar; for free](https://dev.to/dipalee_gaware_b4630cc678/about-using-microsoft-office-365-offline-version-for-free-42im)
+- [Customizing Your Lazyvim Setup for Personal Preferences](https://dev.to/insideee_dev/customizing-your-lazyvim-setup-for-personal-preferences-57)
+- [Unveiling the Shield: Ensuring Security with Open Source 2FA](https://dev.to/verifyvault/unveiling-the-shield-ensuring-security-with-open-source-2fa-nn6)
+- [Comparing Javascript Front-end technologies &lpar;Angular and React&rpar;](https://dev.to/iam_nick/comparing-javascript-front-end-technologies-angular-and-react-d3c)
+- [My Mobile Development Journey and Architectural Insights](https://dev.to/akpamzy_junior_cc600a044d/my-mobile-development-journey-and-architectural-insights-pmg)
 <!-- BLOG-POST-LIST:END -->
 
