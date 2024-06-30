@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Vertically Align Content with Tailwind CSS Across a Full-Screen Div](https://dev.to/bobbyiliev/how-to-vertically-align-content-with-tailwind-css-across-a-full-screen-div-4265)
-- [How to fetch API - React](https://dev.to/kakimaru/how-to-fetch-api-react-41e5)
-- [My Journey into Backend Development](https://dev.to/chris_friday_35d646ff4972/my-journey-into-backend-development-1aan)
-- [EVM Reverse Engineering Challenge 0x01](https://dev.to/gealber/evm-reverse-engineering-challenge-0x01-462d)
+- [Svelte vs. ReactJS in Modern Frontend Development](https://dev.to/setgram/svelte-vs-reactjs-in-modern-frontend-development-dee)
+- [API Key Authentication with API Gateway using AWS CDK](https://dev.to/aws-builders/api-key-authentication-with-api-gateway-using-aws-cdk-5cjd)
+- [How to validate requests in Amazon API Gateway](https://dev.to/iamsherif/how-to-validate-requests-in-amazon-api-gateway-4n78)
+- [O que aprendi sobre Monitoramento de Aplicações Front-End nos últimos meses.](https://dev.to/soares_pedro/o-que-aprendi-sobre-monitoramento-de-aplicacoes-front-end-nos-ultimos-meses-18ol)
 <!-- BLOG-POST-LIST:END -->
 
