@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I ensured user authentication, by sending emails in Spring Boot](https://dev.to/walerick/how-i-ensured-user-authentication-by-sending-emails-in-spring-boot-866)
-- [How to Fuzzy Search: Finding File Names and Contents using Bash Scripting and Commandline Tools](https://dev.to/chardskarth/how-to-fuzzy-search-finding-file-names-and-contents-using-bash-scripting-and-commandline-tools-52kd)
-- [Building a Lisp Interpreter in Rust](https://dev.to/galzmarc/building-a-lisp-interpreter-in-rust-2njj)
-- [Functions as User Interface](https://dev.to/khadijagardezi/functions-as-user-interface-35c8)
+- [Load Balancers in AWS](https://dev.to/vivekalhat/load-balancers-in-aws-5gbb)
+- [Immutable Object in C#](https://dev.to/ipazooki/immutable-object-in-c-o0g)
+- [Intro to solidity](https://dev.to/arsh_the_coder/intro-to-solidity-2dbi)
+- [I was told it&#39;s not discrimination](https://dev.to/sarah_bruce_83fc98defc6d5/i-was-told-its-not-discrimination-3ceg)
 <!-- BLOG-POST-LIST:END -->
 
