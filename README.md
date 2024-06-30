@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using JSONB in PostgreSQL](https://dev.to/chauhoangminhnguyen/using-jsonb-in-postgresql-55ao)
-- [What is an Observability Pipeline?](https://dev.to/rickysarora/what-is-an-observability-pipeline-2n56)
-- [How I created reusable React Icon Component using react-icons library in an AstroJs Project.](https://dev.to/mrpaulishaili/how-i-created-reusable-react-icon-component-using-react-icons-library-in-an-astrojs-project-nk4)
-- [Remove Duplicate Elements from JavaScript Array](https://dev.to/dharam/remove-duplicate-elements-from-javascript-array-3862)
+- [Creating a C compiler in JavaScript](https://dev.to/sh20raj/creating-a-c-compiler-in-javascript-391c)
+- [Unlocking Python: Essential Insights and Learning for JavaScript Developers](https://dev.to/bryan_manuel_ramos/unlocking-python-essential-insights-and-learning-for-javascript-developers-20k6)
+- [Create and access a tensor in PyTorch](https://dev.to/hyperkai/create-and-access-a-tensor-in-pytorch-1047)
+- [GitHub to Artifact Registry &amp; Docker Hub via Cloud Build](https://dev.to/dchaley/github-to-artifact-registry-docker-hub-via-cloud-build-16d1)
 <!-- BLOG-POST-LIST:END -->
 
