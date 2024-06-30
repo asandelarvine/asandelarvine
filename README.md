@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Components vs. Vanilla JavaScript: A Niche Comparison in Frontend Technologies](https://dev.to/caleb_fadare/web-components-vs-vanilla-javascript-a-niche-comparison-in-frontend-technologies-34mo)
-- [How nodeJS handle multiple task being single-threaded](https://dev.to/tofail/how-nodejs-handl-multiple-task-being-single-threaded-3lh7)
-- [[DAY 66-68] I built a drum set app using React](https://dev.to/thomascansino/day-66-68-i-built-a-drum-set-app-using-react-4i19)
-- [Use AWS Serverless to sell items in Habitica](https://dev.to/aws-builders/use-aws-serverless-to-sell-items-in-habitica-91)
+- [Implementing Batch Write Operations in Firestore with Express](https://dev.to/itselftools/implementing-batch-write-operations-in-firestore-with-express-5h64)
+- [Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
+- [c program for counting numbers](https://dev.to/legend01/c-program-for-counting-numbers-4o8p)
+- [What is Associative Arrays in Computer Science](https://dev.to/m__mdy__m/what-is-associative-arrays-in-computer-science-1dhe)
 <!-- BLOG-POST-LIST:END -->
 
