@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Batch Write Operations in Firestore with Express](https://dev.to/itselftools/implementing-batch-write-operations-in-firestore-with-express-5h64)
-- [Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
-- [c program for counting numbers](https://dev.to/legend01/c-program-for-counting-numbers-4o8p)
-- [What is Associative Arrays in Computer Science](https://dev.to/m__mdy__m/what-is-associative-arrays-in-computer-science-1dhe)
+- [React + Vite + Tailwind project](https://dev.to/thinhkhang97/react-vite-tailwind-project-57pf)
+- [Your Weekly Dive into Programming, Web3, and Open-Source Tools](https://dev.to/shreyvijayvargiya/your-weekly-dive-into-programming-web3-and-open-source-tools-28pb)
+- [Backend Development from my view - a little story.](https://dev.to/jprof/backend-development-from-my-view-a-little-story-gfn)
+- [React vs. Angular: A Comprehensive Comparison](https://dev.to/tinkerrbelle/react-vs-angular-a-comprehensive-comparison-4cbl)
 <!-- BLOG-POST-LIST:END -->
 
