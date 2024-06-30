@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React + Vite + Tailwind project](https://dev.to/thinhkhang97/react-vite-tailwind-project-57pf)
-- [Your Weekly Dive into Programming, Web3, and Open-Source Tools](https://dev.to/shreyvijayvargiya/your-weekly-dive-into-programming-web3-and-open-source-tools-28pb)
-- [Backend Development from my view - a little story.](https://dev.to/jprof/backend-development-from-my-view-a-little-story-gfn)
-- [React vs. Angular: A Comprehensive Comparison](https://dev.to/tinkerrbelle/react-vs-angular-a-comprehensive-comparison-4cbl)
+- [Transforming Cloud Infrastructure with Terraform: Build, Change, Deploy](https://dev.to/rashmitha_v_d0cfc20ba7152/transforming-cloud-infrastructure-with-terraform-build-change-deploy-4o4g)
+- [Step-by-Step Guide to Setting Up Push Notifications in Node.js: Backend Configuration](https://dev.to/sanjampreetsingh/step-by-step-guide-to-setting-up-push-notifications-in-nodejs-backend-configuration-53gn)
+- [Creating a Synchronized Vertical and Horizontal Scrolling Component for Web Apps](https://dev.to/rahul_patwa_f99f19cd1519b/creating-a-synchronized-vertical-and-horizontal-scrolling-component-for-web-apps-1igc)
+- [Mastering Grids in UI Design](https://dev.to/prince_chouhan/mastering-grids-in-ui-design-3pbb)
 <!-- BLOG-POST-LIST:END -->
 
