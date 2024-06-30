@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Javascript and TypeSript](https://dev.to/darshan_kumar_c9883cffc18/difference-between-javascript-and-typesript-4cka)
-- [8 mistakes that noob product managers make. Tips from a productperson who has been through it all](https://dev.to/ispmanager/8-mistakes-that-noob-product-managers-make-tips-from-a-productperson-who-has-been-through-it-all-44no)
-- [Difference between normal links &amp; tag links in Next.js](https://dev.to/parsafarahani84/difference-between-normal-links-tag-links-in-nextjs-8m7)
-- [The Ultimate Guide to Laravel: A PHP Framework for Modern Web Applications](https://dev.to/arafatweb/the-ultimate-guide-to-laravel-a-php-framework-for-modern-web-applications-2c3g)
+- [Luhn&#39;s Algorithm: Credit Card Validation](https://dev.to/talk2onyx/luhns-algorithm-credit-card-validation-2plk)
+- [100 Days of Code, Week 1](https://dev.to/jacobsternx/100-days-of-code-week-1-3igb)
+- [Scaling databases with AWS RDS and read replicas](https://dev.to/vivekalhat/scaling-databases-with-aws-rds-and-read-replicas-58h9)
+- [How to Customize GitHub Profile: Part 4](https://dev.to/ryoichihomma/how-to-customize-github-profile-part-4-29h)
 <!-- BLOG-POST-LIST:END -->
 
