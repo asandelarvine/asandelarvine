@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte vs. ReactJS in Modern Frontend Development](https://dev.to/setgram/svelte-vs-reactjs-in-modern-frontend-development-dee)
-- [API Key Authentication with API Gateway using AWS CDK](https://dev.to/aws-builders/api-key-authentication-with-api-gateway-using-aws-cdk-5cjd)
-- [How to validate requests in Amazon API Gateway](https://dev.to/iamsherif/how-to-validate-requests-in-amazon-api-gateway-4n78)
-- [O que aprendi sobre Monitoramento de Aplicações Front-End nos últimos meses.](https://dev.to/soares_pedro/o-que-aprendi-sobre-monitoramento-de-aplicacoes-front-end-nos-ultimos-meses-18ol)
+- [Linux User Creation Bash Script](https://dev.to/kahuna04/linux-user-creation-bash-script-1p97)
+- [Making Common Table Expression SQL More Railsy](https://dev.to/mdchaney/making-common-table-expression-sql-more-railsy-363j)
+- [Top 5 Coolest shadcn/ui Extensions](https://dev.to/dellboyan/top-5-coolest-shadcnui-extensions-4n7i)
+- [Implementando Lazy Loading em Componentes React](https://dev.to/vitorrios1001/implementando-lazy-loading-em-componentes-react-49fg)
 <!-- BLOG-POST-LIST:END -->
 
