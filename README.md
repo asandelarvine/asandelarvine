@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Luhn&#39;s Algorithm: Credit Card Validation](https://dev.to/talk2onyx/luhns-algorithm-credit-card-validation-2plk)
-- [100 Days of Code, Week 1](https://dev.to/jacobsternx/100-days-of-code-week-1-3igb)
-- [Scaling databases with AWS RDS and read replicas](https://dev.to/vivekalhat/scaling-databases-with-aws-rds-and-read-replicas-58h9)
-- [How to Customize GitHub Profile: Part 4](https://dev.to/ryoichihomma/how-to-customize-github-profile-part-4-29h)
+- [Web Components vs. Vanilla JavaScript: A Niche Comparison in Frontend Technologies](https://dev.to/caleb_fadare/web-components-vs-vanilla-javascript-a-niche-comparison-in-frontend-technologies-34mo)
+- [How nodeJS handle multiple task being single-threaded](https://dev.to/tofail/how-nodejs-handl-multiple-task-being-single-threaded-3lh7)
+- [[DAY 66-68] I built a drum set app using React](https://dev.to/thomascansino/day-66-68-i-built-a-drum-set-app-using-react-4i19)
+- [Use AWS Serverless to sell items in Habitica](https://dev.to/aws-builders/use-aws-serverless-to-sell-items-in-habitica-91)
 <!-- BLOG-POST-LIST:END -->
 
