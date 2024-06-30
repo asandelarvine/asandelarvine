@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customize Filament Table Query](https://dev.to/arielmejiadev/customize-filament-table-query-2c2c)
-- [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://dev.to/mdarifulhaque/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable-4h7)
-- [Self-Healing Test Automation: A Key Enabler for Agile and DevOps Teams](https://dev.to/jamescantor38/self-healing-test-automation-a-key-enabler-for-agile-and-devops-teams-1e8i)
-- [Beyond File Explorer: Alternatives for Windows File Explorer](https://dev.to/coffmans/beyond-file-explorer-alternatives-for-windows-file-explorer-46c0)
+- [Legendary Emails in Node js with mjml 📩](https://dev.to/silentwatcher_95/legendary-emails-in-node-js-with-mjml-4gp9)
+- [React State Management: When &amp; Where add your states?](https://dev.to/atenajoon/react-state-management-when-where-add-your-states-3g61)
+- [Top SQL Interview Questions](https://dev.to/shruti_maheshwari_/top-sql-interview-questions-3gp0)
+- [CVE-2024-27867- Eavesdropping vulnerability AirPods](https://dev.to/yowise/cve-2024-27867-eavesdropping-vulnerability-airpods-3c4j)
 <!-- BLOG-POST-LIST:END -->
 
