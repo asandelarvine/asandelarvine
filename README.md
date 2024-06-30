@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zig First Impressions](https://dev.to/nw229/zig-first-impressions-3f5p)
-- [Web Development from my view.](https://dev.to/jprof/web-development-from-my-view-1n8c)
-- [React vs. Vue.js: Comparing two popular component-based frontend technologies](https://dev.to/dmystical_coder/react-vs-vuejs-comparing-two-popular-component-based-frontend-technologies-g50)
-- [About the &quot;S&quot; in Solid](https://dev.to/efpage/about-the-s-in-solid-4gcl)
+- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-5dmk)
+- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-2n6n)
+- [SwiftUI Environment Variables: Navigating the Same-Type Constraint](https://dev.to/asafhuseyn/swiftui-environment-variables-navigating-the-same-type-constraint-3lno)
+- [Building a DOCX to Markdown Converter with Node.js](https://dev.to/sacode/building-a-docx-to-markdown-converter-with-nodejs-1106)
 <!-- BLOG-POST-LIST:END -->
 
