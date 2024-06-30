@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customizing Your Lazyvim Setup for Personal Preferences](https://dev.to/insideee_dev/customizing-your-lazyvim-setup-for-personal-preferences-57)
-- [Unveiling the Shield: Ensuring Security with Open Source 2FA](https://dev.to/verifyvault/unveiling-the-shield-ensuring-security-with-open-source-2fa-nn6)
-- [Comparing Javascript Front-end technologies &lpar;Angular and React&rpar;](https://dev.to/iam_nick/comparing-javascript-front-end-technologies-angular-and-react-d3c)
-- [My Mobile Development Journey and Architectural Insights](https://dev.to/akpamzy_junior_cc600a044d/my-mobile-development-journey-and-architectural-insights-pmg)
+- [How I ensured user authentication, by sending emails in Spring Boot](https://dev.to/walerick/how-i-ensured-user-authentication-by-sending-emails-in-spring-boot-866)
+- [How to Fuzzy Search: Finding File Names and Contents using Bash Scripting and Commandline Tools](https://dev.to/chardskarth/how-to-fuzzy-search-finding-file-names-and-contents-using-bash-scripting-and-commandline-tools-52kd)
+- [Building a Lisp Interpreter in Rust](https://dev.to/galzmarc/building-a-lisp-interpreter-in-rust-2njj)
+- [Functions as User Interface](https://dev.to/khadijagardezi/functions-as-user-interface-35c8)
 <!-- BLOG-POST-LIST:END -->
 
