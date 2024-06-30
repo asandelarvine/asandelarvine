@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unified Approximation Theorem for Neural Networks](https://dev.to/ramsi90/unified-approximation-theorem-for-neural-networks-2b23)
-- [7 Best Practices for ReactJS Development in 2024](https://dev.to/vyan/7-best-practices-for-reactjs-development-in-2024-1a6e)
-- [Getting Started with Python: A Beginner&#39;s Guide](https://dev.to/tinapyp/getting-started-with-python-a-beginners-guide-29f2)
-- [Building TailwindUI&#39;s Spotlight using SvelteKit and Svelte 5 with TailwindCSS](https://dev.to/sirneij/building-tailwinduis-spotlight-using-sveltekit-and-svelte-5-with-tailwindcss-5f7f)
+- [Using JSONB in PostgreSQL](https://dev.to/chauhoangminhnguyen/using-jsonb-in-postgresql-55ao)
+- [What is an Observability Pipeline?](https://dev.to/rickysarora/what-is-an-observability-pipeline-2n56)
+- [How I created reusable React Icon Component using react-icons library in an AstroJs Project.](https://dev.to/mrpaulishaili/how-i-created-reusable-react-icon-component-using-react-icons-library-in-an-astrojs-project-nk4)
+- [Remove Duplicate Elements from JavaScript Array](https://dev.to/dharam/remove-duplicate-elements-from-javascript-array-3862)
 <!-- BLOG-POST-LIST:END -->
 
