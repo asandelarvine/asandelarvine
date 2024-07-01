@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics](https://dev.to/mikeyoung44/do-llms-have-distinct-and-consistent-personality-trait-personality-testset-designed-for-llms-with-psychometrics-12c1)
-- [From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data](https://dev.to/mikeyoung44/from-artificial-needles-to-real-haystacks-improving-retrieval-capabilities-in-llms-by-finetuning-on-synthetic-data-308g)
-- [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://dev.to/mikeyoung44/computational-life-how-well-formed-self-replicating-programs-emerge-from-simple-interaction-jfh)
-- [Evaluating the Social Impact of Generative AI Systems in Systems and Society](https://dev.to/mikeyoung44/evaluating-the-social-impact-of-generative-ai-systems-in-systems-and-society-1280)
+- [Intern level: React State and Props](https://dev.to/david_zamoraballesteros_/intern-level-react-state-and-props-4hch)
+- [Architect level: Core Concepts of React](https://dev.to/david_zamoraballesteros_/architect-level-core-concepts-of-react-5973)
+- [API Gateways](https://dev.to/abhishek_konthalapalli_38/api-gateways-2dcl)
+- [User Management Automation : Bash Script Guide](https://dev.to/augusthottie/user-management-automation-bash-script-guide-14pl)
 <!-- BLOG-POST-LIST:END -->
 
