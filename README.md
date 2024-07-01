@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4p8i)
-- [Functional Patterns: Composition and Implicitness](https://dev.to/if-els/functional-patterns-composition-and-implicitness-4n08)
-- [Alternatives of Microsoft Project with the highest review ratings](https://dev.to/nicklasmikke1sen/alternatives-of-microsoft-project-with-the-highest-review-ratings-1h2)
-- [Haskell Programming](https://dev.to/bekbrace/haskell-programming-2ll2)
+- [Bumping the Node.js version to higher version](https://dev.to/hashcode01/bumping-the-nodejs-version-to-higher-version-55i)
+- [Major Identity Verification Firm AU10TIX Exposes User Data in Year-Long Security Lapse](https://dev.to/clouddefenseai/major-identity-verification-firm-au10tix-exposes-user-data-in-year-long-security-lapse-1g2b)
+- [AIM Weekly for 01-July-2024](https://dev.to/tspannhw/aim-weekly-for-01-july-2024-1li2)
+- [How to Implement Two-Factor Authentication &lpar;2FA&rpar; in Golang](https://dev.to/permify/how-to-implement-two-factor-authentication-2fa-in-golang-2jg3)
 <!-- BLOG-POST-LIST:END -->
 
