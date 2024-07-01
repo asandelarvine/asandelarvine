@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Core CI/CD Concepts: A Comprehensive Overview](https://dev.to/kshyam/core-cicd-concepts-a-comprehensive-overview-ma6)
-- [The Most Comprehensive Guide to Read On Mobile Testing](https://dev.to/morrismoses149/the-most-comprehensive-guide-to-read-on-mobile-testing-4lcf)
-- [Creating Bash Scripts for User Management](https://dev.to/oluchi_oraekwe_b0bf2c5abc/creating-bash-scripts-for-user-management-47ce)
-- [Segment Anything in a CT Scan with NVIDIA VISTA-3D](https://dev.to/voxel51/segment-anything-in-a-ct-scan-with-nvidia-vista-3d-4jb3)
+- [Cybersecurity 101 for Developers: From Zero to Hero](https://dev.to/3a5abi/cybersecurity-101-for-developers-from-zero-to-hero-22mc)
+- [You Don&#39;t Know Undo/Redo](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
+- [Mental Challenges](https://dev.to/mutantmalu/mental-challenges-3ji5)
+- [How I Build Projects Faster - My Stack and Strategies](https://dev.to/juanemilio31323/how-i-build-projects-faster-my-stack-and-strategies-3hpg)
 <!-- BLOG-POST-LIST:END -->
 
