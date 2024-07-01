@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bumping the Node.js version to higher version](https://dev.to/hashcode01/bumping-the-nodejs-version-to-higher-version-55i)
-- [Major Identity Verification Firm AU10TIX Exposes User Data in Year-Long Security Lapse](https://dev.to/clouddefenseai/major-identity-verification-firm-au10tix-exposes-user-data-in-year-long-security-lapse-1g2b)
-- [AIM Weekly for 01-July-2024](https://dev.to/tspannhw/aim-weekly-for-01-july-2024-1li2)
-- [How to Implement Two-Factor Authentication &lpar;2FA&rpar; in Golang](https://dev.to/permify/how-to-implement-two-factor-authentication-2fa-in-golang-2jg3)
+- [This Month in Solid #5: Data APIs RFC 😎](https://dev.to/danieljcafonso/this-month-in-solid-5-data-apis-rfc-4n0f)
+- [Automating User and Group Management with a Bash Script](https://dev.to/tosyeno/automating-user-and-group-management-with-a-bash-script-3d6h)
+- [How to Customize GitHub Profile: Part 5](https://dev.to/ryoichihomma/how-to-customize-github-profile-part-5-23po)
+- [ESLint and Prettier: A Guide to Cleaner Code](https://dev.to/joylee/eslint-and-prettier-a-guide-to-cleaner-code-5go9)
 <!-- BLOG-POST-LIST:END -->
 
