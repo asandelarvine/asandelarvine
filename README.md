@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Month in Solid #5: Data APIs RFC 😎](https://dev.to/danieljcafonso/this-month-in-solid-5-data-apis-rfc-4n0f)
-- [Automating User and Group Management with a Bash Script](https://dev.to/tosyeno/automating-user-and-group-management-with-a-bash-script-3d6h)
-- [How to Customize GitHub Profile: Part 5](https://dev.to/ryoichihomma/how-to-customize-github-profile-part-5-23po)
-- [ESLint and Prettier: A Guide to Cleaner Code](https://dev.to/joylee/eslint-and-prettier-a-guide-to-cleaner-code-5go9)
+- [DAY 21 : Docker Important interview Questions.](https://dev.to/oncloud7/day-21-docker-important-interview-questions-ek9)
+- [🌟 Mastering Palindrome Checks in C Programming 🌟](https://dev.to/moksh57/mastering-palindrome-checks-in-c-programming-18hm)
+- [Context API](https://dev.to/niyi0904/context-api-2268)
+- [Automating User Management with a Bash Script](https://dev.to/phoenixdahdev/automating-user-management-with-a-bash-script-347)
 <!-- BLOG-POST-LIST:END -->
 
