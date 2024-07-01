@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 21 : Docker Important interview Questions.](https://dev.to/oncloud7/day-21-docker-important-interview-questions-ek9)
-- [🌟 Mastering Palindrome Checks in C Programming 🌟](https://dev.to/moksh57/mastering-palindrome-checks-in-c-programming-18hm)
-- [Context API](https://dev.to/niyi0904/context-api-2268)
-- [Automating User Management with a Bash Script](https://dev.to/phoenixdahdev/automating-user-management-with-a-bash-script-347)
+- [Introduction On IDE.&lpar;Part 1&rpar;.](https://dev.to/bhat_vishwas/introduction-on-idepart-1-34ag)
+- [Linux Users and Groups Management using Bash Script](https://dev.to/fajmayor/linux-users-and-groups-management-using-bash-script-oj2)
+- [What are your goals for week 27 of 2024? Midyear.](https://dev.to/jarvisscript/what-are-your-goals-for-week-27-of-2024-midyear-4b6j)
+- [Tackling a Tough Backend Challenge: Building a Distributed Task Scheduler](https://dev.to/fikan/tackling-a-tough-backend-challenge-building-a-distributed-task-scheduler-29i0)
 <!-- BLOG-POST-LIST:END -->
 
