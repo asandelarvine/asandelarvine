@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When to use `link_to` and `button_to` in Rails](https://dev.to/railsdesigner/when-to-use-linkto-and-buttonto-in-rails-2og6)
-- [How I Built an AI-Powered YouTube Video Summarizer to Save Time](https://dev.to/enzocheva/how-i-built-an-ai-powered-youtube-video-summarizer-to-save-time-5dd5)
-- [Avoiding Common useState&lpar;&rpar; Mistakes in React](https://dev.to/harsh8088/avoiding-common-usestate-mistakes-in-react-3aao)
-- [Enhancing Project Accuracy with Architectural CAD Design and Drafting Services](https://dev.to/pavan_sai_7/enhancing-project-accuracy-with-architectural-cad-design-and-drafting-services-4mf4)
+- [AI Tools for Developers in 2024](https://dev.to/sh20raj/ai-tools-for-developers-in-2024-6k1)
+- [Toggle Windows audio output devices from the command line](https://dev.to/codewithcaen/toggle-windows-audio-output-devices-from-the-command-line-1gk3)
+- [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
+- [Speeding Up Go Concurrency: Unlocking the Power of Array Segmentation](https://dev.to/agtabesh/speeding-up-go-concurrency-unlocking-the-power-of-array-segmentation-3dl2)
 <!-- BLOG-POST-LIST:END -->
 
