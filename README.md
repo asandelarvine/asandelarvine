@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction On IDE.&lpar;Part 1&rpar;.](https://dev.to/bhat_vishwas/introduction-on-idepart-1-34ag)
-- [Linux Users and Groups Management using Bash Script](https://dev.to/fajmayor/linux-users-and-groups-management-using-bash-script-oj2)
-- [What are your goals for week 27 of 2024? Midyear.](https://dev.to/jarvisscript/what-are-your-goals-for-week-27-of-2024-midyear-4b6j)
-- [Tackling a Tough Backend Challenge: Building a Distributed Task Scheduler](https://dev.to/fikan/tackling-a-tough-backend-challenge-building-a-distributed-task-scheduler-29i0)
+- [Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics](https://dev.to/mikeyoung44/do-llms-have-distinct-and-consistent-personality-trait-personality-testset-designed-for-llms-with-psychometrics-12c1)
+- [From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data](https://dev.to/mikeyoung44/from-artificial-needles-to-real-haystacks-improving-retrieval-capabilities-in-llms-by-finetuning-on-synthetic-data-308g)
+- [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://dev.to/mikeyoung44/computational-life-how-well-formed-self-replicating-programs-emerge-from-simple-interaction-jfh)
+- [Evaluating the Social Impact of Generative AI Systems in Systems and Society](https://dev.to/mikeyoung44/evaluating-the-social-impact-of-generative-ai-systems-in-systems-and-society-1280)
 <!-- BLOG-POST-LIST:END -->
 
