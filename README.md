@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux User Creation Bash Script](https://dev.to/kahuna04/linux-user-creation-bash-script-1p97)
-- [Making Common Table Expression SQL More Railsy](https://dev.to/mdchaney/making-common-table-expression-sql-more-railsy-363j)
-- [Top 5 Coolest shadcn/ui Extensions](https://dev.to/dellboyan/top-5-coolest-shadcnui-extensions-4n7i)
-- [Implementando Lazy Loading em Componentes React](https://dev.to/vitorrios1001/implementando-lazy-loading-em-componentes-react-49fg)
+- [InstantClick &lpar;Turbo-Prefetch&rpar; in Rails 8: A Quick Guide](https://dev.to/jessalejo/instantclick-turbo-prefetch-in-rails-8-a-quick-guide-2a8e)
+- [Designing Flexible and Extensible Software Systems with OOP](https://dev.to/muhammad_salem/designing-flexible-and-extensible-software-systems-with-oop-3a28)
+- [Advanced Networking Concepts with Cisco Packet Tracer](https://dev.to/kartikmehta8/advanced-networking-concepts-with-cisco-packet-tracer-35bc)
+- [[Help] [Telegram Bot] Can I get the user IP address with telegram bot?](https://dev.to/dev188007/help-telegram-bot-can-i-get-the-user-ip-address-with-telegram-bot-ke5)
 <!-- BLOG-POST-LIST:END -->
 
