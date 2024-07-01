@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como usamos tunelamento de rede para criar um servidor de minecraft.](https://dev.to/nevidomyyb/como-usamos-tunelamento-de-rede-para-criar-um-servidor-de-minecraft-3ih7)
-- [Understanding JavaScript&#39;s `==` and `===`: Equality and Identity](https://dev.to/manthanank/understanding-javascripts-and-equality-and-identity-34lj)
-- [4DEV: The Ultimate Toolkit Collection for Developers 🚀](https://dev.to/raja_rakoto/4dev-the-ultimate-toolkit-collection-for-developers-3l9n)
-- [How to hack your Google Lighthouse scores in 2024](https://dev.to/whitep4nth3r/how-to-hack-your-google-lighthouse-scores-in-2024-4439)
+- [When to use `link_to` and `button_to` in Rails](https://dev.to/railsdesigner/when-to-use-linkto-and-buttonto-in-rails-2og6)
+- [How I Built an AI-Powered YouTube Video Summarizer to Save Time](https://dev.to/enzocheva/how-i-built-an-ai-powered-youtube-video-summarizer-to-save-time-5dd5)
+- [Avoiding Common useState&lpar;&rpar; Mistakes in React](https://dev.to/harsh8088/avoiding-common-usestate-mistakes-in-react-3aao)
+- [Enhancing Project Accuracy with Architectural CAD Design and Drafting Services](https://dev.to/pavan_sai_7/enhancing-project-accuracy-with-architectural-cad-design-and-drafting-services-4mf4)
 <!-- BLOG-POST-LIST:END -->
 
