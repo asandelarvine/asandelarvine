@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 amazing things you can do with simple JavaScript 🤯](https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88)
-- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-347l)
-- [LeetCode Day22 BackTracking Part 4](https://dev.to/flame_chan_llll/leetcode-day22-backtracking-part-4-16fa)
-- [Recursion, Design and Analysis of Algorithms](https://dev.to/harshm03/recursion-design-and-analysis-of-algorithms-kmo)
+- [12 easy SEO Tips Every Developer Should Know](https://dev.to/acidop/12-easy-seo-tips-every-developer-should-know-52k3)
+- [Automating Semantic Versioning with Github Actions and Branch Naming Conventions](https://dev.to/plutov/automating-semantic-versioning-with-github-actions-and-branch-naming-conventions-33oh)
+- [Log and trace management made easy. Quickwit Integration via Glasskube](https://dev.to/glasskube/log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2)
+- [Managing Multiple Environments with Terraform Workspaces](https://dev.to/sepiyush/managing-multiple-environments-with-terraform-workspaces-3pk)
 <!-- BLOG-POST-LIST:END -->
 
