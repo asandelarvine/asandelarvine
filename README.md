@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InstantClick &lpar;Turbo-Prefetch&rpar; in Rails 8: A Quick Guide](https://dev.to/jessalejo/instantclick-turbo-prefetch-in-rails-8-a-quick-guide-2a8e)
-- [Designing Flexible and Extensible Software Systems with OOP](https://dev.to/muhammad_salem/designing-flexible-and-extensible-software-systems-with-oop-3a28)
-- [Advanced Networking Concepts with Cisco Packet Tracer](https://dev.to/kartikmehta8/advanced-networking-concepts-with-cisco-packet-tracer-35bc)
-- [[Help] [Telegram Bot] Can I get the user IP address with telegram bot?](https://dev.to/dev188007/help-telegram-bot-can-i-get-the-user-ip-address-with-telegram-bot-ke5)
+- [Explain Like I&#39;m Five: Git and GitHub](https://dev.to/thekarlesi/explain-like-im-five-git-and-github-27f4)
+- [Struggling with Brand Icons in Web Development? Try Simple Icons!](https://dev.to/deni_sugiarto_1a01ad7c3fb/struggling-with-brand-icons-in-web-development-try-simple-icons-fkd)
+- [React vs. Next.js: A Comparative Guide for Modern Web Development](https://dev.to/juliet_obi/react-vs-nextjs-a-comparative-guide-for-modern-web-development-1o8m)
+- [Simplifying The Stack: Angular or React - A Developer&#39;s Decision Guide in 2024](https://dev.to/rayrugie/simplifying-the-stack-angular-or-react-a-developers-decision-guide-in-2024-1a0i)
 <!-- BLOG-POST-LIST:END -->
 
