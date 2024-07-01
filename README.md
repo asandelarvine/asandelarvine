@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 easy SEO Tips Every Developer Should Know](https://dev.to/acidop/12-easy-seo-tips-every-developer-should-know-52k3)
-- [Automating Semantic Versioning with Github Actions and Branch Naming Conventions](https://dev.to/plutov/automating-semantic-versioning-with-github-actions-and-branch-naming-conventions-33oh)
-- [Log and trace management made easy. Quickwit Integration via Glasskube](https://dev.to/glasskube/log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2)
-- [Managing Multiple Environments with Terraform Workspaces](https://dev.to/sepiyush/managing-multiple-environments-with-terraform-workspaces-3pk)
+- [Meme Monday](https://dev.to/ben/meme-monday-4p8i)
+- [Functional Patterns: Composition and Implicitness](https://dev.to/if-els/functional-patterns-composition-and-implicitness-4n08)
+- [Alternatives of Microsoft Project with the highest review ratings](https://dev.to/nicklasmikke1sen/alternatives-of-microsoft-project-with-the-highest-review-ratings-1h2)
+- [Haskell Programming](https://dev.to/bekbrace/haskell-programming-2ll2)
 <!-- BLOG-POST-LIST:END -->
 
