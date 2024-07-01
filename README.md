@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analizando el &quot;Hola mundo&quot; en NEAR Contrato y Frontend 🤠](https://dev.to/sergiotechx/analizando-el-hola-mundo-en-near-contrato-y-frontend-1lpf)
-- [Rotating Dodecahedron](https://dev.to/dan52242644dan/rotating-dodecahedron-k0i)
-- [Frontend developer must read about polyfill? why?](https://dev.to/davidwilliam_/frontend-must-delete-polyfillwhy-52p1)
-- [Kubernetes Port Forward Command: A Comprehensive Guide](https://dev.to/labex/kubernetes-port-forward-command-a-comprehensive-guide-33g1)
+- [Four Lessons I Wish I Knew Before Becoming a Software Engineer](https://dev.to/canro91/four-lessons-i-wished-i-knew-before-becoming-a-software-engineer-38lg)
+- [Design: The Ultimate Developer Hack](https://dev.to/shieldstring/design-the-ultimate-developer-hack-19e9)
+- [Measuring Community Health: The Metrics That Actually Matter for Startup DevTools](https://dev.to/swati1267/measuring-community-health-the-metrics-that-actually-matter-for-startup-devtools-529k)
+- [What Is Staff Augmentation In Consulting?](https://dev.to/bytesfarms/what-is-staff-augmentation-in-consulting-1heb)
 <!-- BLOG-POST-LIST:END -->
 
