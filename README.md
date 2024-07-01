@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Secrets: How Next.js Powers Exceptional SEO for Your Web App](https://dev.to/vyan/unveiling-the-secrets-how-nextjs-powers-exceptional-seo-for-your-web-app-3729)
-- [Mastering React Rendering: Tips, Tricks, and Best Practices](https://dev.to/pawanupadhyay10/mastering-react-rendering-tips-tricks-and-best-practices-1f84)
-- [&lpar;Part 11&rpar;Golang Framework Hands-on - Adaptive Registration of FaaS Parameter Types Based on Reflection](https://dev.to/aceld/part-11golang-framework-hands-on-adaptive-registration-of-faas-parameter-types-based-on-reflection-15i9)
-- [Javascript Quizzes You Can&#39;t Solve](https://dev.to/untilyou58/javascript-quizzes-you-cant-solve-44mp)
+- [Analizando el &quot;Hola mundo&quot; en NEAR Contrato y Frontend 🤠](https://dev.to/sergiotechx/analizando-el-hola-mundo-en-near-contrato-y-frontend-1lpf)
+- [Rotating Dodecahedron](https://dev.to/dan52242644dan/rotating-dodecahedron-k0i)
+- [Frontend developer must read about polyfill? why?](https://dev.to/davidwilliam_/frontend-must-delete-polyfillwhy-52p1)
+- [Kubernetes Port Forward Command: A Comprehensive Guide](https://dev.to/labex/kubernetes-port-forward-command-a-comprehensive-guide-33g1)
 <!-- BLOG-POST-LIST:END -->
 
