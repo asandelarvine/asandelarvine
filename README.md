@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Four Lessons I Wish I Knew Before Becoming a Software Engineer](https://dev.to/canro91/four-lessons-i-wished-i-knew-before-becoming-a-software-engineer-38lg)
-- [Design: The Ultimate Developer Hack](https://dev.to/shieldstring/design-the-ultimate-developer-hack-19e9)
-- [Measuring Community Health: The Metrics That Actually Matter for Startup DevTools](https://dev.to/swati1267/measuring-community-health-the-metrics-that-actually-matter-for-startup-devtools-529k)
-- [What Is Staff Augmentation In Consulting?](https://dev.to/bytesfarms/what-is-staff-augmentation-in-consulting-1heb)
+- [Revolutionize Your Movie Script Translation with AI](https://dev.to/harshitlyzr/revolutionize-your-movie-script-translation-with-ai-27gm)
+- [I&#39;m Under DDoS Attack](https://dev.to/hoaitx/im-under-ddos-attack-2p5j)
+- [How to Scrape Amazon: A Comprehensive Guide](https://dev.to/ionegarza/how-to-scrape-amazon-a-comprehensive-guide-502a)
+- [How to - Process CSV in Power Automate](https://dev.to/wyattdave/how-to-process-csv-in-power-automate-535f)
 <!-- BLOG-POST-LIST:END -->
 
