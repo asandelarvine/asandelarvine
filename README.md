@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Your Movie Script Translation with AI](https://dev.to/harshitlyzr/revolutionize-your-movie-script-translation-with-ai-27gm)
-- [I&#39;m Under DDoS Attack](https://dev.to/hoaitx/im-under-ddos-attack-2p5j)
-- [How to Scrape Amazon: A Comprehensive Guide](https://dev.to/ionegarza/how-to-scrape-amazon-a-comprehensive-guide-502a)
-- [How to - Process CSV in Power Automate](https://dev.to/wyattdave/how-to-process-csv-in-power-automate-535f)
+- [Unraveling the URL Enigma with Power Automate’s C# Plugin](https://dev.to/balagmadhu/unraveling-the-url-enigma-with-power-automates-c-plugin-jni)
+- [Building a RESTful API with Spring Boot: A Comprehensive Guide to @RequestMapping](https://dev.to/jottyjohn/building-a-restful-api-with-spring-boot-a-comprehensive-guide-to-requestmapping-49lf)
+- [Liberty Beats - Build a DAW in React](https://dev.to/coluzziandrea/liberty-beats-build-a-daw-in-react-1l89)
+- [Build a Responsive Modern Website with Next.js14, TypeScript, and Tailwind CSS](https://dev.to/sudhanshuambastha/build-a-responsive-modern-website-with-nextjs14-typescript-and-tailwind-css-10pn)
 <!-- BLOG-POST-LIST:END -->
 
