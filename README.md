@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intern level: React State and Props](https://dev.to/david_zamoraballesteros_/intern-level-react-state-and-props-4hch)
-- [Architect level: Core Concepts of React](https://dev.to/david_zamoraballesteros_/architect-level-core-concepts-of-react-5973)
-- [API Gateways](https://dev.to/abhishek_konthalapalli_38/api-gateways-2dcl)
-- [User Management Automation : Bash Script Guide](https://dev.to/augusthottie/user-management-automation-bash-script-guide-14pl)
+- [Core CI/CD Concepts: A Comprehensive Overview](https://dev.to/kshyam/core-cicd-concepts-a-comprehensive-overview-ma6)
+- [The Most Comprehensive Guide to Read On Mobile Testing](https://dev.to/morrismoses149/the-most-comprehensive-guide-to-read-on-mobile-testing-4lcf)
+- [Creating Bash Scripts for User Management](https://dev.to/oluchi_oraekwe_b0bf2c5abc/creating-bash-scripts-for-user-management-47ce)
+- [Segment Anything in a CT Scan with NVIDIA VISTA-3D](https://dev.to/voxel51/segment-anything-in-a-ct-scan-with-nvidia-vista-3d-4jb3)
 <!-- BLOG-POST-LIST:END -->
 
