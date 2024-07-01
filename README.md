@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unraveling the URL Enigma with Power Automate’s C# Plugin](https://dev.to/balagmadhu/unraveling-the-url-enigma-with-power-automates-c-plugin-jni)
-- [Building a RESTful API with Spring Boot: A Comprehensive Guide to @RequestMapping](https://dev.to/jottyjohn/building-a-restful-api-with-spring-boot-a-comprehensive-guide-to-requestmapping-49lf)
-- [Liberty Beats - Build a DAW in React](https://dev.to/coluzziandrea/liberty-beats-build-a-daw-in-react-1l89)
-- [Build a Responsive Modern Website with Next.js14, TypeScript, and Tailwind CSS](https://dev.to/sudhanshuambastha/build-a-responsive-modern-website-with-nextjs14-typescript-and-tailwind-css-10pn)
+- [Como usamos tunelamento de rede para criar um servidor de minecraft.](https://dev.to/nevidomyyb/como-usamos-tunelamento-de-rede-para-criar-um-servidor-de-minecraft-3ih7)
+- [Understanding JavaScript&#39;s `==` and `===`: Equality and Identity](https://dev.to/manthanank/understanding-javascripts-and-equality-and-identity-34lj)
+- [4DEV: The Ultimate Toolkit Collection for Developers 🚀](https://dev.to/raja_rakoto/4dev-the-ultimate-toolkit-collection-for-developers-3l9n)
+- [How to hack your Google Lighthouse scores in 2024](https://dev.to/whitep4nth3r/how-to-hack-your-google-lighthouse-scores-in-2024-4439)
 <!-- BLOG-POST-LIST:END -->
 
