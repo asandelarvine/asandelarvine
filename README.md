@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools for Developers in 2024](https://dev.to/sh20raj/ai-tools-for-developers-in-2024-6k1)
-- [Toggle Windows audio output devices from the command line](https://dev.to/codewithcaen/toggle-windows-audio-output-devices-from-the-command-line-1gk3)
-- [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
-- [Speeding Up Go Concurrency: Unlocking the Power of Array Segmentation](https://dev.to/agtabesh/speeding-up-go-concurrency-unlocking-the-power-of-array-segmentation-3dl2)
+- [15 amazing things you can do with simple JavaScript 🤯](https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88)
+- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-347l)
+- [LeetCode Day22 BackTracking Part 4](https://dev.to/flame_chan_llll/leetcode-day22-backtracking-part-4-16fa)
+- [Recursion, Design and Analysis of Algorithms](https://dev.to/harshm03/recursion-design-and-analysis-of-algorithms-kmo)
 <!-- BLOG-POST-LIST:END -->
 
