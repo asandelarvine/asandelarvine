@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity 101 for Developers: From Zero to Hero](https://dev.to/3a5abi/cybersecurity-101-for-developers-from-zero-to-hero-22mc)
-- [You Don&#39;t Know Undo/Redo](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
-- [Mental Challenges](https://dev.to/mutantmalu/mental-challenges-3ji5)
-- [How I Build Projects Faster - My Stack and Strategies](https://dev.to/juanemilio31323/how-i-build-projects-faster-my-stack-and-strategies-3hpg)
+- [Comparing Sass and Vue: A Deep Dive into Two Frontend Technologies](https://dev.to/variant/comparing-sass-and-vue-a-deep-dive-into-two-frontend-technologies-578f)
+- [Abstract &amp; Interface in C#](https://dev.to/locnguyenpv/abstract-interface-in-c-23f2)
+- [SQL Course: Self Join](https://dev.to/emanuelgustafzon/sql-course-self-join-5g0g)
+- [Don&#39;t be a jack of all trades: The incredible importance of domain knowledge for software testers.](https://dev.to/lanr3waju/dont-be-a-jack-of-all-trades-the-incredible-importance-of-domain-knowledge-for-software-testers-2pgc)
 <!-- BLOG-POST-LIST:END -->
 
