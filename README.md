@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Events](https://dev.to/ben-witt/domain-events-2772)
-- [My internship journey at HNG](https://dev.to/birusha/my-internship-journey-at-hng-5cg2)
-- [My Learning Journey in CI/CD with Local IIS Server](https://dev.to/jawad_hayat/my-learning-journey-in-cicd-with-local-iis-server-hp4)
-- [Automating User and Group Management with a Bash Script](https://dev.to/afeezaa/automating-user-and-group-management-with-a-bash-script-59je)
+- [The Ultimate MongoDB Configuration Cheatsheet: Tips and Commands](https://dev.to/stormsidali2001/the-ultimate-mongodb-configuration-cheatsheet-tips-and-commands-1j5p)
+- [Navigating the Future: Exploring Appium Testing for Smart TVs](https://dev.to/jennife05918349/navigating-the-future-exploring-appium-testing-for-smart-tvs-3d9a)
+- [Navigating the Future: Exploring Appium Testing for Smart TVs](https://dev.to/jennife05918349/navigating-the-future-exploring-appium-testing-for-smart-tvs-fjg)
+- [{SDK vs Runtime}](https://dev.to/firdavs090/sdk-vs-runtime-28b)
 <!-- BLOG-POST-LIST:END -->
 
