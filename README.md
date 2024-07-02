@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.4](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-24-5a0)
-- [User&lpar;s&rpar; Creation Automation with Bash](https://dev.to/0xugochukwu/users-creation-automation-with-bash-461m)
-- [Recursion vs. Iteration](https://dev.to/paulike/recursion-vs-iteration-df)
-- [Case Study: Fractals](https://dev.to/paulike/case-study-fractals-70m)
+- [Generating PDF documents in Laravel](https://dev.to/alphaolomi/generating-pdf-documents-in-laravel-n07)
+- [[Game of Purpose] Day 45 - HUD](https://dev.to/humberd/game-of-purpose-day-45-hud-51h7)
+- [Automating User Management with Advanced Bashscript](https://dev.to/laraadeboye/automating-user-management-with-advanced-bashscript-4m8p)
+- [Automating User Creation and Management with Bash: A Step-by-Step Guide](https://dev.to/victorthegreat7/automating-user-creation-and-management-with-bash-a-step-by-step-guide-2oma)
 <!-- BLOG-POST-LIST:END -->
 
