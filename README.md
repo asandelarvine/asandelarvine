@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2cfe)
-- [What&#39;s the difference between Css &amp; Scss](https://dev.to/peterbabs/whats-the-difference-between-css-scss-29b2)
-- [My HNG journey. Stage Zero: How to Deploy a Static Webpage Using Nginx](https://dev.to/ravencodess/my-hng-journey-stage-zero-how-to-deploy-a-static-webpage-using-nginx-55ij)
-- [Creating a Dynamic Blog with Flask, HTMX, TailwindCSS, and Authentication &lpar;Part 2&rpar;](https://dev.to/3a5abi/creating-a-dynamic-blog-with-flask-htmx-tailwindcss-and-authentication-part-2-3n2i)
+- [Call to Action: 8 Convincing CTA Design Tips](https://dev.to/agunwachidiebelecalistus/call-to-action-8convincing-cta-designtips-c2f)
+- [30 days of AWS - Part 3: AWS Well-Architected Framework](https://dev.to/achenchi/30-days-of-aws-part-3-aws-well-architected-framework-8c0)
+- [I lost $93 while testing the newly released Open AI vision](https://dev.to/mrsaadfazal/i-lost-93-while-testing-the-newly-released-open-ai-vision-1k20)
+- [Recursion](https://dev.to/paulike/recursion-d1a)
 <!-- BLOG-POST-LIST:END -->
 
