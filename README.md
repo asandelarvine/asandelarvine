@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating PDF documents in Laravel](https://dev.to/alphaolomi/generating-pdf-documents-in-laravel-n07)
-- [[Game of Purpose] Day 45 - HUD](https://dev.to/humberd/game-of-purpose-day-45-hud-51h7)
-- [Automating User Management with Advanced Bashscript](https://dev.to/laraadeboye/automating-user-management-with-advanced-bashscript-4m8p)
-- [Automating User Creation and Management with Bash: A Step-by-Step Guide](https://dev.to/victorthegreat7/automating-user-creation-and-management-with-bash-a-step-by-step-guide-2oma)
+- [User and groups creation automation in linux](https://dev.to/celestina/user-and-groups-creation-automation-in-linux-41pb)
+- [Object-Oriented Analysis and Design &lpar;OOAD&rpar; for the Parking Lot System](https://dev.to/muhammad_salem/object-oriented-analysis-and-design-ooad-for-the-parking-lot-system-i2o)
+- [ClippyAI - A Local AI Agent](https://dev.to/mrdoe/clippyai-59h7)
+- [Bootstrap - Sistema de cuadricula](https://dev.to/fernandomoyano/bootstrap-sistema-de-cuadricula-31cl)
 <!-- BLOG-POST-LIST:END -->
 
