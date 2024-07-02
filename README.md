@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #130: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-130-explica-este-codigo-python-4gc8)
-- [MongoDB vs. Relational Databases: A Comprehensive Guide](https://dev.to/stormsidali2001/mongodb-vs-relational-databases-a-comprehensive-guide-474g)
-- [The Ultimate Guide to Finding and Using Free APIs](https://dev.to/sattyam/the-ultimate-guide-to-finding-and-using-free-apis-2imb)
-- [AWS cost control last resort, the killer lambda](https://dev.to/kodsama/aws-cost-control-last-resort-the-killer-lambda-5mk)
+- [Mastering Tailwind CSS: A Guide to Padding, Margin, and Borders](https://dev.to/codeparrot/mastering-tailwind-css-a-guide-to-padding-margin-and-borders-4ee6)
+- [Step-by-Step Guide to Creating a Fullstack Mood Tracker CRUD App with React, Node.js, and SQLite.](https://dev.to/jm27/step-by-step-guide-to-creating-a-fullstack-mood-tracker-crud-app-with-react-nodejs-and-sqlite-30gb)
+- [Svelte vs. React](https://dev.to/dannytech/svelte-vs-react-18al)
+- [Enhance Your Application Security with NMAP and OWASP ZAP: A Practical Guide](https://dev.to/ashhadali/enhance-your-application-security-with-nmap-and-owasp-zap-a-practical-guide-5690)
 <!-- BLOG-POST-LIST:END -->
 
