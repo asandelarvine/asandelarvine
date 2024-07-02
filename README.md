@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between null and undefined?](https://dev.to/abdurahmon_mansurov/what-is-the-difference-between-null-and-undefined-5hg7)
-- [Recursive Selection Sort](https://dev.to/paulike/recursive-selection-sort-2jkl)
-- [Recursive Helper Methods](https://dev.to/paulike/recursive-helper-methods-4fpd)
-- [Automation with Bash](https://dev.to/olavic/automation-with-bash-772)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.4](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-24-5a0)
+- [User&lpar;s&rpar; Creation Automation with Bash](https://dev.to/0xugochukwu/users-creation-automation-with-bash-461m)
+- [Recursion vs. Iteration](https://dev.to/paulike/recursion-vs-iteration-df)
+- [Case Study: Fractals](https://dev.to/paulike/case-study-fractals-70m)
 <!-- BLOG-POST-LIST:END -->
 
