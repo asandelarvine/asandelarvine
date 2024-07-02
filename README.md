@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate NixOS Homelab Guide - Flakes, Modules and Fail2Ban w/ Cloudflare](https://dev.to/jasper-at-windswept/the-ultimate-nixos-homelab-guide-flakes-modules-and-fail2ban-w-cloudflare-25ba)
-- [Mapping LLM Integration Levels to Levels of Autonomous Driving, it does not have to be all or nothing!](https://dev.to/alnutile/mapping-llm-integration-levels-to-levels-of-autonomous-driving-it-does-not-have-to-be-all-or-nothing-2m0j)
-- [Step Toward Better Tenant Provisioning](https://dev.to/aws-builders/step-toward-better-tenant-provisioning-30e0)
-- [Why you can play Super Mario 64 from the browser &lpar;and become a frontend dev without Javascript&rpar;](https://dev.to/mauroaccorinti/why-you-can-play-super-mario-64-from-the-browser-and-become-a-frontend-dev-without-javascript-3710)
+- [How to Deploy a React App to GitHub Pages](https://dev.to/sh20raj/how-to-deploy-a-react-app-to-github-pages-29li)
+- [Crafting a Node.js based framework SDK for Logto in minutes](https://dev.to/logto/crafting-a-nodejs-based-framework-sdk-for-logto-in-minutes-1b63)
+- [[LeetCode] Visualization of Reverse Linked List](https://dev.to/lada496/leetcode-visualization-of-reverse-linked-list-c35)
+- [Configurando o Spring com JPA e Microsoft SQL Server](https://dev.to/kbdemiranda/configurando-o-spring-com-jpa-e-microsoft-sql-server-4igm)
 <!-- BLOG-POST-LIST:END -->
 
