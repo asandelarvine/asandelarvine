@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MyFirstApp - React Native with Expo &lpar;P15&rpar; - Code Layout My Profile](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p15-code-layout-my-profile-2kc2)
-- [AWS Three-Tier Architecture: Practical Implementation and Strategies for Secure Private Instance Access](https://dev.to/dpa2024/aws-three-tier-architecture-practical-implementation-and-strategies-for-secure-private-instance-access-3i7g)
-- [Terraform, OpenTofu and state encryption](https://dev.to/aws-builders/terraform-opentofu-and-state-encryption-4am1)
-- [Mastering Binary Search in JavaScript Part I: Iterative, Recursive. Day 2 of 30 Days of DSA 🚀🦾](https://dev.to/rajusaha/mastering-binary-search-in-javascript-part-i-iterative-recursive-day-2-of-30-days-of-dsa-1mg5)
+- [&lpar;node:10260&rpar; [DEP0040] DeprecationWarning: The `punycode` module is deprecated](https://dev.to/aspsptyd/node10260-dep0040-deprecationwarning-the-punycode-module-is-deprecated-d11)
+- [How to Create and Save data with NextJS Server Actions, Prisma ORM, and React Hook Forms | Tutorial](https://dev.to/gkhan205/how-to-create-and-save-data-with-nextjs-server-actions-prisma-orm-and-react-hook-forms-tutorial-9cg)
+- [SOLID principles in Ruby](https://dev.to/faxriddinmaxmadiyorov/solid-principles-in-ruby-49p7)
+- [Top 15 Tools for Frontend Developers: Optimize Your Workflow](https://dev.to/vyan/top-15-tools-for-frontend-developers-optimize-your-workflow-374o)
 <!-- BLOG-POST-LIST:END -->
 
