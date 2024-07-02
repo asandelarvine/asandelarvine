@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential VS Code Tips &amp; Tricks For Greater Productivity](https://dev.to/safdarali/10-essential-vs-code-tips-tricks-for-greater-productivity-1cao)
-- [Learning to Program: The resources and methods I used to teach myself coding.](https://dev.to/palak/learning-to-program-the-resources-and-methods-i-used-to-teach-myself-coding-5ajb)
-- [Demystifying Frontend: A Dive into ReactJS vs. Svelte](https://dev.to/faith_josephs_78ded4b72ba/demystifying-frontend-a-dive-into-reactjs-vs-svelte-2did)
-- [Generics &lt;T&gt;【TypeScript】](https://dev.to/makoto0825/generics-typescript-18gd)
+- [Exploring the Scala Play Framework for Web Development](https://dev.to/kartikmehta8/exploring-the-scala-play-framework-for-web-development-1o0p)
+- [Introduction to Nuxt.js: The Framework for Universal Vue.js Applications](https://dev.to/hi_iam_chris/introduction-to-nuxtjs-the-framework-for-universal-vuejs-applications-4noh)
+- [Day 982 : Last Nite](https://dev.to/dwane/day-982-last-nite-bo)
+- [How to use Midjourney AI on Make.com?](https://dev.to/renaud7/how-to-use-midjourney-ai-on-makecom-5cb6)
 <!-- BLOG-POST-LIST:END -->
 
