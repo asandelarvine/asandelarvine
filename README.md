@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Karpor Has Been Open-Sourced! We Build a Kubernetes Visualization Tool in the AI era](https://dev.to/elliotxx/karpor-has-been-open-sourced-we-build-a-kubernetes-visualization-tool-in-the-ai-era-18am)
-- [The right way to email your users](https://dev.to/mmic/the-right-way-to-email-your-users-2pnn)
-- [JavaScript](https://dev.to/mahadizulfiker/javascript-om8)
-- [Top 5 best UI libraries to Use in your Next Project](https://dev.to/strapi/top-5-best-ui-libraries-to-use-in-your-next-project-690)
+- [5 ways to skip QA approval forever!](https://dev.to/middleware/5-ways-to-skip-qa-approval-forever-57il)
+- [An application form asked me what I feel about their value &quot;doing what it takes&quot;. I shared a story about an old dog.](https://dev.to/tacodes/some-application-form-asked-me-what-i-feel-about-their-value-doing-what-it-takes-i-shared-a-story-about-an-old-dog-den)
+- [350. Intersection of Two Arrays II](https://dev.to/mdarifulhaque/350-intersection-of-two-arrays-ii-3fgm)
+- [Unlock the Power of C# in Polyglot Notebooks](https://dev.to/andreaslennartz/unlock-the-power-of-c-in-polyglot-notebooks-3kj2)
 <!-- BLOG-POST-LIST:END -->
 
