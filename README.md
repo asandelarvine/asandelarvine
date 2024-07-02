@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a React App to GitHub Pages](https://dev.to/sh20raj/how-to-deploy-a-react-app-to-github-pages-29li)
-- [Crafting a Node.js based framework SDK for Logto in minutes](https://dev.to/logto/crafting-a-nodejs-based-framework-sdk-for-logto-in-minutes-1b63)
-- [[LeetCode] Visualization of Reverse Linked List](https://dev.to/lada496/leetcode-visualization-of-reverse-linked-list-c35)
-- [Configurando o Spring com JPA e Microsoft SQL Server](https://dev.to/kbdemiranda/configurando-o-spring-com-jpa-e-microsoft-sql-server-4igm)
+- [MyFirstApp - React Native with Expo &lpar;P15&rpar; - Code Layout My Profile](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p15-code-layout-my-profile-2kc2)
+- [AWS Three-Tier Architecture: Practical Implementation and Strategies for Secure Private Instance Access](https://dev.to/dpa2024/aws-three-tier-architecture-practical-implementation-and-strategies-for-secure-private-instance-access-3i7g)
+- [Terraform, OpenTofu and state encryption](https://dev.to/aws-builders/terraform-opentofu-and-state-encryption-4am1)
+- [Mastering Binary Search in JavaScript Part I: Iterative, Recursive. Day 2 of 30 Days of DSA 🚀🦾](https://dev.to/rajusaha/mastering-binary-search-in-javascript-part-i-iterative-recursive-day-2-of-30-days-of-dsa-1mg5)
 <!-- BLOG-POST-LIST:END -->
 
