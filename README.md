@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Tailwind CSS: A Guide to Padding, Margin, and Borders](https://dev.to/codeparrot/mastering-tailwind-css-a-guide-to-padding-margin-and-borders-4ee6)
-- [Step-by-Step Guide to Creating a Fullstack Mood Tracker CRUD App with React, Node.js, and SQLite.](https://dev.to/jm27/step-by-step-guide-to-creating-a-fullstack-mood-tracker-crud-app-with-react-nodejs-and-sqlite-30gb)
-- [Svelte vs. React](https://dev.to/dannytech/svelte-vs-react-18al)
-- [Enhance Your Application Security with NMAP and OWASP ZAP: A Practical Guide](https://dev.to/ashhadali/enhance-your-application-security-with-nmap-and-owasp-zap-a-practical-guide-5690)
+- [Day-22 : Getting Started with Jenkins](https://dev.to/oncloud7/day-22-getting-started-with-jenkins-2c3c)
+- [Top 5 Soft Skills to Be a Great Developer and how to improve them](https://dev.to/buildwebcrumbs/top-5-soft-skills-to-be-a-great-developer-and-how-to-improve-them-ikj)
+- [Building a Regex Generator with Gemini AI and ToolJet ⚙️](https://dev.to/tooljet/building-a-regex-generator-with-gemini-ai-and-tooljet-43ng)
+- [Wix&#39;s Velo API is super frustrating 😟](https://dev.to/paul_freeman/wixs-velo-api-is-super-frustrating-3lm7)
 <!-- BLOG-POST-LIST:END -->
 
