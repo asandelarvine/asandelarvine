@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to NumPy with Python 🐍🎲](https://dev.to/kammarianand/a-comprehensive-guide-to-numpy-with-python-2mc9)
-- [How to Drive Traffic to Your Website](https://dev.to/sh20raj/how-to-drive-traffic-to-your-website-3m68)
-- [Are you a Beginner, Intermediate or Expert Programmer?](https://dev.to/anitaolsen/are-you-a-beginner-intermediate-or-expert-programmer-2p8m)
-- [Comparing ReactJS and Vue.js: A Comprehensive Guide](https://dev.to/nicholchuks/comparing-reactjs-and-vuejs-a-comprehensive-guide-5a4a)
+- [🚀 Karpor Has Been Open-Sourced! We Build a Kubernetes Visualization Tool in the AI era](https://dev.to/elliotxx/karpor-has-been-open-sourced-we-build-a-kubernetes-visualization-tool-in-the-ai-era-18am)
+- [The right way to email your users](https://dev.to/mmic/the-right-way-to-email-your-users-2pnn)
+- [JavaScript](https://dev.to/mahadizulfiker/javascript-om8)
+- [Top 5 best UI libraries to Use in your Next Project](https://dev.to/strapi/top-5-best-ui-libraries-to-use-in-your-next-project-690)
 <!-- BLOG-POST-LIST:END -->
 
