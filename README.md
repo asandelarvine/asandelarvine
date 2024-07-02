@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-22 : Getting Started with Jenkins](https://dev.to/oncloud7/day-22-getting-started-with-jenkins-2c3c)
-- [Top 5 Soft Skills to Be a Great Developer and how to improve them](https://dev.to/buildwebcrumbs/top-5-soft-skills-to-be-a-great-developer-and-how-to-improve-them-ikj)
-- [Building a Regex Generator with Gemini AI and ToolJet ⚙️](https://dev.to/tooljet/building-a-regex-generator-with-gemini-ai-and-tooljet-43ng)
-- [Wix&#39;s Velo API is super frustrating 😟](https://dev.to/paul_freeman/wixs-velo-api-is-super-frustrating-3lm7)
+- [A Comprehensive Guide to NumPy with Python 🐍🎲](https://dev.to/kammarianand/a-comprehensive-guide-to-numpy-with-python-2mc9)
+- [How to Drive Traffic to Your Website](https://dev.to/sh20raj/how-to-drive-traffic-to-your-website-3m68)
+- [Are you a Beginner, Intermediate or Expert Programmer?](https://dev.to/anitaolsen/are-you-a-beginner-intermediate-or-expert-programmer-2p8m)
+- [Comparing ReactJS and Vue.js: A Comprehensive Guide](https://dev.to/nicholchuks/comparing-reactjs-and-vuejs-a-comprehensive-guide-5a4a)
 <!-- BLOG-POST-LIST:END -->
 
