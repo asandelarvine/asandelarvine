@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [List the Positions of Each Character](https://dev.to/judith677/list-the-positions-of-each-character-1367)
-- [Move aws resources from one stack to another cloudformation stack](https://dev.to/bhavin03/move-aws-resources-from-one-stack-to-another-cloudformation-stack-5d1m)
-- [Working with Users, Groups, and Permissions on Linux](https://dev.to/vicradon/working-with-users-groups-and-permissions-on-linux-ale)
-- [#7 Modern SQL Databases You Must Know in 2024](https://dev.to/dipalee_gaware_b4630cc678/7-modern-sql-databases-you-must-know-in-2024-4g16)
+- [The Gemini AI and Google AI Features that We Have Been Waiting For](https://dev.to/hyscaler/the-gemini-ai-and-google-ai-features-that-we-have-been-waiting-for-l1b)
+- [How to Store Vibration Sensor Data | Part 1](https://dev.to/reductstore/how-to-store-vibration-sensor-data-part-1-2p66)
+- [How to get Single Console](https://dev.to/raja_musawir/how-to-get-single-console-1of0)
+- [GBase 8a Implementation Guide: Parameter Optimization &lpar;3&rpar;](https://dev.to/congcong/gbase-8a-implementation-guide-parameter-optimization-3-2be3)
 <!-- BLOG-POST-LIST:END -->
 
