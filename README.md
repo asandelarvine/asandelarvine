@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;node:10260&rpar; [DEP0040] DeprecationWarning: The `punycode` module is deprecated](https://dev.to/aspsptyd/node10260-dep0040-deprecationwarning-the-punycode-module-is-deprecated-d11)
-- [How to Create and Save data with NextJS Server Actions, Prisma ORM, and React Hook Forms | Tutorial](https://dev.to/gkhan205/how-to-create-and-save-data-with-nextjs-server-actions-prisma-orm-and-react-hook-forms-tutorial-9cg)
-- [SOLID principles in Ruby](https://dev.to/faxriddinmaxmadiyorov/solid-principles-in-ruby-49p7)
-- [Top 15 Tools for Frontend Developers: Optimize Your Workflow](https://dev.to/vyan/top-15-tools-for-frontend-developers-optimize-your-workflow-374o)
+- [List the Positions of Each Character](https://dev.to/judith677/list-the-positions-of-each-character-1367)
+- [Move aws resources from one stack to another cloudformation stack](https://dev.to/bhavin03/move-aws-resources-from-one-stack-to-another-cloudformation-stack-5d1m)
+- [Working with Users, Groups, and Permissions on Linux](https://dev.to/vicradon/working-with-users-groups-and-permissions-on-linux-ale)
+- [#7 Modern SQL Databases You Must Know in 2024](https://dev.to/dipalee_gaware_b4630cc678/7-modern-sql-databases-you-must-know-in-2024-4g16)
 <!-- BLOG-POST-LIST:END -->
 
