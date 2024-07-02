@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gemini AI and Google AI Features that We Have Been Waiting For](https://dev.to/hyscaler/the-gemini-ai-and-google-ai-features-that-we-have-been-waiting-for-l1b)
-- [How to Store Vibration Sensor Data | Part 1](https://dev.to/reductstore/how-to-store-vibration-sensor-data-part-1-2p66)
-- [How to get Single Console](https://dev.to/raja_musawir/how-to-get-single-console-1of0)
-- [GBase 8a Implementation Guide: Parameter Optimization &lpar;3&rpar;](https://dev.to/congcong/gbase-8a-implementation-guide-parameter-optimization-3-2be3)
+- [Domain Events](https://dev.to/ben-witt/domain-events-2772)
+- [My internship journey at HNG](https://dev.to/birusha/my-internship-journey-at-hng-5cg2)
+- [My Learning Journey in CI/CD with Local IIS Server](https://dev.to/jawad_hayat/my-learning-journey-in-cicd-with-local-iis-server-hp4)
+- [Automating User and Group Management with a Bash Script](https://dev.to/afeezaa/automating-user-and-group-management-with-a-bash-script-59je)
 <!-- BLOG-POST-LIST:END -->
 
