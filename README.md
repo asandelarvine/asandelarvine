@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Truth: Debunking Myths and Misconceptions about 2FA](https://dev.to/verifyvault/unveiling-the-truth-debunking-myths-and-misconceptions-about-2fa-2a1f)
-- [10 Fun JavaScript Ideas to Try Today](https://dev.to/mukeshb/10-fun-javascript-ideas-to-try-today-1gha)
-- [Million.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/millionjs-adoption-guide-overview-examples-and-alternatives-hc4)
-- [EVM Reverse Engineering Challenge 0x02](https://dev.to/gealber/evm-reverse-engineering-challenge-0x02-5o4)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2cfe)
+- [What&#39;s the difference between Css &amp; Scss](https://dev.to/peterbabs/whats-the-difference-between-css-scss-29b2)
+- [My HNG journey. Stage Zero: How to Deploy a Static Webpage Using Nginx](https://dev.to/ravencodess/my-hng-journey-stage-zero-how-to-deploy-a-static-webpage-using-nginx-55ij)
+- [Creating a Dynamic Blog with Flask, HTMX, TailwindCSS, and Authentication &lpar;Part 2&rpar;](https://dev.to/3a5abi/creating-a-dynamic-blog-with-flask-htmx-tailwindcss-and-authentication-part-2-3n2i)
 <!-- BLOG-POST-LIST:END -->
 
