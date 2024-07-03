@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Page Application: Authentication and Authorization in Angular](https://dev.to/starneit/single-page-application-authentication-and-authorization-in-angular-118b)
-- [Enhancing Video to Text Transcription with AI: An Asynchronous Solution on Google Cloud Platform](https://dev.to/stack-labs/enhancing-video-to-text-transcription-with-ai-an-asynchronous-solution-on-google-cloud-platform-59el)
-- [19 Best Startup Directories to Promote Your Business for Free](https://dev.to/martinbaun/19-best-startup-directories-to-promote-your-business-for-free-32ej)
-- [1. Series introduction](https://dev.to/stroiman/series-introduction-2o3n)
+- [Utilizing VisX for React Data Visualization](https://dev.to/starneit/utilizing-visx-for-react-data-visualization-f4f)
+- [Ibuprofeno.py💊| #131: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-131-explica-este-codigo-python-26e6)
+- [Mastering Common Git Commands: A Developer&#39;s Guide](https://dev.to/jawad_hayat/mastering-common-git-commands-a-developers-guide-3ld3)
+- [Navigating the Challenges of Data Mapping and Transformation in Music Playlist Transfers: A Backend Developer&#39;s Journey](https://dev.to/goldyn/navigating-the-challenges-of-data-mapping-and-transformation-in-music-playlist-transfers-a-backend-developers-journey-1n89)
 <!-- BLOG-POST-LIST:END -->
 
