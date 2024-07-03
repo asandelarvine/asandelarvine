@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Issue 51 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-51-of-aws-cloud-security-weekly-355m)
-- [Vault Secret as an External Secret](https://dev.to/tinhtq97/vault-secret-as-an-external-secret-357)
-- [Building Interactive Voice Response Systems with Twilio](https://dev.to/kartikmehta8/building-interactive-voice-response-systems-with-twilio-b7j)
-- [Data Fetching in Next.js 14: A Comprehensive Guide](https://dev.to/usmanghani1518/data-fetching-in-nextjs-14-a-comprehensive-guide-1dc)
+- [Leetcode Day 2: Palindrome Number](https://dev.to/simona-cancian/leetcode-day-2-palindrome-number-377i)
+- [Day 1: Error: &quot;Module not found: Error: Can&#39;t resolve &#39;@angular/core&#39;&quot;](https://dev.to/dipakahirav/day-1-error-module-not-found-error-cant-resolve-angularcore-2il0)
+- [NoInfer in Typescript 5.4](https://dev.to/makoto0825/noinfer-in-typescript-54-4k72)
+- [Git and GitHub Explained Like You&#39;re Five](https://dev.to/thekarlesi/git-and-github-explain-like-youre-five-2c2p)
 <!-- BLOG-POST-LIST:END -->
 
