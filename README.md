@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Appwrite Is Your Ideal BaaS in 2024 I&#39;m](https://dev.to/alexindevs/why-appwrite-is-your-ideal-baas-in-2024-im-5aom)
-- [How to easily fix OpenSSH RegreSSHion vulnerability](https://dev.to/indyman/how-to-easily-fix-openssh-regresshion-vulnerability-216b)
-- [How to set up a static website on Azure Blob Storage](https://dev.to/adeola_adebari/how-to-set-up-a-static-website-on-azure-blob-storage-3d65)
-- [Automating a Bash Script](https://dev.to/sophie_ejikeme/automating-a-bash-script-1ah1)
+- [Singleton Design Pattern](https://dev.to/rflpazini/singleton-design-pattern-1n51)
+- [STAGE ZERO: BACKEND TRACK!](https://dev.to/danielcaleb/stage-zero-backend-track-1f1d)
+- [How To Create a Linux virtual machine in the Azure portal. by moses emeka](https://dev.to/emeka_moses_c752f2bdde061/how-to-create-a-linux-virtual-machine-in-the-azure-portal-by-moses-emeka-lfh)
+- [Avoid Candidates Who Hide Details](https://dev.to/jetthoughts/avoid-candidates-who-hide-details-5f7e)
 <!-- BLOG-POST-LIST:END -->
 
