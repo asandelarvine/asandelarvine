@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [User and groups creation automation in linux](https://dev.to/celestina/user-and-groups-creation-automation-in-linux-41pb)
-- [Object-Oriented Analysis and Design &lpar;OOAD&rpar; for the Parking Lot System](https://dev.to/muhammad_salem/object-oriented-analysis-and-design-ooad-for-the-parking-lot-system-i2o)
-- [ClippyAI - A Local AI Agent](https://dev.to/mrdoe/clippyai-59h7)
-- [Bootstrap - Sistema de cuadricula](https://dev.to/fernandomoyano/bootstrap-sistema-de-cuadricula-31cl)
+- [Issue 51 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-51-of-aws-cloud-security-weekly-355m)
+- [Vault Secret as an External Secret](https://dev.to/tinhtq97/vault-secret-as-an-external-secret-357)
+- [Building Interactive Voice Response Systems with Twilio](https://dev.to/kartikmehta8/building-interactive-voice-response-systems-with-twilio-b7j)
+- [Data Fetching in Next.js 14: A Comprehensive Guide](https://dev.to/usmanghani1518/data-fetching-in-nextjs-14-a-comprehensive-guide-1dc)
 <!-- BLOG-POST-LIST:END -->
 
