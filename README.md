@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Singleton Design Pattern](https://dev.to/rflpazini/singleton-design-pattern-1n51)
-- [STAGE ZERO: BACKEND TRACK!](https://dev.to/danielcaleb/stage-zero-backend-track-1f1d)
-- [How To Create a Linux virtual machine in the Azure portal. by moses emeka](https://dev.to/emeka_moses_c752f2bdde061/how-to-create-a-linux-virtual-machine-in-the-azure-portal-by-moses-emeka-lfh)
-- [Avoid Candidates Who Hide Details](https://dev.to/jetthoughts/avoid-candidates-who-hide-details-5f7e)
+- [New Rails 7.2: Added Rate Limiting](https://dev.to/jetthoughts/new-rails-72-added-rate-limiting-5a8o)
+- [Automating the Management of Users and Groups Using a Bash Script in Linux.](https://dev.to/lanky23/automating-the-management-of-users-and-groups-using-a-bash-script-in-linux-12bh)
+- [React and Vue: A Technical Analysis](https://dev.to/tobilobacodes/react-and-vue-a-technical-analysis-3ok7)
+- [40 Days Of Kubernetes &lpar;9/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-940-5863)
 <!-- BLOG-POST-LIST:END -->
 
