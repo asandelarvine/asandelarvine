@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASTRO JS | P2 | SSG and SSR](https://dev.to/shubhamtiwari909/astro-js-p2-ssg-and-ssr-2l2l)
-- [react-popupify: Simplify Popup Management in Your React Apps](https://dev.to/viditkushwaha/react-popupify-simplify-popup-management-in-your-react-apps-4109)
-- [3 Easy Steps to Setup Gmail Less Secure Apps&lpar;Django&rpar;](https://dev.to/titusnjuguna/3-easy-steps-to-setup-gmail-less-secure-appsdjango-2eoe)
-- [Data Science Essentials: Building a Strong Foundation](https://dev.to/alex101112/data-science-essentials-building-a-strong-foundation-530g)
+- [Nested validation in .NET](https://dev.to/ilya-chumakov/nested-validation-in-net-3j6j)
+- [Automating Linux User Management with a Bash Script](https://dev.to/zkyusya/automating-linux-user-management-with-a-bash-script-1f07)
+- [React Native vs. Native App Development: Choosing the Right Path for Your Mobile App](https://dev.to/ngocninh123/react-native-vs-native-app-development-choosing-the-right-path-for-your-mobile-app-16d0)
+- [Determine which CBV &lpar;classed-base-view&rpar; of Django to use](https://dev.to/doridoro/determine-which-cbv-classed-base-view-of-django-to-use-4gf1)
 <!-- BLOG-POST-LIST:END -->
 
