@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nested validation in .NET](https://dev.to/ilya-chumakov/nested-validation-in-net-3j6j)
-- [Automating Linux User Management with a Bash Script](https://dev.to/zkyusya/automating-linux-user-management-with-a-bash-script-1f07)
-- [React Native vs. Native App Development: Choosing the Right Path for Your Mobile App](https://dev.to/ngocninh123/react-native-vs-native-app-development-choosing-the-right-path-for-your-mobile-app-16d0)
-- [Determine which CBV &lpar;classed-base-view&rpar; of Django to use](https://dev.to/doridoro/determine-which-cbv-classed-base-view-of-django-to-use-4gf1)
+- [Single Page Application: Authentication and Authorization in Angular](https://dev.to/starneit/single-page-application-authentication-and-authorization-in-angular-118b)
+- [Enhancing Video to Text Transcription with AI: An Asynchronous Solution on Google Cloud Platform](https://dev.to/stack-labs/enhancing-video-to-text-transcription-with-ai-an-asynchronous-solution-on-google-cloud-platform-59el)
+- [19 Best Startup Directories to Promote Your Business for Free](https://dev.to/martinbaun/19-best-startup-directories-to-promote-your-business-for-free-32ej)
+- [1. Series introduction](https://dev.to/stroiman/series-introduction-2o3n)
 <!-- BLOG-POST-LIST:END -->
 
