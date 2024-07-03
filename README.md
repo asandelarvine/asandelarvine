@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SRT Protocol - Secure Reliable Transport Protocol](https://dev.to/alakkadshaw/srt-protocol-secure-reliable-transport-protocol-19b2)
-- [Linux User Creation Bash Script](https://dev.to/tennie/linux-user-creation-bash-script-llg)
-- [Make an Image drag and drop with CSS in React](https://dev.to/hasan048/make-an-image-drag-and-drop-with-css-in-react-3md8)
-- [Lazy Imports in Java?🙂‍↔️](https://dev.to/tanwanimohit/lazy-imports-in-java--3pal)
+- [amber: writing bash scripts in amber instead. pt. 4: functions](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-4-functions-5ba0)
+- [The Complete Guide to Serverless Apps II - Functions and Apps](https://dev.to/fermyon/the-complete-guide-to-serverless-apps-ii-functions-and-apps-4bd8)
+- [VerifyVault Beta v0.3 Released](https://dev.to/verifyvault/verifyvault-beta-v03-released-37dc)
+- [TypeScript 5.5: New Features](https://dev.to/enodi/typescript-55-new-features-27ef)
 <!-- BLOG-POST-LIST:END -->
 
