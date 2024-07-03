@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [amber: writing bash scripts in amber instead. pt. 4: functions](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-4-functions-5ba0)
-- [The Complete Guide to Serverless Apps II - Functions and Apps](https://dev.to/fermyon/the-complete-guide-to-serverless-apps-ii-functions-and-apps-4bd8)
-- [VerifyVault Beta v0.3 Released](https://dev.to/verifyvault/verifyvault-beta-v03-released-37dc)
-- [TypeScript 5.5: New Features](https://dev.to/enodi/typescript-55-new-features-27ef)
+- [6 ways to turn your browser into super-debug-hero &lpar;ft. node.js + next.js!&rpar;](https://dev.to/middleware/6-ways-to-turn-your-browser-into-super-debug-hero-ft-nodejs-nextjs-36c3)
+- [[DAY 69-71] I started building a calculator using React and I failed](https://dev.to/thomascansino/day-69-71-i-started-building-a-calculator-using-react-and-i-failed-4dkj)
+- [Refactor: GoroutineTracker with unnecessary usage of reflect](https://dev.to/olvrng/refactor-goroutinetracker-with-unnecessary-usage-of-reflect-2l53)
+- [Make a digital clock in Mini Micro](https://dev.to/joestrout/make-a-digital-clock-in-mini-micro-3mpl)
 <!-- BLOG-POST-LIST:END -->
 
