@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 ways to turn your browser into super-debug-hero &lpar;ft. node.js + next.js!&rpar;](https://dev.to/middleware/6-ways-to-turn-your-browser-into-super-debug-hero-ft-nodejs-nextjs-36c3)
-- [[DAY 69-71] I started building a calculator using React and I failed](https://dev.to/thomascansino/day-69-71-i-started-building-a-calculator-using-react-and-i-failed-4dkj)
-- [Refactor: GoroutineTracker with unnecessary usage of reflect](https://dev.to/olvrng/refactor-goroutinetracker-with-unnecessary-usage-of-reflect-2l53)
-- [Make a digital clock in Mini Micro](https://dev.to/joestrout/make-a-digital-clock-in-mini-micro-3mpl)
+- [Using Chrome’s Document Picture-in-Picture API in React](https://dev.to/logrocket/using-chromes-document-picture-in-picture-api-in-react-38oo)
+- [**🌟 Mastering the Java Collections Framework 🌟**](https://dev.to/gadekar_sachin/-mastering-the-java-collections-framework--4kcd)
+- [AWS/GCP/Azure Consoles, Embedded inside Your Docs](https://dev.to/sourishkrout/awsgcpazure-consoles-embedded-inside-your-docs-1a3l)
+- [Styling React Using CSS 6 Methods](https://dev.to/sudhanshu_developer/styling-react-using-css-6-methods-4oi6)
 <!-- BLOG-POST-LIST:END -->
 
