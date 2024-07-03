@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Front End Journey](https://dev.to/marcos_/personal-front-end-journey-4h56)
-- [Linux User Creation Bash Script](https://dev.to/don-fortune/linux-user-creation-bash-script-73h)
-- [Learn Backend Development for Free: Top Websites to Get You Started 🎓✨](https://dev.to/devella/learn-backend-development-for-free-top-websites-to-get-you-started-1d3j)
-- [【TypeScript】Displaying ChatGPT-like Streaming Responses with trpc in React](https://dev.to/mikan3rd/typescript-displaying-chatgpt-like-streaming-responses-with-trpc-in-react-3mnb)
+- [SRT Protocol - Secure Reliable Transport Protocol](https://dev.to/alakkadshaw/srt-protocol-secure-reliable-transport-protocol-19b2)
+- [Linux User Creation Bash Script](https://dev.to/tennie/linux-user-creation-bash-script-llg)
+- [Make an Image drag and drop with CSS in React](https://dev.to/hasan048/make-an-image-drag-and-drop-with-css-in-react-3md8)
+- [Lazy Imports in Java?🙂‍↔️](https://dev.to/tanwanimohit/lazy-imports-in-java--3pal)
 <!-- BLOG-POST-LIST:END -->
 
