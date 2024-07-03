@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a React Native android application locally with Expo 50](https://dev.to/ekimkael/how-to-build-a-react-native-android-application-locally-with-expo-50-27e4)
-- [AI in Software Testing: Revolutionising Quality Assurance](https://dev.to/testscenario/ai-in-software-testing-revolutionising-quality-assurance-ph)
-- [Chrome Built-in AI Doesn&#39;t Require The Internet](https://dev.to/0xkoji/chrome-built-in-ai-doesnt-require-the-internet-1o2m)
-- [Exploring the World of Quantum Computing](https://dev.to/malikhandev/exploring-the-world-of-quantum-computing-5do5)
+- [Email auto-complete using Angular Material Auto-complete](https://dev.to/shhdharmen/email-auto-complete-using-angular-material-auto-complete-2fdf)
+- [Dynamically render columns in Angular material table](https://dev.to/ngmaterialdev/dynamically-render-columns-in-angular-material-table-3b6p)
+- [What is Actually GitLab?](https://dev.to/shariqahmed525/what-is-actually-gitlab-1260)
+- [Creating Intelligent Apps Made Easy: AI-Powered Development With FlutterFlow](https://dev.to/solutelabs/creating-intelligent-apps-made-easy-ai-powered-development-with-flutterflow-4igb)
 <!-- BLOG-POST-LIST:END -->
 
