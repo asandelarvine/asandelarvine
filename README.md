@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Periodic Table of AI Tools](https://dev.to/jottyjohn/the-periodic-table-of-ai-tools-40ge)
-- [JavaScript: Alterando a prioridade de execução](https://dev.to/cristuker/javascript-alterando-a-prioridade-de-execucao-472p)
-- [Introduction to BitPower Smart Contracts](https://dev.to/aimm_x_54a3484700fbe0d3be/introduction-to-bitpower-smart-contracts-ef4)
-- [ReactJS vs React Native: A Comprehensive Comparison for Modern Developers](https://dev.to/scholarhat/reactjs-vs-react-native-a-comprehensive-comparison-for-modern-developers-11jj)
+- [Personal Front End Journey](https://dev.to/marcos_/personal-front-end-journey-4h56)
+- [Linux User Creation Bash Script](https://dev.to/don-fortune/linux-user-creation-bash-script-73h)
+- [Learn Backend Development for Free: Top Websites to Get You Started 🎓✨](https://dev.to/devella/learn-backend-development-for-free-top-websites-to-get-you-started-1d3j)
+- [【TypeScript】Displaying ChatGPT-like Streaming Responses with trpc in React](https://dev.to/mikan3rd/typescript-displaying-chatgpt-like-streaming-responses-with-trpc-in-react-3mnb)
 <!-- BLOG-POST-LIST:END -->
 
