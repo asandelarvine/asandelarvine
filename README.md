@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sistemas Operacionais: FIFO](https://dev.to/iamthiago/sistemas-operacionais-fifo-4ebo)
-- [Formik vs. React Hook Form](https://dev.to/abelotegbola/formik-vs-react-hook-form-3dcj)
-- [Set GitHub Actions timeout-minutes](https://dev.to/suzukishunsuke/set-github-actions-timeout-minutes-1jkk)
-- [Issue with NPM Package Installing Globally](https://dev.to/kiranuknow/issue-with-npm-package-installing-globally-cgi)
+- [JWT for Developers: Behind the Scenes.](https://dev.to/andres_fernandez_05a8738d/jwt-for-developers-behind-the-scenes-445p)
+- [Learning Conditional Statements in Python](https://dev.to/davitacols/learning-conditional-statements-in-python-3224)
+- [ROC-AUC Curve in Machine Learning](https://dev.to/harsimranjit_singh_0133dc/roc-auc-curve-in-machine-learning-55ig)
+- [Exploring Leonardo AI: Features, Benefits, and Applications](https://dev.to/jettliya/exploring-leonardo-ai-features-benefits-and-applications-3ncg)
 <!-- BLOG-POST-LIST:END -->
 
