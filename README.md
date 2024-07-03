@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizing VisX for React Data Visualization](https://dev.to/starneit/utilizing-visx-for-react-data-visualization-f4f)
-- [Ibuprofeno.py💊| #131: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-131-explica-este-codigo-python-26e6)
-- [Mastering Common Git Commands: A Developer&#39;s Guide](https://dev.to/jawad_hayat/mastering-common-git-commands-a-developers-guide-3ld3)
-- [Navigating the Challenges of Data Mapping and Transformation in Music Playlist Transfers: A Backend Developer&#39;s Journey](https://dev.to/goldyn/navigating-the-challenges-of-data-mapping-and-transformation-in-music-playlist-transfers-a-backend-developers-journey-1n89)
+- [The Periodic Table of AI Tools](https://dev.to/jottyjohn/the-periodic-table-of-ai-tools-40ge)
+- [JavaScript: Alterando a prioridade de execução](https://dev.to/cristuker/javascript-alterando-a-prioridade-de-execucao-472p)
+- [Introduction to BitPower Smart Contracts](https://dev.to/aimm_x_54a3484700fbe0d3be/introduction-to-bitpower-smart-contracts-ef4)
+- [ReactJS vs React Native: A Comprehensive Comparison for Modern Developers](https://dev.to/scholarhat/reactjs-vs-react-native-a-comprehensive-comparison-for-modern-developers-11jj)
 <!-- BLOG-POST-LIST:END -->
 
