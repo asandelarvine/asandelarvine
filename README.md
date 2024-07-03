@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to mock a hidden dependency](https://dev.to/clarenced/how-to-mock-a-hidden-dependency-17ih)
-- [Automating User and Group Management with Bash Scripting](https://dev.to/mukhtar_devops/automating-user-and-group-management-with-bash-scripting-4hlk)
-- [Automating User and Group Management Using Bash Script](https://dev.to/florenceokoli/automating-user-and-group-management-using-bash-script-4a7o)
-- [Servidores](https://dev.to/fernandomoyano/servidores-l1c)
+- [Best Practices for Writing API Documentation](https://dev.to/irhose/best-practices-for-writing-api-documentation-gc9)
+- [Full-Stack Developer vs. Software Engineer: Which Roles Faces Greater Impact from AI?](https://dev.to/ryoichihomma/full-stack-developer-vs-software-engineer-which-roles-faces-greater-impact-from-ai-232e)
+- [GraphQL and REST API](https://dev.to/logto/graphql-and-rest-api-5c43)
+- [Efficient User and Group Management on Linux: A Bash Script Tutorial](https://dev.to/linsmed/efficient-user-and-group-management-on-linux-a-bash-script-tutorial-4k16)
 <!-- BLOG-POST-LIST:END -->
 
