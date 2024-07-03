@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Rails 7.2: Added Rate Limiting](https://dev.to/jetthoughts/new-rails-72-added-rate-limiting-5a8o)
-- [Automating the Management of Users and Groups Using a Bash Script in Linux.](https://dev.to/lanky23/automating-the-management-of-users-and-groups-using-a-bash-script-in-linux-12bh)
-- [React and Vue: A Technical Analysis](https://dev.to/tobilobacodes/react-and-vue-a-technical-analysis-3ok7)
-- [40 Days Of Kubernetes &lpar;9/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-940-5863)
+- [How to mock a hidden dependency](https://dev.to/clarenced/how-to-mock-a-hidden-dependency-17ih)
+- [Automating User and Group Management with Bash Scripting](https://dev.to/mukhtar_devops/automating-user-and-group-management-with-bash-scripting-4hlk)
+- [Automating User and Group Management Using Bash Script](https://dev.to/florenceokoli/automating-user-and-group-management-using-bash-script-4a7o)
+- [Servidores](https://dev.to/fernandomoyano/servidores-l1c)
 <!-- BLOG-POST-LIST:END -->
 
