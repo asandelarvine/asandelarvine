@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Madness #0: Locks](https://dev.to/gmelodie/total-madness-0-locks-18nc)
-- [AdGuard Home: Your ultimate protection on the internet 🧑🏼‍🚀](https://dev.to/disane/adguard-home-your-ultimate-protection-on-the-internet-1oc9)
-- [Free Resources for Aspiring Programmers and Beyond](https://dev.to/annavi11arrea1/free-resources-for-aspiring-programmers-and-beyond-21jo)
-- [Creating a Markdown Editor with @uiw/react-md-editor](https://dev.to/promathieuthiry/creating-a-markdown-editor-with-uiwreact-md-editor-5foe)
+- [Why Appwrite Is Your Ideal BaaS in 2024 I&#39;m](https://dev.to/alexindevs/why-appwrite-is-your-ideal-baas-in-2024-im-5aom)
+- [How to easily fix OpenSSH RegreSSHion vulnerability](https://dev.to/indyman/how-to-easily-fix-openssh-regresshion-vulnerability-216b)
+- [How to set up a static website on Azure Blob Storage](https://dev.to/adeola_adebari/how-to-set-up-a-static-website-on-azure-blob-storage-3d65)
+- [Automating a Bash Script](https://dev.to/sophie_ejikeme/automating-a-bash-script-1ah1)
 <!-- BLOG-POST-LIST:END -->
 
