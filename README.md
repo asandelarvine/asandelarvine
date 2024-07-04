@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How our infrastructure supports last-minute studying](https://dev.to/zerodays/how-our-infrastructure-supports-last-minute-studying-2c5d)
-- [From development to production what can go wrong with your databases &lpar;and how to avoid and fix them&rpar;](https://dev.to/metis/from-development-to-production-what-can-go-wrong-with-your-databases-and-how-to-avoid-and-fix-them-5aff)
-- [Angular: A Deep Dive into `:host` &amp; `:host-context` Pseudo-Classes](https://dev.to/manthanank/angular-a-deep-dive-into-host-host-context-pseudo-classes-5ged)
-- [Javascript Set operations can now be performed natively](https://dev.to/untilyou58/javascript-set-operations-can-now-be-performed-natively-1lhb)
+- [Dynamic watermarking on the JVM](https://dev.to/nfrankel/dynamic-watermarking-on-the-jvm-ffh)
+- [UI Design Tips Using Tailwind CSS for Developers](https://dev.to/railsdesigner/ui-design-tips-using-tailwind-css-for-developers-4lg0)
+- [Welcome to JavaScript: From Novice to Expert](https://dev.to/buildwebcrumbs/welcome-to-javascript-from-novice-to-expert-38fh)
+- [TypeScript VS Angular for Gantt charts](https://dev.to/lenormor/typescript-vs-angular-for-gantt-charts-38gn)
 <!-- BLOG-POST-LIST:END -->
 
