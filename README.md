@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLR](https://dev.to/shoxjaxon1202/clr-4a13)
-- [React JSX](https://dev.to/aadarshk7/react-jsx-7m8)
-- [How to Batch Notifications Across Users in a Dedicated Time Window? w/ Example Github Application](https://dev.to/suprsend/how-to-batch-notifications-across-users-in-a-dedicated-time-window-w-example-github-application-2p3k)
-- [How to Kickstart Your API Journey: An Easy Beginner&#39;s Guide](https://dev.to/vuyokazimkane/how-to-kickstart-your-api-journey-an-easy-beginners-guide-a9m)
+- [Mastering SQL Server: Top 5 Query Tuning Techniques](https://dev.to/dbvismarketing/mastering-sql-server-top-5-query-tuning-techniques-41ef)
+- [Example NFS configuration between Mac &lpar;Host&rpar; and Ubuntu VM &lpar;Client&rpar;](https://dev.to/mss/example-nfs-configuration-between-mac-host-and-ubuntu-vm-client-2hag)
+- [5 ways to write “natural” code everybody will love to read](https://dev.to/safdarali/5-ways-to-write-natural-code-everybody-will-love-to-read-5d19)
+- [Install Flutter SDK, Android SDK, and Start Android Emulator in WSL](https://dev.to/design_dev_4494d7953431b6/install-flutter-sdk-android-sdk-and-start-android-emulator-in-wsl-1mhi)
 <!-- BLOG-POST-LIST:END -->
 
