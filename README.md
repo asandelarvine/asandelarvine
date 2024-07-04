@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Innovative JavaScript Features in 2024: Enhancing Developer Experience and Codebase Quality](https://dev.to/fido1hn/innovative-javascript-features-in-2024-enhancing-developer-experience-and-codebase-quality-5ah4)
-- [Mastering Cypher Query Language for Neo4j Graph NoSQL Databases](https://dev.to/stormsidali2001/mastering-cypher-query-language-for-neo4j-graph-nosql-databases-f00)
-- [Linux users creation with Bash script](https://dev.to/adesokan_israel_109436759/linux-users-creation-with-bash-script-4733)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P24&rpar; - Code Layout Register Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p24-code-layout-register-screen-2iid)
+- [Image Lazy Loading](https://dev.to/sundarbadagala081/image-lazy-loading-31jb)
+- [JDBC and Streams have never been simpler](https://dev.to/buckelieg/jdbc-and-streams-have-never-been-easier-58f2)
+- [Oh No... CORS Error! A Backend Developer&#39;s Journey](https://dev.to/mutiatbash/oh-no-cors-error-a-backend-developers-journey-2272)
+- [Defining Generic Classes and Interfaces](https://dev.to/paulike/defining-generic-classes-and-interfaces-1a03)
 <!-- BLOG-POST-LIST:END -->
 
