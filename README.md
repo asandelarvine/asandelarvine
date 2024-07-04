@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering SQL Server: Top 5 Query Tuning Techniques](https://dev.to/dbvismarketing/mastering-sql-server-top-5-query-tuning-techniques-41ef)
-- [Example NFS configuration between Mac &lpar;Host&rpar; and Ubuntu VM &lpar;Client&rpar;](https://dev.to/mss/example-nfs-configuration-between-mac-host-and-ubuntu-vm-client-2hag)
-- [5 ways to write “natural” code everybody will love to read](https://dev.to/safdarali/5-ways-to-write-natural-code-everybody-will-love-to-read-5d19)
-- [Install Flutter SDK, Android SDK, and Start Android Emulator in WSL](https://dev.to/design_dev_4494d7953431b6/install-flutter-sdk-android-sdk-and-start-android-emulator-in-wsl-1mhi)
+- [How our infrastructure supports last-minute studying](https://dev.to/zerodays/how-our-infrastructure-supports-last-minute-studying-2c5d)
+- [From development to production what can go wrong with your databases &lpar;and how to avoid and fix them&rpar;](https://dev.to/metis/from-development-to-production-what-can-go-wrong-with-your-databases-and-how-to-avoid-and-fix-them-5aff)
+- [Angular: A Deep Dive into `:host` &amp; `:host-context` Pseudo-Classes](https://dev.to/manthanank/angular-a-deep-dive-into-host-host-context-pseudo-classes-5ged)
+- [Javascript Set operations can now be performed natively](https://dev.to/untilyou58/javascript-set-operations-can-now-be-performed-natively-1lhb)
 <!-- BLOG-POST-LIST:END -->
 
