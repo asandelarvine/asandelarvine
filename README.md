@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a helm OCI registry with ArgoCD hosted on Azure](https://dev.to/nastaliss/setting-up-a-helm-oci-registry-with-argocd-hosted-on-azure-4idd)
-- [WRITING VIRTUAL MACHINE SCALE SET.](https://dev.to/agana_adebayoo_876a06/writing-virtual-machine-scale-set-c6p)
-- [How to Fetch Data from an API using the Fetch API in JavaScript](https://dev.to/oluwadamisisamuel1/how-to-fetch-data-from-an-api-using-the-fetch-api-in-javascript-21m9)
-- [What are new features of Java 8 #interviewQuestion](https://dev.to/codegreen/what-are-new-features-of-java-8-interviewquestion-kmf)
+- [🐍 Answer the phone! with Python](https://dev.to/kwnaidoo/answer-the-phone-with-python-2h4l)
+- [Don&#39;t Be a Victim: The Ultimate Guide to Defending Against Cybersecurity Threats](https://dev.to/verifyvault/dont-be-a-victim-the-ultimate-guide-to-defending-against-cybersecurity-threats-20kl)
+- [Crafting Custom Methods in JavaScript with Prototypes](https://dev.to/geraldhamiltonwicks/crafting-custom-methods-in-javascript-with-prototypes-5c41)
+- [The Silent Crisis in Open Source: When Maintainers Walk Away](https://dev.to/opensauced/the-silent-crisis-in-open-source-when-maintainers-walk-away-1m81)
 <!-- BLOG-POST-LIST:END -->
 
