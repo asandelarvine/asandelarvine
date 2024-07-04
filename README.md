@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Settings for Next.js Project](https://dev.to/maxwiggedal/vscode-settings-for-nextjs-project-7ld)
-- [Protecting Sensitive Data using Ansible Vault](https://dev.to/ideategudy/protecting-sensitive-data-using-ansible-vault-5h7k)
-- [Memoization in Javascript Explained](https://dev.to/joanayebola/memoization-in-javascript-explained-3922)
-- [Pub/Sub pattern vs Observer Pattern: what&#39;s the difference?](https://dev.to/superviz/pubsub-pattern-vs-observer-pattern-whats-the-difference-10mb)
+- [Setting up a helm OCI registry with ArgoCD hosted on Azure](https://dev.to/nastaliss/setting-up-a-helm-oci-registry-with-argocd-hosted-on-azure-4idd)
+- [WRITING VIRTUAL MACHINE SCALE SET.](https://dev.to/agana_adebayoo_876a06/writing-virtual-machine-scale-set-c6p)
+- [How to Fetch Data from an API using the Fetch API in JavaScript](https://dev.to/oluwadamisisamuel1/how-to-fetch-data-from-an-api-using-the-fetch-api-in-javascript-21m9)
+- [What are new features of Java 8 #interviewQuestion](https://dev.to/codegreen/what-are-new-features-of-java-8-interviewquestion-kmf)
 <!-- BLOG-POST-LIST:END -->
 
