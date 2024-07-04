@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Raw Types and Backward Compatibility](https://dev.to/paulike/raw-types-and-backward-compatibility-3o1n)
-- [Item 39: Prefira as anotações aos padrões de nomenclatura](https://dev.to/giselecoder/item-39-prefira-as-anotacoes-aos-padroes-de-nomenclatura-55cc)
-- [What is the Best Color for Dark Mode?](https://dev.to/lovatom/what-is-the-best-color-for-dark-mode-f9k)
-- [Design Patterns](https://dev.to/rflpazini/design-patterns-3ie6)
+- [Understanding git bisect!](https://dev.to/miguelparacuellos/understanding-git-bisect-hki)
+- [React, Typescript, and CD to GitHub Pages &lpar;2024&rpar;](https://dev.to/kinneko-de/react-typescript-and-cd-to-github-pages-2024-3n3h)
+- [Automating User and Group Management on Ubuntu: A Practical Guide](https://dev.to/victoria_ahmadu/automating-user-and-group-management-on-ubuntu-a-practical-guide-49i6)
+- [Erasure and Restrictions on Generics](https://dev.to/paulike/erasure-and-restrictions-on-generics-54bm)
 <!-- BLOG-POST-LIST:END -->
 
