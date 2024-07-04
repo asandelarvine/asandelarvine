@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #132: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-132-explica-este-codigo-python-30gh)
-- [The Adventures of Blink #30: Change Agents](https://dev.to/linkbenjamin/the-adventures-of-blink-30-change-agents-1n8d)
-- [GBase 8a MPP Cluster Multi-Instance Best Practices](https://dev.to/congcong/gbase-8a-mpp-cluster-multi-instance-best-practices-2nde)
-- [Machine Learning in Healthcare: Revolutionizing Diagnosis, Treatment, and More](https://dev.to/fizza_c3e734ee2a307cf35e5/machine-learning-in-healthcare-revolutionizing-diagnosis-treatment-and-more-4ch6)
+- [Terraform Remote Backend: Centralized State Management for Infrastructure as Code](https://dev.to/vishwajeet_pratapsingh_a/terraform-remote-backend-centralized-state-management-for-infrastructure-as-code-3nob)
+- [Preparing for the 100 Days Full Stack Challenge: Goals, Plan, and Expectations](https://dev.to/zendeaditya/preparing-for-the-100-days-full-stack-challenge-goals-plan-and-expectations-5fm9)
+- [How to create a proper Event Management System SASS?](https://dev.to/nadim_ch0wdhury/how-to-create-a-proper-event-management-system-sass-263c)
+- [Mastering Machine Learning Algorithms: A LabEx Challenge Series 🤖](https://dev.to/labex/mastering-machine-learning-algorithms-a-labex-challenge-series-5cf0)
 <!-- BLOG-POST-LIST:END -->
 
