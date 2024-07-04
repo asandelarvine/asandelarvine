@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code settings that every front-end developer should know](https://dev.to/mhmd-salah/vs-code-settings-that-every-front-end-developer-should-know-2c1h)
-- [Introduction to Data Engineering with Apache Airflow](https://dev.to/kartikmehta8/introduction-to-data-engineering-with-apache-airflow-3m41)
-- [How To Automate User Creation With Bash Script](https://dev.to/toluwalemi/how-to-automate-user-creation-with-bash-script-3kkk)
-- [Creating Linux Users with a Bash Script](https://dev.to/sottie/creating-linux-users-with-a-bash-script-1a7p)
+- [Come and see China：Beijing，a city that blends ancient and modern beauty！](https://dev.to/pang_jack/come-and-see-chinabeijinga-city-that-blends-ancient-and-modern-beauty-51bj)
+- [Solving Complex Backend Challenges: My Journey with Node.js and HNG Internship](https://dev.to/sunday_covenant/solving-complex-backend-challenges-my-journey-with-nodejs-and-hng-internship-2bak)
+- [The Ultimate React Roadmap for 2024 - Learn React the Right Way](https://dev.to/docusignlog-in/the-ultimate-react-roadmap-for-2024-learn-react-the-right-way-4680)
+- [Definitive guide to Higher Order Function &lpar;HOC&rpar;](https://dev.to/codewithjohnson/definitive-guide-to-higher-order-function-hoc-28b5)
 <!-- BLOG-POST-LIST:END -->
 
