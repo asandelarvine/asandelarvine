@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Lazy Loading](https://dev.to/sundarbadagala081/image-lazy-loading-31jb)
-- [JDBC and Streams have never been simpler](https://dev.to/buckelieg/jdbc-and-streams-have-never-been-easier-58f2)
-- [Oh No... CORS Error! A Backend Developer&#39;s Journey](https://dev.to/mutiatbash/oh-no-cors-error-a-backend-developers-journey-2272)
-- [Defining Generic Classes and Interfaces](https://dev.to/paulike/defining-generic-classes-and-interfaces-1a03)
+- [Raw Types and Backward Compatibility](https://dev.to/paulike/raw-types-and-backward-compatibility-3o1n)
+- [Item 39: Prefira as anotações aos padrões de nomenclatura](https://dev.to/giselecoder/item-39-prefira-as-anotacoes-aos-padroes-de-nomenclatura-55cc)
+- [What is the Best Color for Dark Mode?](https://dev.to/lovatom/what-is-the-best-color-for-dark-mode-f9k)
+- [Design Patterns](https://dev.to/rflpazini/design-patterns-3ie6)
 <!-- BLOG-POST-LIST:END -->
 
