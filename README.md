@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Closure #2](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-closure-2-4m4g)
-- [User Creation Automation in Linux with Bash Scripts](https://dev.to/donfolayan/user-creation-automation-in-linux-with-bash-scripts-3p61)
-- [Why Still Use Django Over FastAPI?](https://dev.to/seifalmotaz/why-still-use-django-over-fastapi-5b0d)
-- [[Game of Purpose] Day 47 - Sync engine with a battery](https://dev.to/humberd/game-of-purpose-day-47-sync-engine-with-a-battery-oj6)
+- [Como usar IntelliJ IDEA ou Android Studio no Wayland](https://dev.to/danroxha/como-usar-intellij-idea-ou-android-studio-no-wayland-27ga)
+- [Google PubSub: Number of Unread Messages](https://dev.to/shannonlal/google-pubsub-number-of-unread-messages-57jh)
+- [Deploying a Node.js Application on AWS Elastic Beastalk](https://dev.to/fabiola_estefanipomamac/deploying-a-nodejs-application-on-aws-elastic-beastalk-2nld)
+- [The Importance of Using Granted for Managing Multiple AWS Accounts](https://dev.to/fernandomullerjr/the-importance-of-using-granted-for-managing-multiple-aws-accounts-203c)
 <!-- BLOG-POST-LIST:END -->
 
