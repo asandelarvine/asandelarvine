@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 Powerful No-Code Development Platforms in 2024](https://dev.to/nocobase/top-8-powerful-no-code-development-platforms-in-2024-3mof)
-- [Understanding SAML and SSO: A Detailed Comparison](https://dev.to/satokenta/understanding-saml-and-sso-a-detailed-comparison-2953)
-- [OpenID vs OAuth](https://dev.to/api7/openid-vs-oauth-dog)
-- [Help Needed: Integrating Laravel with Next.js for University E-commerce Project](https://dev.to/tharushkadinujaya05/help-needed-integrating-laravel-with-nextjs-for-university-e-commerce-project-53fj)
+- [Ibuprofeno.py💊| #132: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-132-explica-este-codigo-python-30gh)
+- [The Adventures of Blink #30: Change Agents](https://dev.to/linkbenjamin/the-adventures-of-blink-30-change-agents-1n8d)
+- [GBase 8a MPP Cluster Multi-Instance Best Practices](https://dev.to/congcong/gbase-8a-mpp-cluster-multi-instance-best-practices-2nde)
+- [Machine Learning in Healthcare: Revolutionizing Diagnosis, Treatment, and More](https://dev.to/fizza_c3e734ee2a307cf35e5/machine-learning-in-healthcare-revolutionizing-diagnosis-treatment-and-more-4ch6)
 <!-- BLOG-POST-LIST:END -->
 
