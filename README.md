@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Number of Provinces | LeetCode](https://dev.to/tanujav/number-of-provinces-leetcode-2p1g)
-- [Serverless vs. Traditional Hosting](https://dev.to/sh20raj/serverless-vs-traditional-hosting-2ckc)
-- [Understanding OAuth 2.0](https://dev.to/looph0le/understanding-oauth-20-3i8b)
-- [Deploying a React Application to Production: A Comprehensive Guide](https://dev.to/vyan/deploying-a-react-application-to-production-a-comprehensive-guide-4pm)
+- [Leetcode Day 3: Roman to Integer Explained](https://dev.to/simona-cancian/leetcode-day-3-roman-to-integer-explained-329o)
+- [Exploring the Uncharted: Fun and Weird Stuff in Python](https://dev.to/subham_behera/exploring-the-uncharted-fun-and-weird-stuff-in-python-19hg)
+- [Why We Built a MongoDB-Message Queue and Reinvented the Wheel](https://dev.to/allquiet/why-we-built-a-mongodb-message-queue-and-reinvented-the-wheel-al3)
+- [Multi-Tenant vs. Single-Tenant Applications](https://dev.to/sh20raj/multi-tenant-vs-single-tenant-applications-3gc4)
 <!-- BLOG-POST-LIST:END -->
 
