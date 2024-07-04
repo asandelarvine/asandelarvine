@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing API Documentation](https://dev.to/irhose/best-practices-for-writing-api-documentation-gc9)
-- [Full-Stack Developer vs. Software Engineer: Which Roles Faces Greater Impact from AI?](https://dev.to/ryoichihomma/full-stack-developer-vs-software-engineer-which-roles-faces-greater-impact-from-ai-232e)
-- [GraphQL and REST API](https://dev.to/logto/graphql-and-rest-api-5c43)
-- [Efficient User and Group Management on Linux: A Bash Script Tutorial](https://dev.to/linsmed/efficient-user-and-group-management-on-linux-a-bash-script-tutorial-4k16)
+- [VS Code settings that every front-end developer should know](https://dev.to/mhmd-salah/vs-code-settings-that-every-front-end-developer-should-know-2c1h)
+- [Introduction to Data Engineering with Apache Airflow](https://dev.to/kartikmehta8/introduction-to-data-engineering-with-apache-airflow-3m41)
+- [How To Automate User Creation With Bash Script](https://dev.to/toluwalemi/how-to-automate-user-creation-with-bash-script-3kkk)
+- [Creating Linux Users with a Bash Script](https://dev.to/sottie/creating-linux-users-with-a-bash-script-1a7p)
 <!-- BLOG-POST-LIST:END -->
 
