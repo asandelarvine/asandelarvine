@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Compilation in Go for AWS Lambda](https://dev.to/gatij/cross-compilation-in-go-for-aws-lambda-1io9)
-- [Joining an existing team can be quite challenging](https://dev.to/akotek/joining-an-existing-team-can-be-quite-challenging-47cm)
-- [Baking Up the Moxfield of Cookie Run: Braverse](https://dev.to/nicktsan/baking-up-the-moxfield-of-cookie-run-braverse-e59)
-- [how to list our projects in our resume through github link or just screen short please answer](https://dev.to/khan444/how-to-list-our-projects-in-our-resume-through-github-link-or-just-screen-short-please-answer-210e)
+- [Introduction to Functional Programming in JavaScript: Closure #2](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-closure-2-4m4g)
+- [User Creation Automation in Linux with Bash Scripts](https://dev.to/donfolayan/user-creation-automation-in-linux-with-bash-scripts-3p61)
+- [Why Still Use Django Over FastAPI?](https://dev.to/seifalmotaz/why-still-use-django-over-fastapi-5b0d)
+- [[Game of Purpose] Day 47 - Sync engine with a battery](https://dev.to/humberd/game-of-purpose-day-47-sync-engine-with-a-battery-oj6)
 <!-- BLOG-POST-LIST:END -->
 
