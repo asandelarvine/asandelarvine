@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Day 3: Roman to Integer Explained](https://dev.to/simona-cancian/leetcode-day-3-roman-to-integer-explained-329o)
-- [Exploring the Uncharted: Fun and Weird Stuff in Python](https://dev.to/subham_behera/exploring-the-uncharted-fun-and-weird-stuff-in-python-19hg)
-- [Why We Built a MongoDB-Message Queue and Reinvented the Wheel](https://dev.to/allquiet/why-we-built-a-mongodb-message-queue-and-reinvented-the-wheel-al3)
-- [Multi-Tenant vs. Single-Tenant Applications](https://dev.to/sh20raj/multi-tenant-vs-single-tenant-applications-3gc4)
+- [CLR](https://dev.to/shoxjaxon1202/clr-4a13)
+- [React JSX](https://dev.to/aadarshk7/react-jsx-7m8)
+- [How to Batch Notifications Across Users in a Dedicated Time Window? w/ Example Github Application](https://dev.to/suprsend/how-to-batch-notifications-across-users-in-a-dedicated-time-window-w-example-github-application-2p3k)
+- [How to Kickstart Your API Journey: An Easy Beginner&#39;s Guide](https://dev.to/vuyokazimkane/how-to-kickstart-your-api-journey-an-easy-beginners-guide-a9m)
 <!-- BLOG-POST-LIST:END -->
 
