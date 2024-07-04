@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Remote Backend: Centralized State Management for Infrastructure as Code](https://dev.to/vishwajeet_pratapsingh_a/terraform-remote-backend-centralized-state-management-for-infrastructure-as-code-3nob)
-- [Preparing for the 100 Days Full Stack Challenge: Goals, Plan, and Expectations](https://dev.to/zendeaditya/preparing-for-the-100-days-full-stack-challenge-goals-plan-and-expectations-5fm9)
-- [How to create a proper Event Management System SASS?](https://dev.to/nadim_ch0wdhury/how-to-create-a-proper-event-management-system-sass-263c)
-- [Mastering Machine Learning Algorithms: A LabEx Challenge Series 🤖](https://dev.to/labex/mastering-machine-learning-algorithms-a-labex-challenge-series-5cf0)
+- [5 ways to skip QA approval forever!](https://dev.to/middleware/5-ways-to-skip-qa-approval-forever-9b6)
+- [Build an HTML To Markdown Converter using ToolJet📋](https://dev.to/tooljet/build-an-html-to-markdown-converter-using-tooljet-4p7h)
+- [Our Custom Chatbot Gets Supercharged with New Features](https://dev.to/edenai/our-custom-chatbot-gets-supercharged-with-new-features-pe1)
+- [Revamped Mock-API.net: Simplifying API Mocking for Developers](https://dev.to/samirfcis/revamped-mock-apinet-simplifying-api-mocking-for-developers-5b9h)
 <!-- BLOG-POST-LIST:END -->
 
