@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 ways to skip QA approval forever!](https://dev.to/middleware/5-ways-to-skip-qa-approval-forever-9b6)
-- [Build an HTML To Markdown Converter using ToolJet📋](https://dev.to/tooljet/build-an-html-to-markdown-converter-using-tooljet-4p7h)
-- [Our Custom Chatbot Gets Supercharged with New Features](https://dev.to/edenai/our-custom-chatbot-gets-supercharged-with-new-features-pe1)
-- [Revamped Mock-API.net: Simplifying API Mocking for Developers](https://dev.to/samirfcis/revamped-mock-apinet-simplifying-api-mocking-for-developers-5b9h)
+- [VSCode Settings for Next.js Project](https://dev.to/maxwiggedal/vscode-settings-for-nextjs-project-7ld)
+- [Protecting Sensitive Data using Ansible Vault](https://dev.to/ideategudy/protecting-sensitive-data-using-ansible-vault-5h7k)
+- [Memoization in Javascript Explained](https://dev.to/joanayebola/memoization-in-javascript-explained-3922)
+- [Pub/Sub pattern vs Observer Pattern: what&#39;s the difference?](https://dev.to/superviz/pubsub-pattern-vs-observer-pattern-whats-the-difference-10mb)
 <!-- BLOG-POST-LIST:END -->
 
