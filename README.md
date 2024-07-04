@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic watermarking on the JVM](https://dev.to/nfrankel/dynamic-watermarking-on-the-jvm-ffh)
-- [UI Design Tips Using Tailwind CSS for Developers](https://dev.to/railsdesigner/ui-design-tips-using-tailwind-css-for-developers-4lg0)
-- [Welcome to JavaScript: From Novice to Expert](https://dev.to/buildwebcrumbs/welcome-to-javascript-from-novice-to-expert-38fh)
-- [TypeScript VS Angular for Gantt charts](https://dev.to/lenormor/typescript-vs-angular-for-gantt-charts-38gn)
+- [Top 8 Powerful No-Code Development Platforms in 2024](https://dev.to/nocobase/top-8-powerful-no-code-development-platforms-in-2024-3mof)
+- [Understanding SAML and SSO: A Detailed Comparison](https://dev.to/satokenta/understanding-saml-and-sso-a-detailed-comparison-2953)
+- [OpenID vs OAuth](https://dev.to/api7/openid-vs-oauth-dog)
+- [Help Needed: Integrating Laravel with Next.js for University E-commerce Project](https://dev.to/tharushkadinujaya05/help-needed-integrating-laravel-with-nextjs-for-university-e-commerce-project-53fj)
 <!-- BLOG-POST-LIST:END -->
 
