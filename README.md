@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gerenciamento de Estado com Context API vs Redux](https://dev.to/vitorrios1001/gerenciamento-de-estado-com-context-api-vs-redux-16f7)
-- [Leveraging Regular Service Role for Secured Alibaba Cloud Elasticsearch Integrations](https://dev.to/a_lucas/leveraging-regular-service-role-for-secured-alibaba-cloud-elasticsearch-integrations-3fhn)
-- [Leveraging PySpark.Pandas for Efficient Data Pipelines](https://dev.to/felipe_de_godoy/leveraging-pysparkpandas-for-efficient-data-pipelines-2opf)
-- [Come and see China：Beijing，a city that blends ancient and modern beauty！](https://dev.to/pang_jack/come-and-see-chinabeijinga-city-that-blends-ancient-and-modern-beauty-51bj)
+- [Number of Provinces | LeetCode](https://dev.to/tanujav/number-of-provinces-leetcode-2p1g)
+- [Serverless vs. Traditional Hosting](https://dev.to/sh20raj/serverless-vs-traditional-hosting-2ckc)
+- [Understanding OAuth 2.0](https://dev.to/looph0le/understanding-oauth-20-3i8b)
+- [Deploying a React Application to Production: A Comprehensive Guide](https://dev.to/vyan/deploying-a-react-application-to-production-a-comprehensive-guide-4pm)
 <!-- BLOG-POST-LIST:END -->
 
