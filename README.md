@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding git bisect!](https://dev.to/miguelparacuellos/understanding-git-bisect-hki)
-- [React, Typescript, and CD to GitHub Pages &lpar;2024&rpar;](https://dev.to/kinneko-de/react-typescript-and-cd-to-github-pages-2024-3n3h)
-- [Automating User and Group Management on Ubuntu: A Practical Guide](https://dev.to/victoria_ahmadu/automating-user-and-group-management-on-ubuntu-a-practical-guide-49i6)
-- [Erasure and Restrictions on Generics](https://dev.to/paulike/erasure-and-restrictions-on-generics-54bm)
+- [Cross-Compilation in Go for AWS Lambda](https://dev.to/gatij/cross-compilation-in-go-for-aws-lambda-1io9)
+- [Joining an existing team can be quite challenging](https://dev.to/akotek/joining-an-existing-team-can-be-quite-challenging-47cm)
+- [Baking Up the Moxfield of Cookie Run: Braverse](https://dev.to/nicktsan/baking-up-the-moxfield-of-cookie-run-braverse-e59)
+- [how to list our projects in our resume through github link or just screen short please answer](https://dev.to/khan444/how-to-list-our-projects-in-our-resume-through-github-link-or-just-screen-short-please-answer-210e)
 <!-- BLOG-POST-LIST:END -->
 
