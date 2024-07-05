@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing JWT Authentication in Node.js](https://dev.to/mbugua70/implementing-jwt-authentication-in-nodejs-3m8g)
-- [Pandas DataFrame Hist Method: Visualizing Data Distributions](https://dev.to/labex/pandas-dataframe-hist-method-visualizing-data-distributions-3png)
-- [How I calculate capacity for Systems Design](https://dev.to/zeeshanali0704/how-i-calculate-capacity-for-systems-design-399o)
-- [Mastering npm: A Comprehensive Guide to Package Management](https://dev.to/chiragagg5k/mastering-npm-a-comprehensive-guide-to-package-management-3h0m)
+- [Check colors in Angular Material theme builder](https://dev.to/ngmaterialdev/check-colors-in-angular-material-theme-builder-poi)
+- [How to Sequentially Fill and Submit Form Fields from CSV Using Chrome Extension and JavaScript](https://dev.to/itscae/how-to-sequentially-fill-and-submit-form-fields-from-csv-using-chrome-extension-and-javascript-kda)
+- [Build an Angular Video Chat App](https://dev.to/amosgyamfi/build-an-angular-video-chat-app-3g9c)
+- [Create Convincing UX mockups using PowerPoint!](https://dev.to/chandruchiku/eye-catching-ux-mockups-using-powerpoint-544a)
 <!-- BLOG-POST-LIST:END -->
 
