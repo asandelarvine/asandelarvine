@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #133: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-133-explica-este-codigo-python-29hg)
-- [WatchYourPorts - self-hosted ports inventory](https://dev.to/aceberg/watchyourports-self-hosted-ports-inventory-55ek)
-- [Slicing CPU as GPU &lpar;with Example&rpar;](https://dev.to/manishfoodtechs/slicing-cpu-as-gpu-with-example-269o)
-- [QuickBooks Database Server Manager: Optimizing Multi-User Access and Performance](https://dev.to/jasskarley/quickbooks-database-server-manager-optimizing-multi-user-access-and-performance-4epk)
+- [What the Helm?!](https://dev.to/cyclops-ui/what-the-helm-155f)
+- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 7&rpar; - Domain Logic](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-7-domain-logic-lg)
+- [10 Ways to Improve for a Junior Developer](https://dev.to/arnaudrenaud/10-ways-to-improve-for-a-junior-developer-22pj)
+- [Are you using OpenAI API? Then you need to be prepared!](https://dev.to/skywarth/are-you-using-openai-api-then-you-need-to-be-prepared-2o60)
 <!-- BLOG-POST-LIST:END -->
 
