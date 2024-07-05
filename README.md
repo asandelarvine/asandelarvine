@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pieces is the only AI tool you need to be a 10x developer🤯](https://dev.to/anmolbaranwal/pieces-is-the-only-ai-tool-you-need-to-be-a-10x-developer-13le)
-- [Serverless Application using AWS Lambda ,Api Gateway,AWS Amplify](https://dev.to/albine_peter_c2ffb10b422f/serverless-application-using-aws-lambda-api-gatewayaws-amplify-4kmg)
-- [Automating User and Group Management with Bash Script](https://dev.to/hayzedak/automating-user-and-group-management-with-bash-script-47ng)
-- [How to simulate real BeforeAll and AfterAll in JUnit 5](https://dev.to/eliasnogueira/how-to-simulate-real-beforeall-and-afterall-in-junit-5-gd5)
+- [Understand DI Containers: Intro](https://dev.to/emanuelgustafzon/understand-di-containers-intro-353a)
+- [GBase 8c SQL Optimization: Subplan Rewrite Optimization Case Studies](https://dev.to/congcong/gbase-8c-sql-optimization-subplan-rewrite-optimization-case-studies-70p)
+- [Active Links in Next JS and React Js](https://dev.to/ishan_sen/active-links-in-next-js-and-react-js-5d5h)
+- [Conquering Your First Database: Essential SQL Queries for Newbies](https://dev.to/fizza_c3e734ee2a307cf35e5/conquering-your-first-database-essential-sql-queries-for-newbies-gdl)
 <!-- BLOG-POST-LIST:END -->
 
