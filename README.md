@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is JavaScript Really as Insecure as They Say?](https://dev.to/nikl/is-javascript-really-as-insecure-as-they-say-mi8)
-- [How to Build Your Own Distributed KV Storage System Using the etcd Raft Library](https://dev.to/justlorain/how-to-build-your-own-distributed-kv-storage-system-using-the-etcd-raft-library-2j69)
-- [Introduction to CSS Frameworks](https://dev.to/hillaryprosper_wahua_bce/introduction-to-css-frameworks-1g4b)
-- [Gantt Project Planners in Software Development: Powerful Tools in Action](https://dev.to/thomasy0ung/gantt-project-planners-in-software-development-powerful-tools-in-action-233c)
+- [What is a Hybrid Cloud and Why is it Important?](https://dev.to/softwebsolution/what-is-a-hybrid-cloud-and-why-is-it-important-3pg5)
+- [The impasse of SQL performance optimizing](https://dev.to/esproc_spl/the-impasse-of-sql-performance-optimizing-gde)
+- [Introduction to REST API: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/introduction-to-rest-api-a-beginners-guide-1i4o)
+- [Practical Introduction to Environment Variables Using Node.js](https://dev.to/gyulizh/practical-introduction-to-environment-variables-using-nodejs-k9k)
 <!-- BLOG-POST-LIST:END -->
 
