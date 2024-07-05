@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀How to Use MediatR Pipeline Behavior in .NET 8](https://dev.to/mahendraputra21/how-to-use-mediatr-pipeline-behavior-in-net-8-3f90)
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.7](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-27-2mpl)
-- [Creating Virtual Machine Scale Set Using Azure Portal](https://dev.to/romanus_onyekwere/creating-virtual-machine-scale-set-using-azure-portal-1fp2)
-- [Security news weekly round-up - 5th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-5th-july-2024-kmd)
+- [Introduction to Functional Programming in JavaScript: High order functions #3](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-high-order-functions-3-262d)
+- [User Management Automation With BASH SCRIPT](https://dev.to/tophe/user-management-automation-with-bash-script-9n4)
+- [How to Connect MLX90614 Infrared to Raspberry Pi Pico](https://dev.to/shilleh/how-to-connect-mlx90614-infrared-to-raspberry-pi-pico-44gc)
+- [Render Angular Components in Markdown](https://dev.to/shhdharmen/render-angular-components-in-markdown-496l)
 <!-- BLOG-POST-LIST:END -->
 
