@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: High order functions #3](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-high-order-functions-3-262d)
-- [User Management Automation With BASH SCRIPT](https://dev.to/tophe/user-management-automation-with-bash-script-9n4)
-- [How to Connect MLX90614 Infrared to Raspberry Pi Pico](https://dev.to/shilleh/how-to-connect-mlx90614-infrared-to-raspberry-pi-pico-44gc)
-- [Render Angular Components in Markdown](https://dev.to/shhdharmen/render-angular-components-in-markdown-496l)
+- [Automating Linux User Creation with Bash Script](https://dev.to/anthony_obotidem_4e5d7748/automating-linux-user-creation-with-bash-script-3lgb)
+- [Documenting APIs in Ruby on Rails using Swagger](https://dev.to/abdullah_saleh_7b00752404/documenting-apis-in-ruby-on-rails-using-swagger-28gp)
+- [[Game of Purpose] Day 48](https://dev.to/humberd/game-of-purpose-day-48-4inn)
+- [Hosting a static website on Azure Blob Storage](https://dev.to/abidemi/hosting-a-static-website-on-azure-blob-storage-5bk6)
 <!-- BLOG-POST-LIST:END -->
 
