@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encryption and decyption filesysytem](https://dev.to/awais_684/encryption-and-decyption-filesysytem-42n6)
-- [Learning Coding](https://dev.to/angel_sanchez_56/learning-coding-942)
-- [Good practices that make a difference #2 📝](https://dev.to/superp0sit1on/good-practices-that-make-a-difference-2-30lk)
-- [The Critical Role of Writing Tests in Software Development](https://dev.to/davitacols/the-critical-role-of-writing-tests-in-software-development-34k5)
+- [DiscriminatorMap de Doctrine avec Api-platform](https://dev.to/aratinau/discriminatormap-de-doctrine-avec-api-platform-4koa)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-99h)
+- [Cloud computing: CaaS vs SaaS- What&#39;s the difference- full comparison](https://dev.to/momciloo/cloud-computing-caas-vs-saas-whats-the-difference-full-comparison-462j)
+- [How to Set Up a New TypeScript Project](https://dev.to/asimnp/how-to-set-up-a-new-typescript-project-56ae)
 <!-- BLOG-POST-LIST:END -->
 
