@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a New Umbraco Project: A Step-by-Step Guide](https://dev.to/shekhartarare/how-to-create-a-new-umbraco-project-a-step-by-step-guide-4bel)
-- [A Complete Guide to Different Types of Joins in SQL](https://dev.to/antonmartyniuk/a-complete-guide-to-different-types-of-joins-in-sql-19aj)
-- [Wix Challenge Simple Entry](https://dev.to/cyprian_maina_917603f2538/wix-challenge-simple-entry-5h0a)
-- [Ip - Lookup Website](https://dev.to/kingsmen732/ip-lookup-website-1pl9)
+- [Encryption and decyption filesysytem](https://dev.to/awais_684/encryption-and-decyption-filesysytem-42n6)
+- [Learning Coding](https://dev.to/angel_sanchez_56/learning-coding-942)
+- [Good practices that make a difference #2 📝](https://dev.to/superp0sit1on/good-practices-that-make-a-difference-2-30lk)
+- [The Critical Role of Writing Tests in Software Development](https://dev.to/davitacols/the-critical-role-of-writing-tests-in-software-development-34k5)
 <!-- BLOG-POST-LIST:END -->
 
