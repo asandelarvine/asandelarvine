@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Proxy Server and How Does it Work?](https://dev.to/sh20raj/what-is-a-proxy-server-and-how-does-it-work-155g)
-- [What is HTTPS and How Does it Work?](https://dev.to/sh20raj/what-is-https-and-how-does-it-work-3nj1)
-- [HydePHP Version v1.7 Released](https://dev.to/codewithcaen/hydephp-version-v17-released-3l75)
-- [My HNG Intership Journery](https://dev.to/ajuwonlo_04/my-hng-intership-journery-4g90)
+- [Incredible Updates in VS Code 1.91 &lpar;June 2024&rpar;](https://dev.to/rudolfolah/incredible-updates-in-vs-code-191-june-2024-3p10)
+- [Techniques for Synchronous DB Access in TypeScript](https://dev.to/koyopro/techniques-for-synchronous-db-access-in-typescript-2976)
+- [Automating Linux User and Group Management using a Bash Script](https://dev.to/felix_mordjifa/automating-linux-user-and-group-management-using-a-bash-script-548)
+- [Basic Of Javascript - Day 1 of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/basic-of-javascript-day-1-of-100daysoffullstackchallneg-1a54)
 <!-- BLOG-POST-LIST:END -->
 
