@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Hybrid Cloud and Why is it Important?](https://dev.to/softwebsolution/what-is-a-hybrid-cloud-and-why-is-it-important-3pg5)
-- [The impasse of SQL performance optimizing](https://dev.to/esproc_spl/the-impasse-of-sql-performance-optimizing-gde)
-- [Introduction to REST API: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/introduction-to-rest-api-a-beginners-guide-1i4o)
-- [Practical Introduction to Environment Variables Using Node.js](https://dev.to/gyulizh/practical-introduction-to-environment-variables-using-nodejs-k9k)
+- [Pieces is the only AI tool you need to be a 10x developer🤯](https://dev.to/anmolbaranwal/pieces-is-the-only-ai-tool-you-need-to-be-a-10x-developer-13le)
+- [Serverless Application using AWS Lambda ,Api Gateway,AWS Amplify](https://dev.to/albine_peter_c2ffb10b422f/serverless-application-using-aws-lambda-api-gatewayaws-amplify-4kmg)
+- [Automating User and Group Management with Bash Script](https://dev.to/hayzedak/automating-user-and-group-management-with-bash-script-47ng)
+- [How to simulate real BeforeAll and AfterAll in JUnit 5](https://dev.to/eliasnogueira/how-to-simulate-real-beforeall-and-afterall-in-junit-5-gd5)
 <!-- BLOG-POST-LIST:END -->
 
