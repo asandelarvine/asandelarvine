@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check colors in Angular Material theme builder](https://dev.to/ngmaterialdev/check-colors-in-angular-material-theme-builder-poi)
-- [How to Sequentially Fill and Submit Form Fields from CSV Using Chrome Extension and JavaScript](https://dev.to/itscae/how-to-sequentially-fill-and-submit-form-fields-from-csv-using-chrome-extension-and-javascript-kda)
-- [Build an Angular Video Chat App](https://dev.to/amosgyamfi/build-an-angular-video-chat-app-3g9c)
-- [Create Convincing UX mockups using PowerPoint!](https://dev.to/chandruchiku/eye-catching-ux-mockups-using-powerpoint-544a)
+- [Is JavaScript Really as Insecure as They Say?](https://dev.to/nikl/is-javascript-really-as-insecure-as-they-say-mi8)
+- [How to Build Your Own Distributed KV Storage System Using the etcd Raft Library](https://dev.to/justlorain/how-to-build-your-own-distributed-kv-storage-system-using-the-etcd-raft-library-2j69)
+- [Introduction to CSS Frameworks](https://dev.to/hillaryprosper_wahua_bce/introduction-to-css-frameworks-1g4b)
+- [Gantt Project Planners in Software Development: Powerful Tools in Action](https://dev.to/thomasy0ung/gantt-project-planners-in-software-development-powerful-tools-in-action-233c)
 <!-- BLOG-POST-LIST:END -->
 
