@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server side &lpar;vulnerability scanning&rpar;](https://dev.to/samglish/server-side-vulnerability-scanning-1hf9)
-- [How to Build a MySQL Admin Panel &lpar;Fast &amp; Easy&rpar;](https://dev.to/domfive/how-to-build-a-mysql-admin-panel-fast-easy-1ch7)
-- [Deploy a Java application using Spring Boot on Google Cloud](https://dev.to/marioflores7/deploy-a-java-application-using-spring-boot-on-google-cloud-4mik)
-- [Considerations for Unicode and Searching](https://dev.to/mdchaney/considerations-for-unicode-and-searching-jo4)
+- [Fundamental Parts of a Successful SEO Plan in Digital Marketing](https://dev.to/juddiy/fundamental-parts-of-a-successful-seo-plan-in-digital-marketing-24ol)
+- [Here&#39;s how you can build and train GPT-2 from scratch using PyTorch](https://dev.to/amit_kharel_aae65abe2b111/heres-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-345n)
+- [A Simple Instagram Tracking Script Written in Python](https://dev.to/ibnaleem/a-simple-instagram-tracking-script-written-in-python-in9)
+- [I created a nosql DB using rust](https://dev.to/arindam_roy_382/i-created-a-nosql-db-using-rust-4lo5)
 <!-- BLOG-POST-LIST:END -->
 
