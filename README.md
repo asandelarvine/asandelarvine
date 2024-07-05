@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamental Parts of a Successful SEO Plan in Digital Marketing](https://dev.to/juddiy/fundamental-parts-of-a-successful-seo-plan-in-digital-marketing-24ol)
-- [Here&#39;s how you can build and train GPT-2 from scratch using PyTorch](https://dev.to/amit_kharel_aae65abe2b111/heres-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-345n)
-- [A Simple Instagram Tracking Script Written in Python](https://dev.to/ibnaleem/a-simple-instagram-tracking-script-written-in-python-in9)
-- [I created a nosql DB using rust](https://dev.to/arindam_roy_382/i-created-a-nosql-db-using-rust-4lo5)
+- [Explanation of SOLID in OOP](https://dev.to/chauhoangminhnguyen/explanation-of-solid-in-oop-2bjb)
+- [Introduction to Docker: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/introduction-to-docker-a-beginners-guide-1d9i)
+- [The Quirky Side of C++: Weird Stuff That Makes Us Love &lpar;and Hate&rpar; It](https://dev.to/subham_behera/the-quirky-side-of-c-weird-stuff-that-makes-us-love-and-hate-it-4k31)
+- [Caso de uso: LocalStack](https://dev.to/joserafaelsh/caso-de-uso-localstack-3gc5)
 <!-- BLOG-POST-LIST:END -->
 
