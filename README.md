@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What the Helm?!](https://dev.to/cyclops-ui/what-the-helm-155f)
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 7&rpar; - Domain Logic](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-7-domain-logic-lg)
-- [10 Ways to Improve for a Junior Developer](https://dev.to/arnaudrenaud/10-ways-to-improve-for-a-junior-developer-22pj)
-- [Are you using OpenAI API? Then you need to be prepared!](https://dev.to/skywarth/are-you-using-openai-api-then-you-need-to-be-prepared-2o60)
+- [How to Create a New Umbraco Project: A Step-by-Step Guide](https://dev.to/shekhartarare/how-to-create-a-new-umbraco-project-a-step-by-step-guide-4bel)
+- [A Complete Guide to Different Types of Joins in SQL](https://dev.to/antonmartyniuk/a-complete-guide-to-different-types-of-joins-in-sql-19aj)
+- [Wix Challenge Simple Entry](https://dev.to/cyprian_maina_917603f2538/wix-challenge-simple-entry-5h0a)
+- [Ip - Lookup Website](https://dev.to/kingsmen732/ip-lookup-website-1pl9)
 <!-- BLOG-POST-LIST:END -->
 
