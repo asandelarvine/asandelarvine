@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incredible Updates in VS Code 1.91 &lpar;June 2024&rpar;](https://dev.to/rudolfolah/incredible-updates-in-vs-code-191-june-2024-3p10)
-- [Techniques for Synchronous DB Access in TypeScript](https://dev.to/koyopro/techniques-for-synchronous-db-access-in-typescript-2976)
-- [Automating Linux User and Group Management using a Bash Script](https://dev.to/felix_mordjifa/automating-linux-user-and-group-management-using-a-bash-script-548)
-- [Basic Of Javascript - Day 1 of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/basic-of-javascript-day-1-of-100daysoffullstackchallneg-1a54)
+- [Using the @Lookup Annotation in Spring](https://dev.to/tiuwill/using-the-lookup-annotation-in-spring-2eb6)
+- [Learn AI The Best Way Bite Size](https://dev.to/ameet/learn-ai-the-best-way-bite-size-460p)
+- [Stronger AI, Weaker Security? The Quantum Computing Conundrum](https://dev.to/aisquare/stronger-ai-weaker-security-the-quantum-computing-conundrum-3m4j)
+- [AWS - Well-architected framework and I.A.M in practice](https://dev.to/pokkan70/aws-well-architected-framework-and-iam-in-practice-2ch)
 <!-- BLOG-POST-LIST:END -->
 
