@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Major updates from the open source community: Release Radar · June 2024](https://dev.to/github/major-updates-from-the-open-source-community-release-radar-june-2024-4mf5)
-- [A produtividade do desenvolvedor](https://dev.to/ramonduraes/a-produtividade-do-desenvolvedor-2cm9)
-- [Automate User Management on Linux with a Bash Script](https://dev.to/shirley_5e2405f86bcff245a/automate-user-management-on-linux-with-a-bash-script-1i60)
-- [Setting Up Node.js and Creating a Basic HTTP Server: A Beginner&#39;s Guide](https://dev.to/sudhanshu_developer/setting-up-nodejs-and-creating-a-basic-http-server-a-beginners-guide-j12)
+- [What is a Proxy Server and How Does it Work?](https://dev.to/sh20raj/what-is-a-proxy-server-and-how-does-it-work-155g)
+- [What is HTTPS and How Does it Work?](https://dev.to/sh20raj/what-is-https-and-how-does-it-work-3nj1)
+- [HydePHP Version v1.7 Released](https://dev.to/codewithcaen/hydephp-version-v17-released-3l75)
+- [My HNG Intership Journery](https://dev.to/ajuwonlo_04/my-hng-intership-journery-4g90)
 <!-- BLOG-POST-LIST:END -->
 
