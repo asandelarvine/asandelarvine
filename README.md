@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand DI Containers: Intro](https://dev.to/emanuelgustafzon/understand-di-containers-intro-353a)
-- [GBase 8c SQL Optimization: Subplan Rewrite Optimization Case Studies](https://dev.to/congcong/gbase-8c-sql-optimization-subplan-rewrite-optimization-case-studies-70p)
-- [Active Links in Next JS and React Js](https://dev.to/ishan_sen/active-links-in-next-js-and-react-js-5d5h)
-- [Conquering Your First Database: Essential SQL Queries for Newbies](https://dev.to/fizza_c3e734ee2a307cf35e5/conquering-your-first-database-essential-sql-queries-for-newbies-gdl)
+- [Ibuprofeno.py💊| #133: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-133-explica-este-codigo-python-29hg)
+- [WatchYourPorts - self-hosted ports inventory](https://dev.to/aceberg/watchyourports-self-hosted-ports-inventory-55ek)
+- [Slicing CPU as GPU &lpar;with Example&rpar;](https://dev.to/manishfoodtechs/slicing-cpu-as-gpu-with-example-269o)
+- [QuickBooks Database Server Manager: Optimizing Multi-User Access and Performance](https://dev.to/jasskarley/quickbooks-database-server-manager-optimizing-multi-user-access-and-performance-4epk)
 <!-- BLOG-POST-LIST:END -->
 
