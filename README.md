@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explanation of SOLID in OOP](https://dev.to/chauhoangminhnguyen/explanation-of-solid-in-oop-2bjb)
-- [Introduction to Docker: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/introduction-to-docker-a-beginners-guide-1d9i)
-- [The Quirky Side of C++: Weird Stuff That Makes Us Love &lpar;and Hate&rpar; It](https://dev.to/subham_behera/the-quirky-side-of-c-weird-stuff-that-makes-us-love-and-hate-it-4k31)
-- [Caso de uso: LocalStack](https://dev.to/joserafaelsh/caso-de-uso-localstack-3gc5)
+- [10 Facts About ReactJS Lazy Loading: Optimizing Your Web Application&#39;s Performance](https://dev.to/vyan/10-facts-about-reactjs-lazy-loading-optimizing-your-web-applications-performance-13ck)
+- [Master Minimize Maximum Difference in an Array in C# by 3 Easy Steps](https://dev.to/rk042/master-minimize-maximum-difference-in-an-array-in-c-by-3-easy-steps-4pai)
+- [Implementasi Metode Standard Symmetric Encryption Signature pada Golang](https://dev.to/yogameleniawan/implementasi-metode-standard-symmetric-encryption-signature-pada-golang-2m5m)
+- [Creating and Managing Users and Groups on Linux with Bash Scripts: An Efficient Guide 🚀🐧](https://dev.to/adeshile_osunkoya_4201f36/creating-and-managing-users-and-groups-on-linux-with-bash-scripts-an-efficient-guide-2pog)
 <!-- BLOG-POST-LIST:END -->
 
