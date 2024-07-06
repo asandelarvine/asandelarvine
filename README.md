@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10-Minute Guide to Building a Webhook Service with Sendhooks](https://dev.to/koladev/10-minute-guide-to-building-a-webhook-service-with-sendhooks-3lbm)
-- [ClusterIP - Kubernetes](https://dev.to/ibrahimsi/clusterip-kubernetes-3bbm)
-- [From Idea to Published Post: A Streamlined Content Workflow for Non-Technical Teams](https://dev.to/swati1267/from-idea-to-published-post-a-streamlined-content-workflow-for-non-technical-teams-57if)
-- [How to Configure GitHub to Run Unit Tests Automatically](https://dev.to/olsido/how-to-configure-github-to-run-unit-tests-automatically-53a9)
+- [manual testing](https://dev.to/kavithagovindaraj/manual-testing-3c83)
+- [Beverage Bottles: Trends in Design and Functionality](https://dev.to/sharon_collinst_b2c646661/beverage-bottles-trends-in-design-and-functionality-36l3)
+- [Cloudflare Launches Free Tool to Combat AI Bot Scraping](https://dev.to/hyscaler/cloudflare-launches-free-tool-to-combat-ai-bot-scraping-24ce)
+- [Converting bit of CPU to GPU : Rendering AI Models on CPU only](https://dev.to/manishfoodtechs/converting-bit-of-cpu-to-gpu-rendering-ai-models-on-cpu-only-22oh)
 <!-- BLOG-POST-LIST:END -->
 
