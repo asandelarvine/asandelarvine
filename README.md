@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Website](https://dev.to/sudhanshuambastha/apple-website-4kgn)
-- [How to create awaitable prompt as React Component](https://dev.to/ku6ryo/how-to-create-awaitable-prompt-as-react-component-m9l)
-- [Why Your AI Assistant Is Smarter Than You Think](https://dev.to/samadpls/why-your-ai-assistant-is-smarter-than-you-think-17n2)
-- [UNRAVELING THE SECRETS OF THE ICONIC IRIS DATASET](https://dev.to/browhnshuga/unraveling-the-secrets-of-the-iconic-iris-dataset-4gf0)
+- [Day 5: Adding Dark Mode to My Social Media App 🚀](https://dev.to/sushilmagare10/day-5-adding-dark-mode-to-my-social-media-app-1ngg)
+- [Struggling with Node.js](https://dev.to/thomasspare/struggling-with-nodejs-5ch3)
+- [#4 React Coding - 2 Way Data Binding &lpar;Exercise&rpar;](https://dev.to/nsen59341/4-react-coding-2-way-data-binding-exercise-596i)
+- [The JavaScript Labyrinth: Unseen Dangers and Hidden Truths](https://dev.to/solitary-polymath/the-javascript-labyrinth-unseen-dangers-and-hidden-truths-49op)
 <!-- BLOG-POST-LIST:END -->
 
