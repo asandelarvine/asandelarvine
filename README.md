@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using OBS: Why Vidova.ai is the Screen Recorder You Didn’t Know You Needed](https://dev.to/vidova/stop-using-obs-why-vidovaai-is-the-screen-recorder-you-didnt-know-you-needed-43pg)
-- [Espaçamento e Parênteses em Expressões Java](https://dev.to/devsjavagirls/espacamento-e-parenteses-em-expressoes-java-ggm)
-- [Expressões em Java](https://dev.to/devsjavagirls/expressoes-em-java-3f4k)
-- [Tente Isto 2-2 Tabela-Verdade para os Operadores Lógicos](https://dev.to/devsjavagirls/tente-isto-2-2-tabela-verdade-para-os-operadores-logicos-12b4)
+- [10-Minute Guide to Building a Webhook Service with Sendhooks](https://dev.to/koladev/10-minute-guide-to-building-a-webhook-service-with-sendhooks-3lbm)
+- [ClusterIP - Kubernetes](https://dev.to/ibrahimsi/clusterip-kubernetes-3bbm)
+- [From Idea to Published Post: A Streamlined Content Workflow for Non-Technical Teams](https://dev.to/swati1267/from-idea-to-published-post-a-streamlined-content-workflow-for-non-technical-teams-57if)
+- [How to Configure GitHub to Run Unit Tests Automatically](https://dev.to/olsido/how-to-configure-github-to-run-unit-tests-automatically-53a9)
 <!-- BLOG-POST-LIST:END -->
 
