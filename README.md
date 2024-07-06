@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to save time when run RSpec tests](https://dev.to/alanmaik/how-to-save-time-when-run-rspec-tests-10ld)
-- [Getting started with Pionia Framework](https://dev.to/jet_ezra/getting-started-with-pionia-frameowrk-54lo)
-- [HTML Semantic Elements&lpar;A to Z&rpar;](https://dev.to/ridoy_hasan/html-semantic-elementsa-to-z-56p)
-- [Are All Swift Functions Actually Returning Tuples?](https://dev.to/asafhuseyn/are-all-swift-functions-actually-returning-tuples-o)
+- [Popular Interview Questions for Senior .NET ✅Developer](https://dev.to/shahed1bd/popular-interview-questions-for-senior-net-developer-4cpe)
+- [A Comprehensive Analysis of the Educational Landscape of Diploma Programs in Web Design](https://dev.to/wisdom_collegecreativity/a-comprehensive-analysis-of-the-educational-landscape-of-diploma-programs-in-web-design-186h)
+- [Dataverse Web Resources with React, Typescript and FluentUI &lpar;_neronotte&#39;s way&rpar;](https://dev.to/_neronotte/dataverse-web-resources-with-react-typescript-and-fluentui-neronottes-way-3n40)
+- [Run Flyway DB migrations with AWS Lambda and RDS - Part 1](https://dev.to/aws-builders/run-flyway-db-migrations-with-aws-lambda-and-rds-part-1-2a6j)
 <!-- BLOG-POST-LIST:END -->
 
