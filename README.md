@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3. Finale of complete SASS 🤣&lpar;longer&rpar;](https://dev.to/aryan015/3-finale-of-complete-sass-longer-2gpe)
-- [How does Javascript work under the hood?](https://dev.to/ronak_navadia_0611/how-does-javascript-work-under-the-hood-3ofh)
-- [Let&#39;s understand the differences: href=&quot;&quot;, href=&quot;#&quot;, and href=&quot;javascript:void&lpar;0&rpar;&quot;](https://dev.to/readwanmd/lets-understand-the-differences-href-href-and-hrefjavascriptvoid0-a2c)
-- [Networking: A Journey through the Internet Galaxy](https://dev.to/siashish/networking-a-journey-through-the-internet-galaxy-3eib)
+- [Functional Patterns: The Monad](https://dev.to/if-els/functional-patterns-the-monad-cc2)
+- [Lazy Loading :&rpar;](https://dev.to/justanordinaryperson/lazy-loading--3f11)
+- [Effortlessly Feed Your Code to AI Chatbots with CrazyNote!](https://dev.to/globalkonvict/effortlessly-feed-your-code-to-ai-chatbots-with-crazynote-1njd)
+- [Vuetify Tutorial: Design a Website About section using Vuetify || Vuetify Bangla Tutorial](https://dev.to/minit61/vuetify-tutorial-design-a-website-about-section-using-vuetify-vuetify-bangla-tutorial-5acp)
 <!-- BLOG-POST-LIST:END -->
 
