@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own YouTube Thumbnail Downloader! RoR+SerpApi - Part 1](https://dev.to/lipin/build-your-own-youtube-thumbnail-downloader-rorserpapi-part-1-3f15)
-- [Exciting New Features in ECMAScript 2024 : In-Place Resizable ArrayBuffers and Enhanced SharedArrayBuffers 🚀](https://dev.to/rajusaha/exciting-new-features-in-ecmascript-2024-in-place-resizable-arraybuffers-and-enhanced-sharedarraybuffers-94c)
-- [Top Search Engines for Pentesters](https://dev.to/falselight/top-search-engines-for-pentesters-2hab)
-- [Android Native Bridging in React Native](https://dev.to/ajmal_hasan/android-native-bridging-in-react-native-364m)
+- [3. Finale of complete SASS 🤣&lpar;longer&rpar;](https://dev.to/aryan015/3-finale-of-complete-sass-longer-2gpe)
+- [How does Javascript work under the hood?](https://dev.to/ronak_navadia_0611/how-does-javascript-work-under-the-hood-3ofh)
+- [Let&#39;s understand the differences: href=&quot;&quot;, href=&quot;#&quot;, and href=&quot;javascript:void&lpar;0&rpar;&quot;](https://dev.to/readwanmd/lets-understand-the-differences-href-href-and-hrefjavascriptvoid0-a2c)
+- [Networking: A Journey through the Internet Galaxy](https://dev.to/siashish/networking-a-journey-through-the-internet-galaxy-3eib)
 <!-- BLOG-POST-LIST:END -->
 
