@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Function compositions #4](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-function-compositions-4-5hjm)
-- [Vercel&#39;s latest product is the best thing since sliced bread](https://dev.to/bibschan/vercels-latest-product-is-the-best-thing-since-sliced-bread-29c4)
-- [8 Months Recap.](https://dev.to/justjay30a7i/8-months-recap-4hh2)
-- [Day 6 of 100 Days of Code](https://dev.to/jacobsternx/day-6-of-100-days-of-code-4dkg)
+- [[Game of Purpose] Day 49 - Bone collision detection](https://dev.to/humberd/game-of-purpose-day-49-bone-collision-detection-3f2d)
+- [Javascript OOP](https://dev.to/bekmuhammaddev/javascript-oop-2d8b)
+- [Microservices vs Monolith](https://dev.to/wallacefreitas/microservices-vs-monolith-5gd0)
+- [Building a Custom Enable/Disable + Input Field Component in Angular](https://dev.to/mateuscechetto/building-a-custom-enabledisable-input-field-component-in-angular-5bgc)
 <!-- BLOG-POST-LIST:END -->
 
