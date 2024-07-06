@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [jwt decode link: https://www.npmjs.com/package/jwt-decode](https://dev.to/debos_das_9a77be9788e2d6e/jwt-decode-link-httpswwwnpmjscompackagejwt-decode-523c)
-- [Expondo seu localhost com Ngrok &lpar;muito útil para testar webhooks&rpar;](https://dev.to/thayto/expondo-seu-localhost-com-ngrok-muito-util-para-testar-webhooks-3hh0)
-- [Debouncing ⏳ Vs Throttling ⏱](https://dev.to/mrhimanshusahni/debouncing-vs-throttling-2p22)
-- [Stripe Elements in Rails and Payments Without Email Submissions](https://dev.to/gperilli/stripe-elements-in-rails-and-payments-without-email-submissions-3acf)
+- [How to save time when run RSpec tests](https://dev.to/alanmaik/how-to-save-time-when-run-rspec-tests-10ld)
+- [Getting started with Pionia Framework](https://dev.to/jet_ezra/getting-started-with-pionia-frameowrk-54lo)
+- [HTML Semantic Elements&lpar;A to Z&rpar;](https://dev.to/ridoy_hasan/html-semantic-elementsa-to-z-56p)
+- [Are All Swift Functions Actually Returning Tuples?](https://dev.to/asafhuseyn/are-all-swift-functions-actually-returning-tuples-o)
 <!-- BLOG-POST-LIST:END -->
 
