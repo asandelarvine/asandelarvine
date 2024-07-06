@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No hook libraries - Handle infinitely scrolling in ReactJS](https://dev.to/thinhkhang97/no-hook-libraries-handle-infinitely-scrolling-in-reactjs-34b6)
-- [Elixir process - Explain more](https://dev.to/manhvanvu/elixir-process-explain-more-1lgl)
-- [Day 26 of 30 of JavaScript](https://dev.to/akshat0610/day-26-of-30-of-javascript-2dfb)
-- [First Steps in SQL Operators: A Beginner&#39;s Guide](https://dev.to/angelika_jolly_4aa3821499/first-steps-in-sql-operators-a-beginners-guide-505n)
+- [System Design Basics - Caching](https://dev.to/somadevtoo/system-design-basics-caching-4fge)
+- [How to Install Homebrew on Ubuntu](https://dev.to/sh20raj/how-to-install-homebrew-on-ubuntu-1k9h)
+- [Hybrid Rendering Architecture using Astro and Go Fiber](https://dev.to/falselight/hybrid-rendering-architecture-using-astro-and-go-fiber-56h3)
+- [Installing Cloudflared on DigitalOcean Ubuntu](https://dev.to/sh20raj/installing-cloudflared-on-digitalocean-ubuntu-51kc)
 <!-- BLOG-POST-LIST:END -->
 
