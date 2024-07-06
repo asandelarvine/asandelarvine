@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL with Vector Search : MyScale, Spring and Java - Step by Step tutorial!](https://dev.to/vishalmysore/sql-with-vector-search-myscale-spring-and-java-step-by-step-tutorial-1fde)
-- [WIX Studio Submitted](https://dev.to/alla_santoshpavankumar_/wix-studio-submitted-15bb)
-- [IMPLEMENTING AZURE KEY VAULT](https://dev.to/aizeon/implementing-azure-key-vault-7he)
-- [How to Enable SonarCloud for Your Project](https://dev.to/olsido/how-to-enable-sonarcloud-for-your-project-aoi)
+- [Os primeiros 90 dias](https://dev.to/camila_arruda_ec496aeea5c/os-primeiros-90-dias-317)
+- [call, apply, bind](https://dev.to/__khojiakbar__/call-apply-bind-3m5p)
+- [🚀 TypeScript Roadmap 2024 Step By Step](https://dev.to/sovannaro/typescript-roadmap-2024-step-by-step-9i4)
+- [JavaScript NaN - advanced JS interview question](https://dev.to/finalgirl321/lets-talk-about-js-nan-advanced-js-interview-question-3b7a)
 <!-- BLOG-POST-LIST:END -->
 
