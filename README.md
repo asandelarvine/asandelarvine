@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Os primeiros 90 dias](https://dev.to/camila_arruda_ec496aeea5c/os-primeiros-90-dias-317)
-- [call, apply, bind](https://dev.to/__khojiakbar__/call-apply-bind-3m5p)
-- [🚀 TypeScript Roadmap 2024 Step By Step](https://dev.to/sovannaro/typescript-roadmap-2024-step-by-step-9i4)
-- [JavaScript NaN - advanced JS interview question](https://dev.to/finalgirl321/lets-talk-about-js-nan-advanced-js-interview-question-3b7a)
+- [Stop Using OBS: Why Vidova.ai is the Screen Recorder You Didn’t Know You Needed](https://dev.to/vidova/stop-using-obs-why-vidovaai-is-the-screen-recorder-you-didnt-know-you-needed-43pg)
+- [Espaçamento e Parênteses em Expressões Java](https://dev.to/devsjavagirls/espacamento-e-parenteses-em-expressoes-java-ggm)
+- [Expressões em Java](https://dev.to/devsjavagirls/expressoes-em-java-3f4k)
+- [Tente Isto 2-2 Tabela-Verdade para os Operadores Lógicos](https://dev.to/devsjavagirls/tente-isto-2-2-tabela-verdade-para-os-operadores-logicos-12b4)
 <!-- BLOG-POST-LIST:END -->
 
