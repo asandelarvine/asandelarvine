@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [manual testing](https://dev.to/kavithagovindaraj/manual-testing-3c83)
-- [Beverage Bottles: Trends in Design and Functionality](https://dev.to/sharon_collinst_b2c646661/beverage-bottles-trends-in-design-and-functionality-36l3)
-- [Cloudflare Launches Free Tool to Combat AI Bot Scraping](https://dev.to/hyscaler/cloudflare-launches-free-tool-to-combat-ai-bot-scraping-24ce)
-- [Converting bit of CPU to GPU : Rendering AI Models on CPU only](https://dev.to/manishfoodtechs/converting-bit-of-cpu-to-gpu-rendering-ai-models-on-cpu-only-22oh)
+- [Discover India: Tailored Tourism Packages for Every Traveler](https://dev.to/indiatourismpackagess/discover-india-tailored-tourism-packages-for-every-traveler-dap)
+- [Simple OAuth 2.0 Framework for Authentication &lpar;Freeware&rpar;](https://dev.to/andybrunner/simple-oauth-20-framework-for-authentication-freeware-14l3)
+- [Pre-requisites: How I Calculate Capacity for Systems Design - 1](https://dev.to/zeeshanali0704/how-i-calculate-capacity-for-systems-design-1-25ob)
+- [2行代码，解决静态冲突，自动帮你取消重复的过期请求](https://dev.to/yinjialu/2xing-dai-ma-jie-jue-jing-tai-chong-tu-zi-dong-bang-ni-qu-xiao-zhong-fu-de-guo-qi-qing-qiu-552j)
 <!-- BLOG-POST-LIST:END -->
 
