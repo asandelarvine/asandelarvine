@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: Adding Dark Mode to My Social Media App 🚀](https://dev.to/sushilmagare10/day-5-adding-dark-mode-to-my-social-media-app-1ngg)
-- [Struggling with Node.js](https://dev.to/thomasspare/struggling-with-nodejs-5ch3)
-- [#4 React Coding - 2 Way Data Binding &lpar;Exercise&rpar;](https://dev.to/nsen59341/4-react-coding-2-way-data-binding-exercise-596i)
-- [The JavaScript Labyrinth: Unseen Dangers and Hidden Truths](https://dev.to/solitary-polymath/the-javascript-labyrinth-unseen-dangers-and-hidden-truths-49op)
+- [Solving MySQL Authentication Problem](https://dev.to/debuggingrabbit/solving-mysql-authentication-problem-2p9n)
+- [5 github profiles every developer must follow](https://dev.to/agunwachidiebelecalistus/5-github-profiles-every-developer-must-follow-1441)
+- [Getting started as a Mobile App Developer](https://dev.to/mutiatbash/getting-started-as-a-mobile-app-developer-ji8)
+- [Guard Your Digital Fortress: Essential Privacy Best Practices Revealed](https://dev.to/verifyvault/guard-your-digital-fortress-essential-privacy-best-practices-revealed-26o4)
 <!-- BLOG-POST-LIST:END -->
 
