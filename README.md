@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Popular Interview Questions for Senior .NET ✅Developer](https://dev.to/shahed1bd/popular-interview-questions-for-senior-net-developer-4cpe)
-- [A Comprehensive Analysis of the Educational Landscape of Diploma Programs in Web Design](https://dev.to/wisdom_collegecreativity/a-comprehensive-analysis-of-the-educational-landscape-of-diploma-programs-in-web-design-186h)
-- [Dataverse Web Resources with React, Typescript and FluentUI &lpar;_neronotte&#39;s way&rpar;](https://dev.to/_neronotte/dataverse-web-resources-with-react-typescript-and-fluentui-neronottes-way-3n40)
-- [Run Flyway DB migrations with AWS Lambda and RDS - Part 1](https://dev.to/aws-builders/run-flyway-db-migrations-with-aws-lambda-and-rds-part-1-2a6j)
+- [Introduction to Functional Programming in JavaScript: Function compositions #4](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-function-compositions-4-5hjm)
+- [Vercel&#39;s latest product is the best thing since sliced bread](https://dev.to/bibschan/vercels-latest-product-is-the-best-thing-since-sliced-bread-29c4)
+- [8 Months Recap.](https://dev.to/justjay30a7i/8-months-recap-4hh2)
+- [Day 6 of 100 Days of Code](https://dev.to/jacobsternx/day-6-of-100-days-of-code-4dkg)
 <!-- BLOG-POST-LIST:END -->
 
