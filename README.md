@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Adapters in Java for Android Development](https://dev.to/ankittmeena/understanding-adapters-in-java-for-android-development-2o3a)
-- [Generative Reroll Game Development Using LLMs](https://dev.to/abagames/generative-reroll-game-development-using-llms-22m3)
-- [6 Essential Websites You&#39;ll Love As A Developers](https://dev.to/matin676/6-essential-websites-youll-love-as-a-developers-1bin)
-- [How is Braid made?](https://dev.to/lxchurbakov/how-is-braid-made-5ecj)
+- [Build Your Own YouTube Thumbnail Downloader! RoR+SerpApi - Part 1](https://dev.to/lipin/build-your-own-youtube-thumbnail-downloader-rorserpapi-part-1-3f15)
+- [Exciting New Features in ECMAScript 2024 : In-Place Resizable ArrayBuffers and Enhanced SharedArrayBuffers 🚀](https://dev.to/rajusaha/exciting-new-features-in-ecmascript-2024-in-place-resizable-arraybuffers-and-enhanced-sharedarraybuffers-94c)
+- [Top Search Engines for Pentesters](https://dev.to/falselight/top-search-engines-for-pentesters-2hab)
+- [Android Native Bridging in React Native](https://dev.to/ajmal_hasan/android-native-bridging-in-react-native-364m)
 <!-- BLOG-POST-LIST:END -->
 
