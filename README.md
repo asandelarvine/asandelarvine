@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebNUT: Integrate UPS into the SmartHome](https://dev.to/disane/webnut-integrate-ups-into-the-smarthome-504c)
-- [Exploring the concept of the Typescript - Day 2 Of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/exploring-the-concept-of-the-typescript-day-2-of-100daysoffullstackchallnege-37fk)
-- [[Conceito] - Meus 3 Tipos Preferidos de Diagramas](https://dev.to/zanfranceschi/conceito-meus-3-tipos-preferidos-de-diagramas-20me)
-- [Conventional Commits](https://dev.to/ericarodrigs/conventional-commits-8mh)
+- [jwt decode link: https://www.npmjs.com/package/jwt-decode](https://dev.to/debos_das_9a77be9788e2d6e/jwt-decode-link-httpswwwnpmjscompackagejwt-decode-523c)
+- [Expondo seu localhost com Ngrok &lpar;muito útil para testar webhooks&rpar;](https://dev.to/thayto/expondo-seu-localhost-com-ngrok-muito-util-para-testar-webhooks-3hh0)
+- [Debouncing ⏳ Vs Throttling ⏱](https://dev.to/mrhimanshusahni/debouncing-vs-throttling-2p22)
+- [Stripe Elements in Rails and Payments Without Email Submissions](https://dev.to/gperilli/stripe-elements-in-rails-and-payments-without-email-submissions-3acf)
 <!-- BLOG-POST-LIST:END -->
 
