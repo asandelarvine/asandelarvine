@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New in PHP 8! 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐲 𝐘𝐨𝐮𝐫 𝐂𝐨𝐝𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐍𝐮𝐥𝐥𝐬𝐚𝐟𝐞 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫](https://dev.to/bentesolution/new-in-php-8-53ig)
-- [Guia detalhado sobre Java Modules](https://dev.to/renatocardosoalves/guia-detalhado-sobre-java-modules-31cn)
-- [Deploying an Application on Azure: Guide](https://dev.to/paltadash/deploying-an-application-on-azure-guide-5680)
-- [Understanding the Basics of Cryptocurrency Mining](https://dev.to/kartikmehta8/understanding-the-basics-of-cryptocurrency-mining-498o)
+- [SQL with Vector Search : MyScale, Spring and Java - Step by Step tutorial!](https://dev.to/vishalmysore/sql-with-vector-search-myscale-spring-and-java-step-by-step-tutorial-1fde)
+- [WIX Studio Submitted](https://dev.to/alla_santoshpavankumar_/wix-studio-submitted-15bb)
+- [IMPLEMENTING AZURE KEY VAULT](https://dev.to/aizeon/implementing-azure-key-vault-7he)
+- [How to Enable SonarCloud for Your Project](https://dev.to/olsido/how-to-enable-sonarcloud-for-your-project-aoi)
 <!-- BLOG-POST-LIST:END -->
 
