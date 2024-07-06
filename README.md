@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Basics - Caching](https://dev.to/somadevtoo/system-design-basics-caching-4fge)
-- [How to Install Homebrew on Ubuntu](https://dev.to/sh20raj/how-to-install-homebrew-on-ubuntu-1k9h)
-- [Hybrid Rendering Architecture using Astro and Go Fiber](https://dev.to/falselight/hybrid-rendering-architecture-using-astro-and-go-fiber-56h3)
-- [Installing Cloudflared on DigitalOcean Ubuntu](https://dev.to/sh20raj/installing-cloudflared-on-digitalocean-ubuntu-51kc)
+- [Understanding Adapters in Java for Android Development](https://dev.to/ankittmeena/understanding-adapters-in-java-for-android-development-2o3a)
+- [Generative Reroll Game Development Using LLMs](https://dev.to/abagames/generative-reroll-game-development-using-llms-22m3)
+- [6 Essential Websites You&#39;ll Love As A Developers](https://dev.to/matin676/6-essential-websites-youll-love-as-a-developers-1bin)
+- [How is Braid made?](https://dev.to/lxchurbakov/how-is-braid-made-5ecj)
 <!-- BLOG-POST-LIST:END -->
 
