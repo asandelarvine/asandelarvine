@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving MySQL Authentication Problem](https://dev.to/debuggingrabbit/solving-mysql-authentication-problem-2p9n)
-- [5 github profiles every developer must follow](https://dev.to/agunwachidiebelecalistus/5-github-profiles-every-developer-must-follow-1441)
-- [Getting started as a Mobile App Developer](https://dev.to/mutiatbash/getting-started-as-a-mobile-app-developer-ji8)
-- [Guard Your Digital Fortress: Essential Privacy Best Practices Revealed](https://dev.to/verifyvault/guard-your-digital-fortress-essential-privacy-best-practices-revealed-26o4)
+- [WebNUT: Integrate UPS into the SmartHome](https://dev.to/disane/webnut-integrate-ups-into-the-smarthome-504c)
+- [Exploring the concept of the Typescript - Day 2 Of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/exploring-the-concept-of-the-typescript-day-2-of-100daysoffullstackchallnege-37fk)
+- [[Conceito] - Meus 3 Tipos Preferidos de Diagramas](https://dev.to/zanfranceschi/conceito-meus-3-tipos-preferidos-de-diagramas-20me)
+- [Conventional Commits](https://dev.to/ericarodrigs/conventional-commits-8mh)
 <!-- BLOG-POST-LIST:END -->
 
