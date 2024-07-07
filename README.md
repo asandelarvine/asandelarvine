@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Example article title](https://dev.to/target-ops/example-article-title-3n2a)
-- [Kubernetes Tutorial: Setting Up a K3s Cluster with a Hello-World Deployment](https://dev.to/menraromial/kubernetes-tutorial-setting-up-a-k3s-cluster-with-a-hello-world-deployment-1753)
-- [Example article title](https://dev.to/target-ops/example-article-title-3dh1)
-- [🌟 Creating Reusable Components with TypeScript in Next.js: A Sidebar Example 📚](https://dev.to/sushilmagare10/creating-reusable-components-with-typescript-in-nextjs-a-sidebar-example-2mae)
+- [MapReduce Vs Tez](https://dev.to/shvshydv/mapreduce-vs-tez-171g)
+- [Speculation Rules API: Selectores y carga dinámica](https://dev.to/dezkareid/speculation-rules-api-selectores-y-carga-dinamica-4il8)
+- [Example article title](https://dev.to/target-ops/example-article-title-1onp)
+- [Build an AI UI Generator with Gemini API, Next.js &lpar;Tutorial&rpar;](https://dev.to/avionmission/build-an-ai-ui-generator-with-gemini-api-nextjs-tutorial-237p)
 <!-- BLOG-POST-LIST:END -->
 
