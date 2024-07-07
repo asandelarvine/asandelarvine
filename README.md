@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Laravel is better then NodeJs/Express?](https://dev.to/yogeshgalav7/why-laravel-is-better-then-nodejsexpress-19lo)
-- [🌳 Getting Started with Random Forest Machine Learning Model Training](https://dev.to/aviralgarg05/getting-started-with-random-forest-machine-learning-model-training-5f7p)
-- [Understanding Switch Case and Functions and What is Hoisting](https://dev.to/darshan_kumar_c9883cffc18/understanding-switch-case-and-functions-and-what-is-hoisting-5180)
-- [JavaScript Developer Roadmap: From Beginner to Pro in 2024](https://dev.to/durgesh94/javascript-developer-roadmap-from-beginner-to-pro-in-2024-1nhk)
+- [Example article title](https://dev.to/target-ops/example-article-title-3n2a)
+- [Kubernetes Tutorial: Setting Up a K3s Cluster with a Hello-World Deployment](https://dev.to/menraromial/kubernetes-tutorial-setting-up-a-k3s-cluster-with-a-hello-world-deployment-1753)
+- [Example article title](https://dev.to/target-ops/example-article-title-3dh1)
+- [🌟 Creating Reusable Components with TypeScript in Next.js: A Sidebar Example 📚](https://dev.to/sushilmagare10/creating-reusable-components-with-typescript-in-nextjs-a-sidebar-example-2mae)
 <!-- BLOG-POST-LIST:END -->
 
