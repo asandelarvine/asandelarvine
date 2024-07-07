@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;neo&rpar;vim search and replace, with quickfix and capture groups](https://dev.to/22mahmoud/neovim-search-and-replace-with-quickfix-and-capture-groups-30en)
-- [Understanding the Differences between Overriding and Overloading in C#](https://dev.to/alisson_podgurski/understanding-the-differences-between-overriding-and-overloading-in-c-1h75)
-- [Simplify EC2-S3 File Access with Instance Roles](https://dev.to/rahulkspace/simplify-ec2-s3-file-access-with-instance-roles-4ljp)
-- [Game Jam Experience&lpar;&rpar;;](https://dev.to/muhammad_faseeh_1717/game-jam-experience-1m6o)
+- [DevOps Meets Cybersecurity -&gt; DevSecOps](https://dev.to/fpesre/devops-meets-cybersecurity-devsecops-2faa)
+- [Number - Javascript](https://dev.to/fernandomoyano/number-javascript-581n)
+- [Backend Project Structure Go](https://dev.to/hieunguyendev/backend-project-structure-go-1ph8)
+- [DOM - Document object Model](https://dev.to/fernandomoyano/dom-document-object-model-37jl)
 <!-- BLOG-POST-LIST:END -->
 
