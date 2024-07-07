@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Is Easy](https://dev.to/farzanapomy/frontend-is-easy-2d3p)
-- [What is Adobe Experience Manager](https://dev.to/ashish5187/what-is-adobe-experience-manager-1fid)
-- [10 JavaScript One-Liner Code You Should Know](https://dev.to/manjushsh/10-javascript-one-liner-code-you-should-know-23cl)
-- [Intro to solidity II](https://dev.to/arsh_the_coder/intro-to-solidity-ii-5f37)
+- [The Art of Giving Clients Options](https://dev.to/tacodes/the-art-of-giving-clients-options-1a7m)
+- [Understanding Prop Drilling and How to Solve It](https://dev.to/paulocappa/understanding-prop-drilling-and-how-to-solve-it-2bnd)
+- [Neural Networks and Deep Learning: Unveiling the Power of the Artificial Brain](https://dev.to/abhinav_yadav_554cab962bb/neural-networks-and-deep-learning-unveiling-the-power-of-the-artificial-brain-4m6m)
+- [How to enable mongodb query logging in reactive java for quarkus with panache](https://dev.to/minhaz1217/how-to-enable-mongodb-query-logging-in-reactive-java-for-quarkus-with-panache-22pa)
 <!-- BLOG-POST-LIST:END -->
 
