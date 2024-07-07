@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection in .NET with Microsoft.Extensions.DependencyInjection and Scrutor](https://dev.to/adrianbailador/dependency-injection-in-net-with-microsoftextensionsdependencyinjection-and-scrutor-49pc)
-- [Creating a Product Card with Cart Items](https://dev.to/codeswithpankaj/creating-a-product-card-with-cart-items-299e)
-- [Redux : State Management Tool](https://dev.to/achal_tiwari/redux-state-management-tool-4242)
-- [How to Create a &quot;Show Password&quot; Toggle](https://dev.to/codeswithpankaj/how-to-create-a-show-password-toggle-4me0)
+- [Intro to PASETO with Java](https://dev.to/mohanapraneswaran/intro-to-paseto-with-java-4ol0)
+- [CRUD in Firebase](https://dev.to/arunkrish11/crud-in-firebase-5hk3)
+- [Mastering JavaScript, Python, and Java: The Path to Becoming a Successful Software Developer in 2024](https://dev.to/myexamcloud/mastering-javascript-python-and-java-the-path-to-becoming-a-successful-software-developer-in-2024-55po)
+- [Wk 4: Deployment - MLOPs with DataTalks](https://dev.to/afrologicinsect/wk-4-deployment-mlops-with-datatalks-ei2)
 <!-- BLOG-POST-LIST:END -->
 
