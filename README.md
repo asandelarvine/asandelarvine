@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Container Registry &lpar;GHCR&rpar; to Host Your Docker Images](https://dev.to/madhucheran/using-github-container-registry-ghcr-to-host-your-docker-images-1bh4)
-- [Funcionalidades Essenciais de um Blog: Exemplos Práticos com Django REST Framework](https://dev.to/gustavogarciapereira/funcionalidades-essenciais-de-um-blog-exemplos-praticos-com-django-rest-framework-5ced)
-- [Building a Sports Score App with Flutter](https://dev.to/kartikmehta8/building-a-sports-score-app-with-flutter-3961)
-- [Leetcode Day 6: Merge Two Sorted Lists Explained](https://dev.to/simona-cancian/leetcode-day-6-merge-two-sorted-lists-explained-55n2)
+- [Monthly Amazon Location Service Updates - 2024.06](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202406-5a86)
+- [Dockerize Laravel API Backend + React Frontend Application](https://dev.to/abdelkarimain/dockerize-laravel-api-backend-react-frontend-application-1ag7)
+- [The Bizarre World of JavaScript Type Coercion](https://dev.to/subham_behera/the-bizarre-world-of-javascript-type-coercion-58h0)
+- [5 reasons to use open source event ticketing for your next event](https://dev.to/daveearley/5-reasons-to-use-open-source-event-ticketing-for-your-next-event-14gg)
 <!-- BLOG-POST-LIST:END -->
 
