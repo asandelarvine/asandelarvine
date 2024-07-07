@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Giving Clients Options](https://dev.to/tacodes/the-art-of-giving-clients-options-1a7m)
-- [Understanding Prop Drilling and How to Solve It](https://dev.to/paulocappa/understanding-prop-drilling-and-how-to-solve-it-2bnd)
-- [Neural Networks and Deep Learning: Unveiling the Power of the Artificial Brain](https://dev.to/abhinav_yadav_554cab962bb/neural-networks-and-deep-learning-unveiling-the-power-of-the-artificial-brain-4m6m)
-- [How to enable mongodb query logging in reactive java for quarkus with panache](https://dev.to/minhaz1217/how-to-enable-mongodb-query-logging-in-reactive-java-for-quarkus-with-panache-22pa)
+- [Automate Your Expo Builds with EAS Using GitHub Actions: A Step-by-Step Guide](https://dev.to/jocanola/automate-your-expo-builds-with-eas-using-github-actions-a-step-by-step-guide-bik)
+- [Markdown + ChatGPT](https://dev.to/johannes_k_rexx/markdown-chatgpt-3ml2)
+- [npm install falls into timeout, what can you do?](https://dev.to/ferreira_mariana/npm-install-falls-into-timeout-what-can-you-do-42i7)
+- [how to find the second largest number in an array](https://dev.to/ishivendratripathi/how-to-find-the-second-largest-number-in-an-array-30m1)
 <!-- BLOG-POST-LIST:END -->
 
