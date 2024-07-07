@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [StateFile: A Minimalist Design for Permanent State Management](https://dev.to/_moehab/statefile-a-minimalist-design-for-permanent-state-management-43d7)
-- [The Brazilian National Policy of Informatics Or How-To Not Create A Tech Industry In Your Country](https://dev.to/dinowilliam/the-brazilian-national-policy-of-informatics-or-how-to-not-create-a-tech-industry-in-your-country-5h44)
-- [Counting empty lines in a file](https://dev.to/abbazs/counting-empty-lines-in-a-file-22cl)
-- [CSS Animated Blobs and Groovy Web Design](https://dev.to/gperilli/css-animated-blobs-and-groovy-web-design-395o)
+- [Why Laravel is better then NodeJs/Express?](https://dev.to/yogeshgalav7/why-laravel-is-better-then-nodejsexpress-19lo)
+- [🌳 Getting Started with Random Forest Machine Learning Model Training](https://dev.to/aviralgarg05/getting-started-with-random-forest-machine-learning-model-training-5f7p)
+- [Understanding Switch Case and Functions and What is Hoisting](https://dev.to/darshan_kumar_c9883cffc18/understanding-switch-case-and-functions-and-what-is-hoisting-5180)
+- [JavaScript Developer Roadmap: From Beginner to Pro in 2024](https://dev.to/durgesh94/javascript-developer-roadmap-from-beginner-to-pro-in-2024-1nhk)
 <!-- BLOG-POST-LIST:END -->
 
