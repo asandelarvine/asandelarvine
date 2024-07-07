@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Example article title](https://dev.to/uplift3r/example-article-title-2fj8)
-- [Learning Platform [Astro.js]](https://dev.to/itsrajcode/learning-platform-38j5)
-- [Example article title](https://dev.to/uplift3r/example-article-title-319c)
-- [AWS Billing Scare](https://dev.to/okalu2625/aws-billing-scare-39o1)
+- [Frontend Is Easy](https://dev.to/farzanapomy/frontend-is-easy-2d3p)
+- [What is Adobe Experience Manager](https://dev.to/ashish5187/what-is-adobe-experience-manager-1fid)
+- [10 JavaScript One-Liner Code You Should Know](https://dev.to/manjushsh/10-javascript-one-liner-code-you-should-know-23cl)
+- [Intro to solidity II](https://dev.to/arsh_the_coder/intro-to-solidity-ii-5f37)
 <!-- BLOG-POST-LIST:END -->
 
