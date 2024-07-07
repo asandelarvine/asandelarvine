@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Expo Builds with EAS Using GitHub Actions: A Step-by-Step Guide](https://dev.to/jocanola/automate-your-expo-builds-with-eas-using-github-actions-a-step-by-step-guide-bik)
-- [Markdown + ChatGPT](https://dev.to/johannes_k_rexx/markdown-chatgpt-3ml2)
-- [npm install falls into timeout, what can you do?](https://dev.to/ferreira_mariana/npm-install-falls-into-timeout-what-can-you-do-42i7)
-- [how to find the second largest number in an array](https://dev.to/ishivendratripathi/how-to-find-the-second-largest-number-in-an-array-30m1)
+- [Introduction to Functional Programming in JavaScript: Partial functions #5](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-partial-functions-5-4lc3)
+- [Rotating Colorful Venn Diagram](https://dev.to/dan52242644dan/rotating-colorful-venn-diagram-36ai)
+- [Build a Dynamic Searchable Blog with React Native](https://dev.to/aneeqakhan/build-a-dynamic-searchable-blog-with-react-native-3m54)
+- [3D Parametric Plot](https://dev.to/dan52242644dan/3d-parametric-plot-30jg)
 <!-- BLOG-POST-LIST:END -->
 
