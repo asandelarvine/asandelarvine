@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 49 - Bone collision detection](https://dev.to/humberd/game-of-purpose-day-49-bone-collision-detection-3f2d)
-- [Javascript OOP](https://dev.to/bekmuhammaddev/javascript-oop-2d8b)
-- [Microservices vs Monolith](https://dev.to/wallacefreitas/microservices-vs-monolith-5gd0)
-- [Building a Custom Enable/Disable + Input Field Component in Angular](https://dev.to/mateuscechetto/building-a-custom-enabledisable-input-field-component-in-angular-5bgc)
+- [Using GitHub Container Registry &lpar;GHCR&rpar; to Host Your Docker Images](https://dev.to/madhucheran/using-github-container-registry-ghcr-to-host-your-docker-images-1bh4)
+- [Funcionalidades Essenciais de um Blog: Exemplos Práticos com Django REST Framework](https://dev.to/gustavogarciapereira/funcionalidades-essenciais-de-um-blog-exemplos-praticos-com-django-rest-framework-5ced)
+- [Building a Sports Score App with Flutter](https://dev.to/kartikmehta8/building-a-sports-score-app-with-flutter-3961)
+- [Leetcode Day 6: Merge Two Sorted Lists Explained](https://dev.to/simona-cancian/leetcode-day-6-merge-two-sorted-lists-explained-55n2)
 <!-- BLOG-POST-LIST:END -->
 
