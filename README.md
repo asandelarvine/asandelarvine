@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Meets Cybersecurity -&gt; DevSecOps](https://dev.to/fpesre/devops-meets-cybersecurity-devsecops-2faa)
-- [Number - Javascript](https://dev.to/fernandomoyano/number-javascript-581n)
-- [Backend Project Structure Go](https://dev.to/hieunguyendev/backend-project-structure-go-1ph8)
-- [DOM - Document object Model](https://dev.to/fernandomoyano/dom-document-object-model-37jl)
+- [Example article title](https://dev.to/uplift3r/example-article-title-2fj8)
+- [Learning Platform [Astro.js]](https://dev.to/itsrajcode/learning-platform-38j5)
+- [Example article title](https://dev.to/uplift3r/example-article-title-319c)
+- [AWS Billing Scare](https://dev.to/okalu2625/aws-billing-scare-39o1)
 <!-- BLOG-POST-LIST:END -->
 
