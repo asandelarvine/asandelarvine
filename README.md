@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Apache Superset, a Powerful and Free Data Analysis Tool](https://dev.to/chauhoangminhnguyen/using-apache-superset-a-powerful-and-free-data-analysis-tool-1e79)
-- [Saving the planet with AWS: What you can do as a Cloud Architect](https://dev.to/aws-builders/saving-the-planet-with-aws-what-you-can-do-as-a-cloud-architect-1i2o)
-- [RF Word Counter](https://dev.to/rahatfaruk/rf-word-counter-3jph)
-- [OSS Licensing and Legal Issues](https://dev.to/isttiiak/oss-licensing-and-legal-issues-454h)
+- [Callback Functions in JS](https://dev.to/__khojiakbar__/callback-functions-in-js-3a05)
+- [React + Next.js + tailwind Github pages](https://dev.to/sidcodeme/react-nextjs-tailwind-github-pages-4hek)
+- [React + Next.js + tailwind Github pages](https://dev.to/sidcodeme/react-nextjs-tailwind-github-pages-49d4)
+- [Exploring the Power of `useSignal` in React](https://dev.to/vyan/exploring-the-power-of-usesignal-in-react-2aao)
 <!-- BLOG-POST-LIST:END -->
 
