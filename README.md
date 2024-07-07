@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Partial functions #5](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-partial-functions-5-4lc3)
-- [Rotating Colorful Venn Diagram](https://dev.to/dan52242644dan/rotating-colorful-venn-diagram-36ai)
-- [Build a Dynamic Searchable Blog with React Native](https://dev.to/aneeqakhan/build-a-dynamic-searchable-blog-with-react-native-3m54)
-- [3D Parametric Plot](https://dev.to/dan52242644dan/3d-parametric-plot-30jg)
+- [Using useRef&lpar;&rpar;, useState&lpar;&rpar;, useEffect](https://dev.to/masonbarnes645/using-useref-usestate-useeffect-4kmi)
+- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep28: Global countdown](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep28-global-countdown-1bob)
+- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep27: Music and sound settings](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep27-music-and-sound-settings-1n13)
+- [Interesting testing techniques for frontend development](https://dev.to/khairullin/interesting-testing-techniques-for-frontend-development-2fdl)
 <!-- BLOG-POST-LIST:END -->
 
