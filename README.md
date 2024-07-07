@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony&#39;s Lyceum ? A look at SensioLabs University](https://dev.to/reubenwalker64/symfonys-lyceum-a-look-at-sensiolabs-university-1hio)
-- [AWS Cognito - IAM in the Cloud](https://dev.to/palayoov/aws-cognito-iam-in-the-cloud-47ln)
-- [Keybindings FTW! ⌨️🥂](https://dev.to/2kabhishek/keybindings-ftw-5dcd)
-- [Introduction to BitPower Decentralized Lendin](https://dev.to/aimm_w_1761d19cef7fa886fd/introduction-to-bitpower-decentralized-lendin-3i3e)
+- [Dreams and Nightmares of Coders &lpar;Share&rpar;](https://dev.to/annavi11arrea1/dreams-and-nightmares-of-coders-share-79h)
+- [Kubernetes: ReplicaSet](https://dev.to/pratikjagrut/replicaset-54gp)
+- [Issue 006 -- Independent Development Will Always Have Similar Products](https://dev.to/justin3go/issue-006-independent-development-will-always-have-similar-products-2c62)
+- [Let’s Build A Simple ‘Real Estate’ Business Using AI Agents](https://dev.to/exploredataaiml/lets-build-a-simple-real-estate-business-using-ai-agents-339e)
 <!-- BLOG-POST-LIST:END -->
 
