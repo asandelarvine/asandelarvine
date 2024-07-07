@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dreams and Nightmares of Coders &lpar;Share&rpar;](https://dev.to/annavi11arrea1/dreams-and-nightmares-of-coders-share-79h)
-- [Kubernetes: ReplicaSet](https://dev.to/pratikjagrut/replicaset-54gp)
-- [Issue 006 -- Independent Development Will Always Have Similar Products](https://dev.to/justin3go/issue-006-independent-development-will-always-have-similar-products-2c62)
-- [Let’s Build A Simple ‘Real Estate’ Business Using AI Agents](https://dev.to/exploredataaiml/lets-build-a-simple-real-estate-business-using-ai-agents-339e)
+- [The 12-Factor App Methodology](https://dev.to/kartikdevsharma/the-12-factor-app-methodology-32f1)
+- [Você foi enganado! Encapsulamento não é apenas sobre getters e setters](https://dev.to/terminalcoffee/voce-foi-enganado-encapsulamento-nao-e-apenas-sobre-getters-e-setters-42g4)
+- [Optimizing Stock Trading with AI Technology](https://dev.to/okibayu/optimizing-stock-trading-with-ai-technology-1f60)
+- [Aide mémoire Programmation Orientée Objet](https://dev.to/abdelkarimain/aide-memoire-programmation-orientee-objet-3dog)
 <!-- BLOG-POST-LIST:END -->
 
