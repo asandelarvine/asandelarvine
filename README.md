@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Callback Functions in JS](https://dev.to/__khojiakbar__/callback-functions-in-js-3a05)
-- [React + Next.js + tailwind Github pages](https://dev.to/sidcodeme/react-nextjs-tailwind-github-pages-4hek)
-- [React + Next.js + tailwind Github pages](https://dev.to/sidcodeme/react-nextjs-tailwind-github-pages-49d4)
-- [Exploring the Power of `useSignal` in React](https://dev.to/vyan/exploring-the-power-of-usesignal-in-react-2aao)
+- [เผื่อใครอยากทำ mp4 to gif แบบคมๆ](https://dev.to/dvgamerr/ephuueaikhryaaktham-mp4-to-gif-aebbkhm-569)
+- [Introducing PhishShield: The Ultimate Phishing Simulation Platform for Robust Security Testing !!!](https://dev.to/skandashield/introducing-phishshield-the-ultimate-phishing-simulation-platform-for-robust-security-testing--4ifc)
+- [Stay ahead in web development: latest news, tools, and insights #40](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-40-1bpk)
+- [Learning HTML Elements](https://dev.to/dgarcia1399/learning-html-elements-1h7)
 <!-- BLOG-POST-LIST:END -->
 
