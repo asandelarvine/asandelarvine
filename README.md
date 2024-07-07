@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MapReduce Vs Tez](https://dev.to/shvshydv/mapreduce-vs-tez-171g)
-- [Speculation Rules API: Selectores y carga dinámica](https://dev.to/dezkareid/speculation-rules-api-selectores-y-carga-dinamica-4il8)
-- [Example article title](https://dev.to/target-ops/example-article-title-1onp)
-- [Build an AI UI Generator with Gemini API, Next.js &lpar;Tutorial&rpar;](https://dev.to/avionmission/build-an-ai-ui-generator-with-gemini-api-nextjs-tutorial-237p)
+- [Dependency Injection in .NET with Microsoft.Extensions.DependencyInjection and Scrutor](https://dev.to/adrianbailador/dependency-injection-in-net-with-microsoftextensionsdependencyinjection-and-scrutor-49pc)
+- [Creating a Product Card with Cart Items](https://dev.to/codeswithpankaj/creating-a-product-card-with-cart-items-299e)
+- [Redux : State Management Tool](https://dev.to/achal_tiwari/redux-state-management-tool-4242)
+- [How to Create a &quot;Show Password&quot; Toggle](https://dev.to/codeswithpankaj/how-to-create-a-show-password-toggle-4me0)
 <!-- BLOG-POST-LIST:END -->
 
