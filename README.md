@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Amazon Location Service Updates - 2024.06](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202406-5a86)
-- [Dockerize Laravel API Backend + React Frontend Application](https://dev.to/abdelkarimain/dockerize-laravel-api-backend-react-frontend-application-1ag7)
-- [The Bizarre World of JavaScript Type Coercion](https://dev.to/subham_behera/the-bizarre-world-of-javascript-type-coercion-58h0)
-- [5 reasons to use open source event ticketing for your next event](https://dev.to/daveearley/5-reasons-to-use-open-source-event-ticketing-for-your-next-event-14gg)
+- [Using Apache Superset, a Powerful and Free Data Analysis Tool](https://dev.to/chauhoangminhnguyen/using-apache-superset-a-powerful-and-free-data-analysis-tool-1e79)
+- [Saving the planet with AWS: What you can do as a Cloud Architect](https://dev.to/aws-builders/saving-the-planet-with-aws-what-you-can-do-as-a-cloud-architect-1i2o)
+- [RF Word Counter](https://dev.to/rahatfaruk/rf-word-counter-3jph)
+- [OSS Licensing and Legal Issues](https://dev.to/isttiiak/oss-licensing-and-legal-issues-454h)
 <!-- BLOG-POST-LIST:END -->
 
