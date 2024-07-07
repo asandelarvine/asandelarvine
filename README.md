@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to PASETO with Java](https://dev.to/mohanapraneswaran/intro-to-paseto-with-java-4ol0)
-- [CRUD in Firebase](https://dev.to/arunkrish11/crud-in-firebase-5hk3)
-- [Mastering JavaScript, Python, and Java: The Path to Becoming a Successful Software Developer in 2024](https://dev.to/myexamcloud/mastering-javascript-python-and-java-the-path-to-becoming-a-successful-software-developer-in-2024-55po)
-- [Wk 4: Deployment - MLOPs with DataTalks](https://dev.to/afrologicinsect/wk-4-deployment-mlops-with-datatalks-ei2)
+- [Symfony&#39;s Lyceum ? A look at SensioLabs University](https://dev.to/reubenwalker64/symfonys-lyceum-a-look-at-sensiolabs-university-1hio)
+- [AWS Cognito - IAM in the Cloud](https://dev.to/palayoov/aws-cognito-iam-in-the-cloud-47ln)
+- [Keybindings FTW! ⌨️🥂](https://dev.to/2kabhishek/keybindings-ftw-5dcd)
+- [Introduction to BitPower Decentralized Lendin](https://dev.to/aimm_w_1761d19cef7fa886fd/introduction-to-bitpower-decentralized-lendin-3i3e)
 <!-- BLOG-POST-LIST:END -->
 
