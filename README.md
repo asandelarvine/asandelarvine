@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [God&#39;s Vue: An immersive tale &lpar;Chapter 1&rpar;](https://dev.to/zain725342/gods-vue-an-immersive-tale-chapter-1-1gfl)
-- [Mastering Web Automation with Cypress: A Comprehensive Guide](https://dev.to/aswani25/mastering-web-automation-with-cypress-a-comprehensive-guide-234l)
-- [Análise das estações meteorológicas - parte extra 1](https://dev.to/devsnorte/analise-das-estacoes-meteorologicas-parte-extra-1-4734)
-- [Fetch vs Axios: Which One Should You Use for HTTP Requests in JavaScript? 🚀](https://dev.to/marmariadev/fetch-vs-axios-which-one-should-you-use-for-http-requests-in-javascript-4d38)
+- [&lpar;neo&rpar;vim search and replace, with quickfix and capture groups](https://dev.to/22mahmoud/neovim-search-and-replace-with-quickfix-and-capture-groups-30en)
+- [Understanding the Differences between Overriding and Overloading in C#](https://dev.to/alisson_podgurski/understanding-the-differences-between-overriding-and-overloading-in-c-1h75)
+- [Simplify EC2-S3 File Access with Instance Roles](https://dev.to/rahulkspace/simplify-ec2-s3-file-access-with-instance-roles-4ljp)
+- [Game Jam Experience&lpar;&rpar;;](https://dev.to/muhammad_faseeh_1717/game-jam-experience-1m6o)
 <!-- BLOG-POST-LIST:END -->
 
