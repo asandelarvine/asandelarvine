@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Power Automate Definition](https://dev.to/wyattdave/understanding-the-power-automate-definition-42po)
-- [How to Use AI Code Generation to Enhance Developer Productivity](https://dev.to/getambassador2024/how-to-use-ai-code-generation-to-enhance-developer-productivity-5b81)
-- [Building Docker Images](https://dev.to/kalkwst/building-docker-images-55f1)
-- [The DevTool Content Marketing Dashboard: Metrics That Actually Matter](https://dev.to/swati1267/the-devtool-content-marketing-dashboard-metrics-that-actually-matter-29di)
+- [React is Slow? 6 Strategies for Performance Optimisation](https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53)
+- [Effective Strategies for MySQL User Management](https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53)
+- [How to Create a Directory and Save It to a File](https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc)
+- [Knight of Knowledge: How Copilot’s Generative Answers Illuminate Data](https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el)
 <!-- BLOG-POST-LIST:END -->
 
