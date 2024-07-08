@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #135: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-135-explica-este-codigo-python-5em2)
-- [HTML web storage and web storage objects](https://dev.to/wasifali/html-web-storage-and-web-storage-objects-hcd)
-- [How to Monitor your AWS EC2/Workspace with Datadog](https://dev.to/shrihariharidass/how-to-monitor-your-aws-ec2workspace-with-datadog-15jd)
-- [Log In or Log Out Registered Users using php](https://dev.to/ghulam_mujtaba_247/log-in-or-log-out-registered-users-using-php-3g2o)
+- [Introduction to BitPower Smart Contract](https://dev.to/aimm_y/introduction-to-bitpower-smart-contract-2ln6)
+- [Learning Python](https://dev.to/sruthisaravanan/learning-python-4910)
+- [Building an ecommerce store using Medusa and Sveltekit](https://dev.to/markmunyaka/building-an-ecommerce-store-using-medusa-and-sveltekit-4no0)
+- [Mastering React: Essential Practices and Patterns for 2024](https://dev.to/matin_mollapur/mastering-react-essential-practices-and-patterns-for-2024-2o2n)
 <!-- BLOG-POST-LIST:END -->
 
