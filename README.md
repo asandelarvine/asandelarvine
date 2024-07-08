@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React is Slow? 6 Strategies for Performance Optimisation](https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53)
-- [Effective Strategies for MySQL User Management](https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53)
-- [How to Create a Directory and Save It to a File](https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc)
-- [Knight of Knowledge: How Copilot’s Generative Answers Illuminate Data](https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el)
+- [.NET Digest #1](https://dev.to/anogneva/net-digest-1-285m)
+- [How do we measure team performance](https://dev.to/madelgeek/how-do-we-measure-team-performance-mne)
+- [Authentication &amp; Authorization](https://dev.to/suhaspalani/authentication-authorization-26cd)
+- [Ubuntu Development Sprinter](https://dev.to/salanoid/ubuntu-development-sprinter-306i)
 <!-- BLOG-POST-LIST:END -->
 
