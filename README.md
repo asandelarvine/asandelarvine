@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concatenate Column Values and Perform Grouping &amp; Aggregation](https://dev.to/judith677/concatenate-column-values-and-perform-grouping-aggregation-3b3)
-- [A new beginning](https://dev.to/yuga/a-new-beginning-3glf)
-- [HackerRank 3 Months Preparation Kit&lpar;JavaScript&rpar; - Plus Minus](https://dev.to/saiteja_amshala_035a7d7f1/hackerrank-3-months-preparation-kit-plus-minus-3cgn)
-- [Deploying a windows 11 VM, Windows Server &amp; a Linux VM](https://dev.to/bdporomon/deploying-a-windows-11-vm-windows-server-a-linux-vm-1m9b)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;01/07/2024–07/07/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-01072024-07072024-3b24)
+- [Simple Guide to Learning SEO Without Tech Experience](https://dev.to/juddiy/simple-guide-to-learning-seo-without-tech-experience-1ign)
+- [debouncing and throttling in javascript simplified by aryan](https://dev.to/aryan015/debouncing-and-throttling-in-javascript-simplified-by-aryan-492e)
+- [What is the Difference between &quot;sequel&quot; and &quot;SQL&quot;?](https://dev.to/thekarlesi/what-is-the-difference-between-sequel-and-sql-oh0)
 <!-- BLOG-POST-LIST:END -->
 
