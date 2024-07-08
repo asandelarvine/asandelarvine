@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Unit Testing in an Existing Unity Project](https://dev.to/dutchskull/setting-up-unit-testing-in-an-existing-unity-project-58p2)
-- [Prefer utility types over model changes in TypeScript](https://dev.to/jabreuar/prefer-utility-types-over-model-changes-in-typescript-61a)
-- [Website in your pocket. Turn your Android phone into a web server! 🚀](https://dev.to/ghoshbishakh/website-in-your-pocket-turn-your-android-phone-into-a-web-server-53gb)
-- [Colecciones y bases de dinámicas en base a campos de tipo fecha](https://dev.to/avbravo/colecciones-y-bases-de-dinamicas-en-base-a-campos-de-tipo-fecha-45d6)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.8](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-28-28kg)
+- [Advanced Data Visualization Techniques with D3.js and Plotly](https://dev.to/3a5abi/advanced-data-visualization-techniques-with-d3js-and-plotly-1a08)
+- [Automating Semantic Versioning with Github Actions and Branch Naming Conventions](https://dev.to/plutov/automating-semantic-versioning-with-github-actions-and-branch-naming-conventions-mpa)
+- [Really keen for quality full stack engineer and finding it very hard!](https://dev.to/thepingopango_0efd37c1c57/really-keen-for-quality-full-engineer-and-finding-it-very-hard-1dfp)
 <!-- BLOG-POST-LIST:END -->
 
