@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Solo Coding 👋: Collaborate with Others on SocialCode 🤝](https://dev.to/socialcodeclub/say-goodbye-to-solo-coding-collaborate-with-others-on-socialcode-4ip7)
-- [What a W.I.T.C.H!](https://dev.to/ajparadith/what-a-witch-5gmp)
-- [Building the Foundation: Your Pathway to Mastery in Prompt Engineering.](https://dev.to/ameet/building-the-foundation-your-pathway-to-mastery-in-prompt-engineering-oh3)
-- [Building 100% reusable UI kits](https://dev.to/joshua_mcmillan_3e37d7136/building-100-reusable-ui-kits-1nj6)
+- [3 Amazing Productivity Apps for Linux](https://dev.to/syedumaircodes/3-amazing-productivity-apps-for-linux-pac)
+- [Step-by-Step to AI Engineering Mastery](https://dev.to/thenomadevel/step-by-step-to-ai-engineering-mastery-1mpn)
+- [Creating a DynamoDB Table and Setting Up IAM Access Control](https://dev.to/rashmitha_v_d0cfc20ba7152/creating-a-dynamodb-table-and-setting-up-iam-access-control-4f1k)
+- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351)
 <!-- BLOG-POST-LIST:END -->
 
