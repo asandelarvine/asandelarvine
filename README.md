@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js with Shadcn UI Progress Bar Example](https://dev.to/aaronnfs/nextjs-with-shadcn-ui-progress-bar-example-3j27)
-- [how to deploy backend](https://dev.to/ashleyd480/how-to-deploy-backend-4b05)
-- [Automating EC2 Instance Management with AWS Lambda and EventBridge Using Terraform](https://dev.to/mohanapriya_s_1808/automating-ec2-instance-management-with-aws-lambda-and-eventbridge-using-terraform-38jm)
-- [🐦JSON vs. BSON🐦](https://dev.to/gadekar_sachin/json-vs-bson-4o5c)
+- [The Importance of Community for Open Source 🌱💚🌍](https://dev.to/pachicodes/the-importance-of-community-for-open-source-5ak)
+- [Complete Guide to the Django Services and Repositories Design Pattern with the Django REST Framework](https://dev.to/mateoramirezr/complete-guide-to-the-django-services-and-repositories-design-pattern-with-the-django-rest-framework-37c7)
+- [Common Lisp VS C: a testimony](https://dev.to/vindarel/common-lisp-vs-c-a-testimony-42ga)
+- [🚀 Launching FidForward! 🚀](https://dev.to/rbatista19/launching-fidforward-54gc)
 <!-- BLOG-POST-LIST:END -->
 
