@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing DateTime.Now Revisited: Using .NET 8.0 TimeProvider](https://dev.to/canro91/testing-datetimenow-revisited-using-net-80-timeprovider-dh1)
-- [Getting started with Amazon SageMaker: Building your first machine learning model](https://dev.to/dhoang1905/getting-started-with-amazon-sagemaker-building-your-first-machine-learning-model-2m7n)
-- [The Power and Versatility of JavaScript](https://dev.to/sharada_marasinha_75ee54d/the-power-and-versatility-of-javascript-4do4)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P28 - End&rpar; - Update Code Check Android or iOS](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p28-end-update-code-check-android-or-ios-lfg)
+- [Understanding the Power Automate Definition](https://dev.to/wyattdave/understanding-the-power-automate-definition-42po)
+- [How to Use AI Code Generation to Enhance Developer Productivity](https://dev.to/getambassador2024/how-to-use-ai-code-generation-to-enhance-developer-productivity-5b81)
+- [Building Docker Images](https://dev.to/kalkwst/building-docker-images-55f1)
+- [The DevTool Content Marketing Dashboard: Metrics That Actually Matter](https://dev.to/swati1267/the-devtool-content-marketing-dashboard-metrics-that-actually-matter-29di)
 <!-- BLOG-POST-LIST:END -->
 
