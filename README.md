@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Started New thing:&rpar;](https://dev.to/c_s_6ffe43100242f16672bc4/started-new-thing-4lh6)
-- [Python for Javascript Developers](https://dev.to/alexaleoto/python-for-javascript-developers-36cd)
-- [Going Further with Styling](https://dev.to/nmiller15/going-further-with-styling-1dnp)
-- [Enhancing ID Verification Systems: Unleashing the Power of On Premise Face Recognition SDKs](https://dev.to/faceplugin/enhancing-id-verification-systems-unleashing-the-power-of-on-premise-face-recognition-sdks-of3)
+- [Kdash - a true opensource K8s micro IDE](https://dev.to/target-ops/kdash-a-true-opensource-k8s-micro-ide-3168)
+- [A Importância da Cobertura de Testes: Devo buscar 100% ?](https://dev.to/asouza/a-importancia-da-cobertura-de-testes-devo-buscar-100--3hho)
+- [Automatização de Deploy com CI/CD](https://dev.to/annalaura2/automatizacao-de-deploy-com-cicd-26gg)
+- [Important Software Testing Documentation: SRS, FRS and BRS](https://dev.to/testfort_inc/important-software-testing-documentation-srs-frs-and-brs-5afc)
 <!-- BLOG-POST-LIST:END -->
 
