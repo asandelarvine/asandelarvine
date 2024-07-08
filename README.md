@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;01/07/2024–07/07/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-01072024-07072024-3b24)
-- [Simple Guide to Learning SEO Without Tech Experience](https://dev.to/juddiy/simple-guide-to-learning-seo-without-tech-experience-1ign)
-- [debouncing and throttling in javascript simplified by aryan](https://dev.to/aryan015/debouncing-and-throttling-in-javascript-simplified-by-aryan-492e)
-- [What is the Difference between &quot;sequel&quot; and &quot;SQL&quot;?](https://dev.to/thekarlesi/what-is-the-difference-between-sequel-and-sql-oh0)
+- [How to add Stripe payment functionality to Next.js App](https://dev.to/sh20raj/how-to-add-stripe-payment-functionality-to-nextjs-app-4dce)
+- [4 Essential UI Design Tips That Will Transform Your Interfaces](https://dev.to/syedumaircodes/4-essential-ui-design-tips-that-will-transform-your-interfaces-5e5p)
+- [Self-Hosting Perplexica and Ollama](https://dev.to/blacknight318/self-hosting-perplexica-and-ollama-48al)
+- [Round Two: Enhancing the Ollama Cluster](https://dev.to/blacknight318/round-two-enhancing-the-ollama-cluster-4lhi)
 <!-- BLOG-POST-LIST:END -->
 
