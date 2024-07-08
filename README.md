@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Digest #1](https://dev.to/anogneva/net-digest-1-285m)
-- [How do we measure team performance](https://dev.to/madelgeek/how-do-we-measure-team-performance-mne)
-- [Authentication &amp; Authorization](https://dev.to/suhaspalani/authentication-authorization-26cd)
-- [Ubuntu Development Sprinter](https://dev.to/salanoid/ubuntu-development-sprinter-306i)
+- [Difference Between Views and Tables in SQL](https://dev.to/devartteam/difference-between-views-and-tables-in-sql-4hej)
+- [The Importance of Semantic HTML for SEO and Accessibility](https://dev.to/paul_w/the-importance-of-semantic-html-for-seo-and-accessibility-3kgj)
+- [Why are NoSQL Databases beeter at Horizontal Scaling Compared to SQL Databases](https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2)
+- [50 basic Linux commands](https://dev.to/dev-nnamdi/50-basic-linux-commands-42dg)
 <!-- BLOG-POST-LIST:END -->
 
