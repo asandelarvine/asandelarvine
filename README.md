@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Community for Open Source 🌱💚🌍](https://dev.to/pachicodes/the-importance-of-community-for-open-source-5ak)
-- [Complete Guide to the Django Services and Repositories Design Pattern with the Django REST Framework](https://dev.to/mateoramirezr/complete-guide-to-the-django-services-and-repositories-design-pattern-with-the-django-rest-framework-37c7)
-- [Common Lisp VS C: a testimony](https://dev.to/vindarel/common-lisp-vs-c-a-testimony-42ga)
-- [🚀 Launching FidForward! 🚀](https://dev.to/rbatista19/launching-fidforward-54gc)
+- [Say Goodbye to Solo Coding 👋: Collaborate with Others on SocialCode 🤝](https://dev.to/socialcodeclub/say-goodbye-to-solo-coding-collaborate-with-others-on-socialcode-4ip7)
+- [What a W.I.T.C.H!](https://dev.to/ajparadith/what-a-witch-5gmp)
+- [Building the Foundation: Your Pathway to Mastery in Prompt Engineering.](https://dev.to/ameet/building-the-foundation-your-pathway-to-mastery-in-prompt-engineering-oh3)
+- [Building 100% reusable UI kits](https://dev.to/joshua_mcmillan_3e37d7136/building-100-reusable-ui-kits-1nj6)
 <!-- BLOG-POST-LIST:END -->
 
