@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add a custom Tailwind CSS class for reusability and speed](https://dev.to/railsdesigner/add-a-custom-tailwind-css-class-with-for-reusability-and-speed-4k5i)
-- [Meme Monday](https://dev.to/ben/meme-monday-49f9)
-- [How to turn a Jupyter Notebook into a deployable artifact](https://dev.to/kitops/how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl)
-- [Informacje o wersji dokumentacji - czerwiec 2024 r.](https://dev.to/pubnub-pl/informacje-o-wersji-dokumentacji-czerwiec-2024-r-lni)
+- [Started New thing:&rpar;](https://dev.to/c_s_6ffe43100242f16672bc4/started-new-thing-4lh6)
+- [Python for Javascript Developers](https://dev.to/alexaleoto/python-for-javascript-developers-36cd)
+- [Going Further with Styling](https://dev.to/nmiller15/going-further-with-styling-1dnp)
+- [Enhancing ID Verification Systems: Unleashing the Power of On Premise Face Recognition SDKs](https://dev.to/faceplugin/enhancing-id-verification-systems-unleashing-the-power-of-on-premise-face-recognition-sdks-of3)
 <!-- BLOG-POST-LIST:END -->
 
