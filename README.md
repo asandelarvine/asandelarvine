@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add Stripe payment functionality to Next.js App](https://dev.to/sh20raj/how-to-add-stripe-payment-functionality-to-nextjs-app-4dce)
-- [4 Essential UI Design Tips That Will Transform Your Interfaces](https://dev.to/syedumaircodes/4-essential-ui-design-tips-that-will-transform-your-interfaces-5e5p)
-- [Self-Hosting Perplexica and Ollama](https://dev.to/blacknight318/self-hosting-perplexica-and-ollama-48al)
-- [Round Two: Enhancing the Ollama Cluster](https://dev.to/blacknight318/round-two-enhancing-the-ollama-cluster-4lhi)
+- [Testing DateTime.Now Revisited: Using .NET 8.0 TimeProvider](https://dev.to/canro91/testing-datetimenow-revisited-using-net-80-timeprovider-dh1)
+- [Getting started with Amazon SageMaker: Building your first machine learning model](https://dev.to/dhoang1905/getting-started-with-amazon-sagemaker-building-your-first-machine-learning-model-2m7n)
+- [The Power and Versatility of JavaScript](https://dev.to/sharada_marasinha_75ee54d/the-power-and-versatility-of-javascript-4do4)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P28 - End&rpar; - Update Code Check Android or iOS](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p28-end-update-code-check-android-or-ios-lfg)
 <!-- BLOG-POST-LIST:END -->
 
