@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using useRef&lpar;&rpar;, useState&lpar;&rpar;, useEffect](https://dev.to/masonbarnes645/using-useref-usestate-useeffect-4kmi)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep28: Global countdown](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep28-global-countdown-1bob)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep27: Music and sound settings](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep27-music-and-sound-settings-1n13)
-- [Interesting testing techniques for frontend development](https://dev.to/khairullin/interesting-testing-techniques-for-frontend-development-2fdl)
+- [Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/buildwebcrumbs/understanding-asynchronous-javascript-callbacks-promises-and-asyncawait-cdc)
+- [Vue3 da &lpar; ref va reactive&rpar; farqi](https://dev.to/mukhriddinweb/vue3-da-ref-va-reactive-farqi-1bme)
+- [Exploring Advanced Features of TypeScript](https://dev.to/kartikmehta8/exploring-advanced-features-of-typescript-807)
+- [Building Flexible and Maintainable Go-Lang Apps](https://dev.to/dyaksaa_/building-flexible-and-maintainable-go-lang-apps-56kn)
 <!-- BLOG-POST-LIST:END -->
 
