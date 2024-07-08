@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kdash - a true opensource K8s micro IDE](https://dev.to/target-ops/kdash-a-true-opensource-k8s-micro-ide-3168)
-- [A Importância da Cobertura de Testes: Devo buscar 100% ?](https://dev.to/asouza/a-importancia-da-cobertura-de-testes-devo-buscar-100--3hho)
-- [Automatização de Deploy com CI/CD](https://dev.to/annalaura2/automatizacao-de-deploy-com-cicd-26gg)
-- [Important Software Testing Documentation: SRS, FRS and BRS](https://dev.to/testfort_inc/important-software-testing-documentation-srs-frs-and-brs-5afc)
+- [Next.js with Shadcn UI Progress Bar Example](https://dev.to/aaronnfs/nextjs-with-shadcn-ui-progress-bar-example-3j27)
+- [how to deploy backend](https://dev.to/ashleyd480/how-to-deploy-backend-4b05)
+- [Automating EC2 Instance Management with AWS Lambda and EventBridge Using Terraform](https://dev.to/mohanapriya_s_1808/automating-ec2-instance-management-with-aws-lambda-and-eventbridge-using-terraform-38jm)
+- [🐦JSON vs. BSON🐦](https://dev.to/gadekar_sachin/json-vs-bson-4o5c)
 <!-- BLOG-POST-LIST:END -->
 
