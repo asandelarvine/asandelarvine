@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to BitPower Smart Contract](https://dev.to/aimm_y/introduction-to-bitpower-smart-contract-2ln6)
-- [Learning Python](https://dev.to/sruthisaravanan/learning-python-4910)
-- [Building an ecommerce store using Medusa and Sveltekit](https://dev.to/markmunyaka/building-an-ecommerce-store-using-medusa-and-sveltekit-4no0)
-- [Mastering React: Essential Practices and Patterns for 2024](https://dev.to/matin_mollapur/mastering-react-essential-practices-and-patterns-for-2024-2o2n)
+- [Add a custom Tailwind CSS class for reusability and speed](https://dev.to/railsdesigner/add-a-custom-tailwind-css-class-with-for-reusability-and-speed-4k5i)
+- [Meme Monday](https://dev.to/ben/meme-monday-49f9)
+- [How to turn a Jupyter Notebook into a deployable artifact](https://dev.to/kitops/how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl)
+- [Informacje o wersji dokumentacji - czerwiec 2024 r.](https://dev.to/pubnub-pl/informacje-o-wersji-dokumentacji-czerwiec-2024-r-lni)
 <!-- BLOG-POST-LIST:END -->
 
