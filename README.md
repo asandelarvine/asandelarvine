@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/buildwebcrumbs/understanding-asynchronous-javascript-callbacks-promises-and-asyncawait-cdc)
-- [Vue3 da &lpar; ref va reactive&rpar; farqi](https://dev.to/mukhriddinweb/vue3-da-ref-va-reactive-farqi-1bme)
-- [Exploring Advanced Features of TypeScript](https://dev.to/kartikmehta8/exploring-advanced-features-of-typescript-807)
-- [Building Flexible and Maintainable Go-Lang Apps](https://dev.to/dyaksaa_/building-flexible-and-maintainable-go-lang-apps-56kn)
+- [Concatenate Column Values and Perform Grouping &amp; Aggregation](https://dev.to/judith677/concatenate-column-values-and-perform-grouping-aggregation-3b3)
+- [A new beginning](https://dev.to/yuga/a-new-beginning-3glf)
+- [HackerRank 3 Months Preparation Kit&lpar;JavaScript&rpar; - Plus Minus](https://dev.to/saiteja_amshala_035a7d7f1/hackerrank-3-months-preparation-kit-plus-minus-3cgn)
+- [Deploying a windows 11 VM, Windows Server &amp; a Linux VM](https://dev.to/bdporomon/deploying-a-windows-11-vm-windows-server-a-linux-vm-1m9b)
 <!-- BLOG-POST-LIST:END -->
 
