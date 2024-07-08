@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Immutability #6](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-immutability-6-3bfg)
-- [Reverse engineering Perplexity AI: prompt injection tricks to reveal its system prompts and speed secrets](https://dev.to/paka/reverse-engineering-perplexity-ai-prompt-injection-tricks-to-reveal-its-system-prompts-and-speed-secrets-16ce)
-- [JavaScript Array Const.!](https://dev.to/samandarhodiev/javascript-array-const-2ah)
-- [பைத்தானுடன் எனது அறிமுகம்](https://dev.to/jothilingam88/paittaannnuttnnn-ennntu-arrimukm-3lpb)
+- [The HTML tags I use the most in my projects.](https://dev.to/audreymengue/the-html-tags-i-use-the-most-in-my-projects-d60)
+- [Building Reusable List Components in React](https://dev.to/nouarsalheddine/building-reusable-list-components-in-react-249l)
+- [Transmute negative emotions into personal growth](https://dev.to/dellboyan/transmute-negative-emotions-into-personal-growth-4c1p)
+- [Props Drilling 🛠️](https://dev.to/jorjishasan/props-drilling-2df7)
 <!-- BLOG-POST-LIST:END -->
 
