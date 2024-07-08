@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Amazing Productivity Apps for Linux](https://dev.to/syedumaircodes/3-amazing-productivity-apps-for-linux-pac)
-- [Step-by-Step to AI Engineering Mastery](https://dev.to/thenomadevel/step-by-step-to-ai-engineering-mastery-1mpn)
-- [Creating a DynamoDB Table and Setting Up IAM Access Control](https://dev.to/rashmitha_v_d0cfc20ba7152/creating-a-dynamodb-table-and-setting-up-iam-access-control-4f1k)
-- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351)
+- [Setting Up Unit Testing in an Existing Unity Project](https://dev.to/dutchskull/setting-up-unit-testing-in-an-existing-unity-project-58p2)
+- [Prefer utility types over model changes in TypeScript](https://dev.to/jabreuar/prefer-utility-types-over-model-changes-in-typescript-61a)
+- [Website in your pocket. Turn your Android phone into a web server! 🚀](https://dev.to/ghoshbishakh/website-in-your-pocket-turn-your-android-phone-into-a-web-server-53gb)
+- [Colecciones y bases de dinámicas en base a campos de tipo fecha](https://dev.to/avbravo/colecciones-y-bases-de-dinamicas-en-base-a-campos-de-tipo-fecha-45d6)
 <!-- BLOG-POST-LIST:END -->
 
