@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Official deprecation announcement Storyblok Vue 2 &amp; Nuxt 2 SDKs](https://dev.to/storyblok/official-deprecation-announcement-storyblok-vue-2-nuxt-2-sdks-n1g)
-- [Creating a Scalable Serverless Chat Application on AWS](https://dev.to/harshana_vivekanandhan_88/creating-a-scalable-serverless-chat-application-on-aws-1h7d)
-- [Exploring the Latest JavaScript Trends: What You Need to Know](https://dev.to/ayushh/exploring-the-latest-javascript-trends-what-you-need-to-know-b4a)
-- [How to use the Context API, What is Context API?](https://dev.to/negusnati/how-to-use-the-context-api-what-is-context-api-4455)
+- [Ibuprofeno.py💊| #135: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-135-explica-este-codigo-python-5em2)
+- [HTML web storage and web storage objects](https://dev.to/wasifali/html-web-storage-and-web-storage-objects-hcd)
+- [How to Monitor your AWS EC2/Workspace with Datadog](https://dev.to/shrihariharidass/how-to-monitor-your-aws-ec2workspace-with-datadog-15jd)
+- [Log In or Log Out Registered Users using php](https://dev.to/ghulam_mujtaba_247/log-in-or-log-out-registered-users-using-php-3g2o)
 <!-- BLOG-POST-LIST:END -->
 
