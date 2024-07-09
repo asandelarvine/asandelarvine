@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1](https://dev.to/ramesh_ramasamy/day-1-bhm)
-- [Installing PostgreSQL on Linux and Using SQLynx for Database Management](https://dev.to/senkae_ll/installing-postgresql-on-linux-and-using-sqlynx-for-database-management-1a81)
-- [Achieving multi-threading by creating threads manually in Swift](https://dev.to/vinaykumar0339/achieving-multi-threading-by-creating-threads-manually-in-swift-2b3n)
-- [dropdown open in portal for using table in react](https://dev.to/parth24072001/dropdown-open-in-portal-for-using-table-in-react-2odd)
+- [Announcing Crawlee Python: Now you can use Python to build reliable web crawlers](https://dev.to/crawlee/announcing-crawlee-python-now-you-can-use-python-to-build-reliable-web-crawlers-3dab)
+- [Aumenta la disponibilidad de tus sistemas Legacy](https://dev.to/aws-espanol/aumenta-la-disponibilidad-de-tus-sistemas-legacy-4ip3)
+- [Building a Serverless CRUD API with AWS: A Comprehensive Guide](https://dev.to/kaviya_kathirvelu_0505/building-a-serverless-crud-api-with-aws-a-comprehensive-guide-ljm)
+- [C# 👨🏻‍💻 is one of the best for job security!](https://dev.to/kwnaidoo/c-is-one-of-the-best-for-job-security-283b)
 <!-- BLOG-POST-LIST:END -->
 
