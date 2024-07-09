@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying native Quarkus REST API&#39;s in AWS Lambda](https://dev.to/patryk_szczypie_f1c7101c/deploying-quarkus-rest-apis-in-aws-lambda-1j62)
-- [Rust and Web Assembly Application](https://dev.to/bekbrace/rust-and-web-assembly-application-3hdc)
-- [Multiple ways to Clone or Copy a list in Python](https://dev.to/pallavi_kumari_/multiple-ways-to-clone-or-copy-a-list-in-python-13c0)
-- [What was your win this week?](https://dev.to/sheru/what-was-your-win-this-week-477j)
+- [Oque é o Dunder Py](https://dev.to/dunderpy/oque-e-o-dunder-py-inh)
+- [Software engineering principles cheat sheet](https://dev.to/msnmongare/software-engineering-principles-cheat-sheet-3lpn)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.9](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-29-4p37)
+- [What_happens_when_your_type_google_com_in_your_browser_and_press_enter](https://dev.to/mongezi_sibande_d8869a238/whathappenswhenyourtypegooglecominyourbrowserandpressenter-1b5a)
 <!-- BLOG-POST-LIST:END -->
 
