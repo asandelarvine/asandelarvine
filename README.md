@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Unique HTML Elements You Might Not Know](https://dev.to/matin676/5-unique-html-elements-you-might-not-know-1h9i)
-- [Knight&#39;s Tour Visualization](https://dev.to/dan52242644dan/knights-tour-visualization-efc)
-- [Mastering React&#39;s useMediaQuery Hook](https://dev.to/labex/mastering-reacts-usemediaquery-hook-1n1b)
-- [Adding Tailwind CSS to Django](https://dev.to/paul_freeman/adding-tailwind-css-to-django-14a)
+- [Unlocking Seamless Integration: Using Node.js as an API Server in Next.js Applications | Sachin Dev Duggal Builder.ai](https://dev.to/triptivermaa01/unlocking-seamless-integration-using-nodejs-as-an-api-server-in-nextjs-applications-sachin-dev-duggal-builderai-28h)
+- [Best and Worst Situations to Use Zustand and Jotai with Next.js](https://dev.to/manojgohel/best-and-worst-situations-to-use-zustand-and-jotai-with-nextjs-4908)
+- [Ingeniería de Software y el Manejo de la Ira: Estrategias para un Desarrollo Exitoso](https://dev.to/christhoval/ingenieria-de-software-y-el-manejo-de-la-ira-estrategias-para-un-desarrollo-exitoso-obf)
+- [Unleash Your Inner Compiler Genius with &quot;Writing a C Compiler&quot; 🤖](https://dev.to/getvm/unleash-your-inner-compiler-genius-with-writing-a-c-compiler-4o93)
 <!-- BLOG-POST-LIST:END -->
 
