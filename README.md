@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Conversations to Content: How to Turn Your Dev Community Chatter into a Content Marketing Goldmine](https://dev.to/swati1267/from-conversations-to-content-how-to-turn-your-dev-community-chatter-into-a-content-marketing-goldmine-3em4)
-- [How to Earn More Hamster Coin: Daily Combo &amp; Daily Cipher](https://dev.to/nishantbijani/how-to-earn-more-hamster-coin-daily-combo-daily-cipher-4g33)
-- [Drawing shapes on a computer terminal](https://dev.to/anoduor/drawing-shapes-on-a-computer-terminal-1opk)
-- [Javascript Promis](https://dev.to/bekmuhammaddev/javascript-promis-27bn)
+- [Linux Commands for Software Engineers](https://dev.to/iamcymentho/linux-commands-for-software-engineers-55ag)
+- [என் வாழ்வில் python](https://dev.to/thamizhinithu/ennn-vaalllvil-python-33ca)
+- [A Beginner&#39;s Guide to Generative AI: Understanding, Learning, and Implementing with Python and Hugging Face🐍🤗🤖](https://dev.to/kammarianand/a-beginners-guide-to-generative-ai-understanding-learning-and-implementing-with-python-and-hugging-face-jif)
+- [Top 5 Must-Read Books for Software Architects](https://dev.to/tectrain_academy/top-5-must-read-books-for-software-architects-46en)
 <!-- BLOG-POST-LIST:END -->
 
