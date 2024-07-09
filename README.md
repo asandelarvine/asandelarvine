@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Crawlee Python: Now you can use Python to build reliable web crawlers](https://dev.to/crawlee/announcing-crawlee-python-now-you-can-use-python-to-build-reliable-web-crawlers-3dab)
-- [Aumenta la disponibilidad de tus sistemas Legacy](https://dev.to/aws-espanol/aumenta-la-disponibilidad-de-tus-sistemas-legacy-4ip3)
-- [Building a Serverless CRUD API with AWS: A Comprehensive Guide](https://dev.to/kaviya_kathirvelu_0505/building-a-serverless-crud-api-with-aws-a-comprehensive-guide-ljm)
-- [C# 👨🏻‍💻 is one of the best for job security!](https://dev.to/kwnaidoo/c-is-one-of-the-best-for-job-security-283b)
+- [From Conversations to Content: How to Turn Your Dev Community Chatter into a Content Marketing Goldmine](https://dev.to/swati1267/from-conversations-to-content-how-to-turn-your-dev-community-chatter-into-a-content-marketing-goldmine-3em4)
+- [How to Earn More Hamster Coin: Daily Combo &amp; Daily Cipher](https://dev.to/nishantbijani/how-to-earn-more-hamster-coin-daily-combo-daily-cipher-4g33)
+- [Drawing shapes on a computer terminal](https://dev.to/anoduor/drawing-shapes-on-a-computer-terminal-1opk)
+- [Javascript Promis](https://dev.to/bekmuhammaddev/javascript-promis-27bn)
 <!-- BLOG-POST-LIST:END -->
 
