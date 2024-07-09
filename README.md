@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 28 of 30 of JavaScript](https://dev.to/akshat0610/day-28-of-30-of-javascript-4980)
-- [Crafting an Effective Cover Letter 📨💯🚀](https://dev.to/pachicodes/crafting-an-effective-cover-letter-2mj9)
-- [Writing cleaner code with Tailwind CSS in React](https://dev.to/heydrigh_ribeiro_1d05ea2d/writing-cleaner-code-with-tailwind-css-in-react-1icn)
-- [Learn Python - Day 1](https://dev.to/dinesh_chinnathurai_136b1/python-learning-59e7)
+- [Hey DEV Community, I’m Looking for My Next DevRel Role!](https://dev.to/coderoflagos/hey-dev-community-im-looking-for-my-next-devrel-role-3g96)
+- [Unlocking the Power of Data with Data Science &amp; Advanced Analytics](https://dev.to/datameticasolutions/unlocking-the-power-of-data-with-data-science-advanced-analytics-9im)
+- [Books vs online courses vs projects?](https://dev.to/devonremote/books-vs-online-courses-vs-projects-3eog)
+- [Building Scalable Microservices with .NET 8.0 and Kubernetes](https://dev.to/snaghub/building-scalable-microservices-with-net-80-and-kubernetes-4n62)
 <!-- BLOG-POST-LIST:END -->
 
