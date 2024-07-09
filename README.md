@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lists, Stacks, Queues, and Priority Queues](https://dev.to/paulike/lists-stacks-queues-and-priority-queues-18ic)
-- [How to Identify and Mitigate Flaky Tests: Best Practices and Strategies.](https://dev.to/apoorvtomar/how-to-identify-and-mitigate-flaky-tests-best-practices-and-strategies-1cb0)
-- [Preview let syntax in HTML template in Angular 18](https://dev.to/railsstudent/preview-let-syntax-in-html-template-in-angular-18-1m61)
-- [The Art of Reusability: Generics in TypeScript and React](https://dev.to/gboladetrue/the-art-of-reusability-generics-in-typescript-and-react-21mi)
+- [Introduction to Offensive Security: A Beginner&#39;s Guide](https://dev.to/resource_bunk_1077cab07da/introduction-to-offensive-security-a-beginners-guide-ek1)
+- [🚀 Advanced Terminal Calculator: Your Ultimate Dev Tool! 🌟](https://dev.to/safwanayyan/advanced-terminal-calculator-your-ultimate-dev-tool-15l0)
+- [Successfully Launch on Product Hunt🚀](https://dev.to/elliezub/successfully-launch-on-product-hunt-1k49)
+- [Design Patterns in Flutter: Building &quot;BBB - Ba Ba Bank&quot; Application](https://dev.to/pablonax/design-patterns-in-flutter-building-bbb-ba-ba-bank-application-38ap)
 <!-- BLOG-POST-LIST:END -->
 
