@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Offensive Security: A Beginner&#39;s Guide](https://dev.to/resource_bunk_1077cab07da/introduction-to-offensive-security-a-beginners-guide-ek1)
-- [🚀 Advanced Terminal Calculator: Your Ultimate Dev Tool! 🌟](https://dev.to/safwanayyan/advanced-terminal-calculator-your-ultimate-dev-tool-15l0)
-- [Successfully Launch on Product Hunt🚀](https://dev.to/elliezub/successfully-launch-on-product-hunt-1k49)
-- [Design Patterns in Flutter: Building &quot;BBB - Ba Ba Bank&quot; Application](https://dev.to/pablonax/design-patterns-in-flutter-building-bbb-ba-ba-bank-application-38ap)
+- [Getting Started with Vanilla JavaScript: Setting Up Your Development Environment](https://dev.to/buchilazarus4/getting-started-with-vanilla-javascript-setting-up-your-development-environment-2od5)
+- [Headless UI alternatives: Radix Primitives, React Aria, Ark UI](https://dev.to/logrocket/headless-ui-alternatives-radix-primitives-react-aria-ark-ui-gka)
+- [Development Made Easy for Lazy and Productive Devs - Get Code Snippets for Full or Basic Props for Native or Expo Components](https://dev.to/cre8stevedev/development-made-easy-for-lazy-and-productive-devs-get-code-snippets-for-full-or-basic-props-for-native-or-expo-components-2c85)
+- [Host a Static Website in Azure Storage by Bastus Babajide Mark](https://dev.to/jdbastus/host-a-static-website-in-azure-storage-by-bastus-babajide-mark-1m6j)
 <!-- BLOG-POST-LIST:END -->
 
