@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 27 of 30 of JavaScript](https://dev.to/akshat0610/day-27-of-30-of-javascript-3262)
-- [17 Libraries to Become a React Wizard 🧙‍♂️🔮✨](https://dev.to/copilotkit/17-libraries-to-become-a-react-wizard-1g6k)
-- [Who &amp; What is behind the magic of tech world](https://dev.to/karanrsingh/who-what-is-behind-the-magic-of-tech-world-3l71)
-- [Understanding Flexbox: A Powerful Tool for Modern Web Design](https://dev.to/annalaura2/understanding-flexbox-a-powerful-tool-for-modern-web-design-3812)
+- [Day 28 of 30 of JavaScript](https://dev.to/akshat0610/day-28-of-30-of-javascript-4980)
+- [Crafting an Effective Cover Letter 📨💯🚀](https://dev.to/pachicodes/crafting-an-effective-cover-letter-2mj9)
+- [Writing cleaner code with Tailwind CSS in React](https://dev.to/heydrigh_ribeiro_1d05ea2d/writing-cleaner-code-with-tailwind-css-in-react-1icn)
+- [Learn Python - Day 1](https://dev.to/dinesh_chinnathurai_136b1/python-learning-59e7)
 <!-- BLOG-POST-LIST:END -->
 
