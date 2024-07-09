@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Batman-Comic.CSS](https://dev.to/alvaromontoro/batman-comiccss-hh1)
-- [Python in Tamil](https://dev.to/umanathmsri/python-in-tamil-12pm)
-- [Mejora la Experiencia del Usuario con Loading Request](https://dev.to/urian121/mejora-la-experiencia-del-usuario-con-loading-request-23da)
-- [The Cloud Resume Challenge: My Cloud Adventure ☁️](https://dev.to/yuan_hy/the-cloud-resume-challenge-my-cloud-adventure-5439)
+- [Lists, Stacks, Queues, and Priority Queues](https://dev.to/paulike/lists-stacks-queues-and-priority-queues-18ic)
+- [How to Identify and Mitigate Flaky Tests: Best Practices and Strategies.](https://dev.to/apoorvtomar/how-to-identify-and-mitigate-flaky-tests-best-practices-and-strategies-1cb0)
+- [Preview let syntax in HTML template in Angular 18](https://dev.to/railsstudent/preview-let-syntax-in-html-template-in-angular-18-1m61)
+- [The Art of Reusability: Generics in TypeScript and React](https://dev.to/gboladetrue/the-art-of-reusability-generics-in-typescript-and-react-21mi)
 <!-- BLOG-POST-LIST:END -->
 
