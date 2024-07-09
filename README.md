@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Vanilla JavaScript: Setting Up Your Development Environment](https://dev.to/buchilazarus4/getting-started-with-vanilla-javascript-setting-up-your-development-environment-2od5)
-- [Headless UI alternatives: Radix Primitives, React Aria, Ark UI](https://dev.to/logrocket/headless-ui-alternatives-radix-primitives-react-aria-ark-ui-gka)
-- [Development Made Easy for Lazy and Productive Devs - Get Code Snippets for Full or Basic Props for Native or Expo Components](https://dev.to/cre8stevedev/development-made-easy-for-lazy-and-productive-devs-get-code-snippets-for-full-or-basic-props-for-native-or-expo-components-2c85)
-- [Host a Static Website in Azure Storage by Bastus Babajide Mark](https://dev.to/jdbastus/host-a-static-website-in-azure-storage-by-bastus-babajide-mark-1m6j)
+- [Ready to Dive into React? Let&#39;s Build Your First App!](https://dev.to/mahiya_khan_1d2dc6061abb7/ready-to-dive-into-react-lets-build-your-first-app-2j0p)
+- [Tailwind CSS Is So Much More Than Just Inline CSS](https://dev.to/safdarali/tailwind-css-is-so-much-more-than-just-inline-css-358n)
+- [Lists](https://dev.to/paulike/lists-3e1p)
+- [Underrated React Hook - useSyncExternalStore](https://dev.to/starneit/underrated-react-hook-usesyncexternalstore-4igj)
 <!-- BLOG-POST-LIST:END -->
 
