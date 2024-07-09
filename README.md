@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Commands for Software Engineers](https://dev.to/iamcymentho/linux-commands-for-software-engineers-55ag)
-- [என் வாழ்வில் python](https://dev.to/thamizhinithu/ennn-vaalllvil-python-33ca)
-- [A Beginner&#39;s Guide to Generative AI: Understanding, Learning, and Implementing with Python and Hugging Face🐍🤗🤖](https://dev.to/kammarianand/a-beginners-guide-to-generative-ai-understanding-learning-and-implementing-with-python-and-hugging-face-jif)
-- [Top 5 Must-Read Books for Software Architects](https://dev.to/tectrain_academy/top-5-must-read-books-for-software-architects-46en)
+- [Best Practices for GBase 8a MPP Cluster Multi-Instance Management](https://dev.to/congcong/best-practices-for-gbase-8a-mpp-cluster-multi-instance-management-52id)
+- [Explore These Exciting APIs to Make Your Application Stand Out](https://dev.to/explinks/explore-these-exciting-apis-to-make-your-application-stand-out-2h24)
+- [Basic Git and GitHub commands](https://dev.to/sxryadipta/basic-git-and-github-commands-9jk)
+- [Hellow Python World !!](https://dev.to/karthick_selvam/hellow-python-world--58hf)
 <!-- BLOG-POST-LIST:END -->
 
