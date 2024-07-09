@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding custom video player to website](https://dev.to/sh20raj/adding-custom-video-player-to-website-6l0)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;01/07/2024–07/07/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-01072024-07072024-2g1g)
-- [Understand Just-in-Time provisioning](https://dev.to/logto/understand-just-in-time-provisioning-2dmn)
-- [Jenkins a powerful open-source automation server](https://dev.to/mibii/jenkins-a-powerful-open-source-automation-server-9ei)
+- [5 Unique HTML Elements You Might Not Know](https://dev.to/matin676/5-unique-html-elements-you-might-not-know-1h9i)
+- [Knight&#39;s Tour Visualization](https://dev.to/dan52242644dan/knights-tour-visualization-efc)
+- [Mastering React&#39;s useMediaQuery Hook](https://dev.to/labex/mastering-reacts-usemediaquery-hook-1n1b)
+- [Adding Tailwind CSS to Django](https://dev.to/paul_freeman/adding-tailwind-css-to-django-14a)
 <!-- BLOG-POST-LIST:END -->
 
