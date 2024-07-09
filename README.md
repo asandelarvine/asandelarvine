@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oque é o Dunder Py](https://dev.to/dunderpy/oque-e-o-dunder-py-inh)
-- [Software engineering principles cheat sheet](https://dev.to/msnmongare/software-engineering-principles-cheat-sheet-3lpn)
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.9](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-29-4p37)
-- [What_happens_when_your_type_google_com_in_your_browser_and_press_enter](https://dev.to/mongezi_sibande_d8869a238/whathappenswhenyourtypegooglecominyourbrowserandpressenter-1b5a)
+- [After Effects: The Basics](https://dev.to/kocreative/after-effects-the-basics-915)
+- [Introduction to Functional Programming in JavaScript: Monad and functors #7](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-monad-and-functors-7-1l6l)
+- [Website Navigation: Is a &#39;Home&#39; Link Necessary in the Main Menu?](https://dev.to/jennavisions/website-navigation-is-a-home-link-necessary-in-the-main-menu-4ja)
+- [Building A SimpleNote to Obsidian notes converter](https://dev.to/ayush_saran/building-a-simplenote-to-obsidian-notes-converter-33j9)
 <!-- BLOG-POST-LIST:END -->
 
