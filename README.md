@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #136: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-136-explica-este-codigo-python-2bcg)
-- [Concurrency &amp; Async programming in C#](https://dev.to/ipazooki/concurrency-async-programming-in-c-1eda)
-- [Python &lpar;&quot;Hello World&quot;&rpar; Notes and Learning Experience](https://dev.to/vivekmurugadoss/python-hello-world-notes-and-learning-experience-261i)
-- [Designing B2B Authentication Experiences: Universal vs. Organization-Specific Login](https://dev.to/scalekit/designing-b2b-authentication-experiences-universal-vs-organization-specific-login-275a)
+- [Day 27 of 30 of JavaScript](https://dev.to/akshat0610/day-27-of-30-of-javascript-3262)
+- [17 Libraries to Become a React Wizard 🧙‍♂️🔮✨](https://dev.to/copilotkit/17-libraries-to-become-a-react-wizard-1g6k)
+- [Who &amp; What is behind the magic of tech world](https://dev.to/karanrsingh/who-what-is-behind-the-magic-of-tech-world-3l71)
+- [Understanding Flexbox: A Powerful Tool for Modern Web Design](https://dev.to/annalaura2/understanding-flexbox-a-powerful-tool-for-modern-web-design-3812)
 <!-- BLOG-POST-LIST:END -->
 
