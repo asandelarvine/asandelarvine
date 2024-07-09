@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ready to Dive into React? Let&#39;s Build Your First App!](https://dev.to/mahiya_khan_1d2dc6061abb7/ready-to-dive-into-react-lets-build-your-first-app-2j0p)
-- [Tailwind CSS Is So Much More Than Just Inline CSS](https://dev.to/safdarali/tailwind-css-is-so-much-more-than-just-inline-css-358n)
-- [Lists](https://dev.to/paulike/lists-3e1p)
-- [Underrated React Hook - useSyncExternalStore](https://dev.to/starneit/underrated-react-hook-usesyncexternalstore-4igj)
+- [Deploying native Quarkus REST API&#39;s in AWS Lambda](https://dev.to/patryk_szczypie_f1c7101c/deploying-quarkus-rest-apis-in-aws-lambda-1j62)
+- [Rust and Web Assembly Application](https://dev.to/bekbrace/rust-and-web-assembly-application-3hdc)
+- [Multiple ways to Clone or Copy a list in Python](https://dev.to/pallavi_kumari_/multiple-ways-to-clone-or-copy-a-list-in-python-13c0)
+- [What was your win this week?](https://dev.to/sheru/what-was-your-win-this-week-477j)
 <!-- BLOG-POST-LIST:END -->
 
