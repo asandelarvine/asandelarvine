@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Localization Made Easy with Python and DeepL](https://dev.to/mattdark/localization-made-easy-with-python-and-deepl-1l1e)
-- [Using Localstack for Component tests](https://dev.to/vinay_madan/using-localstack-for-component-tests-36b9)
-- [Case &lpar;III&rpar; - KisFlow-Golang Stream Real- Application of KisFlow in Multi-Goroutines](https://dev.to/aceld/case-iii-kisflow-golang-stream-real-application-of-kisflow-in-multi-goroutines-4m7g)
-- [Creating a Symmetrical Star Pattern in Dart](https://dev.to/ahzem/creating-a-symmetrical-star-pattern-in-dart-57kj)
+- [Adding custom video player to website](https://dev.to/sh20raj/adding-custom-video-player-to-website-6l0)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;01/07/2024–07/07/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-01072024-07072024-2g1g)
+- [Understand Just-in-Time provisioning](https://dev.to/logto/understand-just-in-time-provisioning-2dmn)
+- [Jenkins a powerful open-source automation server](https://dev.to/mibii/jenkins-a-powerful-open-source-automation-server-9ei)
 <!-- BLOG-POST-LIST:END -->
 
