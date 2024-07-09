@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The HTML tags I use the most in my projects.](https://dev.to/audreymengue/the-html-tags-i-use-the-most-in-my-projects-d60)
-- [Building Reusable List Components in React](https://dev.to/nouarsalheddine/building-reusable-list-components-in-react-249l)
-- [Transmute negative emotions into personal growth](https://dev.to/dellboyan/transmute-negative-emotions-into-personal-growth-4c1p)
-- [Props Drilling 🛠️](https://dev.to/jorjishasan/props-drilling-2df7)
+- [Essential Linux Utilities and Tools for DevOps Engineers : Day 2 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/essential-linux-utilities-and-tools-for-devops-engineers-day-2-of-50-days-devops-tools-series-40p2)
+- [Introduction to Bioinformatics with Python](https://dev.to/kartikmehta8/introduction-to-bioinformatics-with-python-4jl5)
+- [How To Host Static Website on Azure Blob Storage](https://dev.to/emeka_moses_c752f2bdde061/how-to-host-static-website-on-azure-blob-storage-33dj)
+- [Understanding Git Stashes](https://dev.to/debuggingrabbit/understanding-git-stashes-12l)
 <!-- BLOG-POST-LIST:END -->
 
