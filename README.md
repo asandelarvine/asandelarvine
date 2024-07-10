@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Riemann Surface Matrix](https://dev.to/dan52242644dan/3d-riemann-surface-matrix-12oj)
-- [Leveraging Web3 to Enhance JavaScript Development](https://dev.to/asmsc/leveraging-web3-to-enhance-javascript-development-4aeo)
-- [**Exploring Object-Oriented Programming &lpar;OOP&rpar; Concepts with Java**](https://dev.to/gadekar_sachin/exploring-object-oriented-programming-oop-concepts-with-java-1pn6)
-- [Explication de SeleniumWebDriver : Automatisez votre Flux de Tests Web](https://dev.to/laroseikitama/explication-de-seleniumwebdriver-automatisez-votre-flux-de-tests-web-e88)
+- [Is the VCR plugged in? Common Sense Troubleshooting For Web Devs](https://dev.to/cjav_dev/is-the-vcr-plugged-in-common-sense-troubleshooting-for-web-devs-78o)
+- [Understanding Node Affinity in Kubernetes](https://dev.to/jensen1806/understanding-node-affinity-in-kubernetes-3l5j)
+- [Introduction to GCD &lpar;Grand Central Dispatch&rpar;](https://dev.to/vinaykumar0339/introduction-to-gcd-grand-central-dispatch-16b9)
+- [What is Selenium? Why do we use selenium for automation?](https://dev.to/pat28we/what-is-selenium-why-do-we-use-selenium-for-automation-hjn)
 <!-- BLOG-POST-LIST:END -->
 
