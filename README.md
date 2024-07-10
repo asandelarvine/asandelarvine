@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the VCR plugged in? Common Sense Troubleshooting For Web Devs](https://dev.to/cjav_dev/is-the-vcr-plugged-in-common-sense-troubleshooting-for-web-devs-78o)
-- [Understanding Node Affinity in Kubernetes](https://dev.to/jensen1806/understanding-node-affinity-in-kubernetes-3l5j)
-- [Introduction to GCD &lpar;Grand Central Dispatch&rpar;](https://dev.to/vinaykumar0339/introduction-to-gcd-grand-central-dispatch-16b9)
-- [What is Selenium? Why do we use selenium for automation?](https://dev.to/pat28we/what-is-selenium-why-do-we-use-selenium-for-automation-hjn)
+- [Typescript Coding Chronicles: Merge Strings Alternately](https://dev.to/david_zamoraballesteros_/typescript-coding-chronicles-merge-strings-alternately-5ia)
+- [From Zero to Production: Deploying a Full-Stack Application with Architect](https://dev.to/joswellahwasike/from-zero-to-production-deploying-a-full-stack-application-with-architect-190h)
+- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-1gd1)
+- [Ambient Mesh with Istio like a boss!](https://dev.to/mateothegreat/ambient-mesh-with-istio-like-a-boss-3gle)
 <!-- BLOG-POST-LIST:END -->
 
