@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding API Gateway Pricing: Maximizing Features While Minimizing Costs](https://dev.to/getambassador2024/understanding-api-gateway-pricing-maximizing-features-while-minimizing-costs-1lde)
-- [Polars: Empowering Large-Scale Data Analysis in Python](https://dev.to/sejal_4218d5cae5da24da188/polars-empowering-large-scale-data-analysis-in-python-17n6)
-- [Codeigniter 🔥4 anybody?](https://dev.to/kwnaidoo/codeigniter-4-anybody-37oc)
-- [Mastering Enterprise Data Lake Architectures &amp; Implementation Solutions](https://dev.to/datameticasolutions/mastering-enterprise-data-lake-architectures-implementation-solutions-4g79)
+- [Property-Based Testing: Ensuring Robust Software with Comprehensive Test Scenarios](https://dev.to/keploy/property-based-testing-ensuring-robust-software-with-comprehensive-test-scenarios-m5o)
+- [How Infrastructure Monitoring Can Prevent a Cyber Attack](https://dev.to/ila_bandhiya/how-infrastructure-monitoring-can-prevent-a-cyber-attack-35hl)
+- [Web Application Firewall &lpar;WAF&rpar;: Safeguarding Your Web Applications](https://dev.to/motorbuy6/web-application-firewall-waf-safeguarding-your-web-applications-o35)
+- [How to Improve Your Skills as a Web Developer](https://dev.to/iamnotusama/how-to-improve-your-skills-as-a-web-developer-2382)
 <!-- BLOG-POST-LIST:END -->
 
