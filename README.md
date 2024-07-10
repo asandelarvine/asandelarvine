@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Property-Based Testing: Ensuring Robust Software with Comprehensive Test Scenarios](https://dev.to/keploy/property-based-testing-ensuring-robust-software-with-comprehensive-test-scenarios-m5o)
-- [How Infrastructure Monitoring Can Prevent a Cyber Attack](https://dev.to/ila_bandhiya/how-infrastructure-monitoring-can-prevent-a-cyber-attack-35hl)
-- [Web Application Firewall &lpar;WAF&rpar;: Safeguarding Your Web Applications](https://dev.to/motorbuy6/web-application-firewall-waf-safeguarding-your-web-applications-o35)
-- [How to Improve Your Skills as a Web Developer](https://dev.to/iamnotusama/how-to-improve-your-skills-as-a-web-developer-2382)
+- [Tricky Golang interview questions - Part 6: NonBlocking Read](https://dev.to/crusty0gphr/tricky-golang-interview-questions-part-6-nonblocking-read-aj1)
+- [JavaScript Design Patterns - Behavioral - Mediator](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-mediator-52c9)
+- [What Is Java? - Java Programming Language Explained](https://dev.to/thekarlesi/what-is-java-java-programming-language-explained-doc)
+- [Implement React v18 from Scratch Using WASM and Rust - [18] Implement useRef, useCallback, useMemo](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-18-implement-useref-usecallback-usememo-3i1a)
 <!-- BLOG-POST-LIST:END -->
 
