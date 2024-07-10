@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing Smart Contracts with Truffle and Ganache](https://dev.to/kartikmehta8/developing-smart-contracts-with-truffle-and-ganache-2670)
-- [Framer Motion | Introduction - Part 1](https://dev.to/boraacici/framer-motion-introduction-part-1-4858)
-- [Acessibilidade digital - Dicas de NVDA para desenvolvedores web](https://dev.to/julioduartedev/acessibilidade-digital-dicas-de-nvda-para-desenvolvedores-web-32g5)
-- [Day 987 : Side Quest](https://dev.to/dwane/day-987-side-quest-273c)
+- [How to Do Android App Security Testing: A Guide for Developers and Testers](https://dev.to/wetest/how-to-do-android-app-security-testing-a-guide-for-developers-and-testers-3j8b)
+- [Unlocking the Power of Alibaba Cloud Elasticsearch: A Step-by-Step Guide to Accessing Your Cluster](https://dev.to/a_lucas/unlocking-the-power-of-alibaba-cloud-elasticsearch-a-step-by-step-guide-to-accessing-your-cluster-3jg1)
+- [Comparing Limit-Offset and Cursor Pagination](https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81)
+- [Supercharging Your Cypress Tests with Custom Commands](https://dev.to/aswani25/supercharging-your-cypress-tests-with-custom-commands-4jlc)
 <!-- BLOG-POST-LIST:END -->
 
