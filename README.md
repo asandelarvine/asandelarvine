@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Monoids, Applicatives, and Lenses #8](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-monoids-applicatives-and-lenses-8-1gjb)
-- [Total Madness #1: Async/Await](https://dev.to/gmelodie/total-madness-1-asyncawait-1omk)
-- [Different Problem, One Solution : API Gateways](https://dev.to/grenishrai/different-problem-one-solution-api-gateways-j1d)
-- [Do you know these 4 API monitoring pillars?](https://dev.to/ehikioya/do-you-know-these-4-api-monitoring-pillars-3796)
+- [Foremost ที่ไม่ใช่ นม](https://dev.to/iyosnu/foremost-thiiaimaich-nm-217d)
+- [Testing the new discord bot.](https://dev.to/aud/testing-the-new-discord-bot-2m9n)
+- [Implementando Transactional Outbox com Go, DynamoDB, MongoDB, Kafka e RabbitMq](https://dev.to/ederfmatos/implementando-transactional-outbox-com-go-dynamodb-e-mongodb-1kn3)
+- [[Game of Purpose] Day 53](https://dev.to/humberd/game-of-purpose-day-53-1j96)
 <!-- BLOG-POST-LIST:END -->
 
