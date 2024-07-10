@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: A Critical Look at Design Systems](https://dev.to/shieldstring/beyond-the-hype-a-critical-look-at-design-systems-2eip)
-- [Axios](https://dev.to/l_thomas_7c618d0460a87887/axios-ndn)
-- [🌟 Are You Learning Basic Java? This Repository is Here to Help! 🌟](https://dev.to/aadarshk7/are-you-learning-basic-java-this-repository-is-here-to-help-fb)
-- [Hack The Box — Archetype Walkthrough](https://dev.to/gabe-blog/hack-the-box-archetype-walkthrough-p5n)
+- [Understanding API Gateway Pricing: Maximizing Features While Minimizing Costs](https://dev.to/getambassador2024/understanding-api-gateway-pricing-maximizing-features-while-minimizing-costs-1lde)
+- [Polars: Empowering Large-Scale Data Analysis in Python](https://dev.to/sejal_4218d5cae5da24da188/polars-empowering-large-scale-data-analysis-in-python-17n6)
+- [Codeigniter 🔥4 anybody?](https://dev.to/kwnaidoo/codeigniter-4-anybody-37oc)
+- [Mastering Enterprise Data Lake Architectures &amp; Implementation Solutions](https://dev.to/datameticasolutions/mastering-enterprise-data-lake-architectures-implementation-solutions-4g79)
 <!-- BLOG-POST-LIST:END -->
 
