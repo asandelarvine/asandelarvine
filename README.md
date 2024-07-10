@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing DOCSCAN: The Ultimate Global ID Document Scanning API](https://dev.to/vyan/introducing-docscan-the-ultimate-global-id-document-scanning-api-2lo4)
-- [How AI Enhances Digital Marketing Strategies to Achieve Goals?](https://dev.to/juddiy/how-ai-enhances-digital-marketing-strategies-to-achieve-goals-155e)
-- [Good Morning Developers](https://dev.to/aadarshk7/good-morning-developers-2p82)
-- [DBOS-Cloud Simple and Robust Workflow Orchestration](https://dev.to/vince_hirefunnel_co/dbos-cloud-simple-and-robust-workflow-orchestration-cn4)
+- [Free and Open-Source Alternatives to TablePlus and DataGrip for Database Management](https://dev.to/sh20raj/free-and-open-source-alternatives-to-tableplus-and-datagrip-for-database-management-1di4)
+- [Summarize Data in Every Two Columns under Each Category](https://dev.to/judith677/summarize-data-in-every-two-columns-under-each-category-12gg)
+- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-3oni)
+- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-475n)
 <!-- BLOG-POST-LIST:END -->
 
