@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nomeação de Variáveis CSS: Boas Práticas e Abordagens](https://dev.to/leomunizq/nomeacao-de-variaveis-css-boas-praticas-e-abordagens-48o3)
-- [CSS Variable Naming: Best Practices and Approaches](https://dev.to/leomunizq/css-variable-naming-best-practices-and-approaches-2mpi)
-- [The Vital Duo: The Difference Between Payment Processors and Payment Gateways](https://dev.to/fsstech/the-vital-duo-the-difference-between-payment-processors-and-payment-gateways-pkj)
-- [Dataverse: get distinct values with Web API](https://dev.to/andrewelans/dataverse-get-distinct-values-with-web-api-3h35)
+- [Deploying a Python Django App on AWS Lightsail](https://dev.to/haroffcode/deploying-a-python-django-app-on-aws-lightsail-3no4)
+- [Deploy a Python FastAPI Application to Render](https://dev.to/appsignal/deploy-a-python-fastapi-application-to-render-5g48)
+- [Providing Tons of Features While Keeping the Design Clean is Really Hard🥵](https://dev.to/darkinventor/providing-tons-of-features-while-keeping-the-design-clean-is-really-hard-oo0)
+- [The DevOps Revolution services](https://dev.to/porat/breaking-barriers-the-devops-revolution-services-3453)
 <!-- BLOG-POST-LIST:END -->
 
