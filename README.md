@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real time rendering with web-sockets](https://dev.to/lenormor/real-time-rendering-with-web-sockets-50b7)
-- [Figma to Angular: Convert Designs to Clean Angular Code in a Click](https://dev.to/builderio/figma-to-angular-convert-designs-to-clean-angular-code-in-a-click-e33)
-- [PYTHON – PRINT EXERCISES](https://dev.to/jagadishwaran_g_c1d0a2786/task-1-34o1)
-- [How to center a div?](https://dev.to/mb337/how-to-center-a-div-3c2a)
+- [Back-End Testing](https://dev.to/suhaspalani/back-end-testing-13dn)
+- [Fetching Data Dengan Alpine JS](https://dev.to/mahib22/fetching-data-dengan-alpine-js-4l15)
+- [Cheapest Way to Learn Programming If You Can’t Afford Courses](https://dev.to/mammadyahyayev/cheapest-way-to-learn-programming-if-you-cant-afford-courses-1hk0)
+- [Insider Threat: How to Secure Your Business](https://dev.to/debcloud/insider-threat-how-to-secure-your-business-447k)
 <!-- BLOG-POST-LIST:END -->
 
