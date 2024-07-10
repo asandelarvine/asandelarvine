@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An excellent Modbus slave &lpar;server&rpar; simulator and serial port debugging tool.](https://dev.to/redisant/an-excellent-modbus-slave-server-simulator-and-serial-port-debugging-tool-c0a)
-- [BigQuery Schema Generation Made Easier with PyPI’s bigquery-schema-generator](https://dev.to/noela_tenku/bigquery-schema-generation-made-easier-with-pypis-bigquery-schema-generator-3iej)
-- [Não deveria ser tão simples inserir um bug na sua aplicação e eu te conto o porquê](https://dev.to/ramonborges15/nao-deveria-ser-tao-simples-inserir-um-bug-na-sua-aplicacao-e-eu-te-conto-o-porque-902)
-- [Creating a Simple Generative AI Chatbot with Python and TensorFlow](https://dev.to/csar_fabinchvezlinar/creating-a-simple-generative-ai-chatbot-with-python-and-tensorflow-13mc)
+- [Developing Smart Contracts with Truffle and Ganache](https://dev.to/kartikmehta8/developing-smart-contracts-with-truffle-and-ganache-2670)
+- [Framer Motion | Introduction - Part 1](https://dev.to/boraacici/framer-motion-introduction-part-1-4858)
+- [Acessibilidade digital - Dicas de NVDA para desenvolvedores web](https://dev.to/julioduartedev/acessibilidade-digital-dicas-de-nvda-para-desenvolvedores-web-32g5)
+- [Day 987 : Side Quest](https://dev.to/dwane/day-987-side-quest-273c)
 <!-- BLOG-POST-LIST:END -->
 
