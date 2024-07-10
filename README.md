@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tricky Golang interview questions - Part 6: NonBlocking Read](https://dev.to/crusty0gphr/tricky-golang-interview-questions-part-6-nonblocking-read-aj1)
-- [JavaScript Design Patterns - Behavioral - Mediator](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-mediator-52c9)
-- [What Is Java? - Java Programming Language Explained](https://dev.to/thekarlesi/what-is-java-java-programming-language-explained-doc)
-- [Implement React v18 from Scratch Using WASM and Rust - [18] Implement useRef, useCallback, useMemo](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-18-implement-useref-usecallback-usememo-3i1a)
+- [picoCTF Mod 26 Write Up](https://dev.to/president-xd/picoctf-mod-26-write-up-pnh)
+- [Drawing animations in ScheduleJS](https://dev.to/lenormor/drawing-animations-in-schedulejs-56fo)
+- [How to Integrate Abstract Email and Phone Validation for Zoho CRM](https://dev.to/jamesellis/how-to-integrate-abstract-email-and-phone-validation-for-zoho-crm-30i2)
+- [Methods to Improve Your UX](https://dev.to/danieldavis/methods-to-improve-your-ux-33l)
 <!-- BLOG-POST-LIST:END -->
 
