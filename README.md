@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript Coding Chronicles: Merge Strings Alternately](https://dev.to/david_zamoraballesteros_/typescript-coding-chronicles-merge-strings-alternately-5ia)
-- [From Zero to Production: Deploying a Full-Stack Application with Architect](https://dev.to/joswellahwasike/from-zero-to-production-deploying-a-full-stack-application-with-architect-190h)
-- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-1gd1)
-- [Ambient Mesh with Istio like a boss!](https://dev.to/mateothegreat/ambient-mesh-with-istio-like-a-boss-3gle)
+- [What’s New in .NET 9 Preview 6: Comprehensive Overview](https://dev.to/3a5abi/whats-new-in-net-9-preview-6-comprehensive-overview-5b9f)
+- [How to Implement Sentiment Analysis with PHP and AWS Comprehend](https://dev.to/guilherme-lauxen/how-to-implement-sentiment-analysis-with-php-and-aws-comprehend-2ibk)
+- [Callbacks in Javascript](https://dev.to/jpbp/callbacks-in-javascript-10i2)
+- [Ant Design adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/ant-design-adoption-guide-overview-examples-and-alternatives-3003)
 <!-- BLOG-POST-LIST:END -->
 
