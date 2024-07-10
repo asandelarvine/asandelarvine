@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Image Processing Transforms Industries: 5 Key Use Cases](https://dev.to/api4ai/how-image-processing-transforms-industries-5-key-use-cases-n0a)
-- [Testing AWS Database Migrations &amp; Accelerating Development with Cloud Pods](https://dev.to/bartszy/testing-aws-database-migrations-accelerating-development-with-cloud-pods-4ngb)
-- [CaaS simplified: Why use headless CMS as content as a service](https://dev.to/momciloo/caas-simplified-why-use-headless-cms-as-content-as-a-service-32pm)
-- [Building Batching Notifications Using MongoDB, Django, Celery and Sendgrid](https://dev.to/nikl/building-batching-notifications-using-mongodb-django-celery-and-sendgrid-4n9f)
+- [3D Riemann Surface Matrix](https://dev.to/dan52242644dan/3d-riemann-surface-matrix-12oj)
+- [Leveraging Web3 to Enhance JavaScript Development](https://dev.to/asmsc/leveraging-web3-to-enhance-javascript-development-4aeo)
+- [**Exploring Object-Oriented Programming &lpar;OOP&rpar; Concepts with Java**](https://dev.to/gadekar_sachin/exploring-object-oriented-programming-oop-concepts-with-java-1pn6)
+- [Explication de SeleniumWebDriver : Automatisez votre Flux de Tests Web](https://dev.to/laroseikitama/explication-de-seleniumwebdriver-automatisez-votre-flux-de-tests-web-e88)
 <!-- BLOG-POST-LIST:END -->
 
