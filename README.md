@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Python Django App on AWS Lightsail](https://dev.to/haroffcode/deploying-a-python-django-app-on-aws-lightsail-3no4)
-- [Deploy a Python FastAPI Application to Render](https://dev.to/appsignal/deploy-a-python-fastapi-application-to-render-5g48)
-- [Providing Tons of Features While Keeping the Design Clean is Really Hard🥵](https://dev.to/darkinventor/providing-tons-of-features-while-keeping-the-design-clean-is-really-hard-oo0)
-- [The DevOps Revolution services](https://dev.to/porat/breaking-barriers-the-devops-revolution-services-3453)
+- [Real time rendering with web-sockets](https://dev.to/lenormor/real-time-rendering-with-web-sockets-50b7)
+- [Figma to Angular: Convert Designs to Clean Angular Code in a Click](https://dev.to/builderio/figma-to-angular-convert-designs-to-clean-angular-code-in-a-click-e33)
+- [PYTHON – PRINT EXERCISES](https://dev.to/jagadishwaran_g_c1d0a2786/task-1-34o1)
+- [How to center a div?](https://dev.to/mb337/how-to-center-a-div-3c2a)
 <!-- BLOG-POST-LIST:END -->
 
