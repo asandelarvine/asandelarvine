@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Layout types](https://dev.to/lenormor/the-layout-types-1kf5)
-- [Add Novel Editor to NextJS website with Image Uploading Support](https://dev.to/sh20raj/add-novel-editor-to-nextjs-website-with-image-uploading-support-3obb)
-- [Integration of ScheduleJS with Selligent CRM for a Leading Beauty Brand](https://dev.to/lenormor/integration-of-schedulejs-with-selligent-crm-for-a-leading-beauty-brand-4593)
-- [Deploy a Static Website with Route53, CloudFront and AWS Certificate using a Terraform Script](https://dev.to/chigozieco/deploy-a-static-website-with-route53-cloudfront-and-aws-certificate-using-a-terraform-script-25i8)
+- [How Image Processing Transforms Industries: 5 Key Use Cases](https://dev.to/api4ai/how-image-processing-transforms-industries-5-key-use-cases-n0a)
+- [Testing AWS Database Migrations &amp; Accelerating Development with Cloud Pods](https://dev.to/bartszy/testing-aws-database-migrations-accelerating-development-with-cloud-pods-4ngb)
+- [CaaS simplified: Why use headless CMS as content as a service](https://dev.to/momciloo/caas-simplified-why-use-headless-cms-as-content-as-a-service-32pm)
+- [Building Batching Notifications Using MongoDB, Django, Celery and Sendgrid](https://dev.to/nikl/building-batching-notifications-using-mongodb-django-celery-and-sendgrid-4n9f)
 <!-- BLOG-POST-LIST:END -->
 
