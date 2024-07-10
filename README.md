@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Back-End Testing](https://dev.to/suhaspalani/back-end-testing-13dn)
-- [Fetching Data Dengan Alpine JS](https://dev.to/mahib22/fetching-data-dengan-alpine-js-4l15)
-- [Cheapest Way to Learn Programming If You Can’t Afford Courses](https://dev.to/mammadyahyayev/cheapest-way-to-learn-programming-if-you-cant-afford-courses-1hk0)
-- [Insider Threat: How to Secure Your Business](https://dev.to/debcloud/insider-threat-how-to-secure-your-business-447k)
+- [The Layout types](https://dev.to/lenormor/the-layout-types-1kf5)
+- [Add Novel Editor to NextJS website with Image Uploading Support](https://dev.to/sh20raj/add-novel-editor-to-nextjs-website-with-image-uploading-support-3obb)
+- [Integration of ScheduleJS with Selligent CRM for a Leading Beauty Brand](https://dev.to/lenormor/integration-of-schedulejs-with-selligent-crm-for-a-leading-beauty-brand-4593)
+- [Deploy a Static Website with Route53, CloudFront and AWS Certificate using a Terraform Script](https://dev.to/chigozieco/deploy-a-static-website-with-route53-cloudfront-and-aws-certificate-using-a-terraform-script-25i8)
 <!-- BLOG-POST-LIST:END -->
 
