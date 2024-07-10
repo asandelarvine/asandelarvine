@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [picoCTF Mod 26 Write Up](https://dev.to/president-xd/picoctf-mod-26-write-up-pnh)
-- [Drawing animations in ScheduleJS](https://dev.to/lenormor/drawing-animations-in-schedulejs-56fo)
-- [How to Integrate Abstract Email and Phone Validation for Zoho CRM](https://dev.to/jamesellis/how-to-integrate-abstract-email-and-phone-validation-for-zoho-crm-30i2)
-- [Methods to Improve Your UX](https://dev.to/danieldavis/methods-to-improve-your-ux-33l)
+- [Nomeação de Variáveis CSS: Boas Práticas e Abordagens](https://dev.to/leomunizq/nomeacao-de-variaveis-css-boas-praticas-e-abordagens-48o3)
+- [CSS Variable Naming: Best Practices and Approaches](https://dev.to/leomunizq/css-variable-naming-best-practices-and-approaches-2mpi)
+- [The Vital Duo: The Difference Between Payment Processors and Payment Gateways](https://dev.to/fsstech/the-vital-duo-the-difference-between-payment-processors-and-payment-gateways-pkj)
+- [Dataverse: get distinct values with Web API](https://dev.to/andrewelans/dataverse-get-distinct-values-with-web-api-3h35)
 <!-- BLOG-POST-LIST:END -->
 
