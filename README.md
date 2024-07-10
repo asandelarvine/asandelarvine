@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Dependency Management with Architect: Tips and Best Practices](https://dev.to/joswellahwasike/mastering-dependency-management-with-architect-tips-and-best-practices-3m29)
-- [Mastering Dependency Management with Architect: Tips and Best Practices](https://dev.to/joswellahwasike/mastering-dependency-management-with-architect-tips-and-best-practices-1j17)
-- [Exploring AI Agents: Autonomous Helpers Transforming Our World](https://dev.to/savagenewcanaan/exploring-ai-agents-autonomous-helpers-transforming-our-world-6g)
-- [100+ FREE Resources Every Web Developer Must Try](https://dev.to/agunwachidiebelecalistus/100-free-resources-every-web-developer-must-try-47ln)
+- [How to install the most recent Python in your Synology diskstation](https://dev.to/digfish/how-to-install-the-most-recent-python-in-your-synology-diskstation-2b0p)
+- [Aula 00.py uma breve introdução](https://dev.to/dunderpy/aula-00py-uma-breve-introducao-3pkd)
+- [Iterating Over a Visual Editor Compiler](https://dev.to/eletroswing/iterating-over-a-visual-editor-compiler-51l9)
+- [Typescript Coding Chronicles: Reverse Vowels of a String](https://dev.to/__zamora__/typescript-coding-chronicles-reverse-vowels-of-a-string-2c9p)
 <!-- BLOG-POST-LIST:END -->
 
