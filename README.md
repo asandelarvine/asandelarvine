@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Do Android App Security Testing: A Guide for Developers and Testers](https://dev.to/wetest/how-to-do-android-app-security-testing-a-guide-for-developers-and-testers-3j8b)
-- [Unlocking the Power of Alibaba Cloud Elasticsearch: A Step-by-Step Guide to Accessing Your Cluster](https://dev.to/a_lucas/unlocking-the-power-of-alibaba-cloud-elasticsearch-a-step-by-step-guide-to-accessing-your-cluster-3jg1)
-- [Comparing Limit-Offset and Cursor Pagination](https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81)
-- [Supercharging Your Cypress Tests with Custom Commands](https://dev.to/aswani25/supercharging-your-cypress-tests-with-custom-commands-4jlc)
+- [Introducing DOCSCAN: The Ultimate Global ID Document Scanning API](https://dev.to/vyan/introducing-docscan-the-ultimate-global-id-document-scanning-api-2lo4)
+- [How AI Enhances Digital Marketing Strategies to Achieve Goals?](https://dev.to/juddiy/how-ai-enhances-digital-marketing-strategies-to-achieve-goals-155e)
+- [Good Morning Developers](https://dev.to/aadarshk7/good-morning-developers-2p82)
+- [DBOS-Cloud Simple and Robust Workflow Orchestration](https://dev.to/vince_hirefunnel_co/dbos-cloud-simple-and-robust-workflow-orchestration-cn4)
 <!-- BLOG-POST-LIST:END -->
 
