@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [THE EVOLUTION OF CLOUD HOSTING!](https://dev.to/1hamzabek/the-evolution-of-cloud-hosting-5g33)
-- [Optimizing Web Design with CSS Variables](https://dev.to/code_passion/optimizing-web-design-with-css-variables-h23)
-- [What is Blockchain Testing?](https://dev.to/testscenario/what-is-blockchain-testing-18nb)
-- [Husky and lint-staged: Keeping Code Consistent](https://dev.to/joylee/automating-code-quality-checks-with-husky-and-lint-staged-4ckg)
+- [Why React JS is the Optimal Choice for Your Next Project: A Deep Dive](https://dev.to/vyan/why-react-js-is-the-optimal-choice-for-your-next-project-a-deep-dive-195a)
+- [Transform Work into Play: Discover the Secrets to Enjoyable Productivity in My New Class](https://dev.to/per-starke-642/transform-work-into-play-discover-the-secrets-to-enjoyable-productivity-in-my-new-class-5ep4)
+- [What specific data inputs are required to use the HECS repayment calculator effectively?](https://dev.to/george_423a8b9f09bc2b7663/what-specific-data-inputs-are-required-to-use-the-hecs-repayment-calculator-effectively-41ac)
+- [The paradox of test coverage](https://dev.to/moozzyk/the-paradox-of-test-coverage-1ipk)
 <!-- BLOG-POST-LIST:END -->
 
