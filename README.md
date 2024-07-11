@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Python Programming 🧡](https://dev.to/aryan015/day-1-python-programming-13a0)
-- [Design Pattern #5 - Adapter Pattern](https://dev.to/superviz/design-pattern-5-adapter-pattern-4gif)
-- [My mistake when entering Hello World](https://dev.to/abdulwahidkahar/my-mistake-when-entering-hello-world-2ege)
-- [Laravel - Advanced Eloquent ORM Techniques](https://dev.to/devbabs/laravel-advanced-eloquent-orm-techniques-129e)
+- [Creating an Auto-Scaling Web Server Architecture](https://dev.to/aktran321/creating-an-auto-scaling-web-server-architecture-1i3k)
+- [About that time](https://dev.to/lostoneway/about-that-time-312i)
+- [Item 41: Use as interfaces marcadoras para definir tipos](https://dev.to/giselecoder/item-41-use-as-interfaces-marcadoras-para-definir-tipos-dac)
+- [[Italian] Trasforma le Eccezioni da Incubo a Opportunità con IExceptionHandler in ASP.NET Core!](https://dev.to/cosminirimescucom/trasforma-le-eccezioni-da-incubo-a-opportunita-con-iexceptionhandler-in-aspnet-core-7h4)
 <!-- BLOG-POST-LIST:END -->
 
