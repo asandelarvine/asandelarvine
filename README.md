@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Deliverability Audit: Ensuring Your Emails Reach the Inbox](https://dev.to/accuwebhosting/email-deliverability-audit-ensuring-your-emails-reach-the-inbox-43)
-- [The Future of Full Stack Development: AI, Machine Learning, and Beyond](https://dev.to/jhk_info/the-future-of-full-stack-development-ai-machine-learning-and-beyond-2ac2)
-- [25 Open Source AI Tools to Cut Your Development Time in Half](https://dev.to/kitops/25-open-source-ai-tools-to-cut-your-development-time-in-half-4h5j)
-- [Explore how BitPower Loop works](https://dev.to/sang_ce3ded81da27406cb32c/explore-how-bitpower-loop-works-oh2)
+- [Cookies, Code, and AI - A Sweet Journey into Backpropagation](https://dev.to/dev3l/cookies-code-and-ai-a-sweet-journey-into-backpropagation-df5)
+- [How to create a Linux Virtual machine](https://dev.to/stippy4real/how-to-create-a-linux-virtual-machine-46me)
+- [Looking for new opportunities...](https://dev.to/bhumika-aga/looking-for-new-opportunities-5hnl)
+- [Short-Circuiting Conditions in JavaScript: The Ternary Operator ES6](https://dev.to/fwldom/short-circuiting-conditions-in-javascript-the-ternary-operator-es6-1b12)
 <!-- BLOG-POST-LIST:END -->
 
