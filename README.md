@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Lesser-known Javascript Features that You Probably Never Used](https://dev.to/syakirurahman/20-lesser-known-javascript-features-that-you-probably-never-used-5052)
-- [What Is Pulumi And How To Use It](https://dev.to/env0/what-is-pulumi-and-how-to-use-it-1imc)
-- [After Effects: Favourite Expressions Part 1, Linear&lpar;&rpar; and Ease&lpar;&rpar;](https://dev.to/kocreative/after-effects-favourite-expressions-part-1-linear-and-ease-14p1)
-- [Getting Started with OLA Maps Python package](https://dev.to/adayush/getting-started-with-ola-maps-python-package-1j4m)
+- [Why Choose An Enterprise Software Development Company For Your Business](https://dev.to/adnanali007/why-choose-an-enterprise-software-development-company-for-your-business-5ejk)
+- [Metadata to actionable insights in Grafana: How to view Parseable metrics](https://dev.to/parseable/metadata-to-actionable-insights-in-grafana-how-to-view-parseable-metrics-3oa4)
+- [Generate Signable PDF Forms with React](https://dev.to/fileforge/generate-signable-pdf-forms-with-react-1ha6)
+- [Developer diary #13. Pomodoro life](https://dev.to/kiolk/developer-diary-13-pomodoro-life-38hc)
 <!-- BLOG-POST-LIST:END -->
 
