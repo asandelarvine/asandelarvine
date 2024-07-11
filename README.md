@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve TensorFlow model load time by ~70% using HDF5 instead of SavedModel](https://dev.to/dchaley/improve-tensorflow-model-load-time-by-70-using-hdf5-instead-of-savedmodel-5c8e)
-- [Make Cronjob Script With Log](https://dev.to/seno21/make-cronjob-script-with-log-aah)
-- [Detailed Guide to Configuring DBLink from GBase 8s to Oracle](https://dev.to/congcong/detailed-guide-to-configuring-dblink-from-gbase-8s-to-oracle-1g4m)
-- [Expand Multi-Row Text in A Cell to Multiple Cells](https://dev.to/judith677/expand-multi-row-text-in-a-cell-to-multiple-cells-gcf)
+- [Migrating from MySQL to PostgreSQL](https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7)
+- [Day 29 of 30 of JavaScript](https://dev.to/akshat0610/day-29-of-30-of-javascript-4fom)
+- [Django AllAuth Chapter 2 - How to install and configure Django AllAuth](https://dev.to/doctorserone/django-allauth-chapter-2-how-to-install-and-configure-django-allauth-513p)
+- [Unlock the &quot;Beauty and Joy of Computing&quot; with UC Berkeley&#39;s Captivating Computer Science Course! 🤖](https://dev.to/getvm/unlock-the-beauty-and-joy-of-computing-with-uc-berkeleys-captivating-computer-science-course-9p5)
 <!-- BLOG-POST-LIST:END -->
 
