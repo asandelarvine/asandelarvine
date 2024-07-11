@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interesting programming factz 🧡](https://dev.to/aryan015/interesting-programming-factz-5cd0)
-- [Write cleaner code with Named Arguments in PHP | How to | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/write-cleaner-code-with-named-arguments-in-php-how-to-tutorial-quick-win-wednesday-qww-3hpd)
-- [Using whereAny&lpar;&rpar; for cleaner queries in Eloquent | Laravel | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/using-whereany-for-cleaner-queries-in-eloquent-laravel-tutorial-quick-win-wednesday-qww-1mph)
-- [Using whereAny&lpar;&rpar; for cleaner queries in Eloquent | Laravel | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/using-whereany-for-cleaner-queries-in-eloquent-laravel-tutorial-quick-win-wednesday-qww-4feb)
+- [Day 1: Python Programming 🧡](https://dev.to/aryan015/day-1-python-programming-13a0)
+- [Design Pattern #5 - Adapter Pattern](https://dev.to/superviz/design-pattern-5-adapter-pattern-4gif)
+- [My mistake when entering Hello World](https://dev.to/abdulwahidkahar/my-mistake-when-entering-hello-world-2ege)
+- [Laravel - Advanced Eloquent ORM Techniques](https://dev.to/devbabs/laravel-advanced-eloquent-orm-techniques-129e)
 <!-- BLOG-POST-LIST:END -->
 
