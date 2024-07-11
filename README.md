@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cookies, Code, and AI - A Sweet Journey into Backpropagation](https://dev.to/dev3l/cookies-code-and-ai-a-sweet-journey-into-backpropagation-df5)
-- [How to create a Linux Virtual machine](https://dev.to/stippy4real/how-to-create-a-linux-virtual-machine-46me)
-- [Looking for new opportunities...](https://dev.to/bhumika-aga/looking-for-new-opportunities-5hnl)
-- [Short-Circuiting Conditions in JavaScript: The Ternary Operator ES6](https://dev.to/fwldom/short-circuiting-conditions-in-javascript-the-ternary-operator-es6-1b12)
+- [20 Lesser-known Javascript Features that You Probably Never Used](https://dev.to/syakirurahman/20-lesser-known-javascript-features-that-you-probably-never-used-5052)
+- [What Is Pulumi And How To Use It](https://dev.to/env0/what-is-pulumi-and-how-to-use-it-1imc)
+- [After Effects: Favourite Expressions Part 1, Linear&lpar;&rpar; and Ease&lpar;&rpar;](https://dev.to/kocreative/after-effects-favourite-expressions-part-1-linear-and-ease-14p1)
+- [Getting Started with OLA Maps Python package](https://dev.to/adayush/getting-started-with-ola-maps-python-package-1j4m)
 <!-- BLOG-POST-LIST:END -->
 
