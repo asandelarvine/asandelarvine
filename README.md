@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event storming, and then what?](https://dev.to/maverick198/event-storming-and-then-what-5ajp)
-- [A new project for Rust Developers??](https://dev.to/francescoxx/a-new-project-for-rust-developers-5cbj)
-- [Deploy Django to Azure - The Easy Way](https://dev.to/dilutewater/deploy-django-to-azure-the-easy-way-2h1n)
-- [Gemini AI inside Chrome DevTools to Debug Errors](https://dev.to/shameel/gemini-ai-inside-chrome-devtools-to-debug-errors-3jpe)
+- [Email Deliverability Audit: Ensuring Your Emails Reach the Inbox](https://dev.to/accuwebhosting/email-deliverability-audit-ensuring-your-emails-reach-the-inbox-43)
+- [The Future of Full Stack Development: AI, Machine Learning, and Beyond](https://dev.to/jhk_info/the-future-of-full-stack-development-ai-machine-learning-and-beyond-2ac2)
+- [25 Open Source AI Tools to Cut Your Development Time in Half](https://dev.to/kitops/25-open-source-ai-tools-to-cut-your-development-time-in-half-4h5j)
+- [Explore how BitPower Loop works](https://dev.to/sang_ce3ded81da27406cb32c/explore-how-bitpower-loop-works-oh2)
 <!-- BLOG-POST-LIST:END -->
 
