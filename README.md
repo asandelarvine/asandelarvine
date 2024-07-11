@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your Blogging Experience Powerful Features](https://dev.to/muhammadaliaffan/elevate-your-blogging-experience-powerful-features-2lm9)
-- [GitHub Container Registry: How to push Docker images to GitHub 🐋](https://dev.to/webdeasy/github-container-registry-how-to-push-docker-images-to-github-5bk4)
-- [Three Prompt Libraries you should know as a AI Engineer](https://dev.to/portkey/three-prompt-libraries-you-should-know-as-a-ai-engineer-32m8)
-- [print &lpar;விளைவு&rpar; நிரல்](https://dev.to/neyakkoo/print-villaivu-nirl-37jn)
+- [How personalisation works in Sitecore XM Cloud](https://dev.to/byteminds_agency/how-personalisation-works-in-sitecore-xm-cloud-52o4)
+- [RivieraDev 2024 : We were here](https://dev.to/onepoint/rivieradev-2024-we-were-here-131a)
+- [NVIDIA NIM is mind blowing!!!](https://dev.to/fretny/nvidia-nim-is-mind-blowing-34gc)
+- [ER Diagrams for University Databases in DBMS](https://dev.to/pushpendra_sharma_f1d2cbe/er-diagrams-for-university-databases-in-dbms-5bej)
 <!-- BLOG-POST-LIST:END -->
 
