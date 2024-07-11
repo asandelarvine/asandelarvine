@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [zsh: permission denied: ./gradlew](https://dev.to/deni_sugiarto_1a01ad7c3fb/zsh-permission-denied-gradlew-52dp)
-- [Destiny or Coincidence: Based on Shannon Perry s Experiment.](https://dev.to/chriisduran/destiny-or-coincidence-based-on-shannon-perry-s-experiment-5alj)
-- [Unlocking Intelligent Conversations with React AI ChatBot from Sista AI](https://dev.to/sista-ai/unlocking-intelligent-conversations-with-react-ai-chatbot-from-sista-ai-294l)
-- [Day 10 of my 90 Days Devops- Kubernetes Networking Fundamentals](https://dev.to/arbythecoder/day-10-of-my-90-days-devops-kubernetes-networking-fundamentals-50fa)
+- [Customer Satisfaction: The Key to Success is an Efficient and Motivated Workforce](https://dev.to/wallacefreitas/customer-satisfaction-the-key-to-success-is-an-efficient-and-motivated-workforce-2l6n)
+- [[Java] Multi-threading - Nhiều luồng liệu có thực sự khiến chương trình của chúng ta trở nên nhanh hơn ?](https://dev.to/bu_0107/java-multi-threading-nhieu-luong-lieu-co-thuc-su-khien-chuong-trinh-cua-chung-ta-tro-nen-nhanh-hon--47bl)
+- [Understanding the Monad Design Pattern](https://dev.to/rmaurodev/understanding-the-monad-design-pattern-1d9e)
+- [De Xamarin.Forms a .NET MAUI: Uma Evolução Que Transcende Limites](https://dev.to/jucsantana05/de-xamarinforms-a-net-maui-uma-evolucao-que-transcende-limites-4b83)
 <!-- BLOG-POST-LIST:END -->
 
