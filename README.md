@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React JS is the Optimal Choice for Your Next Project: A Deep Dive](https://dev.to/vyan/why-react-js-is-the-optimal-choice-for-your-next-project-a-deep-dive-195a)
-- [Transform Work into Play: Discover the Secrets to Enjoyable Productivity in My New Class](https://dev.to/per-starke-642/transform-work-into-play-discover-the-secrets-to-enjoyable-productivity-in-my-new-class-5ep4)
-- [What specific data inputs are required to use the HECS repayment calculator effectively?](https://dev.to/george_423a8b9f09bc2b7663/what-specific-data-inputs-are-required-to-use-the-hecs-repayment-calculator-effectively-41ac)
-- [The paradox of test coverage](https://dev.to/moozzyk/the-paradox-of-test-coverage-1ipk)
+- [AWS open source newsletter, #201](https://dev.to/aws/aws-open-source-newsletter-201-35j2)
+- [Building with and Testing Rapyd&#39;s OpenAPI](https://dev.to/rapyd/building-with-and-testing-rapyds-openapi-17le)
+- [Integrating Redis, MySQL, Kafka, Logstash, Elasticsearch, TiDB, and CloudCanal](https://dev.to/tj_27/integrating-redis-mysql-kafka-logstash-elasticsearch-tidb-and-cloudcanal-3leo)
+- [React: useState](https://dev.to/ken2511/react-usestate-pkc)
 <!-- BLOG-POST-LIST:END -->
 
