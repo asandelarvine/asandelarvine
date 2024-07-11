@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Linear Regression with NumPy: Step-by-Step Guide to Building and Optimizing Your First Model!](https://dev.to/moubarakmohame4/master-linear-regression-with-numpy-step-by-step-guide-to-building-and-optimizing-your-first-model-oo7)
-- [How to deploy a hub virtual network in Azure.](https://dev.to/tundeiness/how-to-deploy-a-hub-virtual-network-in-azure-14cj)
-- [Discord bot dashboard authentication &lpar;Nextjs&rpar;](https://dev.to/clxrityy/discord-bot-dashboard-authentication-nextjs-1ecg)
-- [Laravel Cheatsheet after making changes to a file](https://dev.to/msnmongare/laravel-cheatsheet-after-making-changes-to-a-file-a8b)
+- [New HTML &lt;dialog&gt; tag: An absolute game changer](https://dev.to/safdarali/new-html-tag-an-absolute-game-changer-3mg4)
+- [Apprenticeship &amp; Beyond👨🏾‍💻](https://dev.to/taariqelliott/apprenticeship-beyond-30ol)
+- [Introducing the Samsung Galaxy Watch Ultra: A Powerhouse of Smartwatch Innovation](https://dev.to/tomandjerry36/introducing-the-samsung-galaxy-watch-ultra-a-powerhouse-of-smartwatch-innovation-5a20)
+- [A Personalized News Summary AI Tool with me.](https://dev.to/sababu_/a-personalized-news-summary-ai-tool-with-me-79g)
 <!-- BLOG-POST-LIST:END -->
 
