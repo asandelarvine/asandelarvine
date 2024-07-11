@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic watermarking with imgproxy and Apache APISIX](https://dev.to/apisix/dynamic-watermarking-with-imgproxy-and-apache-apisix-1mc5)
-- [JavaScript Basics: Understanding Syntax and Structure](https://dev.to/buildwebcrumbs/javascript-basics-understanding-syntax-and-structure-5d9b)
-- [Email authentication - Understanding headers](https://dev.to/sweego/email-authentication-understanding-headers-1pn1)
-- [How to digitally sign a job offer letter.](https://dev.to/opensign001/how-to-digitally-sign-a-job-offer-letter-28i6)
+- [Elevate Your Blogging Experience Powerful Features](https://dev.to/muhammadaliaffan/elevate-your-blogging-experience-powerful-features-2lm9)
+- [GitHub Container Registry: How to push Docker images to GitHub 🐋](https://dev.to/webdeasy/github-container-registry-how-to-push-docker-images-to-github-5bk4)
+- [Three Prompt Libraries you should know as a AI Engineer](https://dev.to/portkey/three-prompt-libraries-you-should-know-as-a-ai-engineer-32m8)
+- [print &lpar;விளைவு&rpar; நிரல்](https://dev.to/neyakkoo/print-villaivu-nirl-37jn)
 <!-- BLOG-POST-LIST:END -->
 
