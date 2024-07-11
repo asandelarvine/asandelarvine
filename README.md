@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript to Typescript Tips](https://dev.to/kiranuknow/javascript-to-typescript-tips-1ine)
-- [Setup para Ruby / Rails: MacOS](https://dev.to/serradura/setup-para-ruby-rails-macos-5fa2)
-- [Why Do We Need Digital Marketing and Cutting-edge SEO Tools?](https://dev.to/juddiy/why-do-we-need-digital-marketing-and-cutting-edge-seo-tools-43jd)
-- [Navigating in Flutter: A Comprehensive Guide](https://dev.to/design_dev_4494d7953431b6/navigating-in-flutter-a-comprehensive-guide-49go)
+- [Improve TensorFlow model load time by ~70% using HDF5 instead of SavedModel](https://dev.to/dchaley/improve-tensorflow-model-load-time-by-70-using-hdf5-instead-of-savedmodel-5c8e)
+- [Make Cronjob Script With Log](https://dev.to/seno21/make-cronjob-script-with-log-aah)
+- [Detailed Guide to Configuring DBLink from GBase 8s to Oracle](https://dev.to/congcong/detailed-guide-to-configuring-dblink-from-gbase-8s-to-oracle-1g4m)
+- [Expand Multi-Row Text in A Cell to Multiple Cells](https://dev.to/judith677/expand-multi-row-text-in-a-cell-to-multiple-cells-gcf)
 <!-- BLOG-POST-LIST:END -->
 
