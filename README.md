@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #201](https://dev.to/aws/aws-open-source-newsletter-201-35j2)
-- [Building with and Testing Rapyd&#39;s OpenAPI](https://dev.to/rapyd/building-with-and-testing-rapyds-openapi-17le)
-- [Integrating Redis, MySQL, Kafka, Logstash, Elasticsearch, TiDB, and CloudCanal](https://dev.to/tj_27/integrating-redis-mysql-kafka-logstash-elasticsearch-tidb-and-cloudcanal-3leo)
-- [React: useState](https://dev.to/ken2511/react-usestate-pkc)
+- [Dynamic watermarking with imgproxy and Apache APISIX](https://dev.to/apisix/dynamic-watermarking-with-imgproxy-and-apache-apisix-1mc5)
+- [JavaScript Basics: Understanding Syntax and Structure](https://dev.to/buildwebcrumbs/javascript-basics-understanding-syntax-and-structure-5d9b)
+- [Email authentication - Understanding headers](https://dev.to/sweego/email-authentication-understanding-headers-1pn1)
+- [How to digitally sign a job offer letter.](https://dev.to/opensign001/how-to-digitally-sign-a-job-offer-letter-28i6)
 <!-- BLOG-POST-LIST:END -->
 
