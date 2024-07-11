@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customer Satisfaction: The Key to Success is an Efficient and Motivated Workforce](https://dev.to/wallacefreitas/customer-satisfaction-the-key-to-success-is-an-efficient-and-motivated-workforce-2l6n)
-- [[Java] Multi-threading - Nhiều luồng liệu có thực sự khiến chương trình của chúng ta trở nên nhanh hơn ?](https://dev.to/bu_0107/java-multi-threading-nhieu-luong-lieu-co-thuc-su-khien-chuong-trinh-cua-chung-ta-tro-nen-nhanh-hon--47bl)
-- [Understanding the Monad Design Pattern](https://dev.to/rmaurodev/understanding-the-monad-design-pattern-1d9e)
-- [De Xamarin.Forms a .NET MAUI: Uma Evolução Que Transcende Limites](https://dev.to/jucsantana05/de-xamarinforms-a-net-maui-uma-evolucao-que-transcende-limites-4b83)
+- [Javascript to Typescript Tips](https://dev.to/kiranuknow/javascript-to-typescript-tips-1ine)
+- [Setup para Ruby / Rails: MacOS](https://dev.to/serradura/setup-para-ruby-rails-macos-5fa2)
+- [Why Do We Need Digital Marketing and Cutting-edge SEO Tools?](https://dev.to/juddiy/why-do-we-need-digital-marketing-and-cutting-edge-seo-tools-43jd)
+- [Navigating in Flutter: A Comprehensive Guide](https://dev.to/design_dev_4494d7953431b6/navigating-in-flutter-a-comprehensive-guide-49go)
 <!-- BLOG-POST-LIST:END -->
 
