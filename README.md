@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Protect Source Code: Best Practices for NDAs](https://dev.to/mister_jerry_37e1ecf9b7f7/how-to-protect-source-code-best-practices-for-ndas-3nl1)
-- [how to show the app electronjs in the systemTray](https://dev.to/fwldom/how-to-show-the-app-electronjs-in-the-systemtray-4250)
-- [7 Essential Tips to Avoid Code Smells in Your Projects](https://dev.to/wallacefreitas/7-essential-tips-to-avoid-code-smells-in-your-projects-4fo8)
-- [Quiz Management System Project in Python | Django](https://dev.to/codzap/quiz-management-system-project-in-python-django-4f1j)
+- [Interesting programming factz 🧡](https://dev.to/aryan015/interesting-programming-factz-5cd0)
+- [Write cleaner code with Named Arguments in PHP | How to | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/write-cleaner-code-with-named-arguments-in-php-how-to-tutorial-quick-win-wednesday-qww-3hpd)
+- [Using whereAny&lpar;&rpar; for cleaner queries in Eloquent | Laravel | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/using-whereany-for-cleaner-queries-in-eloquent-laravel-tutorial-quick-win-wednesday-qww-1mph)
+- [Using whereAny&lpar;&rpar; for cleaner queries in Eloquent | Laravel | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/using-whereany-for-cleaner-queries-in-eloquent-laravel-tutorial-quick-win-wednesday-qww-4feb)
 <!-- BLOG-POST-LIST:END -->
 
