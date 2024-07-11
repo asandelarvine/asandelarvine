@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from MySQL to PostgreSQL](https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7)
-- [Day 29 of 30 of JavaScript](https://dev.to/akshat0610/day-29-of-30-of-javascript-4fom)
-- [Django AllAuth Chapter 2 - How to install and configure Django AllAuth](https://dev.to/doctorserone/django-allauth-chapter-2-how-to-install-and-configure-django-allauth-513p)
-- [Unlock the &quot;Beauty and Joy of Computing&quot; with UC Berkeley&#39;s Captivating Computer Science Course! 🤖](https://dev.to/getvm/unlock-the-beauty-and-joy-of-computing-with-uc-berkeleys-captivating-computer-science-course-9p5)
+- [THE EVOLUTION OF CLOUD HOSTING!](https://dev.to/1hamzabek/the-evolution-of-cloud-hosting-5g33)
+- [Optimizing Web Design with CSS Variables](https://dev.to/code_passion/optimizing-web-design-with-css-variables-h23)
+- [What is Blockchain Testing?](https://dev.to/testscenario/what-is-blockchain-testing-18nb)
+- [Husky and lint-staged: Keeping Code Consistent](https://dev.to/joylee/automating-code-quality-checks-with-husky-and-lint-staged-4ckg)
 <!-- BLOG-POST-LIST:END -->
 
