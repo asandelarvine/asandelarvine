@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Foremost ที่ไม่ใช่ นม](https://dev.to/iyosnu/foremost-thiiaimaich-nm-217d)
-- [Testing the new discord bot.](https://dev.to/aud/testing-the-new-discord-bot-2m9n)
-- [Implementando Transactional Outbox com Go, DynamoDB, MongoDB, Kafka e RabbitMq](https://dev.to/ederfmatos/implementando-transactional-outbox-com-go-dynamodb-e-mongodb-1kn3)
-- [[Game of Purpose] Day 53](https://dev.to/humberd/game-of-purpose-day-53-1j96)
+- [zsh: permission denied: ./gradlew](https://dev.to/deni_sugiarto_1a01ad7c3fb/zsh-permission-denied-gradlew-52dp)
+- [Destiny or Coincidence: Based on Shannon Perry s Experiment.](https://dev.to/chriisduran/destiny-or-coincidence-based-on-shannon-perry-s-experiment-5alj)
+- [Unlocking Intelligent Conversations with React AI ChatBot from Sista AI](https://dev.to/sista-ai/unlocking-intelligent-conversations-with-react-ai-chatbot-from-sista-ai-294l)
+- [Day 10 of my 90 Days Devops- Kubernetes Networking Fundamentals](https://dev.to/arbythecoder/day-10-of-my-90-days-devops-kubernetes-networking-fundamentals-50fa)
 <!-- BLOG-POST-LIST:END -->
 
