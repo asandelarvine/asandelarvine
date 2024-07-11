@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Gooey Blobs](https://dev.to/get_pieces/flutter-gooey-blobs-4b3o)
-- [Rewear: Transforming Sustainable Fashion with Wix E-commerce](https://dev.to/ketanrajpal/rewear-transforming-sustainable-fashion-with-wix-e-commerce-4l3a)
-- [Angular 18.1: Template Local Variables with @let](https://dev.to/debba/angular-181-template-local-variables-with-let-3mh9)
-- [The Battle of Databases: SQL, PostgreSQL, MongoDB, and Redis Explored](https://dev.to/aquibpy/the-battle-of-databases-sql-postgresql-mongodb-and-redis-explored-jbc)
+- [Master Linear Regression with NumPy: Step-by-Step Guide to Building and Optimizing Your First Model!](https://dev.to/moubarakmohame4/master-linear-regression-with-numpy-step-by-step-guide-to-building-and-optimizing-your-first-model-oo7)
+- [How to deploy a hub virtual network in Azure.](https://dev.to/tundeiness/how-to-deploy-a-hub-virtual-network-in-azure-14cj)
+- [Discord bot dashboard authentication &lpar;Nextjs&rpar;](https://dev.to/clxrityy/discord-bot-dashboard-authentication-nextjs-1ecg)
+- [Laravel Cheatsheet after making changes to a file](https://dev.to/msnmongare/laravel-cheatsheet-after-making-changes-to-a-file-a8b)
 <!-- BLOG-POST-LIST:END -->
 
