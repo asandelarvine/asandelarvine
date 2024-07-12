@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling All Senior Data Engineering Innovators!](https://dev.to/the_host_4404/calling-all-senior-data-engineering-innovators-1l5o)
-- [Setting Up a Node.js Project: A Step-by-Step Guide](https://dev.to/mahesh74/setting-up-a-nodejs-project-a-step-by-step-guide-c9l)
-- [PROVIDE A SHARED SERVICES HUB VIRTUAL NETWORK WITH ISOLATION AND SEGMENTATION](https://dev.to/kellyt/provide-a-shared-services-hub-virtual-network-with-isolation-and-segmentation-1m5j)
-- [Customizable and re-usable embedded views using NgTemplateOutlet in Angular &lpar;Declarative way&rpar;](https://dev.to/sabrymuhamad/customizable-and-re-usable-embedded-views-using-ngtemplateoutlet-in-angular-declarative-way-1kg)
+- [Data Science? Never Heard Of It.](https://dev.to/cyrildotexe/data-science-never-heard-of-it-4epf)
+- [Zplots: Collaborative Maps with Scalable Drawing and Secure Data Storage on Stellar](https://dev.to/hugo_silva_c33f29f9a29ed4/zplot-collaborative-maps-with-scalable-drawing-and-secure-data-storage-on-stellar-3efg)
+- [Embrace Eventual Consistency](https://dev.to/woovi/embrace-eventual-consistency-50f4)
+- [Le saviez vous ? - ?? vs ||](https://dev.to/tontz/le-saviez-vous-vs--3c03)
 <!-- BLOG-POST-LIST:END -->
 
