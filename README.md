@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Revolutionizing tech and society through innovation and ethics.](https://dev.to/dainwi/ai-revolutionizing-tech-and-society-through-innovation-and-ethics-4pe4)
-- [Unleashing the Future: Blockchain, Web 3.0, and Solidity](https://dev.to/mukunzi_ndahirojames_d6a/unleashing-the-future-blockchain-web-30-and-solidity-23ml)
-- [Create a Next.js AI Chatbot App with Vercel AI SDK](https://dev.to/milu_franz/create-a-nextjs-ai-chatbot-app-with-vercel-ai-sdk-42je)
-- [⚡ MySecondApp - React Native with Expo &lpar;P5&rpar;- Custom Bottom Tabs Navigator](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p5-custom-bottom-tabs-navigator-fd0)
+- [Understanding Vite Flow and Structure in a React Project](https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84)
+- [Calculating Adaptive Threshold in OpenCV](https://dev.to/catheryn/calculating-adaptive-threshold-in-opencv-1hh3)
+- [HealthHub - Your Complete Wellness Companion 🏥💪](https://dev.to/sneha422/healthhub-your-complete-wellness-companion-37c1)
+- [Website Traffic Strategies: Comparing SEO and Content Promotion](https://dev.to/juddiy/website-traffic-strategies-comparing-seo-and-content-promotion-4m5b)
 <!-- BLOG-POST-LIST:END -->
 
