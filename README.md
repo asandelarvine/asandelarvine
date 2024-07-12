@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Admin: customize the auth system](https://dev.to/kwnaidoo/django-admin-customize-the-auth-system-58pd)
-- [App landing page](https://dev.to/paul_freeman/app-landing-page-20k7)
-- [Task 4](https://dev.to/tamizh/task-4-5b21)
-- [Elevating Cloud Security: Highlights from CloudNativeSecurityCon 2024](https://dev.to/gitguardian/elevating-cloud-security-highlights-from-cloudnativesecuritycon-2024-203g)
+- [I Made ChatGPT Take the Myers–Briggs Personality Test &lpar;then I made him write an article about it&rpar;](https://dev.to/nikolab/i-made-chatgpt-take-the-myers-briggs-personality-test-than-i-made-him-write-an-article-about-it-3gk1)
+- [Transforming Simplicity: Adapting Linear Regression to Capture Complex Non-Linear Phenomena with NumPy](https://dev.to/moubarakmohame4/transforming-simplicity-adapting-linear-regression-to-capture-complex-non-linear-phenomena-with-numpy-5efn)
+- [Mastering Database Merging: Comparing Different Approaches](https://dev.to/andreaslennartz/mastering-database-merging-comparing-different-approaches-3ggf)
+- [HOW TO CREATE AN AZURE VITUAL MACHINE SCALE SET.](https://dev.to/phillip_ajifowobaje_68724/how-to-create-an-azure-vitual-machine-scale-set-lnm)
 <!-- BLOG-POST-LIST:END -->
 
