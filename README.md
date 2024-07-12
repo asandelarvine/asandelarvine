@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science? Never Heard Of It.](https://dev.to/cyrildotexe/data-science-never-heard-of-it-4epf)
-- [Zplots: Collaborative Maps with Scalable Drawing and Secure Data Storage on Stellar](https://dev.to/hugo_silva_c33f29f9a29ed4/zplot-collaborative-maps-with-scalable-drawing-and-secure-data-storage-on-stellar-3efg)
-- [Embrace Eventual Consistency](https://dev.to/woovi/embrace-eventual-consistency-50f4)
-- [Le saviez vous ? - ?? vs ||](https://dev.to/tontz/le-saviez-vous-vs--3c03)
+- [Django Admin: customize the auth system](https://dev.to/kwnaidoo/django-admin-customize-the-auth-system-58pd)
+- [App landing page](https://dev.to/paul_freeman/app-landing-page-20k7)
+- [Task 4](https://dev.to/tamizh/task-4-5b21)
+- [Elevating Cloud Security: Highlights from CloudNativeSecurityCon 2024](https://dev.to/gitguardian/elevating-cloud-security-highlights-from-cloudnativesecuritycon-2024-203g)
 <!-- BLOG-POST-LIST:END -->
 
