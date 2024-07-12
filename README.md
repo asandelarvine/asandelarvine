@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [YOU DON&#39;T KNOW THESE HTML TAGS! 🫣](https://dev.to/mb337/you-dont-know-these-html-tags-1629)
-- [Installation of Python, Pycharm, Selenium and Web Drivers](https://dev.to/michael_chepala_7267688a0/installation-of-python-pycharm-selenium-and-web-drivers-509)
-- [SWE Interview 101: What’s the deal with take-home projects?](https://dev.to/fahimulhaq/swe-interview-101-whats-the-deal-with-take-home-projects-351a)
-- [How to Comply Your AWS Infrastructure with PCI-DSS](https://dev.to/awais_684/how-to-comply-your-aws-infrastructure-with-pci-dss-3ep0)
+- [Demonstration of Basic JDBC Operations with GBase 8s](https://dev.to/congcong/demonstration-of-basic-jdbc-operations-with-gbase-8s-1dm)
+- [Introduction to GBase 8c B Compatibility Library &lpar;2&rpar;](https://dev.to/congcong/introduction-to-gbase-8c-b-compatibility-library-2-2bcn)
+- [The Era of LLM Agents: Next Big Wave in Knowledge Management](https://dev.to/ragavi_document360/the-era-of-llm-agents-next-big-wave-in-knowledge-management-3mm3)
+- [What is Offline Authentication](https://dev.to/blogginger/what-is-offline-authentication-4a37)
 <!-- BLOG-POST-LIST:END -->
 
