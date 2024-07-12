@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 3 JavaScript Concepts Every Developer Should Know](https://dev.to/devstoriesplayground/top-3-javascript-concepts-every-developer-should-know-5bjm)
-- [HOW TO CREATE AN AZURE VIRTUAL NETWORK WITH MULTIPLE SUBNETS USING SPECIFIED ADDRESS SPACE](https://dev.to/presh1/how-to-create-an-azure-virtual-network-with-multiple-subnets-using-specified-address-space-2ph2)
-- [#Milvus Adventures July 12, 2024](https://dev.to/chrischurilo/milvus-adventures-july-12-2024-4djb)
-- [API Endpoints: Simplified With Autonomous Agents](https://dev.to/itsrorymurphy/api-endpoints-simplified-with-autonomous-agents-4g1a)
+- [How to avoid one of the biggest risks in mobile security as an iOS developer](https://dev.to/alex_lotsu/how-to-avoid-one-of-the-biggest-risks-in-mobile-security-as-an-ios-developer-1hd)
+- [📝The Terraform Getting Started Guide 🚀](https://dev.to/tungbq/the-terraform-getting-started-guide-3oe2)
+- [REST vs. GraphQL: Choosing the Right API for Your Project](https://dev.to/wallacefreitas/rest-vs-graphql-choosing-the-right-api-for-your-project-4if9)
+- [HOW TO PUSH CODE FROM A LOCAL REPOSITORY TO A REMOTE REPOSITORY LIKE GITHUB USING GIT BASH](https://dev.to/kellyt/how-to-configure-and-push-a-resume-from-a-local-to-a-remote-repository-like-github-4jaj)
 <!-- BLOG-POST-LIST:END -->
 
