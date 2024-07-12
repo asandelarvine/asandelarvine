@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#24 — Repeat the Value of Each Cell N times According to the Value of the Neighboring cell](https://dev.to/judith677/24-repeat-the-value-of-each-cell-n-times-according-to-the-value-of-the-neighboring-cell-1fb4)
-- [How to Use the Gemini API: A Comprehensive Guide](https://dev.to/rajprajapati/how-to-use-the-gemini-api-a-comprehensive-guide-4bcg)
-- [Unit Tests &amp; Mocking: the bread and the butter](https://dev.to/ossan/unit-tests-mocking-the-bread-and-the-butter-1hap)
-- [Create a Spotify Playlist Generator with Arcjet Protection](https://dev.to/arindam_1729/create-a-spotify-playlist-generator-with-arcjet-protection-2j93)
+- [A User-Friendly Web Security WAF Product - Safeline](https://dev.to/motorbuy6/a-user-friendly-web-security-waf-product-safeline-2pk5)
+- [Configuración de Husky, lint-staged y Prettier para fromatear en precommit.](https://dev.to/franlopez/configuracion-de-husky-lint-staged-y-prettier-para-fromatear-en-precommit-ilj)
+- [A Comprehensive Guide to Android NDK Development with Android Studio](https://dev.to/wetest/a-comprehensive-guide-to-android-ndk-development-with-android-studio-1d5c)
+- [Frontend Libraries for Your Next Project](https://dev.to/matin676/frontend-libraries-for-your-next-project-4fkl)
 <!-- BLOG-POST-LIST:END -->
 
