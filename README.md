@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 WordPress page builders from a web developer&#39;s perspective](https://dev.to/ingosteinke/5-wordpress-page-builders-from-a-web-developers-perspective-259j)
-- [Docker Installation in Windows: Easy for beginners](https://dev.to/rakibtweets/docker-installation-in-windows-easy-for-beginners-1cca)
-- [How to explain to your family what you do 🤯🧠🧙🏼](https://dev.to/buildwebcrumbs/how-to-explain-to-your-family-what-you-do-1358)
-- [Angular Tutorial: Creating a Custom Loading Screen](https://dev.to/brianmtreese/angular-tutorial-creating-a-custom-loading-screen-54i6)
+- [Your First Programming Language: A Strategic Guide for Beginners](https://dev.to/sharoztanveer/your-first-programming-language-a-strategic-guide-for-beginners-29ka)
+- [Why We Ditched Vercel for Our NodeJS App](https://dev.to/jetify/why-we-ditched-vercel-for-our-nodejs-app-1jga)
+- [Effective Strategies for Troubleshooting MongoDB Wait Events in Long-Running Query Operations](https://dev.to/shiviyer/effective-strategies-for-troubleshooting-mongodb-wait-events-in-long-running-query-operations-2j3e)
+- [How To Scrape Web Applications Using Puppeteer](https://dev.to/oktimmy/how-to-scrape-web-applications-using-puppeteer-pnk)
 <!-- BLOG-POST-LIST:END -->
 
