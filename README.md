@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Kubernetes locally with Kind and .NET 8 &lpar;plus a bonus with Lens&rpar;](https://dev.to/thomazperes/running-kubernetes-locally-with-kind-and-net-8-plus-a-bonus-with-lens-oi8)
-- [Exploring the Internet Computer Protocol &lpar;ICP&rpar;](https://dev.to/kartikmehta8/exploring-the-internet-computer-protocol-icp-4bp8)
-- [Recursion vs Loop: a low-level analysis](https://dev.to/lucaslealllc/recursion-vs-loop-a-low-level-analysis-4akc)
-- [Optimizing Data Manipulation with JavaScript&#39;s reduce Method](https://dev.to/ayoashy/optimizing-data-manipulation-with-javascripts-reduce-method-e2l)
+- [AI Revolutionizing tech and society through innovation and ethics.](https://dev.to/dainwi/ai-revolutionizing-tech-and-society-through-innovation-and-ethics-4pe4)
+- [Unleashing the Future: Blockchain, Web 3.0, and Solidity](https://dev.to/mukunzi_ndahirojames_d6a/unleashing-the-future-blockchain-web-30-and-solidity-23ml)
+- [Create a Next.js AI Chatbot App with Vercel AI SDK](https://dev.to/milu_franz/create-a-nextjs-ai-chatbot-app-with-vercel-ai-sdk-42je)
+- [⚡ MySecondApp - React Native with Expo &lpar;P5&rpar;- Custom Bottom Tabs Navigator](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p5-custom-bottom-tabs-navigator-fd0)
 <!-- BLOG-POST-LIST:END -->
 
