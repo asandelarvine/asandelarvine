@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New HTML &lt;dialog&gt; tag: An absolute game changer](https://dev.to/safdarali/new-html-tag-an-absolute-game-changer-3mg4)
-- [Apprenticeship &amp; Beyond👨🏾‍💻](https://dev.to/taariqelliott/apprenticeship-beyond-30ol)
-- [Introducing the Samsung Galaxy Watch Ultra: A Powerhouse of Smartwatch Innovation](https://dev.to/tomandjerry36/introducing-the-samsung-galaxy-watch-ultra-a-powerhouse-of-smartwatch-innovation-5a20)
-- [A Personalized News Summary AI Tool with me.](https://dev.to/sababu_/a-personalized-news-summary-ai-tool-with-me-79g)
+- [Running Kubernetes locally with Kind and .NET 8 &lpar;plus a bonus with Lens&rpar;](https://dev.to/thomazperes/running-kubernetes-locally-with-kind-and-net-8-plus-a-bonus-with-lens-oi8)
+- [Exploring the Internet Computer Protocol &lpar;ICP&rpar;](https://dev.to/kartikmehta8/exploring-the-internet-computer-protocol-icp-4bp8)
+- [Recursion vs Loop: a low-level analysis](https://dev.to/lucaslealllc/recursion-vs-loop-a-low-level-analysis-4akc)
+- [Optimizing Data Manipulation with JavaScript&#39;s reduce Method](https://dev.to/ayoashy/optimizing-data-manipulation-with-javascripts-reduce-method-e2l)
 <!-- BLOG-POST-LIST:END -->
 
