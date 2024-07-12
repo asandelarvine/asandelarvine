@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 JavaScript Libraries for Building Interactive UI 🌟](https://dev.to/dipakahirav/top-5-javascript-libraries-for-building-interactive-ui-1lnd)
-- [Find All Top-level Folders from a List of Folders #eg10](https://dev.to/esproc_spl/find-all-top-level-folders-from-a-list-of-folders-eg10-1pee)
-- [How to install open-source PAM JumpServer in your server?](https://dev.to/35plus/how-to-install-open-source-pam-jumpserver-in-your-server-4phd)
-- [Brainwave Website](https://dev.to/sudhanshuambastha/brainwave-website-lk7)
+- [YOU DON&#39;T KNOW THESE HTML TAGS! 🫣](https://dev.to/mb337/you-dont-know-these-html-tags-1629)
+- [Installation of Python, Pycharm, Selenium and Web Drivers](https://dev.to/michael_chepala_7267688a0/installation-of-python-pycharm-selenium-and-web-drivers-509)
+- [SWE Interview 101: What’s the deal with take-home projects?](https://dev.to/fahimulhaq/swe-interview-101-whats-the-deal-with-take-home-projects-351a)
+- [How to Comply Your AWS Infrastructure with PCI-DSS](https://dev.to/awais_684/how-to-comply-your-aws-infrastructure-with-pci-dss-3ep0)
 <!-- BLOG-POST-LIST:END -->
 
