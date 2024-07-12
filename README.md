@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made ChatGPT Take the Myers–Briggs Personality Test &lpar;then I made him write an article about it&rpar;](https://dev.to/nikolab/i-made-chatgpt-take-the-myers-briggs-personality-test-than-i-made-him-write-an-article-about-it-3gk1)
-- [Transforming Simplicity: Adapting Linear Regression to Capture Complex Non-Linear Phenomena with NumPy](https://dev.to/moubarakmohame4/transforming-simplicity-adapting-linear-regression-to-capture-complex-non-linear-phenomena-with-numpy-5efn)
-- [Mastering Database Merging: Comparing Different Approaches](https://dev.to/andreaslennartz/mastering-database-merging-comparing-different-approaches-3ggf)
-- [HOW TO CREATE AN AZURE VITUAL MACHINE SCALE SET.](https://dev.to/phillip_ajifowobaje_68724/how-to-create-an-azure-vitual-machine-scale-set-lnm)
+- [Top 3 JavaScript Concepts Every Developer Should Know](https://dev.to/devstoriesplayground/top-3-javascript-concepts-every-developer-should-know-5bjm)
+- [HOW TO CREATE AN AZURE VIRTUAL NETWORK WITH MULTIPLE SUBNETS USING SPECIFIED ADDRESS SPACE](https://dev.to/presh1/how-to-create-an-azure-virtual-network-with-multiple-subnets-using-specified-address-space-2ph2)
+- [#Milvus Adventures July 12, 2024](https://dev.to/chrischurilo/milvus-adventures-july-12-2024-4djb)
+- [API Endpoints: Simplified With Autonomous Agents](https://dev.to/itsrorymurphy/api-endpoints-simplified-with-autonomous-agents-4g1a)
 <!-- BLOG-POST-LIST:END -->
 
