@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to avoid one of the biggest risks in mobile security as an iOS developer](https://dev.to/alex_lotsu/how-to-avoid-one-of-the-biggest-risks-in-mobile-security-as-an-ios-developer-1hd)
-- [📝The Terraform Getting Started Guide 🚀](https://dev.to/tungbq/the-terraform-getting-started-guide-3oe2)
-- [REST vs. GraphQL: Choosing the Right API for Your Project](https://dev.to/wallacefreitas/rest-vs-graphql-choosing-the-right-api-for-your-project-4if9)
-- [HOW TO PUSH CODE FROM A LOCAL REPOSITORY TO A REMOTE REPOSITORY LIKE GITHUB USING GIT BASH](https://dev.to/kellyt/how-to-configure-and-push-a-resume-from-a-local-to-a-remote-repository-like-github-4jaj)
+- [Summarize articles with Cloudflare Workers AI LoRAs](https://dev.to/cloudflare/summarize-articles-with-cloudflare-workers-ai-loras-2mkd)
+- [Custom signup redirection to external URL not working](https://dev.to/nazmul_alom_dfd38a4363246/custom-signup-redirection-to-external-url-not-working-260c)
+- [Getting Started with Your CDK TypeScript Project](https://dev.to/sates/getting-started-with-your-cdk-typescript-project-254e)
+- [How 2 Hours Cost Me Tens of Thousands of Dollars](https://dev.to/aslisachin/how-2-hours-cost-me-tens-of-thousands-of-dollars-194f)
 <!-- BLOG-POST-LIST:END -->
 
