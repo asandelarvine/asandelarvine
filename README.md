@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demonstration of Basic JDBC Operations with GBase 8s](https://dev.to/congcong/demonstration-of-basic-jdbc-operations-with-gbase-8s-1dm)
-- [Introduction to GBase 8c B Compatibility Library &lpar;2&rpar;](https://dev.to/congcong/introduction-to-gbase-8c-b-compatibility-library-2-2bcn)
-- [The Era of LLM Agents: Next Big Wave in Knowledge Management](https://dev.to/ragavi_document360/the-era-of-llm-agents-next-big-wave-in-knowledge-management-3mm3)
-- [What is Offline Authentication](https://dev.to/blogginger/what-is-offline-authentication-4a37)
+- [#24 — Repeat the Value of Each Cell N times According to the Value of the Neighboring cell](https://dev.to/judith677/24-repeat-the-value-of-each-cell-n-times-according-to-the-value-of-the-neighboring-cell-1fb4)
+- [How to Use the Gemini API: A Comprehensive Guide](https://dev.to/rajprajapati/how-to-use-the-gemini-api-a-comprehensive-guide-4bcg)
+- [Unit Tests &amp; Mocking: the bread and the butter](https://dev.to/ossan/unit-tests-mocking-the-bread-and-the-butter-1hap)
+- [Create a Spotify Playlist Generator with Arcjet Protection](https://dev.to/arindam_1729/create-a-spotify-playlist-generator-with-arcjet-protection-2j93)
 <!-- BLOG-POST-LIST:END -->
 
