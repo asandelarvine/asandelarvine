@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #139: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-139-explica-este-codigo-python-37ic)
-- [Why Metrics Are Important](https://dev.to/litlyx-org/why-metrics-are-important-1fbc)
-- [Intersection of AI and Data Privacy](https://dev.to/calsoftinc/intersection-of-ai-and-data-privacy-2d0g)
-- [Agile Methodologies and Best Practices](https://dev.to/sumit_01/agile-methodologies-and-best-practices-34md)
+- [Calling All Senior Data Engineering Innovators!](https://dev.to/the_host_4404/calling-all-senior-data-engineering-innovators-1l5o)
+- [Setting Up a Node.js Project: A Step-by-Step Guide](https://dev.to/mahesh74/setting-up-a-nodejs-project-a-step-by-step-guide-c9l)
+- [PROVIDE A SHARED SERVICES HUB VIRTUAL NETWORK WITH ISOLATION AND SEGMENTATION](https://dev.to/kellyt/provide-a-shared-services-hub-virtual-network-with-isolation-and-segmentation-1m5j)
+- [Customizable and re-usable embedded views using NgTemplateOutlet in Angular &lpar;Declarative way&rpar;](https://dev.to/sabrymuhamad/customizable-and-re-usable-embedded-views-using-ngtemplateoutlet-in-angular-declarative-way-1kg)
 <!-- BLOG-POST-LIST:END -->
 
