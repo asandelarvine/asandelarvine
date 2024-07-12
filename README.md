@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Lenses #9](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-lenses-9-3217)
-- [Simplify CAPTCHA Implementation with EasyCaptchaJs! 🎉🔐](https://dev.to/hichemtab-tech/simplify-captcha-implementation-with-easycaptchajs-95f)
-- [BASIC CSS SELECTORS](https://dev.to/kemiowoyele1/basic-css-selectors-4182)
-- [Day 3 - Coming Soon](https://dev.to/ryoichihomma/day-3-coming-soon-1l32)
+- [¿Quieres aprender a programar?, y gratis? Aquí te dejo unos sitios web](https://dev.to/rodrigofernandez/quieres-aprender-a-programar-y-gratis-aqui-te-dejo-unos-sitios-web-fg0)
+- [Cómo desplegar aplicaciones mainframe refactorizadas en AWS](https://dev.to/aws-espanol/como-desplegar-aplicaciones-mainframe-refactorizadas-en-aws-2m1c)
+- [Sharekart](https://dev.to/salman2301/sharekart-4i48)
+- [Day 990 : Opportunity Knocks](https://dev.to/dwane/day-990-opportunity-knocks-59h2)
 <!-- BLOG-POST-LIST:END -->
 
