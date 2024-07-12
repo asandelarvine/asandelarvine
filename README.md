@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 55](https://dev.to/humberd/game-of-purpose-day-55-1j8k)
-- [Deploying a Django App to Kubernetes with Amazon ECR and EKS](https://dev.to/aktran321/deploying-a-django-app-to-kubernetes-with-amazon-ecr-and-eks-3736)
-- [Vulnerability Detection with Code Language Models: How Far Are We?](https://dev.to/mikeyoung44/vulnerability-detection-with-code-language-models-how-far-are-we-1c1i)
-- [Simulacra as Conscious Exotica](https://dev.to/mikeyoung44/simulacra-as-conscious-exotica-3f6i)
+- [Introduction to Functional Programming in JavaScript: Lenses #9](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-lenses-9-3217)
+- [Simplify CAPTCHA Implementation with EasyCaptchaJs! 🎉🔐](https://dev.to/hichemtab-tech/simplify-captcha-implementation-with-easycaptchajs-95f)
+- [BASIC CSS SELECTORS](https://dev.to/kemiowoyele1/basic-css-selectors-4182)
+- [Day 3 - Coming Soon](https://dev.to/ryoichihomma/day-3-coming-soon-1l32)
 <!-- BLOG-POST-LIST:END -->
 
