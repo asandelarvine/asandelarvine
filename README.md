@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Vite Flow and Structure in a React Project](https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84)
-- [Calculating Adaptive Threshold in OpenCV](https://dev.to/catheryn/calculating-adaptive-threshold-in-opencv-1hh3)
-- [HealthHub - Your Complete Wellness Companion 🏥💪](https://dev.to/sneha422/healthhub-your-complete-wellness-companion-37c1)
-- [Website Traffic Strategies: Comparing SEO and Content Promotion](https://dev.to/juddiy/website-traffic-strategies-comparing-seo-and-content-promotion-4m5b)
+- [Part 2: Learning HTML](https://dev.to/dgarcia1399/part-2-learning-html-ide)
+- [Solving the Pass The Pillow Problem in C# With 2 Easy Algorithms](https://dev.to/rk042/solving-the-pass-the-pillow-problem-in-c-with-2-easy-algorithms-4n9k)
+- [Review: Fifine Ampligame AM6 Condenser Mic](https://dev.to/nickytonline/review-fifine-ampligame-am6-condenser-mic-714)
+- [Mastering File Management with Ansible](https://dev.to/labex/mastering-file-management-with-ansible-593o)
 <!-- BLOG-POST-LIST:END -->
 
