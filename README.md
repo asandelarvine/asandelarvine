@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A User-Friendly Web Security WAF Product - Safeline](https://dev.to/motorbuy6/a-user-friendly-web-security-waf-product-safeline-2pk5)
-- [Configuración de Husky, lint-staged y Prettier para fromatear en precommit.](https://dev.to/franlopez/configuracion-de-husky-lint-staged-y-prettier-para-fromatear-en-precommit-ilj)
-- [A Comprehensive Guide to Android NDK Development with Android Studio](https://dev.to/wetest/a-comprehensive-guide-to-android-ndk-development-with-android-studio-1d5c)
-- [Frontend Libraries for Your Next Project](https://dev.to/matin676/frontend-libraries-for-your-next-project-4fkl)
+- [Ibuprofeno.py💊| #139: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-139-explica-este-codigo-python-37ic)
+- [Why Metrics Are Important](https://dev.to/litlyx-org/why-metrics-are-important-1fbc)
+- [Intersection of AI and Data Privacy](https://dev.to/calsoftinc/intersection-of-ai-and-data-privacy-2d0g)
+- [Agile Methodologies and Best Practices](https://dev.to/sumit_01/agile-methodologies-and-best-practices-34md)
 <!-- BLOG-POST-LIST:END -->
 
