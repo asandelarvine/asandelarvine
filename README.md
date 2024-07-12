@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Summarize articles with Cloudflare Workers AI LoRAs](https://dev.to/cloudflare/summarize-articles-with-cloudflare-workers-ai-loras-2mkd)
-- [Custom signup redirection to external URL not working](https://dev.to/nazmul_alom_dfd38a4363246/custom-signup-redirection-to-external-url-not-working-260c)
-- [Getting Started with Your CDK TypeScript Project](https://dev.to/sates/getting-started-with-your-cdk-typescript-project-254e)
-- [How 2 Hours Cost Me Tens of Thousands of Dollars](https://dev.to/aslisachin/how-2-hours-cost-me-tens-of-thousands-of-dollars-194f)
+- [5 WordPress page builders from a web developer&#39;s perspective](https://dev.to/ingosteinke/5-wordpress-page-builders-from-a-web-developers-perspective-259j)
+- [Docker Installation in Windows: Easy for beginners](https://dev.to/rakibtweets/docker-installation-in-windows-easy-for-beginners-1cca)
+- [How to explain to your family what you do 🤯🧠🧙🏼](https://dev.to/buildwebcrumbs/how-to-explain-to-your-family-what-you-do-1358)
+- [Angular Tutorial: Creating a Custom Loading Screen](https://dev.to/brianmtreese/angular-tutorial-creating-a-custom-loading-screen-54i6)
 <!-- BLOG-POST-LIST:END -->
 
