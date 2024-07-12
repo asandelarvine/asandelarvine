@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Learning HTML](https://dev.to/dgarcia1399/part-2-learning-html-ide)
-- [Solving the Pass The Pillow Problem in C# With 2 Easy Algorithms](https://dev.to/rk042/solving-the-pass-the-pillow-problem-in-c-with-2-easy-algorithms-4n9k)
-- [Review: Fifine Ampligame AM6 Condenser Mic](https://dev.to/nickytonline/review-fifine-ampligame-am6-condenser-mic-714)
-- [Mastering File Management with Ansible](https://dev.to/labex/mastering-file-management-with-ansible-593o)
+- [10 essential tips to supercharge VS Code and code faster](https://dev.to/manojgohel/10-essential-tips-to-supercharge-vs-code-and-code-faster-5b0c)
+- [THE ROLE OF SEMANTIC HTML IN ENHANCING SEO AND WEB ACCESSIBILITY](https://dev.to/kevin_kimtai/the-role-of-semantic-html-in-enhancing-seo-and-web-accessibility-3k7c)
+- [BDD - Desenvolvimento Orientado pelo Comportamento](https://dev.to/yuri-aprendendoqa/bdd-desenvolvimento-orientado-pelo-comportamento-32n3)
+- [Mastering Go: A Comprehensive Guide to Building Production-Ready Apps 🚀](https://dev.to/getvm/mastering-go-a-comprehensive-guide-to-building-production-ready-apps-4eoj)
 <!-- BLOG-POST-LIST:END -->
 
