@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 essential tips to supercharge VS Code and code faster](https://dev.to/manojgohel/10-essential-tips-to-supercharge-vs-code-and-code-faster-5b0c)
-- [THE ROLE OF SEMANTIC HTML IN ENHANCING SEO AND WEB ACCESSIBILITY](https://dev.to/kevin_kimtai/the-role-of-semantic-html-in-enhancing-seo-and-web-accessibility-3k7c)
-- [BDD - Desenvolvimento Orientado pelo Comportamento](https://dev.to/yuri-aprendendoqa/bdd-desenvolvimento-orientado-pelo-comportamento-32n3)
-- [Mastering Go: A Comprehensive Guide to Building Production-Ready Apps 🚀](https://dev.to/getvm/mastering-go-a-comprehensive-guide-to-building-production-ready-apps-4eoj)
+- [Top 5 JavaScript Libraries for Building Interactive UI 🌟](https://dev.to/dipakahirav/top-5-javascript-libraries-for-building-interactive-ui-1lnd)
+- [Find All Top-level Folders from a List of Folders #eg10](https://dev.to/esproc_spl/find-all-top-level-folders-from-a-list-of-folders-eg10-1pee)
+- [How to install open-source PAM JumpServer in your server?](https://dev.to/35plus/how-to-install-open-source-pam-jumpserver-in-your-server-4phd)
+- [Brainwave Website](https://dev.to/sudhanshuambastha/brainwave-website-lk7)
 <!-- BLOG-POST-LIST:END -->
 
