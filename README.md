@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your First Programming Language: A Strategic Guide for Beginners](https://dev.to/sharoztanveer/your-first-programming-language-a-strategic-guide-for-beginners-29ka)
-- [Why We Ditched Vercel for Our NodeJS App](https://dev.to/jetify/why-we-ditched-vercel-for-our-nodejs-app-1jga)
-- [Effective Strategies for Troubleshooting MongoDB Wait Events in Long-Running Query Operations](https://dev.to/shiviyer/effective-strategies-for-troubleshooting-mongodb-wait-events-in-long-running-query-operations-2j3e)
-- [How To Scrape Web Applications Using Puppeteer](https://dev.to/oktimmy/how-to-scrape-web-applications-using-puppeteer-pnk)
+- [[Game of Purpose] Day 55](https://dev.to/humberd/game-of-purpose-day-55-1j8k)
+- [Deploying a Django App to Kubernetes with Amazon ECR and EKS](https://dev.to/aktran321/deploying-a-django-app-to-kubernetes-with-amazon-ecr-and-eks-3736)
+- [Vulnerability Detection with Code Language Models: How Far Are We?](https://dev.to/mikeyoung44/vulnerability-detection-with-code-language-models-how-far-are-we-1c1i)
+- [Simulacra as Conscious Exotica](https://dev.to/mikeyoung44/simulacra-as-conscious-exotica-3f6i)
 <!-- BLOG-POST-LIST:END -->
 
