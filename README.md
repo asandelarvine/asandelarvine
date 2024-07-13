@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oops at 28 Jun 2024](https://dev.to/teminian/oops-at-28-jun-2024-ead)
-- [Generative AI and Personalized Experiences: From Chatbots to Recommendation Systems](https://dev.to/hariharaswq/generative-ai-and-personalized-experiences-from-chatbots-to-recommendation-systems-1o5o)
-- [You&#39;re facing conflicts with your boss. How can you resolve them without harming your relationship?](https://dev.to/gourav_sharma_00/youre-facing-conflicts-with-your-boss-how-can-you-resolve-them-without-harming-your-relationship-4bnc)
-- [How to Create and Publish a WordPress Plugin](https://dev.to/sh20raj/how-to-create-and-publish-a-wordpress-plugin-3bbi)
+- [Pics Shade Image Offload + Optimize + Resize wordpress plugin](https://dev.to/sh20raj/pics-shade-image-offload-optimize-resize-wordpress-plugin-1fg0)
+- [Node Docker App](https://dev.to/nisharga_kabir/node-docker-app-2f1e)
+- [Exploring JavaScript Array Methods with Examples](https://dev.to/suleman_ahmed_rajput/exploring-javascript-array-methods-with-examples-3p90)
+- [Unlock the Power of Node.js with Design Patterns 🚀](https://dev.to/getvm/unlock-the-power-of-nodejs-with-design-patterns-5a14)
 <!-- BLOG-POST-LIST:END -->
 
