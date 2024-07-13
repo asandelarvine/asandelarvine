@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/zubair_abdullah/hello-1ilm)
-- [From Zero to K8s Hero: 5 Must-Have Tools for Kubernetes](https://dev.to/cloudnative_eng/from-zero-to-k8s-hero-5-must-have-tools-for-kubernetes-4hia)
-- [How to add new Node version to Laragon](https://dev.to/fullstackhardev/how-to-add-new-node-version-to-laragon-5hjh)
-- [WordPress 6.6: What’s new for developers? news in july 10th](https://dev.to/hub24/wordpress-66-whats-new-for-developers-news-in-july-10th-2kk9)
+- [Remove Nth from end of linked list](https://dev.to/johnscode/remove-nth-from-end-of-linked-list-54bf)
+- [Comandos Avanzados](https://dev.to/miltondiazco/comandos-avanzados-3a10)
+- [Comandos de Red](https://dev.to/miltondiazco/comandos-de-red-560)
+- [Comandos de Fecha](https://dev.to/miltondiazco/comandos-de-fecha-306e)
 <!-- BLOG-POST-LIST:END -->
 
