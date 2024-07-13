@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Next.Js configuration](https://dev.to/itzsrikanth/my-nextjs-configuration-5fbh)
-- [The Truth About Learning Python in 2024](https://dev.to/halimshams/the-truth-about-learning-python-in-2024-4m8m)
-- [Types of Cloud Computing](https://dev.to/1hamzabek/types-of-cloud-computing-4965)
-- [From Zero to Hero: Build Full stack Food Delivery App using Next.js and PostgreSQL](https://dev.to/lakshmananarumugam/from-zero-to-hero-build-full-stack-food-delivery-app-using-nextjs-and-postgresql-4ebo)
+- [Enhancing Web Performance with Image Sprites](https://dev.to/mdhassanpatwary/enhancing-web-performance-with-image-sprites-54n5)
+- [Boost Engagement with Katorymnd Reaction Process Plugin](https://dev.to/katorymnddev/boost-engagement-with-katorymnd-reaction-process-a-wordpress-5510)
+- [Advanced Techniques for Detecting and Preventing JavaScript Injection Attacks](https://dev.to/rigalpatel001/advanced-techniques-for-detecting-and-preventing-javascript-injection-attacks-4n61)
+- [O Laço do-while em Java](https://dev.to/devsjavagirls/o-laco-do-while-em-java-1io3)
 <!-- BLOG-POST-LIST:END -->
 
