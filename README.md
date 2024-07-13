@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Funniest and Hilarious React JS Memes](https://dev.to/codeitbro/10-funniest-and-hilarious-react-js-memes-2aod)
-- [TensorFlow for Beginners: Your First Neural Network](https://dev.to/rajprajapati/tensorflow-for-beginners-your-first-neural-network-2kjm)
-- [🥳Entering into 5K🔥](https://dev.to/swhabitation/entering-into-5k-24an)
-- [Know Backend of Stake’s Mine Game](https://dev.to/hemantcode625/know-backend-of-stakes-mine-game-2d11)
+- [Ibuprofeno.py💊| #140: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-140-explica-este-codigo-python-cfn)
+- [Introduction to Cloud☁ Computing and AWS](https://dev.to/noorscript/introduction-to-cloud-computing-and-aws-29il)
+- [Testing Components In Angular: NO ERRORS SCHEMA, Stub Components, and NgMocks](https://dev.to/this-is-angular/testing-components-in-angular-no-errors-schema-stub-components-and-ngmocks-2bih)
+- [Understanding the Difference Between `Array&lt;T&gt;` and `T[]` in TypeScript](https://dev.to/cole_ruche/understanding-the-difference-between-array-and-t-in-typescript-55g3)
 <!-- BLOG-POST-LIST:END -->
 
