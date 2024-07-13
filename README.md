@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End Development Tools Installation and Configuration &lpar;Mac&rpar;](https://dev.to/lunamiller/front-end-development-tools-installation-and-configuration-mac-5hbe)
-- [7 New JavaScript Set Methods](https://dev.to/zacharylee/7-new-javascript-set-methods-4737)
-- [Resolving Module Version Chaos: Locking Down Dependencies in Python Projects with Poetry](https://dev.to/ma7dev/resolving-module-version-chaos-locking-down-dependencies-in-python-projects-with-poetry-4mlf)
-- [Case Study: Counting Keywords](https://dev.to/paulike/case-study-counting-keywords-4kfa)
+- [Understanding and Fixing &quot;Object Reference Not Set to an Instance of an Object&quot; in C#](https://dev.to/iamcymentho/understanding-and-fixing-object-reference-not-set-to-an-instance-of-an-object-in-c-2794)
+- [Undress AI Tool: An Advanced Guide for Professional Photographers](https://dev.to/gogato2980/undress-ai-tool-an-advanced-guide-for-professional-photographers-2bpo)
+- [Cryptomator: end-to-end encrypt files in any cloud](https://dev.to/andreagrandi/cryptomator-end-to-end-encrypt-files-in-any-cloud-54kc)
+- [Extending Prisma ORM with Custom Middleware: Logging, Validation, and Security](https://dev.to/emal_isuranga_2d9d79931d7/extending-prisma-orm-with-custom-middleware-logging-validation-and-security-29cc)
 <!-- BLOG-POST-LIST:END -->
 
