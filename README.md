@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematics for Machine Learning - Day 6](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-6-33e8)
-- [Simple yet powerful react table component](https://dev.to/abdoseadaa/simple-yet-powerful-react-table-component-1inm)
-- [Why OOP is Your Old New Best Friend: The Date Distance Problem](https://dev.to/yceruto/why-oop-is-your-old-and-new-best-friend-the-date-distance-problem-1059)
-- [10 essential tips to supercharge VS Code and code faster &lpar;0 to 100&rpar;](https://dev.to/safdarali/10-essential-tips-to-supercharge-vs-code-and-code-faster-0-to-100-21b4)
+- [O que é Design system e por que usar](https://dev.to/wps13/o-que-e-design-system-e-por-que-usar-4dij)
+- [Be an Energy Radiator: Ignite Your Influence](https://dev.to/rishiabee/be-an-energy-radiator-ignite-your-influence-48ke)
+- [Oracle Database Object List](https://dev.to/nabhaas/oracle-database-object-list-1bko)
+- [Next-Level Web Applications with On-Device Generative AI: A Look at Google Chrome&#39;s Built-In Gemini Nano LLM](https://dev.to/ptvty/next-level-web-applications-with-on-device-generative-ai-a-look-at-google-chromes-built-in-gemini-nano-llm-4bng)
 <!-- BLOG-POST-LIST:END -->
 
