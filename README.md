@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #140: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-140-explica-este-codigo-python-cfn)
-- [Introduction to Cloud☁ Computing and AWS](https://dev.to/noorscript/introduction-to-cloud-computing-and-aws-29il)
-- [Testing Components In Angular: NO ERRORS SCHEMA, Stub Components, and NgMocks](https://dev.to/this-is-angular/testing-components-in-angular-no-errors-schema-stub-components-and-ngmocks-2bih)
-- [Understanding the Difference Between `Array&lt;T&gt;` and `T[]` in TypeScript](https://dev.to/cole_ruche/understanding-the-difference-between-array-and-t-in-typescript-55g3)
+- [How I started with the Power Platform - My first powerapps application experience](https://dev.to/puskark4/how-i-started-with-the-power-platform-my-first-powerapps-application-experience-2i3c)
+- [Prisoner or Architect: The Mindset of a Coder](https://dev.to/makowskid/prisoner-or-architect-the-mindset-of-a-coder-4kdo)
+- [BitPower Security](https://dev.to/_046dbf5471eab6b9306bb6/bitpower-security-4jfm)
+- [Three important steps before jumping to the code](https://dev.to/stebunovd/three-important-steps-before-jumping-to-the-code-4j7i)
 <!-- BLOG-POST-LIST:END -->
 
