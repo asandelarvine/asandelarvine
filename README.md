@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 24 Task - 90daysofdevops : Complete Jenkins CI/CD Project](https://dev.to/oncloud7/day-24-task-90daysofdevops-complete-jenkins-cicd-project-270j)
-- [🛠️ Browser Extensions](https://dev.to/dhrn/browser-extensions-4oac)
-- [Code Smell 258 - Secrets in Code](https://dev.to/mcsee/code-smell-258-secrets-in-code-1pg2)
-- [Develop and Test AWS S3 Applications Locally with Node.js and LocalStack](https://dev.to/srishtikprasad/develop-and-test-aws-s3-applications-locally-with-nodejs-and-localstack-5efb)
+- [Mathematics for Machine Learning - Day 6](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-6-33e8)
+- [Simple yet powerful react table component](https://dev.to/abdoseadaa/simple-yet-powerful-react-table-component-1inm)
+- [Why OOP is Your Old New Best Friend: The Date Distance Problem](https://dev.to/yceruto/why-oop-is-your-old-and-new-best-friend-the-date-distance-problem-1059)
+- [10 essential tips to supercharge VS Code and code faster &lpar;0 to 100&rpar;](https://dev.to/safdarali/10-essential-tips-to-supercharge-vs-code-and-code-faster-0-to-100-21b4)
 <!-- BLOG-POST-LIST:END -->
 
