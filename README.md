@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run your program in the kernel space with eBPF](https://dev.to/diogodanielsoaresferreira/run-your-program-in-the-kernel-space-with-ebpf-438l)
-- [Simple Developer portfolio](https://dev.to/paul_freeman/simple-developer-portfolio-37fk)
-- [Muslim Prayer Times Extension for Visual Studio Code](https://dev.to/jaber-said/muslim-prayer-times-extension-for-visual-studio-code-17a3)
-- [Sprinboot profiles not working as expected](https://dev.to/mghildiy/sprinboot-profiles-not-working-as-expected-28p7)
+- [asdf &lpar;what?? 🤔&rpar;](https://dev.to/mainendra/asdf-what--2p20)
+- [Tailwind Commands Cheat Sheet](https://dev.to/madgan95/tailwind-commands-cheat-sheet-2mb3)
+- [Luminous Wicks: Enchanting Aromas and Elegant Candles with Wix Studio](https://dev.to/syed_nasreen_ebac74a250d1/luminous-wicks-enchanting-aromas-and-elegant-candles-with-wix-studio-1da9)
+- [How SQL Enhances Your Data Science Skills](https://dev.to/mesfin_t/how-sql-enhances-your-data-science-skills-bkl)
 <!-- BLOG-POST-LIST:END -->
 
