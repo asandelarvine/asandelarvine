@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pics Shade Image Offload + Optimize + Resize wordpress plugin](https://dev.to/sh20raj/pics-shade-image-offload-optimize-resize-wordpress-plugin-1fg0)
-- [Node Docker App](https://dev.to/nisharga_kabir/node-docker-app-2f1e)
-- [Exploring JavaScript Array Methods with Examples](https://dev.to/suleman_ahmed_rajput/exploring-javascript-array-methods-with-examples-3p90)
-- [Unlock the Power of Node.js with Design Patterns 🚀](https://dev.to/getvm/unlock-the-power-of-nodejs-with-design-patterns-5a14)
+- [My Next.Js configuration](https://dev.to/itzsrikanth/my-nextjs-configuration-5fbh)
+- [The Truth About Learning Python in 2024](https://dev.to/halimshams/the-truth-about-learning-python-in-2024-4m8m)
+- [Types of Cloud Computing](https://dev.to/1hamzabek/types-of-cloud-computing-4965)
+- [From Zero to Hero: Build Full stack Food Delivery App using Next.js and PostgreSQL](https://dev.to/lakshmananarumugam/from-zero-to-hero-build-full-stack-food-delivery-app-using-nextjs-and-postgresql-4ebo)
 <!-- BLOG-POST-LIST:END -->
 
