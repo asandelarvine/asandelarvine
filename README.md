@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I started with the Power Platform - My first powerapps application experience](https://dev.to/puskark4/how-i-started-with-the-power-platform-my-first-powerapps-application-experience-2i3c)
-- [Prisoner or Architect: The Mindset of a Coder](https://dev.to/makowskid/prisoner-or-architect-the-mindset-of-a-coder-4kdo)
-- [BitPower Security](https://dev.to/_046dbf5471eab6b9306bb6/bitpower-security-4jfm)
-- [Three important steps before jumping to the code](https://dev.to/stebunovd/three-important-steps-before-jumping-to-the-code-4j7i)
+- [Run your program in the kernel space with eBPF](https://dev.to/diogodanielsoaresferreira/run-your-program-in-the-kernel-space-with-ebpf-438l)
+- [Simple Developer portfolio](https://dev.to/paul_freeman/simple-developer-portfolio-37fk)
+- [Muslim Prayer Times Extension for Visual Studio Code](https://dev.to/jaber-said/muslim-prayer-times-extension-for-visual-studio-code-17a3)
+- [Sprinboot profiles not working as expected](https://dev.to/mghildiy/sprinboot-profiles-not-working-as-expected-28p7)
 <!-- BLOG-POST-LIST:END -->
 
