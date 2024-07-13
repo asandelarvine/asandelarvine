@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Css Media Query Syntax&lpar;Media Query Level 4 or MQ4&rpar;](https://dev.to/e-tech/new-css-media-query-syntaxmedia-query-level-4-or-mq4-2ha3)
-- [Creating a CSS Dark/Light Mode Switcher](https://dev.to/mdhassanpatwary/creating-a-css-darklight-mode-switcher-26cd)
-- [Key Linux Commands to Learn: Top 49 for Normal Users](https://dev.to/mahir_dasare_333/key-linux-commands-to-learn-top-49-for-normal-users-3k1e)
-- [Setting Up Traefik and mkcert for Local Development](https://dev.to/agusrdz/setting-up-traefik-and-mkcert-for-local-development-48j5)
+- [How to create an animated toggle with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-toggle-with-tailwind-css-1183)
+- [Testing React App Using Vitest &amp; React Testing Library](https://dev.to/zaarza/testing-react-app-using-vitest-react-testing-library-457j)
+- [Automate Gitlab Repository Settings with Terraform](https://dev.to/cschindlbeck/gitlab-repository-manager-1056)
+- [Day 12 of 100 Days of Code](https://dev.to/jacobsternx/day-12-of-100-days-of-code-2hn8)
 <!-- BLOG-POST-LIST:END -->
 
