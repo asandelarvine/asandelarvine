@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting React Components: Readability, Reusability, and Efficiency](https://dev.to/vyan/crafting-react-components-readability-reusability-and-efficiency-6a1)
-- [Creating API Documentation with Swagger on NodeJS](https://dev.to/chauhoangminhnguyen/creating-api-documentation-with-swagger-on-nodejs-4da3)
-- [Bitmasking em Go: Uma Técnica Poderosa para Gerenciamento de Opções](https://dev.to/leonancarvalho/bitmasking-em-go-uma-tecnica-poderosa-para-gerenciamento-de-opcoes-2idb)
-- [Achieving a 3x reduction in React Bundle size: A case study](https://dev.to/amaggi/achieving-a-3x-reduction-in-react-bundle-size-a-case-study-30l1)
+- [Oops at 28 Jun 2024](https://dev.to/teminian/oops-at-28-jun-2024-ead)
+- [Generative AI and Personalized Experiences: From Chatbots to Recommendation Systems](https://dev.to/hariharaswq/generative-ai-and-personalized-experiences-from-chatbots-to-recommendation-systems-1o5o)
+- [You&#39;re facing conflicts with your boss. How can you resolve them without harming your relationship?](https://dev.to/gourav_sharma_00/youre-facing-conflicts-with-your-boss-how-can-you-resolve-them-without-harming-your-relationship-4bnc)
+- [How to Create and Publish a WordPress Plugin](https://dev.to/sh20raj/how-to-create-and-publish-a-wordpress-plugin-3bbi)
 <!-- BLOG-POST-LIST:END -->
 
