@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python&#39;s itertools Module](https://dev.to/kartikmehta8/mastering-pythons-itertools-module-4h7m)
-- [ShopEase](https://dev.to/sweta_kangurisonulkar_/shopease-21ii)
-- [🚀 Next.js Starter: Kickstart Your Next.js Project with Ease](https://dev.to/imevanc/nextjs-starter-kickstart-your-nextjs-project-with-ease-449b)
-- [BUTLER MACHINE EXPLOIT WALKTHROUGH](https://dev.to/babsarena/butler-machine-exploit-walkthrough-5cfb)
+- [Button Morph Animation](https://dev.to/tom_ford_6543e5db41fdbb68/button-morph-animation-2gjk)
+- [Turn the Table](https://dev.to/tom_ford_6543e5db41fdbb68/turn-the-table-pc4)
+- [Key Skills for Tech Freelancers](https://dev.to/baaraku/key-skills-for-tech-freelancers-3ooe)
+- [Optimizing Performance in React Applications](https://dev.to/khalidkhankakar/optimizing-performance-in-react-applications-59k0)
 <!-- BLOG-POST-LIST:END -->
 
