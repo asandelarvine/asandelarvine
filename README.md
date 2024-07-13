@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é Design system e por que usar](https://dev.to/wps13/o-que-e-design-system-e-por-que-usar-4dij)
-- [Be an Energy Radiator: Ignite Your Influence](https://dev.to/rishiabee/be-an-energy-radiator-ignite-your-influence-48ke)
-- [Oracle Database Object List](https://dev.to/nabhaas/oracle-database-object-list-1bko)
-- [Next-Level Web Applications with On-Device Generative AI: A Look at Google Chrome&#39;s Built-In Gemini Nano LLM](https://dev.to/ptvty/next-level-web-applications-with-on-device-generative-ai-a-look-at-google-chromes-built-in-gemini-nano-llm-4bng)
+- [On Code Style Guides](https://dev.to/downtherabbithole/on-code-style-guides-1804)
+- [It is all about time to market](https://dev.to/nosylasairaf/it-is-all-about-time-to-market-1hki)
+- [Ridge Regression, Regression: Supervised Machine Learning](https://dev.to/harshm03/ridge-regression-regression-supervised-machine-learning-1h10)
+- [Emailing Hacks you might want to know - 🥶 Cold Marketing](https://dev.to/1geek/emailing-hacks-you-might-want-to-know-cold-marketing-4fdl)
 <!-- BLOG-POST-LIST:END -->
 
