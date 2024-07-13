@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an animated toggle with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-toggle-with-tailwind-css-1183)
-- [Testing React App Using Vitest &amp; React Testing Library](https://dev.to/zaarza/testing-react-app-using-vitest-react-testing-library-457j)
-- [Automate Gitlab Repository Settings with Terraform](https://dev.to/cschindlbeck/gitlab-repository-manager-1056)
-- [Day 12 of 100 Days of Code](https://dev.to/jacobsternx/day-12-of-100-days-of-code-2hn8)
+- [10 Funniest and Hilarious React JS Memes](https://dev.to/codeitbro/10-funniest-and-hilarious-react-js-memes-2aod)
+- [TensorFlow for Beginners: Your First Neural Network](https://dev.to/rajprajapati/tensorflow-for-beginners-your-first-neural-network-2kjm)
+- [🥳Entering into 5K🔥](https://dev.to/swhabitation/entering-into-5k-24an)
+- [Know Backend of Stake’s Mine Game](https://dev.to/hemantcode625/know-backend-of-stakes-mine-game-2d11)
 <!-- BLOG-POST-LIST:END -->
 
