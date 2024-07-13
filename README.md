@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On Code Style Guides](https://dev.to/downtherabbithole/on-code-style-guides-1804)
-- [It is all about time to market](https://dev.to/nosylasairaf/it-is-all-about-time-to-market-1hki)
-- [Ridge Regression, Regression: Supervised Machine Learning](https://dev.to/harshm03/ridge-regression-regression-supervised-machine-learning-1h10)
-- [Emailing Hacks you might want to know - 🥶 Cold Marketing](https://dev.to/1geek/emailing-hacks-you-might-want-to-know-cold-marketing-4fdl)
+- [Foodz](https://dev.to/yowise/foodz-3b8p)
+- [Understanding Threat Modeling: 🛡️ Securing Your Digital Assets Effectively](https://dev.to/firststeptechnology/understanding-threat-modeling-securing-your-digital-assets-effectively-27gp)
+- [Shiny Object Syndrome: Code Edition](https://dev.to/atharvadeosthale/shiny-object-syndrome-code-edition-4705)
+- [How to Build a Javascript Booking Automation Bot](https://dev.to/columk1/how-to-build-a-javascript-booking-automation-bot-32em)
 <!-- BLOG-POST-LIST:END -->
 
