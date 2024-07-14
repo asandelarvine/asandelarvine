@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Modern CSS Color Functions: History, Uses, and Practical Applications](https://dev.to/mdhassanpatwary/unlocking-the-power-of-modern-css-color-functions-history-uses-and-practical-applications-3j2a)
-- [Easily Use Selenium with AWS Lambda](https://dev.to/shilleh/easily-use-selenium-with-aws-lambda-lml)
-- [Golang WebRTC. Como usar Pion 🌐Remote Controller](https://dev.to/piterweb/golang-webrtc-como-usar-pion-remote-controller-5d8e)
-- [build a instagram message chat app](https://dev.to/zwd321081/build-a-instagram-message-chat-app-ibn)
+- [การแก้ไขปัญหา: ฐานข้อมูลถูกใช้งานโดยผู้ใช้อื่น](https://dev.to/everthing-was-postgres/kaaraekaikhpayhaa-thaankhmuulthuukaichngaanodyphuuaichuuen-4gi6)
+- [Recreating History: Building a Windows 98 Disk Defrag Simulator with Modern Web Tech](https://dev.to/morellodev/recreating-history-building-a-windows-98-disk-defrag-simulator-with-modern-web-tech-34bc)
+- [How to 10x downsize fonts](https://dev.to/wimadev/how-to-10x-downsize-fonts-29nl)
+- [Hướng dẫn tích hợp Checkout SDK Zalo &lpar;COD&rpar;](https://dev.to/huylv/huong-dan-tich-hop-checkout-sdk-zalo-cod-4b5j)
 <!-- BLOG-POST-LIST:END -->
 
