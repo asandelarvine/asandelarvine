@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Node.js in 2024: Trends, Tools, and Best Practices](https://dev.to/matin_mollapur/the-ultimate-guide-to-nodejs-in-2024-trends-tools-and-best-practices-279n)
-- [Trendy Treasure Wix studio ecommerce](https://dev.to/chintanonweb/trendy-treasure-wix-studio-ecommerce-28gh)
-- [First Step](https://dev.to/iarc13/first-step-ggb)
-- [float_power&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/floatpower-in-pytorch-3696)
+- [Introduction to Functional Programming in JavaScript: Applicatives #10](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-applicatives-10-1n9h)
+- [Python - Print &lpar;&rpar; - Interview Questions](https://dev.to/technonotes/python-print-interview-questions-306j)
+- [Constructing XML output with dream-html](https://dev.to/yawaramin/constructing-xml-output-with-dream-html-1pgb)
+- [AWS Solutions Architect Professional](https://dev.to/kuljotbiring/aws-solutions-architect-professional-20e)
 <!-- BLOG-POST-LIST:END -->
 
