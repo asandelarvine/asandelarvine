@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Struggles of Manual Project Timeline Visualization](https://dev.to/xuho/the-struggles-of-manual-project-timeline-visualization-f9k)
-- [How to make Animation in Css?](https://dev.to/lakshita_kumawat/how-to-make-animation-in-css-1f97)
-- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 1/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-14-7nd)
-- [My Experience Learning TypeScript](https://dev.to/bridget_amana/my-experience-learning-typescript-1jn0)
+- [From Shelf Help to Self Help: Mastering Productivity as Software Engineering](https://dev.to/hassanshahzadaheer/from-shelf-help-to-self-help-mastering-productivity-as-software-engineering-39f0)
+- [Easy Ways to Render a List of Images: HTML vs. JavaScript](https://dev.to/vivecodes/render-a-list-of-images-with-and-without-javascript-3dhj)
+- [Create Folder Structure using LLM](https://dev.to/1geek/create-folder-structure-using-llm-kg4)
+- [AWS UG Deep Talk: Summary of key points from an in-depth conversation with nine Chinese IT practitioners](https://dev.to/aws-builders/aws-ug-deep-talk-summary-of-key-points-from-an-in-depth-conversation-with-nine-chinese-it-practitioners-27ma)
 <!-- BLOG-POST-LIST:END -->
 
