@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove Nth from end of linked list](https://dev.to/johnscode/remove-nth-from-end-of-linked-list-54bf)
-- [Comandos Avanzados](https://dev.to/miltondiazco/comandos-avanzados-3a10)
-- [Comandos de Red](https://dev.to/miltondiazco/comandos-de-red-560)
-- [Comandos de Fecha](https://dev.to/miltondiazco/comandos-de-fecha-306e)
+- [Detecting Browser DevTools: A Guide to `devtools-detect`](https://dev.to/sh20raj/detecting-browser-devtools-a-guide-to-devtools-detect-4kgd)
+- [Understanding Cohesion](https://dev.to/waqas334/understanding-cohesion-h9o)
+- [A little about promises in Javascript](https://dev.to/joaoreider/a-little-about-promises-in-javascript-4oh7)
+- [Find something worth solving, not what you can solve.](https://dev.to/waqas334/find-something-worth-solving-not-what-you-can-solve-52ln)
 <!-- BLOG-POST-LIST:END -->
 
