@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Shelf Help to Self Help: Mastering Productivity as Software Engineering](https://dev.to/hassanshahzadaheer/from-shelf-help-to-self-help-mastering-productivity-as-software-engineering-39f0)
-- [Easy Ways to Render a List of Images: HTML vs. JavaScript](https://dev.to/vivecodes/render-a-list-of-images-with-and-without-javascript-3dhj)
-- [Create Folder Structure using LLM](https://dev.to/1geek/create-folder-structure-using-llm-kg4)
-- [AWS UG Deep Talk: Summary of key points from an in-depth conversation with nine Chinese IT practitioners](https://dev.to/aws-builders/aws-ug-deep-talk-summary-of-key-points-from-an-in-depth-conversation-with-nine-chinese-it-practitioners-27ma)
+- [Setting up ollama 3](https://dev.to/obrutus/setting-up-ollama-3-2jeg)
+- [Enhancing User Experience with 3D Transformations](https://dev.to/forfrontend/enhancing-user-experience-with-3d-transformations-52i8)
+- [Strong counting](https://dev.to/simongreennet/strong-counting-10on)
+- [Guide to Free Hosting for Your Full-Stack Spring Boot Application](https://dev.to/philipathanasopoulos/guide-to-free-hosting-for-your-full-stack-spring-boot-application-4fak)
 <!-- BLOG-POST-LIST:END -->
 
