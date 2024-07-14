@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up ollama 3](https://dev.to/obrutus/setting-up-ollama-3-2jeg)
-- [Enhancing User Experience with 3D Transformations](https://dev.to/forfrontend/enhancing-user-experience-with-3d-transformations-52i8)
-- [Strong counting](https://dev.to/simongreennet/strong-counting-10on)
-- [Guide to Free Hosting for Your Full-Stack Spring Boot Application](https://dev.to/philipathanasopoulos/guide-to-free-hosting-for-your-full-stack-spring-boot-application-4fak)
+- [🇩🇪 Grundlegende SQL-Befehle für Einsteiger](https://dev.to/informatik-ninja/grundlegende-sql-befehle-fur-einsteiger-40l1)
+- [Elevate Your eCommerce Experience: Discover VeloShop an Innovative Wix-Powered Platform!](https://dev.to/dailydev/elevate-your-ecommerce-experience-discover-veloshop-an-innovative-wix-powered-platform-4jf5)
+- [Manage Telegram Webhooks Using curl](https://dev.to/sh20raj/manage-telegram-webhooks-using-curl-5391)
+- [[DAY 72–74] I built a calculator using React](https://dev.to/thomascansino/day-72-74-i-built-a-calculator-using-react-38i5)
 <!-- BLOG-POST-LIST:END -->
 
