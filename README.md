@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [integrate a custom AI model into a new or updated Wix Studio](https://dev.to/olatunjiayodel9/integrate-a-custom-ai-model-into-a-new-or-updated-wix-studio-4jm3)
-- [Essential Git Commands](https://dev.to/cinthiabs/essential-git-commands-4o3c)
-- [Reference Data types in Solidity](https://dev.to/arsh_the_coder/reference-data-types-in-solidity-25mf)
-- [Conhecendo o Hugging Face](https://dev.to/programadriano/conhecendo-o-hugging-face-1iag)
+- [Introducing My Developer Portfolio: A Two-Year Journey of Crafting the Perfect Showcase](https://dev.to/ayushborage28/introducing-my-developer-portfolio-a-two-year-journey-of-crafting-the-perfect-showcase-2ikp)
+- [How the event loop enables asynchronous programming](https://dev.to/joaoreider/how-the-event-loop-enables-asynchronous-programming-488p)
+- [What is Web4 — And How to Start for Free?](https://dev.to/web4/what-is-web4-and-how-to-start-for-free-4kjo)
+- [Website Makeovers](https://dev.to/salladshooter/website-makeovers-1ap6)
 <!-- BLOG-POST-LIST:END -->
 
