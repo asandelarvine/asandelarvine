@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWStuff: Dedicated Instance vs. Dedicated Host](https://dev.to/shameel/awstuff-dedicated-instance-vs-dedicated-host-327e)
-- [Day 13 of 100 Days of Code](https://dev.to/jacobsternx/day-13-of-100-days-of-code-2lda)
-- [Python : Print&lpar;&rpar; method](https://dev.to/ishwariya_ishu0708_3e5224/python-print-method-12hh)
-- [My Wins of Week 🌟 [14/07/24]](https://dev.to/developedbyjk/my-wins-of-week-140724-3798)
+- [Creating Accessible Web Forms: A Beginner&#39;s Guide 🎉](https://dev.to/soham1300/creating-accessible-web-forms-a-beginners-guide-349c)
+- [Unlocking the Power of Amazon S3](https://dev.to/noorscript/unlocking-the-power-of-amazon-s3-571k)
+- [Introduction](https://dev.to/ashcript/1-introduction-4cpg)
+- [Crafting Modern Web APIs with Django and Django REST Framework: A Comprehensive Guide](https://dev.to/terrancoder/crafting-modern-web-apis-with-django-and-django-rest-framework-a-comprehensive-guide-4fh7)
 <!-- BLOG-POST-LIST:END -->
 
