@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brilliant read on developer first product!](https://dev.to/shubhsk/a-brilliant-read-on-developer-first-product-4odo)
-- [Mood Commerce: Personalized Fashion Discovery with AI-Powered Shopping](https://dev.to/asyncerror/mood-commerce-personalized-fashion-discovery-with-ai-powered-shopping-1ig6)
-- [Automatically Redirect Back Upon Failed Validation](https://dev.to/ghulam_mujtaba_247/automatically-redirect-back-upon-failed-validation-4lhe)
-- [Implementing Role-Based Access Control in React: A Deep Dive into useRoleManagement Hook](https://dev.to/veaceslav/implementing-role-based-access-control-in-react-a-deep-dive-into-userolemanagement-hook-129i)
+- [integrate a custom AI model into a new or updated Wix Studio](https://dev.to/olatunjiayodel9/integrate-a-custom-ai-model-into-a-new-or-updated-wix-studio-4jm3)
+- [Essential Git Commands](https://dev.to/cinthiabs/essential-git-commands-4o3c)
+- [Reference Data types in Solidity](https://dev.to/arsh_the_coder/reference-data-types-in-solidity-25mf)
+- [Conhecendo o Hugging Face](https://dev.to/programadriano/conhecendo-o-hugging-face-1iag)
 <!-- BLOG-POST-LIST:END -->
 
