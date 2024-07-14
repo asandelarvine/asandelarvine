@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Applicatives #10](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-applicatives-10-1n9h)
-- [Python - Print &lpar;&rpar; - Interview Questions](https://dev.to/technonotes/python-print-interview-questions-306j)
-- [Constructing XML output with dream-html](https://dev.to/yawaramin/constructing-xml-output-with-dream-html-1pgb)
-- [AWS Solutions Architect Professional](https://dev.to/kuljotbiring/aws-solutions-architect-professional-20e)
+- [Seamless Sales: Launching Your Startup Product with Frictionless Funnels](https://dev.to/shieldstring/seamless-sales-launching-your-startup-product-with-frictionless-funnels-56gl)
+- [AGRIOS ECOMMERCE WEBSITE](https://dev.to/blaze_26/agrios-ecommerce-website-2kjm)
+- [How to upload Project on GitHub: A Step-by-Step Guide](https://dev.to/johnmaths9/how-to-upload-project-on-github-a-step-by-step-guide-14dp)
+- [Host your own PaaS &lpar;platform as a service&rpar; on Amazon Web Services](https://dev.to/jamesmurdza/host-your-own-paas-platform-as-a-service-on-amazon-web-services-3f0d)
 <!-- BLOG-POST-LIST:END -->
 
