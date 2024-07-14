@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide To props.children In React](https://dev.to/writech/a-complete-guide-to-propschildren-in-react-196k)
-- [My Journey as a Self-Taught Full-Stack Developer: Helping New Coders Master MERN and Beyond](https://dev.to/muhammedshamal/my-journey-as-a-self-taught-full-stack-developer-helping-new-coders-master-mern-and-beyond-4lmj)
-- [OTA updates in React Native](https://dev.to/ponikar/ota-updates-in-react-native-1pbo)
-- [✨Top 9 Open-Source Hidden Gems🤯](https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9)
+- [Design a parking lot using object-oriented principles](https://dev.to/muhammad_salem/design-a-parking-lot-using-object-oriented-principles-2h0o)
+- [Use Server Side Forms in NextJS](https://dev.to/jawadulhassan/use-server-side-forms-in-nextjs-1j31)
+- [Essential modules for developing applications with FastAPI &lpar;P1 - Migration&rpar;](https://dev.to/pham_bach_7cded53e4c5439e/essential-modules-for-developing-applications-with-fastapi-4hkm)
+- [Effortless Database Migration: CockroachDB to MongoDB with CoderboticsAI](https://dev.to/coderbotics_ai/effortless-database-migration-cockroachdb-to-mongodb-with-coderboticsai-4mgh)
 <!-- BLOG-POST-LIST:END -->
 
