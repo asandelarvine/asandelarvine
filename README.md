@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [การแก้ไขปัญหา: ฐานข้อมูลถูกใช้งานโดยผู้ใช้อื่น](https://dev.to/everthing-was-postgres/kaaraekaikhpayhaa-thaankhmuulthuukaichngaanodyphuuaichuuen-4gi6)
-- [Recreating History: Building a Windows 98 Disk Defrag Simulator with Modern Web Tech](https://dev.to/morellodev/recreating-history-building-a-windows-98-disk-defrag-simulator-with-modern-web-tech-34bc)
-- [How to 10x downsize fonts](https://dev.to/wimadev/how-to-10x-downsize-fonts-29nl)
-- [Hướng dẫn tích hợp Checkout SDK Zalo &lpar;COD&rpar;](https://dev.to/huylv/huong-dan-tich-hop-checkout-sdk-zalo-cod-4b5j)
+- [The Struggles of Manual Project Timeline Visualization](https://dev.to/xuho/the-struggles-of-manual-project-timeline-visualization-f9k)
+- [How to make Animation in Css?](https://dev.to/lakshita_kumawat/how-to-make-animation-in-css-1f97)
+- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 1/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-14-7nd)
+- [My Experience Learning TypeScript](https://dev.to/bridget_amana/my-experience-learning-typescript-1jn0)
 <!-- BLOG-POST-LIST:END -->
 
