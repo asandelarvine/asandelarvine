@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [hstack&lpar;&rpar; and column_stack&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/hstack-and-columnstack-in-pytorch-2mfb)
-- [Dive into the Fascinating World of Robotics with Prof. D K Pratihar 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-robotics-with-prof-d-k-pratihar-7a5)
-- [Mastering Loops and Conditional Statements in C Programming](https://dev.to/code_passion/mastering-loops-and-conditional-statements-in-c-programming-3mke)
-- [Rust tutorials for Python DEV: Variables and Mutability in Rust](https://dev.to/ahmed__elboshi/rust-tutorials-for-python-dev-variables-and-mutability-in-rust-4hpf)
+- [7 Open Source Projects You Should Know - Java Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-java-edition-1mkb)
+- [Migrating Legacy Systems to Modern Full Stack Architectures: Challenges and Strategies](https://dev.to/adityabhuyan/migrating-legacy-systems-to-modern-full-stack-architectures-challenges-and-strategies-1i72)
+- [What happens when you enter a domain name &lpar;e.g., google.com&rpar; into a browser?](https://dev.to/fonditi/what-happens-when-you-enter-a-domain-name-eg-googlecom-into-a-browser-3mn9)
+- [Revolutionizing Voice Control Integration with Sista AI](https://dev.to/sista-ai/revolutionizing-voice-control-integration-with-sista-ai-3ol9)
 <!-- BLOG-POST-LIST:END -->
 
