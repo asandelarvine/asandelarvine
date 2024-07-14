@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing NgRx for Effortless Angular State Management](https://dev.to/3a5abi/harnessing-ngrx-for-effortless-angular-state-management-4o8b)
+- [Getting Started with Azure Bicep](https://dev.to/raulnq/getting-started-with-azure-bicep-hbj)
 - [Detecting Browser DevTools: A Guide to `devtools-detect`](https://dev.to/sh20raj/detecting-browser-devtools-a-guide-to-devtools-detect-4kgd)
 - [Understanding Cohesion](https://dev.to/waqas334/understanding-cohesion-h9o)
-- [A little about promises in Javascript](https://dev.to/joaoreider/a-little-about-promises-in-javascript-4oh7)
-- [Find something worth solving, not what you can solve.](https://dev.to/waqas334/find-something-worth-solving-not-what-you-can-solve-52ln)
 <!-- BLOG-POST-LIST:END -->
 
