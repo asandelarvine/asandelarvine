@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing My Developer Portfolio: A Two-Year Journey of Crafting the Perfect Showcase](https://dev.to/ayushborage28/introducing-my-developer-portfolio-a-two-year-journey-of-crafting-the-perfect-showcase-2ikp)
-- [How the event loop enables asynchronous programming](https://dev.to/joaoreider/how-the-event-loop-enables-asynchronous-programming-488p)
-- [What is Web4 — And How to Start for Free?](https://dev.to/web4/what-is-web4-and-how-to-start-for-free-4kjo)
-- [Website Makeovers](https://dev.to/salladshooter/website-makeovers-1ap6)
+- [The Ultimate Guide to Node.js in 2024: Trends, Tools, and Best Practices](https://dev.to/matin_mollapur/the-ultimate-guide-to-nodejs-in-2024-trends-tools-and-best-practices-279n)
+- [Trendy Treasure Wix studio ecommerce](https://dev.to/chintanonweb/trendy-treasure-wix-studio-ecommerce-28gh)
+- [First Step](https://dev.to/iarc13/first-step-ggb)
+- [float_power&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/floatpower-in-pytorch-3696)
 <!-- BLOG-POST-LIST:END -->
 
