@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design a parking lot using object-oriented principles](https://dev.to/muhammad_salem/design-a-parking-lot-using-object-oriented-principles-2h0o)
-- [Use Server Side Forms in NextJS](https://dev.to/jawadulhassan/use-server-side-forms-in-nextjs-1j31)
-- [Essential modules for developing applications with FastAPI &lpar;P1 - Migration&rpar;](https://dev.to/pham_bach_7cded53e4c5439e/essential-modules-for-developing-applications-with-fastapi-4hkm)
-- [Effortless Database Migration: CockroachDB to MongoDB with CoderboticsAI](https://dev.to/coderbotics_ai/effortless-database-migration-cockroachdb-to-mongodb-with-coderboticsai-4mgh)
+- [TelcoCloud 101](https://dev.to/muhammadantar/telcocloud-101-5d02)
+- [God&#39;s Vue: An immersive tale &lpar;Chapter 2&rpar;](https://dev.to/zain725342/gods-vue-an-immersive-tale-chapter-2-2ppp)
+- [George and Robert walk into a bar...](https://dev.to/codejet/george-and-robert-walk-into-a-bar-413e)
+- [Top 6 React Hook Mistakes Beginners Make](https://dev.to/markliu2013/top-6-react-hook-mistakes-beginners-make-1135)
 <!-- BLOG-POST-LIST:END -->
 
