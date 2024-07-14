@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🇩🇪 Grundlegende SQL-Befehle für Einsteiger](https://dev.to/informatik-ninja/grundlegende-sql-befehle-fur-einsteiger-40l1)
-- [Elevate Your eCommerce Experience: Discover VeloShop an Innovative Wix-Powered Platform!](https://dev.to/dailydev/elevate-your-ecommerce-experience-discover-veloshop-an-innovative-wix-powered-platform-4jf5)
-- [Manage Telegram Webhooks Using curl](https://dev.to/sh20raj/manage-telegram-webhooks-using-curl-5391)
-- [[DAY 72–74] I built a calculator using React](https://dev.to/thomascansino/day-72-74-i-built-a-calculator-using-react-38i5)
+- [A Complete Guide To props.children In React](https://dev.to/writech/a-complete-guide-to-propschildren-in-react-196k)
+- [My Journey as a Self-Taught Full-Stack Developer: Helping New Coders Master MERN and Beyond](https://dev.to/muhammedshamal/my-journey-as-a-self-taught-full-stack-developer-helping-new-coders-master-mern-and-beyond-4lmj)
+- [OTA updates in React Native](https://dev.to/ponikar/ota-updates-in-react-native-1pbo)
+- [✨Top 9 Open-Source Hidden Gems🤯](https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9)
 <!-- BLOG-POST-LIST:END -->
 
