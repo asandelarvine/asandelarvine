@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TelcoCloud 101](https://dev.to/muhammadantar/telcocloud-101-5d02)
-- [God&#39;s Vue: An immersive tale &lpar;Chapter 2&rpar;](https://dev.to/zain725342/gods-vue-an-immersive-tale-chapter-2-2ppp)
-- [George and Robert walk into a bar...](https://dev.to/codejet/george-and-robert-walk-into-a-bar-413e)
-- [Top 6 React Hook Mistakes Beginners Make](https://dev.to/markliu2013/top-6-react-hook-mistakes-beginners-make-1135)
+- [A Brilliant read on developer first product!](https://dev.to/shubhsk/a-brilliant-read-on-developer-first-product-4odo)
+- [Mood Commerce: Personalized Fashion Discovery with AI-Powered Shopping](https://dev.to/asyncerror/mood-commerce-personalized-fashion-discovery-with-ai-powered-shopping-1ig6)
+- [Automatically Redirect Back Upon Failed Validation](https://dev.to/ghulam_mujtaba_247/automatically-redirect-back-upon-failed-validation-4lhe)
+- [Implementing Role-Based Access Control in React: A Deep Dive into useRoleManagement Hook](https://dev.to/veaceslav/implementing-role-based-access-control-in-react-a-deep-dive-into-userolemanagement-hook-129i)
 <!-- BLOG-POST-LIST:END -->
 
