@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Triangle to pixel](https://dev.to/x64x2/triangle-to-pixel-3ga0)
 - [Harnessing NgRx for Effortless Angular State Management](https://dev.to/3a5abi/harnessing-ngrx-for-effortless-angular-state-management-4o8b)
-- [Getting Started with Azure Bicep](https://dev.to/raulnq/getting-started-with-azure-bicep-hbj)
-- [Detecting Browser DevTools: A Guide to `devtools-detect`](https://dev.to/sh20raj/detecting-browser-devtools-a-guide-to-devtools-detect-4kgd)
-- [Understanding Cohesion](https://dev.to/waqas334/understanding-cohesion-h9o)
+- [Construindo um web server em Assembly x86, the grand finale, multi-threading](https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-the-grand-finale-multi-threading-24hp)
+- [Implementing Background Jobs with Hangfire: A Hands-On Guide](https://dev.to/rmaurodev/implementing-background-jobs-with-hangfire-a-hands-on-guide-43bk)
 <!-- BLOG-POST-LIST:END -->
 
