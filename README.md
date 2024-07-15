@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GBase 8c MySQL Protocol Compatibility Guide](https://dev.to/congcong/gbase-8c-mysql-protocol-compatibility-guide-1ek1)
-- [Differences between Persistent Connection and Non-Persistent Connection](https://dev.to/pushpendra_sharma_f1d2cbe/differences-between-persistent-connection-and-non-persistent-connection-1o1j)
-- [Mastering Express.js: Building Scalable Web Applications with Node.js](https://dev.to/fakii254/mastering-expressjs-building-scalable-web-applications-with-nodejs-1879)
-- [Introduction to MongoDB: A NoSQL Database for Modern Applications](https://dev.to/fakii254/introduction-to-mongodb-a-nosql-database-for-modern-applications-149n)
+- [The Role of DORA Metrics in Accelerating Software Delivery](https://dev.to/rose_rusell_8839af0b0bba5/the-role-of-dora-metrics-in-accelerating-software-delivery-4505)
+- [Les meilleurs templates gratuits pour vos sites web](https://dev.to/mscholzdev/les-meilleurs-templates-gratuits-pour-vos-sites-web-op3)
+- [Mastering the Fine Art of Web Development with PHP](https://dev.to/jinesh_vora_ab4d7886e6a8d/mastering-the-fine-art-of-web-development-with-php-59kd)
+- [Task 2 - Constants and variables](https://dev.to/ganesh_balaraman_6edae0d9/task-2-constants-and-variables-fkn)
 <!-- BLOG-POST-LIST:END -->
 
