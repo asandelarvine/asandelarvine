@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Circuit Switching in Computer Networks: A Comprehensive Guide](https://dev.to/m__mdy__m/circuit-switching-in-computer-networks-a-comprehensive-guide-1o29)
-- [Microservices Architecture with Spring Cloud](https://dev.to/vidhi_jayswal/microservices-architecture-with-spring-cloud-lff)
-- [Adding a User-Controlled Camera Feature To Our Python GUI Clock](https://dev.to/scofieldidehen/adding-a-user-controlled-camera-feature-to-our-python-gui-clock-m8d)
-- [HTMX + Go : Build a CRUD App with Golang and HTMX](https://dev.to/coderonfleek/htmx-go-build-a-crud-app-with-golang-and-htmx-1le2)
+- [How to Prevent Speaker Feedback in Speech Transcription Using Web Audio API](https://dev.to/fosteman/how-to-prevent-speaker-feedback-in-speech-transcription-using-web-audio-api-2da4)
+- [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
+- [Understanding SOLID design principles with easy coding examples](https://dev.to/aneeqakhan/understanding-solid-design-principles-with-easy-coding-examples-1k1d)
+- [Ulisse @ CyberChallenge.IT 2024](https://dev.to/ulisse/ulisse-cyberchallengeit-2024-opo)
 <!-- BLOG-POST-LIST:END -->
 
