@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day6 of 100DaysOfJavaScript](https://dev.to/koichiarai/day6-of-100daysofjavascript-440o)
-- [Beating the Odds: The Mathematics Behind Casino Profits](https://dev.to/ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-313o)
-- [Building Real-Time Applications with WebSockets and Reactive Streams](https://dev.to/tutorialq/building-real-time-applications-with-websockets-and-reactive-streams-1mo)
-- [CSS Container Queries:](https://dev.to/julianoalvescode/css-container-queries-44pm)
+- [Top 15 JavaScript Projects to Boost Your Portfolio 🚀](https://dev.to/dipakahirav/top-15-javascript-projects-to-boost-your-portfolio-1fem)
+- [Olá mundo!](https://dev.to/unimatrix2/ola-mundo-40ge)
+- [Laravel Wildcard Routes &amp; Fallback Routes](https://dev.to/buddhieash/laravel-wildcard-routes-fallback-routes-2k3a)
+- [logical_xor&lpar;&rpar; and logical_not&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/logicalxor-and-logicalnot-in-pytorch-3boh)
 <!-- BLOG-POST-LIST:END -->
 
