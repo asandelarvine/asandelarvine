@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐Password manager with react, nodejs &amp; mysql part III🚀](https://dev.to/brokarim/password-manager-with-react-nodejs-mysql-part-iii-13o2)
-- [Create a String to Color Helper with Ruby &lpar;and Rails&rpar;](https://dev.to/railsdesigner/create-a-string-to-color-helper-with-rub-2l5a)
-- [Debugging C Programs: Tools and Techniques for Error-Free Code](https://dev.to/emma_olatujoye/debugging-c-programs-tools-and-techniques-for-error-free-code-8hc)
-- [Gitlab python-based job to remove stale branches](https://dev.to/art_ptushkin/gitlab-python-based-job-to-remove-stale-branches-1i6i)
+- [How to add a table of contents in Ghost without editing default.hbs](https://dev.to/dango0812/how-to-add-a-table-of-contents-in-ghost-without-editing-defaulthbs-53jd)
+- [SvelteKit responsive helper](https://dev.to/hefeust/sveltekit-responsive-helper-283c)
+- [I passed my driver&#39;s license and I&#39;m very happy!🥳🚗 I didn’t expect that I would succeed, especially on the very first try😅](https://dev.to/kelly_grabill_usa/i-passed-my-drivers-license-and-im-very-happy-i-didnt-expect-that-i-would-succeed-especially-on-the-very-first-try-3pf3)
+- [16 Free New APIs to Supercharge Your Next Project](https://dev.to/halimshams/16-free-new-apis-to-supercharge-your-next-project-4j26)
 <!-- BLOG-POST-LIST:END -->
 
