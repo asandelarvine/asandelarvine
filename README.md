@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m struggling with some error on my react-native-expo project...](https://dev.to/wei_chen_5d8ce7675b352017/im-struggling-with-some-error-on-my-react-native-expo-project-4lf4)
-- [Tracking User Account Changes in Real-Time: A Debezium and ClickHouse Implementation](https://dev.to/ranjbaryshahab/tracking-user-account-changes-in-real-time-a-debezium-and-clickhouse-implementation-350)
-- [Cómo utilizar el módulo de Terraform para Azure Key Vault](https://dev.to/danieljsaldana/como-utilizar-el-modulo-de-terraform-para-azure-key-vault-3f3p)
-- [Nueva gran actualización en nuestro sitio web](https://dev.to/danieljsaldana/nueva-gran-actualizacion-en-nuestro-sitio-web-1meg)
+- [What is Serverless Computing?](https://dev.to/monikaprajapati_70/what-is-serverless-computing-2njf)
+- [Low-code developers, what was your career journey?](https://dev.to/outsystems/low-code-developers-what-was-your-career-journey-514n)
+- [Leap days, and the quest for the perfect Calendar](https://dev.to/darshan-as/leap-days-and-the-quest-for-the-perfect-calendar-3hk1)
+- [What Is an AI Coding Assistant?](https://dev.to/giladmaayan/what-is-an-ai-coding-assistant-gfd)
 <!-- BLOG-POST-LIST:END -->
 
