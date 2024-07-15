@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 JavaScript Projects to Boost Your Portfolio 🚀](https://dev.to/dipakahirav/top-15-javascript-projects-to-boost-your-portfolio-1fem)
-- [Olá mundo!](https://dev.to/unimatrix2/ola-mundo-40ge)
-- [Laravel Wildcard Routes &amp; Fallback Routes](https://dev.to/buddhieash/laravel-wildcard-routes-fallback-routes-2k3a)
-- [logical_xor&lpar;&rpar; and logical_not&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/logicalxor-and-logicalnot-in-pytorch-3boh)
+- [Using MongoDB on Docker](https://dev.to/chauhoangminhnguyen/using-mongodb-on-docker-28o5)
+- [Play Game 🎮 Earn Coupon | Wix Studio eCommerce Engagement 📈 Tool](https://dev.to/rajeshj3/play-game-earn-coupon-wix-studio-ecommerce-engagement-tool-29l0)
+- [event calendar/fixed](https://dev.to/handeman67/event-calendarfixed-574e)
+- [List or LazyVStack: Choosing the Right Lazy Container in SwiftUI](https://dev.to/fatbobman/list-or-lazyvstack-choosing-the-right-lazy-container-in-swiftui-jfc)
 <!-- BLOG-POST-LIST:END -->
 
