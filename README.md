@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Different monads #11](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-different-monads-11-2je1)
-- [Fix slow queries in Django when using annotate and subqueries](https://dev.to/zeedu_dev/fix-slow-queries-in-django-when-using-annotate-and-subqueries-29ic)
-- [Build a Dynamic Photo Collection App With Django](https://dev.to/sharony/build-a-dynamic-photo-collection-app-with-django-1ke2)
-- [Creating a Smooth Toggle Switch in React: A Step-by-Step Guide](https://dev.to/promathieuthiry/creating-a-smooth-toggle-switch-in-react-a-step-by-step-guide-3hj)
+- [Building NextJs project, should I use tRPC or Server Actions with React Query?](https://dev.to/areeburrub/building-nextjs-project-should-i-use-trpc-or-server-actions-with-react-query-4pdo)
+- [Fighting the Battle of the Bulge Against Windows](https://dev.to/coffmans/fighting-the-battle-of-the-bulge-against-windows-5582)
+- [Python Loops 1](https://dev.to/coderanger08/python-loops-1-5dho)
+- [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
 <!-- BLOG-POST-LIST:END -->
 
