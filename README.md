@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power Of a Simple Cache System with JavaScript Map](https://dev.to/codewithjohnson/the-power-of-a-simple-cache-system-with-javascript-map-3j01)
-- [Why your Power Platform Setup Needs a Repo](https://dev.to/wyattdave/why-your-power-platform-setup-needs-a-repo-3eg)
-- [QA System Design with LLMs: Practical Instruction Fine-Tuning Gen3 and Gen4 models](https://dev.to/admantium/qa-system-design-with-llms-practical-instruction-fine-tuning-gen3-and-gen4-models-1imk)
-- [Differences Between Edge Stack and Emissary: A Breakdown](https://dev.to/getambassador2024/differences-between-edge-stack-and-emissary-a-breakdown-2dm)
+- [Top Platforms for Deploying Bots: Free and Paid Options](https://dev.to/sh20raj/top-platforms-for-deploying-bots-free-and-paid-options-53e)
+- [7 Essential grep command for software engineers](https://dev.to/hashcode01/7-essential-grep-command-for-software-engineers-19b3)
+- [Streamline MySQL Deployment with Docker and DbVisualizer](https://dev.to/dbvismarketing/streamline-mysql-deployment-with-docker-and-dbvisualizer-54lf)
+- [CC-Shoes: An innovative ecommerce website for buying and personalizing sneakers with an engaging menu design](https://dev.to/ogbotemi2000/cc-shoes-an-innovative-ecommerce-website-for-buying-and-personalizing-sneakers-with-an-engaging-menu-design-317g)
 <!-- BLOG-POST-LIST:END -->
 
