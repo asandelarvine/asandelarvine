@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using MongoDB on Docker](https://dev.to/chauhoangminhnguyen/using-mongodb-on-docker-28o5)
-- [Play Game 🎮 Earn Coupon | Wix Studio eCommerce Engagement 📈 Tool](https://dev.to/rajeshj3/play-game-earn-coupon-wix-studio-ecommerce-engagement-tool-29l0)
-- [event calendar/fixed](https://dev.to/handeman67/event-calendarfixed-574e)
-- [List or LazyVStack: Choosing the Right Lazy Container in SwiftUI](https://dev.to/fatbobman/list-or-lazyvstack-choosing-the-right-lazy-container-in-swiftui-jfc)
+- [Understanding the `this` Keyword in JavaScript](https://dev.to/mdhassanpatwary/understanding-the-this-keyword-in-javascript-12ea)
+- [JavaScript Event Loop: A Deep Dive](https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289)
+- [Yet another attempt to get better at chess](https://dev.to/mrdimosthenis/yet-another-attempt-to-get-better-at-chess-5fjm)
+- [#25 — Write Continuous Numbers in A String of Numbers as Intervals](https://dev.to/judith677/25-write-continuous-numbers-in-a-string-of-numbers-as-intervals-2i5o)
 <!-- BLOG-POST-LIST:END -->
 
