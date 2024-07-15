@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Platforms for Deploying Bots: Free and Paid Options](https://dev.to/sh20raj/top-platforms-for-deploying-bots-free-and-paid-options-53e)
-- [7 Essential grep command for software engineers](https://dev.to/hashcode01/7-essential-grep-command-for-software-engineers-19b3)
-- [Streamline MySQL Deployment with Docker and DbVisualizer](https://dev.to/dbvismarketing/streamline-mysql-deployment-with-docker-and-dbvisualizer-54lf)
-- [CC-Shoes: An innovative ecommerce website for buying and personalizing sneakers with an engaging menu design](https://dev.to/ogbotemi2000/cc-shoes-an-innovative-ecommerce-website-for-buying-and-personalizing-sneakers-with-an-engaging-menu-design-317g)
+- [🔐Password manager with react, nodejs &amp; mysql part III🚀](https://dev.to/brokarim/password-manager-with-react-nodejs-mysql-part-iii-13o2)
+- [Create a String to Color Helper with Ruby &lpar;and Rails&rpar;](https://dev.to/railsdesigner/create-a-string-to-color-helper-with-rub-2l5a)
+- [Debugging C Programs: Tools and Techniques for Error-Free Code](https://dev.to/emma_olatujoye/debugging-c-programs-tools-and-techniques-for-error-free-code-8hc)
+- [Gitlab python-based job to remove stale branches](https://dev.to/art_ptushkin/gitlab-python-based-job-to-remove-stale-branches-1i6i)
 <!-- BLOG-POST-LIST:END -->
 
