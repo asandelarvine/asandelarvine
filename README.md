@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add a table of contents in Ghost without editing default.hbs](https://dev.to/dango0812/how-to-add-a-table-of-contents-in-ghost-without-editing-defaulthbs-53jd)
-- [SvelteKit responsive helper](https://dev.to/hefeust/sveltekit-responsive-helper-283c)
-- [I passed my driver&#39;s license and I&#39;m very happy!🥳🚗 I didn’t expect that I would succeed, especially on the very first try😅](https://dev.to/kelly_grabill_usa/i-passed-my-drivers-license-and-im-very-happy-i-didnt-expect-that-i-would-succeed-especially-on-the-very-first-try-3pf3)
-- [16 Free New APIs to Supercharge Your Next Project](https://dev.to/halimshams/16-free-new-apis-to-supercharge-your-next-project-4j26)
+- [GBase 8c MySQL Protocol Compatibility Guide](https://dev.to/congcong/gbase-8c-mysql-protocol-compatibility-guide-1ek1)
+- [Differences between Persistent Connection and Non-Persistent Connection](https://dev.to/pushpendra_sharma_f1d2cbe/differences-between-persistent-connection-and-non-persistent-connection-1o1j)
+- [Mastering Express.js: Building Scalable Web Applications with Node.js](https://dev.to/fakii254/mastering-expressjs-building-scalable-web-applications-with-nodejs-1879)
+- [Introduction to MongoDB: A NoSQL Database for Modern Applications](https://dev.to/fakii254/introduction-to-mongodb-a-nosql-database-for-modern-applications-149n)
 <!-- BLOG-POST-LIST:END -->
 
