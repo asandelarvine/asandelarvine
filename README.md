@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Summer Edition 🌞&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-summer-edition--22g1)
-- [Building Progressive Web Apps &lpar;PWAs&rpar;: Unleashing the Power of Native-Like Experiences](https://dev.to/alihaggag11/show-draftsbuilding-progressive-web-apps-pwas-unleashing-the-power-of-native-like-experiences-27l9)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;08/07/2024-14/07/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-08072024-14072024-4boh)
-- [fmin&lpar;&rpar; and fmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/fmin-and-fmax-in-pytorch-2b15)
+- [What is &#39;foo&#39; &#39;bar&#39; REALLY?](https://dev.to/buildwebcrumbs/what-is-foo-bar-really-4n8g)
+- [VIPER Architecture](https://dev.to/sazardev/viper-architecture-2pb8)
+- [Kubernetes in Action: Architecture, Features and Free Resources](https://dev.to/subodh_bagde/kubernetes-in-action-architecture-features-and-free-resources-d52)
+- [How and Why we add comments in CSS](https://dev.to/wasifali/how-and-why-we-add-comments-in-css-3476)
 <!-- BLOG-POST-LIST:END -->
 
