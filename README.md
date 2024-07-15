@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the `this` Keyword in JavaScript](https://dev.to/mdhassanpatwary/understanding-the-this-keyword-in-javascript-12ea)
-- [JavaScript Event Loop: A Deep Dive](https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289)
-- [Yet another attempt to get better at chess](https://dev.to/mrdimosthenis/yet-another-attempt-to-get-better-at-chess-5fjm)
-- [#25 — Write Continuous Numbers in A String of Numbers as Intervals](https://dev.to/judith677/25-write-continuous-numbers-in-a-string-of-numbers-as-intervals-2i5o)
+- [Once You Touch It, You Own It!](https://dev.to/canro91/once-you-touch-it-you-own-it-39na)
+- [Developing Applications Using Microservices: An Engineering Approach](https://dev.to/adityabhuyan/developing-applications-using-microservices-an-engineering-approach-5coe)
+- [Basic Operating system questions](https://dev.to/zeeshanali0704/basic-operating-system-questions-4f42)
+- [How to Connect MongoDB with Node.js: A Comprehensive Guide](https://dev.to/suleman_ahmed_rajput/how-to-connect-mongodb-with-nodejs-a-comprehensive-guide-1hga)
 <!-- BLOG-POST-LIST:END -->
 
