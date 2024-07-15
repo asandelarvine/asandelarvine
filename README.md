@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing Algorithm Time Complexity](https://dev.to/paulike/analyzing-algorithm-time-complexity-1fc5)
-- [Design Pattern: Publisher-Subscriber](https://dev.to/nilebits/design-pattern-publisher-subscriber-5136)
-- [User Acceptance Testing &lpar;UAT&rpar; – Meaning, How-to guide, Process Template and Agile Quality](https://dev.to/alishahndrsn/user-acceptance-testing-uat-meaning-how-to-guide-process-template-and-agile-quality-1klg)
-- [How to Manage Your Node.js Versions Using the Node Version Manager &lpar;NVM&rpar;](https://dev.to/mmili_01/how-to-manage-your-nodejs-versions-using-the-node-version-manager-nvm-4dp8)
+- [Mastering Selenium WebDriver for Efficient Automation Testing](https://dev.to/gadekar_sachin/mastering-selenium-webdriver-for-efficient-automation-testing-316h)
+- [Mastering CSS: Understanding the Cascade](https://dev.to/mustapha/mastering-css-understanding-the-cascade-15g)
+- [Os desafios para a modernização de software](https://dev.to/ramonduraes/os-desafios-para-a-modernizacao-de-software-3eo9)
+- [Service: O pattern que virou anti-pattern](https://dev.to/asouza/service-o-pattern-que-virou-anti-pattern-568f)
 <!-- BLOG-POST-LIST:END -->
 
