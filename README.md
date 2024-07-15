@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Serverless Computing?](https://dev.to/monikaprajapati_70/what-is-serverless-computing-2njf)
-- [Low-code developers, what was your career journey?](https://dev.to/outsystems/low-code-developers-what-was-your-career-journey-514n)
-- [Leap days, and the quest for the perfect Calendar](https://dev.to/darshan-as/leap-days-and-the-quest-for-the-perfect-calendar-3hk1)
-- [What Is an AI Coding Assistant?](https://dev.to/giladmaayan/what-is-an-ai-coding-assistant-gfd)
+- [Circuit Switching in Computer Networks: A Comprehensive Guide](https://dev.to/m__mdy__m/circuit-switching-in-computer-networks-a-comprehensive-guide-1o29)
+- [Microservices Architecture with Spring Cloud](https://dev.to/vidhi_jayswal/microservices-architecture-with-spring-cloud-lff)
+- [Adding a User-Controlled Camera Feature To Our Python GUI Clock](https://dev.to/scofieldidehen/adding-a-user-controlled-camera-feature-to-our-python-gui-clock-m8d)
+- [HTMX + Go : Build a CRUD App with Golang and HTMX](https://dev.to/coderonfleek/htmx-go-build-a-crud-app-with-golang-and-htmx-1le2)
 <!-- BLOG-POST-LIST:END -->
 
