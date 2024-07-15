@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Sales: Launching Your Startup Product with Frictionless Funnels](https://dev.to/shieldstring/seamless-sales-launching-your-startup-product-with-frictionless-funnels-56gl)
-- [AGRIOS ECOMMERCE WEBSITE](https://dev.to/blaze_26/agrios-ecommerce-website-2kjm)
-- [How to upload Project on GitHub: A Step-by-Step Guide](https://dev.to/johnmaths9/how-to-upload-project-on-github-a-step-by-step-guide-14dp)
-- [Host your own PaaS &lpar;platform as a service&rpar; on Amazon Web Services](https://dev.to/jamesmurdza/host-your-own-paas-platform-as-a-service-on-amazon-web-services-3f0d)
+- [Day6 of 100DaysOfJavaScript](https://dev.to/koichiarai/day6-of-100daysofjavascript-440o)
+- [Beating the Odds: The Mathematics Behind Casino Profits](https://dev.to/ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-313o)
+- [Building Real-Time Applications with WebSockets and Reactive Streams](https://dev.to/tutorialq/building-real-time-applications-with-websockets-and-reactive-streams-1mo)
+- [CSS Container Queries:](https://dev.to/julianoalvescode/css-container-queries-44pm)
 <!-- BLOG-POST-LIST:END -->
 
