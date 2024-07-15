@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is &#39;foo&#39; &#39;bar&#39; REALLY?](https://dev.to/buildwebcrumbs/what-is-foo-bar-really-4n8g)
-- [VIPER Architecture](https://dev.to/sazardev/viper-architecture-2pb8)
-- [Kubernetes in Action: Architecture, Features and Free Resources](https://dev.to/subodh_bagde/kubernetes-in-action-architecture-features-and-free-resources-d52)
-- [How and Why we add comments in CSS](https://dev.to/wasifali/how-and-why-we-add-comments-in-css-3476)
+- [Implementing Queues Using Linked Lists in NestJS](https://dev.to/ezilemdodana/implementing-queues-using-linked-lists-in-nestjs-539h)
+- [What is manual Testing?What are the benefits and drawbacks of manual testing?Give some Examples in support of your answer?](https://dev.to/dhivya_04/what-is-manual-testingwhat-are-the-benefits-and-drawbacks-of-manual-testinggive-some-examples-in-support-of-your-answer-359n)
+- [Asynchronous JavaScript: The TL;DR Version You&#39;ll Always Recall](https://dev.to/adityabhattad/asynchronous-javascript-a-comprehensive-guide-hkf)
+- [Python : Simple Calculator](https://dev.to/rajkannan_rajagopal/python-simple-calculator-29jf)
 <!-- BLOG-POST-LIST:END -->
 
