@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s In The Box?](https://dev.to/nmiller15/whats-in-the-box-4nh0)
-- [A state of AI in 2024](https://dev.to/jdxlabs/a-state-of-ai-in-2024-2cgj)
-- [CQRS &lpar;Command Query Responsibility Segregation&rpar;](https://dev.to/ortizdavid/cqrs-command-query-responsibility-segregation-5an8)
-- [VScode devops ultra pack](https://dev.to/target-ops/vscode-devops-ultra-pack-2kog)
+- [Music Monday — What are you listening to? &lpar;Summer Edition 🌞&rpar;](https://dev.to/music-discussions/music-monday-what-are-you-listening-to-summer-edition--22g1)
+- [Building Progressive Web Apps &lpar;PWAs&rpar;: Unleashing the Power of Native-Like Experiences](https://dev.to/alihaggag11/show-draftsbuilding-progressive-web-apps-pwas-unleashing-the-power-of-native-like-experiences-27l9)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;08/07/2024-14/07/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-08072024-14072024-4boh)
+- [fmin&lpar;&rpar; and fmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/fmin-and-fmax-in-pytorch-2b15)
 <!-- BLOG-POST-LIST:END -->
 
