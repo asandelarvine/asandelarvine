@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Speaker Feedback in Speech Transcription Using Web Audio API](https://dev.to/fosteman/how-to-prevent-speaker-feedback-in-speech-transcription-using-web-audio-api-2da4)
-- [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
-- [Understanding SOLID design principles with easy coding examples](https://dev.to/aneeqakhan/understanding-solid-design-principles-with-easy-coding-examples-1k1d)
-- [Ulisse @ CyberChallenge.IT 2024](https://dev.to/ulisse/ulisse-cyberchallengeit-2024-opo)
+- [Introduction to Functional Programming in JavaScript: Different monads #11](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-different-monads-11-2je1)
+- [Fix slow queries in Django when using annotate and subqueries](https://dev.to/zeedu_dev/fix-slow-queries-in-django-when-using-annotate-and-subqueries-29ic)
+- [Build a Dynamic Photo Collection App With Django](https://dev.to/sharony/build-a-dynamic-photo-collection-app-with-django-1ke2)
+- [Creating a Smooth Toggle Switch in React: A Step-by-Step Guide](https://dev.to/promathieuthiry/creating-a-smooth-toggle-switch-in-react-a-step-by-step-guide-3hj)
 <!-- BLOG-POST-LIST:END -->
 
