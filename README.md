@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of DORA Metrics in Accelerating Software Delivery](https://dev.to/rose_rusell_8839af0b0bba5/the-role-of-dora-metrics-in-accelerating-software-delivery-4505)
-- [Les meilleurs templates gratuits pour vos sites web](https://dev.to/mscholzdev/les-meilleurs-templates-gratuits-pour-vos-sites-web-op3)
-- [Mastering the Fine Art of Web Development with PHP](https://dev.to/jinesh_vora_ab4d7886e6a8d/mastering-the-fine-art-of-web-development-with-php-59kd)
-- [Task 2 - Constants and variables](https://dev.to/ganesh_balaraman_6edae0d9/task-2-constants-and-variables-fkn)
+- [Analyzing Algorithm Time Complexity](https://dev.to/paulike/analyzing-algorithm-time-complexity-1fc5)
+- [Design Pattern: Publisher-Subscriber](https://dev.to/nilebits/design-pattern-publisher-subscriber-5136)
+- [User Acceptance Testing &lpar;UAT&rpar; – Meaning, How-to guide, Process Template and Agile Quality](https://dev.to/alishahndrsn/user-acceptance-testing-uat-meaning-how-to-guide-process-template-and-agile-quality-1klg)
+- [How to Manage Your Node.js Versions Using the Node Version Manager &lpar;NVM&rpar;](https://dev.to/mmili_01/how-to-manage-your-nodejs-versions-using-the-node-version-manager-nvm-4dp8)
 <!-- BLOG-POST-LIST:END -->
 
