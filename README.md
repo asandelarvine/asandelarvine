@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Selenium WebDriver for Efficient Automation Testing](https://dev.to/gadekar_sachin/mastering-selenium-webdriver-for-efficient-automation-testing-316h)
-- [Mastering CSS: Understanding the Cascade](https://dev.to/mustapha/mastering-css-understanding-the-cascade-15g)
-- [Os desafios para a modernização de software](https://dev.to/ramonduraes/os-desafios-para-a-modernizacao-de-software-3eo9)
-- [Service: O pattern que virou anti-pattern](https://dev.to/asouza/service-o-pattern-que-virou-anti-pattern-568f)
+- [What&#39;s In The Box?](https://dev.to/nmiller15/whats-in-the-box-4nh0)
+- [A state of AI in 2024](https://dev.to/jdxlabs/a-state-of-ai-in-2024-2cgj)
+- [CQRS &lpar;Command Query Responsibility Segregation&rpar;](https://dev.to/ortizdavid/cqrs-command-query-responsibility-segregation-5an8)
+- [VScode devops ultra pack](https://dev.to/target-ops/vscode-devops-ultra-pack-2kog)
 <!-- BLOG-POST-LIST:END -->
 
