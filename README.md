@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Queues Using Linked Lists in NestJS](https://dev.to/ezilemdodana/implementing-queues-using-linked-lists-in-nestjs-539h)
-- [What is manual Testing?What are the benefits and drawbacks of manual testing?Give some Examples in support of your answer?](https://dev.to/dhivya_04/what-is-manual-testingwhat-are-the-benefits-and-drawbacks-of-manual-testinggive-some-examples-in-support-of-your-answer-359n)
-- [Asynchronous JavaScript: The TL;DR Version You&#39;ll Always Recall](https://dev.to/adityabhattad/asynchronous-javascript-a-comprehensive-guide-hkf)
-- [Python : Simple Calculator](https://dev.to/rajkannan_rajagopal/python-simple-calculator-29jf)
+- [I&#39;m struggling with some error on my react-native-expo project...](https://dev.to/wei_chen_5d8ce7675b352017/im-struggling-with-some-error-on-my-react-native-expo-project-4lf4)
+- [Tracking User Account Changes in Real-Time: A Debezium and ClickHouse Implementation](https://dev.to/ranjbaryshahab/tracking-user-account-changes-in-real-time-a-debezium-and-clickhouse-implementation-350)
+- [Cómo utilizar el módulo de Terraform para Azure Key Vault](https://dev.to/danieljsaldana/como-utilizar-el-modulo-de-terraform-para-azure-key-vault-3f3p)
+- [Nueva gran actualización en nuestro sitio web](https://dev.to/danieljsaldana/nueva-gran-actualizacion-en-nuestro-sitio-web-1meg)
 <!-- BLOG-POST-LIST:END -->
 
