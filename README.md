@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Once You Touch It, You Own It!](https://dev.to/canro91/once-you-touch-it-you-own-it-39na)
-- [Developing Applications Using Microservices: An Engineering Approach](https://dev.to/adityabhuyan/developing-applications-using-microservices-an-engineering-approach-5coe)
-- [Basic Operating system questions](https://dev.to/zeeshanali0704/basic-operating-system-questions-4f42)
-- [How to Connect MongoDB with Node.js: A Comprehensive Guide](https://dev.to/suleman_ahmed_rajput/how-to-connect-mongodb-with-nodejs-a-comprehensive-guide-1hga)
+- [The Power Of a Simple Cache System with JavaScript Map](https://dev.to/codewithjohnson/the-power-of-a-simple-cache-system-with-javascript-map-3j01)
+- [Why your Power Platform Setup Needs a Repo](https://dev.to/wyattdave/why-your-power-platform-setup-needs-a-repo-3eg)
+- [QA System Design with LLMs: Practical Instruction Fine-Tuning Gen3 and Gen4 models](https://dev.to/admantium/qa-system-design-with-llms-practical-instruction-fine-tuning-gen3-and-gen4-models-1imk)
+- [Differences Between Edge Stack and Emissary: A Breakdown](https://dev.to/getambassador2024/differences-between-edge-stack-and-emissary-a-breakdown-2dm)
 <!-- BLOG-POST-LIST:END -->
 
