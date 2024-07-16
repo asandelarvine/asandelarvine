@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Tutorial for CRUD Operations in NodeJS and MongoDB](https://dev.to/danmusembi/beginners-tutorial-for-crud-operations-in-nodejs-and-mongodb-k7k)
-- [Have you tried all API calls in JavaScript? Here are 4 ways to do it](https://dev.to/tomasdevs/have-you-tried-all-api-calls-in-javascript-here-are-4-ways-to-do-it-4l4d)
-- [System Architecture Design Methodologies Part1](https://dev.to/usmanatx/system-architecture-design-methodologies-part1-3g6p)
-- [How often do you run your agile retrospectives?](https://dev.to/mattlewandowski93/how-often-do-you-run-your-agile-retrospectives-19lg)
+- [Introduction to ElasticSearch in Laravel](https://dev.to/devbalop/introduction-to-elasticsearch-in-laravel-1e34)
+- [Fullstack Blog with Tanstack Query, Zustand, Flask, JWT, Cookies | Register, Login, CRUD Post Tutorial](https://dev.to/henry_lee_1787e739b0c8191/fullstack-blog-with-tanstack-query-zustand-flask-jwt-cookies-register-login-crud-post-tutorial-2kjh)
+- [Day 13 of my 90-Devops project: Setting Up a CI/CD Pipeline with Docker and Kubernetes on GitLab](https://dev.to/arbythecoder/day-13-of-my-90-devops-project-setting-up-a-cicd-pipeline-with-docker-and-kubernetes-on-gitlab-52m)
+- [EnvLock: The Ultimate Env Manager](https://dev.to/siyabuilt/envlock-the-ultimate-env-manager-11ha)
 <!-- BLOG-POST-LIST:END -->
 
