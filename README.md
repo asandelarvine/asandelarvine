@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add an AI Voice Assistant to Your React App](https://dev.to/mahmoudz/how-to-add-an-ai-voice-assistant-to-your-react-app-15ne)
-- [Network in Database](https://dev.to/technonotes/network-in-database-c2c)
-- [Tips for Resource Allocation in Project Management](https://dev.to/bryany/tips-for-resource-allocation-in-project-management-153f)
-- [VS Code Shortcut Tips: Boost Your Productivity](https://dev.to/mdhassanpatwary/vs-code-shortcut-tips-boost-your-productivity-2ba7)
+- [My Testing Journey with Jasmine and Mocha](https://dev.to/keploy/my-testing-journey-with-jasmine-and-mocha-4624)
+- [2024-07-15: Uneventful](https://dev.to/armantark/2024-07-15-uneventful-3hd)
+- [LeetCode Day34 Dynamic Programming part8](https://dev.to/flame_chan_llll/leetcode-day34-dynamic-programming-part8-55hh)
+- [How to Avoid the Lottery Factor](https://dev.to/joaomarques/how-to-avoid-the-lottery-factor-52e2)
 <!-- BLOG-POST-LIST:END -->
 
