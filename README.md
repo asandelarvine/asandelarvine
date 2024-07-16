@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Obtain M2M access tokens in minutes with Postman](https://dev.to/logto/obtain-m2m-access-tokens-in-minutes-with-postman-3c7h)
-- [How I migrated my course platform to the SPARTAN stack &lpar;Angular Global Summit 2024&rpar;](https://dev.to/chrislydemann/how-i-migrated-my-course-platform-to-the-spartan-stack-angular-global-summit-2024-17kf)
-- [Send certificate &amp; Key file in Rest Api](https://dev.to/shahanshah_alam_e5655bc6d/send-certificate-key-file-in-rest-api-47f8)
-- [IntelliType: Python Type Hinting with Hoverable Docstrings](https://dev.to/crimson206/intellitype-python-type-hinting-with-hoverable-docstrings-2bck)
+- [Weather widget / component in Next.js](https://dev.to/skidee/weather-widget-component-in-nextjs-3kgo)
+- [Facebook Graph API GET Page Access Token](https://dev.to/neeraj1005/facebook-graph-api-get-page-access-token-4l3k)
+- [Swifter and Swifty: Mastering the Swift Testing Framework](https://dev.to/fatbobman/swifter-and-swifty-mastering-the-swift-testing-framework-2dki)
+- [Building a Modular Decoupled Backend using a Monorepo](https://dev.to/woovi/building-a-modular-decoupled-backend-using-a-monorepo-2fik)
 <!-- BLOG-POST-LIST:END -->
 
