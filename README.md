@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Tutorial for CRUD Operations in NodeJS and MongoDB](https://dev.to/danmusembi/beginners-tutorial-for-crud-operations-in-nodejs-and-mongodb-k7k)
+- [Have you tried all API calls in JavaScript? Here are 4 ways to do it](https://dev.to/tomasdevs/have-you-tried-all-api-calls-in-javascript-here-are-4-ways-to-do-it-4l4d)
+- [System Architecture Design Methodologies Part1](https://dev.to/usmanatx/system-architecture-design-methodologies-part1-3g6p)
 - [How often do you run your agile retrospectives?](https://dev.to/mattlewandowski93/how-often-do-you-run-your-agile-retrospectives-19lg)
-- [Open Source C++ Stack](https://dev.to/eugeneo_17/open-source-c-stack-2j67)
-- [Integration of Artificial Intelligence and Machine Learning in Cloud Security](https://dev.to/joshwizard/integration-of-artificial-intelligence-and-machine-learning-in-cloud-security-62b)
-- [Managing Kubernetes on Hetzner with Cluster API](https://dev.to/syself/managing-kubernetes-on-hetzner-with-cluster-api-59o8)
 <!-- BLOG-POST-LIST:END -->
 
