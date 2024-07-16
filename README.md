@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Page Applications &lpar;SPAs&rpar;](https://dev.to/sh20raj/single-page-applications-spas-5a7i)
-- [T-shirt Tuesday!](https://dev.to/buildwebcrumbs/t-shirt-tuesday-4k7o)
-- [Deep Dive into Elastic Cloud Enterprise &lpar;ECE&rpar;](https://dev.to/sennovate/deep-dive-into-elastic-cloud-enterprise-ece-44g2)
-- [Pergunte ao especialista - Break e goto](https://dev.to/devsjavagirls/pergunte-ao-especialista-break-e-goto-12dm)
+- [VSCode Tips &amp; Tricks - Open Class per Name](https://dev.to/intersystems/vscode-tips-tricks-open-class-per-name-1fpo)
+- [Task-3 Qsn-5](https://dev.to/perumal_s_9a6d79a633d63d4/task-3-qsn-5-412n)
+- [VSCode Tips &amp; Tricks - Web Terminal](https://dev.to/intersystems/vscode-tips-tricks-web-terminal-3dk2)
+- [How to deploy a free Kubernetes Cluster with Oracle Cloud Always free tier](https://dev.to/ronilsonalves/how-to-deploy-a-free-kubernetes-cluster-with-oracle-cloud-always-free-tier-29o4)
 <!-- BLOG-POST-LIST:END -->
 
