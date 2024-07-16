@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Git Log: Unlocking the power of Version Control](https://dev.to/fernandomullerjr/mastering-git-log-unlocking-the-power-of-version-control-d3b)
-- [FacePlugin’s Passive Liveness Detection—Unveiling the Secrets Behind Authenticity](https://dev.to/faceplugin/faceplugins-passive-liveness-detection-unveiling-the-secrets-behind-authenticity-33p5)
-- [Common Lisp&#39;s group-by is Serapeum:assort](https://dev.to/vindarel/common-lisps-group-by-is-serapeumassort-32ma)
-- [Day 12 of my 90-Devops Journey: CI/CD for Containerized Applications: A GitLab Guide](https://dev.to/arbythecoder/day-12-of-my-90-devops-journey-cicd-for-containerized-applications-a-gitlab-guide-1hfd)
+- [Tips for popularising an open source project?](https://dev.to/tonyrome/tips-for-popularising-an-open-source-project-2cda)
+- [Uma história sobre HTTP status code e por que você deve ler a documentação](https://dev.to/dougsource/uma-historia-sobre-http-status-code-e-por-que-voce-deve-ler-a-documentacao-h42)
+- [[Unity] A simple way to manage Git for personal development, even for Git beginners](https://dev.to/uni928/unity-a-simple-way-to-manage-git-for-personal-development-even-for-git-beginners-33p2)
+- [🚀 Exciting News!](https://dev.to/harrisahmad/exciting-news-omb)
 <!-- BLOG-POST-LIST:END -->
 
