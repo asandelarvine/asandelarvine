@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Embedded Systems and Desktop Systems](https://dev.to/jpdengler/comparing-embedded-systems-and-desktop-systems-2lm6)
-- [Human-in-the-Loop Visual Re-ID for Population Size Estimation](https://dev.to/mikeyoung44/human-in-the-loop-visual-re-id-for-population-size-estimation-1an)
-- [UNSAT Solver Synthesis via Monte Carlo Forest Search](https://dev.to/mikeyoung44/unsat-solver-synthesis-via-monte-carlo-forest-search-3m22)
-- [Pexl Keys - How to Upgrade Microsoft Office 2019 to 2021](https://dev.to/pexlkeys/pexl-keys-how-to-upgrade-microsoft-office-2019-to-2021-8i7)
+- [What Are SOLID Principles? Simplifying Software Architecture](https://dev.to/vampirepapi/what-are-solid-principles-simplifying-software-architecture-2cbf)
+- [How to build a full stack blog application using NodeJS MongoDB ExpressJS](https://dev.to/codewithsadee/how-to-build-a-full-stack-blog-application-using-nodejs-mongodb-expressjs-4mkj)
+- [Best Architecture for Your Next Project, Framework Doesn’t Matter! 🎉](https://dev.to/middleware/best-architecture-for-your-next-project-framework-doesnt-matter-29em)
+- [Typescript tuples aren&#39;t tuples](https://dev.to/rrees/typescript-tuples-arent-tuples-28kj)
 <!-- BLOG-POST-LIST:END -->
 
