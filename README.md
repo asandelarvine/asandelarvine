@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices in JavaScript Development](https://dev.to/sh20raj/best-practices-in-javascript-development-2amp)
-- [Spring Security Oauth2 Password JPA Implementation](https://dev.to/andrewkangg/spring-security-oauth2-password-jpa-implementation-3k6d)
-- [Why[&#39;1&#39;,&#39;5&#39;,&#39;11&#39;].map&lpar;parseInt&rpar; returns [1, NaN, 3] in Javascript](https://dev.to/safdarali/why1511mapparseint-returns-1-nan-3-in-javascript-2mhm)
-- [Kubernetes- Advanced Concepts: Day 8 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/kubernetes-advanced-concepts-day-8-of-50-days-devops-tools-series-5f0p)
+- [Next in the Journey: Neuro-Symbolic AI](https://dev.to/nucleoid/next-in-the-journey-neuro-symbolic-ai-2id9)
+- [What are Azure&#39;s Deployment Models?](https://dev.to/1hamzabek/what-are-azures-deployment-models-21if)
+- [Running Llama 3, Mixtral, and GPT-4o](https://dev.to/zilliz/running-llama-3-mixtral-and-gpt-4o-4m5f)
+- [7 Best Chat APIs for Web, Mobile, and Desktop Apps](https://dev.to/emilyrobertsatstream/7-best-chat-apis-for-web-mobile-and-desktop-apps-3bn2)
 <!-- BLOG-POST-LIST:END -->
 
