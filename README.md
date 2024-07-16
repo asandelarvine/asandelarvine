@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Benefits of Caching: Improving Web Performance and Responsiveness](https://dev.to/devot/the-benefits-of-caching-improving-web-performance-and-responsiveness-14c9)
-- [How to Access Your Local Development Server on Any Device Using Vite](https://dev.to/basitjawad/how-to-access-your-local-development-server-on-any-device-using-vite-3j5p)
-- [Essential YouTube Channels for Mastering Web Development](https://dev.to/abidullah786/essential-youtube-channels-for-mastering-web-development-8la)
-- [Mastering Application Permissions in SharePoint Embedded](https://dev.to/jaloplo/mastering-application-permissions-in-sharepoint-embedded-15jo)
+- [“How Spain’s Victory at Euro 2024 Inspired the Creation of an Interactive Football App Using JavaScript”](https://dev.to/alexroor4/how-spains-victory-at-euro-2024-inspired-the-creation-of-an-interactive-football-app-using-javascript-phh)
+- [Artificial Intelligence with ML.NET for text classifications](https://dev.to/ben-witt/artificial-intelligence-with-mlnet-for-text-classifications-42j6)
+- [Top 10 must use Nuxt modules](https://dev.to/leamsigc/top-10-must-use-nuxt-modules-dmo)
+- [Functions in Rust](https://dev.to/danielmwandiki/functions-in-rust-2egi)
 <!-- BLOG-POST-LIST:END -->
 
