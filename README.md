@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Testing Journey with Jasmine and Mocha](https://dev.to/keploy/my-testing-journey-with-jasmine-and-mocha-4624)
-- [2024-07-15: Uneventful](https://dev.to/armantark/2024-07-15-uneventful-3hd)
-- [LeetCode Day34 Dynamic Programming part8](https://dev.to/flame_chan_llll/leetcode-day34-dynamic-programming-part8-55hh)
-- [How to Avoid the Lottery Factor](https://dev.to/joaomarques/how-to-avoid-the-lottery-factor-52e2)
+- [Easy GitHub Codespaces Setup: Your App, Postgres, and pgAdmin](https://dev.to/shettigarc/easy-github-codespaces-setup-your-app-postgres-and-pgadmin-3b08)
+- [Building a Contact Form with React and PHP](https://dev.to/devabdul/building-a-contact-form-with-react-and-php-ae7)
+- [Implementing Digital Accessibility: A Guide for Web Developers](https://dev.to/mdhassanpatwary/implementing-digital-accessibility-a-guide-for-web-developers-bl7)
+- [Security Testing – An Effective Guide for Businesses](https://dev.to/jignect_technologies/security-testing-an-effective-guide-for-businesses-4pmp)
 <!-- BLOG-POST-LIST:END -->
 
