@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy GitHub Codespaces Setup: Your App, Postgres, and pgAdmin](https://dev.to/shettigarc/easy-github-codespaces-setup-your-app-postgres-and-pgadmin-3b08)
-- [Building a Contact Form with React and PHP](https://dev.to/devabdul/building-a-contact-form-with-react-and-php-ae7)
-- [Implementing Digital Accessibility: A Guide for Web Developers](https://dev.to/mdhassanpatwary/implementing-digital-accessibility-a-guide-for-web-developers-bl7)
-- [Security Testing – An Effective Guide for Businesses](https://dev.to/jignect_technologies/security-testing-an-effective-guide-for-businesses-4pmp)
+- [The Benefits of Caching: Improving Web Performance and Responsiveness](https://dev.to/devot/the-benefits-of-caching-improving-web-performance-and-responsiveness-14c9)
+- [How to Access Your Local Development Server on Any Device Using Vite](https://dev.to/basitjawad/how-to-access-your-local-development-server-on-any-device-using-vite-3j5p)
+- [Essential YouTube Channels for Mastering Web Development](https://dev.to/abidullah786/essential-youtube-channels-for-mastering-web-development-8la)
+- [Mastering Application Permissions in SharePoint Embedded](https://dev.to/jaloplo/mastering-application-permissions-in-sharepoint-embedded-15jo)
 <!-- BLOG-POST-LIST:END -->
 
