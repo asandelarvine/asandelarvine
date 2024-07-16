@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [“How Spain’s Victory at Euro 2024 Inspired the Creation of an Interactive Football App Using JavaScript”](https://dev.to/alexroor4/how-spains-victory-at-euro-2024-inspired-the-creation-of-an-interactive-football-app-using-javascript-phh)
-- [Artificial Intelligence with ML.NET for text classifications](https://dev.to/ben-witt/artificial-intelligence-with-mlnet-for-text-classifications-42j6)
-- [Top 10 must use Nuxt modules](https://dev.to/leamsigc/top-10-must-use-nuxt-modules-dmo)
-- [Functions in Rust](https://dev.to/danielmwandiki/functions-in-rust-2egi)
+- [How to Test a Game for a Global Audience](https://dev.to/wetest/how-to-test-a-game-for-a-global-audience-a9b)
+- [SOFTWARE RAID OR HARDWARE RAID: WHAT’S BETTER IN 2024?](https://dev.to/pltnvs/software-raid-or-hardware-raidwhats-better-in-2024-1b0o)
+- [You need to start learning MySQL right now!](https://dev.to/valterseu/you-need-to-start-learning-mysql-right-now-4ll0)
+- [DevOps fun #1: if you&#39;re cool enough to watch video in console?](https://dev.to/devopspass-ai/devops-fun-1-if-youre-cool-enough-to-watch-video-in-console-2apc)
 <!-- BLOG-POST-LIST:END -->
 
