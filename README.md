@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GBase 8c: Compatibility and High-Performance Distributed Database](https://dev.to/congcong/gbase-8c-compatibility-and-high-performance-distributed-database-jop)
-- [8 Game-Changing ReactJS Shortcuts for Writing Clean Code in 2024](https://dev.to/vyan/8-game-changing-reactjs-shortcuts-for-writing-clean-code-in-2024-5a21)
-- [The Ultimate Guide to Refreshing Programming Tutorials](https://dev.to/jeffmorhous/the-ultimate-guide-to-refreshing-programming-tutorials-15c3)
-- [Docker: Introdução](https://dev.to/felipeboliveiraptbr/docker-introducao-893)
+- [How to Add an AI Voice Assistant to Your React App](https://dev.to/mahmoudz/how-to-add-an-ai-voice-assistant-to-your-react-app-15ne)
+- [Network in Database](https://dev.to/technonotes/network-in-database-c2c)
+- [Tips for Resource Allocation in Project Management](https://dev.to/bryany/tips-for-resource-allocation-in-project-management-153f)
+- [VS Code Shortcut Tips: Boost Your Productivity](https://dev.to/mdhassanpatwary/vs-code-shortcut-tips-boost-your-productivity-2ba7)
 <!-- BLOG-POST-LIST:END -->
 
