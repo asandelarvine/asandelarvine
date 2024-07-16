@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next in the Journey: Neuro-Symbolic AI](https://dev.to/nucleoid/next-in-the-journey-neuro-symbolic-ai-2id9)
-- [What are Azure&#39;s Deployment Models?](https://dev.to/1hamzabek/what-are-azures-deployment-models-21if)
-- [Running Llama 3, Mixtral, and GPT-4o](https://dev.to/zilliz/running-llama-3-mixtral-and-gpt-4o-4m5f)
-- [7 Best Chat APIs for Web, Mobile, and Desktop Apps](https://dev.to/emilyrobertsatstream/7-best-chat-apis-for-web-mobile-and-desktop-apps-3bn2)
+- [Single Page Applications &lpar;SPAs&rpar;](https://dev.to/sh20raj/single-page-applications-spas-5a7i)
+- [T-shirt Tuesday!](https://dev.to/buildwebcrumbs/t-shirt-tuesday-4k7o)
+- [Deep Dive into Elastic Cloud Enterprise &lpar;ECE&rpar;](https://dev.to/sennovate/deep-dive-into-elastic-cloud-enterprise-ece-44g2)
+- [Pergunte ao especialista - Break e goto](https://dev.to/devsjavagirls/pergunte-ao-especialista-break-e-goto-12dm)
 <!-- BLOG-POST-LIST:END -->
 
