@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building NextJs project, should I use tRPC or Server Actions with React Query?](https://dev.to/areeburrub/building-nextjs-project-should-i-use-trpc-or-server-actions-with-react-query-4pdo)
-- [Fighting the Battle of the Bulge Against Windows](https://dev.to/coffmans/fighting-the-battle-of-the-bulge-against-windows-5582)
-- [Python Loops 1](https://dev.to/coderanger08/python-loops-1-5dho)
-- [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
+- [Mastering Git Log: Unlocking the power of Version Control](https://dev.to/fernandomullerjr/mastering-git-log-unlocking-the-power-of-version-control-d3b)
+- [FacePlugin’s Passive Liveness Detection—Unveiling the Secrets Behind Authenticity](https://dev.to/faceplugin/faceplugins-passive-liveness-detection-unveiling-the-secrets-behind-authenticity-33p5)
+- [Common Lisp&#39;s group-by is Serapeum:assort](https://dev.to/vindarel/common-lisps-group-by-is-serapeumassort-32ma)
+- [Day 12 of my 90-Devops Journey: CI/CD for Containerized Applications: A GitLab Guide](https://dev.to/arbythecoder/day-12-of-my-90-devops-journey-cicd-for-containerized-applications-a-gitlab-guide-1hfd)
 <!-- BLOG-POST-LIST:END -->
 
