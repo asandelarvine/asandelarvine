@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Wix Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23)
-- [Architect level: Managing Forms in React](https://dev.to/__zamora__/architect-level-managing-forms-in-react-49bj)
-- [3 productivity tips for .NET developers](https://dev.to/uno-platform/3-productivity-tips-for-net-developers-4mmo)
-- [Lead level: Lifecycle Methods and Hooks in React](https://dev.to/__zamora__/lead-level-lifecycle-methods-and-hooks-in-react-gna)
+- [Top 10 Cloud Security Startups to Watch in 2024](https://dev.to/nashetking/top-10-cloud-security-startups-to-watch-in-2024-5964)
+- [Build a Compiler in C language](https://dev.to/bekbrace/build-a-compiler-in-c-language-3lgb)
+- [Como configurar o VSCode para seus projetos de React](https://dev.to/dougsource/como-configurar-o-vscode-para-seus-projetos-de-react-k2b)
+- [Create perfect anime characters with GPT-4o and SDXL](https://dev.to/appbaza/create-perfect-anime-characters-with-gpt-4o-and-sdxl-5a36)
 <!-- BLOG-POST-LIST:END -->
 
