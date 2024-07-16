@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Tips &amp; Tricks - Open Class per Name](https://dev.to/intersystems/vscode-tips-tricks-open-class-per-name-1fpo)
-- [Task-3 Qsn-5](https://dev.to/perumal_s_9a6d79a633d63d4/task-3-qsn-5-412n)
-- [VSCode Tips &amp; Tricks - Web Terminal](https://dev.to/intersystems/vscode-tips-tricks-web-terminal-3dk2)
-- [How to deploy a free Kubernetes Cluster with Oracle Cloud Always free tier](https://dev.to/ronilsonalves/how-to-deploy-a-free-kubernetes-cluster-with-oracle-cloud-always-free-tier-29o4)
+- [Congrats to the Wix Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23)
+- [Architect level: Managing Forms in React](https://dev.to/__zamora__/architect-level-managing-forms-in-react-49bj)
+- [3 productivity tips for .NET developers](https://dev.to/uno-platform/3-productivity-tips-for-net-developers-4mmo)
+- [Lead level: Lifecycle Methods and Hooks in React](https://dev.to/__zamora__/lead-level-lifecycle-methods-and-hooks-in-react-gna)
 <!-- BLOG-POST-LIST:END -->
 
