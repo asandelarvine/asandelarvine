@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Cloud Security Startups to Watch in 2024](https://dev.to/nashetking/top-10-cloud-security-startups-to-watch-in-2024-5964)
-- [Build a Compiler in C language](https://dev.to/bekbrace/build-a-compiler-in-c-language-3lgb)
-- [Como configurar o VSCode para seus projetos de React](https://dev.to/dougsource/como-configurar-o-vscode-para-seus-projetos-de-react-k2b)
-- [Create perfect anime characters with GPT-4o and SDXL](https://dev.to/appbaza/create-perfect-anime-characters-with-gpt-4o-and-sdxl-5a36)
+- [How often do you run your agile retrospectives?](https://dev.to/mattlewandowski93/how-often-do-you-run-your-agile-retrospectives-19lg)
+- [Open Source C++ Stack](https://dev.to/eugeneo_17/open-source-c-stack-2j67)
+- [Integration of Artificial Intelligence and Machine Learning in Cloud Security](https://dev.to/joshwizard/integration-of-artificial-intelligence-and-machine-learning-in-cloud-security-62b)
+- [Managing Kubernetes on Hetzner with Cluster API](https://dev.to/syself/managing-kubernetes-on-hetzner-with-cluster-api-59o8)
 <!-- BLOG-POST-LIST:END -->
 
