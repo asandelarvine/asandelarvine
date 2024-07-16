@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of CSS Grid for Modern Web Design](https://dev.to/akshayashet/unlocking-the-power-of-css-grid-for-modern-web-design-1cp)
-- [Beginner Frontend Mistakes and How to Avoid Them](https://dev.to/klimd1389/beginner-frontend-mistakes-and-how-to-avoid-them-4j6a)
-- [Safely Experiment with Angular 18: A Guide for Developers with Existing 16 &amp; 17 Projects](https://dev.to/ingila185/safely-experiment-with-angular-18-a-guide-for-developers-with-existing-16-17-projects-3c3)
-- [Integrate APIs in Android: Compose, MVVM, Retrofit](https://dev.to/tappai/integrate-apis-in-android-compose-mvvm-retrofit-4ec4)
+- [Obtain M2M access tokens in minutes with Postman](https://dev.to/logto/obtain-m2m-access-tokens-in-minutes-with-postman-3c7h)
+- [How I migrated my course platform to the SPARTAN stack &lpar;Angular Global Summit 2024&rpar;](https://dev.to/chrislydemann/how-i-migrated-my-course-platform-to-the-spartan-stack-angular-global-summit-2024-17kf)
+- [Send certificate &amp; Key file in Rest Api](https://dev.to/shahanshah_alam_e5655bc6d/send-certificate-key-file-in-rest-api-47f8)
+- [IntelliType: Python Type Hinting with Hoverable Docstrings](https://dev.to/crimson206/intellitype-python-type-hinting-with-hoverable-docstrings-2bck)
 <!-- BLOG-POST-LIST:END -->
 
