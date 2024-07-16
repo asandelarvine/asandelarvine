@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test a Game for a Global Audience](https://dev.to/wetest/how-to-test-a-game-for-a-global-audience-a9b)
-- [SOFTWARE RAID OR HARDWARE RAID: WHAT’S BETTER IN 2024?](https://dev.to/pltnvs/software-raid-or-hardware-raidwhats-better-in-2024-1b0o)
-- [You need to start learning MySQL right now!](https://dev.to/valterseu/you-need-to-start-learning-mysql-right-now-4ll0)
-- [DevOps fun #1: if you&#39;re cool enough to watch video in console?](https://dev.to/devopspass-ai/devops-fun-1-if-youre-cool-enough-to-watch-video-in-console-2apc)
+- [Unlocking the Power of CSS Grid for Modern Web Design](https://dev.to/akshayashet/unlocking-the-power-of-css-grid-for-modern-web-design-1cp)
+- [Beginner Frontend Mistakes and How to Avoid Them](https://dev.to/klimd1389/beginner-frontend-mistakes-and-how-to-avoid-them-4j6a)
+- [Safely Experiment with Angular 18: A Guide for Developers with Existing 16 &amp; 17 Projects](https://dev.to/ingila185/safely-experiment-with-angular-18-a-guide-for-developers-with-existing-16-17-projects-3c3)
+- [Integrate APIs in Android: Compose, MVVM, Retrofit](https://dev.to/tappai/integrate-apis-in-android-compose-mvvm-retrofit-4ec4)
 <!-- BLOG-POST-LIST:END -->
 
