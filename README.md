@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weather widget / component in Next.js](https://dev.to/skidee/weather-widget-component-in-nextjs-3kgo)
-- [Facebook Graph API GET Page Access Token](https://dev.to/neeraj1005/facebook-graph-api-get-page-access-token-4l3k)
-- [Swifter and Swifty: Mastering the Swift Testing Framework](https://dev.to/fatbobman/swifter-and-swifty-mastering-the-swift-testing-framework-2dki)
-- [Building a Modular Decoupled Backend using a Monorepo](https://dev.to/woovi/building-a-modular-decoupled-backend-using-a-monorepo-2fik)
+- [Comparing Embedded Systems and Desktop Systems](https://dev.to/jpdengler/comparing-embedded-systems-and-desktop-systems-2lm6)
+- [Human-in-the-Loop Visual Re-ID for Population Size Estimation](https://dev.to/mikeyoung44/human-in-the-loop-visual-re-id-for-population-size-estimation-1an)
+- [UNSAT Solver Synthesis via Monte Carlo Forest Search](https://dev.to/mikeyoung44/unsat-solver-synthesis-via-monte-carlo-forest-search-3m22)
+- [Pexl Keys - How to Upgrade Microsoft Office 2019 to 2021](https://dev.to/pexlkeys/pexl-keys-how-to-upgrade-microsoft-office-2019-to-2021-8i7)
 <!-- BLOG-POST-LIST:END -->
 
