@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for popularising an open source project?](https://dev.to/tonyrome/tips-for-popularising-an-open-source-project-2cda)
-- [Uma história sobre HTTP status code e por que você deve ler a documentação](https://dev.to/dougsource/uma-historia-sobre-http-status-code-e-por-que-voce-deve-ler-a-documentacao-h42)
-- [[Unity] A simple way to manage Git for personal development, even for Git beginners](https://dev.to/uni928/unity-a-simple-way-to-manage-git-for-personal-development-even-for-git-beginners-33p2)
-- [🚀 Exciting News!](https://dev.to/harrisahmad/exciting-news-omb)
+- [GBase 8c: Compatibility and High-Performance Distributed Database](https://dev.to/congcong/gbase-8c-compatibility-and-high-performance-distributed-database-jop)
+- [8 Game-Changing ReactJS Shortcuts for Writing Clean Code in 2024](https://dev.to/vyan/8-game-changing-reactjs-shortcuts-for-writing-clean-code-in-2024-5a21)
+- [The Ultimate Guide to Refreshing Programming Tutorials](https://dev.to/jeffmorhous/the-ultimate-guide-to-refreshing-programming-tutorials-15c3)
+- [Docker: Introdução](https://dev.to/felipeboliveiraptbr/docker-introducao-893)
 <!-- BLOG-POST-LIST:END -->
 
