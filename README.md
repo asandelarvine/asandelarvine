@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox &quot;about:config&quot; Flags That I Like 🔥🦊](https://dev.to/kj_sh604/firefox-aboutconfig-flags-that-i-like-5438)
-- [User-configurable settings in Symfony applications with jbtronics/settings-bundle &lpar;Part 3&rpar;: Migrations and environment variables](https://dev.to/jbtronics/user-configurable-settings-in-symfony-applications-with-jbtronicssettings-bundle-part-3-migrations-and-environment-variables-4jpl)
-- [Measuring and minimizing latency in a Kafka Sink Connector](https://dev.to/ably/measuring-and-minimizing-latency-in-a-kafka-sink-connector-3op6)
-- [R Programming: Zero to Hero Series 🚀](https://dev.to/raghavtwenty/r-programming-zero-to-hero-series-4ank)
+- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 4/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-44-5236)
+- [21 Open Source LLM Projects to Become 10x AI Developer](https://dev.to/latitude/21-open-source-llm-projects-to-become-10x-ai-developer-fe0)
+- [Android: Determine how many users are using DarkMode](https://dev.to/paulfranco/android-determine-how-many-users-are-using-darkmode-58dj)
+- [Import Excel/datasheet data to your Nextjs application](https://dev.to/shagun/import-exceldatasheet-data-to-your-nextjs-application-i64)
 <!-- BLOG-POST-LIST:END -->
 
