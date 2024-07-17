@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Has to Be Fun - How I Learn](https://dev.to/juanemilio31323/learning-has-to-be-fun-how-i-learn-5akd)
-- [Architect level: Routing with React Router](https://dev.to/__zamora__/architect-level-routing-with-react-router-3c0j)
-- [Lead level: Routing with React Router](https://dev.to/__zamora__/lead-level-routing-with-react-router-2b2c)
-- [Declarative Multi-Engine Data Stack with Ibis](https://dev.to/letsql/declarative-multi-engine-data-stack-with-ibis-3015)
+- [Hacks and Tricks to Monitor and Optimize Google Core Web Vitals](https://dev.to/koolkamalkishor/hacks-and-tricks-to-monitor-and-optimize-google-core-web-vitals-1ili)
+- [My Journey as a React.js Learning Facilitator for IDCamp 2023](https://dev.to/fazzaamiarso/my-journey-as-a-reactjs-learning-facilitator-for-idcamp-2023-mlg)
+- [How can you prevent malware attacks?](https://dev.to/e0nvpn/how-can-you-prevent-malware-attacks-gl4)
+- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-5g0n)
 <!-- BLOG-POST-LIST:END -->
 
