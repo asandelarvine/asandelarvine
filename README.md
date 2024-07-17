@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Spring Boot Interview Preparation Guide](https://dev.to/vampirepapi/ultimate-spring-boot-interview-preparation-guide-3c99)
-- [Upgrading badly with AI](https://dev.to/strivenword/upgrading-badly-with-ai-45m4)
-- [How to export SQL Server data to XML](https://dev.to/devartteam/how-to-export-sql-server-data-to-xml-8f9)
-- [Gaming &amp; Web3 - How an Open and Secure Future of Ownership in Games Could Look](https://dev.to/hendrikebbers/gaming-web3-how-an-open-and-secure-future-of-ownership-in-games-could-look-2ihf)
+- [Sorting](https://dev.to/paulike/sorting-2pp7)
+- [How I would learn to code in 2024 &lpar;if I could start over&rpar;](https://dev.to/agunwachidiebelecalistus/how-i-would-learn-to-code-in-2024-if-i-could-start-over-5b7i)
+- [How to stop form spam without using ReCaptcha?](https://dev.to/ingosteinke/how-to-stop-form-spam-without-using-recaptcha-13i8)
+- [Mastering Concurrent Programming in Elixir](https://dev.to/gustavo_oliveira_1e7fcebe/mastering-concurrent-programming-in-elixir-cjf)
 <!-- BLOG-POST-LIST:END -->
 
