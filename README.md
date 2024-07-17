@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Center Network Architecture: A Comprehensive Guide](https://dev.to/adityabhuyan/data-center-network-architecture-a-comprehensive-guide-1jh4)
-- [🤖Revolutionizing Marketing Content Creation with Generative AI](https://dev.to/ai-horizon/revolutionizing-marketing-content-creation-with-generative-ai-4m46)
-- [🤖Revolutionizing Marketing Content Creation with Generative AI](https://dev.to/ai-horizon/revolutionizing-marketing-content-creation-with-generative-ai-10m)
-- [Digital Pioneer.](https://dev.to/faldesign/digital-pioneer-47ol)
+- [Top 5 Best Automated Software Testing Tools](https://dev.to/jignect_technologies/top-5-best-automated-software-testing-tools-41ng)
+- [GitHub - 30 GitHub commands used by every DevOps Engineer](https://dev.to/prodevopsguytech/github-30-github-commands-used-by-every-devops-engineer-4llj)
+- [Create an Inventory Database In 3 Steps](https://dev.to/domfive/create-an-inventory-database-in-3-steps-3204)
+- [Newbie](https://dev.to/luke_manyamazi_14765e8475/newbie-5hi9)
 <!-- BLOG-POST-LIST:END -->
 
