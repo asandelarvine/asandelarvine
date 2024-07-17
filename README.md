@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 Animation Libraries for React &amp; Modern Javascript Apps](https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m)
-- [Key Technologies for Developing Your Blockchain Community](https://dev.to/capsey/key-technologies-for-developing-your-blockchain-community-530b)
-- [HTML](https://dev.to/enkhsaikhan_ch/html-48dg)
-- [10 Common Mistakes Beginners Make](https://dev.to/ezilemdodana/10-common-mistakes-beginners-make-53c6)
+- [Firefox &quot;about:config&quot; Flags That I Like 🔥🦊](https://dev.to/kj_sh604/firefox-aboutconfig-flags-that-i-like-5438)
+- [User-configurable settings in Symfony applications with jbtronics/settings-bundle &lpar;Part 3&rpar;: Migrations and environment variables](https://dev.to/jbtronics/user-configurable-settings-in-symfony-applications-with-jbtronicssettings-bundle-part-3-migrations-and-environment-variables-4jpl)
+- [Measuring and minimizing latency in a Kafka Sink Connector](https://dev.to/ably/measuring-and-minimizing-latency-in-a-kafka-sink-connector-3op6)
+- [R Programming: Zero to Hero Series 🚀](https://dev.to/raghavtwenty/r-programming-zero-to-hero-series-4ank)
 <!-- BLOG-POST-LIST:END -->
 
