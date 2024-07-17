@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting](https://dev.to/paulike/sorting-2pp7)
-- [How I would learn to code in 2024 &lpar;if I could start over&rpar;](https://dev.to/agunwachidiebelecalistus/how-i-would-learn-to-code-in-2024-if-i-could-start-over-5b7i)
-- [How to stop form spam without using ReCaptcha?](https://dev.to/ingosteinke/how-to-stop-form-spam-without-using-recaptcha-13i8)
-- [Mastering Concurrent Programming in Elixir](https://dev.to/gustavo_oliveira_1e7fcebe/mastering-concurrent-programming-in-elixir-cjf)
+- [8 Ways AI Can Maximize the Value of Logs](https://dev.to/mbogan/8-ways-ai-can-maximize-the-value-of-logs-1o7c)
+- [Code CSS Directly Inside the Browser &lpar;Not Using Inspect Elements&rpar; 🔥 🔥](https://dev.to/ranaharoon3222/code-css-directly-inside-the-browser-not-using-inspect-elements-cd8)
+- [empty&lpar;&rpar; and empty_like&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/empty-and-emptylike-in-pytorch-1l1k)
+- [[Day 2] - Configuring React Router](https://dev.to/nmiller15/day-2-configuring-react-router-42k)
 <!-- BLOG-POST-LIST:END -->
 
