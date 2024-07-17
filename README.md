@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intern level: Routing with React Router](https://dev.to/__zamora__/intern-level-routing-with-react-router-3md5)
-- [1110. Delete Nodes And Return Forest](https://dev.to/mdarifulhaque/1110-delete-nodes-and-return-forest-3h)
-- [Uptime Kuma: Monitor and track the uptime of services 🔎](https://dev.to/disane/uptime-kuma-monitor-and-track-the-uptime-of-services-3a3o)
-- [O Developer e a Síndrome da Ilha Deserta](https://dev.to/ramonduraes/o-developer-e-a-sindrome-da-ilha-deserta-bi1)
+- [Learning Has to Be Fun - How I Learn](https://dev.to/juanemilio31323/learning-has-to-be-fun-how-i-learn-5akd)
+- [Architect level: Routing with React Router](https://dev.to/__zamora__/architect-level-routing-with-react-router-3c0j)
+- [Lead level: Routing with React Router](https://dev.to/__zamora__/lead-level-routing-with-react-router-2b2c)
+- [Declarative Multi-Engine Data Stack with Ibis](https://dev.to/letsql/declarative-multi-engine-data-stack-with-ibis-3015)
 <!-- BLOG-POST-LIST:END -->
 
