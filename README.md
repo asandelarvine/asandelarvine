@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v285](https://dev.to/devteam/welcome-thread-v285-3ddb)
-- [Top Github repositories for 10+ programming languages](https://dev.to/shreyvijayvargiya/top-github-repositories-for-10-programming-languages-10pi)
-- [Access Request Headers in a Rails Controller](https://dev.to/kevin_j_m/access-request-headers-in-a-rails-controller-3b27)
-- [How to structure your files with VIPER Architecture](https://dev.to/sazardev/how-to-structure-your-files-with-viper-architecture-4do)
+- [How to Save and Load Data in Flutter Using SharedPreferences](https://dev.to/design_dev_4494d7953431b6/how-to-save-and-load-data-in-flutter-using-sharedpreferences-5f9n)
+- [Effective Methods to Increase Online Traffic to Your Site](https://dev.to/juddiy/effective-methods-to-increase-online-traffic-to-your-site-2hn4)
+- [Suspicious Maintainer Unveils Threads of npm Supply Chain Attack](https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j)
+- [1 Common Mistake Junior Developers Make](https://dev.to/thekarlesi/1-common-mistake-junior-developers-make-i7i)
 <!-- BLOG-POST-LIST:END -->
 
