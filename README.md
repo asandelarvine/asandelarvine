@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Best Automated Software Testing Tools](https://dev.to/jignect_technologies/top-5-best-automated-software-testing-tools-41ng)
-- [GitHub - 30 GitHub commands used by every DevOps Engineer](https://dev.to/prodevopsguytech/github-30-github-commands-used-by-every-devops-engineer-4llj)
-- [Create an Inventory Database In 3 Steps](https://dev.to/domfive/create-an-inventory-database-in-3-steps-3204)
-- [Newbie](https://dev.to/luke_manyamazi_14765e8475/newbie-5hi9)
+- [Top 15 Animation Libraries for React &amp; Modern Javascript Apps](https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m)
+- [Key Technologies for Developing Your Blockchain Community](https://dev.to/capsey/key-technologies-for-developing-your-blockchain-community-530b)
+- [HTML](https://dev.to/enkhsaikhan_ch/html-48dg)
+- [10 Common Mistakes Beginners Make](https://dev.to/ezilemdodana/10-common-mistakes-beginners-make-53c6)
 <!-- BLOG-POST-LIST:END -->
 
