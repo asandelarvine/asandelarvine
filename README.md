@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Best Practices for Your Node.js Application](https://dev.to/appsignal/security-best-practices-for-your-nodejs-application-37ip)
-- [Introduction to CSS Button Animations](https://dev.to/arsalanmee/introduction-to-css-button-animations-4322)
-- [What is Data-Driven Testing with Selenium WebDriver and Java #interviewQuestion](https://dev.to/codegreen/what-is-data-driven-testing-with-selenium-webdriver-and-java-interviewquestion-3p1i)
-- [Day8 of 100DaysOfHTML](https://dev.to/koichiarai/day8-of-100daysofhtml-ik3)
+- [VerifyVault v0.4.1 has been RELEASED! 🚀](https://dev.to/verifyvault/verifyvault-v041-has-been-released-1ob5)
+- [Flutter](https://dev.to/aadarshk7/flutter-38lm)
+- [Complete Guide to Integrating Stripe in a .NET Application](https://dev.to/adrianbailador/complete-guide-to-integrating-stripe-in-a-net-application-48d9)
+- [PhpGram - A PHP library for interacting with the Telegram Bot API.](https://dev.to/sh20raj/phpgram-a-php-library-for-interacting-with-the-telegram-bot-api-3pip)
 <!-- BLOG-POST-LIST:END -->
 
