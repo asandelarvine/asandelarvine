@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacks and Tricks to Monitor and Optimize Google Core Web Vitals](https://dev.to/koolkamalkishor/hacks-and-tricks-to-monitor-and-optimize-google-core-web-vitals-1ili)
-- [My Journey as a React.js Learning Facilitator for IDCamp 2023](https://dev.to/fazzaamiarso/my-journey-as-a-reactjs-learning-facilitator-for-idcamp-2023-mlg)
-- [How can you prevent malware attacks?](https://dev.to/e0nvpn/how-can-you-prevent-malware-attacks-gl4)
-- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-5g0n)
+- [Dependabot: Your GitHub Wingman](https://dev.to/silentwatcher_95/dependabot-your-github-wingman-4k4m)
+- [A Shocking Peek into the World of AI Video Deepfakes](https://dev.to/chibueze_onyekpere_67fb16/a-shocking-peek-into-the-world-of-ai-video-deepfakes-325o)
+- [Creating a 3D Gallery App with Three.js, HTML, and CSS - part 1](https://dev.to/aliozzaim/creating-a-3d-gallery-app-with-threejs-html-and-css-part-1-2gcf)
+- [8 Nifty API Documentation Tools](https://dev.to/irhose/8-nifty-api-documentation-tools-3f33)
 <!-- BLOG-POST-LIST:END -->
 
