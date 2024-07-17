@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Database for Your Project](https://dev.to/nziokidennis/choosing-the-right-database-for-your-project-1a2a)
-- [Simple Yet Effective Architecture Patterns for Algorithmic Trading](https://dev.to/jungle_sven/simple-yet-effective-architecture-patterns-for-algorithmic-trading-5745)
-- [My first blog post. Build in public.](https://dev.to/litlyx-org/my-first-blog-post-build-in-public-3oi7)
-- [Mathematics for Machine Learning - Day 10](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-10-19b6)
+- [The Role of Blockchain in Liquidity Matching: Insights from Zama CAO](https://dev.to/deniz_tutku/the-role-of-blockchain-in-liquidity-matching-insights-from-zama-cao-172m)
+- [The CTO&#39;s Guide to Stress-Free Task Delegation ft. Sergio Visinoni, CTO coach](https://dev.to/grocto/the-ctos-guide-to-stress-free-task-delegation-ft-sergio-visinoni-cto-coach-1lp1)
+- [Scalable Microservices in AWS: Best Practices](https://dev.to/citrux-digital/scalable-microservices-in-aws-best-practices-20kc)
+- [Good-Bye Numeric IP addresses: The Alias Trick That&#39;ll Make You Feel Like a Tech Superhero](https://dev.to/mnamesujit/good-bye-numeric-ip-addresses-the-alias-trick-thatll-make-you-feel-like-a-tech-superhero-53f2)
 <!-- BLOG-POST-LIST:END -->
 
