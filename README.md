@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Nextjs 15 &amp; React 19 Dashboard App Step By Step](https://dev.to/basir/nextjs-15-react-19-dashboard-app-step-by-step-4l2n)
-- [Good news is here! 🎉🎉🎉Use Artipub to automatically publish the article to more platforms](https://dev.to/yxw007/good-news-is-here-use-artipub-to-automatically-publish-the-article-to-more-platforms-2abo)
-- [Matplotlib in Flask Web Application Server](https://dev.to/labex/matplotlib-in-flask-web-application-server-2okj)
-- [Security Meetup](https://dev.to/tecno-security/security-meetup-4d75)
+- [Data Center Network Architecture: A Comprehensive Guide](https://dev.to/adityabhuyan/data-center-network-architecture-a-comprehensive-guide-1jh4)
+- [🤖Revolutionizing Marketing Content Creation with Generative AI](https://dev.to/ai-horizon/revolutionizing-marketing-content-creation-with-generative-ai-4m46)
+- [🤖Revolutionizing Marketing Content Creation with Generative AI](https://dev.to/ai-horizon/revolutionizing-marketing-content-creation-with-generative-ai-10m)
+- [Digital Pioneer.](https://dev.to/faldesign/digital-pioneer-47ol)
 <!-- BLOG-POST-LIST:END -->
 
