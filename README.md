@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VerifyVault v0.4.1 has been RELEASED! 🚀](https://dev.to/verifyvault/verifyvault-v041-has-been-released-1ob5)
-- [Flutter](https://dev.to/aadarshk7/flutter-38lm)
-- [Complete Guide to Integrating Stripe in a .NET Application](https://dev.to/adrianbailador/complete-guide-to-integrating-stripe-in-a-net-application-48d9)
-- [PhpGram - A PHP library for interacting with the Telegram Bot API.](https://dev.to/sh20raj/phpgram-a-php-library-for-interacting-with-the-telegram-bot-api-3pip)
+- [Choosing the Right Database for Your Project](https://dev.to/nziokidennis/choosing-the-right-database-for-your-project-1a2a)
+- [Simple Yet Effective Architecture Patterns for Algorithmic Trading](https://dev.to/jungle_sven/simple-yet-effective-architecture-patterns-for-algorithmic-trading-5745)
+- [My first blog post. Build in public.](https://dev.to/litlyx-org/my-first-blog-post-build-in-public-3oi7)
+- [Mathematics for Machine Learning - Day 10](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-10-19b6)
 <!-- BLOG-POST-LIST:END -->
 
