@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependabot: Your GitHub Wingman](https://dev.to/silentwatcher_95/dependabot-your-github-wingman-4k4m)
-- [A Shocking Peek into the World of AI Video Deepfakes](https://dev.to/chibueze_onyekpere_67fb16/a-shocking-peek-into-the-world-of-ai-video-deepfakes-325o)
-- [Creating a 3D Gallery App with Three.js, HTML, and CSS - part 1](https://dev.to/aliozzaim/creating-a-3d-gallery-app-with-threejs-html-and-css-part-1-2gcf)
-- [8 Nifty API Documentation Tools](https://dev.to/irhose/8-nifty-api-documentation-tools-3f33)
+- [Configuring Routes for Azure Firewall &lpar;Part 4&rpar;](https://dev.to/jimiog/configuring-routes-for-azure-firewall-part-4-2p85)
+- [Securing Your Azure Web Application with Azure Firewall &lpar;Part 3&rpar;](https://dev.to/jimiog/securing-your-azure-web-application-with-azure-firewall-part-3-2j2d)
+- [Enhanced Web Application Security with Azure Network Security Groups and Application Security Groups &lpar;Part 2&rpar;](https://dev.to/jimiog/enhanced-web-application-security-with-azure-network-security-groups-and-application-security-groups-part-2-2po8)
+- [Isolate and Connect Your Applications with Azure Virtual Networks and Subnets &lpar;Part 1&rpar;](https://dev.to/jimiog/isolate-and-connect-your-applications-with-azure-virtual-networks-and-subnets-part-1-3k70)
 <!-- BLOG-POST-LIST:END -->
 
