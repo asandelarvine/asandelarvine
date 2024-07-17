@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Structure Your Backend Code in Node.js &lpar;Express.js&rpar;](https://dev.to/vyan/how-to-structure-your-backend-code-in-nodejs-expressjs-2bdd)
-- [#27 — Group and Summarize A Table Where Every N Rows Consists of A Range by Column](https://dev.to/judith677/27-group-and-summarize-a-table-where-every-n-rows-consists-of-a-range-by-column-3863)
-- [Practicing with Google Cloud Platform - Google Kubernetes Engine to deploy nginx](https://dev.to/chauhoangminhnguyen/practicing-with-google-cloud-platform-google-kubernetes-engine-to-deploy-nginx-4hpk)
-- [🔒 Essential Node.js Security Best Practices](https://dev.to/dipakahirav/essential-nodejs-security-best-practices-2mh8)
+- [Build Nextjs 15 &amp; React 19 Dashboard App Step By Step](https://dev.to/basir/nextjs-15-react-19-dashboard-app-step-by-step-4l2n)
+- [Good news is here! 🎉🎉🎉Use Artipub to automatically publish the article to more platforms](https://dev.to/yxw007/good-news-is-here-use-artipub-to-automatically-publish-the-article-to-more-platforms-2abo)
+- [Matplotlib in Flask Web Application Server](https://dev.to/labex/matplotlib-in-flask-web-application-server-2okj)
+- [Security Meetup](https://dev.to/tecno-security/security-meetup-4d75)
 <!-- BLOG-POST-LIST:END -->
 
