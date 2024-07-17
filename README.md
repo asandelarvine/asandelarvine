@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Routes for Azure Firewall &lpar;Part 4&rpar;](https://dev.to/jimiog/configuring-routes-for-azure-firewall-part-4-2p85)
-- [Securing Your Azure Web Application with Azure Firewall &lpar;Part 3&rpar;](https://dev.to/jimiog/securing-your-azure-web-application-with-azure-firewall-part-3-2j2d)
-- [Enhanced Web Application Security with Azure Network Security Groups and Application Security Groups &lpar;Part 2&rpar;](https://dev.to/jimiog/enhanced-web-application-security-with-azure-network-security-groups-and-application-security-groups-part-2-2po8)
-- [Isolate and Connect Your Applications with Azure Virtual Networks and Subnets &lpar;Part 1&rpar;](https://dev.to/jimiog/isolate-and-connect-your-applications-with-azure-virtual-networks-and-subnets-part-1-3k70)
+- [Teste vs Depuração: Estratégias Complementares para Garantir a Qualidade do Software](https://dev.to/womakerscode/teste-vs-depuracao-estrategias-complementares-para-garantir-a-qualidade-do-software-214k)
+- [Tutorial de Flujo de Trabajo con Git: Empieza a Usar los Comandos Básicos de Git](https://dev.to/villacisg93/tutorial-de-flujo-de-trabajo-con-git-empieza-a-usar-los-comandos-basicos-de-git-4dbi)
+- [VSCode selection automagically toggles multicursor :&lpar;](https://dev.to/digitaldrreamer/vscode-selection-automagically-toggles-multicursor--22e4)
+- [Fundamentals of Entity Framework: Simplifying Data Access in .NET](https://dev.to/fabrcio_marcondessantos/fundamentals-of-entity-framework-simplifying-data-access-in-net-2a2b)
 <!-- BLOG-POST-LIST:END -->
 
