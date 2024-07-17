@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to ElasticSearch in Laravel](https://dev.to/devbalop/introduction-to-elasticsearch-in-laravel-1e34)
-- [Fullstack Blog with Tanstack Query, Zustand, Flask, JWT, Cookies | Register, Login, CRUD Post Tutorial](https://dev.to/henry_lee_1787e739b0c8191/fullstack-blog-with-tanstack-query-zustand-flask-jwt-cookies-register-login-crud-post-tutorial-2kjh)
-- [Day 13 of my 90-Devops project: Setting Up a CI/CD Pipeline with Docker and Kubernetes on GitLab](https://dev.to/arbythecoder/day-13-of-my-90-devops-project-setting-up-a-cicd-pipeline-with-docker-and-kubernetes-on-gitlab-52m)
-- [EnvLock: The Ultimate Env Manager](https://dev.to/siyabuilt/envlock-the-ultimate-env-manager-11ha)
+- [Welcome Thread - v285](https://dev.to/devteam/welcome-thread-v285-3ddb)
+- [Top Github repositories for 10+ programming languages](https://dev.to/shreyvijayvargiya/top-github-repositories-for-10-programming-languages-10pi)
+- [Access Request Headers in a Rails Controller](https://dev.to/kevin_j_m/access-request-headers-in-a-rails-controller-3b27)
+- [How to structure your files with VIPER Architecture](https://dev.to/sazardev/how-to-structure-your-files-with-viper-architecture-4do)
 <!-- BLOG-POST-LIST:END -->
 
