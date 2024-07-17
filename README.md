@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen2 Technical Report](https://dev.to/mikeyoung44/qwen2-technical-report-o8c)
-- [Kubernetes -Services, Ingress, and ConfigurationsDay 9 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/kubernetes-services-ingress-and-configurationsday-9-of-50-days-devops-tools-series-95b)
-- [Rede de criação de valor em DevRel](https://dev.to/awdren/rede-de-criacao-de-valor-em-devrel-25n)
-- [TypeScript strictly typed - Part 3: safe nullability](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-3-safe-nullability-38mf)
+- [Security Best Practices for Your Node.js Application](https://dev.to/appsignal/security-best-practices-for-your-nodejs-application-37ip)
+- [Introduction to CSS Button Animations](https://dev.to/arsalanmee/introduction-to-css-button-animations-4322)
+- [What is Data-Driven Testing with Selenium WebDriver and Java #interviewQuestion](https://dev.to/codegreen/what-is-data-driven-testing-with-selenium-webdriver-and-java-interviewquestion-3p1i)
+- [Day8 of 100DaysOfHTML](https://dev.to/koichiarai/day8-of-100daysofhtml-ik3)
 <!-- BLOG-POST-LIST:END -->
 
