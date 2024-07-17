@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 4/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-44-5236)
-- [21 Open Source LLM Projects to Become 10x AI Developer](https://dev.to/latitude/21-open-source-llm-projects-to-become-10x-ai-developer-fe0)
-- [Android: Determine how many users are using DarkMode](https://dev.to/paulfranco/android-determine-how-many-users-are-using-darkmode-58dj)
-- [Import Excel/datasheet data to your Nextjs application](https://dev.to/shagun/import-exceldatasheet-data-to-your-nextjs-application-i64)
+- [Ultimate Spring Boot Interview Preparation Guide](https://dev.to/vampirepapi/ultimate-spring-boot-interview-preparation-guide-3c99)
+- [Upgrading badly with AI](https://dev.to/strivenword/upgrading-badly-with-ai-45m4)
+- [How to export SQL Server data to XML](https://dev.to/devartteam/how-to-export-sql-server-data-to-xml-8f9)
+- [Gaming &amp; Web3 - How an Open and Secure Future of Ownership in Games Could Look](https://dev.to/hendrikebbers/gaming-web3-how-an-open-and-secure-future-of-ownership-in-games-could-look-2ihf)
 <!-- BLOG-POST-LIST:END -->
 
