@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shims in Web Development](https://dev.to/waddellmp/shims-in-web-development-1h3b)
-- [Exploring JavaScript Console Methods: Beyond `console.log&lpar;&rpar;`](https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7)
-- [As a Google Web Developer, I’d like to introduce my top 5 go-to tools](https://dev.to/shemika_donalene/as-a-google-web-developer-id-like-to-introduce-my-top-5-go-to-tools-2pcf)
-- [dnd-kit for react: modern and light drag](https://dev.to/nysa_macroryacaibird_8/dnd-kit-for-react-modern-and-light-drag-1hlj)
+- [These Tailwind Classes I Wish You Knew Sooner](https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30)
+- [Looking For Feedback on One of Your Posts? Leave a Comment!](https://dev.to/canro91/looking-for-feedback-on-one-of-your-posts-leave-a-comment-34g1)
+- [Preventing Supply Chain Attacks in JavaScript](https://dev.to/rigalpatel001/preventing-supply-chain-attacks-in-javascript-p36)
+- [Generative AI Serverless - Apply Guardrail, Bedrock Converse API, RAG - Chat with your document!](https://dev.to/bhatiagirish/generative-ai-serverless-apply-guardrail-bedrock-converse-api-rag-chat-with-your-document-4545)
 <!-- BLOG-POST-LIST:END -->
 
