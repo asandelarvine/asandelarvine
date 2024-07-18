@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular VS React](https://dev.to/lenormor/angular-vs-react-1amp)
-- [Server-Side Rendering vs Client-Side Rendering](https://dev.to/strapi/server-side-rendering-vs-client-side-rendering-447h)
-- [[Roast: Day 3] - UI Additions, Components, and an Installable Application](https://dev.to/nmiller15/roast-day-3-ui-additions-components-and-an-installable-application-4ec8)
-- [Form Validation In TypeScipt Projects Using Zod and React Hook Form](https://dev.to/strapi/form-validation-in-typescipt-projects-using-zod-and-react-hook-form-49g6)
+- [Fun &amp; Mental: Visualizing Data Structures and Algorithms with React Flow and Monaco Editor](https://dev.to/abdelaziz79/fun-mental-visualizing-data-structures-and-algorithms-with-react-flow-and-monaco-editor-5ekn)
+- [What are low-code open-source tools? – Guideline](https://dev.to/alesiasirotka/what-are-low-code-open-source-tools-guideline-gg5)
+- [Understanding the Node.js Event Loop](https://dev.to/rahulvijayvergiya/understanding-the-nodejs-event-loop-26eb)
+- [Starting a Docker Web App in aaPanel](https://dev.to/pixcel_tree/starting-a-docker-web-app-in-aapanel-2bc6)
 <!-- BLOG-POST-LIST:END -->
 
