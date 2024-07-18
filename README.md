@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal RAG locally with CLIP and Llama3](https://dev.to/zilliz/multimodal-rag-locally-with-clip-and-llama3-2890)
-- [How to pass non-string parameters to Middleware Laravel](https://dev.to/fershopls/how-to-pass-non-string-parameters-to-middleware-laravel-cg)
-- [Segment CT Scans with NVIDIA&#39;s VISTA-3D Model](https://dev.to/voxel51/segment-ct-scans-with-nvidias-vista-3d-model-7na)
-- [Chmodcast 105: Just in the Nix of time with Pol Dellaiera](https://dev.to/upsun/chmodcast-105-just-in-the-nix-of-time-with-pol-dellaiera-go3)
+- [Multi-Leader Replication](https://dev.to/einsteinder/multi-leader-replication-bp2)
+- [Ruby blocks from the Outside In w\ yield](https://dev.to/dedemenezes_/ruby-blocks-from-the-outside-in-w-yield-2ml)
+- [Creating and Editing Web Content with a Distraction-Free Rich Text HTML Editor Software](https://dev.to/ideradevtools/creating-and-editing-web-content-with-a-distraction-free-rich-text-html-editor-software-2868)
+- [Item 43: Dê preferência às referências para métodos em vez dos lambdas](https://dev.to/giselecoder/item-43-de-preferencia-as-referencias-para-metodos-em-vez-dos-lambdas-8o2)
 <!-- BLOG-POST-LIST:END -->
 
