@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a new Next.js project with Cloudflare Pages and Workers](https://dev.to/devarshishimpi/how-to-create-a-new-nextjs-project-with-cloudflare-pages-and-workers-43d9)
-- [prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/prod-and-cartesianprod-in-pytorch-89i)
-- [Step-by-Step Instructions to Create an Expense Tracker](https://dev.to/raajaryan/step-by-step-instructions-to-create-an-expense-tracker-4gdg)
-- [sum&lpar;&rpar; and nansum&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-and-nansum-in-pytorch-4bdk)
+- [Multimodal RAG locally with CLIP and Llama3](https://dev.to/zilliz/multimodal-rag-locally-with-clip-and-llama3-2890)
+- [How to pass non-string parameters to Middleware Laravel](https://dev.to/fershopls/how-to-pass-non-string-parameters-to-middleware-laravel-cg)
+- [Segment CT Scans with NVIDIA&#39;s VISTA-3D Model](https://dev.to/voxel51/segment-ct-scans-with-nvidias-vista-3d-model-7na)
+- [Chmodcast 105: Just in the Nix of time with Pol Dellaiera](https://dev.to/upsun/chmodcast-105-just-in-the-nix-of-time-with-pol-dellaiera-go3)
 <!-- BLOG-POST-LIST:END -->
 
