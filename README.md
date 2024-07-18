@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#28 — Combine Two Tables With Different Column Headers](https://dev.to/judith677/28-combine-two-tables-with-different-column-headers-349i)
-- [⚡ MySecondApp - React Native with Expo &lpar;P8&rpar; - Add Animated QR Code](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p8-add-animated-qr-code-4i1p)
-- [Deploy Frontend Web Application with React to cPanel.](https://dev.to/sumberweb/deploy-frontend-web-application-with-react-to-cpanel-2kk7)
-- [Remote Desktop Error code 0x207 on Mac for Ubuntu 24](https://dev.to/emile1636/rdp-error-code-0x207-on-mac-for-ubuntu-24-d6d)
+- [Shims in Web Development](https://dev.to/waddellmp/shims-in-web-development-1h3b)
+- [Exploring JavaScript Console Methods: Beyond `console.log&lpar;&rpar;`](https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7)
+- [As a Google Web Developer, I’d like to introduce my top 5 go-to tools](https://dev.to/shemika_donalene/as-a-google-web-developer-id-like-to-introduce-my-top-5-go-to-tools-2pcf)
+- [dnd-kit for react: modern and light drag](https://dev.to/nysa_macroryacaibird_8/dnd-kit-for-react-modern-and-light-drag-1hlj)
 <!-- BLOG-POST-LIST:END -->
 
