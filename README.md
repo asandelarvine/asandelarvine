@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup a service in a SSH Server](https://dev.to/sazardev/how-to-setup-a-service-in-a-ssh-server-4iik)
-- [What is a Set in JS?](https://dev.to/__khojiakbar__/what-is-a-set-in-js-2pom)
-- [What is a Set in JS?](https://dev.to/__khojiakbar__/what-is-a-set-in-js-4mb8)
-- [Movies Recommendation Software](https://dev.to/ioanpapuc/movies-recommendation-software-1fkd)
+- [Building a Chat Application with Ollama&#39;s Llama 3 Model Using JavaScript, HTML, and CSS](https://dev.to/koolkamalkishor/building-a-chat-application-with-ollamas-llama-3-model-using-javascript-html-and-css-40ec)
+- [Ownership &amp; Borrowing](https://dev.to/marlonjerold/ownership-borrowing-imm)
+- [Running and Creating Your Own LLMs Locally with Node.js API using Ollama](https://dev.to/koolkamalkishor/running-and-creating-your-own-llms-locally-with-nodejs-api-using-ollama-97f)
+- [How would you get your first users?](https://dev.to/notevocal/how-would-you-get-your-first-users-21ae)
 <!-- BLOG-POST-LIST:END -->
 
