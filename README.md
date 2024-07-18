@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [These Tailwind Classes I Wish You Knew Sooner](https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30)
-- [Looking For Feedback on One of Your Posts? Leave a Comment!](https://dev.to/canro91/looking-for-feedback-on-one-of-your-posts-leave-a-comment-34g1)
-- [Preventing Supply Chain Attacks in JavaScript](https://dev.to/rigalpatel001/preventing-supply-chain-attacks-in-javascript-p36)
-- [Generative AI Serverless - Apply Guardrail, Bedrock Converse API, RAG - Chat with your document!](https://dev.to/bhatiagirish/generative-ai-serverless-apply-guardrail-bedrock-converse-api-rag-chat-with-your-document-4545)
+- [User Interface Design Inspiration – 9 Websites That Will Get You There](https://dev.to/pepper_square/user-interface-design-inspiration-9-websites-that-will-get-you-there-1ah0)
+- [Continuous Integration Testing: Streamlining Software Development and Ensuring Quality](https://dev.to/keploy/continuous-integration-testing-streamlining-software-development-and-ensuring-quality-14ba)
+- [Large Language Models &lpar;LLMs&rpar;: Revolutionizing AI and Communication](https://dev.to/jottyjohn/large-language-models-llms-revolutionizing-ai-and-communication-23bl)
+- [Why Threat Modeling is Crucial for Banking Industries in 2024](https://dev.to/jesscica_jones/why-threat-modeling-is-crucial-for-banking-industries-in-2024-334)
 <!-- BLOG-POST-LIST:END -->
 
