@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Day 35 Dynamic Programming Part 9](https://dev.to/flame_chan_llll/leetcode-day-35-dynamic-programming-part-9-3fd5)
-- [10 Dimensions of Python Static Analysis](https://dev.to/snyk/10-dimensions-of-python-static-analysis-4h5c)
-- [[DAY 78-80] I learned about APIs, D3 library, and rebuilt my pokemon app](https://dev.to/thomascansino/day-78-80-i-learned-about-apis-d3-library-and-rebuilt-my-pokemon-app-5djp)
-- [Advanced Python Concepts: A Comprehensive Guide](https://dev.to/thelinuxman/advanced-python-concepts-a-comprehensive-guide-37o2)
+- [#28 — Combine Two Tables With Different Column Headers](https://dev.to/judith677/28-combine-two-tables-with-different-column-headers-349i)
+- [⚡ MySecondApp - React Native with Expo &lpar;P8&rpar; - Add Animated QR Code](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p8-add-animated-qr-code-4i1p)
+- [Deploy Frontend Web Application with React to cPanel.](https://dev.to/sumberweb/deploy-frontend-web-application-with-react-to-cpanel-2kk7)
+- [Remote Desktop Error code 0x207 on Mac for Ubuntu 24](https://dev.to/emile1636/rdp-error-code-0x207-on-mac-for-ubuntu-24-d6d)
 <!-- BLOG-POST-LIST:END -->
 
