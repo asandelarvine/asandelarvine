@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [User Interface Design Inspiration – 9 Websites That Will Get You There](https://dev.to/pepper_square/user-interface-design-inspiration-9-websites-that-will-get-you-there-1ah0)
-- [Continuous Integration Testing: Streamlining Software Development and Ensuring Quality](https://dev.to/keploy/continuous-integration-testing-streamlining-software-development-and-ensuring-quality-14ba)
-- [Large Language Models &lpar;LLMs&rpar;: Revolutionizing AI and Communication](https://dev.to/jottyjohn/large-language-models-llms-revolutionizing-ai-and-communication-23bl)
-- [Why Threat Modeling is Crucial for Banking Industries in 2024](https://dev.to/jesscica_jones/why-threat-modeling-is-crucial-for-banking-industries-in-2024-334)
+- [SQL is Dead? Get Started with mongoDB](https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3)
+- [Leaving Uber in 2022 was the best thing I did for myself 🚶💼](https://dev.to/middleware/leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9)
+- [Access Token &amp; Refresh Token: A Breakdown](https://dev.to/arnabsahawrk/access-token-refresh-token-a-breakdown-5f81)
+- [Introduction to Virtual and Augmented Reality &lpar;VR/AR&rpar;](https://dev.to/code_passion/introduction-to-virtual-and-augmented-reality-vrar-ab9)
 <!-- BLOG-POST-LIST:END -->
 
