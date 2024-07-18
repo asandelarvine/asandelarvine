@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Leader Replication](https://dev.to/einsteinder/multi-leader-replication-bp2)
-- [Ruby blocks from the Outside In w\ yield](https://dev.to/dedemenezes_/ruby-blocks-from-the-outside-in-w-yield-2ml)
-- [Creating and Editing Web Content with a Distraction-Free Rich Text HTML Editor Software](https://dev.to/ideradevtools/creating-and-editing-web-content-with-a-distraction-free-rich-text-html-editor-software-2868)
-- [Item 43: Dê preferência às referências para métodos em vez dos lambdas](https://dev.to/giselecoder/item-43-de-preferencia-as-referencias-para-metodos-em-vez-dos-lambdas-8o2)
+- [Fresher baby steps in learning programming !...](https://dev.to/akhila_rani_kukunuri/fresher-baby-steps-in-learning-programming--38jj)
+- [The Importance of Guardrails in LLMs, AAAL Pt. 2](https://dev.to/tunehqai/the-importance-of-guardrails-in-llms-aaal-pt-2-4oke)
+- [Exploring Headlamp - A Kubernetes UI Tool : Day 10 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-headlamp-a-kubernetes-ui-tool-day-10-of-50-days-devops-tools-series-544c)
+- [Event Loop in JavaScript: How it Works and Why it Matters](https://dev.to/itsshaikhaj/event-loop-in-javascript-how-it-works-and-why-it-matters-29k8)
 <!-- BLOG-POST-LIST:END -->
 
