@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sherlock Holmes: The Case of the Content Length Mismatch](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-content-length-mismatch-4i2b)
-- [Console Styling in JavaScript with a few kilobytes](https://dev.to/proman4713/console-styling-in-javascript-with-a-few-kilobytes-2gjn)
-- [Introduction to JavaScript Promises](https://dev.to/kartikmehta8/introduction-to-javascript-promises-1e6l)
-- [Python: From Beginners to Pro in 30 Mins &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/python-from-beginners-to-pro-in-30-mins-part-2-38po)
+- [LeetCode Day 35 Dynamic Programming Part 9](https://dev.to/flame_chan_llll/leetcode-day-35-dynamic-programming-part-9-3fd5)
+- [10 Dimensions of Python Static Analysis](https://dev.to/snyk/10-dimensions-of-python-static-analysis-4h5c)
+- [[DAY 78-80] I learned about APIs, D3 library, and rebuilt my pokemon app](https://dev.to/thomascansino/day-78-80-i-learned-about-apis-d3-library-and-rebuilt-my-pokemon-app-5djp)
+- [Advanced Python Concepts: A Comprehensive Guide](https://dev.to/thelinuxman/advanced-python-concepts-a-comprehensive-guide-37o2)
 <!-- BLOG-POST-LIST:END -->
 
