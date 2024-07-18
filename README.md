@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresher baby steps in learning programming !...](https://dev.to/akhila_rani_kukunuri/fresher-baby-steps-in-learning-programming--38jj)
-- [The Importance of Guardrails in LLMs, AAAL Pt. 2](https://dev.to/tunehqai/the-importance-of-guardrails-in-llms-aaal-pt-2-4oke)
-- [Exploring Headlamp - A Kubernetes UI Tool : Day 10 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-headlamp-a-kubernetes-ui-tool-day-10-of-50-days-devops-tools-series-544c)
-- [Event Loop in JavaScript: How it Works and Why it Matters](https://dev.to/itsshaikhaj/event-loop-in-javascript-how-it-works-and-why-it-matters-29k8)
+- [Open Source projects that changed the world](https://dev.to/buildwebcrumbs/open-source-projects-that-changed-the-world-4d2n)
+- [What Are Some Good Uses for Azure Functions?](https://dev.to/scholarhattraining/what-are-some-good-uses-for-azure-functions-58jk)
+- [ssh-copy-id command on any machine](https://dev.to/omidshojaee/ssh-copy-id-command-on-any-machine-18k3)
+- [Day 7: 100 Days of Cloud - Stepping Out of My Comfort Zone!](https://dev.to/tutorialhelldev/day-7-100-days-of-cloud-stepping-out-of-my-comfort-zone-16bo)
 <!-- BLOG-POST-LIST:END -->
 
