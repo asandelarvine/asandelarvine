@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source projects that changed the world](https://dev.to/buildwebcrumbs/open-source-projects-that-changed-the-world-4d2n)
-- [What Are Some Good Uses for Azure Functions?](https://dev.to/scholarhattraining/what-are-some-good-uses-for-azure-functions-58jk)
-- [ssh-copy-id command on any machine](https://dev.to/omidshojaee/ssh-copy-id-command-on-any-machine-18k3)
-- [Day 7: 100 Days of Cloud - Stepping Out of My Comfort Zone!](https://dev.to/tutorialhelldev/day-7-100-days-of-cloud-stepping-out-of-my-comfort-zone-16bo)
+- [How to setup a service in a SSH Server](https://dev.to/sazardev/how-to-setup-a-service-in-a-ssh-server-4iik)
+- [What is a Set in JS?](https://dev.to/__khojiakbar__/what-is-a-set-in-js-2pom)
+- [What is a Set in JS?](https://dev.to/__khojiakbar__/what-is-a-set-in-js-4mb8)
+- [Movies Recommendation Software](https://dev.to/ioanpapuc/movies-recommendation-software-1fkd)
 <!-- BLOG-POST-LIST:END -->
 
