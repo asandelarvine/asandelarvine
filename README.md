@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic HTML vs Web Components: Building Blocks of a Better Web](https://dev.to/leonardorafael/semantic-html-vs-web-components-building-blocks-of-a-better-web-1j09)
-- [INTRODUCING ZEMPOSTS](https://dev.to/zemerik/introducing-zemposts-17nb)
-- [Exploring the Exciting New Additions in React 19](https://dev.to/rn_dev_lalit/exploring-the-exciting-new-additions-in-react-19-248b)
-- [Best Practices for Using GitHub Secrets - Part 1](https://dev.to/pwd9000/best-practices-for-using-github-secrets-part-1-596f)
+- [MediaQuery vs LayoutBuilder in Flutter](https://dev.to/amrazzam31/mediaquery-vs-layoutbuilder-in-flutter-3ni3)
+- [The Adventures of Blink #32: Outcomes, NOT Intentions](https://dev.to/linkbenjamin/the-adventures-of-blink-32-outcomes-not-intentions-1j16)
+- [Ibuprofeno.py💊| #144: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-144-explica-este-codigo-python-l4g)
+- [How to Validate Array of Strings using Yup](https://dev.to/suleman_ahmed_rajput/how-to-validate-array-of-strings-using-yup-gcl)
 <!-- BLOG-POST-LIST:END -->
 
