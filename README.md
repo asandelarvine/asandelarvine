@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced URL rewriting with Apache APISIX](https://dev.to/apisix/advanced-url-rewriting-with-apache-apisix-31ij)
-- [How to Write a Thoughtful Apology Letter to Your Principal?](https://dev.to/daletcouch/how-to-write-a-thoughtful-apology-letter-to-your-principal-52dj)
-- [GBase 8c Compatibility - Oracle Partition Syntax](https://dev.to/congcong/gbase-8c-compatibility-oracle-partition-syntax-3o1e)
-- [The importance of effective communication in the workplace 🏢🗣️](https://dev.to/hey_rishabh/the-importance-of-effective-communication-in-the-workplace-41j9)
+- [Semantic HTML vs Web Components: Building Blocks of a Better Web](https://dev.to/leonardorafael/semantic-html-vs-web-components-building-blocks-of-a-better-web-1j09)
+- [INTRODUCING ZEMPOSTS](https://dev.to/zemerik/introducing-zemposts-17nb)
+- [Exploring the Exciting New Additions in React 19](https://dev.to/rn_dev_lalit/exploring-the-exciting-new-additions-in-react-19-248b)
+- [Best Practices for Using GitHub Secrets - Part 1](https://dev.to/pwd9000/best-practices-for-using-github-secrets-part-1-596f)
 <!-- BLOG-POST-LIST:END -->
 
