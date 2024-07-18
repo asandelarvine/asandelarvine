@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Hidden Open-source Libraries to Become an AI Wizard 🧙‍♂️🪄](https://dev.to/composiodev/13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9)
-- [Data-Driven Testing in Cypress: A Comprehensive Guide](https://dev.to/aswani25/data-driven-testing-in-cypress-a-comprehensive-guide-25ai)
-- [Handling Password Resets - FastAPI Beyond CRUD Part 19](https://dev.to/jod35/handling-password-resets-fastapi-beyond-crud-part-19-18e3)
-- [What is WordPress best known for?](https://dev.to/plugin_market/what-is-wordpress-best-known-for-16nb)
+- [How to create a new Next.js project with Cloudflare Pages and Workers](https://dev.to/devarshishimpi/how-to-create-a-new-nextjs-project-with-cloudflare-pages-and-workers-43d9)
+- [prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/prod-and-cartesianprod-in-pytorch-89i)
+- [Step-by-Step Instructions to Create an Expense Tracker](https://dev.to/raajaryan/step-by-step-instructions-to-create-an-expense-tracker-4gdg)
+- [sum&lpar;&rpar; and nansum&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-and-nansum-in-pytorch-4bdk)
 <!-- BLOG-POST-LIST:END -->
 
