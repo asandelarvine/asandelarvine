@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chat Application with Ollama&#39;s Llama 3 Model Using JavaScript, HTML, and CSS](https://dev.to/koolkamalkishor/building-a-chat-application-with-ollamas-llama-3-model-using-javascript-html-and-css-40ec)
-- [Ownership &amp; Borrowing](https://dev.to/marlonjerold/ownership-borrowing-imm)
-- [Running and Creating Your Own LLMs Locally with Node.js API using Ollama](https://dev.to/koolkamalkishor/running-and-creating-your-own-llms-locally-with-nodejs-api-using-ollama-97f)
-- [How would you get your first users?](https://dev.to/notevocal/how-would-you-get-your-first-users-21ae)
+- [Struggeling Dev Takes Notes](https://dev.to/downtherabbithole/struggeling-dev-takes-notes-55cp)
+- [Estruturas Condicionais em Programação](https://dev.to/andersoncode66/estruturas-condicionais-em-programacao-45cb)
+- [Top 3 Best React Books 2024](https://dev.to/priya_sharma/top-3-best-react-books-2024-28dm)
+- [Create a practical IoT solution using Azure IoT Hub](https://dev.to/adeola_adebari/create-a-practical-iot-solution-using-azure-iot-hub-2ha1)
 <!-- BLOG-POST-LIST:END -->
 
