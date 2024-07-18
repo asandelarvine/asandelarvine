@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teste vs Depuração: Estratégias Complementares para Garantir a Qualidade do Software](https://dev.to/womakerscode/teste-vs-depuracao-estrategias-complementares-para-garantir-a-qualidade-do-software-214k)
-- [Tutorial de Flujo de Trabajo con Git: Empieza a Usar los Comandos Básicos de Git](https://dev.to/villacisg93/tutorial-de-flujo-de-trabajo-con-git-empieza-a-usar-los-comandos-basicos-de-git-4dbi)
-- [VSCode selection automagically toggles multicursor :&lpar;](https://dev.to/digitaldrreamer/vscode-selection-automagically-toggles-multicursor--22e4)
-- [Fundamentals of Entity Framework: Simplifying Data Access in .NET](https://dev.to/fabrcio_marcondessantos/fundamentals-of-entity-framework-simplifying-data-access-in-net-2a2b)
+- [Sherlock Holmes: The Case of the Content Length Mismatch](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-content-length-mismatch-4i2b)
+- [Console Styling in JavaScript with a few kilobytes](https://dev.to/proman4713/console-styling-in-javascript-with-a-few-kilobytes-2gjn)
+- [Introduction to JavaScript Promises](https://dev.to/kartikmehta8/introduction-to-javascript-promises-1e6l)
+- [Python: From Beginners to Pro in 30 Mins &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/python-from-beginners-to-pro-in-30-mins-part-2-38po)
 <!-- BLOG-POST-LIST:END -->
 
