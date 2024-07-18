@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL is Dead? Get Started with mongoDB](https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3)
-- [Leaving Uber in 2022 was the best thing I did for myself 🚶💼](https://dev.to/middleware/leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9)
-- [Access Token &amp; Refresh Token: A Breakdown](https://dev.to/arnabsahawrk/access-token-refresh-token-a-breakdown-5f81)
-- [Introduction to Virtual and Augmented Reality &lpar;VR/AR&rpar;](https://dev.to/code_passion/introduction-to-virtual-and-augmented-reality-vrar-ab9)
+- [Calculating Fingerprints For SQL Queries](https://dev.to/metis/calculating-fingerprints-for-sql-queries-44i5)
+- [Add a “X is writing…” with Rails and Turbo](https://dev.to/railsdesigner/add-a-x-is-writing-with-rails-and-turbo-4e5a)
+- [Parallel vs Concurrent ✌☝](https://dev.to/iamabdul/parallel-vs-concurrent-mm5)
+- [ExpandableText Components](https://dev.to/akash32755/expandabletext-components-3kn2)
 <!-- BLOG-POST-LIST:END -->
 
