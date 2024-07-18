@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun &amp; Mental: Visualizing Data Structures and Algorithms with React Flow and Monaco Editor](https://dev.to/abdelaziz79/fun-mental-visualizing-data-structures-and-algorithms-with-react-flow-and-monaco-editor-5ekn)
-- [What are low-code open-source tools? – Guideline](https://dev.to/alesiasirotka/what-are-low-code-open-source-tools-guideline-gg5)
-- [Understanding the Node.js Event Loop](https://dev.to/rahulvijayvergiya/understanding-the-nodejs-event-loop-26eb)
-- [Starting a Docker Web App in aaPanel](https://dev.to/pixcel_tree/starting-a-docker-web-app-in-aapanel-2bc6)
+- [13 Hidden Open-source Libraries to Become an AI Wizard 🧙‍♂️🪄](https://dev.to/composiodev/13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9)
+- [Data-Driven Testing in Cypress: A Comprehensive Guide](https://dev.to/aswani25/data-driven-testing-in-cypress-a-comprehensive-guide-25ai)
+- [Handling Password Resets - FastAPI Beyond CRUD Part 19](https://dev.to/jod35/handling-password-resets-fastapi-beyond-crud-part-19-18e3)
+- [What is WordPress best known for?](https://dev.to/plugin_market/what-is-wordpress-best-known-for-16nb)
 <!-- BLOG-POST-LIST:END -->
 
