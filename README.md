@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculating Fingerprints For SQL Queries](https://dev.to/metis/calculating-fingerprints-for-sql-queries-44i5)
-- [Add a “X is writing…” with Rails and Turbo](https://dev.to/railsdesigner/add-a-x-is-writing-with-rails-and-turbo-4e5a)
-- [Parallel vs Concurrent ✌☝](https://dev.to/iamabdul/parallel-vs-concurrent-mm5)
-- [ExpandableText Components](https://dev.to/akash32755/expandabletext-components-3kn2)
+- [Advanced URL rewriting with Apache APISIX](https://dev.to/apisix/advanced-url-rewriting-with-apache-apisix-31ij)
+- [How to Write a Thoughtful Apology Letter to Your Principal?](https://dev.to/daletcouch/how-to-write-a-thoughtful-apology-letter-to-your-principal-52dj)
+- [GBase 8c Compatibility - Oracle Partition Syntax](https://dev.to/congcong/gbase-8c-compatibility-oracle-partition-syntax-3o1e)
+- [The importance of effective communication in the workplace 🏢🗣️](https://dev.to/hey_rishabh/the-importance-of-effective-communication-in-the-workplace-41j9)
 <!-- BLOG-POST-LIST:END -->
 
