@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MediaQuery vs LayoutBuilder in Flutter](https://dev.to/amrazzam31/mediaquery-vs-layoutbuilder-in-flutter-3ni3)
-- [The Adventures of Blink #32: Outcomes, NOT Intentions](https://dev.to/linkbenjamin/the-adventures-of-blink-32-outcomes-not-intentions-1j16)
-- [Ibuprofeno.py💊| #144: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-144-explica-este-codigo-python-l4g)
-- [How to Validate Array of Strings using Yup](https://dev.to/suleman_ahmed_rajput/how-to-validate-array-of-strings-using-yup-gcl)
+- [Angular VS React](https://dev.to/lenormor/angular-vs-react-1amp)
+- [Server-Side Rendering vs Client-Side Rendering](https://dev.to/strapi/server-side-rendering-vs-client-side-rendering-447h)
+- [[Roast: Day 3] - UI Additions, Components, and an Installable Application](https://dev.to/nmiller15/roast-day-3-ui-additions-components-and-an-installable-application-4ec8)
+- [Form Validation In TypeScipt Projects Using Zod and React Hook Form](https://dev.to/strapi/form-validation-in-typescipt-projects-using-zod-and-react-hook-form-49g6)
 <!-- BLOG-POST-LIST:END -->
 
