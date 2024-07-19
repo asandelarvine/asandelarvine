@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use TanStack &lpar;React Query&rpar;](https://dev.to/ewenikeemmanue4/how-to-use-tanstack-react-query-52bd)
-- [Dealing with Flutter Dependency Conflicts and Third-Party Plugin Changes](https://dev.to/vpalania/dealing-with-flutter-dependency-conflicts-and-third-party-plugin-changes-50d)
-- [Exploring Generative Adversarial Networks &lpar;GANs&rpar;](https://dev.to/nd_18b1e31aad9b7eca9e465a/exploring-generative-adversarial-networks-gans-48n5)
-- [Visualize Netflix Data using Amazon QuickSight](https://dev.to/mohammed_zubair_43bf67b9a/visualize-netflix-data-using-amazon-quicksight-1mn5)
+- [Using the Actor System in ASP.NET](https://dev.to/edexade/using-the-actor-system-in-aspnet-481k)
+- [Linked Lists](https://dev.to/paulike/linked-lists-lko)
+- [How To Verify Forms Using Formik in React js](https://dev.to/ewenikeemmanue4/how-to-verify-forms-using-formik-in-react-js-3a4o)
+- [How do you setup your gnome extension development environment?](https://dev.to/dagimgdot/how-do-you-setup-your-gnome-extension-development-environment-1l5)
 <!-- BLOG-POST-LIST:END -->
 
