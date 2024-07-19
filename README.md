@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desvendando Mistérios: Como Tentar Resolver Problemas Sem Pedir Ajuda](https://dev.to/viquitor/desvendando-misterios-como-tentar-resolver-problemas-sem-pedir-ajuda-38l4)
-- [How Dynamodb partition keys work under the hood](https://dev.to/praveenmuthu/how-dynamodb-partition-keys-work-under-the-hood-21k5)
-- [challenging my brain](https://dev.to/myrojyn/challenging-my-brain-1h0m)
-- [Client Mapping Made Easy: Leveraging Autonomous Agents in API Integrations](https://dev.to/apidna/client-mapping-made-easy-leveraging-autonomous-agents-in-api-integrations-2509)
+- [Day 27 Task: Jenkins Declarative Pipeline with Docker](https://dev.to/oncloud7/day-27-task-jenkins-declarative-pipeline-with-docker-1jp2)
+- [Use zig cc to cross-compile a CMake project](https://dev.to/jcbhmr/use-zig-cc-to-cross-compile-a-cmake-project-36e7)
+- [Weekly Updates - July 19, 2024](https://dev.to/couchbase/weekly-updates-july-19-2024-b30)
+- [Enabling Hot Reloading for Next.js in Docker](https://dev.to/yuvraajsj18/enabling-hot-reloading-for-nextjs-in-docker-4k39)
 <!-- BLOG-POST-LIST:END -->
 
