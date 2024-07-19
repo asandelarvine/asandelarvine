@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 of 100 Days of Code](https://dev.to/jacobsternx/day-18-of-100-days-of-code-2fn0)
-- [Understanding Test Data: A Comprehensive Guide](https://dev.to/keploy/understanding-test-data-a-comprehensive-guide-2jpk)
-- [QuestPDF HTML to PDF C# Alternatives For .NET Developers](https://dev.to/mhamzap10/questpdf-html-to-pdf-c-alternatives-for-net-developers-22gl)
-- [High Availability Solution for GBase 8a Based on Rose HA](https://dev.to/congcong/high-availability-solution-for-gbase-8a-based-on-rose-ha-28hf)
+- [What to do as your first project?](https://dev.to/feliciakwame/what-to-do-as-your-first-project-3nne)
+- [Book Review - Mastering Node.js by Adam Freeman](https://dev.to/priya_sharma/book-review-mastering-nodejs-by-adam-freeman-51dm)
+- [The Role of Polynomials in Machine Learning and Data Science](https://dev.to/lilyneema/the-role-of-polynomials-in-machine-learning-and-data-science-542l)
+- [Artificial Intelligence and Linguistics: Generative AI](https://dev.to/oadaramola/artificial-intelligence-and-linguistics-generative-ai-2a83)
 <!-- BLOG-POST-LIST:END -->
 
