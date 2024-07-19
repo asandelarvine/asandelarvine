@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟🚀 Calling all R&amp;D VPs and CTOs in Medium Startups 🚀🌟](https://dev.to/tomeraitz/calling-all-rd-vps-and-ctos-in-medium-startups-3d0i)
-- [Crowdstrike brings down Windows PC&#39;s](https://dev.to/mediocredevops/crowdstrike-brings-down-windows-pcs-5fnm)
-- [A Comparative Analysis of Five Mainstream Database Connection Pools](https://dev.to/senkae_ll/a-comparative-analysis-of-five-mainstream-database-connection-pools-3gnc)
-- [TiDB Future App Hackathon 2024](https://dev.to/tidbcommunity/tidb-future-app-hackathon-2024-3pab)
+- [OpenAI Unveils GPT-4o Mini: A More Accessible, Affordable AI Model](https://dev.to/dariubs/openai-unveils-gpt-4o-mini-a-more-accessible-affordable-ai-model-25nn)
+- [How to Quickly Fix Crowdstrike BSOD](https://dev.to/ralphsebastian/how-to-quickly-fix-crowdstrike-bsod-58a6)
+- [Running Phi-3-vision via ONNX on Jetson Platform](https://dev.to/jambochen/running-phi-3-vision-via-onnx-on-jetson-platform-35m1)
+- [My Pen on CodePen](https://dev.to/udita_pandey_8672f3e9c0f3/my-pen-on-codepen-5cal)
 <!-- BLOG-POST-LIST:END -->
 
