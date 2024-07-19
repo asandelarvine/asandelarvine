@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #145: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-145-explica-este-codigo-python-35mj)
-- [Key Considerations for Cloud Migration Services](https://dev.to/unicloud/key-considerations-for-cloud-migration-services-2535)
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 8&rpar; - How Does React-Query Fit Into The Picture?](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-8-how-does-react-query-fit-into-the-picture-1b99)
-- [Messaging in Plang](https://dev.to/ingigauti/messaging-in-plang-9mb)
+- [PROGRAMMING IN NOTEPAD 😨](https://dev.to/mince/programming-in-notepad-bd8)
+- [🎉 Finally! Official launch of the Gowebly project on ProductHunt](https://dev.to/koddr/finally-official-launch-of-the-gowebly-project-on-producthunt-3o4g)
+- [Mastering Error Boundaries in React: A Guide to Effective Error Handling](https://dev.to/dev_diaries_by_varun/mastering-error-boundaries-in-react-a-guide-to-effective-error-handling-48g3)
+- [Passo a Passo: Criando Sua Primeira Biblioteca em Python com Poetry &lpar;Parte I&rpar;](https://dev.to/domdias/passo-a-passo-criando-sua-primeira-biblioteca-em-python-com-poetry-parte-i-2alj)
 <!-- BLOG-POST-LIST:END -->
 
