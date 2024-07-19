@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitHub: 30 Essential Commands Every Developer Should Know](https://dev.to/vyan/mastering-github-30-essential-commands-every-developer-should-know-51nn)
-- [Enhancing OIDC security with demonstrating proof of possession &lpar;DPoP&rpar;](https://dev.to/logto/enhancing-oidc-security-with-demonstrating-proof-of-possession-dpop-24j4)
-- [Github Actions em projetos inner-source: ganhe agilidade nos code-reviews](https://dev.to/cebindani/github-actions-em-projetos-inner-source-ganhe-agilidade-nos-code-reviews-537l)
-- [MANAGING RESOURCE LOCKS IN MICROSOFT AZURE](https://dev.to/aizeon/managing-resource-locks-in-microsoft-azure-3j2d)
+- [#29 — Group an Excel table and Store It as Multiple Files According to Part of The Values of Specified Cells](https://dev.to/judith677/29-group-an-excel-table-and-store-it-as-multiple-files-according-to-part-of-the-values-of-specified-cells-5777)
+- [The Ultimate Guide to Python Lists: From Newbie to Ninja](https://dev.to/thelinuxman/-the-ultimate-guide-to-python-lists-from-newbie-to-ninja-46be)
+- [Client-Server Architecture: Types - Examples - Benefits](https://dev.to/zeeshanali0704/client-server-architecture-types-examples-benefits-1gb7)
+- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone - pt. 2](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-pt-2-3ada)
 <!-- BLOG-POST-LIST:END -->
 
