@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggeling Dev Takes Notes](https://dev.to/downtherabbithole/struggeling-dev-takes-notes-55cp)
-- [Estruturas Condicionais em Programação](https://dev.to/andersoncode66/estruturas-condicionais-em-programacao-45cb)
-- [Top 3 Best React Books 2024](https://dev.to/priya_sharma/top-3-best-react-books-2024-28dm)
-- [Create a practical IoT solution using Azure IoT Hub](https://dev.to/adeola_adebari/create-a-practical-iot-solution-using-azure-iot-hub-2ha1)
+- [Redefining Software Development: Human Architects and AI Builders](https://dev.to/miltonian33/redefining-software-development-human-architects-and-ai-builders-3f4p)
+- [Stay Compliant, Mitigate Risks: Understanding AML/KYC as a technologist](https://dev.to/horaceshmorace/stay-compliant-mitigate-risks-understanding-amlkyc-as-a-technologist-5go3)
+- [Why You Should Write Good Code](https://dev.to/thekarlesi/why-you-should-write-good-code-4hlg)
+- [Introduction to C++](https://dev.to/madgan95/introduction-to-c-4gfa)
 <!-- BLOG-POST-LIST:END -->
 
