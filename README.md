@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PROGRAMMING IN NOTEPAD 😨](https://dev.to/mince/programming-in-notepad-bd8)
-- [🎉 Finally! Official launch of the Gowebly project on ProductHunt](https://dev.to/koddr/finally-official-launch-of-the-gowebly-project-on-producthunt-3o4g)
-- [Mastering Error Boundaries in React: A Guide to Effective Error Handling](https://dev.to/dev_diaries_by_varun/mastering-error-boundaries-in-react-a-guide-to-effective-error-handling-48g3)
-- [Passo a Passo: Criando Sua Primeira Biblioteca em Python com Poetry &lpar;Parte I&rpar;](https://dev.to/domdias/passo-a-passo-criando-sua-primeira-biblioteca-em-python-com-poetry-parte-i-2alj)
+- [How to create a slick CSS animation from The Fall Guy](https://dev.to/robole/how-to-create-a-slick-css-animation-from-the-fall-guy-5f2a)
+- [Day 3 of NodeJS||Important Modules](https://dev.to/akshat0610/day-3-of-nodejsimportant-modules-153e)
+- [Practical IoT Solution Using Azure IoT Hub](https://dev.to/dera2024/practical-iot-solution-using-azure-iot-hub-42hh)
+- [Global Outage of Microsoft Services](https://dev.to/winsides/global-outage-of-microsoft-services-2817)
 <!-- BLOG-POST-LIST:END -->
 
