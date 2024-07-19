@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to do as your first project?](https://dev.to/feliciakwame/what-to-do-as-your-first-project-3nne)
-- [Book Review - Mastering Node.js by Adam Freeman](https://dev.to/priya_sharma/book-review-mastering-nodejs-by-adam-freeman-51dm)
-- [The Role of Polynomials in Machine Learning and Data Science](https://dev.to/lilyneema/the-role-of-polynomials-in-machine-learning-and-data-science-542l)
-- [Artificial Intelligence and Linguistics: Generative AI](https://dev.to/oadaramola/artificial-intelligence-and-linguistics-generative-ai-2a83)
+- [🌟🚀 Calling all R&amp;D VPs and CTOs in Medium Startups 🚀🌟](https://dev.to/tomeraitz/calling-all-rd-vps-and-ctos-in-medium-startups-3d0i)
+- [Crowdstrike brings down Windows PC&#39;s](https://dev.to/mediocredevops/crowdstrike-brings-down-windows-pcs-5fnm)
+- [A Comparative Analysis of Five Mainstream Database Connection Pools](https://dev.to/senkae_ll/a-comparative-analysis-of-five-mainstream-database-connection-pools-3gnc)
+- [TiDB Future App Hackathon 2024](https://dev.to/tidbcommunity/tidb-future-app-hackathon-2024-3pab)
 <!-- BLOG-POST-LIST:END -->
 
