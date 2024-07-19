@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redefining Software Development: Human Architects and AI Builders](https://dev.to/miltonian33/redefining-software-development-human-architects-and-ai-builders-3f4p)
-- [Stay Compliant, Mitigate Risks: Understanding AML/KYC as a technologist](https://dev.to/horaceshmorace/stay-compliant-mitigate-risks-understanding-amlkyc-as-a-technologist-5go3)
-- [Why You Should Write Good Code](https://dev.to/thekarlesi/why-you-should-write-good-code-4hlg)
-- [Introduction to C++](https://dev.to/madgan95/introduction-to-c-4gfa)
+- [Mastering GitHub: 30 Essential Commands Every Developer Should Know](https://dev.to/vyan/mastering-github-30-essential-commands-every-developer-should-know-51nn)
+- [Enhancing OIDC security with demonstrating proof of possession &lpar;DPoP&rpar;](https://dev.to/logto/enhancing-oidc-security-with-demonstrating-proof-of-possession-dpop-24j4)
+- [Github Actions em projetos inner-source: ganhe agilidade nos code-reviews](https://dev.to/cebindani/github-actions-em-projetos-inner-source-ganhe-agilidade-nos-code-reviews-537l)
+- [MANAGING RESOURCE LOCKS IN MICROSOFT AZURE](https://dev.to/aizeon/managing-resource-locks-in-microsoft-azure-3j2d)
 <!-- BLOG-POST-LIST:END -->
 
