@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#29 — Group an Excel table and Store It as Multiple Files According to Part of The Values of Specified Cells](https://dev.to/judith677/29-group-an-excel-table-and-store-it-as-multiple-files-according-to-part-of-the-values-of-specified-cells-5777)
-- [The Ultimate Guide to Python Lists: From Newbie to Ninja](https://dev.to/thelinuxman/-the-ultimate-guide-to-python-lists-from-newbie-to-ninja-46be)
-- [Client-Server Architecture: Types - Examples - Benefits](https://dev.to/zeeshanali0704/client-server-architecture-types-examples-benefits-1gb7)
-- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone - pt. 2](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-pt-2-3ada)
+- [Amazon EC2 &lpar;Elastic Compute Cloud&rpar; : Launching First Instance](https://dev.to/noorscript/amazon-ec2-elastic-compute-cloud-launching-first-instance-d10)
+- [WeakSet in JS?](https://dev.to/__khojiakbar__/weakset-in-js-op1)
+- [Airflow for RAG based GenAI application](https://dev.to/shubhsk/airflow-for-rag-based-genai-application-1ac4)
+- [Unraveling the Mysteries of Docker: A Python Masterclass 🐳](https://dev.to/getvm/unraveling-the-mysteries-of-docker-a-python-masterclass-g8n)
 <!-- BLOG-POST-LIST:END -->
 
