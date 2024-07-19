@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the Actor System in ASP.NET](https://dev.to/edexade/using-the-actor-system-in-aspnet-481k)
-- [Linked Lists](https://dev.to/paulike/linked-lists-lko)
-- [How To Verify Forms Using Formik in React js](https://dev.to/ewenikeemmanue4/how-to-verify-forms-using-formik-in-react-js-3a4o)
-- [How do you setup your gnome extension development environment?](https://dev.to/dagimgdot/how-do-you-setup-your-gnome-extension-development-environment-1l5)
+- [Sauver mon i18n en le typant](https://dev.to/simonboisset/sauver-mon-i18n-en-le-typant-3d6d)
+- [Creating an IoT solution using Azure Hub, registering a device, and simulating the device to Azure Blob storage](https://dev.to/abidemi/creating-an-iot-solution-using-azure-hub-registering-a-device-and-simulating-the-device-to-azure-blob-storage-3o40)
+- [Episode 24/28: Angular 18.1](https://dev.to/this-is-angular/episode-2428-angular-181-ebg)
+- [What You Need to Know About Legal Compliance in Prompt Engineering](https://dev.to/vectorize/what-you-need-to-know-about-legal-compliance-in-prompt-engineering-34bd)
 <!-- BLOG-POST-LIST:END -->
 
