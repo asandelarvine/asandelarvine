@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Unveils GPT-4o Mini: A More Accessible, Affordable AI Model](https://dev.to/dariubs/openai-unveils-gpt-4o-mini-a-more-accessible-affordable-ai-model-25nn)
-- [How to Quickly Fix Crowdstrike BSOD](https://dev.to/ralphsebastian/how-to-quickly-fix-crowdstrike-bsod-58a6)
-- [Running Phi-3-vision via ONNX on Jetson Platform](https://dev.to/jambochen/running-phi-3-vision-via-onnx-on-jetson-platform-35m1)
-- [My Pen on CodePen](https://dev.to/udita_pandey_8672f3e9c0f3/my-pen-on-codepen-5cal)
+- [Ibuprofeno.py💊| #145: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-145-explica-este-codigo-python-35mj)
+- [Key Considerations for Cloud Migration Services](https://dev.to/unicloud/key-considerations-for-cloud-migration-services-2535)
+- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 8&rpar; - How Does React-Query Fit Into The Picture?](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-8-how-does-react-query-fit-into-the-picture-1b99)
+- [Messaging in Plang](https://dev.to/ingigauti/messaging-in-plang-9mb)
 <!-- BLOG-POST-LIST:END -->
 
