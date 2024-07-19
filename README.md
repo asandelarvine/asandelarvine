@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless Feature Flagging with Flagsmith](https://dev.to/harshal_rembhotkar/effortless-feature-flagging-with-flagsmith-n97)
-- [How to avoid the Global BSOD](https://dev.to/developerslife/how-to-avoid-the-global-bsod-6j8)
-- [Quem comeu o meu CompletableFuture?](https://dev.to/hugaomarques/quem-comeu-o-meu-completablefuture-3f2d)
-- [AI in DevOps: Enhancing Automation and Efficiency](https://dev.to/ldatb/ai-in-devops-enhancing-automation-and-efficiency-4jka)
+- [How To Use TanStack &lpar;React Query&rpar;](https://dev.to/ewenikeemmanue4/how-to-use-tanstack-react-query-52bd)
+- [Dealing with Flutter Dependency Conflicts and Third-Party Plugin Changes](https://dev.to/vpalania/dealing-with-flutter-dependency-conflicts-and-third-party-plugin-changes-50d)
+- [Exploring Generative Adversarial Networks &lpar;GANs&rpar;](https://dev.to/nd_18b1e31aad9b7eca9e465a/exploring-generative-adversarial-networks-gans-48n5)
+- [Visualize Netflix Data using Amazon QuickSight](https://dev.to/mohammed_zubair_43bf67b9a/visualize-netflix-data-using-amazon-quicksight-1mn5)
 <!-- BLOG-POST-LIST:END -->
 
