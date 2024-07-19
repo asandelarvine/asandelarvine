@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 27 Task: Jenkins Declarative Pipeline with Docker](https://dev.to/oncloud7/day-27-task-jenkins-declarative-pipeline-with-docker-1jp2)
-- [Use zig cc to cross-compile a CMake project](https://dev.to/jcbhmr/use-zig-cc-to-cross-compile-a-cmake-project-36e7)
-- [Weekly Updates - July 19, 2024](https://dev.to/couchbase/weekly-updates-july-19-2024-b30)
-- [Enabling Hot Reloading for Next.js in Docker](https://dev.to/yuvraajsj18/enabling-hot-reloading-for-nextjs-in-docker-4k39)
+- [Iniciando com o Ansible](https://dev.to/nataliagranato/iniciando-com-o-ansible-1dfg)
+- [Calling Views, Stored Procedures and Functions in EF Core](https://dev.to/antonmartyniuk/calling-views-stored-procedures-and-functions-in-ef-core-2eac)
+- [Policy as Code with Kyverno](https://dev.to/nataliagranato/policy-as-code-with-kyverno-1bbl)
+- [Taliwind CSS VS Boostrap:which one should you choose?](https://dev.to/madhawaawishka/taliwind-css-vs-boostrapwhich-one-should-you-choose-26o1)
 <!-- BLOG-POST-LIST:END -->
 
