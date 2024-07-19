@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Funny Friday and Self-care](https://dev.to/pachicodes/funny-friday-and-self-care-560m)
-- [Azure Apocalypse: Inside the 2024 Global Cloud Crash](https://dev.to/proflead/azure-apocalypse-inside-the-2024-global-cloud-crash-4ge4)
-- [How to use multiple fonts in NextJS](https://dev.to/brendan_dev/how-to-use-multiple-fonts-in-nextjs-4c8m)
-- [How to get Structured Content in headless CMS- things you must know](https://dev.to/momciloo/how-to-get-structured-content-in-headless-cms-things-you-must-know-moe)
+- [Desvendando Mistérios: Como Tentar Resolver Problemas Sem Pedir Ajuda](https://dev.to/viquitor/desvendando-misterios-como-tentar-resolver-problemas-sem-pedir-ajuda-38l4)
+- [How Dynamodb partition keys work under the hood](https://dev.to/praveenmuthu/how-dynamodb-partition-keys-work-under-the-hood-21k5)
+- [challenging my brain](https://dev.to/myrojyn/challenging-my-brain-1h0m)
+- [Client Mapping Made Easy: Leveraging Autonomous Agents in API Integrations](https://dev.to/apidna/client-mapping-made-easy-leveraging-autonomous-agents-in-api-integrations-2509)
 <!-- BLOG-POST-LIST:END -->
 
