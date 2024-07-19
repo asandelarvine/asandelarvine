@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you want to upgrade MongoDB from version 5 to 7 on K8s?](https://dev.to/tvelmachos/do-you-want-to-upgrade-mongodb-from-version-5-to-7-on-k8s-1dmb)
-- [Elevate Your CSS with Typed CSS Variables Using `@property`](https://dev.to/koolkamalkishor/elevate-your-css-with-typed-css-variables-using-property-n8l)
-- [Sending Tekton pipeline status to Matrix chat room](https://dev.to/sherinek/sending-tekton-pipeline-status-to-matrix-chat-room-m9d)
-- [Understanding the Java Memory Model &lpar;JMM&rpar;](https://dev.to/adaumircosta/understanding-the-java-memory-model-jmm-p63)
+- [Funny Friday and Self-care](https://dev.to/pachicodes/funny-friday-and-self-care-560m)
+- [Azure Apocalypse: Inside the 2024 Global Cloud Crash](https://dev.to/proflead/azure-apocalypse-inside-the-2024-global-cloud-crash-4ge4)
+- [How to use multiple fonts in NextJS](https://dev.to/brendan_dev/how-to-use-multiple-fonts-in-nextjs-4c8m)
+- [How to get Structured Content in headless CMS- things you must know](https://dev.to/momciloo/how-to-get-structured-content-in-headless-cms-things-you-must-know-moe)
 <!-- BLOG-POST-LIST:END -->
 
