@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a slick CSS animation from The Fall Guy](https://dev.to/robole/how-to-create-a-slick-css-animation-from-the-fall-guy-5f2a)
-- [Day 3 of NodeJS||Important Modules](https://dev.to/akshat0610/day-3-of-nodejsimportant-modules-153e)
-- [Practical IoT Solution Using Azure IoT Hub](https://dev.to/dera2024/practical-iot-solution-using-azure-iot-hub-42hh)
-- [Global Outage of Microsoft Services](https://dev.to/winsides/global-outage-of-microsoft-services-2817)
+- [Do you want to upgrade MongoDB from version 5 to 7 on K8s?](https://dev.to/tvelmachos/do-you-want-to-upgrade-mongodb-from-version-5-to-7-on-k8s-1dmb)
+- [Elevate Your CSS with Typed CSS Variables Using `@property`](https://dev.to/koolkamalkishor/elevate-your-css-with-typed-css-variables-using-property-n8l)
+- [Sending Tekton pipeline status to Matrix chat room](https://dev.to/sherinek/sending-tekton-pipeline-status-to-matrix-chat-room-m9d)
+- [Understanding the Java Memory Model &lpar;JMM&rpar;](https://dev.to/adaumircosta/understanding-the-java-memory-model-jmm-p63)
 <!-- BLOG-POST-LIST:END -->
 
