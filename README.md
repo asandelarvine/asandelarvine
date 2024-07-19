@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EC2 &lpar;Elastic Compute Cloud&rpar; : Launching First Instance](https://dev.to/noorscript/amazon-ec2-elastic-compute-cloud-launching-first-instance-d10)
-- [WeakSet in JS?](https://dev.to/__khojiakbar__/weakset-in-js-op1)
-- [Airflow for RAG based GenAI application](https://dev.to/shubhsk/airflow-for-rag-based-genai-application-1ac4)
-- [Unraveling the Mysteries of Docker: A Python Masterclass 🐳](https://dev.to/getvm/unraveling-the-mysteries-of-docker-a-python-masterclass-g8n)
+- [Best Practices for Securing Cloud computing Environments and Data](https://dev.to/adityabhuyan/best-practices-for-securing-cloud-computing-environments-and-data-10ji)
+- [Connecting to Linux EC2 Instances via SSH](https://dev.to/noorscript/connecting-to-linux-ec2-instances-via-ssh-2bgd)
+- [Swap variables in PHP using destructuring](https://dev.to/tahomash/swap-variables-in-php-using-destructuring-4n64)
+- [Essential Elements for WooCommerce Site Migration](https://dev.to/shabbir_mw_03f56129cd25/essential-elements-for-woocommerce-site-migration-1p77)
 <!-- BLOG-POST-LIST:END -->
 
