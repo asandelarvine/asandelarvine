@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Iniciando com o Ansible](https://dev.to/nataliagranato/iniciando-com-o-ansible-1dfg)
-- [Calling Views, Stored Procedures and Functions in EF Core](https://dev.to/antonmartyniuk/calling-views-stored-procedures-and-functions-in-ef-core-2eac)
-- [Policy as Code with Kyverno](https://dev.to/nataliagranato/policy-as-code-with-kyverno-1bbl)
-- [Taliwind CSS VS Boostrap:which one should you choose?](https://dev.to/madhawaawishka/taliwind-css-vs-boostrapwhich-one-should-you-choose-26o1)
+- [Effortless Feature Flagging with Flagsmith](https://dev.to/harshal_rembhotkar/effortless-feature-flagging-with-flagsmith-n97)
+- [How to avoid the Global BSOD](https://dev.to/developerslife/how-to-avoid-the-global-bsod-6j8)
+- [Quem comeu o meu CompletableFuture?](https://dev.to/hugaomarques/quem-comeu-o-meu-completablefuture-3f2d)
+- [AI in DevOps: Enhancing Automation and Efficiency](https://dev.to/ldatb/ai-in-devops-enhancing-automation-and-efficiency-4jka)
 <!-- BLOG-POST-LIST:END -->
 
