@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sauver mon i18n en le typant](https://dev.to/simonboisset/sauver-mon-i18n-en-le-typant-3d6d)
-- [Creating an IoT solution using Azure Hub, registering a device, and simulating the device to Azure Blob storage](https://dev.to/abidemi/creating-an-iot-solution-using-azure-hub-registering-a-device-and-simulating-the-device-to-azure-blob-storage-3o40)
-- [Episode 24/28: Angular 18.1](https://dev.to/this-is-angular/episode-2428-angular-181-ebg)
-- [What You Need to Know About Legal Compliance in Prompt Engineering](https://dev.to/vectorize/what-you-need-to-know-about-legal-compliance-in-prompt-engineering-34bd)
+- [Top 10 CSS One-Liners I Love to Use](https://dev.to/safdarali/top-10-css-one-liners-i-love-to-use-5d24)
+- [How to make a replica of GPT Actions with the OpenAI API only ?](https://dev.to/obaydmerz/how-to-make-a-replica-of-gpt-actions-with-the-openai-api-only--jge)
+- [How to start with React Native as ReactJS developer?](https://dev.to/hellonehha/how-to-start-with-react-native-as-reactjs-developer-2d61)
+- [First blog post!](https://dev.to/princeu/first-blog-post-3l72)
 <!-- BLOG-POST-LIST:END -->
 
