@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Securing Cloud computing Environments and Data](https://dev.to/adityabhuyan/best-practices-for-securing-cloud-computing-environments-and-data-10ji)
-- [Connecting to Linux EC2 Instances via SSH](https://dev.to/noorscript/connecting-to-linux-ec2-instances-via-ssh-2bgd)
-- [Swap variables in PHP using destructuring](https://dev.to/tahomash/swap-variables-in-php-using-destructuring-4n64)
-- [Essential Elements for WooCommerce Site Migration](https://dev.to/shabbir_mw_03f56129cd25/essential-elements-for-woocommerce-site-migration-1p77)
+- [Day 18 of 100 Days of Code](https://dev.to/jacobsternx/day-18-of-100-days-of-code-2fn0)
+- [Understanding Test Data: A Comprehensive Guide](https://dev.to/keploy/understanding-test-data-a-comprehensive-guide-2jpk)
+- [QuestPDF HTML to PDF C# Alternatives For .NET Developers](https://dev.to/mhamzap10/questpdf-html-to-pdf-c-alternatives-for-net-developers-22gl)
+- [High Availability Solution for GBase 8a Based on Rose HA](https://dev.to/congcong/high-availability-solution-for-gbase-8a-based-on-rose-ha-28hf)
 <!-- BLOG-POST-LIST:END -->
 
