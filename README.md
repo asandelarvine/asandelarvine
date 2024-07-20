@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 CSS One-Liners I Love to Use](https://dev.to/safdarali/top-10-css-one-liners-i-love-to-use-5d24)
-- [How to make a replica of GPT Actions with the OpenAI API only ?](https://dev.to/obaydmerz/how-to-make-a-replica-of-gpt-actions-with-the-openai-api-only--jge)
-- [How to start with React Native as ReactJS developer?](https://dev.to/hellonehha/how-to-start-with-react-native-as-reactjs-developer-2d61)
-- [First blog post!](https://dev.to/princeu/first-blog-post-3l72)
+- [What are your thoughts on Rust?](https://dev.to/mikeselva123/what-are-your-thoughts-on-rust-576k)
+- [Building Microservices with .NET Core](https://dev.to/kartikmehta8/building-microservices-with-net-core-298d)
+- [First Vertical - log a time period against a user - iPhone app to Supabase - WIP](https://dev.to/timbroome/first-vertical-log-a-time-period-against-a-user-iphone-app-to-superbase-wip-1g2p)
+- [Tech choices and why - WIP](https://dev.to/timbroome/tech-choices-and-why-wip-1h78)
 <!-- BLOG-POST-LIST:END -->
 
