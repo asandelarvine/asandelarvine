@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part1&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part1-4h7b)
-- [Autenticação Cookies HTTP, HTTP Only, JWT, LocalStorage e SessionStorage.](https://dev.to/victorzarzar/autenticacao-cookies-http-http-only-jwt-localstorage-e-sessionstorage-4b73)
-- [Fine-tuning LLAMA 3 for Text Classification with Limited Resources](https://dev.to/jkyamog/fine-tuning-llama-3-for-text-classification-with-limited-resources-4i06)
-- [Advanced Techniques for Checking the IP Address of a Website and Detecting Threats](https://dev.to/johnmiller/advanced-techniques-for-checking-the-ip-address-of-a-website-and-detecting-threats-9gi)
+- [Transform Your Development Game with WordPress Flutter Templates and Components](https://dev.to/apptagsolution/transform-your-development-game-with-wordpress-flutter-templates-and-components-47d3)
+- [5 Essential Tools for Software Architects to Enhance Their Technical Writing](https://dev.to/finally_code/5-essential-tools-for-software-architects-to-enhance-their-technical-writing-2i7b)
+- [[random snippet] typescript - as const](https://dev.to/swimmingpolar/random-snippet-typescript-as-const-1nej)
+- [The Ultimate HTML Guide: Kickstart Your Web Development Journey](https://dev.to/saamsheron/the-ultimate-html-guide-kickstart-your-web-development-journey-2hpm)
 <!-- BLOG-POST-LIST:END -->
 
