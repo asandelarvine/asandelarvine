@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Developers in the UK: How Much Do They Earn?](https://dev.to/alexzel992/laravel-developers-in-the-uk-how-much-do-they-earn-6bd)
-- [New Age New ASM: Syscall](https://dev.to/yakupcemilk/new-age-new-asm-syscall-3b3a)
-- [Valid Parentheses &lpar;Leetcode 20&rpar;](https://dev.to/rtambunt/valid-parentheses-leetcode-20-3p40)
-- [Shifting Gears for a Better Tour de France User Experience](https://dev.to/majidzeno/shifting-gears-for-a-better-tour-de-france-user-experience-1ome)
+- [MINECRAFT-How does it work? &lpar;part 2&rpar;](https://dev.to/gagecantrelle/minecraft-how-does-it-work-part-2-1i70)
+- [You may have imposter syndrome](https://dev.to/juanemilio31323/you-may-have-imposter-syndrome-3bi0)
+- [Getting started with VI Editor](https://dev.to/kaustubhyerkade/getting-started-with-vi-editor-37cd)
+- [Create a simple CLI, a mess](https://dev.to/jairofernandez/create-a-simple-cli-a-mess-2g7j)
 <!-- BLOG-POST-LIST:END -->
 
