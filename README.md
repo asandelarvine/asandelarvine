@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Assign an IAM role to a Kubernetes service account](https://dev.to/aws-builders/assign-an-iam-role-to-a-kubernetes-service-account-3nc7)
-- [After Working Super Hard for 7 Years, We Released the New Kooboo CMS Under the EPL Open Source License Today](https://dev.to/kooboo/after-working-super-hard-for-7-years-we-released-the-new-kooboo-cms-under-the-epl-open-source-license-today-4no6)
-- [Prefer Empty Objects over Compiler tricks](https://dev.to/mjbradvica/prefer-empty-objects-over-compiler-tricks-116a)
-- [Project Homelab: Configuring proxmox with Ansible](https://dev.to/burnskp/project-homelab-configuring-proxmox-with-ansible-5eo8)
+- [The IT Auditor’s Secret Sauce for SSPA Compliance](https://dev.to/rieesteves/the-it-auditors-secret-sauce-for-sspa-compliance-ei8)
+- [Docker: Easy deployment of services 🚢](https://dev.to/disane/docker-easy-deployment-of-services-1620)
+- [Society Issue Management System](https://dev.to/madhubankhatri/society-issue-management-system-ko2)
+- [How are you doing deployment and CI?](https://dev.to/baradm100/how-are-you-doing-deployment-and-ci-1lnk)
 <!-- BLOG-POST-LIST:END -->
 
