@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Your Development Game with WordPress Flutter Templates and Components](https://dev.to/apptagsolution/transform-your-development-game-with-wordpress-flutter-templates-and-components-47d3)
-- [5 Essential Tools for Software Architects to Enhance Their Technical Writing](https://dev.to/finally_code/5-essential-tools-for-software-architects-to-enhance-their-technical-writing-2i7b)
-- [[random snippet] typescript - as const](https://dev.to/swimmingpolar/random-snippet-typescript-as-const-1nej)
-- [The Ultimate HTML Guide: Kickstart Your Web Development Journey](https://dev.to/saamsheron/the-ultimate-html-guide-kickstart-your-web-development-journey-2hpm)
+- [You don&#39;t need a frontend framework](https://dev.to/oryoffe/you-dont-need-a-frontend-framework-408m)
+- [Top 30 MongoDB Interview Questions and Answers](https://dev.to/raynecoder/top-30-mongodb-interview-questions-and-answers-6a4)
+- [Don&#39;t use &#39;BuildContext&#39;s across async gaps.](https://dev.to/sidcodeme/dont-use-buildcontexts-across-async-gaps-pe)
+- [Create API Routes Using Next Js](https://dev.to/maskoding/create-api-routes-using-next-js-4a1m)
 <!-- BLOG-POST-LIST:END -->
 
