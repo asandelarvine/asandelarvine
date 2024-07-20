@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MINECRAFT-How does it work? &lpar;part 2&rpar;](https://dev.to/gagecantrelle/minecraft-how-does-it-work-part-2-1i70)
-- [You may have imposter syndrome](https://dev.to/juanemilio31323/you-may-have-imposter-syndrome-3bi0)
-- [Getting started with VI Editor](https://dev.to/kaustubhyerkade/getting-started-with-vi-editor-37cd)
-- [Create a simple CLI, a mess](https://dev.to/jairofernandez/create-a-simple-cli-a-mess-2g7j)
+- [Design a Movie Ticket Booking System](https://dev.to/muhammad_salem/design-a-movie-ticket-booking-system-271k)
+- [How to approach Reporting and Analytics in ASP.NET Core](https://dev.to/muhammad_salem/how-to-approach-reporting-and-analytics-in-aspnet-core-2b77)
+- [Generating a Simple Report with jsreport and express.js: The Lazy Way](https://dev.to/xavier_script/generating-a-simple-report-with-jsreport-and-expressjs-the-lazy-way-379i)
+- [Building a DIY Smart Home Device: Get S**t Done](https://dev.to/agafox/building-a-diy-smart-home-device-get-st-done-ekg)
 <!-- BLOG-POST-LIST:END -->
 
