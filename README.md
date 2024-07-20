@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design a Movie Ticket Booking System](https://dev.to/muhammad_salem/design-a-movie-ticket-booking-system-271k)
-- [How to approach Reporting and Analytics in ASP.NET Core](https://dev.to/muhammad_salem/how-to-approach-reporting-and-analytics-in-aspnet-core-2b77)
-- [Generating a Simple Report with jsreport and express.js: The Lazy Way](https://dev.to/xavier_script/generating-a-simple-report-with-jsreport-and-expressjs-the-lazy-way-379i)
-- [Building a DIY Smart Home Device: Get S**t Done](https://dev.to/agafox/building-a-diy-smart-home-device-get-st-done-ekg)
+- [Object Oriented Approach](https://dev.to/muhammad_salem/object-oriented-approach-3m49)
+- [Why Your Applications Need Optimistic Updates](https://dev.to/_jhohannes/why-your-applications-need-optimistic-updates-3h62)
+- [A Arte de identificar o Problema Antes de Buscar Soluções](https://dev.to/viquitor/a-arte-de-focar-no-problema-antes-de-buscar-solucoes-dlh)
+- [Data Structure #1 Stack](https://dev.to/elijah57/data-structure-1-stack-31e4)
 <!-- BLOG-POST-LIST:END -->
 
