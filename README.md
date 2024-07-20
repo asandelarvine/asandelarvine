@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer: How do I convert from a char array [char; N] to a string slice &amp;str?](https://dev.to/towry/answer-how-do-i-convert-from-a-char-array-char-n-to-a-string-slice-str-1gbh)
-- [Laravel Unit Test Exceptions](https://dev.to/buddhieash/laravel-unit-test-exceptions-4dgc)
-- [Debug and find logical errors in the C program using dev c++ IDE](https://dev.to/madhawaawishka/debug-and-find-logical-errors-in-the-c-program-using-dev-c-ide-38hk)
-- [Vagrant and VMWare Fusion in Mac M1](https://dev.to/theenmanuel23/vagrant-and-vmware-fusion-in-mac-m1-34dd)
+- [How Forex Rates APIs are Powering the Future of Finance](https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p)
+- [Mastering React: A Developer&#39;s Guide to Structuring Your Frontend Code](https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5)
+- [Connecting to Your Linux EC2 Instance Using PuTTY on Window](https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp)
+- [Building a full-stack app with Python &amp; Django](https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4)
 <!-- BLOG-POST-LIST:END -->
 
