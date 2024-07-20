@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t need a frontend framework](https://dev.to/oryoffe/you-dont-need-a-frontend-framework-408m)
-- [Top 30 MongoDB Interview Questions and Answers](https://dev.to/raynecoder/top-30-mongodb-interview-questions-and-answers-6a4)
-- [Don&#39;t use &#39;BuildContext&#39;s across async gaps.](https://dev.to/sidcodeme/dont-use-buildcontexts-across-async-gaps-pe)
-- [Create API Routes Using Next Js](https://dev.to/maskoding/create-api-routes-using-next-js-4a1m)
+- [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86)
+- [Ibuprofeno.py💊| #146: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-146-explica-este-codigo-python-56hi)
+- [Difference Between a Repeater and a Switch](https://dev.to/pushpendra_sharma_f1d2cbe/difference-between-a-repeater-and-a-switch-4col)
+- [Backend framework using Node.js](https://dev.to/ramiahmed68/backend-framework-using-nodejs-408i)
 <!-- BLOG-POST-LIST:END -->
 
