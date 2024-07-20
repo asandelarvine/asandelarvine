@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmasks are not so esoteric and impractical after all...](https://dev.to/somedood/bitmasks-are-not-so-esoteric-and-impractical-after-all-55o6)
-- [Solving Common Issues with Hotwire in Ruby on Rails: Tips and Tricks](https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5)
-- [Microservices vs. Monolith: Choosing the Right Architecture](https://dev.to/helloworldttj/microservices-vs-monolith-choosing-the-right-architecture-2lam)
-- [JavaScript Array Coding question](https://dev.to/nikhilkalariya/javascript-array-coding-question-2827)
+- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part1&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part1-4h7b)
+- [Autenticação Cookies HTTP, HTTP Only, JWT, LocalStorage e SessionStorage.](https://dev.to/victorzarzar/autenticacao-cookies-http-http-only-jwt-localstorage-e-sessionstorage-4b73)
+- [Fine-tuning LLAMA 3 for Text Classification with Limited Resources](https://dev.to/jkyamog/fine-tuning-llama-3-for-text-classification-with-limited-resources-4i06)
+- [Advanced Techniques for Checking the IP Address of a Website and Detecting Threats](https://dev.to/johnmiller/advanced-techniques-for-checking-the-ip-address-of-a-website-and-detecting-threats-9gi)
 <!-- BLOG-POST-LIST:END -->
 
