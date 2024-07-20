@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Forex Rates APIs are Powering the Future of Finance](https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p)
-- [Mastering React: A Developer&#39;s Guide to Structuring Your Frontend Code](https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5)
-- [Connecting to Your Linux EC2 Instance Using PuTTY on Window](https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp)
-- [Building a full-stack app with Python &amp; Django](https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4)
+- [Bitmasks are not so esoteric and impractical after all...](https://dev.to/somedood/bitmasks-are-not-so-esoteric-and-impractical-after-all-55o6)
+- [Solving Common Issues with Hotwire in Ruby on Rails: Tips and Tricks](https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5)
+- [Microservices vs. Monolith: Choosing the Right Architecture](https://dev.to/helloworldttj/microservices-vs-monolith-choosing-the-right-architecture-2lam)
+- [JavaScript Array Coding question](https://dev.to/nikhilkalariya/javascript-array-coding-question-2827)
 <!-- BLOG-POST-LIST:END -->
 
