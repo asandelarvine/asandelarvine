@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing GROWI Plug-ins &lpar;Remark Plug-ins&rpar;](https://dev.to/goofmint/developing-growi-plug-ins-remark-plug-ins-1g7g)
-- [We Got a Job Offer in SECourses Discord Channel Related to AI &lpar;Stable Diffusion&rpar;](https://dev.to/furkangozukara/we-got-a-job-offer-in-secourses-discord-channel-related-to-ai-stable-diffusion-a28)
-- [Looking for a DevOps](https://dev.to/amitsinghdattebayo/looking-for-a-devops-47n6)
-- [Compare files/data](https://dev.to/akpvt/compare-filesdata-39j3)
+- [DBOS-Cloud: Fast and Free Automatic Data Aggregator](https://dev.to/vince_hirefunnel_co/dbos-cloud-fast-and-free-automatic-data-aggregator-2gdd)
+- [Ensuring GCE instances have full access to GCP APIs](https://dev.to/dchaley/ensuring-gce-instances-have-full-access-to-gcp-apis-3cdg)
+- [Find hotspots with Yugabyte Active Session History](https://dev.to/yugabyte/find-hotspots-with-yugabyte-active-session-history-45db)
+- [DBOS-Cloud: Fast and Free Automatic Supabase Table Copier](https://dev.to/vince_hirefunnel_co/dbos-cloud-fast-and-free-automatic-supabase-table-copier-2d65)
 <!-- BLOG-POST-LIST:END -->
 
