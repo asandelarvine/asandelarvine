@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DBOS-Cloud: Fast and Free Automatic Data Aggregator](https://dev.to/vince_hirefunnel_co/dbos-cloud-fast-and-free-automatic-data-aggregator-2gdd)
-- [Ensuring GCE instances have full access to GCP APIs](https://dev.to/dchaley/ensuring-gce-instances-have-full-access-to-gcp-apis-3cdg)
-- [Find hotspots with Yugabyte Active Session History](https://dev.to/yugabyte/find-hotspots-with-yugabyte-active-session-history-45db)
-- [DBOS-Cloud: Fast and Free Automatic Supabase Table Copier](https://dev.to/vince_hirefunnel_co/dbos-cloud-fast-and-free-automatic-supabase-table-copier-2d65)
+- [Angular Tutorial: Local Component Template Variables with @let](https://dev.to/brianmtreese/angular-tutorial-local-component-template-variables-with-let-2p5i)
+- [Kotlin&#39;s concise for Flutter app development.](https://dev.to/aadarshk7/kotlins-concise-for-flutter-app-development-5fi0)
+- [Essential Tech Support Practices for Remote Developers](https://dev.to/aaronsmithcs/essential-tech-support-practices-for-remote-developers-3jl6)
+- [cummin&lpar;&rpar; and cummax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/cummin-and-cummax-in-pytorch-4l8l)
 <!-- BLOG-POST-LIST:END -->
 
