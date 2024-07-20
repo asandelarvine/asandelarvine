@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Software Architecture Patterns for Distributed Systems](https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86)
-- [Ibuprofeno.py💊| #146: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-146-explica-este-codigo-python-56hi)
-- [Difference Between a Repeater and a Switch](https://dev.to/pushpendra_sharma_f1d2cbe/difference-between-a-repeater-and-a-switch-4col)
-- [Backend framework using Node.js](https://dev.to/ramiahmed68/backend-framework-using-nodejs-408i)
+- [How to Use Google Cloud Run Jobs for Background Tasks](https://dev.to/mkdev/how-to-use-google-cloud-run-jobs-for-background-tasks-3ej1)
+- [Interactive debugging with Symfony Console](https://dev.to/woodygilk/interactive-debugging-with-symfony-console-1cfb)
+- [[Roast: Day 5] - Creating flow using useState](https://dev.to/nmiller15/-roast-day-5-creating-flow-using-usestate-3e6p)
+- [பைத்தான் பயிற்சி வகுப்பின் மூலம் அடைந்த முயற்சி - நான்கு](https://dev.to/neyakkoo/paittaannn-pyirrci-vkuppinnn-muulm-attaint-muyrrci-naannnku-50ih)
 <!-- BLOG-POST-LIST:END -->
 
