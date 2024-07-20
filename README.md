@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Defender - part 1 - setting up the project](https://dev.to/mrlinxed/space-defender-part-1-setting-up-the-project-3hfk)
-- [中国社区日: 王宇 &lpar;AWS解决方案架构师&rpar; 生成式AI](https://dev.to/aws-builders/china-community-day-yu-wong-aws-solution-architect-generative-ai-4fe1)
-- [中国社区日: 王昊文 &lpar;AWS布道师&rpar; 生成式AI](https://dev.to/aws-builders/zhong-guo-she-qu-ri-wang-hao-wen-awsdai-yan-ren-sheng-cheng-shi-ai-2n1e)
-- [中国社区日: 马克·伯奇 &lpar;AWS布道师&rpar; 初创企业](https://dev.to/aws-builders/zhong-guo-she-qu-ri-ma-ke-bo-qi-awsdai-yan-ren-chu-chuang-qi-ye-285)
+- [🌇 China Community Day - An Energetic Tech Hub in Shen Zhen! 🌆](https://dev.to/aws-builders/china-aws-community-day-an-energetic-tech-hub-in-shen-zhen-1hbo)
+- [Symfony Station Communiqué — 19 July 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-19-july-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-58eh)
+- [Let&#39;s get started with React Native + Expo](https://dev.to/ncutixavier/lets-get-started-with-react-native-expo-32hn)
+- [Automated Accessibility Testing with Cypress: A Comprehensive Guide](https://dev.to/aswani25/automated-accessibility-testing-with-cypress-a-comprehensive-guide-15eb)
 <!-- BLOG-POST-LIST:END -->
 
