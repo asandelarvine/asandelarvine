@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌇 China Community Day - An Energetic Tech Hub in Shen Zhen! 🌆](https://dev.to/aws-builders/china-aws-community-day-an-energetic-tech-hub-in-shen-zhen-1hbo)
-- [Symfony Station Communiqué — 19 July 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-19-july-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-58eh)
-- [Let&#39;s get started with React Native + Expo](https://dev.to/ncutixavier/lets-get-started-with-react-native-expo-32hn)
-- [Automated Accessibility Testing with Cypress: A Comprehensive Guide](https://dev.to/aswani25/automated-accessibility-testing-with-cypress-a-comprehensive-guide-15eb)
+- [What is Go lang? and why would you use it?](https://dev.to/vaibhavt14/what-is-go-lang-and-why-would-you-use-it-1260)
+- [Fix wezterm’s terminfo on arch](https://dev.to/burnskp/fix-wezterms-terminfo-on-arch-1k0a)
+- [Day 8: Advanced React Topics 🚀](https://dev.to/dipakahirav/day-8-advanced-react-topics-2jei)
+- [Odd-even LinkedList](https://dev.to/prashantrmishra/odd-even-linkedlist-16ol)
 <!-- BLOG-POST-LIST:END -->
 
