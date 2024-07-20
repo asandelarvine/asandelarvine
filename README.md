@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your thoughts on Rust?](https://dev.to/mikeselva123/what-are-your-thoughts-on-rust-576k)
-- [Building Microservices with .NET Core](https://dev.to/kartikmehta8/building-microservices-with-net-core-298d)
-- [First Vertical - log a time period against a user - iPhone app to Supabase - WIP](https://dev.to/timbroome/first-vertical-log-a-time-period-against-a-user-iphone-app-to-superbase-wip-1g2p)
-- [Tech choices and why - WIP](https://dev.to/timbroome/tech-choices-and-why-wip-1h78)
+- [Developing GROWI Plug-ins &lpar;Remark Plug-ins&rpar;](https://dev.to/goofmint/developing-growi-plug-ins-remark-plug-ins-1g7g)
+- [We Got a Job Offer in SECourses Discord Channel Related to AI &lpar;Stable Diffusion&rpar;](https://dev.to/furkangozukara/we-got-a-job-offer-in-secourses-discord-channel-related-to-ai-stable-diffusion-a28)
+- [Looking for a DevOps](https://dev.to/amitsinghdattebayo/looking-for-a-devops-47n6)
+- [Compare files/data](https://dev.to/akpvt/compare-filesdata-39j3)
 <!-- BLOG-POST-LIST:END -->
 
