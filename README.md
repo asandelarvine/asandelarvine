@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving React Application Performance Using Dynamic Imports](https://dev.to/nagakumar_reddy_316f25396/improving-react-application-performance-using-dynamic-imports-37ca)
-- [DevSecOps en las pipelines de Terraform](https://dev.to/sjim-bcloudsec/devsecops-en-las-pipelines-de-terraform-11oi)
-- [Essential Guide to React useEffect for Developers](https://dev.to/udoka_emmanuel/essential-guide-to-react-useeffect-for-developers-fml)
-- [Execute Powershell using Docker container](https://dev.to/devesh_omar_b599bc4be3ee7/execute-powershell-using-docker-container-2oh8)
+- [&quot;From Concept to Code: Building a Reminder App with Python&quot;](https://dev.to/fortune0/from-concept-to-code-building-a-reminder-app-with-python-1ng9)
+- [How To Parse HTML Using Powershell](https://dev.to/arsalanmeee/how-to-parse-html-using-powershell-58ih)
+- [Mastering Helm Charts for Spring Boot: Managing Common Properties](https://dev.to/rajasekhar_beemireddy_cb8/mastering-helm-charts-for-spring-boot-managing-common-properties-3em3)
+- [Roles based authentication using Nextauth and next.js](https://dev.to/arindam_roy_382/roles-based-authentication-using-nextauth-and-nextjs-51h1)
 <!-- BLOG-POST-LIST:END -->
 
