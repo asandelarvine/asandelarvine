@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Fullstack Chatbot with PyTorch, NumPy, NLTK, and Next.js - Complete Tutorial in 2024](https://dev.to/henry_lee_1787e739b0c8191/building-fullstack-chatbot-with-pytorch-numpy-nltk-and-nextjs-complete-tutorial-in-2024-1mh3)
-- [The Translator Wizard: A Deep Dive into the AI Encoder](https://dev.to/tumyet0/the-translator-wizard-a-deep-dive-into-the-ai-encoder-332j)
-- [Vector image conversion](https://dev.to/yujisue/vector-image-conversion-4b26)
-- [Microsserviços, uma abordagem prática - &lpar;Parte - 1&rpar;](https://dev.to/miltonlima/micros-servicos-por-exemplos-parte-1--8k3)
+- [Create `nan` and `inf` in PyTorch](https://dev.to/hyperkai/create-nan-and-inf-in-pytorch-2dj7)
+- [中国大陆用户解决 Shopify Storefront API 网络问题的详细指南](https://dev.to/longlikun/zhong-guo-da-lu-yong-hu-jie-jue-shopify-storefront-api-wang-luo-wen-ti-de-xiang-xi-zhi-nan-3acp)
+- [The Ultimate Guide to Frontend Development: Best Practices for Building Stellar Websites](https://dev.to/vyan/the-ultimate-frontend-developers-playbook-8-game-changing-practices-for-killer-websites-n1b)
+- [Today&#39;s Trending Projects: Modifying the Teacher Table Using PreparedStatement and More](https://dev.to/labex/todays-trending-projects-modifying-the-teacher-table-using-preparedstatement-and-more-omp)
 <!-- BLOG-POST-LIST:END -->
 
