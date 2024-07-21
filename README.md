@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;From Concept to Code: Building a Reminder App with Python&quot;](https://dev.to/fortune0/from-concept-to-code-building-a-reminder-app-with-python-1ng9)
-- [How To Parse HTML Using Powershell](https://dev.to/arsalanmeee/how-to-parse-html-using-powershell-58ih)
-- [Mastering Helm Charts for Spring Boot: Managing Common Properties](https://dev.to/rajasekhar_beemireddy_cb8/mastering-helm-charts-for-spring-boot-managing-common-properties-3em3)
-- [Roles based authentication using Nextauth and next.js](https://dev.to/arindam_roy_382/roles-based-authentication-using-nextauth-and-nextjs-51h1)
+- [Running Untrusted JavaScript Code](https://dev.to/this-is-learning/running-untrusted-javascript-code-3mi3)
+- [Logs collection in Kubernetes](https://dev.to/cloudnative_eng/logs-collection-in-kubernetes-l59)
+- [What we can learn from the faulty CrowdStrike update](https://dev.to/giovannimazzuoccolo/what-we-can-learn-from-the-faulty-crowdstrike-update-2ie)
+- [Calculators on the horizon!](https://dev.to/codecara/calculators-on-the-horizon-4h51)
 <!-- BLOG-POST-LIST:END -->
 
