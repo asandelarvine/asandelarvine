@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BigO &lpar;Big Oh&rpar; Notation](https://dev.to/thuta21/bigo-big-oh-notation-41dk)
-- [[] == ![] || Wtf JavaScript](https://dev.to/sh20raj/-wtf-javascript-4mc9)
-- [Day 19 of 100 Days of Code](https://dev.to/jacobsternx/day-19-of-100-days-of-code-1og)
-- [Which programming languages run faster in the browser?](https://dev.to/vincentdchan/which-programming-languages-run-faster-in-the-browser-1fac)
+- [What are Webhooks and why should developers use them?](https://dev.to/squadcasthq/what-are-webhooks-and-why-should-developers-use-them-h6l)
+- [Quick Guide to Design Patterns at a High Level](https://dev.to/narasingh/quick-guide-to-design-patterns-at-a-high-level-jl1)
+- [Desplegar una máquina en Azure con Terraform e instalar k3s](https://dev.to/danieljsaldana/desplegar-una-maquina-en-azure-con-terraform-e-instalar-k3s-3ipc)
+- [Crowdstrike: Who is getting fired?](https://dev.to/scofieldidehen/crowdstrike-who-is-getting-fired-2pd2)
 <!-- BLOG-POST-LIST:END -->
 
