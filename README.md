@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing CodeQuill: Your Free, Local Code Snippet Manager](https://dev.to/best_codes/introducing-codequill-your-free-local-code-snippet-manager-5cmf)
-- [Expo51 Jotai Template, ready to use](https://dev.to/undeplus/expo51-jotai-template-ready-to-use-1n75)
-- [博客与周刊 - FAV0周刊008期](https://dev.to/justin3go/bo-ke-yu-zhou-kan-fav0zhou-kan-008qi-3ce7)
-- [40 Days Of Kubernetes &lpar;18/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1840-1ik)
+- [Zero-Length Arrays: A Cornerstone of C# Development](https://dev.to/waelhabbal/zero-length-arrays-a-cornerstone-of-c-development-3bh7)
+- [Experience developing in Rust](https://dev.to/digkill_abd82674a0a76249a/experience-developing-in-rust-m6j)
+- [A simple wallet in solidity](https://dev.to/arsh_the_coder/a-simple-wallet-in-solidity-kmb)
+- [Your Brilliant Idea Might Actually Suck](https://dev.to/stanleyugwu/your-brilliant-idea-might-actually-suck-1i9c)
 <!-- BLOG-POST-LIST:END -->
 
