@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Untrusted JavaScript Code](https://dev.to/this-is-learning/running-untrusted-javascript-code-3mi3)
-- [Logs collection in Kubernetes](https://dev.to/cloudnative_eng/logs-collection-in-kubernetes-l59)
-- [What we can learn from the faulty CrowdStrike update](https://dev.to/giovannimazzuoccolo/what-we-can-learn-from-the-faulty-crowdstrike-update-2ie)
-- [Calculators on the horizon!](https://dev.to/codecara/calculators-on-the-horizon-4h51)
+- [CRM Features Every Business Should Have](https://dev.to/companionlink-1/crm-features-every-business-should-have-hce)
+- [Do some interesting stuff with console-fun](https://dev.to/akgondber/do-some-interesting-stuff-with-console-fun-3bgd)
+- [When Bad Code Crashes a Billion Windows Computers 🚨](https://dev.to/arjuncodess/when-bad-code-crashes-a-billion-windows-computers-3bii)
+- [Monday is back and So am I](https://dev.to/alex_coder/monday-is-back-and-so-am-i-41m3)
 <!-- BLOG-POST-LIST:END -->
 
