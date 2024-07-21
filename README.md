@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[python] count words in a text](https://dev.to/blackdead263/python-count-words-in-a-text-3k8d)
-- [Good Commit ✅ vs Bad Commit❎: Commit Message Comparisons🧭](https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp)
-- [This weird IFRAME thing wasted my 2 days &lpar;and counting...&rpar;](https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2)
-- [Enhancing Web APIs with Django REST Framework at EazeAlliance](https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff)
+- [BigO &lpar;Big Oh&rpar; Notation](https://dev.to/thuta21/bigo-big-oh-notation-41dk)
+- [[] == ![] || Wtf JavaScript](https://dev.to/sh20raj/-wtf-javascript-4mc9)
+- [Day 19 of 100 Days of Code](https://dev.to/jacobsternx/day-19-of-100-days-of-code-1og)
+- [Which programming languages run faster in the browser?](https://dev.to/vincentdchan/which-programming-languages-run-faster-in-the-browser-1fac)
 <!-- BLOG-POST-LIST:END -->
 
