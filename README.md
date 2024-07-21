@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Only Guide You Need to Pass the CKAD &lpar;Certified Kubernetes Application Developer&rpar; Exam](https://dev.to/idsulik/the-only-guide-you-need-to-pass-the-ckad-certified-kubernetes-application-developer-exam-1fb4)
-- [‘hi’ shows it’s colors](https://dev.to/jbobbylopez/hi-shows-its-colors-57f4)
-- [This Language has just Solved Concurrency in your Backend Services.](https://dev.to/jasper-at-windswept/this-language-has-just-solved-concurrency-in-your-backend-services-1043)
-- [Dive into the World of Data Mining with Google&#39;s Comprehensive Course 🚀](https://dev.to/getvm/dive-into-the-world-of-data-mining-with-googles-comprehensive-course-pjn)
+- [🖥️ Understanding the Raft Consensus Algorithm: A Comprehensive Guide 📚](https://dev.to/ravi3541/understanding-the-raft-consensus-algorithm-a-comprehensive-guide-2epo)
+- [Tips for Using Java Streams for File Input/Output](https://dev.to/maskoding/tips-for-using-java-streams-for-file-inputoutput-4pj0)
+- [🚀 Apache Kafka Cluster Explained: Core Concepts and Architectures 🌐](https://dev.to/ravi3541/apache-kafka-cluster-explained-core-concepts-and-architectures-283f)
+- [Docker&#39;s Command](https://dev.to/salimzadeh/dockers-command-l9i)
 <!-- BLOG-POST-LIST:END -->
 
