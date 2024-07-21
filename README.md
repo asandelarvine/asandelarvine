@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing TON Blockchain: A Journey from Web2 to Web3](https://dev.to/aries4491/embracing-ton-blockchain-a-journey-from-web2-to-web3-jin)
-- [daily code 77 | js fetch practice](https://dev.to/gregor_schafroth/daily-code-77-js-fetch-practice-4ann)
-- [Update Your npm Packages with npm-check](https://dev.to/naicigam28/update-your-npm-packages-with-npm-check-45ii)
-- [Advanced ESP32: Exploring Key Features and Versatile Uses](https://dev.to/jane_white_74334c599bfafa/advanced-esp32-exploring-key-features-and-versatile-uses-301h)
+- [Analisando série histórica bacia tocantins - parte 1](https://dev.to/devsnorte/analisando-serie-historica-bacia-tocantins-parte-1-27mj)
+- [RWAToken.sol | Contracts](https://dev.to/evire/rwatokensol-contracts-51j9)
+- [RWAAsset.sol | Contracts](https://dev.to/evire/rwaassetsol-contracts-52p8)
+- [Working with Files in Cloud Run Jobs: Introducing GCS Fuse](https://dev.to/mesmacosta/working-with-files-in-cloud-run-jobs-introducing-gcs-fuse-iob)
 <!-- BLOG-POST-LIST:END -->
 
