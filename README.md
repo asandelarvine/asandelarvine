@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dubai Metro Affected by BSOD Windows Error!](https://dev.to/winsides/dubai-metro-affected-by-bsod-windows-error-27g)
-- [Deploy Next JS App on Coolify with GitHub](https://dev.to/sh20raj/deploy-next-js-app-on-coolify-with-github-58mm)
-- [Unleashing the Sentinel&#39;s Might: Mastering Centralized Security with AWS Security Hub – Your Cloud Fortress Guardian](https://dev.to/ikoh_sylva/unleashing-the-sentinels-might-mastering-centralized-security-with-aws-security-hub-your-cloud-fortress-guardian-4p44)
-- [Sample MFE - Angular Apps with Module Federation](https://dev.to/tomyum/sample-mfe-angular-apps-with-module-federation-4ic)
+- [Embracing TON Blockchain: A Journey from Web2 to Web3](https://dev.to/aries4491/embracing-ton-blockchain-a-journey-from-web2-to-web3-jin)
+- [daily code 77 | js fetch practice](https://dev.to/gregor_schafroth/daily-code-77-js-fetch-practice-4ann)
+- [Update Your npm Packages with npm-check](https://dev.to/naicigam28/update-your-npm-packages-with-npm-check-45ii)
+- [Advanced ESP32: Exploring Key Features and Versatile Uses](https://dev.to/jane_white_74334c599bfafa/advanced-esp32-exploring-key-features-and-versatile-uses-301h)
 <!-- BLOG-POST-LIST:END -->
 
