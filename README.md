@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Webhooks and why should developers use them?](https://dev.to/squadcasthq/what-are-webhooks-and-why-should-developers-use-them-h6l)
-- [Quick Guide to Design Patterns at a High Level](https://dev.to/narasingh/quick-guide-to-design-patterns-at-a-high-level-jl1)
-- [Desplegar una máquina en Azure con Terraform e instalar k3s](https://dev.to/danieljsaldana/desplegar-una-maquina-en-azure-con-terraform-e-instalar-k3s-3ipc)
-- [Crowdstrike: Who is getting fired?](https://dev.to/scofieldidehen/crowdstrike-who-is-getting-fired-2pd2)
+- [Hiteshwar shares his thoughts on being an SRE](https://dev.to/squadcast/hiteshwar-shares-his-thoughts-on-being-an-sre-3jdh)
+- [TryHackMe &lpar;THM&rpar; | Linux Fundamentals Part 1](https://dev.to/jumalaw98/tryhackme-thm-linux-fundamentals-part-1-3ba3)
+- [Suppressing Alert Noise during Scheduled Maintenance](https://dev.to/squadcast/suppressing-alert-noise-during-scheduled-maintenance-3non)
+- [Throttling and Debouncing in JavaScript](https://dev.to/markliu2013/throttling-and-debouncing-in-javascript-3de4)
 <!-- BLOG-POST-LIST:END -->
 
