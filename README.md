@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLD : N X N Tic Tac Toe with O&lpar;1&rpar; checks](https://dev.to/code0monkey1/lld-n-x-n-tic-tac-toe-with-o1-checks-2ih0)
-- [🌇 China community day: excellent way to build a community with 1000+ members! 🎉](https://dev.to/danc/china-community-day-excellent-way-to-build-a-community-with-1000-members-1igf)
-- [where the world build software](https://dev.to/melaniecreator/where-the-world-build-software-141j)
-- [Deep Dive on Amazon ElastiCache Service as Redis Cluster with Amazon EC2 Instance](https://dev.to/aws-builders/deep-dive-on-amazon-elasticache-service-as-redis-cluster-with-amazon-ec2-instance-1864)
+- [Dubai Metro Affected by BSOD Windows Error!](https://dev.to/winsides/dubai-metro-affected-by-bsod-windows-error-27g)
+- [Deploy Next JS App on Coolify with GitHub](https://dev.to/sh20raj/deploy-next-js-app-on-coolify-with-github-58mm)
+- [Unleashing the Sentinel&#39;s Might: Mastering Centralized Security with AWS Security Hub – Your Cloud Fortress Guardian](https://dev.to/ikoh_sylva/unleashing-the-sentinels-might-mastering-centralized-security-with-aws-security-hub-your-cloud-fortress-guardian-4p44)
+- [Sample MFE - Angular Apps with Module Federation](https://dev.to/tomyum/sample-mfe-angular-apps-with-module-federation-4ic)
 <!-- BLOG-POST-LIST:END -->
 
