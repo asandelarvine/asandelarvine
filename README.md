@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Object Oriented Approach](https://dev.to/muhammad_salem/object-oriented-approach-3m49)
-- [Why Your Applications Need Optimistic Updates](https://dev.to/_jhohannes/why-your-applications-need-optimistic-updates-3h62)
-- [A Arte de identificar o Problema Antes de Buscar Soluções](https://dev.to/viquitor/a-arte-de-focar-no-problema-antes-de-buscar-solucoes-dlh)
-- [Data Structure #1 Stack](https://dev.to/elijah57/data-structure-1-stack-31e4)
+- [Vector image conversion](https://dev.to/yujisue/vector-image-conversion-4b26)
+- [Microsserviços, uma abordagem prática - &lpar;Parte - 1&rpar;](https://dev.to/miltonlima/micros-servicos-por-exemplos-parte-1--8k3)
+- [CSS Grid vs. Flexbox: When to Use Which](https://dev.to/kartikmehta8/css-grid-vs-flexbox-when-to-use-which-4oje)
+- [Java Beans](https://dev.to/diegosilva13/java-beans-53c5)
 <!-- BLOG-POST-LIST:END -->
 
