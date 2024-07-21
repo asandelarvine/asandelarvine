@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Birthday message](https://dev.to/bhupesh_singhnitwal_d34c/happy-birthday-message-27e0)
-- [Min Stack | LeetCode | Java](https://dev.to/tanujav/min-stack-leetcode-java-233m)
-- [Scan me you will love it &lt;3](https://dev.to/kartik_gaur_41c2a409d626d/scan-me-you-will-love-it-3-4kei)
-- [Explore JavaScript Data Types with getType Function](https://dev.to/labex/explore-javascript-data-types-with-gettype-function-2p61)
+- [The Only Guide You Need to Pass the CKAD &lpar;Certified Kubernetes Application Developer&rpar; Exam](https://dev.to/idsulik/the-only-guide-you-need-to-pass-the-ckad-certified-kubernetes-application-developer-exam-1fb4)
+- [‘hi’ shows it’s colors](https://dev.to/jbobbylopez/hi-shows-its-colors-57f4)
+- [This Language has just Solved Concurrency in your Backend Services.](https://dev.to/jasper-at-windswept/this-language-has-just-solved-concurrency-in-your-backend-services-1043)
+- [Dive into the World of Data Mining with Google&#39;s Comprehensive Course 🚀](https://dev.to/getvm/dive-into-the-world-of-data-mining-with-googles-comprehensive-course-pjn)
 <!-- BLOG-POST-LIST:END -->
 
