@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Window Functions in SQL](https://dev.to/johnkyalo/window-functions-in-sql-47id)
-- [Three Ways to Cause Infinite Loops When Using UseEffect in React and How to Prevent Them](https://dev.to/oyedeletemitope/three-ways-to-cause-infinite-loops-when-using-useeffect-in-react-and-how-to-prevent-them-3ip3)
-- [Day 28 - 90daysofdevops : Jenkins Agents](https://dev.to/oncloud7/day-28-90daysofdevops-jenkins-agents-86b)
-- [Python Functions 17.07.2024](https://dev.to/arokya_naresh_178a488116e/python-functions-17072024-4jgi)
+- [Introducing CodeQuill: Your Free, Local Code Snippet Manager](https://dev.to/best_codes/introducing-codequill-your-free-local-code-snippet-manager-5cmf)
+- [Expo51 Jotai Template, ready to use](https://dev.to/undeplus/expo51-jotai-template-ready-to-use-1n75)
+- [博客与周刊 - FAV0周刊008期](https://dev.to/justin3go/bo-ke-yu-zhou-kan-fav0zhou-kan-008qi-3ce7)
+- [40 Days Of Kubernetes &lpar;18/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1840-1ik)
 <!-- BLOG-POST-LIST:END -->
 
