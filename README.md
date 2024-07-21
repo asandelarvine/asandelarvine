@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Length Arrays: A Cornerstone of C# Development](https://dev.to/waelhabbal/zero-length-arrays-a-cornerstone-of-c-development-3bh7)
-- [Experience developing in Rust](https://dev.to/digkill_abd82674a0a76249a/experience-developing-in-rust-m6j)
-- [A simple wallet in solidity](https://dev.to/arsh_the_coder/a-simple-wallet-in-solidity-kmb)
-- [Your Brilliant Idea Might Actually Suck](https://dev.to/stanleyugwu/your-brilliant-idea-might-actually-suck-1i9c)
+- [Improving React Application Performance Using Dynamic Imports](https://dev.to/nagakumar_reddy_316f25396/improving-react-application-performance-using-dynamic-imports-37ca)
+- [DevSecOps en las pipelines de Terraform](https://dev.to/sjim-bcloudsec/devsecops-en-las-pipelines-de-terraform-11oi)
+- [Essential Guide to React useEffect for Developers](https://dev.to/udoka_emmanuel/essential-guide-to-react-useeffect-for-developers-fml)
+- [Execute Powershell using Docker container](https://dev.to/devesh_omar_b599bc4be3ee7/execute-powershell-using-docker-container-2oh8)
 <!-- BLOG-POST-LIST:END -->
 
