@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiteshwar shares his thoughts on being an SRE](https://dev.to/squadcast/hiteshwar-shares-his-thoughts-on-being-an-sre-3jdh)
-- [TryHackMe &lpar;THM&rpar; | Linux Fundamentals Part 1](https://dev.to/jumalaw98/tryhackme-thm-linux-fundamentals-part-1-3ba3)
-- [Suppressing Alert Noise during Scheduled Maintenance](https://dev.to/squadcast/suppressing-alert-noise-during-scheduled-maintenance-3non)
-- [Throttling and Debouncing in JavaScript](https://dev.to/markliu2013/throttling-and-debouncing-in-javascript-3de4)
+- [LLD : N X N Tic Tac Toe with O&lpar;1&rpar; checks](https://dev.to/code0monkey1/lld-n-x-n-tic-tac-toe-with-o1-checks-2ih0)
+- [🌇 China community day: excellent way to build a community with 1000+ members! 🎉](https://dev.to/danc/china-community-day-excellent-way-to-build-a-community-with-1000-members-1igf)
+- [where the world build software](https://dev.to/melaniecreator/where-the-world-build-software-141j)
+- [Deep Dive on Amazon ElastiCache Service as Redis Cluster with Amazon EC2 Instance](https://dev.to/aws-builders/deep-dive-on-amazon-elasticache-service-as-redis-cluster-with-amazon-ec2-instance-1864)
 <!-- BLOG-POST-LIST:END -->
 
