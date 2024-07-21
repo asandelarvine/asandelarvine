@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Dealing with duplicates](https://dev.to/karenpayneoregon/c-dealing-with-duplicates-28hg)
-- [Practical Implementation of the Observer Pattern: Elegant Update Mechanism in Spring Boot](https://dev.to/bseayin/practical-implementation-of-the-observer-pattern-elegant-update-mechanism-in-spring-boot-2nda)
-- [Mastering Keyboard Shortcuts for Enhanced Productivity](https://dev.to/gokilp_25/mastering-keyboard-shortcuts-for-enhanced-productivity-3eon)
-- [I&#39;m tired of it](https://dev.to/syeo66/im-tired-of-it-5fe2)
+- [Window Functions in SQL](https://dev.to/johnkyalo/window-functions-in-sql-47id)
+- [Three Ways to Cause Infinite Loops When Using UseEffect in React and How to Prevent Them](https://dev.to/oyedeletemitope/three-ways-to-cause-infinite-loops-when-using-useeffect-in-react-and-how-to-prevent-them-3ip3)
+- [Day 28 - 90daysofdevops : Jenkins Agents](https://dev.to/oncloud7/day-28-90daysofdevops-jenkins-agents-86b)
+- [Python Functions 17.07.2024](https://dev.to/arokya_naresh_178a488116e/python-functions-17072024-4jgi)
 <!-- BLOG-POST-LIST:END -->
 
