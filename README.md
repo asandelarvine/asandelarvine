@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🖥️ Understanding the Raft Consensus Algorithm: A Comprehensive Guide 📚](https://dev.to/ravi3541/understanding-the-raft-consensus-algorithm-a-comprehensive-guide-2epo)
-- [Tips for Using Java Streams for File Input/Output](https://dev.to/maskoding/tips-for-using-java-streams-for-file-inputoutput-4pj0)
-- [🚀 Apache Kafka Cluster Explained: Core Concepts and Architectures 🌐](https://dev.to/ravi3541/apache-kafka-cluster-explained-core-concepts-and-architectures-283f)
-- [Docker&#39;s Command](https://dev.to/salimzadeh/dockers-command-l9i)
+- [[python] count words in a text](https://dev.to/blackdead263/python-count-words-in-a-text-3k8d)
+- [Good Commit ✅ vs Bad Commit❎: Commit Message Comparisons🧭](https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp)
+- [This weird IFRAME thing wasted my 2 days &lpar;and counting...&rpar;](https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2)
+- [Enhancing Web APIs with Django REST Framework at EazeAlliance](https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff)
 <!-- BLOG-POST-LIST:END -->
 
