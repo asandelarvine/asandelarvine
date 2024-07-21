@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analisando série histórica bacia tocantins - parte 1](https://dev.to/devsnorte/analisando-serie-historica-bacia-tocantins-parte-1-27mj)
-- [RWAToken.sol | Contracts](https://dev.to/evire/rwatokensol-contracts-51j9)
-- [RWAAsset.sol | Contracts](https://dev.to/evire/rwaassetsol-contracts-52p8)
-- [Working with Files in Cloud Run Jobs: Introducing GCS Fuse](https://dev.to/mesmacosta/working-with-files-in-cloud-run-jobs-introducing-gcs-fuse-iob)
+- [C# Dealing with duplicates](https://dev.to/karenpayneoregon/c-dealing-with-duplicates-28hg)
+- [Practical Implementation of the Observer Pattern: Elegant Update Mechanism in Spring Boot](https://dev.to/bseayin/practical-implementation-of-the-observer-pattern-elegant-update-mechanism-in-spring-boot-2nda)
+- [Mastering Keyboard Shortcuts for Enhanced Productivity](https://dev.to/gokilp_25/mastering-keyboard-shortcuts-for-enhanced-productivity-3eon)
+- [I&#39;m tired of it](https://dev.to/syeo66/im-tired-of-it-5fe2)
 <!-- BLOG-POST-LIST:END -->
 
