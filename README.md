@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#30 — Align Rows of Data To A Specified Column](https://dev.to/judith677/30-align-rows-of-data-to-a-specified-column-1pne)
-- [Llama Guard, AAAL Pt.3](https://dev.to/tunehqai/llama-guard-aaal-pt3-530o)
-- [Control a servo connected to a Raspberry Pi using an Xbox controller](https://dev.to/dcs_ink/control-a-servo-connected-to-a-raspberry-pi-using-an-xbox-controller-230a)
-- [Day9,10 of 100DaysOfCode](https://dev.to/koichiarai/day910-of-100daysofcode-30n)
+- [To the New Developers Looking for a Mentor, Here are 8 Free Lessons](https://dev.to/canro91/to-the-new-developers-looking-for-a-mentor-here-are-8-free-lessons-595l)
+- [transform[stderr]: [BABEL] Note: The code generator has deoptimised](https://dev.to/aspsptyd/transformstderr-babel-note-the-code-generator-has-deoptimised-11ba)
+- [Dive into Database Systems with CMU&#39;s Comprehensive Course 🌐](https://dev.to/getvm/dive-into-database-systems-with-cmus-comprehensive-course-1e9e)
+- [Case Study: Energy company Turcomp, empowers agile and secure development with NocoBase](https://dev.to/nocobase/case-study-energy-company-turcomp-empowers-agile-and-secure-development-with-nocobase-b9b)
 <!-- BLOG-POST-LIST:END -->
 
