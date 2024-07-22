@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT compared the memory usage with and without PHP generators for large datasets.](https://dev.to/saaberdev/chatgpt-explained-how-we-can-optimize-memory-usage-by-using-php-generators-for-large-datasets-4e5h)
-- [[Video] A Brief Introduction to Kafka &lpar;With Analogy&rpar;](https://dev.to/dishitdevasia/video-a-brief-introduction-to-kafka-with-analogy-1dc0)
-- [Increasing productivity by better managing multiple terminals in Emacs](https://dev.to/breno/increasing-productivity-by-better-managing-multiple-terminals-in-emacs-119c)
-- [Writing Efficient Python Code](https://dev.to/kartikmehta8/writing-efficient-python-code-582a)
+- [What Are The Uses of JavaScript](https://dev.to/thekarlesi/what-are-the-uses-of-javascript-11aj)
+- [How to calculate time and space complexity? &lpar;DSA - 2&rpar;](https://dev.to/madgan95/how-to-calculate-time-and-space-complexity-dsa-2-2jd1)
+- [Today&#39;s Trending Projects: Real-Time Sales Dashboard with Echarts and More](https://dev.to/labex/todays-trending-projects-real-time-sales-dashboard-with-echarts-and-more-432f)
+- [NESTOI Powerful nodejs library](https://dev.to/noeurnneang/nestoi-powerful-nodejs-library-37fn)
 <!-- BLOG-POST-LIST:END -->
 
