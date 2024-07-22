@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Date in Javascript: new Date&lpar;&rpar; vs Day.js vs Moment.js](https://dev.to/syakirurahman/working-with-date-in-javascript-new-date-vs-dayjs-vs-momentjs-k01)
-- [[DAY 84-86] I Learned PostgreSQL &amp; Bash Scripting](https://dev.to/thomascansino/day-84-86-i-learned-postgresql-bash-scripting-21cj)
-- [jest测试redux需要根组件](https://dev.to/dennischeung/jestce-shi-reduxxu-yao-gen-zu-jian-2lbb)
-- [Create React App 脚手架配置inspector](https://dev.to/dennischeung/create-react-app-jiao-shou-jia-pei-zhi-inspector-113f)
+- [How To Be A Good Developer?](https://dev.to/goldennoodles/how-to-be-a-good-developer-1lfe)
+- [Angular + Sanity CMS: Rendering Portable Text with @limitless-angular/sanity](https://dev.to/osnoser1/angular-sanity-cms-rendering-portable-text-with-limitless-angularsanity-57il)
+- [The Future of Cloud Engineering: Unlocking New Potential](https://dev.to/sujal_dua/the-future-of-cloud-engineering-unlocking-new-potential-1kkf)
+- [Something special](https://dev.to/kartik_gaur_41c2a409d626d/something-special-249b)
 <!-- BLOG-POST-LIST:END -->
 
