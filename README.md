@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Be A Good Developer?](https://dev.to/goldennoodles/how-to-be-a-good-developer-1lfe)
-- [Angular + Sanity CMS: Rendering Portable Text with @limitless-angular/sanity](https://dev.to/osnoser1/angular-sanity-cms-rendering-portable-text-with-limitless-angularsanity-57il)
-- [The Future of Cloud Engineering: Unlocking New Potential](https://dev.to/sujal_dua/the-future-of-cloud-engineering-unlocking-new-potential-1kkf)
-- [Something special](https://dev.to/kartik_gaur_41c2a409d626d/something-special-249b)
+- [Calm Down, Cloud&#39;s Not THAT Different!](https://dev.to/adatole/calm-down-clouds-not-that-different-29gh)
+- [Mastering Phoenix Framework - Part 1](https://dev.to/rushikeshpandit/mastering-phoenix-framework-part-1-i35)
+- [Go Test Coverage: Visualizing Profiles](https://dev.to/quame_jnr1/go-test-coverage-b42)
+- [Pre-Requisites of Creating an Email Verifier](https://dev.to/mailtesterninja/pre-requisites-of-creating-an-email-verifier-4f2j)
 <!-- BLOG-POST-LIST:END -->
 
