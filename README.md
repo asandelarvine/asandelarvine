@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master the Art of Design with Our UI UX Course in Kochi](https://dev.to/liya4/master-the-art-of-design-with-our-ui-ux-course-in-kochi-5c1a)
-- [Javascript Async/Await: A Powerful Tool for Asynchronous Programming](https://dev.to/devstoriesplayground/javascript-asyncawait-a-powerful-tool-for-asynchronous-programming-4955)
-- [Best Practices for Android App Performance Optimization](https://dev.to/mikekelvin/best-practices-for-android-app-performance-optimization-1hod)
-- [Product Recommendation Service through Introduction of Graph Database.](https://dev.to/nim12/product-recommendation-service-through-introduction-of-graph-database-44an)
+- [Rename macOS Devices with JAMF API Tokens](https://dev.to/blacknight318/rename-macos-devices-with-jamf-api-tokens-32ac)
+- [20 Super Useful CSS Animation Libraries](https://dev.to/hosseinyazdi/20-super-useful-css-animation-libraries-59pc)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;15/07/2024-21/07/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-15072024-21072024-21b2)
+- [to makers and coders of all things cool!](https://dev.to/paulanton07/to-makers-and-coders-of-all-things-cool-3p90)
 <!-- BLOG-POST-LIST:END -->
 
