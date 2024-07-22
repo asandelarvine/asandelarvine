@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML in One Video - Development, Deployment and Quiz](https://dev.to/sh20raj/html-in-one-video-development-deployment-and-quiz-697)
-- [My Home Lab](https://dev.to/mlem_dev/my-home-lab-4lji)
-- [My Journey into the World of Development: From Beginner to Builder!](https://dev.to/olehrab/my-journey-into-the-world-of-development-from-beginner-to-builder-3m5l)
-- [Why We Should Move to OPEX in Cloud Services?!](https://dev.to/1hamzabek/why-we-should-move-to-opex-in-cloud-services-1bo3)
+- [A Simple OpenAI Chatbot](https://dev.to/vietjovi/a-simple-openai-chatbot-5ap)
+- [Level up your env var tooling in Next.js with DMNO](https://dev.to/theoephraim/level-up-your-env-var-tooling-in-nextjs-with-dmno-2d43)
+- [Understanding Range Requests: Partial Downloads vs. Full Downloads in Media Players](https://dev.to/rajasekhar_beemireddy_cb8/understanding-range-requests-partial-downloads-vs-full-downloads-in-media-players-4661)
+- [What is software testing?](https://dev.to/imranc07/what-is-software-testing-33)
 <!-- BLOG-POST-LIST:END -->
 
