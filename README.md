@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue.Js da Emit tushunchasi](https://dev.to/mukhriddinweb/vuejs-da-emit-tushunchasi-1bi)
-- [Automate Lighthouse Reports For Max App Performance](https://dev.to/jeffbuildstech/automate-lighthouse-reports-for-max-app-performance-4o4l)
-- [Microservices Architecture with .NET Core and Kubernetes](https://dev.to/paulotorrestech/microservices-architecture-with-net-core-and-kubernetes-c56)
-- [How I made my own chatbot using RAG](https://dev.to/atharvpatwardhan/how-i-made-my-own-chatbot-using-rag-3jhf)
+- [SURPRISE 2024!, Web-Forms Back to ASP.NET Core](https://dev.to/elanatframework/surprise-2024-web-forms-back-to-aspnet-core-j1h)
+- [Realtime log streaming in Go](https://dev.to/gatij/realtime-log-streaming-in-go-4530)
+- [Issue 54 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-54-of-aws-cloud-security-weekly-24pg)
+- [[Rust]get file name](https://dev.to/nk_maker/rustget-file-name-3pka)
 <!-- BLOG-POST-LIST:END -->
 
