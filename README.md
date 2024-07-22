@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrent and Parallel Programming in Python &lpar;course&rpar;](https://dev.to/apetryla/concurrent-and-parallel-programming-in-python-course-3oaa)
-- [Enhancing SQL Efficiency with Multithreading](https://dev.to/dbvismarketing/enhancing-sql-efficiency-with-multithreading-3dap)
-- [Seriously, you need to learn git](https://dev.to/derlin/seriously-you-need-to-learn-git-1n8j)
-- [Cyber vs. Physical Attacks: an Analysis of Technical Discriminant Criteria, and their Consideration from a Legal Perspective](https://dev.to/cybersecurity_journal_eaa/cyber-vs-physical-attacks-an-analysis-of-technical-discriminant-criteria-and-their-consideration-from-a-legal-perspective-1fg5)
+- [Postmark + Squadcast Integration: Simplifying Alert Routing](https://dev.to/squadcast/postmark-squadcast-integration-simplifying-alert-routing-4h8n)
+- [First post!](https://dev.to/ugankhuyag/first-post-3mp8)
+- [Exploring DN404: An Innovative NFT Standard](https://dev.to/nft_research/exploring-dn404-an-innovative-nft-standard-47bi)
+- [Runtime Log Level Change using Golang &amp; GoFr](https://dev.to/aryanmehrotra/remote-runtime-log-level-change-using-golang-gofr-54d8)
 <!-- BLOG-POST-LIST:END -->
 
