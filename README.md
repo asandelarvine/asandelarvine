@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Responsive, Equal-Height Cards with Modern CSS &lpar;Magic of Flexbox &amp; No Media Queries&rpar;](https://dev.to/jennavisions/building-responsive-equal-height-cards-with-modern-css-magic-of-flexbox-no-media-queries-2h0b)
-- [ECS service-to-service communication](https://dev.to/aws-builders/ecs-service-to-service-communication-4clk)
-- [Integrating Governance, Processes, People, and Technology with Cloud-Native Application Protection Platforms &lpar;CNAPP&rpar;](https://dev.to/seccodingguy/integrating-governance-processes-people-and-technology-with-cloud-native-application-protection-platforms-cnapp-39ja)
-- [Biblioteca emoji-picker-element em português](https://dev.to/laurielylourenco/biblioteca-emoji-picker-element-em-portugues-40f4)
+- [Meet Stratify: Optimizing KSP Plugin Development](https://dev.to/matt_shoemaker_86e9acb105/meet-stratify-optimizing-ksp-plugin-development-233f)
+- [Day 29 - Jenkins Important interview Questions.](https://dev.to/oncloud7/day-29-jenkins-important-interview-questions-3hkl)
+- [Alpine.js: A quick Intro of Vue to the DOM](https://dev.to/trinitymace/alpinejs-a-quick-intro-of-vue-to-the-dom-44p2)
+- [AI SaaS Landing page](https://dev.to/paul_freeman/ai-saas-landing-page-499c)
 <!-- BLOG-POST-LIST:END -->
 
