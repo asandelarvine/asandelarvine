@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design System no Flutter](https://dev.to/redrodrigoc/design-system-no-flutter-4d53)
-- [Discover the Magic of SearXNG Service and Empower Your Search Engine API](https://dev.to/zand/discover-the-magic-of-searxng-service-and-empower-your-search-engine-api-87l)
-- [How to Effectively Use the ALL Keyword in SQL Server Queries](https://dev.to/nilebits/how-to-effectively-use-the-all-keyword-in-sql-server-queries-5d7h)
-- [The Importance of Developer Experience &lpar;Dev-X&rpar; for API-Providing Tech Companies](https://dev.to/devxme/the-importance-of-developer-experience-dev-x-for-api-providing-tech-companies-52bb)
+- [HTML in One Video - Development, Deployment and Quiz](https://dev.to/sh20raj/html-in-one-video-development-deployment-and-quiz-697)
+- [My Home Lab](https://dev.to/mlem_dev/my-home-lab-4lji)
+- [My Journey into the World of Development: From Beginner to Builder!](https://dev.to/olehrab/my-journey-into-the-world-of-development-from-beginner-to-builder-3m5l)
+- [Why We Should Move to OPEX in Cloud Services?!](https://dev.to/1hamzabek/why-we-should-move-to-opex-in-cloud-services-1bo3)
 <!-- BLOG-POST-LIST:END -->
 
