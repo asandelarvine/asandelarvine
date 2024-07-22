@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [To the New Developers Looking for a Mentor, Here are 8 Free Lessons](https://dev.to/canro91/to-the-new-developers-looking-for-a-mentor-here-are-8-free-lessons-595l)
-- [transform[stderr]: [BABEL] Note: The code generator has deoptimised](https://dev.to/aspsptyd/transformstderr-babel-note-the-code-generator-has-deoptimised-11ba)
-- [Dive into Database Systems with CMU&#39;s Comprehensive Course 🌐](https://dev.to/getvm/dive-into-database-systems-with-cmus-comprehensive-course-1e9e)
-- [Case Study: Energy company Turcomp, empowers agile and secure development with NocoBase](https://dev.to/nocobase/case-study-energy-company-turcomp-empowers-agile-and-secure-development-with-nocobase-b9b)
+- [Creating Snake Game In Power Apps](https://dev.to/wyattdave/creating-snake-game-in-power-apps-4n9)
+- [Create your own template for cyclops](https://dev.to/priyanshuverma/create-your-own-template-for-cyclops-2acl)
+- [UPLOAD IMAGES, VIDEOS, AND AUDIO IN REACT JS USING CLOUDINARY.](https://dev.to/shieldstring/upload-images-videos-and-audio-in-react-js-using-cloudinary-3ji)
+- [Creating Base Docker Images](https://dev.to/kalkwst/creating-base-docker-images-5ao3)
 <!-- BLOG-POST-LIST:END -->
 
