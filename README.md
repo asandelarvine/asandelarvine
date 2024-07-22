@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Snake Game In Power Apps](https://dev.to/wyattdave/creating-snake-game-in-power-apps-4n9)
-- [Create your own template for cyclops](https://dev.to/priyanshuverma/create-your-own-template-for-cyclops-2acl)
-- [UPLOAD IMAGES, VIDEOS, AND AUDIO IN REACT JS USING CLOUDINARY.](https://dev.to/shieldstring/upload-images-videos-and-audio-in-react-js-using-cloudinary-3ji)
-- [Creating Base Docker Images](https://dev.to/kalkwst/creating-base-docker-images-5ao3)
+- [Concurrent and Parallel Programming in Python &lpar;course&rpar;](https://dev.to/apetryla/concurrent-and-parallel-programming-in-python-course-3oaa)
+- [Enhancing SQL Efficiency with Multithreading](https://dev.to/dbvismarketing/enhancing-sql-efficiency-with-multithreading-3dap)
+- [Seriously, you need to learn git](https://dev.to/derlin/seriously-you-need-to-learn-git-1n8j)
+- [Cyber vs. Physical Attacks: an Analysis of Technical Discriminant Criteria, and their Consideration from a Legal Perspective](https://dev.to/cybersecurity_journal_eaa/cyber-vs-physical-attacks-an-analysis-of-technical-discriminant-criteria-and-their-consideration-from-a-legal-perspective-1fg5)
 <!-- BLOG-POST-LIST:END -->
 
