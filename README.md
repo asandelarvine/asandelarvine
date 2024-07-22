@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Components Demystified: Your Ultimate Guide from Newbie to Ninja](https://dev.to/vyan/react-components-demystified-your-ultimate-guide-from-newbie-to-ninja-3l1n)
-- [New Feature Announcement: Enhanced Map Interaction on My &quot;Infometka&quot;!](https://dev.to/mibii/new-feature-announcement-enhanced-map-interaction-on-my-infometka-c2i)
-- [รีวิว go package names by Sameer Ajmani](https://dev.to/pallat/riiwiw-go-package-names-by-sameer-ajmani-1ifl)
-- [Building in Public - 4](https://dev.to/liaob/building-in-public-4-npk)
+- [#30 — Align Rows of Data To A Specified Column](https://dev.to/judith677/30-align-rows-of-data-to-a-specified-column-1pne)
+- [Llama Guard, AAAL Pt.3](https://dev.to/tunehqai/llama-guard-aaal-pt3-530o)
+- [Control a servo connected to a Raspberry Pi using an Xbox controller](https://dev.to/dcs_ink/control-a-servo-connected-to-a-raspberry-pi-using-an-xbox-controller-230a)
+- [Day9,10 of 100DaysOfCode](https://dev.to/koichiarai/day910-of-100daysofcode-30n)
 <!-- BLOG-POST-LIST:END -->
 
