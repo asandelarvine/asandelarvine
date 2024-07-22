@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I 10x’d my Coding Productivity Using this AI Tool: I wish I had known it Earlier 🤯](https://dev.to/github20k/i-10xd-my-coding-productivity-using-this-ai-tool-i-wish-i-had-known-it-earlier-2eoo)
-- [The Benefits of Node.js for Modern Web Development](https://dev.to/kingjohneycodey/the-benefits-of-nodejs-for-modern-web-development-21gb)
-- [🌇 China Community Day - Side Chat with Miss Hai: Reveal the Secrets to Empowering startup with Generative AI 🌟](https://dev.to/danc/china-community-day-exclusive-insight-from-miss-hai-reveal-the-secrets-to-empowering-startup-with-generative-ai-55nc)
-- [🌇 中国社区日 - 海小姐的独家洞见：揭示使用生成式人工智能赋能初创企业的秘诀 🌟](https://dev.to/danc/zhong-guo-she-qu-ri-hai-xiao-jie-de-du-jia-dong-jian-jie-shi-shi-yong-sheng-cheng-shi-ren-gong-zhi-neng-fu-neng-chu-chuang-qi-ye-de-mi-jue-42i5)
+- [Building Responsive, Equal-Height Cards with Modern CSS &lpar;Magic of Flexbox &amp; No Media Queries&rpar;](https://dev.to/jennavisions/building-responsive-equal-height-cards-with-modern-css-magic-of-flexbox-no-media-queries-2h0b)
+- [ECS service-to-service communication](https://dev.to/aws-builders/ecs-service-to-service-communication-4clk)
+- [Integrating Governance, Processes, People, and Technology with Cloud-Native Application Protection Platforms &lpar;CNAPP&rpar;](https://dev.to/seccodingguy/integrating-governance-processes-people-and-technology-with-cloud-native-application-protection-platforms-cnapp-39ja)
+- [Biblioteca emoji-picker-element em português](https://dev.to/laurielylourenco/biblioteca-emoji-picker-element-em-portugues-40f4)
 <!-- BLOG-POST-LIST:END -->
 
