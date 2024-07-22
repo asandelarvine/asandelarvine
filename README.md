@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memorização em Ruby](https://dev.to/giovannycordeiro/memorizacao-em-ruby-5789)
-- [🪄 Debezium: the magic behind data capture &amp; async replication &lpar;for free&rpar;](https://dev.to/adriens/debezium-the-magic-behind-data-capture-async-replication-for-free-355m)
-- [How to Build a Chatbot with Next.js, TailwindCSS, and OpenAI Chat Completion API - Full Tutorial](https://dev.to/abetavarez/how-to-build-a-chatbot-with-nextjs-tailwindcss-and-openai-chat-completion-api-full-tutorial-4ee1)
-- [Modern CSS hamburger using :has&lpar;&rpar;](https://dev.to/charlesloder/modern-css-hamburger-using-has-2ijc)
+- [Vue.Js da Emit tushunchasi](https://dev.to/mukhriddinweb/vuejs-da-emit-tushunchasi-1bi)
+- [Automate Lighthouse Reports For Max App Performance](https://dev.to/jeffbuildstech/automate-lighthouse-reports-for-max-app-performance-4o4l)
+- [Microservices Architecture with .NET Core and Kubernetes](https://dev.to/paulotorrestech/microservices-architecture-with-net-core-and-kubernetes-c56)
+- [How I made my own chatbot using RAG](https://dev.to/atharvpatwardhan/how-i-made-my-own-chatbot-using-rag-3jhf)
 <!-- BLOG-POST-LIST:END -->
 
