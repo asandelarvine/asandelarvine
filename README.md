@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calm Down, Cloud&#39;s Not THAT Different!](https://dev.to/adatole/calm-down-clouds-not-that-different-29gh)
-- [Mastering Phoenix Framework - Part 1](https://dev.to/rushikeshpandit/mastering-phoenix-framework-part-1-i35)
-- [Go Test Coverage: Visualizing Profiles](https://dev.to/quame_jnr1/go-test-coverage-b42)
-- [Pre-Requisites of Creating an Email Verifier](https://dev.to/mailtesterninja/pre-requisites-of-creating-an-email-verifier-4f2j)
+- [I 10x’d my Coding Productivity Using this AI Tool: I wish I had known it Earlier 🤯](https://dev.to/github20k/i-10xd-my-coding-productivity-using-this-ai-tool-i-wish-i-had-known-it-earlier-2eoo)
+- [The Benefits of Node.js for Modern Web Development](https://dev.to/kingjohneycodey/the-benefits-of-nodejs-for-modern-web-development-21gb)
+- [🌇 China Community Day - Side Chat with Miss Hai: Reveal the Secrets to Empowering startup with Generative AI 🌟](https://dev.to/danc/china-community-day-exclusive-insight-from-miss-hai-reveal-the-secrets-to-empowering-startup-with-generative-ai-55nc)
+- [🌇 中国社区日 - 海小姐的独家洞见：揭示使用生成式人工智能赋能初创企业的秘诀 🌟](https://dev.to/danc/zhong-guo-she-qu-ri-hai-xiao-jie-de-du-jia-dong-jian-jie-shi-shi-yong-sheng-cheng-shi-ren-gong-zhi-neng-fu-neng-chu-chuang-qi-ye-de-mi-jue-42i5)
 <!-- BLOG-POST-LIST:END -->
 
