@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Stratify: Optimizing KSP Plugin Development](https://dev.to/matt_shoemaker_86e9acb105/meet-stratify-optimizing-ksp-plugin-development-233f)
-- [Day 29 - Jenkins Important interview Questions.](https://dev.to/oncloud7/day-29-jenkins-important-interview-questions-3hkl)
-- [Alpine.js: A quick Intro of Vue to the DOM](https://dev.to/trinitymace/alpinejs-a-quick-intro-of-vue-to-the-dom-44p2)
-- [AI SaaS Landing page](https://dev.to/paul_freeman/ai-saas-landing-page-499c)
+- [Design System no Flutter](https://dev.to/redrodrigoc/design-system-no-flutter-4d53)
+- [Discover the Magic of SearXNG Service and Empower Your Search Engine API](https://dev.to/zand/discover-the-magic-of-searxng-service-and-empower-your-search-engine-api-87l)
+- [How to Effectively Use the ALL Keyword in SQL Server Queries](https://dev.to/nilebits/how-to-effectively-use-the-all-keyword-in-sql-server-queries-5d7h)
+- [The Importance of Developer Experience &lpar;Dev-X&rpar; for API-Providing Tech Companies](https://dev.to/devxme/the-importance-of-developer-experience-dev-x-for-api-providing-tech-companies-52bb)
 <!-- BLOG-POST-LIST:END -->
 
