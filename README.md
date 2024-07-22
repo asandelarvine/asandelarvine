@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 63](https://dev.to/humberd/game-of-purpose-day-63-3hoj)
-- [Why use Angular in 2024](https://dev.to/mashablair/why-use-angular-in-2024-34kh)
-- [How to configure akky email with Digital ocean hosting](https://dev.to/koffer/how-to-configure-akky-email-with-digital-ocean-hosting-456h)
-- [[Rust]Making struct for getting directory path](https://dev.to/nk_maker/rustmaking-struct-for-getting-directory-path-2322)
+- [ChatGPT compared the memory usage with and without PHP generators for large datasets.](https://dev.to/saaberdev/chatgpt-explained-how-we-can-optimize-memory-usage-by-using-php-generators-for-large-datasets-4e5h)
+- [[Video] A Brief Introduction to Kafka &lpar;With Analogy&rpar;](https://dev.to/dishitdevasia/video-a-brief-introduction-to-kafka-with-analogy-1dc0)
+- [Increasing productivity by better managing multiple terminals in Emacs](https://dev.to/breno/increasing-productivity-by-better-managing-multiple-terminals-in-emacs-119c)
+- [Writing Efficient Python Code](https://dev.to/kartikmehta8/writing-efficient-python-code-582a)
 <!-- BLOG-POST-LIST:END -->
 
