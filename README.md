@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple OpenAI Chatbot](https://dev.to/vietjovi/a-simple-openai-chatbot-5ap)
-- [Level up your env var tooling in Next.js with DMNO](https://dev.to/theoephraim/level-up-your-env-var-tooling-in-nextjs-with-dmno-2d43)
-- [Understanding Range Requests: Partial Downloads vs. Full Downloads in Media Players](https://dev.to/rajasekhar_beemireddy_cb8/understanding-range-requests-partial-downloads-vs-full-downloads-in-media-players-4661)
-- [What is software testing?](https://dev.to/imranc07/what-is-software-testing-33)
+- [Memorização em Ruby](https://dev.to/giovannycordeiro/memorizacao-em-ruby-5789)
+- [🪄 Debezium: the magic behind data capture &amp; async replication &lpar;for free&rpar;](https://dev.to/adriens/debezium-the-magic-behind-data-capture-async-replication-for-free-355m)
+- [How to Build a Chatbot with Next.js, TailwindCSS, and OpenAI Chat Completion API - Full Tutorial](https://dev.to/abetavarez/how-to-build-a-chatbot-with-nextjs-tailwindcss-and-openai-chat-completion-api-full-tutorial-4ee1)
+- [Modern CSS hamburger using :has&lpar;&rpar;](https://dev.to/charlesloder/modern-css-hamburger-using-has-2ijc)
 <!-- BLOG-POST-LIST:END -->
 
