@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postmark + Squadcast Integration: Simplifying Alert Routing](https://dev.to/squadcast/postmark-squadcast-integration-simplifying-alert-routing-4h8n)
-- [First post!](https://dev.to/ugankhuyag/first-post-3mp8)
-- [Exploring DN404: An Innovative NFT Standard](https://dev.to/nft_research/exploring-dn404-an-innovative-nft-standard-47bi)
-- [Runtime Log Level Change using Golang &amp; GoFr](https://dev.to/aryanmehrotra/remote-runtime-log-level-change-using-golang-gofr-54d8)
+- [Master the Art of Design with Our UI UX Course in Kochi](https://dev.to/liya4/master-the-art-of-design-with-our-ui-ux-course-in-kochi-5c1a)
+- [Javascript Async/Await: A Powerful Tool for Asynchronous Programming](https://dev.to/devstoriesplayground/javascript-asyncawait-a-powerful-tool-for-asynchronous-programming-4955)
+- [Best Practices for Android App Performance Optimization](https://dev.to/mikekelvin/best-practices-for-android-app-performance-optimization-1hod)
+- [Product Recommendation Service through Introduction of Graph Database.](https://dev.to/nim12/product-recommendation-service-through-introduction-of-graph-database-44an)
 <!-- BLOG-POST-LIST:END -->
 
