@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Your Web Application: A Tutorial Guide to Using SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-web-application-a-tutorial-guide-to-using-safeline-waf-jjn)
-- [Deep Dive into PandApache3: Implementation d&#39;authentification et de la securité](https://dev.to/pykpyky/deep-dive-into-pandapache3-implementation-dauthentification-et-de-la-securite-462n)
-- [How to GET HTML from API and Display In DOM using HMPL.js &lpar;fetch&rpar;?](https://dev.to/antonmak1/how-to-get-html-from-api-and-display-in-dom-using-hmpljs-fetch-1ipe)
-- [A Comprehensive Python Framework for Web Development by Eazealliance](https://dev.to/eazealliance_services/a-comprehensive-python-framework-for-web-development-by-eazealliance-2b19)
+- [Working with Date in Javascript: new Date&lpar;&rpar; vs Day.js vs Moment.js](https://dev.to/syakirurahman/working-with-date-in-javascript-new-date-vs-dayjs-vs-momentjs-k01)
+- [[DAY 84-86] I Learned PostgreSQL &amp; Bash Scripting](https://dev.to/thomascansino/day-84-86-i-learned-postgresql-bash-scripting-21cj)
+- [jest测试redux需要根组件](https://dev.to/dennischeung/jestce-shi-reduxxu-yao-gen-zu-jian-2lbb)
+- [Create React App 脚手架配置inspector](https://dev.to/dennischeung/create-react-app-jiao-shou-jia-pei-zhi-inspector-113f)
 <!-- BLOG-POST-LIST:END -->
 
