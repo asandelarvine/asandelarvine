@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SURPRISE 2024!, Web-Forms Back to ASP.NET Core](https://dev.to/elanatframework/surprise-2024-web-forms-back-to-aspnet-core-j1h)
-- [Realtime log streaming in Go](https://dev.to/gatij/realtime-log-streaming-in-go-4530)
-- [Issue 54 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-54-of-aws-cloud-security-weekly-24pg)
-- [[Rust]get file name](https://dev.to/nk_maker/rustget-file-name-3pka)
+- [An Opinionated Ramp Up Guide to AWS Pentesting](https://dev.to/lmoratti/an-opinionated-ramp-up-guide-to-aws-pentesting-1bc5)
+- [First Contributions: learn how to contribute to open source projects](https://dev.to/silverus/first-contributions-learn-how-to-contribute-to-open-source-projects-1o6k)
+- [Complexity Uncomplicated: Your Guide to Big O and Algorithm Analysis](https://dev.to/jihoonj/complexity-uncomplicated-your-guide-to-big-o-and-algorithm-analysis-6ij)
+- [Concurrency in Modern JavaScript](https://dev.to/kartikmehta8/concurrency-in-modern-javascript-2o37)
 <!-- BLOG-POST-LIST:END -->
 
