@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #148: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-148-explica-este-codigo-python-4anp)
-- [Choosing the Right Color Scheme for Your Website: A Guide](https://dev.to/mariajack/choosing-the-right-color-scheme-for-your-website-a-guide-eoh)
-- [TubeBuddy Review: Your Ultimate YouTube Cheat Code 🚀](https://dev.to/nicolerivers358/tubebuddy-review-your-ultimate-youtube-cheat-code-2fd7)
-- [Git | Tips and Tricks](https://dev.to/hbolajraf/git-tips-and-tricks-5326)
+- [Legacy WordPress web development workflow](https://dev.to/ingosteinke/legacy-wordpress-web-development-workflow-2lic)
+- [How to Master User Interviews? Essential Tips for Effective Research](https://dev.to/wednesdaysol/how-to-master-user-interviews-essential-tips-for-effective-research-52ja)
+- [AI : Conquering Cancer](https://dev.to/stephmarira/ai-conquering-cancer-55bi)
+- [How Random Numbers are Generated](https://dev.to/sh20raj/how-random-numbers-are-generated-40e0)
 <!-- BLOG-POST-LIST:END -->
 
