@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Security: The Ultimate Guide to Password Managers](https://dev.to/verifyvault/unlocking-security-the-ultimate-guide-to-password-managers-2bo9)
-- [FAQ page in HTML only](https://dev.to/taylor_william_82482c9a4c/faq-page-in-html-only-2h5h)
-- [Announcing “Permit Share-If&quot; Embeddable Access Sharing Components](https://dev.to/permit_io/announcing-permit-share-if-embeddable-access-sharing-components-4pgo)
-- [LEGACY APP MIGRATION TO AZURE](https://dev.to/danclem/legacy-app-migration-to-azure-187n)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pol)
+- [One possible evolution of software development industry thanks to LLM](https://dev.to/matks/one-possible-evolution-of-software-development-industry-thanks-to-llm-1hc7)
+- [Configuring the Kubernetes Horizontal Pod Autoscaler to scale based on custom metrics from Prometheus](https://dev.to/tsudhishnair/configuring-the-kubernetes-horizontal-pod-autoscaler-to-scale-based-on-custom-metrics-from-prometheus-1fle)
+- [Python: From Beginners to Pro Part 4](https://dev.to/scofieldidehen/python-from-beginners-to-pro-part-4-25gp)
 <!-- BLOG-POST-LIST:END -->
 
