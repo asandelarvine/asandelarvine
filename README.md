@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GBase 8c Streaming Replication Parameter Configuration](https://dev.to/congcong/gbase-8c-streaming-replication-parameter-configuration-1pap)
-- [gs-fastcopy: get CPU count for upload workers](https://dev.to/dchaley/gs-fastcopy-get-cpu-count-for-upload-workers-3ke7)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;15/07/2024-21/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-15072024-21072024-4lfa)
-- [MID INTERNSHIP TASK: Building devopsfetch for Server Information Retrieval and Monitoring.](https://dev.to/efosa-dev/mid-internship-task-building-devopsfetch-for-server-information-retrieval-and-monitoring-2bj2)
+- [What are Some Biggest Myths and Misconceptions about MongoDB?](https://dev.to/codegirl0101/what-are-some-biggest-myths-and-misconceptions-about-mongodb-1b3j)
+- [Detailed Explanation of GBase 8s Database Page Structure &lpar;1&rpar;](https://dev.to/congcong/detailed-explanation-of-gbase-8s-database-page-structure-1-3akh)
+- [Mastering React Router DOM: Your Guide to Building Slick Single-Page Apps](https://dev.to/vyan/mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o)
+- [How Zustand Was Born](https://dev.to/dai_shi/how-zustand-was-born-48h3)
 <!-- BLOG-POST-LIST:END -->
 
