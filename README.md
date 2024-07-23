@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bokeh Background](https://dev.to/matte800/bokeh-background-4obd)
-- [Top Python Libraries Every Developer Should Know](https://dev.to/myexamcloud/top-python-libraries-every-developer-should-know-5g3e)
-- [Building an Equal weight portfolio allocation strategy with Python](https://dev.to/pluri45/building-an-equal-weight-portfolio-allocation-strategy-with-python-9do)
-- [Aprendendo AWS](https://dev.to/cslemes/aprendendo-aws-1pmb)
+- [JSON to TypeScript in less than 1 second!](https://dev.to/remojansen/json-to-typescript-in-less-than-1-second-18jn)
+- [Audio issue in react native release apk file](https://dev.to/sandipan_ghorai_84e1397ab/audio-issue-in-react-native-release-apk-file-32db)
+- [I just hit 2 Years on DEV](https://dev.to/sarahokolo/i-just-hit-2-years-on-dev-27hb)
+- [Introduction to Project Loom](https://dev.to/adaumircosta/introduction-to-project-loom-2m98)
 <!-- BLOG-POST-LIST:END -->
 
