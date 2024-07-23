@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Opinionated Ramp Up Guide to AWS Pentesting](https://dev.to/lmoratti/an-opinionated-ramp-up-guide-to-aws-pentesting-1bc5)
-- [First Contributions: learn how to contribute to open source projects](https://dev.to/silverus/first-contributions-learn-how-to-contribute-to-open-source-projects-1o6k)
-- [Complexity Uncomplicated: Your Guide to Big O and Algorithm Analysis](https://dev.to/jihoonj/complexity-uncomplicated-your-guide-to-big-o-and-algorithm-analysis-6ij)
-- [Concurrency in Modern JavaScript](https://dev.to/kartikmehta8/concurrency-in-modern-javascript-2o37)
+- [How to migrate your Google Forms to Odoo surveys](https://dev.to/m1k3lm/how-to-migrate-your-google-forms-to-odoo-surveys-m56)
+- [How to Create Wealth and Passive Income - How to Create Wealth and Passive Income](https://dev.to/juanemilio31323/how-to-create-wealth-and-passive-income-how-to-create-wealth-and-passive-income-2e4k)
+- [Day 994 : Tomorrow](https://dev.to/dwane/day-994-tomorrow-3l1c)
+- [I Scoured Udemy For The Best Developer Courses: Here Are The 3 Teachers That Are Worth Your Time](https://dev.to/jeffbuildstech/i-scoured-udemy-for-the-best-developer-courses-here-are-the-3-teachers-that-are-worth-your-time-5hb2)
 <!-- BLOG-POST-LIST:END -->
 
