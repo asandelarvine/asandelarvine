@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 things that 🚨Rubocop🚨 don’t want you to use](https://dev.to/pimp_my_ruby/9-things-that-rubocop-dont-want-you-to-use-pb1)
-- [Understanding Contract Testing: Ensuring Reliability in Microservices](https://dev.to/keploy/understanding-contract-testing-ensuring-reliability-in-microservices-46pp)
-- [100 Days of Code Week 4](https://dev.to/jacobsternx/100-days-of-code-week-3-2haa)
-- [How to Embed Live Dashboards in Notion Using Flowtrail AI](https://dev.to/flowtrail-ai/how-to-embed-live-dashboards-in-notion-using-flowtrail-ai-2gf3)
+- [What Is Intelligent Document Processing &amp; How Does It Work](https://dev.to/derek-compdf/what-is-intelligent-document-processing-how-does-it-work-j1m)
+- [Building a URL Shortener App with Node.js and MongoDB](https://dev.to/manthanank/building-a-url-shortener-app-with-nodejs-and-mongodb-bhh)
+- [Implementing the Cached Repository Pattern in C#](https://dev.to/ben-witt/cached-repository-in-c-432c)
+- [Understanding Request Waterfalls: A Key to Optimizing Web Performance](https://dev.to/h_n_agnihotri/understanding-request-waterfalls-a-key-to-optimizing-web-performance-46i1)
 <!-- BLOG-POST-LIST:END -->
 
