@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pol)
-- [One possible evolution of software development industry thanks to LLM](https://dev.to/matks/one-possible-evolution-of-software-development-industry-thanks-to-llm-1hc7)
-- [Configuring the Kubernetes Horizontal Pod Autoscaler to scale based on custom metrics from Prometheus](https://dev.to/tsudhishnair/configuring-the-kubernetes-horizontal-pod-autoscaler-to-scale-based-on-custom-metrics-from-prometheus-1fle)
-- [Python: From Beginners to Pro Part 4](https://dev.to/scofieldidehen/python-from-beginners-to-pro-part-4-25gp)
+- [Build that confidence step by step](https://dev.to/myrojyn/build-that-confidence-step-by-step-2glm)
+- [Exception Handling In Java](https://dev.to/akamzchidi/exception-handling-in-java-f32)
+- [Understanding CORS: A Crucial Security Feature for Your React Applications](https://dev.to/nagakumar_reddy_316f25396/understanding-cors-a-crucial-security-feature-for-your-react-applications-1fpk)
+- [A Modern Approach to Routing in React Applications](https://dev.to/patrick_chibueze_e2567f25/a-modern-approach-to-routing-in-react-applications-ih3)
 <!-- BLOG-POST-LIST:END -->
 
