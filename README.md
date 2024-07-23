@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifetimes in Rust explained](https://dev.to/francescoxx/lifetimes-in-rust-explained-4og8)
-- [Harnessing the Power of Helm for Kubernetes: Day 14 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/harnessing-the-power-of-helm-for-kubernetes-day-14-of-50-days-devops-tools-series-1263)
-- [Jarvis Coding In Python: Create with Jarvis: Python Programming Assistant!](https://dev.to/gbessoni/jarvis-coding-in-python-create-with-jarvis-python-programming-assistant-1he7)
-- [The Flat Squirrel Barrier to Content at Scale](https://dev.to/daedtech/the-flat-squirrel-barrier-to-content-at-scale-1eon)
+- [Zoneless change detection in Angular 18](https://dev.to/logrocket/zoneless-change-detection-in-angular-18-327)
+- [Filter Azure costs by Tags](https://dev.to/techielass/filter-azure-costs-by-tags-3o7o)
+- [I conducted a community survey and here’s what I learned](https://dev.to/whitep4nth3r/i-conducted-a-community-survey-and-heres-what-i-learned-2mgk)
+- [Gateways de Pagamento no Node.js - PIX e Cartão de crédito de forma genérica &lpar;Woovi, Stripe e Pagar.me&rpar;](https://dev.to/devdoido/gateways-de-pagamento-no-nodejs-de-forma-generica-woovi-stripe-e-pagarme-12k8)
 <!-- BLOG-POST-LIST:END -->
 
