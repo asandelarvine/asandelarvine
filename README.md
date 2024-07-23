@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 UI Components Library for Ruby on Rails &lpar;in 2024&rpar;](https://dev.to/railsdesigner/5-ui-components-library-for-ruby-on-rails-in-2024-2cbg)
-- [target=”blank”](https://dev.to/bridget_amana/targetblank-20en)
-- [Q&amp;A: failure, inspiration, portfolios](https://dev.to/star-codex/qa-failure-inspiration-portfolios-27gl)
-- [Deep Dive into PandApache3: Implementation of Authentication and Security](https://dev.to/pykpyky/deep-dive-into-pandapache3-implementation-of-authentication-and-security-2da9)
+- [Ibuprofeno.py💊| #148: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-148-explica-este-codigo-python-4anp)
+- [Choosing the Right Color Scheme for Your Website: A Guide](https://dev.to/mariajack/choosing-the-right-color-scheme-for-your-website-a-guide-eoh)
+- [TubeBuddy Review: Your Ultimate YouTube Cheat Code 🚀](https://dev.to/nicolerivers358/tubebuddy-review-your-ultimate-youtube-cheat-code-2fd7)
+- [Git | Tips and Tricks](https://dev.to/hbolajraf/git-tips-and-tricks-5326)
 <!-- BLOG-POST-LIST:END -->
 
