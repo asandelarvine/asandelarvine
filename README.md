@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON to TypeScript in less than 1 second!](https://dev.to/remojansen/json-to-typescript-in-less-than-1-second-18jn)
-- [Audio issue in react native release apk file](https://dev.to/sandipan_ghorai_84e1397ab/audio-issue-in-react-native-release-apk-file-32db)
-- [I just hit 2 Years on DEV](https://dev.to/sarahokolo/i-just-hit-2-years-on-dev-27hb)
-- [Introduction to Project Loom](https://dev.to/adaumircosta/introduction-to-project-loom-2m98)
+- [Desenvolvimento Orientado a SOLID](https://dev.to/womakerscode/desenvolvimento-orientado-a-solid-al7)
+- [Case Study: Loosely Coupled Architecture](https://dev.to/dishitdevasia/case-study-loosely-coupled-architecture-1j58)
+- [Making a Roguelike while chillin out part I](https://dev.to/pablosoifer1/making-a-roguelike-while-chillin-out-part-i-3cho)
+- [How to Monitor App Router Next.js Applications with New Relic](https://dev.to/set808/how-to-monitor-app-router-nextjs-applications-with-new-relic-ghp)
 <!-- BLOG-POST-LIST:END -->
 
