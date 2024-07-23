@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to migrate your Google Forms to Odoo surveys](https://dev.to/m1k3lm/how-to-migrate-your-google-forms-to-odoo-surveys-m56)
-- [How to Create Wealth and Passive Income - How to Create Wealth and Passive Income](https://dev.to/juanemilio31323/how-to-create-wealth-and-passive-income-how-to-create-wealth-and-passive-income-2e4k)
-- [Day 994 : Tomorrow](https://dev.to/dwane/day-994-tomorrow-3l1c)
-- [I Scoured Udemy For The Best Developer Courses: Here Are The 3 Teachers That Are Worth Your Time](https://dev.to/jeffbuildstech/i-scoured-udemy-for-the-best-developer-courses-here-are-the-3-teachers-that-are-worth-your-time-5hb2)
+- [GBase 8c Streaming Replication Parameter Configuration](https://dev.to/congcong/gbase-8c-streaming-replication-parameter-configuration-1pap)
+- [gs-fastcopy: get CPU count for upload workers](https://dev.to/dchaley/gs-fastcopy-get-cpu-count-for-upload-workers-3ke7)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;15/07/2024-21/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-15072024-21072024-4lfa)
+- [MID INTERNSHIP TASK: Building devopsfetch for Server Information Retrieval and Monitoring.](https://dev.to/efosa-dev/mid-internship-task-building-devopsfetch-for-server-information-retrieval-and-monitoring-2bj2)
 <!-- BLOG-POST-LIST:END -->
 
