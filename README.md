@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git autocorrect needs more marketing](https://dev.to/cloudx/git-autocorrect-needs-more-marketing-20gg)
-- [NeoVim Recipes: An Adventure in a Plugin-less Configuration](https://dev.to/jrop/configuring-neovim-an-adventure-in-a-plugin-less-configuration-2kna)
-- [Mastering Client-Side Routing with React Router DOM 6.25.1](https://dev.to/nagakumar_reddy_316f25396/mastering-client-side-routing-with-react-router-dom-6251-5a7d)
-- [Understanding Credit Card Decline Codes: A Developer&#39;s Guide to Error Handling with Rapyd](https://dev.to/rapyd/understanding-credit-card-decline-codes-a-developers-guide-to-error-handling-with-rapyd-22n2)
+- [Bokeh Background](https://dev.to/matte800/bokeh-background-4obd)
+- [Top Python Libraries Every Developer Should Know](https://dev.to/myexamcloud/top-python-libraries-every-developer-should-know-5g3e)
+- [Building an Equal weight portfolio allocation strategy with Python](https://dev.to/pluri45/building-an-equal-weight-portfolio-allocation-strategy-with-python-9do)
+- [Aprendendo AWS](https://dev.to/cslemes/aprendendo-aws-1pmb)
 <!-- BLOG-POST-LIST:END -->
 
