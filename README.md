@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoneless change detection in Angular 18](https://dev.to/logrocket/zoneless-change-detection-in-angular-18-327)
-- [Filter Azure costs by Tags](https://dev.to/techielass/filter-azure-costs-by-tags-3o7o)
-- [I conducted a community survey and here’s what I learned](https://dev.to/whitep4nth3r/i-conducted-a-community-survey-and-heres-what-i-learned-2mgk)
-- [Gateways de Pagamento no Node.js - PIX e Cartão de crédito de forma genérica &lpar;Woovi, Stripe e Pagar.me&rpar;](https://dev.to/devdoido/gateways-de-pagamento-no-nodejs-de-forma-generica-woovi-stripe-e-pagarme-12k8)
+- [Model Providers: Open Source vs. Closed-Source](https://dev.to/zilliz/model-providers-open-source-vs-closed-source-jab)
+- [C# String Interning: A Deep Dive](https://dev.to/waelhabbal/c-string-interning-a-deep-dive-1fgh)
+- [Tools for reviewers](https://dev.to/opencode/tools-for-reviewers-hle)
+- [Understanding Deployments and Replica Sets in Kubernetes](https://dev.to/jensen1806/understanding-deployments-and-replica-sets-in-kubernetes-54gl)
 <!-- BLOG-POST-LIST:END -->
 
