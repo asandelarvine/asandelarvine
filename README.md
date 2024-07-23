@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My fav landing page template 😍 | Easy UI Diaries | Free Templates Part-8](https://dev.to/darkinventor/my-fav-landing-page-template-easy-ui-diaries-free-templates-part-8-5bkm)
-- [Perfect Portfolio Website for you | Easy UI Diaries | Free Templates Part-7](https://dev.to/darkinventor/perfect-portfolio-website-for-you-easy-ui-diaries-free-templates-part-6-1o4i)
-- [3 cool open-source UI Frontend Components Libraries](https://dev.to/shreyvijayvargiya/3-cool-open-source-ui-frontend-components-libraries-eh8)
-- [Simplest implementation of Fumadocs | Easy UI Diaries | Free Templates Part-5](https://dev.to/darkinventor/simplest-implementation-of-fumadocs-easy-ui-diaries-free-templates-part-5-22jh)
+- [9 things that 🚨Rubocop🚨 don’t want you to use](https://dev.to/pimp_my_ruby/9-things-that-rubocop-dont-want-you-to-use-pb1)
+- [Understanding Contract Testing: Ensuring Reliability in Microservices](https://dev.to/keploy/understanding-contract-testing-ensuring-reliability-in-microservices-46pp)
+- [100 Days of Code Week 4](https://dev.to/jacobsternx/100-days-of-code-week-3-2haa)
+- [How to Embed Live Dashboards in Notion Using Flowtrail AI](https://dev.to/flowtrail-ai/how-to-embed-live-dashboards-in-notion-using-flowtrail-ai-2gf3)
 <!-- BLOG-POST-LIST:END -->
 
