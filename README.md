@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build that confidence step by step](https://dev.to/myrojyn/build-that-confidence-step-by-step-2glm)
-- [Exception Handling In Java](https://dev.to/akamzchidi/exception-handling-in-java-f32)
-- [Understanding CORS: A Crucial Security Feature for Your React Applications](https://dev.to/nagakumar_reddy_316f25396/understanding-cors-a-crucial-security-feature-for-your-react-applications-1fpk)
-- [A Modern Approach to Routing in React Applications](https://dev.to/patrick_chibueze_e2567f25/a-modern-approach-to-routing-in-react-applications-ih3)
+- [Git autocorrect needs more marketing](https://dev.to/cloudx/git-autocorrect-needs-more-marketing-20gg)
+- [NeoVim Recipes: An Adventure in a Plugin-less Configuration](https://dev.to/jrop/configuring-neovim-an-adventure-in-a-plugin-less-configuration-2kna)
+- [Mastering Client-Side Routing with React Router DOM 6.25.1](https://dev.to/nagakumar_reddy_316f25396/mastering-client-side-routing-with-react-router-dom-6251-5a7d)
+- [Understanding Credit Card Decline Codes: A Developer&#39;s Guide to Error Handling with Rapyd](https://dev.to/rapyd/understanding-credit-card-decline-codes-a-developers-guide-to-error-handling-with-rapyd-22n2)
 <!-- BLOG-POST-LIST:END -->
 
