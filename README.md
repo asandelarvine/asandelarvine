@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento Orientado a SOLID](https://dev.to/womakerscode/desenvolvimento-orientado-a-solid-al7)
-- [Case Study: Loosely Coupled Architecture](https://dev.to/dishitdevasia/case-study-loosely-coupled-architecture-1j58)
-- [Making a Roguelike while chillin out part I](https://dev.to/pablosoifer1/making-a-roguelike-while-chillin-out-part-i-3cho)
-- [How to Monitor App Router Next.js Applications with New Relic](https://dev.to/set808/how-to-monitor-app-router-nextjs-applications-with-new-relic-ghp)
+- [Persistent and Immutable Java LinkedList](https://dev.to/billsoumakis/persistent-and-immutable-java-linkedlist-5a5d)
+- [Задача с собеседования в Microsoft: Наибольшая подстрока без повторяющихся символов.](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-microsoft-naibolshaia-podstroka-biez-povtoriaiushchikhsia-simvolov-8hm)
+- [Understanding Eloquent Relationships in Laravel](https://dev.to/msnmongare/-understanding-eloquent-relationships-in-laravel-9ob)
+- [Build your own SQLite, Part 1: Listing tables](https://dev.to/geoffreycopin/build-your-own-sqlite-part-1-listing-tables-1b28)
 <!-- BLOG-POST-LIST:END -->
 
