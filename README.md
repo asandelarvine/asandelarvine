@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Providers: Open Source vs. Closed-Source](https://dev.to/zilliz/model-providers-open-source-vs-closed-source-jab)
-- [C# String Interning: A Deep Dive](https://dev.to/waelhabbal/c-string-interning-a-deep-dive-1fgh)
-- [Tools for reviewers](https://dev.to/opencode/tools-for-reviewers-hle)
-- [Understanding Deployments and Replica Sets in Kubernetes](https://dev.to/jensen1806/understanding-deployments-and-replica-sets-in-kubernetes-54gl)
+- [Unlocking Security: The Ultimate Guide to Password Managers](https://dev.to/verifyvault/unlocking-security-the-ultimate-guide-to-password-managers-2bo9)
+- [FAQ page in HTML only](https://dev.to/taylor_william_82482c9a4c/faq-page-in-html-only-2h5h)
+- [Announcing “Permit Share-If&quot; Embeddable Access Sharing Components](https://dev.to/permit_io/announcing-permit-share-if-embeddable-access-sharing-components-4pgo)
+- [LEGACY APP MIGRATION TO AZURE](https://dev.to/danclem/legacy-app-migration-to-azure-187n)
 <!-- BLOG-POST-LIST:END -->
 
