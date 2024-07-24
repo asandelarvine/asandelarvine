@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zenoti SDE-1 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/zenoti-sde-1-interview-experience-2024-4mf5)
-- [Morning Star SDE-1 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/morning-star-sde-1-interview-experience-6ja)
-- [Moengage SDE-2 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/moengage-sde-2-interview-experience-11g4)
-- [Egen AI SDE-1 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/egen-ai-sde-1-interview-experience-4gg)
+- [Deploy docker containers in VPS with GitHub Actions](https://dev.to/ikurotime/deploy-docker-containers-in-vps-with-github-actions-2e28)
+- [1380. Lucky Numbers in a Matrix](https://dev.to/mdarifulhaque/1380-lucky-numbers-in-a-matrix-2l11)
+- [Kubernetes security in practice: implications of running containers as root](https://dev.to/wasiucionekm/kubernetes-security-in-practice-implications-of-running-containers-as-root-474n)
+- [Implementing Drag and Drop to Arrange/Sort Items with React, Tailwind CSS, and Dnd-kit](https://dev.to/devwithshreyash/implementing-drag-and-drop-to-arrangesort-items-with-react-tailwind-css-and-dnd-kit-2b2f)
 <!-- BLOG-POST-LIST:END -->
 
