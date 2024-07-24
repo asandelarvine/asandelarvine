@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Persistent and Immutable Java LinkedList](https://dev.to/billsoumakis/persistent-and-immutable-java-linkedlist-5a5d)
-- [Задача с собеседования в Microsoft: Наибольшая подстрока без повторяющихся символов.](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-microsoft-naibolshaia-podstroka-biez-povtoriaiushchikhsia-simvolov-8hm)
-- [Understanding Eloquent Relationships in Laravel](https://dev.to/msnmongare/-understanding-eloquent-relationships-in-laravel-9ob)
-- [Build your own SQLite, Part 1: Listing tables](https://dev.to/geoffreycopin/build-your-own-sqlite-part-1-listing-tables-1b28)
+- [Exploring C++ STL Containers](https://dev.to/kartikmehta8/exploring-c-stl-containers-1d06)
+- [Python database for a public blockchain](https://dev.to/keven_boudreau_78f969fbd6/python-database-for-a-public-blockchain-gp9)
+- [Perceptron | Função de ativação](https://dev.to/heloisa_ribes/perceptron-funcao-de-ativacao-39ak)
+- [My Favorite Interview Questions for QA Engineers](https://dev.to/samelawrence/my-favorite-interview-questions-for-qa-engineers-485a)
 <!-- BLOG-POST-LIST:END -->
 
