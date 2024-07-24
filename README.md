@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Accurately Track Your Website&#39;s SEO Performance Over Time](https://dev.to/juddiy/how-to-accurately-track-your-websites-seo-performance-over-time-5aj0)
-- [Introduction to Web Application Firewalls &lpar;WAF&rpar;](https://dev.to/jaryn_123/introduction-to-web-application-firewalls-waf-l0k)
-- [How to use razorpay api and integrate payment gateway](https://dev.to/ankitmalikg/how-to-use-razorpay-api-and-integrate-payment-gateway-keg)
-- [My Journey Creating My First npm Library](https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj)
+- [Demystifying React&#39;s Inner Workings: A Visual Journey Through React&#39;s Lifecycle with TypeScript &lpar;2024 Edition&rpar;](https://dev.to/vyan/demystifying-reacts-inner-workings-a-visual-journey-through-reacts-lifecycle-with-typescript-2024-edition-5ml)
+- [#32 — Find The First Cell Value Meeting The Specified Condition](https://dev.to/judith677/32-find-the-first-cell-value-meeting-the-specified-condition-3mo3)
+- [Welcome Thread - v286](https://dev.to/devteam/welcome-thread-v286-3kl3)
+- [🚫 Stop the Madness!! Use Cancellation Tokens Effectively in .NET Core🚫](https://dev.to/ahmedshahjr/stop-the-madness-use-cancellation-tokens-effectively-in-net-core-2mln)
 <!-- BLOG-POST-LIST:END -->
 
