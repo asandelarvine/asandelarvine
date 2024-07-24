@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The One Thing Nobody Seems To Be Talking About](https://dev.to/thekarlesi/the-one-thing-nobody-seems-to-be-talking-about-5d2e)
-- [What is content architecture and why you should care](https://dev.to/momciloo/what-is-content-architecture-and-why-you-should-care-ai8)
-- [Turn Browser Bookmarks into a Navigation Website—Pintree](https://dev.to/pintree/turn-browser-bookmarks-into-a-navigation-website-pintree-5841)
-- [How Much GATE Score is Required For MTech?](https://dev.to/nazneenahmd/how-much-gate-score-is-required-for-mtech-48dl)
+- [How To Build Centralized Authorization System](https://dev.to/permify/how-to-build-centralized-authorization-system-5e7p)
+- [AI Research Agent with memory using GPT-4o-mini: Step-by-Step Guide.](https://dev.to/spiff/ai-research-agent-with-memory-using-gpt-4o-mini-step-by-step-guide-3142)
+- [Python - Indexing and Slicing](https://dev.to/abys_learning_2024/python-indexing-and-slicing-2moh)
+- [THE POWER OF LDAP INTEGRATION](https://dev.to/sophiasemga/ldap-integration-59fp)
 <!-- BLOG-POST-LIST:END -->
 
