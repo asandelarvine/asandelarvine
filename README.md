@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizing Web Workers for Background Processing in React Hooks Applications.](https://dev.to/alekiie/utilizing-web-workers-for-background-processing-in-react-hooks-applications-127d)
-- [Supabase RLS Alternative](https://dev.to/zenstack/supabase-rls-alternative-n3p)
-- [Building Bridges: The Crucial Role of Communication in Team Success](https://dev.to/productivity/building-bridges-the-crucial-role-of-communication-in-team-success-24df)
-- [Cybersecurity Threats: Protecting Data in a Digital Age in 2024](https://dev.to/webzester/cybersecurity-threats-protecting-data-in-a-digital-age-in-2024-2mo2)
+- [Deep dive into Mentat coding assistant](https://dev.to/ykgoon/deep-dive-into-mentat-coding-assistant-12no)
+- [Angular SSR: Your server-side rendering implementation guide](https://dev.to/pzurawski/angular-ssr-your-server-side-rendering-implementation-guide-50j9)
+- [Junior Developers and AI Tools: Beneficial or Detrimental?](https://dev.to/andersonceci/junior-developers-and-ai-tools-beneficial-or-detrimental-1j6f)
+- [Agile Methodology](https://dev.to/sandeepsangu/agile-methodology-1l4o)
 <!-- BLOG-POST-LIST:END -->
 
