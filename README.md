@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first single file webpage I have no idea if this is right so pls give me some feedback](https://dev.to/barirah/my-first-single-file-webpage-i-have-no-idea-if-this-is-right-so-pls-give-me-some-feedback-1l5j)
-- [Adding A Confirmation Interstitial On Create in REST](https://dev.to/mdchaney/adding-a-confirmation-interstitial-on-create-in-rest-4an0)
-- [Protecting Your JavaScript Applications from DOM-based XSS Attacks](https://dev.to/rigalpatel001/protecting-your-javascript-applications-from-dom-based-xss-attacks-j0c)
-- [Dive into the World of Algorithms and Data Structures with C! 🚀](https://dev.to/getvm/dive-into-the-world-of-algorithms-and-data-structures-with-c-ice)
+- [Why Move to Cloud?](https://dev.to/astutemarketing/why-move-to-cloud-24ga)
+- [AI for Good: Harnessing Technology for Positive Change](https://dev.to/abdulsalamamtech/ai-for-good-harnessing-technology-for-positive-change-fp7)
+- [Dockerfile Best Practices Explained - Interlude Post 2](https://dev.to/kalkwst/dockerfile-best-practices-explained-interlude-post-2-3elj)
+- [Fighting The Bad Guys in a Fun Way](https://dev.to/dieg0la/fighting-the-bad-guys-in-a-fun-way-22bi)
 <!-- BLOG-POST-LIST:END -->
 
