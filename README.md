@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Accurately Track Your Website&#39;s SEO Performance Over Time](https://dev.to/juddiy/how-to-accurately-track-your-websites-seo-performance-over-time-5aj0)
+- [Introduction to Web Application Firewalls &lpar;WAF&rpar;](https://dev.to/jaryn_123/introduction-to-web-application-firewalls-waf-l0k)
+- [How to use razorpay api and integrate payment gateway](https://dev.to/ankitmalikg/how-to-use-razorpay-api-and-integrate-payment-gateway-keg)
 - [My Journey Creating My First npm Library](https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj)
-- [Sending a push Notification from Firebase](https://dev.to/nagabhushan_adiga_a383471/sending-a-push-notification-from-firebase-hcg)
-- [Integrate AMAP into Alibaba Cloud Kibana: A Complete Guide](https://dev.to/a_lucas/integrate-amap-into-alibaba-cloud-kibana-a-complete-guide-3ej)
-- [The Differences Between &#39;Object&#39;, &#39;{}&#39;, and &#39;object&#39; in TypeScript](https://dev.to/zacharylee/the-differences-between-object-and-object-in-typescript-f6f)
 <!-- BLOG-POST-LIST:END -->
 
