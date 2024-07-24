@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing ServBay 1.3.9: More Features, Smoother Experience! 🚀](https://dev.to/servbay/announcing-servbay-139-more-features-smoother-experience-4c9d)
-- [Product Software vs. Project Software: Understanding the Differences &amp; STLC](https://dev.to/michael_chepala_7267688a0/product-software-vs-project-software-understanding-the-differences-stlc-2n)
-- [Enhancing Kubernetes Security with Trivy : Day 15 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/enhancing-kubernetes-security-with-trivy-day-15-of-50-days-devops-tools-series-1f43)
-- [Why Data Replication is Important](https://dev.to/mydbsync/why-data-replication-is-important-1pn1)
+- [Zenoti SDE-1 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/zenoti-sde-1-interview-experience-2024-4mf5)
+- [Morning Star SDE-1 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/morning-star-sde-1-interview-experience-6ja)
+- [Moengage SDE-2 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/moengage-sde-2-interview-experience-11g4)
+- [Egen AI SDE-1 Interview Experience &lpar;2024&rpar;](https://dev.to/ssh3/egen-ai-sde-1-interview-experience-4gg)
 <!-- BLOG-POST-LIST:END -->
 
