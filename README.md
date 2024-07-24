@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Move to Cloud?](https://dev.to/astutemarketing/why-move-to-cloud-24ga)
-- [AI for Good: Harnessing Technology for Positive Change](https://dev.to/abdulsalamamtech/ai-for-good-harnessing-technology-for-positive-change-fp7)
-- [Dockerfile Best Practices Explained - Interlude Post 2](https://dev.to/kalkwst/dockerfile-best-practices-explained-interlude-post-2-3elj)
-- [Fighting The Bad Guys in a Fun Way](https://dev.to/dieg0la/fighting-the-bad-guys-in-a-fun-way-22bi)
+- [How to Build a Request Access Approval System using Next.js](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p)
+- [Day 22 of 100 Days of Code](https://dev.to/jacobsternx/day-22-of-100-days-of-code-38pl)
+- [Aspire Three Ways to Implement Service Discovery for Non-.NET APIs micro-services](https://dev.to/rockfire/aspire-three-ways-of-registry-service-discovery-for-non-net-microservices-234)
+- [The Ultimate Golang Framework for Microservices: GoFr](https://dev.to/aryanmehrotra/the-ultimate-golang-framework-for-microservices-gofr-ok)
 <!-- BLOG-POST-LIST:END -->
 
