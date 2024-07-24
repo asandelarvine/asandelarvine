@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate LLM Leaderboard: Ranking the Best Language Models](https://dev.to/latitude/the-ultimate-llm-leaderboard-ranking-the-best-language-models-2a67)
-- [12 Essential JavaScript Websites Every Web Developer Should Be Familiar With](https://dev.to/kafeel_ahmad/12-essential-javascript-websites-every-web-developer-should-be-familiar-with-4f3c)
-- [Crafting a Privacy Policy for your website](https://dev.to/opensourcee/crafting-a-privacy-policy-for-your-website-5fb3)
-- [Creating an Azure IOT Solution](https://dev.to/tracyee_/creating-an-azure-iot-solution-dc2)
+- [Differences Between Fiber Channel and Ethernet Optical Transceiver Modules](https://dev.to/yash_sharma_/differences-between-fiber-channel-and-ethernet-optical-transceiver-modules-28kp)
+- [Cloud Development Assignment 1 on Azure Fundamental](https://dev.to/wedekaov/cloud-development-assignment-1-on-azure-fundamental-583k)
+- [Three reasons to remove old LinkedIn connections](https://dev.to/samelawrence/three-reasons-to-remove-old-linkedin-connections-3jgl)
+- [7 Developer Tools to Prepare Your Stack for the GenAI Era](https://dev.to/gemanor/7-developer-tools-to-prepare-your-stack-for-the-genai-era-2e6m)
 <!-- BLOG-POST-LIST:END -->
 
