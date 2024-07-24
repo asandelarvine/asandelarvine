@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences Between Fiber Channel and Ethernet Optical Transceiver Modules](https://dev.to/yash_sharma_/differences-between-fiber-channel-and-ethernet-optical-transceiver-modules-28kp)
-- [Cloud Development Assignment 1 on Azure Fundamental](https://dev.to/wedekaov/cloud-development-assignment-1-on-azure-fundamental-583k)
-- [Three reasons to remove old LinkedIn connections](https://dev.to/samelawrence/three-reasons-to-remove-old-linkedin-connections-3jgl)
-- [7 Developer Tools to Prepare Your Stack for the GenAI Era](https://dev.to/gemanor/7-developer-tools-to-prepare-your-stack-for-the-genai-era-2e6m)
+- [The One Thing Nobody Seems To Be Talking About](https://dev.to/thekarlesi/the-one-thing-nobody-seems-to-be-talking-about-5d2e)
+- [What is content architecture and why you should care](https://dev.to/momciloo/what-is-content-architecture-and-why-you-should-care-ai8)
+- [Turn Browser Bookmarks into a Navigation Website—Pintree](https://dev.to/pintree/turn-browser-bookmarks-into-a-navigation-website-pintree-5841)
+- [How Much GATE Score is Required For MTech?](https://dev.to/nazneenahmd/how-much-gate-score-is-required-for-mtech-48dl)
 <!-- BLOG-POST-LIST:END -->
 
