@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build Centralized Authorization System](https://dev.to/permify/how-to-build-centralized-authorization-system-5e7p)
-- [AI Research Agent with memory using GPT-4o-mini: Step-by-Step Guide.](https://dev.to/spiff/ai-research-agent-with-memory-using-gpt-4o-mini-step-by-step-guide-3142)
-- [Python - Indexing and Slicing](https://dev.to/abys_learning_2024/python-indexing-and-slicing-2moh)
-- [THE POWER OF LDAP INTEGRATION](https://dev.to/sophiasemga/ldap-integration-59fp)
+- [Guard Your Digital Fortress: Essential Tips for Safeguarding Your Online Identity](https://dev.to/verifyvault/guard-your-digital-fortress-essential-tips-for-safeguarding-your-online-identity-5g98)
+- [1530. Number of Good Leaf Nodes Pairs](https://dev.to/mdarifulhaque/1530-number-of-good-leaf-nodes-pairs-3b3n)
+- [[DAY 87-89] I created a bash script to build a student database](https://dev.to/thomascansino/day-87-89-i-created-a-bash-script-to-build-a-student-database-444p)
+- [WebDev Fundamentals | React, Angular, and Vue](https://dev.to/codingcatdev/webdev-fundamentals-react-angular-and-vue-4346)
 <!-- BLOG-POST-LIST:END -->
 
