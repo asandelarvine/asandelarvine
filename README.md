@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring C++ STL Containers](https://dev.to/kartikmehta8/exploring-c-stl-containers-1d06)
-- [Python database for a public blockchain](https://dev.to/keven_boudreau_78f969fbd6/python-database-for-a-public-blockchain-gp9)
-- [Perceptron | Função de ativação](https://dev.to/heloisa_ribes/perceptron-funcao-de-ativacao-39ak)
-- [My Favorite Interview Questions for QA Engineers](https://dev.to/samelawrence/my-favorite-interview-questions-for-qa-engineers-485a)
+- [My Journey Creating My First npm Library](https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj)
+- [Sending a push Notification from Firebase](https://dev.to/nagabhushan_adiga_a383471/sending-a-push-notification-from-firebase-hcg)
+- [Integrate AMAP into Alibaba Cloud Kibana: A Complete Guide](https://dev.to/a_lucas/integrate-amap-into-alibaba-cloud-kibana-a-complete-guide-3ej)
+- [The Differences Between &#39;Object&#39;, &#39;{}&#39;, and &#39;object&#39; in TypeScript](https://dev.to/zacharylee/the-differences-between-object-and-object-in-typescript-f6f)
 <!-- BLOG-POST-LIST:END -->
 
