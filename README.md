@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 996 : No Flash](https://dev.to/dwane/day-996-no-flash-2k73)
-- [Generating GPG Keys and Signing Commits](https://dev.to/fariasmateuss/generating-gpg-keys-and-signing-commits-j3e)
-- [The Role of Machine Learning in Modern Web Design and SEO](https://dev.to/luke_leech_e6bebf0dcc50d6/the-role-of-machine-learning-in-modern-web-design-and-seo-f64)
-- [Build Your Own Artificial Neuron: A Practical Guide for AI Beginners](https://dev.to/moubarakmohame4/build-your-own-artificial-neuron-a-practical-guide-for-ai-beginners-2lg7)
+- [Core Principles for Designing RESTful APIs](https://dev.to/shieldstring/core-principles-for-designing-restful-apis-1m51)
+- [Day 18: Centralized ELK Stack Setup](https://dev.to/arbythecoder/day-18-centralized-elk-stack-setup-89f)
+- [Demo](https://dev.to/ozcankara/demo-147g)
+- [Building Your First React Native App: A Step-by-Step Guide](https://dev.to/birajgtm/building-your-first-react-native-app-a-step-by-step-guide-1ibe)
 <!-- BLOG-POST-LIST:END -->
 
