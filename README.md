@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up the Environment and Hello world in WASM with Rust 🦀](https://dev.to/prathamjagga/setting-up-the-environment-and-hello-world-in-wasm-with-rust-2iga)
-- [Insights into AI Benchmarking with Release of Llama 3.1](https://dev.to/iwooky/insights-into-ai-benchmarking-with-release-of-llama-31-jl3)
-- [How to Use Star Rating in Tailwind CSS](https://dev.to/saim_ansari/how-to-use-star-rating-in-tailwind-css-25ok)
-- [Okta vs Keycloak: Comparison and easy Okta to Keycloak migration guide](https://dev.to/tkurek/okta-vs-keycloak-comparison-and-easy-okta-to-keycloak-migration-guide-426g)
+- [The Ultimate LLM Leaderboard: Ranking the Best Language Models](https://dev.to/latitude/the-ultimate-llm-leaderboard-ranking-the-best-language-models-2a67)
+- [12 Essential JavaScript Websites Every Web Developer Should Be Familiar With](https://dev.to/kafeel_ahmad/12-essential-javascript-websites-every-web-developer-should-be-familiar-with-4f3c)
+- [Crafting a Privacy Policy for your website](https://dev.to/opensourcee/crafting-a-privacy-policy-for-your-website-5fb3)
+- [Creating an Azure IOT Solution](https://dev.to/tracyee_/creating-an-azure-iot-solution-dc2)
 <!-- BLOG-POST-LIST:END -->
 
