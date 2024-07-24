@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a devopsfetch tool for Server Information Retrieval and Monitoring](https://dev.to/udoh_deborah_b1e484c474bf/building-a-devopsfetch-tool-for-server-information-retrieval-and-monitoring-8ea)
-- [Github API integration project /Automating Github](https://dev.to/kartik_p/github-api-integration-project-automating-github-4ph8)
-- [Stack va Heap: Umumiy Tasavvur](https://dev.to/islomali99/stack-va-heap-umumiy-tasavvur-1nbi)
-- [How to setup IPv6 Only EC2 Instance in AWS](https://dev.to/praveenkumarkece/how-to-setup-ipv6-only-ec2-instance-in-aws-38kp)
+- [AR Game ~ Geospatial API Sample ~](https://dev.to/takeda1411123/ar-game-geospatial-api-sample--2l8g)
+- [7 Unexpected Ways Verifiable Credentials are Used Today](https://dev.to/tbdevs/7-unexpected-ways-verifiable-credentials-are-used-today-438)
+- [Bulma CSS: A Modern CSS Framework for Responsive Design](https://dev.to/arsalanmeee/bulma-css-a-modern-css-framework-for-responsive-design-5gcm)
+- [How to Create a Linux Local Repository](https://dev.to/sammy_cloud/how-to-create-a-linux-local-repository-35c5)
 <!-- BLOG-POST-LIST:END -->
 
