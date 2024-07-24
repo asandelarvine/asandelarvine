@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guard Your Digital Fortress: Essential Tips for Safeguarding Your Online Identity](https://dev.to/verifyvault/guard-your-digital-fortress-essential-tips-for-safeguarding-your-online-identity-5g98)
-- [1530. Number of Good Leaf Nodes Pairs](https://dev.to/mdarifulhaque/1530-number-of-good-leaf-nodes-pairs-3b3n)
-- [[DAY 87-89] I created a bash script to build a student database](https://dev.to/thomascansino/day-87-89-i-created-a-bash-script-to-build-a-student-database-444p)
-- [WebDev Fundamentals | React, Angular, and Vue](https://dev.to/codingcatdev/webdev-fundamentals-react-angular-and-vue-4346)
+- [Announcing ServBay 1.3.9: More Features, Smoother Experience! 🚀](https://dev.to/servbay/announcing-servbay-139-more-features-smoother-experience-4c9d)
+- [Product Software vs. Project Software: Understanding the Differences &amp; STLC](https://dev.to/michael_chepala_7267688a0/product-software-vs-project-software-understanding-the-differences-stlc-2n)
+- [Enhancing Kubernetes Security with Trivy : Day 15 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/enhancing-kubernetes-security-with-trivy-day-15-of-50-days-devops-tools-series-1f43)
+- [Why Data Replication is Important](https://dev.to/mydbsync/why-data-replication-is-important-1pn1)
 <!-- BLOG-POST-LIST:END -->
 
