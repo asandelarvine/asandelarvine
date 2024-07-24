@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AR Game ~ Geospatial API Sample ~](https://dev.to/takeda1411123/ar-game-geospatial-api-sample--2l8g)
-- [7 Unexpected Ways Verifiable Credentials are Used Today](https://dev.to/tbdevs/7-unexpected-ways-verifiable-credentials-are-used-today-438)
-- [Bulma CSS: A Modern CSS Framework for Responsive Design](https://dev.to/arsalanmeee/bulma-css-a-modern-css-framework-for-responsive-design-5gcm)
-- [How to Create a Linux Local Repository](https://dev.to/sammy_cloud/how-to-create-a-linux-local-repository-35c5)
+- [Day 996 : No Flash](https://dev.to/dwane/day-996-no-flash-2k73)
+- [Generating GPG Keys and Signing Commits](https://dev.to/fariasmateuss/generating-gpg-keys-and-signing-commits-j3e)
+- [The Role of Machine Learning in Modern Web Design and SEO](https://dev.to/luke_leech_e6bebf0dcc50d6/the-role-of-machine-learning-in-modern-web-design-and-seo-f64)
+- [Build Your Own Artificial Neuron: A Practical Guide for AI Beginners](https://dev.to/moubarakmohame4/build-your-own-artificial-neuron-a-practical-guide-for-ai-beginners-2lg7)
 <!-- BLOG-POST-LIST:END -->
 
