@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Request Access Approval System using Next.js](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p)
-- [Day 22 of 100 Days of Code](https://dev.to/jacobsternx/day-22-of-100-days-of-code-38pl)
-- [Aspire Three Ways to Implement Service Discovery for Non-.NET APIs micro-services](https://dev.to/rockfire/aspire-three-ways-of-registry-service-discovery-for-non-net-microservices-234)
-- [The Ultimate Golang Framework for Microservices: GoFr](https://dev.to/aryanmehrotra/the-ultimate-golang-framework-for-microservices-gofr-ok)
+- [Rails Designer v1.1 released: FormLabelComponent + MediaList](https://dev.to/railsdesigner/rails-designer-v11-released-formlabelcomponent-medialist-1a83)
+- [Understanding React Hooks: A Beginner&#39;s Guide](https://dev.to/kumarshivam1998/understanding-react-hooks-a-beginners-guide-3ibm)
+- [Im forcing myself to do this](https://dev.to/aiskold/im-forcing-myself-to-do-this-3pdn)
+- [✨Top 3 Video Generation Products This Week in ToolList.ai 🎥](https://dev.to/ayoubbhihi/top-3-video-generation-products-this-week-in-toollistai-2h3b)
 <!-- BLOG-POST-LIST:END -->
 
