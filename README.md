@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep dive into Mentat coding assistant](https://dev.to/ykgoon/deep-dive-into-mentat-coding-assistant-12no)
-- [Angular SSR: Your server-side rendering implementation guide](https://dev.to/pzurawski/angular-ssr-your-server-side-rendering-implementation-guide-50j9)
-- [Junior Developers and AI Tools: Beneficial or Detrimental?](https://dev.to/andersonceci/junior-developers-and-ai-tools-beneficial-or-detrimental-1j6f)
-- [Agile Methodology](https://dev.to/sandeepsangu/agile-methodology-1l4o)
+- [Setting up the Environment and Hello world in WASM with Rust 🦀](https://dev.to/prathamjagga/setting-up-the-environment-and-hello-world-in-wasm-with-rust-2iga)
+- [Insights into AI Benchmarking with Release of Llama 3.1](https://dev.to/iwooky/insights-into-ai-benchmarking-with-release-of-llama-31-jl3)
+- [How to Use Star Rating in Tailwind CSS](https://dev.to/saim_ansari/how-to-use-star-rating-in-tailwind-css-25ok)
+- [Okta vs Keycloak: Comparison and easy Okta to Keycloak migration guide](https://dev.to/tkurek/okta-vs-keycloak-comparison-and-easy-okta-to-keycloak-migration-guide-426g)
 <!-- BLOG-POST-LIST:END -->
 
