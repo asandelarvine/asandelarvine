@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Docker Diff: Usage and benefits](https://dev.to/fernandomullerjr/mastering-docker-diff-usage-and-benefits-19kj)
-- [Automate Upstream Branch Creation in Git](https://dev.to/labex/automate-upstream-branch-creation-in-git-2750)
-- [How to Increase Organic Website Traffic and Get SEO-Friendly Backlinks](https://dev.to/juddiy/how-to-increase-organic-website-traffic-and-get-seo-friendly-backlinks-338e)
-- [167. Two Sum II - Input Array Is Sorted](https://dev.to/whereislijah/167-two-sum-ii-input-array-is-sorted-4llo)
+- [String for CP &lpar;DSA - 2&rpar;](https://dev.to/madgan95/string-for-cp-dsa-2-2477)
+- [PACX ⁓ WebResource Management Commands - Push](https://dev.to/_neronotte/pacx-webresource-management-commands-push-565n)
+- [Modern JavaScript Testing: Tools and Techniques](https://dev.to/aswani25/modern-javascript-testing-tools-and-techniques-2flm)
+- [How to Hire an Android Developer for Your Project in 2024](https://dev.to/anthony_wilson_032f9c6a5f/how-to-hire-an-android-developer-for-your-project-in-2024-4i4i)
 <!-- BLOG-POST-LIST:END -->
 
