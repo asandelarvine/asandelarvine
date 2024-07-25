@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minha conclusão ao conhecer os &quot;Design Patterns&quot; [PT-BR]](https://dev.to/andredarcie/minha-conclusao-ao-conhecer-os-design-patterns-pt-br-37op)
-- [A 5-day journey with Lite-XL](https://dev.to/teminian/a-5-day-journey-with-lite-xl-3ld6)
-- [Item 44: Prefira o uso das interfaces funcionais padrão](https://dev.to/giselecoder/item-44-prefira-o-uso-das-interfaces-funcionais-padrao-2an8)
-- [De Figma para React: Aprimorando o desenvolvimento de UI com Codia AI](https://dev.to/dougsource/de-figma-para-react-aprimorando-o-desenvolvimento-de-ui-com-codia-ai-2oh3)
+- [Practical use of TCO and Pricing Calculator for Cost Management.](https://dev.to/emeka_moses_c752f2bdde061/practical-use-of-tco-and-pricing-calculator-for-cost-management-5a74)
+- [What is Observability and how to unleash the power of data analytics with NRQL](https://dev.to/tobidelly/what-is-observability-and-how-to-unleash-the-power-of-data-analytics-with-nrql-7hd)
+- [Criando UX com texto &lpar;markdown&rpar;](https://dev.to/dougsource/criando-ux-com-texto-markdown-4aae)
+- [Solidity Basics](https://dev.to/busycaesar/solidity-basics-2n6l)
 <!-- BLOG-POST-LIST:END -->
 
