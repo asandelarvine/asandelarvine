@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Node.js Testing with Native Test Runner and Mocks: A BigQuery Example](https://dev.to/chetanppatil/level-up-your-nodejs-testing-with-native-test-runner-and-mocks-a-bigquery-example-n7a)
-- [2418. Sort the People](https://dev.to/mdarifulhaque/2418-sort-the-people-18jl)
-- [Node.js for Server-Side Development](https://dev.to/princewillz/nodejs-for-server-side-development-131c)
-- [Automating GitLab Runner Setup on AWS EC2 Using Terraform](https://dev.to/tungbq/automating-gitlab-runner-setup-on-aws-ec2-using-terraform-bhc)
+- [10 Livros de C++ que vale à pena você ler](https://dev.to/marcosplusplus/10-livros-de-c-que-vale-a-pena-voce-ler-3om0)
+- [JavaScript Best Practices for Beginners](https://dev.to/mediageneous/javascript-best-practices-for-beginners-430d)
+- [Boot.dev vs Codecademy from newbie perspective](https://dev.to/mlem_dev/bootdev-vs-codecademy-from-newbie-perspective-2dml)
+- [Announcing the public beta for dedicated clusters](https://dev.to/xata/announcing-the-public-beta-for-dedicated-clusters-2mj)
 <!-- BLOG-POST-LIST:END -->
 
