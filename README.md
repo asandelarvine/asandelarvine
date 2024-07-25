@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [String for CP &lpar;DSA - 2&rpar;](https://dev.to/madgan95/string-for-cp-dsa-2-2477)
-- [PACX ⁓ WebResource Management Commands - Push](https://dev.to/_neronotte/pacx-webresource-management-commands-push-565n)
-- [Modern JavaScript Testing: Tools and Techniques](https://dev.to/aswani25/modern-javascript-testing-tools-and-techniques-2flm)
-- [How to Hire an Android Developer for Your Project in 2024](https://dev.to/anthony_wilson_032f9c6a5f/how-to-hire-an-android-developer-for-your-project-in-2024-4i4i)
+- [Building Design Systems](https://dev.to/tanoy_basak_e6876746c70b1/building-design-systems-n2i)
+- [5 Alternatives to Docker Desktop](https://dev.to/shohams/5-alternatives-to-docker-desktop-46am)
+- [CSS Magic: Elegant One-Liners](https://dev.to/koolkamalkishor/css-magic-elegant-one-liners-2pm7)
+- [Achieving a Perfect Lighthouse Score: A Comprehensive Guide](https://dev.to/koolkamalkishor/achieving-a-perfect-lighthouse-score-a-comprehensive-guide-1ai8)
 <!-- BLOG-POST-LIST:END -->
 
