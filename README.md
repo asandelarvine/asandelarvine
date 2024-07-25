@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building developer communities](https://dev.to/beapaz/building-developer-communities-3pic)
-- [Intro to Stellar: Get Started in Rust, Set Up Your Development Environment, and Write Your First Smart Contract](https://dev.to/stellar/intro-to-stellar-get-started-in-rust-set-up-your-development-environment-and-write-your-first-smart-contract-2gnp)
-- [Advanced State Management: Comparing Recoil, Zustand, and Jotai](https://dev.to/joshuawasike/advanced-state-management-comparing-recoil-zustand-and-jotai-4i10)
-- [Understanding and Implementing Memoization in React](https://dev.to/dipakahirav/understanding-and-implementing-memoization-in-react-39l4)
+- [On-call Manual: Boost your career by improving your team&#39;s on-call](https://dev.to/moozzyk/on-call-manual-boost-your-career-by-improving-your-teams-on-call-10ge)
+- [What&#39;s new in developer trends in 2024?](https://dev.to/bengreenberg/whats-new-in-developer-trends-in-2024-138b)
+- [Tactics for multi-step LLM app experimentation](https://dev.to/joschkabraun/tactics-for-multi-step-llm-app-experimentation-5flm)
+- [Am I already getting AI fatigue?](https://dev.to/nosqlknowhow/am-i-already-getting-ai-fatigue-64)
 <!-- BLOG-POST-LIST:END -->
 
