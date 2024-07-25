@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Markdown to HTML Converter in Python](https://dev.to/stokry/how-to-create-a-simple-markdown-to-html-converter-in-python-14li)
-- [7 Best JMeter Alternative](https://dev.to/sattyam/7-best-jmeter-alternative-25b4)
-- [The 5 Ways to Ace Most Common Software Engineer Behavioral Interview Questions](https://dev.to/thekarlesi/the-5-ways-to-ace-most-common-software-engineer-behavioral-interview-questions-254c)
-- [Accessibility Considerations with Stacked Cards Custom Layout](https://dev.to/eevajonnapanula/accessibility-considerations-with-stacked-cards-custom-layout-25me)
+- [Handshakes and Interfaces in OOP](https://dev.to/ghulam_mujtaba_247/handshakes-and-interfaces-in-oop-6ia)
+- [What is Nuxt SSR, how does it work, why is it needed, and what is the benefit of SEO?](https://dev.to/javokhirbekkhaydarov/what-is-nuxt-ssr-how-does-it-work-why-is-it-needed-and-what-is-the-benefit-of-seo-59hh)
+- [Golang Concurrency: A Fun and Fast Ride](https://dev.to/ashsajal/golang-concurrency-a-fun-and-fast-ride-1pjj)
+- [Abstract classes in OOP](https://dev.to/ghulam_mujtaba_247/abstract-classes-in-oop-ka4)
 <!-- BLOG-POST-LIST:END -->
 
