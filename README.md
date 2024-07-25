@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Livros de C++ que vale à pena você ler](https://dev.to/marcosplusplus/10-livros-de-c-que-vale-a-pena-voce-ler-3om0)
-- [JavaScript Best Practices for Beginners](https://dev.to/mediageneous/javascript-best-practices-for-beginners-430d)
-- [Boot.dev vs Codecademy from newbie perspective](https://dev.to/mlem_dev/bootdev-vs-codecademy-from-newbie-perspective-2dml)
-- [Announcing the public beta for dedicated clusters](https://dev.to/xata/announcing-the-public-beta-for-dedicated-clusters-2mj)
+- [Dev Challenge v24.07.24 CSS Art - Painter Life](https://dev.to/annavi11arrea1/dev-challenge-v240724-css-art-painter-life-56p7)
+- [300LOC Frogger](https://dev.to/diegocardoso93/300loc-frogger-14ce)
+- [How to Convert GIF to AVIF](https://dev.to/msmith99994/how-to-convert-gif-to-avif-3hbb)
+- [React Native: Website vs mobile apps](https://dev.to/hellonehha/react-native-website-vs-mobile-apps-4227)
 <!-- BLOG-POST-LIST:END -->
 
