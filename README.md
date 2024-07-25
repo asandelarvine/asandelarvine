@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handshakes and Interfaces in OOP](https://dev.to/ghulam_mujtaba_247/handshakes-and-interfaces-in-oop-6ia)
-- [What is Nuxt SSR, how does it work, why is it needed, and what is the benefit of SEO?](https://dev.to/javokhirbekkhaydarov/what-is-nuxt-ssr-how-does-it-work-why-is-it-needed-and-what-is-the-benefit-of-seo-59hh)
-- [Golang Concurrency: A Fun and Fast Ride](https://dev.to/ashsajal/golang-concurrency-a-fun-and-fast-ride-1pjj)
-- [Abstract classes in OOP](https://dev.to/ghulam_mujtaba_247/abstract-classes-in-oop-ka4)
+- [Inline Save and Add Another with Rails and Hotwire](https://dev.to/railsdesigner/inline-save-and-add-another-with-rails-and-hotwire-501m)
+- [Microsserviços, uma abordagem prática - &lpar;Parte - 3&rpar;](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-parte-3-2if0)
+- [Domain Linking in Replit Deployments &lpar;2024+&rpar;](https://dev.to/darktwentyfive/domain-linking-in-replit-deployments-2024-2g6a)
+- [Domain Linking in Replit Deployments &lpar;2024+&rpar;](https://dev.to/darktwentyfive/domain-linking-in-replit-deployments-2024-2na0)
 <!-- BLOG-POST-LIST:END -->
 
