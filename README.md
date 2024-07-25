@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Shift-Left movement affects developers and their databases](https://dev.to/metis/how-the-shift-left-movement-affects-developers-and-their-databases-4iab)
-- [Cookie Banners: A Comprehensive Guide](https://dev.to/compliance/cookie-banners-a-comprehensive-guide-2d9p)
-- [Add placeholder text to div with contenteditable=&quot;true&quot;](https://dev.to/axorax/add-placeholder-text-to-div-with-contenteditabletrue-aa6)
-- [Refunds Demystified Part #1 : Why do refunds take time?](https://dev.to/bharat_parmar_72f30a48fef/refunds-demystified-part-1-why-do-refunds-take-time-3jh4)
+- [Differentiating rate limits in Apache APISIX](https://dev.to/apisix/differentiating-rate-limits-in-apache-apisix-1f96)
+- [React Custom Hooks Best Practices: With Example Usecases](https://dev.to/syakirurahman/react-custom-hooks-best-practices-with-example-usecases-4e2l)
+- [AI Model Training Data Reconstruction via Transfer Learning Explored](https://dev.to/mikeyoung44/ai-model-training-data-reconstruction-via-transfer-learning-explored-463n)
+- [LLMs: Unlocking Autonomic Computing&#39;s Self-Managing Vision?](https://dev.to/mikeyoung44/llms-unlocking-autonomic-computings-self-managing-vision-44h7)
 <!-- BLOG-POST-LIST:END -->
 
