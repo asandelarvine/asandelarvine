@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On-call Manual: Boost your career by improving your team&#39;s on-call](https://dev.to/moozzyk/on-call-manual-boost-your-career-by-improving-your-teams-on-call-10ge)
-- [What&#39;s new in developer trends in 2024?](https://dev.to/bengreenberg/whats-new-in-developer-trends-in-2024-138b)
-- [Tactics for multi-step LLM app experimentation](https://dev.to/joschkabraun/tactics-for-multi-step-llm-app-experimentation-5flm)
-- [Am I already getting AI fatigue?](https://dev.to/nosqlknowhow/am-i-already-getting-ai-fatigue-64)
+- [Level Up Your Node.js Testing with Native Test Runner and Mocks: A BigQuery Example](https://dev.to/chetanppatil/level-up-your-nodejs-testing-with-native-test-runner-and-mocks-a-bigquery-example-n7a)
+- [2418. Sort the People](https://dev.to/mdarifulhaque/2418-sort-the-people-18jl)
+- [Node.js for Server-Side Development](https://dev.to/princewillz/nodejs-for-server-side-development-131c)
+- [Automating GitLab Runner Setup on AWS EC2 Using Terraform](https://dev.to/tungbq/automating-gitlab-runner-setup-on-aws-ec2-using-terraform-bhc)
 <!-- BLOG-POST-LIST:END -->
 
