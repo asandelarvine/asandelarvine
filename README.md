@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Design Systems](https://dev.to/tanoy_basak_e6876746c70b1/building-design-systems-n2i)
-- [5 Alternatives to Docker Desktop](https://dev.to/shohams/5-alternatives-to-docker-desktop-46am)
-- [CSS Magic: Elegant One-Liners](https://dev.to/koolkamalkishor/css-magic-elegant-one-liners-2pm7)
-- [Achieving a Perfect Lighthouse Score: A Comprehensive Guide](https://dev.to/koolkamalkishor/achieving-a-perfect-lighthouse-score-a-comprehensive-guide-1ai8)
+- [An Introduction to SQL Stored Procedures](https://dev.to/dbvismarketing/an-introduction-to-sql-stored-procedures-41h)
+- [The easiest guide to generate PDF📜 using Prawn in your Rails project](https://dev.to/pimp_my_ruby/the-easiest-guide-to-generate-pdf-using-prawn-in-your-rails-project-oh3)
+- [Difference between == and ===, that you don&#39;t know yet! 🔥](https://dev.to/alisamir/difference-between-and-that-you-dont-know-yet-2gko)
+- [Day 24 of 100 Days of Code](https://dev.to/jacobsternx/day-24-of-100-days-of-code-3gja)
 <!-- BLOG-POST-LIST:END -->
 
