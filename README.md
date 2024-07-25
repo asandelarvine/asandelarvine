@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Display All Databases in Various Ways](https://dev.to/devartteam/how-to-display-all-databases-in-various-ways-1h6g)
-- [Python Quick Review](https://dev.to/jumashafara/python-quick-review-4on1)
-- [How to provision an AWS WAF using AWS CDK](https://dev.to/aws-builders/how-to-provision-an-aws-waf-using-aws-cdk-4e67)
-- [What is Static Testing? Tools, Challenges and Benefits](https://dev.to/morrismoses149/what-is-static-testing-tools-challenges-and-benefits-36n5)
+- [How to Create a Simple Markdown to HTML Converter in Python](https://dev.to/stokry/how-to-create-a-simple-markdown-to-html-converter-in-python-14li)
+- [7 Best JMeter Alternative](https://dev.to/sattyam/7-best-jmeter-alternative-25b4)
+- [The 5 Ways to Ace Most Common Software Engineer Behavioral Interview Questions](https://dev.to/thekarlesi/the-5-ways-to-ace-most-common-software-engineer-behavioral-interview-questions-254c)
+- [Accessibility Considerations with Stacked Cards Custom Layout](https://dev.to/eevajonnapanula/accessibility-considerations-with-stacked-cards-custom-layout-25me)
 <!-- BLOG-POST-LIST:END -->
 
