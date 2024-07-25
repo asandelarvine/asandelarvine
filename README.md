@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Core Principles for Designing RESTful APIs](https://dev.to/shieldstring/core-principles-for-designing-restful-apis-1m51)
-- [Day 18: Centralized ELK Stack Setup](https://dev.to/arbythecoder/day-18-centralized-elk-stack-setup-89f)
-- [Demo](https://dev.to/ozcankara/demo-147g)
-- [Building Your First React Native App: A Step-by-Step Guide](https://dev.to/birajgtm/building-your-first-react-native-app-a-step-by-step-guide-1ibe)
+- [Minha conclusão ao conhecer os &quot;Design Patterns&quot; [PT-BR]](https://dev.to/andredarcie/minha-conclusao-ao-conhecer-os-design-patterns-pt-br-37op)
+- [A 5-day journey with Lite-XL](https://dev.to/teminian/a-5-day-journey-with-lite-xl-3ld6)
+- [Item 44: Prefira o uso das interfaces funcionais padrão](https://dev.to/giselecoder/item-44-prefira-o-uso-das-interfaces-funcionais-padrao-2an8)
+- [De Figma para React: Aprimorando o desenvolvimento de UI com Codia AI](https://dev.to/dougsource/de-figma-para-react-aprimorando-o-desenvolvimento-de-ui-com-codia-ai-2oh3)
 <!-- BLOG-POST-LIST:END -->
 
