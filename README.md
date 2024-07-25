@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deciding Between Client-Side and Server-Side Filtering 🚀](https://dev.to/marmariadev/deciding-between-client-side-and-server-side-filtering-22l9)
-- [The Hidden Challenges of Design Systems &lpar;And How to Solve Them&rpar;](https://dev.to/builderio/the-hidden-challenges-of-design-systems-and-how-to-solve-them-27jg)
-- [How to Connect to Milvus Lite Using LangChain and LlamaIndex](https://dev.to/zilliz/how-to-connect-to-milvus-lite-using-langchain-and-llamaindex-452)
-- [Create an Engaging React PDF Viewer: a Step-by-Step Guide](https://dev.to/fileforge/create-an-engaging-react-pdf-viewer-a-step-by-step-guide-1hdl)
+- [Building developer communities](https://dev.to/beapaz/building-developer-communities-3pic)
+- [Intro to Stellar: Get Started in Rust, Set Up Your Development Environment, and Write Your First Smart Contract](https://dev.to/stellar/intro-to-stellar-get-started-in-rust-set-up-your-development-environment-and-write-your-first-smart-contract-2gnp)
+- [Advanced State Management: Comparing Recoil, Zustand, and Jotai](https://dev.to/joshuawasike/advanced-state-management-comparing-recoil-zustand-and-jotai-4i10)
+- [Understanding and Implementing Memoization in React](https://dev.to/dipakahirav/understanding-and-implementing-memoization-in-react-39l4)
 <!-- BLOG-POST-LIST:END -->
 
