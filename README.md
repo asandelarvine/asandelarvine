@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to SQL Stored Procedures](https://dev.to/dbvismarketing/an-introduction-to-sql-stored-procedures-41h)
-- [The easiest guide to generate PDF📜 using Prawn in your Rails project](https://dev.to/pimp_my_ruby/the-easiest-guide-to-generate-pdf-using-prawn-in-your-rails-project-oh3)
-- [Difference between == and ===, that you don&#39;t know yet! 🔥](https://dev.to/alisamir/difference-between-and-that-you-dont-know-yet-2gko)
-- [Day 24 of 100 Days of Code](https://dev.to/jacobsternx/day-24-of-100-days-of-code-3gja)
+- [How the Shift-Left movement affects developers and their databases](https://dev.to/metis/how-the-shift-left-movement-affects-developers-and-their-databases-4iab)
+- [Cookie Banners: A Comprehensive Guide](https://dev.to/compliance/cookie-banners-a-comprehensive-guide-2d9p)
+- [Add placeholder text to div with contenteditable=&quot;true&quot;](https://dev.to/axorax/add-placeholder-text-to-div-with-contenteditabletrue-aa6)
+- [Refunds Demystified Part #1 : Why do refunds take time?](https://dev.to/bharat_parmar_72f30a48fef/refunds-demystified-part-1-why-do-refunds-take-time-3jh4)
 <!-- BLOG-POST-LIST:END -->
 
