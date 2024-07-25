@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Rust]How to make string handing to frontend on tauri app](https://dev.to/nk_maker/rusthow-to-make-string-handing-to-frontend-on-tauri-app-4h2c)
-- [Day 997 : The Mission](https://dev.to/dwane/day-997-the-mission-1flj)
-- [QUICK UPDATE](https://dev.to/kevinpalma21/quick-update-5apk)
-- [I built a React Native boilerplate to ship your apps faster](https://dev.to/rudolfsrijkuris/i-built-a-react-native-boilerplate-to-ship-your-apps-faster-fln)
+- [A cleaner node modules ecosystem](https://dev.to/thepassle/a-cleaner-node-modules-ecosystem-13n9)
+- [Permission based components with React&#39;s HOC](https://dev.to/gdstp/permission-based-components-with-reacts-hoc-2ckj)
+- [[Game of Purpose] Day 67](https://dev.to/humberd/game-of-purpose-day-67-cj3)
+- [Sejarah Penemuan Kecerdasan Buatan &lpar;AI&rpar;](https://dev.to/zulfikar_crow/sejarah-penemuan-kecerdasan-buatan-ai-3dc5)
 <!-- BLOG-POST-LIST:END -->
 
