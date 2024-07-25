@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inline Save and Add Another with Rails and Hotwire](https://dev.to/railsdesigner/inline-save-and-add-another-with-rails-and-hotwire-501m)
-- [Microsserviços, uma abordagem prática - &lpar;Parte - 3&rpar;](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-parte-3-2if0)
-- [Domain Linking in Replit Deployments &lpar;2024+&rpar;](https://dev.to/darktwentyfive/domain-linking-in-replit-deployments-2024-2g6a)
-- [Domain Linking in Replit Deployments &lpar;2024+&rpar;](https://dev.to/darktwentyfive/domain-linking-in-replit-deployments-2024-2na0)
+- [How you can extract company signals from job postings](https://dev.to/joerg_rech/how-you-can-extract-company-signals-from-job-postings-431o)
+- [Creating an Interactive Authors Directory: Fetching Data, Pagination, and DOM Updates](https://dev.to/mrigank_bhardwaj1304/creating-an-interactive-authors-directory-fetching-data-pagination-and-dom-updates-3ol6)
+- [Building Better Developers](https://dev.to/opensauced/building-better-developers-25ef)
+- [OAuth vs. JWT: Ultimate Comparison](https://dev.to/permify/oauth-vs-jwt-ultimate-comparison-3nd2)
 <!-- BLOG-POST-LIST:END -->
 
