@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How you can extract company signals from job postings](https://dev.to/joerg_rech/how-you-can-extract-company-signals-from-job-postings-431o)
-- [Creating an Interactive Authors Directory: Fetching Data, Pagination, and DOM Updates](https://dev.to/mrigank_bhardwaj1304/creating-an-interactive-authors-directory-fetching-data-pagination-and-dom-updates-3ol6)
-- [Building Better Developers](https://dev.to/opensauced/building-better-developers-25ef)
-- [OAuth vs. JWT: Ultimate Comparison](https://dev.to/permify/oauth-vs-jwt-ultimate-comparison-3nd2)
+- [Deciding Between Client-Side and Server-Side Filtering 🚀](https://dev.to/marmariadev/deciding-between-client-side-and-server-side-filtering-22l9)
+- [The Hidden Challenges of Design Systems &lpar;And How to Solve Them&rpar;](https://dev.to/builderio/the-hidden-challenges-of-design-systems-and-how-to-solve-them-27jg)
+- [How to Connect to Milvus Lite Using LangChain and LlamaIndex](https://dev.to/zilliz/how-to-connect-to-milvus-lite-using-langchain-and-llamaindex-452)
+- [Create an Engaging React PDF Viewer: a Step-by-Step Guide](https://dev.to/fileforge/create-an-engaging-react-pdf-viewer-a-step-by-step-guide-1hdl)
 <!-- BLOG-POST-LIST:END -->
 
