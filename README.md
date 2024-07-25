@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📱 AWS Device Farm: A minha salvação para testes Mobile](https://dev.to/pedrobarreto/aws-device-farm-a-minha-salvacao-para-testes-mobile-30l3)
-- [What If CrowdStrike Used APItoolkit Instead?](https://dev.to/irhose/what-if-crowdstrike-used-apitoolkit-2bpe)
-- [Implementing System Design: A Use Case Example](https://dev.to/ivansing/implementing-system-design-a-use-case-example-4hh1)
-- [The OSI Model: A Comprehensive Overview](https://dev.to/m__mdy__m/the-osi-model-a-comprehensive-overview-52j5)
+- [[Rust]How to make string handing to frontend on tauri app](https://dev.to/nk_maker/rusthow-to-make-string-handing-to-frontend-on-tauri-app-4h2c)
+- [Day 997 : The Mission](https://dev.to/dwane/day-997-the-mission-1flj)
+- [QUICK UPDATE](https://dev.to/kevinpalma21/quick-update-5apk)
+- [I built a React Native boilerplate to ship your apps faster](https://dev.to/rudolfsrijkuris/i-built-a-react-native-boilerplate-to-ship-your-apps-faster-fln)
 <!-- BLOG-POST-LIST:END -->
 
