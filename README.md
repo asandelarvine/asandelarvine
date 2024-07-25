@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Challenge v24.07.24 CSS Art - Painter Life](https://dev.to/annavi11arrea1/dev-challenge-v240724-css-art-painter-life-56p7)
-- [300LOC Frogger](https://dev.to/diegocardoso93/300loc-frogger-14ce)
-- [How to Convert GIF to AVIF](https://dev.to/msmith99994/how-to-convert-gif-to-avif-3hbb)
-- [React Native: Website vs mobile apps](https://dev.to/hellonehha/react-native-website-vs-mobile-apps-4227)
+- [📱 AWS Device Farm: A minha salvação para testes Mobile](https://dev.to/pedrobarreto/aws-device-farm-a-minha-salvacao-para-testes-mobile-30l3)
+- [What If CrowdStrike Used APItoolkit Instead?](https://dev.to/irhose/what-if-crowdstrike-used-apitoolkit-2bpe)
+- [Implementing System Design: A Use Case Example](https://dev.to/ivansing/implementing-system-design-a-use-case-example-4hh1)
+- [The OSI Model: A Comprehensive Overview](https://dev.to/m__mdy__m/the-osi-model-a-comprehensive-overview-52j5)
 <!-- BLOG-POST-LIST:END -->
 
