@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #151: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-151-explica-este-codigo-python-5372)
-- [SOLID Principle คือ?](https://dev.to/sherlyzi/solid-principle-khuue-3he6)
-- [Shallow Copy vs Deep Copy in JavaScript](https://dev.to/sagarj521/shallow-copy-vs-deep-copy-in-javascript-4dmo)
-- [Why you should try React Query?](https://dev.to/codeparrot/why-you-should-try-react-query-5d0g)
+- [Starting My Journey on DEV Community: From Competitive Programming to Backend Development](https://dev.to/kizaidi_ak/starting-my-journey-on-dev-community-from-competitive-programming-to-backend-development-2oj9)
+- [Create a Simple Blog Application Using Django](https://dev.to/kihuni/create-a-simple-blog-application-using-django-4fo9)
+- [The Future of Mobile Gaming: Top 5 Features to Capitalize on in 2024-2025](https://dev.to/mindfig/the-future-of-mobile-gaming-top-5-features-to-capitalize-on-in-2024-2025-58o9)
+- [Awesome Open-Source Projects for Developers &lpar;Part 1&rpar;](https://dev.to/nocobase/awesome-open-source-projects-for-developers-part-1-42b8)
 <!-- BLOG-POST-LIST:END -->
 
