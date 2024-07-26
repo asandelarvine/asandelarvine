@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [XGBoost: The Superpower of Gradient Boosting](https://dev.to/aquibpy/xgboost-the-superpower-of-gradient-boosting-519h)
-- [Understanding the Core of SOLID Principles in Object-Oriented Programming](https://dev.to/jignect_technologies/understanding-the-core-of-solid-principles-in-object-oriented-programming-2126)
-- [The Impact of Soil Burning on Bean Growth: Unveiling the Benefits and Mechanisms](https://dev.to/joshuawasike/the-impact-of-soil-burning-on-bean-growth-unveiling-the-benefits-and-mechanisms-29ca)
-- [Etherspot &amp; Rooba Finance: Transforming Real Estate Tokenization with Account Abstraction](https://dev.to/etherspot/etherspot-rooba-finance-transforming-real-estate-tokenization-with-account-abstraction-5012)
+- [Cookie Policy: A Comprehensive Guide](https://dev.to/compliance/cookie-policy-a-comprehensive-guide-15d1)
+- [Implementing GraphQL in MERN Stack Application.](https://dev.to/rohitchaware/implementing-graphql-in-mern-stack-application-4371)
+- [Integrating MediaElement.js into a Custom HTML5 Video Player](https://dev.to/sh20raj/integrating-mediaelementjs-into-a-custom-html5-video-player-390p)
+- [The Importance of Fibonacci in Machine Learning and Data Science](https://dev.to/lilyneema/the-importance-of-fibonacci-in-machine-learning-and-data-science-4fi9)
 <!-- BLOG-POST-LIST:END -->
 
