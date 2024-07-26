@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Ansible Commands: From Beginner to Advanced for DevOps Engineers](https://dev.to/prodevopsguytech/ansible-commands-from-beginner-to-advanced-for-devops-engineers-134)
-- [Why SafeLine is better than traditional WAF?](https://dev.to/lulu_liu_c90f973e2f954d7f/why-safeline-is-better-than-tranditional-waf-23bd)
-- [Unraveling JavaScript: A Deep Dive into Hoisting, Temporal Dead Zone, and Variable States](https://dev.to/ashutoshsarangi/unraveling-javascript-a-deep-dive-into-hoisting-temporal-dead-zone-and-variable-states-4d0j)
-- [Understanding Cron Jobs: Scheduling Automated Tasks](https://dev.to/keploy/understanding-cron-jobs-scheduling-automated-tasks-4cbp)
+- [XGBoost: The Superpower of Gradient Boosting](https://dev.to/aquibpy/xgboost-the-superpower-of-gradient-boosting-519h)
+- [Understanding the Core of SOLID Principles in Object-Oriented Programming](https://dev.to/jignect_technologies/understanding-the-core-of-solid-principles-in-object-oriented-programming-2126)
+- [The Impact of Soil Burning on Bean Growth: Unveiling the Benefits and Mechanisms](https://dev.to/joshuawasike/the-impact-of-soil-burning-on-bean-growth-unveiling-the-benefits-and-mechanisms-29ca)
+- [Etherspot &amp; Rooba Finance: Transforming Real Estate Tokenization with Account Abstraction](https://dev.to/etherspot/etherspot-rooba-finance-transforming-real-estate-tokenization-with-account-abstraction-5012)
 <!-- BLOG-POST-LIST:END -->
 
