@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Response Mapping in API Integration?](https://dev.to/apidna/what-is-response-mapping-in-api-integration-57o)
-- [Building a Complete IoT Solution Using Azure: Device Registration, Simulation, and Data Routing](https://dev.to/florence_8042063da11e29d1/building-a-complete-iot-solution-using-azure-device-registration-simulation-and-data-routing-58lc)
-- [YaCaC &lpar;Yet another Comment about Comments&rpar;](https://dev.to/pinotattari/yacac-yet-another-comment-about-comments-42jm)
-- [Mathematics for Machine Learning - Day 18](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-18-6ai)
+- [Installing Nginx on Linux Mint 22](https://dev.to/masanori_msl/installing-nginx-on-linux-mint-22-np)
+- [Episode 24/29: Converging Frameworks, SSR with Igor Minar](https://dev.to/this-is-angular/episode-2429-converging-frameworks-ssr-with-igor-minar-2b73)
+- [Chess Player Game 🎉 Building a Vue.js](https://dev.to/kevinmarville/building-a-vuejs-chess-game-2f1)
+- [Day 3](https://dev.to/durdle_door/day-3-1il1)
 <!-- BLOG-POST-LIST:END -->
 
