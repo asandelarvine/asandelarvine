@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Development Environment Using Laravel Sail &lpar;Docker&rpar;](https://dev.to/guilherme-lauxen/setting-up-a-development-environment-using-laravel-sail-docker-2fn0)
-- [What You&#39;ll Need To Start Coding in HTML](https://dev.to/thekarlesi/what-youll-need-to-start-coding-in-html-14b6)
-- [Saga Solid de uma forma divertida&lpar;S&rpar;](https://dev.to/isaquepf/saga-solid-de-uma-forma-divertidas-28mb)
-- [Beginner&#39;s Guide to Git Commands](https://dev.to/samarjaffri/beginners-guide-to-git-commands-495b)
+- [O que é CRM?](https://dev.to/crija/o-que-e-crm-1kf3)
+- [Step-by-Step Guide to Creating an Azure Virtual Network with Four Subnets](https://dev.to/florence_8042063da11e29d1/step-by-step-guide-to-creating-an-azure-virtual-network-with-four-subnets-4f99)
+- [Automating Kubernetes Security with Kyverno : Day 16 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/automating-kubernetes-security-with-kyverno-day-16-of-50-days-devops-tools-series-8f2)
+- [Print&lpar;&rpar;](https://dev.to/kk_python/print-2a44)
 <!-- BLOG-POST-LIST:END -->
 
