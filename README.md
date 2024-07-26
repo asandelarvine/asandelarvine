@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#34 — Remove Duplicates And Compute Intersection](https://dev.to/judith677/34-remove-duplicates-and-compute-intersection-5e2h)
-- [Implement React v18 from Scratch Using WASM and Rust - [20] Implement Context](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-20-implement-context-2h3i)
-- [Top 10 Java Libraries Every Developer Should Know](https://dev.to/mediageneous/top-10-java-libraries-every-developer-should-know-289g)
-- [Boost Your Website&#39;s Google Ranking for Free](https://dev.to/juddiy/boost-your-websites-google-ranking-for-free-55o7)
+- [How to Contribute to Open Source Projects](https://dev.to/markliu2013/how-to-contribute-to-open-source-projects-294c)
+- [Modern CSS Layout Techniques: Grid vs. Flexbox](https://dev.to/emmanuelj/modern-css-layout-techniques-grid-vs-flexbox-9f)
+- [What is NodeJS?](https://dev.to/samirabawad/what-is-nodejs-37i5)
+- [My accounts has been Hacked &lpar;compromised&rpar;](https://dev.to/craftingbugs/my-accounts-has-been-hacked-compromised-3o3l)
 <!-- BLOG-POST-LIST:END -->
 
