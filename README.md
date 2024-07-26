@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A cleaner node modules ecosystem](https://dev.to/thepassle/a-cleaner-node-modules-ecosystem-13n9)
-- [Permission based components with React&#39;s HOC](https://dev.to/gdstp/permission-based-components-with-reacts-hoc-2ckj)
-- [[Game of Purpose] Day 67](https://dev.to/humberd/game-of-purpose-day-67-cj3)
-- [Sejarah Penemuan Kecerdasan Buatan &lpar;AI&rpar;](https://dev.to/zulfikar_crow/sejarah-penemuan-kecerdasan-buatan-ai-3dc5)
+- [JPG to JXL: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/jpg-to-jxl-a-guide-to-converting-modern-image-formats-5el3)
+- [AWS Outpost and RDS: Reslotting Checklist](https://dev.to/regis-ud/aws-outpost-and-rds-reslotting-checklist-4o0j)
+- [How to delete entire git commit history?](https://dev.to/axorax/how-to-delete-entire-git-commit-history-35h7)
+- [Don&#39;t ride a donkey when you can drive a brand-new sports car](https://dev.to/themuneebh/dont-ride-a-donkey-when-you-can-drive-a-brand-new-sports-car-4o0)
 <!-- BLOG-POST-LIST:END -->
 
