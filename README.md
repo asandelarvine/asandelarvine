@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing IPv6 in Kubernetes Clusters: A Comprehensive Guide for EKS and GKE](https://dev.to/ofir-haim/implementing-ipv6-in-kubernetes-clusters-a-comprehensive-guide-for-eks-and-gke-1ee6)
-- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-2iae)
-- [Crafting Adaptive UX Across Diverse Devices: Strategies for IoT Software Development](https://dev.to/yetillc/crafting-adaptive-ux-across-diverse-devices-strategies-for-iot-software-development-3hmf)
-- [React ChatBotify v2 Beta Release: What’s Changed, What’s New and What’s Next?](https://dev.to/tjtanjin/react-chatbotify-v2-beta-release-whats-changed-whats-new-and-whats-next-a6n)
+- [Day 998 : Bittersweet](https://dev.to/dwane/day-998-bittersweet-3lc6)
+- [🐝 ✉️ Using MailHog in Wasp](https://dev.to/medardm/using-mailhog-in-wasp-4n2p)
+- [Diversifying Emojis With AI](https://dev.to/starpause/diversifying-emojis-with-ai-593e)
+- [Changing Thought Patterns: Shifting Perspectives to Achieve Personal Success](https://dev.to/koshirok096/changing-thought-patterns-shifting-perspectives-to-achieve-personal-success-4nh8)
 <!-- BLOG-POST-LIST:END -->
 
