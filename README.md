@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Chrome extension](https://dev.to/sh20raj/creating-a-chrome-extension-nc9)
-- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-55ch)
-- [Angular: Micro Frontend &lpar;Module Federation&rpar;](https://dev.to/mana95/angular-micro-frontend-module-federation-384o)
-- [KISS with Docker Compose](https://dev.to/gregoryledray/kiss-with-docker-compose-b7m)
+- [The Quest for Performance Part I : Inline C, OpenMP and the Perl Data Language &lpar;PDL&rpar;](https://dev.to/chrisarg/the-quest-for-performance-part-i-inline-c-openmp-and-the-perl-data-language-pdl-48be)
+- [What is Artificial Intelligence and Why It Matters in 2024 by Mike Savage](https://dev.to/savagenewcanaan/what-is-artificial-intelligence-and-why-it-matters-in-2024-by-mike-savage-3i24)
+- [First Day to Code](https://dev.to/kshitizzanand/zebras-shitting-crayons-3oa9)
+- [Understanding Hoisting in JavaScript](https://dev.to/readwanmd/understanding-hoisting-in-javascript-h78)
 <!-- BLOG-POST-LIST:END -->
 
