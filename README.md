@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cookie Policy: A Comprehensive Guide](https://dev.to/compliance/cookie-policy-a-comprehensive-guide-15d1)
-- [Implementing GraphQL in MERN Stack Application.](https://dev.to/rohitchaware/implementing-graphql-in-mern-stack-application-4371)
-- [Integrating MediaElement.js into a Custom HTML5 Video Player](https://dev.to/sh20raj/integrating-mediaelementjs-into-a-custom-html5-video-player-390p)
-- [The Importance of Fibonacci in Machine Learning and Data Science](https://dev.to/lilyneema/the-importance-of-fibonacci-in-machine-learning-and-data-science-4fi9)
+- [Ibuprofeno.py💊| #151: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-151-explica-este-codigo-python-5372)
+- [SOLID Principle คือ?](https://dev.to/sherlyzi/solid-principle-khuue-3he6)
+- [Shallow Copy vs Deep Copy in JavaScript](https://dev.to/sagarj521/shallow-copy-vs-deep-copy-in-javascript-4dmo)
+- [Why you should try React Query?](https://dev.to/codeparrot/why-you-should-try-react-query-5d0g)
 <!-- BLOG-POST-LIST:END -->
 
