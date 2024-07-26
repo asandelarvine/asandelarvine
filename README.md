@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Nginx on Linux Mint 22](https://dev.to/masanori_msl/installing-nginx-on-linux-mint-22-np)
-- [Episode 24/29: Converging Frameworks, SSR with Igor Minar](https://dev.to/this-is-angular/episode-2429-converging-frameworks-ssr-with-igor-minar-2b73)
-- [Chess Player Game 🎉 Building a Vue.js](https://dev.to/kevinmarville/building-a-vuejs-chess-game-2f1)
-- [Day 3](https://dev.to/durdle_door/day-3-1il1)
+- [Creating a Chrome extension](https://dev.to/sh20raj/creating-a-chrome-extension-nc9)
+- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-55ch)
+- [Angular: Micro Frontend &lpar;Module Federation&rpar;](https://dev.to/mana95/angular-micro-frontend-module-federation-384o)
+- [KISS with Docker Compose](https://dev.to/gregoryledray/kiss-with-docker-compose-b7m)
 <!-- BLOG-POST-LIST:END -->
 
