@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JPG to JXL: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/jpg-to-jxl-a-guide-to-converting-modern-image-formats-5el3)
-- [AWS Outpost and RDS: Reslotting Checklist](https://dev.to/regis-ud/aws-outpost-and-rds-reslotting-checklist-4o0j)
-- [How to delete entire git commit history?](https://dev.to/axorax/how-to-delete-entire-git-commit-history-35h7)
-- [Don&#39;t ride a donkey when you can drive a brand-new sports car](https://dev.to/themuneebh/dont-ride-a-donkey-when-you-can-drive-a-brand-new-sports-car-4o0)
+- [Setting Up a Development Environment Using Laravel Sail &lpar;Docker&rpar;](https://dev.to/guilherme-lauxen/setting-up-a-development-environment-using-laravel-sail-docker-2fn0)
+- [What You&#39;ll Need To Start Coding in HTML](https://dev.to/thekarlesi/what-youll-need-to-start-coding-in-html-14b6)
+- [Saga Solid de uma forma divertida&lpar;S&rpar;](https://dev.to/isaquepf/saga-solid-de-uma-forma-divertidas-28mb)
+- [Beginner&#39;s Guide to Git Commands](https://dev.to/samarjaffri/beginners-guide-to-git-commands-495b)
 <!-- BLOG-POST-LIST:END -->
 
