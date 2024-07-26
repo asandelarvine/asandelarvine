@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Time to Move on From Agile Development](https://dev.to/safdarali/its-time-to-move-on-from-agile-development-emp)
-- [Everything You Ever Wanted to Know about Sundials](https://dev.to/pauljlucas/everything-you-ever-wanted-to-know-about-sundials-5h2l)
-- [Game Theory in Action: Pluribus and CFR in Texas Hold&#39;em&lpar;1&rpar; Understanding Nash Equilibrium](https://dev.to/friendneeder/game-theory-in-action-pluribus-and-cfr-in-texas-holdem1-understanding-nash-equilibrium-2nhf)
-- [How to Deploy and Verify a Smart Contract on Mode&#39;s Blockchain using Foundry](https://dev.to/modenetwork/how-to-deploy-and-verify-a-smart-contract-on-modes-blockchain-using-foundry-2p5n)
+- [What is Response Mapping in API Integration?](https://dev.to/apidna/what-is-response-mapping-in-api-integration-57o)
+- [Building a Complete IoT Solution Using Azure: Device Registration, Simulation, and Data Routing](https://dev.to/florence_8042063da11e29d1/building-a-complete-iot-solution-using-azure-device-registration-simulation-and-data-routing-58lc)
+- [YaCaC &lpar;Yet another Comment about Comments&rpar;](https://dev.to/pinotattari/yacac-yet-another-comment-about-comments-42jm)
+- [Mathematics for Machine Learning - Day 18](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-18-6ai)
 <!-- BLOG-POST-LIST:END -->
 
