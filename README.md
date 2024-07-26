@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 998 : Bittersweet](https://dev.to/dwane/day-998-bittersweet-3lc6)
-- [🐝 ✉️ Using MailHog in Wasp](https://dev.to/medardm/using-mailhog-in-wasp-4n2p)
-- [Diversifying Emojis With AI](https://dev.to/starpause/diversifying-emojis-with-ai-593e)
-- [Changing Thought Patterns: Shifting Perspectives to Achieve Personal Success](https://dev.to/koshirok096/changing-thought-patterns-shifting-perspectives-to-achieve-personal-success-4nh8)
+- [Dave: on a Journey of Personal Digital Detox](https://dev.to/smits/dave-on-a-journey-of-personal-digital-detox-3053)
+- [Revolutionize IT Inventory Management with Our Advanced Inventory System](https://dev.to/njabulo240/revolutionize-it-inventory-management-with-our-advanced-inventory-system-4jeb)
+- [Security news weekly round-up - 26th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-july-2024-470d)
+- [SVG vs AVIF](https://dev.to/msmith99994/svg-vs-avif-flc)
 <!-- BLOG-POST-LIST:END -->
 
