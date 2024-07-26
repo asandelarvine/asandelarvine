@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting My Journey on DEV Community: From Competitive Programming to Backend Development](https://dev.to/kizaidi_ak/starting-my-journey-on-dev-community-from-competitive-programming-to-backend-development-2oj9)
-- [Create a Simple Blog Application Using Django](https://dev.to/kihuni/create-a-simple-blog-application-using-django-4fo9)
-- [The Future of Mobile Gaming: Top 5 Features to Capitalize on in 2024-2025](https://dev.to/mindfig/the-future-of-mobile-gaming-top-5-features-to-capitalize-on-in-2024-2025-58o9)
-- [Awesome Open-Source Projects for Developers &lpar;Part 1&rpar;](https://dev.to/nocobase/awesome-open-source-projects-for-developers-part-1-42b8)
+- [Hello world in java](https://dev.to/santa1701/hello-world-in-java-32b5)
+- [DUMP MSSQL DATABASE INTO POSTGRES](https://dev.to/maulik2900/dump-mssql-database-into-postgres-20i1)
+- [[Roast: Day 9] - Refactoring](https://dev.to/nmiller15/roast-day-9-refactoring-48f9)
+- [How to reuse your UI](https://dev.to/andrewmat/how-to-reuse-your-ui-5fa0)
 <!-- BLOG-POST-LIST:END -->
 
