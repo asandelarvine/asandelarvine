@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing a Cloud Provider: Deep Considerations for the Experienced DevOps Professional](https://dev.to/target-ops/choosing-a-cloud-provider-deep-considerations-for-the-experienced-devops-professional-37ed)
-- [The Magic of Flask Login](https://dev.to/gasparericmartin/the-magic-of-flask-login-4df8)
-- [Good Practices Using Node.js + Sequelize with TypeScript](https://dev.to/luizcalaca/good-practices-using-nodejs-sequelize-with-typescript-275b)
-- [My Journey in Building a Personal Website](https://dev.to/cosminirimescucom/my-journey-in-building-a-personal-website-278i)
+- [Implementing IPv6 in Kubernetes Clusters: A Comprehensive Guide for EKS and GKE](https://dev.to/ofir-haim/implementing-ipv6-in-kubernetes-clusters-a-comprehensive-guide-for-eks-and-gke-1ee6)
+- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-2iae)
+- [Crafting Adaptive UX Across Diverse Devices: Strategies for IoT Software Development](https://dev.to/yetillc/crafting-adaptive-ux-across-diverse-devices-strategies-for-iot-software-development-3hmf)
+- [React ChatBotify v2 Beta Release: What’s Changed, What’s New and What’s Next?](https://dev.to/tjtanjin/react-chatbotify-v2-beta-release-whats-changed-whats-new-and-whats-next-a6n)
 <!-- BLOG-POST-LIST:END -->
 
