@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello world in java](https://dev.to/santa1701/hello-world-in-java-32b5)
-- [DUMP MSSQL DATABASE INTO POSTGRES](https://dev.to/maulik2900/dump-mssql-database-into-postgres-20i1)
-- [[Roast: Day 9] - Refactoring](https://dev.to/nmiller15/roast-day-9-refactoring-48f9)
-- [How to reuse your UI](https://dev.to/andrewmat/how-to-reuse-your-ui-5fa0)
+- [Integration Testing : Concept](https://dev.to/jay818/integration-testing-concept-k40)
+- [Benefits of Code Reviews for Team Collaboration and Code Quality](https://dev.to/wallacefreitas/benefits-of-code-reviews-for-team-collaboration-and-code-quality-4gco)
+- [Building a Travel Support Agent with RAG and PostgreSQL, Using IaC.](https://dev.to/aws/building-a-travel-support-agent-with-rag-and-postgresql-using-iac-4cbf)
+- [Cypress vs Playwright:In-Depth Comparison](https://dev.to/morrismoses149/cypress-vs-playwrightin-depth-comparison-1fid)
 <!-- BLOG-POST-LIST:END -->
 
