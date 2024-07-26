@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 24 of 100 Days of Code](https://dev.to/jacobsternx/day-24-of-100-days-of-code-e60)
-- [Props Drilling in React](https://dev.to/code_master/props-drilling-in-react-31bd)
-- [9 months of Machine Learning and beyond: Machine Learning A-Z](https://dev.to/airtucha/9-months-of-machine-learning-and-beyond-machine-learning-a-z-3jfj)
-- [Lifting State Up in React](https://dev.to/code_master/lifting-state-up-in-react-13a2)
+- [🔧 Ansible Commands: From Beginner to Advanced for DevOps Engineers](https://dev.to/prodevopsguytech/ansible-commands-from-beginner-to-advanced-for-devops-engineers-134)
+- [Why SafeLine is better than traditional WAF?](https://dev.to/lulu_liu_c90f973e2f954d7f/why-safeline-is-better-than-tranditional-waf-23bd)
+- [Unraveling JavaScript: A Deep Dive into Hoisting, Temporal Dead Zone, and Variable States](https://dev.to/ashutoshsarangi/unraveling-javascript-a-deep-dive-into-hoisting-temporal-dead-zone-and-variable-states-4d0j)
+- [Understanding Cron Jobs: Scheduling Automated Tasks](https://dev.to/keploy/understanding-cron-jobs-scheduling-automated-tasks-4cbp)
 <!-- BLOG-POST-LIST:END -->
 
