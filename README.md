@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Jersey&#39;s Ambitious $500 Million AI Innovation Initiative](https://dev.to/aishik_chatterjee_0060e71/new-jerseys-ambitious-500-million-ai-innovation-initiative-44g7)
-- [How can automation save restaurants from a big soup?](https://dev.to/pepper_square/how-can-automation-save-restaurants-from-a-big-soup-mo4)
-- [Choosing the Right API Architecture - A Deep Dive into RESTful API &amp; gRPC Protocols](https://dev.to/getambassador2024/choosing-the-right-api-architecture-a-deep-dive-into-restful-api-grpc-protocols-3475)
-- [What is TAC and What is it For?](https://dev.to/ionegarza/what-is-tac-and-what-is-it-for-5g77)
+- [Day 24 of 100 Days of Code](https://dev.to/jacobsternx/day-24-of-100-days-of-code-e60)
+- [Props Drilling in React](https://dev.to/code_master/props-drilling-in-react-31bd)
+- [9 months of Machine Learning and beyond: Machine Learning A-Z](https://dev.to/airtucha/9-months-of-machine-learning-and-beyond-machine-learning-a-z-3jfj)
+- [Lifting State Up in React](https://dev.to/code_master/lifting-state-up-in-react-13a2)
 <!-- BLOG-POST-LIST:END -->
 
