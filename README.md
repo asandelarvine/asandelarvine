@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication &amp; Authorization: The Backbone of Secure Systems 🛡](https://dev.to/alisamir/authentication-authorization-the-backbone-of-secure-systems-54io)
-- [Understanding JavaScript Closures ⚡️](https://dev.to/alisamir/understanding-javascript-closures-2k83)
-- [Day 26 of 100 Days of Code](https://dev.to/jacobsternx/day-26-of-100-days-of-code-537g)
-- [Mastering Asynchronous JavaScript: A Guide to async/await and Promises ⌛️](https://dev.to/alisamir/mastering-asynchronous-javascript-a-guide-to-asyncawait-and-promises-ebk)
+- [How to get started with Android Development in 2024](https://dev.to/olise/how-to-get-started-with-android-development-in-2024-1njj)
+- [Mastering SQL: Understanding Group By and Order By](https://dev.to/mayorla/mastering-sql-understanding-group-by-and-order-by-48bm)
+- [Convert String Title to Slug in Javascript](https://dev.to/fikriqx/convert-string-title-to-slug-in-javascript-323d)
+- [Building Chat App Simplified](https://dev.to/vaishnavsherla/building-chat-app-simplified-5cfe)
 <!-- BLOG-POST-LIST:END -->
 
