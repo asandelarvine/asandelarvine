@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rooma Dev](https://dev.to/rooma_dev/rooma-dev-4hh0)
-- [Unlocking JavaScript: Logical OR &lpar;||&rpar; vs Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/itsshaikhaj/unlocking-javascript-logical-or-vs-nullish-coalescing-operator--21hb)
-- [THE USE TOTAL COST OF OWNERSHIP&lpar;TCO&rpar; AND PRICING CALCULATOR FOR COST MANAGMENT](https://dev.to/monnanka/the-use-total-cost-of-ownershiptco-and-pricing-calculator-for-cost-managment-3g0n)
-- [Wireframe, Figma, and Javascript](https://dev.to/dongdiri96/wireframe-figma-and-javascript-47l5)
+- [MITRE ATT&amp;CK vs. NIST CSF: A Comprehensive Guide to Cybersecurity Frameworks](https://dev.to/clouddefenseai/mitre-attck-vs-nist-csf-a-comprehensive-guide-to-cybersecurity-frameworks-4805)
+- [🔥🔥Top 10 YouTube channels for learning data science for both beginners and intermediate learners💡](https://dev.to/d_rahulsingh/top-10-youtube-channels-for-learning-data-science-for-both-beginners-and-intermediate-learners-3mh0)
+- [Effort Estimation in Software Project Management](https://dev.to/abedin022/effort-estimation-in-software-project-management-4m78)
+- [Implementing Set Using Hashing](https://dev.to/paulike/implementing-set-using-hashing-1pm7)
 <!-- BLOG-POST-LIST:END -->
 
