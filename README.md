@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Versioning: A Guide for Developers 🚀](https://dev.to/disane/semantic-versioning-a-guide-for-developers-5eh1)
-- [Setup Kubernetes Cluster on Docker with help of Kind](https://dev.to/binoy_59380e698d318/setup-kubernetes-cluster-on-docker-with-help-of-kind-4m0b)
-- [Building a Simple Chat Application with Go, Gin, MongoDB, and WebSocket](https://dev.to/gbubemi22/building-a-simple-chat-application-with-go-gin-mongodb-and-websocket-2joo)
-- [Automate Spider Creation in Scrapy with Jinja2 and JSON](https://dev.to/ajitkumar/automate-spider-creation-in-scrapy-with-jinja2-and-json-162g)
+- [Azure Container Registry — Storing images and artifacts](https://dev.to/reniciuspagotto/azure-container-registry-storing-images-and-artifacts-52af)
+- [useActionState hook in react 19](https://dev.to/m3cv1no/useactionstate-hook-in-react-19-597f)
+- [Create Mock API Like a Breeze!](https://dev.to/mockaron/create-mock-apilike-a-breeze-3fao)
+- [The Evolution of AI and Its Impact on Software Development](https://dev.to/yassincodes/the-evolution-of-ai-and-its-impact-on-software-development-3a3b)
 <!-- BLOG-POST-LIST:END -->
 
