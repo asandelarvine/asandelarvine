@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The main features I want for C#](https://dev.to/symbiogenesis/the-main-features-i-want-for-c-3f2n)
-- [A Genuine Compliment for Flutter from an &quot;Outsider&quot;](https://dev.to/ericdouglas/a-genuine-compliment-for-flutter-from-an-outsider-4384)
-- [Tente Isto 4-1 Crie uma classe de ajuda](https://dev.to/devsjavagirls/tente-isto-4-1-crie-uma-classe-de-ajuda-3ce6)
-- [Adicionando um método parametrizado a Vehicle](https://dev.to/devsjavagirls/adicionando-um-metodo-parametrizado-a-vehicle-1ja5)
+- [Semantic Versioning: A Guide for Developers 🚀](https://dev.to/disane/semantic-versioning-a-guide-for-developers-5eh1)
+- [Setup Kubernetes Cluster on Docker with help of Kind](https://dev.to/binoy_59380e698d318/setup-kubernetes-cluster-on-docker-with-help-of-kind-4m0b)
+- [Building a Simple Chat Application with Go, Gin, MongoDB, and WebSocket](https://dev.to/gbubemi22/building-a-simple-chat-application-with-go-gin-mongodb-and-websocket-2joo)
+- [Automate Spider Creation in Scrapy with Jinja2 and JSON](https://dev.to/ajitkumar/automate-spider-creation-in-scrapy-with-jinja2-and-json-162g)
 <!-- BLOG-POST-LIST:END -->
 
