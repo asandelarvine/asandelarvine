@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Best Practices](https://dev.to/suhaspalani/security-best-practices-3klg)
-- [Struggling with consistent blogging? I&#39;m working on something that might help!](https://dev.to/mingi3314/struggling-with-consistent-blogging-im-working-on-something-that-might-help-2b30)
-- [Streamline Workflows with AgentKit: Visual Graph-Based Flow Engineering](https://dev.to/mikeyoung44/streamline-workflows-with-agentkit-visual-graph-based-flow-engineering-2fa1)
-- [Diffree: Seamless Text-Guided Object Inpainting with Diffusion Models](https://dev.to/mikeyoung44/diffree-seamless-text-guided-object-inpainting-with-diffusion-models-dkj)
+- [Authentication &amp; Authorization: The Backbone of Secure Systems 🛡](https://dev.to/alisamir/authentication-authorization-the-backbone-of-secure-systems-54io)
+- [Understanding JavaScript Closures ⚡️](https://dev.to/alisamir/understanding-javascript-closures-2k83)
+- [Day 26 of 100 Days of Code](https://dev.to/jacobsternx/day-26-of-100-days-of-code-537g)
+- [Mastering Asynchronous JavaScript: A Guide to async/await and Promises ⌛️](https://dev.to/alisamir/mastering-asynchronous-javascript-a-guide-to-asyncawait-and-promises-ebk)
 <!-- BLOG-POST-LIST:END -->
 
