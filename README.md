@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First Batch of LPW 2024 Talks Accepted](https://dev.to/leejo/first-batch-of-lpw-2024-talks-accepted-amk)
-- [10 Projects to master Frontend &amp; Web Development](https://dev.to/bigsondev/10-projects-to-master-frontend-web-development-acm)
-- [Custom error handling in a REST API using TypeScript, Express.js, Joi validation, and object-oriented programming](https://dev.to/luizcalaca/custom-error-handling-in-a-rest-api-using-typescript-expressjs-joi-validation-and-object-oriented-programming-3p5m)
-- [A Final Step, Connect Database And The Seeder &lpar;Part 3&rpar;](https://dev.to/sheenazien8/building-a-simple-golang-boilerplate-a-step-by-step-guide-part-3-2hmn)
+- [Tomba.io Email Finder API 2024: The Ultimate Tool for Precision and Speed](https://dev.to/benemohamed/tombaio-email-finder-api-2024-the-ultimate-tool-for-precision-and-speed-4jpn)
+- [Unicode Text Converter v1.0](https://dev.to/thenanosoft/unicode-text-converter-v10-4eah)
+- [Unleashing the Potential: The Power of an Effective Software Testing Environment](https://dev.to/jhk_info/unleashing-the-potential-the-power-of-an-effective-software-testing-environment-l66)
+- [Migrating node-fetch/form-data to Node.js native APIs](https://dev.to/ueokande/migrating-node-fetchform-data-to-nodejs-native-apis-2j7h)
 <!-- BLOG-POST-LIST:END -->
 
