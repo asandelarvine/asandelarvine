@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python virtual Environments](https://dev.to/naicigam28/python-virtual-environments-pl2)
-- [Building Your First AWS Web Server: A Beginner&#39;s Guide to Cloud Computing](https://dev.to/jesse_adu_akowuah_/building-your-first-aws-web-server-a-beginners-guide-to-cloud-computing-f11)
-- [Announcing The Launch of RefreshOS 2.0 &lpar;Boundless Beagle&rpar;](https://dev.to/jordantylerburchett/announcing-the-launch-of-refreshos-20-boundless-beagle-35eo)
-- [React forwardRef &amp; useRef | Guía para aprender a utilizarlos](https://dev.to/anjrot/react-forwardref-useref-guia-para-aprender-a-utilizarlos-4d78)
+- [The main features I want for C#](https://dev.to/symbiogenesis/the-main-features-i-want-for-c-3f2n)
+- [A Genuine Compliment for Flutter from an &quot;Outsider&quot;](https://dev.to/ericdouglas/a-genuine-compliment-for-flutter-from-an-outsider-4384)
+- [Tente Isto 4-1 Crie uma classe de ajuda](https://dev.to/devsjavagirls/tente-isto-4-1-crie-uma-classe-de-ajuda-3ce6)
+- [Adicionando um método parametrizado a Vehicle](https://dev.to/devsjavagirls/adicionando-um-metodo-parametrizado-a-vehicle-1ja5)
 <!-- BLOG-POST-LIST:END -->
 
