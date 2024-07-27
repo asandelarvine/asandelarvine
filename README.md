@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MITRE ATT&amp;CK vs. NIST CSF: A Comprehensive Guide to Cybersecurity Frameworks](https://dev.to/clouddefenseai/mitre-attck-vs-nist-csf-a-comprehensive-guide-to-cybersecurity-frameworks-4805)
-- [🔥🔥Top 10 YouTube channels for learning data science for both beginners and intermediate learners💡](https://dev.to/d_rahulsingh/top-10-youtube-channels-for-learning-data-science-for-both-beginners-and-intermediate-learners-3mh0)
-- [Effort Estimation in Software Project Management](https://dev.to/abedin022/effort-estimation-in-software-project-management-4m78)
-- [Implementing Set Using Hashing](https://dev.to/paulike/implementing-set-using-hashing-1pm7)
+- [Python virtual Environments](https://dev.to/naicigam28/python-virtual-environments-pl2)
+- [Building Your First AWS Web Server: A Beginner&#39;s Guide to Cloud Computing](https://dev.to/jesse_adu_akowuah_/building-your-first-aws-web-server-a-beginners-guide-to-cloud-computing-f11)
+- [Announcing The Launch of RefreshOS 2.0 &lpar;Boundless Beagle&rpar;](https://dev.to/jordantylerburchett/announcing-the-launch-of-refreshos-20-boundless-beagle-35eo)
+- [React forwardRef &amp; useRef | Guía para aprender a utilizarlos](https://dev.to/anjrot/react-forwardref-useref-guia-para-aprender-a-utilizarlos-4d78)
 <!-- BLOG-POST-LIST:END -->
 
