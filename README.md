@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Open Source and How Does It Work?](https://dev.to/tesseract-coding/what-is-open-source-and-how-does-it-work-4bec)
-- [Midjourney for Architecture: Is This The Future?](https://dev.to/devops_den/midjourney-for-architecture-is-this-the-future-34f5)
-- [Api Rest .Net completa com JwtToken e integração com api ViaCep utilizando padrão de arquitetura clean architecture](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-e-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-5b1n)
-- [C# Methods](https://dev.to/manzura_kerimova/c-methods-28kf)
+- [React 19: A Game-Changer for Modern Web Development](https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih)
+- [Single Table Design in AWS DynamoDB](https://dev.to/aws-builders/single-table-design-in-aws-dynamodb-ld8)
+- [Vanilla JS Effect Methods](https://dev.to/hungle00/vanilla-js-effect-methods-3pnp)
+- [Indexing and slicing](https://dev.to/kk_python/indexing-and-slicing-59b1)
 <!-- BLOG-POST-LIST:END -->
 
