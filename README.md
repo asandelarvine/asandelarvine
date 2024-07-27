@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dave: on a Journey of Personal Digital Detox](https://dev.to/smits/dave-on-a-journey-of-personal-digital-detox-3053)
-- [Revolutionize IT Inventory Management with Our Advanced Inventory System](https://dev.to/njabulo240/revolutionize-it-inventory-management-with-our-advanced-inventory-system-4jeb)
-- [Security news weekly round-up - 26th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-july-2024-470d)
-- [SVG vs AVIF](https://dev.to/msmith99994/svg-vs-avif-flc)
+- [แนวทางการใช้ Go package โดย Jaana Dogan&lpar;rakyll&rpar;](https://dev.to/pallat/aenwthaangkaaraich-go-package-ody-jaana-doganrakyll-7jc)
+- [Database design for backend engineers](https://dev.to/codewitgabi/database-design-for-backend-engineers-4pe5)
+- [Customizing Calendar with FSCalendar in SwiftUI](https://dev.to/mrasyadc/customizing-calendar-with-fscalendar-in-swiftui-20k1)
+- [Functional Programming Concepts in Kotlin](https://dev.to/kartikmehta8/functional-programming-concepts-in-kotlin-b1j)
 <!-- BLOG-POST-LIST:END -->
 
