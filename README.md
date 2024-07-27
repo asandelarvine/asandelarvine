@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Clean Code and Why it is important](https://dev.to/yashrajxdev/what-is-clean-code-and-why-it-is-important-2p5d)
-- [The Cron daemon in Linux and how to create a cron job](https://dev.to/letsbsocial1/the-cron-daemon-in-linux-and-how-to-create-a-cron-job-4n09)
-- [Easy on Humans, Hard on Bots](https://dev.to/yagocosta/recaptcha-easy-on-humans-hard-on-bots-4577)
-- [Vagrant: A Comprehensive Guide to Managing Virtual Environments](https://dev.to/bansikah/vagrant-a-comprehensive-guide-to-managing-virtual-environments-4761)
+- [🚀 Next.js Starter Update: Tailwind CSS Landing Page and Testing Enhancements 🎉](https://dev.to/imevanc/nextjs-starter-update-tailwind-css-landing-page-and-testing-enhancements-4ip1)
+- [Building in Public - 5](https://dev.to/liaob/building-in-public-5-2i3j)
+- [Jr Penetration Tester- Intro to Offensive Security](https://dev.to/yowise/jr-penetration-tester-intro-to-offensive-security-4g2d)
+- [Just For Fun](https://dev.to/mamabias/just-for-fun-29ca)
 <!-- BLOG-POST-LIST:END -->
 
