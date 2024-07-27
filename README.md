@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tomba.io Email Finder API 2024: The Ultimate Tool for Precision and Speed](https://dev.to/benemohamed/tombaio-email-finder-api-2024-the-ultimate-tool-for-precision-and-speed-4jpn)
-- [Unicode Text Converter v1.0](https://dev.to/thenanosoft/unicode-text-converter-v10-4eah)
-- [Unleashing the Potential: The Power of an Effective Software Testing Environment](https://dev.to/jhk_info/unleashing-the-potential-the-power-of-an-effective-software-testing-environment-l66)
-- [Migrating node-fetch/form-data to Node.js native APIs](https://dev.to/ueokande/migrating-node-fetchform-data-to-nodejs-native-apis-2j7h)
+- [Optional vs. Undefined: How To Check for Optional Properties](https://dev.to/zirkelc/typescript-how-to-check-for-optional-properties-3192)
+- [Why is Web Design Important for Achieving Business Goals?](https://dev.to/tesseract-coding/why-is-web-design-important-for-achieving-business-goals-7jk)
+- [Typography in Web Design: Essential Tips for Web Designers](https://dev.to/tesseract-coding/typography-in-web-design-essential-tips-for-web-designers-11fc)
+- [Hashing](https://dev.to/paulike/hashing-24jm)
 <!-- BLOG-POST-LIST:END -->
 
