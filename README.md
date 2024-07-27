@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19: A Game-Changer for Modern Web Development](https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih)
-- [Single Table Design in AWS DynamoDB](https://dev.to/aws-builders/single-table-design-in-aws-dynamodb-ld8)
-- [Vanilla JS Effect Methods](https://dev.to/hungle00/vanilla-js-effect-methods-3pnp)
-- [Indexing and slicing](https://dev.to/kk_python/indexing-and-slicing-59b1)
+- [SAAS boilerplates ERA of $$$](https://dev.to/shreyvijayvargiya/saas-boilerplates-era-of--514j)
+- [Could not find a declaration file for module framer-motion Error in Next.js 14](https://dev.to/deni_sugiarto_1a01ad7c3fb/could-not-find-a-declaration-file-for-module-framer-motion-error-in-nextjs-14-1gh5)
+- [How Linux Works: Chapter 3 Process Scheduler &lpar;Part 3&rpar;](https://dev.to/satorutakeuchi/how-linux-works-chapter-3-process-scheduler-part-3-cif)
+- [Struggling with Image Display and Undefined Variables in PHP Script — Need Help!](https://dev.to/misbagas/struggling-with-image-display-and-undefined-variables-in-php-script-need-help-54m9)
 <!-- BLOG-POST-LIST:END -->
 
