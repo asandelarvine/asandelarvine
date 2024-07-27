@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Data Handling in React with TanStack Query and TypeScript!](https://dev.to/pramahaditamaputra/simplify-data-handling-in-react-with-tanstack-query-and-typescript-19l8)
-- [Mastering Git Log: A Comprehensive Guide](https://dev.to/samarjaffri/mastering-git-log-a-comprehensive-guide-60o)
-- [Practical use of TCO And Pricing Calculator For Cost Management](https://dev.to/mabis12/practical-use-of-tco-and-pricing-calculator-for-cost-management-3715)
-- [Bikin Data Handling di React Jadi Gampang dengan TanStack Query dan TypeScript!](https://dev.to/pramahaditamaputra/bikin-data-handling-di-react-jadi-gampang-dengan-tanstack-query-dan-typescript-1n2c)
+- [Security Best Practices](https://dev.to/suhaspalani/security-best-practices-3klg)
+- [Struggling with consistent blogging? I&#39;m working on something that might help!](https://dev.to/mingi3314/struggling-with-consistent-blogging-im-working-on-something-that-might-help-2b30)
+- [Streamline Workflows with AgentKit: Visual Graph-Based Flow Engineering](https://dev.to/mikeyoung44/streamline-workflows-with-agentkit-visual-graph-based-flow-engineering-2fa1)
+- [Diffree: Seamless Text-Guided Object Inpainting with Diffusion Models](https://dev.to/mikeyoung44/diffree-seamless-text-guided-object-inpainting-with-diffusion-models-dkj)
 <!-- BLOG-POST-LIST:END -->
 
