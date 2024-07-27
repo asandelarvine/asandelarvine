@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Theory - Part 6 : BEM, The Secret Formula for Mastering CSS Organization and Clarity](https://dev.to/teclearn/web-theory-part-6-bem-the-secret-formula-for-mastering-css-organization-and-clarity-5f49)
-- [The visualization and analysis of git commit statistics for IT team leaders.](https://dev.to/responsivecrocodile/the-visualization-and-analysis-of-git-commit-statistics-for-it-team-leaders-2pof)
-- [Kubernetes CIS Benchmarking Tool : Day 17 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/monitoring-kubernetes-cis-benchmarking-tool-day-17-of-50-days-devops-tools-series-46l1)
-- [Setting Up the PHP Environment](https://dev.to/servbay/setting-up-the-php-environment-4g4b)
+- [First Batch of LPW 2024 Talks Accepted](https://dev.to/leejo/first-batch-of-lpw-2024-talks-accepted-amk)
+- [10 Projects to master Frontend &amp; Web Development](https://dev.to/bigsondev/10-projects-to-master-frontend-web-development-acm)
+- [Custom error handling in a REST API using TypeScript, Express.js, Joi validation, and object-oriented programming](https://dev.to/luizcalaca/custom-error-handling-in-a-rest-api-using-typescript-expressjs-joi-validation-and-object-oriented-programming-3p5m)
+- [A Final Step, Connect Database And The Seeder &lpar;Part 3&rpar;](https://dev.to/sheenazien8/building-a-simple-golang-boilerplate-a-step-by-step-guide-part-3-2hmn)
 <!-- BLOG-POST-LIST:END -->
 
