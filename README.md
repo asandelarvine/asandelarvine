@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Four Pillars of OOP in JavaScript](https://dev.to/homayunmmdy/the-four-pillars-of-oop-in-javascript-2k36)
-- [Unlocking the Potential of Cloudflare Workers for Small Projects](https://dev.to/00geekinside00/unlocking-the-potential-of-cloudflare-workers-for-small-projects-45d0)
-- [How to migrate to modular Firebase SDK: A quick guide](https://dev.to/patricklusaya/how-to-migrate-to-modular-firebase-sdk-a-quick-guide-10ac)
-- [🌇 China community day: excellent way to build a community with 1000+ members! 🎉](https://dev.to/aws-builders/china-community-day-excellent-way-to-build-a-community-with-1000-members-3fj7)
+- [Web Theory - Part 6 : BEM, The Secret Formula for Mastering CSS Organization and Clarity](https://dev.to/teclearn/web-theory-part-6-bem-the-secret-formula-for-mastering-css-organization-and-clarity-5f49)
+- [The visualization and analysis of git commit statistics for IT team leaders.](https://dev.to/responsivecrocodile/the-visualization-and-analysis-of-git-commit-statistics-for-it-team-leaders-2pof)
+- [Kubernetes CIS Benchmarking Tool : Day 17 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/monitoring-kubernetes-cis-benchmarking-tool-day-17-of-50-days-devops-tools-series-46l1)
+- [Setting Up the PHP Environment](https://dev.to/servbay/setting-up-the-php-environment-4g4b)
 <!-- BLOG-POST-LIST:END -->
 
