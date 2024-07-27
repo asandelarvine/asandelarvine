@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optional vs. Undefined: How To Check for Optional Properties](https://dev.to/zirkelc/typescript-how-to-check-for-optional-properties-3192)
-- [Why is Web Design Important for Achieving Business Goals?](https://dev.to/tesseract-coding/why-is-web-design-important-for-achieving-business-goals-7jk)
-- [Typography in Web Design: Essential Tips for Web Designers](https://dev.to/tesseract-coding/typography-in-web-design-essential-tips-for-web-designers-11fc)
-- [Hashing](https://dev.to/paulike/hashing-24jm)
+- [Rooma Dev](https://dev.to/rooma_dev/rooma-dev-4hh0)
+- [Unlocking JavaScript: Logical OR &lpar;||&rpar; vs Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/itsshaikhaj/unlocking-javascript-logical-or-vs-nullish-coalescing-operator--21hb)
+- [THE USE TOTAL COST OF OWNERSHIP&lpar;TCO&rpar; AND PRICING CALCULATOR FOR COST MANAGMENT](https://dev.to/monnanka/the-use-total-cost-of-ownershiptco-and-pricing-calculator-for-cost-managment-3g0n)
+- [Wireframe, Figma, and Javascript](https://dev.to/dongdiri96/wireframe-figma-and-javascript-47l5)
 <!-- BLOG-POST-LIST:END -->
 
