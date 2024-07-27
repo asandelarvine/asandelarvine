@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [แนวทางการใช้ Go package โดย Jaana Dogan&lpar;rakyll&rpar;](https://dev.to/pallat/aenwthaangkaaraich-go-package-ody-jaana-doganrakyll-7jc)
-- [Database design for backend engineers](https://dev.to/codewitgabi/database-design-for-backend-engineers-4pe5)
-- [Customizing Calendar with FSCalendar in SwiftUI](https://dev.to/mrasyadc/customizing-calendar-with-fscalendar-in-swiftui-20k1)
-- [Functional Programming Concepts in Kotlin](https://dev.to/kartikmehta8/functional-programming-concepts-in-kotlin-b1j)
+- [What is Open Source and How Does It Work?](https://dev.to/tesseract-coding/what-is-open-source-and-how-does-it-work-4bec)
+- [Midjourney for Architecture: Is This The Future?](https://dev.to/devops_den/midjourney-for-architecture-is-this-the-future-34f5)
+- [Api Rest .Net completa com JwtToken e integração com api ViaCep utilizando padrão de arquitetura clean architecture](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-e-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-5b1n)
+- [C# Methods](https://dev.to/manzura_kerimova/c-methods-28kf)
 <!-- BLOG-POST-LIST:END -->
 
