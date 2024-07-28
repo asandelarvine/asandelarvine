@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Documentation With Swagger And Redoc - FastAPI Beyond CRUD &lpar;Part 21&rpar;](https://dev.to/jod35/api-documentation-with-swagger-and-redoc-fastapi-beyond-crud-part-21-1jo0)
-- [Cómo desplegar y verificar un contrato inteligente en la blockchain de Mode usando Foundry](https://dev.to/wispydevrel/como-desplegar-y-verificar-un-contrato-inteligente-en-la-blockchain-de-mode-usando-foundry-4n88)
-- [Mastering Test Methodologies: Exploring Types, Tools, and the Test Pyramid in Software Development](https://dev.to/moustafajarjour/mastering-test-methodologies-exploring-types-tools-and-the-test-pyramid-in-software-development-48i4)
-- [Building a Custom Reverse Geocoding Resource for .Net Aspire](https://dev.to/syamaner/building-a-custom-reverse-geocoding-resource-for-net-aspire-2n9o)
+- [Finding Work as a Self-Taught Web Developer in 2024](https://dev.to/theallegrarr/finding-work-as-a-self-taught-web-developer-in-2024-27am)
+- [Starting from Scratch: My Web Development Journey](https://dev.to/saumya_singh18/starting-from-scratch-my-web-development-journey-ff9)
+- [&quot;Unlocking the Code: My Web Development Adventure Begins](https://dev.to/chitransh_he/unlocking-the-code-my-web-development-adventure-begins-161)
+- [Basic Git commands](https://dev.to/apk_leo0/basic-git-commands-3ibd)
 <!-- BLOG-POST-LIST:END -->
 
