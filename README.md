@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python - Assignment Operators](https://dev.to/rudth/python-assignment-operators-3cbj)
-- [Framer Motion + React: A Complete Beginner&#39;s Guide 2024](https://dev.to/iamfaham/framer-motion-react-a-complete-beginners-guide-2024-30e2)
-- [Web Development: Rust🦀 vs Go🦫 vs Python🐍](https://dev.to/mondal_sabbha/web-development-rust-vs-go-vs-python-2l3c)
-- [The script command in Linux and Unix &lpar;macOS&rpar;](https://dev.to/letsbsocial1/the-script-command-in-linux-and-unix-macos-bp1)
+- [I tried the Apple Vision Pro as a Developer](https://dev.to/adriantwarog/i-tried-the-apple-vision-pro-as-a-developer-3do6)
+- [Patching in Oracle DB - I](https://dev.to/technonotes/patching-in-oracle-db-i-371o)
+- [Getting Started with LINQ in C# &lpar;1/3&rpar;](https://dev.to/mirzaleka/getting-started-with-linq-in-c-13-210o)
+- [Vue 3 Auto Routing By File Structure](https://dev.to/jenueldev/vue-3-auto-routing-by-file-structure-2hac)
 <!-- BLOG-POST-LIST:END -->
 
