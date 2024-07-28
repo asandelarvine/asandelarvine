@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend developer guidance](https://dev.to/rudra45/backend-developer-guidance-241i)
-- [What does if __name__ =&#39;__main__&#39; do in Python?](https://dev.to/kaustubh_upadhyay_/what-does-if-name-main-do-in-python-40hm)
-- [Maintain the proper naming convention and tagging for resources throughout development](https://dev.to/binoy_59380e698d318/maintain-the-proper-naming-convention-and-tagging-for-resources-throughout-development-3bl1)
-- [Chat Server in Ruby Sockets](https://dev.to/faxriddinmaxmadiyorov/sockets-in-ruby-36c5)
+- [CrowdStrike is overhauling their QA process](https://dev.to/qacomet/crowdstrike-is-overhauling-their-qa-process-1oh)
+- [Auth with JWT+Cookie](https://dev.to/jay818/auth-with-jwtcookie-10hc)
+- [40 Days Of Kubernetes &lpar;23/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-2340-559o)
+- [Introducing UltraAI.app — All-in-one AI command center for your product.](https://dev.to/ultraai/introducing-ultraaiapp-all-in-one-ai-command-center-for-your-product-4005)
 <!-- BLOG-POST-LIST:END -->
 
