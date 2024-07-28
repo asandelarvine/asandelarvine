@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JSON Web Tokens &lpar;JWT&rpar; for Secure Information Sharing](https://dev.to/vyan/understanding-json-web-tokens-jwt-for-secure-information-sharing-5c3a)
-- [Automating TypeScript @types Package Management with typesync](https://dev.to/yamadashy/automating-typescript-types-package-management-with-typesync-31n0)
-- [Oversimplified Golang Channel!](https://dev.to/ashsajal/oversimplified-golang-channel-2e42)
-- [Create Custom Radio Buttons with CSS Animation](https://dev.to/labex/create-custom-radio-buttons-with-css-animation-mpn)
+- [First Blog](https://dev.to/rachitsinghh/first-blog-4kdn)
+- [How to debug your Python mocks or imports](https://dev.to/funtimes/how-to-debug-your-python-mocks-or-imports-2o75)
+- [PHP crash course: PHP MYSQL QUIZ APP](https://dev.to/mdarifulhaque/php-crash-course-php-mysql-quiz-app-io)
+- [Solve Product of Array Except Self Problem in 4 Easy Steps](https://dev.to/rk042/solve-product-of-array-except-self-problem-in-4-easy-steps-2mfp)
 <!-- BLOG-POST-LIST:END -->
 
