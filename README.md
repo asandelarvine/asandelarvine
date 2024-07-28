@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First Blog](https://dev.to/rachitsinghh/first-blog-4kdn)
-- [How to debug your Python mocks or imports](https://dev.to/funtimes/how-to-debug-your-python-mocks-or-imports-2o75)
-- [PHP crash course: PHP MYSQL QUIZ APP](https://dev.to/mdarifulhaque/php-crash-course-php-mysql-quiz-app-io)
-- [Solve Product of Array Except Self Problem in 4 Easy Steps](https://dev.to/rk042/solve-product-of-array-except-self-problem-in-4-easy-steps-2mfp)
+- [TypeScript Generics: Building Flexible and Reusable Components](https://dev.to/nahidulislam/typescript-generics-building-flexible-and-reusable-components-4743)
+- [Mastering Fragments in Java for Android Development](https://dev.to/ankittmeena/mastering-fragments-in-java-for-android-development-1ach)
+- [Transform Your Cloud Skills: A Hands-On Guide to Building a Serverless Resume Application](https://dev.to/zablonoigo/transform-your-cloud-skills-a-hands-on-guide-to-building-a-serverless-resume-application-4i7d)
+- [Differences and Usage of as const and Readonly in TypeScript](https://dev.to/tommykw/differences-and-usage-of-as-const-and-readonly-in-typescript-4bkb)
 <!-- BLOG-POST-LIST:END -->
 
