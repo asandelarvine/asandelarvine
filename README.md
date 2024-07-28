@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 90-92] I made a shell script to build me a world cup database](https://dev.to/thomascansino/day-90-92-i-made-a-shell-script-to-build-me-a-world-cup-database-inf)
-- [FAV0周刊009期--产品体验与盈利的权衡](https://dev.to/justin3go/fav0zhou-kan-009qi-chan-pin-ti-yan-yu-ying-li-de-quan-heng-5feg)
-- [FAV0 Weekly Issue 009 -- Balancing Product Experience and Profitability](https://dev.to/justin3go/fav0-weekly-issue-009-balancing-product-experience-and-profitability-8d6)
-- [Top 5 online mentorship platforms for technical writers](https://dev.to/hackmamba/top-5-online-mentorship-platforms-for-technical-writers-3gok)
+- [Remote Workers, Beware: 5 Cybersecurity Pitfalls That Could Ruin Your Job &lpar;And How to Avoid Them!&rpar;](https://dev.to/verifyvault/remote-workers-beware-5-cybersecurity-pitfalls-that-could-ruin-your-job-and-how-to-avoid-them-550h)
+- [A Voyage through Algorithms using Javascript - Bubble Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-bubble-sort-1enh)
+- [Full Introduction to Golang with Test-Driven Development. Part I](https://dev.to/kovalevsky/full-introduction-to-golang-with-test-driven-development-part-i-12ni)
+- [Serverless Security - Cognito Misconfigurations](https://dev.to/makit/serverless-security-cognito-misconfigurations-1co0)
 <!-- BLOG-POST-LIST:END -->
 
