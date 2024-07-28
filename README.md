@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CrowdStrike is overhauling their QA process](https://dev.to/qacomet/crowdstrike-is-overhauling-their-qa-process-1oh)
-- [Auth with JWT+Cookie](https://dev.to/jay818/auth-with-jwtcookie-10hc)
-- [40 Days Of Kubernetes &lpar;23/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-2340-559o)
-- [Introducing UltraAI.app — All-in-one AI command center for your product.](https://dev.to/ultraai/introducing-ultraaiapp-all-in-one-ai-command-center-for-your-product-4005)
+- [10 Livros de Python que vale à pena você ler](https://dev.to/marcosplusplus/10-livros-de-python-que-vale-a-pena-voce-ler-1p7m)
+- [🤖Dueling AIs: Questioning and Answering with Language Models🚀](https://dev.to/llmware/dueling-ais-questioning-and-answering-with-language-models-5f0l)
+- [Create an e-commerce backend API using Node.js&lpar;TypeScript&rpar; and MongoDB](https://dev.to/theprogrammer/create-an-e-commerce-backend-api-using-nodejstypescript-and-mongodb-4lc4)
+- [Connecting to APIs with Python: Synchronous and Asynchronous Approaches](https://dev.to/koladev/connecting-to-apis-with-python-synchronous-and-asynchronous-approaches-5emf)
 <!-- BLOG-POST-LIST:END -->
 
