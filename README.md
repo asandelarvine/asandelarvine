@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[CYBERSECURITY] Tendência Passwordless](https://dev.to/womakerscode/cybersecurity-tendencia-passwordless-1gji)
+- [Day 4: Understanding Linked Lists 🔗](https://dev.to/dipakahirav/day-4-understanding-linked-lists-o26)
+- [How many widgets does flutter have?](https://dev.to/aadarshk7/how-many-widgets-does-flutter-have-3m1a)
 - [top 5 tools](https://dev.to/md_antor_1c69533080e08a51/top-5-tools-1hej)
-- [Emulating USB Protocol over BLE for Data Transfer](https://dev.to/jusgoose/emulating-usb-protocol-over-ble-for-data-transfer-2hn3)
-- [Understanding System Modelling and Design with UML: A Practical Guide](https://dev.to/shahtanya/understanding-system-modelling-and-design-with-uml-a-practical-guide-3mfp)
-- [Day 2: Exploring the Azure Portal - Your Gateway to Cloud Management](https://dev.to/dipakahirav/day-2-exploring-the-azure-portal-your-gateway-to-cloud-management-4k1g)
 <!-- BLOG-POST-LIST:END -->
 
