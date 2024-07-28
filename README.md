@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried the Apple Vision Pro as a Developer](https://dev.to/adriantwarog/i-tried-the-apple-vision-pro-as-a-developer-3do6)
-- [Patching in Oracle DB - I](https://dev.to/technonotes/patching-in-oracle-db-i-371o)
-- [Getting Started with LINQ in C# &lpar;1/3&rpar;](https://dev.to/mirzaleka/getting-started-with-linq-in-c-13-210o)
-- [Vue 3 Auto Routing By File Structure](https://dev.to/jenueldev/vue-3-auto-routing-by-file-structure-2hac)
+- [Easily Register SSL certificates on AWS with Route 53 and AWS Certificate Manager](https://dev.to/aws-builders/easily-register-ssl-certificates-on-aws-with-route-53-and-aws-certificate-manager-24j1)
+- [Redux with React: A Friendly Guide for Beginners](https://dev.to/sarveshk76/redux-with-react-a-friendly-guide-for-beginners-3n2n)
+- [5 sites to check website accessibility](https://dev.to/axorax/5-sites-to-check-website-accessibility-21l6)
+- [Refactoring](https://dev.to/framemuse/refactoring-4ln4)
 <!-- BLOG-POST-LIST:END -->
 
