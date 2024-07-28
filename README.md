@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Web Scraping Techniques](https://dev.to/kartikmehta8/advanced-web-scraping-techniques-4bh1)
-- [Fanin Pattern in Go](https://dev.to/johnscode/fanin-pattern-in-go-5e5d)
-- [Emails Setup in Django Using AWS](https://dev.to/yokwejuste/emails-setup-in-django-using-aws-o1e)
-- [Keyper by Jarrid: Introduce Integrated Key + Role Management](https://dev.to/jarrid-xyz/keyper-by-jarrid-introduce-integrated-key-role-management-l67)
+- [top 5 tools](https://dev.to/md_antor_1c69533080e08a51/top-5-tools-1hej)
+- [Emulating USB Protocol over BLE for Data Transfer](https://dev.to/jusgoose/emulating-usb-protocol-over-ble-for-data-transfer-2hn3)
+- [Understanding System Modelling and Design with UML: A Practical Guide](https://dev.to/shahtanya/understanding-system-modelling-and-design-with-uml-a-practical-guide-3mfp)
+- [Day 2: Exploring the Azure Portal - Your Gateway to Cloud Management](https://dev.to/dipakahirav/day-2-exploring-the-azure-portal-your-gateway-to-cloud-management-4k1g)
 <!-- BLOG-POST-LIST:END -->
 
