@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Register SSL certificates on AWS with Route 53 and AWS Certificate Manager](https://dev.to/aws-builders/easily-register-ssl-certificates-on-aws-with-route-53-and-aws-certificate-manager-24j1)
-- [Redux with React: A Friendly Guide for Beginners](https://dev.to/sarveshk76/redux-with-react-a-friendly-guide-for-beginners-3n2n)
-- [5 sites to check website accessibility](https://dev.to/axorax/5-sites-to-check-website-accessibility-21l6)
-- [Refactoring](https://dev.to/framemuse/refactoring-4ln4)
+- [Project Africa - NGO Landing page](https://dev.to/paul_freeman/project-africa-ngo-landing-page-3lcb)
+- [How to create a global package using Node.js](https://dev.to/avinash_tare/how-to-create-a-global-package-using-nodejs-2j10)
+- [O início da jornada em Java](https://dev.to/lnabesima/o-inicio-da-jornada-em-java-1fkh)
+- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep32: Fully functional inventory system](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep32-fully-functional-inventory-system-4572)
 <!-- BLOG-POST-LIST:END -->
 
