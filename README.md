@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Workers, Beware: 5 Cybersecurity Pitfalls That Could Ruin Your Job &lpar;And How to Avoid Them!&rpar;](https://dev.to/verifyvault/remote-workers-beware-5-cybersecurity-pitfalls-that-could-ruin-your-job-and-how-to-avoid-them-550h)
-- [A Voyage through Algorithms using Javascript - Bubble Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-bubble-sort-1enh)
-- [Full Introduction to Golang with Test-Driven Development. Part I](https://dev.to/kovalevsky/full-introduction-to-golang-with-test-driven-development-part-i-12ni)
-- [Serverless Security - Cognito Misconfigurations](https://dev.to/makit/serverless-security-cognito-misconfigurations-1co0)
+- [Getting Started with Embedded System Development: A Beginner&#39;s Guide](https://dev.to/adityapandey0502/getting-started-with-embedded-system-development-a-beginners-guide-52gn)
+- [**Day 0: Introduction to My 30-Day DevOps Journey**](https://dev.to/singh_in_cloud/day-0-introduction-to-my-30-day-devops-journey-3ho7)
+- [Become a Tech Leader: Join the Microsoft Learn Student Ambassador Program!](https://dev.to/mahrukh_adeel/become-a-tech-leader-join-the-microsoft-learn-student-ambassador-program-1f3c)
+- [Indeterminacy of the `mime` Package in Go: Trust But Verify](https://dev.to/panic_err/indeterminacy-of-the-mime-package-in-go-trust-but-verify-1lg5)
 <!-- BLOG-POST-LIST:END -->
 
