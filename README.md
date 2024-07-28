@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Next.js Starter Update: Tailwind CSS Landing Page and Testing Enhancements 🎉](https://dev.to/imevanc/nextjs-starter-update-tailwind-css-landing-page-and-testing-enhancements-4ip1)
-- [Building in Public - 5](https://dev.to/liaob/building-in-public-5-2i3j)
-- [Jr Penetration Tester- Intro to Offensive Security](https://dev.to/yowise/jr-penetration-tester-intro-to-offensive-security-4g2d)
-- [Just For Fun](https://dev.to/mamabias/just-for-fun-29ca)
+- [Advanced Web Scraping Techniques](https://dev.to/kartikmehta8/advanced-web-scraping-techniques-4bh1)
+- [Fanin Pattern in Go](https://dev.to/johnscode/fanin-pattern-in-go-5e5d)
+- [Emails Setup in Django Using AWS](https://dev.to/yokwejuste/emails-setup-in-django-using-aws-o1e)
+- [Keyper by Jarrid: Introduce Integrated Key + Role Management](https://dev.to/jarrid-xyz/keyper-by-jarrid-introduce-integrated-key-role-management-l67)
 <!-- BLOG-POST-LIST:END -->
 
