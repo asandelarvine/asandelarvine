@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Embedded System Development: A Beginner&#39;s Guide](https://dev.to/adityapandey0502/getting-started-with-embedded-system-development-a-beginners-guide-52gn)
-- [**Day 0: Introduction to My 30-Day DevOps Journey**](https://dev.to/singh_in_cloud/day-0-introduction-to-my-30-day-devops-journey-3ho7)
-- [Become a Tech Leader: Join the Microsoft Learn Student Ambassador Program!](https://dev.to/mahrukh_adeel/become-a-tech-leader-join-the-microsoft-learn-student-ambassador-program-1f3c)
-- [Indeterminacy of the `mime` Package in Go: Trust But Verify](https://dev.to/panic_err/indeterminacy-of-the-mime-package-in-go-trust-but-verify-1lg5)
+- [We Chose Meilisearch Over 10+ Other Search Engines Despite a Major Drawback](https://dev.to/lincemathew/we-chose-meilisearch-over-10-other-search-engines-despite-a-major-drawback-7g8)
+- [🤖 100 Days of Generative AI - Day 3 - Attention Is All You Need 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-3-attention-is-all-you-need-3ioo)
+- [Talk to My Document: A Serverless RAG approach using Huggingface, Amazon Lex and Amazon DynamoDB](https://dev.to/amlana24/talk-to-my-document-a-serverless-rag-approach-using-huggingface-amazon-lex-and-amazon-dynamodb-2jm1)
+- [looking for an entry point into IT](https://dev.to/torajuro/looking-for-an-entry-point-into-it-1c9p)
 <!-- BLOG-POST-LIST:END -->
 
