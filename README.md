@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Chose Meilisearch Over 10+ Other Search Engines Despite a Major Drawback](https://dev.to/lincemathew/we-chose-meilisearch-over-10-other-search-engines-despite-a-major-drawback-7g8)
-- [🤖 100 Days of Generative AI - Day 3 - Attention Is All You Need 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-3-attention-is-all-you-need-3ioo)
-- [Talk to My Document: A Serverless RAG approach using Huggingface, Amazon Lex and Amazon DynamoDB](https://dev.to/amlana24/talk-to-my-document-a-serverless-rag-approach-using-huggingface-amazon-lex-and-amazon-dynamodb-2jm1)
-- [looking for an entry point into IT](https://dev.to/torajuro/looking-for-an-entry-point-into-it-1c9p)
+- [Backend developer guidance](https://dev.to/rudra45/backend-developer-guidance-241i)
+- [What does if __name__ =&#39;__main__&#39; do in Python?](https://dev.to/kaustubh_upadhyay_/what-does-if-name-main-do-in-python-40hm)
+- [Maintain the proper naming convention and tagging for resources throughout development](https://dev.to/binoy_59380e698d318/maintain-the-proper-naming-convention-and-tagging-for-resources-throughout-development-3bl1)
+- [Chat Server in Ruby Sockets](https://dev.to/faxriddinmaxmadiyorov/sockets-in-ruby-36c5)
 <!-- BLOG-POST-LIST:END -->
 
