@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The simplest explanation I have seen for Closures in JS &lpar;Credits : roadmap.sh&rpar;](https://dev.to/justanordinaryperson/the-simplest-explanation-i-have-seen-for-closures-in-js-credits-roadmapsh-1agc)
-- [LeetCode Meditations: Decode Ways](https://dev.to/rivea0/leetcode-meditations-decode-ways-6d5)
-- [How to Publish an npm Package](https://dev.to/avinash_tare/how-to-publish-an-npm-package-2hk1)
-- [Joyruns](https://dev.to/oleksandr_veremeyenko_1c0/joyruns-5d0g)
+- [[DAY 90-92] I made a shell script to build me a world cup database](https://dev.to/thomascansino/day-90-92-i-made-a-shell-script-to-build-me-a-world-cup-database-inf)
+- [FAV0周刊009期--产品体验与盈利的权衡](https://dev.to/justin3go/fav0zhou-kan-009qi-chan-pin-ti-yan-yu-ying-li-de-quan-heng-5feg)
+- [FAV0 Weekly Issue 009 -- Balancing Product Experience and Profitability](https://dev.to/justin3go/fav0-weekly-issue-009-balancing-product-experience-and-profitability-8d6)
+- [Top 5 online mentorship platforms for technical writers](https://dev.to/hackmamba/top-5-online-mentorship-platforms-for-technical-writers-3gok)
 <!-- BLOG-POST-LIST:END -->
 
