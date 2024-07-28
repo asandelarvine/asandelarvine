@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Generics: Building Flexible and Reusable Components](https://dev.to/nahidulislam/typescript-generics-building-flexible-and-reusable-components-4743)
-- [Mastering Fragments in Java for Android Development](https://dev.to/ankittmeena/mastering-fragments-in-java-for-android-development-1ach)
-- [Transform Your Cloud Skills: A Hands-On Guide to Building a Serverless Resume Application](https://dev.to/zablonoigo/transform-your-cloud-skills-a-hands-on-guide-to-building-a-serverless-resume-application-4i7d)
-- [Differences and Usage of as const and Readonly in TypeScript](https://dev.to/tommykw/differences-and-usage-of-as-const-and-readonly-in-typescript-4bkb)
+- [Day 27 of 100 Days of Code](https://dev.to/jacobsternx/day-27-of-100-days-of-code-5di2)
+- [🐳 Docker Commands: From Beginner to Advanced for DevOps Engineers](https://dev.to/prodevopsguytech/docker-commands-from-beginner-to-advanced-for-devops-engineers-bb3)
+- [Multimodal AI Models More Vulnerable to Contiguous Adversarial Pixel Perturbations: Empirical Study](https://dev.to/mikeyoung44/multimodal-ai-models-more-vulnerable-to-contiguous-adversarial-pixel-perturbations-empirical-study-mnn)
+- [Teaching Language Models to Self-Improve: The Recursive Introspection Approach](https://dev.to/mikeyoung44/teaching-language-models-to-self-improve-the-recursive-introspection-approach-5edc)
 <!-- BLOG-POST-LIST:END -->
 
