@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Painful Analyse Log ? Your Approach Might Be Wrong](https://dev.to/compilelife/painful-analyse-log-your-approach-might-be-wrong-58b0)
-- [Automate Your Tasks: Creating Bots using Selenium IDE](https://dev.to/ateekist/automate-your-tasks-creating-bots-using-selenium-ide-53af)
-- [The Hidden Dangers of The Hidden Dangers of Shallow Copying in JavaScript: Lessons from API Response Handling](https://dev.to/akshatsoni26/the-hidden-dangers-of-the-hidden-dangers-of-shallow-copying-in-javascript-lessons-from-api-response-handling-1cp1)
-- [IntersectionObserver API,检测元素是否进入或离开视口](https://dev.to/dennischeung/intersectionobserver-apijian-ce-yuan-su-shi-fou-jin-ru-huo-chi-kai-shi-kou-2f2k)
+- [Python - Assignment Operators](https://dev.to/rudth/python-assignment-operators-3cbj)
+- [Framer Motion + React: A Complete Beginner&#39;s Guide 2024](https://dev.to/iamfaham/framer-motion-react-a-complete-beginners-guide-2024-30e2)
+- [Web Development: Rust🦀 vs Go🦫 vs Python🐍](https://dev.to/mondal_sabbha/web-development-rust-vs-go-vs-python-2l3c)
+- [The script command in Linux and Unix &lpar;macOS&rpar;](https://dev.to/letsbsocial1/the-script-command-in-linux-and-unix-macos-bp1)
 <!-- BLOG-POST-LIST:END -->
 
