@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DBOS-Cloud: Minimal Effort Change Data Capture &lpar;CDC&rpar; Tool](https://dev.to/vince_hirefunnel_co/dbos-cloud-minimal-effort-change-data-capture-cdc-tool-4c0d)
-- [System Design Basics - Load Balancing Algorithms](https://dev.to/somadevtoo/system-design-basics-load-balancing-algorithms-2559)
-- [How the Recomendation System Works...](https://dev.to/krishnaa192/how-the-recomendation-system-works-o97)
-- [let, var or const, what&#39;s the difference?](https://dev.to/marlonmunoz/let-var-or-const-whats-the-difference-33ll)
+- [Painful Analyse Log ? Your Approach Might Be Wrong](https://dev.to/compilelife/painful-analyse-log-your-approach-might-be-wrong-58b0)
+- [Automate Your Tasks: Creating Bots using Selenium IDE](https://dev.to/ateekist/automate-your-tasks-creating-bots-using-selenium-ide-53af)
+- [The Hidden Dangers of The Hidden Dangers of Shallow Copying in JavaScript: Lessons from API Response Handling](https://dev.to/akshatsoni26/the-hidden-dangers-of-the-hidden-dangers-of-shallow-copying-in-javascript-lessons-from-api-response-handling-1cp1)
+- [IntersectionObserver API,检测元素是否进入或离开视口](https://dev.to/dennischeung/intersectionobserver-apijian-ce-yuan-su-shi-fou-jin-ru-huo-chi-kai-shi-kou-2f2k)
 <!-- BLOG-POST-LIST:END -->
 
