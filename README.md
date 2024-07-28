@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 27 of 100 Days of Code](https://dev.to/jacobsternx/day-27-of-100-days-of-code-5di2)
-- [🐳 Docker Commands: From Beginner to Advanced for DevOps Engineers](https://dev.to/prodevopsguytech/docker-commands-from-beginner-to-advanced-for-devops-engineers-bb3)
-- [Multimodal AI Models More Vulnerable to Contiguous Adversarial Pixel Perturbations: Empirical Study](https://dev.to/mikeyoung44/multimodal-ai-models-more-vulnerable-to-contiguous-adversarial-pixel-perturbations-empirical-study-mnn)
-- [Teaching Language Models to Self-Improve: The Recursive Introspection Approach](https://dev.to/mikeyoung44/teaching-language-models-to-self-improve-the-recursive-introspection-approach-5edc)
+- [DBOS-Cloud: Minimal Effort Change Data Capture &lpar;CDC&rpar; Tool](https://dev.to/vince_hirefunnel_co/dbos-cloud-minimal-effort-change-data-capture-cdc-tool-4c0d)
+- [System Design Basics - Load Balancing Algorithms](https://dev.to/somadevtoo/system-design-basics-load-balancing-algorithms-2559)
+- [How the Recomendation System Works...](https://dev.to/krishnaa192/how-the-recomendation-system-works-o97)
+- [let, var or const, what&#39;s the difference?](https://dev.to/marlonmunoz/let-var-or-const-whats-the-difference-33ll)
 <!-- BLOG-POST-LIST:END -->
 
