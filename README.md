@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Africa - NGO Landing page](https://dev.to/paul_freeman/project-africa-ngo-landing-page-3lcb)
-- [How to create a global package using Node.js](https://dev.to/avinash_tare/how-to-create-a-global-package-using-nodejs-2j10)
-- [O início da jornada em Java](https://dev.to/lnabesima/o-inicio-da-jornada-em-java-1fkh)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep32: Fully functional inventory system](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep32-fully-functional-inventory-system-4572)
+- [The simplest explanation I have seen for Closures in JS &lpar;Credits : roadmap.sh&rpar;](https://dev.to/justanordinaryperson/the-simplest-explanation-i-have-seen-for-closures-in-js-credits-roadmapsh-1agc)
+- [LeetCode Meditations: Decode Ways](https://dev.to/rivea0/leetcode-meditations-decode-ways-6d5)
+- [How to Publish an npm Package](https://dev.to/avinash_tare/how-to-publish-an-npm-package-2hk1)
+- [Joyruns](https://dev.to/oleksandr_veremeyenko_1c0/joyruns-5d0g)
 <!-- BLOG-POST-LIST:END -->
 
