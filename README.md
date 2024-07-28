@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[CYBERSECURITY] Tendência Passwordless](https://dev.to/womakerscode/cybersecurity-tendencia-passwordless-1gji)
-- [Day 4: Understanding Linked Lists 🔗](https://dev.to/dipakahirav/day-4-understanding-linked-lists-o26)
-- [How many widgets does flutter have?](https://dev.to/aadarshk7/how-many-widgets-does-flutter-have-3m1a)
-- [top 5 tools](https://dev.to/md_antor_1c69533080e08a51/top-5-tools-1hej)
+- [Understanding JSON Web Tokens &lpar;JWT&rpar; for Secure Information Sharing](https://dev.to/vyan/understanding-json-web-tokens-jwt-for-secure-information-sharing-5c3a)
+- [Automating TypeScript @types Package Management with typesync](https://dev.to/yamadashy/automating-typescript-types-package-management-with-typesync-31n0)
+- [Oversimplified Golang Channel!](https://dev.to/ashsajal/oversimplified-golang-channel-2e42)
+- [Create Custom Radio Buttons with CSS Animation](https://dev.to/labex/create-custom-radio-buttons-with-css-animation-mpn)
 <!-- BLOG-POST-LIST:END -->
 
