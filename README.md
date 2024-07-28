@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Livros de Python que vale à pena você ler](https://dev.to/marcosplusplus/10-livros-de-python-que-vale-a-pena-voce-ler-1p7m)
-- [🤖Dueling AIs: Questioning and Answering with Language Models🚀](https://dev.to/llmware/dueling-ais-questioning-and-answering-with-language-models-5f0l)
-- [Create an e-commerce backend API using Node.js&lpar;TypeScript&rpar; and MongoDB](https://dev.to/theprogrammer/create-an-e-commerce-backend-api-using-nodejstypescript-and-mongodb-4lc4)
-- [Connecting to APIs with Python: Synchronous and Asynchronous Approaches](https://dev.to/koladev/connecting-to-apis-with-python-synchronous-and-asynchronous-approaches-5emf)
+- [API Documentation With Swagger And Redoc - FastAPI Beyond CRUD &lpar;Part 21&rpar;](https://dev.to/jod35/api-documentation-with-swagger-and-redoc-fastapi-beyond-crud-part-21-1jo0)
+- [Cómo desplegar y verificar un contrato inteligente en la blockchain de Mode usando Foundry](https://dev.to/wispydevrel/como-desplegar-y-verificar-un-contrato-inteligente-en-la-blockchain-de-mode-usando-foundry-4n88)
+- [Mastering Test Methodologies: Exploring Types, Tools, and the Test Pyramid in Software Development](https://dev.to/moustafajarjour/mastering-test-methodologies-exploring-types-tools-and-the-test-pyramid-in-software-development-48i4)
+- [Building a Custom Reverse Geocoding Resource for .Net Aspire](https://dev.to/syamaner/building-a-custom-reverse-geocoding-resource-for-net-aspire-2n9o)
 <!-- BLOG-POST-LIST:END -->
 
