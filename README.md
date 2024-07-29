@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Key Benefits of Collaboration and Teamwork](https://dev.to/bryany/10-key-benefits-of-collaboration-and-teamwork-2fcd)
-- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-37bj)
-- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-3nci)
-- [Princípios SOLID em GoLang - Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-liskov-substitution-principle-lsp-4a1)
+- [Svelte Series-7: The Syntax $](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-7-the-syntax--37ef)
+- [On asking questions while mentoring](https://dev.to/mariorobles93/on-asking-questions-while-mentoring-45oj)
+- [jQuery&#39;s Role in Modern Web Development: Beginnings, 2024, and Beyond](https://dev.to/wendyver/jquerys-role-in-modern-web-development-beginnings-2024-and-beyond-1223)
+- [Mastering Elasticsearch with Alibaba Cloud: How to Create an Instance](https://dev.to/a_lucas/mastering-elasticsearch-with-alibaba-cloud-how-to-create-an-instance-36pg)
 <!-- BLOG-POST-LIST:END -->
 
