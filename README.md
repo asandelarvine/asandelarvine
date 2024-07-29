@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring NetFlow with Kentik: A Simple Explainer](https://dev.to/adatole/exploring-netflow-with-kentik-a-simple-explainer-1o8d)
-- [How to Connect to Google Cloud VM Instances Using Your Terminal](https://dev.to/manojspace/how-to-connect-to-google-cloud-vm-instances-using-your-terminal-4b3i)
-- [Deploy static site manually using Netlify in 2024](https://dev.to/axorax/deploy-static-site-manually-using-netlify-in-2024-hf3)
-- [Linux Mint, A Comprehensive Overview](https://dev.to/jumashafara/linux-mint-a-comprehensive-overview-3ka2)
+- [Challenges in writing a programming book](https://dev.to/this-is-learning/challenges-in-writing-a-programming-book-4dh9)
+- [AIM Weekly for 29 July 2024](https://dev.to/tspannhw/aim-weekly-for-29-july-2024-4153)
+- [Dark SaaS Landing page template 🔥](https://dev.to/paul_freeman/dark-saas-landing-page-template-1md3)
+- [Is my excitement just a beginner&#39;s thing?](https://dev.to/an5189/is-my-excitement-just-a-beginners-thing-4h4j)
 <!-- BLOG-POST-LIST:END -->
 
