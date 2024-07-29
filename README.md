@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 14 in the books](https://dev.to/myrojyn/day-14-in-the-books-21ld)
-- [Automated Deployment to Google Cloud with Backup to Google Cloud Storage](https://dev.to/manojspace/automated-deployment-to-google-cloud-with-backup-to-google-cloud-storage-knf)
-- [How to Harden IaC Security with KICS](https://dev.to/yayabobi/how-to-harden-iac-security-with-kics-2d9i)
-- [Embracing the Side Project Hustle: My Journey Through the Buildspace Challenge](https://dev.to/dfordp/embracing-the-side-project-hustle-my-journey-through-the-buildspace-challenge-1hcc)
+- [Enhancing Object-Oriented Design with Traits, Interfaces, and Abstract Classes](https://dev.to/indunilperamuna/enhancing-object-oriented-design-with-traits-interfaces-and-abstract-classes-4647)
+- [15 Powerful Browser Debugging Techniques](https://dev.to/nilebits/15-powerful-browser-debugging-techniques-c3n)
+- [How to build an image gallery in Rails with Stimulus](https://dev.to/hrishio/how-to-build-an-image-gallery-in-rails-with-stimulus-164a)
+- [O que é Markdown e como usa-lo.](https://dev.to/nugguet/o-que-e-markdown-e-como-usa-lo-4a0h)
 <!-- BLOG-POST-LIST:END -->
 
