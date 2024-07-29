@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Train-Validation Split Results in Zero Samples for Some Classes in PyTorch Dataset](https://dev.to/nirmalsankalana/train-validation-split-results-in-zero-samples-for-some-classes-in-pytorch-dataset-1jnk)
-- [Do we work in failure fear culture?](https://dev.to/mcieciora/do-we-work-in-failure-fear-culture-1g7k)
-- [Basic React Design Patterns: A practical look with Tic Tac Toe](https://dev.to/sraveend/basic-react-design-patterns-a-practical-look-with-tic-tac-toe-3c76)
-- [API Testing With Unittest Mock, Pytest &amp; Schemathesis - FastAPI Beyond CRUD &lpar;Part 22&rpar;](https://dev.to/jod35/api-testing-with-unittest-mock-pytest-schemathesis-fastapi-beyond-crud-part-22-4lea)
+- [Day 14 in the books](https://dev.to/myrojyn/day-14-in-the-books-21ld)
+- [Automated Deployment to Google Cloud with Backup to Google Cloud Storage](https://dev.to/manojspace/automated-deployment-to-google-cloud-with-backup-to-google-cloud-storage-knf)
+- [How to Harden IaC Security with KICS](https://dev.to/yayabobi/how-to-harden-iac-security-with-kics-2d9i)
+- [Embracing the Side Project Hustle: My Journey Through the Buildspace Challenge](https://dev.to/dfordp/embracing-the-side-project-hustle-my-journey-through-the-buildspace-challenge-1hcc)
 <!-- BLOG-POST-LIST:END -->
 
