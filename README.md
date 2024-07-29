@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a PostgreSQL Database for E-commerce](https://dev.to/dbvismarketing/building-a-postgresql-database-for-e-commerce-96o)
-- [Overcoming Hard Rate Limits: Efficient Rate Limiting with Token Bucketing and Redis](https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb)
-- [The Imperative of Robust Automotive Software Testing](https://dev.to/abhayit2000/the-imperative-of-robust-automotive-software-testing-58en)
-- [200 Best AI Tools of 2024: Guide to Artificial Intelligence Solutions](https://dev.to/pablonax/200-best-ai-tools-of-2024-guide-to-artificial-intelligence-solutions-2lic)
+- [Embed Terabox Videos Without ADS for Free](https://dev.to/banmyaccount/embed-terabox-videos-without-ads-for-free-2no3)
+- [Assessing Mobile Performance of Large Language Models with MELTing Point Framework](https://dev.to/mikeyoung44/assessing-mobile-performance-of-large-language-models-with-melting-point-framework-5aa)
+- [Integration of Apache Iceberg in S3, Glue, Athena, Matillion, and Snowflake – Part 1](https://dev.to/zirkonium88/integration-of-apache-iceberg-in-s3-glue-athena-matillion-and-snowflake-part-1-4gin)
+- [What makes production grade code to production grade ?](https://dev.to/shanu001x/what-makes-production-grade-code-to-production-grade--emn)
 <!-- BLOG-POST-LIST:END -->
 
