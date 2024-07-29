@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between FP16 and BF16? Here a good explanation for you](https://dev.to/furkangozukara/what-is-the-difference-between-fp16-and-bf16-here-a-good-explanation-for-you-gag)
-- [SFU vs MCU vs P2P: WebRTC Architectures Explained](https://dev.to/alakkadshaw/sfu-vs-mcu-vs-p2p-webrtc-architectures-explained-163d)
-- [Hammam-Boulaaba](https://dev.to/rabiezouita11/hammam-boulaaba-2k62)
-- [ProBook](https://dev.to/rabiezouita11/probook-4742)
+- [Meme Monday](https://dev.to/ben/meme-monday-2484)
+- [Publishing App on F-Droid for Free](https://dev.to/sh20raj/publishing-app-on-f-droid-for-free-519i)
+- [How AI is Revolutionizing Modern Web Development: Key Trends and Tools](https://dev.to/stokry/how-ai-is-revolutionizing-modern-web-development-key-trends-and-tools-2pfg)
+- [What If You Need to Use useSelector Outside of React Components?](https://dev.to/khaled17/what-if-you-need-to-use-useselector-outside-of-react-components-h7g)
 <!-- BLOG-POST-LIST:END -->
 
