@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Servers! What are they?](https://dev.to/jockko/servers-what-are-they-2e1i)
-- [Free ngrok alternative for async web dev - the Hookdeck CLI](https://dev.to/hookdeck/free-ngrok-alternative-for-async-web-dev-the-hookdeck-cli-5f6j)
-- [Concurrency and parallelism in PHP &lpar;part 1&rpar;](https://dev.to/gabrieloliverio/concurrency-and-parallelism-in-php-part-1-21m5)
-- [Node.js Express Sequelize Boilerplate - Exploring the Directory Structure](https://dev.to/chetanppatil/nodejs-express-sequelize-boilerplate-exploring-the-directory-structure-44n8)
+- [Setting App Time Limits on iOS Using Shortcuts](https://dev.to/joshvickerson/setting-app-time-limits-on-ios-using-shortcuts-2dgl)
+- [Learn basic SQL concepts using visual low-code](https://dev.to/outsystems/learn-basic-sql-concepts-using-visual-low-code-34kf)
+- [How we can create a Pix Qrcode using Java ☕ and Spring 🍃](https://dev.to/felipejansendeveloper/how-we-can-create-a-pix-qrcode-using-java-and-spring-17gi)
+- [I Hacked Duck Race Game by JavaScript](https://dev.to/thedebugdiary/i-hacked-duck-race-game-by-javascript-5he9)
 <!-- BLOG-POST-LIST:END -->
 
