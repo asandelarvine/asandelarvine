@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embed Terabox Videos Without ADS for Free](https://dev.to/banmyaccount/embed-terabox-videos-without-ads-for-free-2no3)
-- [Assessing Mobile Performance of Large Language Models with MELTing Point Framework](https://dev.to/mikeyoung44/assessing-mobile-performance-of-large-language-models-with-melting-point-framework-5aa)
-- [Integration of Apache Iceberg in S3, Glue, Athena, Matillion, and Snowflake – Part 1](https://dev.to/zirkonium88/integration-of-apache-iceberg-in-s3-glue-athena-matillion-and-snowflake-part-1-4gin)
-- [What makes production grade code to production grade ?](https://dev.to/shanu001x/what-makes-production-grade-code-to-production-grade--emn)
+- [AWS open source newsletter, #202](https://dev.to/aws/aws-open-source-newsletter-202-27eb)
+- [Guide to Enhancing E2E Test Execution](https://dev.to/grjoeay/guide-to-enhancing-e2e-test-execution-12kp)
+- [Challenges of Custom Cache Implementation in Netty-Based Streaming Systems: Memory Fragmentation and OOM Issues](https://dev.to/automq/challenges-of-custom-cache-implementation-in-netty-based-streaming-systems-memory-fragmentation-and-oom-issues-520c)
+- [Creating A Virtual Machine in Microsoft Azure](https://dev.to/rofiatabdulkareem/creating-a-virtual-machine-in-microsoft-azure-3d49)
 <!-- BLOG-POST-LIST:END -->
 
