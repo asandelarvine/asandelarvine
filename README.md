@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #202](https://dev.to/aws/aws-open-source-newsletter-202-27eb)
-- [Guide to Enhancing E2E Test Execution](https://dev.to/grjoeay/guide-to-enhancing-e2e-test-execution-12kp)
-- [Challenges of Custom Cache Implementation in Netty-Based Streaming Systems: Memory Fragmentation and OOM Issues](https://dev.to/automq/challenges-of-custom-cache-implementation-in-netty-based-streaming-systems-memory-fragmentation-and-oom-issues-520c)
-- [Creating A Virtual Machine in Microsoft Azure](https://dev.to/rofiatabdulkareem/creating-a-virtual-machine-in-microsoft-azure-3d49)
+- [What is the difference between FP16 and BF16? Here a good explanation for you](https://dev.to/furkangozukara/what-is-the-difference-between-fp16-and-bf16-here-a-good-explanation-for-you-gag)
+- [SFU vs MCU vs P2P: WebRTC Architectures Explained](https://dev.to/alakkadshaw/sfu-vs-mcu-vs-p2p-webrtc-architectures-explained-163d)
+- [Hammam-Boulaaba](https://dev.to/rabiezouita11/hammam-boulaaba-2k62)
+- [ProBook](https://dev.to/rabiezouita11/probook-4742)
 <!-- BLOG-POST-LIST:END -->
 
