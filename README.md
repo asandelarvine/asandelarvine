@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges in writing a programming book](https://dev.to/this-is-learning/challenges-in-writing-a-programming-book-4dh9)
-- [AIM Weekly for 29 July 2024](https://dev.to/tspannhw/aim-weekly-for-29-july-2024-4153)
-- [Dark SaaS Landing page template 🔥](https://dev.to/paul_freeman/dark-saas-landing-page-template-1md3)
-- [Is my excitement just a beginner&#39;s thing?](https://dev.to/an5189/is-my-excitement-just-a-beginners-thing-4h4j)
+- [Train-Validation Split Results in Zero Samples for Some Classes in PyTorch Dataset](https://dev.to/nirmalsankalana/train-validation-split-results-in-zero-samples-for-some-classes-in-pytorch-dataset-1jnk)
+- [Do we work in failure fear culture?](https://dev.to/mcieciora/do-we-work-in-failure-fear-culture-1g7k)
+- [Basic React Design Patterns: A practical look with Tic Tac Toe](https://dev.to/sraveend/basic-react-design-patterns-a-practical-look-with-tic-tac-toe-3c76)
+- [API Testing With Unittest Mock, Pytest &amp; Schemathesis - FastAPI Beyond CRUD &lpar;Part 22&rpar;](https://dev.to/jod35/api-testing-with-unittest-mock-pytest-schemathesis-fastapi-beyond-crud-part-22-4lea)
 <!-- BLOG-POST-LIST:END -->
 
