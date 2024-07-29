@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Machine Learning?](https://dev.to/dakota_day/what-is-machine-learning-4g77)
-- [Building a RAG Service with Model Studio and AnalyticDB for PostgreSQL](https://dev.to/farrruh/building-a-rag-service-with-model-studio-and-analyticdb-for-postgresql-dg1)
-- [Why Choose SafeLine? Discover the Secrets of a Top Web Application Firewall](https://dev.to/motorbuy6/why-choose-safeline-discover-the-secrets-of-a-top-web-application-firewall-5hmi)
-- [Incomplete Thoughts On Asking Frequent Questions While Mentoring](https://dev.to/mariorobles93/incomplete-thoughts-on-asking-frequent-questions-while-mentoring-49fh)
+- [Guardrails AI, AAAL Pt.5](https://dev.to/tunehqai/guardrails-ai-aaal-pt5-35im)
+- [Searching for a Value in an Array Using JavaScript.](https://dev.to/sudhanshu_developer/searching-for-a-value-in-an-array-using-javascript-fh4)
+- [Proven Strategies to Optimize JavaScript Load Times in Modern Web Development](https://dev.to/rigalpatel001/proven-strategies-to-optimize-javascript-load-times-in-modern-web-development-2a8k)
+- [React 19: The new updates](https://dev.to/oluwatrillions/react-19-the-new-updates-2k68)
 <!-- BLOG-POST-LIST:END -->
 
