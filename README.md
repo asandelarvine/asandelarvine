@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Access to Power Automate](https://dev.to/wyattdave/hacking-access-to-power-automate-4346)
-- [Docker Image Naming and Tagging](https://dev.to/kalkwst/docker-image-naming-and-tagging-1pg9)
-- [How to Parse Key-value Pairs from a Base64-encoded String in SQL?#eg12](https://dev.to/esproc_spl/how-to-parse-key-value-pairs-from-a-base64-encoded-string-in-sql-2k0c)
-- [Simplifying call, apply &amp; bind in JavaScript](https://dev.to/readwanmd/simplifying-call-apply-bind-in-javascript-4lk0)
+- [Building a PostgreSQL Database for E-commerce](https://dev.to/dbvismarketing/building-a-postgresql-database-for-e-commerce-96o)
+- [Overcoming Hard Rate Limits: Efficient Rate Limiting with Token Bucketing and Redis](https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb)
+- [The Imperative of Robust Automotive Software Testing](https://dev.to/abhayit2000/the-imperative-of-robust-automotive-software-testing-58en)
+- [200 Best AI Tools of 2024: Guide to Artificial Intelligence Solutions](https://dev.to/pablonax/200-best-ai-tools-of-2024-guide-to-artificial-intelligence-solutions-2lic)
 <!-- BLOG-POST-LIST:END -->
 
