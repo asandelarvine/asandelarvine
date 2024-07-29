@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should At least Try Vim Once](https://dev.to/hstsethi/why-you-should-at-least-try-vim-once-2l4k)
-- [API Automation Engineer Interview with These Questions and answers](https://dev.to/magi-magificient/api-automation-engineer-interview-with-these-questions-and-answers-4lip)
-- [How I Encountered the Problem and Built the Solution: PrepiQ](https://dev.to/abhirup2003/how-i-encountered-the-problem-and-built-the-solution-prepiq-3lkh)
-- [What is a React plugin?](https://dev.to/buildwebcrumbs/what-is-a-react-plugin-47f0)
+- [37 Common JavaScript Utility Functions for String, Object, Array &amp; Date](https://dev.to/syakirurahman/37-common-javascript-utility-functions-for-string-object-array-date-2afb)
+- [Easily Split and Rename PDFs for Skyward](https://dev.to/blacknight318/easily-split-and-rename-pdfs-for-skyward-17ha)
+- [Introduction to Feature Flagging: A Beginner&#39;s Guide](https://dev.to/flipt/introduction-to-feature-flagging-a-beginners-guide-4o9c)
+- [Building PayBee, a Digital Wallet with Flutter &amp; Laravel: The Rewarding Journey Through Hustle and Heart](https://dev.to/ultracoolbru/building-paybee-a-digital-wallet-with-flutter-laravel-the-rewarding-journey-through-hustle-and-heart-7pj)
 <!-- BLOG-POST-LIST:END -->
 
