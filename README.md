@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-2484)
-- [Publishing App on F-Droid for Free](https://dev.to/sh20raj/publishing-app-on-f-droid-for-free-519i)
-- [How AI is Revolutionizing Modern Web Development: Key Trends and Tools](https://dev.to/stokry/how-ai-is-revolutionizing-modern-web-development-key-trends-and-tools-2pfg)
-- [What If You Need to Use useSelector Outside of React Components?](https://dev.to/khaled17/what-if-you-need-to-use-useselector-outside-of-react-components-h7g)
+- [Why You Should At least Try Vim Once](https://dev.to/hstsethi/why-you-should-at-least-try-vim-once-2l4k)
+- [API Automation Engineer Interview with These Questions and answers](https://dev.to/magi-magificient/api-automation-engineer-interview-with-these-questions-and-answers-4lip)
+- [How I Encountered the Problem and Built the Solution: PrepiQ](https://dev.to/abhirup2003/how-i-encountered-the-problem-and-built-the-solution-prepiq-3lkh)
+- [What is a React plugin?](https://dev.to/buildwebcrumbs/what-is-a-react-plugin-47f0)
 <!-- BLOG-POST-LIST:END -->
 
