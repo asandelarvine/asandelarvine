@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guardrails AI, AAAL Pt.5](https://dev.to/tunehqai/guardrails-ai-aaal-pt5-35im)
-- [Searching for a Value in an Array Using JavaScript.](https://dev.to/sudhanshu_developer/searching-for-a-value-in-an-array-using-javascript-fh4)
-- [Proven Strategies to Optimize JavaScript Load Times in Modern Web Development](https://dev.to/rigalpatel001/proven-strategies-to-optimize-javascript-load-times-in-modern-web-development-2a8k)
-- [React 19: The new updates](https://dev.to/oluwatrillions/react-19-the-new-updates-2k68)
+- [My Least Favorite Part of C# Evolution: Inconsistency](https://dev.to/canro91/my-least-favorite-part-of-c-evolution-inconsistency-5d8b)
+- [time format ใน Go](https://dev.to/pallat/time-format-ain-go-4g23)
+- [Dive into the Wonderful World of Java with this Beginner-Friendly Course! 🚀](https://dev.to/getvm/dive-into-the-wonderful-world-of-java-with-this-beginner-friendly-course-20go)
+- [Understanding JavaScript Promises](https://dev.to/rahulvijayvergiya/understanding-javascript-promises-29j4)
 <!-- BLOG-POST-LIST:END -->
 
