@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Work as a Self-Taught Web Developer in 2024](https://dev.to/theallegrarr/finding-work-as-a-self-taught-web-developer-in-2024-27am)
-- [Starting from Scratch: My Web Development Journey](https://dev.to/saumya_singh18/starting-from-scratch-my-web-development-journey-ff9)
-- [&quot;Unlocking the Code: My Web Development Adventure Begins](https://dev.to/chitransh_he/unlocking-the-code-my-web-development-adventure-begins-161)
-- [Basic Git commands](https://dev.to/apk_leo0/basic-git-commands-3ibd)
+- [10 Key Benefits of Collaboration and Teamwork](https://dev.to/bryany/10-key-benefits-of-collaboration-and-teamwork-2fcd)
+- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-37bj)
+- [Keeping User-Uploaded Files Malware-Free: What’s Your Approach - Idea Validation](https://dev.to/areprabhu/keeping-user-uploaded-files-malware-free-whats-your-approach-idea-validation-3nci)
+- [Princípios SOLID em GoLang - Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-liskov-substitution-principle-lsp-4a1)
 <!-- BLOG-POST-LIST:END -->
 
