@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte Series-7: The Syntax $](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-7-the-syntax--37ef)
-- [On asking questions while mentoring](https://dev.to/mariorobles93/on-asking-questions-while-mentoring-45oj)
-- [jQuery&#39;s Role in Modern Web Development: Beginnings, 2024, and Beyond](https://dev.to/wendyver/jquerys-role-in-modern-web-development-beginnings-2024-and-beyond-1223)
-- [Mastering Elasticsearch with Alibaba Cloud: How to Create an Instance](https://dev.to/a_lucas/mastering-elasticsearch-with-alibaba-cloud-how-to-create-an-instance-36pg)
+- [What is Machine Learning?](https://dev.to/dakota_day/what-is-machine-learning-4g77)
+- [Building a RAG Service with Model Studio and AnalyticDB for PostgreSQL](https://dev.to/farrruh/building-a-rag-service-with-model-studio-and-analyticdb-for-postgresql-dg1)
+- [Why Choose SafeLine? Discover the Secrets of a Top Web Application Firewall](https://dev.to/motorbuy6/why-choose-safeline-discover-the-secrets-of-a-top-web-application-firewall-5hmi)
+- [Incomplete Thoughts On Asking Frequent Questions While Mentoring](https://dev.to/mariorobles93/incomplete-thoughts-on-asking-frequent-questions-while-mentoring-49fh)
 <!-- BLOG-POST-LIST:END -->
 
