@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP crash course: Simple To-Do List](https://dev.to/mdarifulhaque/php-crash-course-simple-to-do-list-j18)
-- [Improving the Bitcoin network using Utreexo](https://dev.to/alainjr10/improving-the-bitcoin-network-using-utreexo-1dcb)
-- [Why do programs wear out?](https://dev.to/taqmuraz/why-do-programs-wear-out-j58)
-- [Perfomance em Microsserviços](https://dev.to/mario_beani/perfomance-em-microsservicos-5c99)
+- [Tool call with local model using Ollama and AutoGen.Net](https://dev.to/littlelittlecloud/tool-call-with-local-model-using-ollama-and-autogennet-3o64)
+- [Magic Strings &amp; Magic Numbers 🪄](https://dev.to/thibaultchatelain/magic-strings-magic-numbers-4fa4)
+- [🧱 Custom components 💏 API{GEE} : sms automation w. Power Platform](https://dev.to/optnc/custom-components-apigee-sms-automation-w-power-platform-1mk7)
+- [Dual Node TypeScript Packages - The Easy Way](https://dev.to/ragrag/dual-node-typescript-packages-the-easy-way-1ko4)
 <!-- BLOG-POST-LIST:END -->
 
