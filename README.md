@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting App Time Limits on iOS Using Shortcuts](https://dev.to/joshvickerson/setting-app-time-limits-on-ios-using-shortcuts-2dgl)
-- [Learn basic SQL concepts using visual low-code](https://dev.to/outsystems/learn-basic-sql-concepts-using-visual-low-code-34kf)
-- [How we can create a Pix Qrcode using Java ☕ and Spring 🍃](https://dev.to/felipejansendeveloper/how-we-can-create-a-pix-qrcode-using-java-and-spring-17gi)
-- [I Hacked Duck Race Game by JavaScript](https://dev.to/thedebugdiary/i-hacked-duck-race-game-by-javascript-5he9)
+- [PHP crash course: Simple To-Do List](https://dev.to/mdarifulhaque/php-crash-course-simple-to-do-list-j18)
+- [Improving the Bitcoin network using Utreexo](https://dev.to/alainjr10/improving-the-bitcoin-network-using-utreexo-1dcb)
+- [Why do programs wear out?](https://dev.to/taqmuraz/why-do-programs-wear-out-j58)
+- [Perfomance em Microsserviços](https://dev.to/mario_beani/perfomance-em-microsservicos-5c99)
 <!-- BLOG-POST-LIST:END -->
 
