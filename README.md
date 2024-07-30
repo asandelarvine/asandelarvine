@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Tests in Rust](https://dev.to/francescoxx/how-to-write-tests-in-rust-2pde)
-- [CSS &lpar;Cascading Style Sheets&rpar; is essential for designing the front end of websites](https://dev.to/olatunjiayodel9/css-cascading-style-sheets-is-essential-for-designing-the-front-end-of-websites-5gbm)
-- [Introduction to Domain-Driven Design &lpar;DDD&rpar; in C# with Microsoft Orleans](https://dev.to/sebastiandevelops/introduction-to-domain-driven-design-ddd-in-c-with-microsoft-orleans-3ekf)
-- [Slugs with an ID fallback in Laravel](https://dev.to/briandouglasie/slugs-with-an-id-fallback-in-laravel-5ai3)
+- [Introduction to RBAC in Kubernetes](https://dev.to/cerbos/introduction-to-rbac-in-kubernetes-5hh5)
+- [Simplifying Form Validation: React Hook Form vs Traditional Methods](https://dev.to/lingarajhu/simplifying-form-validation-react-hook-form-vs-traditional-methods-1a86)
+- [Next.js - App Router](https://dev.to/lorenzojkrl/nextjs-app-router-4l7e)
+- [What is Syslog? Components, benefits, and best practices](https://dev.to/parseable/what-is-syslog-components-benefits-and-best-practices-4k4i)
 <!-- BLOG-POST-LIST:END -->
 
