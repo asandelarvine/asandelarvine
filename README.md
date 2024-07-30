@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Basics: 3 new topics to boost your skills](https://dev.to/tungbq/devops-basics-3-new-topics-to-boost-your-skills-43ah)
-- [Lightweight tuesday&#39;s letter, cool things on internet!!](https://dev.to/shreyvijayvargiya/lightweight-tuesdays-letter-cool-things-on-internet-2i53)
-- [Cybersecurity in Web Development OR Secure Website Is Equally Important For You And User](https://dev.to/rashedulhridoy/cybersecurity-in-web-development-or-secure-website-is-equally-important-for-you-and-user-19o8)
-- [Exceptions and Commit in PostgreSQL PL/pgSQL vs. Oracle PL/SQL](https://dev.to/aws-heroes/exceptions-and-commit-in-postgresql-plpgsql-vs-oracle-plsql-1nk8)
+- [Web design involves a combination of a esthetics and usability](https://dev.to/olatunjiayodel9/web-design-involves-a-combination-of-a-esthetics-and-usability-160p)
+- [React 19: What you need to know?](https://dev.to/_shreya_trivedi/react-19-what-you-need-to-know-1abm)
+- [Understanding Time Complexity: A Guide for Developers](https://dev.to/jps27cse/understanding-time-complexity-a-guide-for-developers-304o)
+- [Effortless Rails 7+ Deployment with Kamal Gem on DigitalOcean](https://dev.to/shahzaib/effortless-rails-7-deployment-with-kamal-gem-on-digitalocean-of)
 <!-- BLOG-POST-LIST:END -->
 
