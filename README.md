@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing tech for a project](https://dev.to/ladyofcode/choosing-tech-for-a-project-2368)
-- [Tips for Fixing Bugs and Resolving Code Issues](https://dev.to/michellebuchiokonicha/tips-for-fixing-bugs-and-resolving-code-issues-2kcc)
-- [7 CSS Mistakes You’re Probably Making Right Now](https://dev.to/tesseract-coding/7-css-mistakes-youre-probably-making-right-now-9nj)
-- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous/learning-swift-the-basics-of-ios-development-15ok)
+- [⚡ MySecondApp - React Native with Expo &lpar;P13&rpar; - Layout Verification Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p13-layout-verification-screen-c6m)
+- [Lógica de programación con estructuras de control en C#](https://dev.to/maadcode/logica-de-programacion-con-estructuras-de-control-en-c-2c8g)
+- [Mastering Web Security: How to Set Up and Test SafeLine with APISIX](https://dev.to/lulu_liu_c90f973e2f954d7f/mastering-web-security-how-to-set-up-and-test-safeline-with-apisix-2645)
+- [CSS Button Animation](https://dev.to/nipundinuranga/css-button-animation-4fgc)
 <!-- BLOG-POST-LIST:END -->
 
