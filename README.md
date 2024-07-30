@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Need Help Blockchain experts](https://dev.to/davidxrlabs91/need-help-blockchain-experts-2joc)
-- [LangGraph.js Concept Guide](https://dev.to/zand/langgraphjs-concept-guide-50g0)
-- [Memory Management in Rust](https://dev.to/kartikmehta8/memory-management-in-rust-oj9)
-- [Pre-Cloud Development Chatbot with Streamlit, Langchain, OpenAI and MongoDB Atlas Vector Search](https://dev.to/amandaruzza/pre-cloud-development-chatbot-with-streamlit-langchain-openai-and-mongodb-atlas-vector-search-43l)
+- [Choosing tech for a project](https://dev.to/ladyofcode/choosing-tech-for-a-project-2368)
+- [Tips for Fixing Bugs and Resolving Code Issues](https://dev.to/michellebuchiokonicha/tips-for-fixing-bugs-and-resolving-code-issues-2kcc)
+- [7 CSS Mistakes You’re Probably Making Right Now](https://dev.to/tesseract-coding/7-css-mistakes-youre-probably-making-right-now-9nj)
+- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous/learning-swift-the-basics-of-ios-development-15ok)
 <!-- BLOG-POST-LIST:END -->
 
