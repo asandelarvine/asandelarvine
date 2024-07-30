@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Poor Endpoint Monitoring and Backend Error Tracking: A CTO&#39;s Perspective](https://dev.to/irhose/the-impact-of-poor-endpoint-monitoring-and-backend-error-tracking-a-ctos-perspective-2ma2)
-- [Boosting Devops Productivity with Forms and Power Automate](https://dev.to/arindam0310018/boosting-devops-productivity-with-forms-and-power-automate-2e63)
-- [An Introduction to TypeScript for JavaScript Developers](https://dev.to/media_geneous/an-introduction-to-typescript-for-javascript-developers-l63)
-- [Well-typed, accelerated ML](https://dev.to/joelberkeley/well-typed-accelerated-ml-alpha-5cme)
+- [Need Help Blockchain experts](https://dev.to/davidxrlabs91/need-help-blockchain-experts-2joc)
+- [LangGraph.js Concept Guide](https://dev.to/zand/langgraphjs-concept-guide-50g0)
+- [Memory Management in Rust](https://dev.to/kartikmehta8/memory-management-in-rust-oj9)
+- [Pre-Cloud Development Chatbot with Streamlit, Langchain, OpenAI and MongoDB Atlas Vector Search](https://dev.to/amandaruzza/pre-cloud-development-chatbot-with-streamlit-langchain-openai-and-mongodb-atlas-vector-search-43l)
 <!-- BLOG-POST-LIST:END -->
 
