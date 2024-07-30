@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Best CRISC Study Resources](https://dev.to/shivamchamoli18/top-5-best-crisc-study-resources-2pf1)
-- [Seeding a DB with Irish Counties in Laravel](https://dev.to/briandouglasie/seeding-a-db-with-irish-counties-in-laravel-3b02)
-- [Implementing Self-Service Operations for Internal Developer Teams](https://dev.to/dronahq/implementing-self-service-operations-for-internal-developer-teams-1j76)
-- [React for Modern WebDevelopment: Trends and Best Practices](https://dev.to/aricayajohn/react-for-modern-webdevelopment-trends-and-best-practices-352k)
+- [T-shirt Tuesday!](https://dev.to/buildwebcrumbs/t-shirt-tuesday-18pi)
+- [🚀 Guía para principiantes: instalación y uso de GitHub CLI 🛠️](https://dev.to/raulpenate/guia-para-principiantes-instalacion-y-uso-de-github-cli-3o2b)
+- [[Roast: Day 12] - Designing a PostgreSQL Database](https://dev.to/nmiller15/roast-day-12-designing-a-postgresql-database-44op)
+- [Angular + Sanity CMS: Setting Up Your Sanity CMS Project with TypeScript](https://dev.to/osnoser1/angular-sanity-cms-setting-up-your-sanity-cms-project-with-typescript-5651)
 <!-- BLOG-POST-LIST:END -->
 
