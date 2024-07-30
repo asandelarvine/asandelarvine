@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use useState Instead of Just Variables in React](https://dev.to/homayunmmdy/why-use-usestate-instead-of-just-variables-in-react-2heo)
-- [Day 29 of 100 Days of Code](https://dev.to/jacobsternx/day-29-of-100-days-of-code-3jj2)
-- [How to Build Successful Payment Systems](https://dev.to/wetest/how-to-build-successful-payment-systems-4n5l)
-- [SharePoint Online vs. SharePoint Embedded: Which to Choose?](https://dev.to/jaloplo/sharepoint-online-vs-sharepoint-embedded-which-to-choose-2afi)
+- [Mastering Docker: Key Lessons from My First Project](https://dev.to/yash_singhal_8c80df294f1e/mastering-docker-key-lessons-from-my-first-project-38dm)
+- [Day 6 of NodeJS||REPL Part 2](https://dev.to/akshat0610/day-6-of-nodejsrepl-part-2-4lfa)
+- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-29nc)
+- [How to change place of saving models on ollama](https://dev.to/hamed0406/how-to-change-place-of-saving-models-on-ollama-4ko8)
 <!-- BLOG-POST-LIST:END -->
 
