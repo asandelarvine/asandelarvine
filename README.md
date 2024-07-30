@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide to Implementing Functional SEO in NextJS App Router: Static &amp; Dynamic Metadata](https://dev.to/cre8stevedev/practical-guide-to-implementing-functional-seo-in-nextjs-app-router-static-dynamic-metadata-4ae2)
-- [Why is losing cookies dangerous? Does two-factor authentication help in this case?](https://dev.to/thedebugdiary/why-is-losing-cookies-dangerous-does-two-factor-authentication-help-in-this-case-2j34)
-- [¿Qué es una VPC?](https://dev.to/gabeincloud/que-es-una-vpc-2ffm)
-- [Data Science and Web Development Integration?🤔...](https://dev.to/thatohatsi880/data-science-and-web-development-integration-2ldn)
+- [Federated Learning](https://dev.to/midasxiv/federated-learning-29o1)
+- [Answer: การอ้างอิงเซลล์สูตรของ Google Sheet](https://dev.to/jirawat_208/answer-kaaraangingechllsuutrkhng-google-sheet-50im)
+- [Community day for FlutterChicago! Gemini API Developer Competition Hackathon](https://dev.to/valerianagit/community-day-for-flutterchicago-gemini-api-developer-competition-hackathon-4gik)
+- [JavaScript Under the Hood: Embracing Its Single-Threaded Strengths](https://dev.to/mabbasctn/javascript-under-the-hood-embracing-its-single-threaded-strengths-345o)
 <!-- BLOG-POST-LIST:END -->
 
