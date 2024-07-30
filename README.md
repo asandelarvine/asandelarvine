@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GBase 8s Large Object Handling: Simplifying Large Data Insertion and Management](https://dev.to/congcong/gbase-8s-large-object-handling-simplifying-large-data-insertion-and-management-2h6)
-- [5 most frequent A11y Mistakes](https://dev.to/daelmaak/5-most-frequent-a11y-mistakes-2f65)
-- [Implement MUX and Understand the use of AWS and docker](https://dev.to/yash_singhal_8c80df294f1e/implement-mux-and-understand-the-use-of-aws-and-docker-447e)
-- [Enhanced Insight into Disaster Recovery Solutions on AWS](https://dev.to/farrukhkhalid/enhanced-insight-into-disaster-recovery-solutions-on-aws-3o3j)
+- [Use CSS&#39; `only-child` instead of `if/else` logic](https://dev.to/railsdesigner/use-css-only-child-instead-of-ifelse-logic-2oof)
+- [5-Week Data Career Boot Camp: Orientation and Foundations.](https://dev.to/grayhat/5-week-data-career-boot-camp-orientation-and-foundations-30cf)
+- [CSS is confusing? You&#39;re not alone](https://dev.to/raknos13/css-is-confusing-youre-not-alone-4n7l)
+- [top-in-tech](https://dev.to/rabiezouita11/top-in-tech-2k94)
 <!-- BLOG-POST-LIST:END -->
 
