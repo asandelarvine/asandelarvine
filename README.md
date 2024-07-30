@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [T-shirt Tuesday!](https://dev.to/buildwebcrumbs/t-shirt-tuesday-18pi)
-- [🚀 Guía para principiantes: instalación y uso de GitHub CLI 🛠️](https://dev.to/raulpenate/guia-para-principiantes-instalacion-y-uso-de-github-cli-3o2b)
-- [[Roast: Day 12] - Designing a PostgreSQL Database](https://dev.to/nmiller15/roast-day-12-designing-a-postgresql-database-44op)
-- [Angular + Sanity CMS: Setting Up Your Sanity CMS Project with TypeScript](https://dev.to/osnoser1/angular-sanity-cms-setting-up-your-sanity-cms-project-with-typescript-5651)
+- [How to Write Tests in Rust](https://dev.to/francescoxx/how-to-write-tests-in-rust-2pde)
+- [CSS &lpar;Cascading Style Sheets&rpar; is essential for designing the front end of websites](https://dev.to/olatunjiayodel9/css-cascading-style-sheets-is-essential-for-designing-the-front-end-of-websites-5gbm)
+- [Introduction to Domain-Driven Design &lpar;DDD&rpar; in C# with Microsoft Orleans](https://dev.to/sebastiandevelops/introduction-to-domain-driven-design-ddd-in-c-with-microsoft-orleans-3ekf)
+- [Slugs with an ID fallback in Laravel](https://dev.to/briandouglasie/slugs-with-an-id-fallback-in-laravel-5ai3)
 <!-- BLOG-POST-LIST:END -->
 
