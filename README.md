@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to RBAC in Kubernetes](https://dev.to/cerbos/introduction-to-rbac-in-kubernetes-5hh5)
-- [Simplifying Form Validation: React Hook Form vs Traditional Methods](https://dev.to/lingarajhu/simplifying-form-validation-react-hook-form-vs-traditional-methods-1a86)
-- [Next.js - App Router](https://dev.to/lorenzojkrl/nextjs-app-router-4l7e)
-- [What is Syslog? Components, benefits, and best practices](https://dev.to/parseable/what-is-syslog-components-benefits-and-best-practices-4k4i)
+- [🧠 50 Awesome WebDev Articles](https://dev.to/florianrappl/50-awesome-webdev-articles-1mnf)
+- [Building Intelligent RAG Applications with LangServe, LangGraph, and Milvus](https://dev.to/zilliz/building-intelligent-rag-applications-with-langserve-langgraph-and-milvus-22ll)
+- [Implementing Facial Recognition Authentication in Vue.js with FACEIO](https://dev.to/vyan/implementing-facial-recognition-authentication-in-vuejs-with-faceio-664)
+- [Coleta de lixo](https://dev.to/devsjavagirls/coleta-de-lixo-3jfd)
 <!-- BLOG-POST-LIST:END -->
 
