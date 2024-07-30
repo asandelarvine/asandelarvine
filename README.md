@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web design involves a combination of a esthetics and usability](https://dev.to/olatunjiayodel9/web-design-involves-a-combination-of-a-esthetics-and-usability-160p)
-- [React 19: What you need to know?](https://dev.to/_shreya_trivedi/react-19-what-you-need-to-know-1abm)
-- [Understanding Time Complexity: A Guide for Developers](https://dev.to/jps27cse/understanding-time-complexity-a-guide-for-developers-304o)
-- [Effortless Rails 7+ Deployment with Kamal Gem on DigitalOcean](https://dev.to/shahzaib/effortless-rails-7-deployment-with-kamal-gem-on-digitalocean-of)
+- [Practical Guide to Implementing Functional SEO in NextJS App Router: Static &amp; Dynamic Metadata](https://dev.to/cre8stevedev/practical-guide-to-implementing-functional-seo-in-nextjs-app-router-static-dynamic-metadata-4ae2)
+- [Why is losing cookies dangerous? Does two-factor authentication help in this case?](https://dev.to/thedebugdiary/why-is-losing-cookies-dangerous-does-two-factor-authentication-help-in-this-case-2j34)
+- [¿Qué es una VPC?](https://dev.to/gabeincloud/que-es-una-vpc-2ffm)
+- [Data Science and Web Development Integration?🤔...](https://dev.to/thatohatsi880/data-science-and-web-development-integration-2ldn)
 <!-- BLOG-POST-LIST:END -->
 
