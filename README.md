@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Docker Container on AWS EC2 and Access It Externally](https://dev.to/engrmark/how-to-run-a-docker-container-on-aws-ec2-and-access-it-externally-107n)
-- [Go mock](https://dev.to/jacktt/go-mock-30a4)
-- [Tente Isto 4-2: coleta de lixo e a finalização](https://dev.to/devsjavagirls/tente-isto-4-2-coleta-de-lixo-e-a-finalizacao-56om)
-- [O método finalize&lpar; &rpar;](https://dev.to/devsjavagirls/o-metodo-finalize--3heh)
+- [DevOps Basics: 3 new topics to boost your skills](https://dev.to/tungbq/devops-basics-3-new-topics-to-boost-your-skills-43ah)
+- [Lightweight tuesday&#39;s letter, cool things on internet!!](https://dev.to/shreyvijayvargiya/lightweight-tuesdays-letter-cool-things-on-internet-2i53)
+- [Cybersecurity in Web Development OR Secure Website Is Equally Important For You And User](https://dev.to/rashedulhridoy/cybersecurity-in-web-development-or-secure-website-is-equally-important-for-you-and-user-19o8)
+- [Exceptions and Commit in PostgreSQL PL/pgSQL vs. Oracle PL/SQL](https://dev.to/aws-heroes/exceptions-and-commit-in-postgresql-plpgsql-vs-oracle-plsql-1nk8)
 <!-- BLOG-POST-LIST:END -->
 
