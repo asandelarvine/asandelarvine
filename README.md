@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Browser Compatibility Testing - Know all about](https://dev.to/berthaw82414312/cross-browser-compatibility-testing-know-all-about-55e4)
-- [Reinforcement Learning from Scratch - Part 2 - Deep Q Learning](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-2-deep-q-learning-4opo)
-- [From Zero to Hero: Crafting Developer Tutorials That Don&#39;t Just Teach, But Inspire](https://dev.to/swati1267/from-zero-to-hero-crafting-developer-tutorials-that-dont-just-teach-but-inspire-1cj6)
-- [🚀 Exploring Django with React 🚀](https://dev.to/nezer/exploring-django-with-react-4g8f)
+- [Why Use useState Instead of Just Variables in React](https://dev.to/homayunmmdy/why-use-usestate-instead-of-just-variables-in-react-2heo)
+- [Day 29 of 100 Days of Code](https://dev.to/jacobsternx/day-29-of-100-days-of-code-3jj2)
+- [How to Build Successful Payment Systems](https://dev.to/wetest/how-to-build-successful-payment-systems-4n5l)
+- [SharePoint Online vs. SharePoint Embedded: Which to Choose?](https://dev.to/jaloplo/sharepoint-online-vs-sharepoint-embedded-which-to-choose-2afi)
 <!-- BLOG-POST-LIST:END -->
 
