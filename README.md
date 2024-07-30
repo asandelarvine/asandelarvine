@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A detailed guid to create an AI Shopify App - Step by Step](https://dev.to/adibmed/a-detailed-guid-to-create-an-ai-shopify-app-step-by-step-1g7f)
-- [#36 — Match The First Part of The Cell Value](https://dev.to/judith677/36-match-the-first-part-of-the-cell-value-4g17)
-- [Unlock the Secrets of Computer Systems with Carnegie-Mellon&#39;s ICS Course! 🖥️](https://dev.to/getvm/unlock-the-secrets-of-computer-systems-with-carnegie-mellons-ics-course-4le9)
-- [How to Dockerize a React Application](https://dev.to/sh20raj/how-to-dockerize-a-react-application-19kc)
+- [Cross Browser Compatibility Testing - Know all about](https://dev.to/berthaw82414312/cross-browser-compatibility-testing-know-all-about-55e4)
+- [Reinforcement Learning from Scratch - Part 2 - Deep Q Learning](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-2-deep-q-learning-4opo)
+- [From Zero to Hero: Crafting Developer Tutorials That Don&#39;t Just Teach, But Inspire](https://dev.to/swati1267/from-zero-to-hero-crafting-developer-tutorials-that-dont-just-teach-but-inspire-1cj6)
+- [🚀 Exploring Django with React 🚀](https://dev.to/nezer/exploring-django-with-react-4g8f)
 <!-- BLOG-POST-LIST:END -->
 
