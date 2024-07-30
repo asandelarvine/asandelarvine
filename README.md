@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Docker: Key Lessons from My First Project](https://dev.to/yash_singhal_8c80df294f1e/mastering-docker-key-lessons-from-my-first-project-38dm)
-- [Day 6 of NodeJS||REPL Part 2](https://dev.to/akshat0610/day-6-of-nodejsrepl-part-2-4lfa)
-- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-29nc)
-- [How to change place of saving models on ollama](https://dev.to/hamed0406/how-to-change-place-of-saving-models-on-ollama-4ko8)
+- [GBase 8s Large Object Handling: Simplifying Large Data Insertion and Management](https://dev.to/congcong/gbase-8s-large-object-handling-simplifying-large-data-insertion-and-management-2h6)
+- [5 most frequent A11y Mistakes](https://dev.to/daelmaak/5-most-frequent-a11y-mistakes-2f65)
+- [Implement MUX and Understand the use of AWS and docker](https://dev.to/yash_singhal_8c80df294f1e/implement-mux-and-understand-the-use-of-aws-and-docker-447e)
+- [Enhanced Insight into Disaster Recovery Solutions on AWS](https://dev.to/farrukhkhalid/enhanced-insight-into-disaster-recovery-solutions-on-aws-3o3j)
 <!-- BLOG-POST-LIST:END -->
 
