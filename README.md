@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Federated Learning](https://dev.to/midasxiv/federated-learning-29o1)
-- [Answer: การอ้างอิงเซลล์สูตรของ Google Sheet](https://dev.to/jirawat_208/answer-kaaraangingechllsuutrkhng-google-sheet-50im)
-- [Community day for FlutterChicago! Gemini API Developer Competition Hackathon](https://dev.to/valerianagit/community-day-for-flutterchicago-gemini-api-developer-competition-hackathon-4gik)
-- [JavaScript Under the Hood: Embracing Its Single-Threaded Strengths](https://dev.to/mabbasctn/javascript-under-the-hood-embracing-its-single-threaded-strengths-345o)
+- [3 Successful Test Runs Is the Magic Number](https://dev.to/pjcalvo/3-successful-test-runs-is-the-magic-number-264m)
+- [Atomic Design: UI Kit Strategy](https://dev.to/violetadev/atomic-design-ui-kit-strategy-4ogn)
+- [Reconnecting with Front-End Development: Building a Cat Photo App](https://dev.to/ack/reconnecting-with-front-end-development-building-a-cat-photo-app-598k)
+- [Nmap Script Engine &lpar;NSE&rpar; for Network Vulnerability Assessment](https://dev.to/z3t30/nmap-script-engine-nse-for-network-vulnerability-assessment-45cb)
 <!-- BLOG-POST-LIST:END -->
 
