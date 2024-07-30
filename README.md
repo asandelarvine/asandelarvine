@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use CSS&#39; `only-child` instead of `if/else` logic](https://dev.to/railsdesigner/use-css-only-child-instead-of-ifelse-logic-2oof)
-- [5-Week Data Career Boot Camp: Orientation and Foundations.](https://dev.to/grayhat/5-week-data-career-boot-camp-orientation-and-foundations-30cf)
-- [CSS is confusing? You&#39;re not alone](https://dev.to/raknos13/css-is-confusing-youre-not-alone-4n7l)
-- [top-in-tech](https://dev.to/rabiezouita11/top-in-tech-2k94)
+- [Top 5 Best CRISC Study Resources](https://dev.to/shivamchamoli18/top-5-best-crisc-study-resources-2pf1)
+- [Seeding a DB with Irish Counties in Laravel](https://dev.to/briandouglasie/seeding-a-db-with-irish-counties-in-laravel-3b02)
+- [Implementing Self-Service Operations for Internal Developer Teams](https://dev.to/dronahq/implementing-self-service-operations-for-internal-developer-teams-1j76)
+- [React for Modern WebDevelopment: Trends and Best Practices](https://dev.to/aricayajohn/react-for-modern-webdevelopment-trends-and-best-practices-352k)
 <!-- BLOG-POST-LIST:END -->
 
