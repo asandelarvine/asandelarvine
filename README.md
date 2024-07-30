@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 50 Awesome WebDev Articles](https://dev.to/florianrappl/50-awesome-webdev-articles-1mnf)
-- [Building Intelligent RAG Applications with LangServe, LangGraph, and Milvus](https://dev.to/zilliz/building-intelligent-rag-applications-with-langserve-langgraph-and-milvus-22ll)
-- [Implementing Facial Recognition Authentication in Vue.js with FACEIO](https://dev.to/vyan/implementing-facial-recognition-authentication-in-vuejs-with-faceio-664)
-- [Coleta de lixo](https://dev.to/devsjavagirls/coleta-de-lixo-3jfd)
+- [How to Run a Docker Container on AWS EC2 and Access It Externally](https://dev.to/engrmark/how-to-run-a-docker-container-on-aws-ec2-and-access-it-externally-107n)
+- [Go mock](https://dev.to/jacktt/go-mock-30a4)
+- [Tente Isto 4-2: coleta de lixo e a finalização](https://dev.to/devsjavagirls/tente-isto-4-2-coleta-de-lixo-e-a-finalizacao-56om)
+- [O método finalize&lpar; &rpar;](https://dev.to/devsjavagirls/o-metodo-finalize--3heh)
 <!-- BLOG-POST-LIST:END -->
 
