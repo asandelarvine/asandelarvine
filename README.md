@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s a Valuable Skill You Should Have?](https://dev.to/zirkelc/whats-a-valuable-skill-you-should-have-2igi)
-- [Xu hướng SEOer cần chú ý](https://dev.to/duandigi/xu-huong-seoer-can-chu-y-cf2)
-- [Webhook vs. API: What’s the Difference?](https://dev.to/keploy/webhook-vs-api-whats-the-difference-40i0)
-- [Unlocking the Power of useRef: A Comprehensive Guide for React Developers](https://dev.to/srijan_karki/unlocking-the-power-of-useref-a-comprehensive-guide-for-react-developers-2jee)
+- [A detailed guid to create an AI Shopify App - Step by Step](https://dev.to/adibmed/a-detailed-guid-to-create-an-ai-shopify-app-step-by-step-1g7f)
+- [#36 — Match The First Part of The Cell Value](https://dev.to/judith677/36-match-the-first-part-of-the-cell-value-4g17)
+- [Unlock the Secrets of Computer Systems with Carnegie-Mellon&#39;s ICS Course! 🖥️](https://dev.to/getvm/unlock-the-secrets-of-computer-systems-with-carnegie-mellons-ics-course-4le9)
+- [How to Dockerize a React Application](https://dev.to/sh20raj/how-to-dockerize-a-react-application-19kc)
 <!-- BLOG-POST-LIST:END -->
 
