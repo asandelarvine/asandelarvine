@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 93-95] I built an interactive database in PostgreSQL using a shell script](https://dev.to/thomascansino/day-93-95-i-built-an-interactive-database-in-postgresql-using-a-shell-script-2f0p)
-- [Answer: Could not open mysql.plugin table. Some plugins may be not loaded](https://dev.to/pablohub44/answer-could-not-open-mysqlplugin-table-some-plugins-may-be-not-loaded-4ddp)
-- [Transitioning from JavaScript to TypeScript: A Beginner’s Guide 2024](https://dev.to/iamfaham/transitioning-from-javascript-to-typescript-a-beginners-guide-2024-51hj)
-- [🚀 Elevate Your Kubernetes Game with Cyclops: The Ultimate Beginner’s Guide](https://dev.to/aviralgarg05/elevate-your-kubernetes-game-with-cyclops-the-ultimate-beginners-guide-18he)
+- [What is LLM Observability and Monitoring?](https://dev.to/lina_lam_9ee459f98b67e9d5/what-is-llm-observability-and-monitoring-2fmp)
+- [What is LLM Observability and Monitoring?](https://dev.to/lina_lam_9ee459f98b67e9d5/what-is-llm-observability-and-monitoring-4ip0)
+- [Funtoo: the end of a Linux distro](https://dev.to/luiztux/funtoo-the-end-of-a-linux-distro-48n5)
+- [Simplifying Cross-Platform Payments with DAPs](https://dev.to/tbdevs/simplifying-cross-platform-payments-with-daps-2210)
 <!-- BLOG-POST-LIST:END -->
 
