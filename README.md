@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP crash course: Simple Contact Form](https://dev.to/mdarifulhaque/php-crash-course-simple-contact-form-26n4)
-- [Comparing the Best Free Currency Converter APIs for Developers](https://dev.to/martinbaldwin127/comparing-the-best-free-currency-converter-apis-for-developers-37f4)
-- [How to Optimize SQL Queries by Understanding the SQL Execution Order](https://dev.to/marcosconci/how-to-optimize-sql-queries-by-understanding-the-sql-execution-order-1fic)
-- [.NET MVC CAS Authentication](https://dev.to/feridaksahin/net-mvc-cas-authentication-3no3)
+- [React Components: Class vs Functional.](https://dev.to/taiwocodes/react-components-class-vs-functional-5ebm)
+- [Interview: All You Wanted to Know Before Starting Crypto Trading](https://dev.to/endeo/interview-all-you-wanted-to-know-before-starting-crypto-trading-2j9j)
+- [Web Theory - Part 7 : Progressive Enhancement: a Design Philosophy to Build Your Website for Everyone!](https://dev.to/teclearn/web-theory-part-7-progressive-enhancement-a-design-philosophy-to-build-your-website-for-everyone-45b)
+- [hello, maybe i am back for a while](https://dev.to/c33s/hello-maybe-i-am-back-for-a-while-30m3)
 <!-- BLOG-POST-LIST:END -->
 
