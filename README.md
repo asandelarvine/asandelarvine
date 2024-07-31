@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Components: Class vs Functional.](https://dev.to/taiwocodes/react-components-class-vs-functional-5ebm)
-- [Interview: All You Wanted to Know Before Starting Crypto Trading](https://dev.to/endeo/interview-all-you-wanted-to-know-before-starting-crypto-trading-2j9j)
-- [Web Theory - Part 7 : Progressive Enhancement: a Design Philosophy to Build Your Website for Everyone!](https://dev.to/teclearn/web-theory-part-7-progressive-enhancement-a-design-philosophy-to-build-your-website-for-everyone-45b)
-- [hello, maybe i am back for a while](https://dev.to/c33s/hello-maybe-i-am-back-for-a-while-30m3)
+- [Key Enhancements in Java 22](https://dev.to/glnurltn/key-enhancements-in-java-22-3eh1)
+- [Day 1000 : Opportunity Knocks](https://dev.to/dwane/day-1000-opportunity-knocks-31km)
+- [Making a REST API typesafe with React Query and Zod](https://dev.to/noahflk/making-a-rest-api-typesafe-with-react-query-and-zod-41i8)
+- [Server Certificate Chain](https://dev.to/sambo2021/certificate-chain-5a80)
 <!-- BLOG-POST-LIST:END -->
 
