@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 questions to ask yourself before applying to that job](https://dev.to/jesalg/6-questions-to-ask-yourself-before-applying-to-that-job-12j8)
-- [Behind the Scenes: Solutioning for React ChatBotify&#39;s Themes](https://dev.to/tjtanjin/behind-the-scenes-solutioning-for-react-chatbotifys-themes-1ogl)
-- [Brightness control for Samsung Odyssey G7](https://dev.to/zhekpisov/brightness-control-for-samsung-odyssey-g7-1d69)
-- [Running NixOS Guests on QEMU](https://dev.to/vst/running-nixos-guests-on-qemu-3lpa)
+- [[DAY 93-95] I built an interactive database in PostgreSQL using a shell script](https://dev.to/thomascansino/day-93-95-i-built-an-interactive-database-in-postgresql-using-a-shell-script-2f0p)
+- [Answer: Could not open mysql.plugin table. Some plugins may be not loaded](https://dev.to/pablohub44/answer-could-not-open-mysqlplugin-table-some-plugins-may-be-not-loaded-4ddp)
+- [Transitioning from JavaScript to TypeScript: A Beginner’s Guide 2024](https://dev.to/iamfaham/transitioning-from-javascript-to-typescript-a-beginners-guide-2024-51hj)
+- [🚀 Elevate Your Kubernetes Game with Cyclops: The Ultimate Beginner’s Guide](https://dev.to/aviralgarg05/elevate-your-kubernetes-game-with-cyclops-the-ultimate-beginners-guide-18he)
 <!-- BLOG-POST-LIST:END -->
 
