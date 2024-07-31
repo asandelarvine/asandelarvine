@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby on Rails Quiz](https://dev.to/hrishio/ruby-on-rails-quiz-29e3)
-- [Boletín AWS Open Source, July Edition](https://dev.to/aws-espanol/boletin-aws-open-source-july-edition-52p1)
-- [Best 5 Open Source Vue js Frameworks](https://dev.to/eguvenc/best-5-open-source-vue-js-frameworks-5ceb)
-- [How to create an animated expanding search bar with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-expanding-search-bar-with-tailwind-css-3407)
+- [Be A Millionaire...](https://dev.to/xolisa_vw/be-a-millionaire-286l)
+- [C# {Integral Types}](https://dev.to/firdavs090/c-integral-types-3eli)
+- [Boost Your RAG Performance with Tavily Search API](https://dev.to/octoopt/boost-your-rag-performance-with-tavily-search-api-211b)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-22en)
 <!-- BLOG-POST-LIST:END -->
 
