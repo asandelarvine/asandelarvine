@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State of Hiring in Software Engineering: July 2024](https://dev.to/100signals/state-of-hiring-in-software-engineering-july-2024-2o71)
-- [Best Practices to Overcome the Challenges of Migrating to NetSuite](https://dev.to/digitalpesitacl/best-practices-to-overcome-the-challenges-of-migrating-to-netsuite-4che)
-- [Vivino vs. TinEye vs. API4AI vs. Delectable: Which Wine Label Recognition Tool is Best?](https://dev.to/api4ai/vivino-vs-tineye-vs-api4ai-vs-delectable-which-wine-label-recognition-tool-is-best-1o9m)
-- [The Road to Publishing an Android App](https://dev.to/terabytetiger/the-road-to-publishing-an-app-2c2g)
+- [Microsserviços, uma abordagem prática - Implantação contínua](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-implantacao-continua-2ffd)
+- [Using Postman For API Documentation: All You Need To Know](https://dev.to/dumebii/using-postman-for-api-documentation-all-you-need-to-know-2ap9)
+- [Getting Started with AWS CDK in Python: A Comprehensive and Easy-to-Follow Guide](https://dev.to/kelvinskell/getting-started-with-aws-cdk-in-python-a-comprehensive-and-easy-to-follow-guide-2k44)
+- [TypeScript strictly typed - Part 4: full static types](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-4-full-static-types-8bc)
 <!-- BLOG-POST-LIST:END -->
 
