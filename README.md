@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Principle of least astonishment - tech product POV](https://dev.to/shagun/principle-of-least-astonishment-tech-product-pov-228h)
-- [C# da Arefmetik operators](https://dev.to/islomali99/c-da-arefmetik-operators-1eha)
-- [Understanding the Extension of Kubernetes APIs with Custom Resource Definition](https://dev.to/alpharm/understanding-the-extension-of-kubernetes-apis-with-custom-resource-definition-3k8)
-- [SaaS platforms are highly scalable](https://dev.to/bakhtt_menn99_220ab19f5f7/saas-platforms-are-highly-scalable-2ekg)
+- [PHP crash course: Simple Contact Form](https://dev.to/mdarifulhaque/php-crash-course-simple-contact-form-26n4)
+- [Comparing the Best Free Currency Converter APIs for Developers](https://dev.to/martinbaldwin127/comparing-the-best-free-currency-converter-apis-for-developers-37f4)
+- [How to Optimize SQL Queries by Understanding the SQL Execution Order](https://dev.to/marcosconci/how-to-optimize-sql-queries-by-understanding-the-sql-execution-order-1fic)
+- [.NET MVC CAS Authentication](https://dev.to/feridaksahin/net-mvc-cas-authentication-3no3)
 <!-- BLOG-POST-LIST:END -->
 
