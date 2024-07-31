@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsserviços, uma abordagem prática - Implantação contínua](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-implantacao-continua-2ffd)
-- [Using Postman For API Documentation: All You Need To Know](https://dev.to/dumebii/using-postman-for-api-documentation-all-you-need-to-know-2ap9)
-- [Getting Started with AWS CDK in Python: A Comprehensive and Easy-to-Follow Guide](https://dev.to/kelvinskell/getting-started-with-aws-cdk-in-python-a-comprehensive-and-easy-to-follow-guide-2k44)
-- [TypeScript strictly typed - Part 4: full static types](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-4-full-static-types-8bc)
+- [Getting Started with GraphQL](https://dev.to/intuitdev/getting-started-with-graphql-am7)
+- [An Introduction to Auth0 for Ruby on Rails](https://dev.to/appsignal/an-introduction-to-auth0-for-ruby-on-rails-5hhg)
+- [Playwright adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/playwright-adoption-guide-overview-examples-and-alternatives-2d2a)
+- [Hello Dev Community!](https://dev.to/techgeniuskaran/hello-dev-community-419m)
 <!-- BLOG-POST-LIST:END -->
 
