@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS: Essential Techniques for Exceptional Web Design](https://dev.to/arsalanmeee/mastering-css-essential-techniques-for-exceptional-web-design-2b3i)
-- [Building a Decentralized Exchange on Stellar: From Concept to Code](https://dev.to/onwuagba/building-a-decentralized-exchange-on-stellar-from-concept-to-code-4mk8)
-- [Free Unlimited Hosting Using Cloudflare + Truly Unmetered](https://dev.to/sh20raj/free-unlimited-hosting-using-cloudflare-truly-unmetered-1jhp)
-- [Casting qilish](https://dev.to/islomali99/casting-qilish-27ig)
+- [Principle of least astonishment - tech product POV](https://dev.to/shagun/principle-of-least-astonishment-tech-product-pov-228h)
+- [C# da Arefmetik operators](https://dev.to/islomali99/c-da-arefmetik-operators-1eha)
+- [Understanding the Extension of Kubernetes APIs with Custom Resource Definition](https://dev.to/alpharm/understanding-the-extension-of-kubernetes-apis-with-custom-resource-definition-3k8)
+- [SaaS platforms are highly scalable](https://dev.to/bakhtt_menn99_220ab19f5f7/saas-platforms-are-highly-scalable-2ekg)
 <!-- BLOG-POST-LIST:END -->
 
