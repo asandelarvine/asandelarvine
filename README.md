@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with GraphQL](https://dev.to/intuitdev/getting-started-with-graphql-am7)
-- [An Introduction to Auth0 for Ruby on Rails](https://dev.to/appsignal/an-introduction-to-auth0-for-ruby-on-rails-5hhg)
-- [Playwright adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/playwright-adoption-guide-overview-examples-and-alternatives-2d2a)
-- [Hello Dev Community!](https://dev.to/techgeniuskaran/hello-dev-community-419m)
+- [6 questions to ask yourself before applying to that job](https://dev.to/jesalg/6-questions-to-ask-yourself-before-applying-to-that-job-12j8)
+- [Behind the Scenes: Solutioning for React ChatBotify&#39;s Themes](https://dev.to/tjtanjin/behind-the-scenes-solutioning-for-react-chatbotifys-themes-1ogl)
+- [Brightness control for Samsung Odyssey G7](https://dev.to/zhekpisov/brightness-control-for-samsung-odyssey-g7-1d69)
+- [Running NixOS Guests on QEMU](https://dev.to/vst/running-nixos-guests-on-qemu-3lpa)
 <!-- BLOG-POST-LIST:END -->
 
