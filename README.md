@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v287](https://dev.to/devteam/welcome-thread-v287-91p)
-- [Common JavaScript Gotchas](https://dev.to/doozieakshay/common-javascript-gotchas-1o1m)
-- [Latest React Tips and Tricks in 2024](https://dev.to/shariqahmed525/latest-react-tips-and-tricks-in-2024-1fh6)
-- [Apache Kafka on Amazon Linux EC2](https://dev.to/sagarlakshmipathy/apache-kafka-on-amazon-linux-ec2-579j)
+- [How Data Encryption Can Simplify Infrastructure Architecture](https://dev.to/jarrid/how-data-encryption-can-simplify-infrastructure-architecture-49mp)
+- [Understanding Branch Coverage](https://dev.to/keploy/understanding-branch-coverage-5a84)
+- [A PAGE TALKS ABOUT &lpar;The Tricentis Tools Stack: AI-powered Test Management for JIRA&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-tricentis-tools-stack-ai-powered-test-management-for-jira-50m9)
+- [Diary of a Neurodivergent: Chapter 0](https://dev.to/lasr21/diary-of-a-neurodivergent-chapter-0-323d)
 <!-- BLOG-POST-LIST:END -->
 
