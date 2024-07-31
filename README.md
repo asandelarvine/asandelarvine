@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Data Encryption Can Simplify Infrastructure Architecture](https://dev.to/jarrid/how-data-encryption-can-simplify-infrastructure-architecture-49mp)
-- [Understanding Branch Coverage](https://dev.to/keploy/understanding-branch-coverage-5a84)
-- [A PAGE TALKS ABOUT &lpar;The Tricentis Tools Stack: AI-powered Test Management for JIRA&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-tricentis-tools-stack-ai-powered-test-management-for-jira-50m9)
-- [Diary of a Neurodivergent: Chapter 0](https://dev.to/lasr21/diary-of-a-neurodivergent-chapter-0-323d)
+- [AI Chatbot Architecture](https://dev.to/viksingh/ai-chatbot-architecture-nho)
+- [Fixing “nginx -s reload: [error] invalid PID number ‘’ in ‘/run/nginx.pid’” Error Like a Pro](https://dev.to/tigerzh/fixing-nginx-s-reload-error-invalid-pid-number-in-runnginxpid-error-like-a-pro-1e58)
+- [40 Days Of Kubernetes &lpar;24/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-2440-4lip)
+- [Submit 2 or More forms in one button click](https://dev.to/armanrahman/submit-2-or-more-forms-in-one-button-click-30aj)
 <!-- BLOG-POST-LIST:END -->
 
