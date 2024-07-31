@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the real point of Microservices? - should I start with Monolith](https://dev.to/ivangavlik/whats-the-real-point-of-microservices-should-i-start-with-monolith-1b61)
-- [App Development Process - Compendium from Angela Yu&#39;s class from London app brewery](https://dev.to/valerianagit/app-development-process-compendium-from-angela-yus-class-from-london-app-brewery-dic)
-- [Tic-Tac-Toe JavaScript Game for Beginners](https://dev.to/marcosconci/tic-tac-toe-javascript-game-for-beginners-3lch)
-- [Prisma migration stuck?](https://dev.to/digitaldrreamer/prisma-migration-stuck-7l5)
+- [🧑‍💻FREECODECAMP FORUM LEADERBOARD](https://dev.to/mrigank_bhardwaj1304/freecodecamp-forum-leaderboard-2cm4)
+- [Runway ML: God-Tier Video Generator](https://dev.to/cdmrkt/runway-ml-god-tier-video-generator-59ob)
+- [No Matter How You Do It, Build Things](https://dev.to/mibii/no-matter-how-you-do-it-build-things-385c)
+- [Creating and Managing Databases with SQLite and Python](https://dev.to/masonbarnes645/creating-and-managing-databases-with-sqlite-and-python-2aap)
 <!-- BLOG-POST-LIST:END -->
 
