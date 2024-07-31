@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 development tools, ✋ Refuse to work overtime and stay up late](https://dev.to/tanping/5-development-tools-refuse-to-work-overtime-and-stay-up-late-5hkm)
-- [DevOps Tool Installer/Uninstaller](https://dev.to/prodevopsguytech/devops-tool-installeruninstaller-24e)
-- [How to Use Generative AI for Exploratory Testing](https://dev.to/berthaw82414312/how-to-use-generative-ai-for-exploratory-testing-3pb5)
-- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3opf)
+- [Stop Making These Mistakes in Your React Native App](https://dev.to/aneeqakhan/stop-making-these-mistakes-in-your-react-native-app-2gmf)
+- [[linux] list processes using a file](https://dev.to/nitwit/linux-list-processes-using-a-file-18dl)
+- [&quot;An Introduction to Binary Search Algorithm&quot;](https://dev.to/venkatesh122/use-copilot-to-write-and-translate-a-binary-search-algorithm-49e8)
+- [Data Analytics 101: A Comprehensive Guide to a Data-Driven World.](https://dev.to/akash10_singh/data-analytics-101-a-comprehensive-guide-to-a-data-driven-world-5f9)
 <!-- BLOG-POST-LIST:END -->
 
