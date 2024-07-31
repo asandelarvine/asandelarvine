@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Revolutionizing the Olympics 2024 in Paris](https://dev.to/nishantbijani/how-ai-is-revolutionizing-the-olympics-2024-in-paris-3jc5)
-- [String Metodlari](https://dev.to/jurabek777/string-metodlari-2ki5)
-- [NYRCL](https://dev.to/debugging_dragon/nyrcl-2pk1)
-- [C# {String Methods}](https://dev.to/firdavs090/c-string-methods-1h32)
+- [State of Hiring in Software Engineering: July 2024](https://dev.to/100signals/state-of-hiring-in-software-engineering-july-2024-2o71)
+- [Best Practices to Overcome the Challenges of Migrating to NetSuite](https://dev.to/digitalpesitacl/best-practices-to-overcome-the-challenges-of-migrating-to-netsuite-4che)
+- [Vivino vs. TinEye vs. API4AI vs. Delectable: Which Wine Label Recognition Tool is Best?](https://dev.to/api4ai/vivino-vs-tineye-vs-api4ai-vs-delectable-which-wine-label-recognition-tool-is-best-1o9m)
+- [The Road to Publishing an Android App](https://dev.to/terabytetiger/the-road-to-publishing-an-app-2c2g)
 <!-- BLOG-POST-LIST:END -->
 
