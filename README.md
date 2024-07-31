@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando los Fundamentos de la Programación Orientada a Objetos en C#](https://dev.to/maadcode/explorando-los-fundamentos-de-la-programacion-orientada-a-objetos-en-c-284d)
-- [Integrating Git with CI/CD Pipelines – Part 8](https://dev.to/dipakahirav/integrating-git-with-cicd-pipelines-part-8-2i5j)
-- [Part 3: Building Powerful Chains and Agents in LangChain](https://dev.to/jamesbmour/part-3-building-powerful-chains-and-agents-in-langchain-5g04)
-- [Dynamic Table Creation with Alpine JS](https://dev.to/aazwar/dynamic-table-creation-with-alpine-js-2ha4)
+- [Evolution of Database Design in Our Startup](https://dev.to/first_cyber23/evolution-of-database-design-in-our-startup-2fci)
+- [🤖 100 Days of Generative AI - Day 5 - Understanding Inference Parameters in AI Models 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-5-understanding-inference-parameters-in-ai-models-3dch)
+- [Macros in C](https://dev.to/shaiquehossain/macros-in-c-45c7)
+- [Exploring KubeSpy : Day 19 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-kubespy-day-19-of-50-days-devops-tools-series-p9b)
 <!-- BLOG-POST-LIST:END -->
 
