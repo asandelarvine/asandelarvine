@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Making These Mistakes in Your React Native App](https://dev.to/aneeqakhan/stop-making-these-mistakes-in-your-react-native-app-2gmf)
-- [[linux] list processes using a file](https://dev.to/nitwit/linux-list-processes-using-a-file-18dl)
-- [&quot;An Introduction to Binary Search Algorithm&quot;](https://dev.to/venkatesh122/use-copilot-to-write-and-translate-a-binary-search-algorithm-49e8)
-- [Data Analytics 101: A Comprehensive Guide to a Data-Driven World.](https://dev.to/akash10_singh/data-analytics-101-a-comprehensive-guide-to-a-data-driven-world-5f9)
+- [Ruby on Rails Quiz](https://dev.to/hrishio/ruby-on-rails-quiz-29e3)
+- [Boletín AWS Open Source, July Edition](https://dev.to/aws-espanol/boletin-aws-open-source-july-edition-52p1)
+- [Best 5 Open Source Vue js Frameworks](https://dev.to/eguvenc/best-5-open-source-vue-js-frameworks-5ceb)
+- [How to create an animated expanding search bar with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-expanding-search-bar-with-tailwind-css-3407)
 <!-- BLOG-POST-LIST:END -->
 
