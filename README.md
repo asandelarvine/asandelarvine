@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is LLM Observability and Monitoring?](https://dev.to/lina_lam_9ee459f98b67e9d5/what-is-llm-observability-and-monitoring-2fmp)
-- [What is LLM Observability and Monitoring?](https://dev.to/lina_lam_9ee459f98b67e9d5/what-is-llm-observability-and-monitoring-4ip0)
-- [Funtoo: the end of a Linux distro](https://dev.to/luiztux/funtoo-the-end-of-a-linux-distro-48n5)
-- [Simplifying Cross-Platform Payments with DAPs](https://dev.to/tbdevs/simplifying-cross-platform-payments-with-daps-2210)
+- [How to build and Deploy an E-Commerce Platform with Git-Linux-and-AWS](https://dev.to/ooluwatobi_o/how-to-build-and-deploy-an-e-commerce-platform-with-git-linux-and-aws-1loa)
+- [I built a global chess board from scratch completely with Claude &lpar;NextJs &amp; Firebase&rpar;](https://dev.to/kubeden/i-built-a-global-chess-board-from-scratch-completely-with-claude-nextjs-firebase-4cci)
+- [C# da input qilish](https://dev.to/islomali99/c-da-input-qilish-g86)
+- [unable to use search tool](https://dev.to/sanjay_murmu_b075988bd67e/unable-to-use-search-tool-4nn3)
 <!-- BLOG-POST-LIST:END -->
 
