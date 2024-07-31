@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Chatbot Architecture](https://dev.to/viksingh/ai-chatbot-architecture-nho)
-- [Fixing “nginx -s reload: [error] invalid PID number ‘’ in ‘/run/nginx.pid’” Error Like a Pro](https://dev.to/tigerzh/fixing-nginx-s-reload-error-invalid-pid-number-in-runnginxpid-error-like-a-pro-1e58)
-- [40 Days Of Kubernetes &lpar;24/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-2440-4lip)
-- [Submit 2 or More forms in one button click](https://dev.to/armanrahman/submit-2-or-more-forms-in-one-button-click-30aj)
+- [5 development tools, ✋ Refuse to work overtime and stay up late](https://dev.to/tanping/5-development-tools-refuse-to-work-overtime-and-stay-up-late-5hkm)
+- [DevOps Tool Installer/Uninstaller](https://dev.to/prodevopsguytech/devops-tool-installeruninstaller-24e)
+- [How to Use Generative AI for Exploratory Testing](https://dev.to/berthaw82414312/how-to-use-generative-ai-for-exploratory-testing-3pb5)
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3opf)
 <!-- BLOG-POST-LIST:END -->
 
