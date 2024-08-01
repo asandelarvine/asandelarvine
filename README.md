@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Api Rest .Net completa com JwtToken integração com api ViaCep utilizando padrão de arquitetura clean architecture - parte 3](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-parte-3-21o9)
-- [How Meta Tags Affect Page SEO](https://dev.to/juddiy/how-meta-tags-affect-page-seo-h1f)
-- [5 Top Github READMEs](https://dev.to/nathanielchit/5-top-github-readmes-hn5)
-- [Writing Python code like Typescript](https://dev.to/bimaadi/writing-python-code-like-typescript-1le)
+- [The Software Method-001 Profit = Requirements - Design](https://dev.to/jiayufagao/the-software-method-001-profit-requirements-design-4dja)
+- [Exploring Polaris : Day 20 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-polaris-day-20-of-50-days-devops-tools-series-1p6f)
+- [Best Free APIs for React, Next.js, and Full-Stack Developers](https://dev.to/mihir_bhadak/best-free-apis-for-react-nextjs-and-full-stack-developers-4lbd)
+- [#37 — Replace Duplicate Items with The Specified Text](https://dev.to/judith677/37-replace-duplicate-items-with-the-specified-text-2iee)
 <!-- BLOG-POST-LIST:END -->
 
