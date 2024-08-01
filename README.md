@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two-way Binding can be a One-way Street](https://dev.to/mlrawlings/two-way-binding-can-be-a-one-way-street-1o3)
-- [Aug 7 - Developing Data-Centric AI Applications Workshop](https://dev.to/voxel51/aug-7-developing-data-centric-ai-applications-workshop-a5l)
-- [Background Tasks with FastAPI Background Tasks and Celery + Redis - FastAPI Beyond CRUD &lpar;Part 20&rpar;](https://dev.to/jod35/background-tasks-with-fastapi-background-tasks-and-celery-redis-fastapi-beyond-crud-part-20-1ilh)
-- [Dart-Powered Firebase Security: Exploring Flood&#39;s Drop and Automate Modules](https://dev.to/jakeboychenko/dart-powered-firebase-security-exploring-floods-drop-and-automate-modules-1i9b)
+- [[Game of Purpose] Day 75](https://dev.to/humberd/game-of-purpose-day-75-jh7)
+- [Common Ports and Protocols](https://dev.to/nayetwolf/common-ports-and-protocols-2nb9)
+- [I&#39;m launching: RemotyJobs.com! 🚀](https://dev.to/maurobonfietti/im-launching-remotyjobscom-4b08)
+- [Data Structures and Algorithms: Heaps](https://dev.to/faraib/data-structures-and-algorithms-heaps-1n21)
 <!-- BLOG-POST-LIST:END -->
 
