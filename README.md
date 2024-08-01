@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MERN Stack Development](https://dev.to/ankansaha/mern-stack-development-32ck)
-- [Building a Scalable API with Node.js and Express](https://dev.to/ankansaha/building-a-scalable-api-with-nodejs-and-express-5b1l)
-- [A Beginner’s Guide to Minimalist Design](https://dev.to/andrewcknight/a-beginners-guide-to-minimalist-design-50mc)
-- [FormEngine Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formengine-alternative-a-comprehensive-comparison-with-surveyjs-4m5a)
+- [Kriptografi](https://dev.to/nabirecybersecurity/kriptografi-3lgd)
+- [Integrate Google OAuth2 authentication into the django-rest-framework](https://dev.to/fromsian/integrate-google-oauth2-authentication-into-the-django-rest-framework-39hj)
+- [How you found your first client as a freelancer?](https://dev.to/obceylan/how-you-found-your-first-client-as-a-freelancer-18nj)
+- [Day 15 of 100 Days of Cloud: Getting Started with OpenTofu](https://dev.to/tutorialhelldev/day-15-of-100-days-of-cloud-getting-started-with-opentofu-1iem)
 <!-- BLOG-POST-LIST:END -->
 
