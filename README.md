@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Open Source MLOps Projects You Didn’t Know About](https://dev.to/kitops/10-open-source-mlops-projects-you-didnt-know-about-5bf5)
-- [A Beginners Guide to Using Spring Boot Actuator](https://dev.to/isaactony/a-beginners-guide-to-using-spring-boot-actuator-5g3n)
-- [Vite vs NextJs: which frontend framework is for you?](https://dev.to/codeparrot/vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp)
-- [AI Tools and Directories fresh list](https://dev.to/pablonax/ai-tools-and-directories-fresh-list-1cdn)
+- [Server-Side Rendering](https://dev.to/suhaspalani/server-side-rendering-5a5d)
+- [Gerenciamento de projetos ágeis: O inicio de tudo](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-o-inicio-de-tudo-4kfa)
+- [Postgres major version upgrades with minimal downtime](https://dev.to/xata/postgres-major-version-upgrades-with-minimal-downtime-1k0m)
+- [Instant Message Display in Chat Apps with htmx](https://dev.to/kuba_szw/instant-message-display-in-chat-apps-with-htmx-l9d)
 <!-- BLOG-POST-LIST:END -->
 
