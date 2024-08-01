@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free tier API with Apache APISIX](https://dev.to/apisix/free-tier-api-with-apache-apisix-5cgo)
-- [The Impact of Security Misconfigurations on Data Breach Incidents](https://dev.to/gitprotect/the-impact-of-security-misconfigurations-on-data-breach-incidents-4k85)
-- [Usage of Django `.values_list&lpar;&rpar;` method in a view](https://dev.to/doridoro/usage-of-django-valueslist-method-in-a-view-1437)
-- [Google Docs: Unpacking the Magic of Real-Time Collaboration](https://dev.to/ari-ghosh/google-docs-unpacking-the-magic-of-real-time-collaboration-pm5)
+- [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0)
+- [Desktop E-commerce Application](https://dev.to/rabiezouita11/desktop-e-commerce-application-2fff)
+- [“Be wary of time complexity pitfalls&quot;](https://dev.to/mengqinyuan/be-wary-of-time-complexity-pitfalls-13jf)
+- [Building a Single Page Application &lpar;SPA&rpar; with Angular Introduction](https://dev.to/zache_niyokwizera_3ea666/building-a-single-page-application-spa-with-angularintroduction-bd)
 <!-- BLOG-POST-LIST:END -->
 
