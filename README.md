@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Menambakan Husky Pada Nextjs 14](https://dev.to/saepulmalik27/menambakan-husky-pada-nextjs-14-2hhl)
-- [How to Create Your First Wallet in Web3 with just ... a touch](https://dev.to/imduchuyyy/how-to-create-your-first-wallet-in-web3-with-just-a-touch-3p3h)
-- [SOLID Principles in Software Development](https://dev.to/vivekyadav200988/solid-principles-in-software-development-2f1m)
-- [🌟 Build Your Own AI Tools with the AI Builder Kit! 🌟](https://dev.to/chanity/build-your-own-ai-tools-with-the-ai-builder-kit-56eg)
+- [Real-Time Resume Ready DevOps Projects](https://dev.to/prodevopsguytech/real-time-resume-ready-devops-projects-2n5i)
+- [Resetting a Firebase User Password in C# Using Firebase SDK](https://dev.to/i_a_m_g_a_u_r_a_v/resetting-a-firebase-user-password-in-c-using-firebase-sdk-4p9g)
+- [A 10-Step Guide to Migrating From Monolith to Microservices Architecture](https://dev.to/marutitech/a-10-step-guide-to-migrating-from-monolith-to-microservices-architecture-2od4)
+- [React Native State Management: The Ultimate Guide [2024]](https://dev.to/alexsam986/react-native-state-management-the-ultimate-guide-2df6)
 <!-- BLOG-POST-LIST:END -->
 
