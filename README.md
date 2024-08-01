@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transpose Multiple Columns into One Row in Each Group #eg15](https://dev.to/esproc_spl/transpose-multiple-columns-into-one-row-in-each-group-eg15-44gf)
-- [Make your Rails App Configurable in 4 Ways](https://dev.to/pimp_my_ruby/make-your-rails-app-configurable-in-4-ways-h5k)
-- [Using secure_file_priv to Prevent Illicit MySQL Uploads](https://dev.to/dbvismarketing/using-securefilepriv-to-prevent-illicit-mysql-uploads-26ge)
-- [Day 31 of 100 Days of Code](https://dev.to/jacobsternx/day-31-of-100-days-of-code-nld)
+- [I added an RSS Feed – You Should Too!](https://dev.to/mrlinxed/i-added-an-rss-feed-you-should-too-26bo)
+- [✨ Simple trick for printing a div](https://dev.to/joshuaamaju/simple-trick-for-printing-a-div-1kb5)
+- [How to solve Symfony\Component\Routing\Exception\RouteNotFoundException Route [filament.admin.resources.api-keys.index] not](https://dev.to/abdulwahidkahar/how-to-solve-symfonycomponentroutingexceptionroutenotfoundexception-route-filamentadminresourcesapi-keysindex-not-3667)
+- [The Impact of AI on the Job Market: Opportunities and Challenges Ahead](https://dev.to/eazealliance/the-impact-of-ai-on-the-job-market-opportunities-and-challenges-ahead-28m0)
 <!-- BLOG-POST-LIST:END -->
 
