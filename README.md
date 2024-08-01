@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is the Recommended Number of Hours to Work in a Week?](https://dev.to/bryany/what-is-the-recommended-number-of-hours-to-work-in-a-week-5bdm)
-- [OCR Solutions Uncovered: How to Choose the Best for Different Use Cases](https://dev.to/api4ai/ocr-solutions-uncovered-how-to-choose-the-best-for-different-use-cases-1mel)
-- [Understanding the Roles and Responsibilities of a Software Tester In SDLC](https://dev.to/robort_smith/understanding-the-roles-and-responsibilities-of-a-software-tester-in-sdlc-248g)
-- [Why To Choose Selenium Framework for Automation Testing?](https://dev.to/vijayashree44/why-to-choose-selenium-framework-for-automation-testing-2ol6)
+- [MediatR with .NET 6.0](https://dev.to/hungrywolf/mediatr-with-net-60-3l9l)
+- [Java Training: Empowering Developers for Modern Software Development](https://dev.to/learn_more_594e6b8eb7057c/java-training-empowering-developers-for-modern-software-development-4j30)
+- [A complete guide on cloud-based applications for technology leaders](https://dev.to/softwebsolution/a-complete-guide-on-cloud-based-applications-for-technology-leaders-1he6)
+- [Software Testing: The Backbone of Quality Assurance](https://dev.to/learn_more_594e6b8eb7057c/software-testing-the-backbone-of-quality-assurance-35j2)
 <!-- BLOG-POST-LIST:END -->
 
