@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Poetry: Simplifying Python Dependency Management on Linux](https://dev.to/shanu-kumawat/poetry-simplifying-python-dependency-management-on-linux-3pfb)
-- [Glam Up My Markup Submission](https://dev.to/lakshita_kumawat/glam-up-my-markup-submission-55km)
-- [1.0 Figma UI/UX Design - Master the Tools and Techniques of Modern Interface Design Introduction](https://dev.to/dominicazuka/10-figma-uiux-design-master-the-tools-and-techniques-of-modern-interface-design-introduction-101i)
-- [🚀 Day 7 of My 21-Day JavaScript Challenge! 🎉](https://dev.to/rohit1301/day-7-of-my-21-day-javascript-challenge-51kj)
+- [How to connect PostgreSQL with Node.js and Sequelize](https://dev.to/codenoun/how-to-connect-postgresql-with-nodejs-and-sequelize-26jb)
+- [Why Software Engineering Graduates Don&#39;t Get Hired &lpar;The Hard Truth&rpar;](https://dev.to/mathalpha/why-software-engineering-graduates-dont-get-hired-the-hard-truth-2pk5)
+- [15 Common .NET &amp; C# Blunders Based On My Experience](https://dev.to/jamesmh/15-common-net-c-blunders-based-on-my-experience-2lg4)
+- [A Raw Guide to Extraordinary Corporate Success](https://dev.to/iwooky/a-raw-guide-to-extraordinary-corporate-success-3dj2)
 <!-- BLOG-POST-LIST:END -->
 
