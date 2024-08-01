@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Review of Hybrid Search in Milvus](https://dev.to/zilliz/a-review-of-hybrid-search-in-milvus-36ll)
-- [Getting Started with Svelte from React Dev Perspective, with Code Comparison](https://dev.to/syakirurahman/getting-started-with-svelte-from-react-dev-perspective-with-code-comparison-1ii5)
-- [Smarter Testing with AI/ML](https://dev.to/qyrusai/smarter-testing-with-aiml-3kcb)
-- [This Month in Solid #6: corvu updates, clerk SDK, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-6-corvu-updates-clerk-sdk-and-more-2hl0)
+- [PHP, The Internet&#39;s Favorite Scapegoat](https://dev.to/lunamiller/php-the-internets-favorite-scapegoat-2kde)
+- [Elevating Software Quality: The Crucial Role of Independent Software Testing Services](https://dev.to/testree/elevating-software-quality-the-crucial-role-of-independent-software-testing-services-gkl)
+- [From ground to production: Deploying Workload Identities on AKS](https://dev.to/anderson_leite_468328fb8b/from-ground-to-production-deploying-workload-identities-on-aks-57lj)
+- [Using RAG on media content with Bedrock Knowledge Bases and Amazon Transcribe](https://dev.to/zied/using-rag-on-media-content-with-bedrock-knowledge-bases-and-amazon-transcribe-2kpf)
 <!-- BLOG-POST-LIST:END -->
 
