@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Software Method-001 Profit = Requirements - Design](https://dev.to/jiayufagao/the-software-method-001-profit-requirements-design-4dja)
-- [Exploring Polaris : Day 20 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-polaris-day-20-of-50-days-devops-tools-series-1p6f)
-- [Best Free APIs for React, Next.js, and Full-Stack Developers](https://dev.to/mihir_bhadak/best-free-apis-for-react-nextjs-and-full-stack-developers-4lbd)
-- [#37 — Replace Duplicate Items with The Specified Text](https://dev.to/judith677/37-replace-duplicate-items-with-the-specified-text-2iee)
+- [Menambakan Husky Pada Nextjs 14](https://dev.to/saepulmalik27/menambakan-husky-pada-nextjs-14-2hhl)
+- [How to Create Your First Wallet in Web3 with just ... a touch](https://dev.to/imduchuyyy/how-to-create-your-first-wallet-in-web3-with-just-a-touch-3p3h)
+- [SOLID Principles in Software Development](https://dev.to/vivekyadav200988/solid-principles-in-software-development-2f1m)
+- [🌟 Build Your Own AI Tools with the AI Builder Kit! 🌟](https://dev.to/chanity/build-your-own-ai-tools-with-the-ai-builder-kit-56eg)
 <!-- BLOG-POST-LIST:END -->
 
