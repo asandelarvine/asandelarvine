@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A denial of service Regex breaks FastAPI security](https://dev.to/snyk/a-denial-of-service-regex-breaks-fastapi-security-2d22)
-- [Creating relationships using SQLAlchemy in Python](https://dev.to/spencer_adler_880da14d230/creating-relationships-using-sqlalchemy-in-python-572f)
-- [How To Stop Form Bots With Honeypot Fields](https://dev.to/jeffbuildstech/how-to-stop-form-bots-with-honeypot-fields-8od)
-- [Automate testing with Postman using environment variables](https://dev.to/toby_java/automate-testing-with-postman-using-environment-variables-208p)
+- [Api Rest .Net completa com JwtToken integração com api ViaCep utilizando padrão de arquitetura clean architecture - parte 3](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-parte-3-21o9)
+- [How Meta Tags Affect Page SEO](https://dev.to/juddiy/how-meta-tags-affect-page-seo-h1f)
+- [5 Top Github READMEs](https://dev.to/nathanielchit/5-top-github-readmes-hn5)
+- [Writing Python code like Typescript](https://dev.to/bimaadi/writing-python-code-like-typescript-1le)
 <!-- BLOG-POST-LIST:END -->
 
