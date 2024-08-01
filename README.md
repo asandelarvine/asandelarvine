@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I added an RSS Feed – You Should Too!](https://dev.to/mrlinxed/i-added-an-rss-feed-you-should-too-26bo)
-- [✨ Simple trick for printing a div](https://dev.to/joshuaamaju/simple-trick-for-printing-a-div-1kb5)
-- [How to solve Symfony\Component\Routing\Exception\RouteNotFoundException Route [filament.admin.resources.api-keys.index] not](https://dev.to/abdulwahidkahar/how-to-solve-symfonycomponentroutingexceptionroutenotfoundexception-route-filamentadminresourcesapi-keysindex-not-3667)
-- [The Impact of AI on the Job Market: Opportunities and Challenges Ahead](https://dev.to/eazealliance/the-impact-of-ai-on-the-job-market-opportunities-and-challenges-ahead-28m0)
+- [Free tier API with Apache APISIX](https://dev.to/apisix/free-tier-api-with-apache-apisix-5cgo)
+- [The Impact of Security Misconfigurations on Data Breach Incidents](https://dev.to/gitprotect/the-impact-of-security-misconfigurations-on-data-breach-incidents-4k85)
+- [Usage of Django `.values_list&lpar;&rpar;` method in a view](https://dev.to/doridoro/usage-of-django-valueslist-method-in-a-view-1437)
+- [Google Docs: Unpacking the Magic of Real-Time Collaboration](https://dev.to/ari-ghosh/google-docs-unpacking-the-magic-of-real-time-collaboration-pm5)
 <!-- BLOG-POST-LIST:END -->
 
