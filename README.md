@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0)
-- [Desktop E-commerce Application](https://dev.to/rabiezouita11/desktop-e-commerce-application-2fff)
-- [“Be wary of time complexity pitfalls&quot;](https://dev.to/mengqinyuan/be-wary-of-time-complexity-pitfalls-13jf)
-- [Building a Single Page Application &lpar;SPA&rpar; with Angular Introduction](https://dev.to/zache_niyokwizera_3ea666/building-a-single-page-application-spa-with-angularintroduction-bd)
+- [What Is the Recommended Number of Hours to Work in a Week?](https://dev.to/bryany/what-is-the-recommended-number-of-hours-to-work-in-a-week-5bdm)
+- [OCR Solutions Uncovered: How to Choose the Best for Different Use Cases](https://dev.to/api4ai/ocr-solutions-uncovered-how-to-choose-the-best-for-different-use-cases-1mel)
+- [Understanding the Roles and Responsibilities of a Software Tester In SDLC](https://dev.to/robort_smith/understanding-the-roles-and-responsibilities-of-a-software-tester-in-sdlc-248g)
+- [Why To Choose Selenium Framework for Automation Testing?](https://dev.to/vijayashree44/why-to-choose-selenium-framework-for-automation-testing-2ol6)
 <!-- BLOG-POST-LIST:END -->
 
