@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect PostgreSQL with Node.js and Sequelize](https://dev.to/codenoun/how-to-connect-postgresql-with-nodejs-and-sequelize-26jb)
-- [Why Software Engineering Graduates Don&#39;t Get Hired &lpar;The Hard Truth&rpar;](https://dev.to/mathalpha/why-software-engineering-graduates-dont-get-hired-the-hard-truth-2pk5)
-- [15 Common .NET &amp; C# Blunders Based On My Experience](https://dev.to/jamesmh/15-common-net-c-blunders-based-on-my-experience-2lg4)
-- [A Raw Guide to Extraordinary Corporate Success](https://dev.to/iwooky/a-raw-guide-to-extraordinary-corporate-success-3dj2)
+- [🚀Advanced JavaScript Techniques and Best Practices](https://dev.to/gadekar_sachin/advanced-javascript-techniques-and-best-practices-2b40)
+- [How To Train Your Codebase: Enhancing Readability, Reusability and Scalability with Modular Code](https://dev.to/shavonharrisdev/how-to-train-your-codebase-enhancing-readability-reusability-and-scalability-with-modular-code-476d)
+- [🛠️ Popular Automation Testing Tools](https://dev.to/gadekar_sachin/popular-automation-testing-tools-ig8)
+- [Day 4: Mastering Variables, JSON, and YAML in DevOps](https://dev.to/singh_in_cloud/day-4-mastering-variables-json-and-yaml-in-devops-gfo)
 <!-- BLOG-POST-LIST:END -->
 
