@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Advanced JavaScript Techniques and Best Practices](https://dev.to/gadekar_sachin/advanced-javascript-techniques-and-best-practices-2b40)
-- [How To Train Your Codebase: Enhancing Readability, Reusability and Scalability with Modular Code](https://dev.to/shavonharrisdev/how-to-train-your-codebase-enhancing-readability-reusability-and-scalability-with-modular-code-476d)
-- [🛠️ Popular Automation Testing Tools](https://dev.to/gadekar_sachin/popular-automation-testing-tools-ig8)
-- [Day 4: Mastering Variables, JSON, and YAML in DevOps](https://dev.to/singh_in_cloud/day-4-mastering-variables-json-and-yaml-in-devops-gfo)
+- [MERN Stack Development](https://dev.to/ankansaha/mern-stack-development-32ck)
+- [Building a Scalable API with Node.js and Express](https://dev.to/ankansaha/building-a-scalable-api-with-nodejs-and-express-5b1l)
+- [A Beginner’s Guide to Minimalist Design](https://dev.to/andrewcknight/a-beginners-guide-to-minimalist-design-50mc)
+- [FormEngine Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formengine-alternative-a-comprehensive-comparison-with-surveyjs-4m5a)
 <!-- BLOG-POST-LIST:END -->
 
