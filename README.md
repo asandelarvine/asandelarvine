@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Resume Ready DevOps Projects](https://dev.to/prodevopsguytech/real-time-resume-ready-devops-projects-2n5i)
-- [Resetting a Firebase User Password in C# Using Firebase SDK](https://dev.to/i_a_m_g_a_u_r_a_v/resetting-a-firebase-user-password-in-c-using-firebase-sdk-4p9g)
-- [A 10-Step Guide to Migrating From Monolith to Microservices Architecture](https://dev.to/marutitech/a-10-step-guide-to-migrating-from-monolith-to-microservices-architecture-2od4)
-- [React Native State Management: The Ultimate Guide [2024]](https://dev.to/alexsam986/react-native-state-management-the-ultimate-guide-2df6)
+- [Transpose Multiple Columns into One Row in Each Group #eg15](https://dev.to/esproc_spl/transpose-multiple-columns-into-one-row-in-each-group-eg15-44gf)
+- [Make your Rails App Configurable in 4 Ways](https://dev.to/pimp_my_ruby/make-your-rails-app-configurable-in-4-ways-h5k)
+- [Using secure_file_priv to Prevent Illicit MySQL Uploads](https://dev.to/dbvismarketing/using-securefilepriv-to-prevent-illicit-mysql-uploads-26ge)
+- [Day 31 of 100 Days of Code](https://dev.to/jacobsternx/day-31-of-100-days-of-code-nld)
 <!-- BLOG-POST-LIST:END -->
 
