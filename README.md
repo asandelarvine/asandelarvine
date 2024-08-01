@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Enhancements in Java 22](https://dev.to/glnurltn/key-enhancements-in-java-22-3eh1)
-- [Day 1000 : Opportunity Knocks](https://dev.to/dwane/day-1000-opportunity-knocks-31km)
-- [Making a REST API typesafe with React Query and Zod](https://dev.to/noahflk/making-a-rest-api-typesafe-with-react-query-and-zod-41i8)
-- [Server Certificate Chain](https://dev.to/sambo2021/certificate-chain-5a80)
+- [AWS vs. DevOps](https://dev.to/andrewtetzeli/aws-vs-devops-1p82)
+- [🌟 Corporate Ladder to Software Developer 🌟](https://dev.to/muydanny/corporate-ladder-to-software-developer-4cha)
+- [🌟 Corporate Ladder to Software Developer 🌟](https://dev.to/muydanny/corporate-ladder-to-software-developer-17hi)
+- [Swift Protocol-Oriented Programming](https://dev.to/kartikmehta8/swift-protocol-oriented-programming-199c)
 <!-- BLOG-POST-LIST:END -->
 
