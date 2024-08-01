@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering](https://dev.to/suhaspalani/server-side-rendering-5a5d)
-- [Gerenciamento de projetos ágeis: O inicio de tudo](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-o-inicio-de-tudo-4kfa)
-- [Postgres major version upgrades with minimal downtime](https://dev.to/xata/postgres-major-version-upgrades-with-minimal-downtime-1k0m)
-- [Instant Message Display in Chat Apps with htmx](https://dev.to/kuba_szw/instant-message-display-in-chat-apps-with-htmx-l9d)
+- [A Review of Hybrid Search in Milvus](https://dev.to/zilliz/a-review-of-hybrid-search-in-milvus-36ll)
+- [Getting Started with Svelte from React Dev Perspective, with Code Comparison](https://dev.to/syakirurahman/getting-started-with-svelte-from-react-dev-perspective-with-code-comparison-1ii5)
+- [Smarter Testing with AI/ML](https://dev.to/qyrusai/smarter-testing-with-aiml-3kcb)
+- [This Month in Solid #6: corvu updates, clerk SDK, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-6-corvu-updates-clerk-sdk-and-more-2hl0)
 <!-- BLOG-POST-LIST:END -->
 
