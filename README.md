@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kriptografi](https://dev.to/nabirecybersecurity/kriptografi-3lgd)
-- [Integrate Google OAuth2 authentication into the django-rest-framework](https://dev.to/fromsian/integrate-google-oauth2-authentication-into-the-django-rest-framework-39hj)
-- [How you found your first client as a freelancer?](https://dev.to/obceylan/how-you-found-your-first-client-as-a-freelancer-18nj)
-- [Day 15 of 100 Days of Cloud: Getting Started with OpenTofu](https://dev.to/tutorialhelldev/day-15-of-100-days-of-cloud-getting-started-with-opentofu-1iem)
+- [Two-way Binding can be a One-way Street](https://dev.to/mlrawlings/two-way-binding-can-be-a-one-way-street-1o3)
+- [Aug 7 - Developing Data-Centric AI Applications Workshop](https://dev.to/voxel51/aug-7-developing-data-centric-ai-applications-workshop-a5l)
+- [Background Tasks with FastAPI Background Tasks and Celery + Redis - FastAPI Beyond CRUD &lpar;Part 20&rpar;](https://dev.to/jod35/background-tasks-with-fastapi-background-tasks-and-celery-redis-fastapi-beyond-crud-part-20-1ilh)
+- [Dart-Powered Firebase Security: Exploring Flood&#39;s Drop and Automate Modules](https://dev.to/jakeboychenko/dart-powered-firebase-security-exploring-floods-drop-and-automate-modules-1i9b)
 <!-- BLOG-POST-LIST:END -->
 
