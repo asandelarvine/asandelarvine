@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MediatR with .NET 6.0](https://dev.to/hungrywolf/mediatr-with-net-60-3l9l)
-- [Java Training: Empowering Developers for Modern Software Development](https://dev.to/learn_more_594e6b8eb7057c/java-training-empowering-developers-for-modern-software-development-4j30)
-- [A complete guide on cloud-based applications for technology leaders](https://dev.to/softwebsolution/a-complete-guide-on-cloud-based-applications-for-technology-leaders-1he6)
-- [Software Testing: The Backbone of Quality Assurance](https://dev.to/learn_more_594e6b8eb7057c/software-testing-the-backbone-of-quality-assurance-35j2)
+- [10 Open Source MLOps Projects You Didn’t Know About](https://dev.to/kitops/10-open-source-mlops-projects-you-didnt-know-about-5bf5)
+- [A Beginners Guide to Using Spring Boot Actuator](https://dev.to/isaactony/a-beginners-guide-to-using-spring-boot-actuator-5g3n)
+- [Vite vs NextJs: which frontend framework is for you?](https://dev.to/codeparrot/vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp)
+- [AI Tools and Directories fresh list](https://dev.to/pablonax/ai-tools-and-directories-fresh-list-1cdn)
 <!-- BLOG-POST-LIST:END -->
 
