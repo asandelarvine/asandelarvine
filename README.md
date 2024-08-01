@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS vs. DevOps](https://dev.to/andrewtetzeli/aws-vs-devops-1p82)
-- [🌟 Corporate Ladder to Software Developer 🌟](https://dev.to/muydanny/corporate-ladder-to-software-developer-4cha)
-- [🌟 Corporate Ladder to Software Developer 🌟](https://dev.to/muydanny/corporate-ladder-to-software-developer-17hi)
-- [Swift Protocol-Oriented Programming](https://dev.to/kartikmehta8/swift-protocol-oriented-programming-199c)
+- [A denial of service Regex breaks FastAPI security](https://dev.to/snyk/a-denial-of-service-regex-breaks-fastapi-security-2d22)
+- [Creating relationships using SQLAlchemy in Python](https://dev.to/spencer_adler_880da14d230/creating-relationships-using-sqlalchemy-in-python-572f)
+- [How To Stop Form Bots With Honeypot Fields](https://dev.to/jeffbuildstech/how-to-stop-form-bots-with-honeypot-fields-8od)
+- [Automate testing with Postman using environment variables](https://dev.to/toby_java/automate-testing-with-postman-using-environment-variables-208p)
 <!-- BLOG-POST-LIST:END -->
 
