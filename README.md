@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Best Practices in Software Development 👨🏻‍💻](https://dev.to/fonteeboa/best-practices-in-software-development-3e53)
-- [Using Redis with .NET](https://dev.to/fabrcio_marcondessantos/using-redis-with-net-4404)
-- [Day 1002 : Go To Sleep](https://dev.to/dwane/day-1002-go-to-sleep-2pk1)
-- [Securing Angular Apps with Keycloak](https://dev.to/phasetwo/securing-angular-apps-with-keycloak-98o)
+- [Why Up-to-Date API Documentation is Essential](https://dev.to/shieldstring/why-up-to-date-api-documentation-is-essential-30p1)
+- [Advanced Java Concurrency Utilities](https://dev.to/adaumircosta/advanced-java-concurrency-utilities-1apf)
+- [Eloquent ORM](https://dev.to/muhammadiqbalid83/eloquent-orm-462h)
+- [JavaScript Fundamentals: A Beginner&#39;s Guide](https://dev.to/egbo2255/javascript-fundamentals-a-beginners-guide-46gg)
 <!-- BLOG-POST-LIST:END -->
 
