@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using YOLO with CLIP to improve Retrieval](https://dev.to/akshayballal/using-yolo-with-clip-to-improve-retrieval-4l61)
-- [Game Dev Digest — Issue #244 - Patterns, Procedural Content, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-244-patters-procedural-content-and-more-4pne)
-- [DevRel - Developer Relations - a scientific perspective](https://dev.to/awdren/devrel-developer-relations-a-scientific-perspective-1i3o)
-- [Divide and Conquer, Design and Analysis of Algorithms](https://dev.to/harshm03/divide-and-conquer-design-and-analysis-of-algorithms-24ek)
+- [Hey devs!](https://dev.to/xentzenith/hey-devs-57n7)
+- [What&#39;s testing in software development?](https://dev.to/kasir-barati/whats-testing-in-software-development-5b61)
+- [Deploying a Static HTTPS Website to AWS S3 Using Terraform &amp; GitHub Actions — Part 1](https://dev.to/aisquare/deploying-a-static-https-website-to-aws-s3-using-terraform-github-actions-part-1-16mi)
+- [Your package.json as a Credit Account](https://dev.to/vst/your-packagejson-as-a-credit-account-4gk0)
 <!-- BLOG-POST-LIST:END -->
 
