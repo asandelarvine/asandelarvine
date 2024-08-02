@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential Steps for Change Management in Projects](https://dev.to/bryany/5-essential-steps-for-change-management-in-projects-1g9b)
-- [Key On-Page SEO Elements for Better Google Rankings](https://dev.to/juddiy/key-on-page-seo-elements-for-better-google-rankings-25og)
-- [Exploring Stern : Day 21 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-stern-day-21-of-50-days-devops-tools-series-4agk)
-- [Front-End &amp; Back-End &lpar;CSR&rpar;](https://dev.to/0xw3ston/front-end-back-end-csr-2lj2)
+- [When Will You Embrace The Cloud](https://dev.to/enitanogun1/when-will-you-embrace-the-cloud-3o84)
+- [LMQL, AAAL Pt.6](https://dev.to/tunehqai/lmql-aaal-pt6-22ib)
+- [Random Thoughts #2](https://dev.to/isaiahwp/random-thoughts-2-4n97)
+- [Gerenciamento de Formulários Complexos em React com React Hook Form](https://dev.to/vitorrios1001/gerenciamento-de-formularios-complexos-em-react-com-react-hook-form-5782)
 <!-- BLOG-POST-LIST:END -->
 
