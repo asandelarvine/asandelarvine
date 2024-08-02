@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Applications with MERN Stack](https://dev.to/ankansaha/building-scalable-web-applications-with-mern-stack-1be0)
-- [Implementing CI/CD for MERN Stack Applications](https://dev.to/ankansaha/implementing-cicd-for-mern-stack-applications-33f2)
-- [Building a Scalable API with Node.js and Express](https://dev.to/ankansaha/building-a-scalable-api-with-nodejs-and-express-2ejp)
-- [Personal access tokens, machine-to-machine authentication, and API Keys definition and their real-world scenarios](https://dev.to/logto/personal-access-tokens-machine-to-machine-authentication-and-api-keys-definition-and-their-real-world-scenarios-2m1)
+- [Implement React v18 from Scratch Using WASM and Rust - [22] Implement memo](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-22-implement-memo-2m0g)
+- [Evaluación y Métricas en la Evaluación de Modelos de IA](https://dev.to/gcjordi/evaluacion-y-metricas-en-la-evaluacion-de-modelos-de-ia-no4)
+- [Optimizing React Performance with Memoization and Lazy Loading](https://dev.to/ankansaha/optimizing-react-performance-with-memoization-and-lazy-loading-2ih8)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-4di)
 <!-- BLOG-POST-LIST:END -->
 
