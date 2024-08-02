@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LAMP docker installation automation script in bash](https://dev.to/oyololatoni/lamp-docker-installation-automation-script-in-bash-2e54)
-- [170+ Attendees! Thanks to Typo!](https://dev.to/grocto/170-attendees-thanks-to-typo-1heb)
-- [Installing PgBouncer on Ubuntu/Debian](https://dev.to/maulik2900/installing-pgbouncer-on-ubuntudebian-555j)
-- [31/7 daily log of AI](https://dev.to/jimmylikm/317-daily-log-of-ai-3bck)
+- [Updates: Free and open-source landing page](https://dev.to/paul_freeman/updates-free-and-open-source-landing-page-3n3e)
+- [Web Push Notifications with React and Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/emmanuelayinde/web-push-notifications-with-react-and-firebase-cloud-messaging-fcm-18kb)
+- [CONTROLLER](https://dev.to/muhammadiqbalid83/controller-10c4)
+- [New container names for puppetserver and puppetdb](https://dev.to/voxpupuli/new-container-names-for-puppetserver-and-puppetdb-3aem)
 <!-- BLOG-POST-LIST:END -->
 
