@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey devs!](https://dev.to/xentzenith/hey-devs-57n7)
-- [What&#39;s testing in software development?](https://dev.to/kasir-barati/whats-testing-in-software-development-5b61)
-- [Deploying a Static HTTPS Website to AWS S3 Using Terraform &amp; GitHub Actions — Part 1](https://dev.to/aisquare/deploying-a-static-https-website-to-aws-s3-using-terraform-github-actions-part-1-16mi)
-- [Your package.json as a Credit Account](https://dev.to/vst/your-packagejson-as-a-credit-account-4gk0)
+- [Introducing DevOpsFetch: A Comprehensive Server Monitoring Tool](https://dev.to/augusthottie/introducing-devopsfetch-a-comprehensive-server-monitoring-tool-45o2)
+- [The Promise of the Cloud, Unfulfilled](https://dev.to/pulumi/the-promise-of-the-cloud-unfulfilled-3248)
+- [SharePoint solutions as a spyware](https://dev.to/kkazala/sharepoint-solutions-as-a-spyware-667)
+- [Techniques for Writing Secure Code: Safeguarding Your Software from Vulnerabilities](https://dev.to/wallacefreitas/techniques-for-writing-secure-code-safeguarding-your-software-from-vulnerabilities-3oa1)
 <!-- BLOG-POST-LIST:END -->
 
