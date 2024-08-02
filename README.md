@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Will You Embrace The Cloud](https://dev.to/enitanogun1/when-will-you-embrace-the-cloud-3o84)
-- [LMQL, AAAL Pt.6](https://dev.to/tunehqai/lmql-aaal-pt6-22ib)
-- [Random Thoughts #2](https://dev.to/isaiahwp/random-thoughts-2-4n97)
-- [Gerenciamento de Formulários Complexos em React com React Hook Form](https://dev.to/vitorrios1001/gerenciamento-de-formularios-complexos-em-react-com-react-hook-form-5782)
+- [Reactions on React](https://dev.to/mikeross99/reactions-on-react-19pp)
+- [The Quest for Performance Part III : C Force](https://dev.to/chrisarg/the-quest-for-performance-part-iii-c-force-3lkf)
+- [Building Secure Authentication Systems with Next.js and Clerk 🚀🔒](https://dev.to/mihir_bhadak/building-secure-authentication-systems-with-nextjs-and-clerk-55a5)
+- [Hello Dev Community](https://dev.to/valdmiro_albano_ede3297bc/hello-dev-community-184h)
 <!-- BLOG-POST-LIST:END -->
 
