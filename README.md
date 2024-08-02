@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [22] Implement memo](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-22-implement-memo-2m0g)
-- [Evaluación y Métricas en la Evaluación de Modelos de IA](https://dev.to/gcjordi/evaluacion-y-metricas-en-la-evaluacion-de-modelos-de-ia-no4)
-- [Optimizing React Performance with Memoization and Lazy Loading](https://dev.to/ankansaha/optimizing-react-performance-with-memoization-and-lazy-loading-2ih8)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-4di)
+- [Encore.ts — 9x faster than Express.js &amp; 3x faster than Bun + Zod](https://dev.to/encore/encorets-9x-faster-than-expressjs-3x-faster-than-bun-zod-4boe)
+- [.NET Digest #2](https://dev.to/anogneva/net-digest-2-d5e)
+- [Why ReactNative](https://dev.to/e-tech/why-reactnative-1fe1)
+- [Building a CI/CD Pipeline for a MERN Stack Application with Docker and Jenkins](https://dev.to/ankansaha/building-a-cicd-pipeline-for-a-mern-stack-application-with-docker-and-jenkins-j6g)
 <!-- BLOG-POST-LIST:END -->
 
