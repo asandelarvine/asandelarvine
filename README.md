@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Product authentication using stellar blockchain technology!](https://dev.to/kartikshukla17/product-authentication-using-stellar-blockchain-technology-59m4)
-- [Lets do dates properly](https://dev.to/ry44n__/lets-do-dates-properly-4e2o)
-- [NPM packages leveraged for cryptocurrency theft](https://dev.to/stacklok/npm-packages-leveraged-for-cryptocurrency-theft-586j)
-- [Weekly Updates - August 2, 2024](https://dev.to/couchbase/weekly-updates-august-2-2024-14hp)
+- [🚀 Best Practices in Software Development 👨🏻‍💻](https://dev.to/fonteeboa/best-practices-in-software-development-3e53)
+- [Using Redis with .NET](https://dev.to/fabrcio_marcondessantos/using-redis-with-net-4404)
+- [Day 1002 : Go To Sleep](https://dev.to/dwane/day-1002-go-to-sleep-2pk1)
+- [Securing Angular Apps with Keycloak](https://dev.to/phasetwo/securing-angular-apps-with-keycloak-98o)
 <!-- BLOG-POST-LIST:END -->
 
