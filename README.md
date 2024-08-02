@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a notion themed portfolio 😍](https://dev.to/paul_freeman/i-made-a-notion-themed-portfolio-3g3l)
-- [Compatibility Testing for PC Games: A Full Guide](https://dev.to/wetest/compatibility-testing-for-pc-games-a-full-guide-4j92)
-- [Using pm2 to Manage Node.js Applications](https://dev.to/hoaitx/using-pm2-to-manage-nodejs-applications-5ep7)
-- [Essential Oracle 50 Selected Practice Questions with Answers](https://dev.to/tom8daafe63765434221/essential-oracle-50-selected-practice-questions-with-answers-2l9m)
+- [LAMP docker installation automation script in bash](https://dev.to/oyololatoni/lamp-docker-installation-automation-script-in-bash-2e54)
+- [170+ Attendees! Thanks to Typo!](https://dev.to/grocto/170-attendees-thanks-to-typo-1heb)
+- [Installing PgBouncer on Ubuntu/Debian](https://dev.to/maulik2900/installing-pgbouncer-on-ubuntudebian-555j)
+- [31/7 daily log of AI](https://dev.to/jimmylikm/317-daily-log-of-ai-3bck)
 <!-- BLOG-POST-LIST:END -->
 
