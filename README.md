@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Updates: Free and open-source landing page](https://dev.to/paul_freeman/updates-free-and-open-source-landing-page-3n3e)
-- [Web Push Notifications with React and Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/emmanuelayinde/web-push-notifications-with-react-and-firebase-cloud-messaging-fcm-18kb)
-- [CONTROLLER](https://dev.to/muhammadiqbalid83/controller-10c4)
-- [New container names for puppetserver and puppetdb](https://dev.to/voxpupuli/new-container-names-for-puppetserver-and-puppetdb-3aem)
+- [Using YOLO with CLIP to improve Retrieval](https://dev.to/akshayballal/using-yolo-with-clip-to-improve-retrieval-4l61)
+- [Game Dev Digest — Issue #244 - Patterns, Procedural Content, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-244-patters-procedural-content-and-more-4pne)
+- [DevRel - Developer Relations - a scientific perspective](https://dev.to/awdren/devrel-developer-relations-a-scientific-perspective-1i3o)
+- [Divide and Conquer, Design and Analysis of Algorithms](https://dev.to/harshm03/divide-and-conquer-design-and-analysis-of-algorithms-24ek)
 <!-- BLOG-POST-LIST:END -->
 
