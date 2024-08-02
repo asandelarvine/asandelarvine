@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Flows in Kotlin for Asynchronous Programming](https://dev.to/kartikmehta8/using-flows-in-kotlin-for-asynchronous-programming-2hjc)
-- [zod i18n internationalization](https://dev.to/fromsian/zod-i18n-internationalization-4laa)
-- [react internationalization i18n](https://dev.to/fromsian/react-internationalization-i18n-5cj1)
-- [Unraveling the Complexities of Software Design with Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/v1eira/unraveling-the-complexities-of-software-design-with-domain-driven-design-ddd-24ed)
+- [Little tricks to improve your customer onboarding experience](https://dev.to/logto/little-tricks-to-improve-your-customer-onboarding-experience-40bn)
+- [Your team member struggles with assertiveness. How can you provide feedback that empowers their leadership?](https://dev.to/gourav_sharma_00/your-team-member-struggles-with-assertiveness-how-can-you-provide-feedback-that-empowers-their-leadership-18dd)
+- [Spread Syntax](https://dev.to/benlongcp/spread-syntax-42no)
+- [封装 Sqlc 的 Queries 实现更方便的事务操作](https://dev.to/hungtcs/feng-zhuang-sqlc-de-queries-shi-xian-geng-fang-bian-de-shi-wu-cao-zuo-3keo)
 <!-- BLOG-POST-LIST:END -->
 
