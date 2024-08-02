@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-j91)
-- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part2&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part2-37l0)
-- [My Favorite Recration : The Cat in the Room](https://dev.to/lakshita_kumawat/my-favorite-recration-the-cat-in-the-room-3677)
-- [Optimizing React Performance with Redux and React Hooks](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-react-hooks-1c1l)
+- [Rails Designer v1.2: Preview Images before Upload](https://dev.to/railsdesigner/rails-designer-v12-preview-images-before-upload-1dg0)
+- [Murphy’s Law is a tester’s best friend](https://dev.to/the_qa_corner/murphys-law-is-a-testers-best-friend-376n)
+- [How private are your class #private fields?](https://dev.to/naugtur/how-private-are-your-class-private-fields-m8n)
+- [Setting up a Node.js Express project with Typescript](https://dev.to/cedricahenkorah/setting-up-a-nodejs-express-project-with-typescript-5dae)
 <!-- BLOG-POST-LIST:END -->
 
