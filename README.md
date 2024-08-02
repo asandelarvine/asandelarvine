@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve Readability of Your Code with C# Collection Expressions](https://dev.to/antonmartyniuk/improve-readability-of-your-code-with-c-collection-expressions-o62)
-- [Networking fundamental concepts for DevOps](https://dev.to/pratik_nalawade/networking-fundamental-concepts-for-devops-1bkg)
-- [Learn CSS Grid by Building a Magazine](https://dev.to/elliotvh/learn-css-grid-by-building-a-magazine-1eji)
-- [The loss functions in PyTorch](https://dev.to/hyperkai/the-loss-functions-in-pytorch-3c94)
+- [Product authentication using stellar blockchain technology!](https://dev.to/kartikshukla17/product-authentication-using-stellar-blockchain-technology-59m4)
+- [Lets do dates properly](https://dev.to/ry44n__/lets-do-dates-properly-4e2o)
+- [NPM packages leveraged for cryptocurrency theft](https://dev.to/stacklok/npm-packages-leveraged-for-cryptocurrency-theft-586j)
+- [Weekly Updates - August 2, 2024](https://dev.to/couchbase/weekly-updates-august-2-2024-14hp)
 <!-- BLOG-POST-LIST:END -->
 
