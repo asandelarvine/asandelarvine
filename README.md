@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encore.ts — 9x faster than Express.js &amp; 3x faster than Bun + Zod](https://dev.to/encore/encorets-9x-faster-than-expressjs-3x-faster-than-bun-zod-4boe)
-- [.NET Digest #2](https://dev.to/anogneva/net-digest-2-d5e)
-- [Why ReactNative](https://dev.to/e-tech/why-reactnative-1fe1)
-- [Building a CI/CD Pipeline for a MERN Stack Application with Docker and Jenkins](https://dev.to/ankansaha/building-a-cicd-pipeline-for-a-mern-stack-application-with-docker-and-jenkins-j6g)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-j91)
+- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part2&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part2-37l0)
+- [My Favorite Recration : The Cat in the Room](https://dev.to/lakshita_kumawat/my-favorite-recration-the-cat-in-the-room-3677)
+- [Optimizing React Performance with Redux and React Hooks](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-react-hooks-1c1l)
 <!-- BLOG-POST-LIST:END -->
 
