@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing DevOpsFetch: A Comprehensive Server Monitoring Tool](https://dev.to/augusthottie/introducing-devopsfetch-a-comprehensive-server-monitoring-tool-45o2)
-- [The Promise of the Cloud, Unfulfilled](https://dev.to/pulumi/the-promise-of-the-cloud-unfulfilled-3248)
-- [SharePoint solutions as a spyware](https://dev.to/kkazala/sharepoint-solutions-as-a-spyware-667)
-- [Techniques for Writing Secure Code: Safeguarding Your Software from Vulnerabilities](https://dev.to/wallacefreitas/techniques-for-writing-secure-code-safeguarding-your-software-from-vulnerabilities-3oa1)
+- [Introduction to Java](https://dev.to/madgan95/introduction-to-java-3ed9)
+- [Release Radar · July 2024: Major updates from the open source community](https://dev.to/github/release-radar-july-2024-major-updates-from-the-open-source-community-446f)
+- [Floyd Warshall Algorithm &lpar;Multi-source shorted path&rpar;](https://dev.to/prashantrmishra/floyd-warshall-algorithm-498e)
+- [100FrontendChallenge - Day 4 - Contact us](https://dev.to/t1xx1/100frontendchallenge-day-4-contact-us-3l2h)
 <!-- BLOG-POST-LIST:END -->
 
