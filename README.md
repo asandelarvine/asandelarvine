@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reactions on React](https://dev.to/mikeross99/reactions-on-react-19pp)
-- [The Quest for Performance Part III : C Force](https://dev.to/chrisarg/the-quest-for-performance-part-iii-c-force-3lkf)
-- [Building Secure Authentication Systems with Next.js and Clerk 🚀🔒](https://dev.to/mihir_bhadak/building-secure-authentication-systems-with-nextjs-and-clerk-55a5)
-- [Hello Dev Community](https://dev.to/valdmiro_albano_ede3297bc/hello-dev-community-184h)
+- [Building Scalable Web Applications with MERN Stack](https://dev.to/ankansaha/building-scalable-web-applications-with-mern-stack-1be0)
+- [Implementing CI/CD for MERN Stack Applications](https://dev.to/ankansaha/implementing-cicd-for-mern-stack-applications-33f2)
+- [Building a Scalable API with Node.js and Express](https://dev.to/ankansaha/building-a-scalable-api-with-nodejs-and-express-2ejp)
+- [Personal access tokens, machine-to-machine authentication, and API Keys definition and their real-world scenarios](https://dev.to/logto/personal-access-tokens-machine-to-machine-authentication-and-api-keys-definition-and-their-real-world-scenarios-2m1)
 <!-- BLOG-POST-LIST:END -->
 
