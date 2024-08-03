@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Authentication vs Authorization: Every Developer Needs to Know 🛡️](https://dev.to/gadekar_sachin/authentication-vs-authorization-every-developer-needs-to-know-1pid)
-- [Master Full-Stack Monorepos: A Step-by-Step Guide](https://dev.to/hardikidea/master-full-stack-monorepos-a-step-by-step-guide-2196)
-- [How to Launch an Ubuntu EC2 Instance in AWS: A Step-by-Step Guide](https://dev.to/anil_kumar_/how-to-launch-an-ubuntu-ec2-instance-in-aws-a-step-by-step-guide-d5e)
-- [Filter from front end](https://dev.to/webfaisalbd/filter-from-front-end-a4k)
+- [The Ultimate Guide To Data Analytics: Tools and Techniques](https://dev.to/john_analytics/the-ultimate-guide-to-data-analytics-tools-and-techniques-2418)
+- [The Software Engineer&#39;s Journey: Examining Every Option and Its Requirements](https://dev.to/jps27cse/the-software-engineers-journey-examining-every-option-and-its-requirements-1loh)
+- [From Mnemonic to Bitcoin Addresses in JavaScript](https://dev.to/mibii/from-mnemonic-to-bitcoin-addresses-in-javascript-1dmp)
+- [Day 17 of 100 Days of Cloud: Exploring HashiCorp Consul](https://dev.to/tutorialhelldev/day-17-of-100-days-of-cloud-exploring-hashicorp-consul-he6)
 <!-- BLOG-POST-LIST:END -->
 
