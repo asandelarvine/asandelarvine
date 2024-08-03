@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Quick Start to Git and GitHub](https://dev.to/celestina_odili/a-quick-start-to-git-and-github-587d)
-- [Eloquent ORM: Accessor and Mutator](https://dev.to/doozieakshay/eloquent-orm-accessor-and-mutator-4kfi)
-- [Kubernetes 102: Kubernetes &amp; Containerzation](https://dev.to/danielcristho/kubernetes-102-kubernetes-containerzation-41o5)
-- [An Introduction to Data Structures and Algorithms](https://dev.to/media_geneous/an-introduction-to-data-structures-and-algorithms-2mk0)
+- [Music Player with Slider | Swiper JS](https://dev.to/salawudeen_abiodunabiola/music-player-with-slider-swiper-js-ij8)
+- [JavaScript: String Template Literals](https://dev.to/meganpaffrath/javascript-string-template-literals-20b0)
+- [Styling Components in React 🧢](https://dev.to/__khojiakbar__/styling-components-in-react-2b0k)
+- [🚀Day 5: Mastering Linux Shell Scripts for DevOps User Management](https://dev.to/ritesh_dolare/day-5-mastering-linux-shell-scripts-for-devops-user-management-21i4)
 <!-- BLOG-POST-LIST:END -->
 
