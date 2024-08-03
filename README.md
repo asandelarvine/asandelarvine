@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering 101](https://dev.to/stephen_quadross/data-engineering-101-404a)
-- [100FrontendChallenge - Day 5 - Recipe](https://dev.to/t1xx1/100frontendchallenge-day-5-recipe-4na4)
-- [I&#39;m developing a minimalistic note-taking web app with custom widgets. Can you suggest any widgets you would like to see?](https://dev.to/rita/im-developing-a-minimalistic-note-taking-web-app-with-custom-widgets-can-you-suggest-any-widgets-you-would-like-to-see-5764)
-- [Amazon EC2 Instance:](https://dev.to/mubeen780/amazon-ec2-instance-266e)
+- [2/10 HTML | 30 Days of HTML CSS JS](https://dev.to/ofameh/210-html-30-days-of-html-css-js-2d33)
+- [&quot;Excited to turn design dreams into reality! 🚀 Dive into my latest project where code meets creativity. #FrontEndDev #WebDesign&quot;](https://dev.to/7hecoder/excited-to-turn-design-dreams-into-reality-dive-into-my-latest-project-where-code-meets-creativity-frontenddev-webdesign-5274)
+- [Code Smell 261 - DigiCert Underscores](https://dev.to/mcsee/code-smell-261-digicert-underscores-54aa)
+- [Píldoras TypeScript: type narrowing con &quot;as const&quot;](https://dev.to/kuscamara/pildoras-typescript-type-narrowing-con-as-const-g5)
 <!-- BLOG-POST-LIST:END -->
 
