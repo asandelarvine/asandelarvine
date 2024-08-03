@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2/10 HTML | 30 Days of HTML CSS JS](https://dev.to/ofameh/210-html-30-days-of-html-css-js-2d33)
-- [&quot;Excited to turn design dreams into reality! 🚀 Dive into my latest project where code meets creativity. #FrontEndDev #WebDesign&quot;](https://dev.to/7hecoder/excited-to-turn-design-dreams-into-reality-dive-into-my-latest-project-where-code-meets-creativity-frontenddev-webdesign-5274)
-- [Code Smell 261 - DigiCert Underscores](https://dev.to/mcsee/code-smell-261-digicert-underscores-54aa)
-- [Píldoras TypeScript: type narrowing con &quot;as const&quot;](https://dev.to/kuscamara/pildoras-typescript-type-narrowing-con-as-const-g5)
+- [10 must-have VS Code extensions for web development](https://dev.to/safdarali/10-must-have-vs-code-extensions-for-web-development-43f5)
+- [My Company Just Made Me 2 Years Younger](https://dev.to/mashablair/my-company-just-made-me-2-years-younger-31p8)
+- [Top 5 Platforms for Building AI Agents: Key Features, Use Cases, and Pricing Insights](https://dev.to/oleg_protsenko_87315e838f/top-5-platforms-for-building-ai-agents-key-features-use-cases-and-pricing-insights-2dn7)
+- [Answer: What is the difference between annotation and decorator?](https://dev.to/zayn_tariq/answer-what-is-the-difference-between-annotation-and-decorator-400g)
 <!-- BLOG-POST-LIST:END -->
 
