@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [After Effects: Favourite Expressions Part 3, The If Statement](https://dev.to/kocreative/after-effects-favourite-expressions-part-3-the-if-statement-58nl)
-- [React in 5 Minutes](https://dev.to/lokesh_singh/react-in-5-minutes-2bk)
-- [Lightning: How AMP Shocked the Web and Then Short-Circuited](https://dev.to/isinghprince/lightning-how-amp-shocked-the-web-and-then-short-circuited-1n3b)
-- [What is Secure Coding?](https://dev.to/faizan711/what-is-secure-coding-nfb)
+- [The 16-Digit Limit: Why Your Forms Might Be Swallowing Numbers](https://dev.to/kumarprateek18/the-16-digit-limit-why-your-forms-might-be-swallowing-numbers-4i57)
+- [The positive impact of AI on the workplace](https://dev.to/hyscaler/the-positive-impact-of-ai-on-the-workplace-495k)
+- [Voltigo - job searching / bulk applications](https://dev.to/volmarg/voltigo-job-searching-bulk-applications-1h13)
+- [Linux](https://dev.to/chiragkumardev/linux-g27)
 <!-- BLOG-POST-LIST:END -->
 
