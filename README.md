@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UUL Saves 70% on Logistics System Upgrade with NocoBase](https://dev.to/estheryo/uul-saves-70-on-logistics-system-upgrade-with-nocobase-59f3)
-- [Bulletproof Your Cloud with Amazon VPC: Unmatched Security for Your Virtual Network](https://dev.to/ikoh_sylva/bulletproof-your-cloud-with-amazon-vpc-unmatched-security-for-your-virtual-network-3b3n)
-- [What Exactly Concurrency in Go?: Running Tasks in Parallel](https://dev.to/vaibhavt14/what-exactly-concurrency-in-go-running-tasks-in-parallel-j4p)
-- [Microsoft Offers Free Certification Courses to Boost Your Career](https://dev.to/umeshtharukaofficial/microsoft-offers-free-certification-courses-to-boost-your-career-5dp1)
+- [TRYING TOP 10 VS CODE EXTENSIONS](https://dev.to/mince/trying-top-10-vs-code-extensions-4ag9)
+- [Prisma: The Game-Changer in Database Management](https://dev.to/gleidsonleite/prisma-the-game-changer-in-database-management-164g)
+- [Web Theory - Part 8 : Graceful Degradation, Soft Failure, and Fault Tolerance Explained](https://dev.to/teclearn/web-theory-part-8-graceful-degradation-soft-failure-and-fault-tolerance-explained-7n0)
+- [Day 6: Introducing Containerization in DevOps](https://dev.to/singh_in_cloud/day-6-introducing-containerization-in-devops-1nbb)
 <!-- BLOG-POST-LIST:END -->
 
