@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Taxonomy](https://dev.to/sc0v0ne/ai-taxonomy-32lj)
-- [Resolvendo o desafio de um bilhão de linhas em Go &lpar;de 1m40s para 8,4s&rpar;](https://dev.to/jnaraujo/resolvendo-o-desafio-de-um-bilhao-de-linhas-em-go-de-1m40s-para-84s-5hi9)
-- [Graph Traversal Algorithms in Python](https://dev.to/kartikmehta8/graph-traversal-algorithms-in-python-49l4)
-- [Elevating Laravel Development with the Singleton Design Pattern](https://dev.to/moatazkhaled93/elevating-laravel-development-with-the-singleton-design-pattern-p1c)
+- [You&#39;re faced with conflicting team members. How do you navigate a resolution between them?](https://dev.to/gourav_sharma_00/youre-faced-with-conflicting-team-members-how-do-you-navigate-a-resolution-between-them-3ch0)
+- [Firebase Crashlytics](https://dev.to/sidcodeme/firebase-crashlytics-4d9)
+- [Taming the Beast: Structuring Large-Scale React Applications](https://dev.to/virajlakshitha/taming-the-beast-structuring-large-scale-react-applications-20a1)
+- [Internationalizing and Localizing a Flutter App | How to Develop an App with Flutter – Part 7](https://dev.to/koral/internationalizing-and-localizing-a-flutter-app-how-to-develop-an-app-with-flutter-part-7-223f)
 <!-- BLOG-POST-LIST:END -->
 
