@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Player with Slider | Swiper JS](https://dev.to/salawudeen_abiodunabiola/music-player-with-slider-swiper-js-ij8)
-- [JavaScript: String Template Literals](https://dev.to/meganpaffrath/javascript-string-template-literals-20b0)
-- [Styling Components in React 🧢](https://dev.to/__khojiakbar__/styling-components-in-react-2b0k)
-- [🚀Day 5: Mastering Linux Shell Scripts for DevOps User Management](https://dev.to/ritesh_dolare/day-5-mastering-linux-shell-scripts-for-devops-user-management-21i4)
+- [🛡️ Authentication vs Authorization: Every Developer Needs to Know 🛡️](https://dev.to/gadekar_sachin/authentication-vs-authorization-every-developer-needs-to-know-1pid)
+- [Master Full-Stack Monorepos: A Step-by-Step Guide](https://dev.to/hardikidea/master-full-stack-monorepos-a-step-by-step-guide-2196)
+- [How to Launch an Ubuntu EC2 Instance in AWS: A Step-by-Step Guide](https://dev.to/anil_kumar_/how-to-launch-an-ubuntu-ec2-instance-in-aws-a-step-by-step-guide-d5e)
+- [Filter from front end](https://dev.to/webfaisalbd/filter-from-front-end-a4k)
 <!-- BLOG-POST-LIST:END -->
 
