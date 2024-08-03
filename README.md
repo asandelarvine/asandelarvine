@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Profile README Stats to Your Github Profile README](https://dev.to/rishichitnis008/adding-profile-readme-stats-to-your-github-profile-readme-1cc2)
-- [ZED-Score Calculator](https://dev.to/anna_lapushner/zed-score-calculator-1l0j)
-- [MOST IMPORTANT JS OUTPUT BASED QUESTION:](https://dev.to/bhu_101/most-important-js-output-based-question-14jj)
-- [🚀 Day 5: Exploring List Rendering and Conditional Rendering in React🚀](https://dev.to/mayureshsurve/day-5-exploring-list-rendering-and-conditional-rendering-in-react-1g5i)
+- [Pentesting AWS VPCs: Identifying and Mitigating Risks](https://dev.to/sudoconsultants/pentesting-aws-vpcs-identifying-and-mitigating-risks-1fn)
+- [PHP crash course: Simple Image Gallery](https://dev.to/mdarifulhaque/php-crash-course-simple-image-gallery-h4l)
+- [# Breaking Into Data Science: A Comprehensive Guide for Aspiring Data Scientists](https://dev.to/nderitugichuki/-breaking-into-data-science-a-comprehensive-guide-for-aspiring-data-scientists-1h10)
+- [Introducing Yugo: Revolutionizing AI Integration for Web Developers](https://dev.to/ynishi/introducing-yugo-revolutionizing-ai-integration-for-web-developers-1p55)
 <!-- BLOG-POST-LIST:END -->
 
