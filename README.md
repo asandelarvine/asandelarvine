@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide To Data Analytics: Tools and Techniques](https://dev.to/john_analytics/the-ultimate-guide-to-data-analytics-tools-and-techniques-2418)
-- [The Software Engineer&#39;s Journey: Examining Every Option and Its Requirements](https://dev.to/jps27cse/the-software-engineers-journey-examining-every-option-and-its-requirements-1loh)
-- [From Mnemonic to Bitcoin Addresses in JavaScript](https://dev.to/mibii/from-mnemonic-to-bitcoin-addresses-in-javascript-1dmp)
-- [Day 17 of 100 Days of Cloud: Exploring HashiCorp Consul](https://dev.to/tutorialhelldev/day-17-of-100-days-of-cloud-exploring-hashicorp-consul-he6)
+- [Setting Up Git and GitHub,Creating Repository,Making Comments,Pushing and Pulling](https://dev.to/romanus_onyekwere/setting-up-git-and-githubcreating-repositorymaking-commentspushing-and-pulling-4nj3)
+- [How to Implement API Key Authentication in .NET 8](https://dev.to/minhduc159/how-to-implement-api-key-authentication-in-net-8-3da7)
+- [⚡ MySecondApp - React Native with Expo &lpar;P16&rpar; - Layout Travel Detail Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p16-layout-travel-detail-screen-4co8)
+- [An In-Depth Look at Kube-score : Day 22 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/an-in-depth-look-at-kube-score-day-22-of-50-days-devops-tools-series-3b3k)
 <!-- BLOG-POST-LIST:END -->
 
