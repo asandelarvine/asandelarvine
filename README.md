@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Princípios SOLID em GoLang - Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-interface-segregation-principle-isp-175a)
-- [Joel&#39;s Favorite Recreation](https://dev.to/codjoelmayer/joels-favorite-recreation-2ec1)
-- [Image uploader with Springboot, Cloudinary, Docker and PostgreSQL](https://dev.to/mspilari/image-uploader-with-springboot-cloudinary-docker-and-postgresql-3ekl)
-- [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-2fhn)
+- [Adding Profile README Stats to Your Github Profile README](https://dev.to/rishichitnis008/adding-profile-readme-stats-to-your-github-profile-readme-1cc2)
+- [ZED-Score Calculator](https://dev.to/anna_lapushner/zed-score-calculator-1l0j)
+- [MOST IMPORTANT JS OUTPUT BASED QUESTION:](https://dev.to/bhu_101/most-important-js-output-based-question-14jj)
+- [🚀 Day 5: Exploring List Rendering and Conditional Rendering in React🚀](https://dev.to/mayureshsurve/day-5-exploring-list-rendering-and-conditional-rendering-in-react-1g5i)
 <!-- BLOG-POST-LIST:END -->
 
