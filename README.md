@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 16-Digit Limit: Why Your Forms Might Be Swallowing Numbers](https://dev.to/kumarprateek18/the-16-digit-limit-why-your-forms-might-be-swallowing-numbers-4i57)
-- [The positive impact of AI on the workplace](https://dev.to/hyscaler/the-positive-impact-of-ai-on-the-workplace-495k)
-- [Voltigo - job searching / bulk applications](https://dev.to/volmarg/voltigo-job-searching-bulk-applications-1h13)
-- [Linux](https://dev.to/chiragkumardev/linux-g27)
+- [How to setup Rails Guides for offline use](https://dev.to/hrishio/how-to-setup-rails-guides-for-offline-use-1ho1)
+- [Assignment 2 Cloud Computing](https://dev.to/wedekaov/assignment-2-cloud-computing-1h8a)
+- [Inkdown, we developed another Markdown editor](https://dev.to/1943time/inkdown-we-developed-another-markdown-editor-4835)
+- [Frontend Challenge: Cricket League Landing Page](https://dev.to/chintanonweb/frontend-challenge-cricket-league-landing-page-24p2)
 <!-- BLOG-POST-LIST:END -->
 
