@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Fetching in React: A Journey from useEffect to Server Components](https://dev.to/ivan_kaminskyi/mastering-data-fetching-in-react-a-journey-from-useeffect-to-server-components-4ncb)
-- [My HNG Journey. Stage Four: Mastering Multi-Environment Deployments: A Deep Dive into CI/CD with Next.js, Docker, and Nginx](https://dev.to/ravencodess/my-hng-journey-stage-four-mastering-multi-environment-deployments-a-deep-dive-into-cicd-with-nextjs-docker-and-nginx-1lo8)
-- [Automated Security Scanning for Docker Images on AWS](https://dev.to/sudoconsultants/automated-security-scanning-for-docker-images-on-aws-4j5n)
-- [Determination: Know Your True Self](https://dev.to/annavi11arrea1/determination-know-your-true-self-g1a)
+- [Agile vs. Lean: A Powerful Combination for Software Development](https://dev.to/rasni/agile-vs-lean-a-powerful-combination-for-software-development-ogb)
+- [Library Management System&lpar;DBMS&rpar;](https://dev.to/rooma_dev/library-management-systemdbms-4ac9)
+- [DRIVER_OVERRAN_STACK_BUFFER Windows Error: Why it occurs, How to fix it](https://dev.to/_coder_gamer_india_/driveroverranstackbuffer-windows-error-why-it-occurs-how-to-fix-it-112m)
+- [Building a data science career as a beginner. How can you do it?](https://dev.to/mugultum/building-a-data-science-career-as-a-beginner-how-can-you-do-it-eb6)
 <!-- BLOG-POST-LIST:END -->
 
