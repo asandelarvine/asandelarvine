@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Static Website with Docker: A Comprehensive Guide](https://dev.to/omkara18/deploying-a-static-website-with-docker-a-comprehensive-guide-3gk)
-- [&quot;Data Engineering 101: A Beginner&#39;s Guide&quot;](https://dev.to/samtheanalyst/data-engineering-101-a-beginners-guide-2ngn)
-- [Extending YAML p.1 - structuring a meta-programming language](https://dev.to/mimopotato/extending-yaml-p1-structuring-a-meta-programming-language-110m)
-- [How to build Google calendar clone with React &lpar;Month view&rpar;](https://dev.to/cookiemonsterdev/how-to-build-google-calendar-clone-with-react-month-view-218a)
+- [Mastering Data Fetching in React: A Journey from useEffect to Server Components](https://dev.to/ivan_kaminskyi/mastering-data-fetching-in-react-a-journey-from-useeffect-to-server-components-4ncb)
+- [My HNG Journey. Stage Four: Mastering Multi-Environment Deployments: A Deep Dive into CI/CD with Next.js, Docker, and Nginx](https://dev.to/ravencodess/my-hng-journey-stage-four-mastering-multi-environment-deployments-a-deep-dive-into-cicd-with-nextjs-docker-and-nginx-1lo8)
+- [Automated Security Scanning for Docker Images on AWS](https://dev.to/sudoconsultants/automated-security-scanning-for-docker-images-on-aws-4j5n)
+- [Determination: Know Your True Self](https://dev.to/annavi11arrea1/determination-know-your-true-self-g1a)
 <!-- BLOG-POST-LIST:END -->
 
