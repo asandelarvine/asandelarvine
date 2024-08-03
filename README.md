@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Up-to-Date API Documentation is Essential](https://dev.to/shieldstring/why-up-to-date-api-documentation-is-essential-30p1)
-- [Advanced Java Concurrency Utilities](https://dev.to/adaumircosta/advanced-java-concurrency-utilities-1apf)
-- [Eloquent ORM](https://dev.to/muhammadiqbalid83/eloquent-orm-462h)
-- [JavaScript Fundamentals: A Beginner&#39;s Guide](https://dev.to/egbo2255/javascript-fundamentals-a-beginners-guide-46gg)
+- [AI Taxonomy](https://dev.to/sc0v0ne/ai-taxonomy-32lj)
+- [Resolvendo o desafio de um bilhão de linhas em Go &lpar;de 1m40s para 8,4s&rpar;](https://dev.to/jnaraujo/resolvendo-o-desafio-de-um-bilhao-de-linhas-em-go-de-1m40s-para-84s-5hi9)
+- [Graph Traversal Algorithms in Python](https://dev.to/kartikmehta8/graph-traversal-algorithms-in-python-49l4)
+- [Elevating Laravel Development with the Singleton Design Pattern](https://dev.to/moatazkhaled93/elevating-laravel-development-with-the-singleton-design-pattern-p1c)
 <!-- BLOG-POST-LIST:END -->
 
