@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup Rails Guides for offline use](https://dev.to/hrishio/how-to-setup-rails-guides-for-offline-use-1ho1)
-- [Assignment 2 Cloud Computing](https://dev.to/wedekaov/assignment-2-cloud-computing-1h8a)
-- [Inkdown, we developed another Markdown editor](https://dev.to/1943time/inkdown-we-developed-another-markdown-editor-4835)
-- [Frontend Challenge: Cricket League Landing Page](https://dev.to/chintanonweb/frontend-challenge-cricket-league-landing-page-24p2)
+- [UUL Saves 70% on Logistics System Upgrade with NocoBase](https://dev.to/estheryo/uul-saves-70-on-logistics-system-upgrade-with-nocobase-59f3)
+- [Bulletproof Your Cloud with Amazon VPC: Unmatched Security for Your Virtual Network](https://dev.to/ikoh_sylva/bulletproof-your-cloud-with-amazon-vpc-unmatched-security-for-your-virtual-network-3b3n)
+- [What Exactly Concurrency in Go?: Running Tasks in Parallel](https://dev.to/vaibhavt14/what-exactly-concurrency-in-go-running-tasks-in-parallel-j4p)
+- [Microsoft Offers Free Certification Courses to Boost Your Career](https://dev.to/umeshtharukaofficial/microsoft-offers-free-certification-courses-to-boost-your-career-5dp1)
 <!-- BLOG-POST-LIST:END -->
 
