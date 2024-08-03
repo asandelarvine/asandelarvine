@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Engineering 101](https://dev.to/stephen_quadross/data-engineering-101-404a)
 - [100FrontendChallenge - Day 5 - Recipe](https://dev.to/t1xx1/100frontendchallenge-day-5-recipe-4na4)
 - [I&#39;m developing a minimalistic note-taking web app with custom widgets. Can you suggest any widgets you would like to see?](https://dev.to/rita/im-developing-a-minimalistic-note-taking-web-app-with-custom-widgets-can-you-suggest-any-widgets-you-would-like-to-see-5764)
 - [Amazon EC2 Instance:](https://dev.to/mubeen780/amazon-ec2-instance-266e)
-- [Elasticsearch: Finding Missing Documents between 2 indices](https://dev.to/aditya_singh_78be52d82a3a/elasticsearch-reindexing-a-data-engineers-guide-to-finding-missing-documents-2cnj)
 <!-- BLOG-POST-LIST:END -->
 
