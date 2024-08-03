@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile vs. Lean: A Powerful Combination for Software Development](https://dev.to/rasni/agile-vs-lean-a-powerful-combination-for-software-development-ogb)
-- [Library Management System&lpar;DBMS&rpar;](https://dev.to/rooma_dev/library-management-systemdbms-4ac9)
-- [DRIVER_OVERRAN_STACK_BUFFER Windows Error: Why it occurs, How to fix it](https://dev.to/_coder_gamer_india_/driveroverranstackbuffer-windows-error-why-it-occurs-how-to-fix-it-112m)
-- [Building a data science career as a beginner. How can you do it?](https://dev.to/mugultum/building-a-data-science-career-as-a-beginner-how-can-you-do-it-eb6)
+- [Princípios SOLID em GoLang - Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-interface-segregation-principle-isp-175a)
+- [Joel&#39;s Favorite Recreation](https://dev.to/codjoelmayer/joels-favorite-recreation-2ec1)
+- [Image uploader with Springboot, Cloudinary, Docker and PostgreSQL](https://dev.to/mspilari/image-uploader-with-springboot-cloudinary-docker-and-postgresql-3ekl)
+- [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-2fhn)
 <!-- BLOG-POST-LIST:END -->
 
