@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a NodeJS Server on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/deploying-a-nodejs-server-on-google-kubernetes-engine-38e6)
-- [Understanding Multi-tenancy](https://dev.to/niamu01/understanding-multi-tenancy-3110)
-- [Bonding curves, simply](https://dev.to/temi0x/bonding-curves-simply-3mm8)
-- [JavaScript: Strings, String Methods, and String Properties](https://dev.to/meganpaffrath/strings-string-methods-and-string-properties-2m05)
+- [A Quick Start to Git and GitHub](https://dev.to/celestina_odili/a-quick-start-to-git-and-github-587d)
+- [Eloquent ORM: Accessor and Mutator](https://dev.to/doozieakshay/eloquent-orm-accessor-and-mutator-4kfi)
+- [Kubernetes 102: Kubernetes &amp; Containerzation](https://dev.to/danielcristho/kubernetes-102-kubernetes-containerzation-41o5)
+- [An Introduction to Data Structures and Algorithms](https://dev.to/media_geneous/an-introduction-to-data-structures-and-algorithms-2mk0)
 <!-- BLOG-POST-LIST:END -->
 
