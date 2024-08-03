@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Git and GitHub,Creating Repository,Making Comments,Pushing and Pulling](https://dev.to/romanus_onyekwere/setting-up-git-and-githubcreating-repositorymaking-commentspushing-and-pulling-4nj3)
-- [How to Implement API Key Authentication in .NET 8](https://dev.to/minhduc159/how-to-implement-api-key-authentication-in-net-8-3da7)
-- [⚡ MySecondApp - React Native with Expo &lpar;P16&rpar; - Layout Travel Detail Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p16-layout-travel-detail-screen-4co8)
-- [An In-Depth Look at Kube-score : Day 22 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/an-in-depth-look-at-kube-score-day-22-of-50-days-devops-tools-series-3b3k)
+- [After Effects: Favourite Expressions Part 3, The If Statement](https://dev.to/kocreative/after-effects-favourite-expressions-part-3-the-if-statement-58nl)
+- [React in 5 Minutes](https://dev.to/lokesh_singh/react-in-5-minutes-2bk)
+- [Lightning: How AMP Shocked the Web and Then Short-Circuited](https://dev.to/isinghprince/lightning-how-amp-shocked-the-web-and-then-short-circuited-1n3b)
+- [What is Secure Coding?](https://dev.to/faizan711/what-is-secure-coding-nfb)
 <!-- BLOG-POST-LIST:END -->
 
