@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Data Analytics: Techniques and Tools. 🚀](https://dev.to/amonthecreator/the-ultimate-guide-to-data-analytics-techniques-and-tools-5g5d)
-- [☸️ Kubernetes: A Convenient Variable Substitution Mechanism for Kustomize](https://dev.to/zenika/kubernetes-a-convenient-variable-substitution-mechanism-for-kustomize-lhm)
-- [The Ultimate Guide To Data Analytics: Techniques and Tools](https://dev.to/arbiye/the-ultimate-guide-to-data-analytics-techniques-and-tools-30k7)
-- [The Positive and The Frightening Prospects of AI Voice Cloning](https://dev.to/femiwebdev_/the-positive-and-the-frightening-prospects-of-ai-voice-cloning-5c32)
+- [From Policy to Compliance: Unpacking the Key Annexures of ISO 27001](https://dev.to/rieesteves/from-policy-to-compliance-unpacking-the-key-annexures-of-iso-27001-gpn)
+- [Difference between Vue 2 &amp; Vue 3](https://dev.to/durgesh94/difference-between-vue-2-vue-3-2pbj)
+- [What is Localhost in Development Mode?](https://dev.to/richardshaju/what-is-localhost-in-development-mode-2ecn)
+- [The Linux Audacity](https://dev.to/skysoft501/the-linux-audacity-2o0o)
 <!-- BLOG-POST-LIST:END -->
 
