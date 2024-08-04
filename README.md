@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Function Decorators in Python](https://dev.to/tessmueske/function-decorators-in-python-55l)
-- [Decorator Getters and Setters in Python](https://dev.to/tessmueske/decorator-getters-and-setters-in-python-6cd)
-- [RSS support added to Texted](https://dev.to/thiagomg/rss-support-added-to-texted-2j2p)
-- [Docker para Jrs #1: Introducción 🔥](https://dev.to/gareisdev/docker-para-jrs-1-introduccion-b6p)
+- [Building a Robust Test Automation Architecture with Java, Selenium, Maven, Docker, and Jenkins CI/CD](https://dev.to/jeissyguimaraes/building-a-robust-test-automation-architecture-with-java-selenium-maven-docker-and-jenkins-cicd-5ccg)
+- [Day 3/10 HTML](https://dev.to/ofameh/day-310-html-i0a)
+- [[Game of Purpose] Day 78](https://dev.to/humberd/game-of-purpose-day-78-4i7c)
+- [Web Development Without &lpar;Build&rpar; Tooling](https://dev.to/louwers/web-development-without-tooling-flk)
 <!-- BLOG-POST-LIST:END -->
 
