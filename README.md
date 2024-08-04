@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Cutting-Edge Web Dev Resources You Should Be Using Now](https://dev.to/agunwachidiebelecalistus/9-cutting-edge-web-dev-resources-you-should-beusing-now-30ho)
-- [How to Build Interactive CodePlay App with Real-time Output](https://dev.to/daslaw/how-to-build-interactive-codeplay-app-with-real-time-output-4al1)
-- [How to clear the Laravel cache?](https://dev.to/slshashika/how-to-clear-the-laravel-cache-4l1e)
-- [Anatomy of Fileless Malware](https://dev.to/muhammad_usman_759c5cbefe/anatomy-of-fileless-malware-n74)
+- [How to Fix Shadcn UI Adding Wrong Folder for Components](https://dev.to/rajinh24/how-to-fix-shadcn-ui-adding-wrong-folder-for-components-4p3o)
+- [Hello dev.to](https://dev.to/mosnamarco/hello-devto-452e)
+- [Free up some space on your VS Code](https://dev.to/anshsaini/free-up-some-space-on-your-vs-code-2d0g)
+- [Expert advice for building a successful career in data science: Education, skills and job search tips](https://dev.to/natasha2020/expert-advice-for-building-a-successful-career-in-data-science-education-skills-and-job-search-tips-32i0)
 <!-- BLOG-POST-LIST:END -->
 
