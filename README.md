@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 must-have VS Code extensions for web development](https://dev.to/safdarali/10-must-have-vs-code-extensions-for-web-development-43f5)
-- [My Company Just Made Me 2 Years Younger](https://dev.to/mashablair/my-company-just-made-me-2-years-younger-31p8)
-- [Top 5 Platforms for Building AI Agents: Key Features, Use Cases, and Pricing Insights](https://dev.to/oleg_protsenko_87315e838f/top-5-platforms-for-building-ai-agents-key-features-use-cases-and-pricing-insights-2dn7)
-- [Answer: What is the difference between annotation and decorator?](https://dev.to/zayn_tariq/answer-what-is-the-difference-between-annotation-and-decorator-400g)
+- [Optimizing Transformations in Pentaho: Case Study](https://dev.to/pcabreram1234/optimizing-transformations-in-pentaho-case-study-1h1f)
+- [Running Jobs in a Container via GitHub Actions Securely](https://dev.to/aws-builders/running-jobs-in-a-container-via-github-actions-securely-p0c)
+- [State Management in Vue 3 with Vuex](https://dev.to/kartikmehta8/state-management-in-vue-3-with-vuex-2ob3)
+- [[Game of Purpose] Day 77](https://dev.to/humberd/game-of-purpose-day-77-61a)
 <!-- BLOG-POST-LIST:END -->
 
