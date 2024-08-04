@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Doing Horrible Things in Haskell](https://dev.to/elodielander/doing-horrible-things-in-haskell-13fh)
-- [Front-End Optimization: Debouncing and Throttling Explained In Short](https://dev.to/nosylasairaf/front-end-optimization-debouncing-and-throttling-explained-in-short-15ah)
-- [Chess](https://dev.to/ciromontes/chess-di4)
-- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/athi47/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-30e0)
+- [Adapter Design Pattern](https://dev.to/abhidatta0/adapter-design-pattern-389f)
+- [Singleton design pattern](https://dev.to/abhidatta0/singleton-design-pattern-3bm1)
+- [Exploring Phantom Type Parameters in Rust](https://dev.to/labex/exploring-phantom-type-parameters-in-rust-29id)
+- [You&#39;re facing a challenging client situation. How can you prioritize your team&#39;s well-being?](https://dev.to/gourav_sharma_00/youre-facing-a-challenging-client-situation-how-can-you-prioritize-your-teams-well-being-1dnh)
 <!-- BLOG-POST-LIST:END -->
 
