@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome extension that allows font-weight control](https://dev.to/yardenporat/chrome-extension-that-allows-font-weight-control-1gic)
-- [DESIGN PATTERNS JavaScript](https://dev.to/manas_pant/design-patterns-javascript-1pl)
-- [Building a Stunning Hero Section in React with Tailwind CSS](https://dev.to/masterdev/building-a-stunning-hero-section-in-react-with-tailwind-css-317a)
-- [Building Your First Android App: A Beginner&#39;s Guide](https://dev.to/media_geneous/building-your-first-android-app-a-beginners-guide-1pa5)
+- [Days 32-34 of 100 Days of Code](https://dev.to/jacobsternx/days-32-34-of-100-days-of-code-5c7d)
+- [Days 32-34 of 100 Days of Code](https://dev.to/jacobsternx/days-32-34-of-100-days-of-code-51e0)
+- [How to create an animated avatar stack widget with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-avatar-stack-widget-with-tailwind-css-20mf)
+- [🚀 Angular 18 + Cypress, Material + Transloco + Jest, EsLint + Docker + Prettier 🚀](https://dev.to/wlucha/angular-18-cypress-material-transloco-jest-eslint-docker-prettier-2o39)
 <!-- BLOG-POST-LIST:END -->
 
