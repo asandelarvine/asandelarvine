@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/clinton_john/the-ultimate-guide-to-data-analytics-techniques-and-tools-583p)
-- [Just Surviving: Working Remotely for Beginners](https://dev.to/lukeocodes/just-surviving-working-remotely-for-beginners-342n)
-- [Power Pages: modified &lt;dialog&gt; functionality](https://dev.to/andrewelans/power-pages-modified-functionality-1l9f)
-- [Glam Up Cricket League!](https://dev.to/tanulathika_deokule/glam-up-cricket-league-2g8)
+- [23+ Best React Libraries &amp; Plugins for Production-Grade App in 2024](https://dev.to/syakirurahman/23-best-react-libraries-plugins-for-production-grade-app-in-2024-5fjb)
+- [Next.js, The React Framework Revolutionizing Web Development](https://dev.to/saqlainmuhammadd/nextjs-the-react-framework-revolutionizing-web-development-28ak)
+- [Godot: Batch generation of collision meshes from gtlf model files](https://dev.to/ramchale/godot-batch-generation-of-collision-meshes-from-gtlf-model-files-4noh)
+- [Managing Global State in React with React Signify](https://dev.to/catdeveloper/managing-global-state-in-react-with-react-signify-3n5o)
 <!-- BLOG-POST-LIST:END -->
 
