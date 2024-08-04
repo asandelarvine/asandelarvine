@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Web development oversaturated](https://dev.to/blaze_26/is-web-development-oversaturated-53m8)
-- [Will AI ever take over Web Development](https://dev.to/blaze_26/will-ai-ever-take-over-web-development-3nmd)
-- [Will AI ever take over Web Development](https://dev.to/blaze_26/will-ai-ever-take-over-web-development-1gn1)
-- [Navigation Stuck](https://dev.to/jack_george_08f843b25bb83/navigation-stuck-253n)
+- [Zero-Downtime Deployment for ASP.NET Applications in Kubernetes](https://dev.to/admiralkheir/zero-downtime-deployment-for-aspnet-applications-in-kubernetes-30li)
+- [Exploring Performance with the Concurrency-Parallel-Benchmark Repository](https://dev.to/vikyw89/exploring-performance-with-the-concurrency-parallel-benchmark-repository-44mi)
+- [Boost Your Productivity: Sorting Git Branches Like a Pro](https://dev.to/nilebits/boost-your-productivity-sorting-git-branches-like-a-pro-2kje)
+- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/ann_kigera/the-ultimate-guide-to-data-analytics-techniques-and-tools-1nfh)
 <!-- BLOG-POST-LIST:END -->
 
