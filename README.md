@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Shadcn UI Adding Wrong Folder for Components](https://dev.to/rajinh24/how-to-fix-shadcn-ui-adding-wrong-folder-for-components-4p3o)
-- [Hello dev.to](https://dev.to/mosnamarco/hello-devto-452e)
-- [Free up some space on your VS Code](https://dev.to/anshsaini/free-up-some-space-on-your-vs-code-2d0g)
-- [Expert advice for building a successful career in data science: Education, skills and job search tips](https://dev.to/natasha2020/expert-advice-for-building-a-successful-career-in-data-science-education-skills-and-job-search-tips-32i0)
+- [Build native image from Spring Boot Application with GraalVM builder](https://dev.to/binoy_59380e698d318/build-native-image-from-spring-boot-application-with-graalvm-builder-3b7l)
+- [Benefícios para SEO e Acessibilidade](https://dev.to/mikedsousa/beneficios-para-seo-e-acessibilidade-51j8)
+- [3 Common Mistakes Beginners Make When Learning Rust](https://dev.to/francescoxx/3-common-mistakes-beginners-make-when-learning-rust-4kic)
+- [Cracking the LeetCode 122. Best Time to Buy and Sell Stock II](https://dev.to/this-is-learning/cracking-the-leetcode-122-best-time-to-buy-and-sell-stock-ii-17k5)
 <!-- BLOG-POST-LIST:END -->
 
