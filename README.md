@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering: A beginner&#39;s guide](https://dev.to/shinyarah/data-engineering-a-beginners-guide-2e81)
-- [Navigating a Successful Career in Data Science: Education, Skills, and Continuous Growth](https://dev.to/favor_molyn_4dc65369b133d/navigating-a-successful-career-in-data-science-education-skills-and-continuous-growth-2om2)
-- [Desenvolvendo minha aplicação lista de tarefas com armazenamento em banco de dados !](https://dev.to/michaelmoranis/desenvolvendo-minha-aplicacao-lista-de-tarefas-com-armazenamento-em-banco-de-dados--5ebn)
-- [Expert advice on how to build a successful career in data science](https://dev.to/aj_etyang/expert-advice-on-how-to-build-a-successful-career-in-data-science-17e5)
+- [Function Decorators in Python](https://dev.to/tessmueske/function-decorators-in-python-55l)
+- [Decorator Getters and Setters in Python](https://dev.to/tessmueske/decorator-getters-and-setters-in-python-6cd)
+- [RSS support added to Texted](https://dev.to/thiagomg/rss-support-added-to-texted-2j2p)
+- [Docker para Jrs #1: Introducción 🔥](https://dev.to/gareisdev/docker-para-jrs-1-introduccion-b6p)
 <!-- BLOG-POST-LIST:END -->
 
