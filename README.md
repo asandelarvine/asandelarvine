@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Union-Find, Data Structures](https://dev.to/harshm03/union-find-data-structures-410h)
-- [Merge sort | Recursion](https://dev.to/vampirepapi/merge-sort-recursion-241e)
-- [Scale Your ML Projects with AWS](https://dev.to/mmuzammil6880/scale-your-ml-projects-with-aws-3b62)
-- [making an app that solves my problem](https://dev.to/yung_coder_dom/making-an-app-that-solves-my-problem-27pk)
+- [Data Engineering: A beginner&#39;s guide](https://dev.to/shinyarah/data-engineering-a-beginners-guide-2e81)
+- [Navigating a Successful Career in Data Science: Education, Skills, and Continuous Growth](https://dev.to/favor_molyn_4dc65369b133d/navigating-a-successful-career-in-data-science-education-skills-and-continuous-growth-2om2)
+- [Desenvolvendo minha aplicação lista de tarefas com armazenamento em banco de dados !](https://dev.to/michaelmoranis/desenvolvendo-minha-aplicacao-lista-de-tarefas-com-armazenamento-em-banco-de-dados--5ebn)
+- [Expert advice on how to build a successful career in data science](https://dev.to/aj_etyang/expert-advice-on-how-to-build-a-successful-career-in-data-science-17e5)
 <!-- BLOG-POST-LIST:END -->
 
