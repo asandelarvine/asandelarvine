@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ep. 3 - Social Media App in Rust + WebAssembly 🦀🌐](https://dev.to/prathamjagga/ep-3-social-media-app-in-rust-webassembly-676)
-- [I just made a game/shit !!](https://dev.to/rudransh61/i-just-made-a-gameshit--24ao)
-- [Page Titles in Angular - Guide 🚀](https://dev.to/priya-dev/page-titles-in-angular-guide-530f)
-- [9 Ways to Spin Up an EKS Cluster - Way 4 - CloudFormation](https://dev.to/aws-builders/9-ways-to-spin-up-an-eks-cluster-way-4-cloudformation-3len)
+- [The AI Act is Here](https://dev.to/alvaromontoro/the-ai-act-is-here-2l0l)
+- [Day 10 of My 21-Day JavaScript Learning Challenge with Hitesh Choudhary! 🚀](https://dev.to/rohit1301/day-10-of-my-21-day-javascript-learning-challenge-with-hitesh-choudhary-423l)
+- [How to Build a Successful Career in Data Science](https://dev.to/mutanuvivian/how-to-build-a-successful-career-in-data-science-2bgd)
+- [Step-by-Step procedure for creating a Lambda function, deploying it to AWS and testing it🎉](https://dev.to/albine_peter_c2ffb10b422f/step-by-step-procedure-for-creating-a-lambda-function-deploying-it-to-aws-and-testing-it-obn)
 <!-- BLOG-POST-LIST:END -->
 
