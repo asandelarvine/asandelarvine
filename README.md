@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Days 32-34 of 100 Days of Code](https://dev.to/jacobsternx/days-32-34-of-100-days-of-code-5c7d)
-- [Days 32-34 of 100 Days of Code](https://dev.to/jacobsternx/days-32-34-of-100-days-of-code-51e0)
-- [How to create an animated avatar stack widget with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-avatar-stack-widget-with-tailwind-css-20mf)
-- [🚀 Angular 18 + Cypress, Material + Transloco + Jest, EsLint + Docker + Prettier 🚀](https://dev.to/wlucha/angular-18-cypress-material-transloco-jest-eslint-docker-prettier-2o39)
+- [9 Cutting-Edge Web Dev Resources You Should Be Using Now](https://dev.to/agunwachidiebelecalistus/9-cutting-edge-web-dev-resources-you-should-beusing-now-30ho)
+- [How to Build Interactive CodePlay App with Real-time Output](https://dev.to/daslaw/how-to-build-interactive-codeplay-app-with-real-time-output-4al1)
+- [How to clear the Laravel cache?](https://dev.to/slshashika/how-to-clear-the-laravel-cache-4l1e)
+- [Anatomy of Fileless Malware](https://dev.to/muhammad_usman_759c5cbefe/anatomy-of-fileless-malware-n74)
 <!-- BLOG-POST-LIST:END -->
 
