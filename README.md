@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Site Generation](https://dev.to/suhaspalani/static-site-generation-5bb7)
-- [Reasoning 2 - Contextual Conversion](https://dev.to/metaphilosophy/reasoning-2-contextual-conversion-37pa)
-- [JavaScript: Arrays, Array Properties, Array Methods: push, pop, shift, unshift, Stacks, and Queues!](https://dev.to/meganpaffrath/javascript-arrays-array-properties-array-methods-push-pop-shift-unshift-stacks-and-queues-4kea)
-- [Vanishing &amp; Exploding Gradient Problem &amp; Dying ReLU Problem in PyTorch](https://dev.to/hyperkai/vanishing-exploding-gradient-problem-dying-relu-problem-in-pytorch-6bg)
+- [Chrome extension that allows font-weight control](https://dev.to/yardenporat/chrome-extension-that-allows-font-weight-control-1gic)
+- [DESIGN PATTERNS JavaScript](https://dev.to/manas_pant/design-patterns-javascript-1pl)
+- [Building a Stunning Hero Section in React with Tailwind CSS](https://dev.to/masterdev/building-a-stunning-hero-section-in-react-with-tailwind-css-317a)
+- [Building Your First Android App: A Beginner&#39;s Guide](https://dev.to/media_geneous/building-your-first-android-app-a-beginners-guide-1pa5)
 <!-- BLOG-POST-LIST:END -->
 
