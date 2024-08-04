@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Act is Here](https://dev.to/alvaromontoro/the-ai-act-is-here-2l0l)
-- [Day 10 of My 21-Day JavaScript Learning Challenge with Hitesh Choudhary! 🚀](https://dev.to/rohit1301/day-10-of-my-21-day-javascript-learning-challenge-with-hitesh-choudhary-423l)
-- [How to Build a Successful Career in Data Science](https://dev.to/mutanuvivian/how-to-build-a-successful-career-in-data-science-2bgd)
-- [Step-by-Step procedure for creating a Lambda function, deploying it to AWS and testing it🎉](https://dev.to/albine_peter_c2ffb10b422f/step-by-step-procedure-for-creating-a-lambda-function-deploying-it-to-aws-and-testing-it-obn)
+- [The Ultimate Guide for Data Analytics Techniques and Tools](https://dev.to/jedidah_ondiso_887753d76e/the-ultimate-guide-for-data-analytics-techniques-and-tools-22ef)
+- [Cryptocurrency Order Book Review at the Cryptorobotics Platform](https://dev.to/12crypto12/cryptocurrency-order-book-review-at-the-cryptorobotics-platform-36ff)
+- [A 2nd yearer...](https://dev.to/mayankchandratre1/a-2nd-yearer-ch2)
+- [Decoding System Design of Rate Limiter: 1&lpar; Your Goto Protector for backend APIs&rpar;](https://dev.to/ganeshyadav3142/decoding-system-design-of-rate-limiter-1-your-goto-protector-for-backend-apis-292e)
 <!-- BLOG-POST-LIST:END -->
 
