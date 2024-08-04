@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Downtime Deployment for ASP.NET Applications in Kubernetes](https://dev.to/admiralkheir/zero-downtime-deployment-for-aspnet-applications-in-kubernetes-30li)
-- [Exploring Performance with the Concurrency-Parallel-Benchmark Repository](https://dev.to/vikyw89/exploring-performance-with-the-concurrency-parallel-benchmark-repository-44mi)
-- [Boost Your Productivity: Sorting Git Branches Like a Pro](https://dev.to/nilebits/boost-your-productivity-sorting-git-branches-like-a-pro-2kje)
-- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/ann_kigera/the-ultimate-guide-to-data-analytics-techniques-and-tools-1nfh)
+- [Ep. 3 - Social Media App in Rust + WebAssembly 🦀🌐](https://dev.to/prathamjagga/ep-3-social-media-app-in-rust-webassembly-676)
+- [I just made a game/shit !!](https://dev.to/rudransh61/i-just-made-a-gameshit--24ao)
+- [Page Titles in Angular - Guide 🚀](https://dev.to/priya-dev/page-titles-in-angular-guide-530f)
+- [9 Ways to Spin Up an EKS Cluster - Way 4 - CloudFormation](https://dev.to/aws-builders/9-ways-to-spin-up-an-eks-cluster-way-4-cloudformation-3len)
 <!-- BLOG-POST-LIST:END -->
 
