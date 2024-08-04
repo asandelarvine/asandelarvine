@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide for Data Analytics Techniques and Tools](https://dev.to/jedidah_ondiso_887753d76e/the-ultimate-guide-for-data-analytics-techniques-and-tools-22ef)
-- [Cryptocurrency Order Book Review at the Cryptorobotics Platform](https://dev.to/12crypto12/cryptocurrency-order-book-review-at-the-cryptorobotics-platform-36ff)
-- [A 2nd yearer...](https://dev.to/mayankchandratre1/a-2nd-yearer-ch2)
-- [Decoding System Design of Rate Limiter: 1&lpar; Your Goto Protector for backend APIs&rpar;](https://dev.to/ganeshyadav3142/decoding-system-design-of-rate-limiter-1-your-goto-protector-for-backend-apis-292e)
+- [The Ultimate Guide to Data Analytics: Techniques and Tools. 🚀](https://dev.to/amonthecreator/the-ultimate-guide-to-data-analytics-techniques-and-tools-5g5d)
+- [☸️ Kubernetes: A Convenient Variable Substitution Mechanism for Kustomize](https://dev.to/zenika/kubernetes-a-convenient-variable-substitution-mechanism-for-kustomize-lhm)
+- [The Ultimate Guide To Data Analytics: Techniques and Tools](https://dev.to/arbiye/the-ultimate-guide-to-data-analytics-techniques-and-tools-30k7)
+- [The Positive and The Frightening Prospects of AI Voice Cloning](https://dev.to/femiwebdev_/the-positive-and-the-frightening-prospects-of-ai-voice-cloning-5c32)
 <!-- BLOG-POST-LIST:END -->
 
