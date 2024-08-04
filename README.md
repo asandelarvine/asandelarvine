@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [23+ Best React Libraries &amp; Plugins for Production-Grade App in 2024](https://dev.to/syakirurahman/23-best-react-libraries-plugins-for-production-grade-app-in-2024-5fjb)
-- [Next.js, The React Framework Revolutionizing Web Development](https://dev.to/saqlainmuhammadd/nextjs-the-react-framework-revolutionizing-web-development-28ak)
-- [Godot: Batch generation of collision meshes from gtlf model files](https://dev.to/ramchale/godot-batch-generation-of-collision-meshes-from-gtlf-model-files-4noh)
-- [Managing Global State in React with React Signify](https://dev.to/catdeveloper/managing-global-state-in-react-with-react-signify-3n5o)
+- [Is Web development oversaturated](https://dev.to/blaze_26/is-web-development-oversaturated-53m8)
+- [Will AI ever take over Web Development](https://dev.to/blaze_26/will-ai-ever-take-over-web-development-3nmd)
+- [Will AI ever take over Web Development](https://dev.to/blaze_26/will-ai-ever-take-over-web-development-1gn1)
+- [Navigation Stuck](https://dev.to/jack_george_08f843b25bb83/navigation-stuck-253n)
 <!-- BLOG-POST-LIST:END -->
 
