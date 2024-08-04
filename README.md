@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Transformations in Pentaho: Case Study](https://dev.to/pcabreram1234/optimizing-transformations-in-pentaho-case-study-1h1f)
-- [Running Jobs in a Container via GitHub Actions Securely](https://dev.to/aws-builders/running-jobs-in-a-container-via-github-actions-securely-p0c)
-- [State Management in Vue 3 with Vuex](https://dev.to/kartikmehta8/state-management-in-vue-3-with-vuex-2ob3)
-- [[Game of Purpose] Day 77](https://dev.to/humberd/game-of-purpose-day-77-61a)
+- [Portfolio Website - Daily Repo Day 3](https://dev.to/xentzenith/daily-repo-day-3-4d6b)
+- [Today&#39;s Trending Projects: Change Default Value for Countrylanguage Table and More](https://dev.to/labex/todays-trending-projects-change-default-value-for-countrylanguage-table-and-more-18f5)
+- [Override functions in individual tests using Jest](https://dev.to/tylerlwsmith/override-functions-in-individual-tests-using-jest-dp5)
+- [Implementing Conditional Hover States in Nested Divs with React Hooks](https://dev.to/albertocubeddu/implementing-conditional-hover-states-in-nested-divs-with-react-hooks-119a)
 <!-- BLOG-POST-LIST:END -->
 
