@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Policy to Compliance: Unpacking the Key Annexures of ISO 27001](https://dev.to/rieesteves/from-policy-to-compliance-unpacking-the-key-annexures-of-iso-27001-gpn)
-- [Difference between Vue 2 &amp; Vue 3](https://dev.to/durgesh94/difference-between-vue-2-vue-3-2pbj)
-- [What is Localhost in Development Mode?](https://dev.to/richardshaju/what-is-localhost-in-development-mode-2ecn)
-- [The Linux Audacity](https://dev.to/skysoft501/the-linux-audacity-2o0o)
+- [Union-Find, Data Structures](https://dev.to/harshm03/union-find-data-structures-410h)
+- [Merge sort | Recursion](https://dev.to/vampirepapi/merge-sort-recursion-241e)
+- [Scale Your ML Projects with AWS](https://dev.to/mmuzammil6880/scale-your-ml-projects-with-aws-3b62)
+- [making an app that solves my problem](https://dev.to/yung_coder_dom/making-an-app-that-solves-my-problem-27pk)
 <!-- BLOG-POST-LIST:END -->
 
