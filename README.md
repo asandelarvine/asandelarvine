@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adapter Design Pattern](https://dev.to/abhidatta0/adapter-design-pattern-389f)
-- [Singleton design pattern](https://dev.to/abhidatta0/singleton-design-pattern-3bm1)
-- [Exploring Phantom Type Parameters in Rust](https://dev.to/labex/exploring-phantom-type-parameters-in-rust-29id)
-- [You&#39;re facing a challenging client situation. How can you prioritize your team&#39;s well-being?](https://dev.to/gourav_sharma_00/youre-facing-a-challenging-client-situation-how-can-you-prioritize-your-teams-well-being-1dnh)
+- [Static Site Generation](https://dev.to/suhaspalani/static-site-generation-5bb7)
+- [Reasoning 2 - Contextual Conversion](https://dev.to/metaphilosophy/reasoning-2-contextual-conversion-37pa)
+- [JavaScript: Arrays, Array Properties, Array Methods: push, pop, shift, unshift, Stacks, and Queues!](https://dev.to/meganpaffrath/javascript-arrays-array-properties-array-methods-push-pop-shift-unshift-stacks-and-queues-4kea)
+- [Vanishing &amp; Exploding Gradient Problem &amp; Dying ReLU Problem in PyTorch](https://dev.to/hyperkai/vanishing-exploding-gradient-problem-dying-relu-problem-in-pytorch-6bg)
 <!-- BLOG-POST-LIST:END -->
 
