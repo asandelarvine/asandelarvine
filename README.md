@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build native image from Spring Boot Application with GraalVM builder](https://dev.to/binoy_59380e698d318/build-native-image-from-spring-boot-application-with-graalvm-builder-3b7l)
-- [Benefícios para SEO e Acessibilidade](https://dev.to/mikedsousa/beneficios-para-seo-e-acessibilidade-51j8)
-- [3 Common Mistakes Beginners Make When Learning Rust](https://dev.to/francescoxx/3-common-mistakes-beginners-make-when-learning-rust-4kic)
-- [Cracking the LeetCode 122. Best Time to Buy and Sell Stock II](https://dev.to/this-is-learning/cracking-the-leetcode-122-best-time-to-buy-and-sell-stock-ii-17k5)
+- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/clinton_john/the-ultimate-guide-to-data-analytics-techniques-and-tools-583p)
+- [Just Surviving: Working Remotely for Beginners](https://dev.to/lukeocodes/just-surviving-working-remotely-for-beginners-342n)
+- [Power Pages: modified &lt;dialog&gt; functionality](https://dev.to/andrewelans/power-pages-modified-functionality-1l9f)
+- [Glam Up Cricket League!](https://dev.to/tanulathika_deokule/glam-up-cricket-league-2g8)
 <!-- BLOG-POST-LIST:END -->
 
