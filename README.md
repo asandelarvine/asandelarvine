@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Website - Daily Repo Day 3](https://dev.to/xentzenith/daily-repo-day-3-4d6b)
-- [Today&#39;s Trending Projects: Change Default Value for Countrylanguage Table and More](https://dev.to/labex/todays-trending-projects-change-default-value-for-countrylanguage-table-and-more-18f5)
-- [Override functions in individual tests using Jest](https://dev.to/tylerlwsmith/override-functions-in-individual-tests-using-jest-dp5)
-- [Implementing Conditional Hover States in Nested Divs with React Hooks](https://dev.to/albertocubeddu/implementing-conditional-hover-states-in-nested-divs-with-react-hooks-119a)
+- [Doing Horrible Things in Haskell](https://dev.to/elodielander/doing-horrible-things-in-haskell-13fh)
+- [Front-End Optimization: Debouncing and Throttling Explained In Short](https://dev.to/nosylasairaf/front-end-optimization-debouncing-and-throttling-explained-in-short-15ah)
+- [Chess](https://dev.to/ciromontes/chess-di4)
+- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/athi47/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-30e0)
 <!-- BLOG-POST-LIST:END -->
 
