@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Quick Dive into the Basics | Linix | DAY 2](https://dev.to/jagannath_ghantenavar_3e9/a-quick-dive-into-the-basics-linix-day-2-j9)
-- [JavaScript in 5-Minute](https://dev.to/lokesh_singh/javascript-in-5-minute-3m0i)
-- [Calculate the Average Interval of Projects for Each User #eg17](https://dev.to/esproc_spl/calculate-the-average-interval-of-projects-for-each-user-eg17-1kb0)
-- [The Ultimate Guide to Web Authentication: Comparing Session, JWT, SSO, and OAuth 2.0 in 2024](https://dev.to/vyan/the-ultimate-guide-to-web-authentication-comparing-session-jwt-sso-and-oauth-20-in-2024-2og0)
+- [The Benefits of Continuous Learning and Professional](https://dev.to/techstuff/the-benefits-of-continuous-learning-and-professional-1i17)
+- [Utilizing MySQL Wildcards: LIKE and FULLTEXT](https://dev.to/dbvismarketing/utilizing-mysql-wildcards-like-and-fulltext-lbn)
+- [How I Achieved 40 Stars in 2 Weeks After Launching ScriptKavi/Hooks](https://dev.to/scriptkavi/how-i-achieved-40-stars-in-2-weeks-after-launching-scriptkavihooks-1m2f)
+- [How to create a responsive table with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-responsive-table-with-tailwind-css-2pab)
 <!-- BLOG-POST-LIST:END -->
 
