@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security: PDF Scanning Tool](https://dev.to/nyasuma/security-pdf-scanning-tool-m21)
-- [Consumer-Driven Contract Testing with Pact - Code Example](https://dev.to/paulsebastianmanole/consumer-driven-contract-testing-with-pact-code-example-3ni6)
-- [Consumer-Driven Contract Testing with Pact - The basics](https://dev.to/paulsebastianmanole/consumer-driven-contract-testing-with-pact-the-basics-4fk9)
-- [How a Website Improves Your Credibility](https://dev.to/cbxsolutionsllc/how-a-website-improves-your-credibility-55k9)
+- [How Quickly Can a New Website Rank in Google Search?](https://dev.to/juddiy/how-quickly-can-a-new-website-rank-in-google-search-g96)
+- [A diferença entre Pseudo-Classes e Pseudo-Elements em CSS](https://dev.to/dougsource/a-diferenca-entre-pseudo-classes-e-pseudo-elements-em-css-a4)
+- [How to hire the best frontend developer in LA](https://dev.to/nathanredblur/how-to-hire-the-best-frontend-developer-in-la-3ne1)
+- [Perl Weekly #680 - Advent Calendar](https://dev.to/szabgab/perl-weekly-680-advent-calendar-1cpn)
 <!-- BLOG-POST-LIST:END -->
 
