@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Miço Sunucusu Kurulumu](https://dev.to/aciklab/mico-sunucusu-kurulumu-2lan)
-- [Jak sformatować datę, liczbę lub walutę w Javascript?](https://dev.to/bartholomeas/jak-sformatowac-date-liczbe-lub-walute-w-javascript-3nkk)
-- [AWS Serverless Scalability- Part 1 Importance of the constant learning](https://dev.to/aws-builders/aws-serverless-scalability-part-1-importance-of-the-constant-learning-12op)
-- [How to format date, currency or time period?](https://dev.to/bartholomeas/how-to-format-date-currency-or-time-period-58kf)
+- [Lighthouse vs. PageSpeed Insights: The Lack of Correlation](https://dev.to/zerodays/lighthouse-vs-pagespeed-insights-the-lack-of-correlation-26d4)
+- [Virtual Reality &lpar;VR&rpar; in Virtual Reality &lpar;VR&rpar; in Healthcare - Applications &amp; Benefits](https://dev.to/solutelabs/virtual-reality-vr-in-virtual-reality-vr-in-healthcare-applications-benefits-1f89)
+- [What is Data integration and how it accelerates Business Growth?](https://dev.to/vincent_natalie_900aed10e/what-is-data-integration-and-how-it-accelerates-business-growth-1keo)
+- [Reactive Streams and the Flow API in Java](https://dev.to/adaumircosta/reactive-streams-and-the-flow-api-in-java-3eg6)
 <!-- BLOG-POST-LIST:END -->
 
