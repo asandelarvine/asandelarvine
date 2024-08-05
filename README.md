@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Robust Test Automation Architecture with Java, Selenium, Maven, Docker, and Jenkins CI/CD](https://dev.to/jeissyguimaraes/building-a-robust-test-automation-architecture-with-java-selenium-maven-docker-and-jenkins-cicd-5ccg)
-- [Day 3/10 HTML](https://dev.to/ofameh/day-310-html-i0a)
-- [[Game of Purpose] Day 78](https://dev.to/humberd/game-of-purpose-day-78-4i7c)
-- [Web Development Without &lpar;Build&rpar; Tooling](https://dev.to/louwers/web-development-without-tooling-flk)
+- [How Proof of Concepts and Spikes Can Save Your Psyche](https://dev.to/sam_portelance/how-proof-of-concepts-and-spikes-can-save-your-psyche-2pp5)
+- [How to Submit an App on Google Play? Guide &amp; Checklist for Non-Developers](https://dev.to/koral/how-to-submit-an-app-on-google-play-guide-checklist-for-non-developers-5h77)
+- [Exploring Java&#39;s Stream API](https://dev.to/kartikmehta8/exploring-javas-stream-api-587m)
+- [The JavaScript Pre-Requisites for Seamless React Learning](https://dev.to/raju_dandigam/the-javascript-pre-requisites-for-seamless-react-learning-28g6)
 <!-- BLOG-POST-LIST:END -->
 
