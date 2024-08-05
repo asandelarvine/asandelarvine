@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsserviços, uma abordagem prática - Facilidade de Manutenção](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-facilidade-de-manutencao-3keg)
-- [Tips when upgrading Umbraco from 10 to 13](https://dev.to/d_inventor/tips-when-upgrading-umbraco-from-10-to-13-27dh)
-- [Experimenting with Tailwind CSS: A Quick Guide](https://dev.to/sanditzz/experimenting-with-tailwind-css-a-quick-guide-3dg6)
-- [windows设置系统变量](https://dev.to/dennischeung/windowsshe-zhi-xi-tong-bian-liang-2140)
+- [Proof of Code by BVM](https://dev.to/2836/proof-of-code-by-bvm-3mi4)
+- [Web Application Testing Tools](https://dev.to/testscenario/web-application-testing-tools-1b3d)
+- [Cricket League Registration Landing Page with GSAP Animation](https://dev.to/jennavisions/cricket-league-registration-landing-page-with-gsap-animation-1flo)
+- [How Sephora Transformed Customer Experience with Alibaba Cloud: A Case Study in Data-Driven Personalization](https://dev.to/lara_li_b856f87e31a0c2caf/how-sephora-transformed-customer-experience-with-alibaba-cloud-a-case-study-in-data-driven-personalization-16ij)
 <!-- BLOG-POST-LIST:END -->
 
