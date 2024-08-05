@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lighthouse vs. PageSpeed Insights: The Lack of Correlation](https://dev.to/zerodays/lighthouse-vs-pagespeed-insights-the-lack-of-correlation-26d4)
-- [Virtual Reality &lpar;VR&rpar; in Virtual Reality &lpar;VR&rpar; in Healthcare - Applications &amp; Benefits](https://dev.to/solutelabs/virtual-reality-vr-in-virtual-reality-vr-in-healthcare-applications-benefits-1f89)
-- [What is Data integration and how it accelerates Business Growth?](https://dev.to/vincent_natalie_900aed10e/what-is-data-integration-and-how-it-accelerates-business-growth-1keo)
-- [Reactive Streams and the Flow API in Java](https://dev.to/adaumircosta/reactive-streams-and-the-flow-api-in-java-3eg6)
+- [Boosting Angular Performance with @defer and Lazy Loading](https://dev.to/this-is-angular/boosting-angular-performance-with-defer-and-lazy-loading-40f3)
+- [How To Implement Governance Proposals on Polkadot](https://dev.to/polymawutor/how-to-implement-governance-proposals-on-polkadot-10hb)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;29/07/2024-04/08/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-29072024-04082024-4g1f)
+- [Understanding Karpenter: A Modern Approach to Kubernetes Autoscaling](https://dev.to/buzzgk/understanding-karpenter-a-modern-approach-to-kubernetes-autoscaling-3a05)
 <!-- BLOG-POST-LIST:END -->
 
