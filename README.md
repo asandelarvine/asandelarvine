@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Don’t Use &quot;Pushy&quot; Questions in Code Reviews Anymore. This Is What I Do Instead](https://dev.to/canro91/i-dont-use-pushy-questions-in-code-reviews-anymore-this-is-what-i-do-instead-58j3)
-- [To Obfuscate or Not Obfuscate &lpar;React Native&rpar;](https://dev.to/rgomezp/to-obfuscate-or-not-obfuscate-react-native-3mkm)
-- [AWS Data Lake Best Practices for Machine Learning Feature Engineering](https://dev.to/mursalfk/aws-data-lake-best-practices-for-machine-learning-feature-engineering-5h88)
-- [Creating a Slide-In Navigation Menu with HTML, CSS, and JavaScript](https://dev.to/code_passion/creating-a-slide-in-navigation-menu-with-html-css-and-javascript-4gkm)
+- [A Quick Dive into the Basics | Linix | DAY 2](https://dev.to/jagannath_ghantenavar_3e9/a-quick-dive-into-the-basics-linix-day-2-j9)
+- [JavaScript in 5-Minute](https://dev.to/lokesh_singh/javascript-in-5-minute-3m0i)
+- [Calculate the Average Interval of Projects for Each User #eg17](https://dev.to/esproc_spl/calculate-the-average-interval-of-projects-for-each-user-eg17-1kb0)
+- [The Ultimate Guide to Web Authentication: Comparing Session, JWT, SSO, and OAuth 2.0 in 2024](https://dev.to/vyan/the-ultimate-guide-to-web-authentication-comparing-session-jwt-sso-and-oauth-20-in-2024-2og0)
 <!-- BLOG-POST-LIST:END -->
 
