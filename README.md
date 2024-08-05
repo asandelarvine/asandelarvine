@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof of Code by BVM](https://dev.to/2836/proof-of-code-by-bvm-3mi4)
-- [Web Application Testing Tools](https://dev.to/testscenario/web-application-testing-tools-1b3d)
-- [Cricket League Registration Landing Page with GSAP Animation](https://dev.to/jennavisions/cricket-league-registration-landing-page-with-gsap-animation-1flo)
-- [How Sephora Transformed Customer Experience with Alibaba Cloud: A Case Study in Data-Driven Personalization](https://dev.to/lara_li_b856f87e31a0c2caf/how-sephora-transformed-customer-experience-with-alibaba-cloud-a-case-study-in-data-driven-personalization-16ij)
+- [Miço Sunucusu Kurulumu](https://dev.to/aciklab/mico-sunucusu-kurulumu-2lan)
+- [Jak sformatować datę, liczbę lub walutę w Javascript?](https://dev.to/bartholomeas/jak-sformatowac-date-liczbe-lub-walute-w-javascript-3nkk)
+- [AWS Serverless Scalability- Part 1 Importance of the constant learning](https://dev.to/aws-builders/aws-serverless-scalability-part-1-importance-of-the-constant-learning-12op)
+- [How to format date, currency or time period?](https://dev.to/bartholomeas/how-to-format-date-currency-or-time-period-58kf)
 <!-- BLOG-POST-LIST:END -->
 
