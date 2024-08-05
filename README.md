@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Grouping in JavaScript &lpar;2024&rpar;](https://dev.to/pmbanugo/array-grouping-in-javascript-2024-5cm9)
-- [Data-Type In Rust&lpar;Gamify&rpar;](https://dev.to/devyuvraaj/data-type-in-rustgamify-121j)
-- [Day 11: Delving Deeper into JavaScript OOP, this, new, and Prototypes! 🚀](https://dev.to/rohit1301/day-11-delving-deeper-into-javascript-oop-this-new-and-prototypes-1o5f)
-- [Multiple GitHub Accounts on the Same Machine Like a Pro](https://dev.to/kw4rgs/multiple-github-accounts-on-the-same-machine-like-a-pro-4ci1)
+- [Unlearning SOLID: My Path to More Nuanced Code Evaluation](https://dev.to/mmainz/unlearning-solid-my-path-to-more-nuanced-code-evaluation-3e4m)
+- [A beginner’s guide to data engineering](https://dev.to/sue_831367845d1f56e9eaedd/a-beginners-guide-to-data-engineering-36e6)
+- [Cyclops UI - the browser for your Kubernetes Clusters](https://dev.to/pravintargaryen/cyclops-ui-the-browser-for-your-kubernetes-clusters-582c)
+- [Clean architecture with Next.js](https://dev.to/dan1618/clean-architecture-with-nextjs-43cg)
 <!-- BLOG-POST-LIST:END -->
 
