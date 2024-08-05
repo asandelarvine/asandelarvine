@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shimmer effect in Card when you load Supabase dashboard.](https://dev.to/ramunarasinga/shimmer-effect-in-card-when-you-load-supabase-dashboard-7cn)
-- [Error Handling in Node.js: Patterns and Practices](https://dev.to/wallacefreitas/error-handling-in-nodejs-patterns-and-practices-1mg0)
-- [Data backup platform](https://dev.to/sib_sankarbag_580d956d6a/data-backup-platform-1p3h)
-- [You’re Decent At JavaScript If You Can Answer These 7 Questions Correctly](https://dev.to/lorenzhw/youre-decent-at-javascript-if-you-can-answer-these-7-questions-correctly-36jl)
+- [Beautifying the HTMLImageElement not-loaded/errored status display, react component](https://dev.to/fromsian/beautifying-the-htmlimageelement-not-loadederrored-status-display-react-component-4dle)
+- [CSS for forms: enhancing user experience](https://dev.to/samsontobiy/css-for-forms-enhancing-user-experience-28)
+- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-1nbg)
+- [Ibuprofeno.py💊| #153: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-153-explica-este-codigo-python-2i4e)
 <!-- BLOG-POST-LIST:END -->
 
