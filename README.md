@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [101 React Tips &amp; Tricks For Beginners To Experts ✨](https://dev.to/_ndeyefatoudiop/101-react-tips-tricks-for-beginners-to-experts-4m11)
-- [A General Guide to Data Analysis Techniques &amp; Tools](https://dev.to/kennedy_keli_24ed724ac6fe/a-general-guide-to-data-analysis-techniques-tools-4j4o)
-- [🤑 Financial Industry Side Chat: MongoDB Atlas Charts Real-World User Case &lpar;Crypto Trading &amp; Lending&rpar; 🤑](https://dev.to/mongodb-builder/financial-industry-side-chat-mongodb-atlas-charts-real-world-user-case-crypto-trading-lending-1b33)
-- [Deploying a REST API and Angular Frontend Using AWS CDK, S3, and API Gateway](https://dev.to/nivekalara237/deploying-a-rest-api-and-angular-frontend-using-aws-cdk-s3-and-api-gateway-5983)
+- [Advanced MLOps: Streamlining Machine Learning Pipelines for Enterprise](https://dev.to/spikynets/advanced-mlops-streamlining-machine-learning-pipelines-for-enterprise-mb3)
+- [Creating Dynamic Links and Deep Linking URLs in Node.js for React Native](https://dev.to/surajprasad13/creating-dynamic-links-and-deep-linking-urls-in-nodejs-for-react-native-175d)
+- [I&#39;m Caleb, I am a beginner in web development with the AdonisJs framework. ---](https://dev.to/calebkakhuba/im-caleb-i-am-a-beginner-in-web-development-with-the-adonisjs-framework--41om)
+- [Dealing With Difficult Stakeholders](https://dev.to/sumusiriwardana/dealing-with-difficult-stakeholders-3d3l)
 <!-- BLOG-POST-LIST:END -->
 
