@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Language Models&#39; Foresight Unveiled: Are They Really Planning Ahead?](https://dev.to/mikeyoung44/language-models-foresight-unveiled-are-they-really-planning-ahead-27k7)
-- [New Dataset Unlocks Pre-Choice Insights for Better Movie Recommendations](https://dev.to/mikeyoung44/new-dataset-unlocks-pre-choice-insights-for-better-movie-recommendations-4bji)
-- [ExchangeRate.host vs Competitors: Which Exchange Rate API is Right for You?](https://dev.to/sameeranthony/exchangeratehost-vs-competitors-which-exchange-rate-api-is-right-for-you-31d2)
-- [One-Model-to-Rule-Them-All: POA Efficiently Adapts to Tasks and Sizes](https://dev.to/mikeyoung44/one-model-to-rule-them-all-poa-efficiently-adapts-to-tasks-and-sizes-3522)
+- [Microsserviços, uma abordagem prática - Facilidade de Manutenção](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-facilidade-de-manutencao-3keg)
+- [Tips when upgrading Umbraco from 10 to 13](https://dev.to/d_inventor/tips-when-upgrading-umbraco-from-10-to-13-27dh)
+- [Experimenting with Tailwind CSS: A Quick Guide](https://dev.to/sanditzz/experimenting-with-tailwind-css-a-quick-guide-3dg6)
+- [windows设置系统变量](https://dev.to/dennischeung/windowsshe-zhi-xi-tong-bian-liang-2140)
 <!-- BLOG-POST-LIST:END -->
 
