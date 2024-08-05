@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced MLOps: Streamlining Machine Learning Pipelines for Enterprise](https://dev.to/spikynets/advanced-mlops-streamlining-machine-learning-pipelines-for-enterprise-mb3)
-- [Creating Dynamic Links and Deep Linking URLs in Node.js for React Native](https://dev.to/surajprasad13/creating-dynamic-links-and-deep-linking-urls-in-nodejs-for-react-native-175d)
-- [I&#39;m Caleb, I am a beginner in web development with the AdonisJs framework. ---](https://dev.to/calebkakhuba/im-caleb-i-am-a-beginner-in-web-development-with-the-adonisjs-framework--41om)
-- [Dealing With Difficult Stakeholders](https://dev.to/sumusiriwardana/dealing-with-difficult-stakeholders-3d3l)
+- [X3NOS - Day 1](https://dev.to/xentzenith/x3nos-day-1-4jj)
+- [How to Duplicate a Git Repository? Step-by-step Guide](https://dev.to/koral/how-to-duplicate-a-git-repository-step-by-step-guide-2eeh)
+- [Github Copilot - AI Assistance for developer](https://dev.to/sib_sankarbag_580d956d6a/github-copilot-ai-assistance-for-developer-410l)
+- [Managing Technical Debt: Strategies for Long-Term Success](https://dev.to/rowjay007/managing-technical-debt-strategies-for-long-term-success-3cna)
 <!-- BLOG-POST-LIST:END -->
 
