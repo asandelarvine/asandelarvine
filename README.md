@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Proof of Concepts and Spikes Can Save Your Psyche](https://dev.to/sam_portelance/how-proof-of-concepts-and-spikes-can-save-your-psyche-2pp5)
-- [How to Submit an App on Google Play? Guide &amp; Checklist for Non-Developers](https://dev.to/koral/how-to-submit-an-app-on-google-play-guide-checklist-for-non-developers-5h77)
-- [Exploring Java&#39;s Stream API](https://dev.to/kartikmehta8/exploring-javas-stream-api-587m)
-- [The JavaScript Pre-Requisites for Seamless React Learning](https://dev.to/raju_dandigam/the-javascript-pre-requisites-for-seamless-react-learning-28g6)
+- [Security: PDF Scanning Tool](https://dev.to/nyasuma/security-pdf-scanning-tool-m21)
+- [Consumer-Driven Contract Testing with Pact - Code Example](https://dev.to/paulsebastianmanole/consumer-driven-contract-testing-with-pact-code-example-3ni6)
+- [Consumer-Driven Contract Testing with Pact - The basics](https://dev.to/paulsebastianmanole/consumer-driven-contract-testing-with-pact-the-basics-4fk9)
+- [How a Website Improves Your Credibility](https://dev.to/cbxsolutionsllc/how-a-website-improves-your-credibility-55k9)
 <!-- BLOG-POST-LIST:END -->
 
