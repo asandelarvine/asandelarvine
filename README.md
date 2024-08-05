@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Theory - Part 9 : the Secrets of Cross-Browser Compatibility: A Beginner’s Guide to Making Your Website Shine Everywhere](https://dev.to/teclearn/web-theory-part-9-the-secrets-of-cross-browser-compatibility-a-beginners-guide-to-making-your-website-shine-everywhere-3l99)
-- [Day 18 of 100 Days of Cloud: Migrating Data from a PostgreSQL Instance to a Docker Container](https://dev.to/tutorialhelldev/day-18-of-100-days-of-cloud-migrating-data-from-a-postgresql-instance-to-a-docker-container-3ekm)
-- [Can I use GenAI services to predict football results? - My experience during European Football Championship 2024](https://dev.to/aws-builders/can-i-use-genai-services-to-predict-football-results-my-experience-during-european-football-championship-2024-312p)
-- [I create mobile applications using AI!](https://dev.to/azizbelabed/i-create-mobile-applications-using-ai-169d)
+- [Shimmer effect in Card when you load Supabase dashboard.](https://dev.to/ramunarasinga/shimmer-effect-in-card-when-you-load-supabase-dashboard-7cn)
+- [Error Handling in Node.js: Patterns and Practices](https://dev.to/wallacefreitas/error-handling-in-nodejs-patterns-and-practices-1mg0)
+- [Data backup platform](https://dev.to/sib_sankarbag_580d956d6a/data-backup-platform-1p3h)
+- [You’re Decent At JavaScript If You Can Answer These 7 Questions Correctly](https://dev.to/lorenzhw/youre-decent-at-javascript-if-you-can-answer-these-7-questions-correctly-36jl)
 <!-- BLOG-POST-LIST:END -->
 
