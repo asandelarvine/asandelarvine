@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlearning SOLID: My Path to More Nuanced Code Evaluation](https://dev.to/mmainz/unlearning-solid-my-path-to-more-nuanced-code-evaluation-3e4m)
-- [A beginner’s guide to data engineering](https://dev.to/sue_831367845d1f56e9eaedd/a-beginners-guide-to-data-engineering-36e6)
-- [Cyclops UI - the browser for your Kubernetes Clusters](https://dev.to/pravintargaryen/cyclops-ui-the-browser-for-your-kubernetes-clusters-582c)
-- [Clean architecture with Next.js](https://dev.to/dan1618/clean-architecture-with-nextjs-43cg)
+- [Web Theory - Part 9 : the Secrets of Cross-Browser Compatibility: A Beginner’s Guide to Making Your Website Shine Everywhere](https://dev.to/teclearn/web-theory-part-9-the-secrets-of-cross-browser-compatibility-a-beginners-guide-to-making-your-website-shine-everywhere-3l99)
+- [Day 18 of 100 Days of Cloud: Migrating Data from a PostgreSQL Instance to a Docker Container](https://dev.to/tutorialhelldev/day-18-of-100-days-of-cloud-migrating-data-from-a-postgresql-instance-to-a-docker-container-3ekm)
+- [Can I use GenAI services to predict football results? - My experience during European Football Championship 2024](https://dev.to/aws-builders/can-i-use-genai-services-to-predict-football-results-my-experience-during-european-football-championship-2024-312p)
+- [I create mobile applications using AI!](https://dev.to/azizbelabed/i-create-mobile-applications-using-ai-169d)
 <!-- BLOG-POST-LIST:END -->
 
