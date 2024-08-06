@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wings Engine: The No-Code 3D Mapping Magic for Smart Cities](https://dev.to/samuel67/wings-engine-the-no-code-3d-mapping-magic-for-smart-cities-14e9)
-- [.Net tarixi](https://dev.to/mushtariy/net-tarixi-5dkk)
-- [Amazon Event Bridge &lpar;formerly CloudWatch Events&rpar;](https://dev.to/mohsinnaqvipro/amazon-event-bridge-formerly-cloudwatch-events-4k2a)
-- [How to Dockerizing a React App: A Step-by-Step Guide](https://dev.to/om_d_01/how-to-dockerizing-a-react-app-a-step-by-step-guide-9i)
+- [Add Missing Sequence Numbers to One Table according to The Other and Combine Two Tables #eg18](https://dev.to/esproc_spl/add-missing-sequence-numbers-to-one-table-according-to-the-other-and-combine-two-tables-eg18-2m54)
+- [New Rails Designer Tool: beautiful gradients with Tailwind CSS](https://dev.to/railsdesigner/new-rails-designer-tool-beautiful-gradients-with-tailwind-css-ngp)
+- [How to get power bi visual level data using python code](https://dev.to/kishore_lingala_e4fc726d8/how-to-get-power-bi-visual-level-data-using-python-code-572d)
+- [🔥Advanced Array Methods in JavaScript](https://dev.to/noorscript/advanced-array-methods-in-javascript-35aa)
 <!-- BLOG-POST-LIST:END -->
 
