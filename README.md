@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation Engineering For Beginners: All You Need To Know](https://dev.to/dumebii/documentation-engineering-for-beginners-all-you-need-to-know-4die)
-- [How to Build a Tech Product/Start-Up As a Non-Technical Founder](https://dev.to/tribesquare/how-to-build-a-tech-productstart-up-as-a-non-technical-founder-29f5)
-- [17 Iconic Projects for your Portfolio](https://dev.to/copilotkit/17-iconic-projects-for-your-portfolio-5e5e)
-- [Enhancing Your Elixir Codebase with Gleam](https://dev.to/appsignal/enhancing-your-elixir-codebase-with-gleam-329c)
+- [Kubernetes Foundations and Cluster Setup with K3s](https://dev.to/rolfstreefkerk/kubernetes-foundations-and-cluster-setup-with-k3s-15i6)
+- [The Edge of Impossible: Exploring New Frontiers in Cybersecurity](https://dev.to/osi_layer/the-edge-of-impossible-exploring-new-frontiers-in-cybersecurity-225h)
+- [Java Code Snippets:&rpar;](https://dev.to/madgan95/java-code-snippets-3oc3)
+- [Gerenciamento de projetos ágeis: Realizando estimativas](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-realizando-estimativas-bpb)
 <!-- BLOG-POST-LIST:END -->
 
