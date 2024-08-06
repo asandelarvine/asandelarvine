@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Retrieval Augmented Generation &lpar;RAG&rpar;: Chunking, LLMs, and Evaluations](https://dev.to/zilliz/exploring-retrieval-augmented-generation-rag-chunking-llms-and-evaluations-3fbn)
-- [Free Node.js Hosting: A Quick Guide](https://dev.to/adya_kalhari/free-nodejs-hosting-a-quick-guide-3p87)
-- [Accessibility in React: Building Inclusive Web Applications](https://dev.to/wallacefreitas/accessibility-in-react-building-inclusive-web-applications-4b4k)
-- [SAPUI5 - Table Cell Coloring](https://dev.to/kiranuknow/sapui5-table-cell-coloring-368g)
+- [Secret-Key and Public-Key Cryptography explained as if you&#39;d have the brains of a teenager from a slasher movie](https://dev.to/taskill/secret-key-and-public-key-cryptography-explained-as-if-youd-have-the-brains-of-a-teenager-from-a-slasher-movie-5h54)
+- [Object Literals](https://dev.to/meganpaffrath/object-literals-1d93)
+- [Clustering Factor for YugabyteDB Index Scan: correlation between secondary indexes and the primary key](https://dev.to/yugabyte/clustering-factor-for-yugabytedb-index-scan-correlation-between-secondary-indexes-and-the-primary-key-1fia)
+- [Top 12 JavaScript Resources for Learning and Mastery](https://dev.to/dipakahirav/top-12-javascript-resources-for-learning-and-mastery-17bc)
 <!-- BLOG-POST-LIST:END -->
 
