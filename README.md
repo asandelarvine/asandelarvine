@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4/10 HTML](https://dev.to/ofameh/day-410-html-4kfl)
-- [ovm &lpar;Obsidian Vaults Manager&rpar;](https://dev.to/mgh/ovm-obsidian-vaults-manager-373k)
-- [Running pyspark jobs on Google Cloud Dataproc](https://dev.to/jader_lima_b72a63be5bbddc/running-pyspark-jobs-on-google-cloud-dataproc-jd1)
-- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-55ha)
+- [From Parcel to Vite: A short story of a 100K LOC migration](https://dev.to/logto/from-parcel-to-vite-a-short-story-of-a-100k-loc-migration-2m72)
+- [Null vs. Undefined in JavaScript: The Ultimate Showdown](https://dev.to/i-sultan0/null-vs-undefined-in-javascript-the-ultimate-showdown-2h7f)
+- [¿Inteligencia Artificial: Aliada o Adversaria en la Programación?](https://dev.to/aaqui_apolinarmorales_0/inteligencia-artificial-aliada-o-adversaria-en-la-programacion-42lk)
+- [React Native for Beginners](https://dev.to/muhammedshamal/react-native-for-beginners-49hd)
 <!-- BLOG-POST-LIST:END -->
 
