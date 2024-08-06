@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Foundations and Cluster Setup with K3s](https://dev.to/rolfstreefkerk/kubernetes-foundations-and-cluster-setup-with-k3s-15i6)
-- [The Edge of Impossible: Exploring New Frontiers in Cybersecurity](https://dev.to/osi_layer/the-edge-of-impossible-exploring-new-frontiers-in-cybersecurity-225h)
-- [Java Code Snippets:&rpar;](https://dev.to/madgan95/java-code-snippets-3oc3)
-- [Gerenciamento de projetos ágeis: Realizando estimativas](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-realizando-estimativas-bpb)
+- [Reinforcement Learning from Scratch - Part 3 - REINFORCE Algorithm](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-3-reinforce-algorithm-4724)
+- [Formatting Prices in JavaScript](https://dev.to/ivan_kaminskyi/formatting-prices-in-javascript-5h1g)
+- [Leaving the Comfort Zone Behind: The Journey to Developing a Plugin for Obsidian.md](https://dev.to/dariocasciato/leaving-the-comfort-zone-behind-the-journey-to-developing-a-plugin-for-obsidianmd-53hi)
+- [Artificial Intelligence &lpar;AI&rpar; holds immense promis, but it also faces several challenges and risks](https://dev.to/olatunjiayodel9/artificial-intelligence-ai-holds-immense-promis-but-it-also-faces-several-challenges-and-risks-e5m)
 <!-- BLOG-POST-LIST:END -->
 
