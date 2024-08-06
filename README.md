@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Flutter: A Web Developer’s Perspective](https://dev.to/busycaesar/introduction-to-flutter-a-web-developers-perspective-4l8k)
-- [Thinking About Complexity as a Programmer](https://dev.to/ivangavlik/thinking-about-complexity-as-a-programmer-9cd)
-- [VueJS vs ReactJS: Exploring The Key Differences](https://dev.to/get_pieces/vuejs-vs-reactjs-exploring-the-key-differences-1pke)
-- [Cómo Utilizar la Inteligencia Artificial en el Desarrollo de Software](https://dev.to/pakosanchez98/como-utilizar-la-inteligencia-artificial-en-el-desarrollo-de-software-1o0p)
+- [Understanding Procurement Software: An Insightful Guide](https://dev.to/business_bidseo_8bad4bc6/understanding-procurement-software-an-insightful-guide-2p43)
+- [Tired of the punycode deprecation message?](https://dev.to/nullvoxpopuli/tired-of-the-punycode-deprecation-message-40ml)
+- [Loops: For Loops, While Loops, For...Of Loops, For...In Loops](https://dev.to/meganpaffrath/loops-for-loops-while-loops-forof-loops-forin-loops-1eek)
+- [Programming Memes](https://dev.to/blaze_26/programming-memes-20g6)
 <!-- BLOG-POST-LIST:END -->
 
