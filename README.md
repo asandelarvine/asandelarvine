@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Mocking: A Comprehensive Guide](https://dev.to/getambassador2024/api-mocking-a-comprehensive-guide-2dph)
-- [How Hybrid Cloud Can Revolutionize Your Business in 13 Steps](https://dev.to/leoarthur01/how-hybrid-cloud-can-revolutionize-your-business-in-13-steps-278o)
-- [My Journey as a Laravel Intern](https://dev.to/tammy11/my-journey-as-a-laravel-intern-3bg8)
-- [Best 5 Tips for Front-End-Engineer](https://dev.to/7hecoder/best-5-tips-for-front-end-engineer-13an)
+- [Embed.WS Early Bird Pro equity on sale](https://dev.to/laohu/embedws-early-bird-pro-equity-on-sale-135c)
+- [Top Project Management Software for Mac Users: What to Choose](https://dev.to/thomasy0ung/top-project-management-software-for-mac-users-what-to-choose-o60)
+- [Day 9 of NodeJS|| HTTP Module](https://dev.to/akshat0610/day-9-of-nodejs-http-module-591j)
+- [Native vs Hybrid vs Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/synapseindia/native-vs-hybrid-vs-progressive-web-apps-pwas-3h9j)
 <!-- BLOG-POST-LIST:END -->
 
