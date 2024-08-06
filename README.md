@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reinforcement Learning from Scratch - Part 3 - REINFORCE Algorithm](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-3-reinforce-algorithm-4724)
-- [Formatting Prices in JavaScript](https://dev.to/ivan_kaminskyi/formatting-prices-in-javascript-5h1g)
-- [Leaving the Comfort Zone Behind: The Journey to Developing a Plugin for Obsidian.md](https://dev.to/dariocasciato/leaving-the-comfort-zone-behind-the-journey-to-developing-a-plugin-for-obsidianmd-53hi)
-- [Artificial Intelligence &lpar;AI&rpar; holds immense promis, but it also faces several challenges and risks](https://dev.to/olatunjiayodel9/artificial-intelligence-ai-holds-immense-promis-but-it-also-faces-several-challenges-and-risks-e5m)
+- [OS interview Questions for Freshers 📝](https://dev.to/jemmyasjd/os-interview-questions-for-freshers-4279)
+- [Open to work](https://dev.to/ricardogesteves/open-to-work-3abh)
+- [Análises Estatísticas: Entendendo Quando e Como Utilizá-las](https://dev.to/rvinicius396g/analises-estatisticas-entendendo-quando-e-como-utiliza-las-2n7h)
+- [.NET versiyalari](https://dev.to/sunnat_qayumov_2db67b1ba1/net-versiyalari-20kg)
 <!-- BLOG-POST-LIST:END -->
 
