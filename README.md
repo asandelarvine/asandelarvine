@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with Nylas: Embracing the Challenge](https://dev.to/leonardsangoroh/my-journey-with-nylas-embracing-the-challenge-3ca2)
-- [Setting Up a VPC for Your App Using AWS Management Console](https://dev.to/sepiyush/setting-up-a-vpc-for-your-app-using-aws-management-console-5h5p)
-- [Tutorial: Frontend AI copilot](https://dev.to/buildwebcrumbs/tutorial-frontend-ai-copilot-17db)
-- [The Accessor Protocol](https://dev.to/stdlib/the-accessor-protocol-38eg)
+- [Arrays multidimensionais](https://dev.to/devsjavagirls/arrays-multidimensionais-1hod)
+- [Tente Isto 5-1: Classifique um array](https://dev.to/devsjavagirls/tente-isto-5-1-classifique-um-array-4790)
+- [Arrays](https://dev.to/devsjavagirls/arrays-4dca)
+- [World of GenAI - Exploring the Depths of Stable Diffusion](https://dev.to/krishsharma0413/world-of-genai-exploring-the-depths-of-stable-diffusion-1id3)
 <!-- BLOG-POST-LIST:END -->
 
