@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular vs. React: A Comprehensive Comparison](https://dev.to/dipakahirav/angular-vs-react-a-comprehensive-comparison-2gm2)
-- [Understanding Frequency Count Method and Akra-Bazzi Method in Algorithm Analysis](https://dev.to/prasanth_k/understanding-frequency-count-method-and-akra-bazzi-method-in-algorithm-analysis-5d6l)
-- [How to reference the current branch in GitHub Actions](https://dev.to/brianmmdev/how-to-reference-the-current-branch-in-github-actions-37mc)
-- [Using Residential Proxies with Python: A Simple Example](https://dev.to/swiftproxy/using-residential-proxies-with-python-a-simple-example-2iep)
+- [C++ Interview Questions for Beginners: Most Asked Topics – Part 1](https://dev.to/rk042/c-interview-questions-for-beginners-most-asked-topics-part-1-6pk)
+- [Using Terraform to deploy a docker image on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/using-terraform-to-deploy-a-docker-image-on-google-kubernetes-engine-2h0m)
+- [Best Practices for Optimizing Pages for Local SEO](https://dev.to/juddiy/best-practices-for-optimizing-pages-for-local-seo-16b4)
+- [Socket.io Use as Real Time Application like Chatting Gamming in React ,Or Any Application in Express](https://dev.to/munisekharudavalapat/socketio-use-as-real-time-application-like-chatting-gamming-in-react-or-any-application-in-express-gaf)
 <!-- BLOG-POST-LIST:END -->
 
