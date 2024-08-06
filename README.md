@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encore.ts - Backend Game changer](https://dev.to/shanu001x/encorets-back-end-development-game-changer-3lkl)
-- [The Art of Responsive Web Design: Techniques and Best Practices](https://dev.to/ruthvik_thimmoji_6fde5e61/the-art-of-responsive-web-design-techniques-and-best-practices-2bee)
-- [The Art of Responsive Web Design: Techniques and Best Practices](https://dev.to/ruthvik_thimmoji_6fde5e61/the-art-of-responsive-web-design-techniques-and-best-practices-17io)
-- [Mastering MongoDB Aggregation: A Deep Dive](https://dev.to/alexander_martin_13fd7a40/mastering-mongodb-aggregation-a-deep-dive-3068)
+- [API Mocking: A Comprehensive Guide](https://dev.to/getambassador2024/api-mocking-a-comprehensive-guide-2dph)
+- [How Hybrid Cloud Can Revolutionize Your Business in 13 Steps](https://dev.to/leoarthur01/how-hybrid-cloud-can-revolutionize-your-business-in-13-steps-278o)
+- [My Journey as a Laravel Intern](https://dev.to/tammy11/my-journey-as-a-laravel-intern-3bg8)
+- [Best 5 Tips for Front-End-Engineer](https://dev.to/7hecoder/best-5-tips-for-front-end-engineer-13an)
 <!-- BLOG-POST-LIST:END -->
 
