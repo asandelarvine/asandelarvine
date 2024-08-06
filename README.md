@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OS interview Questions for Freshers 📝](https://dev.to/jemmyasjd/os-interview-questions-for-freshers-4279)
-- [Open to work](https://dev.to/ricardogesteves/open-to-work-3abh)
-- [Análises Estatísticas: Entendendo Quando e Como Utilizá-las](https://dev.to/rvinicius396g/analises-estatisticas-entendendo-quando-e-como-utiliza-las-2n7h)
-- [.NET versiyalari](https://dev.to/sunnat_qayumov_2db67b1ba1/net-versiyalari-20kg)
+- [Exploring Retrieval Augmented Generation &lpar;RAG&rpar;: Chunking, LLMs, and Evaluations](https://dev.to/zilliz/exploring-retrieval-augmented-generation-rag-chunking-llms-and-evaluations-3fbn)
+- [Free Node.js Hosting: A Quick Guide](https://dev.to/adya_kalhari/free-nodejs-hosting-a-quick-guide-3p87)
+- [Accessibility in React: Building Inclusive Web Applications](https://dev.to/wallacefreitas/accessibility-in-react-building-inclusive-web-applications-4b4k)
+- [SAPUI5 - Table Cell Coloring](https://dev.to/kiranuknow/sapui5-table-cell-coloring-368g)
 <!-- BLOG-POST-LIST:END -->
 
