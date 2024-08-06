@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embed.WS Early Bird Pro equity on sale](https://dev.to/laohu/embedws-early-bird-pro-equity-on-sale-135c)
-- [Top Project Management Software for Mac Users: What to Choose](https://dev.to/thomasy0ung/top-project-management-software-for-mac-users-what-to-choose-o60)
-- [Day 9 of NodeJS|| HTTP Module](https://dev.to/akshat0610/day-9-of-nodejs-http-module-591j)
-- [Native vs Hybrid vs Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/synapseindia/native-vs-hybrid-vs-progressive-web-apps-pwas-3h9j)
+- [Wings Engine: The No-Code 3D Mapping Magic for Smart Cities](https://dev.to/samuel67/wings-engine-the-no-code-3d-mapping-magic-for-smart-cities-14e9)
+- [.Net tarixi](https://dev.to/mushtariy/net-tarixi-5dkk)
+- [Amazon Event Bridge &lpar;formerly CloudWatch Events&rpar;](https://dev.to/mohsinnaqvipro/amazon-event-bridge-formerly-cloudwatch-events-4k2a)
+- [How to Dockerizing a React App: A Step-by-Step Guide](https://dev.to/om_d_01/how-to-dockerizing-a-react-app-a-step-by-step-guide-9i)
 <!-- BLOG-POST-LIST:END -->
 
