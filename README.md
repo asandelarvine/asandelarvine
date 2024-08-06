@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays multidimensionais](https://dev.to/devsjavagirls/arrays-multidimensionais-1hod)
-- [Tente Isto 5-1: Classifique um array](https://dev.to/devsjavagirls/tente-isto-5-1-classifique-um-array-4790)
-- [Arrays](https://dev.to/devsjavagirls/arrays-4dca)
-- [World of GenAI - Exploring the Depths of Stable Diffusion](https://dev.to/krishsharma0413/world-of-genai-exploring-the-depths-of-stable-diffusion-1id3)
+- [Issue 56 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-56-of-aws-cloud-security-weekly-369b)
+- [Polyglotta -- A Multilingual translator](https://dev.to/afeezee/polyglotta-a-multilingual-translator-33oh)
+- [Understanding Bubble Sort: Simple Sorting Method](https://dev.to/vampirepapi/understanding-bubble-sort-simple-sorting-method-1gj7)
+- [Dynamic Image Sizing &amp; Optimization](https://dev.to/okeamah/dynamic-image-sizing-optimization-3ehb)
 <!-- BLOG-POST-LIST:END -->
 
