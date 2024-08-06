@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Parcel to Vite: A short story of a 100K LOC migration](https://dev.to/logto/from-parcel-to-vite-a-short-story-of-a-100k-loc-migration-2m72)
-- [Null vs. Undefined in JavaScript: The Ultimate Showdown](https://dev.to/i-sultan0/null-vs-undefined-in-javascript-the-ultimate-showdown-2h7f)
-- [¿Inteligencia Artificial: Aliada o Adversaria en la Programación?](https://dev.to/aaqui_apolinarmorales_0/inteligencia-artificial-aliada-o-adversaria-en-la-programacion-42lk)
-- [React Native for Beginners](https://dev.to/muhammedshamal/react-native-for-beginners-49hd)
+- [Angular vs. React: A Comprehensive Comparison](https://dev.to/dipakahirav/angular-vs-react-a-comprehensive-comparison-2gm2)
+- [Understanding Frequency Count Method and Akra-Bazzi Method in Algorithm Analysis](https://dev.to/prasanth_k/understanding-frequency-count-method-and-akra-bazzi-method-in-algorithm-analysis-5d6l)
+- [How to reference the current branch in GitHub Actions](https://dev.to/brianmmdev/how-to-reference-the-current-branch-in-github-actions-37mc)
+- [Using Residential Proxies with Python: A Simple Example](https://dev.to/swiftproxy/using-residential-proxies-with-python-a-simple-example-2iep)
 <!-- BLOG-POST-LIST:END -->
 
