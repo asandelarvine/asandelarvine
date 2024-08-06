@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Interview Questions for Beginners: Most Asked Topics – Part 1](https://dev.to/rk042/c-interview-questions-for-beginners-most-asked-topics-part-1-6pk)
-- [Using Terraform to deploy a docker image on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/using-terraform-to-deploy-a-docker-image-on-google-kubernetes-engine-2h0m)
-- [Best Practices for Optimizing Pages for Local SEO](https://dev.to/juddiy/best-practices-for-optimizing-pages-for-local-seo-16b4)
-- [Socket.io Use as Real Time Application like Chatting Gamming in React ,Or Any Application in Express](https://dev.to/munisekharudavalapat/socketio-use-as-real-time-application-like-chatting-gamming-in-react-or-any-application-in-express-gaf)
+- [My Day-1 in kalvium simulation work](https://dev.to/mohanavamsi0614/my-day-1-in-kalvium-simulation-work-5044)
+- [Exploring Octant - A Kubernetes Dashboard for Better Visibility and Management : : Day 24 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-octant-a-kubernetes-dashboard-for-better-visibility-and-management-day-24-of-50-days-devops-tools-series-3nnj)
+- [E-Commerce Shopping Cart UI Design – The Best Examples](https://dev.to/pepper_square/e-commerce-shopping-cart-ui-design-the-best-examples-b47)
+- [AWS Interview Questions](https://dev.to/munisekharudavalapat/aws-interview-questions-1232)
 <!-- BLOG-POST-LIST:END -->
 
