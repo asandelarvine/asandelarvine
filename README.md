@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personalized Gift Assistant using Lyzr SDK](https://dev.to/akshay007/building-a-personalized-gift-assistant-using-lyzr-sdk-88e)
-- [Exciting New Features in Windowlight&#39;s August Update!](https://dev.to/codewithcaen/exciting-new-features-in-windowlights-august-update-53he)
-- [10 Cool CodePen Demos &lpar;July 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2024-594i)
-- [Building a Productivity Assistant using Lyzr SDK](https://dev.to/akshay007/building-a-productivity-assistant-using-lyzr-sdk-995)
+- [Introduction to Flutter: A Web Developer’s Perspective](https://dev.to/busycaesar/introduction-to-flutter-a-web-developers-perspective-4l8k)
+- [Thinking About Complexity as a Programmer](https://dev.to/ivangavlik/thinking-about-complexity-as-a-programmer-9cd)
+- [VueJS vs ReactJS: Exploring The Key Differences](https://dev.to/get_pieces/vuejs-vs-reactjs-exploring-the-key-differences-1pke)
+- [Cómo Utilizar la Inteligencia Artificial en el Desarrollo de Software](https://dev.to/pakosanchez98/como-utilizar-la-inteligencia-artificial-en-el-desarrollo-de-software-1o0p)
 <!-- BLOG-POST-LIST:END -->
 
