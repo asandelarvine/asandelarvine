@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Day-1 in kalvium simulation work](https://dev.to/mohanavamsi0614/my-day-1-in-kalvium-simulation-work-5044)
-- [Exploring Octant - A Kubernetes Dashboard for Better Visibility and Management : : Day 24 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-octant-a-kubernetes-dashboard-for-better-visibility-and-management-day-24-of-50-days-devops-tools-series-3nnj)
-- [E-Commerce Shopping Cart UI Design – The Best Examples](https://dev.to/pepper_square/e-commerce-shopping-cart-ui-design-the-best-examples-b47)
-- [AWS Interview Questions](https://dev.to/munisekharudavalapat/aws-interview-questions-1232)
+- [Encore.ts - Backend Game changer](https://dev.to/shanu001x/encorets-back-end-development-game-changer-3lkl)
+- [The Art of Responsive Web Design: Techniques and Best Practices](https://dev.to/ruthvik_thimmoji_6fde5e61/the-art-of-responsive-web-design-techniques-and-best-practices-2bee)
+- [The Art of Responsive Web Design: Techniques and Best Practices](https://dev.to/ruthvik_thimmoji_6fde5e61/the-art-of-responsive-web-design-techniques-and-best-practices-17io)
+- [Mastering MongoDB Aggregation: A Deep Dive](https://dev.to/alexander_martin_13fd7a40/mastering-mongodb-aggregation-a-deep-dive-3068)
 <!-- BLOG-POST-LIST:END -->
 
