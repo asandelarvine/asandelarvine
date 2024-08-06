@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secret-Key and Public-Key Cryptography explained as if you&#39;d have the brains of a teenager from a slasher movie](https://dev.to/taskill/secret-key-and-public-key-cryptography-explained-as-if-youd-have-the-brains-of-a-teenager-from-a-slasher-movie-5h54)
-- [Object Literals](https://dev.to/meganpaffrath/object-literals-1d93)
-- [Clustering Factor for YugabyteDB Index Scan: correlation between secondary indexes and the primary key](https://dev.to/yugabyte/clustering-factor-for-yugabytedb-index-scan-correlation-between-secondary-indexes-and-the-primary-key-1fia)
-- [Top 12 JavaScript Resources for Learning and Mastery](https://dev.to/dipakahirav/top-12-javascript-resources-for-learning-and-mastery-17bc)
+- [Building a Personalized Gift Assistant using Lyzr SDK](https://dev.to/akshay007/building-a-personalized-gift-assistant-using-lyzr-sdk-88e)
+- [Exciting New Features in Windowlight&#39;s August Update!](https://dev.to/codewithcaen/exciting-new-features-in-windowlights-august-update-53he)
+- [10 Cool CodePen Demos &lpar;July 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2024-594i)
+- [Building a Productivity Assistant using Lyzr SDK](https://dev.to/akshay007/building-a-productivity-assistant-using-lyzr-sdk-995)
 <!-- BLOG-POST-LIST:END -->
 
