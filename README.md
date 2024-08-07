@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending Calendar Invites with React and SMTP Express](https://dev.to/devyoma/sending-calendar-invites-with-react-and-smtp-express-2e57)
-- [How I rebuilt a Front End Mentor Project with TypeScript](https://dev.to/kansoldev/how-i-rebuilt-a-front-end-mentor-project-with-typescript-b59)
-- [Partial Interface Implementation in C# Base/Abstract Classes](https://dev.to/waelhabbal/partial-interface-implementation-in-c-baseabstract-classes-e4a)
-- [Python PDB Code Review Report](https://dev.to/mengqinyuan/python-pdb-code-review-report-3f51)
+- [How to Add a User to the Sudoers File in Linux](https://dev.to/abdul_sattar/how-to-add-a-user-to-the-sudoers-file-in-linux-5f7g)
+- [Gerenciamento de projetos ágeis: Executando a sprint](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-executando-a-sprint-3j9o)
+- [Organizing and maintaining your CSS classes.](https://dev.to/hitesh_chauhan_42485a44af/organizing-and-maintaining-your-css-classes-ppc)
+- [HTB Academy: Attacking Common Services Module - Easy Lab](https://dev.to/saramazal/htb-academy-attacking-common-services-module-easy-lab-4c47)
 <!-- BLOG-POST-LIST:END -->
 
