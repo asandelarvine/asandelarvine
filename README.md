@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗒️ Get Started: MongoDB Flexible Document Data Model &amp; Query Overview](https://dev.to/mongodb-builder/get-started-mongodb-flexible-document-data-model-query-overview-3897)
-- [7 best product tour JavaScript libraries for frontend apps](https://dev.to/logrocket/7-best-product-tour-javascript-libraries-for-frontend-apps-1o46)
-- [How I&#39;m fighting my phone addiciton](https://dev.to/nazarhapak/how-im-fighting-my-phone-addiciton-31k5)
-- [What it takes for a growth-stage startup to grow?](https://dev.to/grocto/what-it-takes-for-a-growth-stage-startup-to-grow-328e)
+- [🚀 行业洞见: MongoDB 推动支付业务 💸](https://dev.to/mongodb-builder/xing-ye-dong-jian-mongodb-tui-dong-zhi-fu-ye-wu-4no5)
+- [🚀 Industry Insights: MongoDB Boosts Payment Business 💸](https://dev.to/mongodb-builder/industry-insights-mongodb-boosts-payment-business-1hjb)
+- [&quot;Subsystems&quot; Are Actually Requirement Packages](https://dev.to/jiayufagao/subsystems-are-actually-requirement-packages-25l0)
+- [Fully Automated MLOps Pipeline – Part 1](https://dev.to/mlnrt/fully-automated-mlops-pipeline-part-1-1mnp)
 <!-- BLOG-POST-LIST:END -->
 
