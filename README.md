@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory Data Analysis&lpar;EDA&rpar;](https://dev.to/stephen_quadross/exploratory-data-analysiseda-34oh)
-- [Milvus Adventures August 7, 2024](https://dev.to/chrischurilo/milvus-adventures-august-7-2024-1o10)
-- [Variables](https://dev.to/asilbek_ibragimov_a0c27cc/variables-527f)
-- [Fixing Complex Functions and Making Code Modular and Reusable](https://dev.to/codeantai/fixing-complex-functions-and-making-code-modular-and-reusable-1pip)
+- [Top 10 Node.js Logging Best Practices for Robust Applications 🚀](https://dev.to/alertyai/top-10-nodejs-logging-best-practices-for-robust-applications-3ol4)
+- [Comparing the copyToClipboard implementations in Shadcn-ui/ui and Codehike.](https://dev.to/ramunarasinga/comparing-the-copytoclipboard-implementations-in-shadcn-uiui-and-codehike-4kog)
+- [Proxy for closed action on Pull Request [DroneCI + GitHub]](https://dev.to/tcharlezin/proxy-for-closed-action-on-pull-request-droneci-github-1f6e)
+- [Hey guys, I&#39;m new to this space and I&#39;m really looking forward to learning a lot.](https://dev.to/mari_tech_sis/hey-guys-im-new-to-this-space-and-im-really-looking-forward-to-learning-a-lot-9ji)
 <!-- BLOG-POST-LIST:END -->
 
