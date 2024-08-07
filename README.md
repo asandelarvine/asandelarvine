@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Your Node.js Backend with NestJS: A Comprehensive Guide](https://dev.to/yasirkhilji64/supercharging-your-nodejs-backend-with-nestjs-a-comprehensive-guide-3jo2)
-- [SQL, Set different flags for different groups according to whether there are duplicate values #eg19](https://dev.to/esproc_spl/sql-set-different-flags-for-different-groups-according-to-whether-there-are-duplicate-values-eg19-1d8o)
-- [Rest API Testing: How to test Rest APIs properly!](https://dev.to/webdeasy/rest-api-testing-how-to-test-rest-apis-properly-1bh6)
-- [Customer Service: Definition, Roles, and Benefits](https://dev.to/barantumcrm/customer-service-definition-roles-and-benefits-3iab)
+- [Approaching Brute Force Algorithm Using Javascript](https://dev.to/ashutoshsarangi/approaching-brute-force-algorithm-using-javascript-4ppl)
+- [Discovering My Tech Stack](https://dev.to/ygntechstartup/discovering-my-tech-stack-eo9)
+- [Communicating on the Web](https://dev.to/abhishekraina/communicating-on-the-web-p8d)
+- [The Future of Programming: Can AI Fully Replace Software Developers?](https://dev.to/ngocninh123/the-future-of-programming-can-ai-fully-replace-software-developers-32c9)
 <!-- BLOG-POST-LIST:END -->
 
