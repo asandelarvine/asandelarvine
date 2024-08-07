@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v288](https://dev.to/devteam/welcome-thread-v288-2mo)
-- [Kubernetes probes: startupProbe, livenssProbe, and readinessProbe](https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37)
-- [Implementing a Comprehensive Data Loss Prevention &lpar;DLP&rpar; Strategy](https://dev.to/adityabhuyan/implementing-a-comprehensive-data-loss-prevention-dlp-strategy-4e2a)
-- [Find the Average of N Numbers in C](https://dev.to/labex/find-the-average-of-n-numbers-in-c-1ifp)
+- [How To Deploy Next.js ECommerce On Ubuntu](https://dev.to/basir/how-to-deploy-nextjs-ecommerce-on-ubuntu-10fh)
+- [The Advent of GPT and Its Ill Effects on New Coders](https://dev.to/doozieakshay/the-advent-of-gpt-and-its-ill-effects-on-new-coders-gcn)
+- [Why Smart Contract Audits Are Essential for Keeping Web3 Secure from Hacks](https://dev.to/vaibhavaher219/why-smart-contract-audits-are-essential-for-keeping-web3-secure-from-hacks-da)
+- [My Projects](https://dev.to/shivam_sahu_704d021337aec/my-projects-4e9f)
 <!-- BLOG-POST-LIST:END -->
 
