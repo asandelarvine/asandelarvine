@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Approaching Brute Force Algorithm Using Javascript](https://dev.to/ashutoshsarangi/approaching-brute-force-algorithm-using-javascript-4ppl)
-- [Discovering My Tech Stack](https://dev.to/ygntechstartup/discovering-my-tech-stack-eo9)
-- [Communicating on the Web](https://dev.to/abhishekraina/communicating-on-the-web-p8d)
-- [The Future of Programming: Can AI Fully Replace Software Developers?](https://dev.to/ngocninh123/the-future-of-programming-can-ai-fully-replace-software-developers-32c9)
+- [Wings Engine: Smart agriculture enters a new era of intelligence](https://dev.to/samuel67/wings-engine-smart-agriculture-enters-a-new-era-of-intelligence-217n)
+- [Free KYC Check API](https://dev.to/mutual_fund_dev/free-kyc-check-api-48lp)
+- [React DOM简单介绍 &amp; Hello World](https://dev.to/ken2511/react-domjian-dan-jie-shao-hello-world-3km2)
+- [HTB Academy: Attacking Common Services Module - SMTP](https://dev.to/saramazal/htb-academy-attacking-common-services-module-smtp-54gm)
 <!-- BLOG-POST-LIST:END -->
 
