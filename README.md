@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Powershall Commands](https://dev.to/asilbek_ibragimov_a0c27cc/windows-powershall-commands-jlf)
-- [Expert advice on how to build a sucessful career in data science](https://dev.to/carol_ajando/expert-advice-on-how-to-build-a-sucessful-career-in-data-science-3h2p)
-- [100FrontendChallenge - Day 8 - Music events](https://dev.to/t1xx1/100frontendchallenge-day-8-music-events-58ia)
-- [Decoding OCR: A Comprehensive Guide](https://dev.to/arinzingade/decoding-ocr-a-comprehensive-guide-4n86)
+- [Exploratory Data Analysis&lpar;EDA&rpar;](https://dev.to/stephen_quadross/exploratory-data-analysiseda-34oh)
+- [Milvus Adventures August 7, 2024](https://dev.to/chrischurilo/milvus-adventures-august-7-2024-1o10)
+- [Variables](https://dev.to/asilbek_ibragimov_a0c27cc/variables-527f)
+- [Fixing Complex Functions and Making Code Modular and Reusable](https://dev.to/codeantai/fixing-complex-functions-and-making-code-modular-and-reusable-1pip)
 <!-- BLOG-POST-LIST:END -->
 
