@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pure Data - Visual Programming Language for Audio](https://dev.to/fihra/pure-data-visual-programming-language-for-audio-h09)
-- [Top 6 Windows 11 Productivity Tools for Remote Work](https://dev.to/byteswiftdigital/top-6-windows-11-productivity-tools-for-remote-work-46pi)
-- [Angular Grid](https://dev.to/lam_charles_73b5e5e828ad1/angular-grid-1kai)
-- [Unleashing Non-Technical Superpowers in the Software Development Lifecycle](https://dev.to/snmeans/unleashing-non-technical-superpowers-in-the-software-development-lifecycle-192i)
+- [Windows Powershall Commands](https://dev.to/asilbek_ibragimov_a0c27cc/windows-powershall-commands-jlf)
+- [Expert advice on how to build a sucessful career in data science](https://dev.to/carol_ajando/expert-advice-on-how-to-build-a-sucessful-career-in-data-science-3h2p)
+- [100FrontendChallenge - Day 8 - Music events](https://dev.to/t1xx1/100frontendchallenge-day-8-music-events-58ia)
+- [Decoding OCR: A Comprehensive Guide](https://dev.to/arinzingade/decoding-ocr-a-comprehensive-guide-4n86)
 <!-- BLOG-POST-LIST:END -->
 
