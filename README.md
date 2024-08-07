@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Modern Web APIs: Your Guide to Powerful Browser Features in 2024](https://dev.to/vyan/mastering-modern-web-apis-your-guide-to-powerful-browser-features-in-2024-4ec)
+- [X3NOS - Day 2](https://dev.to/xentzenith/x3nos-day-2-30lg)
 - [#40 — Group And Summarize A Tree Structure Table](https://dev.to/judith677/40-group-and-summarize-a-tree-structure-table-1edm)
 - [When to Consider Design Patterns](https://dev.to/lazypro/when-to-consider-design-patterns-45np)
-- [Looping over string](https://dev.to/babacar_diakite_c72e6eee2/looping-over-string-1l49)
-- [JavaScript: Functions, Function Expressions, Objects, Methods, and this](https://dev.to/meganpaffrath/javascript-functions-function-expressions-objects-methods-and-this-1jei)
 <!-- BLOG-POST-LIST:END -->
 
