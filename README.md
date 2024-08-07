@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Modern Web APIs: Your Guide to Powerful Browser Features in 2024](https://dev.to/vyan/mastering-modern-web-apis-your-guide-to-powerful-browser-features-in-2024-4ec)
-- [X3NOS - Day 2](https://dev.to/xentzenith/x3nos-day-2-30lg)
-- [#40 — Group And Summarize A Tree Structure Table](https://dev.to/judith677/40-group-and-summarize-a-tree-structure-table-1edm)
-- [When to Consider Design Patterns](https://dev.to/lazypro/when-to-consider-design-patterns-45np)
+- [Welcome Thread - v288](https://dev.to/devteam/welcome-thread-v288-2mo)
+- [Kubernetes probes: startupProbe, livenssProbe, and readinessProbe](https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37)
+- [Implementing a Comprehensive Data Loss Prevention &lpar;DLP&rpar; Strategy](https://dev.to/adityabhuyan/implementing-a-comprehensive-data-loss-prevention-dlp-strategy-4e2a)
+- [Find the Average of N Numbers in C](https://dev.to/labex/find-the-average-of-n-numbers-in-c-1ifp)
 <!-- BLOG-POST-LIST:END -->
 
