@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wings Engine: Smart agriculture enters a new era of intelligence](https://dev.to/samuel67/wings-engine-smart-agriculture-enters-a-new-era-of-intelligence-217n)
-- [Free KYC Check API](https://dev.to/mutual_fund_dev/free-kyc-check-api-48lp)
-- [React DOM简单介绍 &amp; Hello World](https://dev.to/ken2511/react-domjian-dan-jie-shao-hello-world-3km2)
-- [HTB Academy: Attacking Common Services Module - SMTP](https://dev.to/saramazal/htb-academy-attacking-common-services-module-smtp-54gm)
+- [Sending Calendar Invites with React and SMTP Express](https://dev.to/devyoma/sending-calendar-invites-with-react-and-smtp-express-2e57)
+- [How I rebuilt a Front End Mentor Project with TypeScript](https://dev.to/kansoldev/how-i-rebuilt-a-front-end-mentor-project-with-typescript-b59)
+- [Partial Interface Implementation in C# Base/Abstract Classes](https://dev.to/waelhabbal/partial-interface-implementation-in-c-baseabstract-classes-e4a)
+- [Python PDB Code Review Report](https://dev.to/mengqinyuan/python-pdb-code-review-report-3f51)
 <!-- BLOG-POST-LIST:END -->
 
