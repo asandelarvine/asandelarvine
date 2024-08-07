@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Essential Git Commands for Professional Employers 🌟](https://dev.to/gadekar_sachin/essential-git-commands-for-professional-employers-32k4)
-- [Windows o&#39;zgaruvchilar](https://dev.to/mushtariy/windows-ozgaruvchilar-592c)
-- [🖥️ Unraveling the Mysteries of ARM Chips: A Comprehensive Analysis for Tech Enthusiasts 🤖](https://dev.to/akarshjha10/unraveling-the-mysteries-of-arm-chips-a-comprehensive-analysis-for-tech-enthusiasts-48l0)
-- [📁 5 Reasons Every Web Developer and Designer Needs a Portfolio](https://dev.to/shahriarcode/5-reasons-every-web-developer-and-designer-needs-a-portfolio-3fol)
+- [SOLID Design Principles and Design Patterns Crash Course](https://dev.to/burakboduroglu/solid-design-principles-and-design-patterns-crash-course-2d1c)
+- [Write Commits Like a Pro: 5 Key Rules + 25 Bonus Verbs](https://dev.to/tomasdevs/write-commits-like-a-pro-5-key-rules-25-bonus-verbs-fjo)
+- [🔍 Understanding the N+1 Problem: A Common Performance Pitfall in Database Queries 🛠️](https://dev.to/felipejansendeveloper/understanding-the-n1-problem-a-common-performance-pitfall-in-database-queries-304j)
+- [AI Landing Page](https://dev.to/ricot_trevivi_db742677ac5/ai-landing-page-1oh8)
 <!-- BLOG-POST-LIST:END -->
 
