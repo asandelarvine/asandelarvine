@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add a User to the Sudoers File in Linux](https://dev.to/abdul_sattar/how-to-add-a-user-to-the-sudoers-file-in-linux-5f7g)
-- [Gerenciamento de projetos ágeis: Executando a sprint](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-executando-a-sprint-3j9o)
-- [Organizing and maintaining your CSS classes.](https://dev.to/hitesh_chauhan_42485a44af/organizing-and-maintaining-your-css-classes-ppc)
-- [HTB Academy: Attacking Common Services Module - Easy Lab](https://dev.to/saramazal/htb-academy-attacking-common-services-module-easy-lab-4c47)
+- [How to Create a Adult Membership Website?](https://dev.to/scarlettevans09/how-to-create-a-adult-membership-website-33jg)
+- [Boost Your Job Hunt with Our Application Tracker Tool](https://dev.to/raajaryan/boost-your-job-hunt-with-our-application-tracker-tool-3357)
+- [1. Two Sum-Arrays &amp; Hashing](https://dev.to/vampirepapi/1-two-sum-arrays-hashing-1dpj)
+- [Why You Should Learn Kubernetes](https://dev.to/devsatasurion/why-you-should-learn-kubernetes-p8k)
 <!-- BLOG-POST-LIST:END -->
 
