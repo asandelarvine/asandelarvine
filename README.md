@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Deploy Next.js ECommerce On Ubuntu](https://dev.to/basir/how-to-deploy-nextjs-ecommerce-on-ubuntu-10fh)
-- [The Advent of GPT and Its Ill Effects on New Coders](https://dev.to/doozieakshay/the-advent-of-gpt-and-its-ill-effects-on-new-coders-gcn)
-- [Why Smart Contract Audits Are Essential for Keeping Web3 Secure from Hacks](https://dev.to/vaibhavaher219/why-smart-contract-audits-are-essential-for-keeping-web3-secure-from-hacks-da)
-- [My Projects](https://dev.to/shivam_sahu_704d021337aec/my-projects-4e9f)
+- [Mastering API Monitoring: A Comprehensive Guide to Ensuring Peak Performance and Reliability](https://dev.to/getambassador2024/mastering-api-monitoring-a-comprehensive-guide-to-ensuring-peak-performance-and-reliability-3nik)
+- [12 Fundamental Steps for Secure Kubernetes Cluster](https://dev.to/jamallmahmoudi/12-fundamental-steps-for-secure-kubernetes-cluster-45h)
+- [10 Top Frustrating Browser Compatibility Issues Devs Face In 2024](https://dev.to/harishrajora12/10-top-frustrating-browser-compatibility-issues-devs-face-in-2024-4g4l)
+- [Upload Image into imgbb.com](https://dev.to/hunter_1225/upload-image-into-imgbbcom-1p58)
 <!-- BLOG-POST-LIST:END -->
 
