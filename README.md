@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Issue 56 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-56-of-aws-cloud-security-weekly-369b)
-- [Polyglotta -- A Multilingual translator](https://dev.to/afeezee/polyglotta-a-multilingual-translator-33oh)
-- [Understanding Bubble Sort: Simple Sorting Method](https://dev.to/vampirepapi/understanding-bubble-sort-simple-sorting-method-1gj7)
-- [Dynamic Image Sizing &amp; Optimization](https://dev.to/okeamah/dynamic-image-sizing-optimization-3ehb)
+- [Command Prompt Tic Tac Toe](https://dev.to/mjryancoding/command-prompt-tic-tac-toe-3gci)
+- [Submitting conference abstracts that get accepted](https://dev.to/leading-edje/submitting-conference-abstracts-that-get-accepted-pgn)
+- [Implementing Wallet Connect Verification with Siwe-java](https://dev.to/embedws/implementing-wallet-connect-verification-with-siwe-java-3ae6)
+- [Using Nuxt.js for Server-Side Rendering in Vue](https://dev.to/kartikmehta8/using-nuxtjs-for-server-side-rendering-in-vue-kik)
 <!-- BLOG-POST-LIST:END -->
 
