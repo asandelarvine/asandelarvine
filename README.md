@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Design Principles and Design Patterns Crash Course](https://dev.to/burakboduroglu/solid-design-principles-and-design-patterns-crash-course-2d1c)
-- [Write Commits Like a Pro: 5 Key Rules + 25 Bonus Verbs](https://dev.to/tomasdevs/write-commits-like-a-pro-5-key-rules-25-bonus-verbs-fjo)
-- [🔍 Understanding the N+1 Problem: A Common Performance Pitfall in Database Queries 🛠️](https://dev.to/felipejansendeveloper/understanding-the-n1-problem-a-common-performance-pitfall-in-database-queries-304j)
-- [AI Landing Page](https://dev.to/ricot_trevivi_db742677ac5/ai-landing-page-1oh8)
+- [Pure Data - Visual Programming Language for Audio](https://dev.to/fihra/pure-data-visual-programming-language-for-audio-h09)
+- [Top 6 Windows 11 Productivity Tools for Remote Work](https://dev.to/byteswiftdigital/top-6-windows-11-productivity-tools-for-remote-work-46pi)
+- [Angular Grid](https://dev.to/lam_charles_73b5e5e828ad1/angular-grid-1kai)
+- [Unleashing Non-Technical Superpowers in the Software Development Lifecycle](https://dev.to/snmeans/unleashing-non-technical-superpowers-in-the-software-development-lifecycle-192i)
 <!-- BLOG-POST-LIST:END -->
 
