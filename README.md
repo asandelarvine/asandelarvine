@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/mycontent/hello-3b2h)
-- [Mastering Android Customization: Unleashing the Full Potential of Your Google Pixel](https://dev.to/srikanthamsa/mastering-android-customization-unleashing-the-full-potential-of-your-google-pixel-53dh)
-- [Day 37 of 100 Days of Code](https://dev.to/jacobsternx/day-37-of-100-days-of-code-56k5)
-- [Dev.to 2-Series: How to get started on writing code](https://dev.to/farheen_sk/devto-2-series-how-to-get-started-on-writing-code-534p)
+- [Supercharging Your Node.js Backend with NestJS: A Comprehensive Guide](https://dev.to/yasirkhilji64/supercharging-your-nodejs-backend-with-nestjs-a-comprehensive-guide-3jo2)
+- [SQL, Set different flags for different groups according to whether there are duplicate values #eg19](https://dev.to/esproc_spl/sql-set-different-flags-for-different-groups-according-to-whether-there-are-duplicate-values-eg19-1d8o)
+- [Rest API Testing: How to test Rest APIs properly!](https://dev.to/webdeasy/rest-api-testing-how-to-test-rest-apis-properly-1bh6)
+- [Customer Service: Definition, Roles, and Benefits](https://dev.to/barantumcrm/customer-service-definition-roles-and-benefits-3iab)
 <!-- BLOG-POST-LIST:END -->
 
