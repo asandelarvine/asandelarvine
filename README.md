@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Command Prompt Tic Tac Toe](https://dev.to/mjryancoding/command-prompt-tic-tac-toe-3gci)
-- [Submitting conference abstracts that get accepted](https://dev.to/leading-edje/submitting-conference-abstracts-that-get-accepted-pgn)
-- [Implementing Wallet Connect Verification with Siwe-java](https://dev.to/embedws/implementing-wallet-connect-verification-with-siwe-java-3ae6)
-- [Using Nuxt.js for Server-Side Rendering in Vue](https://dev.to/kartikmehta8/using-nuxtjs-for-server-side-rendering-in-vue-kik)
+- [#40 — Group And Summarize A Tree Structure Table](https://dev.to/judith677/40-group-and-summarize-a-tree-structure-table-1edm)
+- [When to Consider Design Patterns](https://dev.to/lazypro/when-to-consider-design-patterns-45np)
+- [Looping over string](https://dev.to/babacar_diakite_c72e6eee2/looping-over-string-1l49)
+- [JavaScript: Functions, Function Expressions, Objects, Methods, and this](https://dev.to/meganpaffrath/javascript-functions-function-expressions-objects-methods-and-this-1jei)
 <!-- BLOG-POST-LIST:END -->
 
