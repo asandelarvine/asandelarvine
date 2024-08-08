@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top design patterns for frontend](https://dev.to/superviz/top-design-patterns-for-frontend-1bk5)
-- [26 Ways to Make Money as a Startup Founder &lpar;for developers&rpar;](https://dev.to/johnrushx/26-ways-to-make-money-as-a-startup-founder-for-developers-2cpi)
-- [We just launched DEV Challenges on product hunt](https://dev.to/devteam/we-just-launched-dev-challenges-on-product-hunt-1bo3)
-- [Use Cases of Generative AI in Banking and Financial Services](https://dev.to/calsoftinc/use-cases-of-generative-ai-in-banking-and-financial-services-2cp8)
+- [Understanding IP Address Types, Subnets, and Loopback](https://dev.to/mohanavamsi0614/understanding-ip-address-types-subnets-and-loopback-3eoa)
+- [How to Make Money From Coding: A Beginner-Friendly Practical Guide](https://dev.to/syakirurahman/how-to-make-money-from-coding-a-beginner-friendly-practical-guide-5532)
+- [Secure Your AI Project With Model Attestation and Software Bill of Materials &lpar;SBOMs&rpar;](https://dev.to/kitops/secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-sboms-5a7g)
+- [Streamlining Sales Order and Order Response Integration: Importing PDFs into SAP](https://dev.to/hubbroker/streamlining-sales-order-and-order-response-integration-importing-pdfs-into-sap-1ccc)
 <!-- BLOG-POST-LIST:END -->
 
