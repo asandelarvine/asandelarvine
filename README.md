@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding IP Address Types, Subnets, and Loopback](https://dev.to/mohanavamsi0614/understanding-ip-address-types-subnets-and-loopback-3eoa)
-- [How to Make Money From Coding: A Beginner-Friendly Practical Guide](https://dev.to/syakirurahman/how-to-make-money-from-coding-a-beginner-friendly-practical-guide-5532)
-- [Secure Your AI Project With Model Attestation and Software Bill of Materials &lpar;SBOMs&rpar;](https://dev.to/kitops/secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-sboms-5a7g)
-- [Streamlining Sales Order and Order Response Integration: Importing PDFs into SAP](https://dev.to/hubbroker/streamlining-sales-order-and-order-response-integration-importing-pdfs-into-sap-1ccc)
+- [What is bug surface area?](https://dev.to/qacomet/what-is-bug-surface-area-2l15)
+- [Data Analysis With Power BI: Sales Analysis.](https://dev.to/theophilus1320/data-analysis-with-power-bi-sales-analysis-156f)
+- [How To Add Google Tag Manager Code in a React Website](https://dev.to/vincod/how-to-add-google-tag-manager-code-in-a-react-website-4h06)
+- [Modelo de settings.json para ganho em produtividade e melhor qualidade / organização do código no VS code.](https://dev.to/victorzarzar/modelo-de-settingsjson-para-ganho-em-produtividade-e-melhor-qualidade-organizacao-do-codigo-no-vs-code-1i7)
 <!-- BLOG-POST-LIST:END -->
 
