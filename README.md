@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering SQL: Best Practices for Developers](https://dev.to/dbvismarketing/mastering-sql-best-practices-for-developers-2dhp)
-- [How Do Rag Pipelines Simplify Data Engineering for Data Scientists?](https://dev.to/vectorize/how-do-rag-pipelines-simplify-data-engineering-for-data-scientists-15ma)
-- [Strengthen Your Web Security with SafeLine WAF on CentOS7](https://dev.to/lulu_liu_c90f973e2f954d7f/strengthen-your-web-security-with-safeline-waf-on-centos7-a9e)
-- [Babel &quot;^7.16.0&quot;, but was loaded with &quot;7.12.3&quot;.](https://dev.to/jitendra_singh_428933c91c/babel-7160-but-was-loaded-with-7123-1iaa)
+- [Authentication vs. Authorization in Azure: Decoding the Dynamic Duo of Security](https://dev.to/rofiatabdulkareem/authentication-vs-authorization-in-azure-decoding-the-dynamic-duo-of-security-4pnn)
+- [I am a Strange Dataset: Evaluating Language Models with Metalinguistic Tests](https://dev.to/mikeyoung44/i-am-a-strange-dataset-evaluating-language-models-with-metalinguistic-tests-3gdh)
+- [Emotional Expressions of Populist Leaders: AI Analysis of 220 Videos Across 15 Countries](https://dev.to/mikeyoung44/emotional-expressions-of-populist-leaders-ai-analysis-of-220-videos-across-15-countries-3mdp)
+- [Dev.to 4-Series: How to get started on writing code](https://dev.to/farheen_sk/devto-4-series-how-to-get-started-on-writing-code-1iak)
 <!-- BLOG-POST-LIST:END -->
 
