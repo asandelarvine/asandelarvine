@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Journey of Open Source Contribution: Why It Takes Time and How the Process Unfolds..](https://dev.to/srobver/the-journey-of-open-source-contribution-why-it-takes-time-and-how-the-process-unfolds-1k3l)
-- [Object methods in JavaScript.!](https://dev.to/samandarhodiev/object-methods-in-javascript-14nn)
-- [Why don&#39;t we pass child components as props?](https://dev.to/filipegeric/why-dont-we-pass-child-components-as-props-gal)
-- [Maximizing Small Spaces: Clever Storage Solutions](https://dev.to/simplehomely/maximizing-small-spaces-clever-storage-solutions-e84)
+- [Data Warehouse Service GaussDB &lpar;DWS&rpar; -1](https://dev.to/ozcankara/data-warehouse-service-gaussdb-dws-16fa)
+- [Website for NestJS-Mod - https://nestjs-mod.com](https://dev.to/endykaufman/website-for-nestjs-mod-httpsnestjs-modcom-56mj)
+- [How do you convert Data warehouses into CDP&lpar;Customer Data Platform&rpar;](https://dev.to/mohith93/how-do-you-convert-data-warehouses-into-cdpcustomer-data-platform-427p)
+- [Introducing Pendulum: A Timer Plugin for Neovim to Boost Your Productivity](https://dev.to/sunny_tamang_a2bce7dea658/introducing-pendulum-a-timer-plugin-for-neovim-to-boost-your-productivity-3ai6)
 <!-- BLOG-POST-LIST:END -->
 
