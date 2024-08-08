@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Warehouse Service GaussDB &lpar;DWS&rpar; -1](https://dev.to/ozcankara/data-warehouse-service-gaussdb-dws-16fa)
-- [Website for NestJS-Mod - https://nestjs-mod.com](https://dev.to/endykaufman/website-for-nestjs-mod-httpsnestjs-modcom-56mj)
-- [How do you convert Data warehouses into CDP&lpar;Customer Data Platform&rpar;](https://dev.to/mohith93/how-do-you-convert-data-warehouses-into-cdpcustomer-data-platform-427p)
-- [Introducing Pendulum: A Timer Plugin for Neovim to Boost Your Productivity](https://dev.to/sunny_tamang_a2bce7dea658/introducing-pendulum-a-timer-plugin-for-neovim-to-boost-your-productivity-3ai6)
+- [Tutorials are great! But something is missing...](https://dev.to/francescoxx/tutorials-are-great-but-something-is-missing-2g4k)
+- [Validating String in Jest](https://dev.to/andpeicunha/validating-string-in-jest-393d)
+- [Chapter 1 - Introduction to Git](https://dev.to/yusbuntu/chapter-1-introduction-to-git-k8e)
+- [Data Analysis With Python: Analysis of the global development and Prosperity Index for the year 2023](https://dev.to/theophilus1320/data-analysis-with-pythonanalysis-of-the-global-development-and-prosperity-index-for-the-year-2023-2fj4)
 <!-- BLOG-POST-LIST:END -->
 
