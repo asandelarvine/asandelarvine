@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is bug surface area?](https://dev.to/qacomet/what-is-bug-surface-area-2l15)
-- [Data Analysis With Power BI: Sales Analysis.](https://dev.to/theophilus1320/data-analysis-with-power-bi-sales-analysis-156f)
-- [How To Add Google Tag Manager Code in a React Website](https://dev.to/vincod/how-to-add-google-tag-manager-code-in-a-react-website-4h06)
-- [Modelo de settings.json para ganho em produtividade e melhor qualidade / organização do código no VS code.](https://dev.to/victorzarzar/modelo-de-settingsjson-para-ganho-em-produtividade-e-melhor-qualidade-organizacao-do-codigo-no-vs-code-1i7)
+- [How we use Kubernetes jobs to scale OpenSSF Scorecard](https://dev.to/opensauced/how-we-use-kubernetes-jobs-to-scale-openssf-scorecard-5bf2)
+- [I Built an AI Assistant that 10x&#39;d My Productivity 🚀](https://dev.to/composiodev/i-built-an-ai-assistant-that-10xd-my-productivity-51lb)
+- [Java Bytecode Manipulation](https://dev.to/adaumircosta/java-bytecode-manipulation-11k9)
+- [Want to enhance your database capabilities beyond raw data?](https://dev.to/mohith93/want-to-enhance-your-database-capabilities-beyond-raw-data-10op)
 <!-- BLOG-POST-LIST:END -->
 
