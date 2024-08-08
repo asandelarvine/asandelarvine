@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [web apps with react](https://dev.to/blindvisionman/web-apps-with-react-3m35)
-- [Understanding the JWT](https://dev.to/dkmen/understanding-the-jwt-3pl5)
-- [Build a Database Schema In 5 Steps](https://dev.to/domfive/build-a-database-schema-in-5-steps-3o1a)
-- [Unlock the Power of Real-Time UI: A Beginner&#39;s Guide to Streaming Data with React.js, gRPC, Envoy, and Golang](https://dev.to/marscode/unlock-the-power-of-real-time-ui-a-beginners-guide-to-streaming-data-with-reactjs-grpc-envoy-and-golang-271p)
+- [The Future of NodeJS Development: Trends, Challenges, and Opportunities](https://dev.to/dharmvachhani/the-future-of-nodejs-development-trends-challenges-and-opportunities-42oh)
+- [Types of files in Linux](https://dev.to/chiragkumardev/types-of-files-in-linux-i7k)
+- [Clustered vs Non-Clustered: Understanding Database Indexes](https://dev.to/niamu01/clustered-vs-non-clustered-understanding-database-indexes-1eh4)
+- [What is RAM?](https://dev.to/jockko/what-is-ram-2lp4)
 <!-- BLOG-POST-LIST:END -->
 
