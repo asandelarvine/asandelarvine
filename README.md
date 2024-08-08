@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication vs. Authorization in Azure: Decoding the Dynamic Duo of Security](https://dev.to/rofiatabdulkareem/authentication-vs-authorization-in-azure-decoding-the-dynamic-duo-of-security-4pnn)
-- [I am a Strange Dataset: Evaluating Language Models with Metalinguistic Tests](https://dev.to/mikeyoung44/i-am-a-strange-dataset-evaluating-language-models-with-metalinguistic-tests-3gdh)
-- [Emotional Expressions of Populist Leaders: AI Analysis of 220 Videos Across 15 Countries](https://dev.to/mikeyoung44/emotional-expressions-of-populist-leaders-ai-analysis-of-220-videos-across-15-countries-3mdp)
-- [Dev.to 4-Series: How to get started on writing code](https://dev.to/farheen_sk/devto-4-series-how-to-get-started-on-writing-code-1iak)
+- [OpenTelemetry Tracing on Spring Boot, Java Agent vs. Micrometer Tracing](https://dev.to/nfrankel/opentelemetry-tracing-on-spring-boot-java-agent-vs-micrometer-tracing-542d)
+- [10 Basic Steps for Mobile App Development in 2024](https://dev.to/marriemorris/10-basic-steps-for-mobile-app-development-in-2024-3di7)
+- [HTTP/HTTPS and 7 more Network Protocols you should know about.](https://dev.to/alishgiri/httphttps-and-7-more-network-protocols-you-should-know-about-4o4i)
+- [Enabling IPv6 on FreeBSD with DHCPv6 in Stateful Mode](https://dev.to/vinetos/enabling-ipv6-on-freebsd-with-dhcpv6-in-stateful-mode-3142)
 <!-- BLOG-POST-LIST:END -->
 
