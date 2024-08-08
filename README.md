@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring a Lead iOS Engineer - AI note taking team.](https://dev.to/tomyamateo/hiring-a-lead-ios-engineer-ai-note-taking-team-4d00)
-- [Machine Learning with PyTorch](https://dev.to/kartikmehta8/machine-learning-with-pytorch-2ppj)
-- [Why Fish Shell is the Coolest Cat in the Command Line Alley](https://dev.to/fa5tworm/why-fish-shell-is-the-coolest-cat-in-the-command-line-alley-n3l)
-- [[Game of Purpose] Day 81](https://dev.to/humberd/game-of-purpose-day-81-80f)
+- [What&#39;s New in ADC 0.11 &amp; 0.12?](https://dev.to/api7/whats-new-in-adc-011-012-3pc1)
+- [🚀 Day 9: Dynamic Date Calculator 🚀](https://dev.to/mayureshsurve/day-9-dynamic-date-calculator-3jg1)
+- [How to stay informed about the Tech industry](https://dev.to/hjgonzalez06/how-to-stay-informed-about-the-tech-industry-222l)
+- [The Evolution of API Integration: A Deep Dive into Nylas 3](https://dev.to/lytooo390/the-evolution-of-api-integration-a-deep-dive-into-nylas-3-1026)
 <!-- BLOG-POST-LIST:END -->
 
