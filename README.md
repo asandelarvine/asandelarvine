@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Preview an Image Before Upload with Hotwire/Stimulus](https://dev.to/railsdesigner/preview-an-image-before-upload-with-hotwirestimulus-1fen)
-- [Ibuprofeno.py💊| #156: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-156-explica-este-codigo-python-2284)
-- [I 10x&#39;d my X posts using the Twitter API, OpenAI &amp; CopilotKit😱](https://dev.to/github20k/i-10xd-my-x-posts-using-the-twitter-api-openai-copilotkit-2d5n)
-- [Discord-WordPress Post Integration: Streamline Your Blog Notifications 🔔](https://dev.to/danteon/discord-wordpress-post-integration-streamline-your-blog-notifications-hpe)
+- [Top design patterns for frontend](https://dev.to/superviz/top-design-patterns-for-frontend-1bk5)
+- [26 Ways to Make Money as a Startup Founder &lpar;for developers&rpar;](https://dev.to/johnrushx/26-ways-to-make-money-as-a-startup-founder-for-developers-2cpi)
+- [We just launched DEV Challenges on product hunt](https://dev.to/devteam/we-just-launched-dev-challenges-on-product-hunt-1bo3)
+- [Use Cases of Generative AI in Banking and Financial Services](https://dev.to/calsoftinc/use-cases-of-generative-ai-in-banking-and-financial-services-2cp8)
 <!-- BLOG-POST-LIST:END -->
 
