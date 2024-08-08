@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we use Kubernetes jobs to scale OpenSSF Scorecard](https://dev.to/opensauced/how-we-use-kubernetes-jobs-to-scale-openssf-scorecard-5bf2)
-- [I Built an AI Assistant that 10x&#39;d My Productivity 🚀](https://dev.to/composiodev/i-built-an-ai-assistant-that-10xd-my-productivity-51lb)
-- [Java Bytecode Manipulation](https://dev.to/adaumircosta/java-bytecode-manipulation-11k9)
-- [Want to enhance your database capabilities beyond raw data?](https://dev.to/mohith93/want-to-enhance-your-database-capabilities-beyond-raw-data-10op)
+- [Understanding Vector Databases: Compare Vector Databases, Vector Search Libraries, and Vector Search Plugins](https://dev.to/zilliz/understanding-vector-databases-compare-vector-databases-vector-search-libraries-and-vector-search-plugins-1gho)
+- [Introducing autocomponents: Instantly generate beautiful React UIs that come connected to your API](https://dev.to/gadgetdev/introducing-autocomponents-instantly-generate-beautiful-react-uis-that-come-connected-to-your-api-5807)
+- [Introducing ExcelHelper: Simplify Your Excel Operations in Python](https://dev.to/rahulgurujala/introducing-excelhelper-simplify-your-excel-operations-in-python-1kcl)
+- [Different Roles for Read Replicas in PostgreSQL and YugabyteDB](https://dev.to/yugabyte/psdifferent-roles-for-read-replicas-in-postgresql-and-yugabytedb-204c)
 <!-- BLOG-POST-LIST:END -->
 
