@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guía Básica de Python: Domina la Sintaxis y Principios Fundamentales](https://dev.to/wizsebastian/guia-basica-de-python-domina-la-sintaxis-y-principios-fundamentales-4lo4)
-- [The Evolution of Databricks: From Research Project to Data Powerhouse](https://dev.to/citrux-digital/the-evolution-of-databricks-from-research-project-to-data-powerhouse-3p46)
-- [Salesforce Data Cloud](https://dev.to/sib_sankarbag_580d956d6a/salesforce-data-cloud-117e)
-- [Service Workers](https://dev.to/abdulakhatov-dev/service-workers-1bf)
+- [What is Xdc network](https://dev.to/mosininamdar/what-is-xdc-network-3k1k)
+- [Day 10: Introduction to AWS in DevOps – Basics](https://dev.to/singh_in_cloud/day-10-introduction-to-aws-in-devops-basics-n3n)
+- [URL Validation or: How I Learned to Stop Worrying and Love the User](https://dev.to/zion_onwujuba_894fe00cd83/url-validation-or-how-i-learned-to-stop-worrying-and-love-the-user-19k0)
+- [JavaScript: Default Parameters, Spread Operator, Rest Parameters, and Destructuring!](https://dev.to/meganpaffrath/javascript-default-parameters-spread-operator-rest-parameters-and-destructuring-38c9)
 <!-- BLOG-POST-LIST:END -->
 
