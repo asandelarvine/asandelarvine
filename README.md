@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Tracing on Spring Boot, Java Agent vs. Micrometer Tracing](https://dev.to/nfrankel/opentelemetry-tracing-on-spring-boot-java-agent-vs-micrometer-tracing-542d)
-- [10 Basic Steps for Mobile App Development in 2024](https://dev.to/marriemorris/10-basic-steps-for-mobile-app-development-in-2024-3di7)
-- [HTTP/HTTPS and 7 more Network Protocols you should know about.](https://dev.to/alishgiri/httphttps-and-7-more-network-protocols-you-should-know-about-4o4i)
-- [Enabling IPv6 on FreeBSD with DHCPv6 in Stateful Mode](https://dev.to/vinetos/enabling-ipv6-on-freebsd-with-dhcpv6-in-stateful-mode-3142)
+- [July 8, 2024 Python Meet &amp; Greet - Part 2](https://dev.to/vishal-johnnelson/july-8-2024-python-meet-greet-part-2-pa3)
+- [The Feature Trap: Less is More](https://dev.to/yujofficial/the-feature-trap-less-is-more-2i5n)
+- [Vue &amp; Tailwind admin framework](https://dev.to/ivictbor/vue-tailwind-admin-framework-2pma)
+- [July 8, 2024 Python - Meet &amp; Greet - Part 1](https://dev.to/vishal-johnnelson/july-8-2024-python-meet-greet-part-1-1ibi)
 <!-- BLOG-POST-LIST:END -->
 
