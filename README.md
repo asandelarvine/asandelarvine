@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Xdc network](https://dev.to/mosininamdar/what-is-xdc-network-3k1k)
-- [Day 10: Introduction to AWS in DevOps – Basics](https://dev.to/singh_in_cloud/day-10-introduction-to-aws-in-devops-basics-n3n)
-- [URL Validation or: How I Learned to Stop Worrying and Love the User](https://dev.to/zion_onwujuba_894fe00cd83/url-validation-or-how-i-learned-to-stop-worrying-and-love-the-user-19k0)
-- [JavaScript: Default Parameters, Spread Operator, Rest Parameters, and Destructuring!](https://dev.to/meganpaffrath/javascript-default-parameters-spread-operator-rest-parameters-and-destructuring-38c9)
+- [The Journey of Open Source Contribution: Why It Takes Time and How the Process Unfolds..](https://dev.to/srobver/the-journey-of-open-source-contribution-why-it-takes-time-and-how-the-process-unfolds-1k3l)
+- [Object methods in JavaScript.!](https://dev.to/samandarhodiev/object-methods-in-javascript-14nn)
+- [Why don&#39;t we pass child components as props?](https://dev.to/filipegeric/why-dont-we-pass-child-components-as-props-gal)
+- [Maximizing Small Spaces: Clever Storage Solutions](https://dev.to/simplehomely/maximizing-small-spaces-clever-storage-solutions-e84)
 <!-- BLOG-POST-LIST:END -->
 
