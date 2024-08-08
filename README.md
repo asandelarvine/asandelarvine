@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in ADC 0.11 &amp; 0.12?](https://dev.to/api7/whats-new-in-adc-011-012-3pc1)
-- [🚀 Day 9: Dynamic Date Calculator 🚀](https://dev.to/mayureshsurve/day-9-dynamic-date-calculator-3jg1)
-- [How to stay informed about the Tech industry](https://dev.to/hjgonzalez06/how-to-stay-informed-about-the-tech-industry-222l)
-- [The Evolution of API Integration: A Deep Dive into Nylas 3](https://dev.to/lytooo390/the-evolution-of-api-integration-a-deep-dive-into-nylas-3-1026)
+- [Optimizing Kubernetes Resource Requests with Goldilocks : Day 25 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/optimizing-kubernetes-resource-requests-with-goldilocks-day-25-of-50-days-devops-tools-series-1c58)
+- [How to convert class to Swagger Schema in NodeJS application - Documentation with Swagger in NodeJS become easier than ever](https://dev.to/chabuuuu/how-to-convert-class-to-swagger-schema-in-nodejs-application-documentation-with-swagger-in-nodejs-become-easier-than-ever-1ek9)
+- [Item 46: Dê preferência às funções sem efeitos colaterais nas streams](https://dev.to/giselecoder/item-46-de-preferencia-as-funcoes-sem-efeitos-colaterais-nas-streams-345d)
+- [When should you ask your teammate?](https://dev.to/rodonguyen/when-should-you-ask-your-teammate-3a6d)
 <!-- BLOG-POST-LIST:END -->
 
