@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorials are great! But something is missing...](https://dev.to/francescoxx/tutorials-are-great-but-something-is-missing-2g4k)
-- [Validating String in Jest](https://dev.to/andpeicunha/validating-string-in-jest-393d)
-- [Chapter 1 - Introduction to Git](https://dev.to/yusbuntu/chapter-1-introduction-to-git-k8e)
-- [Data Analysis With Python: Analysis of the global development and Prosperity Index for the year 2023](https://dev.to/theophilus1320/data-analysis-with-pythonanalysis-of-the-global-development-and-prosperity-index-for-the-year-2023-2fj4)
+- [9 Essential Developer Productivity Tools for 2024](https://dev.to/rohitg00/9-essential-developer-productivity-tools-for-2024-4b5i)
+- [Simplify Localization](https://dev.to/localang/simplify-localization-3b20)
+- [Reading a CSV using OpenCSV and Kotlin](https://dev.to/zion_onwujuba_894fe00cd83/reading-a-csv-using-opencsv-and-kotlin-d02)
+- [From NAS to Kubernetes: Setting Up a Raspberry Pi Cluster with Synology NAS](https://dev.to/fredinono/from-nas-to-kubernetes-setting-up-a-raspberry-pi-cluster-with-synology-nas-57f4)
 <!-- BLOG-POST-LIST:END -->
 
