@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL, split values of two columns respectively and count members of their intersection #eg20](https://dev.to/esproc_spl/sql-split-values-of-two-columns-respectively-and-count-members-of-their-intersection-eg20-pnh)
-- [Unlocking Efficiency: Essential Web Development Tools for Modern Developers](https://dev.to/ruthvik_thimmoji_6fde5e61/unlocking-efficiency-essential-web-development-tools-for-modern-developers-21ib)
-- [4 Effective Strategies for Test Automation with MFA](https://dev.to/jignect_technologies/4-effective-strategies-for-test-automation-with-mfa-31jm)
-- [The Strategic Advantages of Cloud FinOps for Modern Enterprises](https://dev.to/unicloud/the-strategic-advantages-of-cloud-finops-for-modern-enterprises-1g0a)
+- [Mastering SQL: Best Practices for Developers](https://dev.to/dbvismarketing/mastering-sql-best-practices-for-developers-2dhp)
+- [How Do Rag Pipelines Simplify Data Engineering for Data Scientists?](https://dev.to/vectorize/how-do-rag-pipelines-simplify-data-engineering-for-data-scientists-15ma)
+- [Strengthen Your Web Security with SafeLine WAF on CentOS7](https://dev.to/lulu_liu_c90f973e2f954d7f/strengthen-your-web-security-with-safeline-waf-on-centos7-a9e)
+- [Babel &quot;^7.16.0&quot;, but was loaded with &quot;7.12.3&quot;.](https://dev.to/jitendra_singh_428933c91c/babel-7160-but-was-loaded-with-7123-1iaa)
 <!-- BLOG-POST-LIST:END -->
 
