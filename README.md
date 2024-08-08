@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [July 8, 2024 Python Meet &amp; Greet - Part 2](https://dev.to/vishal-johnnelson/july-8-2024-python-meet-greet-part-2-pa3)
-- [The Feature Trap: Less is More](https://dev.to/yujofficial/the-feature-trap-less-is-more-2i5n)
-- [Vue &amp; Tailwind admin framework](https://dev.to/ivictbor/vue-tailwind-admin-framework-2pma)
-- [July 8, 2024 Python - Meet &amp; Greet - Part 1](https://dev.to/vishal-johnnelson/july-8-2024-python-meet-greet-part-1-1ibi)
+- [Preview an Image Before Upload with Hotwire/Stimulus](https://dev.to/railsdesigner/preview-an-image-before-upload-with-hotwirestimulus-1fen)
+- [Ibuprofeno.py💊| #156: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-156-explica-este-codigo-python-2284)
+- [I 10x&#39;d my X posts using the Twitter API, OpenAI &amp; CopilotKit😱](https://dev.to/github20k/i-10xd-my-x-posts-using-the-twitter-api-openai-copilotkit-2d5n)
+- [Discord-WordPress Post Integration: Streamline Your Blog Notifications 🔔](https://dev.to/danteon/discord-wordpress-post-integration-streamline-your-blog-notifications-hpe)
 <!-- BLOG-POST-LIST:END -->
 
