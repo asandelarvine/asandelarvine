@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CityX: Generate Customized Unbounded 3D Cities with High-Level Control](https://dev.to/mikeyoung44/cityx-generate-customized-unbounded-3d-cities-with-high-level-control-51cb)
-- [Polyfill for Apply&lpar;&rpar;](https://dev.to/dey24/polyfill-for-apply-4o5p)
-- [Introduction of JavaScript for Beginners.](https://dev.to/sahilhusen07/introduction-of-javascript-for-beginners-1495)
-- [How to Solve OutOfMemoryError: Java heap space](https://dev.to/ram_lakshmanan_001/how-to-solve-outofmemoryerror-java-heap-space-3hlc)
+- [Unlocking Azure Security Policy](https://dev.to/rofiatabdulkareem/unlocking-azure-security-policy-po2)
+- [Coding and Cooking: A Flavorful Analogy](https://dev.to/doozieakshay/coding-and-cooking-a-flavorful-analogy-n33)
+- [Building an Authentication System with MERN](https://dev.to/achal_tiwari/building-an-authentication-system-with-mern-ln)
+- [Stop Using SASS in Your Vue Projects](https://dev.to/zain725342/stop-using-sass-in-your-vue-projects-25pm)
 <!-- BLOG-POST-LIST:END -->
 
