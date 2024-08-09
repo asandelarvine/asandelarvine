@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Canvas in Web Development &amp; Advance usage of it?](https://dev.to/nadim_ch0wdhury/what-is-canvas-in-web-development-advance-usage-of-it-4mnd)
-- [Logging Best Practices For Your Node.js App](https://dev.to/alertyai/logging-best-practices-for-your-nodejs-app-4o9k)
-- [Simplify Your Data Model with Complex Types in .NET 8](https://dev.to/hamza_darouzi_dotnet/simplify-your-data-model-with-complex-types-in-net-8-20oa)
-- [Github + Stickblitz + HAX = free web publishing](https://dev.to/btopro/github-stickblitz-hax-publishing-ease-58nf)
+- [Day 11: Diving Deeper into AWS – Advanced Concepts](https://dev.to/singh_in_cloud/day-11-diving-deeper-into-aws-advanced-concepts-3hmo)
+- [Beyond Zipping Up a Coat: Mastering &#39;zip_longest&#39; in Python](https://dev.to/posax/beyond-zipping-up-a-coat-mastering-ziplongest-in-python-3n8f)
+- [Mastering Location-Based Services: A Guide to Finding the Closest Locations Using Java Spring Boot](https://dev.to/khageshpatil/mastering-location-based-services-a-guide-to-finding-the-closest-locations-using-java-spring-boot-jni)
+- [The Best way to configure environment variables and multi environments in Nest.js](https://dev.to/ahmed_hyperov/the-best-way-to-configure-environment-variables-and-multi-environments-in-nestjs-31fi)
 <!-- BLOG-POST-LIST:END -->
 
