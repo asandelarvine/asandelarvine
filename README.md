@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Dependencies and Security in JavaScript with NPM](https://dev.to/devarshishimpi/managing-dependencies-and-security-in-javascript-with-npm-2k6m)
-- [Day 32 Task: Launching your Kubernetes Cluster with Deployment](https://dev.to/oncloud7/day-32-task-launching-your-kubernetes-cluster-with-deployment-14bj)
-- [Understanding CSS Background Coloring for Nested Elements](https://dev.to/chrisgen19/understanding-css-background-coloring-for-nested-elements-236)
-- [Understanding The useRef React Hook 🔥](https://dev.to/alisamir/understanding-the-useref-react-hook-286c)
+- [Representing Graphs](https://dev.to/paulike/representing-graphs-3cm7)
+- [Automate Task Scheduling in AWS with Lambda, Step Functions, and CloudWatch](https://dev.to/shilleh/automate-task-scheduling-in-aws-with-lambda-step-functions-and-cloudwatch-44k7)
+- [Why is setting a store value in load function bad?](https://dev.to/jimnayzium/why-is-setting-a-store-value-in-load-function-bad-44g7)
+- [Building a Scalable Notifications and Alerting System 🔥🚀](https://dev.to/middleware/building-a-scalable-notifications-and-alerting-system-kon)
 <!-- BLOG-POST-LIST:END -->
 
