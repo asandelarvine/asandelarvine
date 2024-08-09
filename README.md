@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando métodos HTTP PATCH, usando o AutoMapper](https://dev.to/silvairsoares/criando-metodos-http-patch-usando-o-automapper-168g)
-- [Steps to Deploy a Web App with CI/CD pipeline on Azure App Service](https://dev.to/dera2024/steps-to-deploy-a-web-app-with-cicd-pipeline-on-azure-app-service-4j7b)
-- [PCA &amp; K-Means clustering made simple &lpar;with the math behind it&rpar; using iris dataset](https://dev.to/prinewgirl/pca-k-means-clustering-made-simple-with-the-math-behind-it-using-iris-dataset-3fhd)
-- [How to Install DaVinci Resolve 19 &lpar;beta&rpar; on Linux Mint 22 with AMD Radeon Graphics Card](https://dev.to/annietaylorchen/how-to-install-davinci-resolve-19-beta-on-linux-mint-22-with-amd-radeon-graphics-card-1mfb)
+- [spreadsheet/excell-js-css](https://dev.to/eusisaku/spreadsheetexcell-js-css-1cgb)
+- [Ruby Design Patterns &lpar;WIP&rpar;](https://dev.to/mengjia/ruby-design-patterns-wip-5182)
+- [Notes about Chapter 02 of Web Scalability For Startup Engineers](https://dev.to/ezpzdevelopement/notes-about-chapter-02-of-web-scalability-for-startup-engineers-579o)
+- [Blog Site | Websites for Days 7 | 10](https://dev.to/ofameh/blog-site-websites-for-days-7-10-32bd)
 <!-- BLOG-POST-LIST:END -->
 
