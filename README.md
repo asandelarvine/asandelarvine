@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Crypto Tracker using Webhooks with React, Next.js and Node.js](https://dev.to/codingtechman/real-time-crypto-tracker-using-webhooks-with-react-nextjs-and-nodejs-4cec)
-- [How to Build Your Own React Hooks: A Step-by-Step Guide](https://dev.to/dobedosoft/how-to-build-your-own-react-hooks-a-step-by-step-guide-857)
-- [Destructuring in Python](https://dev.to/pham_bach_7cded53e4c5439e/destructuring-in-python-22jc)
-- [Unleash Your C++ Superpowers with This Beginner-Friendly Course! 🚀](https://dev.to/getvm/unleash-your-c-superpowers-with-this-beginner-friendly-course-31k)
+- [How to Keep a History of MQTT Data With Rust](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-rust-499d)
+- [The Complete Roadmap to Effective API Testing](https://dev.to/getambassador2024/the-complete-roadmap-to-effective-api-testing-37gp)
+- [7 Reasons Why TailwindCSS Outshines Traditional CSS](https://dev.to/muhammad_accama_9279d344c/7-reasons-why-tailwindcss-outshines-traditional-css-3afn)
+- [JavaScript Nested Accordion - Tailwindcss](https://dev.to/dropways/javascript-nested-accordion-tailwindcss-21ea)
 <!-- BLOG-POST-LIST:END -->
 
