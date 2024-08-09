@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Azure Security Policy](https://dev.to/rofiatabdulkareem/unlocking-azure-security-policy-po2)
-- [Coding and Cooking: A Flavorful Analogy](https://dev.to/doozieakshay/coding-and-cooking-a-flavorful-analogy-n33)
-- [Building an Authentication System with MERN](https://dev.to/achal_tiwari/building-an-authentication-system-with-mern-ln)
-- [Stop Using SASS in Your Vue Projects](https://dev.to/zain725342/stop-using-sass-in-your-vue-projects-25pm)
+- [Benefits of Training &amp; Development for Employees](https://dev.to/techstuff/benefits-of-training-development-for-employees-5ahe)
+- [How to Build an Application With Node.js](https://dev.to/ijay/how-to-build-an-application-with-nodejs-3j2c)
+- [Best CI/CD Platforms For React Native Applications](https://dev.to/aneeqakhan/best-cicd-platforms-for-react-native-applications-82p)
+- [Apidog Tutorial: How to Make an API Call?](https://dev.to/apilover/apidog-tutorial-how-to-make-an-api-call-4b4i)
 <!-- BLOG-POST-LIST:END -->
 
