@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of Training &amp; Development for Employees](https://dev.to/techstuff/benefits-of-training-development-for-employees-5ahe)
-- [How to Build an Application With Node.js](https://dev.to/ijay/how-to-build-an-application-with-nodejs-3j2c)
-- [Best CI/CD Platforms For React Native Applications](https://dev.to/aneeqakhan/best-cicd-platforms-for-react-native-applications-82p)
-- [Apidog Tutorial: How to Make an API Call?](https://dev.to/apilover/apidog-tutorial-how-to-make-an-api-call-4b4i)
+- [The Power of Collaboration: Lessons from a Felt World](https://dev.to/dipakahirav/the-power-of-collaboration-lessons-from-a-felt-world-447j)
+- [Design A URL Shortener / Tiny URL](https://dev.to/zeeshanali0704/design-a-url-shortner-tiny-url-4cb5)
+- [Generating UUID in Javascript: A Step-by-Step Guide](https://dev.to/arsalanmeee/generating-uuid-in-javascript-a-step-by-step-guide-3n6l)
+- [Even great mathematicians make mistakes](https://dev.to/anogneva/even-great-mathematicians-make-mistakes-4fi1)
 <!-- BLOG-POST-LIST:END -->
 
