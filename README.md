@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recapping the AI, Machine Learning and Computer Meetup — August 8, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-august-8-2024-1akd)
-- [How to build a caching layer for your Laravel API](https://dev.to/nelwhix/how-to-build-a-caching-layer-for-your-laravel-api-1265)
-- [Little More Control](https://dev.to/andrious/little-more-control-3o3b)
-- [React Cookies: A Complete Guide to Managing Cookies in React Applications](https://dev.to/sarthak_niranjan_3bd6cb5f/react-cookies-a-complete-guide-to-managing-cookies-in-react-applications-3cd3)
+- [Criando métodos HTTP PATCH, usando o AutoMapper](https://dev.to/silvairsoares/criando-metodos-http-patch-usando-o-automapper-168g)
+- [Steps to Deploy a Web App with CI/CD pipeline on Azure App Service](https://dev.to/dera2024/steps-to-deploy-a-web-app-with-cicd-pipeline-on-azure-app-service-4j7b)
+- [PCA &amp; K-Means clustering made simple &lpar;with the math behind it&rpar; using iris dataset](https://dev.to/prinewgirl/pca-k-means-clustering-made-simple-with-the-math-behind-it-using-iris-dataset-3fhd)
+- [How to Install DaVinci Resolve 19 &lpar;beta&rpar; on Linux Mint 22 with AMD Radeon Graphics Card](https://dev.to/annietaylorchen/how-to-install-davinci-resolve-19-beta-on-linux-mint-22-with-amd-radeon-graphics-card-1mfb)
 <!-- BLOG-POST-LIST:END -->
 
