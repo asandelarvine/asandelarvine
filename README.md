@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep a History of MQTT Data With Rust](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-rust-499d)
-- [The Complete Roadmap to Effective API Testing](https://dev.to/getambassador2024/the-complete-roadmap-to-effective-api-testing-37gp)
-- [7 Reasons Why TailwindCSS Outshines Traditional CSS](https://dev.to/muhammad_accama_9279d344c/7-reasons-why-tailwindcss-outshines-traditional-css-3afn)
-- [JavaScript Nested Accordion - Tailwindcss](https://dev.to/dropways/javascript-nested-accordion-tailwindcss-21ea)
+- [CityX: Generate Customized Unbounded 3D Cities with High-Level Control](https://dev.to/mikeyoung44/cityx-generate-customized-unbounded-3d-cities-with-high-level-control-51cb)
+- [Polyfill for Apply&lpar;&rpar;](https://dev.to/dey24/polyfill-for-apply-4o5p)
+- [Introduction of JavaScript for Beginners.](https://dev.to/sahilhusen07/introduction-of-javascript-for-beginners-1495)
+- [How to Solve OutOfMemoryError: Java heap space](https://dev.to/ram_lakshmanan_001/how-to-solve-outofmemoryerror-java-heap-space-3hlc)
 <!-- BLOG-POST-LIST:END -->
 
