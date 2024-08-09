@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/windows-commands-cheat-sheet--1h3e)
-- [Day19 of 100DaysOfCode](https://dev.to/koichiarai/day19-of-100daysofcode-3gha)
-- [Understanding and Avoiding Unexpected Component Rebuilds in Flutter](https://dev.to/gguedes/understanding-and-avoiding-unexpected-component-rebuilds-in-flutter-52lf)
-- [AI Low-Code Design](https://dev.to/gavin1995/ai-low-code-design-2p52)
+- [#42 — Skip Empty Cells To Sort Members](https://dev.to/judith677/42-skip-empty-cells-to-sort-members-789)
+- [Using Terraform to Create VM Instances and Connect via SSH](https://dev.to/chauhoangminhnguyen/using-terraform-to-create-vm-instances-and-connect-via-ssh-2gbj)
+- [Web Components and SSR with Next.js](https://dev.to/hasanirogers/web-components-and-ssr-with-nextjs-13b4)
+- [MultiThreading vs MultiProcessing](https://dev.to/vivekyadav200988/multithreading-vs-multiprocessing-11o9)
 <!-- BLOG-POST-LIST:END -->
 
