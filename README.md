@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data types - ma&#39;lumot turlari.](https://dev.to/sunnat_qayumov_2db67b1ba1/data-types-malumot-turlari-207p)
-- [Building a Sneakers E-commerce Product Page Website](https://dev.to/abhishekgurjar/building-a-sneakers-e-commerce-product-page-website-1d71)
-- [Graph Visualization](https://dev.to/paulike/graph-visualization-3p9l)
-- [Reading .env Files in C#](https://dev.to/rmaurodev/reading-env-files-in-c-124g)
+- [Linux](https://dev.to/mohanavamsi0614/linux-33l7)
+- [Atomic CSS Deep Dive](https://dev.to/mr150/atomic-css-deep-dive-1hee)
+- [Today is the day!🎉 I launched my SaaS after 11 months of work, and I am excited and nervous🚀](https://dev.to/paterson1720/today-is-the-day-i-will-launch-my-saas-after-11-months-of-work-and-i-am-excited-and-nervous-2ack)
+- [Node Resizing](https://dev.to/francis_atoyebi_480951b49/node-resizing-cde)
 <!-- BLOG-POST-LIST:END -->
 
