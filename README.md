@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsserviços, uma abordagem prática - Comunicação via APIs](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-comunicacao-via-apis-2m7n)
-- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-1gke)
-- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-4gb9)
-- [5 Ways to Boost Growth with Gen AI for Business](https://dev.to/transorg/7-ways-to-boost-growth-with-gen-ai-for-business-6jb)
+- [WordPress development environment with Docker](https://dev.to/richardevcom/wordpress-development-environment-with-docker-5202)
+- [This Week In React #195 : Compiler, Refactoring components, XState Store, Next.js, Redwood, Vitale, Astro, LLMs, Astro...](https://dev.to/sebastienlorber/this-week-in-react-195-compiler-refactoring-components-xstate-store-nextjs-redwood-vitale-astro-llms-astro-pj5)
+- [20 Tips for Designing Mobile-First with Tailwind CSS](https://dev.to/hitesh_chauhan_42485a44af/20-tips-for-designing-mobile-first-with-tailwind-css-36km)
+- [Creating Responsive Layouts with Tailwind&#39;s Built-In Breakpoints](https://dev.to/hitesh_chauhan_42485a44af/creating-responsive-layouts-with-tailwinds-built-in-breakpoints-4e6d)
 <!-- BLOG-POST-LIST:END -->
 
