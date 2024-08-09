@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Representing Graphs](https://dev.to/paulike/representing-graphs-3cm7)
-- [Automate Task Scheduling in AWS with Lambda, Step Functions, and CloudWatch](https://dev.to/shilleh/automate-task-scheduling-in-aws-with-lambda-step-functions-and-cloudwatch-44k7)
-- [Why is setting a store value in load function bad?](https://dev.to/jimnayzium/why-is-setting-a-store-value-in-load-function-bad-44g7)
-- [Building a Scalable Notifications and Alerting System 🔥🚀](https://dev.to/middleware/building-a-scalable-notifications-and-alerting-system-kon)
+- [Data types - ma&#39;lumot turlari.](https://dev.to/sunnat_qayumov_2db67b1ba1/data-types-malumot-turlari-207p)
+- [Building a Sneakers E-commerce Product Page Website](https://dev.to/abhishekgurjar/building-a-sneakers-e-commerce-product-page-website-1d71)
+- [Graph Visualization](https://dev.to/paulike/graph-visualization-3p9l)
+- [Reading .env Files in C#](https://dev.to/rmaurodev/reading-env-files-in-c-124g)
 <!-- BLOG-POST-LIST:END -->
 
