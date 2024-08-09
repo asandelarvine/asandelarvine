@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Flexbox: Creating Flexible Layouts](https://dev.to/tailwine/css-flexbox-creating-flexible-layouts-elb)
-- [Ideas for Faceless YouTube content](https://dev.to/imrankh13332994/ideas-for-faceless-youtube-content-p5e)
-- [How to use OpenAI’s new Structured Outputs API &lpar;with code&rpar;](https://dev.to/emcf/how-to-use-openais-new-structured-outputs-api-with-code-2enl)
-- [Understanding Program Crashes: Types, Causes, and Examples](https://dev.to/vivekyadav200988/understanding-program-crashes-types-causes-and-examples-2o04)
+- [Real-Time Crypto Tracker using Webhooks with React, Next.js and Node.js](https://dev.to/codingtechman/real-time-crypto-tracker-using-webhooks-with-react-nextjs-and-nodejs-4cec)
+- [How to Build Your Own React Hooks: A Step-by-Step Guide](https://dev.to/dobedosoft/how-to-build-your-own-react-hooks-a-step-by-step-guide-857)
+- [Destructuring in Python](https://dev.to/pham_bach_7cded53e4c5439e/destructuring-in-python-22jc)
+- [Unleash Your C++ Superpowers with This Beginner-Friendly Course! 🚀](https://dev.to/getvm/unleash-your-c-superpowers-with-this-beginner-friendly-course-31k)
 <!-- BLOG-POST-LIST:END -->
 
