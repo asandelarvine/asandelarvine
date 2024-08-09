@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Ensuring Adequate Test Coverage in Backend Services](https://dev.to/shieldstring/strategies-for-ensuring-adequate-test-coverage-in-backend-services-4e28)
-- [The Hidden Costs of API Downtime: A CTO&#39;s Guide to Proactive Management](https://dev.to/irhose/the-hidden-costs-of-api-downtime-a-ctos-guide-to-proactive-management-1p3a)
-- [Is this thing on?](https://dev.to/bowtiedoffsec/is-this-thing-on-2l6i)
-- [Day 1006 : Decided](https://dev.to/dwane/day-1006-decided-9n2)
+- [Building a Node.js Wrapper for Reddit API: A Step-by-Step Guide](https://dev.to/zand/building-a-nodejs-wrapper-for-reddit-api-a-step-by-step-guide-5eea)
+- [20 prompts, collection of prompts to increase work efficiency](https://dev.to/promry/20-prompts-collection-of-prompts-to-increase-work-efficiency-28ci)
+- [The Side Effects of Using Smartphones Before Sleep and How to Overcome This Habit 🚀](https://dev.to/iarmaanx/the-side-effects-of-using-smartphones-before-sleep-and-how-to-overcome-this-habit-14f1)
+- [How to Migrate From CodeCommit](https://dev.to/aws-builders/how-to-migrate-from-codecommit-3em1)
 <!-- BLOG-POST-LIST:END -->
 
