@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux](https://dev.to/mohanavamsi0614/linux-33l7)
-- [Atomic CSS Deep Dive](https://dev.to/mr150/atomic-css-deep-dive-1hee)
-- [Today is the day!🎉 I launched my SaaS after 11 months of work, and I am excited and nervous🚀](https://dev.to/paterson1720/today-is-the-day-i-will-launch-my-saas-after-11-months-of-work-and-i-am-excited-and-nervous-2ack)
-- [Node Resizing](https://dev.to/francis_atoyebi_480951b49/node-resizing-cde)
+- [Per-user B2B monetization with Stripe and Clerk Organizations](https://dev.to/clerk/per-user-b2b-monetization-with-stripe-and-clerk-organizations-19o5)
+- [How To Count Strings With Emojis In JavaScript](https://dev.to/jeffbuildstech/how-to-count-strings-with-emojis-in-javascript-4604)
+- [# Common Issues and Resolutions When Setting Up a VPC in AWS](https://dev.to/sepiyush/-common-issues-and-resolutions-when-setting-up-a-vpc-in-aws-3hk2)
+- [How to leverage polymorphism to design flexible and maintainable software that adheres to SOLID principles](https://dev.to/muhammad_salem/how-to-leverage-polymorphism-to-design-flexible-and-maintainable-software-that-adheres-to-solid-principles-36a1)
 <!-- BLOG-POST-LIST:END -->
 
