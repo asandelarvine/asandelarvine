@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 11: Diving Deeper into AWS – Advanced Concepts](https://dev.to/singh_in_cloud/day-11-diving-deeper-into-aws-advanced-concepts-3hmo)
-- [Beyond Zipping Up a Coat: Mastering &#39;zip_longest&#39; in Python](https://dev.to/posax/beyond-zipping-up-a-coat-mastering-ziplongest-in-python-3n8f)
-- [Mastering Location-Based Services: A Guide to Finding the Closest Locations Using Java Spring Boot](https://dev.to/khageshpatil/mastering-location-based-services-a-guide-to-finding-the-closest-locations-using-java-spring-boot-jni)
-- [The Best way to configure environment variables and multi environments in Nest.js](https://dev.to/ahmed_hyperov/the-best-way-to-configure-environment-variables-and-multi-environments-in-nestjs-31fi)
+- [Recapping the AI, Machine Learning and Computer Meetup — August 8, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-august-8-2024-1akd)
+- [How to build a caching layer for your Laravel API](https://dev.to/nelwhix/how-to-build-a-caching-layer-for-your-laravel-api-1265)
+- [Little More Control](https://dev.to/andrious/little-more-control-3o3b)
+- [React Cookies: A Complete Guide to Managing Cookies in React Applications](https://dev.to/sarthak_niranjan_3bd6cb5f/react-cookies-a-complete-guide-to-managing-cookies-in-react-applications-3cd3)
 <!-- BLOG-POST-LIST:END -->
 
