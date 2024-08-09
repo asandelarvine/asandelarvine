@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress development environment with Docker](https://dev.to/richardevcom/wordpress-development-environment-with-docker-5202)
-- [This Week In React #195 : Compiler, Refactoring components, XState Store, Next.js, Redwood, Vitale, Astro, LLMs, Astro...](https://dev.to/sebastienlorber/this-week-in-react-195-compiler-refactoring-components-xstate-store-nextjs-redwood-vitale-astro-llms-astro-pj5)
-- [20 Tips for Designing Mobile-First with Tailwind CSS](https://dev.to/hitesh_chauhan_42485a44af/20-tips-for-designing-mobile-first-with-tailwind-css-36km)
-- [Creating Responsive Layouts with Tailwind&#39;s Built-In Breakpoints](https://dev.to/hitesh_chauhan_42485a44af/creating-responsive-layouts-with-tailwinds-built-in-breakpoints-4e6d)
+- [Managing Dependencies and Security in JavaScript with NPM](https://dev.to/devarshishimpi/managing-dependencies-and-security-in-javascript-with-npm-2k6m)
+- [Day 32 Task: Launching your Kubernetes Cluster with Deployment](https://dev.to/oncloud7/day-32-task-launching-your-kubernetes-cluster-with-deployment-14bj)
+- [Understanding CSS Background Coloring for Nested Elements](https://dev.to/chrisgen19/understanding-css-background-coloring-for-nested-elements-236)
+- [Understanding The useRef React Hook 🔥](https://dev.to/alisamir/understanding-the-useref-react-hook-286c)
 <!-- BLOG-POST-LIST:END -->
 
