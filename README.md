@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Node.js Wrapper for Reddit API: A Step-by-Step Guide](https://dev.to/zand/building-a-nodejs-wrapper-for-reddit-api-a-step-by-step-guide-5eea)
-- [20 prompts, collection of prompts to increase work efficiency](https://dev.to/promry/20-prompts-collection-of-prompts-to-increase-work-efficiency-28ci)
-- [The Side Effects of Using Smartphones Before Sleep and How to Overcome This Habit 🚀](https://dev.to/iarmaanx/the-side-effects-of-using-smartphones-before-sleep-and-how-to-overcome-this-habit-14f1)
-- [How to Migrate From CodeCommit](https://dev.to/aws-builders/how-to-migrate-from-codecommit-3em1)
+- [Windows Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/windows-commands-cheat-sheet--1h3e)
+- [Day19 of 100DaysOfCode](https://dev.to/koichiarai/day19-of-100daysofcode-3gha)
+- [Understanding and Avoiding Unexpected Component Rebuilds in Flutter](https://dev.to/gguedes/understanding-and-avoiding-unexpected-component-rebuilds-in-flutter-52lf)
+- [AI Low-Code Design](https://dev.to/gavin1995/ai-low-code-design-2p52)
 <!-- BLOG-POST-LIST:END -->
 
