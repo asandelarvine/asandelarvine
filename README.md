@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Per-user B2B monetization with Stripe and Clerk Organizations](https://dev.to/clerk/per-user-b2b-monetization-with-stripe-and-clerk-organizations-19o5)
-- [How To Count Strings With Emojis In JavaScript](https://dev.to/jeffbuildstech/how-to-count-strings-with-emojis-in-javascript-4604)
-- [# Common Issues and Resolutions When Setting Up a VPC in AWS](https://dev.to/sepiyush/-common-issues-and-resolutions-when-setting-up-a-vpc-in-aws-3hk2)
-- [How to leverage polymorphism to design flexible and maintainable software that adheres to SOLID principles](https://dev.to/muhammad_salem/how-to-leverage-polymorphism-to-design-flexible-and-maintainable-software-that-adheres-to-solid-principles-36a1)
+- [What is Canvas in Web Development &amp; Advance usage of it?](https://dev.to/nadim_ch0wdhury/what-is-canvas-in-web-development-advance-usage-of-it-4mnd)
+- [Logging Best Practices For Your Node.js App](https://dev.to/alertyai/logging-best-practices-for-your-nodejs-app-4o9k)
+- [Simplify Your Data Model with Complex Types in .NET 8](https://dev.to/hamza_darouzi_dotnet/simplify-your-data-model-with-complex-types-in-net-8-20oa)
+- [Github + Stickblitz + HAX = free web publishing](https://dev.to/btopro/github-stickblitz-hax-publishing-ease-58nf)
 <!-- BLOG-POST-LIST:END -->
 
