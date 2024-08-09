@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Collaboration: Lessons from a Felt World](https://dev.to/dipakahirav/the-power-of-collaboration-lessons-from-a-felt-world-447j)
-- [Design A URL Shortener / Tiny URL](https://dev.to/zeeshanali0704/design-a-url-shortner-tiny-url-4cb5)
-- [Generating UUID in Javascript: A Step-by-Step Guide](https://dev.to/arsalanmeee/generating-uuid-in-javascript-a-step-by-step-guide-3n6l)
-- [Even great mathematicians make mistakes](https://dev.to/anogneva/even-great-mathematicians-make-mistakes-4fi1)
+- [Microsserviços, uma abordagem prática - Comunicação via APIs](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-comunicacao-via-apis-2m7n)
+- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-1gke)
+- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-4gb9)
+- [5 Ways to Boost Growth with Gen AI for Business](https://dev.to/transorg/7-ways-to-boost-growth-with-gen-ai-for-business-6jb)
 <!-- BLOG-POST-LIST:END -->
 
