@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Optimizing Large-Scale React Applications](https://dev.to/abhay1kumar/optimizing-large-scale-react-applications-3ckf)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/morgan_murimi_edb29c4bfe7/understanding-your-data-the-essentials-of-exploratory-data-analysis-2h5i)
-- [probleme code verification bot discord](https://dev.to/raf_a7da1db6eeb097cae5cf3/probleme-code-verification-bot-discord-5b0)
-- [AWS Bedrock : Interface Claude LLM using Python](https://dev.to/saikrishna1729/aws-bedrock-interface-claude-llm-using-python-d1g)
+- [Introducing Comet: A Free, Cross-Platform Video Converter Powered by FFmpeg](https://dev.to/thavarshan/introducing-comet-a-free-cross-platform-video-converter-powered-by-ffmpeg-39h5)
+- [How to Configure a 3-Node MongoDB 6 Replica Set: Tested Step-by-Step Guide](https://dev.to/thepurveshpanchal/how-to-configure-a-3-node-mongodb-6-replica-set-tested-step-by-step-guide-5a30)
+- [Deploying Web App With CI/CD Pipeline On Azure](https://dev.to/romanus_onyekwere/deploying-web-app-with-cicd-pipeline-on-azure-3j3j)
+- [To-Do List Application: The controller](https://dev.to/imsyad/to-do-list-application-the-controller-3o20)
 <!-- BLOG-POST-LIST:END -->
 
