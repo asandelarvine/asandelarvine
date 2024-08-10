@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Best JavaScript Animation Libraries to Supercharge Your Web Projects in 2024](https://dev.to/vyan/12-best-javascript-animation-libraries-to-supercharge-your-web-projects-in-2024-21ka)
-- [Validación de Datos en NestJS: De la Sintaxis a la Semántica](https://dev.to/juan_carlosvalderrbano/validacion-de-datos-en-nestjs-de-la-sintaxis-a-la-semantica-27d0)
-- [How to Create a Good Data Model？](https://dev.to/nocobase/how-to-create-a-good-data-model-a8o)
-- [Deuces9ersgold](https://dev.to/deuces9ers/deuces9ersgold-1hda)
+- [Day 2 of journey to be software engineer](https://dev.to/waldyctt/day-2-of-journey-to-be-software-engineer-4l37)
+- [SCSS: Using Placeholder Selectors](https://dev.to/tailwine/scss-using-placeholder-selectors-2a5j)
+- [IP addresses and DNS. How this dynamic duo is holding the Internet🤔](https://dev.to/abhishekraina/ip-addresses-and-dns-how-this-dynamic-duo-is-holding-the-internet-51mk)
+- [TShark Challenge II: Directory write up - TryHackMe](https://dev.to/franciscomelov/tshark-challenge-ii-directory-write-up-tryhackme-45ok)
 <!-- BLOG-POST-LIST:END -->
 
