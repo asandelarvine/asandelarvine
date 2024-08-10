@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Comet: A Free, Cross-Platform Video Converter Powered by FFmpeg](https://dev.to/thavarshan/introducing-comet-a-free-cross-platform-video-converter-powered-by-ffmpeg-39h5)
-- [How to Configure a 3-Node MongoDB 6 Replica Set: Tested Step-by-Step Guide](https://dev.to/thepurveshpanchal/how-to-configure-a-3-node-mongodb-6-replica-set-tested-step-by-step-guide-5a30)
-- [Deploying Web App With CI/CD Pipeline On Azure](https://dev.to/romanus_onyekwere/deploying-web-app-with-cicd-pipeline-on-azure-3j3j)
-- [To-Do List Application: The controller](https://dev.to/imsyad/to-do-list-application-the-controller-3o20)
+- [FastAPI Beyond CRUD Full Course - A FastAPI Course](https://dev.to/jod35/fastapi-beyond-crud-full-course-a-fastapi-course-307p)
+- [Copiar objetos en Javascript](https://dev.to/ronny_minda_9d5d396d20428/copiar-objetos-en-javascript-nl1)
+- [AWS SSO Credentials With Multiple Accounts](https://dev.to/rdarrylr/aws-sso-credentials-with-multiple-accounts-2j02)
+- [Update Announcement: ServBay 1.4.0, More Features and Bugs Fixed](https://dev.to/servbay/update-announcement-servbay-140-o59)
 <!-- BLOG-POST-LIST:END -->
 
