@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Execute WinMerge via Excel VBA Tool](https://dev.to/0meow0/execute-winmerge-via-excel-vba-tool-1f7k)
-- [🌐 MongoDB在金融行业: 向量搜索和ACID事务 💰](https://dev.to/mongodb-builder/mongodbzai-jin-rong-xing-ye-xiang-liang-sou-suo-he-acidshi-wu-4mdk)
-- [🌐 MongoDB in the Financial Industry: Vector Search and ACID-Compliant Transactions 💰](https://dev.to/mongodb-builder/mongodb-in-the-financial-industry-vector-search-and-acid-compliant-transactions-4nj)
-- [🔒 应用技巧: MongoDB安全、合规性与零信任 🔑](https://dev.to/mongodb-builder/ying-yong-ji-qiao-mongodban-quan-he-gui-xing-yu-ling-xin-ren-3f9f)
+- [🚀 Optimizing Large-Scale React Applications](https://dev.to/abhay1kumar/optimizing-large-scale-react-applications-3ckf)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/morgan_murimi_edb29c4bfe7/understanding-your-data-the-essentials-of-exploratory-data-analysis-2h5i)
+- [probleme code verification bot discord](https://dev.to/raf_a7da1db6eeb097cae5cf3/probleme-code-verification-bot-discord-5b0)
+- [AWS Bedrock : Interface Claude LLM using Python](https://dev.to/saikrishna1729/aws-bedrock-interface-claude-llm-using-python-d1g)
 <!-- BLOG-POST-LIST:END -->
 
