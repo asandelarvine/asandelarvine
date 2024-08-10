@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Have VS Code Extensions to Boost Your Coding Efficiency](https://dev.to/lunamiller/5-must-have-vs-code-extensions-to-boost-your-coding-efficiency-4f86)
-- [using Ansible to deploy an application](https://dev.to/audu97/using-ansible-to-deploy-an-application-48mc)
-- [Custom React hook to sync state with the URL](https://dev.to/mr_mornin_star/custom-react-hook-to-sync-state-with-the-url-4b6p)
-- [Integration of Calendar for Efficient Meeting Scheduling](https://dev.to/aixart/integration-of-calendar-for-efficient-meeting-scheduling-1b94)
+- [How to Create Dynamic Email Contact Form in Next.js Using Resend and Zod](https://dev.to/shivamkatare/how-to-create-dynamic-email-contact-form-in-nextjs-using-resend-and-zod-50d)
+- [Foundationda 3 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-3-dars-4h51)
+- [useContext&lpar;&rpar; in React . . .](https://dev.to/__khojiakbar__/usecontext-in-react--1gob)
+- [Creating an empty Angular project and linking it to an existing server on NestJS](https://dev.to/endykaufman/creating-an-empty-angular-project-and-linking-it-to-an-existing-server-on-nestjs-1bbi)
 <!-- BLOG-POST-LIST:END -->
 
