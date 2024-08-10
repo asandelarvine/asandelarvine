@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Networks: From Basics to Advanced Concepts.](https://dev.to/luc_omar/understanding-networks-from-basics-to-advanced-concepts-21hd)
-- [Escape Saddle Points with Novel Perturbed Gradient Algorithm](https://dev.to/mikeyoung44/escape-saddle-points-with-novel-perturbed-gradient-algorithm-3aph)
-- [Begin Your Cloud Journey: Learn Azure Fundamentals](https://dev.to/hermes-bytes/begin-your-cloud-journey-learn-azure-fundamentals-5c25)
-- [Dive into Data: Learn Azure Data Fundamentals](https://dev.to/hermes-bytes/dive-into-data-learn-azure-data-fundamentals-2ieh)
+- [Deploying Kubernetes dashboard on a Kubernetes cluster](https://dev.to/dilanka-rathnasiri/deploying-kubernetes-dashboard-on-a-kubernetes-cluster-kmi)
+- [Uploading Files to S3 Using a Signed URL](https://dev.to/sunil_yaduvanshi/uploading-files-to-s3-using-a-signed-url-ln1)
+- [Securing Your Azure Resources: A Guide to Using Read-Only and Delete Locks](https://dev.to/rofiatabdulkareem/securing-your-azure-resources-a-guide-to-using-read-only-and-delete-locks-5a53)
+- [Simplifying API Access with AWS Lambda Function URLs: Handling GET, POST, PUT, and DELETE with Built-in Security](https://dev.to/sunil_yaduvanshi/simplifying-api-access-with-aws-lambda-function-urls-handling-get-post-put-and-delete-with-built-in-security-4665)
 <!-- BLOG-POST-LIST:END -->
 
