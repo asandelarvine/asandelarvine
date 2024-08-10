@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Complexity into Simplicity: The Power of .NET Aspire](https://dev.to/alisson_podgurski/transforming-complexity-into-simplicity-the-power-of-net-aspire-o3f)
-- [Iterando por arrays multidimensionais](https://dev.to/devsjavagirls/iterando-por-arrays-multidimensionais-5fj4)
-- [O laço for de estilo for-each](https://dev.to/devsjavagirls/o-laco-for-de-estilo-for-each-2kjk)
-- [Today&#39;s Trending Projects: Create a Pixel Art Animator With React and More](https://dev.to/labex/todays-trending-projects-create-a-pixel-art-animator-with-react-and-more-2m26)
+- [12 Best JavaScript Animation Libraries to Supercharge Your Web Projects in 2024](https://dev.to/vyan/12-best-javascript-animation-libraries-to-supercharge-your-web-projects-in-2024-21ka)
+- [Validación de Datos en NestJS: De la Sintaxis a la Semántica](https://dev.to/juan_carlosvalderrbano/validacion-de-datos-en-nestjs-de-la-sintaxis-a-la-semantica-27d0)
+- [How to Create a Good Data Model？](https://dev.to/nocobase/how-to-create-a-good-data-model-a8o)
+- [Deuces9ersgold](https://dev.to/deuces9ers/deuces9ersgold-1hda)
 <!-- BLOG-POST-LIST:END -->
 
