@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Dynamic Email Contact Form in Next.js Using Resend and Zod](https://dev.to/shivamkatare/how-to-create-dynamic-email-contact-form-in-nextjs-using-resend-and-zod-50d)
-- [Foundationda 3 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-3-dars-4h51)
-- [useContext&lpar;&rpar; in React . . .](https://dev.to/__khojiakbar__/usecontext-in-react--1gob)
-- [Creating an empty Angular project and linking it to an existing server on NestJS](https://dev.to/endykaufman/creating-an-empty-angular-project-and-linking-it-to-an-existing-server-on-nestjs-1bbi)
+- [Redis](https://dev.to/ezekiel_77/redis-3njh)
+- [QuickJS: Handle Typescript Sourcemap](https://dev.to/yne/quickjs-handle-typescript-sourcemap-3b00)
+- [Execute function after response sent to client - express nodejs](https://dev.to/amanp30/execute-function-after-response-sent-to-client-express-nodejs-3f33)
+- [Estimating Coding Tasks: What Could Go Wrong?](https://dev.to/ninadmhatre/estimating-coding-tasks-what-could-go-wrong-1hhh)
 <!-- BLOG-POST-LIST:END -->
 
