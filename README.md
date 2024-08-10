@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Beyond CRUD Full Course - A FastAPI Course](https://dev.to/jod35/fastapi-beyond-crud-full-course-a-fastapi-course-307p)
-- [Copiar objetos en Javascript](https://dev.to/ronny_minda_9d5d396d20428/copiar-objetos-en-javascript-nl1)
-- [AWS SSO Credentials With Multiple Accounts](https://dev.to/rdarrylr/aws-sso-credentials-with-multiple-accounts-2j02)
-- [Update Announcement: ServBay 1.4.0, More Features and Bugs Fixed](https://dev.to/servbay/update-announcement-servbay-140-o59)
+- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-4gji)
+- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-5033)
+- [How AI is Shaping the Future of Web3 Security and Compliance](https://dev.to/vaibhavaher219/how-ai-is-shaping-the-future-of-web3-security-and-compliance-4ah0)
+- [একদম নতুনদের জন্য বাংলায় টেইলউইন্ড সিএসএস](https://dev.to/aiarnob/ekdm-ntunder-jny-baanlaayy-tteiluindd-sieses-d8j)
 <!-- BLOG-POST-LIST:END -->
 
