@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-4gji)
-- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-5033)
-- [How AI is Shaping the Future of Web3 Security and Compliance](https://dev.to/vaibhavaher219/how-ai-is-shaping-the-future-of-web3-security-and-compliance-4ah0)
-- [একদম নতুনদের জন্য বাংলায় টেইলউইন্ড সিএসএস](https://dev.to/aiarnob/ekdm-ntunder-jny-baanlaayy-tteiluindd-sieses-d8j)
+- [Day 12: Advanced AWS Concepts in DevOps – Part 2](https://dev.to/singh_in_cloud/day-12-advanced-aws-concepts-in-devops-part-2-1lai)
+- [Local development with Subdomains, Mobile Testing, and OAuth](https://dev.to/andremleblanc/local-development-with-subdomains-mobile-testing-and-oauth-4a30)
+- [Ripgrep Cheatsheet For Neovim Users](https://dev.to/gokayburuc/ripgrep-cheatsheet-for-neovim-users-3pbh)
+- [959. Regions Cut By Slashes](https://dev.to/mdarifulhaque/959-regions-cut-by-slashes-2cog)
 <!-- BLOG-POST-LIST:END -->
 
