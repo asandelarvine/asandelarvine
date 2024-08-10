@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Packaging is Great Now: `uv` is all you need](https://dev.to/astrojuanlu/python-packaging-is-great-now-uv-is-all-you-need-4i2d)
-- [Fixing vue-js-modal Library for Vue 3: A Guide to Restoring Modal Functionality](https://dev.to/aliozzaim/fixing-vue-js-modal-library-for-vue-3-a-guide-to-restoring-modal-functionality-2lai)
-- [Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://dev.to/dhanushnehru/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display-1lec)
-- [Unlocking Private Connectivity in the Cloud Era: Exploring the Power of AWS PrivateLink](https://dev.to/ikoh_sylva/unlocking-private-connectivity-in-the-cloud-era-exploring-the-power-of-aws-privatelink-1ni0)
+- [Clean code vs bad code](https://dev.to/asmyshlyaev177/clean-code-vs-bad-code-3bb0)
+- [Exploring the React Typing Effect NPM Library](https://dev.to/sivamani18/exploring-the-react-typing-effect-npm-library-45gc)
+- [Cautions When Using readonly in TypeScript](https://dev.to/noah-00/cautions-when-using-readonly-in-typescript-22d7)
+- [100FrontendChallenge - Day 10 - Sign up](https://dev.to/t1xx1/100frontendchallenge-day-10-sign-up-63g)
 <!-- BLOG-POST-LIST:END -->
 
