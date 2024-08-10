@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis](https://dev.to/ezekiel_77/redis-3njh)
-- [QuickJS: Handle Typescript Sourcemap](https://dev.to/yne/quickjs-handle-typescript-sourcemap-3b00)
-- [Execute function after response sent to client - express nodejs](https://dev.to/amanp30/execute-function-after-response-sent-to-client-express-nodejs-3f33)
-- [Estimating Coding Tasks: What Could Go Wrong?](https://dev.to/ninadmhatre/estimating-coding-tasks-what-could-go-wrong-1hhh)
+- [Python Packaging is Great Now: `uv` is all you need](https://dev.to/astrojuanlu/python-packaging-is-great-now-uv-is-all-you-need-4i2d)
+- [Fixing vue-js-modal Library for Vue 3: A Guide to Restoring Modal Functionality](https://dev.to/aliozzaim/fixing-vue-js-modal-library-for-vue-3-a-guide-to-restoring-modal-functionality-2lai)
+- [Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://dev.to/dhanushnehru/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display-1lec)
+- [Unlocking Private Connectivity in the Cloud Era: Exploring the Power of AWS PrivateLink](https://dev.to/ikoh_sylva/unlocking-private-connectivity-in-the-cloud-era-exploring-the-power-of-aws-privatelink-1ni0)
 <!-- BLOG-POST-LIST:END -->
 
