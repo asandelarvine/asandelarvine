@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python Developers losing jobs? Tips To Servive](https://dev.to/dhruvjoshi9/why-python-developers-losing-jobs-tips-to-servive-11dd)
-- [W.I.P Functions in javascript](https://dev.to/ashutoshsarangi/wip-functions-in-javascript-3ehj)
-- [The Practical Guide to Game Development with Pygame---Introduction to Pygame](https://dev.to/code_egg/the-practical-guide-to-game-development-with-pygame-introduction-to-pygame-2b3k)
-- [Migrating Guide: RDS for MySQL to Aurora](https://dev.to/suzuki0430/migrating-guide-rds-for-mysql-to-aurora-1hn0)
+- [Understanding Networks: From Basics to Advanced Concepts.](https://dev.to/luc_omar/understanding-networks-from-basics-to-advanced-concepts-21hd)
+- [Escape Saddle Points with Novel Perturbed Gradient Algorithm](https://dev.to/mikeyoung44/escape-saddle-points-with-novel-perturbed-gradient-algorithm-3aph)
+- [Begin Your Cloud Journey: Learn Azure Fundamentals](https://dev.to/hermes-bytes/begin-your-cloud-journey-learn-azure-fundamentals-5c25)
+- [Dive into Data: Learn Azure Data Fundamentals](https://dev.to/hermes-bytes/dive-into-data-learn-azure-data-fundamentals-2ieh)
 <!-- BLOG-POST-LIST:END -->
 
