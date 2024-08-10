@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 of journey to be software engineer](https://dev.to/waldyctt/day-2-of-journey-to-be-software-engineer-4l37)
-- [SCSS: Using Placeholder Selectors](https://dev.to/tailwine/scss-using-placeholder-selectors-2a5j)
-- [IP addresses and DNS. How this dynamic duo is holding the Internet🤔](https://dev.to/abhishekraina/ip-addresses-and-dns-how-this-dynamic-duo-is-holding-the-internet-51mk)
-- [TShark Challenge II: Directory write up - TryHackMe](https://dev.to/franciscomelov/tshark-challenge-ii-directory-write-up-tryhackme-45ok)
+- [The Causes of Poor Software Architecture](https://dev.to/diegosilva13/the-causes-of-poor-software-architecture-2gdi)
+- [I&#39;ve created command line based todo manager using Rust](https://dev.to/seonwoo960000/ive-created-command-line-based-todo-manager-using-rust-17ae)
+- [Mastering Linux Server Management with &quot;Making Servers Work&quot; 🐧](https://dev.to/getvm/mastering-linux-server-management-with-making-servers-work-2in8)
+- [How to Deploy a Node.js API with Nginx on a VPS](https://dev.to/shanu001x/how-to-deploy-a-nodejs-api-with-nginx-on-a-vps-5fgf)
 <!-- BLOG-POST-LIST:END -->
 
