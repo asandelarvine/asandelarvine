@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting Forem on AWS](https://dev.to/tonic/self-hosting-forem-on-aws-50pc)
-- [Is ChatBot enough for websites](https://dev.to/desi_valli/is-chatbot-enough-for-websites-19ni)
-- [Nebular Starburst](https://dev.to/dan52242644dan/nebular-starburst-2mg8)
-- [Understanding UTM parameters: A Guide to Effective Campaign Tracking](https://dev.to/negrel/understanding-utm-parameters-a-guide-to-effective-campaign-tracking-3hg4)
+- [¿Qué es más rápido y económico para convertir archivos en AWS: Polar o Pandas?](https://dev.to/edsantoshn/que-es-mas-rapido-y-economico-para-convertir-archivos-en-aws-polar-o-pandas-594p)
+- [From OpenAI to Anthropic: Switching AI Providers Without Breaking Your Code](https://dev.to/ultraai/from-openai-to-anthropic-switching-ai-providers-without-breaking-your-code-526g)
+- [Redis](https://dev.to/satyamkumarsingh/redis-4bge)
+- [The Ultimate Guide to Managing AI Prompts for Developers](https://dev.to/ultraai/the-ultimate-guide-to-managing-ai-prompts-for-developers-43p4)
 <!-- BLOG-POST-LIST:END -->
 
