@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 12: Advanced AWS Concepts in DevOps – Part 2](https://dev.to/singh_in_cloud/day-12-advanced-aws-concepts-in-devops-part-2-1lai)
-- [Local development with Subdomains, Mobile Testing, and OAuth](https://dev.to/andremleblanc/local-development-with-subdomains-mobile-testing-and-oauth-4a30)
-- [Ripgrep Cheatsheet For Neovim Users](https://dev.to/gokayburuc/ripgrep-cheatsheet-for-neovim-users-3pbh)
-- [959. Regions Cut By Slashes](https://dev.to/mdarifulhaque/959-regions-cut-by-slashes-2cog)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/mark_ouma/understanding-your-data-the-essentials-of-exploratory-data-analysis-459i)
+- [Troubleshooting MySQL Server Not Connecting: A Comprehensive Guide](https://dev.to/javafullstackdev/troubleshooting-mysql-server-not-connecting-a-comprehensive-guide-52dp)
+- [You’re Spending Time on the Wrong Thing — Here’s What Really Adds Value](https://dev.to/themuneebh/youre-spending-time-on-the-wrong-thing-heres-what-really-adds-value-572f)
+- [How to Resolve MySQL Error 2003 &lpar;HY000&rpar;: Can&#39;t Connect to MySQL Server on &#39;localhost:3306&#39;](https://dev.to/javafullstackdev/how-to-resolve-mysql-error-2003-hy000-cant-connect-to-mysql-server-on-localhost3306-158l)
 <!-- BLOG-POST-LIST:END -->
 
