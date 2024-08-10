@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Kubernetes dashboard on a Kubernetes cluster](https://dev.to/dilanka-rathnasiri/deploying-kubernetes-dashboard-on-a-kubernetes-cluster-kmi)
-- [Uploading Files to S3 Using a Signed URL](https://dev.to/sunil_yaduvanshi/uploading-files-to-s3-using-a-signed-url-ln1)
-- [Securing Your Azure Resources: A Guide to Using Read-Only and Delete Locks](https://dev.to/rofiatabdulkareem/securing-your-azure-resources-a-guide-to-using-read-only-and-delete-locks-5a53)
-- [Simplifying API Access with AWS Lambda Function URLs: Handling GET, POST, PUT, and DELETE with Built-in Security](https://dev.to/sunil_yaduvanshi/simplifying-api-access-with-aws-lambda-function-urls-handling-get-post-put-and-delete-with-built-in-security-4665)
+- [5 Must-Have VS Code Extensions to Boost Your Coding Efficiency](https://dev.to/lunamiller/5-must-have-vs-code-extensions-to-boost-your-coding-efficiency-4f86)
+- [using Ansible to deploy an application](https://dev.to/audu97/using-ansible-to-deploy-an-application-48mc)
+- [Custom React hook to sync state with the URL](https://dev.to/mr_mornin_star/custom-react-hook-to-sync-state-with-the-url-4b6p)
+- [Integration of Calendar for Efficient Meeting Scheduling](https://dev.to/aixart/integration-of-calendar-for-efficient-meeting-scheduling-1b94)
 <!-- BLOG-POST-LIST:END -->
 
