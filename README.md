@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Causes of Poor Software Architecture](https://dev.to/diegosilva13/the-causes-of-poor-software-architecture-2gdi)
-- [I&#39;ve created command line based todo manager using Rust](https://dev.to/seonwoo960000/ive-created-command-line-based-todo-manager-using-rust-17ae)
-- [Mastering Linux Server Management with &quot;Making Servers Work&quot; 🐧](https://dev.to/getvm/mastering-linux-server-management-with-making-servers-work-2in8)
-- [How to Deploy a Node.js API with Nginx on a VPS](https://dev.to/shanu001x/how-to-deploy-a-nodejs-api-with-nginx-on-a-vps-5fgf)
+- [Why Python Developers losing jobs? Tips To Servive](https://dev.to/dhruvjoshi9/why-python-developers-losing-jobs-tips-to-servive-11dd)
+- [W.I.P Functions in javascript](https://dev.to/ashutoshsarangi/wip-functions-in-javascript-3ehj)
+- [The Practical Guide to Game Development with Pygame---Introduction to Pygame](https://dev.to/code_egg/the-practical-guide-to-game-development-with-pygame-introduction-to-pygame-2b3k)
+- [Migrating Guide: RDS for MySQL to Aurora](https://dev.to/suzuki0430/migrating-guide-rds-for-mysql-to-aurora-1hn0)
 <!-- BLOG-POST-LIST:END -->
 
