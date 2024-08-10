@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Calculator app using React/Next](https://dev.to/johnscode/creating-a-calculator-app-using-reactnext-4j4n)
-- [🌟 Thrilled to Announce My Latest Achievement! Snowflake Badge 3🌟](https://dev.to/techwithqasim/thrilled-to-announce-my-latest-achievement-snowflake-badge-3-22nm)
-- [Day 1007 : The Carpenter](https://dev.to/dwane/day-1007-the-carpenter-17do)
-- [Supabase uses Valtio for its state management](https://dev.to/ramunarasinga/supabase-uses-valtio-for-its-state-management-cpf)
+- [Sintaxe alternativa para a declaração de arrays](https://dev.to/devsjavagirls/arrays-irregulares-no-java-2406)
+- [What&#39;s In The BOX?!: Variables](https://dev.to/steviepee/whats-in-the-box-variables-2b9h)
+- [Building Decentralized Applications with Ethereum](https://dev.to/kartikmehta8/building-decentralized-applications-with-ethereum-4693)
+- [Unveiling the Magic of the Internet](https://dev.to/akashtdev/unveiling-the-magic-of-the-internet-16d3)
 <!-- BLOG-POST-LIST:END -->
 
