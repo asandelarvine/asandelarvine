@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sintaxe alternativa para a declaração de arrays](https://dev.to/devsjavagirls/arrays-irregulares-no-java-2406)
-- [What&#39;s In The BOX?!: Variables](https://dev.to/steviepee/whats-in-the-box-variables-2b9h)
-- [Building Decentralized Applications with Ethereum](https://dev.to/kartikmehta8/building-decentralized-applications-with-ethereum-4693)
-- [Unveiling the Magic of the Internet](https://dev.to/akashtdev/unveiling-the-magic-of-the-internet-16d3)
+- [Transforming Complexity into Simplicity: The Power of .NET Aspire](https://dev.to/alisson_podgurski/transforming-complexity-into-simplicity-the-power-of-net-aspire-o3f)
+- [Iterando por arrays multidimensionais](https://dev.to/devsjavagirls/iterando-por-arrays-multidimensionais-5fj4)
+- [O laço for de estilo for-each](https://dev.to/devsjavagirls/o-laco-for-de-estilo-for-each-2kjk)
+- [Today&#39;s Trending Projects: Create a Pixel Art Animator With React and More](https://dev.to/labex/todays-trending-projects-create-a-pixel-art-animator-with-react-and-more-2m26)
 <!-- BLOG-POST-LIST:END -->
 
