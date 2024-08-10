@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué es más rápido y económico para convertir archivos en AWS: Polar o Pandas?](https://dev.to/edsantoshn/que-es-mas-rapido-y-economico-para-convertir-archivos-en-aws-polar-o-pandas-594p)
-- [From OpenAI to Anthropic: Switching AI Providers Without Breaking Your Code](https://dev.to/ultraai/from-openai-to-anthropic-switching-ai-providers-without-breaking-your-code-526g)
-- [Redis](https://dev.to/satyamkumarsingh/redis-4bge)
-- [The Ultimate Guide to Managing AI Prompts for Developers](https://dev.to/ultraai/the-ultimate-guide-to-managing-ai-prompts-for-developers-43p4)
+- [The Story behind typeof null returning &quot;object&quot; in Javascript](https://dev.to/surjoyday_kt/the-story-behind-typeof-null-returning-object-in-javascript-2287)
+- [Stellar ecosystem architect for Qaori.coop project](https://dev.to/roshoshin/stellar-ecosystem-architect-for-qaoricoop-project-23oe)
+- [Write a function that filters out all the falsy values from a given array.](https://dev.to/ajaymarathe/create-a-function-which-will-remove-all-the-falsy-values-from-given-array-1ilf)
+- [Recap Asana’s LLM Testing Playbook: A Comprehensive Analysis of Claude 3.5 Sonnet](https://dev.to/agagag/recap-asanas-llm-testing-playbook-a-comprehensive-analysis-of-claude-35-sonnet-46ll)
 <!-- BLOG-POST-LIST:END -->
 
