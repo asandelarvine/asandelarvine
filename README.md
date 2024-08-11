@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Amazon Q Business with AWS CDK - example and best practices](https://dev.to/aws-builders/deploy-amazon-q-business-with-aws-cdk-example-and-best-practices-4ff8)
-- [ShowDEV - We built a All-in-one AI command center for your products.](https://dev.to/namanvyas/showdev-we-built-a-all-in-one-ai-command-center-for-your-products-435e)
-- [TailGrids React: 600+ Tailwind CSS React UI Components](https://dev.to/tailwindcss/tailgrids-react-600-tailwind-css-react-ui-components-n6c)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/gekika/understanding-your-data-the-essentials-of-exploratory-data-analysis-1gm0)
+- [Using Web Workers for Parallel Processing in JavaScript](https://dev.to/jerrycode06/using-web-workers-for-parallel-processing-in-javascript-3nhd)
+- [ROI of Reducing MTTR: Real-World Benefits and Savings](https://dev.to/squadcast/roi-of-reducing-mttr-real-world-benefits-and-savings-1lbo)
+- [Day 42 of 100 Days of Code](https://dev.to/jacobsternx/day-42-of-100-days-of-code-2ph4)
+- [What is Solid Design Principle in Java?](https://dev.to/rajesh1761/what-is-solid-design-principle-in-java-134j)
 <!-- BLOG-POST-LIST:END -->
 
