@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TON Wallet Integration with ton-ui-vue for vue/nuxt](https://dev.to/itsalimanuel/ton-wallet-integration-with-ton-ui-vue-for-vuenuxt-5h4c)
-- [Why WHATWG created a separate specification for URL standard ?](https://dev.to/aditya_mishra_b443092009f/why-whatwg-created-a-separate-specification-for-url-standard--58mc)
-- [Differences between HMPL and HTMX](https://dev.to/antonmak1/differences-between-hmpl-and-htmx-1h25)
-- [Preventing Data Leaks in React.js: A Deep Dive into useEffect](https://dev.to/akshatsoni26/preventing-data-leaks-in-reactjs-a-deep-dive-into-useeffect-4b2g)
+- [Set data to localStorage with limited time to live](https://dev.to/yevheniia_br/set-data-to-localstorage-with-limited-time-to-live-233g)
+- [100+ Game-Changing ChatGPT Prompts for Developers, Product Managers, Designers, and Email Marketers](https://dev.to/ayush7614/100-game-changing-chatgpt-prompts-for-developers-product-managers-designers-and-email-marketers-1c5i)
+- [Product Authenticator Using :Stellar Blockchain Technology](https://dev.to/ankit_sharma333/product-authenticator-using-stellar-blockchain-technology-7mb)
+- [Neovim: My Setup for Developer Assistant with Local Language Models](https://dev.to/ottercyborg/neovim-my-setup-for-developer-assistant-with-local-language-models-2nim)
 <!-- BLOG-POST-LIST:END -->
 
