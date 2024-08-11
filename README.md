@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Story behind typeof null returning &quot;object&quot; in Javascript](https://dev.to/surjoyday_kt/the-story-behind-typeof-null-returning-object-in-javascript-2287)
-- [Stellar ecosystem architect for Qaori.coop project](https://dev.to/roshoshin/stellar-ecosystem-architect-for-qaoricoop-project-23oe)
-- [Write a function that filters out all the falsy values from a given array.](https://dev.to/ajaymarathe/create-a-function-which-will-remove-all-the-falsy-values-from-given-array-1ilf)
-- [Recap Asana’s LLM Testing Playbook: A Comprehensive Analysis of Claude 3.5 Sonnet](https://dev.to/agagag/recap-asanas-llm-testing-playbook-a-comprehensive-analysis-of-claude-35-sonnet-46ll)
+- [Project 50 Challenge](https://dev.to/kiinda/project-50-challenge-jk4)
+- [Generative AI Serverless - Build a Social Media Analytics using Bedrock RAG Knowledge base, Lambda and API!](https://dev.to/bhatiagirish/generative-ai-serverless-build-a-social-media-analytics-using-bedrock-rag-knowledge-base-lambda-and-api-28f0)
+- [Building Your First Full-Stack Application](https://dev.to/media_geneous/building-your-first-full-stack-application-f31)
+- [🚀 Tutorial: local embedding financial reports for internal search](https://dev.to/mongodb-builder/tutorial-local-embedding-financial-reports-for-internal-search-3ohb)
 <!-- BLOG-POST-LIST:END -->
 
