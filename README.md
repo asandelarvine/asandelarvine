@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Creating a Token Faucet on Stellar: A Beginner&#39;s Tutorial 🚰💧](https://dev.to/onwuagba/-creating-a-token-faucet-on-stellar-a-beginners-tutorial-2hla)
-- [Day 13: Wrapping Up AWS in DevOps – Final Concepts](https://dev.to/singh_in_cloud/day-13-wrapping-up-aws-in-devops-final-concepts-2pe9)
-- [I made my first dollar on the App Store 🎉](https://dev.to/seck_mohameth/i-made-my-first-dollar-on-the-app-store-5gfj)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/leonmutisya/understanding-your-data-the-essentials-of-exploratory-data-analysis-3o8e)
+- [Search Engine From Scratch](https://dev.to/unworthyenzyme/search-engine-from-scratch-45ic)
+- [The Essentials of Exploratory Data Analysis](https://dev.to/wanjiru_maureen_16f3ab0fd/the-essentials-of-exploratory-data-analysis-27cp)
+- [Teaching systems thinking through computer games](https://dev.to/read-the-architecture/teaching-systems-thinking-through-computer-games-bnb)
+- [MyPy Introduction](https://dev.to/aniket_purohit/mypy-introduction-1i3)
 <!-- BLOG-POST-LIST:END -->
 
