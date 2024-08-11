@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Outreachy Experience!❤️](https://dev.to/rose_kivuva_e0025d781778f/my-outreachy-experience-2de0)
-- [How The Adapter Pattern Can Simplify Your Codebase](https://dev.to/nilebits/how-the-adapter-pattern-can-simplify-your-codebase-54jj)
-- [How to Create a &quot;Guess the Number&quot; Game in Python for beginners](https://dev.to/divyansh_tiwari/how-to-create-a-guess-the-number-game-in-python-1840)
-- [🎉 Announcing Cart Package Coupon Feature!](https://dev.to/realrashid/announcing-cart-package-coupon-feature-3dk3)
+- [Crafting the Ultimate GraphQL Adventure with Express: Power Up Your API Game!](https://dev.to/imayush15/crafting-the-ultimate-graphql-adventure-with-express-power-up-your-api-game-47km)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/nginacloud/understanding-your-data-the-essentials-of-exploratory-data-analysis-2p39)
+- [What do we REALLY mean by immutable data types?](https://dev.to/oduor_arnold/what-do-we-really-mean-by-immutable-data-types-edk)
+- [Balancing Data Deletion and Historical Accuracy](https://dev.to/krishnacyber/balancing-data-deletion-and-historical-accuracy-51a8)
 <!-- BLOG-POST-LIST:END -->
 
