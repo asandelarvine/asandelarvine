@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building A Generative AI Platform: A Deep Dive into Architecture and Implementation](https://dev.to/aadya_madankar_6dc52aeee1/building-a-generative-ai-platform-a-deep-dive-into-architecture-and-implementation-36hk)
-- [How CORS actually works behind the scenes](https://dev.to/shanu001x/how-cors-actually-works-behind-the-scenes-5304)
-- [The Art of Writing Clean Functions: Clean Code Practices](https://dev.to/manjushsh/the-art-of-writing-clean-functions-clean-code-practices-2f5m)
-- [Building Multi-Page Applications in React: A Router Tutorial](https://dev.to/raajaryan/building-multi-page-applications-in-react-a-router-tutorial-3g43)
+- [How to Scrape Data From a Page With Infinite Scroll! ♾️](https://dev.to/karanrathod316/how-to-scrape-data-from-a-page-with-infinite-scroll-2enk)
+- [The developer roadmap YOU need](https://dev.to/bridget_amana/the-developer-roadmap-you-need-6nl)
+- [GrilScript Summer of code](https://dev.to/gokilp_25/grilscript-summer-of-code-4dlh)
+- [Using npm packages in AdonisJS](https://dev.to/mezie/using-npm-packages-in-adonisjs-cnj)
 <!-- BLOG-POST-LIST:END -->
 
