@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Ways to Destructure Array in JavaScript &amp; make your code look clean](https://dev.to/smy/4-ways-to-destructure-array-in-javascript-make-your-code-look-clean-gjk)
-- [Top 5 Tools for CSS-in-JS Styling](https://dev.to/bizmavenhub/top-5-tools-for-css-in-js-styling-58mk)
-- [Most trusted terminal tools for developers](https://dev.to/rohitg00/most-trusted-terminal-tools-for-developers-g1m)
-- [FiveM RAT Analysis](https://dev.to/oggetto/fivem-rat-analysis-2ndb)
+- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-4h6g)
+- [Declaration using const vs freeze in Javascript](https://dev.to/alishgiri/declaration-using-const-vs-freeze-in-javascript-5ak4)
+- [React and Microfrontends: Architecture, Integration, and Scaling](https://dev.to/mdhassanpatwary/react-and-microfrontends-architecture-integration-and-scaling-3fc0)
+- [How to setup SASS in Vite Environment and brief notes on important sass functionalities](https://dev.to/godwin_nj/how-to-work-with-sass-in-vite-environment-and-brief-notes-on-important-sass-functionalities-k2)
 <!-- BLOG-POST-LIST:END -->
 
