@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Web Workers for Parallel Processing in JavaScript](https://dev.to/jerrycode06/using-web-workers-for-parallel-processing-in-javascript-3nhd)
-- [ROI of Reducing MTTR: Real-World Benefits and Savings](https://dev.to/squadcast/roi-of-reducing-mttr-real-world-benefits-and-savings-1lbo)
-- [Day 42 of 100 Days of Code](https://dev.to/jacobsternx/day-42-of-100-days-of-code-2ph4)
-- [What is Solid Design Principle in Java?](https://dev.to/rajesh1761/what-is-solid-design-principle-in-java-134j)
+- [AI: An overview of common LLM benchmarks](https://dev.to/hmcodes/ai-an-overview-of-common-llm-benchmarks-3i7b)
+- [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://dev.to/furkangozukara/birefnet-state-of-the-art-newest-very-best-background-batch-remover-app-19k1)
+- [VoteVault: Our Journey from a Lunchtime Idea to dApp](https://dev.to/gr1ll/votevault-our-journey-from-a-lunchtime-idea-to-dapp-2opf)
+- [From Introvert to Tech: A Journey of Personal Growth and Community Connection](https://dev.to/madev7/from-introvert-to-tech-a-journey-of-personal-growth-and-community-connection-2me8)
 <!-- BLOG-POST-LIST:END -->
 
