@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [huggingface fix: you either need to activate Developer Mode or to run Python as an administrator](https://dev.to/danc/huggingface-fix-you-either-need-to-activate-developer-mode-or-to-run-python-as-an-administrator-307o)
-- [fix: A module that was compiled using NumPy 1.x cannot be run in NumPy 2.0.0 as it may crash](https://dev.to/danc/fix-a-module-that-was-compiled-using-numpy-1x-cannot-be-run-in-numpy-200-as-it-may-crash-jp5)
-- [🚀 教程：通过 MongoDB 向量搜索财务 PDF 报告 &lpar;本地嵌入&rpar;](https://dev.to/mongodb-builder/jiao-cheng-tong-guo-mongodb-xiang-liang-sou-suo-ben-di-qian-ru-cai-wu-pdf-bao-gao-791)
-- [The Future of the Internet](https://dev.to/vithanagedanu/the-future-of-the-internet-pb2)
+- [4 Ways to Destructure Array in JavaScript &amp; make your code look clean](https://dev.to/smy/4-ways-to-destructure-array-in-javascript-make-your-code-look-clean-gjk)
+- [Top 5 Tools for CSS-in-JS Styling](https://dev.to/bizmavenhub/top-5-tools-for-css-in-js-styling-58mk)
+- [Most trusted terminal tools for developers](https://dev.to/rohitg00/most-trusted-terminal-tools-for-developers-g1m)
+- [FiveM RAT Analysis](https://dev.to/oggetto/fivem-rat-analysis-2ndb)
 <!-- BLOG-POST-LIST:END -->
 
