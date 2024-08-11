@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Search Engine From Scratch](https://dev.to/unworthyenzyme/search-engine-from-scratch-45ic)
-- [The Essentials of Exploratory Data Analysis](https://dev.to/wanjiru_maureen_16f3ab0fd/the-essentials-of-exploratory-data-analysis-27cp)
-- [Teaching systems thinking through computer games](https://dev.to/read-the-architecture/teaching-systems-thinking-through-computer-games-bnb)
-- [MyPy Introduction](https://dev.to/aniket_purohit/mypy-introduction-1i3)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis.](https://dev.to/mutlyn/understanding-your-data-the-essentials-of-exploratory-data-analysis-3ee6)
+- [Debugging AI: Tools and Techniques for Troubleshooting AI Applications](https://dev.to/ultraai/debugging-ai-tools-and-techniques-for-troubleshooting-ai-applications-3h2p)
+- [Introducing the Hrida T2SQL 128k Model](https://dev.to/hrida_ai/introducing-the-hrida-t2sql-128k-model-pbm)
+- [What is Python?](https://dev.to/amirrezakarimip/what-is-python-iok)
 <!-- BLOG-POST-LIST:END -->
 
