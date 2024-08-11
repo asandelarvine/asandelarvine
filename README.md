@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 96-98] I built a script that gets info from a periodic table database](https://dev.to/thomascansino/day-96-98-i-built-a-script-that-gets-info-from-a-periodic-table-database-4oh0)
-- [Nuxt Server-Side Proxy for Open Weather Api](https://dev.to/ratul16/nuxt-server-side-proxy-for-open-weather-api-577a)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/ekitindi/understanding-your-data-the-essentials-of-exploratory-data-analysis-5997)
-- [Demographic dataset analyze](https://dev.to/yowise/demographic-dataset-analyze-1ak2)
+- [My Outreachy Experience!❤️](https://dev.to/rose_kivuva_e0025d781778f/my-outreachy-experience-2de0)
+- [How The Adapter Pattern Can Simplify Your Codebase](https://dev.to/nilebits/how-the-adapter-pattern-can-simplify-your-codebase-54jj)
+- [How to Create a &quot;Guess the Number&quot; Game in Python for beginners](https://dev.to/divyansh_tiwari/how-to-create-a-guess-the-number-game-in-python-1840)
+- [🎉 Announcing Cart Package Coupon Feature!](https://dev.to/realrashid/announcing-cart-package-coupon-feature-3dk3)
 <!-- BLOG-POST-LIST:END -->
 
