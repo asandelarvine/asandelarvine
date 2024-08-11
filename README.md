@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting the Ultimate GraphQL Adventure with Express: Power Up Your API Game!](https://dev.to/imayush15/crafting-the-ultimate-graphql-adventure-with-express-power-up-your-api-game-47km)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/nginacloud/understanding-your-data-the-essentials-of-exploratory-data-analysis-2p39)
-- [What do we REALLY mean by immutable data types?](https://dev.to/oduor_arnold/what-do-we-really-mean-by-immutable-data-types-edk)
-- [Balancing Data Deletion and Historical Accuracy](https://dev.to/krishnacyber/balancing-data-deletion-and-historical-accuracy-51a8)
+- [In this guide, I’ll show you how to create a new user in Oracle and give them the right permissions.](https://dev.to/abdullah_khrais_97a2c908d/in-this-guide-ill-show-you-how-to-create-a-new-user-in-oracle-and-give-them-the-right-permissions-1pb6)
+- [Proxy Contract and delegate calls](https://dev.to/arsh_the_coder/proxy-contract-and-delegate-calls-41hb)
+- [Executable Blog Posts: Second Take](https://dev.to/vst/executable-blog-posts-second-take-1dkn)
+- [Como Classificar Datas em Java](https://dev.to/andersoncode66/como-classificar-datas-em-java-i3m)
 <!-- BLOG-POST-LIST:END -->
 
