@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In this guide, I’ll show you how to create a new user in Oracle and give them the right permissions.](https://dev.to/abdullah_khrais_97a2c908d/in-this-guide-ill-show-you-how-to-create-a-new-user-in-oracle-and-give-them-the-right-permissions-1pb6)
-- [Proxy Contract and delegate calls](https://dev.to/arsh_the_coder/proxy-contract-and-delegate-calls-41hb)
-- [Executable Blog Posts: Second Take](https://dev.to/vst/executable-blog-posts-second-take-1dkn)
-- [Como Classificar Datas em Java](https://dev.to/andersoncode66/como-classificar-datas-em-java-i3m)
+- [# Creating a Token Faucet on Stellar: A Beginner&#39;s Tutorial 🚰💧](https://dev.to/onwuagba/-creating-a-token-faucet-on-stellar-a-beginners-tutorial-2hla)
+- [Day 13: Wrapping Up AWS in DevOps – Final Concepts](https://dev.to/singh_in_cloud/day-13-wrapping-up-aws-in-devops-final-concepts-2pe9)
+- [I made my first dollar on the App Store 🎉](https://dev.to/seck_mohameth/i-made-my-first-dollar-on-the-app-store-5gfj)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/leonmutisya/understanding-your-data-the-essentials-of-exploratory-data-analysis-3o8e)
 <!-- BLOG-POST-LIST:END -->
 
