@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-4h6g)
-- [Declaration using const vs freeze in Javascript](https://dev.to/alishgiri/declaration-using-const-vs-freeze-in-javascript-5ak4)
-- [React and Microfrontends: Architecture, Integration, and Scaling](https://dev.to/mdhassanpatwary/react-and-microfrontends-architecture-integration-and-scaling-3fc0)
-- [How to setup SASS in Vite Environment and brief notes on important sass functionalities](https://dev.to/godwin_nj/how-to-work-with-sass-in-vite-environment-and-brief-notes-on-important-sass-functionalities-k2)
+- [TON Wallet Integration with ton-ui-vue for vue/nuxt](https://dev.to/itsalimanuel/ton-wallet-integration-with-ton-ui-vue-for-vuenuxt-5h4c)
+- [Why WHATWG created a separate specification for URL standard ?](https://dev.to/aditya_mishra_b443092009f/why-whatwg-created-a-separate-specification-for-url-standard--58mc)
+- [Differences between HMPL and HTMX](https://dev.to/antonmak1/differences-between-hmpl-and-htmx-1h25)
+- [Preventing Data Leaks in React.js: A Deep Dive into useEffect](https://dev.to/akshatsoni26/preventing-data-leaks-in-reactjs-a-deep-dive-into-useeffect-4b2g)
 <!-- BLOG-POST-LIST:END -->
 
