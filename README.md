@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exercício - Simulando Uma Conta Bancária Através Do Terminal](https://dev.to/lnabesima/exercicio-simulando-uma-conta-bancaria-atraves-do-terminal-23e4)
-- [Angular + Sanity CMS: Mastering Images with the Sanity Image Directive](https://dev.to/osnoser1/angular-sanity-cms-mastering-images-with-the-sanity-image-directive-28p8)
-- [More Puzzles](https://dev.to/j2a2k4e/more-puzzles-1nh6)
-- [Payment SDK Integration: Pains &amp; Wünsche](https://dev.to/lenjee_chan_af668b02632f2/payment-sdk-integration-pains-wunsche-1i9b)
+- [The Firebase Shortcut: Simplifying Next.js Authentication](https://dev.to/proflead/the-firebase-shortcut-simplifying-nextjs-authentication-4d)
+- [NMS Migration Made Easy: Gathering Information](https://dev.to/adatole/nms-migration-made-easy-gathering-information-54kn)
+- [tea-tasting: a Python package for the statistical analysis of A/B tests](https://dev.to/e10v/tea-tasting-a-python-package-for-the-statistical-analysis-of-ab-tests-4fnj)
+- [How to Use the Broadcast Channel API for Real-Time Communication Across Browser Windows](https://dev.to/rigalpatel001/how-to-use-the-broadcast-channel-api-for-real-time-communication-across-browser-windows-23if)
 <!-- BLOG-POST-LIST:END -->
 
