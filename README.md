@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo GAS e Transaction Fees na Ethereum: Do Legacy ao EIP-1559](https://dev.to/web3-brasil/diario-web3-dia-2-aprendendo-gas-transaction-fee-gwei-wei-e-a-relacao-disso-com-a-eth-e-sua-network-2o7p)
-- [Why did my Google Colab session crash while running the Llama model?](https://dev.to/riddhi_007f87a3b86e45bf61/why-did-my-google-colab-session-crash-while-running-the-llama-model-4bce)
-- [The Future of Work: How Remote Teams Are Reshaping Business](https://dev.to/organization_admin_b1a89a/the-future-of-work-how-remote-teams-are-reshaping-business-498m)
-- [Spring Boot 3 application on AWS Lambda - Part 10 Measuring cold and warm starts with Spring Cloud Function](https://dev.to/aws-builders/spring-boot-3-application-on-aws-lambda-part-10-measuring-cold-and-warm-starts-with-spring-cloud-function-2b1i)
+- [Exercício - Simulando Uma Conta Bancária Através Do Terminal](https://dev.to/lnabesima/exercicio-simulando-uma-conta-bancaria-atraves-do-terminal-23e4)
+- [Angular + Sanity CMS: Mastering Images with the Sanity Image Directive](https://dev.to/osnoser1/angular-sanity-cms-mastering-images-with-the-sanity-image-directive-28p8)
+- [More Puzzles](https://dev.to/j2a2k4e/more-puzzles-1nh6)
+- [Payment SDK Integration: Pains &amp; Wünsche](https://dev.to/lenjee_chan_af668b02632f2/payment-sdk-integration-pains-wunsche-1i9b)
 <!-- BLOG-POST-LIST:END -->
 
