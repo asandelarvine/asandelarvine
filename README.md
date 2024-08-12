@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Google OAuth 2.0 with Passport.js: A Step-by-Step Guide](https://dev.to/vyan/unlocking-the-power-of-google-oauth-20-with-passportjs-a-step-by-step-guide-2409)
+- [Deploy ReactJS application to Firebase in 5 minutes](https://dev.to/chauhoangminhnguyen/deploy-reactjs-application-to-firebase-in-5-minutes-1eba)
+- [npm vs yarn vs pnpm: A Comprehensive Guide to Choosing the Right Package Manager](https://dev.to/raajaryan/npm-vs-yarn-vs-pnpm-a-comprehensive-guide-to-choosing-the-right-package-manager-1o1g)
 - [AutoDocument - Open-Source Mail Merge Alternative](https://dev.to/harlekuin/autodocument-open-source-mail-merge-alternative-1o9f)
-- [Qualcomm Linux : A Toolkit for Developers](https://dev.to/dhaval_m_mehta/qualcomm-linux-a-toolkit-for-developers-i9k)
-- [Introduction to QR Codes](https://dev.to/tf4793/introduction-to-qr-codes-2deg)
-- [As a Developer: What to Do and What to Steer Clear Of](https://dev.to/dipakahirav/as-a-developer-what-to-do-and-what-to-steer-clear-of-p7i)
 <!-- BLOG-POST-LIST:END -->
 
