@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [After Effects: Text Animation And The Expression Selector](https://dev.to/kocreative/after-effects-text-animation-and-the-expression-selector-a2l)
-- [How to create a JavaScript-free modal popup with only Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-javascript-free-modal-popup-with-only-tailwind-css-5di9)
-- [Freeware: Java Utility Package &lpar;Version 2024.08.12&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20240812-released-ih3)
-- [How to reverse a linked list in simple and optimal way in java](https://dev.to/shivam_tyagi/how-to-reverse-a-linked-list-in-simple-and-optimal-way-in-java-o8k)
+- [An iPhone workaround broke my parallax scrolling effect 📵💔](https://dev.to/ingosteinke/an-iphone-workaround-broke-my-parallax-scrolling-effect-3j7k)
+- [NextJS Starter Kit with NextAuth v4, Prisma, Typescript and Docker](https://dev.to/vaibhav_31/nextjs-starter-kit-2ijc)
+- [Blog Website with Cloudflare Workers and Reactjs](https://dev.to/vaibhav_31/blog-website-with-cloudflare-workers-and-reactjs-4pbi)
+- [Why use declare&lpar;strict_types=1&rpar; in PHP – Fast tips](https://dev.to/inspector/why-use-declarestricttypes1-in-php-fast-tips-3c1)
 <!-- BLOG-POST-LIST:END -->
 
