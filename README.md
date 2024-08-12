@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The activation functions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/the-activation-functions-in-pytorch-1-lm6)
-- [🎓 Understanding the Difference Between Checked and Unchecked Exceptions in Java 🚀](https://dev.to/felipejansendeveloper/understanding-the-difference-between-checked-and-unchecked-exceptions-in-java-bph)
-- [🛠️ A New Era of Data Technology —— Explore Innic, the World&#39;s First AI Database GUI for DuckDB](https://dev.to/innicdata/a-new-era-of-data-technology-explore-innic-the-worlds-first-ai-database-gui-for-duckdb-54fl)
-- [Meme Monday](https://dev.to/ben/meme-monday-el7)
+- [A Guide to Machine Learning System Design and Best Practices](https://dev.to/kitops/a-guide-to-machine-learning-system-design-and-best-practices-g09)
+- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-3gnd)
+- [Best Low-Code Platforms For Building Applications In 2024](https://dev.to/ayush7614/best-low-code-platforms-for-building-applications-in-2024-203e)
+- [[DAY 102-104] I took a backend course in freecodecamp](https://dev.to/thomascansino/day-102-104-i-took-a-backend-course-in-freecodecamp-2don)
 <!-- BLOG-POST-LIST:END -->
 
