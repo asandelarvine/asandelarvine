@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DocOps For Beginners: All You Need To Know](https://dev.to/dumebii/docops-for-beginners-all-you-need-to-know-2ldh)
-- [Ibuprofeno.py💊| #159: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-159-explica-este-codigo-python-am9)
-- [DevOps: An Easy-to-follow Guide for Non-IT People](https://dev.to/dareyio/devops-an-easy-to-follow-guide-for-non-it-people-5gde)
-- [From Frontend to Backend: Bridging the Gap in Full-Stack Development](https://dev.to/theayazsoomro/from-frontend-to-backend-bridging-the-gap-in-full-stack-development-23bb)
+- [Entendendo GAS e Transaction Fees na Ethereum: Do Legacy ao EIP-1559](https://dev.to/web3-brasil/diario-web3-dia-2-aprendendo-gas-transaction-fee-gwei-wei-e-a-relacao-disso-com-a-eth-e-sua-network-2o7p)
+- [Why did my Google Colab session crash while running the Llama model?](https://dev.to/riddhi_007f87a3b86e45bf61/why-did-my-google-colab-session-crash-while-running-the-llama-model-4bce)
+- [The Future of Work: How Remote Teams Are Reshaping Business](https://dev.to/organization_admin_b1a89a/the-future-of-work-how-remote-teams-are-reshaping-business-498m)
+- [Spring Boot 3 application on AWS Lambda - Part 10 Measuring cold and warm starts with Spring Cloud Function](https://dev.to/aws-builders/spring-boot-3-application-on-aws-lambda-part-10-measuring-cold-and-warm-starts-with-spring-cloud-function-2b1i)
 <!-- BLOG-POST-LIST:END -->
 
