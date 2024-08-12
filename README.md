@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Your Website Security with SafeLine WAF&#39;s Advanced Protection Features](https://dev.to/sherbertill6/transform-your-website-security-with-safeline-wafs-advanced-protection-features-1hjo)
-- [Shaping the Future of E-Commerce: Wings Engine Unlocks a New 3D Shopping Experience](https://dev.to/samuel67/shaping-the-future-of-e-commerce-wings-engine-unlocks-a-new-3d-shopping-experience-22bj)
-- [[DAY 99-101] I acquired a database certificate from freecodecamp](https://dev.to/thomascansino/day-99-101-i-acquired-a-database-certificate-from-freecodecamp-2j8m)
-- [HOW I STARTED SQL](https://dev.to/mugomwaniki/how-i-started-sql-4kl6)
+- [DocOps For Beginners: All You Need To Know](https://dev.to/dumebii/docops-for-beginners-all-you-need-to-know-2ldh)
+- [Ibuprofeno.py💊| #159: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-159-explica-este-codigo-python-am9)
+- [DevOps: An Easy-to-follow Guide for Non-IT People](https://dev.to/dareyio/devops-an-easy-to-follow-guide-for-non-it-people-5gde)
+- [From Frontend to Backend: Bridging the Gap in Full-Stack Development](https://dev.to/theayazsoomro/from-frontend-to-backend-bridging-the-gap-in-full-stack-development-23bb)
 <!-- BLOG-POST-LIST:END -->
 
