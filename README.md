@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spending Less Time on Boilerplate with Blackbird](https://dev.to/getambassador2024/spending-less-time-on-boilerplate-with-blackbird-1c8)
-- [7 Open Source Projects You Should Know - Python Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c)
-- [Multi-Stage Dockerfiles](https://dev.to/kalkwst/multi-stage-dockerfiles-3e90)
-- [Personal website built with MERN stack](https://dev.to/sebin_song_c92c8293860d57/personal-website-built-with-mern-stack-m01)
+- [Setting Up a Enterprise Ready Power Platform](https://dev.to/wyattdave/setting-up-a-enterprise-ready-power-platform-4pma)
+- [Perl Weekly #681 - GitHub and Perl](https://dev.to/szabgab/perl-weekly-681-github-and-perl-5af3)
+- [Simple Wikipedia Search App with Streamlit 🐍🕸️💻](https://dev.to/kammarianand/simple-wikipedia-search-app-with-streamlit-537h)
+- [User Journey Mapping: How and Why Does it Matter for Your Business?](https://dev.to/pepper_square/user-journey-mapping-how-and-why-does-it-matter-for-your-business-15k9)
 <!-- BLOG-POST-LIST:END -->
 
