@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Novu and How Does It Work](https://dev.to/thekarlesi/what-is-novu-and-how-does-it-work-55km)
-- [Which Mobile Test Automation Framework Fits You?](https://dev.to/grgprarup/which-mobile-test-automation-framework-fits-you-57mc)
-- [Building an Interactive Timeline with React and TypeScript: Managing Sessions Efficiently](https://dev.to/radzion/building-an-interactive-timeline-with-react-and-typescript-managing-sessions-efficiently-3hmh)
-- [Interacting with Smart Contract Functions: Providers and Alternatives](https://dev.to/mibii/interacting-with-smart-contract-functions-providers-and-alternatives-4ln6)
+- [5 Unit Testing Best Practices I Learned from This NDC Conference Talk](https://dev.to/canro91/5-unit-testing-best-practices-i-learned-from-this-ndc-conference-talk-2d0m)
+- [Effortless Refactoring in Vue.js: A Guide to Vue Mess Detector](https://dev.to/davidpena/effortless-refactoring-in-vuejs-a-guide-to-vue-mess-detector-5756)
+- [What is Hoisting?](https://dev.to/mojahidulislam11/what-is-hoisting-134a)
+- [anyone can explain what is the key difference between async/await with Promise.all&lpar;&rpar; and promise.allSettled&lpar;&rpar;...?](https://dev.to/black_shadow_5d6873459676/anyone-can-explain-what-is-the-key-difference-between-asyncawait-with-promiseall-and-promiseallsettled-3cce)
 <!-- BLOG-POST-LIST:END -->
 
