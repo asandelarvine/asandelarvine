@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Google OAuth 2.0 with Passport.js: A Step-by-Step Guide](https://dev.to/vyan/unlocking-the-power-of-google-oauth-20-with-passportjs-a-step-by-step-guide-2409)
-- [Deploy ReactJS application to Firebase in 5 minutes](https://dev.to/chauhoangminhnguyen/deploy-reactjs-application-to-firebase-in-5-minutes-1eba)
-- [npm vs yarn vs pnpm: A Comprehensive Guide to Choosing the Right Package Manager](https://dev.to/raajaryan/npm-vs-yarn-vs-pnpm-a-comprehensive-guide-to-choosing-the-right-package-manager-1o1g)
-- [AutoDocument - Open-Source Mail Merge Alternative](https://dev.to/harlekuin/autodocument-open-source-mail-merge-alternative-1o9f)
+- [What is Novu and How Does It Work](https://dev.to/thekarlesi/what-is-novu-and-how-does-it-work-55km)
+- [Which Mobile Test Automation Framework Fits You?](https://dev.to/grgprarup/which-mobile-test-automation-framework-fits-you-57mc)
+- [Building an Interactive Timeline with React and TypeScript: Managing Sessions Efficiently](https://dev.to/radzion/building-an-interactive-timeline-with-react-and-typescript-managing-sessions-efficiently-3hmh)
+- [Interacting with Smart Contract Functions: Providers and Alternatives](https://dev.to/mibii/interacting-with-smart-contract-functions-providers-and-alternatives-4ln6)
 <!-- BLOG-POST-LIST:END -->
 
