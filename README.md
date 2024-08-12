@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple notes is my CMS](https://dev.to/julien41/apple-notes-is-my-cms-4lbl)
-- [Han Solo Digital Galaxy.](https://dev.to/faldesign/han-solo-digital-galaxy-2o0l)
-- [S1E2: 𝐂𝐨𝐝𝐞 &amp; 𝐃𝐞𝐩𝐥𝐨𝐲 - 𝐁𝐮𝐢𝐥𝐝 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐆𝐞𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐇𝐚𝐲𝐬𝐭𝐚𝐜𝐤](https://dev.to/eze_lanza/--5adc)
-- [The Path to Coding Mastery A Beginner&#39;s Guide](https://dev.to/aigamer/the-path-to-coding-mastery-a-beginners-guide-18od)
+- [DevOps Demystified: Understanding CI/CD Pipelines and Essential Tools](https://dev.to/ayush200704/devops-demystified-understanding-cicd-pipelines-and-essential-tools-5f37)
+- [Integrating GraphQL with Apollo in React: A Complete Guide](https://dev.to/nayane_menezes_e70c72b54/integrating-graphql-with-apollo-in-react-a-complete-guide-56ka)
+- [Basic guide of Langchain Concepts](https://dev.to/fabianrod/basic-guide-of-langchain-concepts-39bm)
+- [Criando um módulo com Swift Package Manager](https://dev.to/lys/criando-um-modulo-com-swift-package-manager-3cga)
 <!-- BLOG-POST-LIST:END -->
 
