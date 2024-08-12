@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Discord Nitro Giveaway On GetBlock Community Server](https://dev.to/getblockio_77/free-discord-nitro-giveaway-on-getblock-community-server-446d)
-- [A Developer’s Guide to Digital Process Automation](https://dev.to/yayabobi/a-developers-guide-to-digital-process-automation-4j6i)
-- [My-Portfolio](https://dev.to/nevin100/my-portfolio-ii0)
-- [Day 17: I Built a Number Guessing Game in JavaScript! 🎉](https://dev.to/rohit1301/day-17-i-built-a-number-guessing-game-in-javascript-1dj5)
+- [Learnings on tech leading: Asking questions that illuminate uncertainty](https://dev.to/kaityhallman/learnings-on-tech-leading-asking-questions-that-illuminate-uncertainty-3kif)
+- [Report on Exploratory Data Analysis &lpar;EDA&rpar; of Weather Dataset](https://dev.to/emmanuel_b/report-on-exploratory-data-analysis-eda-of-weather-dataset-15l)
+- [Fetching and Updating Solana Wallet Balances](https://dev.to/sumana10/fetching-and-updating-solana-wallet-balances-4epk)
+- [Requisitos funcionais e não Funcionais](https://dev.to/noejunior299/requisitos-funcionais-e-nao-funcionais-2l)
 <!-- BLOG-POST-LIST:END -->
 
