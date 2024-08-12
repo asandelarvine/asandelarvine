@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Unit Testing Best Practices I Learned from This NDC Conference Talk](https://dev.to/canro91/5-unit-testing-best-practices-i-learned-from-this-ndc-conference-talk-2d0m)
-- [Effortless Refactoring in Vue.js: A Guide to Vue Mess Detector](https://dev.to/davidpena/effortless-refactoring-in-vuejs-a-guide-to-vue-mess-detector-5756)
-- [What is Hoisting?](https://dev.to/mojahidulislam11/what-is-hoisting-134a)
-- [anyone can explain what is the key difference between async/await with Promise.all&lpar;&rpar; and promise.allSettled&lpar;&rpar;...?](https://dev.to/black_shadow_5d6873459676/anyone-can-explain-what-is-the-key-difference-between-asyncawait-with-promiseall-and-promiseallsettled-3cce)
+- [Spending Less Time on Boilerplate with Blackbird](https://dev.to/getambassador2024/spending-less-time-on-boilerplate-with-blackbird-1c8)
+- [7 Open Source Projects You Should Know - Python Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c)
+- [Multi-Stage Dockerfiles](https://dev.to/kalkwst/multi-stage-dockerfiles-3e90)
+- [Personal website built with MERN stack](https://dev.to/sebin_song_c92c8293860d57/personal-website-built-with-mern-stack-m01)
 <!-- BLOG-POST-LIST:END -->
 
