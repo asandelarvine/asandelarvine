@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supersaas - A fast, modern, and easy to use Nuxt 3 starter kit.](https://dev.to/fayaz/supersaas-a-fast-modern-and-easy-to-use-nuxt-3-starter-kit-lh2)
-- [Receipt of Deceit: A Tale of Unencrypted RDS Database Blunders and Why You Should Encrypt Data-in-Transit](https://dev.to/femolacaster/receipt-of-deceit-a-tale-of-unencrypted-rds-database-blunders-and-why-you-should-encrypt-data-in-transit-13di)
-- [Moving User Management from In-House to a Product: Why We Did It and What We Learned](https://dev.to/empe/moving-user-management-from-in-house-to-a-product-why-we-did-it-and-what-we-learned-4o8m)
-- [don&#39;t look](https://dev.to/thesameeric/dont-look-3p57)
+- [Desbravando o poder do markdown](https://dev.to/kauefraga/desbravando-o-poder-do-markdown-3jne)
+- [Suggestions for client website](https://dev.to/ismailyaman/suggestions-for-client-website-akk)
+- [Create an Azure Virtual Machine using an ARM Template](https://dev.to/adeola_adebari/create-an-azure-virtual-machine-using-an-arm-template-1jna)
+- [703. Kth Largest Element in a Stream](https://dev.to/mdarifulhaque/703-kth-largest-element-in-a-stream-3ck0)
 <!-- BLOG-POST-LIST:END -->
 
