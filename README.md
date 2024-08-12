@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbravando o poder do markdown](https://dev.to/kauefraga/desbravando-o-poder-do-markdown-3jne)
-- [Suggestions for client website](https://dev.to/ismailyaman/suggestions-for-client-website-akk)
-- [Create an Azure Virtual Machine using an ARM Template](https://dev.to/adeola_adebari/create-an-azure-virtual-machine-using-an-arm-template-1jna)
-- [703. Kth Largest Element in a Stream](https://dev.to/mdarifulhaque/703-kth-largest-element-in-a-stream-3ck0)
+- [Apple notes is my CMS](https://dev.to/julien41/apple-notes-is-my-cms-4lbl)
+- [Han Solo Digital Galaxy.](https://dev.to/faldesign/han-solo-digital-galaxy-2o0l)
+- [S1E2: 𝐂𝐨𝐝𝐞 &amp; 𝐃𝐞𝐩𝐥𝐨𝐲 - 𝐁𝐮𝐢𝐥𝐝 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐆𝐞𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐇𝐚𝐲𝐬𝐭𝐚𝐜𝐤](https://dev.to/eze_lanza/--5adc)
+- [The Path to Coding Mastery A Beginner&#39;s Guide](https://dev.to/aigamer/the-path-to-coding-mastery-a-beginners-guide-18od)
 <!-- BLOG-POST-LIST:END -->
 
