@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Efficient Jenkins + Docker + Vue Project Automated Deployment Environment](https://dev.to/zand/building-an-efficient-jenkins-docker-vue-project-automated-deployment-environment-2c0l)
-- [Test-Driven Development with Jest](https://dev.to/kartikmehta8/test-driven-development-with-jest-o12)
-- [Hello World!, Hello Dev!](https://dev.to/reezecodee/hello-world-hello-dev-1fo7)
-- [A Importância de Sistematizar a geração de Log nas Aplicações](https://dev.to/asouza/a-importancia-de-sistematizar-a-geracao-de-log-nas-aplicacoes-47o8)
+- [AutoDocument - Open-Source Mail Merge Alternative](https://dev.to/harlekuin/autodocument-open-source-mail-merge-alternative-1o9f)
+- [Qualcomm Linux : A Toolkit for Developers](https://dev.to/dhaval_m_mehta/qualcomm-linux-a-toolkit-for-developers-i9k)
+- [Introduction to QR Codes](https://dev.to/tf4793/introduction-to-qr-codes-2deg)
+- [As a Developer: What to Do and What to Steer Clear Of](https://dev.to/dipakahirav/as-a-developer-what-to-do-and-what-to-steer-clear-of-p7i)
 <!-- BLOG-POST-LIST:END -->
 
