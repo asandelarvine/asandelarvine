@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI: An overview of common LLM benchmarks](https://dev.to/hmcodes/ai-an-overview-of-common-llm-benchmarks-3i7b)
-- [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://dev.to/furkangozukara/birefnet-state-of-the-art-newest-very-best-background-batch-remover-app-19k1)
-- [VoteVault: Our Journey from a Lunchtime Idea to dApp](https://dev.to/gr1ll/votevault-our-journey-from-a-lunchtime-idea-to-dapp-2opf)
-- [From Introvert to Tech: A Journey of Personal Growth and Community Connection](https://dev.to/madev7/from-introvert-to-tech-a-journey-of-personal-growth-and-community-connection-2me8)
+- [Building an Efficient Jenkins + Docker + Vue Project Automated Deployment Environment](https://dev.to/zand/building-an-efficient-jenkins-docker-vue-project-automated-deployment-environment-2c0l)
+- [Test-Driven Development with Jest](https://dev.to/kartikmehta8/test-driven-development-with-jest-o12)
+- [Hello World!, Hello Dev!](https://dev.to/reezecodee/hello-world-hello-dev-1fo7)
+- [A Importância de Sistematizar a geração de Log nas Aplicações](https://dev.to/asouza/a-importancia-de-sistematizar-a-geracao-de-log-nas-aplicacoes-47o8)
 <!-- BLOG-POST-LIST:END -->
 
