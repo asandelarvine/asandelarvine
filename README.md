@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learnings on tech leading: Asking questions that illuminate uncertainty](https://dev.to/kaityhallman/learnings-on-tech-leading-asking-questions-that-illuminate-uncertainty-3kif)
-- [Report on Exploratory Data Analysis &lpar;EDA&rpar; of Weather Dataset](https://dev.to/emmanuel_b/report-on-exploratory-data-analysis-eda-of-weather-dataset-15l)
-- [Fetching and Updating Solana Wallet Balances](https://dev.to/sumana10/fetching-and-updating-solana-wallet-balances-4epk)
-- [Requisitos funcionais e não Funcionais](https://dev.to/noejunior299/requisitos-funcionais-e-nao-funcionais-2l)
+- [The Future of Web Development: Emerging Trends and Technologies Every Developer Should Know](https://dev.to/rashedulhridoy/the-future-of-web-development-emerging-trends-and-technologies-every-developer-should-know-1ceb)
+- [Configuring Multiple Ports With Nginx Reverse Proxies on the Same Domain](https://dev.to/aws-builders/configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga)
+- [Fixing CORS in your SPA](https://dev.to/eslachance/fixing-cors-in-your-spa-dfg)
+- [10 important things you should know about health](https://dev.to/david_odo_90bf88541f6fd15/10-important-things-you-should-know-about-health-l2m)
 <!-- BLOG-POST-LIST:END -->
 
