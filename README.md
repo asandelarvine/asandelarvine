@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Firebase Shortcut: Simplifying Next.js Authentication](https://dev.to/proflead/the-firebase-shortcut-simplifying-nextjs-authentication-4d)
-- [NMS Migration Made Easy: Gathering Information](https://dev.to/adatole/nms-migration-made-easy-gathering-information-54kn)
-- [tea-tasting: a Python package for the statistical analysis of A/B tests](https://dev.to/e10v/tea-tasting-a-python-package-for-the-statistical-analysis-of-ab-tests-4fnj)
-- [How to Use the Broadcast Channel API for Real-Time Communication Across Browser Windows](https://dev.to/rigalpatel001/how-to-use-the-broadcast-channel-api-for-real-time-communication-across-browser-windows-23if)
+- [The activation functions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/the-activation-functions-in-pytorch-1-lm6)
+- [🎓 Understanding the Difference Between Checked and Unchecked Exceptions in Java 🚀](https://dev.to/felipejansendeveloper/understanding-the-difference-between-checked-and-unchecked-exceptions-in-java-bph)
+- [🛠️ A New Era of Data Technology —— Explore Innic, the World&#39;s First AI Database GUI for DuckDB](https://dev.to/innicdata/a-new-era-of-data-technology-explore-innic-the-worlds-first-ai-database-gui-for-duckdb-54fl)
+- [Meme Monday](https://dev.to/ben/meme-monday-el7)
 <!-- BLOG-POST-LIST:END -->
 
