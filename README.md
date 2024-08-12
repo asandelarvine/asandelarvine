@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Enterprise Ready Power Platform](https://dev.to/wyattdave/setting-up-a-enterprise-ready-power-platform-4pma)
-- [Perl Weekly #681 - GitHub and Perl](https://dev.to/szabgab/perl-weekly-681-github-and-perl-5af3)
-- [Simple Wikipedia Search App with Streamlit 🐍🕸️💻](https://dev.to/kammarianand/simple-wikipedia-search-app-with-streamlit-537h)
-- [User Journey Mapping: How and Why Does it Matter for Your Business?](https://dev.to/pepper_square/user-journey-mapping-how-and-why-does-it-matter-for-your-business-15k9)
+- [After Effects: Text Animation And The Expression Selector](https://dev.to/kocreative/after-effects-text-animation-and-the-expression-selector-a2l)
+- [How to create a JavaScript-free modal popup with only Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-javascript-free-modal-popup-with-only-tailwind-css-5di9)
+- [Freeware: Java Utility Package &lpar;Version 2024.08.12&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20240812-released-ih3)
+- [How to reverse a linked list in simple and optimal way in java](https://dev.to/shivam_tyagi/how-to-reverse-a-linked-list-in-simple-and-optimal-way-in-java-o8k)
 <!-- BLOG-POST-LIST:END -->
 
