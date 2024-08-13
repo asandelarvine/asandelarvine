@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React useOptimistic: Harnessing the power of snappy UIs!](https://dev.to/bolajibolajoko51/react-useoptimistic-harnessing-the-power-of-snappy-uis-9jb)
-- [From Real Estate to Ruby - Why I Chose Ruby on Rails](https://dev.to/codebyblazej/from-real-estate-to-ruby-why-i-chose-ruby-on-rails-1gj1)
-- [5 Popular Automation Tools Used to Test React Native Apps](https://dev.to/berthaw82414312/5-popular-automation-tools-used-to-test-react-native-apps-450a)
-- [Tech for Accessibility: Paving the Way to an Inclusive Future](https://dev.to/eazealliance/tech-for-accessibility-paving-the-way-to-an-inclusive-future-o21)
+- [#44 — Group Rows And Combine Non-Null Values in Each of The Non-Grouping Columns](https://dev.to/judith677/44-group-rows-and-combine-non-null-values-in-each-of-the-non-grouping-columns-1lce)
+- [Getting Started with NPM &lpar;Node Package Manager&rpar; for Beginners](https://dev.to/dhananjaywarade/getting-started-with-npm-node-package-manager-for-beginners-13m)
+- [Mac Programmers — Tips for Improving Productivity](https://dev.to/violet_alexander_a4a3e5dd/mac-programmers-tips-for-improving-productivity-191e)
+- [Flattening a Deeply Nested Object: A Step-by-Step Guide](https://dev.to/dey24/flattening-a-deeply-nested-object-a-step-by-step-guide-163g)
 <!-- BLOG-POST-LIST:END -->
 
