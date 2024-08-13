@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-5a58)
-- [El precio del software libre para un programador](https://dev.to/sevir/el-precio-del-software-libre-para-un-programador-1p15)
-- [What is Face Recognition and How does Face Recognition Work?](https://dev.to/luxandcloud/what-is-face-recognition-and-how-does-face-recognition-work-2lb4)
-- [Lightweight python library for scraping with LLMs](https://dev.to/raznem/lightweight-python-library-for-scraping-with-llms-1e6)
+- [Building Your Discord Bot with Discord.js v14: A Quick Start Guide ⚡️](https://dev.to/danteon/building-your-discord-bot-with-discordjs-v14-a-quick-start-guide-8ke)
+- [Micronaut vs. Spring Boot: A Detailed Comparison](https://dev.to/adaumircosta/micronaut-vs-spring-boot-a-detailed-comparison-4og5)
+- [ISP Proxies vs Residential Proxies: Main differences](https://dev.to/oxylabs-io/isp-proxies-vs-residential-proxies-main-differences-40hp)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-8ip)
 <!-- BLOG-POST-LIST:END -->
 
