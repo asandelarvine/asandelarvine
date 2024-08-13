@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exciting New Features in Shepherd Pro&#39;s Latest Beta Release](https://dev.to/chuckcarpenter/exciting-new-features-in-shepherd-pros-latest-beta-release-3g22)
-- [Teste de fogo: fatorial recursivo](https://dev.to/alexgarzao/teste-de-fogo-fatorial-recursivo-1hin)
-- [2024-08-13: Finally out](https://dev.to/armantark/2024-08-13-finally-out-ncg)
-- [Breaking a TOTP?](https://dev.to/not-so-genius/breaking-a-totp-2h9a)
+- [What Testing Frameworks or Methodologies are Most Effective for Backend Testing?](https://dev.to/shieldstring/what-testing-frameworks-or-methodologies-are-most-effective-for-backend-testing-1aj6)
+- [20 New SDXL Fine Tuning Tests and Their Results &lpar;Better Workflow Obtained and Published&rpar;](https://dev.to/furkangozukara/20-new-sdxl-fine-tuning-tests-and-their-results-better-workflow-obtained-and-published-13k4)
+- [🚀 Day 15: Building Tip Calculator with Rect 🚀](https://dev.to/mayureshsurve/day-15-building-tip-calculator-with-rect-1n19)
+- [Effective API Error Handling](https://dev.to/hedley_balance/effective-api-error-handling-2272)
 <!-- BLOG-POST-LIST:END -->
 
