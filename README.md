@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Discord Bot with Discord.js v14: A Quick Start Guide ⚡️](https://dev.to/danteon/building-your-discord-bot-with-discordjs-v14-a-quick-start-guide-8ke)
-- [Micronaut vs. Spring Boot: A Detailed Comparison](https://dev.to/adaumircosta/micronaut-vs-spring-boot-a-detailed-comparison-4og5)
-- [ISP Proxies vs Residential Proxies: Main differences](https://dev.to/oxylabs-io/isp-proxies-vs-residential-proxies-main-differences-40hp)
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-8ip)
+- [🚀 Have you every made a library? Share it!](https://dev.to/best_codes/have-you-every-made-a-library-share-it-a15)
+- [A Comprehensive and User-Friendly Project README.md Template](https://dev.to/zand/a-comprehensive-and-user-friendly-project-readmemd-template-2ei8)
+- [7 Tools Worth Trying, Have You Used Them?](https://dev.to/lunamiller/7-tools-worth-trying-have-you-used-them-3m7e)
+- [how to connect dev community user&#39;s published post using api and reactjs](https://dev.to/kyawmintun96/how-to-connect-dev-community-users-published-post-using-api-and-reactjs-9af)
 <!-- BLOG-POST-LIST:END -->
 
