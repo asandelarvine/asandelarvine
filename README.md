@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Creation of Rooh London: Journey, Challenges, and Future Goals](https://dev.to/echormbringer/the-creation-of-rooh-london-journey-challenges-and-future-goals-3enf)
-- [ES - CAT APIs](https://dev.to/mallikarjunht/es-cat-apis-ilp)
-- [Project: Spreadsheet To Video, Kinetic Text](https://dev.to/kocreative/project-spreadsheet-to-video-kinetic-text-4ad8)
-- [New improvements to my docker-like solution for macOS, 86/64 version.](https://dev.to/okerew/new-improvements-to-my-docker-like-solution-for-macos-8664-version-1nf0)
+- [Ibuprofeno.py💊| #160: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-160-explica-este-codigo-python-32op)
+- [Array methods in javascript.](https://dev.to/t_shivakumar_0dc86c6486c/array-methods-in-javascript-565h)
+- [How to Efficiently Process References in MongoDB with Mongoose](https://dev.to/starkprince/how-to-efficiently-process-references-in-mongodb-with-mongoose-1hhe)
+- [Issue with Vue Router Query Parameters Not Appearing in URL](https://dev.to/nasr_alyas/issue-with-vue-router-query-parameters-not-appearing-in-url-4j98)
 <!-- BLOG-POST-LIST:END -->
 
