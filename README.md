@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Container vs VM Differences | Docker Container](https://dev.to/clickit_devops/container-vs-vm-differences-docker-container-f1h)
-- [How to Create a Local RAG Agent with Ollama and LangChain](https://dev.to/dmuraco3/how-to-create-a-local-rag-agent-with-ollama-and-langchain-1m9a)
-- [How to handle large file uploads in SvelteKit using streams](https://dev.to/nenthor/how-to-handle-large-file-uploads-in-sveltekit-using-streams-52ea)
-- [Les composants d’un Navigateur Web](https://dev.to/tontz/les-composants-dun-navigateur-web-opg)
+- [Exploring Kubernetes: Architecture and Use Cases](https://dev.to/citrux-digital/exploring-kubernetes-architecture-and-use-cases-25hf)
+- [React with Vite On Steroids](https://dev.to/ricardogesteves/react-with-vite-on-steroids-4nh0)
+- [Solana Wallet Management with TypeScript](https://dev.to/sumana10/solana-wallet-management-with-typescript-213e)
+- [Event Loop and Concurrency in JavaScript](https://dev.to/rahulvijayvergiya/event-loop-and-concurrency-in-javascript-3flf)
 <!-- BLOG-POST-LIST:END -->
 
