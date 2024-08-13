@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to React](https://dev.to/jae_jeong_56b53bffb105974/intro-to-react-2n0)
-- [Fire and Forget Strategy for non blocking long running tasks](https://dev.to/souvikk27/fire-and-forget-strategy-for-non-blocking-long-running-tasks-5b1o)
-- [GLPI - Closing Ticket with API](https://dev.to/joaoprd/glpi-closing-ticket-with-api-4mpk)
-- [Understanding the Kubernetes Readiness Probe: A Tool for Application Health](https://dev.to/karinababcock/understanding-the-kubernetes-readiness-probe-a-tool-for-application-health-3jfc)
+- [Exciting New Features in Shepherd Pro&#39;s Latest Beta Release](https://dev.to/chuckcarpenter/exciting-new-features-in-shepherd-pros-latest-beta-release-3g22)
+- [Teste de fogo: fatorial recursivo](https://dev.to/alexgarzao/teste-de-fogo-fatorial-recursivo-1hin)
+- [2024-08-13: Finally out](https://dev.to/armantark/2024-08-13-finally-out-ncg)
+- [Breaking a TOTP?](https://dev.to/not-so-genius/breaking-a-totp-2h9a)
 <!-- BLOG-POST-LIST:END -->
 
