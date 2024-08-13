@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Demystified: Understanding CI/CD Pipelines and Essential Tools](https://dev.to/ayush200704/devops-demystified-understanding-cicd-pipelines-and-essential-tools-5f37)
-- [Integrating GraphQL with Apollo in React: A Complete Guide](https://dev.to/nayane_menezes_e70c72b54/integrating-graphql-with-apollo-in-react-a-complete-guide-56ka)
-- [Basic guide of Langchain Concepts](https://dev.to/fabianrod/basic-guide-of-langchain-concepts-39bm)
-- [Criando um módulo com Swift Package Manager](https://dev.to/lys/criando-um-modulo-com-swift-package-manager-3cga)
+- [#43 - Find the Difference Between Two Strings](https://dev.to/judith677/43-find-the-difference-between-two-strings-416o)
+- [🚀 Day 14: Scaling Up with useReducer and Context API 🚀](https://dev.to/mayureshsurve/day-13-scaling-up-with-usereducer-and-context-api-4lk9)
+- [Data Analysis with Python and Pandas](https://dev.to/kartikmehta8/data-analysis-with-python-and-pandas-1ppi)
+- [Nuke: Deploy ASP. NET Web App to Azure](https://dev.to/raulnq/nuke-deploy-asp-net-web-app-to-azure-351)
 <!-- BLOG-POST-LIST:END -->
 
