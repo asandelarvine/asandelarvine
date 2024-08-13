@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding YAGNI &lpar;You Aren’t Gonna Need It&rpar;](https://dev.to/shagun/understanding-yagni-you-arent-gonna-need-it-4165)
-- [Exploratory Data Analysis using SQL](https://dev.to/allan-pg/exploratory-data-analysis-using-sql-23dl)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/nyagabree003/understanding-your-data-the-essentials-of-exploratory-data-analysis-h04)
-- [Dart&#39;s Powerful CLI: Mastering the `pub unpack` Command](https://dev.to/paulinofonseca/darts-powerful-cli-mastering-the-pub-unpack-command-3l4d)
+- [How to Install and Configure SafeLine WAF: A Quick Start Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-install-and-configure-safeline-waf-a-quick-start-guide-k5h)
+- [Implementing Authentication in Next.js: Comparing Different Strategies](https://dev.to/a_shokn/implementing-authentication-in-nextjs-comparing-different-strategies-4phm)
+- [Beginner&#39;s Guide to Python: From Installation to Understanding Variables](https://dev.to/jobreadyprogrammer/beginners-guide-to-python-from-installation-to-understanding-variables-99a)
+- [Retrieve multiple columns from a csv file to generate a new file #eg23](https://dev.to/esproc_spl/retrieve-multiple-columns-from-a-csv-file-to-generate-a-new-file-eg23-10di)
 <!-- BLOG-POST-LIST:END -->
 
