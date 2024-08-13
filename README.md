@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#44 — Group Rows And Combine Non-Null Values in Each of The Non-Grouping Columns](https://dev.to/judith677/44-group-rows-and-combine-non-null-values-in-each-of-the-non-grouping-columns-1lce)
-- [Getting Started with NPM &lpar;Node Package Manager&rpar; for Beginners](https://dev.to/dhananjaywarade/getting-started-with-npm-node-package-manager-for-beginners-13m)
-- [Mac Programmers — Tips for Improving Productivity](https://dev.to/violet_alexander_a4a3e5dd/mac-programmers-tips-for-improving-productivity-191e)
-- [Flattening a Deeply Nested Object: A Step-by-Step Guide](https://dev.to/dey24/flattening-a-deeply-nested-object-a-step-by-step-guide-163g)
+- [Understanding YAGNI &lpar;You Aren’t Gonna Need It&rpar;](https://dev.to/shagun/understanding-yagni-you-arent-gonna-need-it-4165)
+- [Exploratory Data Analysis using SQL](https://dev.to/allan-pg/exploratory-data-analysis-using-sql-23dl)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/nyagabree003/understanding-your-data-the-essentials-of-exploratory-data-analysis-h04)
+- [Dart&#39;s Powerful CLI: Mastering the `pub unpack` Command](https://dev.to/paulinofonseca/darts-powerful-cli-mastering-the-pub-unpack-command-3l4d)
 <!-- BLOG-POST-LIST:END -->
 
