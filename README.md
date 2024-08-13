@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fortify and Safely Test Your Website Against Hackers](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-fortify-and-safely-test-your-website-against-hackers-28jo)
-- [How I Made My Laravel Project More Efficient!](https://dev.to/reasnovynt/how-i-made-my-laravel-project-more-efficient-3n51)
-- [My Development Journey: From Novice to Developer](https://dev.to/sakibreza229/my-development-journey-from-novice-to-developer-24m5)
-- [Design A Paste Bin](https://dev.to/zeeshanali0704/paste-bin-13c)
+- [Beyond FAQs: How AI Transforms Developer Support and Ignites Community Engagement](https://dev.to/rakeshdoc-e/beyond-faqs-how-ai-transforms-developer-support-and-ignites-community-engagement-5hh)
+- [10+ Advanced Project Ideas for Developers: Challenge Your Skills!](https://dev.to/lokesh_singh/10-advanced-project-ideas-for-developers-challenge-your-skills-2869)
+- [Liman 2.1 Ağ İzleme Eklentisi Ayarları](https://dev.to/aciklab/liman-21-ag-izleme-eklentisi-ayarlari-2kbd)
+- [Init](https://dev.to/theqwertypusher/init-1ljg)
 <!-- BLOG-POST-LIST:END -->
 
