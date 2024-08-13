@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Assign Custom Product Type to Group Product?](https://dev.to/upper_backlinks_efc887cd5/how-to-assign-custom-product-type-to-group-product-4bm9)
-- [LLM Chatbots Could Lead Witnesses to Form False Memories, Study Warns](https://dev.to/mikeyoung44/llm-chatbots-could-lead-witnesses-to-form-false-memories-study-warns-22p)
-- [AI Scientist Enables Fully Automated Open-Ended Scientific Discovery](https://dev.to/mikeyoung44/ai-scientist-enables-fully-automated-open-ended-scientific-discovery-33l5)
-- [ToolSandbox: Realistic Interactive Benchmark for Evaluating LLM Tool Use Capabilities](https://dev.to/mikeyoung44/toolsandbox-realistic-interactive-benchmark-for-evaluating-llm-tool-use-capabilities-3b8l)
+- [GitHub for Beginners: A Step-by-Step Guide](https://dev.to/vauntdev/github-for-beginners-a-step-by-step-guide-f6j)
+- [Best IDE for Flutter framework?](https://dev.to/aadarshk7/best-ide-for-flutter-framework-5hj2)
+- [Chapter 2 - Get Started With Git](https://dev.to/yusbuntu/chapter-2-get-started-with-git-416n)
+- [I&#39;ll be speaking at Major League Hacking &lpar;MLH&rpar; Hackcon 2024!](https://dev.to/1grace/ill-be-speaking-at-major-league-hacking-mlh-hackcon-2024-5ge5)
 <!-- BLOG-POST-LIST:END -->
 
