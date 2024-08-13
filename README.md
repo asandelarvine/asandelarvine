@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #160: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-160-explica-este-codigo-python-32op)
-- [Array methods in javascript.](https://dev.to/t_shivakumar_0dc86c6486c/array-methods-in-javascript-565h)
-- [How to Efficiently Process References in MongoDB with Mongoose](https://dev.to/starkprince/how-to-efficiently-process-references-in-mongodb-with-mongoose-1hhe)
-- [Issue with Vue Router Query Parameters Not Appearing in URL](https://dev.to/nasr_alyas/issue-with-vue-router-query-parameters-not-appearing-in-url-4j98)
+- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-5a58)
+- [El precio del software libre para un programador](https://dev.to/sevir/el-precio-del-software-libre-para-un-programador-1p15)
+- [What is Face Recognition and How does Face Recognition Work?](https://dev.to/luxandcloud/what-is-face-recognition-and-how-does-face-recognition-work-2lb4)
+- [Lightweight python library for scraping with LLMs](https://dev.to/raznem/lightweight-python-library-for-scraping-with-llms-1e6)
 <!-- BLOG-POST-LIST:END -->
 
