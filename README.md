@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond FAQs: How AI Transforms Developer Support and Ignites Community Engagement](https://dev.to/rakeshdoc-e/beyond-faqs-how-ai-transforms-developer-support-and-ignites-community-engagement-5hh)
-- [10+ Advanced Project Ideas for Developers: Challenge Your Skills!](https://dev.to/lokesh_singh/10-advanced-project-ideas-for-developers-challenge-your-skills-2869)
-- [Liman 2.1 Ağ İzleme Eklentisi Ayarları](https://dev.to/aciklab/liman-21-ag-izleme-eklentisi-ayarlari-2kbd)
-- [Init](https://dev.to/theqwertypusher/init-1ljg)
+- [React useOptimistic: Harnessing the power of snappy UIs!](https://dev.to/bolajibolajoko51/react-useoptimistic-harnessing-the-power-of-snappy-uis-9jb)
+- [From Real Estate to Ruby - Why I Chose Ruby on Rails](https://dev.to/codebyblazej/from-real-estate-to-ruby-why-i-chose-ruby-on-rails-1gj1)
+- [5 Popular Automation Tools Used to Test React Native Apps](https://dev.to/berthaw82414312/5-popular-automation-tools-used-to-test-react-native-apps-450a)
+- [Tech for Accessibility: Paving the Way to an Inclusive Future](https://dev.to/eazealliance/tech-for-accessibility-paving-the-way-to-an-inclusive-future-o21)
 <!-- BLOG-POST-LIST:END -->
 
