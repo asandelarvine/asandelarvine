@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Conectar ao Azure Table Storage e Manipular Dados com PySpark](https://dev.to/madrade1472/como-conectar-ao-azure-table-storage-e-manipular-dados-com-pyspark-5fba)
-- [👨‍🔧 7 Must-Know Algorithms Concepts to Ace a Coding Interview:](https://dev.to/prasanth_k/7-must-know-algorithms-concepts-to-ace-a-coding-interview-3f1l)
-- [Dipping into Unreal Engine After Learning Unity - Part 1](https://dev.to/angelarodriguezz/dipping-into-unreal-engine-after-learning-unity-part-1-15ge)
-- [Pattern Printing](https://dev.to/rohiitbagal/pattern-printing-bik)
+- [Switching from Windows 11 to Linux Ubuntu](https://dev.to/sayed_touati/switching-from-windows-11-to-linux-ubuntu-3ld8)
+- [Boost Your App Efficiency with GraphQL and React: A Deep Dive](https://dev.to/tl23143/boost-your-app-efficiency-with-graphql-and-react-a-deep-dive-155c)
+- [Deploying a React application to GitHub Pages](https://dev.to/ceedotech/deploying-a-react-application-to-github-3ipm)
+- [Mastering Bash Scripting in DevOps – Essential Scripts for Production : Day 27 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/mastering-bash-scripting-in-devops-essential-scripts-for-production-day-27-of-50-days-devops-tools-series-2h3p)
 <!-- BLOG-POST-LIST:END -->
 
