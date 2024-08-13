@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#43 - Find the Difference Between Two Strings](https://dev.to/judith677/43-find-the-difference-between-two-strings-416o)
-- [🚀 Day 14: Scaling Up with useReducer and Context API 🚀](https://dev.to/mayureshsurve/day-13-scaling-up-with-usereducer-and-context-api-4lk9)
-- [Data Analysis with Python and Pandas](https://dev.to/kartikmehta8/data-analysis-with-python-and-pandas-1ppi)
-- [Nuke: Deploy ASP. NET Web App to Azure](https://dev.to/raulnq/nuke-deploy-asp-net-web-app-to-azure-351)
+- [Como Conectar ao Azure Table Storage e Manipular Dados com PySpark](https://dev.to/madrade1472/como-conectar-ao-azure-table-storage-e-manipular-dados-com-pyspark-5fba)
+- [👨‍🔧 7 Must-Know Algorithms Concepts to Ace a Coding Interview:](https://dev.to/prasanth_k/7-must-know-algorithms-concepts-to-ace-a-coding-interview-3f1l)
+- [Dipping into Unreal Engine After Learning Unity - Part 1](https://dev.to/angelarodriguezz/dipping-into-unreal-engine-after-learning-unity-part-1-15ge)
+- [Pattern Printing](https://dev.to/rohiitbagal/pattern-printing-bik)
 <!-- BLOG-POST-LIST:END -->
 
