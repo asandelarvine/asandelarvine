@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Unlocked: Beginners&#39; Spawn Point](https://dev.to/0xshr00msz/django-unlocked-beginners-spawn-point-5g5e)
-- [From Rows and Columns to Vectors: The Evolutionary Journey of Database Technologies](https://dev.to/zilliz/from-rows-and-columns-to-vectors-the-evolutionary-journey-of-database-technologies-2e64)
-- [Nested Layouts with Ruby on Rails](https://dev.to/railsdesigner/nested-layouts-with-ruby-on-rails-5889)
-- [Immutable Data Structures: Records and Tuples in ECMA 2024](https://dev.to/wendyver/immutable-data-structures-records-and-tuples-in-ecma-2024-1n39)
+- [How to Assign Custom Product Type to Group Product?](https://dev.to/upper_backlinks_efc887cd5/how-to-assign-custom-product-type-to-group-product-4bm9)
+- [LLM Chatbots Could Lead Witnesses to Form False Memories, Study Warns](https://dev.to/mikeyoung44/llm-chatbots-could-lead-witnesses-to-form-false-memories-study-warns-22p)
+- [AI Scientist Enables Fully Automated Open-Ended Scientific Discovery](https://dev.to/mikeyoung44/ai-scientist-enables-fully-automated-open-ended-scientific-discovery-33l5)
+- [ToolSandbox: Realistic Interactive Benchmark for Evaluating LLM Tool Use Capabilities](https://dev.to/mikeyoung44/toolsandbox-realistic-interactive-benchmark-for-evaluating-llm-tool-use-capabilities-3b8l)
 <!-- BLOG-POST-LIST:END -->
 
