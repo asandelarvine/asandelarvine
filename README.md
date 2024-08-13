@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My new commitment](https://dev.to/silje_a9b2d7dd03f41d0ccd2/my-new-commitment-1cgk)
-- [Introducing Oats~i - The Open Web Framework](https://dev.to/oatsi/introducing-oatsi-the-open-web-framework-2ehp)
-- [Configure Cross-Account Cross-Region AWS CloudWatch Dashboard](https://dev.to/aws-builders/configure-cross-account-cross-region-aws-cloudwatch-dashboard-4fgl)
-- [Organize your components and layouts in your pages-based Next.js application this way.](https://dev.to/thinkthroo/organize-your-components-and-layouts-in-your-pages-based-nextjs-application-this-way-2m4l)
+- [Intro to React](https://dev.to/jae_jeong_56b53bffb105974/intro-to-react-2n0)
+- [Fire and Forget Strategy for non blocking long running tasks](https://dev.to/souvikk27/fire-and-forget-strategy-for-non-blocking-long-running-tasks-5b1o)
+- [GLPI - Closing Ticket with API](https://dev.to/joaoprd/glpi-closing-ticket-with-api-4mpk)
+- [Understanding the Kubernetes Readiness Probe: A Tool for Application Health](https://dev.to/karinababcock/understanding-the-kubernetes-readiness-probe-a-tool-for-application-health-3jfc)
 <!-- BLOG-POST-LIST:END -->
 
