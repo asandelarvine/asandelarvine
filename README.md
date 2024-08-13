@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub for Beginners: A Step-by-Step Guide](https://dev.to/vauntdev/github-for-beginners-a-step-by-step-guide-f6j)
-- [Best IDE for Flutter framework?](https://dev.to/aadarshk7/best-ide-for-flutter-framework-5hj2)
-- [Chapter 2 - Get Started With Git](https://dev.to/yusbuntu/chapter-2-get-started-with-git-416n)
-- [I&#39;ll be speaking at Major League Hacking &lpar;MLH&rpar; Hackcon 2024!](https://dev.to/1grace/ill-be-speaking-at-major-league-hacking-mlh-hackcon-2024-5ge5)
+- [Container vs VM Differences | Docker Container](https://dev.to/clickit_devops/container-vs-vm-differences-docker-container-f1h)
+- [How to Create a Local RAG Agent with Ollama and LangChain](https://dev.to/dmuraco3/how-to-create-a-local-rag-agent-with-ollama-and-langchain-1m9a)
+- [How to handle large file uploads in SvelteKit using streams](https://dev.to/nenthor/how-to-handle-large-file-uploads-in-sveltekit-using-streams-52ea)
+- [Les composants d’un Navigateur Web](https://dev.to/tontz/les-composants-dun-navigateur-web-opg)
 <!-- BLOG-POST-LIST:END -->
 
