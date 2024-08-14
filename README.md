@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AuraSR GigaGAN 4x Upscaler Local &lpar;Windows&rpar;, Cloud &lpar;RunPod, Massed Compute, Kaggle&rpar; 1-Click Installers and Batch Processing App](https://dev.to/furkangozukara/aurasr-gigagan-4x-upscaler-local-windows-cloud-runpod-massed-compute-kaggle-1-click-installers-and-batch-processing-app-ech)
-- [JS stacks DS&amp;A intro](https://dev.to/cedsengine/js-stacks-dsa-intro-bl3)
-- [The OutSystems Model: Abstracting low-code into a visual language](https://dev.to/outsystems/the-outsystems-model-abstracting-low-code-into-a-visual-language-498p)
-- [.Env Files For Tech Noobs](https://dev.to/mohammed_kareem/env-files-for-tech-noobs-2g37)
+- [Day 1010 : Closing Time](https://dev.to/dwane/day-1010-closing-time-3anc)
+- [JWT - Concept for interviews](https://dev.to/ddiasfront/jwt-concept-for-interviews-27cn)
+- [Implementing a Doubly Linked List](https://dev.to/jihoonj/implementing-a-doubly-linked-list-3mlf)
+- [How to Test the Latest Kubernetes Changes in Version 1.31 &quot;Elli&quot;](https://dev.to/hkhelil/how-to-test-the-latest-kubernetes-changes-in-version-131-elli-39ec)
 <!-- BLOG-POST-LIST:END -->
 
