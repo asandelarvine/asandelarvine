@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Power of Pattern Matching with Switch in Java 21](https://dev.to/myexamcloud/exploring-the-power-of-pattern-matching-with-switch-in-java-21-506a)
-- [[DAY 105-107] I built a contacts manager using Node.js &amp; Express](https://dev.to/thomascansino/day-104-106-i-built-a-contacts-manager-using-nodejs-express-30m3)
-- [Rails Designer v1.3: Two New Components and Nested Forms Utility 🤯](https://dev.to/railsdesigner/rails-designer-v13-two-new-components-and-nested-forms-utility-2d4f)
-- [How to Stay Relevant as an Engineering Leader? End the Dilemma](https://dev.to/grocto/how-to-stay-relevant-as-an-engineering-leader-end-the-dilemma-2185)
+- [The Society of Robots](https://dev.to/bariscanatan/the-society-of-robots-3fp)
+- [6 Comandos de git que quizá no sabías](https://dev.to/bhyxen/6-comandos-de-git-que-quiza-no-sabias-237h)
+- [Ultimate CLI Cheatsheet](https://dev.to/mahf001/ultimate-cli-cheatsheet-1jgb)
+- [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
 <!-- BLOG-POST-LIST:END -->
 
