@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Numbers and Narratives: The Power of Tracking Your Open Source Journey and Telling Your Story](https://dev.to/opensauced/numbers-and-narratives-the-power-of-tracking-your-open-source-journey-and-telling-your-story-eji)
-- [Continuous Integration vs. Continuous Deployment: What’s the Difference?](https://dev.to/fizza_c3e734ee2a307cf35e5/continuous-integration-vs-continuous-deployment-whats-the-difference-995)
-- [Cómo crear un código QR para tu negocio: una guía paso a paso](https://dev.to/chrisopal/como-crear-un-codigo-qr-para-tu-negocio-una-guia-paso-a-paso-41g8)
-- [Why am I always getting lost in the basics of a language](https://dev.to/webjaja/why-am-i-always-getting-lost-in-the-basics-of-a-language-2bib)
+- [Creating and Managing Tasks with Asyncio](https://dev.to/koladev/creating-and-managing-tasks-with-asyncio-4kjl)
+- [Interview with Johans Justs Eris, Tauri Developer for Blenderbase at PhysicalAddons](https://dev.to/crabnebula/interview-with-johans-justs-eris-tauri-developer-for-blenderbase-at-physicaladdons-loh)
+- [Artificial Intelligence and Machine Learning.](https://dev.to/morgan_murimi_mithamo/artificial-intelligence-and-machine-learning-1poc)
+- [What is The Ternary Operator In JavaScript ?](https://dev.to/yns666/what-is-the-ternary-operator-in-javascript--392o)
 <!-- BLOG-POST-LIST:END -->
 
