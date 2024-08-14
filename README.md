@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Society of Robots](https://dev.to/bariscanatan/the-society-of-robots-3fp)
-- [6 Comandos de git que quizá no sabías](https://dev.to/bhyxen/6-comandos-de-git-que-quiza-no-sabias-237h)
-- [Ultimate CLI Cheatsheet](https://dev.to/mahf001/ultimate-cli-cheatsheet-1jgb)
-- [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
+- [Docker Advanced Techniques: Beyond the Basics](https://dev.to/rafaeljohn9/docker-advanced-techniques-beyond-the-basics-633)
+- [The PACS That Once Were](https://dev.to/femolacaster/the-pacs-that-once-were-4b3g)
+- [CSS Basics](https://dev.to/thekarlesi/css-basics-1261)
+- [Os Melhores Livros para Aprimorar Suas Habilidades em QA](https://dev.to/jojosuelobo/os-melhores-livros-para-aprimorar-suas-habilidades-em-qa-3h4f)
 <!-- BLOG-POST-LIST:END -->
 
