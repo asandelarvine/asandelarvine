@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating and Managing Tasks with Asyncio](https://dev.to/koladev/creating-and-managing-tasks-with-asyncio-4kjl)
-- [Interview with Johans Justs Eris, Tauri Developer for Blenderbase at PhysicalAddons](https://dev.to/crabnebula/interview-with-johans-justs-eris-tauri-developer-for-blenderbase-at-physicaladdons-loh)
-- [Artificial Intelligence and Machine Learning.](https://dev.to/morgan_murimi_mithamo/artificial-intelligence-and-machine-learning-1poc)
-- [What is The Ternary Operator In JavaScript ?](https://dev.to/yns666/what-is-the-ternary-operator-in-javascript--392o)
+- [Exploring the Power of Pattern Matching with Switch in Java 21](https://dev.to/myexamcloud/exploring-the-power-of-pattern-matching-with-switch-in-java-21-506a)
+- [[DAY 105-107] I built a contacts manager using Node.js &amp; Express](https://dev.to/thomascansino/day-104-106-i-built-a-contacts-manager-using-nodejs-express-30m3)
+- [Rails Designer v1.3: Two New Components and Nested Forms Utility 🤯](https://dev.to/railsdesigner/rails-designer-v13-two-new-components-and-nested-forms-utility-2d4f)
+- [How to Stay Relevant as an Engineering Leader? End the Dilemma](https://dev.to/grocto/how-to-stay-relevant-as-an-engineering-leader-end-the-dilemma-2185)
 <!-- BLOG-POST-LIST:END -->
 
