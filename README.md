@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Queue Implementation Using Javascript &lpar;Linked List&rpar;](https://dev.to/ashutoshsarangi/queue-implementation-using-javascript-linked-list-2mki)
-- [How to let ChatGPT call functions in your app](https://dev.to/encore/how-to-let-chatgpt-call-functions-in-your-app-27j8)
-- [From Chaos to Control: The Importance of Tailored Autoscaling in Kubernetes](https://dev.to/check/from-chaos-to-control-the-importance-of-tailored-autoscaling-in-kubernetes-2kpn)
-- [Common JavaScript Mistakes Developers Make](https://dev.to/shegz/common-javascript-mistakes-developers-make-e48)
+- [Introducing Games Data API](https://dev.to/devsdocs/introducing-game-data-api-3f5a)
+- [Kubernetes: A beginner&#39;s guide](https://dev.to/niharikaa/kubernetes-a-beginners-guide-jn1)
+- [7 Steps To Become A Prompt Engineer](https://dev.to/latitude/7-steps-to-become-a-prompt-engineer-4am8)
+- [SafeLine WAF: A Powerful Web Application Firewall](https://dev.to/sherbertill6/safeline-waf-a-powerful-web-application-firewall-24o1)
 <!-- BLOG-POST-LIST:END -->
 
