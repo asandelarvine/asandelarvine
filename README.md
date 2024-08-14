@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Shortcuts [Living Doc]](https://dev.to/mahf001/vs-code-shortcuts-living-doc-5fd5)
-- [What I have become able to do by studying English](https://dev.to/cress/what-i-had-become-able-to-do-by-studying-english-11kc)
-- [🔐🧩 Using let, const, and var in Your Code Development](https://dev.to/fonteeboa/using-let-const-and-var-in-your-code-development-4b9o)
-- [tohray - microblogging application in nim](https://dev.to/btbytes/tohray-microblogging-application-in-nim-23kl)
+- [Advanced Indexing Techniques with LlamaIndex and Ollama: Part 2](https://dev.to/jamesbmour/advanced-indexing-techniques-with-llamaindex-and-ollama-part-2-1d36)
+- [Build a small chat service using Elixir and deploy it on Amazon ec2 using AWS &lpar;Part 2&rpar;](https://dev.to/tam_ly/build-a-small-chat-service-using-elixir-and-deploy-it-on-amazon-ec2-using-aws-part-2-1j4a)
+- [My Thoughts on Karim Tahiroglu&#39;s Book &quot;I Want to Be a Programmer&quot;](https://dev.to/emaharramov/my-thoughts-on-karim-tahiroglus-book-i-want-to-be-a-programmer-468o)
+- [What is Asp.Net middleware in its simplest definition?](https://dev.to/emrekocadere/what-is-aspnet-middleware-in-its-simplest-definition-9gc)
 <!-- BLOG-POST-LIST:END -->
 
