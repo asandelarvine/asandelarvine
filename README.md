@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Games Data API](https://dev.to/devsdocs/introducing-game-data-api-3f5a)
-- [Kubernetes: A beginner&#39;s guide](https://dev.to/niharikaa/kubernetes-a-beginners-guide-jn1)
-- [7 Steps To Become A Prompt Engineer](https://dev.to/latitude/7-steps-to-become-a-prompt-engineer-4am8)
-- [SafeLine WAF: A Powerful Web Application Firewall](https://dev.to/sherbertill6/safeline-waf-a-powerful-web-application-firewall-24o1)
+- [How to Translate Your Next.js App in 5 Minutes With Crowdin](https://dev.to/zerodays/how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0)
+- [Ibuprofeno.py💊| #161: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-161-explica-este-codigo-python-c8b)
+- [Generative AI Virtual Agent Application Design](https://dev.to/diamondai/generative-ai-virtual-agent-application-design-4pkj)
+- [Maximizing Your Investment Strategy with Free Stock History Data API](https://dev.to/williamsmithh/maximizing-your-investment-strategy-with-free-stock-history-data-api-23e5)
 <!-- BLOG-POST-LIST:END -->
 
