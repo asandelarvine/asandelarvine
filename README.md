@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Indexing Techniques with LlamaIndex and Ollama: Part 2](https://dev.to/jamesbmour/advanced-indexing-techniques-with-llamaindex-and-ollama-part-2-1d36)
-- [Build a small chat service using Elixir and deploy it on Amazon ec2 using AWS &lpar;Part 2&rpar;](https://dev.to/tam_ly/build-a-small-chat-service-using-elixir-and-deploy-it-on-amazon-ec2-using-aws-part-2-1j4a)
-- [My Thoughts on Karim Tahiroglu&#39;s Book &quot;I Want to Be a Programmer&quot;](https://dev.to/emaharramov/my-thoughts-on-karim-tahiroglus-book-i-want-to-be-a-programmer-468o)
-- [What is Asp.Net middleware in its simplest definition?](https://dev.to/emrekocadere/what-is-aspnet-middleware-in-its-simplest-definition-9gc)
+- [Numbers and Narratives: The Power of Tracking Your Open Source Journey and Telling Your Story](https://dev.to/opensauced/numbers-and-narratives-the-power-of-tracking-your-open-source-journey-and-telling-your-story-eji)
+- [Continuous Integration vs. Continuous Deployment: What’s the Difference?](https://dev.to/fizza_c3e734ee2a307cf35e5/continuous-integration-vs-continuous-deployment-whats-the-difference-995)
+- [Cómo crear un código QR para tu negocio: una guía paso a paso](https://dev.to/chrisopal/como-crear-un-codigo-qr-para-tu-negocio-una-guia-paso-a-paso-41g8)
+- [Why am I always getting lost in the basics of a language](https://dev.to/webjaja/why-am-i-always-getting-lost-in-the-basics-of-a-language-2bib)
 <!-- BLOG-POST-LIST:END -->
 
