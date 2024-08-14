@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como somar horas no Google Sheets usando critérios para filtrar linhas?](https://dev.to/casewinter/como-somar-horas-no-google-sheets-usando-criterios-para-filtrar-linhas-364p)
-- [Abstractions: A Way of Thinking Programmatically](https://dev.to/koobimdi/abstractions-a-way-of-thinking-programmatically-3cdc)
-- [Getting Readable Crash Reports in Firebase Crashlytics from your Flutter Application](https://dev.to/thefullstackjonin/getting-readable-crash-reports-in-firebase-crashlytics-from-your-flutter-application-1pp0)
-- [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd)
+- [Give the celebrity open source project Nuxt, submit the whole process of the first PR of life🎉](https://dev.to/yxw007/give-the-celebrity-open-source-project-nuxt-submit-the-whole-process-of-the-first-pr-of-life-3d11)
+- [AWS Lambda with CloudFront: CORS, authorization and caching examples](https://dev.to/rimutaka/aws-lambda-with-cloudfront-cors-authorization-and-caching-examples-1i9c)
+- [Herb Substitutes: What to Use When You’re Out of Rosemary](https://dev.to/damilare_abogunrin/herb-substitutes-what-to-use-when-youre-out-of-rosemary-3b57)
+- [AWS Lambda with CloudFront configuration guide](https://dev.to/rimutaka/aws-lambda-with-cloudfront-configuration-guide-27lj)
 <!-- BLOG-POST-LIST:END -->
 
