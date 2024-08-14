@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Testing Frameworks or Methodologies are Most Effective for Backend Testing?](https://dev.to/shieldstring/what-testing-frameworks-or-methodologies-are-most-effective-for-backend-testing-1aj6)
-- [20 New SDXL Fine Tuning Tests and Their Results &lpar;Better Workflow Obtained and Published&rpar;](https://dev.to/furkangozukara/20-new-sdxl-fine-tuning-tests-and-their-results-better-workflow-obtained-and-published-13k4)
-- [🚀 Day 15: Building Tip Calculator with Rect 🚀](https://dev.to/mayureshsurve/day-15-building-tip-calculator-with-rect-1n19)
-- [Effective API Error Handling](https://dev.to/hedley_balance/effective-api-error-handling-2272)
+- [Como somar horas no Google Sheets usando critérios para filtrar linhas?](https://dev.to/casewinter/como-somar-horas-no-google-sheets-usando-criterios-para-filtrar-linhas-364p)
+- [Abstractions: A Way of Thinking Programmatically](https://dev.to/koobimdi/abstractions-a-way-of-thinking-programmatically-3cdc)
+- [Getting Readable Crash Reports in Firebase Crashlytics from your Flutter Application](https://dev.to/thefullstackjonin/getting-readable-crash-reports-in-firebase-crashlytics-from-your-flutter-application-1pp0)
+- [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd)
 <!-- BLOG-POST-LIST:END -->
 
