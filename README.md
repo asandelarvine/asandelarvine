@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forms Processing](https://dev.to/nitindahiyadev/forms-processing-2ki3)
-- [Clear duplicate lines and lines having missing values from a csv file #eg24](https://dev.to/esproc_spl/clear-duplicate-lines-and-lines-having-missing-values-from-a-csv-file-eg24-2d69)
-- [useCallback VS useMemo](https://dev.to/peteryuan/usecallback-vs-usememo-5gad)
-- [Building and Managing Production-Ready Apache Airflow: From Setup to Troubleshooting](https://dev.to/anshul_kichara/building-and-managing-production-ready-apache-airflow-from-setup-to-troubleshooting-b4k)
+- [Queue Implementation Using Javascript &lpar;Linked List&rpar;](https://dev.to/ashutoshsarangi/queue-implementation-using-javascript-linked-list-2mki)
+- [How to let ChatGPT call functions in your app](https://dev.to/encore/how-to-let-chatgpt-call-functions-in-your-app-27j8)
+- [From Chaos to Control: The Importance of Tailored Autoscaling in Kubernetes](https://dev.to/check/from-chaos-to-control-the-importance-of-tailored-autoscaling-in-kubernetes-2kpn)
+- [Common JavaScript Mistakes Developers Make](https://dev.to/shegz/common-javascript-mistakes-developers-make-e48)
 <!-- BLOG-POST-LIST:END -->
 
