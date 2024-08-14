@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Give the celebrity open source project Nuxt, submit the whole process of the first PR of life🎉](https://dev.to/yxw007/give-the-celebrity-open-source-project-nuxt-submit-the-whole-process-of-the-first-pr-of-life-3d11)
-- [AWS Lambda with CloudFront: CORS, authorization and caching examples](https://dev.to/rimutaka/aws-lambda-with-cloudfront-cors-authorization-and-caching-examples-1i9c)
-- [Herb Substitutes: What to Use When You’re Out of Rosemary](https://dev.to/damilare_abogunrin/herb-substitutes-what-to-use-when-youre-out-of-rosemary-3b57)
-- [AWS Lambda with CloudFront configuration guide](https://dev.to/rimutaka/aws-lambda-with-cloudfront-configuration-guide-27lj)
+- [How To Add ESLint In A React Project](https://dev.to/jenesh/how-to-add-eslint-to-a-react-project-601)
+- [Build an anti-spam, opt-in Email registration with Python](https://dev.to/therutkat/build-an-anti-spam-opt-in-email-registration-with-python-1034)
+- [Building Advanced APIs with GraphQL](https://dev.to/suhaspalani/building-advanced-apis-with-graphql-3nfl)
+- [Refactoring 101](https://dev.to/campbellgoe/refactoring-101-4i7c)
 <!-- BLOG-POST-LIST:END -->
 
