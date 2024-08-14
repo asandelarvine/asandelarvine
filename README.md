@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v289](https://dev.to/devteam/welcome-thread-v289-2ep7)
-- [Top 11 Open-Source API Documentation Tools](https://dev.to/apilover/top-11-open-source-api-documentation-tools-272i)
-- [Improving Developer Relations: The Impact of AI on SaaS Marketing](https://dev.to/rakeshdoc-e/improving-developer-relations-the-impact-of-ai-on-saas-marketing-1le6)
-- [Unleashing the Power of Python Scripting : Day 28 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/unleashing-the-power-of-python-scripting-day-28-of-50-days-devops-tools-series-10g6)
+- [The Future Is Now: 10 Technologies Set to Transform 2024 🚀](https://dev.to/lokesh_singh/the-future-is-now-10-technologies-set-to-transform-2024-b0)
+- [Understanding the Basics of Network Security: A Guide for Beginners🔍](https://dev.to/prathameshratthe/understanding-the-basics-of-network-security-a-guide-for-beginners-52fm)
+- [Objects: The King in JavaScript](https://dev.to/zain725342/objects-the-king-in-javascript-30n8)
+- [🚀Mastering JavaScript: Top 10 Concepts Every Developer Should Know!](https://dev.to/gadekar_sachin/mastering-javascript-top-10-concepts-every-developer-should-know-6ka)
 <!-- BLOG-POST-LIST:END -->
 
