@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 JavaScript Frameworks for 2024](https://dev.to/bizmavenhub/top-5-javascript-frameworks-for-2024-534m)
-- [React: The Powerhouse of Modern Front-end Development](https://dev.to/nickmokuadev/react-the-powerhouse-of-modern-front-end-development-266m)
-- [Competing with JSON.stringify - by building a custom one](https://dev.to/riturajborpujari/competing-with-jsonstringify-by-building-a-custom-one-53l5)
-- [How Corporate Greed Killed the Joy of Gaming for Gamers Worldwide](https://dev.to/soulis98/how-corporate-greed-killed-the-joy-of-gaming-for-gamers-worldwide-50k5)
+- [Why Irohub Infotech is the Best Python Training in Kochi](https://dev.to/liya4/why-irohub-infotech-is-the-best-python-training-in-kochi-1obc)
+- [Expo vs. React Native: Pros, Cons, and Key Differences](https://dev.to/codeparrot/expo-vs-react-native-pros-cons-and-key-differences-2805)
+- [DevNow：支持集成 Tina CMS](https://dev.to/laughingzhu/devnowzhi-chi-ji-cheng-tina-cms-1o66)
+- [How Gen AI makes a difference](https://dev.to/viksingh/how-gen-ai-makes-a-difference-5a98)
 <!-- BLOG-POST-LIST:END -->
 
