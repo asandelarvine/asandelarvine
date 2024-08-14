@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate Your Next.js App in 5 Minutes With Crowdin](https://dev.to/zerodays/how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0)
-- [Ibuprofeno.py💊| #161: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-161-explica-este-codigo-python-c8b)
-- [Generative AI Virtual Agent Application Design](https://dev.to/diamondai/generative-ai-virtual-agent-application-design-4pkj)
-- [Maximizing Your Investment Strategy with Free Stock History Data API](https://dev.to/williamsmithh/maximizing-your-investment-strategy-with-free-stock-history-data-api-23e5)
+- [VS Code Shortcuts [Living Doc]](https://dev.to/mahf001/vs-code-shortcuts-living-doc-5fd5)
+- [What I have become able to do by studying English](https://dev.to/cress/what-i-had-become-able-to-do-by-studying-english-11kc)
+- [🔐🧩 Using let, const, and var in Your Code Development](https://dev.to/fonteeboa/using-let-const-and-var-in-your-code-development-4b9o)
+- [tohray - microblogging application in nim](https://dev.to/btbytes/tohray-microblogging-application-in-nim-23kl)
 <!-- BLOG-POST-LIST:END -->
 
