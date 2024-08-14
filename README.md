@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Advanced Techniques: Beyond the Basics](https://dev.to/rafaeljohn9/docker-advanced-techniques-beyond-the-basics-633)
-- [The PACS That Once Were](https://dev.to/femolacaster/the-pacs-that-once-were-4b3g)
-- [CSS Basics](https://dev.to/thekarlesi/css-basics-1261)
-- [Os Melhores Livros para Aprimorar Suas Habilidades em QA](https://dev.to/jojosuelobo/os-melhores-livros-para-aprimorar-suas-habilidades-em-qa-3h4f)
+- [719. Find K-th Smallest Pair Distance](https://dev.to/mdarifulhaque/719-find-k-th-smallest-pair-distance-2pep)
+- [Optimize ETL Processes with Apache Iceberg: A Game Changer](https://dev.to/bainsla_0003/a-deep-dive-into-apache-iceberg-4afb)
+- [Problema encontrado durante o primeiro uso com Node.js e React com Visual Studio Code](https://dev.to/gusmedeirost/problema-encontrado-durante-o-primeiro-uso-com-nodejs-e-react-com-visual-studio-code-4657)
+- [How store signing keystore.](https://dev.to/kiolk/how-store-signing-keystore-4lan)
 <!-- BLOG-POST-LIST:END -->
 
