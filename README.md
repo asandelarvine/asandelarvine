@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailscale Kubernetes Operator](https://dev.to/grim/tailscale-kubernetes-operator-5c7o)
-- [TeleportHQ: Getting Started with a Powerful Low-Code Platform](https://dev.to/sarthak_niranjan_3bd6cb5f/teleporthq-getting-started-with-a-powerful-low-code-platform-262i)
-- [Some important concepts for Backend || Part 1](https://dev.to/akshat0610/some-important-concepts-for-backend-part-1-3cfd)
-- [Run &amp; Debug your LLM Apps locally using Ollama &amp; Llama 3.1](https://dev.to/yemi_adejumobi/run-debug-your-llm-apps-locally-using-ollama-llama-31-39mc)
+- [AuraSR GigaGAN 4x Upscaler Local &lpar;Windows&rpar;, Cloud &lpar;RunPod, Massed Compute, Kaggle&rpar; 1-Click Installers and Batch Processing App](https://dev.to/furkangozukara/aurasr-gigagan-4x-upscaler-local-windows-cloud-runpod-massed-compute-kaggle-1-click-installers-and-batch-processing-app-ech)
+- [JS stacks DS&amp;A intro](https://dev.to/cedsengine/js-stacks-dsa-intro-bl3)
+- [The OutSystems Model: Abstracting low-code into a visual language](https://dev.to/outsystems/the-outsystems-model-abstracting-low-code-into-a-visual-language-498p)
+- [.Env Files For Tech Noobs](https://dev.to/mohammed_kareem/env-files-for-tech-noobs-2g37)
 <!-- BLOG-POST-LIST:END -->
 
