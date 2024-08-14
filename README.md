@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Add ESLint In A React Project](https://dev.to/jenesh/how-to-add-eslint-to-a-react-project-601)
-- [Build an anti-spam, opt-in Email registration with Python](https://dev.to/therutkat/build-an-anti-spam-opt-in-email-registration-with-python-1034)
-- [Building Advanced APIs with GraphQL](https://dev.to/suhaspalani/building-advanced-apis-with-graphql-3nfl)
-- [Refactoring 101](https://dev.to/campbellgoe/refactoring-101-4i7c)
+- [Welcome Thread - v289](https://dev.to/devteam/welcome-thread-v289-2ep7)
+- [Top 11 Open-Source API Documentation Tools](https://dev.to/apilover/top-11-open-source-api-documentation-tools-272i)
+- [Improving Developer Relations: The Impact of AI on SaaS Marketing](https://dev.to/rakeshdoc-e/improving-developer-relations-the-impact-of-ai-on-saas-marketing-1le6)
+- [Unleashing the Power of Python Scripting : Day 28 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/unleashing-the-power-of-python-scripting-day-28-of-50-days-devops-tools-series-10g6)
 <!-- BLOG-POST-LIST:END -->
 
