@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #162: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-162-explica-este-codigo-python-2mj2)
-- [Getting Started with ReductStore in C++](https://dev.to/reductstore/getting-started-with-reductstore-in-c-eme)
-- [5 Best Tools for Automated Frontend Testing](https://dev.to/bizmavenhub/5-best-tools-for-automated-frontend-testing-1j82)
-- [Ephemeral self-hosted GitHub actions runners](https://dev.to/alvic/ephemeral-self-hosted-github-actions-runners-42ma)
+- [Eight Things You need to know Before Building On Stellar Blockchain](https://dev.to/ileolami/eight-things-you-need-to-know-before-building-on-stellar-blockchain-3487)
+- [What is channels and the benefits of using it when working with events](https://dev.to/superviz/what-is-channels-and-the-benefits-of-using-it-when-working-with-events-1j8g)
+- [Exploring `react-mui-sidebar`: A Comprehensive Guide for Developers](https://dev.to/hitesh_chauhan_42485a44af/exploring-react-mui-sidebar-a-comprehensive-guide-for-developers-778)
+- [Salaries, pensions, and allowances to increase from September 1](https://dev.to/mukhriddinweb/salaries-pensions-and-allowances-to-increase-from-september-1-407n)
 <!-- BLOG-POST-LIST:END -->
 
