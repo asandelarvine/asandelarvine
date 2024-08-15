@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We needed to run maintenance queries &lpar;SQL&rpar; with user input](https://dev.to/polysign_lu/we-needed-to-run-maintenance-queries-sql-with-user-input-26eh)
-- [How Amazon Uses AI Technology](https://dev.to/espinosa/how-amazon-uses-ai-technology-2i43)
-- [Someone can help me with angular?](https://dev.to/1gabrieldavi/someone-can-help-me-with-angular-55bj)
-- [Ultimate Git Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-cheatsheet-live-doc-1o3n)
+- [DVILLA E-Commerce Project: A dApp that promotes healthy living](https://dev.to/chielokacodes/dvilla-e-commerce-project-a-dapp-that-promotes-healthy-living-5cam)
+- [Oque é a atualização otimista de UI e por que você deveria usar em seu projeto.](https://dev.to/jrschmidtt/oque-e-a-atualizacao-otimista-de-ui-e-por-que-voce-deveria-usar-em-seu-projeto-po9)
+- [SageMath Installation](https://dev.to/samuellubliner/sagemath-installation-2pep)
+- [The current state of GitHub](https://dev.to/henriqueleite42/the-current-state-of-github-3dfp)
 <!-- BLOG-POST-LIST:END -->
 
