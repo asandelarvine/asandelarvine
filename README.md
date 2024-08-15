@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1010 : Closing Time](https://dev.to/dwane/day-1010-closing-time-3anc)
-- [JWT - Concept for interviews](https://dev.to/ddiasfront/jwt-concept-for-interviews-27cn)
-- [Implementing a Doubly Linked List](https://dev.to/jihoonj/implementing-a-doubly-linked-list-3mlf)
-- [How to Test the Latest Kubernetes Changes in Version 1.31 &quot;Elli&quot;](https://dev.to/hkhelil/how-to-test-the-latest-kubernetes-changes-in-version-131-elli-39ec)
+- [Today&#39;s Trending Projects: Backup MySQL Database with Mysqldump and More](https://dev.to/labex/todays-trending-projects-backup-mysql-database-with-mysqldump-and-more-5fj7)
+- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 2](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-2-4gga)
+- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 1](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-1-1eli)
+- [Implementing DataLoader and Understanding Its Advantages Over Lookup](https://dev.to/lusqua/implementing-dataloader-and-understanding-its-advantages-over-lookup-1phb)
 <!-- BLOG-POST-LIST:END -->
 
