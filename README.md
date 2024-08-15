@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 PROJECT IDEAS FROM BEGINNERS TO HACKERS](https://dev.to/mince/10-project-ideas-from-beginners-to-hackers-mb8)
-- [Real-Time News Aggregator with Elastic: Leveraging APM, RUM, and Elasticsearch for Optimized Performance](https://dev.to/rranjan/real-time-news-aggregator-with-elastic-leveraging-apm-rum-and-elasticsearch-for-optimized-performance-4fgn)
-- [Cómo hacer scrapping](https://dev.to/terminator_true/como-hacer-scrapping-3dn3)
-- [After 3 Years I Launched 🚀 a New Web Design Course &amp; People Are Loving It](https://dev.to/vijaythapa/after-3-years-i-launched-a-new-web-design-course-people-are-loving-it-2gpp)
+- [Ibuprofeno.py💊| #162: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-162-explica-este-codigo-python-2mj2)
+- [Getting Started with ReductStore in C++](https://dev.to/reductstore/getting-started-with-reductstore-in-c-eme)
+- [5 Best Tools for Automated Frontend Testing](https://dev.to/bizmavenhub/5-best-tools-for-automated-frontend-testing-1j82)
+- [Ephemeral self-hosted GitHub actions runners](https://dev.to/alvic/ephemeral-self-hosted-github-actions-runners-42ma)
 <!-- BLOG-POST-LIST:END -->
 
