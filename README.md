@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Flutter tips and tricks for developers](https://dev.to/aadarshk7/some-flutter-tips-and-tricks-for-developers-2oi2)
-- [Roadmap to Learning Next.js: A Comprehensive Guide](https://dev.to/madhavmadupu/roadmap-to-learning-nextjs-a-comprehensive-guide-598c)
-- [Building an Agnostic Data Pipeline: Pros and Cons](https://dev.to/alfianpr/building-an-agnostic-data-pipeline-pros-and-cons-1g3g)
-- [SafeLine: The Open-Source WAF That’s Gaining Traction on GitHub](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-the-open-source-waf-thats-gaining-traction-on-github-303n)
+- [Step-by-Step Guide: Loading a HuggingFace ControlNet Dataset from a Local Path](https://dev.to/dangattringer/step-by-step-guide-loading-a-huggingface-controlnet-dataset-from-a-local-path-3927)
+- [Setting Up a Laravel for Local Development Environment](https://dev.to/codenoun/setting-up-a-laravel-for-local-development-environment-2m8i)
+- [Introduction to C:&rpar;](https://dev.to/madgan95/introduction-to-c-4khc)
+- [Cloud-Native Security for Multi-Cloud and Hybrid Cloud Environments](https://dev.to/public_cloud/cloud-native-security-for-multi-cloud-and-hybrid-cloud-environments-3bjp)
 <!-- BLOG-POST-LIST:END -->
 
