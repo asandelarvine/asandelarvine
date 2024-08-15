@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DVILLA E-Commerce Project: A dApp that promotes healthy living](https://dev.to/chielokacodes/dvilla-e-commerce-project-a-dapp-that-promotes-healthy-living-5cam)
-- [Oque é a atualização otimista de UI e por que você deveria usar em seu projeto.](https://dev.to/jrschmidtt/oque-e-a-atualizacao-otimista-de-ui-e-por-que-voce-deveria-usar-em-seu-projeto-po9)
-- [SageMath Installation](https://dev.to/samuellubliner/sagemath-installation-2pep)
-- [The current state of GitHub](https://dev.to/henriqueleite42/the-current-state-of-github-3dfp)
+- [Dynamic SQL Best Practices &lpar;or &quot;How to Avoid Both SQL Injection Vulnerabilities and Spaghetti Code&quot;&rpar;](https://dev.to/intersystems/dynamic-sql-best-practices-or-how-to-avoid-both-sql-injection-vulnerabilities-and-spaghetti-code-4lhl)
+- [Sending WhatsApp messages from InterSystems IRIS production](https://dev.to/intersystems/sending-whatsapp-messages-from-intersystems-iris-production-1ca5)
+- [Different now](https://dev.to/mikeyoung44/different-now-54fm)
+- [How &amp; When To Use Event Listeners in Laravel 11? Practical Code Examples](https://dev.to/danish/how-when-to-use-event-listeners-in-laravel-11-practical-code-examples-29mn)
 <!-- BLOG-POST-LIST:END -->
 
