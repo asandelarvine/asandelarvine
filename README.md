@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Eight Things You need to know Before Building On Stellar Blockchain](https://dev.to/ileolami/eight-things-you-need-to-know-before-building-on-stellar-blockchain-3487)
-- [What is channels and the benefits of using it when working with events](https://dev.to/superviz/what-is-channels-and-the-benefits-of-using-it-when-working-with-events-1j8g)
-- [Exploring `react-mui-sidebar`: A Comprehensive Guide for Developers](https://dev.to/hitesh_chauhan_42485a44af/exploring-react-mui-sidebar-a-comprehensive-guide-for-developers-778)
-- [Salaries, pensions, and allowances to increase from September 1](https://dev.to/mukhriddinweb/salaries-pensions-and-allowances-to-increase-from-september-1-407n)
+- [Telling bedtime stories with generative AI](https://dev.to/jennapederson/telling-bedtime-stories-with-generative-ai-2dba)
+- [Understanding C# Delegates and Events with Real-World Examples](https://dev.to/sebastiandevelops/understanding-c-delegates-and-events-with-real-world-examples-2an6)
+- [Top 5 Technology Trends Shaping the Future in 2024](https://dev.to/organization_admin_b1a89a/top-5-technology-trends-shaping-the-future-in-2024-1011)
+- [The Power of Strategic Partnerships: Unlocking Growth and Innovation](https://dev.to/organization_admin_b1a89a/the-power-of-strategic-partnerships-unlocking-growth-and-innovation-2ing)
 <!-- BLOG-POST-LIST:END -->
 
