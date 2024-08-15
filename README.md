@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ConFoo Montreal 2025: Call for Papers is Now Open](https://dev.to/confooca/confoo-montreal-2025-call-for-papers-is-now-open-3g8n)
-- [Hints: Provide hints after a certain number of wrong guesses, such as whether the number is even or odd.](https://dev.to/avinash_mathi_483b018e36b/hints-provide-hints-after-a-certain-number-of-wrong-guesses-such-as-whether-the-number-is-even-or-odd-opp)
-- [How to Use Legitify to Detect Misconfigurations](https://dev.to/yayabobi/how-to-use-legitify-to-detect-misconfigurations-l88)
-- [ใช้ GitHub Copilot สั่งงานผ่านคำสั่งในเทอร์มินัล](https://dev.to/anuchito/aich-github-copilot-sangngaanphaankhamsangainethrminal-1iaj)
+- [ACID Guarantees and Apache Iceberg: Turning Any Storage into a Data Warehouse](https://dev.to/alexmercedcoder/acid-guarantees-and-apache-iceberg-turning-any-storage-into-a-data-warehouse-4h7o)
+- [PolyDev :: a better &quot;Hello World&quot; for polyglot devs](https://dev.to/taikedz/polydev-a-better-hello-world-for-polyglot-devs-37p2)
+- [Migrating Encache to TS](https://dev.to/ryuusama009/migrating-encache-to-ts-3j1i)
+- [C# - Formatlash.](https://dev.to/sunnat_qayumov/c-formatlash-57ah)
 <!-- BLOG-POST-LIST:END -->
 
