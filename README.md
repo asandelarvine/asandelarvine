@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Burnout](https://dev.to/mrpercival/web-developer-burnout-phk)
-- [The One Book I need to learn UI/UX design](https://dev.to/polipo_gio/the-one-book-i-need-to-learn-uiux-design-ioe)
-- [Which career path in coding is best for a Primary Computing teacher ,VFX artist and Sound Designer](https://dev.to/nikolaos/which-career-path-in-coding-is-best-for-a-primary-computing-teacher-vfx-artist-and-sound-designer-261d)
-- [Which career path in coding is best for a Primary Computing teacher ,VFX artist and Sound Designer](https://dev.to/nikolaos/which-career-path-in-coding-is-best-for-a-primary-computing-teacher-vfx-artist-and-sound-designer-85i)
+- [Nested Forms With Turbo &lpar;without dependencies&rpar;](https://dev.to/railsdesigner/nested-forms-with-turbo-without-dependencies-2d6e)
+- [Date Formatting in JavaScript: Ensuring Consistency Across Locales](https://dev.to/kumarprateek18/date-formatting-in-javascript-ensuring-consistency-across-locales-fb2)
+- [Patience Sometimes Doesn’t Pay](https://dev.to/sachin_maurya_4aa454540c6/patience-sometimes-doesnt-pay-46hi)
+- [The Fight Against Low-Quality Automation](https://dev.to/devteam/the-fight-against-low-quality-automation-3p7f)
 <!-- BLOG-POST-LIST:END -->
 
