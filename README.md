@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplified Methods to List PostgreSQL Users](https://dev.to/dbvismarketing/simplified-methods-to-list-postgresql-users-2dl2)
-- [Deploying Free WAF SafeLine Using Docker](https://dev.to/sherbertill6/deploying-free-waf-safeline-using-docker-12ng)
-- [How to Create a Feature-Rich Swipeable Login Page with React](https://dev.to/shanu001x/how-to-create-a-feature-rich-swipeable-login-page-with-react-547m)
-- [What is SaaS &lpar;Software as a Service&rpar;?](https://dev.to/clouddefenseai/what-is-saas-software-as-a-service-3m7j)
+- [c++ dasturlash tilida 3- dars](https://dev.to/none2230/c-dasturlash-tilida-3-dars-421d)
+- [c++ dasturlash tilida 3- dars](https://dev.to/none2230/c-dasturlash-tilida-3-dars-3l3e)
+- [How to enable copy paste in brave browser console?](https://dev.to/sajib360/how-to-enable-copy-paste-in-brave-browser-console-4ccb)
+- [Scenario based java interview question](https://dev.to/realnamehidden1_61/scenario-based-java-interview-question-47hi)
 <!-- BLOG-POST-LIST:END -->
 
