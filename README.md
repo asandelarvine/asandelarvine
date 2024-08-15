@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [c++ dasturlash tilida 3- dars](https://dev.to/none2230/c-dasturlash-tilida-3-dars-421d)
-- [c++ dasturlash tilida 3- dars](https://dev.to/none2230/c-dasturlash-tilida-3-dars-3l3e)
-- [How to enable copy paste in brave browser console?](https://dev.to/sajib360/how-to-enable-copy-paste-in-brave-browser-console-4ccb)
-- [Scenario based java interview question](https://dev.to/realnamehidden1_61/scenario-based-java-interview-question-47hi)
+- [Default map value](https://dev.to/nfrankel/default-map-value-2hjb)
+- [Github Notes](https://dev.to/gerry_gohil/github-notes-148m)
+- [Strategies for Packaging and Pricing Cloud Computing Software](https://dev.to/dmitry-broshkov/strategies-for-packaging-and-pricing-cloud-computing-software-2ib2)
+- [React Demistified: From JSX to DOM - A Journey Through Internals](https://dev.to/dannyenagu/react-demistified-from-jsx-to-dom-a-journey-through-internals-21id)
 <!-- BLOG-POST-LIST:END -->
 
