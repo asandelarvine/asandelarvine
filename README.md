@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsserviços, uma abordagem prática - Automação](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-automacao-nc3)
-- [visudo and /etc/sudoers](https://dev.to/feng_wei/visudo-and-etcsudoers-3jef)
-- [The Right Way to Approach Customer-Facing Analytics](https://dev.to/rohitspujari/the-right-way-to-approach-customer-facing-analytics-3o41)
-- [Mastering Linux Commands on AWS: Essential Tools for Cloud Professionals](https://dev.to/starkydevs/mastering-linux-commands-on-aws-essential-tools-for-cloud-professionals-4e07)
+- [Some Flutter tips and tricks for developers](https://dev.to/aadarshk7/some-flutter-tips-and-tricks-for-developers-2oi2)
+- [Roadmap to Learning Next.js: A Comprehensive Guide](https://dev.to/madhavmadupu/roadmap-to-learning-nextjs-a-comprehensive-guide-598c)
+- [Building an Agnostic Data Pipeline: Pros and Cons](https://dev.to/alfianpr/building-an-agnostic-data-pipeline-pros-and-cons-1g3g)
+- [SafeLine: The Open-Source WAF That’s Gaining Traction on GitHub](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-the-open-source-waf-thats-gaining-traction-on-github-303n)
 <!-- BLOG-POST-LIST:END -->
 
