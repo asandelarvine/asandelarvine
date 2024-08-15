@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Journey through the .NET World: Behind Old and New Names](https://dev.to/dogaaydinn/journey-through-the-net-world-behind-old-and-new-names-393h)
-- [Upcoming Lagoon CLI release v0.30.0 - there&#39;s a lot of changes!](https://dev.to/uselagoon/upcoming-lagoon-cli-release-v0300-theres-a-lot-of-changes-13d8)
-- [Simplifying API Data Handling with C# Records](https://dev.to/sebastiandevelops/simplifying-api-data-handling-with-c-records-2mil)
-- [Introducing: KickStart — a form builder for developers.](https://dev.to/justinschroeder/introducing-kickstart-a-form-builder-for-developers-7k9)
+- [Experimental WASM/Rust support for Pulumi](https://dev.to/andrzejressel/experimental-wasmrust-support-for-pulumi-igf)
+- [Hello, void... may I scream into you?](https://dev.to/fuzzwah/hello-void-may-i-scream-into-you-i50)
+- [Draft: What are the differences between arrow functions and traditional functions?](https://dev.to/fabriciomsdev/what-are-the-differences-between-arrow-functions-and-traditional-functions-572)
+- [8 Real-Life Shell Functions to Boost Your Productivity](https://dev.to/feliperocha93/8-real-life-shell-functions-to-boost-your-productivity-4k1j)
 <!-- BLOG-POST-LIST:END -->
 
