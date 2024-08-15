@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Telling bedtime stories with generative AI](https://dev.to/jennapederson/telling-bedtime-stories-with-generative-ai-2dba)
-- [Understanding C# Delegates and Events with Real-World Examples](https://dev.to/sebastiandevelops/understanding-c-delegates-and-events-with-real-world-examples-2an6)
-- [Top 5 Technology Trends Shaping the Future in 2024](https://dev.to/organization_admin_b1a89a/top-5-technology-trends-shaping-the-future-in-2024-1011)
-- [The Power of Strategic Partnerships: Unlocking Growth and Innovation](https://dev.to/organization_admin_b1a89a/the-power-of-strategic-partnerships-unlocking-growth-and-innovation-2ing)
+- [Web Developer Burnout](https://dev.to/mrpercival/web-developer-burnout-phk)
+- [The One Book I need to learn UI/UX design](https://dev.to/polipo_gio/the-one-book-i-need-to-learn-uiux-design-ioe)
+- [Which career path in coding is best for a Primary Computing teacher ,VFX artist and Sound Designer](https://dev.to/nikolaos/which-career-path-in-coding-is-best-for-a-primary-computing-teacher-vfx-artist-and-sound-designer-261d)
+- [Which career path in coding is best for a Primary Computing teacher ,VFX artist and Sound Designer](https://dev.to/nikolaos/which-career-path-in-coding-is-best-for-a-primary-computing-teacher-vfx-artist-and-sound-designer-85i)
 <!-- BLOG-POST-LIST:END -->
 
