@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Backup MySQL Database with Mysqldump and More](https://dev.to/labex/todays-trending-projects-backup-mysql-database-with-mysqldump-and-more-5fj7)
-- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 2](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-2-4gga)
-- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 1](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-1-1eli)
-- [Implementing DataLoader and Understanding Its Advantages Over Lookup](https://dev.to/lusqua/implementing-dataloader-and-understanding-its-advantages-over-lookup-1phb)
+- [Microsserviços, uma abordagem prática - Automação](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-automacao-nc3)
+- [visudo and /etc/sudoers](https://dev.to/feng_wei/visudo-and-etcsudoers-3jef)
+- [The Right Way to Approach Customer-Facing Analytics](https://dev.to/rohitspujari/the-right-way-to-approach-customer-facing-analytics-3o41)
+- [Mastering Linux Commands on AWS: Essential Tools for Cloud Professionals](https://dev.to/starkydevs/mastering-linux-commands-on-aws-essential-tools-for-cloud-professionals-4e07)
 <!-- BLOG-POST-LIST:END -->
 
