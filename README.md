@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nested Forms With Turbo &lpar;without dependencies&rpar;](https://dev.to/railsdesigner/nested-forms-with-turbo-without-dependencies-2d6e)
-- [Date Formatting in JavaScript: Ensuring Consistency Across Locales](https://dev.to/kumarprateek18/date-formatting-in-javascript-ensuring-consistency-across-locales-fb2)
-- [Patience Sometimes Doesn’t Pay](https://dev.to/sachin_maurya_4aa454540c6/patience-sometimes-doesnt-pay-46hi)
-- [The Fight Against Low-Quality Automation](https://dev.to/devteam/the-fight-against-low-quality-automation-3p7f)
+- [ConFoo Montreal 2025: Call for Papers is Now Open](https://dev.to/confooca/confoo-montreal-2025-call-for-papers-is-now-open-3g8n)
+- [Hints: Provide hints after a certain number of wrong guesses, such as whether the number is even or odd.](https://dev.to/avinash_mathi_483b018e36b/hints-provide-hints-after-a-certain-number-of-wrong-guesses-such-as-whether-the-number-is-even-or-odd-opp)
+- [How to Use Legitify to Detect Misconfigurations](https://dev.to/yayabobi/how-to-use-legitify-to-detect-misconfigurations-l88)
+- [ใช้ GitHub Copilot สั่งงานผ่านคำสั่งในเทอร์มินัล](https://dev.to/anuchito/aich-github-copilot-sangngaanphaankhamsangainethrminal-1iaj)
 <!-- BLOG-POST-LIST:END -->
 
