@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Loading a HuggingFace ControlNet Dataset from a Local Path](https://dev.to/dangattringer/step-by-step-guide-loading-a-huggingface-controlnet-dataset-from-a-local-path-3927)
-- [Setting Up a Laravel for Local Development Environment](https://dev.to/codenoun/setting-up-a-laravel-for-local-development-environment-2m8i)
-- [Introduction to C:&rpar;](https://dev.to/madgan95/introduction-to-c-4khc)
-- [Cloud-Native Security for Multi-Cloud and Hybrid Cloud Environments](https://dev.to/public_cloud/cloud-native-security-for-multi-cloud-and-hybrid-cloud-environments-3bjp)
+- [The Future of JavaScript Frameworks: What Should You Learn? React, Angular or Vue?](https://dev.to/amiryusupov/the-future-of-javascript-frameworks-what-should-you-learn-react-angular-or-vue-57mh)
+- [White Label Dating Apps: The Fast Track to Launching Your Own Platform](https://dev.to/elisaray/white-label-dating-apps-the-fast-track-to-launching-your-own-platform-395i)
+- [Mocking an AI Chatbot API with Blackbird](https://dev.to/getambassador2024/mocking-an-ai-chatbot-api-with-blackbird-507j)
+- [&quot;Enhancing Customer Support with Open Source PHP Ticket Systems&quot;](https://dev.to/loretta_john_e902aa501ab9/enhancing-customer-support-with-open-source-php-ticket-systems-3kbb)
 <!-- BLOG-POST-LIST:END -->
 
