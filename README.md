@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ACID Guarantees and Apache Iceberg: Turning Any Storage into a Data Warehouse](https://dev.to/alexmercedcoder/acid-guarantees-and-apache-iceberg-turning-any-storage-into-a-data-warehouse-4h7o)
-- [PolyDev :: a better &quot;Hello World&quot; for polyglot devs](https://dev.to/taikedz/polydev-a-better-hello-world-for-polyglot-devs-37p2)
-- [Migrating Encache to TS](https://dev.to/ryuusama009/migrating-encache-to-ts-3j1i)
-- [C# - Formatlash.](https://dev.to/sunnat_qayumov/c-formatlash-57ah)
+- [We needed to run maintenance queries &lpar;SQL&rpar; with user input](https://dev.to/polysign_lu/we-needed-to-run-maintenance-queries-sql-with-user-input-26eh)
+- [How Amazon Uses AI Technology](https://dev.to/espinosa/how-amazon-uses-ai-technology-2i43)
+- [Someone can help me with angular?](https://dev.to/1gabrieldavi/someone-can-help-me-with-angular-55bj)
+- [Ultimate Git Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-cheatsheet-live-doc-1o3n)
 <!-- BLOG-POST-LIST:END -->
 
