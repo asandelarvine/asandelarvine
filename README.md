@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic SQL Best Practices &lpar;or &quot;How to Avoid Both SQL Injection Vulnerabilities and Spaghetti Code&quot;&rpar;](https://dev.to/intersystems/dynamic-sql-best-practices-or-how-to-avoid-both-sql-injection-vulnerabilities-and-spaghetti-code-4lhl)
-- [Sending WhatsApp messages from InterSystems IRIS production](https://dev.to/intersystems/sending-whatsapp-messages-from-intersystems-iris-production-1ca5)
-- [Different now](https://dev.to/mikeyoung44/different-now-54fm)
-- [How &amp; When To Use Event Listeners in Laravel 11? Practical Code Examples](https://dev.to/danish/how-when-to-use-event-listeners-in-laravel-11-practical-code-examples-29mn)
+- [Journey through the .NET World: Behind Old and New Names](https://dev.to/dogaaydinn/journey-through-the-net-world-behind-old-and-new-names-393h)
+- [Upcoming Lagoon CLI release v0.30.0 - there&#39;s a lot of changes!](https://dev.to/uselagoon/upcoming-lagoon-cli-release-v0300-theres-a-lot-of-changes-13d8)
+- [Simplifying API Data Handling with C# Records](https://dev.to/sebastiandevelops/simplifying-api-data-handling-with-c-records-2mil)
+- [Introducing: KickStart — a form builder for developers.](https://dev.to/justinschroeder/introducing-kickstart-a-form-builder-for-developers-7k9)
 <!-- BLOG-POST-LIST:END -->
 
