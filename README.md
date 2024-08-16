@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gerenciamento de projetos ágeis: Monitorando o progresso e entregando os incrementos](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-monitorando-o-progresso-e-entregando-os-incrementos-28f8)
-- [Simply understanding Bézier curves.](https://dev.to/compilelife/simply-understanding-bezier-curves-39kh)
-- [HOW TO SET UP AN IoT HUB IN AZURE.](https://dev.to/god_win/how-to-set-up-an-iot-hub-in-azure-d8h)
-- [Advanced SQL Techniques for Data Analysis](https://dev.to/kartikmehta8/advanced-sql-techniques-for-data-analysis-1kf8)
+- [Asciinema vs Savvy CLI: Terminal recording tools](https://dev.to/gopher65/asciinema-vs-savvy-cli-terminal-recording-tools-42j3)
+- [Machine Learning in Python Using Scikit-Learn: A Beginner&#39;s Guide](https://dev.to/myexamcloud/machine-learning-in-python-using-scikit-learn-a-beginners-guide-1j62)
+- [Integrando SwiftUI em UIKit e implementando View com Coordinator](https://dev.to/lys/integrando-swiftui-em-uikit-e-implementando-view-com-coordinator-j3d)
+- [Making something new in the work](https://dev.to/mauro_peluso_22/making-something-new-in-the-work-g51)
 <!-- BLOG-POST-LIST:END -->
 
