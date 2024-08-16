@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Regular Expressions: A Quick Guide](https://dev.to/sdzika/demystifying-regular-expressions-a-quick-guide-247n)
-- [Migrate from ngx-matomo to ngx-matomo-client](https://dev.to/danac0914/migrate-from-ngx-matomo-to-ngx-matomo-client-32pl)
-- [🆕 Introducing the Game-Changer: NFTScan AI Search Explorer](https://dev.to/nft_research/introducing-the-game-changer-nftscan-ai-search-explorer-1o30)
-- [Introducing the Dumbest Data Structure You&#39;ll Never Actually Use: The Linked List](https://dev.to/horaceshmorace/introducing-the-dumbest-data-structure-youll-never-actually-use-the-linked-list-4op3)
+- [The Cleanest Icons for your next README.](https://dev.to/jasper-at-windswept/the-cleanest-icons-for-your-next-readme-1f0h)
+- [SQL, output associated records having many-to-many relationship row by row #eg26](https://dev.to/esproc_spl/sql-output-associated-records-having-many-to-many-relationship-row-by-row-eg26-47m4)
+- [How to Automate&lpar;create, update&rpar; Excel Files from APIs with Python and Openpyxl.](https://dev.to/michellebuchiokonicha/how-to-automatecreate-update-excel-files-from-apis-with-python-and-openpyxl-2148)
+- [Telemetria: sistemas para melhores sistemas](https://dev.to/eduardo_charapa_4abcf68da/telemetria-sistemas-para-melhores-sistemas-5gh6)
 <!-- BLOG-POST-LIST:END -->
 
