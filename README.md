@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Things I Wish I Knew As A Junior Developer](https://dev.to/travislramos/top-5-things-i-wish-i-knew-as-a-junior-developer-3g0n)
-- [Understanding MAE, MSE, and RMSE: Key Metrics in Machine Learning](https://dev.to/mondal_sabbha/understanding-mae-mse-and-rmse-key-metrics-in-machine-learning-4la2)
-- [A Beginner&#39;s Guide to Writing OpenAPI Specifications](https://dev.to/vyankatesh_srepal_a8193d/a-beginners-guide-to-writing-openapi-specifications-ig7)
-- [Voxel51 Filtered Views Newsletter - August 16, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-august-16-2024-4e6g)
+- [Announcing the Launch of Our New Project: Campus Coders](https://dev.to/raajaryan/announcing-the-launch-of-our-new-project-campus-coders-40ag)
+- [Day 18: Post-Migration Testing, Monitoring, and Securing Your AWS Environment](https://dev.to/singh_in_cloud/day-18-post-migration-testing-monitoring-and-securing-your-aws-environment-1fl6)
+- [E Se... As Condicionais Fossem Mais Simples? Transformando Código com Boas Práticas](https://dev.to/viquitor/e-se-as-condicionais-fossem-mais-simples-transformando-codigo-com-boas-praticas-54a2)
+- [Lightmode &amp; Darkmode](https://dev.to/alex_e985030e626375ab17a4/lightmode-darkmode-llg)
 <!-- BLOG-POST-LIST:END -->
 
