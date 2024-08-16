@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [😎Be a 10x Dev With These Amazing Tools🧑‍💻](https://dev.to/dev_kiran/be-a-10x-dev-with-these-amazing-tools-5e65)
-- [The Principles and Laws of UX Design – Why Every Designer Should Know Them](https://dev.to/pepper_square/the-principles-and-laws-of-ux-design-why-every-designer-should-know-them-4afg)
-- [A Beginner&#39;s Guide to JavaScript](https://dev.to/code_passion/a-beginners-guide-to-javascript-bk0)
-- [Optional Chaining in JavaScript: Pros, Cons, and Best Practices](https://dev.to/angela_teyvi/optional-chaining-in-javascript-pros-cons-and-best-practices-1clg)
+- [How to Redirect HTTP to HTTPS Using Free WAF](https://dev.to/motorbuy6/how-to-redirect-http-to-https-using-free-waf-m6p)
+- [How to Format Your Code](https://dev.to/thekarlesi/how-to-format-your-code-4j1g)
+- [Ibuprofeno.py💊| #164: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-164-explica-este-codigo-python-182p)
+- [Ibuprofeno.py💊| #163: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-163-explica-este-codigo-python-jj7)
 <!-- BLOG-POST-LIST:END -->
 
