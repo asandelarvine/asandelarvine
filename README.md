@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Jupyter Notebook Server in the Cloud in 5 Minutes](https://dev.to/nodeshiftcloud/how-to-set-up-a-jupyter-notebook-server-in-the-cloud-in-5-minutes-4cec)
-- [GELU&lpar;&rpar; and Mish&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/gelu-and-mish-in-pytorch-3o16)
-- [How to find contributors for your opensource project?](https://dev.to/happer64bit/how-to-find-contributors-for-your-opensource-project-11c1)
-- [SELU&lpar;&rpar; and CELU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/selu-and-celu-in-pytorch-2ml3)
+- [Demystifying Regular Expressions: A Quick Guide](https://dev.to/sdzika/demystifying-regular-expressions-a-quick-guide-247n)
+- [Migrate from ngx-matomo to ngx-matomo-client](https://dev.to/danac0914/migrate-from-ngx-matomo-to-ngx-matomo-client-32pl)
+- [🆕 Introducing the Game-Changer: NFTScan AI Search Explorer](https://dev.to/nft_research/introducing-the-game-changer-nftscan-ai-search-explorer-1o30)
+- [Introducing the Dumbest Data Structure You&#39;ll Never Actually Use: The Linked List](https://dev.to/horaceshmorace/introducing-the-dumbest-data-structure-youll-never-actually-use-the-linked-list-4op3)
 <!-- BLOG-POST-LIST:END -->
 
