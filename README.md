@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Relief from Fever and Cough](https://dev.to/muhammedshamal/relief-from-fever-and-cough-53k9)
-- [What Are the Challenges of Implementing Real-Time Bidding Systems on eBay?](https://dev.to/wendyj/what-are-the-challenges-of-implementing-real-time-bidding-systems-on-ebay-lnc)
-- [624. Maximum Distance in Arrays](https://dev.to/mdarifulhaque/624-maximum-distance-in-arrays-3659)
-- [Weekly Updates - August 16, 2024](https://dev.to/couchbase/weekly-updates-august-16-2024-3hmb)
+- [Security news weekly round-up - 16th August 2024](https://dev.to/ziizium/security-news-weekly-round-up-16th-august-2024-4c5k)
+- [Eloquent Trick: Laravel Model from Subquery](https://dev.to/bedram-tamang/eloquent-trick-laravel-model-from-subquery-4im6)
+- [Choosing Between Docker Swarm and Kubernetes for Container Management](https://dev.to/heyvaldemar/choosing-between-docker-swarm-and-kubernetes-for-container-management-1j6a)
+- [Docker - Características Principales y ¿Qué lo Hace tan Poderoso y Popular?](https://dev.to/bhyxen/docker-caracteristicas-principales-y-que-lo-hace-tan-poderoso-y-popular-1le)
 <!-- BLOG-POST-LIST:END -->
 
