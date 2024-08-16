@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Solana Blinks: Revolutionizing Blockchain with Lightning-Fast Transactions](https://dev.to/ohgodnoor/introducing-solana-blinks-revolutionizing-blockchain-with-lightning-fast-transactions-fa5)
-- [GUID Method in C#: Usage + Examples](https://dev.to/bytehide/guid-method-in-c-usage-examples-6b1)
-- [Golden Ratio in UX design – Why it Matters for Brands?](https://dev.to/pepper_square/golden-ratio-in-ux-design-why-it-matters-for-brands-dkg)
-- [GlueStack UI: Simplify Building User Interfaces](https://dev.to/codeparrot/gluestack-ui-simplify-building-user-interfaces-i9k)
+- [😎Be a 10x Dev With These Amazing Tools🧑‍💻](https://dev.to/dev_kiran/be-a-10x-dev-with-these-amazing-tools-5e65)
+- [The Principles and Laws of UX Design – Why Every Designer Should Know Them](https://dev.to/pepper_square/the-principles-and-laws-of-ux-design-why-every-designer-should-know-them-4afg)
+- [A Beginner&#39;s Guide to JavaScript](https://dev.to/code_passion/a-beginners-guide-to-javascript-bk0)
+- [Optional Chaining in JavaScript: Pros, Cons, and Best Practices](https://dev.to/angela_teyvi/optional-chaining-in-javascript-pros-cons-and-best-practices-1clg)
 <!-- BLOG-POST-LIST:END -->
 
