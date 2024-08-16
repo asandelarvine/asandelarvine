@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Seconds of Stellar: A Quick Guide to Smart Contracts with Rust](https://dev.to/gr1ll/100-seconds-of-stellar-a-quick-guide-to-smart-contracts-with-rust-2l4e)
-- [Get the Width of an Element in JavaScript](https://dev.to/arsalanmeee/get-the-width-of-an-element-in-javascript-55oo)
-- [Design a stack that supports getMin&lpar;&rpar; in O&lpar;1&rpar; time and O&lpar;1&rpar; extra space](https://dev.to/yashdevs/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space-9li)
-- [HTML&#39;s VIPs: The Only Tags You Need to Master CSS Like a Pro](https://dev.to/rana_danish_0b71b5e803397/htmls-vips-the-only-tags-you-need-to-master-css-like-a-pro-2ph7)
+- [Unveiling the Dark Sides of JavaScript: Common Pitfalls Every Developer Should Know](https://dev.to/akram6t/unveiling-the-dark-sides-of-javascript-common-pitfalls-every-developer-should-know-5469)
+- [Stand Out in Your Interview with Unique Project Ideas](https://dev.to/rishabh17/stand-out-in-your-interview-with-unique-project-ideas-5a36)
+- [Dockerfile Best Practices: Building Efficient and Secure Containers](https://dev.to/rafaeljohn9/dockerfile-best-practices-building-efficient-and-secure-containers-fa)
+- [How to write clean code](https://dev.to/reiku/how-to-write-clean-code-3o7)
 <!-- BLOG-POST-LIST:END -->
 
