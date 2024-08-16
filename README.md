@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41l0)
-- [Como a tecnologia ajuda a escolher a melhor época do ano para viajar](https://dev.to/outofyourcomfortzone/como-a-tecnologia-ajuda-a-escolher-a-melhor-epoca-do-ano-para-viajar-2i9i)
-- [# UberTrash - Your Uber Ride to a Clean City &lpar;Application&rpar;](https://dev.to/scofieldidehen/-ubertrash-your-uber-ride-to-a-clean-city-application-2ehe)
-- [Rails and Keycloak, Authentication Authorization, part one](https://dev.to/tillawy/rails-and-keycloak-authentication-authorization-part-one-cd5)
+- [Building an Enterprise CI/CD Pipeline with Jenkins, Docker, Trivy, and GKE](https://dev.to/akshat_gautam/building-an-enterprise-cicd-pipeline-with-jenkins-docker-trivy-and-gke-5fcg)
+- [Vale a pena ir ao Rio Innovation Week ? Análise sincera sobre este evento de inovação no Rio de Janeiro](https://dev.to/pedrobarreto/vale-a-pena-ir-ao-rio-innovation-week-analise-sincera-sobre-este-evento-de-inovacao-no-rio-de-janeiro-3ag5)
+- [Create your own Custom LLM Agent Using Open Source Models &lpar;llama3.1&rpar;](https://dev.to/emmakodes_/create-your-own-custom-llm-agent-using-open-source-models-llama31-4aag)
+- [What Is Lemmatization?](https://dev.to/olatunji_tech/what-is-lemmatization-53m1)
 <!-- BLOG-POST-LIST:END -->
 
