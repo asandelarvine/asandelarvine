@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cleanest Icons for your next README.](https://dev.to/jasper-at-windswept/the-cleanest-icons-for-your-next-readme-1f0h)
-- [SQL, output associated records having many-to-many relationship row by row #eg26](https://dev.to/esproc_spl/sql-output-associated-records-having-many-to-many-relationship-row-by-row-eg26-47m4)
-- [How to Automate&lpar;create, update&rpar; Excel Files from APIs with Python and Openpyxl.](https://dev.to/michellebuchiokonicha/how-to-automatecreate-update-excel-files-from-apis-with-python-and-openpyxl-2148)
-- [Telemetria: sistemas para melhores sistemas](https://dev.to/eduardo_charapa_4abcf68da/telemetria-sistemas-para-melhores-sistemas-5gh6)
+- [ECS Exec Usage Guide](https://dev.to/bachhuynh/ecs-exec-usage-guide-2dhi)
+- [Too double quote or not, that&#39;s the question!](https://dev.to/realflowcontrol/too-double-quote-or-not-thats-the-question-78l)
+- [How to Sign a PDF Document Online in 2024](https://dev.to/opensign001/how-to-sign-a-pdf-document-online-in-2024-2i77)
+- [Need Help!](https://dev.to/faseeh_arif_0b8b22f765033/need-help-2jnh)
 <!-- BLOG-POST-LIST:END -->
 
