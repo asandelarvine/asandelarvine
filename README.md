@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asciinema vs Savvy CLI: Terminal recording tools](https://dev.to/gopher65/asciinema-vs-savvy-cli-terminal-recording-tools-42j3)
-- [Machine Learning in Python Using Scikit-Learn: A Beginner&#39;s Guide](https://dev.to/myexamcloud/machine-learning-in-python-using-scikit-learn-a-beginners-guide-1j62)
-- [Integrando SwiftUI em UIKit e implementando View com Coordinator](https://dev.to/lys/integrando-swiftui-em-uikit-e-implementando-view-com-coordinator-j3d)
-- [Making something new in the work](https://dev.to/mauro_peluso_22/making-something-new-in-the-work-g51)
+- [Exploring Advanced React: Unlocking the Power of Next.js](https://dev.to/vyan/exploring-advanced-react-unlocking-the-power-of-nextjs-5e4m)
+- [Validate your environment variables with Zod](https://dev.to/douglasdemoura/validate-your-environment-variables-with-zod-2gna)
+- [Barcode Reading Problem in Flutter](https://dev.to/gguedes/barcode-reading-problem-in-flutter-3k0g)
+- [Problema Leitura de Código Barras no Flutter](https://dev.to/gguedes/problema-leitura-de-codigo-barras-no-flutter-44od)
 <!-- BLOG-POST-LIST:END -->
 
