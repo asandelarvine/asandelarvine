@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Redirect HTTP to HTTPS Using Free WAF](https://dev.to/motorbuy6/how-to-redirect-http-to-https-using-free-waf-m6p)
-- [How to Format Your Code](https://dev.to/thekarlesi/how-to-format-your-code-4j1g)
-- [Ibuprofeno.py💊| #164: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-164-explica-este-codigo-python-182p)
-- [Ibuprofeno.py💊| #163: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-163-explica-este-codigo-python-jj7)
+- [Comprehensive Guide: MaterialM Next.js Admin Template Overview](https://dev.to/hitesh_chauhan_42485a44af/comprehensive-guide-materialm-free-nextjs-admin-templateoverview-i2f)
+- [Using useSearchParams in Next.js 14](https://dev.to/ferdianar/using-usesearchparams-in-nextjs-14-1737)
+- [Securing the Digital Frontier: Top 10 Web App Vulnerabilities and How to Fix Them](https://dev.to/fively/securing-the-digital-frontier-top-10-web-app-vulnerabilities-and-how-to-fix-them-2g88)
+- [How Can You Succeed as a Freelancer on Upwork in 2024? Tips from Expert](https://dev.to/haris_patel_9b987eb5add00/how-can-you-succeed-as-a-freelancer-on-upwork-in-2024-tips-from-expert-21bd)
 <!-- BLOG-POST-LIST:END -->
 
