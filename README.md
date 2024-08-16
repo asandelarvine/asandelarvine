@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ECS Exec Usage Guide](https://dev.to/bachhuynh/ecs-exec-usage-guide-2dhi)
-- [Too double quote or not, that&#39;s the question!](https://dev.to/realflowcontrol/too-double-quote-or-not-thats-the-question-78l)
-- [How to Sign a PDF Document Online in 2024](https://dev.to/opensign001/how-to-sign-a-pdf-document-online-in-2024-2i77)
-- [Need Help!](https://dev.to/faseeh_arif_0b8b22f765033/need-help-2jnh)
+- [Introducing Solana Blinks: Revolutionizing Blockchain with Lightning-Fast Transactions](https://dev.to/ohgodnoor/introducing-solana-blinks-revolutionizing-blockchain-with-lightning-fast-transactions-fa5)
+- [GUID Method in C#: Usage + Examples](https://dev.to/bytehide/guid-method-in-c-usage-examples-6b1)
+- [Golden Ratio in UX design – Why it Matters for Brands?](https://dev.to/pepper_square/golden-ratio-in-ux-design-why-it-matters-for-brands-dkg)
+- [GlueStack UI: Simplify Building User Interfaces](https://dev.to/codeparrot/gluestack-ui-simplify-building-user-interfaces-i9k)
 <!-- BLOG-POST-LIST:END -->
 
