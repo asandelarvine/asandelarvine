@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Recipe Generator with NextJS, LangChain, and OpenAI](https://dev.to/danmusembi/how-to-create-a-recipe-generator-with-nextjs-langchain-and-openai-1e0d)
-- [Navigating the Security Risks of Arbitrary Values in Tailwind CSS](https://dev.to/dansasser/navigating-the-security-risks-of-arbitrary-values-in-tailwind-css-59jj)
-- [Configuring Azure Arc-Enabled Windows Servers with Azure VM Extensions](https://dev.to/jimiog/configuring-azure-arc-enabled-windows-servers-with-azure-vm-extensions-him)
-- [Managing Azure Arc-Enabled Windows Server Updates by Using Azure Update Manager](https://dev.to/jimiog/managing-azure-arc-enabled-windows-server-updates-by-using-azure-update-manager-4bmp)
+- [Gerenciamento de projetos ágeis: Monitorando o progresso e entregando os incrementos](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-monitorando-o-progresso-e-entregando-os-incrementos-28f8)
+- [Simply understanding Bézier curves.](https://dev.to/compilelife/simply-understanding-bezier-curves-39kh)
+- [HOW TO SET UP AN IoT HUB IN AZURE.](https://dev.to/god_win/how-to-set-up-an-iot-hub-in-azure-d8h)
+- [Advanced SQL Techniques for Data Analysis](https://dev.to/kartikmehta8/advanced-sql-techniques-for-data-analysis-1kf8)
 <!-- BLOG-POST-LIST:END -->
 
