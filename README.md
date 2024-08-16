@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide: MaterialM Next.js Admin Template Overview](https://dev.to/hitesh_chauhan_42485a44af/comprehensive-guide-materialm-free-nextjs-admin-templateoverview-i2f)
-- [Using useSearchParams in Next.js 14](https://dev.to/ferdianar/using-usesearchparams-in-nextjs-14-1737)
-- [Securing the Digital Frontier: Top 10 Web App Vulnerabilities and How to Fix Them](https://dev.to/fively/securing-the-digital-frontier-top-10-web-app-vulnerabilities-and-how-to-fix-them-2g88)
-- [How Can You Succeed as a Freelancer on Upwork in 2024? Tips from Expert](https://dev.to/haris_patel_9b987eb5add00/how-can-you-succeed-as-a-freelancer-on-upwork-in-2024-tips-from-expert-21bd)
+- [Dear AI engineers, lets ship fast and break stuff.](https://dev.to/portkey/dear-ai-engineers-lets-ship-fast-and-break-stuff-5hgk)
+- [Ultimate Git Branches &amp; Merging Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-branches-merging-cheatsheet-live-doc-22pj)
+- [Mint Expedition Season 2 - Hidden Oasis Starts Now: Join 520K Minters and Counting](https://dev.to/mint_/mint-expedition-season-2-hidden-oasis-starts-now-join-520k-minters-and-counting-2d36)
+- [Visualizing Firebase Data: Unlocking the Power of Real-Time Insights](https://dev.to/victoribironke/visualizing-firebase-data-unlocking-the-power-of-real-time-insights-1efc)
 <!-- BLOG-POST-LIST:END -->
 
