@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Dark Sides of JavaScript: Common Pitfalls Every Developer Should Know](https://dev.to/akram6t/unveiling-the-dark-sides-of-javascript-common-pitfalls-every-developer-should-know-5469)
-- [Stand Out in Your Interview with Unique Project Ideas](https://dev.to/rishabh17/stand-out-in-your-interview-with-unique-project-ideas-5a36)
-- [Dockerfile Best Practices: Building Efficient and Secure Containers](https://dev.to/rafaeljohn9/dockerfile-best-practices-building-efficient-and-secure-containers-fa)
-- [How to write clean code](https://dev.to/reiku/how-to-write-clean-code-3o7)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41l0)
+- [Como a tecnologia ajuda a escolher a melhor época do ano para viajar](https://dev.to/outofyourcomfortzone/como-a-tecnologia-ajuda-a-escolher-a-melhor-epoca-do-ano-para-viajar-2i9i)
+- [# UberTrash - Your Uber Ride to a Clean City &lpar;Application&rpar;](https://dev.to/scofieldidehen/-ubertrash-your-uber-ride-to-a-clean-city-application-2ehe)
+- [Rails and Keycloak, Authentication Authorization, part one](https://dev.to/tillawy/rails-and-keycloak-authentication-authorization-part-one-cd5)
 <!-- BLOG-POST-LIST:END -->
 
