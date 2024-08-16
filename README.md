@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear AI engineers, lets ship fast and break stuff.](https://dev.to/portkey/dear-ai-engineers-lets-ship-fast-and-break-stuff-5hgk)
-- [Ultimate Git Branches &amp; Merging Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-branches-merging-cheatsheet-live-doc-22pj)
-- [Mint Expedition Season 2 - Hidden Oasis Starts Now: Join 520K Minters and Counting](https://dev.to/mint_/mint-expedition-season-2-hidden-oasis-starts-now-join-520k-minters-and-counting-2d36)
-- [Visualizing Firebase Data: Unlocking the Power of Real-Time Insights](https://dev.to/victoribironke/visualizing-firebase-data-unlocking-the-power-of-real-time-insights-1efc)
+- [Top 5 Things I Wish I Knew As A Junior Developer](https://dev.to/travislramos/top-5-things-i-wish-i-knew-as-a-junior-developer-3g0n)
+- [Understanding MAE, MSE, and RMSE: Key Metrics in Machine Learning](https://dev.to/mondal_sabbha/understanding-mae-mse-and-rmse-key-metrics-in-machine-learning-4la2)
+- [A Beginner&#39;s Guide to Writing OpenAPI Specifications](https://dev.to/vyankatesh_srepal_a8193d/a-beginners-guide-to-writing-openapi-specifications-ig7)
+- [Voxel51 Filtered Views Newsletter - August 16, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-august-16-2024-4e6g)
 <!-- BLOG-POST-LIST:END -->
 
