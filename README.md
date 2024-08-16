@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Advanced React: Unlocking the Power of Next.js](https://dev.to/vyan/exploring-advanced-react-unlocking-the-power-of-nextjs-5e4m)
-- [Validate your environment variables with Zod](https://dev.to/douglasdemoura/validate-your-environment-variables-with-zod-2gna)
-- [Barcode Reading Problem in Flutter](https://dev.to/gguedes/barcode-reading-problem-in-flutter-3k0g)
-- [Problema Leitura de Código Barras no Flutter](https://dev.to/gguedes/problema-leitura-de-codigo-barras-no-flutter-44od)
+- [Try Out WeTest UDT: The Ultimate Cloud Testing Solution for Developers](https://dev.to/wetest/try-out-wetest-udt-the-ultimate-cloud-testing-solution-for-developers-4mgh)
+- [TLS Fingerprint 保護的網站](https://dev.to/codemee/tls-fingerprint-bao-hu-de-wang-zhan-59i6)
+- [The Difference Between Open Source and Closed Source Software](https://dev.to/shinetechsoftwareinc/the-difference-between-open-source-and-closed-source-software-2dh9)
+- [#46 — Find The Category Meeting The Specified Condition](https://dev.to/judith677/46-find-the-category-meeting-the-specified-condition-4i9p)
 <!-- BLOG-POST-LIST:END -->
 
