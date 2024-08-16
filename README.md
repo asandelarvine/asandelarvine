@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Enterprise CI/CD Pipeline with Jenkins, Docker, Trivy, and GKE](https://dev.to/akshat_gautam/building-an-enterprise-cicd-pipeline-with-jenkins-docker-trivy-and-gke-5fcg)
-- [Vale a pena ir ao Rio Innovation Week ? Análise sincera sobre este evento de inovação no Rio de Janeiro](https://dev.to/pedrobarreto/vale-a-pena-ir-ao-rio-innovation-week-analise-sincera-sobre-este-evento-de-inovacao-no-rio-de-janeiro-3ag5)
-- [Create your own Custom LLM Agent Using Open Source Models &lpar;llama3.1&rpar;](https://dev.to/emmakodes_/create-your-own-custom-llm-agent-using-open-source-models-llama31-4aag)
-- [What Is Lemmatization?](https://dev.to/olatunji_tech/what-is-lemmatization-53m1)
+- [Relief from Fever and Cough](https://dev.to/muhammedshamal/relief-from-fever-and-cough-53k9)
+- [What Are the Challenges of Implementing Real-Time Bidding Systems on eBay?](https://dev.to/wendyj/what-are-the-challenges-of-implementing-real-time-bidding-systems-on-ebay-lnc)
+- [624. Maximum Distance in Arrays](https://dev.to/mdarifulhaque/624-maximum-distance-in-arrays-3659)
+- [Weekly Updates - August 16, 2024](https://dev.to/couchbase/weekly-updates-august-16-2024-3hmb)
 <!-- BLOG-POST-LIST:END -->
 
