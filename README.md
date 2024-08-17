@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python&#39;s Asyncio: Advanced Concepts](https://dev.to/kartikmehta8/pythons-asyncio-advanced-concepts-9kd)
-- [Deploying a Virtual Machine Using ARM Template](https://dev.to/romanus_onyekwere/deploying-a-virtual-machine-using-arm-template-18g4)
-- [Monitoring Docker Containers with Datadog on Ubuntu](https://dev.to/supernovabirth/monitoring-docker-containers-with-datadog-on-ubuntu-26ih)
-- [100FrontendChallenge - Day 12 - Restaurant reservation](https://dev.to/t1xx1/100frontendchallenge-day-12-restaurant-reservation-5380)
+- [Book Review: Cloud Career Journeys - Inspiring Stories of Success in the Cloud](https://dev.to/starkydevs/book-review-cloud-career-journeys-inspiring-stories-of-success-in-the-cloud-747)
+- [Book Review: Cloud Computing &lpar;Revised and Updated Edition&rpar; - A Definitive Guide from the MIT Press Essential Knowledge Series](https://dev.to/starkydevs/book-review-cloud-computing-revised-and-updated-edition-a-definitive-guide-from-the-mit-press-essential-knowledge-series-1b4i)
+- [CSS PROJECT 1 | GEMINI](https://dev.to/ofameh/css-project-1-gemini-73c)
+- [Developers Guide &lpar;zkVerify&rpar;](https://dev.to/ajtech0001/developers-guide-zkverify-i3e)
 <!-- BLOG-POST-LIST:END -->
 
