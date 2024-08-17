@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/sipsdaoracle/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-5h4k)
-- [Arrays em Assembly x86](https://dev.to/leandronsp/arrays-em-assembly-x86-55hb)
-- [Code Smell 264 - Hanlon&#39;s Razor](https://dev.to/mcsee/code-smell-264-hanlons-razor-16en)
-- [HANDLING AUTH IN REACT APPS USING NANOSTORES AND CONTEXT API](https://dev.to/ikemcodedit/handling-auth-in-react-apps-using-nanostores-and-context-api-35kg)
+- [Understanding scope in JavaScript](https://dev.to/garrettlove8/understanding-scope-in-javascript-18fb)
+- [JavaScript Evolution: 5 Game-Changing Features Coming Soon](https://dev.to/codeakash/javascript-evolution-5-game-changing-features-coming-soon-4em)
+- [Transitioning from Monolithic to Microservices Architecture](https://dev.to/aakashkhanna/transitioning-from-monolithic-to-microservices-architecture-38al)
+- [&quot;Understanding Your Data: The Essentials of Exploratory Data Analysis&quot;. #exploratory data analysis #data science # statistics](https://dev.to/athi47/understanding-your-data-the-essentials-of-exploratory-data-analysis-exploratory-data-analysis-data-science-statistics-3oo3)
 <!-- BLOG-POST-LIST:END -->
 
