@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The ABC of Steller: The Untold Story of McCaleb](https://dev.to/scofieldidehen/the-abc-of-steller-the-untold-story-of-mccaleb-2hho)
-- [Salesforce Connected App](https://dev.to/darkedges/salesforce-connected-app-57jd)
-- [Need help as a MERN beginner..!!](https://dev.to/sayak_hajra_88e4b7a46af5d/need-help-as-a-mern-beginner-1boi)
-- [PHP Error](https://dev.to/muhammad_falak_shair/php-error-3djg)
+- [How do you write a good blog post. What components should the post have ?](https://dev.to/mtendekuyokwa19/how-do-you-write-a-good-blog-post-what-components-should-the-post-have--kg7)
+- [Understanding JavaScript Arrow Functions](https://dev.to/zain725342/understanding-javascript-arrow-functions-4g4b)
+- [My Journey into DevOps: The Road to Becoming a Full-Stack Developer](https://dev.to/shaileshss1911/my-journey-into-devops-the-road-to-becoming-a-full-stack-developer-2871)
+- [End-to-End workflow with Azure Devops, Docker and ArgoCD](https://dev.to/audu97/end-to-end-workflow-with-azure-devops-docker-and-argocd-3hh1)
 <!-- BLOG-POST-LIST:END -->
 
