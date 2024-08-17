@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar e Publicar Pacotes TypeScript no NPM](https://dev.to/lucaspereiradesouzat/como-criar-e-publicar-pacotes-typescript-no-npm-3gd4)
-- [Feature Engineering](https://dev.to/christopher_mugwimi/feature-engineering-1oj5)
-- [SolidJs vs React: A Comprehensive Comparison](https://dev.to/codeparrot/solidjs-vs-react-a-comprehensive-comparison-1a6n)
-- [Go Redis Crud quickly example](https://dev.to/luigiescalante/go-redis-crud-quickly-example-2agj)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/sipsdaoracle/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-5h4k)
+- [Arrays em Assembly x86](https://dev.to/leandronsp/arrays-em-assembly-x86-55hb)
+- [Code Smell 264 - Hanlon&#39;s Razor](https://dev.to/mcsee/code-smell-264-hanlons-razor-16en)
+- [HANDLING AUTH IN REACT APPS USING NANOSTORES AND CONTEXT API](https://dev.to/ikemcodedit/handling-auth-in-react-apps-using-nanostores-and-context-api-35kg)
 <!-- BLOG-POST-LIST:END -->
 
