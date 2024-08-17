@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Context](https://dev.to/mojahidulislam11/browser-context-4kk5)
-- [How event loop work in Node.js?](https://dev.to/syed_ammar/how-event-loop-work-in-nodejs-4lf4)
-- [Converting my Wolfeinstein3D Engine to a DOOM Engine](https://dev.to/chigbeef_77/converting-my-wolfeinstein3d-engine-to-a-doom-engine-2oi0)
-- [A Guide through to quickly Deploying and Interacting with Smart contracts through the Stellar CLI](https://dev.to/chielokacodes/a-guide-through-to-quickly-deploying-and-interacting-with-smart-contracts-through-the-stellar-cli-2cdj)
+- [Statistics with R - Introduction to R Language and Statistics](https://dev.to/sc0v0ne/statistics-with-r-introduction-to-r-language-and-statistics-48j1)
+- [Daily Log - 17/08/2024](https://dev.to/makkawai/daily-log-17082024-55ao)
+- [Top 5 React Form Libraries for Building Efficient Forms](https://dev.to/hitesh_chauhan_42485a44af/top-5-react-form-libraries-for-building-efficient-forms-pj4)
+- [Building a Reactive Store in React Using the Observer Design Pattern and Custom Hook](https://dev.to/ashok_24_99c5ee15c6ad5150/building-a-reactive-store-in-react-using-the-observer-design-pattern-and-custom-hook-41kl)
 <!-- BLOG-POST-LIST:END -->
 
