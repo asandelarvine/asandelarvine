@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Beginner&#39;s Guide to SQL and Databases](https://dev.to/kammarianand/beginners-guide-to-sql-and-databases-f72)
-- [What Changes Have You Seen in Apple&#39;s Brand Identity Over Time?](https://dev.to/wandah/what-changes-have-you-seen-in-apples-brand-identity-over-time-36ji)
-- [Angular DI: Type safe Angular providers](https://dev.to/marekozw/angular-di-type-safe-angular-providers-20d5)
-- [Optimizing Your Code with Python&#39;s Walrus Operator: Real-World Examples and Anti-Patterns to Avoid](https://dev.to/myexamcloud/optimizing-your-code-with-pythons-walrus-operator-real-world-examples-and-anti-patterns-to-avoid-10ii)
+- [Using Zod with TypeScript: A Guide for Frontend Developers](https://dev.to/codeparrot/using-zod-with-typescript-a-guide-for-frontend-developers-3hfm)
+- [LLM Support for Your PHP AI Projects](https://dev.to/ardagnsrn/llm-support-for-your-php-ai-projects-5369)
+- [foundationda 6 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-6-dars-igk)
+- [Foundationda 6-dars](https://dev.to/isoqjon_nematov_d21104e35/foundationda-6-dars-3i19)
 <!-- BLOG-POST-LIST:END -->
 
