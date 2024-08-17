@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you write a good blog post. What components should the post have ?](https://dev.to/mtendekuyokwa19/how-do-you-write-a-good-blog-post-what-components-should-the-post-have--kg7)
-- [Understanding JavaScript Arrow Functions](https://dev.to/zain725342/understanding-javascript-arrow-functions-4g4b)
-- [My Journey into DevOps: The Road to Becoming a Full-Stack Developer](https://dev.to/shaileshss1911/my-journey-into-devops-the-road-to-becoming-a-full-stack-developer-2871)
-- [End-to-End workflow with Azure Devops, Docker and ArgoCD](https://dev.to/audu97/end-to-end-workflow-with-azure-devops-docker-and-argocd-3hh1)
+- [Tutorial 3: Creating and Issuing Custom Assets](https://dev.to/ravixalgorithm/tutorial-3-creating-and-issuing-custom-assets-1ok8)
+- [2-Dars. KIRISH. HTML&#39;da dasturlash. Birinchi web sahifa yaratish.](https://dev.to/miss_code_creaker/2-dars-kirish-htmlda-dasturlash-birinchi-web-sahifa-yaratish-2h2m)
+- [Top 10 Backend Frameworks Every Developer Should Know](https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-3pd2)
+- [July 9, 2024 Print&lpar;&rpar; Python &lpar;Q/A&rpar; - Part 2](https://dev.to/vishal-johnnelson/july-9-2024-print-python-qa-part-2-11n3)
 <!-- BLOG-POST-LIST:END -->
 
