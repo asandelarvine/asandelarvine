@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching a partner for a startup](https://dev.to/catalingrigoriev/searching-for-a-partener-of-startup-4i2a)
-- [10 JavaScript Super Hacks Every Developer Should Know](https://dev.to/theblipman/10-javascript-super-hacks-every-developer-should-know-38ep)
-- [L1Loss&lpar;&rpar; and MSELoss&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/l1loss-and-mseloss-in-pytorch-53b6)
-- [The SOLID Design Principles](https://dev.to/brandongautama/the-solid-design-principles-319f)
+- [Go Redis Crud quickly example](https://dev.to/luigiescalante/go-redis-crud-quickly-example-2agj)
+- [Augmented Reality: Revolutionising E-Commerce with Virtual Try-On Experiences](https://dev.to/rashedulhridoy/augmented-reality-revolutionising-e-commerce-with-virtual-try-on-experiences-222a)
+- [Starting My DevOps Journey: A 3-Hour Course That Changed Everything](https://dev.to/lejub/starting-my-devops-journey-a-3-hour-course-that-changed-everything-3ld9)
+- [Presentation pain](https://dev.to/kiolk/presentation-pain-3ab9)
 <!-- BLOG-POST-LIST:END -->
 
