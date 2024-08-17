@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Zod with TypeScript: A Guide for Frontend Developers](https://dev.to/codeparrot/using-zod-with-typescript-a-guide-for-frontend-developers-3hfm)
-- [LLM Support for Your PHP AI Projects](https://dev.to/ardagnsrn/llm-support-for-your-php-ai-projects-5369)
-- [foundationda 6 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-6-dars-igk)
-- [Foundationda 6-dars](https://dev.to/isoqjon_nematov_d21104e35/foundationda-6-dars-3i19)
+- [Practical Guide to Send Emails from NodeJS/Express App using Gmail and Nodemailer &lpar;Screenshots and Code&rpar;](https://dev.to/cre8stevedev/practical-guide-to-send-emails-from-nodejsexpress-app-using-gmail-and-nodemailer-screenshots-and-code-5fk4)
+- [CBJS: File Upload 5](https://dev.to/peppa6/cbjs-file-upload-5-1kle)
+- [Mastering the Eloquent where Condition in Laravel](https://dev.to/rohiturane/mastering-the-eloquent-where-condition-in-laravel-44bd)
+- [Real-Time Temperature Monitoring with Go &amp; gRPC!](https://dev.to/andreacavallo/real-time-temperature-monitoring-with-go-grpc-3p9o)
 <!-- BLOG-POST-LIST:END -->
 
