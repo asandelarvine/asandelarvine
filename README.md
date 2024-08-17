@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial 3: Creating and Issuing Custom Assets](https://dev.to/ravixalgorithm/tutorial-3-creating-and-issuing-custom-assets-1ok8)
-- [2-Dars. KIRISH. HTML&#39;da dasturlash. Birinchi web sahifa yaratish.](https://dev.to/miss_code_creaker/2-dars-kirish-htmlda-dasturlash-birinchi-web-sahifa-yaratish-2h2m)
-- [Top 10 Backend Frameworks Every Developer Should Know](https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-3pd2)
-- [July 9, 2024 Print&lpar;&rpar; Python &lpar;Q/A&rpar; - Part 2](https://dev.to/vishal-johnnelson/july-9-2024-print-python-qa-part-2-11n3)
+- [Dev Challenge: A Soroban Crowdfactoring dApp](https://dev.to/icolomina/dev-challenge-a-soroban-crowdfactoring-dapp-325e)
+- [Reliable S3 Data Replication: Automatically Mirror New Files Without Worrying About Deletions](https://dev.to/rahulkspace/reliable-s3-data-replication-automatically-mirror-new-files-without-worrying-about-deletions-4mjf)
+- [Entry•X | Decentralized Ticketing Platform](https://dev.to/jose_carlostoscano_3bb03/entryx-decentralized-ticketing-platform-3ak1)
+- [Day 46 / 100 Days of Code: Exploring JavaScript Functions and Dynamic Typing](https://dev.to/jacobsternx/day-46-100-days-of-code-exploring-javascript-functions-and-dynamic-typing-5had)
 <!-- BLOG-POST-LIST:END -->
 
