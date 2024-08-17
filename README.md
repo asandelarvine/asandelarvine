@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Replace Programmers ?](https://dev.to/dualite/will-ai-replace-programmers--5e66)
-- [Top AI Tools to 10x your Startup Growth](https://dev.to/dualite/top-ai-tools-to-10x-your-startup-growth-1f8)
-- [Hello, world!](https://dev.to/be11amer/hello-world-30jd)
-- [Multiple API in Laravel with HTTP Requests](https://dev.to/skipperhoa/multiple-api-in-laravel-with-http-requests-3ml6)
+- [👨‍💻Building a Modern AI-Themed Landing Page with Responsive Design and Smooth Animation](https://dev.to/uicraft_by_pratik/building-a-modern-ai-themed-landing-page-with-responsive-design-and-smooth-animation-490n)
+- [DOM Flowt JavaScript Library](https://dev.to/staviro/dom-flowt-javascript-library-35gl)
+- [How to host your own radicle node. Contribute to decentralized source control. 🌌](https://dev.to/viiik/how-to-host-your-own-radicle-node-contribute-to-decentralized-source-control-5cgm)
+- [Optimal Entity Retrieval in .NET 8 : FindAsync vs. FirstOrDefaultAsync](https://dev.to/hamza_darouzi_dotnet/optimal-entity-retrieval-in-net-8-findasync-vs-firstordefaultasync-p4o)
 <!-- BLOG-POST-LIST:END -->
 
