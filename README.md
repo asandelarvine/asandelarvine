@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide to Send Emails from NodeJS/Express App using Gmail and Nodemailer &lpar;Screenshots and Code&rpar;](https://dev.to/cre8stevedev/practical-guide-to-send-emails-from-nodejsexpress-app-using-gmail-and-nodemailer-screenshots-and-code-5fk4)
-- [CBJS: File Upload 5](https://dev.to/peppa6/cbjs-file-upload-5-1kle)
-- [Mastering the Eloquent where Condition in Laravel](https://dev.to/rohiturane/mastering-the-eloquent-where-condition-in-laravel-44bd)
-- [Real-Time Temperature Monitoring with Go &amp; gRPC!](https://dev.to/andreacavallo/real-time-temperature-monitoring-with-go-grpc-3p9o)
+- [Browser Context](https://dev.to/mojahidulislam11/browser-context-4kk5)
+- [How event loop work in Node.js?](https://dev.to/syed_ammar/how-event-loop-work-in-nodejs-4lf4)
+- [Converting my Wolfeinstein3D Engine to a DOOM Engine](https://dev.to/chigbeef_77/converting-my-wolfeinstein3d-engine-to-a-doom-engine-2oi0)
+- [A Guide through to quickly Deploying and Interacting with Smart contracts through the Stellar CLI](https://dev.to/chielokacodes/a-guide-through-to-quickly-deploying-and-interacting-with-smart-contracts-through-the-stellar-cli-2cdj)
 <!-- BLOG-POST-LIST:END -->
 
