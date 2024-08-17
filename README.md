@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistics with R - Introduction to R Language and Statistics](https://dev.to/sc0v0ne/statistics-with-r-introduction-to-r-language-and-statistics-48j1)
-- [Daily Log - 17/08/2024](https://dev.to/makkawai/daily-log-17082024-55ao)
-- [Top 5 React Form Libraries for Building Efficient Forms](https://dev.to/hitesh_chauhan_42485a44af/top-5-react-form-libraries-for-building-efficient-forms-pj4)
-- [Building a Reactive Store in React Using the Observer Design Pattern and Custom Hook](https://dev.to/ashok_24_99c5ee15c6ad5150/building-a-reactive-store-in-react-using-the-observer-design-pattern-and-custom-hook-41kl)
+- [Salesforce.com REST API for data manipulation](https://dev.to/chuliomartinez_ebd2d8009bdec/salesforcecom-rest-api-for-data-manipulation-32j8)
+- [Correlating the logs for tracking In NestJs](https://dev.to/ashuto7h/correlating-the-logs-for-tracking-in-nestjs-98l)
+- [Statistics with R - Measures of Central Tendency and Measures of Dispersion](https://dev.to/sc0v0ne/statistics-with-r-measures-of-central-tendency-and-measures-of-dispersion-4a40)
+- [Celebrating 2000 Followers on Dev.to 🎉](https://dev.to/cadienvan/celebrating-2000-followers-on-devto-53ko)
 <!-- BLOG-POST-LIST:END -->
 
