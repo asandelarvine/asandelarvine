@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating dynamic route language for i18n in Astro Build](https://dev.to/alancpazetto/creating-dynamic-route-language-for-i18n-in-astro-build-2iim)
-- [A Deep Dive into Elliptic Curve Cryptography &lpar;ECC&rpar; with Code Examples](https://dev.to/cyberbimba/a-deep-dive-into-elliptic-curve-cryptography-ecc-with-code-examples-319a)
-- [Building an Automated Customer Support System with NLP and Machine Learning](https://dev.to/ekemini_thompson/building-an-automated-customer-support-system-with-nlp-and-machine-learning-16f5)
-- [Beware of Phishing: Protect Yourself from Online Threats](https://dev.to/cyberbimba/beware-of-phishing-protect-yourself-from-online-threats-42h7)
+- [Stylish Gloves for Every Occasion and Essential Gloves to Keep You Warm.](https://dev.to/syed_shah_f86325a0d78163c/stylish-gloves-for-every-occasion-and-essential-gloves-to-keep-you-warm-2bfl)
+- [Navigating the Software Developer Life: Soft Skills, AI Tools, and Team Dynamics](https://dev.to/shaswatha_thilaka/navigating-the-software-developer-life-soft-skills-ai-tools-and-team-dynamics-1bah)
+- [Build a Weight Converter Website](https://dev.to/abhishekgurjar/build-a-weight-converter-website-1fi6)
+- [Connecting Your Enterprise to the Cloud: Exploring AWS VPN and AWS Direct Connect](https://dev.to/ikoh_sylva/connecting-your-enterprise-to-the-cloud-exploring-aws-vpn-and-aws-direct-connect-afm)
 <!-- BLOG-POST-LIST:END -->
 
