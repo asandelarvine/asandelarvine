@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [👨‍💻Building a Modern AI-Themed Landing Page with Responsive Design and Smooth Animation](https://dev.to/uicraft_by_pratik/building-a-modern-ai-themed-landing-page-with-responsive-design-and-smooth-animation-490n)
-- [DOM Flowt JavaScript Library](https://dev.to/staviro/dom-flowt-javascript-library-35gl)
-- [How to host your own radicle node. Contribute to decentralized source control. 🌌](https://dev.to/viiik/how-to-host-your-own-radicle-node-contribute-to-decentralized-source-control-5cgm)
-- [Optimal Entity Retrieval in .NET 8 : FindAsync vs. FirstOrDefaultAsync](https://dev.to/hamza_darouzi_dotnet/optimal-entity-retrieval-in-net-8-findasync-vs-firstordefaultasync-p4o)
+- [Searching a partner for a startup](https://dev.to/catalingrigoriev/searching-for-a-partener-of-startup-4i2a)
+- [10 JavaScript Super Hacks Every Developer Should Know](https://dev.to/theblipman/10-javascript-super-hacks-every-developer-should-know-38ep)
+- [L1Loss&lpar;&rpar; and MSELoss&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/l1loss-and-mseloss-in-pytorch-53b6)
+- [The SOLID Design Principles](https://dev.to/brandongautama/the-solid-design-principles-319f)
 <!-- BLOG-POST-LIST:END -->
 
