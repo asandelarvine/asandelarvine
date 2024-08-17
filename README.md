@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stylish Gloves for Every Occasion and Essential Gloves to Keep You Warm.](https://dev.to/syed_shah_f86325a0d78163c/stylish-gloves-for-every-occasion-and-essential-gloves-to-keep-you-warm-2bfl)
-- [Navigating the Software Developer Life: Soft Skills, AI Tools, and Team Dynamics](https://dev.to/shaswatha_thilaka/navigating-the-software-developer-life-soft-skills-ai-tools-and-team-dynamics-1bah)
-- [Build a Weight Converter Website](https://dev.to/abhishekgurjar/build-a-weight-converter-website-1fi6)
-- [Connecting Your Enterprise to the Cloud: Exploring AWS VPN and AWS Direct Connect](https://dev.to/ikoh_sylva/connecting-your-enterprise-to-the-cloud-exploring-aws-vpn-and-aws-direct-connect-afm)
+- [Will AI Replace Programmers ?](https://dev.to/dualite/will-ai-replace-programmers--5e66)
+- [Top AI Tools to 10x your Startup Growth](https://dev.to/dualite/top-ai-tools-to-10x-your-startup-growth-1f8)
+- [Hello, world!](https://dev.to/be11amer/hello-world-30jd)
+- [Multiple API in Laravel with HTTP Requests](https://dev.to/skipperhoa/multiple-api-in-laravel-with-http-requests-3ml6)
 <!-- BLOG-POST-LIST:END -->
 
