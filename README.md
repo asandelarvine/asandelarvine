@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Challenge: A Soroban Crowdfactoring dApp](https://dev.to/icolomina/dev-challenge-a-soroban-crowdfactoring-dapp-325e)
-- [Reliable S3 Data Replication: Automatically Mirror New Files Without Worrying About Deletions](https://dev.to/rahulkspace/reliable-s3-data-replication-automatically-mirror-new-files-without-worrying-about-deletions-4mjf)
-- [Entry•X | Decentralized Ticketing Platform](https://dev.to/jose_carlostoscano_3bb03/entryx-decentralized-ticketing-platform-3ak1)
-- [Day 46 / 100 Days of Code: Exploring JavaScript Functions and Dynamic Typing](https://dev.to/jacobsternx/day-46-100-days-of-code-exploring-javascript-functions-and-dynamic-typing-5had)
+- [🚀 Beginner&#39;s Guide to SQL and Databases](https://dev.to/kammarianand/beginners-guide-to-sql-and-databases-f72)
+- [What Changes Have You Seen in Apple&#39;s Brand Identity Over Time?](https://dev.to/wandah/what-changes-have-you-seen-in-apples-brand-identity-over-time-36ji)
+- [Angular DI: Type safe Angular providers](https://dev.to/marekozw/angular-di-type-safe-angular-providers-20d5)
+- [Optimizing Your Code with Python&#39;s Walrus Operator: Real-World Examples and Anti-Patterns to Avoid](https://dev.to/myexamcloud/optimizing-your-code-with-pythons-walrus-operator-real-world-examples-and-anti-patterns-to-avoid-10ii)
 <!-- BLOG-POST-LIST:END -->
 
