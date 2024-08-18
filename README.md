@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TAWK.TO &amp; NEXTjs integration](https://dev.to/hussain101/tawkto-nextjs-integration-19h)
-- [Feature flag](https://dev.to/mdawooddev/feature-flag-jbj)
-- [Netflix Skin for JWPLAYER8 v2.0.7](https://dev.to/donmc_kendiez/netflix-skin-for-jwplayer8-v207-5127)
-- [Slider Parallax Effect](https://dev.to/donmc_kendiez/slider-parallax-effect-19a2)
+- [Mastering Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/reesavgupta/mastering-docker-a-beginners-guide-to-containerization-2ae1)
+- [A quick guide for students starting their tech degree](https://dev.to/hellonehha/a-quick-guide-for-students-starting-their-tech-degree-in9)
+- [You are already doing great, you just don&#39;t know it yet.](https://dev.to/mousepotatodoesstuff/you-are-already-doing-great-you-just-dont-know-it-yet-3cd0)
+- [Day 20: Advanced CI/CD Practices in AWS – Blue-Green Deployments and Automated Testing](https://dev.to/singh_in_cloud/day-20-advanced-cicd-practices-in-aws-blue-green-deployments-and-automated-testing-g8e)
 <!-- BLOG-POST-LIST:END -->
 
