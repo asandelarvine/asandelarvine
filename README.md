@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create your own AI asking App &lpar;Submit text to an AI model View the AI-generated response&rpar;](https://dev.to/mibii/create-your-own-ai-asking-app-submit-text-to-an-ai-model-view-the-ai-generated-response-1g5g)
-- [How to add Custom Font to Tailwind - For Web and Locally Downloaded Fonts](https://dev.to/michaelanazodo1/how-to-add-custom-font-to-tailwind-for-web-and-locally-downloaded-fonts-1m89)
-- [Error: ENOENT: no such file or directory, stat &#39;/opt/render/project/src/public/index.html&#39;](https://dev.to/mibii/error-enoent-no-such-file-or-directory-stat-optrenderprojectsrcpublicindexhtml-2jj3)
-- [Fundamentals of Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/fundamentals-of-transact-sql-t-sql-queries-pkg)
+- [Setting Up a LAMP Stack on Linux for Developers](https://dev.to/itssangam/setting-up-a-lamp-stack-on-linux-for-developers-304f)
+- [15 Advanced TypeScript Tips and Tricks You Might Not Know 🤔💡](https://dev.to/mattlewandowski93/15-advanced-typescript-tips-and-tricks-you-might-not-know-12kk)
+- [Experimenting with AI-Scientist: An AI-Powered Paper Review Tool](https://dev.to/kromiii/experimenting-with-ai-scientist-an-ai-powered-paper-review-tool-4mhh)
+- [Deep dive into Array Data Structure](https://dev.to/chandra179/deep-dive-into-array-data-structure-1g82)
 <!-- BLOG-POST-LIST:END -->
 
