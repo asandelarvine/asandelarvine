@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Solve Big Problems: Insights from &quot;Sprint&quot;](https://dev.to/balrajola/how-to-solve-big-problems-insights-from-sprint-1e4m)
-- [Stellar360: The Ultimate Stellar Wallet, Exchange, Payment Gateway, and Faucet with Integrated Staking](https://dev.to/keshav_simplieap/stellar360-the-ultimate-stellar-wallet-exchange-payment-gateway-and-faucet-with-integrated-staking-28cj)
-- [Stellar360: The Ultimate Stellar Wallet, Exchange, Payment Gateway, and Faucet with Integrated Staking](https://dev.to/keshav_simplieap/stellar360-the-ultimate-stellar-wallet-exchange-payment-gateway-and-faucet-with-integrated-staking-4nam)
-- [Building a Scalable Notification System: A Deep Dive into Design and Architecture](https://dev.to/rajesh1761/building-a-scalable-notification-system-a-deep-dive-into-design-and-architecture-5c9i)
+- [Aplicando o Single Responsability Principle com Typescript e Java](https://dev.to/victorlima142/aplicando-o-single-responsability-principle-com-typescript-e-java-3bah)
+- [Should I do it in the client or the server?](https://dev.to/henriqueleite42/should-i-do-it-in-the-client-or-the-server-11db)
+- [Tutorial on fee estimation for soroban transactions](https://dev.to/rahul-soshte/tutorial-on-fee-estimation-for-soroban-transactions-2p1o)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/sipsdaoracle/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-2o7j)
 <!-- BLOG-POST-LIST:END -->
 
