@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/reesavgupta/mastering-docker-a-beginners-guide-to-containerization-2ae1)
-- [A quick guide for students starting their tech degree](https://dev.to/hellonehha/a-quick-guide-for-students-starting-their-tech-degree-in9)
-- [You are already doing great, you just don&#39;t know it yet.](https://dev.to/mousepotatodoesstuff/you-are-already-doing-great-you-just-dont-know-it-yet-3cd0)
-- [Day 20: Advanced CI/CD Practices in AWS – Blue-Green Deployments and Automated Testing](https://dev.to/singh_in_cloud/day-20-advanced-cicd-practices-in-aws-blue-green-deployments-and-automated-testing-g8e)
+- [How to Solve Big Problems: Insights from &quot;Sprint&quot;](https://dev.to/balrajola/how-to-solve-big-problems-insights-from-sprint-1e4m)
+- [Stellar360: The Ultimate Stellar Wallet, Exchange, Payment Gateway, and Faucet with Integrated Staking](https://dev.to/keshav_simplieap/stellar360-the-ultimate-stellar-wallet-exchange-payment-gateway-and-faucet-with-integrated-staking-28cj)
+- [Stellar360: The Ultimate Stellar Wallet, Exchange, Payment Gateway, and Faucet with Integrated Staking](https://dev.to/keshav_simplieap/stellar360-the-ultimate-stellar-wallet-exchange-payment-gateway-and-faucet-with-integrated-staking-4nam)
+- [Building a Scalable Notification System: A Deep Dive into Design and Architecture](https://dev.to/rajesh1761/building-a-scalable-notification-system-a-deep-dive-into-design-and-architecture-5c9i)
 <!-- BLOG-POST-LIST:END -->
 
