@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Engineering: Embracing Uncertainty](https://dev.to/pragyasapkota/chaos-engineering-embracing-uncertainty-25jg)
-- [Can Self-Taught Programmers Succeed at Apple?](https://dev.to/kthewa/can-self-taught-programmers-succeed-at-apple-lff)
-- [NestJS + Opentelemetry &lpar;Grafana Cloud&rpar;](https://dev.to/siisee11/nestjs-opentelemetry-grafana-cloud-328f)
-- [Comprehensive DevSecOps Pipeline: Secure &amp; Scalable Kubernetes Deployment with AWS EKS, ArgoCD and Jenkins Integration](https://dev.to/swapi123/comprehensive-devsecops-pipeline-secure-scalable-kubernetes-deployment-with-aws-eks-argocd-and-jenkins-integration-3l7g)
+- [👨‍💻Mastering Git: A Beginner’s Guide to the 12 Most Essential Commands🫠](https://dev.to/uicraft_by_pratik/mastering-git-a-beginners-guide-to-the-12-most-essential-commands-21ci)
+- [🚀 Transform Ubuntu with These GNOME Tweaks! 🔥](https://dev.to/best_codes/transform-ubuntu-with-these-gnome-tweaks-31bp)
+- [Client Side Rendering vs Server side rendering vs Server Components](https://dev.to/ivan_kaminskyi/client-side-rendering-vs-server-side-rendering-vs-server-components-1nk6)
+- [What is BPM and How to Build a BPM App?](https://dev.to/nocobase/what-is-bpm-and-how-to-build-a-bpm-app-3bom)
 <!-- BLOG-POST-LIST:END -->
 
