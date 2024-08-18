@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Marketplace](https://dev.to/arsh_the_coder/token-marketplace-4nld)
-- [What Are the Key Features of Swift 6?](https://dev.to/kathleenbabcock/what-are-the-key-features-of-swift-6-13g7)
-- [Proteção em dispositivos móveis.](https://dev.to/victorzarzar/protecao-em-dispositivos-moveis-31ei)
-- [EcoLedger: Rewarding Sustainable Actions](https://dev.to/binabdulateef/ecoledger-rewarding-sustainable-actions-13g0)
+- [Do You Need All That Support Levels After All?](https://dev.to/femolacaster/do-you-need-all-that-support-levels-after-all-54j7)
+- [Part 1: Create an API with Nest.js [2024]](https://dev.to/rameduard/part-1-create-an-api-with-nestjs-2024-2k8c)
+- [Give Your Chatbot a Brain - Contextual AI with Python](https://dev.to/robertluwang/give-your-chatbot-a-brain-contextual-ai-with-python-389b)
+- [Introducing a Flexible and Framework-Agnostic Laravel Livewire Modal Package](https://dev.to/mhsagor110090/introducing-a-flexible-and-framework-agnostic-laravel-livewire-modal-package-39m2)
 <!-- BLOG-POST-LIST:END -->
 
