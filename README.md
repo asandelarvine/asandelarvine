@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [House Robber Problem](https://dev.to/theyashsawarkar/house-robber-problem-14o4)
-- [Let&#39;s understand the different types of NPM dependencies](https://dev.to/syed_ammar/lets-understand-the-different-types-of-npm-dependencies-bo8)
-- [Stellar by Example: Web2 to Web3 Beginner Guide.](https://dev.to/emee/stellar-by-example-web2-to-web3-beginner-guide-3665)
-- [Selenium](https://dev.to/devi_sudhakar_12ec71f0137/selenium-1k6j)
+- [15 Best System Design Websites for Developers &lpar;2024&rpar;](https://dev.to/somadevtoo/15-best-system-design-websites-for-developers-2024-276l)
+- [Ruby on Rails API Quiz](https://dev.to/hrishio/ruby-on-rails-api-quiz-552o)
+- [How to Contribute to Open Source: A Developer’s Roadmap 🚀](https://dev.to/lokesh_singh/how-to-contribute-to-open-source-a-developers-roadmap-c5p)
+- [Future Engineering: The Ultimate Guide](https://dev.to/evanskiprotich/future-engineering-the-ultimate-guide-4ap)
 <!-- BLOG-POST-LIST:END -->
 
