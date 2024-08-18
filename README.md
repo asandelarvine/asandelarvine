@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Custom Middleware in Azure Functions: A Step-by-Step Guide with .NET 8](https://dev.to/codestreet/how-to-create-custom-middleware-in-azure-functions-a-step-by-step-guide-with-net-8-17gp)
-- [ERR_PNPM_BAD_PM_VERSION This project is configured to use vX of pnpm. Your current pnpm is vY](https://dev.to/michalbryxi/errpnpmbadpmversion-this-project-is-configured-to-use-vx-of-pnpm-your-current-pnpm-is-vy-e0e)
-- [Software Testing](https://dev.to/devi_sudhakar_12ec71f0137/software-testing-5hdh)
-- [HTB Academy: Password Attacks Module – Password Reuse/Default Passwords](https://dev.to/saramazal/htb-academy-password-attacks-module-password-reusedefault-passwords-pae)
+- [House Robber Problem](https://dev.to/theyashsawarkar/house-robber-problem-14o4)
+- [Let&#39;s understand the different types of NPM dependencies](https://dev.to/syed_ammar/lets-understand-the-different-types-of-npm-dependencies-bo8)
+- [Stellar by Example: Web2 to Web3 Beginner Guide.](https://dev.to/emee/stellar-by-example-web2-to-web3-beginner-guide-3665)
+- [Selenium](https://dev.to/devi_sudhakar_12ec71f0137/selenium-1k6j)
 <!-- BLOG-POST-LIST:END -->
 
