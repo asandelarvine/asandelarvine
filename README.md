@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [懈怠了 - FAV0周刊#011](https://dev.to/justin3go/xie-dai-liao-fav0zhou-kan-011-34gl)
-- [Slacking Off - FAV0 Weekly #011](https://dev.to/justin3go/slacking-off-fav0-weekly-011-aag)
-- [Turn any content into your knowledge base with AI](https://dev.to/jiajunyan/turn-any-content-into-your-knowledge-base-with-ai-56fo)
-- [arc42 for your software architecture: The best choice for sustainable documentation](https://dev.to/florianlenz/arc42-for-your-software-architecture-the-best-choice-for-sustainable-documentation-383p)
+- [.NET tarixi.](https://dev.to/dilmurod_yaqubbayev_073a5/net-tarixi-2cc6)
+- [TIL: Gemini can analyze errors directly on the browser](https://dev.to/klauskpm/til-gemini-can-analyze-errors-directly-on-the-browser-g45)
+- [Creating a Level Editor for Sub-Optimal](https://dev.to/joestrout/creating-a-level-editor-for-sub-optimal-19hd)
+- [Top 5 Cloud Platform News This Week: August 2024](https://dev.to/starkydevs/top-5-cloud-platform-news-this-week-august-2024-1mn4)
 <!-- BLOG-POST-LIST:END -->
 
