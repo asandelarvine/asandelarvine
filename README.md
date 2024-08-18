@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Need All That Support Levels After All?](https://dev.to/femolacaster/do-you-need-all-that-support-levels-after-all-54j7)
-- [Part 1: Create an API with Nest.js [2024]](https://dev.to/rameduard/part-1-create-an-api-with-nestjs-2024-2k8c)
-- [Give Your Chatbot a Brain - Contextual AI with Python](https://dev.to/robertluwang/give-your-chatbot-a-brain-contextual-ai-with-python-389b)
-- [Introducing a Flexible and Framework-Agnostic Laravel Livewire Modal Package](https://dev.to/mhsagor110090/introducing-a-flexible-and-framework-agnostic-laravel-livewire-modal-package-39m2)
+- [TAWK.TO &amp; NEXTjs integration](https://dev.to/hussain101/tawkto-nextjs-integration-19h)
+- [Feature flag](https://dev.to/mdawooddev/feature-flag-jbj)
+- [Netflix Skin for JWPLAYER8 v2.0.7](https://dev.to/donmc_kendiez/netflix-skin-for-jwplayer8-v207-5127)
+- [Slider Parallax Effect](https://dev.to/donmc_kendiez/slider-parallax-effect-19a2)
 <!-- BLOG-POST-LIST:END -->
 
