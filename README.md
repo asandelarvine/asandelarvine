@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding scope in JavaScript](https://dev.to/garrettlove8/understanding-scope-in-javascript-18fb)
-- [JavaScript Evolution: 5 Game-Changing Features Coming Soon](https://dev.to/codeakash/javascript-evolution-5-game-changing-features-coming-soon-4em)
-- [Transitioning from Monolithic to Microservices Architecture](https://dev.to/aakashkhanna/transitioning-from-monolithic-to-microservices-architecture-38al)
-- [&quot;Understanding Your Data: The Essentials of Exploratory Data Analysis&quot;. #exploratory data analysis #data science # statistics](https://dev.to/athi47/understanding-your-data-the-essentials-of-exploratory-data-analysis-exploratory-data-analysis-data-science-statistics-3oo3)
+- [Understanding the CSS Box Model: content-box vs border-box, inline vs. block elements](https://dev.to/horaceshmorace/understanding-the-css-box-model-content-box-vs-border-box-inline-vs-block-elements-1amh)
+- [Securing Web Applications with OAuth2](https://dev.to/kartikmehta8/securing-web-applications-with-oauth2-2omj)
+- [How to Host a Static Website on AWS Using S3, Route 53, CloudFront, and Certificate Manager](https://dev.to/jaideep247/how-to-host-a-static-website-on-aws-using-s3-route-53-cloudfront-and-certificate-manager-13p8)
+- [⌨️ 🔍🐛 Corrigindo atalhos no VSCode](https://dev.to/maiquitome/corrigindo-atalhos-no-vscode-4fo7)
 <!-- BLOG-POST-LIST:END -->
 
