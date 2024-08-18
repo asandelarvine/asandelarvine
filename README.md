@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your own AI asking App &lpar;Submit text to an AI model View the AI-generated response&rpar;](https://dev.to/mibii/create-your-own-ai-asking-app-submit-text-to-an-ai-model-view-the-ai-generated-response-1g5g)
 - [How to add Custom Font to Tailwind - For Web and Locally Downloaded Fonts](https://dev.to/michaelanazodo1/how-to-add-custom-font-to-tailwind-for-web-and-locally-downloaded-fonts-1m89)
 - [Error: ENOENT: no such file or directory, stat &#39;/opt/render/project/src/public/index.html&#39;](https://dev.to/mibii/error-enoent-no-such-file-or-directory-stat-optrenderprojectsrcpublicindexhtml-2jj3)
 - [Fundamentals of Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/fundamentals-of-transact-sql-t-sql-queries-pkg)
-- [My Path to AWS Solutions Architect Certification: Tips and Insights for Success](https://dev.to/starkydevs/my-path-to-aws-solutions-architect-certification-tips-and-insights-for-success-3c2n)
 <!-- BLOG-POST-LIST:END -->
 
