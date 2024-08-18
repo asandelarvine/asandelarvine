@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elastic RUM &lpar;Real User Monitoring&rpar; with Open Telemetry &lpar;OTel&rpar;](https://dev.to/rranjan/elastic-rum-real-user-monitoring-with-open-telemetry-otel-3nbg)
-- [Making a pastebin clone Part-1 TBC](https://dev.to/aymuos/making-a-pastebin-clone-part-1-tbc-24o0)
-- [Free 32+ APIs for Coders in 2024](https://dev.to/riturajps/free-32-apis-for-coders-in-2024-dam)
-- [DeepSeek-Prover advances theorem proving through reinforcement learning and Monte-Carlo Tree Search with proof assistant feedbac](https://dev.to/mikeyoung44/deepseek-prover-advances-theorem-proving-through-reinforcement-learning-and-monte-carlo-tree-search-with-proof-assistant-feedbac-kb9)
+- [GitHub Actions Azure Vnet Integration](https://dev.to/maxx_don/github-actions-azure-vnet-integration-mf1)
+- [Re-rebuilding TF2.8 image: 369 patches](https://dev.to/dchaley/re-rebuilding-tf28-image-369-patches-kif)
+- [How Does Apple&#39;s App Store Compare to Google Play?](https://dev.to/willie_brown/how-does-apples-app-store-compare-to-google-play-4ho3)
+- [Checking out code using github action in legacy runner](https://dev.to/kishanbsh/checking-out-code-using-github-action-in-legacy-runner-4a6d)
 <!-- BLOG-POST-LIST:END -->
 
