@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aplicando o Single Responsability Principle com Typescript e Java](https://dev.to/victorlima142/aplicando-o-single-responsability-principle-com-typescript-e-java-3bah)
-- [Should I do it in the client or the server?](https://dev.to/henriqueleite42/should-i-do-it-in-the-client-or-the-server-11db)
-- [Tutorial on fee estimation for soroban transactions](https://dev.to/rahul-soshte/tutorial-on-fee-estimation-for-soroban-transactions-2p1o)
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/sipsdaoracle/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-2o7j)
+- [A Standard Proposal for Extending Classic Asset&#39;s Behavior - Tutorial](https://dev.to/fazzatti/a-standard-proposal-for-extending-classic-assets-behavior-tutorial-j77)
+- [A Standard Proposal for Extending Classic Asset&#39;s Behavior - Demos](https://dev.to/fazzatti/a-standard-proposal-for-extending-classic-assets-behavior-demos-2e3i)
+- [Covering Index](https://dev.to/ahmedelmehalawi/covering-index-3mni)
+- [IL&lt;&lt;&lpar;Intermedite Language&rpar;](https://dev.to/dilmurod_yaqubbayev_073a5/ilintermedite-language-ph1)
 <!-- BLOG-POST-LIST:END -->
 
