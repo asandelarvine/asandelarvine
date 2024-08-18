@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KhataLook - Face Recognition Meets Retail Debt Tracking in React](https://dev.to/akshat_gautam/khatalook-face-recognition-meets-retail-debt-tracking-in-react-21g7)
-- [Why Choose React JS for Your Next Project?](https://dev.to/kathyanderson/why-choose-react-js-for-your-next-project-3gj6)
-- [How Does Uber&#39;s Technology Ensure Accurate Pickup and Drop-Off Locations?](https://dev.to/grantj/how-does-ubers-technology-ensure-accurate-pickup-and-drop-off-locations-2lp8)
-- [Problem Solving Patterns](https://dev.to/kanishkaisuru/problem-solving-patterns-3pf8)
+- [Chaos Engineering: Embracing Uncertainty](https://dev.to/pragyasapkota/chaos-engineering-embracing-uncertainty-25jg)
+- [Can Self-Taught Programmers Succeed at Apple?](https://dev.to/kthewa/can-self-taught-programmers-succeed-at-apple-lff)
+- [NestJS + Opentelemetry &lpar;Grafana Cloud&rpar;](https://dev.to/siisee11/nestjs-opentelemetry-grafana-cloud-328f)
+- [Comprehensive DevSecOps Pipeline: Secure &amp; Scalable Kubernetes Deployment with AWS EKS, ArgoCD and Jenkins Integration](https://dev.to/swapi123/comprehensive-devsecops-pipeline-secure-scalable-kubernetes-deployment-with-aws-eks-argocd-and-jenkins-integration-3l7g)
 <!-- BLOG-POST-LIST:END -->
 
