@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the CSS Box Model: content-box vs border-box, inline vs. block elements](https://dev.to/horaceshmorace/understanding-the-css-box-model-content-box-vs-border-box-inline-vs-block-elements-1amh)
-- [Securing Web Applications with OAuth2](https://dev.to/kartikmehta8/securing-web-applications-with-oauth2-2omj)
-- [How to Host a Static Website on AWS Using S3, Route 53, CloudFront, and Certificate Manager](https://dev.to/jaideep247/how-to-host-a-static-website-on-aws-using-s3-route-53-cloudfront-and-certificate-manager-13p8)
-- [⌨️ 🔍🐛 Corrigindo atalhos no VSCode](https://dev.to/maiquitome/corrigindo-atalhos-no-vscode-4fo7)
+- [How to add Custom Font to Tailwind - For Web and Locally Downloaded Fonts](https://dev.to/michaelanazodo1/how-to-add-custom-font-to-tailwind-for-web-and-locally-downloaded-fonts-1m89)
+- [Error: ENOENT: no such file or directory, stat &#39;/opt/render/project/src/public/index.html&#39;](https://dev.to/mibii/error-enoent-no-such-file-or-directory-stat-optrenderprojectsrcpublicindexhtml-2jj3)
+- [Fundamentals of Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/fundamentals-of-transact-sql-t-sql-queries-pkg)
+- [My Path to AWS Solutions Architect Certification: Tips and Insights for Success](https://dev.to/starkydevs/my-path-to-aws-solutions-architect-certification-tips-and-insights-for-success-3c2n)
 <!-- BLOG-POST-LIST:END -->
 
