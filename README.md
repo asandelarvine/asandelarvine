@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best System Design Websites for Developers &lpar;2024&rpar;](https://dev.to/somadevtoo/15-best-system-design-websites-for-developers-2024-276l)
-- [Ruby on Rails API Quiz](https://dev.to/hrishio/ruby-on-rails-api-quiz-552o)
-- [How to Contribute to Open Source: A Developer’s Roadmap 🚀](https://dev.to/lokesh_singh/how-to-contribute-to-open-source-a-developers-roadmap-c5p)
-- [Future Engineering: The Ultimate Guide](https://dev.to/evanskiprotich/future-engineering-the-ultimate-guide-4ap)
+- [KhataLook - Face Recognition Meets Retail Debt Tracking in React](https://dev.to/akshat_gautam/khatalook-face-recognition-meets-retail-debt-tracking-in-react-21g7)
+- [Why Choose React JS for Your Next Project?](https://dev.to/kathyanderson/why-choose-react-js-for-your-next-project-3gj6)
+- [How Does Uber&#39;s Technology Ensure Accurate Pickup and Drop-Off Locations?](https://dev.to/grantj/how-does-ubers-technology-ensure-accurate-pickup-and-drop-off-locations-2lp8)
+- [Problem Solving Patterns](https://dev.to/kanishkaisuru/problem-solving-patterns-3pf8)
 <!-- BLOG-POST-LIST:END -->
 
