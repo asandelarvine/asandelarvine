@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Applied at a FAANG and Failed — Three Interviewing Lessons](https://dev.to/canro91/i-applied-at-a-faang-and-failed-three-interviewing-lessons-1a4k)
-- [Stay ahead in web development: latest news, tools, and insights #46](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-46-3hpn)
-- [Build a Modern Blog with Next.js 14 &amp; Sanity: A Step-by-Step Guide](https://dev.to/coderamrin/build-a-modern-blog-with-nextjs-14-sanity-a-step-by-step-guide-3igd)
-- [Pay Picker: Fun way to decide who&#39;s paying | #BuildBetterOnStellar](https://dev.to/hastodev/pay-picker-fun-way-to-decide-whos-paying-buildbetteronstellar-1o4e)
+- [Postmortem: The Popcorn Panic](https://dev.to/nturajo/postmortem-the-popcorn-panic-15m0)
+- [Nextjs中使用axios实现一个动态的下载/上传进度条](https://dev.to/longlikun/nextjszhong-shi-yong-axiosshi-xian-ge-dong-tai-de-xia-zai-shang-chuan-jin-du-tiao-1dph)
+- [Beauty on the Blockchain](https://dev.to/bcrebel/beauty-on-the-blockchain-348c)
+- [How to Create Your Own Form with Power Automate](https://dev.to/wyattdave/how-to-create-your-own-form-with-power-automate-4546)
 <!-- BLOG-POST-LIST:END -->
 
