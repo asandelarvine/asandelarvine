@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Secured My Website with SafeLine WAF: A Beginner’s Guide to Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/how-i-secured-my-website-with-safeline-waf-a-beginners-guide-to-easy-deployment-1854)
-- [# Interacting with Chrome DevTools Using WebDriverIO](https://dev.to/gadekar_sachin/-interacting-with-chrome-devtools-using-webdriverio-je0)
-- [🤖 End to end LLMOps Pipeline - Part 7- Validating Kubernetes Manifests with kube-score🤖](https://dev.to/lakhera2015/end-to-end-llmops-pipeline-part-7-validating-kubernetes-manifests-with-kube-score-4ig4)
-- [How to Use Solana Web3 in Unity](https://dev.to/imaijiro/how-to-use-solana-web3-in-unity-332d)
+- [I Applied at a FAANG and Failed — Three Interviewing Lessons](https://dev.to/canro91/i-applied-at-a-faang-and-failed-three-interviewing-lessons-1a4k)
+- [Stay ahead in web development: latest news, tools, and insights #46](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-46-3hpn)
+- [Build a Modern Blog with Next.js 14 &amp; Sanity: A Step-by-Step Guide](https://dev.to/coderamrin/build-a-modern-blog-with-nextjs-14-sanity-a-step-by-step-guide-3igd)
+- [Pay Picker: Fun way to decide who&#39;s paying | #BuildBetterOnStellar](https://dev.to/hastodev/pay-picker-fun-way-to-decide-whos-paying-buildbetteronstellar-1o4e)
 <!-- BLOG-POST-LIST:END -->
 
