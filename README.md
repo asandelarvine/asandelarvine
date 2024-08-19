@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 0: Introduction to Backend Development - Setting the Foundation](https://dev.to/adeleke123/day-0-introduction-to-backend-development-setting-the-foundation-gcb)
-- [💡📖 Essential Git Commands: Your Go-To Cheat Sheet for Efficient Version Control](https://dev.to/fonteeboa/essential-git-commands-your-go-to-cheat-sheet-for-efficient-version-control-1iel)
-- [Official Supabase extension for VS Code and GitHub Copilot](https://dev.to/supabase/official-supabase-extension-for-vs-code-and-github-copilot-3gj4)
-- [5 Micro SaaS Ideas - Real-world - Potential](https://dev.to/patrick_web/5-micro-saas-ideas-real-world-potential-3ge5)
+- [Handling Concurrency Issues in Backend Systems Under Heavy Load](https://dev.to/shieldstring/handling-concurrency-issues-in-backend-systems-under-heavy-load-5b8e)
+- [How to extend the disk space of an AWS EC2 instance](https://dev.to/jamesmurdza/how-to-extend-the-disk-space-of-an-aws-ec2-instance-h3n)
+- [Day 1013 : Somehow](https://dev.to/dwane/day-1013-somehow-18a5)
+- [Pare de fazer comparações patéticas](https://dev.to/ebraim_sambo/pare-de-fazer-comparacoes-pateticas-548k)
 <!-- BLOG-POST-LIST:END -->
 
