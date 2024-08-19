@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use EC2 user data script run a flask app🌐](https://dev.to/jj_tse0405/use-user-data-script-run-a-flask-app-im3)
-- [Depurando Aplicativos Inativos](https://dev.to/flounder4130/depurando-aplicativos-inativos-20o0)
-- [How the Stellar Consensus Protocol &lpar;SCP&rpar; Works](https://dev.to/oma/how-the-stellar-consensus-protocol-scp-works-1lc1)
-- [A tool I made for me, but thought I&#39;d share - Interview Prep Pro](https://dev.to/aveesdev/a-tool-i-made-for-me-but-thought-id-share-interview-prep-pro-578a)
+- [SoroGit A Soroban dApp for Bidding on GitHub Issues and Getting Paid in Crypto](https://dev.to/aggreyeric/sorogit-a-soroban-dapp-for-bidding-on-github-issues-and-getting-paid-in-crypto-56l8)
+- [stellar-TUI a terminal user interface for Horizon Stellar](https://dev.to/cirqueira/stellar-tui-a-terminal-user-interface-for-horizon-stellar-11l1)
+- [Snowflake&#39;s Blueprint for Resilience: High Availability and Disaster Recovery](https://dev.to/digitalchemist/snowflakes-blueprint-for-resilience-high-availability-and-disaster-recovery-5h8k)
+- [How to become a better coder](https://dev.to/mosininamdar/how-to-become-a-better-coder-b97)
 <!-- BLOG-POST-LIST:END -->
 
