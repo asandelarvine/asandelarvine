@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing SafeLine: A Decade of Expertise in Web Application Security](https://dev.to/sherbertill6/introducing-safeline-a-decade-of-expertise-in-web-application-security-5a7b)
-- [Understanding the Distinction: Web4 vs. Web4.0](https://dev.to/web4/understanding-the-distinction-web4-vs-web40-c07)
-- [Read Phone Contacts with JavaScript](https://dev.to/alvaromontoro/read-phone-contacts-with-javascript-1j2)
-- [Arrow functions in JavaScript](https://dev.to/dunsincodes/arrow-functions-in-javascript-971)
+- [SOLID: O - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/paulocappa/solid-o-openclosed-principle-ocp-gc8)
+- [Setting your default browser via Command Line in macOS](https://dev.to/letsbsocial1/setting-your-default-browser-via-command-line-in-macos-3n6p)
+- [Next.js App Router navigation indicator and the delay after onclick](https://dev.to/tyuen/nextjs-app-router-navigation-indicator-and-the-delay-after-onclick-5aba)
+- [Top Open-Source WAF Projects: Secure Your Website with the Best Tools](https://dev.to/motorbuy6/top-open-source-waf-projects-secure-your-website-with-the-best-tools-1e4o)
 <!-- BLOG-POST-LIST:END -->
 
