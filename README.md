@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ejercicios de logica y programacion: Enfoques y Optimización](https://dev.to/jpinodev/ejercicios-de-logica-y-programacion-enfoques-y-optimizacion-aka)
-- [Installing PHP 8.2/8.3+ on ubuntu 23.04+](https://dev.to/niyiojeyinka/installing-php-8283-on-ubuntu-2304-4op3)
-- [Solana Dips After Recovery Hints. What&#39;s Next?](https://dev.to/endeo/solana-dips-after-recovery-hints-whats-next-hbj)
-- [Mastering Laravel Artisan Commands: Optimize, Tinker, and More](https://dev.to/asfiaaiman/mastering-laravel-artisan-commands-optimize-tinker-and-more-2lm1)
+- [CSS Layers: A New Frontier for Style Management](https://dev.to/waelhabbal/css-layers-a-new-frontier-for-style-management-4knb)
+- [CSS Specificity: The Weight Behind Your Styles](https://dev.to/waelhabbal/css-specificity-the-weight-behind-your-styles-5egl)
+- [650. 2 Keys Keyboard](https://dev.to/mdarifulhaque/650-2-keys-keyboard-57n0)
+- [Welcoming colors to the stdlib REPL!](https://dev.to/stdlib/welcoming-colors-to-the-stdlib-repl-24ie)
 <!-- BLOG-POST-LIST:END -->
 
