@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Journey to Zero Value Authentication in Turkish Market](https://dev.to/shopskasalad/the-journey-to-zero-value-authentication-in-turkish-market-48ic)
-- [Optimizing E-Commerce Navigation with Pagination, Sorting, and Filter Features](https://dev.to/webcraft-notes/optimizing-e-commerce-navigation-with-pagination-sorting-and-filter-features-3gon)
-- [Mastering MySQL: Key Performance Metrics Every Developer Should Monitor](https://dev.to/drupaladmin/mastering-mysql-key-performance-metrics-every-developer-should-track-18g8)
-- [How did we test hundreds of landing pages](https://dev.to/woovi/how-did-we-test-hundreds-of-landing-pages-3nj9)
+- [Scraping Jobs listed on Hacker News](https://dev.to/hamzarahman/scraping-jobs-listed-on-hacker-news-598g)
+- [How Do You Integrate PHP with MySQL for Database Management?](https://dev.to/jeromfdolk/how-do-you-integrate-php-with-mysql-for-database-management-90l)
+- [🚀 Enhance Your Website&#39;s Interactions with Hover.css](https://dev.to/uicraft_by_pratik/enhance-your-websites-interactions-with-hovercss-2i8i)
+- [Meme Monday](https://dev.to/ben/meme-monday-lgn)
 <!-- BLOG-POST-LIST:END -->
 
