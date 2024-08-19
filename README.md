@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing](https://dev.to/furkangozukara/resshift-1-click-windows-runpod-massed-compute-kaggle-installers-with-amazing-gradio-app-and-batch-image-processing-4fmp)
-- [Git: Keeping your email safe in public repositories](https://dev.to/bad-logic/git-keeping-your-email-safe-in-public-repositories-16cg)
-- [Como hice dinero &lpar;USD 2.500&rpar; con Telegram en Chile](https://dev.to/ocarmora/como-hice-dinero-usd-2500-con-telegram-en-chile-4db4)
-- [One World Raise Center: decentralised fundraising with Stellar and Soroban](https://dev.to/stentorian-studio/one-world-raise-center-decentralised-fundraising-with-stellar-and-soroban-3kpk)
+- [Use EC2 user data script run a flask app🌐](https://dev.to/jj_tse0405/use-user-data-script-run-a-flask-app-im3)
+- [Depurando Aplicativos Inativos](https://dev.to/flounder4130/depurando-aplicativos-inativos-20o0)
+- [How the Stellar Consensus Protocol &lpar;SCP&rpar; Works](https://dev.to/oma/how-the-stellar-consensus-protocol-scp-works-1lc1)
+- [A tool I made for me, but thought I&#39;d share - Interview Prep Pro](https://dev.to/aveesdev/a-tool-i-made-for-me-but-thought-id-share-interview-prep-pro-578a)
 <!-- BLOG-POST-LIST:END -->
 
