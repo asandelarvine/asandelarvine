@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SoroGit A Soroban dApp for Bidding on GitHub Issues and Getting Paid in Crypto](https://dev.to/aggreyeric/sorogit-a-soroban-dapp-for-bidding-on-github-issues-and-getting-paid-in-crypto-56l8)
-- [stellar-TUI a terminal user interface for Horizon Stellar](https://dev.to/cirqueira/stellar-tui-a-terminal-user-interface-for-horizon-stellar-11l1)
-- [Snowflake&#39;s Blueprint for Resilience: High Availability and Disaster Recovery](https://dev.to/digitalchemist/snowflakes-blueprint-for-resilience-high-availability-and-disaster-recovery-5h8k)
-- [How to become a better coder](https://dev.to/mosininamdar/how-to-become-a-better-coder-b97)
+- [How I Secured My Website with SafeLine WAF: A Beginner’s Guide to Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/how-i-secured-my-website-with-safeline-waf-a-beginners-guide-to-easy-deployment-1854)
+- [# Interacting with Chrome DevTools Using WebDriverIO](https://dev.to/gadekar_sachin/-interacting-with-chrome-devtools-using-webdriverio-je0)
+- [🤖 End to end LLMOps Pipeline - Part 7- Validating Kubernetes Manifests with kube-score🤖](https://dev.to/lakhera2015/end-to-end-llmops-pipeline-part-7-validating-kubernetes-manifests-with-kube-score-4ig4)
+- [How to Use Solana Web3 in Unity](https://dev.to/imaijiro/how-to-use-solana-web3-in-unity-332d)
 <!-- BLOG-POST-LIST:END -->
 
