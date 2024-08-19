@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🦆 💏 🐘 Let PostgreSQL &amp; duckdb &quot;sql&quot; together](https://dev.to/adriens/let-postgresql-duckdb-sql-together-183o)
-- [Docker Installation Log for WSL 2 on Windows](https://dev.to/eddiegulay/docker-installation-log-for-wsl-2-on-windows-7kl)
-- [Enhancing User Experience: The Power of AI Chatbots](https://dev.to/sista-ai/enhancing-user-experience-the-power-of-ai-chatbots-3eb7)
-- [[MICROSERVICES] Message Queues e REST – Uma Abordagem com Go, NodeJS e Clean Architecture](https://dev.to/williammdsilva/microservices-message-queues-e-rest-uma-abordagem-com-go-nodejs-e-clean-architecture-l4b)
+- [Day 0: Introduction to Backend Development - Setting the Foundation](https://dev.to/adeleke123/day-0-introduction-to-backend-development-setting-the-foundation-gcb)
+- [💡📖 Essential Git Commands: Your Go-To Cheat Sheet for Efficient Version Control](https://dev.to/fonteeboa/essential-git-commands-your-go-to-cheat-sheet-for-efficient-version-control-1iel)
+- [Official Supabase extension for VS Code and GitHub Copilot](https://dev.to/supabase/official-supabase-extension-for-vs-code-and-github-copilot-3gj4)
+- [5 Micro SaaS Ideas - Real-world - Potential](https://dev.to/patrick_web/5-micro-saas-ideas-real-world-potential-3ge5)
 <!-- BLOG-POST-LIST:END -->
 
