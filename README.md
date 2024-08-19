@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL vs MySQL: A Concise Comparison](https://dev.to/dbvismarketing/postgresql-vs-mysql-a-concise-comparison-27hj)
-- [Soroban by Example](https://dev.to/koolamusic/soroban-by-example-5bg4)
-- [Startup on the Stellar network](https://dev.to/livichain/startup-on-the-stellar-network-75d)
-- [System design methodologies as a way to create contracts for dApp](https://dev.to/hunterionize/system-design-methodologies-as-a-way-to-create-contracts-for-dapp-ial)
+- [Tutorial: Building a Charitable Donation Module for Stellar DeFi Applications](https://dev.to/hunterionize/tutorial-building-a-charitable-donation-module-for-stellar-defi-applications-ob9)
+- [Automating SLO Management: Boost Efficiency, Accuracy, and Reliability](https://dev.to/squadcast/automating-slo-management-boost-efficiency-accuracy-and-reliability-27fg)
+- [FEATURE ENGINEERING FOR DATA SCIENCE](https://dev.to/kiplimo_patrick_24/feature-engineering-for-data-science-3hg6)
+- [GnuPG and Digital Signatures](https://dev.to/teooman/gnupg-and-digital-signatures-5dh8)
 <!-- BLOG-POST-LIST:END -->
 
