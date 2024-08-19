@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID: O - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/paulocappa/solid-o-openclosed-principle-ocp-gc8)
-- [Setting your default browser via Command Line in macOS](https://dev.to/letsbsocial1/setting-your-default-browser-via-command-line-in-macos-3n6p)
-- [Next.js App Router navigation indicator and the delay after onclick](https://dev.to/tyuen/nextjs-app-router-navigation-indicator-and-the-delay-after-onclick-5aba)
-- [Top Open-Source WAF Projects: Secure Your Website with the Best Tools](https://dev.to/motorbuy6/top-open-source-waf-projects-secure-your-website-with-the-best-tools-1e4o)
+- [How to Inspect Pages Using DevTools](https://dev.to/thekarlesi/how-to-inspect-pages-using-devtools-48la)
+- [Ibuprofeno.py💊| #165: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-165-explica-este-codigo-python-56dd)
+- [Artificial Intelligence &lpar;In-Depth Exploration&rpar; and how create AI Model and Website](https://dev.to/hamda_mirza_c7a7d996a13ef/artificial-intelligence-in-depth-exploration-and-how-create-ai-model-and-website-1gj0)
+- [Master Your DevOps Interview: Top 50 Questions &amp; Answers for 2024](https://dev.to/dareyio/master-your-devops-interview-top-50-questions-answers-for-2024-1ng0)
 <!-- BLOG-POST-LIST:END -->
 
