@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Layers: A New Frontier for Style Management](https://dev.to/waelhabbal/css-layers-a-new-frontier-for-style-management-4knb)
-- [CSS Specificity: The Weight Behind Your Styles](https://dev.to/waelhabbal/css-specificity-the-weight-behind-your-styles-5egl)
-- [650. 2 Keys Keyboard](https://dev.to/mdarifulhaque/650-2-keys-keyboard-57n0)
-- [Welcoming colors to the stdlib REPL!](https://dev.to/stdlib/welcoming-colors-to-the-stdlib-repl-24ie)
+- [Preventing Keras to allocate unnecessary GPU memory](https://dev.to/tallesl/preventing-keras-to-allocate-unnecessary-gpu-memory-4mi1)
+- [How to add Limited Login Facebook on iOS and Android on server-side and client-side](https://dev.to/meatboy/how-to-add-limited-login-facebook-on-ios-and-android-on-server-side-and-client-side-4616)
+- [Day 0 of the #100daysofMiva Challenge.](https://dev.to/ayotomi_de/day-0-of-the-100daysofmiva-challenge-3klb)
+- [Pull Requests and Code Reviews: Collaborate Effectively on GitHub](https://dev.to/imevanc/pull-requests-and-code-reviews-collaborate-effectively-on-github-mfn)
 <!-- BLOG-POST-LIST:END -->
 
