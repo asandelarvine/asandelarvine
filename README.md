@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Jobs listed on Hacker News](https://dev.to/hamzarahman/scraping-jobs-listed-on-hacker-news-598g)
-- [How Do You Integrate PHP with MySQL for Database Management?](https://dev.to/jeromfdolk/how-do-you-integrate-php-with-mysql-for-database-management-90l)
-- [🚀 Enhance Your Website&#39;s Interactions with Hover.css](https://dev.to/uicraft_by_pratik/enhance-your-websites-interactions-with-hovercss-2i8i)
-- [Meme Monday](https://dev.to/ben/meme-monday-lgn)
+- [How to Build Your First Mobile App in Flutter: A Step-by-Step Guide](https://dev.to/futuristicgeeks/how-to-build-your-first-mobile-app-in-flutter-a-step-by-step-guide-3f67)
+- [Introducing RacingBars 📊](https://dev.to/hatemhosny/introducing-racingbars-245f)
+- [NMS Migration Made Easy: Get Stakeholders Aligned](https://dev.to/adatole/nms-migration-made-easy-get-stakeholders-aligned-nf4)
+- [Is Authentication Just About What The Server And Client Know And Don&#39;t Know?](https://dev.to/rickyxyz/is-authentication-just-about-what-the-server-and-client-know-and-dont-know-gi2)
 <!-- BLOG-POST-LIST:END -->
 
