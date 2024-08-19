@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Inspect Pages Using DevTools](https://dev.to/thekarlesi/how-to-inspect-pages-using-devtools-48la)
-- [Ibuprofeno.py💊| #165: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-165-explica-este-codigo-python-56dd)
-- [Artificial Intelligence &lpar;In-Depth Exploration&rpar; and how create AI Model and Website](https://dev.to/hamda_mirza_c7a7d996a13ef/artificial-intelligence-in-depth-exploration-and-how-create-ai-model-and-website-1gj0)
-- [Master Your DevOps Interview: Top 50 Questions &amp; Answers for 2024](https://dev.to/dareyio/master-your-devops-interview-top-50-questions-answers-for-2024-1ng0)
+- [The Journey to Zero Value Authentication in Turkish Market](https://dev.to/shopskasalad/the-journey-to-zero-value-authentication-in-turkish-market-48ic)
+- [Optimizing E-Commerce Navigation with Pagination, Sorting, and Filter Features](https://dev.to/webcraft-notes/optimizing-e-commerce-navigation-with-pagination-sorting-and-filter-features-3gon)
+- [Mastering MySQL: Key Performance Metrics Every Developer Should Monitor](https://dev.to/drupaladmin/mastering-mysql-key-performance-metrics-every-developer-should-track-18g8)
+- [How did we test hundreds of landing pages](https://dev.to/woovi/how-did-we-test-hundreds-of-landing-pages-3nj9)
 <!-- BLOG-POST-LIST:END -->
 
