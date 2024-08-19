@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate Contextual Comments into Matterport SDK](https://dev.to/superviz/how-to-integrate-contextual-comments-into-matterport-sdk-3jmn)
-- [CBJS: Path Traversal 2](https://dev.to/peppa6/cbjs-path-traversal-2-3cca)
-- [Nitric is Terraform for Developers](https://dev.to/rsiv/nitric-is-terraform-for-developers-3560)
-- [My Journey into React: Learning, Building, and Sharing on GitHub](https://dev.to/affan818/my-journey-into-react-learning-building-and-sharing-on-github-2in4)
+- [How to deep copy a nested object in Javascript](https://dev.to/jatins52/how-to-deep-copy-a-nested-object-in-javascript-4nmj)
+- [𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗶𝗻 𝗝𝗮𝘃𝗮: 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀, 𝗮𝗻𝗱 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻](https://dev.to/ricardo_maia_eb9c7a906560/--2an8)
+- [Enable Amplify Builds&#39; Notifications for Directly to a Slack Channel](https://dev.to/aws-builders/enable-slack-notifications-for-amplify-builds-directly-to-a-channel-269d)
+- [Day 0 of #100daysofMiva || Setting up for success](https://dev.to/tobidelly/day-0-of-100daysofmiva-setting-up-for-success-4l6e)
 <!-- BLOG-POST-LIST:END -->
 
