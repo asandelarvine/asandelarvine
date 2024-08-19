@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Keras to allocate unnecessary GPU memory](https://dev.to/tallesl/preventing-keras-to-allocate-unnecessary-gpu-memory-4mi1)
-- [How to add Limited Login Facebook on iOS and Android on server-side and client-side](https://dev.to/meatboy/how-to-add-limited-login-facebook-on-ios-and-android-on-server-side-and-client-side-4616)
-- [Day 0 of the #100daysofMiva Challenge.](https://dev.to/ayotomi_de/day-0-of-the-100daysofmiva-challenge-3klb)
-- [Pull Requests and Code Reviews: Collaborate Effectively on GitHub](https://dev.to/imevanc/pull-requests-and-code-reviews-collaborate-effectively-on-github-mfn)
+- [🦆 💏 🐘 Let PostgreSQL &amp; duckdb &quot;sql&quot; together](https://dev.to/adriens/let-postgresql-duckdb-sql-together-183o)
+- [Docker Installation Log for WSL 2 on Windows](https://dev.to/eddiegulay/docker-installation-log-for-wsl-2-on-windows-7kl)
+- [Enhancing User Experience: The Power of AI Chatbots](https://dev.to/sista-ai/enhancing-user-experience-the-power-of-ai-chatbots-3eb7)
+- [[MICROSERVICES] Message Queues e REST – Uma Abordagem com Go, NodeJS e Clean Architecture](https://dev.to/williammdsilva/microservices-message-queues-e-rest-uma-abordagem-com-go-nodejs-e-clean-architecture-l4b)
 <!-- BLOG-POST-LIST:END -->
 
