@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First Mobile App in Flutter: A Step-by-Step Guide](https://dev.to/futuristicgeeks/how-to-build-your-first-mobile-app-in-flutter-a-step-by-step-guide-3f67)
-- [Introducing RacingBars 📊](https://dev.to/hatemhosny/introducing-racingbars-245f)
-- [NMS Migration Made Easy: Get Stakeholders Aligned](https://dev.to/adatole/nms-migration-made-easy-get-stakeholders-aligned-nf4)
-- [Is Authentication Just About What The Server And Client Know And Don&#39;t Know?](https://dev.to/rickyxyz/is-authentication-just-about-what-the-server-and-client-know-and-dont-know-gi2)
+- [How to integrate Contextual Comments into Matterport SDK](https://dev.to/superviz/how-to-integrate-contextual-comments-into-matterport-sdk-3jmn)
+- [CBJS: Path Traversal 2](https://dev.to/peppa6/cbjs-path-traversal-2-3cca)
+- [Nitric is Terraform for Developers](https://dev.to/rsiv/nitric-is-terraform-for-developers-3560)
+- [My Journey into React: Learning, Building, and Sharing on GitHub](https://dev.to/affan818/my-journey-into-react-learning-building-and-sharing-on-github-2in4)
 <!-- BLOG-POST-LIST:END -->
 
