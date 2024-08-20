@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Frontend Framework?](https://dev.to/isumix/new-frontend-framework-5ain)
-- [Top 3 AWS Services Every Developer Should know](https://dev.to/prathamesh_gawade_16/top-3-aws-services-every-developer-should-know-4gnp)
-- [The Ultimate Breakdown of Mobile App Testing: Types and Approaches](https://dev.to/misterankit/the-ultimate-breakdown-of-mobile-app-testing-types-and-approaches-3g1p)
-- [How to Inspect Element on Mac: A Comprehensive Guide](https://dev.to/berthaw82414312/how-to-inspect-element-on-mac-a-comprehensive-guide-3bfl)
+- [Host a Reverse Proxy in Seconds](https://dev.to/getambassador2024/host-a-reverse-proxy-in-seconds-18em)
+- [Assalomu Aleykum 17.08.24 biz c++ codlash tilida 7 darsimizni otdik va bu meni tasuryotlarim](https://dev.to/_e9348e45782d50818/assalomu-aleykum-170824-biz-c-codlash-tilida-7-darsimizni-otdik-va-bu-meni-tasuryotlarim-4375)
+- [How CI/CD Transforms Serverless Deployments – A Pizza Delivery Analogy 🍕🚀](https://dev.to/routeclouds/how-cicd-transforms-serverless-deployments-a-pizza-delivery-analogy-n54)
+- [Build a Responsive Portfolio Website with HTML and TailwindCSS: A Beginner’s Guide](https://dev.to/gkhan205/build-a-responsive-portfolio-website-with-html-and-tailwindcss-a-beginners-guide-27fn)
 <!-- BLOG-POST-LIST:END -->
 
