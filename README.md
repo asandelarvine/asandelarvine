@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Library versus Vector Database](https://dev.to/zilliz/vector-library-versus-vector-database-3el4)
-- [Level Up Your Interview Game with Practice Problems](https://dev.to/bigsondev/level-up-your-interview-game-with-practice-problems-12d5)
-- [Streaming PostgreSQL data with Fastify](https://dev.to/eomm/streaming-postgresql-data-with-fastify-4lne)
-- [Understanding Tree Shaking in JavaScript: A Quick Guide](https://dev.to/travislramos/understanding-tree-shaking-in-javascript-a-quick-guide-3iah)
+- [Optional Chaining and Nullish Coalescing](https://dev.to/shagun_mistry/optional-chaining-and-nullish-coalescing-o7j)
+- [Building a Secure Serverless Angular App with AWS CDK, Cognito, Lambda, and API Gateway](https://dev.to/nivekalara237/building-a-secure-serverless-angular-app-with-aws-cdk-cognito-lambda-and-api-gateway-4e85)
+- [Let&#39;s Build a Blockchain with JavaScript! A Beginner&#39;s Guide](https://dev.to/bytesupreme/lets-build-a-blockchain-with-javascript-a-beginners-guide-d55)
+- [Day #1 &lpar;Part 1&rpar; || revisiting Python from scratch](https://dev.to/tobidelly/day-1-part-1-revisiting-python-from-scratch-i1f)
 <!-- BLOG-POST-LIST:END -->
 
