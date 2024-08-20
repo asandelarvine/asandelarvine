@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2.14 Prototyping in Figma](https://dev.to/dominicazuka/214-prototyping-in-figma-5ccj)
-- [Quickly Deploy and Test SafeLine: A Free Open-Source WAF](https://dev.to/sherbertill6/quickly-deploy-and-test-safeline-a-free-open-source-waf-369f)
-- [Generating secrets for applications](https://dev.to/7ji9xmel/generating-secrets-for-applications-4iml)
-- [Understanding the Fetch API: The Future of Network Requests in Web Development](https://dev.to/code_passion/understanding-the-fetch-api-the-future-of-network-requests-in-web-development-5191)
+- [SafeLine WAF: A Powerful, Free Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-waf-a-powerful-free-web-application-firewall-2ehn)
+- [Techniques for Staying Productive in a Digital World](https://dev.to/techstuff/techniques-for-staying-productive-in-a-digital-world-3011)
+- [Oracle Redwood Migration Timeline and Testing Guide](https://dev.to/johnste39558689/oracle-redwood-migration-timeline-and-testing-guide-3i9o)
+- [Intelligent Automation in ERP: Boosting Efficiency and Accuracy with AI in ERP](https://dev.to/stevejacob45678/intelligent-automation-in-erp-boosting-efficiency-and-accuracy-with-ai-in-erp-34le)
 <!-- BLOG-POST-LIST:END -->
 
