@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting if an Element is in View with React](https://dev.to/bcncodeschool/detecting-if-an-element-is-in-view-with-react-5b60)
-- [Middleware for Step Functions: Automatically Store and Load Payloads from Amazon S3](https://dev.to/aws-builders/middleware-for-step-functions-automatically-store-and-load-payloads-from-amazon-s3-18g4)
-- [The Case for Terraform Modules: Why Not Just Use Providers Directly?](https://dev.to/rafaelherik/the-case-for-terraform-modules-why-not-just-use-providers-directly-h07)
-- [Infrastructure as Code with Terraform](https://dev.to/suhaspalani/infrastructure-as-code-with-terraform-27mk)
+- [Improve App Availability with Preemptible Pods and PriorityClasses](https://dev.to/antweiss/improve-app-availability-with-preemptible-pods-and-priorityclasses-3gh2)
+- [Visualizing Truth: Large Language Models Linearly Separate True and False Statements](https://dev.to/mikeyoung44/visualizing-truth-large-language-models-linearly-separate-true-and-false-statements-380h)
+- [Redux vs. Redux Toolkit: A Comprehensive Guide](https://dev.to/irohomolola/redux-vs-redux-toolkit-a-comprehensive-guide-2l7)
+- [Tracking Evolution of Hashtags: Graph-Based Approach for Textual Streams](https://dev.to/mikeyoung44/tracking-evolution-of-hashtags-graph-based-approach-for-textual-streams-fc7)
 <!-- BLOG-POST-LIST:END -->
 
