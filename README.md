@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating a JSDoc comment for your function using OpenAI.](https://dev.to/thinkthroo/generating-a-jsdoc-comment-for-your-function-using-openai-5215)
-- [Getting Started with Node JS](https://dev.to/imsushant12/getting-started-with-node-js-4e1l)
-- [📈 Understanding the Critical Role of Product Management: A Tutorial for Technical Professionals](https://dev.to/edensoftlabs/understanding-the-critical-role-of-product-management-a-tutorial-for-technical-professionals-pm6)
-- [Web developer portfolio website](https://dev.to/rehman0/web-developer-portfolio-website-10h8)
+- [Principios SOLID](https://dev.to/sebastianbh/principios-solid-52j6)
+- [Off-the-shelf software vs custom software engineering](https://dev.to/abtosoftware/off-the-shelf-software-vs-custom-software-engineering-5667)
+- [The Security of Amazon Q Developer](https://dev.to/lydiadely/the-security-of-amazon-q-developer-50g)
+- [Protein Dataset](https://dev.to/piyush182004/protein-dataset-5ddb)
 <!-- BLOG-POST-LIST:END -->
 
