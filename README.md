@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Concurrency Issues in Backend Systems Under Heavy Load](https://dev.to/shieldstring/handling-concurrency-issues-in-backend-systems-under-heavy-load-5b8e)
-- [How to extend the disk space of an AWS EC2 instance](https://dev.to/jamesmurdza/how-to-extend-the-disk-space-of-an-aws-ec2-instance-h3n)
-- [Day 1013 : Somehow](https://dev.to/dwane/day-1013-somehow-18a5)
-- [Pare de fazer comparações patéticas](https://dev.to/ebraim_sambo/pare-de-fazer-comparacoes-pateticas-548k)
+- [Docker: Uma Introdução Simples com Legos](https://dev.to/ang-costa-neto/docker-uma-introducao-simples-com-legos-2ag1)
+- [ForestWatch: An IoT-Based Forest Fire and Deforestation Detection System](https://dev.to/leonardsangoroh/forestwatch-an-iot-based-forest-fire-and-deforestation-prevention-system-1n7e)
+- [Understanding Closures in JavaScript: A Beginner&#39;s Guide](https://dev.to/don_louis_13b7e/understanding-closures-in-javascript-a-beginners-guide-3o1n)
+- [Tutorial Menggunakan jQuery pada WordPress dengan benar](https://dev.to/dhimaskirana/tutorial-menggunakan-jquery-pada-wordpress-dengan-benar-2i0a)
 <!-- BLOG-POST-LIST:END -->
 
