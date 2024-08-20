@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding is Scary and How to Learn Better](https://dev.to/thekarlesi/why-coding-is-scary-and-how-to-learn-better-4nmd)
-- [Ibuprofeno.py💊| #166: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-166-explica-este-codigo-python-256i)
-- [Bye Bye, Try-Catch Blocks: Meet JavaScript&#39;s Safe Assignment Operator Proposal😉](https://dev.to/dharamgfx/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7)
-- [From Zero to Front-End Hero: My Journey into Web Development](https://dev.to/natasa90/from-zero-to-front-end-hero-my-journey-into-web-development-2hp3)
+- [End-to-End Application: A Complex Challenge](https://dev.to/cedricfrancoys/end-to-end-application-a-complex-challenge-431j)
+- [Navigating Tech Debt in Early-Stage Startups: The Double-Edged Sword](https://dev.to/this-is-learning/navigating-tech-debt-in-early-stage-startups-the-double-edged-sword-4fef)
+- [Feature Engineering: The Ultimate Guide](https://dev.to/anna_m/feature-engineering-the-ultimate-guide-5cca)
+- [Amazon Q Business: Unleashing the Power of Generative AI for Data-Driven Insights](https://dev.to/jessica_williams_8192bc1f/amazon-q-business-unleashing-the-power-of-generative-ai-for-data-driven-insights-4a5o)
 <!-- BLOG-POST-LIST:END -->
 
