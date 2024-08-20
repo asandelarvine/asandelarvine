@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why should you use attrs more](https://dev.to/soumendrak/why-should-you-use-attrs-more-4dim)
-- [Parsers are relative bimonads](https://dev.to/artemisyo/parsers-are-relative-bimonads-20cd)
-- [How to use boto3 with Google Colab and AWS integration](https://dev.to/kyotanakada/how-to-use-boto3-with-google-colab-and-aws-integration-4c2m)
-- [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
+- [Advanced Scripting Scenarios in DevOps : Day 29 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/advanced-scripting-scenarios-in-devops-day-29-of-50-days-devops-tools-series-1kd3)
+- [Streaming Data Alchemy: Apache Kafka Streams Meet Spring Boot](https://dev.to/virajlakshitha/streaming-data-alchemy-apache-kafka-streams-meet-spring-boot-4fmo)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;12/08/2024-18/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-12082024-18082024-234p)
+- [GITHUB page aesthetics and fun! Snake, Stats, Icons and Videos](https://dev.to/annavi11arrea1/github-page-aesthetics-and-fun-snake-stats-icons-and-videos-1dd7)
 <!-- BLOG-POST-LIST:END -->
 
