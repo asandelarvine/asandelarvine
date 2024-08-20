@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reminder about Friendly.rb - one month to the conference](https://dev.to/lucianghinda/reminder-about-friendlyrb-one-month-to-the-conference-1c6p)
-- [This is the last Glitch newsletter I am posting here &lpar;not clickbait&rpar;](https://dev.to/glitch/this-is-the-last-glitch-newsletter-i-am-posting-here-not-clickbait-2nmo)
-- [Prefill Pen](https://dev.to/anhtai9710/prefill-pen-17eg)
-- [help me to solve my issue](https://dev.to/mohammed_zishan_cfa571ab3/help-me-to-solve-my-issue-44hj)
+- [Building a RAG Chatbot with LlamaIndex and eBay API Integration](https://dev.to/doctorew/building-a-rag-chatbot-with-llamaindex-and-ebay-api-integration-2kee)
+- [Exploring the Types of Outpatient Programs for Mental Health Well-Being](https://dev.to/phoenix_behavioralhealth/exploring-the-types-of-outpatient-programs-for-mental-health-well-being-410a)
+- [ByteBuddies: Creating an Interactive Animated Pet with Python and Tkinter](https://dev.to/sailwalpranjal/bytebuddies-creating-an-interactive-animated-pet-with-python-and-tkinter-oam)
+- [O que aprendi criando um simluador simples de radar com HMTL Canvas e JS?](https://dev.to/casewinter/o-que-aprendi-criando-um-simluador-simples-de-radar-com-hmtl-canvas-e-js-4b3i)
 <!-- BLOG-POST-LIST:END -->
 
