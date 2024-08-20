@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k9b)
-- [Navigating Careers in Web Development: Opportunities, Challenges, and Growth](https://dev.to/milutin_stefanovic_813404/navigating-careers-in-web-development-opportunities-challenges-and-growth-4an8)
-- [My google developer account was closed](https://dev.to/kiolk/my-google-developer-account-was-closed-3bej)
-- [CSS In Details](https://dev.to/ashutoshsarangi/css-in-details-3hfk)
+- [Generating a JSDoc comment for your function using OpenAI.](https://dev.to/thinkthroo/generating-a-jsdoc-comment-for-your-function-using-openai-5215)
+- [Getting Started with Node JS](https://dev.to/imsushant12/getting-started-with-node-js-4e1l)
+- [📈 Understanding the Critical Role of Product Management: A Tutorial for Technical Professionals](https://dev.to/edensoftlabs/understanding-the-critical-role-of-product-management-a-tutorial-for-technical-professionals-pm6)
+- [Web developer portfolio website](https://dev.to/rehman0/web-developer-portfolio-website-10h8)
 <!-- BLOG-POST-LIST:END -->
 
