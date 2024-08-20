@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG Chatbot with LlamaIndex and eBay API Integration](https://dev.to/doctorew/building-a-rag-chatbot-with-llamaindex-and-ebay-api-integration-2kee)
-- [Exploring the Types of Outpatient Programs for Mental Health Well-Being](https://dev.to/phoenix_behavioralhealth/exploring-the-types-of-outpatient-programs-for-mental-health-well-being-410a)
-- [ByteBuddies: Creating an Interactive Animated Pet with Python and Tkinter](https://dev.to/sailwalpranjal/bytebuddies-creating-an-interactive-animated-pet-with-python-and-tkinter-oam)
-- [O que aprendi criando um simluador simples de radar com HMTL Canvas e JS?](https://dev.to/casewinter/o-que-aprendi-criando-um-simluador-simples-de-radar-com-hmtl-canvas-e-js-4b3i)
+- [Why we use snake_case for variables and camelCase for functions](https://dev.to/alexleduc76/why-we-use-snakecase-for-variables-and-camelcase-for-functions-4hm9)
+- [How to Send Emails Using Gmail SMTP with Cloudflare Email Routing?](https://dev.to/pierre/gmail-with-cloudflare-email-routing-4413)
+- [Como Instalar e Rodar uma IA Localmente no seu Computador](https://dev.to/lmartns/como-instalar-e-rodar-uma-ia-localmente-no-seu-computador-25nb)
+- [Looking for a way to optimize my Javascript code](https://dev.to/excelsheets/looking-for-a-way-to-optimize-my-javascript-code-5661)
 <!-- BLOG-POST-LIST:END -->
 
