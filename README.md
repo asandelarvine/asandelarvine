@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fluvio - An open-source In-motion data framework.](https://dev.to/priyanshuverma/fluvio-a-open-source-in-motion-data-framework-3927)
-- [5 Key EF Core Features Every Developer Should Master](https://dev.to/minhduc159/5-key-ef-core-features-every-developer-should-master-5bod)
-- [Configuring and Consuming Fuzzy Search in .NET with Elasticsearch](https://dev.to/moh_moh701/configuring-and-consuming-fuzzy-search-in-net-with-elasticsearch-4dgj)
-- [How to Make a Phone Vibrate Using JavaScript](https://dev.to/free_programmers/how-to-make-a-phone-vibrate-using-javascript-585n)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k9b)
+- [Navigating Careers in Web Development: Opportunities, Challenges, and Growth](https://dev.to/milutin_stefanovic_813404/navigating-careers-in-web-development-opportunities-challenges-and-growth-4an8)
+- [My google developer account was closed](https://dev.to/kiolk/my-google-developer-account-was-closed-3bej)
+- [CSS In Details](https://dev.to/ashutoshsarangi/css-in-details-3hfk)
 <!-- BLOG-POST-LIST:END -->
 
