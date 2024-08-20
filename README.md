@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF: A Powerful, Free Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-waf-a-powerful-free-web-application-firewall-2ehn)
-- [Techniques for Staying Productive in a Digital World](https://dev.to/techstuff/techniques-for-staying-productive-in-a-digital-world-3011)
-- [Oracle Redwood Migration Timeline and Testing Guide](https://dev.to/johnste39558689/oracle-redwood-migration-timeline-and-testing-guide-3i9o)
-- [Intelligent Automation in ERP: Boosting Efficiency and Accuracy with AI in ERP](https://dev.to/stevejacob45678/intelligent-automation-in-erp-boosting-efficiency-and-accuracy-with-ai-in-erp-34le)
+- [Detecting if an Element is in View with React](https://dev.to/bcncodeschool/detecting-if-an-element-is-in-view-with-react-5b60)
+- [Middleware for Step Functions: Automatically Store and Load Payloads from Amazon S3](https://dev.to/aws-builders/middleware-for-step-functions-automatically-store-and-load-payloads-from-amazon-s3-18g4)
+- [The Case for Terraform Modules: Why Not Just Use Providers Directly?](https://dev.to/rafaelherik/the-case-for-terraform-modules-why-not-just-use-providers-directly-h07)
+- [Infrastructure as Code with Terraform](https://dev.to/suhaspalani/infrastructure-as-code-with-terraform-27mk)
 <!-- BLOG-POST-LIST:END -->
 
