@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 HTML Features You’re Not Using &lpar;But Should Be&rpar;](https://dev.to/safdarali/top-5-html-features-youre-not-using-but-should-be-2i0e)
-- [Building a SaaS product should not be complex](https://dev.to/themuneebh/building-a-saas-product-should-not-be-complex-51mg)
-- [The Comprehensive Guide to Code Review vs. Pair Programming: Understanding Key Differences and Best Practices](https://dev.to/adityabhuyan/the-comprehensive-guide-to-code-review-vs-pair-programming-understanding-key-differences-and-best-practices-5893)
-- [Sherlock Holmes: The Great Lambda Mystery](https://dev.to/programmerraja/sherlock-holmes-the-great-lambda-mystery-324g)
+- [New Frontend Framework?](https://dev.to/isumix/new-frontend-framework-5ain)
+- [Top 3 AWS Services Every Developer Should know](https://dev.to/prathamesh_gawade_16/top-3-aws-services-every-developer-should-know-4gnp)
+- [The Ultimate Breakdown of Mobile App Testing: Types and Approaches](https://dev.to/misterankit/the-ultimate-breakdown-of-mobile-app-testing-types-and-approaches-3g1p)
+- [How to Inspect Element on Mac: A Comprehensive Guide](https://dev.to/berthaw82414312/how-to-inspect-element-on-mac-a-comprehensive-guide-3bfl)
 <!-- BLOG-POST-LIST:END -->
 
