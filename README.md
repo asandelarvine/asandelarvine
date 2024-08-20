@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Application: A Complex Challenge](https://dev.to/cedricfrancoys/end-to-end-application-a-complex-challenge-431j)
-- [Navigating Tech Debt in Early-Stage Startups: The Double-Edged Sword](https://dev.to/this-is-learning/navigating-tech-debt-in-early-stage-startups-the-double-edged-sword-4fef)
-- [Feature Engineering: The Ultimate Guide](https://dev.to/anna_m/feature-engineering-the-ultimate-guide-5cca)
-- [Amazon Q Business: Unleashing the Power of Generative AI for Data-Driven Insights](https://dev.to/jessica_williams_8192bc1f/amazon-q-business-unleashing-the-power-of-generative-ai-for-data-driven-insights-4a5o)
+- [Building a Simple CLI in Rust](https://dev.to/francescoxx/building-a-simple-cli-in-rust-4hof)
+- [Python: The Language of the Future](https://dev.to/jottyjohn/python-the-language-of-the-future-38n0)
+- [Why is everything in software development so f*king complicated?](https://dev.to/climentea/why-is-everything-in-software-development-so-fking-complicated-41p9)
+- [BASIC POSTGRESQL APPLICATION VIA GOLANG](https://dev.to/mutu/basic-postgresql-application-via-golang-4ih2)
 <!-- BLOG-POST-LIST:END -->
 
