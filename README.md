@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple CLI in Rust](https://dev.to/francescoxx/building-a-simple-cli-in-rust-4hof)
-- [Python: The Language of the Future](https://dev.to/jottyjohn/python-the-language-of-the-future-38n0)
-- [Why is everything in software development so f*king complicated?](https://dev.to/climentea/why-is-everything-in-software-development-so-fking-complicated-41p9)
-- [BASIC POSTGRESQL APPLICATION VIA GOLANG](https://dev.to/mutu/basic-postgresql-application-via-golang-4ih2)
+- [When to Use call, erb_template, or html.erb in Rails ViewComponents?](https://dev.to/railsdesigner/when-to-use-call-erbtemplate-or-htmlerb-in-rails-viewcomponents-f8j)
+- [Pros and Cons of Jumping on the Hype Train: How to Do It Efficiently?](https://dev.to/keshav119/pros-and-cons-of-jumping-on-the-hype-train-how-to-do-it-efficiently-m6j)
+- [Understanding optimistic UI and React’s useOptimistic Hook](https://dev.to/logrocket/understanding-optimistic-ui-and-reacts-useoptimistic-hook-2ig)
+- [How to change default SSH Port in Ubuntu Server](https://dev.to/coder7475/how-to-change-default-ssh-port-in-ubuntu-server-3aab)
 <!-- BLOG-POST-LIST:END -->
 
