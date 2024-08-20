@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use call, erb_template, or html.erb in Rails ViewComponents?](https://dev.to/railsdesigner/when-to-use-call-erbtemplate-or-htmlerb-in-rails-viewcomponents-f8j)
-- [Pros and Cons of Jumping on the Hype Train: How to Do It Efficiently?](https://dev.to/keshav119/pros-and-cons-of-jumping-on-the-hype-train-how-to-do-it-efficiently-m6j)
-- [Understanding optimistic UI and React’s useOptimistic Hook](https://dev.to/logrocket/understanding-optimistic-ui-and-reacts-useoptimistic-hook-2ig)
-- [How to change default SSH Port in Ubuntu Server](https://dev.to/coder7475/how-to-change-default-ssh-port-in-ubuntu-server-3aab)
+- [Vector Library versus Vector Database](https://dev.to/zilliz/vector-library-versus-vector-database-3el4)
+- [Level Up Your Interview Game with Practice Problems](https://dev.to/bigsondev/level-up-your-interview-game-with-practice-problems-12d5)
+- [Streaming PostgreSQL data with Fastify](https://dev.to/eomm/streaming-postgresql-data-with-fastify-4lne)
+- [Understanding Tree Shaking in JavaScript: A Quick Guide](https://dev.to/travislramos/understanding-tree-shaking-in-javascript-a-quick-guide-3iah)
 <!-- BLOG-POST-LIST:END -->
 
