@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Scripting Scenarios in DevOps : Day 29 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/advanced-scripting-scenarios-in-devops-day-29-of-50-days-devops-tools-series-1kd3)
-- [Streaming Data Alchemy: Apache Kafka Streams Meet Spring Boot](https://dev.to/virajlakshitha/streaming-data-alchemy-apache-kafka-streams-meet-spring-boot-4fmo)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;12/08/2024-18/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-12082024-18082024-234p)
-- [GITHUB page aesthetics and fun! Snake, Stats, Icons and Videos](https://dev.to/annavi11arrea1/github-page-aesthetics-and-fun-snake-stats-icons-and-videos-1dd7)
+- [Top 5 HTML Features You’re Not Using &lpar;But Should Be&rpar;](https://dev.to/safdarali/top-5-html-features-youre-not-using-but-should-be-2i0e)
+- [Building a SaaS product should not be complex](https://dev.to/themuneebh/building-a-saas-product-should-not-be-complex-51mg)
+- [The Comprehensive Guide to Code Review vs. Pair Programming: Understanding Key Differences and Best Practices](https://dev.to/adityabhuyan/the-comprehensive-guide-to-code-review-vs-pair-programming-understanding-key-differences-and-best-practices-5893)
+- [Sherlock Holmes: The Great Lambda Mystery](https://dev.to/programmerraja/sherlock-holmes-the-great-lambda-mystery-324g)
 <!-- BLOG-POST-LIST:END -->
 
