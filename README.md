@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Principios SOLID](https://dev.to/sebastianbh/principios-solid-52j6)
-- [Off-the-shelf software vs custom software engineering](https://dev.to/abtosoftware/off-the-shelf-software-vs-custom-software-engineering-5667)
-- [The Security of Amazon Q Developer](https://dev.to/lydiadely/the-security-of-amazon-q-developer-50g)
-- [Protein Dataset](https://dev.to/piyush182004/protein-dataset-5ddb)
+- [Reminder about Friendly.rb - one month to the conference](https://dev.to/lucianghinda/reminder-about-friendlyrb-one-month-to-the-conference-1c6p)
+- [This is the last Glitch newsletter I am posting here &lpar;not clickbait&rpar;](https://dev.to/glitch/this-is-the-last-glitch-newsletter-i-am-posting-here-not-clickbait-2nmo)
+- [Prefill Pen](https://dev.to/anhtai9710/prefill-pen-17eg)
+- [help me to solve my issue](https://dev.to/mohammed_zishan_cfa571ab3/help-me-to-solve-my-issue-44hj)
 <!-- BLOG-POST-LIST:END -->
 
