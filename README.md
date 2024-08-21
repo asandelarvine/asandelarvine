@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Orientação a Objetos - Métodos em Java](https://dev.to/andersoncode66/orientacao-a-objetos-metodos-em-java-34je)
-- [Guia para pasar el KCNA &lpar;Kubernetes and Cloud Native Associate &lpar;KCNA&rpar;&rpar;](https://dev.to/maxcloud/guia-para-pasar-el-kcna-kubernetes-and-cloud-native-associate-kcna-11p3)
-- [Deploying any app to GitHub Pages](https://dev.to/omura_519/deploying-any-app-to-github-pages-2j17)
-- [v.3 Complete Tutorial: Setting up email sending on OCI Free Tier with Oracle APEX on Autonomous Database](https://dev.to/tarcisio_freitas_329e261b/v3-complete-tutorial-setting-up-email-sending-on-oci-free-tier-with-oracle-apex-on-autonomous-database-4nn)
+- [How to style your React Native apps?](https://dev.to/hellonehha/how-to-style-your-react-native-apps-4bb0)
+- [Starting Vuejs as a beginner; Top concepts you need to know](https://dev.to/pluri45/starting-vuejs-as-a-beginner-top-concepts-you-need-to-know-9ib)
+- [664. Strange Printer](https://dev.to/mdarifulhaque/664-strange-printer-2mpj)
+- [Back of the envelope estimations, começando a entrevista de system design](https://dev.to/erick_tmr/back-of-the-envelope-estimations-comecando-a-entrevista-de-system-design-5cc0)
 <!-- BLOG-POST-LIST:END -->
 
