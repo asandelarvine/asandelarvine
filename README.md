@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Formatlash](https://dev.to/umida5/formatlash-4fme)
-- [Feature Engineering: Unlocking the Power of Data for Superior Machine Learning Models](https://dev.to/byron_25abe71a080f93df530/feature-engineering-unlocking-the-power-of-data-for-superior-machine-learning-models-50jg)
-- [Title: Developing a Conversational Chatbot with Generative AI](https://dev.to/ankush_mahore/title-developing-a-conversational-chatbot-with-generative-ai-3896)
-- [PHP 8.4 Property Hooks](https://dev.to/ashallendesign/php-84-property-hooks-4nbd)
+- [SQL Complete guide for Interview](https://dev.to/madgan95/sql-complete-guide-for-interview-1jdm)
+- [7 Best Remote Job Boards to Land Your Next Dev Work in 2024](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)
+- [How to Use the Mockingbird Docker Image](https://dev.to/ozkeisar/how-to-use-the-mockingbird-docker-image-29mf)
+- [Modern Software engineers are not engineers at all.](https://dev.to/estebanmarin/modern-software-engineers-are-not-engineers-at-all-5db0)
 <!-- BLOG-POST-LIST:END -->
 
