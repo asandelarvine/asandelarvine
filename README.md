@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO for Developers: Ranking Your Technical Content Higher in Search &lpar;and Reaching More Devs&rpar;](https://dev.to/rakeshdoc-e/seo-for-developers-ranking-your-technical-content-higher-in-search-and-reaching-more-devs-401f)
-- [Figma to Webflow: A Complete Guide](https://dev.to/codeparrot/figma-to-webflow-a-complete-guide-25cg)
-- [C-razy Facebook Hack: How I Pranked My Friend](https://dev.to/programmerraja/c-razy-facebook-hack-how-i-pranked-my-friend-2n5l)
-- [Mini-git, Understanding How Files Are Stored in Git Objects](https://dev.to/keerthivardhan1/mini-git-understanding-how-files-are-stored-in-git-objects-5bfb)
+- [React Server Components &lpar;RSC&rpar;: The Future of Rendering in React 🔮](https://dev.to/margish288/react-server-components-rsc-the-future-of-rendering-in-react-1hd)
+- [Designing HTTP API clients in .NET](https://dev.to/ilya-chumakov/designing-http-api-clients-in-net-j9e)
+- [How to use the time tag for displaying time in an accessible way](https://dev.to/mike_andreuzza/how-to-use-the-time-tag-for-displaying-time-in-an-accessible-way-2ojm)
+- [5 Project Planning Tools You Need to Succeed in Any Business [With Examples]](https://dev.to/thomasy0ung/5-project-planning-tools-you-need-to-succeed-in-any-business-with-examples-8np)
 <!-- BLOG-POST-LIST:END -->
 
