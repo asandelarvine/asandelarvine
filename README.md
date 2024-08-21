@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to GBase 8a MPP Cluster SQL Standards](https://dev.to/congcong/introduction-to-gbase-8a-mpp-cluster-sql-standards-2j6o)
-- [Mastering the &#39;this&#39; Keyword in JavaScript](https://dev.to/stephanie_obiekezie_0d18f/mastering-the-this-keyword-in-javascript-6f5)
-- [Widget #3: Image Card with Overlay Text](https://dev.to/dilsemonk/widget-3-image-card-with-overlay-text-4ccp)
-- [A Simpler Way to Calculate WorldQuant 101 Alphas](https://dev.to/dolphindb/a-simpler-way-to-calculate-worldquant-101-alphas-m32)
+- [Heap | Priority Queue Implementation using Javascript](https://dev.to/ashutoshsarangi/heap-priority-queue-implementation-using-javascript-4e79)
+- [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
+- [Mastering Reflection in Golang: When and How to Use It](https://dev.to/tl23143/mastering-reflection-in-golang-when-and-how-to-use-it-pfj)
+- [#48 — In An Excel Table, Find Rows Corresponding to The 1st And The Last Non-Empty Cells in Each Column](https://dev.to/judith677/48-in-an-excel-table-find-rows-corresponding-to-the-1st-and-the-last-non-empty-cells-in-each-column-4gob)
 <!-- BLOG-POST-LIST:END -->
 
