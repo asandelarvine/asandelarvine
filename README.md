@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Complete guide for Interview](https://dev.to/madgan95/sql-complete-guide-for-interview-1jdm)
-- [7 Best Remote Job Boards to Land Your Next Dev Work in 2024](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)
-- [How to Use the Mockingbird Docker Image](https://dev.to/ozkeisar/how-to-use-the-mockingbird-docker-image-29mf)
-- [Modern Software engineers are not engineers at all.](https://dev.to/estebanmarin/modern-software-engineers-are-not-engineers-at-all-5db0)
+- [Building an AI-powered quiz application with Next.js and OpenAI](https://dev.to/latitude/building-an-ai-powered-quiz-application-with-nextjs-and-openai-2673)
+- [Building A Simple Graph Query Engine](https://dev.to/praveenr2998/building-a-simple-graph-query-engine-36bp)
+- [CSS update | Day 18/30](https://dev.to/ofameh/css-update-day-1830-4oba)
+- [An Introduction to Nix for Ruby Developers](https://dev.to/appsignal/an-introduction-to-nix-for-ruby-developers-1mfo)
 <!-- BLOG-POST-LIST:END -->
 
