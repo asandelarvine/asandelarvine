@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como implementar microfrontend com ReactJS?](https://dev.to/henrique_souza_971900376e/como-implementar-microfrontend-com-reactjs-41np)
-- [Create Device Manager Shortcut in Windows 11](https://dev.to/winsides/create-device-manager-shortcut-in-windows-11-208a)
-- [The Role of Sports Broadcasts in Promoting Grassroots Sports&quot;](https://dev.to/muhammad_gulfam_577dfe074/the-role-of-sports-broadcasts-in-promoting-grassroots-sports-4ch6)
-- [Conhecendo a MERN Stack](https://dev.to/thailanelopes/conhecendo-a-mern-stack-46e4)
+- [The Rise of Micro Frontends: Why They’re the Future of Web Development](https://dev.to/organization_admin_b1a89a/the-rise-of-micro-frontends-why-theyre-the-future-of-web-development-8e3)
+- [Supabase Realtime: Broadcast and Presence Authorization](https://dev.to/supabase/supabase-realtime-broadcast-and-presence-authorization-2ik)
+- [If You are a Terminal User, You MUST try this tool!](https://dev.to/mammadyahyayev/if-you-are-a-terminal-user-you-must-try-this-tool-5bj7)
+- [MERN Stack Guide](https://dev.to/thailanelopes/mern-stack-guide-3bm9)
 <!-- BLOG-POST-LIST:END -->
 
