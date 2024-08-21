@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID: I - Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/paulocappa/solid-i-interface-segregation-principle-isp-385f)
-- [Zero Trust Network Access: A New Era in Cybersecurity](https://dev.to/blogginger/zero-trust-network-access-a-new-era-in-cybersecurity-2k89)
-- [The Rise of Artificial Intelligence: Transforming Our World and Beyond](https://dev.to/tayiba_shabir1999/the-rise-of-artificial-intelligence-transforming-our-world-and-beyond-47c0)
-- [How to Pass Data From Route to Controller and View in Laravel 11](https://dev.to/danish/how-to-pass-data-from-route-to-controller-and-view-in-laravel-11-35ed)
+- [Ibuprofeno.py💊| #167: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-167-explica-este-codigo-python-2bcp)
+- [Top 11 Open-Source Performance Testing Tools You Should Know](https://dev.to/apilover/top-11-open-source-performance-testing-tools-you-should-know-5f85)
+- [Cross-Posting to Hashnode with API](https://dev.to/vst/cross-posting-to-hashnode-with-api-2g9p)
+- [Understanding Array.reduce&lpar;&rpar;](https://dev.to/avellent/understanding-arrayreduce-1lia)
 <!-- BLOG-POST-LIST:END -->
 
