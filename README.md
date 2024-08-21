@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ARIA attributes in HTML: A comprehensive guide 🌐](https://dev.to/disane/aria-attributes-in-html-a-comprehensive-guide-577e)
-- [The Hidden Cost of Not Deleting AWS Clusters: A Costly Lesson Learned](https://dev.to/aws-builders/the-hidden-cost-of-not-deleting-aws-clusters-a-costly-lesson-learned-dl)
-- [Contours on Cross Account Export of CloudWatch Logs to S3 Bucket](https://dev.to/aws-builders/contours-on-cross-account-export-of-cloudwatch-logs-to-s3-bucket-1b13)
-- [Safeguarding Your Data: Best Practices for Securing Amazon S3 Buckets](https://dev.to/ikoh_sylva/safeguarding-your-data-best-practices-for-securing-amazon-s3-buckets-1dff)
+- [Como implementar microfrontend com ReactJS?](https://dev.to/henrique_souza_971900376e/como-implementar-microfrontend-com-reactjs-41np)
+- [Create Device Manager Shortcut in Windows 11](https://dev.to/winsides/create-device-manager-shortcut-in-windows-11-208a)
+- [The Role of Sports Broadcasts in Promoting Grassroots Sports&quot;](https://dev.to/muhammad_gulfam_577dfe074/the-role-of-sports-broadcasts-in-promoting-grassroots-sports-4ch6)
+- [Conhecendo a MERN Stack](https://dev.to/thailanelopes/conhecendo-a-mern-stack-46e4)
 <!-- BLOG-POST-LIST:END -->
 
