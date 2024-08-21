@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2)
-- [Perfect note taking system](https://dev.to/morphzg/perfect-note-taking-system-4lhe)
-- [Comment j&#39;automatise l&#39;utilisation Conventional Commits ?](https://dev.to/tontz/comment-jautomatise-lutilisation-conventional-commits--29ea)
-- [React: Criando um componente que transforma Json para Csv](https://dev.to/mayconbalves/react-criando-um-componente-que-transforma-json-para-csv-482f)
+- [Dynamic Island Liquid Animation with React Native Skia](https://dev.to/willkre/dynamic-island-liquid-animation-with-react-native-skia-5aeg)
+- [Reinstalling Required Software Using Winget](https://dev.to/vhsv90/reinstalling-required-software-using-winget-1h3i)
+- [Scroll-Responsive Animated Header Bar with Expo Router](https://dev.to/willkre/scroll-responsive-animated-header-bar-with-expo-router-1o7m)
+- [Understanding Apache Iceberg&#39;s metadata.json file](https://dev.to/alexmercedcoder/understanding-apache-icebergs-metadatajson-file-23f)
 <!-- BLOG-POST-LIST:END -->
 
