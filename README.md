@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Your Developer Identity: A Blueprint for 2024 🌟](https://dev.to/lokesh_singh/crafting-your-developer-identity-a-blueprint-for-2024-p92)
-- [Master API Observability: Enhancing Reliability and Performance in Your Digital Infrastructure](https://dev.to/getambassador2024/master-api-observability-enhancing-reliability-and-performance-in-your-digital-infrastructure-1jal)
-- [Designing a Web Crawler](https://dev.to/zeeshanali0704/designing-a-web-crawler-4h8b)
-- [How to Embed Instagram Stories on Website?](https://dev.to/brad_ford_34bd0f343aa0b86/how-to-embed-instagram-stories-on-website-27fa)
+- [SEO for Developers: Ranking Your Technical Content Higher in Search &lpar;and Reaching More Devs&rpar;](https://dev.to/rakeshdoc-e/seo-for-developers-ranking-your-technical-content-higher-in-search-and-reaching-more-devs-401f)
+- [Figma to Webflow: A Complete Guide](https://dev.to/codeparrot/figma-to-webflow-a-complete-guide-25cg)
+- [C-razy Facebook Hack: How I Pranked My Friend](https://dev.to/programmerraja/c-razy-facebook-hack-how-i-pranked-my-friend-2n5l)
+- [Mini-git, Understanding How Files Are Stored in Git Objects](https://dev.to/keerthivardhan1/mini-git-understanding-how-files-are-stored-in-git-objects-5bfb)
 <!-- BLOG-POST-LIST:END -->
 
