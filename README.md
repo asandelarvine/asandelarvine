@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 UX Growth Tips + 19 Open-Source Gems!](https://dev.to/adam/ux-growth-tips-19-open-source-gems-2j63)
-- [Boost Your Productivity with These Essential Developer Shortcuts in DevTools and VS Code](https://dev.to/tomasdevs/boost-your-productivity-with-these-essential-developer-shortcuts-in-devtools-and-vs-code-3jok)
-- [Advanced Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/advanced-transact-sql-t-sql-queries-52j7)
-- [Introducing Vocalize.ts: Simplify Voice Interaction in Your Web Application](https://dev.to/j3rry320/introducing-vocalizets-simplify-voice-interaction-in-your-web-application-4c0n)
+- [ARIA attributes in HTML: A comprehensive guide 🌐](https://dev.to/disane/aria-attributes-in-html-a-comprehensive-guide-577e)
+- [The Hidden Cost of Not Deleting AWS Clusters: A Costly Lesson Learned](https://dev.to/aws-builders/the-hidden-cost-of-not-deleting-aws-clusters-a-costly-lesson-learned-dl)
+- [Contours on Cross Account Export of CloudWatch Logs to S3 Bucket](https://dev.to/aws-builders/contours-on-cross-account-export-of-cloudwatch-logs-to-s3-bucket-1b13)
+- [Safeguarding Your Data: Best Practices for Securing Amazon S3 Buckets](https://dev.to/ikoh_sylva/safeguarding-your-data-best-practices-for-securing-amazon-s3-buckets-1dff)
 <!-- BLOG-POST-LIST:END -->
 
