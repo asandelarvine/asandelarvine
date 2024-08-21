@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make your web page faster before it even loads](https://dev.to/whitep4nth3r/how-to-make-your-web-page-faster-before-it-even-loads-1lfm)
-- [My Internship Experience with Code Alpha: Building Projects and Gaining Practical Skills](https://dev.to/khushbo_zahid_749/my-internship-experience-with-code-alpha-building-projects-and-gaining-practical-skills-oe9)
-- [Neural Networks&#39; &quot;Grokking&quot; Revealed as Emergent Phase Transition in Information-Theoretic Analysis](https://dev.to/mikeyoung44/neural-networks-grokking-revealed-as-emergent-phase-transition-in-information-theoretic-analysis-1i53)
-- [How to Implement Push Notifications with Firebase Cloud Messaging &lpar;FCM&rpar; in Angular](https://dev.to/soham_galande/how-to-implement-push-notifications-with-firebase-cloud-messaging-fcm-in-angular-3ghj)
+- [SOLID: I - Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/paulocappa/solid-i-interface-segregation-principle-isp-385f)
+- [Zero Trust Network Access: A New Era in Cybersecurity](https://dev.to/blogginger/zero-trust-network-access-a-new-era-in-cybersecurity-2k89)
+- [The Rise of Artificial Intelligence: Transforming Our World and Beyond](https://dev.to/tayiba_shabir1999/the-rise-of-artificial-intelligence-transforming-our-world-and-beyond-47c0)
+- [How to Pass Data From Route to Controller and View in Laravel 11](https://dev.to/danish/how-to-pass-data-from-route-to-controller-and-view-in-laravel-11-35ed)
 <!-- BLOG-POST-LIST:END -->
 
