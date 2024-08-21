@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #167: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-167-explica-este-codigo-python-2bcp)
-- [Top 11 Open-Source Performance Testing Tools You Should Know](https://dev.to/apilover/top-11-open-source-performance-testing-tools-you-should-know-5f85)
-- [Cross-Posting to Hashnode with API](https://dev.to/vst/cross-posting-to-hashnode-with-api-2g9p)
-- [Understanding Array.reduce&lpar;&rpar;](https://dev.to/avellent/understanding-arrayreduce-1lia)
+- [Formatlash](https://dev.to/umida5/formatlash-4fme)
+- [Feature Engineering: Unlocking the Power of Data for Superior Machine Learning Models](https://dev.to/byron_25abe71a080f93df530/feature-engineering-unlocking-the-power-of-data-for-superior-machine-learning-models-50jg)
+- [Title: Developing a Conversational Chatbot with Generative AI](https://dev.to/ankush_mahore/title-developing-a-conversational-chatbot-with-generative-ai-3896)
+- [PHP 8.4 Property Hooks](https://dev.to/ashallendesign/php-84-property-hooks-4nbd)
 <!-- BLOG-POST-LIST:END -->
 
