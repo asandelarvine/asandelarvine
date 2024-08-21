@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-powered quiz application with Next.js and OpenAI](https://dev.to/latitude/building-an-ai-powered-quiz-application-with-nextjs-and-openai-2673)
-- [Building A Simple Graph Query Engine](https://dev.to/praveenr2998/building-a-simple-graph-query-engine-36bp)
-- [CSS update | Day 18/30](https://dev.to/ofameh/css-update-day-1830-4oba)
-- [An Introduction to Nix for Ruby Developers](https://dev.to/appsignal/an-introduction-to-nix-for-ruby-developers-1mfo)
+- [Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2)
+- [Perfect note taking system](https://dev.to/morphzg/perfect-note-taking-system-4lhe)
+- [Comment j&#39;automatise l&#39;utilisation Conventional Commits ?](https://dev.to/tontz/comment-jautomatise-lutilisation-conventional-commits--29ea)
+- [React: Criando um componente que transforma Json para Csv](https://dev.to/mayconbalves/react-criando-um-componente-que-transforma-json-para-csv-482f)
 <!-- BLOG-POST-LIST:END -->
 
