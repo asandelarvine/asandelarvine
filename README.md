@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Micro Frontends: Why They’re the Future of Web Development](https://dev.to/organization_admin_b1a89a/the-rise-of-micro-frontends-why-theyre-the-future-of-web-development-8e3)
-- [Supabase Realtime: Broadcast and Presence Authorization](https://dev.to/supabase/supabase-realtime-broadcast-and-presence-authorization-2ik)
-- [If You are a Terminal User, You MUST try this tool!](https://dev.to/mammadyahyayev/if-you-are-a-terminal-user-you-must-try-this-tool-5bj7)
-- [MERN Stack Guide](https://dev.to/thailanelopes/mern-stack-guide-3bm9)
+- [Orientação a Objetos - Métodos em Java](https://dev.to/andersoncode66/orientacao-a-objetos-metodos-em-java-34je)
+- [Guia para pasar el KCNA &lpar;Kubernetes and Cloud Native Associate &lpar;KCNA&rpar;&rpar;](https://dev.to/maxcloud/guia-para-pasar-el-kcna-kubernetes-and-cloud-native-associate-kcna-11p3)
+- [Deploying any app to GitHub Pages](https://dev.to/omura_519/deploying-any-app-to-github-pages-2j17)
+- [v.3 Complete Tutorial: Setting up email sending on OCI Free Tier with Oracle APEX on Autonomous Database](https://dev.to/tarcisio_freitas_329e261b/v3-complete-tutorial-setting-up-email-sending-on-oci-free-tier-with-oracle-apex-on-autonomous-database-4nn)
 <!-- BLOG-POST-LIST:END -->
 
