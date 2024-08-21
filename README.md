@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Heap | Priority Queue Implementation using Javascript](https://dev.to/ashutoshsarangi/heap-priority-queue-implementation-using-javascript-4e79)
-- [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
-- [Mastering Reflection in Golang: When and How to Use It](https://dev.to/tl23143/mastering-reflection-in-golang-when-and-how-to-use-it-pfj)
-- [#48 — In An Excel Table, Find Rows Corresponding to The 1st And The Last Non-Empty Cells in Each Column](https://dev.to/judith677/48-in-an-excel-table-find-rows-corresponding-to-the-1st-and-the-last-non-empty-cells-in-each-column-4gob)
+- [Python&#39;s shutil module for Automated Testing](https://dev.to/jankaritech/pythons-shutil-module-for-automated-testing-413n)
+- [🙅10 Common React.js Errors and How to Solve Them✨](https://dev.to/uicraft_by_pratik/10-common-reactjs-errors-and-how-to-solve-them-5181)
+- [Mastering React Styled Components: A Friendly Guide for UI Developers](https://dev.to/nnnirajn/mastering-react-styled-components-a-friendly-guide-for-ui-developers-gof)
+- [20 Useful and Exciting Technical Terms for Junior Programmers 🚀💻](https://dev.to/jankaritech/20-useful-and-exciting-technical-terms-for-junior-programmers-59d7)
 <!-- BLOG-POST-LIST:END -->
 
