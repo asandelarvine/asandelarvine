@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Server Components &lpar;RSC&rpar;: The Future of Rendering in React 🔮](https://dev.to/margish288/react-server-components-rsc-the-future-of-rendering-in-react-1hd)
-- [Designing HTTP API clients in .NET](https://dev.to/ilya-chumakov/designing-http-api-clients-in-net-j9e)
-- [How to use the time tag for displaying time in an accessible way](https://dev.to/mike_andreuzza/how-to-use-the-time-tag-for-displaying-time-in-an-accessible-way-2ojm)
-- [5 Project Planning Tools You Need to Succeed in Any Business [With Examples]](https://dev.to/thomasy0ung/5-project-planning-tools-you-need-to-succeed-in-any-business-with-examples-8np)
+- [How to make your web page faster before it even loads](https://dev.to/whitep4nth3r/how-to-make-your-web-page-faster-before-it-even-loads-1lfm)
+- [My Internship Experience with Code Alpha: Building Projects and Gaining Practical Skills](https://dev.to/khushbo_zahid_749/my-internship-experience-with-code-alpha-building-projects-and-gaining-practical-skills-oe9)
+- [Neural Networks&#39; &quot;Grokking&quot; Revealed as Emergent Phase Transition in Information-Theoretic Analysis](https://dev.to/mikeyoung44/neural-networks-grokking-revealed-as-emergent-phase-transition-in-information-theoretic-analysis-1i53)
+- [How to Implement Push Notifications with Firebase Cloud Messaging &lpar;FCM&rpar; in Angular](https://dev.to/soham_galande/how-to-implement-push-notifications-with-firebase-cloud-messaging-fcm-in-angular-3ghj)
 <!-- BLOG-POST-LIST:END -->
 
