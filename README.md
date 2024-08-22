@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the practical benefit of using &lt;section&gt;?](https://dev.to/taliastorymaker/whats-the-practical-benefit-of-using--2iah)
-- [BuddyInjector](https://dev.to/diegodrf/buddyinjector-143l)
-- [Restful Routing - A Flask API Example](https://dev.to/spencer_adler_880da14d230/restful-routing-a-flask-api-example-5cpb)
-- [Top 10 Tips to Get Started with Open Source and GSoC](https://dev.to/middleware/top-10-tips-to-get-started-with-open-source-and-gsoc-41na)
+- [Build a Simple Calculator](https://dev.to/abhishekgurjar/build-a-simple-calculator-n6)
+- [# Booting up Linux Kernel - Linux for Engineers #1](https://dev.to/wiresurfer/-booting-up-linux-kernel-linux-for-engineers-1-2lk1)
+- [JS Frameworks Guide](https://dev.to/amirmahdimaleki/js-frameworks-guide-fo)
+- [Small Collection 2.6](https://dev.to/sebk69/small-collection-26-4pjf)
 <!-- BLOG-POST-LIST:END -->
 
