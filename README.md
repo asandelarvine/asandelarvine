@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My GSoC Experience : PEcAn Project](https://dev.to/devrx/my-gsoc-experience-pecan-project-bi0)
-- [My Boys](https://dev.to/abduldoma/my-boys-1bd5)
-- [How deep learning can transform fetal head scanning and ensure safe pregnancies](https://dev.to/shagun_mistry/how-deep-learning-can-transform-fetal-head-scanning-and-ensure-safe-pregnancies-2o59)
-- [Mastering AI in Web Development: How to Boost Efficiency and Create Smarter Apps](https://dev.to/stanley_wanjohi_7fa21dd5f/mastering-ai-in-web-development-how-to-boost-efficiency-and-create-smarter-apps-35ba)
+- [#49 - Group An EXCEL Table And Concatenate Values of Rows Meeting The Specified Condition](https://dev.to/judith677/49-group-an-excel-table-and-concatenate-values-of-rows-meeting-the-specified-condition-48fj)
+- [What Are JavaScript Sets and Maps?](https://dev.to/zain725342/what-are-javascript-sets-and-maps-14f8)
+- [Understanding Redux: A Deep Dive into Its Inner Workings](https://dev.to/jakaria/understanding-redux-a-deep-dive-into-its-inner-workings-5g69)
+- [Why Liveness Detection is Crucial for Preventing Identity Fraud in 2024](https://dev.to/faceplugin/why-liveness-detection-is-crucial-for-preventing-identity-fraud-in-2024-15em)
 <!-- BLOG-POST-LIST:END -->
 
