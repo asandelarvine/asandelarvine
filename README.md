@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Naming Domain Rules Is Essential for Code Semantics](https://dev.to/albertsouza1/why-naming-domain-rules-is-essential-for-code-semantics-nfc)
-- [Day 1016 : Unorthodox](https://dev.to/dwane/day-1016-unorthodox-571o)
-- [Leveraging Federated Learning for Privacy-Preserving Systems: A Zero-Knowledge Approach](https://dev.to/nkianil/leveraging-federated-learning-for-privacy-preserving-systems-a-zero-knowledge-approach-20j3)
-- [Redux the beginners guide!](https://dev.to/gianni_cast/redux-the-beginners-guide-dn9)
+- [Building a Blog API with Golang using Gin and Gorm](https://dev.to/hazaloolu/building-a-blog-api-with-golang-using-gin-and-gorm-451o)
+- [macOS by Tutorials](https://dev.to/trozware/macos-by-tutorials-52)
+- [Live Demos: Do they always need to be live?](https://dev.to/scottharrisondev/live-demos-do-they-always-need-to-be-live-49if)
+- [Implementing Infinite Scroll with Laravel and Vue.js 3](https://dev.to/rafaelogic/implementing-infinite-scroll-with-laravel-and-vuejs-3-fmd)
 <!-- BLOG-POST-LIST:END -->
 
