@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Inline Validation for Rails Forms &lpar;with ViewComponent or partials&rpar;](https://dev.to/railsdesigner/better-inline-validation-for-rails-forms-with-viewcomponent-or-partials-436a)
-- [Fun with macOS&#39;s SIP](https://dev.to/aviramha/fun-with-macoss-sip-2646)
-- [foundationda 9 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-9-dars-145o)
-- [아이폰 단축어에서 POST API 호출해서 텔레그램으로 인증코드 공유하기](https://dev.to/__aa3e4bc832ba7032bfa3/aipon-dancugeoeseo-post-api-hoculhaeseo-telregeuraemeuro-injeungkodeu-gongyuhagi-1hj0)
+- [15 hidden open-source gems to become 10x AI engineer🧙‍♂️ 🪄](https://dev.to/composiodev/15-hidden-open-source-gems-to-become-10x-ai-engineer-39pd)
+- [An Introduction to Vector Embeddings: What They Are and How to Use Them](https://dev.to/zilliz/an-introduction-to-vector-embeddings-what-they-are-and-how-to-use-them-9)
+- [Iniciando no Angular: Dicas e estrutura inicial](https://dev.to/zeotoni/iniciando-no-angular-dicas-e-estrutura-inicial-40gi)
+- [Getting Started with Spline 🎭: The Future of 3D Web Design](https://dev.to/uicraft_by_pratik/getting-started-with-spline-the-future-of-3d-web-design-1aji)
 <!-- BLOG-POST-LIST:END -->
 
