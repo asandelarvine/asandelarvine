@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 hidden open-source gems to become 10x AI engineer🧙‍♂️ 🪄](https://dev.to/composiodev/15-hidden-open-source-gems-to-become-10x-ai-engineer-39pd)
-- [An Introduction to Vector Embeddings: What They Are and How to Use Them](https://dev.to/zilliz/an-introduction-to-vector-embeddings-what-they-are-and-how-to-use-them-9)
-- [Iniciando no Angular: Dicas e estrutura inicial](https://dev.to/zeotoni/iniciando-no-angular-dicas-e-estrutura-inicial-40gi)
-- [Getting Started with Spline 🎭: The Future of 3D Web Design](https://dev.to/uicraft_by_pratik/getting-started-with-spline-the-future-of-3d-web-design-1aji)
+- [Security Information and Event Management &lpar;SIEM&rpar; And Playbook](https://dev.to/mohanavamsi0614/security-information-and-event-management-siem-and-playbook-4j0a)
+- [Why we use Hooks](https://dev.to/coding_ghost/why-we-use-hooks-1h31)
+- [Setting Up a Simple Counter App with Redux: A Step-by-Step Guide](https://dev.to/jakaria/setting-up-a-simple-counter-app-with-redux-a-step-by-step-guide-23dp)
+- [Dynamic Button UI onclick using JavaScript](https://dev.to/marvellye/dynamic-button-ui-onclick-using-javascript-1pk2)
 <!-- BLOG-POST-LIST:END -->
 
