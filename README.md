@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About Coding Bootcamps: Investment or Risk?](https://dev.to/travislramos/the-truth-about-coding-bootcamps-investment-or-risk-dpk)
-- [Closure in Javascript&lpar;Bangla&rpar; With Joy](https://dev.to/joy5k/closure-in-javascriptbangla-with-joy-5hh9)
-- [Managing State in Multiple Instances of the Same Component in React](https://dev.to/surjoyday_kt/managing-state-in-multiple-instances-of-the-same-component-in-react-5dfk)
-- [476. Number Complement](https://dev.to/mdarifulhaque/476-number-complement-d7i)
+- [Our journey integrating Qdrant in Zerops](https://dev.to/zeropsio/our-journey-integrating-qdrant-in-zerops-4iea)
+- [OctoTube: Voice Search for YouTube](https://dev.to/gracezzhang/octotube-voice-search-for-youtube-1f3j)
+- [Are you ready for PYTHON?](https://dev.to/ankit_rattan/are-you-ready-for-python-5e79)
+- [Speaker Diarization in Python](https://dev.to/gracezzhang/speaker-diarization-in-python-235i)
 <!-- BLOG-POST-LIST:END -->
 
