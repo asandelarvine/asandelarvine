@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #168: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-168-explica-este-codigo-python-3p5m)
-- [Exploring Anthropic Claude: A Safe and Ethical AI Assistant](https://dev.to/a_ghadge/exploring-anthropic-claude-a-safe-and-ethical-ai-assistant-34j)
-- [5 Hourly Planner Templates to Streamline Your Day With Precision](https://dev.to/thomasy0ung/5-hourly-planner-templates-to-streamline-your-day-with-precision-14ec)
-- [SOLID: D - Dependency Inversion Principle &lpar;DIP&rpar;](https://dev.to/paulocappa/solid-d-dependency-inversion-principle-dip-34hd)
+- [Only BFS and DFS in Graph using Javascript](https://dev.to/ashutoshsarangi/only-bfs-and-dfs-in-graph-using-javascript-52pn)
+- [What&#39;s New in Java 23: A Comprehensive Overview](https://dev.to/gadekar_sachin/whats-new-in-java-23-a-comprehensive-overview-28a7)
+- [Web Scraping with Python: An In-Depth Guide to Requests, BeautifulSoup, Selenium, and Scrapy](https://dev.to/alexander_martin_13fd7a40/web-scraping-with-python-an-in-depth-guide-to-requests-beautifulsoup-selenium-and-scrapy-bm6)
+- [8/8 daily log of AI](https://dev.to/jimmylikm/88-daily-log-of-ai-3j9j)
 <!-- BLOG-POST-LIST:END -->
 
