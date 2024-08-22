@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Search and RAG for Any Website with Firecrawl and Trieve](https://dev.to/danielsgriffin/build-search-and-rag-for-any-website-with-firecrawl-and-trieve-4cgp)
-- [Main features of Reactjs](https://dev.to/anvarbekdev/main-features-of-reactjs-50jo)
-- [Refactoring for Efficiency: Tackling Performance Issues in Data-Heavy Pages](https://dev.to/theairdemon/refactoring-for-efficiency-tackling-performance-issues-in-data-heavy-pages-4mlc)
-- [Safe assignment &lpar;?=&rpar; alternative for promises](https://dev.to/blobkat/safe-assignment-alternative-for-promises-296c)
+- [The Truth About Coding Bootcamps: Investment or Risk?](https://dev.to/travislramos/the-truth-about-coding-bootcamps-investment-or-risk-dpk)
+- [Closure in Javascript&lpar;Bangla&rpar; With Joy](https://dev.to/joy5k/closure-in-javascriptbangla-with-joy-5hh9)
+- [Managing State in Multiple Instances of the Same Component in React](https://dev.to/surjoyday_kt/managing-state-in-multiple-instances-of-the-same-component-in-react-5dfk)
+- [476. Number Complement](https://dev.to/mdarifulhaque/476-number-complement-d7i)
 <!-- BLOG-POST-LIST:END -->
 
