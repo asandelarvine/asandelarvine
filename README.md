@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [foundationda 8 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-8-dars-22i1)
-- [Mastercard’s Web3 Card Launch, ERC-7683 Backed by Vitalik, Rhinestone’s $5M Funding, OP Labs’ Superchain Interoperability](https://dev.to/alexandradev/mastercards-web3-card-launch-erc-7683-backed-by-vitalik-rhinestones-5m-funding-op-labs-superchain-interoperability-617)
-- [How is AI in Underwriting Poised to Transform the Insurance Industry?](https://dev.to/marutitech/read-more-how-is-ai-in-underwriting-poised-to-transform-the-insurance-industry-oam)
-- [Bus Ticket Booking App | Angular 18 + .NET API](https://dev.to/chitra/bus-ticket-booking-app-angular-18-net-api-4o1f)
+- [Ibuprofeno.py💊| #168: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-168-explica-este-codigo-python-3p5m)
+- [Exploring Anthropic Claude: A Safe and Ethical AI Assistant](https://dev.to/a_ghadge/exploring-anthropic-claude-a-safe-and-ethical-ai-assistant-34j)
+- [5 Hourly Planner Templates to Streamline Your Day With Precision](https://dev.to/thomasy0ung/5-hourly-planner-templates-to-streamline-your-day-with-precision-14ec)
+- [SOLID: D - Dependency Inversion Principle &lpar;DIP&rpar;](https://dev.to/paulocappa/solid-d-dependency-inversion-principle-dip-34hd)
 <!-- BLOG-POST-LIST:END -->
 
