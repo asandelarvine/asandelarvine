@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The perl.fish experiment](https://dev.to/thibaultduponchelle/the-perlfish-experiment-6lm)
-- [The Importance of Being Agile in the Database World](https://dev.to/metis/the-importance-of-being-agile-in-the-database-world-2ibn)
-- [Responsible AI: Evaluating truthfulness in Azure OpenAI model outputs](https://dev.to/icebeam7/responsible-ai-evaluating-truthfulness-in-azure-openai-model-outputs-4cm0)
-- [How is BTech in Artificial Intelligence &amp; Machine Learning for a Successful Career?](https://dev.to/ashwini_ashu/how-is-btech-in-artificial-intelligence-machine-learning-for-a-successful-career-fe6)
+- [Golang Security Review Guide](https://dev.to/marscode/golang-security-review-guide-4kk5)
+- [Kotlin Coroutines and OpenTelemetry tracing](https://dev.to/nfrankel/kotlin-coroutines-and-opentelemetry-tracing-2kdh)
+- [Optimizing Docker Images for Size and Security: A Comprehensive Guide](https://dev.to/akshat_gautam/optimizing-docker-images-for-size-and-security-a-comprehensive-guide-4df0)
+- [OAuth andOpenID - Introduction](https://dev.to/ddiasfront/oauth-andopenid-introduction-402m)
 <!-- BLOG-POST-LIST:END -->
 
