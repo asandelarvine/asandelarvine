@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Activate Apple Passkeys on iPhones](https://dev.to/corbado/how-to-activate-apple-passkeys-on-iphones-1pg)
-- [From Chaos to Clarity: The Critical Role of Architecture](https://dev.to/m_midas/from-chaos-to-clarity-the-critical-role-of-architecture-3p7i)
-- [Automation: A Game Changer for End-to-End Testing](https://dev.to/calsoftinc/automation-a-game-changer-for-end-to-end-testing-d)
-- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-detect-completion-of-multiple-loading-on-the-same-page-ebj)
+- [Mastering SQL Views: Simplify and Optimize Your Queries](https://dev.to/dbvismarketing/mastering-sql-views-simplify-and-optimize-your-queries-247k)
+- [The Legacy of Innovation: How Muslim Scholars Shaped Modern Science](https://dev.to/muhammad_raihan/the-legacy-of-innovation-how-muslim-scholars-shaped-modern-science-bdj)
+- [4 Small &lpar;But Easily Fixable&rpar; Mistakes New 3D Artists Make When Starting Out](https://dev.to/soulis98/4-small-but-easily-fixable-mistakes-new-3d-artists-make-when-starting-out-1235)
+- [Maximizing SEO and Performance with Next.js: Strategies from an Activity Booking Platform Project](https://dev.to/marieooq/maximizing-seo-and-performance-with-nextjs-strategies-from-an-activity-booking-platform-project-86a)
 <!-- BLOG-POST-LIST:END -->
 
