@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure git](https://dev.to/olaniyi_olabode_20904dff2/how-to-configure-git-3fch)
-- [How to use asymetric encryption with PHP and OPENSSL 👺](https://dev.to/razielrodrigues/how-to-use-asymetric-encryption-with-php-and-openssl-idl)
-- [A complete guide on being a great manager, written by an engineer](https://dev.to/akash4393/a-complete-guide-on-being-a-great-manager-written-by-an-engineer-4nem)
-- [Project 1: Expanding Cards - My &#39;50 Projects in 50 Days&#39; Journey](https://dev.to/alishata128/project-1-expanding-cards-my-50-projects-in-50-days-journey-1na6)
+- [My GSoC Experience : PEcAn Project](https://dev.to/devrx/my-gsoc-experience-pecan-project-bi0)
+- [My Boys](https://dev.to/abduldoma/my-boys-1bd5)
+- [How deep learning can transform fetal head scanning and ensure safe pregnancies](https://dev.to/shagun_mistry/how-deep-learning-can-transform-fetal-head-scanning-and-ensure-safe-pregnancies-2o59)
+- [Mastering AI in Web Development: How to Boost Efficiency and Create Smarter Apps](https://dev.to/stanley_wanjohi_7fa21dd5f/mastering-ai-in-web-development-how-to-boost-efficiency-and-create-smarter-apps-35ba)
 <!-- BLOG-POST-LIST:END -->
 
