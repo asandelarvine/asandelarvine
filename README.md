@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Only BFS and DFS in Graph using Javascript](https://dev.to/ashutoshsarangi/only-bfs-and-dfs-in-graph-using-javascript-52pn)
-- [What&#39;s New in Java 23: A Comprehensive Overview](https://dev.to/gadekar_sachin/whats-new-in-java-23-a-comprehensive-overview-28a7)
-- [Web Scraping with Python: An In-Depth Guide to Requests, BeautifulSoup, Selenium, and Scrapy](https://dev.to/alexander_martin_13fd7a40/web-scraping-with-python-an-in-depth-guide-to-requests-beautifulsoup-selenium-and-scrapy-bm6)
-- [8/8 daily log of AI](https://dev.to/jimmylikm/88-daily-log-of-ai-3j9j)
+- [📝 Git Cheat Sheet for Developers](https://dev.to/nullvoidkage/git-cheat-sheet-for-developers-424d)
+- [Will Robots Finally Beat CAPTCHA?](https://dev.to/itshayder/will-robots-finally-beat-captcha-526f)
+- [ReactJS |Simple React Calculator](https://dev.to/moses619/reactjs-simple-react-calculator-1b20)
+- [📝 SQL Cheat Sheet for Developers](https://dev.to/nullvoidkage/sql-cheat-sheet-for-developers-5hag)
 <!-- BLOG-POST-LIST:END -->
 
