@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang Security Review Guide](https://dev.to/marscode/golang-security-review-guide-4kk5)
-- [Kotlin Coroutines and OpenTelemetry tracing](https://dev.to/nfrankel/kotlin-coroutines-and-opentelemetry-tracing-2kdh)
-- [Optimizing Docker Images for Size and Security: A Comprehensive Guide](https://dev.to/akshat_gautam/optimizing-docker-images-for-size-and-security-a-comprehensive-guide-4df0)
-- [OAuth andOpenID - Introduction](https://dev.to/ddiasfront/oauth-andopenid-introduction-402m)
+- [foundationda 8 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-8-dars-22i1)
+- [Mastercard’s Web3 Card Launch, ERC-7683 Backed by Vitalik, Rhinestone’s $5M Funding, OP Labs’ Superchain Interoperability](https://dev.to/alexandradev/mastercards-web3-card-launch-erc-7683-backed-by-vitalik-rhinestones-5m-funding-op-labs-superchain-interoperability-617)
+- [How is AI in Underwriting Poised to Transform the Insurance Industry?](https://dev.to/marutitech/read-more-how-is-ai-in-underwriting-poised-to-transform-the-insurance-industry-oam)
+- [Bus Ticket Booking App | Angular 18 + .NET API](https://dev.to/chitra/bus-ticket-booking-app-angular-18-net-api-4o1f)
 <!-- BLOG-POST-LIST:END -->
 
