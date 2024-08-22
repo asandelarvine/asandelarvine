@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#49 - Group An EXCEL Table And Concatenate Values of Rows Meeting The Specified Condition](https://dev.to/judith677/49-group-an-excel-table-and-concatenate-values-of-rows-meeting-the-specified-condition-48fj)
-- [What Are JavaScript Sets and Maps?](https://dev.to/zain725342/what-are-javascript-sets-and-maps-14f8)
-- [Understanding Redux: A Deep Dive into Its Inner Workings](https://dev.to/jakaria/understanding-redux-a-deep-dive-into-its-inner-workings-5g69)
-- [Why Liveness Detection is Crucial for Preventing Identity Fraud in 2024](https://dev.to/faceplugin/why-liveness-detection-is-crucial-for-preventing-identity-fraud-in-2024-15em)
+- [Getting Started with Ansible - The Beginner’s Guide : Day 30 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/getting-started-with-ansible-the-beginners-guide-day-30-of-50-days-devops-tools-series-1iae)
+- [How to Remove Copilot from Taskbar without Disabling it Permanently?](https://dev.to/winsides/how-to-remove-copilot-from-taskbar-without-disabling-it-permanently-597d)
+- [Hi Devs, I am new here](https://dev.to/saikat_das/hi-devs-i-am-new-here-3la5)
+- [The difference between readonly and const in Type Script](https://dev.to/noah-00/the-difference-between-readonly-and-const-in-type-script-3po3)
 <!-- BLOG-POST-LIST:END -->
 
