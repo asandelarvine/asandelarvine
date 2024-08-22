@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Software Testing: A Comprehensive Guide for Software Testers](https://dev.to/misterankit/automated-software-testing-a-comprehensive-guide-for-software-testers-fb)
-- [Software Component Design Principles](https://dev.to/brandongautama/software-component-design-principles-2g2c)
-- [🚀 Introducing LogLLM: Automate Your ML Experiment Logging with LLMs](https://dev.to/shure/introducing-logllm-automate-your-ml-experiment-logging-with-llms-592j)
-- [Dive into the Theoretical Foundations of Computer Science with MIT&#39;s Automata, Computability, and Complexity Course 🤖](https://dev.to/getvm/dive-into-the-theoretical-foundations-of-computer-science-with-mits-automata-computability-and-complexity-course-53ph)
+- [How To Activate Apple Passkeys on iPhones](https://dev.to/corbado/how-to-activate-apple-passkeys-on-iphones-1pg)
+- [From Chaos to Clarity: The Critical Role of Architecture](https://dev.to/m_midas/from-chaos-to-clarity-the-critical-role-of-architecture-3p7i)
+- [Automation: A Game Changer for End-to-End Testing](https://dev.to/calsoftinc/automation-a-game-changer-for-end-to-end-testing-d)
+- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-detect-completion-of-multiple-loading-on-the-same-page-ebj)
 <!-- BLOG-POST-LIST:END -->
 
