@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Ansible - The Beginner’s Guide : Day 30 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/getting-started-with-ansible-the-beginners-guide-day-30-of-50-days-devops-tools-series-1iae)
-- [How to Remove Copilot from Taskbar without Disabling it Permanently?](https://dev.to/winsides/how-to-remove-copilot-from-taskbar-without-disabling-it-permanently-597d)
-- [Hi Devs, I am new here](https://dev.to/saikat_das/hi-devs-i-am-new-here-3la5)
-- [The difference between readonly and const in Type Script](https://dev.to/noah-00/the-difference-between-readonly-and-const-in-type-script-3po3)
+- [Melhorando o desempenho de aplicações Spring Boot - Parte I](https://dev.to/mathstylish/melhorando-a-performance-de-aplicacoes-spring-boot-parte-i-58jl)
+- [🏁Unleash the Full Power of Your Laptop on Linux 🚀](https://dev.to/kpndevroot/unleash-the-full-power-of-your-laptop-on-linux-5dpl)
+- [How to Downsample Your Data Efficiently](https://dev.to/dolphindb/how-to-downsample-your-data-efficiently-3037)
+- [Tutorial memakai node js sampai memunculkan hello world](https://dev.to/gaza_alfath/tutorial-memakai-node-js-sampai-memunculkan-hello-world-2pia)
 <!-- BLOG-POST-LIST:END -->
 
