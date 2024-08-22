@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Calculator](https://dev.to/abhishekgurjar/build-a-simple-calculator-n6)
-- [# Booting up Linux Kernel - Linux for Engineers #1](https://dev.to/wiresurfer/-booting-up-linux-kernel-linux-for-engineers-1-2lk1)
-- [JS Frameworks Guide](https://dev.to/amirmahdimaleki/js-frameworks-guide-fo)
-- [Small Collection 2.6](https://dev.to/sebk69/small-collection-26-4pjf)
+- [Build Search and RAG for Any Website with Firecrawl and Trieve](https://dev.to/danielsgriffin/build-search-and-rag-for-any-website-with-firecrawl-and-trieve-4cgp)
+- [Main features of Reactjs](https://dev.to/anvarbekdev/main-features-of-reactjs-50jo)
+- [Refactoring for Efficiency: Tackling Performance Issues in Data-Heavy Pages](https://dev.to/theairdemon/refactoring-for-efficiency-tackling-performance-issues-in-data-heavy-pages-4mlc)
+- [Safe assignment &lpar;?=&rpar; alternative for promises](https://dev.to/blobkat/safe-assignment-alternative-for-promises-296c)
 <!-- BLOG-POST-LIST:END -->
 
