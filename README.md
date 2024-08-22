@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Information and Event Management &lpar;SIEM&rpar; And Playbook](https://dev.to/mohanavamsi0614/security-information-and-event-management-siem-and-playbook-4j0a)
-- [Why we use Hooks](https://dev.to/coding_ghost/why-we-use-hooks-1h31)
-- [Setting Up a Simple Counter App with Redux: A Step-by-Step Guide](https://dev.to/jakaria/setting-up-a-simple-counter-app-with-redux-a-step-by-step-guide-23dp)
-- [Dynamic Button UI onclick using JavaScript](https://dev.to/marvellye/dynamic-button-ui-onclick-using-javascript-1pk2)
+- [What&#39;s the practical benefit of using &lt;section&gt;?](https://dev.to/taliastorymaker/whats-the-practical-benefit-of-using--2iah)
+- [BuddyInjector](https://dev.to/diegodrf/buddyinjector-143l)
+- [Restful Routing - A Flask API Example](https://dev.to/spencer_adler_880da14d230/restful-routing-a-flask-api-example-5cpb)
+- [Top 10 Tips to Get Started with Open Source and GSoC](https://dev.to/middleware/top-10-tips-to-get-started-with-open-source-and-gsoc-41na)
 <!-- BLOG-POST-LIST:END -->
 
