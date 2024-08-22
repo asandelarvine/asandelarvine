@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhorando o desempenho de aplicações Spring Boot - Parte I](https://dev.to/mathstylish/melhorando-a-performance-de-aplicacoes-spring-boot-parte-i-58jl)
-- [🏁Unleash the Full Power of Your Laptop on Linux 🚀](https://dev.to/kpndevroot/unleash-the-full-power-of-your-laptop-on-linux-5dpl)
-- [How to Downsample Your Data Efficiently](https://dev.to/dolphindb/how-to-downsample-your-data-efficiently-3037)
-- [Tutorial memakai node js sampai memunculkan hello world](https://dev.to/gaza_alfath/tutorial-memakai-node-js-sampai-memunculkan-hello-world-2pia)
+- [Automated Software Testing: A Comprehensive Guide for Software Testers](https://dev.to/misterankit/automated-software-testing-a-comprehensive-guide-for-software-testers-fb)
+- [Software Component Design Principles](https://dev.to/brandongautama/software-component-design-principles-2g2c)
+- [🚀 Introducing LogLLM: Automate Your ML Experiment Logging with LLMs](https://dev.to/shure/introducing-logllm-automate-your-ml-experiment-logging-with-llms-592j)
+- [Dive into the Theoretical Foundations of Computer Science with MIT&#39;s Automata, Computability, and Complexity Course 🤖](https://dev.to/getvm/dive-into-the-theoretical-foundations-of-computer-science-with-mits-automata-computability-and-complexity-course-53ph)
 <!-- BLOG-POST-LIST:END -->
 
