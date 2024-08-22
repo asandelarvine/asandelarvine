@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our journey integrating Qdrant in Zerops](https://dev.to/zeropsio/our-journey-integrating-qdrant-in-zerops-4iea)
-- [OctoTube: Voice Search for YouTube](https://dev.to/gracezzhang/octotube-voice-search-for-youtube-1f3j)
-- [Are you ready for PYTHON?](https://dev.to/ankit_rattan/are-you-ready-for-python-5e79)
-- [Speaker Diarization in Python](https://dev.to/gracezzhang/speaker-diarization-in-python-235i)
+- [Why Naming Domain Rules Is Essential for Code Semantics](https://dev.to/albertsouza1/why-naming-domain-rules-is-essential-for-code-semantics-nfc)
+- [Day 1016 : Unorthodox](https://dev.to/dwane/day-1016-unorthodox-571o)
+- [Leveraging Federated Learning for Privacy-Preserving Systems: A Zero-Knowledge Approach](https://dev.to/nkianil/leveraging-federated-learning-for-privacy-preserving-systems-a-zero-knowledge-approach-20j3)
+- [Redux the beginners guide!](https://dev.to/gianni_cast/redux-the-beginners-guide-dn9)
 <!-- BLOG-POST-LIST:END -->
 
