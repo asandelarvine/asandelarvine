@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering SQL Views: Simplify and Optimize Your Queries](https://dev.to/dbvismarketing/mastering-sql-views-simplify-and-optimize-your-queries-247k)
-- [The Legacy of Innovation: How Muslim Scholars Shaped Modern Science](https://dev.to/muhammad_raihan/the-legacy-of-innovation-how-muslim-scholars-shaped-modern-science-bdj)
-- [4 Small &lpar;But Easily Fixable&rpar; Mistakes New 3D Artists Make When Starting Out](https://dev.to/soulis98/4-small-but-easily-fixable-mistakes-new-3d-artists-make-when-starting-out-1235)
-- [Maximizing SEO and Performance with Next.js: Strategies from an Activity Booking Platform Project](https://dev.to/marieooq/maximizing-seo-and-performance-with-nextjs-strategies-from-an-activity-booking-platform-project-86a)
+- [The perl.fish experiment](https://dev.to/thibaultduponchelle/the-perlfish-experiment-6lm)
+- [The Importance of Being Agile in the Database World](https://dev.to/metis/the-importance-of-being-agile-in-the-database-world-2ibn)
+- [Responsible AI: Evaluating truthfulness in Azure OpenAI model outputs](https://dev.to/icebeam7/responsible-ai-evaluating-truthfulness-in-azure-openai-model-outputs-4cm0)
+- [How is BTech in Artificial Intelligence &amp; Machine Learning for a Successful Career?](https://dev.to/ashwini_ashu/how-is-btech-in-artificial-intelligence-machine-learning-for-a-successful-career-fe6)
 <!-- BLOG-POST-LIST:END -->
 
