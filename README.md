@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Buy verified BYBIT account](https://dev.to/nathandryder/buy-verified-bybit-account-d4e)
-- [Master JavaScript Modules in Just 30 Minutes](https://dev.to/bizmavenhub/master-javascript-modules-in-just-30-minutes-4mh3)
-- [Microsoft Entra ID: Vamos Conhecer?](https://dev.to/rafaelbonilha/microsoft-entra-id-vamos-conhecer-47ha)
-- [Looking to hire a hacker, Lee Ultimate Hacker is best and reliable as recommended](https://dev.to/riley_kelly_4c72cf8ef9da4/looking-to-hire-a-hacker-lee-ultimate-hacker-is-best-and-reliable-as-recommended-396o)
+- [20+ Cool Frontend Components](https://dev.to/shreyvijayvargiya/20-cool-frontend-components-47o1)
+- [Dijkstra Algorithm Using Javascript.](https://dev.to/ashutoshsarangi/dijkstra-algorithm-using-javascript-1lml)
+- [How to Implement Socket Communication in Unity and Node.js](https://dev.to/imaijiro/how-to-implement-socket-communication-in-unity-and-nodejs-30h7)
+- [Building a Real-Time Notification Center in React](https://dev.to/nikl/building-a-real-time-notification-center-in-react-99b)
 <!-- BLOG-POST-LIST:END -->
 
