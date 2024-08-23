@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20+ Cool Frontend Components](https://dev.to/shreyvijayvargiya/20-cool-frontend-components-47o1)
-- [Dijkstra Algorithm Using Javascript.](https://dev.to/ashutoshsarangi/dijkstra-algorithm-using-javascript-1lml)
-- [How to Implement Socket Communication in Unity and Node.js](https://dev.to/imaijiro/how-to-implement-socket-communication-in-unity-and-nodejs-30h7)
-- [Building a Real-Time Notification Center in React](https://dev.to/nikl/building-a-real-time-notification-center-in-react-99b)
+- [Managing API Integrations](https://dev.to/apidna/managing-api-integrations-51ja)
+- [Mastering MongoDB with Node.js: Best Strategies for Efficient Data Management](https://dev.to/wallacefreitas/mastering-mongodb-with-nodejs-best-strategies-for-efficient-data-management-3m10)
+- [Side Chat Question set with Entrepreneur](https://dev.to/startup-lab/side-chat-question-set-with-entrepreneur-43be)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hil)
 <!-- BLOG-POST-LIST:END -->
 
