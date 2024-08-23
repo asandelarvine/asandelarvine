@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an AI chatbot using one API to access multiple LLMs](https://dev.to/streamlit/how-to-create-an-ai-chatbot-using-one-api-to-access-multiple-llms-452n)
-- [A basic Introduction to Javascript](https://dev.to/roseabuba/a-basic-introduction-to-javascript-4em0)
-- [From Zero to MERN Stack: My Journey and Key Takeaways](https://dev.to/pranjil_kapoor_59c7d6f15a/from-zero-to-mern-stack-my-journey-and-key-takeaways-557j)
-- [Unable to find title of my application source page](https://dev.to/ashraf_ali_2403ad445baea7/unable-to-find-title-of-my-application-source-page-2fdh)
+- [[pt-BR] Padrões de código em diferentes empresas - o que devo usar?](https://dev.to/scarlet/padroes-de-codigo-em-diferentes-empresas-o-que-devo-usar-7a)
+- [Postmortem](https://dev.to/ebitech02/postmortem-4869)
+- [Como os argumentos são passados](https://dev.to/devsjavagirls/como-os-argumentos-sao-passados-3d1b)
+- [Passe objetos para os métodos](https://dev.to/devsjavagirls/passe-objetos-para-os-metodos-3ed9)
 <!-- BLOG-POST-LIST:END -->
 
