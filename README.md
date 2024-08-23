@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EventHandler in C#: What it is and How to Use it?](https://dev.to/bytehide/eventhandler-in-c-what-it-is-and-how-to-use-it-1hj9)
-- [Mastering PostgreSQL - Enterprise-Level Spring DataSource Configuration for Optimal Performance](https://dev.to/prasanth_k/mastering-postgresql-enterprise-level-spring-datasource-configuration-for-optimal-performance-4oa3)
-- [OTP Timer in React Native | No External Package](https://dev.to/ayushman_singh_97ed21fcd3/otp-timer-in-react-native-no-external-package-2kmp)
-- [Groundbreaking Legal AI Benchmark: LegalBench-RAG Tests Retrieval-Augmented Generation](https://dev.to/mikeyoung44/groundbreaking-legal-ai-benchmark-legalbench-rag-tests-retrieval-augmented-generation-2p32)
+- [MUI for VS Code](https://dev.to/jonahklayer/mui-for-vs-code-do5)
+- [A Guide to Digital Experience Monitoring&lpar;DEM&rpar; for Businesses](https://dev.to/ronika_kashyap/a-guide-to-digital-experience-monitoringdem-for-businesses-11lh)
+- [Unlocking the Hidden Potential of Your Data with Data Activation](https://dev.to/mohith93/unlocking-the-hidden-potential-of-your-data-with-data-activation-30hg)
+- [Data Visualization: How the Skewness and Kurtosis Lead Visual Distortion](https://dev.to/bullmouse/data-visualization-how-the-skewness-and-kurtosis-lead-visual-distortion-4fco)
 <!-- BLOG-POST-LIST:END -->
 
