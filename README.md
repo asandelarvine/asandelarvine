@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing API Integrations](https://dev.to/apidna/managing-api-integrations-51ja)
-- [Mastering MongoDB with Node.js: Best Strategies for Efficient Data Management](https://dev.to/wallacefreitas/mastering-mongodb-with-nodejs-best-strategies-for-efficient-data-management-3m10)
-- [Side Chat Question set with Entrepreneur](https://dev.to/startup-lab/side-chat-question-set-with-entrepreneur-43be)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hil)
+- [Building Free GitHub Copilot Alternative with Continue + GPUStack](https://dev.to/seal-software/building-free-github-copilot-alternative-with-continue-gpustack-2djh)
+- [Building Free GitHub Copilot Alternative with Continue + GPUStack](https://dev.to/gpustack/building-free-github-copilot-alternative-with-continue-gpustack-2l37)
+- [How can you pack up your Electron proyect in windows?](https://dev.to/maxbleu/how-can-you-pack-up-your-electron-proyect-in-windows-4d07)
+- [Step-by-Step Guide to Deploying a Serverless Application on AWS](https://dev.to/starkydevs/step-by-step-guide-to-deploying-a-serverless-application-on-aws-1da3)
 <!-- BLOG-POST-LIST:END -->
 
