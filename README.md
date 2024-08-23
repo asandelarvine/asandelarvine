@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[pt-BR] Padrões de código em diferentes empresas - o que devo usar?](https://dev.to/scarlet/padroes-de-codigo-em-diferentes-empresas-o-que-devo-usar-7a)
-- [Postmortem](https://dev.to/ebitech02/postmortem-4869)
-- [Como os argumentos são passados](https://dev.to/devsjavagirls/como-os-argumentos-sao-passados-3d1b)
-- [Passe objetos para os métodos](https://dev.to/devsjavagirls/passe-objetos-para-os-metodos-3ed9)
+- [Kubernetes Core Concepts: Building Blocks of Container Orchestration](https://dev.to/emminex/kubernetes-core-concepts-building-blocks-of-container-orchestration-40k7)
+- [Editor_de_Texto](https://dev.to/enlineaweb/editordetexto-15fj)
+- [Day 1017 : The Other Side](https://dev.to/dwane/day-1017-the-other-side-52di)
+- [Kafka Connect: FileStreamSourceConnector in distributed mode](https://dev.to/eidher/kafka-connect-filestreamsourceconnector-in-distributed-mode-4l8)
 <!-- BLOG-POST-LIST:END -->
 
