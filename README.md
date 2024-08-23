@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Windows Insider Program in Windows 11!](https://dev.to/winsides/enable-windows-insider-program-in-windows-11-4c1m)
-- [Mastering Jest in Next.js: A Complete Guide for App Router and TypeScript 🚀](https://dev.to/alaa-samy/mastering-jest-in-nextjs-a-complete-guide-for-app-router-and-typescript-o28)
-- [Writing a state management library in 50 lines of JavaScript](https://dev.to/jverneaut/writing-a-state-management-library-in-50-lines-of-javascript-3l41)
-- [Securing Microservices with Spring Security: Implementing JWT](https://dev.to/ayushstwt/securing-microservices-with-spring-security-implementing-jwt-38m6)
+- [How to create an AI chatbot using one API to access multiple LLMs](https://dev.to/streamlit/how-to-create-an-ai-chatbot-using-one-api-to-access-multiple-llms-452n)
+- [A basic Introduction to Javascript](https://dev.to/roseabuba/a-basic-introduction-to-javascript-4em0)
+- [From Zero to MERN Stack: My Journey and Key Takeaways](https://dev.to/pranjil_kapoor_59c7d6f15a/from-zero-to-mern-stack-my-journey-and-key-takeaways-557j)
+- [Unable to find title of my application source page](https://dev.to/ashraf_ali_2403ad445baea7/unable-to-find-title-of-my-application-source-page-2fdh)
 <!-- BLOG-POST-LIST:END -->
 
