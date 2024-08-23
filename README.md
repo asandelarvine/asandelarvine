@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Activate Google Android Passkeys](https://dev.to/corbado/how-to-activate-google-android-passkeys-1ag0)
-- [A Guide to AI Video Analytics: Applications and Opportunities](https://dev.to/nextbraincanada/a-guide-to-ai-video-analytics-applications-and-opportunities-19h6)
-- [Recharts: The Ultimate React Charting Library](https://dev.to/codeparrot/recharts-the-ultimate-react-charting-library-4b8o)
-- [The rise of self-hosted PaaS — is $5 VPS all you need?](https://dev.to/zeropsio/the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no)
+- [Group and Summarize data, and align to the specified sequence #eg31](https://dev.to/esproc_spl/group-and-summarize-data-and-align-to-the-specified-sequence-eg31-hce)
+- [The Relationship Between Access Control, Authorization, and Authentication](https://dev.to/adityabhuyan/the-relationship-between-access-control-authorization-and-authentication-30pp)
+- [methods for keycloak script](https://dev.to/nabim777/helpful-for-keycloak-script-1lpo)
+- [The Evolution of Hardware vs. Software Speed: Analyzing the Growing Gap Over Time](https://dev.to/adityabhuyan/the-evolution-of-hardware-vs-software-speed-analyzing-the-growing-gap-over-time-4feo)
 <!-- BLOG-POST-LIST:END -->
 
