@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Engineer&#39;s Roadmap to Building Resilient Systems in High Growth Environments](https://dev.to/squadcast/the-engineers-roadmap-to-building-resilient-systems-in-high-growth-environments-30km)
-- [Debit Card Scam Courtesy of CashApp](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
-- [Building a DevOps Culture in High-Growth Companies: A Leader’s Blueprint](https://dev.to/squadcast/building-a-devops-culture-in-high-growth-companies-a-leaders-blueprint-1kne)
-- [Streamlining Operations: A Guide to the Top System Monitoring Tools](https://dev.to/squadcast/streamlining-operations-a-guide-to-the-top-system-monitoring-tools-14m5)
+- [How To Activate Google Android Passkeys](https://dev.to/corbado/how-to-activate-google-android-passkeys-1ag0)
+- [A Guide to AI Video Analytics: Applications and Opportunities](https://dev.to/nextbraincanada/a-guide-to-ai-video-analytics-applications-and-opportunities-19h6)
+- [Recharts: The Ultimate React Charting Library](https://dev.to/codeparrot/recharts-the-ultimate-react-charting-library-4b8o)
+- [The rise of self-hosted PaaS — is $5 VPS all you need?](https://dev.to/zeropsio/the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no)
 <!-- BLOG-POST-LIST:END -->
 
