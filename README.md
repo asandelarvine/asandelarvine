@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #197 : Waku, Effect, TanStack, Framer Motion, use&lpar;&rpar;, Preact, Valtio, Astro, Three.js, Nitrogen...](https://dev.to/sebastienlorber/this-week-in-react-197-waku-effect-tanstack-framer-motion-use-preact-valtio-astro-threejs-nitrogen-3efl)
-- [How to Check If a Database or Object Storage Is Used by JuiceFS](https://dev.to/daswu/how-to-check-if-a-database-or-object-storage-is-used-by-juicefs-m6p)
-- [array, aictionary, for and while loops to score 25 marks in System Commands OPPE](https://dev.to/abbazs/array-aictionary-for-and-while-loops-to-score-25-marks-in-system-commands-oppe-31e0)
-- [Streamlining Task Management with Nylas and AI: My Submission for the Nylas AI Expedition Challenge](https://dev.to/imabutahersiddik/streamlining-task-management-with-nylas-and-ai-my-submission-for-the-nylas-ai-expedition-challenge-40jo)
+- [EventHandler in C#: What it is and How to Use it?](https://dev.to/bytehide/eventhandler-in-c-what-it-is-and-how-to-use-it-1hj9)
+- [Mastering PostgreSQL - Enterprise-Level Spring DataSource Configuration for Optimal Performance](https://dev.to/prasanth_k/mastering-postgresql-enterprise-level-spring-datasource-configuration-for-optimal-performance-4oa3)
+- [OTP Timer in React Native | No External Package](https://dev.to/ayushman_singh_97ed21fcd3/otp-timer-in-react-native-no-external-package-2kmp)
+- [Groundbreaking Legal AI Benchmark: LegalBench-RAG Tests Retrieval-Augmented Generation](https://dev.to/mikeyoung44/groundbreaking-legal-ai-benchmark-legalbench-rag-tests-retrieval-augmented-generation-2p32)
 <!-- BLOG-POST-LIST:END -->
 
