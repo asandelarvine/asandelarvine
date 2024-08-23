@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Web Pages](https://dev.to/thekarlesi/how-to-validate-web-pages-34l2)
-- [JIRA Analytics with Pandas](https://dev.to/sibprogrammer/jira-analytics-with-pandas-agl)
-- [Ibuprofeno.py💊| #169: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-169-explica-este-codigo-python-3f5p)
-- [3 Ways to Store Computer Vision Data](https://dev.to/reductstore/3-ways-to-store-computer-vision-data-1gha)
+- [Mastering CI/CD Pipeline: A Comprehensive Guide to Automation &amp; Efficiency](https://dev.to/hanzla-mirza/mastering-cicd-pipeline-a-comprehensive-guide-to-automation-efficiency-95g)
+- [Smooth Video Streaming with React Native](https://dev.to/ajmal_hasan/smooth-video-streaming-with-react-native-105h)
+- [Find Outdated Composer Dependencies Using &quot;composer outdated&quot;](https://dev.to/ashallendesign/find-outdated-composer-dependencies-using-composer-outdated-2jhp)
+- [Neon Scaffolder](https://dev.to/timotej_avsec/neon-scaffolder-42c8)
 <!-- BLOG-POST-LIST:END -->
 
