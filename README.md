@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Free GitHub Copilot Alternative with Continue + GPUStack](https://dev.to/seal-software/building-free-github-copilot-alternative-with-continue-gpustack-2djh)
-- [Building Free GitHub Copilot Alternative with Continue + GPUStack](https://dev.to/gpustack/building-free-github-copilot-alternative-with-continue-gpustack-2l37)
-- [How can you pack up your Electron proyect in windows?](https://dev.to/maxbleu/how-can-you-pack-up-your-electron-proyect-in-windows-4d07)
-- [Step-by-Step Guide to Deploying a Serverless Application on AWS](https://dev.to/starkydevs/step-by-step-guide-to-deploying-a-serverless-application-on-aws-1da3)
+- [Using Packer and Proxmox to Build Templates](https://dev.to/umairk/using-packer-and-proxmox-to-build-templates-455f)
+- [Tech Communities: Important Secrets Everyone Should Know](https://dev.to/mlasunilag/tech-communities-important-secrets-everyone-should-know-3d8p)
+- [Mastering TypeScript Generics for Reusable Logic](https://dev.to/abhay1kumar/mastering-typescript-generics-for-reusable-logic-420g)
+- [🎉 Join Our Creative Hub on Discord: Become Part of Something Amazing! 🎉](https://dev.to/kresi/join-our-creative-hub-on-discord-become-part-of-something-amazing-5dj9)
 <!-- BLOG-POST-LIST:END -->
 
