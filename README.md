@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CI/CD Pipeline: A Comprehensive Guide to Automation &amp; Efficiency](https://dev.to/hanzla-mirza/mastering-cicd-pipeline-a-comprehensive-guide-to-automation-efficiency-95g)
-- [Smooth Video Streaming with React Native](https://dev.to/ajmal_hasan/smooth-video-streaming-with-react-native-105h)
-- [Find Outdated Composer Dependencies Using &quot;composer outdated&quot;](https://dev.to/ashallendesign/find-outdated-composer-dependencies-using-composer-outdated-2jhp)
-- [Neon Scaffolder](https://dev.to/timotej_avsec/neon-scaffolder-42c8)
+- [Splitting the Difference: My Journey into Ergonomic Keyboards and Pain-Free Productivity](https://dev.to/codeferreira/splitting-the-difference-my-journey-into-ergonomic-keyboards-and-pain-free-productivity-22kb)
+- [Unraveling the Mysteries of JavaScript and React: Hooks, Callbacks, and Methods](https://dev.to/brandonc/unraveling-the-mysteries-of-javascript-and-react-hooks-callbacks-and-methods-31he)
+- [Devops](https://dev.to/hritikraj8804/devops-60)
+- [Solving Problems on HackerRank](https://dev.to/dorinandreidragan/solving-problems-on-hackerrank-kah)
 <!-- BLOG-POST-LIST:END -->
 
