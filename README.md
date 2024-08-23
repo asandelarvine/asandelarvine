@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MUI for VS Code](https://dev.to/jonahklayer/mui-for-vs-code-do5)
-- [A Guide to Digital Experience Monitoring&lpar;DEM&rpar; for Businesses](https://dev.to/ronika_kashyap/a-guide-to-digital-experience-monitoringdem-for-businesses-11lh)
-- [Unlocking the Hidden Potential of Your Data with Data Activation](https://dev.to/mohith93/unlocking-the-hidden-potential-of-your-data-with-data-activation-30hg)
-- [Data Visualization: How the Skewness and Kurtosis Lead Visual Distortion](https://dev.to/bullmouse/data-visualization-how-the-skewness-and-kurtosis-lead-visual-distortion-4fco)
+- [How to Validate Web Pages](https://dev.to/thekarlesi/how-to-validate-web-pages-34l2)
+- [JIRA Analytics with Pandas](https://dev.to/sibprogrammer/jira-analytics-with-pandas-agl)
+- [Ibuprofeno.py💊| #169: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-169-explica-este-codigo-python-3f5p)
+- [3 Ways to Store Computer Vision Data](https://dev.to/reductstore/3-ways-to-store-computer-vision-data-1gha)
 <!-- BLOG-POST-LIST:END -->
 
