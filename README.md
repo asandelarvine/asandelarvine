@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Packer and Proxmox to Build Templates](https://dev.to/umairk/using-packer-and-proxmox-to-build-templates-455f)
-- [Tech Communities: Important Secrets Everyone Should Know](https://dev.to/mlasunilag/tech-communities-important-secrets-everyone-should-know-3d8p)
-- [Mastering TypeScript Generics for Reusable Logic](https://dev.to/abhay1kumar/mastering-typescript-generics-for-reusable-logic-420g)
-- [🎉 Join Our Creative Hub on Discord: Become Part of Something Amazing! 🎉](https://dev.to/kresi/join-our-creative-hub-on-discord-become-part-of-something-amazing-5dj9)
+- [5 Neuro-Hacks to Supercharge Your Focus](https://dev.to/middleware/5-neuro-hacks-to-supercharge-your-focus-4795)
+- [Understanding CloudFormation: Automating Infrastructure with IaC on AWS](https://dev.to/starkydevs/understanding-cloudformation-automating-infrastructure-with-iac-on-aws-1ado)
+- [Mastering JavaScript Functions: Your Guide to Normal vs. Arrow Functions](https://dev.to/kafeel_ahmad/mastering-javascript-functions-your-guide-to-normal-vs-arrow-functions-2onk)
+- [The Complete Guide to Building and Publishing a Python Library](https://dev.to/brijpandeyji/the-complete-guide-to-building-and-publishing-a-python-library-47l)
 <!-- BLOG-POST-LIST:END -->
 
