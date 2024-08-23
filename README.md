@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Splitting the Difference: My Journey into Ergonomic Keyboards and Pain-Free Productivity](https://dev.to/codeferreira/splitting-the-difference-my-journey-into-ergonomic-keyboards-and-pain-free-productivity-22kb)
-- [Unraveling the Mysteries of JavaScript and React: Hooks, Callbacks, and Methods](https://dev.to/brandonc/unraveling-the-mysteries-of-javascript-and-react-hooks-callbacks-and-methods-31he)
-- [Devops](https://dev.to/hritikraj8804/devops-60)
-- [Solving Problems on HackerRank](https://dev.to/dorinandreidragan/solving-problems-on-hackerrank-kah)
+- [Buy verified BYBIT account](https://dev.to/nathandryder/buy-verified-bybit-account-d4e)
+- [Master JavaScript Modules in Just 30 Minutes](https://dev.to/bizmavenhub/master-javascript-modules-in-just-30-minutes-4mh3)
+- [Microsoft Entra ID: Vamos Conhecer?](https://dev.to/rafaelbonilha/microsoft-entra-id-vamos-conhecer-47ha)
+- [Looking to hire a hacker, Lee Ultimate Hacker is best and reliable as recommended](https://dev.to/riley_kelly_4c72cf8ef9da4/looking-to-hire-a-hacker-lee-ultimate-hacker-is-best-and-reliable-as-recommended-396o)
 <!-- BLOG-POST-LIST:END -->
 
