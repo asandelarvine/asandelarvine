@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Free and Open-Source Native Subscription App for Shopify](https://dev.to/axeemhaider/introducing-the-free-and-open-source-native-subscription-app-for-shopify-1oj7)
-- [Submission for the Neon Open Source Starter Kit Challenge: Ultimate Blogging Platform Starter Kit](https://dev.to/imabutahersiddik/submission-for-the-neon-open-source-starter-kit-challenge-ultimate-blogging-platform-starter-kit-1cmb)
-- [day dreaming of v5](https://dev.to/fuzzwah/day-dreaming-of-v5-1a0e)
-- [Mastering React Router Hooks: A Comprehensive Guide](https://dev.to/fullstackdevelper/mastering-react-router-hooks-a-comprehensive-guide-1o50)
+- [The Engineer&#39;s Roadmap to Building Resilient Systems in High Growth Environments](https://dev.to/squadcast/the-engineers-roadmap-to-building-resilient-systems-in-high-growth-environments-30km)
+- [Debit Card Scam Courtesy of CashApp](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
+- [Building a DevOps Culture in High-Growth Companies: A Leader’s Blueprint](https://dev.to/squadcast/building-a-devops-culture-in-high-growth-companies-a-leaders-blueprint-1kne)
+- [Streamlining Operations: A Guide to the Top System Monitoring Tools](https://dev.to/squadcast/streamlining-operations-a-guide-to-the-top-system-monitoring-tools-14m5)
 <!-- BLOG-POST-LIST:END -->
 
