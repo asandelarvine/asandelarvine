@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Huge updates and improvements for FLUX LoRA training - Train with 10 GB GPU and Kohya GUI](https://dev.to/furkangozukara/huge-updates-and-improvements-for-flux-lora-training-1300)
-- [Code Smell 265 - Linguistic Confusion](https://dev.to/mcsee/code-smell-265-linguistic-confusion-2ihj)
-- [WormDrive.IO v2.3](https://dev.to/matt_bowen_2b402320a33cfc/wormdriveio-v23-3n37)
-- [Creating an Advanced QR Code Generator Using HTML, CSS, and JavaScript](https://dev.to/hanzla-mirza/creating-an-advanced-qr-code-generator-using-html-css-and-javascript-3c0h)
+- [Principais Algoritmos em TypeScript: Implementações e Aplicações](https://dev.to/lucaspereiradesouzat/principais-algoritmos-em-typescript-implementacoes-e-aplicacoes-13j8)
+- [assalomu alykum 22.08.24 biz c++ codlash tilida yangi mavzu otdik va men uni sizlarga tushuntirib beraman.](https://dev.to/_e9348e45782d50818/assalomu-alykum-220824-biz-c-codlash-tilida-yangi-mavzu-otdik-va-men-uni-sizlarga-tushuntirib-beraman-1po0)
+- [Important Reasons for Using Python Web Scraping for Ecommerce Business Growth](https://dev.to/jonas_werner_322/important-reasons-for-using-python-web-scraping-for-ecommerce-business-growth-1n2l)
+- [Need help with source code](https://dev.to/ultimate_gamer_4e358688ca/need-help-with-source-code-3b11)
 <!-- BLOG-POST-LIST:END -->
 
