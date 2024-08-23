@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Pivotal Dates in IT History and Their Impact](https://dev.to/torrezmn/15-pivotal-dates-in-it-history-and-their-impact-2p2p)
-- [My experience with Units Tests using Jest JS](https://dev.to/augusto/my-experience-with-units-tests-using-jest-js-33o1)
-- [Untitled](https://dev.to/matt_bowen_2b402320a33cfc/untitled-1nn9)
-- [Node Backend Kickstart: A Submission for the Neon Open Source Starter Kit Challenge: Ultimate Starter Kit](https://dev.to/fonteeboa/node-backend-kickstart-a-submission-for-the-neon-open-source-starter-kit-challenge-ultimate-starter-kit-21c9)
+- [Huge updates and improvements for FLUX LoRA training - Train with 10 GB GPU and Kohya GUI](https://dev.to/furkangozukara/huge-updates-and-improvements-for-flux-lora-training-1300)
+- [Code Smell 265 - Linguistic Confusion](https://dev.to/mcsee/code-smell-265-linguistic-confusion-2ihj)
+- [WormDrive.IO v2.3](https://dev.to/matt_bowen_2b402320a33cfc/wormdriveio-v23-3n37)
+- [Creating an Advanced QR Code Generator Using HTML, CSS, and JavaScript](https://dev.to/hanzla-mirza/creating-an-advanced-qr-code-generator-using-html-css-and-javascript-3c0h)
 <!-- BLOG-POST-LIST:END -->
 
