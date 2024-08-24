@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Amazon Q Business with Amazon S3 as a Data Source](https://dev.to/sunil_yaduvanshi/configuring-amazon-q-business-with-amazon-s3-as-a-data-source-3348)
-- [How to use Python to scrape YouTube content using the API provided by YouTube?](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-use-python-to-scrape-youtube-content-using-the-api-provided-by-youtube-3npg)
-- [How to add Google Fonts and Custom Fonts to your Web App](https://dev.to/dualite/how-to-add-google-fonts-and-custom-fonts-to-your-web-app-99a)
-- [Creating an Amazon Q Business Application with RDS MySQL Integration](https://dev.to/sunil_yaduvanshi/creating-an-amazon-q-business-application-with-rds-mysql-integration-18ig)
+- [Unleashing Creativity with Generative AI: A Journey from Basics to Breakthroughs](https://dev.to/krupeshvithlani/unleashing-creativity-with-generative-ai-a-journey-from-basics-to-breakthroughs-1p6l)
+- [Enhancing AWS Lambda with AWS Lambda Powertools: A Complete Guide to CRUD Operations in DynamoDB](https://dev.to/sunil_yaduvanshi/enhancing-aws-lambda-with-aws-lambda-powertools-a-complete-guide-to-crud-operations-in-dynamodb-50n9)
+- [How to improve performance in web application development?](https://dev.to/syed_ammar/how-to-improve-performance-in-web-application-development-2i3g)
+- [Web API&#39;s Developer need to KNOW](https://dev.to/itsrajcode/12-web-apis-developer-need-to-know-55b0)
 <!-- BLOG-POST-LIST:END -->
 
