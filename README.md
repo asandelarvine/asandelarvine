@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Awesome Multi-Tenant Features in Headless CMS That&#39;ll Make Your Life Easier](https://dev.to/focusreactive/7-awesome-multi-tenant-features-in-headless-cms-thatll-make-your-life-easier-2haa)
-- [attacking the knapsack problem.](https://dev.to/0xc0der/attacking-the-knapsack-problem-26ja)
-- [Top Free APIs You Need to Know in 2024](https://dev.to/techalgospotlight/top-free-apis-you-need-to-know-in-2024-494o)
-- [Promise of JavaScript](https://dev.to/rohit413/react-acl)
+- [ASCII Art Code in Rust](https://dev.to/abhishek2010devsingh/ascii-art-code-in-rust-48hn)
+- [DevOps vs. Traditional: Key Differences in Software Development and Delivery](https://dev.to/princemaxi/devops-vs-traditional-key-differences-in-software-development-and-delivery-2j0g)
+- [Efficiently Managing Dynamic State Arrays in React: Adding and Removing Elements with Ease 📣](https://dev.to/uicraft_by_pratik/efficiently-managing-dynamic-state-arrays-in-react-adding-and-removing-elements-with-ease-32a7)
+- [WTF is a GitHub Profile README.md](https://dev.to/jacobshuman/wtf-is-a-github-profile-readmemd-1p8c)
 <!-- BLOG-POST-LIST:END -->
 
