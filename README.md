@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Actually Useful interview prep tool.](https://dev.to/aveesdev/actually-useful-interview-prep-tool-4lho)
-- [Entendendo @MappedSuperclass em JPA](https://dev.to/gregoriohd/entendendo-mappedsuperclass-em-jpa-4310)
-- [Some Config Ideas for your ZSH](https://dev.to/gokayburuc/some-config-ideas-for-your-zsh-181p)
-- [Exciting News: Windows Community Toolkit v8.1 is here](https://dev.to/mahrukh_adeel/exciting-news-windows-community-toolkit-v81-is-here-4noi)
+- [To fold or to double down? That’s a tech question!](https://dev.to/noriller/to-fold-or-to-double-down-thats-a-tech-question-19o7)
+- [Chained wi-fi networking for control systems](https://dev.to/gtanyware/chained-wi-fi-networking-for-control-systems-5hf2)
+- [DAY 9 PROJECT: TEMPERATURE CONVERTER](https://dev.to/shrishti_srivastava_/day-9-project-temperature-converter-5a8c)
+- [What is Meshery?](https://dev.to/jamesh/what-is-meshery-2836)
 <!-- BLOG-POST-LIST:END -->
 
