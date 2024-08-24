@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux du Command | Disk Usage Estimation](https://dev.to/labex/linux-du-command-disk-usage-estimation-2fk)
-- [Process multiband rasters &lpar;Sentinel-2&rpar; with h3 index and create indices](https://dev.to/krschap/process-multiband-rasters-sentinel-2-with-h3-index-and-create-indices-bem)
-- [⚡ MySecondApp - React Native with Expo &lpar;P22&rpar; - Add Comment to News Detail](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p22-add-comment-to-news-detail-jfn)
-- [Hello World!](https://dev.to/adinfauzan/hello-world-186n)
+- [Multi-Cloud Strategy: Pros and Cons of Using AWS, Azure, and GCP Together](https://dev.to/starkydevs/multi-cloud-strategy-pros-and-cons-of-using-aws-azure-and-gcp-together-10cg)
+- [Tenacity and Drive – Reuven Kahane and the Unseen Forces Behind Entrepreneurial Success](https://dev.to/reuvenkahane/tenacity-and-drive-reuven-kahane-and-the-unseen-forces-behind-entrepreneurial-success-nb4)
+- [Exploring Design Systems in UI/UX: UCD, Stanford, DIDI, and Beyond🫠](https://dev.to/uicraft_by_pratik/exploring-design-systems-in-uiux-ucd-stanford-didi-and-beyond-1kgp)
+- [The Importance of Risk-Taking in the World of Entrepreneurship by Reuven Kahane](https://dev.to/reuvenkahane/the-importance-of-risk-taking-in-the-world-of-entrepreneurship-by-reuven-kahane-5171)
 <!-- BLOG-POST-LIST:END -->
 
