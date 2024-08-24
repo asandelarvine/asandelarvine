@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sign Language Detector with Open CV and Python: Hand Gesture Recognition](https://dev.to/rishi_nalem/sign-language-detector-with-open-cv-and-python-hand-gesture-recognition-56le)
-- [How to use chmod | Understanding File &amp; Directory Permissions](https://dev.to/mahimabhardwaj/how-to-use-chmod-understanding-file-directory-permissions-2b0k)
-- [Integrate Web Component/MFE with plain static HTML](https://dev.to/akdevcraft/integrate-web-componentmfe-with-plain-static-html-2729)
-- [Parallel Programming &amp; Async/Await &amp; Cancellation Token](https://dev.to/ipazooki/parallel-programming-asyncawait-cancellation-token-52ie)
+- [Table sorting and pagination with HTMX](https://dev.to/vladkens/table-sorting-and-pagination-with-htmx-3dh8)
+- [how to: open a component like a sheet modal using ionic 7](https://dev.to/mtspadda/how-to-open-a-component-like-a-sheet-modal-using-ionic-7-4370)
+- [Using App Intents in Swift/SwiftUI](https://dev.to/troyhusted/using-app-intents-in-swiftswiftui-2hi9)
+- [Exploring the Battery Status API in JavaScript](https://dev.to/free_programmers/exploring-the-battery-status-api-in-javascript-318f)
 <!-- BLOG-POST-LIST:END -->
 
