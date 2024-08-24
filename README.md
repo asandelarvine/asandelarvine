@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I wrote my own Reconciler &lpar;React&rpar;](https://dev.to/shivam-dhaka/i-wrote-my-own-reconciler-react-59kj)
-- [Setting Up and Securing CloudFront for S3 Static Sites with Custom Subdomains Using AWS Cloud Development Kit&lpar;CDK&rpar;](https://dev.to/nivekalara237/setting-up-and-securing-cloudfront-for-s3-static-sites-with-custom-subdomains-using-aws-cloud-development-kitcdk-3ifh)
-- [Solid Principles in GO with examples](https://dev.to/pyrolass/solid-principles-in-go-with-examples-o55)
-- [What&#39;s Next.js server actions](https://dev.to/ccsunnydev/whats-nextjs-server-actions-n2o)
+- [Ask Her Out 👰: A cool JavaScript project for the love of Developer&#39;s life 💖](https://dev.to/rohan_sharma/ask-her-out-a-cool-javascript-project-for-the-love-of-developers-life-6gn)
+- [Rust from a Web perspective](https://dev.to/jswhisperer/rust-from-a-web-perspective-5hk4)
+- [How to build PCF dataset control using REACT](https://dev.to/rohan_goel/how-to-build-pcf-dataset-control-using-react-4e6m)
+- [DevOps Monitoring Project](https://dev.to/pratik_nalawade/devops-monitoring-project-4ipo)
 <!-- BLOG-POST-LIST:END -->
 
