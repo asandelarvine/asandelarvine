@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASCII Art Code in Rust](https://dev.to/abhishek2010devsingh/ascii-art-code-in-rust-48hn)
-- [DevOps vs. Traditional: Key Differences in Software Development and Delivery](https://dev.to/princemaxi/devops-vs-traditional-key-differences-in-software-development-and-delivery-2j0g)
-- [Efficiently Managing Dynamic State Arrays in React: Adding and Removing Elements with Ease 📣](https://dev.to/uicraft_by_pratik/efficiently-managing-dynamic-state-arrays-in-react-adding-and-removing-elements-with-ease-32a7)
-- [WTF is a GitHub Profile README.md](https://dev.to/jacobshuman/wtf-is-a-github-profile-readmemd-1p8c)
+- [I wrote my own Reconciler &lpar;React&rpar;](https://dev.to/shivam-dhaka/i-wrote-my-own-reconciler-react-59kj)
+- [Setting Up and Securing CloudFront for S3 Static Sites with Custom Subdomains Using AWS Cloud Development Kit&lpar;CDK&rpar;](https://dev.to/nivekalara237/setting-up-and-securing-cloudfront-for-s3-static-sites-with-custom-subdomains-using-aws-cloud-development-kitcdk-3ifh)
+- [Solid Principles in GO with examples](https://dev.to/pyrolass/solid-principles-in-go-with-examples-o55)
+- [What&#39;s Next.js server actions](https://dev.to/ccsunnydev/whats-nextjs-server-actions-n2o)
 <!-- BLOG-POST-LIST:END -->
 
