@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Table sorting and pagination with HTMX](https://dev.to/vladkens/table-sorting-and-pagination-with-htmx-3dh8)
-- [how to: open a component like a sheet modal using ionic 7](https://dev.to/mtspadda/how-to-open-a-component-like-a-sheet-modal-using-ionic-7-4370)
-- [Using App Intents in Swift/SwiftUI](https://dev.to/troyhusted/using-app-intents-in-swiftswiftui-2hi9)
-- [Exploring the Battery Status API in JavaScript](https://dev.to/free_programmers/exploring-the-battery-status-api-in-javascript-318f)
+- [Integrating Zettelkasten Principles into a Second Brain System for Cloud Engineers In OneNote](https://dev.to/starkydevs/integrating-zettelkasten-principles-into-a-second-brain-system-for-cloud-engineers-in-onenote-hhl)
+- [Node.JS - Foal framework version 4.5 is released 🎉](https://dev.to/loicpoullain/nodejs-foal-framework-version-45-is-released-3lhp)
+- [Exploring Microfrontends with Vite and React: A Step-by-Step Guide](https://dev.to/gleidsonleite/exploring-microfrontends-with-vite-and-react-a-step-by-step-guide-5h79)
+- [Integrating Zettelkasten Principles into a Second Brain System for Cloud Engineers](https://dev.to/starkydevs/integrating-zettelkasten-principles-into-a-second-brain-system-for-cloud-engineers-5hc0)
 <!-- BLOG-POST-LIST:END -->
 
