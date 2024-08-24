@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Ruby/JS Equivalence](https://dev.to/theholyspirit/a-rubyjs-equivalence-5gk3)
-- [JoyCaption is amazing to caption training data. Advanced Gradio APP with batch processing and 1-click install](https://dev.to/furkangozukara/joycaption-is-amazing-to-caption-training-data-advanced-gradio-app-with-batch-processing-and-1-click-install-3d1i)
-- [Implementing Clean Architecture in Flutter: A Guide for Scalable App Development](https://dev.to/tl23143/implementing-clean-architecture-in-flutter-a-guide-for-scalable-app-development-1h2h)
-- [🚀 Primeros Pasos con Moodle: Crea tu Plataforma E-Learning en un Proyecto Local](https://dev.to/francotel/primeros-pasos-con-moodle-crea-tu-plataforma-e-learning-en-un-proyecto-local-32o0)
+- [Hello World!](https://dev.to/adinfauzan/hello-world-186n)
+- [A Beginner’s Guide to Terraform: Managing Cloud Infrastructure](https://dev.to/starkydevs/a-beginners-guide-to-terraform-managing-cloud-infrastructure-43gf)
+- [Linux How-TOs ❓ | A must know list of commands in Linux shells](https://dev.to/externref/linux-how-tos-a-must-know-list-of-commands-in-linux-shells-43o0)
+- [Type Conversion in JavaScript Is Confusing](https://dev.to/zain725342/type-conversion-in-javascript-is-confusing-5amn)
 <!-- BLOG-POST-LIST:END -->
 
