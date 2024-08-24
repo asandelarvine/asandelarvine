@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Cloud Strategy: Pros and Cons of Using AWS, Azure, and GCP Together](https://dev.to/starkydevs/multi-cloud-strategy-pros-and-cons-of-using-aws-azure-and-gcp-together-10cg)
-- [Tenacity and Drive – Reuven Kahane and the Unseen Forces Behind Entrepreneurial Success](https://dev.to/reuvenkahane/tenacity-and-drive-reuven-kahane-and-the-unseen-forces-behind-entrepreneurial-success-nb4)
-- [Exploring Design Systems in UI/UX: UCD, Stanford, DIDI, and Beyond🫠](https://dev.to/uicraft_by_pratik/exploring-design-systems-in-uiux-ucd-stanford-didi-and-beyond-1kgp)
-- [The Importance of Risk-Taking in the World of Entrepreneurship by Reuven Kahane](https://dev.to/reuvenkahane/the-importance-of-risk-taking-in-the-world-of-entrepreneurship-by-reuven-kahane-5171)
+- [🚀 Understanding the Difference Between `filter` and `map` in Java Stream API](https://dev.to/nullvoidkage/understanding-the-difference-between-filter-and-map-in-java-stream-api-i21)
+- [Getting Started with React: A Beginner’s Guide](https://dev.to/invisibleworld/getting-started-with-react-a-beginners-guide-1f8p)
+- [🚀Java Stream API Cheat Sheet for Developers](https://dev.to/nullvoidkage/java-stream-api-cheat-sheet-for-developers-2me1)
+- [Microservices Interview Cheat Sheet](https://dev.to/nullvoidkage/microservices-interview-cheat-sheet-5he0)
 <!-- BLOG-POST-LIST:END -->
 
