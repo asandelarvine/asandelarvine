@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding the Difference Between `filter` and `map` in Java Stream API](https://dev.to/nullvoidkage/understanding-the-difference-between-filter-and-map-in-java-stream-api-i21)
-- [Getting Started with React: A Beginner’s Guide](https://dev.to/invisibleworld/getting-started-with-react-a-beginners-guide-1f8p)
-- [🚀Java Stream API Cheat Sheet for Developers](https://dev.to/nullvoidkage/java-stream-api-cheat-sheet-for-developers-2me1)
-- [Microservices Interview Cheat Sheet](https://dev.to/nullvoidkage/microservices-interview-cheat-sheet-5he0)
+- [Version Conflicts in the Package.json file](https://dev.to/himanshu_jangid_e2d30519d/version-conflicts-in-the-packagejson-file-25cb)
+- [🚀 10+ More Advanced Project Ideas to Level Up Your Developer Skills: Part 2](https://dev.to/lokesh_singh/10-more-advanced-project-ideas-to-level-up-your-developer-skills-part-2-4bb0)
+- [Building a Custom Command Palette with React: A Deep Dive into React Portals, Observables, and Event Listeners](https://dev.to/ashutoshsarangi/building-a-custom-command-palette-with-react-a-deep-dive-into-react-portals-observables-and-event-listeners-4kjm)
+- [Japanglish Tech Talk #2 Presentation Introduction](https://dev.to/tamtam0829/japanglish-tech-talk-2-presentation-introduction-9cl)
 <!-- BLOG-POST-LIST:END -->
 
