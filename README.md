@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Batch Script Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/batch-script-commands-cheat-sheet--5g04)
-- [Ibuprofeno.py💊| #170: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-170-explica-este-codigo-python-5bc4)
-- [Cook Up Your Code: JavaScript Design Patterns](https://dev.to/arum_puripratamawati_ef5/cook-up-your-code-javascript-design-patterns-32ln)
-- [10 Cool Button Hover Effects Using Simple HTML &amp; CSS](https://dev.to/wpsingh/10-cool-button-hover-effects-using-simple-html-css-5ej2)
+- [7 Awesome Multi-Tenant Features in Headless CMS That&#39;ll Make Your Life Easier](https://dev.to/focusreactive/7-awesome-multi-tenant-features-in-headless-cms-thatll-make-your-life-easier-2haa)
+- [attacking the knapsack problem.](https://dev.to/0xc0der/attacking-the-knapsack-problem-26ja)
+- [Top Free APIs You Need to Know in 2024](https://dev.to/techalgospotlight/top-free-apis-you-need-to-know-in-2024-494o)
+- [Promise of JavaScript](https://dev.to/rohit413/react-acl)
 <!-- BLOG-POST-LIST:END -->
 
