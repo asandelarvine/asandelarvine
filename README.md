@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [16 Brand New APIs Every Developer Should Use](https://dev.to/elliot_brenya/16-brand-new-apis-every-developer-should-use-24pd)
-- [Ethical Hacking : Users password cracking](https://dev.to/samglish/ethical-hacking-users-password-cracking-4f85)
-- [Build Reactive Web Components with SSR](https://dev.to/aralroca/build-reactive-web-components-with-ssr-3pb9)
-- [EventBridge: working around API Destination 5s maximum client timeout constraint, using Lambda PowerTools idempotency](https://dev.to/aws-builders/eventbridge-working-around-api-destination-5s-maximum-client-timeout-constraint-using-lambda-powertools-idempotency-1cb3)
+- [A Ruby/JS Equivalence](https://dev.to/theholyspirit/a-rubyjs-equivalence-5gk3)
+- [JoyCaption is amazing to caption training data. Advanced Gradio APP with batch processing and 1-click install](https://dev.to/furkangozukara/joycaption-is-amazing-to-caption-training-data-advanced-gradio-app-with-batch-processing-and-1-click-install-3d1i)
+- [Implementing Clean Architecture in Flutter: A Guide for Scalable App Development](https://dev.to/tl23143/implementing-clean-architecture-in-flutter-a-guide-for-scalable-app-development-1h2h)
+- [🚀 Primeros Pasos con Moodle: Crea tu Plataforma E-Learning en un Proyecto Local](https://dev.to/francotel/primeros-pasos-con-moodle-crea-tu-plataforma-e-learning-en-un-proyecto-local-32o0)
 <!-- BLOG-POST-LIST:END -->
 
