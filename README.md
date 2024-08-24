@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Creativity with Generative AI: A Journey from Basics to Breakthroughs](https://dev.to/krupeshvithlani/unleashing-creativity-with-generative-ai-a-journey-from-basics-to-breakthroughs-1p6l)
-- [Enhancing AWS Lambda with AWS Lambda Powertools: A Complete Guide to CRUD Operations in DynamoDB](https://dev.to/sunil_yaduvanshi/enhancing-aws-lambda-with-aws-lambda-powertools-a-complete-guide-to-crud-operations-in-dynamodb-50n9)
-- [How to improve performance in web application development?](https://dev.to/syed_ammar/how-to-improve-performance-in-web-application-development-2i3g)
-- [Web API&#39;s Developer need to KNOW](https://dev.to/itsrajcode/12-web-apis-developer-need-to-know-55b0)
+- [Batch Script Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/batch-script-commands-cheat-sheet--5g04)
+- [Ibuprofeno.py💊| #170: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-170-explica-este-codigo-python-5bc4)
+- [Cook Up Your Code: JavaScript Design Patterns](https://dev.to/arum_puripratamawati_ef5/cook-up-your-code-javascript-design-patterns-32ln)
+- [10 Cool Button Hover Effects Using Simple HTML &amp; CSS](https://dev.to/wpsingh/10-cool-button-hover-effects-using-simple-html-css-5ej2)
 <!-- BLOG-POST-LIST:END -->
 
