@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask Her Out 👰: A cool JavaScript project for the love of Developer&#39;s life 💖](https://dev.to/rohan_sharma/ask-her-out-a-cool-javascript-project-for-the-love-of-developers-life-6gn)
-- [Rust from a Web perspective](https://dev.to/jswhisperer/rust-from-a-web-perspective-5hk4)
-- [How to build PCF dataset control using REACT](https://dev.to/rohan_goel/how-to-build-pcf-dataset-control-using-react-4e6m)
-- [DevOps Monitoring Project](https://dev.to/pratik_nalawade/devops-monitoring-project-4ipo)
+- [Sign Language Detector with Open CV and Python: Hand Gesture Recognition](https://dev.to/rishi_nalem/sign-language-detector-with-open-cv-and-python-hand-gesture-recognition-56le)
+- [How to use chmod | Understanding File &amp; Directory Permissions](https://dev.to/mahimabhardwaj/how-to-use-chmod-understanding-file-directory-permissions-2b0k)
+- [Integrate Web Component/MFE with plain static HTML](https://dev.to/akdevcraft/integrate-web-componentmfe-with-plain-static-html-2729)
+- [Parallel Programming &amp; Async/Await &amp; Cancellation Token](https://dev.to/ipazooki/parallel-programming-asyncawait-cancellation-token-52ie)
 <!-- BLOG-POST-LIST:END -->
 
