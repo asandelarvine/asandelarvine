@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Core Concepts: Building Blocks of Container Orchestration](https://dev.to/emminex/kubernetes-core-concepts-building-blocks-of-container-orchestration-40k7)
-- [Editor_de_Texto](https://dev.to/enlineaweb/editordetexto-15fj)
-- [Day 1017 : The Other Side](https://dev.to/dwane/day-1017-the-other-side-52di)
-- [Kafka Connect: FileStreamSourceConnector in distributed mode](https://dev.to/eidher/kafka-connect-filestreamsourceconnector-in-distributed-mode-4l8)
+- [16 Brand New APIs Every Developer Should Use](https://dev.to/elliot_brenya/16-brand-new-apis-every-developer-should-use-24pd)
+- [Ethical Hacking : Users password cracking](https://dev.to/samglish/ethical-hacking-users-password-cracking-4f85)
+- [Build Reactive Web Components with SSR](https://dev.to/aralroca/build-reactive-web-components-with-ssr-3pb9)
+- [EventBridge: working around API Destination 5s maximum client timeout constraint, using Lambda PowerTools idempotency](https://dev.to/aws-builders/eventbridge-working-around-api-destination-5s-maximum-client-timeout-constraint-using-lambda-powertools-idempotency-1cb3)
 <!-- BLOG-POST-LIST:END -->
 
