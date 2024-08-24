@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [To fold or to double down? That’s a tech question!](https://dev.to/noriller/to-fold-or-to-double-down-thats-a-tech-question-19o7)
-- [Chained wi-fi networking for control systems](https://dev.to/gtanyware/chained-wi-fi-networking-for-control-systems-5hf2)
-- [DAY 9 PROJECT: TEMPERATURE CONVERTER](https://dev.to/shrishti_srivastava_/day-9-project-temperature-converter-5a8c)
-- [What is Meshery?](https://dev.to/jamesh/what-is-meshery-2836)
+- [Scheduled Test Workflow Documentation](https://dev.to/kahuna04/scheduled-test-workflow-documentation-3b8h)
+- [DEPLOYING THE BACKEND OF &quot;HNG_BOILERPLATE&quot; EXPRESSJS APPLICATION TO PROD SERVER](https://dev.to/bankolejohn/deploying-the-backend-of-hngboilerplate-expressjs-application-to-prod-server-1d35)
+- [Understanding the CSS Box Model](https://dev.to/ridoy_hasan/understanding-the-css-box-model-p6m)
+- [My First Two Weeks in Programming: Tools I learnt](https://dev.to/muha-coder-dev/my-first-two-weeks-in-programming-tools-i-learnt-k7m)
 <!-- BLOG-POST-LIST:END -->
 
