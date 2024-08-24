@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Version Conflicts in the Package.json file](https://dev.to/himanshu_jangid_e2d30519d/version-conflicts-in-the-packagejson-file-25cb)
-- [🚀 10+ More Advanced Project Ideas to Level Up Your Developer Skills: Part 2](https://dev.to/lokesh_singh/10-more-advanced-project-ideas-to-level-up-your-developer-skills-part-2-4bb0)
-- [Building a Custom Command Palette with React: A Deep Dive into React Portals, Observables, and Event Listeners](https://dev.to/ashutoshsarangi/building-a-custom-command-palette-with-react-a-deep-dive-into-react-portals-observables-and-event-listeners-4kjm)
-- [Japanglish Tech Talk #2 Presentation Introduction](https://dev.to/tamtam0829/japanglish-tech-talk-2-presentation-introduction-9cl)
+- [Day 54 / 100 Days of Code: Lessons on Scope](https://dev.to/jacobsternx/day-54-100-days-of-code-lessons-on-scope-3h11)
+- [useContext vs. Redux: Which One Should You Use? 🤔](https://dev.to/shahharsh/usecontext-vs-redux-which-one-should-you-use-4ehk)
+- [Hello world](https://dev.to/varun_kannan_a25932e0838e/hello-world-1njc)
+- [Appium Setup: A Step-by-Step Guide For Beginner](https://dev.to/jignect_technologies/appium-setup-a-step-by-step-guide-for-beginner-40hj)
 <!-- BLOG-POST-LIST:END -->
 
