@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 54 / 100 Days of Code: Lessons on Scope](https://dev.to/jacobsternx/day-54-100-days-of-code-lessons-on-scope-3h11)
-- [useContext vs. Redux: Which One Should You Use? 🤔](https://dev.to/shahharsh/usecontext-vs-redux-which-one-should-you-use-4ehk)
-- [Hello world](https://dev.to/varun_kannan_a25932e0838e/hello-world-1njc)
-- [Appium Setup: A Step-by-Step Guide For Beginner](https://dev.to/jignect_technologies/appium-setup-a-step-by-step-guide-for-beginner-40hj)
+- [Configuring Amazon Q Business with Amazon S3 as a Data Source](https://dev.to/sunil_yaduvanshi/configuring-amazon-q-business-with-amazon-s3-as-a-data-source-3348)
+- [How to use Python to scrape YouTube content using the API provided by YouTube?](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-use-python-to-scrape-youtube-content-using-the-api-provided-by-youtube-3npg)
+- [How to add Google Fonts and Custom Fonts to your Web App](https://dev.to/dualite/how-to-add-google-fonts-and-custom-fonts-to-your-web-app-99a)
+- [Creating an Amazon Q Business Application with RDS MySQL Integration](https://dev.to/sunil_yaduvanshi/creating-an-amazon-q-business-application-with-rds-mysql-integration-18ig)
 <!-- BLOG-POST-LIST:END -->
 
