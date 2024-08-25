@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bienvenidos al Mundo de la Programación: El Arte de Pensar en Pasos](https://dev.to/torrezmn/bienvenidos-al-mundo-de-la-programacion-el-arte-de-pensar-en-pasos-2lok)
+- [Top 11 JavaScript Frameworks and Libraries to Learn in 2024](https://dev.to/dipakahirav/top-11-javascript-frameworks-and-libraries-to-learn-in-2024-a9l)
+- [Today&#39;s Trending Projects: Snake Game Using Python and Pygame and More](https://dev.to/labex/todays-trending-projects-snake-game-using-python-and-pygame-and-more-3c8k)
 - [RestAssured RestAPI automation testing Crash Course](https://dev.to/brijendrarai/restassured-restapi-automation-testing-crash-course-n4f)
-- [Introducing Turborepo NestJS + Qwik City Boilerplate](https://dev.to/fyvfyv/introducing-turborepo-nestjs-qwik-city-boilerplate-3def)
-- [Creating Augmented Reality Apps with Unity](https://dev.to/kartikmehta8/creating-augmented-reality-apps-with-unity-3mc2)
-- [Stuck on React and Express? Legacy Code Is Holding You Back—Old Isn’t Gold!](https://dev.to/themuneebh/stuck-on-react-and-express-legacy-code-is-holding-you-back-old-isnt-gold-4fg4)
 <!-- BLOG-POST-LIST:END -->
 
