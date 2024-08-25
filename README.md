@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Advanced: Getting SES Production Access](https://dev.to/aws-builders/aws-advanced-getting-ses-production-access-177j)
-- [Fundamental Questions of Java](https://dev.to/thailanelopes/fundamental-questions-of-java-3peb)
-- [Instalando asdf e Golang no Linux](https://dev.to/edurs2602/instalando-asdf-e-golang-no-linux-4e98)
-- [The backbone of the internet: understanding protocol](https://dev.to/monwarqx1250/the-backbone-of-the-internet-understanding-protocol-3on7)
+- [how to implement Laravel SPA reverb broadcasting with vue js cli?](https://dev.to/xbrook_b1d678345e23b22ca2/how-to-implement-laravel-spa-reverb-broadcasting-with-vue-js-cli-48f4)
+- [AI-Powered GitHub README Generator](https://dev.to/shenli3514/ai-powered-github-readme-generator-4pk5)
+- [Sets](https://dev.to/mahf001/sets-4gk7)
+- [My Dream Game Engine](https://dev.to/frodo_alsaka/my-dream-game-engine-3peh)
 <!-- BLOG-POST-LIST:END -->
 
