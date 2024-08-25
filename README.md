@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up multiple ssh keys and git repositories on a single machine](https://dev.to/__97fb9697a93/setting-up-multiple-ssh-keys-and-git-repositories-on-a-single-machine-bbo)
-- [How I Built a Scalable, Free URL Shortener.](https://dev.to/asadk/how-i-built-a-scalable-free-url-shortener-1db6)
-- [Scheduled Test Workflow Documentation](https://dev.to/kahuna04/scheduled-test-workflow-documentation-3b8h)
-- [DEPLOYING THE BACKEND OF &quot;HNG_BOILERPLATE&quot; EXPRESSJS APPLICATION TO PROD SERVER](https://dev.to/bankolejohn/deploying-the-backend-of-hngboilerplate-expressjs-application-to-prod-server-1d35)
+- [RestAssured RestAPI automation testing Crash Course](https://dev.to/brijendrarai/restassured-restapi-automation-testing-crash-course-n4f)
+- [Introducing Turborepo NestJS + Qwik City Boilerplate](https://dev.to/fyvfyv/introducing-turborepo-nestjs-qwik-city-boilerplate-3def)
+- [Creating Augmented Reality Apps with Unity](https://dev.to/kartikmehta8/creating-augmented-reality-apps-with-unity-3mc2)
+- [Stuck on React and Express? Legacy Code Is Holding You Back—Old Isn’t Gold!](https://dev.to/themuneebh/stuck-on-react-and-express-legacy-code-is-holding-you-back-old-isnt-gold-4fg4)
 <!-- BLOG-POST-LIST:END -->
 
