@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.13 RC1 - a Quick CPU Benchmark](https://dev.to/maximsaplin/python-313-rc1-a-quick-cpu-benchmark-l5c)
-- [Understanding the Difference Between memory and storage in Solidity](https://dev.to/ceasermikes002/understanding-the-difference-between-memory-and-storage-in-solidity-50ip)
-- [The Rise of Modular Construction: A New Paradigm for Steel Fabrication](https://dev.to/badhonaub/the-rise-of-modular-construction-a-new-paradigm-for-steel-fabrication-36i2)
-- [Built a Ngrok replacement](https://dev.to/softground/built-a-ngrok-replacement-212m)
+- [Variabel Dan Konsep Binding](https://dev.to/muzhawir/variabel-dan-konsep-binding-3850)
+- [The Ultimate Guide to Choosing the Best Web Hosting for WordPress in 2025](https://dev.to/anouar-aissaoui/the-ultimate-guide-to-choosing-the-best-web-hosting-for-wordpress-in-2025-1344)
+- [Understanding the Apache Iceberg Manifest List &lpar;Snapshot&rpar;](https://dev.to/alexmercedcoder/understanding-the-apache-iceberg-manifest-list-snapshot-507)
+- [Product Management System with Express.js and Embedded JavaScript Template Engine &lpar;EJS&rpar;](https://dev.to/syriamme/product-management-system-with-expressjs-and-embedded-javascript-template-engine-ejs-2ccd)
 <!-- BLOG-POST-LIST:END -->
 
