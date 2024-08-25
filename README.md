@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Streaming Analytics with PySpark on AWS using Kinesis and Redshift.](https://dev.to/harshwvy/real-time-streaming-analytics-with-pyspark-on-aws-using-kinesis-and-redshift-28j4)
-- [useReducer: Beyond useState for Complex State Logic](https://dev.to/kada/usereducer-beyond-usestate-for-complex-state-logic-bn0)
-- [¿Cómo crear un balanceador de Aplicaciones&lpar;ALB&rpar; en AWS?](https://dev.to/gabeincloud/como-crear-un-balanceador-de-plicacionesalb-en-aws-3m4c)
-- [Neon OSS Starter Kit Challenge](https://dev.to/aryamnsls/neon-oss-starter-kit-challenge-56hk)
+- [DataPatternX: Candlestick Pattern Analysis Starter Kit](https://dev.to/msarabi/datapatternx-candlestick-pattern-analysis-starter-kit-2o2o)
+- [VB .Net: Find words in String Array Extension Method](https://dev.to/vblover_programmer/find-words-in-string-array-extension-method-5fh3)
+- [The Solar System in CSS](https://dev.to/madsstoumann/the-solar-system-in-css-51bo)
+- [The Value of Network Administration Skills in Cloud Computing](https://dev.to/seunb/the-value-of-network-administration-skills-in-cloud-computing-b74)
 <!-- BLOG-POST-LIST:END -->
 
