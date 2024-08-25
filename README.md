@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Literature Review on Blockchain](https://dev.to/leomachadop/literature-review-on-blockchain-20al)
-- [Speeding Up Your Website Using Cloudflare Cache](https://dev.to/lilouartz/speeding-up-your-website-using-cloudflare-cache-25c0)
-- [Table of Contents: Django Basics](https://dev.to/vincod/table-of-contents-django-basics-5h89)
-- [Scrapy vs Selenium: Which Web Scraping Tool is Best?](https://dev.to/lewis_kerr_2d0d4c5b886b02/scrapy-vs-selenium-which-web-scraping-tool-is-best-3nhi)
+- [Real-Time Streaming Analytics with PySpark on AWS using Kinesis and Redshift.](https://dev.to/harshwvy/real-time-streaming-analytics-with-pyspark-on-aws-using-kinesis-and-redshift-28j4)
+- [useReducer: Beyond useState for Complex State Logic](https://dev.to/kada/usereducer-beyond-usestate-for-complex-state-logic-bn0)
+- [¿Cómo crear un balanceador de Aplicaciones&lpar;ALB&rpar; en AWS?](https://dev.to/gabeincloud/como-crear-un-balanceador-de-plicacionesalb-en-aws-3m4c)
+- [Neon OSS Starter Kit Challenge](https://dev.to/aryamnsls/neon-oss-starter-kit-challenge-56hk)
 <!-- BLOG-POST-LIST:END -->
 
