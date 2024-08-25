@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Fun APIs to Elevate Your Next Development Project](https://dev.to/vyan/6-fun-apis-to-elevate-your-next-development-project-554o)
-- [Day 10 of 30 of JavaScript](https://dev.to/shoyab1707/day-10-of-30-of-javascript-4ccp)
-- [🤖🚀Day 25: Understanding Generative AI and Its Impact on DevOps](https://dev.to/ritesh_dolare/day-25-understanding-generative-ai-and-its-impact-on-devops-236m)
-- [Hello World](https://dev.to/alwin_theodoric/hello-world-1c3i)
+- [Photos from OneDrive to HTML](https://dev.to/theholyspirit/photos-from-onedrive-to-html-3a78)
+- [Add Captcha On Laravel Forms](https://dev.to/armanrahman/add-captcha-on-laravel-forms-2i0e)
+- [Serve Your Assets Automatically with Bitbucket and AWS](https://dev.to/aws-builders/serve-your-assets-automatically-with-bitbucket-and-aws-1bc0)
+- [Unlock the Secrets of Embedded Systems with this Comprehensive Course! 🤖](https://dev.to/getvm/unlock-the-secrets-of-embedded-systems-with-this-comprehensive-course-3la1)
 <!-- BLOG-POST-LIST:END -->
 
