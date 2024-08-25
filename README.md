@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring an experimental Micro-Frontend Architecture with Server-Side Rendering using React Server Components](https://dev.to/lazarv/exploring-an-experimental-micro-frontend-architecture-with-server-side-rendering-using-react-server-components-2d0f)
-- [How to Check Fragmentation in an Oracle Database](https://dev.to/dm8ry/how-to-check-fragmentation-in-an-oracle-database-3j7d)
-- [Introduction to JWT and OAuth 2.0](https://dev.to/gervaisamoah/introduction-to-jwt-and-oauth-20-4bin)
-- [Done with GitHub](https://dev.to/eastcoast8264/done-with-github-2pj9)
+- [10 Things You Can Learn from Netflix’s Architecture](https://dev.to/somadevtoo/10-things-you-can-learn-from-netflixs-architecture-1bnn)
+- [Era of Intelligent Transformation - FAV0 Weekly #012](https://dev.to/justin3go/era-of-intelligent-transformation-fav0-weekly-012-8ce)
+- [Angular CDK Drag &amp; Drop: Multi Direction Movement](https://dev.to/ngmaterialdev/angular-cdk-drag-drop-multi-direction-movement-54l5)
+- [智变时代 - FAV0周刊#012](https://dev.to/justin3go/zhi-bian-shi-dai-fav0zhou-kan-012-13bi)
 <!-- BLOG-POST-LIST:END -->
 
