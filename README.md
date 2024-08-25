@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Regression: The Backbone of Predictive Models](https://dev.to/zain725342/understanding-regression-the-backbone-of-predictive-models-1m7a)
 - [Bienvenidos al Mundo de la Programación: El Arte de Pensar en Pasos](https://dev.to/torrezmn/bienvenidos-al-mundo-de-la-programacion-el-arte-de-pensar-en-pasos-2lok)
 - [Top 11 JavaScript Frameworks and Libraries to Learn in 2024](https://dev.to/dipakahirav/top-11-javascript-frameworks-and-libraries-to-learn-in-2024-a9l)
 - [Today&#39;s Trending Projects: Snake Game Using Python and Pygame and More](https://dev.to/labex/todays-trending-projects-snake-game-using-python-and-pygame-and-more-3c8k)
-- [RestAssured RestAPI automation testing Crash Course](https://dev.to/brijendrarai/restassured-restapi-automation-testing-crash-course-n4f)
 <!-- BLOG-POST-LIST:END -->
 
