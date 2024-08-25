@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DataPatternX: Candlestick Pattern Analysis Starter Kit](https://dev.to/msarabi/datapatternx-candlestick-pattern-analysis-starter-kit-2o2o)
-- [VB .Net: Find words in String Array Extension Method](https://dev.to/vblover_programmer/find-words-in-string-array-extension-method-5fh3)
-- [The Solar System in CSS](https://dev.to/madsstoumann/the-solar-system-in-css-51bo)
-- [The Value of Network Administration Skills in Cloud Computing](https://dev.to/seunb/the-value-of-network-administration-skills-in-cloud-computing-b74)
+- [Python 3.13 RC1 - a Quick CPU Benchmark](https://dev.to/maximsaplin/python-313-rc1-a-quick-cpu-benchmark-l5c)
+- [Understanding the Difference Between memory and storage in Solidity](https://dev.to/ceasermikes002/understanding-the-difference-between-memory-and-storage-in-solidity-50ip)
+- [The Rise of Modular Construction: A New Paradigm for Steel Fabrication](https://dev.to/badhonaub/the-rise-of-modular-construction-a-new-paradigm-for-steel-fabrication-36i2)
+- [Built a Ngrok replacement](https://dev.to/softground/built-a-ngrok-replacement-212m)
 <!-- BLOG-POST-LIST:END -->
 
