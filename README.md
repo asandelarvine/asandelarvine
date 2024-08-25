@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Animation](https://dev.to/aadarshk7/flutter-animation-4ddb)
-- [How Can I Improve My Sleep for Better Health?](https://dev.to/mghem2012/how-can-i-improve-my-sleep-for-better-health-28e9)
-- [Top Free Developer Tools &amp; Libraries You Need to Know in 2024](https://dev.to/shanu001x/top-free-developer-tools-libraries-you-need-to-know-in-2024-3m31)
-- [Why Microservices Are Important Compared to Monolithic Architecture](https://dev.to/lakhansamani/why-microservices-are-important-compared-to-monolithic-architecture-34ne)
+- [How to learn javascript in best way](https://dev.to/md_khurshedalam_4f693a7/how-to-learn-javascript-in-best-way-ke0)
+- [Fine-tuning veils rather than tailors underlying model powers](https://dev.to/mikeyoung44/fine-tuning-veils-rather-than-tailors-underlying-model-powers-54h4)
+- [Boost Your Machine Learning Skills: Free Courses for Math and Statistics](https://dev.to/sankarsubbu/boost-your-machine-learning-skills-free-courses-for-math-and-statistics-5fo6)
+- [🚀 Level Up Your Web Development with Next.js](https://dev.to/kavishka_dinajara_88/level-up-your-web-development-with-nextjs-2gkn)
 <!-- BLOG-POST-LIST:END -->
 
