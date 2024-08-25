@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Photos from OneDrive to HTML](https://dev.to/theholyspirit/photos-from-onedrive-to-html-3a78)
-- [Add Captcha On Laravel Forms](https://dev.to/armanrahman/add-captcha-on-laravel-forms-2i0e)
-- [Serve Your Assets Automatically with Bitbucket and AWS](https://dev.to/aws-builders/serve-your-assets-automatically-with-bitbucket-and-aws-1bc0)
-- [Unlock the Secrets of Embedded Systems with this Comprehensive Course! 🤖](https://dev.to/getvm/unlock-the-secrets-of-embedded-systems-with-this-comprehensive-course-3la1)
+- [Flutter Animation](https://dev.to/aadarshk7/flutter-animation-4ddb)
+- [How Can I Improve My Sleep for Better Health?](https://dev.to/mghem2012/how-can-i-improve-my-sleep-for-better-health-28e9)
+- [Top Free Developer Tools &amp; Libraries You Need to Know in 2024](https://dev.to/shanu001x/top-free-developer-tools-libraries-you-need-to-know-in-2024-3m31)
+- [Why Microservices Are Important Compared to Monolithic Architecture](https://dev.to/lakhansamani/why-microservices-are-important-compared-to-monolithic-architecture-34ne)
 <!-- BLOG-POST-LIST:END -->
 
