@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging IRSA with AWS SES To Send Emails from EKS Pods](https://dev.to/stintrilamah/leveraging-irsa-with-aws-ses-to-send-emails-from-eks-pods-c8c)
-- [Advice for people getting started with Knowledge Management and Writing](https://dev.to/dsebastien/advice-for-people-getting-started-with-knowledge-management-and-writing-3h1b)
-- [Effortless Payments with Lemon Squeezy | Next.js Integration Made Simple](https://dev.to/brokarim/effortless-payments-with-lemon-squeezy-nextjs-integration-made-simple-1k1o)
-- [How to use the HTML datalist tag](https://dev.to/mike_andreuzza/how-to-use-the-html-datalist-tag-o65)
+- [Building an API Gateway with YARP in .NET](https://dev.to/cosminirimescucom/building-an-api-gateway-with-yarp-in-net-nep)
+- [How to add section link to Squarespace](https://dev.to/ccsunnydev/how-to-add-section-link-to-squarespace-ojh)
+- [🚀 Deploying Your MERN Stack Application on Render: A Step-by-Step Guide](https://dev.to/slacky300/deploying-your-mern-stack-application-on-render-a-step-by-step-guide-23nk)
+- [Web Browser Extension Workshop - Part 2](https://dev.to/vst/web-browser-extension-workshop-part-2-fb6)
 <!-- BLOG-POST-LIST:END -->
 
