@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an API Gateway with YARP in .NET](https://dev.to/cosminirimescucom/building-an-api-gateway-with-yarp-in-net-nep)
-- [How to add section link to Squarespace](https://dev.to/ccsunnydev/how-to-add-section-link-to-squarespace-ojh)
-- [🚀 Deploying Your MERN Stack Application on Render: A Step-by-Step Guide](https://dev.to/slacky300/deploying-your-mern-stack-application-on-render-a-step-by-step-guide-23nk)
-- [Web Browser Extension Workshop - Part 2](https://dev.to/vst/web-browser-extension-workshop-part-2-fb6)
+- [10 Essential VS Code Tips &amp; Tricks for Greater Productivity](https://dev.to/safdarali/10-essential-vs-code-tips-tricks-for-greater-productivity-2d9o)
+- [What Are the Risks of Selling on eBay?](https://dev.to/thompsonblog/what-are-the-risks-of-selling-on-ebay-33h8)
+- [How to Turn Off Show Promoted Links&lpar;Disabled&rpar; In Microsoft Edge Browser?](https://dev.to/winsides/how-to-turn-off-show-promoted-linksdisabled-in-microsoft-edge-browser-4f9)
+- [The Business Side Of Tech : Where The Money Is](https://dev.to/dev_olatunji/the-business-side-of-tech-where-the-money-is-4m28)
 <!-- BLOG-POST-LIST:END -->
 
