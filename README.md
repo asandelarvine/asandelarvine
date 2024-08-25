@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hill climbing generative AI problems: When ground truth values are expensive to obtain &amp; launching fast is important](https://dev.to/joschkabraun/hill-climbing-generative-ai-problems-when-ground-truth-values-are-expensive-to-obtain-launching-fast-is-important-1d78)
-- [The ultimate guide to Data Analytics](https://dev.to/samkamuli/the-ultimate-guide-to-data-analytics-j3)
-- [145. Binary Tree Postorder Traversal](https://dev.to/mdarifulhaque/145-binary-tree-postorder-traversal-5628)
-- [Intro to the YouTube APIs: searching for videos](https://dev.to/wescpy/intro-to-the-youtube-apis-searching-for-videos-5a0o)
+- [Understanding Session Storage, Local Storage, and Cookies in Web Development](https://dev.to/eddiemuhoro/understanding-session-storage-local-storage-and-cookies-in-web-development-1i14)
+- [Vector Vision: Transform Your Local Image Search](https://dev.to/sumantha_ka/vector-vision-transform-your-local-image-search-56ph)
+- [Leveraging the MERN Stack for Scalable Web Applications](https://dev.to/codewithmahadihasan/leveraging-the-mern-stack-for-scalable-web-applications-23lg)
+- [The ultimate guide to Data Science.](https://dev.to/alvin_mustafa_/the-ultimate-guide-to-data-science-1063)
 <!-- BLOG-POST-LIST:END -->
 
