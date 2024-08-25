@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging IRSA with AWS SES To Send Emails from EKS Pods](https://dev.to/stintrilamah/leveraging-irsa-with-aws-ses-to-send-emails-from-eks-pods-c8c)
+- [Advice for people getting started with Knowledge Management and Writing](https://dev.to/dsebastien/advice-for-people-getting-started-with-knowledge-management-and-writing-3h1b)
+- [Effortless Payments with Lemon Squeezy | Next.js Integration Made Simple](https://dev.to/brokarim/effortless-payments-with-lemon-squeezy-nextjs-integration-made-simple-1k1o)
 - [How to use the HTML datalist tag](https://dev.to/mike_andreuzza/how-to-use-the-html-datalist-tag-o65)
-- [What&#39;s the difference between ReactNode vs React.Element](https://dev.to/nattive/whats-the-difference-between-reactnode-vs-reactelement-cgc)
-- [Javascript: Promise Complete Guide](https://dev.to/lukewanghanxiang/javascript-promise-complete-guide-ndi)
-- [Perform EDA Analysis in One Line of Code Data Science And Machine Learning](https://dev.to/aditya_j_c3d9f25dc3861848/perform-eda-analysis-in-one-line-of-code-data-science-and-machine-learning-3pk2)
 <!-- BLOG-POST-LIST:END -->
 
