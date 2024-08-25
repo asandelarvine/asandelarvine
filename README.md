@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Session Storage, Local Storage, and Cookies in Web Development](https://dev.to/eddiemuhoro/understanding-session-storage-local-storage-and-cookies-in-web-development-1i14)
-- [Vector Vision: Transform Your Local Image Search](https://dev.to/sumantha_ka/vector-vision-transform-your-local-image-search-56ph)
-- [Leveraging the MERN Stack for Scalable Web Applications](https://dev.to/codewithmahadihasan/leveraging-the-mern-stack-for-scalable-web-applications-23lg)
-- [The ultimate guide to Data Science.](https://dev.to/alvin_mustafa_/the-ultimate-guide-to-data-science-1063)
+- [The Ultimate Guide to Data Science](https://dev.to/davie7/the-ultimate-guide-to-data-science-4h27)
+- [I worry about the state of free dev knowledge in the Internet today.](https://dev.to/fabian_nino2/i-worry-about-the-state-of-free-knowledge-in-the-internet-today-3j5d)
+- [ResNet Vs EfficientNet vs VGG Vs NN](https://dev.to/saaransh_gupta_1903/resnet-vs-efficientnet-vs-vgg-vs-nn-2hf5)
+- [The ultimate Guide to Data Engineering.](https://dev.to/philemonkipkirui/the-ultimate-guide-to-data-engineering-14hj)
 <!-- BLOG-POST-LIST:END -->
 
