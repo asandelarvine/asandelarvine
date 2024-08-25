@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Variabel Dan Konsep Binding](https://dev.to/muzhawir/variabel-dan-konsep-binding-3850)
-- [The Ultimate Guide to Choosing the Best Web Hosting for WordPress in 2025](https://dev.to/anouar-aissaoui/the-ultimate-guide-to-choosing-the-best-web-hosting-for-wordpress-in-2025-1344)
-- [Understanding the Apache Iceberg Manifest List &lpar;Snapshot&rpar;](https://dev.to/alexmercedcoder/understanding-the-apache-iceberg-manifest-list-snapshot-507)
-- [Product Management System with Express.js and Embedded JavaScript Template Engine &lpar;EJS&rpar;](https://dev.to/syriamme/product-management-system-with-expressjs-and-embedded-javascript-template-engine-ejs-2ccd)
+- [Hill climbing generative AI problems: When ground truth values are expensive to obtain &amp; launching fast is important](https://dev.to/joschkabraun/hill-climbing-generative-ai-problems-when-ground-truth-values-are-expensive-to-obtain-launching-fast-is-important-1d78)
+- [The ultimate guide to Data Analytics](https://dev.to/samkamuli/the-ultimate-guide-to-data-analytics-j3)
+- [145. Binary Tree Postorder Traversal](https://dev.to/mdarifulhaque/145-binary-tree-postorder-traversal-5628)
+- [Intro to the YouTube APIs: searching for videos](https://dev.to/wescpy/intro-to-the-youtube-apis-searching-for-videos-5a0o)
 <!-- BLOG-POST-LIST:END -->
 
