@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential VS Code Tips &amp; Tricks for Greater Productivity](https://dev.to/safdarali/10-essential-vs-code-tips-tricks-for-greater-productivity-2d9o)
-- [What Are the Risks of Selling on eBay?](https://dev.to/thompsonblog/what-are-the-risks-of-selling-on-ebay-33h8)
-- [How to Turn Off Show Promoted Links&lpar;Disabled&rpar; In Microsoft Edge Browser?](https://dev.to/winsides/how-to-turn-off-show-promoted-linksdisabled-in-microsoft-edge-browser-4f9)
-- [The Business Side Of Tech : Where The Money Is](https://dev.to/dev_olatunji/the-business-side-of-tech-where-the-money-is-4m28)
+- [Exploring an experimental Micro-Frontend Architecture with Server-Side Rendering using React Server Components](https://dev.to/lazarv/exploring-an-experimental-micro-frontend-architecture-with-server-side-rendering-using-react-server-components-2d0f)
+- [How to Check Fragmentation in an Oracle Database](https://dev.to/dm8ry/how-to-check-fragmentation-in-an-oracle-database-3j7d)
+- [Introduction to JWT and OAuth 2.0](https://dev.to/gervaisamoah/introduction-to-jwt-and-oauth-20-4bin)
+- [Done with GitHub](https://dev.to/eastcoast8264/done-with-github-2pj9)
 <!-- BLOG-POST-LIST:END -->
 
