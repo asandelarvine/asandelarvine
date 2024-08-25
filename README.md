@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Data Science](https://dev.to/davie7/the-ultimate-guide-to-data-science-4h27)
-- [I worry about the state of free dev knowledge in the Internet today.](https://dev.to/fabian_nino2/i-worry-about-the-state-of-free-knowledge-in-the-internet-today-3j5d)
-- [ResNet Vs EfficientNet vs VGG Vs NN](https://dev.to/saaransh_gupta_1903/resnet-vs-efficientnet-vs-vgg-vs-nn-2hf5)
-- [The ultimate Guide to Data Engineering.](https://dev.to/philemonkipkirui/the-ultimate-guide-to-data-engineering-14hj)
+- [AWS Advanced: Getting SES Production Access](https://dev.to/aws-builders/aws-advanced-getting-ses-production-access-177j)
+- [Fundamental Questions of Java](https://dev.to/thailanelopes/fundamental-questions-of-java-3peb)
+- [Instalando asdf e Golang no Linux](https://dev.to/edurs2602/instalando-asdf-e-golang-no-linux-4e98)
+- [The backbone of the internet: understanding protocol](https://dev.to/monwarqx1250/the-backbone-of-the-internet-understanding-protocol-3on7)
 <!-- BLOG-POST-LIST:END -->
 
