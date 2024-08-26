@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick introduction to Gallifrey-Rules](https://dev.to/gallifrey-rules/quick-introduction-to-gallifrey-rules-2i9c)
-- [Weekly goals of Modderz Android app . 2024-08-26](https://dev.to/theplebdev/weekly-goals-of-modderz-android-app-2024-08-26-1a6f)
-- [npm i openai-react-native](https://dev.to/depombo/npm-i-openai-react-native-3gop)
-- [Lambda function using Docker Container Image -Part 1 How to develop and deploy Lambda function with Java &lpar;21&rpar; runtime](https://dev.to/aws-builders/lambda-function-using-docker-container-image-part-1-how-to-develop-and-deploy-lambda-function-with-java-21-runtime-2jmo)
+- [Your Ultimate Django Freelancing Staterkit](https://dev.to/paul_freeman/your-ultimate-django-freelancing-staterkit-5bl0)
+- [Diary of a Software Developer #2 - 26/08/2024](https://dev.to/antoniodev/diary-of-a-software-developer-2-26082024-2f6a)
+- [Difference between Abstract Factory and Factory Pattern](https://dev.to/prashantrmishra/difference-between-abstract-factory-and-factory-pattern-1bjp)
+- [Abstract factory method](https://dev.to/prashantrmishra/abstract-factory-method-5220)
 <!-- BLOG-POST-LIST:END -->
 
