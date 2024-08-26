@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build and test a multiplatform C++ project with GitHub Actions](https://dev.to/hailiang194/build-and-test-a-multiplatform-c-project-with-github-actions-6g7)
-- [Welcome to ChatGPT JP – Your Go-To AI Assistant for Japanese Conversations and Beyond!](https://dev.to/chatgptjapan/welcome-to-chatgpt-jp-your-go-to-ai-assistant-for-japanese-conversations-and-beyond-47e8)
-- [How to detect a request is API or Web in laravel](https://dev.to/viktorle1294/how-to-detect-a-request-is-api-or-web-in-laravel-5h27)
-- [Eager vs Lazy Initialization of Spring Beans](https://dev.to/isaactony/eager-vs-lazy-initialization-of-spring-beans-552k)
+- [Cihaz Yönetimi Eklentisi Yazılım Deposundan Paket Yükleme](https://dev.to/aciklab/cihaz-yonetimi-eklentisi-yazilim-deposundan-paket-yukleme-hf7)
+- [What is The Best Time to Learn New Things Effectively?](https://dev.to/mammadyahyayev/what-is-the-best-time-to-learn-new-things-effectively-30dp)
+- [Leveraging Ocelot API Gateway for Seamless Microservices Communication in My Latest .NET Project](https://dev.to/midnightasc/leveraging-ocelot-api-gateway-for-seamless-microservices-communication-in-my-latest-net-project-40eg)
+- [Kenapa Saya Memilih Karir di Bidang IT dan Kenapa Program Devhandal Jadi Pilihan Utama Saya](https://dev.to/pramahaditamaputra/kenapa-saya-memilih-karir-di-bidang-it-dan-kenapa-program-devhandal-jadi-pilihan-utama-saya-4ame)
 <!-- BLOG-POST-LIST:END -->
 
