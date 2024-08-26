@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Twelve-Factor App: A Blueprint for Scalable, Maintainable Software](https://dev.to/derlin/the-twelve-factor-app-a-blueprint-for-scalable-maintainable-software-55pn)
-- [Meme Monday](https://dev.to/ben/meme-monday-4h5d)
-- [Liman MYS ve Eklenti Senkronizasyonu: Yüksek Erişilebilirlik için Temel Adımlar](https://dev.to/aciklab/liman-mys-ve-eklenti-senkronizasyonu-yuksek-erisilebilirlik-icin-temel-adimlar-4bii)
-- [𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗶𝗻 𝗝𝗮𝘃𝗮: 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀, 𝗮𝗻𝗱 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻](https://dev.to/ricardo_maia_eb9c7a906560/--3ae0)
+- [A Study on Code Review Acceptance](https://dev.to/leomachadop/a-study-on-code-review-acceptance-2n3)
+- [Introduction to Python](https://dev.to/autext/introduction-to-python-gfk)
+- [Liman MYS - Cihaz Yönetimi Yedekli Miço Ortamı Hazırlanması](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-yedekli-mico-ortami-hazirlanmasi-239p)
+- [Your Ultimate Django SaaS Starterkit](https://dev.to/paul_freeman/your-ultimate-django-saas-starterkit-1n2o)
 <!-- BLOG-POST-LIST:END -->
 
