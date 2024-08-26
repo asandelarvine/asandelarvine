@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Node JS By Displaying &lpar;&quot;Hello World&quot;&rpar;](https://dev.to/muhammad_raihan/how-to-use-node-js-by-displaying-hello-world-3lkh)
+- [Efficient React Development: Leveraging Context and Hooks for Seamless Data Handling](https://dev.to/raju_dandigam/efficient-react-development-leveraging-context-and-hooks-for-seamless-data-handling-258c)
+- [Add Memory in AI: Your Chat Experience on Steroids](https://dev.to/harshit_lakhani/add-memory-in-ai-your-chat-experience-on-steroids-575j)
 - [Don&#39;t stop a process once started!](https://dev.to/leg_end/dont-stop-a-process-once-started-1ed3)
-- [Snowflake Time Travel : Handy SQLs](https://dev.to/digitalchemist/snowflake-time-travel-handy-sqls-en6)
-- [Efficiently Delete Inactive User Data Using TypeScript and AWS Lambda](https://dev.to/radzion/efficiently-delete-inactive-user-data-using-typescript-and-aws-lambda-3g8e)
-- [Advanced C# Features: Exploring Delegates, Events, and Lambdas](https://dev.to/soham_galande/advanced-c-features-exploring-delegates-events-and-lambdas-2eie)
 <!-- BLOG-POST-LIST:END -->
 
