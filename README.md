@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Acoplamento Mental: O pior Acoplamento que existe](https://dev.to/asouza/acoplamento-mental-o-pior-acoplamento-que-existe-2p59)
-- [How Indexing Works in MariaDB and Why It Helps with Optimization](https://dev.to/0x49d1/how-indexing-works-in-mariadb-and-why-it-helps-with-optimization-5hmc)
-- [Text Detection in Images Using AWS Rekognition and Node.js](https://dev.to/sanx/text-detection-in-images-using-aws-rekognition-and-nodejs-gg1)
-- [The Push for Greener AI: Navigating the Environmental Impact of Artificial Intelligence](https://dev.to/lilyneema/the-push-for-greener-ai-navigating-the-environmental-impact-of-artificial-intelligence-5fk4)
+- [Build and test a multiplatform C++ project with GitHub Actions](https://dev.to/hailiang194/build-and-test-a-multiplatform-c-project-with-github-actions-6g7)
+- [Welcome to ChatGPT JP – Your Go-To AI Assistant for Japanese Conversations and Beyond!](https://dev.to/chatgptjapan/welcome-to-chatgpt-jp-your-go-to-ai-assistant-for-japanese-conversations-and-beyond-47e8)
+- [How to detect a request is API or Web in laravel](https://dev.to/viktorle1294/how-to-detect-a-request-is-api-or-web-in-laravel-5h27)
+- [Eager vs Lazy Initialization of Spring Beans](https://dev.to/isaactony/eager-vs-lazy-initialization-of-spring-beans-552k)
 <!-- BLOG-POST-LIST:END -->
 
