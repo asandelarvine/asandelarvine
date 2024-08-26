@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Study on Code Review Acceptance](https://dev.to/leomachadop/a-study-on-code-review-acceptance-2n3)
-- [Introduction to Python](https://dev.to/autext/introduction-to-python-gfk)
-- [Liman MYS - Cihaz Yönetimi Yedekli Miço Ortamı Hazırlanması](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-yedekli-mico-ortami-hazirlanmasi-239p)
-- [Your Ultimate Django SaaS Starterkit](https://dev.to/paul_freeman/your-ultimate-django-saas-starterkit-1n2o)
+- [NMS Migration Made Easy: Moving Foward with Kentik NMS](https://dev.to/adatole/nms-migration-made-easy-moving-foward-with-kentik-nms-15d7)
+- [Understanding the Role of the &#39;JSON&#39; Library in Python and Its Use in Web Scraping](https://dev.to/lewis_kerr_2d0d4c5b886b02/understanding-the-role-of-the-json-library-in-python-and-its-use-in-web-scraping-3a74)
+- [Fetching and Displaying Dynamic Product Data in Next.js with Prisma](https://dev.to/ezzeddinp/fetching-and-displaying-dynamic-product-data-in-nextjs-with-prisma-19jb)
+- [Exploring Ladybird Browser: The Next Big Thing in Browsers?](https://dev.to/proflead/exploring-ladybird-browser-the-next-big-thing-in-browsers-4bm2)
 <!-- BLOG-POST-LIST:END -->
 
