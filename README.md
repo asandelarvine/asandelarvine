@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Business Case Against Massive Unrequested Refactorings](https://dev.to/canro91/a-business-case-against-massive-unrequested-refactorings-17d4)
-- [About me - mrzaizai2k](https://dev.to/mrzaizai2k/about-me-mrzaizai2k-4o64)
-- [Franken UI: A Powerful HTML-First UI Component Library](https://dev.to/uicraft_by_pratik/franken-ui-a-powerful-html-first-ui-component-library-401e)
-- [Warp: Redefining Productivity with AI Right In Your Terminal](https://dev.to/macaoblog/-warp-la-terminal-que-redefine-la-productividad-con-ia-36gg)
+- [A Reliable Anti-Scraping Tool: My Experience with SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-reliable-anti-scraping-tool-my-experience-with-safeline-3gfk)
+- [10-dars](https://dev.to/muhammadyusuf_b21347171bb/1-5c6p)
+- [End-to-End DevOps Project: Building, Deploying, and Monitoring a Full-Stack Application](https://dev.to/prodevopsguytech/end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako)
+- [Configuration of Services](https://dev.to/kalkwst/configuration-of-services-2ikj)
 <!-- BLOG-POST-LIST:END -->
 
