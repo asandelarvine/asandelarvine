@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Viteconfig / jsconfig](https://dev.to/bekmuhammaddev/viteconfig-jsconfig-2afi)
-- [Singleton Pattern in Flutter](https://dev.to/syedabdulbasit7/singleton-pattern-in-flutter-2apb)
-- [How map&lpar;&rpar; and Map are Different in JavaScript.](https://dev.to/vishall/how-map-and-map-are-different-in-javascript-4abo)
-- [Build a Loan Calculator Website](https://dev.to/abhishekgurjar/build-a-loan-calculator-website-157e)
+- [Building a tiny vector store from scratch](https://dev.to/vivekalhat/building-a-tiny-vector-store-from-scratch-59ep)
+- [Designed a 404 page](https://dev.to/rockhillz/designed-a-404-page-3hd2)
+- [How to Handle Millions of Requests per Second: Load Balancing 101 🚀](https://dev.to/jbyte/how-to-handle-millions-of-requests-per-second-load-balancing-101-2f7n)
+- [MYSTERY TRAILS - Bring out the detective in you](https://dev.to/jainireshj/mystery-trails-bring-out-the-detective-in-you-oj7)
 <!-- BLOG-POST-LIST:END -->
 
