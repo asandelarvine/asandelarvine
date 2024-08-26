@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing: Beautiful Layouts for Your Rails App](https://dev.to/railsdesigner/introducing-beautiful-layouts-for-your-rails-app-4kn2)
-- [Understanding and Managing Technical Debt: The Hidden Cost of Rapid Development](https://dev.to/samuel_kinuthia/understanding-and-managing-technical-debt-the-hidden-cost-of-rapid-development-39ph)
-- [Building a Retrieval-Augmented Generation &lpar;RAG&rpar; System with Langchain, LangGraph, Tavily and LangSmith in TypeScript](https://dev.to/vdrosatos/building-a-retrieval-augmented-generation-rag-system-with-langchain-langgraph-tavily-and-langsmith-in-typescript-mef)
-- [How to make http request without curl or wget in bash](https://dev.to/piotr_zarycki_fe062ceaa4c/how-to-make-http-request-without-curl-or-wget-in-bash-5401)
+- [NextJS Internationalization using Google Translator](https://dev.to/mohammadfaisal/nextjs-internationalization-using-google-translator-4pgk)
+- [Build a Month Calendar Website](https://dev.to/abhishekgurjar/build-a-month-calendar-website-41c9)
+- [Cut Costs in OpenSearch Serverless with Bedrock Knowledge Base - Part 2](https://dev.to/aws-builders/cut-costs-in-opensearch-serverless-with-bedrock-knowledge-base-part-2-47p)
+- [Insights and Tips from a Lead Engineer](https://dev.to/dhanushnehru/insights-and-tips-from-a-lead-engineer-ic5)
 <!-- BLOG-POST-LIST:END -->
 
