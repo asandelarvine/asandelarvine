@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cihaz Yönetimi Eklentisi Yazılım Deposundan Paket Yükleme](https://dev.to/aciklab/cihaz-yonetimi-eklentisi-yazilim-deposundan-paket-yukleme-hf7)
-- [What is The Best Time to Learn New Things Effectively?](https://dev.to/mammadyahyayev/what-is-the-best-time-to-learn-new-things-effectively-30dp)
-- [Leveraging Ocelot API Gateway for Seamless Microservices Communication in My Latest .NET Project](https://dev.to/midnightasc/leveraging-ocelot-api-gateway-for-seamless-microservices-communication-in-my-latest-net-project-40eg)
-- [Kenapa Saya Memilih Karir di Bidang IT dan Kenapa Program Devhandal Jadi Pilihan Utama Saya](https://dev.to/pramahaditamaputra/kenapa-saya-memilih-karir-di-bidang-it-dan-kenapa-program-devhandal-jadi-pilihan-utama-saya-4ame)
+- [The Twelve-Factor App: A Blueprint for Scalable, Maintainable Software](https://dev.to/derlin/the-twelve-factor-app-a-blueprint-for-scalable-maintainable-software-55pn)
+- [Meme Monday](https://dev.to/ben/meme-monday-4h5d)
+- [Liman MYS ve Eklenti Senkronizasyonu: Yüksek Erişilebilirlik için Temel Adımlar](https://dev.to/aciklab/liman-mys-ve-eklenti-senkronizasyonu-yuksek-erisilebilirlik-icin-temel-adimlar-4bii)
+- [𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗶𝗻 𝗝𝗮𝘃𝗮: 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀, 𝗮𝗻𝗱 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻](https://dev.to/ricardo_maia_eb9c7a906560/--3ae0)
 <!-- BLOG-POST-LIST:END -->
 
