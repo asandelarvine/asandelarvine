@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Ultimate Django Freelancing Staterkit](https://dev.to/paul_freeman/your-ultimate-django-freelancing-staterkit-5bl0)
-- [Diary of a Software Developer #2 - 26/08/2024](https://dev.to/antoniodev/diary-of-a-software-developer-2-26082024-2f6a)
-- [Difference between Abstract Factory and Factory Pattern](https://dev.to/prashantrmishra/difference-between-abstract-factory-and-factory-pattern-1bjp)
-- [Abstract factory method](https://dev.to/prashantrmishra/abstract-factory-method-5220)
+- [Introducing: Beautiful Layouts for Your Rails App](https://dev.to/railsdesigner/introducing-beautiful-layouts-for-your-rails-app-4kn2)
+- [Understanding and Managing Technical Debt: The Hidden Cost of Rapid Development](https://dev.to/samuel_kinuthia/understanding-and-managing-technical-debt-the-hidden-cost-of-rapid-development-39ph)
+- [Building a Retrieval-Augmented Generation &lpar;RAG&rpar; System with Langchain, LangGraph, Tavily and LangSmith in TypeScript](https://dev.to/vdrosatos/building-a-retrieval-augmented-generation-rag-system-with-langchain-langgraph-tavily-and-langsmith-in-typescript-mef)
+- [How to make http request without curl or wget in bash](https://dev.to/piotr_zarycki_fe062ceaa4c/how-to-make-http-request-without-curl-or-wget-in-bash-5401)
 <!-- BLOG-POST-LIST:END -->
 
