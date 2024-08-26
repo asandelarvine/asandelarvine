@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how to implement Laravel SPA reverb broadcasting with vue js cli?](https://dev.to/xbrook_b1d678345e23b22ca2/how-to-implement-laravel-spa-reverb-broadcasting-with-vue-js-cli-48f4)
-- [AI-Powered GitHub README Generator](https://dev.to/shenli3514/ai-powered-github-readme-generator-4pk5)
-- [Sets](https://dev.to/mahf001/sets-4gk7)
-- [My Dream Game Engine](https://dev.to/frodo_alsaka/my-dream-game-engine-3peh)
+- [K8s QuickBites: Helm Basics](https://dev.to/devsatasurion/k8s-quickbites-helm-basics-25hj)
+- [Day 55 / 100 Days of Code: Exploring JavaScript Control Flow](https://dev.to/jacobsternx/day-55-100-days-of-code-exploring-javascript-control-flow-5g2g)
+- [Essential Monitoring Tools and Metrics for backend service health](https://dev.to/shieldstring/essential-monitoring-tools-and-metrics-for-backend-service-health-5bii)
+- [Simple Elegant Image Loader](https://dev.to/acronimax/simple-elegant-image-loader-4dl0)
 <!-- BLOG-POST-LIST:END -->
 
