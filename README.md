@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NextJS Internationalization using Google Translator](https://dev.to/mohammadfaisal/nextjs-internationalization-using-google-translator-4pgk)
-- [Build a Month Calendar Website](https://dev.to/abhishekgurjar/build-a-month-calendar-website-41c9)
-- [Cut Costs in OpenSearch Serverless with Bedrock Knowledge Base - Part 2](https://dev.to/aws-builders/cut-costs-in-opensearch-serverless-with-bedrock-knowledge-base-part-2-47p)
-- [Insights and Tips from a Lead Engineer](https://dev.to/dhanushnehru/insights-and-tips-from-a-lead-engineer-ic5)
+- [Viteconfig / jsconfig](https://dev.to/bekmuhammaddev/viteconfig-jsconfig-2afi)
+- [Singleton Pattern in Flutter](https://dev.to/syedabdulbasit7/singleton-pattern-in-flutter-2apb)
+- [How map&lpar;&rpar; and Map are Different in JavaScript.](https://dev.to/vishall/how-map-and-map-are-different-in-javascript-4abo)
+- [Build a Loan Calculator Website](https://dev.to/abhishekgurjar/build-a-loan-calculator-website-157e)
 <!-- BLOG-POST-LIST:END -->
 
