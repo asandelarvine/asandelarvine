@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NMS Migration Made Easy: Moving Foward with Kentik NMS](https://dev.to/adatole/nms-migration-made-easy-moving-foward-with-kentik-nms-15d7)
-- [Understanding the Role of the &#39;JSON&#39; Library in Python and Its Use in Web Scraping](https://dev.to/lewis_kerr_2d0d4c5b886b02/understanding-the-role-of-the-json-library-in-python-and-its-use-in-web-scraping-3a74)
-- [Fetching and Displaying Dynamic Product Data in Next.js with Prisma](https://dev.to/ezzeddinp/fetching-and-displaying-dynamic-product-data-in-nextjs-with-prisma-19jb)
-- [Exploring Ladybird Browser: The Next Big Thing in Browsers?](https://dev.to/proflead/exploring-ladybird-browser-the-next-big-thing-in-browsers-4bm2)
+- [Quick introduction to Gallifrey-Rules](https://dev.to/gallifrey-rules/quick-introduction-to-gallifrey-rules-2i9c)
+- [Weekly goals of Modderz Android app . 2024-08-26](https://dev.to/theplebdev/weekly-goals-of-modderz-android-app-2024-08-26-1a6f)
+- [npm i openai-react-native](https://dev.to/depombo/npm-i-openai-react-native-3gop)
+- [Lambda function using Docker Container Image -Part 1 How to develop and deploy Lambda function with Java &lpar;21&rpar; runtime](https://dev.to/aws-builders/lambda-function-using-docker-container-image-part-1-how-to-develop-and-deploy-lambda-function-with-java-21-runtime-2jmo)
 <!-- BLOG-POST-LIST:END -->
 
