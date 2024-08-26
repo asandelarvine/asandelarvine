@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your JavaScript: A Deep Dive into Object-Oriented Programming✨](https://dev.to/alaa-samy/elevate-your-javascript-a-deep-dive-into-object-oriented-programming-2080)
-- [Understanding the Authentication Flow](https://dev.to/vincod/understanding-the-authentication-flow-3ndk)
-- [Getting Started: Structuring the Application Core with Visual Studio](https://dev.to/moh_moh701/getting-started-structuring-the-application-core-with-visual-studio-4bk8)
-- [Building Scalable APIs with .NET Core and GraphQL](https://dev.to/paulotorrestech/building-scalable-apis-with-net-core-and-graphql-1cpi)
+- [Finally](https://dev.to/mustafacam/finally-akg)
+- [How to Fix Session store not set on request Laravel 11?](https://dev.to/abdulwahidkahar/how-to-fix-session-store-not-set-on-request-laravel-11-2d4p)
+- [[18/52] Engineering Fundamentals: Teh Maths](https://dev.to/tythos/1852-engineering-fundamentals-teh-maths-2obn)
+- [RGFW Under the Hood: Cocoa in Pure C](https://dev.to/colleagueriley/rgfw-under-the-hood-cocoa-in-pure-c-1c7j)
 <!-- BLOG-POST-LIST:END -->
 
