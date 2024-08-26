@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Your First Server with Terraform: A Beginner&#39;s Guide](https://dev.to/frankfolabi/deploying-your-first-server-with-terraform-a-beginners-guide-2jaa)
-- [First fully multi-GPU supporting and very advanced batch image captioner APP with Gradio interface published](https://dev.to/furkangozukara/first-fully-multi-gpu-supporting-and-very-advanced-batch-image-captioner-app-with-gradio-interface-published-4l83)
-- [DIY Deployment of SafeLine WAF on K8s](https://dev.to/lulu_liu_c90f973e2f954d7f/diy-deployment-of-safeline-waf-on-k8s-c2c)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/professorkarwish/understanding-your-data-the-essentials-of-exploratory-data-analysis-9o5)
+- [A Business Case Against Massive Unrequested Refactorings](https://dev.to/canro91/a-business-case-against-massive-unrequested-refactorings-17d4)
+- [About me - mrzaizai2k](https://dev.to/mrzaizai2k/about-me-mrzaizai2k-4o64)
+- [Franken UI: A Powerful HTML-First UI Component Library](https://dev.to/uicraft_by_pratik/franken-ui-a-powerful-html-first-ui-component-library-401e)
+- [Warp: Redefining Productivity with AI Right In Your Terminal](https://dev.to/macaoblog/-warp-la-terminal-que-redefine-la-productividad-con-ia-36gg)
 <!-- BLOG-POST-LIST:END -->
 
