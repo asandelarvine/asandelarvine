@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Data Analysis: Embracing the Efficient Query and Aggregation Calculations](https://dev.to/dolphindb/accelerating-data-analysis-embracing-the-efficient-query-and-aggregation-calculations-5ed6)
-- [SafeLine WAF: Easy Installation and Pro-Level Web Protection in Minutes](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-easy-installation-and-pro-level-web-protection-in-minutes-59pa)
-- [Understanding Kubernetes: part 52 – Kubernetes 1.31 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d)
-- [AWS Site-to-Site VPN](https://dev.to/venkatesh111/aws-site-to-site-vpn-2799)
+- [Acoplamento Mental: O pior Acoplamento que existe](https://dev.to/asouza/acoplamento-mental-o-pior-acoplamento-que-existe-2p59)
+- [How Indexing Works in MariaDB and Why It Helps with Optimization](https://dev.to/0x49d1/how-indexing-works-in-mariadb-and-why-it-helps-with-optimization-5hmc)
+- [Text Detection in Images Using AWS Rekognition and Node.js](https://dev.to/sanx/text-detection-in-images-using-aws-rekognition-and-nodejs-gg1)
+- [The Push for Greener AI: Navigating the Environmental Impact of Artificial Intelligence](https://dev.to/lilyneema/the-push-for-greener-ai-navigating-the-environmental-impact-of-artificial-intelligence-5fk4)
 <!-- BLOG-POST-LIST:END -->
 
