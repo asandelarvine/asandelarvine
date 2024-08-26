@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a tiny vector store from scratch](https://dev.to/vivekalhat/building-a-tiny-vector-store-from-scratch-59ep)
-- [Designed a 404 page](https://dev.to/rockhillz/designed-a-404-page-3hd2)
-- [How to Handle Millions of Requests per Second: Load Balancing 101 🚀](https://dev.to/jbyte/how-to-handle-millions-of-requests-per-second-load-balancing-101-2f7n)
-- [MYSTERY TRAILS - Bring out the detective in you](https://dev.to/jainireshj/mystery-trails-bring-out-the-detective-in-you-oj7)
+- [Elevate Your JavaScript: A Deep Dive into Object-Oriented Programming✨](https://dev.to/alaa-samy/elevate-your-javascript-a-deep-dive-into-object-oriented-programming-2080)
+- [Understanding the Authentication Flow](https://dev.to/vincod/understanding-the-authentication-flow-3ndk)
+- [Getting Started: Structuring the Application Core with Visual Studio](https://dev.to/moh_moh701/getting-started-structuring-the-application-core-with-visual-studio-4bk8)
+- [Building Scalable APIs with .NET Core and GraphQL](https://dev.to/paulotorrestech/building-scalable-apis-with-net-core-and-graphql-1cpi)
 <!-- BLOG-POST-LIST:END -->
 
