@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Use AWS Lambda Layers 📦](https://dev.to/aws-heroes/why-you-should-use-aws-lambda-layers-1cke)
+- [AI boosted: Website builders](https://dev.to/rutrus/ai-boosted-website-builders-4gma)
+- [🚀 Building an Open-Source High-Frequency Trading Bot Using Binance Spot API](https://dev.to/avitakiyar/building-an-open-source-high-frequency-trading-bot-using-binance-spot-api-4jci)
 - [Finally](https://dev.to/mustafacam/finally-akg)
-- [How to Fix Session store not set on request Laravel 11?](https://dev.to/abdulwahidkahar/how-to-fix-session-store-not-set-on-request-laravel-11-2d4p)
-- [[18/52] Engineering Fundamentals: Teh Maths](https://dev.to/tythos/1852-engineering-fundamentals-teh-maths-2obn)
-- [RGFW Under the Hood: Cocoa in Pure C](https://dev.to/colleagueriley/rgfw-under-the-hood-cocoa-in-pure-c-1c7j)
 <!-- BLOG-POST-LIST:END -->
 
