@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Node JS By Displaying &lpar;&quot;Hello World&quot;&rpar;](https://dev.to/muhammad_raihan/how-to-use-node-js-by-displaying-hello-world-3lkh)
-- [Efficient React Development: Leveraging Context and Hooks for Seamless Data Handling](https://dev.to/raju_dandigam/efficient-react-development-leveraging-context-and-hooks-for-seamless-data-handling-258c)
-- [Add Memory in AI: Your Chat Experience on Steroids](https://dev.to/harshit_lakhani/add-memory-in-ai-your-chat-experience-on-steroids-575j)
-- [Don&#39;t stop a process once started!](https://dev.to/leg_end/dont-stop-a-process-once-started-1ed3)
+- [Deploying Your First Server with Terraform: A Beginner&#39;s Guide](https://dev.to/frankfolabi/deploying-your-first-server-with-terraform-a-beginners-guide-2jaa)
+- [First fully multi-GPU supporting and very advanced batch image captioner APP with Gradio interface published](https://dev.to/furkangozukara/first-fully-multi-gpu-supporting-and-very-advanced-batch-image-captioner-app-with-gradio-interface-published-4l83)
+- [DIY Deployment of SafeLine WAF on K8s](https://dev.to/lulu_liu_c90f973e2f954d7f/diy-deployment-of-safeline-waf-on-k8s-c2c)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/professorkarwish/understanding-your-data-the-essentials-of-exploratory-data-analysis-9o5)
 <!-- BLOG-POST-LIST:END -->
 
