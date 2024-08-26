@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reliable Anti-Scraping Tool: My Experience with SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-reliable-anti-scraping-tool-my-experience-with-safeline-3gfk)
-- [10-dars](https://dev.to/muhammadyusuf_b21347171bb/1-5c6p)
-- [End-to-End DevOps Project: Building, Deploying, and Monitoring a Full-Stack Application](https://dev.to/prodevopsguytech/end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako)
-- [Configuration of Services](https://dev.to/kalkwst/configuration-of-services-2ikj)
+- [#51 - Get Rankings of Excel Rows in Each Group While Retaining the Existing Order](https://dev.to/judith677/51-get-rankings-of-excel-rows-in-each-group-while-retaining-the-existing-order-3pi6)
+- [🚀 Most Useful React Hooks for Your Next Project 🚀](https://dev.to/vyan/most-useful-react-hooks-for-your-next-project-2l4i)
+- [Optimizing Data Analysis with Trino and DbVisualizer](https://dev.to/dbvismarketing/optimizing-data-analysis-with-trino-and-dbvisualizer-180)
+- [Unlock New Capabilities with SafeLine 6.7.0: Advanced Features and Essential Fixes](https://dev.to/lulu_liu_c90f973e2f954d7f/new-capabilities-with-safeline-latest-update-brings-advanced-features-and-essential-fixes-2o2c)
 <!-- BLOG-POST-LIST:END -->
 
