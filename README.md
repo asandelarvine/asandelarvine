@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [40 Days Of Kubernetes &lpar;4/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-440-3m61)
-- [Code Anywhere, Anytime: Discover the Power of VS Code Web](https://dev.to/mahrukh_adeel/code-anywhere-anytime-discover-the-power-of-vs-code-web-56h)
-- [You Don’t Have to Be a Victim](https://dev.to/femolacaster/you-dont-have-to-be-a-victim-4f20)
-- [Introducing the Smiley Investment Planner 1.0](https://dev.to/jcsmileyjr/introducing-the-smiley-investment-planner-10-178j)
+- [How Web Browsers Work: A Simple Guide to Loading and Displaying Web Apps](https://dev.to/biswasprasana001/how-web-browsers-work-a-simple-guide-to-loading-and-displaying-web-apps-1l54)
+- [Scanning AWS S3 Buckets for Security Vulnerabilities](https://dev.to/aviator_co/scanning-aws-s3-buckets-for-security-vulnerabilities-3ie5)
+- [Node.js vs. Express.js: Understanding the Difference and Their Roles in Web Development](https://dev.to/david_tevzadze_/nodejs-vs-expressjs-understanding-the-difference-and-their-roles-in-web-development-5d29)
+- [Getting Started with Generative AI](https://dev.to/prasad97/getting-started-with-generative-ai-26bf)
 <!-- BLOG-POST-LIST:END -->
 
