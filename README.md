@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shield Your Web Apps with SafeLine: The Self-Hosted WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/shield-your-web-apps-with-safeline-the-self-hosted-waf-1h91)
-- [WhiteBIT Rescues Barcelona FC, Pays Off Club’s Debt](https://dev.to/endeo/whitebit-rescues-barcelona-fc-pays-off-clubs-debt-148c)
-- [Composition in GitHub Actions](https://dev.to/kiolk/composition-in-github-actions-ehh)
-- [Protect Your Website Like a Pro: SafeLine, the Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-website-like-a-pro-safeline-the-open-source-waf-4p7c)
+- [Top Dev YouTube Channel 2024: JS/TS, Go, and Swift/SwiftUI](https://dev.to/bmfyfz/top-dev-youtube-channel-2024-jsts-go-and-swiftswiftui-3lp5)
+- [SafeLine WAF: Step-by-Step Guide to Secure Your Web Environment](https://dev.to/lulu_liu_c90f973e2f954d7f/step-by-step-guide-to-secure-your-web-environment-safeline-waf-2cmo)
+- [Strengthening AWS Security: A Guide to Identifying, Assessing, and Protecting Your Assets 🛡️🔍](https://dev.to/noorscript/strengthening-aws-security-a-guide-to-identifying-assessing-and-protecting-your-assets-5hkn)
+- [Java, fill each row having a null value in a csv file with values in the directly previous row #eg32](https://dev.to/esproc_spl/java-fill-each-row-having-a-null-value-in-a-csv-file-with-values-in-the-directly-previous-row-eg32-4ng6)
 <!-- BLOG-POST-LIST:END -->
 
