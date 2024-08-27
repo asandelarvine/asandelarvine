@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An A-to-Z Guide to BVN Verification: What to Know and How to Integrate](https://dev.to/flutterwaveeng/an-a-to-z-guide-to-bvn-verification-what-to-know-and-how-to-integrate-2op5)
-- [10 Best QA Testing Tools Every Developer Should Know](https://dev.to/apilover/10-best-development-qa-testing-tools-every-developer-should-know-28mb)
-- [Type or Interface? When to Use Each and Why](https://dev.to/paulocappa/type-or-interface-when-to-use-each-and-why-lcb)
-- [The Dynamic Trio: React, Redux Toolkit, and Redux Saga 🚀](https://dev.to/anujrajak/the-dynamic-trio-react-redux-toolkit-and-redux-saga-4mj2)
+- [Optimizing WordPress for Faster Load Times and Improved Core Web Vitals](https://dev.to/jamesmartindev/optimizing-wordpress-for-faster-load-times-and-improved-core-web-vitals-3p72)
+- [Clean code: blessing or curse? Act I. Confrontation](https://dev.to/pvsdev/clean-code-blessing-or-curse-act-i-confrontation-594e)
+- [Understanding Async JavaScript](https://dev.to/vincod/understanding-async-javascript-2l74)
+- [Janarthanan portfolio](https://dev.to/janarthanancrypto/janarthanan-portfolio-55c5)
 <!-- BLOG-POST-LIST:END -->
 
