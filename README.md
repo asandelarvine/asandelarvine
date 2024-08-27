@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to SQL Indexes](https://dev.to/devartteam/ultimate-guide-to-sql-indexes-27dp)
-- [How My First Coding Project Gets 2,100 Visitors Every Month](https://dev.to/florianwueest/how-my-first-coding-project-gets-2100-visitors-every-month-186a)
-- [Project Status Reports](https://dev.to/brendatechprep/project-status-reports-5h17)
-- [React App Setup, Resolving Dependency Conflicts in Node.js, &amp; Debugging](https://dev.to/tobidelly/react-app-setup-resolving-dependency-conflicts-in-nodejs-debugging-3cbn)
+- [Como Venci a Gupy](https://dev.to/kleysongomes/como-venci-a-gupy-1nbi)
+- [AIM Weekly - 26 August 2024](https://dev.to/tspannhw/aim-weekly-26-august-2024-3oli)
+- [Integrating Vector Databases with Existing IT Infrastructure](https://dev.to/zilliz/integrating-vector-databases-with-existing-it-infrastructure-41hc)
+- [Colorful terminals with Oh My Posh and Windows Terminal](https://dev.to/dgenezini/colorful-terminals-with-oh-my-posh-and-windows-terminal-5f0o)
 <!-- BLOG-POST-LIST:END -->
 
