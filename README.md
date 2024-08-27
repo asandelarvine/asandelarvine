@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tente isso 6 - 2: Sobrecarregue o construtor de Queue](https://dev.to/devsjavagirls/tente-isso-6-2-sobrecarregue-o-construtor-de-queue-1el1)
-- [Sobrecarregando construtores](https://dev.to/devsjavagirls/sobrecarregando-construtores-2epg)
-- [G Suite Vs. CompanionLink: Which One is The Best?](https://dev.to/companionlink-1/g-suite-vs-companionlink-which-one-is-the-best-557h)
-- [Sobrecarga de métodos](https://dev.to/devsjavagirls/sobrecarga-de-metodos-28m3)
+- [Creating a Dynamic CSS 🌐Orb with Custom Properties and Gradients &lpar;One Element&rpar;!](https://dev.to/alishata128/creating-a-dynamic-css-orb-with-custom-properties-and-gradients-one-element-43en)
+- [Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!](https://dev.to/devteam/congrats-to-the-build-better-on-stellar-smart-contract-challenge-winners-5h9m)
+- [Learn Ruby and TDD at the same time](https://dev.to/meleu/learn-ruby-and-tdd-at-the-same-time-2en1)
+- [Day7 #100days Miva challenge](https://dev.to/damilola_oyeyipo_1348716f/day7-100days-miva-challenge-fdj)
 <!-- BLOG-POST-LIST:END -->
 
