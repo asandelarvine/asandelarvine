@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is URL Phishing and How to Prevent it?](https://dev.to/clouddefenseai/what-is-url-phishing-and-how-to-prevent-it-3f34)
-- [Setting Up a Development and Debugging Environment for Your C/C++ Project with Flutter Apps](https://dev.to/andycall/setting-up-a-development-and-debugging-environment-for-your-cc-project-with-flutter-apps-234e)
-- [Automating Python Library Releases Using GitHub Actions and Commitizen](https://dev.to/markoulis/automating-python-library-releases-using-github-actions-and-commitizen-4721)
-- [How Web5 and Bluesky are Building the Next Layer of the Web](https://dev.to/tbdevs/how-web5-and-bluesky-are-building-the-next-layer-of-the-web-a-comparative-analysis-49d)
+- [go htmx and sse example](https://dev.to/blinkinglight/go-htmx-and-sse-example-55k6)
+- [JS - All about String Primitive](https://dev.to/mahf001/js-all-about-string-primitive-50bp)
+- [How to update your favicon on your website](https://dev.to/rodriveiga01/how-to-update-your-favicon-on-your-website-4k1a)
+- [Leetcode daily 2](https://dev.to/pastapicaso/leetcode-daily-2-3ne5)
 <!-- BLOG-POST-LIST:END -->
 
