@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Good vs. great Programmer 💪](https://dev.to/majdsufian/good-vs-great-programmer-4dk2)
-- [The Clojure Paradox](https://dev.to/jorgetovar/the-clojure-paradox-41ke)
-- [Flipping Switch](https://dev.to/ramphele_thamie_0654757e0/flipping-switch-6cd)
-- [How react&#39;s rendering flow works](https://dev.to/douglas_almeida_05b0db1f9/how-reacts-rendering-flow-works-57ke)
+- [Tente isso 6 - 2: Sobrecarregue o construtor de Queue](https://dev.to/devsjavagirls/tente-isso-6-2-sobrecarregue-o-construtor-de-queue-1el1)
+- [Sobrecarregando construtores](https://dev.to/devsjavagirls/sobrecarregando-construtores-2epg)
+- [G Suite Vs. CompanionLink: Which One is The Best?](https://dev.to/companionlink-1/g-suite-vs-companionlink-which-one-is-the-best-557h)
+- [Sobrecarga de métodos](https://dev.to/devsjavagirls/sobrecarga-de-metodos-28m3)
 <!-- BLOG-POST-LIST:END -->
 
