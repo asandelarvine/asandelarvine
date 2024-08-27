@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What we learned after spending 5,000 EUR on developer marketing](https://dev.to/robinmanuelthiel/what-we-learned-after-spending-5000-eur-on-developer-marketing-2lpl)
-- [AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://dev.to/buildwebcrumbs/ai-tool-is-now-supporting-react-angular-css-svelte-vue-3m0j)
-- [Tidy up your Rails code with `inquiry`](https://dev.to/railsdesigner/tidy-up-your-rails-code-with-inquiry-1jj)
-- [ERC-20 Token Standard: A basic guide on what you need to know](https://dev.to/ceasermikes002/erc-20-token-standard-a-basic-guide-on-what-you-need-to-know-2kg1)
+- [Ultimate Guide to SQL Indexes](https://dev.to/devartteam/ultimate-guide-to-sql-indexes-27dp)
+- [How My First Coding Project Gets 2,100 Visitors Every Month](https://dev.to/florianwueest/how-my-first-coding-project-gets-2100-visitors-every-month-186a)
+- [Project Status Reports](https://dev.to/brendatechprep/project-status-reports-5h17)
+- [React App Setup, Resolving Dependency Conflicts in Node.js, &amp; Debugging](https://dev.to/tobidelly/react-app-setup-resolving-dependency-conflicts-in-nodejs-debugging-3cbn)
 <!-- BLOG-POST-LIST:END -->
 
