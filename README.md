@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [go htmx and sse example](https://dev.to/blinkinglight/go-htmx-and-sse-example-55k6)
-- [JS - All about String Primitive](https://dev.to/mahf001/js-all-about-string-primitive-50bp)
-- [How to update your favicon on your website](https://dev.to/rodriveiga01/how-to-update-your-favicon-on-your-website-4k1a)
-- [Leetcode daily 2](https://dev.to/pastapicaso/leetcode-daily-2-3ne5)
+- [40 Days Of Kubernetes &lpar;4/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-440-3m61)
+- [Code Anywhere, Anytime: Discover the Power of VS Code Web](https://dev.to/mahrukh_adeel/code-anywhere-anytime-discover-the-power-of-vs-code-web-56h)
+- [You Don’t Have to Be a Victim](https://dev.to/femolacaster/you-dont-have-to-be-a-victim-4f20)
+- [Introducing the Smiley Investment Planner 1.0](https://dev.to/jcsmileyjr/introducing-the-smiley-investment-planner-10-178j)
 <!-- BLOG-POST-LIST:END -->
 
