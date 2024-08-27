@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Web Browsers Work: A Simple Guide to Loading and Displaying Web Apps](https://dev.to/biswasprasana001/how-web-browsers-work-a-simple-guide-to-loading-and-displaying-web-apps-1l54)
-- [Scanning AWS S3 Buckets for Security Vulnerabilities](https://dev.to/aviator_co/scanning-aws-s3-buckets-for-security-vulnerabilities-3ie5)
-- [Node.js vs. Express.js: Understanding the Difference and Their Roles in Web Development](https://dev.to/david_tevzadze_/nodejs-vs-expressjs-understanding-the-difference-and-their-roles-in-web-development-5d29)
-- [Getting Started with Generative AI](https://dev.to/prasad97/getting-started-with-generative-ai-26bf)
+- [How react&#39;s rendering flow works](https://dev.to/douglas_almeida_05b0db1f9/how-reacts-rendering-flow-works-57ke)
+- [Login web](https://dev.to/ramphele_thamie_0654757e0/login-web-28en)
+- [From Corel Draw to Code: My Journey as a Developer](https://dev.to/alidauda677139/from-corel-draw-to-code-my-journey-as-a-developer-5ane)
+- [Day 1 beginner code challenge @frontendmentor!](https://dev.to/dev_musty/day-1-beginner-code-challenge-frontendmentor-1hoj)
 <!-- BLOG-POST-LIST:END -->
 
