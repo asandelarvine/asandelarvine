@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Venci a Gupy](https://dev.to/kleysongomes/como-venci-a-gupy-1nbi)
-- [AIM Weekly - 26 August 2024](https://dev.to/tspannhw/aim-weekly-26-august-2024-3oli)
-- [Integrating Vector Databases with Existing IT Infrastructure](https://dev.to/zilliz/integrating-vector-databases-with-existing-it-infrastructure-41hc)
-- [Colorful terminals with Oh My Posh and Windows Terminal](https://dev.to/dgenezini/colorful-terminals-with-oh-my-posh-and-windows-terminal-5f0o)
+- [What is URL Phishing and How to Prevent it?](https://dev.to/clouddefenseai/what-is-url-phishing-and-how-to-prevent-it-3f34)
+- [Setting Up a Development and Debugging Environment for Your C/C++ Project with Flutter Apps](https://dev.to/andycall/setting-up-a-development-and-debugging-environment-for-your-cc-project-with-flutter-apps-234e)
+- [Automating Python Library Releases Using GitHub Actions and Commitizen](https://dev.to/markoulis/automating-python-library-releases-using-github-actions-and-commitizen-4721)
+- [How Web5 and Bluesky are Building the Next Layer of the Web](https://dev.to/tbdevs/how-web5-and-bluesky-are-building-the-next-layer-of-the-web-a-comparative-analysis-49d)
 <!-- BLOG-POST-LIST:END -->
 
