@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use AWS Lambda Layers 📦](https://dev.to/aws-heroes/why-you-should-use-aws-lambda-layers-1cke)
-- [AI boosted: Website builders](https://dev.to/rutrus/ai-boosted-website-builders-4gma)
-- [🚀 Building an Open-Source High-Frequency Trading Bot Using Binance Spot API](https://dev.to/avitakiyar/building-an-open-source-high-frequency-trading-bot-using-binance-spot-api-4jci)
-- [Finally](https://dev.to/mustafacam/finally-akg)
+- [100 days of Miva: Day 7](https://dev.to/abdul_web/100-days-of-miva-day-7-4bp7)
+- [Use of .js and .jsx](https://dev.to/hussain101/use-of-js-and-jsx-ekc)
+- [Building a Real-Time Collaboration App with WebRTC](https://dev.to/kartikmehta8/building-a-real-time-collaboration-app-with-webrtc-38hd)
+- [Python web3库BSC公链转账USDT](https://dev.to/dragon72463399/python-web3ku-bscgong-lian-zhuan-zhang-usdt-1d39)
 <!-- BLOG-POST-LIST:END -->
 
