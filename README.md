@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Dev YouTube Channel 2024: JS/TS, Go, and Swift/SwiftUI](https://dev.to/bmfyfz/top-dev-youtube-channel-2024-jsts-go-and-swiftswiftui-3lp5)
-- [SafeLine WAF: Step-by-Step Guide to Secure Your Web Environment](https://dev.to/lulu_liu_c90f973e2f954d7f/step-by-step-guide-to-secure-your-web-environment-safeline-waf-2cmo)
-- [Strengthening AWS Security: A Guide to Identifying, Assessing, and Protecting Your Assets 🛡️🔍](https://dev.to/noorscript/strengthening-aws-security-a-guide-to-identifying-assessing-and-protecting-your-assets-5hkn)
-- [Java, fill each row having a null value in a csv file with values in the directly previous row #eg32](https://dev.to/esproc_spl/java-fill-each-row-having-a-null-value-in-a-csv-file-with-values-in-the-directly-previous-row-eg32-4ng6)
+- [JavaScript Event Loop](https://dev.to/lakmal_asela_8be4eb30d9db/javascript-event-loop-1oed)
+- [Need Help Playing m3u8 Link in AVPlayer with AVAssetResourceLoaderDelegate](https://dev.to/jyotish_biswas/need-help-playing-m3u8-link-in-avplayer-with-avassetresourceloaderdelegate-3cbm)
+- [JavaFX Dock project](https://dev.to/mklestil/javafx-dock-project-1ibe)
+- [Exciting News: ChatGPT is Now Available for Mac Desktop!](https://dev.to/empe/exciting-news-chatgpt-is-now-available-for-mac-desktop-2jj2)
 <!-- BLOG-POST-LIST:END -->
 
