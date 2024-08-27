@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: How to Integrate Passkeys into Angular](https://dev.to/corbado/tutorial-how-to-integrate-passkeys-into-angular-493p)
-- [Variables Part-04](https://dev.to/monirulislam027/variables-part-04-22i4)
-- [JavaScript&#39;s GlobalThis: The Universal Object You Didn’t Know You Needed](https://dev.to/dipakahirav/javascripts-globalthis-the-universal-object-you-didnt-know-you-needed-26oj)
-- [AWS DMS Table failure due to freeze period in source](https://dev.to/mkarthik18/aws-dms-table-failure-due-to-freeze-period-in-source-3hb6)
+- [Shield Your Web Apps with SafeLine: The Self-Hosted WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/shield-your-web-apps-with-safeline-the-self-hosted-waf-1h91)
+- [WhiteBIT Rescues Barcelona FC, Pays Off Club’s Debt](https://dev.to/endeo/whitebit-rescues-barcelona-fc-pays-off-clubs-debt-148c)
+- [Composition in GitHub Actions](https://dev.to/kiolk/composition-in-github-actions-ehh)
+- [Protect Your Website Like a Pro: SafeLine, the Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-website-like-a-pro-safeline-the-open-source-waf-4p7c)
 <!-- BLOG-POST-LIST:END -->
 
