@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing WordPress for Faster Load Times and Improved Core Web Vitals](https://dev.to/jamesmartindev/optimizing-wordpress-for-faster-load-times-and-improved-core-web-vitals-3p72)
-- [Clean code: blessing or curse? Act I. Confrontation](https://dev.to/pvsdev/clean-code-blessing-or-curse-act-i-confrontation-594e)
-- [Understanding Async JavaScript](https://dev.to/vincod/understanding-async-javascript-2l74)
-- [Janarthanan portfolio](https://dev.to/janarthanancrypto/janarthanan-portfolio-55c5)
+- [What we learned after spending 5,000 EUR on developer marketing](https://dev.to/robinmanuelthiel/what-we-learned-after-spending-5000-eur-on-developer-marketing-2lpl)
+- [AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://dev.to/buildwebcrumbs/ai-tool-is-now-supporting-react-angular-css-svelte-vue-3m0j)
+- [Tidy up your Rails code with `inquiry`](https://dev.to/railsdesigner/tidy-up-your-rails-code-with-inquiry-1jj)
+- [ERC-20 Token Standard: A basic guide on what you need to know](https://dev.to/ceasermikes002/erc-20-token-standard-a-basic-guide-on-what-you-need-to-know-2kg1)
 <!-- BLOG-POST-LIST:END -->
 
