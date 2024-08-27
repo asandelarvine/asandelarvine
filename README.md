@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 days of Miva: Day 7](https://dev.to/abdul_web/100-days-of-miva-day-7-4bp7)
-- [Use of .js and .jsx](https://dev.to/hussain101/use-of-js-and-jsx-ekc)
-- [Building a Real-Time Collaboration App with WebRTC](https://dev.to/kartikmehta8/building-a-real-time-collaboration-app-with-webrtc-38hd)
-- [Python web3库BSC公链转账USDT](https://dev.to/dragon72463399/python-web3ku-bscgong-lian-zhuan-zhang-usdt-1d39)
+- [c++ 拼音](https://dev.to/__040711563a17902392e7/c-pin-yin-1o9)
+- [Memanfaatkan reduce, map, dan filter untuk Pengolahan Data dalam React Project](https://dev.to/saepulmalik27/memanfaatkan-reduce-map-dan-filter-untuk-pengolahan-data-dalam-react-project-5gho)
+- [story of upgrading rails 5.x to 7.x](https://dev.to/ugifractal/story-of-upgrading-rails-5x-to-7x-1hg1)
+- [letcode 1](https://dev.to/__040711563a17902392e7/letcode-1-2674)
 <!-- BLOG-POST-LIST:END -->
 
