@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Javascript :&rpar;](https://dev.to/madgan95/introduction-to-javascript--8oi)
-- [⚡ MySecondApp - React Native with Expo &lpar;P23&rpar; - Layout My Account](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p23-layout-my-account-46cb)
-- [Supercharge Your Rails Development: A Deep Dive into Vite-Rails and React Integration](https://dev.to/palhimalaya/supercharge-your-rails-development-a-deep-dive-into-vite-rails-and-react-integration-l9d)
-- [future](https://dev.to/__040711563a17902392e7/future-dpj)
+- [Finding Maximum Profit in Item Sales Based on Categories and Prices](https://dev.to/rk042/finding-maximum-profit-in-item-sales-based-on-categories-and-prices-3bn1)
+- [Mastering TanStack Query: A Comprehensive Guide to Efficient Data Fetching in React](https://dev.to/samuel_kinuthia/mastering-tanstack-query-a-comprehensive-guide-to-efficient-data-fetching-in-react-508p)
+- [GBase 8a MPP Cluster Supported Data Types](https://dev.to/congcong/gbase-8a-mpp-cluster-supported-data-types-4f05)
+- [Creating a Bakery Website using CursorAI in 3 minutes](https://dev.to/thekarlesi/creating-a-bakery-website-using-cursorai-in-3-minutes-1mk4)
 <!-- BLOG-POST-LIST:END -->
 
