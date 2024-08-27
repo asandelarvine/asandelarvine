@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Import in Neo4j](https://dev.to/kanugorajat/mastering-data-import-in-neo4j-m17)
-- [GitOps Adoption: A Simple Guide to Modern Cloud Management](https://dev.to/sujal_dua/gitops-adoption-a-simple-guide-to-modern-cloud-management-nai)
-- [How to Start a Developer Community From Scratch &lpar;Even on a Shoestring Budget&rpar;](https://dev.to/rakeshdoc-e/how-to-start-a-developer-community-from-scratch-even-on-a-shoestring-budget-2ep)
-- [What is sampling?](https://dev.to/zain725342/what-is-sampling-5d1h)
+- [Tutorial: How to Integrate Passkeys into Angular](https://dev.to/corbado/tutorial-how-to-integrate-passkeys-into-angular-493p)
+- [Variables Part-04](https://dev.to/monirulislam027/variables-part-04-22i4)
+- [JavaScript&#39;s GlobalThis: The Universal Object You Didn’t Know You Needed](https://dev.to/dipakahirav/javascripts-globalthis-the-universal-object-you-didnt-know-you-needed-26oj)
+- [AWS DMS Table failure due to freeze period in source](https://dev.to/mkarthik18/aws-dms-table-failure-due-to-freeze-period-in-source-3hb6)
 <!-- BLOG-POST-LIST:END -->
 
