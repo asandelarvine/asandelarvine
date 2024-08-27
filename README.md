@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make money ideas for developers](https://dev.to/tien_ho/make-money-ideas-for-developers-29gj)
-- [&quot;Master these 11 Web APIs - Essential Knowledge for Every Developer!&quot;](https://dev.to/abbaskherani/master-these-11-web-apis-essential-knowledge-for-every-developer-3i2b)
-- [জাভাস্ক্রিপ্ট DOM &lpar;ডকুমেন্ট অবজেক্ট মডেল&rpar;](https://dev.to/mdronyahmed/jaabhaaskriptt-dom-ddkumentt-abjektt-mddel-4o2f)
-- [Building a Real-Time System Monitoring Dashboard with Bash](https://dev.to/pratik_nalawade/building-a-real-time-system-monitoring-dashboard-with-bash-5d98)
+- [An A-to-Z Guide to BVN Verification: What to Know and How to Integrate](https://dev.to/flutterwaveeng/an-a-to-z-guide-to-bvn-verification-what-to-know-and-how-to-integrate-2op5)
+- [10 Best QA Testing Tools Every Developer Should Know](https://dev.to/apilover/10-best-development-qa-testing-tools-every-developer-should-know-28mb)
+- [Type or Interface? When to Use Each and Why](https://dev.to/paulocappa/type-or-interface-when-to-use-each-and-why-lcb)
+- [The Dynamic Trio: React, Redux Toolkit, and Redux Saga 🚀](https://dev.to/anujrajak/the-dynamic-trio-react-redux-toolkit-and-redux-saga-4mj2)
 <!-- BLOG-POST-LIST:END -->
 
