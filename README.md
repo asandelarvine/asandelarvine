@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Maximum Profit in Item Sales Based on Categories and Prices](https://dev.to/rk042/finding-maximum-profit-in-item-sales-based-on-categories-and-prices-3bn1)
-- [Mastering TanStack Query: A Comprehensive Guide to Efficient Data Fetching in React](https://dev.to/samuel_kinuthia/mastering-tanstack-query-a-comprehensive-guide-to-efficient-data-fetching-in-react-508p)
-- [GBase 8a MPP Cluster Supported Data Types](https://dev.to/congcong/gbase-8a-mpp-cluster-supported-data-types-4f05)
-- [Creating a Bakery Website using CursorAI in 3 minutes](https://dev.to/thekarlesi/creating-a-bakery-website-using-cursorai-in-3-minutes-1mk4)
+- [Mastering Data Import in Neo4j](https://dev.to/kanugorajat/mastering-data-import-in-neo4j-m17)
+- [GitOps Adoption: A Simple Guide to Modern Cloud Management](https://dev.to/sujal_dua/gitops-adoption-a-simple-guide-to-modern-cloud-management-nai)
+- [How to Start a Developer Community From Scratch &lpar;Even on a Shoestring Budget&rpar;](https://dev.to/rakeshdoc-e/how-to-start-a-developer-community-from-scratch-even-on-a-shoestring-budget-2ep)
+- [What is sampling?](https://dev.to/zain725342/what-is-sampling-5d1h)
 <!-- BLOG-POST-LIST:END -->
 
