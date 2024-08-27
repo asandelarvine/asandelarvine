@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [c++ 拼音](https://dev.to/__040711563a17902392e7/c-pin-yin-1o9)
-- [Memanfaatkan reduce, map, dan filter untuk Pengolahan Data dalam React Project](https://dev.to/saepulmalik27/memanfaatkan-reduce-map-dan-filter-untuk-pengolahan-data-dalam-react-project-5gho)
-- [story of upgrading rails 5.x to 7.x](https://dev.to/ugifractal/story-of-upgrading-rails-5x-to-7x-1hg1)
-- [letcode 1](https://dev.to/__040711563a17902392e7/letcode-1-2674)
+- [Introduction to Javascript :&rpar;](https://dev.to/madgan95/introduction-to-javascript--8oi)
+- [⚡ MySecondApp - React Native with Expo &lpar;P23&rpar; - Layout My Account](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p23-layout-my-account-46cb)
+- [Supercharge Your Rails Development: A Deep Dive into Vite-Rails and React Integration](https://dev.to/palhimalaya/supercharge-your-rails-development-a-deep-dive-into-vite-rails-and-react-integration-l9d)
+- [future](https://dev.to/__040711563a17902392e7/future-dpj)
 <!-- BLOG-POST-LIST:END -->
 
