@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Good vs. great Programmer 💪](https://dev.to/majdsufian/good-vs-great-programmer-4dk2)
+- [The Clojure Paradox](https://dev.to/jorgetovar/the-clojure-paradox-41ke)
+- [Flipping Switch](https://dev.to/ramphele_thamie_0654757e0/flipping-switch-6cd)
 - [How react&#39;s rendering flow works](https://dev.to/douglas_almeida_05b0db1f9/how-reacts-rendering-flow-works-57ke)
-- [Login web](https://dev.to/ramphele_thamie_0654757e0/login-web-28en)
-- [From Corel Draw to Code: My Journey as a Developer](https://dev.to/alidauda677139/from-corel-draw-to-code-my-journey-as-a-developer-5ane)
-- [Day 1 beginner code challenge @frontendmentor!](https://dev.to/dev_musty/day-1-beginner-code-challenge-frontendmentor-1hoj)
 <!-- BLOG-POST-LIST:END -->
 
