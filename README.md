@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AngularJS in 2024: Key Updates, Trends, and Community Insights](https://dev.to/snapnews-local/angularjs-in-2024-key-updates-trends-and-community-insights-1jo8)
-- [OAuth 2 for SWEs working on AuthZ systems](https://dev.to/zhiyuanamos/oauth-2-for-swes-working-on-authz-systems-379c)
-- [Meeting my personal writing goals](https://dev.to/andypiper/writing-goals-3p2a)
-- [A Beginner&#39;s Guide to Object-Oriented Programming in Python](https://dev.to/nellybii/a-beginners-guide-to-object-oriented-programming-in-python-3ji)
+- [🧠 How I integrated an AI copilot into Dub.co 🤖🚀](https://dev.to/copilotkit/how-i-integrated-an-ai-copilot-into-dubco-3lkj)
+- [MVC in Frontend is Dead](https://dev.to/daelmaak/mvc-in-frontend-is-dead-19ff)
+- [Exploring the Different Types of PostgreSQL Table Partitioning](https://dev.to/matthewlafalce/exploring-the-different-types-of-postgresql-table-partitioning-4hln)
+- [React Hooks](https://dev.to/vincod/react-hooks-51l)
 <!-- BLOG-POST-LIST:END -->
 
