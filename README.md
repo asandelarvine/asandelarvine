@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API design practices for Java](https://dev.to/ibmdeveloper/api-design-practices-for-java-4ih)
-- [Renewing Our Commitment: Empowering Women with ADHD in Tech Introduction](https://dev.to/techtobe101/renewing-our-commitment-empowering-women-with-adhd-in-tech-introduction-30dk)
-- [Security Groups &amp; Network ACLs](https://dev.to/clintt/security-groups-network-acls-k29)
-- [Next.js createPage helper with loader pattern](https://dev.to/eelcowiersma/nextjs-createpage-helper-with-loader-pattern-3kb2)
+- [Singleton Pattern, Backend State management and Pub Subs](https://dev.to/jay818/singleton-pattern-backend-state-management-and-pub-subs-44kp)
+- [Bash Shell Scripting: The Basics](https://dev.to/dev_frank/bash-shell-scripting-the-basics-1o5b)
+- [designing the skeleton](https://dev.to/3obby/designing-the-skeleton-3lmo)
+- [Introducing the Ultimate Resource for Marketers: The Awesome Marketing Tools List](https://dev.to/stan8086/introducing-the-ultimate-resource-for-marketers-the-awesome-marketing-tools-list-17jf)
 <!-- BLOG-POST-LIST:END -->
 
