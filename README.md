@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A new way to create desktop applications: Tauri + React](https://dev.to/manascodes13/a-new-way-to-create-desktop-applications-tauri-react-59bp)
-- [What is the Shared Responsibility Model?](https://dev.to/shivamchamoli18/what-is-the-shared-responsibility-model-50fd)
-- [Make WYSIWYG HTML Editors Work for You](https://dev.to/ideradevtools/make-wysiwyg-html-editors-work-for-you-d06)
-- [DevOps Shack: Multi-Cluster CI/CD DevOps Project 🌟](https://dev.to/swapi123/devops-shack-multi-cluster-cicd-devops-project-3llf)
+- [AngularJS in 2024: Key Updates, Trends, and Community Insights](https://dev.to/snapnews-local/angularjs-in-2024-key-updates-trends-and-community-insights-1jo8)
+- [OAuth 2 for SWEs working on AuthZ systems](https://dev.to/zhiyuanamos/oauth-2-for-swes-working-on-authz-systems-379c)
+- [Meeting my personal writing goals](https://dev.to/andypiper/writing-goals-3p2a)
+- [A Beginner&#39;s Guide to Object-Oriented Programming in Python](https://dev.to/nellybii/a-beginners-guide-to-object-oriented-programming-in-python-3ji)
 <!-- BLOG-POST-LIST:END -->
 
