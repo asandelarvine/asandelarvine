@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A quick overview of Bun&#39;s basic features and a comparison with Node.js.](https://dev.to/kostyatretyak/a-quick-overview-of-buns-basic-features-and-a-comparison-with-nodejs-3o1a)
-- [Taskwarrior: The Command-Line Task Manager for Power Users](https://dev.to/stan8086/taskwarrior-the-command-line-task-manager-for-power-users-40ij)
-- [Redux vs. Context.Provider: Choosing State Management in React Applications](https://dev.to/dosht/redux-vs-contextprovider-choosing-state-management-in-react-applications-6bm)
-- [Using asyncio.create_task&lpar;&rpar;](https://dev.to/zeyrarararara/using-asynciocreatetask-4511)
+- [What is Redux, and how can we use it?](https://dev.to/drlaravel/what-is-redux-and-how-can-we-use-it-51m3)
+- [Node.js Uncovered: The Truth Behind Its Single-Threaded Magic and How It Powers High-Performance Apps](https://dev.to/coder_x/nodejs-uncovered-the-truth-behind-its-single-threaded-magic-and-how-it-powers-high-performance-apps-m76)
+- [Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪](https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666)
+- [Neon T3 Starter Kit: Supercharging Web Development with Serverless Postgres](https://dev.to/chiragagg5k/neon-t3-starter-kit-supercharging-web-development-with-serverless-postgres-13fg)
 <!-- BLOG-POST-LIST:END -->
 
