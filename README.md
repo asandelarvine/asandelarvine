@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Organic Traffic Recovery: How to Win SERPs and Influence Execs](https://dev.to/daedtech/organic-traffic-recovery-how-to-win-serps-and-influence-execs-1ecm)
-- [Leetcode: minEatingSpeed](https://dev.to/jennthecoder/leetcode-mineatingspeed-1j97)
-- [Tutorial how to use node js until displays &quot;Hello World&quot;](https://dev.to/ghifaris/tutorial-how-to-use-node-js-until-displays-hello-world-54g8)
-- [lista](https://dev.to/gabriel_guiuber/lista-3ejk)
+- [ZSH with Starship](https://dev.to/bachhuynh/zsh-with-starship-do2)
+- [Mastering PHP and MySQL: An Extensive Guide for Modern Developers](https://dev.to/hanzla-mirza/mastering-php-and-mysql-an-extensive-guide-for-modern-developers-1opi)
+- [Databases-Database Type, SQL Use Cases](https://dev.to/olaniyi_akinkunmi_9c3038f/databases-database-type-sql-use-cases-1i5e)
+- [Unlocking the Power of ChatGPT: Redefining Human-AI Interaction in Digital Age](https://dev.to/hanzla-mirza/unlocking-the-power-of-chatgpt-redefining-human-ai-interaction-in-digital-age-1a8g)
 <!-- BLOG-POST-LIST:END -->
 
