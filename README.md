@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 HTML Elements You Should Know in 2024](https://dev.to/techalgospotlight/top-15-html-elements-you-should-know-in-2024-c97)
-- [PySpark optimization techniques](https://dev.to/rado_mayank/pyspark-optimization-techniques-56l0)
-- [Building a Semantic Kernel with F# for Enhanced AI Interaction](https://dev.to/rockfire/building-a-semantic-kernel-with-f-for-enhanced-ai-interaction-302m)
-- [Thunderbird Council, #ChatControl, and me.](https://dev.to/bogomil/thunderbird-council-chatcontrol-and-me-3374)
+- [Introduction to GBase 8c Performance Tuning Based on the TPCH Model](https://dev.to/congcong/introduction-to-gbase-8c-performance-tuning-based-on-the-tpch-model-1k1j)
+- [Best Cyber Security Certifications for Cloud Security Experts](https://dev.to/cyber_securitycerts_50fa/best-cyber-security-certifications-for-cloud-security-experts-3hb2)
+- [ReadMe File](https://dev.to/awalhossain/readme-file-2h3e)
+- [Real-World Attack Testing with SafeLine: A Guide to Dynamic Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/real-world-attack-testing-with-safeline-a-guide-to-dynamic-protection-2j5)
 <!-- BLOG-POST-LIST:END -->
 
