@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Color palette in branding: How Logto generate a custom color scheme for your brand](https://dev.to/logto/color-palette-in-branding-how-logto-generate-a-custom-color-scheme-for-your-brand-404j)
-- [Tutorial untuk menampilkan &quot;Hello Word&quot; menggunakan node.js](https://dev.to/hafid_karim_457853ed77ba9/tutorial-untuk-menampilkan-hello-word-menggunakan-nodejs-4gea)
-- [SQL 50 FROM Leetcode](https://dev.to/caresle/sql-50-from-leetcode-26hj)
-- [Introduction to Docker Swarm](https://dev.to/kartikmehta8/introduction-to-docker-swarm-lgm)
+- [Organic Traffic Recovery: How to Win SERPs and Influence Execs](https://dev.to/daedtech/organic-traffic-recovery-how-to-win-serps-and-influence-execs-1ecm)
+- [Leetcode: minEatingSpeed](https://dev.to/jennthecoder/leetcode-mineatingspeed-1j97)
+- [Tutorial how to use node js until displays &quot;Hello World&quot;](https://dev.to/ghifaris/tutorial-how-to-use-node-js-until-displays-hello-world-54g8)
+- [lista](https://dev.to/gabriel_guiuber/lista-3ejk)
 <!-- BLOG-POST-LIST:END -->
 
