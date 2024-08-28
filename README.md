@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎂 My 2^6 months retro at OPT-NC](https://dev.to/adriens/my-26-months-retro-at-opt-nc-pk2)
-- [Understanding Promises | Javascript - 1](https://dev.to/deepak_kumar_f89e83f79b15/understanding-promises-javascript-1-1ha6)
-- [Fast, Predictable &amp; Self-hosted AI Code Completion](https://dev.to/sp90/fast-predictable-self-hosted-ai-code-completion-1f4d)
-- [Understanding the basics of launching a web product](https://dev.to/wdp/understanding-the-basics-of-launching-a-web-product-40h3)
+- [Applied Data Science on data breaches + Bonus](https://dev.to/yowise/applied-data-science-on-data-breaches-bonus-3b8m)
+- [Set an awesome terminal in MacOS](https://dev.to/arielmejiadev/set-an-awesome-terminal-in-macos-14g6)
+- [Mind-Map for REACT.JS:](https://dev.to/bhu_101/mind-map-for-reactjs-2ad9)
+- [Python Interview Question - Beginner to Advance](https://dev.to/jasper475/python-interview-question-beginner-to-advance-1omp)
 <!-- BLOG-POST-LIST:END -->
 
