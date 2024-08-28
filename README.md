@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Your Website Effortlessly: The Community-Driven WAF Solution](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-effortlessly-the-community-driven-waf-solution-54op)
-- [Currying in JavaScript সম্পর্কে বিস্তারিত আলোচনা](https://dev.to/rsmacademybd/currying-in-javascript-smprke-bistaarit-aalocnaa-3el7)
-- [10-Day .Net Aspire Challenge: Day 1 — Introduction](https://dev.to/ssukhpinder/10-day-net-aspire-challenge-day-1-introduction-33n6)
-- [How to Run Flux 1 Schnell and Pro Image Generator in the Cloud](https://dev.to/nodeshiftcloud/how-to-run-flux-1-schnell-and-pro-image-generator-in-the-cloud-4d7h)
+- [A new way to create desktop applications: Tauri + React](https://dev.to/manascodes13/a-new-way-to-create-desktop-applications-tauri-react-59bp)
+- [What is the Shared Responsibility Model?](https://dev.to/shivamchamoli18/what-is-the-shared-responsibility-model-50fd)
+- [Make WYSIWYG HTML Editors Work for You](https://dev.to/ideradevtools/make-wysiwyg-html-editors-work-for-you-d06)
+- [DevOps Shack: Multi-Cluster CI/CD DevOps Project 🌟](https://dev.to/swapi123/devops-shack-multi-cluster-cicd-devops-project-3llf)
 <!-- BLOG-POST-LIST:END -->
 
