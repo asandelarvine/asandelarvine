@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducción a la resiliencia en aplicaciones cloud nativas](https://dev.to/diek/introduccion-a-la-resiliencia-en-aplicaciones-cloud-nativas-4658)
-- [Realtime Chart with Supabase and Tremor](https://dev.to/shiwaforce/realtime-chart-with-supabase-and-tremor-3960)
-- [Deploying SafeLine WAF on CentOS 7 with Docker](https://dev.to/lulu_liu_c90f973e2f954d7f/deploying-safeline-waf-on-centos-7-with-docker-42ci)
-- [Programming Guide 2024](https://dev.to/sorenblank/programming-guide-2024-50ma)
+- [Secure Your Website Effortlessly: The Community-Driven WAF Solution](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-effortlessly-the-community-driven-waf-solution-54op)
+- [Currying in JavaScript সম্পর্কে বিস্তারিত আলোচনা](https://dev.to/rsmacademybd/currying-in-javascript-smprke-bistaarit-aalocnaa-3el7)
+- [10-Day .Net Aspire Challenge: Day 1 — Introduction](https://dev.to/ssukhpinder/10-day-net-aspire-challenge-day-1-introduction-33n6)
+- [How to Run Flux 1 Schnell and Pro Image Generator in the Cloud](https://dev.to/nodeshiftcloud/how-to-run-flux-1-schnell-and-pro-image-generator-in-the-cloud-4d7h)
 <!-- BLOG-POST-LIST:END -->
 
