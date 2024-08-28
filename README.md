@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Cloud: How On-Device AI Could Rescue Our Privacy!?](https://dev.to/ooye_sanket/beyond-the-cloud-how-on-device-ai-could-rescue-our-privacy-4abk)
-- [Decoding Cloud Computing](https://dev.to/sab93/decoding-cloud-computing-5cl9)
-- [Mastering Loading Spinners in React 19 Forms Without useState](https://dev.to/abhay1kumar/mastering-loading-spinners-in-react-19-forms-without-usestate-56b2)
-- [Aplicando o Open/Closed Principle com Typescript e Java](https://dev.to/victorlima142/aplicando-o-openclosed-principle-com-typescript-e-java-4o2h)
+- [Material TailWind - combining Material Design and Tailwind CSS](https://dev.to/codeparrot/material-tailwind-combining-material-design-and-tailwind-css-15ff)
+- [Callbacks, Callback Hell, Promises, Async/Await](https://dev.to/jenil/callbacks-callback-hell-promises-asyncawait-5f48)
+- [Django Tailwind](https://dev.to/wsvincent/django-tailwind-i59)
+- [Django UserProfile Model](https://dev.to/wsvincent/django-userprofile-model-knd)
 <!-- BLOG-POST-LIST:END -->
 
