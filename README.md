@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Material TailWind - combining Material Design and Tailwind CSS](https://dev.to/codeparrot/material-tailwind-combining-material-design-and-tailwind-css-15ff)
-- [Callbacks, Callback Hell, Promises, Async/Await](https://dev.to/jenil/callbacks-callback-hell-promises-asyncawait-5f48)
-- [Django Tailwind](https://dev.to/wsvincent/django-tailwind-i59)
-- [Django UserProfile Model](https://dev.to/wsvincent/django-userprofile-model-knd)
+- [Top 10 Infrastructure as Code Tools](https://dev.to/yayabobi/top-10-infrastructure-as-code-tools-1963)
+- [10 Must-Know JavaScript ES13 Features for Modern Development](https://dev.to/mdawooddev/10-must-know-javascript-es13-features-for-modern-development-3go3)
+- [How to Organize Better with TS Interfaces](https://dev.to/shagun_mistry/how-to-organize-better-with-ts-interfaces-127k)
+- [High or Low Card Game](https://dev.to/erza_kaneki/high-or-low-card-game-1kib)
 <!-- BLOG-POST-LIST:END -->
 
