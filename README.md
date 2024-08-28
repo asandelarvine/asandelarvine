@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ZSH with Starship](https://dev.to/bachhuynh/zsh-with-starship-do2)
-- [Mastering PHP and MySQL: An Extensive Guide for Modern Developers](https://dev.to/hanzla-mirza/mastering-php-and-mysql-an-extensive-guide-for-modern-developers-1opi)
-- [Databases-Database Type, SQL Use Cases](https://dev.to/olaniyi_akinkunmi_9c3038f/databases-database-type-sql-use-cases-1i5e)
-- [Unlocking the Power of ChatGPT: Redefining Human-AI Interaction in Digital Age](https://dev.to/hanzla-mirza/unlocking-the-power-of-chatgpt-redefining-human-ai-interaction-in-digital-age-1a8g)
+- [Welcome Thread - v291](https://dev.to/devteam/welcome-thread-v291-1fmj)
+- [Server-Side Rendering vs Static Site Generation: Choosing the Right Approach for Your Next.js Project 🚀](https://dev.to/shahharsh/server-side-rendering-vs-static-site-generation-choosing-the-right-approach-for-your-nextjs-project-39op)
+- [Neon OSS Kit: Ship your Next.js apps faster than ever!](https://dev.to/rohittcodes/neon-oss-kit-ship-your-nextjs-apps-faster-than-ever-4n7f)
+- [Scalability](https://dev.to/sonu_sharma/scalability-3pl4)
 <!-- BLOG-POST-LIST:END -->
 
