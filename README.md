@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to GBase 8c Performance Tuning Based on the TPCH Model](https://dev.to/congcong/introduction-to-gbase-8c-performance-tuning-based-on-the-tpch-model-1k1j)
-- [Best Cyber Security Certifications for Cloud Security Experts](https://dev.to/cyber_securitycerts_50fa/best-cyber-security-certifications-for-cloud-security-experts-3hb2)
-- [ReadMe File](https://dev.to/awalhossain/readme-file-2h3e)
-- [Real-World Attack Testing with SafeLine: A Guide to Dynamic Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/real-world-attack-testing-with-safeline-a-guide-to-dynamic-protection-2j5)
+- [Introducción a la resiliencia en aplicaciones cloud nativas](https://dev.to/diek/introduccion-a-la-resiliencia-en-aplicaciones-cloud-nativas-4658)
+- [Realtime Chart with Supabase and Tremor](https://dev.to/shiwaforce/realtime-chart-with-supabase-and-tremor-3960)
+- [Deploying SafeLine WAF on CentOS 7 with Docker](https://dev.to/lulu_liu_c90f973e2f954d7f/deploying-safeline-waf-on-centos-7-with-docker-42ci)
+- [Programming Guide 2024](https://dev.to/sorenblank/programming-guide-2024-50ma)
 <!-- BLOG-POST-LIST:END -->
 
