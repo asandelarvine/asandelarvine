@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Redux, and how can we use it?](https://dev.to/drlaravel/what-is-redux-and-how-can-we-use-it-51m3)
-- [Node.js Uncovered: The Truth Behind Its Single-Threaded Magic and How It Powers High-Performance Apps](https://dev.to/coder_x/nodejs-uncovered-the-truth-behind-its-single-threaded-magic-and-how-it-powers-high-performance-apps-m76)
-- [Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪](https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666)
-- [Neon T3 Starter Kit: Supercharging Web Development with Serverless Postgres](https://dev.to/chiragagg5k/neon-t3-starter-kit-supercharging-web-development-with-serverless-postgres-13fg)
+- [Top 15 HTML Elements You Should Know in 2024](https://dev.to/techalgospotlight/top-15-html-elements-you-should-know-in-2024-c97)
+- [PySpark optimization techniques](https://dev.to/rado_mayank/pyspark-optimization-techniques-56l0)
+- [Building a Semantic Kernel with F# for Enhanced AI Interaction](https://dev.to/rockfire/building-a-semantic-kernel-with-f-for-enhanced-ai-interaction-302m)
+- [Thunderbird Council, #ChatControl, and me.](https://dev.to/bogomil/thunderbird-council-chatcontrol-and-me-3374)
 <!-- BLOG-POST-LIST:END -->
 
