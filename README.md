@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dynamic CSS 🌐Orb with Custom Properties and Gradients &lpar;One Element&rpar;!](https://dev.to/alishata128/creating-a-dynamic-css-orb-with-custom-properties-and-gradients-one-element-43en)
-- [Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!](https://dev.to/devteam/congrats-to-the-build-better-on-stellar-smart-contract-challenge-winners-5h9m)
-- [Learn Ruby and TDD at the same time](https://dev.to/meleu/learn-ruby-and-tdd-at-the-same-time-2en1)
-- [Day7 #100days Miva challenge](https://dev.to/damilola_oyeyipo_1348716f/day7-100days-miva-challenge-fdj)
+- [Color palette in branding: How Logto generate a custom color scheme for your brand](https://dev.to/logto/color-palette-in-branding-how-logto-generate-a-custom-color-scheme-for-your-brand-404j)
+- [Tutorial untuk menampilkan &quot;Hello Word&quot; menggunakan node.js](https://dev.to/hafid_karim_457853ed77ba9/tutorial-untuk-menampilkan-hello-word-menggunakan-nodejs-4gea)
+- [SQL 50 FROM Leetcode](https://dev.to/caresle/sql-50-from-leetcode-26hj)
+- [Introduction to Docker Swarm](https://dev.to/kartikmehta8/introduction-to-docker-swarm-lgm)
 <!-- BLOG-POST-LIST:END -->
 
