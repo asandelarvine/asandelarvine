@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It Safe to Do Online Banking on an Unsecured Network?](https://dev.to/johnethan372023/is-it-safe-to-do-online-banking-on-an-unsecured-network-4kh4)
-- [Which Linux command are you?](https://dev.to/ispmanager/which-linux-command-are-you-54gc)
-- [Salesforce Developer Tools - A Complete Overview](https://dev.to/edenwheeler/salesforce-developer-tools-a-complete-overview-11l2)
-- [IAM for Amazon ECS on AWS Fargate](https://dev.to/aws-builders/iam-for-amazon-ecs-on-aws-fargate-2bk8)
+- [How Websites Work &lpar;A Simple Guide to HTTP&rpar;](https://dev.to/codewithshahan/how-websites-work-a-simple-guide-to-http-3dnd)
+- [This is all about promo codes for sonic](https://dev.to/lorabrown3215/this-is-all-about-promo-codes-for-sonic-4en3)
+- [Test Staging Consent Management Platforms &lpar;CMP&rpar; Scripts on Production](https://dev.to/requestlyio/test-staging-consent-management-platforms-cmp-scripts-on-production-21gb)
+- [PostgREST 12.2: Prometheus metrics](https://dev.to/supabase/postgrest-122-prometheus-metrics-13cm)
 <!-- BLOG-POST-LIST:END -->
 
