@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life](https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb)
-- [Voxel51 is Hiring Computer Vision Evangelists!](https://dev.to/voxel51/voxel51-is-hiring-computer-vision-evangelists-2l96)
-- [Code Smell 266 - Collection Aliasing](https://dev.to/mcsee/code-smell-266-collection-aliasing-58an)
-- [#54 - Combine Cell Values of Every 3 Rows under Each Column into One Cell](https://dev.to/judith677/54-combine-cell-values-of-every-3-rows-under-each-column-into-one-cell-1ode)
+- [CAP Theorem](https://dev.to/sonu_sharma/cap-theorem-11kp)
+- [AlphaFold: Hacia Posibilidades Infinitas y el Próximo Paso en la Evolución Humana](https://dev.to/macaoblog/alphafold-hacia-posibilidades-infinitas-y-el-proximo-paso-en-la-evolucion-humana-f1e)
+- [Absolutely Best Free Tools for Web Developers](https://dev.to/angelaswift/absolutely-best-free-tools-for-web-developers-4hm4)
+- [Supercharge Your Frontend Skills: 8 Must-Have Tools for Developers in 2024 🚀](https://dev.to/gadekar_sachin/supercharge-your-frontend-skills-8-must-have-tools-for-developers-in-2024-2jpd)
 <!-- BLOG-POST-LIST:END -->
 
