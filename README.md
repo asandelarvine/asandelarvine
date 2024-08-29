@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Websites Work &lpar;A Simple Guide to HTTP&rpar;](https://dev.to/codewithshahan/how-websites-work-a-simple-guide-to-http-3dnd)
-- [This is all about promo codes for sonic](https://dev.to/lorabrown3215/this-is-all-about-promo-codes-for-sonic-4en3)
-- [Test Staging Consent Management Platforms &lpar;CMP&rpar; Scripts on Production](https://dev.to/requestlyio/test-staging-consent-management-platforms-cmp-scripts-on-production-21gb)
-- [PostgREST 12.2: Prometheus metrics](https://dev.to/supabase/postgrest-122-prometheus-metrics-13cm)
+- [How Generative and Traditional AI Improve Revenue Cycle Management: AI&#39;s Role in RCM](https://dev.to/velanhcs/how-generative-and-traditional-ai-improve-revenue-cycle-management-ais-role-in-rcm-2cff)
+- [JavaScript Performance Optimization Techniques](https://dev.to/bizmaven-devworld-organization/javascript-performance-optimization-techniques-1026)
+- [Accelerating Business Growth with a Platform Engineering Team](https://dev.to/pablos4nt0s/accelerating-business-growth-with-a-platform-engineering-team-562e)
+- [Top 5 Things You Should Know About Spark](https://dev.to/sudo_pradip/top-5-things-you-should-know-about-spark-4kg3)
 <!-- BLOG-POST-LIST:END -->
 
