@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your API ACTUALLY Ready for User Traffic?](https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2)
-- [Robotic Process Automation &lpar;RPA&rpar; Testing: Strategies for Effective Automation Testing](https://dev.to/salman_butt/robotic-process-automation-rpa-testing-strategies-for-effective-automation-testing-4090)
-- [Single and Multi-Threaded Programming with Concurrency and Parallelism - Explain The Differences and Concepts](https://dev.to/a_greynoon/single-and-multi-threaded-programming-with-concurrency-and-parallelism-explain-the-differences-and-concepts-3eec)
-- [Is AI the Future of Code Editing? Let&#39;s Talk Cursor AI!](https://dev.to/sarthaksavvy/is-ai-the-future-of-code-editing-lets-talk-cursor-ai-4anp)
+- [Continue in C#: Tutorial + Examples](https://dev.to/bytehide/continue-in-c-tutorial-examples-21k9)
+- [You Can Use AI In Technical Writing! Here&#39;s how:](https://dev.to/dumebii/you-can-use-ai-in-technical-writing-heres-how-48e5)
+- [The best static site generators in 2024🚀🔥](https://dev.to/iarchitsharma/the-best-static-site-generators-in-2024-dc7)
+- [Top 20 API Development Tools for Back-end Developers](https://dev.to/apilover/top-20-api-development-tools-for-back-end-developers-26pk)
 <!-- BLOG-POST-LIST:END -->
 
