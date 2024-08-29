@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why It&#39;s Time to Ditch useState and Upgrade to useEasyState!](https://dev.to/middleware/why-its-time-to-ditch-usestate-and-upgrade-to-useeasystate-5c7j)
-- [Fortify Your Network with Optimal IPTables Rules for Cybersecurity](https://dev.to/pietrocavaliere/fortify-your-network-with-optimal-iptables-rules-for-cybersecurity-3535)
-- [Diary of a Software Developer #4 - The Long and Winding Data Trail](https://dev.to/antoniodev/diary-of-a-software-developer-4-the-long-and-winding-data-trail-2llp)
-- [Why Devs Love Open Source KitOps–Tales from the ML Trenches](https://dev.to/kitops/why-devs-love-open-source-kitops-tales-from-the-ml-trenches-23pa)
+- [Using Existing GPG Key to Sign Git Commits](https://dev.to/codedir/using-existing-gpg-key-to-sign-git-commits-5181)
+- [Debugging Your Resume: Key Fixes Software Engineers are Making in 2024](https://dev.to/recruiter-emily/debugging-your-resume-key-fixes-software-engineers-are-making-in-2024-53g2)
+- [&quot;DevFest Prayagraj: A Day of Tech, Learning, and Community&quot;](https://dev.to/avadakedavara0/devfest-prayagraj-a-day-of-tech-learning-and-community-1fn9)
+- [Is CSP Actually Helping with Your Security? 🤔](https://dev.to/middleware/is-csp-actually-helping-with-your-security-4gbm)
 <!-- BLOG-POST-LIST:END -->
 
