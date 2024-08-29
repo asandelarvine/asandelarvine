@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compare two csv files #eg34](https://dev.to/esproc_spl/compare-two-csv-files-eg34-39o8)
-- [An Introduction to GoMock: Mocking in Go](https://dev.to/keploy/an-introduction-to-gomock-mocking-in-go-2ljd)
-- [Essential SQL Commands for Efficient Database Management](https://dev.to/dbvismarketing/essential-sql-commands-for-efficient-database-management-3lb7)
-- [What are generics in typescript - why use them, how do they work with code examples](https://dev.to/codeparrot/what-are-generics-in-typescript-why-use-them-how-do-they-work-with-code-examples-4hl1)
+- [Is Your API ACTUALLY Ready for User Traffic?](https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2)
+- [Robotic Process Automation &lpar;RPA&rpar; Testing: Strategies for Effective Automation Testing](https://dev.to/salman_butt/robotic-process-automation-rpa-testing-strategies-for-effective-automation-testing-4090)
+- [Single and Multi-Threaded Programming with Concurrency and Parallelism - Explain The Differences and Concepts](https://dev.to/a_greynoon/single-and-multi-threaded-programming-with-concurrency-and-parallelism-explain-the-differences-and-concepts-3eec)
+- [Is AI the Future of Code Editing? Let&#39;s Talk Cursor AI!](https://dev.to/sarthaksavvy/is-ai-the-future-of-code-editing-lets-talk-cursor-ai-4anp)
 <!-- BLOG-POST-LIST:END -->
 
