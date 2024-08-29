@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [18 Essential Developer Tools that Will Improve the Way You Work 🚀🔥](https://dev.to/madza/18-essential-developer-tools-that-will-improve-the-way-you-work-2cdn)
-- [Launch a Turbo Modal with URL Params Using Stimulus](https://dev.to/railsdesigner/launch-a-turbo-modal-with-url-params-using-stimulus-143l)
-- [how to write test cases for repositories method that was connected to sql server using dapper.](https://dev.to/sai_krishna_228bb675185df/how-to-write-test-cases-for-repositories-method-that-was-connected-to-sql-server-using-dapper-4me3)
-- [Shell Cacophony](https://dev.to/vst/shell-cacophony-357f)
+- [Retrieval Augmented Generation with Citations](https://dev.to/zilliz/retrieval-augmented-generation-with-citations-1ffl)
+- [Dinamik Popup GridField Update](https://dev.to/fazliakca/dinamik-popup-gridfield-update-5hmp)
+- [Aplicando o &quot;Liskov Substitution Principle&quot; com Typescript e Java](https://dev.to/victorlima142/aplicando-o-liskov-substitution-principle-com-typescript-e-java-4g76)
+- [13 open-source tools that will make you 99% more likely to land any AI job 🪄✨](https://dev.to/composiodev/13-open-source-tools-that-will-make-you-99-more-likely-to-land-any-ai-job-3049)
 <!-- BLOG-POST-LIST:END -->
 
