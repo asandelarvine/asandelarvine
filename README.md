@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem](https://dev.to/sonu_sharma/cap-theorem-11kp)
-- [AlphaFold: Hacia Posibilidades Infinitas y el Próximo Paso en la Evolución Humana](https://dev.to/macaoblog/alphafold-hacia-posibilidades-infinitas-y-el-proximo-paso-en-la-evolucion-humana-f1e)
-- [Absolutely Best Free Tools for Web Developers](https://dev.to/angelaswift/absolutely-best-free-tools-for-web-developers-4hm4)
-- [Supercharge Your Frontend Skills: 8 Must-Have Tools for Developers in 2024 🚀](https://dev.to/gadekar_sachin/supercharge-your-frontend-skills-8-must-have-tools-for-developers-in-2024-2jpd)
+- [Understanding Higher-Order Components in React: Pros, Cons, and Modern Alternatives](https://dev.to/ayako_yk/understanding-higher-order-components-in-react-pros-cons-and-modern-alternatives-2jci)
+- [How to Host an Angular Project on GitHub Pages](https://dev.to/chetan_void/how-to-host-an-angular-project-on-github-pages-1dmo)
+- [Generative AI](https://dev.to/generativeaimasters/generative-ai-lgf)
+- [Enhance Node.js Server Performance with Worker Threads](https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh)
 <!-- BLOG-POST-LIST:END -->
 
