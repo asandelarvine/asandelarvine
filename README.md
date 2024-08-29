@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable TIFF IFilter in Windows 11](https://dev.to/winsides/how-to-enable-tiff-ifilter-in-windows-11-355k)
-- [Create Your Own Cloudflare Workers AI LLM Playground Using NuxtHub and NuxtUI](https://dev.to/ra_jeeves/create-your-own-cloudflare-workers-ai-llm-playground-using-nuxthub-and-nuxtui-3f1m)
-- [Any* Embedding Model Can Become a Late Interaction Model - If You Give It a Chance!](https://dev.to/qdrant/any-embedding-model-can-become-a-late-interaction-model-if-you-give-it-a-chance-3iip)
-- [Silence vs Speech](https://dev.to/margret_mauno/silence-vs-speech-1ag0)
+- [Why It&#39;s Time to Ditch useState and Upgrade to useEasyState!](https://dev.to/middleware/why-its-time-to-ditch-usestate-and-upgrade-to-useeasystate-5c7j)
+- [Fortify Your Network with Optimal IPTables Rules for Cybersecurity](https://dev.to/pietrocavaliere/fortify-your-network-with-optimal-iptables-rules-for-cybersecurity-3535)
+- [Diary of a Software Developer #4 - The Long and Winding Data Trail](https://dev.to/antoniodev/diary-of-a-software-developer-4-the-long-and-winding-data-trail-2llp)
+- [Why Devs Love Open Source KitOps–Tales from the ML Trenches](https://dev.to/kitops/why-devs-love-open-source-kitops-tales-from-the-ml-trenches-23pa)
 <!-- BLOG-POST-LIST:END -->
 
