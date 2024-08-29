@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Deploying Web Apps on Tomcat with Azure DevOps](https://dev.to/s3cloudhub/a-step-by-step-guide-to-deploying-web-apps-on-tomcat-with-azure-devops-3hoh)
-- [Data Types Part-05](https://dev.to/monirulislam027/data-types-part-05-3l13)
-- [Give me solution: What will be the result of the following codes:](https://dev.to/khursheddev/give-me-solution-what-will-be-the-result-of-the-following-codes-2fp4)
-- [Mathematics &amp; Programming](https://dev.to/danishk7a/mathematics-programming-d65)
+- [Compare two csv files #eg34](https://dev.to/esproc_spl/compare-two-csv-files-eg34-39o8)
+- [An Introduction to GoMock: Mocking in Go](https://dev.to/keploy/an-introduction-to-gomock-mocking-in-go-2ljd)
+- [Essential SQL Commands for Efficient Database Management](https://dev.to/dbvismarketing/essential-sql-commands-for-efficient-database-management-3lb7)
+- [What are generics in typescript - why use them, how do they work with code examples](https://dev.to/codeparrot/what-are-generics-in-typescript-why-use-them-how-do-they-work-with-code-examples-4hl1)
 <!-- BLOG-POST-LIST:END -->
 
