@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Generative and Traditional AI Improve Revenue Cycle Management: AI&#39;s Role in RCM](https://dev.to/velanhcs/how-generative-and-traditional-ai-improve-revenue-cycle-management-ais-role-in-rcm-2cff)
-- [JavaScript Performance Optimization Techniques](https://dev.to/bizmaven-devworld-organization/javascript-performance-optimization-techniques-1026)
-- [Accelerating Business Growth with a Platform Engineering Team](https://dev.to/pablos4nt0s/accelerating-business-growth-with-a-platform-engineering-team-562e)
-- [Top 5 Things You Should Know About Spark](https://dev.to/sudo_pradip/top-5-things-you-should-know-about-spark-4kg3)
+- [18 Essential Developer Tools that Will Improve the Way You Work 🚀🔥](https://dev.to/madza/18-essential-developer-tools-that-will-improve-the-way-you-work-2cdn)
+- [Launch a Turbo Modal with URL Params Using Stimulus](https://dev.to/railsdesigner/launch-a-turbo-modal-with-url-params-using-stimulus-143l)
+- [how to write test cases for repositories method that was connected to sql server using dapper.](https://dev.to/sai_krishna_228bb675185df/how-to-write-test-cases-for-repositories-method-that-was-connected-to-sql-server-using-dapper-4me3)
+- [Shell Cacophony](https://dev.to/vst/shell-cacophony-357f)
 <!-- BLOG-POST-LIST:END -->
 
