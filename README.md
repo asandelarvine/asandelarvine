@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Continue in C#: Tutorial + Examples](https://dev.to/bytehide/continue-in-c-tutorial-examples-21k9)
-- [You Can Use AI In Technical Writing! Here&#39;s how:](https://dev.to/dumebii/you-can-use-ai-in-technical-writing-heres-how-48e5)
-- [The best static site generators in 2024🚀🔥](https://dev.to/iarchitsharma/the-best-static-site-generators-in-2024-dc7)
-- [Top 20 API Development Tools for Back-end Developers](https://dev.to/apilover/top-20-api-development-tools-for-back-end-developers-26pk)
+- [Ultimate Guide to Web Security on Linux Servers with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/ultimate-guide-to-web-security-on-linux-servers-with-safeline-waf-hdm)
+- [Python Trick: The else Clause on Loops](https://dev.to/devasservice/python-trick-the-else-clause-on-loops-4jda)
+- [JavaScript vs TypeScript](https://dev.to/saurabhkurve/javascript-vs-typescript-e1b)
+- [Why Some Developers Prefer to Manually Configure PHP Environments Instead of Using Deployment Tools](https://dev.to/gitter4coding/why-some-developers-prefer-to-manually-configure-php-environments-instead-of-using-deployment-tools-2pco)
 <!-- BLOG-POST-LIST:END -->
 
