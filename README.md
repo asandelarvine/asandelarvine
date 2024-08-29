@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Web Security on Linux Servers with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/ultimate-guide-to-web-security-on-linux-servers-with-safeline-waf-hdm)
-- [Python Trick: The else Clause on Loops](https://dev.to/devasservice/python-trick-the-else-clause-on-loops-4jda)
-- [JavaScript vs TypeScript](https://dev.to/saurabhkurve/javascript-vs-typescript-e1b)
-- [Why Some Developers Prefer to Manually Configure PHP Environments Instead of Using Deployment Tools](https://dev.to/gitter4coding/why-some-developers-prefer-to-manually-configure-php-environments-instead-of-using-deployment-tools-2pco)
+- [Is It Safe to Do Online Banking on an Unsecured Network?](https://dev.to/johnethan372023/is-it-safe-to-do-online-banking-on-an-unsecured-network-4kh4)
+- [Which Linux command are you?](https://dev.to/ispmanager/which-linux-command-are-you-54gc)
+- [Salesforce Developer Tools - A Complete Overview](https://dev.to/edenwheeler/salesforce-developer-tools-a-complete-overview-11l2)
+- [IAM for Amazon ECS on AWS Fargate](https://dev.to/aws-builders/iam-for-amazon-ecs-on-aws-fargate-2bk8)
 <!-- BLOG-POST-LIST:END -->
 
