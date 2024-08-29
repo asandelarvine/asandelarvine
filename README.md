@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life](https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb)
+- [Voxel51 is Hiring Computer Vision Evangelists!](https://dev.to/voxel51/voxel51-is-hiring-computer-vision-evangelists-2l96)
+- [Code Smell 266 - Collection Aliasing](https://dev.to/mcsee/code-smell-266-collection-aliasing-58an)
 - [#54 - Combine Cell Values of Every 3 Rows under Each Column into One Cell](https://dev.to/judith677/54-combine-cell-values-of-every-3-rows-under-each-column-into-one-cell-1ode)
-- [Why We Built CheatSheet++: Streamlining the Developer’s Journey](https://dev.to/twistor/why-we-built-cheatsheet-streamlining-the-developers-journey-ojo)
-- [How to create a fullstack application using Django and Python Part 5](https://dev.to/letsbsocial1/how-to-create-a-fullstack-application-using-django-and-python-part-5-2m18)
-- [Today&#39;s Trending Projects: Average Salaries Per Department and More 🚀](https://dev.to/labex/todays-trending-projects-average-salaries-per-department-and-more-3lj1)
 <!-- BLOG-POST-LIST:END -->
 
