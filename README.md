@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval Augmented Generation with Citations](https://dev.to/zilliz/retrieval-augmented-generation-with-citations-1ffl)
-- [Dinamik Popup GridField Update](https://dev.to/fazliakca/dinamik-popup-gridfield-update-5hmp)
-- [Aplicando o &quot;Liskov Substitution Principle&quot; com Typescript e Java](https://dev.to/victorlima142/aplicando-o-liskov-substitution-principle-com-typescript-e-java-4g76)
-- [13 open-source tools that will make you 99% more likely to land any AI job 🪄✨](https://dev.to/composiodev/13-open-source-tools-that-will-make-you-99-more-likely-to-land-any-ai-job-3049)
+- [How to Enable TIFF IFilter in Windows 11](https://dev.to/winsides/how-to-enable-tiff-ifilter-in-windows-11-355k)
+- [Create Your Own Cloudflare Workers AI LLM Playground Using NuxtHub and NuxtUI](https://dev.to/ra_jeeves/create-your-own-cloudflare-workers-ai-llm-playground-using-nuxthub-and-nuxtui-3f1m)
+- [Any* Embedding Model Can Become a Late Interaction Model - If You Give It a Chance!](https://dev.to/qdrant/any-embedding-model-can-become-a-late-interaction-model-if-you-give-it-a-chance-3iip)
+- [Silence vs Speech](https://dev.to/margret_mauno/silence-vs-speech-1ag0)
 <!-- BLOG-POST-LIST:END -->
 
