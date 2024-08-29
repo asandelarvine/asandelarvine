@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 days of Miva: Day 9](https://dev.to/abdul_web/100-days-of-miva-day-9-1e0k)
-- [Create and Register a new SSH on Github](https://dev.to/arielmejiadev/create-and-register-a-new-ssh-on-github-3gf2)
-- [Bias in Data Science? 3 Most Common Types and Ways to Deal with Them](https://dev.to/kwan/bias-in-data-science-3-most-common-types-and-ways-to-deal-with-them-4onk)
-- [Render Error: arm64-darwin-21 vs x86_64-linux](https://dev.to/mayas1111/error-with-render-27fj)
+- [lista](https://dev.to/gabriel_guiuber/lista-3jha)
+- [estrutura html](https://dev.to/gabriel_guiuber/estrutura-html-477p)
+- [The importance of making your &quot;Workspace&quot; folder on your root path😅](https://dev.to/mayas1111/the-importance-of-making-your-workspace-folder-on-your-root-path-18lo)
+- [Advanced Playwright Testing: Leveraging the Page Object Model &lpar;Part 2&rpar;](https://dev.to/samuel_kinuthia/advanced-playwright-testing-leveraging-the-page-object-model-part-2-5fn4)
 <!-- BLOG-POST-LIST:END -->
 
