@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Higher-Order Components in React: Pros, Cons, and Modern Alternatives](https://dev.to/ayako_yk/understanding-higher-order-components-in-react-pros-cons-and-modern-alternatives-2jci)
-- [How to Host an Angular Project on GitHub Pages](https://dev.to/chetan_void/how-to-host-an-angular-project-on-github-pages-1dmo)
-- [Generative AI](https://dev.to/generativeaimasters/generative-ai-lgf)
-- [Enhance Node.js Server Performance with Worker Threads](https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh)
+- [A Step-by-Step Guide to Deploying Web Apps on Tomcat with Azure DevOps](https://dev.to/s3cloudhub/a-step-by-step-guide-to-deploying-web-apps-on-tomcat-with-azure-devops-3hoh)
+- [Data Types Part-05](https://dev.to/monirulislam027/data-types-part-05-3l13)
+- [Give me solution: What will be the result of the following codes:](https://dev.to/khursheddev/give-me-solution-what-will-be-the-result-of-the-following-codes-2fp4)
+- [Mathematics &amp; Programming](https://dev.to/danishk7a/mathematics-programming-d65)
 <!-- BLOG-POST-LIST:END -->
 
