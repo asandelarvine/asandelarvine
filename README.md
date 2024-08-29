@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Project: Use ChatGPT to Plot with Python and Matplotlib](https://dev.to/cognitiveclass/free-project-use-chatgpt-to-plot-with-python-and-matplotlib-5ha6)
-- [Flutter_dotenv Mastery: From Setup to Production](https://dev.to/joel207/flutterdotenv-mastery-from-setup-to-production-1jpo)
-- [Flutter_dotenv Mastery: From Setup to Production](https://dev.to/joel207/flutterdotenv-mastery-from-setup-to-production-2hh8)
-- [NAT Gateway Implementation](https://dev.to/clintt/nat-gateway-implementation-2c6f)
+- [🛠️ Introducing Faviconify: Dynamic Favicon Generator for React Apps](https://dev.to/sivamani18/introducing-faviconify-dynamic-favicon-generator-for-react-apps-34ng)
+- [[Flutter] Efficient File Handling in Flutter: Beyond FilePicker](https://dev.to/alpenglow/flutter-efficient-file-handling-in-flutter-beyond-filepicker-2mdc)
+- [Polyfills - a filler or a gaping hole? &lpar;Part-2&rpar;](https://dev.to/purnez/polyfills-a-filler-or-a-gaping-hole-part-2-14b3)
+- [Zoom Meetings API Integration Guide](https://dev.to/hrushi_yadav/zoom-meetings-api-integration-guide-1gi8)
 <!-- BLOG-POST-LIST:END -->
 
