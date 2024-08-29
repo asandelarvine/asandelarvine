@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [lista](https://dev.to/gabriel_guiuber/lista-3jha)
-- [estrutura html](https://dev.to/gabriel_guiuber/estrutura-html-477p)
-- [The importance of making your &quot;Workspace&quot; folder on your root path😅](https://dev.to/mayas1111/the-importance-of-making-your-workspace-folder-on-your-root-path-18lo)
-- [Advanced Playwright Testing: Leveraging the Page Object Model &lpar;Part 2&rpar;](https://dev.to/samuel_kinuthia/advanced-playwright-testing-leveraging-the-page-object-model-part-2-5fn4)
+- [#54 - Combine Cell Values of Every 3 Rows under Each Column into One Cell](https://dev.to/judith677/54-combine-cell-values-of-every-3-rows-under-each-column-into-one-cell-1ode)
+- [Why We Built CheatSheet++: Streamlining the Developer’s Journey](https://dev.to/twistor/why-we-built-cheatsheet-streamlining-the-developers-journey-ojo)
+- [How to create a fullstack application using Django and Python Part 5](https://dev.to/letsbsocial1/how-to-create-a-fullstack-application-using-django-and-python-part-5-2m18)
+- [Today&#39;s Trending Projects: Average Salaries Per Department and More 🚀](https://dev.to/labex/todays-trending-projects-average-salaries-per-department-and-more-3lj1)
 <!-- BLOG-POST-LIST:END -->
 
