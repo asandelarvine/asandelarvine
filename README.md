@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Item 49: Verifique a validade dos parâmetros](https://dev.to/giselecoder/item-49-verifique-a-validade-dos-parametros-dho)
-- [Day 1020 : In the Spot](https://dev.to/dwane/day-1020-in-the-spot-18k8)
-- [Antivírus Kaspersky bloqueia WSL&lpar;Windows subsystem Linux&rpar;](https://dev.to/daniellesiq/antivirus-kaspersky-bloqueia-wslwindows-subsystem-linux-2adk)
-- [🌤️ Stop Using Margin-Top: Use Margin-Bottom and Gap Instead](https://dev.to/safdarali/stop-using-margin-top-use-margin-bottom-and-gap-instead-27eh)
+- [Getting Started with HTML: Your Step-by-Step Guide to Creating Your First Web Page](https://dev.to/roberto_celano/getting-started-with-html-your-step-by-step-guide-to-creating-your-first-web-page-391l)
+- [How to Deploy Segment Anything Model 2 &lpar;SAM 2&rpar; With Modelbit](https://dev.to/victor_isaac_king/how-to-deploy-segment-anything-model-2-sam-2-with-modelbit-47ni)
+- [Why simple and easy apps are not a future but a choice](https://dev.to/rodriveiga01/why-simple-and-easy-apps-are-not-a-future-but-a-choice-12gg)
+- [Go fiber scaffolding cli](https://dev.to/superninjax2/go-fiber-scaffolding-cli-3n3e)
 <!-- BLOG-POST-LIST:END -->
 
