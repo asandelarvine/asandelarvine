@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built my first bot using Typescript - Part #4: Deployment and CI/CD](https://dev.to/skywarth/how-i-built-my-first-bot-using-typescript-part-4-deployment-and-cicd-3loa)
-- [Getting Started with Amazon Bedrock](https://dev.to/citrux-digital/getting-started-with-amazon-bedrock-4a7l)
-- [Automating Security Compliance in API Integrations](https://dev.to/apidna/automating-security-compliance-in-api-integrations-2ie2)
-- [transcripts](https://dev.to/cpit/gong-transcripts-52af)
+- [Linux Firewall: Blocking a lot with a little](https://dev.to/mcrmonkey/linux-firewall-blocking-a-lot-with-a-little-4bk7)
+- [How to Perform Error Handling Across Pages in Astro](https://dev.to/koyopro/how-to-perform-error-handling-across-pages-in-astro-3dk8)
+- [10 Must-Know JavaScript ES15 Features for Modern Development](https://dev.to/manojspace/10-must-know-javascript-es15-features-for-modern-development-59hf)
+- [Beyond Bugs: The Hidden Impact of Code Quality &lpar;Part 1&rpar; 🌟](https://dev.to/rowan_ibrahim/beyond-bugs-the-hidden-impact-of-code-quality-3j8l)
 <!-- BLOG-POST-LIST:END -->
 
