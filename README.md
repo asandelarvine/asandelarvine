@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Line Graph in Matplotlib | Python Data Visualization Tutorial 📊](https://dev.to/dubeyrock/how-to-build-a-line-graph-in-matplotlib-python-data-visualization-tutorial-4114)
-- [From Static to Dynamic: Building a Responsive One-Page Website](https://dev.to/mibii/from-static-to-dynamic-building-a-responsive-one-page-website-2011)
-- [Writing tests are a bit painful but](https://dev.to/shinnthant_jr/writing-tests-are-a-bit-painful-but-1lp2)
-- [Attempt #15 - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-15-continued-the-react-crash-course-55m8)
+- [Mistakes I Made Early In My Career — And What I Would Have Done Differently](https://dev.to/soulis98/mistakes-i-made-early-in-my-career-and-what-i-would-have-done-differently-52gh)
+- [Introduction to SQL](https://dev.to/darkworldprogrammer/introduction-to-sql-381j)
+- [RNN, LSTM, and GRU: Compare Three kinds of Seq2Seq model](https://dev.to/bullmouse/rnn-lstm-and-gru-compare-three-kinds-of-seq2seq-model-4fa8)
+- [Tutorial: Integrate Passkeys into Django &lpar;Python&rpar;](https://dev.to/corbado/tutorial-integrate-passkeys-into-django-python-4bip)
 <!-- BLOG-POST-LIST:END -->
 
