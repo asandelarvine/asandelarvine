@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elements for Working with Text](https://dev.to/thekarlesi/elements-for-working-with-text-4obe)
-- [Ibuprofeno.py💊| #173: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-173-explica-este-codigo-python-3iek)
-- [NodeJS Framework which one is Fast](https://dev.to/inditechcoder/nodejs-framework-which-one-is-fast-11ib)
-- [Key Features of Exceptional Website Design in 2024](https://dev.to/joycesemma/key-features-of-exceptional-website-design-in-2024-1743)
+- [WebSockets vs. Real-Time Rivals: A Deep Dive into SSE, Long-Polling, MQTT, and XMPP](https://dev.to/sshamza/websockets-vs-real-time-rivals-a-deep-dive-into-sse-long-polling-mqtt-and-xmpp-4hij)
+- [InOrder Traversal](https://dev.to/ankit_rattan/inorder-traversal-4cmc)
+- [Blog about Basics of SQL.](https://dev.to/sujal_verman_c2406c7d7aaa/blog-about-basics-of-sql-5abj)
+- [My thoughts and notes about Consumer Driven Contract Testing](https://dev.to/muratkeremozcan/my-thoughts-and-notes-about-consumer-driven-contract-testing-11id)
 <!-- BLOG-POST-LIST:END -->
 
