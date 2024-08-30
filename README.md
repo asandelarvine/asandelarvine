@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Abstraction and Remote Procedure Calls in Distributed Systems](https://dev.to/madhujamitra/understanding-abstraction-and-remote-procedure-calls-in-distributed-systems-239p)
-- [How to Work with Markdown Files: A Beginner&#39;s Guide to Creating README Files](https://dev.to/mahendra_singh_7500/how-to-work-with-markdown-files-a-beginners-guide-to-creating-readme-files-1dfa)
-- [The Ultimate Guide to StrawberryAI: Unlocking AI Excellence 🚀 🍓](https://dev.to/hanzla-mirza/the-ultimate-guide-to-strawberryai-unlocking-ai-excellence-3i6i)
-- [Effective Marketing Strategies for Startups](https://dev.to/juddiy/effective-marketing-strategies-for-startups-m9a)
+- [The Future of Game Development &lpar;No Engine!😢&rpar;](https://dev.to/codewithshahan/the-future-of-game-development-no-engine-3gf5)
+- [Enhancing Kubernetes Security with SafeLine: A Comprehensive Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/enhancing-kubernetes-security-with-safeline-a-comprehensive-guide-4je4)
+- [Step-by-Step Modeling of WaterDistiller Using EA and SysML &lpar;01&rpar;](https://dev.to/jiayufagao/step-by-step-modeling-of-waterdistiller-using-ea-and-sysml-01-181k)
+- [Configuring Postfix Admin in PHP-FPM Docker with Nginx Server on Host Machine](https://dev.to/paniya/configuring-postfix-admin-in-php-fpm-docker-with-nginx-server-on-host-machine-10j6)
 <!-- BLOG-POST-LIST:END -->
 
