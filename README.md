@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The testing Post](https://dev.to/lindsay_renna/the-testing-post-2057)
-- [Various types of neural networks and their key characteristics:](https://dev.to/sreeni5018/various-types-of-neural-networks-and-their-key-characteristics-488j)
-- [A Lighter, More Accurate Solution for Brain MRI Alignment?](https://dev.to/shagun_mistry/a-lighter-more-accurate-solution-for-brain-mri-alignment-4b4i)
-- [Your Startup’s First Web Summit: Essential Preparation Tips](https://dev.to/momciloo/your-startups-first-web-summit-essential-preparation-tips-4442)
+- [Leonardo da Vinci: El genio que revolucionó la tecnología y la ciencia.](https://dev.to/dieghard/leonardo-da-vinci-el-genio-que-revoluciono-la-tecnologia-y-la-ciencia-37ko)
+- [EXPLORING ALGORITHMS AND FLOWCHARTS](https://dev.to/sagnik_pandit_aa0c75bd2ba/exploring-algorithms-and-flowcharts-2232)
+- [What is liquid &lpar;Shopify&rpar; ?](https://dev.to/sarthakc20/what-is-liquid-shopify--eg4)
+- [How to Start a Side-Project](https://dev.to/pablotz/how-to-start-a-side-project-kfk)
 <!-- BLOG-POST-LIST:END -->
 
