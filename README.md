@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aprende a pelear tus batallas](https://dev.to/dennistobar/aprende-a-pelear-tus-batallas-2m6p)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
-- [VPCs, Subnets, Load Balancing, and Content Delivery Networks](https://dev.to/jinesh_vora_ab4d7886e6a8d/vpcs-subnets-load-balancing-and-content-delivery-networks-2aog)
-- [AWS OpsWorks Explained: Automate Your Cloud Infrastructure](https://dev.to/rose_rusell_8839af0b0bba5/aws-opsworks-explained-automate-your-cloud-infrastructure-41li)
+- [The testing Post](https://dev.to/lindsay_renna/the-testing-post-2057)
+- [Various types of neural networks and their key characteristics:](https://dev.to/sreeni5018/various-types-of-neural-networks-and-their-key-characteristics-488j)
+- [A Lighter, More Accurate Solution for Brain MRI Alignment?](https://dev.to/shagun_mistry/a-lighter-more-accurate-solution-for-brain-mri-alignment-4b4i)
+- [Your Startup’s First Web Summit: Essential Preparation Tips](https://dev.to/momciloo/your-startups-first-web-summit-essential-preparation-tips-4442)
 <!-- BLOG-POST-LIST:END -->
 
