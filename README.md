@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Game Development &lpar;No Engine!😢&rpar;](https://dev.to/codewithshahan/the-future-of-game-development-no-engine-3gf5)
-- [Enhancing Kubernetes Security with SafeLine: A Comprehensive Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/enhancing-kubernetes-security-with-safeline-a-comprehensive-guide-4je4)
-- [Step-by-Step Modeling of WaterDistiller Using EA and SysML &lpar;01&rpar;](https://dev.to/jiayufagao/step-by-step-modeling-of-waterdistiller-using-ea-and-sysml-01-181k)
-- [Configuring Postfix Admin in PHP-FPM Docker with Nginx Server on Host Machine](https://dev.to/paniya/configuring-postfix-admin-in-php-fpm-docker-with-nginx-server-on-host-machine-10j6)
+- [How to Build a Line Graph in Matplotlib | Python Data Visualization Tutorial 📊](https://dev.to/dubeyrock/how-to-build-a-line-graph-in-matplotlib-python-data-visualization-tutorial-4114)
+- [From Static to Dynamic: Building a Responsive One-Page Website](https://dev.to/mibii/from-static-to-dynamic-building-a-responsive-one-page-website-2011)
+- [Writing tests are a bit painful but](https://dev.to/shinnthant_jr/writing-tests-are-a-bit-painful-but-1lp2)
+- [Attempt #15 - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-15-continued-the-react-crash-course-55m8)
 <!-- BLOG-POST-LIST:END -->
 
