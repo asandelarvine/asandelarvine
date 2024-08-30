@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect to an EC2 Instance with SSM](https://dev.to/aktran321/how-to-connect-to-an-ec2-instance-with-ssm-598h)
-- [A Practical Guide to Semantic Versioning: How and When to Update Your Versions](https://dev.to/brunosartori/a-practical-guide-to-semantic-versioning-how-and-when-to-update-your-versions-2c19)
-- [What Does a -2 Reaction Mean? Is It a Bug?](https://dev.to/luca1iu/what-does-a-2-reaction-mean-is-it-a-bug-29c6)
-- [Day 1021 : Won&#39;t End Well](https://dev.to/dwane/day-2021-wont-end-well-4iil)
+- [Strategies for Horizontal and Vertical Scaling of Backend Services](https://dev.to/shieldstring/strategies-for-horizontal-and-vertical-scaling-of-backend-services-1m68)
+- [Understanding Kubernetes Architecture: Exploring the Control Plane and Worker Nodes](https://dev.to/emminex/understanding-kubernetes-architecture-exploring-the-control-plane-and-worker-nodes-2n5d)
+- [Best Git Commands for Every Developer: Master Your Version Control](https://dev.to/blessy-b-sherin/best-git-commands-for-every-developer-master-your-version-control-3j5e)
+- [How to Organize Your Components in React Native: Folder Structure and Project Organization](https://dev.to/paulocappa/how-to-organize-your-components-in-react-native-folder-structure-and-project-organization-1hke)
 <!-- BLOG-POST-LIST:END -->
 
