@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with HTML: Your Step-by-Step Guide to Creating Your First Web Page](https://dev.to/roberto_celano/getting-started-with-html-your-step-by-step-guide-to-creating-your-first-web-page-391l)
-- [How to Deploy Segment Anything Model 2 &lpar;SAM 2&rpar; With Modelbit](https://dev.to/victor_isaac_king/how-to-deploy-segment-anything-model-2-sam-2-with-modelbit-47ni)
-- [Why simple and easy apps are not a future but a choice](https://dev.to/rodriveiga01/why-simple-and-easy-apps-are-not-a-future-but-a-choice-12gg)
-- [Go fiber scaffolding cli](https://dev.to/superninjax2/go-fiber-scaffolding-cli-3n3e)
+- [Understanding Ether Transfers in Solidity: send, transfer, and call](https://dev.to/tchisom17/understanding-ether-transfers-in-solidity-send-transfer-and-call-3k67)
+- [My Honest Review of Harvard’s CS50x: Tips, Guidelines &amp; Free Certificate](https://dev.to/adnansaim/my-honest-review-of-harvards-cs50x-tips-guidelines-free-certificate-32bk)
+- [My Second Year as a Developer Advocate: A Journey Through Different Conferences](https://dev.to/c_yatteau/my-second-year-as-a-developer-advocate-a-journey-through-different-conferences-dl5)
+- [Day 5 - Git Essential Training](https://dev.to/ryoichihomma/day-5-git-essential-training-4hcp)
 <!-- BLOG-POST-LIST:END -->
 
