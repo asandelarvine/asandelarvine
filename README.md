@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Firewall: Blocking a lot with a little](https://dev.to/mcrmonkey/linux-firewall-blocking-a-lot-with-a-little-4bk7)
-- [How to Perform Error Handling Across Pages in Astro](https://dev.to/koyopro/how-to-perform-error-handling-across-pages-in-astro-3dk8)
-- [10 Must-Know JavaScript ES15 Features for Modern Development](https://dev.to/manojspace/10-must-know-javascript-es15-features-for-modern-development-59hf)
-- [Beyond Bugs: The Hidden Impact of Code Quality &lpar;Part 1&rpar; 🌟](https://dev.to/rowan_ibrahim/beyond-bugs-the-hidden-impact-of-code-quality-3j8l)
+- [Projeto J.A.R.V.I.S. - Como Criei um Assistente Virtual do Zero que Conversa e Executa Tarefas](https://dev.to/carlos-cgs/projeto-jarvis-como-criei-um-assistente-virtual-do-zero-que-conversa-e-executa-tarefas-l3i)
+- [How Can I Setup Sublime Text Editor For Competitive Programming](https://dev.to/anikakash/how-can-i-setup-sublime-text-editor-for-competitive-programming-52ga)
+- [Understanding Client-side Web APIs in JavaScript](https://dev.to/dipakahirav/understanding-client-side-web-apis-in-javascript-ncd)
+- [Unlocking Lazy Evaluation: Mastering JavaScript Generators](https://dev.to/anantsvc/unlocking-lazy-evaluation-mastering-javascript-generators-598n)
 <!-- BLOG-POST-LIST:END -->
 
