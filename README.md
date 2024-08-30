@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing The Pieces for Neovim Plugin! 🎉](https://dev.to/get_pieces/introducing-the-pieces-for-neovim-plugin-52ek)
-- [2699. Modify Graph Edge Weights](https://dev.to/mdarifulhaque/2699-modify-graph-edge-weights-p7j)
-- [Exploring Nesting with Flexbox](https://dev.to/divineisnotakid/exploring-nesting-with-flexbox-8ol)
-- [Mastering C++: Naming Standards for Variables](https://dev.to/eddiegulay/mastering-c-naming-standards-for-variables-272e)
+- [`for...in` vs. `for...of` in JavaScript:](https://dev.to/adg29/forin-vs-forof-in-javascript-46p7)
+- [Weekly Updates - August 30, 2024](https://dev.to/couchbase/weekly-updates-august-30-2024-4hl9)
+- [Security news weekly round-up - 30th August 2024](https://dev.to/ziizium/security-news-weekly-round-up-30th-august-2024-3nmf)
+- [How to Quickly Disable Copilot in Windows 11?](https://dev.to/winsides/how-to-quickly-disable-copilot-in-windows-11-2m0c)
 <!-- BLOG-POST-LIST:END -->
 
