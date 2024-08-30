@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing React and Next.js: A Quick Deep Dive into Performance, Security, and System Design](https://dev.to/kashifnehal/optimizing-react-and-nextjs-a-quick-deep-dive-into-performance-security-and-system-design-1o4g)
-- [AWS EC2 for Beginners: How to Launch and Connect to Your First Instance](https://dev.to/ahsan598/aws-ec2-for-beginners-how-to-launch-and-connect-to-your-first-instance-59a9)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-2l5o)
-- [What Are The Container Technologies Used In DevOps?](https://dev.to/piya__c204c9e90/what-are-the-container-technologies-used-in-devops-44ki)
+- [Elements for Working with Text](https://dev.to/thekarlesi/elements-for-working-with-text-4obe)
+- [Ibuprofeno.py💊| #173: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-173-explica-este-codigo-python-3iek)
+- [NodeJS Framework which one is Fast](https://dev.to/inditechcoder/nodejs-framework-which-one-is-fast-11ib)
+- [Key Features of Exceptional Website Design in 2024](https://dev.to/joycesemma/key-features-of-exceptional-website-design-in-2024-1743)
 <!-- BLOG-POST-LIST:END -->
 
