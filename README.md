@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Micro-frontend](https://dev.to/i_m_ratan/introduction-to-micro-frontend-11ln)
-- [How to Open .MPP Files Without Hassle: Quick Guide With Example](https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n)
-- [How to Build a Simple Chatbot in Python Using OpenAI [Step-by-Step Guide]](https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg)
-- [Debugging Your Productivity: A Guide to Mindfulness and Efficiency](https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1)
+- [Faster Pages with React ✨](https://dev.to/smapiot/faster-pages-with-react-h8j)
+- [Exploring SafeLine: Our Journey with an Open-Source WAF Solution for Enterprise Security](https://dev.to/lulu_liu_c90f973e2f954d7f/exploring-safeline-our-journey-with-an-open-source-waf-solution-for-enterprise-security-53ai)
+- [Tailwind Classes Bulk Edit/Change](https://dev.to/syakirurahman/tailwind-classes-bulk-editchange-519f)
+- [14 Must Know Microservices Design Principles](https://dev.to/harisapnanair/14-must-know-microservices-design-principles-207a)
 <!-- BLOG-POST-LIST:END -->
 
