@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes I Made Early In My Career — And What I Would Have Done Differently](https://dev.to/soulis98/mistakes-i-made-early-in-my-career-and-what-i-would-have-done-differently-52gh)
-- [Introduction to SQL](https://dev.to/darkworldprogrammer/introduction-to-sql-381j)
-- [RNN, LSTM, and GRU: Compare Three kinds of Seq2Seq model](https://dev.to/bullmouse/rnn-lstm-and-gru-compare-three-kinds-of-seq2seq-model-4fa8)
-- [Tutorial: Integrate Passkeys into Django &lpar;Python&rpar;](https://dev.to/corbado/tutorial-integrate-passkeys-into-django-python-4bip)
+- [Introduction to Micro-frontend](https://dev.to/i_m_ratan/introduction-to-micro-frontend-11ln)
+- [How to Open .MPP Files Without Hassle: Quick Guide With Example](https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n)
+- [How to Build a Simple Chatbot in Python Using OpenAI [Step-by-Step Guide]](https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg)
+- [Debugging Your Productivity: A Guide to Mindfulness and Efficiency](https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1)
 <!-- BLOG-POST-LIST:END -->
 
