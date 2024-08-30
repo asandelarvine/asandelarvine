@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Abstraction and Remote Procedure Calls in Distributed Systems](https://dev.to/madhujamitra/understanding-abstraction-and-remote-procedure-calls-in-distributed-systems-239p)
-- [A Deep Dive into React&#39;s Optimization Algorithms &amp; Process](https://dev.to/ashutoshsarangi/a-deep-dive-into-reacts-optimization-algorithms-process-4k57)
-- [Adding Dynamic Sitemaps to Next.js App Router Projects.](https://dev.to/jessethedev/adding-sitemaps-to-nextjs-app-router-projects-dn2)
-- [Today&#39;s Trending Projects: Configuring With YAML Files and More](https://dev.to/labex/todays-trending-projects-configuring-with-yaml-files-and-more-2fh)
+- [How to Work with Markdown Files: A Beginner&#39;s Guide to Creating README Files](https://dev.to/mahendra_singh_7500/how-to-work-with-markdown-files-a-beginners-guide-to-creating-readme-files-1dfa)
+- [The Ultimate Guide to StrawberryAI: Unlocking AI Excellence 🚀 🍓](https://dev.to/hanzla-mirza/the-ultimate-guide-to-strawberryai-unlocking-ai-excellence-3i6i)
+- [Effective Marketing Strategies for Startups](https://dev.to/juddiy/effective-marketing-strategies-for-startups-m9a)
 <!-- BLOG-POST-LIST:END -->
 
