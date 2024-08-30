@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [`for...in` vs. `for...of` in JavaScript:](https://dev.to/adg29/forin-vs-forof-in-javascript-46p7)
-- [Weekly Updates - August 30, 2024](https://dev.to/couchbase/weekly-updates-august-30-2024-4hl9)
-- [Security news weekly round-up - 30th August 2024](https://dev.to/ziizium/security-news-weekly-round-up-30th-august-2024-3nmf)
-- [How to Quickly Disable Copilot in Windows 11?](https://dev.to/winsides/how-to-quickly-disable-copilot-in-windows-11-2m0c)
+- [How to Connect to an EC2 Instance with SSM](https://dev.to/aktran321/how-to-connect-to-an-ec2-instance-with-ssm-598h)
+- [A Practical Guide to Semantic Versioning: How and When to Update Your Versions](https://dev.to/brunosartori/a-practical-guide-to-semantic-versioning-how-and-when-to-update-your-versions-2c19)
+- [What Does a -2 Reaction Mean? Is It a Bug?](https://dev.to/luca1iu/what-does-a-2-reaction-mean-is-it-a-bug-29c6)
+- [Day 1021 : Won&#39;t End Well](https://dev.to/dwane/day-2021-wont-end-well-4iil)
 <!-- BLOG-POST-LIST:END -->
 
