@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Projeto J.A.R.V.I.S. - Como Criei um Assistente Virtual do Zero que Conversa e Executa Tarefas](https://dev.to/carlos-cgs/projeto-jarvis-como-criei-um-assistente-virtual-do-zero-que-conversa-e-executa-tarefas-l3i)
-- [How Can I Setup Sublime Text Editor For Competitive Programming](https://dev.to/anikakash/how-can-i-setup-sublime-text-editor-for-competitive-programming-52ga)
-- [Understanding Client-side Web APIs in JavaScript](https://dev.to/dipakahirav/understanding-client-side-web-apis-in-javascript-ncd)
-- [Unlocking Lazy Evaluation: Mastering JavaScript Generators](https://dev.to/anantsvc/unlocking-lazy-evaluation-mastering-javascript-generators-598n)
+- [Js | Operators |](https://dev.to/ranjith_jr_fbf2e375879b08/js-operators-3nkn)
+- [Importing Data from a Pre-95 Excel 2 Worksheet XLS file.](https://dev.to/gamesover/importing-data-from-a-pre-95-excel-2-worksheet-xls-file-56md)
+- [3 Ways to Leverage MongoDB Atlas for Data Transfer Cost Optimization](https://dev.to/mongodb/3-ways-to-leverage-mongodb-atlas-for-data-transfer-cost-optimization-22lh)
+- [Cold Storage: A Deep Dive into the Frozen Vaults of Data](https://dev.to/femolacaster/cold-storage-a-deep-dive-into-the-frozen-vaults-of-data-66k)
 <!-- BLOG-POST-LIST:END -->
 
