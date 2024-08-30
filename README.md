@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Ether Transfers in Solidity: send, transfer, and call](https://dev.to/tchisom17/understanding-ether-transfers-in-solidity-send-transfer-and-call-3k67)
-- [My Honest Review of Harvard’s CS50x: Tips, Guidelines &amp; Free Certificate](https://dev.to/adnansaim/my-honest-review-of-harvards-cs50x-tips-guidelines-free-certificate-32bk)
-- [My Second Year as a Developer Advocate: A Journey Through Different Conferences](https://dev.to/c_yatteau/my-second-year-as-a-developer-advocate-a-journey-through-different-conferences-dl5)
-- [Day 5 - Git Essential Training](https://dev.to/ryoichihomma/day-5-git-essential-training-4hcp)
+- [Understanding Abstraction and Remote Procedure Calls in Distributed Systems](https://dev.to/madhujamitra/understanding-abstraction-and-remote-procedure-calls-in-distributed-systems-239p)
+- [A Deep Dive into React&#39;s Optimization Algorithms &amp; Process](https://dev.to/ashutoshsarangi/a-deep-dive-into-reacts-optimization-algorithms-process-4k57)
+- [Adding Dynamic Sitemaps to Next.js App Router Projects.](https://dev.to/jessethedev/adding-sitemaps-to-nextjs-app-router-projects-dn2)
+- [Today&#39;s Trending Projects: Configuring With YAML Files and More](https://dev.to/labex/todays-trending-projects-configuring-with-yaml-files-and-more-2fh)
 <!-- BLOG-POST-LIST:END -->
 
