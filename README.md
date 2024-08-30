@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore Wings Engine&#39;s dynamic rain and snow simulation technology](https://dev.to/samuel67/explore-wings-engines-dynamic-rain-and-snow-simulation-technology-3ka3)
-- [Resolving Race Conditions and Critical Sections in C#](https://dev.to/turalsuleymani/resolving-race-conditions-and-critical-sections-in-c-1f24)
-- [Day 6 - Useful Tools for Tailwind CSS 3](https://dev.to/ryoichihomma/day-6-useful-tools-for-tailwind-css-3-4lc9)
-- [5 most common mistakes when using TypeScript with React](https://dev.to/aroldev/5-most-common-mistakes-when-using-typescript-with-react-1ch0)
+- [Optimizing React and Next.js: A Quick Deep Dive into Performance, Security, and System Design](https://dev.to/kashifnehal/optimizing-react-and-nextjs-a-quick-deep-dive-into-performance-security-and-system-design-1o4g)
+- [AWS EC2 for Beginners: How to Launch and Connect to Your First Instance](https://dev.to/ahsan598/aws-ec2-for-beginners-how-to-launch-and-connect-to-your-first-instance-59a9)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-2l5o)
+- [What Are The Container Technologies Used In DevOps?](https://dev.to/piya__c204c9e90/what-are-the-container-technologies-used-in-devops-44ki)
 <!-- BLOG-POST-LIST:END -->
 
