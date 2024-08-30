@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSockets vs. Real-Time Rivals: A Deep Dive into SSE, Long-Polling, MQTT, and XMPP](https://dev.to/sshamza/websockets-vs-real-time-rivals-a-deep-dive-into-sse-long-polling-mqtt-and-xmpp-4hij)
-- [InOrder Traversal](https://dev.to/ankit_rattan/inorder-traversal-4cmc)
-- [Blog about Basics of SQL.](https://dev.to/sujal_verman_c2406c7d7aaa/blog-about-basics-of-sql-5abj)
-- [My thoughts and notes about Consumer Driven Contract Testing](https://dev.to/muratkeremozcan/my-thoughts-and-notes-about-consumer-driven-contract-testing-11id)
+- [Aprende a pelear tus batallas](https://dev.to/dennistobar/aprende-a-pelear-tus-batallas-2m6p)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
+- [VPCs, Subnets, Load Balancing, and Content Delivery Networks](https://dev.to/jinesh_vora_ab4d7886e6a8d/vpcs-subnets-load-balancing-and-content-delivery-networks-2aog)
+- [AWS OpsWorks Explained: Automate Your Cloud Infrastructure](https://dev.to/rose_rusell_8839af0b0bba5/aws-opsworks-explained-automate-your-cloud-infrastructure-41li)
 <!-- BLOG-POST-LIST:END -->
 
