@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leonardo da Vinci: El genio que revolucionó la tecnología y la ciencia.](https://dev.to/dieghard/leonardo-da-vinci-el-genio-que-revoluciono-la-tecnologia-y-la-ciencia-37ko)
-- [EXPLORING ALGORITHMS AND FLOWCHARTS](https://dev.to/sagnik_pandit_aa0c75bd2ba/exploring-algorithms-and-flowcharts-2232)
-- [What is liquid &lpar;Shopify&rpar; ?](https://dev.to/sarthakc20/what-is-liquid-shopify--eg4)
-- [How to Start a Side-Project](https://dev.to/pablotz/how-to-start-a-side-project-kfk)
+- [How I built my first bot using Typescript - Part #4: Deployment and CI/CD](https://dev.to/skywarth/how-i-built-my-first-bot-using-typescript-part-4-deployment-and-cicd-3loa)
+- [Getting Started with Amazon Bedrock](https://dev.to/citrux-digital/getting-started-with-amazon-bedrock-4a7l)
+- [Automating Security Compliance in API Integrations](https://dev.to/apidna/automating-security-compliance-in-api-integrations-2ie2)
+- [transcripts](https://dev.to/cpit/gong-transcripts-52af)
 <!-- BLOG-POST-LIST:END -->
 
