@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster Pages with React ✨](https://dev.to/smapiot/faster-pages-with-react-h8j)
-- [Exploring SafeLine: Our Journey with an Open-Source WAF Solution for Enterprise Security](https://dev.to/lulu_liu_c90f973e2f954d7f/exploring-safeline-our-journey-with-an-open-source-waf-solution-for-enterprise-security-53ai)
-- [Tailwind Classes Bulk Edit/Change](https://dev.to/syakirurahman/tailwind-classes-bulk-editchange-519f)
-- [14 Must Know Microservices Design Principles](https://dev.to/harisapnanair/14-must-know-microservices-design-principles-207a)
+- [Explore Wings Engine&#39;s dynamic rain and snow simulation technology](https://dev.to/samuel67/explore-wings-engines-dynamic-rain-and-snow-simulation-technology-3ka3)
+- [Resolving Race Conditions and Critical Sections in C#](https://dev.to/turalsuleymani/resolving-race-conditions-and-critical-sections-in-c-1f24)
+- [Day 6 - Useful Tools for Tailwind CSS 3](https://dev.to/ryoichihomma/day-6-useful-tools-for-tailwind-css-3-4lc9)
+- [5 most common mistakes when using TypeScript with React](https://dev.to/aroldev/5-most-common-mistakes-when-using-typescript-with-react-1ch0)
 <!-- BLOG-POST-LIST:END -->
 
