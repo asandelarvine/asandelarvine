@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dica C#: Pattern Matching Enhancements em Classes](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-em-classes-kp)
-- [Dica C#: Pattern Matching Enhancements](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-428p)
-- [Dica C#: List Patterns](https://dev.to/juarezasjunior/dica-c-list-patterns-30jn)
-- [Dica C#: Inline Arrays](https://dev.to/juarezasjunior/dica-c-inline-arrays-59hb)
+- [⚡👨‍💻 Quantum Computers — How Will They Change the Future?](https://dev.to/best_codes/quantum-computers-how-will-they-change-the-future-20k9)
+- [Desbloqueando o Potencial do AWS Bedrock: Entendendo a Personalização, Throughput e Precificação](https://dev.to/vitorcastellani/desbloqueando-o-potencial-do-aws-bedrock-entendendo-a-personalizacao-throughput-e-precificacao-4j1l)
+- [Dica C#: Record Types](https://dev.to/juarezasjunior/dica-c-record-types-41m6)
+- [Building Basic model for Understanding ML](https://dev.to/santoshpremi/building-basic-model-for-understanding-ml-17f4)
 <!-- BLOG-POST-LIST:END -->
 
