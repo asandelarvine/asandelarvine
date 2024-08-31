@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Should Know This Before Writing Your First Line of Test in Software Testing](https://dev.to/homayunmmdy/you-should-know-this-before-writing-your-first-line-of-test-in-software-testing-19dd)
-- [Understanding Async JS](https://dev.to/mahf001/understanding-async-js-24hi)
-- [Node.js built-in alternative to nodemon](https://dev.to/fedyk/nodejs-built-in-alternative-to-nodemon-2bo2)
-- [14 Monitoring Tools for Full-Stack Developers](https://dev.to/incidenthub/14-monitoring-tools-for-full-stack-developers-4nkf)
+- [Full Stack Auth Implementation using Next js and Neon DB for Neon Challenge](https://dev.to/sam_shalemrajtara_8bda2/full-stack-auth-implementation-using-next-js-and-neon-db-for-neon-challenge-22a7)
+- [Js | Type Conversion &amp; Type Coercion |](https://dev.to/ranjith_jr_fbf2e375879b08/js-type-conversion-type-coercion--303g)
+- [OAuth 2.0 Authentication in Spring Boot: A Guide to Integrating Google and GitHub Login](https://dev.to/ayushstwt/oauth-20-authentication-in-spring-boot-a-guide-to-integrating-google-and-github-login-2hga)
+- [Saba Framework: Mempermudah Pekerjaan Frontend dan Backend Developer](https://dev.to/amry_maftuh/saba-framework-mempermudah-pekerjaan-frontend-dan-backend-developer-5e7k)
 <!-- BLOG-POST-LIST:END -->
 
