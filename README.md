@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first blog&lpar;I&#39;m a blogger now, yeah!!&rpar;](https://dev.to/yuvraj_singhthakur_0f381/my-first-blogim-a-blogger-now-yeah-4201)
-- [🚀 📸 Creating Accessible and Stunning code screenshots](https://dev.to/blackmamba/creating-accessible-and-stunning-code-screenshots-4bkc)
-- [Creating a Dashboard with Streamlit](https://dev.to/csar_fabinchvezlinar/creating-a-dashboard-with-streamlit-2ili)
-- [Where to obtain &lt;script&gt; tags for latest react from official site?](https://dev.to/ladyofla/where-to-obtain-tags-for-latest-react-from-official-site-31md)
+- [AWS AI Practitioner Exam: My Experience, Study Plan, and Resources](https://dev.to/devopsadventurer/aws-ai-practitioner-exam-my-experience-study-plan-and-resources-3p51)
+- [A Beginner’s Guide to Using Cloud-Nuke: Using Cloud-Nuke for Safe and Controlled Cleanup](https://dev.to/onifade_julius_aad5edb783/a-beginners-guide-to-using-cloud-nuke-using-cloud-nuke-for-safe-and-controlled-cleanup-3c04)
+- [The Power of Well-Structured Logs in Software Development](https://dev.to/bgdnvarlamov/the-power-of-well-structured-logs-in-software-development-3o9h)
+- [The LLAMA run](https://dev.to/mayuri2103/the-llama-run-45n4)
 <!-- BLOG-POST-LIST:END -->
 
