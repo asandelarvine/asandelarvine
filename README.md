@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursão](https://dev.to/devsjavagirls/recursao-17o5)
-- [[Flatiron SE] Day 3: 08/30/24](https://dev.to/mrdrfeesh/flatiron-se-day-3-083024-2nn2)
-- [How to Share Data Between Components in Angular Without a Parent-Child Relationship](https://dev.to/nazislam/how-to-share-data-between-components-in-angular-without-a-parent-child-relationship-46fm)
-- [Estratégias para escrever código com maior testabilidade - uma análise imperativa](https://dev.to/felipeleao18/estrategias-para-escrever-codigo-com-maior-testabilidade-uma-analise-imperativa-59ol)
+- [The persistent threat: Why major vulnerabilities like Log4Shell and Spring4Shell remain significant](https://dev.to/snyk/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant-1b3n)
+- [Managing Streaming Data with Min and Max Heaps in JavaScript: A Digital Athlete Health Tech Perspective](https://dev.to/adg29/managing-streaming-data-with-min-and-max-heaps-in-javascript-a-digital-athlete-health-tech-perspective-3d7g)
+- [Introdução às classes aninhadas e internas](https://dev.to/devsjavagirls/introducao-as-classes-aninhadas-e-internas-2on6)
+- [Today&#39;s Trending Projects: Implement a Magnifying Glass Effect Using Canvas and More](https://dev.to/labex/todays-trending-projects-implement-a-magnifying-glass-effect-using-canvas-and-more-1287)
 <!-- BLOG-POST-LIST:END -->
 
