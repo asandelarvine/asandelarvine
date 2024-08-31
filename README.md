@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡👨‍💻 Quantum Computers — How Will They Change the Future?](https://dev.to/best_codes/quantum-computers-how-will-they-change-the-future-20k9)
-- [Desbloqueando o Potencial do AWS Bedrock: Entendendo a Personalização, Throughput e Precificação](https://dev.to/vitorcastellani/desbloqueando-o-potencial-do-aws-bedrock-entendendo-a-personalizacao-throughput-e-precificacao-4j1l)
-- [Dica C#: Record Types](https://dev.to/juarezasjunior/dica-c-record-types-41m6)
-- [Building Basic model for Understanding ML](https://dev.to/santoshpremi/building-basic-model-for-understanding-ml-17f4)
+- [I have been in this community for a year, and I didn&#39;t even know. Anyone in berlin?](https://dev.to/max1234/i-have-been-in-this-community-for-a-year-and-i-didnt-even-know-eka)
+- [Leetcode: 258](https://dev.to/saifulire/leetcode-258-2ge0)
+- [IA com C# - Exemplo: Prever se um cliente será um bom ou mau pagador de um empréstimo](https://dev.to/juarezasjunior/ia-com-c-exemplo-prever-se-um-cliente-sera-um-bom-ou-mau-pagador-de-um-emprestimo-j25)
+- [Differences between Ethereum’s send/transfer/call functions](https://dev.to/110nard0/understanding-ethereums-sendtransfercall-functions-2f1m)
 <!-- BLOG-POST-LIST:END -->
 
