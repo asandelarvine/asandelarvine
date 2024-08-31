@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🦊 GitLab: Forget GitKraken, Here Are The Only Git Commands You Need](https://dev.to/zenika/gitlab-forget-gitkraken-here-are-the-only-git-commands-you-need-4ckj)
-- [Introducing OpenHabitTracker: A Free, Open Source, and Privacy-Focused Habit Tracker](https://dev.to/jinjinov/introducing-openhabittracker-a-free-open-source-and-privacy-focused-habit-tracker-316j)
-- [Pet Translator Apps: Can We Really Talk to Our Pets?](https://dev.to/elisaray/pet-translator-apps-can-we-really-talk-to-our-pets-2hbo)
-- [Mengelola Kode Dengan Modul Dan Fungsi](https://dev.to/muzhawir/mengelola-kode-dengan-modul-dan-fungsi-15k2)
+- [You Should Know This Before Writing Your First Line of Test in Software Testing](https://dev.to/homayunmmdy/you-should-know-this-before-writing-your-first-line-of-test-in-software-testing-19dd)
+- [Understanding Async JS](https://dev.to/mahf001/understanding-async-js-24hi)
+- [Node.js built-in alternative to nodemon](https://dev.to/fedyk/nodejs-built-in-alternative-to-nodemon-2bo2)
+- [14 Monitoring Tools for Full-Stack Developers](https://dev.to/incidenthub/14-monitoring-tools-for-full-stack-developers-4nkf)
 <!-- BLOG-POST-LIST:END -->
 
