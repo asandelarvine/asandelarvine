@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Colors and Backgrounds in CSS](https://dev.to/ridoy_hasan/colors-and-backgrounds-in-css-6gf)
-- [Email Buddy: An LLM-Enhanced Inbox](https://dev.to/logarithmicspirals/email-buddy-an-llm-enhanced-inbox-h7b)
-- [Nestjs, Firebase, GCloud. How to Quickly Set Up an API Backend in TypeScript.](https://dev.to/stonedcatt/nestjs-firebase-gcloud-how-to-quickly-set-up-an-api-backend-in-typescript-9no)
-- [Understanding Monorepo: A Deeper Dive](https://dev.to/aimes/understanding-monorepo-a-deeper-dive-8lh)
+- [Introducing Telinga: A Smart Customer Feedback System Powered by Nylas and AI](https://dev.to/onwuagba/introducing-telinga-a-smart-customer-feedback-system-powered-by-nylas-and-ai-4900)
+- [The Ultimate Guide to Understanding All Flavours of switchMap](https://dev.to/elepner/the-ultimate-guide-to-understanding-all-flavours-of-switchmap-27da)
+- [Code Smell 267 - Objects Aliasing](https://dev.to/mcsee/code-smell-267-objects-aliasing-k88)
+- [An Architecture of GPT](https://dev.to/ragoli86/architecture-of-gpt-jla)
 <!-- BLOG-POST-LIST:END -->
 
