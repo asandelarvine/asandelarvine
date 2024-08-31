@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Horizontal and Vertical Scaling of Backend Services](https://dev.to/shieldstring/strategies-for-horizontal-and-vertical-scaling-of-backend-services-1m68)
-- [Understanding Kubernetes Architecture: Exploring the Control Plane and Worker Nodes](https://dev.to/emminex/understanding-kubernetes-architecture-exploring-the-control-plane-and-worker-nodes-2n5d)
-- [Best Git Commands for Every Developer: Master Your Version Control](https://dev.to/blessy-b-sherin/best-git-commands-for-every-developer-master-your-version-control-3j5e)
-- [How to Organize Your Components in React Native: Folder Structure and Project Organization](https://dev.to/paulocappa/how-to-organize-your-components-in-react-native-folder-structure-and-project-organization-1hke)
+- [Recursão](https://dev.to/devsjavagirls/recursao-17o5)
+- [[Flatiron SE] Day 3: 08/30/24](https://dev.to/mrdrfeesh/flatiron-se-day-3-083024-2nn2)
+- [How to Share Data Between Components in Angular Without a Parent-Child Relationship](https://dev.to/nazislam/how-to-share-data-between-components-in-angular-without-a-parent-child-relationship-46fm)
+- [Estratégias para escrever código com maior testabilidade - uma análise imperativa](https://dev.to/felipeleao18/estrategias-para-escrever-codigo-com-maior-testabilidade-uma-analise-imperativa-59ol)
 <!-- BLOG-POST-LIST:END -->
 
