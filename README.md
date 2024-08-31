@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Telinga: A Smart Customer Feedback System Powered by Nylas and AI](https://dev.to/onwuagba/introducing-telinga-a-smart-customer-feedback-system-powered-by-nylas-and-ai-4900)
-- [The Ultimate Guide to Understanding All Flavours of switchMap](https://dev.to/elepner/the-ultimate-guide-to-understanding-all-flavours-of-switchmap-27da)
-- [Code Smell 267 - Objects Aliasing](https://dev.to/mcsee/code-smell-267-objects-aliasing-k88)
-- [An Architecture of GPT](https://dev.to/ragoli86/architecture-of-gpt-jla)
+- [JavaScript Array Methods, String Methods, &amp; Math.random&lpar;&rpar;](https://dev.to/michaelflore/javascript-array-methods-string-methods-mathrandom-5hmm)
+- [Beginner web dev](https://dev.to/josuegonzalezd046/beginner-web-dev-38a3)
+- [toddle, the visual programming platform that is built in toddle](https://dev.to/andreas_mller_ecc8e88f6f/toddle-the-visual-programming-platform-that-is-built-in-toddle-2omi)
+- [QA Tester, QA Engineer, QA Automation Engineer, and SDET. What’s the difference?](https://dev.to/johnnyv5g/qa-tester-qa-engineer-qa-automation-engineer-and-sdet-whats-the-difference-17nb)
 <!-- BLOG-POST-LIST:END -->
 
