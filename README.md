@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Array Methods, String Methods, &amp; Math.random&lpar;&rpar;](https://dev.to/michaelflore/javascript-array-methods-string-methods-mathrandom-5hmm)
-- [Beginner web dev](https://dev.to/josuegonzalezd046/beginner-web-dev-38a3)
-- [toddle, the visual programming platform that is built in toddle](https://dev.to/andreas_mller_ecc8e88f6f/toddle-the-visual-programming-platform-that-is-built-in-toddle-2omi)
-- [QA Tester, QA Engineer, QA Automation Engineer, and SDET. What’s the difference?](https://dev.to/johnnyv5g/qa-tester-qa-engineer-qa-automation-engineer-and-sdet-whats-the-difference-17nb)
+- [Borrowing and References in Rust Explained](https://dev.to/cudilala/borrowing-and-references-in-rust-explained-45m8)
+- [Installing AWS CloudWatch Agent on On-Premises Servers Using SSM](https://dev.to/petereskandar/installing-aws-cloudwatch-agent-on-on-premises-servers-using-ssm-3cjn)
+- [Merge and bundle open api yaml files for swagger](https://dev.to/mehdifaraji/merge-and-bundle-open-api-yaml-files-for-swagger-f5c)
+- [Fix for EPERM: operation not permitted &lpar;...$types.d.ts&rpar;](https://dev.to/digitaldrreamer/fix-for-eperm-operation-not-permitted-typesdts-1k6m)
 <!-- BLOG-POST-LIST:END -->
 
