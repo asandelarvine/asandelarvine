@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Auth Implementation using Next js and Neon DB for Neon Challenge](https://dev.to/sam_shalemrajtara_8bda2/full-stack-auth-implementation-using-next-js-and-neon-db-for-neon-challenge-22a7)
-- [Js | Type Conversion &amp; Type Coercion |](https://dev.to/ranjith_jr_fbf2e375879b08/js-type-conversion-type-coercion--303g)
-- [OAuth 2.0 Authentication in Spring Boot: A Guide to Integrating Google and GitHub Login](https://dev.to/ayushstwt/oauth-20-authentication-in-spring-boot-a-guide-to-integrating-google-and-github-login-2hga)
-- [Saba Framework: Mempermudah Pekerjaan Frontend dan Backend Developer](https://dev.to/amry_maftuh/saba-framework-mempermudah-pekerjaan-frontend-dan-backend-developer-5e7k)
+- [Managing High Traffic Applications with AWS Elastic Load Balancer and Terraform](https://dev.to/frankfolabi/managing-high-traffic-applications-with-aws-elastic-load-balancer-and-terraform-4np8)
+- [How to setup standalone CLI: use Tailwind CSS without Node.js in Shopify.](https://dev.to/prashant-ardeshana/how-to-setup-standalone-cli-use-tailwind-css-without-nodejs-in-shopify-3jl1)
+- [Flutter BottomNavigationBar](https://dev.to/aadarshk7/flutter-bottomnavigationbar-pnh)
+- [First Post](https://dev.to/vehad58154/first-post-26ed)
 <!-- BLOG-POST-LIST:END -->
 
