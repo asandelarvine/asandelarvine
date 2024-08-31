@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing High Traffic Applications with AWS Elastic Load Balancer and Terraform](https://dev.to/frankfolabi/managing-high-traffic-applications-with-aws-elastic-load-balancer-and-terraform-4np8)
-- [How to setup standalone CLI: use Tailwind CSS without Node.js in Shopify.](https://dev.to/prashant-ardeshana/how-to-setup-standalone-cli-use-tailwind-css-without-nodejs-in-shopify-3jl1)
-- [Flutter BottomNavigationBar](https://dev.to/aadarshk7/flutter-bottomnavigationbar-pnh)
-- [First Post](https://dev.to/vehad58154/first-post-26ed)
+- [Navigating the Hidden Costs of Cloud Migration: A Pre-Migration Checklist](https://dev.to/krunalbhimani/navigating-the-hidden-costs-of-cloud-migration-a-pre-migration-checklist-24oc)
+- [Cross-Account VPC Associations with Route53 Private Hosted Zone and Addressing Terraform State Update Issue](https://dev.to/aws-builders/cross-account-vpc-associations-with-route53-private-hosted-zone-and-addressing-terraform-state-update-issue-3eip)
+- [10-Day .Net Aspire Challenge: Day 4— Add Oracle Component](https://dev.to/ssukhpinder/10-day-net-aspire-challenge-day-4-add-oracle-component-1p38)
+- [Attempt #16 - Learnt about routing - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-16-learnt-about-routing-continued-the-react-crash-course-4iin)
 <!-- BLOG-POST-LIST:END -->
 
