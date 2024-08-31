@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Iterables: Generators](https://dev.to/if-els/understanding-python-iterables-generators-2ng)
-- [Day 61 / 100 Days of Code: Advanced Loops](https://dev.to/jacobsternx/day-61-100-days-of-code-advanced-loops-ljb)
-- [Configure Playwright with Next.js &amp; Mock APIs for Testing](https://dev.to/weamadel/configure-playwright-with-nextjs-mock-apis-for-testing-44oh)
-- [Real-Time Chat Application Starter kit with Neon Postgres, NestJS, and WebSocket.](https://dev.to/ayoaduwo/real-time-chat-application-starter-kit-with-neon-postgres-nestjs-and-websocket-k6n)
+- [🦊 GitLab: Forget GitKraken, Here Are The Only Git Commands You Need](https://dev.to/zenika/gitlab-forget-gitkraken-here-are-the-only-git-commands-you-need-4ckj)
+- [Introducing OpenHabitTracker: A Free, Open Source, and Privacy-Focused Habit Tracker](https://dev.to/jinjinov/introducing-openhabittracker-a-free-open-source-and-privacy-focused-habit-tracker-316j)
+- [Pet Translator Apps: Can We Really Talk to Our Pets?](https://dev.to/elisaray/pet-translator-apps-can-we-really-talk-to-our-pets-2hbo)
+- [Mengelola Kode Dengan Modul Dan Fungsi](https://dev.to/muzhawir/mengelola-kode-dengan-modul-dan-fungsi-15k2)
 <!-- BLOG-POST-LIST:END -->
 
