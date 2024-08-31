@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I have been in this community for a year, and I didn&#39;t even know. Anyone in berlin?](https://dev.to/max1234/i-have-been-in-this-community-for-a-year-and-i-didnt-even-know-eka)
-- [Leetcode: 258](https://dev.to/saifulire/leetcode-258-2ge0)
-- [IA com C# - Exemplo: Prever se um cliente será um bom ou mau pagador de um empréstimo](https://dev.to/juarezasjunior/ia-com-c-exemplo-prever-se-um-cliente-sera-um-bom-ou-mau-pagador-de-um-emprestimo-j25)
-- [Differences between Ethereum’s send/transfer/call functions](https://dev.to/110nard0/understanding-ethereums-sendtransfercall-functions-2f1m)
+- [Understanding the Mediator Pattern and CQRS with dart_mediatR](https://dev.to/farajshuaib/understanding-the-mediator-pattern-and-cqrs-with-dartmediatr-2aj7)
+- [Proper Header File Etiquette](https://dev.to/pauljlucas/proper-header-file-etiquette-ola)
+- [Database Migration from OnPrem to AWS RDS](https://dev.to/prakash_rao/database-migration-from-onprem-to-aws-rds-5h01)
+- [Explore Ethereal Flow: Adventure-Puzzle Game Demo in Unity!](https://dev.to/rishi_nalem/explore-ethereal-flow-adventure-puzzle-game-demo-in-unity-4nlo)
 <!-- BLOG-POST-LIST:END -->
 
