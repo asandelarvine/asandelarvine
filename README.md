@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Hidden Costs of Cloud Migration: A Pre-Migration Checklist](https://dev.to/krunalbhimani/navigating-the-hidden-costs-of-cloud-migration-a-pre-migration-checklist-24oc)
-- [Cross-Account VPC Associations with Route53 Private Hosted Zone and Addressing Terraform State Update Issue](https://dev.to/aws-builders/cross-account-vpc-associations-with-route53-private-hosted-zone-and-addressing-terraform-state-update-issue-3eip)
-- [10-Day .Net Aspire Challenge: Day 4— Add Oracle Component](https://dev.to/ssukhpinder/10-day-net-aspire-challenge-day-4-add-oracle-component-1p38)
-- [Attempt #16 - Learnt about routing - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-16-learnt-about-routing-continued-the-react-crash-course-4iin)
+- [Dica C#: Pattern Matching Enhancements em Classes](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-em-classes-kp)
+- [Dica C#: Pattern Matching Enhancements](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-428p)
+- [Dica C#: List Patterns](https://dev.to/juarezasjunior/dica-c-list-patterns-30jn)
+- [Dica C#: Inline Arrays](https://dev.to/juarezasjunior/dica-c-inline-arrays-59hb)
 <!-- BLOG-POST-LIST:END -->
 
