@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Versioning with GitVersion &lpar;GitFlow&rpar;](https://dev.to/raulnq/semantic-versioning-with-gitversion-gitflow-1gb4)
-- [&quot;Insect Particlizer&quot; an Experiment of combining Pixel Manipulation with CSS.](https://dev.to/alishata128/insect-particlizer-an-experiment-of-combining-pixel-manipulation-with-css-1m49)
-- [Cartoon Character in a Login Form !](https://dev.to/alishata128/cartoon-character-in-a-login-form--46ol)
-- [Hoppscotch v2024.8.0: AWS Signature, Workspace Management APIs, and more..](https://dev.to/hoppscotch/hoppscotch-v202480-aws-signature-workspace-management-apis-and-more-3o3k)
+- [A Deep Dive into JavaScript Promise](https://dev.to/anne_ava_1572f4ce933428a/a-deep-dive-into-javascript-closures-3k6e)
+- [How to Integrate Passkeys in Python &lpar;FastAPI&rpar;](https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6)
+- [Type Casting Par-06](https://dev.to/monirulislam027/type-casting-par-06-6ho)
+- [Creating Middlewares in FastAPI: A Step-by-Step Guide](https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m)
 <!-- BLOG-POST-LIST:END -->
 
