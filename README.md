@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into JavaScript Promise](https://dev.to/anne_ava_1572f4ce933428a/a-deep-dive-into-javascript-closures-3k6e)
-- [How to Integrate Passkeys in Python &lpar;FastAPI&rpar;](https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6)
-- [Type Casting Par-06](https://dev.to/monirulislam027/type-casting-par-06-6ho)
-- [Creating Middlewares in FastAPI: A Step-by-Step Guide](https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m)
+- [Understanding Python Iterables: Generators](https://dev.to/if-els/understanding-python-iterables-generators-2ng)
+- [Day 61 / 100 Days of Code: Advanced Loops](https://dev.to/jacobsternx/day-61-100-days-of-code-advanced-loops-ljb)
+- [Configure Playwright with Next.js &amp; Mock APIs for Testing](https://dev.to/weamadel/configure-playwright-with-nextjs-mock-apis-for-testing-44oh)
+- [Real-Time Chat Application Starter kit with Neon Postgres, NestJS, and WebSocket.](https://dev.to/ayoaduwo/real-time-chat-application-starter-kit-with-neon-postgres-nestjs-and-websocket-k6n)
 <!-- BLOG-POST-LIST:END -->
 
