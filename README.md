@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy verified BYBIT account](https://dev.to/tumdgjzcindyga/buy-verified-bybit-account-246c)
+- [Mastering Java&#39;s rotateRight&lpar;&rpar; Method](https://dev.to/labex/mastering-javas-rotateright-method-2cn3)
 - [Why I got a Master&#39;s Degree for AI / ML](https://dev.to/integerman/why-i-got-a-masters-degree-for-ai-ml-3j)
-- [The persistent threat: Why major vulnerabilities like Log4Shell and Spring4Shell remain significant](https://dev.to/snyk/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant-1b3n)
-- [Managing Streaming Data with Min and Max Heaps in JavaScript: A Digital Athlete Health Tech Perspective](https://dev.to/adg29/managing-streaming-data-with-min-and-max-heaps-in-javascript-a-digital-athlete-health-tech-perspective-3d7g)
-- [Introdução às classes aninhadas e internas](https://dev.to/devsjavagirls/introducao-as-classes-aninhadas-e-internas-2on6)
+- [The Use of The ** Operator With Python and FastAPI Pydantic Classes](https://dev.to/stevepurpose/the-use-of-the-operator-with-python-and-fastapi-pydantic-classes-2aj)
 <!-- BLOG-POST-LIST:END -->
 
