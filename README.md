@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Mediator Pattern and CQRS with dart_mediatR](https://dev.to/farajshuaib/understanding-the-mediator-pattern-and-cqrs-with-dartmediatr-2aj7)
-- [Proper Header File Etiquette](https://dev.to/pauljlucas/proper-header-file-etiquette-ola)
-- [Database Migration from OnPrem to AWS RDS](https://dev.to/prakash_rao/database-migration-from-onprem-to-aws-rds-5h01)
-- [Explore Ethereal Flow: Adventure-Puzzle Game Demo in Unity!](https://dev.to/rishi_nalem/explore-ethereal-flow-adventure-puzzle-game-demo-in-unity-4nlo)
+- [My first blog&lpar;I&#39;m a blogger now, yeah!!&rpar;](https://dev.to/yuvraj_singhthakur_0f381/my-first-blogim-a-blogger-now-yeah-4201)
+- [🚀 📸 Creating Accessible and Stunning code screenshots](https://dev.to/blackmamba/creating-accessible-and-stunning-code-screenshots-4bkc)
+- [Creating a Dashboard with Streamlit](https://dev.to/csar_fabinchvezlinar/creating-a-dashboard-with-streamlit-2ili)
+- [Where to obtain &lt;script&gt; tags for latest react from official site?](https://dev.to/ladyofla/where-to-obtain-tags-for-latest-react-from-official-site-31md)
 <!-- BLOG-POST-LIST:END -->
 
