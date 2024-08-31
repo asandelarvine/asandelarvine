@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Adoption Accelerates Innovation and Industry Development](https://dev.to/k_ilhame/llm-adoption-accelerates-innovation-and-industry-development-kp0)
-- [Regarding Beginner Challenges](https://dev.to/ripul_khurana/regarding-beginner-challenges-1bd8)
-- [Como separar a rede 2.4/5G híbrida da Vivo](https://dev.to/heymarkkop/como-separar-a-rede-245g-hibrida-da-vivo-1nb2)
-- [Cleaning up Obsolete Cloudflare Page Deployments](https://dev.to/maxim_radugin/cleaning-up-obsolete-cloudflare-page-deployments-3f7b)
+- [Colors and Backgrounds in CSS](https://dev.to/ridoy_hasan/colors-and-backgrounds-in-css-6gf)
+- [Email Buddy: An LLM-Enhanced Inbox](https://dev.to/logarithmicspirals/email-buddy-an-llm-enhanced-inbox-h7b)
+- [Nestjs, Firebase, GCloud. How to Quickly Set Up an API Backend in TypeScript.](https://dev.to/stonedcatt/nestjs-firebase-gcloud-how-to-quickly-set-up-an-api-backend-in-typescript-9no)
+- [Understanding Monorepo: A Deeper Dive](https://dev.to/aimes/understanding-monorepo-a-deeper-dive-8lh)
 <!-- BLOG-POST-LIST:END -->
 
