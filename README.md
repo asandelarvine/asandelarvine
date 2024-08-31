@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Buy verified BYBIT account](https://dev.to/tumdgjzcindyga/buy-verified-bybit-account-246c)
-- [Mastering Java&#39;s rotateRight&lpar;&rpar; Method](https://dev.to/labex/mastering-javas-rotateright-method-2cn3)
-- [Why I got a Master&#39;s Degree for AI / ML](https://dev.to/integerman/why-i-got-a-masters-degree-for-ai-ml-3j)
-- [The Use of The ** Operator With Python and FastAPI Pydantic Classes](https://dev.to/stevepurpose/the-use-of-the-operator-with-python-and-fastapi-pydantic-classes-2aj)
+- [Semantic Versioning with GitVersion &lpar;GitFlow&rpar;](https://dev.to/raulnq/semantic-versioning-with-gitversion-gitflow-1gb4)
+- [&quot;Insect Particlizer&quot; an Experiment of combining Pixel Manipulation with CSS.](https://dev.to/alishata128/insect-particlizer-an-experiment-of-combining-pixel-manipulation-with-css-1m49)
+- [Cartoon Character in a Login Form !](https://dev.to/alishata128/cartoon-character-in-a-login-form--46ol)
+- [Hoppscotch v2024.8.0: AWS Signature, Workspace Management APIs, and more..](https://dev.to/hoppscotch/hoppscotch-v202480-aws-signature-workspace-management-apis-and-more-3o3k)
 <!-- BLOG-POST-LIST:END -->
 
