@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Think and Grow Rich - FAV0 Weekly #013](https://dev.to/justin3go/think-and-grow-rich-fav0-weekly-013-3n94)
-- [思考致富 - FAV0周刊#013](https://dev.to/justin3go/si-kao-zhi-fu-fav0013-3mgb)
-- [SpeakSign Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/speaksign-program-demonstration-rishi-nalem-22mf)
-- [Understanding Arrow Functions vs. Normal Functions in JavaScript](https://dev.to/vamsi_76_89/understanding-arrow-functions-vs-normal-functions-in-javascript-2ld1)
+- [WorkFlow. Your AI Powered Secretary.](https://dev.to/anshsaini/workflow-your-ai-powered-secretary-4np5)
+- [Polyfills: A peça que falta no seu quebra-cabeça JavaScript](https://dev.to/julianoalvescode/polyfills-a-peca-que-falta-no-seu-quebra-cabeca-javascript-35ff)
+- [OpportuniTrack - Job Application Tracker Powered by Nylas](https://dev.to/jamesshah/opportunitrack-job-application-tracker-powered-by-nylas-1coj)
+- [Why I Like Golang and Why It&#39;s the Best Language for Me.](https://dev.to/aliahadmd/why-i-like-golang-and-why-its-the-best-language-for-me-25d8)
 <!-- BLOG-POST-LIST:END -->
 
