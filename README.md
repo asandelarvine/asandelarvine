@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we decided to go with Kubernetes](https://dev.to/infinitezone/why-we-decided-to-go-with-kubernetes-512b)
-- [Using both Bootstrap and Tailwind CSS in a single React project](https://dev.to/swapnilahmedshishir/using-both-bootstrap-and-tailwind-css-in-a-single-react-project-2k49)
-- [Custom Built vs Off-the-Shelf Apps: 8 Things You Need to Know Before Making a Decision](https://dev.to/aaronsmithcs/custom-built-vs-off-the-shelf-apps-8-things-you-need-to-know-before-making-a-decision-4ke5)
-- [CBJS: Command Injection 6](https://dev.to/peppa6/cbjs-command-injection-6-1668)
+- [Unlocking the World of Technology: My Journey and Skillset](https://dev.to/binaries001/unlocking-the-world-of-technology-my-journey-and-skillset-5836)
+- [Nylas AI-Driven Email Summarizer and Actionable Insights Generator](https://dev.to/rajdhokai/nylas-ai-driven-email-summarizer-and-actionable-insights-generator-47n3)
+- [Exploring Core Features and Components of Apache Camel](https://dev.to/yanev/exploring-core-features-and-components-of-apache-camel-2450)
+- [Insights on Securing Your Kubernetes Cluster with Falco 🚀🔒](https://dev.to/hkhelil/insights-on-securing-your-kubernetes-cluster-with-falco-4b9g)
 <!-- BLOG-POST-LIST:END -->
 
