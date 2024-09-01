@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Language API that allows you to add your native language to it.](https://dev.to/dev_olatunji/language-api-that-allows-you-to-add-your-native-language-to-it-9oe)
-- [Blueprint:Python](https://dev.to/ayparpoyraz/blueprintpython-1j31)
-- [How to publish the Laravel maintenance mode view](https://dev.to/codewithcaen/how-to-publish-the-laravel-maintenance-mode-view-30dc)
-- [Why Choose Flutter Over React Native? A Deep Dive into the Pros and Cons](https://dev.to/pranta/why-you-should-flutter-over-react-native-a-comprehensive-perspective-1bo2)
+- [Think and Grow Rich - FAV0 Weekly #013](https://dev.to/justin3go/think-and-grow-rich-fav0-weekly-013-3n94)
+- [思考致富 - FAV0周刊#013](https://dev.to/justin3go/si-kao-zhi-fu-fav0013-3mgb)
+- [SpeakSign Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/speaksign-program-demonstration-rishi-nalem-22mf)
+- [Understanding Arrow Functions vs. Normal Functions in JavaScript](https://dev.to/vamsi_76_89/understanding-arrow-functions-vs-normal-functions-in-javascript-2ld1)
 <!-- BLOG-POST-LIST:END -->
 
