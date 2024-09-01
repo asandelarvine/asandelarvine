@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ninetails AI Stack powered by Neon Postgres: Earn your First Dollar on Internet](https://dev.to/raj_savaliya/ninetails-ai-stack-powered-by-neon-postgres-earn-your-first-dollar-on-internet-1b3i)
-- [SETTING UP A COST EFFECTIVE AWS ENVIRONMENT](https://dev.to/olaidelydia/setting-up-a-cost-effective-aws-environment-2l6o)
-- [Not Day One: Did I always suck that bad?](https://dev.to/gabriellafguerra/not-day-one-did-i-always-suck-that-bad-5af0)
-- [Introducing Nurl: Simplify Link Sharing with Nano URLs and QR Codes 🚀](https://dev.to/kulahad/introducing-nurl-simplify-link-sharing-with-nano-urls-and-qr-codes-3226)
+- [Lifetimes in Rust Explained with Examples](https://dev.to/cudilala/lifetimes-in-rust-explained-with-examples-3p2o)
+- [Understanding Environment Variables in Vite: Why VITE_ Prefix is Important](https://dev.to/stm-akikaze1119/understanding-environment-variables-in-vite-why-vite-prefix-is-important-5c3k)
+- [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
+- [Despliega un WordPress de Alta Disponibilidad en AWS con Terraform en 30 Minutos: Guía Paso a Paso](https://dev.to/francotel/despliega-un-wordpress-de-alta-disponibilidad-en-aws-con-terraform-en-30-minutos-guia-paso-a-paso-4dih)
 <!-- BLOG-POST-LIST:END -->
 
