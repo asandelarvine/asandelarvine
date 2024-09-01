@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Errors in Node.js: Turning Oops into Success 🚀](https://dev.to/khushindpatel/handling-errors-in-nodejs-turning-oops-into-success-1h03)
-- [Showcase Your Open-Source Contributions with Ease!](https://dev.to/depapp/showcase-your-open-source-contributions-with-ease-dno)
-- [RegExp in JavaScript](https://dev.to/zain725342/regexp-in-javascript-3g4p)
-- [Updating the Screen: React Documentation Introduction](https://dev.to/labex/updating-the-screen-react-documentation-introduction-3mcl)
+- [AI E-Mail Event Booking Agent](https://dev.to/dmitryrechkin/ai-e-mail-event-booking-agent-16oh)
+- [Vue js : Stripe integration](https://dev.to/ainaluc/vue-js-stripe-integration-3n8m)
+- [.js vs. .jsx: Should You Write Your React Code in .jsx?](https://dev.to/leetcode/js-vs-jsx-should-you-write-your-react-code-in-jsx-3mp9)
+- [How to Install Ruby on Windows, macOS, and Linux](https://dev.to/luigi_2ba3/how-to-install-ruby-on-windows-macos-and-linux-35o3)
 <!-- BLOG-POST-LIST:END -->
 
