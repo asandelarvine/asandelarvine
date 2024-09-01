@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Believe Lombok Should Be Discarded from Java Projects](https://dev.to/yanev/why-i-believe-lombok-should-be-discarded-from-java-projects-1g4h)
-- [Managing and Monitoring Modes for Ralink Technology Corp MT7601U](https://dev.to/abdelrahman_cys/managing-and-monitoring-modes-for-ralink-technology-corp-mt7601u-4p9p)
-- [Network Management and Monitoring Commands](https://dev.to/abdelrahman_cys/network-management-and-monitoring-commands-49g4)
-- [Top 5 Java Bugs &lpar;and Their Solutions&rpar; Every Developer Should Know](https://dev.to/hackyrupesh/top-5-java-bugs-and-their-solutions-every-developer-should-know-2i6f)
+- [Day 2: Creating a Signup Page with Express.js – Building the Foundation for User Registration](https://dev.to/adeleke123/day-2-creating-a-signup-page-with-expressjs-building-the-foundation-for-user-registration-2g3d)
+- [Unlocking WhatsApp Secrets: Analyzing Chat Data with Next.js 14 Web App](https://dev.to/rajeshroyal/unlocking-whatsapp-secrets-analyzing-chat-data-with-nextjs-14-web-app-489i)
+- [Efficient processing of Gzip-compressed files in Google Cloud Storage](https://dev.to/siddhantkcode/efficient-processing-of-gzip-compressed-files-in-google-cloud-storage-1pj)
+- [Lottie Animation: Flutter](https://dev.to/codewithusama/lottie-animation-flutter-3p26)
 <!-- BLOG-POST-LIST:END -->
 
