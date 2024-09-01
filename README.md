@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Start Your Python Programming Journey with Our New Learn Plan](https://dev.to/hermes-bytes/start-your-python-programming-journey-with-our-new-learn-plan-3h9h)
-- [How to Install Hadoop on Ubuntu: A Step-by-Step Guide](https://dev.to/haiphamcoder/how-to-install-hadoop-on-ubuntu-a-step-by-step-guide-52fc)
-- [Self-supervised xLSTM models learn powerful audio representations without labels](https://dev.to/mikeyoung44/self-supervised-xlstm-models-learn-powerful-audio-representations-without-labels-1fgj)
-- [In-Depth Study Reveals Data Exposure Risks from LLM Apps like OpenAI&#39;s GPTs](https://dev.to/mikeyoung44/in-depth-study-reveals-data-exposure-risks-from-llm-apps-like-openais-gpts-58c0)
+- [Why I Believe Lombok Should Be Discarded from Java Projects](https://dev.to/yanev/why-i-believe-lombok-should-be-discarded-from-java-projects-1g4h)
+- [Managing and Monitoring Modes for Ralink Technology Corp MT7601U](https://dev.to/abdelrahman_cys/managing-and-monitoring-modes-for-ralink-technology-corp-mt7601u-4p9p)
+- [Network Management and Monitoring Commands](https://dev.to/abdelrahman_cys/network-management-and-monitoring-commands-49g4)
+- [Top 5 Java Bugs &lpar;and Their Solutions&rpar; Every Developer Should Know](https://dev.to/hackyrupesh/top-5-java-bugs-and-their-solutions-every-developer-should-know-2i6f)
 <!-- BLOG-POST-LIST:END -->
 
