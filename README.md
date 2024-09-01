@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI E-Mail Event Booking Agent](https://dev.to/dmitryrechkin/ai-e-mail-event-booking-agent-16oh)
-- [Vue js : Stripe integration](https://dev.to/ainaluc/vue-js-stripe-integration-3n8m)
-- [.js vs. .jsx: Should You Write Your React Code in .jsx?](https://dev.to/leetcode/js-vs-jsx-should-you-write-your-react-code-in-jsx-3mp9)
-- [How to Install Ruby on Windows, macOS, and Linux](https://dev.to/luigi_2ba3/how-to-install-ruby-on-windows-macos-and-linux-35o3)
+- [Common HTML Tags: A 2024 Perspective](https://dev.to/areeb_anwar_813df06ee1124/common-html-tags-a-2024-perspective-486c)
+- [Enhancing Performance with Static Analysis, Image Initialization and Heap Snapshotting](https://dev.to/yanev/enhancing-performance-with-static-analysis-image-initialization-and-heap-snapshotting-263f)
+- [Kafka Demystified: A Developer&#39;s Guide to Efficient Data Streaming](https://dev.to/akshat_gautam/kafka-demystified-a-developers-guide-to-efficient-data-streaming-2jo3)
+- [Mastering Axios: A Technical Guide to Building Your Food Delivery App🍔✨](https://dev.to/ankitakanchan/mastering-axios-a-technical-guide-to-building-your-food-delivery-app-1j78)
 <!-- BLOG-POST-LIST:END -->
 
