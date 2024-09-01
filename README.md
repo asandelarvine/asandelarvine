@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common HTML Tags: A 2024 Perspective](https://dev.to/areeb_anwar_813df06ee1124/common-html-tags-a-2024-perspective-486c)
-- [Enhancing Performance with Static Analysis, Image Initialization and Heap Snapshotting](https://dev.to/yanev/enhancing-performance-with-static-analysis-image-initialization-and-heap-snapshotting-263f)
-- [Kafka Demystified: A Developer&#39;s Guide to Efficient Data Streaming](https://dev.to/akshat_gautam/kafka-demystified-a-developers-guide-to-efficient-data-streaming-2jo3)
-- [Mastering Axios: A Technical Guide to Building Your Food Delivery App🍔✨](https://dev.to/ankitakanchan/mastering-axios-a-technical-guide-to-building-your-food-delivery-app-1j78)
+- [Start Your Python Programming Journey with Our New Learn Plan](https://dev.to/hermes-bytes/start-your-python-programming-journey-with-our-new-learn-plan-3h9h)
+- [How to Install Hadoop on Ubuntu: A Step-by-Step Guide](https://dev.to/haiphamcoder/how-to-install-hadoop-on-ubuntu-a-step-by-step-guide-52fc)
+- [Self-supervised xLSTM models learn powerful audio representations without labels](https://dev.to/mikeyoung44/self-supervised-xlstm-models-learn-powerful-audio-representations-without-labels-1fgj)
+- [In-Depth Study Reveals Data Exposure Risks from LLM Apps like OpenAI&#39;s GPTs](https://dev.to/mikeyoung44/in-depth-study-reveals-data-exposure-risks-from-llm-apps-like-openais-gpts-58c0)
 <!-- BLOG-POST-LIST:END -->
 
