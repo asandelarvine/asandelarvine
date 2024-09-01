@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the World of Technology: My Journey and Skillset](https://dev.to/binaries001/unlocking-the-world-of-technology-my-journey-and-skillset-5836)
-- [Nylas AI-Driven Email Summarizer and Actionable Insights Generator](https://dev.to/rajdhokai/nylas-ai-driven-email-summarizer-and-actionable-insights-generator-47n3)
-- [Exploring Core Features and Components of Apache Camel](https://dev.to/yanev/exploring-core-features-and-components-of-apache-camel-2450)
-- [Insights on Securing Your Kubernetes Cluster with Falco 🚀🔒](https://dev.to/hkhelil/insights-on-securing-your-kubernetes-cluster-with-falco-4b9g)
+- [✨ 2 Parallax Background Effects in CSS - Simple &amp; Horizontal Parallax : Part1](https://dev.to/uicraft_by_pratik/2-parallax-background-effects-in-css-simple-horizontal-parallax-part1-4n99)
+- [Firebase notification&lpar;FCM&rpar; in .NET 8 with GraphQL and Rest API](https://dev.to/extinctsion/firebase-notificationfcm-in-net-8-with-graphql-and-rest-api-4mgi)
+- [Boosting Query Performance: How Indexing Speeds Up Your Database](https://dev.to/naly_moslih/boosting-query-performance-how-indexing-speeds-up-your-database-6d1)
+- [With the fall of Stack Overflow, AI Coding Assistants like GitHub Copilot will have a data problem!](https://dev.to/robinmanuelthiel/with-the-fall-of-stack-overflow-ai-coding-assistants-like-github-copilot-will-have-a-data-problem-36mi)
 <!-- BLOG-POST-LIST:END -->
 
