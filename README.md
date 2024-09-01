@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential VS Code Extensions Every Developer Should Know](https://dev.to/itshayder/10-essential-vs-code-extensions-every-developer-should-know-4j92)
-- [Native Naïveté: Why Native Applications Still Have a Future](https://dev.to/dedsyn4ps3/native-naivete-why-native-applications-still-have-a-future-poe)
-- [How to deploy to maven central repo](https://dev.to/ozkanpakdil/how-to-deploy-to-maven-central-repo-4mhp)
-- [AWS Virtual Private Cloud](https://dev.to/ooluwatobi_o/aws-virtual-private-cloud-4i2p)
+- [Ninetails AI Stack powered by Neon Postgres: Earn your First Dollar on Internet](https://dev.to/raj_savaliya/ninetails-ai-stack-powered-by-neon-postgres-earn-your-first-dollar-on-internet-1b3i)
+- [SETTING UP A COST EFFECTIVE AWS ENVIRONMENT](https://dev.to/olaidelydia/setting-up-a-cost-effective-aws-environment-2l6o)
+- [Not Day One: Did I always suck that bad?](https://dev.to/gabriellafguerra/not-day-one-did-i-always-suck-that-bad-5af0)
+- [Introducing Nurl: Simplify Link Sharing with Nano URLs and QR Codes 🚀](https://dev.to/kulahad/introducing-nurl-simplify-link-sharing-with-nano-urls-and-qr-codes-3226)
 <!-- BLOG-POST-LIST:END -->
 
