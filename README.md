@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 62 / 100 Days of Code: Objects are the JavaScript Building Blocks](https://dev.to/jacobsternx/day-62-100-days-of-code-objects-are-the-javascript-building-blocks-1hfn)
-- [Finally, a Tool to Convert Tailwind to CSS Instantly](https://dev.to/adribyme/finally-a-tool-to-convert-tailwind-to-css-instantly-8jb)
-- [Diary of Software Developer #5 - Learning Report](https://dev.to/antoniodev/diary-of-software-developer-5-learning-report-34am)
-- [Streamline Your Projects: A Cutting-Edge Neon Task Management Starter Kit](https://dev.to/chintanonweb/streamline-your-projects-a-cutting-edge-neon-task-management-starter-kit-2njj)
+- [Writing a plugin for upscaling rendering under ThreeJS](https://dev.to/devsdaddy/writing-a-plugin-for-upscaling-rendering-under-threejs-19mh)
+- [How to Enable .NET Framework 4.8 Advanced Services in Windows 11?](https://dev.to/winsides/how-to-enable-net-framework-48-advanced-services-in-windows-11-25ip)
+- [Proxmox Security Series:SSH Through Firewall](https://dev.to/sebos/proxmox-security-seriesssh-through-firewall-405f)
+- [Data Dance Party in Salesforce: Mastering DML &amp; SOQL with Code](https://dev.to/decoders_lord/data-dance-party-in-salesforce-mastering-dml-soql-with-code-4pgl)
 <!-- BLOG-POST-LIST:END -->
 
