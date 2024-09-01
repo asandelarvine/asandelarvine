@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Linux Commands Every DevOps Engineer Should Know](https://dev.to/haythammostafa/top-linux-commands-every-devops-engineer-should-know-1029)
-- [CONFIGURE EXPRESS WITH .EJS TEMPLATE](https://dev.to/hopelesscoder/configure-express-with-ejs-template-1ach)
-- [Median of Two Sorted Arrays – LeetCode Hard Solutions](https://dev.to/imkrunalkanojiya/median-of-two-sorted-arrays-leetcode-hard-solutions-2epd)
-- [How to Build and Manage Successful Software Development Teams in Africa](https://dev.to/tribesquare/how-to-build-and-manage-successful-software-development-teams-in-africa-1k94)
+- [10 Essential VS Code Extensions Every Developer Should Know](https://dev.to/itshayder/10-essential-vs-code-extensions-every-developer-should-know-4j92)
+- [Native Naïveté: Why Native Applications Still Have a Future](https://dev.to/dedsyn4ps3/native-naivete-why-native-applications-still-have-a-future-poe)
+- [How to deploy to maven central repo](https://dev.to/ozkanpakdil/how-to-deploy-to-maven-central-repo-4mhp)
+- [AWS Virtual Private Cloud](https://dev.to/ooluwatobi_o/aws-virtual-private-cloud-4i2p)
 <!-- BLOG-POST-LIST:END -->
 
