@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 2 Parallax Background Effects in CSS - Simple &amp; Horizontal Parallax : Part1](https://dev.to/uicraft_by_pratik/2-parallax-background-effects-in-css-simple-horizontal-parallax-part1-4n99)
-- [Firebase notification&lpar;FCM&rpar; in .NET 8 with GraphQL and Rest API](https://dev.to/extinctsion/firebase-notificationfcm-in-net-8-with-graphql-and-rest-api-4mgi)
-- [Boosting Query Performance: How Indexing Speeds Up Your Database](https://dev.to/naly_moslih/boosting-query-performance-how-indexing-speeds-up-your-database-6d1)
-- [With the fall of Stack Overflow, AI Coding Assistants like GitHub Copilot will have a data problem!](https://dev.to/robinmanuelthiel/with-the-fall-of-stack-overflow-ai-coding-assistants-like-github-copilot-will-have-a-data-problem-36mi)
+- [How a history-aware retriever works?](https://dev.to/guilhermecxe/how-a-history-aware-retriever-works-5e07)
+- [Frontend Resources V2! 🚀](https://dev.to/miguelrodriguezp99/frontend-resources-v2-57mj)
+- [Building a RESTFul RecipeAPI with Django and SQlite](https://dev.to/alexander784/building-a-restful-recipeapi-with-django-and-sqlite-36i1)
+- [Website Time dataset](https://dev.to/victordalet/website-time-dataset-3k47)
 <!-- BLOG-POST-LIST:END -->
 
