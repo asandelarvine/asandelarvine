@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a plugin for upscaling rendering under ThreeJS](https://dev.to/devsdaddy/writing-a-plugin-for-upscaling-rendering-under-threejs-19mh)
-- [How to Enable .NET Framework 4.8 Advanced Services in Windows 11?](https://dev.to/winsides/how-to-enable-net-framework-48-advanced-services-in-windows-11-25ip)
-- [Proxmox Security Series:SSH Through Firewall](https://dev.to/sebos/proxmox-security-seriesssh-through-firewall-405f)
-- [Data Dance Party in Salesforce: Mastering DML &amp; SOQL with Code](https://dev.to/decoders_lord/data-dance-party-in-salesforce-mastering-dml-soql-with-code-4pgl)
+- [Top Linux Commands Every DevOps Engineer Should Know](https://dev.to/haythammostafa/top-linux-commands-every-devops-engineer-should-know-1029)
+- [CONFIGURE EXPRESS WITH .EJS TEMPLATE](https://dev.to/hopelesscoder/configure-express-with-ejs-template-1ach)
+- [Median of Two Sorted Arrays – LeetCode Hard Solutions](https://dev.to/imkrunalkanojiya/median-of-two-sorted-arrays-leetcode-hard-solutions-2epd)
+- [How to Build and Manage Successful Software Development Teams in Africa](https://dev.to/tribesquare/how-to-build-and-manage-successful-software-development-teams-in-africa-1k94)
 <!-- BLOG-POST-LIST:END -->
 
