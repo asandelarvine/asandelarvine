@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fastest Llama: Uncovering the Speed of LLMs](https://dev.to/fr4ncis/the-fastest-llama-uncovering-the-speed-of-llms-5ap8)
-- [Understanding call, apply, and bind in JavaScript with Simple Examples](https://dev.to/vamsi_76_89/understanding-call-apply-and-bind-in-javascript-with-simple-examples-4m5p)
-- [Day 3:From Strings to Numbers: Demystifying JavaScript Type Conversions](https://dev.to/alwaysaman/day-3from-strings-to-numbers-demystifying-javascript-type-conversions-1468)
-- [And the Oscar Goes to … Coding a Chronology Component](https://dev.to/madsstoumann/and-the-oscar-goes-to-coding-a-chronology-component-24hf)
+- [Why we decided to go with Kubernetes](https://dev.to/infinitezone/why-we-decided-to-go-with-kubernetes-512b)
+- [Using both Bootstrap and Tailwind CSS in a single React project](https://dev.to/swapnilahmedshishir/using-both-bootstrap-and-tailwind-css-in-a-single-react-project-2k49)
+- [Custom Built vs Off-the-Shelf Apps: 8 Things You Need to Know Before Making a Decision](https://dev.to/aaronsmithcs/custom-built-vs-off-the-shelf-apps-8-things-you-need-to-know-before-making-a-decision-4ke5)
+- [CBJS: Command Injection 6](https://dev.to/peppa6/cbjs-command-injection-6-1668)
 <!-- BLOG-POST-LIST:END -->
 
