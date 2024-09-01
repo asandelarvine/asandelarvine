@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstart Your Serverless Project in a Snap](https://dev.to/babacar_ba_73bfd3422e6805/kickstart-your-serverless-project-in-a-snap-6j3)
-- [Today&#39;s Trending Projects: Implement Card Binding Function and More](https://dev.to/labex/todays-trending-projects-implement-card-binding-function-and-more-1bc1)
-- [O que são Data Warehouses e o sistema OLAP](https://dev.to/feliperfdev/o-que-sao-data-warehouses-e-o-sistema-olap-2d6k)
-- [Enhance Your Spring Boot Skills by Solving Exception Handling Issues: Implement a Global Handler for UserNotFoundException](https://dev.to/anupam_tarai_3250344e48cd/enhance-exception-handling-and-implement-global-exception-handler-for-usernotfoundexception-22ap)
+- [Handling Errors in Node.js: Turning Oops into Success 🚀](https://dev.to/khushindpatel/handling-errors-in-nodejs-turning-oops-into-success-1h03)
+- [Showcase Your Open-Source Contributions with Ease!](https://dev.to/depapp/showcase-your-open-source-contributions-with-ease-dno)
+- [RegExp in JavaScript](https://dev.to/zain725342/regexp-in-javascript-3g4p)
+- [Updating the Screen: React Documentation Introduction](https://dev.to/labex/updating-the-screen-react-documentation-introduction-3mcl)
 <!-- BLOG-POST-LIST:END -->
 
