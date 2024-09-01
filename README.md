@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Borrowing and References in Rust Explained](https://dev.to/cudilala/borrowing-and-references-in-rust-explained-45m8)
-- [Installing AWS CloudWatch Agent on On-Premises Servers Using SSM](https://dev.to/petereskandar/installing-aws-cloudwatch-agent-on-on-premises-servers-using-ssm-3cjn)
-- [Merge and bundle open api yaml files for swagger](https://dev.to/mehdifaraji/merge-and-bundle-open-api-yaml-files-for-swagger-f5c)
-- [Fix for EPERM: operation not permitted &lpar;...$types.d.ts&rpar;](https://dev.to/digitaldrreamer/fix-for-eperm-operation-not-permitted-typesdts-1k6m)
+- [Enhance Your Spring Boot Skills by Solving Exception Handling Issues: Implement a Global Handler for UserNotFoundException](https://dev.to/anupam_tarai_3250344e48cd/enhance-exception-handling-and-implement-global-exception-handler-for-usernotfoundexception-22ap)
+- [Introducing: A Frontend Architect&#39;s Journey](https://dev.to/santhanam87/introducing-a-frontend-architects-journey-51fc)
+- [Technology Stack Selection: A Balancing Act](https://dev.to/santhanam87/technology-stack-selection-a-balancing-act-45gi)
+- [Laying the Foundation: Bootstrapping a New Frontend Ecosystem](https://dev.to/santhanam87/laying-the-foundation-bootstrapping-a-new-frontend-ecosystem-3k21)
 <!-- BLOG-POST-LIST:END -->
 
