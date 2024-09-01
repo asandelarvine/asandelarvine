@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a history-aware retriever works?](https://dev.to/guilhermecxe/how-a-history-aware-retriever-works-5e07)
-- [Frontend Resources V2! 🚀](https://dev.to/miguelrodriguezp99/frontend-resources-v2-57mj)
-- [Building a RESTFul RecipeAPI with Django and SQlite](https://dev.to/alexander784/building-a-restful-recipeapi-with-django-and-sqlite-36i1)
-- [Website Time dataset](https://dev.to/victordalet/website-time-dataset-3k47)
+- [Language API that allows you to add your native language to it.](https://dev.to/dev_olatunji/language-api-that-allows-you-to-add-your-native-language-to-it-9oe)
+- [Blueprint:Python](https://dev.to/ayparpoyraz/blueprintpython-1j31)
+- [How to publish the Laravel maintenance mode view](https://dev.to/codewithcaen/how-to-publish-the-laravel-maintenance-mode-view-30dc)
+- [Why Choose Flutter Over React Native? A Deep Dive into the Pros and Cons](https://dev.to/pranta/why-you-should-flutter-over-react-native-a-comprehensive-perspective-1bo2)
 <!-- BLOG-POST-LIST:END -->
 
