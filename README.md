@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WorkFlow. Your AI Powered Secretary.](https://dev.to/anshsaini/workflow-your-ai-powered-secretary-4np5)
-- [Polyfills: A peça que falta no seu quebra-cabeça JavaScript](https://dev.to/julianoalvescode/polyfills-a-peca-que-falta-no-seu-quebra-cabeca-javascript-35ff)
-- [OpportuniTrack - Job Application Tracker Powered by Nylas](https://dev.to/jamesshah/opportunitrack-job-application-tracker-powered-by-nylas-1coj)
-- [Why I Like Golang and Why It&#39;s the Best Language for Me.](https://dev.to/aliahadmd/why-i-like-golang-and-why-its-the-best-language-for-me-25d8)
+- [Day 62 / 100 Days of Code: Objects are the JavaScript Building Blocks](https://dev.to/jacobsternx/day-62-100-days-of-code-objects-are-the-javascript-building-blocks-1hfn)
+- [Finally, a Tool to Convert Tailwind to CSS Instantly](https://dev.to/adribyme/finally-a-tool-to-convert-tailwind-to-css-instantly-8jb)
+- [Diary of Software Developer #5 - Learning Report](https://dev.to/antoniodev/diary-of-software-developer-5-learning-report-34am)
+- [Streamline Your Projects: A Cutting-Edge Neon Task Management Starter Kit](https://dev.to/chintanonweb/streamline-your-projects-a-cutting-edge-neon-task-management-starter-kit-2njj)
 <!-- BLOG-POST-LIST:END -->
 
