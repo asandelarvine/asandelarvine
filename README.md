@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix MySQL Shutdown Unexpectedly Error](https://dev.to/dbvismarketing/how-to-fix-mysql-shutdown-unexpectedly-error-2im0)
-- [NextJS Authentication Boilerplate from &quot;scratch&quot;](https://dev.to/lovefrom/nextjs-authentication-boilerplate-9h2)
-- [Part 3/3: How to Implement Refresh Tokens through Http-Only Cookie in NestJS and React](https://dev.to/zenstok/part-33-how-to-implement-refresh-tokens-through-http-only-cookie-in-nestjs-and-react-265e)
-- [Building SmartInbox: My Nylas Journey](https://dev.to/spruceemma/building-smartinbox-my-nylas-journey-34nm)
+- [How Squadcast’s Workflows Enhance Incident Management Automation?](https://dev.to/squadcast/how-squadcasts-workflows-enhance-incident-management-automation-1mjo)
+- [I Made a AI-Powered Real-Time Platform for Developers](https://dev.to/paird/i-made-a-ai-powered-real-time-platform-for-developers-4p93)
+- [Introducing Squadcast’s Intelligent Alert Grouping and Snooze Notifications](https://dev.to/squadcast/introducing-squadcasts-intelligent-alert-grouping-and-snooze-notifications-2jm4)
+- [Mastering IAM in AWS: A Guide to Secure Cloud Access Management](https://dev.to/hammad_khan_efaf55b5cc7b7/mastering-iam-in-aws-a-guide-to-secure-cloud-access-management-41l8)
 <!-- BLOG-POST-LIST:END -->
 
