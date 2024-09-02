@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2022-26923 | TryHackMe](https://dev.to/yowise/cve-2022-26923-thm-2f60)
-- [A &quot;New Way&quot; to Pay Creators](https://dev.to/alvaromontoro/a-new-way-to-pay-creators-je4)
-- [Linux on Apple Silicon: The good, the bad, and the ugly](https://dev.to/santisbon/linux-on-apple-silicon-the-good-the-bad-and-the-ugly-37m)
-- [Network load Balancer](https://dev.to/clintt/network-load-balancer-2gfb)
+- [RabbitMQ container with Docker Compose](https://dev.to/zsevic/rabbitmq-container-with-docker-compose-4n8i)
+- [Demystifying CPF and CNPJ Check Digit Algorithms: A Clear and Concise Approach](https://dev.to/leandrostl/demystifying-cpf-and-cnpj-check-digit-algorithms-a-clear-and-concise-approach-f3j)
+- [SETTING UP A COST-EFFECTIVE AWS ENVIRONMENT FOR A SMALL TECH STARTUP](https://dev.to/simon_essien_6ed5b9ac3f35/setting-up-a-cost-effective-aws-environment-for-a-small-tech-startup-4d37)
+- [Bubble Sort, Selection Sort, Insertion Sort | Data Structures &amp; Algorithms in JavaScript](https://dev.to/gdebojyoti/bubble-sort-selection-sort-insertion-sort-data-structures-algorithms-in-javascript-8ff)
 <!-- BLOG-POST-LIST:END -->
 
