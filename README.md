@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Apps and Yaml](https://dev.to/wyattdave/power-apps-and-yaml-5f3a)
-- [How APIs Power Microservices Architectures 101 Guide](https://dev.to/getambassador2024/how-apis-power-microservices-architectures-101-guide-8d2)
-- [Operators Part-07](https://dev.to/monirulislam027/operators-part-07-35d5)
-- [MailTales - Make Emails Fun Again!](https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l)
+- [How to Fix MySQL Shutdown Unexpectedly Error](https://dev.to/dbvismarketing/how-to-fix-mysql-shutdown-unexpectedly-error-2im0)
+- [NextJS Authentication Boilerplate from &quot;scratch&quot;](https://dev.to/lovefrom/nextjs-authentication-boilerplate-9h2)
+- [Part 3/3: How to Implement Refresh Tokens through Http-Only Cookie in NestJS and React](https://dev.to/zenstok/part-33-how-to-implement-refresh-tokens-through-http-only-cookie-in-nestjs-and-react-265e)
+- [Building SmartInbox: My Nylas Journey](https://dev.to/spruceemma/building-smartinbox-my-nylas-journey-34nm)
 <!-- BLOG-POST-LIST:END -->
 
