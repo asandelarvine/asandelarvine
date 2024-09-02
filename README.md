@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifetimes in Rust Explained with Examples](https://dev.to/cudilala/lifetimes-in-rust-explained-with-examples-3p2o)
-- [Understanding Environment Variables in Vite: Why VITE_ Prefix is Important](https://dev.to/stm-akikaze1119/understanding-environment-variables-in-vite-why-vite-prefix-is-important-5c3k)
-- [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
-- [Despliega un WordPress de Alta Disponibilidad en AWS con Terraform en 30 Minutos: Guía Paso a Paso](https://dev.to/francotel/despliega-un-wordpress-de-alta-disponibilidad-en-aws-con-terraform-en-30-minutos-guia-paso-a-paso-4dih)
+- [The Singleton Pattern in C#: Why It’s a Classic Choice](https://dev.to/dazevedo/the-singleton-pattern-in-c-why-its-a-classic-choice-4cfl)
+- [Implementing a Visitor Counter on Azure Resume Challenge](https://dev.to/oluwatobi2001/implementing-a-visitor-counter-on-azure-resume-challenge-2i63)
+- [LocalStorage, SessionStorage e Cookies: Como funcionam e quando usar cada um](https://dev.to/gguife/localstorage-sessionstorage-e-cookies-como-funcionam-e-quando-utiliza-los-51fp)
+- [Why Design Patterns Matter in C# Development](https://dev.to/dazevedo/why-design-patterns-matter-in-c-development-2kp)
 <!-- BLOG-POST-LIST:END -->
 
