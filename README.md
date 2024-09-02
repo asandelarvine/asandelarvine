@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Kubernetes Namespaces?](https://dev.to/spacelift/what-are-kubernetes-namespaces-1ca5)
-- [Serverless AWS Account Watcher](https://dev.to/rdarrylr/serverless-aws-account-watcher-35ck)
-- [How to make a Chat App using Laravel 11 and Angular 17](https://dev.to/midhun_nair/how-to-make-a-chat-app-using-laravel-11-and-angular-17-35e3)
-- [Lambda function using Docker Container Image -Part 2 Measuring cold and warm starts of Lambda function with Java &lpar;21&rpar; runtime](https://dev.to/aws-builders/lambda-function-using-docker-container-image-part-2-measuring-cold-and-warm-starts-of-lambda-function-with-java-21-runtime-mof)
+- [Casual Clothes App Using Next.js 14, TypeScript, Prisma &amp; Next-Auth](https://dev.to/devtips3/casual-clothes-app-using-nextjs-14-typescript-prisma-next-auth-3p95)
+- [Travel Booking Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth](https://dev.to/devtips3/travel-booking-using-nextjs-14-prisma-tailwindcss-next-auth-3p5c)
+- [Building a D&amp;D 5e Character Generator: A Journey Through SQL and RPG Complexity](https://dev.to/paulama3/building-a-dd-5e-character-generator-a-journey-through-sql-and-rpg-complexity-4pb7)
+- [EventBridge : contourner la limite de temps de réponse de 5s des &quot;API Destinations&quot;, à l&#39;aide de Lambda PowerTools](https://dev.to/aws-builders/eventbridge-contourner-la-limite-de-temps-de-reponse-de-5-s-des-api-destinations-a-laide-de-lambda-powertools-1ikd)
 <!-- BLOG-POST-LIST:END -->
 
