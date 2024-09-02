@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Dynamic Defense: My Experience with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/mastering-dynamic-defense-my-experience-with-safeline-waf-43n1)
-- [Building a Centralized API Proxy with YARP in .NET 8 Using Minimal APIs](https://dev.to/leandroveiga/building-a-centralized-api-proxy-with-yarp-in-net-8-using-minimal-apis-1hna)
-- [Ibuprofeno.py💊| #174: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-174-explica-este-codigo-python-3efb)
-- [How to Build an AI App?](https://dev.to/vincent_natalie_900aed10e/how-to-build-an-ai-app-17i1)
+- [The Supabase Book by David Lorenz](https://dev.to/supabase/the-supabase-book-by-david-lorenz-cl6)
+- [The impact of insurtech on traditional insurance models](https://dev.to/megaminds/the-impact-of-insurtech-on-traditional-insurance-models-1kb7)
+- [Mastering Shell Scripting: From Basics to Advanced Automation](https://dev.to/patadiarushabh/mastering-shell-scripting-from-basics-to-advanced-automation-343)
+- [Optional chaining is awesome!](https://dev.to/zain725342/optional-chaining-is-awesome-1g3g)
 <!-- BLOG-POST-LIST:END -->
 
