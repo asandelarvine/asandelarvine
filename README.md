@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Indexing: The Key to Lightning-Fast Queries](https://dev.to/torrezmn/database-indexing-the-key-to-lightning-fast-queries-1893)
-- [MailBot](https://dev.to/syed_nasreen_ebac74a250d1_42/mailbot-32op)
-- [Popular Next.js Tricks](https://dev.to/codewithshahan/popular-nextjs-tricks-241a)
-- [Oracle Cloud Port Opening Guide: Brothers, Here&#39;s How to Do It Right!](https://dev.to/rirh/oracle-cloud-port-opening-guide-brothers-heres-how-to-do-it-right-1468)
+- [Build AI Chat Apps in Minutes: Unleashing the Power of NeonChat Starter Kit](https://dev.to/jeremiahjacinth13/build-ai-chat-apps-in-minutes-unleashing-the-power-of-neonchat-starter-kit-3ip9)
+- [#55 — Remove Duplicate Rows](https://dev.to/judith677/55-remove-duplicate-rows-4dm2)
+- [Connect An Application to Neon Example &lpar;Go&rpar;](https://dev.to/mikoaro/connect-an-application-to-neon-example-go-1clg)
+- [React Express NeonDB starter kit](https://dev.to/jolouie7/react-express-neondb-starter-kit-3jpo)
 <!-- BLOG-POST-LIST:END -->
 
