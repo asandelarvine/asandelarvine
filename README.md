@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pessimistic locking, Read Committed, and all Isolation Levels](https://dev.to/yugabyte/pessimistic-locking-read-committed-and-all-isolation-levels-3n31)
-- [Unique PostgreSQL-compatible Distributed SQL database](https://dev.to/yugabyte/unique-postgresql-compatible-distributed-sql-database-2jc1)
-- [10 Facts About YugabyteDB: Misconceptions Debunked](https://dev.to/yugabyte/10-facts-about-yugabytedb-misconceptions-debunked-4ee4)
-- [Mastering JavaScript: Essential Tips for Beginners](https://dev.to/iamyathz/mastering-javascript-essential-tips-for-beginners-p2j)
+- [CVE-2022-26923 | TryHackMe](https://dev.to/yowise/cve-2022-26923-thm-2f60)
+- [A &quot;New Way&quot; to Pay Creators](https://dev.to/alvaromontoro/a-new-way-to-pay-creators-je4)
+- [Linux on Apple Silicon: The good, the bad, and the ugly](https://dev.to/santisbon/linux-on-apple-silicon-the-good-the-bad-and-the-ugly-37m)
+- [Network load Balancer](https://dev.to/clintt/network-load-balancer-2gfb)
 <!-- BLOG-POST-LIST:END -->
 
