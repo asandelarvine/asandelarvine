@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Move IO to the Edges of Your App](https://dev.to/canro91/move-io-to-the-edges-of-your-app-kkl)
-- [Handling Concurrency in C#: A Guide to Multithreading and Parallelism](https://dev.to/soham_galande/handling-concurrency-in-c-a-guide-to-multithreading-and-parallelism-446)
-- [Introduce the NestJS starter kit - Release v0.0.4 🚀](https://dev.to/piyushkacha/introduce-the-nestjs-starter-kit-release-v004-4cok)
-- [Image Optimization in Any Web Apps / Mobile Apps](https://dev.to/ashutoshsarangi/image-optimization-in-any-web-apps-mobile-apps-5c1m)
+- [Power Apps and Yaml](https://dev.to/wyattdave/power-apps-and-yaml-5f3a)
+- [How APIs Power Microservices Architectures 101 Guide](https://dev.to/getambassador2024/how-apis-power-microservices-architectures-101-guide-8d2)
+- [Operators Part-07](https://dev.to/monirulislam027/operators-part-07-35d5)
+- [MailTales - Make Emails Fun Again!](https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l)
 <!-- BLOG-POST-LIST:END -->
 
