@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Two Lines of CSS That Tanked Performance &lpar;120fps to 40fps&rpar;](https://dev.to/andrico1234/the-two-lines-of-css-that-tanked-performance-120fps-to-40fps-3lnj)
-- [A destination awaits when a journey begins.](https://dev.to/eightrix/a-destination-awaits-when-a-journey-begins-1p48)
-- [Create Shopping Cart using Alpinejs](https://dev.to/andrew-saeed/create-shopping-cart-using-alpinejs-1ncf)
-- [Rust for typescript devs: Functions](https://dev.to/rhl314/rust-for-typescript-devs-functions-1j71)
+- [Building a Reverse Proxy Backend Server](https://dev.to/abhishekjaiswal_4896/building-a-reverse-proxy-backend-server-3841)
+- [Optimizing Your React/Next.js Application](https://dev.to/wafa_bergaoui/optimizing-your-reactnextjs-application-h20)
+- [How I cleared my Kubernetes and Cloud Native Associate&lpar;KCNA&rpar; certification Exam?](https://dev.to/gaurav2988/how-i-cleared-my-kubernetes-and-cloud-native-associatekcna-certification-exam-128h)
+- [How I cleared my Kubernetes and Cloud Native Associate&lpar;KCNA&rpar; certification Exam?](https://dev.to/gaurav2988/how-i-cleared-my-kubernetes-and-cloud-native-associatekcna-certification-exam-5dk4)
 <!-- BLOG-POST-LIST:END -->
 
