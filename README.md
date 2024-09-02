@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Common HTML Myths Busted: What Every Developer Should Know!](https://dev.to/areeb_anwar_813df06ee1124/10-common-html-myths-busted-what-every-developer-should-know-cd7)
-- [Self-service BI 101 for B2B SaaS teams](https://dev.to/mklopets/self-service-bi-101-for-b2b-saas-teams-1i15)
-- [Launch website to public from Raspberry Pi](https://dev.to/kutt27/launch-website-to-public-from-raspberry-pi-2klh)
-- [log2&lpar;&rpar; and log10&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/log2-and-log10-in-pytorch-1b0d)
+- [Cloud Security: Who’s Responsibility Is It?](https://dev.to/thenjdevopsguy/cloud-security-whos-responsibility-is-it-52ha)
+- [Unloading a model from Ollama](https://dev.to/tallesl/unloading-a-model-from-ollama-2n4m)
+- [10 Reasons TypeScript is Transforming How We Build Web Apps](https://dev.to/nilebits/10-reasons-typescript-is-transforming-how-we-build-web-apps-2bmc)
+- [The Ultimate Guide to Data Science](https://dev.to/emmanuel_b/the-ultimate-guide-to-data-science-5728)
 <!-- BLOG-POST-LIST:END -->
 
