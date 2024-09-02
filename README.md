@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Casual Clothes App Using Next.js 14, TypeScript, Prisma &amp; Next-Auth](https://dev.to/devtips3/casual-clothes-app-using-nextjs-14-typescript-prisma-next-auth-3p95)
-- [Travel Booking Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth](https://dev.to/devtips3/travel-booking-using-nextjs-14-prisma-tailwindcss-next-auth-3p5c)
-- [Building a D&amp;D 5e Character Generator: A Journey Through SQL and RPG Complexity](https://dev.to/paulama3/building-a-dd-5e-character-generator-a-journey-through-sql-and-rpg-complexity-4pb7)
-- [EventBridge : contourner la limite de temps de réponse de 5s des &quot;API Destinations&quot;, à l&#39;aide de Lambda PowerTools](https://dev.to/aws-builders/eventbridge-contourner-la-limite-de-temps-de-reponse-de-5-s-des-api-destinations-a-laide-de-lambda-powertools-1ikd)
+- [What I Learned from Mentoring: A Mentor&#39;s Perspective](https://dev.to/joacod/what-i-learned-from-mentoring-a-mentors-perspective-42oo)
+- [Lost Connections and Making Changes](https://dev.to/zapwai/lost-connections-and-making-changes-anp)
+- [Why compete against Google is not crazy](https://dev.to/litlyx-org/why-compete-against-google-is-not-crazy-2op5)
+- [Mastodon Developers Needed](https://dev.to/manjunath_sajjan_e3cb02a8/mastodon-developers-needed-1l08)
 <!-- BLOG-POST-LIST:END -->
 
