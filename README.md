@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build AI Chat Apps in Minutes: Unleashing the Power of NeonChat Starter Kit](https://dev.to/jeremiahjacinth13/build-ai-chat-apps-in-minutes-unleashing-the-power-of-neonchat-starter-kit-3ip9)
-- [#55 — Remove Duplicate Rows](https://dev.to/judith677/55-remove-duplicate-rows-4dm2)
-- [Connect An Application to Neon Example &lpar;Go&rpar;](https://dev.to/mikoaro/connect-an-application-to-neon-example-go-1clg)
-- [React Express NeonDB starter kit](https://dev.to/jolouie7/react-express-neondb-starter-kit-3jpo)
+- [Highlights from Laracon US 2024 Keynote](https://dev.to/arafatweb/highlights-from-laracon-us-2024-keynote-110a)
+- [Developing My First ML Workflow: A Journey into Machine Learning on SageMaker](https://dev.to/official_tochy/developing-my-first-ml-workflow-a-journey-into-machine-learning-on-sagemaker-3fj2)
+- [Building My First Machine Learning Workflow: The Journey of &quot;Scones Unlimited&quot;](https://dev.to/official_tochy/building-my-first-machine-learning-workflow-the-journey-of-scones-unlimited-3nfk)
+- [Snowflake Grants : Read only](https://dev.to/digitalchemist/snowflake-grants-read-only-2flh)
 <!-- BLOG-POST-LIST:END -->
 
