@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with SafeLine: A Powerful and Free Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/my-experience-with-safeline-a-powerful-and-free-web-application-firewall-4emc)
-- [Ultimate Guide to SSL Certificates: From Core Concepts to Gateway Deployment](https://dev.to/api7/ultimate-guide-to-ssl-certificates-from-core-concepts-to-gateway-deployment-2ghc)
-- [Attempt #18 - Exploring Web Performance Metrics: FCP, LCP, and TTI](https://dev.to/dilsemonk/attempt-18-exploring-web-performance-metrics-fcp-lcp-and-tti-28dd)
-- [Mastering SOLID Principles in React Native and MERN Stack](https://dev.to/ajmal_hasan/mastering-solid-principles-in-react-native-and-mern-stack-1cnn)
+- [Mastering Dynamic Defense: My Experience with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/mastering-dynamic-defense-my-experience-with-safeline-waf-43n1)
+- [Building a Centralized API Proxy with YARP in .NET 8 Using Minimal APIs](https://dev.to/leandroveiga/building-a-centralized-api-proxy-with-yarp-in-net-8-using-minimal-apis-1hna)
+- [Ibuprofeno.py💊| #174: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-174-explica-este-codigo-python-3efb)
+- [How to Build an AI App?](https://dev.to/vincent_natalie_900aed10e/how-to-build-an-ai-app-17i1)
 <!-- BLOG-POST-LIST:END -->
 
