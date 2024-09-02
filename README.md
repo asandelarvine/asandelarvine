@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Autocorrelate Alerts With Squadcast’s Key-Based Deduplication](https://dev.to/squadcast/autocorrelate-alerts-with-squadcasts-key-based-deduplication-5280)
-- [Day 63 of 100 Days of Code: Navigating Nested Objects](https://dev.to/jacobsternx/day-63-of-100-days-of-code-navigating-nested-objects-4mdg)
-- [Comparing Uptime Monitoring, Heartbeat Monitoring, and Synthetic Monitoring](https://dev.to/squadcast/comparing-uptime-monitoring-heartbeat-monitoring-and-synthetic-monitoring-2oj4)
-- [Reminder to self &lpar;creating a Web Component&rpar;](https://dev.to/dannyengelman/reminder-to-self-creating-a-basic-web-component-3mja)
+- [My Experience with SafeLine: A Powerful and Free Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/my-experience-with-safeline-a-powerful-and-free-web-application-firewall-4emc)
+- [Ultimate Guide to SSL Certificates: From Core Concepts to Gateway Deployment](https://dev.to/api7/ultimate-guide-to-ssl-certificates-from-core-concepts-to-gateway-deployment-2ghc)
+- [Attempt #18 - Exploring Web Performance Metrics: FCP, LCP, and TTI](https://dev.to/dilsemonk/attempt-18-exploring-web-performance-metrics-fcp-lcp-and-tti-28dd)
+- [Mastering SOLID Principles in React Native and MERN Stack](https://dev.to/ajmal_hasan/mastering-solid-principles-in-react-native-and-mern-stack-1cnn)
 <!-- BLOG-POST-LIST:END -->
 
