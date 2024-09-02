@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RabbitMQ container with Docker Compose](https://dev.to/zsevic/rabbitmq-container-with-docker-compose-4n8i)
-- [Demystifying CPF and CNPJ Check Digit Algorithms: A Clear and Concise Approach](https://dev.to/leandrostl/demystifying-cpf-and-cnpj-check-digit-algorithms-a-clear-and-concise-approach-f3j)
-- [SETTING UP A COST-EFFECTIVE AWS ENVIRONMENT FOR A SMALL TECH STARTUP](https://dev.to/simon_essien_6ed5b9ac3f35/setting-up-a-cost-effective-aws-environment-for-a-small-tech-startup-4d37)
-- [Bubble Sort, Selection Sort, Insertion Sort | Data Structures &amp; Algorithms in JavaScript](https://dev.to/gdebojyoti/bubble-sort-selection-sort-insertion-sort-data-structures-algorithms-in-javascript-8ff)
+- [Setting Up a Cost-Effective AWS Environment for a Small Tech Startup.](https://dev.to/godfrey_ifenna/setting-up-a-cost-effective-aws-environment-for-a-small-tech-startup-918)
+- [Why use a well structured architecture in Android?](https://dev.to/yasmmin/why-use-a-well-structured-architecture-in-android-28j)
+- [searchkick resource_already_exists_exception](https://dev.to/ugifractal/searchkick-resourcealreadyexistsexception-2jb2)
+- [Cursor Pagination Example](https://dev.to/antusystem/cursor-pagination-example-3ldg)
 <!-- BLOG-POST-LIST:END -->
 
