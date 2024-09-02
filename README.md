@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Singleton Pattern in C#: Why It’s a Classic Choice](https://dev.to/dazevedo/the-singleton-pattern-in-c-why-its-a-classic-choice-4cfl)
-- [Implementing a Visitor Counter on Azure Resume Challenge](https://dev.to/oluwatobi2001/implementing-a-visitor-counter-on-azure-resume-challenge-2i63)
-- [LocalStorage, SessionStorage e Cookies: Como funcionam e quando usar cada um](https://dev.to/gguife/localstorage-sessionstorage-e-cookies-como-funcionam-e-quando-utiliza-los-51fp)
-- [Why Design Patterns Matter in C# Development](https://dev.to/dazevedo/why-design-patterns-matter-in-c-development-2kp)
+- [Database Indexing: The Key to Lightning-Fast Queries](https://dev.to/torrezmn/database-indexing-the-key-to-lightning-fast-queries-1893)
+- [MailBot](https://dev.to/syed_nasreen_ebac74a250d1_42/mailbot-32op)
+- [Popular Next.js Tricks](https://dev.to/codewithshahan/popular-nextjs-tricks-241a)
+- [Oracle Cloud Port Opening Guide: Brothers, Here&#39;s How to Do It Right!](https://dev.to/rirh/oracle-cloud-port-opening-guide-brothers-heres-how-to-do-it-right-1468)
 <!-- BLOG-POST-LIST:END -->
 
