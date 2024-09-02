@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Highlights from Laracon US 2024 Keynote](https://dev.to/arafatweb/highlights-from-laracon-us-2024-keynote-110a)
-- [Developing My First ML Workflow: A Journey into Machine Learning on SageMaker](https://dev.to/official_tochy/developing-my-first-ml-workflow-a-journey-into-machine-learning-on-sagemaker-3fj2)
-- [Building My First Machine Learning Workflow: The Journey of &quot;Scones Unlimited&quot;](https://dev.to/official_tochy/building-my-first-machine-learning-workflow-the-journey-of-scones-unlimited-3nfk)
-- [Snowflake Grants : Read only](https://dev.to/digitalchemist/snowflake-grants-read-only-2flh)
+- [Move IO to the Edges of Your App](https://dev.to/canro91/move-io-to-the-edges-of-your-app-kkl)
+- [Handling Concurrency in C#: A Guide to Multithreading and Parallelism](https://dev.to/soham_galande/handling-concurrency-in-c-a-guide-to-multithreading-and-parallelism-446)
+- [Introduce the NestJS starter kit - Release v0.0.4 🚀](https://dev.to/piyushkacha/introduce-the-nestjs-starter-kit-release-v004-4cok)
+- [Image Optimization in Any Web Apps / Mobile Apps](https://dev.to/ashutoshsarangi/image-optimization-in-any-web-apps-mobile-apps-5c1m)
 <!-- BLOG-POST-LIST:END -->
 
