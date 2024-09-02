@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Squadcast’s Workflows Enhance Incident Management Automation?](https://dev.to/squadcast/how-squadcasts-workflows-enhance-incident-management-automation-1mjo)
-- [I Made a AI-Powered Real-Time Platform for Developers](https://dev.to/paird/i-made-a-ai-powered-real-time-platform-for-developers-4p93)
-- [Introducing Squadcast’s Intelligent Alert Grouping and Snooze Notifications](https://dev.to/squadcast/introducing-squadcasts-intelligent-alert-grouping-and-snooze-notifications-2jm4)
-- [Mastering IAM in AWS: A Guide to Secure Cloud Access Management](https://dev.to/hammad_khan_efaf55b5cc7b7/mastering-iam-in-aws-a-guide-to-secure-cloud-access-management-41l8)
+- [Autocorrelate Alerts With Squadcast’s Key-Based Deduplication](https://dev.to/squadcast/autocorrelate-alerts-with-squadcasts-key-based-deduplication-5280)
+- [Day 63 of 100 Days of Code: Navigating Nested Objects](https://dev.to/jacobsternx/day-63-of-100-days-of-code-navigating-nested-objects-4mdg)
+- [Comparing Uptime Monitoring, Heartbeat Monitoring, and Synthetic Monitoring](https://dev.to/squadcast/comparing-uptime-monitoring-heartbeat-monitoring-and-synthetic-monitoring-2oj4)
+- [Reminder to self &lpar;creating a Web Component&rpar;](https://dev.to/dannyengelman/reminder-to-self-creating-a-basic-web-component-3mja)
 <!-- BLOG-POST-LIST:END -->
 
