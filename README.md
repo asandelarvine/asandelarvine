@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned from Mentoring: A Mentor&#39;s Perspective](https://dev.to/joacod/what-i-learned-from-mentoring-a-mentors-perspective-42oo)
-- [Lost Connections and Making Changes](https://dev.to/zapwai/lost-connections-and-making-changes-anp)
-- [Why compete against Google is not crazy](https://dev.to/litlyx-org/why-compete-against-google-is-not-crazy-2op5)
-- [Mastodon Developers Needed](https://dev.to/manjunath_sajjan_e3cb02a8/mastodon-developers-needed-1l08)
+- [10 Common HTML Myths Busted: What Every Developer Should Know!](https://dev.to/areeb_anwar_813df06ee1124/10-common-html-myths-busted-what-every-developer-should-know-cd7)
+- [Self-service BI 101 for B2B SaaS teams](https://dev.to/mklopets/self-service-bi-101-for-b2b-saas-teams-1i15)
+- [Launch website to public from Raspberry Pi](https://dev.to/kutt27/launch-website-to-public-from-raspberry-pi-2klh)
+- [log2&lpar;&rpar; and log10&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/log2-and-log10-in-pytorch-1b0d)
 <!-- BLOG-POST-LIST:END -->
 
