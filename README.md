@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Security: Who’s Responsibility Is It?](https://dev.to/thenjdevopsguy/cloud-security-whos-responsibility-is-it-52ha)
-- [Unloading a model from Ollama](https://dev.to/tallesl/unloading-a-model-from-ollama-2n4m)
-- [10 Reasons TypeScript is Transforming How We Build Web Apps](https://dev.to/nilebits/10-reasons-typescript-is-transforming-how-we-build-web-apps-2bmc)
-- [The Ultimate Guide to Data Science](https://dev.to/emmanuel_b/the-ultimate-guide-to-data-science-5728)
+- [Pessimistic locking, Read Committed, and all Isolation Levels](https://dev.to/yugabyte/pessimistic-locking-read-committed-and-all-isolation-levels-3n31)
+- [Unique PostgreSQL-compatible Distributed SQL database](https://dev.to/yugabyte/unique-postgresql-compatible-distributed-sql-database-2jc1)
+- [10 Facts About YugabyteDB: Misconceptions Debunked](https://dev.to/yugabyte/10-facts-about-yugabytedb-misconceptions-debunked-4ee4)
+- [Mastering JavaScript: Essential Tips for Beginners](https://dev.to/iamyathz/mastering-javascript-essential-tips-for-beginners-p2j)
 <!-- BLOG-POST-LIST:END -->
 
