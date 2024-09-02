@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reverse Proxy Backend Server](https://dev.to/abhishekjaiswal_4896/building-a-reverse-proxy-backend-server-3841)
-- [Optimizing Your React/Next.js Application](https://dev.to/wafa_bergaoui/optimizing-your-reactnextjs-application-h20)
-- [How I cleared my Kubernetes and Cloud Native Associate&lpar;KCNA&rpar; certification Exam?](https://dev.to/gaurav2988/how-i-cleared-my-kubernetes-and-cloud-native-associatekcna-certification-exam-128h)
-- [How I cleared my Kubernetes and Cloud Native Associate&lpar;KCNA&rpar; certification Exam?](https://dev.to/gaurav2988/how-i-cleared-my-kubernetes-and-cloud-native-associatekcna-certification-exam-5dk4)
+- [What are Kubernetes Namespaces?](https://dev.to/spacelift/what-are-kubernetes-namespaces-1ca5)
+- [Serverless AWS Account Watcher](https://dev.to/rdarrylr/serverless-aws-account-watcher-35ck)
+- [How to make a Chat App using Laravel 11 and Angular 17](https://dev.to/midhun_nair/how-to-make-a-chat-app-using-laravel-11-and-angular-17-35e3)
+- [Lambda function using Docker Container Image -Part 2 Measuring cold and warm starts of Lambda function with Java &lpar;21&rpar; runtime](https://dev.to/aws-builders/lambda-function-using-docker-container-image-part-2-measuring-cold-and-warm-starts-of-lambda-function-with-java-21-runtime-mof)
 <!-- BLOG-POST-LIST:END -->
 
