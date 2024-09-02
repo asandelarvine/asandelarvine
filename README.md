@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Supabase Book by David Lorenz](https://dev.to/supabase/the-supabase-book-by-david-lorenz-cl6)
-- [The impact of insurtech on traditional insurance models](https://dev.to/megaminds/the-impact-of-insurtech-on-traditional-insurance-models-1kb7)
-- [Mastering Shell Scripting: From Basics to Advanced Automation](https://dev.to/patadiarushabh/mastering-shell-scripting-from-basics-to-advanced-automation-343)
-- [Optional chaining is awesome!](https://dev.to/zain725342/optional-chaining-is-awesome-1g3g)
+- [The Two Lines of CSS That Tanked Performance &lpar;120fps to 40fps&rpar;](https://dev.to/andrico1234/the-two-lines-of-css-that-tanked-performance-120fps-to-40fps-3lnj)
+- [A destination awaits when a journey begins.](https://dev.to/eightrix/a-destination-awaits-when-a-journey-begins-1p48)
+- [Create Shopping Cart using Alpinejs](https://dev.to/andrew-saeed/create-shopping-cart-using-alpinejs-1ncf)
+- [Rust for typescript devs: Functions](https://dev.to/rhl314/rust-for-typescript-devs-functions-1j71)
 <!-- BLOG-POST-LIST:END -->
 
