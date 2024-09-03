@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Your React/Next.js Application](https://dev.to/wafa_bergaoui/optimizing-your-reactnextjs-application-nhm)
-- [SpendWise - Budget management app &lpar;Ruby on Rails + React&rpar; - Part 2](https://dev.to/shraddharao_/spendwise-budget-management-app-ruby-on-rails-react-part-2-595b)
-- [Integrating CASL with React for Robust Authorization](https://dev.to/marwenshili/integrating-casl-with-react-for-robust-authorization-5ci)
-- [Kids-friendly project: Building your Chatbot Web Application using LLM](https://dev.to/astroveny/kids-friendly-project-building-your-chatbot-web-application-using-llm-4p3m)
+- [MDX with Translations 🐠](https://dev.to/smapiot/mdx-with-translations-157c)
+- [Git Good: A Beginner&#39;s Guide to Version Control Magic](https://dev.to/baransel/git-good-a-beginners-guide-to-version-control-magic-21jp)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3co9)
+- [Will Retrieval Augmented Generation &lpar;RAG&rpar; Be Killed by Long-Context LLMs?](https://dev.to/zilliz/will-retrieval-augmented-generation-rag-be-killed-by-long-context-llms-2fbg)
 <!-- BLOG-POST-LIST:END -->
 
