@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Joining Sentry](https://dev.to/ryansolid/im-joining-sentry-2k9e)
-- [System Design: Performance, Scalability, Latency, and Throughput](https://dev.to/decoders_lord/system-design-performance-scalability-latency-and-throughput-652)
-- [Responsive Web Design with Media Queries](https://dev.to/ridoy_hasan/responsive-web-design-with-media-queries-39cd)
-- [🎉 Celebrating the Launch of Justablog: New Features &amp; Exciting Updates! 🚀](https://dev.to/mohammed_kareem/celebrating-the-launch-of-justablog-new-features-exciting-updates-bl3)
+- [🚀 Releases Seguros y Mantenimiento Proactivo con Cypress.io](https://dev.to/mentatech/releases-seguros-y-mantenimiento-proactivo-con-cypressio-45kn)
+- [Day 1022 : Seasoned](https://dev.to/dwane/day-1022-seasoned-45he)
+- [Create an Attendance Database In 3 Steps](https://dev.to/domfive/create-an-attendance-database-in-3-steps-39cn)
+- [The Ultimate Guide to Becoming a Full-Stack Developer](https://dev.to/jahswill_jacob_/the-ultimate-guide-to-becoming-a-full-stack-developer-30en)
 <!-- BLOG-POST-LIST:END -->
 
