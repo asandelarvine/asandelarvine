@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Speech Pathology Services on Social Participation](https://dev.to/phomecareaus/the-impact-of-speech-pathology-services-on-social-participation-5hec)
-- [Secure Coding - Prevention Over Correction.](https://dev.to/nedsoft/secure-coding-prevention-over-correction-4cag)
-- [How to build a Hybrid Search System for RAG?](https://dev.to/hakeem/how-to-build-a-hybrid-search-system-for-rag-4l0i)
-- [How to Build a Basic Chatbot Using TensorFlow and JavaScript](https://dev.to/jideabdqudus/how-to-build-a-basic-chatbot-using-tensorflow-and-javascript-4f9j)
+- [A Guide to Becoming an Insurance Agent: Steps to Launching Your Career](https://dev.to/roopal_jain_3b4f5206d474f/a-guide-to-becoming-an-insurance-agent-steps-to-launching-your-career-mcc)
+- [Thread in Java](https://dev.to/ricardo_maia_eb9c7a906560/thread-in-java-41ja)
+- [Understanding the Scope of Pattern Variables in Java](https://dev.to/myexamcloud/understanding-the-scope-of-pattern-variables-in-java-632)
+- [How to Predict Results of Football Matches](https://dev.to/stokry/how-to-predict-results-of-football-matches-145k)
 <!-- BLOG-POST-LIST:END -->
 
