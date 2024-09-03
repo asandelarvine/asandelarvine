@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best C/C++ IDEs 2024: Top 10 Picks for Developers](https://dev.to/imkrunalkanojiya/best-cc-ides-2024-top-10-picks-for-developers-3jcn)
-- [The Second Iteration: Your Key to Finally Writing Excellent Code](https://dev.to/juleswritescode/the-second-iteration-your-key-to-finally-writing-excellent-code-2b9j)
-- [Understanding Type Conversion in Programming: Key Points You Need to Know](https://dev.to/areeb_anwar_813df06ee1124/understanding-type-conversion-in-programming-key-points-you-need-to-know-2o35)
-- [Common Mistakes to Avoid When Hiring Freelance Python Developers](https://dev.to/pangaea_x/common-mistakes-to-avoid-when-hiring-freelance-python-developers-3dko)
+- [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac)
+- [เขียน Go ให้เรียบง่าย บางทีก็ยาก](https://dev.to/pallat/ekhiiyn-go-aiheriiybngaay-baangthiikyaak-2gh5)
+- [Understanding HTTP Status Codes 400 vs. 500 Errors in APIs](https://dev.to/msnmongare/understanding-http-status-codes-400-vs-500-errors-in-apis-209i)
+- [CSS va uning versiyalari.](https://dev.to/miss_code_creaker/css-va-uning-versiyalari-167m)
 <!-- BLOG-POST-LIST:END -->
 
