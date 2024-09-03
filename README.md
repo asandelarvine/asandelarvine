@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Riva - Tailwind CSS Dashboard Template Builder](https://dev.to/rarestoma/riva-tailwind-css-dashboard-template-builder-2464)
-- [Secure Data Stack: Navigating Adoption Challenges of Data Encryption](https://dev.to/jarrid/secure-data-stack-navigating-adoption-challenges-of-data-encryption-2djk)
-- [AIM Weekly 02 September 2024](https://dev.to/tspannhw/aim-weekly-02-september-2024-5doj)
-- [Flutter ListTile](https://dev.to/aadarshk7/flutter-listtile-2c01)
+- [HL7 &lpar;Health Level Seven&rpar;](https://dev.to/fullsnacker/hl7-health-level-seven-1738)
+- [Day 11:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-11-4bm9)
+- [DDIA Chapter 1 Summary](https://dev.to/dleedev365/ddia-chapter-1-summary-d73)
+- [Simplifying Your Application with URL Shortening: A Quick Guide](https://dev.to/authorshivani/simplifying-your-application-with-url-shortening-a-quick-guide-5dek)
 <!-- BLOG-POST-LIST:END -->
 
