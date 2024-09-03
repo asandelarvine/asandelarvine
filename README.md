@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HL7 &lpar;Health Level Seven&rpar;](https://dev.to/fullsnacker/hl7-health-level-seven-1738)
-- [Day 11:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-11-4bm9)
-- [DDIA Chapter 1 Summary](https://dev.to/dleedev365/ddia-chapter-1-summary-d73)
-- [Simplifying Your Application with URL Shortening: A Quick Guide](https://dev.to/authorshivani/simplifying-your-application-with-url-shortening-a-quick-guide-5dek)
+- [The Solar System with Orbit CSS](https://dev.to/tinchox5/the-solar-system-with-orbit-css-4jip)
+- [Analyzing Preview Bot Behaviour](https://dev.to/vo55/analyzing-preview-bot-behaviour-4ejn)
+- [Simplify BDD Testing for Distributed Java Applications with Testkube](https://dev.to/kubeshop/simplify-bdd-testing-for-distributed-java-applications-with-testkube-3e16)
+- [How I Optimized My Prompts For E-commerce Search Using DSPy](https://dev.to/portkey/dspy-in-production-gb3)
 <!-- BLOG-POST-LIST:END -->
 
