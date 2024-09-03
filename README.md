@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a headcanon generator using Next.js and GPT](https://dev.to/nolan_0714/i-created-a-headcanon-generator-using-nextjs-and-gpt-504d)
-- [gpt](https://dev.to/__040711563a17902392e7/gpt-2jgg)
-- [gpt](https://dev.to/__040711563a17902392e7/gpt-2ee2)
-- [How To Create A Telegram Bot In 6 Easy Steps](https://dev.to/dev_olatunji/how-to-create-a-telegram-bot-in-6-easy-steps-4ng9)
+- [The New WAF Choice for Developers: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/the-new-waf-choice-for-developers-safeline-2l3f)
+- [OSD600: Into the World of Open-Source](https://dev.to/udayrana/osd600-into-the-world-of-open-source-k49)
+- [Cloud Service Providers and Their Security Responsibilities: A Comprehensive Guide](https://dev.to/public_cloud/cloud-service-providers-and-their-security-responsibilities-a-comprehensive-guide-217h)
+- [How to retrieve managed package &lpar;conga&rpar; via package.xml](https://dev.to/bhanukarkra/how-to-retrieve-managed-package-conga-via-packagexml-51ke)
 <!-- BLOG-POST-LIST:END -->
 
