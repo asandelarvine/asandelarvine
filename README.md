@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚩Effortless Feature Management in Rails : A Guide to Using Flipper with Active Admin](https://dev.to/pimp_my_ruby/effortless-feature-management-in-rails-a-guide-to-using-flipper-with-active-admin-51b4)
-- [Generated OTP using python3](https://dev.to/tj_27/generated-otp-using-python3-4md4)
-- [Developer Community Engagement - Case Studies and Success Stories](https://dev.to/swati1267/developer-community-engagement-case-studies-and-success-stories-4dnb)
-- [জাভাস্ক্রিপ্ট অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং&lpar;OOP&rpar;](https://dev.to/mdronyahmed/jaabhaaskriptt-abjektt-oriyyenttedd-prograaminoop-4319)
+- [Top Backend Libraries](https://dev.to/vuelancer/backend-libraries-410j)
+- [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8)
+- [E-Book Share Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth 🤩](https://dev.to/saidmou/e-book-share-using-nextjs-14-prisma-tailwindcss-next-auth-53ff)
+- [Astro + Vercel Serverless API](https://dev.to/daelmaak/astro-vercel-serverless-api-12l8)
 <!-- BLOG-POST-LIST:END -->
 
