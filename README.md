@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Releases Seguros y Mantenimiento Proactivo con Cypress.io](https://dev.to/mentatech/releases-seguros-y-mantenimiento-proactivo-con-cypressio-45kn)
-- [Day 1022 : Seasoned](https://dev.to/dwane/day-1022-seasoned-45he)
-- [Create an Attendance Database In 3 Steps](https://dev.to/domfive/create-an-attendance-database-in-3-steps-39cn)
-- [The Ultimate Guide to Becoming a Full-Stack Developer](https://dev.to/jahswill_jacob_/the-ultimate-guide-to-becoming-a-full-stack-developer-30en)
+- [Exploring the Aptos Ecosystem: Empowering Developers with Layer-1 Blockchain and Spheron’s Decentralized Infrastructure](https://dev.to/saur_abhh31/exploring-the-aptos-ecosystem-empowering-developers-with-layer-1-blockchain-and-spherons-decentralized-infrastructure-23h8)
+- [How to read multiple value from web](https://dev.to/hopelesscoder/how-to-read-multiple-value-from-web-1pgo)
+- [Prevention: It&#39;s Time to Save Those Millions](https://dev.to/bcornils/prevention-its-time-to-save-those-millions-5hk4)
+- [Computer Vision Meetup: 5 Handy Ways to Use Embeddings, the Swiss Army Knife of AI](https://dev.to/voxel51/computer-vision-meetup-5-handy-ways-to-use-embeddings-the-swiss-army-knife-of-ai-5pd)
 <!-- BLOG-POST-LIST:END -->
 
