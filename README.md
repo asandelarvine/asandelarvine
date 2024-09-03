@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MDX with Translations 🐠](https://dev.to/smapiot/mdx-with-translations-157c)
-- [Git Good: A Beginner&#39;s Guide to Version Control Magic](https://dev.to/baransel/git-good-a-beginners-guide-to-version-control-magic-21jp)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3co9)
-- [Will Retrieval Augmented Generation &lpar;RAG&rpar; Be Killed by Long-Context LLMs?](https://dev.to/zilliz/will-retrieval-augmented-generation-rag-be-killed-by-long-context-llms-2fbg)
+- [Congrats to the Nylas Challenge Winners!](https://dev.to/devteam/congrats-to-the-nylas-challenge-winners-2kic)
+- [Congrats to the Neon Open Source Starter Kit Challenge Winners!](https://dev.to/devteam/congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p)
+- [🚀 Setting Up Your React Native Development Environment](https://dev.to/uicraft_by_pratik/setting-up-your-react-native-development-environment-3g97)
+- [Submitting form data to a Google Sheet from a React App](https://dev.to/miracool/submitting-form-data-to-a-google-sheet-from-a-react-app-3o83)
 <!-- BLOG-POST-LIST:END -->
 
