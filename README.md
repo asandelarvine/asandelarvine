@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac)
-- [เขียน Go ให้เรียบง่าย บางทีก็ยาก](https://dev.to/pallat/ekhiiyn-go-aiheriiybngaay-baangthiikyaak-2gh5)
-- [Understanding HTTP Status Codes 400 vs. 500 Errors in APIs](https://dev.to/msnmongare/understanding-http-status-codes-400-vs-500-errors-in-apis-209i)
-- [CSS va uning versiyalari.](https://dev.to/miss_code_creaker/css-va-uning-versiyalari-167m)
+- [The Impact of Speech Pathology Services on Social Participation](https://dev.to/phomecareaus/the-impact-of-speech-pathology-services-on-social-participation-5hec)
+- [Secure Coding - Prevention Over Correction.](https://dev.to/nedsoft/secure-coding-prevention-over-correction-4cag)
+- [How to build a Hybrid Search System for RAG?](https://dev.to/hakeem/how-to-build-a-hybrid-search-system-for-rag-4l0i)
+- [How to Build a Basic Chatbot Using TensorFlow and JavaScript](https://dev.to/jideabdqudus/how-to-build-a-basic-chatbot-using-tensorflow-and-javascript-4f9j)
 <!-- BLOG-POST-LIST:END -->
 
