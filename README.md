@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Solar System with Orbit CSS](https://dev.to/tinchox5/the-solar-system-with-orbit-css-4jip)
-- [Analyzing Preview Bot Behaviour](https://dev.to/vo55/analyzing-preview-bot-behaviour-4ejn)
-- [Simplify BDD Testing for Distributed Java Applications with Testkube](https://dev.to/kubeshop/simplify-bdd-testing-for-distributed-java-applications-with-testkube-3e16)
-- [How I Optimized My Prompts For E-commerce Search Using DSPy](https://dev.to/portkey/dspy-in-production-gb3)
+- [Load Images Faster in Laravel and JavaScript](https://dev.to/rafaelogic/load-images-faster-in-laravel-and-javascript-3a0b)
+- [10x Developer Puzzle, Solved!!!](https://dev.to/andyobtiva/10x-developer-puzzle-solved-3ceh)
+- [The Birth of Linux: A Journey from Minix to the Open-Source Revolution](https://dev.to/romanburdiuzha/the-birth-of-linux-a-journey-from-minix-to-the-open-source-revolution-3meo)
+- [Day 22: Securing AWS Environments with IAM – Best Practices and Implementation](https://dev.to/singh_in_cloud/day-22-securing-aws-environments-with-iam-best-practices-and-implementation-451j)
 <!-- BLOG-POST-LIST:END -->
 
