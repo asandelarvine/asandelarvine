@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [起码没有中断](https://dev.to/__040711563a17902392e7/qi-ma-mei-you-zhong-duan-em9)
-- [How to add tables to React Markdown](https://dev.to/letsbsocial1/how-to-add-tables-to-react-markdown-21lc)
-- [Key Topics While Learning Django](https://dev.to/iamyathz/key-topics-while-learning-django-417i)
-- [&quot;Automating App Deployment on AWS with Ansible: A Case Study&quot;](https://dev.to/lejub/automating-app-deployment-on-aws-with-ansible-a-case-study-1ld3)
+- [Automating AWS EC2 and RDS Instance Management with AWS Lambda](https://dev.to/init_chandan/automating-aws-ec2-and-rds-instance-management-with-aws-lambda-3khm)
+- [What Do You Need for Scraping Amazon?](https://dev.to/toniaread/what-do-you-need-for-scraping-amazon-2aja)
+- [Build a Abhi ki News Website](https://dev.to/abhishekgurjar/build-a-abhi-ki-news-website-3eei)
+- [Seeking Feedback on Kops.dev: Our Journey to Simplify Cloud Infrastructure](https://dev.to/deepkops/seeking-feedback-on-kopsdev-our-journey-to-simplify-cloud-infrastructure-1kif)
 <!-- BLOG-POST-LIST:END -->
 
