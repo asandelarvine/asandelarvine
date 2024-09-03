@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating AWS EC2 and RDS Instance Management with AWS Lambda](https://dev.to/init_chandan/automating-aws-ec2-and-rds-instance-management-with-aws-lambda-3khm)
-- [What Do You Need for Scraping Amazon?](https://dev.to/toniaread/what-do-you-need-for-scraping-amazon-2aja)
-- [Build a Abhi ki News Website](https://dev.to/abhishekgurjar/build-a-abhi-ki-news-website-3eei)
-- [Seeking Feedback on Kops.dev: Our Journey to Simplify Cloud Infrastructure](https://dev.to/deepkops/seeking-feedback-on-kopsdev-our-journey-to-simplify-cloud-infrastructure-1kif)
+- [🚩Effortless Feature Management in Rails : A Guide to Using Flipper with Active Admin](https://dev.to/pimp_my_ruby/effortless-feature-management-in-rails-a-guide-to-using-flipper-with-active-admin-51b4)
+- [Generated OTP using python3](https://dev.to/tj_27/generated-otp-using-python3-4md4)
+- [Developer Community Engagement - Case Studies and Success Stories](https://dev.to/swati1267/developer-community-engagement-case-studies-and-success-stories-4dnb)
+- [জাভাস্ক্রিপ্ট অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং&lpar;OOP&rpar;](https://dev.to/mdronyahmed/jaabhaaskriptt-abjektt-oriyyenttedd-prograaminoop-4319)
 <!-- BLOG-POST-LIST:END -->
 
