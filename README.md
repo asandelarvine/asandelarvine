@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I created a headcanon generator using Next.js and GPT](https://dev.to/nolan_0714/i-created-a-headcanon-generator-using-nextjs-and-gpt-504d)
+- [gpt](https://dev.to/__040711563a17902392e7/gpt-2jgg)
+- [gpt](https://dev.to/__040711563a17902392e7/gpt-2ee2)
 - [How To Create A Telegram Bot In 6 Easy Steps](https://dev.to/dev_olatunji/how-to-create-a-telegram-bot-in-6-easy-steps-4ng9)
-- [Setting and getting clipboard content from terminal](https://dev.to/tallesl/setting-and-getting-clipboard-content-from-terminal-169d)
-- [# Day 2: Understanding Scalability in System Design](https://dev.to/vikram_kumar_2101/-day-2-understanding-scalability-in-system-design-2lp9)
-- [Descubriendo itertools](https://dev.to/johnnatan_sandovalcardon/descubriendo-itertools-507j)
 <!-- BLOG-POST-LIST:END -->
 
