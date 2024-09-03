@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences Between `var`, `let`, and `const` in JavaScript: A Simple Explanation](https://dev.to/ang-costa-neto/differences-between-var-let-and-const-in-javascript-a-simple-explanation-3b59)
-- [Introduction to Machine Learning with Keras](https://dev.to/kartikmehta8/introduction-to-machine-learning-with-keras-5fii)
-- [Pergunte ao especialista - classe aninhada static](https://dev.to/devsjavagirls/pergunte-ao-especialista-classe-aninhada-static-e7c)
-- [Varargs e ambiguidade](https://dev.to/devsjavagirls/varargs-e-ambiguidade-og5)
+- [How To Create A Telegram Bot In 6 Easy Steps](https://dev.to/dev_olatunji/how-to-create-a-telegram-bot-in-6-easy-steps-4ng9)
+- [Setting and getting clipboard content from terminal](https://dev.to/tallesl/setting-and-getting-clipboard-content-from-terminal-169d)
+- [# Day 2: Understanding Scalability in System Design](https://dev.to/vikram_kumar_2101/-day-2-understanding-scalability-in-system-design-2lp9)
+- [Descubriendo itertools](https://dev.to/johnnatan_sandovalcardon/descubriendo-itertools-507j)
 <!-- BLOG-POST-LIST:END -->
 
