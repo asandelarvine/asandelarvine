@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Cost-Effective AWS Environment for a Small Tech Startup.](https://dev.to/godfrey_ifenna/setting-up-a-cost-effective-aws-environment-for-a-small-tech-startup-918)
-- [Why use a well structured architecture in Android?](https://dev.to/yasmmin/why-use-a-well-structured-architecture-in-android-28j)
-- [searchkick resource_already_exists_exception](https://dev.to/ugifractal/searchkick-resourcealreadyexistsexception-2jb2)
-- [Cursor Pagination Example](https://dev.to/antusystem/cursor-pagination-example-3ldg)
+- [Differences Between `var`, `let`, and `const` in JavaScript: A Simple Explanation](https://dev.to/ang-costa-neto/differences-between-var-let-and-const-in-javascript-a-simple-explanation-3b59)
+- [Introduction to Machine Learning with Keras](https://dev.to/kartikmehta8/introduction-to-machine-learning-with-keras-5fii)
+- [Pergunte ao especialista - classe aninhada static](https://dev.to/devsjavagirls/pergunte-ao-especialista-classe-aninhada-static-e7c)
+- [Varargs e ambiguidade](https://dev.to/devsjavagirls/varargs-e-ambiguidade-og5)
 <!-- BLOG-POST-LIST:END -->
 
