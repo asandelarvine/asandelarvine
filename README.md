@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Becoming an Insurance Agent: Steps to Launching Your Career](https://dev.to/roopal_jain_3b4f5206d474f/a-guide-to-becoming-an-insurance-agent-steps-to-launching-your-career-mcc)
-- [Thread in Java](https://dev.to/ricardo_maia_eb9c7a906560/thread-in-java-41ja)
-- [Understanding the Scope of Pattern Variables in Java](https://dev.to/myexamcloud/understanding-the-scope-of-pattern-variables-in-java-632)
-- [How to Predict Results of Football Matches](https://dev.to/stokry/how-to-predict-results-of-football-matches-145k)
+- [7 Best Websites to Discover AI Tools and Boost Your Workflow in 2024](https://dev.to/bigsondev/7-best-websites-to-discover-ai-tools-and-boost-your-workflow-in-2024-2a42)
+- [Refactor Stimulus.js Controllers to Use Change Callbacks](https://dev.to/railsdesigner/title-refactor-stimulusjs-controllers-to-use-change-callbacks-3dl3)
+- [Introduction to Gitlab](https://dev.to/theholyspirit/introduction-to-gitlab-3759)
+- [Query Param Queryparam](https://dev.to/webfaisalbd/query-param-queryparam-4h99)
 <!-- BLOG-POST-LIST:END -->
 
