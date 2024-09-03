@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Nylas Challenge Winners!](https://dev.to/devteam/congrats-to-the-nylas-challenge-winners-2kic)
-- [Congrats to the Neon Open Source Starter Kit Challenge Winners!](https://dev.to/devteam/congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p)
-- [🚀 Setting Up Your React Native Development Environment](https://dev.to/uicraft_by_pratik/setting-up-your-react-native-development-environment-3g97)
-- [Submitting form data to a Google Sheet from a React App](https://dev.to/miracool/submitting-form-data-to-a-google-sheet-from-a-react-app-3o83)
+- [Riva - Tailwind CSS Dashboard Template Builder](https://dev.to/rarestoma/riva-tailwind-css-dashboard-template-builder-2464)
+- [Secure Data Stack: Navigating Adoption Challenges of Data Encryption](https://dev.to/jarrid/secure-data-stack-navigating-adoption-challenges-of-data-encryption-2djk)
+- [AIM Weekly 02 September 2024](https://dev.to/tspannhw/aim-weekly-02-september-2024-5doj)
+- [Flutter ListTile](https://dev.to/aadarshk7/flutter-listtile-2c01)
 <!-- BLOG-POST-LIST:END -->
 
