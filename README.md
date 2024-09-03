@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Websites to Discover AI Tools and Boost Your Workflow in 2024](https://dev.to/bigsondev/7-best-websites-to-discover-ai-tools-and-boost-your-workflow-in-2024-2a42)
-- [Refactor Stimulus.js Controllers to Use Change Callbacks](https://dev.to/railsdesigner/title-refactor-stimulusjs-controllers-to-use-change-callbacks-3dl3)
-- [Introduction to Gitlab](https://dev.to/theholyspirit/introduction-to-gitlab-3759)
-- [Query Param Queryparam](https://dev.to/webfaisalbd/query-param-queryparam-4h99)
+- [Optimizing Your React/Next.js Application](https://dev.to/wafa_bergaoui/optimizing-your-reactnextjs-application-nhm)
+- [SpendWise - Budget management app &lpar;Ruby on Rails + React&rpar; - Part 2](https://dev.to/shraddharao_/spendwise-budget-management-app-ruby-on-rails-react-part-2-595b)
+- [Integrating CASL with React for Robust Authorization](https://dev.to/marwenshili/integrating-casl-with-react-for-robust-authorization-5ci)
+- [Kids-friendly project: Building your Chatbot Web Application using LLM](https://dev.to/astroveny/kids-friendly-project-building-your-chatbot-web-application-using-llm-4p3m)
 <!-- BLOG-POST-LIST:END -->
 
