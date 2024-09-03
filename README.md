@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Images Faster in Laravel and JavaScript](https://dev.to/rafaelogic/load-images-faster-in-laravel-and-javascript-3a0b)
-- [10x Developer Puzzle, Solved!!!](https://dev.to/andyobtiva/10x-developer-puzzle-solved-3ceh)
-- [The Birth of Linux: A Journey from Minix to the Open-Source Revolution](https://dev.to/romanburdiuzha/the-birth-of-linux-a-journey-from-minix-to-the-open-source-revolution-3meo)
-- [Day 22: Securing AWS Environments with IAM – Best Practices and Implementation](https://dev.to/singh_in_cloud/day-22-securing-aws-environments-with-iam-best-practices-and-implementation-451j)
+- [I&#39;m Joining Sentry](https://dev.to/ryansolid/im-joining-sentry-2k9e)
+- [System Design: Performance, Scalability, Latency, and Throughput](https://dev.to/decoders_lord/system-design-performance-scalability-latency-and-throughput-652)
+- [Responsive Web Design with Media Queries](https://dev.to/ridoy_hasan/responsive-web-design-with-media-queries-39cd)
+- [🎉 Celebrating the Launch of Justablog: New Features &amp; Exciting Updates! 🚀](https://dev.to/mohammed_kareem/celebrating-the-launch-of-justablog-new-features-exciting-updates-bl3)
 <!-- BLOG-POST-LIST:END -->
 
