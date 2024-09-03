@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Backend Libraries](https://dev.to/vuelancer/backend-libraries-410j)
-- [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8)
-- [E-Book Share Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth 🤩](https://dev.to/saidmou/e-book-share-using-nextjs-14-prisma-tailwindcss-next-auth-53ff)
-- [Astro + Vercel Serverless API](https://dev.to/daelmaak/astro-vercel-serverless-api-12l8)
+- [Best C/C++ IDEs 2024: Top 10 Picks for Developers](https://dev.to/imkrunalkanojiya/best-cc-ides-2024-top-10-picks-for-developers-3jcn)
+- [The Second Iteration: Your Key to Finally Writing Excellent Code](https://dev.to/juleswritescode/the-second-iteration-your-key-to-finally-writing-excellent-code-2b9j)
+- [Understanding Type Conversion in Programming: Key Points You Need to Know](https://dev.to/areeb_anwar_813df06ee1124/understanding-type-conversion-in-programming-key-points-you-need-to-know-2o35)
+- [Common Mistakes to Avoid When Hiring Freelance Python Developers](https://dev.to/pangaea_x/common-mistakes-to-avoid-when-hiring-freelance-python-developers-3dko)
 <!-- BLOG-POST-LIST:END -->
 
