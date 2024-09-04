@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TopMate: Revolutionizing Mobility and Tech with Innovation and Comfort](https://dev.to/topmate_917374291a3533ebc/topmate-revolutionizing-mobility-and-tech-with-innovation-and-comfort-5f0o)
-- [Building a Scalable Minio Distributed Setup: A Step-by-Step Guide](https://dev.to/farhanaliali/building-a-scalable-minio-distributed-setup-a-step-by-step-guide-bib)
-- [Installing and Configuring a SFTP Server on CentOS](https://dev.to/sammy_cloud/installing-and-configuring-a-sftp-server-on-centos-756)
-- [Managing and retrieving translated strings in a Google Sheet](https://dev.to/sergeyli/managing-and-retrieving-translated-strings-in-a-google-sheet-2efo)
+- [Why Most Developers Fail: The Top 10 Pitfalls and How to Avoid Them 🚧](https://dev.to/lokesh_singh/why-most-developers-fail-the-top-10-pitfalls-and-how-to-avoid-them-1b6m)
+- [Nothing is impossible when passion drives you](https://dev.to/chol_mayen_42203f42f001a0/nothing-is-impossible-when-passion-drives-you-l5m)
+- [Is Node.js Bad?](https://dev.to/mrrishimeena/is-nodejs-bad-1j1b)
+- [Unlocking Digital Transformation: How Cloud Ops Powers Agility and Innovation](https://dev.to/hana_sato/unlocking-digital-transformation-how-cloud-ops-powers-agility-and-innovation-5hkf)
 <!-- BLOG-POST-LIST:END -->
 
