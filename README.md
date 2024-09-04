@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting The Web Application From Malicious Traffic And Blocking Unauthorized Access](https://dev.to/vincenthyacienth/protecting-the-web-application-from-malicious-traffic-and-blocking-unauthorized-access-5goj)
-- [apigen-ts – Simple TypeScript API Client Generator](https://dev.to/vladkens/apigen-ts-simple-typescript-api-client-generator-gm2)
-- [Issue 60 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-60-of-aws-cloud-security-weekly-1p95)
-- [Using Webpack for Asset Bundling](https://dev.to/kartikmehta8/using-webpack-for-asset-bundling-1i46)
+- [Simplifying real-time data for smart contracts and wallet activity](https://dev.to/quionie/simplifying-real-time-data-for-smart-contracts-and-wallet-activity-38lj)
+- [BIRTV 2024: A Glimpse into the Future of Broadcasting and Media Technology](https://dev.to/jason_jacob_dcfc2408b7557/birtv-2024-a-glimpse-into-the-future-of-broadcasting-and-media-technology-21e7)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;26/08/2024-01/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-26082024-01092024-33b9)
+- [How Automation is Used in Security Systems](https://dev.to/luke_leech_e6bebf0dcc50d6/how-automation-is-used-in-security-systems-c03)
 <!-- BLOG-POST-LIST:END -->
 
