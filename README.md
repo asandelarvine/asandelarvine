@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Way to Handle Localization For Exception Messages in Spring Boot](https://dev.to/mammadyahyayev/best-way-to-handle-localization-for-exception-messages-in-spring-boot-4ng9)
-- [Join us for the next Frontend Challenge: Space Edition 👾🪐👽](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g)
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-160n)
-- [Progressive Web apps: O futuro do desenvolvimento web](https://dev.to/hjdesigner/progressive-web-apps-o-futuro-do-desenvolvimento-web-2a3i)
+- [DESIGN PATTERNS : A Deep Dive into Common Design Patterns](https://dev.to/niharikaa/design-patterns-a-deep-dive-into-common-design-patterns-31b9)
+- [Integrating React with a Flask Backend: Best Practices and Common Pitfalls](https://dev.to/connor-quitt/integrating-react-with-a-flask-backend-best-practices-and-common-pitfalls-240l)
+- [Week 2](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-2-4b71)
+- [5 Powerful Techniques to Slash Your LLM Costs](https://dev.to/lina_lam_9ee459f98b67e9d5/5-powerful-techniques-to-slash-your-llm-costs-4a7)
 <!-- BLOG-POST-LIST:END -->
 
