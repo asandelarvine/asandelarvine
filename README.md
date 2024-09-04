@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimal tips to run isolated code](https://dev.to/slivingston/minimal-tips-to-run-isolated-code-4206)
-- [Mastering the Art of Front-end Development: Best Practices and Tools](https://dev.to/jahswill_jacob_/mastering-the-art-of-front-end-development-best-practices-and-tools-jmd)
-- [Linux Commands for Beginners](https://dev.to/harshm03/linux-commands-for-beginners-3ncd)
-- [Automate Neon schema changes with Drizzle and GitHub Actions](https://dev.to/clerk/automate-neon-schema-changes-with-drizzle-and-github-actions-1o37)
+- [Mastering Logging and Error Handling backend applications](https://dev.to/shieldstring/mastering-logging-and-error-handling-backend-applications-53pi)
+- [AI Agent Components](https://dev.to/mindsdb/ai-agent-components-1h9)
+- [Creating a Budget-Friendly AWS Environment: A Step-by-Step Guide for Small Tech Startups](https://dev.to/alexizu/creating-a-budget-friendly-aws-environment-a-step-by-step-guide-for-small-tech-startups-5fcn)
+- [A Legendary Interview Question: What is the Maximum Length of An Array in PHP?](https://dev.to/mdarifulhaque/a-legendary-interview-question-what-is-the-maximum-length-of-an-array-in-php-4fjb)
 <!-- BLOG-POST-LIST:END -->
 
