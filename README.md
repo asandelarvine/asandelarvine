@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up ViewCode Projects for Versions Below iOS 13](https://dev.to/gguedes/setting-up-viewcode-projects-for-versions-below-ios-13-inh)
-- [Best JavaScript Frameworks for Frontend Developer](https://dev.to/bizmaven-devworld-organization/best-javascript-frameworks-for-frontend-developer-bg6)
-- [Free Hosting Using Github pages](https://dev.to/ram_ram007/free-hosting-using-github-pages-g4i)
-- [Advanced Apex Techniques for Salesforce Developers](https://dev.to/nilebits/advanced-apex-techniques-for-salesforce-developers-32li)
+- [Kubernetes Pod Cheatsheet](https://dev.to/chauhoangminhnguyen/kubernetes-pod-cheatsheet-3k7b)
+- [Stop Compiling 🚨TypeScript! Run It Natively in Node.js with This One Flag! 🛑](https://dev.to/dharamgfx/stop-compiling-typescript-run-it-natively-in-nodejs-with-this-one-flag-2bc6)
+- [Why Every Development Team Needs Effective Bug Tracking](https://dev.to/ray_parker01/why-every-development-team-needs-effective-bug-tracking-fij)
+- [Array Searching in DSA using JavaScript: From Basics to Advanced](https://dev.to/manojspace/array-searching-in-dsa-using-javascript-from-basics-to-advanced-593l)
 <!-- BLOG-POST-LIST:END -->
 
