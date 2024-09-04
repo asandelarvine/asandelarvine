@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DESIGN PATTERNS : A Deep Dive into Common Design Patterns](https://dev.to/niharikaa/design-patterns-a-deep-dive-into-common-design-patterns-31b9)
-- [Integrating React with a Flask Backend: Best Practices and Common Pitfalls](https://dev.to/connor-quitt/integrating-react-with-a-flask-backend-best-practices-and-common-pitfalls-240l)
-- [Week 2](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-2-4b71)
-- [5 Powerful Techniques to Slash Your LLM Costs](https://dev.to/lina_lam_9ee459f98b67e9d5/5-powerful-techniques-to-slash-your-llm-costs-4a7)
+- [Day 16:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-16-59io)
+- [Amazing place to find modules and learning path of various tech fields](https://dev.to/pratyoos/amazing-place-to-find-modules-and-learning-path-of-various-tech-fields-32jh)
+- [Day 15:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-15-5hf3)
+- [Quickstart: Add Video Chat to Vision Pro with Agora](https://dev.to/icywind/quickstart-add-video-chat-to-vision-pro-with-agora-496)
 <!-- BLOG-POST-LIST:END -->
 
