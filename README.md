@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert SDFT to DOCX: A Step-by-Step Guide](https://dev.to/lucky_tambe/how-to-convert-sdft-to-docx-a-step-by-step-guide-10gc)
-- [Conditions &lpar;If-else-elif&rpar; Part-08](https://dev.to/monirulislam027/conditions-if-else-elif-part-08-3noh)
-- [How to center a div in 2024](https://dev.to/kasra_mp/how-to-center-a-div-in-2024-3h1n)
-- [New Style Love Calculator HTML CSS Js](https://dev.to/babar_ali/new-style-love-calculator-html-css-js-4b0c)
+- [Dockerizing a Golang API with MySQL and adding Docker Compose Support](https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1)
+- [How to setup RLS in Microsoft Fabric / Power BI without breaking DirectLake functionality](https://dev.to/jonvoge/how-to-setup-rls-in-microsoft-fabric-power-bi-without-breaking-directlake-functionality-11me)
+- [Free Tailwind CSS Button Animations](https://dev.to/rarestoma/free-tailwind-css-button-animations-5c8m)
+- [Eureka and Consul - Service Discovery Tools](https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc)
 <!-- BLOG-POST-LIST:END -->
 
