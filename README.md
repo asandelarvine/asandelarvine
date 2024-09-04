@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [874. Walking Robot Simulation](https://dev.to/mdarifulhaque/874-walking-robot-simulation-301g)
-- [CSS Transitions and Animations](https://dev.to/ridoy_hasan/css-transitions-and-animations-50b6)
-- [API Design for Data-Driven Websites](https://dev.to/peymaan_abedinpour/api-design-for-data-driven-websites-2aaj)
-- [How to install Nginx on Mac](https://dev.to/deepcodr/how-to-install-nginx-on-mac-157i)
+- [Build with Me Larachat: the realtime chat package for Laravel](https://dev.to/ramzi-issiakhem/build-with-me-larachat-the-realtime-chat-package-for-laravel-2hon)
+- [Unraveling the Complexities of Amazon SQS Quotas: What You Need to Know](https://dev.to/quiver/unraveling-the-complexities-of-amazon-sqs-quotas-what-you-need-to-know-565b)
+- [Construyendo Microfrontends Escalables y Mantenibles con Turborepo 🚀](https://dev.to/mentatech/construyendo-microfrontends-escalables-y-mantenibles-con-turborepo-1pba)
+- [Route53 With Application Loadbalancer](https://dev.to/clintt/route53-with-applicationloadbalancer-5be3)
 <!-- BLOG-POST-LIST:END -->
 
