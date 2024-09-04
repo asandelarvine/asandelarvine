@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bare Metal vs VM vs Containers? 🤔](https://dev.to/rajeshj3/bare-metal-vs-vm-vs-containers-3i24)
-- [Future Trends and Innovations in Developer Community Building](https://dev.to/swati1267/future-trends-and-innovations-in-developer-community-building-1gbf)
-- [Top Game Testing Tools Improving Game Performance](https://dev.to/misterankit/top-game-testing-tools-improving-game-performance-38jh)
-- [Explore the Future of Martropolis with Hadoop and Hive](https://dev.to/labex/explore-the-future-of-martropolis-with-hadoop-and-hive-49fl)
+- [How to Convert SDFT to DOCX: A Step-by-Step Guide](https://dev.to/lucky_tambe/how-to-convert-sdft-to-docx-a-step-by-step-guide-10gc)
+- [Conditions &lpar;If-else-elif&rpar; Part-08](https://dev.to/monirulislam027/conditions-if-else-elif-part-08-3noh)
+- [How to center a div in 2024](https://dev.to/kasra_mp/how-to-center-a-div-in-2024-3h1n)
+- [New Style Love Calculator HTML CSS Js](https://dev.to/babar_ali/new-style-love-calculator-html-css-js-4b0c)
 <!-- BLOG-POST-LIST:END -->
 
