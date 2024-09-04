@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Aptos Ecosystem: Empowering Developers with Layer-1 Blockchain and Spheron’s Decentralized Infrastructure](https://dev.to/saur_abhh31/exploring-the-aptos-ecosystem-empowering-developers-with-layer-1-blockchain-and-spherons-decentralized-infrastructure-23h8)
-- [How to read multiple value from web](https://dev.to/hopelesscoder/how-to-read-multiple-value-from-web-1pgo)
-- [Prevention: It&#39;s Time to Save Those Millions](https://dev.to/bcornils/prevention-its-time-to-save-those-millions-5hk4)
-- [Computer Vision Meetup: 5 Handy Ways to Use Embeddings, the Swiss Army Knife of AI](https://dev.to/voxel51/computer-vision-meetup-5-handy-ways-to-use-embeddings-the-swiss-army-knife-of-ai-5pd)
+- [Protecting The Web Application From Malicious Traffic And Blocking Unauthorized Access](https://dev.to/vincenthyacienth/protecting-the-web-application-from-malicious-traffic-and-blocking-unauthorized-access-5goj)
+- [apigen-ts – Simple TypeScript API Client Generator](https://dev.to/vladkens/apigen-ts-simple-typescript-api-client-generator-gm2)
+- [Issue 60 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-60-of-aws-cloud-security-weekly-1p95)
+- [Using Webpack for Asset Bundling](https://dev.to/kartikmehta8/using-webpack-for-asset-bundling-1i46)
 <!-- BLOG-POST-LIST:END -->
 
