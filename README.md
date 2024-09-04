@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Developers Fail: The Top 10 Pitfalls and How to Avoid Them 🚧](https://dev.to/lokesh_singh/why-most-developers-fail-the-top-10-pitfalls-and-how-to-avoid-them-1b6m)
-- [Nothing is impossible when passion drives you](https://dev.to/chol_mayen_42203f42f001a0/nothing-is-impossible-when-passion-drives-you-l5m)
-- [Is Node.js Bad?](https://dev.to/mrrishimeena/is-nodejs-bad-1j1b)
-- [Unlocking Digital Transformation: How Cloud Ops Powers Agility and Innovation](https://dev.to/hana_sato/unlocking-digital-transformation-how-cloud-ops-powers-agility-and-innovation-5hkf)
+- [How to Detect VPNs with JavaScript](https://dev.to/ohwow/how-to-detect-vpns-with-javascript-4aj3)
+- [Modules 2/2](https://dev.to/mahf001/iife-module-pattern-commonjs-5gkd)
+- [Microsoft Power platform tools and services](https://dev.to/seenakhan/microsoft-power-platform-tools-and-services-589j)
+- [How to Become an AI Engineer: A Step-by-Step Guide](https://dev.to/ankush_mahore/how-to-become-an-ai-engineer-a-step-by-step-guide-gk3)
 <!-- BLOG-POST-LIST:END -->
 
