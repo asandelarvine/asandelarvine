@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling DevOps’ Efficiency &amp; How It Relates To DBOps](https://dev.to/metis/scaling-devops-efficiency-how-it-relates-to-dbops-3aj)
-- [Building a Unit Converter App in Angular with Tailwind CSS](https://dev.to/manthanank/building-a-unit-converter-app-in-angular-with-tailwind-css-5con)
-- [Top 10 Eye-Opening Facts About Web Accessibility That Will Change Your Perspective](https://dev.to/sbtechshare/top-10-eye-opening-facts-about-web-accessibility-that-will-change-your-perspective-1cna)
-- [What tests would you write for these two simple Ruby objects](https://dev.to/lucianghinda/what-tests-would-you-write-for-these-two-simple-ruby-objects-1cie)
+- [ARTIFICIAL INTELLIGENCE FOR HEALTHCARE](https://dev.to/lilyneema/artificial-intelligence-for-healthcare-1p9c)
+- [Did you know you can optimize your website&#39;s load time by 50% with just one line of code?](https://dev.to/nitinyadav2455/did-you-know-you-can-optimize-your-websites-load-time-by-50-with-just-one-line-of-code-34hj)
+- [How to Build a Face Recognition System Using FaceNet in Python](https://dev.to/abhinowww/how-to-build-a-face-recognition-system-using-facenet-in-python-27kh)
+- [Shinetech Software achieves Cyber Essentials Plus certification](https://dev.to/shinetechsoftwareinc/shinetech-software-achieves-cyber-essentials-plus-certification-1fl9)
 <!-- BLOG-POST-LIST:END -->
 
