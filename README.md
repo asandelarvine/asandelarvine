@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing a Golang API with MySQL and adding Docker Compose Support](https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1)
-- [How to setup RLS in Microsoft Fabric / Power BI without breaking DirectLake functionality](https://dev.to/jonvoge/how-to-setup-rls-in-microsoft-fabric-power-bi-without-breaking-directlake-functionality-11me)
-- [Free Tailwind CSS Button Animations](https://dev.to/rarestoma/free-tailwind-css-button-animations-5c8m)
-- [Eureka and Consul - Service Discovery Tools](https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc)
+- [Scaling DevOps’ Efficiency &amp; How It Relates To DBOps](https://dev.to/metis/scaling-devops-efficiency-how-it-relates-to-dbops-3aj)
+- [Building a Unit Converter App in Angular with Tailwind CSS](https://dev.to/manthanank/building-a-unit-converter-app-in-angular-with-tailwind-css-5con)
+- [Top 10 Eye-Opening Facts About Web Accessibility That Will Change Your Perspective](https://dev.to/sbtechshare/top-10-eye-opening-facts-about-web-accessibility-that-will-change-your-perspective-1cna)
+- [What tests would you write for these two simple Ruby objects](https://dev.to/lucianghinda/what-tests-would-you-write-for-these-two-simple-ruby-objects-1cie)
 <!-- BLOG-POST-LIST:END -->
 
