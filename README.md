@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying real-time data for smart contracts and wallet activity](https://dev.to/quionie/simplifying-real-time-data-for-smart-contracts-and-wallet-activity-38lj)
-- [BIRTV 2024: A Glimpse into the Future of Broadcasting and Media Technology](https://dev.to/jason_jacob_dcfc2408b7557/birtv-2024-a-glimpse-into-the-future-of-broadcasting-and-media-technology-21e7)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;26/08/2024-01/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-26082024-01092024-33b9)
-- [How Automation is Used in Security Systems](https://dev.to/luke_leech_e6bebf0dcc50d6/how-automation-is-used-in-security-systems-c03)
+- [Problema HackerRank em Python - Base Data Types Lists](https://dev.to/gusmedeirost/problema-hackerrank-em-python-base-data-types-lists-5h91)
+- [#57 — Concatenate Column Titles Corresponding to Empty Cells](https://dev.to/judith677/57-concatenate-column-titles-corresponding-to-empty-cells-3bc5)
+- [Unlock Your MySQL Mastery: The MySQL Practice Labs Course](https://dev.to/labex/unlock-your-mysql-mastery-the-mysql-practice-labs-course-3931)
+- [🍑understanding windows Command Line Interface](https://dev.to/aryan015/understanding-windows-command-line-interface-330e)
 <!-- BLOG-POST-LIST:END -->
 
