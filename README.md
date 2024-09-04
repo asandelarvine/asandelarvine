@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ARTIFICIAL INTELLIGENCE FOR HEALTHCARE](https://dev.to/lilyneema/artificial-intelligence-for-healthcare-1p9c)
-- [Did you know you can optimize your website&#39;s load time by 50% with just one line of code?](https://dev.to/nitinyadav2455/did-you-know-you-can-optimize-your-websites-load-time-by-50-with-just-one-line-of-code-34hj)
-- [How to Build a Face Recognition System Using FaceNet in Python](https://dev.to/abhinowww/how-to-build-a-face-recognition-system-using-facenet-in-python-27kh)
-- [Shinetech Software achieves Cyber Essentials Plus certification](https://dev.to/shinetechsoftwareinc/shinetech-software-achieves-cyber-essentials-plus-certification-1fl9)
+- [TopMate: Revolutionizing Mobility and Tech with Innovation and Comfort](https://dev.to/topmate_917374291a3533ebc/topmate-revolutionizing-mobility-and-tech-with-innovation-and-comfort-5f0o)
+- [Building a Scalable Minio Distributed Setup: A Step-by-Step Guide](https://dev.to/farhanaliali/building-a-scalable-minio-distributed-setup-a-step-by-step-guide-bib)
+- [Installing and Configuring a SFTP Server on CentOS](https://dev.to/sammy_cloud/installing-and-configuring-a-sftp-server-on-centos-756)
+- [Managing and retrieving translated strings in a Google Sheet](https://dev.to/sergeyli/managing-and-retrieving-translated-strings-in-a-google-sheet-2efo)
 <!-- BLOG-POST-LIST:END -->
 
