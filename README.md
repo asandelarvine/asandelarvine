@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-16-59io)
-- [Amazing place to find modules and learning path of various tech fields](https://dev.to/pratyoos/amazing-place-to-find-modules-and-learning-path-of-various-tech-fields-32jh)
-- [Day 15:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-15-5hf3)
-- [Quickstart: Add Video Chat to Vision Pro with Agora](https://dev.to/icywind/quickstart-add-video-chat-to-vision-pro-with-agora-496)
+- [Fast HTML - **500 Server Error NotFoundError: Need 2 pk**](https://dev.to/onepunman/fast-html-500-server-error-notfounderror-need-2-pk-362l)
+- [OTE one time emails](https://dev.to/jswhisperer/ote-one-time-emails-10n0)
+- [Identity 101: Authentication and Authorization](https://dev.to/unknwon/identity-101-authentication-and-authorization-2717)
+- [Mastering Fine-Tuning: A Journey Through Model Optimization](https://dev.to/mohammadshahidbeigh/mastering-fine-tuning-a-journey-through-model-optimization-5hj)
 <!-- BLOG-POST-LIST:END -->
 
