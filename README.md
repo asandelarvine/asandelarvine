@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build with Me Larachat: the realtime chat package for Laravel](https://dev.to/ramzi-issiakhem/build-with-me-larachat-the-realtime-chat-package-for-laravel-2hon)
-- [Unraveling the Complexities of Amazon SQS Quotas: What You Need to Know](https://dev.to/quiver/unraveling-the-complexities-of-amazon-sqs-quotas-what-you-need-to-know-565b)
-- [Construyendo Microfrontends Escalables y Mantenibles con Turborepo 🚀](https://dev.to/mentatech/construyendo-microfrontends-escalables-y-mantenibles-con-turborepo-1pba)
-- [Route53 With Application Loadbalancer](https://dev.to/clintt/route53-with-applicationloadbalancer-5be3)
+- [Minimal tips to run isolated code](https://dev.to/slivingston/minimal-tips-to-run-isolated-code-4206)
+- [Mastering the Art of Front-end Development: Best Practices and Tools](https://dev.to/jahswill_jacob_/mastering-the-art-of-front-end-development-best-practices-and-tools-jmd)
+- [Linux Commands for Beginners](https://dev.to/harshm03/linux-commands-for-beginners-3ncd)
+- [Automate Neon schema changes with Drizzle and GitHub Actions](https://dev.to/clerk/automate-neon-schema-changes-with-drizzle-and-github-actions-1o37)
 <!-- BLOG-POST-LIST:END -->
 
