@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v292](https://dev.to/devteam/welcome-thread-v292-17j)
-- [✨Dive into Markdown Magic!](https://dev.to/qurlarmah/dive-into-markdown-magic-24m4)
-- [The Purpose of Computer Processors &lpar;CPUs&rpar; and How Multiple Cores Improve Speed and Performance](https://dev.to/adityabhuyan/the-purpose-of-computer-processors-cpus-and-how-multiple-cores-improve-speed-and-performance-3f8d)
-- [Guide to Viewing User Permissions in GBase 8s](https://dev.to/congcong/guide-to-viewing-user-permissions-in-gbase-8s-12ol)
+- [Bare Metal vs VM vs Containers? 🤔](https://dev.to/rajeshj3/bare-metal-vs-vm-vs-containers-3i24)
+- [Future Trends and Innovations in Developer Community Building](https://dev.to/swati1267/future-trends-and-innovations-in-developer-community-building-1gbf)
+- [Top Game Testing Tools Improving Game Performance](https://dev.to/misterankit/top-game-testing-tools-improving-game-performance-38jh)
+- [Explore the Future of Martropolis with Hadoop and Hive](https://dev.to/labex/explore-the-future-of-martropolis-with-hadoop-and-hive-49fl)
 <!-- BLOG-POST-LIST:END -->
 
