@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast HTML - **500 Server Error NotFoundError: Need 2 pk**](https://dev.to/onepunman/fast-html-500-server-error-notfounderror-need-2-pk-362l)
-- [OTE one time emails](https://dev.to/jswhisperer/ote-one-time-emails-10n0)
-- [Identity 101: Authentication and Authorization](https://dev.to/unknwon/identity-101-authentication-and-authorization-2717)
-- [Mastering Fine-Tuning: A Journey Through Model Optimization](https://dev.to/mohammadshahidbeigh/mastering-fine-tuning-a-journey-through-model-optimization-5hj)
+- [874. Walking Robot Simulation](https://dev.to/mdarifulhaque/874-walking-robot-simulation-301g)
+- [CSS Transitions and Animations](https://dev.to/ridoy_hasan/css-transitions-and-animations-50b6)
+- [API Design for Data-Driven Websites](https://dev.to/peymaan_abedinpour/api-design-for-data-driven-websites-2aaj)
+- [How to install Nginx on Mac](https://dev.to/deepcodr/how-to-install-nginx-on-mac-157i)
 <!-- BLOG-POST-LIST:END -->
 
