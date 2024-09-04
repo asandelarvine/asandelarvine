@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect VPNs with JavaScript](https://dev.to/ohwow/how-to-detect-vpns-with-javascript-4aj3)
-- [Modules 2/2](https://dev.to/mahf001/iife-module-pattern-commonjs-5gkd)
-- [Microsoft Power platform tools and services](https://dev.to/seenakhan/microsoft-power-platform-tools-and-services-589j)
-- [How to Become an AI Engineer: A Step-by-Step Guide](https://dev.to/ankush_mahore/how-to-become-an-ai-engineer-a-step-by-step-guide-gk3)
+- [Setting Up ViewCode Projects for Versions Below iOS 13](https://dev.to/gguedes/setting-up-viewcode-projects-for-versions-below-ios-13-inh)
+- [Best JavaScript Frameworks for Frontend Developer](https://dev.to/bizmaven-devworld-organization/best-javascript-frameworks-for-frontend-developer-bg6)
+- [Free Hosting Using Github pages](https://dev.to/ram_ram007/free-hosting-using-github-pages-g4i)
+- [Advanced Apex Techniques for Salesforce Developers](https://dev.to/nilebits/advanced-apex-techniques-for-salesforce-developers-32li)
 <!-- BLOG-POST-LIST:END -->
 
