@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch Statement Oddities](https://dev.to/pauljlucas/switch-statement-oddities-2ci6)
-- [3 New frontend libraries 🎨](https://dev.to/therextordcs/3-new-frontend-libraries-436n)
-- [Journey of a product from Vision to Execution &lpar;feat. Chuks Ejechi&rpar;](https://dev.to/vpalania/journey-of-a-product-from-vision-to-execution-feat-chuks-ejechi-3on8)
-- [A Beginner&#39;s Guide to Git](https://dev.to/farhatsharifh/a-beginners-guide-for-git-4p5)
+- [Master API Gateway Magic: Unleash the Power of Ocelot in ASP.NET Core for Seamless Microservices Integration](https://dev.to/dot_nettips_a4e90828daa4/master-api-gateway-magic-unleash-the-power-of-ocelot-in-aspnet-core-for-seamless-microservices-integration-bh6)
+- [chatminal](https://dev.to/fadingna/chatminal-1m4g)
+- [AWS SQS](https://dev.to/gavindang2911/aws-sqs-3gp3)
+- [Using Keyed Services in .NET 8 for Dynamic Dependency Injection](https://dev.to/dot_nettips_a4e90828daa4/use-keyed-services-in-net-8-for-dynamic-dependency-injection-4hoj)
 <!-- BLOG-POST-LIST:END -->
 
