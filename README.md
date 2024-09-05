@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Computer Science Website](https://dev.to/kekeandzeyu/my-computer-science-website-1156)
-- [Hello DEV Community!](https://dev.to/dpraj/hello-dev-community-4g3i)
-- [The quest for a robust and scalable storage solution for home use.](https://dev.to/nalayak_engineer/the-quest-for-a-robust-and-scalable-storage-solution-for-home-use-2j35)
-- [Calculating Ogg Audio Duration in Go: A Step-by-Step Guide](https://dev.to/mmvergara/calculating-ogg-audio-duration-in-go-a-step-by-step-guide-1igh)
+- [C# Tip: Ref Locals and Returns](https://dev.to/juarezasjunior/c-tip-ref-locals-and-returns-1429)
+- [Squash Your Ruby and Rails Bugs Faster](https://dev.to/appsignal/squash-your-ruby-and-rails-bugs-faster-4nkn)
+- [Attention Isn’t All You Need](https://dev.to/portkey/attention-isnt-all-you-need-3edk)
+- [Ng-News Special Summer Edition](https://dev.to/this-is-angular/ng-news-special-summer-edition-50e6)
 <!-- BLOG-POST-LIST:END -->
 
