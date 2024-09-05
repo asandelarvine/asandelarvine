@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New DEV++ Deal: 25% Off Scrimba Pro](https://dev.to/devteam/new-dev-deal-25-off-scrimba-pro-3eed)
-- [Day 23:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-23-3ka)
-- [Leetcode: 1768. Merge Strings Alternately](https://dev.to/decoders_lord/leetcode-1768-merge-strings-alternately-26dk)
-- [Day 22:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-22-2hf7)
+- [Top 10 Natural Language Processing Tools and Platforms](https://dev.to/zilliz/top-10-natural-language-processing-tools-and-platforms-eg7)
+- [Implementing Platform Engineering and Internal Developer Platforms &lpar;IDPs&rpar;](https://dev.to/sujal_dua/implementing-platform-engineering-and-internal-developer-platforms-idps-3lj1)
+- [How to Create a Custom Deploy &lpar;Vercel/Netlify&rpar; Button for your Sanity Project](https://dev.to/julimancan/how-to-create-a-custom-deploy-vercelnetlify-button-for-your-sanity-project-9e6)
+- [Ive switched my devops org to a tenant but i cant get access however i am an owner in this account i just get a login loop](https://dev.to/terencenrth/ive-switched-my-devops-org-to-a-tenant-but-i-cant-get-access-however-i-am-an-owner-in-this-account-i-just-get-a-login-loop-42g0)
 <!-- BLOG-POST-LIST:END -->
 
