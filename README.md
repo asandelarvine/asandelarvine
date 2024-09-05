@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Habits System Developers Must Break for Success](https://dev.to/jahswill_jacob_/5-habits-system-developers-must-break-for-success-chn)
-- [DX UX = U DX UX =](https://dev.to/cpard/dx-ux-u-dx-ux--e94)
-- [Use Cases for working with DynamoDB alongside Node.js and Typescript](https://dev.to/wallacefreitas/use-cases-for-working-with-dynamodb-alongside-nodejs-and-typescript-4hld)
-- [Mastering Linux on Windows: A Complete Guide to Windows Subsystem for Linux &lpar;WSL2 &rpar; Setup and Benefits](https://dev.to/techmystic/mastering-linux-on-windows-a-complete-guide-to-windows-subsystem-for-linux-wsl2-setup-and-benefits-2p9p)
+- [Switch Statement Oddities](https://dev.to/pauljlucas/switch-statement-oddities-2ci6)
+- [3 New frontend libraries 🎨](https://dev.to/therextordcs/3-new-frontend-libraries-436n)
+- [Journey of a product from Vision to Execution &lpar;feat. Chuks Ejechi&rpar;](https://dev.to/vpalania/journey-of-a-product-from-vision-to-execution-feat-chuks-ejechi-3on8)
+- [A Beginner&#39;s Guide to Git](https://dev.to/farhatsharifh/a-beginners-guide-for-git-4p5)
 <!-- BLOG-POST-LIST:END -->
 
