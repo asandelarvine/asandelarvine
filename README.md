@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Tip: Ref Locals and Returns](https://dev.to/juarezasjunior/c-tip-ref-locals-and-returns-1429)
-- [Squash Your Ruby and Rails Bugs Faster](https://dev.to/appsignal/squash-your-ruby-and-rails-bugs-faster-4nkn)
-- [Attention Isn’t All You Need](https://dev.to/portkey/attention-isnt-all-you-need-3edk)
-- [Ng-News Special Summer Edition](https://dev.to/this-is-angular/ng-news-special-summer-edition-50e6)
+- [Interview with Krzysztof Andrelczyk, Tauri Developer and Creator of Twili Recipes](https://dev.to/crabnebula/interview-with-krzysztof-andrelczyk-tauri-developer-and-creator-of-twili-recipes-36a5)
+- [Connecting AI with Excel - Talk to Your Spreadsheets](https://dev.to/flowtrail-ai/connecting-ai-with-excel-talk-to-your-spreadsheets-1gch)
+- [Transcription for Emotions in Software Engineering, with Nicole Novielli](https://dev.to/adolfont/transcription-for-emotions-in-software-engineering-with-nicole-novielli-5e76)
+- [JAVASCRIPT BEST PRACTICES.](https://dev.to/harshanalk/javascript-best-practices-5dc6)
 <!-- BLOG-POST-LIST:END -->
 
