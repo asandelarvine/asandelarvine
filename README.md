@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DRY your Apache APISIX config](https://dev.to/apisix/dry-your-apache-apisix-config-85f)
-- [Interview Kit: Recursion.](https://dev.to/sfundomhlungu/interview-kit-recursion-23p)
-- [React js &amp; Github actions](https://dev.to/hamzatopo/react-js-github-actions-321e)
-- [My Workspace](https://dev.to/mysticcoder/my-workspace-cah)
+- [My Computer Science Website](https://dev.to/kekeandzeyu/my-computer-science-website-1156)
+- [Hello DEV Community!](https://dev.to/dpraj/hello-dev-community-4g3i)
+- [The quest for a robust and scalable storage solution for home use.](https://dev.to/nalayak_engineer/the-quest-for-a-robust-and-scalable-storage-solution-for-home-use-2j35)
+- [Calculating Ogg Audio Duration in Go: A Step-by-Step Guide](https://dev.to/mmvergara/calculating-ogg-audio-duration-in-go-a-step-by-step-guide-1igh)
 <!-- BLOG-POST-LIST:END -->
 
