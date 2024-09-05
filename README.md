@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Qt error when opening ncu-ui](https://dev.to/tallesl/qt-error-when-opening-ncu-ui-je1)
-- [How to Show Seconds in System Tray Clock Windows 11?](https://dev.to/winsides/how-to-show-seconds-in-system-tray-clock-windows-11-27o7)
-- [What you should know about PHP code security](https://dev.to/snyk/what-you-should-know-about-php-code-security-46i5)
-- [How I cleared the AWS Certified DevOps Engineer — Professional Certification](https://dev.to/aws-builders/how-i-cleared-the-aws-certified-devops-engineer-professional-certification-1e99)
+- [#58 — Split Each Row into Multiple Rows According to The Specified Rule](https://dev.to/judith677/58-split-each-row-into-multiple-rows-according-to-the-specified-rule-hlb)
+- [The Impact of Artificial Intelligence on Education](https://dev.to/indusschoolb/the-impact-of-artificial-intelligence-on-education-1d9g)
+- [Introduction to Bitwise Functions in GBase 8a MPP Cluster](https://dev.to/congcong/introduction-to-bitwise-functions-in-gbase-8a-mpp-cluster-10dc)
+- [Ubuntu 22.04: Browser Not Working After Hardening](https://dev.to/feng_wei/ubuntu-2204-browser-not-working-after-hardening-37gc)
 <!-- BLOG-POST-LIST:END -->
 
