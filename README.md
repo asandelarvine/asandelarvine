@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Nested Forms in Rails with Stimulus](https://dev.to/railsdesigner/building-nested-forms-in-rails-with-stimulus-1ilj)
-- [Why Rig? 5 Compelling Reasons to Use Rig for Your Next LLM Project](https://dev.to/0thtachi/why-rig-5-compelling-reasons-to-use-rig-for-your-next-llm-project-23hl)
-- [Handling custom error responses from ExpressoTS with TanStack Query, and NextJS](https://dev.to/expressots/handling-custom-error-responses-from-expressots-with-tanstack-query-and-nextjs-1lij)
-- [Setup efficient CICD Pipeline Jenkins to build binary and push docker image - Kubernetes cluster](https://dev.to/binoy_59380e698d318/setup-efficient-cicd-pipeline-jenkins-to-build-binary-and-push-docker-image-on-kubernetes-cluster-4f8d)
+- [Enhancing LLM Tool Usage with Converso](https://dev.to/gianfrancodemarco/enhancing-llm-tool-usage-with-converso-3ip3)
+- [Top 10 Clean Code Rules](https://dev.to/anikakash/top-10-clean-code-rules-13i6)
+- [VSCode + Ollama + Continue = chat e tab completions gratuitamente](https://dev.to/bduarte10/vscode-ollama-continue-chat-e-tab-completions-gratuitamente-3806)
+- [Optimizing Performance in CodeIgniter: Tips and Best Practices](https://dev.to/codeigniter-developers/optimizing-performance-in-codeigniter-tips-and-best-practices-34la)
 <!-- BLOG-POST-LIST:END -->
 
