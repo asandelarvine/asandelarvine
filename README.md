@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source API Documentation with Zudoku](https://dev.to/zuplo/open-source-api-documentation-with-zudoku-54nk)
-- [How to Setup Multi Tenant App in minutes with Laravel PART 2](https://dev.to/arkdevsolutions/how-to-setup-multi-tenant-app-in-minutes-with-laravel-part-2-5560)
-- [Networking Fundamentals: Understanding Network Types, Data Transmission, and Bandwidth](https://dev.to/isaactony/networking-fundamentals-understanding-network-types-data-transmission-and-bandwidth-in-the-ccna-course-20b1)
-- [API Integration Services in Drupal 10](https://dev.to/drupal-developer-dewan/api-integration-services-in-drupal-10-59b3)
+- [DRY your Apache APISIX config](https://dev.to/apisix/dry-your-apache-apisix-config-85f)
+- [Interview Kit: Recursion.](https://dev.to/sfundomhlungu/interview-kit-recursion-23p)
+- [React js &amp; Github actions](https://dev.to/hamzatopo/react-js-github-actions-321e)
+- [My Workspace](https://dev.to/mysticcoder/my-workspace-cah)
 <!-- BLOG-POST-LIST:END -->
 
