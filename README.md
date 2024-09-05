@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#58 — Split Each Row into Multiple Rows According to The Specified Rule](https://dev.to/judith677/58-split-each-row-into-multiple-rows-according-to-the-specified-rule-hlb)
-- [The Impact of Artificial Intelligence on Education](https://dev.to/indusschoolb/the-impact-of-artificial-intelligence-on-education-1d9g)
-- [Introduction to Bitwise Functions in GBase 8a MPP Cluster](https://dev.to/congcong/introduction-to-bitwise-functions-in-gbase-8a-mpp-cluster-10dc)
-- [Ubuntu 22.04: Browser Not Working After Hardening](https://dev.to/feng_wei/ubuntu-2204-browser-not-working-after-hardening-37gc)
+- [Solar System - CSS ART](https://dev.to/pinky057/solar-system-css-art-5c0o)
+- [How to integrate Cursor AI with Claude 3.5 Sonnet](https://dev.to/ashinno/how-to-integrate-cursor-ai-with-claude-35-sonnet-8ih)
+- [Boost Your Website Security in 3 Minutes with SafeLine, the Open-Source WAF with 11.8K GitHub Stars](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-your-website-security-in-3-minutes-with-safeline-the-open-source-waf-with-118k-github-stars-4314)
+- [What is an API?](https://dev.to/praveensriram01/what-is-an-api-3501)
 <!-- BLOG-POST-LIST:END -->
 
