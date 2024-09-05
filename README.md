@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [16 Web Designer Resources That Will Enhance Your UI/UX 🔥🎨](https://dev.to/madza/16-web-designer-resources-that-will-enhance-your-uiux-83c)
-- [How to Publish an Article to DEV Using Python](https://dev.to/luca1iu/how-to-publish-an-article-to-dev-using-python-1clj)
-- [Tips And Tricks In UI Design](https://dev.to/habeebah_lasisi_bb73dfb68/tips-and-tricks-in-ui-design-3j8)
-- [The Indispensable Role of API Testing in Technology](https://dev.to/keploy/the-indispensable-role-of-api-testing-in-technology-32bh)
+- [A beginners guide to using Vite with React](https://dev.to/codeparrot/a-beginner-guide-to-using-vite-with-react-dh2)
+- [Introducing Byte Code Review Challenges](https://dev.to/coreyja/introducing-byte-code-review-challenges-48l9)
+- [Using Kafka with Docker and NodeJS](https://dev.to/chauhoangminhnguyen/using-kafka-with-docker-and-nodejs-c4m)
+- [5 Essential Facts About AI-Driven Software Testing](https://dev.to/softwebsolution/5-essential-facts-about-ai-driven-software-testing-29eh)
 <!-- BLOG-POST-LIST:END -->
 
