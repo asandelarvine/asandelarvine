@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Up Your Blazor Project: Unveiling the Top 5 Admin Themes for Ultimate Efficiency](https://dev.to/faciletechnolab/power-up-your-blazor-project-unveiling-the-top-5-admin-themes-for-ultimate-efficiency-446e)
-- [Simplifying Mocking APIs for Faster Development: Basic &amp; Advanced Techniques](https://dev.to/getambassador2024/simplifying-mocking-apis-for-faster-development-basic-advanced-techniques-1g9f)
-- [Top 12 DevOps Metrics &amp; Key Performance Indicators &lpar;KPIs&rpar; To Track](https://dev.to/enna/top-12-devops-metrics-key-performance-indicators-kpis-to-track-p10)
-- [AI - Powered Imagination](https://dev.to/ragoli86/ai-powered-imagination-1h75)
+- [Efficiently Analyzing PostgreSQL Queries with EXPLAIN](https://dev.to/dbvismarketing/efficiently-analyzing-postgresql-queries-with-explain-22be)
+- [How to Set Up Free Reverse Proxy with High-Security Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-free-reverse-proxy-with-high-security-protection-37pp)
+- [Let&#39;s Read – Eloquent Ruby – Ch 9](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-9-2hmb)
+- [Next JS Blog App](https://dev.to/iamyathz/next-js-blog-app-4e1f)
 <!-- BLOG-POST-LIST:END -->
 
