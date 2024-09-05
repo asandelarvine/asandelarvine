@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Logging and Error Handling backend applications](https://dev.to/shieldstring/mastering-logging-and-error-handling-backend-applications-53pi)
-- [AI Agent Components](https://dev.to/mindsdb/ai-agent-components-1h9)
-- [Creating a Budget-Friendly AWS Environment: A Step-by-Step Guide for Small Tech Startups](https://dev.to/alexizu/creating-a-budget-friendly-aws-environment-a-step-by-step-guide-for-small-tech-startups-5fcn)
-- [A Legendary Interview Question: What is the Maximum Length of An Array in PHP?](https://dev.to/mdarifulhaque/a-legendary-interview-question-what-is-the-maximum-length-of-an-array-in-php-4fjb)
+- [OSD600 - Just gonna to sneak myself into this blog](https://dev.to/bregwin/osd600-just-gonna-to-sneak-myself-into-this-blog-4of2)
+- [Laravel Cloud: Why it matters?](https://dev.to/kachkolasa/laravel-cloud-why-it-matters-5eb9)
+- [The most valuable developer in the team is …](https://dev.to/mistomin/the-most-valuable-developer-in-the-team-is--2h9c)
+- [How to Quickly Develop an AI Website Using Replicate](https://dev.to/niemingxing/how-to-quickly-develop-an-ai-website-using-replicate-1jgf)
 <!-- BLOG-POST-LIST:END -->
 
