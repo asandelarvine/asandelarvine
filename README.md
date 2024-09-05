@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OSD600 - Just gonna to sneak myself into this blog](https://dev.to/bregwin/osd600-just-gonna-to-sneak-myself-into-this-blog-4of2)
-- [Laravel Cloud: Why it matters?](https://dev.to/kachkolasa/laravel-cloud-why-it-matters-5eb9)
-- [The most valuable developer in the team is …](https://dev.to/mistomin/the-most-valuable-developer-in-the-team-is--2h9c)
-- [How to Quickly Develop an AI Website Using Replicate](https://dev.to/niemingxing/how-to-quickly-develop-an-ai-website-using-replicate-1jgf)
+- [Qt error when opening ncu-ui](https://dev.to/tallesl/qt-error-when-opening-ncu-ui-je1)
+- [How to Show Seconds in System Tray Clock Windows 11?](https://dev.to/winsides/how-to-show-seconds-in-system-tray-clock-windows-11-27o7)
+- [What you should know about PHP code security](https://dev.to/snyk/what-you-should-know-about-php-code-security-46i5)
+- [How I cleared the AWS Certified DevOps Engineer — Professional Certification](https://dev.to/aws-builders/how-i-cleared-the-aws-certified-devops-engineer-professional-certification-1e99)
 <!-- BLOG-POST-LIST:END -->
 
