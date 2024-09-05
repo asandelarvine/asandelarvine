@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Opportunity, Gratitude, Progress](https://dev.to/gregharis/opportunity-gratitude-progress-36f1)
-- [Let&#39;s Read – Eloquent Ruby – Ch 8](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-8-4e1g)
-- [A Deep Dive into Retrieval-Augmented Generation &lpar;RAG&rpar;: How It Works Behind the Scenes!](https://dev.to/abhinowww/a-deep-dive-into-retrieval-augmented-generation-rag-how-it-works-behind-the-scenes-4eid)
-- [Developing Mobile Apps with SDLC - Best Practices](https://dev.to/misterankit/developing-mobile-apps-with-sdlc-best-practices-4oe8)
+- [Power Up Your Blazor Project: Unveiling the Top 5 Admin Themes for Ultimate Efficiency](https://dev.to/faciletechnolab/power-up-your-blazor-project-unveiling-the-top-5-admin-themes-for-ultimate-efficiency-446e)
+- [Simplifying Mocking APIs for Faster Development: Basic &amp; Advanced Techniques](https://dev.to/getambassador2024/simplifying-mocking-apis-for-faster-development-basic-advanced-techniques-1g9f)
+- [Top 12 DevOps Metrics &amp; Key Performance Indicators &lpar;KPIs&rpar; To Track](https://dev.to/enna/top-12-devops-metrics-key-performance-indicators-kpis-to-track-p10)
+- [AI - Powered Imagination](https://dev.to/ragoli86/ai-powered-imagination-1h75)
 <!-- BLOG-POST-LIST:END -->
 
