@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficiently Analyzing PostgreSQL Queries with EXPLAIN](https://dev.to/dbvismarketing/efficiently-analyzing-postgresql-queries-with-explain-22be)
-- [How to Set Up Free Reverse Proxy with High-Security Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-free-reverse-proxy-with-high-security-protection-37pp)
-- [Let&#39;s Read – Eloquent Ruby – Ch 9](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-9-2hmb)
-- [Next JS Blog App](https://dev.to/iamyathz/next-js-blog-app-4e1f)
+- [Open-Source API Documentation with Zudoku](https://dev.to/zuplo/open-source-api-documentation-with-zudoku-54nk)
+- [How to Setup Multi Tenant App in minutes with Laravel PART 2](https://dev.to/arkdevsolutions/how-to-setup-multi-tenant-app-in-minutes-with-laravel-part-2-5560)
+- [Networking Fundamentals: Understanding Network Types, Data Transmission, and Bandwidth](https://dev.to/isaactony/networking-fundamentals-understanding-network-types-data-transmission-and-bandwidth-in-the-ccna-course-20b1)
+- [API Integration Services in Drupal 10](https://dev.to/drupal-developer-dewan/api-integration-services-in-drupal-10-59b3)
 <!-- BLOG-POST-LIST:END -->
 
