@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Krzysztof Andrelczyk, Tauri Developer and Creator of Twili Recipes](https://dev.to/crabnebula/interview-with-krzysztof-andrelczyk-tauri-developer-and-creator-of-twili-recipes-36a5)
-- [Connecting AI with Excel - Talk to Your Spreadsheets](https://dev.to/flowtrail-ai/connecting-ai-with-excel-talk-to-your-spreadsheets-1gch)
-- [Transcription for Emotions in Software Engineering, with Nicole Novielli](https://dev.to/adolfont/transcription-for-emotions-in-software-engineering-with-nicole-novielli-5e76)
-- [JAVASCRIPT BEST PRACTICES.](https://dev.to/harshanalk/javascript-best-practices-5dc6)
+- [16 Web Designer Resources That Will Enhance Your UI/UX 🔥🎨](https://dev.to/madza/16-web-designer-resources-that-will-enhance-your-uiux-83c)
+- [How to Publish an Article to DEV Using Python](https://dev.to/luca1iu/how-to-publish-an-article-to-dev-using-python-1clj)
+- [Tips And Tricks In UI Design](https://dev.to/habeebah_lasisi_bb73dfb68/tips-and-tricks-in-ui-design-3j8)
+- [The Indispensable Role of API Testing in Technology](https://dev.to/keploy/the-indispensable-role-of-api-testing-in-technology-32bh)
 <!-- BLOG-POST-LIST:END -->
 
