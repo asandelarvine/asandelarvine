@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar System - CSS ART](https://dev.to/pinky057/solar-system-css-art-5c0o)
-- [How to integrate Cursor AI with Claude 3.5 Sonnet](https://dev.to/ashinno/how-to-integrate-cursor-ai-with-claude-35-sonnet-8ih)
-- [Boost Your Website Security in 3 Minutes with SafeLine, the Open-Source WAF with 11.8K GitHub Stars](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-your-website-security-in-3-minutes-with-safeline-the-open-source-waf-with-118k-github-stars-4314)
-- [What is an API?](https://dev.to/praveensriram01/what-is-an-api-3501)
+- [Opportunity, Gratitude, Progress](https://dev.to/gregharis/opportunity-gratitude-progress-36f1)
+- [Let&#39;s Read – Eloquent Ruby – Ch 8](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-8-4e1g)
+- [A Deep Dive into Retrieval-Augmented Generation &lpar;RAG&rpar;: How It Works Behind the Scenes!](https://dev.to/abhinowww/a-deep-dive-into-retrieval-augmented-generation-rag-how-it-works-behind-the-scenes-4eid)
+- [Developing Mobile Apps with SDLC - Best Practices](https://dev.to/misterankit/developing-mobile-apps-with-sdlc-best-practices-4oe8)
 <!-- BLOG-POST-LIST:END -->
 
