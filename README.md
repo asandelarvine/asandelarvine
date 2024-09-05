@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginners guide to using Vite with React](https://dev.to/codeparrot/a-beginner-guide-to-using-vite-with-react-dh2)
-- [Introducing Byte Code Review Challenges](https://dev.to/coreyja/introducing-byte-code-review-challenges-48l9)
-- [Using Kafka with Docker and NodeJS](https://dev.to/chauhoangminhnguyen/using-kafka-with-docker-and-nodejs-c4m)
-- [5 Essential Facts About AI-Driven Software Testing](https://dev.to/softwebsolution/5-essential-facts-about-ai-driven-software-testing-29eh)
+- [New DEV++ Deal: 25% Off Scrimba Pro](https://dev.to/devteam/new-dev-deal-25-off-scrimba-pro-3eed)
+- [Day 23:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-23-3ka)
+- [Leetcode: 1768. Merge Strings Alternately](https://dev.to/decoders_lord/leetcode-1768-merge-strings-alternately-26dk)
+- [Day 22:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-22-2hf7)
 <!-- BLOG-POST-LIST:END -->
 
