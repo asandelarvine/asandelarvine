@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft: A Janela para a POO](https://dev.to/punkdasilva/minecraft-a-janela-para-a-poo-21p)
-- [The Best Way To Validate Objects in .NET in 2024](https://dev.to/antonmartyniuk/the-best-way-to-validate-objects-in-net-in-2024-1lpd)
-- [CSS Grid - A Deep Dive](https://dev.to/ridoy_hasan/css-grid-a-deep-dive-55l7)
-- [Fetching Blog Posts in Next.js Using the DEV.to API](https://dev.to/rajeshkumaryadavdotcom/fetching-blog-posts-in-nextjs-using-the-devto-api-4gdk)
+- [Re-using Dockerfile.base with your Fly.io deployments](https://dev.to/petercsiba/re-using-dockerfilebase-with-your-flyio-deployments-20fj)
+- [Configuring Entities and Relationships in EF Core](https://dev.to/moh_moh701/configuring-entities-and-relationships-in-ef-core-3ik2)
+- [createStore in Zustand&#39;s source code explained.](https://dev.to/thinkthroo/createstore-in-zustands-source-code-explained-nj6)
+- [Job Alert: Software Developer &lpar;TS/SCI&rpar; - Transform Geospatial Intelligence with Innovative Solutions!](https://dev.to/recruiter-emily/job-alert-software-developer-tssci-transform-geospatial-intelligence-with-innovative-solutions-17ag)
 <!-- BLOG-POST-LIST:END -->
 
