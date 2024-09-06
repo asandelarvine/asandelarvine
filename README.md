@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master API Gateway Magic: Unleash the Power of Ocelot in ASP.NET Core for Seamless Microservices Integration](https://dev.to/dot_nettips_a4e90828daa4/master-api-gateway-magic-unleash-the-power-of-ocelot-in-aspnet-core-for-seamless-microservices-integration-bh6)
-- [chatminal](https://dev.to/fadingna/chatminal-1m4g)
-- [AWS SQS](https://dev.to/gavindang2911/aws-sqs-3gp3)
-- [Using Keyed Services in .NET 8 for Dynamic Dependency Injection](https://dev.to/dot_nettips_a4e90828daa4/use-keyed-services-in-net-8-for-dynamic-dependency-injection-4hoj)
+- [Building a Full-Stack Application with MEAN Stack](https://dev.to/kartikmehta8/building-a-full-stack-application-with-mean-stack-2b5m)
+- [Release Radar · August 2024: Major updates from the open source community](https://dev.to/mishmanners/release-radar-august-2024-major-updates-from-the-open-source-community-54mo)
+- [Wazuh reglas y alertas para detección de intrusos](https://dev.to/aleets_vaaz/wazuh-reglas-y-alertas-para-deteccion-de-intrusos-d5c)
+- [How to send reports to different recipients based on the date](https://dev.to/sqlman/how-to-send-reports-to-different-recipients-based-on-the-date-31d6)
 <!-- BLOG-POST-LIST:END -->
 
