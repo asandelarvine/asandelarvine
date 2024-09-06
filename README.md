@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [cypress查找元素](https://dev.to/dennischeung/cypresscha-zhao-yuan-su-1h75)
-- [Dive into the Cutting Edge of Natural Language Processing! 🤖](https://dev.to/getvm/dive-into-the-cutting-edge-of-natural-language-processing-441b)
-- [Mastering Element UI: The &#39;Vanished Into Thin Air&#39; Project](https://dev.to/labex/mastering-element-ui-the-vanished-into-thin-air-project-2bi1)
-- [Le Java Memory Model : Comprendre la concurrence en profondeur](https://dev.to/tmohchelios/le-java-memory-model-comprendre-la-concurrence-en-profondeur-40no)
+- [How to Set Up Duplicate Detection Rules in Dynamics 365 CRM: A Step-by-Step Guide](https://dev.to/info_generalhazedawn_a3d/how-to-set-up-duplicate-detection-rules-in-dynamics-365-crm-a-step-by-step-guide-1298)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ae)
+- [HELP!!!](https://dev.to/somay_sharma_677f7853a6df/help-i4i)
+- [Master Date Input Control: Disabling Past Dates in HTML Forms](https://dev.to/srijan_karki/master-date-input-control-disabling-past-dates-in-html-forms-2ig9)
 <!-- BLOG-POST-LIST:END -->
 
