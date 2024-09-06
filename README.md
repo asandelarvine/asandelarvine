@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First blog.](https://dev.to/krinskumar/my-first-blog-55hp)
-- [Day 14: React State Management, Hooks, and Java Pattern Problems!](https://dev.to/jasman_deep_58679206bad26/day-14-react-state-management-hooks-and-java-pattern-problems-56lp)
-- [Enhancing API Debugging with Autonomous Agents](https://dev.to/apidna/enhancing-api-debugging-with-autonomous-agents-48i1)
-- [Resolve &quot;Blocked by CORS Policy: No &#39;Access-Control-Allow-Origin&#39;&quot; in Laravel](https://dev.to/robertobutti/resolve-blocked-by-cors-policy-no-access-control-allow-origin-in-laravel-kp1)
+- [Build YouTube API Data Fetching Using Rust](https://dev.to/francescoxx/build-youtube-api-data-fetching-using-rust-2713)
+- [Safeguarding Your Users: A Simple Guide to Preventing CSRF Attacks](https://dev.to/aimes/safeguarding-your-users-a-simple-guide-to-preventing-csrf-attacks-5ai7)
+- [hii](https://dev.to/wesley_gianan_65f64c1ee8d/hii-1fd2)
+- [Embracing AI in Content Creation: Making It Sound Human](https://dev.to/erza_kuru/embracing-ai-in-content-creation-making-it-sound-human-4k1c)
 <!-- BLOG-POST-LIST:END -->
 
