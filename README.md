@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connect Kafka with Golang](https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d)
-- [Unlocking the Power of Data Structures and Algorithms &lpar;DSA&rpar; in Laravel](https://dev.to/himanshudevl/unlocking-the-power-of-data-structures-and-algorithms-dsa-in-laravel-kb2)
-- [10 Conditional Rendering Examples in CSS and React.js 🚀&lpar;Part 1&rpar;](https://dev.to/uicraft_by_pratik/10-conditional-rendering-examples-in-css-and-reactjs-part-1-2eij)
-- [Open Source Tools for AWS Cost Optimization: The Ultimate Guide](https://dev.to/harman_diaz/open-source-tools-for-aws-cost-optimization-the-ultimate-guide-17je)
+- [Throttling &amp; Debouncing in JavaScript: A Beginner&#39;s Guide](https://dev.to/alisamir/throttling-debouncing-in-javascript-a-beginners-guide-3j7n)
+- [How to Contribute to a Public GitHub Repository on GitHub by performing a git CLI Pull-Request](https://dev.to/practicing_datscy/how-to-contribute-to-a-public-github-repository-on-github-by-performing-a-git-cli-pull-request-4mk7)
+- [Como conseguir seu primeiro freela](https://dev.to/lincolixavier/como-conseguir-seu-primeiro-freela-d7h)
+- [Celestial Escapade: A Journey through Space and Code](https://dev.to/snehal_kothawade_b304de24/celestial-escapade-a-journey-through-space-and-code-1002)
 <!-- BLOG-POST-LIST:END -->
 
