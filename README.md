@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GBase 8a MPP Cluster FTP File Server Configuration Guide](https://dev.to/congcong/gbase-8a-mpp-cluster-ftp-file-server-configuration-guide-ddi)
-- [Day 35:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-35-3k59)
-- [Day 34:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-34-5aae)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-54ai)
+- [1417 Open Source alternatives to tools you pay for](https://dev.to/johnrushx/1417-open-source-alternatives-to-tools-you-pay-for-5g49)
+- [Mastering MySQL Aggregate Functions: Simplifying Data Analysis](https://dev.to/senkae_ll/mastering-mysql-aggregate-functions-simplifying-data-analysis-1g5o)
+- [Living without &quot;lifecycle hooks&quot;](https://dev.to/dariomannu/living-without-lifecycle-hooks-4oce)
+- [Top 5+ Low-Code/No-Code tools [Based On Flatlogic Research]](https://dev.to/alesiasirotka/top-5-low-codeno-code-top-5-low-codeno-code-tools-5hlj)
 <!-- BLOG-POST-LIST:END -->
 
