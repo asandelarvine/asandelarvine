@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1417 Open Source alternatives to tools you pay for](https://dev.to/johnrushx/1417-open-source-alternatives-to-tools-you-pay-for-5g49)
-- [Mastering MySQL Aggregate Functions: Simplifying Data Analysis](https://dev.to/senkae_ll/mastering-mysql-aggregate-functions-simplifying-data-analysis-1g5o)
-- [Living without &quot;lifecycle hooks&quot;](https://dev.to/dariomannu/living-without-lifecycle-hooks-4oce)
-- [Top 5+ Low-Code/No-Code tools [Based On Flatlogic Research]](https://dev.to/alesiasirotka/top-5-low-codeno-code-top-5-low-codeno-code-tools-5hlj)
+- [Comprehensive Analysis of Attack Events with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/comprehensive-analysis-of-attack-events-with-safeline-waf-45e3)
+- [Creating Malware in Python](https://dev.to/mohanavamsi0614/creating-malware-in-python-2l5d)
+- [Essential Online Tools for Developers](https://dev.to/foxinfotech/essential-online-tools-for-developers-4egm)
+- [Overcoming Electron-Builder Limitations: A C# and NSIS Hybrid Approach](https://dev.to/abdulghaffar349/overcoming-electron-builder-limitations-a-c-and-nsis-hybrid-approach-1oc8)
 <!-- BLOG-POST-LIST:END -->
 
