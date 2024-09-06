@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Duplicate Detection Rules in Dynamics 365 CRM: A Step-by-Step Guide](https://dev.to/info_generalhazedawn_a3d/how-to-set-up-duplicate-detection-rules-in-dynamics-365-crm-a-step-by-step-guide-1298)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ae)
-- [HELP!!!](https://dev.to/somay_sharma_677f7853a6df/help-i4i)
-- [Master Date Input Control: Disabling Past Dates in HTML Forms](https://dev.to/srijan_karki/master-date-input-control-disabling-past-dates-in-html-forms-2ig9)
+- [FlutterFlow Templates to build Faster](https://dev.to/codeparrot/flutterflow-templates-to-build-faster-11eh)
+- [Unlocking Efficiency in Software Testing: The Advantages and Strategies of Automation Testing](https://dev.to/misterankit/unlocking-efficiency-in-software-testing-the-advantages-and-strategies-of-automation-testing-48m3)
+- [Understanding the Linux Filesystem: A Quick Guide](https://dev.to/idsulik/understanding-the-linux-filesystem-a-quick-guide-33jg)
+- [Grid and Flex Layout in CSS](https://dev.to/ashutoshsarangi/grid-layout-and-flex-layout-in-css-4e8e)
 <!-- BLOG-POST-LIST:END -->
 
