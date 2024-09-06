@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Analysis of Attack Events with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/comprehensive-analysis-of-attack-events-with-safeline-waf-45e3)
-- [Creating Malware in Python](https://dev.to/mohanavamsi0614/creating-malware-in-python-2l5d)
-- [Essential Online Tools for Developers](https://dev.to/foxinfotech/essential-online-tools-for-developers-4egm)
-- [Overcoming Electron-Builder Limitations: A C# and NSIS Hybrid Approach](https://dev.to/abdulghaffar349/overcoming-electron-builder-limitations-a-c-and-nsis-hybrid-approach-1oc8)
+- [Societal Critique: The Struggle of Neurodivergent Employees in Neurotypical Work Environments](https://dev.to/josunlp/societal-critique-the-struggle-of-neurodivergent-employees-in-neurotypical-work-environments-32i0)
+- [Innovative Approaches to Climate Impact Data Collection and Analysis](https://dev.to/ankit_langey_3eb6c9fc0587/innovative-approaches-to-climate-impact-data-collection-and-analysis-5gmn)
+- [Supercharge Your Coding: Using Google Gemini as an AI Coding Assistant in Visual Studio Code](https://dev.to/s3cloudhub/supercharge-your-coding-using-google-gemini-as-an-ai-coding-assistant-in-visual-studio-code-51od)
+- [Setting Up VSCode Debugger for NodeJS + TypeScript Projects](https://dev.to/cloudi_africa/setting-up-vscode-debugger-for-nodejs-typescript-projects-4g00)
 <!-- BLOG-POST-LIST:END -->
 
