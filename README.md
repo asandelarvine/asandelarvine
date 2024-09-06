@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 técnicas modernas de CSS para problemas de CSS mais antigos](https://dev.to/dougsource/12-tecnicas-modernas-de-css-para-problemas-de-css-mais-antigos-1mkh)
-- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-l9j)
-- [get](https://dev.to/__040711563a17902392e7/get-2ocf)
-- [get](https://dev.to/__040711563a17902392e7/get-12i8)
+- [cypress查找元素](https://dev.to/dennischeung/cypresscha-zhao-yuan-su-1h75)
+- [Dive into the Cutting Edge of Natural Language Processing! 🤖](https://dev.to/getvm/dive-into-the-cutting-edge-of-natural-language-processing-441b)
+- [Mastering Element UI: The &#39;Vanished Into Thin Air&#39; Project](https://dev.to/labex/mastering-element-ui-the-vanished-into-thin-air-project-2bi1)
+- [Le Java Memory Model : Comprendre la concurrence en profondeur](https://dev.to/tmohchelios/le-java-memory-model-comprendre-la-concurrence-en-profondeur-40no)
 <!-- BLOG-POST-LIST:END -->
 
