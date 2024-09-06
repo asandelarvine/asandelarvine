@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack Application with MEAN Stack](https://dev.to/kartikmehta8/building-a-full-stack-application-with-mean-stack-2b5m)
-- [Release Radar · August 2024: Major updates from the open source community](https://dev.to/mishmanners/release-radar-august-2024-major-updates-from-the-open-source-community-54mo)
-- [Wazuh reglas y alertas para detección de intrusos](https://dev.to/aleets_vaaz/wazuh-reglas-y-alertas-para-deteccion-de-intrusos-d5c)
-- [How to send reports to different recipients based on the date](https://dev.to/sqlman/how-to-send-reports-to-different-recipients-based-on-the-date-31d6)
+- [12 técnicas modernas de CSS para problemas de CSS mais antigos](https://dev.to/dougsource/12-tecnicas-modernas-de-css-para-problemas-de-css-mais-antigos-1mkh)
+- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-l9j)
+- [get](https://dev.to/__040711563a17902392e7/get-2ocf)
+- [get](https://dev.to/__040711563a17902392e7/get-12i8)
 <!-- BLOG-POST-LIST:END -->
 
