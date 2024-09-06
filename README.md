@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FlutterFlow Templates to build Faster](https://dev.to/codeparrot/flutterflow-templates-to-build-faster-11eh)
-- [Unlocking Efficiency in Software Testing: The Advantages and Strategies of Automation Testing](https://dev.to/misterankit/unlocking-efficiency-in-software-testing-the-advantages-and-strategies-of-automation-testing-48m3)
-- [Understanding the Linux Filesystem: A Quick Guide](https://dev.to/idsulik/understanding-the-linux-filesystem-a-quick-guide-33jg)
-- [Grid and Flex Layout in CSS](https://dev.to/ashutoshsarangi/grid-layout-and-flex-layout-in-css-4e8e)
+- [Want to take a bet on an open-source developer?](https://dev.to/paul_freeman/want-to-take-a-bet-on-an-open-source-developer-368)
+- [Marking Grading System with if-else-elif Part-09](https://dev.to/monirulislam027/marking-grading-system-with-if-else-elif-part-09-5g6j)
+- [GBase 8s JDBC Character Set Parameters Explained](https://dev.to/congcong/gbase-8s-jdbc-character-set-parameters-explained-49kk)
+- [Computer Networks 101 💡| Understanding the Fundamentals in Networking.📶🌐](https://dev.to/dipsankadariya/computer-networks-101-understanding-the-fundamentals-in-networking-5ddk)
 <!-- BLOG-POST-LIST:END -->
 
