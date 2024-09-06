@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CORS: 10 Crucial Tips for Effective Implementation](https://dev.to/ssukhpinder/mastering-cors-10-crucial-tips-for-effective-implementation-2gk8)
-- [Deep Dive into Traffic Scrubbing: Protect Your Network with SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/deep-dive-into-traffic-scrubbing-protect-your-network-with-safeline-2n96)
-- [HTTP/1 vs HTTP/2 vs HTTP3](https://dev.to/ashutoshsarangi/http1-vs-http2-vs-http3-2ce6)
-- [How a CEO Broke Free from Day-to-Day Operations](https://dev.to/mediacentre/how-a-ceo-broke-free-from-day-to-day-operations-23bp)
+- [GBase 8a MPP Cluster FTP File Server Configuration Guide](https://dev.to/congcong/gbase-8a-mpp-cluster-ftp-file-server-configuration-guide-ddi)
+- [Day 35:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-35-3k59)
+- [Day 34:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-34-5aae)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-54ai)
 <!-- BLOG-POST-LIST:END -->
 
