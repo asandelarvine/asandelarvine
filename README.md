@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build YouTube API Data Fetching Using Rust](https://dev.to/francescoxx/build-youtube-api-data-fetching-using-rust-2713)
-- [Safeguarding Your Users: A Simple Guide to Preventing CSRF Attacks](https://dev.to/aimes/safeguarding-your-users-a-simple-guide-to-preventing-csrf-attacks-5ai7)
-- [hii](https://dev.to/wesley_gianan_65f64c1ee8d/hii-1fd2)
-- [Embracing AI in Content Creation: Making It Sound Human](https://dev.to/erza_kuru/embracing-ai-in-content-creation-making-it-sound-human-4k1c)
+- [If losing the small battles would win you in the long run then why not?](https://dev.to/ibrahimshamma99/if-losing-the-small-battles-would-win-you-in-the-long-run-then-why-not-53d4)
+- [Understanding Concurrency](https://dev.to/edulemos0/understanding-concurrency-4kl)
+- [Flutter DropdownButton](https://dev.to/aadarshk7/flutter-dropdownbutton-26f)
+- [nginx: putting your site in ‘downtime’ for everyone except you](https://dev.to/gbhorwood/nginx-putting-your-site-in-downtime-for-everyone-except-you-34g0)
 <!-- BLOG-POST-LIST:END -->
 
