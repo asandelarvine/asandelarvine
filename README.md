@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Societal Critique: The Struggle of Neurodivergent Employees in Neurotypical Work Environments](https://dev.to/josunlp/societal-critique-the-struggle-of-neurodivergent-employees-in-neurotypical-work-environments-32i0)
-- [Innovative Approaches to Climate Impact Data Collection and Analysis](https://dev.to/ankit_langey_3eb6c9fc0587/innovative-approaches-to-climate-impact-data-collection-and-analysis-5gmn)
-- [Supercharge Your Coding: Using Google Gemini as an AI Coding Assistant in Visual Studio Code](https://dev.to/s3cloudhub/supercharge-your-coding-using-google-gemini-as-an-ai-coding-assistant-in-visual-studio-code-51od)
-- [Setting Up VSCode Debugger for NodeJS + TypeScript Projects](https://dev.to/cloudi_africa/setting-up-vscode-debugger-for-nodejs-typescript-projects-4g00)
+- [The Pre-DevOps Era &amp; Introduction to CI/CD: Day 39 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/the-pre-devops-era-introduction-to-cicd-day-39-of-50-days-devops-tools-series-6f1)
+- [DEF CON 32: What We Learned About Secrets Security at AppSec Village](https://dev.to/gitguardian/def-con-32-what-we-learned-about-secrets-security-at-appsec-village-1o1j)
+- [Everything You Need to Know About Postman vs Hoppscotch](https://dev.to/cyanspray/everything-you-need-to-know-about-postman-vs-hoppscotch-38f5)
+- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗔𝗣𝗜 𝗖𝗹𝗮𝗿𝗶𝘁𝘆: 𝗣𝗼𝘀𝘁𝗺𝗮𝗻 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀](https://dev.to/jay_jethava_3bc967a3da87d/-5gfb)
 <!-- BLOG-POST-LIST:END -->
 
