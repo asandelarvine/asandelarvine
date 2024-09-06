@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer diary #20. My favorite podcasts.](https://dev.to/kiolk/developer-diary-20-my-favorite-podcasts-4heh)
-- [Devtool is not necessary](https://dev.to/akinloludavid/devtool-is-not-necessary-535n)
-- [Data, ML, and AI in Google Cloud](https://dev.to/marisbotero/data-ml-and-ai-in-google-cloud-1oie)
-- [L&#39;Impact de l&#39;Intelligence Artificielle sur la Cybersécurité](https://dev.to/regisrobert/limpact-de-lintelligence-artificielle-sur-la-cybersecurite-52mk)
+- [Introducing the Ultimate Intune Community Tools Repository: Simplifying Microsoft Intune Management](https://dev.to/shahdeep/introducing-the-ultimate-intune-community-tools-repository-simplifying-microsoft-intune-management-1ndc)
+- [Introducing the Ultimate Intune Community Tools Repository: Simplifying Microsoft Intune Management](https://dev.to/shahdeep/introducing-the-ultimate-intune-community-tools-repository-simplifying-microsoft-intune-management-1ijc)
+- [About me](https://dev.to/aykito/about-me-2027)
+- [Entity Framework Core Tutorial: Comparing Asynchronous vs Synchronous Queries](https://dev.to/moh_moh701/entity-framework-core-tutorial-comparing-asynchronous-vs-synchronous-queries-551)
 <!-- BLOG-POST-LIST:END -->
 
