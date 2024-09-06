@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If losing the small battles would win you in the long run then why not?](https://dev.to/ibrahimshamma99/if-losing-the-small-battles-would-win-you-in-the-long-run-then-why-not-53d4)
-- [Understanding Concurrency](https://dev.to/edulemos0/understanding-concurrency-4kl)
-- [Flutter DropdownButton](https://dev.to/aadarshk7/flutter-dropdownbutton-26f)
-- [nginx: putting your site in ‘downtime’ for everyone except you](https://dev.to/gbhorwood/nginx-putting-your-site-in-downtime-for-everyone-except-you-34g0)
+- [Minecraft: A Janela para a POO](https://dev.to/punkdasilva/minecraft-a-janela-para-a-poo-21p)
+- [The Best Way To Validate Objects in .NET in 2024](https://dev.to/antonmartyniuk/the-best-way-to-validate-objects-in-net-in-2024-1lpd)
+- [CSS Grid - A Deep Dive](https://dev.to/ridoy_hasan/css-grid-a-deep-dive-55l7)
+- [Fetching Blog Posts in Next.js Using the DEV.to API](https://dev.to/rajeshkumaryadavdotcom/fetching-blog-posts-in-nextjs-using-the-devto-api-4gdk)
 <!-- BLOG-POST-LIST:END -->
 
