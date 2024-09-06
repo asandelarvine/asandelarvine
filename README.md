@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the new Dynamic Subscriptions for Power BI Reports](https://dev.to/jonvoge/exploring-the-new-dynamic-subscriptions-for-power-bi-reports-3558)
-- [How to Configure HTTPS and DDoS Protection with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-configure-https-and-ddos-protection-with-safeline-waf-kmj)
-- [Understanding IHostedService and BackgroundService in .NET 🌍](https://dev.to/ipazooki/understanding-ihostedservice-and-backgroundservice-in-net-5eml)
-- [ReactJs vs Angular](https://dev.to/kamlesh_gupta_539c974fb0d/reactjs-vs-angular-51ii)
+- [Mastering CORS: 10 Crucial Tips for Effective Implementation](https://dev.to/ssukhpinder/mastering-cors-10-crucial-tips-for-effective-implementation-2gk8)
+- [Deep Dive into Traffic Scrubbing: Protect Your Network with SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/deep-dive-into-traffic-scrubbing-protect-your-network-with-safeline-2n96)
+- [HTTP/1 vs HTTP/2 vs HTTP3](https://dev.to/ashutoshsarangi/http1-vs-http2-vs-http3-2ce6)
+- [How a CEO Broke Free from Day-to-Day Operations](https://dev.to/mediacentre/how-a-ceo-broke-free-from-day-to-day-operations-23bp)
 <!-- BLOG-POST-LIST:END -->
 
