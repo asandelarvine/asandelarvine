@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Ultimate Intune Community Tools Repository: Simplifying Microsoft Intune Management](https://dev.to/shahdeep/introducing-the-ultimate-intune-community-tools-repository-simplifying-microsoft-intune-management-1ndc)
-- [Introducing the Ultimate Intune Community Tools Repository: Simplifying Microsoft Intune Management](https://dev.to/shahdeep/introducing-the-ultimate-intune-community-tools-repository-simplifying-microsoft-intune-management-1ijc)
-- [About me](https://dev.to/aykito/about-me-2027)
-- [Entity Framework Core Tutorial: Comparing Asynchronous vs Synchronous Queries](https://dev.to/moh_moh701/entity-framework-core-tutorial-comparing-asynchronous-vs-synchronous-queries-551)
+- [Agentic Framework for Enterprise Java Applications](https://dev.to/vishalmysore/agentic-framework-for-enterprise-java-applications-2107)
+- [Supadart Typesafe Supabase Flutter Queries](https://dev.to/mmvergara/supadart-typesafe-supabase-flutter-queries-2aa2)
+- [Back to development after 3 months](https://dev.to/vpalania/back-to-development-after-3-months-3e24)
+- [Ditch the Server, Own Your Words: Building a Decentralized Blog with IPFS](https://dev.to/mibii/ditch-the-server-own-your-words-building-a-decentralized-blog-with-ipfs-1p56)
 <!-- BLOG-POST-LIST:END -->
 
