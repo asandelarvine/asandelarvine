@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to take a bet on an open-source developer?](https://dev.to/paul_freeman/want-to-take-a-bet-on-an-open-source-developer-368)
-- [Marking Grading System with if-else-elif Part-09](https://dev.to/monirulislam027/marking-grading-system-with-if-else-elif-part-09-5g6j)
-- [GBase 8s JDBC Character Set Parameters Explained](https://dev.to/congcong/gbase-8s-jdbc-character-set-parameters-explained-49kk)
-- [Computer Networks 101 💡| Understanding the Fundamentals in Networking.📶🌐](https://dev.to/dipsankadariya/computer-networks-101-understanding-the-fundamentals-in-networking-5ddk)
+- [Exploring the new Dynamic Subscriptions for Power BI Reports](https://dev.to/jonvoge/exploring-the-new-dynamic-subscriptions-for-power-bi-reports-3558)
+- [How to Configure HTTPS and DDoS Protection with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-configure-https-and-ddos-protection-with-safeline-waf-kmj)
+- [Understanding IHostedService and BackgroundService in .NET 🌍](https://dev.to/ipazooki/understanding-ihostedservice-and-backgroundservice-in-net-5eml)
+- [ReactJs vs Angular](https://dev.to/kamlesh_gupta_539c974fb0d/reactjs-vs-angular-51ii)
 <!-- BLOG-POST-LIST:END -->
 
