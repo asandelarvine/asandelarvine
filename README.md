@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If you have these three things, you will be fine &lpar;as a dev&rpar;](https://dev.to/noriller/if-you-have-these-three-things-you-will-be-fine-as-a-dev-4pgj)
-- [Working with XML-Based REST API with Spring Boot](https://dev.to/nilan/working-with-xml-based-rest-api-with-spring-boot-2g0h)
-- [Difference between anchor tag &lt;a/&gt; and Link tag &lt;Link&gt; in Next.js](https://dev.to/kashifnehal/difference-between-anchor-tag-and-link-tag-in-nextjs-2a8p)
-- [Analog Clock](https://dev.to/suyxcode/analog-clock-29i)
+- [Cron Job Basics](https://dev.to/mrcaption49/cron-job-basics-5d54)
+- [My take on a Landing Page for DuckDuckGo](https://dev.to/oliviapandora/my-take-on-a-landing-page-for-duckduckgo-3hfe)
+- [Transformers in the NLP Development](https://dev.to/ragoli86/transformers-in-the-nlp-development-5hb9)
+- [Is it too late to become a web developer in X year? 🤔](https://dev.to/grech_ca/is-it-too-late-to-become-a-web-developer-in-x-year-5bp6)
 <!-- BLOG-POST-LIST:END -->
 
