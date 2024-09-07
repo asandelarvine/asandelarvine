@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Start to my Open Source Development Journey](https://dev.to/jadorotan/the-start-to-my-open-source-development-journey-4p15)
-- [Introduction to Apache Cassandra](https://dev.to/kartikmehta8/introduction-to-apache-cassandra-3fg)
-- [Open Source Development](https://dev.to/amullagaliev/open-source-development-5309)
-- [Pruebas Unitarias en Laravel con Sanctum](https://dev.to/rzerostern/pruebas-unitarias-en-laravel-con-sanctum-4556)
+- [Microsoft Planner and Microsoft Project - MS 900 Exam Guide](https://dev.to/david2024mr/microsoft-planner-and-microsoft-project-ms-900-exam-guide-5b7n)
+- [Configuring AWS VPC, Load Balancers, and DNS for WordPress and Moodle Integration](https://dev.to/mateoramirezr/configuring-aws-vpc-load-balancers-and-dns-for-wordpress-and-moodle-integration-47bd)
+- [React State](https://dev.to/kcapers94/react-state-451a)
+- [Debug Mode: Django Docker Pycharm](https://dev.to/techbychoiceorg/debug-mode-django-docker-pycharm-i8d)
 <!-- BLOG-POST-LIST:END -->
 
