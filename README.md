@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Identify Which Files are Large.](https://dev.to/box_protection/identify-which-files-are-large-2gbo)
-- [Unlock the Power of AI with LangChain: The Future of Language Model Applications](https://dev.to/ankush_mahore/unlock-the-power-of-ai-with-langchain-the-future-of-language-model-applications-2nnf)
-- [UUID v7 Now in .NET 9](https://dev.to/islamnabil/uuid-v7-now-in-net-9-1p85)
-- [Elevate🚀 Your Design Game with `dummyImg` - A React &amp; Node.js Powerhouse! 😱🖼️](https://dev.to/dharamgfx/elevate-your-design-game-with-dummyimg-a-react-nodejs-powerhouse-1c0h)
+- [Building a simple load balancer in Go](https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d)
+- [Boost Your Git Workflow: Adding SSH Keys for Secure Repository Access](https://dev.to/s3cloudhub/boost-your-git-workflow-adding-ssh-keys-for-secure-repository-access-391j)
+- [Property-Based Testing: A Deep Dive into a Modern Testing Approach](https://dev.to/keploy123/property-based-testing-a-deep-dive-into-a-modern-testing-approach-1764)
+- [AWS AI Practitioner - Last Min Revision Tips](https://dev.to/aws-builders/aws-ai-practitioner-last-min-revision-tips-4hp0)
 <!-- BLOG-POST-LIST:END -->
 
