@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Data Fetching Techniques in Next.js](https://dev.to/devgauravjatt/advanced-data-fetching-techniques-in-nextjs-5bd4)
-- [New Adventures in Open Source Development](https://dev.to/buxton_philp-preuss/new-adventures-in-open-source-development-2ije)
-- [My Impression of Open Source](https://dev.to/inderpreet/my-impression-of-open-source-4a6)
-- [Dive into the World of Decentralized Apps with Master Solidity! 🚀](https://dev.to/getvm/dive-into-the-world-of-decentralized-apps-with-master-solidity-387b)
+- [Kubernetes Cheat Sheet: Essential Commands for Beginners](https://dev.to/idsulik/kubernetes-cheat-sheet-essential-commands-for-beginners-eg9)
+- [Tailwind CSS: Optimizing for Performance](https://dev.to/tailwine/tailwind-css-optimizing-for-performance-2fdk)
+- [Do code reviews find bugs?](https://dev.to/moozzyk/do-code-reviews-find-bugs-21p4)
+- [Why You Should Never Join the AWS Community Builders Program](https://dev.to/jiripik/why-you-should-never-join-the-aws-community-builders-program-2d9e)
 <!-- BLOG-POST-LIST:END -->
 
