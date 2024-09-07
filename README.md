@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Asynchronous Programming in Dart](https://dev.to/a_greynoon/getting-started-with-asynchronous-programming-in-dart-425)
-- [Developer diary #21. Who wrote that?](https://dev.to/kiolk/developer-diary-21-who-wrote-that-438i)
-- [How can I remove a specific item from an array in JavaScript?](https://dev.to/sharmaprash/how-can-i-remove-a-specific-item-from-an-array-in-javascript-52j3)
-- [NLP Challenges and Semantic Savior](https://dev.to/ragoli86/nlp-challenges-and-semantic-savior-3o5d)
+- [Creating and connecting to a Linux VM using a public key.](https://dev.to/abidemi/creating-and-connecting-to-a-linux-vm-using-a-public-key-49o0)
+- [Diary of a Software Developer #6 - End-of-week wrap-up](https://dev.to/antoniodev/diary-of-a-software-developer-6-end-of-week-wrap-up-25bk)
+- [Understanding Angular&#39;s APP_INITIALIZER with Practical Use-Cases](https://dev.to/ayoub_khial/understanding-angulars-appinitializer-with-practical-use-cases-58gp)
+- [Advanced CSS Grid Techniques](https://dev.to/ridoy_hasan/advanced-css-grid-techniques-24fm)
 <!-- BLOG-POST-LIST:END -->
 
