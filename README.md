@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Secrets of Computer Architecture 🖥️](https://dev.to/getvm/unlocking-the-secrets-of-computer-architecture-38od)
-- [Implementing Sentry for Error Monitoring in Flutter: A Complete Guide](https://dev.to/princetomarappdev/implementing-sentry-for-error-monitoring-in-flutter-a-complete-guide-3ckf)
-- [Solar System](https://dev.to/bharath_chandutirumalase/solar-system-4j9c)
-- [Neuroplasticity and Brain Rehabilitation: Rewiring the Brain for Recovery](https://dev.to/drboafomarcus/neuroplasticity-and-brain-rehabilitation-rewiring-the-brain-for-recovery-1ild)
+- [Advanced Data Fetching Techniques in Next.js](https://dev.to/devgauravjatt/advanced-data-fetching-techniques-in-nextjs-5bd4)
+- [New Adventures in Open Source Development](https://dev.to/buxton_philp-preuss/new-adventures-in-open-source-development-2ije)
+- [My Impression of Open Source](https://dev.to/inderpreet/my-impression-of-open-source-4a6)
+- [Dive into the World of Decentralized Apps with Master Solidity! 🚀](https://dev.to/getvm/dive-into-the-world-of-decentralized-apps-with-master-solidity-387b)
 <!-- BLOG-POST-LIST:END -->
 
