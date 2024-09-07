@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monorepo – The Magic of One Repo you must know as full stack developer](https://dev.to/khushindpatel/monorepo-the-magic-of-one-repo-you-must-know-as-full-stack-developer-3188)
-- [Execute function after response sent to client - express nodejs](https://dev.to/amanp30/execute-function-after-response-sent-to-client-express-nodejs-3oe6)
-- [Sample of One-To-One Relation in Two Different Entities using Asp .Net 8 Web Api &lpar;Introduction&rpar;](https://dev.to/mvcwebapiii/sample-of-one-to-one-relation-in-two-different-entities-using-asp-net-8-web-api-introduction-12n7)
-- [How to Connect GitHub and Jira for Enhanced Development Tracking](https://dev.to/s3cloudhub/how-to-connect-github-and-jira-for-enhanced-development-tracking-4kkl)
+- [Understanding Mass Assignment in Laravel: How fillable Protects Your Models](https://dev.to/vimuth7/understanding-mass-assignment-in-laravel-how-fillable-protects-your-models-2n4c)
+- [Can you develop and test AR applications using the Unity app for iPhone?](https://dev.to/roger_bcfcd1df4429bb109df/can-you-develop-and-test-ar-applications-using-the-unity-app-for-iphone-37b4)
+- [Automate and Elevate: Integrating GitHub Actions with SonarCloud for Superior Code Quality](https://dev.to/s3cloudhub/automate-and-elevate-integrating-github-actions-with-sonarcloud-for-superior-code-quality-2jj8)
+- [One-To-One Relation in Two Different Entities using Asp .Net 8 Web Api &lpar;Practical&rpar;](https://dev.to/mvcwebapiii/sample-of-one-to-one-relation-in-two-different-entities-using-asp-net-8-web-api-practical-444o)
 <!-- BLOG-POST-LIST:END -->
 
