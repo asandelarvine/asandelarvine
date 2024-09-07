@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monkeytype react clone ⌨️](https://dev.to/miguelrodriguezp99/monkeytype-react-clone-3444)
-- [Book Tracker Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/book-tracker-program-demonstration-rishi-nalem-36n0)
-- [What Is Record Type In C#](https://dev.to/dot_nettips_a4e90828daa4/what-is-record-type-in-c-11a3)
-- [Day 1: Introduction to Algorithmic Complexity](https://dev.to/kartikdevsharma/day-1-introduction-to-algorithmic-complexity-48pc)
+- [chapter 1: Introduction to Next.js 13: What’s New? 🚀](https://dev.to/margish288/chapter-1-introduction-to-nextjs-13-whats-new-48o7)
+- [The Rise of AI Story Tools: Transforming Creative Writing](https://dev.to/carol_jensen_707b4bb0ca79/the-rise-of-ai-story-tools-transforming-creative-writing-4028)
+- [Taming the Mega-Component: My Vue.js Refactoring Adventure](https://dev.to/rrd/taming-the-mega-component-my-vuejs-refactoring-adventure-5a3)
+- [What is Typescript ?](https://dev.to/adarsh_mishra/what-is-typescript--ojo)
 <!-- BLOG-POST-LIST:END -->
 
