@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mysterious Voyage to Purple Planet](https://dev.to/jagroop2001/the-mysterious-voyage-to-purple-planet-4743)
-- [API - Creating a Api in NodeJS with Prisma ORM &amp; MongoDB](https://dev.to/raynecoder/api-creating-a-api-in-nodejs-with-prisma-orm-mongodb-1hc5)
-- [Migrate MongoDB to MySQL using Prism Key Differences](https://dev.to/raynecoder/migrate-mongodb-to-mysql-using-prism-key-differences-2ma5)
-- [Hello OpenSBI!](https://dev.to/kanakshilledar/hello-opensbi-3dl4)
+- [Factory Method in Flutter](https://dev.to/syedabdulbasit7/factory-method-in-flutter-50pf)
+- [Introducing Mockly: The Fastest Way to Create Stunning Screenshots](https://dev.to/suryanshsingh2001/introducing-mockly-the-fastest-way-to-create-stunning-screenshots-46e6)
+- [My Journey as a Full Stack Developer: A Year of Growth with the MERN Stack](https://dev.to/shivaji_zirpe/my-journey-as-a-full-stack-developer-a-year-of-growth-with-the-mern-stack-3d2d)
+- [Unleash Your Creativity with the &#39;Project: Wish Sticky Note App with Vue.js&#39;](https://dev.to/labex/unleash-your-creativity-with-the-project-wish-sticky-note-app-with-vuejs-2g2)
 <!-- BLOG-POST-LIST:END -->
 
