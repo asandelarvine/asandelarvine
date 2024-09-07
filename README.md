@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Kafka Alternatives For Real-Time Data Processing](https://dev.to/bobur/top-7-kafka-alternatives-for-real-time-data-processing-gl0)
-- [Free freecell](https://dev.to/mellen/free-freecell-4kb2)
-- [LabEx Trending: Correctly Warn Incorrect v-Slot Usage and More](https://dev.to/labex/labex-trending-correctly-warn-incorrect-v-slot-usage-and-more-5016)
-- [Proven Tips to Boost Your Blog Readership](https://dev.to/csharp-programming/proven-tips-to-boost-your-blog-readership-42jd)
+- [Identify Which Files are Large.](https://dev.to/box_protection/identify-which-files-are-large-2gbo)
+- [Unlock the Power of AI with LangChain: The Future of Language Model Applications](https://dev.to/ankush_mahore/unlock-the-power-of-ai-with-langchain-the-future-of-language-model-applications-2nnf)
+- [UUID v7 Now in .NET 9](https://dev.to/islamnabil/uuid-v7-now-in-net-9-1p85)
+- [Elevate🚀 Your Design Game with `dummyImg` - A React &amp; Node.js Powerhouse! 😱🖼️](https://dev.to/dharamgfx/elevate-your-design-game-with-dummyimg-a-react-nodejs-powerhouse-1c0h)
 <!-- BLOG-POST-LIST:END -->
 
