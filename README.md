@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Size specifications in CSS: A developer&#39;s joys and sorrows 🎨](https://dev.to/disane/size-specifications-in-css-a-developers-joys-and-sorrows-hh3)
-- [Größenangaben in CSS: Freud und Leid eines Entwicklers 🎨](https://dev.to/disane/grossenangaben-in-css-freud-und-leid-eines-entwicklers-ie)
-- [Tech Debt](https://dev.to/syed_sadat_ali/tech-debt-3eo3)
-- [🚀 Introducing NextSolution V2: ASP.NET API + Next.js + Expo Starter Template](https://dev.to/prince272/introducing-nextsolution-v2-aspnet-api-nextjs-expo-starter-template-k9b)
+- [AutoConnectivity Check of EC2 to RDS Using Amazon EC2 Feature](https://dev.to/aws-builders/autoconnectivity-check-of-ec2-to-rds-using-amazon-ec2-feature-1805)
+- [Creating Dynamic Audio Narratives: A Guide to Combining Text-to-Speech and Music Using Python](https://dev.to/dm8ry/creating-dynamic-audio-narratives-a-guide-to-combining-text-to-speech-and-music-using-python-4bo3)
+- [Introducing Onlypepes: A Free API for Random Pepe the Frog Memes](https://dev.to/ismaventuras/introducing-onlypepes-a-free-api-for-random-pepe-the-frog-memes-41ao)
+- [Customization for VS Code!!!](https://dev.to/abdullah_alazmi_12/hey-this-is-my-personal-customization-and-maybe-you-will-like-this-1lon)
 <!-- BLOG-POST-LIST:END -->
 
