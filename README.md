@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Cheat Sheet: Essential Commands for Beginners](https://dev.to/idsulik/kubernetes-cheat-sheet-essential-commands-for-beginners-eg9)
-- [Tailwind CSS: Optimizing for Performance](https://dev.to/tailwine/tailwind-css-optimizing-for-performance-2fdk)
-- [Do code reviews find bugs?](https://dev.to/moozzyk/do-code-reviews-find-bugs-21p4)
-- [Why You Should Never Join the AWS Community Builders Program](https://dev.to/jiripik/why-you-should-never-join-the-aws-community-builders-program-2d9e)
+- [The Mysterious Voyage to Purple Planet](https://dev.to/jagroop2001/the-mysterious-voyage-to-purple-planet-4743)
+- [API - Creating a Api in NodeJS with Prisma ORM &amp; MongoDB](https://dev.to/raynecoder/api-creating-a-api-in-nodejs-with-prisma-orm-mongodb-1hc5)
+- [Migrate MongoDB to MySQL using Prism Key Differences](https://dev.to/raynecoder/migrate-mongodb-to-mysql-using-prism-key-differences-2ma5)
+- [Hello OpenSBI!](https://dev.to/kanakshilledar/hello-opensbi-3dl4)
 <!-- BLOG-POST-LIST:END -->
 
