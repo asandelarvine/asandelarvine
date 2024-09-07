@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Mass Assignment in Laravel: How fillable Protects Your Models](https://dev.to/vimuth7/understanding-mass-assignment-in-laravel-how-fillable-protects-your-models-2n4c)
-- [Can you develop and test AR applications using the Unity app for iPhone?](https://dev.to/roger_bcfcd1df4429bb109df/can-you-develop-and-test-ar-applications-using-the-unity-app-for-iphone-37b4)
-- [Automate and Elevate: Integrating GitHub Actions with SonarCloud for Superior Code Quality](https://dev.to/s3cloudhub/automate-and-elevate-integrating-github-actions-with-sonarcloud-for-superior-code-quality-2jj8)
-- [One-To-One Relation in Two Different Entities using Asp .Net 8 Web Api &lpar;Practical&rpar;](https://dev.to/mvcwebapiii/sample-of-one-to-one-relation-in-two-different-entities-using-asp-net-8-web-api-practical-444o)
+- [Top 7 Kafka Alternatives For Real-Time Data Processing](https://dev.to/bobur/top-7-kafka-alternatives-for-real-time-data-processing-gl0)
+- [Free freecell](https://dev.to/mellen/free-freecell-4kb2)
+- [LabEx Trending: Correctly Warn Incorrect v-Slot Usage and More](https://dev.to/labex/labex-trending-correctly-warn-incorrect-v-slot-usage-and-more-5016)
+- [Proven Tips to Boost Your Blog Readership](https://dev.to/csharp-programming/proven-tips-to-boost-your-blog-readership-42jd)
 <!-- BLOG-POST-LIST:END -->
 
