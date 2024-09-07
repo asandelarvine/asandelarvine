@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a simple load balancer in Go](https://dev.to/vivekalhat/building-a-simple-load-balancer-in-go-70d)
-- [Boost Your Git Workflow: Adding SSH Keys for Secure Repository Access](https://dev.to/s3cloudhub/boost-your-git-workflow-adding-ssh-keys-for-secure-repository-access-391j)
-- [Property-Based Testing: A Deep Dive into a Modern Testing Approach](https://dev.to/keploy123/property-based-testing-a-deep-dive-into-a-modern-testing-approach-1764)
-- [AWS AI Practitioner - Last Min Revision Tips](https://dev.to/aws-builders/aws-ai-practitioner-last-min-revision-tips-4hp0)
+- [🤯Powerful AI Tools You Should Know v2🫵](https://dev.to/dev_kiran/powerful-ai-tools-you-should-know-v2-2l1o)
+- [Create API Gateway with fast-gateway](https://dev.to/chauhoangminhnguyen/create-api-gateway-with-fast-gateway-482o)
+- [Important Announcement!](https://dev.to/shivam_agnihotri/important-announcement-30jk)
+- [Security Tips, API Edition: How to Lock Down Your Web App — Part 1 by Alan Norman.](https://dev.to/__alannorman/security-tips-api-edition-how-to-lock-down-your-web-app-part-1-by-alan-norman-4ooh)
 <!-- BLOG-POST-LIST:END -->
 
