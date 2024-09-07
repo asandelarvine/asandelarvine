@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Planner and Microsoft Project - MS 900 Exam Guide](https://dev.to/david2024mr/microsoft-planner-and-microsoft-project-ms-900-exam-guide-5b7n)
-- [Configuring AWS VPC, Load Balancers, and DNS for WordPress and Moodle Integration](https://dev.to/mateoramirezr/configuring-aws-vpc-load-balancers-and-dns-for-wordpress-and-moodle-integration-47bd)
-- [React State](https://dev.to/kcapers94/react-state-451a)
-- [Debug Mode: Django Docker Pycharm](https://dev.to/techbychoiceorg/debug-mode-django-docker-pycharm-i8d)
+- [Unlocking the Secrets of Computer Architecture 🖥️](https://dev.to/getvm/unlocking-the-secrets-of-computer-architecture-38od)
+- [Implementing Sentry for Error Monitoring in Flutter: A Complete Guide](https://dev.to/princetomarappdev/implementing-sentry-for-error-monitoring-in-flutter-a-complete-guide-3ckf)
+- [Solar System](https://dev.to/bharath_chandutirumalase/solar-system-4j9c)
+- [Neuroplasticity and Brain Rehabilitation: Rewiring the Brain for Recovery](https://dev.to/drboafomarcus/neuroplasticity-and-brain-rehabilitation-rewiring-the-brain-for-recovery-1ild)
 <!-- BLOG-POST-LIST:END -->
 
