@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Postoperative Monitoring &amp; Recovery Tool - An LLM approach](https://dev.to/neagu-mihai/ai-postoperative-monitoring-recovery-tool-a-llm-approach-253p)
-- [How do you raise funds for an open-source project?](https://dev.to/paul_freeman/how-do-you-raise-funds-for-an-open-source-project-484g)
-- [How can I enable or disable the &quot;Display Over Other Apps&quot; feature on Android?](https://dev.to/thomas_4b3207adb1a95f6d5b/how-can-i-enable-or-disable-the-display-over-other-apps-feature-on-android-ekj)
-- [Hiding all pinned browser extensions by one click](https://dev.to/feiye/hiding-all-pinned-browser-extensions-by-one-click-4pmm)
+- [Monorepo – The Magic of One Repo you must know as full stack developer](https://dev.to/khushindpatel/monorepo-the-magic-of-one-repo-you-must-know-as-full-stack-developer-3188)
+- [Execute function after response sent to client - express nodejs](https://dev.to/amanp30/execute-function-after-response-sent-to-client-express-nodejs-3oe6)
+- [Sample of One-To-One Relation in Two Different Entities using Asp .Net 8 Web Api &lpar;Introduction&rpar;](https://dev.to/mvcwebapiii/sample-of-one-to-one-relation-in-two-different-entities-using-asp-net-8-web-api-introduction-12n7)
+- [How to Connect GitHub and Jira for Enhanced Development Tracking](https://dev.to/s3cloudhub/how-to-connect-github-and-jira-for-enhanced-development-tracking-4kkl)
 <!-- BLOG-POST-LIST:END -->
 
