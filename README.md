@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Installation on different OS.](https://dev.to/theomkarauti/java-installation-on-different-os-6ec)
-- [Day 26: Understanding AWS Cloud for Project Setup – Lift &amp; Shift](https://dev.to/singh_in_cloud/day-26-understanding-aws-cloud-for-project-setup-lift-shift-1h5b)
-- [Don&#39;t Let Code Give You Gray Hair! 15 Python Functions to Save Your Development Life](https://dev.to/harveysun/dont-let-code-give-you-gray-hair-15-python-functions-to-save-your-development-life-46c3)
-- [How does Flutter Engine work?](https://dev.to/nachiket-gohil/how-does-flutter-engine-work-5e21)
+- [Monkeytype react clone ⌨️](https://dev.to/miguelrodriguezp99/monkeytype-react-clone-3444)
+- [Book Tracker Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/book-tracker-program-demonstration-rishi-nalem-36n0)
+- [What Is Record Type In C#](https://dev.to/dot_nettips_a4e90828daa4/what-is-record-type-in-c-11a3)
+- [Day 1: Introduction to Algorithmic Complexity](https://dev.to/kartikdevsharma/day-1-introduction-to-algorithmic-complexity-48pc)
 <!-- BLOG-POST-LIST:END -->
 
