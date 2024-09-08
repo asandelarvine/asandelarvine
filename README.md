@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun File Mover Script: From Desktop to Screenshots Folder](https://dev.to/debojit_choudhury_a889561/fun-file-mover-script-from-desktop-to-screenshots-folder-b34)
-- [Learning Qbasic](https://dev.to/mince/learning-qbasic-3odo)
-- [SCRUM Team Role](https://dev.to/anhphan2024/scrum-team-role-1lk)
-- [Talk about the type never and unknown in TypeScript](https://dev.to/aaron_conlon/talk-about-the-type-never-and-unknown-in-typescript-1ga)
+- [Effortless EC2 Instance Creation with Terraform](https://dev.to/omkara18/effortless-ec2-instance-creation-with-terraform-255j)
+- [20 Popular Open Datasets for Natural Language Processing](https://dev.to/zilliz/20-popular-open-datasets-for-natural-language-processing-5f91)
+- [Ecologic Innovators - EcoVision Application Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/ecologic-innovators-ecovision-application-demonstration-rishi-nalem-3d76)
+- [Scaling a Django Server in Production with Docker and PostgreSQL](https://dev.to/mfouladi94/scaling-a-django-server-in-production-with-docker-and-postgresql-4p70)
 <!-- BLOG-POST-LIST:END -->
 
