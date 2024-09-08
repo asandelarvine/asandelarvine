@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Memory Allocation | Memory Management in C](https://dev.to/anuj_raghuwanshi_/dynamic-memory-allocation-memory-management-in-c-1bn)
-- [space frontend challenge](https://dev.to/kannan2004cre/space-frontend-challenge-37el)
-- [Understanding eBPF and Its Application in Modern Cloud Environments 🚀](https://dev.to/hkhelil/understanding-ebpf-and-its-application-in-modern-cloud-environments-3f99)
-- [The Blueprint of Logic](https://dev.to/this_mkhy/the-blueprint-of-logic-npp)
+- [Glam Up My Markup: Star Wars Themed Solar System](https://dev.to/menard_codes/glam-up-my-markup-star-wars-themed-solar-system-1e0f)
+- [Smooth Sailing: A Hands-On Guide to Set-Up Concourse CI on Rocky Linux](https://dev.to/kabeer1choudary/smooth-sailing-a-hands-on-guide-to-set-up-concourse-ci-on-rocky-linux-db6)
+- [15 Best React Admin Dashboard Templates 2024 - Handpicked](https://dev.to/syakirurahman/15-best-react-admin-dashboard-templates-2024-handpicked-3ji5)
+- [Creating a File Copy Program in C](https://dev.to/labex/creating-a-file-copy-program-in-c-4e19)
 <!-- BLOG-POST-LIST:END -->
 
