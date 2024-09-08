@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Dev + Data Structures &amp; Algorithms: How DSA Can Power Your React App ⚡](https://dev.to/jayantbh/frontend-dev-data-structures-algorithms-how-dsa-can-power-your-react-app-491a)
-- [11 API Protocols YOU MUST KNOW](https://dev.to/alex1ai/11-api-protocols-you-must-know-5ah0)
-- [Centralized Package Caching for Linux: Mastering Apt-Cacher for Faster Updates](https://dev.to/farshad_nick/apt-repository-with-apt-cacher-2pb2)
-- [React Programming Tutorials: Elevate Your Skills 🚀](https://dev.to/labex/react-programming-tutorials-elevate-your-skills-261e)
+- [Eleventy - Is it time to upgrade to version 3?](https://dev.to/robole/eleventy-is-it-time-to-upgrade-to-version-3-4c72)
+- [Advanced Frontend Resources for Next.js Development 🚀](https://dev.to/hamzakhan/advanced-frontend-resources-for-nextjs-development-5fe2)
+- [Best DevOps Automation Tools to Supercharge Your Workflow](https://dev.to/devops_den/best-devops-automation-tools-to-supercharge-your-workflow-44dk)
+- [Function memoizer for every framework](https://dev.to/ahmetilhn/function-memoizer-for-every-framework-2g2)
 <!-- BLOG-POST-LIST:END -->
 
