@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Glam Up My Markup: Star Wars Themed Solar System](https://dev.to/menard_codes/glam-up-my-markup-star-wars-themed-solar-system-1e0f)
-- [Smooth Sailing: A Hands-On Guide to Set-Up Concourse CI on Rocky Linux](https://dev.to/kabeer1choudary/smooth-sailing-a-hands-on-guide-to-set-up-concourse-ci-on-rocky-linux-db6)
-- [15 Best React Admin Dashboard Templates 2024 - Handpicked](https://dev.to/syakirurahman/15-best-react-admin-dashboard-templates-2024-handpicked-3ji5)
-- [Creating a File Copy Program in C](https://dev.to/labex/creating-a-file-copy-program-in-c-4e19)
+- [Frontend Dev + Data Structures &amp; Algorithms: How DSA Can Power Your React App ⚡](https://dev.to/jayantbh/frontend-dev-data-structures-algorithms-how-dsa-can-power-your-react-app-491a)
+- [11 API Protocols YOU MUST KNOW](https://dev.to/alex1ai/11-api-protocols-you-must-know-5ah0)
+- [Centralized Package Caching for Linux: Mastering Apt-Cacher for Faster Updates](https://dev.to/farshad_nick/apt-repository-with-apt-cacher-2pb2)
+- [React Programming Tutorials: Elevate Your Skills 🚀](https://dev.to/labex/react-programming-tutorials-elevate-your-skills-261e)
 <!-- BLOG-POST-LIST:END -->
 
