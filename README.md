@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Real-Time Updates with Server-Sent Events &lpar;SSE&rpar; in C# .NET: A Complete Guide](https://dev.to/mayank_agarwal/implementing-real-time-updates-with-server-sent-events-sse-in-c-net-a-complete-guide-248l)
-- [Optimising page Performance with proper &lt;script&gt; tag placement.](https://dev.to/anselm_icheku_5f40039adf6/optimising-page-performance-with-proper-tag-placement-2a62)
-- [An introduction to AWS Lambda for beginners](https://dev.to/iamamash/an-introduction-to-aws-lambda-for-beginners-1koo)
-- [Join me in my 150 day challenge of Interview Preparation](https://dev.to/raj_e8add0cebb376a32800cd/join-me-in-my-150-day-challenge-of-interview-preparation-e69)
+- [Clean Code: Exerça a habilidade de escrever código simples e eficiente🔥](https://dev.to/hosana/clean-code-exerca-a-habilidade-de-escrever-codigo-simples-e-eficiente-3pjf)
+- [Building a Visual Studio Code Extension to Generate Files from Templates](https://dev.to/dusan100janovic/create-a-visual-studio-code-extension-1i7c)
+- [Mastering the Fundamentals of Systems Engineering 🛠️](https://dev.to/getvm/mastering-the-fundamentals-of-systems-engineering-2gkn)
+- [NPM Package &amp; CDN for Pagination in Javascript / Nodejs](https://dev.to/sujithvsuresh/npm-package-cdn-for-pagination-in-javascript-nodejs-5164)
 <!-- BLOG-POST-LIST:END -->
 
