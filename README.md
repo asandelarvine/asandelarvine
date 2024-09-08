@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Streamlined DevOps: Node.js CI/CD Pipeline with GitHub Actions&quot;](https://dev.to/maryjane_enechukwu/streamlined-devops-nodejs-cicd-pipeline-with-github-actions-4ke0)
-- [Parity: What it Means to be an IJSEC Practitioner: &quot;It&#39;s Not Me, It&#39;s You&quot;](https://dev.to/dmidlo/parity-what-it-means-to-be-an-ijsec-practitioner-its-not-me-its-you-1ii9)
-- [Interactive project report with Jira and LLM](https://dev.to/michal1024/interactive-project-report-with-jira-and-llm-jfa)
-- [What is a web server ?](https://dev.to/pancharas_shubham_/what-is-a-web-server--5hf0)
+- [Understanding decorators in Python](https://dev.to/21alul21/understanding-decorators-in-python-2fol)
+- [Sepet yönetimi](https://dev.to/mustafacam/sepet-yonetimi-4o4)
+- [Implementing Single Sign-On &lpar;SSO&rpar; in Your Microsoft Teams Bot App [Part II]](https://dev.to/afrazkhan/implementing-single-sign-on-sso-in-your-microsoft-teams-bot-app-part-2-3k7d)
+- [Unlocking the Future of Crypto Wallets: The Power of Starknet Wallets](https://dev.to/ternder/unlocking-the-future-of-crypto-wallets-the-power-of-starknet-wallets-h7p)
 <!-- BLOG-POST-LIST:END -->
 
