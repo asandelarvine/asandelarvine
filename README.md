@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Training Tutorial and Guide and Research For a FLUX Style](https://dev.to/furkangozukara/full-training-tutorial-and-guide-and-research-for-a-flux-style-57fb)
-- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-54c0)
-- [The Top 5 Mistakes That Can Derail Your Development Projects](https://dev.to/dishitdevasia/the-top-5-mistakes-that-can-derail-your-development-projects-29lp)
-- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-3fh8)
+- [Budget handling using npm package saksh-wallet](https://dev.to/susheel_kumar/budget-handling-using-npm-package-saksh-wallet-198f)
+- [Day 68 / 100 Days of Code: Harnessing JavaScript’s Iterative Power](https://dev.to/jacobsternx/day-68-100-days-of-code-harnessing-javascripts-iterative-power-1ff8)
+- [Creating Custom Aliases with Parameters in Bash: Simplify Your Workflow](https://dev.to/paulocappa/creating-custom-aliases-with-parameters-in-bash-simplify-your-workflow-21p8)
+- [40 Days Of Kubernetes &lpar;35/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-3540-1cp5)
 <!-- BLOG-POST-LIST:END -->
 
