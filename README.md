@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code: Exerça a habilidade de escrever código simples e eficiente🔥](https://dev.to/hosana/clean-code-exerca-a-habilidade-de-escrever-codigo-simples-e-eficiente-3pjf)
-- [Building a Visual Studio Code Extension to Generate Files from Templates](https://dev.to/dusan100janovic/create-a-visual-studio-code-extension-1i7c)
-- [Mastering the Fundamentals of Systems Engineering 🛠️](https://dev.to/getvm/mastering-the-fundamentals-of-systems-engineering-2gkn)
-- [NPM Package &amp; CDN for Pagination in Javascript / Nodejs](https://dev.to/sujithvsuresh/npm-package-cdn-for-pagination-in-javascript-nodejs-5164)
+- [&quot;Streamlined DevOps: Node.js CI/CD Pipeline with GitHub Actions&quot;](https://dev.to/maryjane_enechukwu/streamlined-devops-nodejs-cicd-pipeline-with-github-actions-4ke0)
+- [Parity: What it Means to be an IJSEC Practitioner: &quot;It&#39;s Not Me, It&#39;s You&quot;](https://dev.to/dmidlo/parity-what-it-means-to-be-an-ijsec-practitioner-its-not-me-its-you-1ii9)
+- [Interactive project report with Jira and LLM](https://dev.to/michal1024/interactive-project-report-with-jira-and-llm-jfa)
+- [What is a web server ?](https://dev.to/pancharas_shubham_/what-is-a-web-server--5hf0)
 <!-- BLOG-POST-LIST:END -->
 
