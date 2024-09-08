@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Linkspreed’s Web4 Redefines Online Communities and Leaves Outdated Platforms Like Minds and Mighty Networks Far Behind](https://dev.to/web4/why-linkspreeds-web4-redefines-online-communities-and-leaves-outdated-platforms-like-minds-and-mighty-networks-far-behind-34ma)
-- [GitHub Readme Template: For Personal Projects](https://dev.to/sumonta056/github-readme-template-for-personal-projects-4cho)
-- [DeshiJS vs Vue.js, Angular, and React: The Lightweight Challenger](https://dev.to/seraprogrammer/deshijs-vs-vuejs-angular-and-react-the-lightweight-challenger-5721)
-- [How to find a remote job in software development in year 2024](https://dev.to/susheel_kumar/how-to-find-a-remote-job-in-software-development-in-year-2024-5389)
+- [Diagram as Code with Mermaid](https://dev.to/chauhoangminhnguyen/diagram-as-code-with-mermaid-5gee)
+- [Level Up Your Workflow: Top VS Code Extensions &amp; Settings!](https://dev.to/grenishrai/level-up-your-workflow-top-vs-code-extensions-settings-2epn)
+- [10 Conditional Rendering Examples in CSS and React.js 🚀 &lpar;Part 3&rpar;](https://dev.to/uicraft_by_pratik/10-conditional-rendering-examples-in-css-and-reactjs-part-3-59bk)
+- [10-Must have tools as a Developer on Linux](https://dev.to/wole/10-must-have-tools-as-a-developer-on-linux-30hn)
 <!-- BLOG-POST-LIST:END -->
 
