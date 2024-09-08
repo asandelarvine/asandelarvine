@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to adding a TXT record to your DNS settings](https://dev.to/dgihost/how-to-adding-a-txt-record-to-your-dns-settings-41a7)
-- [Easy Web App Deployment: Python Flask, MongoDB, and Nginx with Docker Compose 🚀🐍](https://dev.to/niranyadav/easy-web-app-deployment-python-flask-mongodb-and-nginx-with-docker-compose-20oi)
-- [Visualizing Linux system call in real-time](https://dev.to/rakshyak/visualizing-linux-system-call-in-real-time-o19)
-- [Methods and feature in saksh-wallet class](https://dev.to/susheel_kumar/methods-and-feature-in-saksh-wallet-class-2ki7)
+- [Dynamic Memory Allocation | Memory Management in C](https://dev.to/anuj_raghuwanshi_/dynamic-memory-allocation-memory-management-in-c-1bn)
+- [space frontend challenge](https://dev.to/kannan2004cre/space-frontend-challenge-37el)
+- [Understanding eBPF and Its Application in Modern Cloud Environments 🚀](https://dev.to/hkhelil/understanding-ebpf-and-its-application-in-modern-cloud-environments-3f99)
+- [The Blueprint of Logic](https://dev.to/this_mkhy/the-blueprint-of-logic-npp)
 <!-- BLOG-POST-LIST:END -->
 
