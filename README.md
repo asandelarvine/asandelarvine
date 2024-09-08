@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Snow Family](https://dev.to/clintt/aws-snow-family-875)
-- [HTTP Cookies Demystified: A Web Developer&#39;s Guide](https://dev.to/hinedy/http-cookies-demystified-a-web-developers-guide-5e2d)
-- [Silver Button](https://dev.to/cherninlab/silver-button-24l3)
-- [Segregation SSH Traffic](https://dev.to/sebos/segregation-ssh-traffic-1814)
+- [Enhance Your RAG Application With Web Searching Capability!](https://dev.to/iamnotagentleman/enhance-your-rag-application-with-web-searching-capability-lnn)
+- [Exploring KaneAI Beta: An Innovative Testing Agent by LambdaTest | Excited to be Part of the Beta Journey!](https://dev.to/rewirebyautomation/exploring-kaneai-beta-an-innovative-testing-agent-by-lambdatest-excited-to-be-part-of-the-beta-journey-2aa2)
+- [Building a User-Friendly, Budget-Friendly Alternative to dbt Cloud](https://dev.to/mporracin/building-a-user-friendly-budget-friendly-alternative-to-dbt-cloud-288m)
+- [Coolify: Your All-in-One Open-Source PaaS Solution](https://dev.to/kulahad/coolify-your-all-in-one-open-source-paas-solution-1o05)
 <!-- BLOG-POST-LIST:END -->
 
