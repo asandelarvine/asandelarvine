@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Odin Project -Intro to CSS](https://dev.to/iamhrk/the-odin-project-intro-to-css-3opa)
-- [Dive into the Fascinating World of Computer Hardware with this University Course! 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-hardware-with-this-university-course-52l)
-- [Function definitions for the reporting section](https://dev.to/susheel_kumar/function-definitions-for-the-reporting-section-5cd6)
-- [CSS Grid: Nested Grid Layouts](https://dev.to/tailwine/css-grid-nested-grid-layouts-1dm)
+- [How to adding a TXT record to your DNS settings](https://dev.to/dgihost/how-to-adding-a-txt-record-to-your-dns-settings-41a7)
+- [Easy Web App Deployment: Python Flask, MongoDB, and Nginx with Docker Compose 🚀🐍](https://dev.to/niranyadav/easy-web-app-deployment-python-flask-mongodb-and-nginx-with-docker-compose-20oi)
+- [Visualizing Linux system call in real-time](https://dev.to/rakshyak/visualizing-linux-system-call-in-real-time-o19)
+- [Methods and feature in saksh-wallet class](https://dev.to/susheel_kumar/methods-and-feature-in-saksh-wallet-class-2ki7)
 <!-- BLOG-POST-LIST:END -->
 
