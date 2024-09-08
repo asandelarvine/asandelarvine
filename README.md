@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How find a remote job in 2024](https://dev.to/remotewlb/how-find-a-remote-job-in-2024-fhc)
-- [Roadmap to Learning C Programming](https://dev.to/dev_frank/roadmap-to-learning-c-programming-22e6)
-- [JavaScript Notebook First Edition（Node.js）](https://dev.to/baotlake/javascript-notebook-first-editionnodejs-4ng0)
-- [Why Implement the Repository Pattern in Laravel?](https://dev.to/mdarifulhaque/why-implement-the-repository-pattern-in-laravel-47f0)
+- [The Odin Project -Intro to CSS](https://dev.to/iamhrk/the-odin-project-intro-to-css-3opa)
+- [Dive into the Fascinating World of Computer Hardware with this University Course! 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-hardware-with-this-university-course-52l)
+- [Function definitions for the reporting section](https://dev.to/susheel_kumar/function-definitions-for-the-reporting-section-5cd6)
+- [CSS Grid: Nested Grid Layouts](https://dev.to/tailwine/css-grid-nested-grid-layouts-1dm)
 <!-- BLOG-POST-LIST:END -->
 
