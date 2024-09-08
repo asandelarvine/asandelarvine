@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Your Finances: Open Source Future Wealth Calculator for your investments](https://dev.to/lakshitsomani/debugging-your-finances-open-source-future-wealth-calculator-for-your-investments-59a3)
-- [Parchment Style - FAV0 Weekly #014](https://dev.to/justin3go/parchment-style-fav0-weekly-014-39em)
-- [Building a Password Validator with React](https://dev.to/abhishekgurjar/building-a-password-validator-with-react-jhj)
-- [羊皮卷风格 - FAV周刊#014](https://dev.to/justin3go/yang-pi-juan-feng-ge-favzhou-kan-014-1kna)
+- [Implementing Real-Time Updates with Server-Sent Events &lpar;SSE&rpar; in C# .NET: A Complete Guide](https://dev.to/mayank_agarwal/implementing-real-time-updates-with-server-sent-events-sse-in-c-net-a-complete-guide-248l)
+- [Optimising page Performance with proper &lt;script&gt; tag placement.](https://dev.to/anselm_icheku_5f40039adf6/optimising-page-performance-with-proper-tag-placement-2a62)
+- [An introduction to AWS Lambda for beginners](https://dev.to/iamamash/an-introduction-to-aws-lambda-for-beginners-1koo)
+- [Join me in my 150 day challenge of Interview Preparation](https://dev.to/raj_e8add0cebb376a32800cd/join-me-in-my-150-day-challenge-of-interview-preparation-e69)
 <!-- BLOG-POST-LIST:END -->
 
