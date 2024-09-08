@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Diagram as Code with Mermaid](https://dev.to/chauhoangminhnguyen/diagram-as-code-with-mermaid-5gee)
-- [Level Up Your Workflow: Top VS Code Extensions &amp; Settings!](https://dev.to/grenishrai/level-up-your-workflow-top-vs-code-extensions-settings-2epn)
-- [10 Conditional Rendering Examples in CSS and React.js 🚀 &lpar;Part 3&rpar;](https://dev.to/uicraft_by_pratik/10-conditional-rendering-examples-in-css-and-reactjs-part-3-59bk)
-- [10-Must have tools as a Developer on Linux](https://dev.to/wole/10-must-have-tools-as-a-developer-on-linux-30hn)
+- [Fun File Mover Script: From Desktop to Screenshots Folder](https://dev.to/debojit_choudhury_a889561/fun-file-mover-script-from-desktop-to-screenshots-folder-b34)
+- [Learning Qbasic](https://dev.to/mince/learning-qbasic-3odo)
+- [SCRUM Team Role](https://dev.to/anhphan2024/scrum-team-role-1lk)
+- [Talk about the type never and unknown in TypeScript](https://dev.to/aaron_conlon/talk-about-the-type-never-and-unknown-in-typescript-1ga)
 <!-- BLOG-POST-LIST:END -->
 
