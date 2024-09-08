@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Chrome extension to make you 10x webdeveloper](https://dev.to/paul_freeman/10-chrome-extension-to-make-you-10x-webdeveloper-4im9)
-- [Migrating to the Cloud: A Step-by-Step Guide for DevOps Engineers](https://dev.to/prodevopsguytech/migrating-to-the-cloud-a-step-by-step-guide-for-devops-engineers-4i3f)
-- [How to Scrape LinkedIn for the Latest Job Postings: A Step-by-Step Guide 🖥️💼](https://dev.to/evgensuit/how-to-scrape-linkedin-for-the-latest-job-postings-a-step-by-step-guide-51if)
-- [8 Essential Big&lpar;O&rpar; Notations for Coding Interviews](https://dev.to/somadevtoo/8-essential-bigo-notations-for-coding-interviews-k4h)
+- [From Developer to Reviewer: A Junior Developer&#39;s Checklist for Reviewing Database Queries](https://dev.to/aman-giri/from-developer-to-reviewer-a-junior-developers-checklist-for-reviewing-database-queries-4kdm)
+- [Good Code as a Data Structure](https://dev.to/haydenrear/good-code-as-a-data-structure-g6h)
+- [Performant Web Apps](https://dev.to/shubhajit_chatterjee/performant-web-apps-2n8m)
+- [Understanding WebSockets using Python](https://dev.to/keshavadk/understanding-websockets-using-python-4i1c)
 <!-- BLOG-POST-LIST:END -->
 
