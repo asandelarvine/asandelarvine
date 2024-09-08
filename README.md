@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless EC2 Instance Creation with Terraform](https://dev.to/omkara18/effortless-ec2-instance-creation-with-terraform-255j)
-- [20 Popular Open Datasets for Natural Language Processing](https://dev.to/zilliz/20-popular-open-datasets-for-natural-language-processing-5f91)
-- [Ecologic Innovators - EcoVision Application Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/ecologic-innovators-ecovision-application-demonstration-rishi-nalem-3d76)
-- [Scaling a Django Server in Production with Docker and PostgreSQL](https://dev.to/mfouladi94/scaling-a-django-server-in-production-with-docker-and-postgresql-4p70)
+- [Debugging Your Finances: Open Source Future Wealth Calculator for your investments](https://dev.to/lakshitsomani/debugging-your-finances-open-source-future-wealth-calculator-for-your-investments-59a3)
+- [Parchment Style - FAV0 Weekly #014](https://dev.to/justin3go/parchment-style-fav0-weekly-014-39em)
+- [Building a Password Validator with React](https://dev.to/abhishekgurjar/building-a-password-validator-with-react-jhj)
+- [羊皮卷风格 - FAV周刊#014](https://dev.to/justin3go/yang-pi-juan-feng-ge-favzhou-kan-014-1kna)
 <!-- BLOG-POST-LIST:END -->
 
