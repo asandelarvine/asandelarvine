@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cron Job Basics](https://dev.to/mrcaption49/cron-job-basics-5d54)
-- [My take on a Landing Page for DuckDuckGo](https://dev.to/oliviapandora/my-take-on-a-landing-page-for-duckduckgo-3hfe)
-- [Transformers in the NLP Development](https://dev.to/ragoli86/transformers-in-the-nlp-development-5hb9)
-- [Is it too late to become a web developer in X year? 🤔](https://dev.to/grech_ca/is-it-too-late-to-become-a-web-developer-in-x-year-5bp6)
+- [Full Training Tutorial and Guide and Research For a FLUX Style](https://dev.to/furkangozukara/full-training-tutorial-and-guide-and-research-for-a-flux-style-57fb)
+- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-54c0)
+- [The Top 5 Mistakes That Can Derail Your Development Projects](https://dev.to/dishitdevasia/the-top-5-mistakes-that-can-derail-your-development-projects-29lp)
+- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-3fh8)
 <!-- BLOG-POST-LIST:END -->
 
