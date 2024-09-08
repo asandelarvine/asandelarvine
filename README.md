@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Developer to Reviewer: A Junior Developer&#39;s Checklist for Reviewing Database Queries](https://dev.to/aman-giri/from-developer-to-reviewer-a-junior-developers-checklist-for-reviewing-database-queries-4kdm)
-- [Good Code as a Data Structure](https://dev.to/haydenrear/good-code-as-a-data-structure-g6h)
-- [Performant Web Apps](https://dev.to/shubhajit_chatterjee/performant-web-apps-2n8m)
-- [Understanding WebSockets using Python](https://dev.to/keshavadk/understanding-websockets-using-python-4i1c)
+- [Why Linkspreed’s Web4 Redefines Online Communities and Leaves Outdated Platforms Like Minds and Mighty Networks Far Behind](https://dev.to/web4/why-linkspreeds-web4-redefines-online-communities-and-leaves-outdated-platforms-like-minds-and-mighty-networks-far-behind-34ma)
+- [GitHub Readme Template: For Personal Projects](https://dev.to/sumonta056/github-readme-template-for-personal-projects-4cho)
+- [DeshiJS vs Vue.js, Angular, and React: The Lightweight Challenger](https://dev.to/seraprogrammer/deshijs-vs-vuejs-angular-and-react-the-lightweight-challenger-5721)
+- [How to find a remote job in software development in year 2024](https://dev.to/susheel_kumar/how-to-find-a-remote-job-in-software-development-in-year-2024-5389)
 <!-- BLOG-POST-LIST:END -->
 
