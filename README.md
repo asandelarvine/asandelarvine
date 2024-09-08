@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How find a remote job in 2024](https://dev.to/remotewlb/how-find-a-remote-job-in-2024-fhc)
 - [Roadmap to Learning C Programming](https://dev.to/dev_frank/roadmap-to-learning-c-programming-22e6)
 - [JavaScript Notebook First Edition（Node.js）](https://dev.to/baotlake/javascript-notebook-first-editionnodejs-4ng0)
 - [Why Implement the Repository Pattern in Laravel?](https://dev.to/mdarifulhaque/why-implement-the-repository-pattern-in-laravel-47f0)
-- [Budget handling using npm package saksh-wallet](https://dev.to/susheel_kumar/budget-handling-using-npm-package-saksh-wallet-198f)
 <!-- BLOG-POST-LIST:END -->
 
