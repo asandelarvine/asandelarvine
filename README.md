@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your RAG Application With Web Searching Capability!](https://dev.to/iamnotagentleman/enhance-your-rag-application-with-web-searching-capability-lnn)
-- [Exploring KaneAI Beta: An Innovative Testing Agent by LambdaTest | Excited to be Part of the Beta Journey!](https://dev.to/rewirebyautomation/exploring-kaneai-beta-an-innovative-testing-agent-by-lambdatest-excited-to-be-part-of-the-beta-journey-2aa2)
-- [Building a User-Friendly, Budget-Friendly Alternative to dbt Cloud](https://dev.to/mporracin/building-a-user-friendly-budget-friendly-alternative-to-dbt-cloud-288m)
-- [Coolify: Your All-in-One Open-Source PaaS Solution](https://dev.to/kulahad/coolify-your-all-in-one-open-source-paas-solution-1o05)
+- [Roadmap of Docker and Kubernetes 2024](https://dev.to/mrcaption49/roadmap-of-docker-and-kubernetes-2024-3o2m)
+- [30 Day SOC Challenge- Day 2 &amp; 3 : ELK Stack / Elastic Search](https://dev.to/https_aneesah/30-day-soc-challenge-day-2-3-elk-stack-elastic-search-coe)
+- [I was wrong about array methods and generators...](https://dev.to/somedood/i-was-wrong-about-array-methods-and-generators-2ig9)
+- [Building Single Page Applications with Svelte](https://dev.to/kartikmehta8/building-single-page-applications-with-svelte-406j)
 <!-- BLOG-POST-LIST:END -->
 
