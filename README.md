@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy NodeJS Typescript to Google App Engine](https://dev.to/chauhoangminhnguyen/deploy-nodejs-typescript-to-google-app-engine-1jka)
-- [UseState and UseEffect Hook in React](https://dev.to/mrcaption49/usestate-and-useeffect-hook-in-react-40hn)
-- [Understanding MySQL CPU Usage: Tools and Techniques](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a)
-- [Two Years Later: Not Another Portfolio Refresh](https://dev.to/johnrock/two-years-later-not-another-portfolio-refresh-4ncj)
+- [Breaking Into Technical Writing: How To Make $1000 On The Side As A Technical Writer](https://dev.to/dumebii/breaking-into-technical-writing-how-to-make-1000-on-the-side-as-a-technical-writer-1nlm)
+- [Ethical Hacking - This article is about discovering vulnerabilities in web applications.](https://dev.to/samglish/ethical-hacking-this-article-is-about-discovering-vulnerabilities-in-web-applications-3no5)
+- [Piece Table with JS](https://dev.to/werfit/piece-table-with-js-3mm4)
+- [📚 Let&#39;s learn the main GIT commands](https://dev.to/venicode/lets-learn-the-main-git-commands-33np)
 <!-- BLOG-POST-LIST:END -->
 
