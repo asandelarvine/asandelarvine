@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Querido Yo del Futuro: Hoy intentaremos configurar una aplicación fullstack en Clojure](https://dev.to/mrmuro/querido-yo-del-futuro-hoy-intentaremos-configurar-una-aplicacion-fullstack-en-clojure-153k)
-- [Common Web App Security Threats](https://dev.to/nithinsys9786/common-web-app-security-threats-2ije)
-- [Power Automate - Impact Assessment](https://dev.to/wyattdave/power-automate-impact-assessment-3d1k)
-- [7 Open Source Projects You Should Know - C Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-107k)
+- [Essential Guide to MySQL Subqueries](https://dev.to/dbvismarketing/essential-guide-to-mysql-subqueries-3bl9)
+- [How to organize your Laravel 11 Project in 2024](https://dev.to/victoor/how-to-organize-your-laravel-11-project-in-2024-325a)
+- [Is it Preptember yet?](https://dev.to/giuliano1993/is-it-preptember-yet-mf7)
+- [Row Level Security in Microsoft Fabric — Update: No need for Tabular Editor!](https://dev.to/jonvoge/row-level-security-in-microsoft-fabric-update-no-need-for-tabular-editor-1d0o)
 <!-- BLOG-POST-LIST:END -->
 
