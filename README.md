@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Guide to MySQL Subqueries](https://dev.to/dbvismarketing/essential-guide-to-mysql-subqueries-3bl9)
-- [How to organize your Laravel 11 Project in 2024](https://dev.to/victoor/how-to-organize-your-laravel-11-project-in-2024-325a)
-- [Is it Preptember yet?](https://dev.to/giuliano1993/is-it-preptember-yet-mf7)
-- [Row Level Security in Microsoft Fabric — Update: No need for Tabular Editor!](https://dev.to/jonvoge/row-level-security-in-microsoft-fabric-update-no-need-for-tabular-editor-1d0o)
+- [Limit Eager Loaded Relationships on Laravel Models](https://dev.to/ashallendesign/limit-eager-loaded-relationships-on-laravel-models-4c43)
+- [PYTHON: OOP {Beginner&#39;s Edition}](https://dev.to/marlonmunoz/python-oop-beginners-edition-4ph5)
+- [Best Practices for Secure Coding in Crypto Exchanges: Protecting User Data and Assets](https://dev.to/cryptodev/best-practices-for-secure-coding-in-crypto-exchanges-protecting-user-data-and-assets-3bc3)
+- [Leveraging Roles in Ansible for Streamlined Automation](https://dev.to/ophelie/leveraging-roles-in-ansible-for-streamlined-automation-b46)
 <!-- BLOG-POST-LIST:END -->
 
