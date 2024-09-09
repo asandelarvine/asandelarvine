@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT Basics](https://dev.to/mrcaption49/jwt-basics-23e5)
-- [Implement Authentication with Node.js using JWTs](https://dev.to/mrcaption49/implement-authentication-with-nodejs-using-jwts-4l03)
-- [How to Scale GraphRAG with Neo4j for Efficient Document Querying](https://dev.to/stephenc222/how-to-scale-graphrag-with-neo4j-for-efficient-document-querying-2did)
-- [How to Use the `ImmutableArray&lt;T&gt;.Builder` Extension Method `ToFrozenDictionary` to Create Efficient Immutable Dictionaries](https://dev.to/rockfire/how-to-use-the-immutablearraybuilder-extension-method-tofrozendictionary-to-create-efficient-immutable-dictionaries-4b5a)
+- [Docker commands](https://dev.to/mrcaption49/docker-commands-3gbo)
+- [A Captivating Project: Responsive Flexible Card Layout](https://dev.to/labex/a-captivating-project-responsive-flexible-card-layout-545m)
+- [Blog 1 - Assignment 1](https://dev.to/paperdrago/blog-1-assignment-1-c2m)
+- [Unlocking the Power of Multimodal Data Analysis with LLMs and Python](https://dev.to/hemanshu_vadodariyahemu/unlocking-the-power-of-multimodal-data-analysis-with-llms-and-python-43hp)
 <!-- BLOG-POST-LIST:END -->
 
