@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End Architecture: How to Host Your Web App for Free](https://dev.to/garciadiazjaime/front-end-architecture-how-to-host-your-web-app-for-free-29ke)
-- [&quot;Day 17: Exploring Context API, Reducer Hook, and DSA!&quot;](https://dev.to/jasman_deep_58679206bad26/day-17-exploring-context-api-reducer-hook-and-dsa-30kn)
-- [Why PHP 8 Has High Performance](https://dev.to/servbay/why-php-8-has-high-performance-21pf)
-- [Coffee and Data: The Unbreakable Bond Between Data Analysts and Their Daily Brew](https://dev.to/tenzintsundue/coffee-and-data-the-unbreakable-bond-between-data-analysts-and-their-daily-brew-1gpf)
+- [How to Add MinIO as a Service in a GitLab CI Job](https://dev.to/g-fuchter/how-to-add-minio-as-a-service-in-a-gitlab-ci-job-4fe)
+- [Building a Lyrics Finder App with React](https://dev.to/abhishekgurjar/building-a-lyrics-finder-app-with-react-2p5d)
+- [3. Unleash the Fury: Mastering CSS Selectors and Pseudo-Classes for Web Domination](https://dev.to/areeb_anwar_813df06ee1124/3-unleash-the-fury-mastering-css-selectors-and-pseudo-classes-for-web-domination-1ka3)
+- [Building a Quiz Application with React](https://dev.to/abhishekgurjar/building-a-quiz-application-with-react-3je9)
 <!-- BLOG-POST-LIST:END -->
 
