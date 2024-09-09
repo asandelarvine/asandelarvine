@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Command-Line Mastery: Exploring Diverse Programming Practices](https://dev.to/labex/linux-command-line-mastery-exploring-diverse-programming-practices-3k6k)
-- [Understanding Optimistic Locking: Handling Conflicts in Concurrent Systems](https://dev.to/faiz_ahmad/understanding-optimistic-locking-handling-conflicts-in-concurrent-systems-3ce8)
-- [Home Lab Networking](https://dev.to/im6h/home-lab-networking-260m)
-- [Dive Into the World of Payments - Join Payment Meetup Group’s First Session!](https://dev.to/gorakh13/dive-into-the-world-of-payments-join-payment-meetup-groups-first-session-41ja)
+- [It Seems the C# Team Is Finally Considering Supporting Discriminated Unions](https://dev.to/canro91/it-seems-the-c-team-is-finally-considering-supporting-discriminated-unions-59k3)
+- [{useState} HooK { Briefly Explained};](https://dev.to/marlonmunoz/usestate-hook-briefly-explained-2di7)
+- [Explore the Solar System via Interactive Design Web](https://dev.to/zibrasismail/explore-the-solar-system-via-interactive-design-web-26n9)
+- [Why Use Codeium over GitHub Copilot](https://dev.to/thekarlesi/why-use-codeium-over-github-copilot-491e)
 <!-- BLOG-POST-LIST:END -->
 
