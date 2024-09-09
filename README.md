@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate RabbitMQ with .NET: Practical Guide, Routing Patterns, and Error Handling](https://dev.to/adrianbailador/how-to-integrate-rabbitmq-with-net-practical-guide-routing-patterns-and-error-handling-2h06)
-- [How to Install K3S on AWS EC2 &amp; Deploy Simple JS Game 🚀](https://dev.to/aws-builders/how-to-install-k3s-on-aws-ec2-deploy-simple-js-game-3cpa)
-- [Networking in DevOps](https://dev.to/akhil_mittal/networking-in-devops-p7b)
-- [Follow Your Favorite Web Dev Topics With Frontend Dogma’s Topic Feeds](https://dev.to/frontenddogma/follow-your-favorite-web-dev-topics-with-frontend-dogmas-topic-feeds-16ad)
+- [A New Milestone in Code Security: SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/a-new-milestone-in-code-security-safeline-waf-1ff8)
+- [A Developer’s Guide to Verifying Customer Financial Data in Nigeria](https://dev.to/flutterwaveeng/a-developers-guide-to-verifying-customer-financial-data-in-nigeria-37oj)
+- [Python Clean Code – Stop Writing Bad Code: Key Lessons from Uncle Bob](https://dev.to/proflead/python-clean-code-stop-writing-bad-code-key-lessons-from-uncle-bob-2j0i)
+- [SafeLine: The Open-Source WAF with Powerful Security and Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-the-open-source-waf-with-powerful-security-and-easy-deployment-3in3)
 <!-- BLOG-POST-LIST:END -->
 
