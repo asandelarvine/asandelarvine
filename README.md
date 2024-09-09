@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Unit Testing using Vitest](https://dev.to/ashutoshsarangi/react-unit-testing-using-vitest-3926)
-- [How Ably delivers on message durability and QoS across a large-scale distributed system](https://dev.to/ably/how-ably-delivers-on-message-durability-and-qos-across-a-large-scale-distributed-system-af7)
-- [Answering The Top 10 Questions I&#39;m Asked About GitHub Copilot](https://dev.to/erika_thedev/answering-the-top-10-questions-im-asked-about-github-copilot-2ag6)
-- [Problem by running App on Phone](https://dev.to/steezphilipp/problem-by-running-app-on-phone-4mok)
+- [Using LLMs in Software Development: A Simple Tip for Beginners](https://dev.to/joacod/using-llms-in-software-development-a-simple-tip-for-beginners-5e6d)
+- [How to Add SSH Keys to Your Git Remote Repository: Secure and Simplify Your Workflow](https://dev.to/s3cloudhub/how-to-add-ssh-keys-to-your-git-remote-repository-secure-and-simplify-your-workflow-5gf)
+- [CodingCatchup: 9/1/24 - 9/8/24](https://dev.to/ryandotfurrer/codingcatchup-9124-9824-1hd5)
+- [Centralize API calls in Web Application - A must-have guide](https://dev.to/creowistech/centralize-api-calls-in-web-application-a-must-have-guide-3ppj)
 <!-- BLOG-POST-LIST:END -->
 
