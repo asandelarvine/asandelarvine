@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ExpressoTS surpassed AdonisJs](https://dev.to/expressots/expressots-surpassed-adonisjs-3m4j)
-- [Building codeshift](https://dev.to/udayrana/building-codeshift-39k9)
-- [RGFW Under the Hood: Clipboard Copy/Paste](https://dev.to/colleagueriley/rgfw-under-the-hood-clipboard-copypaste-3gcl)
-- [You Will Get Used To Life Through Experience](https://dev.to/mvcwebapiii/you-will-get-used-to-life-through-experience-50cf)
+- [Buildstash joins Techstars NYC](https://dev.to/buildstash/buildstash-joins-techstars-nyc-1pci)
+- [Nest - Upload de arquivo](https://dev.to/leonardominora/nest-upload-de-arquivo-5g1)
+- [Understanding Asynchronous Operations and Using async/await in JavaScript](https://dev.to/syriamme/understanding-asynchronous-operations-and-using-asyncawait-in-javascript-7od)
+- [Encapsulamento: Será que Esconder Todos os Detalhes de Implementação é Sempre uma Boa Decisão?](https://dev.to/asouza/encapsulamento-sera-que-esconder-todos-os-detalhes-de-implementacao-e-sempre-uma-boa-decisao-3nae)
 <!-- BLOG-POST-LIST:END -->
 
