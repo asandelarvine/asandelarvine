@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Into Technical Writing: How To Make $1000 On The Side As A Technical Writer](https://dev.to/dumebii/breaking-into-technical-writing-how-to-make-1000-on-the-side-as-a-technical-writer-1nlm)
-- [Ethical Hacking - This article is about discovering vulnerabilities in web applications.](https://dev.to/samglish/ethical-hacking-this-article-is-about-discovering-vulnerabilities-in-web-applications-3no5)
-- [Piece Table with JS](https://dev.to/werfit/piece-table-with-js-3mm4)
-- [📚 Let&#39;s learn the main GIT commands](https://dev.to/venicode/lets-learn-the-main-git-commands-33np)
+- [Front-End Architecture: How to Host Your Web App for Free](https://dev.to/garciadiazjaime/front-end-architecture-how-to-host-your-web-app-for-free-29ke)
+- [&quot;Day 17: Exploring Context API, Reducer Hook, and DSA!&quot;](https://dev.to/jasman_deep_58679206bad26/day-17-exploring-context-api-reducer-hook-and-dsa-30kn)
+- [Why PHP 8 Has High Performance](https://dev.to/servbay/why-php-8-has-high-performance-21pf)
+- [Coffee and Data: The Unbreakable Bond Between Data Analysts and Their Daily Brew](https://dev.to/tenzintsundue/coffee-and-data-the-unbreakable-bond-between-data-analysts-and-their-daily-brew-1gpf)
 <!-- BLOG-POST-LIST:END -->
 
