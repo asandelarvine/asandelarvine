@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Buildstash joins Techstars NYC](https://dev.to/buildstash/buildstash-joins-techstars-nyc-1pci)
-- [Nest - Upload de arquivo](https://dev.to/leonardominora/nest-upload-de-arquivo-5g1)
-- [Understanding Asynchronous Operations and Using async/await in JavaScript](https://dev.to/syriamme/understanding-asynchronous-operations-and-using-asyncawait-in-javascript-7od)
-- [Encapsulamento: Será que Esconder Todos os Detalhes de Implementação é Sempre uma Boa Decisão?](https://dev.to/asouza/encapsulamento-sera-que-esconder-todos-os-detalhes-de-implementacao-e-sempre-uma-boa-decisao-3nae)
+- [GenAI Series: Protegiendo Datos con AWS Nitro Enclaves y AWS KMS](https://dev.to/aws-espanol/genai-series-protegiendo-datos-con-aws-nitro-enclaves-y-aws-kms-25io)
+- [What is Clean Architecture: Understanding the Infrastructure and Persistence Layers](https://dev.to/moh_moh701/what-is-clean-architecture-understanding-the-infrastructure-and-persistence-layers-2pca)
+- [Developing my Personal Website || HTML, JavaScript, jQuery and AJAX Integration](https://dev.to/tobidelly/developing-my-personal-website-html-javascript-jquery-and-ajax-integration-28h8)
+- [Tailwind CSS vs. Vanilla CSS: When to Use Each for Your Web Development Projects](https://dev.to/iamgoncaloalves/tailwind-css-vs-vanilla-css-when-to-use-each-for-your-web-development-projects-425c)
 <!-- BLOG-POST-LIST:END -->
 
