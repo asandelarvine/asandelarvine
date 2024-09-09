@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add MinIO as a Service in a GitLab CI Job](https://dev.to/g-fuchter/how-to-add-minio-as-a-service-in-a-gitlab-ci-job-4fe)
-- [Building a Lyrics Finder App with React](https://dev.to/abhishekgurjar/building-a-lyrics-finder-app-with-react-2p5d)
-- [3. Unleash the Fury: Mastering CSS Selectors and Pseudo-Classes for Web Domination](https://dev.to/areeb_anwar_813df06ee1124/3-unleash-the-fury-mastering-css-selectors-and-pseudo-classes-for-web-domination-1ka3)
-- [Building a Quiz Application with React](https://dev.to/abhishekgurjar/building-a-quiz-application-with-react-3je9)
+- [How to Integrate Search Engine Optimization For Frontend Website](https://dev.to/scofieldidehen/how-to-integrate-search-engine-optimization-for-frontend-website-3m27)
+- [Best Databases for Next.js Applications](https://dev.to/ethanleetech/best-databases-for-nextjs-applications-3ef1)
+- [Function composition pattern in Javascript](https://dev.to/mdiffshashank/function-composition-pattern-in-javascript-o5o)
+- [Introduction To Computer Vision with Python &lpar;Part 1&rpar;](https://dev.to/thecspandz/introduction-to-computer-vision-with-python-part-1-2kd)
 <!-- BLOG-POST-LIST:END -->
 
