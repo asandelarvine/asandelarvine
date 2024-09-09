@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Milestone in Code Security: SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/a-new-milestone-in-code-security-safeline-waf-1ff8)
-- [A Developer’s Guide to Verifying Customer Financial Data in Nigeria](https://dev.to/flutterwaveeng/a-developers-guide-to-verifying-customer-financial-data-in-nigeria-37oj)
-- [Python Clean Code – Stop Writing Bad Code: Key Lessons from Uncle Bob](https://dev.to/proflead/python-clean-code-stop-writing-bad-code-key-lessons-from-uncle-bob-2j0i)
-- [SafeLine: The Open-Source WAF with Powerful Security and Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-the-open-source-waf-with-powerful-security-and-easy-deployment-3in3)
+- [PHPStan: Improve the Quality of Your PHP Code](https://dev.to/walternascimentobarroso/phpstan-improve-the-quality-of-your-php-code-5f4h)
+- [Text-Shadow with TailwindCSS](https://dev.to/claudemyburgh/text-shadow-with-tailwindcss-948)
+- [Secure Coding Principles](https://dev.to/owasp/secure-coding-principles-4dg8)
+- [Debugging Distributed Systems](https://dev.to/orkes/debugging-distributed-systems-52ln)
 <!-- BLOG-POST-LIST:END -->
 
