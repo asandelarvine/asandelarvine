@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It Seems the C# Team Is Finally Considering Supporting Discriminated Unions](https://dev.to/canro91/it-seems-the-c-team-is-finally-considering-supporting-discriminated-unions-59k3)
-- [{useState} HooK { Briefly Explained};](https://dev.to/marlonmunoz/usestate-hook-briefly-explained-2di7)
-- [Explore the Solar System via Interactive Design Web](https://dev.to/zibrasismail/explore-the-solar-system-via-interactive-design-web-26n9)
-- [Why Use Codeium over GitHub Copilot](https://dev.to/thekarlesi/why-use-codeium-over-github-copilot-491e)
+- [Querido Yo del Futuro: Hoy intentaremos configurar una aplicación fullstack en Clojure](https://dev.to/mrmuro/querido-yo-del-futuro-hoy-intentaremos-configurar-una-aplicacion-fullstack-en-clojure-153k)
+- [Common Web App Security Threats](https://dev.to/nithinsys9786/common-web-app-security-threats-2ije)
+- [Power Automate - Impact Assessment](https://dev.to/wyattdave/power-automate-impact-assessment-3d1k)
+- [7 Open Source Projects You Should Know - C Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-107k)
 <!-- BLOG-POST-LIST:END -->
 
