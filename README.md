@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Search Engine Optimization For Frontend Website](https://dev.to/scofieldidehen/how-to-integrate-search-engine-optimization-for-frontend-website-3m27)
-- [Best Databases for Next.js Applications](https://dev.to/ethanleetech/best-databases-for-nextjs-applications-3ef1)
-- [Function composition pattern in Javascript](https://dev.to/mdiffshashank/function-composition-pattern-in-javascript-o5o)
-- [Introduction To Computer Vision with Python &lpar;Part 1&rpar;](https://dev.to/thecspandz/introduction-to-computer-vision-with-python-part-1-2kd)
+- [How to integrate k6 with Xray/Jira](https://dev.to/skingori/how-to-integrate-k6-with-xrayjira-5g1g)
+- [PyPI supply chain attack targeting old packages found in the wild.](https://dev.to/proteanlabs/pypi-supply-chain-attack-targeting-old-packages-found-in-the-wild-2laf)
+- [Cancellation Token: Handling Infinite Loops with style](https://dev.to/pykpyky/cancellation-token-handling-infinite-loops-with-style-col)
+- [🚀 Supercharge Your Next.js App: Top Databases to Consider](https://dev.to/hamzakhan/supercharge-your-nextjs-app-top-databases-to-consider-3pah)
 <!-- BLOG-POST-LIST:END -->
 
