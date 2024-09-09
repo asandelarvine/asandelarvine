@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI Series: Protegiendo Datos con AWS Nitro Enclaves y AWS KMS](https://dev.to/aws-espanol/genai-series-protegiendo-datos-con-aws-nitro-enclaves-y-aws-kms-25io)
-- [What is Clean Architecture: Understanding the Infrastructure and Persistence Layers](https://dev.to/moh_moh701/what-is-clean-architecture-understanding-the-infrastructure-and-persistence-layers-2pca)
-- [Developing my Personal Website || HTML, JavaScript, jQuery and AJAX Integration](https://dev.to/tobidelly/developing-my-personal-website-html-javascript-jquery-and-ajax-integration-28h8)
-- [Tailwind CSS vs. Vanilla CSS: When to Use Each for Your Web Development Projects](https://dev.to/iamgoncaloalves/tailwind-css-vs-vanilla-css-when-to-use-each-for-your-web-development-projects-425c)
+- [You Review My Code and I&#39;ll Review Yours](https://dev.to/majd_almnayer_2101/you-review-my-code-and-ill-review-yours-2j5l)
+- [Camino hacia la escalabilidad &lpar;1&rpar;: Cómo Gestionar Servicios en Frontend.](https://dev.to/agustinrzarate/camino-hacia-la-escalabilidad-1-como-gestionar-servicios-en-frontend-2c1p)
+- [The Challenges of Managing a Successful Fintech: Revenue of R$9,643,141.49 in 30 Days](https://dev.to/3x_pay/the-challenges-of-managing-a-successful-fintech-revenue-of-r964314149-in-30-days-4hjb)
+- [Decomposed vs. Microservices](https://dev.to/aditya_singh001/decomposed-vs-microservices-21cl)
 <!-- BLOG-POST-LIST:END -->
 
