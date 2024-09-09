@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker commands](https://dev.to/mrcaption49/docker-commands-3gbo)
-- [A Captivating Project: Responsive Flexible Card Layout](https://dev.to/labex/a-captivating-project-responsive-flexible-card-layout-545m)
-- [Blog 1 - Assignment 1](https://dev.to/paperdrago/blog-1-assignment-1-c2m)
-- [Unlocking the Power of Multimodal Data Analysis with LLMs and Python](https://dev.to/hemanshu_vadodariyahemu/unlocking-the-power-of-multimodal-data-analysis-with-llms-and-python-43hp)
+- [Linux Command-Line Mastery: Exploring Diverse Programming Practices](https://dev.to/labex/linux-command-line-mastery-exploring-diverse-programming-practices-3k6k)
+- [Understanding Optimistic Locking: Handling Conflicts in Concurrent Systems](https://dev.to/faiz_ahmad/understanding-optimistic-locking-handling-conflicts-in-concurrent-systems-3ce8)
+- [Home Lab Networking](https://dev.to/im6h/home-lab-networking-260m)
+- [Dive Into the World of Payments - Join Payment Meetup Group’s First Session!](https://dev.to/gorakh13/dive-into-the-world-of-payments-join-payment-meetup-groups-first-session-41ja)
 <!-- BLOG-POST-LIST:END -->
 
