@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Limit Eager Loaded Relationships on Laravel Models](https://dev.to/ashallendesign/limit-eager-loaded-relationships-on-laravel-models-4c43)
-- [PYTHON: OOP {Beginner&#39;s Edition}](https://dev.to/marlonmunoz/python-oop-beginners-edition-4ph5)
-- [Best Practices for Secure Coding in Crypto Exchanges: Protecting User Data and Assets](https://dev.to/cryptodev/best-practices-for-secure-coding-in-crypto-exchanges-protecting-user-data-and-assets-3bc3)
-- [Leveraging Roles in Ansible for Streamlined Automation](https://dev.to/ophelie/leveraging-roles-in-ansible-for-streamlined-automation-b46)
+- [How to Integrate RabbitMQ with .NET: Practical Guide, Routing Patterns, and Error Handling](https://dev.to/adrianbailador/how-to-integrate-rabbitmq-with-net-practical-guide-routing-patterns-and-error-handling-2h06)
+- [How to Install K3S on AWS EC2 &amp; Deploy Simple JS Game 🚀](https://dev.to/aws-builders/how-to-install-k3s-on-aws-ec2-deploy-simple-js-game-3cpa)
+- [Networking in DevOps](https://dev.to/akhil_mittal/networking-in-devops-p7b)
+- [Follow Your Favorite Web Dev Topics With Frontend Dogma’s Topic Feeds](https://dev.to/frontenddogma/follow-your-favorite-web-dev-topics-with-frontend-dogmas-topic-feeds-16ad)
 <!-- BLOG-POST-LIST:END -->
 
