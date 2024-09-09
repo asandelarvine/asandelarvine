@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHPStan: Improve the Quality of Your PHP Code](https://dev.to/walternascimentobarroso/phpstan-improve-the-quality-of-your-php-code-5f4h)
-- [Text-Shadow with TailwindCSS](https://dev.to/claudemyburgh/text-shadow-with-tailwindcss-948)
-- [Secure Coding Principles](https://dev.to/owasp/secure-coding-principles-4dg8)
-- [Debugging Distributed Systems](https://dev.to/orkes/debugging-distributed-systems-52ln)
+- [React Unit Testing using Vitest](https://dev.to/ashutoshsarangi/react-unit-testing-using-vitest-3926)
+- [How Ably delivers on message durability and QoS across a large-scale distributed system](https://dev.to/ably/how-ably-delivers-on-message-durability-and-qos-across-a-large-scale-distributed-system-af7)
+- [Answering The Top 10 Questions I&#39;m Asked About GitHub Copilot](https://dev.to/erika_thedev/answering-the-top-10-questions-im-asked-about-github-copilot-2ag6)
+- [Problem by running App on Phone](https://dev.to/steezphilipp/problem-by-running-app-on-phone-4mok)
 <!-- BLOG-POST-LIST:END -->
 
