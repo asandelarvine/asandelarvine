@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate k6 with Xray/Jira](https://dev.to/skingori/how-to-integrate-k6-with-xrayjira-5g1g)
-- [PyPI supply chain attack targeting old packages found in the wild.](https://dev.to/proteanlabs/pypi-supply-chain-attack-targeting-old-packages-found-in-the-wild-2laf)
-- [Cancellation Token: Handling Infinite Loops with style](https://dev.to/pykpyky/cancellation-token-handling-infinite-loops-with-style-col)
-- [🚀 Supercharge Your Next.js App: Top Databases to Consider](https://dev.to/hamzakhan/supercharge-your-nextjs-app-top-databases-to-consider-3pah)
+- [ExpressoTS surpassed AdonisJs](https://dev.to/expressots/expressots-surpassed-adonisjs-3m4j)
+- [Building codeshift](https://dev.to/udayrana/building-codeshift-39k9)
+- [RGFW Under the Hood: Clipboard Copy/Paste](https://dev.to/colleagueriley/rgfw-under-the-hood-clipboard-copypaste-3gcl)
+- [You Will Get Used To Life Through Experience](https://dev.to/mvcwebapiii/you-will-get-used-to-life-through-experience-50cf)
 <!-- BLOG-POST-LIST:END -->
 
