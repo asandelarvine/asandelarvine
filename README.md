@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap of Docker and Kubernetes 2024](https://dev.to/mrcaption49/roadmap-of-docker-and-kubernetes-2024-3o2m)
-- [30 Day SOC Challenge- Day 2 &amp; 3 : ELK Stack / Elastic Search](https://dev.to/https_aneesah/30-day-soc-challenge-day-2-3-elk-stack-elastic-search-coe)
-- [I was wrong about array methods and generators...](https://dev.to/somedood/i-was-wrong-about-array-methods-and-generators-2ig9)
-- [Building Single Page Applications with Svelte](https://dev.to/kartikmehta8/building-single-page-applications-with-svelte-406j)
+- [JWT Basics](https://dev.to/mrcaption49/jwt-basics-23e5)
+- [Implement Authentication with Node.js using JWTs](https://dev.to/mrcaption49/implement-authentication-with-nodejs-using-jwts-4l03)
+- [How to Scale GraphRAG with Neo4j for Efficient Document Querying](https://dev.to/stephenc222/how-to-scale-graphrag-with-neo4j-for-efficient-document-querying-2did)
+- [How to Use the `ImmutableArray&lt;T&gt;.Builder` Extension Method `ToFrozenDictionary` to Create Efficient Immutable Dictionaries](https://dev.to/rockfire/how-to-use-the-immutablearraybuilder-extension-method-tofrozendictionary-to-create-efficient-immutable-dictionaries-4b5a)
 <!-- BLOG-POST-LIST:END -->
 
