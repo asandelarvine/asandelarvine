@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Review My Code and I&#39;ll Review Yours](https://dev.to/majd_almnayer_2101/you-review-my-code-and-ill-review-yours-2j5l)
-- [Camino hacia la escalabilidad &lpar;1&rpar;: Cómo Gestionar Servicios en Frontend.](https://dev.to/agustinrzarate/camino-hacia-la-escalabilidad-1-como-gestionar-servicios-en-frontend-2c1p)
-- [The Challenges of Managing a Successful Fintech: Revenue of R$9,643,141.49 in 30 Days](https://dev.to/3x_pay/the-challenges-of-managing-a-successful-fintech-revenue-of-r964314149-in-30-days-4hjb)
-- [Decomposed vs. Microservices](https://dev.to/aditya_singh001/decomposed-vs-microservices-21cl)
+- [How I Built an AI Assistant for my Operating System](https://dev.to/suhavi/how-i-built-an-ai-assistant-for-my-operating-system-15kl)
+- [Recap and Looking Ahead](https://dev.to/erasmuskotoka/recap-and-looking-ahead-39dn)
+- [Data Visualization Techniques for Text Data](https://dev.to/ragoli86/data-visualization-techniques-for-text-data-bh)
+- [Solving Performance Issues with Redis and Bull](https://dev.to/3x_pay/solving-performance-issues-with-redis-and-bull-4766)
 <!-- BLOG-POST-LIST:END -->
 
