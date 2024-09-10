@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph RAG](https://dev.to/parth_roy_a1ec4703407d025/graph-rag-5p7)
-- [Simplify File and Directory Paths in Node.js with process.cwd&lpar;&rpar;](https://dev.to/amanp30/simplify-file-and-directory-paths-in-nodejs-with-processcwd-270)
-- [Building a Web-Based Video Editor with Remotion, Next.js, and Tailwind CSS](https://dev.to/sambowenhughes/building-a-web-based-video-editor-with-remotion-nextjs-and-tailwind-css-pfg)
-- [The Best 3D Web Experience Solution](https://dev.to/mpoiiii/the-best-3d-web-experience-solution-5761)
+- [Web Scraping en Go](https://dev.to/gonzxlez/web-scraping-en-go-3bjn)
+- [Installing Elastic Search 7.14 with docker](https://dev.to/mallikarjunht/installing-elastic-search-714-with-docker-4edn)
+- [How to Start Your Career in AI: A Beginner&#39;s Guide](https://dev.to/abhinowww/how-to-start-your-career-in-ai-a-beginners-guide-363l)
+- [Leetcode - 605. Can Place Flowers](https://dev.to/rakeshreddy512/leetcode-605-can-place-flowers-40hj)
 <!-- BLOG-POST-LIST:END -->
 
