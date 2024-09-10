@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping en Go](https://dev.to/gonzxlez/web-scraping-en-go-3bjn)
-- [Installing Elastic Search 7.14 with docker](https://dev.to/mallikarjunht/installing-elastic-search-714-with-docker-4edn)
-- [How to Start Your Career in AI: A Beginner&#39;s Guide](https://dev.to/abhinowww/how-to-start-your-career-in-ai-a-beginners-guide-363l)
-- [Leetcode - 605. Can Place Flowers](https://dev.to/rakeshreddy512/leetcode-605-can-place-flowers-40hj)
+- [Let&#39;s Read - Eloquent Ruby - Ch 11](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-11-4128)
+- [CI/CD pipeline using GitHub Actions](https://dev.to/mrcaption49/cicd-pipeline-using-github-actions-39fk)
+- [How an API Gateway Will Help You Scale, Secure, &amp; Simplify Your API](https://dev.to/getambassador2024/how-an-api-gateway-will-help-you-scale-secure-simplify-your-api-231j)
+- [Mastering User Acceptance Testing &lpar;UAT&rpar; - A Complete Guide](https://dev.to/grjoeay/mastering-user-acceptance-testing-uat-a-complete-guide-2l8g)
 <!-- BLOG-POST-LIST:END -->
 
