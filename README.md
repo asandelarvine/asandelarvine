@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Continue.dev: The Swiss Army Knife That Sometimes Fails to Cut](https://dev.to/maximsaplin/continuedev-the-swiss-army-knife-that-sometimes-fails-to-cut-4gg3)
-- [A Dependência Excessiva da Inteligência Artificial: Um Freio para a Criatividade Humana?](https://dev.to/jandersonsiqueira/a-dependencia-excessiva-da-inteligencia-artificial-um-freio-para-a-criatividade-humana-4paa)
-- [DevOPs Week 2: ALC Assignment](https://dev.to/bankolejohn/devops-week-2-alc-assignment-5c79)
-- [Git Keywords](https://dev.to/mrcaption49/git-keywords-309k)
+- [Introduction to DevOps](https://dev.to/harshm03/introduction-to-devops-hdj)
+- [Asynchronous](https://dev.to/mrcaption49/asynchronous-3g80)
+- [Asynchronous programming Callbacks, Promises &amp; Async Await](https://dev.to/mrcaption49/asynchronous-programming-callbacks-promises-async-await-43j5)
+- [Need Help: Merging Background and Menu Codes in Power BI Without JavaScript &lpar;Beginner Seeking Guidance&rpar;](https://dev.to/jovemboemio/need-help-merging-background-and-menu-codes-in-power-bi-without-javascript-beginner-seeking-guidance-fbh)
 <!-- BLOG-POST-LIST:END -->
 
