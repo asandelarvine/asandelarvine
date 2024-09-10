@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Cursor AI Editor — Is It Actually Useful?](https://dev.to/best_codes/cursor-ai-editor-is-it-actually-useful-16mj)
-- [Tips for SEO: Guest posting and listing strategies for clients who are doctors or nurses.](https://dev.to/dgihost/tips-for-seo-guest-posting-and-listing-strategies-for-clients-who-are-doctors-or-nurses-n0a)
-- [useBoundStoreWithEqualityFn in Zustand’s source code explained.](https://dev.to/thinkthroo/useboundstorewithequalityfn-in-zustands-source-code-explained-4fp)
-- [How to migrate data between 02 databases by using Spring batch](https://dev.to/spencer2k24/how-to-migrate-data-between-02-databases-by-using-spring-batch-20lj)
+- [Cyberpunk 2077 Binance terminal](https://dev.to/khegcbfhj19910/cyberpunk-2077-binance-terminal-a68)
+- [Integrating Firebase Authentication into NestJS with nestjs-firebase-auth](https://dev.to/alpha018/integrating-firebase-authentication-into-nestjs-with-nestjs-firebase-auth-55m6)
+- [The importance of prompt engineering and specific prompt engineering techniques](https://dev.to/promry/the-importance-of-prompt-engineering-and-specific-prompt-engineering-techniques-473l)
+- [How to build a movie recommendation app without the complexities of vector databases](https://dev.to/streamlit/how-to-build-a-movie-recommendation-app-without-the-complexities-of-vector-databases-39f9)
 <!-- BLOG-POST-LIST:END -->
 
