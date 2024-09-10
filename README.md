@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connected and Disconnected Target Callbacks with Stimulus](https://dev.to/railsdesigner/connected-and-disconnected-target-callbacks-with-stimulus-1dm3)
-- [Looking for your APIs](https://dev.to/nikoldimit/looking-for-your-apis-4neh)
-- [How the Ruby Repository Masters Fast Merges: Cutting Corners or Genius Efficiency?](https://dev.to/middleware/how-the-ruby-repository-masters-fast-merges-cutting-corners-or-genius-efficiency-5fe8)
-- [Game vs. App Testing: A Comparative Guide](https://dev.to/abhayit2000/game-vs-app-testing-a-comparative-guide-5aa3)
+- [Top 13 Self-Hosted Projects with the Most GitHub Stars](https://dev.to/nocobase/top-13-self-hosted-projects-with-the-most-github-stars-kkn)
+- [Building a Todo App with Theme Toggle Using React](https://dev.to/abhishekgurjar/building-a-todo-app-with-theme-toggle-using-react-2dob)
+- [Using Nginx on Docker](https://dev.to/chauhoangminhnguyen/using-nginx-on-docker-3472)
+- [Why Open-Source Contributions Might Be Your Best Bet for Getting Hired as a Developer in the AI Era](https://dev.to/samreen_amjid_e85290540ea/why-open-source-contributions-might-be-your-best-bet-for-getting-hired-as-a-developer-in-the-ai-era-333h)
 <!-- BLOG-POST-LIST:END -->
 
