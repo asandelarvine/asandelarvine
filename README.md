@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to custom Babel plugins](https://dev.to/tsudhishnair/introduction-to-custom-babel-plugins-3g99)
-- [Getting Started with Express.js: Build Your First Web Server in Minutes!](https://dev.to/arkadiptakundu/getting-started-with-expressjs-build-your-first-web-server-in-minutes-1k2f)
-- [Building a SaaS for Pilates Studios with $9K Budget: Public Build if you&#39;d be interested!](https://dev.to/oba2311/building-a-saas-for-pilates-studios-with-9k-budget-public-build-if-youd-be-interested-20dm)
-- [Dealing with .DS_Store Files on macOS: Keeping Your Git Development Clean](https://dev.to/benono/dealing-with-dsstore-files-on-macos-keeping-your-git-development-clean-4nkb)
+- [Launching our JS/TS SDK for AI Search and RAG](https://dev.to/skeptrune/launching-our-jsts-sdk-for-ai-search-and-rag-ejg)
+- [Provide context to GitHub Copilot Chat](https://dev.to/github/provide-context-to-github-copilot-chat-24op)
+- [13 Hidden Windows Productivity Tricks You Should Know](https://dev.to/thecodingboy/13-hidden-windows-productivity-tricks-you-should-know-3klc)
+- [13 Hidden Windows Productivity Tricks You Should Know](https://dev.to/thecodingboy/13-hidden-windows-productivity-tricks-you-should-know-19b4)
 <!-- BLOG-POST-LIST:END -->
 
