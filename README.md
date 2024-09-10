@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securely Deploy SafeLine WAF: A Step-by-Step Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/securely-deploy-safeline-waf-a-step-by-step-guide-43a)
-- [My 7 Reasons Why Django is the Best Choice for Beginners Starting a Career in Web Development](https://dev.to/stokry/my-7-reasons-why-django-is-the-best-choice-for-beginners-starting-a-career-in-web-development-ce0)
-- [5 Amazing APIs That You Should Use In Your Project](https://dev.to/bizmaven-devworld-organization/5-amazing-apis-that-you-should-use-in-your-project-cnd)
-- [Share 4 Animation Libraries to Help You Create a Visual Feast and Double Your Chill Time!](https://dev.to/angelaswift/share-4-animation-libraries-to-help-you-create-a-visual-feast-and-double-your-chill-time-49h9)
+- [Setting Up SafeLine: Best Practices for Secure Web Traffic](https://dev.to/lulu_liu_c90f973e2f954d7f/setting-up-safeline-best-practices-for-secure-web-traffic-2n17)
+- [在Windows的右键菜单添加文件哈希校验功能](https://dev.to/www/zai-windowsde-you-jian-cai-dan-tian-jia-wen-jian-ha-xi-xiao-yan-gong-neng-2fn0)
+- [Boots Learning: Empowering Professional Development and Growth](https://dev.to/boots_learning/boots-learning-empowering-professional-development-and-growth-4fa2)
+- [An Alternative to Batch Jobs: Scheduling Events with EventBridge Scheduler](https://dev.to/aws-builders/an-alternative-to-batch-jobs-scheduling-events-with-eventbridge-scheduler-596g)
 <!-- BLOG-POST-LIST:END -->
 
