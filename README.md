@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Code Blocks with Syntax Highlighting in Sanity Blogs](https://dev.to/coderamrin/integrating-code-blocks-with-syntax-highlighting-in-sanity-blogs-1o66)
-- [A Developer&#39;s Guide to the new iDEAL](https://dev.to/adyen/a-developers-guide-to-the-new-ideal-2o0c)
-- [Comparison of Two Methods for Deploying Azure Functions to Azure Container Apps](https://dev.to/azure/comparison-of-two-methods-for-deploying-azure-functions-to-azure-container-apps-2o7o)
-- [System Architecture Overview for Message-Oriented Alarm Processing System](https://dev.to/chanh_le/system-architecture-overview-for-message-oriented-alarm-processing-system-5enj)
+- [Introduction to custom Babel plugins](https://dev.to/tsudhishnair/introduction-to-custom-babel-plugins-3g99)
+- [Getting Started with Express.js: Build Your First Web Server in Minutes!](https://dev.to/arkadiptakundu/getting-started-with-expressjs-build-your-first-web-server-in-minutes-1k2f)
+- [Building a SaaS for Pilates Studios with $9K Budget: Public Build if you&#39;d be interested!](https://dev.to/oba2311/building-a-saas-for-pilates-studios-with-9k-budget-public-build-if-youd-be-interested-20dm)
+- [Dealing with .DS_Store Files on macOS: Keeping Your Git Development Clean](https://dev.to/benono/dealing-with-dsstore-files-on-macos-keeping-your-git-development-clean-4nkb)
 <!-- BLOG-POST-LIST:END -->
 
