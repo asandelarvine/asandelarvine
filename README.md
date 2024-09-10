@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to DevOps](https://dev.to/harshm03/introduction-to-devops-hdj)
-- [Asynchronous](https://dev.to/mrcaption49/asynchronous-3g80)
-- [Asynchronous programming Callbacks, Promises &amp; Async Await](https://dev.to/mrcaption49/asynchronous-programming-callbacks-promises-async-await-43j5)
-- [Need Help: Merging Background and Menu Codes in Power BI Without JavaScript &lpar;Beginner Seeking Guidance&rpar;](https://dev.to/jovemboemio/need-help-merging-background-and-menu-codes-in-power-bi-without-javascript-beginner-seeking-guidance-fbh)
+- [✨ Cursor AI Editor — Is It Actually Useful?](https://dev.to/best_codes/cursor-ai-editor-is-it-actually-useful-16mj)
+- [Tips for SEO: Guest posting and listing strategies for clients who are doctors or nurses.](https://dev.to/dgihost/tips-for-seo-guest-posting-and-listing-strategies-for-clients-who-are-doctors-or-nurses-n0a)
+- [useBoundStoreWithEqualityFn in Zustand’s source code explained.](https://dev.to/thinkthroo/useboundstorewithequalityfn-in-zustands-source-code-explained-4fp)
+- [How to migrate data between 02 databases by using Spring batch](https://dev.to/spencer2k24/how-to-migrate-data-between-02-databases-by-using-spring-batch-20lj)
 <!-- BLOG-POST-LIST:END -->
 
