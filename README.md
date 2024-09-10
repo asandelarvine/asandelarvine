@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis: The Ultimate Guide to In-Memory Data Structure Store](https://dev.to/abhishekjaiswal_4896/redis-the-ultimate-guide-to-in-memory-data-structure-store-47bg)
-- [Understanding Asynchronous Programming in JavaScript: Beginner&#39;s Guide to the Event Loop](https://dev.to/emmanuelayinde/understanding-asynchronous-programming-in-javascript-synchronous-asynchronous-microtasks-macrotasks-and-the-event-loop-h5e)
-- [Array &lpar;DSA - 5&rpar;](https://dev.to/madgan95/array-dsa-5-4j31)
-- [Managing Multiple Git Configs with SSH](https://dev.to/vutlhari/managing-multiple-git-configs-with-ssh-494b)
+- [Integrating Code Blocks with Syntax Highlighting in Sanity Blogs](https://dev.to/coderamrin/integrating-code-blocks-with-syntax-highlighting-in-sanity-blogs-1o66)
+- [A Developer&#39;s Guide to the new iDEAL](https://dev.to/adyen/a-developers-guide-to-the-new-ideal-2o0c)
+- [Comparison of Two Methods for Deploying Azure Functions to Azure Container Apps](https://dev.to/azure/comparison-of-two-methods-for-deploying-azure-functions-to-azure-container-apps-2o7o)
+- [System Architecture Overview for Message-Oriented Alarm Processing System](https://dev.to/chanh_le/system-architecture-overview-for-message-oriented-alarm-processing-system-5enj)
 <!-- BLOG-POST-LIST:END -->
 
