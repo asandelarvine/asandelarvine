@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching our JS/TS SDK for AI Search and RAG](https://dev.to/skeptrune/launching-our-jsts-sdk-for-ai-search-and-rag-ejg)
-- [Provide context to GitHub Copilot Chat](https://dev.to/github/provide-context-to-github-copilot-chat-24op)
-- [13 Hidden Windows Productivity Tricks You Should Know](https://dev.to/thecodingboy/13-hidden-windows-productivity-tricks-you-should-know-3klc)
-- [13 Hidden Windows Productivity Tricks You Should Know](https://dev.to/thecodingboy/13-hidden-windows-productivity-tricks-you-should-know-19b4)
+- [Examining HN Discovery Quality Using Existing Complaints](https://dev.to/danielsgriffin/examining-hn-discovery-quality-using-existing-complaints-13pa)
+- [Dive into the World of SQL: Comprehensive Programming Resources for Beginners and Experts](https://dev.to/getvm/dive-into-the-world-of-sql-comprehensive-programming-resources-for-beginners-and-experts-3k19)
+- [Jupyter Notebook for Java](https://dev.to/bsorrentino/jupyter-notebook-for-java-3cej)
+- [Implementing Centralized Logging in Microservices](https://dev.to/isaactony/implementing-centralized-logging-in-microservices-4fo5)
 <!-- BLOG-POST-LIST:END -->
 
