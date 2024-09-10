@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Read - Eloquent Ruby - Ch 11](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-11-4128)
-- [CI/CD pipeline using GitHub Actions](https://dev.to/mrcaption49/cicd-pipeline-using-github-actions-39fk)
-- [How an API Gateway Will Help You Scale, Secure, &amp; Simplify Your API](https://dev.to/getambassador2024/how-an-api-gateway-will-help-you-scale-secure-simplify-your-api-231j)
-- [Mastering User Acceptance Testing &lpar;UAT&rpar; - A Complete Guide](https://dev.to/grjoeay/mastering-user-acceptance-testing-uat-a-complete-guide-2l8g)
+- [React Interview Preparation](https://dev.to/ashutoshsarangi/react-interview-preparation-26g7)
+- [Compare large csv files #eg38](https://dev.to/esproc_spl/compare-large-csv-files-eg38-29m8)
+- [Saksh Recommendation Engine](https://dev.to/susheel_kumar/saksh-recommendation-engine-14cl)
+- [Angular Addicts #29: Angular 18.2, implicit libraries, the future is standalone &amp; more](https://dev.to/this-is-angular/angular-addicts-29-angular-182-implicit-libraries-the-future-is-standalone-more-1g36)
 <!-- BLOG-POST-LIST:END -->
 
