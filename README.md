@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Magic of `static` in Java: One for All, and All for One!](https://dev.to/akshay_gengaje/the-magic-of-static-in-java-one-for-all-and-all-for-one-1j0o)
-- [Java Classes and Objects: The Blueprint to Your Code Kingdom 🏰](https://dev.to/akshay_gengaje/java-classes-and-objects-the-blueprint-to-your-code-kingdom-bd0)
-- [Five Opportunities and Challenges for Retail Healthcare in 2024](https://dev.to/sejaljansari/five-opportunities-and-challenges-for-retail-healthcare-in-2024-2447)
-- [Exploring AWS S3 Bucket Types and Their Use Cases](https://dev.to/lindiwe09/exploring-aws-s3-bucket-types-and-their-use-cases-2bok)
+- [Pavel Durov&#39;s Arrest: A Misstep or a Warning for Digital Freedom?](https://dev.to/snapnews/pavel-durovs-arrest-a-misstep-or-a-warning-for-digital-freedom-38hi)
+- [Transforming Marketing: How AI Elevates Efficiency and Customer Engagement](https://dev.to/snapnews/transforming-marketing-how-ai-elevates-efficiency-and-customer-engagement-j1m)
+- [How to Use Color Picker in Windows 11 using PowerToys?](https://dev.to/winsides/how-to-use-color-picker-in-windows-11-using-powertoys-ikn)
+- [Optimizing and Cleaning Up Your WordPress Database: A DIY Guide](https://dev.to/drazenbebic/optimizing-and-cleaning-up-your-wordpress-database-a-diy-guide-15ab)
 <!-- BLOG-POST-LIST:END -->
 
