@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#61 — Split Words as Individual Characters](https://dev.to/judith677/61-split-words-as-individual-characters-43o2)
-- [I Don&#39;t Suggest The Pomodoro Timer Method. Here&#39;s Why](https://dev.to/mvcwebapiii/i-dont-suggest-the-pomodoro-timer-method-heres-why-2meh)
-- [MYSQL](https://dev.to/timthoi/mysql-103)
-- [Troubleshooting Your Way Through the Cloud Resume Challenge](https://dev.to/felipe_costacouto/troubleshooting-your-way-through-the-cloud-resume-challenge-59c3)
+- [Graph RAG](https://dev.to/parth_roy_a1ec4703407d025/graph-rag-5p7)
+- [Simplify File and Directory Paths in Node.js with process.cwd&lpar;&rpar;](https://dev.to/amanp30/simplify-file-and-directory-paths-in-nodejs-with-processcwd-270)
+- [Building a Web-Based Video Editor with Remotion, Next.js, and Tailwind CSS](https://dev.to/sambowenhughes/building-a-web-based-video-editor-with-remotion-nextjs-and-tailwind-css-pfg)
+- [The Best 3D Web Experience Solution](https://dev.to/mpoiiii/the-best-3d-web-experience-solution-5761)
 <!-- BLOG-POST-LIST:END -->
 
