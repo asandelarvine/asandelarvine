@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Assistant for my Operating System](https://dev.to/suhavi/how-i-built-an-ai-assistant-for-my-operating-system-15kl)
-- [Recap and Looking Ahead](https://dev.to/erasmuskotoka/recap-and-looking-ahead-39dn)
-- [Data Visualization Techniques for Text Data](https://dev.to/ragoli86/data-visualization-techniques-for-text-data-bh)
-- [Solving Performance Issues with Redis and Bull](https://dev.to/3x_pay/solving-performance-issues-with-redis-and-bull-4766)
+- [How to deal with malicious kcached processes](https://dev.to/henri_sekeladi/how-to-deal-with-malicious-kcached-processes-7gb)
+- [How to Install Redmine with MySQL on Ubuntu 24.04](https://dev.to/henri_sekeladi/how-to-install-redmine-with-mysql-on-ubuntu-2404-14ne)
+- [Step by Step process to setup Redshift datashare across Redshift clusters](https://dev.to/arvind_toorpu/step-by-step-process-to-setup-redshift-datashare-across-redshift-clusters-11g1)
+- [Exploring Cursor: The AI Editor Revolutionizing Content Creation](https://dev.to/atsushiambo/exploring-cursor-the-ai-editor-revolutionizing-content-creation-39ee)
 <!-- BLOG-POST-LIST:END -->
 
