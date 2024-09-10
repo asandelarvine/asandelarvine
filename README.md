@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deal with malicious kcached processes](https://dev.to/henri_sekeladi/how-to-deal-with-malicious-kcached-processes-7gb)
-- [How to Install Redmine with MySQL on Ubuntu 24.04](https://dev.to/henri_sekeladi/how-to-install-redmine-with-mysql-on-ubuntu-2404-14ne)
-- [Step by Step process to setup Redshift datashare across Redshift clusters](https://dev.to/arvind_toorpu/step-by-step-process-to-setup-redshift-datashare-across-redshift-clusters-11g1)
-- [Exploring Cursor: The AI Editor Revolutionizing Content Creation](https://dev.to/atsushiambo/exploring-cursor-the-ai-editor-revolutionizing-content-creation-39ee)
+- [#61 — Split Words as Individual Characters](https://dev.to/judith677/61-split-words-as-individual-characters-43o2)
+- [I Don&#39;t Suggest The Pomodoro Timer Method. Here&#39;s Why](https://dev.to/mvcwebapiii/i-dont-suggest-the-pomodoro-timer-method-heres-why-2meh)
+- [MYSQL](https://dev.to/timthoi/mysql-103)
+- [Troubleshooting Your Way Through the Cloud Resume Challenge](https://dev.to/felipe_costacouto/troubleshooting-your-way-through-the-cloud-resume-challenge-59c3)
 <!-- BLOG-POST-LIST:END -->
 
