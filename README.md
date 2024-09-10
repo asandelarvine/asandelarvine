@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Examining HN Discovery Quality Using Existing Complaints](https://dev.to/danielsgriffin/examining-hn-discovery-quality-using-existing-complaints-13pa)
-- [Dive into the World of SQL: Comprehensive Programming Resources for Beginners and Experts](https://dev.to/getvm/dive-into-the-world-of-sql-comprehensive-programming-resources-for-beginners-and-experts-3k19)
-- [Jupyter Notebook for Java](https://dev.to/bsorrentino/jupyter-notebook-for-java-3cej)
-- [Implementing Centralized Logging in Microservices](https://dev.to/isaactony/implementing-centralized-logging-in-microservices-4fo5)
+- [Continue.dev: The Swiss Army Knife That Sometimes Fails to Cut](https://dev.to/maximsaplin/continuedev-the-swiss-army-knife-that-sometimes-fails-to-cut-4gg3)
+- [A Dependência Excessiva da Inteligência Artificial: Um Freio para a Criatividade Humana?](https://dev.to/jandersonsiqueira/a-dependencia-excessiva-da-inteligencia-artificial-um-freio-para-a-criatividade-humana-4paa)
+- [DevOPs Week 2: ALC Assignment](https://dev.to/bankolejohn/devops-week-2-alc-assignment-5c79)
+- [Git Keywords](https://dev.to/mrcaption49/git-keywords-309k)
 <!-- BLOG-POST-LIST:END -->
 
