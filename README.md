@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a CLI in Rust](https://dev.to/francescoxx/build-a-cli-in-rust-5029)
-- [Improving User Signup Experience: Auto-Login After Registration](https://dev.to/sherylmichaela/improving-user-signup-experience-auto-login-after-registration-28kn)
-- [Follow up: I&#39;m back to dev.to](https://dev.to/ccoveille/follow-up-im-back-to-devto-4lf6)
-- [A few tools for pentest remediation](https://dev.to/etoundi_1er/a-few-tools-for-pentest-remediation-1fif)
+- [Connected and Disconnected Target Callbacks with Stimulus](https://dev.to/railsdesigner/connected-and-disconnected-target-callbacks-with-stimulus-1dm3)
+- [Looking for your APIs](https://dev.to/nikoldimit/looking-for-your-apis-4neh)
+- [How the Ruby Repository Masters Fast Merges: Cutting Corners or Genius Efficiency?](https://dev.to/middleware/how-the-ruby-repository-masters-fast-merges-cutting-corners-or-genius-efficiency-5fe8)
+- [Game vs. App Testing: A Comparative Guide](https://dev.to/abhayit2000/game-vs-app-testing-a-comparative-guide-5aa3)
 <!-- BLOG-POST-LIST:END -->
 
