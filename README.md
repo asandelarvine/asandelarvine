@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Interview Preparation](https://dev.to/ashutoshsarangi/react-interview-preparation-26g7)
-- [Compare large csv files #eg38](https://dev.to/esproc_spl/compare-large-csv-files-eg38-29m8)
-- [Saksh Recommendation Engine](https://dev.to/susheel_kumar/saksh-recommendation-engine-14cl)
-- [Angular Addicts #29: Angular 18.2, implicit libraries, the future is standalone &amp; more](https://dev.to/this-is-angular/angular-addicts-29-angular-182-implicit-libraries-the-future-is-standalone-more-1g36)
+- [The Magic of `static` in Java: One for All, and All for One!](https://dev.to/akshay_gengaje/the-magic-of-static-in-java-one-for-all-and-all-for-one-1j0o)
+- [Java Classes and Objects: The Blueprint to Your Code Kingdom 🏰](https://dev.to/akshay_gengaje/java-classes-and-objects-the-blueprint-to-your-code-kingdom-bd0)
+- [Five Opportunities and Challenges for Retail Healthcare in 2024](https://dev.to/sejaljansari/five-opportunities-and-challenges-for-retail-healthcare-in-2024-2447)
+- [Exploring AWS S3 Bucket Types and Their Use Cases](https://dev.to/lindiwe09/exploring-aws-s3-bucket-types-and-their-use-cases-2bok)
 <!-- BLOG-POST-LIST:END -->
 
