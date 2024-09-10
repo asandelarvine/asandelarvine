@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up SafeLine: Best Practices for Secure Web Traffic](https://dev.to/lulu_liu_c90f973e2f954d7f/setting-up-safeline-best-practices-for-secure-web-traffic-2n17)
-- [在Windows的右键菜单添加文件哈希校验功能](https://dev.to/www/zai-windowsde-you-jian-cai-dan-tian-jia-wen-jian-ha-xi-xiao-yan-gong-neng-2fn0)
-- [Boots Learning: Empowering Professional Development and Growth](https://dev.to/boots_learning/boots-learning-empowering-professional-development-and-growth-4fa2)
-- [An Alternative to Batch Jobs: Scheduling Events with EventBridge Scheduler](https://dev.to/aws-builders/an-alternative-to-batch-jobs-scheduling-events-with-eventbridge-scheduler-596g)
+- [Build a CLI in Rust](https://dev.to/francescoxx/build-a-cli-in-rust-5029)
+- [Improving User Signup Experience: Auto-Login After Registration](https://dev.to/sherylmichaela/improving-user-signup-experience-auto-login-after-registration-28kn)
+- [Follow up: I&#39;m back to dev.to](https://dev.to/ccoveille/follow-up-im-back-to-devto-4lf6)
+- [A few tools for pentest remediation](https://dev.to/etoundi_1er/a-few-tools-for-pentest-remediation-1fif)
 <!-- BLOG-POST-LIST:END -->
 
