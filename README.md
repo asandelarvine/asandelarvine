@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building in public a SaaS for $9K](https://dev.to/oba2311/building-in-public-a-saas-for-9k-3odb)
-- [My really old weppage](https://dev.to/babar_ali/my-really-old-weppage-1ja3)
-- [What is an AI Agent?](https://dev.to/swarmzero/what-is-an-ai-agent-524h)
-- [Creating my first PHP Package](https://dev.to/button99/creating-my-first-php-package-1j52)
+- [How to Create a Secure Newsletter Subscription with NextJS, Supabase, Nodemailer and Arcjet 🔐💯](https://dev.to/madza/how-to-create-a-secure-newsletter-subscription-with-nextjs-supabase-nodemailer-and-arcjet-3ll7)
+- [Manage Your Shared Components and Modules in The Cloud](https://dev.to/giteden/manage-your-shared-components-and-modules-in-the-cloud-22ld)
+- [Combining Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/combining-options-in-effect-ts-a-practical-guide-1gha)
+- [Rocket - The Rust Web Framework - Hello World](https://dev.to/francescoxx/rocket-the-rust-web-framework-hello-world-31po)
 <!-- BLOG-POST-LIST:END -->
 
