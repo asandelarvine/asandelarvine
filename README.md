@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Carousel Image Slider With Material Design](https://dev.to/ahasanpapon/android-carousel-image-slider-with-material-design-3-1o2f)
+- [Combining the benefits of session tokens and JWTs](https://dev.to/clerk/combining-the-benefits-of-session-tokens-and-jwts-d48)
 - [IR Playbooks TryHackMe](https://dev.to/yowise/ir-playbooks-tryhackme-18n3)
 - [Please Install It for Me](https://dev.to/cacilhas/please-install-it-for-me-3ea9)
-- [The AVIF to PNG : Why We’re Still Talking About Image Formats](https://dev.to/badrnyali/the-avif-to-png-why-were-still-talking-about-image-formats-k9)
-- [Pequeño simulador interactivo en JavaScript](https://dev.to/fernandomoyano/pequeno-simulador-interactivo-1mok)
 <!-- BLOG-POST-LIST:END -->
 
