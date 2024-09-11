@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Git&#39;s -m and -am Options: Simplifying Your Commit Workflow](https://dev.to/shyam0118/understanding-gits-m-and-am-options-simplifying-your-commit-workflow-2413)
-- [Reverse Proxy | Host your app with Nginx and Certbot](https://dev.to/01kg/reverse-proxy-host-your-app-with-nginx-and-certbot-gln)
-- [Safety and Performance: ENIG&#39;s Contribution to Advanced Driver Assistance Systems](https://dev.to/aaronsmithcs/safety-and-performance-enigs-contribution-to-advanced-driver-assistance-systems-83)
-- [Abusing Ubuntu 24.04 features for root privilege escalation](https://dev.to/snyk/abusing-ubuntu-2404-features-for-root-privilege-escalation-2anc)
+- [The AI News Week 1](https://dev.to/theainews/the-ai-news-week-1-1cc9)
+- [Comparison of Monday.com, Odoo, Work360, and Zoho](https://dev.to/msj/comparison-of-mondaycom-odoo-work360-and-zoho-54f6)
+- [Welcome Thread - v293](https://dev.to/devteam/welcome-thread-v293-kf1)
+- [Microservice Design Patterns](https://dev.to/isaactony/microservice-design-patterns-11p5)
 <!-- BLOG-POST-LIST:END -->
 
