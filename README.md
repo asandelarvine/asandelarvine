@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [useDebugValue usage in Zustand source code explained.](https://dev.to/thinkthroo/usedebugvalue-usage-in-zustand-source-code-explained-2j02)
-- [Meet Olumide Johnson: A Multi-Talented Digital Creator and Influencer](https://dev.to/creebhills/meet-olumide-johnson-a-multi-talented-digital-creator-and-influencer-15p)
-- [Time Management, Part 1](https://dev.to/kgillison/time-management-part-1-57hn)
-- [How to Completely Hide the StatusBar in React Native](https://dev.to/sharmaprash/how-to-completely-hide-the-statusbar-in-react-native-2m0l)
+- [Key differences in GPT3.5 VS GPT4.0](https://dev.to/ragoli86/key-differences-in-gpt35-vs-gpt40-ci9)
+- [Python from 0 to Hero: Lesson 1 - Getting Started with Python for HR &amp; Payroll](https://dev.to/dazevedo/python-from-0-to-hero-lesson-1-getting-started-with-python-for-hr-payroll-1c0)
+- [Cross-Program Invocations and PDAs- the combination of two powerful mechanism on Anchor](https://dev.to/aseneca/cross-program-invocations-and-pdas-the-combination-of-two-powerful-mechanism-on-anchor-4b93)
+- [Introducing Agas 1.0.0](https://dev.to/m__mdy__m/introducing-agas-100-43bd)
 <!-- BLOG-POST-LIST:END -->
 
