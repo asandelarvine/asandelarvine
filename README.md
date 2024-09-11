@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Typia] LLM Function Calling Application Composer in TypeScript](https://dev.to/samchon/typia-llm-function-calling-application-composer-in-typescript-3pc9)
-- [Two-Way Data Binding in React.js: A Comprehensive Guide](https://dev.to/ellis22/two-way-data-binding-in-reactjs-a-comprehensive-guide-120b)
-- [Strengthen Your Web Security with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/strengthen-your-web-security-with-safeline-waf-43an)
-- [Automated Testing in Node.js for Efficient API Development](https://dev.to/viitorcloud/automated-testing-in-nodejs-for-efficient-api-development-4pac)
+- [Exploring CDK and Policy as Code with CDK-Nag and Python](https://dev.to/zirkonium88/exploring-cdk-and-policy-as-code-with-cdk-nag-3i0h)
+- [2220. Minimum Bit Flips to Convert Number](https://dev.to/mdarifulhaque/2220-minimum-bit-flips-to-convert-number-4gg5)
+- [Vending Machine Controller](https://dev.to/notlongas/vending-machine-controller-1397)
+- [SmartRobot FollowLine &amp; IoT](https://dev.to/notlongas/smartrobot-followline-iot-1885)
 <!-- BLOG-POST-LIST:END -->
 
