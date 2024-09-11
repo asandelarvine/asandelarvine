@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot: A Revolução no Desenvolvimento de Aplicações Java](https://dev.to/devguilara/spring-boot-a-revolucao-no-desenvolvimento-de-aplicacoes-java-1i53)
-- [What is Clean Architecture: Part 16 - Adding Data Persistence with Entity Framework Core](https://dev.to/moh_moh701/what-is-clean-architecture-part-16-adding-data-persistence-with-entity-framework-core-1kih)
-- [Getting Started with Web Scraping in Python &lpar;For Beginners&rpar;](https://dev.to/dazevedo/getting-started-with-web-scraping-in-python-for-beginners-4j26)
-- [Lesson 7 – Working with APIs and Web Scraping for HR Automation](https://dev.to/dazevedo/lesson-7-working-with-apis-and-web-scraping-for-hr-automation-lmj)
+- [IR Playbooks TryHackMe](https://dev.to/yowise/ir-playbooks-tryhackme-18n3)
+- [Please Install It for Me](https://dev.to/cacilhas/please-install-it-for-me-3ea9)
+- [The AVIF to PNG : Why We’re Still Talking About Image Formats](https://dev.to/badrnyali/the-avif-to-png-why-were-still-talking-about-image-formats-k9)
+- [Pequeño simulador interactivo en JavaScript](https://dev.to/fernandomoyano/pequeno-simulador-interactivo-1mok)
 <!-- BLOG-POST-LIST:END -->
 
