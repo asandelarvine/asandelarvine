@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Powerful Chatbot with OpenAI and LangChain](https://dev.to/basskibo/building-a-powerful-chatbot-with-openai-and-langchain-394)
-- [🔍 2 Tips on Googling Effectively](https://dev.to/sammytran/2-tips-on-googling-effectively-3el4)
-- [The Faces Behind Open Source Projects: Tim Jones and pg-boss](https://dev.to/wasp/the-faces-behind-open-source-projects-tim-jones-and-pg-boss-2po1)
-- [18 Key Points You Must Know When Creating Tables in MySQL](https://dev.to/johnjava/18-key-points-you-must-know-when-creating-tables-in-mysql-42j8)
+- [Building in public a SaaS for $9K](https://dev.to/oba2311/building-in-public-a-saas-for-9k-3odb)
+- [My really old weppage](https://dev.to/babar_ali/my-really-old-weppage-1ja3)
+- [What is an AI Agent?](https://dev.to/swarmzero/what-is-an-ai-agent-524h)
+- [Creating my first PHP Package](https://dev.to/button99/creating-my-first-php-package-1j52)
 <!-- BLOG-POST-LIST:END -->
 
