@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI News Week 1](https://dev.to/theainews/the-ai-news-week-1-1cc9)
-- [Comparison of Monday.com, Odoo, Work360, and Zoho](https://dev.to/msj/comparison-of-mondaycom-odoo-work360-and-zoho-54f6)
-- [Welcome Thread - v293](https://dev.to/devteam/welcome-thread-v293-kf1)
-- [Microservice Design Patterns](https://dev.to/isaactony/microservice-design-patterns-11p5)
+- [Exciting New Features in ECMAScript 2024 &lpar;ES15&rpar;](https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9)
+- [Generative AI in Business: Benefits and Integration Challenges](https://dev.to/brilworks/generative-ai-in-business-benefits-and-integration-challenges-2364)
+- [From Zero to $18,000+: My Unexpected Journey on Upwork as a Self-Taught Developer](https://dev.to/rahees_ahmed_/from-zero-to-18000-my-unexpected-journey-on-upwork-as-a-self-taught-developer-42ml)
+- [7 web-developer resume tips to get a response back.](https://dev.to/swastikyadav/7-web-developer-resume-tips-to-get-a-response-back-5hfm)
 <!-- BLOG-POST-LIST:END -->
 
