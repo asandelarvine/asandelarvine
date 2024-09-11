@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add custom fields to your ActiveRecord models with ActiveFields gem](https://dev.to/exterminate/add-custom-fields-to-your-activerecord-models-with-activefields-gem-1olk)
-- [Lesson 3 – Data Structures for Employee Management](https://dev.to/dazevedo/lesson-3-data-structures-for-employee-management-5gnp)
-- [Découverte de l&#39;Architecture Hexagonale : pour un code robuste et évolutif](https://dev.to/technivek/decouverte-de-larchitecture-hexagonale-pour-un-code-robuste-et-evolutif-524l)
-- [Beginner’s Guide to Web Development](https://dev.to/david_tevzadze_/beginners-guide-to-web-development-17l7)
+- [Spring Boot: A Revolução no Desenvolvimento de Aplicações Java](https://dev.to/devguilara/spring-boot-a-revolucao-no-desenvolvimento-de-aplicacoes-java-1i53)
+- [What is Clean Architecture: Part 16 - Adding Data Persistence with Entity Framework Core](https://dev.to/moh_moh701/what-is-clean-architecture-part-16-adding-data-persistence-with-entity-framework-core-1kih)
+- [Getting Started with Web Scraping in Python &lpar;For Beginners&rpar;](https://dev.to/dazevedo/getting-started-with-web-scraping-in-python-for-beginners-4j26)
+- [Lesson 7 – Working with APIs and Web Scraping for HR Automation](https://dev.to/dazevedo/lesson-7-working-with-apis-and-web-scraping-for-hr-automation-lmj)
 <!-- BLOG-POST-LIST:END -->
 
