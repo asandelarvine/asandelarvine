@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Capable PCs Capture 14% of Global Q2 Shipments: A New Era in Computing](https://dev.to/umeshtharukaofficial/ai-capable-pcs-capture-14-of-global-q2-shipments-a-new-era-in-computing-5h6d)
-- [Block a header bidding script on websites to isolate testing of other scripts.](https://dev.to/requestly/block-a-header-bidding-script-on-websites-to-isolate-testing-of-other-scripts-234k)
-- [KEY CONCEPTS IN CLOUD COMPUTING](https://dev.to/afeez_adeyemo/key-concepts-in-cloud-computing-da5)
-- [Revolutionize Your Code: 7 Advanced C++ Techniques to Elevate Your Programming Skills and Stay Ahead of the Game](https://dev.to/parkerava/revolutionize-your-code-7-advanced-c-techniques-to-elevate-your-programming-skills-and-stay-ahead-of-the-game-4kdp)
+- [Dockerizing your Java Spring Boot application with Maven, along with a PostgreSQL database](https://dev.to/kailashnirmal/dockerizing-your-java-spring-boot-application-with-maven-along-with-a-postgresql-database-2kpl)
+- [Basic Django and React Setup: A Step-by-Step Guide](https://dev.to/shaniya_khan_8d7f203b1ad2/basic-django-and-react-setup-a-step-by-step-guide-1819)
+- [&lpar;Youtube blogpost&rpar; Building Tree Link app with Svelte and Tailwind CSS](https://dev.to/gaundergod/youtube-blogpost-building-tree-link-app-with-svelte-and-tailwind-css-c99)
+- [A Beginner’s Guide to Docker Networking for Developers](https://dev.to/idsulik/a-beginners-guide-to-docker-networking-for-developers-2ab8)
 <!-- BLOG-POST-LIST:END -->
 
