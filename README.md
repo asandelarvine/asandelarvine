@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyberpunk 2077 Binance terminal](https://dev.to/khegcbfhj19910/cyberpunk-2077-binance-terminal-a68)
-- [Integrating Firebase Authentication into NestJS with nestjs-firebase-auth](https://dev.to/alpha018/integrating-firebase-authentication-into-nestjs-with-nestjs-firebase-auth-55m6)
-- [The importance of prompt engineering and specific prompt engineering techniques](https://dev.to/promry/the-importance-of-prompt-engineering-and-specific-prompt-engineering-techniques-473l)
-- [How to build a movie recommendation app without the complexities of vector databases](https://dev.to/streamlit/how-to-build-a-movie-recommendation-app-without-the-complexities-of-vector-databases-39f9)
+- [Building a Fylo Cloud Storage Website with React](https://dev.to/abhishekgurjar/building-a-fylo-cloud-storage-website-with-react-4noe)
+- [Understanding POST requests in Javascript](https://dev.to/alegendcodes/understanding-post-requests-in-javascript-214p)
+- [O que é uma Anticorruption Layer?](https://dev.to/pedroajs/o-que-e-uma-anticorruption-layer-g6n)
+- [Mastering Product Design: Essential UX/UI Principles for Stunning Results](https://dev.to/mediaclockposts/mastering-product-design-essential-uxui-principles-for-stunning-results-31p9)
 <!-- BLOG-POST-LIST:END -->
 
