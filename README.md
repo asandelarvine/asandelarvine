@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring CDK and Policy as Code with CDK-Nag and Python](https://dev.to/zirkonium88/exploring-cdk-and-policy-as-code-with-cdk-nag-3i0h)
-- [2220. Minimum Bit Flips to Convert Number](https://dev.to/mdarifulhaque/2220-minimum-bit-flips-to-convert-number-4gg5)
-- [Vending Machine Controller](https://dev.to/notlongas/vending-machine-controller-1397)
-- [SmartRobot FollowLine &amp; IoT](https://dev.to/notlongas/smartrobot-followline-iot-1885)
+- [The Strawberry Problem in ChatGPT](https://dev.to/gdebojyoti/the-strawberry-problem-in-chatgpt-k2k)
+- [Automate Docker Image Deployment to GitLab, ACR, ECR, JFrog Artifactory &amp; DockerHub with Terraform Packer &amp; GitHub Actions](https://dev.to/s3cloudhub/automate-docker-image-deployment-to-gitlab-acr-ecr-jfrog-artifactory-dockerhub-with-terraform-packer-github-actions-no3)
+- [Seamless Background Removal with ISNET, SAM, and YOLOSegment Integration](https://dev.to/ishworrsubedii/seamless-background-removal-with-isnet-sam-and-yolosegment-integration-4b3f)
+- [Integrating Templ](https://dev.to/caffeineordeath/integrating-templ-3j0m)
 <!-- BLOG-POST-LIST:END -->
 
