@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key differences in GPT3.5 VS GPT4.0](https://dev.to/ragoli86/key-differences-in-gpt35-vs-gpt40-ci9)
-- [Python from 0 to Hero: Lesson 1 - Getting Started with Python for HR &amp; Payroll](https://dev.to/dazevedo/python-from-0-to-hero-lesson-1-getting-started-with-python-for-hr-payroll-1c0)
-- [Cross-Program Invocations and PDAs- the combination of two powerful mechanism on Anchor](https://dev.to/aseneca/cross-program-invocations-and-pdas-the-combination-of-two-powerful-mechanism-on-anchor-4b93)
-- [Introducing Agas 1.0.0](https://dev.to/m__mdy__m/introducing-agas-100-43bd)
+- [Add custom fields to your ActiveRecord models with ActiveFields gem](https://dev.to/exterminate/add-custom-fields-to-your-activerecord-models-with-activefields-gem-1olk)
+- [Lesson 3 – Data Structures for Employee Management](https://dev.to/dazevedo/lesson-3-data-structures-for-employee-management-5gnp)
+- [Découverte de l&#39;Architecture Hexagonale : pour un code robuste et évolutif](https://dev.to/technivek/decouverte-de-larchitecture-hexagonale-pour-un-code-robuste-et-evolutif-524l)
+- [Beginner’s Guide to Web Development](https://dev.to/david_tevzadze_/beginners-guide-to-web-development-17l7)
 <!-- BLOG-POST-LIST:END -->
 
