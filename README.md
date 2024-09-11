@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Secure Newsletter Subscription with NextJS, Supabase, Nodemailer and Arcjet 🔐💯](https://dev.to/madza/how-to-create-a-secure-newsletter-subscription-with-nextjs-supabase-nodemailer-and-arcjet-3ll7)
-- [Manage Your Shared Components and Modules in The Cloud](https://dev.to/giteden/manage-your-shared-components-and-modules-in-the-cloud-22ld)
-- [Combining Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/combining-options-in-effect-ts-a-practical-guide-1gha)
-- [Rocket - The Rust Web Framework - Hello World](https://dev.to/francescoxx/rocket-the-rust-web-framework-hello-world-31po)
+- [useDebugValue usage in Zustand source code explained.](https://dev.to/thinkthroo/usedebugvalue-usage-in-zustand-source-code-explained-2j02)
+- [Meet Olumide Johnson: A Multi-Talented Digital Creator and Influencer](https://dev.to/creebhills/meet-olumide-johnson-a-multi-talented-digital-creator-and-influencer-15p)
+- [Time Management, Part 1](https://dev.to/kgillison/time-management-part-1-57hn)
+- [How to Completely Hide the StatusBar in React Native](https://dev.to/sharmaprash/how-to-completely-hide-the-statusbar-in-react-native-2m0l)
 <!-- BLOG-POST-LIST:END -->
 
