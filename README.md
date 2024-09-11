@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vertical scaling Vs Horizontal scaling](https://dev.to/jottyjohn/vertical-scaling-vs-horizontal-scaling-4cjl)
-- [🚀The Fastest, Strongest, and Best AI Voice Dialogue Network Transmission Solution](https://dev.to/mpoiiii/the-fastest-strongest-and-best-ai-voice-dialogue-network-transmission-solution-4p4)
-- [My Experience and top tips for the Fabric Analytics Engineer Associate Certification &lpar;DP-600&rpar;](https://dev.to/jonvoge/my-experience-and-top-tips-for-the-fabric-analytics-engineer-associate-certification-dp-600-p8a)
-- [How to Convert Excel to a Gantt chart: Quick Guide for Project Teams](https://dev.to/thomasy0ung/how-to-convert-excel-to-a-gantt-chart-quick-guide-for-project-teams-14bf)
+- [AI-Capable PCs Capture 14% of Global Q2 Shipments: A New Era in Computing](https://dev.to/umeshtharukaofficial/ai-capable-pcs-capture-14-of-global-q2-shipments-a-new-era-in-computing-5h6d)
+- [Block a header bidding script on websites to isolate testing of other scripts.](https://dev.to/requestly/block-a-header-bidding-script-on-websites-to-isolate-testing-of-other-scripts-234k)
+- [KEY CONCEPTS IN CLOUD COMPUTING](https://dev.to/afeez_adeyemo/key-concepts-in-cloud-computing-da5)
+- [Revolutionize Your Code: 7 Advanced C++ Techniques to Elevate Your Programming Skills and Stay Ahead of the Game](https://dev.to/parkerava/revolutionize-your-code-7-advanced-c-techniques-to-elevate-your-programming-skills-and-stay-ahead-of-the-game-4kdp)
 <!-- BLOG-POST-LIST:END -->
 
