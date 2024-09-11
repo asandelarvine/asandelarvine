@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing your Java Spring Boot application with Maven, along with a PostgreSQL database](https://dev.to/kailashnirmal/dockerizing-your-java-spring-boot-application-with-maven-along-with-a-postgresql-database-2kpl)
-- [Basic Django and React Setup: A Step-by-Step Guide](https://dev.to/shaniya_khan_8d7f203b1ad2/basic-django-and-react-setup-a-step-by-step-guide-1819)
-- [&lpar;Youtube blogpost&rpar; Building Tree Link app with Svelte and Tailwind CSS](https://dev.to/gaundergod/youtube-blogpost-building-tree-link-app-with-svelte-and-tailwind-css-c99)
-- [A Beginner’s Guide to Docker Networking for Developers](https://dev.to/idsulik/a-beginners-guide-to-docker-networking-for-developers-2ab8)
+- [AsyncAPI — A standard specification for documenting Event-Driven Applications](https://dev.to/raphaeldelio/asyncapi-a-standard-specification-for-documenting-event-driven-applications-4dep)
+- [How to remove your secrets from your Git repository?](https://dev.to/bricefriha/how-to-remove-your-secrets-from-your-git-repository-3lcc)
+- [Interview with Victor Aremu, Creator of Menote, Usezap and more!](https://dev.to/crabnebula/interview-with-victor-aremu-creator-of-menote-usezap-and-more-4mp6)
+- [Best practices per l&#39;integrazione di sistemi PLM, ERP, PIM e oltre](https://dev.to/corradofacchini/best-practices-per-lintegrazione-di-sistemi-plm-erp-pim-e-oltre-449j)
 <!-- BLOG-POST-LIST:END -->
 
