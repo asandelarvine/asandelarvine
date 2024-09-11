@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Strawberry Problem in ChatGPT](https://dev.to/gdebojyoti/the-strawberry-problem-in-chatgpt-k2k)
-- [Automate Docker Image Deployment to GitLab, ACR, ECR, JFrog Artifactory &amp; DockerHub with Terraform Packer &amp; GitHub Actions](https://dev.to/s3cloudhub/automate-docker-image-deployment-to-gitlab-acr-ecr-jfrog-artifactory-dockerhub-with-terraform-packer-github-actions-no3)
-- [Seamless Background Removal with ISNET, SAM, and YOLOSegment Integration](https://dev.to/ishworrsubedii/seamless-background-removal-with-isnet-sam-and-yolosegment-integration-4b3f)
-- [Integrating Templ](https://dev.to/caffeineordeath/integrating-templ-3j0m)
+- [Deploy React Application to Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/deploy-react-application-to-google-kubernetes-engine-1h94)
+- [JavaScript Programming Tutorials: From URL Shortener to Deep Array Flattening](https://dev.to/labex/javascript-programming-tutorials-from-url-shortener-to-deep-array-flattening-4gng)
+- [AbortController with Fetch](https://dev.to/mdiffshashank/abortcontroller-with-fetch-jf0)
+- [Hono for Express Developers: A Modern Alternative for Edge Computing](https://dev.to/mathuraditya7/hono-for-express-developers-a-modern-alternative-for-edge-computing-4pd8)
 <!-- BLOG-POST-LIST:END -->
 
