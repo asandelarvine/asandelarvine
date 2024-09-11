@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AsyncAPI — A standard specification for documenting Event-Driven Applications](https://dev.to/raphaeldelio/asyncapi-a-standard-specification-for-documenting-event-driven-applications-4dep)
-- [How to remove your secrets from your Git repository?](https://dev.to/bricefriha/how-to-remove-your-secrets-from-your-git-repository-3lcc)
-- [Interview with Victor Aremu, Creator of Menote, Usezap and more!](https://dev.to/crabnebula/interview-with-victor-aremu-creator-of-menote-usezap-and-more-4mp6)
-- [Best practices per l&#39;integrazione di sistemi PLM, ERP, PIM e oltre](https://dev.to/corradofacchini/best-practices-per-lintegrazione-di-sistemi-plm-erp-pim-e-oltre-449j)
+- [[Typia] LLM Function Calling Application Composer in TypeScript](https://dev.to/samchon/typia-llm-function-calling-application-composer-in-typescript-3pc9)
+- [Two-Way Data Binding in React.js: A Comprehensive Guide](https://dev.to/ellis22/two-way-data-binding-in-reactjs-a-comprehensive-guide-120b)
+- [Strengthen Your Web Security with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/strengthen-your-web-security-with-safeline-waf-43an)
+- [Automated Testing in Node.js for Efficient API Development](https://dev.to/viitorcloud/automated-testing-in-nodejs-for-efficient-api-development-4pac)
 <!-- BLOG-POST-LIST:END -->
 
