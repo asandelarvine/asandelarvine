@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy React Application to Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/deploy-react-application-to-google-kubernetes-engine-1h94)
-- [JavaScript Programming Tutorials: From URL Shortener to Deep Array Flattening](https://dev.to/labex/javascript-programming-tutorials-from-url-shortener-to-deep-array-flattening-4gng)
-- [AbortController with Fetch](https://dev.to/mdiffshashank/abortcontroller-with-fetch-jf0)
-- [Hono for Express Developers: A Modern Alternative for Edge Computing](https://dev.to/mathuraditya7/hono-for-express-developers-a-modern-alternative-for-edge-computing-4pd8)
+- [Building a Powerful Chatbot with OpenAI and LangChain](https://dev.to/basskibo/building-a-powerful-chatbot-with-openai-and-langchain-394)
+- [🔍 2 Tips on Googling Effectively](https://dev.to/sammytran/2-tips-on-googling-effectively-3el4)
+- [The Faces Behind Open Source Projects: Tim Jones and pg-boss](https://dev.to/wasp/the-faces-behind-open-source-projects-tim-jones-and-pg-boss-2po1)
+- [18 Key Points You Must Know When Creating Tables in MySQL](https://dev.to/johnjava/18-key-points-you-must-know-when-creating-tables-in-mysql-42j8)
 <!-- BLOG-POST-LIST:END -->
 
