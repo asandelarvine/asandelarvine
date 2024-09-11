@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#62 - Search for A Specified String across The Whole Table](https://dev.to/judith677/62-search-for-a-specified-string-across-the-whole-table-2a7c)
-- [Navigating Enterprise AI: Strategy, Governance, and Engineering for Success](https://dev.to/buzzgk/navigating-enterprise-ai-strategy-governance-and-engineering-for-success-2cag)
-- [Top Travel Apps Every Tech-Savvy Explorer Needs](https://dev.to/sachinsharma09/top-travel-apps-every-tech-savvy-explorer-needs-gbk)
-- [Turn Based Multiplayer Beer Game](https://dev.to/lazypro/turn-based-multiplayer-beer-game-3n5k)
+- [Vertical scaling Vs Horizontal scaling](https://dev.to/jottyjohn/vertical-scaling-vs-horizontal-scaling-4cjl)
+- [🚀The Fastest, Strongest, and Best AI Voice Dialogue Network Transmission Solution](https://dev.to/mpoiiii/the-fastest-strongest-and-best-ai-voice-dialogue-network-transmission-solution-4p4)
+- [My Experience and top tips for the Fabric Analytics Engineer Associate Certification &lpar;DP-600&rpar;](https://dev.to/jonvoge/my-experience-and-top-tips-for-the-fabric-analytics-engineer-associate-certification-dp-600-p8a)
+- [How to Convert Excel to a Gantt chart: Quick Guide for Project Teams](https://dev.to/thomasy0ung/how-to-convert-excel-to-a-gantt-chart-quick-guide-for-project-teams-14bf)
 <!-- BLOG-POST-LIST:END -->
 
