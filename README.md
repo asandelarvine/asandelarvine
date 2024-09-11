@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fylo Cloud Storage Website with React](https://dev.to/abhishekgurjar/building-a-fylo-cloud-storage-website-with-react-4noe)
-- [Understanding POST requests in Javascript](https://dev.to/alegendcodes/understanding-post-requests-in-javascript-214p)
-- [O que é uma Anticorruption Layer?](https://dev.to/pedroajs/o-que-e-uma-anticorruption-layer-g6n)
-- [Mastering Product Design: Essential UX/UI Principles for Stunning Results](https://dev.to/mediaclockposts/mastering-product-design-essential-uxui-principles-for-stunning-results-31p9)
+- [Understanding Git&#39;s -m and -am Options: Simplifying Your Commit Workflow](https://dev.to/shyam0118/understanding-gits-m-and-am-options-simplifying-your-commit-workflow-2413)
+- [Reverse Proxy | Host your app with Nginx and Certbot](https://dev.to/01kg/reverse-proxy-host-your-app-with-nginx-and-certbot-gln)
+- [Safety and Performance: ENIG&#39;s Contribution to Advanced Driver Assistance Systems](https://dev.to/aaronsmithcs/safety-and-performance-enigs-contribution-to-advanced-driver-assistance-systems-83)
+- [Abusing Ubuntu 24.04 features for root privilege escalation](https://dev.to/snyk/abusing-ubuntu-2404-features-for-root-privilege-escalation-2anc)
 <!-- BLOG-POST-LIST:END -->
 
