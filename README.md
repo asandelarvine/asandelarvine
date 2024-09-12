@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1028 : Talk About It](https://dev.to/dwane/day-1028-talk-about-it-4ah5)
-- [How I Learned Generative AI in Two Weeks &lpar;and You Can Too&rpar;: Part 1 - Libraries](https://dev.to/llmware/how-i-learned-generative-ai-in-two-weeks-and-you-can-too-part-1-libraries-215h)
-- [Redis with Node application](https://dev.to/mrcaption49/redis-with-node-application-53aj)
-- [Quantifying LVR on Uniswap v2](https://dev.to/polymawutor/quantifying-lvr-on-uniswap-v2-1k1g)
+- [Essential Guide to Refactoring Code for a Cleaner and Polished Design](https://dev.to/geraldhamiltonwicks/essential-guide-to-refactoring-code-for-a-cleaner-and-polished-design-5330)
+- [Authorization In Laravel - A Beginner&#39;s Guide](https://dev.to/mohammed_kareem/authorization-in-laravel-a-beginners-guide-32kf)
+- [Best Web Design Tools for Designers &amp; Agencies](https://dev.to/christopherchhim/best-web-design-tools-for-designers-agencies-30ga)
+- [Representação numérica na computação](https://dev.to/xornotor/representacao-numerica-na-computacao-31ml)
 <!-- BLOG-POST-LIST:END -->
 
