@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Critical Fix for a 5-Year Old Vulnerability through Docker&#39;s Security Patch](https://dev.to/vamsiin/a-critical-fix-for-a-5-year-old-vulnerability-through-dockers-security-patch-3f8d)
-- [How to modify response status in charles proxy](https://dev.to/requestly/how-to-modify-response-status-in-charles-proxy-4plf)
-- [Mobile-first website design is crucial in 2024, Why?](https://dev.to/seo_esignature_8b18cc8801/mobile-first-website-design-is-crucial-in-2024-why-l2f)
-- [Cucumber.js: A Complete Guide to Behavior-Driven Testing](https://dev.to/keploy/cucumberjs-a-complete-guide-to-behavior-driven-testing-12h1)
+- [Integration vs End-to-End &lpar;E2E&rpar; Testing: Understanding Their Differences and When to Use Them](https://dev.to/keploy/integration-vs-end-to-end-e2e-testing-understanding-their-differences-and-when-to-use-them-2caf)
+- [17 Best Free React Admin Template 2024 to Speed up Your Web App Development 🚀](https://dev.to/syakirurahman/17-best-free-react-admin-template-2024-to-speed-up-your-web-app-development-3ec)
+- [Automating Docker Deployments to Azure with GitHub Actions: A Step-by-Step Guide](https://dev.to/tino_muc/automating-docker-deployments-to-azure-with-github-actions-a-step-by-step-guide-12i4)
+- [Challenges and Lessons Learned in Web Development 💻](https://dev.to/erasmuskotoka/challenges-and-lessons-learned-in-web-development-e5m)
 <!-- BLOG-POST-LIST:END -->
 
