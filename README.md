@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Push notification](https://dev.to/salvo_onethousand_26c493/push-notification-4c2e)
-- [A short history of AJAX and SSR](https://dev.to/nfrankel/a-short-history-of-ajax-and-ssr-5602)
-- [Vike / SSR](https://dev.to/tuwix_3e3a2ae7790fa8218f5/vike-ssr-5g50)
-- [Cross-Zone Load Balancing in EC2: Enhancing High Availability and Reliability](https://dev.to/s3cloudhub/cross-zone-load-balancing-in-ec2-enhancing-high-availability-and-reliability-3ikf)
+- [🔄 State Management with Vuex and Vue.js Lifecycle Hooks 🚀](https://dev.to/dharamgfx/state-management-with-vuex-and-vuejs-lifecycle-hooks-25k8)
+- [Solving Developer-Designer Friction in Rive Animations with Rive.rip](https://dev.to/albertcai101/solving-developer-designer-friction-in-rive-animations-with-riverip-5hc)
+- [Merge Sort Demystified: A Beginner&#39;s Guide to Divide and Conquer Sorting](https://dev.to/lemind/merge-sort-demystified-a-beginners-guide-to-divide-and-conquer-sorting-42p0)
+- [Simple, Easy-to-Use, and Open-Source Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/simple-easy-to-use-and-open-source-web-application-firewall-587k)
 <!-- BLOG-POST-LIST:END -->
 
