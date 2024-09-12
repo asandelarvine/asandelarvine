@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Advantages and Disadvantages of EXT4 vs. EXT3 in Linux Systems](https://dev.to/adityabhuyan/the-advantages-and-disadvantages-of-ext4-vs-ext3-in-linux-systems-4pcp)
-- [Using Windows API Functions to Check for Subdirectory Presence in C++](https://dev.to/adityabhuyan/using-windows-api-functions-to-check-for-subdirectory-presence-in-c-1329)
-- [Is freeCodeCamp Sacrificing Quality for Speed with Their Rapid Deployments?](https://dev.to/middleware/is-freecodecamp-sacrificing-quality-for-speed-with-their-rapid-deployments-276a)
-- [Smoke Testing vs Sanity Testing: What Are the Differences?](https://dev.to/nazneenahmad/smoke-testing-vs-sanity-testing-what-are-the-differences-11oh)
+- [The Behind-the-Scenes Magic: How Email Marketing Platforms Connect to Your Domain to Send Emails on Your Behalf](https://dev.to/ohansfavour/the-behind-the-scenes-magic-how-email-marketing-platforms-connect-to-your-domain-to-send-emails-on-your-behalf-1h3m)
+- [MariaDB vs MySQL: What Developers Need to Know](https://dev.to/dbvismarketing/mariadb-vs-mysql-what-developers-need-to-know-7b0)
+- [What is AGI? Understanding Artificial General Intelligence and Its Future Possibilities](https://dev.to/abhinowww/what-is-agi-understanding-artificial-general-intelligence-and-its-future-possibilities-2fbc)
+- [How to Create a Next.js Template Using Low Code [Tutorial]](https://dev.to/rarestoma/how-to-create-a-nextjs-template-using-low-code-tutorial-2b89)
 <!-- BLOG-POST-LIST:END -->
 
