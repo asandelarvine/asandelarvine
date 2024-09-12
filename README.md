@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Carousel Image Slider With Material Design](https://dev.to/ahasanpapon/android-carousel-image-slider-with-material-design-3-1o2f)
-- [Combining the benefits of session tokens and JWTs](https://dev.to/clerk/combining-the-benefits-of-session-tokens-and-jwts-d48)
-- [IR Playbooks TryHackMe](https://dev.to/yowise/ir-playbooks-tryhackme-18n3)
-- [Please Install It for Me](https://dev.to/cacilhas/please-install-it-for-me-3ea9)
+- [Android Scheduled Notification](https://dev.to/ahasanpapon/android-scheduled-notification-3m9e)
+- [Integration tests on Symfony with Testcontainers](https://dev.to/joubertredrat/integration-tests-on-symfony-with-testcontainers-4o7d)
+- [Introduction to Kubernetes &lpar;notes 1&rpar;.](https://dev.to/theenmanuel23/introduction-to-kubernetes-notes-1-513h)
+- [Introduction to Kubernetes &lpar;notes 2&rpar;](https://dev.to/theenmanuel23/introduction-to-kubernetes-notes-2-o4m)
 <!-- BLOG-POST-LIST:END -->
 
