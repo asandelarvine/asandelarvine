@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Must-Know VS Code Extensions for Faster Development 🚀](https://dev.to/lokesh_singh/50-must-know-vs-code-extensions-for-faster-development-5e7a)
-- [2 weeks of Hacktoberfest as a first-time maintainer and contributor](https://dev.to/arpitnath/2-weeks-of-hacktoberfest-as-a-first-time-maintainer-and-contributor-5n9)
-- [What are AI accelerators or NPUs?](https://dev.to/deepcodr/what-are-ai-accelerators-or-npus-187e)
-- [A Complete Guide to Filtering in Vector Search](https://dev.to/qdrant/a-complete-guide-to-filtering-in-vector-search-33lk)
+- [Create a Resizable Navigation with Stimulus](https://dev.to/railsdesigner/create-a-resizable-navigation-with-stimulus-mkk)
+- [In the land of LLMs, can we do better mock data generation?](https://dev.to/neurelo/in-the-land-of-llms-can-we-do-better-mock-data-generation-489)
+- [Inside the Box: August Community Update](https://dev.to/codesandboxio/inside-the-box-august-community-update-5flm)
+- [Agile vs Scrum: What’s the Difference? 🤔](https://dev.to/clickit_devops/agile-vs-scrum-whats-the-difference-47d7)
 <!-- BLOG-POST-LIST:END -->
 
