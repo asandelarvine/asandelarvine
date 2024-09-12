@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Fusion Energy and Bending Space-Time: The Future of Gigantic Lasers and Gravitational Wave Communication](https://dev.to/igroza/harnessing-fusion-energy-and-bending-space-time-the-future-of-gigantic-lasers-and-gravitational-wave-communication-2a83)
-- [Client vs Server Components in Next.js](https://dev.to/adrianbailador/client-vs-server-components-in-nextjs-pdj)
-- [ConvTranspose1d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/convtranspose1d-in-pytorch-3bk3)
-- [Dive into React: A Comprehensive Course to Master the Fundamentals](https://dev.to/labex/dive-into-react-a-comprehensive-course-to-master-the-fundamentals-3mam)
+- [OpenAI&#39;s o1 : The Next Game Changer in Reasoning and AI Evolution?](https://dev.to/grenishrai/openais-o1-the-next-game-changer-in-reasoning-and-ai-evolution-24o6)
+- [createWithEqualityFnImpl in Zustand’s source code explained.](https://dev.to/thinkthroo/createwithequalityfnimpl-in-zustands-source-code-explained-3aa0)
+- [#2 - Expo apk keeps on crashing after build](https://dev.to/amanbhoria/2-expo-apk-keeps-on-crashing-after-build-5fja)
+- [🔥 CSS Jokes That Will Make You LOL 🔥](https://dev.to/areeb_anwar_813df06ee1124/css-jokes-that-will-make-you-lol-41lg)
 <!-- BLOG-POST-LIST:END -->
 
