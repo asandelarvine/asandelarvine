@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Scheduled Notification](https://dev.to/ahasanpapon/android-scheduled-notification-3m9e)
-- [Integration tests on Symfony with Testcontainers](https://dev.to/joubertredrat/integration-tests-on-symfony-with-testcontainers-4o7d)
-- [Introduction to Kubernetes &lpar;notes 1&rpar;.](https://dev.to/theenmanuel23/introduction-to-kubernetes-notes-1-513h)
-- [Introduction to Kubernetes &lpar;notes 2&rpar;](https://dev.to/theenmanuel23/introduction-to-kubernetes-notes-2-o4m)
+- [What is Web worker and how to use it in NextJS](https://dev.to/theteabagcoder/what-is-web-worker-and-how-to-use-it-in-nextjs-4ndm)
+- [Issue 0.1](https://dev.to/fadingna/issue-01-3g2)
+- [🚀 Edge Detection with Threads and MiniMagick in Ruby 🌄](https://dev.to/ernanej/edge-and-relief-detection-in-images-with-minimagick-and-ruby-threads-15i2)
+- [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9)
 <!-- BLOG-POST-LIST:END -->
 
