@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Resizable Navigation with Stimulus](https://dev.to/railsdesigner/create-a-resizable-navigation-with-stimulus-mkk)
-- [In the land of LLMs, can we do better mock data generation?](https://dev.to/neurelo/in-the-land-of-llms-can-we-do-better-mock-data-generation-489)
-- [Inside the Box: August Community Update](https://dev.to/codesandboxio/inside-the-box-august-community-update-5flm)
-- [Agile vs Scrum: What’s the Difference? 🤔](https://dev.to/clickit_devops/agile-vs-scrum-whats-the-difference-47d7)
+- [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/saman_sardari_22e7e9081be/how-to-prevent-unnecessary-react-component-re-rendering-59ib)
+- [Ensuring Data Consistency in Event-Driven Architectures](https://dev.to/isaactony/ensuring-data-consistency-in-event-driven-5hhk)
+- [Why Datawarehousing](https://dev.to/karthik_goutam/why-datawarehosuing-5g4e)
+- [First collaboration with the open source community](https://dev.to/cleobnvntra/first-collaboration-with-the-open-source-community-4ffp)
 <!-- BLOG-POST-LIST:END -->
 
