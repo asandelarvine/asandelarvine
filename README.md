@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Js spreadsheet component](https://dev.to/gabriel_brandaoj/jspreadsheet-1gah)
-- [Websiteprojekt](https://dev.to/el_romeo_ebb56287ee6fe558/websiteprojekt-44am)
-- [Intro to Ray on GKE](https://dev.to/googlecloud/intro-to-ray-on-gke-38ee)
-- [Day 28 - Secure Your Kubernetes Deployments: A Beginner&#39;s Guide to Anchore](https://dev.to/arbythecoder/day-28-secure-your-kubernetes-deployments-a-beginners-guide-to-anchore-106j)
+- [He is a participant in the Microsoft Tech Center, the International Developer Center, Google Experts, and Cisco Partners.](https://dev.to/talaq_alotaibi/he-is-a-participant-in-the-microsoft-tech-center-the-international-developer-center-google-experts-and-cisco-partners-fi0)
+- [3 most commonly used AWS services - S3,EC2,RDS](https://dev.to/mrcaption49/3-most-commonly-used-aws-services--1in2)
+- [The Law of Demeter: Why Less is More in Object-Oriented Design](https://dev.to/dazevedo/the-law-of-demeter-why-less-is-more-in-object-oriented-design-bkg)
+- [PL/SQL scripts, stored procedures, and triggers](https://dev.to/mrcaption49/plsql-scripts-stored-procedures-and-triggers-51dg)
 <!-- BLOG-POST-LIST:END -->
 
