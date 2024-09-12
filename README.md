@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LabEx Trending: Responsive Flexible Card Layout and More 🌟](https://dev.to/labex/labex-trending-responsive-flexible-card-layout-and-more-4jj8)
+- [When Alerts Don’t Mean Downtime - Preventing SRE Fatigue](https://dev.to/incidenthub/when-alerts-dont-mean-downtime-preventing-sre-fatigue-4ne7)
+- [Are WordPress Meetups Suitable for Beginners?](https://dev.to/wasim_tariq_3f701ff2a0ff1/are-wordpress-meetups-suitable-for-beginners-5abn)
 - [What is Web worker and how to use it in NextJS](https://dev.to/theteabagcoder/what-is-web-worker-and-how-to-use-it-in-nextjs-4ndm)
-- [Issue 0.1](https://dev.to/fadingna/issue-01-3g2)
-- [🚀 Edge Detection with Threads and MiniMagick in Ruby 🌄](https://dev.to/ernanej/edge-and-relief-detection-in-images-with-minimagick-and-ruby-threads-15i2)
-- [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9)
 <!-- BLOG-POST-LIST:END -->
 
