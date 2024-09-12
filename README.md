@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [He is a participant in the Microsoft Tech Center, the International Developer Center, Google Experts, and Cisco Partners.](https://dev.to/talaq_alotaibi/he-is-a-participant-in-the-microsoft-tech-center-the-international-developer-center-google-experts-and-cisco-partners-fi0)
-- [3 most commonly used AWS services - S3,EC2,RDS](https://dev.to/mrcaption49/3-most-commonly-used-aws-services--1in2)
-- [The Law of Demeter: Why Less is More in Object-Oriented Design](https://dev.to/dazevedo/the-law-of-demeter-why-less-is-more-in-object-oriented-design-bkg)
-- [PL/SQL scripts, stored procedures, and triggers](https://dev.to/mrcaption49/plsql-scripts-stored-procedures-and-triggers-51dg)
+- [Day 1028 : Talk About It](https://dev.to/dwane/day-1028-talk-about-it-4ah5)
+- [How I Learned Generative AI in Two Weeks &lpar;and You Can Too&rpar;: Part 1 - Libraries](https://dev.to/llmware/how-i-learned-generative-ai-in-two-weeks-and-you-can-too-part-1-libraries-215h)
+- [Redis with Node application](https://dev.to/mrcaption49/redis-with-node-application-53aj)
+- [Quantifying LVR on Uniswap v2](https://dev.to/polymawutor/quantifying-lvr-on-uniswap-v2-1k1g)
 <!-- BLOG-POST-LIST:END -->
 
