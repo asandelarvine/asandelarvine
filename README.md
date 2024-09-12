@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 State Management with Vuex and Vue.js Lifecycle Hooks 🚀](https://dev.to/dharamgfx/state-management-with-vuex-and-vuejs-lifecycle-hooks-25k8)
-- [Solving Developer-Designer Friction in Rive Animations with Rive.rip](https://dev.to/albertcai101/solving-developer-designer-friction-in-rive-animations-with-riverip-5hc)
-- [Merge Sort Demystified: A Beginner&#39;s Guide to Divide and Conquer Sorting](https://dev.to/lemind/merge-sort-demystified-a-beginners-guide-to-divide-and-conquer-sorting-42p0)
-- [Simple, Easy-to-Use, and Open-Source Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/simple-easy-to-use-and-open-source-web-application-firewall-587k)
+- [🎉 Join a squad, contribute code, and win awesome swag from 10 amazing sponsors 🚀](https://dev.to/nevodavid/join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12)
+- [Fancify your website user experience with edge computing](https://dev.to/glitch/fancify-your-website-user-experience-with-edge-computing-29hk)
+- [Boost API Security: Kong and SafeLine WAF Integration Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-api-security-kong-and-safeline-waf-integration-guide-40o9)
+- [Added the ability to replace environment variables when running the &quot;Copy-Paste&quot; command in the &quot;Rucken&quot; utility](https://dev.to/endykaufman/added-the-ability-to-replace-environment-variables-when-running-the-copy-paste-command-in-the-rucken-utility-2mcj)
 <!-- BLOG-POST-LIST:END -->
 
