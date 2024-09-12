@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Join a squad, contribute code, and win awesome swag from 10 amazing sponsors 🚀](https://dev.to/nevodavid/join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12)
-- [Fancify your website user experience with edge computing](https://dev.to/glitch/fancify-your-website-user-experience-with-edge-computing-29hk)
-- [Boost API Security: Kong and SafeLine WAF Integration Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-api-security-kong-and-safeline-waf-integration-guide-40o9)
-- [Added the ability to replace environment variables when running the &quot;Copy-Paste&quot; command in the &quot;Rucken&quot; utility](https://dev.to/endykaufman/added-the-ability-to-replace-environment-variables-when-running-the-copy-paste-command-in-the-rucken-utility-2mcj)
+- [A Critical Fix for a 5-Year Old Vulnerability through Docker&#39;s Security Patch](https://dev.to/vamsiin/a-critical-fix-for-a-5-year-old-vulnerability-through-dockers-security-patch-3f8d)
+- [How to modify response status in charles proxy](https://dev.to/requestly/how-to-modify-response-status-in-charles-proxy-4plf)
+- [Mobile-first website design is crucial in 2024, Why?](https://dev.to/seo_esignature_8b18cc8801/mobile-first-website-design-is-crucial-in-2024-why-l2f)
+- [Cucumber.js: A Complete Guide to Behavior-Driven Testing](https://dev.to/keploy/cucumberjs-a-complete-guide-to-behavior-driven-testing-12h1)
 <!-- BLOG-POST-LIST:END -->
 
