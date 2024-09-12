@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: Responsive Flexible Card Layout and More 🌟](https://dev.to/labex/labex-trending-responsive-flexible-card-layout-and-more-4jj8)
-- [When Alerts Don’t Mean Downtime - Preventing SRE Fatigue](https://dev.to/incidenthub/when-alerts-dont-mean-downtime-preventing-sre-fatigue-4ne7)
-- [Are WordPress Meetups Suitable for Beginners?](https://dev.to/wasim_tariq_3f701ff2a0ff1/are-wordpress-meetups-suitable-for-beginners-5abn)
-- [What is Web worker and how to use it in NextJS](https://dev.to/theteabagcoder/what-is-web-worker-and-how-to-use-it-in-nextjs-4ndm)
+- [Introducing Electron Router DOM v2.0 🎉](https://dev.to/daltonmenezes/introducing-electron-router-dom-v20-26i)
+- [Effective Ways to Promote Your Website with Zero Investment](https://dev.to/juddiy/effective-ways-to-promote-your-website-with-zero-investment-27f2)
+- [fabric.js implements custom preview effects for clothing/merchandise](https://dev.to/nihaojob/fabricjs-implements-custom-preview-effects-for-clothingmerchandise-jmc)
+- [Exploring AI-Powered Web Development: OpenAI, Node.js and Dynamic UI Creation](https://dev.to/spradeep/exploring-ai-powered-web-development-openai-nodejs-and-dynamic-ui-creation-be2)
 <!-- BLOG-POST-LIST:END -->
 
