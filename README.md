@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Electron Router DOM v2.0 🎉](https://dev.to/daltonmenezes/introducing-electron-router-dom-v20-26i)
-- [Effective Ways to Promote Your Website with Zero Investment](https://dev.to/juddiy/effective-ways-to-promote-your-website-with-zero-investment-27f2)
-- [fabric.js implements custom preview effects for clothing/merchandise](https://dev.to/nihaojob/fabricjs-implements-custom-preview-effects-for-clothingmerchandise-jmc)
-- [Exploring AI-Powered Web Development: OpenAI, Node.js and Dynamic UI Creation](https://dev.to/spradeep/exploring-ai-powered-web-development-openai-nodejs-and-dynamic-ui-creation-be2)
+- [Understanding Local Storage in JavaScript](https://dev.to/vyan/understanding-local-storage-in-javascript-25e5)
+- [5 Ways ERP Systems are Transforming Schools and Universities](https://dev.to/erpdevelopment/5-ways-erp-systems-are-transforming-schools-and-universities-46jg)
+- [How to Enable the `Allow GitHub Actions to create and approve pull requests` Option When It&#39;s Grayed Out](https://dev.to/suzuki0430/how-to-enable-the-allow-github-actions-to-create-and-approve-pull-requests-option-when-its-grayed-out-3e1i)
+- [Getting Started with Docker: A Guide for Developers](https://dev.to/ankittmeena/getting-started-with-docker-a-guide-for-developers-4d1o)
 <!-- BLOG-POST-LIST:END -->
 
