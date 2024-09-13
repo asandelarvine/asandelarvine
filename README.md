@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Bootstrap Template Builders](https://dev.to/rarestoma/best-bootstrap-template-builders-2gbd)
-- [Dive into Data Structures: A Comprehensive Collection of Free Programming Resources](https://dev.to/getvm/dive-into-data-structures-a-comprehensive-collection-of-free-programming-resources-3hm1)
-- [Introduction post](https://dev.to/lissnbay/introduction-post-4a2o)
-- [My Journey So Far: #100DaysOfCode Challenge and What I Aim to Achieve](https://dev.to/heritech9/my-journey-so-far-100daysofcode-challenge-and-what-i-aim-to-achieve-22dh)
+- [I built an open source Codepen alternative - Devcanvas](https://dev.to/abdulmuminyqn/i-built-an-open-source-codepen-alternative-devcanvas-1ade)
+- [Map Library Introduction](https://dev.to/gamevillage_ls/map-library-introduction-dem)
+- [How to Become an Apache SeaTunnel Committer?](https://dev.to/seatunnel/how-to-become-an-apache-seatunnel-committer-163k)
+- [A Guide To Custom Animations in Tailwind Css.](https://dev.to/jessethedev/a-guide-to-custom-animations-in-tailwind-css-13cc)
 <!-- BLOG-POST-LIST:END -->
 
