@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sites, Newsletters e Podcasts que todo dev deveria conhecer](https://dev.to/nurycaroline/sites-newsletters-e-podcasts-que-todo-dev-deveria-conhecer-145g)
-- [YAML to JSON Conversion: A Comprehensive Guide](https://dev.to/keploy/yaml-to-json-conversion-a-comprehensive-guide-40dh)
-- [Frontend Challenge: Space Edition](https://dev.to/lakshita_kumawat/frontend-challenge-space-edition-2bb6)
-- [How NOT to Make Your Second Indie Game](https://dev.to/pashagray/how-not-to-make-your-second-indie-game-13ij)
+- [Modern Financial Terminal](https://dev.to/fintechwarrior/modern-financial-terminal-15k4)
+- [Database Schema Management in Laravel Using Migrations: An In-Depth Tutorial](https://dev.to/mdarifulhaque/database-schema-management-in-laravel-using-migrations-an-in-depth-tutorial-5ac3)
+- [Double row scroll](https://dev.to/gn_3c4a768a6ce8e4fec6735f/double-row-scroll-29b0)
+- [The anatomy of HTML page](https://dev.to/melchizedek404/the-anatomy-of-html-page-5000)
 <!-- BLOG-POST-LIST:END -->
 
