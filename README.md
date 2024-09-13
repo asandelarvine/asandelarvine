@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Financial Terminal](https://dev.to/fintechwarrior/modern-financial-terminal-15k4)
-- [Database Schema Management in Laravel Using Migrations: An In-Depth Tutorial](https://dev.to/mdarifulhaque/database-schema-management-in-laravel-using-migrations-an-in-depth-tutorial-5ac3)
-- [Double row scroll](https://dev.to/gn_3c4a768a6ce8e4fec6735f/double-row-scroll-29b0)
-- [The anatomy of HTML page](https://dev.to/melchizedek404/the-anatomy-of-html-page-5000)
+- [LabEx Trending: Querying Official Languages of Each Country and More](https://dev.to/labex/labex-trending-querying-official-languages-of-each-country-and-more-395n)
+- [How I beat Gupy](https://dev.to/estagiario/how-i-beat-gupy-3b0l)
+- [Automating MySQL Database Creation and Import in Docker: A Comprehensive Guide](https://dev.to/saniyathossain/automating-mysql-database-creation-and-import-in-docker-a-comprehensive-guide-2ejf)
+- [EFCore Tutorial P4:Cleaning Up `OnModelCreating`](https://dev.to/moh_moh701/efcore-tutorial-p5cleaning-up-ef-cores-onmodelcreating-45fg)
 <!-- BLOG-POST-LIST:END -->
 
