@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DIY Desktop Notifications with Python](https://dev.to/techelopment/diy-desktop-notifications-with-python-4f6p)
-- [How to Get Started with Java Development as a Beginner?](https://dev.to/eva_rossi/how-to-get-started-with-java-development-as-a-beginner-2ake)
-- [Why I Started Using Zed to Become a Vimmer](https://dev.to/qaynam/why-i-started-using-zed-to-become-a-vimmer-586b)
-- [Avoid Pitfalls in MVVM: Lessons from Migrating from Xamarin to .NET MAUI](https://dev.to/ahmedhasanmotiwala/avoid-pitfalls-in-mvvm-lessons-from-migrating-from-xamarin-to-net-maui-4c7f)
+- [Game Dev Digest — Issue #250 - The Future Is Bright](https://dev.to/gamedevdigest/game-dev-digest-issue-250-the-future-is-bright-1987)
+- [Monitoring with Grafana](https://dev.to/chauhoangminhnguyen/monitoring-with-grafana-59l5)
+- [JavaScript `string.replace&lpar;&rpar;` useful cases](https://dev.to/maafaishal/javascript-stringreplace-useful-cases-3963)
+- [As últimas novidades do ECMAScript 2024, 2023, 202x…](https://dev.to/diegopinho/as-ultimas-novidades-do-ecmascript-2024-2023-202x-1oo8)
 <!-- BLOG-POST-LIST:END -->
 
