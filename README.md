@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[pt-BR] Não negligencie logs na sua solução](https://dev.to/scarlet/pt-br-nao-negligencie-logs-na-sua-solucao-12e2)
-- [Using Headless Woo commerce store api v1 in nextjs : issue faced and solutions](https://dev.to/admondtamang/using-headless-woo-commerce-store-api-v1-in-nextjs-issue-faced-and-solutions-ieh)
-- [basic image](https://dev.to/hopelesscoder/basic-image-ko4)
-- [How to Change iOS Push Notifications Permission Dialog with Expo](https://dev.to/vladimirvovk/how-to-change-ios-push-notifications-permission-dialog-with-expo-24fm)
+- [Optimizing Web and App Deployment for SMBs: AlibabaCloud Solution Explained](https://dev.to/lara_li_b856f87e31a0c2caf/optimizing-web-and-app-deployment-for-smbs-alibabacloud-solution-explained-4i4m)
+- [A importância das documentações técnicas](https://dev.to/mfbmina/a-importancia-das-documentacoes-tecnicas-ak3)
+- [🚀 Mastering Node.js: Streams, WebSockets, and File Uploads 🌐](https://dev.to/hanzla-mirza/mastering-nodejs-streams-websockets-and-file-uploads-5433)
+- [How to mitigate security issues in GenAI code and LLM integrations](https://dev.to/snyk/how-to-mitigate-security-issues-in-genai-code-and-llm-integrations-2e03)
 <!-- BLOG-POST-LIST:END -->
 
