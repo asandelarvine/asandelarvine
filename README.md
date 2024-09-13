@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Static Files for Website Hosting in SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/deploying-static-files-for-website-hosting-in-safeline-1kmk)
-- [Remix vs Next.js: Which Framework Should You Choose?](https://dev.to/ummalla_rakesh/remix-vs-nextjs-which-framework-should-you-choose-1i8l)
-- [Remix vs Next.js: Which Framework Should You Choose?](https://dev.to/ummalla_rakesh/remix-vs-nextjs-which-framework-should-you-choose-3a70)
-- [Insert Excel Tables and Charts into Email Body](https://dev.to/sqlman/insert-excel-tables-and-charts-into-email-body-3b6n)
+- [How to Install and Run Auraflow Image Generator Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-auraflow-image-generator-locally-1652)
+- [How to Set Up SSL Protocols and Cipher Suites with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-ssl-protocols-and-cipher-suites-with-safeline-waf-314i)
+- [New PHP Package: Discord Table Builder](https://dev.to/smitmartijn/new-php-package-discord-table-builder-2chk)
+- [Context is all you need.](https://dev.to/szymonst/context-is-all-you-need-1k8a)
 <!-- BLOG-POST-LIST:END -->
 
