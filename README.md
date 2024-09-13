@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Docker Image for Developers](https://dev.to/idsulik/a-beginners-guide-to-docker-image-for-developers-27ic)
-- [Reflecting on My Journey: Building a Beginner Real Estate Listing Fullstack App](https://dev.to/migsldev/reflecting-on-my-journey-building-a-beginner-real-estate-listing-fullstack-app-2gga)
-- [A Complete Guide to Playwright Automation Framework](https://dev.to/jennife05918349/a-complete-guide-to-playwright-automation-framework-3079)
-- [10 Reasons to Choose Angular Web Development Framework | Optimity Logics](https://dev.to/optimitylogics/10-reasons-to-choose-angular-web-development-framework-optimity-logics-4c6a)
+- [Deploying Static Files for Website Hosting in SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/deploying-static-files-for-website-hosting-in-safeline-1kmk)
+- [Remix vs Next.js: Which Framework Should You Choose?](https://dev.to/ummalla_rakesh/remix-vs-nextjs-which-framework-should-you-choose-1i8l)
+- [Remix vs Next.js: Which Framework Should You Choose?](https://dev.to/ummalla_rakesh/remix-vs-nextjs-which-framework-should-you-choose-3a70)
+- [Insert Excel Tables and Charts into Email Body](https://dev.to/sqlman/insert-excel-tables-and-charts-into-email-body-3b6n)
 <!-- BLOG-POST-LIST:END -->
 
