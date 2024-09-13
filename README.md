@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Prompts: Unlocking the Full Potential of AI](https://dev.to/hasin_hayder_23a8a83b3d57/better-prompts-unlocking-the-full-potential-of-ai-3m51)
-- [Use effect less in Angular, try signals in computed](https://dev.to/railsstudent/use-effect-less-in-angular-try-signals-in-computed-11ff)
-- [Building a &quot;Real-Time&quot; Data Integration Platform on AWS](https://dev.to/aws-builders/building-a-real-time-data-integration-platform-on-aws-182h)
-- [How Real-Time Stock APIs Revolutionize Algorithmic Trading](https://dev.to/williamsmithh/how-real-time-stock-apis-revolutionize-algorithmic-trading-3kjd)
+- [A Beginner’s Guide to Docker Image for Developers](https://dev.to/idsulik/a-beginners-guide-to-docker-image-for-developers-27ic)
+- [Reflecting on My Journey: Building a Beginner Real Estate Listing Fullstack App](https://dev.to/migsldev/reflecting-on-my-journey-building-a-beginner-real-estate-listing-fullstack-app-2gga)
+- [A Complete Guide to Playwright Automation Framework](https://dev.to/jennife05918349/a-complete-guide-to-playwright-automation-framework-3079)
+- [10 Reasons to Choose Angular Web Development Framework | Optimity Logics](https://dev.to/optimitylogics/10-reasons-to-choose-angular-web-development-framework-optimity-logics-4c6a)
 <!-- BLOG-POST-LIST:END -->
 
