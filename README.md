@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Web and App Deployment for SMBs: AlibabaCloud Solution Explained](https://dev.to/lara_li_b856f87e31a0c2caf/optimizing-web-and-app-deployment-for-smbs-alibabacloud-solution-explained-4i4m)
-- [A importância das documentações técnicas](https://dev.to/mfbmina/a-importancia-das-documentacoes-tecnicas-ak3)
-- [🚀 Mastering Node.js: Streams, WebSockets, and File Uploads 🌐](https://dev.to/hanzla-mirza/mastering-nodejs-streams-websockets-and-file-uploads-5433)
-- [How to mitigate security issues in GenAI code and LLM integrations](https://dev.to/snyk/how-to-mitigate-security-issues-in-genai-code-and-llm-integrations-2e03)
+- [How to change ripple color of Angular Material button?](https://dev.to/ngmaterialdev/how-to-change-ripple-color-of-angular-material-button-26gg)
+- [Working in an Open Source Environment: Reviews and Reflections](https://dev.to/anhchienvu/working-in-an-open-source-environment-reviews-and-reflections-2enp)
+- [Building Recipe Finder Website using React](https://dev.to/abhishekgurjar/building-recipe-finder-website-using-react-12j7)
+- [Creating a customized SSH key on Pop!_OS 22.04: step-by-step with screenshots](https://dev.to/alexandrecalaca/creating-a-customized-ssh-key-on-popos-2204-step-by-step-with-screenshots-1e6e)
 <!-- BLOG-POST-LIST:END -->
 
