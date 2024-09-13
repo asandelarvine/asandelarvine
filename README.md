@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #200 :Remix, React Universe, Next.js dynamicIO, :has, Redwood, MDX, Atomic-CRM, NewArch, Fusebox, Hermes...](https://dev.to/sebastienlorber/this-week-in-react-200-remix-react-universe-nextjs-dynamicio-has-redwood-mdx-atomic-crm-newarch-fusebox-hermes-3cae)
-- [Automating npm package release with CI/CD](https://dev.to/asmyshlyaev177/automating-npm-package-release-with-cicd-33d6)
-- [Thriving in the Age of AI: A Senior Software Engineer&#39;s Guide to Future-Proofing Your Career](https://dev.to/walosha/thriving-in-the-age-of-ai-a-senior-software-engineers-guide-to-future-proofing-your-career-3669)
-- [How I started my journey in web development as 13 year old](https://dev.to/aayushchugh/how-i-started-my-journey-in-web-development-as-13-year-old-2n8j)
+- [DIY Desktop Notifications with Python](https://dev.to/techelopment/diy-desktop-notifications-with-python-4f6p)
+- [How to Get Started with Java Development as a Beginner?](https://dev.to/eva_rossi/how-to-get-started-with-java-development-as-a-beginner-2ake)
+- [Why I Started Using Zed to Become a Vimmer](https://dev.to/qaynam/why-i-started-using-zed-to-become-a-vimmer-586b)
+- [Avoid Pitfalls in MVVM: Lessons from Migrating from Xamarin to .NET MAUI](https://dev.to/ahmedhasanmotiwala/avoid-pitfalls-in-mvvm-lessons-from-migrating-from-xamarin-to-net-maui-4c7f)
 <!-- BLOG-POST-LIST:END -->
 
