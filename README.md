@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Run Auraflow Image Generator Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-auraflow-image-generator-locally-1652)
-- [How to Set Up SSL Protocols and Cipher Suites with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-ssl-protocols-and-cipher-suites-with-safeline-waf-314i)
-- [New PHP Package: Discord Table Builder](https://dev.to/smitmartijn/new-php-package-discord-table-builder-2chk)
-- [Context is all you need.](https://dev.to/szymonst/context-is-all-you-need-1k8a)
+- [This Week In React #200 :Remix, React Universe, Next.js dynamicIO, :has, Redwood, MDX, Atomic-CRM, NewArch, Fusebox, Hermes...](https://dev.to/sebastienlorber/this-week-in-react-200-remix-react-universe-nextjs-dynamicio-has-redwood-mdx-atomic-crm-newarch-fusebox-hermes-3cae)
+- [Automating npm package release with CI/CD](https://dev.to/asmyshlyaev177/automating-npm-package-release-with-cicd-33d6)
+- [Thriving in the Age of AI: A Senior Software Engineer&#39;s Guide to Future-Proofing Your Career](https://dev.to/walosha/thriving-in-the-age-of-ai-a-senior-software-engineers-guide-to-future-proofing-your-career-3669)
+- [How I started my journey in web development as 13 year old](https://dev.to/aayushchugh/how-i-started-my-journey-in-web-development-as-13-year-old-2n8j)
 <!-- BLOG-POST-LIST:END -->
 
