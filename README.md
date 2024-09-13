@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Swiftide 0.12 - Hybrid Search, search filters, parquet loader, and a giant speed bump](https://dev.to/timonv/swiftide-012-hybrid-search-search-filters-parquet-loader-and-a-giant-speed-bump-4m9c)
-- [Revolutionising Developer Experience in API Integration](https://dev.to/apidna/revolutionising-developer-experience-in-api-integration-3nbm)
-- [Transitioning from React.js to React Native](https://dev.to/wafa_bergaoui/transitioning-from-reactjs-to-react-native-4i6b)
-- [Machine Learning Design Patterns 101](https://dev.to/salman1127/machine-learning-design-patterns-101-2o3h)
+- [Learn By Example: Bash Script - Godot 4 Project Creator](https://dev.to/jimmymcbride/learn-by-example-bash-script-godot-4-project-creator-2je0)
+- [Provide storage for the IT department testing and training](https://dev.to/busa/provide-storage-for-the-it-department-testing-and-training-53jb)
+- [&quot;Day 21: Building a Functional Cart &amp; Revising React Hooks!&quot;](https://dev.to/jasman_deep_58679206bad26/day-21-building-a-functional-cart-revising-react-hooks-52o5)
+- [Git Basics: Branching, Viewing History, Commands, Best Practices, and Tips](https://dev.to/be11amer/git-basics-branching-viewing-history-commands-best-practices-and-tips-3khe)
 <!-- BLOG-POST-LIST:END -->
 
