@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open source Codepen alternative - Devcanvas](https://dev.to/abdulmuminyqn/i-built-an-open-source-codepen-alternative-devcanvas-1ade)
-- [Map Library Introduction](https://dev.to/gamevillage_ls/map-library-introduction-dem)
-- [How to Become an Apache SeaTunnel Committer?](https://dev.to/seatunnel/how-to-become-an-apache-seatunnel-committer-163k)
-- [A Guide To Custom Animations in Tailwind Css.](https://dev.to/jessethedev/a-guide-to-custom-animations-in-tailwind-css-13cc)
+- [Better Prompts: Unlocking the Full Potential of AI](https://dev.to/hasin_hayder_23a8a83b3d57/better-prompts-unlocking-the-full-potential-of-ai-3m51)
+- [Use effect less in Angular, try signals in computed](https://dev.to/railsstudent/use-effect-less-in-angular-try-signals-in-computed-11ff)
+- [Building a &quot;Real-Time&quot; Data Integration Platform on AWS](https://dev.to/aws-builders/building-a-real-time-data-integration-platform-on-aws-182h)
+- [How Real-Time Stock APIs Revolutionize Algorithmic Trading](https://dev.to/williamsmithh/how-real-time-stock-apis-revolutionize-algorithmic-trading-3kjd)
 <!-- BLOG-POST-LIST:END -->
 
