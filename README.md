@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to change ripple color of Angular Material button?](https://dev.to/ngmaterialdev/how-to-change-ripple-color-of-angular-material-button-26gg)
-- [Working in an Open Source Environment: Reviews and Reflections](https://dev.to/anhchienvu/working-in-an-open-source-environment-reviews-and-reflections-2enp)
-- [Building Recipe Finder Website using React](https://dev.to/abhishekgurjar/building-recipe-finder-website-using-react-12j7)
-- [Creating a customized SSH key on Pop!_OS 22.04: step-by-step with screenshots](https://dev.to/alexandrecalaca/creating-a-customized-ssh-key-on-popos-2204-step-by-step-with-screenshots-1e6e)
+- [Create a NPM Package - Step by Step](https://dev.to/hijuliancode/create-a-npm-package-step-by-step-4g3m)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1281)
+- [Navigating the World of Open Source Collaboration: My First Experience with Code Reviews](https://dev.to/harshil_patel/navigating-the-world-of-open-source-collaboration-my-first-experience-with-code-reviews-jpo)
+- [openEuler release 22.03挂载本地iso光盘镜像，配置yum软件仓库](https://dev.to/dbao/openeuler-release-2203gua-zai-ben-di-isoguang-pan-jing-xiang-pei-zhi-yumruan-jian-cang-ku-5cch)
 <!-- BLOG-POST-LIST:END -->
 
