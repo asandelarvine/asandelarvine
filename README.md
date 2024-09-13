@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn By Example: Bash Script - Godot 4 Project Creator](https://dev.to/jimmymcbride/learn-by-example-bash-script-godot-4-project-creator-2je0)
-- [Provide storage for the IT department testing and training](https://dev.to/busa/provide-storage-for-the-it-department-testing-and-training-53jb)
-- [&quot;Day 21: Building a Functional Cart &amp; Revising React Hooks!&quot;](https://dev.to/jasman_deep_58679206bad26/day-21-building-a-functional-cart-revising-react-hooks-52o5)
-- [Git Basics: Branching, Viewing History, Commands, Best Practices, and Tips](https://dev.to/be11amer/git-basics-branching-viewing-history-commands-best-practices-and-tips-3khe)
+- [OpenAI o1 Release is so Reminiscent of Apple Events - it&#39;s an Incremental Update](https://dev.to/maximsaplin/openai-o1-release-is-so-reminiscent-of-apple-events-its-an-incremental-update-cm)
+- [Building an LLM-Powered Knowledge Curation System](https://dev.to/anni_chen_4a9af01447bc04/building-an-llm-powered-knowledge-curation-system-26nd)
+- [Twitter Like News Feed UI System Design](https://dev.to/ashutoshsarangi/twitter-like-news-feed-ui-system-design-3pld)
+- [Simplify Form Controls in Flutter with the FForm Package 🚀](https://dev.to/alexhcjp/simplify-form-controls-in-flutter-with-the-fform-package-1bn7)
 <!-- BLOG-POST-LIST:END -->
 
