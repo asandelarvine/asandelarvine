@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI o1 Release is so Reminiscent of Apple Events - it&#39;s an Incremental Update](https://dev.to/maximsaplin/openai-o1-release-is-so-reminiscent-of-apple-events-its-an-incremental-update-cm)
-- [Building an LLM-Powered Knowledge Curation System](https://dev.to/anni_chen_4a9af01447bc04/building-an-llm-powered-knowledge-curation-system-26nd)
-- [Twitter Like News Feed UI System Design](https://dev.to/ashutoshsarangi/twitter-like-news-feed-ui-system-design-3pld)
-- [Simplify Form Controls in Flutter with the FForm Package 🚀](https://dev.to/alexhcjp/simplify-form-controls-in-flutter-with-the-fform-package-1bn7)
+- [Sites, Newsletters e Podcasts que todo dev deveria conhecer](https://dev.to/nurycaroline/sites-newsletters-e-podcasts-que-todo-dev-deveria-conhecer-145g)
+- [YAML to JSON Conversion: A Comprehensive Guide](https://dev.to/keploy/yaml-to-json-conversion-a-comprehensive-guide-40dh)
+- [Frontend Challenge: Space Edition](https://dev.to/lakshita_kumawat/frontend-challenge-space-edition-2bb6)
+- [How NOT to Make Your Second Indie Game](https://dev.to/pashagray/how-not-to-make-your-second-indie-game-13ij)
 <!-- BLOG-POST-LIST:END -->
 
