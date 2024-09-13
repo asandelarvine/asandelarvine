@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I launched my first product](https://dev.to/estagiario/how-i-launched-my-first-product-475)
-- [LabEx Trending: Querying Official Languages of Each Country and More](https://dev.to/labex/labex-trending-querying-official-languages-of-each-country-and-more-395n)
-- [How I beat Gupy](https://dev.to/estagiario/how-i-beat-gupy-3b0l)
-- [Automating MySQL Database Creation and Import in Docker: A Comprehensive Guide](https://dev.to/saniyathossain/automating-mysql-database-creation-and-import-in-docker-a-comprehensive-guide-2ejf)
+- [Let&#39;s Verify Step by Step: How OpenAI o1 was created](https://dev.to/shagun_mistry/lets-verify-step-by-step-how-openai-o1-was-created-2mll)
+- [Build reliable Slack apps](https://dev.to/qianl15/build-reliable-slack-apps-18dl)
+- [Entrepreneurship with a Nomadic Lifestyle &lpar;feat. Austin Reed&rpar;](https://dev.to/vpalania/entrepreneurship-with-a-nomadic-lifestyle-feat-austin-reed-5fk6)
+- [PGVector&#39;s Missing Features](https://dev.to/skeptrune/pgvectors-missing-features-5h5h)
 <!-- BLOG-POST-LIST:END -->
 
