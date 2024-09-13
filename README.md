@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a NPM Package - Step by Step](https://dev.to/hijuliancode/create-a-npm-package-step-by-step-4g3m)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1281)
-- [Navigating the World of Open Source Collaboration: My First Experience with Code Reviews](https://dev.to/harshil_patel/navigating-the-world-of-open-source-collaboration-my-first-experience-with-code-reviews-jpo)
-- [openEuler release 22.03挂载本地iso光盘镜像，配置yum软件仓库](https://dev.to/dbao/openeuler-release-2203gua-zai-ben-di-isoguang-pan-jing-xiang-pei-zhi-yumruan-jian-cang-ku-5cch)
+- [Launching Oxy-UI: A Powerful and Modern UI Library for Your Web Projects](https://dev.to/vyan/launching-oxy-ui-a-powerful-and-modern-ui-library-for-your-web-projects-93o)
+- [Vue.js: A Speed Demon or Just a High-Risk Gambler?](https://dev.to/middleware/vuejs-a-speed-demon-or-just-a-high-risk-gambler-327l)
+- [Building a Crypto Finder App with React](https://dev.to/abhishekgurjar/building-a-crypto-finder-app-with-react-b87)
+- [Code Against the Clock: Automating the youtube shorts creation](https://dev.to/programmerraja/code-against-the-clock-automating-the-youtube-shorts-creation-24m7)
 <!-- BLOG-POST-LIST:END -->
 
