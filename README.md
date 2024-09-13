@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Oxy-UI: A Powerful and Modern UI Library for Your Web Projects](https://dev.to/vyan/launching-oxy-ui-a-powerful-and-modern-ui-library-for-your-web-projects-93o)
-- [Vue.js: A Speed Demon or Just a High-Risk Gambler?](https://dev.to/middleware/vuejs-a-speed-demon-or-just-a-high-risk-gambler-327l)
-- [Building a Crypto Finder App with React](https://dev.to/abhishekgurjar/building-a-crypto-finder-app-with-react-b87)
-- [Code Against the Clock: Automating the youtube shorts creation](https://dev.to/programmerraja/code-against-the-clock-automating-the-youtube-shorts-creation-24m7)
+- [Best Bootstrap Template Builders](https://dev.to/rarestoma/best-bootstrap-template-builders-2gbd)
+- [Dive into Data Structures: A Comprehensive Collection of Free Programming Resources](https://dev.to/getvm/dive-into-data-structures-a-comprehensive-collection-of-free-programming-resources-3hm1)
+- [Introduction post](https://dev.to/lissnbay/introduction-post-4a2o)
+- [My Journey So Far: #100DaysOfCode Challenge and What I Aim to Achieve](https://dev.to/heritech9/my-journey-so-far-100daysofcode-challenge-and-what-i-aim-to-achieve-22dh)
 <!-- BLOG-POST-LIST:END -->
 
