@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Guide to Refactoring Code for a Cleaner and Polished Design](https://dev.to/geraldhamiltonwicks/essential-guide-to-refactoring-code-for-a-cleaner-and-polished-design-5330)
-- [Authorization In Laravel - A Beginner&#39;s Guide](https://dev.to/mohammed_kareem/authorization-in-laravel-a-beginners-guide-32kf)
-- [Best Web Design Tools for Designers &amp; Agencies](https://dev.to/christopherchhim/best-web-design-tools-for-designers-agencies-30ga)
-- [Representação numérica na computação](https://dev.to/xornotor/representacao-numerica-na-computacao-31ml)
+- [[pt-BR] Não negligencie logs na sua solução](https://dev.to/scarlet/pt-br-nao-negligencie-logs-na-sua-solucao-12e2)
+- [Using Headless Woo commerce store api v1 in nextjs : issue faced and solutions](https://dev.to/admondtamang/using-headless-woo-commerce-store-api-v1-in-nextjs-issue-faced-and-solutions-ieh)
+- [basic image](https://dev.to/hopelesscoder/basic-image-ko4)
+- [How to Change iOS Push Notifications Permission Dialog with Expo](https://dev.to/vladimirvovk/how-to-change-ios-push-notifications-permission-dialog-with-expo-24fm)
 <!-- BLOG-POST-LIST:END -->
 
