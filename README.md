@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I launched my first product](https://dev.to/estagiario/how-i-launched-my-first-product-475)
 - [LabEx Trending: Querying Official Languages of Each Country and More](https://dev.to/labex/labex-trending-querying-official-languages-of-each-country-and-more-395n)
 - [How I beat Gupy](https://dev.to/estagiario/how-i-beat-gupy-3b0l)
 - [Automating MySQL Database Creation and Import in Docker: A Comprehensive Guide](https://dev.to/saniyathossain/automating-mysql-database-creation-and-import-in-docker-a-comprehensive-guide-2ejf)
-- [EFCore Tutorial P4:Cleaning Up `OnModelCreating`](https://dev.to/moh_moh701/efcore-tutorial-p5cleaning-up-ef-cores-onmodelcreating-45fg)
 <!-- BLOG-POST-LIST:END -->
 
