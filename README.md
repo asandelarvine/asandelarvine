@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add swap space in Linux?](https://dev.to/lovestaco/how-to-add-swap-space-on-linux-e28)
-- [Most Commonly Used AWS Services](https://dev.to/akhil_mittal/most-commonly-used-aws-services-4mg1)
-- [The Future of Local LLM Execution: Running Language Models Locally with Ollama, ONNX, and More](https://dev.to/kenangain/the-future-of-local-llm-execution-running-language-models-locally-with-ollama-onnx-and-more-4f97)
-- [[Journal] Loongson 3A6000 and dGPU 独立显卡配置](https://dev.to/richardbrowning/journal-loongson-3a6000-and-dgpu-du-li-xian-qia-pei-zhi-1m84)
+- [My AWS re/Start Journey: Week 1 - Cloud Foundations](https://dev.to/shirlyne_thiongo_e4e524b/my-aws-restart-journey-week-1-cloud-foundations-dl7)
+- [CSS Margins – Spacing Around Elements](https://dev.to/ridoy_hasan/css-margins-spacing-around-elements-549p)
+- [40 Days Of Kubernetes &lpar;37/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-3740-38co)
+- [Unlocking Web Data with LangChain: A Deep Dive into Web Loaders](https://dev.to/thecodingcutie/unlocking-web-data-with-langchain-a-deep-dive-into-web-loaders-4e6l)
 <!-- BLOG-POST-LIST:END -->
 
