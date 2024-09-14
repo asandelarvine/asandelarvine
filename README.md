@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Transform Your GitHub Profile with Our Cutting-Edge Profile Generator](https://dev.to/sushilmagare10/transform-your-github-profile-with-our-cutting-edge-profile-generator-4c27)
-- [Detailed Job Description for Developing a Custom SaaS E-Commerce Platform](https://dev.to/bmspy/detailed-job-description-for-developing-a-custom-saas-e-commerce-platform-p56)
-- [CSS BEM Naming Convention: What It Is, Why It Matters, and How to Use It?](https://dev.to/aepasahan/css-bem-naming-convention-what-it-is-why-it-matters-and-how-to-use-it-3epn)
-- [MaxPool3d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool3d-in-pytorch-37b0)
+- [Criando uma hierarquia de vários níveis](https://dev.to/devsjavagirls/criando-uma-hierarquia-de-varios-niveis-4mm6)
+- [neon sign effect](https://dev.to/babar_ali/neon-sign-effect-ba0)
+- [Understanding Database Normalization: A Practical Guide with E-Commerce Examples](https://dev.to/ajadi473/understanding-database-normalization-a-practical-guide-with-e-commerce-examples-3jln)
+- [Usando super para acessar membros da superclasse](https://dev.to/devsjavagirls/usando-super-para-acessar-membros-da-superclasse-1e9k)
 <!-- BLOG-POST-LIST:END -->
 
