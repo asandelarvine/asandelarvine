@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bramus CSS Observer: Dynamically React to CSS Changes with JavaScript](https://dev.to/rajeshkumaryadavdotcom/bramus-css-observer-dynamically-react-to-css-changes-with-javascript-24k1)
-- [Make your Vite applications run a little faster](https://dev.to/modyqyw/make-your-vite-applications-run-a-little-faster-5bp7)
-- [My first open-source project built with Python to inspect databases through CLI fast](https://dev.to/evangelosmeklis/my-first-open-source-project-built-with-python-to-inspect-databases-through-cli-fast-5d31)
-- [Radio code generator for Dodge RAM in Python](https://dev.to/pelock/radio-code-generator-for-dodge-ram-in-python-lda)
+- [Analytics dashboard that simplifies developers lives](https://dev.to/litlyx/analytics-dashboard-that-simplifies-developers-lives-5849)
+- [Factory Network x {Tech: Berlin} AI Hackathon](https://dev.to/nsadeghi97/factory-network-x-tech-berlin-ai-hackathon-1h5b)
+- [Install NGINX Ingress Controller in AWS EKS](https://dev.to/aws-builders/install-nginx-ingress-controller-in-aws-eks-3cf)
+- [Creating and Configuring an Azure Storage Account](https://dev.to/afeez_adeyemo/creating-and-configuring-an-azure-storage-account-eeo)
 <!-- BLOG-POST-LIST:END -->
 
