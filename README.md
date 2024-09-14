@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to embed your youtube video in dev.to](https://dev.to/realnamehidden1_61/how-to-embed-your-youtube-video-in-devto-4ef6)
-- [Essential Skills Required for AI Engineers in 2024](https://dev.to/ankush_mahore/essential-skills-required-for-ai-engineers-in-2024-1mm8)
-- [How to Set Up XAMPP Server on an Ubuntu AWS EC2 Instance: A Complete Guide](https://dev.to/s3cloudhub/how-to-set-up-xampp-server-on-an-ubuntu-aws-ec2-instance-a-complete-guide-3ei6)
-- [Prototype](https://dev.to/prashantrmishra/prototype-15hn)
+- [Mastering Load Balancer Stickiness: Ensuring a Seamless User Experience](https://dev.to/s3cloudhub/mastering-load-balancer-stickiness-ensuring-a-seamless-user-experience-2ei0)
+- [Performance Optimization in Web and App Development](https://dev.to/snehal_kothawade_sk/performance-optimization-in-web-and-app-development-5889)
+- [MaxPool1d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool1d-in-pytorch-32lj)
+- [AI Translation Tools: Boosting Academic Writing Across Languages](https://dev.to/harrywilson/ai-translation-tools-boosting-academic-writing-across-languages-4296)
 <!-- BLOG-POST-LIST:END -->
 
