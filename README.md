@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing undb: A Private-First, No-Code Platform for Developers and Makers](https://dev.to/nichenqin/introducing-undb-a-private-first-no-code-platform-for-developers-and-makers-1ain)
-- [Strategy](https://dev.to/prashantrmishra/strategy-5d06)
-- [Analytics dashboard that simplifies developers lives](https://dev.to/litlyx/analytics-dashboard-that-simplifies-developers-lives-5849)
-- [The Electromagnetic Spectrum - 500-425 CAAA Study Guide](https://dev.to/certguide2024/the-electromagnetic-spectrum-500-425-caaa-study-guide-239i)
+- [How to embed your youtube video in dev.to](https://dev.to/realnamehidden1_61/how-to-embed-your-youtube-video-in-devto-4ef6)
+- [Essential Skills Required for AI Engineers in 2024](https://dev.to/ankush_mahore/essential-skills-required-for-ai-engineers-in-2024-1mm8)
+- [How to Set Up XAMPP Server on an Ubuntu AWS EC2 Instance: A Complete Guide](https://dev.to/s3cloudhub/how-to-set-up-xampp-server-on-an-ubuntu-aws-ec2-instance-a-complete-guide-3ei6)
+- [Prototype](https://dev.to/prashantrmishra/prototype-15hn)
 <!-- BLOG-POST-LIST:END -->
 
