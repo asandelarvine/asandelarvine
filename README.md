@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Idempotency Explained: Ensuring Reliable and Repeated API Calls in Nestjs](https://dev.to/joaoreider/idempotency-explained-ensuring-reliable-and-repeated-api-calls-in-nestjs-5emc)
+- [PDF Scan File Size: What To Do About It.](https://dev.to/realvorl/pdf-scan-file-size-what-to-do-about-it-4d9j)
+- [Object-Oriented Programming - The Bases](https://dev.to/f_rozendo/object-oriented-programming-the-bases-1b7e)
 - [Cómo escribir archivos de log en Go](https://dev.to/fabkdev/como-escribir-archivos-de-log-en-go-916)
-- [How to configure a split-traffic VPN to access private S3 buckets](https://dev.to/aws-builders/how-to-configure-a-split-traffic-vpn-to-access-private-s3-buckets-420i)
-- [Deploy Simple Java Application using Docker Compose.](https://dev.to/divine_kenechukwu_fc921c4/deploy-simple-java-application-using-docker-compose-41mp)
-- [Aspiring Programmer](https://dev.to/mushfiqul_islam_dfe0370b7/aspiring-programmer-2946)
 <!-- BLOG-POST-LIST:END -->
 
