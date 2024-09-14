@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing undb: A Private-First, No-Code Platform for Developers and Makers](https://dev.to/nichenqin/introducing-undb-a-private-first-no-code-platform-for-developers-and-makers-1ain)
+- [Strategy](https://dev.to/prashantrmishra/strategy-5d06)
 - [Analytics dashboard that simplifies developers lives](https://dev.to/litlyx/analytics-dashboard-that-simplifies-developers-lives-5849)
-- [Factory Network x {Tech: Berlin} AI Hackathon](https://dev.to/nsadeghi97/factory-network-x-tech-berlin-ai-hackathon-1h5b)
-- [Install NGINX Ingress Controller in AWS EKS](https://dev.to/aws-builders/install-nginx-ingress-controller-in-aws-eks-3cf)
-- [Creating and Configuring an Azure Storage Account](https://dev.to/afeez_adeyemo/creating-and-configuring-an-azure-storage-account-eeo)
+- [The Electromagnetic Spectrum - 500-425 CAAA Study Guide](https://dev.to/certguide2024/the-electromagnetic-spectrum-500-425-caaa-study-guide-239i)
 <!-- BLOG-POST-LIST:END -->
 
