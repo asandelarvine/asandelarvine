@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ETL pipeline](https://dev.to/godswill_thompson_7a6b0e/understanding-etl-pipeline-3m6o)
-- [DevSecOps Project: &quot;Secure Full-Stack Node.js Web Application Deployment with Jenkins, Docker, Kubernetes, and HashiCorp Vault&quot;](https://dev.to/prodevopsguytech/devsecops-project-secure-full-stack-nodejs-web-application-deployment-with-jenkins-docker-kubernetes-and-hashicorp-vault-166)
-- [🎮 Game UI Design: Crafting Engaging and Immersive Experiences](https://dev.to/uicraft_by_pratik/game-ui-design-crafting-engaging-and-immersive-experiences-3g31)
-- [Study Stream Web-Extension Demo](https://dev.to/rishi_nalem/study-stream-web-extension-demo-2f7p)
+- [🌟 Transform Your GitHub Profile with Our Cutting-Edge Profile Generator](https://dev.to/sushilmagare10/transform-your-github-profile-with-our-cutting-edge-profile-generator-4c27)
+- [Detailed Job Description for Developing a Custom SaaS E-Commerce Platform](https://dev.to/bmspy/detailed-job-description-for-developing-a-custom-saas-e-commerce-platform-p56)
+- [CSS BEM Naming Convention: What It Is, Why It Matters, and How to Use It?](https://dev.to/aepasahan/css-bem-naming-convention-what-it-is-why-it-matters-and-how-to-use-it-3epn)
+- [MaxPool3d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool3d-in-pytorch-37b0)
 <!-- BLOG-POST-LIST:END -->
 
