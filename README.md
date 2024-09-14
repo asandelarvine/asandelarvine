@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Need This Decade-Old Open-Source WAF for Ultimate Web Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/why-you-need-this-decade-old-open-source-waf-for-ultimate-web-protection-2b2)
-- [Building Your Own GitHub Copilot: A Step-by-Step Guide to Code Completion Tools](https://dev.to/nayanraj-adhikary/building-your-own-github-copilot-a-step-by-step-guide-to-code-completion-tools-56gi)
-- [Protect Your Site from Hackers with SafeLine: A Free and Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-site-from-hackers-with-safeline-a-free-and-open-source-waf-abh)
-- [🌟 From Simple Beginnings to a Real-Time Multiplayer Typing Game! 🎮](https://dev.to/vineet_maurya/from-simple-beginnings-to-a-real-time-multiplayer-typing-game-1oah)
+- [React.js Lazy Loading: EXPLAINED](https://dev.to/vyan/reactjs-lazy-loading-explained-4fc2)
+- [Botkube: Facilitando o gerenciamento de clusters Kubernetes](https://dev.to/rafaelbonilha/botkube-facilitando-o-gerenciamento-de-clusters-kubernetes-39g2)
+- [SCSS: Using Map and List Functions](https://dev.to/tailwine/scss-using-map-and-list-functions-49n5)
+- [Swift Deployments: Are they Swift or Recklessly Rushed?](https://dev.to/middleware/swift-deployments-are-they-swift-or-recklessly-rushed-26h0)
 <!-- BLOG-POST-LIST:END -->
 
