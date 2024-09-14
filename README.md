@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Docker.](https://dev.to/sethgiddy/getting-started-with-docker-4g4f)
-- [Conociendo BenchmarkDotNet](https://dev.to/brventurau/conociendo-benchmarkdotnet-kni)
-- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2ig3)
-- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2fmd)
+- [Cómo escribir archivos de log en Go](https://dev.to/fabkdev/como-escribir-archivos-de-log-en-go-916)
+- [How to configure a split-traffic VPN to access private S3 buckets](https://dev.to/aws-builders/how-to-configure-a-split-traffic-vpn-to-access-private-s3-buckets-420i)
+- [Deploy Simple Java Application using Docker Compose.](https://dev.to/divine_kenechukwu_fc921c4/deploy-simple-java-application-using-docker-compose-41mp)
+- [Aspiring Programmer](https://dev.to/mushfiqul_islam_dfe0370b7/aspiring-programmer-2946)
 <!-- BLOG-POST-LIST:END -->
 
