@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando uma hierarquia de vários níveis](https://dev.to/devsjavagirls/criando-uma-hierarquia-de-varios-niveis-4mm6)
-- [neon sign effect](https://dev.to/babar_ali/neon-sign-effect-ba0)
-- [Understanding Database Normalization: A Practical Guide with E-Commerce Examples](https://dev.to/ajadi473/understanding-database-normalization-a-practical-guide-with-e-commerce-examples-3jln)
-- [Usando super para acessar membros da superclasse](https://dev.to/devsjavagirls/usando-super-para-acessar-membros-da-superclasse-1e9k)
+- [How to add swap space in Linux?](https://dev.to/lovestaco/how-to-add-swap-space-on-linux-e28)
+- [Most Commonly Used AWS Services](https://dev.to/akhil_mittal/most-commonly-used-aws-services-4mg1)
+- [The Future of Local LLM Execution: Running Language Models Locally with Ollama, ONNX, and More](https://dev.to/kenangain/the-future-of-local-llm-execution-running-language-models-locally-with-ollama-onnx-and-more-4f97)
+- [[Journal] Loongson 3A6000 and dGPU 独立显卡配置](https://dev.to/richardbrowning/journal-loongson-3a6000-and-dgpu-du-li-xian-qia-pei-zhi-1m84)
 <!-- BLOG-POST-LIST:END -->
 
