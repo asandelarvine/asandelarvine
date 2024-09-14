@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Verify Step by Step: How OpenAI o1 was created](https://dev.to/shagun_mistry/lets-verify-step-by-step-how-openai-o1-was-created-2mll)
-- [Build reliable Slack apps](https://dev.to/qianl15/build-reliable-slack-apps-18dl)
-- [Entrepreneurship with a Nomadic Lifestyle &lpar;feat. Austin Reed&rpar;](https://dev.to/vpalania/entrepreneurship-with-a-nomadic-lifestyle-feat-austin-reed-5fk6)
-- [PGVector&#39;s Missing Features](https://dev.to/skeptrune/pgvectors-missing-features-5h5h)
+- [The Challenge of Newbness](https://dev.to/jcleftie/the-challenge-of-newbness-5ap)
+- [My First Code Review](https://dev.to/amullagaliev/my-first-code-review-1d42)
+- [Polyglot solve most of Training XSS Muscles Challenge](https://dev.to/mrhili/polyglot-solve-most-of-training-xss-muscles-challenge-2dg1)
+- [Peer Code Review](https://dev.to/elisassa/review-my-partner-code-3po1)
 <!-- BLOG-POST-LIST:END -->
 
