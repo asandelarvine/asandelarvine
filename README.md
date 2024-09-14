@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Challenge of Newbness](https://dev.to/jcleftie/the-challenge-of-newbness-5ap)
-- [My First Code Review](https://dev.to/amullagaliev/my-first-code-review-1d42)
-- [Polyglot solve most of Training XSS Muscles Challenge](https://dev.to/mrhili/polyglot-solve-most-of-training-xss-muscles-challenge-2dg1)
-- [Peer Code Review](https://dev.to/elisassa/review-my-partner-code-3po1)
+- [The Best 10 GraphQL Clients for Developers in 2024](https://dev.to/apilover/the-best-10-graphql-clients-for-developers-in-2024-40op)
+- [xóa script](https://dev.to/phambalam312/xoa-script-38pa)
+- [My First Open Source Code Review Experience](https://dev.to/mayankpareek/refining-code-through-collaboration-my-first-open-source-code-review-experience-3chm)
+- [Admin Dashboard with Materialize](https://dev.to/helloworldexampledotcom/admin-dashboard-with-materialize-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
