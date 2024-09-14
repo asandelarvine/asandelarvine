@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java’s String toCharArray&lpar;&rpar; Method Explained](https://dev.to/realnamehidden1_61/javas-string-tochararray-method-explained-31nc)
-- [Herd 1.11: What&#39;s new](https://dev.to/kachkolasa/herd-111-whats-new-1gla)
-- [Why is 1 == 1 is true but 1000 == 1000 is false When dealing with Wrapper Classes in Java?](https://dev.to/realnamehidden1_61/why-is-1-1-is-true-but-1000-1000-is-false-when-dealing-with-wrapper-classes-in-java-10pe)
-- [Layered Architecture in C# – MVC in a Payroll System](https://dev.to/dazevedo/layered-architecture-in-c-mvc-in-a-payroll-system-adp)
+- [Bramus CSS Observer: Dynamically React to CSS Changes with JavaScript](https://dev.to/rajeshkumaryadavdotcom/bramus-css-observer-dynamically-react-to-css-changes-with-javascript-24k1)
+- [Make your Vite applications run a little faster](https://dev.to/modyqyw/make-your-vite-applications-run-a-little-faster-5bp7)
+- [My first open-source project built with Python to inspect databases through CLI fast](https://dev.to/evangelosmeklis/my-first-open-source-project-built-with-python-to-inspect-databases-through-cli-fast-5d31)
+- [Radio code generator for Dodge RAM in Python](https://dev.to/pelock/radio-code-generator-for-dodge-ram-in-python-lda)
 <!-- BLOG-POST-LIST:END -->
 
