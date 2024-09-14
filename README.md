@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a token count check app using Streamlit in Snowflake &lpar;SiS&rpar;](https://dev.to/tsubasa_tech/i-made-a-token-count-check-app-using-streamlit-in-snowflake-sis-2440)
-- [My Journey Through the Polkadot Blockchain Academy](https://dev.to/jaypopat/my-journey-through-the-polkadot-blockchain-academy-intense-rewarding-and-transformative-21dj)
-- [Dicas para escrever Tailwind CSS de forma limpa](https://dev.to/wesleywcr/dicas-para-escrever-tailwind-de-forma-limpa-6i)
-- [Reflecting on My First Code Review Experience](https://dev.to/vinhyan/reflecting-on-my-first-code-review-experience-1ih8)
+- [Why You Need This Decade-Old Open-Source WAF for Ultimate Web Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/why-you-need-this-decade-old-open-source-waf-for-ultimate-web-protection-2b2)
+- [Building Your Own GitHub Copilot: A Step-by-Step Guide to Code Completion Tools](https://dev.to/nayanraj-adhikary/building-your-own-github-copilot-a-step-by-step-guide-to-code-completion-tools-56gi)
+- [Protect Your Site from Hackers with SafeLine: A Free and Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-site-from-hackers-with-safeline-a-free-and-open-source-waf-abh)
+- [🌟 From Simple Beginnings to a Real-Time Multiplayer Typing Game! 🎮](https://dev.to/vineet_maurya/from-simple-beginnings-to-a-real-time-multiplayer-typing-game-1oah)
 <!-- BLOG-POST-LIST:END -->
 
