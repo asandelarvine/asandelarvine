@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Google Cloud Run to Deploy Docker Image](https://dev.to/chauhoangminhnguyen/using-google-cloud-run-to-deploy-docker-image-2im3)
-- [10 years out of the IT industry and now... I&#39;m back!](https://dev.to/edward_susanto_fa190e9399/10-years-out-of-the-it-industry-and-now-im-back-jp6)
-- [Conhecendo sobre o protocolo HTTP](https://dev.to/larissatavares/conhecendo-sobre-o-protocolo-http-2fje)
-- [Practical Usage of linux Admin Commands in Devops/Cloud Engineer Role](https://dev.to/akhil_mittal/practical-usage-of-linux-admin-commands-in-devopscloud-engineer-role-3ko7)
+- [RAG Simplified!! 🐣](https://dev.to/rohan_sharma/rag-simplified-2a9p)
+- [How to Create Partials Using EJS for Reusable Code 🚀](https://dev.to/arkadiptakundu/how-to-create-partials-using-ejs-for-reusable-code-3ic0)
+- [Enable Microsoft 365 Backups](https://dev.to/techielass/enable-microsoft-365-backups-3ogl)
+- [Comparing the Drupal and WordPress Implementations of Gutenberg themes, blocks, and more!](https://dev.to/reubenwalker64/comparing-the-drupal-and-wordpress-implementations-of-gutenberg-themes-blocks-and-more-1196)
 <!-- BLOG-POST-LIST:END -->
 
