@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Load Balancer Stickiness: Ensuring a Seamless User Experience](https://dev.to/s3cloudhub/mastering-load-balancer-stickiness-ensuring-a-seamless-user-experience-2ei0)
-- [Performance Optimization in Web and App Development](https://dev.to/snehal_kothawade_sk/performance-optimization-in-web-and-app-development-5889)
-- [MaxPool1d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool1d-in-pytorch-32lj)
-- [AI Translation Tools: Boosting Academic Writing Across Languages](https://dev.to/harrywilson/ai-translation-tools-boosting-academic-writing-across-languages-4296)
+- [Using Google Cloud Run to Deploy Docker Image](https://dev.to/chauhoangminhnguyen/using-google-cloud-run-to-deploy-docker-image-2im3)
+- [10 years out of the IT industry and now... I&#39;m back!](https://dev.to/edward_susanto_fa190e9399/10-years-out-of-the-it-industry-and-now-im-back-jp6)
+- [Conhecendo sobre o protocolo HTTP](https://dev.to/larissatavares/conhecendo-sobre-o-protocolo-http-2fje)
+- [Practical Usage of linux Admin Commands in Devops/Cloud Engineer Role](https://dev.to/akhil_mittal/practical-usage-of-linux-admin-commands-in-devopscloud-engineer-role-3ko7)
 <!-- BLOG-POST-LIST:END -->
 
