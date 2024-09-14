@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL, extract unique values of JSON format field from each group #eg42](https://dev.to/esproc_spl/sql-extract-unique-values-of-json-format-field-from-each-group-eg42-4cli)
-- [Beware the Language-as-Fixed-Effect Fallacy: Rethinking Claims about GPT-4&#39;s Capabilities](https://dev.to/mikeyoung44/beware-the-language-as-fixed-effect-fallacy-rethinking-claims-about-gpt-4s-capabilities-35kp)
-- [Unlocking language models&#39; potential through synthetic pretraining](https://dev.to/mikeyoung44/unlocking-language-models-potential-through-synthetic-pretraining-lih)
-- [Boosting Diffusion Models with Data Manifold Constraints for Coherent Image Generation](https://dev.to/mikeyoung44/boosting-diffusion-models-with-data-manifold-constraints-for-coherent-image-generation-p15)
+- [Java’s String toCharArray&lpar;&rpar; Method Explained](https://dev.to/realnamehidden1_61/javas-string-tochararray-method-explained-31nc)
+- [Herd 1.11: What&#39;s new](https://dev.to/kachkolasa/herd-111-whats-new-1gla)
+- [Why is 1 == 1 is true but 1000 == 1000 is false When dealing with Wrapper Classes in Java?](https://dev.to/realnamehidden1_61/why-is-1-1-is-true-but-1000-1000-is-false-when-dealing-with-wrapper-classes-in-java-10pe)
+- [Layered Architecture in C# – MVC in a Payroll System](https://dev.to/dazevedo/layered-architecture-in-c-mvc-in-a-payroll-system-adp)
 <!-- BLOG-POST-LIST:END -->
 
