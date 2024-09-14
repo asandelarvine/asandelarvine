@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Simplified!! 🐣](https://dev.to/rohan_sharma/rag-simplified-2a9p)
-- [How to Create Partials Using EJS for Reusable Code 🚀](https://dev.to/arkadiptakundu/how-to-create-partials-using-ejs-for-reusable-code-3ic0)
-- [Enable Microsoft 365 Backups](https://dev.to/techielass/enable-microsoft-365-backups-3ogl)
-- [Comparing the Drupal and WordPress Implementations of Gutenberg themes, blocks, and more!](https://dev.to/reubenwalker64/comparing-the-drupal-and-wordpress-implementations-of-gutenberg-themes-blocks-and-more-1196)
+- [Understanding ETL pipeline](https://dev.to/godswill_thompson_7a6b0e/understanding-etl-pipeline-3m6o)
+- [DevSecOps Project: &quot;Secure Full-Stack Node.js Web Application Deployment with Jenkins, Docker, Kubernetes, and HashiCorp Vault&quot;](https://dev.to/prodevopsguytech/devsecops-project-secure-full-stack-nodejs-web-application-deployment-with-jenkins-docker-kubernetes-and-hashicorp-vault-166)
+- [🎮 Game UI Design: Crafting Engaging and Immersive Experiences](https://dev.to/uicraft_by_pratik/game-ui-design-crafting-engaging-and-immersive-experiences-3g31)
+- [Study Stream Web-Extension Demo](https://dev.to/rishi_nalem/study-stream-web-extension-demo-2f7p)
 <!-- BLOG-POST-LIST:END -->
 
