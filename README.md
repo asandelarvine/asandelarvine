@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My AWS re/Start Journey: Week 1 - Cloud Foundations](https://dev.to/shirlyne_thiongo_e4e524b/my-aws-restart-journey-week-1-cloud-foundations-dl7)
-- [CSS Margins – Spacing Around Elements](https://dev.to/ridoy_hasan/css-margins-spacing-around-elements-549p)
-- [40 Days Of Kubernetes &lpar;37/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-3740-38co)
-- [Unlocking Web Data with LangChain: A Deep Dive into Web Loaders](https://dev.to/thecodingcutie/unlocking-web-data-with-langchain-a-deep-dive-into-web-loaders-4e6l)
+- [Getting Started with Docker.](https://dev.to/sethgiddy/getting-started-with-docker-4g4f)
+- [Conociendo BenchmarkDotNet](https://dev.to/brventurau/conociendo-benchmarkdotnet-kni)
+- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2ig3)
+- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2fmd)
 <!-- BLOG-POST-LIST:END -->
 
