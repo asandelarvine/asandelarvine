@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What does a senior DBA do all day](https://dev.to/urlewicz_aicha_d14af69bc8/what-does-a-senior-dba-do-all-day-4kdp)
 - [Create a secure AWS RDS instance with CDK](https://dev.to/rodrigo_carvajal/create-a-secure-aws-rds-instance-with-cdk-5baf)
 - [Top 7 Backend-as-a-Service &lpar;BaaS&rpar; for Next.js](https://dev.to/ethanleetech/top-7-backend-as-a-service-baas-for-nextjs-32mc)
 - [How to install bootstrap 5 with Webpacker in a Ruby on Rails 6 application on Ubuntu](https://dev.to/alexandrecalaca/how-to-install-bootstrap-5-with-webpacker-in-a-ruby-on-rails-6-application-on-ubuntu-39bi)
-- [Jetmaker - open source framework for building distributed systems in Python](https://dev.to/gavin121/jetmaker-open-source-framework-for-building-distributed-systems-in-python-343g)
 <!-- BLOG-POST-LIST:END -->
 
