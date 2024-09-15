@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency Explained: Ensuring Reliable and Repeated API Calls in Nestjs](https://dev.to/joaoreider/idempotency-explained-ensuring-reliable-and-repeated-api-calls-in-nestjs-5emc)
-- [PDF Scan File Size: What To Do About It.](https://dev.to/realvorl/pdf-scan-file-size-what-to-do-about-it-4d9j)
-- [Object-Oriented Programming - The Bases](https://dev.to/f_rozendo/object-oriented-programming-the-bases-1b7e)
-- [Cómo escribir archivos de log en Go](https://dev.to/fabkdev/como-escribir-archivos-de-log-en-go-916)
+- [Box Model in CSS: The Ultimate Guide to Crafting Precise Layouts](https://dev.to/areeb_anwar_813df06ee1124/box-model-in-css-the-ultimate-guide-to-crafting-precise-layouts-46bo)
+- [Building Real-Time Applications with Socket.io](https://dev.to/kartikmehta8/building-real-time-applications-with-socketio-51c0)
+- [Quick tip: Build Vector Embeddings for Video via Python Notebook &amp; OpenAI CLIP](https://dev.to/singlestore/quick-tip-build-vector-embeddings-for-video-via-python-notebook-openai-clip-24d9)
+- [How I Created a Tool — Medium2Markdown](https://dev.to/aws-builders/how-i-created-a-tool-medium2markdown-40k)
 <!-- BLOG-POST-LIST:END -->
 
