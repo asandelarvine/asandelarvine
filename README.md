@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Challenge v24.09.04-Space Edition](https://dev.to/priya2422/frontend-challenge-v240904-space-edition-2g17)
-- [Denmark 4.0: The Revolutionary Leap into Web4 for Every Danish Municipality](https://dev.to/web4_foundation/denmark-40-the-revolutionary-leap-into-web4-for-every-danish-municipality-nn6)
-- [Mastering Docker Containers: A Thrilling Virtual Arena](https://dev.to/labex/mastering-docker-containers-a-thrilling-virtual-arena-21i2)
-- [Component Based Architecture in Peasy-UI: Part 5 of the Peasy-UI Series](https://dev.to/jyoung4242/component-based-architecture-in-peasy-ui-part-5-of-the-peasy-ui-series-nim)
+- [Top Programming Languages for Web Development](https://dev.to/vuelancer/top-5-programming-languages-for-web-development-in-2024-52g6)
+- [Web Development Job in 2024](https://dev.to/vuelancer/top-ways-to-land-a-web-development-job-in-2024-4cj3)
+- [Creating lists in HTML](https://dev.to/epi2024/creating-lists-in-html-1p67)
+- [C# different way to do a proof of concept](https://dev.to/karenpayneoregon/c-different-way-to-do-a-proof-of-concept-2i1o)
 <!-- BLOG-POST-LIST:END -->
 
