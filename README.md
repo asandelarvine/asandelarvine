@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React Won the Front-End Race](https://dev.to/pranta/why-react-won-the-front-end-race-4e55)
-- [AvgPool2d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool2d-in-pytorch-2i25)
-- [Stylish Text Generator](https://dev.to/babar_ali/stylish-text-generator-3008)
-- [Why the Streams API is a Game-Changer for Web Developers](https://dev.to/anasmustafa123/why-the-streams-api-is-a-game-changer-for-web-developers-1030)
+- [Cube 3D animation](https://dev.to/babar_ali/cube-3d-animation-3km8)
+- [Lesson 10 – Using Public APIs to Simulate Employee Data](https://dev.to/dazevedo/lesson-10-using-public-apis-to-simulate-employee-data-1ma8)
+- [RNN - Recurrent Neural Network](https://dev.to/ragoli86/rnn-recurrent-neural-network-2mml)
+- [Automate Uploading Security Scan Results to DefectDojo](https://dev.to/sirlawdin/automate-uploading-security-scan-results-to-defectdojo-7e4)
 <!-- BLOG-POST-LIST:END -->
 
