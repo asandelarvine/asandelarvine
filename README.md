@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [টাইপস্ক্রিপ্ট: বেসিক থেকে অ্যাডভান্সড – একটি বিস্তারিত গাইড &lpar;উদাহরণ সহ&rpar;](https://dev.to/mdronyahmed/ttaaipskriptt-besik-theke-ayaaddbhaansdd-ektti-bistaarit-gaaidd-udaahrnn-sh-2di5)
-- [Collaborating on DSA Problems with JavaScript: Let&#39;s Solve Together!](https://dev.to/mahesh_pathak_57ad2da85c6/collaborating-on-dsa-problems-with-javascript-lets-solve-together-17o2)
-- [Redux: Town of Magical Order](https://dev.to/leg_end/redux-town-of-magical-order-eg7)
-- [Writing Better React Code: A Guide to Clean, Efficient Practices](https://dev.to/vyan/writing-better-react-code-a-guide-to-clean-efficient-practices-1h5l)
+- [Secure AWS API Gateway with IAM](https://dev.to/adilansari/secure-aws-api-gateway-with-iam-3n29)
+- [Mastering Command-Line Interfaces &lpar;CLI&rpar; in Python: A Comprehensive Guide](https://dev.to/usooldatascience/mastering-command-line-interfaces-cli-in-python-a-comprehensive-guide-10bc)
+- [Efficient Database Management: How SQLynx Helps You Easily Navigate Big Data](https://dev.to/urlewicz_aicha_d14af69bc8/efficient-database-management-how-sqlynx-helps-you-easily-navigate-big-data-2dhi)
+- [Recipe Genie supercharged with AI](https://dev.to/komsenapati/recipe-genie-supercharged-with-ai-121l)
 <!-- BLOG-POST-LIST:END -->
 
