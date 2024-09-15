@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Gland](https://dev.to/m__mdy__m/introduction-to-gland-1ien)
-- [6 Essential JavaScript Object Static Methods](https://dev.to/jenil/6-essential-javascript-object-static-methods-2477)
-- [Understanding DevOps and Its Impact on Modern Businesses](https://dev.to/ismailco96/understanding-devops-and-its-impact-on-modern-businesses-3pi)
-- [Mediator](https://dev.to/prashantrmishra/mediator-171p)
+- [Implementing Clickjacking Defense Techniques in JavaScript](https://dev.to/nilebits/implementing-clickjacking-defense-techniques-in-javascript-kdf)
+- [Spring Boot RestTemplate postForEntity method](https://dev.to/realnamehidden1_61/spring-boot-resttemplate-postforentity-method-4l25)
+- [Dica C#: Required Members](https://dev.to/juarezasjunior/dica-c-required-members-59al)
+- [C# Tip: Required Members](https://dev.to/juarezasjunior/c-tip-required-members-14el)
 <!-- BLOG-POST-LIST:END -->
 
