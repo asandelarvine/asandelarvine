@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kubernetes Powers Cloud-Native Applications: A KCNA Candidate’s Guide](https://dev.to/tondrejk/how-kubernetes-powers-cloud-native-applications-a-kcna-candidates-guide-5aki)
-- [1.Hello, world](https://dev.to/munisekharudavalapati/1hello-world-375b)
-- [Upgrading AKS: In-Place, Blue-Green, and Canary Upgrades Explained 🚀](https://dev.to/hkhelil/upgrading-aks-in-place-blue-green-and-canary-upgrades-explained-3aap)
-- [Achieving ISO 27001 Certification](https://dev.to/buzzgk/achieving-iso-27001-certification-90j)
+- [Introduction to Gland](https://dev.to/m__mdy__m/introduction-to-gland-1ien)
+- [6 Essential JavaScript Object Static Methods](https://dev.to/jenil/6-essential-javascript-object-static-methods-2477)
+- [Understanding DevOps and Its Impact on Modern Businesses](https://dev.to/ismailco96/understanding-devops-and-its-impact-on-modern-businesses-3pi)
+- [Mediator](https://dev.to/prashantrmishra/mediator-171p)
 <!-- BLOG-POST-LIST:END -->
 
