@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cube 3D animation](https://dev.to/babar_ali/cube-3d-animation-3km8)
-- [Lesson 10 – Using Public APIs to Simulate Employee Data](https://dev.to/dazevedo/lesson-10-using-public-apis-to-simulate-employee-data-1ma8)
-- [RNN - Recurrent Neural Network](https://dev.to/ragoli86/rnn-recurrent-neural-network-2mml)
-- [Automate Uploading Security Scan Results to DefectDojo](https://dev.to/sirlawdin/automate-uploading-security-scan-results-to-defectdojo-7e4)
+- [Day 6. Work on Sunday](https://dev.to/kiolk/day-6-work-on-sunday-4eaf)
+- [Building a RESTful API with Node.js: A Step-by-Step Guide - Part Two - Node Modules](https://dev.to/hakimmohamed/building-a-restful-api-with-nodejs-a-step-by-step-guide-part-two-node-modules-4on8)
+- [JavaScript Array Methods: A Comprehensive Guide](https://dev.to/who_tf_cares/javascript-array-methods-a-comprehensive-guide-4966)
+- [Rainfall Animation](https://dev.to/babar_ali/rainfall-animation-28gn)
 <!-- BLOG-POST-LIST:END -->
 
