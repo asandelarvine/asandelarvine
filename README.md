@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java logical interview question | Sum a list but ignore any duplicates codewars java solution](https://dev.to/realnamehidden1_61/java-logical-interview-question-sum-a-list-but-ignore-any-duplicates-codewars-java-solution-54lc)
-- [Collections.reverseOrder&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsreverseorder-method-in-java-1dpc)
-- [Collections.min&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmin-method-in-java-4505)
-- [Automate Like a Pro: Mastering Component Generation in React with Generate React CLI](https://dev.to/01erik33/automate-like-a-pro-mastering-component-generation-in-react-with-generate-react-cli-51h)
+- [🚀 Introducing UI Slice: Your Ultimate Tool for Code Snippets and Reuse](https://dev.to/christapore/introducing-ui-slice-your-ultimate-tool-for-code-snippets-and-reuse-24j0)
+- [Deploy Your Static Web App on AWS S3 in just 10 Minutes](https://dev.to/aws-builders/deploy-your-static-web-app-on-aws-s3-in-just-10-minutes-23l5)
+- [How to make a URL Shortener from scratch](https://dev.to/tzgyn/how-to-make-a-url-shortener-from-scratch-ec5)
+- [Master React Global State with a Custom Hook: Simplify Your App’s State Management](https://dev.to/qobi/master-react-global-state-with-a-custom-hook-simplify-your-apps-state-management-4del)
 <!-- BLOG-POST-LIST:END -->
 
