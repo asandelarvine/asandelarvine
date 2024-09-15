@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AvgPool1d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool1d-in-pytorch-k7e)
-- [Pooling AMQP TLS connections in Elixir for high throughput and low latency](https://dev.to/darnahsan/pooling-amqp-tls-connections-in-elixir-for-high-throughput-and-low-latency-3pgb)
-- [How do DBAs get promoted in the workplace](https://dev.to/urlewicz_aicha_d14af69bc8/how-do-dbas-get-promoted-in-the-workplace-3cb7)
-- [How AI is Becoming Your Best Friend &lpar;and Secret Weapon&rpar; as a Web Developer](https://dev.to/bhuwan71/how-ai-is-becoming-your-best-friend-and-secret-weapon-as-a-web-developer-2hk3)
+- [টাইপস্ক্রিপ্ট: বেসিক থেকে অ্যাডভান্সড – একটি বিস্তারিত গাইড &lpar;উদাহরণ সহ&rpar;](https://dev.to/mdronyahmed/ttaaipskriptt-besik-theke-ayaaddbhaansdd-ektti-bistaarit-gaaidd-udaahrnn-sh-2di5)
+- [Collaborating on DSA Problems with JavaScript: Let&#39;s Solve Together!](https://dev.to/mahesh_pathak_57ad2da85c6/collaborating-on-dsa-problems-with-javascript-lets-solve-together-17o2)
+- [Redux: Town of Magical Order](https://dev.to/leg_end/redux-town-of-magical-order-eg7)
+- [Writing Better React Code: A Guide to Clean, Efficient Practices](https://dev.to/vyan/writing-better-react-code-a-guide-to-clean-efficient-practices-1h5l)
 <!-- BLOG-POST-LIST:END -->
 
