@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Views no DRF: Funções ou classes? A escolha simples](https://dev.to/lmancini/views-no-drf-funcoes-ou-classes-a-escolha-simples-4jge)
-- [Kako se Pripremiti za Intervju za React Developera?](https://dev.to/jelena_petkovic/kako-se-pripremiti-za-intervju-za-react-developera-1e5a)
-- [In the future, will it be possible to have links on the Codeberg dev community profile or on Gitlab?](https://dev.to/sc0v0ne/in-the-future-will-it-be-possible-to-have-links-on-the-codeberg-dev-community-profile-or-on-gitlab-4hdn)
-- [Social network X &lpar;Twitter&rpar; was banned in Brazil and is it possible to have new links?](https://dev.to/sc0v0ne/social-network-x-twitter-was-banned-in-brazil-and-is-it-possible-to-have-new-links-3k6e)
+- [🎮 Understanding the Difference: Game Art vs. Game Design vs. Game Development](https://dev.to/uicraft_by_pratik/understanding-the-difference-game-art-vs-game-design-vs-game-development-4jkj)
+- [Flashing Message in Laravel](https://dev.to/fadlidotdev/flashing-message-in-laravel-a22)
+- [Can you solve this problem?](https://dev.to/paul_freeman/can-you-solve-this-problem-e22)
+- [Love you all](https://dev.to/babar_ali/a-3hd1)
 <!-- BLOG-POST-LIST:END -->
 
