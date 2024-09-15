@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6. Work on Sunday](https://dev.to/kiolk/day-6-work-on-sunday-4eaf)
-- [Building a RESTful API with Node.js: A Step-by-Step Guide - Part Two - Node Modules](https://dev.to/hakimmohamed/building-a-restful-api-with-nodejs-a-step-by-step-guide-part-two-node-modules-4on8)
-- [JavaScript Array Methods: A Comprehensive Guide](https://dev.to/who_tf_cares/javascript-array-methods-a-comprehensive-guide-4966)
-- [Rainfall Animation](https://dev.to/babar_ali/rainfall-animation-28gn)
+- [VSCode Extension for finding Vulnerabilities and Outdated Dependencies.](https://dev.to/sunil_kumar_69cd12f1d738b/vscode-extension-for-finding-vulnerabilities-and-outdated-dependencies-2jmm)
+- [The Power of Reflection: Recognizing Your Efforts. Don&#39;t Let Expectations Steal Your Joy.](https://dev.to/gregharis/the-power-of-reflection-recognizing-your-efforts-dont-let-expectations-steal-your-joy-43nd)
+- [Top 6 Queue Management Solutions for Your Next.js App &lpar;2024&rpar;](https://dev.to/ethanleetech/top-6-queue-management-solutions-for-your-nextjs-app-2024-mal)
+- [Explorando org-babel en emacs](https://dev.to/johnnatan_sandovalcardon/explorando-org-babel-en-emacs-4ak0)
 <!-- BLOG-POST-LIST:END -->
 
