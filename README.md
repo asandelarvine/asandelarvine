@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure AWS API Gateway with IAM](https://dev.to/adilansari/secure-aws-api-gateway-with-iam-3n29)
-- [Mastering Command-Line Interfaces &lpar;CLI&rpar; in Python: A Comprehensive Guide](https://dev.to/usooldatascience/mastering-command-line-interfaces-cli-in-python-a-comprehensive-guide-10bc)
-- [Efficient Database Management: How SQLynx Helps You Easily Navigate Big Data](https://dev.to/urlewicz_aicha_d14af69bc8/efficient-database-management-how-sqlynx-helps-you-easily-navigate-big-data-2dhi)
-- [Recipe Genie supercharged with AI](https://dev.to/komsenapati/recipe-genie-supercharged-with-ai-121l)
+- [Package Manager Fight: npm vs pnpm vs npx vs yarn vs bun](https://dev.to/vsnikhilvs/package-manager-fight-npm-vs-pnpm-vs-npx-vs-yarn-vs-bun-569)
+- [API Integration](https://dev.to/abdun_noor_shihab/api-integration-9i4)
+- [Choose the Best Storage Options for Your WordPress Media Files](https://dev.to/sharony/choose-the-best-storage-options-for-your-wordpress-media-files-3mo6)
+- [DB ts Input](https://dev.to/abdun_noor_shihab/db-ts-input-b4d)
 <!-- BLOG-POST-LIST:END -->
 
