@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing UI Slice: Your Ultimate Tool for Code Snippets and Reuse](https://dev.to/christapore/introducing-ui-slice-your-ultimate-tool-for-code-snippets-and-reuse-24j0)
-- [Deploy Your Static Web App on AWS S3 in just 10 Minutes](https://dev.to/aws-builders/deploy-your-static-web-app-on-aws-s3-in-just-10-minutes-23l5)
-- [How to make a URL Shortener from scratch](https://dev.to/tzgyn/how-to-make-a-url-shortener-from-scratch-ec5)
-- [Master React Global State with a Custom Hook: Simplify Your App’s State Management](https://dev.to/qobi/master-react-global-state-with-a-custom-hook-simplify-your-apps-state-management-4del)
+- [How Kubernetes Powers Cloud-Native Applications: A KCNA Candidate’s Guide](https://dev.to/tondrejk/how-kubernetes-powers-cloud-native-applications-a-kcna-candidates-guide-5aki)
+- [1.Hello, world](https://dev.to/munisekharudavalapati/1hello-world-375b)
+- [Upgrading AKS: In-Place, Blue-Green, and Canary Upgrades Explained 🚀](https://dev.to/hkhelil/upgrading-aks-in-place-blue-green-and-canary-upgrades-explained-3aap)
+- [Achieving ISO 27001 Certification](https://dev.to/buzzgk/achieving-iso-27001-certification-90j)
 <!-- BLOG-POST-LIST:END -->
 
