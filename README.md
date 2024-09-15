@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Programming Languages for Web Development](https://dev.to/vuelancer/top-5-programming-languages-for-web-development-in-2024-52g6)
-- [Web Development Job in 2024](https://dev.to/vuelancer/top-ways-to-land-a-web-development-job-in-2024-4cj3)
-- [Creating lists in HTML](https://dev.to/epi2024/creating-lists-in-html-1p67)
-- [C# different way to do a proof of concept](https://dev.to/karenpayneoregon/c-different-way-to-do-a-proof-of-concept-2i1o)
+- [SSR in Next.js 14: What’s New in App Routing Compared to Page Routing](https://dev.to/asim_khan_cbe65e41bcbbc65/understanding-nextjs-page-routing-vs-app-routing-and-ssr-changes-in-nextjs-14-2cge)
+- [Flutter Date and Time Picker](https://dev.to/aadarshk7/flutter-popupmenubutton-1a4i)
+- [Como otimizar seu currículo para vagas na gringa](https://dev.to/lucasheriques/como-otimizar-seu-curriculo-para-vagas-na-gringa-1ffh)
+- [Shut up TensorFlow](https://dev.to/tallesl/shut-up-tensorflow-8)
 <!-- BLOG-POST-LIST:END -->
 
