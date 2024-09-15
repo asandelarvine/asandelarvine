@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SSR in Next.js 14: What’s New in App Routing Compared to Page Routing](https://dev.to/asim_khan_cbe65e41bcbbc65/understanding-nextjs-page-routing-vs-app-routing-and-ssr-changes-in-nextjs-14-2cge)
-- [Flutter Date and Time Picker](https://dev.to/aadarshk7/flutter-popupmenubutton-1a4i)
-- [Como otimizar seu currículo para vagas na gringa](https://dev.to/lucasheriques/como-otimizar-seu-curriculo-para-vagas-na-gringa-1ffh)
-- [Shut up TensorFlow](https://dev.to/tallesl/shut-up-tensorflow-8)
+- [Why React Won the Front-End Race](https://dev.to/pranta/why-react-won-the-front-end-race-4e55)
+- [AvgPool2d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool2d-in-pytorch-2i25)
+- [Stylish Text Generator](https://dev.to/babar_ali/stylish-text-generator-3008)
+- [Why the Streams API is a Game-Changer for Web Developers](https://dev.to/anasmustafa123/why-the-streams-api-is-a-game-changer-for-web-developers-1030)
 <!-- BLOG-POST-LIST:END -->
 
