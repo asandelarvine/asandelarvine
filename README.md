@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Package Manager Fight: npm vs pnpm vs npx vs yarn vs bun](https://dev.to/vsnikhilvs/package-manager-fight-npm-vs-pnpm-vs-npx-vs-yarn-vs-bun-569)
-- [API Integration](https://dev.to/abdun_noor_shihab/api-integration-9i4)
-- [Choose the Best Storage Options for Your WordPress Media Files](https://dev.to/sharony/choose-the-best-storage-options-for-your-wordpress-media-files-3mo6)
-- [DB ts Input](https://dev.to/abdun_noor_shihab/db-ts-input-b4d)
+- [Java logical interview question | Sum a list but ignore any duplicates codewars java solution](https://dev.to/realnamehidden1_61/java-logical-interview-question-sum-a-list-but-ignore-any-duplicates-codewars-java-solution-54lc)
+- [Collections.reverseOrder&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsreverseorder-method-in-java-1dpc)
+- [Collections.min&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmin-method-in-java-4505)
+- [Automate Like a Pro: Mastering Component Generation in React with Generate React CLI](https://dev.to/01erik33/automate-like-a-pro-mastering-component-generation-in-react-with-generate-react-cli-51h)
 <!-- BLOG-POST-LIST:END -->
 
