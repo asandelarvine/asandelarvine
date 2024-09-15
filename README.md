@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Box Model in CSS: The Ultimate Guide to Crafting Precise Layouts](https://dev.to/areeb_anwar_813df06ee1124/box-model-in-css-the-ultimate-guide-to-crafting-precise-layouts-46bo)
-- [Building Real-Time Applications with Socket.io](https://dev.to/kartikmehta8/building-real-time-applications-with-socketio-51c0)
-- [Quick tip: Build Vector Embeddings for Video via Python Notebook &amp; OpenAI CLIP](https://dev.to/singlestore/quick-tip-build-vector-embeddings-for-video-via-python-notebook-openai-clip-24d9)
-- [How I Created a Tool — Medium2Markdown](https://dev.to/aws-builders/how-i-created-a-tool-medium2markdown-40k)
+- [Create a secure AWS RDS instance with CDK](https://dev.to/rodrigo_carvajal/create-a-secure-aws-rds-instance-with-cdk-5baf)
+- [Top 7 Backend-as-a-Service &lpar;BaaS&rpar; for Next.js](https://dev.to/ethanleetech/top-7-backend-as-a-service-baas-for-nextjs-32mc)
+- [How to install bootstrap 5 with Webpacker in a Ruby on Rails 6 application on Ubuntu](https://dev.to/alexandrecalaca/how-to-install-bootstrap-5-with-webpacker-in-a-ruby-on-rails-6-application-on-ubuntu-39bi)
+- [Jetmaker - open source framework for building distributed systems in Python](https://dev.to/gavin121/jetmaker-open-source-framework-for-building-distributed-systems-in-python-343g)
 <!-- BLOG-POST-LIST:END -->
 
