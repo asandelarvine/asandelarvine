@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps Series - Azure Artifacts](https://dev.to/prodevopsguytech/azure-devops-series-azure-artifacts-27m0)
-- [Azure DevOps Series - Azure Repos](https://dev.to/prodevopsguytech/azure-devops-series-azure-repos-23pj)
-- [Azure DevOps Series - Azure Pipelines](https://dev.to/prodevopsguytech/azure-devops-series-azure-pipelines-94m)
-- [Azure DevOps Series - Azure Boards](https://dev.to/prodevopsguytech/azure-devops-series-azure-boards-86)
+- [State Management in React: When to Use Context API vs. Redux](https://dev.to/sbtechshare/state-management-in-react-when-to-use-context-api-vs-redux-5g4e)
+- [Unleash Your Coding Superpowers with the Comprehensive Git Guide 🚀](https://dev.to/getvm/unleash-your-coding-superpowers-with-the-comprehensive-git-guide-3086)
+- [Creating a Smooth Animated Menu with React and Framer Motion](https://dev.to/netanelben/creating-a-smooth-animated-menu-with-react-and-framer-motion-2e69)
+- [Monday Motivation: How&#39;s Your Week Shaping Up?](https://dev.to/respect17/monday-motivation-hows-your-week-shaping-up-1pc5)
 <!-- BLOG-POST-LIST:END -->
 
