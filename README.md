@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Dilemma: Master the Fundamentals or Fall Behind](https://dev.to/evan_m_wilson/the-developers-dilemma-master-the-fundamentals-or-fall-behind-100p)
-- [ReactDOM.unstable_batchedUpdates in Zustand’s testcase.](https://dev.to/thinkthroo/reactdomunstablebatchedupdates-in-zustands-testcase-4led)
-- [DNS Resolution and TCP Handshake: A Comprehensive Guide](https://dev.to/mahhbubferdous/dns-resolution-and-tcp-handshake-a-comprehensive-guide-4755)
-- [Create Multiple GitHub Actions in a Single Repository](https://dev.to/kimberly_myers_212/create-multiple-github-actions-in-a-single-repository-8d5)
+- [7 Things You Must Know Before Diving Into Web Development](https://dev.to/areeb_anwar_813df06ee1124/7-things-you-must-know-before-diving-into-web-development-45fm)
+- [How Top Models Like DALL-E 3 Are Accidentally Stealing Superheroes &lpar;And What We Can Do About It&rpar;](https://dev.to/shagun_mistry/how-top-models-like-dall-e-3-are-accidentally-stealing-superheroes-and-what-we-can-do-about-it-1c8j)
+- [How to Turn On Chrome OS Developer Mode: Step-by-Step Guide &lpar;2024&rpar;](https://dev.to/codesolutionshub/how-to-turn-on-chrome-os-developer-mode-step-by-step-guide-2024-190j)
+- [my journey with next,js and django for the past two weeks.](https://dev.to/elvis_munene_eaa0c75fb775/my-journey-with-nextjs-and-django-for-the-past-two-weeks-nd6)
 <!-- BLOG-POST-LIST:END -->
 
