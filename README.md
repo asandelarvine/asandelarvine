@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prop Destructuring in React](https://dev.to/taban_awanbiorchol_e3f5/prop-destructuring-in-react-1kje)
-- [Blockchain Developer with Web3 and AMM Bot Experience](https://dev.to/filip_porter_1effe6a139e1/blockchain-developer-with-web3-and-amm-bot-experience-3med)
-- [let talk about JavaScript History and Evolution: Why It’s the Language of the Web 💻✨](https://dev.to/erasmuskotoka/let-talk-about-javascript-history-and-evolution-why-its-the-language-of-the-web-dm4)
-- [A type theory mnemonic for boolean operator precedence](https://dev.to/yawaramin/a-type-theory-mnemonic-for-boolean-operator-precedence-144c)
+- [MSYS2 alternatif kepada WSL2](https://dev.to/hardyweb/msys2-alternatif-kepada-wsl2-1k0k)
+- [How Artificial Intelligence is Revolutionising Pergola Design](https://dev.to/luke_leech_e6bebf0dcc50d6/how-artificial-intelligence-is-revolutionising-pergola-design-132k)
+- [CSS Art: Space - UFO animation](https://dev.to/nataliafdev/css-art-space-ufo-animation-94h)
+- [Securely Connecting Azure Container Apps to Azure OpenAI Using User Managed Identity](https://dev.to/azure/securely-connecting-azure-container-apps-to-azure-openai-using-user-managed-identity-3369)
 <!-- BLOG-POST-LIST:END -->
 
