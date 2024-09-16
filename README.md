@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 Unleash Your Inner Code Wizard with Free Programming Books! 🧙‍♂️💻](https://dev.to/hadil/unleash-your-inner-code-wizard-with-free-programming-books-30pn)
-- [Interview with a Real Hiring Manager](https://dev.to/webbswideworld/interview-with-a-real-hiring-manager-1o3m)
-- [How to Set Up Git Aliases](https://dev.to/jsdevspace/how-to-set-up-git-aliases-1hge)
-- [3 software development principles I wish I knew earlier in my career](https://dev.to/petarivanovv9/3-software-development-principles-i-wish-i-knew-earlier-in-my-career-2c8m)
+- [AIM Weekly for 16 Sept 2024](https://dev.to/tspannhw/aim-weekly-for-16-sept-2024-236h)
+- [What is AWS and How Can It Transform Your Cloud Infrastructure?](https://dev.to/eva_rossi/what-is-aws-and-how-can-it-transform-your-cloud-infrastructure-3m17)
+- [Mastering the Event Loop for High-Performance JavaScript](https://dev.to/sarvabharan/mastering-the-event-loop-for-high-performance-javascript-2754)
+- [Pure Function in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/pure-function-in-javascript-3ck)
 <!-- BLOG-POST-LIST:END -->
 
