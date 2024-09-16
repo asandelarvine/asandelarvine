@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django File Structure for Developers](https://dev.to/digvijay_singhrajput_38b/django-file-structure-for-developers-4i68)
-- [Understanding IP Addresses](https://dev.to/mahhbubferdous/understanding-ip-addresses-4lif)
-- [Rethinking code reviews with stacked PRs](https://dev.to/dphenomenal/rethinking-code-reviews-with-stacked-prs-3dih)
-- [Spring Security: Protecting Your App from Everyone &lpar;Including You!&rpar;](https://dev.to/nikhilxd/spring-security-protecting-your-app-from-everyone-including-you-1023)
+- [The Developer’s Dilemma: Master the Fundamentals or Fall Behind](https://dev.to/evan_m_wilson/the-developers-dilemma-master-the-fundamentals-or-fall-behind-100p)
+- [ReactDOM.unstable_batchedUpdates in Zustand’s testcase.](https://dev.to/thinkthroo/reactdomunstablebatchedupdates-in-zustands-testcase-4led)
+- [DNS Resolution and TCP Handshake: A Comprehensive Guide](https://dev.to/mahhbubferdous/dns-resolution-and-tcp-handshake-a-comprehensive-guide-4755)
+- [Create Multiple GitHub Actions in a Single Repository](https://dev.to/kimberly_myers_212/create-multiple-github-actions-in-a-single-repository-8d5)
 <!-- BLOG-POST-LIST:END -->
 
