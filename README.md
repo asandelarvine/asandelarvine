@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing simpledev.css](https://dev.to/jhonkaman/introducing-simpledevcss-15ca)
-- [Are JavaScript Libraries Getting Out of Hand?](https://dev.to/ife_oluwa/are-javascript-libraries-getting-out-of-hand-7lj)
-- [Dashing to the dashboard!](https://dev.to/codecara/dashing-to-the-dashboard-4i4n)
-- [Day 7. First week](https://dev.to/kiolk/day-7-first-week-4a2p)
+- [Is the Future Open Infrastructure? Why Cloud Giants Like AWS, GCP, and Azure Aren’t the Answer They Seemed to Be](https://dev.to/lucasdeataides/is-the-future-open-infrastructure-why-cloud-giants-like-aws-gcp-and-azure-arent-the-answer-they-seemed-to-be-570m)
+- [Mastering Python Object-Oriented Programming &lpar;OOP&rpar;: A Comprehensive Guide with Examples](https://dev.to/usooldatascience/mastering-python-object-oriented-programming-oop-a-comprehensive-guide-with-examples-f5g)
+- [Optimizing Python Code Using cProfile and PyPy module: A Complete Guide](https://dev.to/usooldatascience/optimizing-python-code-using-cprofile-and-pypy-module-a-complete-guide-4779)
+- [Exploring Machine Learning Careers: Your Path to Success in AI](https://dev.to/aisquare/exploring-machine-learning-careers-your-path-to-success-in-ai-4nl2)
 <!-- BLOG-POST-LIST:END -->
 
