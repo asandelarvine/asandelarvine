@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚔️ Next.js vs Express: The Battle of Framework Giants in 2024—Which One Should You Choose?](https://dev.to/dharamgfx/nextjs-vs-express-the-battle-of-framework-giants-in-2024-which-one-should-you-choose-128h)
-- [OneDev on ECS - How to host your own instance of OneDev on AWS](https://dev.to/aws-builders/onedev-on-ecs-how-to-host-your-own-instance-of-onedev-on-aws-3h7j)
-- [SAP Basis snippets #7](https://dev.to/ashwinsharmap/sap-basis-snippets-7-29h9)
-- [Azure Tutorial for Beginners: Build Your First Cloud Project](https://dev.to/s3cloudhub/azure-tutorial-for-beginners-build-your-first-cloud-project-57h1)
+- [Azure DevOps Series - Azure Artifacts](https://dev.to/prodevopsguytech/azure-devops-series-azure-artifacts-27m0)
+- [Azure DevOps Series - Azure Repos](https://dev.to/prodevopsguytech/azure-devops-series-azure-repos-23pj)
+- [Azure DevOps Series - Azure Pipelines](https://dev.to/prodevopsguytech/azure-devops-series-azure-pipelines-94m)
+- [Azure DevOps Series - Azure Boards](https://dev.to/prodevopsguytech/azure-devops-series-azure-boards-86)
 <!-- BLOG-POST-LIST:END -->
 
