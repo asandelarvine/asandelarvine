@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert PDF Pages to Images in Node.js](https://dev.to/yashnarkhedkar/how-to-convert-pdf-pages-to-images-in-nodejs-2a6k)
-- [Key Differences Between Supervised, Unsupervised, and Reinforcement Learning](https://dev.to/adityabhuyan/key-differences-between-supervised-unsupervised-and-reinforcement-learning-280n)
-- [How to Connect Java Database Connectivity with MySQL in Visual Studio Code on macOS](https://dev.to/adityabhuyan/how-to-connect-java-database-connectivity-with-mysql-in-visual-studio-code-on-macos-1m4g)
-- [How to Create a Type to Retrieve All Keys of an Object in TypeScript](https://dev.to/zacharylee/how-to-create-a-type-to-retrieve-all-keys-of-an-object-in-typescript-54dn)
+- [⚔️ Next.js vs Express: The Battle of Framework Giants in 2024—Which One Should You Choose?](https://dev.to/dharamgfx/nextjs-vs-express-the-battle-of-framework-giants-in-2024-which-one-should-you-choose-128h)
+- [OneDev on ECS - How to host your own instance of OneDev on AWS](https://dev.to/aws-builders/onedev-on-ecs-how-to-host-your-own-instance-of-onedev-on-aws-3h7j)
+- [SAP Basis snippets #7](https://dev.to/ashwinsharmap/sap-basis-snippets-7-29h9)
+- [Azure Tutorial for Beginners: Build Your First Cloud Project](https://dev.to/s3cloudhub/azure-tutorial-for-beginners-build-your-first-cloud-project-57h1)
 <!-- BLOG-POST-LIST:END -->
 
