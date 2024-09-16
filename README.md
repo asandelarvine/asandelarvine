@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubescape : Comprehensive Kubernetes Security from Development to Runtime](https://dev.to/farshad_nick/kubescape-comprehensive-kubernetes-security-from-development-to-runtime-2k80)
-- [Unlocking the Power of Ephemeral Environments with Devtron](https://dev.to/devtron_inc/unlocking-the-power-of-ephemeral-environments-with-devtron-3bp7)
-- [Implementing Contextual Binding at Compile Time for Payment Processing in Laravel 11](https://dev.to/websilvercraft/implementing-contextual-binding-at-compile-time-for-payment-processing-in-laravel-11-3h9g)
-- [Proven Tips to Optimize Performance in Your Next.js App ⚡️](https://dev.to/alisamir/proven-tips-to-optimize-performance-in-your-nextjs-app-lpc)
+- [📚 Unleash Your Inner Code Wizard with Free Programming Books! 🧙‍♂️💻](https://dev.to/hadil/unleash-your-inner-code-wizard-with-free-programming-books-30pn)
+- [Interview with a Real Hiring Manager](https://dev.to/webbswideworld/interview-with-a-real-hiring-manager-1o3m)
+- [How to Set Up Git Aliases](https://dev.to/jsdevspace/how-to-set-up-git-aliases-1hge)
+- [3 software development principles I wish I knew earlier in my career](https://dev.to/petarivanovv9/3-software-development-principles-i-wish-i-knew-earlier-in-my-career-2c8m)
 <!-- BLOG-POST-LIST:END -->
 
