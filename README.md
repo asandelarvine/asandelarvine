@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dự án cuối cùng - Final Project](https://dev.to/huydanggdg/du-an-cuoi-cung-final-project-49ek)
-- [Mastering Nivo Charts: A Comprehensive Guide to Data Visualization](https://dev.to/creowistech/mastering-nivo-charts-a-comprehensive-guide-to-data-visualization-159d)
-- [✍️ Code Comments](https://dev.to/oscareduardolp6/code-comments-45le)
-- [Draw Diagrams in READMEs using Mermaid](https://dev.to/farisdurrani/draw-diagrams-in-readmes-using-mermaid-1c49)
+- [How to Convert PDF Pages to Images in Node.js](https://dev.to/yashnarkhedkar/how-to-convert-pdf-pages-to-images-in-nodejs-2a6k)
+- [Key Differences Between Supervised, Unsupervised, and Reinforcement Learning](https://dev.to/adityabhuyan/key-differences-between-supervised-unsupervised-and-reinforcement-learning-280n)
+- [How to Connect Java Database Connectivity with MySQL in Visual Studio Code on macOS](https://dev.to/adityabhuyan/how-to-connect-java-database-connectivity-with-mysql-in-visual-studio-code-on-macos-1m4g)
+- [How to Create a Type to Retrieve All Keys of an Object in TypeScript](https://dev.to/zacharylee/how-to-create-a-type-to-retrieve-all-keys-of-an-object-in-typescript-54dn)
 <!-- BLOG-POST-LIST:END -->
 
