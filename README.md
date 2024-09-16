@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Try/Catch with This New ECMAScript Operator! 🚀](https://dev.to/safdarali/say-goodbye-to-trycatch-with-this-new-ecmascript-operator-3a7j)
-- [Let me tell you a story](https://dev.to/morphzg/i-will-tell-you-a-story-n5k)
-- [Open Source Adventures: First Contributions and Collaborations](https://dev.to/majd_almnayer_2101/open-source-adventures-first-contributions-and-collaborations-2060)
-- [Thrilling Week in Sports: Highlights and Standouts](https://dev.to/emma_mblankenship_6be4b/thrilling-week-in-sports-highlights-and-standouts-507k)
+- [Prop Destructuring in React](https://dev.to/taban_awanbiorchol_e3f5/prop-destructuring-in-react-1kje)
+- [Blockchain Developer with Web3 and AMM Bot Experience](https://dev.to/filip_porter_1effe6a139e1/blockchain-developer-with-web3-and-amm-bot-experience-3med)
+- [let talk about JavaScript History and Evolution: Why It’s the Language of the Web 💻✨](https://dev.to/erasmuskotoka/let-talk-about-javascript-history-and-evolution-why-its-the-language-of-the-web-dm4)
+- [A type theory mnemonic for boolean operator precedence](https://dev.to/yawaramin/a-type-theory-mnemonic-for-boolean-operator-precedence-144c)
 <!-- BLOG-POST-LIST:END -->
 
