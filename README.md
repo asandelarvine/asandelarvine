@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Things You Must Know Before Diving Into Web Development](https://dev.to/areeb_anwar_813df06ee1124/7-things-you-must-know-before-diving-into-web-development-45fm)
-- [How Top Models Like DALL-E 3 Are Accidentally Stealing Superheroes &lpar;And What We Can Do About It&rpar;](https://dev.to/shagun_mistry/how-top-models-like-dall-e-3-are-accidentally-stealing-superheroes-and-what-we-can-do-about-it-1c8j)
-- [How to Turn On Chrome OS Developer Mode: Step-by-Step Guide &lpar;2024&rpar;](https://dev.to/codesolutionshub/how-to-turn-on-chrome-os-developer-mode-step-by-step-guide-2024-190j)
-- [my journey with next,js and django for the past two weeks.](https://dev.to/elvis_munene_eaa0c75fb775/my-journey-with-nextjs-and-django-for-the-past-two-weeks-nd6)
+- [Introducing simpledev.css](https://dev.to/jhonkaman/introducing-simpledevcss-15ca)
+- [Are JavaScript Libraries Getting Out of Hand?](https://dev.to/ife_oluwa/are-javascript-libraries-getting-out-of-hand-7lj)
+- [Dashing to the dashboard!](https://dev.to/codecara/dashing-to-the-dashboard-4i4n)
+- [Day 7. First week](https://dev.to/kiolk/day-7-first-week-4a2p)
 <!-- BLOG-POST-LIST:END -->
 
