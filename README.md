@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Pizza CLI](https://dev.to/opensauced/introducing-the-pizza-cli-1g6f)
-- [IPv6 Migration Simplified: Techpartner&#39;s Blueprint for Future-Proofing Your Network](https://dev.to/arunasri/ipv6-migration-simplified-techpartners-blueprint-for-future-proofing-your-network-5hgp)
-- [LinkedIn Explains: How To Secure Your JWTs](https://dev.to/kuvambhardwaj/linkedin-explains-how-to-secure-your-jwts-17dc)
-- [Understanding the Spread Operator in JavaScript: An example of such in MongoDB Product Management](https://dev.to/syriamme/understanding-the-spread-operator-in-javascript-an-example-of-such-in-mongodb-product-management-47ib)
+- [Getting Started with AI Development: My Journey with Embeddings and Vector Databases](https://dev.to/bolajibolajoko51/getting-started-with-ai-development-my-journey-with-embeddings-and-vector-databases-588g)
+- [SOLID Principles in object-oriented design](https://dev.to/muzammilnm/solid-principles-in-object-oriented-design-37pg)
+- [NeoHaskell v0.5.0 - HTTP, TOML, Nested Actions Now Executed and Major Refactoring](https://dev.to/neohaskell/neohaskell-v050-http-toml-nested-actions-now-executed-and-major-refactoring-4cb6)
+- [Build an image editor with Fabric.js v6](https://dev.to/logrocket/build-an-image-editor-with-fabricjs-v6-35n9)
 <!-- BLOG-POST-LIST:END -->
 
