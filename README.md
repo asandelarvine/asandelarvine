@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AI Development: My Journey with Embeddings and Vector Databases](https://dev.to/bolajibolajoko51/getting-started-with-ai-development-my-journey-with-embeddings-and-vector-databases-588g)
-- [SOLID Principles in object-oriented design](https://dev.to/muzammilnm/solid-principles-in-object-oriented-design-37pg)
-- [NeoHaskell v0.5.0 - HTTP, TOML, Nested Actions Now Executed and Major Refactoring](https://dev.to/neohaskell/neohaskell-v050-http-toml-nested-actions-now-executed-and-major-refactoring-4cb6)
-- [Build an image editor with Fabric.js v6](https://dev.to/logrocket/build-an-image-editor-with-fabricjs-v6-35n9)
+- [Honukai Color Theme Goes IDE](https://dev.to/chrisdigital/honukai-color-theme-goes-ide-313d)
+- [Unlisted GitHub Repositories](https://dev.to/agentender/unlisted-github-repositories-4jin)
+- [Building Your First AWS VPC with Public and Private Subnets](https://dev.to/prakash_rao/building-your-first-aws-vpc-with-public-and-private-subnets-33jo)
+- [My Journey as a Game Developer: From Single-Player Adventures to Multiplayer Worlds](https://dev.to/hayyanraza/my-journey-as-a-game-developer-from-single-player-adventures-to-multiplayer-worlds-4fm0)
 <!-- BLOG-POST-LIST:END -->
 
