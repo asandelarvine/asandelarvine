@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Honukai Color Theme Goes IDE](https://dev.to/chrisdigital/honukai-color-theme-goes-ide-313d)
-- [Unlisted GitHub Repositories](https://dev.to/agentender/unlisted-github-repositories-4jin)
-- [Building Your First AWS VPC with Public and Private Subnets](https://dev.to/prakash_rao/building-your-first-aws-vpc-with-public-and-private-subnets-33jo)
-- [My Journey as a Game Developer: From Single-Player Adventures to Multiplayer Worlds](https://dev.to/hayyanraza/my-journey-as-a-game-developer-from-single-player-adventures-to-multiplayer-worlds-4fm0)
+- [Django File Structure for Developers](https://dev.to/digvijay_singhrajput_38b/django-file-structure-for-developers-4i68)
+- [Understanding IP Addresses](https://dev.to/mahhbubferdous/understanding-ip-addresses-4lif)
+- [Rethinking code reviews with stacked PRs](https://dev.to/dphenomenal/rethinking-code-reviews-with-stacked-prs-3dih)
+- [Spring Security: Protecting Your App from Everyone &lpar;Including You!&rpar;](https://dev.to/nikhilxd/spring-security-protecting-your-app-from-everyone-including-you-1023)
 <!-- BLOG-POST-LIST:END -->
 
