@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State Management in React: When to Use Context API vs. Redux](https://dev.to/sbtechshare/state-management-in-react-when-to-use-context-api-vs-redux-5g4e)
-- [Unleash Your Coding Superpowers with the Comprehensive Git Guide 🚀](https://dev.to/getvm/unleash-your-coding-superpowers-with-the-comprehensive-git-guide-3086)
-- [Creating a Smooth Animated Menu with React and Framer Motion](https://dev.to/netanelben/creating-a-smooth-animated-menu-with-react-and-framer-motion-2e69)
-- [Monday Motivation: How&#39;s Your Week Shaping Up?](https://dev.to/respect17/monday-motivation-hows-your-week-shaping-up-1pc5)
+- [Simple Portfolio using Tailwind, HTML](https://dev.to/vuelancer/simple-portfolio-using-tailwind-html-7dp)
+- [High performance Node.js static file serving — using Rust](https://dev.to/encore/high-performance-nodejs-static-file-serving-using-rust-420m)
+- [Are You a Busy Bee with a Sting in Your Tail?](https://dev.to/gregharis/are-you-a-busy-bee-with-a-sting-in-your-tail-55mg)
+- [Mastering Jetpack Compose: From Beginner to Pro](https://dev.to/helloquash/mastering-jetpack-compose-from-beginner-to-pro-2ih0)
 <!-- BLOG-POST-LIST:END -->
 
