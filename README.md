@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly for 16 Sept 2024](https://dev.to/tspannhw/aim-weekly-for-16-sept-2024-236h)
-- [What is AWS and How Can It Transform Your Cloud Infrastructure?](https://dev.to/eva_rossi/what-is-aws-and-how-can-it-transform-your-cloud-infrastructure-3m17)
-- [Mastering the Event Loop for High-Performance JavaScript](https://dev.to/sarvabharan/mastering-the-event-loop-for-high-performance-javascript-2754)
-- [Pure Function in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/pure-function-in-javascript-3ck)
+- [Rails Designer v1.5: CommandMenu now supports remote content 🔍](https://dev.to/railsdesigner/rails-designer-v15-commandmenu-now-supports-remote-content-23bj)
+- [🎁Learn Python in 10 Days: Day 2](https://dev.to/johnjava/learn-python-in-10-days-day-2-bc0)
+- [Two best non overlapping events](https://dev.to/prashantrmishra/two-best-non-overlapping-events-4ne3)
+- [Full Fine Tuning of FLUX yields way better results than LoRA training as expected, overfitting and bleeding reduced a lot](https://dev.to/furkangozukara/full-fine-tuning-of-flux-yields-way-better-results-than-lora-training-as-expected-overfitting-and-bleeding-reduced-a-lot-3g6g)
 <!-- BLOG-POST-LIST:END -->
 
