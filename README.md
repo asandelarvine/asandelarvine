@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Portfolio using Tailwind, HTML](https://dev.to/vuelancer/simple-portfolio-using-tailwind-html-7dp)
-- [High performance Node.js static file serving — using Rust](https://dev.to/encore/high-performance-nodejs-static-file-serving-using-rust-420m)
-- [Are You a Busy Bee with a Sting in Your Tail?](https://dev.to/gregharis/are-you-a-busy-bee-with-a-sting-in-your-tail-55mg)
-- [Mastering Jetpack Compose: From Beginner to Pro](https://dev.to/helloquash/mastering-jetpack-compose-from-beginner-to-pro-2ih0)
+- [🎨 Mastering Dynamic Routing in Next.js: Build Flexible, Scalable Apps 🚀](https://dev.to/hamzakhan/mastering-dynamic-routing-in-nextjs-build-flexible-scalable-apps-ng1)
+- [JDK Setup On Linux, Windows, Mac](https://dev.to/thekalderon/jdk-setup-on-linux-windows-mac-5d5e)
+- [The Future of Web Hosting: A Guide to Storage-less Web Page Hosting](https://dev.to/imabutahersiddik/the-future-of-web-hosting-a-guide-to-storage-less-web-page-hosting-1095)
+- [How to Tackle Data Structures and Algorithms Like a Pro: Essential Strategies Revealed](https://dev.to/jhk_info/how-to-tackle-data-structures-and-algorithms-like-a-pro-essential-strategies-revealed-2gl)
 <!-- BLOG-POST-LIST:END -->
 
