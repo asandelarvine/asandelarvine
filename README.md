@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v1.5: CommandMenu now supports remote content 🔍](https://dev.to/railsdesigner/rails-designer-v15-commandmenu-now-supports-remote-content-23bj)
-- [🎁Learn Python in 10 Days: Day 2](https://dev.to/johnjava/learn-python-in-10-days-day-2-bc0)
-- [Two best non overlapping events](https://dev.to/prashantrmishra/two-best-non-overlapping-events-4ne3)
-- [Full Fine Tuning of FLUX yields way better results than LoRA training as expected, overfitting and bleeding reduced a lot](https://dev.to/furkangozukara/full-fine-tuning-of-flux-yields-way-better-results-than-lora-training-as-expected-overfitting-and-bleeding-reduced-a-lot-3g6g)
+- [Introducing the Pizza CLI](https://dev.to/opensauced/introducing-the-pizza-cli-1g6f)
+- [IPv6 Migration Simplified: Techpartner&#39;s Blueprint for Future-Proofing Your Network](https://dev.to/arunasri/ipv6-migration-simplified-techpartners-blueprint-for-future-proofing-your-network-5hgp)
+- [LinkedIn Explains: How To Secure Your JWTs](https://dev.to/kuvambhardwaj/linkedin-explains-how-to-secure-your-jwts-17dc)
+- [Understanding the Spread Operator in JavaScript: An example of such in MongoDB Product Management](https://dev.to/syriamme/understanding-the-spread-operator-in-javascript-an-example-of-such-in-mongodb-product-management-47ib)
 <!-- BLOG-POST-LIST:END -->
 
