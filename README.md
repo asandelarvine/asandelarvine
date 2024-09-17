@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy Config Vars from One Heroku App to Another](https://dev.to/h3h/copy-config-vars-from-one-heroku-app-to-another-36o3)
-- [Patch Your Discord Activity’s Network Requests for Smooth CSP Compliance](https://dev.to/waveplay/patch-your-discord-activitys-network-requests-for-smooth-csp-compliance-432c)
-- [A Kubernetes Setup Speedrun 🏃💨](https://dev.to/cyclops-ui/a-kubernetes-setup-speedrun-2o97)
-- [Building a Multimodal Search Engine with Amazon Titan Embeddings, Aurora Serveless PostgreSQL and LangChain](https://dev.to/aws/building-a-multimodal-search-engine-with-amazon-titan-embeddings-aurora-serveless-postgresql-and-langchain-484j)
+- [Navigating Careers](https://dev.to/seasonedcc/navigating-careers-24o1)
+- [What is the DOM? The Complete Guide for Beginner Developers](https://dev.to/michael_sodovski_e754e9e2/what-is-the-dom-the-complete-guide-for-beginner-developers-18pd)
+- [Why the Command Line? The Power of Shell](https://dev.to/jimmymcbride/why-the-command-line-the-power-of-shell-1gkg)
+- [Streamlining Helm Values Files with YAML Anchors 🚀](https://dev.to/pczavre/streamlining-helm-values-files-with-yaml-anchors-bpp)
 <!-- BLOG-POST-LIST:END -->
 
