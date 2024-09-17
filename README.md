@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Route Data Binding with Angular Signal inputs](https://dev.to/mustapha/streamlining-route-data-binding-with-angular-signal-inputs-hea)
-- [Manuals and Specifications: Your Guide to Mastering JavaScript](https://dev.to/codenextgen/manuals-and-specifications-your-guide-to-mastering-javascript-349b)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;09/09/2024-15/09/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-09092024-15092024-55h1)
-- [Implement mTLS on AWS ALB with Self-Signed Certificates](https://dev.to/aws-builders/implement-mtls-on-aws-alb-with-self-signed-certificates-9bf)
+- [Quick fix: com.github.everit-org.json-schema:org.everit.json.schema:jar:1.12.2 was not found](https://dev.to/devalexmartinez/quick-fix-comgithubeverit-orgjson-schemaorgeveritjsonschemajar1122-was-not-found-1ej0)
+- [Frontend Refresh Project - An Electronic Spider](https://dev.to/shingaiz/frontend-refresh-project-an-electronic-spider-1bcp)
+- [Boston AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/boston-ai-machine-learning-and-computer-vision-meetup-2k73)
+- [How to Use Exchange Rate JSON APIs for Accurate Currency Conversion](https://dev.to/sameeranthony/how-to-use-exchange-rate-json-apis-for-accurate-currency-conversion-52d6)
 <!-- BLOG-POST-LIST:END -->
 
