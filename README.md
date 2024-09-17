@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CrushOn AI: Redefining NSFW and Uncensored Conversations in AI](https://dev.to/elisaray/crushon-ai-redefining-nsfw-and-uncensored-conversations-in-ai-294m)
-- [[DAY 113-117] I built 5 backend projects to acquire a backend certificate](https://dev.to/thomascansino/day-113-117-i-built-5-backend-projects-to-acquire-a-backend-certificate-5boj)
-- [Understanding APIs: How Applications Communicate:](https://dev.to/kamlesh_gupta_539c974fb0d/understanding-apis-how-applications-communicate-30f9)
-- [Version Control Best Practices - Mastering Git, Branching Strategies and Collaborative Workflows](https://dev.to/pellenilsen/version-control-best-practices-mastering-git-branching-strategies-and-collaborative-workflows-5gal)
+- [Fix Any CSS Z-index Issue With This One Trick](https://dev.to/railsdesigner/fix-any-css-z-index-issue-with-this-one-trick-387c)
+- [The Controversial Arrest of Pavel Durov: Free Speech or Criminal Accountability?](https://dev.to/snapnews/the-controversial-arrest-of-pavel-durov-free-speech-or-criminal-accountability-2709)
+- [Migration from Magento to Medusa: A Complete Guide for CTO](https://dev.to/rigbyjs/migration-from-magento-to-medusa-a-complete-guide-for-cto-3jpg)
+- [Mastering Django REST Framework: Security, Performance, and Best Practices](https://dev.to/snapnews/mastering-django-rest-framework-security-performance-and-best-practices-dn0)
 <!-- BLOG-POST-LIST:END -->
 
