@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Social Listening](https://dev.to/mouralet/introduction-to-social-listening-56l5)
-- [Building Scalable Microservices with Kubernetes](https://dev.to/kartikmehta8/building-scalable-microservices-with-kubernetes-2175)
-- [&quot;PodCast: Memórias e Histórias&quot; do IC UNICAMP](https://dev.to/fronteirases/podcast-do-ic-unicamp-3463)
-- [Database Sharding in MySQL: A Comprehensive Guide](https://dev.to/wallacefreitas/database-sharding-in-mysql-a-comprehensive-guide-2hag)
+- [private vs #private](https://dev.to/old-starchy/private-vs-private-3cbd)
+- [Performing Audio and Video Testing on Real Devices](https://dev.to/grjoeay/performing-audio-and-video-testing-on-real-devices-22h2)
+- [JavaScript Essentials: Part 1](https://dev.to/otumianempire/javascript-essentials-part-1-39c1)
+- [Educational Leadership in the Age of AI: Pioneering the Future](https://dev.to/dms/educational-leadership-in-the-age-of-ai-pioneering-the-future-1ip1)
 <!-- BLOG-POST-LIST:END -->
 
