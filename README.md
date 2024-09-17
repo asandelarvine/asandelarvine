@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To Blockchain](https://dev.to/canhamzacode/introduction-to-blockchain-45dn)
-- [What is Clean Architecture: Part 18 - Adding API](https://dev.to/moh_moh701/what-is-clean-architecture-part-18-adding-api-23l2)
-- [Building Reusable Components with JavaScript Web Components and LIT](https://dev.to/faisalsaysin/building-reusable-components-with-javascript-web-components-and-lit-ji2)
-- [Job Search Fatigue? Here’s How to Fight Burnout and Stay Motivated](https://dev.to/mbround18/job-search-fatigue-heres-how-to-fight-burnout-and-stay-motivated-fm2)
+- [Don&#39;t wait for your feelings to take the action. Take the action and your feelings will change.](https://dev.to/young_afis_a794c45f59671d/dont-wait-for-your-feelings-to-take-the-action-take-the-action-and-your-feelings-will-change-4jnm)
+- [Pergunte ao especialista - Funções virtuais](https://dev.to/devsjavagirls/pergunte-ao-especialista-funcoes-virtuais-221o)
+- [Métodos sobrepostos dão suporte ao polimorfismo](https://dev.to/devsjavagirls/metodos-sobrepostos-dao-suporte-ao-polimorfismo-457j)
+- [Sobreposição de métodos](https://dev.to/devsjavagirls/sobreposicao-de-metodos-1921)
 <!-- BLOG-POST-LIST:END -->
 
