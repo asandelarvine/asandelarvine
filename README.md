@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Database Management Systems &lpar;DBMS&rpar;: Definition and Functioning](https://dev.to/adityabhuyan/understanding-database-management-systems-dbms-definition-and-functioning-2a7f)
-- [Understanding CISC and RISC Architectures in Modern Computing](https://dev.to/adityabhuyan/understanding-cisc-and-risc-architectures-in-modern-computing-ndc)
-- [Why should you work remotely](https://dev.to/remotewlb/why-should-you-work-remotely-3g99)
-- [Understanding Java Streams: Revolutionizing Data Processing](https://dev.to/adityabhuyan/understanding-java-streams-revolutionizing-data-processing-1nmn)
+- [Why is Nextjs so popular in startups?](https://dev.to/koladev/why-is-nextjs-so-popular-in-startups-3d3g)
+- [10 Essential Shadcn Components Every Developer Should Know About](https://dev.to/swhabitation/10-essential-shadcn-components-every-developer-should-know-about-31mg)
+- [Execute Syntax on Background Process](https://dev.to/seno21/execute-syntax-on-background-process-851)
+- [Scala is one of the best ways to learn Haskell](https://dev.to/zelenya/scala-is-one-of-the-best-ways-to-learn-haskell-12e6)
 <!-- BLOG-POST-LIST:END -->
 
