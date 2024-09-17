@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Any CSS Z-index Issue With This One Trick](https://dev.to/railsdesigner/fix-any-css-z-index-issue-with-this-one-trick-387c)
-- [The Controversial Arrest of Pavel Durov: Free Speech or Criminal Accountability?](https://dev.to/snapnews/the-controversial-arrest-of-pavel-durov-free-speech-or-criminal-accountability-2709)
-- [Migration from Magento to Medusa: A Complete Guide for CTO](https://dev.to/rigbyjs/migration-from-magento-to-medusa-a-complete-guide-for-cto-3jpg)
-- [Mastering Django REST Framework: Security, Performance, and Best Practices](https://dev.to/snapnews/mastering-django-rest-framework-security-performance-and-best-practices-dn0)
+- [AuthenticationHandler in ASPNET](https://dev.to/hossien014/authenticationhandler-in-aspnet-2h63)
+- [Building Micro Frontends with Vite, React, and TypeScript: A Step-by-Step Guide](https://dev.to/nik-bogachenkov/building-micro-frontends-with-vite-react-and-typescript-a-step-by-step-guide-3f7n)
+- [Introduction to Solana: A fledging&#39;s guide on Web3 development on Solana](https://dev.to/aseneca/introduction-to-solana-a-fledgings-guide-on-web3-development-on-solana-1jg3)
+- [How I ended up caring about my Terminal + IDE + Vim as a Jr. Dev](https://dev.to/lord_sinquadd/how-i-ended-up-caring-about-my-terminal-ide-vim-as-a-jr-dev-5552)
 <!-- BLOG-POST-LIST:END -->
 
