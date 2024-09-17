@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Popular Visual Studio Code extension](https://dev.to/mrcaption49/popular-visual-studio-code-extension-256l)
-- [Create a 3D Carousel Slider Animation in Figma: NFT Slideshow](https://dev.to/bonachidera/create-a-3d-carousel-slider-animation-in-figma-nft-slideshow-o1g)
-- [Breaking free from rigid Agile practices &lpar;feat. Jessica Hall&rpar;](https://dev.to/edensoftlabs/breaking-free-from-rigid-agile-practices-feat-jessica-hall-10n1)
-- [Day 8. Enjoying coding](https://dev.to/kiolk/day-8-enjoying-coding-3mp5)
+- [Introduction To Blockchain](https://dev.to/canhamzacode/introduction-to-blockchain-45dn)
+- [What is Clean Architecture: Part 18 - Adding API](https://dev.to/moh_moh701/what-is-clean-architecture-part-18-adding-api-23l2)
+- [Building Reusable Components with JavaScript Web Components and LIT](https://dev.to/faisalsaysin/building-reusable-components-with-javascript-web-components-and-lit-ji2)
+- [Job Search Fatigue? Here’s How to Fight Burnout and Stay Motivated](https://dev.to/mbround18/job-search-fatigue-heres-how-to-fight-burnout-and-stay-motivated-fm2)
 <!-- BLOG-POST-LIST:END -->
 
