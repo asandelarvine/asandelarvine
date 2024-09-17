@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Nextjs so popular in startups?](https://dev.to/koladev/why-is-nextjs-so-popular-in-startups-3d3g)
-- [10 Essential Shadcn Components Every Developer Should Know About](https://dev.to/swhabitation/10-essential-shadcn-components-every-developer-should-know-about-31mg)
-- [Execute Syntax on Background Process](https://dev.to/seno21/execute-syntax-on-background-process-851)
-- [Scala is one of the best ways to learn Haskell](https://dev.to/zelenya/scala-is-one-of-the-best-ways-to-learn-haskell-12e6)
+- [How Developers Destroy Brain Health](https://dev.to/ssukhpinder/how-developers-destroy-brain-health-4kgd)
+- [Let’s build an AI app - pt. 2](https://dev.to/savannah_norem/lets-build-an-ai-app-pt-2-2e77)
+- [Six Key Every CEO Should Know About Generative AI](https://dev.to/nisargshah/six-key-every-ceo-should-know-about-generative-ai-53bj)
+- [Stop using tcpdump for packet capture! Kyanos helps you troubleshoot network issues in seconds.](https://dev.to/hengyoush/stop-using-tcpdump-for-packet-capture-kyanos-helps-you-troubleshoot-network-issues-in-seconds-1k2l)
 <!-- BLOG-POST-LIST:END -->
 
