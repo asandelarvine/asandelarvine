@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Cloud flare R2 storage with workers API &amp; S3 compatibility](https://dev.to/sanya_lazy/how-to-use-cloud-flare-r2-storage-with-workers-api-s3-compatibility-44lf)
-- [CSS Position – Controlling Element Placement](https://dev.to/ridoy_hasan/css-position-controlling-element-placement-3f6e)
-- [Fixing the Stripe API Key Error When Migrating Next.js from Vercel to Azure Static Web Apps](https://dev.to/rajeshkumaryadavdotcom/fixing-the-stripe-api-key-error-when-migrating-nextjs-from-vercel-to-azure-static-web-apps-3e7l)
-- [A Poetic Challenge !?](https://dev.to/kavya-sahai-god/a-poetic-challenge--24m1)
+- [Popular Visual Studio Code extension](https://dev.to/mrcaption49/popular-visual-studio-code-extension-256l)
+- [Create a 3D Carousel Slider Animation in Figma: NFT Slideshow](https://dev.to/bonachidera/create-a-3d-carousel-slider-animation-in-figma-nft-slideshow-o1g)
+- [Breaking free from rigid Agile practices &lpar;feat. Jessica Hall&rpar;](https://dev.to/edensoftlabs/breaking-free-from-rigid-agile-practices-feat-jessica-hall-10n1)
+- [Day 8. Enjoying coding](https://dev.to/kiolk/day-8-enjoying-coding-3mp5)
 <!-- BLOG-POST-LIST:END -->
 
