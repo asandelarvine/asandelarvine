@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 &quot;The Untold Secrets of HTTP Methods You NEED to Know!&quot; 🚨](https://dev.to/dharamgfx/the-untold-secrets-of-http-methods-you-need-to-know-o1n)
-- [Artificial Intelligence &lpar;AI&rpar; and Augmented Artificial Intelligence &lpar;AAI&rpar;: The Future of Intelligent Systems](https://dev.to/christopher075/artificial-intelligence-ai-and-augmented-artificial-intelligence-aai-the-future-of-intelligent-systems-3a1)
-- [🤖 Mastering AI, Machine Learning, and Deep Learning: A Complete Guide for Developers](https://dev.to/mirzahanzla/mastering-ai-machine-learning-and-deep-learning-a-complete-guide-for-developers-4kmh)
-- [DevOps State-of-the-art handover artifacts, do they even exist?](https://dev.to/sommer/devops-state-of-the-art-handover-artifacts-do-they-even-exist-1lgb)
+- [I generated 20+ succesfull Ideas doing this:](https://dev.to/johnrushx/i-generated-20-succesfull-ideas-doing-this-3kc1)
+- [How and why did we improve our API hosting?](https://dev.to/upslide/how-and-why-did-we-improve-our-api-hosting-13pe)
+- [Numbers &amp; Data for System Design](https://dev.to/avinash_dv_7e29cfafb00fba/numbers-data-for-system-design-34a3)
+- [You&#39;re Running a Software Company... Whether You Realize It or Not...](https://dev.to/trev_the_dev/youre-running-a-software-company-whether-you-realize-it-or-not-35jc)
 <!-- BLOG-POST-LIST:END -->
 
