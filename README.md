@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scale Deployments Based on HTTP Requests with Keda](https://dev.to/codewithved/scale-deployments-based-on-http-requests-with-keda-l6g)
-- [Introduction to the MERN Stack: Building Full-Stack Applications with Ease 🚀](https://dev.to/info_generalhazedawn_a3d/introduction-to-the-mern-stack-building-full-stack-applications-with-ease-5dlb)
-- [NEXT-JS PROJECT](https://dev.to/lecy0467/next-js-project-1gc1)
-- [Special Types of Interviews: How to Identify and Succeed in Them..](https://dev.to/jayakrishna_369/special-types-of-interviews-how-to-identify-and-succeed-in-them-4ama)
+- [CrushOn AI: Redefining NSFW and Uncensored Conversations in AI](https://dev.to/elisaray/crushon-ai-redefining-nsfw-and-uncensored-conversations-in-ai-294m)
+- [[DAY 113-117] I built 5 backend projects to acquire a backend certificate](https://dev.to/thomascansino/day-113-117-i-built-5-backend-projects-to-acquire-a-backend-certificate-5boj)
+- [Understanding APIs: How Applications Communicate:](https://dev.to/kamlesh_gupta_539c974fb0d/understanding-apis-how-applications-communicate-30f9)
+- [Version Control Best Practices - Mastering Git, Branching Strategies and Collaborative Workflows](https://dev.to/pellenilsen/version-control-best-practices-mastering-git-branching-strategies-and-collaborative-workflows-5gal)
 <!-- BLOG-POST-LIST:END -->
 
