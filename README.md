@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AuthenticationHandler in ASPNET](https://dev.to/hossien014/authenticationhandler-in-aspnet-2h63)
-- [Building Micro Frontends with Vite, React, and TypeScript: A Step-by-Step Guide](https://dev.to/nik-bogachenkov/building-micro-frontends-with-vite-react-and-typescript-a-step-by-step-guide-3f7n)
-- [Introduction to Solana: A fledging&#39;s guide on Web3 development on Solana](https://dev.to/aseneca/introduction-to-solana-a-fledgings-guide-on-web3-development-on-solana-1jg3)
-- [How I ended up caring about my Terminal + IDE + Vim as a Jr. Dev](https://dev.to/lord_sinquadd/how-i-ended-up-caring-about-my-terminal-ide-vim-as-a-jr-dev-5552)
+- [🚨 &quot;The Untold Secrets of HTTP Methods You NEED to Know!&quot; 🚨](https://dev.to/dharamgfx/the-untold-secrets-of-http-methods-you-need-to-know-o1n)
+- [Artificial Intelligence &lpar;AI&rpar; and Augmented Artificial Intelligence &lpar;AAI&rpar;: The Future of Intelligent Systems](https://dev.to/christopher075/artificial-intelligence-ai-and-augmented-artificial-intelligence-aai-the-future-of-intelligent-systems-3a1)
+- [🤖 Mastering AI, Machine Learning, and Deep Learning: A Complete Guide for Developers](https://dev.to/mirzahanzla/mastering-ai-machine-learning-and-deep-learning-a-complete-guide-for-developers-4kmh)
+- [DevOps State-of-the-art handover artifacts, do they even exist?](https://dev.to/sommer/devops-state-of-the-art-handover-artifacts-do-they-even-exist-1lgb)
 <!-- BLOG-POST-LIST:END -->
 
