@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Careers](https://dev.to/seasonedcc/navigating-careers-24o1)
-- [What is the DOM? The Complete Guide for Beginner Developers](https://dev.to/michael_sodovski_e754e9e2/what-is-the-dom-the-complete-guide-for-beginner-developers-18pd)
-- [Why the Command Line? The Power of Shell](https://dev.to/jimmymcbride/why-the-command-line-the-power-of-shell-1gkg)
-- [Streamlining Helm Values Files with YAML Anchors 🚀](https://dev.to/pczavre/streamlining-helm-values-files-with-yaml-anchors-bpp)
+- [From React to React Native – A Beginner-Friendly Guide🚀](https://dev.to/keshav___dev/from-react-to-react-native-a-beginner-friendly-guide-1m07)
+- [Introduce your project with the following elements:](https://dev.to/soufiane_tangi_6affa0571d/introduce-your-project-with-the-following-elements-i04)
+- [Bring Your Website to Life with Stunning Animations](https://dev.to/designlioo/bring-your-website-to-life-with-stunning-animations-474a)
+- [Simplify Form Management with JetForms: A Complete Guide](https://dev.to/raghav_nagpure/simplify-form-management-with-jetforms-a-complete-guide-300c)
 <!-- BLOG-POST-LIST:END -->
 
