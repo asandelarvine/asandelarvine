@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Machine Learning in Angular: A Developer’s Guide](https://dev.to/dipakahirav/the-power-of-machine-learning-in-angular-a-developers-guide-4l2)
-- [Introducing HTPX: A Lightweight and Versatile HTTP Client for JavaScript and Node.js](https://dev.to/theprogrammer/introducing-htpx-a-lightweight-and-versatile-http-client-for-javascript-and-nodejs-1m0e)
-- [Advanced Terraform Module Usage: Versioning, Nesting, and Reuse Across Environments](https://dev.to/pat6339/advanced-terraform-module-usage-versioning-nesting-and-reuse-across-environments-43j0)
-- [10 sec for UX Design Principles.](https://dev.to/enigmade/10-sec-for-ux-design-principles-31in)
+- [Understanding Database Management Systems &lpar;DBMS&rpar;: Definition and Functioning](https://dev.to/adityabhuyan/understanding-database-management-systems-dbms-definition-and-functioning-2a7f)
+- [Understanding CISC and RISC Architectures in Modern Computing](https://dev.to/adityabhuyan/understanding-cisc-and-risc-architectures-in-modern-computing-ndc)
+- [Why should you work remotely](https://dev.to/remotewlb/why-should-you-work-remotely-3g99)
+- [Understanding Java Streams: Revolutionizing Data Processing](https://dev.to/adityabhuyan/understanding-java-streams-revolutionizing-data-processing-1nmn)
 <!-- BLOG-POST-LIST:END -->
 
