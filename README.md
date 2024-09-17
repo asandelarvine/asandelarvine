@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From React to React Native – A Beginner-Friendly Guide🚀](https://dev.to/keshav___dev/from-react-to-react-native-a-beginner-friendly-guide-1m07)
-- [Introduce your project with the following elements:](https://dev.to/soufiane_tangi_6affa0571d/introduce-your-project-with-the-following-elements-i04)
-- [Bring Your Website to Life with Stunning Animations](https://dev.to/designlioo/bring-your-website-to-life-with-stunning-animations-474a)
-- [Simplify Form Management with JetForms: A Complete Guide](https://dev.to/raghav_nagpure/simplify-form-management-with-jetforms-a-complete-guide-300c)
+- [Streamlining Route Data Binding with Angular Signal inputs](https://dev.to/mustapha/streamlining-route-data-binding-with-angular-signal-inputs-hea)
+- [Manuals and Specifications: Your Guide to Mastering JavaScript](https://dev.to/codenextgen/manuals-and-specifications-your-guide-to-mastering-javascript-349b)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;09/09/2024-15/09/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-09092024-15092024-55h1)
+- [Implement mTLS on AWS ALB with Self-Signed Certificates](https://dev.to/aws-builders/implement-mtls-on-aws-alb-with-self-signed-certificates-9bf)
 <!-- BLOG-POST-LIST:END -->
 
