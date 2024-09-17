@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the Future Open Infrastructure? Why Cloud Giants Like AWS, GCP, and Azure Aren’t the Answer They Seemed to Be](https://dev.to/lucasdeataides/is-the-future-open-infrastructure-why-cloud-giants-like-aws-gcp-and-azure-arent-the-answer-they-seemed-to-be-570m)
-- [Mastering Python Object-Oriented Programming &lpar;OOP&rpar;: A Comprehensive Guide with Examples](https://dev.to/usooldatascience/mastering-python-object-oriented-programming-oop-a-comprehensive-guide-with-examples-f5g)
-- [Optimizing Python Code Using cProfile and PyPy module: A Complete Guide](https://dev.to/usooldatascience/optimizing-python-code-using-cprofile-and-pypy-module-a-complete-guide-4779)
-- [Exploring Machine Learning Careers: Your Path to Success in AI](https://dev.to/aisquare/exploring-machine-learning-careers-your-path-to-success-in-ai-4nl2)
+- [Introduction to Social Listening](https://dev.to/mouralet/introduction-to-social-listening-56l5)
+- [Building Scalable Microservices with Kubernetes](https://dev.to/kartikmehta8/building-scalable-microservices-with-kubernetes-2175)
+- [&quot;PodCast: Memórias e Histórias&quot; do IC UNICAMP](https://dev.to/fronteirases/podcast-do-ic-unicamp-3463)
+- [Database Sharding in MySQL: A Comprehensive Guide](https://dev.to/wallacefreitas/database-sharding-in-mysql-a-comprehensive-guide-2hag)
 <!-- BLOG-POST-LIST:END -->
 
