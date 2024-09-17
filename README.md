@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick fix: com.github.everit-org.json-schema:org.everit.json.schema:jar:1.12.2 was not found](https://dev.to/devalexmartinez/quick-fix-comgithubeverit-orgjson-schemaorgeveritjsonschemajar1122-was-not-found-1ej0)
-- [Frontend Refresh Project - An Electronic Spider](https://dev.to/shingaiz/frontend-refresh-project-an-electronic-spider-1bcp)
-- [Boston AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/boston-ai-machine-learning-and-computer-vision-meetup-2k73)
-- [How to Use Exchange Rate JSON APIs for Accurate Currency Conversion](https://dev.to/sameeranthony/how-to-use-exchange-rate-json-apis-for-accurate-currency-conversion-52d6)
+- [How to use Cloud flare R2 storage with workers API &amp; S3 compatibility](https://dev.to/sanya_lazy/how-to-use-cloud-flare-r2-storage-with-workers-api-s3-compatibility-44lf)
+- [CSS Position – Controlling Element Placement](https://dev.to/ridoy_hasan/css-position-controlling-element-placement-3f6e)
+- [Fixing the Stripe API Key Error When Migrating Next.js from Vercel to Azure Static Web Apps](https://dev.to/rajeshkumaryadavdotcom/fixing-the-stripe-api-key-error-when-migrating-nextjs-from-vercel-to-azure-static-web-apps-3e7l)
+- [A Poetic Challenge !?](https://dev.to/kavya-sahai-god/a-poetic-challenge--24m1)
 <!-- BLOG-POST-LIST:END -->
 
