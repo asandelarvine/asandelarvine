@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [private vs #private](https://dev.to/old-starchy/private-vs-private-3cbd)
-- [Performing Audio and Video Testing on Real Devices](https://dev.to/grjoeay/performing-audio-and-video-testing-on-real-devices-22h2)
-- [JavaScript Essentials: Part 1](https://dev.to/otumianempire/javascript-essentials-part-1-39c1)
-- [Educational Leadership in the Age of AI: Pioneering the Future](https://dev.to/dms/educational-leadership-in-the-age-of-ai-pioneering-the-future-1ip1)
+- [The Power of Machine Learning in Angular: A Developer’s Guide](https://dev.to/dipakahirav/the-power-of-machine-learning-in-angular-a-developers-guide-4l2)
+- [Introducing HTPX: A Lightweight and Versatile HTTP Client for JavaScript and Node.js](https://dev.to/theprogrammer/introducing-htpx-a-lightweight-and-versatile-http-client-for-javascript-and-nodejs-1m0e)
+- [Advanced Terraform Module Usage: Versioning, Nesting, and Reuse Across Environments](https://dev.to/pat6339/advanced-terraform-module-usage-versioning-nesting-and-reuse-across-environments-43j0)
+- [10 sec for UX Design Principles.](https://dev.to/enigmade/10-sec-for-ux-design-principles-31in)
 <!-- BLOG-POST-LIST:END -->
 
