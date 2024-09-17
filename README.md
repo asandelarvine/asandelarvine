@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I generated 20+ succesfull Ideas doing this:](https://dev.to/johnrushx/i-generated-20-succesfull-ideas-doing-this-3kc1)
-- [How and why did we improve our API hosting?](https://dev.to/upslide/how-and-why-did-we-improve-our-api-hosting-13pe)
-- [Numbers &amp; Data for System Design](https://dev.to/avinash_dv_7e29cfafb00fba/numbers-data-for-system-design-34a3)
-- [You&#39;re Running a Software Company... Whether You Realize It or Not...](https://dev.to/trev_the_dev/youre-running-a-software-company-whether-you-realize-it-or-not-35jc)
+- [60% of maintainers are &lpar;still&rpar; not paid for their work](https://dev.to/tidelift/60-of-maintainers-are-still-not-paid-for-their-work-35jo)
+- [Key Considerations for Next.js App Router Files](https://dev.to/builderio/key-considerations-for-nextjs-app-router-files-1619)
+- [The Great HTML Showdown: `&lt;b&gt;` vs `&lt;strong&gt;` and `&lt;i&gt;` vs `&lt;em&gt;` – What&#39;s the Difference?🌟](https://dev.to/dharamgfx/the-great-html-showdown-vs-and-vs-whats-the-difference-5hjg)
+- [Building a Dynamic Alert Component with Context in React](https://dev.to/oussamabouyahia/dynamic-alert-component-35ed)
 <!-- BLOG-POST-LIST:END -->
 
