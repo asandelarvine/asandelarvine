@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Destroy Brain Health](https://dev.to/ssukhpinder/how-developers-destroy-brain-health-4kgd)
-- [Let’s build an AI app - pt. 2](https://dev.to/savannah_norem/lets-build-an-ai-app-pt-2-2e77)
-- [Six Key Every CEO Should Know About Generative AI](https://dev.to/nisargshah/six-key-every-ceo-should-know-about-generative-ai-53bj)
-- [Stop using tcpdump for packet capture! Kyanos helps you troubleshoot network issues in seconds.](https://dev.to/hengyoush/stop-using-tcpdump-for-packet-capture-kyanos-helps-you-troubleshoot-network-issues-in-seconds-1k2l)
+- [Scale Deployments Based on HTTP Requests with Keda](https://dev.to/codewithved/scale-deployments-based-on-http-requests-with-keda-l6g)
+- [Introduction to the MERN Stack: Building Full-Stack Applications with Ease 🚀](https://dev.to/info_generalhazedawn_a3d/introduction-to-the-mern-stack-building-full-stack-applications-with-ease-5dlb)
+- [NEXT-JS PROJECT](https://dev.to/lecy0467/next-js-project-1gc1)
+- [Special Types of Interviews: How to Identify and Succeed in Them..](https://dev.to/jayakrishna_369/special-types-of-interviews-how-to-identify-and-succeed-in-them-4ama)
 <!-- BLOG-POST-LIST:END -->
 
