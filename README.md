@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Write for “.Net Programming” on Medium! 🚀](https://dev.to/csharp-programming/write-for-net-programming-on-medium-53f7)
-- [Why DevOps Orchestration is Essential for Modern CI/CD Pipelines](https://dev.to/harman_diaz/why-devops-orchestration-is-essential-for-modern-cicd-pipelines-21gg)
-- [Layers of JavaScript](https://dev.to/shieldstring/layers-of-javascript-1ig9)
-- [Mastering Java Collections with Multithreading: Best Practices and Practical Examples](https://dev.to/vishalpaalakurthi/mastering-java-collections-with-multithreading-best-practices-and-practical-examples-33c4)
+- [Modules Loadings in angular](https://dev.to/comedy_hub_1acffe1c00ffbf/loadings-in-angular-13jk)
+- [Plug-and-Play Animations: Crafting Lively Websites with asterisk/ui Components](https://dev.to/abhiroopc/plug-and-play-animations-crafting-lively-websites-with-asteriskui-components-50ja)
+- [20 Best Chrome Extensions for Developers in 2024](https://dev.to/nikhiltyagi04/20-best-chrome-extensions-for-developers-in-2024-224m)
+- [Using SQLynx for data comparison offers the following advantages:](https://dev.to/urlewicz_aicha_d14af69bc8/using-sqlynx-for-data-comparison-offers-the-following-advantages-cnc)
 <!-- BLOG-POST-LIST:END -->
 
