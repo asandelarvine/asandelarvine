@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encapsulating the Past: How We Tamed a Legacy System with Timeless Software Engineering Principles](https://dev.to/dawiddahl/encapsulating-the-past-how-we-tamed-a-legacy-system-with-timeless-software-engineering-principles-154i)
-- [Final Testing, Going Live, and Summary &lpar;Nerd Streetwear Online Store&rpar; Part IV](https://dev.to/cookieduster_n/final-testing-going-live-and-summary-nerd-streetwear-online-store-part-iv-2dam)
-- [Configuring a Connection Pool](https://dev.to/metis/configuring-a-connection-pool-20n1)
-- [Help Window developer set proxy with script](https://dev.to/xinzhang_hello/help-window-developer-set-proxy-with-script-j48)
+- [What Did I Do? A Time-Tracking Problem](https://dev.to/drazenbebic/what-did-i-do-a-time-tracking-problem-9b7)
+- [SQL, in each group modify the null value of a specified column as its neighboring value #eg43](https://dev.to/esproc_spl/sql-in-each-group-modify-the-null-value-of-a-specified-column-as-its-neighboring-value-eg43-4l7b)
+- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-4901)
+- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-41ld)
 <!-- BLOG-POST-LIST:END -->
 
