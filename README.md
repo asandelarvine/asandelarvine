@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modules Loadings in angular](https://dev.to/comedy_hub_1acffe1c00ffbf/loadings-in-angular-13jk)
-- [Plug-and-Play Animations: Crafting Lively Websites with asterisk/ui Components](https://dev.to/abhiroopc/plug-and-play-animations-crafting-lively-websites-with-asteriskui-components-50ja)
-- [20 Best Chrome Extensions for Developers in 2024](https://dev.to/nikhiltyagi04/20-best-chrome-extensions-for-developers-in-2024-224m)
-- [Using SQLynx for data comparison offers the following advantages:](https://dev.to/urlewicz_aicha_d14af69bc8/using-sqlynx-for-data-comparison-offers-the-following-advantages-cnc)
+- [Encapsulating the Past: How We Tamed a Legacy System with Timeless Software Engineering Principles](https://dev.to/dawiddahl/encapsulating-the-past-how-we-tamed-a-legacy-system-with-timeless-software-engineering-principles-154i)
+- [Final Testing, Going Live, and Summary &lpar;Nerd Streetwear Online Store&rpar; Part IV](https://dev.to/cookieduster_n/final-testing-going-live-and-summary-nerd-streetwear-online-store-part-iv-2dam)
+- [Configuring a Connection Pool](https://dev.to/metis/configuring-a-connection-pool-20n1)
+- [Help Window developer set proxy with script](https://dev.to/xinzhang_hello/help-window-developer-set-proxy-with-script-j48)
 <!-- BLOG-POST-LIST:END -->
 
