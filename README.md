@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Coding Best Practices: Optimize Your Workflow and Boost Productivity](https://dev.to/creowistech/mastering-coding-best-practices-optimize-your-workflow-and-boost-productivity-5205)
-- [The Hidden Costs of Technical Debt: Why Cutting Corners Today Can Hurt Tomorrow](https://dev.to/trev_the_dev/the-hidden-costs-of-technical-debt-why-cutting-corners-today-can-hurt-tomorrow-5eh4)
-- [Save 1000 hours in development time. VSCode shortcuts &amp; Window Management](https://dev.to/matowang/save-1000-hours-in-development-time-vscode-shortcuts-window-management-5198)
-- [Convert insert mutation to upsert](https://dev.to/roalcantara/convert-insert-mutation-to-upsert-2n3n)
+- [Github CI/CD with Google Cloud Build](https://dev.to/chauhoangminhnguyen/github-cicd-with-google-cloud-build-2532)
+- [Database Terminology](https://dev.to/rajondey/database-terminology-58ef)
+- [🛠️ Master JavaScript Debugging with These Essential Tips 🛠️](https://dev.to/umairqa/master-javascript-debugging-with-these-essential-tips-40i)
+- [Convert LocalDateTime to Date](https://dev.to/taijidude/convert-localdatetime-to-date-4o4c)
 <!-- BLOG-POST-LIST:END -->
 
