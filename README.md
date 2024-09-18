@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v294](https://dev.to/devteam/welcome-thread-v294-216e)
-- [The Advantages of Compressed Data Centers: Enhancing Efficiency and Effectiveness](https://dev.to/adityabhuyan/the-advantages-of-compressed-data-centers-enhancing-efficiency-and-effectiveness-4c3p)
-- [100+ React E-Commerce Components for Modern Stores](https://dev.to/tailwindcss/react-e-commerce-components-4nd4)
-- [Exploring the Necessity of Sub-7nm Processors: Software Optimizations vs. Hardware Upgrades](https://dev.to/adityabhuyan/exploring-the-necessity-of-sub-7nm-processors-software-optimizations-vs-hardware-upgrades-33ji)
+- [How to Push Docker Images to GitLab Registry via CLI: Easy &amp; Efficient](https://dev.to/s3cloudhub/how-to-push-docker-images-to-gitlab-registry-via-cli-easy-efficient-4dao)
+- [Creating a simple page router in PHP](https://dev.to/kohtet_gintoki/creating-a-simple-page-router-in-php-2hpf)
+- [Is Carbon Language Moving Towards Success or Self-Destruction? A Case Study in Rapid Deployments](https://dev.to/middleware/is-carbon-language-moving-towards-success-or-self-destruction-a-case-study-in-rapid-deployments-3m50)
+- [React useQuery : A Complete Guide](https://dev.to/codeparrot/react-usequery-a-complete-guide-37aj)
 <!-- BLOG-POST-LIST:END -->
 
