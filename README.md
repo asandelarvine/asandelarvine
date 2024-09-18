@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Github CI/CD with Google Cloud Build](https://dev.to/chauhoangminhnguyen/github-cicd-with-google-cloud-build-2532)
-- [Database Terminology](https://dev.to/rajondey/database-terminology-58ef)
-- [🛠️ Master JavaScript Debugging with These Essential Tips 🛠️](https://dev.to/umairqa/master-javascript-debugging-with-these-essential-tips-40i)
-- [Convert LocalDateTime to Date](https://dev.to/taijidude/convert-localdatetime-to-date-4o4c)
+- [Introducing our First Community Web Game Challenge 👾](https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo)
+- [Analyzing NYC Schools&#39; SAT Performance: Reflections on this project](https://dev.to/arnaud2911/analyzing-nyc-schools-sat-performance-reflections-this-project-2lga)
+- [OpenAPI 3.1 - The Cheat Sheet](https://dev.to/bump/openapi-31-the-cheat-sheet-c9l)
+- [Functional Programming with JavaScript](https://dev.to/nozibul_islam_113b1d5334f/functional-programming-with-javascript-1mm8)
 <!-- BLOG-POST-LIST:END -->
 
