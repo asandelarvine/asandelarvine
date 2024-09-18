@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Push Docker Images to GitLab Registry via CLI: Easy &amp; Efficient](https://dev.to/s3cloudhub/how-to-push-docker-images-to-gitlab-registry-via-cli-easy-efficient-4dao)
-- [Creating a simple page router in PHP](https://dev.to/kohtet_gintoki/creating-a-simple-page-router-in-php-2hpf)
-- [Is Carbon Language Moving Towards Success or Self-Destruction? A Case Study in Rapid Deployments](https://dev.to/middleware/is-carbon-language-moving-towards-success-or-self-destruction-a-case-study-in-rapid-deployments-3m50)
-- [React useQuery : A Complete Guide](https://dev.to/codeparrot/react-usequery-a-complete-guide-37aj)
+- [Write for “.Net Programming” on Medium! 🚀](https://dev.to/csharp-programming/write-for-net-programming-on-medium-53f7)
+- [Why DevOps Orchestration is Essential for Modern CI/CD Pipelines](https://dev.to/harman_diaz/why-devops-orchestration-is-essential-for-modern-cicd-pipelines-21gg)
+- [Layers of JavaScript](https://dev.to/shieldstring/layers-of-javascript-1ig9)
+- [Mastering Java Collections with Multithreading: Best Practices and Practical Examples](https://dev.to/vishalpaalakurthi/mastering-java-collections-with-multithreading-best-practices-and-practical-examples-33c4)
 <!-- BLOG-POST-LIST:END -->
 
