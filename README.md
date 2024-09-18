@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview of GBase 8c Syntax](https://dev.to/congcong/overview-of-gbase-8c-syntax-11fc)
-- [PSD Batch Editor](https://dev.to/rdereu/psd-batch-editor-246e)
-- [Cut AWS Costs by 90%: How We Saved Big and Gained Flexibility](https://dev.to/parkerava/cut-aws-costs-by-90-how-we-saved-big-and-gained-flexibility-25gl)
-- [Why You Should Hide Your API Key: Best Practices for Cybersecurity](https://dev.to/jlo128456/why-you-should-hide-your-api-key-best-practices-for-cybersecurity-3eo2)
+- [A Complete Guide to the Types of Payment Methods in Nigeria](https://dev.to/flutterwaveeng/a-complete-guide-to-the-types-of-payment-methods-in-nigeria-18a9)
+- [http Status Codes](https://dev.to/avinash_dv_7e29cfafb00fba/http-status-codes-3eb4)
+- [Build Better UIs with These 5 Design System Tools](https://dev.to/balrajola/build-better-uis-with-these-5-design-system-tools-2n78)
+- [JSON Diff: A Complete Guide for Developers](https://dev.to/keploy/json-diff-a-complete-guide-for-developers-26o4)
 <!-- BLOG-POST-LIST:END -->
 
