@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The HTML History and Optimization Cheat Sheet](https://dev.to/j9t/the-html-history-and-optimization-cheat-sheet-4ekc)
-- [Top 5 tricks for writing listicles that will make you churn out low quality content easily and quickly](https://dev.to/georgewl/top-5-tricks-for-writing-listicles-that-will-make-you-churn-out-low-quality-content-easily-and-quickly-4p04)
-- [🛠️ 21 Dev Tools to 10x Your Productivity &lpar;Plus, Time-Traveling CSS!&rpar;](https://dev.to/adam/21-dev-tools-to-10x-your-productivity-plus-time-traveling-css-1i08)
-- [🔍 Did you know that AWS CloudWatch Logs store logs indefinitely by default? - AWS Tip #1🔍](https://dev.to/lakhera2015/did-you-know-that-aws-cloudwatch-logs-store-logs-indefinitely-by-default-aws-tip-1-1gjc)
+- [How to Work with Multidimensional Arrays in JavaScript](https://dev.to/who_tf_cares/how-to-work-with-multidimensional-arrays-in-javascript-9jl)
+- [Unlock the Power of AI with a Free Speech Writer: Your Ultimate Guide to AI-Powered Speechwriting](https://dev.to/fz_jtt_0d60fca652a4b/unlock-the-power-of-ai-with-a-free-speech-writer-your-ultimate-guide-to-ai-powered-speechwriting-3iba)
+- [Running WordPress on Containers](https://dev.to/erikaheidi/running-wordpress-on-containers-4blj)
+- [Automating Birthday Emails with Python](https://dev.to/iamrupambiswas/automating-birthday-emails-with-python-1g4m)
 <!-- BLOG-POST-LIST:END -->
 
