@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interaction in JavaScript: `alert`, `prompt`, and `confirm`](https://dev.to/codenextgen/interaction-in-javascript-alert-prompt-and-confirm-e80)
-- [Hacktoberfest 2024: Preparation Guide and Tips](https://dev.to/dumebii/hacktoberfest-2024-preparation-guide-and-tips-34db)
-- [Cloud Computing, Storage and Terminologies](https://dev.to/stephen_onyewuchi_30db622/cloud-computing-storage-and-terminologies-1nc2)
-- [The Impact of Technology on Financial Services: Trends to Watch](https://dev.to/fizza_c3e734ee2a307cf35e5/the-impact-of-technology-on-financial-services-trends-to-watch-30ab)
+- [Mastering Coding Best Practices: Optimize Your Workflow and Boost Productivity](https://dev.to/creowistech/mastering-coding-best-practices-optimize-your-workflow-and-boost-productivity-5205)
+- [The Hidden Costs of Technical Debt: Why Cutting Corners Today Can Hurt Tomorrow](https://dev.to/trev_the_dev/the-hidden-costs-of-technical-debt-why-cutting-corners-today-can-hurt-tomorrow-5eh4)
+- [Save 1000 hours in development time. VSCode shortcuts &amp; Window Management](https://dev.to/matowang/save-1000-hours-in-development-time-vscode-shortcuts-window-management-5198)
+- [Convert insert mutation to upsert](https://dev.to/roalcantara/convert-insert-mutation-to-upsert-2n3n)
 <!-- BLOG-POST-LIST:END -->
 
