@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Frameworks in 2024: React vs. Vue vs. Svelte – Which One to Choose?](https://dev.to/tarunsinghofficial/javascript-frameworks-in-2024-react-vs-vue-vs-svelte-which-one-to-choose-4c0p)
-- [Tested and Proven! 6 Tools to Boost Productivity!](https://dev.to/angelaswift/tested-and-proven-6-tools-to-boost-productivity-37ci)
-- [Organize Your CSS Like a Pro: Logical Grouping of Properties](https://dev.to/tomasdevs/organize-your-css-like-a-pro-logical-grouping-of-properties-3hj8)
-- [this keyword in JS](https://dev.to/abhishekpanwarrr/this-keyword-in-js-4hih)
+- [The HTML History and Optimization Cheat Sheet](https://dev.to/j9t/the-html-history-and-optimization-cheat-sheet-4ekc)
+- [Top 5 tricks for writing listicles that will make you churn out low quality content easily and quickly](https://dev.to/georgewl/top-5-tricks-for-writing-listicles-that-will-make-you-churn-out-low-quality-content-easily-and-quickly-4p04)
+- [🛠️ 21 Dev Tools to 10x Your Productivity &lpar;Plus, Time-Traveling CSS!&rpar;](https://dev.to/adam/21-dev-tools-to-10x-your-productivity-plus-time-traveling-css-1i08)
+- [🔍 Did you know that AWS CloudWatch Logs store logs indefinitely by default? - AWS Tip #1🔍](https://dev.to/lakhera2015/did-you-know-that-aws-cloudwatch-logs-store-logs-indefinitely-by-default-aws-tip-1-1gjc)
 <!-- BLOG-POST-LIST:END -->
 
