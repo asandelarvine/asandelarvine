@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to My Blog – A Journey of Learning and Growth!](https://dev.to/shiv-009-dev/welcome-to-my-blog-a-journey-of-learning-and-growth-530o)
-- [Embed a Full HTML Document Inline Using Shadow DOM](https://dev.to/gamesover/embed-a-full-html-document-inline-using-shadow-dom-5d5d)
-- [Directus Instance Dev](https://dev.to/ansango/directus-instance-dev-289d)
-- [Conditional Branching in JavaScript: `if`, `else`, and `?`](https://dev.to/codenextgen/conditional-branching-in-javascript-if-else-and--3d1n)
+- [Tudo que Estudar, para se tornar uma Engenheira&lpar;o&rpar; de Software.](https://dev.to/thailanelopes/tudo-que-estudar-para-se-tornar-uma-engenheirao-de-software-3e61)
+- [From Fortresses to Fortbytes: Rethinking Cybersecurity in the Quantum Age](https://dev.to/muneeb0758/from-fortresses-to-fortbytes-rethinking-cybersecurity-in-the-quantum-age-5gle)
+- [Tutorial: Getting Started with @kubernetes-client/node](https://dev.to/turck/tutorial-getting-started-with-kubernetes-clientnode-4l78)
+- [Building a Neural Network from Scratch in Rust](https://dev.to/evolvedev/building-a-neural-network-from-scratch-in-rust-10aa)
 <!-- BLOG-POST-LIST:END -->
 
