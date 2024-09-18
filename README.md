@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tudo que Estudar, para se tornar uma Engenheira&lpar;o&rpar; de Software.](https://dev.to/thailanelopes/tudo-que-estudar-para-se-tornar-uma-engenheirao-de-software-3e61)
-- [From Fortresses to Fortbytes: Rethinking Cybersecurity in the Quantum Age](https://dev.to/muneeb0758/from-fortresses-to-fortbytes-rethinking-cybersecurity-in-the-quantum-age-5gle)
-- [Tutorial: Getting Started with @kubernetes-client/node](https://dev.to/turck/tutorial-getting-started-with-kubernetes-clientnode-4l78)
-- [Building a Neural Network from Scratch in Rust](https://dev.to/evolvedev/building-a-neural-network-from-scratch-in-rust-10aa)
+- [AWS SQS to Lambda 429 Errors](https://dev.to/macandersonuche/aws-sqs-to-lambda-429-errors-4cid)
+- [The implications of running Go in a containerised environment.](https://dev.to/rdforte/the-implications-of-running-go-in-a-containerised-environment-3bp1)
+- [Set up a Redis Sentinel](https://dev.to/hedgehog/set-up-a-redis-sentinel-3m50)
+- [O que fazer se o teu código tiver vários if&#39;s?](https://dev.to/darioprazeres/o-que-fazer-se-o-teu-codigo-tiver-varios-ifs-24g2)
 <!-- BLOG-POST-LIST:END -->
 
