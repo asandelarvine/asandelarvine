@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Did I Do? A Time-Tracking Problem](https://dev.to/drazenbebic/what-did-i-do-a-time-tracking-problem-9b7)
-- [SQL, in each group modify the null value of a specified column as its neighboring value #eg43](https://dev.to/esproc_spl/sql-in-each-group-modify-the-null-value-of-a-specified-column-as-its-neighboring-value-eg43-4l7b)
-- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-4901)
-- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-41ld)
+- [Overview of GBase 8c Syntax](https://dev.to/congcong/overview-of-gbase-8c-syntax-11fc)
+- [PSD Batch Editor](https://dev.to/rdereu/psd-batch-editor-246e)
+- [Cut AWS Costs by 90%: How We Saved Big and Gained Flexibility](https://dev.to/parkerava/cut-aws-costs-by-90-how-we-saved-big-and-gained-flexibility-25gl)
+- [Why You Should Hide Your API Key: Best Practices for Cybersecurity](https://dev.to/jlo128456/why-you-should-hide-your-api-key-best-practices-for-cybersecurity-3eo2)
 <!-- BLOG-POST-LIST:END -->
 
