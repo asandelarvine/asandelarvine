@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Work with Multidimensional Arrays in JavaScript](https://dev.to/who_tf_cares/how-to-work-with-multidimensional-arrays-in-javascript-9jl)
-- [Unlock the Power of AI with a Free Speech Writer: Your Ultimate Guide to AI-Powered Speechwriting](https://dev.to/fz_jtt_0d60fca652a4b/unlock-the-power-of-ai-with-a-free-speech-writer-your-ultimate-guide-to-ai-powered-speechwriting-3iba)
-- [Running WordPress on Containers](https://dev.to/erikaheidi/running-wordpress-on-containers-4blj)
-- [Automating Birthday Emails with Python](https://dev.to/iamrupambiswas/automating-birthday-emails-with-python-1g4m)
+- [🗄️🚀 SQL vs NoSQL: Viability and Comparison](https://dev.to/fonteeboa/sql-vs-nosql-viability-and-comparison-gik)
+- [React Basics Part 2](https://dev.to/mrcaption49/react-basics-part-2-4e1c)
+- [Apache Airflow](https://dev.to/sandeepk27/apache-airflow-lob)
+- [How Custom GitHub Actions Enabled Us to Streamline Thousands of CI/CD Pipelines](https://dev.to/permit_io/how-custom-github-actions-enabled-us-to-streamline-thousands-of-cicd-pipelines-4pb0)
 <!-- BLOG-POST-LIST:END -->
 
