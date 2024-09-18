@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Pi to Sky: How My Kubernetes Cluster Evolved Beyond Raspberry](https://dev.to/padiazg/from-pi-to-sky-how-my-kubernetes-cluster-evolved-beyond-raspberry-nf2)
-- [Top 6 FREE💸Tools for Web Developers](https://dev.to/acode123/top-6-freetools-for-web-developers-54da)
-- [Making A Contribution](https://dev.to/aamfahim/making-acontribution-b40)
-- [Exploring the Features of FastAPI](https://dev.to/kartikmehta8/exploring-the-features-of-fastapi-bo1)
+- [Philosophy of Redux](https://dev.to/mdiffshashank/philosophy-of-redux-1n25)
+- [To generate an SSH key in Ubuntu](https://dev.to/pheak_pheasa/to-generate-an-ssh-key-in-ubuntu-2jjf)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;09/09/2024-15/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-09092024-15092024-1oh5)
+- [Managing dependencies like a pro in Android with version catalogs](https://dev.to/leadpresence/managing-dependencies-like-a-pro-in-android-with-version-catalogs-54mf)
 <!-- BLOG-POST-LIST:END -->
 
