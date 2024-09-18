@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless Communication: Building an Automated Email Writing Service with OpenAI and Spring Boot](https://dev.to/virajlakshitha/effortless-communication-building-an-automated-email-writing-service-with-openai-and-spring-boot-3jie)
-- [How AI Can Help Get Your Content on Google&#39;s Front Page](https://dev.to/juddiy/how-ai-can-help-get-your-content-on-googles-front-page-30pb)
-- [Angular dependency injection using multi-providers](https://dev.to/nhannguyendevjs/angular-dependency-injection-using-multi-providers-mnh)
-- [Dive into Machine Learning: A Curated Collection of Free Programming Resources](https://dev.to/getvm/dive-into-machine-learning-a-curated-collection-of-free-programming-resources-1038)
+- [Welcome Thread - v294](https://dev.to/devteam/welcome-thread-v294-216e)
+- [The Advantages of Compressed Data Centers: Enhancing Efficiency and Effectiveness](https://dev.to/adityabhuyan/the-advantages-of-compressed-data-centers-enhancing-efficiency-and-effectiveness-4c3p)
+- [100+ React E-Commerce Components for Modern Stores](https://dev.to/tailwindcss/react-e-commerce-components-4nd4)
+- [Exploring the Necessity of Sub-7nm Processors: Software Optimizations vs. Hardware Upgrades](https://dev.to/adityabhuyan/exploring-the-necessity-of-sub-7nm-processors-software-optimizations-vs-hardware-upgrades-33ji)
 <!-- BLOG-POST-LIST:END -->
 
