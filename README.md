@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Philosophy of Redux](https://dev.to/mdiffshashank/philosophy-of-redux-1n25)
-- [To generate an SSH key in Ubuntu](https://dev.to/pheak_pheasa/to-generate-an-ssh-key-in-ubuntu-2jjf)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;09/09/2024-15/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-09092024-15092024-1oh5)
-- [Managing dependencies like a pro in Android with version catalogs](https://dev.to/leadpresence/managing-dependencies-like-a-pro-in-android-with-version-catalogs-54mf)
+- [Effortless Communication: Building an Automated Email Writing Service with OpenAI and Spring Boot](https://dev.to/virajlakshitha/effortless-communication-building-an-automated-email-writing-service-with-openai-and-spring-boot-3jie)
+- [How AI Can Help Get Your Content on Google&#39;s Front Page](https://dev.to/juddiy/how-ai-can-help-get-your-content-on-googles-front-page-30pb)
+- [Angular dependency injection using multi-providers](https://dev.to/nhannguyendevjs/angular-dependency-injection-using-multi-providers-mnh)
+- [Dive into Machine Learning: A Curated Collection of Free Programming Resources](https://dev.to/getvm/dive-into-machine-learning-a-curated-collection-of-free-programming-resources-1038)
 <!-- BLOG-POST-LIST:END -->
 
