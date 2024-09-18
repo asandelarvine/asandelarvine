@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SQS to Lambda 429 Errors](https://dev.to/macandersonuche/aws-sqs-to-lambda-429-errors-4cid)
-- [The implications of running Go in a containerised environment.](https://dev.to/rdforte/the-implications-of-running-go-in-a-containerised-environment-3bp1)
-- [Set up a Redis Sentinel](https://dev.to/hedgehog/set-up-a-redis-sentinel-3m50)
-- [O que fazer se o teu código tiver vários if&#39;s?](https://dev.to/darioprazeres/o-que-fazer-se-o-teu-codigo-tiver-varios-ifs-24g2)
+- [How I Built a Mini Programming Language for Automatic Web Page Generation – Step by Step](https://dev.to/mrldv/how-i-built-a-mini-programming-language-for-automatic-web-page-generation-step-by-step-5g6h)
+- [AWS SQS to Lambda Failed Processed Messages](https://dev.to/macandersonuche/aws-sqs-to-lambda-failed-processed-messages-48d2)
+- [Docker Challenges: Embark on a Mystical Journey through Ancient Egypt, Interstellar Exploration, and More! 🚀⚛️](https://dev.to/labex/docker-challenges-embark-on-a-mystical-journey-through-ancient-egypt-interstellar-exploration-and-more-1gma)
+- [Software Engineering: How to work and think like an engineer](https://dev.to/bcostaaa01/software-engineering-how-to-work-and-think-like-an-engineer-4p4o)
 <!-- BLOG-POST-LIST:END -->
 
