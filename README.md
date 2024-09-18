@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing our First Community Web Game Challenge 👾](https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo)
-- [Analyzing NYC Schools&#39; SAT Performance: Reflections on this project](https://dev.to/arnaud2911/analyzing-nyc-schools-sat-performance-reflections-this-project-2lga)
-- [OpenAPI 3.1 - The Cheat Sheet](https://dev.to/bump/openapi-31-the-cheat-sheet-c9l)
-- [Functional Programming with JavaScript](https://dev.to/nozibul_islam_113b1d5334f/functional-programming-with-javascript-1mm8)
+- [JavaScript Frameworks in 2024: React vs. Vue vs. Svelte – Which One to Choose?](https://dev.to/tarunsinghofficial/javascript-frameworks-in-2024-react-vs-vue-vs-svelte-which-one-to-choose-4c0p)
+- [Tested and Proven! 6 Tools to Boost Productivity!](https://dev.to/angelaswift/tested-and-proven-6-tools-to-boost-productivity-37ci)
+- [Organize Your CSS Like a Pro: Logical Grouping of Properties](https://dev.to/tomasdevs/organize-your-css-like-a-pro-logical-grouping-of-properties-3hj8)
+- [this keyword in JS](https://dev.to/abhishekpanwarrr/this-keyword-in-js-4hih)
 <!-- BLOG-POST-LIST:END -->
 
