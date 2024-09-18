@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Monty Hall Problem Project: Simulate and Understand Probability Concepts](https://dev.to/labex/dive-into-the-monty-hall-problem-project-simulate-and-understand-probability-concepts-51n5)
-- [Introducing RefactorCode - Enhance your code with a single command 👨‍💻](https://dev.to/bregwin/introducing-refactorcode-enhance-your-code-with-a-single-command-4982)
-- [Issue 62 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-62-of-aws-cloud-security-weekly-4iji)
-- [Algorithm Analysis](https://dev.to/gabrieldantasds/algorithm-analysis-3904)
+- [From Pi to Sky: How My Kubernetes Cluster Evolved Beyond Raspberry](https://dev.to/padiazg/from-pi-to-sky-how-my-kubernetes-cluster-evolved-beyond-raspberry-nf2)
+- [Top 6 FREE💸Tools for Web Developers](https://dev.to/acode123/top-6-freetools-for-web-developers-54da)
+- [Making A Contribution](https://dev.to/aamfahim/making-acontribution-b40)
+- [Exploring the Features of FastAPI](https://dev.to/kartikmehta8/exploring-the-features-of-fastapi-bo1)
 <!-- BLOG-POST-LIST:END -->
 
