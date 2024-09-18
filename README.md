@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗄️🚀 SQL vs NoSQL: Viability and Comparison](https://dev.to/fonteeboa/sql-vs-nosql-viability-and-comparison-gik)
-- [React Basics Part 2](https://dev.to/mrcaption49/react-basics-part-2-4e1c)
-- [Apache Airflow](https://dev.to/sandeepk27/apache-airflow-lob)
-- [How Custom GitHub Actions Enabled Us to Streamline Thousands of CI/CD Pipelines](https://dev.to/permit_io/how-custom-github-actions-enabled-us-to-streamline-thousands-of-cicd-pipelines-4pb0)
+- [Welcome to My Blog – A Journey of Learning and Growth!](https://dev.to/shiv-009-dev/welcome-to-my-blog-a-journey-of-learning-and-growth-530o)
+- [Embed a Full HTML Document Inline Using Shadow DOM](https://dev.to/gamesover/embed-a-full-html-document-inline-using-shadow-dom-5d5d)
+- [Directus Instance Dev](https://dev.to/ansango/directus-instance-dev-289d)
+- [Conditional Branching in JavaScript: `if`, `else`, and `?`](https://dev.to/codenextgen/conditional-branching-in-javascript-if-else-and--3d1n)
 <!-- BLOG-POST-LIST:END -->
 
