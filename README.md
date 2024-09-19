@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enriching Event Registrant Data With OpenAI API &lpar;Event Management Use-Case&rpar;](https://dev.to/danielrosehill/enriching-event-registrant-data-with-openai-api-event-management-use-case-44ma)
-- [Single Number 2](https://dev.to/prashantrmishra/single-number-2-30ce)
-- [Figma&#39;s New Dev Mode: A Game-Changer for Designers and Developers](https://dev.to/uicraft_by_pratik/figmas-new-dev-mode-a-game-changer-for-designers-and-developers-11j3)
-- [All you need to know about RESTful routing](https://dev.to/cristinalynn/all-you-need-to-know-about-restful-routing-3bcb)
+- [Understanding Binary Search: A Powerful Algorithm for Efficient Searching](https://dev.to/nd_18b1e31aad9b7eca9e465a/understanding-binary-search-a-powerful-algorithm-for-efficient-searching-100k)
+- [A Developer’s Tool for Managing Discord Time Zones](https://dev.to/badrnyali/a-developers-tool-for-managing-discord-time-zones-42nj)
+- [Golang and Python In CyberSecurity](https://dev.to/arslan_rajpoot_8bf9292f41/golang-and-python-in-cybersecurity-2b2h)
+- [handlenewtickets](https://dev.to/nicholasg/handlenewtickets-1cch)
 <!-- BLOG-POST-LIST:END -->
 
