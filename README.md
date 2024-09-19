@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dockerize Vite](https://dev.to/code42cate/how-to-dockerize-vite-44d3)
-- [Sharing Authentication cookies across Laravel Apps](https://dev.to/bedram-tamang/sharing-authentication-cookies-across-laravel-apps-528f)
-- [How to Start Freelancing?](https://dev.to/itshayder/how-to-start-freelancing-38bo)
-- [useLayoutEffect in Zustand test-case explained.](https://dev.to/thinkthroo/uselayouteffect-in-zustand-test-case-explained-1b3i)
+- [v0.dev: Your New Favorite Playground for UI Development 🔥🚀](https://dev.to/hadil/v0dev-your-new-favorite-playground-for-ui-development-59oa)
+- [lswap &lpar;clipboard-translator&rpar;](https://dev.to/xastrix/lswap-clipboard-translator-4l5i)
+- [LocalStack: Empowering Local AWS Cloud Development](https://dev.to/kulahad/localstack-empowering-local-cloud-development-5gcf)
+- [Como trabajar con Prisma ORM](https://dev.to/oswa/como-trabajar-con-prisma-orm-3j9b)
 <!-- BLOG-POST-LIST:END -->
 
