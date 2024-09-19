@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up AWS S3 and CloudFront with Signed URLs using CDK](https://dev.to/mingrelax/setting-up-aws-s3-and-cloudfront-with-signed-urls-using-cdk-2o72)
-- [The Power of Tries, Data Structure Optimization in Emacs](https://dev.to/rudolfolah/the-power-of-tries-data-structure-optimization-in-emacs-2abb)
-- [How to Extract LoRA from FLUX Fine Tuning Full Tutorial + Comparison Between Fine Tuning Extraction vs LoRA Training](https://dev.to/furkangozukara/how-to-extract-lora-from-flux-fine-tuning-full-tutorial-comparison-between-fine-tuning-extraction-vs-lora-training-oa)
-- [Overview of GBase 8c Row Storage Engine Syntax](https://dev.to/congcong/overview-of-gbase-8c-row-storage-engine-syntax-3n90)
+- [LabEx Trending: Implementing Callback Functions in C and More](https://dev.to/labex/labex-trending-implementing-callback-functions-in-c-and-more-164n)
+- [How to Secure OpenResty with a Free WAF](https://dev.to/carrie_luo1/quick-integration-of-free-waf-with-nginx-aa2)
+- [Project Planning](https://dev.to/ianacaburian/project-planning-2deg)
+- [Code Against the Clock: From Clicks to Cash](https://dev.to/programmerraja/code-against-the-clock-from-clicks-to-cash-2dg)
 <!-- BLOG-POST-LIST:END -->
 
