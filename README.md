@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vanilla Javascript](https://dev.to/drupal-developer-dewan/vanilla-javascript-4iho)
-- [Making a custom Bootloader for a Custom OS.](https://dev.to/mr-3/making-a-custom-bootloader-1602)
-- [5 go-to-market lessons I learned from driving a developer-led growth product](https://dev.to/logto/5-go-to-market-lessons-i-learned-from-driving-a-developer-led-growth-product-3ep6)
-- [Exploring Job Market for Software Engineers](https://dev.to/suzumenobu/exploring-job-market-for-software-engineers-3li8)
+- [OS Development &lpar;The truth&rpar;](https://dev.to/mr-3/os-development-the-truth-1cc2)
+- [Beyond SQL: A New Ruby ORM for Adaptive Data](https://dev.to/couchbase/beyond-sql-a-new-ruby-orm-for-adaptive-data-4jcg)
+- [How long can the DJI Mini 2 and Mini SE fly on a single charge?](https://dev.to/muhammad_atif_1f1c80c5c97/how-long-can-the-dji-mini-2-and-mini-se-fly-on-a-single-charge-46io)
+- [How Does Google Measure the Impact of Search Algorithm Changes?](https://dev.to/juddiy/how-does-google-measure-the-impact-of-search-algorithm-changes-2d39)
 <!-- BLOG-POST-LIST:END -->
 
