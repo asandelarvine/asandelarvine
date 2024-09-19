@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quickly index these web pages with IndexNow](https://dev.to/thomasbnt/quickly-index-these-web-pages-with-indexnow-2i9i)
-- [Using Open Source WAF to Address Crawlers Occupying Significant Network Bandwidth](https://dev.to/carrie_luo1/using-open-source-waf-to-address-crawlers-occupying-significant-network-bandwidth-i31)
-- [Interview with Hussein Hareb, Creator of Ηw-monitor!](https://dev.to/crabnebula/interview-with-hussein-hareb-creator-of-ew-monitor-4j7m)
-- [Beginner Questions about ML classification / forecasts](https://dev.to/maximhh/beginner-questions-about-ml-classification-forecasts-1pc1)
+- [Networking for Developers: How to Build a Strong Professional Network](https://dev.to/daviekim13/networking-for-developers-how-to-build-a-strong-professional-network-57hk)
+- [The Evolution of File Access Security in Android: Navigating Path Restrictions from Android 1.0 to Android 15](https://dev.to/daviekim13/the-evolution-of-file-access-security-in-android-navigating-path-restrictions-from-android-10-to-android-15-5dl6)
+- [How to sell yourself](https://dev.to/ayush_kumawat_72c6f9b7225/how-to-sell-yourself-2a4i)
+- [Mazal Music Player](https://dev.to/saramazal/mazal-music-player-97b)
 <!-- BLOG-POST-LIST:END -->
 
