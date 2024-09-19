@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Submodules](https://dev.to/aerabi/git-submodules-nkc)
-- [Git para Iniciantes: Tudo o que você precisa saber para começar a usar](https://dev.to/sdesuzane/git-para-iniciantes-tudo-o-que-voce-precisa-saber-para-comecar-a-usar-4plb)
-- [A year-long journey](https://dev.to/pedchenkoroman/a-year-long-journey-84h)
-- [How to Utilize Artificial Intelligence to Your Advantage](https://dev.to/juliyajohnson/how-to-utilize-artificial-intelligence-to-your-advantage-10lm)
+- [17 LLM Tools That Went Viral After Launch 🎯⚡😳](https://dev.to/latitude/17-llm-tools-that-went-viral-after-launch-4gim)
+- [Forks in GitHub](https://dev.to/ledscolatina/forks-in-github-39l7)
+- [EchoAPI vs Insomnia: A Comprehensive Comparison with Practical Examples](https://dev.to/johnjava/echoapi-vs-insomnia-a-comprehensive-comparison-with-practical-examples-2114)
+- [How to Fix Tailwind CSS Not Working in Next.js](https://dev.to/harshit7492/how-to-fix-tailwind-css-not-working-in-nextjs-317m)
 <!-- BLOG-POST-LIST:END -->
 
