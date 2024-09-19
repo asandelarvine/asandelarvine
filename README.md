@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Scrum Part of Software Testing Training?](https://dev.to/wasim_tariq_3f701ff2a0ff1/is-scrum-part-of-software-testing-training-2ebl)
-- [Understanding the Linux Filesystem, Root File System, and EXT File System](https://dev.to/adityabhuyan/understanding-the-linux-filesystem-root-file-system-and-ext-file-system-d15)
-- [Choosing data structures for Advent of Code 2018 Day 24](https://dev.to/robinfivewords/choosing-data-structures-for-advent-of-code-2018-day-24-1ke)
-- [Understanding `try...catch` and `Promises` in JavaScript](https://dev.to/__vamshi_gorre/understanding-trycatch-and-promises-in-javascript-2gh9)
+- [Creating an Efficient IT Incident Management Plan: A Guide to Templates and Best Practices](https://dev.to/squadcast/creating-an-efficient-it-incident-management-plan-a-guide-to-templates-and-best-practices-4l9n)
+- [How to Implement Clustering in Node.js](https://dev.to/susheel_kumar/how-to-implement-clustering-in-nodejs-5gni)
+- [Legal Considerations When Hiring Offshore PHP Developers](https://dev.to/inspius/legal-considerations-when-hiring-offshore-php-developers-1iam)
+- [Amplify Your Response Team&#39;s Impact: Introducing Squadcast’s Additional Responders](https://dev.to/squadcast/amplify-your-response-teams-impact-introducing-squadcasts-additional-responders-2lo5)
 <!-- BLOG-POST-LIST:END -->
 
