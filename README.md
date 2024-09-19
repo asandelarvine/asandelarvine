@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Success in Data Engineering Interviews](https://dev.to/grayhat/unlocking-success-in-data-engineering-interviews-36ba)
-- [Setup Gitlab CI](https://dev.to/chauhoangminhnguyen/setup-gitlab-ci-1pc1)
-- [Tips for testing queued jobs in Laravel](https://dev.to/eduarguz/tips-for-testing-queued-jobs-in-laravel-4c77)
-- [Top 10 Free APIs You Should Know](https://dev.to/nilebits/top-10-free-apis-you-should-know-525f)
+- [Service Workers - One Byte Explainer](https://dev.to/programordie/service-workers-one-byte-explainer-13c9)
+- [SQL Injections](https://dev.to/mohanavamsi0614/sql-injections-2b2i)
+- [Intro to firewalls🔥](https://dev.to/mohanavamsi0614/intro-to-firewalls-2em5)
+- [Data-Driven and Keyword-Driven Framework: Differences, Challenges, and Benefits](https://dev.to/testifytech/data-driven-and-keyword-driven-framework-differences-challenges-and-benefits-305e)
 <!-- BLOG-POST-LIST:END -->
 
