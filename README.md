@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [v0.dev: Your New Favorite Playground for UI Development 🔥🚀](https://dev.to/hadil/v0dev-your-new-favorite-playground-for-ui-development-59oa)
-- [lswap &lpar;clipboard-translator&rpar;](https://dev.to/xastrix/lswap-clipboard-translator-4l5i)
-- [LocalStack: Empowering Local AWS Cloud Development](https://dev.to/kulahad/localstack-empowering-local-cloud-development-5gcf)
-- [Como trabajar con Prisma ORM](https://dev.to/oswa/como-trabajar-con-prisma-orm-3j9b)
+- [These coding fonts are incredible](https://dev.to/safdarali/these-coding-fonts-are-incredible-4247)
+- [Visual AI in Healthcare: Interpretable AI Models in Radiology](https://dev.to/voxel51/visual-ai-in-healthcare-interpretable-ai-models-in-radiology-3na3)
+- [A basic MQTT Docker deployment](https://dev.to/johnscode/a-basic-mqtt-docker-deployment-1aah)
+- [Unlock 2x Faster Async Programming with Java Futures](https://dev.to/emilyjohnsonready/unlock-2x-faster-async-programming-with-java-futures-46o9)
 <!-- BLOG-POST-LIST:END -->
 
