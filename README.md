@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Mini Programming Language for Automatic Web Page Generation – Step by Step](https://dev.to/mrldv/how-i-built-a-mini-programming-language-for-automatic-web-page-generation-step-by-step-5g6h)
-- [AWS SQS to Lambda Failed Processed Messages](https://dev.to/macandersonuche/aws-sqs-to-lambda-failed-processed-messages-48d2)
-- [Docker Challenges: Embark on a Mystical Journey through Ancient Egypt, Interstellar Exploration, and More! 🚀⚛️](https://dev.to/labex/docker-challenges-embark-on-a-mystical-journey-through-ancient-egypt-interstellar-exploration-and-more-1gma)
-- [Software Engineering: How to work and think like an engineer](https://dev.to/bcostaaa01/software-engineering-how-to-work-and-think-like-an-engineer-4p4o)
+- [TIL: HTTP methods are case-sensitive](https://dev.to/dleedev365/til-http-methods-are-case-sensitive-5edh)
+- [Git Cheatsheet that will make you a master in Git](https://dev.to/hichamelhirch/git-cheatsheet-that-will-make-you-a-master-in-git-2m9a)
+- [Building a Terminal TODO App in Rust](https://dev.to/tramposo/building-a-terminal-todo-app-in-rust-39l2)
+- [Code Smell 270 - Boolean APIs](https://dev.to/mcsee/code-smell-270-boolean-apis-3ddn)
 <!-- BLOG-POST-LIST:END -->
 
