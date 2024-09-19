@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 23 Has Arrived What&#39;s New ?](https://dev.to/isaactony/java-23-has-arrived-whats-new-9-minute-read-i61)
-- [I built an OpenSource Slack Employee Recognition Bot using NextJS](https://dev.to/iamvaar/i-built-an-opensource-slack-employee-recognition-bot-using-nextjs-1jjj)
-- [Building a Terminal-Based Morse Code Translator](https://dev.to/tramposo/building-a-terminal-based-morse-code-translator-4i8k)
-- [Unlocking the Power of Git Worktree: A Game-Changer for Developers 🚀](https://dev.to/rakshyak/unlocking-the-power-of-git-worktree-a-game-changer-for-developers-5b32)
+- [Infrastructure Driven Development](https://dev.to/codingcatdev/infrastructure-driven-development-18gg)
+- [Flexbox – The Modern Way to Align and Distribute Space](https://dev.to/ridoy_hasan/flexbox-the-modern-way-to-align-and-distribute-space-2il3)
+- [Day 10. TODOs](https://dev.to/kiolk/day-10-todos-5em8)
+- [How I scout the &#39;ideal&#39; YouTube partner at Clerk](https://dev.to/alex_rapp_58f44471ada3639/how-i-scout-the-ideal-youtube-partner-at-clerk-2gjn)
 <!-- BLOG-POST-LIST:END -->
 
