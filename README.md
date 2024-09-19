@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Workers - One Byte Explainer](https://dev.to/programordie/service-workers-one-byte-explainer-13c9)
-- [SQL Injections](https://dev.to/mohanavamsi0614/sql-injections-2b2i)
-- [Intro to firewalls🔥](https://dev.to/mohanavamsi0614/intro-to-firewalls-2em5)
-- [Data-Driven and Keyword-Driven Framework: Differences, Challenges, and Benefits](https://dev.to/testifytech/data-driven-and-keyword-driven-framework-differences-challenges-and-benefits-305e)
+- [Enriching Event Registrant Data With OpenAI API &lpar;Event Management Use-Case&rpar;](https://dev.to/danielrosehill/enriching-event-registrant-data-with-openai-api-event-management-use-case-44ma)
+- [Single Number 2](https://dev.to/prashantrmishra/single-number-2-30ce)
+- [Figma&#39;s New Dev Mode: A Game-Changer for Designers and Developers](https://dev.to/uicraft_by_pratik/figmas-new-dev-mode-a-game-changer-for-designers-and-developers-11j3)
+- [All you need to know about RESTful routing](https://dev.to/cristinalynn/all-you-need-to-know-about-restful-routing-3bcb)
 <!-- BLOG-POST-LIST:END -->
 
