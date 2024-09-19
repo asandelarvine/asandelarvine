@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OS Development &lpar;The truth&rpar;](https://dev.to/mr-3/os-development-the-truth-1cc2)
-- [Beyond SQL: A New Ruby ORM for Adaptive Data](https://dev.to/couchbase/beyond-sql-a-new-ruby-orm-for-adaptive-data-4jcg)
-- [How long can the DJI Mini 2 and Mini SE fly on a single charge?](https://dev.to/muhammad_atif_1f1c80c5c97/how-long-can-the-dji-mini-2-and-mini-se-fly-on-a-single-charge-46io)
-- [How Does Google Measure the Impact of Search Algorithm Changes?](https://dev.to/juddiy/how-does-google-measure-the-impact-of-search-algorithm-changes-2d39)
+- [Server-Side Rendering with Spring Boot](https://dev.to/nfrankel/server-side-rendering-with-spring-boot-2d8k)
+- [AI Creativity: Dissecting Large Language Models&#39; Potential and Pitfalls](https://dev.to/mikeyoung44/ai-creativity-dissecting-large-language-models-potential-and-pitfalls-163e)
+- [10 Ways AI Can Speed Up your Mobile App Development](https://dev.to/koral/10-ways-ai-can-speed-up-your-mobile-app-development-3278)
+- [Read specified columns from a csv file #eg44](https://dev.to/esproc_spl/read-specified-columns-from-a-csv-file-eg44-244i)
 <!-- BLOG-POST-LIST:END -->
 
