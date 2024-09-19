@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: HTTP methods are case-sensitive](https://dev.to/dleedev365/til-http-methods-are-case-sensitive-5edh)
-- [Git Cheatsheet that will make you a master in Git](https://dev.to/hichamelhirch/git-cheatsheet-that-will-make-you-a-master-in-git-2m9a)
-- [Building a Terminal TODO App in Rust](https://dev.to/tramposo/building-a-terminal-todo-app-in-rust-39l2)
-- [Code Smell 270 - Boolean APIs](https://dev.to/mcsee/code-smell-270-boolean-apis-3ddn)
+- [Setting up AWS S3 and CloudFront with Signed URLs using CDK](https://dev.to/mingrelax/setting-up-aws-s3-and-cloudfront-with-signed-urls-using-cdk-2o72)
+- [The Power of Tries, Data Structure Optimization in Emacs](https://dev.to/rudolfolah/the-power-of-tries-data-structure-optimization-in-emacs-2abb)
+- [How to Extract LoRA from FLUX Fine Tuning Full Tutorial + Comparison Between Fine Tuning Extraction vs LoRA Training](https://dev.to/furkangozukara/how-to-extract-lora-from-flux-fine-tuning-full-tutorial-comparison-between-fine-tuning-extraction-vs-lora-training-oa)
+- [Overview of GBase 8c Row Storage Engine Syntax](https://dev.to/congcong/overview-of-gbase-8c-row-storage-engine-syntax-3n90)
 <!-- BLOG-POST-LIST:END -->
 
