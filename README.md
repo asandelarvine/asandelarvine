@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;next build&#39; not showing uploaded file : Next.js Image](https://dev.to/tushar_gajwani_0b4e241c8b/next-build-not-showing-uploaded-file-nextjs-image-23h0)
-- [What is ASP.NET used for in software development?](https://dev.to/abtosoftware/what-is-aspnet-used-for-in-software-development-1eke)
-- [Convert Google Slides to PDF](https://dev.to/jkrajniak/convert-google-slides-to-pdf-2jkd)
-- [Allocated case-Kenyatta University Teaching Research &amp; Refferal Hospital&lpar;KUTRRH&rpar;](https://dev.to/ndungu_jeffersonmarira_/allocated-case-kenyatta-university-teaching-research-refferal-hospitalkutrrh-1ehb)
+- [How to Dockerize Vite](https://dev.to/code42cate/how-to-dockerize-vite-44d3)
+- [Sharing Authentication cookies across Laravel Apps](https://dev.to/bedram-tamang/sharing-authentication-cookies-across-laravel-apps-528f)
+- [How to Start Freelancing?](https://dev.to/itshayder/how-to-start-freelancing-38bo)
+- [useLayoutEffect in Zustand test-case explained.](https://dev.to/thinkthroo/uselayouteffect-in-zustand-test-case-explained-1b3i)
 <!-- BLOG-POST-LIST:END -->
 
