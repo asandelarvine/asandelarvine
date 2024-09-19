@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to be in top 1% on leetcode in 6 months.](https://dev.to/ayush_kumawat_72c6f9b7225/how-to-be-in-top-1-on-leetcode-in-6-months-386o)
-- [Algoritmga Kirish va Asosiy Tushunchalar](https://dev.to/islomali99/algoritmga-kirish-va-asosiy-tushunchalar-1f6l)
-- [傳給 std:sort 的比較函式注意事項](https://dev.to/codemee/chuan-gei-stdsort-de-bi-jiao-han-shi-zhu-yi-shi-xiang-51on)
-- [How to create spaces in Hugging Face?](https://dev.to/itstomlie/how-to-create-spaces-in-hugging-face-a9k)
+- [Vanilla Javascript](https://dev.to/drupal-developer-dewan/vanilla-javascript-4iho)
+- [Making a custom Bootloader for a Custom OS.](https://dev.to/mr-3/making-a-custom-bootloader-1602)
+- [5 go-to-market lessons I learned from driving a developer-led growth product](https://dev.to/logto/5-go-to-market-lessons-i-learned-from-driving-a-developer-led-growth-product-3ep6)
+- [Exploring Job Market for Software Engineers](https://dev.to/suzumenobu/exploring-job-market-for-software-engineers-3li8)
 <!-- BLOG-POST-LIST:END -->
 
