@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Efficient IT Incident Management Plan: A Guide to Templates and Best Practices](https://dev.to/squadcast/creating-an-efficient-it-incident-management-plan-a-guide-to-templates-and-best-practices-4l9n)
-- [How to Implement Clustering in Node.js](https://dev.to/susheel_kumar/how-to-implement-clustering-in-nodejs-5gni)
-- [Legal Considerations When Hiring Offshore PHP Developers](https://dev.to/inspius/legal-considerations-when-hiring-offshore-php-developers-1iam)
-- [Amplify Your Response Team&#39;s Impact: Introducing Squadcast’s Additional Responders](https://dev.to/squadcast/amplify-your-response-teams-impact-introducing-squadcasts-additional-responders-2lo5)
+- [How to be in top 1% on leetcode in 6 months.](https://dev.to/ayush_kumawat_72c6f9b7225/how-to-be-in-top-1-on-leetcode-in-6-months-386o)
+- [Algoritmga Kirish va Asosiy Tushunchalar](https://dev.to/islomali99/algoritmga-kirish-va-asosiy-tushunchalar-1f6l)
+- [傳給 std:sort 的比較函式注意事項](https://dev.to/codemee/chuan-gei-stdsort-de-bi-jiao-han-shi-zhu-yi-shi-xiang-51on)
+- [How to create spaces in Hugging Face?](https://dev.to/itstomlie/how-to-create-spaces-in-hugging-face-a9k)
 <!-- BLOG-POST-LIST:END -->
 
