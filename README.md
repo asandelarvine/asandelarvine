@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: Implementing Callback Functions in C and More](https://dev.to/labex/labex-trending-implementing-callback-functions-in-c-and-more-164n)
-- [How to Secure OpenResty with a Free WAF](https://dev.to/carrie_luo1/quick-integration-of-free-waf-with-nginx-aa2)
-- [Project Planning](https://dev.to/ianacaburian/project-planning-2deg)
-- [Code Against the Clock: From Clicks to Cash](https://dev.to/programmerraja/code-against-the-clock-from-clicks-to-cash-2dg)
+- [Is Scrum Part of Software Testing Training?](https://dev.to/wasim_tariq_3f701ff2a0ff1/is-scrum-part-of-software-testing-training-2ebl)
+- [Understanding the Linux Filesystem, Root File System, and EXT File System](https://dev.to/adityabhuyan/understanding-the-linux-filesystem-root-file-system-and-ext-file-system-d15)
+- [Choosing data structures for Advent of Code 2018 Day 24](https://dev.to/robinfivewords/choosing-data-structures-for-advent-of-code-2018-day-24-1ke)
+- [Understanding `try...catch` and `Promises` in JavaScript](https://dev.to/__vamshi_gorre/understanding-trycatch-and-promises-in-javascript-2gh9)
 <!-- BLOG-POST-LIST:END -->
 
