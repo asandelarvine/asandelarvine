@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Binary Search: A Powerful Algorithm for Efficient Searching](https://dev.to/nd_18b1e31aad9b7eca9e465a/understanding-binary-search-a-powerful-algorithm-for-efficient-searching-100k)
-- [A Developer’s Tool for Managing Discord Time Zones](https://dev.to/badrnyali/a-developers-tool-for-managing-discord-time-zones-42nj)
-- [Golang and Python In CyberSecurity](https://dev.to/arslan_rajpoot_8bf9292f41/golang-and-python-in-cybersecurity-2b2h)
-- [handlenewtickets](https://dev.to/nicholasg/handlenewtickets-1cch)
+- [Java 23 Has Arrived What&#39;s New ?](https://dev.to/isaactony/java-23-has-arrived-whats-new-9-minute-read-i61)
+- [I built an OpenSource Slack Employee Recognition Bot using NextJS](https://dev.to/iamvaar/i-built-an-opensource-slack-employee-recognition-bot-using-nextjs-1jjj)
+- [Building a Terminal-Based Morse Code Translator](https://dev.to/tramposo/building-a-terminal-based-morse-code-translator-4i8k)
+- [Unlocking the Power of Git Worktree: A Game-Changer for Developers 🚀](https://dev.to/rakshyak/unlocking-the-power-of-git-worktree-a-game-changer-for-developers-5b32)
 <!-- BLOG-POST-LIST:END -->
 
