@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Own photo and video storage as free iCloud alternative](https://dev.to/amnezia/own-photo-and-video-storage-as-free-icloud-alternative-2di9)
-- [Essential Steps to Launching a Profitable Website](https://dev.to/muskaan_jayant_285e14c8bf/essential-steps-to-launching-a-profitable-website-1kcf)
-- [How to Add Photos and Videos to Google My Business: A Step-by-Step Guide](https://dev.to/softy_houp_2f2cd5b966c0a4/how-to-add-photos-and-videos-to-google-my-business-a-step-by-step-guide-3afn)
-- [The Importance of Service Mesh: Strategies, Best Practices, and Insights for Businesses](https://dev.to/keploy/the-importance-of-service-mesh-strategies-best-practices-and-insights-for-businesses-470b)
+- [GitHub: learning about the feature called Issues☕](https://dev.to/ledscolatina/github-learning-about-the-feature-called-issues-2ifm)
+- [7 SQL Concepts You Should Know as a Data Scientist?](https://dev.to/sachingeek/7-sql-concepts-you-should-know-as-a-data-scientist-28n3)
+- [Medium.com API in Python](https://dev.to/theholyspirit/mediumcom-api-in-python-1kjn)
+- [Como executar várias operações de forma transacional em Golang?](https://dev.to/ortizdavid/como-executar-varias-operacoes-de-forma-transacional-em-golang-2nmo)
 <!-- BLOG-POST-LIST:END -->
 
