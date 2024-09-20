@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive Into Angular with This Comprehensive Beginner&#39;s Guide! 🚀](https://dev.to/getvm/dive-into-angular-with-this-comprehensive-beginners-guide-4236)
-- [Different types of models in the Cloud](https://dev.to/tjasper/different-types-of-models-in-the-cloud-4e8p)
-- [Setup firewall on Alpine with nftables](https://dev.to/tinkertinker/setup-firewall-on-alpine-with-nftables-3219)
-- [Day 11. Friday evening](https://dev.to/kiolk/day-11-friday-evening-2a67)
+- [Building Your First BotMate Plugin: A Step-by-Step Guide](https://dev.to/mxvsh/building-your-first-botmate-plugin-a-step-by-step-guide-58la)
+- [Simplifying Data Transfer in Laravel with DTOs](https://dev.to/mdarifulhaque/simplifying-data-transfer-in-laravel-with-dtos-1il7)
+- [Security news weekly round-up - 20th September 2024](https://dev.to/ziizium/security-news-weekly-round-up-20th-september-2024-4969)
+- [Hidden Gems of Laravel: Lesser-Known Features to Boost Your Development](https://dev.to/mdarifulhaque/hidden-gems-of-laravel-lesser-known-features-to-boost-your-development-5a05)
 <!-- BLOG-POST-LIST:END -->
 
