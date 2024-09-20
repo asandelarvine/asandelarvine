@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget Everything You Know About String Searching - Tries Will Blow Your Mind!](https://dev.to/turck/a-visual-tutorial-on-tries-np2)
-- [Leetcode-Remove Element&lpar;Top Interview 150&rpar; Solution in Kotlin](https://dev.to/fvmzr/leetcode-remove-elementtop-interview-150-solution-in-kotlin-13gh)
-- [# Deploying a Secure Three-Tier AWS Architecture with Terraform](https://dev.to/ephantus_gachomba_/-deploying-a-secure-three-tier-aws-architecture-with-terraform-3nfc)
-- [Looking for Passionate Students to Collaborate on a Real-World Python/React Project!](https://dev.to/anugrah_vardhan/looking-for-passionate-students-to-collaborate-on-a-real-world-pythonreact-project-2h8k)
+- [Dive Into Angular with This Comprehensive Beginner&#39;s Guide! 🚀](https://dev.to/getvm/dive-into-angular-with-this-comprehensive-beginners-guide-4236)
+- [Different types of models in the Cloud](https://dev.to/tjasper/different-types-of-models-in-the-cloud-4e8p)
+- [Setup firewall on Alpine with nftables](https://dev.to/tinkertinker/setup-firewall-on-alpine-with-nftables-3219)
+- [Day 11. Friday evening](https://dev.to/kiolk/day-11-friday-evening-2a67)
 <!-- BLOG-POST-LIST:END -->
 
