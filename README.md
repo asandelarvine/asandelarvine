@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Transformations for a Java Developer to Secure Future Job Opportunities](https://dev.to/myexamcloud/10-essential-transformations-for-a-java-developer-to-secure-future-job-opportunities-10b8)
-- [AWS EKS vs KOPS: Choosing the Right Kubernetes Solution](https://dev.to/devtron_inc/aws-eks-vs-kops-choosing-the-right-kubernetes-solution-kjj)
-- [If you don&#39;t write unit tests... it&#39;s a skill issue](https://dev.to/manuartero/if-you-dont-write-unit-test-its-a-skill-issue-22db)
-- [What is Storybook and Why It’s Worth Using](https://dev.to/pagepro_agency/what-is-storybook-and-why-its-worth-using-526c)
+- [Own photo and video storage as free iCloud alternative](https://dev.to/amnezia/own-photo-and-video-storage-as-free-icloud-alternative-2di9)
+- [Essential Steps to Launching a Profitable Website](https://dev.to/muskaan_jayant_285e14c8bf/essential-steps-to-launching-a-profitable-website-1kcf)
+- [How to Add Photos and Videos to Google My Business: A Step-by-Step Guide](https://dev.to/softy_houp_2f2cd5b966c0a4/how-to-add-photos-and-videos-to-google-my-business-a-step-by-step-guide-3afn)
+- [The Importance of Service Mesh: Strategies, Best Practices, and Insights for Businesses](https://dev.to/keploy/the-importance-of-service-mesh-strategies-best-practices-and-insights-for-businesses-470b)
 <!-- BLOG-POST-LIST:END -->
 
