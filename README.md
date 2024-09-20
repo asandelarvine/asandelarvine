@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decrypt Go: varint](https://dev.to/huizhou92/decrypt-go-varint-4d29)
-- [data-testid: Bridging the Gap between QA Engineering and Front End Dev](https://dev.to/johnnyv5g/data-testid-bridging-the-gap-between-qa-engineering-and-front-end-dev-gja)
-- [Interview Question and Answer for Functional Programming](https://dev.to/nozibul_islam_113b1d5334f/interview-question-and-answer-for-functional-programming-57d6)
-- [How to Integrate SMTP in Next.js 14 Using Nodemailer](https://dev.to/chaudharidevam/how-to-integrate-smtp-in-nextjs-14-using-nodemailer-3g6j)
+- [10 Essential Transformations for a Java Developer to Secure Future Job Opportunities](https://dev.to/myexamcloud/10-essential-transformations-for-a-java-developer-to-secure-future-job-opportunities-10b8)
+- [AWS EKS vs KOPS: Choosing the Right Kubernetes Solution](https://dev.to/devtron_inc/aws-eks-vs-kops-choosing-the-right-kubernetes-solution-kjj)
+- [If you don&#39;t write unit tests... it&#39;s a skill issue](https://dev.to/manuartero/if-you-dont-write-unit-test-its-a-skill-issue-22db)
+- [What is Storybook and Why It’s Worth Using](https://dev.to/pagepro_agency/what-is-storybook-and-why-its-worth-using-526c)
 <!-- BLOG-POST-LIST:END -->
 
