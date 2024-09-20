@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Creating and Adding Components in Unity ECS](https://dev.to/rk042/a-step-by-step-guide-to-creating-and-adding-components-in-unity-ecs-3f70)
-- [Mastering Docker: A Comprehensive Collection of Hands-on Labs](https://dev.to/labex/mastering-docker-a-comprehensive-collection-of-hands-on-labs-1598)
-- [Button Shrink Animation Tutorial](https://dev.to/labex/button-shrink-animation-tutorial-39e2)
-- [The Growing Importance of IT Diploma Courses Online for Career Advancement](https://dev.to/wasim_tariq_3f701ff2a0ff1/the-growing-importance-of-it-diploma-courses-online-for-career-advancement-2c0c)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-48jp)
+- [Comparing UUID, CUID, and Nanoid: A Developer&#39;s Guide](https://dev.to/turck/comparing-uuid-cuid-and-nanoid-a-developers-guide-50c)
+- [PowerShell | Script output garbled Chinese characters](https://dev.to/01kg/powershell-script-output-garbled-chinese-characters-3hk4)
+- [Binary Search](https://dev.to/marcosfsalazar/binary-search-1ddo)
 <!-- BLOG-POST-LIST:END -->
 
