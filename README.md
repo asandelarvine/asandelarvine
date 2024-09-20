@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-48jp)
-- [Comparing UUID, CUID, and Nanoid: A Developer&#39;s Guide](https://dev.to/turck/comparing-uuid-cuid-and-nanoid-a-developers-guide-50c)
-- [PowerShell | Script output garbled Chinese characters](https://dev.to/01kg/powershell-script-output-garbled-chinese-characters-3hk4)
-- [Binary Search](https://dev.to/marcosfsalazar/binary-search-1ddo)
+- [LabEx Trending: MySQL Database Administration Essentials and More](https://dev.to/labex/labex-trending-mysql-database-administration-essentials-and-more-1ceh)
+- [Build or Not Build?](https://dev.to/syakirurahman/build-or-not-build-1jaf)
+- [Semantic Search and Algorithms](https://dev.to/ragoli86/semantic-search-and-algorithms-4d0b)
+- [What is Cloud Computing? Know The 7 Myths &amp; Misconceptions with Truth](https://dev.to/certera_/what-is-cloud-computing-know-the-7-myths-misconceptions-with-truth-3ela)
 <!-- BLOG-POST-LIST:END -->
 
