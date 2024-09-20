@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: MySQL Database Administration Essentials and More](https://dev.to/labex/labex-trending-mysql-database-administration-essentials-and-more-1ceh)
-- [Build or Not Build?](https://dev.to/syakirurahman/build-or-not-build-1jaf)
-- [Semantic Search and Algorithms](https://dev.to/ragoli86/semantic-search-and-algorithms-4d0b)
-- [What is Cloud Computing? Know The 7 Myths &amp; Misconceptions with Truth](https://dev.to/certera_/what-is-cloud-computing-know-the-7-myths-misconceptions-with-truth-3ela)
+- [Word-embedding-with-Python: Word2Vec](https://dev.to/ragoli86/word-embedding-with-python-word2vec-540c)
+- [Strapi or WordPress: How to Decide Which CMS is Right for You](https://dev.to/joyanderson1702/strapi-or-wordpress-how-to-decide-which-cms-is-right-for-you-3k67)
+- [Understanding the Role of an Assembler in Computer Architecture](https://dev.to/adityabhuyan/understanding-the-role-of-an-assembler-in-computer-architecture-2hni)
+- [How Peering Exchanges Work: A Behind-the-Scenes Look at Internet Traffic Flow](https://dev.to/decix/how-peering-exchanges-work-a-behind-the-scenes-look-at-internet-traffic-flow-4330)
 <!-- BLOG-POST-LIST:END -->
 
