@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A RuboCop Configuration Tailored for Phlex](https://dev.to/aliosm/a-rubocop-configuration-tailored-for-phlex-2in8)
-- [Boost Your Java Code Quality with PMD](https://dev.to/priya01/boost-your-java-code-quality-with-pmd-56id)
-- [⚔️ Rust vs Node.js: The Battle for Web Development Supremacy in 2024 🚀](https://dev.to/hamzakhan/rust-vs-nodejs-the-battle-for-web-development-supremacy-in-2024-1nob)
-- [Building a Timezone-Aware API with Node.js: Trials, Tribulations, and Triumphs](https://dev.to/starkprince/building-a-timezone-aware-api-with-nodejs-trials-tribulations-and-triumphs-1okh)
+- [Fun Animation using GSAP](https://dev.to/akshat0610/fun-animation-using-gsap-4bbi)
+- [Cursor AI vs. Void AI Code Editor: The Ultimate Showdown](https://dev.to/dev007777/cursor-ai-vs-void-ai-code-editor-the-ultimate-showdown-309c)
+- [Revolutionizing User Engagement: The Power of AI-Generated Artistic QR Codes in Tech](https://dev.to/qr2art_26bd40dfb3563c76fb/revolutionizing-user-engagement-the-power-of-ai-generated-artistic-qr-codes-in-tech-3g93)
+- [Why is landing an Internship as a Computer science student so hard ?](https://dev.to/coding_quill_3d19fa22547e/why-is-landing-an-internship-as-a-computer-science-student-so-hard--oe0)
 <!-- BLOG-POST-LIST:END -->
 
