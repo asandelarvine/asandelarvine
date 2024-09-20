@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform module for S3 static website hosting](https://dev.to/leroykayanda/terraform-module-for-s3-static-website-hosting-1211)
-- [Weekly Updates - September 20, 2024](https://dev.to/couchbase/weekly-updates-september-20-2024-5e3d)
-- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-21n8)
-- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-48dg)
+- [The performance issues of Ruby on Rail](https://dev.to/michel_1211/the-performance-issues-of-ruby-on-rail-io3)
+- [PointaFam: Connecting Farmers with Urban Retailers](https://dev.to/ferdi_code/-pointafam-connecting-farmers-with-urban-retailers-5fn)
+- [Coding with Speed of AI: If you build it, they will come](https://dev.to/petercsiba/coding-with-speed-of-ai-if-you-build-it-they-will-come-4jac)
+- [Como usar o BEM na Refatoração de codigos com CSS/Sass](https://dev.to/andressasantos/como-usar-o-bem-na-refatoracao-de-codigos-com-csssass-4kba)
 <!-- BLOG-POST-LIST:END -->
 
