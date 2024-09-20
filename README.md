@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Word-embedding-with-Python: Word2Vec](https://dev.to/ragoli86/word-embedding-with-python-word2vec-540c)
-- [Strapi or WordPress: How to Decide Which CMS is Right for You](https://dev.to/joyanderson1702/strapi-or-wordpress-how-to-decide-which-cms-is-right-for-you-3k67)
-- [Understanding the Role of an Assembler in Computer Architecture](https://dev.to/adityabhuyan/understanding-the-role-of-an-assembler-in-computer-architecture-2hni)
-- [How Peering Exchanges Work: A Behind-the-Scenes Look at Internet Traffic Flow](https://dev.to/decix/how-peering-exchanges-work-a-behind-the-scenes-look-at-internet-traffic-flow-4330)
+- [Vote Bot: Create a Voting Bot Without Coding](https://dev.to/shtefcs/vote-bot-create-a-voting-bot-without-coding-3hl9)
+- [The Best Student Resources for IT Majors in the USA](https://dev.to/noahelijah25/the-best-student-resources-for-it-majors-in-the-usa-3p5k)
+- [Source Code Analysis of Apache SeaTunnel Zeta Engine &lpar;Part 3&rpar;: Server-Side Task Submission](https://dev.to/chen_debra_3060b21d12b1b0/source-code-analysis-of-apache-seatunnel-zeta-engine-part-3-server-side-task-submission-229k)
+- [Linux Logical Volume Manager overview](https://dev.to/codigger/linux-logical-volume-manager-overview-19ea)
 <!-- BLOG-POST-LIST:END -->
 
