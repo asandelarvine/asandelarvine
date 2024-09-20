@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Website Plagiarism Checkers in Maintaining Code Quality](https://dev.to/codequiry/the-role-of-website-plagiarism-checkers-in-maintaining-code-quality-1bdn)
-- [Chat2DB: Data Analysis Without Writing SQL Code](https://dev.to/chat2db/chat2db-data-analysis-without-writing-sql-code-2aok)
-- [Privacy-Conscious AI Agents: Safeguarding User Data from Context Hijacking Attacks](https://dev.to/mikeyoung44/privacy-conscious-ai-agents-safeguarding-user-data-from-context-hijacking-attacks-1ice)
-- [AI&#39;s capabilities in deep learning theoretical insights is huge step for next-gen models](https://dev.to/mikeyoung44/ais-capabilities-in-deep-learning-theoretical-insights-is-huge-step-for-next-gen-models-32mf)
+- [Decrypt Go: varint](https://dev.to/huizhou92/decrypt-go-varint-4d29)
+- [data-testid: Bridging the Gap between QA Engineering and Front End Dev](https://dev.to/johnnyv5g/data-testid-bridging-the-gap-between-qa-engineering-and-front-end-dev-gja)
+- [Interview Question and Answer for Functional Programming](https://dev.to/nozibul_islam_113b1d5334f/interview-question-and-answer-for-functional-programming-57d6)
+- [How to Integrate SMTP in Next.js 14 Using Nodemailer](https://dev.to/chaudharidevam/how-to-integrate-smtp-in-nextjs-14-using-nodemailer-3g6j)
 <!-- BLOG-POST-LIST:END -->
 
