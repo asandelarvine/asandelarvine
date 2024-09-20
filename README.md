@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First BotMate Plugin: A Step-by-Step Guide](https://dev.to/mxvsh/building-your-first-botmate-plugin-a-step-by-step-guide-58la)
-- [Simplifying Data Transfer in Laravel with DTOs](https://dev.to/mdarifulhaque/simplifying-data-transfer-in-laravel-with-dtos-1il7)
-- [Security news weekly round-up - 20th September 2024](https://dev.to/ziizium/security-news-weekly-round-up-20th-september-2024-4969)
-- [Hidden Gems of Laravel: Lesser-Known Features to Boost Your Development](https://dev.to/mdarifulhaque/hidden-gems-of-laravel-lesser-known-features-to-boost-your-development-5a05)
+- [PhD thesis topic outline: The Application of Artificial Intelligence in Healthcare: Opportunities and Challenges](https://dev.to/gracerosen/phd-thesis-topic-outline-the-application-of-artificial-intelligence-in-healthcare-opportunities-and-challenges-13eo)
+- [Contributing to another repo](https://dev.to/sych_andrii/first-pull-requests-ever-4mhk)
+- [PhD thesis topic outline: Ethics in Artificial Intelligence: Analysing Bias and Fairness in Machine Learning Algorithms](https://dev.to/gracerosen/phd-thesis-topic-outline-ethics-in-artificial-intelligence-analysing-bias-and-fairness-in-machine-learning-algorithms-1b1d)
+- [js / ts - comando !!](https://dev.to/leonardominora/js-ts-comando--3188)
 <!-- BLOG-POST-LIST:END -->
 
