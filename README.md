@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The performance issues of Ruby on Rail](https://dev.to/michel_1211/the-performance-issues-of-ruby-on-rail-io3)
-- [PointaFam: Connecting Farmers with Urban Retailers](https://dev.to/ferdi_code/-pointafam-connecting-farmers-with-urban-retailers-5fn)
-- [Coding with Speed of AI: If you build it, they will come](https://dev.to/petercsiba/coding-with-speed-of-ai-if-you-build-it-they-will-come-4jac)
-- [Como usar o BEM na Refatoração de codigos com CSS/Sass](https://dev.to/andressasantos/como-usar-o-bem-na-refatoracao-de-codigos-com-csssass-4kba)
+- [Forget Everything You Know About String Searching - Tries Will Blow Your Mind!](https://dev.to/turck/a-visual-tutorial-on-tries-np2)
+- [Leetcode-Remove Element&lpar;Top Interview 150&rpar; Solution in Kotlin](https://dev.to/fvmzr/leetcode-remove-elementtop-interview-150-solution-in-kotlin-13gh)
+- [# Deploying a Secure Three-Tier AWS Architecture with Terraform](https://dev.to/ephantus_gachomba_/-deploying-a-secure-three-tier-aws-architecture-with-terraform-3nfc)
+- [Looking for Passionate Students to Collaborate on a Real-World Python/React Project!](https://dev.to/anugrah_vardhan/looking-for-passionate-students-to-collaborate-on-a-real-world-pythonreact-project-2h8k)
 <!-- BLOG-POST-LIST:END -->
 
