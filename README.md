@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Helm for beginer - Deploy nginx to Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/helm-for-beginer-deploy-nginx-to-google-kubernetes-engine-3hek)
-- [Understanding Version Control: A Beginner’s Guide to Git and GitHub](https://dev.to/prodevopsguytech/understanding-version-control-a-beginners-guide-to-git-and-github-54i9)
-- [Supercharge team productivity with Husky, ESLint, and Prettier](https://dev.to/creowistech/supercharge-team-productivity-with-husky-eslint-and-prettier-15da)
-- [Fastify v5 breaking changes: should you upgrade?](https://dev.to/encore/fastify-v5-breaking-changes-should-you-upgrade-2e6d)
+- [40+ Frontend UI Components](https://dev.to/shreyvijayvargiya/40-code-components-339e)
+- [AWS Database Migration Service now includes enhanced monitoring dashboard for your DMS tasks](https://dev.to/karthiksakthiveltechie/aws-database-migration-service-now-includes-enhanced-monitoring-dashboard-for-your-dms-tasks-27pd)
+- [Entity Framework Core &lpar;EF Core&rpar; vs. Dapper](https://dev.to/hamza_darouzi_dotnet/entity-framework-core-ef-core-vs-dapper-2ele)
+- [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://dev.to/opensauced/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj)
 <!-- BLOG-POST-LIST:END -->
 
