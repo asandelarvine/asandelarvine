@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Superpowered Git Aliases using Scripting](https://dev.to/agentender/superpowered-git-aliases-using-scripting-4odf)
-- [Creating Pull Requests to External Repositories](https://dev.to/anhchienvu/creating-pull-requests-to-external-repositories-5183)
-- [Automate your custom sign-in UI deployment with GitHub Actions workflow](https://dev.to/logto/automate-your-custom-sign-in-ui-deployment-with-github-actions-workflow-24oe)
-- [CDN, WAF, WAAP... What do you use?](https://dev.to/gamesover/cdn-waf-waap-what-do-you-use-30ga)
+- [Things to do after installing Ubuntu](https://dev.to/tripleo/things-to-do-after-installing-ubuntu-5gno)
+- [Event Propagation - Bubbling vs Capturing Explained with Examples](https://dev.to/rsmacademybd/event-propagation-bubbling-vs-capturing-explained-with-examples-1j1l)
+- [The Ultimate Guide to Setting Up a Windows 11 Web Development Environment](https://dev.to/a99divx/the-ultimate-guide-to-setting-up-a-windows-11-web-development-environment-pj4)
+- [Why is Cursor IDE not Creating an Automatic Git Commit?](https://dev.to/ahmadswalih/why-is-cursor-ide-not-creating-an-automatic-git-commit-4jd9)
 <!-- BLOG-POST-LIST:END -->
 
