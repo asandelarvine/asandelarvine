@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun Animation using GSAP](https://dev.to/akshat0610/fun-animation-using-gsap-4bbi)
-- [Cursor AI vs. Void AI Code Editor: The Ultimate Showdown](https://dev.to/dev007777/cursor-ai-vs-void-ai-code-editor-the-ultimate-showdown-309c)
-- [Revolutionizing User Engagement: The Power of AI-Generated Artistic QR Codes in Tech](https://dev.to/qr2art_26bd40dfb3563c76fb/revolutionizing-user-engagement-the-power-of-ai-generated-artistic-qr-codes-in-tech-3g93)
-- [Why is landing an Internship as a Computer science student so hard ?](https://dev.to/coding_quill_3d19fa22547e/why-is-landing-an-internship-as-a-computer-science-student-so-hard--oe0)
+- [Terraform module for S3 static website hosting](https://dev.to/leroykayanda/terraform-module-for-s3-static-website-hosting-1211)
+- [Weekly Updates - September 20, 2024](https://dev.to/couchbase/weekly-updates-september-20-2024-5e3d)
+- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-21n8)
+- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-48dg)
 <!-- BLOG-POST-LIST:END -->
 
