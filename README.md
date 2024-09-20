@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [40+ Frontend UI Components](https://dev.to/shreyvijayvargiya/40-code-components-339e)
-- [AWS Database Migration Service now includes enhanced monitoring dashboard for your DMS tasks](https://dev.to/karthiksakthiveltechie/aws-database-migration-service-now-includes-enhanced-monitoring-dashboard-for-your-dms-tasks-27pd)
-- [Entity Framework Core &lpar;EF Core&rpar; vs. Dapper](https://dev.to/hamza_darouzi_dotnet/entity-framework-core-ef-core-vs-dapper-2ele)
-- [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://dev.to/opensauced/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj)
+- [A RuboCop Configuration Tailored for Phlex](https://dev.to/aliosm/a-rubocop-configuration-tailored-for-phlex-2in8)
+- [Boost Your Java Code Quality with PMD](https://dev.to/priya01/boost-your-java-code-quality-with-pmd-56id)
+- [⚔️ Rust vs Node.js: The Battle for Web Development Supremacy in 2024 🚀](https://dev.to/hamzakhan/rust-vs-nodejs-the-battle-for-web-development-supremacy-in-2024-1nob)
+- [Building a Timezone-Aware API with Node.js: Trials, Tribulations, and Triumphs](https://dev.to/starkprince/building-a-timezone-aware-api-with-nodejs-trials-tribulations-and-triumphs-1okh)
 <!-- BLOG-POST-LIST:END -->
 
