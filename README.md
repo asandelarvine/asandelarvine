@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Things to do after installing Ubuntu](https://dev.to/tripleo/things-to-do-after-installing-ubuntu-5gno)
-- [Event Propagation - Bubbling vs Capturing Explained with Examples](https://dev.to/rsmacademybd/event-propagation-bubbling-vs-capturing-explained-with-examples-1j1l)
-- [The Ultimate Guide to Setting Up a Windows 11 Web Development Environment](https://dev.to/a99divx/the-ultimate-guide-to-setting-up-a-windows-11-web-development-environment-pj4)
-- [Why is Cursor IDE not Creating an Automatic Git Commit?](https://dev.to/ahmadswalih/why-is-cursor-ide-not-creating-an-automatic-git-commit-4jd9)
+- [A Step-by-Step Guide to Creating and Adding Components in Unity ECS](https://dev.to/rk042/a-step-by-step-guide-to-creating-and-adding-components-in-unity-ecs-3f70)
+- [Mastering Docker: A Comprehensive Collection of Hands-on Labs](https://dev.to/labex/mastering-docker-a-comprehensive-collection-of-hands-on-labs-1598)
+- [Button Shrink Animation Tutorial](https://dev.to/labex/button-shrink-animation-tutorial-39e2)
+- [The Growing Importance of IT Diploma Courses Online for Career Advancement](https://dev.to/wasim_tariq_3f701ff2a0ff1/the-growing-importance-of-it-diploma-courses-online-for-career-advancement-2c0c)
 <!-- BLOG-POST-LIST:END -->
 
