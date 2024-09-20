@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lenovo Unveils New Aura Edition Laptops](https://dev.to/yash_sharma_/lenovo-unveils-new-aura-edition-laptops-1g7g)
-- [Top Tips for Faster Internet Speed on Windows 10](https://dev.to/sanjay_puri_6390db10b5c7c/top-tips-for-faster-internet-speed-on-windows-10-466p)
-- [how to make dynamic Progress bar in React.js](https://dev.to/04anilr/how-to-make-dynamic-progress-bar-in-reactjs-300c)
-- [7 Old-School Practices in HTML Should Be Avoided](https://dev.to/bogdanfromkyiv/7-old-school-practices-in-html-should-be-avoided-3o75)
+- [The Role of Website Plagiarism Checkers in Maintaining Code Quality](https://dev.to/codequiry/the-role-of-website-plagiarism-checkers-in-maintaining-code-quality-1bdn)
+- [Chat2DB: Data Analysis Without Writing SQL Code](https://dev.to/chat2db/chat2db-data-analysis-without-writing-sql-code-2aok)
+- [Privacy-Conscious AI Agents: Safeguarding User Data from Context Hijacking Attacks](https://dev.to/mikeyoung44/privacy-conscious-ai-agents-safeguarding-user-data-from-context-hijacking-attacks-1ice)
+- [AI&#39;s capabilities in deep learning theoretical insights is huge step for next-gen models](https://dev.to/mikeyoung44/ais-capabilities-in-deep-learning-theoretical-insights-is-huge-step-for-next-gen-models-32mf)
 <!-- BLOG-POST-LIST:END -->
 
