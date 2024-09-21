@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers: The Engine Powering ChatGPT and Beyond](https://dev.to/ahmedrauhan/transformers-the-engine-powering-chatgpt-and-beyond-4g7j)
-- [Building a Unit of Work like pattern in NestJS and Sequelize.](https://dev.to/murilogervasio/building-a-unit-of-work-like-pattern-in-nestjs-and-sequelize-4oh1)
-- [15-day free trial available...now!](https://dev.to/rely-io/15-day-free-trial-availablenow-5b5d)
-- [How to Handle Errors When Accessing Context Outside the Provider in React](https://dev.to/surjoyday_kt/how-to-handle-errors-when-accessing-context-outside-the-provider-in-react-41ce)
+- [Some linked CSS Methods](https://dev.to/lmcss/some-linked-css-methods-enc)
+- [Programming with Linux OS— Virtual or Real Machine?](https://dev.to/benslinux/programming-with-linux-os-virtual-or-real-machine-l20)
+- [Building a Unit of Work like pattern in NestJS and Sequelize.](https://dev.to/murilogervasio/building-a-unit-of-work-like-pattern-in-nestjs-and-sequelize-5gah)
+- [Eslint Code Insights from Bitbucket pipelines](https://dev.to/julian_c/eslint-code-insights-from-bitbucket-pipelines-5dgo)
 <!-- BLOG-POST-LIST:END -->
 
