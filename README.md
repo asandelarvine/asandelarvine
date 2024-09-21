@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Arrow Functions in JavaScript](https://dev.to/codenextgen/mastering-arrow-functions-in-javascript-3mkf)
-- [Chat with your Supabase Database using Natural language and Supercog](https://dev.to/emmakodes_/chat-with-your-supabase-database-using-natural-language-and-supercog-28fl)
-- [The Future of DevSecOps: Enhancing Your Software Security Development with NIST Guidelines](https://dev.to/iilness2/the-future-of-devsecops-how-nist-guidelines-enhance-software-security-220m)
-- [Data Display in Gatsby](https://dev.to/shieldstring/data-display-in-gatsby-1l1c)
+- [Expert Javascript Interview Preparation](https://dev.to/ashutoshsarangi/expert-javascript-interview-preparation-50o7)
+- [What is a subnet? | How subnetting works](https://dev.to/abdulmuminyqn/what-is-a-subnet-how-subnetting-works-5d6g)
+- [What challenges would you face on migrating a service to EKS?](https://dev.to/codewithved/what-challenges-would-you-face-on-migrating-a-service-to-eks-1k8f)
+- [Mastering Python as a Busy Developer: Top Strategies for Quick Learning](https://dev.to/sangeeth_joseph/mastering-python-as-a-busy-developer-top-strategies-for-quick-learning-23la)
 <!-- BLOG-POST-LIST:END -->
 
