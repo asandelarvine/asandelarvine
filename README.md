@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bagging and Boosting in AI: A Comprehensive Guide to Ensemble Learning](https://dev.to/abhinowww/bagging-and-boosting-in-ai-a-comprehensive-guide-to-ensemble-learning-2cf0)
-- [Why might Rust be a smart choice for developers today?](https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1)
-- [A classe Object](https://dev.to/devsjavagirls/a-classe-object-12p9)
-- [Usando final](https://dev.to/devsjavagirls/usando-final-2lf8)
+- [Mastering Arrow Functions in JavaScript](https://dev.to/codenextgen/mastering-arrow-functions-in-javascript-3mkf)
+- [Chat with your Supabase Database using Natural language and Supercog](https://dev.to/emmakodes_/chat-with-your-supabase-database-using-natural-language-and-supercog-28fl)
+- [The Future of DevSecOps: Enhancing Your Software Security Development with NIST Guidelines](https://dev.to/iilness2/the-future-of-devsecops-how-nist-guidelines-enhance-software-security-220m)
+- [Data Display in Gatsby](https://dev.to/shieldstring/data-display-in-gatsby-1l1c)
 <!-- BLOG-POST-LIST:END -->
 
