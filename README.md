@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking VelociPerl for a ride.](https://dev.to/chrisarg/taking-velociperl-for-a-ride-3n5a)
-- [3Sum - Print unique Pairs](https://dev.to/phoenix_238501d86d417e/3sum-print-unique-pairs-3goj)
-- [Multi-GPU FLUX Full Fine Tuning Experiments and Requirements on RunPod and Conclusions](https://dev.to/furkangozukara/multi-gpu-flux-full-fine-tuning-experiments-and-requirements-on-runpod-and-conclusions-2g61)
-- [Two Reasons Why I Often Use Python for Creating Personal Tools &lpar;Plus One Complaint&rpar;](https://dev.to/koyopro/two-reasons-why-i-often-use-python-for-creating-personal-tools-plus-one-complaint-1n9d)
+- [testing](https://dev.to/dnyaneshwarshekade/testing-50ho)
+- [Free Online QR Code Generator](https://dev.to/easypagego/free-online-qr-code-generator-2c53)
+- [Today I want to know something about OPEN AI implementation from other devs, please!](https://dev.to/saanchitapaul/today-i-want-to-know-something-from-other-devs-please-2641)
+- [Por que alguns desenvolvedores conseguem empregos rapidamente e outros não?](https://dev.to/andressasantos/por-que-alguns-desenvolvedores-conseguem-empregos-rapidamente-e-outros-nao-4ic2)
 <!-- BLOG-POST-LIST:END -->
 
