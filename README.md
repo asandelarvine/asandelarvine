@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 10+ Projects to Win Hackathons in 2024🏆💻](https://dev.to/lokesh_singh/10-projects-to-win-hackathons-in-2024-5596)
-- [Setting up Kubernetes Dashboard with Kind](https://dev.to/chauhoangminhnguyen/setting-up-kubernetes-dashboard-with-kind-5he5)
-- [Why do React components need to start with capital letters?](https://dev.to/bhataasim/why-do-react-components-need-to-start-with-capital-letters-4c8k)
-- [Collision Detection](https://dev.to/aksh247/collision-detection-apc)
+- [Understanding JWT in Node.js: A Guide with Pros, Cons, and Code Examples](https://dev.to/hakimmohamed/understanding-jwt-in-nodejs-a-guide-with-pros-cons-and-code-examples-30cj)
+- [Why Data Engineering is Essential in Fintech: Insights from a Data Engineer on ETL and Warehousing](https://dev.to/kaitlyn_mccormick_23b1714/why-data-engineering-is-essential-in-fintech-insights-from-a-data-engineer-on-etl-and-warehousing-4epb)
+- [Understanding Binary and Other Number Representations: A Freshman&#39;s Guide](https://dev.to/mchukhajyan/understanding-binary-and-other-number-representations-a-freshmans-guide-4j3k)
+- [Overwhelmed by the AWS Certification Maze?](https://dev.to/mattcsmith/overwhelmed-by-the-aws-certification-maze-49p)
 <!-- BLOG-POST-LIST:END -->
 
