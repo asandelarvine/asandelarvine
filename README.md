@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Remote Differential Compression API Support in Windows 11](https://dev.to/winsides/enable-remote-differential-compression-api-support-in-windows-11-2fh0)
-- [Learning Markdown](https://dev.to/dev_frank/learning-markdown-fhm)
-- [Count Number of Pairs With Absolute Difference K](https://dev.to/phoenix_238501d86d417e/count-number-of-pairs-with-absolute-difference-k-3m6j)
-- [How To Use Zapcap API &lpar;API for Subtitles&rpar;](https://dev.to/elliot_brenya/how-to-use-zapcap-api-api-for-subtitles-4ln7)
+- [Taking VelociPerl for a ride.](https://dev.to/chrisarg/taking-velociperl-for-a-ride-3n5a)
+- [3Sum - Print unique Pairs](https://dev.to/phoenix_238501d86d417e/3sum-print-unique-pairs-3goj)
+- [Multi-GPU FLUX Full Fine Tuning Experiments and Requirements on RunPod and Conclusions](https://dev.to/furkangozukara/multi-gpu-flux-full-fine-tuning-experiments-and-requirements-on-runpod-and-conclusions-2g61)
+- [Two Reasons Why I Often Use Python for Creating Personal Tools &lpar;Plus One Complaint&rpar;](https://dev.to/koyopro/two-reasons-why-i-often-use-python-for-creating-personal-tools-plus-one-complaint-1n9d)
 <!-- BLOG-POST-LIST:END -->
 
