@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [/s 🚀 5 Best Posts From 100 DEV Community Best Posts Having &quot;Best&quot; or &quot;10&quot; in Their Title 🚀 /s](https://dev.to/kvetoslavnovak/5-best-posts-from-100-dev-community-best-posts-having-best-or-10-in-their-title-19a3)
-- [We built a new 3D viewer for Shapemaker! 🚀](https://dev.to/pharzan/we-built-a-new-3d-viewer-for-shapemaker-744)
-- [Overcoming NEXT_PUBLIC_ Environment Variable Limitations in Next.js with Docker](https://dev.to/ajay404/overcoming-nextpublic-environment-variable-limitations-in-nextjs-with-docker-5gh6)
-- [the LivinGrimoire software design pattern](https://dev.to/owly/the-livingrimoire-software-design-pattern-289k)
+- [🌟 You’ve Come a Long Way, Developer! 🚀](https://dev.to/jagroop2001/youve-come-a-long-way-developer-42ek)
+- [Tầm quan trọng của máy đầm bàn bê tông trong xây dựng](https://dev.to/dienmaygiaphu/tam-quan-trong-cua-may-dam-ban-be-tong-trong-xay-dung-302p)
+- [The Complete Guide to Becoming a Software Development Engineer &lpar;SDE&rpar;](https://dev.to/ngneha09/the-complete-guide-to-becoming-a-software-development-engineer-sde-pn1)
+- [Integrate Cloudinary in a Next.js application](https://dev.to/devops_den/integrate-cloudinary-in-a-nextjs-application-8op)
 <!-- BLOG-POST-LIST:END -->
 
