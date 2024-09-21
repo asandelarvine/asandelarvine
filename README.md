@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement a 3D Solar System in React with Three.js](https://dev.to/vyan/how-to-implement-a-3d-solar-system-in-react-with-threejs-3pem)
-- [386. Lexicographical Numbers](https://dev.to/mdarifulhaque/386-lexicographical-numbers-2c60)
-- [Pulling Our Weight: Contributing to each other&#39;s projects](https://dev.to/udayrana/pulling-our-weight-contributing-to-each-others-projects-2eej)
-- [Introducing dev-mate-cli](https://dev.to/mayankpareek/introducing-dev-mate-cli-2o9k)
+- [Bagging and Boosting in AI: A Comprehensive Guide to Ensemble Learning](https://dev.to/abhinowww/bagging-and-boosting-in-ai-a-comprehensive-guide-to-ensemble-learning-2cf0)
+- [Why might Rust be a smart choice for developers today?](https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1)
+- [A classe Object](https://dev.to/devsjavagirls/a-classe-object-12p9)
+- [Usando final](https://dev.to/devsjavagirls/usando-final-2lf8)
 <!-- BLOG-POST-LIST:END -->
 
