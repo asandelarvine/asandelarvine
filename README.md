@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [testing](https://dev.to/dnyaneshwarshekade/testing-50ho)
-- [Free Online QR Code Generator](https://dev.to/easypagego/free-online-qr-code-generator-2c53)
-- [Today I want to know something about OPEN AI implementation from other devs, please!](https://dev.to/saanchitapaul/today-i-want-to-know-something-from-other-devs-please-2641)
-- [Por que alguns desenvolvedores conseguem empregos rapidamente e outros não?](https://dev.to/andressasantos/por-que-alguns-desenvolvedores-conseguem-empregos-rapidamente-e-outros-nao-4ic2)
+- [ES2015 &lpar;ES6&rpar; Tips, Tricks, Best Practices, and Code Snippet Examples for Your Day-to-Day Workflow](https://dev.to/dilipmishra/es2015-es6-tips-tricks-best-practices-and-code-snippet-examples-for-your-day-to-day-workflow-575)
+- [Print all unique Pairs with given Sum](https://dev.to/phoenix_238501d86d417e/print-all-unique-pairs-with-given-sum-1o3n)
+- [Streamline Your Development with This Awesome Docker Command](https://dev.to/lucas_draney_5d2d170f082f/streamline-your-development-with-this-awesome-docker-command-43a)
+- [Building a Nuxt.js + Vue.js SaaS Starter: Authentication, Payments, and Supabase Made Easy](https://dev.to/geraldmuvengei06/building-a-nuxtjs-vuejs-saas-starter-authentication-payments-and-supabase-made-easy-3d9p)
 <!-- BLOG-POST-LIST:END -->
 
