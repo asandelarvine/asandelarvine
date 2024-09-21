@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode: 624. Maximum Distance in Arrays](https://dev.to/decoders_lord/leetcode-624-maximum-distance-in-arrays-20hi)
-- [Contributing to Open Source: My Experience with Pull Requests and Collaboration](https://dev.to/msaluja/contributing-to-open-source-my-experience-with-pull-requests-and-collaboration-1opb)
-- [PWA and Offline Games](https://dev.to/aerabi/pwa-and-offline-games-3b2e)
-- [3 things to consider migrating WordPress database from local to production](https://dev.to/phyothiha/3-things-to-consider-migrating-wordpress-database-from-local-to-production-232)
+- [How to Implement a 3D Solar System in React with Three.js](https://dev.to/vyan/how-to-implement-a-3d-solar-system-in-react-with-threejs-3pem)
+- [386. Lexicographical Numbers](https://dev.to/mdarifulhaque/386-lexicographical-numbers-2c60)
+- [Pulling Our Weight: Contributing to each other&#39;s projects](https://dev.to/udayrana/pulling-our-weight-contributing-to-each-others-projects-2eej)
+- [Introducing dev-mate-cli](https://dev.to/mayankpareek/introducing-dev-mate-cli-2o9k)
 <!-- BLOG-POST-LIST:END -->
 
