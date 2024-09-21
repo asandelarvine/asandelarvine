@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Contribution to the `addcom` CLI Tool](https://dev.to/vinhyan/my-contribution-to-the-addcom-cli-tool-538f)
-- [Como hospedar o N8N em uma VPS](https://dev.to/ronieremarques/como-hospedar-o-n8n-em-uma-vps-4a6g)
-- [A cluster-friendly MQTT Broker deployment with Docker](https://dev.to/johnscode/a-cluster-friendly-mqtt-broker-deployment-with-docker-hji)
-- [The Benefits of Having More Threads than Cores: Unlocking the Power of Multi-threading in Modern Computing](https://dev.to/adityabhuyan/the-benefits-of-having-more-threads-than-cores-unlocking-the-power-of-multi-threading-in-modern-computing-4cg6)
+- [Leetcode: 624. Maximum Distance in Arrays](https://dev.to/decoders_lord/leetcode-624-maximum-distance-in-arrays-20hi)
+- [Contributing to Open Source: My Experience with Pull Requests and Collaboration](https://dev.to/msaluja/contributing-to-open-source-my-experience-with-pull-requests-and-collaboration-1opb)
+- [PWA and Offline Games](https://dev.to/aerabi/pwa-and-offline-games-3b2e)
+- [3 things to consider migrating WordPress database from local to production](https://dev.to/phyothiha/3-things-to-consider-migrating-wordpress-database-from-local-to-production-232)
 <!-- BLOG-POST-LIST:END -->
 
