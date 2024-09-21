@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PhD thesis topic outline: The Application of Artificial Intelligence in Healthcare: Opportunities and Challenges](https://dev.to/gracerosen/phd-thesis-topic-outline-the-application-of-artificial-intelligence-in-healthcare-opportunities-and-challenges-13eo)
-- [Contributing to another repo](https://dev.to/sych_andrii/first-pull-requests-ever-4mhk)
-- [PhD thesis topic outline: Ethics in Artificial Intelligence: Analysing Bias and Fairness in Machine Learning Algorithms](https://dev.to/gracerosen/phd-thesis-topic-outline-ethics-in-artificial-intelligence-analysing-bias-and-fairness-in-machine-learning-algorithms-1b1d)
-- [js / ts - comando !!](https://dev.to/leonardominora/js-ts-comando--3188)
+- [[Azure AI + .NET] Unveiling the Power of AI: Analyze Images with Azure AI Image Analysis &lpar;Cognitive Service&rpar; and .NET 8](https://dev.to/ngtduc693/unveiling-the-power-of-ai-analyze-images-with-azure-ai-image-analysis-cognitive-service-and-net-8-2jc0)
+- [Enhancing Support Vector Machines for Non-Linear Classification with Kernel Functions](https://dev.to/harsimranjit_singh_0133dc/enhancing-support-vector-machines-for-non-linear-classification-with-kernel-functions-1g2c)
+- [Creating Custom UI Components with Stencil](https://dev.to/kartikmehta8/creating-custom-ui-components-with-stencil-2kd9)
+- [HelloWorld!](https://dev.to/kenko2002/helloworld-10ia)
 <!-- BLOG-POST-LIST:END -->
 
