@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [80%💥 of development time is wasted on communication](https://dev.to/wilson_evan_1efa5910f8855/80-of-development-time-is-wasted-on-communication-64b)
-- [Data Validation Techniques](https://dev.to/nozibul_islam_113b1d5334f/data-validation-techniques-2lac)
-- [Dica C#: Membros de Dados em Interfaces](https://dev.to/juarezasjunior/dica-c-membros-de-dados-em-interfaces-23hp)
-- [C# Tip: Data Members in Interfaces](https://dev.to/juarezasjunior/c-tip-data-members-in-interfaces-54gk)
+- [LabEx Trending: Simple Prize Draw Application and More 🚀](https://dev.to/labex/labex-trending-simple-prize-draw-application-and-more-2i2o)
+- [Mastering CRUD Operations with OpenSearch in Python: A Practical Guide](https://dev.to/franklinthaker/mastering-crud-operations-with-opensearch-in-python-a-practical-guide-53k7)
+- [Clone and Iterative Adapter Methods in Rust: The thin line between Duplication, Efficiency and Transformation](https://dev.to/aseneca/clone-and-iterative-adapter-methods-in-rust-the-thin-line-between-duplication-efficiency-and-transformation-e0g)
+- [Cosmos Staking: Maximizing Rewards](https://dev.to/samdisel755/cosmos-staking-maximizing-rewards-161c)
 <!-- BLOG-POST-LIST:END -->
 
