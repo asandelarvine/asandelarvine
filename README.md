@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT in Node.js: A Guide with Pros, Cons, and Code Examples](https://dev.to/hakimmohamed/understanding-jwt-in-nodejs-a-guide-with-pros-cons-and-code-examples-30cj)
-- [Why Data Engineering is Essential in Fintech: Insights from a Data Engineer on ETL and Warehousing](https://dev.to/kaitlyn_mccormick_23b1714/why-data-engineering-is-essential-in-fintech-insights-from-a-data-engineer-on-etl-and-warehousing-4epb)
-- [Understanding Binary and Other Number Representations: A Freshman&#39;s Guide](https://dev.to/mchukhajyan/understanding-binary-and-other-number-representations-a-freshmans-guide-4j3k)
-- [Overwhelmed by the AWS Certification Maze?](https://dev.to/mattcsmith/overwhelmed-by-the-aws-certification-maze-49p)
+- [Enable Remote Differential Compression API Support in Windows 11](https://dev.to/winsides/enable-remote-differential-compression-api-support-in-windows-11-2fh0)
+- [Learning Markdown](https://dev.to/dev_frank/learning-markdown-fhm)
+- [Count Number of Pairs With Absolute Difference K](https://dev.to/phoenix_238501d86d417e/count-number-of-pairs-with-absolute-difference-k-3m6j)
+- [How To Use Zapcap API &lpar;API for Subtitles&rpar;](https://dev.to/elliot_brenya/how-to-use-zapcap-api-api-for-subtitles-4ln7)
 <!-- BLOG-POST-LIST:END -->
 
