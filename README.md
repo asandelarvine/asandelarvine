@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Azure AI + .NET] Unveiling the Power of AI: Analyze Images with Azure AI Image Analysis &lpar;Cognitive Service&rpar; and .NET 8](https://dev.to/ngtduc693/unveiling-the-power-of-ai-analyze-images-with-azure-ai-image-analysis-cognitive-service-and-net-8-2jc0)
-- [Enhancing Support Vector Machines for Non-Linear Classification with Kernel Functions](https://dev.to/harsimranjit_singh_0133dc/enhancing-support-vector-machines-for-non-linear-classification-with-kernel-functions-1g2c)
-- [Creating Custom UI Components with Stencil](https://dev.to/kartikmehta8/creating-custom-ui-components-with-stencil-2kd9)
-- [HelloWorld!](https://dev.to/kenko2002/helloworld-10ia)
+- [My Contribution to the `addcom` CLI Tool](https://dev.to/vinhyan/my-contribution-to-the-addcom-cli-tool-538f)
+- [Como hospedar o N8N em uma VPS](https://dev.to/ronieremarques/como-hospedar-o-n8n-em-uma-vps-4a6g)
+- [A cluster-friendly MQTT Broker deployment with Docker](https://dev.to/johnscode/a-cluster-friendly-mqtt-broker-deployment-with-docker-hji)
+- [The Benefits of Having More Threads than Cores: Unlocking the Power of Multi-threading in Modern Computing](https://dev.to/adityabhuyan/the-benefits-of-having-more-threads-than-cores-unlocking-the-power-of-multi-threading-in-modern-computing-4cg6)
 <!-- BLOG-POST-LIST:END -->
 
