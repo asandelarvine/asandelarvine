@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 VSCode Theme Generator: Create stunning themes using sacred geometry patterns](https://dev.to/rodrigo_luglio_f63c6051de/vscode-theme-generator-create-stunning-themes-using-sacred-geometry-patterns-4k2d)
-- [How to promote your startup with no followers](https://dev.to/johnrushx/how-to-promote-your-startup-with-no-followers-2d9)
-- [Kubernetes &lpar;part-2&rpar;](https://dev.to/praduman_cnd/kubernetes-part-2-1pjl)
-- [TextSpectrum: Unleash Colorful Typography](https://dev.to/areeb_anwar_813df06ee1124/textspectrum-unleash-colorful-typography-bla)
+- [CorreQueVuelan addons para Firedox](https://dev.to/jagedn/correquevuelan-addons-para-firedox-6c2)
+- [# 10 Developer Tools to Improve Your Daily Life as a Developer: Part 2 🚀](https://dev.to/hichamelhirch/-10-developer-tools-to-improve-your-daily-life-as-a-developer-part-2-3264)
+- [Kickstart Your Blog with Next.js and MDX: A Ready-to-Use Template](https://dev.to/vigneshiyergithub/kickstart-your-blog-with-nextjs-and-mdx-a-ready-to-use-template-3pf6)
+- [OptimizeIt: Merge Conflicts &amp; Three-Way-Recursive merges](https://dev.to/majd_almnayer_2101/optimizeit-merge-conflicts-three-way-recursive-merges-1i27)
 <!-- BLOG-POST-LIST:END -->
 
