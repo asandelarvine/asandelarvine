@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ES2015 &lpar;ES6&rpar; Tips, Tricks, Best Practices, and Code Snippet Examples for Your Day-to-Day Workflow](https://dev.to/dilipmishra/es2015-es6-tips-tricks-best-practices-and-code-snippet-examples-for-your-day-to-day-workflow-575)
-- [Print all unique Pairs with given Sum](https://dev.to/phoenix_238501d86d417e/print-all-unique-pairs-with-given-sum-1o3n)
-- [Streamline Your Development with This Awesome Docker Command](https://dev.to/lucas_draney_5d2d170f082f/streamline-your-development-with-this-awesome-docker-command-43a)
-- [Building a Nuxt.js + Vue.js SaaS Starter: Authentication, Payments, and Supabase Made Easy](https://dev.to/geraldmuvengei06/building-a-nuxtjs-vuejs-saas-starter-authentication-payments-and-supabase-made-easy-3d9p)
+- [🎨 VSCode Theme Generator: Create stunning themes using sacred geometry patterns](https://dev.to/rodrigo_luglio_f63c6051de/vscode-theme-generator-create-stunning-themes-using-sacred-geometry-patterns-4k2d)
+- [How to promote your startup with no followers](https://dev.to/johnrushx/how-to-promote-your-startup-with-no-followers-2d9)
+- [Kubernetes &lpar;part-2&rpar;](https://dev.to/praduman_cnd/kubernetes-part-2-1pjl)
+- [TextSpectrum: Unleash Colorful Typography](https://dev.to/areeb_anwar_813df06ee1124/textspectrum-unleash-colorful-typography-bla)
 <!-- BLOG-POST-LIST:END -->
 
