@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Expert Javascript Interview Preparation](https://dev.to/ashutoshsarangi/expert-javascript-interview-preparation-50o7)
-- [What is a subnet? | How subnetting works](https://dev.to/abdulmuminyqn/what-is-a-subnet-how-subnetting-works-5d6g)
-- [What challenges would you face on migrating a service to EKS?](https://dev.to/codewithved/what-challenges-would-you-face-on-migrating-a-service-to-eks-1k8f)
-- [Mastering Python as a Busy Developer: Top Strategies for Quick Learning](https://dev.to/sangeeth_joseph/mastering-python-as-a-busy-developer-top-strategies-for-quick-learning-23la)
+- [/s 🚀 5 Best Posts From 100 DEV Community Best Posts Having &quot;Best&quot; or &quot;10&quot; in Their Title 🚀 /s](https://dev.to/kvetoslavnovak/5-best-posts-from-100-dev-community-best-posts-having-best-or-10-in-their-title-19a3)
+- [We built a new 3D viewer for Shapemaker! 🚀](https://dev.to/pharzan/we-built-a-new-3d-viewer-for-shapemaker-744)
+- [Overcoming NEXT_PUBLIC_ Environment Variable Limitations in Next.js with Docker](https://dev.to/ajay404/overcoming-nextpublic-environment-variable-limitations-in-nextjs-with-docker-5gh6)
+- [the LivinGrimoire software design pattern](https://dev.to/owly/the-livingrimoire-software-design-pattern-289k)
 <!-- BLOG-POST-LIST:END -->
 
