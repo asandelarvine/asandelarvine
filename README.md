@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: Simple Prize Draw Application and More 🚀](https://dev.to/labex/labex-trending-simple-prize-draw-application-and-more-2i2o)
-- [Mastering CRUD Operations with OpenSearch in Python: A Practical Guide](https://dev.to/franklinthaker/mastering-crud-operations-with-opensearch-in-python-a-practical-guide-53k7)
-- [Clone and Iterative Adapter Methods in Rust: The thin line between Duplication, Efficiency and Transformation](https://dev.to/aseneca/clone-and-iterative-adapter-methods-in-rust-the-thin-line-between-duplication-efficiency-and-transformation-e0g)
-- [Cosmos Staking: Maximizing Rewards](https://dev.to/samdisel755/cosmos-staking-maximizing-rewards-161c)
+- [🚀 10+ Projects to Win Hackathons in 2024🏆💻](https://dev.to/lokesh_singh/10-projects-to-win-hackathons-in-2024-5596)
+- [Setting up Kubernetes Dashboard with Kind](https://dev.to/chauhoangminhnguyen/setting-up-kubernetes-dashboard-with-kind-5he5)
+- [Why do React components need to start with capital letters?](https://dev.to/bhataasim/why-do-react-components-need-to-start-with-capital-letters-4c8k)
+- [Collision Detection](https://dev.to/aksh247/collision-detection-apc)
 <!-- BLOG-POST-LIST:END -->
 
