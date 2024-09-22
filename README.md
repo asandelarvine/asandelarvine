@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Magic of Binary Numbers: Unlocking a new level in life](https://dev.to/nanana776/the-magic-of-binary-numbers-unlocking-a-new-level-in-life-53ba)
-- [CRUD en Flask](https://dev.to/ferstal/crud-en-flask-4ibb)
-- [First Post. Nothing Special.](https://dev.to/isslerman/first-post-nothing-special-b0j)
-- [Using Cloud Functions and Cloud Schedule to process data with Google Dataflow](https://dev.to/jader_lima_b72a63be5bbddc/using-cloud-functions-and-cloud-schedule-to-process-data-with-google-dataflow-1p1k)
+- [Detailed Comparison of JoyCaption Alpha One vs JoyCaption Pre-Alpha - Ultra Advanced Multi GPU Captioning](https://dev.to/furkangozukara/detailed-comparison-of-joycaption-alpha-one-vs-joycaption-pre-alpha-ultra-advanced-multi-gpu-captioning-494c)
+- [Static Redirects in Vercel](https://dev.to/shieldstring/static-redirects-in-vercel-32c3)
+- [Design and implement Git branching strategies for CI/CD integration](https://dev.to/gkarwchan/design-and-implement-git-branching-strategies-for-cicd-integration-b4o)
+- [LabEx Trending: Creating a Code Rain in C Using Ncurses and More](https://dev.to/labex/labex-trending-creating-a-code-rain-in-c-using-ncurses-and-more-32ic)
 <!-- BLOG-POST-LIST:END -->
 
