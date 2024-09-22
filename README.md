@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sed It Right: Mastering the Stream Editor for Text Magic](https://dev.to/jimmymcbride/sed-it-right-mastering-the-stream-editor-for-text-magic-54k9)
-- [Environment Variables in Rust](https://dev.to/francescoxx/environment-variables-in-rust-4m5l)
-- [Singleton Design Pattern](https://dev.to/tommyc/singleton-design-pattern-3b96)
-- [NativeFlow: A Tailwind-Like, Object-Based React Native UI Library 🚀](https://dev.to/mathdebate09/nativeflow-a-tailwind-like-object-based-react-native-ui-library-lap)
+- [I built my first OpenSource project](https://dev.to/iamvaar/i-built-my-first-opensource-project-4340)
+- [How to Disable Button in Android Studio](https://dev.to/mohasinnawaz091/how-to-disable-button-in-android-studio-31m3)
+- [A Tetris Tutorial That&#39;s a Real Gem! 💎](https://dev.to/getvm/a-tetris-tutorial-thats-a-real-gem-518a)
+- [Every web developer should know these websites 👇](https://dev.to/mohasinnawaz091/every-web-developer-should-know-these-websites-14i4)
 <!-- BLOG-POST-LIST:END -->
 
