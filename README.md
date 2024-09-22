@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Error Handling with JavaScript’s New ?= Operator](https://dev.to/shivanshu_tomar_4453d1790/streamline-error-handling-with-javascripts-new-operator-1col)
-- [One Byte Explainer: Three.js](https://dev.to/aloisseckar/one-byte-explainer-threejs-126e)
-- [@Qualifier Annotation Spring Boot Explained](https://dev.to/realnamehidden1_61/qualifier-annotation-spring-boot-explained-1f58)
-- [Linux test](https://dev.to/dnyaneshwarshekade/linux-test-52ck)
+- [Combining Flexbox and Grid for a Personal Website Landing Page](https://dev.to/aepasahan/combining-flexbox-and-grid-for-a-personal-website-landing-page-3jmf)
+- [Mastering C# Fundamentals: Setting Up Your Environment for C# Development](https://dev.to/moh_moh701/mastering-c-fundamentals-setting-up-your-environment-for-c-development-df5)
+- [Why must a Kubernetes cluster have an odd number of nodes](https://dev.to/farshad_nick/why-must-a-kubernetes-cluster-have-an-odd-number-of-nodes-5co6)
+- [Why you SHOULD NOT host WordPress in Kubernetes](https://dev.to/kubelet/why-you-should-not-host-wordpress-in-kubernetes-2kk4)
 <!-- BLOG-POST-LIST:END -->
 
