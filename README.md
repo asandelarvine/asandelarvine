@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React: A Guide to the Most Important React Hooks](https://dev.to/harshanalk/mastering-react-a-guide-to-the-most-important-react-hooks-25dg)
-- [NAVIGATING THE AI REVOLUTION](https://dev.to/banta/navigating-the-ai-revolution-fn1)
-- [Enable continuous store delivery on React Native for iOS and Android with Fastlane, Gitlab CI and react-native-config](https://dev.to/adoucoure/enable-continuous-store-delivery-on-react-native-for-ios-and-android-with-fastlane-gitlab-ci-and-react-native-config-24o3)
-- [A Comprehensive Guide to Server-Sent Events &lpar;SSE&rpar; for Real-Time Web Applications](https://dev.to/simranjit884/a-comprehensive-guide-to-server-sent-events-sse-for-real-time-web-applications-29e7)
+- [React Hooks](https://dev.to/mrcaption49/react-hooks-2n3l)
+- [Back to Basics: The CrowdStrike Incident and Fundamental IT Security Principles](https://dev.to/virteva/back-to-basics-the-crowdstrike-incident-and-fundamental-it-security-principles-435i)
+- [Ottimizzazione delle Performance Web: Velocizzare il Tuo Sito Web | Web Performance Optimization: Speeding Up Your Website](https://dev.to/roberto_celano/ottimizzazione-delle-performance-web-velocizzare-il-tuo-sito-web-web-performance-optimization-speeding-up-your-website-48e7)
+- [Generate meaningful commit messages with Ollama and Kaizen](https://dev.to/sauravpanda/generate-meaningful-commit-messages-with-ollama-and-kaizen-2c01)
 <!-- BLOG-POST-LIST:END -->
 
