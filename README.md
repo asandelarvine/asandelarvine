@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Collections Scenario Based Interview Question](https://dev.to/realnamehidden1_61/java-collections-scenario-based-interview-question-4cbh)
-- [Routing in React vs. Next.js: Extra Work or Easy Wins?](https://dev.to/iamfaham/routing-in-react-vs-nextjs-extra-work-or-easy-wins-3mcf)
-- [#The Future of Design: 5 AI Tools to Transform Your Creative Process 🌈🤖](https://dev.to/toobaliscious/the-future-of-design-5-ai-tools-to-transform-your-creative-process-54ck)
-- [When a Traditional Relational Database Is More Suitable Than Blockchain: Key Scenarios](https://dev.to/adityabhuyan/when-a-traditional-relational-database-is-more-suitable-than-blockchain-key-scenarios-2lg7)
+- [Why BookMyShow &quot;Failed&quot; but Hotstar Succeeded - A System Design Perspective](https://dev.to/shreyaan/why-bookmyshow-failed-but-hotstar-succeeded-a-system-design-perspective-2ngl)
+- [Receive Slack Notifications from your Laravel App with a 10-minute Setup](https://dev.to/karandatwani92/receive-slack-notifications-from-your-laravel-app-with-a-10-minute-setup-2be1)
+- [Install PostgreSQL in a Docker Container](https://dev.to/aungthuoo/install-postgresql-in-a-docker-container-3kio)
+- [Microservices Design Aspects](https://dev.to/tkssharma/microservices-design-aspects-5h9e)
 <!-- BLOG-POST-LIST:END -->
 
