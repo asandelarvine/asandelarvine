@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What bits of software engineering faff would you want to get rid of?](https://dev.to/dllewellyn/what-bits-of-software-engineering-faff-would-you-want-to-get-rid-of-1pfk)
-- [🛠️ Rust vs Go: The Ultimate Showdown for Backend Development ⚡](https://dev.to/hamzakhan/rust-vs-go-the-ultimate-showdown-for-backend-development-5cll)
-- [Understanding Array Basics in Java: A Simple Guide](https://dev.to/arshisaxena26/understanding-array-basics-in-java-a-simple-guide-53mb)
-- [From Dependency Inversion to Dependency Injection in Python](https://dev.to/markoulis/from-dependency-inversion-to-dependency-injection-in-python-2h70)
+- [🔥 Breaking News: Linkspreed Drops Web4 Lite Open Source – A Game-Changer for Social Networks?](https://dev.to/web4/breaking-news-linkspreed-drops-web4-lite-open-source-a-game-changer-for-social-networks-3635)
+- [New Squad on Daily.dev](https://dev.to/grenishrai/new-squad-on-dailydev-ffo)
+- [Setting Up an EXTERNAL-IP for Local LoadBalancer Service](https://dev.to/chauhoangminhnguyen/setting-up-an-external-ip-for-local-loadbalancer-service-4914)
+- [Improving Performance in .NET Applications with Asynchronous Programming and Caching](https://dev.to/leandroveiga/improving-performance-in-net-applications-with-asynchronous-programming-and-caching-2dl4)
 <!-- BLOG-POST-LIST:END -->
 
