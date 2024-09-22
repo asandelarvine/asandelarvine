@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NativeFlow: A Tailwind-Like, Object-Based React Native UI Library 🚀](https://dev.to/mathdebate09/nativeflow-a-tailwind-like-class-based-react-native-ui-library-4254)
-- [Collections.max&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmax-method-in-java-3fb9)
-- [🌟 The Ultimate Guide to Dev Community &lpar;Dev.to&rpar;: Empowering Developers Worldwide!](https://dev.to/mirzahanzla/the-ultimate-guide-to-dev-community-devto-empowering-developers-worldwide-501o)
-- [ADDCOM - release 0.1](https://dev.to/arilloid/addcom-release-01-4k3k)
+- [Sed It Right: Mastering the Stream Editor for Text Magic](https://dev.to/jimmymcbride/sed-it-right-mastering-the-stream-editor-for-text-magic-54k9)
+- [Environment Variables in Rust](https://dev.to/francescoxx/environment-variables-in-rust-4m5l)
+- [Singleton Design Pattern](https://dev.to/tommyc/singleton-design-pattern-3b96)
+- [NativeFlow: A Tailwind-Like, Object-Based React Native UI Library 🚀](https://dev.to/mathdebate09/nativeflow-a-tailwind-like-object-based-react-native-ui-library-lap)
 <!-- BLOG-POST-LIST:END -->
 
