@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What bits of software engineering faff would you want to get rid of?](https://dev.to/dllewellyn/what-bits-of-software-engineering-faff-would-you-want-to-get-rid-of-1pfk)
+- [🛠️ Rust vs Go: The Ultimate Showdown for Backend Development ⚡](https://dev.to/hamzakhan/rust-vs-go-the-ultimate-showdown-for-backend-development-5cll)
+- [Understanding Array Basics in Java: A Simple Guide](https://dev.to/arshisaxena26/understanding-array-basics-in-java-a-simple-guide-53mb)
 - [From Dependency Inversion to Dependency Injection in Python](https://dev.to/markoulis/from-dependency-inversion-to-dependency-injection-in-python-2h70)
-- [How to Set Up Prettier – Code Formatter](https://dev.to/shieldstring/how-to-set-up-prettier-code-formatter-4a2f)
-- [The programming language conundrum](https://dev.to/suriya_ganesh_5deb9ce2569/the-programming-language-conundrum-305l)
-- [How do you stay updated with the latest tech trends and tools](https://dev.to/harry_kale_1c677aae7d5f66/how-do-you-stay-updated-with-the-latest-tech-trends-and-tools-4hjc)
 <!-- BLOG-POST-LIST:END -->
 
