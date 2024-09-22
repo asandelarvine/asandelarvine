@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks](https://dev.to/mrcaption49/react-hooks-2n3l)
-- [Back to Basics: The CrowdStrike Incident and Fundamental IT Security Principles](https://dev.to/virteva/back-to-basics-the-crowdstrike-incident-and-fundamental-it-security-principles-435i)
-- [Ottimizzazione delle Performance Web: Velocizzare il Tuo Sito Web | Web Performance Optimization: Speeding Up Your Website](https://dev.to/roberto_celano/ottimizzazione-delle-performance-web-velocizzare-il-tuo-sito-web-web-performance-optimization-speeding-up-your-website-48e7)
-- [Generate meaningful commit messages with Ollama and Kaizen](https://dev.to/sauravpanda/generate-meaningful-commit-messages-with-ollama-and-kaizen-2c01)
+- [LOGIC GATES AND THEIR USAGE](https://dev.to/ara_melkonyan_87f17d84509/logic-gates-and-their-usage-1gm4)
+- [PLSQL Top 10 Interview Questions](https://dev.to/mrcaption49/plsql-top-10-interview-questions-2o01)
+- [Day Two: Stepping Away from UI to Tackle SEO, Security, and Automation](https://dev.to/madhatter5501/day-two-stepping-away-from-ui-to-tackle-seo-security-and-automation-25ni)
+- [Factory Design Pattern](https://dev.to/tommyc/factory-design-pattern-42hc)
 <!-- BLOG-POST-LIST:END -->
 
