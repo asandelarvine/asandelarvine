@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why BookMyShow &quot;Failed&quot; but Hotstar Succeeded - A System Design Perspective](https://dev.to/shreyaan/why-bookmyshow-failed-but-hotstar-succeeded-a-system-design-perspective-2ngl)
-- [Receive Slack Notifications from your Laravel App with a 10-minute Setup](https://dev.to/karandatwani92/receive-slack-notifications-from-your-laravel-app-with-a-10-minute-setup-2be1)
-- [Install PostgreSQL in a Docker Container](https://dev.to/aungthuoo/install-postgresql-in-a-docker-container-3kio)
-- [Microservices Design Aspects](https://dev.to/tkssharma/microservices-design-aspects-5h9e)
+- [Streamline Error Handling with JavaScript’s New ?= Operator](https://dev.to/shivanshu_tomar_4453d1790/streamline-error-handling-with-javascripts-new-operator-1col)
+- [One Byte Explainer: Three.js](https://dev.to/aloisseckar/one-byte-explainer-threejs-126e)
+- [@Qualifier Annotation Spring Boot Explained](https://dev.to/realnamehidden1_61/qualifier-annotation-spring-boot-explained-1f58)
+- [Linux test](https://dev.to/dnyaneshwarshekade/linux-test-52ck)
 <!-- BLOG-POST-LIST:END -->
 
