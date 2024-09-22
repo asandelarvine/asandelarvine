@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Some linked CSS Methods](https://dev.to/lmcss/some-linked-css-methods-enc)
-- [Programming with Linux OS— Virtual or Real Machine?](https://dev.to/benslinux/programming-with-linux-os-virtual-or-real-machine-l20)
-- [Building a Unit of Work like pattern in NestJS and Sequelize.](https://dev.to/murilogervasio/building-a-unit-of-work-like-pattern-in-nestjs-and-sequelize-5gah)
-- [Eslint Code Insights from Bitbucket pipelines](https://dev.to/julian_c/eslint-code-insights-from-bitbucket-pipelines-5dgo)
+- [Continuous Delivery applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer – Part 2](https://dev.to/avelez/continuous-delivery-applied-to-authorization-with-iam-identity-center-and-aws-iam-access-analyzer-part-2-35lb)
+- [[ML.NET] Predicting the Future with ML.NET with examples](https://dev.to/ngtduc693/predicting-the-future-with-mlnet-machine-learning-net-with-examples-4le0)
+- [Python&#39;s Data Classes: A Deep Dive](https://dev.to/kartikmehta8/pythons-data-classes-a-deep-dive-3245)
+- [Dynamic Tests in Cypress: To Loop or Not To Loop](https://dev.to/sebastianclavijo/dynamic-tests-in-cypress-to-loop-or-not-to-loop-2g22)
 <!-- BLOG-POST-LIST:END -->
 
