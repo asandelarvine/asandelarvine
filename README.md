@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Middlewares For Baby Programmers](https://dev.to/hopelesscoder/middlewares-for-baby-programmers-1nb0)
-- [Todo App with React.js React-Redux and MUI](https://dev.to/xitize/todo-app-with-reactjs-react-redux-and-mui-662)
-- [redux/actions/user.js](https://dev.to/navnit73/reduxactionsuserjs-fop)
-- [components/Courses /Courses.jsx](https://dev.to/navnit73/componentscoursescoursesjsx-2pl8)
+- [Mastering React: A Guide to the Most Important React Hooks](https://dev.to/harshanalk/mastering-react-a-guide-to-the-most-important-react-hooks-25dg)
+- [NAVIGATING THE AI REVOLUTION](https://dev.to/banta/navigating-the-ai-revolution-fn1)
+- [Enable continuous store delivery on React Native for iOS and Android with Fastlane, Gitlab CI and react-native-config](https://dev.to/adoucoure/enable-continuous-store-delivery-on-react-native-for-ios-and-android-with-fastlane-gitlab-ci-and-react-native-config-24o3)
+- [A Comprehensive Guide to Server-Sent Events &lpar;SSE&rpar; for Real-Time Web Applications](https://dev.to/simranjit884/a-comprehensive-guide-to-server-sent-events-sse-for-real-time-web-applications-29e7)
 <!-- BLOG-POST-LIST:END -->
 
