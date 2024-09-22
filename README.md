@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On building a digital assistant for the rest of us &lpar;part 4&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-4-5a5p)
-- [Code Quest: Taming the Request Beast with Spliterator Magic! 🧙‍♂️✨](https://dev.to/meenachan101/code-quest-taming-the-request-beast-with-spliterator-magic-290m)
-- [Tadej Pogacar](https://dev.to/frbeltran1511/tadej-pogacar-m80)
-- [Customize JavaScript&#39;s console.log](https://dev.to/rokobuljan/customize-javascripts-consolelog-4d2b)
+- [Middlewares For Baby Programmers](https://dev.to/hopelesscoder/middlewares-for-baby-programmers-1nb0)
+- [Todo App with React.js React-Redux and MUI](https://dev.to/xitize/todo-app-with-reactjs-react-redux-and-mui-662)
+- [redux/actions/user.js](https://dev.to/navnit73/reduxactionsuserjs-fop)
+- [components/Courses /Courses.jsx](https://dev.to/navnit73/componentscoursescoursesjsx-2pl8)
 <!-- BLOG-POST-LIST:END -->
 
