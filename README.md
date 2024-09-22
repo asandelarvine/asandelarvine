@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ict draft](https://dev.to/mark_llena_3aac88ab5e80a9/ict-draft-3nig)
-- [🚀 Understanding How Next.js Works: A Comparison with React.js](https://dev.to/vyan/understanding-how-nextjs-works-a-comparison-with-reactjs-4f1b)
-- [How to temporarily skip the pending migration check in Rails](https://dev.to/alexandrecalaca/how-to-temporarily-skip-the-pending-migration-check-in-rails-4ahk)
-- [FREE Downloadable Resources](https://dev.to/pawandeore/free-downloadable-resources-2e5n)
+- [NativeFlow: A Tailwind-Like, Object-Based React Native UI Library 🚀](https://dev.to/mathdebate09/nativeflow-a-tailwind-like-class-based-react-native-ui-library-4254)
+- [Collections.max&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmax-method-in-java-3fb9)
+- [🌟 The Ultimate Guide to Dev Community &lpar;Dev.to&rpar;: Empowering Developers Worldwide!](https://dev.to/mirzahanzla/the-ultimate-guide-to-dev-community-devto-empowering-developers-worldwide-501o)
+- [ADDCOM - release 0.1](https://dev.to/arilloid/addcom-release-01-4k3k)
 <!-- BLOG-POST-LIST:END -->
 
