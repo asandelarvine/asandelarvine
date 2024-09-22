@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Breaking News: Linkspreed Drops Web4 Lite Open Source – A Game-Changer for Social Networks?](https://dev.to/web4/breaking-news-linkspreed-drops-web4-lite-open-source-a-game-changer-for-social-networks-3635)
-- [New Squad on Daily.dev](https://dev.to/grenishrai/new-squad-on-dailydev-ffo)
-- [Setting Up an EXTERNAL-IP for Local LoadBalancer Service](https://dev.to/chauhoangminhnguyen/setting-up-an-external-ip-for-local-loadbalancer-service-4914)
-- [Improving Performance in .NET Applications with Asynchronous Programming and Caching](https://dev.to/leandroveiga/improving-performance-in-net-applications-with-asynchronous-programming-and-caching-2dl4)
+- [Unleash the Power of FastAPI: Async vs Blocking I/O](https://dev.to/kfir-g/unleash-the-power-of-fastapi-async-vs-blocking-io-4h0b)
+- [Essential Resources for Frontend Developers: Links You Can’t Live Without](https://dev.to/asimachowdhury/essential-resources-for-frontend-developers-links-you-cant-live-without-54o6)
+- [Crypt::OpenSSL::PKCS12 1.92 released to CPAN](https://dev.to/jonasbn/cryptopensslpkcs12-192-released-to-cpan-4n78)
+- [My website design](https://dev.to/rois_wagner_09c5592c25729/my-website-design-pbm)
 <!-- BLOG-POST-LIST:END -->
 
