@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Combining Flexbox and Grid for a Personal Website Landing Page](https://dev.to/aepasahan/combining-flexbox-and-grid-for-a-personal-website-landing-page-3jmf)
-- [Mastering C# Fundamentals: Setting Up Your Environment for C# Development](https://dev.to/moh_moh701/mastering-c-fundamentals-setting-up-your-environment-for-c-development-df5)
-- [Why must a Kubernetes cluster have an odd number of nodes](https://dev.to/farshad_nick/why-must-a-kubernetes-cluster-have-an-odd-number-of-nodes-5co6)
-- [Why you SHOULD NOT host WordPress in Kubernetes](https://dev.to/kubelet/why-you-should-not-host-wordpress-in-kubernetes-2kk4)
+- [From Dependency Inversion to Dependency Injection in Python](https://dev.to/markoulis/from-dependency-inversion-to-dependency-injection-in-python-2h70)
+- [How to Set Up Prettier – Code Formatter](https://dev.to/shieldstring/how-to-set-up-prettier-code-formatter-4a2f)
+- [The programming language conundrum](https://dev.to/suriya_ganesh_5deb9ce2569/the-programming-language-conundrum-305l)
+- [How do you stay updated with the latest tech trends and tools](https://dev.to/harry_kale_1c677aae7d5f66/how-do-you-stay-updated-with-the-latest-tech-trends-and-tools-4hjc)
 <!-- BLOG-POST-LIST:END -->
 
