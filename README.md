@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Security](https://dev.to/naveedsaeed/kubernetes-security-2kde)
-- [I Analyzed 4 Successful Products to Find These Powerful UI Design and Implementation Principles](https://dev.to/lincemathew/i-analyzed-4-successful-products-to-find-these-powerful-ui-design-and-implementation-principles-2pof)
-- [The Future of Frontend Development in the Age of AI](https://dev.to/yashrajxdev/the-future-of-frontend-development-in-the-age-of-ai-3plm)
-- [@Injectable&lpar;&rpar; in Angular](https://dev.to/mustafacam/injectable-in-angular-g19)
+- [On building a digital assistant for the rest of us &lpar;part 4&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-4-5a5p)
+- [Code Quest: Taming the Request Beast with Spliterator Magic! 🧙‍♂️✨](https://dev.to/meenachan101/code-quest-taming-the-request-beast-with-spliterator-magic-290m)
+- [Tadej Pogacar](https://dev.to/frbeltran1511/tadej-pogacar-m80)
+- [Customize JavaScript&#39;s console.log](https://dev.to/rokobuljan/customize-javascripts-consolelog-4d2b)
 <!-- BLOG-POST-LIST:END -->
 
