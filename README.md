@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How much to charge for a WordPress website in 2024](https://dev.to/mariwpumbrella/how-much-to-charge-for-a-wordpress-website-in-2024-1jmj)
-- [Exploring React 19 features](https://dev.to/karolinauske/exploring-react-19-features-58gm)
-- [Unleashing My Passion for Azure Static Web Apps! 🚀](https://dev.to/stacy_cash/unleashing-my-passion-for-azure-static-web-apps-4lmj)
-- [Amazon OpenSearch Backup and Restore: Strategies and Considerations](https://dev.to/aws-builders/amazon-opensearch-backup-and-restore-strategies-and-considerations-2729)
+- [SSH to Google Compute Engine](https://dev.to/chauhoangminhnguyen/ssh-to-google-compute-engine-1naj)
+- [5 Project Management Timeline Software to Maximize Business Efficiency](https://dev.to/thomasy0ung/5-project-management-timeline-software-to-maximize-business-efficiency-p0d)
+- [Google Spreadsheets OAuth Authentication with Python](https://dev.to/unarmedscott/google-spreadsheets-oauth-authentication-with-python-1068)
+- [what is YARP vs NGINX](https://dev.to/hossien014/what-is-yarp-vs-nginx-4m59)
 <!-- BLOG-POST-LIST:END -->
 
