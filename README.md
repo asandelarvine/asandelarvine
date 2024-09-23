@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Shopify Storefront API Access Token](https://dev.to/prashant-ardeshana/how-to-create-a-shopify-storefront-api-access-token-lbh)
-- [AWS SnapStart - Part 26 Measuring cold and warm starts with Java 21 using different garbage collection algorithms](https://dev.to/aws-builders/aws-snapstart-part-26-measuring-cold-and-warm-starts-with-java-21-using-different-garbage-collection-algorithms-8h3)
-- [What is the difference between HashMap and Hashtable?](https://dev.to/codegreen/what-is-the-difference-between-hashmap-and-hashtable-4ng7)
-- [🚀 DevOps for Dev - Simplifying Developers&#39; Work](https://dev.to/skillcr/devops-for-dev-simplifying-developers-work-2kkp)
+- [Introducing🥁 my CLI based NUMERICAL SYSTEM CALCULATOR and SCRIPT DETECTOR](https://dev.to/abhiramp_2005/introducing-my-cli-based-numerical-system-calculator-and-script-detector-j3b)
+- [Technical Deep Dive: How We Built the Pizza CLI Using Go and Cobra](https://dev.to/opensauced/technical-deep-dive-how-we-built-the-pizza-cli-using-go-and-cobra-oad)
+- [testing the adding new article](https://dev.to/dnyaneshwarshekade/testing-the-adding-new-article-i61)
+- [How senior devs use &quot;UseEffect Hook&quot; in large scale applications 🌠](https://dev.to/keshav___dev/how-senior-devs-use-useeffect-hook-in-large-scale-applications-1c8m)
 <!-- BLOG-POST-LIST:END -->
 
