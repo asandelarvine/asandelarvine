@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detailed Comparison of JoyCaption Alpha One vs JoyCaption Pre-Alpha - Ultra Advanced Multi GPU Captioning](https://dev.to/furkangozukara/detailed-comparison-of-joycaption-alpha-one-vs-joycaption-pre-alpha-ultra-advanced-multi-gpu-captioning-494c)
-- [Static Redirects in Vercel](https://dev.to/shieldstring/static-redirects-in-vercel-32c3)
-- [Design and implement Git branching strategies for CI/CD integration](https://dev.to/gkarwchan/design-and-implement-git-branching-strategies-for-cicd-integration-b4o)
-- [LabEx Trending: Creating a Code Rain in C Using Ncurses and More](https://dev.to/labex/labex-trending-creating-a-code-rain-in-c-using-ncurses-and-more-32ic)
+- [Understanding Binary and Hexadecimal Numbers](https://dev.to/elen_voskanyan/understanding-binary-and-hexadecimal-numbers-hm5)
+- [How to create a Next.js PDF viewer to display PDFs from Azure Blob Storage](https://dev.to/stars_563bd77ba249f0b1f84/how-to-create-a-nextjs-pdf-viewer-to-display-pdfs-from-azure-blob-storage-1p3d)
+- [Building Web Applications with ASP.NET Core](https://dev.to/kartikmehta8/building-web-applications-with-aspnet-core-4d6h)
+- [Understanding State and Props in React 💻🌱](https://dev.to/anikakash/understanding-state-and-props-in-react-5b9j)
 <!-- BLOG-POST-LIST:END -->
 
