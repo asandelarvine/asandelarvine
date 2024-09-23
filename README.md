@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Le boiler plate HTML](https://dev.to/audreymengue/le-boiler-plate-html-1in8)
-- [Building a Real-Time Chat Application with Socket.io, Express, React.js, and Chakra UI &lpar;Vite Setup&rpar;](https://dev.to/jagroop2001/building-a-real-time-chat-application-with-socketio-express-reactjs-and-chakra-ui-vite-setup-5h5p)
-- [AI-Powered Insights: Integrating Salesforce Data Cloud in 2024](https://dev.to/itechcloud_solution_01/ai-powered-insights-integrating-salesforce-data-cloud-in-2024-mal)
-- [Making a Power App that makes Flows](https://dev.to/wyattdave/making-a-power-app-that-makes-flows-55kk)
+- [10 Exciting React Projects for Beginners to Build and Sharpen Your Skills](https://dev.to/futuristicgeeks/10-exciting-react-projects-for-beginners-to-build-and-sharpen-your-skills-df8)
+- [Guide: How to add Write-Back capabilities to your Power BI reports with Power Apps - Part 1](https://dev.to/jonvoge/guide-how-to-add-write-back-capabilities-to-your-power-bi-reports-with-power-apps-part-1-49ek)
+- [Troubleshooting Umami Analytics: Resolving Unknown User Country Issue with Proxy Protocol on OCI](https://dev.to/nhisyamj/troubleshooting-umami-analytics-resolving-unknown-user-country-issue-with-proxy-protocol-on-oci-3gke)
+- [Creating a Scholarship Chatbot: A Beginner&#39;s Step-by-Step Guide with HTML, CSS, JavaScript, and Gemini API](https://dev.to/indah780/creating-a-scholarship-chatbot-a-beginners-step-by-step-guide-with-html-css-javascript-and-gemini-api-2d0e)
 <!-- BLOG-POST-LIST:END -->
 
