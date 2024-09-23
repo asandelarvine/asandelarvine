@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Awkwardly Awesome: Unlocking the Power of awk](https://dev.to/jimmymcbride/awkwardly-awesome-unlocking-the-power-of-awk-9fo)
-- [Why Haven&#39;t I Been Able to Land a Remote Job?](https://dev.to/anwarhossain1/why-havent-i-been-able-to-land-a-remote-job-2b3a)
-- [How PWAs Make Game Development Easy and Accessible!](https://dev.to/aashwinkumar/how-pwas-make-game-development-easy-and-accessible-53g0)
-- [I REQUIRE HELP FOR MY LEARNING ABOUT PROGRAMMING](https://dev.to/mai_rodriguezzz12/i-require-help-for-my-learning-about-programming-2k4o)
+- [Le boiler plate HTML](https://dev.to/audreymengue/le-boiler-plate-html-1in8)
+- [Building a Real-Time Chat Application with Socket.io, Express, React.js, and Chakra UI &lpar;Vite Setup&rpar;](https://dev.to/jagroop2001/building-a-real-time-chat-application-with-socketio-express-reactjs-and-chakra-ui-vite-setup-5h5p)
+- [AI-Powered Insights: Integrating Salesforce Data Cloud in 2024](https://dev.to/itechcloud_solution_01/ai-powered-insights-integrating-salesforce-data-cloud-in-2024-mal)
+- [Making a Power App that makes Flows](https://dev.to/wyattdave/making-a-power-app-that-makes-flows-55kk)
 <!-- BLOG-POST-LIST:END -->
 
