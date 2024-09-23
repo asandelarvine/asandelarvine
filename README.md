@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl Weekly #687 - On secrets](https://dev.to/szabgab/perl-weekly-687-on-secrets-1n2l)
-- [Best practices for using try-catch blocks to handle exceptions.](https://dev.to/binhnt_work/best-practices-for-using-try-catch-blocks-to-handle-exceptions-15pb)
-- [Effective SEO Techniques for Better Google Ranking of New Websites](https://dev.to/juddiy/effective-seo-techniques-for-better-google-ranking-of-new-websites-1aj8)
-- [I&#39;m a beginner](https://dev.to/maz01/im-a-beginner-3llh)
+- [How to optimize your Appwrite project for cost and performance](https://dev.to/appwrite/how-to-optimize-your-appwrite-project-for-cost-and-performance-5g2g)
+- [Die Psychologie hinter Social Proof – Wie Du Vertrauen aufbaust](https://dev.to/per-starke-642/die-psychologie-hinter-social-proof-wie-du-vertrauen-aufbaust-2bg0)
+- [Engines to get you started in your web-based gaming development](https://dev.to/davidshaek/engines-to-get-you-started-in-your-web-based-gaming-development-1j45)
+- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
 <!-- BLOG-POST-LIST:END -->
 
