@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH to Google Compute Engine](https://dev.to/chauhoangminhnguyen/ssh-to-google-compute-engine-1naj)
-- [5 Project Management Timeline Software to Maximize Business Efficiency](https://dev.to/thomasy0ung/5-project-management-timeline-software-to-maximize-business-efficiency-p0d)
-- [Google Spreadsheets OAuth Authentication with Python](https://dev.to/unarmedscott/google-spreadsheets-oauth-authentication-with-python-1068)
-- [what is YARP vs NGINX](https://dev.to/hossien014/what-is-yarp-vs-nginx-4m59)
+- [How to Create a Shopify Storefront API Access Token](https://dev.to/prashant-ardeshana/how-to-create-a-shopify-storefront-api-access-token-lbh)
+- [AWS SnapStart - Part 26 Measuring cold and warm starts with Java 21 using different garbage collection algorithms](https://dev.to/aws-builders/aws-snapstart-part-26-measuring-cold-and-warm-starts-with-java-21-using-different-garbage-collection-algorithms-8h3)
+- [What is the difference between HashMap and Hashtable?](https://dev.to/codegreen/what-is-the-difference-between-hashmap-and-hashtable-4ng7)
+- [🚀 DevOps for Dev - Simplifying Developers&#39; Work](https://dev.to/skillcr/devops-for-dev-simplifying-developers-work-2kkp)
 <!-- BLOG-POST-LIST:END -->
 
