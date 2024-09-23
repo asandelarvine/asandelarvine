@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [21+ Top React Footer Components to Use in 2024](https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o)
-- [Understanding Neural Networks: A Detailed Exploration](https://dev.to/nareshnishad/understanding-neural-networks-a-detailed-exploration-k7c)
-- [How I Built ‘University Course Finder’ Using RAG](https://dev.to/exploredataaiml/how-i-built-university-course-finder-using-rag-55p7)
-- [Deployment and Load Status Monitoring of GBFS Dedicated File Server for GBase 8a MPP Cluster Data Loading](https://dev.to/congcong/deployment-and-load-status-monitoring-of-gbfs-dedicated-file-server-for-gbase-8a-mpp-cluster-data-loading-1ap0)
+- [Awkwardly Awesome: Unlocking the Power of awk](https://dev.to/jimmymcbride/awkwardly-awesome-unlocking-the-power-of-awk-9fo)
+- [Why Haven&#39;t I Been Able to Land a Remote Job?](https://dev.to/anwarhossain1/why-havent-i-been-able-to-land-a-remote-job-2b3a)
+- [How PWAs Make Game Development Easy and Accessible!](https://dev.to/aashwinkumar/how-pwas-make-game-development-easy-and-accessible-53g0)
+- [I REQUIRE HELP FOR MY LEARNING ABOUT PROGRAMMING](https://dev.to/mai_rodriguezzz12/i-require-help-for-my-learning-about-programming-2k4o)
 <!-- BLOG-POST-LIST:END -->
 
