@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Essentials of Angular](https://dev.to/darrenheine/understanding-the-essentials-of-angular-2oop)
-- [- binary numbers, other number representations - conversions between different number representations](https://dev.to/tsolak_shahbazyan_4d38b8e/-binary-numbers-other-number-representations-conversions-between-different-number-representations-72a)
-- [Conociendo uv](https://dev.to/johnnatan_sandovalcardon/conociendo-uv-1717)
-- [Scalable SVG&#39;s](https://dev.to/ssukhpinder/scalable-svgs-244c)
+- [Building a Binary Tree from Preorder and Inorder Traversal: An In-Depth Guide](https://dev.to/samuel_zih_021b92c7d3d485/building-a-binary-tree-from-preorder-and-inorder-traversal-an-in-depth-guide-2528)
+- [The Future of Automated Scissor Lifts: How AI is Enhancing Safety and Efficiency](https://dev.to/luke_leech_e6bebf0dcc50d6/the-future-of-automated-scissor-lifts-how-ai-is-enhancing-safety-and-efficiency-5bn6)
+- [A Guide to Effective Use of the Terraform AWS Cloud Control Provider](https://dev.to/aws-builders/a-guide-to-effective-use-of-the-terraform-aws-cloud-control-provider-4dmn)
+- [Dive into Database Fun with Sequelize Migrations: Users, Vouchers, and Gifts, Oh My!](https://dev.to/hopelesscoder/dive-into-database-fun-with-sequelize-migrations-users-vouchers-and-gifts-oh-my-4p2g)
 <!-- BLOG-POST-LIST:END -->
 
