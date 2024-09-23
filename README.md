@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Replit Tutorial: How to Code Like a Pro with AI Agents](https://dev.to/proflead/replit-tutorial-how-to-code-like-a-pro-with-ai-agents-366c)
-- [Real-Time Web Communication: Long/Short Polling, WebSockets, and SSE Explained + Next.js code](https://dev.to/brinobruno/real-time-web-communication-longshort-polling-websockets-and-sse-explained-nextjs-code-1l43)
-- [Why Coding Should Be a Core Subject in Schools](https://dev.to/indusschoolb/why-coding-should-be-a-core-subject-in-schools-3dhi)
-- [How to Create Your Own IPTV Channel?](https://dev.to/alexsam986/how-to-create-your-own-iptv-channel-3a8)
+- [How much to charge for a WordPress website in 2024](https://dev.to/mariwpumbrella/how-much-to-charge-for-a-wordpress-website-in-2024-1jmj)
+- [Exploring React 19 features](https://dev.to/karolinauske/exploring-react-19-features-58gm)
+- [Unleashing My Passion for Azure Static Web Apps! 🚀](https://dev.to/stacy_cash/unleashing-my-passion-for-azure-static-web-apps-4lmj)
+- [Amazon OpenSearch Backup and Restore: Strategies and Considerations](https://dev.to/aws-builders/amazon-opensearch-backup-and-restore-strategies-and-considerations-2729)
 <!-- BLOG-POST-LIST:END -->
 
