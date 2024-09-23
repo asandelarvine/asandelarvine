@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Exciting React Projects for Beginners to Build and Sharpen Your Skills](https://dev.to/futuristicgeeks/10-exciting-react-projects-for-beginners-to-build-and-sharpen-your-skills-df8)
-- [Guide: How to add Write-Back capabilities to your Power BI reports with Power Apps - Part 1](https://dev.to/jonvoge/guide-how-to-add-write-back-capabilities-to-your-power-bi-reports-with-power-apps-part-1-49ek)
-- [Troubleshooting Umami Analytics: Resolving Unknown User Country Issue with Proxy Protocol on OCI](https://dev.to/nhisyamj/troubleshooting-umami-analytics-resolving-unknown-user-country-issue-with-proxy-protocol-on-oci-3gke)
-- [Creating a Scholarship Chatbot: A Beginner&#39;s Step-by-Step Guide with HTML, CSS, JavaScript, and Gemini API](https://dev.to/indah780/creating-a-scholarship-chatbot-a-beginners-step-by-step-guide-with-html-css-javascript-and-gemini-api-2d0e)
+- [Perl Weekly #687 - On secrets](https://dev.to/szabgab/perl-weekly-687-on-secrets-1n2l)
+- [Best practices for using try-catch blocks to handle exceptions.](https://dev.to/binhnt_work/best-practices-for-using-try-catch-blocks-to-handle-exceptions-15pb)
+- [Effective SEO Techniques for Better Google Ranking of New Websites](https://dev.to/juddiy/effective-seo-techniques-for-better-google-ranking-of-new-websites-1aj8)
+- [I&#39;m a beginner](https://dev.to/maz01/im-a-beginner-3llh)
 <!-- BLOG-POST-LIST:END -->
 
