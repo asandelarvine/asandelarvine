@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Design Patterns~Container Componets / Uncontrolled Controlled Component~](https://dev.to/kkr0423/react-design-patternscontainer-componets-uncontrolled-controlled-component-563p)
-- [Latest Updates: RWA Framework](https://dev.to/evire/latest-updates-rwa-framework-3591)
-- [Crossplane + ArgoCD: A Perfect Match for Kubernetes Automation](https://dev.to/mangadev/crossplane-argocd-a-perfect-match-for-kubernetes-automation-1cc0)
-- [How do you handle lack of self-confidence in the programming field?](https://dev.to/cerindaemon/how-do-you-handle-lack-of-self-confidence-in-the-programming-field-1adm)
+- [React: State X Derived State](https://dev.to/noriller/react-state-x-derived-state-2d2a)
+- [Make your web page faster](https://dev.to/delaterra/make-your-web-page-faster-1bk8)
+- [Netflix Clone to Level Up Your Frontend Skills](https://dev.to/tramposo/netflix-clone-to-level-up-your-frontend-skills-1ghp)
+- [A beautiful mess &lpar;v2b&rpar;](https://dev.to/mhjwbymhmd/a-beautiful-mess-v2b-52a)
 <!-- BLOG-POST-LIST:END -->
 
