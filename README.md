@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Microsoft XPS Document Writer in Windows 11](https://dev.to/winsides/enable-microsoft-xps-document-writer-in-windows-11-1oek)
-- [Stop saying “you forgot to …” in code review](https://dev.to/thinkthroo/stop-saying-you-forgot-to-in-code-review-4i6o)
-- [⚛️ Optimizing the Critical Rendering Path in React Applications](https://dev.to/sherifjrr/optimizing-the-critical-rendering-path-in-react-applications-5cpc)
-- [&#39;this&#39; keyword, call&lpar;&rpar;, apply&lpar;&rpar; and bind&lpar;&rpar; methods in JavaScript - simply explained](https://dev.to/abeertech01/this-keyword-call-apply-and-bind-methods-in-javascript-simply-explained-3ag2)
+- [Mastering C# Fundamentals: Exploring Operators in C#](https://dev.to/moh_moh701/mastering-c-fundamentals-exploring-operators-in-c-1e9p)
+- [Week 2 of #100DaysOfCode: Flexbox, Typography, Accessibility, and More!](https://dev.to/heritech9/week-2-of-100daysofcode-flexbox-typography-accessibility-and-more-1jlb)
+- [Compiler: The Code Alchemist](https://dev.to/ayaaa25/compiler-the-code-alchemist-1lm8)
+- [Why Explainable AI is the Key to Responsible Innovation?](https://dev.to/shagun_mistry/why-explainable-ai-is-the-key-to-responsible-innovation-3ac4)
 <!-- BLOG-POST-LIST:END -->
 
