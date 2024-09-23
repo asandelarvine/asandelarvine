@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Manage Offshore Software Teams Effectively](https://dev.to/kyanondigital/best-practices-for-manage-offshore-software-teams-effectively-mei)
-- [Are Java Code Signing Certificates Equivalent to SSL Certificates?](https://dev.to/riyasander/are-java-code-signing-certificates-equivalent-to-ssl-certificates-d52)
-- [What is Dynamic Protection in SafeLine WAF](https://dev.to/carrie_luo1/what-is-dynamic-protection-in-safeline-waf-55ep)
-- [Implementing ASP.NET Identity for a Multi-Tenant Application: Best Practices](https://dev.to/luqman_bolajoko/implementing-aspnet-identity-for-a-multi-tenant-application-best-practices-4an6)
+- [How I automated the booking of CrossFit &lpar;or any other group activity&rpar; at my gym using Playwright](https://dev.to/vicentecph/how-i-automated-the-booking-of-group-crossfit-or-any-other-activity-classes-at-my-gym-with-playwright-15pd)
+- [Cursors in PL/SQL Part 2](https://dev.to/mrcaption49/cursors-in-plsql-part-2-59ph)
+- [How to deploy Kubernetes Secrets with AWS Secrets Manager](https://dev.to/devtron_inc/how-to-deploy-kubernetes-secrets-with-aws-secrets-manager-48dh)
+- [Optimizing OpenStreetMap’s DevOps Efficiency: A Data-Driven DORA Metrics Analysis](https://dev.to/middleware/optimizing-openstreetmaps-devops-efficiency-a-data-driven-dora-metrics-analysis-4h8)
 <!-- BLOG-POST-LIST:END -->
 
