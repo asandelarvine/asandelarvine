@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One Byte Explainer: WebSockets](https://dev.to/zibrasismail/one-byte-explainer-websockets-3o47)
-- [How Modern Browsers Render Websites: A Behind-the-Scenes Look 🎨💻](https://dev.to/hikolakita/how-modern-browsers-render-websites-a-behind-the-scenes-look-5bfn)
-- [Which React render callback pattern do you prefer?](https://dev.to/moraym/which-react-render-callback-pattern-do-you-prefer-3p5a)
-- [Major Mode Comfort Functions, Because I&#39;m Lazy](https://dev.to/downtherabbithole/major-mode-comfort-functions-because-im-lazy-5ego)
+- [Serverless vs. Edge vs. Traditional Servers: Which One’s the Best Fit for You?](https://dev.to/programordie/serverless-vs-edge-vs-traditional-servers-which-ones-the-best-fit-for-you-4aoh)
+- [A New Quiz is Out: Most Common HTML Tags Quiz](https://dev.to/areeb_anwar_813df06ee1124/a-new-quiz-is-out-most-common-html-tags-quiz-40eb)
+- [Make Your App Feel Better: 10 UI Tips for Beginner/Mid-Level Developers](https://dev.to/harimanok/make-your-app-feel-better-11-ui-tips-for-beginnermid-level-developers-1e1n)
+- [Soft Skills for Software Developers to Adopt](https://dev.to/get_pieces/soft-skills-for-software-developers-to-adopt-27h4)
 <!-- BLOG-POST-LIST:END -->
 
