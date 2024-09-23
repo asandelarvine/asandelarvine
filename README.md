@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I automated the booking of CrossFit &lpar;or any other group activity&rpar; at my gym using Playwright](https://dev.to/vicentecph/how-i-automated-the-booking-of-group-crossfit-or-any-other-activity-classes-at-my-gym-with-playwright-15pd)
-- [Cursors in PL/SQL Part 2](https://dev.to/mrcaption49/cursors-in-plsql-part-2-59ph)
-- [How to deploy Kubernetes Secrets with AWS Secrets Manager](https://dev.to/devtron_inc/how-to-deploy-kubernetes-secrets-with-aws-secrets-manager-48dh)
-- [Optimizing OpenStreetMap’s DevOps Efficiency: A Data-Driven DORA Metrics Analysis](https://dev.to/middleware/optimizing-openstreetmaps-devops-efficiency-a-data-driven-dora-metrics-analysis-4h8)
+- [Replit Tutorial: How to Code Like a Pro with AI Agents](https://dev.to/proflead/replit-tutorial-how-to-code-like-a-pro-with-ai-agents-366c)
+- [Real-Time Web Communication: Long/Short Polling, WebSockets, and SSE Explained + Next.js code](https://dev.to/brinobruno/real-time-web-communication-longshort-polling-websockets-and-sse-explained-nextjs-code-1l43)
+- [Why Coding Should Be a Core Subject in Schools](https://dev.to/indusschoolb/why-coding-should-be-a-core-subject-in-schools-3dhi)
+- [How to Create Your Own IPTV Channel?](https://dev.to/alexsam986/how-to-create-your-own-iptv-channel-3a8)
 <!-- BLOG-POST-LIST:END -->
 
