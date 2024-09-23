@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Binary and Hexadecimal Numbers](https://dev.to/elen_voskanyan/understanding-binary-and-hexadecimal-numbers-hm5)
-- [How to create a Next.js PDF viewer to display PDFs from Azure Blob Storage](https://dev.to/stars_563bd77ba249f0b1f84/how-to-create-a-nextjs-pdf-viewer-to-display-pdfs-from-azure-blob-storage-1p3d)
-- [Building Web Applications with ASP.NET Core](https://dev.to/kartikmehta8/building-web-applications-with-aspnet-core-4d6h)
-- [Understanding State and Props in React 💻🌱](https://dev.to/anikakash/understanding-state-and-props-in-react-5b9j)
+- [Understanding the Essentials of Angular](https://dev.to/darrenheine/understanding-the-essentials-of-angular-2oop)
+- [- binary numbers, other number representations - conversions between different number representations](https://dev.to/tsolak_shahbazyan_4d38b8e/-binary-numbers-other-number-representations-conversions-between-different-number-representations-72a)
+- [Conociendo uv](https://dev.to/johnnatan_sandovalcardon/conociendo-uv-1717)
+- [Scalable SVG&#39;s](https://dev.to/ssukhpinder/scalable-svgs-244c)
 <!-- BLOG-POST-LIST:END -->
 
