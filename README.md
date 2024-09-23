@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Fundamentals: Working with Date and Time in C# Using `DateTime` and `DateOnly`](https://dev.to/moh_moh701/mastering-c-fundamentals-working-with-date-and-time-in-c-using-datetime-and-dateonly-47ek)
-- [Logical Processing order of a SQL query](https://dev.to/mrcaption49/logical-processing-order-of-a-sql-query-3ck3)
-- [🛑 Stop Coding Already! 🛑](https://dev.to/paratron/stop-coding-already-44m7)
-- [Day 14. Monday](https://dev.to/kiolk/day-14-monday-3o64)
+- [React Design Patterns~Container Componets / Uncontrolled Controlled Component~](https://dev.to/kkr0423/react-design-patternscontainer-componets-uncontrolled-controlled-component-563p)
+- [Latest Updates: RWA Framework](https://dev.to/evire/latest-updates-rwa-framework-3591)
+- [Crossplane + ArgoCD: A Perfect Match for Kubernetes Automation](https://dev.to/mangadev/crossplane-argocd-a-perfect-match-for-kubernetes-automation-1cc0)
+- [How do you handle lack of self-confidence in the programming field?](https://dev.to/cerindaemon/how-do-you-handle-lack-of-self-confidence-in-the-programming-field-1adm)
 <!-- BLOG-POST-LIST:END -->
 
