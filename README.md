@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Fundamentals: Exploring Operators in C#](https://dev.to/moh_moh701/mastering-c-fundamentals-exploring-operators-in-c-1e9p)
-- [Week 2 of #100DaysOfCode: Flexbox, Typography, Accessibility, and More!](https://dev.to/heritech9/week-2-of-100daysofcode-flexbox-typography-accessibility-and-more-1jlb)
-- [Compiler: The Code Alchemist](https://dev.to/ayaaa25/compiler-the-code-alchemist-1lm8)
-- [Why Explainable AI is the Key to Responsible Innovation?](https://dev.to/shagun_mistry/why-explainable-ai-is-the-key-to-responsible-innovation-3ac4)
+- [Mastering C# Fundamentals: Working with Date and Time in C# Using `DateTime` and `DateOnly`](https://dev.to/moh_moh701/mastering-c-fundamentals-working-with-date-and-time-in-c-using-datetime-and-dateonly-47ek)
+- [Logical Processing order of a SQL query](https://dev.to/mrcaption49/logical-processing-order-of-a-sql-query-3ck3)
+- [🛑 Stop Coding Already! 🛑](https://dev.to/paratron/stop-coding-already-44m7)
+- [Day 14. Monday](https://dev.to/kiolk/day-14-monday-3o64)
 <!-- BLOG-POST-LIST:END -->
 
