@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing🥁 my CLI based NUMERICAL SYSTEM CALCULATOR and SCRIPT DETECTOR](https://dev.to/abhiramp_2005/introducing-my-cli-based-numerical-system-calculator-and-script-detector-j3b)
-- [Technical Deep Dive: How We Built the Pizza CLI Using Go and Cobra](https://dev.to/opensauced/technical-deep-dive-how-we-built-the-pizza-cli-using-go-and-cobra-oad)
-- [testing the adding new article](https://dev.to/dnyaneshwarshekade/testing-the-adding-new-article-i61)
-- [How senior devs use &quot;UseEffect Hook&quot; in large scale applications 🌠](https://dev.to/keshav___dev/how-senior-devs-use-useeffect-hook-in-large-scale-applications-1c8m)
+- [One Byte Explainer: WebSockets](https://dev.to/zibrasismail/one-byte-explainer-websockets-3o47)
+- [How Modern Browsers Render Websites: A Behind-the-Scenes Look 🎨💻](https://dev.to/hikolakita/how-modern-browsers-render-websites-a-behind-the-scenes-look-5bfn)
+- [Which React render callback pattern do you prefer?](https://dev.to/moraym/which-react-render-callback-pattern-do-you-prefer-3p5a)
+- [Major Mode Comfort Functions, Because I&#39;m Lazy](https://dev.to/downtherabbithole/major-mode-comfort-functions-because-im-lazy-5ego)
 <!-- BLOG-POST-LIST:END -->
 
