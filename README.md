@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless vs. Edge vs. Traditional Servers: Which One’s the Best Fit for You?](https://dev.to/programordie/serverless-vs-edge-vs-traditional-servers-which-ones-the-best-fit-for-you-4aoh)
-- [A New Quiz is Out: Most Common HTML Tags Quiz](https://dev.to/areeb_anwar_813df06ee1124/a-new-quiz-is-out-most-common-html-tags-quiz-40eb)
-- [Make Your App Feel Better: 10 UI Tips for Beginner/Mid-Level Developers](https://dev.to/harimanok/make-your-app-feel-better-11-ui-tips-for-beginnermid-level-developers-1e1n)
-- [Soft Skills for Software Developers to Adopt](https://dev.to/get_pieces/soft-skills-for-software-developers-to-adopt-27h4)
+- [Enable Microsoft XPS Document Writer in Windows 11](https://dev.to/winsides/enable-microsoft-xps-document-writer-in-windows-11-1oek)
+- [Stop saying “you forgot to …” in code review](https://dev.to/thinkthroo/stop-saying-you-forgot-to-in-code-review-4i6o)
+- [⚛️ Optimizing the Critical Rendering Path in React Applications](https://dev.to/sherifjrr/optimizing-the-critical-rendering-path-in-react-applications-5cpc)
+- [&#39;this&#39; keyword, call&lpar;&rpar;, apply&lpar;&rpar; and bind&lpar;&rpar; methods in JavaScript - simply explained](https://dev.to/abeertech01/this-keyword-call-apply-and-bind-methods-in-javascript-simply-explained-3ag2)
 <!-- BLOG-POST-LIST:END -->
 
