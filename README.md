@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to optimize your Appwrite project for cost and performance](https://dev.to/appwrite/how-to-optimize-your-appwrite-project-for-cost-and-performance-5g2g)
-- [Die Psychologie hinter Social Proof – Wie Du Vertrauen aufbaust](https://dev.to/per-starke-642/die-psychologie-hinter-social-proof-wie-du-vertrauen-aufbaust-2bg0)
-- [Engines to get you started in your web-based gaming development](https://dev.to/davidshaek/engines-to-get-you-started-in-your-web-based-gaming-development-1j45)
-- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
+- [Best Practices for Manage Offshore Software Teams Effectively](https://dev.to/kyanondigital/best-practices-for-manage-offshore-software-teams-effectively-mei)
+- [Are Java Code Signing Certificates Equivalent to SSL Certificates?](https://dev.to/riyasander/are-java-code-signing-certificates-equivalent-to-ssl-certificates-d52)
+- [What is Dynamic Protection in SafeLine WAF](https://dev.to/carrie_luo1/what-is-dynamic-protection-in-safeline-waf-55ep)
+- [Implementing ASP.NET Identity for a Multi-Tenant Application: Best Practices](https://dev.to/luqman_bolajoko/implementing-aspnet-identity-for-a-multi-tenant-application-best-practices-4an6)
 <!-- BLOG-POST-LIST:END -->
 
