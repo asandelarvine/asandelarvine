@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Large Files and Optimizing File Operations in Python](https://dev.to/devasservice/handling-large-files-and-optimizing-file-operations-in-python-47lm)
-- [Best Fullstory Alternatives for 2024](https://dev.to/zipy/best-fullstory-alternatives-for-2024-ip)
-- [My Advice to Beginner Devs](https://dev.to/wignerhuh_0df9be42b477417/my-advice-to-beginner-devs-3mek)
-- [Digital Twins: Virtual Replicas Transforming Industries with Real-Time Insights](https://dev.to/arbisoftcompany/digital-twins-virtual-replicas-transforming-industries-with-real-time-insights-4m67)
+- [How Salesforce Supports GDPR Compliance in 2024](https://dev.to/itechcloud_solution_01/how-salesforce-supports-gdpr-compliance-in-2024-feg)
+- [The Controversy Behind Pavel Durov&#39;s Arrest: What You Need to Know](https://dev.to/snapnews/the-controversy-behind-pavel-durovs-arrest-what-you-need-to-know-49f4)
+- [How Artificial Intelligence Works!](https://dev.to/saurabhkurve/how-artificial-intelligence-works-45m1)
+- [Top 5+ Free Open-Source CRM Software For Small Business](https://dev.to/alesiasirotka/top-5-free-open-source-crm-software-for-small-business-2c27)
 <!-- BLOG-POST-LIST:END -->
 
