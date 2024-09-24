@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce AI in 2024: Predictive Models and Best Practices](https://dev.to/itechcloud_solution_01/salesforce-ai-in-2024-predictive-models-and-best-practices-kd)
-- [Hosting a Static Website on S3 with CloudFront](https://dev.to/subham_nandi/hosting-a-static-website-on-s3-with-cloudfront-1i4e)
-- [Build a customer response application with MediaPipe, Chrome&#39;s Built-In Prompt API Locally](https://dev.to/railsstudent/build-a-customer-response-application-with-mediapipe-chromes-built-in-prompt-api-locally-39lj)
-- [6 Cool Things You Can Do With Regular HTML](https://dev.to/adarsh-gupta/6-cool-things-you-can-do-with-regular-html-1al0)
+- [15 Best API Automated Testing Tools in 2024](https://dev.to/apilover/15-best-api-automated-testing-tools-in-2024-52ck)
+- [The 3 Mechanisms of Interaction between Microservices: Command, Query, and Event](https://dev.to/raphaeldelio/the-3-mechanisms-of-interaction-between-microservices-command-query-and-event-5029)
+- [🎁Learn Python in 10 Days: Day7](https://dev.to/johnjava/learn-python-in-10-days-day7-2dh6)
+- [Terraform Count Meta-Argument 101](https://dev.to/sre_panchanan/terraform-count-meta-argument-101-5fpj)
 <!-- BLOG-POST-LIST:END -->
 
