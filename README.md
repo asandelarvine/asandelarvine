@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made tool to compare Managed Postgres Hosting](https://dev.to/mradaro/i-made-tool-to-compare-managed-postgres-hosting-2162)
-- [How to Reduce False Positives for Face Recognition](https://dev.to/luxandcloud/how-to-reduce-false-positives-for-face-recognition-521d)
-- [Happy birthday](https://dev.to/prince_beec5ccde00b7c6c73/happy-birthday-5ci7)
-- [Forward vs Reverse Proxies: Understanding Their Role in Network Architecture](https://dev.to/vinayak-k160/forward-vs-reverse-proxies-understanding-their-role-in-network-architecture-1dej)
+- [AI Runner v3.0.0.dev18](https://dev.to/w4ffl35/ai-runner-v300dev18-2ahg)
+- [Create a Stunning Profile README](https://dev.to/vuelancer/create-a-stunning-profile-readme-5fi2)
+- [Optimizing Spring Boot Applications with Redis Caching](https://dev.to/tharindufdo/optimizing-spring-boot-applications-with-redis-caching-37i5)
+- [Mastering C# Fundamentals: Implicit Typing](https://dev.to/moh_moh701/mastering-c-fundamentals-implicit-typing-5edp)
 <!-- BLOG-POST-LIST:END -->
 
