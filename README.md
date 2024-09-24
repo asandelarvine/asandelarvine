@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Could AI CEOs Be the Future? Where Does That Leave Us?](https://dev.to/jimmymcbride/could-ai-ceos-be-the-future-where-does-that-leave-us-22ak)
-- [Javascript, the Return](https://dev.to/codecara/javascript-the-return-59e9)
-- [New Button Library for React and Next.js](https://dev.to/alamincodes/new-button-library-for-react-and-nextjs-nbn)
-- [Exploring Generative Art with JavaScript](https://dev.to/marisbotero/exploring-generative-art-with-javascript-3dp)
+- [Looking for feedback on an iOS app im develop &lpar;automated goal tracking&rpar;](https://dev.to/databydobbs/looking-for-feedback-on-an-ios-app-im-develop-automated-goal-tracking-5209)
+- [JasperReports in microservices](https://dev.to/deathwaiting/jasperreports-in-microservices-5a6i)
+- [Lefthook: benefits vs husky and how to use](https://dev.to/quave/lefthook-benefits-vs-husky-and-how-to-use-30je)
+- [From RAGs to Riches: An In-Depth Look at Retrieval-Augmented Generation](https://dev.to/luminousmen/from-rags-to-riches-an-in-depth-look-at-retrieval-augmented-generation-1dok)
 <!-- BLOG-POST-LIST:END -->
 
