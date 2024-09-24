@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WE CROSSED 10K FOLLOWERS 🎉](https://dev.to/mince/we-crossed-10k-followers-6ah)
-- [Beginner&#39;s Guide to Handling DELETE Requests in Node.js with Express](https://dev.to/therealmrmumba/beginners-guide-to-handling-delete-requests-in-nodejs-with-express-28dh)
-- [Three New Deals Are Live on DEV++ 🎉](https://dev.to/devteam/three-new-deals-are-live-on-dev-31n6)
-- [Word Search II](https://dev.to/prashantrmishra/word-search-ii-4dpp)
+- [Add AWS SES as custom SMTP provider to Supabase](https://dev.to/raj_savaliya/add-aws-ses-as-custom-smtp-provider-to-supabase-2jng)
+- [&quot;I HATE QA&quot; - A Perspective from a Senior QA Engineer](https://dev.to/enriqu3l/i-hate-qa-a-perspective-from-a-senior-qa-engineer-46if)
+- [Unit testing in Python with sheepy](https://dev.to/brunociccarino/unit-testing-in-python-with-sheepy-b93)
+- [Show Angular Material Dialog to Prevent Unsaved Form Changes](https://dev.to/ngmaterialdev/show-angular-material-dialog-to-prevent-unsaved-form-changes-38dj)
 <!-- BLOG-POST-LIST:END -->
 
