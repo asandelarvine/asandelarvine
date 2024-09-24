@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a Volunteer Android Developer for a Lucid Dreaming App Project](https://dev.to/lirex/looking-for-a-volunteer-android-developer-for-a-lucid-dreaming-app-project-2kdk)
-- [Podman - Interactive Labs](https://dev.to/vuelancer/podman-interactive-labs-451m)
-- [A New Quiz: CSS Selectors, Ways to Add CSS, Comments](https://dev.to/areeb_anwar_813df06ee1124/a-new-quiz-css-selectors-ways-to-add-css-comments-3bf8)
-- [How to Stay Two Steps Ahead of the AI Curse](https://dev.to/arteex/how-to-stay-two-steps-ahead-of-the-ai-curse-1iop)
+- [`.git-blame-ignore-revs` to ignore bulk formatting changes.](https://dev.to/thinkthroo/git-blame-ignore-revs-to-ignore-bulk-formatting-changes-5fee)
+- [Handling Images and Fonts in Webpack](https://dev.to/orases1/handling-images-and-fonts-in-webpack-3f2a)
+- [React Native: A Smart Choice for Mobile App Development](https://dev.to/sambulosenda_40/react-native-a-smart-choice-for-mobile-app-development-273n)
+- [Tailwind Padding: A Quick Start](https://dev.to/codeparrot/tailwind-padding-a-quick-start-34n1)
 <!-- BLOG-POST-LIST:END -->
 
