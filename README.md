@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#63 — Search for The Nth Value And The Nth Value from Last](https://dev.to/judith677/63-search-for-the-nth-value-and-the-nth-value-from-last-3ejl)
-- [Getting members based on a specified condition #47](https://dev.to/esproc_spl/getting-members-based-on-a-specified-condition-47-1n3e)
-- [Integrating REST APIs in React: A Comprehensive Guide](https://dev.to/vyan/integrating-rest-apis-in-react-a-comprehensive-guide-4lj8)
-- [rails system test, save failed screenshots](https://dev.to/ugifractal/rails-system-test-save-failed-screenshots-1c0m)
+- [Speeding Up API Development: Handling High-Load Requests Efficiently with Python](https://dev.to/pawandeore/speeding-up-api-development-handling-high-load-requests-efficiently-with-python-4c0i)
+- [[ONLINE EVENT]: What&#39;s New in Docker?](https://dev.to/ajeetraina/online-event-whats-new-in-docker-3nof)
+- [5 Reasons why I Started My YouTube Channel and Blog](https://dev.to/lakshmananarumugam/5-reasons-why-i-started-my-youtube-channel-and-blog-80p)
+- [SSR and CSR Explained](https://dev.to/sushant696/ssr-and-csr-explained-3p6m)
 <!-- BLOG-POST-LIST:END -->
 
