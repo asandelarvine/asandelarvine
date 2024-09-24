@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hetzner finally released Object Storage 🎉](https://dev.to/code42cate/hetzner-finally-released-object-storage-2kp8)
-- [Testes Finais do Capítulo 7](https://dev.to/devsjavagirls/testes-finais-do-capitulo-7-3jfh)
-- [Starting My 100 Days of Code Journey with Python!](https://dev.to/vijayadeep_purushan/starting-my-100-days-of-code-journey-with-python-11cf)
-- [How to use Free dictionary API](https://dev.to/trushmi/how-to-use-free-dictionary-api-gec)
+- [Looking to meet someone in the Sacramento area](https://dev.to/ltdan/looking-to-meet-someone-in-the-sacramento-area-4ejp)
+- [5 Best Ways to Write Clean JavaScript Code](https://dev.to/safdarali/5-best-ways-to-write-clean-javascript-code-48i1)
+- [Sept 24 - Getting Started with the Open Source FiftyOne Computer Vision Toolset](https://dev.to/voxel51/unpublished-video-34k4-281l)
+- [Deploy Express JS container image on Lambda AWS](https://dev.to/janithdisanayake/deploy-express-js-container-image-on-lambda-aws-3ecp)
 <!-- BLOG-POST-LIST:END -->
 
