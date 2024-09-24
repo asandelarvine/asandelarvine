@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce Lightning vs Classic: Which Is Best in 2024?](https://dev.to/itechcloud_solution_01/salesforce-lightning-vs-classic-which-is-best-in-2024-bgn)
-- [Common Issues in GBase 8c Distributed Scenarios &lpar;1&rpar;](https://dev.to/congcong/common-issues-in-gbase-8c-distributed-scenarios-1-2fh2)
-- [Backpropagation and Optimization in Neural Networks](https://dev.to/nareshnishad/backpropagation-and-optimization-in-neural-networks-15pg)
-- [Using Tiptap Rich Text Editor with Livewire](https://dev.to/d3adr1nger/using-tiptap-rich-text-editor-with-livewire-5b46)
+- [Handling Large Files and Optimizing File Operations in Python](https://dev.to/devasservice/handling-large-files-and-optimizing-file-operations-in-python-47lm)
+- [Best Fullstory Alternatives for 2024](https://dev.to/zipy/best-fullstory-alternatives-for-2024-ip)
+- [My Advice to Beginner Devs](https://dev.to/wignerhuh_0df9be42b477417/my-advice-to-beginner-devs-3mek)
+- [Digital Twins: Virtual Replicas Transforming Industries with Real-Time Insights](https://dev.to/arbisoftcompany/digital-twins-virtual-replicas-transforming-industries-with-real-time-insights-4m67)
 <!-- BLOG-POST-LIST:END -->
 
