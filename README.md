@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hitchhiker&#39;s Guide to the Arch Linux Installation](https://dev.to/jimmymcbride/hitchhikers-guide-to-the-arch-linux-installation-40hd)
+- [Measuring Your Website Performance: A Step-by-Step Guide to Page Load Time Tests](https://dev.to/misterankit/measuring-your-website-performance-a-step-by-step-guide-to-page-load-time-tests-1632)
+- [SCSS: Using Interpolation for Dynamic Styles](https://dev.to/tailwine/scss-using-interpolation-for-dynamic-styles-5ho3)
 - [Speeding Up API Development: Handling High-Load Requests Efficiently with Python](https://dev.to/pawandeore/speeding-up-api-development-handling-high-load-requests-efficiently-with-python-4c0i)
-- [[ONLINE EVENT]: What&#39;s New in Docker?](https://dev.to/ajeetraina/online-event-whats-new-in-docker-3nof)
-- [5 Reasons why I Started My YouTube Channel and Blog](https://dev.to/lakshmananarumugam/5-reasons-why-i-started-my-youtube-channel-and-blog-80p)
-- [SSR and CSR Explained](https://dev.to/sushant696/ssr-and-csr-explained-3p6m)
 <!-- BLOG-POST-LIST:END -->
 
