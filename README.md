@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Horizontal Pod Autoscaling](https://dev.to/chauhoangminhnguyen/kubernetes-horizontal-pod-autoscaling-35io)
-- [14 Best UXCam Alternatives and Competitors in 2024](https://dev.to/zipy/14-best-uxcam-alternatives-and-competitors-in-2024-518g)
-- [Trying Elysia JS: How I Built an App for Meaningful and Memorable Conversations](https://dev.to/gaundergod/trying-elysia-js-how-i-built-an-app-for-meaningful-and-memorable-conversations-154)
-- [Zipy vs Posthog: An in-depth comparison for 2024](https://dev.to/zipy/zipy-vs-posthog-an-in-depth-comparison-for-2024-2hal)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3eoh)
+- [Atomic Design e Design Tokens: Criando Interfaces Modulares com React e Chakra UI](https://dev.to/devdoido/atomic-design-e-design-tokens-agilizando-o-design-de-produtos-digitais-3967)
+- [Designing Twitter – A System Design Interview Question](https://dev.to/zeeshanali0704/designing-twitter-a-system-design-interview-question-221e)
+- [Streamlining Real Estate: How AI APIs Automate Image Analysis and Property Listings](https://dev.to/api4ai/streamlining-real-estate-how-ai-apis-automate-image-analysis-and-property-listings-3ddf)
 <!-- BLOG-POST-LIST:END -->
 
