@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Salesforce Supports GDPR Compliance in 2024](https://dev.to/itechcloud_solution_01/how-salesforce-supports-gdpr-compliance-in-2024-feg)
-- [The Controversy Behind Pavel Durov&#39;s Arrest: What You Need to Know](https://dev.to/snapnews/the-controversy-behind-pavel-durovs-arrest-what-you-need-to-know-49f4)
-- [How Artificial Intelligence Works!](https://dev.to/saurabhkurve/how-artificial-intelligence-works-45m1)
-- [Top 5+ Free Open-Source CRM Software For Small Business](https://dev.to/alesiasirotka/top-5-free-open-source-crm-software-for-small-business-2c27)
+- [Salesforce AI in 2024: Predictive Models and Best Practices](https://dev.to/itechcloud_solution_01/salesforce-ai-in-2024-predictive-models-and-best-practices-kd)
+- [Hosting a Static Website on S3 with CloudFront](https://dev.to/subham_nandi/hosting-a-static-website-on-s3-with-cloudfront-1i4e)
+- [Build a customer response application with MediaPipe, Chrome&#39;s Built-In Prompt API Locally](https://dev.to/railsstudent/build-a-customer-response-application-with-mediapipe-chromes-built-in-prompt-api-locally-39lj)
+- [6 Cool Things You Can Do With Regular HTML](https://dev.to/adarsh-gupta/6-cool-things-you-can-do-with-regular-html-1al0)
 <!-- BLOG-POST-LIST:END -->
 
