@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3eoh)
-- [Atomic Design e Design Tokens: Criando Interfaces Modulares com React e Chakra UI](https://dev.to/devdoido/atomic-design-e-design-tokens-agilizando-o-design-de-produtos-digitais-3967)
-- [Designing Twitter – A System Design Interview Question](https://dev.to/zeeshanali0704/designing-twitter-a-system-design-interview-question-221e)
-- [Streamlining Real Estate: How AI APIs Automate Image Analysis and Property Listings](https://dev.to/api4ai/streamlining-real-estate-how-ai-apis-automate-image-analysis-and-property-listings-3ddf)
+- [WE CROSSED 10K FOLLOWERS 🎉](https://dev.to/mince/we-crossed-10k-followers-6ah)
+- [Beginner&#39;s Guide to Handling DELETE Requests in Node.js with Express](https://dev.to/therealmrmumba/beginners-guide-to-handling-delete-requests-in-nodejs-with-express-28dh)
+- [Three New Deals Are Live on DEV++ 🎉](https://dev.to/devteam/three-new-deals-are-live-on-dev-31n6)
+- [Word Search II](https://dev.to/prashantrmishra/word-search-ii-4dpp)
 <!-- BLOG-POST-LIST:END -->
 
