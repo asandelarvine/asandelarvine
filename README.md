@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React: State X Derived State](https://dev.to/noriller/react-state-x-derived-state-2d2a)
-- [Make your web page faster](https://dev.to/delaterra/make-your-web-page-faster-1bk8)
-- [Netflix Clone to Level Up Your Frontend Skills](https://dev.to/tramposo/netflix-clone-to-level-up-your-frontend-skills-1ghp)
-- [A beautiful mess &lpar;v2b&rpar;](https://dev.to/mhjwbymhmd/a-beautiful-mess-v2b-52a)
+- [Business Agility &amp; its role in the modern world &lpar;feat. Ivan Gekht&rpar;](https://dev.to/vpalania/business-agility-its-role-in-the-modern-world-feat-ivan-gekht-3b5k)
+- [The Correct Usage of Auth0 with react-admin](https://dev.to/master_shifu/the-correct-usage-of-auth0-with-react-admin-349d)
+- [Pulsy , a simple react state management library](https://dev.to/ng_dream_3e53e6a868268e4d/pulsy-a-simple-react-state-management-library-3jfi)
+- [Is Remote Work Here to Stay?](https://dev.to/jimmymcbride/is-remote-work-here-to-stay-25fg)
 <!-- BLOG-POST-LIST:END -->
 
