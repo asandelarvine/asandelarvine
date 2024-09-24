@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [`.git-blame-ignore-revs` to ignore bulk formatting changes.](https://dev.to/thinkthroo/git-blame-ignore-revs-to-ignore-bulk-formatting-changes-5fee)
-- [Handling Images and Fonts in Webpack](https://dev.to/orases1/handling-images-and-fonts-in-webpack-3f2a)
-- [React Native: A Smart Choice for Mobile App Development](https://dev.to/sambulosenda_40/react-native-a-smart-choice-for-mobile-app-development-273n)
-- [Tailwind Padding: A Quick Start](https://dev.to/codeparrot/tailwind-padding-a-quick-start-34n1)
+- [Could AI CEOs Be the Future? Where Does That Leave Us?](https://dev.to/jimmymcbride/could-ai-ceos-be-the-future-where-does-that-leave-us-22ak)
+- [Javascript, the Return](https://dev.to/codecara/javascript-the-return-59e9)
+- [New Button Library for React and Next.js](https://dev.to/alamincodes/new-button-library-for-react-and-nextjs-nbn)
+- [Exploring Generative Art with JavaScript](https://dev.to/marisbotero/exploring-generative-art-with-javascript-3dp)
 <!-- BLOG-POST-LIST:END -->
 
