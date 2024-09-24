@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker: Parte 2 - Criação de Imagens e Execução de Containers](https://dev.to/felipeboliveira/docker-parte-2-criacao-de-imagens-e-execucao-de-containers-3mb3)
-- [Improve Laravel development efficiency: 5 little-known Artisan commands](https://dev.to/violet_alexander_a4a3e5dd/improve-laravel-development-efficiency-5-little-known-artisan-commands-3cci)
-- [Serviços Cloud: Entenda as Diferenças entre SAAS, PAAS e IAAS](https://dev.to/mauroimamura/servicos-cloud-entenda-as-diferencas-entre-saas-paas-e-iaas-3jep)
-- [github action services: mysql, redis and elasticsearch](https://dev.to/ugifractal/github-action-services-mysql-redis-and-elasticsearch-239g)
+- [#63 — Search for The Nth Value And The Nth Value from Last](https://dev.to/judith677/63-search-for-the-nth-value-and-the-nth-value-from-last-3ejl)
+- [Getting members based on a specified condition #47](https://dev.to/esproc_spl/getting-members-based-on-a-specified-condition-47-1n3e)
+- [Integrating REST APIs in React: A Comprehensive Guide](https://dev.to/vyan/integrating-rest-apis-in-react-a-comprehensive-guide-4lj8)
+- [rails system test, save failed screenshots](https://dev.to/ugifractal/rails-system-test-save-failed-screenshots-1c0m)
 <!-- BLOG-POST-LIST:END -->
 
