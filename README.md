@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add AWS SES as custom SMTP provider to Supabase](https://dev.to/raj_savaliya/add-aws-ses-as-custom-smtp-provider-to-supabase-2jng)
-- [&quot;I HATE QA&quot; - A Perspective from a Senior QA Engineer](https://dev.to/enriqu3l/i-hate-qa-a-perspective-from-a-senior-qa-engineer-46if)
-- [Unit testing in Python with sheepy](https://dev.to/brunociccarino/unit-testing-in-python-with-sheepy-b93)
-- [Show Angular Material Dialog to Prevent Unsaved Form Changes](https://dev.to/ngmaterialdev/show-angular-material-dialog-to-prevent-unsaved-form-changes-38dj)
+- [Looking for a Volunteer Android Developer for a Lucid Dreaming App Project](https://dev.to/lirex/looking-for-a-volunteer-android-developer-for-a-lucid-dreaming-app-project-2kdk)
+- [Podman - Interactive Labs](https://dev.to/vuelancer/podman-interactive-labs-451m)
+- [A New Quiz: CSS Selectors, Ways to Add CSS, Comments](https://dev.to/areeb_anwar_813df06ee1124/a-new-quiz-css-selectors-ways-to-add-css-comments-3bf8)
+- [How to Stay Two Steps Ahead of the AI Curse](https://dev.to/arteex/how-to-stay-two-steps-ahead-of-the-ai-curse-1iop)
 <!-- BLOG-POST-LIST:END -->
 
