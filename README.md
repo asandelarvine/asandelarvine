@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Business Agility &amp; its role in the modern world &lpar;feat. Ivan Gekht&rpar;](https://dev.to/vpalania/business-agility-its-role-in-the-modern-world-feat-ivan-gekht-3b5k)
-- [The Correct Usage of Auth0 with react-admin](https://dev.to/master_shifu/the-correct-usage-of-auth0-with-react-admin-349d)
-- [Pulsy , a simple react state management library](https://dev.to/ng_dream_3e53e6a868268e4d/pulsy-a-simple-react-state-management-library-3jfi)
-- [Is Remote Work Here to Stay?](https://dev.to/jimmymcbride/is-remote-work-here-to-stay-25fg)
+- [Docker: Parte 2 - Criação de Imagens e Execução de Containers](https://dev.to/felipeboliveira/docker-parte-2-criacao-de-imagens-e-execucao-de-containers-3mb3)
+- [Improve Laravel development efficiency: 5 little-known Artisan commands](https://dev.to/violet_alexander_a4a3e5dd/improve-laravel-development-efficiency-5-little-known-artisan-commands-3cci)
+- [Serviços Cloud: Entenda as Diferenças entre SAAS, PAAS e IAAS](https://dev.to/mauroimamura/servicos-cloud-entenda-as-diferencas-entre-saas-paas-e-iaas-3jep)
+- [github action services: mysql, redis and elasticsearch](https://dev.to/ugifractal/github-action-services-mysql-redis-and-elasticsearch-239g)
 <!-- BLOG-POST-LIST:END -->
 
