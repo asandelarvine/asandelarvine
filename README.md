@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hitchhiker&#39;s Guide to the Arch Linux Installation](https://dev.to/jimmymcbride/hitchhikers-guide-to-the-arch-linux-installation-40hd)
-- [Measuring Your Website Performance: A Step-by-Step Guide to Page Load Time Tests](https://dev.to/misterankit/measuring-your-website-performance-a-step-by-step-guide-to-page-load-time-tests-1632)
-- [SCSS: Using Interpolation for Dynamic Styles](https://dev.to/tailwine/scss-using-interpolation-for-dynamic-styles-5ho3)
-- [Speeding Up API Development: Handling High-Load Requests Efficiently with Python](https://dev.to/pawandeore/speeding-up-api-development-handling-high-load-requests-efficiently-with-python-4c0i)
+- [Building a RESTful API with Node.js and Express.js: A Step-by-Step Guide 🌐](https://dev.to/info_generalhazedawn_a3d/building-a-restful-api-with-nodejs-and-expressjs-a-step-by-step-guide-42he)
+- [JavaScript Currying](https://dev.to/mohan_chaudhari_82b853f18/javascript-currying-a58)
+- [Building a serverless connected BBQ as SaaS - Part 4 - AuthZ](https://dev.to/aws-heroes/building-a-serverless-connected-bbq-as-saas-part-4-authz-81e)
+- [Dreamforce Recap, All Flow Formulas, Multi-Lang Flow Translation](https://dev.to/sfdcnews/dreamforce-recap-all-flow-formulas-multi-lang-flow-translation-1fj0)
 <!-- BLOG-POST-LIST:END -->
 
