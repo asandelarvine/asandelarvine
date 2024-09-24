@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best API Automated Testing Tools in 2024](https://dev.to/apilover/15-best-api-automated-testing-tools-in-2024-52ck)
-- [The 3 Mechanisms of Interaction between Microservices: Command, Query, and Event](https://dev.to/raphaeldelio/the-3-mechanisms-of-interaction-between-microservices-command-query-and-event-5029)
-- [🎁Learn Python in 10 Days: Day7](https://dev.to/johnjava/learn-python-in-10-days-day7-2dh6)
-- [Terraform Count Meta-Argument 101](https://dev.to/sre_panchanan/terraform-count-meta-argument-101-5fpj)
+- [I made tool to compare Managed Postgres Hosting](https://dev.to/mradaro/i-made-tool-to-compare-managed-postgres-hosting-2162)
+- [How to Reduce False Positives for Face Recognition](https://dev.to/luxandcloud/how-to-reduce-false-positives-for-face-recognition-521d)
+- [Happy birthday](https://dev.to/prince_beec5ccde00b7c6c73/happy-birthday-5ci7)
+- [Forward vs Reverse Proxies: Understanding Their Role in Network Architecture](https://dev.to/vinayak-k160/forward-vs-reverse-proxies-understanding-their-role-in-network-architecture-1dej)
 <!-- BLOG-POST-LIST:END -->
 
