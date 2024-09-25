@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 1 - The Best Programming Memes to Brighten Your Day](https://dev.to/monday-memes/week-1-the-best-programming-memes-to-brighten-your-day-4hln)
-- [What Common Technical SEO Issues Do SEO Services Address, and How Are They Resolved?](https://dev.to/juddiy/what-common-technical-seo-issues-do-seo-services-address-and-how-are-they-resolved-1k82)
-- [Top Prompts for Content Revision: Master SEO &amp; Engaging Writing](https://dev.to/theainews/top-prompts-for-content-revision-master-seo-engaging-writing-32am)
-- [Implementing Distributed Tracing with Spring Boot and Zipkin](https://dev.to/virajlakshitha/implementing-distributed-tracing-with-spring-boot-and-zipkin-e7f)
+- [Welcome Thread - v295](https://dev.to/devteam/welcome-thread-v295-162b)
+- [10,000 Times Cleaner Code Just By Using This Tool.](https://dev.to/ayushniroula/10000-times-cleaner-code-just-by-using-this-tool-19po)
+- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-27g6)
+- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-4227)
 <!-- BLOG-POST-LIST:END -->
 
