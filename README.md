@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Equality: A Deep Dive into Array and Object Comparisons](https://dev.to/kiran_kumar/understanding-javascript-equality-a-deep-dive-into-array-and-object-comparisons-37j3)
-- [Why composer is necessary for Drupal installations or upgrades?](https://dev.to/drupal-developer-dewan/why-composer-is-necessary-for-drupal-installations-or-upgrades-hnk)
-- [Streamlining Processes with Salesforce Data Cloud Triggered Flows](https://dev.to/itechcloud_solution_01/streamlining-processes-with-salesforce-data-cloud-triggered-flows-328m)
-- [CSS content-visibility for React devs](https://dev.to/sebastienlorber/css-content-visibility-for-react-devs-4a3i)
+- [🚀 60 Powerful, Best and 100% Free APIs Every Developer Should Know in 2024](https://dev.to/hanzla-mirza/60-powerful-best-and-100-free-apis-every-developer-should-know-in-2024-2i46)
+- [864. Shortest Path to Get All Keys || Leetcode || Hard](https://dev.to/akshat0610/864-shortest-path-to-get-all-keys-leetcode-hard-4c6k)
+- [Why You Need &lpar;More Than&rpar; Locks: Ensuring Consistency with Transactions in Your No-Code Applications](https://dev.to/momen_hq/why-you-need-more-than-locks-ensuring-consistency-with-transactions-in-your-no-code-applications-kkj)
+- [select&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/select-in-pytorch-35m6)
 <!-- BLOG-POST-LIST:END -->
 
