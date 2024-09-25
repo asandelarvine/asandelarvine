@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Recurrent Neural Networks &lpar;RNNs&rpar;](https://dev.to/nareshnishad/understanding-recurrent-neural-networks-rnns-4bi8)
-- [End-to-End AWS DevOps Project: CI/CD Pipeline for ECS Fargate with ECR and RDS](https://dev.to/prodevopsguytech/end-to-end-aws-devops-project-cicd-pipeline-for-ecs-fargate-with-ecr-and-rds-2b07)
-- [Easiest Way to Build a RAG AI Agent Application](https://dev.to/mahamdev/easiest-way-to-build-a-rag-ai-agent-application-4k04)
-- [Window functions](https://dev.to/mrcaption49/window-functions-5d8h)
+- [Vite vs Webpack: Which Build Tool is Right for Your Project?](https://dev.to/get_pieces/vite-vs-webpack-which-build-tool-is-right-for-your-project-1p08)
+- [K Most Frequent Words](https://dev.to/phoenix_238501d86d417e/k-most-frequent-words-88p)
+- [Optimizing Sorting and Filtering on JSON Columns in Laravel with Indexed Virtual Columns](https://dev.to/bcdbuddy/optimizing-sorting-and-filtering-on-json-columns-in-laravel-with-indexed-virtual-columns-1gnl)
+- [How to Build a Powerful E-Commerce Furniture Store with My React &amp; Redux Toolkit Template + Tutorial](https://dev.to/arishn/how-to-build-a-powerful-e-commerce-furniture-store-with-my-react-redux-toolkit-template-tutorial-1p43)
 <!-- BLOG-POST-LIST:END -->
 
