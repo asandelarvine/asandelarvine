@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v295](https://dev.to/devteam/welcome-thread-v295-162b)
-- [10,000 Times Cleaner Code Just By Using This Tool.](https://dev.to/ayushniroula/10000-times-cleaner-code-just-by-using-this-tool-19po)
-- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-27g6)
-- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-4227)
+- [Linux, I Choose You! 🐧](https://dev.to/jimmymcbride/linux-i-choose-you-5ebe)
+- [WebGL&#39;s Animation loop, gaming on browsers - One Byte Explainer](https://dev.to/aortega/webgls-animation-loop-gaming-on-browsers-one-byte-explainer-4o1h)
+- [What is Deno JS?](https://dev.to/fullstacktanmay/what-is-deno-js-294n)
+- [Best Practices for React Js and Next Js Development](https://dev.to/shahharsh/best-practices-for-react-js-and-next-js-development-29eo)
 <!-- BLOG-POST-LIST:END -->
 
