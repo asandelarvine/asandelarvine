@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking to meet someone in the Sacramento area](https://dev.to/ltdan/looking-to-meet-someone-in-the-sacramento-area-4ejp)
-- [5 Best Ways to Write Clean JavaScript Code](https://dev.to/safdarali/5-best-ways-to-write-clean-javascript-code-48i1)
-- [Sept 24 - Getting Started with the Open Source FiftyOne Computer Vision Toolset](https://dev.to/voxel51/unpublished-video-34k4-281l)
-- [Deploy Express JS container image on Lambda AWS](https://dev.to/janithdisanayake/deploy-express-js-container-image-on-lambda-aws-3ecp)
+- [Composición vs Herencia](https://dev.to/rlgino/composicion-vs-herencia-4664)
+- [Maximizing Productivity with Nexus AI: From Coding to Content Creation](https://dev.to/henrynewman/maximizing-productivity-with-nexus-ai-from-coding-to-content-creation-2260)
+- [Challenges of Code Review: How to Be Efficient and Constructive](https://dev.to/bfontes/challenges-of-code-review-how-to-be-efficient-and-constructive-3phj)
+- [Exploring TypeScript&#39;s Utility Types](https://dev.to/kartikmehta8/exploring-typescripts-utility-types-1jc6)
 <!-- BLOG-POST-LIST:END -->
 
