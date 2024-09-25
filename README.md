@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-assisted software development lifecycle](https://dev.to/aws/ai-assisted-software-development-lifecycle-289k)
-- [My first CLI with Go](https://dev.to/tuhinbar/my-first-cli-with-go-4eig)
-- [Unraveling the Mysteries of Programming Languages: A Comprehensive Journey](https://dev.to/getvm/unraveling-the-mysteries-of-programming-languages-a-comprehensive-journey-59h6)
-- [How Really File Compressors Actually Works](https://dev.to/something_something_64b2a/how-really-file-compressors-actually-works-ljo)
+- [3 ways to use environment Variables in Rust](https://dev.to/francescoxx/3-ways-to-use-environment-variables-in-rust-4eaf)
+- [Custom Text Font Usage in Nuxt.js with Tailwind CSS](https://dev.to/elifnurturk/custom-text-font-usage-in-nuxtjs-with-tailwind-css-j49)
+- [LinkedIn Referral Request Message.](https://dev.to/mrcaption49/linkedin-referral-request-message-1hga)
+- [Análisis Exploratorio de datos &lpar;EDA&rpar; con Apache Spark](https://dev.to/madriz03/analisis-exploratorio-de-datos-eda-con-apache-spark-2ea5)
 <!-- BLOG-POST-LIST:END -->
 
