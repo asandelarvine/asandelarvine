@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make DELETE Requests Using the curl_init&lpar;&rpar; Function in PHP](https://dev.to/therealmrmumba/how-to-make-delete-requests-using-the-curlinit-function-in-php-mpg)
-- [Automating My Job Application Process: A Frustrated Developer’s Journey](https://dev.to/torrezmn/automating-my-job-application-process-a-frustrated-developers-journey-gmc)
-- [Macbook or Windows Laptop?](https://dev.to/jenueldev/macbook-or-windows-laptop-2jom)
-- [Sending email using SMTP via Gmail with OpenSSL](https://dev.to/rinsama77/sending-email-using-smtp-via-gmail-with-openssl-4b9l)
+- [Understanding Recurrent Neural Networks &lpar;RNNs&rpar;](https://dev.to/nareshnishad/understanding-recurrent-neural-networks-rnns-4bi8)
+- [End-to-End AWS DevOps Project: CI/CD Pipeline for ECS Fargate with ECR and RDS](https://dev.to/prodevopsguytech/end-to-end-aws-devops-project-cicd-pipeline-for-ecs-fargate-with-ecr-and-rds-2b07)
+- [Easiest Way to Build a RAG AI Agent Application](https://dev.to/mahamdev/easiest-way-to-build-a-rag-ai-agent-application-4k04)
+- [Window functions](https://dev.to/mrcaption49/window-functions-5d8h)
 <!-- BLOG-POST-LIST:END -->
 
