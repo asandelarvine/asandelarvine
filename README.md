@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vite vs Webpack: Which Build Tool is Right for Your Project?](https://dev.to/get_pieces/vite-vs-webpack-which-build-tool-is-right-for-your-project-1p08)
-- [K Most Frequent Words](https://dev.to/phoenix_238501d86d417e/k-most-frequent-words-88p)
-- [Optimizing Sorting and Filtering on JSON Columns in Laravel with Indexed Virtual Columns](https://dev.to/bcdbuddy/optimizing-sorting-and-filtering-on-json-columns-in-laravel-with-indexed-virtual-columns-1gnl)
-- [How to Build a Powerful E-Commerce Furniture Store with My React &amp; Redux Toolkit Template + Tutorial](https://dev.to/arishn/how-to-build-a-powerful-e-commerce-furniture-store-with-my-react-redux-toolkit-template-tutorial-1p43)
+- [Make writing documentation part of your pull request](https://dev.to/aws-builders/make-writing-documentation-part-of-your-pull-request-37nl)
+- [WebRTC DataChannel Tutorial](https://dev.to/alakkadshaw/webrtc-datachannel-tutorial-3cfp)
+- [Didn&#39;t want to deal with Types. Now suffering :&lpar;](https://dev.to/paul_freeman/didnt-want-to-deal-with-types-now-suffering--5an2)
+- [Generating text description from youtube link using Angular, Gemini and Netlify](https://dev.to/salimchemes/generating-text-description-from-youtube-link-using-angular-gemini-and-netlify-44n)
 <!-- BLOG-POST-LIST:END -->
 
