@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Gonna LOVE these CLI Shortcuts for GIT, Linux, Docker, Kubernetes...](https://dev.to/mammadyahyayev/you-gonna-love-these-cli-shortcuts-for-git-linux-docker-kubernetes-154m)
-- [Guide: How to add Write Back capabilities to your Power BI reports with Power Apps — Part 3](https://dev.to/jonvoge/guide-how-to-add-write-back-capabilities-to-your-power-bi-reports-with-power-apps-part-3-kak)
-- [Acne on the Penis: Causes Factors](https://dev.to/emily_post_af382b143795eb/acne-on-the-penis-causes-factors-4d7g)
-- [LabEx Trending: Image Viewer Using Python and Tkinter and More](https://dev.to/labex/labex-trending-image-viewer-using-python-and-tkinter-and-more-3bnd)
+- [Learn How to Build AI Agents &amp; Chatbots with LangGraph!](https://dev.to/pavanbelagatti/learn-how-to-build-ai-agents-chatbots-with-langgraph-20o6)
+- [Comparing Laravel and Symfony: Choosing the Right PHP Framework for Your Project](https://dev.to/westtan/comparing-laravel-and-symfony-choosing-the-right-php-framework-for-your-project-aj)
+- [How to Quickly and Seamlessly Deploy Your Website Online](https://dev.to/mpoiiii/how-to-quickly-and-seamlessly-deploy-your-website-online-44dl)
+- [Conditionals 101: The building blocks of adaptive programs](https://dev.to/fahimulhaq/conditionals-101-the-building-blocks-of-adaptive-programs-28kb)
 <!-- BLOG-POST-LIST:END -->
 
