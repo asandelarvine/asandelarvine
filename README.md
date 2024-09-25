@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make writing documentation part of your pull request](https://dev.to/aws-builders/make-writing-documentation-part-of-your-pull-request-37nl)
-- [WebRTC DataChannel Tutorial](https://dev.to/alakkadshaw/webrtc-datachannel-tutorial-3cfp)
-- [Didn&#39;t want to deal with Types. Now suffering :&lpar;](https://dev.to/paul_freeman/didnt-want-to-deal-with-types-now-suffering--5an2)
-- [Generating text description from youtube link using Angular, Gemini and Netlify](https://dev.to/salimchemes/generating-text-description-from-youtube-link-using-angular-gemini-and-netlify-44n)
+- [Mastering C# Fundamentals: Do-While and For Loops](https://dev.to/moh_moh701/mastering-c-fundamentals-do-while-and-for-loops-57ol)
+- [QR code with Python in 7 lines of code](https://dev.to/techelopment/qr-code-with-python-in-7-lines-of-code-160m)
+- [Day 1 of my #100DaysOfCode](https://dev.to/vijayadeepu/day-1-of-my-100daysofcode-3c7o)
+- [Desplegando 50 S3 con el Mismo Nombre usando Terraform](https://dev.to/aws-espanol/desplegando-50-s3-con-el-mismo-nombre-usando-terraform-ob6)
 <!-- BLOG-POST-LIST:END -->
 
