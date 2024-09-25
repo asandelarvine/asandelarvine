@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn How to Build AI Agents &amp; Chatbots with LangGraph!](https://dev.to/pavanbelagatti/learn-how-to-build-ai-agents-chatbots-with-langgraph-20o6)
-- [Comparing Laravel and Symfony: Choosing the Right PHP Framework for Your Project](https://dev.to/westtan/comparing-laravel-and-symfony-choosing-the-right-php-framework-for-your-project-aj)
-- [How to Quickly and Seamlessly Deploy Your Website Online](https://dev.to/mpoiiii/how-to-quickly-and-seamlessly-deploy-your-website-online-44dl)
-- [Conditionals 101: The building blocks of adaptive programs](https://dev.to/fahimulhaq/conditionals-101-the-building-blocks-of-adaptive-programs-28kb)
+- [Building a Complex Form with React Hook Form and Yup](https://dev.to/dutchskull/building-a-complex-form-with-react-hook-form-and-yup-200j)
+- [Best Practices for Data Visualization in Tableau and Salesforce](https://dev.to/itechcloud_solution_01/best-practices-for-data-visualization-in-tableau-and-salesforce-j6k)
+- [From Data to Decisions: My AI-Driven QA Metrics Framework Journey &lpar;Part 01&rpar;](https://dev.to/amr_922fec19bbf46d253faee/from-data-to-decisions-my-ai-driven-qa-metrics-framework-journey-part-01-44jd)
+- [AI for Smarter Test Automation Strategies](https://dev.to/jennife05918349/ai-for-smarter-test-automation-strategies-1lon)
 <!-- BLOG-POST-LIST:END -->
 
