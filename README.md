@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 60 Powerful, Best and 100% Free APIs Every Developer Should Know in 2024](https://dev.to/hanzla-mirza/60-powerful-best-and-100-free-apis-every-developer-should-know-in-2024-2i46)
-- [864. Shortest Path to Get All Keys || Leetcode || Hard](https://dev.to/akshat0610/864-shortest-path-to-get-all-keys-leetcode-hard-4c6k)
-- [Why You Need &lpar;More Than&rpar; Locks: Ensuring Consistency with Transactions in Your No-Code Applications](https://dev.to/momen_hq/why-you-need-more-than-locks-ensuring-consistency-with-transactions-in-your-no-code-applications-kkj)
-- [select&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/select-in-pytorch-35m6)
+- [How to Enable TCP Activation in Windows 11?](https://dev.to/winsides/how-to-enable-tcp-activation-in-windows-11-5aab)
+- [Top React.js Interview Questions and Answers 2024](https://dev.to/sidramaqbool/top-reactjs-interview-questions-and-answers-2024-4dac)
+- [[Part 3/3] Securing APIs using JSON Web Token &lpar;JWT&rpar; in IBM API-Connect v10 using X.509 RSA key pair](https://dev.to/aditya_singh001/part-33-securing-apis-using-json-web-token-jwt-in-ibm-api-connect-v10-using-x509-rsa-key-pair-45po)
+- [Terraform For_Each Meta-Argument 101](https://dev.to/sre_panchanan/terraform-foreach-meta-argument-101-nlj)
 <!-- BLOG-POST-LIST:END -->
 
