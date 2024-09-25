@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux, I Choose You! 🐧](https://dev.to/jimmymcbride/linux-i-choose-you-5ebe)
-- [WebGL&#39;s Animation loop, gaming on browsers - One Byte Explainer](https://dev.to/aortega/webgls-animation-loop-gaming-on-browsers-one-byte-explainer-4o1h)
-- [What is Deno JS?](https://dev.to/fullstacktanmay/what-is-deno-js-294n)
-- [Best Practices for React Js and Next Js Development](https://dev.to/shahharsh/best-practices-for-react-js-and-next-js-development-29eo)
+- [🚀 Why #RemixJS is the Wave 📷](https://dev.to/elvissautet/why-remixjs-is-the-wave-4m3n)
+- [Exploring Salesforce Einstein OCR for Document Management](https://dev.to/itechcloud_solution_01/exploring-salesforce-einstein-ocr-for-document-management-2c67)
+- [Multi-condition filtering #eg48](https://dev.to/esproc_spl/multi-condition-filtering-eg48-1g20)
+- [I built a Fake Log Generator](https://dev.to/poyashad/i-built-a-fake-log-generator-51ih)
 <!-- BLOG-POST-LIST:END -->
 
