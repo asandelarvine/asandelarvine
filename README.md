@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elements and Attributes: Understanding HTML elements and their attributes](https://dev.to/shieldstring/elements-and-attributes-understanding-html-elements-and-their-attributes-36g)
-- [What is Load Balancing ?](https://dev.to/yashrajxdev/what-is-load-balancing--1hp4)
-- [Exploring the Advantages of Gear&#39;s Actor Model in Vara Network](https://dev.to/srobver/exploring-the-advantages-of-gears-actor-model-in-vara-network-444f)
-- [Building Multi-Tenant Applications with Strapi and Docker Introduction](https://dev.to/mark_mwendia_0298dd9c0aad/building-multi-tenant-applications-with-strapi-and-docker-introduction-19ji)
+- [Asynchronous JavaScript - Get Confusions Cleared](https://dev.to/abeertech01/asynchronous-javascript-get-confusions-cleared-5a2f)
+- [LLMs will lie forever](https://dev.to/mikeyoung44/llms-will-lie-forever-3jd9)
+- [🛠️ Website Development Tools I use every day 💻](https://dev.to/serhii_kolodych/website-development-tools-i-use-every-day-4g2i)
+- [From Changes to Safe Keeping: Git Stash](https://dev.to/farhatsharifh/from-changes-to-safe-keeping-git-stash-m42)
 <!-- BLOG-POST-LIST:END -->
 
