@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Composición vs Herencia](https://dev.to/rlgino/composicion-vs-herencia-4664)
-- [Maximizing Productivity with Nexus AI: From Coding to Content Creation](https://dev.to/henrynewman/maximizing-productivity-with-nexus-ai-from-coding-to-content-creation-2260)
-- [Challenges of Code Review: How to Be Efficient and Constructive](https://dev.to/bfontes/challenges-of-code-review-how-to-be-efficient-and-constructive-3phj)
-- [Exploring TypeScript&#39;s Utility Types](https://dev.to/kartikmehta8/exploring-typescripts-utility-types-1jc6)
+- [Tree &lpar; DSA - 8 &rpar;](https://dev.to/madgan95/tree-dsa-8--3bnh)
+- [Getting Started with Machine Learning in JavaScript: A Beginner’s Guide with TensorFlow.js](https://dev.to/pawandeore/getting-started-with-machine-learning-in-javascript-a-beginners-guide-with-tensorflowjs-2ol2)
+- [GBase 8c Database Failure Handling and Practice](https://dev.to/congcong/gbase-8c-database-failure-handling-and-practice-1hlk)
+- [Finding Product Market Fit &lpar;feat. Daniel Mawdsley&rpar;](https://dev.to/vpalania/finding-product-market-fit-feat-daniel-mawdsley-20p9)
 <!-- BLOG-POST-LIST:END -->
 
