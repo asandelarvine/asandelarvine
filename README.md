@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tree &lpar; DSA - 8 &rpar;](https://dev.to/madgan95/tree-dsa-8--3bnh)
-- [Getting Started with Machine Learning in JavaScript: A Beginner’s Guide with TensorFlow.js](https://dev.to/pawandeore/getting-started-with-machine-learning-in-javascript-a-beginners-guide-with-tensorflowjs-2ol2)
-- [GBase 8c Database Failure Handling and Practice](https://dev.to/congcong/gbase-8c-database-failure-handling-and-practice-1hlk)
-- [Finding Product Market Fit &lpar;feat. Daniel Mawdsley&rpar;](https://dev.to/vpalania/finding-product-market-fit-feat-daniel-mawdsley-20p9)
+- [Week 1 - The Best Programming Memes to Brighten Your Day](https://dev.to/monday-memes/week-1-the-best-programming-memes-to-brighten-your-day-4hln)
+- [What Common Technical SEO Issues Do SEO Services Address, and How Are They Resolved?](https://dev.to/juddiy/what-common-technical-seo-issues-do-seo-services-address-and-how-are-they-resolved-1k82)
+- [Top Prompts for Content Revision: Master SEO &amp; Engaging Writing](https://dev.to/theainews/top-prompts-for-content-revision-master-seo-engaging-writing-32am)
+- [Implementing Distributed Tracing with Spring Boot and Zipkin](https://dev.to/virajlakshitha/implementing-distributed-tracing-with-spring-boot-and-zipkin-e7f)
 <!-- BLOG-POST-LIST:END -->
 
