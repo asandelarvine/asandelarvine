@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why #RemixJS is the Wave 📷](https://dev.to/elvissautet/why-remixjs-is-the-wave-4m3n)
-- [Exploring Salesforce Einstein OCR for Document Management](https://dev.to/itechcloud_solution_01/exploring-salesforce-einstein-ocr-for-document-management-2c67)
-- [Multi-condition filtering #eg48](https://dev.to/esproc_spl/multi-condition-filtering-eg48-1g20)
-- [I built a Fake Log Generator](https://dev.to/poyashad/i-built-a-fake-log-generator-51ih)
+- [You Gonna LOVE these CLI Shortcuts for GIT, Linux, Docker, Kubernetes...](https://dev.to/mammadyahyayev/you-gonna-love-these-cli-shortcuts-for-git-linux-docker-kubernetes-154m)
+- [Guide: How to add Write Back capabilities to your Power BI reports with Power Apps — Part 3](https://dev.to/jonvoge/guide-how-to-add-write-back-capabilities-to-your-power-bi-reports-with-power-apps-part-3-kak)
+- [Acne on the Penis: Causes Factors](https://dev.to/emily_post_af382b143795eb/acne-on-the-penis-causes-factors-4d7g)
+- [LabEx Trending: Image Viewer Using Python and Tkinter and More](https://dev.to/labex/labex-trending-image-viewer-using-python-and-tkinter-and-more-3bnd)
 <!-- BLOG-POST-LIST:END -->
 
