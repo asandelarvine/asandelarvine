@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 ways to use environment Variables in Rust](https://dev.to/francescoxx/3-ways-to-use-environment-variables-in-rust-4eaf)
-- [Custom Text Font Usage in Nuxt.js with Tailwind CSS](https://dev.to/elifnurturk/custom-text-font-usage-in-nuxtjs-with-tailwind-css-j49)
-- [LinkedIn Referral Request Message.](https://dev.to/mrcaption49/linkedin-referral-request-message-1hga)
-- [Análisis Exploratorio de datos &lpar;EDA&rpar; con Apache Spark](https://dev.to/madriz03/analisis-exploratorio-de-datos-eda-con-apache-spark-2ea5)
+- [How to Make DELETE Requests Using the curl_init&lpar;&rpar; Function in PHP](https://dev.to/therealmrmumba/how-to-make-delete-requests-using-the-curlinit-function-in-php-mpg)
+- [Automating My Job Application Process: A Frustrated Developer’s Journey](https://dev.to/torrezmn/automating-my-job-application-process-a-frustrated-developers-journey-gmc)
+- [Macbook or Windows Laptop?](https://dev.to/jenueldev/macbook-or-windows-laptop-2jom)
+- [Sending email using SMTP via Gmail with OpenSSL](https://dev.to/rinsama77/sending-email-using-smtp-via-gmail-with-openssl-4b9l)
 <!-- BLOG-POST-LIST:END -->
 
