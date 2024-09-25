@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Fundamentals: Do-While and For Loops](https://dev.to/moh_moh701/mastering-c-fundamentals-do-while-and-for-loops-57ol)
-- [QR code with Python in 7 lines of code](https://dev.to/techelopment/qr-code-with-python-in-7-lines-of-code-160m)
-- [Day 1 of my #100DaysOfCode](https://dev.to/vijayadeepu/day-1-of-my-100daysofcode-3c7o)
-- [Desplegando 50 S3 con el Mismo Nombre usando Terraform](https://dev.to/aws-espanol/desplegando-50-s3-con-el-mismo-nombre-usando-terraform-ob6)
+- [Top 5 Coding Challenges for Beginners Starting a Developer Career](https://dev.to/get_pieces/top-5-coding-challenges-for-beginners-starting-a-developer-career-e87)
+- [Merge Conflicts and Three-Way Merges](https://dev.to/kannav02/merge-conflicts-and-three-way-merges-3365)
+- [Kubernetes Resource Usage Monitoring](https://dev.to/labex/kubernetes-resource-usage-monitoring-3ibd)
+- [Bridging Clouds: A Comprehensive Guide to Connecting AWS Glue Tables with Snowflake](https://dev.to/jverhoeks/bridging-clouds-a-comprehensive-guide-to-connecting-aws-glue-tables-with-snowflake-43n2)
 <!-- BLOG-POST-LIST:END -->
 
