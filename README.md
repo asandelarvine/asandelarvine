@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable TCP Activation in Windows 11?](https://dev.to/winsides/how-to-enable-tcp-activation-in-windows-11-5aab)
-- [Top React.js Interview Questions and Answers 2024](https://dev.to/sidramaqbool/top-reactjs-interview-questions-and-answers-2024-4dac)
-- [[Part 3/3] Securing APIs using JSON Web Token &lpar;JWT&rpar; in IBM API-Connect v10 using X.509 RSA key pair](https://dev.to/aditya_singh001/part-33-securing-apis-using-json-web-token-jwt-in-ibm-api-connect-v10-using-x509-rsa-key-pair-45po)
-- [Terraform For_Each Meta-Argument 101](https://dev.to/sre_panchanan/terraform-foreach-meta-argument-101-nlj)
+- [AI-assisted software development lifecycle](https://dev.to/aws/ai-assisted-software-development-lifecycle-289k)
+- [My first CLI with Go](https://dev.to/tuhinbar/my-first-cli-with-go-4eig)
+- [Unraveling the Mysteries of Programming Languages: A Comprehensive Journey](https://dev.to/getvm/unraveling-the-mysteries-of-programming-languages-a-comprehensive-journey-59h6)
+- [How Really File Compressors Actually Works](https://dev.to/something_something_64b2a/how-really-file-compressors-actually-works-ljo)
 <!-- BLOG-POST-LIST:END -->
 
