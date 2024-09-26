@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Gentle Introduction to HPC - High Performance Computing](https://dev.to/sampseiol1/a-gentle-introduction-to-hpc-high-performance-computing-3d00)
-- [Deploy Postgresql with Helm](https://dev.to/frederickollinger/deploy-postgresql-with-helm-1ifi)
-- [Buzz Bee: Alien Invasion](https://dev.to/roadhammergaming/buzz-bee-alien-invasion-26i3)
-- [Javascript is HARD &lpar;with ES6 madness&rpar;](https://dev.to/rockhillz/javascript-is-hard-with-es6-madness-47j9)
+- [Как настроить зеркало реестров для OpenTofu и Terraform](https://dev.to/kvendingoldo/kak-nastroit-zierkalo-rieiestrov-dlia-opentofu-i-terraform-277k)
+- [Collaborate using Pull Requests](https://dev.to/farhatsharifh/collaborate-using-pull-requests-5c2o)
+- [Quantum-Classical Machine Learning: Quanvolutional Neural Network](https://dev.to/ksk0629/quantum-classical-machine-learning-quanvolutional-neural-network-bcl)
+- [The Concise Django Tutorial](https://dev.to/otamm/the-concise-django-tutorial-54lm)
 <!-- BLOG-POST-LIST:END -->
 
