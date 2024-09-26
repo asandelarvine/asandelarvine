@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17. stringWithFormat](https://dev.to/kiolk/day-17-stringwithformat-3kb1)
-- [Rails Console in the Browser &lpar;on-demand&rpar;](https://dev.to/rob__race/rails-console-in-the-browser-on-demand-2a1p)
-- [Encore.ts: a new type of framework](https://dev.to/encore/encorets-a-new-type-of-framework-3c48)
-- [Gemini Twitter Bot With Encore.ts](https://dev.to/talhaahsan/gemini-twitter-bot-with-encorets-i77)
+- [This Month in Azure Static Web Apps | 08/2024](https://dev.to/azure/this-month-in-azure-static-web-apps-082024-39d)
+- [Handling Merge Conflicts in Git: How to Fix and Prevent Them](https://dev.to/htsagara/handling-merge-conflicts-in-git-how-to-fix-and-prevent-them-1m62)
+- [Understanding the Payment Request API: Simplifying Online Payments](https://dev.to/rajeshkumaryadavdotcom/understanding-the-payment-request-api-simplifying-online-payments-3hnp)
+- [Docker BuildX: O Turbo das Builds de Imagens](https://dev.to/rflpazini/docker-buildx-o-turbo-das-builds-de-imagens-1l37)
 <!-- BLOG-POST-LIST:END -->
 
