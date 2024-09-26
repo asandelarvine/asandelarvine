@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024 is here! 🎃](https://dev.to/this-is-learning/hacktoberfest-2024-is-here-42kk)
-- [Understanding Object Iteration in JavaScript: `for...of` vs `for...in`](https://dev.to/dharamgfx/understanding-object-iteration-in-javascript-forof-vs-forin-bkc)
-- [SQLMap Cheat Sheet: A Quick Guide for Automated SQL Injection](https://dev.to/trixsec/sqlmap-cheat-sheet-a-quick-guide-for-automated-sql-injection-2b95)
-- [Flutter’s Engineering Pipeline: A Great Workflow with Minor Hiccups](https://dev.to/middleware/flutters-engineering-pipeline-a-great-workflow-with-minor-hiccups-1f05)
+- [5 Must-Have Chrome Extensions That Will Supercharge Your Developer Workflow](https://dev.to/asimachowdhury/5-must-have-chrome-extensions-that-will-supercharge-your-developer-workflow-5edd)
+- [How to Empty The Recycle Bin in Windows 11?](https://dev.to/winsides/how-to-empty-the-recycle-bin-in-windows-11-2760)
+- [Data, Information, Knowledge, and Insights](https://dev.to/mrcaption49/data-information-knowledge-and-insights-468j)
+- [Mastering JavaScript Objects: Methods, Properties, Prototypes, and __proto__ in Real-Time User Management System](https://dev.to/dharamgfx/mastering-javascript-objects-methods-and-properties-with-real-time-project-scenarios-user-management-system-30d6)
 <!-- BLOG-POST-LIST:END -->
 
