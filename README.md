@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Month in Azure Static Web Apps | 08/2024](https://dev.to/azure/this-month-in-azure-static-web-apps-082024-39d)
-- [Handling Merge Conflicts in Git: How to Fix and Prevent Them](https://dev.to/htsagara/handling-merge-conflicts-in-git-how-to-fix-and-prevent-them-1m62)
-- [Understanding the Payment Request API: Simplifying Online Payments](https://dev.to/rajeshkumaryadavdotcom/understanding-the-payment-request-api-simplifying-online-payments-3hnp)
-- [Docker BuildX: O Turbo das Builds de Imagens](https://dev.to/rflpazini/docker-buildx-o-turbo-das-builds-de-imagens-1l37)
+- [Open sourcing our new Text-to-SQL LLM app starter template](https://dev.to/inductor_ai/open-sourcing-our-new-text-to-sql-llm-app-starter-template-1cc8)
+- [Portfolio new!!!](https://dev.to/parzival646/portfolio-new-453h)
+- [Création d&#39;Images Docker Multi-Architecture avec GitLab CI/CD](https://dev.to/karimatak_26/creation-dimages-docker-multi-architecture-avec-gitlab-cicd-35j9)
+- [How can i secure my redis instance.](https://dev.to/prathm0025/how-can-i-secure-my-redis-instance-37pm)
 <!-- BLOG-POST-LIST:END -->
 
