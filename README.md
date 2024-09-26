@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Have Chrome Extensions That Will Supercharge Your Developer Workflow](https://dev.to/asimachowdhury/5-must-have-chrome-extensions-that-will-supercharge-your-developer-workflow-5edd)
-- [How to Empty The Recycle Bin in Windows 11?](https://dev.to/winsides/how-to-empty-the-recycle-bin-in-windows-11-2760)
-- [Data, Information, Knowledge, and Insights](https://dev.to/mrcaption49/data-information-knowledge-and-insights-468j)
-- [Mastering JavaScript Objects: Methods, Properties, Prototypes, and __proto__ in Real-Time User Management System](https://dev.to/dharamgfx/mastering-javascript-objects-methods-and-properties-with-real-time-project-scenarios-user-management-system-30d6)
+- [Getting the first record meeting the specified condition #eg49](https://dev.to/esproc_spl/getting-the-first-record-meeting-the-specified-condition-eg49-7nl)
+- [How I boosted my Google impressions from 2 to 200 in a month with a simple SEO tweak 🚀](https://dev.to/nicolasmenicou/how-i-boosted-my-google-impressions-from-2-to-200-in-a-month-with-a-simple-seo-tweak-210c)
+- [API protocols &lpar;beyond REST&rpar;?](https://dev.to/nikoldimit/api-protocols-beyond-rest-2h9p)
+- [Astro: Just Build Fast](https://dev.to/vuelancer/astro-just-build-fast-555c)
 <!-- BLOG-POST-LIST:END -->
 
