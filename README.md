@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [List of the best Google Dorks in 2024 for finding SQL injection vulnerabilities and other security issues:](https://dev.to/trixsec/list-of-the-best-google-dorks-in-2024-for-finding-sql-injection-vulnerabilities-and-other-security-issues-5772)
 - [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/madza/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-31l2)
 - [Drag &amp; Drop Images with Preview using Stimulus Outlets](https://dev.to/railsdesigner/drag-drop-images-with-preview-using-stimulus-outlets-4k9h)
 - [Hacktoberfest 2024 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2024-with-ghostfolio-572g)
-- [How to Securely Store Passwords in Databases](https://dev.to/thinhda/how-to-securely-store-passwords-in-databases-48a5)
 <!-- BLOG-POST-LIST:END -->
 
