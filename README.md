@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TCS CodeVita: A Complete Guide to the World’s Largest Programming Contest!](https://dev.to/avinash201199/tcs-codevita-a-complete-guide-to-the-worlds-largest-programming-contest-3io4)
-- [how to create HR management solution](https://dev.to/04anilr/how-to-create-hr-management-solution-lf2)
-- [Enhance Form UX with a Single HTML Attribute](https://dev.to/nitinyadav2455/enhance-form-ux-with-a-single-html-attribute-eoh)
-- [Working with Placeholders in Sitecore XM Cloud](https://dev.to/sebasab/working-with-placeholders-in-sitecore-xm-cloud-5fae)
+- [Day 17. stringWithFormat](https://dev.to/kiolk/day-17-stringwithformat-3kb1)
+- [Rails Console in the Browser &lpar;on-demand&rpar;](https://dev.to/rob__race/rails-console-in-the-browser-on-demand-2a1p)
+- [Encore.ts: a new type of framework](https://dev.to/encore/encorets-a-new-type-of-framework-3c48)
+- [Gemini Twitter Bot With Encore.ts](https://dev.to/talhaahsan/gemini-twitter-bot-with-encorets-i77)
 <!-- BLOG-POST-LIST:END -->
 
