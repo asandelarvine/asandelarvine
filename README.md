@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open sourcing our new Text-to-SQL LLM app starter template](https://dev.to/inductor_ai/open-sourcing-our-new-text-to-sql-llm-app-starter-template-1cc8)
-- [Portfolio new!!!](https://dev.to/parzival646/portfolio-new-453h)
-- [Création d&#39;Images Docker Multi-Architecture avec GitLab CI/CD](https://dev.to/karimatak_26/creation-dimages-docker-multi-architecture-avec-gitlab-cicd-35j9)
-- [How can i secure my redis instance.](https://dev.to/prathm0025/how-can-i-secure-my-redis-instance-37pm)
+- [File It Away: Groceries, Persistence, and Bash Mastery](https://dev.to/jimmymcbride/file-it-away-groceries-persistence-and-bash-mastery-47l2)
+- [Enhancing Teamwork with Shared File Storage Across Company Offices](https://dev.to/tjasper/enhancing-teamwork-with-shared-file-storage-across-company-offices-gg8)
+- [AI Drafts: Your Live Chat Copilot](https://dev.to/deskdingo/ai-drafts-your-live-chat-copilot-bfn)
+- [Scaffolding](https://dev.to/kettasoft/scaffolding-p0p)
 <!-- BLOG-POST-LIST:END -->
 
