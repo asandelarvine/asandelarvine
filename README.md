@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [from aguilera.soy to jorge-aguilera.blog](https://dev.to/jagedn/from-aguilerasoy-to-jorge-aguilerablog-5hkp)
 - [A Beginner&#39;s Guide to Implementing Redux in Your Existing System](https://dev.to/futuristicgeeks/a-beginners-guide-to-implementing-redux-in-your-existing-system-1632)
 - [Top 5 VS Code Extensions for JavaScript Developers](https://dev.to/balrajola/top-5-vs-code-extensions-for-javascript-developers-30bf)
 - [Exploring JavaScript Array Methods: A Deep Dive into `.slice&lpar;&rpar;` and `.splice&lpar;&rpar;`](https://dev.to/hkp22/exploring-javascript-array-methods-a-deep-dive-into-slice-and-splice-j93)
-- [From Static to Dynamic: How SvelteKit Handles It All](https://dev.to/jimmymcbride/from-static-to-dynamic-how-sveltekit-handles-it-all-3i2e)
 <!-- BLOG-POST-LIST:END -->
 
