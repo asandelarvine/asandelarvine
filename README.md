@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File It Away: Groceries, Persistence, and Bash Mastery](https://dev.to/jimmymcbride/file-it-away-groceries-persistence-and-bash-mastery-47l2)
-- [Enhancing Teamwork with Shared File Storage Across Company Offices](https://dev.to/tjasper/enhancing-teamwork-with-shared-file-storage-across-company-offices-gg8)
-- [AI Drafts: Your Live Chat Copilot](https://dev.to/deskdingo/ai-drafts-your-live-chat-copilot-bfn)
-- [Scaffolding](https://dev.to/kettasoft/scaffolding-p0p)
+- [A Gentle Introduction to HPC - High Performance Computing](https://dev.to/sampseiol1/a-gentle-introduction-to-hpc-high-performance-computing-3d00)
+- [Deploy Postgresql with Helm](https://dev.to/frederickollinger/deploy-postgresql-with-helm-1ifi)
+- [Buzz Bee: Alien Invasion](https://dev.to/roadhammergaming/buzz-bee-alien-invasion-26i3)
+- [Javascript is HARD &lpar;with ES6 madness&rpar;](https://dev.to/rockhillz/javascript-is-hard-with-es6-madness-47j9)
 <!-- BLOG-POST-LIST:END -->
 
