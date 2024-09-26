@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Performing Backups in Linux: Tools and the 3-2-1 Strategy](https://dev.to/ispmanager/performing-backups-in-linux-tools-and-the-3-2-1-strategy-nfi)
+- [Aggregate Functions vs Window Functions in SQL](https://dev.to/mrcaption49/aggregate-functions-vs-window-functions-576f)
 - [Introduction to useActionState -New hook in React](https://dev.to/shreenidhibatavi/introduction-to-useactionstate-new-hook-in-react-49b1)
 - [12 Essential Web APIs Every Developer Should Know](https://dev.to/vyan/12-essential-web-apis-every-developer-should-know-1m28)
-- [DevOps Beginner | Day 109 | Use EC2 Ubuntu Cron Job Automation Backup Database](https://dev.to/aws-builders/devops-beginner-day-109-use-ec2-ubuntu-cron-job-automation-backup-database-5dd2)
-- [File Uploads in MERN Stack with Multer and Cloud Storage 🌐🚀](https://dev.to/info_generalhazedawn_a3d/file-uploads-in-mern-stack-with-multer-and-cloud-storage-jpp)
 <!-- BLOG-POST-LIST:END -->
 
