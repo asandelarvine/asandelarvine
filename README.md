@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [List of the best Google Dorks in 2024 for finding SQL injection vulnerabilities and other security issues:](https://dev.to/trixsec/list-of-the-best-google-dorks-in-2024-for-finding-sql-injection-vulnerabilities-and-other-security-issues-5772)
-- [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/madza/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-31l2)
-- [Drag &amp; Drop Images with Preview using Stimulus Outlets](https://dev.to/railsdesigner/drag-drop-images-with-preview-using-stimulus-outlets-4k9h)
-- [Hacktoberfest 2024 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2024-with-ghostfolio-572g)
+- [TCS CodeVita: A Complete Guide to the World’s Largest Programming Contest!](https://dev.to/avinash201199/tcs-codevita-a-complete-guide-to-the-worlds-largest-programming-contest-3io4)
+- [how to create HR management solution](https://dev.to/04anilr/how-to-create-hr-management-solution-lf2)
+- [Enhance Form UX with a Single HTML Attribute](https://dev.to/nitinyadav2455/enhance-form-ux-with-a-single-html-attribute-eoh)
+- [Working with Placeholders in Sitecore XM Cloud](https://dev.to/sebasab/working-with-placeholders-in-sitecore-xm-cloud-5fae)
 <!-- BLOG-POST-LIST:END -->
 
