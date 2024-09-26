@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting the first record meeting the specified condition #eg49](https://dev.to/esproc_spl/getting-the-first-record-meeting-the-specified-condition-eg49-7nl)
-- [How I boosted my Google impressions from 2 to 200 in a month with a simple SEO tweak 🚀](https://dev.to/nicolasmenicou/how-i-boosted-my-google-impressions-from-2-to-200-in-a-month-with-a-simple-seo-tweak-210c)
-- [API protocols &lpar;beyond REST&rpar;?](https://dev.to/nikoldimit/api-protocols-beyond-rest-2h9p)
-- [Astro: Just Build Fast](https://dev.to/vuelancer/astro-just-build-fast-555c)
+- [Litlyx - Introducing Funnel Events](https://dev.to/litlyx-org/litlyx-introducing-funnel-events-3m7m)
+- [Sentry can’t fix React hydration errors, but it can really help you debug them](https://dev.to/sentry/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them-40aa)
+- [Augmenting the client with Vue.js](https://dev.to/nfrankel/augmenting-the-client-with-vuejs-2ip7)
+- [Unlocking the Secrets of Digital Decisions: A Beginner’s Guide to Logic Gates](https://dev.to/elen_voskanyan/unlocking-the-secrets-of-digital-decisions-a-beginners-guide-to-logic-gates-224d)
 <!-- BLOG-POST-LIST:END -->
 
