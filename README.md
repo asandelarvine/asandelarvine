@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilotkit: Your AI Wingman for Coding Adventures](https://dev.to/chiragagg5k/copilotkit-your-ai-wingman-for-coding-adventures-28gl)
-- [What is Vector Quantization?](https://dev.to/qdrant/what-is-vector-quantization-nna)
-- [Dark Factory - Smart Manufacturing of the Future](https://dev.to/meenamurali76/dark-factory-smart-manufacturing-of-the-future-4dpm)
-- [Login Form DevZone](https://dev.to/babar_ali/login-form-devzone-4bee)
+- [Understanding Computer Hardware and How the OS Runs the Show](https://dev.to/hikolakita/understanding-computer-hardware-and-how-the-os-runs-the-show-p91)
+- [Article : L&#39;importance de la Sécurité dans les Systèmes Embarqués : Protéger les Données et les Dispositifs](https://dev.to/kazaditshilumba_marcel_9b/article-3-limportance-de-la-securite-dans-les-systemes-embarques-proteger-les-donnees-et-les-dispositifs-5fmd)
+- [Certainly! Absolutely! I apologize!](https://dev.to/snackcode/certainly-absolutely-i-apologize-2p8m)
+- [My Current Carry](https://dev.to/cyrildotexe/my-current-carry-5abf)
 <!-- BLOG-POST-LIST:END -->
 
