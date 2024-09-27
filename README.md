@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [vcpkg - how to modify dependencies](https://dev.to/stickyfingies/vcpkg-how-to-modify-dependencies-fk5)
-- [gRPC: what is it? An introduction...](https://dev.to/mfbmina/grpc-what-is-it-an-introduction-2e57)
-- [Our new Litlyx LP is here!](https://dev.to/litlyx-org/our-new-litlyx-lp-is-here-1j33)
-- [Visualizing the Apache Cassandra Token Ring with Plotly](https://dev.to/frosnerd/visualizing-the-apache-cassandra-token-ring-with-plotly-4pmh)
+- [GraphQL vs REST: API Showdown 🤜🤛](https://dev.to/programordie/graphql-vs-rest-api-showdown-2p9n)
+- [Docwire SDK -C++20 library for advanced data processing](https://dev.to/novitzmann/docwire-sdk-c20-library-for-advanced-data-processing-4cd1)
+- [Teste de Integração com Banco de Dados](https://dev.to/gilsonsilvati/teste-de-integracao-com-banco-de-dados-47f6)
+- [Planning to Integrate Apollo GraphQL with Jetpack Compose? Here&#39;s a Complete Guide](https://dev.to/adam_miller_54f62bd1e6263/integrating-apollo-graphql-into-a-jetpack-compose-project-3ci2)
 <!-- BLOG-POST-LIST:END -->
 
