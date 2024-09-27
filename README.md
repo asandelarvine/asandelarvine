@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming in JavaScript - Callbacks | Promises | Async/Await](https://dev.to/mrcaption49/asynchronous-programming-in-javascript-callbacks-promises-asyncawait-269n)
-- [Fundamentals of Blockchain](https://dev.to/thekarlesi/fundamentals-of-blockchain-2k0e)
-- [How to Enable ASP.NET 4.8 in Windows 11?](https://dev.to/winsides/how-to-enable-aspnet-48-in-windows-11-26ic)
-- [Introducing ToyStack: Managed Postgres Databases for New-Age Developers](https://dev.to/toystack/introducing-toystack-managed-postgres-databases-for-new-age-developers-2oo8)
+- [What is Closure in JavaScript and How is it Useful?](https://dev.to/abeertech01/what-is-closure-in-javascript-and-how-is-it-useful-h70)
+- [Automating CI/CD Pipelines with Bitbucket Webhooks and Jenkins: A Dockerized Demo](https://dev.to/rahul_malhotra_3e1d83e2e8/automating-cicd-pipelines-with-bitbucket-webhooks-and-jenkins-a-dockerized-demo-6o8)
+- [Let&#39;s Read - Eloquent Ruby - Ch 19](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-19-fjf)
+- [Install OpenCV 4.5 on Ubuntu 22.04](https://dev.to/wassim31/install-opencv-45-on-ubuntu-2204-306i)
 <!-- BLOG-POST-LIST:END -->
 
