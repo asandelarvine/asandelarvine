@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Selectors: Targeting Specific Elements Using CSS](https://dev.to/shieldstring/selectors-targeting-specific-elements-using-css-541h)
-- [Unveiling the myth of Unified Namespace &lpar;UNS&rpar; and implementing with AWS Native Services](https://dev.to/meenamurali76/unveiling-the-myth-of-unified-namespace-uns-and-implementing-with-aws-native-services-3j59)
-- [Top 5 UX Frameworks to measure User Experience](https://dev.to/lollypopdesign/top-5-ux-frameworks-to-measure-user-experience-3mbl)
-- [is angular good for long term projects? like e-comer&#39;s &amp; forms-based app](https://dev.to/kedar_gujare_7e17b6c42ceb/is-angular-good-for-long-term-projects-like-e-comers-forms-based-app-e6n)
+- [data](https://dev.to/ozcankara/data-25m8)
+- [Web API Pentesting](https://dev.to/certcube/web-api-pentesting-26gf)
+- [What is ASI &lpar;Artificial Super Intelligence&rpar;? Is it Feasible, and When Will We Achieve It?](https://dev.to/abhinowww/what-is-asi-artificial-super-intelligence-is-it-feasible-and-when-will-we-achieve-it-1p1c)
+- [How I reduced my app size from 75MB to 34MB !!](https://dev.to/suyashdev/how-i-reduced-my-app-size-from-75mb-to-34mb--51m1)
 <!-- BLOG-POST-LIST:END -->
 
