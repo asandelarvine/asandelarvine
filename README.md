@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide Shared File Storage For The Company Offices](https://dev.to/nne/provide-shared-file-storage-for-the-company-offices-15p7)
-- [CSS Box Model Background and Border Quiz](https://dev.to/areeb_anwar_813df06ee1124/css-box-model-background-and-border-quiz-1gn0)
-- [ListView.build vs ListView tem diferença?](https://dev.to/gguedes/listviewbuild-vs-listview-tem-diferenca-4n19)
-- [Copy paste bash command but dont understand what it does?](https://dev.to/hardyweb/copy-paste-bash-command-but-dont-understand-what-it-does-34hk)
+- [Unlocking Innovation: 5 Key Benefits of Cloud Native Applications](https://dev.to/adityabhuyan/unlocking-innovation-5-key-benefits-of-cloud-native-applications-4c0h)
+- [The Ultimate Solution to Tab Close vs. Page Refresh!](https://dev.to/merxibeaucoup/the-ultimate-solution-to-tab-close-vs-page-refresh-cbc)
+- [Essential Design Patterns for React Apps: Leveling Up Your Component Game](https://dev.to/alessandrorodrigo/essential-design-patterns-for-react-apps-leveling-up-your-component-game-l8c)
+- [&#39;git&#39;ting funky with git merge](https://dev.to/peterdanwan/gitting-funky-with-git-merge-5dpm)
 <!-- BLOG-POST-LIST:END -->
 
