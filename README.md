@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [data](https://dev.to/ozcankara/data-25m8)
-- [Web API Pentesting](https://dev.to/certcube/web-api-pentesting-26gf)
-- [What is ASI &lpar;Artificial Super Intelligence&rpar;? Is it Feasible, and When Will We Achieve It?](https://dev.to/abhinowww/what-is-asi-artificial-super-intelligence-is-it-feasible-and-when-will-we-achieve-it-1p1c)
-- [How I reduced my app size from 75MB to 34MB !!](https://dev.to/suyashdev/how-i-reduced-my-app-size-from-75mb-to-34mb--51m1)
+- [Overcoming Web Scraping challenges with Firecrawl, an open-source AI tool](https://dev.to/dphenomenal/overcoming-common-web-scraping-challenges-with-firecrawl-an-open-source-ai-tool-64l)
+- [Advanced Git Tips for Hacktoberfest](https://dev.to/aerabi/advanced-git-tips-for-hacktoberfest-59j9)
+- [hello world](https://dev.to/gitfname/hello-world-3c6k)
+- [Lazy Loading: Why Make Your Users Wait? Let&#39;s Make the Web Faster &lpar;and Fun!&rpar; | Web Theory: Part 11](https://dev.to/teclearn/lazy-loading-why-make-your-users-wait-lets-make-the-web-faster-and-fun-3185)
 <!-- BLOG-POST-LIST:END -->
 
