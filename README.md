@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Supabase Projects From Being Paused](https://dev.to/travisv/stop-supabase-projects-from-being-paused-36nf)
-- [Narrowing Down What Needs to Be Done: Finding What to Quit for the Sake of What Truly Matters &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/narrowing-down-what-needs-to-be-done-finding-what-to-quit-for-the-sake-of-what-truly-matters-bite-size-article-5ckl)
-- [Migrating from shell script to &quot;Bun script&quot;](https://dev.to/edimarlnx/migrating-from-shell-script-to-bun-script-4pnj)
-- [Amazon Simple Queue Service &lpar;SQS&rpar;](https://dev.to/izmroen/amazon-simple-queue-service-sqs-40e1)
+- [If You Can Answer These 7 Questions Correctly You’re Decent at JavaScript](https://dev.to/safdarali/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-269d)
+- [How to test authentication JWT on Thunder Client](https://dev.to/cinthiabs/how-to-test-authentication-jwt-on-thunder-client-3mg3)
+- [Dubai Average Software Developer Salaries in 2024](https://dev.to/awwsamu/dubai-average-software-developer-salaries-in-2024-4865)
+- [My First Git Merge: Learning How to Handle Branches](https://dev.to/vinhyan/my-first-git-merge-learning-how-to-handle-branches-206l)
 <!-- BLOG-POST-LIST:END -->
 
