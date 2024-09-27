@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Closure in JavaScript and How is it Useful?](https://dev.to/abeertech01/what-is-closure-in-javascript-and-how-is-it-useful-h70)
-- [Automating CI/CD Pipelines with Bitbucket Webhooks and Jenkins: A Dockerized Demo](https://dev.to/rahul_malhotra_3e1d83e2e8/automating-cicd-pipelines-with-bitbucket-webhooks-and-jenkins-a-dockerized-demo-6o8)
-- [Let&#39;s Read - Eloquent Ruby - Ch 19](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-19-fjf)
-- [Install OpenCV 4.5 on Ubuntu 22.04](https://dev.to/wassim31/install-opencv-45-on-ubuntu-2204-306i)
+- [Selectors: Targeting Specific Elements Using CSS](https://dev.to/shieldstring/selectors-targeting-specific-elements-using-css-541h)
+- [Unveiling the myth of Unified Namespace &lpar;UNS&rpar; and implementing with AWS Native Services](https://dev.to/meenamurali76/unveiling-the-myth-of-unified-namespace-uns-and-implementing-with-aws-native-services-3j59)
+- [Top 5 UX Frameworks to measure User Experience](https://dev.to/lollypopdesign/top-5-ux-frameworks-to-measure-user-experience-3mbl)
+- [is angular good for long term projects? like e-comer&#39;s &amp; forms-based app](https://dev.to/kedar_gujare_7e17b6c42ceb/is-angular-good-for-long-term-projects-like-e-comers-forms-based-app-e6n)
 <!-- BLOG-POST-LIST:END -->
 
