@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One must imagine Sisyphus writing a new JS framework](https://dev.to/javiersalcedopuyo/one-must-imagine-sisyphus-writing-a-new-js-framework-3h04)
-- [Setting up a .NET Core Web API project on a Mac using Terminal](https://dev.to/awavieve/setting-up-a-net-core-web-api-project-on-a-mac-using-terminal-4nlo)
-- [LabEx Trending: Reverse Print File Content Command and More](https://dev.to/labex/labex-trending-reverse-print-file-content-command-and-more-2hfd)
-- [How to Create Virtual Machines: A Step-by-Step Guide](https://dev.to/onyemachi_doris/how-to-create-virtual-machines-a-step-by-step-guide-334k)
+- [React useState and how to use them in Forms](https://dev.to/harshm03/react-usestate-and-how-to-use-them-in-forms-175o)
+- [How to invoke a lambda function from your database](https://dev.to/sequin/how-to-invoke-a-lambda-function-from-your-database-5bjp)
+- [Bad CSS-Dad Jokes &lpar;III&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-iii-1ma6)
+- [.py Week 1 with CodersDorm .](https://dev.to/peter_kimulisa_1b7ae28314/py-week-1-with-codersdorm--38n)
 <!-- BLOG-POST-LIST:END -->
 
