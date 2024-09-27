@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-Facial Recognition Mask](https://dev.to/theainews/anti-facial-recognition-mask-2jk9)
-- [This Week In React #202 : Next.js, Composition, search params, PPR, Radon, Expo, MiniSim, CSS, Bun, Deno, Node.js...](https://dev.to/sebastienlorber/this-week-in-react-202-nextjs-composition-search-params-ppr-radon-expo-minisim-css-bun-deno-nodejs-34n9)
-- [729. My Calendar I|| Leetcode || Medium](https://dev.to/ngneha09/729-my-calendar-i-leetcode-medium-e6b)
-- [Multiple GitHub accounts on the same computer?](https://dev.to/asimaries/multiple-github-accounts-on-the-same-computer-2k15)
+- [100 Common Docker Errors &amp; Solutions](https://dev.to/prodevopsguytech/100-common-docker-errors-solutions-4le0)
+- [Understanding the infer Keyword in TypeScript](https://dev.to/zacharylee/understanding-the-infer-keyword-in-typescript-20mg)
+- [Technical article on how to Create a storage account and configure high availability.](https://dev.to/nadico_chris_2344abd174fe/technical-article-on-how-to-create-a-storage-account-and-configure-high-availability-59ge)
+- [TeeChart in a MudBlazor web](https://dev.to/steema/teechart-in-a-mudblazor-web-2j64)
 <!-- BLOG-POST-LIST:END -->
 
