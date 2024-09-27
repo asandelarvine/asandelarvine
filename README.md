@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Common Docker Errors &amp; Solutions](https://dev.to/prodevopsguytech/100-common-docker-errors-solutions-4le0)
-- [Understanding the infer Keyword in TypeScript](https://dev.to/zacharylee/understanding-the-infer-keyword-in-typescript-20mg)
-- [Technical article on how to Create a storage account and configure high availability.](https://dev.to/nadico_chris_2344abd174fe/technical-article-on-how-to-create-a-storage-account-and-configure-high-availability-59ge)
-- [TeeChart in a MudBlazor web](https://dev.to/steema/teechart-in-a-mudblazor-web-2j64)
+- [Copilotkit: Your AI Wingman for Coding Adventures](https://dev.to/chiragagg5k/copilotkit-your-ai-wingman-for-coding-adventures-28gl)
+- [What is Vector Quantization?](https://dev.to/qdrant/what-is-vector-quantization-nna)
+- [Dark Factory - Smart Manufacturing of the Future](https://dev.to/meenamurali76/dark-factory-smart-manufacturing-of-the-future-4dpm)
+- [Login Form DevZone](https://dev.to/babar_ali/login-form-devzone-4bee)
 <!-- BLOG-POST-LIST:END -->
 
