@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Computer Hardware and How the OS Runs the Show](https://dev.to/hikolakita/understanding-computer-hardware-and-how-the-os-runs-the-show-p91)
-- [Article : L&#39;importance de la Sécurité dans les Systèmes Embarqués : Protéger les Données et les Dispositifs](https://dev.to/kazaditshilumba_marcel_9b/article-3-limportance-de-la-securite-dans-les-systemes-embarques-proteger-les-donnees-et-les-dispositifs-5fmd)
-- [Certainly! Absolutely! I apologize!](https://dev.to/snackcode/certainly-absolutely-i-apologize-2p8m)
-- [My Current Carry](https://dev.to/cyrildotexe/my-current-carry-5abf)
+- [vcpkg - how to modify dependencies](https://dev.to/stickyfingies/vcpkg-how-to-modify-dependencies-fk5)
+- [gRPC: what is it? An introduction...](https://dev.to/mfbmina/grpc-what-is-it-an-introduction-2e57)
+- [Our new Litlyx LP is here!](https://dev.to/litlyx-org/our-new-litlyx-lp-is-here-1j33)
+- [Visualizing the Apache Cassandra Token Ring with Plotly](https://dev.to/frosnerd/visualizing-the-apache-cassandra-token-ring-with-plotly-4pmh)
 <!-- BLOG-POST-LIST:END -->
 
