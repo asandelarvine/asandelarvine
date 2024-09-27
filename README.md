@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Как настроить зеркало реестров для OpenTofu и Terraform](https://dev.to/kvendingoldo/kak-nastroit-zierkalo-rieiestrov-dlia-opentofu-i-terraform-277k)
-- [Collaborate using Pull Requests](https://dev.to/farhatsharifh/collaborate-using-pull-requests-5c2o)
-- [Quantum-Classical Machine Learning: Quanvolutional Neural Network](https://dev.to/ksk0629/quantum-classical-machine-learning-quanvolutional-neural-network-bcl)
-- [The Concise Django Tutorial](https://dev.to/otamm/the-concise-django-tutorial-54lm)
+- [Provide Shared File Storage For The Company Offices](https://dev.to/nne/provide-shared-file-storage-for-the-company-offices-15p7)
+- [CSS Box Model Background and Border Quiz](https://dev.to/areeb_anwar_813df06ee1124/css-box-model-background-and-border-quiz-1gn0)
+- [ListView.build vs ListView tem diferença?](https://dev.to/gguedes/listviewbuild-vs-listview-tem-diferenca-4n19)
+- [Copy paste bash command but dont understand what it does?](https://dev.to/hardyweb/copy-paste-bash-command-but-dont-understand-what-it-does-34hk)
 <!-- BLOG-POST-LIST:END -->
 
