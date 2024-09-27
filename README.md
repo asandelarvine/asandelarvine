@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [S9 Game Download Html](https://dev.to/babar_ali/s9-game-download-html-520b)
-- [How to Handle Dynamic Dropdown in Cypress](https://dev.to/aswani25/how-to-handle-dynamic-dropdown-in-cypress-2d9h)
-- [What’s the Connection Between Leonardo Da Vinci, a Cup of Coffee in Lisbon, and the Nature of Software Development?](https://dev.to/raphaeldelio/whats-the-connection-between-leonardo-da-vinci-a-cup-of-coffee-in-lisbon-and-the-nature-of-software-development-4jlo)
-- [Rails Designer v1.6: Drag &amp; Drop image support](https://dev.to/railsdesigner/rails-designer-v16-drag-drop-image-support-421c)
+- [Anti-Facial Recognition Mask](https://dev.to/theainews/anti-facial-recognition-mask-2jk9)
+- [This Week In React #202 : Next.js, Composition, search params, PPR, Radon, Expo, MiniSim, CSS, Bun, Deno, Node.js...](https://dev.to/sebastienlorber/this-week-in-react-202-nextjs-composition-search-params-ppr-radon-expo-minisim-css-bun-deno-nodejs-34n9)
+- [729. My Calendar I|| Leetcode || Medium](https://dev.to/ngneha09/729-my-calendar-i-leetcode-medium-e6b)
+- [Multiple GitHub accounts on the same computer?](https://dev.to/asimaries/multiple-github-accounts-on-the-same-computer-2k15)
 <!-- BLOG-POST-LIST:END -->
 
