@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is GenAIScript?](https://dev.to/nickytonline/what-is-genaiscript-1mf2)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2cin)
-- [A Quick dive into useCallback hook: concepts and how to use it](https://dev.to/hsline918/a-quick-dive-into-usecallback-hook-concepts-and-how-to-use-it-1eel)
-- [Understanding the Attention Mechanism in Natural Language Processing](https://dev.to/nareshnishad/understanding-the-attention-mechanism-in-natural-language-processing-1pgf)
+- [Asynchronous Programming in JavaScript - Callbacks | Promises | Async/Await](https://dev.to/mrcaption49/asynchronous-programming-in-javascript-callbacks-promises-asyncawait-269n)
+- [Fundamentals of Blockchain](https://dev.to/thekarlesi/fundamentals-of-blockchain-2k0e)
+- [How to Enable ASP.NET 4.8 in Windows 11?](https://dev.to/winsides/how-to-enable-aspnet-48-in-windows-11-26ic)
+- [Introducing ToyStack: Managed Postgres Databases for New-Age Developers](https://dev.to/toystack/introducing-toystack-managed-postgres-databases-for-new-age-developers-2oo8)
 <!-- BLOG-POST-LIST:END -->
 
