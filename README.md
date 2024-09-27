@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [500 views on the new Landing page in 7 hours!](https://dev.to/litlyx/500-views-on-the-new-landing-page-in-7-hours-558o)
-- [Exploring Nifty 50 Stocks: Analyzing Historical Data and Developing a Trading Strategy with Python](https://dev.to/prakhar_mishra_fb6d66345e/exploring-nifty-50-stocks-analyzing-historical-data-and-developing-a-trading-strategy-with-python-1kn7)
-- [Connecting to an RDS instance via Bastion Host](https://dev.to/neakoh/connecting-to-an-rds-instance-via-bastion-host-20mo)
-- [C# Design Pattern: Builder &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-builder-portugues-2dn2)
+- [S9 Game Download Html](https://dev.to/babar_ali/s9-game-download-html-520b)
+- [How to Handle Dynamic Dropdown in Cypress](https://dev.to/aswani25/how-to-handle-dynamic-dropdown-in-cypress-2d9h)
+- [What’s the Connection Between Leonardo Da Vinci, a Cup of Coffee in Lisbon, and the Nature of Software Development?](https://dev.to/raphaeldelio/whats-the-connection-between-leonardo-da-vinci-a-cup-of-coffee-in-lisbon-and-the-nature-of-software-development-4jlo)
+- [Rails Designer v1.6: Drag &amp; Drop image support](https://dev.to/railsdesigner/rails-designer-v16-drag-drop-image-support-421c)
 <!-- BLOG-POST-LIST:END -->
 
