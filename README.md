@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL vs REST: API Showdown 🤜🤛](https://dev.to/programordie/graphql-vs-rest-api-showdown-2p9n)
-- [Docwire SDK -C++20 library for advanced data processing](https://dev.to/novitzmann/docwire-sdk-c20-library-for-advanced-data-processing-4cd1)
-- [Teste de Integração com Banco de Dados](https://dev.to/gilsonsilvati/teste-de-integracao-com-banco-de-dados-47f6)
-- [Planning to Integrate Apollo GraphQL with Jetpack Compose? Here&#39;s a Complete Guide](https://dev.to/adam_miller_54f62bd1e6263/integrating-apollo-graphql-into-a-jetpack-compose-project-3ci2)
+- [One must imagine Sisyphus writing a new JS framework](https://dev.to/javiersalcedopuyo/one-must-imagine-sisyphus-writing-a-new-js-framework-3h04)
+- [Setting up a .NET Core Web API project on a Mac using Terminal](https://dev.to/awavieve/setting-up-a-net-core-web-api-project-on-a-mac-using-terminal-4nlo)
+- [LabEx Trending: Reverse Print File Content Command and More](https://dev.to/labex/labex-trending-reverse-print-file-content-command-and-more-2hfd)
+- [How to Create Virtual Machines: A Step-by-Step Guide](https://dev.to/onyemachi_doris/how-to-create-virtual-machines-a-step-by-step-guide-334k)
 <!-- BLOG-POST-LIST:END -->
 
