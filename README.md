@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Innovation: 5 Key Benefits of Cloud Native Applications](https://dev.to/adityabhuyan/unlocking-innovation-5-key-benefits-of-cloud-native-applications-4c0h)
-- [The Ultimate Solution to Tab Close vs. Page Refresh!](https://dev.to/merxibeaucoup/the-ultimate-solution-to-tab-close-vs-page-refresh-cbc)
-- [Essential Design Patterns for React Apps: Leveling Up Your Component Game](https://dev.to/alessandrorodrigo/essential-design-patterns-for-react-apps-leveling-up-your-component-game-l8c)
-- [&#39;git&#39;ting funky with git merge](https://dev.to/peterdanwan/gitting-funky-with-git-merge-5dpm)
+- [SvelteKit Basics: A Crash Course](https://dev.to/jimmymcbride/sveltekit-basics-a-crash-course-36m2)
+- [A Comprehensive Guide to JavaScript Storage Methods](https://dev.to/vyan/a-comprehensive-guide-to-javascript-storage-methods-137o)
+- [#66 — Search for The Position of A Certain Value And Take Values by Position](https://dev.to/judith677/66-search-for-the-position-of-a-certain-value-and-take-values-by-position-151n)
+- [Installatron &lpar;WordPress&rpar;: How to solve &quot;Backing-Up: Error&quot;](https://dev.to/skuzzy_topten/installatron-how-to-solve-backing-up-error-3k00)
 <!-- BLOG-POST-LIST:END -->
 
