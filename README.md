@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Web Scraping challenges with Firecrawl, an open-source AI tool](https://dev.to/dphenomenal/overcoming-common-web-scraping-challenges-with-firecrawl-an-open-source-ai-tool-64l)
-- [Advanced Git Tips for Hacktoberfest](https://dev.to/aerabi/advanced-git-tips-for-hacktoberfest-59j9)
-- [hello world](https://dev.to/gitfname/hello-world-3c6k)
-- [Lazy Loading: Why Make Your Users Wait? Let&#39;s Make the Web Faster &lpar;and Fun!&rpar; | Web Theory: Part 11](https://dev.to/teclearn/lazy-loading-why-make-your-users-wait-lets-make-the-web-faster-and-fun-3185)
+- [Tutorial: Build a Java SDK based on OpenAPI Spec](https://dev.to/corbado/tutorial-build-a-java-sdk-based-on-openapi-spec-d7o)
+- [The Heart of OpenStack, Keystone](https://dev.to/choonho/openstack-keystone-c6j)
+- [Minting JWT Token Using Node.js](https://dev.to/akshayashet/minting-jwt-token-using-nodejs-3mhk)
+- [Minting JWT Token Using Node.js](https://dev.to/akshayashet/minting-jwt-token-using-nodejs-55p8)
 <!-- BLOG-POST-LIST:END -->
 
