@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Build a Java SDK based on OpenAPI Spec](https://dev.to/corbado/tutorial-build-a-java-sdk-based-on-openapi-spec-d7o)
-- [The Heart of OpenStack, Keystone](https://dev.to/choonho/openstack-keystone-c6j)
-- [Minting JWT Token Using Node.js](https://dev.to/akshayashet/minting-jwt-token-using-nodejs-3mhk)
-- [Minting JWT Token Using Node.js](https://dev.to/akshayashet/minting-jwt-token-using-nodejs-55p8)
+- [The Difference Between Software Architecture Patterns and Design Principles](https://dev.to/wafa_bergaoui/the-difference-between-software-architecture-patterns-and-design-principles-1hao)
+- [Ibuprofeno.py💊| #185: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-185-explica-este-codigo-python-42ii)
+- [AdminForth got new plugins: RichEditor, Import-Export, AuditLog, 2FA](https://dev.to/ivictbor/adminforth-got-new-plugins-richeditor-import-export-auditlog-2fa-46m8)
+- [Setting Up Jekyll, Resolving Webrick Issues, and Exploring Ruby Version Changes](https://dev.to/tobidelly/setting-up-jekyll-resolving-webrick-issues-and-exploring-ruby-version-changes-24k7)
 <!-- BLOG-POST-LIST:END -->
 
