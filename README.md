@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrations in Laravel](https://dev.to/uthman_ehsan_23f3a68c03d7/migrations-in-laravel-4k52)
-- [Develop a system that monitors a log file located on a remote server, similar to the Unix command tail -f.](https://dev.to/codewithved/develop-a-system-that-monitors-a-log-file-located-on-a-remote-server-similar-to-the-unix-command-tail-f-545b)
-- [Json Lottie Animations &amp; Custom Error Pages in Nuxt](https://dev.to/elifnurturk/json-lottie-animations-custom-error-pages-in-nuxt-472n)
-- [Demystifying XDR for MSPs: A Practical Guide](https://dev.to/donesrom/demystifying-xdr-for-msps-a-practical-guide-496o)
+- [Sign Canvas](https://dev.to/prince_beec5ccde00b7c6c73/sign-canvas-28aj)
+- [Understanding Self-Attention and Multi-Head Attention in Deep Learning](https://dev.to/nareshnishad/understanding-self-attention-and-multi-head-attention-in-deep-learning-4jg4)
+- [How to Implement a Secure and Efficient File Sharing Solution for a Geographically Dispersed Company.](https://dev.to/dumka/how-to-implement-a-secure-and-efficient-file-sharing-solution-for-a-geographically-dispersed-company-3b06)
+- [Set up: VPN - Part 1](https://dev.to/pqpvc/set-up-vpn-part-1-1nfm)
 <!-- BLOG-POST-LIST:END -->
 
