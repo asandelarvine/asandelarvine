@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 System Design Terms That Will Make You Sound Like a Pro](https://dev.to/who_tf_cares/50-system-design-terms-that-will-make-you-sound-like-a-pro-3294)
-- [Application Discovery Service Agentless Collector now supports Amazon Linux 2023](https://dev.to/karthiksakthiveltechie/application-discovery-service-agentless-collector-now-supports-amazon-linux-2023-1b4h)
-- [Java 21 Records Exam Objective for Java SE 21 Developer Certification Preparation](https://dev.to/myexamcloud/java-21-records-exam-objective-for-java-se-21-developer-certification-preparation-1bb9)
-- [Pearson Correlation Coefficient: Connecting the Dots in Data](https://dev.to/prabrit_das_13d68469096a2/pearson-correlation-coefficient-connecting-the-dots-in-data-f97)
+- [Creating a Testable Facade in Laravel](https://dev.to/clintwinter/creating-a-testable-facade-in-laravel-55ei)
+- [Pacotes e o Acesso a Membros](https://dev.to/devsjavagirls/pacotes-e-o-acesso-a-membros-1gif)
+- [Google Directions Script](https://dev.to/max_kleiner_9d12e786b3ecc/google-directions-script-31ee)
+- [Exemplo Breve de Pacote](https://dev.to/devsjavagirls/exemplo-breve-de-pacote-4khd)
 <!-- BLOG-POST-LIST:END -->
 
