@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CTE](https://dev.to/mrcaption49/cte-4h12)
-- [OCI Quota policy to limit vault count](https://dev.to/farisdurrani/oci-quota-policy-to-limit-vault-count-3coc)
-- [WiFi Signal Meter](https://dev.to/babar_ali/wifi-signal-meter-547k)
-- [Mastering C# Fundamentals: Escape Characters](https://dev.to/moh_moh701/mastering-c-fundamentals-escape-characters-2jc2)
+- [Kickstarting My DevOps Journey with TrainWithShubham’s Zero to Hero Course](https://dev.to/singh_in_cloud/kickstarting-my-devops-journey-with-trainwithshubhams-zero-to-hero-course-4o83)
+- [Data masking in PL/SQL](https://dev.to/mrcaption49/data-masking-in-plsql-3i25)
+- [BULK COLLECT in PL/SQL](https://dev.to/mrcaption49/bulk-collect-in-plsql-34hc)
+- [A Importância da Qualidade de Software na Era da Inteligência Artificial e Automação](https://dev.to/womakerscode/a-importancia-da-qualidade-de-software-na-era-da-inteligencia-artificial-e-automacao-1cc2)
 <!-- BLOG-POST-LIST:END -->
 
