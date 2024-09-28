@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast-forward and three-way merges](https://dev.to/sych_andrii/fast-forward-and-three-way-merges-3kl5)
-- [System design common pointers](https://dev.to/prashantrmishra/system-design-common-pointers-29b8)
-- [Tackling Merges, Conflicts, and New Features in ReadCraft](https://dev.to/tasbi03/tackling-merges-conflicts-and-new-features-in-readcraft-7jd)
-- [Como fazer deploy no vercel com o seu app web flutter](https://dev.to/devsnorte/como-fazer-deploy-no-vercel-com-o-seu-app-web-flutter-3o43)
+- [https://dev.to/junejuan01/comment/2id99](https://dev.to/junejuan01/httpsdevtojunejuan01comment2id99-3gl7)
+- [Automate Deployment to AWS App Runner Using Terraform](https://dev.to/aws-builders/automate-deployment-to-aws-app-runner-using-terraform-4oo9)
+- [What’s a Progressive Web App &lpar;PWA&rpar;, Anyway?](https://dev.to/dev_frank/whats-a-progressive-web-app-pwa-anyway-1pnl)
+- [MySQL Basics: Understanding Isolation Level and Transaction Anomalies](https://dev.to/ronnychen/mysql-basics-understanding-isolation-level-and-transaction-anomalies-4ec6)
 <!-- BLOG-POST-LIST:END -->
 
