@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can OpenAi o1 Model Think🤔?](https://dev.to/fonyuygita/can-openai-o1-model-think-1l12)
-- [Adding HTMX to GO](https://dev.to/caffeineordeath/adding-htmx-to-go-2cah)
-- [ZSharp : System.String](https://dev.to/bardiax/zsharp-systemstring-4bce)
-- [FTP and SFTP clients for Common Lisp](https://dev.to/vindarel/ftp-and-sftp-clients-for-common-lisp-1c3b)
+- [50 System Design Terms That Will Make You Sound Like a Pro](https://dev.to/who_tf_cares/50-system-design-terms-that-will-make-you-sound-like-a-pro-3294)
+- [Application Discovery Service Agentless Collector now supports Amazon Linux 2023](https://dev.to/karthiksakthiveltechie/application-discovery-service-agentless-collector-now-supports-amazon-linux-2023-1b4h)
+- [Java 21 Records Exam Objective for Java SE 21 Developer Certification Preparation](https://dev.to/myexamcloud/java-21-records-exam-objective-for-java-se-21-developer-certification-preparation-1bb9)
+- [Pearson Correlation Coefficient: Connecting the Dots in Data](https://dev.to/prabrit_das_13d68469096a2/pearson-correlation-coefficient-connecting-the-dots-in-data-f97)
 <!-- BLOG-POST-LIST:END -->
 
