@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging DevStack](https://dev.to/ndutared/debugging-devstack-9pe)
-- [Top 3 Free Web Development Courses with Certificate](https://dev.to/kaja_uvais_a8691e947dd399/top-3-free-web-development-courses-with-certificate-194j)
-- [Better - An AI powered Code Reviewer GitHub Action](https://dev.to/murtuzaalisurti/better-an-ai-powered-code-reviewer-github-action-2n28)
-- [How to Create a Robust Ubuntu Web Server Using Apache, MySQL, PHP, and Virtual Hosts](https://dev.to/codewithashim/how-to-create-a-robust-ubuntu-web-server-using-apache-mysql-php-and-virtual-hosts-4i74)
+- [State Management in React Using MobX State Tree &lpar;MST&rpar;](https://dev.to/khairahscorner/state-management-in-react-using-mobx-state-tree-mst-4mmc)
+- [Week 1 - 42 Berlin Piscine](https://dev.to/lara_dev/week-1-42-berlin-piscine-ppc)
+- [Frontend Developer Guideline: A Quick Start for Beginners](https://dev.to/programchimp/frontend-developer-guideline-a-quick-start-for-beginners-9pg)
+- [Call Stack in JavaScript](https://dev.to/ramya_srim/call-stack-in-javascript-518d)
 <!-- BLOG-POST-LIST:END -->
 
