@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can Answer These 7 Concepts Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-net-2le4)
-- [Unleashing the Power of Google&#39;s Vertex AI Prompt Optimizer](https://dev.to/agagag/unleashing-the-power-of-googles-vertex-ai-prompt-optimizer-3860)
-- [libaloo &lpar;Aloo&rpar;](https://dev.to/bhjaipal/libaloo-aloo-2aba)
-- [Introduction to V0: Vercel’s UI Generative AI Framework](https://dev.to/gimkelum/introduction-to-v0-vercels-ui-generative-ai-framework-4315)
+- [🦀 Create a Simple Todo List in Rust &lpar;with Response Time Comparison to Node.js&rpar; 📝](https://dev.to/hamzakhan/create-a-simple-todo-list-in-rust-with-response-time-comparison-to-nodejs-28e)
+- [How to detect SOLID principle violations?](https://dev.to/rohitsingh09/how-to-detect-solid-principle-violations-18c0)
+- [Mastering AWS Serverless: Build and Deploy Applications](https://dev.to/s3cloudhub/mastering-aws-serverless-build-and-deploy-applications-4h26)
+- [A Beginner&#39;s Guide to Packet Sniffing Using Wireshark&lpar;Must Read&rpar;](https://dev.to/trixsec/a-beginners-guide-to-packet-sniffing-using-wiresharkmust-read-36h2)
 <!-- BLOG-POST-LIST:END -->
 
