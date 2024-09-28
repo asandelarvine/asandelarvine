@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [useActionState: Streamlining React Form State Management 🔄](https://dev.to/charliesay/useactionstate-streamlining-react-form-state-management-f1e)
-- [How to add Google ReCAPTCHA in your React website](https://dev.to/kurtchan/how-to-add-google-recaptcha-in-your-react-website-3380)
-- [Smart Architectural Visions concept with AI🔥](https://dev.to/okibayu/smart-architectural-visions-concept-with-ai-41ad)
-- [The truth about test coverage](https://dev.to/cadienvan/the-truth-about-test-coverage-3gko)
+- [Docker vs Virtual Machines: The Lightweight Contender vs. The Old Heavyweight](https://dev.to/programordie/docker-vs-virtual-machines-the-lightweight-contender-vs-the-old-heavyweight-4647)
+- [Real-Time Analytics with AI: Why Speed Matters in the Age of Data](https://dev.to/sanjana_shah_bia/real-time-analytics-with-ai-why-speed-matters-in-the-age-of-data-3006)
+- [useCallback Hook Explained](https://dev.to/imyusufakhtar/usecallback-hook-explained-2450)
+- [useMemo Hook Explained](https://dev.to/imyusufakhtar/usememo-hook-explained-2gee)
 <!-- BLOG-POST-LIST:END -->
 
