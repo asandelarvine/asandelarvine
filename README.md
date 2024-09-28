@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🦀 Create a Simple Todo List in Rust &lpar;with Response Time Comparison to Node.js&rpar; 📝](https://dev.to/hamzakhan/create-a-simple-todo-list-in-rust-with-response-time-comparison-to-nodejs-28e)
-- [How to detect SOLID principle violations?](https://dev.to/rohitsingh09/how-to-detect-solid-principle-violations-18c0)
-- [Mastering AWS Serverless: Build and Deploy Applications](https://dev.to/s3cloudhub/mastering-aws-serverless-build-and-deploy-applications-4h26)
-- [A Beginner&#39;s Guide to Packet Sniffing Using Wireshark&lpar;Must Read&rpar;](https://dev.to/trixsec/a-beginners-guide-to-packet-sniffing-using-wiresharkmust-read-36h2)
+- [Quantum Computing: Why Developers Need to Start Paying Attention](https://dev.to/hikolakita/quantum-computing-why-developers-need-to-start-paying-attention-30e1)
+- [Convert your Figma design to code using Dualite](https://dev.to/dualitedev/convert-your-figma-design-to-code-using-dualite-4leh)
+- [YT for Coding Prep](https://dev.to/sarthakkarora/yt-for-coding-prep-4kjk)
+- [Understanding Maximum Width Classes in Tailwind CSS](https://dev.to/susheel_kumar/understanding-maximum-width-classes-in-tailwind-css-59fe)
 <!-- BLOG-POST-LIST:END -->
 
