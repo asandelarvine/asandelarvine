@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sign Canvas](https://dev.to/prince_beec5ccde00b7c6c73/sign-canvas-28aj)
-- [Understanding Self-Attention and Multi-Head Attention in Deep Learning](https://dev.to/nareshnishad/understanding-self-attention-and-multi-head-attention-in-deep-learning-4jg4)
-- [How to Implement a Secure and Efficient File Sharing Solution for a Geographically Dispersed Company.](https://dev.to/dumka/how-to-implement-a-secure-and-efficient-file-sharing-solution-for-a-geographically-dispersed-company-3b06)
-- [Set up: VPN - Part 1](https://dev.to/pqpvc/set-up-vpn-part-1-1nfm)
+- [How to Use MockAPI with a Next.js App When the Backend Is Not Ready](https://dev.to/rajeshkumaryadavdotcom/how-to-use-mockapi-with-a-nextjs-app-when-the-backend-is-not-ready-3m1n)
+- [Using &quot;Hive Moderation AI-GENERATED CONTENT DETECTION&quot; to Identify Images from Tools like DALL·E 3, FLUX.1, and ImageFX](https://dev.to/nabata/using-hive-moderation-ai-generated-content-detection-to-identify-images-from-tools-like-dalle-3-flux1-and-imagefx-3jf7)
+- [Being Awesome &lpar;Open Source Creator&rpar; Should be Easy](https://dev.to/birme/being-awesome-open-source-creator-should-be-easy-ha9)
+- [FIX | MacOS Error ! | Alacritty can’t be opened because Apple cannot check it for malicious software](https://dev.to/shihabdotdev/fix-macos-error-alacritty-cant-be-opened-because-apple-cannot-check-it-for-malicious-software-4b69)
 <!-- BLOG-POST-LIST:END -->
 
