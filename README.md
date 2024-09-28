@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can Answer These 7 Questions Correctly You’re Decent at JavaScript](https://dev.to/safdarali/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-269d)
-- [How to test authentication JWT on Thunder Client](https://dev.to/cinthiabs/how-to-test-authentication-jwt-on-thunder-client-3mg3)
-- [Dubai Average Software Developer Salaries in 2024](https://dev.to/awwsamu/dubai-average-software-developer-salaries-in-2024-4865)
-- [My First Git Merge: Learning How to Handle Branches](https://dev.to/vinhyan/my-first-git-merge-learning-how-to-handle-branches-206l)
+- [Understanding Java Classes: A Comprehensive Guide with Examples](https://dev.to/javadevone/understanding-java-classes-a-comprehensive-guide-with-examples-44f2)
+- [🚀 Introducing ScaleNext: A Modern and Scalable Next.js Boilerplate for Your SaaS Project](https://dev.to/pedropini/introducing-scalenext-a-modern-and-scalable-nextjs-boilerplate-for-your-saas-project-156j)
+- [React Native Developers Are Done](https://dev.to/evotik/react-native-developers-are-done-4no9)
+- [Week 4: Lab 4 merge branches](https://dev.to/mpalhutchinson/week-4-lab-4-merge-branches-4bop)
 <!-- BLOG-POST-LIST:END -->
 
