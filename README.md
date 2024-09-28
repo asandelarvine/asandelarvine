@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstarting My DevOps Journey with TrainWithShubham’s Zero to Hero Course](https://dev.to/singh_in_cloud/kickstarting-my-devops-journey-with-trainwithshubhams-zero-to-hero-course-4o83)
-- [Data masking in PL/SQL](https://dev.to/mrcaption49/data-masking-in-plsql-3i25)
-- [BULK COLLECT in PL/SQL](https://dev.to/mrcaption49/bulk-collect-in-plsql-34hc)
-- [A Importância da Qualidade de Software na Era da Inteligência Artificial e Automação](https://dev.to/womakerscode/a-importancia-da-qualidade-de-software-na-era-da-inteligencia-artificial-e-automacao-1cc2)
+- [Deploying a Monitoring Stack with Kubernetes, Helm, and Ingress](https://dev.to/seewhy/deploying-a-monitoring-stack-with-kubernetes-helm-and-ingress-cp5)
+- [Mastering C# Fundamentals: Creating Objects](https://dev.to/moh_moh701/mastering-c-fundamentals-creating-objects-p1m)
+- [principios y objetivos](https://dev.to/milagros_claudiamamanic/principios-y-objetivos-3j70)
+- [Self-hosted alternative to Heroku - Ptah.sh](https://dev.to/b_shulha/self-hosted-alternative-to-heroku-ptahsh-17m5)
 <!-- BLOG-POST-LIST:END -->
 
