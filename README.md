@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Monitoring Stack with Kubernetes, Helm, and Ingress](https://dev.to/seewhy/deploying-a-monitoring-stack-with-kubernetes-helm-and-ingress-cp5)
-- [Mastering C# Fundamentals: Creating Objects](https://dev.to/moh_moh701/mastering-c-fundamentals-creating-objects-p1m)
-- [principios y objetivos](https://dev.to/milagros_claudiamamanic/principios-y-objetivos-3j70)
-- [Self-hosted alternative to Heroku - Ptah.sh](https://dev.to/b_shulha/self-hosted-alternative-to-heroku-ptahsh-17m5)
+- [GitLab, Azure, OpenTofu, and NO secrets!](https://dev.to/rokicool/gitlab-azure-opentofu-and-no-secrets-38o6)
+- [Understanding Express Routes, Controllers, and Services: A Beginner&#39;s Guide - Node.js Tutorial - Part 12](https://dev.to/hakimmohamed/understanding-express-routes-controllers-and-services-a-beginners-guide-nodejs-tutorial-part-12-2cd4)
+- [Best Practices for SEO Optimization in Next.js Applications](https://dev.to/seyedahmaddv/best-practices-for-seo-optimization-in-nextjs-applications-iad)
+- [Alien Fugitive](https://dev.to/chooking/alien-fugitive-4g8f)
 <!-- BLOG-POST-LIST:END -->
 
