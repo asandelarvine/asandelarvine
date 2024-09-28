@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Testable Facade in Laravel](https://dev.to/clintwinter/creating-a-testable-facade-in-laravel-55ei)
-- [Pacotes e o Acesso a Membros](https://dev.to/devsjavagirls/pacotes-e-o-acesso-a-membros-1gif)
-- [Google Directions Script](https://dev.to/max_kleiner_9d12e786b3ecc/google-directions-script-31ee)
-- [Exemplo Breve de Pacote](https://dev.to/devsjavagirls/exemplo-breve-de-pacote-4khd)
+- [Alien Themed Space Shooter Game](https://dev.to/shraddha063/alien-themed-space-shooter-game-1lg7)
+- [Access IRIS database with ODBC or JDBC using Python](https://dev.to/intersystems/access-iris-database-with-odbc-or-jdbc-using-python-54ok)
+- [Terraform - Kong API Gateway deployment in Kubernetes](https://dev.to/binoy_59380e698d318/terraform-kong-api-gateway-deployment-in-kubernetes-3513)
+- [Galaxy Animation](https://dev.to/babar_ali/galaxy-animation-4loi)
 <!-- BLOG-POST-LIST:END -->
 
