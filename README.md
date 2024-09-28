@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing: Why Developers Need to Start Paying Attention](https://dev.to/hikolakita/quantum-computing-why-developers-need-to-start-paying-attention-30e1)
-- [Convert your Figma design to code using Dualite](https://dev.to/dualitedev/convert-your-figma-design-to-code-using-dualite-4leh)
-- [YT for Coding Prep](https://dev.to/sarthakkarora/yt-for-coding-prep-4kjk)
-- [Understanding Maximum Width Classes in Tailwind CSS](https://dev.to/susheel_kumar/understanding-maximum-width-classes-in-tailwind-css-59fe)
+- [useActionState: Streamlining React Form State Management 🔄](https://dev.to/charliesay/useactionstate-streamlining-react-form-state-management-f1e)
+- [How to add Google ReCAPTCHA in your React website](https://dev.to/kurtchan/how-to-add-google-recaptcha-in-your-react-website-3380)
+- [Smart Architectural Visions concept with AI🔥](https://dev.to/okibayu/smart-architectural-visions-concept-with-ai-41ad)
+- [The truth about test coverage](https://dev.to/cadienvan/the-truth-about-test-coverage-3gko)
 <!-- BLOG-POST-LIST:END -->
 
