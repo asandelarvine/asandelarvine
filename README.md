@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State Management in React Using MobX State Tree &lpar;MST&rpar;](https://dev.to/khairahscorner/state-management-in-react-using-mobx-state-tree-mst-4mmc)
-- [Week 1 - 42 Berlin Piscine](https://dev.to/lara_dev/week-1-42-berlin-piscine-ppc)
-- [Frontend Developer Guideline: A Quick Start for Beginners](https://dev.to/programchimp/frontend-developer-guideline-a-quick-start-for-beginners-9pg)
-- [Call Stack in JavaScript](https://dev.to/ramya_srim/call-stack-in-javascript-518d)
+- [Migrations in Laravel](https://dev.to/uthman_ehsan_23f3a68c03d7/migrations-in-laravel-4k52)
+- [Develop a system that monitors a log file located on a remote server, similar to the Unix command tail -f.](https://dev.to/codewithved/develop-a-system-that-monitors-a-log-file-located-on-a-remote-server-similar-to-the-unix-command-tail-f-545b)
+- [Json Lottie Animations &amp; Custom Error Pages in Nuxt](https://dev.to/elifnurturk/json-lottie-animations-custom-error-pages-in-nuxt-472n)
+- [Demystifying XDR for MSPs: A Practical Guide](https://dev.to/donesrom/demystifying-xdr-for-msps-a-practical-guide-496o)
 <!-- BLOG-POST-LIST:END -->
 
