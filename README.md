@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [https://dev.to/junejuan01/comment/2id99](https://dev.to/junejuan01/httpsdevtojunejuan01comment2id99-3gl7)
-- [Automate Deployment to AWS App Runner Using Terraform](https://dev.to/aws-builders/automate-deployment-to-aws-app-runner-using-terraform-4oo9)
-- [What’s a Progressive Web App &lpar;PWA&rpar;, Anyway?](https://dev.to/dev_frank/whats-a-progressive-web-app-pwa-anyway-1pnl)
-- [MySQL Basics: Understanding Isolation Level and Transaction Anomalies](https://dev.to/ronnychen/mysql-basics-understanding-isolation-level-and-transaction-anomalies-4ec6)
+- [React Performance Optimization Techniques Part 1](https://dev.to/anasmustafa123/react-performance-optimization-techniques-part-1-3a96)
+- [Code Complexity Pro: Conquering Multi-File Support and Error Chaos!](https://dev.to/msaluja/code-complexity-pro-conquering-multi-file-support-and-error-chaos-78f)
+- [Shell Scripting Mastery: 5 Essential Labs for Aspiring Developers](https://dev.to/labex/shell-scripting-mastery-5-essential-labs-for-aspiring-developers-3h3l)
+- [Creating Temporary URLs for Local Files in Laravel](https://dev.to/kachkolasa/creating-temporary-urls-for-local-files-in-laravel-15o9)
 <!-- BLOG-POST-LIST:END -->
 
