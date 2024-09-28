@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Java Classes: A Comprehensive Guide with Examples](https://dev.to/javadevone/understanding-java-classes-a-comprehensive-guide-with-examples-44f2)
-- [🚀 Introducing ScaleNext: A Modern and Scalable Next.js Boilerplate for Your SaaS Project](https://dev.to/pedropini/introducing-scalenext-a-modern-and-scalable-nextjs-boilerplate-for-your-saas-project-156j)
-- [React Native Developers Are Done](https://dev.to/evotik/react-native-developers-are-done-4no9)
-- [Week 4: Lab 4 merge branches](https://dev.to/mpalhutchinson/week-4-lab-4-merge-branches-4bop)
+- [Fast-forward and three-way merges](https://dev.to/sych_andrii/fast-forward-and-three-way-merges-3kl5)
+- [System design common pointers](https://dev.to/prashantrmishra/system-design-common-pointers-29b8)
+- [Tackling Merges, Conflicts, and New Features in ReadCraft](https://dev.to/tasbi03/tackling-merges-conflicts-and-new-features-in-readcraft-7jd)
+- [Como fazer deploy no vercel com o seu app web flutter](https://dev.to/devsnorte/como-fazer-deploy-no-vercel-com-o-seu-app-web-flutter-3o43)
 <!-- BLOG-POST-LIST:END -->
 
