@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Performance Optimization Techniques Part 1](https://dev.to/anasmustafa123/react-performance-optimization-techniques-part-1-3a96)
-- [Code Complexity Pro: Conquering Multi-File Support and Error Chaos!](https://dev.to/msaluja/code-complexity-pro-conquering-multi-file-support-and-error-chaos-78f)
-- [Shell Scripting Mastery: 5 Essential Labs for Aspiring Developers](https://dev.to/labex/shell-scripting-mastery-5-essential-labs-for-aspiring-developers-3h3l)
-- [Creating Temporary URLs for Local Files in Laravel](https://dev.to/kachkolasa/creating-temporary-urls-for-local-files-in-laravel-15o9)
+- [If You Can Answer These 7 Concepts Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-net-2le4)
+- [Unleashing the Power of Google&#39;s Vertex AI Prompt Optimizer](https://dev.to/agagag/unleashing-the-power-of-googles-vertex-ai-prompt-optimizer-3860)
+- [libaloo &lpar;Aloo&rpar;](https://dev.to/bhjaipal/libaloo-aloo-2aba)
+- [Introduction to V0: Vercel’s UI Generative AI Framework](https://dev.to/gimkelum/introduction-to-v0-vercels-ui-generative-ai-framework-4315)
 <!-- BLOG-POST-LIST:END -->
 
