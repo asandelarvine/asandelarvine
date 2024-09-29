@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wahoo and the Art of Programming: A Game of Strategy and Code](https://dev.to/wbgp/wahoo-and-the-art-of-programming-a-game-of-strategy-and-code-74j)
-- [[Apache Superset] Topic #1, What is Apache Superset used for and how to install it on Windows 11](https://dev.to/ngtduc693/apache-superset-topic-1-what-is-apache-superset-used-for-and-how-to-install-it-on-windows-11-118n)
-- [Create a Windows Virtual Machine in the Azure portal. Step-by-Step Guide](https://dev.to/romanus_onyekwere/create-a-windows-virtual-machine-in-the-azure-portal-step-by-step-guide-136)
-- [Introduction to Firebase Authentication](https://dev.to/kartikmehta8/introduction-to-firebase-authentication-2kah)
+- [Hello Everyone Out There Using LaTeX -](https://dev.to/crisclacerda/hello-everyone-out-there-using-latex--3344)
+- [&#39;EventTarget&#39; is not assignable to parameter of type &#39;Node&#39;](https://dev.to/turingvangisms/eventtarget-is-not-assignable-to-parameter-of-type-node-231c)
+- [i made a website to track AI open source developers and project](https://dev.to/jamie_h/i-made-a-website-to-track-ai-open-source-developers-and-project-1iik)
+- [Search-35. Search Insert Position](https://dev.to/daniel20030312/search-35-search-insert-position-1g5g)
 <!-- BLOG-POST-LIST:END -->
 
