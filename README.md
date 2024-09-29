@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source WYSIWYG text editor component built with Tailwind CSS and Flowbite](https://dev.to/themesberg/open-source-wysiwyg-text-editor-component-built-with-tailwind-css-and-flowbite-5a0)
-- [About AWS AI Practitioner &lpar;Beta&rpar; Exam](https://dev.to/aws-builders/about-aws-ai-practitioner-beta-exam-21e4)
-- [Build ReAct Agents using SLMs from Scratch](https://dev.to/akshayballal/build-react-agents-using-slms-from-scratch-4877)
-- [GBase 8a MPP Cluster Performance Optimization](https://dev.to/congcong/gbase-8a-mpp-cluster-performance-optimization-2hoa)
+- [Blocking malicious open source dependencies in pull requests with Minder and OSV.dev](https://dev.to/brian_dussault/blocking-malicious-open-source-dependencies-in-pull-requests-with-minder-and-osvdev-1ddj)
+- [Why Apache Spark RDD is immutable?](https://dev.to/luminousmen/why-apache-spark-rdd-is-immutable-2e1i)
+- [Native iOS App Updater in Flutter: How Zomato, Swiggy, and Others Do It](https://dev.to/djsmk123/native-ios-app-updater-in-flutter-how-zomato-swiggy-and-others-do-it-g5p)
+- [.NET Aspire and Dapr. Overlap or complementary?](https://dev.to/tommasodotnet/net-aspire-and-dapr-overlap-or-complementary-1beb)
 <!-- BLOG-POST-LIST:END -->
 
