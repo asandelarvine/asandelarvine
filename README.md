@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling JWT Authentications Securely: Pitfalls and Best Practices](https://dev.to/saaransh_gupta_1903/handling-jwt-authentications-securely-pitfalls-and-best-practices-j94)
-- [Free Lunch? Nah, Just Free Gas&quot;: The Art of Sponsoring Transactions on Aptos](https://dev.to/atharva3000/free-lunch-nah-just-free-gas-the-art-of-sponsoring-transactions-on-aptos-2bhl)
-- [Unlock the Blockchain: A Comprehensive Journey](https://dev.to/getvm/unlock-the-blockchain-a-comprehensive-journey-4ncp)
-- [15+ Top React Header Components to use in 2024](https://dev.to/tailwindcss/15-top-react-header-components-to-use-in-2024-2adk)
+- [A Comprehensive Guide to Azure Logic Apps: Automating Workflows in the Cloud](https://dev.to/hitesh_dhamecha_9c59b7c12/a-comprehensive-guide-to-azure-logic-apps-automating-workflows-in-the-cloud-ajb)
+- [Save Time on Firebase &amp; Stripe Integration for Your Flutter Web App](https://dev.to/laurence_wayne_cc19b50370/save-time-on-firebase-stripe-integration-for-your-flutter-web-app-3f3b)
+- [REACT x FLASK setup](https://dev.to/marlonmunoz/react-x-flask-setup-3cm2)
+- [Book: A Philosophy of Software Design](https://dev.to/airtucha/book-a-philosophy-of-software-design-2je1)
 <!-- BLOG-POST-LIST:END -->
 
