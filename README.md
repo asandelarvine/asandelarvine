@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Azure Logic Apps: Automating Workflows in the Cloud](https://dev.to/hitesh_dhamecha_9c59b7c12/a-comprehensive-guide-to-azure-logic-apps-automating-workflows-in-the-cloud-ajb)
-- [Save Time on Firebase &amp; Stripe Integration for Your Flutter Web App](https://dev.to/laurence_wayne_cc19b50370/save-time-on-firebase-stripe-integration-for-your-flutter-web-app-3f3b)
-- [REACT x FLASK setup](https://dev.to/marlonmunoz/react-x-flask-setup-3cm2)
-- [Book: A Philosophy of Software Design](https://dev.to/airtucha/book-a-philosophy-of-software-design-2je1)
+- [Why is impossible to have a clean architecture inside a frontend project](https://dev.to/kelvinwieth/why-is-impossible-to-have-a-clean-architecture-inside-a-frontend-project-f8f)
+- [Mentoring: Pay It Forward](https://dev.to/chukwuma1976/mentoring-pay-it-forward-iad)
+- [10 Next-Gen Technologies Secretly Shaping the Future &lpar;But Nobody Knows About Yet&rpar; 🚀🔬](https://dev.to/lokesh_singh/10-next-gen-technologies-secretly-shaping-the-future-but-nobody-knows-about-yet-2719)
+- [CVE Search Tools](https://dev.to/ugo/cve-search-tools-44oe)
 <!-- BLOG-POST-LIST:END -->
 
