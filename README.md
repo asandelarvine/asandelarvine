@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Everyone Out There Using LaTeX -](https://dev.to/crisclacerda/hello-everyone-out-there-using-latex--3344)
-- [&#39;EventTarget&#39; is not assignable to parameter of type &#39;Node&#39;](https://dev.to/turingvangisms/eventtarget-is-not-assignable-to-parameter-of-type-node-231c)
-- [i made a website to track AI open source developers and project](https://dev.to/jamie_h/i-made-a-website-to-track-ai-open-source-developers-and-project-1iik)
-- [Search-35. Search Insert Position](https://dev.to/daniel20030312/search-35-search-insert-position-1g5g)
+- [Angular Query in route guards](https://dev.to/jyjor/angular-query-in-route-guards-1ofh)
+- [Linux Programming Practices: A Comprehensive Collection](https://dev.to/labex/linux-programming-practices-a-comprehensive-collection-448f)
+- [property &#39;target&#39; does not exist on type &#39;HTMLInputElement&#39;](https://dev.to/turingvangisms/property-target-does-not-exist-on-type-htmlinputelement-1cgo)
+- [Mi Nuevo Post](https://dev.to/luis_yaez_209e96433ce8b6/mi-nuevo-post-4e65)
 <!-- BLOG-POST-LIST:END -->
 
