@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Website Hacking Tool](https://dev.to/trixsec/automated-website-hacking-tool-5ab3)
-- [Masking in SQL](https://dev.to/mrcaption49/masking-in-sql-45i7)
-- [Should you use 3rd party AI services or build your own as an AI Developer?](https://dev.to/ngtduc693/should-you-use-3rd-party-ai-services-or-build-your-own-as-an-ai-developer-540k)
-- [How to Create Virtual Environments in Python](https://dev.to/mohsin_rashid_13537f11a91/how-to-create-virtual-environments-in-python-2fjh)
+- [Is there are any mods/plugins to convert old &quot;/particle&quot; to new automatically?](https://dev.to/acesswhale/is-there-are-any-modsplugins-to-convert-old-particle-to-new-automatically-380l)
+- [5 Best Open-Source No-Code Tools for Project Management](https://dev.to/nocobase/5-best-open-source-no-code-tools-for-project-management-4p)
+- [Essential Monitoring and Logging Tools for Node.js Applications](https://dev.to/adityabhuyan/essential-monitoring-and-logging-tools-for-nodejs-applications-12p5)
+- [Using AsyncLocalStorage for Better Traceability in NodeJS Applications](https://dev.to/kaeruct/using-asynclocalstorage-for-better-traceability-in-nodejs-applications-322o)
 <!-- BLOG-POST-LIST:END -->
 
