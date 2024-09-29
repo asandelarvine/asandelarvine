@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronously Iterating Over Event Emitters in TypeScript with Async Generators](https://dev.to/redjohnsh/asynchronously-iterating-over-event-emitters-in-typescript-with-async-generators-3mk)
-- [Using Redis for Caching in Laravel: A Step-by-Step Guide](https://dev.to/charliet1802/using-redis-for-caching-in-laravel-a-step-by-step-guide-3j4h)
-- [HTTP Basic Auth Explained](https://dev.to/timo_reusch/http-basic-auth-explained-4pnn)
-- [Insights do IBM FinOps Day: Transformando a Gestão Financeira na Era da Nuvem](https://dev.to/technerdsup/insights-do-ibm-finops-day-transformando-a-gestao-financeira-na-era-da-nuvem-361i)
+- [Definition of Terms](https://dev.to/kennyig/definition-of-terms-4514)
+- [IEnumerable&lt;IService&gt; Dependency Injection with Strategy Pattern and Factory Method in .NET Core](https://dev.to/marriea/ienumerable-dependency-injection-with-strategy-pattern-and-factory-method-in-net-core-19ej)
+- [WebForms Core Technology in Rust, Ruby, Swift, GO, R, Elixir](https://dev.to/elanatframework/webforms-core-technology-in-rust-ruby-swift-go-r-elixir-28fl)
+- [Understanding Garbage Collection in .NET: How to Optimize Memory Management](https://dev.to/leandroveiga/understanding-garbage-collection-in-net-how-to-optimize-memory-management-3cj2)
 <!-- BLOG-POST-LIST:END -->
 
