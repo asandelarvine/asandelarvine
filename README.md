@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to automatically create S3 lifecycles using AWS CLI and AWS SDK](https://dev.to/haintkit/how-to-automatically-create-s3-lifecycles-using-aws-cli-and-aws-sdk-3kib)
-- [Welcome to My Cybersecurity Journey: A Beginner’s Guide to Cybersecurity](https://dev.to/akansh_pandeyap_041d5b/welcome-to-my-cybersecurity-journey-a-beginners-guide-to-cybersecurity-2e98)
-- [Product and landing page improvements, meeting makers in Lisbon, and organizing a Hackathon ✨](https://dev.to/andrecasal/product-and-landing-page-improvements-meeting-makers-in-lisbon-and-organizing-a-hackathon-2nmg)
-- [My Journey to DP-900 &amp; DP-203 Certifications](https://dev.to/sphesihle_ndlovu/my-journey-to-dp-900-dp-203-certifications-4chj)
+- [Git Merge and Git Rebase](https://dev.to/mrcaption49/git-merge-and-git-rebase-36)
+- [One-Byte Explainer: Excalibur.JS](https://dev.to/excaliburjs/one-byte-explainer-excaliburjs-2187)
+- [DAILY COMMUNITY: A New Social Network Every Single Day!](https://dev.to/web4/daily-community-a-new-social-network-every-single-day-m53)
+- [The Home Server Journey - 5: Rebuilding Burned Bridges](https://dev.to/ancapepe/the-home-server-journey-5-rebuilding-burned-bridges-6n7)
 <!-- BLOG-POST-LIST:END -->
 
