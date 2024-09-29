@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Query in route guards](https://dev.to/jyjor/angular-query-in-route-guards-1ofh)
-- [Linux Programming Practices: A Comprehensive Collection](https://dev.to/labex/linux-programming-practices-a-comprehensive-collection-448f)
-- [property &#39;target&#39; does not exist on type &#39;HTMLInputElement&#39;](https://dev.to/turingvangisms/property-target-does-not-exist-on-type-htmlinputelement-1cgo)
-- [Mi Nuevo Post](https://dev.to/luis_yaez_209e96433ce8b6/mi-nuevo-post-4e65)
+- [15+ Top React Header Components to use in 2024](https://dev.to/tailwindcss/15-top-react-header-components-to-use-in-2024-2adk)
+- [Block-Level Elements VS Inline Elements](https://dev.to/sudhanshu_developer/block-level-elements-vs-inline-elements-4noj)
+- [Cursor in PLSQL - Best Explanation](https://dev.to/mrcaption49/cursor-in-plsql-best-explanation-413l)
+- [Isolate Workloads with Kubernetes Namespaces](https://dev.to/labex/isolate-workloads-with-kubernetes-namespaces-25g8)
 <!-- BLOG-POST-LIST:END -->
 
