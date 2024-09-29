@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blocking malicious open source dependencies in pull requests with Minder and OSV.dev](https://dev.to/brian_dussault/blocking-malicious-open-source-dependencies-in-pull-requests-with-minder-and-osvdev-1ddj)
-- [Why Apache Spark RDD is immutable?](https://dev.to/luminousmen/why-apache-spark-rdd-is-immutable-2e1i)
-- [Native iOS App Updater in Flutter: How Zomato, Swiggy, and Others Do It](https://dev.to/djsmk123/native-ios-app-updater-in-flutter-how-zomato-swiggy-and-others-do-it-g5p)
-- [.NET Aspire and Dapr. Overlap or complementary?](https://dev.to/tommasodotnet/net-aspire-and-dapr-overlap-or-complementary-1beb)
+- [My post post](https://dev.to/sourabh7iwari_39/my-post-post-1o74)
+- [Concurrencia en AWS Lambda](https://dev.to/kcatucuamba/concurrencia-en-aws-lambda-ap2)
+- [Mastering Conditional Expressions in Terraform](https://dev.to/sre_panchanan/mastering-conditional-expressions-in-terraform-11a2)
+- [Merge Two Sorted Lists](https://dev.to/seokjeon/merge-two-sorted-lists-4dkp)
 <!-- BLOG-POST-LIST:END -->
 
