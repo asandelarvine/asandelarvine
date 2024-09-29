@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there are any mods/plugins to convert old &quot;/particle&quot; to new automatically?](https://dev.to/acesswhale/is-there-are-any-modsplugins-to-convert-old-particle-to-new-automatically-380l)
-- [5 Best Open-Source No-Code Tools for Project Management](https://dev.to/nocobase/5-best-open-source-no-code-tools-for-project-management-4p)
-- [Essential Monitoring and Logging Tools for Node.js Applications](https://dev.to/adityabhuyan/essential-monitoring-and-logging-tools-for-nodejs-applications-12p5)
-- [Using AsyncLocalStorage for Better Traceability in NodeJS Applications](https://dev.to/kaeruct/using-asynclocalstorage-for-better-traceability-in-nodejs-applications-322o)
+- [Open-source WYSIWYG text editor component built with Tailwind CSS and Flowbite](https://dev.to/themesberg/open-source-wysiwyg-text-editor-component-built-with-tailwind-css-and-flowbite-5a0)
+- [About AWS AI Practitioner &lpar;Beta&rpar; Exam](https://dev.to/aws-builders/about-aws-ai-practitioner-beta-exam-21e4)
+- [Build ReAct Agents using SLMs from Scratch](https://dev.to/akshayballal/build-react-agents-using-slms-from-scratch-4877)
+- [GBase 8a MPP Cluster Performance Optimization](https://dev.to/congcong/gbase-8a-mpp-cluster-performance-optimization-2hoa)
 <!-- BLOG-POST-LIST:END -->
 
