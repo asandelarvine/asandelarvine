@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is impossible to have a clean architecture inside a frontend project](https://dev.to/kelvinwieth/why-is-impossible-to-have-a-clean-architecture-inside-a-frontend-project-f8f)
-- [Mentoring: Pay It Forward](https://dev.to/chukwuma1976/mentoring-pay-it-forward-iad)
-- [10 Next-Gen Technologies Secretly Shaping the Future &lpar;But Nobody Knows About Yet&rpar; 🚀🔬](https://dev.to/lokesh_singh/10-next-gen-technologies-secretly-shaping-the-future-but-nobody-knows-about-yet-2719)
-- [CVE Search Tools](https://dev.to/ugo/cve-search-tools-44oe)
+- [Automated Website Hacking Tool](https://dev.to/trixsec/automated-website-hacking-tool-5ab3)
+- [Masking in SQL](https://dev.to/mrcaption49/masking-in-sql-45i7)
+- [Should you use 3rd party AI services or build your own as an AI Developer?](https://dev.to/ngtduc693/should-you-use-3rd-party-ai-services-or-build-your-own-as-an-ai-developer-540k)
+- [How to Create Virtual Environments in Python](https://dev.to/mohsin_rashid_13537f11a91/how-to-create-virtual-environments-in-python-2fjh)
 <!-- BLOG-POST-LIST:END -->
 
