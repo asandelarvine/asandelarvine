@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Merge and Git Rebase](https://dev.to/mrcaption49/git-merge-and-git-rebase-36)
-- [One-Byte Explainer: Excalibur.JS](https://dev.to/excaliburjs/one-byte-explainer-excaliburjs-2187)
-- [DAILY COMMUNITY: A New Social Network Every Single Day!](https://dev.to/web4/daily-community-a-new-social-network-every-single-day-m53)
-- [The Home Server Journey - 5: Rebuilding Burned Bridges](https://dev.to/ancapepe/the-home-server-journey-5-rebuilding-burned-bridges-6n7)
+- [Come learn the basics of Python with me starting with Variables](https://dev.to/abeck617/come-learn-the-basics-of-python-with-me-starting-with-variables-8co)
+- [TIL: Understanding Design Ideation](https://dev.to/apatel-ai/til-understanding-design-ideation-4a0a)
+- [432. All O`one Data Structure](https://dev.to/mdarifulhaque/432-all-oone-data-structure-5374)
+- [Coletando e Tratando os Dados Climáticos do INMET-BDMEP](https://dev.to/dankkom/coletando-e-tratando-os-dados-climaticos-do-inmet-bdmep-1f8l)
 <!-- BLOG-POST-LIST:END -->
 
