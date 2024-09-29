@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien Defender Game](https://dev.to/dhanushnehru/alien-defender-game-l0)
-- [Nuke: Deploy Helm package locally &lpar;special guest, GitVersion&rpar;](https://dev.to/raulnq/nuke-deploy-helm-package-locally-special-guest-gitversion-efo)
-- [Crypt::OpenSSL::PKCS12 1.93 released to CPAN](https://dev.to/jonasbn/cryptopensslpkcs12-193-released-to-cpan-5hio)
-- [How to Use CSS Properly: Best Practices for Clean and Efficient Styling](https://dev.to/pellenilsen/how-to-use-css-properly-best-practices-for-clean-and-efficient-styling-1j5c)
+- [How to automatically create S3 lifecycles using AWS CLI and AWS SDK](https://dev.to/haintkit/how-to-automatically-create-s3-lifecycles-using-aws-cli-and-aws-sdk-3kib)
+- [Welcome to My Cybersecurity Journey: A Beginner’s Guide to Cybersecurity](https://dev.to/akansh_pandeyap_041d5b/welcome-to-my-cybersecurity-journey-a-beginners-guide-to-cybersecurity-2e98)
+- [Product and landing page improvements, meeting makers in Lisbon, and organizing a Hackathon ✨](https://dev.to/andrecasal/product-and-landing-page-improvements-meeting-makers-in-lisbon-and-organizing-a-hackathon-2nmg)
+- [My Journey to DP-900 &amp; DP-203 Certifications](https://dev.to/sphesihle_ndlovu/my-journey-to-dp-900-dp-203-certifications-4chj)
 <!-- BLOG-POST-LIST:END -->
 
