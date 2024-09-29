@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Mastering AWS S3 with the CLI: A Simple Guide to Creating &amp; Managing Buckets 💻](https://dev.to/elmorjanimohamed/mastering-aws-s3-with-the-cli-a-simple-guide-to-creating-managing-buckets-42k)
-- [Binary Encoding: The Key to Computer Communication](https://dev.to/ebad8931/binary-encoding-the-key-to-computer-communication-1kc)
-- [Getting Smart About AI](https://dev.to/banta/getting-smart-about-ai-2nhe)
-- [Navigation Lens](https://dev.to/babar_ali/navigation-lens-57je)
+- [Asynchronously Iterating Over Event Emitters in TypeScript with Async Generators](https://dev.to/redjohnsh/asynchronously-iterating-over-event-emitters-in-typescript-with-async-generators-3mk)
+- [Using Redis for Caching in Laravel: A Step-by-Step Guide](https://dev.to/charliet1802/using-redis-for-caching-in-laravel-a-step-by-step-guide-3j4h)
+- [HTTP Basic Auth Explained](https://dev.to/timo_reusch/http-basic-auth-explained-4pnn)
+- [Insights do IBM FinOps Day: Transformando a Gestão Financeira na Era da Nuvem](https://dev.to/technerdsup/insights-do-ibm-finops-day-transformando-a-gestao-financeira-na-era-da-nuvem-361i)
 <!-- BLOG-POST-LIST:END -->
 
