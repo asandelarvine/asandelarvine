@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Disable HTML codes without deleting](https://dev.to/yasminsardar/how-to-disable-html-codes-without-deleting-48fm)
-- [Continuous Testing in DevOps: Best Practices](https://dev.to/aswani25/continuous-testing-in-devops-best-practices-4mha)
-- [How to Become a Software Architect](https://dev.to/marrouchi/how-to-become-a-software-architect-4ci0)
-- [StudyHelper - my new pet project&lpar;Telegram bot&rpar;](https://dev.to/mezgoodle/studyhelper-my-new-pet-projecttelegram-bot-3f41)
+- [SQL 101: Introduction to Structured Query Language](https://dev.to/kibowen_8/sql-101-introduction-to-sql-46en)
+- [SQL 101: Introduction to Structured Query Language](https://dev.to/edvichuki/sql-101-introduction-to-structured-query-language-fb6)
+- [Functions in PL/SQL](https://dev.to/mrcaption49/functions-in-plsql-2h61)
+- [Alien-Invasion-Defense](https://dev.to/yakhilesh/alien-invasion-defense-18e7)
 <!-- BLOG-POST-LIST:END -->
 
