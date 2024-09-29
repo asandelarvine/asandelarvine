@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL 101: Introduction to Structured Query Language](https://dev.to/kibowen_8/sql-101-introduction-to-sql-46en)
-- [SQL 101: Introduction to Structured Query Language](https://dev.to/edvichuki/sql-101-introduction-to-structured-query-language-fb6)
-- [Functions in PL/SQL](https://dev.to/mrcaption49/functions-in-plsql-2h61)
-- [Alien-Invasion-Defense](https://dev.to/yakhilesh/alien-invasion-defense-18e7)
+- [Alien Defender Game](https://dev.to/dhanushnehru/alien-defender-game-l0)
+- [Nuke: Deploy Helm package locally &lpar;special guest, GitVersion&rpar;](https://dev.to/raulnq/nuke-deploy-helm-package-locally-special-guest-gitversion-efo)
+- [Crypt::OpenSSL::PKCS12 1.93 released to CPAN](https://dev.to/jonasbn/cryptopensslpkcs12-193-released-to-cpan-5hio)
+- [How to Use CSS Properly: Best Practices for Clean and Efficient Styling](https://dev.to/pellenilsen/how-to-use-css-properly-best-practices-for-clean-and-efficient-styling-1j5c)
 <!-- BLOG-POST-LIST:END -->
 
