@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling JWT Authentications Securely: Pitfalls and Best Practices](https://dev.to/saaransh_gupta_1903/handling-jwt-authentications-securely-pitfalls-and-best-practices-j94)
+- [Free Lunch? Nah, Just Free Gas&quot;: The Art of Sponsoring Transactions on Aptos](https://dev.to/atharva3000/free-lunch-nah-just-free-gas-the-art-of-sponsoring-transactions-on-aptos-2bhl)
+- [Unlock the Blockchain: A Comprehensive Journey](https://dev.to/getvm/unlock-the-blockchain-a-comprehensive-journey-4ncp)
 - [15+ Top React Header Components to use in 2024](https://dev.to/tailwindcss/15-top-react-header-components-to-use-in-2024-2adk)
-- [Block-Level Elements VS Inline Elements](https://dev.to/sudhanshu_developer/block-level-elements-vs-inline-elements-4noj)
-- [Cursor in PLSQL - Best Explanation](https://dev.to/mrcaption49/cursor-in-plsql-best-explanation-413l)
-- [Isolate Workloads with Kubernetes Namespaces](https://dev.to/labex/isolate-workloads-with-kubernetes-namespaces-25g8)
 <!-- BLOG-POST-LIST:END -->
 
