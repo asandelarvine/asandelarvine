@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Come learn the basics of Python with me starting with Variables](https://dev.to/abeck617/come-learn-the-basics-of-python-with-me-starting-with-variables-8co)
-- [TIL: Understanding Design Ideation](https://dev.to/apatel-ai/til-understanding-design-ideation-4a0a)
-- [432. All O`one Data Structure](https://dev.to/mdarifulhaque/432-all-oone-data-structure-5374)
-- [Coletando e Tratando os Dados Climáticos do INMET-BDMEP](https://dev.to/dankkom/coletando-e-tratando-os-dados-climaticos-do-inmet-bdmep-1f8l)
+- [Answer: Shopify GraphQL API Pagination Stuck in Infinite Loop with Same `endCursor`](https://dev.to/nirmalsankalana/answer-shopify-graphql-api-pagination-stuck-in-infinite-loop-with-same-endcursor-3b4c)
+- [Neural Networks - One Byte Explainer](https://dev.to/pragadeeshnehru/neural-networks-one-byte-explainer-2cki)
+- [Are you sure You can get 90%+ score?](https://dev.to/areeb_anwar_813df06ee1124/are-you-sure-you-can-get-90-score-108h)
+- [GRU in PyTorch](https://dev.to/hyperkai/gru-in-pytorch-4l7d)
 <!-- BLOG-POST-LIST:END -->
 
