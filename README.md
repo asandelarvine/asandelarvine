@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Positional Encoding: Adding Sequence Awareness to Transformers](https://dev.to/nareshnishad/positional-encoding-adding-sequence-awareness-to-transformers-24pg)
-- [Make yourself remarkable](https://dev.to/gabrielski/make-yourself-remarkable-3fe6)
-- [A video summary app using just nextjs + sqlite](https://dev.to/martin2844/a-video-summary-app-using-just-nextjs-sqlite-271m)
-- [Creating Virtual Machine In Azure.](https://dev.to/nne/creating-virtual-machine-in-azure-186)
+- [🚀 Mastering AWS S3 with the CLI: A Simple Guide to Creating &amp; Managing Buckets 💻](https://dev.to/elmorjanimohamed/mastering-aws-s3-with-the-cli-a-simple-guide-to-creating-managing-buckets-42k)
+- [Binary Encoding: The Key to Computer Communication](https://dev.to/ebad8931/binary-encoding-the-key-to-computer-communication-1kc)
+- [Getting Smart About AI](https://dev.to/banta/getting-smart-about-ai-2nhe)
+- [Navigation Lens](https://dev.to/babar_ali/navigation-lens-57je)
 <!-- BLOG-POST-LIST:END -->
 
