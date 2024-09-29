@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer: Shopify GraphQL API Pagination Stuck in Infinite Loop with Same `endCursor`](https://dev.to/nirmalsankalana/answer-shopify-graphql-api-pagination-stuck-in-infinite-loop-with-same-endcursor-3b4c)
-- [Neural Networks - One Byte Explainer](https://dev.to/pragadeeshnehru/neural-networks-one-byte-explainer-2cki)
-- [Are you sure You can get 90%+ score?](https://dev.to/areeb_anwar_813df06ee1124/are-you-sure-you-can-get-90-score-108h)
-- [GRU in PyTorch](https://dev.to/hyperkai/gru-in-pytorch-4l7d)
+- [Positional Encoding: Adding Sequence Awareness to Transformers](https://dev.to/nareshnishad/positional-encoding-adding-sequence-awareness-to-transformers-24pg)
+- [Make yourself remarkable](https://dev.to/gabrielski/make-yourself-remarkable-3fe6)
+- [A video summary app using just nextjs + sqlite](https://dev.to/martin2844/a-video-summary-app-using-just-nextjs-sqlite-271m)
+- [Creating Virtual Machine In Azure.](https://dev.to/nne/creating-virtual-machine-in-azure-186)
 <!-- BLOG-POST-LIST:END -->
 
