@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Ethereum: Rollups as the Solution to Blockchain’s Trilemma](https://dev.to/aryathisside/scaling-ethereum-rollups-as-the-solution-to-blockchains-trilemma-2680)
-- [Implementing Breadcrumbs in React using React Router v6](https://dev.to/bayo99/implementing-breadcrumbs-in-react-using-react-router-v6-363o)
-- [GitLab, Azure, OpenTofu, and NO secrets!](https://dev.to/rokicool/gitlab-azure-opentofu-and-no-secrets-38o6)
-- [Understanding Express Routes, Controllers, and Services: A Beginner&#39;s Guide - Node.js Tutorial - Part 12](https://dev.to/hakimmohamed/understanding-express-routes-controllers-and-services-a-beginners-guide-nodejs-tutorial-part-12-2cd4)
+- [Wahoo and the Art of Programming: A Game of Strategy and Code](https://dev.to/wbgp/wahoo-and-the-art-of-programming-a-game-of-strategy-and-code-74j)
+- [[Apache Superset] Topic #1, What is Apache Superset used for and how to install it on Windows 11](https://dev.to/ngtduc693/apache-superset-topic-1-what-is-apache-superset-used-for-and-how-to-install-it-on-windows-11-118n)
+- [Create a Windows Virtual Machine in the Azure portal. Step-by-Step Guide](https://dev.to/romanus_onyekwere/create-a-windows-virtual-machine-in-the-azure-portal-step-by-step-guide-136)
+- [Introduction to Firebase Authentication](https://dev.to/kartikmehta8/introduction-to-firebase-authentication-2kah)
 <!-- BLOG-POST-LIST:END -->
 
