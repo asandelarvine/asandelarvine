@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of AI on Coding and Development: Will the Trend Continue?](https://dev.to/content/the-impact-of-ai-on-coding-and-development-will-the-trend-continue-54ch)
-- [🍏 If I Got a New Mac, Here&#39;s What I&#39;d Install First as a DevOps Engineer 🧑‍💻](https://dev.to/ptuladhar3/if-i-got-a-new-mac-heres-what-id-install-first-as-a-devops-engineer-3nec)
-- [Monday Motivation: Turning the Page](https://dev.to/gregharis/monday-motivation-turning-the-page-5f4i)
-- [Building Forger AI: Craft Cold-Emails with the Precision of Yor!](https://dev.to/juanitacathy/building-forger-ai-craft-cold-emails-with-the-precision-of-yor-1o0l)
+- [Configuring .env file remotely on your VPS](https://dev.to/elifnurturk/configuring-env-file-remotely-on-your-vps-56o1)
+- [How to Connect GitHub Repo to VPS Server](https://dev.to/elifnurturk/how-to-connect-github-repo-to-vps-server-4jph)
+- [Troubleshooting GBase 8c Database Scaling Failure](https://dev.to/congcong/troubleshooting-gbase-8c-database-scaling-failure-25f9)
+- [On Python&#39;s @property decorator](https://dev.to/tmarice/on-pythons-property-decorator-el5)
 <!-- BLOG-POST-LIST:END -->
 
