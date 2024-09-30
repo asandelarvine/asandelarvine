@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multithreading : Key Concepts for Engineers - Part 1](https://dev.to/anwaar/multithreading-key-concepts-for-engineers-part-1-4g73)
-- [Disadvantages of the Open/Closed Principle&lpar;OCP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/disadvantages-of-the-openclosed-principleocp-3dgo)
-- [How ChatGPT generates human-like text?](https://dev.to/xaviernishanth/how-chatgpt-generates-human-like-text-4bo1)
-- [Master Git with this Cheatsheet for Beginners...](https://dev.to/xaviernishanth/master-git-with-this-cheatsheet-for-beginners-3j9o)
+- [PCA vs. t-SNE: Unveiling the Best Dimensionality Reduction Technique for Your Data](https://dev.to/sreeni5018/pca-vs-t-sne-unveiling-the-best-dimensionality-reduction-technique-for-your-data-ekc)
+- [XKCD App](https://dev.to/armadillomike/xkcd-app-2mjl)
+- [Why Traditional Bake Times Are Wasteful: Embrace Purposeful Baking with Model-Based Testing](https://dev.to/boris_burakovski_c7420552/why-traditional-bake-times-are-wasteful-embrace-purposeful-baking-with-model-based-testing-3287)
+- [Building Code Grader Feedback System Using Meta LLaMA and Naga AI API](https://dev.to/rajendrakhanal/building-code-grader-feedback-system-using-meta-llama-and-naga-ai-api-194n)
 <!-- BLOG-POST-LIST:END -->
 
