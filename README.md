@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Best AI Girlfriend Apps: Your Virtual Companion Awaits](https://dev.to/aitoolsreview/discover-the-best-ai-girlfriend-apps-your-virtual-companion-awaits-2nm)
-- [Breakthrough!!](https://dev.to/raveenaa_m_df8e2d38bd1352/breakthrough-4ac9)
-- [GCP Global Infrastructure](https://dev.to/2nguyenlong000k/gcp-global-infrastructure-44k6)
-- [Boletín AWS Open Source, September Edition](https://dev.to/iaasgeek/boletin-aws-open-source-september-edition-3ca2)
+- [6 Underrated Developer Tools That Will Blow Your Mind](https://dev.to/safdarali/6-underrated-developer-tools-that-will-blow-your-mind-3e35)
+- [🚀 Mastering AWS Interoperability: Why Amazon S3 is Essential for DevOps Success](https://dev.to/francotel/mastering-aws-interoperability-why-amazon-s3-is-essential-for-devops-success-466h)
+- [Exploring the New Features of Keras 3.0 with CNNs on Fashion MNIST](https://dev.to/ahirtonlopes/exploring-the-new-features-of-keras-30-with-cnns-on-fashion-mnist-1l0j)
+- [How to Consolidate Multiple PostgreSQL Databases into a Single Database Using Debezium, Kafka, and Power BI for Analytics](https://dev.to/seewhy/how-to-consolidate-multiple-postgresql-databases-into-a-single-database-using-debezium-kafka-and-power-bi-for-analytics-de8)
 <!-- BLOG-POST-LIST:END -->
 
