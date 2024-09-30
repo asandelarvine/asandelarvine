@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Definition of Terms](https://dev.to/kennyig/definition-of-terms-4514)
-- [IEnumerable&lt;IService&gt; Dependency Injection with Strategy Pattern and Factory Method in .NET Core](https://dev.to/marriea/ienumerable-dependency-injection-with-strategy-pattern-and-factory-method-in-net-core-19ej)
-- [WebForms Core Technology in Rust, Ruby, Swift, GO, R, Elixir](https://dev.to/elanatframework/webforms-core-technology-in-rust-ruby-swift-go-r-elixir-28fl)
-- [Understanding Garbage Collection in .NET: How to Optimize Memory Management](https://dev.to/leandroveiga/understanding-garbage-collection-in-net-how-to-optimize-memory-management-3cj2)
+- [Multithreading : Key Concepts for Engineers - Part 1](https://dev.to/anwaar/multithreading-key-concepts-for-engineers-part-1-4g73)
+- [Disadvantages of the Open/Closed Principle&lpar;OCP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/disadvantages-of-the-openclosed-principleocp-3dgo)
+- [How ChatGPT generates human-like text?](https://dev.to/xaviernishanth/how-chatgpt-generates-human-like-text-4bo1)
+- [Master Git with this Cheatsheet for Beginners...](https://dev.to/xaviernishanth/master-git-with-this-cheatsheet-for-beginners-3j9o)
 <!-- BLOG-POST-LIST:END -->
 
