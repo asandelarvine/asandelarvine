@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data Structures and Algorithms: The Quest Begins](https://dev.to/emmanuelayinde/introduction-to-data-structures-and-algorithms-the-quest-begins-26jn)
-- [How User Manipulation Can Affect Google’s Advertising Model](https://dev.to/aashwinkumar/how-user-manipulation-can-affect-googles-advertising-model-jji)
-- [Streamline File Uploads in NestJS: Efficient In-Memory Parsing for CSV &amp; XLSX Without Disk Storage](https://dev.to/damir_maham/streamline-file-uploads-in-nestjs-efficient-in-memory-parsing-for-csv-xlsx-without-disk-storage-145g)
-- [Ubuntu 上安装和配置 PocketBase 指南](https://dev.to/twillot_app/ubuntu-shang-an-zhuang-he-pei-zhi-pocketbase-zhi-nan-nbk)
+- [Go Basics: Why nil Slices accept new values, but nil Maps don&#39;t](https://dev.to/sai7xp/go-basics-why-nil-slices-accept-new-values-but-nil-maps-dont-23l0)
+- [eBPF Development Practice: Modifying System Call Arguments with eBPF](https://dev.to/yunwei37/ebpf-development-practice-modifying-system-call-arguments-with-ebpf-2ill)
+- [AIM Weekly from 30 September 2024](https://dev.to/tspannhw/aim-weekly-from-30-september-2024-143b)
+- [Gear Up for Hacktoberfest: IIT Mandi Students Empowering Open Source, Together!](https://dev.to/luv_sharma_cfa5d80d379937/gear-up-for-hacktoberfest-iit-mandi-students-empowering-open-source-together-64d)
 <!-- BLOG-POST-LIST:END -->
 
