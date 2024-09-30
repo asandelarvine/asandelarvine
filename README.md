@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace Duplicate Digits in Every 9-digit Number in a Text File with Non-duplicate Ones #eg52](https://dev.to/esproc_spl/replace-duplicate-digits-in-every-9-digit-number-in-a-text-file-with-non-duplicate-ones-2a7m)
-- [Stay ahead in web development: latest news, tools, and insights #52](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-52-4kmm)
-- [Build a Web Game: Alien Repair Service](https://dev.to/greyh_/build-a-web-game-alien-repair-service-221a)
-- [VIDEO: Getting Started with Novu](https://dev.to/novu/video-getting-started-with-novu-5ahm)
+- [React Concurrent Mode: Optimizing React Performance](https://dev.to/usman_awan/react-concurrent-mode-optimizing-react-performance-1dn0)
+- [Explore bootstrap 5 components](https://dev.to/codeparrot/explore-bootstrap-5-components-24m3)
+- [JUST: do it](https://dev.to/giuliano1993/just-do-it-321a)
+- [PostgreSQL and DbVisualizer for Better Inventory Management](https://dev.to/dbvismarketing/postgresql-and-dbvisualizer-for-better-inventory-management-2k6h)
 <!-- BLOG-POST-LIST:END -->
 
