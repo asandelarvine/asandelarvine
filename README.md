@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#01 - How to learn Git from scratch](https://dev.to/brunodevphp/how-to-learn-git-from-scratch-3eh1)
-- [Shhhhh....the Library Project](https://dev.to/codecara/shhhhhthe-library-project-25g1)
-- [eBPF Tutorial by Example 21: Programmable Packet Processing with XDP](https://dev.to/yunwei37/ebpf-tutorial-by-example-21-programmable-packet-processing-with-xdp-47f7)
-- [Concurrency vs Parallelism](https://dev.to/niteshoak/concurrency-vs-parallelism-24bb)
+- [Discover the Best AI Girlfriend Apps: Your Virtual Companion Awaits](https://dev.to/aitoolsreview/discover-the-best-ai-girlfriend-apps-your-virtual-companion-awaits-2nm)
+- [Breakthrough!!](https://dev.to/raveenaa_m_df8e2d38bd1352/breakthrough-4ac9)
+- [GCP Global Infrastructure](https://dev.to/2nguyenlong000k/gcp-global-infrastructure-44k6)
+- [Boletín AWS Open Source, September Edition](https://dev.to/iaasgeek/boletin-aws-open-source-september-edition-3ca2)
 <!-- BLOG-POST-LIST:END -->
 
