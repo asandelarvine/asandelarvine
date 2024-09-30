@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RailsDesigners.com: Elite Ruby on Rails Product Engineers &amp; UI Designers](https://dev.to/railsdesigner/railsdesignerscom-elite-ruby-on-rails-product-engineers-ui-designers-1ihp)
-- [Hiring Superstitions: Things that aren’t a thing](https://dev.to/adatole/hiring-superstitions-things-that-arent-a-thing-1pep)
-- [What are your goals for week 40? HacktoberFest!](https://dev.to/jarvisscript/what-are-your-goals-for-week-40-hacktoberfest-58df)
-- [Mantine UI: A Complete Guide to Building Modern Web Interfaces](https://dev.to/codeparrot/mantine-ui-a-complete-guide-to-building-modern-web-interfaces-5bk2)
+- [Red Teaming for Responsible AI](https://dev.to/snehaup1997/red-teaming-for-responsible-ai-fd4)
+- [Responsible AI 101](https://dev.to/snehaup1997/responsible-ai-101-55c0)
+- [Creating an AI Chatbot with CopilotKit: A Step-by-Step Guide Using Flask and React](https://dev.to/imabutahersiddik/creating-an-ai-chatbot-with-copilotkit-a-step-by-step-guide-using-flask-and-react-4eon)
+- [25 Most Common Kubernetes Errors and How to Solve Them](https://dev.to/nagateja939/25-most-common-kubernetes-errors-and-how-to-solve-them-4hc)
 <!-- BLOG-POST-LIST:END -->
 
