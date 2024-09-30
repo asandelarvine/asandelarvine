@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time Operating System &lpar;RTOS&rpar;: Pros &amp; Cons](https://dev.to/kyanondigital/real-time-operating-system-rtos-pros-cons-4l5b)
-- [Building Scalable Architectures with Spring Boot and Kubernetes](https://dev.to/virajlakshitha/building-scalable-architectures-with-spring-boot-and-kubernetes-22lg)
-- [Maximize Vercel&#39;s FREE Plan: Enable Auto Deployment for All Members](https://dev.to/smy/maximize-vercels-free-plan-enable-auto-deployment-for-all-members-33ei)
-- [Promises vs. Async/Await: What&#39;s the Difference?🤔](https://dev.to/ajitkushawaha/promises-vs-asyncawait-whats-the-difference-2hh2)
+- [10 Best API Tools for QA Engineers](https://dev.to/apilover/top-10-api-tools-every-qa-engineer-should-know-about-4alc)
+- [Mis primeras 3 lecciones como Arquitecto de Soluciones](https://dev.to/boceto1/mis-primeras-3-lecciones-como-arquitecto-de-soluciones-38g)
+- [Provide storage for the IT department testing and training](https://dev.to/emmanuel_cobham/provide-storage-for-the-it-department-testing-and-training-301e)
+- [CTE](https://dev.to/mrcaption49/cte-3jhp)
 <!-- BLOG-POST-LIST:END -->
 
