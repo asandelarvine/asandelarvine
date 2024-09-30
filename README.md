@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PCA vs. t-SNE: Unveiling the Best Dimensionality Reduction Technique for Your Data](https://dev.to/sreeni5018/pca-vs-t-sne-unveiling-the-best-dimensionality-reduction-technique-for-your-data-ekc)
-- [XKCD App](https://dev.to/armadillomike/xkcd-app-2mjl)
-- [Why Traditional Bake Times Are Wasteful: Embrace Purposeful Baking with Model-Based Testing](https://dev.to/boris_burakovski_c7420552/why-traditional-bake-times-are-wasteful-embrace-purposeful-baking-with-model-based-testing-3287)
-- [Building Code Grader Feedback System Using Meta LLaMA and Naga AI API](https://dev.to/rajendrakhanal/building-code-grader-feedback-system-using-meta-llama-and-naga-ai-api-194n)
+- [Real-time Operating System &lpar;RTOS&rpar;: Pros &amp; Cons](https://dev.to/kyanondigital/real-time-operating-system-rtos-pros-cons-4l5b)
+- [Building Scalable Architectures with Spring Boot and Kubernetes](https://dev.to/virajlakshitha/building-scalable-architectures-with-spring-boot-and-kubernetes-22lg)
+- [Maximize Vercel&#39;s FREE Plan: Enable Auto Deployment for All Members](https://dev.to/smy/maximize-vercels-free-plan-enable-auto-deployment-for-all-members-33ei)
+- [Promises vs. Async/Await: What&#39;s the Difference?🤔](https://dev.to/ajitkushawaha/promises-vs-asyncawait-whats-the-difference-2hh2)
 <!-- BLOG-POST-LIST:END -->
 
