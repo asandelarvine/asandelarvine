@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring .env file remotely on your VPS](https://dev.to/elifnurturk/configuring-env-file-remotely-on-your-vps-56o1)
-- [How to Connect GitHub Repo to VPS Server](https://dev.to/elifnurturk/how-to-connect-github-repo-to-vps-server-4jph)
-- [Troubleshooting GBase 8c Database Scaling Failure](https://dev.to/congcong/troubleshooting-gbase-8c-database-scaling-failure-25f9)
-- [On Python&#39;s @property decorator](https://dev.to/tmarice/on-pythons-property-decorator-el5)
+- [How AI became my secret weapon for faster learning 🧠⚡️](https://dev.to/fullstacktanmay/how-ai-became-my-secret-weapon-for-faster-learning-23ni)
+- [100 Days of Servers Distributions- Days 4 and 100 Day 4 Introduction to Web Servers](https://dev.to/pirvanm/100-days-of-servers-distributions-days-4-and-100-day-4-introduction-to-web-servers-1m44)
+- [Understanding IAM Roles and Policies in AWS](https://dev.to/uendi_hoxha/understanding-iam-roles-and-policies-in-aws-7n1)
+- [Argo directory](https://dev.to/k8s_k8s_a1697aaf5bf8e7628/argo-directory-2f99)
 <!-- BLOG-POST-LIST:END -->
 
