@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI became my secret weapon for faster learning 🧠⚡️](https://dev.to/fullstacktanmay/how-ai-became-my-secret-weapon-for-faster-learning-23ni)
-- [100 Days of Servers Distributions- Days 4 and 100 Day 4 Introduction to Web Servers](https://dev.to/pirvanm/100-days-of-servers-distributions-days-4-and-100-day-4-introduction-to-web-servers-1m44)
-- [Understanding IAM Roles and Policies in AWS](https://dev.to/uendi_hoxha/understanding-iam-roles-and-policies-in-aws-7n1)
-- [Argo directory](https://dev.to/k8s_k8s_a1697aaf5bf8e7628/argo-directory-2f99)
+- [[DAY 118-122] I learned full-stack by building my 2nd app](https://dev.to/thomascansino/day-118-122-i-learned-full-stack-by-building-my-2nd-app-57g3)
+- [Understanding JavaScript Promises: A Comprehensive Guide 🚀](https://dev.to/fullstacktanmay/understanding-javascript-promises-a-comprehensive-guide-7)
+- [Fullstack app: Developing the Back-End with Spring Boot and PostgreSQL](https://dev.to/mspilari/fullstack-app-developing-the-back-end-with-spring-boot-and-postgresql-bbk)
+- [Diferentes Maneiras de Criar Eventos no Angular](https://dev.to/sougabriel_85/diferentes-maneiras-de-criar-eventos-no-angular-26hb)
 <!-- BLOG-POST-LIST:END -->
 
