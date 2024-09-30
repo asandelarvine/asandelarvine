@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Basics: Why nil Slices accept new values, but nil Maps don&#39;t](https://dev.to/sai7xp/go-basics-why-nil-slices-accept-new-values-but-nil-maps-dont-23l0)
-- [eBPF Development Practice: Modifying System Call Arguments with eBPF](https://dev.to/yunwei37/ebpf-development-practice-modifying-system-call-arguments-with-ebpf-2ill)
-- [AIM Weekly from 30 September 2024](https://dev.to/tspannhw/aim-weekly-from-30-september-2024-143b)
-- [Gear Up for Hacktoberfest: IIT Mandi Students Empowering Open Source, Together!](https://dev.to/luv_sharma_cfa5d80d379937/gear-up-for-hacktoberfest-iit-mandi-students-empowering-open-source-together-64d)
+- [Behavioural Interview Guidance](https://dev.to/akhil_mittal/behavioural-interview-guidance-2890)
+- [Mastering C# Fundamentals: static Keyword](https://dev.to/moh_moh701/mastering-c-fundamentals-static-keyword-3e86)
+- [How to Configure Multiple Conditions in Odoo XML Views](https://dev.to/jeevanizm/how-to-configure-multiple-conditions-in-odoo-xml-views-31na)
+- [One Tool to replace spreadsheets and more...](https://dev.to/itsmartindev/one-tool-to-replace-spreadsheets-and-more-33ok)
 <!-- BLOG-POST-LIST:END -->
 
