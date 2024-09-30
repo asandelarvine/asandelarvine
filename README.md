@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SS7 Attacks: Is Your Phone Really Safe?](https://dev.to/devded/ss7-attacks-is-your-phone-really-safe-2jk1)
-- [Full Stack Learning Management System &lpar;LMS&rpar; with MERN Stack: A Complete Guide](https://dev.to/nadim_ch0wdhury/full-stack-learning-management-system-lms-with-mern-stack-a-complete-guide-4dg0)
-- [[Jornada à física computacional] - Dia 2 / Iniciando estudos em C++](https://dev.to/matheusgb/jornada-a-fisica-computacional-dia-2-24k1)
-- [Como utilizar o Type aliases do Kotlin para facilitar o Design de Código](https://dev.to/jordihofc/como-utilizar-o-type-aliases-do-kotlin-para-facilitar-o-design-de-codigo-5baj)
+- [Introduction to Data Structures and Algorithms: The Quest Begins](https://dev.to/emmanuelayinde/introduction-to-data-structures-and-algorithms-the-quest-begins-26jn)
+- [How User Manipulation Can Affect Google’s Advertising Model](https://dev.to/aashwinkumar/how-user-manipulation-can-affect-googles-advertising-model-jji)
+- [Streamline File Uploads in NestJS: Efficient In-Memory Parsing for CSV &amp; XLSX Without Disk Storage](https://dev.to/damir_maham/streamline-file-uploads-in-nestjs-efficient-in-memory-parsing-for-csv-xlsx-without-disk-storage-145g)
+- [Ubuntu 上安装和配置 PocketBase 指南](https://dev.to/twillot_app/ubuntu-shang-an-zhuang-he-pei-zhi-pocketbase-zhi-nan-nbk)
 <!-- BLOG-POST-LIST:END -->
 
