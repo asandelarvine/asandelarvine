@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 118-122] I learned full-stack by building my 2nd app](https://dev.to/thomascansino/day-118-122-i-learned-full-stack-by-building-my-2nd-app-57g3)
-- [Understanding JavaScript Promises: A Comprehensive Guide 🚀](https://dev.to/fullstacktanmay/understanding-javascript-promises-a-comprehensive-guide-7)
-- [Fullstack app: Developing the Back-End with Spring Boot and PostgreSQL](https://dev.to/mspilari/fullstack-app-developing-the-back-end-with-spring-boot-and-postgresql-bbk)
-- [Diferentes Maneiras de Criar Eventos no Angular](https://dev.to/sougabriel_85/diferentes-maneiras-de-criar-eventos-no-angular-26hb)
+- [Why &quot;AI&quot; is the new &quot;sustainable&quot;](https://dev.to/ingosteinke/why-ai-is-the-new-sustainable-4a09)
+- [Understanding the + Operator in Java: String Concatenation, Arithmetic, and Common Pitfalls](https://dev.to/arshisaxena26/understanding-the-operator-in-java-string-concatenation-arithmetic-and-common-pitfalls-59bm)
+- [Boosting Manufacturing Efficiency: How AI Image Recognition Transforms Quality Control](https://dev.to/api4ai/boosting-manufacturing-efficiency-how-ai-image-recognition-transforms-quality-control-4j17)
+- [Blog Card Layout](https://dev.to/babar_ali/blog-card-layout-5332)
 <!-- BLOG-POST-LIST:END -->
 
