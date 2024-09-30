@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Huge milestone for our OSS analytics platform!](https://dev.to/litlyx/huge-milestone-for-our-oss-analytics-platform-3277)
-- [What Are the Best Tools and Practices for Building an SEO Agency Website?](https://dev.to/aldoushuxley/what-are-the-best-tools-and-practices-for-building-an-seo-agency-website-48p1)
-- [15 Tips for .NET 8 Microservices Performance Optimization](https://dev.to/viitorcloud/15-tips-for-net-8-microservices-performance-optimization-1b16)
-- [Let&#39;s create a simple React hook to detect browsers and their capabilities](https://dev.to/morewings/lets-create-a-simple-react-hook-to-detect-browsers-and-their-capabilities-4lnf)
+- [RailsDesigners.com: Elite Ruby on Rails Product Engineers &amp; UI Designers](https://dev.to/railsdesigner/railsdesignerscom-elite-ruby-on-rails-product-engineers-ui-designers-1ihp)
+- [Hiring Superstitions: Things that aren’t a thing](https://dev.to/adatole/hiring-superstitions-things-that-arent-a-thing-1pep)
+- [What are your goals for week 40? HacktoberFest!](https://dev.to/jarvisscript/what-are-your-goals-for-week-40-hacktoberfest-58df)
+- [Mantine UI: A Complete Guide to Building Modern Web Interfaces](https://dev.to/codeparrot/mantine-ui-a-complete-guide-to-building-modern-web-interfaces-5bk2)
 <!-- BLOG-POST-LIST:END -->
 
