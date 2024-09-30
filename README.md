@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Teaming for Responsible AI](https://dev.to/snehaup1997/red-teaming-for-responsible-ai-fd4)
-- [Responsible AI 101](https://dev.to/snehaup1997/responsible-ai-101-55c0)
-- [Creating an AI Chatbot with CopilotKit: A Step-by-Step Guide Using Flask and React](https://dev.to/imabutahersiddik/creating-an-ai-chatbot-with-copilotkit-a-step-by-step-guide-using-flask-and-react-4eon)
-- [25 Most Common Kubernetes Errors and How to Solve Them](https://dev.to/nagateja939/25-most-common-kubernetes-errors-and-how-to-solve-them-4hc)
+- [SS7 Attacks: Is Your Phone Really Safe?](https://dev.to/devded/ss7-attacks-is-your-phone-really-safe-2jk1)
+- [Full Stack Learning Management System &lpar;LMS&rpar; with MERN Stack: A Complete Guide](https://dev.to/nadim_ch0wdhury/full-stack-learning-management-system-lms-with-mern-stack-a-complete-guide-4dg0)
+- [[Jornada à física computacional] - Dia 2 / Iniciando estudos em C++](https://dev.to/matheusgb/jornada-a-fisica-computacional-dia-2-24k1)
+- [Como utilizar o Type aliases do Kotlin para facilitar o Design de Código](https://dev.to/jordihofc/como-utilizar-o-type-aliases-do-kotlin-para-facilitar-o-design-de-codigo-5baj)
 <!-- BLOG-POST-LIST:END -->
 
