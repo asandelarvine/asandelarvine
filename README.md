@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;AI&quot; is the new &quot;sustainable&quot;](https://dev.to/ingosteinke/why-ai-is-the-new-sustainable-4a09)
-- [Understanding the + Operator in Java: String Concatenation, Arithmetic, and Common Pitfalls](https://dev.to/arshisaxena26/understanding-the-operator-in-java-string-concatenation-arithmetic-and-common-pitfalls-59bm)
-- [Boosting Manufacturing Efficiency: How AI Image Recognition Transforms Quality Control](https://dev.to/api4ai/boosting-manufacturing-efficiency-how-ai-image-recognition-transforms-quality-control-4j17)
-- [Blog Card Layout](https://dev.to/babar_ali/blog-card-layout-5332)
+- [Huge milestone for our OSS analytics platform!](https://dev.to/litlyx/huge-milestone-for-our-oss-analytics-platform-3277)
+- [What Are the Best Tools and Practices for Building an SEO Agency Website?](https://dev.to/aldoushuxley/what-are-the-best-tools-and-practices-for-building-an-seo-agency-website-48p1)
+- [15 Tips for .NET 8 Microservices Performance Optimization](https://dev.to/viitorcloud/15-tips-for-net-8-microservices-performance-optimization-1b16)
+- [Let&#39;s create a simple React hook to detect browsers and their capabilities](https://dev.to/morewings/lets-create-a-simple-react-hook-to-detect-browsers-and-their-capabilities-4lnf)
 <!-- BLOG-POST-LIST:END -->
 
