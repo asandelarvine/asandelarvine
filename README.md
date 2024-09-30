@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best API Tools for QA Engineers](https://dev.to/apilover/top-10-api-tools-every-qa-engineer-should-know-about-4alc)
-- [Mis primeras 3 lecciones como Arquitecto de Soluciones](https://dev.to/boceto1/mis-primeras-3-lecciones-como-arquitecto-de-soluciones-38g)
-- [Provide storage for the IT department testing and training](https://dev.to/emmanuel_cobham/provide-storage-for-the-it-department-testing-and-training-301e)
-- [CTE](https://dev.to/mrcaption49/cte-3jhp)
+- [How to Handle the Startup Class When Migrating ASP.NET Core Projects](https://dev.to/canro91/how-to-handle-the-startup-class-when-migrating-aspnet-core-projects-12n7)
+- [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://dev.to/nickytonline/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0)
+- [Using Quill Rich Text Editor in the HTML Form element](https://dev.to/kohtet_gintoki/using-quill-rich-text-editor-in-the-html-form-element-2bh8)
+- [PIG GAME 🐗](https://dev.to/sanjaysah/pig-game-pde)
 <!-- BLOG-POST-LIST:END -->
 
