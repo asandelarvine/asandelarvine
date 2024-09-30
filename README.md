@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Behavioural Interview Guidance](https://dev.to/akhil_mittal/behavioural-interview-guidance-2890)
-- [Mastering C# Fundamentals: static Keyword](https://dev.to/moh_moh701/mastering-c-fundamentals-static-keyword-3e86)
-- [How to Configure Multiple Conditions in Odoo XML Views](https://dev.to/jeevanizm/how-to-configure-multiple-conditions-in-odoo-xml-views-31na)
-- [One Tool to replace spreadsheets and more...](https://dev.to/itsmartindev/one-tool-to-replace-spreadsheets-and-more-33ok)
+- [#30DaysofCode September: My journey to DSA Mastery](https://dev.to/akcumeh/30daysofcode-september-my-journey-to-dsa-mastery-647)
+- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-53j8)
+- [Day 21. Pagination](https://dev.to/kiolk/day-21-pagination-ohj)
+- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-1k1k)
 <!-- BLOG-POST-LIST:END -->
 
