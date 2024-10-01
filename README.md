@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to improve DORA metrics as a release engineer](https://dev.to/aviator_co/how-to-improve-dora-metrics-as-a-release-engineer-4and)
-- [Locking Mechanisms in High-Load Systems](https://dev.to/luminousmen/locking-mechanisms-in-high-load-systems-4jo3)
-- [Types of SSL Certificates](https://dev.to/shivamchamoli18/types-of-ssl-certificates-195c)
-- [Email Workflow Automation 101: Templates, Tools, and Best Practices](https://dev.to/idjuric660/email-workflow-automation-101-templates-tools-and-best-practices-1mna)
+- [Encore.ts — 3x faster than ElysiaJS &amp; Hono](https://dev.to/encore/encorets-3x-faster-than-elysiajs-hono-48hj)
+- [TypeScript: a new Frontier for Error Management](https://dev.to/paolimi/typescript-a-new-frontier-for-error-management-4li7)
+- [The Best Twitter Bookmarks Extension in 2025](https://dev.to/twillot_app/the-best-twitter-bookmarks-extension-in-2025-11gp)
+- [API Architecture: A Comprehensive Guide to: REST, SOAP, GraphQL, gRPC, and OData](https://dev.to/thedsdev/api-architecture-a-comprehensive-guide-to-rest-soap-graphql-grpc-and-odata-37di)
 <!-- BLOG-POST-LIST:END -->
 
