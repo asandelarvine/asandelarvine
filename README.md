@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Language Feature Deep Dive: Python&#39;s Structural Pattern Matching](https://dev.to/ratan_3511/language-feature-deep-dive-pythons-structural-pattern-matching-3ap4)
-- [Introduction to Genkit: Empowering AI Development with Firebase](https://dev.to/ankit_kumarverma_86a4f3d/introduction-to-genkit-empowering-ai-development-with-firebase-5dpc)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;23/09/2024-29/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-23092024-29092024-2b)
-- [Artificial Intelligence and Sustainability](https://dev.to/lolafarias/artificial-intelligence-and-sustainability-4faf)
+- [Scala vs. Java: The Superior Choice for Big Data and Machine Learning](https://dev.to/adityabhuyan/scala-vs-java-the-superior-choice-for-big-data-and-machine-learning-enm)
+- [Generate tags using gemini AI](https://dev.to/ugifractal/generate-tags-using-gemini-ai-1g5g)
+- [Productivity Hacks for Developers: Boost Your Efficiency](https://dev.to/ratan_3511/productivity-hacks-for-developers-boost-your-efficiency-4joa)
+- [Running a Discord Bot on Raspberry Pi](https://dev.to/beretests/running-a-discord-bot-on-raspberry-pi-4la4)
 <!-- BLOG-POST-LIST:END -->
 
