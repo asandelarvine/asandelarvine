@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to sq1: My basic HTML template](https://dev.to/mbarzeev/back-to-sq1-my-basic-html-template-4kbb)
-- [Creating a synchronized store between main and renderer process in Electron](https://dev.to/tsudhishnair/creating-a-synchronized-store-between-main-and-renderer-process-in-electron-5ao1)
-- [MongoDB made simple: a basic guide to get started](https://dev.to/mahugnon_dousso_545d2ca40/mongodb-made-simple-a-basic-guide-to-get-started-14b0)
-- [October: The Final Sprint - A Call to Maximize the Last 92 Days of 2024](https://dev.to/gregharis/october-the-final-sprint-a-call-to-maximize-the-last-92-days-of-2024-5hkh)
+- [How to improve DORA metrics as a release engineer](https://dev.to/aviator_co/how-to-improve-dora-metrics-as-a-release-engineer-4and)
+- [Locking Mechanisms in High-Load Systems](https://dev.to/luminousmen/locking-mechanisms-in-high-load-systems-4jo3)
+- [Types of SSL Certificates](https://dev.to/shivamchamoli18/types-of-ssl-certificates-195c)
+- [Email Workflow Automation 101: Templates, Tools, and Best Practices](https://dev.to/idjuric660/email-workflow-automation-101-templates-tools-and-best-practices-1mna)
 <!-- BLOG-POST-LIST:END -->
 
