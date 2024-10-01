@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Architecture](https://dev.to/meghasharmaaaa/devops-architecture-jn8)
-- [TableClient PropertyValueTooLarge exception message may be incorrect](https://dev.to/thomaseyde/tableclient-propertyvaluetoolarge-exception-message-may-be-incorrect-3n3j)
-- [Jenkins File Read Vulnerability - CVE-2024-23897](https://dev.to/verylazytech/jenkins-file-read-vulnerability-cve-2024-23897-1f31)
-- [Creating a Project from Start to Finish: A Step-by-Step Guide](https://dev.to/devincb93/creating-a-project-from-start-to-finish-a-step-by-step-guide-32l)
+- [Top 5 Cybersecurity Certifications to Boost Your Career](https://dev.to/trixsec/top-5-cybersecurity-certifications-to-boost-your-career-4n9j)
+- [Boost Your React Development with GraphQL and Codegen](https://dev.to/rijen_manandhar_e142720fb/boost-your-react-development-with-graphql-and-codegen-55p2)
+- [DevOps toolchain](https://dev.to/meghasharmaaaa/devops-toolchain-mlo)
+- [Why JavaScript is Not Just an Interpreted Language: Understanding JIT Compilation](https://dev.to/mubashir/why-javascript-is-not-just-an-interpreted-language-understanding-jit-compilation-4ehd)
 <!-- BLOG-POST-LIST:END -->
 
