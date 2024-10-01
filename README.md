@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 3 - Garbage collector e .h](https://dev.to/matheusgb/dia-3-garbage-collector-e-h-16o3)
-- [LeetCode #1. Two Sum](https://dev.to/hectorw_tt/leetcode-1-two-sum-3hp3)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-hi6)
-- [Vue3: directives — cheat sheet &lpar;built-in and custom&rpar; &lpar;en&rpar;](https://dev.to/sucodelarangela/vue3-directives-cheat-sheet-built-in-and-custom-en-35mh)
+- [LLM Coder Scorer：一个免费的 GitHub 代码打分工具](https://dev.to/twillot_app/llm-coder-scorer-ge-mian-fei-de-github-dai-ma-da-fen-gong-ju-1n66)
+- [queueMicroTask in JavaScript](https://dev.to/thinkthroo/queuemicrotask-in-javascript-11a8)
+- [Remember with useState: Store Your Variables in React’s Memory!](https://dev.to/sonaykara/remember-with-usestate-store-your-variables-in-reacts-memory-34pp)
+- [Building Offline-First Apps using React Native, React Query, and AsyncStorage](https://dev.to/msaadullah/building-offline-first-apps-using-react-native-react-query-and-asyncstorage-1h4i)
 <!-- BLOG-POST-LIST:END -->
 
