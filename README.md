@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First REST API in minutes using Zeromagic Flow Builder](https://dev.to/ndrohith/build-your-first-rest-api-in-minutes-using-zeromagic-flow-builder-5dn8)
-- [Build a Simple Link Checker Tool with HTML, CSS, and JavaScript](https://dev.to/babar_ali/build-a-simple-link-checker-tool-with-html-css-and-javascript-204c)
-- [Simplified: Javascript V8 engine ✨](https://dev.to/fullstacktanmay/simplified-javascript-v8-engine-249o)
-- [Say Hello to Flutter GPT: Your New Flutter Development Buddy 🚀](https://dev.to/sinnoorc/say-hello-to-flutter-gpt-your-new-flutter-development-buddy-3gl)
+- [Automating SharePoint Embedded: Using PowerShell to Call Graph API Endpoints](https://dev.to/jaloplo/automating-sharepoint-embedded-using-powershell-to-call-graph-api-endpoints-2nnp)
+- [Hello, World!](https://dev.to/turbold10/hello-world-3fpl)
+- [sql joins: moving in together](https://dev.to/ashleyd480/sql-joins-moving-in-together-1ol1)
+- [Back-End Development: Definition, Stats, &amp; Trends To Follow In 2024](https://dev.to/angelinajasper/back-end-development-definition-stats-trends-to-follow-in-2024-4f13)
 <!-- BLOG-POST-LIST:END -->
 
