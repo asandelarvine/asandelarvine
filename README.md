@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Use of Underscore &lpar;`_`&rpar; in JavaScript](https://dev.to/shashankpatil15/understanding-the-use-of-underscore-in-javascript-10fk)
-- [Building a User Feedback Form with Svelte and Perseid](https://dev.to/axi0m/building-a-user-feedback-form-with-svelte-and-perseid-30d5)
-- [Learn How to Creating a 3D Tesla Car Configurator with React, NextJS, and TypeScript: Part 1](https://dev.to/rajesh_edayangatt_a3d8f94/learn-how-to-creating-a-3d-tesla-car-configurator-with-react-nextjs-and-typescript-part-1-4c52)
-- [Provide storage for a new company app](https://dev.to/afeez_adeyemo/provide-storage-for-a-new-company-app-1j7a)
+- [Survey: C to Rust conversion and corresponding tools](https://dev.to/ayushi_sharma_4351fd303a7/survey-c-to-rust-conversion-and-corresponding-tools-1mge)
+- [10 HTML Features You Need to Know](https://dev.to/tinymce/10-html-features-you-need-to-know-5de7)
+- [Čuvanje Podataka u JavaScript-u](https://dev.to/jelena_petkovic/cuvanje-podataka-u-javascript-u-5hka)
+- [HacktoberFest: Feel free to contribute to my open source project.](https://dev.to/saahen_sriyan_mishra/hacktoberfest-feel-free-to-contribute-to-my-open-source-project-5fmi)
 <!-- BLOG-POST-LIST:END -->
 
