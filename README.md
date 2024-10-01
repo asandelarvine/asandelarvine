@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Survey: C to Rust conversion and corresponding tools](https://dev.to/ayushi_sharma_4351fd303a7/survey-c-to-rust-conversion-and-corresponding-tools-1mge)
-- [10 HTML Features You Need to Know](https://dev.to/tinymce/10-html-features-you-need-to-know-5de7)
-- [Čuvanje Podataka u JavaScript-u](https://dev.to/jelena_petkovic/cuvanje-podataka-u-javascript-u-5hka)
-- [HacktoberFest: Feel free to contribute to my open source project.](https://dev.to/saahen_sriyan_mishra/hacktoberfest-feel-free-to-contribute-to-my-open-source-project-5fmi)
+- [Chat GPT === hell ?](https://dev.to/ankit_rattan/chat-gpt-hell--26dn)
+- [Stored procedure in PLSQL](https://dev.to/mrcaption49/stored-procedure-in-plsql-57co)
+- [Harnessing the Cloud: Building Stunning Static Websites with AWS S3](https://dev.to/alex_cloud/harnessing-the-cloud-building-stunning-static-websites-with-aws-s3-493o)
+- [Calling Clojure from Java using a real example &lpar;Clojure + Quarkus&rpar;](https://dev.to/gcamargosilva/calling-clojure-from-java-real-example-clojure-quarkus-3dbl)
 <!-- BLOG-POST-LIST:END -->
 
