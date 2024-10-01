@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Cybersecurity Certifications to Boost Your Career](https://dev.to/trixsec/top-5-cybersecurity-certifications-to-boost-your-career-4n9j)
-- [Boost Your React Development with GraphQL and Codegen](https://dev.to/rijen_manandhar_e142720fb/boost-your-react-development-with-graphql-and-codegen-55p2)
-- [DevOps toolchain](https://dev.to/meghasharmaaaa/devops-toolchain-mlo)
-- [Why JavaScript is Not Just an Interpreted Language: Understanding JIT Compilation](https://dev.to/mubashir/why-javascript-is-not-just-an-interpreted-language-understanding-jit-compilation-4ehd)
+- [Back to sq1: My basic HTML template](https://dev.to/mbarzeev/back-to-sq1-my-basic-html-template-4kbb)
+- [Creating a synchronized store between main and renderer process in Electron](https://dev.to/tsudhishnair/creating-a-synchronized-store-between-main-and-renderer-process-in-electron-5ao1)
+- [MongoDB made simple: a basic guide to get started](https://dev.to/mahugnon_dousso_545d2ca40/mongodb-made-simple-a-basic-guide-to-get-started-14b0)
+- [October: The Final Sprint - A Call to Maximize the Last 92 Days of 2024](https://dev.to/gregharis/october-the-final-sprint-a-call-to-maximize-the-last-92-days-of-2024-5hkh)
 <!-- BLOG-POST-LIST:END -->
 
