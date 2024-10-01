@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Coder Scorer：一个免费的 GitHub 代码打分工具](https://dev.to/twillot_app/llm-coder-scorer-ge-mian-fei-de-github-dai-ma-da-fen-gong-ju-1n66)
-- [queueMicroTask in JavaScript](https://dev.to/thinkthroo/queuemicrotask-in-javascript-11a8)
-- [Remember with useState: Store Your Variables in React’s Memory!](https://dev.to/sonaykara/remember-with-usestate-store-your-variables-in-reacts-memory-34pp)
-- [Building Offline-First Apps using React Native, React Query, and AsyncStorage](https://dev.to/msaadullah/building-offline-first-apps-using-react-native-react-query-and-asyncstorage-1h4i)
+- [Redis caching with Mongoose](https://dev.to/ayanabilothman/redis-caching-with-mongoose-g5m)
+- [Supercharge Your ASP.NET Web API with Linq.Dynamic.Core](https://dev.to/penielx/supercharge-your-aspnet-web-api-with-linqdynamiccore-hml)
+- [Password Authentication with Auth.js in Astro and Customizing Session Information &lpar;auth-astro&rpar;](https://dev.to/koyopro/password-authentication-with-authjs-in-astro-and-customizing-session-information-auth-astro-1n4n)
+- [Congrats to the Winners of Our First Web Game Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-web-game-challenge-32co)
 <!-- BLOG-POST-LIST:END -->
 
