@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Orquestando Modelos: Machine Learning con Docker Compose](https://dev.to/yharyarias/orquestando-modelos-machine-learning-con-docker-compose-i31)
-- [Padrões de Desenvolvimento de APIs: Boas Práticas e Considerações](https://dev.to/alex_jossilva_380eeb63b/padroes-de-desenvolvimento-de-apis-boas-praticas-e-consideracoes-hgl)
-- [Building privatus: Day 2 - day 6](https://dev.to/ezpieco/building-privatus-day-2-day-6-4pe7)
-- [New Project: Public Interface Generator](https://dev.to/programmeral/new-project-public-interface-generator-2l29)
+- [Language Feature Deep Dive: Python&#39;s Structural Pattern Matching](https://dev.to/ratan_3511/language-feature-deep-dive-pythons-structural-pattern-matching-3ap4)
+- [Introduction to Genkit: Empowering AI Development with Firebase](https://dev.to/ankit_kumarverma_86a4f3d/introduction-to-genkit-empowering-ai-development-with-firebase-5dpc)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;23/09/2024-29/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-23092024-29092024-2b)
+- [Artificial Intelligence and Sustainability](https://dev.to/lolafarias/artificial-intelligence-and-sustainability-4faf)
 <!-- BLOG-POST-LIST:END -->
 
