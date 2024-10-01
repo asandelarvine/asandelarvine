@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Validators with ControlValueAccessor in Angular: Ensuring Robust Form Validations](https://dev.to/this-is-angular/custom-validators-with-controlvalueaccessor-in-angular-ensuring-robust-form-validations-4jgj)
-- [PACKAGES in PLSQL in detail](https://dev.to/mrcaption49/packages-in-plsql-in-detail-2gpa)
-- [FlyonUI - An Open Source Tailwind CSS Component Library is Live 🚀](https://dev.to/themeselection/flyonui-an-open-source-tailwind-css-component-library-is-live-32j7)
-- [Embracing Llamaindex](https://dev.to/flt_s3nyo/im-making-a-public-commitment-im-getting-involved-with-the-llamaindex-open-source-project-3mah)
+- [Building a Career through Open Source Contributions](https://dev.to/jaysaadana/building-a-career-through-open-source-contributions-4g2a)
+- [Ranking LLMs with Elo Ratings](https://dev.to/portkey/ranking-llms-with-elo-ratings-38g2)
+- [My Cloud Journey — Week 14: AWS Organizations, Governance &amp; Business-Centric Services!](https://dev.to/asif_khan/my-cloud-journey-week-14-aws-organizations-governance-business-centric-services-4ajj)
+- [ColBERT Live! Makes Your Vector Database Smarter](https://dev.to/datastax/colbert-live-makes-your-vector-database-smarter-2knm)
 <!-- BLOG-POST-LIST:END -->
 
