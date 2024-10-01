@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat GPT === hell ?](https://dev.to/ankit_rattan/chat-gpt-hell--26dn)
-- [Stored procedure in PLSQL](https://dev.to/mrcaption49/stored-procedure-in-plsql-57co)
-- [Harnessing the Cloud: Building Stunning Static Websites with AWS S3](https://dev.to/alex_cloud/harnessing-the-cloud-building-stunning-static-websites-with-aws-s3-493o)
-- [Calling Clojure from Java using a real example &lpar;Clojure + Quarkus&rpar;](https://dev.to/gcamargosilva/calling-clojure-from-java-real-example-clojure-quarkus-3dbl)
+- [Avoiding Frontend Development Failure: Proven Practices for Writing Clean Code](https://dev.to/paharihacker/avoiding-frontend-development-failure-proven-practices-for-writing-clean-code-1co6)
+- [Storage Solutions for Launching a New Company App](https://dev.to/tjasper/storage-solutions-for-launching-a-new-company-app-3aak)
+- [How to integrate Alerta into your Business](https://dev.to/vincentayorinde/how-to-integrate-alerta-into-your-business-2f4p)
+- [The Best Twitter Bookmarks Extension in 2025](https://dev.to/twillot_app/the-best-twitter-bookmarks-extension-in-2025-33ko)
 <!-- BLOG-POST-LIST:END -->
 
