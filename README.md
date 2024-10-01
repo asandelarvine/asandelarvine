@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Career through Open Source Contributions](https://dev.to/jaysaadana/building-a-career-through-open-source-contributions-4g2a)
-- [Ranking LLMs with Elo Ratings](https://dev.to/portkey/ranking-llms-with-elo-ratings-38g2)
-- [My Cloud Journey — Week 14: AWS Organizations, Governance &amp; Business-Centric Services!](https://dev.to/asif_khan/my-cloud-journey-week-14-aws-organizations-governance-business-centric-services-4ajj)
-- [ColBERT Live! Makes Your Vector Database Smarter](https://dev.to/datastax/colbert-live-makes-your-vector-database-smarter-2knm)
+- [Understanding the Use of Underscore &lpar;`_`&rpar; in JavaScript](https://dev.to/shashankpatil15/understanding-the-use-of-underscore-in-javascript-10fk)
+- [Building a User Feedback Form with Svelte and Perseid](https://dev.to/axi0m/building-a-user-feedback-form-with-svelte-and-perseid-30d5)
+- [Learn How to Creating a 3D Tesla Car Configurator with React, NextJS, and TypeScript: Part 1](https://dev.to/rajesh_edayangatt_a3d8f94/learn-how-to-creating-a-3d-tesla-car-configurator-with-react-nextjs-and-typescript-part-1-4c52)
+- [Provide storage for a new company app](https://dev.to/afeez_adeyemo/provide-storage-for-a-new-company-app-1j7a)
 <!-- BLOG-POST-LIST:END -->
 
