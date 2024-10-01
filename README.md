@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encore.ts — 3x faster than ElysiaJS &amp; Hono](https://dev.to/encore/encorets-3x-faster-than-elysiajs-hono-48hj)
-- [TypeScript: a new Frontier for Error Management](https://dev.to/paolimi/typescript-a-new-frontier-for-error-management-4li7)
-- [The Best Twitter Bookmarks Extension in 2025](https://dev.to/twillot_app/the-best-twitter-bookmarks-extension-in-2025-11gp)
-- [API Architecture: A Comprehensive Guide to: REST, SOAP, GraphQL, gRPC, and OData](https://dev.to/thedsdev/api-architecture-a-comprehensive-guide-to-rest-soap-graphql-grpc-and-odata-37di)
+- [Opening Our Hearts and Our Repo: Virtual Coffee&#39;s Journey to Open Source](https://dev.to/virtualcoffee/opening-our-hearts-and-our-repo-virtual-coffees-journey-to-open-source-4b6f)
+- [Optimizing Request Validation to External Systems Using Azure Services, Microservices, and Parallel Processing](https://dev.to/leandroveiga/optimizing-request-validation-to-external-systems-using-azure-services-microservices-and-parallel-processing-2img)
+- [Optimizing Angular Build Performance with Nx](https://dev.to/viitorcloud/optimizing-angular-build-performance-with-nx-3f8i)
+- [21 React Projects Too Awesome to Ignore](https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec)
 <!-- BLOG-POST-LIST:END -->
 
