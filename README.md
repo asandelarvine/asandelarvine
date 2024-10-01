@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs for Concurrent Rendering in React: Optimizing Asynchronous UI Updates](https://dev.to/usman_awan/apis-for-concurrent-rendering-in-react-optimizing-asynchronous-ui-updates-1eig)
-- [The quiet, pervasive devaluation of frontend](https://dev.to/cadienvan/the-quiet-pervasive-devaluation-of-frontend-26h7)
-- [10 AI Assistants for Frontend Developers That Will Change the Way You Code](https://dev.to/astrodevil/10-ai-assistants-for-frontend-developers-that-will-change-the-way-you-code-3fh4)
-- [MoonAlert A CSS Animated Moon Notification Box](https://dev.to/babar_ali/moonalert-a-css-animated-moon-notification-box-jl9)
+- [DevOps Architecture](https://dev.to/meghasharmaaaa/devops-architecture-jn8)
+- [TableClient PropertyValueTooLarge exception message may be incorrect](https://dev.to/thomaseyde/tableclient-propertyvaluetoolarge-exception-message-may-be-incorrect-3n3j)
+- [Jenkins File Read Vulnerability - CVE-2024-23897](https://dev.to/verylazytech/jenkins-file-read-vulnerability-cve-2024-23897-1f31)
+- [Creating a Project from Start to Finish: A Step-by-Step Guide](https://dev.to/devincb93/creating-a-project-from-start-to-finish-a-step-by-step-guide-32l)
 <!-- BLOG-POST-LIST:END -->
 
