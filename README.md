@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MultiChat AI: A Centralized Hub for Advanced AI Models](https://dev.to/malconm/multichat-ai-a-centralized-hub-for-advanced-ai-models-40cd)
-- [Unlocking the Power of Admin Templates](https://dev.to/jamescarter/unlocking-the-power-of-admin-templates-58jf)
-- [What are Financial Markets?](https://dev.to/igor1740/what-are-financial-markets-52ob)
-- [Overcoming the Overwhelm: How to Kickstart Your Next Project](https://dev.to/mdharoon/overcoming-the-overwhelm-how-to-kickstart-your-next-project-1ni1)
+- [Transformer in PyTorch](https://dev.to/hyperkai/transformer-in-pytorch-24ok)
+- [MLP-Mixer &lpar;Theory&rpar;](https://dev.to/igor1740/mlp-mixer-theory-2dje)
+- [How &lpar;Not&rpar; to Use Python’s Walrus Operator 🐍](https://dev.to/gajanan0707/how-not-to-use-pythons-walrus-operator-446n)
+- [Godot 3D Multiplayer Template: A Starting Point for Creating 3D Multiplayer Games](https://dev.to/devmoreir4/godot-3d-multiplayer-template-a-starting-point-for-creating-3d-multiplayer-games-22ca)
 <!-- BLOG-POST-LIST:END -->
 
