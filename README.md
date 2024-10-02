@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏪 Mengenal Laravel Staff: Request, Response, Views, And Validation](https://dev.to/__4ldyfwkymhmd/mengenal-laravel-staff-request-response-views-and-validation-1j0n)
-- [Data structures-1](https://dev.to/vishnu_prasath_a/data-structures-1-4fbi)
-- [Exception Handling in PL/SQL| RAISE_APPLICATION_ERROR | Part 2](https://dev.to/mrcaption49/e-5hfe)
-- [8 Must-Know Features of Artificial Intelligence for 2080](https://dev.to/timesofasi/8-must-know-features-of-artificial-intelligence-for-2080-3o97)
+- [How To Create a Zalando Scraper](https://dev.to/crawlbase/how-to-create-a-zalando-scraper-2hao)
+- [IN&lpar;&rpar; Index Scan in PostgreSQL 17 and YugabyteDB LSM Tree](https://dev.to/yugabyte/in-index-scan-in-postgresql-17-and-yugabytedb-lsm-tree-jci)
+- [Join us for The Pinata Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-pinata-challenge-3000-in-prizes-59cb)
+- [🚀 Level Up Your Cloud Skills: Join the CODE THEFT AUTO Challenge!](https://dev.to/giftedlane/level-up-your-cloud-skills-join-the-code-theft-auto-challenge-3cjg)
 <!-- BLOG-POST-LIST:END -->
 
