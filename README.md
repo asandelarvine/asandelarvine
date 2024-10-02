@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Share us your project for Hacktoberfest 2024! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2024-ppj)
-- [hi I&#39;m new here](https://dev.to/somewhere_behind_a_computer/hi-im-new-here-4bip)
-- [A Detailed Guide to Making Your First Pull Request for Hacktoberfest](https://dev.to/chidoziemanagwu/a-detailed-guide-to-making-your-first-pull-request-for-hacktoberfest-4ehp)
-- [queueMacroTask in React source code](https://dev.to/thinkthroo/queuemacrotask-in-react-source-code-17lg)
+- [Object-Oriented Programming: Your First Step Toward Mastering DSA](https://dev.to/emmanuelayinde/object-oriented-programming-your-first-step-toward-mastering-dsa-16a3)
+- [Streamline Test Writing with QodoAI](https://dev.to/thekarlesi/streamline-test-writing-with-qodoai-7ap)
+- [Dia 4 - Constructors, Destructors e LBM](https://dev.to/matheusgb/dia-4-constructors-destructors-e-lbm-3203)
+- [Introducing CUDE - All in one platform to protect your software intellectual properties &lpar;IP&rpar;.](https://dev.to/femalb/introducing-cude-all-in-one-platform-to-protect-your-software-intellectual-properties-4j1k)
 <!-- BLOG-POST-LIST:END -->
 
