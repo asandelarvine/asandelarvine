@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #187: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-187-explica-este-codigo-python-4f01)
-- [Unleash JavaScript&#39;s Potential with Functional Programming](https://dev.to/jancodes/unleash-javascripts-potential-with-functional-programming-4c2l)
-- [Mastering Date and Time in Java Spring Boot 🚀](https://dev.to/agitrubard/mastering-date-and-time-in-java-spring-boot-2b5d)
-- [Convert SVG into a 3D figure using React Three.js Fiber](https://dev.to/anapimolodec/convert-svg-into-a-3d-figure-using-react-threejs-fiber-33hc)
+- [🏪 Mengenal Laravel Staff: Request, Response, Views, And Validation](https://dev.to/__4ldyfwkymhmd/mengenal-laravel-staff-request-response-views-and-validation-1j0n)
+- [Data structures-1](https://dev.to/vishnu_prasath_a/data-structures-1-4fbi)
+- [Exception Handling in PL/SQL| RAISE_APPLICATION_ERROR | Part 2](https://dev.to/mrcaption49/e-5hfe)
+- [8 Must-Know Features of Artificial Intelligence for 2080](https://dev.to/timesofasi/8-must-know-features-of-artificial-intelligence-for-2080-3o97)
 <!-- BLOG-POST-LIST:END -->
 
