@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL ain&#39;t that Scary](https://dev.to/drsimplegraffiti/sql-aint-that-scary-18cn)
-- [Top 10 networking commands](https://dev.to/mrcaption49/top-10-networking-commands-163j)
-- [echo3D and Loci Partner to Simplify 3D Digital Asset Management with AI](https://dev.to/echo3d/echo3d-and-loci-partner-to-simplify-3d-digital-asset-management-with-ai-pln)
-- [Mastering Routing Protocols with Cisco Packet Tracer: A Learning Experience](https://dev.to/sanket_chaudhari/mastering-routing-protocols-with-cisco-packet-tracer-a-learning-experience-34e9)
+- [Kali Linux Basics: Your Gateway to Ethical Hacking](https://dev.to/s3cloudhub/kali-linux-basics-your-gateway-to-ethical-hacking-gma)
+- [Mastering JavaScript: 10 Best Practices for Writing Clean Code](https://dev.to/asimachowdhury/mastering-javascript-10-best-practices-for-writing-clean-code-3pfi)
+- [Top 5 AI Checker &amp; Detection Tools You Need to Try](https://dev.to/ai-info/top-5-ai-checker-detection-tools-you-need-to-try-3d48)
+- [A Deep Dive into React Server Components: What Frontend Developers Need to Know](https://dev.to/delia_code/a-deep-dive-into-react-server-components-what-frontend-developers-need-to-know-c6j)
 <!-- BLOG-POST-LIST:END -->
 
