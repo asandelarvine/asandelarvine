@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tenant -1, How I Would Have Built The Power Platform](https://dev.to/wyattdave/tenant-1-how-i-would-have-built-the-power-platform-49oo)
-- [GitHub Actions vs Jenkins: Which CI Tool is Best for Your Workflow?](https://dev.to/cicube/github-actions-vs-jenkins-which-ci-tool-is-best-for-your-workflow-m1)
-- [Find the First Non-Repeated Character in a String](https://dev.to/realnamehidden1_61/find-the-first-non-repeated-character-in-a-string-34nb)
-- [Troubleshooting PostgreSQL Low Free Memory](https://dev.to/metis/troubleshooting-postgresql-low-free-memory-2e4)
+- [Creational Design Patterns](https://dev.to/manojpatra1991/creational-design-patterns-4i80)
+- [Coding with Streams](https://dev.to/manojpatra1991/coding-with-streams-4gca)
+- [Asynchronous Control Flow Patterns](https://dev.to/manojpatra1991/asynchronous-control-flow-patterns-5358)
+- [Implementing Parallel Merge Sort: 25sec vs 1.5sec](https://dev.to/ssd/implementing-parallel-merge-sort-25sec-vs-15sec-3b8k)
 <!-- BLOG-POST-LIST:END -->
 
