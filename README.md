@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented Programming: Your First Step Toward Mastering DSA](https://dev.to/emmanuelayinde/object-oriented-programming-your-first-step-toward-mastering-dsa-16a3)
-- [Streamline Test Writing with QodoAI](https://dev.to/thekarlesi/streamline-test-writing-with-qodoai-7ap)
-- [Dia 4 - Constructors, Destructors e LBM](https://dev.to/matheusgb/dia-4-constructors-destructors-e-lbm-3203)
-- [Introducing CUDE - All in one platform to protect your software intellectual properties &lpar;IP&rpar;.](https://dev.to/femalb/introducing-cude-all-in-one-platform-to-protect-your-software-intellectual-properties-4j1k)
+- [How Analog is Revolutionizing Content-Driven Sites with Angular](https://dev.to/rajeshkumaryadavdotcom/how-analog-is-revolutionizing-content-driven-sites-with-angular-2l68)
+- [Taking the big leap of faith into tech](https://dev.to/rachelk22/taking-the-big-leap-of-faith-into-tech-16cc)
+- [VARRAY &lpar;Variable-size array&rpar; - Collection in PLSQL](https://dev.to/mrcaption49/varray-variable-size-array-collection-in-plsql-12fk)
+- [Mapa de Calor - Final da Copa do Mundo de 1970 &lpar;Brasil vs Itália&rpar;](https://dev.to/evertontenorio/mapa-de-calor-final-da-copa-do-mundo-de-1970-brasil-vs-italia-15d)
 <!-- BLOG-POST-LIST:END -->
 
