@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Analog is Revolutionizing Content-Driven Sites with Angular](https://dev.to/rajeshkumaryadavdotcom/how-analog-is-revolutionizing-content-driven-sites-with-angular-2l68)
-- [Taking the big leap of faith into tech](https://dev.to/rachelk22/taking-the-big-leap-of-faith-into-tech-16cc)
-- [VARRAY &lpar;Variable-size array&rpar; - Collection in PLSQL](https://dev.to/mrcaption49/varray-variable-size-array-collection-in-plsql-12fk)
-- [Mapa de Calor - Final da Copa do Mundo de 1970 &lpar;Brasil vs Itália&rpar;](https://dev.to/evertontenorio/mapa-de-calor-final-da-copa-do-mundo-de-1970-brasil-vs-italia-15d)
+- [How I Secured My Containerized Application Using Anchore &lpar;Day 29 Project&rpar;](https://dev.to/arbythecoder/how-i-secured-my-containerized-application-using-anchore-day-29-project-474l)
+- [System Design Fundamentals: A Complete Guide for Beginners](https://dev.to/kaustubhyerkade/system-design-fundamentals-a-complete-guide-for-beginners-3n95)
+- [Fundamentals of Computed Properties in Vue.js: Composition API](https://dev.to/sonaykara/computed-properties-in-vuejs-composition-api-2l7i)
+- [30 Frontend Interview Questions - TypeScript](https://dev.to/m_midas/30-frontend-interview-questions-typescript-12c2)
 <!-- BLOG-POST-LIST:END -->
 
