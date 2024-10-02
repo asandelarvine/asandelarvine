@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create a Zalando Scraper](https://dev.to/crawlbase/how-to-create-a-zalando-scraper-2hao)
-- [IN&lpar;&rpar; Index Scan in PostgreSQL 17 and YugabyteDB LSM Tree](https://dev.to/yugabyte/in-index-scan-in-postgresql-17-and-yugabytedb-lsm-tree-jci)
-- [Join us for The Pinata Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-pinata-challenge-3000-in-prizes-59cb)
-- [🚀 Level Up Your Cloud Skills: Join the CODE THEFT AUTO Challenge!](https://dev.to/giftedlane/level-up-your-cloud-skills-join-the-code-theft-auto-challenge-3cjg)
+- [16 Open-Source Projects to Improve Your Developer Workflow 👨‍💻🔥](https://dev.to/madza/16-open-source-projects-to-improve-your-developer-workflow-4498)
+- [Advanced Ts: Dependent parameters, inferred unions and a healthy interaction on Twitter.](https://dev.to/manuartero/advanced-ts-dependent-parameters-inferred-unions-and-a-healthy-interaction-on-twitter-13bc)
+- [Maximizing Your Salesforce QCP Potential: Overcoming the Character Limit Challenge](https://dev.to/rrosset91/maximizing-your-salesforce-qcp-potential-overcoming-the-character-limit-challenge-21g0)
+- [Angular&#39;s effect&lpar;&rpar;: Use Cases &amp; Enforced Asynchrony](https://dev.to/this-is-angular/angulars-effect-use-cases-enforced-asynchrony-4hb)
 <!-- BLOG-POST-LIST:END -->
 
