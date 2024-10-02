@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Actions Like a Pro: Reusable Workflows](https://dev.to/cicube/using-github-actions-like-a-pro-reusable-workflows-389e)
-- [Tauri adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/tauri-adoption-guide-overview-examples-and-alternatives-2plj)
-- [The Framework Overload Controversy: Are We Sacrificing Simplicity for Efficiency?](https://dev.to/niaxusweb/the-framework-overload-controversy-are-we-sacrificing-simplicity-for-efficiency-3c58)
-- [Is Trunk-Based Development the Future or Just Hype? - A Detailed Guide with Examples, Steps, and Simple Explanations](https://dev.to/narmidm/is-trunk-based-development-the-future-or-just-hype-a-detailed-guide-with-examples-steps-and-simple-explanations-533f)
+- [How to Schedule Workflows in GitHub Actions](https://dev.to/cicube/how-to-schedule-workflows-in-github-actions-1neb)
+- [Spring Boot Annotations Explained: 15 Essential Annotations You Should Know](https://dev.to/isaactony/spring-boot-annotations-explained-15-essential-annotations-you-should-know-mhp)
+- [Creating an NPM package that runs on command line with npx](https://dev.to/nausaf/creating-an-npm-package-that-runs-on-command-line-with-npx-9a0)
+- [Using Natural Language To Generate A Simple Python GUI With An LLM .... In Less Than 15 Minutes](https://dev.to/danielrosehill/using-natural-language-to-generate-a-simple-python-gui-with-an-llm-3d7l)
 <!-- BLOG-POST-LIST:END -->
 
