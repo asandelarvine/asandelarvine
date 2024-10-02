@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL 101: Introduction to Structured Query Language&lpar;SQL&rpar;](https://dev.to/chege10/sql-101-introduction-to-structured-query-languagesql-4ij9)
-- [Laravel Pipelines &amp; Composable Job Middleware](https://dev.to/dshafik/laravel-pipelines-composable-job-middleware-2n03)
-- [Kubernetes Secrets | Secure Data Management](https://dev.to/labex/kubernetes-secrets-secure-data-management-4p7e)
-- [Cyber Security Labs: Mastering Digital Defense and Ethical Hacking](https://dev.to/labex/cyber-security-labs-mastering-digital-defense-and-ethical-hacking-5h7h)
+- [Ibuprofeno.py💊| #187: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-187-explica-este-codigo-python-4f01)
+- [Unleash JavaScript&#39;s Potential with Functional Programming](https://dev.to/jancodes/unleash-javascripts-potential-with-functional-programming-4c2l)
+- [Mastering Date and Time in Java Spring Boot 🚀](https://dev.to/agitrubard/mastering-date-and-time-in-java-spring-boot-2b5d)
+- [Convert SVG into a 3D figure using React Three.js Fiber](https://dev.to/anapimolodec/convert-svg-into-a-3d-figure-using-react-threejs-fiber-33hc)
 <!-- BLOG-POST-LIST:END -->
 
