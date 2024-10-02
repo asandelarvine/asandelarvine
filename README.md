@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kali Linux Basics: Your Gateway to Ethical Hacking](https://dev.to/s3cloudhub/kali-linux-basics-your-gateway-to-ethical-hacking-gma)
-- [Mastering JavaScript: 10 Best Practices for Writing Clean Code](https://dev.to/asimachowdhury/mastering-javascript-10-best-practices-for-writing-clean-code-3pfi)
-- [Top 5 AI Checker &amp; Detection Tools You Need to Try](https://dev.to/ai-info/top-5-ai-checker-detection-tools-you-need-to-try-3d48)
-- [A Deep Dive into React Server Components: What Frontend Developers Need to Know](https://dev.to/delia_code/a-deep-dive-into-react-server-components-what-frontend-developers-need-to-know-c6j)
+- [Ultimate Apple Passwords User Guide](https://dev.to/corbado/ultimate-apple-passwords-user-guide-14a6)
+- [Dive into Open Source: Make Your Mark with Hacktoberfest 2024](https://dev.to/yaswanthteja/dive-into-open-source-make-your-mark-with-hacktoberfest-2024-2i38)
+- [An Engineer&#39;s Guide to Dating App Development: Features, Process, and Architecture](https://dev.to/patoliyainfotech/an-engineers-guide-to-dating-app-development-features-process-and-architecture-1bop)
+- [How to Use AWS Route 53 for Free](https://dev.to/s3cloudhub/how-to-use-aws-route-53-for-free-4g7d)
 <!-- BLOG-POST-LIST:END -->
 
