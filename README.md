@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformer in PyTorch](https://dev.to/hyperkai/transformer-in-pytorch-24ok)
-- [MLP-Mixer &lpar;Theory&rpar;](https://dev.to/igor1740/mlp-mixer-theory-2dje)
-- [How &lpar;Not&rpar; to Use Python’s Walrus Operator 🐍](https://dev.to/gajanan0707/how-not-to-use-pythons-walrus-operator-446n)
-- [Godot 3D Multiplayer Template: A Starting Point for Creating 3D Multiplayer Games](https://dev.to/devmoreir4/godot-3d-multiplayer-template-a-starting-point-for-creating-3d-multiplayer-games-22ca)
+- [Tailwind CSS: Custom Forms](https://dev.to/tailwine/tailwind-css-custom-forms-f6l)
+- [DevRel and Marketing: Building a Unified Developer Community](https://dev.to/aditya_suman/devrel-and-marketing-building-a-unified-developer-community-eka)
+- [Learn Nextjs With Typescript](https://dev.to/turingvangisms/learn-nextjs-with-typescript-22h3)
+- [Repository vs service design pattern](https://dev.to/timthoi/repository-vs-service-design-pattern-22ee)
 <!-- BLOG-POST-LIST:END -->
 
