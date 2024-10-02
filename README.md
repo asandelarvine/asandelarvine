@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 GitHub Actions Every DevOps Team Needs](https://dev.to/cicube/6-github-actions-every-devops-team-needs-j0n)
-- [Level Up Your AI Knowledge: Tools, Tips, and Influencers to Watch](https://dev.to/abdulsalamamtech/level-up-your-ai-knowledge-tools-tips-and-influencers-to-watch-3p32)
-- [The Must-Have GitHub Actions Dashboard - CICube](https://dev.to/cicube/the-must-have-github-actions-dashboard-cicube-3jga)
-- [What are Syntax and Semantics](https://dev.to/m__mdy__m/what-are-syntax-and-semantics-1p3e)
+- [[pandas] 공공데이터&lpar;csv&rpar; 활용시 한글 깨짐 현상 해결](https://dev.to/insung/pandas-gonggongdeiteocsv-hwalyongsi-hangeul-ggaejim-hyeonsang-haegyeol-1716)
+- [SubFlows in ServiceNow Flow Designer](https://dev.to/sophiasemga/subflows-in-servicenow-flow-designer-45kh)
+- [Fighting spam by verifying user emails by inbound message receiving](https://dev.to/yatsenkolesh/fighting-spam-by-verifying-user-emails-by-inbound-message-receiving-4jge)
+- [Issue 64 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-64-of-aws-cloud-security-weekly-1bb)
 <!-- BLOG-POST-LIST:END -->
 
