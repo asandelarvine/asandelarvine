@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Schedule Workflows in GitHub Actions](https://dev.to/cicube/how-to-schedule-workflows-in-github-actions-1neb)
-- [Spring Boot Annotations Explained: 15 Essential Annotations You Should Know](https://dev.to/isaactony/spring-boot-annotations-explained-15-essential-annotations-you-should-know-mhp)
-- [Creating an NPM package that runs on command line with npx](https://dev.to/nausaf/creating-an-npm-package-that-runs-on-command-line-with-npx-9a0)
-- [Using Natural Language To Generate A Simple Python GUI With An LLM .... In Less Than 15 Minutes](https://dev.to/danielrosehill/using-natural-language-to-generate-a-simple-python-gui-with-an-llm-3d7l)
+- [Unleashing OpenAI&#39;s Real-Time Voice API: Revolutionizing Conversational AI](https://dev.to/snapnews/unleashing-openais-real-time-voice-api-revolutionizing-conversational-ai-26bi)
+- [Build a Real-time Notification System with Socket.IO and ReactJS](https://dev.to/novu/build-a-real-time-notification-system-with-socketio-and-reactjs-40i3)
+- [Managing Elastic IPs and Elastic Block Storage &lpar;EBS&rpar; in AWS - Week Eleven](https://dev.to/shubham_murti/managing-elastic-ips-and-elastic-block-storage-ebs-in-aws-week-eleven-41m5)
+- [AWS Security Groups, Instance Types, and EC2 Pricing - Week Ten](https://dev.to/shubham_murti/aws-security-groups-instance-types-and-ec2-pricing-week-ten-fh0)
 <!-- BLOG-POST-LIST:END -->
 
