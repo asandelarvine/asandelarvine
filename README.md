@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Secured My Containerized Application Using Anchore &lpar;Day 29 Project&rpar;](https://dev.to/arbythecoder/how-i-secured-my-containerized-application-using-anchore-day-29-project-474l)
-- [System Design Fundamentals: A Complete Guide for Beginners](https://dev.to/kaustubhyerkade/system-design-fundamentals-a-complete-guide-for-beginners-3n95)
-- [Fundamentals of Computed Properties in Vue.js: Composition API](https://dev.to/sonaykara/computed-properties-in-vuejs-composition-api-2l7i)
-- [30 Frontend Interview Questions - TypeScript](https://dev.to/m_midas/30-frontend-interview-questions-typescript-12c2)
+- [Deno vs Node.js: Is Deno Really the Better Node?](https://dev.to/charliesay/deno-vs-nodejs-is-deno-really-the-better-node-2fcf)
+- [HTML/CSS Class - Lesson 1 for 5th grade](https://dev.to/tobidelly/htmlcss-class-lesson-1-for-5th-grade-4nol)
+- [post #1 of struggling](https://dev.to/nelsonmalbonecoding/post-1-of-struggling-424o)
+- [Laravel Stats : Filament Charts.js pour faire les statistiques](https://dev.to/developpeurtaf/laravel-stats-filament-chartsjs-386o)
 <!-- BLOG-POST-LIST:END -->
 
