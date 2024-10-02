@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creational Design Patterns](https://dev.to/manojpatra1991/creational-design-patterns-4i80)
-- [Coding with Streams](https://dev.to/manojpatra1991/coding-with-streams-4gca)
-- [Asynchronous Control Flow Patterns](https://dev.to/manojpatra1991/asynchronous-control-flow-patterns-5358)
-- [Implementing Parallel Merge Sort: 25sec vs 1.5sec](https://dev.to/ssd/implementing-parallel-merge-sort-25sec-vs-15sec-3b8k)
+- [SQL 101: Introduction to Structured Query Language&lpar;SQL&rpar;](https://dev.to/chege10/sql-101-introduction-to-structured-query-languagesql-4ij9)
+- [Laravel Pipelines &amp; Composable Job Middleware](https://dev.to/dshafik/laravel-pipelines-composable-job-middleware-2n03)
+- [Kubernetes Secrets | Secure Data Management](https://dev.to/labex/kubernetes-secrets-secure-data-management-4p7e)
+- [Cyber Security Labs: Mastering Digital Defense and Ethical Hacking](https://dev.to/labex/cyber-security-labs-mastering-digital-defense-and-ethical-hacking-5h7h)
 <!-- BLOG-POST-LIST:END -->
 
