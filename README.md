@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [16 Open-Source Projects to Improve Your Developer Workflow 👨‍💻🔥](https://dev.to/madza/16-open-source-projects-to-improve-your-developer-workflow-4498)
-- [Advanced Ts: Dependent parameters, inferred unions and a healthy interaction on Twitter.](https://dev.to/manuartero/advanced-ts-dependent-parameters-inferred-unions-and-a-healthy-interaction-on-twitter-13bc)
-- [Maximizing Your Salesforce QCP Potential: Overcoming the Character Limit Challenge](https://dev.to/rrosset91/maximizing-your-salesforce-qcp-potential-overcoming-the-character-limit-challenge-21g0)
-- [Angular&#39;s effect&lpar;&rpar;: Use Cases &amp; Enforced Asynchrony](https://dev.to/this-is-angular/angulars-effect-use-cases-enforced-asynchrony-4hb)
+- [A New Way to Contribute in Hacktoberfest: Directly at Frontend AI](https://dev.to/buildwebcrumbs/a-new-way-to-contribute-in-hacktoberfest-directly-at-frontend-ai-3e00)
+- [How do you create PHP and Laravel environments with databases in Android?](https://dev.to/jakiur/how-do-you-create-php-and-laravel-environments-with-databases-in-android-534f)
+- [Could Someone give me the list of Ai based job Portals &amp; Tech job portals in canada?](https://dev.to/immanuel_ruban_f98197f003/could-someone-give-me-the-list-of-ai-based-job-portals-tech-job-portals-in-canada-34he)
+- [The Great Data Debate: Is It &#39;Data Is&#39; or &#39;Data Are&#39;?](https://dev.to/thingengineer/the-great-data-debate-is-it-data-is-or-data-are-3mo1)
 <!-- BLOG-POST-LIST:END -->
 
