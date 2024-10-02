@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing OpenAI&#39;s Real-Time Voice API: Revolutionizing Conversational AI](https://dev.to/snapnews/unleashing-openais-real-time-voice-api-revolutionizing-conversational-ai-26bi)
-- [Build a Real-time Notification System with Socket.IO and ReactJS](https://dev.to/novu/build-a-real-time-notification-system-with-socketio-and-reactjs-40i3)
-- [Managing Elastic IPs and Elastic Block Storage &lpar;EBS&rpar; in AWS - Week Eleven](https://dev.to/shubham_murti/managing-elastic-ips-and-elastic-block-storage-ebs-in-aws-week-eleven-41m5)
-- [AWS Security Groups, Instance Types, and EC2 Pricing - Week Ten](https://dev.to/shubham_murti/aws-security-groups-instance-types-and-ec2-pricing-week-ten-fh0)
+- [Share us your project for Hacktoberfest 2024! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2024-ppj)
+- [hi I&#39;m new here](https://dev.to/somewhere_behind_a_computer/hi-im-new-here-4bip)
+- [A Detailed Guide to Making Your First Pull Request for Hacktoberfest](https://dev.to/chidoziemanagwu/a-detailed-guide-to-making-your-first-pull-request-for-hacktoberfest-4ehp)
+- [queueMacroTask in React source code](https://dev.to/thinkthroo/queuemacrotask-in-react-source-code-17lg)
 <!-- BLOG-POST-LIST:END -->
 
