@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Way to Contribute in Hacktoberfest: Directly at Frontend AI](https://dev.to/buildwebcrumbs/a-new-way-to-contribute-in-hacktoberfest-directly-at-frontend-ai-3e00)
-- [How do you create PHP and Laravel environments with databases in Android?](https://dev.to/jakiur/how-do-you-create-php-and-laravel-environments-with-databases-in-android-534f)
-- [Could Someone give me the list of Ai based job Portals &amp; Tech job portals in canada?](https://dev.to/immanuel_ruban_f98197f003/could-someone-give-me-the-list-of-ai-based-job-portals-tech-job-portals-in-canada-34he)
-- [The Great Data Debate: Is It &#39;Data Is&#39; or &#39;Data Are&#39;?](https://dev.to/thingengineer/the-great-data-debate-is-it-data-is-or-data-are-3mo1)
+- [Using GitHub Actions Like a Pro: Reusable Workflows](https://dev.to/cicube/using-github-actions-like-a-pro-reusable-workflows-389e)
+- [Tauri adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/tauri-adoption-guide-overview-examples-and-alternatives-2plj)
+- [The Framework Overload Controversy: Are We Sacrificing Simplicity for Efficiency?](https://dev.to/niaxusweb/the-framework-overload-controversy-are-we-sacrificing-simplicity-for-efficiency-3c58)
+- [Is Trunk-Based Development the Future or Just Hype? - A Detailed Guide with Examples, Steps, and Simple Explanations](https://dev.to/narmidm/is-trunk-based-development-the-future-or-just-hype-a-detailed-guide-with-examples-steps-and-simple-explanations-533f)
 <!-- BLOG-POST-LIST:END -->
 
