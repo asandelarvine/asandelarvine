@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS: Custom Forms](https://dev.to/tailwine/tailwind-css-custom-forms-f6l)
-- [DevRel and Marketing: Building a Unified Developer Community](https://dev.to/aditya_suman/devrel-and-marketing-building-a-unified-developer-community-eka)
-- [Learn Nextjs With Typescript](https://dev.to/turingvangisms/learn-nextjs-with-typescript-22h3)
-- [Repository vs service design pattern](https://dev.to/timthoi/repository-vs-service-design-pattern-22ee)
+- [SQL ain&#39;t that Scary](https://dev.to/drsimplegraffiti/sql-aint-that-scary-18cn)
+- [Top 10 networking commands](https://dev.to/mrcaption49/top-10-networking-commands-163j)
+- [echo3D and Loci Partner to Simplify 3D Digital Asset Management with AI](https://dev.to/echo3d/echo3d-and-loci-partner-to-simplify-3d-digital-asset-management-with-ai-pln)
+- [Mastering Routing Protocols with Cisco Packet Tracer: A Learning Experience](https://dev.to/sanket_chaudhari/mastering-routing-protocols-with-cisco-packet-tracer-a-learning-experience-34e9)
 <!-- BLOG-POST-LIST:END -->
 
