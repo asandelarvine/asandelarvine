@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Apple Passwords User Guide](https://dev.to/corbado/ultimate-apple-passwords-user-guide-14a6)
-- [Dive into Open Source: Make Your Mark with Hacktoberfest 2024](https://dev.to/yaswanthteja/dive-into-open-source-make-your-mark-with-hacktoberfest-2024-2i38)
-- [An Engineer&#39;s Guide to Dating App Development: Features, Process, and Architecture](https://dev.to/patoliyainfotech/an-engineers-guide-to-dating-app-development-features-process-and-architecture-1bop)
-- [How to Use AWS Route 53 for Free](https://dev.to/s3cloudhub/how-to-use-aws-route-53-for-free-4g7d)
+- [Tenant -1, How I Would Have Built The Power Platform](https://dev.to/wyattdave/tenant-1-how-i-would-have-built-the-power-platform-49oo)
+- [GitHub Actions vs Jenkins: Which CI Tool is Best for Your Workflow?](https://dev.to/cicube/github-actions-vs-jenkins-which-ci-tool-is-best-for-your-workflow-m1)
+- [Find the First Non-Repeated Character in a String](https://dev.to/realnamehidden1_61/find-the-first-non-repeated-character-in-a-string-34nb)
+- [Troubleshooting PostgreSQL Low Free Memory](https://dev.to/metis/troubleshooting-postgresql-low-free-memory-2e4)
 <!-- BLOG-POST-LIST:END -->
 
