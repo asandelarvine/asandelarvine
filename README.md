@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SwissTable: A High-Performance Hash Table Implementation](https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc)
-- [A Simple Guide to Loading an Entire PDF into a List of Documents Using Langchain](https://dev.to/smuniraj/a-simple-guide-to-loading-an-entire-pdf-into-a-list-of-documents-using-langchain-4hih)
-- [Securing Your Go API with JWT Authentication](https://dev.to/neelp03/securing-your-go-api-with-jwt-authentication-4amj)
-- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-296d)
+- [Get ready Bounty Huntersss! Algora 🔥 V/S Opire ❄️](https://dev.to/rohan_sharma/get-ready-bounty-huntersss-algora-vs-opire-30jc)
+- [Akshata Upadhye&#39;s Guide To Revolutionizing Staffing with Data Science, NLP and Advanced Analytics](https://dev.to/mariliatirachi62/akshata-upadhyes-guide-to-revolutionizing-staffing-with-data-science-nlp-and-advanced-analytics-1feh)
+- [Create an Online Application Form in 3 Steps](https://dev.to/domfive/create-an-online-application-form-in-3-steps-304a)
+- [Introducing Built with Laravel](https://dev.to/arafatweb/introducing-built-with-laravel-1a9e)
 <!-- BLOG-POST-LIST:END -->
 
