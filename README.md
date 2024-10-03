@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python as a Data Analytics Tool](https://dev.to/victor_muthoka/introduction-to-python-as-a-data-analytics-tool-1599)
-- [Handling Data in SQL: Signed vs. Unsigned Types](https://dev.to/shikha_gupta_080e904b317e/handling-data-in-sql-signed-vs-unsigned-types-1g5c)
-- [OpenSign v2.1.0 introduces new features including support for Multi-User functionality &amp; Public Profiles](https://dev.to/opensign001/opensign-v210-introduces-new-features-including-support-for-multi-user-functionality-public-profiles-2h75)
-- [Rsyslog ile Kullanıcıların Bash History Bilgilerinin Log Sunucusuna Yönelendirilmesi](https://dev.to/aciklab/rsyslog-ile-kullanicilarin-bash-history-bilgilerinin-log-sunucusuna-yonelendirilmesi-307i)
+- [Augmenting the client with Alpine.js](https://dev.to/nfrankel/augmenting-the-client-with-alpinejs-15bm)
+- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-kfj)
+- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-nlm)
+- [How to Create Smooth Card Groups in CSS](https://dev.to/rowsanali/how-to-create-smooth-card-groups-in-css-57od)
 <!-- BLOG-POST-LIST:END -->
 
