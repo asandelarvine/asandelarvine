@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [SwissTable: A High-Performance Hash Table Implementation](https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc)
+- [A Simple Guide to Loading an Entire PDF into a List of Documents Using Langchain](https://dev.to/smuniraj/a-simple-guide-to-loading-an-entire-pdf-into-a-list-of-documents-using-langchain-4hih)
 - [Securing Your Go API with JWT Authentication](https://dev.to/neelp03/securing-your-go-api-with-jwt-authentication-4amj)
 - [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-296d)
-- [Compile Neovim in Debian/Ubuntu Linux](https://dev.to/hardyweb/compile-neovim-in-debianubuntu-linux-1b9a)
-- [Securing Your Website with Basic Auth for NGINX](https://dev.to/nasrulhazim/securing-your-website-with-basic-auth-for-nginx-50h3)
 <!-- BLOG-POST-LIST:END -->
 
