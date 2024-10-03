@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Claude’s Artifacts feature for UI visualization](https://dev.to/logrocket/implementing-claudes-artifacts-feature-for-ui-visualization-26kh)
-- [Internal Working of Collections:](https://dev.to/abhishek_kumar_d9009a7ae6/internal-working-of-collections-3oom)
-- [Common Methods &amp; Performance of Java Collection Implementations](https://dev.to/abhishek_kumar_d9009a7ae6/common-methods-performance-of-java-collection-implementations-l33)
-- [AWS Project: Deploying a VPC with Terraform](https://dev.to/asif_khan/aws-project-deploying-a-vpc-with-terraform-2h9k)
+- [Everything You Need to Know About Hacktoberfest 2024](https://dev.to/surajkumar00/everything-you-need-to-know-about-hacktoberfest-2024-2ce0)
+- [ActiveStorage Direct Upload with Stimulus](https://dev.to/railsdesigner/activestorage-direct-upload-with-stimulus-54f6)
+- [How to delete pods with kubectl in Kubernetes](https://dev.to/cicube/how-to-delete-pods-with-kubectl-in-kubernetes-5ac1)
+- [How to Use kubectl port-forward for Secure Application Access in Kubernetes](https://dev.to/cicube/how-to-use-kubectl-port-forward-for-secure-application-access-in-kubernetes-34ec)
 <!-- BLOG-POST-LIST:END -->
 
