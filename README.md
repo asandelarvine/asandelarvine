@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmenting the client with Alpine.js](https://dev.to/nfrankel/augmenting-the-client-with-alpinejs-15bm)
-- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-kfj)
-- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-nlm)
-- [How to Create Smooth Card Groups in CSS](https://dev.to/rowsanali/how-to-create-smooth-card-groups-in-css-57od)
+- [Linux file permissions.](https://dev.to/musafci/linux-file-permissions-5a94)
+- [Migrations, Quiry Builder, dan Eloquent Dalam Laravel](https://dev.to/muhammad_nurardi_b1803e2/migrations-quiry-builder-dan-eloquent-dalam-laravel-3oio)
+- [UX Audit: A Stepping Stone to Boost Sales](https://dev.to/lollypopdesign/ux-audit-a-stepping-stone-to-boost-sales-2ngb)
+- [penejelasan terkait Migrations dan Query builder](https://dev.to/shonabil/penejelasan-terkait-migrations-dan-query-builder-1bbm)
 <!-- BLOG-POST-LIST:END -->
 
