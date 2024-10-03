@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get ready Bounty Huntersss! Algora 🔥 V/S Opire ❄️](https://dev.to/rohan_sharma/get-ready-bounty-huntersss-algora-vs-opire-30jc)
-- [Akshata Upadhye&#39;s Guide To Revolutionizing Staffing with Data Science, NLP and Advanced Analytics](https://dev.to/mariliatirachi62/akshata-upadhyes-guide-to-revolutionizing-staffing-with-data-science-nlp-and-advanced-analytics-1feh)
-- [Create an Online Application Form in 3 Steps](https://dev.to/domfive/create-an-online-application-form-in-3-steps-304a)
-- [Introducing Built with Laravel](https://dev.to/arafatweb/introducing-built-with-laravel-1a9e)
+- [Introduction to NGINX Proxy Manager](https://dev.to/devops_den/introduction-to-nginx-proxy-manager-2036)
+- [Burnout in Tech](https://dev.to/jobreadyprogrammer/burnout-in-tech-3185)
+- [Join AI Agent Championship by Lyzr](https://dev.to/soumyabhardwaj2101/join-ai-agent-championship-by-lyzr-21a7)
+- [UI Testing Excellence: A Comprehensive Guide to Enhancing User Experiences](https://dev.to/misterankit/ui-testing-excellence-a-comprehensive-guide-to-enhancing-user-experiences-128n)
 <!-- BLOG-POST-LIST:END -->
 
