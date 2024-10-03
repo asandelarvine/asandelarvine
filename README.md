@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance LLM Capabilities with Function Calling: A Practical Example](https://dev.to/fotiecodes/enhance-llm-capabilities-with-function-calling-a-practical-example-4nem)
-- [Mastering Component Design in React: From Basics to Best Practices](https://dev.to/ishanbagchi/mastering-component-design-in-react-from-basics-to-best-practices-1gih)
-- [Dia 5 - Deque vs. Vector vs. Array](https://dev.to/matheusgb/dia-5-deque-vs-vector-vs-array-4ffk)
-- [Getting Started with Powerful Data Tables in your Python Web Apps &lpar;AG Grid in Reflex&rpar;](https://dev.to/tom_gotsman_87be063d55591/getting-started-with-powerful-data-tables-in-your-python-web-apps-ag-grid-in-reflex-4i6g)
+- [03.10](https://dev.to/vorobey41/0310-3dha)
+- [The Trends and or uses of QR Codes and NFC Tags?](https://dev.to/abzresponsible/the-trends-and-or-uses-of-qr-codes-and-nfc-tags-poh)
+- [Why Client-Side Permissions Aren’t Enough](https://dev.to/daniel-mutuku/why-client-side-permissions-arent-enough-5fpm)
+- [MessageChannel usage in React source code](https://dev.to/thinkthroo/messagechannel-usage-in-react-source-code-3771)
 <!-- BLOG-POST-LIST:END -->
 
