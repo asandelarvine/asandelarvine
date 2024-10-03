@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Fundamentals: A Beginner’s Journey into .NET Development](https://dev.to/iamcymentho/mastering-c-fundamentals-a-beginners-journey-into-net-development-3am1)
-- [Seamlessly Migrating Frontend Deployment Across AWS Accounts](https://dev.to/aws-builders/seamlessly-migrating-frontend-deployment-across-aws-accounts-54lo)
-- [Integration Testing Guide: Knowing the Types &amp; Various Approaches](https://dev.to/ronika_kashyap/integration-testing-guide-knowing-the-types-various-approaches-51k9)
-- [The Role of AI in Financial Services: Opportunities and Challenges](https://dev.to/abhinav_yadav_554cab962bb/the-role-of-ai-in-financial-services-opportunities-and-challenges-m92)
+- [Why You Should Hang Around People Doing Better Than You 💪🏽](https://dev.to/fullstacktanmay/why-you-should-hang-around-people-doing-better-than-you-57km)
+- [The AI-Powered Trip Planner, 😻 You Can&#39;t Live Without ⚡](https://dev.to/copilotkit/the-ai-powered-trip-planner-you-cant-live-without-2pk6)
+- [RabbitMQ vs. Kafka vs. ActiveMQ in Fintech: A Comparative Guide with Use Cases, Challenges, and Solutions](https://dev.to/iamcymentho/rabbitmq-vs-kafka-vs-activemq-in-fintech-a-comparative-guide-with-use-cases-challenges-and-solutions-2c00)
+- [Exciting Open Source Events, Useful Tips and Great Projects - Hacktoberfest 2024⚡🔥⭐](https://dev.to/astrodevil/exciting-open-source-events-useful-tips-and-great-projects-hacktoberfest-2024-1n5l)
 <!-- BLOG-POST-LIST:END -->
 
