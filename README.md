@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn template-tags while creating interactive forms in a web component &lpar;Learn Modulo.js - Part 6 of 10&rpar;](https://dev.to/michaelpb/learn-template-tags-while-creating-interactive-forms-in-a-web-component-learn-modulojs-part-6-of-10-5bik)
-- [Cloudflare’s Latest Update: A Builder’s Paradise](https://dev.to/shanu-kumawat/cloudflares-latest-update-a-builders-paradise-56ml)
-- [Contributor Experience: A Journey of Growth and a Few Bragging Rights](https://dev.to/tanvis001/contributor-experience-a-journey-of-growth-and-a-few-bragging-rights-40ee)
-- [UPCOMING: Oct 10 - AI, ML and Computer Vision Meetup](https://dev.to/voxel51/upcoming-oct-10-ai-ml-and-computer-vision-meetup-30n8)
+- [Integrating Mpesa APIs](https://dev.to/daniel-mutuku/integrating-mpesa-apis-25cj)
+- [Introduction to Plang: Master Coding Quickly and Easily!](https://dev.to/ingigauti/introduction-to-plang-master-coding-quickly-and-easily-4mp4)
+- [How to Build a Hangman Game in Python: A Step-by-Step Guide](https://dev.to/devasservice/how-to-build-a-hangman-game-in-python-a-step-by-step-guide-136k)
+- [EF Core - Explosão Cartesiana](https://dev.to/lukesilva/ef-core-explosao-cartesiana-2lah)
 <!-- BLOG-POST-LIST:END -->
 
