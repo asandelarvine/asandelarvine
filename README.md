@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Many People Not Recommend Using JWT?](https://dev.to/safdarali/why-do-many-people-not-recommend-using-jwt-1ol5)
-- [ALL YOU NEED TO KNOW ABOUT AWS VPC PEERING](https://dev.to/dheecloud/all-you-need-to-know-about-aws-vpc-peering-1fjl)
-- [ORM and encapsulation demystifying](https://dev.to/brunociccarino/orm-and-encapsulation-demystifying-f6j)
-- [How I Solved the HackerRank &quot;Picking Numbers&quot; Problem in TypeScript](https://dev.to/kingdraxx/how-i-solved-the-hackerrank-picking-numbers-problem-in-typescript-3jo9)
+- [Conheça Next.js 14: O Framework Full-Stack para Aplicações Web Modernas](https://dev.to/sabrinabarros/conheca-nextjs-14-o-framework-full-stack-para-aplicacoes-web-modernas-1e67)
+- [Day 1035 : Closer](https://dev.to/dwane/day-1035-closer-14oj)
+- [Day 2 tracking](https://dev.to/nelsonmalbonecoding/day-2-tracking-2p61)
+- [How to code a web scraper in c# dotnet 8](https://dev.to/joedev090/how-to-code-a-web-scrapper-in-c-dotnet-8-1c20)
 <!-- BLOG-POST-LIST:END -->
 
