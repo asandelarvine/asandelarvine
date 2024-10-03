@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to NGINX Proxy Manager](https://dev.to/devops_den/introduction-to-nginx-proxy-manager-2036)
-- [Burnout in Tech](https://dev.to/jobreadyprogrammer/burnout-in-tech-3185)
-- [Join AI Agent Championship by Lyzr](https://dev.to/soumyabhardwaj2101/join-ai-agent-championship-by-lyzr-21a7)
-- [UI Testing Excellence: A Comprehensive Guide to Enhancing User Experiences](https://dev.to/misterankit/ui-testing-excellence-a-comprehensive-guide-to-enhancing-user-experiences-128n)
+- [What is `Suspense` in React?](https://dev.to/sivamani18/what-is-suspense-in-react-n17)
+- [JavaScript&#39;s Prototype-Based Inheritance Example](https://dev.to/laxman_nemane_cff86ecfb46/javascripts-prototype-based-inheritance-example-399a)
+- [Bring Your Website to Life: How to Create Engaging Animations Using Only CSS](https://dev.to/vibhuvibes/bring-your-website-to-life-how-to-create-engaging-animations-using-only-css-1p14)
+- [How To Improve Flutter Unit Testing](https://dev.to/grjoeay/how-to-improve-flutter-unit-testing-3km2)
 <!-- BLOG-POST-LIST:END -->
 
