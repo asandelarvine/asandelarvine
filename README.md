@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My NASDAQ Experience](https://dev.to/kitarp29/my-nasdaq-experience-af)
-- [HTTP to HTTPS Migration – The Complete Guide](https://dev.to/me_jessicahowe/http-to-https-migration-the-complete-guide-3gh3)
-- [Visualizando el Espacio: Cómo construir tu propia app de satélites con IA y streamlit](https://dev.to/aws-espanol/visualizando-el-espacio-como-construir-tu-propia-app-de-satelites-con-ia-y-streamlit-4pp4)
-- [Exploring the Development and Impact of NFT Platforms](https://dev.to/saeedullah_shah_1b7a5b308/exploring-the-development-and-impact-of-nft-platforms-15ni)
+- [Mastering C# Fundamentals: A Beginner’s Journey into .NET Development](https://dev.to/iamcymentho/mastering-c-fundamentals-a-beginners-journey-into-net-development-3am1)
+- [Seamlessly Migrating Frontend Deployment Across AWS Accounts](https://dev.to/aws-builders/seamlessly-migrating-frontend-deployment-across-aws-accounts-54lo)
+- [Integration Testing Guide: Knowing the Types &amp; Various Approaches](https://dev.to/ronika_kashyap/integration-testing-guide-knowing-the-types-various-approaches-51k9)
+- [The Role of AI in Financial Services: Opportunities and Challenges](https://dev.to/abhinav_yadav_554cab962bb/the-role-of-ai-in-financial-services-opportunities-and-challenges-m92)
 <!-- BLOG-POST-LIST:END -->
 
