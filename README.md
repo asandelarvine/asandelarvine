@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux file permissions.](https://dev.to/musafci/linux-file-permissions-5a94)
-- [Migrations, Quiry Builder, dan Eloquent Dalam Laravel](https://dev.to/muhammad_nurardi_b1803e2/migrations-quiry-builder-dan-eloquent-dalam-laravel-3oio)
-- [UX Audit: A Stepping Stone to Boost Sales](https://dev.to/lollypopdesign/ux-audit-a-stepping-stone-to-boost-sales-2ngb)
-- [penejelasan terkait Migrations dan Query builder](https://dev.to/shonabil/penejelasan-terkait-migrations-dan-query-builder-1bbm)
+- [My NASDAQ Experience](https://dev.to/kitarp29/my-nasdaq-experience-af)
+- [HTTP to HTTPS Migration – The Complete Guide](https://dev.to/me_jessicahowe/http-to-https-migration-the-complete-guide-3gh3)
+- [Visualizando el Espacio: Cómo construir tu propia app de satélites con IA y streamlit](https://dev.to/aws-espanol/visualizando-el-espacio-como-construir-tu-propia-app-de-satelites-con-ia-y-streamlit-4pp4)
+- [Exploring the Development and Impact of NFT Platforms](https://dev.to/saeedullah_shah_1b7a5b308/exploring-the-development-and-impact-of-nft-platforms-15ni)
 <!-- BLOG-POST-LIST:END -->
 
