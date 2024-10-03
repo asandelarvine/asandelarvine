@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno vs Node.js: Is Deno Really the Better Node?](https://dev.to/charliesay/deno-vs-nodejs-is-deno-really-the-better-node-2fcf)
-- [HTML/CSS Class - Lesson 1 for 5th grade](https://dev.to/tobidelly/htmlcss-class-lesson-1-for-5th-grade-4nol)
-- [post #1 of struggling](https://dev.to/nelsonmalbonecoding/post-1-of-struggling-424o)
-- [Laravel Stats : Filament Charts.js pour faire les statistiques](https://dev.to/developpeurtaf/laravel-stats-filament-chartsjs-386o)
+- [Building Server-Side Applications with Hapi.js](https://dev.to/kartikmehta8/building-server-side-applications-with-hapijs-3k7g)
+- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 3&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-3-f4k)
+- [Enforcing Driver Breaks After Departure Time in Google OR-Tools VRP](https://dev.to/thana_b/enforcing-driver-breaks-after-departure-time-in-google-or-tools-vrp-207e)
+- [Explorando a Observabilidade com OpenTelemetry: Propagação de Contexto e Arquiteturas Distribuídas](https://dev.to/dellamas/explorando-a-observabilidade-com-opentelemetry-propagacao-de-contexto-e-arquiteturas-distribuidas-28bi)
 <!-- BLOG-POST-LIST:END -->
 
