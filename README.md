@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join KubeCrash 2024: Your Crash Course on Platform Engineering the Cloud Native Way](https://dev.to/intuitdev/join-kubecrash-2024-your-crash-course-on-platform-engineering-the-cloud-native-way-43jl)
-- [Deploy Airbyte on AKS](https://dev.to/aniketkumarsinha/deploy-airbyte-on-aks-31co)
-- [How I plan and get things done effectively.](https://dev.to/jlsnyule/how-i-plan-and-get-things-done-effectively-1cn9)
-- [🚀 Optimized API Calls with TypeScript: Performance Showdown vs. Rust &amp; Go 🛠️](https://dev.to/hamzakhan/optimized-api-calls-with-typescript-performance-showdown-vs-rust-go-4495)
+- [Learn template-tags while creating interactive forms in a web component &lpar;Learn Modulo.js - Part 6 of 10&rpar;](https://dev.to/michaelpb/learn-template-tags-while-creating-interactive-forms-in-a-web-component-learn-modulojs-part-6-of-10-5bik)
+- [Cloudflare’s Latest Update: A Builder’s Paradise](https://dev.to/shanu-kumawat/cloudflares-latest-update-a-builders-paradise-56ml)
+- [Contributor Experience: A Journey of Growth and a Few Bragging Rights](https://dev.to/tanvis001/contributor-experience-a-journey-of-growth-and-a-few-bragging-rights-40ee)
+- [UPCOMING: Oct 10 - AI, ML and Computer Vision Meetup](https://dev.to/voxel51/upcoming-oct-10-ai-ml-and-computer-vision-meetup-30n8)
 <!-- BLOG-POST-LIST:END -->
 
