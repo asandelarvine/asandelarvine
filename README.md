@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Mpesa APIs](https://dev.to/daniel-mutuku/integrating-mpesa-apis-25cj)
-- [Introduction to Plang: Master Coding Quickly and Easily!](https://dev.to/ingigauti/introduction-to-plang-master-coding-quickly-and-easily-4mp4)
-- [How to Build a Hangman Game in Python: A Step-by-Step Guide](https://dev.to/devasservice/how-to-build-a-hangman-game-in-python-a-step-by-step-guide-136k)
-- [EF Core - Explosão Cartesiana](https://dev.to/lukesilva/ef-core-explosao-cartesiana-2lah)
+- [Enhance LLM Capabilities with Function Calling: A Practical Example](https://dev.to/fotiecodes/enhance-llm-capabilities-with-function-calling-a-practical-example-4nem)
+- [Mastering Component Design in React: From Basics to Best Practices](https://dev.to/ishanbagchi/mastering-component-design-in-react-from-basics-to-best-practices-1gih)
+- [Dia 5 - Deque vs. Vector vs. Array](https://dev.to/matheusgb/dia-5-deque-vs-vector-vs-array-4ffk)
+- [Getting Started with Powerful Data Tables in your Python Web Apps &lpar;AG Grid in Reflex&rpar;](https://dev.to/tom_gotsman_87be063d55591/getting-started-with-powerful-data-tables-in-your-python-web-apps-ag-grid-in-reflex-4i6g)
 <!-- BLOG-POST-LIST:END -->
 
