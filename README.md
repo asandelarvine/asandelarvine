@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is `Suspense` in React?](https://dev.to/sivamani18/what-is-suspense-in-react-n17)
-- [JavaScript&#39;s Prototype-Based Inheritance Example](https://dev.to/laxman_nemane_cff86ecfb46/javascripts-prototype-based-inheritance-example-399a)
-- [Bring Your Website to Life: How to Create Engaging Animations Using Only CSS](https://dev.to/vibhuvibes/bring-your-website-to-life-how-to-create-engaging-animations-using-only-css-1p14)
-- [How To Improve Flutter Unit Testing](https://dev.to/grjoeay/how-to-improve-flutter-unit-testing-3km2)
+- [Leading WBS Software: Quick Overview of Reliable Tools](https://dev.to/thomasy0ung/leading-wbs-software-quick-overview-of-reliable-tools-3o8d)
+- [How to Activate Microsoft Passkeys on Windows](https://dev.to/corbado/how-to-activate-microsoft-passkeys-on-windows-554p)
+- [Simplifying Database Management with Ansible and DbVisualizer](https://dev.to/dbvismarketing/simplifying-database-management-with-ansible-and-dbvisualizer-19ok)
+- [How to Use Accessibility Inspector for iOS Apps](https://dev.to/harishrajora12/how-to-use-accessibility-inspector-for-ios-apps-4p9e)
 <!-- BLOG-POST-LIST:END -->
 
