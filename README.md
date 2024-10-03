@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About Hacktoberfest 2024](https://dev.to/surajkumar00/everything-you-need-to-know-about-hacktoberfest-2024-2ce0)
-- [ActiveStorage Direct Upload with Stimulus](https://dev.to/railsdesigner/activestorage-direct-upload-with-stimulus-54f6)
-- [How to delete pods with kubectl in Kubernetes](https://dev.to/cicube/how-to-delete-pods-with-kubectl-in-kubernetes-5ac1)
-- [How to Use kubectl port-forward for Secure Application Access in Kubernetes](https://dev.to/cicube/how-to-use-kubectl-port-forward-for-secure-application-access-in-kubernetes-34ec)
+- [Mundos grandes 100% On-Chain. Es posible?](https://dev.to/turupawn/mundos-grandes-100-on-chain-es-posible-1bn9)
+- [Spring Boot Meets Firebase: My Journey of Building a File Upload System🚀](https://dev.to/priya01/spring-boot-meets-firebase-my-journey-of-building-a-file-upload-system-4m3i)
+- [Developing modals using only CSS and the Popover API](https://dev.to/logrocket/developing-modals-using-only-css-and-the-popover-api-41hl)
+- [Enable FTP Publishing on a Web Server in Windows 11](https://dev.to/winsides/enable-ftp-publishing-on-a-web-server-in-windows-11-5972)
 <!-- BLOG-POST-LIST:END -->
 
