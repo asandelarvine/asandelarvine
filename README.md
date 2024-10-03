@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Server-Side Applications with Hapi.js](https://dev.to/kartikmehta8/building-server-side-applications-with-hapijs-3k7g)
-- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 3&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-3-f4k)
-- [Enforcing Driver Breaks After Departure Time in Google OR-Tools VRP](https://dev.to/thana_b/enforcing-driver-breaks-after-departure-time-in-google-or-tools-vrp-207e)
-- [Explorando a Observabilidade com OpenTelemetry: Propagação de Contexto e Arquiteturas Distribuídas](https://dev.to/dellamas/explorando-a-observabilidade-com-opentelemetry-propagacao-de-contexto-e-arquiteturas-distribuidas-28bi)
+- [Securing Your Go API with JWT Authentication](https://dev.to/neelp03/securing-your-go-api-with-jwt-authentication-4amj)
+- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-296d)
+- [Compile Neovim in Debian/Ubuntu Linux](https://dev.to/hardyweb/compile-neovim-in-debianubuntu-linux-1b9a)
+- [Securing Your Website with Basic Auth for NGINX](https://dev.to/nasrulhazim/securing-your-website-with-basic-auth-for-nginx-50h3)
 <!-- BLOG-POST-LIST:END -->
 
