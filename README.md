@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leading WBS Software: Quick Overview of Reliable Tools](https://dev.to/thomasy0ung/leading-wbs-software-quick-overview-of-reliable-tools-3o8d)
-- [How to Activate Microsoft Passkeys on Windows](https://dev.to/corbado/how-to-activate-microsoft-passkeys-on-windows-554p)
-- [Simplifying Database Management with Ansible and DbVisualizer](https://dev.to/dbvismarketing/simplifying-database-management-with-ansible-and-dbvisualizer-19ok)
-- [How to Use Accessibility Inspector for iOS Apps](https://dev.to/harishrajora12/how-to-use-accessibility-inspector-for-ios-apps-4p9e)
+- [Introduction to Python as a Data Analytics Tool](https://dev.to/victor_muthoka/introduction-to-python-as-a-data-analytics-tool-1599)
+- [Handling Data in SQL: Signed vs. Unsigned Types](https://dev.to/shikha_gupta_080e904b317e/handling-data-in-sql-signed-vs-unsigned-types-1g5c)
+- [OpenSign v2.1.0 introduces new features including support for Multi-User functionality &amp; Public Profiles](https://dev.to/opensign001/opensign-v210-introduces-new-features-including-support-for-multi-user-functionality-public-profiles-2h75)
+- [Rsyslog ile Kullanıcıların Bash History Bilgilerinin Log Sunucusuna Yönelendirilmesi](https://dev.to/aciklab/rsyslog-ile-kullanicilarin-bash-history-bilgilerinin-log-sunucusuna-yonelendirilmesi-307i)
 <!-- BLOG-POST-LIST:END -->
 
