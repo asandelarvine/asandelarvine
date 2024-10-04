@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A helpful approach to navigating the SEO AI shift](https://dev.to/builderio/a-helpful-approach-to-navigating-the-seo-ai-shift-3f4p)
-- [Ibuprofeno.py💊| #188: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-188-explica-este-codigo-python-2g3d)
-- [Building Stunning UIs with Angular and Material Design: A Comprehensive Guide](https://dev.to/nikhil6076/building-stunning-uis-with-angular-and-material-design-a-comprehensive-guide-5gm0)
-- [Compartilhando e versionando coleções HTTP de forma facil e sem custo](https://dev.to/artcurty/compartilhando-e-versionando-colecoes-http-de-forma-facil-e-sem-custo-n7g)
+- [6 Ways to Protect Your Personal Information Online &lpar;Master Guide&rpar;](https://dev.to/scofieldidehen/6-ways-to-protect-your-personal-information-online-master-guide-5gb9)
+- [How to Mock GraphQL API Responses 10x Faster](https://dev.to/requestly/how-to-mock-graphql-api-responses-10x-faster-3bgm)
+- [E-Commerce Platform with Golang : Project Directory Structure](https://dev.to/mohamedfawas1/e-commerce-platform-with-golang-project-directory-structure-53fg)
+- [E-Commerce Platform with Golang : Understanding clean architecture](https://dev.to/mohamedfawas1/e-commerce-platform-with-golang-part-2-2b6h)
 <!-- BLOG-POST-LIST:END -->
 
