@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Development for Beginners: Your Essential Starting Point](https://dev.to/asimachowdhury/frontend-development-for-beginners-your-essential-starting-point-3l94)
-- [Why Learn To Disable Glance on Samsung? Know More About It Instead!](https://dev.to/claywinston/why-learn-to-disable-glance-on-samsung-know-more-about-it-instead-2f06)
-- [Top 10 System Designs || Interview Guide](https://dev.to/akshat0610/top-10-system-designs-interview-guide-3fgf)
-- [How to Improve Website Performance: Tips and Tools](https://dev.to/vibhuvibes/how-to-improve-website-performance-tips-and-tools-c19)
+- [A helpful approach to navigating the SEO AI shift](https://dev.to/builderio/a-helpful-approach-to-navigating-the-seo-ai-shift-3f4p)
+- [Ibuprofeno.py💊| #188: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-188-explica-este-codigo-python-2g3d)
+- [Building Stunning UIs with Angular and Material Design: A Comprehensive Guide](https://dev.to/nikhil6076/building-stunning-uis-with-angular-and-material-design-a-comprehensive-guide-5gm0)
+- [Compartilhando e versionando coleções HTTP de forma facil e sem custo](https://dev.to/artcurty/compartilhando-e-versionando-colecoes-http-de-forma-facil-e-sem-custo-n7g)
 <!-- BLOG-POST-LIST:END -->
 
