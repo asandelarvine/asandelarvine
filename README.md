@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the New React Framework: A Game Changer for Real-Time Applications](https://dev.to/rajeshkumaryadavdotcom/exploring-the-new-react-framework-a-game-changer-for-real-time-applications-30j9)
-- [Dia 6 - Fim do snake game e materiais que achei sobre física computacional.](https://dev.to/matheusgb/dia-6-fim-do-snake-game-e-materiais-que-achei-sobre-fisica-computacional-4kh2)
-- [Using jQuery](https://dev.to/taytay836/using-jquery-50l9)
-- [A New Programming Language](https://dev.to/myhauntedfork/a-new-programming-language-2gcf)
+- [Let&#39;s build &quot;Java demos&quot; together during Hacktoberfest](https://dev.to/aloisseckar/lets-build-java-demos-together-during-hacktoberfest-3dkj)
+- [More testing](https://dev.to/jesse_chong_3bcc276c4f950/more-testing-5ame)
+- [Understanding Beckn Protocol: Revolutionizing Open Networks in E-commerce](https://dev.to/kaustubhyerkade/beckn-protocol-6bd)
+- [Building a Blog Management System with .NET and Angular](https://dev.to/marvynharry/building-a-blog-management-system-with-net-and-angular-298k)
 <!-- BLOG-POST-LIST:END -->
 
