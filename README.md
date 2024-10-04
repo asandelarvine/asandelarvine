@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guia Completo: Construindo um Script Seguro para Análise de Dados no MetaTrader5 com Python](https://dev.to/vital7388/guia-completo-construindo-um-script-seguro-para-analise-de-dados-no-metatrader5-com-python-4dhd)
-- [How can one person Making a Difference in innovation world](https://dev.to/yunwei37/how-can-one-person-making-a-difference-in-innovation-world-4cf)
-- [Props Basics: Part 1](https://dev.to/alegendcodes/props-basics-part-1-1mmk)
-- [Where Does Innovation Thrive? Choosing the Right Organization](https://dev.to/yunwei37/where-does-innovation-thrive-choosing-the-right-organization-4mko)
+- [What is Asynchronous Code? How to Use It in Python to Speed Up Your Code Learn by Building a Weather App! ☀️🌦️](https://dev.to/ahmed__elboshi/what-is-asynchronous-code-how-to-use-it-in-python-to-speed-up-your-code-learn-by-building-a-weather-app-3md2)
+- [Guide to Adding Info Text in Sanity Studio](https://dev.to/dmuraco3/guide-to-adding-info-text-in-sanity-studio-51od)
+- [How Platforms Enforce Maximum Downloads on Browsers](https://dev.to/daniel-mutuku/how-platforms-enforce-maximum-downloads-on-browsers-2nk0)
+- [Conversing via Local Microphone and Speaker using Realtime API](https://dev.to/m_sea_bass/conversing-via-local-microphone-and-speaker-using-realtime-api-2723)
 <!-- BLOG-POST-LIST:END -->
 
