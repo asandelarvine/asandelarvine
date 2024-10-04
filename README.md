@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Asynchronous Code? How to Use It in Python to Speed Up Your Code Learn by Building a Weather App! ☀️🌦️](https://dev.to/ahmed__elboshi/what-is-asynchronous-code-how-to-use-it-in-python-to-speed-up-your-code-learn-by-building-a-weather-app-3md2)
-- [Guide to Adding Info Text in Sanity Studio](https://dev.to/dmuraco3/guide-to-adding-info-text-in-sanity-studio-51od)
-- [How Platforms Enforce Maximum Downloads on Browsers](https://dev.to/daniel-mutuku/how-platforms-enforce-maximum-downloads-on-browsers-2nk0)
-- [Conversing via Local Microphone and Speaker using Realtime API](https://dev.to/m_sea_bass/conversing-via-local-microphone-and-speaker-using-realtime-api-2723)
+- [Reflecting on GSoC 2024](https://dev.to/stdlib/reflecting-on-gsoc-2024-5doa)
+- [Creating tests in real database with NestJS, TypeORM and PostgreSQL](https://dev.to/gabriel_couto_ecrser/creating-tests-in-real-database-with-nestjs-typeorm-and-postgresql-2chd)
+- [A Detailed Guide To Mastering SaaS Testing Tools](https://dev.to/misterankit/a-detailed-guide-to-mastering-saas-testing-tools-30a9)
+- [Connecting Your Go API to a PostgreSQL Database](https://dev.to/neelp03/connecting-your-go-api-to-a-postgresql-database-39)
 <!-- BLOG-POST-LIST:END -->
 
