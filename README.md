@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Podlite: Powering Up Knowledge Management](https://dev.to/zag/podlite-powering-up-knowledge-management-1knn)
-- [How the shell aliases affect shell functions: two pitfalls](https://dev.to/franklinyu/how-the-shell-aliases-affect-shell-functions-two-pitfalls-2ao9)
-- [The Role of Real-Time Finance APIs in Building Automated Trading Systems](https://dev.to/williamsmithh/the-role-of-real-time-finance-apis-in-building-automated-trading-systems-151j)
-- [Cybersecurity Erosion: Addressing the Hidden Threat to Long-Term Security](https://dev.to/viradiaharsh/cybersecurity-erosion-addressing-the-hidden-threat-to-long-term-security-346c)
+- [How to Activate Apple Passkeys on MacBooks](https://dev.to/corbado/how-to-activate-apple-passkeys-on-macbooks-13hh)
+- [MongoDB Server: An Overview](https://dev.to/keploy/mongodb-server-an-overview-336j)
+- [Has anyone tried Docker Installation on Ubuntu 24.04](https://dev.to/oliverbennet/has-anyone-tried-docker-installation-on-ubuntu-2404-5g88)
+- [Mastering Node.js CI/CD: Build &amp; Deploy with Azure DevOps to Azure Web App](https://dev.to/s3cloudhub/mastering-nodejs-cicd-build-deploy-with-azure-devops-to-azure-web-app-4cl2)
 <!-- BLOG-POST-LIST:END -->
 
