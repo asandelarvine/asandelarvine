@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Backstage performance &lpar;by up to 48x&rpar;](https://dev.to/roadie/improving-backstage-performance-by-up-to-48x-12d9)
-- [Integrating Speech Recognition Technology in Applications to Enhance User Experience](https://dev.to/julia_8cb077bca5/integrating-speech-recognition-technology-in-applications-to-enhance-user-experience-3hji)
-- [Icon Banks for Winforms and .NET9](https://dev.to/ramoneeza/icon-banks-for-winforms-and-net9-29n)
-- [react-native duplicate class problem](https://dev.to/mzakk/react-native-duplicate-class-problem-1lpi)
+- [GPT Evaluation and Its Future: A Deep Dive into the Evolution of AI Models](https://dev.to/christopher075/gpt-evaluation-and-its-future-a-deep-dive-into-the-evolution-of-ai-models-c99)
+- [Intro to CSS animations for React developers](https://dev.to/adevnadia/intro-to-css-animations-for-react-developers-5e19)
+- [Python Generators: A Complete Guide](https://dev.to/oussama_errafif/python-generators-a-complete-guide-33k7)
+- [Key Business Intelligence Tools in Project Development](https://dev.to/freshtech/key-business-intelligence-tools-in-project-development-12am)
 <!-- BLOG-POST-LIST:END -->
 
