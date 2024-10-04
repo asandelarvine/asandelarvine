@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Focusing your tests on the domain. A PHPUnit example](https://dev.to/icolomina/focusing-your-tests-on-the-domain-a-phpunit-example-c82)
-- [AWS Compute Optimizer now supports 80 additional Amazon EC2 instance types](https://dev.to/karthiksakthiveltechie/aws-compute-optimizer-now-supports-80-additional-amazon-ec2-instance-types-19p1)
-- [How to use CodeRabbit to validate issues against Linear Board](https://dev.to/coderabbitai/how-to-use-coderabbit-to-validate-issues-against-linear-board-23gi)
-- [React rendering lists with .map&lpar;&rpar;](https://dev.to/fullhousee/react-rendering-lists-with-map-2l0n)
+- [Stereotype of a Nigeria Hacker](https://dev.to/scofieldidehen/stereotype-of-a-nigeria-hacker-473k)
+- [Kicking Off My Hacktoberfest Journey!](https://dev.to/vrindagupta25/kicking-off-my-hacktoberfest-journey-5506)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13hp)
+- [&quot;Educational Resources for Preschoolers: Printable Worksheets, Games, and Activities&quot;](https://dev.to/athlen/educational-resources-for-preschoolers-printable-worksheets-games-and-activities-17p1)
 <!-- BLOG-POST-LIST:END -->
 
