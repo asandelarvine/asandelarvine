@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Telegram Bot and Send Messages Using Laravel 11](https://dev.to/akramghaleb/how-to-create-a-telegram-bot-and-send-messages-using-laravel-11-3709)
-- [Java Backend Management Project](https://dev.to/dinesh_peram_94caa7ef5ce9/java-backend-management-project-31bo)
-- [Cut AWS Costs by 90%: How We Saved Big and Gained Flexibility](https://dev.to/emilyjohnsonready/cut-aws-costs-by-90-how-we-saved-big-and-gained-flexibility-o1o)
-- [What is In-App Messaging?](https://dev.to/stephen568hub/what-is-in-app-messaging-2709)
+- [Bridging Native iOS Code with React Native Using Swift: A Step-by-Step Guide](https://dev.to/amitkumar13/bridging-native-ios-code-with-react-native-using-swift-a-step-by-step-guide-b05)
+- [Key Management for DIDs in Web5: A Beginner’s Guide](https://dev.to/kiran_baliga/key-management-for-dids-in-web5-a-beginners-guide-28nj)
+- [The Dark Reality of NFTs: An Obscure and Limited Landscape](https://dev.to/matias_affolter/the-dark-reality-of-nfts-an-obscure-and-limited-landscape-2ioc)
+- [Use `gem &quot;oj&quot;` for free JSON performance](https://dev.to/epigene/use-gem-oj-for-free-json-performance-1k28)
 <!-- BLOG-POST-LIST:END -->
 
