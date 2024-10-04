@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça Next.js 14: O Framework Full-Stack para Aplicações Web Modernas](https://dev.to/sabrinabarros/conheca-nextjs-14-o-framework-full-stack-para-aplicacoes-web-modernas-1e67)
-- [Day 1035 : Closer](https://dev.to/dwane/day-1035-closer-14oj)
-- [Day 2 tracking](https://dev.to/nelsonmalbonecoding/day-2-tracking-2p61)
-- [How to code a web scraper in c# dotnet 8](https://dev.to/joedev090/how-to-code-a-web-scrapper-in-c-dotnet-8-1c20)
+- [Guia Completo: Construindo um Script Seguro para Análise de Dados no MetaTrader5 com Python](https://dev.to/vital7388/guia-completo-construindo-um-script-seguro-para-analise-de-dados-no-metatrader5-com-python-4dhd)
+- [How can one person Making a Difference in innovation world](https://dev.to/yunwei37/how-can-one-person-making-a-difference-in-innovation-world-4cf)
+- [Props Basics: Part 1](https://dev.to/alegendcodes/props-basics-part-1-1mmk)
+- [Where Does Innovation Thrive? Choosing the Right Organization](https://dev.to/yunwei37/where-does-innovation-thrive-choosing-the-right-organization-4mko)
 <!-- BLOG-POST-LIST:END -->
 
