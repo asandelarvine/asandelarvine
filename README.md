@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s build &quot;Java demos&quot; together during Hacktoberfest](https://dev.to/aloisseckar/lets-build-java-demos-together-during-hacktoberfest-3dkj)
-- [More testing](https://dev.to/jesse_chong_3bcc276c4f950/more-testing-5ame)
-- [Understanding Beckn Protocol: Revolutionizing Open Networks in E-commerce](https://dev.to/kaustubhyerkade/beckn-protocol-6bd)
-- [Building a Blog Management System with .NET and Angular](https://dev.to/marvynharry/building-a-blog-management-system-with-net-and-angular-298k)
+- [Stuck Between Blockchain and Cloud Computing: Seeking Career Advice](https://dev.to/t9fiction/stuck-between-blockchain-and-cloud-computing-seeking-career-advice-140g)
+- [Top 8 Traffic Monitoring Tools for Next.js App](https://dev.to/ethanleetech/top-8-traffic-monitoring-tools-for-nextjs-app-30hn)
+- [Laravel সম্পর্কের চিটশিট](https://dev.to/r_if99/laravel-smprker-cittshitt-1lgm)
+- [Providing Storage for a New Company App](https://dev.to/onyemachi_doris/providing-storage-for-a-new-company-app-2a8j)
 <!-- BLOG-POST-LIST:END -->
 
