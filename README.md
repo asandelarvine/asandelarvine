@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Native iOS Code with React Native Using Swift: A Step-by-Step Guide](https://dev.to/amitkumar13/bridging-native-ios-code-with-react-native-using-swift-a-step-by-step-guide-b05)
-- [Key Management for DIDs in Web5: A Beginner’s Guide](https://dev.to/kiran_baliga/key-management-for-dids-in-web5-a-beginners-guide-28nj)
-- [The Dark Reality of NFTs: An Obscure and Limited Landscape](https://dev.to/matias_affolter/the-dark-reality-of-nfts-an-obscure-and-limited-landscape-2ioc)
-- [Use `gem &quot;oj&quot;` for free JSON performance](https://dev.to/epigene/use-gem-oj-for-free-json-performance-1k28)
+- [Focusing your tests on the domain. A PHPUnit example](https://dev.to/icolomina/focusing-your-tests-on-the-domain-a-phpunit-example-c82)
+- [AWS Compute Optimizer now supports 80 additional Amazon EC2 instance types](https://dev.to/karthiksakthiveltechie/aws-compute-optimizer-now-supports-80-additional-amazon-ec2-instance-types-19p1)
+- [How to use CodeRabbit to validate issues against Linear Board](https://dev.to/coderabbitai/how-to-use-coderabbit-to-validate-issues-against-linear-board-23gi)
+- [React rendering lists with .map&lpar;&rpar;](https://dev.to/fullhousee/react-rendering-lists-with-map-2l0n)
 <!-- BLOG-POST-LIST:END -->
 
