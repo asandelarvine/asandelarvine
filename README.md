@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Ways to Protect Your Personal Information Online &lpar;Master Guide&rpar;](https://dev.to/scofieldidehen/6-ways-to-protect-your-personal-information-online-master-guide-5gb9)
-- [How to Mock GraphQL API Responses 10x Faster](https://dev.to/requestly/how-to-mock-graphql-api-responses-10x-faster-3bgm)
-- [E-Commerce Platform with Golang : Project Directory Structure](https://dev.to/mohamedfawas1/e-commerce-platform-with-golang-project-directory-structure-53fg)
-- [E-Commerce Platform with Golang : Understanding clean architecture](https://dev.to/mohamedfawas1/e-commerce-platform-with-golang-part-2-2b6h)
+- [Top 5 Production-Ready Open Source AI Libraries for Engineering Teams](https://dev.to/kitops/top-5-production-ready-open-source-ai-libraries-for-engineering-teams-5hjo)
+- [The Journey from Developer to Senior Engineer: More Than Just Code](https://dev.to/abdielbytes/the-journey-from-developer-to-senior-engineer-more-than-just-code-4d3p)
+- [Efficient Data Handling in Triton: Mapping Threads to Data Points](https://dev.to/soket/efficient-data-handling-in-triton-mapping-threads-to-data-points-3p2d)
+- [Privacy first API Testing client for Mac](https://dev.to/juststevemcd/privacy-first-api-testing-client-for-mac-2910)
 <!-- BLOG-POST-LIST:END -->
 
