@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Swoole Entity Manager Bundle](https://dev.to/sebk69/small-swoole-entity-manager-bundle-46hm)
-- [Devlog: Hacktoberfest 2024 &lpar;1/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-14-23b)
-- [# 🚀 How I Made Your Life Easier with TOML Configs in an Open Source Project](https://dev.to/tasbi03/-how-i-made-your-life-easier-with-toml-configs-in-an-open-source-project-32n1)
-- [Sliding Window Questions](https://dev.to/mdiffshashank/sliding-window-questions-1mgk)
+- [Exploring the New React Framework: A Game Changer for Real-Time Applications](https://dev.to/rajeshkumaryadavdotcom/exploring-the-new-react-framework-a-game-changer-for-real-time-applications-30j9)
+- [Dia 6 - Fim do snake game e materiais que achei sobre física computacional.](https://dev.to/matheusgb/dia-6-fim-do-snake-game-e-materiais-que-achei-sobre-fisica-computacional-4kh2)
+- [Using jQuery](https://dev.to/taytay836/using-jquery-50l9)
+- [A New Programming Language](https://dev.to/myhauntedfork/a-new-programming-language-2gcf)
 <!-- BLOG-POST-LIST:END -->
 
