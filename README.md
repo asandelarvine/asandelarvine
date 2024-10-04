@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Ways Into Hacktoberfest 2024:](https://dev.to/alizayayesha/hacking-ways-into-hacktoberfest-2024-5bj5)
-- [OWASP Juice-Shop Walkthrough Tutorial [ DOM XSS ]](https://dev.to/hax/owasp-juice-shop-walkthrough-tutorial-dom-xss--16lp)
-- [Cyber Security Essentials: 8 Hands-On Penetration Testing Tutorials](https://dev.to/labex/cyber-security-essentials-8-hands-on-penetration-testing-tutorials-2f62)
-- [Module in PyTorch](https://dev.to/hyperkai/module-in-pytorch-4626)
+- [Building a Quiz App Using Python: A Step-by-Step Guide](https://dev.to/ratan_3511/building-a-quiz-app-using-python-a-step-by-step-guide-2j25)
+- [Using observers in Laravel to track model events](https://dev.to/tim-e/using-observers-in-laravel-to-track-model-events-3bii)
+- [Cybersecurity Awareness Month: Stay Safe Online](https://dev.to/sennovate/cybersecurity-awareness-month-stay-safe-online-l31)
+- [Setting Up a Kubernetes Bare Metal Cluster on Ubuntu](https://dev.to/jeanb/setting-up-a-kubernetes-bare-metal-cluster-on-ubuntu-33k8)
 <!-- BLOG-POST-LIST:END -->
 
