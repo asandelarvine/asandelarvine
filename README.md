@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on GSoC 2024](https://dev.to/stdlib/reflecting-on-gsoc-2024-5doa)
-- [Creating tests in real database with NestJS, TypeORM and PostgreSQL](https://dev.to/gabriel_couto_ecrser/creating-tests-in-real-database-with-nestjs-typeorm-and-postgresql-2chd)
-- [A Detailed Guide To Mastering SaaS Testing Tools](https://dev.to/misterankit/a-detailed-guide-to-mastering-saas-testing-tools-30a9)
-- [Connecting Your Go API to a PostgreSQL Database](https://dev.to/neelp03/connecting-your-go-api-to-a-postgresql-database-39)
+- [Hacking Ways Into Hacktoberfest 2024:](https://dev.to/alizayayesha/hacking-ways-into-hacktoberfest-2024-5bj5)
+- [OWASP Juice-Shop Walkthrough Tutorial [ DOM XSS ]](https://dev.to/hax/owasp-juice-shop-walkthrough-tutorial-dom-xss--16lp)
+- [Cyber Security Essentials: 8 Hands-On Penetration Testing Tutorials](https://dev.to/labex/cyber-security-essentials-8-hands-on-penetration-testing-tutorials-2f62)
+- [Module in PyTorch](https://dev.to/hyperkai/module-in-pytorch-4626)
 <!-- BLOG-POST-LIST:END -->
 
