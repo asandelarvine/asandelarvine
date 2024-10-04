@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stereotype of a Nigeria Hacker](https://dev.to/scofieldidehen/stereotype-of-a-nigeria-hacker-473k)
-- [Kicking Off My Hacktoberfest Journey!](https://dev.to/vrindagupta25/kicking-off-my-hacktoberfest-journey-5506)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13hp)
-- [&quot;Educational Resources for Preschoolers: Printable Worksheets, Games, and Activities&quot;](https://dev.to/athlen/educational-resources-for-preschoolers-printable-worksheets-games-and-activities-17p1)
+- [Unicode, Emojis, and a bit of Golang](https://dev.to/moukoublen/unicode-emojis-and-a-bit-of-golang-3ced)
+- [SOLID Principles in Functional Programming &lpar;FP&rpar; with examples](https://dev.to/rosselli00/solid-principles-in-functional-programming-fp-with-examples-4bj4)
+- [Give me ideas for AI Tools to build](https://dev.to/devwithsuraj/give-me-ideas-for-ai-tools-to-build-2a17)
+- [Introduction to Java: for Beginners](https://dev.to/nenyasha/introduction-to-java-oa8)
 <!-- BLOG-POST-LIST:END -->
 
