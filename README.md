@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT Evaluation and Its Future: A Deep Dive into the Evolution of AI Models](https://dev.to/christopher075/gpt-evaluation-and-its-future-a-deep-dive-into-the-evolution-of-ai-models-c99)
-- [Intro to CSS animations for React developers](https://dev.to/adevnadia/intro-to-css-animations-for-react-developers-5e19)
-- [Python Generators: A Complete Guide](https://dev.to/oussama_errafif/python-generators-a-complete-guide-33k7)
-- [Key Business Intelligence Tools in Project Development](https://dev.to/freshtech/key-business-intelligence-tools-in-project-development-12am)
+- [Frontend Development for Beginners: Your Essential Starting Point](https://dev.to/asimachowdhury/frontend-development-for-beginners-your-essential-starting-point-3l94)
+- [Why Learn To Disable Glance on Samsung? Know More About It Instead!](https://dev.to/claywinston/why-learn-to-disable-glance-on-samsung-know-more-about-it-instead-2f06)
+- [Top 10 System Designs || Interview Guide](https://dev.to/akshat0610/top-10-system-designs-interview-guide-3fgf)
+- [How to Improve Website Performance: Tips and Tools](https://dev.to/vibhuvibes/how-to-improve-website-performance-tips-and-tools-c19)
 <!-- BLOG-POST-LIST:END -->
 
