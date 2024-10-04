@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unicode, Emojis, and a bit of Golang](https://dev.to/moukoublen/unicode-emojis-and-a-bit-of-golang-3ced)
-- [SOLID Principles in Functional Programming &lpar;FP&rpar; with examples](https://dev.to/rosselli00/solid-principles-in-functional-programming-fp-with-examples-4bj4)
-- [Give me ideas for AI Tools to build](https://dev.to/devwithsuraj/give-me-ideas-for-ai-tools-to-build-2a17)
-- [Introduction to Java: for Beginners](https://dev.to/nenyasha/introduction-to-java-oa8)
+- [Small Swoole Entity Manager Bundle](https://dev.to/sebk69/small-swoole-entity-manager-bundle-46hm)
+- [Devlog: Hacktoberfest 2024 &lpar;1/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-14-23b)
+- [# 🚀 How I Made Your Life Easier with TOML Configs in an Open Source Project](https://dev.to/tasbi03/-how-i-made-your-life-easier-with-toml-configs-in-an-open-source-project-32n1)
+- [Sliding Window Questions](https://dev.to/mdiffshashank/sliding-window-questions-1mgk)
 <!-- BLOG-POST-LIST:END -->
 
