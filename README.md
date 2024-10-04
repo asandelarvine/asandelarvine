@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Quiz App Using Python: A Step-by-Step Guide](https://dev.to/ratan_3511/building-a-quiz-app-using-python-a-step-by-step-guide-2j25)
-- [Using observers in Laravel to track model events](https://dev.to/tim-e/using-observers-in-laravel-to-track-model-events-3bii)
-- [Cybersecurity Awareness Month: Stay Safe Online](https://dev.to/sennovate/cybersecurity-awareness-month-stay-safe-online-l31)
-- [Setting Up a Kubernetes Bare Metal Cluster on Ubuntu](https://dev.to/jeanb/setting-up-a-kubernetes-bare-metal-cluster-on-ubuntu-33k8)
+- [Podlite: Powering Up Knowledge Management](https://dev.to/zag/podlite-powering-up-knowledge-management-1knn)
+- [How the shell aliases affect shell functions: two pitfalls](https://dev.to/franklinyu/how-the-shell-aliases-affect-shell-functions-two-pitfalls-2ao9)
+- [The Role of Real-Time Finance APIs in Building Automated Trading Systems](https://dev.to/williamsmithh/the-role-of-real-time-finance-apis-in-building-automated-trading-systems-151j)
+- [Cybersecurity Erosion: Addressing the Hidden Threat to Long-Term Security](https://dev.to/viradiaharsh/cybersecurity-erosion-addressing-the-hidden-threat-to-long-term-security-346c)
 <!-- BLOG-POST-LIST:END -->
 
