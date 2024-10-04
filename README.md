@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Activate Apple Passkeys on MacBooks](https://dev.to/corbado/how-to-activate-apple-passkeys-on-macbooks-13hh)
-- [MongoDB Server: An Overview](https://dev.to/keploy/mongodb-server-an-overview-336j)
-- [Has anyone tried Docker Installation on Ubuntu 24.04](https://dev.to/oliverbennet/has-anyone-tried-docker-installation-on-ubuntu-2404-5g88)
-- [Mastering Node.js CI/CD: Build &amp; Deploy with Azure DevOps to Azure Web App](https://dev.to/s3cloudhub/mastering-nodejs-cicd-build-deploy-with-azure-devops-to-azure-web-app-4cl2)
+- [Improving Backstage performance &lpar;by up to 48x&rpar;](https://dev.to/roadie/improving-backstage-performance-by-up-to-48x-12d9)
+- [Integrating Speech Recognition Technology in Applications to Enhance User Experience](https://dev.to/julia_8cb077bca5/integrating-speech-recognition-technology-in-applications-to-enhance-user-experience-3hji)
+- [Icon Banks for Winforms and .NET9](https://dev.to/ramoneeza/icon-banks-for-winforms-and-net9-29n)
+- [react-native duplicate class problem](https://dev.to/mzakk/react-native-duplicate-class-problem-1lpi)
 <!-- BLOG-POST-LIST:END -->
 
