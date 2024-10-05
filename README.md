@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Directory of Apache Iceberg Resources](https://dev.to/alexmercedcoder/ultimate-directory-of-apache-iceberg-resources-56i0)
-- [&quot;the diagram below shows lower level details for process x1 of the y1 system&quot;.](https://dev.to/ndungu_jeffersonmarira_/the-diagram-below-shows-lower-level-details-for-process-x1-of-the-y1-system-3j09)
-- [Comprendiendo la copia profunda en JavaScript](https://dev.to/daniel1775/comprendiendo-la-copia-profunda-en-javascript-2oon)
-- [Rasp-Pi Network ID tool](https://dev.to/cisc0_pete/rasp-pi-network-id-tool-5hcm)
+- [Rust Procedural Macros: Unlocking the Power of Custom Code Generation](https://dev.to/benodiwal/rust-procedural-macros-unlocking-the-power-of-custom-code-generation-16po)
+- [Hello World!](https://dev.to/charlottejdcb/hello-world-3joj)
+- [Dia 7 - Diferença entre C e C++, &quot;por que C++ é rápido?&quot; e uso de ponteiros.](https://dev.to/matheusgb/dia-7-diferenca-entre-c-e-c-por-que-c-e-rapido-e-uso-de-ponteiros-3hb0)
+- [4 Conceitos legais do JavaScript que você vai achar legal também](https://dev.to/leomarlinhares/4-conceitos-legais-do-javascript-que-voce-vai-achar-legal-tambem-40dp)
 <!-- BLOG-POST-LIST:END -->
 
