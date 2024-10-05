@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Habits of Great Software Engineers](https://dev.to/safdarali/5-habits-of-great-software-engineers-4i73)
-- [Solving the HackerRank&quot;Grading Students&quot; Problem in TypeScript](https://dev.to/kingdraxx/solving-the-hackerrankgrading-students-problem-in-typescript-4h2m)
-- [A Practical Approach to TOML Files and Remote Branch Management](https://dev.to/kannav02/a-practical-approach-to-toml-files-and-remote-branch-management-hh8)
-- [Understanding the Prototype Pattern in C# with Practical Examples](https://dev.to/dazevedo/understanding-the-prototype-pattern-in-c-with-practical-examples-1gg3)
+- [Instrumentação com OpenTelemetry: Zero-Code, Code-Based ou Bibliotecas Instrumentadas?](https://dev.to/dellamas/instrumentacao-com-opentelemetry-zero-code-code-based-ou-bibliotecas-instrumentadas-3477)
+- [Join Hacktoberfest 2024 and Make Your First Open Source Contribution!](https://dev.to/dnafication/join-hacktoberfest-2024-and-make-your-first-open-source-contribution-5hmp)
+- [Collab with Git Remotes: Adding TOML Config Support Feature](https://dev.to/vinhyan/collab-with-git-remotes-adding-toml-config-support-feature-jod)
+- [Hackoberfest: Part 1](https://dev.to/add00_3/hackoberfest-part-1-1b8j)
 <!-- BLOG-POST-LIST:END -->
 
