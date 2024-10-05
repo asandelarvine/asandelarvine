@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Open-Source: Reflections on Hacktoberfest 2024](https://dev.to/basheer_mohammed/the-power-of-open-source-reflections-on-hacktoberfest-2024-39fn)
-- [I&#39;m Falling in love with Build in Public](https://dev.to/litlyx/im-falling-in-love-with-build-in-public-23fa)
-- [Interactive Portfolio Website](https://dev.to/divyankgupta/interactive-portfolio-website-4cnc)
-- [A button who avoid your mouse 🏃‍♂️](https://dev.to/crisxzu/a-button-who-avoid-your-mouse-2bfp)
+- [GPT-2 and GPT-3: The Evolution of Language Models](https://dev.to/nareshnishad/gpt-2-and-gpt-3-the-evolution-of-language-models-15bh)
+- [Create a Virtual Machine on Azure Using Terraform](https://dev.to/romanus_onyekwere/create-a-virtual-machine-on-azure-using-terraform-2oog)
+- [Lazyload Scripts like Images](https://dev.to/paulbrowne/lazyload-scripts-like-images-30e0)
+- [The alternative to roadmaps](https://dev.to/cadienvan/the-alternative-to-roadmaps-1beo)
 <!-- BLOG-POST-LIST:END -->
 
