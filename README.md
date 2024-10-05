@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Flexbox: Creating a Landing Page Layout](https://dev.to/tailwine/css-flexbox-creating-a-landing-page-layout-4m12)
-- [House robber III](https://dev.to/prashantrmishra/house-robber-iii-3b2g)
-- [LinkedList in JavaScript](https://dev.to/bappasahabapi/linkedlist-in-javascript-5109)
-- [Advanced Docker Networking: A Complete Guide](https://dev.to/grigorkh/advanced-docker-networking-a-complete-guide-pel)
+- [Top 100 Linux Troubleshooting Commands &lpar;Must Know&rpar;](https://dev.to/trixsec/top-100-linux-troubleshooting-commands-must-know-36c1)
+- [Adding Logging and Error Handling Middleware to Your Go API](https://dev.to/neelp03/adding-logging-and-error-handling-middleware-to-your-go-api-2f33)
+- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-of5)
+- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-4bk5)
 <!-- BLOG-POST-LIST:END -->
 
