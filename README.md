@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Global State in React.js Apps: A Practical Approach](https://dev.to/leiniercs/managing-global-state-in-reactjs-apps-a-practical-approach-4mc8)
-- [The ways to know](https://dev.to/bagua_king_d47362217a9966/the-ways-to-know-4044)
-- [Slices in Go: Grow Big or Go Home](https://dev.to/func25/slices-in-go-grow-big-or-go-home-48b7)
-- [Parsing in Oracle SQL | Hard parsing | soft parsing.](https://dev.to/mrcaption49/parsing-in-oracle-sql-hard-parsing-soft-parsing-5d1l)
+- [Amazon Route 53 Resolver endpoints now support DNS-over-HTTPS &lpar;DoH&rpar; with Server Name Indication &lpar;SNI&rpar; validation](https://dev.to/karthiksakthiveltechie/amazon-route-53-resolver-endpoints-now-support-dns-over-https-doh-with-server-name-indication-sni-validation-2jei)
+- [Angular 18: Improving application Performance with Partial Hydration and SSR](https://dev.to/this-is-angular/angular-18-improving-application-performance-with-partial-hydration-and-ssr-2nie)
+- [How to build a modern data platform on the free tier of Google Cloud Platform](https://dev.to/mark_kiehl_d375d99c04bc85/how-to-build-a-modern-data-platform-on-the-free-tier-of-google-cloud-platform-4162)
+- [Power BI Paginated Reports: Creating and Using Paginated Reports for Detailed Reporting Needs](https://dev.to/jit_data/power-bi-paginated-reports-creating-and-using-paginated-reports-for-detailed-reporting-needs-3h4e)
 <!-- BLOG-POST-LIST:END -->
 
