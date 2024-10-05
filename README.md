@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding NGINX: The Power Behind Modern Web Infrastructure](https://dev.to/rajeshkumaryadavdotcom/understanding-nginx-the-power-behind-modern-web-infrastructure-5agn)
-- [I kept playing with my code and made a function to uppercase a letter instance in a string.](https://dev.to/wormondeck/i-kept-playing-with-my-code-and-made-a-function-to-uppercase-a-letter-instance-in-a-string-5fj9)
-- [Movie industry facts](https://dev.to/codepo8/movie-industry-facts-2kaj)
-- [Compressing videos to webm in the browser](https://dev.to/abhirup99/compressing-videos-to-webm-in-the-browser-1poc)
+- [Activation functions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/activation-functions-in-pytorch-1-4hj)
+- [Memory Unit](https://dev.to/airdrop_crypto_a8053de295/memory-unit-5ckj)
+- [Loss functions in PyTorch](https://dev.to/hyperkai/loss-functions-in-pytorch-3a2c)
+- [Looking for Feedback on My Project : jy95.github.io](https://dev.to/jy95/looking-for-feedback-on-my-project-jy95githubio-4hac)
 <!-- BLOG-POST-LIST:END -->
 
