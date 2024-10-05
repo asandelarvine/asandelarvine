@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 5, Lab 4](https://dev.to/cduarte3/week-5-lab-4-239p)
-- [New Structured Fields RFC out, and so is my Javascript package](https://dev.to/evert/new-structured-fields-rfc-out-and-so-is-my-javascript-package-o4l)
-- [Your stand-up is bad, and you should feel bad.](https://dev.to/kleeut/your-stand-up-is-bad-and-you-should-feel-bad-2l8k)
-- [Data Transformations: Third Maximum and Jumbled Letters](https://dev.to/aplgr/data-transformations-third-maximum-and-jumbled-letters-np3)
+- [¿Cómo empezó JavaScript?](https://dev.to/maricarmendev/como-empezo-javascript-4dnf)
+- [Pulsy Readme updated](https://dev.to/ng_dream_3e53e6a868268e4d/pulsy-readme-updated-15l6)
+- [Week 4: Lab 4 TOML file support](https://dev.to/mpalhutchinson/week-4-lab-4-toml-file-support-17o)
+- [LabEx Trending: Give Your Page a Makeover and More](https://dev.to/labex/labex-trending-give-your-page-a-makeover-and-more-4p66)
 <!-- BLOG-POST-LIST:END -->
 
