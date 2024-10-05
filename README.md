@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 System Design Resources for Programming Interviews](https://dev.to/somadevtoo/top-15-system-design-resources-for-programming-interviews-1m15)
-- [Difference between HTTP/1.0, HTTP/1.1, HTTP/2, and HTTP/3](https://dev.to/rajeshkumaryadavdotcom/difference-between-http10-http11-http2-and-http3-1pd3)
-- [Nextjs Sentry](https://dev.to/turingvangisms/nextjs-sentry-5ha4)
-- [AWS Firewall Manager: Comprehensive Security Management for Your Cloud Infrastructure](https://dev.to/ikoh_sylva/aws-firewall-manager-comprehensive-security-management-for-your-cloud-infrastructure-1jef)
+- [Understanding Laravel&#39;s MorphTo Relation: A Practical Guide](https://dev.to/arafatweb/understanding-laravels-morphto-relation-a-practical-guide-2l3p)
+- [The Differences Between let, const, and var in JavaScript.](https://dev.to/laxmann/the-differences-between-let-const-and-var-in-javascript-56f4)
+- [Exploring Azure Queue Storage in .NET](https://dev.to/berviantoleo/exploring-azure-queue-storage-in-net-55mk)
+- [React module =&gt; No Framework](https://dev.to/pengeszikra/react-module-no-framework-1ha6)
 <!-- BLOG-POST-LIST:END -->
 
