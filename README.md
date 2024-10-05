@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Laravel&#39;s MorphTo Relation: A Practical Guide](https://dev.to/arafatweb/understanding-laravels-morphto-relation-a-practical-guide-2l3p)
-- [The Differences Between let, const, and var in JavaScript.](https://dev.to/laxmann/the-differences-between-let-const-and-var-in-javascript-56f4)
-- [Exploring Azure Queue Storage in .NET](https://dev.to/berviantoleo/exploring-azure-queue-storage-in-net-55mk)
-- [React module =&gt; No Framework](https://dev.to/pengeszikra/react-module-no-framework-1ha6)
+- [The Power of Open-Source: Reflections on Hacktoberfest 2024](https://dev.to/basheer_mohammed/the-power-of-open-source-reflections-on-hacktoberfest-2024-39fn)
+- [I&#39;m Falling in love with Build in Public](https://dev.to/litlyx/im-falling-in-love-with-build-in-public-23fa)
+- [Interactive Portfolio Website](https://dev.to/divyankgupta/interactive-portfolio-website-4cnc)
+- [A button who avoid your mouse 🏃‍♂️](https://dev.to/crisxzu/a-button-who-avoid-your-mouse-2bfp)
 <!-- BLOG-POST-LIST:END -->
 
