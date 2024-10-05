@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo empezó JavaScript?](https://dev.to/maricarmendev/como-empezo-javascript-4dnf)
-- [Pulsy Readme updated](https://dev.to/ng_dream_3e53e6a868268e4d/pulsy-readme-updated-15l6)
-- [Week 4: Lab 4 TOML file support](https://dev.to/mpalhutchinson/week-4-lab-4-toml-file-support-17o)
-- [LabEx Trending: Give Your Page a Makeover and More](https://dev.to/labex/labex-trending-give-your-page-a-makeover-and-more-4p66)
+- [CSS Flexbox: Creating a Landing Page Layout](https://dev.to/tailwine/css-flexbox-creating-a-landing-page-layout-4m12)
+- [House robber III](https://dev.to/prashantrmishra/house-robber-iii-3b2g)
+- [LinkedList in JavaScript](https://dev.to/bappasahabapi/linkedlist-in-javascript-5109)
+- [Advanced Docker Networking: A Complete Guide](https://dev.to/grigorkh/advanced-docker-networking-a-complete-guide-pel)
 <!-- BLOG-POST-LIST:END -->
 
