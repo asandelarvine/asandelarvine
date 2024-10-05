@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Route 53 Resolver endpoints now support DNS-over-HTTPS &lpar;DoH&rpar; with Server Name Indication &lpar;SNI&rpar; validation](https://dev.to/karthiksakthiveltechie/amazon-route-53-resolver-endpoints-now-support-dns-over-https-doh-with-server-name-indication-sni-validation-2jei)
-- [Angular 18: Improving application Performance with Partial Hydration and SSR](https://dev.to/this-is-angular/angular-18-improving-application-performance-with-partial-hydration-and-ssr-2nie)
-- [How to build a modern data platform on the free tier of Google Cloud Platform](https://dev.to/mark_kiehl_d375d99c04bc85/how-to-build-a-modern-data-platform-on-the-free-tier-of-google-cloud-platform-4162)
-- [Power BI Paginated Reports: Creating and Using Paginated Reports for Detailed Reporting Needs](https://dev.to/jit_data/power-bi-paginated-reports-creating-and-using-paginated-reports-for-detailed-reporting-needs-3h4e)
+- [Getting Started with Firebase Cloud Functions: A Comprehensive Guide.](https://dev.to/pasindumendis/getting-started-with-firebase-cloud-functions-a-comprehensive-guide-59l4)
+- [ChatGPT Canvas: A Game-Changer for Writers and Coders](https://dev.to/proflead/chatgpt-canvas-a-game-changer-for-writers-and-coders-4128)
+- [Getting started on Spring boot and MongoDB - Part 2](https://dev.to/ehrbhein/getting-started-on-spring-boot-and-mongodb-part-2-2jj5)
+- [Code Smell 273 - Overengineering](https://dev.to/mcsee/code-smell-273-overengineering-2b0a)
 <!-- BLOG-POST-LIST:END -->
 
