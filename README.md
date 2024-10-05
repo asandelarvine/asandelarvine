@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are targets for in Rust?](https://dev.to/benslinux2024/what-are-targets-for-in-rust-44l3)
-- [Getting Involved in Hacktoberfest !](https://dev.to/ajogseneca/getting-involved-in-hacktoberfest--4564)
-- [CUPP: How Dictionary based Bruteforce Attacks can be more optimized](https://dev.to/eniamza/cupp-how-dictionary-based-bruteforce-attacks-can-be-more-optimized-3b0g)
-- [This New AI Tool &lpar;FREE&rpar; Could Put Claude &amp; v0.dev in the Dust – Here’s Why](https://dev.to/vaib215/this-new-ai-tool-free-could-put-claude-v0dev-in-the-dust-heres-why-3p7p)
+- [More Secure JWT | A Better Experience](https://dev.to/adnanbabakan/more-secure-jwt-a-better-experience-16nm)
+- [PHP Apache project with Virtual Host](https://dev.to/xxzeroxx/php-apache-project-with-virtual-host-2npk)
+- [MLSeries: An Introduction to Neural Networks](https://dev.to/samder/mlseries-an-introduction-to-neural-networks-2mo5)
+- [Building a Secure Anonymous Feedback System with Django, Twilio, and Pinata](https://dev.to/chidoziemanagwu/building-a-secure-anonymous-feedback-system-with-django-twilio-and-pinata-4bh)
 <!-- BLOG-POST-LIST:END -->
 
