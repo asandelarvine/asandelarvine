@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Master How Doubly Linked List is implemented in JavaScript](https://dev.to/emmanuelayinde/master-how-doubly-linked-list-is-implemented-in-javascript-ogi)
 - [Rust Procedural Macros: Unlocking the Power of Custom Code Generation](https://dev.to/benodiwal/rust-procedural-macros-unlocking-the-power-of-custom-code-generation-16po)
 - [Hello World!](https://dev.to/charlottejdcb/hello-world-3joj)
 - [Dia 7 - Diferença entre C e C++, &quot;por que C++ é rápido?&quot; e uso de ponteiros.](https://dev.to/matheusgb/dia-7-diferenca-entre-c-e-c-por-que-c-e-rapido-e-uso-de-ponteiros-3hb0)
-- [4 Conceitos legais do JavaScript que você vai achar legal também](https://dev.to/leomarlinhares/4-conceitos-legais-do-javascript-que-voce-vai-achar-legal-tambem-40dp)
 <!-- BLOG-POST-LIST:END -->
 
