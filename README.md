@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Firebase Cloud Functions: A Comprehensive Guide.](https://dev.to/pasindumendis/getting-started-with-firebase-cloud-functions-a-comprehensive-guide-59l4)
-- [ChatGPT Canvas: A Game-Changer for Writers and Coders](https://dev.to/proflead/chatgpt-canvas-a-game-changer-for-writers-and-coders-4128)
-- [Getting started on Spring boot and MongoDB - Part 2](https://dev.to/ehrbhein/getting-started-on-spring-boot-and-mongodb-part-2-2jj5)
-- [Code Smell 273 - Overengineering](https://dev.to/mcsee/code-smell-273-overengineering-2b0a)
+- [What are targets for in Rust?](https://dev.to/benslinux2024/what-are-targets-for-in-rust-44l3)
+- [Getting Involved in Hacktoberfest !](https://dev.to/ajogseneca/getting-involved-in-hacktoberfest--4564)
+- [CUPP: How Dictionary based Bruteforce Attacks can be more optimized](https://dev.to/eniamza/cupp-how-dictionary-based-bruteforce-attacks-can-be-more-optimized-3b0g)
+- [This New AI Tool &lpar;FREE&rpar; Could Put Claude &amp; v0.dev in the Dust – Here’s Why](https://dev.to/vaib215/this-new-ai-tool-free-could-put-claude-v0dev-in-the-dust-heres-why-3p7p)
 <!-- BLOG-POST-LIST:END -->
 
