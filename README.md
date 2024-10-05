@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Instrumentação com OpenTelemetry: Zero-Code, Code-Based ou Bibliotecas Instrumentadas?](https://dev.to/dellamas/instrumentacao-com-opentelemetry-zero-code-code-based-ou-bibliotecas-instrumentadas-3477)
-- [Join Hacktoberfest 2024 and Make Your First Open Source Contribution!](https://dev.to/dnafication/join-hacktoberfest-2024-and-make-your-first-open-source-contribution-5hmp)
-- [Collab with Git Remotes: Adding TOML Config Support Feature](https://dev.to/vinhyan/collab-with-git-remotes-adding-toml-config-support-feature-jod)
-- [Hackoberfest: Part 1](https://dev.to/add00_3/hackoberfest-part-1-1b8j)
+- [Week 5, Lab 4](https://dev.to/cduarte3/week-5-lab-4-239p)
+- [New Structured Fields RFC out, and so is my Javascript package](https://dev.to/evert/new-structured-fields-rfc-out-and-so-is-my-javascript-package-o4l)
+- [Your stand-up is bad, and you should feel bad.](https://dev.to/kleeut/your-stand-up-is-bad-and-you-should-feel-bad-2l8k)
+- [Data Transformations: Third Maximum and Jumbled Letters](https://dev.to/aplgr/data-transformations-third-maximum-and-jumbled-letters-np3)
 <!-- BLOG-POST-LIST:END -->
 
