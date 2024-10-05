@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we use different int in Go :](https://dev.to/divyansh_pratapsingh_a47/why-we-use-different-int-in-go--f62)
-- [Create a Share Button for Social Media Links in React &lpar;Without Any Package&rpar; 📤](https://dev.to/sarwarasik/create-a-share-button-for-social-media-links-in-react-without-any-package-26i1)
-- [CSS Media Queries](https://dev.to/shieldstring/css-media-queries-4pfi)
-- [Day 2 - Shepherding Streams of Tokens &amp;&amp; why I call myself Kanzish 🦍](https://dev.to/kanzish/day-2-why-i-call-myself-kanzish-nj6)
+- [Access Your Computer Anywhere with VS Code: A Guide to Remote Tunneling](https://dev.to/rajeshkumaryadavdotcom/access-your-computer-anywhere-with-vs-code-a-guide-to-remote-tunneling-2nnf)
+- [Buildozer App convert error](https://dev.to/dineshm/buildozer-app-convert-error-4l0c)
+- [Applying the Data Mapper Pattern in a Customer Relationship Management System](https://dev.to/erick_javiersalinascond/implementing-the-data-mapper-pattern-in-a-customer-management-system-3goc)
+- [10 JavaScript concepts every Node developer must master](https://dev.to/usman_awan/10-javascript-concepts-every-node-developer-must-master-2na)
 <!-- BLOG-POST-LIST:END -->
 
