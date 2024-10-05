@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 100 Linux Troubleshooting Commands &lpar;Must Know&rpar;](https://dev.to/trixsec/top-100-linux-troubleshooting-commands-must-know-36c1)
-- [Adding Logging and Error Handling Middleware to Your Go API](https://dev.to/neelp03/adding-logging-and-error-handling-middleware-to-your-go-api-2f33)
-- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-of5)
-- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-4bk5)
+- [Why we use different int in Go :](https://dev.to/divyansh_pratapsingh_a47/why-we-use-different-int-in-go--f62)
+- [Create a Share Button for Social Media Links in React &lpar;Without Any Package&rpar; 📤](https://dev.to/sarwarasik/create-a-share-button-for-social-media-links-in-react-without-any-package-26i1)
+- [CSS Media Queries](https://dev.to/shieldstring/css-media-queries-4pfi)
+- [Day 2 - Shepherding Streams of Tokens &amp;&amp; why I call myself Kanzish 🦍](https://dev.to/kanzish/day-2-why-i-call-myself-kanzish-nj6)
 <!-- BLOG-POST-LIST:END -->
 
