@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More Secure JWT | A Better Experience](https://dev.to/adnanbabakan/more-secure-jwt-a-better-experience-16nm)
-- [PHP Apache project with Virtual Host](https://dev.to/xxzeroxx/php-apache-project-with-virtual-host-2npk)
-- [MLSeries: An Introduction to Neural Networks](https://dev.to/samder/mlseries-an-introduction-to-neural-networks-2mo5)
-- [Building a Secure Anonymous Feedback System with Django, Twilio, and Pinata](https://dev.to/chidoziemanagwu/building-a-secure-anonymous-feedback-system-with-django-twilio-and-pinata-4bh)
+- [Understanding NGINX: The Power Behind Modern Web Infrastructure](https://dev.to/rajeshkumaryadavdotcom/understanding-nginx-the-power-behind-modern-web-infrastructure-5agn)
+- [I kept playing with my code and made a function to uppercase a letter instance in a string.](https://dev.to/wormondeck/i-kept-playing-with-my-code-and-made-a-function-to-uppercase-a-letter-instance-in-a-string-5fj9)
+- [Movie industry facts](https://dev.to/codepo8/movie-industry-facts-2kaj)
+- [Compressing videos to webm in the browser](https://dev.to/abhirup99/compressing-videos-to-webm-in-the-browser-1poc)
 <!-- BLOG-POST-LIST:END -->
 
