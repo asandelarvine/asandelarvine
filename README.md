@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-2 and GPT-3: The Evolution of Language Models](https://dev.to/nareshnishad/gpt-2-and-gpt-3-the-evolution-of-language-models-15bh)
-- [Create a Virtual Machine on Azure Using Terraform](https://dev.to/romanus_onyekwere/create-a-virtual-machine-on-azure-using-terraform-2oog)
-- [Lazyload Scripts like Images](https://dev.to/paulbrowne/lazyload-scripts-like-images-30e0)
-- [The alternative to roadmaps](https://dev.to/cadienvan/the-alternative-to-roadmaps-1beo)
+- [C# Design Pattern: Proxy](https://dev.to/juarezasjunior/c-design-pattern-proxy-2bhc)
+- [C# Design Pattern: Proxy &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-proxy-portugues-28a0)
+- [How to fix “fatal reached heap limit allocation failed javascript heap out of memory”](https://dev.to/abdielbytes/how-to-fix-fatal-reached-heap-limit-allocation-failed-javascript-heap-out-of-memory-2ab2)
+- [The Future of DevOps – Beyond Automation to Data, AI, and Intelligent Observability : Day 50 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/the-future-of-devops-beyond-automation-to-data-ai-and-intelligent-observability-day-50-of-50-days-devops-tools-series-4682)
 <!-- BLOG-POST-LIST:END -->
 
