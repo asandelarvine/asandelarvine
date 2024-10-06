@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Ngrok?](https://dev.to/femolacaster/what-is-ngrok-1023)
-- [Liman MYS Üzerinden CUPS Güvenlik Güncellemeleri ile İlgili Paketlerin Güncellenmesi](https://dev.to/aciklab/liman-mys-uzerinden-cups-guvenlik-guncellemeleri-ile-ilgili-paketlerin-guncellenmesi-3836)
-- [CYPRESS-AJV-SCHEMA-VALIDATOR v1.2.0: Boost Debugging Skills from Vigilante to Superhero with Advanced Schema Error Insights!](https://dev.to/sebastianclavijo/cypress-ajv-schema-validator-v120-boost-debugging-skills-from-vigilante-to-superhero-with-advanced-schema-error-insights-1hld)
-- [Empowering Healthcare with Data: Choosing the Best Platforms for Advanced Analytics](https://dev.to/chaets/empowering-healthcare-with-data-choosing-the-best-platforms-for-advanced-analytics-1end)
+- [Circular Linked Lists Demystified: From Novice to Node Master](https://dev.to/emmanuelayinde/circular-linked-lists-demystified-from-novice-to-node-master-4d5i)
+- [Fundamentals of Computer Architecture: Understanding the Structure Behind the Hardware](https://dev.to/yihongz/fundamentals-of-computer-architecture-understanding-the-structure-behind-the-hardware-1oka)
+- [Downloading and Converting YouTube Videos to MP3 using yt-dlp in Python](https://dev.to/_ken0x/downloading-and-converting-youtube-videos-to-mp3-using-yt-dlp-in-python-20c5)
+- [Unlock API Potential in 7 Steps: Master RedHat 3-Scale for Beginners](https://dev.to/parkerava/unlock-api-potential-in-7-steps-master-redhat-3-scale-for-beginners-1d89)
 <!-- BLOG-POST-LIST:END -->
 
