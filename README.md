@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Your Communication As A Software Engineer](https://dev.to/angelito_tubig_5e8fa80f5d/improving-your-communication-as-a-software-engineer-1dka)
-- [tarsosdsp](https://dev.to/billel_boulkroun_9f7399d4/tarsosdsp-5b78)
-- [🚀 Day 2 of the #90DaysOfDevOps Challenge: Mastering Basic Linux Commands](https://dev.to/singh_in_cloud/day-2-of-the-90daysofdevops-challenge-mastering-basic-linux-commands-3c60)
-- [GitOps for Edge Computing: Managing Distributed Microservices Across Edge Nodes](https://dev.to/mark_mwendia_0298dd9c0aad/gitops-for-edge-computing-managing-distributed-microservices-across-edge-nodes-3pa)
+- [Law of Demeter &lpar;Principle of Least Knowledge&rpar;](https://dev.to/dazevedo/law-of-demeter-principle-of-least-knowledge-35l2)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/kibowen_8/python-101-introduction-to-python-as-a-data-analytics-tool-35li)
+- [Dia 8 - Iniciando a criação do jfcOS &lpar;sistema operacional&rpar;](https://dev.to/matheusgb/dia-8-iniciando-a-criacao-do-jfcos-sistema-operacional-4kgp)
+- [Reto de backend #2](https://dev.to/caresle/reto-de-backend-2-33ip)
 <!-- BLOG-POST-LIST:END -->
 
