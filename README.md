@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Contributor’s Journey :HACKTOBERFEST 2024](https://dev.to/shivarajm8234/a-contributors-journey-hacktoberfest-2024-59kg)
+- [Installing Supervisor On Amazon Linux 2023](https://dev.to/afiqiqmal/installing-supervisor-on-amazon-linux-2023-2foc)
+- [Procedure overloading in PL/SQL](https://dev.to/mrcaption49/procedure-overloading-in-plsql-1kg9)
 - [Modifying the 6502 Assembly Program](https://dev.to/arilloid/modifying-the-6502-assembly-program-1j47)
-- [...Loop...](https://dev.to/hrithik_gorane_/loop-2e41)
-- [Tips for using Kintone in Hackathons](https://dev.to/kintonedevprogram/tips-for-using-kintone-in-hackathons-3j90)
-- [First Contribution](https://dev.to/udayrana/first-contribution-4n9l)
 <!-- BLOG-POST-LIST:END -->
 
