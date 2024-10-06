@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Law of Demeter &lpar;Principle of Least Knowledge&rpar;](https://dev.to/dazevedo/law-of-demeter-principle-of-least-knowledge-35l2)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/kibowen_8/python-101-introduction-to-python-as-a-data-analytics-tool-35li)
-- [Dia 8 - Iniciando a criação do jfcOS &lpar;sistema operacional&rpar;](https://dev.to/matheusgb/dia-8-iniciando-a-criacao-do-jfcos-sistema-operacional-4kgp)
-- [Reto de backend #2](https://dev.to/caresle/reto-de-backend-2-33ip)
+- [What is Ngrok?](https://dev.to/femolacaster/what-is-ngrok-1023)
+- [Liman MYS Üzerinden CUPS Güvenlik Güncellemeleri ile İlgili Paketlerin Güncellenmesi](https://dev.to/aciklab/liman-mys-uzerinden-cups-guvenlik-guncellemeleri-ile-ilgili-paketlerin-guncellenmesi-3836)
+- [CYPRESS-AJV-SCHEMA-VALIDATOR v1.2.0: Boost Debugging Skills from Vigilante to Superhero with Advanced Schema Error Insights!](https://dev.to/sebastianclavijo/cypress-ajv-schema-validator-v120-boost-debugging-skills-from-vigilante-to-superhero-with-advanced-schema-error-insights-1hld)
+- [Empowering Healthcare with Data: Choosing the Best Platforms for Advanced Analytics](https://dev.to/chaets/empowering-healthcare-with-data-choosing-the-best-platforms-for-advanced-analytics-1end)
 <!-- BLOG-POST-LIST:END -->
 
