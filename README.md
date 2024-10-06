@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Soon Will AI Kill Authentic Music?](https://dev.to/theainews/how-soon-will-ai-kill-authentic-music-4f4p)
-- [Design Rate Limiter](https://dev.to/prashantrmishra/design-rate-limiter-42oc)
-- [Optimization of Red Blood Cell Shape Using Spherical Harmonics Parameterization](https://dev.to/thana_b/optimization-of-red-blood-cell-shape-using-spherical-harmonics-parameterization-32pg)
-- [Join TomatoPHP Community](https://dev.to/3x1io/join-tomatophp-community-32k3)
+- [Error 403 Unauthorized: Understanding Its Implications for Apache Security](https://dev.to/gustavo_gallas_4e45019b5c/error-403-unauthorized-understanding-its-implications-for-apache-security-2mk3)
+- [Making Websites Faster With 103 Early Hints](https://dev.to/pmbanugo/making-websites-faster-with-103-early-hints-524a)
+- [.Net 8 tips](https://dev.to/anilindorkar/net-8-tips-2n6l)
+- [A performant and extensible Web Server with Zig and Python](https://dev.to/brogrammerjohn/a-performant-and-extensible-web-server-with-zig-and-python-4adl)
 <!-- BLOG-POST-LIST:END -->
 
