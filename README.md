@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Basics~useState/ count number~](https://dev.to/kkr0423/react-basicsusestate-count-number-5cl2)
-- [The Power of Touch Typing for Developers](https://dev.to/heydathan/the-power-of-touch-typing-for-developers-3jc2)
-- [Cypress and Angular: A Step-by-Step Guide to Efficient E2E Testing](https://dev.to/soumayaerradi/cypress-and-angular-a-step-by-step-guide-to-efficient-e2e-testing-1gj1)
-- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
+- [Defense in Depth approach using AWS](https://dev.to/aws-builders/defense-in-depth-approach-using-aws-3d99)
+- [System design: SQL vs NoSQL Databases: A Deep Dive](https://dev.to/jayaprasanna_roddam/system-design-sql-vs-nosql-databases-a-deep-dive-922)
+- [Angular 17+ Fundamentals : Everything you need to know in one place](https://dev.to/i_a_m_g_a_u_r_a_v/angular-17-fundamentals-1ha8)
+- [Read Directory Contents With Zig](https://dev.to/dayvster/read-directory-contents-with-zig-106i)
 <!-- BLOG-POST-LIST:END -->
 
