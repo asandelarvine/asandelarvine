@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Interactive Mad Libs Game in Python: A Beginner&#39;s Guide](https://dev.to/scofieldidehen/building-an-interactive-mad-libs-game-in-python-a-beginners-guide-26n0)
-- [ReactJs component lifecycle methods — A deep dive](https://dev.to/manvendra5/reactjs-component-lifecycle-methods-a-deep-dive-1khd)
-- [How to Contribute to Open Source?](https://dev.to/zeiadmh/how-to-contribute-to-open-source-80)
-- [Create a website on GitHub pages](https://dev.to/manvendra5/create-a-website-on-github-pages-4g46)
+- [React Unmasked: Episode 1 - The Anatomy of a React App](https://dev.to/adhikareeprayush/react-unmasked-episode-1-the-anatomy-of-a-react-app-2g3o)
+- [Monte Carlo Simulation-Based Scenario Generation in Stochastic Programming: Addressing Uncertainty in the Knapsack Problem](https://dev.to/thana_b/monte-carlo-simulation-based-scenario-generation-in-stochastic-programming-addressing-uncertainty-in-the-knapsack-problem-39ip)
+- [How to solve users unsolvable/infeasible instance issue in Operations Research](https://dev.to/thana_b/how-to-solve-users-unsolvableinfeasible-instance-issue-in-operations-research-33f1)
+- [Understanding Operating Systems: The Three Key Concepts](https://dev.to/benslinux2024/understanding-operating-systems-the-three-key-concepts-5ah5)
 <!-- BLOG-POST-LIST:END -->
 
