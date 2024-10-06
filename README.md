@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contextualized Document Embeddings Capturing Semantic Meaning and Context for Improved Text Analysis](https://dev.to/mikeyoung44/contextualized-document-embeddings-capturing-semantic-meaning-and-context-for-improved-text-analysis-1ma7)
-- [Hello World](https://dev.to/alighaemia/hello-world-416o)
-- [Design Struggles as a UI developer.](https://dev.to/khervie00/design-struggles-as-a-ui-developer-3mmb)
-- [How AWS provided me access to a private server in AWS from My Laptop](https://dev.to/roheem/how-aws-provided-me-access-to-a-private-server-in-aws-from-my-laptop-49km)
+- [Code coverage](https://dev.to/manvendra5/code-coverage-fch)
+- [The Future of Developers in the AI Era](https://dev.to/theainews/the-future-of-developers-in-the-ai-era-4kjl)
+- [I Built a Shadcn Slot Machine for Hacktoberfest—and I’m Just Getting Started](https://dev.to/skullzarmy/i-built-a-shadcn-slot-machine-for-hacktoberfest-and-im-just-getting-started-211j)
+- [How to Secure PHP Applications from SQL Injection Attacks](https://dev.to/dhaval_upadhyay_30f8292a8/how-to-secure-php-applications-from-sql-injection-attacks-20b3)
 <!-- BLOG-POST-LIST:END -->
 
