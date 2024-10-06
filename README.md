@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Closures in Rust](https://dev.to/francescoxx/closures-in-rust-2kcm)
-- [Stop Getting Stuck Before You Even Start Coding: Plan Before You Execute](https://dev.to/codewith_ili/stop-getting-stuck-before-you-even-start-coding-plan-before-you-execute-27a1)
-- [Ditch the GUI: How to Master Android Emulators with Just the CLI Like a True Terminal Nerd](https://dev.to/sandheep_kumarpatro_1c48/ditch-the-gui-how-to-master-android-emulators-with-just-the-cli-like-a-true-terminal-nerd-3a83)
-- [البدء مع نماذج اللغة الكبيرة: كيف يمكن لـ Amazon Bedrock تعزيز رحلتك في الذكاء الاصطناعي](https://dev.to/cloudranger/lbd-m-nmdhj-llg-lkbyr-kyf-ymkn-l-amazon-bedrock-tzyz-rhltk-fy-ldhk-lstny-3p9i)
+- [How Soon Will AI Kill Authentic Music?](https://dev.to/theainews/how-soon-will-ai-kill-authentic-music-4f4p)
+- [Design Rate Limiter](https://dev.to/prashantrmishra/design-rate-limiter-42oc)
+- [Optimization of Red Blood Cell Shape Using Spherical Harmonics Parameterization](https://dev.to/thana_b/optimization-of-red-blood-cell-shape-using-spherical-harmonics-parameterization-32pg)
+- [Join TomatoPHP Community](https://dev.to/3x1io/join-tomatophp-community-32k3)
 <!-- BLOG-POST-LIST:END -->
 
