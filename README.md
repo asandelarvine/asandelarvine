@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Frustration to Creation: How I Built a Free Feedback Widget to Simplify User Insights 🚀](https://dev.to/dev_para/from-frustration-to-creation-how-i-built-a-free-feedback-widget-to-simplify-user-insights-2b82)
-- [Moving to pnpm and Volta: Enhancing Your Frontend Development Workflow](https://dev.to/ratul0/moving-to-pnpm-and-volta-enhancing-your-frontend-development-workflow-ogn)
-- [Run a Virtual Machine in Your Browser](https://dev.to/nadchif/run-a-virtual-machine-in-your-browser-2kjk)
-- [[Apache Superset] Topic #4, Integrate 2D/3D maps into Superset](https://dev.to/ngtduc693/apache-superset-topic-4-integrate-maps-2d-3d-into-superset-5do0)
+- [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj)
+- [The Day a DDOS Attack Led to the Worlds Most Awkward Hello World](https://dev.to/programmerraja/the-day-a-ddos-attack-led-to-the-worlds-most-awkward-hello-world-1dln)
+- [Day 3 - Bashing bots &amp;&amp; piping dreams 👷](https://dev.to/kanzish/day-3-bashing-bots-piping-dreams-40j6)
+- [6502 Assembly: Calculating Code Performance](https://dev.to/arilloid/6502-assembly-calculating-code-performance-4fi3)
 <!-- BLOG-POST-LIST:END -->
 
