@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Running Databases on Kubernetes is Like Storing Critical Data on a Fragile Flash Drive](https://dev.to/alialp/why-running-databases-on-kubernetes-is-like-storing-critical-data-on-a-fragile-flash-drive-fj2)
-- [How to Build a Collaborative Editor with Next.js and Liveblocks](https://dev.to/sachinchaurasiya/how-to-build-a-collaborative-editor-with-nextjs-and-liveblocks-389m)
-- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐆𝐢𝐭?](https://dev.to/meghasharmaaaa/-4g5g)
-- [Stop Using MediaQuery.of! Try These 15 More Efficient Alternatives Instead](https://dev.to/flutterwithcaio/stop-using-mediaqueryof-try-these-15-more-efficient-alternatives-instead-2ffj)
+- [Improving Your Communication As A Software Engineer](https://dev.to/angelito_tubig_5e8fa80f5d/improving-your-communication-as-a-software-engineer-1dka)
+- [tarsosdsp](https://dev.to/billel_boulkroun_9f7399d4/tarsosdsp-5b78)
+- [🚀 Day 2 of the #90DaysOfDevOps Challenge: Mastering Basic Linux Commands](https://dev.to/singh_in_cloud/day-2-of-the-90daysofdevops-challenge-mastering-basic-linux-commands-3c60)
+- [GitOps for Edge Computing: Managing Distributed Microservices Across Edge Nodes](https://dev.to/mark_mwendia_0298dd9c0aad/gitops-for-edge-computing-managing-distributed-microservices-across-edge-nodes-3pa)
 <!-- BLOG-POST-LIST:END -->
 
