@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master How Doubly Linked List is implemented in JavaScript](https://dev.to/emmanuelayinde/master-how-doubly-linked-list-is-implemented-in-javascript-ogi)
-- [Rust Procedural Macros: Unlocking the Power of Custom Code Generation](https://dev.to/benodiwal/rust-procedural-macros-unlocking-the-power-of-custom-code-generation-16po)
-- [Hello World!](https://dev.to/charlottejdcb/hello-world-3joj)
-- [Dia 7 - Diferença entre C e C++, &quot;por que C++ é rápido?&quot; e uso de ponteiros.](https://dev.to/matheusgb/dia-7-diferenca-entre-c-e-c-por-que-c-e-rapido-e-uso-de-ponteiros-3hb0)
+- [From Frustration to Creation: How I Built a Free Feedback Widget to Simplify User Insights 🚀](https://dev.to/dev_para/from-frustration-to-creation-how-i-built-a-free-feedback-widget-to-simplify-user-insights-2b82)
+- [Moving to pnpm and Volta: Enhancing Your Frontend Development Workflow](https://dev.to/ratul0/moving-to-pnpm-and-volta-enhancing-your-frontend-development-workflow-ogn)
+- [Run a Virtual Machine in Your Browser](https://dev.to/nadchif/run-a-virtual-machine-in-your-browser-2kjk)
+- [[Apache Superset] Topic #4, Integrate 2D/3D maps into Superset](https://dev.to/ngtduc693/apache-superset-topic-4-integrate-maps-2d-3d-into-superset-5do0)
 <!-- BLOG-POST-LIST:END -->
 
