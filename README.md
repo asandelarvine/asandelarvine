@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Advanced Dockerfile Techniques for Efficient Docker Images](https://dev.to/labex/master-advanced-dockerfile-techniques-for-efficient-docker-images-21cc)
-- [How to calculate the distance &lpar;time and miles&rpar; between the geographies of your portfolio and a comparator &lpar;Point A and Point B&rpar;](https://dev.to/m4gpi3girl/how-to-calculate-the-distance-time-and-miles-between-the-geographies-of-your-portfolio-and-a-comparator-point-a-and-point-b-4741)
-- [The Developer’s Playbook: What I Wish I Knew Starting Out](https://dev.to/felipeleao18/the-developers-playbook-what-i-wish-i-knew-starting-out-3o32)
-- [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)
+- [Why Running Databases on Kubernetes is Like Storing Critical Data on a Fragile Flash Drive](https://dev.to/alialp/why-running-databases-on-kubernetes-is-like-storing-critical-data-on-a-fragile-flash-drive-fj2)
+- [How to Build a Collaborative Editor with Next.js and Liveblocks](https://dev.to/sachinchaurasiya/how-to-build-a-collaborative-editor-with-nextjs-and-liveblocks-389m)
+- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐆𝐢𝐭?](https://dev.to/meghasharmaaaa/-4g5g)
+- [Stop Using MediaQuery.of! Try These 15 More Efficient Alternatives Instead](https://dev.to/flutterwithcaio/stop-using-mediaqueryof-try-these-15-more-efficient-alternatives-instead-2ffj)
 <!-- BLOG-POST-LIST:END -->
 
