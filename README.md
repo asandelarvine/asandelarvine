@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj)
-- [The Day a DDOS Attack Led to the Worlds Most Awkward Hello World](https://dev.to/programmerraja/the-day-a-ddos-attack-led-to-the-worlds-most-awkward-hello-world-1dln)
-- [Day 3 - Bashing bots &amp;&amp; piping dreams 👷](https://dev.to/kanzish/day-3-bashing-bots-piping-dreams-40j6)
-- [6502 Assembly: Calculating Code Performance](https://dev.to/arilloid/6502-assembly-calculating-code-performance-4fi3)
+- [Modifying the 6502 Assembly Program](https://dev.to/arilloid/modifying-the-6502-assembly-program-1j47)
+- [...Loop...](https://dev.to/hrithik_gorane_/loop-2e41)
+- [Tips for using Kintone in Hackathons](https://dev.to/kintonedevprogram/tips-for-using-kintone-in-hackathons-3j90)
+- [First Contribution](https://dev.to/udayrana/first-contribution-4n9l)
 <!-- BLOG-POST-LIST:END -->
 
