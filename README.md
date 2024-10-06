@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VoidZero, The New ESLint, MongoDB 8.0, and more - This Week in JS](https://dev.to/thisweekinjavascript/voidzero-the-new-eslint-mongodb-80-and-more-this-week-in-js-575m)
-- [⭐️ Decoding OpenAI Evals](https://dev.to/portkey/decoding-openai-evals-4hpb)
-- [Repair grub Linux/Windows dual boot](https://dev.to/patfinder/repair-grub-linuxwindows-dual-boot-23ki)
-- [🚀 Ever wonder what Sundays have in common with coding? 🤔](https://dev.to/muhammad-ahmed/ever-wonder-what-sundays-have-in-common-with-coding-gfp)
+- [Master Advanced Dockerfile Techniques for Efficient Docker Images](https://dev.to/labex/master-advanced-dockerfile-techniques-for-efficient-docker-images-21cc)
+- [How to calculate the distance &lpar;time and miles&rpar; between the geographies of your portfolio and a comparator &lpar;Point A and Point B&rpar;](https://dev.to/m4gpi3girl/how-to-calculate-the-distance-time-and-miles-between-the-geographies-of-your-portfolio-and-a-comparator-point-a-and-point-b-4741)
+- [The Developer’s Playbook: What I Wish I Knew Starting Out](https://dev.to/felipeleao18/the-developers-playbook-what-i-wish-i-knew-starting-out-3o32)
+- [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)
 <!-- BLOG-POST-LIST:END -->
 
