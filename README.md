@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Unmasked: Episode 1 - The Anatomy of a React App](https://dev.to/adhikareeprayush/react-unmasked-episode-1-the-anatomy-of-a-react-app-2g3o)
-- [Monte Carlo Simulation-Based Scenario Generation in Stochastic Programming: Addressing Uncertainty in the Knapsack Problem](https://dev.to/thana_b/monte-carlo-simulation-based-scenario-generation-in-stochastic-programming-addressing-uncertainty-in-the-knapsack-problem-39ip)
-- [How to solve users unsolvable/infeasible instance issue in Operations Research](https://dev.to/thana_b/how-to-solve-users-unsolvableinfeasible-instance-issue-in-operations-research-33f1)
-- [Understanding Operating Systems: The Three Key Concepts](https://dev.to/benslinux2024/understanding-operating-systems-the-three-key-concepts-5ah5)
+- [React Basics~useState/ count number~](https://dev.to/kkr0423/react-basicsusestate-count-number-5cl2)
+- [The Power of Touch Typing for Developers](https://dev.to/heydathan/the-power-of-touch-typing-for-developers-3jc2)
+- [Cypress and Angular: A Step-by-Step Guide to Efficient E2E Testing](https://dev.to/soumayaerradi/cypress-and-angular-a-step-by-step-guide-to-efficient-e2e-testing-1gj1)
+- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
 <!-- BLOG-POST-LIST:END -->
 
