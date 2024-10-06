@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Vulnerability Scanner &lpar;Must Try&rpar;](https://dev.to/trixsec/new-vulnerability-scanner-must-try-40g4)
-- [How to Enable MSMQ Triggers in Windows 11?](https://dev.to/winsides/how-to-enable-msmq-triggers-in-windows-11-5cnf)
-- [Mastering Linux: A Collection of Hands-On Programming Labs 🐧](https://dev.to/labex/mastering-linux-a-collection-of-hands-on-programming-labs-24a5)
-- [Understanding Git Rebase](https://dev.to/kiranukamath/understanding-git-rebase-9ca)
+- [Learning GO: 05](https://dev.to/gaurav444/learning-go-05-2p9k)
+- [How to Talk to Non-Developers?](https://dev.to/koladev/how-to-talk-to-non-developers-1501)
+- [Learning GO: 04](https://dev.to/gaurav444/learning-go-04-1fhk)
+- [Learning GO: 03](https://dev.to/gaurav444/learning-go-03-l6p)
 <!-- BLOG-POST-LIST:END -->
 
