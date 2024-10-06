@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code coverage](https://dev.to/manvendra5/code-coverage-fch)
-- [The Future of Developers in the AI Era](https://dev.to/theainews/the-future-of-developers-in-the-ai-era-4kjl)
-- [I Built a Shadcn Slot Machine for Hacktoberfest—and I’m Just Getting Started](https://dev.to/skullzarmy/i-built-a-shadcn-slot-machine-for-hacktoberfest-and-im-just-getting-started-211j)
-- [How to Secure PHP Applications from SQL Injection Attacks](https://dev.to/dhaval_upadhyay_30f8292a8/how-to-secure-php-applications-from-sql-injection-attacks-20b3)
+- [Building an Interactive Mad Libs Game in Python: A Beginner&#39;s Guide](https://dev.to/scofieldidehen/building-an-interactive-mad-libs-game-in-python-a-beginners-guide-26n0)
+- [ReactJs component lifecycle methods — A deep dive](https://dev.to/manvendra5/reactjs-component-lifecycle-methods-a-deep-dive-1khd)
+- [How to Contribute to Open Source?](https://dev.to/zeiadmh/how-to-contribute-to-open-source-80)
+- [Create a website on GitHub pages](https://dev.to/manvendra5/create-a-website-on-github-pages-4g46)
 <!-- BLOG-POST-LIST:END -->
 
