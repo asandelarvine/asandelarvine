@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error 403 Unauthorized: Understanding Its Implications for Apache Security](https://dev.to/gustavo_gallas_4e45019b5c/error-403-unauthorized-understanding-its-implications-for-apache-security-2mk3)
-- [Making Websites Faster With 103 Early Hints](https://dev.to/pmbanugo/making-websites-faster-with-103-early-hints-524a)
-- [.Net 8 tips](https://dev.to/anilindorkar/net-8-tips-2n6l)
-- [A performant and extensible Web Server with Zig and Python](https://dev.to/brogrammerjohn/a-performant-and-extensible-web-server-with-zig-and-python-4adl)
+- [5 Commands for Web Developers that just started using Linux](https://dev.to/prozdrljivac/5-commands-for-web-developers-that-just-started-using-linux-6io)
+- [Leaflet library and it&#39;s usecase](https://dev.to/sachin_rastogi_0820ff31c4/leaflet-usecase-566)
+- [🗣️Speaking Their Language: Tips for Developers to Talk to Non-Technical Audiences](https://dev.to/dalbir/speaking-their-language-tips-for-developers-to-talk-to-non-technical-audiences-1e06)
+- [JavaScript 2024: Latest Features, Performance, Modern Techniques, and Advanced Coding 🚀](https://dev.to/abdulnasirolcan/javascript-2024-latest-features-performance-modern-techniques-and-advanced-coding-34gm)
 <!-- BLOG-POST-LIST:END -->
 
