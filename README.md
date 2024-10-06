@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Defense in Depth approach using AWS](https://dev.to/aws-builders/defense-in-depth-approach-using-aws-3d99)
-- [System design: SQL vs NoSQL Databases: A Deep Dive](https://dev.to/jayaprasanna_roddam/system-design-sql-vs-nosql-databases-a-deep-dive-922)
-- [Angular 17+ Fundamentals : Everything you need to know in one place](https://dev.to/i_a_m_g_a_u_r_a_v/angular-17-fundamentals-1ha8)
-- [Read Directory Contents With Zig](https://dev.to/dayvster/read-directory-contents-with-zig-106i)
+- [Closures in Rust](https://dev.to/francescoxx/closures-in-rust-2kcm)
+- [Stop Getting Stuck Before You Even Start Coding: Plan Before You Execute](https://dev.to/codewith_ili/stop-getting-stuck-before-you-even-start-coding-plan-before-you-execute-27a1)
+- [Ditch the GUI: How to Master Android Emulators with Just the CLI Like a True Terminal Nerd](https://dev.to/sandheep_kumarpatro_1c48/ditch-the-gui-how-to-master-android-emulators-with-just-the-cli-like-a-true-terminal-nerd-3a83)
+- [البدء مع نماذج اللغة الكبيرة: كيف يمكن لـ Amazon Bedrock تعزيز رحلتك في الذكاء الاصطناعي](https://dev.to/cloudranger/lbd-m-nmdhj-llg-lkbyr-kyf-ymkn-l-amazon-bedrock-tzyz-rhltk-fy-ldhk-lstny-3p9i)
 <!-- BLOG-POST-LIST:END -->
 
