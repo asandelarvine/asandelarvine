@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Commands for Web Developers that just started using Linux](https://dev.to/prozdrljivac/5-commands-for-web-developers-that-just-started-using-linux-6io)
-- [Leaflet library and it&#39;s usecase](https://dev.to/sachin_rastogi_0820ff31c4/leaflet-usecase-566)
-- [🗣️Speaking Their Language: Tips for Developers to Talk to Non-Technical Audiences](https://dev.to/dalbir/speaking-their-language-tips-for-developers-to-talk-to-non-technical-audiences-1e06)
-- [JavaScript 2024: Latest Features, Performance, Modern Techniques, and Advanced Coding 🚀](https://dev.to/abdulnasirolcan/javascript-2024-latest-features-performance-modern-techniques-and-advanced-coding-34gm)
+- [VoidZero, The New ESLint, MongoDB 8.0, and more - This Week in JS](https://dev.to/thisweekinjavascript/voidzero-the-new-eslint-mongodb-80-and-more-this-week-in-js-575m)
+- [⭐️ Decoding OpenAI Evals](https://dev.to/portkey/decoding-openai-evals-4hpb)
+- [Repair grub Linux/Windows dual boot](https://dev.to/patfinder/repair-grub-linuxwindows-dual-boot-23ki)
+- [🚀 Ever wonder what Sundays have in common with coding? 🤔](https://dev.to/muhammad-ahmed/ever-wonder-what-sundays-have-in-common-with-coding-gfp)
 <!-- BLOG-POST-LIST:END -->
 
