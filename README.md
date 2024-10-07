@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone here use an under desk treadmill or elliptical while working?](https://dev.to/jess/does-anyone-here-use-an-under-desk-treadmill-or-elliptical-while-working-14d0)
-- [Edition 3 — Monday Memes](https://dev.to/monday-memes/edition-3-monday-memes-5a4g)
-- [ETL: Extracting a Person&#39;s Name from Text](https://dev.to/garciadiazjaime/etl-extracting-a-persons-name-from-text-ahl)
-- [Javascript Interview Coding Questions](https://dev.to/neetu_j_29a5c6ffbec1df1c2/javascript-interview-coding-questions-119h)
+- [5 Best AI Tools for Productive Development in 2024](https://dev.to/get_pieces/5-best-ai-tools-for-productive-development-in-2024-49el)
+- [React Testing with UserEvent and Testing Library](https://dev.to/atiksujon360/react-testing-with-userevent-and-testing-library-41i4)
+- [Tailwind vs Custom CSS: What Should You Choose?](https://dev.to/dualitedev/tailwind-vs-custom-css-what-should-you-choose-bmi)
+- [AWS re:Invent 2024 - Which sessions I&#39;ll try to attend.](https://dev.to/aws-heroes/aws-reinvent-2024-which-sessions-ill-try-to-attend-4cgb)
 <!-- BLOG-POST-LIST:END -->
 
