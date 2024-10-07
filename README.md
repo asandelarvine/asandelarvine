@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [YAML - YAML Ain&#39;t Markup Language](https://dev.to/mahhbubferdous/yaml-yaml-aint-markup-language-2e8a)
-- [Go Design Patterns #1: Singleton](https://dev.to/eduardoarndt/go-design-patterns-1-singleton-4ap9)
-- [what the heck is web3](https://dev.to/anurag112/what-the-heck-is-web3-57nk)
-- [Creating a Responsive Layout with Bootstrap](https://dev.to/chami/creating-a-responsive-layout-with-bootstrap-fle)
+- [PinFu: A Dual-Purpose Application for Effortless File Uploads to Pinata](https://dev.to/imabutahersiddik/pinfu-a-dual-purpose-application-for-effortless-file-uploads-to-pinata-3m8o)
+- [Unlock Your Database Skills: &#39;Add Student Personal Information&#39; Project](https://dev.to/labex/unlock-your-database-skills-add-student-personal-information-project-54l)
+- [CRUD Operations with Goravel &lpar;Laravel for GO&rpar;](https://dev.to/adewalecharles/crud-operations-with-goravel-laravel-for-go-6c3)
+- [How to Create a Resource Group and Storage Account on Azure](https://dev.to/kelvin_obua/how-to-create-a-resource-group-and-storage-account-on-azure-h2d)
 <!-- BLOG-POST-LIST:END -->
 
