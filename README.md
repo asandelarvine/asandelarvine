@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Useful GitHub Repos Made for Front-End Developers in 2024](https://dev.to/usman_awan/10-useful-github-repos-made-for-front-end-developers-in-2024-1b6f)
-- [Mastering Next.js: Complete Setup, Features, and Advanced Tips](https://dev.to/raajaryan/mastering-nextjs-complete-setup-features-and-advanced-tips-44a8)
-- [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
-- [Dive into Next.js Server-Side Rendering &lpar;SSR&rpar;: From SPA to ISR](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-side-rendering-ssr-from-spa-to-isr-11o2)
+- [Does anyone here use an under desk treadmill or elliptical while working?](https://dev.to/jess/does-anyone-here-use-an-under-desk-treadmill-or-elliptical-while-working-14d0)
+- [Edition 3 — Monday Memes](https://dev.to/monday-memes/edition-3-monday-memes-5a4g)
+- [ETL: Extracting a Person&#39;s Name from Text](https://dev.to/garciadiazjaime/etl-extracting-a-persons-name-from-text-ahl)
+- [Javascript Interview Coding Questions](https://dev.to/neetu_j_29a5c6ffbec1df1c2/javascript-interview-coding-questions-119h)
 <!-- BLOG-POST-LIST:END -->
 
