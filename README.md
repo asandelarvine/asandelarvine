@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Home Server Journey - 5b: A Bridge Too Far?](https://dev.to/ancapepe/the-home-server-journey-5b-a-bridge-too-far-j0l)
-- [The Golden Rule of Clean Code: Functions Should Do One Thing](https://dev.to/56_kode/the-golden-rule-of-clean-code-functions-should-do-one-thing-3lf7)
-- [Why New Generation Engineers Choosing React – Backed by Flatlogic Research](https://dev.to/alesiasirotka/why-new-generation-engineers-choosing-react-backed-by-flatlogic-research-2oe9)
-- [Top Financial App Developers in 2024](https://dev.to/xavier_martinez_a0f958104/top-financial-app-developers-in-2024-1kp0)
+- [Understanding os.Stat&lpar;&rpar; vs os.Lstat&lpar;&rpar; in Go: File and Symlink Handling](https://dev.to/moseeh_52/understanding-osstat-vs-oslstat-in-go-file-and-symlink-handling-3p5d)
+- [Fullstack app: Deploying the Fullstack Application on Render with Docker](https://dev.to/mspilari/fullstack-app-deploying-the-fullstack-application-on-render-with-docker-2dd5)
+- [Ibuprofeno.py💊| #189: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-189-explica-este-codigo-python-57mf)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/silvianyawira/python-101-introduction-to-python-as-a-data-analytics-tool-4hhf)
 <!-- BLOG-POST-LIST:END -->
 
