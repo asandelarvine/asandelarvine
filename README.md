@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project: Random Number Generator But Excluding The Previous Entry](https://dev.to/kocreative/project-random-number-generator-but-excluding-the-previous-entry-22ch)
-- [8 Amazing Web Directories For SaaS Builders and Indie Hackers 🤑🚀](https://dev.to/madza/8-amazing-web-directories-for-saas-builders-and-indie-hackers-2h3o)
-- [how to download single file from a repository? 📁](https://dev.to/volfcan/how-to-download-single-file-from-a-repository-3gp2)
-- [FrugalGPT: Reducing LLM Costs &amp; Improving Performance](https://dev.to/portkey/frugalgpt-reducing-llm-costs-improving-performance-25h2)
+- [Understanding this in JavaScript: A Quick Guide for Devs](https://dev.to/get_pieces/understanding-this-in-javascript-a-quick-guide-for-devs-4n72)
+- [A Simple Command-Line Task Manager in Python.](https://dev.to/lawaniej/a-simple-command-line-task-manager-in-python-4pba)
+- [Creazilla is looking for React Dev &lpar;Remote&rpar;](https://dev.to/creaiva/creazilla-is-looking-for-react-dev-remote-1idc)
+- [🛠️ 10 Must-Know Open Source Tools for Developers in 2024 🚀](https://dev.to/hamzakhan/10-must-know-open-source-tools-for-developers-in-2024-49ee)
 <!-- BLOG-POST-LIST:END -->
 
