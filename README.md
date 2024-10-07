@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PinFu: A Dual-Purpose Application for Effortless File Uploads to Pinata](https://dev.to/imabutahersiddik/pinfu-a-dual-purpose-application-for-effortless-file-uploads-to-pinata-3m8o)
-- [Unlock Your Database Skills: &#39;Add Student Personal Information&#39; Project](https://dev.to/labex/unlock-your-database-skills-add-student-personal-information-project-54l)
-- [CRUD Operations with Goravel &lpar;Laravel for GO&rpar;](https://dev.to/adewalecharles/crud-operations-with-goravel-laravel-for-go-6c3)
-- [How to Create a Resource Group and Storage Account on Azure](https://dev.to/kelvin_obua/how-to-create-a-resource-group-and-storage-account-on-azure-h2d)
+- [Container Runtime Interfaces &lpar;CRI&rpar;](https://dev.to/dpuig/container-runtime-interfaces-cri-33g)
+- [Tips and Tricks for Docker Compose: Leveraging the override Feature](https://dev.to/aless10/tips-and-tricks-for-docker-compose-leveraging-the-override-feature-4hj0)
+- [JavaScript Hoisting Explained to Improve Your Coding Skills](https://dev.to/byte-sized-news/javascript-hoisting-explained-to-improve-your-coding-skills-37b2)
+- [Deploying a stateless container on cloud run](https://dev.to/mohamed_rasvi_9f19a0ec9c9/deploying-a-stateless-container-in-cloud-run-2j11)
 <!-- BLOG-POST-LIST:END -->
 
