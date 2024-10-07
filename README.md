@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
-- [🚀 Launch Your Dream Website in Minutes! 🌟](https://dev.to/thakkarrajan/launch-your-dream-website-in-minutes-1cm5)
-- [Hacktoberfest: First pull request](https://dev.to/aldrin312/hacktoberfest-first-pull-request-1040)
-- [How not to do code reviews](https://dev.to/dphenomenal/how-not-to-do-code-reviews-hh0)
+- [YAML - YAML Ain&#39;t Markup Language](https://dev.to/mahhbubferdous/yaml-yaml-aint-markup-language-2e8a)
+- [Go Design Patterns #1: Singleton](https://dev.to/eduardoarndt/go-design-patterns-1-singleton-4ap9)
+- [what the heck is web3](https://dev.to/anurag112/what-the-heck-is-web3-57nk)
+- [Creating a Responsive Layout with Bootstrap](https://dev.to/chami/creating-a-responsive-layout-with-bootstrap-fle)
 <!-- BLOG-POST-LIST:END -->
 
