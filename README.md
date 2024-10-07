@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wise Choices: How to Select the Right EC2 Instance Purchase Option in AWS](https://dev.to/lindiwe09/wise-choices-how-to-select-the-right-ec2-instance-purchase-option-in-aws-46ec)
-- [How to run PHP on AWS ServerLess architecture ? Part 2 - introducing Bref runtime](https://dev.to/aws-builders/how-to-run-php-on-aws-serverless-architecture-part-2-introducing-bref-runtime-168j)
-- [What are your goals for week 41? Hacktoberfest!](https://dev.to/jarvisscript/what-are-your-goals-for-week-41-hacktoberfest-3egl)
-- [How to run PHP on AWS ServerLess architecture ? Part 1 - What&#39;s serverless?](https://dev.to/aws-builders/how-to-run-php-on-aws-serverless-architecture-part-1-whats-serverless-3j3m)
+- [10 Useful GitHub Repos Made for Front-End Developers in 2024](https://dev.to/usman_awan/10-useful-github-repos-made-for-front-end-developers-in-2024-1b6f)
+- [Mastering Next.js: Complete Setup, Features, and Advanced Tips](https://dev.to/raajaryan/mastering-nextjs-complete-setup-features-and-advanced-tips-44a8)
+- [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
+- [Dive into Next.js Server-Side Rendering &lpar;SSR&rpar;: From SPA to ISR](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-side-rendering-ssr-from-spa-to-isr-11o2)
 <!-- BLOG-POST-LIST:END -->
 
