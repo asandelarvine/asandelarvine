@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Ace Your Next Take-Home Coding Exercises? Follow These 13 Short Tips](https://dev.to/canro91/want-to-ace-your-next-take-home-coding-exercises-follow-these-13-short-tips-5f56)
-- [Emulating classes with functions in Kotlin for maximum performance 🚀](https://dev.to/charlietap/emulating-classes-with-functions-in-kotlin-for-maximum-performance-4fo1)
-- [Designing Ultra-Low Power IoT Devices for Long-Term Environmental Monitoring: Challenges and Solutions](https://dev.to/adityabhuyan/designing-ultra-low-power-iot-devices-for-long-term-environmental-monitoring-challenges-and-solutions-502a)
-- [The Future is Here: Promising Applications of Edge Computing in IoT Devices](https://dev.to/adityabhuyan/the-future-is-here-promising-applications-of-edge-computing-in-iot-devices-1jji)
+- [Implementing Long Press Functionality Using React Native Gesture Handler in React Native Application](https://dev.to/tmayank860/implementing-long-press-functionality-using-react-native-gesture-handler-in-react-native-application-3f16)
+- [Scala&#39;s Ignored Features](https://dev.to/sudo_pradip/scalas-ignored-features-1bmh)
+- [Understanding Clean Code: Emergence ⚡️](https://dev.to/alisamir/understanding-clean-code-emergence-19bm)
+- [Trying to Install Docker on Ubuntu 24?](https://dev.to/oliverbennet/trying-to-install-docker-on-ubuntu-24-3m2o)
 <!-- BLOG-POST-LIST:END -->
 
