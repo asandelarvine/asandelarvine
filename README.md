@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Container Runtime Interfaces &lpar;CRI&rpar;](https://dev.to/dpuig/container-runtime-interfaces-cri-33g)
-- [Tips and Tricks for Docker Compose: Leveraging the override Feature](https://dev.to/aless10/tips-and-tricks-for-docker-compose-leveraging-the-override-feature-4hj0)
-- [JavaScript Hoisting Explained to Improve Your Coding Skills](https://dev.to/byte-sized-news/javascript-hoisting-explained-to-improve-your-coding-skills-37b2)
-- [Deploying a stateless container on cloud run](https://dev.to/mohamed_rasvi_9f19a0ec9c9/deploying-a-stateless-container-in-cloud-run-2j11)
+- [Mastering More JavaScript: Objects, Arrays, Loops, and Beyond!](https://dev.to/imrankhan17/mastering-more-javascript-objects-arrays-loops-and-beyond-4n8c)
+- [Linked List Mastery: Cracking LeetCode Problems on List](https://dev.to/emmanuelayinde/linked-list-mastery-cracking-leetcode-problems-on-list-2i0g)
+- [cf-doh: look up DNS records from your frontend javascript](https://dev.to/jesseditson/cf-doh-look-up-dns-records-from-your-frontend-javascript-418k)
+- [What orienteering taught me about software development](https://dev.to/vkolencik/what-orienteering-taught-me-about-software-development-5d27)
 <!-- BLOG-POST-LIST:END -->
 
