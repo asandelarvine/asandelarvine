@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an All-in-One Code Editor Using React and SandPack](https://dev.to/salehmubashar/creating-an-all-in-one-code-editor-using-react-and-sandpack-1pon)
-- [Creating a Word Cloud in React ⚛️🔡](https://dev.to/mattlewandowski93/creating-a-word-cloud-in-react-1999)
-- [How To Create an ECC Certificate on Nginx?](https://dev.to/devops_den/how-to-create-an-ecc-certificate-on-nginx-50c1)
-- [Role of AI In Enhancing VR Experiences](https://dev.to/jhernandez504/role-of-ai-in-enhancing-vr-experiences-531i)
+- [Want to Ace Your Next Take-Home Coding Exercises? Follow These 13 Short Tips](https://dev.to/canro91/want-to-ace-your-next-take-home-coding-exercises-follow-these-13-short-tips-5f56)
+- [Emulating classes with functions in Kotlin for maximum performance 🚀](https://dev.to/charlietap/emulating-classes-with-functions-in-kotlin-for-maximum-performance-4fo1)
+- [Designing Ultra-Low Power IoT Devices for Long-Term Environmental Monitoring: Challenges and Solutions](https://dev.to/adityabhuyan/designing-ultra-low-power-iot-devices-for-long-term-environmental-monitoring-challenges-and-solutions-502a)
+- [The Future is Here: Promising Applications of Edge Computing in IoT Devices](https://dev.to/adityabhuyan/the-future-is-here-promising-applications-of-edge-computing-in-iot-devices-1jji)
 <!-- BLOG-POST-LIST:END -->
 
