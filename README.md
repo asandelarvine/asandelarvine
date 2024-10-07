@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding this in JavaScript: A Quick Guide for Devs](https://dev.to/get_pieces/understanding-this-in-javascript-a-quick-guide-for-devs-4n72)
-- [A Simple Command-Line Task Manager in Python.](https://dev.to/lawaniej/a-simple-command-line-task-manager-in-python-4pba)
-- [Creazilla is looking for React Dev &lpar;Remote&rpar;](https://dev.to/creaiva/creazilla-is-looking-for-react-dev-remote-1idc)
-- [🛠️ 10 Must-Know Open Source Tools for Developers in 2024 🚀](https://dev.to/hamzakhan/10-must-know-open-source-tools-for-developers-in-2024-49ee)
+- [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
+- [🚀 Launch Your Dream Website in Minutes! 🌟](https://dev.to/thakkarrajan/launch-your-dream-website-in-minutes-1cm5)
+- [Hacktoberfest: First pull request](https://dev.to/aldrin312/hacktoberfest-first-pull-request-1040)
+- [How not to do code reviews](https://dev.to/dphenomenal/how-not-to-do-code-reviews-hh0)
 <!-- BLOG-POST-LIST:END -->
 
