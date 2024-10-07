@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS App Testing: A Comprehensive Step-by-Step Guide](https://dev.to/ronika_kashyap/ios-app-testing-a-comprehensive-step-by-step-guide-3k71)
-- [Building a Password Manager in Go: Part 3](https://dev.to/svemaraju/building-a-password-manager-in-go-part-3-2il1)
-- [DevOps 2.0: The Evolution of Continuous Integration and Delivery &lpar;CI/CD&rpar;](https://dev.to/eugene_starikov/devops-20-the-evolution-of-continuous-integration-and-delivery-cicd-42d4)
-- [How to Use Python for Log Analysis in DevOps](https://dev.to/anshul_kichara/how-to-use-python-for-log-analysis-in-devops-4fdk)
+- [The Home Server Journey - 5b: A Bridge Too Far?](https://dev.to/ancapepe/the-home-server-journey-5b-a-bridge-too-far-j0l)
+- [The Golden Rule of Clean Code: Functions Should Do One Thing](https://dev.to/56_kode/the-golden-rule-of-clean-code-functions-should-do-one-thing-3lf7)
+- [Why New Generation Engineers Choosing React – Backed by Flatlogic Research](https://dev.to/alesiasirotka/why-new-generation-engineers-choosing-react-backed-by-flatlogic-research-2oe9)
+- [Top Financial App Developers in 2024](https://dev.to/xavier_martinez_a0f958104/top-financial-app-developers-in-2024-1kp0)
 <!-- BLOG-POST-LIST:END -->
 
