@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Earth Visualization with Three.js: A GitHub-Inspired Approach](https://dev.to/chriisduran/3d-earth-visualization-with-threejs-a-github-inspired-approach-2jj9)
-- [SPO Week 3.1 - full lab](https://dev.to/krinskumar/spo-week-31-full-lab-2c83)
-- [SPO Week 2.2 - lab completed](https://dev.to/krinskumar/spo-week-22-lab-completed-5858)
-- [Choosing the Right Primary Key for the Database](https://dev.to/afiqiqmal/choosing-the-right-primary-key-for-the-database-3efd)
+- [Disadvantages of Dependency Inversion Principle&lpar;DIP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/disadvantages-of-dependency-inversion-principledip-2pml)
+- [Top open-source repos/projects to contribute &lpar;Hacktoberfest Edition 🎃&rpar;](https://dev.to/rohan_sharma/top-open-source-reposprojects-to-contribute-hacktoberfest-edition--273o)
+- [CodeSnap : prendre des captures d&#39;écran de code dans VS Code](https://dev.to/developpeurtaf/codesnap-prendre-des-captures-decran-de-code-dans-vs-code-2d78)
+- [How to Install WKHTMLTOPDF with Patched QT on Ubuntu and CentOS 8](https://dev.to/afiqiqmal/how-to-install-wkhtmltopdf-with-patched-qt-on-ubuntu-and-centos-8-4j12)
 <!-- BLOG-POST-LIST:END -->
 
