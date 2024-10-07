@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Long Press Functionality Using React Native Gesture Handler in React Native Application](https://dev.to/tmayank860/implementing-long-press-functionality-using-react-native-gesture-handler-in-react-native-application-3f16)
-- [Scala&#39;s Ignored Features](https://dev.to/sudo_pradip/scalas-ignored-features-1bmh)
-- [Understanding Clean Code: Emergence ⚡️](https://dev.to/alisamir/understanding-clean-code-emergence-19bm)
-- [Trying to Install Docker on Ubuntu 24?](https://dev.to/oliverbennet/trying-to-install-docker-on-ubuntu-24-3m2o)
+- [Lazygit - Autumn Dev Laziness](https://dev.to/giuliano1993/lazygit-autumn-dev-laziness-202h)
+- [Simple Ways to Enhance SQL Server Security](https://dev.to/dbvismarketing/simple-ways-to-enhance-sql-server-security-2fdb)
+- [Understanding Javascript&#39;s Proxies and Reflect API](https://dev.to/damcosset/understanding-javascripts-proxies-and-reflect-api-1e6i)
+- [DNS and How It Works](https://dev.to/isaactony/dns-and-how-it-works-4e88)
 <!-- BLOG-POST-LIST:END -->
 
