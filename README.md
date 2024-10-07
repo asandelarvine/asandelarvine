@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless App - Extração de Textos com Exibição de Layouts com Textract](https://dev.to/gugamainchein/serverless-app-extracao-de-textos-com-exibicao-de-layouts-com-textract-455o)
-- [Building a Word Unscrambler with JavaScript &lpar;part 3&rpar;](https://dev.to/bridget_amana/building-a-word-unscrambler-with-javascript-part-3-2p6f)
-- [Creating your Self-Custodial Ethereum Wallet on Holsekey Network, using Kalp Studio](https://dev.to/kalpstudio/creating-your-self-custodial-ethereum-wallet-on-holsekey-network-using-kalp-studio-381n)
-- [Provision An NGINX Server Using Docker On Windows](https://dev.to/mabis12/provision-an-nginx-server-using-docker-on-windows-1ik5)
+- [Wise Choices: How to Select the Right EC2 Instance Purchase Option in AWS](https://dev.to/lindiwe09/wise-choices-how-to-select-the-right-ec2-instance-purchase-option-in-aws-46ec)
+- [How to run PHP on AWS ServerLess architecture ? Part 2 - introducing Bref runtime](https://dev.to/aws-builders/how-to-run-php-on-aws-serverless-architecture-part-2-introducing-bref-runtime-168j)
+- [What are your goals for week 41? Hacktoberfest!](https://dev.to/jarvisscript/what-are-your-goals-for-week-41-hacktoberfest-3egl)
+- [How to run PHP on AWS ServerLess architecture ? Part 1 - What&#39;s serverless?](https://dev.to/aws-builders/how-to-run-php-on-aws-serverless-architecture-part-1-whats-serverless-3j3m)
 <!-- BLOG-POST-LIST:END -->
 
