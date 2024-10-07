@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazygit - Autumn Dev Laziness](https://dev.to/giuliano1993/lazygit-autumn-dev-laziness-202h)
-- [Simple Ways to Enhance SQL Server Security](https://dev.to/dbvismarketing/simple-ways-to-enhance-sql-server-security-2fdb)
-- [Understanding Javascript&#39;s Proxies and Reflect API](https://dev.to/damcosset/understanding-javascripts-proxies-and-reflect-api-1e6i)
-- [DNS and How It Works](https://dev.to/isaactony/dns-and-how-it-works-4e88)
+- [No Matching Passkeys Available: Troubleshooting Your Login Issue](https://dev.to/corbado/no-matching-passkeys-available-troubleshooting-your-login-issue-5hn4)
+- [Networking Interview Preparation](https://dev.to/shagun/networking-interview-preparation-cnj)
+- [Turing Pi 2 Home cluster](https://dev.to/tomassirio/turing-pi-2-home-cluster-5edc)
+- [Contribute to Cleansheet AI Resume Builder](https://dev.to/acquahsamuel/contribute-to-cleansheet-ai-resume-builder-1jia)
 <!-- BLOG-POST-LIST:END -->
 
