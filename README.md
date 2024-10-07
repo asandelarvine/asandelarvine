@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up CrewAI on macOS: A Step-by-Step Guide](https://dev.to/imkven/how-to-set-up-crewai-on-macos-a-step-by-step-guide-48d8)
-- [Disadvantages of Dependency Inversion Principle&lpar;DIP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/disadvantages-of-dependency-inversion-principledip-2pml)
-- [Top open-source repos/projects to contribute &lpar;Hacktoberfest Edition 🎃&rpar;](https://dev.to/rohan_sharma/top-open-source-reposprojects-to-contribute-hacktoberfest-edition--273o)
-- [CodeSnap : prendre des captures d&#39;écran de code dans VS Code](https://dev.to/developpeurtaf/codesnap-prendre-des-captures-decran-de-code-dans-vs-code-2d78)
+- [Creating an All-in-One Code Editor Using React and SandPack](https://dev.to/salehmubashar/creating-an-all-in-one-code-editor-using-react-and-sandpack-1pon)
+- [Creating a Word Cloud in React ⚛️🔡](https://dev.to/mattlewandowski93/creating-a-word-cloud-in-react-1999)
+- [How To Create an ECC Certificate on Nginx?](https://dev.to/devops_den/how-to-create-an-ecc-certificate-on-nginx-50c1)
+- [Role of AI In Enhancing VR Experiences](https://dev.to/jhernandez504/role-of-ai-in-enhancing-vr-experiences-531i)
 <!-- BLOG-POST-LIST:END -->
 
