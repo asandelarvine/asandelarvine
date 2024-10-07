@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding os.Stat&lpar;&rpar; vs os.Lstat&lpar;&rpar; in Go: File and Symlink Handling](https://dev.to/moseeh_52/understanding-osstat-vs-oslstat-in-go-file-and-symlink-handling-3p5d)
-- [Fullstack app: Deploying the Fullstack Application on Render with Docker](https://dev.to/mspilari/fullstack-app-deploying-the-fullstack-application-on-render-with-docker-2dd5)
-- [Ibuprofeno.py💊| #189: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-189-explica-este-codigo-python-57mf)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/silvianyawira/python-101-introduction-to-python-as-a-data-analytics-tool-4hhf)
+- [Serverless App - Extração de Textos com Exibição de Layouts com Textract](https://dev.to/gugamainchein/serverless-app-extracao-de-textos-com-exibicao-de-layouts-com-textract-455o)
+- [Building a Word Unscrambler with JavaScript &lpar;part 3&rpar;](https://dev.to/bridget_amana/building-a-word-unscrambler-with-javascript-part-3-2p6f)
+- [Creating your Self-Custodial Ethereum Wallet on Holsekey Network, using Kalp Studio](https://dev.to/kalpstudio/creating-your-self-custodial-ethereum-wallet-on-holsekey-network-using-kalp-studio-381n)
+- [Provision An NGINX Server Using Docker On Windows](https://dev.to/mabis12/provision-an-nginx-server-using-docker-on-windows-1ik5)
 <!-- BLOG-POST-LIST:END -->
 
