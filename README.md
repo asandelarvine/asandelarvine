@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Matching Passkeys Available: Troubleshooting Your Login Issue](https://dev.to/corbado/no-matching-passkeys-available-troubleshooting-your-login-issue-5hn4)
-- [Networking Interview Preparation](https://dev.to/shagun/networking-interview-preparation-cnj)
-- [Turing Pi 2 Home cluster](https://dev.to/tomassirio/turing-pi-2-home-cluster-5edc)
-- [Contribute to Cleansheet AI Resume Builder](https://dev.to/acquahsamuel/contribute-to-cleansheet-ai-resume-builder-1jia)
+- [iOS App Testing: A Comprehensive Step-by-Step Guide](https://dev.to/ronika_kashyap/ios-app-testing-a-comprehensive-step-by-step-guide-3k71)
+- [Building a Password Manager in Go: Part 3](https://dev.to/svemaraju/building-a-password-manager-in-go-part-3-2il1)
+- [DevOps 2.0: The Evolution of Continuous Integration and Delivery &lpar;CI/CD&rpar;](https://dev.to/eugene_starikov/devops-20-the-evolution-of-continuous-integration-and-delivery-cicd-42d4)
+- [How to Use Python for Log Analysis in DevOps](https://dev.to/anshul_kichara/how-to-use-python-for-log-analysis-in-devops-4fdk)
 <!-- BLOG-POST-LIST:END -->
 
