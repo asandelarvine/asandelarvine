@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can i get help with issues from github here?](https://dev.to/victorsesan/can-i-get-help-with-issues-from-github-here-38cp)
-- [General Computer System Model](https://dev.to/yihongz/general-computer-system-model-56p9)
-- [Dia 9 - Primeira versão da fila circular duplamente encadeada](https://dev.to/matheusgb/dia-9-primeira-versao-da-fila-circular-duplamente-encadeada-1326)
-- [Transforming Data Linkage: An In-Depth Look at IntaLink](https://dev.to/intalink/transforming-data-linkage-an-in-depth-look-at-intalink-27a7)
+- [Master Multiple Density Image Assets in Flutter: Boost Your App’s Visuals!](https://dev.to/tentanganak/master-multiple-density-image-assets-in-flutter-boost-your-apps-visuals-1759)
+- [Supercharging React TypeScript: Performance Optimization Techniques](https://dev.to/virajlakshitha/supercharging-react-typescript-performance-optimization-techniques-fci)
+- [Terraform with Terragrunt to Reduce Duplicate Definitions](https://dev.to/katherine_lin_f690f55bbf7/terraform-with-terragrunt-to-reduce-duplicate-definitions-2aci)
+- [Install a Second Instance of Nginx via Docker.](https://dev.to/darwishdev_/install-a-second-instance-of-nginx-via-docker-1i88)
 <!-- BLOG-POST-LIST:END -->
 
