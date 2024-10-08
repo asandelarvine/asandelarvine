@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lamp - a curated collection of open-source web assets for developers.](https://dev.to/greenestgoat/lamp-a-curated-collection-of-open-source-web-assets-for-developers-1jmp)
-- [Criei um Organizador de Tarefas com IA](https://dev.to/gabriel_paiva_58fa8536c89/criei-um-organizador-de-tarefas-com-ia-21b3)
-- [Introducing SunPuff :: FUN ON IPFS](https://dev.to/nonresistantreally/introducing-sunpuff-fun-on-ipfs-42ld)
-- [Git Mastery: A Comprehensive Guide to Essential Git Practices](https://dev.to/labex/git-mastery-a-comprehensive-guide-to-essential-git-practices-36jp)
+- [This New UI Framework Is an Absolute Game Changer 😲](https://dev.to/safdarali/this-new-ui-framework-is-an-absolute-game-changer-3oa7)
+- [Understanding Stack Data Structure: A Step-by-Step Guide to Implementing Stack in JavaScript](https://dev.to/emmanuelayinde/understanding-stack-data-structure-a-step-by-step-guide-to-implementing-stack-in-javascript-3f62)
+- [The Home Server Journey - 6: Your New Blogging Career](https://dev.to/beppe90/the-home-server-journey-6-your-new-blogging-career-4jp6)
+- [created my first project](https://dev.to/nelsonhmalbone/created-my-first-project-25hh)
 <!-- BLOG-POST-LIST:END -->
 
