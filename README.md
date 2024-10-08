@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 NPM Packages for Productivity](https://dev.to/balrajola/10-npm-packages-for-productivity-1odb)
-- [JWT Authentication in React](https://dev.to/sivamani18/jwt-authentication-in-react-1lh9)
-- [HealthChecks](https://dev.to/ben-witt/healthchecks-4aie)
-- [Master JavaScript Promises: 10 Tricky Output Questions Every Developer Must Know! &lpar;Part 1&rpar;](https://dev.to/hitheshkumar/master-javascript-promises-10-tricky-output-questions-every-developer-must-know-part-1-1l43)
+- [Démarrez votre projet Web3 : panorama tech du développement de smart contracts en 2024](https://dev.to/zenika/demarrez-votre-projet-web3-panorama-tech-du-developpement-de-smart-contracts-en-2024-589b)
+- [Optimizing Resource Allocation: Key Trends in Telecom Data Centers by Industry Leaders including David Ezell](https://dev.to/davidezell/optimizing-resource-allocation-key-trends-in-telecom-data-centers-by-industry-leaders-including-david-ezell-4b88)
+- [ajuda no primeiro exercio de python no exercism&lpar;como resolver o exercicio &#39;hello world&#39;&rpar;](https://dev.to/jroreis/ajuda-no-primeiro-exercio-de-python-no-exercismcomo-resolver-o-exercicio-hello-world-4ikc)
+- [Quantum AI for Cryptographic Defense in DevSecOps: A Future-Ready Approach to Threat Mitigation](https://dev.to/indrajithbandara/quantum-ai-for-cryptographic-defense-in-devsecops-a-future-ready-approach-to-threat-mitigation-4le)
 <!-- BLOG-POST-LIST:END -->
 
