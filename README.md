@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024 - The Antiguide](https://dev.to/srbhr/hacktoberfest-2024-the-antiguide-4ce5)
-- [Solve &quot;vagrant@127.0.0.1: Permission denied &lpar;publickey&rpar;&quot; error](https://dev.to/sertxudev/solve-vagrant127001-permission-denied-publickey-error-2kmg)
-- [How to create a newsletter signup form in just 20 minutes with shadcn/UI and Manifest](https://dev.to/sebconejo/how-to-create-a-newsletter-signup-form-in-just-20-minutes-with-shadcnui-and-manifest-1ile)
-- [Padrão de design de componentes agnósticos](https://dev.to/mggcmatheus/padrao-de-design-de-componentes-agnosticos-1d68)
+- [Building a Simple Python-Based Firewall for Home Networks](https://dev.to/trixsec/building-a-simple-python-based-firewall-for-home-networks-5d93)
+- [Amazon EC2 now supports to Optimize CPUs post instance launch](https://dev.to/karthiksakthiveltechie/amazon-ec2-now-supports-to-optimize-cpus-post-instance-launch-25b8)
+- [🇫🇷 Framework Heroes News : la veille sur les frameworks pour la semaine 2024/40](https://dev.to/happytodev/framework-heroes-news-la-veille-sur-les-frameworks-pour-la-semaine-202440-clf)
+- [Getting started with Smart Infrastructure in EVE Frontier](https://dev.to/q9/getting-started-with-smart-infrastructure-in-eve-frontier-45n4)
 <!-- BLOG-POST-LIST:END -->
 
