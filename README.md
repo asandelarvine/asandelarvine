@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check Each Line of a CSV File and Output Specific Information according to Certain Requirements #53](https://dev.to/esproc_spl/check-each-line-of-a-csv-file-and-output-specific-information-according-to-certain-requirements-53-479n)
-- [Creating a Virtual Environment &lpar;venv&rpar; in Python](https://dev.to/devmoreir4/creating-a-virtual-environment-venv-in-python-d6)
-- [Hacktoberfest: First contribution is ok! 🎉](https://dev.to/this-is-learning/hacktoberfest-first-contribution-is-ok-2pdj)
-- [Unlocking Wireless Security: The Roles of Managed and Monitor Modes](https://dev.to/s3cloudhub/unlocking-wireless-security-the-roles-of-managed-and-monitor-modes-4hnf)
+- [Understanding Rapyd API Signatures](https://dev.to/rapyd/understanding-rapyd-api-signatures-5adk)
+- [Showcasing ReverUI 💻&lt; 3kb React Alternative](https://dev.to/piterweb/showcasing-reverui-3kb-react-alternative-1d3j)
+- [Tailwind CSS and Dark Mode](https://dev.to/ridoy_hasan/tailwind-css-and-dark-mode-l51)
+- [Artificial Intelligence &lpar;AI&rpar; and Machine Learning &lpar;ML&rpar;: Revolutionizing Industries 🌍🤖](https://dev.to/info_generalhazedawn_a3d/artificial-intelligence-ai-and-machine-learning-ml-revolutionizing-industries-24dm)
 <!-- BLOG-POST-LIST:END -->
 
