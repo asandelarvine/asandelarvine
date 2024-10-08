@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Presenting you Supacharts](https://dev.to/litlyx/presenting-you-supacharts-4pam)
-- [How Rust Manages Memory](https://dev.to/tekk_x/how-rust-manages-memory-40h3)
-- [Authentication and authorization in Node.js applications](https://dev.to/cerbos/authentication-and-authorization-in-nodejs-applications-12fk)
-- [Portainer + gitops ❤️: A simple way to deploy and manage your self-hosted applications](https://dev.to/mfyz/portainer-gitops-a-simple-way-to-deploy-and-manage-your-self-hosted-applications-pkk)
+- [Creating custom mouse cursors with CSS](https://dev.to/logrocket/creating-custom-mouse-cursors-with-css-368l)
+- [Layered Architecture &lpar;N-Tier&rpar;](https://dev.to/bluee/layered-architecture-n-tier-52io)
+- [Cross-Chain Governance with OpenZeppelin Governor and Axelar](https://dev.to/olanetsoft/cross-chain-governance-with-openzeppelin-governor-and-axelar-53b8)
+- [Building an Event Scheduler in .NET Using Google Calendar API](https://dev.to/dianaiminza/building-an-event-scheduler-in-net-using-google-calendar-api-2enk)
 <!-- BLOG-POST-LIST:END -->
 
