@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#68 — Search for Rows That Satisfy The Condition](https://dev.to/judith677/68-search-for-rows-that-satisfy-the-condition-33na)
-- [The Future of Software Engineering: How AI-Assisted Coding Tools Are Transforming Model-Driven Development](https://dev.to/adityabhuyan/the-future-of-software-engineering-how-ai-assisted-coding-tools-are-transforming-model-driven-development-3m2l)
-- [Vue Tip : Setup Store Pinia + Custom Pagination](https://dev.to/skipperhoa/vue-tip-setup-store-pinia-custom-pagination-1ok5)
-- [Unlock 200 Years of Computing Secrets: Babbage&#39;s Lost Machine](https://dev.to/emilyjohnsonready/unlock-200-years-of-computing-secrets-babbages-lost-machine-1ekd)
+- [Docker 🐳 Basic to Advanced Concepts 2024 🚀](https://dev.to/prodevopsguytech/docker-basic-to-advanced-concepts-2024-5aa9)
+- [Essential Unit Testing for Go APIs – Build Code with Confidence](https://dev.to/neelp03/essential-unit-testing-for-go-apis-build-code-with-confidence-ne3)
+- [Nuances in UX Design for the Indian Market](https://dev.to/iste-vit/nuances-in-ux-design-for-the-indian-market-25oh)
+- [How to generate an executable file for an AI program using SPVM ?](https://dev.to/yukikimoto/how-to-generate-an-executable-file-for-an-ai-program-using-spvm--3eie)
 <!-- BLOG-POST-LIST:END -->
 
