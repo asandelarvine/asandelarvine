@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Virtual Host: Adding reverse proxy](https://dev.to/xxzeroxx/apache-virtual-host-adding-reverse-proxy-k7)
-- [Storing and retrieving JavaScript objects in localStorage](https://dev.to/logrocket/storing-and-retrieving-javascript-objects-in-localstorage-157j)
-- [If you think you know Javascript , try these🙄](https://dev.to/keshav___dev/if-you-think-you-know-javascript-try-these-1oj4)
-- [React Redux | PART 2](https://dev.to/mrcaption49/react-redux-part-2-460)
+- [Happy Hacking: My First Hacktoberfest Pull Request 🎉](https://dev.to/fadingna/happy-hacking-my-first-hacktoberfest-pull-request-1lba)
+- [TutorMundi: How Meteor.js Powers One of Latin America&#39;s Leading EdTech Platforms](https://dev.to/meteor/tutormundi-how-meteorjs-powers-one-of-latin-americas-leading-edtech-platforms-2567)
+- [&quot;What Every Programmer Should Know About Memory&quot; by Ulrich Drepper.](https://dev.to/dmitry-koleev/what-every-programmer-should-know-about-memory-by-ulrich-drepper-2poe)
+- [LabEx Trending: Creating a Simple Docker Container in C++ and More](https://dev.to/labex/labex-trending-creating-a-simple-docker-container-in-c-and-more-bjo)
 <!-- BLOG-POST-LIST:END -->
 
