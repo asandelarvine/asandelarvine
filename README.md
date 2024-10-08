@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering More JavaScript: Objects, Arrays, Loops, and Beyond!](https://dev.to/imrankhan17/mastering-more-javascript-objects-arrays-loops-and-beyond-4n8c)
-- [Linked List Mastery: Cracking LeetCode Problems on List](https://dev.to/emmanuelayinde/linked-list-mastery-cracking-leetcode-problems-on-list-2i0g)
-- [cf-doh: look up DNS records from your frontend javascript](https://dev.to/jesseditson/cf-doh-look-up-dns-records-from-your-frontend-javascript-418k)
-- [What orienteering taught me about software development](https://dev.to/vkolencik/what-orienteering-taught-me-about-software-development-5d27)
+- [Impacto Social da Tecnologia à Ética: O Legado de Ada Lovelace](https://dev.to/womakerscode/impacto-social-da-tecnologia-a-etica-o-legado-de-ada-lovelace-10il)
+- [Hack WKHTMLTOPDF PDF to enable Adobe Acrobat Field Editing](https://dev.to/gamesover/hack-wkhtmltopdf-pdf-to-enable-adobe-acrobat-field-editing-2f6)
+- [Text Box Margins in Microsoft Access](https://dev.to/richardrost/text-box-margins-in-microsoft-access-2i9d)
+- [Zeta Comics: Blending AI &amp; Art in Digital Stories](https://dev.to/greenzeta/zeta-comics-blending-ai-art-in-digital-stories-1jme)
 <!-- BLOG-POST-LIST:END -->
 
