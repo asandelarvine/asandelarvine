@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest! - Week 1](https://dev.to/theoforger/hacktoberfest-week-1-2c13)
-- [How to get a thread dump of running Java process](https://dev.to/filipemesquita/how-to-get-a-thread-dump-of-running-java-process-588p)
-- [TBD x Hacktoberfest](https://dev.to/tbdevs/tbd-x-hacktoberfest-34c0)
-- [Why .NET for Cloud Native Development? Exploring .NET 8 &amp; .NET Aspire ☁️](https://dev.to/clickit_devops/why-net-for-cloud-native-development-exploring-net-8-net-aspire-42je)
+- [Lamp - a curated collection of open-source web assets for developers.](https://dev.to/greenestgoat/lamp-a-curated-collection-of-open-source-web-assets-for-developers-1jmp)
+- [Criei um Organizador de Tarefas com IA](https://dev.to/gabriel_paiva_58fa8536c89/criei-um-organizador-de-tarefas-com-ia-21b3)
+- [Introducing SunPuff :: FUN ON IPFS](https://dev.to/nonresistantreally/introducing-sunpuff-fun-on-ipfs-42ld)
+- [Git Mastery: A Comprehensive Guide to Essential Git Practices](https://dev.to/labex/git-mastery-a-comprehensive-guide-to-essential-git-practices-36jp)
 <!-- BLOG-POST-LIST:END -->
 
