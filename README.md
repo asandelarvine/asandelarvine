@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Python-Based Firewall for Home Networks](https://dev.to/trixsec/building-a-simple-python-based-firewall-for-home-networks-5d93)
-- [Amazon EC2 now supports to Optimize CPUs post instance launch](https://dev.to/karthiksakthiveltechie/amazon-ec2-now-supports-to-optimize-cpus-post-instance-launch-25b8)
-- [🇫🇷 Framework Heroes News : la veille sur les frameworks pour la semaine 2024/40](https://dev.to/happytodev/framework-heroes-news-la-veille-sur-les-frameworks-pour-la-semaine-202440-clf)
-- [Getting started with Smart Infrastructure in EVE Frontier](https://dev.to/q9/getting-started-with-smart-infrastructure-in-eve-frontier-45n4)
+- [Apache Virtual Host: Adding reverse proxy](https://dev.to/xxzeroxx/apache-virtual-host-adding-reverse-proxy-k7)
+- [Storing and retrieving JavaScript objects in localStorage](https://dev.to/logrocket/storing-and-retrieving-javascript-objects-in-localstorage-157j)
+- [If you think you know Javascript , try these🙄](https://dev.to/keshav___dev/if-you-think-you-know-javascript-try-these-1oj4)
+- [React Redux | PART 2](https://dev.to/mrcaption49/react-redux-part-2-460)
 <!-- BLOG-POST-LIST:END -->
 
