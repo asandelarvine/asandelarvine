@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Impacto Social da Tecnologia à Ética: O Legado de Ada Lovelace](https://dev.to/womakerscode/impacto-social-da-tecnologia-a-etica-o-legado-de-ada-lovelace-10il)
-- [Hack WKHTMLTOPDF PDF to enable Adobe Acrobat Field Editing](https://dev.to/gamesover/hack-wkhtmltopdf-pdf-to-enable-adobe-acrobat-field-editing-2f6)
-- [Text Box Margins in Microsoft Access](https://dev.to/richardrost/text-box-margins-in-microsoft-access-2i9d)
-- [Zeta Comics: Blending AI &amp; Art in Digital Stories](https://dev.to/greenzeta/zeta-comics-blending-ai-art-in-digital-stories-1jme)
+- [Can i get help with issues from github here?](https://dev.to/victorsesan/can-i-get-help-with-issues-from-github-here-38cp)
+- [General Computer System Model](https://dev.to/yihongz/general-computer-system-model-56p9)
+- [Dia 9 - Primeira versão da fila circular duplamente encadeada](https://dev.to/matheusgb/dia-9-primeira-versao-da-fila-circular-duplamente-encadeada-1326)
+- [Transforming Data Linkage: An In-Depth Look at IntaLink](https://dev.to/intalink/transforming-data-linkage-an-in-depth-look-at-intalink-27a7)
 <!-- BLOG-POST-LIST:END -->
 
