@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build &amp; Deploy a Serverless OpenAI App in 9 Lines of Code](https://dev.to/dbos/build-deploy-a-serverless-openai-app-in-9-lines-of-code-po1)
-- [The Art of Full Stack Debugging](https://dev.to/codenameone/the-art-of-full-stack-debugging-3oba)
-- [Time Data Series: The Rest of the Story](https://dev.to/adatole/time-data-series-the-rest-of-the-story-555h)
-- [Creating a Docker Swarm Cluster on AWS EC2 : AWS Project](https://dev.to/shubham_murti/creating-a-docker-swarm-cluster-on-aws-ec2-aws-project-3g5h)
+- [Wanna get started with Open Source? Join Meteor.js Hacktoberfest 2024!](https://dev.to/meteor/wanna-get-started-with-open-source-join-meteorjs-hacktoberfest-2024-1c42)
+- [Property Hooks no PHP 8.4](https://dev.to/luciencorreia/property-hooks-no-php-84-2jld)
+- [Bitmaps in Dragonfly: Compact Data with Powerful Analytics](https://dev.to/dragonflydbio/bitmaps-in-dragonfly-compact-data-with-powerful-analytics-4j4d)
+- [Why Developers Shouldn&#39;t Overlook Roblox Scripting](https://dev.to/johnny_04/why-developers-shouldnt-overlook-roblox-scripting-4m6b)
 <!-- BLOG-POST-LIST:END -->
 
