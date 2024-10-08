@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker 🐳 Basic to Advanced Concepts 2024 🚀](https://dev.to/prodevopsguytech/docker-basic-to-advanced-concepts-2024-5aa9)
-- [Essential Unit Testing for Go APIs – Build Code with Confidence](https://dev.to/neelp03/essential-unit-testing-for-go-apis-build-code-with-confidence-ne3)
-- [Nuances in UX Design for the Indian Market](https://dev.to/iste-vit/nuances-in-ux-design-for-the-indian-market-25oh)
-- [How to generate an executable file for an AI program using SPVM ?](https://dev.to/yukikimoto/how-to-generate-an-executable-file-for-an-ai-program-using-spvm--3eie)
+- [Check Each Line of a CSV File and Output Specific Information according to Certain Requirements #53](https://dev.to/esproc_spl/check-each-line-of-a-csv-file-and-output-specific-information-according-to-certain-requirements-53-479n)
+- [Creating a Virtual Environment &lpar;venv&rpar; in Python](https://dev.to/devmoreir4/creating-a-virtual-environment-venv-in-python-d6)
+- [Hacktoberfest: First contribution is ok! 🎉](https://dev.to/this-is-learning/hacktoberfest-first-contribution-is-ok-2pdj)
+- [Unlocking Wireless Security: The Roles of Managed and Monitor Modes](https://dev.to/s3cloudhub/unlocking-wireless-security-the-roles-of-managed-and-monitor-modes-4hnf)
 <!-- BLOG-POST-LIST:END -->
 
