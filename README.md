@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wanna get started with Open Source? Join Meteor.js Hacktoberfest 2024!](https://dev.to/meteor/wanna-get-started-with-open-source-join-meteorjs-hacktoberfest-2024-1c42)
-- [Property Hooks no PHP 8.4](https://dev.to/luciencorreia/property-hooks-no-php-84-2jld)
-- [Bitmaps in Dragonfly: Compact Data with Powerful Analytics](https://dev.to/dragonflydbio/bitmaps-in-dragonfly-compact-data-with-powerful-analytics-4j4d)
-- [Why Developers Shouldn&#39;t Overlook Roblox Scripting](https://dev.to/johnny_04/why-developers-shouldnt-overlook-roblox-scripting-4m6b)
+- [Hacktoberfest! - Week 1](https://dev.to/theoforger/hacktoberfest-week-1-2c13)
+- [How to get a thread dump of running Java process](https://dev.to/filipemesquita/how-to-get-a-thread-dump-of-running-java-process-588p)
+- [TBD x Hacktoberfest](https://dev.to/tbdevs/tbd-x-hacktoberfest-34c0)
+- [Why .NET for Cloud Native Development? Exploring .NET 8 &amp; .NET Aspire ☁️](https://dev.to/clickit_devops/why-net-for-cloud-native-development-exploring-net-8-net-aspire-42je)
 <!-- BLOG-POST-LIST:END -->
 
