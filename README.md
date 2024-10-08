@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 must-know open-source tools that will make you better than 99% of developers](https://dev.to/nevodavid/9-must-know-open-source-tools-that-will-make-you-better-than-99-of-developers-g5b)
-- [Creating an All-in-One Code Editor Using React and SandPack](https://dev.to/salehmubashar/creating-an-all-in-one-code-editor-using-react-and-sandpack-27df)
-- [Senior Engineer Fatigue](https://dev.to/luminousmen/senior-engineer-fatigue-4nl6)
-- [Networking in Cybersecurity: The Essential Guide to Protecting Your Digital Infrastructure](https://dev.to/abhijit_sathe_ec5cc8cbcf2/networking-in-cybersecurity-the-essential-guide-to-protecting-your-digital-infrastructure-4dka)
+- [Top 5 Frontend Development Trends in 2024 – What’s Here to Stay?](https://dev.to/faladetimilehin/top-5-frontend-development-trends-in-2024-whats-here-to-stay-55gd)
+- [Find the maximum number in an array - JavaScript](https://dev.to/dindustack/find-the-maximum-number-in-an-array-javascript-15i2)
+- [Top 7 Open Source Alternatives to Airtable with the Most GitHub Stars](https://dev.to/nocobase/top-7-open-source-alternatives-to-airtable-with-the-most-github-stars-56nh)
+- [A Simple Guide to Web5 Protocol Roles](https://dev.to/kiran_baliga/a-simple-guide-to-web5-protocol-roles-41m4)
 <!-- BLOG-POST-LIST:END -->
 
