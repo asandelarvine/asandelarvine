@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Rapyd API Signatures](https://dev.to/rapyd/understanding-rapyd-api-signatures-5adk)
-- [Showcasing ReverUI 💻&lt; 3kb React Alternative](https://dev.to/piterweb/showcasing-reverui-3kb-react-alternative-1d3j)
-- [Tailwind CSS and Dark Mode](https://dev.to/ridoy_hasan/tailwind-css-and-dark-mode-l51)
-- [Artificial Intelligence &lpar;AI&rpar; and Machine Learning &lpar;ML&rpar;: Revolutionizing Industries 🌍🤖](https://dev.to/info_generalhazedawn_a3d/artificial-intelligence-ai-and-machine-learning-ml-revolutionizing-industries-24dm)
+- [10 NPM Packages for Productivity](https://dev.to/balrajola/10-npm-packages-for-productivity-1odb)
+- [JWT Authentication in React](https://dev.to/sivamani18/jwt-authentication-in-react-1lh9)
+- [HealthChecks](https://dev.to/ben-witt/healthchecks-4aie)
+- [Master JavaScript Promises: 10 Tricky Output Questions Every Developer Must Know! &lpar;Part 1&rpar;](https://dev.to/hitheshkumar/master-javascript-promises-10-tricky-output-questions-every-developer-must-know-part-1-1l43)
 <!-- BLOG-POST-LIST:END -->
 
