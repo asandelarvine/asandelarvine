@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Démarrez votre projet Web3 : panorama tech du développement de smart contracts en 2024](https://dev.to/zenika/demarrez-votre-projet-web3-panorama-tech-du-developpement-de-smart-contracts-en-2024-589b)
-- [Optimizing Resource Allocation: Key Trends in Telecom Data Centers by Industry Leaders including David Ezell](https://dev.to/davidezell/optimizing-resource-allocation-key-trends-in-telecom-data-centers-by-industry-leaders-including-david-ezell-4b88)
-- [ajuda no primeiro exercio de python no exercism&lpar;como resolver o exercicio &#39;hello world&#39;&rpar;](https://dev.to/jroreis/ajuda-no-primeiro-exercio-de-python-no-exercismcomo-resolver-o-exercicio-hello-world-4ikc)
-- [Quantum AI for Cryptographic Defense in DevSecOps: A Future-Ready Approach to Threat Mitigation](https://dev.to/indrajithbandara/quantum-ai-for-cryptographic-defense-in-devsecops-a-future-ready-approach-to-threat-mitigation-4le)
+- [Unlocking the Power of Ruby on Rails 8: What Developers Need to Know](https://dev.to/shahzaib/unlocking-the-power-of-ruby-on-rails-8-what-developers-need-to-know-275d)
+- [Mastering Git Cherry-Pick: Advanced Guide with Real-World Examples](https://dev.to/314rate/mastering-git-cherry-pick-advanced-guide-with-real-world-examples-5bm3)
+- [Understanding Web App Technologies: A Beginner&#39;s Guide](https://dev.to/carrie_luo1/understanding-web-app-technologies-a-beginners-guide-4fp4)
+- [Unveiling the Magic Behind Autonomous AI Agents](https://dev.to/apssouza22/unveiling-the-magic-behind-autonomous-ai-agents-kkg)
 <!-- BLOG-POST-LIST:END -->
 
