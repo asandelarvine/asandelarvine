@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Frontend Development Trends in 2024 – What’s Here to Stay?](https://dev.to/faladetimilehin/top-5-frontend-development-trends-in-2024-whats-here-to-stay-55gd)
-- [Find the maximum number in an array - JavaScript](https://dev.to/dindustack/find-the-maximum-number-in-an-array-javascript-15i2)
-- [Top 7 Open Source Alternatives to Airtable with the Most GitHub Stars](https://dev.to/nocobase/top-7-open-source-alternatives-to-airtable-with-the-most-github-stars-56nh)
-- [A Simple Guide to Web5 Protocol Roles](https://dev.to/kiran_baliga/a-simple-guide-to-web5-protocol-roles-41m4)
+- [Presenting you Supacharts](https://dev.to/litlyx/presenting-you-supacharts-4pam)
+- [How Rust Manages Memory](https://dev.to/tekk_x/how-rust-manages-memory-40h3)
+- [Authentication and authorization in Node.js applications](https://dev.to/cerbos/authentication-and-authorization-in-nodejs-applications-12fk)
+- [Portainer + gitops ❤️: A simple way to deploy and manage your self-hosted applications](https://dev.to/mfyz/portainer-gitops-a-simple-way-to-deploy-and-manage-your-self-hosted-applications-pkk)
 <!-- BLOG-POST-LIST:END -->
 
