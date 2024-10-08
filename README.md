@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Ruby on Rails 8: What Developers Need to Know](https://dev.to/shahzaib/unlocking-the-power-of-ruby-on-rails-8-what-developers-need-to-know-275d)
-- [Mastering Git Cherry-Pick: Advanced Guide with Real-World Examples](https://dev.to/314rate/mastering-git-cherry-pick-advanced-guide-with-real-world-examples-5bm3)
-- [Understanding Web App Technologies: A Beginner&#39;s Guide](https://dev.to/carrie_luo1/understanding-web-app-technologies-a-beginners-guide-4fp4)
-- [Unveiling the Magic Behind Autonomous AI Agents](https://dev.to/apssouza22/unveiling-the-magic-behind-autonomous-ai-agents-kkg)
+- [9 must-know open-source tools that will make you better than 99% of developers](https://dev.to/nevodavid/9-must-know-open-source-tools-that-will-make-you-better-than-99-of-developers-g5b)
+- [Creating an All-in-One Code Editor Using React and SandPack](https://dev.to/salehmubashar/creating-an-all-in-one-code-editor-using-react-and-sandpack-27df)
+- [Senior Engineer Fatigue](https://dev.to/luminousmen/senior-engineer-fatigue-4nl6)
+- [Networking in Cybersecurity: The Essential Guide to Protecting Your Digital Infrastructure](https://dev.to/abhijit_sathe_ec5cc8cbcf2/networking-in-cybersecurity-the-essential-guide-to-protecting-your-digital-infrastructure-4dka)
 <!-- BLOG-POST-LIST:END -->
 
