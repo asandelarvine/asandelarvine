@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating custom mouse cursors with CSS](https://dev.to/logrocket/creating-custom-mouse-cursors-with-css-368l)
-- [Layered Architecture &lpar;N-Tier&rpar;](https://dev.to/bluee/layered-architecture-n-tier-52io)
-- [Cross-Chain Governance with OpenZeppelin Governor and Axelar](https://dev.to/olanetsoft/cross-chain-governance-with-openzeppelin-governor-and-axelar-53b8)
-- [Building an Event Scheduler in .NET Using Google Calendar API](https://dev.to/dianaiminza/building-an-event-scheduler-in-net-using-google-calendar-api-2enk)
+- [Hacktoberfest 2024 - The Antiguide](https://dev.to/srbhr/hacktoberfest-2024-the-antiguide-4ce5)
+- [Solve &quot;vagrant@127.0.0.1: Permission denied &lpar;publickey&rpar;&quot; error](https://dev.to/sertxudev/solve-vagrant127001-permission-denied-publickey-error-2kmg)
+- [How to create a newsletter signup form in just 20 minutes with shadcn/UI and Manifest](https://dev.to/sebconejo/how-to-create-a-newsletter-signup-form-in-just-20-minutes-with-shadcnui-and-manifest-1ile)
+- [Padrão de design de componentes agnósticos](https://dev.to/mggcmatheus/padrao-de-design-de-componentes-agnosticos-1d68)
 <!-- BLOG-POST-LIST:END -->
 
