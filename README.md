@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Promises &amp;&amp; Fetch](https://dev.to/wolfmath/javascript-promises-fetch-46ja)
-- [What is EIP2612 and How to Implement EIP2612 in NextJS?](https://dev.to/emkay860/what-is-eip2612-and-how-to-implement-eip2612-in-nextjs-4f0j)
-- [How to Develop an App Like Chase Mobile: A Comprehensive Guide](https://dev.to/kzier/how-to-develop-an-app-like-chase-mobile-a-comprehensive-guide-5736)
-- [Thinking in abstractions](https://dev.to/marleyspoon/thinking-in-abstractions-4hde)
+- [A Comprehensive Guide to Custom WordPress Development](https://dev.to/softwebsolution/a-comprehensive-guide-to-custom-wordpress-development-dci)
+- [AMB](https://dev.to/babar_ali/amb-1mel)
+- [How to register a virtual WhatsApp number](https://dev.to/whapicloud/how-to-register-a-virtual-whatsapp-number-5fp1)
+- [🚀 Hyperswitch Plugin Development Hackathon: Build, Compete, and Win Big! 🚀](https://dev.to/hyperswitchio/hyperswitch-plugin-development-hackathon-build-compete-and-win-big-nnb)
 <!-- BLOG-POST-LIST:END -->
 
