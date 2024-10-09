@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Custom WordPress Development](https://dev.to/softwebsolution/a-comprehensive-guide-to-custom-wordpress-development-dci)
-- [AMB](https://dev.to/babar_ali/amb-1mel)
-- [How to register a virtual WhatsApp number](https://dev.to/whapicloud/how-to-register-a-virtual-whatsapp-number-5fp1)
-- [🚀 Hyperswitch Plugin Development Hackathon: Build, Compete, and Win Big! 🚀](https://dev.to/hyperswitchio/hyperswitch-plugin-development-hackathon-build-compete-and-win-big-nnb)
+- [4 Easy Ways to Backup Docker Volumes](https://dev.to/code42cate/4-easy-ways-to-backup-docker-volumes-cjg)
+- [A look into the new module in Python 3.13.0 - dbm.sqlite3](https://dev.to/myexamcloud/a-look-into-the-new-module-in-python-3130-dbmsqlite3-24p0)
+- [Learn How to Dynamically Style Your Multi-Tenant App with Tailwind CSS](https://dev.to/derick1530/learn-how-to-dynamically-style-your-multi-tenant-app-with-tailwind-css-8d)
+- [How to Flirt with a Developer: Learn to Debug Your Love Life](https://dev.to/ssukhpinder/how-to-flirt-with-a-developer-learn-to-debug-your-love-life-1b6d)
 <!-- BLOG-POST-LIST:END -->
 
