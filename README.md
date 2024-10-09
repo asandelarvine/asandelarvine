@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an E-commerce Dashboard In 3 Steps](https://dev.to/domfive/create-an-e-commerce-dashboard-in-3-steps-21o4)
-- [WebCodec - Sending and Receiving](https://dev.to/ethand91/webcodec-sending-and-receiving-47m0)
-- [How to Automate Social Media Posting with Python](https://dev.to/trixsec/how-to-automate-social-media-posting-with-python-ag1)
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-50o1)
+- [From the Physical World to the Virtual City: The Future Role of GIS and 3D Technologies in Urban Planning](https://dev.to/wingwing/from-the-physical-world-to-the-virtual-city-the-future-role-of-gis-and-3d-technologies-in-urban-planning-1933)
+- [Say goodbye to the hassle of managing multiple CSS files and unnecessary style loading by using Tailwind CSS](https://dev.to/vedesh_kvs_e874361c1518/say-goodbye-to-the-hassle-of-managing-multiple-css-files-and-unnecessary-style-loading-by-using-tailwind-css-40od)
+- [Concurrency Issues in SQL and Distributed Systems](https://dev.to/metis/concurrency-issues-in-sql-and-distributed-systems-58c2)
+- [How to use SuperTokens in a VueJS app with your own UI](https://dev.to/koha/how-to-use-supertokens-in-a-vuejs-app-with-your-own-ui-l2k)
 <!-- BLOG-POST-LIST:END -->
 
