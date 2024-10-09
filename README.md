@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Cutting Edge of Computer Vision with this Comprehensive Course 🚀](https://dev.to/getvm/dive-into-the-cutting-edge-of-computer-vision-with-this-comprehensive-course-3718)
-- [Essential Concepts for JavaScript Developers](https://dev.to/shafayeat/essential-concepts-for-javascript-developers-5eo)
-- [What is Cloud Computing?](https://dev.to/adeolaogunkola/what-is-cloud-computing-pj4)
-- [Contribute to Akello: Learn and Build with Cutting-Edge Tech](https://dev.to/vselvarajijay/contribute-to-akello-learn-and-build-with-cutting-edge-tech-3k73)
+- [Ibuprofeno.py💊| #190: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-190-explica-este-codigo-python-1963)
+- [Welcome Thread - v297](https://dev.to/devteam/welcome-thread-v297-22mc)
+- [Your First Hello World! with HTML](https://dev.to/shif/your-first-hello-world-with-html-2cel)
+- [Mastering Spring Security: A Comedy of Errors &lpar;and Authentication&rpar;](https://dev.to/wittedtech-by-harshit/mastering-spring-security-a-comedy-of-errors-and-authentication-46pe)
 <!-- BLOG-POST-LIST:END -->
 
