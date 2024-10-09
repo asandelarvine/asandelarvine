@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Drawbacks of Microcontrollers in Embedded Systems: What Developers Need to Know](https://dev.to/adityabhuyan/top-10-drawbacks-of-microcontrollers-in-embedded-systems-what-developers-need-to-know-589h)
-- [React 19 new features - the &#39;use&#39; hook](https://dev.to/hreuven/react-19-new-features-the-use-hook-4e8b)
-- [What the heck is Edge computing? Real life example](https://dev.to/perisicnikola37/what-the-heck-is-edge-computing-real-life-example-4b7k)
-- [How to Test Cron Jobs: A Complete Guide](https://dev.to/keploy/how-to-test-cron-jobs-a-complete-guide-34di)
+- [Create an E-commerce Dashboard In 3 Steps](https://dev.to/domfive/create-an-e-commerce-dashboard-in-3-steps-21o4)
+- [WebCodec - Sending and Receiving](https://dev.to/ethand91/webcodec-sending-and-receiving-47m0)
+- [How to Automate Social Media Posting with Python](https://dev.to/trixsec/how-to-automate-social-media-posting-with-python-ag1)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-50o1)
 <!-- BLOG-POST-LIST:END -->
 
