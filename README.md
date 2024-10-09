@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DSA: Greedy algorithms - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-greedy-algorithms-interview-preparation-questions-3mi3)
-- [DSA: Heap - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-heap-interview-preparation-questions-4l4f)
-- [TanStack Query: Angular/React differences](https://dev.to/jyjor/tanstack-query-angularreact-differences-306g)
-- [DSA: Backtracking - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-backtracking-interview-preparation-questions-24p9)
+- [Dive into the Cutting Edge of Computer Vision with this Comprehensive Course 🚀](https://dev.to/getvm/dive-into-the-cutting-edge-of-computer-vision-with-this-comprehensive-course-3718)
+- [Essential Concepts for JavaScript Developers](https://dev.to/shafayeat/essential-concepts-for-javascript-developers-5eo)
+- [What is Cloud Computing?](https://dev.to/adeolaogunkola/what-is-cloud-computing-pj4)
+- [Contribute to Akello: Learn and Build with Cutting-Edge Tech](https://dev.to/vselvarajijay/contribute-to-akello-learn-and-build-with-cutting-edge-tech-3k73)
 <!-- BLOG-POST-LIST:END -->
 
