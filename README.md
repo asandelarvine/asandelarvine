@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Coding Interviews: Essential Patterns for Success](https://dev.to/rajeshkumaryadavdotcom/mastering-coding-interviews-essential-patterns-for-success-h9k)
-- [API Authentication with Open ID Connect](https://dev.to/hawkinswinja/api-authentication-with-open-id-connect-32hc)
-- [Tackling Complexity: Practical Principles for Scaling Frontend Applications](https://dev.to/_itsglover/tackling-complexity-practical-principles-for-scaling-frontend-applications-3949)
-- [Must-have Features of Apps Like GoChat Messenger](https://dev.to/stephen568hub/must-have-features-of-apps-like-gochat-messenger-c7p)
+- [Turbopack vs Webpack: Has Webpack’s Creator Built Its Own Replacement?](https://dev.to/charliesay/turbopack-vs-webpack-has-webpacks-creator-built-its-own-replacement-al4)
+- [Quick Byte: A very specific error in React Native iOS](https://dev.to/bytehala/quick-byte-a-very-specific-error-in-react-native-ios-2i58)
+- [Trigger Lambda Function From Amazon SQS - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/trigger-lambda-function-from-amazon-sqs-lets-build-series-5h1k)
+- [Understanding Queues Data Structure: Mastering FIFO Principle in JavaScript](https://dev.to/emmanuelayinde/understanding-queues-data-structure-mastering-fifo-principle-in-javascript-8di)
 <!-- BLOG-POST-LIST:END -->
 
