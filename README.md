@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Griptape: OSS Platform for Building AI Apps](https://dev.to/griptape/griptape-oss-platform-for-building-ai-apps-28ca)
-- [Most underrated Flutter property &quot;autofillHints&quot;](https://dev.to/shajin/most-underrated-flutter-property-autofillhints-4bha)
-- [HTML APIs Integration??](https://dev.to/areeb_anwar_813df06ee1124/html-apis-integration-4l92)
-- [AWS CodePipeline introduces the Commands action that enables customer to easily run shell commands as part of pipeline execution](https://dev.to/karthiksakthiveltechie/aws-codepipeline-introduces-the-commands-action-that-enables-customer-to-easily-run-shell-commands-as-part-of-pipeline-execution-55b4)
+- [Migrating Playbooks to Ansible Roles](https://dev.to/suraj_p_7aaf258e240f13af9/migrating-playbooks-to-ansible-roles-524f)
+- [Best Incident Management Software Tools For B2B, SaaS, and Startups In 2024](https://dev.to/statuspal/best-incident-management-software-tools-for-b2b-saas-and-startups-in-2024-239h)
+- [DefaultMap class in TailwindCSS source code.](https://dev.to/thinkthroo/defaultmap-class-in-tailwindcss-source-code-2ohl)
+- [Using AWS CloudHSM for FIPS 140-2 Validated Key Storage in Financial Services](https://dev.to/ikoh_sylva/using-aws-cloudhsm-for-fips-140-2-validated-key-storage-in-financial-services-4ck3)
 <!-- BLOG-POST-LIST:END -->
 
