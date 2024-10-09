@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #190: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-190-explica-este-codigo-python-1963)
-- [Welcome Thread - v297](https://dev.to/devteam/welcome-thread-v297-22mc)
-- [Your First Hello World! with HTML](https://dev.to/shif/your-first-hello-world-with-html-2cel)
-- [Mastering Spring Security: A Comedy of Errors &lpar;and Authentication&rpar;](https://dev.to/wittedtech-by-harshit/mastering-spring-security-a-comedy-of-errors-and-authentication-46pe)
+- [Blockchain and Decentralized Finance &lpar;DeFi&rpar;: Transforming Industries 🌐💰](https://dev.to/info_generalhazedawn_a3d/blockchain-and-decentralized-finance-defi-transforming-industries-3084)
+- [Giới thiệu về chuyên gia Trần Quý Hiệp](https://dev.to/hiep_tran_8952b1234da91ed/gioi-thieu-ve-chuyen-gia-tran-quy-hiep-2np2)
+- [Prompt Engineering](https://dev.to/nareshnishad/prompt-engineering-50k3)
+- [Breaking Down the Competition: A Comprehensive Comparison of HeadSpin Competitors](https://dev.to/misterankit/breaking-down-the-competition-a-comprehensive-comparison-of-headspin-competitors-53kl)
 <!-- BLOG-POST-LIST:END -->
 
