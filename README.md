@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bangla Corpus Comparison](https://dev.to/sajjadrahman56/bangla-corpus-comparison-2283)
-- [Demystifying how containers work](https://dev.to/brunociccarino/demystifying-how-containers-work-2nkl)
-- [🚀 Elon Musk, Windows vs Linux, and His PayPal Firing 💻🛑](https://dev.to/francotel/elon-musk-windows-vs-linux-and-his-paypal-firing-56jn)
-- [My Hacktoberfest 2024 Journey](https://dev.to/kiran_baliga/my-hacktoberfest-2024-journey-2odn)
+- [How does the Internet Work? Part 2](https://dev.to/kavya-sahai-god/how-does-the-internet-work-part-2-2lnm)
+- [Implementación de Autenticación Segura en Node.js con JWT](https://dev.to/adriangrahldev/implementacion-de-autenticacion-segura-en-nodejs-con-jwt-465o)
+- [Reverse engineering TP-Link Tapo&#39;s REST API - part 1](https://dev.to/ad1s0n/reverse-engineering-tp-link-tapos-rest-api-part-1-4g6)
+- [Apache Virtual Host: Adding Security](https://dev.to/xxzeroxx/apache-virtual-host-adding-security-2e6d)
 <!-- BLOG-POST-LIST:END -->
 
