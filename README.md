@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Migrating from Redis to Dragonfly to Scale IoT Infrastructure](https://dev.to/dragonflydbio/case-study-migrating-from-redis-to-dragonfly-to-scale-iot-infrastructure-511e)
-- [Detecting High-Anonymity Proxy: Tools and Techniques](https://dev.to/lewis_kerr_2d0d4c5b886b02/detecting-high-anonymity-proxy-tools-and-techniques-gj)
-- [React&#39;s useEffect Hook Simplified: Manage Side Effects Like a Pro](https://dev.to/chintanonweb/reacts-useeffect-hook-simplified-manage-side-effects-like-a-pro-2clj)
-- [How to Use Selenium Waits: A Step-by-Step Guide](https://dev.to/testifytech/how-to-use-selenium-waits-a-step-by-step-guide-2i54)
+- [JavaScript Promises &amp;&amp; Fetch](https://dev.to/wolfmath/javascript-promises-fetch-46ja)
+- [What is EIP2612 and How to Implement EIP2612 in NextJS?](https://dev.to/emkay860/what-is-eip2612-and-how-to-implement-eip2612-in-nextjs-4f0j)
+- [How to Develop an App Like Chase Mobile: A Comprehensive Guide](https://dev.to/kzier/how-to-develop-an-app-like-chase-mobile-a-comprehensive-guide-5736)
+- [Thinking in abstractions](https://dev.to/marleyspoon/thinking-in-abstractions-4hde)
 <!-- BLOG-POST-LIST:END -->
 
