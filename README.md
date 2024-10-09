@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🍌 How to Learn AWS Services Fast](https://dev.to/sammytran/how-to-learn-aws-services-fast-3cb8)
-- [Provide storage for the public website](https://dev.to/emmanuel_cobham/provide-storage-for-the-public-website-4d2a)
-- [Best Practices for Securing Amazon S3 Buckets](https://dev.to/uendi_hoxha/best-practices-for-securing-amazon-s3-buckets-4en9)
-- [Bitmap Index in ORACLE SQL](https://dev.to/mrcaption49/bitmap-index-in-oracle-sql-4g4h)
+- [Bangla Corpus Comparison](https://dev.to/sajjadrahman56/bangla-corpus-comparison-2283)
+- [Demystifying how containers work](https://dev.to/brunociccarino/demystifying-how-containers-work-2nkl)
+- [🚀 Elon Musk, Windows vs Linux, and His PayPal Firing 💻🛑](https://dev.to/francotel/elon-musk-windows-vs-linux-and-his-paypal-firing-56jn)
+- [My Hacktoberfest 2024 Journey](https://dev.to/kiran_baliga/my-hacktoberfest-2024-journey-2odn)
 <!-- BLOG-POST-LIST:END -->
 
