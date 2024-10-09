@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT_BR] Repositório Genérico com Dapper.Contrib](https://dev.to/luizdario/ptbr-repositorio-generico-com-dappercontrib-4hb2)
-- [Por Que o Arc é o Melhor Navegador para Mac](https://dev.to/gpaiva/por-que-o-arc-e-o-melhor-navegador-para-mac-4mog)
-- [Asymptotic Notation and Analysis Based on Input Size of Algorithms](https://dev.to/bhaweshchaudhary/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms-3849)
-- [Como Organizo Minha Vida Digital](https://dev.to/gpaiva/como-organizo-minha-vida-digital-41e8)
+- [DSA: Greedy algorithms - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-greedy-algorithms-interview-preparation-questions-3mi3)
+- [DSA: Heap - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-heap-interview-preparation-questions-4l4f)
+- [TanStack Query: Angular/React differences](https://dev.to/jyjor/tanstack-query-angularreact-differences-306g)
+- [DSA: Backtracking - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-backtracking-interview-preparation-questions-24p9)
 <!-- BLOG-POST-LIST:END -->
 
