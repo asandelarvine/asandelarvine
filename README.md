@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From the Physical World to the Virtual City: The Future Role of GIS and 3D Technologies in Urban Planning](https://dev.to/wingwing/from-the-physical-world-to-the-virtual-city-the-future-role-of-gis-and-3d-technologies-in-urban-planning-1933)
-- [Say goodbye to the hassle of managing multiple CSS files and unnecessary style loading by using Tailwind CSS](https://dev.to/vedesh_kvs_e874361c1518/say-goodbye-to-the-hassle-of-managing-multiple-css-files-and-unnecessary-style-loading-by-using-tailwind-css-40od)
-- [Concurrency Issues in SQL and Distributed Systems](https://dev.to/metis/concurrency-issues-in-sql-and-distributed-systems-58c2)
-- [How to use SuperTokens in a VueJS app with your own UI](https://dev.to/koha/how-to-use-supertokens-in-a-vuejs-app-with-your-own-ui-l2k)
+- [Case Study: Migrating from Redis to Dragonfly to Scale IoT Infrastructure](https://dev.to/dragonflydbio/case-study-migrating-from-redis-to-dragonfly-to-scale-iot-infrastructure-511e)
+- [Detecting High-Anonymity Proxy: Tools and Techniques](https://dev.to/lewis_kerr_2d0d4c5b886b02/detecting-high-anonymity-proxy-tools-and-techniques-gj)
+- [React&#39;s useEffect Hook Simplified: Manage Side Effects Like a Pro](https://dev.to/chintanonweb/reacts-useeffect-hook-simplified-manage-side-effects-like-a-pro-2clj)
+- [How to Use Selenium Waits: A Step-by-Step Guide](https://dev.to/testifytech/how-to-use-selenium-waits-a-step-by-step-guide-2i54)
 <!-- BLOG-POST-LIST:END -->
 
