@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT_BR] Repositório Genérico com Dapper.Contrib](https://dev.to/luizdario/ptbr-repositorio-generico-com-dappercontrib-1c92)
-- [Code Structure with Dapper and Dapper.Contrib](https://dev.to/luizdario/code-structure-with-dapper-and-dappercontrib-20g2)
-- [921. Minimum Add to Make Parentheses Valid](https://dev.to/mdarifulhaque/921-minimum-add-to-make-parentheses-valid-14jk)
-- [7 Productivity tools that I can&#39;t live without &lpar;5+ Bonus&rpar;](https://dev.to/thenomadevel/7-productivity-tools-that-i-cant-live-without-5-bonus-4p)
+- [Mastering Coding Interviews: Essential Patterns for Success](https://dev.to/rajeshkumaryadavdotcom/mastering-coding-interviews-essential-patterns-for-success-h9k)
+- [API Authentication with Open ID Connect](https://dev.to/hawkinswinja/api-authentication-with-open-id-connect-32hc)
+- [Tackling Complexity: Practical Principles for Scaling Frontend Applications](https://dev.to/_itsglover/tackling-complexity-practical-principles-for-scaling-frontend-applications-3949)
+- [Must-have Features of Apps Like GoChat Messenger](https://dev.to/stephen568hub/must-have-features-of-apps-like-gochat-messenger-c7p)
 <!-- BLOG-POST-LIST:END -->
 
