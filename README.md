@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Letter to my team: Fighting software decay](https://dev.to/caeus/letter-to-my-team-fighting-software-decay-pn0)
-- [Five popular NPM packages that can boost your productivity | Nodejs](https://dev.to/mrcaption49/five-popular-npm-packages-that-can-boost-your-productivity-nodejs-2b23)
-- [Building A Weather Station with a Raspberry Pi and Python - Part One](https://dev.to/dev_neil_a/build-a-weather-station-with-a-raspberry-pi-and-python-part-one-1p92)
-- [Personal Finance Management App with Django, HTMX, Alpine, Tailwind and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
+- [🍌 How to Learn AWS Services Fast](https://dev.to/sammytran/how-to-learn-aws-services-fast-3cb8)
+- [Provide storage for the public website](https://dev.to/emmanuel_cobham/provide-storage-for-the-public-website-4d2a)
+- [Best Practices for Securing Amazon S3 Buckets](https://dev.to/uendi_hoxha/best-practices-for-securing-amazon-s3-buckets-4en9)
+- [Bitmap Index in ORACLE SQL](https://dev.to/mrcaption49/bitmap-index-in-oracle-sql-4g4h)
 <!-- BLOG-POST-LIST:END -->
 
