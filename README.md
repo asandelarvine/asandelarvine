@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This New UI Framework Is an Absolute Game Changer 😲](https://dev.to/safdarali/this-new-ui-framework-is-an-absolute-game-changer-3oa7)
-- [Understanding Stack Data Structure: A Step-by-Step Guide to Implementing Stack in JavaScript](https://dev.to/emmanuelayinde/understanding-stack-data-structure-a-step-by-step-guide-to-implementing-stack-in-javascript-3f62)
-- [The Home Server Journey - 6: Your New Blogging Career](https://dev.to/beppe90/the-home-server-journey-6-your-new-blogging-career-4jp6)
-- [created my first project](https://dev.to/nelsonhmalbone/created-my-first-project-25hh)
+- [[PT_BR] Repositório Genérico com Dapper.Contrib](https://dev.to/luizdario/ptbr-repositorio-generico-com-dappercontrib-4hb2)
+- [Por Que o Arc é o Melhor Navegador para Mac](https://dev.to/gpaiva/por-que-o-arc-e-o-melhor-navegador-para-mac-4mog)
+- [Asymptotic Notation and Analysis Based on Input Size of Algorithms](https://dev.to/bhaweshchaudhary/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms-3849)
+- [Como Organizo Minha Vida Digital](https://dev.to/gpaiva/como-organizo-minha-vida-digital-41e8)
 <!-- BLOG-POST-LIST:END -->
 
