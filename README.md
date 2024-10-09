@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How does the Internet Work? Part 2](https://dev.to/kavya-sahai-god/how-does-the-internet-work-part-2-2lnm)
-- [Implementación de Autenticación Segura en Node.js con JWT](https://dev.to/adriangrahldev/implementacion-de-autenticacion-segura-en-nodejs-con-jwt-465o)
-- [Reverse engineering TP-Link Tapo&#39;s REST API - part 1](https://dev.to/ad1s0n/reverse-engineering-tp-link-tapos-rest-api-part-1-4g6)
-- [Apache Virtual Host: Adding Security](https://dev.to/xxzeroxx/apache-virtual-host-adding-security-2e6d)
+- [Griptape: OSS Platform for Building AI Apps](https://dev.to/griptape/griptape-oss-platform-for-building-ai-apps-28ca)
+- [Most underrated Flutter property &quot;autofillHints&quot;](https://dev.to/shajin/most-underrated-flutter-property-autofillhints-4bha)
+- [HTML APIs Integration??](https://dev.to/areeb_anwar_813df06ee1124/html-apis-integration-4l92)
+- [AWS CodePipeline introduces the Commands action that enables customer to easily run shell commands as part of pipeline execution](https://dev.to/karthiksakthiveltechie/aws-codepipeline-introduces-the-commands-action-that-enables-customer-to-easily-run-shell-commands-as-part-of-pipeline-execution-55b4)
 <!-- BLOG-POST-LIST:END -->
 
