@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbopack vs Webpack: Has Webpack’s Creator Built Its Own Replacement?](https://dev.to/charliesay/turbopack-vs-webpack-has-webpacks-creator-built-its-own-replacement-al4)
-- [Quick Byte: A very specific error in React Native iOS](https://dev.to/bytehala/quick-byte-a-very-specific-error-in-react-native-ios-2i58)
-- [Trigger Lambda Function From Amazon SQS - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/trigger-lambda-function-from-amazon-sqs-lets-build-series-5h1k)
-- [Understanding Queues Data Structure: Mastering FIFO Principle in JavaScript](https://dev.to/emmanuelayinde/understanding-queues-data-structure-mastering-fifo-principle-in-javascript-8di)
+- [Step-by-Step Guide: Interruption Management with OpenAI Realtime API](https://dev.to/m_sea_bass/step-by-step-guide-interruption-management-with-openai-realtime-api-3d18)
+- [My Second Hacktoberfest Adventure: Testing with Jest &lpar;For the First Time!&rpar; 🎉](https://dev.to/tasbi03/my-second-hacktoberfest-adventure-testing-with-jest-for-the-first-time-1ban)
+- [Dia 11 - [1.1 Introdução] - Organização e Projeto de Computadores: Interface Hardware/Software](https://dev.to/matheusgb/dia-11-resumo-do-livro-organizacao-e-projeto-de-computadores-interface-hardwaresoftware-11-introducao-27b3)
+- [[Apache Superset] Topic #5, Automated Alerts and Reporting via Slack/Email in Superset](https://dev.to/ngtduc693/apache-superset-topic-5-automated-alerts-and-reporting-via-slackemail-in-superset-2gbe)
 <!-- BLOG-POST-LIST:END -->
 
