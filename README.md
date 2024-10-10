@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Flexbox: Creating a Hero Section](https://dev.to/tailwine/css-flexbox-creating-a-hero-section-2koj)
-- [Introducing Note Forge: Your Hub for University Resources](https://dev.to/namankatewa/introducing-note-forge-your-hub-for-university-resources-2mjm)
-- [Optimize Your Software Testing Workflow With AI](https://dev.to/misterankit/optimize-your-software-testing-workflow-with-ai-41gd)
-- [Browser incompatibility. #Very_Important](https://dev.to/bobby_xavier_2b92e0584c53/browser-incompatibility-veryimportant-4ad4)
+- [Why MySQL is the Superior Choice for Database Management Over MS Access](https://dev.to/adityabhuyan/why-mysql-is-the-superior-choice-for-database-management-over-ms-access-5g10)
+- [Negative cycle with Dijskta&lpar;Possible but not optimal&rpar;](https://dev.to/priya2422/negative-cycle-with-dijsktapossible-but-not-optimal-5605)
+- [Quickly and easily implement a high-performance e-commerce system by sponge+dtm](https://dev.to/zhufuyi/quickly-and-easily-implement-a-high-performance-e-commerce-system-by-spongedtm-3ol6)
+- [How to Integrate Dev.to API in Next.js to Display Your Blog](https://dev.to/ember_c4d667e6e148d1ad0d2/how-to-integrate-devto-api-in-nextjs-to-display-your-blog-34bo)
 <!-- BLOG-POST-LIST:END -->
 
