@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Host Manager You Never Knew You Needed... Until Now! 😲](https://dev.to/nunesfd/the-host-manager-you-never-knew-you-needed-until-now-43eh)
-- [Integrazione Bootstrap e Tailwind: Pro e Contro | Bootstrap and Tailwind: Pros and Cons](https://dev.to/roberto_celano/integrazione-bootstrap-e-tailwind-pro-e-contro-bootstrap-and-tailwind-pros-and-cons-83g)
-- [How to Use Context Manager Pattern in JavaScript for Efficient Code Execution](https://dev.to/vishnusatheesh/how-to-use-context-manager-pattern-in-javascript-for-efficient-code-execution-57ef)
-- [My Story](https://dev.to/idafum/my-story-240b)
+- [I passed the challenging AWS Certified DevOps Engineer – Professional Certification: How?](https://dev.to/simonmafany/i-passed-the-challenging-aws-certified-devops-engineer-professional-certification-how-21mc)
+- [Kotlin DataFrame ❤️ Arrow](https://dev.to/fb64/kotlin-dataframe-arrow-54kh)
+- [Simplifying software deployment: a manifesto for developers](https://dev.to/k0dep/simplifying-software-deployment-a-manifesto-for-developers-5e7p)
+- [How to Build Smarter AI Apps and Reduce Hallucinations with RAG](https://dev.to/ragieai/how-to-build-smarter-ai-apps-and-reduce-hallucinations-with-rag-79i)
 <!-- BLOG-POST-LIST:END -->
 
