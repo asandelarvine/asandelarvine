@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Interruption Management with OpenAI Realtime API](https://dev.to/m_sea_bass/step-by-step-guide-interruption-management-with-openai-realtime-api-3d18)
-- [My Second Hacktoberfest Adventure: Testing with Jest &lpar;For the First Time!&rpar; 🎉](https://dev.to/tasbi03/my-second-hacktoberfest-adventure-testing-with-jest-for-the-first-time-1ban)
-- [Dia 11 - [1.1 Introdução] - Organização e Projeto de Computadores: Interface Hardware/Software](https://dev.to/matheusgb/dia-11-resumo-do-livro-organizacao-e-projeto-de-computadores-interface-hardwaresoftware-11-introducao-27b3)
-- [[Apache Superset] Topic #5, Automated Alerts and Reporting via Slack/Email in Superset](https://dev.to/ngtduc693/apache-superset-topic-5-automated-alerts-and-reporting-via-slackemail-in-superset-2gbe)
+- [Top 10 AI Tools for Coding Every Developer Should Use](https://dev.to/foxinfotech/top-10-ai-tools-for-coding-every-developer-should-use-4il9)
+- [Fixing “Connection Refused” Error Between pgAdmin and Postgres in Docker](https://dev.to/deni_sugiarto_1a01ad7c3fb/fixing-connection-refused-error-between-pgadmin-and-postgres-in-docker-14ge)
+- [Creating a backup table in ORACLE SQL](https://dev.to/mrcaption49/creating-a-backup-table-in-oracle-sql-1p31)
+- [Adding motion to 3D models with Framer Motion and Three.js](https://dev.to/_3b92a59b19aece3845cf/adding-motion-to-3d-models-with-framer-motion-and-threejs-2phh)
 <!-- BLOG-POST-LIST:END -->
 
