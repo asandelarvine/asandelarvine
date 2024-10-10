@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Queries with Materialized Views](https://dev.to/dbvismarketing/optimizing-postgresql-queries-with-materialized-views-11n8)
-- [Detective Simulator - Powered by pinata](https://dev.to/jainireshj/detective-simulator-powered-by-pinata-4c9b)
-- [What is an F1 score?](https://dev.to/eyer-ai/what-is-an-f1-score-59m3)
-- [Maximising User Engagement in Mental Health Apps with Embedded Video Conferencing](https://dev.to/digitalsamba/maximising-user-engagement-in-mental-health-apps-with-embedded-video-conferencing-2efl)
+- [Is Datadog Worth the Price? An In-Depth Cost Analysis in 2024](https://dev.to/uptrace/is-datadog-worth-the-price-an-in-depth-cost-analysis-in-2024-1dd4)
+- [PostgreSQL 17 Installation on Ubuntu 24.04](https://dev.to/johndotowl/postgresql-17-installation-on-ubuntu-2404-5bfi)
+- [How to create a particle text effect with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-particle-text-effect-with-tailwind-css-and-javascript-65l)
+- [5 Software for Construction Plans That Facilitate Project Processes &amp; Boost Teamwork](https://dev.to/thomasy0ung/5-software-for-construction-plans-that-facilitate-project-processes-boost-teamwork-5amn)
 <!-- BLOG-POST-LIST:END -->
 
