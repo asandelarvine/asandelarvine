@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpopular opinion about &quot;Moving back to on-prem&quot;](https://dev.to/aws-builders/unpopular-opinion-about-moving-back-to-on-prem-e3f)
-- [Looking to Collaborate with Fellow Coders and Gamers! 🚀](https://dev.to/aeon_roamer/looking-to-collaborate-with-fellow-coders-and-gamers-305k)
-- [Hacktoberfest from a maintainer&#39;s point of view](https://dev.to/cereal84/hacktoberfest-from-a-maintainers-point-of-view-285a)
-- [5 Real-World Examples to Boost Your Spring Development with JDK 14 Records](https://dev.to/jackwilltech/5-real-world-examples-to-boost-your-spring-development-with-jdk-14-records-21g9)
+- [Smooth Transitions with Turbo Streams](https://dev.to/railsdesigner/smooth-transitions-with-turbo-streams-3olo)
+- [Free Threaded Mode in Python3.13 &lpar;GIL disabled&rpar;](https://dev.to/behitek/free-threaded-mode-in-python313-gil-disabled-cfc)
+- [Web2-like Onboarding on Limitless Prediction Market with Etherspot](https://dev.to/alexandradev/web2-like-onboarding-on-limitless-prediction-market-with-etherspot-2hha)
+- [Transforming Education with AI: The Role of Image Recognition APIs in e-Learning](https://dev.to/api4ai/transforming-education-with-ai-the-role-of-image-recognition-apis-in-e-learning-34fn)
 <!-- BLOG-POST-LIST:END -->
 
