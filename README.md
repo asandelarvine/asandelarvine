@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I passed the challenging AWS Certified DevOps Engineer – Professional Certification: How?](https://dev.to/simonmafany/i-passed-the-challenging-aws-certified-devops-engineer-professional-certification-how-21mc)
-- [Kotlin DataFrame ❤️ Arrow](https://dev.to/fb64/kotlin-dataframe-arrow-54kh)
-- [Simplifying software deployment: a manifesto for developers](https://dev.to/k0dep/simplifying-software-deployment-a-manifesto-for-developers-5e7p)
-- [How to Build Smarter AI Apps and Reduce Hallucinations with RAG](https://dev.to/ragieai/how-to-build-smarter-ai-apps-and-reduce-hallucinations-with-rag-79i)
+- [Hacktoberfest 2024: Join the Open Source Revolution, No-Code Style! 🚀](https://dev.to/safdarali/hacktoberfest-2024-join-the-open-source-revolution-no-code-style-14m8)
+- [What&#39;s the Fucking Clean Code???](https://dev.to/nezirzahirovic/whats-the-fucking-clean-code-2nj0)
+- [First Week At My Boot Camp](https://dev.to/jajaninnin/first-week-at-my-boot-camp-4jo7)
+- [SQL: The Backbone of Modern Data Management](https://dev.to/abdikhafarhub/sql-the-backbone-of-modern-data-management-2f0)
 <!-- BLOG-POST-LIST:END -->
 
