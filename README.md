@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest 2024 Journey](https://dev.to/ahzem/my-hacktoberfest-2024-journey-4k34)
-- [BULK COLLECT | SELECT INTO AND FETCH WITH LIMIT](https://dev.to/mrcaption49/bulk-collect-3359)
-- [Shaping the state of Test-Driven Development](https://dev.to/marabesi/shaping-the-state-of-test-driven-development-1i39)
-- [Implement a Custom Trash-Enabled Linux Command](https://dev.to/labex/implement-a-custom-trash-enabled-linux-command-3occ)
+- [Online Visual Novel in Godot: Case Study on Sentou Gakuen](https://dev.to/godot/online-visual-novel-in-godot-case-study-on-sentou-gakuen-33ce)
+- [Be Real: How to Use AI Writing Tools and Stay Authentic](https://dev.to/jimmymcbride/be-real-how-to-use-ai-writing-tools-and-stay-authentic-26pp)
+- [My Hacktobefest Contribution To DiceDB](https://dev.to/kannav02/my-hacktobefest-contribution-to-dicedb-4egg)
+- [Unlocking your ADHD Superpowers](https://dev.to/codingcatdev/unlocking-your-adhd-superpowers-2p1a)
 <!-- BLOG-POST-LIST:END -->
 
