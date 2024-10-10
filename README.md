@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Virtual Host: Load Balancer](https://dev.to/xxzeroxx/apache-virtual-host-load-balancer-37fe)
-- [Unlocking the Power of Real-Time Data Management with RxDB](https://dev.to/alex7842/unlocking-the-power-of-real-time-data-management-with-rxdb-npm)
-- [Unlock Scalable Messaging: 4-Step Guide to Fault-Tolerant Concurrency with RabbitMQ &amp; Spring Boot](https://dev.to/parkerava/unlock-scalable-messaging-4-step-guide-to-fault-tolerant-concurrency-with-rabbitmq-spring-boot-nph)
-- [Best Resources for Preparing for Microsoft Certified: Azure Fundamentals](https://dev.to/prahladyeri/best-resources-for-preparing-for-microsoft-certified-azure-fundamentals-1mpl)
+- [State Management in React: When to Use useState, useReducer, and useRef](https://dev.to/paharihacker/state-management-in-react-when-to-use-usestate-usereducer-and-useref-1dn9)
+- [Revolutionizing Financial Audits: Kishor Yadav Kommanaboina&#39;s AI and Data Pipeline Framework Boosts Efficiency and Accuracy](https://dev.to/mariliatirachi62/revolutionizing-financial-audits-kishor-yadav-kommanaboinas-ai-and-data-pipeline-framework-boosts-efficiency-and-accuracy-50f1)
+- [Understanding the useRef Hook in React](https://dev.to/sudhanshu_developer/understanding-the-useref-hook-in-react-519)
+- [Understanding the Shadow DOM and When to Use It](https://dev.to/marrouchi/understanding-the-shadow-dom-and-when-to-use-it-44hc)
 <!-- BLOG-POST-LIST:END -->
 
