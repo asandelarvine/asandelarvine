@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Datadog Worth the Price? An In-Depth Cost Analysis in 2024](https://dev.to/uptrace/is-datadog-worth-the-price-an-in-depth-cost-analysis-in-2024-1dd4)
-- [PostgreSQL 17 Installation on Ubuntu 24.04](https://dev.to/johndotowl/postgresql-17-installation-on-ubuntu-2404-5bfi)
-- [How to create a particle text effect with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-particle-text-effect-with-tailwind-css-and-javascript-65l)
-- [5 Software for Construction Plans That Facilitate Project Processes &amp; Boost Teamwork](https://dev.to/thomasy0ung/5-software-for-construction-plans-that-facilitate-project-processes-boost-teamwork-5amn)
+- [Interview with Prabhu Kiran Konda, Creator of Snail AI!](https://dev.to/crabnebula/interview-with-prabhu-kiran-konda-creator-of-snail-ai-1nl0)
+- [Augmenting the client with HTMX](https://dev.to/nfrankel/augmenting-the-client-with-htmx-2lgk)
+- [CrediSync - Advance Credit Management System](https://dev.to/mayankchawdhari/credisync-advance-credit-management-system-1dna)
+- [Python Tuples: A Comprehensive Guide with Examples](https://dev.to/imyusufakhtar/python-tuples-a-comprehensive-guide-with-examples-1i5h)
 <!-- BLOG-POST-LIST:END -->
 
