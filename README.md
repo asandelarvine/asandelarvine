@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database sharding](https://dev.to/hulk-pham/database-sharding-1382)
-- [Why Going Back in Git Doesn&#39;t Have to Be Scary](https://dev.to/missbellum/why-going-back-in-git-doesnt-have-to-be-scary-145n)
-- [We are donating $2k worth of advertising to the Open Source pledge](https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75)
-- [Proxy Types: A Complete Guide for Beginners and Experts](https://dev.to/marsproxies/proxy-types-a-complete-guide-for-beginners-and-experts-4fa7)
+- [Apache Virtual Host: Load Balancer](https://dev.to/xxzeroxx/apache-virtual-host-load-balancer-37fe)
+- [Unlocking the Power of Real-Time Data Management with RxDB](https://dev.to/alex7842/unlocking-the-power-of-real-time-data-management-with-rxdb-npm)
+- [Unlock Scalable Messaging: 4-Step Guide to Fault-Tolerant Concurrency with RabbitMQ &amp; Spring Boot](https://dev.to/parkerava/unlock-scalable-messaging-4-step-guide-to-fault-tolerant-concurrency-with-rabbitmq-spring-boot-nph)
+- [Best Resources for Preparing for Microsoft Certified: Azure Fundamentals](https://dev.to/prahladyeri/best-resources-for-preparing-for-microsoft-certified-azure-fundamentals-1mpl)
 <!-- BLOG-POST-LIST:END -->
 
