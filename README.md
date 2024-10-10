@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Hero: Building a Scalable React Admin Dashboard Layout](https://dev.to/chintanonweb/from-zero-to-hero-building-a-scalable-react-admin-dashboard-layout-53p9)
-- [Building a Personal Finance Tracker Mobile App with React Native](https://dev.to/nadim_ch0wdhury/building-a-personal-finance-tracker-mobile-app-with-react-native-4jjn)
-- [Flask vs Django: The Epic Showdown Between Flexibility and Control!](https://dev.to/mayowakalejaiye/flask-vs-django-the-epic-showdown-between-flexibility-and-control-1ihp)
-- [Building a Full-Stack Personal Finance Tracker with NestJS, Prisma, and Next.js](https://dev.to/nadim_ch0wdhury/building-a-full-stack-personal-finance-tracker-with-nestjs-prisma-and-nextjs-mod)
+- [Getting Started with React Native &lpar;EXPO&rpar;: A Beginner&#39;s Guide](https://dev.to/vrinch/getting-started-with-react-native-expo-a-beginners-guide-4ae8)
+- [Understanding Python Lambda Functions: A Comprehensive Guide](https://dev.to/imyusufakhtar/understanding-python-lambda-functions-a-comprehensive-guide-4b6j)
+- [Streamline Your Car Rentals with Saksh Car Reservation System](https://dev.to/susheel_kumar/streamline-your-car-rentals-with-saksh-car-reservation-system-33gp)
+- [3 Shocking Ways to Run Stringified Code in Java 8+](https://dev.to/emilyjohnsonready/3-shocking-ways-to-run-stringified-code-in-java-8-37lo)
 <!-- BLOG-POST-LIST:END -->
 
