@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Your Workflow with These SASS Mixins and Functions](https://dev.to/serhatbek/maximize-your-workflow-with-these-sass-mixins-and-functions-4hg4)
-- [Is Open Source AI Bull?](https://dev.to/voxel51/is-open-source-ai-bull-4dom)
-- [Building a Scalable Pet Adoption Platform with Next.js, NestJS, PostgreSQL, and Tailwind CSS](https://dev.to/nadim_ch0wdhury/building-a-scalable-pet-adoption-platform-with-nextjs-nestjs-postgresql-and-tailwind-css-a51)
-- [Roniere da Silva Marques: Programador Full-Stack e Hacker Apaixonado por Soluções Inovadoras](https://dev.to/ronieremarques/roniere-da-silva-marques-programador-full-stack-e-hacker-apaixonado-por-solucoes-inovadoras-4h76)
+- [Database sharding](https://dev.to/hulk-pham/database-sharding-1382)
+- [Why Going Back in Git Doesn&#39;t Have to Be Scary](https://dev.to/missbellum/why-going-back-in-git-doesnt-have-to-be-scary-145n)
+- [We are donating $2k worth of advertising to the Open Source pledge](https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75)
+- [Proxy Types: A Complete Guide for Beginners and Experts](https://dev.to/marsproxies/proxy-types-a-complete-guide-for-beginners-and-experts-4fa7)
 <!-- BLOG-POST-LIST:END -->
 
