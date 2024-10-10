@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with React Native &lpar;EXPO&rpar;: A Beginner&#39;s Guide](https://dev.to/vrinch/getting-started-with-react-native-expo-a-beginners-guide-4ae8)
-- [Understanding Python Lambda Functions: A Comprehensive Guide](https://dev.to/imyusufakhtar/understanding-python-lambda-functions-a-comprehensive-guide-4b6j)
-- [Streamline Your Car Rentals with Saksh Car Reservation System](https://dev.to/susheel_kumar/streamline-your-car-rentals-with-saksh-car-reservation-system-33gp)
-- [3 Shocking Ways to Run Stringified Code in Java 8+](https://dev.to/emilyjohnsonready/3-shocking-ways-to-run-stringified-code-in-java-8-37lo)
+- [Using Supabase SMS-Hook to Send Custom Authentication Messages in India](https://dev.to/acetrondi/using-supabase-sms-hook-to-send-custom-authentication-messages-in-india-4nj7)
+- [How to Send Transaction of Your Generated API Endpoints on Kalp Studio](https://dev.to/kalpstudio/how-to-send-transaction-of-your-generated-api-endpoints-on-kalp-studio-2hk4)
+- [Top 7 Free API Documentation Tools in 2024: How to Choose the Best For Your Project](https://dev.to/walse/top-7-free-api-documentation-tools-in-2024-how-to-choose-the-best-for-your-project-443k)
+- [Is System Design Interview Book by Alex Xu Worth Reading? Review](https://dev.to/somadevtoo/is-system-design-interview-book-by-alex-xu-worth-reading-review-11gm)
 <!-- BLOG-POST-LIST:END -->
 
