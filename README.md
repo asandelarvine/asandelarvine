@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 AI Tools for Coding Every Developer Should Use](https://dev.to/foxinfotech/top-10-ai-tools-for-coding-every-developer-should-use-4il9)
-- [Fixing “Connection Refused” Error Between pgAdmin and Postgres in Docker](https://dev.to/deni_sugiarto_1a01ad7c3fb/fixing-connection-refused-error-between-pgadmin-and-postgres-in-docker-14ge)
-- [Creating a backup table in ORACLE SQL](https://dev.to/mrcaption49/creating-a-backup-table-in-oracle-sql-1p31)
-- [Adding motion to 3D models with Framer Motion and Three.js](https://dev.to/_3b92a59b19aece3845cf/adding-motion-to-3d-models-with-framer-motion-and-threejs-2phh)
+- [CSS Flexbox: Creating a Hero Section](https://dev.to/tailwine/css-flexbox-creating-a-hero-section-2koj)
+- [Introducing Note Forge: Your Hub for University Resources](https://dev.to/namankatewa/introducing-note-forge-your-hub-for-university-resources-2mjm)
+- [Optimize Your Software Testing Workflow With AI](https://dev.to/misterankit/optimize-your-software-testing-workflow-with-ai-41gd)
+- [Browser incompatibility. #Very_Important](https://dev.to/bobby_xavier_2b92e0584c53/browser-incompatibility-veryimportant-4ad4)
 <!-- BLOG-POST-LIST:END -->
 
