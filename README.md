@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why MySQL is the Superior Choice for Database Management Over MS Access](https://dev.to/adityabhuyan/why-mysql-is-the-superior-choice-for-database-management-over-ms-access-5g10)
-- [Negative cycle with Dijskta&lpar;Possible but not optimal&rpar;](https://dev.to/priya2422/negative-cycle-with-dijsktapossible-but-not-optimal-5605)
-- [Quickly and easily implement a high-performance e-commerce system by sponge+dtm](https://dev.to/zhufuyi/quickly-and-easily-implement-a-high-performance-e-commerce-system-by-spongedtm-3ol6)
-- [How to Integrate Dev.to API in Next.js to Display Your Blog](https://dev.to/ember_c4d667e6e148d1ad0d2/how-to-integrate-devto-api-in-nextjs-to-display-your-blog-34bo)
+- [Prometheus vs CloudWatch for Cloud Native Applications &lpar;Updated in 2024&rpar;](https://dev.to/infracloud/prometheus-vs-cloudwatch-for-cloud-native-applications-updated-in-2024-4na3)
+- [Live Building a Mobile Auto Repair AI Scheduler with No Code](https://dev.to/momen_hq/live-building-a-mobile-auto-repair-ai-scheduler-with-no-code-5a03)
+- [Artificial Intelligence Revolutionizing Custom Software Development](https://dev.to/sachinrawa73828/artificial-intelligence-revolutionizing-custom-software-development-1b86)
+- [Environment Variables: Naming Conventions and Runtime Access in C# .NET](https://dev.to/phougatv/environment-variables-naming-conventions-and-runtime-access-in-c-net-5adc)
 <!-- BLOG-POST-LIST:END -->
 
