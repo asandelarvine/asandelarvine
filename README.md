@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Supabase SMS-Hook to Send Custom Authentication Messages in India](https://dev.to/acetrondi/using-supabase-sms-hook-to-send-custom-authentication-messages-in-india-4nj7)
-- [How to Send Transaction of Your Generated API Endpoints on Kalp Studio](https://dev.to/kalpstudio/how-to-send-transaction-of-your-generated-api-endpoints-on-kalp-studio-2hk4)
-- [Top 7 Free API Documentation Tools in 2024: How to Choose the Best For Your Project](https://dev.to/walse/top-7-free-api-documentation-tools-in-2024-how-to-choose-the-best-for-your-project-443k)
-- [Is System Design Interview Book by Alex Xu Worth Reading? Review](https://dev.to/somadevtoo/is-system-design-interview-book-by-alex-xu-worth-reading-review-11gm)
+- [Unpopular opinion about &quot;Moving back to on-prem&quot;](https://dev.to/aws-builders/unpopular-opinion-about-moving-back-to-on-prem-e3f)
+- [Looking to Collaborate with Fellow Coders and Gamers! 🚀](https://dev.to/aeon_roamer/looking-to-collaborate-with-fellow-coders-and-gamers-305k)
+- [Hacktoberfest from a maintainer&#39;s point of view](https://dev.to/cereal84/hacktoberfest-from-a-maintainers-point-of-view-285a)
+- [5 Real-World Examples to Boost Your Spring Development with JDK 14 Records](https://dev.to/jackwilltech/5-real-world-examples-to-boost-your-spring-development-with-jdk-14-records-21g9)
 <!-- BLOG-POST-LIST:END -->
 
