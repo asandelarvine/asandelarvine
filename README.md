@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smooth Transitions with Turbo Streams](https://dev.to/railsdesigner/smooth-transitions-with-turbo-streams-3olo)
-- [Free Threaded Mode in Python3.13 &lpar;GIL disabled&rpar;](https://dev.to/behitek/free-threaded-mode-in-python313-gil-disabled-cfc)
-- [Web2-like Onboarding on Limitless Prediction Market with Etherspot](https://dev.to/alexandradev/web2-like-onboarding-on-limitless-prediction-market-with-etherspot-2hha)
-- [Transforming Education with AI: The Role of Image Recognition APIs in e-Learning](https://dev.to/api4ai/transforming-education-with-ai-the-role-of-image-recognition-apis-in-e-learning-34fn)
+- [Maximize Your Workflow with These SASS Mixins and Functions](https://dev.to/serhatbek/maximize-your-workflow-with-these-sass-mixins-and-functions-4hg4)
+- [Is Open Source AI Bull?](https://dev.to/voxel51/is-open-source-ai-bull-4dom)
+- [Building a Scalable Pet Adoption Platform with Next.js, NestJS, PostgreSQL, and Tailwind CSS](https://dev.to/nadim_ch0wdhury/building-a-scalable-pet-adoption-platform-with-nextjs-nestjs-postgresql-and-tailwind-css-a51)
+- [Roniere da Silva Marques: Programador Full-Stack e Hacker Apaixonado por Soluções Inovadoras](https://dev.to/ronieremarques/roniere-da-silva-marques-programador-full-stack-e-hacker-apaixonado-por-solucoes-inovadoras-4h76)
 <!-- BLOG-POST-LIST:END -->
 
