@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Prabhu Kiran Konda, Creator of Snail AI!](https://dev.to/crabnebula/interview-with-prabhu-kiran-konda-creator-of-snail-ai-1nl0)
-- [Augmenting the client with HTMX](https://dev.to/nfrankel/augmenting-the-client-with-htmx-2lgk)
-- [CrediSync - Advance Credit Management System](https://dev.to/mayankchawdhari/credisync-advance-credit-management-system-1dna)
-- [Python Tuples: A Comprehensive Guide with Examples](https://dev.to/imyusufakhtar/python-tuples-a-comprehensive-guide-with-examples-1i5h)
+- [From Zero to Hero: Building a Scalable React Admin Dashboard Layout](https://dev.to/chintanonweb/from-zero-to-hero-building-a-scalable-react-admin-dashboard-layout-53p9)
+- [Building a Personal Finance Tracker Mobile App with React Native](https://dev.to/nadim_ch0wdhury/building-a-personal-finance-tracker-mobile-app-with-react-native-4jjn)
+- [Flask vs Django: The Epic Showdown Between Flexibility and Control!](https://dev.to/mayowakalejaiye/flask-vs-django-the-epic-showdown-between-flexibility-and-control-1ihp)
+- [Building a Full-Stack Personal Finance Tracker with NestJS, Prisma, and Next.js](https://dev.to/nadim_ch0wdhury/building-a-full-stack-personal-finance-tracker-with-nestjs-prisma-and-nextjs-mod)
 <!-- BLOG-POST-LIST:END -->
 
