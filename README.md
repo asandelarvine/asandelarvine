@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript optional Chaning](https://dev.to/tanvir_ahmed_799bb04e2af6/javascript-optional-chaning-3m0p)
-- [LabEx Trending: Responsive Flexible Card Layout and More](https://dev.to/labex/labex-trending-responsive-flexible-card-layout-and-more-4723)
-- [API Gateway and Lambda Throttling with Terraform: A Comprehensive Guide](https://dev.to/aws-builders/api-gateway-and-lambda-throttling-with-terraform-a-comprehensive-guide-6d0)
-- [Device Memory API](https://dev.to/raywp/device-memory-api-2o77)
+- [10 Essential Websites Every Developer Should Know 💻](https://dev.to/izabellalbuquerque/10-essential-websites-every-developer-should-know-27bl)
+- [Dive into Next.js Parallel &amp; Intercepting Routing: Enhancing UX](https://dev.to/nik-bogachenkov/dive-into-nextjs-parallel-intercepting-routing-enhancing-ux-4d97)
+- [How AI is Revolutionizing SaaS Development and Customer Acquisition: A Game-Changer for 2024 and Beyond!](https://dev.to/kogo/how-ai-is-revolutionizing-saas-development-and-customer-acquisition-a-game-changer-for-2024-and-beyond-1f93)
+- [Generators in Python](https://dev.to/hakeem/generators-in-python-2cgi)
 <!-- BLOG-POST-LIST:END -->
 
