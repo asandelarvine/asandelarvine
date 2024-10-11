@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Websites Every Developer Should Know 💻](https://dev.to/izabellalbuquerque/10-essential-websites-every-developer-should-know-27bl)
-- [Dive into Next.js Parallel &amp; Intercepting Routing: Enhancing UX](https://dev.to/nik-bogachenkov/dive-into-nextjs-parallel-intercepting-routing-enhancing-ux-4d97)
-- [How AI is Revolutionizing SaaS Development and Customer Acquisition: A Game-Changer for 2024 and Beyond!](https://dev.to/kogo/how-ai-is-revolutionizing-saas-development-and-customer-acquisition-a-game-changer-for-2024-and-beyond-1f93)
-- [Generators in Python](https://dev.to/hakeem/generators-in-python-2cgi)
+- [Building an MLOps pipeline with Dagger.io and KitOps](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m)
+- [Integrating the API endpoints generated via Kalp API Gateway with your Frontend Application](https://dev.to/kalpstudio/integrating-the-api-endpoints-generated-via-kalp-api-gateway-with-your-frontend-application-2me8)
+- [How to Implement And Validate Your Site Speed Optimization Efforts](https://dev.to/pmbanugo/how-to-implement-and-validate-your-site-speed-optimization-efforts-90j)
+- [Different ways to implement Shallow Copy in C#](https://dev.to/ahmedelmehalawi/different-ways-to-implement-shallow-copy-in-c-1n02)
 <!-- BLOG-POST-LIST:END -->
 
