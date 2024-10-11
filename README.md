@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Loops](https://dev.to/asilbek_ibragimov_a0c27cc/loops-2i1h)
-- [6. Loops&lpar;for, while, do while&rpar;](https://dev.to/sunnat_qayumov/6-loopsfor-while-do-while-2cgd)
-- [Operators&lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sabrina_abcdna123/operatorsif-else-if-else-ternary-operator-switch-5719)
-- [Hacktoberfest 2024: Code Templates and Win Rewards 🎉](https://dev.to/waveplay/hacktoberfest-2024-code-templates-and-win-rewards-166n)
+- [What Is Big O Notation? A Beginner’s Guide to Algorithm Efficiency](https://dev.to/jaimaldullat/what-is-big-o-notation-a-beginners-guide-to-algorithm-efficiency-41fh)
+- [Devlog: Hacktoberfest 2024 &lpar;2/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-24-51n6)
+- [Devlog: Hacktoberfest 2024 &lpar;2/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-24-32ja)
+- [Go Design Patterns #3: Factory](https://dev.to/eduardoarndt/go-design-patterns-3-factory-3al4)
 <!-- BLOG-POST-LIST:END -->
 
