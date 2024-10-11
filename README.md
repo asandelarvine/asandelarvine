@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Wearable Tech: What’s Next for 2024? ⌚🧬](https://dev.to/mohdsajjadzakirr/the-evolution-of-wearable-tech-whats-next-for-2024-3pbo)
-- [DevOps Tools to Streamline Your CI/CD Pipeline 🔄🛠️](https://dev.to/mohdsajjadzakirr/devops-tools-to-streamline-your-cicd-pipeline-2bf5)
-- [Game-Changing AI Tools to Boost Your Development Workflow 🧠💡](https://dev.to/mohdsajjadzakirr/10-game-changing-ai-tools-to-boost-your-development-workflow-1ib4)
-- [JAX vs PyTorch: Comparing Two Powerhouses in ML Frameworks](https://dev.to/get_pieces/jax-vs-pytorch-comparing-two-powerhouses-in-ml-frameworks-70g)
+- [request for a mentor](https://dev.to/mauriciousfrimpong/request-for-a-mentor-cfa)
+- [Day 1040 : Tomorrow](https://dev.to/dwane/day-1040-tomorrow-1kp2)
+- [My Entrepreneurial Journey from Chocolate to Building Meaningful Socialization through AI](https://dev.to/nadiadevv/my-entrepreneurial-journey-from-chocolate-to-building-meaningful-socialization-through-ai-4p2f)
+- [Maximizing Performance: Best Practices for Database Scaling](https://dev.to/kaustubhyerkade/maximizing-performance-best-practices-for-database-scaling-2fkn)
 <!-- BLOG-POST-LIST:END -->
 
