@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions Tutorial](https://dev.to/husamahmud/github-actions-tutorial-13ad)
-- [Separation of Concerns: Rethinking the Blend of HTML, JavaScript, and CSS](https://dev.to/blakeanderson/separation-of-concerns-rethinking-the-blend-of-html-javascript-and-css-1bkp)
-- [The Kafka Conundrum: Choosing Between Consumer Groups and Partitions for Efficient Message Consumption](https://dev.to/codewithved/the-kafka-conundrum-choosing-between-consumer-groups-and-partitions-for-efficient-message-consumption-b8n)
-- [Breaking Away from JSON: A New Approach to Data Transport in Web Development](https://dev.to/oftensometimes/breaking-away-from-json-a-new-approach-to-data-transport-in-web-development-1mbp)
+- [Generate Dynamic Sitemap in Next js](https://dev.to/aswanth_raveendranek_a2a/generate-dynamic-sitemap-in-next-js-27m9)
+- [How to Use Goroutines for Concurrent Processing in Go](https://dev.to/neelp03/how-to-use-goroutines-for-concurrent-processing-in-go-34ph)
+- [Develop on a branch of your remote cluster with Tilt and Kardinal](https://dev.to/tc87/develop-on-a-branch-of-your-remote-cluster-with-tilt-and-kardinal-59mh)
+- [The Power of Open-Source Contributors](https://dev.to/r0y15/the-power-of-open-source-contributors-3lp3)
 <!-- BLOG-POST-LIST:END -->
 
