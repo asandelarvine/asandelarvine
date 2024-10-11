@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First Web Application: A Step-by-Step Guide](https://dev.to/asimachowdhury/building-your-first-web-application-a-step-by-step-guide-3po8)
-- [The Art of Code Reviews: How I Learned to Grow Beyond My Ego](https://dev.to/john_6e285121bf6cd2a57f77/the-art-of-code-reviews-how-i-learned-to-grow-beyond-my-ego-3d12)
-- [buildDesignSystem fn in Tailwind CSS source code.](https://dev.to/thinkthroo/builddesignsystem-fn-in-tailwind-css-source-code-42gb)
-- [Start a homelab &lpar;for beginners&rpar;](https://dev.to/decentropy/start-a-homelab-for-beginners-4pno)
+- [Learn how to build AI assisted blog from scratch](https://dev.to/ivictbor/learn-how-to-build-ai-assisted-blog-from-scratch-4fl1)
+- [Navigating Enterprise-Level Software Development with AI](https://dev.to/get_pieces/navigating-enterprise-level-software-development-with-ai-old)
+- [The Enigma of “Ghost” Jobs in the IT Market: A Frustrating Reality for Technology Professionals](https://dev.to/kayon_ariel/the-enigma-of-ghost-jobs-in-the-it-market-a-frustrating-reality-for-technology-professionals-53e0)
+- [Memorizing on my first days learning how to code..](https://dev.to/roy_weru/memorizing-on-my-first-days-learning-how-to-code-1he1)
 <!-- BLOG-POST-LIST:END -->
 
