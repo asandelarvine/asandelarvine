@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lit - Lighting Fast Web Components](https://dev.to/jbutz/lit-lighting-fast-web-components-345l)
-- [Capítulo 1 Clean Code: Uma análise do livro por capítulo](https://dev.to/print_ana/clean-code-uma-analise-do-livro-por-capitulo-14ce)
-- [Detecting Rogue Projects and Tokens with InfluxAI: Securing the Web3 Ecosystem](https://dev.to/davidadeola/detecting-rogue-projects-and-tokens-with-influxai-securing-the-web3-ecosystem-3mkh)
-- [Demystifying JavaScript: Understanding Execution Contexts, Hoisting, and Type Conversion](https://dev.to/mubashir/demystifying-javascript-understanding-execution-contexts-hoisting-and-type-conversion-11j9)
+- [Spaghetti Code: What It Is, Why It Happens, and How to Avoid It](https://dev.to/teclearn/spaghetti-code-what-it-is-why-it-happens-and-how-to-avoid-it-5flf)
+- [Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/data-types-4n2f)
+- [Class va Object](https://dev.to/asilbek_ibragimov_a0c27cc/class-va-object-flk)
+- [Improving Code Quality with Linting](https://dev.to/jamesives/improving-code-quality-with-linting-4no1)
 <!-- BLOG-POST-LIST:END -->
 
