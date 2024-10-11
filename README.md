@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to choose a hosting control panel: a review of 5 popular options](https://dev.to/ispmanager/how-to-choose-a-hosting-control-panel-a-review-of-5-popular-options-49of)
-- [Migrating from Xamarin to .NET MAUI: A Journey to Modernization](https://dev.to/tmcd054/migrating-from-xamarin-to-net-maui-a-journey-to-modernization-109n)
-- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 2&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-2-219f)
-- [What is Beta Testing? A Comprehensive Guide](https://dev.to/keploy/what-is-beta-testing-a-comprehensive-guide-48f)
+- [Fixing the overflow hidden for dropdowns/tooltips etc](https://dev.to/sp90/fixing-the-overflow-hidden-for-dropdownstooltips-etc-499)
+- [Choosing the Right Proxy Provider in 2024](https://dev.to/lewis_kerr_2d0d4c5b886b02/choosing-the-right-proxy-provider-in-2024-3l2l)
+- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 3&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-3-12bj)
+- [The Role of Blockchain in Fintech: Top Development Companies Making a Difference](https://dev.to/kzier/the-role-of-blockchain-in-fintech-top-development-companies-making-a-difference-33ja)
 <!-- BLOG-POST-LIST:END -->
 
