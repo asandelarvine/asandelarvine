@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a React Text Comparison Tool - From POC to NPM Package](https://dev.to/creowistech/building-a-react-text-comparison-tool-from-poc-to-npm-package-24p8)
-- [Why Roof Inspections Are a Must After a Hurricane Hits Florida](https://dev.to/josef_doctorovitz_9f17b26/why-roof-inspections-are-a-must-after-a-hurricane-hits-florida-114p)
-- [Analyze Taint Analysis Faster with Improved Contextual Dataflow in Snyk Code](https://dev.to/snyk/analyze-taint-analysis-faster-with-improved-contextual-dataflow-in-snyk-code-53eb)
-- [Filament Breezy: set storage disk for avatar](https://dev.to/syahzul/filament-breezy-set-storage-disk-for-avatar-3ee7)
+- [How to Become an Ethical Hacker: A Step-by-Step Guide to a Successful Cybersecurity Career](https://dev.to/adityabhuyan/how-to-become-an-ethical-hacker-a-step-by-step-guide-to-a-successful-cybersecurity-career-4kd4)
+- [Deno 2 is Finally Here: Key Highlights](https://dev.to/grenishrai/deno-2-is-finally-here-key-highlights-35ml)
+- [5 JavaScript Patterns Every Developer Should Know in 2024](https://dev.to/shafayeat/5-javascript-patterns-every-developer-should-know-in-2024-1n11)
+- [In-Depth Analysis of DolphinScheduler Task Scheduling, Splitting, and Execution Workflow](https://dev.to/chen_debra_3060b21d12b1b0/in-depth-analysis-of-dolphinscheduler-task-scheduling-splitting-and-execution-workflow-3gdh)
 <!-- BLOG-POST-LIST:END -->
 
