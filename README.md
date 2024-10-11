@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating debug text in WGSL](https://dev.to/ndesmic/creating-debug-text-in-wgsl-10hd)
-- [Book: Interactive Data Visualization for the Web by Scott Murray](https://dev.to/airtucha/book-interactive-data-visualization-for-the-web-by-scott-murray-1gge)
-- [HubSpot API](https://dev.to/codepeddle/hubspot-api-4kd0)
-- [Unified Namespace &lpar;UNS&rpar;: A Comprehensive Exploration](https://dev.to/juslee/unified-namespace-uns-a-comprehensive-exploration-32nk)
+- [Building a Spring Boot Application with Maven and Deploying on Kind K8s Cluster Using Helm](https://dev.to/sujimatts/building-a-spring-boot-application-with-maven-and-deploying-on-kind-k8s-cluster-using-helm-40eh)
+- [Optimizing React Performance with Concurrent Mode and Key APIs](https://dev.to/usman_awan_c30bc1fdb70636/optimizing-react-performance-with-concurrent-mode-and-key-apis-29bp)
+- [Automated Functional Testing: Enhancing Software Quality and Efficiency](https://dev.to/buzzgk/automated-functional-testing-enhancing-software-quality-and-efficiency-3pl8)
+- [The Role of AI in Drug Testing: Revolutionizing Accuracy and Efficiency](https://dev.to/josef_doctorovitz_c7c1f82/the-role-of-ai-in-drug-testing-revolutionizing-accuracy-and-efficiency-18ea)
 <!-- BLOG-POST-LIST:END -->
 
