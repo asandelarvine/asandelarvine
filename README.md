@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Spring Boot Application with Maven and Deploying on Kind K8s Cluster Using Helm](https://dev.to/sujimatts/building-a-spring-boot-application-with-maven-and-deploying-on-kind-k8s-cluster-using-helm-40eh)
-- [Optimizing React Performance with Concurrent Mode and Key APIs](https://dev.to/usman_awan_c30bc1fdb70636/optimizing-react-performance-with-concurrent-mode-and-key-apis-29bp)
-- [Automated Functional Testing: Enhancing Software Quality and Efficiency](https://dev.to/buzzgk/automated-functional-testing-enhancing-software-quality-and-efficiency-3pl8)
-- [The Role of AI in Drug Testing: Revolutionizing Accuracy and Efficiency](https://dev.to/josef_doctorovitz_c7c1f82/the-role-of-ai-in-drug-testing-revolutionizing-accuracy-and-efficiency-18ea)
+- [Say hello to the next generation of prompt engineers: The future of programming](https://dev.to/karsten_biedermann/say-hello-to-the-next-generation-of-prompt-engineers-the-future-of-programming-ih6)
+- [Concurrency vs Parallelism](https://dev.to/scrapfly_dev/concurrency-vs-parallelism-5hfp)
+- [LLMs in Action: Examples and Hobby Projects](https://dev.to/aws-builders/llms-in-action-examples-and-hobby-projects-6cg)
+- [Understanding Reusable Components and the DRY Principle](https://dev.to/jps27cse/understanding-reusable-components-and-the-dry-principle-4ijm)
 <!-- BLOG-POST-LIST:END -->
 
