@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software for MacOS Developers that cannot Miss, Once More](https://dev.to/angelaswift/software-for-macos-developers-that-cannot-miss-once-more-2jfa)
-- [#71 — Take Values of Adjacent Rows in The Same Group &lpar;Search &amp; Filter within Adjacent Intervals&rpar;](https://dev.to/judith677/71-take-values-of-adjacent-rows-in-the-same-group-search-filter-within-adjacent-intervals-3ia1)
-- [Shell Scripting Mastery: 5 Hands-On Linux Lab Tutorials](https://dev.to/labex/shell-scripting-mastery-5-hands-on-linux-lab-tutorials-5f4p)
-- [Explaining Pods in Kubernetes](https://dev.to/pkutaj/explaining-pods-in-kubernetes-2mh4)
+- [Creating debug text in WGSL](https://dev.to/ndesmic/creating-debug-text-in-wgsl-10hd)
+- [Book: Interactive Data Visualization for the Web by Scott Murray](https://dev.to/airtucha/book-interactive-data-visualization-for-the-web-by-scott-murray-1gge)
+- [HubSpot API](https://dev.to/codepeddle/hubspot-api-4kd0)
+- [Unified Namespace &lpar;UNS&rpar;: A Comprehensive Exploration](https://dev.to/juslee/unified-namespace-uns-a-comprehensive-exploration-32nk)
 <!-- BLOG-POST-LIST:END -->
 
