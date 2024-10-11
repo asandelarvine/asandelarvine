@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to build AI assisted blog from scratch](https://dev.to/ivictbor/learn-how-to-build-ai-assisted-blog-from-scratch-4fl1)
-- [Navigating Enterprise-Level Software Development with AI](https://dev.to/get_pieces/navigating-enterprise-level-software-development-with-ai-old)
-- [The Enigma of “Ghost” Jobs in the IT Market: A Frustrating Reality for Technology Professionals](https://dev.to/kayon_ariel/the-enigma-of-ghost-jobs-in-the-it-market-a-frustrating-reality-for-technology-professionals-53e0)
-- [Memorizing on my first days learning how to code..](https://dev.to/roy_weru/memorizing-on-my-first-days-learning-how-to-code-1he1)
+- [The Evolution of Wearable Tech: What’s Next for 2024? ⌚🧬](https://dev.to/mohdsajjadzakirr/the-evolution-of-wearable-tech-whats-next-for-2024-3pbo)
+- [DevOps Tools to Streamline Your CI/CD Pipeline 🔄🛠️](https://dev.to/mohdsajjadzakirr/devops-tools-to-streamline-your-cicd-pipeline-2bf5)
+- [Game-Changing AI Tools to Boost Your Development Workflow 🧠💡](https://dev.to/mohdsajjadzakirr/10-game-changing-ai-tools-to-boost-your-development-workflow-1ib4)
+- [JAX vs PyTorch: Comparing Two Powerhouses in ML Frameworks](https://dev.to/get_pieces/jax-vs-pytorch-comparing-two-powerhouses-in-ml-frameworks-70g)
 <!-- BLOG-POST-LIST:END -->
 
