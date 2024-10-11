@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Big O Notation? A Beginner’s Guide to Algorithm Efficiency](https://dev.to/jaimaldullat/what-is-big-o-notation-a-beginners-guide-to-algorithm-efficiency-41fh)
-- [Devlog: Hacktoberfest 2024 &lpar;2/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-24-51n6)
-- [Devlog: Hacktoberfest 2024 &lpar;2/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-24-32ja)
-- [Go Design Patterns #3: Factory](https://dev.to/eduardoarndt/go-design-patterns-3-factory-3al4)
+- [GitHub Actions Tutorial](https://dev.to/husamahmud/github-actions-tutorial-13ad)
+- [Separation of Concerns: Rethinking the Blend of HTML, JavaScript, and CSS](https://dev.to/blakeanderson/separation-of-concerns-rethinking-the-blend-of-html-javascript-and-css-1bkp)
+- [The Kafka Conundrum: Choosing Between Consumer Groups and Partitions for Efficient Message Consumption](https://dev.to/codewithved/the-kafka-conundrum-choosing-between-consumer-groups-and-partitions-for-efficient-message-consumption-b8n)
+- [Breaking Away from JSON: A New Approach to Data Transport in Web Development](https://dev.to/oftensometimes/breaking-away-from-json-a-new-approach-to-data-transport-in-web-development-1mbp)
 <!-- BLOG-POST-LIST:END -->
 
