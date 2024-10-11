@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an Ethical Hacker: A Step-by-Step Guide to a Successful Cybersecurity Career](https://dev.to/adityabhuyan/how-to-become-an-ethical-hacker-a-step-by-step-guide-to-a-successful-cybersecurity-career-4kd4)
-- [Deno 2 is Finally Here: Key Highlights](https://dev.to/grenishrai/deno-2-is-finally-here-key-highlights-35ml)
-- [5 JavaScript Patterns Every Developer Should Know in 2024](https://dev.to/shafayeat/5-javascript-patterns-every-developer-should-know-in-2024-1n11)
-- [In-Depth Analysis of DolphinScheduler Task Scheduling, Splitting, and Execution Workflow](https://dev.to/chen_debra_3060b21d12b1b0/in-depth-analysis-of-dolphinscheduler-task-scheduling-splitting-and-execution-workflow-3gdh)
+- [Software for MacOS Developers that cannot Miss, Once More](https://dev.to/angelaswift/software-for-macos-developers-that-cannot-miss-once-more-2jfa)
+- [#71 — Take Values of Adjacent Rows in The Same Group &lpar;Search &amp; Filter within Adjacent Intervals&rpar;](https://dev.to/judith677/71-take-values-of-adjacent-rows-in-the-same-group-search-filter-within-adjacent-intervals-3ia1)
+- [Shell Scripting Mastery: 5 Hands-On Linux Lab Tutorials](https://dev.to/labex/shell-scripting-mastery-5-hands-on-linux-lab-tutorials-5f4p)
+- [Explaining Pods in Kubernetes](https://dev.to/pkutaj/explaining-pods-in-kubernetes-2mh4)
 <!-- BLOG-POST-LIST:END -->
 
