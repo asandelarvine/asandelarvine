@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the overflow hidden for dropdowns/tooltips etc](https://dev.to/sp90/fixing-the-overflow-hidden-for-dropdownstooltips-etc-499)
-- [Choosing the Right Proxy Provider in 2024](https://dev.to/lewis_kerr_2d0d4c5b886b02/choosing-the-right-proxy-provider-in-2024-3l2l)
-- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 3&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-3-12bj)
-- [The Role of Blockchain in Fintech: Top Development Companies Making a Difference](https://dev.to/kzier/the-role-of-blockchain-in-fintech-top-development-companies-making-a-difference-33ja)
+- [Javascript optional Chaning](https://dev.to/tanvir_ahmed_799bb04e2af6/javascript-optional-chaning-3m0p)
+- [LabEx Trending: Responsive Flexible Card Layout and More](https://dev.to/labex/labex-trending-responsive-flexible-card-layout-and-more-4723)
+- [API Gateway and Lambda Throttling with Terraform: A Comprehensive Guide](https://dev.to/aws-builders/api-gateway-and-lambda-throttling-with-terraform-a-comprehensive-guide-6d0)
+- [Device Memory API](https://dev.to/raywp/device-memory-api-2o77)
 <!-- BLOG-POST-LIST:END -->
 
