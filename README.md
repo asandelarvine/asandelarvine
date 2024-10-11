@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spaghetti Code: What It Is, Why It Happens, and How to Avoid It](https://dev.to/teclearn/spaghetti-code-what-it-is-why-it-happens-and-how-to-avoid-it-5flf)
-- [Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/data-types-4n2f)
-- [Class va Object](https://dev.to/asilbek_ibragimov_a0c27cc/class-va-object-flk)
-- [Improving Code Quality with Linting](https://dev.to/jamesives/improving-code-quality-with-linting-4no1)
+- [Loops](https://dev.to/asilbek_ibragimov_a0c27cc/loops-2i1h)
+- [6. Loops&lpar;for, while, do while&rpar;](https://dev.to/sunnat_qayumov/6-loopsfor-while-do-while-2cgd)
+- [Operators&lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sabrina_abcdna123/operatorsif-else-if-else-ternary-operator-switch-5719)
+- [Hacktoberfest 2024: Code Templates and Win Rewards 🎉](https://dev.to/waveplay/hacktoberfest-2024-code-templates-and-win-rewards-166n)
 <!-- BLOG-POST-LIST:END -->
 
