@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an MLOps pipeline with Dagger.io and KitOps](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m)
-- [Integrating the API endpoints generated via Kalp API Gateway with your Frontend Application](https://dev.to/kalpstudio/integrating-the-api-endpoints-generated-via-kalp-api-gateway-with-your-frontend-application-2me8)
-- [How to Implement And Validate Your Site Speed Optimization Efforts](https://dev.to/pmbanugo/how-to-implement-and-validate-your-site-speed-optimization-efforts-90j)
-- [Different ways to implement Shallow Copy in C#](https://dev.to/ahmedelmehalawi/different-ways-to-implement-shallow-copy-in-c-1n02)
+- [Lit - Lighting Fast Web Components](https://dev.to/jbutz/lit-lighting-fast-web-components-345l)
+- [Capítulo 1 Clean Code: Uma análise do livro por capítulo](https://dev.to/print_ana/clean-code-uma-analise-do-livro-por-capitulo-14ce)
+- [Detecting Rogue Projects and Tokens with InfluxAI: Securing the Web3 Ecosystem](https://dev.to/davidadeola/detecting-rogue-projects-and-tokens-with-influxai-securing-the-web3-ecosystem-3mkh)
+- [Demystifying JavaScript: Understanding Execution Contexts, Hoisting, and Type Conversion](https://dev.to/mubashir/demystifying-javascript-understanding-execution-contexts-hoisting-and-type-conversion-11j9)
 <!-- BLOG-POST-LIST:END -->
 
