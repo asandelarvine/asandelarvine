@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate Dynamic Sitemap in Next js](https://dev.to/aswanth_raveendranek_a2a/generate-dynamic-sitemap-in-next-js-27m9)
-- [How to Use Goroutines for Concurrent Processing in Go](https://dev.to/neelp03/how-to-use-goroutines-for-concurrent-processing-in-go-34ph)
-- [Develop on a branch of your remote cluster with Tilt and Kardinal](https://dev.to/tc87/develop-on-a-branch-of-your-remote-cluster-with-tilt-and-kardinal-59mh)
-- [The Power of Open-Source Contributors](https://dev.to/r0y15/the-power-of-open-source-contributors-3lp3)
+- [Building Your First Web Application: A Step-by-Step Guide](https://dev.to/asimachowdhury/building-your-first-web-application-a-step-by-step-guide-3po8)
+- [The Art of Code Reviews: How I Learned to Grow Beyond My Ego](https://dev.to/john_6e285121bf6cd2a57f77/the-art-of-code-reviews-how-i-learned-to-grow-beyond-my-ego-3d12)
+- [buildDesignSystem fn in Tailwind CSS source code.](https://dev.to/thinkthroo/builddesignsystem-fn-in-tailwind-css-source-code-42gb)
+- [Start a homelab &lpar;for beginners&rpar;](https://dev.to/decentropy/start-a-homelab-for-beginners-4pno)
 <!-- BLOG-POST-LIST:END -->
 
