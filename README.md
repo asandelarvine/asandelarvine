@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DreamForge: AI Generated Stories](https://dev.to/cwdcwd/dreamforge-ai-generated-stories-376e)
-- [pinata-whiteBoard](https://dev.to/kundan1334/pinata-whiteboard-1h77)
-- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Developer](https://dev.to/dhanushnehru/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-developer-168m)
-- [Achieving Android 15 Edge to Edge compatibility for your React Native App.](https://dev.to/gautham495/achieving-android-15-edge-to-edge-compatibility-for-your-react-native-app-2ile)
+- [Day 33. Generic response](https://dev.to/kiolk/day-33-generic-response-2d2h)
+- [🔗 useCallback: Keeping Your Functions in Check, Literally 🧑‍💻](https://dev.to/_akashkmt_/usecallback-keeping-your-functions-in-check-literally-51gj)
+- [Latest Updates: DePIN Framework](https://dev.to/evire/latest-updates-depin-framework-3ma3)
+- [Interactive stock market S&amp;P 500 line chart using Bokeh, Python, JS, Pyscript and a movable angle finder for Trend Line Analysis](https://dev.to/rickdelpo1/interactive-stock-market-sp-500-line-chart-using-bokeh-python-js-pyscript-and-a-movable-angle-finder-for-trend-line-analysis-1k6a)
 <!-- BLOG-POST-LIST:END -->
 
