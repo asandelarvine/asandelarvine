@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Information Security and Data Privacy: Protect Your Online Information](https://dev.to/izabellalbuquerque/information-security-and-data-privacy-protect-your-online-information-266p)
-- [API Versioning can Never Be Easier!](https://dev.to/apilover/api-versioning-can-never-be-easier-4j9p)
-- [Update JSON file using Terminal or bash script](https://dev.to/basskibo/update-json-file-via-terminal-or-bash-script-3clm)
-- [Difference Between DevOps and Full-Stack Engineer: Roles, Responsibilities, and Key Skills](https://dev.to/abhinowww/difference-between-devops-and-full-stack-engineer-roles-responsibilities-and-key-skills-1dcl)
+- [Avoid Costly Loops in AWS Step Functions](https://dev.to/aws-builders/avoid-costly-loops-in-aws-step-functions-3eon)
+- [Happy Dusshera Animation](https://dev.to/prince_beec5ccde00b7c6c73/happy-dusshera-animation-4h62)
+- [Why working at a Startup is the right choice ?](https://dev.to/sidjain0503/why-working-at-a-startup-is-the-right-choice--48b7)
+- [Why Do We Need a Server ISO? Can’t We Make a Server Using a Desktop ISO?](https://dev.to/ahnafashiqueadi/why-do-we-need-a-server-iso-cant-we-make-a-server-using-a-desktop-iso-337n)
 <!-- BLOG-POST-LIST:END -->
 
