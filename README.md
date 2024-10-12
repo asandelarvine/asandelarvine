@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using CSS Variables for Theme Customisation](https://dev.to/dualitedev/using-css-variables-for-theme-customisation-5aoj)
-- [Beginner Challenge](https://dev.to/monalicous/beginner-challenge-2ggg)
-- [Day 1 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-1-of-365-10-million-yen-japan-career-switch-challenge-3mkj)
-- [Terminal Commands.](https://dev.to/eldor_baxtiyorov/terminal-commands-4e18)
+- [Remote debugging Go App](https://dev.to/empire/remote-debugging-go-app-1nml)
+- [LabEx Trending: Deploying a Simple TensorFlow Model and More](https://dev.to/labex/labex-trending-deploying-a-simple-tensorflow-model-and-more-1l05)
+- [Subscribe Card by Bootstrap 5.3](https://dev.to/mahmud-r-farhan/subscribe-card-by-bootstrap-53-4fp0)
+- [Think Like a Problem Solver, Not the Best Programmer](https://dev.to/jenueldev/think-like-a-problem-solver-not-the-best-programmer-6po)
 <!-- BLOG-POST-LIST:END -->
 
