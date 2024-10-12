@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Pull Request: My Evolving Journey in Hacktoberfest 2024 as a Contributor](https://dev.to/goyalrohit/beyond-the-pull-request-my-evolving-journey-in-hacktoberfest-2024-as-a-contributor-2lkk)
-- [Two Sum](https://dev.to/alex_a7dd8/two-sum-325i)
-- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/toppilot10/the-beginners-guide-to-understanding-http-protocol-3lf7)
-- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/purple0929/the-beginners-guide-to-understanding-http-protocol-4kp8)
+- [Refactoring codeshift](https://dev.to/udayrana/refactoring-codeshift-1pfb)
+- [Olova A smooth, minimal JavaScript framework](https://dev.to/seraprogrammer/olovaa-smooth-minimal-javascript-framework-1831)
+- [Sealed Classes: Modern Class Grouping](https://dev.to/guldenizozdemir/sealed-classes-modern-class-grouping-3bac)
+- [How to create a sudo user](https://dev.to/syamsarosa/how-to-create-a-sudo-user-27m2)
 <!-- BLOG-POST-LIST:END -->
 
