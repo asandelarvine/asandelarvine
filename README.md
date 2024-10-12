@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database driven task &amp; membership](https://dev.to/loveliberty/database-driven-task-membership-1cco)
-- [Cracking Open Go&#39;s Crypto Toolbox, Go Crypto 2](https://dev.to/rezmoss/cracking-open-gos-crypto-toolbox-go-crypto-2-50cn)
-- [Elevating Dependency Injection in .NET with Scrutor and Autofac](https://dev.to/hootanht/elevating-dependency-injection-in-net-with-scrutor-and-autofac-4nm4)
-- [Unlocking the Power of Go&#39;s Crypto Package, Go Crypto 1](https://dev.to/rezmoss/unlocking-the-power-of-gos-crypto-package-go-crypto-1-4m0p)
+- [ServBay Version 1.4.6 Upgrade Announcement](https://dev.to/servbay/servbay-version-146-upgrade-announcement-j8h)
+- [Say No to Mouse: Vs code shortcuts for easing coding](https://dev.to/keshav___dev/say-no-to-mouse-vs-code-extensions-for-easing-coding-ckm)
+- [Angular Fundamentals: Understanding Angular Component Lifecycle](https://dev.to/moh_moh701/angular-fundamentals-understanding-angular-component-lifecycle-1d91)
+- [Optimizing Your Neural Networks](https://dev.to/samder/optimizing-your-neural-networks-133h)
 <!-- BLOG-POST-LIST:END -->
 
