@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contributing to Excalibur](https://dev.to/excaliburjs/contributing-to-excalibur-14n4)
-- [Ultimate Guide: How Can You Protect Your Home Computer Today?](https://dev.to/murtaza786/ultimate-guide-how-can-you-protect-your-home-computer-today-4bkh)
-- [🎉 Wow! Today my open source project reached 5K Star!](https://dev.to/nihaojob/wow-today-my-open-source-project-reached-5k-star-3o4l)
-- [Refactoring: My Journey Through Lab 5](https://dev.to/msaluja/refactoring-my-journey-through-lab-5-1noh)
+- [DebConf24, a conference trip](https://dev.to/lsahn/debconf24-a-conference-trip-1apb)
+- [My 2024 Hacktoberfest Maintainer Experience: 💔 Building and Growing ImagePro 🚀](https://dev.to/jacksonkasi/my-2024-hacktoberfest-maintainer-experience-building-and-growing-imagepro-1b20)
+- [A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes](https://dev.to/qiangyt/a-supplement-to-copilot-and-cursor-utilizes-ai-for-batch-processing-of-project-codes-5bm2)
+- [How to make your terminal looks Splendid](https://dev.to/jairo_junior_538950788e2d/how-to-make-your-terminal-looks-splendid-4pgf)
 <!-- BLOG-POST-LIST:END -->
 
