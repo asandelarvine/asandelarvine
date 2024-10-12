@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a global gitignore file as an extra precaution against committing secrets and unnecessary files](https://dev.to/jt_ziolo/how-to-create-a-global-gitignore-file-as-an-extra-precaution-against-committing-secrets-and-unnecessary-files-3hbn)
-- [Refactoring a C++ Project: A Journey of Improvement and Optimization](https://dev.to/fahadalikhanca/refactoring-a-c-project-a-journey-of-improvement-and-optimization-2mhg)
-- [Aggregate function &amp; Windows functions](https://dev.to/mrcaption49/aggregate-function-windows-functions-43ca)
-- [Fintech: Introduction](https://dev.to/ashrafamer/fintech-introduction-3n2i)
+- [My notes on the OpenGL ES hello world triangle](https://dev.to/theplebdev/my-notes-on-the-opengl-es-hello-world-triangle-2c60)
+- [Dia 13 - 1.3 Por trás do programa](https://dev.to/matheusgb/dia-13-13-por-tras-do-programa-31da)
+- [Refactoring and rebasing](https://dev.to/aldrin312/refactoring-and-rebasing-3occ)
+- [Promises in JavaScript, A Guide for 2024](https://dev.to/shafayeat/promises-in-javascript-a-guide-for-2024-3fih)
 <!-- BLOG-POST-LIST:END -->
 
