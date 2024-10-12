@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Systemd for the Swift app](https://dev.to/imike/systemd-for-the-swift-app-g9c)
-- [FastCloudDeploy: Simplifying Open-Source Cloud Deployments](https://dev.to/faissal_elfid/fastclouddeploy-simplifying-open-source-cloud-deployments-16e9)
-- [Forward a port: Multi-device viewing](https://dev.to/annavi11arrea1/forward-a-port-multi-device-viewing-3ehk)
-- [SnipShot: A Stylish Code Snippet Uploader Using Pinata IPFS](https://dev.to/mitchiemt11/snipshot-a-stylish-code-snippet-uploader-using-pinata-ipfs-4emm)
+- [Introducing Handbooks for Tech: Documentation Got &quot;Better&quot;](https://dev.to/buzzpy/introducing-handbooks-for-tech-documentation-got-better-4anf)
+- [How to write a great one-pager](https://dev.to/winstonpuckett/how-to-write-a-great-one-pager-1edj)
+- [Productivity Tools to have #1: Google Keep](https://dev.to/saifullahusmani/productivity-tools-to-have-1-google-keep-266n)
+- [Why Vivaldi Might Be the Browser You&#39;ve Been Waiting For](https://dev.to/marrouchi/why-vivaldi-might-be-the-browser-youve-been-waiting-for-4n4j)
 <!-- BLOG-POST-LIST:END -->
 
