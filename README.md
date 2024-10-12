@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Git Reset?](https://dev.to/meghasharmaaaa/what-is-git-reset-25n3)
-- [Building a Name Simple Registry: Solidity vs Aptos Move](https://dev.to/dariaag/building-a-name-simple-registry-solidity-vs-aptos-move-276k)
-- [NoisOCR: A Python Library for Simulating Post-OCR Noisy Texts](https://dev.to/savi8sant8s/noisocr-a-python-library-for-simulating-post-ocr-noisy-texts-52fd)
-- [#1 Первый урок](https://dev.to/nmatlubov/1-piervyi-urok-23ej)
+- [DreamForge: AI Generated Stories](https://dev.to/cwdcwd/dreamforge-ai-generated-stories-376e)
+- [pinata-whiteBoard](https://dev.to/kundan1334/pinata-whiteboard-1h77)
+- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Developer](https://dev.to/dhanushnehru/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-developer-168m)
+- [Achieving Android 15 Edge to Edge compatibility for your React Native App.](https://dev.to/gautham495/achieving-android-15-edge-to-edge-compatibility-for-your-react-native-app-2ile)
 <!-- BLOG-POST-LIST:END -->
 
