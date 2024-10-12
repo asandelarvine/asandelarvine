@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote debugging Go App](https://dev.to/empire/remote-debugging-go-app-1nml)
-- [LabEx Trending: Deploying a Simple TensorFlow Model and More](https://dev.to/labex/labex-trending-deploying-a-simple-tensorflow-model-and-more-1l05)
-- [Subscribe Card by Bootstrap 5.3](https://dev.to/mahmud-r-farhan/subscribe-card-by-bootstrap-53-4fp0)
-- [Think Like a Problem Solver, Not the Best Programmer](https://dev.to/jenueldev/think-like-a-problem-solver-not-the-best-programmer-6po)
+- [Uma introdução ao Spring Boot](https://dev.to/camilaferreiranas/uma-introducao-ao-spring-boot-nnl)
+- [Calculate time difference in milliseconds in VBA](https://dev.to/0meow0/calculate-time-difference-in-milliseconds-in-vba-3a8j)
+- [Is your Java log utility class reporting itself as the source of your logs? Learn how to fix it!](https://dev.to/luis_cardozo/is-your-java-log-utility-class-reporting-itself-as-the-source-of-your-logs-learn-how-to-fix-it-4k37)
+- [Building a Personalised AI Chatbot with GPT and Gradio](https://dev.to/abhinav_yadav_554cab962bb/building-a-personalised-ai-chatbot-with-gpt-and-gradioa-45pm)
 <!-- BLOG-POST-LIST:END -->
 
