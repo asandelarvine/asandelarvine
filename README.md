@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma introdução ao Spring Boot](https://dev.to/camilaferreiranas/uma-introducao-ao-spring-boot-nnl)
-- [Calculate time difference in milliseconds in VBA](https://dev.to/0meow0/calculate-time-difference-in-milliseconds-in-vba-3a8j)
-- [Is your Java log utility class reporting itself as the source of your logs? Learn how to fix it!](https://dev.to/luis_cardozo/is-your-java-log-utility-class-reporting-itself-as-the-source-of-your-logs-learn-how-to-fix-it-4k37)
-- [Building a Personalised AI Chatbot with GPT and Gradio](https://dev.to/abhinav_yadav_554cab962bb/building-a-personalised-ai-chatbot-with-gpt-and-gradioa-45pm)
+- [Database driven task &amp; membership](https://dev.to/loveliberty/database-driven-task-membership-1cco)
+- [Cracking Open Go&#39;s Crypto Toolbox, Go Crypto 2](https://dev.to/rezmoss/cracking-open-gos-crypto-toolbox-go-crypto-2-50cn)
+- [Elevating Dependency Injection in .NET with Scrutor and Autofac](https://dev.to/hootanht/elevating-dependency-injection-in-net-with-scrutor-and-autofac-4nm4)
+- [Unlocking the Power of Go&#39;s Crypto Package, Go Crypto 1](https://dev.to/rezmoss/unlocking-the-power-of-gos-crypto-package-go-crypto-1-4m0p)
 <!-- BLOG-POST-LIST:END -->
 
