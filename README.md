@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid Costly Loops in AWS Step Functions](https://dev.to/aws-builders/avoid-costly-loops-in-aws-step-functions-3eon)
-- [Happy Dusshera Animation](https://dev.to/prince_beec5ccde00b7c6c73/happy-dusshera-animation-4h62)
-- [Why working at a Startup is the right choice ?](https://dev.to/sidjain0503/why-working-at-a-startup-is-the-right-choice--48b7)
-- [Why Do We Need a Server ISO? Can’t We Make a Server Using a Desktop ISO?](https://dev.to/ahnafashiqueadi/why-do-we-need-a-server-iso-cant-we-make-a-server-using-a-desktop-iso-337n)
+- [Using CSS Variables for Theme Customisation](https://dev.to/dualitedev/using-css-variables-for-theme-customisation-5aoj)
+- [Beginner Challenge](https://dev.to/monalicous/beginner-challenge-2ggg)
+- [Day 1 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-1-of-365-10-million-yen-japan-career-switch-challenge-3mkj)
+- [Terminal Commands.](https://dev.to/eldor_baxtiyorov/terminal-commands-4e18)
 <!-- BLOG-POST-LIST:END -->
 
