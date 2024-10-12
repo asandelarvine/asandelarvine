@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure an Open Source WAF, SafeLine](https://dev.to/carrie_luo1/how-to-configure-an-open-source-waf-safeline-3djo)
-- [How to Configure an Open Source WAF, SafeLine](https://dev.to/carrie_luo1/how-to-configure-an-open-source-waf-safeline-4loa)
-- [Deno 2.0 Takes Flight](https://dev.to/mitchiemt11/deno-20-takes-flight-4ij3)
-- [A Deep Dive into Cryptographic Random Number Generation: From OpenSSL to Entropy](https://dev.to/mochafreddo/a-deep-dive-into-cryptographic-random-number-generation-from-openssl-to-entropy-16e6)
+- [Contributing to Excalibur](https://dev.to/excaliburjs/contributing-to-excalibur-14n4)
+- [Ultimate Guide: How Can You Protect Your Home Computer Today?](https://dev.to/murtaza786/ultimate-guide-how-can-you-protect-your-home-computer-today-4bkh)
+- [🎉 Wow! Today my open source project reached 5K Star!](https://dev.to/nihaojob/wow-today-my-open-source-project-reached-5k-star-3o4l)
+- [Refactoring: My Journey Through Lab 5](https://dev.to/msaluja/refactoring-my-journey-through-lab-5-1noh)
 <!-- BLOG-POST-LIST:END -->
 
