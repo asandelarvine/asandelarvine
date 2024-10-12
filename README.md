@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Shell Scripting Prowess with the &#39;Shell Practice Labs&#39; Course](https://dev.to/labex/unleash-your-shell-scripting-prowess-with-the-shell-practice-labs-course-3ef9)
-- [Building a Fraud Detection System in Python with Machine Learning](https://dev.to/agustin_bereciartua_d19f7/building-a-fraud-detection-system-in-python-with-machine-learning-1p3n)
-- [Top 5 Frameworks for Building AI Agents in 2024](https://dev.to/thenomadevel/top-5-frameworks-for-building-ai-agents-in-2024-g2m)
-- [JavaScript String Manipulation: How to Use Split, Reverse, and Join](https://dev.to/ofthewildfire/javascript-string-manipulation-how-to-use-split-reverse-and-join-4ojf)
+- [How to create a global gitignore file as an extra precaution against committing secrets and unnecessary files](https://dev.to/jt_ziolo/how-to-create-a-global-gitignore-file-as-an-extra-precaution-against-committing-secrets-and-unnecessary-files-3hbn)
+- [Refactoring a C++ Project: A Journey of Improvement and Optimization](https://dev.to/fahadalikhanca/refactoring-a-c-project-a-journey-of-improvement-and-optimization-2mhg)
+- [Aggregate function &amp; Windows functions](https://dev.to/mrcaption49/aggregate-function-windows-functions-43ca)
+- [Fintech: Introduction](https://dev.to/ashrafamer/fintech-introduction-3n2i)
 <!-- BLOG-POST-LIST:END -->
 
