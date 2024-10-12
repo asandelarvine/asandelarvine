@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using WebSockets in Go for Real-Time Communication](https://dev.to/neelp03/using-websockets-in-go-for-real-time-communication-4b3l)
-- [Integrating Open Source WAF with Wazuh&lpar;Part 2&rpar;](https://dev.to/carrie_luo1/integrating-open-source-waf-with-wazuhpart-2-3f8p)
-- [8 Open-Source Tools to grow your app and reach new markets! 🔥](https://dev.to/tolgee_i18n/8-open-source-tools-to-grow-your-app-and-reach-new-markets-5036)
-- [Understanding Errors is a Super Power](https://dev.to/jenueldev/understanding-errors-is-a-super-power-ek7)
+- [Beyond the Pull Request: My Evolving Journey in Hacktoberfest 2024 as a Contributor](https://dev.to/goyalrohit/beyond-the-pull-request-my-evolving-journey-in-hacktoberfest-2024-as-a-contributor-2lkk)
+- [Two Sum](https://dev.to/alex_a7dd8/two-sum-325i)
+- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/toppilot10/the-beginners-guide-to-understanding-http-protocol-3lf7)
+- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/purple0929/the-beginners-guide-to-understanding-http-protocol-4kp8)
 <!-- BLOG-POST-LIST:END -->
 
