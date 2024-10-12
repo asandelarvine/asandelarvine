@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Executive and Employee Leadership Framework Applied in my Cloud Team](https://dev.to/arindam0310018/executive-and-employee-leadership-framework-applied-in-my-cloud-team-f0a)
-- [Celery | Redis | WebSocket in Django with Docker](https://dev.to/thehormat/celery-redis-websocket-in-django-with-docker-1li3)
-- [&quot;Hacktoberfest 2024: A Journey of Growth and Collaboration&quot;](https://dev.to/arnab825/hacktoberfest-2024-a-journey-of-growth-and-collaboration-1bl6)
-- [Making most of Microsoft Campus Ambassador Program](https://dev.to/beingwizard/making-most-of-microsoft-campus-ambassador-program-4iii)
+- [Systemd for the Swift app](https://dev.to/imike/systemd-for-the-swift-app-g9c)
+- [FastCloudDeploy: Simplifying Open-Source Cloud Deployments](https://dev.to/faissal_elfid/fastclouddeploy-simplifying-open-source-cloud-deployments-16e9)
+- [Forward a port: Multi-device viewing](https://dev.to/annavi11arrea1/forward-a-port-multi-device-viewing-3ehk)
+- [SnipShot: A Stylish Code Snippet Uploader Using Pinata IPFS](https://dev.to/mitchiemt11/snipshot-a-stylish-code-snippet-uploader-using-pinata-ipfs-4emm)
 <!-- BLOG-POST-LIST:END -->
 
