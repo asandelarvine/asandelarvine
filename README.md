@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 33. Generic response](https://dev.to/kiolk/day-33-generic-response-2d2h)
-- [🔗 useCallback: Keeping Your Functions in Check, Literally 🧑‍💻](https://dev.to/_akashkmt_/usecallback-keeping-your-functions-in-check-literally-51gj)
-- [Latest Updates: DePIN Framework](https://dev.to/evire/latest-updates-depin-framework-3ma3)
-- [Interactive stock market S&amp;P 500 line chart using Bokeh, Python, JS, Pyscript and a movable angle finder for Trend Line Analysis](https://dev.to/rickdelpo1/interactive-stock-market-sp-500-line-chart-using-bokeh-python-js-pyscript-and-a-movable-angle-finder-for-trend-line-analysis-1k6a)
+- [Executive and Employee Leadership Framework Applied in my Cloud Team](https://dev.to/arindam0310018/executive-and-employee-leadership-framework-applied-in-my-cloud-team-f0a)
+- [Celery | Redis | WebSocket in Django with Docker](https://dev.to/thehormat/celery-redis-websocket-in-django-with-docker-1li3)
+- [&quot;Hacktoberfest 2024: A Journey of Growth and Collaboration&quot;](https://dev.to/arnab825/hacktoberfest-2024-a-journey-of-growth-and-collaboration-1bl6)
+- [Making most of Microsoft Campus Ambassador Program](https://dev.to/beingwizard/making-most-of-microsoft-campus-ambassador-program-4iii)
 <!-- BLOG-POST-LIST:END -->
 
