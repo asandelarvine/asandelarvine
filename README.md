@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【Interview Essentials】Common JavaScript Interview Questions](https://dev.to/jessie_chen/interview-essentials-common-javascript-interview-questions-585h)
-- [Embracing the Future of Development](https://dev.to/karleeov/embracing-the-future-of-development-1lga)
-- [View vs Materialized View in Oracle SQL](https://dev.to/mrcaption49/view-vs-materialized-view-in-oracle-sql-224m)
-- [aws User Guide](https://dev.to/awsfriend1/aws-user-guide-32pl)
+- [🔐 Information Security and Data Privacy: Protect Your Online Information](https://dev.to/izabellalbuquerque/information-security-and-data-privacy-protect-your-online-information-266p)
+- [API Versioning can Never Be Easier!](https://dev.to/apilover/api-versioning-can-never-be-easier-4j9p)
+- [Update JSON file using Terminal or bash script](https://dev.to/basskibo/update-json-file-via-terminal-or-bash-script-3clm)
+- [Difference Between DevOps and Full-Stack Engineer: Roles, Responsibilities, and Key Skills](https://dev.to/abhinowww/difference-between-devops-and-full-stack-engineer-roles-responsibilities-and-key-skills-1dcl)
 <!-- BLOG-POST-LIST:END -->
 
