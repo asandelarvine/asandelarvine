@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My notes on the OpenGL ES hello world triangle](https://dev.to/theplebdev/my-notes-on-the-opengl-es-hello-world-triangle-2c60)
-- [Dia 13 - 1.3 Por trás do programa](https://dev.to/matheusgb/dia-13-13-por-tras-do-programa-31da)
-- [Refactoring and rebasing](https://dev.to/aldrin312/refactoring-and-rebasing-3occ)
-- [Promises in JavaScript, A Guide for 2024](https://dev.to/shafayeat/promises-in-javascript-a-guide-for-2024-3fih)
+- [How to Configure an Open Source WAF, SafeLine](https://dev.to/carrie_luo1/how-to-configure-an-open-source-waf-safeline-3djo)
+- [How to Configure an Open Source WAF, SafeLine](https://dev.to/carrie_luo1/how-to-configure-an-open-source-waf-safeline-4loa)
+- [Deno 2.0 Takes Flight](https://dev.to/mitchiemt11/deno-20-takes-flight-4ij3)
+- [A Deep Dive into Cryptographic Random Number Generation: From OpenSSL to Entropy](https://dev.to/mochafreddo/a-deep-dive-into-cryptographic-random-number-generation-from-openssl-to-entropy-16e6)
 <!-- BLOG-POST-LIST:END -->
 
