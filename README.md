@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring codeshift](https://dev.to/udayrana/refactoring-codeshift-1pfb)
-- [Olova A smooth, minimal JavaScript framework](https://dev.to/seraprogrammer/olovaa-smooth-minimal-javascript-framework-1831)
-- [Sealed Classes: Modern Class Grouping](https://dev.to/guldenizozdemir/sealed-classes-modern-class-grouping-3bac)
-- [How to create a sudo user](https://dev.to/syamsarosa/how-to-create-a-sudo-user-27m2)
+- [【Interview Essentials】Common JavaScript Interview Questions](https://dev.to/jessie_chen/interview-essentials-common-javascript-interview-questions-585h)
+- [Embracing the Future of Development](https://dev.to/karleeov/embracing-the-future-of-development-1lga)
+- [View vs Materialized View in Oracle SQL](https://dev.to/mrcaption49/view-vs-materialized-view-in-oracle-sql-224m)
+- [aws User Guide](https://dev.to/awsfriend1/aws-user-guide-32pl)
 <!-- BLOG-POST-LIST:END -->
 
