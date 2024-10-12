@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DebConf24, a conference trip](https://dev.to/lsahn/debconf24-a-conference-trip-1apb)
-- [My 2024 Hacktoberfest Maintainer Experience: 💔 Building and Growing ImagePro 🚀](https://dev.to/jacksonkasi/my-2024-hacktoberfest-maintainer-experience-building-and-growing-imagepro-1b20)
-- [A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes](https://dev.to/qiangyt/a-supplement-to-copilot-and-cursor-utilizes-ai-for-batch-processing-of-project-codes-5bm2)
-- [How to make your terminal looks Splendid](https://dev.to/jairo_junior_538950788e2d/how-to-make-your-terminal-looks-splendid-4pgf)
+- [Best PowerShell Dev Environment on Windows](https://dev.to/rescenic/best-powershell-dev-environment-on-windows-4kg9)
+- [Coding as a Core Skill: Why Schools Need to Prioritize It](https://dev.to/growkon21/coding-as-a-core-skill-why-schools-need-to-prioritize-it-4ine)
+- [Using Conditional Statements and Loops in JavaScript](https://dev.to/shieldstring/using-conditional-statements-and-loops-in-javascript-1aia)
+- [Rust: The Language That Won’t Let You Shoot Yourself in the Foot &lpar;Unlike C++&rpar;](https://dev.to/shafayeat/rust-the-language-that-wont-let-you-shoot-yourself-in-the-foot-unlike-c-34a1)
 <!-- BLOG-POST-LIST:END -->
 
