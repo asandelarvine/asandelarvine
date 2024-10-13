@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First post: Openfav-auth, an&lpar;other&rpar; Astro app template](https://dev.to/doublefaces/first-post-openfav-auth-another-astro-app-template-2gnm)
-- [22. While Loop](https://dev.to/sunnat_qayumov/22-while-loop-5d1a)
-- [Using React CKEditor 5 with Django&lpar;DRF&rpar;](https://dev.to/thehormat/using-react-ckeditor-5-with-djangodrf-4kp6)
-- [Difference Between Varray and Nested Table in PLSQL](https://dev.to/mrcaption49/difference-between-varray-and-nested-table-in-plsql-18ai)
+- [GBP/USD Outlook: Labor Data Boosts Resilience Amid Rate Cut Speculations](https://dev.to/snapnews/gbpusd-outlook-labor-data-boosts-resilience-amid-rate-cut-speculations-2878)
+- [🚀 Top JavaScript Trends to Watch in 2024](https://dev.to/yashodip_beldar/top-javascript-trends-to-watch-in-2024-347p)
+- [Mastering Snake Game with Reinforcement Learning and Linear Q-Network &lpar;with Python&rpar;](https://dev.to/imankarimi/mastering-snake-game-with-reinforcement-learning-and-linear-q-network-with-python-2ncm)
+- [Memoir.](https://dev.to/farisamamnoon/memoir-abh)
 <!-- BLOG-POST-LIST:END -->
 
