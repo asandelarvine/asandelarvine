@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Site Scripting and CSRF: Secure Your Web Application against Common Attacks](https://dev.to/okoye_ndidiamaka_5e3b7d30/cross-site-scripting-and-csrf-secure-your-web-application-against-common-attacks-6ak)
-- [AI &amp; Dev Weekly News: Bolt.new Deno 2.0, Cursor Ai! and More...](https://dev.to/dev007777/ai-dev-weekly-news-boltnew-deno-20-cursor-ai-and-more-1749)
-- [Effective Planning Meetings](https://dev.to/gabrieltoma/effective-planning-meetings-11di)
-- [Como Criar e Gerenciar Seu Próprio Repositório Git em um Servidor Particular](https://dev.to/samuelstarts/como-criar-e-gerenciar-seu-proprio-repositorio-git-em-um-servidor-particular-16m)
+- [Web Design Trends: What’s Hot in UX/UI Design](https://dev.to/izabellalbuquerque/web-design-trends-whats-hot-in-uxui-design-1g2d)
+- [23. do while loop](https://dev.to/sunnat_qayumov/23-do-while-loop-1ifi)
+- [Building an E-Learning App: Architectural Flaws in Django and React](https://dev.to/mouadbm/building-an-e-learning-app-architectural-flaws-in-django-and-react-4gp3)
+- [How to embed link with preview in React Application](https://dev.to/basskibo/how-to-embed-link-with-preview-in-react-application-2gdd)
 <!-- BLOG-POST-LIST:END -->
 
