@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Maker Powered by Pinata: Secure File Storage Meets Real-Time Customization](https://dev.to/rajdhokai/meme-maker-powered-by-pinata-secure-file-storage-meets-real-time-customization-gdn)
-- [&quot;Import vs. Export: The Ultimate Face-off in the Package.json](https://dev.to/rameshpvr/import-vs-export-the-ultimate-face-off-in-the-packagejson-1j8l)
-- [Value type va Reference type](https://dev.to/mushtariy/value-type-va-reference-type-4b06)
-- [What is the difference between a network and the internet?](https://dev.to/abstractmusa/what-is-the-difference-between-a-network-and-the-internet-4f86)
+- [Computers are Just Tools - FAV0 Weekly #017](https://dev.to/justin3go/computers-are-just-tools-fav0-weekly-017-2klo)
+- [计算机只是工具 - FAV0周刊#017](https://dev.to/justin3go/ji-suan-ji-zhi-shi-gong-ju-fav0zhou-kan-017-1o3k)
+- [How To Build An Interactive, Persistent Tree Editor with MongoDB, Node.js, and React](https://dev.to/ganesh-kumar/how-to-build-an-interactive-persistent-tree-editor-with-mongodb-nodejs-and-react-540l)
+- [Understanding Stack and Heap in Go: A Simple Guide](https://dev.to/tuna99/understanding-stack-and-heap-in-go-a-simple-guide-20i)
 <!-- BLOG-POST-LIST:END -->
 
