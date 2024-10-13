@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to Filtering in Django REST Framework &lpar;DRF&rpar; with a Real-World Example](https://dev.to/kihuni/comprehensive-guide-to-filtering-in-django-rest-framework-drf-with-a-real-world-example-563p)
-- [Gaining Access in Cyber Security: Techniques for Ethical Hacking](https://dev.to/s3cloudhub/gaining-access-in-cyber-security-techniques-for-ethical-hacking-3jhn)
-- [Provisioners In Terraform](https://dev.to/routeclouds/provisioners-in-terraform-16m1)
-- [Deauthentication Attack: How Hackers Exploit Wi-Fi Networks](https://dev.to/s3cloudhub/deauthentication-attack-how-hackers-exploit-wi-fi-networks-ab2)
+- [11. Value Type va Reference Type &lpar;Complex Examples&rpar;](https://dev.to/zahro_11eecc01a1cfe5142b9/11-value-type-va-reference-type-complex-examples-34n3)
+- [VARRAY in PLSQL Functions | LIMIT | COUNT | EXTEND](https://dev.to/mrcaption49/varray-in-plsql-functions-limit-count-extend-2ch0)
+- [Unavoidable developer tools](https://dev.to/codewithshahan/unavoidable-developer-tools-24g8)
+- [10. String Operations](https://dev.to/zahro_11eecc01a1cfe5142b9/10-string-operations-fm8)
 <!-- BLOG-POST-LIST:END -->
 
