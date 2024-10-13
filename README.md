@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Unified Write Filter in Windows 11](https://dev.to/winsides/enable-unified-write-filter-in-windows-11-4jke)
-- [TC39 JavaScript Updates, TypeScript 5.7 Beta, Node.js v20.18.0 and more](https://dev.to/thisweekinjavascript/tc39-javascript-updates-typescript-57-beta-nodejs-v20180-and-more-47n3)
-- [Haiku Harmony: Crafting Poetry in the Cloud with Pinata](https://dev.to/msteja/haiku-harmony-crafting-poetry-in-the-cloud-with-pinata-17lk)
-- [How to Crack a DevOps Interview in One Attempt: A Complete Guide for Freshers and Experienced](https://dev.to/prodevopsguytech/how-to-crack-a-devops-interview-in-one-attempt-a-complete-guide-for-freshers-and-experienced-24hm)
+- [Understanding Static Site Generation &lpar;SSG&rpar;, Server-Side Rendering &lpar;SSR&rpar;, and Server Components in Next.js](https://dev.to/kawsar007/understanding-static-site-generation-ssg-server-side-rendering-ssr-and-server-components-in-nextjs-45p7)
+- [Writing Skills: Essential Fuel for Every Programmer 🥇👨‍💻](https://dev.to/_hm/writing-skills-essential-fuel-for-every-programmer-1ia2)
+- [C# Advanced:Operator Overloading](https://dev.to/moh_moh701/c-advancedoperator-overloading-3djn)
+- [Do Caos à Clareza: Princípios para Dashboards de Monitoramento Eficientes](https://dev.to/camillacorreia/do-caos-a-clareza-principios-para-dashboards-de-monitoramento-eficientes-21ij)
 <!-- BLOG-POST-LIST:END -->
 
