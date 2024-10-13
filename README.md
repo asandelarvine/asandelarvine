@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Computers are Just Tools - FAV0 Weekly #017](https://dev.to/justin3go/computers-are-just-tools-fav0-weekly-017-2klo)
-- [计算机只是工具 - FAV0周刊#017](https://dev.to/justin3go/ji-suan-ji-zhi-shi-gong-ju-fav0zhou-kan-017-1o3k)
-- [How To Build An Interactive, Persistent Tree Editor with MongoDB, Node.js, and React](https://dev.to/ganesh-kumar/how-to-build-an-interactive-persistent-tree-editor-with-mongodb-nodejs-and-react-540l)
-- [Understanding Stack and Heap in Go: A Simple Guide](https://dev.to/tuna99/understanding-stack-and-heap-in-go-a-simple-guide-20i)
+- [Enable Unified Write Filter in Windows 11](https://dev.to/winsides/enable-unified-write-filter-in-windows-11-4jke)
+- [TC39 JavaScript Updates, TypeScript 5.7 Beta, Node.js v20.18.0 and more](https://dev.to/thisweekinjavascript/tc39-javascript-updates-typescript-57-beta-nodejs-v20180-and-more-47n3)
+- [Haiku Harmony: Crafting Poetry in the Cloud with Pinata](https://dev.to/msteja/haiku-harmony-crafting-poetry-in-the-cloud-with-pinata-17lk)
+- [How to Crack a DevOps Interview in One Attempt: A Complete Guide for Freshers and Experienced](https://dev.to/prodevopsguytech/how-to-crack-a-devops-interview-in-one-attempt-a-complete-guide-for-freshers-and-experienced-24hm)
 <!-- BLOG-POST-LIST:END -->
 
