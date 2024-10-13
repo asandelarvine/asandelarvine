@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Static Site Generation &lpar;SSG&rpar;, Server-Side Rendering &lpar;SSR&rpar;, and Server Components in Next.js](https://dev.to/kawsar007/understanding-static-site-generation-ssg-server-side-rendering-ssr-and-server-components-in-nextjs-45p7)
-- [Writing Skills: Essential Fuel for Every Programmer 🥇👨‍💻](https://dev.to/_hm/writing-skills-essential-fuel-for-every-programmer-1ia2)
-- [C# Advanced:Operator Overloading](https://dev.to/moh_moh701/c-advancedoperator-overloading-3djn)
-- [Do Caos à Clareza: Princípios para Dashboards de Monitoramento Eficientes](https://dev.to/camillacorreia/do-caos-a-clareza-principios-para-dashboards-de-monitoramento-eficientes-21ij)
+- [Create an AWS SNS Topic Using CDK and consume messages with a Spring Boot Microservice](https://dev.to/nivekalara237/create-an-aws-sns-topic-using-cdk-and-consume-messages-with-a-spring-boot-microservice-1nn)
+- [Tkinter: Python&#39;s Secret Weapon for Stunning GUIs](https://dev.to/404_chronicles/tkinter-pythons-secret-weapon-for-stunning-guis-2om7)
+- [How to give user input in Kaggle Notebook](https://dev.to/reckon762/how-to-give-user-input-in-kaggle-notebook-1oc6)
+- [Primeiros passos para iniciar na programação](https://dev.to/erickwillian_dev/primeiros-passos-para-iniciar-na-programacao-3ap0)
 <!-- BLOG-POST-LIST:END -->
 
