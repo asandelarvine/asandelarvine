@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Design Trends: What’s Hot in UX/UI Design](https://dev.to/izabellalbuquerque/web-design-trends-whats-hot-in-uxui-design-1g2d)
-- [23. do while loop](https://dev.to/sunnat_qayumov/23-do-while-loop-1ifi)
-- [Building an E-Learning App: Architectural Flaws in Django and React](https://dev.to/mouadbm/building-an-e-learning-app-architectural-flaws-in-django-and-react-4gp3)
-- [How to embed link with preview in React Application](https://dev.to/basskibo/how-to-embed-link-with-preview-in-react-application-2gdd)
+- [Uploadnow - simple file explorer](https://dev.to/emee/uploadnow-simple-file-explorer-5055)
+- [Differences Between VARRAY, Nested Table, and Associative Array in PL/SQL](https://dev.to/mrcaption49/differences-between-varray-nested-table-and-associative-array-in-plsql-nfh)
+- [Finally Contributing Actual Code to Open Source](https://dev.to/udayrana/finally-contributing-actual-code-to-open-source-ldb)
+- [C# Design Pattern: State](https://dev.to/juarezasjunior/c-design-pattern-state-584g)
 <!-- BLOG-POST-LIST:END -->
 
