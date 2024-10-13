@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uploadnow - simple file explorer](https://dev.to/emee/uploadnow-simple-file-explorer-5055)
-- [Differences Between VARRAY, Nested Table, and Associative Array in PL/SQL](https://dev.to/mrcaption49/differences-between-varray-nested-table-and-associative-array-in-plsql-nfh)
-- [Finally Contributing Actual Code to Open Source](https://dev.to/udayrana/finally-contributing-actual-code-to-open-source-ldb)
-- [C# Design Pattern: State](https://dev.to/juarezasjunior/c-design-pattern-state-584g)
+- [AI will change everything in software development. Here are 3 examples!](https://dev.to/karsten_biedermann/ai-will-change-everything-in-software-development-here-are-3-examples-50ih)
+- [Image Annotation for AI Model training using Pinata](https://dev.to/suyashsrivastavadev/image-annotation-for-ai-model-training-using-pinata-571n)
+- [Understanding Latency in Applications: A Guide for Backend Developers](https://dev.to/samjnr/understanding-latency-in-applications-a-guide-for-backend-developers-1d2a)
+- [The Ultimate Guide to Choosing the Right Cryptography Algorithm for Your Project](https://dev.to/adityabhuyan/the-ultimate-guide-to-choosing-the-right-cryptography-algorithm-for-your-project-55oe)
 <!-- BLOG-POST-LIST:END -->
 
