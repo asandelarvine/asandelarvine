@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an AWS SNS Topic Using CDK and consume messages with a Spring Boot Microservice](https://dev.to/nivekalara237/create-an-aws-sns-topic-using-cdk-and-consume-messages-with-a-spring-boot-microservice-1nn)
-- [Tkinter: Python&#39;s Secret Weapon for Stunning GUIs](https://dev.to/404_chronicles/tkinter-pythons-secret-weapon-for-stunning-guis-2om7)
-- [How to give user input in Kaggle Notebook](https://dev.to/reckon762/how-to-give-user-input-in-kaggle-notebook-1oc6)
-- [Primeiros passos para iniciar na programação](https://dev.to/erickwillian_dev/primeiros-passos-para-iniciar-na-programacao-3ap0)
+- [Build a Digital Portfolio That Lands More Modeling Jobs](https://dev.to/christianrollo/build-a-digital-portfolio-that-lands-more-modeling-jobs-o5a)
+- [🤖 Virtual Machines and Containers](https://dev.to/spirizeon/virtual-machines-and-containers-3h47)
+- [❄️ NixOS: OS as Code](https://dev.to/spirizeon/nixos-os-as-code-2h6d)
+- [Day 34. Response](https://dev.to/kiolk/day-34-response-1bc5)
 <!-- BLOG-POST-LIST:END -->
 
