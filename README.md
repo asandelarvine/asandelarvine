@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Your APIs in 5 Minutes: Token-Based RSocket with JWT](https://dev.to/jackwilltech/secure-your-apis-in-5-minutes-token-based-rsocket-with-jwt-37pn)
-- [The Tools I Learnt during my first two weeks of Learning Programming](https://dev.to/quddus_nojimudeen/the-tools-i-learnt-during-my-first-two-weeks-of-learning-programming-48pk)
-- [Mastering the Fundamentals of Object-Oriented Programming &lpar;OOP&rpar; in Java](https://dev.to/shubhamkhan/mastering-the-fundamentals-of-object-oriented-programming-oop-in-java-1oma)
-- [CSS Grid: Creating a Gallery Layout](https://dev.to/tailwine/css-grid-creating-a-gallery-layout-mic)
+- [Comprehensive Guide to Filtering in Django REST Framework &lpar;DRF&rpar; with a Real-World Example](https://dev.to/kihuni/comprehensive-guide-to-filtering-in-django-rest-framework-drf-with-a-real-world-example-563p)
+- [Gaining Access in Cyber Security: Techniques for Ethical Hacking](https://dev.to/s3cloudhub/gaining-access-in-cyber-security-techniques-for-ethical-hacking-3jhn)
+- [Provisioners In Terraform](https://dev.to/routeclouds/provisioners-in-terraform-16m1)
+- [Deauthentication Attack: How Hackers Exploit Wi-Fi Networks](https://dev.to/s3cloudhub/deauthentication-attack-how-hackers-exploit-wi-fi-networks-ab2)
 <!-- BLOG-POST-LIST:END -->
 
