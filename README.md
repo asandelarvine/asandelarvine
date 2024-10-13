@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI will change everything in software development. Here are 3 examples!](https://dev.to/karsten_biedermann/ai-will-change-everything-in-software-development-here-are-3-examples-50ih)
-- [Image Annotation for AI Model training using Pinata](https://dev.to/suyashsrivastavadev/image-annotation-for-ai-model-training-using-pinata-571n)
-- [Understanding Latency in Applications: A Guide for Backend Developers](https://dev.to/samjnr/understanding-latency-in-applications-a-guide-for-backend-developers-1d2a)
-- [The Ultimate Guide to Choosing the Right Cryptography Algorithm for Your Project](https://dev.to/adityabhuyan/the-ultimate-guide-to-choosing-the-right-cryptography-algorithm-for-your-project-55oe)
+- [When to bring in a software architect?](https://dev.to/read-the-architecture/when-to-bring-in-a-software-architect-30aj)
+- [How to Style Your Notebook for Data Analysis: A Guide with Heart Attack Prediction Example](https://dev.to/rama13850/how-to-style-your-notebook-for-data-analysis-a-guide-with-heart-attack-prediction-example-47f2)
+- [Symfony Station Communiqué — 11 October 2024. A look at Symfony, Drupal, PHP, and Programming News!](https://dev.to/reubenwalker64/symfony-station-communique-11-october-2024-a-look-at-symfony-drupal-php-and-programming-news-2f8k)
+- [Simple Peer Tutorial: Add TURN Server for Video, DataChannel](https://dev.to/alakkadshaw/simple-peer-tutorial-add-turn-server-for-video-datachannel-57pj)
 <!-- BLOG-POST-LIST:END -->
 
