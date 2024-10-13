@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [11. Value Type va Reference Type &lpar;Complex Examples&rpar;](https://dev.to/zahro_11eecc01a1cfe5142b9/11-value-type-va-reference-type-complex-examples-34n3)
-- [VARRAY in PLSQL Functions | LIMIT | COUNT | EXTEND](https://dev.to/mrcaption49/varray-in-plsql-functions-limit-count-extend-2ch0)
-- [Unavoidable developer tools](https://dev.to/codewithshahan/unavoidable-developer-tools-24g8)
-- [10. String Operations](https://dev.to/zahro_11eecc01a1cfe5142b9/10-string-operations-fm8)
+- [First post: Openfav-auth, an&lpar;other&rpar; Astro app template](https://dev.to/doublefaces/first-post-openfav-auth-another-astro-app-template-2gnm)
+- [22. While Loop](https://dev.to/sunnat_qayumov/22-while-loop-5d1a)
+- [Using React CKEditor 5 with Django&lpar;DRF&rpar;](https://dev.to/thehormat/using-react-ckeditor-5-with-djangodrf-4kp6)
+- [Difference Between Varray and Nested Table in PLSQL](https://dev.to/mrcaption49/difference-between-varray-and-nested-table-in-plsql-18ai)
 <!-- BLOG-POST-LIST:END -->
 
