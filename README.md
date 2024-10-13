@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [18. Namespace](https://dev.to/sunnat_qayumov/18-namespace-n6b)
-- [17. Data Types](https://dev.to/sunnat_qayumov/17-data-types-2790)
-- [16. Class va Object](https://dev.to/sunnat_qayumov/16-class-va-object-49od)
-- [Connect MS Access to SQL Server using ADO](https://dev.to/0meow0/connect-access-to-sql-server-using-ado-3mp)
+- [Mastering the DevOps Lifecycle: The Essential Roadmap for 2024](https://dev.to/patadiarushabh/mastering-the-devops-lifecycle-the-essential-roadmap-for-2024-13ia)
+- [🖥️ Terminal Buyruqlari va .NET CLI: Boshlang&#39;ich dasturchilar uchun qo&#39;llanma](https://dev.to/muhammad_khodjaev/terminal-buyruqlari-va-net-cli-boshlangich-dasturchilar-uchun-qollanma-2fgi)
+- [20. Operators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/20-operators-if-else-if-else-ternary-operator-switch-2bfo)
+- [19. Valu va Reference Type](https://dev.to/sunnat_qayumov/19-valu-va-reference-type-4ci8)
 <!-- BLOG-POST-LIST:END -->
 
