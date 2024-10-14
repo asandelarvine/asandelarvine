@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key APIs Every Developer Should Know](https://dev.to/spencerlobree/key-apis-every-developer-should-know-1222)
-- [Debouncing vs Throttling in JavaScript: When and Why You Should Use Them](https://dev.to/paharihacker/debouncing-vs-throttling-in-javascript-when-and-why-you-should-use-them-1l09)
-- [Uber Integrates ChatGPT to Drive Electric Vehicle Adoption](https://dev.to/utcli-solutions/uber-integrates-chatgpt-to-drive-electric-vehicle-adoption-elg)
-- [Criando um Pacote NPM com Suporte a CommonJS e ESM usando Rollup](https://dev.to/marcelolourenco/criando-um-pacote-npm-com-suporte-a-commonjs-e-esm-usando-rollup-1be0)
+- [Mastering Time and Space Complexity: A Beginner&#39;s Guide to Big O Notation](https://dev.to/emmanuelayinde/mastering-time-and-space-complexity-a-beginners-guide-to-big-o-notation-33ae)
+- [Navneet kaur](https://dev.to/navneet_dhillon_9ff83d7f8/navneet-kaur-3675)
+- [How Shadcn CLI uses error constants to improve code readability](https://dev.to/thinkthroo/how-shadcn-cli-uses-error-constants-to-improve-code-readability-1177)
+- [Configurando um CI com Fastlane e Github Actions em um projeto iOS](https://dev.to/lys/configurando-um-ci-com-fastlane-e-github-actions-em-um-projeto-ios-7p5)
 <!-- BLOG-POST-LIST:END -->
 
