@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [npm Peer Dependencies for the Professional Developer](https://dev.to/tpalmer/npm-peer-dependencies-for-the-professional-developer-36m2)
-- [What is Web Service](https://dev.to/gliimly/what-is-web-service-2d1k)
-- [Building an 🐝 OpenAI SWARM 🔍 Web Scraping and Content Analysis Streamlit Web App with 👥 Multi-Agent Systems](https://dev.to/jadouse5/building-an-openai-swarm-web-scraping-and-content-analysis-streamlit-web-app-with-multi-agent-systems-bl0)
-- [Key Cloud Computing Terms for Beginners](https://dev.to/gervaisamoah/key-cloud-computing-terms-for-beginners-3eln)
+- [Dicas para criação de dashboards de monitoramento no Kibana](https://dev.to/annicarol/dicas-para-criacao-de-dashboards-de-monitoramento-no-kibana-n3o)
+- [Checking Out Chakra UI](https://dev.to/dakota_day/checking-out-chakra-ui-jfj)
+- [Self-Hosted Chat Solutions for LLMs: Open WebUI](https://dev.to/wdp/self-hosted-chat-solutions-for-llms-open-webui-alf)
+- [I built a haze themed website template with 10+ sections](https://dev.to/darkinventor/i-built-a-haze-themed-website-template-with-10-sections-gk)
 <!-- BLOG-POST-LIST:END -->
 
