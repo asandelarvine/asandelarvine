@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture: The Unattainable Ideal – A Parable for Developers](https://dev.to/simprl/clean-architecture-the-unattainable-ideal-a-parable-for-developers-38ih)
-- [fpdf2 latest news](https://dev.to/lucasc/fpdf2-latest-news-7pc)
-- [What :really: is Keda?](https://dev.to/mikkergimenez/what-really-is-keda-4fc2)
-- [The Power of Clear Function Names: A Clean Code Essential](https://dev.to/56_kode/the-power-of-clear-function-names-a-clean-code-essential-12l2)
+- [Gemini API: The Free Tier That Makes Developers Happy](https://dev.to/garciadiazjaime/gemini-api-the-free-tier-that-makes-developers-happy-28nk)
+- [Pinning Images with GSAP: A Smooth Scrolling Animation in Next.js](https://dev.to/moostakimahamed/pinning-images-with-gsap-a-smooth-scrolling-animation-in-nextjs-1274)
+- [Economics of Climate Change Costs and Opportunities](https://dev.to/hafiz_ammarsaleem_f42ea8/economics-of-climate-change-costs-and-opportunities-20o9)
+- [Postgresql commands](https://dev.to/mdiffshashank/postgresql-commands-mcb)
 <!-- BLOG-POST-LIST:END -->
 
