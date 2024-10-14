@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini API: The Free Tier That Makes Developers Happy](https://dev.to/garciadiazjaime/gemini-api-the-free-tier-that-makes-developers-happy-28nk)
-- [Pinning Images with GSAP: A Smooth Scrolling Animation in Next.js](https://dev.to/moostakimahamed/pinning-images-with-gsap-a-smooth-scrolling-animation-in-nextjs-1274)
-- [Economics of Climate Change Costs and Opportunities](https://dev.to/hafiz_ammarsaleem_f42ea8/economics-of-climate-change-costs-and-opportunities-20o9)
-- [Postgresql commands](https://dev.to/mdiffshashank/postgresql-commands-mcb)
+- [What is Docker&lpar;Explain like I am 6&rpar;](https://dev.to/thekarlesi/what-is-dockerexplain-like-i-am-6-3h84)
+- [O Mercado Atual de Python](https://dev.to/driuzim/o-mercado-atual-de-python-57hf)
+- [O Problema da Cibersegurança Atual](https://dev.to/driuzim/o-problema-da-ciberseguranca-atual-4d81)
+- [Understanding State Variables in React: Why and How](https://dev.to/bhargavditani/understanding-state-variables-in-react-why-and-how-1cc0)
 <!-- BLOG-POST-LIST:END -->
 
