@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java vs Python: Which Language to Choose for Your Coding Career?](https://dev.to/abhinowww/java-vs-python-which-language-to-choose-for-your-coding-career-2346)
-- [Four Lessons My First Job as a Software Engineer Taught Me About Coding and Life](https://dev.to/canro91/four-lessons-my-first-job-as-a-software-engineer-taught-me-about-coding-and-life-2em5)
-- [Sybil Attack in the Blockchain Network](https://dev.to/gloriasilver/sybil-attack-in-the-blockchain-network-317h)
-- [Kubernetes for Beginners: Understanding Jobs, Images, and More &lpar;Part 1&rpar;](https://dev.to/moon3485/kubernetes-for-beginners-understanding-jobs-images-and-more-part-1-16bo)
+- [What is Data Observability? Guide to Ensuring Data Health and Reliability](https://dev.to/uptrace/what-is-data-observability-guide-to-ensuring-data-health-and-reliability-2160)
+- [SameSite cookies and CSRF explained](https://dev.to/wennan_xu/samesite-cookies-and-csrf-explained-1oip)
+- [Higher-Order Components &lpar;HOCs&rpar; in React](https://dev.to/emhat098/higher-order-components-hocs-in-react-1ge3)
+- [Exploring JavaScript: From Scripting to Object-Oriented Programming](https://dev.to/emhat098/exploring-javascript-from-scripting-to-object-oriented-programming-28dk)
 <!-- BLOG-POST-LIST:END -->
 
