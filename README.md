@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas para criação de dashboards de monitoramento no Kibana](https://dev.to/annicarol/dicas-para-criacao-de-dashboards-de-monitoramento-no-kibana-n3o)
-- [Checking Out Chakra UI](https://dev.to/dakota_day/checking-out-chakra-ui-jfj)
-- [Self-Hosted Chat Solutions for LLMs: Open WebUI](https://dev.to/wdp/self-hosted-chat-solutions-for-llms-open-webui-alf)
-- [I built a haze themed website template with 10+ sections](https://dev.to/darkinventor/i-built-a-haze-themed-website-template-with-10-sections-gk)
+- [Decentralized Firebase Remote Config](https://dev.to/aloksahay/decentralized-firebase-remote-config-237n)
+- [Unlock 10x Productivity: Integrate Salesforce with MuleSoft in 13 Steps](https://dev.to/emilyjohnsonready/unlock-10x-productivity-integrate-salesforce-with-mulesoft-in-13-steps-149p)
+- [Debug Lamba&#39;s faster with Live Lambda Debugger](https://dev.to/thijsdez/debug-lambas-faster-with-live-lambda-debugger-2fa)
+- [Ditch Git Checkout: Use Git Switch and Git Restore Instead](https://dev.to/zacharylee/ditch-git-checkout-use-git-switch-and-git-restore-instead-51e6)
 <!-- BLOG-POST-LIST:END -->
 
