@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Break-Time: Digital Time Capsules with Pinata](https://dev.to/ansellmaximilian/break-time-digital-time-capsules-with-pinata-3cpa)
-- [How to Enable No GUI Boot in Windows 11?](https://dev.to/winsides/how-to-enable-no-gui-boot-in-windows-11-8dk)
-- [21+ Best Free and Open-Source Icon Library for 2024](https://dev.to/icons/21-best-open-source-icon-libraries-o5n)
-- [Decentralized Firebase Remote Config](https://dev.to/aloksahay/decentralized-firebase-remote-config-237n)
+- [Java vs Python: Which Language to Choose for Your Coding Career?](https://dev.to/abhinowww/java-vs-python-which-language-to-choose-for-your-coding-career-2346)
+- [Four Lessons My First Job as a Software Engineer Taught Me About Coding and Life](https://dev.to/canro91/four-lessons-my-first-job-as-a-software-engineer-taught-me-about-coding-and-life-2em5)
+- [Sybil Attack in the Blockchain Network](https://dev.to/gloriasilver/sybil-attack-in-the-blockchain-network-317h)
+- [Kubernetes for Beginners: Understanding Jobs, Images, and More &lpar;Part 1&rpar;](https://dev.to/moon3485/kubernetes-for-beginners-understanding-jobs-images-and-more-part-1-16bo)
 <!-- BLOG-POST-LIST:END -->
 
