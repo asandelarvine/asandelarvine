@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Value Type va Reference Type &lpar;Advanced&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/value-type-va-reference-type-advanced-2j5l)
-- [My two favorite AI tools &lpar;that I don&#39;t see enough people talking about&rpar;](https://dev.to/wynandpieters/my-two-favorite-ai-tools-that-i-dont-see-enough-people-talking-about-4j9o)
-- [Class va Constructor](https://dev.to/umida5/class-va-constructor-4kfn)
-- [Nullable Types](https://dev.to/firdavs_mukhsimov_9f62550/nullable-types-3d95)
+- [34.Operators &lpar;Bitwise Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/34operators-bitwise-operators-21bj)
+- [33.Operators &lpar;Logical Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/33operators-logical-operators-2i00)
+- [My Hacktoberfest 2024 Experience 🚀](https://dev.to/jagroop2001/my-hacktoberfest-2024-experience-47be)
+- [32.Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/32data-types-gkj)
 <!-- BLOG-POST-LIST:END -->
 
