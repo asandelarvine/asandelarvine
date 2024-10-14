@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 14 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-october-3875)
-- [How to Arrange a cremation services?](https://dev.to/lissa_angel_8edbac2ed6a18/how-to-arrange-a-cremation-services-3pca)
-- [Meme Monday](https://dev.to/ben/meme-monday-1m09)
-- [15. Nullable Types](https://dev.to/asilbek_ibragimov_a0c27cc/15-nullable-types-2ihg)
+- [Intro to Deno vs Node](https://dev.to/busycaesar/intro-to-deno-vs-node-22p0)
+- [The Myth of &#39;Fix Later&#39;: Why Writing the Best Code Now is Essential](https://dev.to/this-is-learning/the-myth-of-fix-later-why-writing-the-best-code-now-is-essential-4p71)
+- [Rails Designer v1.7: Add Smooth Turbo Stream Transitions](https://dev.to/railsdesigner/rails-designer-v17-add-smooth-turbo-stream-transitions-4a58)
+- [How to contribute to opensource that can change your life !](https://dev.to/dhanushnehru/how-to-contribute-to-opensource-that-can-change-your-life--5c2m)
 <!-- BLOG-POST-LIST:END -->
 
