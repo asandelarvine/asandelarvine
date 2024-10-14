@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Time and Space Complexity: A Beginner&#39;s Guide to Big O Notation](https://dev.to/emmanuelayinde/mastering-time-and-space-complexity-a-beginners-guide-to-big-o-notation-33ae)
-- [Navneet kaur](https://dev.to/navneet_dhillon_9ff83d7f8/navneet-kaur-3675)
-- [How Shadcn CLI uses error constants to improve code readability](https://dev.to/thinkthroo/how-shadcn-cli-uses-error-constants-to-improve-code-readability-1177)
-- [Configurando um CI com Fastlane e Github Actions em um projeto iOS](https://dev.to/lys/configurando-um-ci-com-fastlane-e-github-actions-em-um-projeto-ios-7p5)
+- [Hacktoberfest 2024: 2nd Contribution](https://dev.to/arilloid/hacktoberfest-2024-2nd-contribution-1med)
+- [The WordPress, WP Engine and ACF Drama](https://dev.to/matfrana/the-wordpress-wp-engine-and-acf-drama-5h88)
+- [Create a Full Stack Mern Social Media Application - Part 2](https://dev.to/ayushdeveloper/create-a-full-stack-mern-social-media-application-part-2-hl6)
+- [user-defined type in Azure Bicep, an introduction](https://dev.to/omiossec/user-defined-type-in-azure-bicep-an-introduction-10of)
 <!-- BLOG-POST-LIST:END -->
 
