@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Docker&lpar;Explain like I am 6&rpar;](https://dev.to/thekarlesi/what-is-dockerexplain-like-i-am-6-3h84)
-- [O Mercado Atual de Python](https://dev.to/driuzim/o-mercado-atual-de-python-57hf)
-- [O Problema da Cibersegurança Atual](https://dev.to/driuzim/o-problema-da-ciberseguranca-atual-4d81)
-- [Understanding State Variables in React: Why and How](https://dev.to/bhargavditani/understanding-state-variables-in-react-why-and-how-1cc0)
+- [Code, Collaboration, and Contributions: My First Ever Hacktoberfest Experience](https://dev.to/mjk22071998/code-collaboration-and-contributions-my-first-ever-hacktoberfest-experience-2k9e)
+- [Tracetest Tip: Testing Span Order with Assertions](https://dev.to/kubeshop/tracetest-tip-testing-span-order-with-assertions-44jh)
+- [How to use Poetry in Django project](https://dev.to/thehormat/how-to-use-poetry-in-django-project-43n1)
+- [Observability as code for AI apps with New Relic and Pulumi](https://dev.to/newrelic/observability-as-code-for-ai-apps-with-new-relic-and-pulumi-5fgo)
 <!-- BLOG-POST-LIST:END -->
 
