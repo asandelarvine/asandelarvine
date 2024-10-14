@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing declarative infrastructure to developers](https://dev.to/rsiv/bringing-declarative-infrastructure-to-developers-3380)
-- [Records en Java: qué son y cómo utilizarlos](https://dev.to/asjordi/records-en-java-que-son-y-como-utilizarlos-364)
-- [Qworum upgrades the Web platform for better application support](https://dev.to/arma/qworum-upgrades-the-web-platform-for-better-application-support-19ea)
-- [Qworum upgrades the Web platform for better application support](https://dev.to/arma/qworum-upgrades-the-web-platform-for-better-application-support-cad)
+- [Clean Architecture: The Unattainable Ideal – A Parable for Developers](https://dev.to/simprl/clean-architecture-the-unattainable-ideal-a-parable-for-developers-38ih)
+- [fpdf2 latest news](https://dev.to/lucasc/fpdf2-latest-news-7pc)
+- [What :really: is Keda?](https://dev.to/mikkergimenez/what-really-is-keda-4fc2)
+- [The Power of Clear Function Names: A Clean Code Essential](https://dev.to/56_kode/the-power-of-clear-function-names-a-clean-code-essential-12l2)
 <!-- BLOG-POST-LIST:END -->
 
