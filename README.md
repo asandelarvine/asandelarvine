@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Your Custodial Polygon Wallet on AMOY Network Using Kalp Studio](https://dev.to/kalpstudio/creating-your-custodial-polygon-wallet-on-amoy-network-using-kalp-studio-3hc8)
-- [My journey to GitLab](https://dev.to/kitarp29/my-journey-to-gitlab-71n)
-- [Configure Google Cloud Speech-to-Text API](https://dev.to/sujimatts/configure-google-cloud-speech-to-text-api-3p16)
-- [For Loop](https://dev.to/mushtariy/for-loop-nh)
+- [🚀 Your Daily Crypto Job Digest For 14 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-october-3875)
+- [How to Arrange a cremation services?](https://dev.to/lissa_angel_8edbac2ed6a18/how-to-arrange-a-cremation-services-3pca)
+- [Meme Monday](https://dev.to/ben/meme-monday-1m09)
+- [15. Nullable Types](https://dev.to/asilbek_ibragimov_a0c27cc/15-nullable-types-2ihg)
 <!-- BLOG-POST-LIST:END -->
 
