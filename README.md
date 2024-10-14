@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Deno vs Node](https://dev.to/busycaesar/intro-to-deno-vs-node-22p0)
-- [The Myth of &#39;Fix Later&#39;: Why Writing the Best Code Now is Essential](https://dev.to/this-is-learning/the-myth-of-fix-later-why-writing-the-best-code-now-is-essential-4p71)
-- [Rails Designer v1.7: Add Smooth Turbo Stream Transitions](https://dev.to/railsdesigner/rails-designer-v17-add-smooth-turbo-stream-transitions-4a58)
-- [How to contribute to opensource that can change your life !](https://dev.to/dhanushnehru/how-to-contribute-to-opensource-that-can-change-your-life--5c2m)
+- [Bringing declarative infrastructure to developers](https://dev.to/rsiv/bringing-declarative-infrastructure-to-developers-3380)
+- [Records en Java: qué son y cómo utilizarlos](https://dev.to/asjordi/records-en-java-que-son-y-como-utilizarlos-364)
+- [Qworum upgrades the Web platform for better application support](https://dev.to/arma/qworum-upgrades-the-web-platform-for-better-application-support-19ea)
+- [Qworum upgrades the Web platform for better application support](https://dev.to/arma/qworum-upgrades-the-web-platform-for-better-application-support-cad)
 <!-- BLOG-POST-LIST:END -->
 
