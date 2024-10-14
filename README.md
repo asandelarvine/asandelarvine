@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Break-Time: Digital Time Capsules with Pinata](https://dev.to/ansellmaximilian/break-time-digital-time-capsules-with-pinata-3cpa)
+- [How to Enable No GUI Boot in Windows 11?](https://dev.to/winsides/how-to-enable-no-gui-boot-in-windows-11-8dk)
+- [21+ Best Free and Open-Source Icon Library for 2024](https://dev.to/icons/21-best-open-source-icon-libraries-o5n)
 - [Decentralized Firebase Remote Config](https://dev.to/aloksahay/decentralized-firebase-remote-config-237n)
-- [Unlock 10x Productivity: Integrate Salesforce with MuleSoft in 13 Steps](https://dev.to/emilyjohnsonready/unlock-10x-productivity-integrate-salesforce-with-mulesoft-in-13-steps-149p)
-- [Debug Lamba&#39;s faster with Live Lambda Debugger](https://dev.to/thijsdez/debug-lambas-faster-with-live-lambda-debugger-2fa)
-- [Ditch Git Checkout: Use Git Switch and Git Restore Instead](https://dev.to/zacharylee/ditch-git-checkout-use-git-switch-and-git-restore-instead-51e6)
 <!-- BLOG-POST-LIST:END -->
 
