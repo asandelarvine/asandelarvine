@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [34.Operators &lpar;Bitwise Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/34operators-bitwise-operators-21bj)
-- [33.Operators &lpar;Logical Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/33operators-logical-operators-2i00)
-- [My Hacktoberfest 2024 Experience 🚀](https://dev.to/jagroop2001/my-hacktoberfest-2024-experience-47be)
-- [32.Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/32data-types-gkj)
+- [Creating Your Custodial Polygon Wallet on AMOY Network Using Kalp Studio](https://dev.to/kalpstudio/creating-your-custodial-polygon-wallet-on-amoy-network-using-kalp-studio-3hc8)
+- [My journey to GitLab](https://dev.to/kitarp29/my-journey-to-gitlab-71n)
+- [Configure Google Cloud Speech-to-Text API](https://dev.to/sujimatts/configure-google-cloud-speech-to-text-api-3p16)
+- [For Loop](https://dev.to/mushtariy/for-loop-nh)
 <!-- BLOG-POST-LIST:END -->
 
