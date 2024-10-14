@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Multiple Versions of Your React Native App to TestFlight Using Xcode Cloud](https://dev.to/kigbu/how-to-deploy-multiple-versions-of-your-react-native-app-to-testflight-using-xcode-cloud-12ln)
-- [Parallelizing Sorting Algorithms using OpenMP](https://dev.to/sahrohit/parallelizing-sorting-algorithms-using-openmp-1hec)
-- [Escape the Drama: Why HydePHP is Your WordPress Alternative](https://dev.to/codewithcaen/escape-the-drama-why-hydephp-is-your-wordpress-alternative-11nd)
-- [Third Year as Contributor, First Year as Maintainer](https://dev.to/danielcristho/third-year-as-contributor-first-year-as-maintainer-1dfj)
+- [npm Peer Dependencies for the Professional Developer](https://dev.to/tpalmer/npm-peer-dependencies-for-the-professional-developer-36m2)
+- [What is Web Service](https://dev.to/gliimly/what-is-web-service-2d1k)
+- [Building an 🐝 OpenAI SWARM 🔍 Web Scraping and Content Analysis Streamlit Web App with 👥 Multi-Agent Systems](https://dev.to/jadouse5/building-an-openai-swarm-web-scraping-and-content-analysis-streamlit-web-app-with-multi-agent-systems-bl0)
+- [Key Cloud Computing Terms for Beginners](https://dev.to/gervaisamoah/key-cloud-computing-terms-for-beginners-3eln)
 <!-- BLOG-POST-LIST:END -->
 
