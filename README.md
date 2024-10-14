@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memoire: Create Narrated Videos with AI in Minutes!](https://dev.to/omzi/memoire-create-narrated-videos-with-ai-in-minutes-1lkn)
-- [Optimize Docker Builds with Cache Management in GitHub Actions](https://dev.to/cicube/optimize-docker-builds-with-cache-management-in-github-actions-35ba)
-- [Mastering Arrays: 56 Interview Questions for DSA Success](https://dev.to/nozibul_islam_113b1d5334f/mastering-arrays-56-interview-questions-for-dsa-success-2fa2)
-- [Navigating MongoDB Data Structures with DbVisualizer](https://dev.to/dbvismarketing/navigating-mongodb-data-structures-with-dbvisualizer-fee)
+- [Announcing the New Conductor Java Client v4](https://dev.to/orkes/announcing-the-new-conductor-java-client-v4-4p4e)
+- [Advanced Deduplication Using Apache Spark: A Guide for Machine Learning Pipelines](https://dev.to/ajay_tani/advanced-deduplication-using-apache-spark-a-guide-for-machine-learning-pipelines-3ik6)
+- [Artificial Learners, Not Artificial Intelligence: Why Bigger Data Isn&#39;t Enough](https://dev.to/arkadeepnag/artificial-learners-not-artificial-intelligence-why-bigger-data-isnt-enough-1mb)
+- [Top 5 3D tools recommended: easily create your 3D creativity](https://dev.to/wingwing/top-5-3d-tools-recommended-easily-create-your-3d-creativity-3ec9)
 <!-- BLOG-POST-LIST:END -->
 
