@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Data Observability? Guide to Ensuring Data Health and Reliability](https://dev.to/uptrace/what-is-data-observability-guide-to-ensuring-data-health-and-reliability-2160)
-- [SameSite cookies and CSRF explained](https://dev.to/wennan_xu/samesite-cookies-and-csrf-explained-1oip)
-- [Higher-Order Components &lpar;HOCs&rpar; in React](https://dev.to/emhat098/higher-order-components-hocs-in-react-1ge3)
-- [Exploring JavaScript: From Scripting to Object-Oriented Programming](https://dev.to/emhat098/exploring-javascript-from-scripting-to-object-oriented-programming-28dk)
+- [Memoire: Create Narrated Videos with AI in Minutes!](https://dev.to/omzi/memoire-create-narrated-videos-with-ai-in-minutes-1lkn)
+- [Optimize Docker Builds with Cache Management in GitHub Actions](https://dev.to/cicube/optimize-docker-builds-with-cache-management-in-github-actions-35ba)
+- [Mastering Arrays: 56 Interview Questions for DSA Success](https://dev.to/nozibul_islam_113b1d5334f/mastering-arrays-56-interview-questions-for-dsa-success-2fa2)
+- [Navigating MongoDB Data Structures with DbVisualizer](https://dev.to/dbvismarketing/navigating-mongodb-data-structures-with-dbvisualizer-fee)
 <!-- BLOG-POST-LIST:END -->
 
