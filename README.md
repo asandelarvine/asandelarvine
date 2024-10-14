@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024: 2nd Contribution](https://dev.to/arilloid/hacktoberfest-2024-2nd-contribution-1med)
-- [The WordPress, WP Engine and ACF Drama](https://dev.to/matfrana/the-wordpress-wp-engine-and-acf-drama-5h88)
-- [Create a Full Stack Mern Social Media Application - Part 2](https://dev.to/ayushdeveloper/create-a-full-stack-mern-social-media-application-part-2-hl6)
-- [user-defined type in Azure Bicep, an introduction](https://dev.to/omiossec/user-defined-type-in-azure-bicep-an-introduction-10of)
+- [Automate Spaceship Maintenance with the Automatic Spaceship Detection Script Project](https://dev.to/labex/automate-spaceship-maintenance-with-the-automatic-spaceship-detection-script-project-393g)
+- [The Hidden Costs of Poor Code Quality: Why Testing Matters](https://dev.to/lasserafn/the-hidden-costs-of-poor-code-quality-why-testing-matters-4lg0)
+- [Haciendo tu Primer Proyecto con Deno 2.0](https://dev.to/diegoleteliers10/haciendo-tu-primer-proyecto-con-deno-20-1m2)
+- [Embracing Passwordless Authentication: Passkeys and Hanko](https://dev.to/danishali/embracing-passwordless-authentication-passkeys-and-hanko-abl)
 <!-- BLOG-POST-LIST:END -->
 
