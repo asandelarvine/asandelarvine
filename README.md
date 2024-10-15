@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installation of JFrog Artifactory using Docker Engine...!](https://dev.to/madanfmw/installation-of-jfrog-artifactory-using-docker-engine-j0n)
-- [AWS Shared Responsibility Model](https://dev.to/hulk-pham/aws-shared-responsibility-model-202p)
-- [Filament: Delete Attachments when Deleting a Record](https://dev.to/sertxudev/filament-delete-attachments-when-deleting-a-record-1jhl)
-- [The Joy of Astro](https://dev.to/dbozhinovski/the-joy-of-astro-5501)
+- [Use RBAC to protect your gRPC service right on proto definition](https://dev.to/nvcnvn/grpc-and-rbac-right-on-your-proto-file-pnc)
+- [Simplify Citrix Notifications: Integrating with MS Teams](https://dev.to/amalkabraham001/simplify-citrix-notifications-integrating-with-ms-teams-41hn)
+- [Contributing to Other Open Source Projects - Week 2](https://dev.to/bregwin/contributing-to-other-open-source-projects-week-2-p94)
+- [Understanding the Internet of Things &lpar;IoT&rpar;](https://dev.to/himanshudevgupta/understanding-the-internet-of-things-iot-21k1)
 <!-- BLOG-POST-LIST:END -->
 
