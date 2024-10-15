@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping webpage header text with Python](https://dev.to/eva_dev/scraping-webpage-header-text-with-python-oko)
-- [Microsoft está jogando pesado com Web Components e você deveria prestar atenção!](https://dev.to/demgoncalves/microsoft-esta-jogando-pesado-com-web-components-e-voce-deveria-prestar-atencao-2gc3)
-- [Creating a CRUD Application with PHP, MySQL, and Lithe](https://dev.to/lithephp/creating-a-crud-application-with-php-mysql-and-lithe-4mnf)
-- [From Lambda to Fargate: How We Optimized Node.js Performance with the Right Task Specs](https://dev.to/suzuki0430/from-lambda-to-fargate-how-we-optimized-nodejs-performance-with-the-right-task-specs-3jb5)
+- [scrape-it - contributor](https://dev.to/fadingna/scrape-it-contributor-1pn7)
+- [用程式控制 Arduino UNO R4 WiFi 的 TX/RX 指示燈](https://dev.to/codemee/yong-cheng-shi-kong-zhi-arduino-uno-r4-wifi-de-txrx-zhi-shi-deng-3444)
+- [Build a Free AI Image Generator with ReactJS](https://dev.to/nhd2106/image-generator-app-for-free-2p0d)
+- [JSConf Chile 2024: El evento imperdible para la comunidad JavaScript en Chile](https://dev.to/josegermanx/jsconf-chile-2024-el-evento-imperdible-para-la-comunidad-javascript-en-chile-4h7e)
 <!-- BLOG-POST-LIST:END -->
 
