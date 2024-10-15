@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use RBAC to protect your gRPC service right on proto definition](https://dev.to/nvcnvn/grpc-and-rbac-right-on-your-proto-file-pnc)
-- [Simplify Citrix Notifications: Integrating with MS Teams](https://dev.to/amalkabraham001/simplify-citrix-notifications-integrating-with-ms-teams-41hn)
-- [Contributing to Other Open Source Projects - Week 2](https://dev.to/bregwin/contributing-to-other-open-source-projects-week-2-p94)
-- [Understanding the Internet of Things &lpar;IoT&rpar;](https://dev.to/himanshudevgupta/understanding-the-internet-of-things-iot-21k1)
+- [How to use forwardRef in React](https://dev.to/logrocket/how-to-use-forwardref-in-react-2c4p)
+- [Power BI Remote Jobs: How to Find and Succeed in Power BI Remote Roles](https://dev.to/jit_data/power-bi-remote-jobs-how-to-find-and-succeed-in-power-bi-remote-roles-24do)
+- [Format on save for ERB and Ruby files in Zed IDE](https://dev.to/mrispoli24/format-on-save-for-erb-and-ruby-files-in-zed-ide-568g)
+- [OpenSauced on Azure: Lessons learned from a near-zero downtime migration](https://dev.to/opensauced/opensauced-on-azure-lessons-learned-from-a-near-zero-downtime-migration-40b9)
 <!-- BLOG-POST-LIST:END -->
 
