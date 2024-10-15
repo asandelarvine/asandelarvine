@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#74 - Filter by Maximum Or Minimum Value within A Group &lpar;Find out One for Each Group&rpar;](https://dev.to/judith677/74-filter-by-maximum-or-minimum-value-within-a-group-find-out-one-for-each-group-2a6g)
-- [Blog Post: Adding TOML Config File Support in an Open-Source Project](https://dev.to/inderpreet/blog-post-adding-toml-config-file-support-in-an-open-source-project-161k)
-- [Dive Into the World of Programming: 7 Free Courses to Enhance Your Skills](https://dev.to/getvm/dive-into-the-world-of-programming-7-free-courses-to-enhance-your-skills-1863)
-- [Gamedev Math: Not Just A Tool But A Necessity](https://dev.to/frodo_alsaka/gamedev-math-not-just-a-tool-but-a-necessity-eok)
+- [Adopting a Mentality of Continuous Professional Development in Front End Development](https://dev.to/rohitkhokhar/adopting-a-mentality-of-continuous-professional-development-in-front-end-development-3p08)
+- [&lt;/&gt; htmx in 5 minutes](https://dev.to/pallat/-htmx-in-5-minutes-2l57)
+- [Are you using the custom hooks in React right?](https://dev.to/ragul_murugesan/are-you-using-the-custom-hooks-in-react-right-2051)
+- [Understanding White Box Testing: An In-Depth Guide](https://dev.to/keploy/understanding-white-box-testing-an-in-depth-guide-4mj8)
 <!-- BLOG-POST-LIST:END -->
 
