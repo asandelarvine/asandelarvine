@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From ETL and ELT to Reverse ETL](https://dev.to/luminousmen/from-etl-and-elt-to-reverse-etl-3mke)
-- [Importance of Regular Network Vulnerability Assessments](https://dev.to/shivamchamoli18/importance-of-regular-network-vulnerability-assessments-ado)
-- [C# Advanced:Extension Methods Demo](https://dev.to/moh_moh701/c-advancedextension-methods-demo-35hi)
-- [Ai, what is the Ai you use most?](https://dev.to/vishalprogrammer/ai-what-is-the-ai-you-use-most-5fe7)
+- [🚀 Your Daily Crypto Job Digest For 15 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-october-42ok)
+- [Common Java Libraries and Frameworks you Should Try](https://dev.to/isaactony/a-comprehensive-guide-to-java-collections-libraries-guava-apache-commons-eclipse-collections-and-more-4bca)
+- [Token Bucket Algorithm: A Comprehensive Guide](https://dev.to/keploy/token-bucket-algorithm-a-comprehensive-guide-33oi)
+- [Java Spring Boot for Beginners: Part 1: Introduction and project setup](https://dev.to/alexander_the_dev/java-spring-boot-for-beginners-part-2-introduction-and-project-setup-2g6n)
 <!-- BLOG-POST-LIST:END -->
 
