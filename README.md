@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create React Component with consistent user-configurable HTML id prop](https://dev.to/morewings/how-to-create-react-component-with-consistent-user-configurable-html-id-prop-5h7p)
-- [The winner of WordPress vs WP Engine will be Microsoft](https://dev.to/tylerlwsmith/the-winner-of-wordpress-vs-wp-engine-will-be-microsoft-427b)
-- [SQL Queries Execution Order](https://dev.to/jignect_technologies/sql-queries-execution-order-29ae)
-- [Beyond Traditional Testing: Addressing the Challenges of Non-Deterministic Software](https://dev.to/aws/beyond-traditional-testing-addressing-the-challenges-of-non-deterministic-software-583a)
+- [From ETL and ELT to Reverse ETL](https://dev.to/luminousmen/from-etl-and-elt-to-reverse-etl-3mke)
+- [Importance of Regular Network Vulnerability Assessments](https://dev.to/shivamchamoli18/importance-of-regular-network-vulnerability-assessments-ado)
+- [C# Advanced:Extension Methods Demo](https://dev.to/moh_moh701/c-advancedextension-methods-demo-35hi)
+- [Ai, what is the Ai you use most?](https://dev.to/vishalprogrammer/ai-what-is-the-ai-you-use-most-5fe7)
 <!-- BLOG-POST-LIST:END -->
 
