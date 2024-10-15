@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OPEN API Usage Tutorial for Open Source WAF SafeLine](https://dev.to/carrie_luo1/open-api-usage-tutorial-for-open-source-waf-safeline-387j)
-- [Getting positions of members according to primary key values #eg58](https://dev.to/esproc_spl/getting-positions-of-members-according-to-primary-key-values-eg58-3773)
-- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-113h)
-- [Mraza](https://dev.to/raza527/mraza-3hbg)
+- [Join Quash MAX for Hacktoberfest 2024!](https://dev.to/helloquash/join-quash-max-for-hacktoberfest-2024-2hf8)
+- [Create a Hugo Theme from Scratch - IV](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iv-2nhf)
+- [Create a Hugo Theme from Scratch - I](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-i-46j7)
+- [Create a Hugo Theme from Scratch - III](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iii-5fm0)
 <!-- BLOG-POST-LIST:END -->
 
