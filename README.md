@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 15 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-october-42ok)
-- [Common Java Libraries and Frameworks you Should Try](https://dev.to/isaactony/a-comprehensive-guide-to-java-collections-libraries-guava-apache-commons-eclipse-collections-and-more-4bca)
-- [Token Bucket Algorithm: A Comprehensive Guide](https://dev.to/keploy/token-bucket-algorithm-a-comprehensive-guide-33oi)
-- [Java Spring Boot for Beginners: Part 1: Introduction and project setup](https://dev.to/alexander_the_dev/java-spring-boot-for-beginners-part-2-introduction-and-project-setup-2g6n)
+- [Cassandra vs. MongoDB: Choosing the Right NoSQL Database](https://dev.to/ksolves/cassandra-vs-mongodb-choosing-the-right-nosql-database-1ood)
+- [Run Next.js in AWS Lambda](https://dev.to/cnuss/run-nextjs-in-aws-lambda-5fca)
+- [Wait for Services to Start in Docker Compose: wait-for-it vs Healthcheck](https://dev.to/welel/wait-for-services-to-start-in-docker-compose-wait-for-it-vs-healthcheck-127d)
+- [Realtime reliability: How to ensure exactly-once delivery in pub/sub systems](https://dev.to/ably/realtime-reliability-how-to-ensure-exactly-once-delivery-in-pubsub-systems-1ndh)
 <!-- BLOG-POST-LIST:END -->
 
