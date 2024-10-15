@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Quash MAX for Hacktoberfest 2024!](https://dev.to/helloquash/join-quash-max-for-hacktoberfest-2024-2hf8)
-- [Create a Hugo Theme from Scratch - IV](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iv-2nhf)
-- [Create a Hugo Theme from Scratch - I](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-i-46j7)
-- [Create a Hugo Theme from Scratch - III](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iii-5fm0)
+- [How to create React Component with consistent user-configurable HTML id prop](https://dev.to/morewings/how-to-create-react-component-with-consistent-user-configurable-html-id-prop-5h7p)
+- [The winner of WordPress vs WP Engine will be Microsoft](https://dev.to/tylerlwsmith/the-winner-of-wordpress-vs-wp-engine-will-be-microsoft-427b)
+- [SQL Queries Execution Order](https://dev.to/jignect_technologies/sql-queries-execution-order-29ae)
+- [Beyond Traditional Testing: Addressing the Challenges of Non-Deterministic Software](https://dev.to/aws/beyond-traditional-testing-addressing-the-challenges-of-non-deterministic-software-583a)
 <!-- BLOG-POST-LIST:END -->
 
