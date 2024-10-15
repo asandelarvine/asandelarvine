@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cassandra vs. MongoDB: Choosing the Right NoSQL Database](https://dev.to/ksolves/cassandra-vs-mongodb-choosing-the-right-nosql-database-1ood)
-- [Run Next.js in AWS Lambda](https://dev.to/cnuss/run-nextjs-in-aws-lambda-5fca)
-- [Wait for Services to Start in Docker Compose: wait-for-it vs Healthcheck](https://dev.to/welel/wait-for-services-to-start-in-docker-compose-wait-for-it-vs-healthcheck-127d)
-- [Realtime reliability: How to ensure exactly-once delivery in pub/sub systems](https://dev.to/ably/realtime-reliability-how-to-ensure-exactly-once-delivery-in-pubsub-systems-1ndh)
+- [Decorators in Python](https://dev.to/hakeem/decorators-in-python-6ck)
+- [Revising xlsx file](https://dev.to/lingjun_jiang_c2fc6902f7e/revising-xlsx-file-4hig)
+- [Learning the basics of Osquery](https://dev.to/ognard/learning-the-basics-of-osquery-lb7)
+- [SQL Data Exploration for BoardGameGeek datasets](https://dev.to/ognard/sql-data-exploration-for-boardgamegeek-datasets-5h55)
 <!-- BLOG-POST-LIST:END -->
 
