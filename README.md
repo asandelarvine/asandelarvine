@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2mf)
-- [JavaScript Event Loop: How It Works and Why It Matters for Performance](https://dev.to/shafayeat/javascript-event-loop-how-it-works-and-why-it-matters-for-performance-2am6)
-- [Introducing HIP-850: Enhancing Supply Key Functionality for NFT Updates in Treasury Account](https://dev.to/hedera/introducing-hip-850-enhancing-supply-key-functionality-for-nft-updates-in-treasury-account-2di5)
-- [AnalogJS 🤝 Zerops: Official Deployment Partners](https://dev.to/analogjs/analogjs-zerops-official-deployment-partners-1ml0)
+- [Cracking the Coding Interview: Part 3 – The Two Pointer Technique](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-3-the-two-pointer-technique-4992)
+- [🔔 Starting My Dev Adventure : Let&#39;s Connect! 🙋🏻](https://dev.to/iamsami/starting-my-dev-adventure-lets-connect-12dl)
+- [The perfect blend: Coffee and Cyber](https://dev.to/minab/the-perfect-blend-coffee-and-cyber-dkd)
+- [F.A.I.L — First action in learning](https://dev.to/ajparadith/fail-first-action-in-learning-boi)
 <!-- BLOG-POST-LIST:END -->
 
