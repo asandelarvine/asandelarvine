@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [scrape-it - contributor](https://dev.to/fadingna/scrape-it-contributor-1pn7)
-- [用程式控制 Arduino UNO R4 WiFi 的 TX/RX 指示燈](https://dev.to/codemee/yong-cheng-shi-kong-zhi-arduino-uno-r4-wifi-de-txrx-zhi-shi-deng-3444)
-- [Build a Free AI Image Generator with ReactJS](https://dev.to/nhd2106/image-generator-app-for-free-2p0d)
-- [JSConf Chile 2024: El evento imperdible para la comunidad JavaScript en Chile](https://dev.to/josegermanx/jsconf-chile-2024-el-evento-imperdible-para-la-comunidad-javascript-en-chile-4h7e)
+- [#74 - Filter by Maximum Or Minimum Value within A Group &lpar;Find out One for Each Group&rpar;](https://dev.to/judith677/74-filter-by-maximum-or-minimum-value-within-a-group-find-out-one-for-each-group-2a6g)
+- [Blog Post: Adding TOML Config File Support in an Open-Source Project](https://dev.to/inderpreet/blog-post-adding-toml-config-file-support-in-an-open-source-project-161k)
+- [Dive Into the World of Programming: 7 Free Courses to Enhance Your Skills](https://dev.to/getvm/dive-into-the-world-of-programming-7-free-courses-to-enhance-your-skills-1863)
+- [Gamedev Math: Not Just A Tool But A Necessity](https://dev.to/frodo_alsaka/gamedev-math-not-just-a-tool-but-a-necessity-eok)
 <!-- BLOG-POST-LIST:END -->
 
