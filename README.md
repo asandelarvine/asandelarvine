@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [string vs String](https://dev.to/theteabagcoder/string-vs-string-24p)
-- [Streamline Your Project Workflow Using Swift with Sake: A Practical Guide](https://dev.to/kattouf/streamline-your-project-workflow-using-swift-with-sake-a-practical-guide-jgl)
-- [AWS SysOps Administrator: A Complete Guide to Cloud Management](https://dev.to/s3cloudhub/aws-sysops-administrator-a-complete-guide-to-cloud-management-nmn)
-- [🛋️ Folder Structure Of Laravel &amp; Its Lightweight! Worthy To Know~](https://dev.to/__4ldyfwkymhmd/folder-structure-of-laravel-its-lightweight-worthy-to-know-5066)
+- [Fixing “Cannot Use Import Statement Outside a Module” Error](https://dev.to/codeparrot/fixing-cannot-use-import-statement-outside-a-module-error-43ch)
+- [h](https://dev.to/1_d14fbe258c7f74ddd111d7/h-27ki)
+- [Django | Model-View-Template &lpar;MVT&rpar;](https://dev.to/mrcaption49/django-model-view-template-mvt-5h5p)
+- [How to pass an Array of Structs in Bigquery&#39;s parameterized queries](https://dev.to/stack-labs/how-to-pass-an-array-of-structs-in-bigquerys-parameterized-queries-39nm)
 <!-- BLOG-POST-LIST:END -->
 
