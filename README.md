@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use forwardRef in React](https://dev.to/logrocket/how-to-use-forwardref-in-react-2c4p)
-- [Power BI Remote Jobs: How to Find and Succeed in Power BI Remote Roles](https://dev.to/jit_data/power-bi-remote-jobs-how-to-find-and-succeed-in-power-bi-remote-roles-24do)
-- [Format on save for ERB and Ruby files in Zed IDE](https://dev.to/mrispoli24/format-on-save-for-erb-and-ruby-files-in-zed-ide-568g)
-- [OpenSauced on Azure: Lessons learned from a near-zero downtime migration](https://dev.to/opensauced/opensauced-on-azure-lessons-learned-from-a-near-zero-downtime-migration-40b9)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2mf)
+- [JavaScript Event Loop: How It Works and Why It Matters for Performance](https://dev.to/shafayeat/javascript-event-loop-how-it-works-and-why-it-matters-for-performance-2am6)
+- [Introducing HIP-850: Enhancing Supply Key Functionality for NFT Updates in Treasury Account](https://dev.to/hedera/introducing-hip-850-enhancing-supply-key-functionality-for-nft-updates-in-treasury-account-2di5)
+- [AnalogJS 🤝 Zerops: Official Deployment Partners](https://dev.to/analogjs/analogjs-zerops-official-deployment-partners-1ml0)
 <!-- BLOG-POST-LIST:END -->
 
