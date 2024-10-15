@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decorators in Python](https://dev.to/hakeem/decorators-in-python-6ck)
-- [Revising xlsx file](https://dev.to/lingjun_jiang_c2fc6902f7e/revising-xlsx-file-4hig)
-- [Learning the basics of Osquery](https://dev.to/ognard/learning-the-basics-of-osquery-lb7)
-- [SQL Data Exploration for BoardGameGeek datasets](https://dev.to/ognard/sql-data-exploration-for-boardgamegeek-datasets-5h55)
+- [Installation of JFrog Artifactory using Docker Engine...!](https://dev.to/madanfmw/installation-of-jfrog-artifactory-using-docker-engine-j0n)
+- [AWS Shared Responsibility Model](https://dev.to/hulk-pham/aws-shared-responsibility-model-202p)
+- [Filament: Delete Attachments when Deleting a Record](https://dev.to/sertxudev/filament-delete-attachments-when-deleting-a-record-1jhl)
+- [The Joy of Astro](https://dev.to/dbozhinovski/the-joy-of-astro-5501)
 <!-- BLOG-POST-LIST:END -->
 
