@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing “Cannot Use Import Statement Outside a Module” Error](https://dev.to/codeparrot/fixing-cannot-use-import-statement-outside-a-module-error-43ch)
-- [h](https://dev.to/1_d14fbe258c7f74ddd111d7/h-27ki)
-- [Django | Model-View-Template &lpar;MVT&rpar;](https://dev.to/mrcaption49/django-model-view-template-mvt-5h5p)
-- [How to pass an Array of Structs in Bigquery&#39;s parameterized queries](https://dev.to/stack-labs/how-to-pass-an-array-of-structs-in-bigquerys-parameterized-queries-39nm)
+- [OPEN API Usage Tutorial for Open Source WAF SafeLine](https://dev.to/carrie_luo1/open-api-usage-tutorial-for-open-source-waf-safeline-387j)
+- [Getting positions of members according to primary key values #eg58](https://dev.to/esproc_spl/getting-positions-of-members-according-to-primary-key-values-eg58-3773)
+- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-113h)
+- [Mraza](https://dev.to/raza527/mraza-3hbg)
 <!-- BLOG-POST-LIST:END -->
 
