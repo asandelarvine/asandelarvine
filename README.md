@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Flashlight in Jetpack Compose](https://dev.to/elozino/build-a-flashlight-in-jetpack-compose-473n)
-- [A Dangerous Power Play: Matt Mullenweg&#39;s Latest Move Threatens To Totally Fork Him Over](https://dev.to/skullzarmy/a-dangerous-power-play-matt-mullenwegs-latest-move-threatens-to-totally-fork-him-over-4806)
-- [Is Redux Dead? Why I Kicked Redux Out of Our SaaS App](https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g)
-- [HTML/CSS Share](https://dev.to/davidalsh/htmlcss-share-1gon)
+- [Observabilidade em Sistemas de Software: Práticas, Técnicas e Ferramentas](https://dev.to/womakerscode/observabilidade-em-sistemas-de-software-praticas-tecnicas-e-ferramentas-2g5n)
+- [The Role of Commercial Cleaners in AI-Enhanced Hygiene Management](https://dev.to/luke_leech_e6bebf0dcc50d6/the-role-of-commercial-cleaners-in-ai-enhanced-hygiene-management-54ma)
+- [Issue 66 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-66-of-aws-cloud-security-weekly-4h7h)
+- [Automate Stopping and Starting EC2 instances on AWS](https://dev.to/sammy_cloud/automate-stopping-and-starting-ec2-instances-on-aws-490g)
 <!-- BLOG-POST-LIST:END -->
 
