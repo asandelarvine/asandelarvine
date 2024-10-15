@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoreo de Costos de AWS Lambdas con Terraform](https://dev.to/aws-espanol/monitoreo-de-costos-de-aws-lambdas-con-terraform-43oa)
-- [Reflecting on Code-First vs. Database-First Approaches in Backend Development](https://dev.to/stringintech/reflecting-on-code-first-vs-database-first-approaches-in-backend-development-3ohp)
-- [Isn&#39;t it strange that being in a non-responsive state gives authority to someone else to take life and death decisions?](https://dev.to/anubhav_/isnt-it-strange-that-being-in-a-non-responsive-state-gives-authority-to-someone-else-to-take-life-and-death-decisions-128e)
-- [Making your First Project with Deno 2.0](https://dev.to/diegoleteliers10/making-your-first-project-with-deno-20-220d)
+- [Improving C# Application Performance: Profiling and Optimization Techniques](https://dev.to/utcli-solutions/improving-c-application-performance-profiling-and-optimization-techniques-562b)
+- [Task 6: Database Design](https://dev.to/ndungu_jeffersonmarira_/task-6-database-design-2kj1)
+- [What Does the New Ubuntu 24.10 Release Have in Store for You?](https://dev.to/utcli-solutions/what-does-the-new-ubuntu-2410-release-have-in-store-for-you-55c6)
+- [create-next-app validates your app name using this package](https://dev.to/thinkthroo/create-next-app-validates-your-app-name-using-this-package-3kpg)
 <!-- BLOG-POST-LIST:END -->
 
