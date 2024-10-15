@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into Python Programming with This Comprehensive Course! 🐍](https://dev.to/getvm/dive-into-python-programming-with-this-comprehensive-course-3cei)
-- [Building a Strong Developer Community: Why It Matters](https://dev.to/rashmihc060195/building-a-strong-developer-community-why-it-matters-3m9o)
-- [Optimizing JavaScript with Maps, Sets, and Weak References](https://dev.to/shafayeat/optimizing-javascript-with-maps-sets-and-weak-references-i3g)
-- [Just do it. Now!](https://dev.to/gabrieltoma/just-do-it-now-20am)
+- [string vs String](https://dev.to/theteabagcoder/string-vs-string-24p)
+- [Streamline Your Project Workflow Using Swift with Sake: A Practical Guide](https://dev.to/kattouf/streamline-your-project-workflow-using-swift-with-sake-a-practical-guide-jgl)
+- [AWS SysOps Administrator: A Complete Guide to Cloud Management](https://dev.to/s3cloudhub/aws-sysops-administrator-a-complete-guide-to-cloud-management-nmn)
+- [🛋️ Folder Structure Of Laravel &amp; Its Lightweight! Worthy To Know~](https://dev.to/__4ldyfwkymhmd/folder-structure-of-laravel-its-lightweight-worthy-to-know-5066)
 <!-- BLOG-POST-LIST:END -->
 
