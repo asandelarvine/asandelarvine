@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving C# Application Performance: Profiling and Optimization Techniques](https://dev.to/utcli-solutions/improving-c-application-performance-profiling-and-optimization-techniques-562b)
-- [Task 6: Database Design](https://dev.to/ndungu_jeffersonmarira_/task-6-database-design-2kj1)
-- [What Does the New Ubuntu 24.10 Release Have in Store for You?](https://dev.to/utcli-solutions/what-does-the-new-ubuntu-2410-release-have-in-store-for-you-55c6)
-- [create-next-app validates your app name using this package](https://dev.to/thinkthroo/create-next-app-validates-your-app-name-using-this-package-3kpg)
+- [Build a Flashlight in Jetpack Compose](https://dev.to/elozino/build-a-flashlight-in-jetpack-compose-473n)
+- [A Dangerous Power Play: Matt Mullenweg&#39;s Latest Move Threatens To Totally Fork Him Over](https://dev.to/skullzarmy/a-dangerous-power-play-matt-mullenwegs-latest-move-threatens-to-totally-fork-him-over-4806)
+- [Is Redux Dead? Why I Kicked Redux Out of Our SaaS App](https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g)
+- [HTML/CSS Share](https://dev.to/davidalsh/htmlcss-share-1gon)
 <!-- BLOG-POST-LIST:END -->
 
