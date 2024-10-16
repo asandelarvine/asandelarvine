@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Clean Code: KISS &lpar; Keep It Simple, Stupid&rpar;Principle](https://dev.to/moh_moh701/c-clean-code-kiss-keep-it-simple-stupidprinciple-5bin)
-- [Implementing similarity search algotithms](https://dev.to/echo9k/implementing-similarity-search-algotithms-4hh9)
-- [JsTraceToIX - Debugging React, Vue, and Node.js just got easier! – no need to clutter your codebase with `console.log`!](https://dev.to/a-bentofreire/jstracetoix-debugging-react-vue-and-nodejs-just-got-easier-no-need-to-clutter-your-codebase-with-consolelog-2h2b)
-- [AWS Artifact for Security Compliance Reports](https://dev.to/ikoh_sylva/aws-artifact-for-security-compliance-reports-29ak)
+- [Separando o Deploy do Release - Como Entregar Valor com Segurança e Flexibilidade](https://dev.to/felipefreitasffs/separando-o-deploy-do-release-como-entregar-valor-com-seguranca-e-flexibilidade-1176)
+- [Day003 - Random posts under TIL](https://dev.to/sarvsav/day003-random-posts-under-til-3fh7)
+- [JavaScript Quick Bits: Bad Comparisons](https://dev.to/oculus42/javascript-quick-bits-bad-comparison-2f4m)
+- [Ng-News 24/41: effect&lpar;&rpar;&#39;s Future, Angular 💔 Playwright CT](https://dev.to/this-is-angular/ng-news-2441-effects-future-angular-playwright-ct-16k5)
 <!-- BLOG-POST-LIST:END -->
 
