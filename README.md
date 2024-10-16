@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Observabilidade em Sistemas de Software: Práticas, Técnicas e Ferramentas](https://dev.to/womakerscode/observabilidade-em-sistemas-de-software-praticas-tecnicas-e-ferramentas-2g5n)
-- [The Role of Commercial Cleaners in AI-Enhanced Hygiene Management](https://dev.to/luke_leech_e6bebf0dcc50d6/the-role-of-commercial-cleaners-in-ai-enhanced-hygiene-management-54ma)
-- [Issue 66 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-66-of-aws-cloud-security-weekly-4h7h)
-- [Automate Stopping and Starting EC2 instances on AWS](https://dev.to/sammy_cloud/automate-stopping-and-starting-ec2-instances-on-aws-490g)
+- [Prevent accidental unregistration of AMI](https://dev.to/aws-builders/prevent-accidental-unregistration-of-ami-d02)
+- [TIL: Search Optimized Database &lpar;full-text search&rpar; for System Design](https://dev.to/dleedev365/til-search-optimized-database-full-text-search-for-system-design-5db1)
+- [1405. Longest Happy String](https://dev.to/mdarifulhaque/1405-longest-happy-string-9mg)
+- [AMIを誤って登録解除できないようにする](https://dev.to/aws-builders/amiwowu-tutedeng-lu-jie-chu-dekinaiyounisuru-48m7)
 <!-- BLOG-POST-LIST:END -->
 
