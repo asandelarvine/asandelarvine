@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Building an Online Presence as a Developer](https://dev.to/s1lvax/the-importance-of-building-an-online-presence-as-a-developer-4n25)
-- [The DevOps Prime Directive: Optimizing Your Environment for ADHD Success](https://dev.to/sudh33ra/the-devops-prime-directive-optimizing-your-environment-for-adhd-success-cll)
-- [Recommended Software for Mac that You cannot Miss](https://dev.to/angelaswift/recommended-software-for-mac-that-you-cannot-miss-2l8i)
-- [Zenml for beautiful beautiful orchestration pt 3: Mlflow Aliases/Tags](https://dev.to/afrologicinsect/zenml-for-beautiful-beautiful-orchestration-pt-3-mlflow-aliasestags-3ha6)
+- [Fuzzy business: shadowing ssh](https://dev.to/moopet/fuzzy-business-shadowing-ssh-21pb)
+- [Bakery Processing Plant Setup: Detailed Project Report 2024 by IMARC Group](https://dev.to/joegoldberg02/bakery-processing-plant-setup-detailed-project-report-2024-by-imarc-group-4n53)
+- [Generative AI with JavaScript FREE course](https://dev.to/azure/generative-ai-with-javascript-free-course-g04)
+- [Quick Guide: Set Up Golang on Your Ubuntu and Debian System](https://dev.to/dushmanta/quick-guide-set-up-golang-on-your-ubuntu-and-debian-system-2jn5)
 <!-- BLOG-POST-LIST:END -->
 
