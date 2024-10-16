@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Atlas](https://dev.to/vjygour/mongodb-atlas-24nk)
-- [Serverless Jenkins: ECS on Fargate - Simple Setup](https://dev.to/jay_watson_6587c40fd413dc/serverless-jenkins-ecs-on-fargate-simple-setup-48bi)
-- [How to Find Developer for Equity: A Comprehensive Guide](https://dev.to/shelli/how-to-find-developer-for-equity-a-comprehensive-guide-3oi6)
-- [How to Improve Your Website&#39;s SEO Ranking Without Using Paid Tools](https://dev.to/juddiy/how-to-improve-your-websites-seo-ranking-without-using-paid-tools-2k9b)
+- [Top 8 JavaScript Debugging Tools for Front-End Development](https://dev.to/apilover/top-8-javascript-debugging-tools-for-front-end-development-3j0b)
+- [Create a Slack Bot with NodeJS and Slack Bolt API](https://dev.to/olibhiaghosh/create-a-slack-bot-with-nodejs-and-slack-bolt-api-13hm)
+- [17 Must-know React Projects for Developers 👩‍💻 🔥](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2)
+- [TCP1P CTF INTERNATIONAL 2024 — OSINT Writeup](https://dev.to/hitter/tcp1p-ctf-international-2024-osint-writeup-lam)
 <!-- BLOG-POST-LIST:END -->
 
