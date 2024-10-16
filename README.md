@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fuzzy business: shadowing ssh](https://dev.to/moopet/fuzzy-business-shadowing-ssh-21pb)
-- [Bakery Processing Plant Setup: Detailed Project Report 2024 by IMARC Group](https://dev.to/joegoldberg02/bakery-processing-plant-setup-detailed-project-report-2024-by-imarc-group-4n53)
-- [Generative AI with JavaScript FREE course](https://dev.to/azure/generative-ai-with-javascript-free-course-g04)
-- [Quick Guide: Set Up Golang on Your Ubuntu and Debian System](https://dev.to/dushmanta/quick-guide-set-up-golang-on-your-ubuntu-and-debian-system-2jn5)
+- [MongoDB Atlas](https://dev.to/vjygour/mongodb-atlas-24nk)
+- [Serverless Jenkins: ECS on Fargate - Simple Setup](https://dev.to/jay_watson_6587c40fd413dc/serverless-jenkins-ecs-on-fargate-simple-setup-48bi)
+- [How to Find Developer for Equity: A Comprehensive Guide](https://dev.to/shelli/how-to-find-developer-for-equity-a-comprehensive-guide-3oi6)
+- [How to Improve Your Website&#39;s SEO Ranking Without Using Paid Tools](https://dev.to/juddiy/how-to-improve-your-websites-seo-ranking-without-using-paid-tools-2k9b)
 <!-- BLOG-POST-LIST:END -->
 
