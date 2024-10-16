@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Principle of Least Privilege? A Comprehensive Guide](https://dev.to/bytehide/what-is-the-principle-of-least-privilege-a-comprehensive-guide-2mhi)
-- [Using the built-in SQLite module in Node.js](https://dev.to/logrocket/using-the-built-in-sqlite-module-in-nodejs-2e1j)
-- [Closures in python](https://dev.to/hakeem/closures-in-python-2fei)
-- [CodeBehind 3.7 Released](https://dev.to/elanatframework/codebehind-37-released-5b59)
+- [Hacktoberfest Machine Learning Projects for JS/TS Developers 🎃](https://dev.to/safdarali/hacktoberfest-machine-learning-projects-for-jsts-developers-c8)
+- [Records vs Clases en Java](https://dev.to/asjordi/records-vs-clases-en-java-1bb6)
+- [🤖 Supercharge Productivity With AI](https://dev.to/sammytran/supercharge-productivity-with-ai-49l6)
+- [Clear screen at MariaDB CLI](https://dev.to/sertxudev/clear-screen-at-mariadb-cli-17ek)
 <!-- BLOG-POST-LIST:END -->
 
