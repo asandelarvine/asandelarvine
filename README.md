@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest Machine Learning Projects for JS/TS Developers 🎃](https://dev.to/safdarali/hacktoberfest-machine-learning-projects-for-jsts-developers-c8)
-- [Records vs Clases en Java](https://dev.to/asjordi/records-vs-clases-en-java-1bb6)
-- [🤖 Supercharge Productivity With AI](https://dev.to/sammytran/supercharge-productivity-with-ai-49l6)
-- [Clear screen at MariaDB CLI](https://dev.to/sertxudev/clear-screen-at-mariadb-cli-17ek)
+- [JavaScript for Rails Developer Book](https://dev.to/railsdesigner/javascript-for-rails-developer-book-3f0e)
+- [Understanding Hoisting in JavaScript: A Comprehensive Guide](https://dev.to/nishanthank/understanding-hoisting-in-javascript-a-comprehensive-guide-5bic)
+- [White Label Financial Apps: Unlocking New Opportunities for Businesses](https://dev.to/kzier/white-label-financial-apps-unlocking-new-opportunities-for-businesses-25mj)
+- [Key insights I gained from reading &quot;Clean Code&quot;](https://dev.to/patfinder/key-insights-i-gained-from-reading-clean-code-4hnc)
 <!-- BLOG-POST-LIST:END -->
 
