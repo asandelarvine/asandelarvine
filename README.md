@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State update methods in React: Performance](https://dev.to/sonaykara/state-update-methods-in-react-performance-4c85)
-- [🎮No-Code Game Development Engine | Game development without Coding 👌](https://dev.to/amir_hassan_60/no-code-game-development-engine-game-development-without-coding-1kg1)
-- [Cursor has a problem, and it&#39;s not just the price](https://dev.to/watzon/cursor-has-a-problem-and-its-not-just-the-price-4cpl)
-- [Mastering Data Analytics: The Ultimate Guide to Data Analysis](https://dev.to/clement_mwai/mastering-data-analytics-the-ultimate-guide-to-data-analysis-5dk1)
+- [From Intern to Frontend Developer to Selling a Company in College](https://dev.to/aadixc0de/from-intern-to-frontend-developer-to-selling-a-company-in-college-16if)
+- [querySelector vs querySelectorAll in javascript](https://dev.to/sagar7170/queryselector-vs-queryselectorall-in-javascript-53kd)
+- [LabEx Trending: MySQL Database Administration Essentials and More](https://dev.to/labex/labex-trending-mysql-database-administration-essentials-and-more-1akp)
+- [Durable writes](https://dev.to/misachi/durable-writes-4j5f)
 <!-- BLOG-POST-LIST:END -->
 
