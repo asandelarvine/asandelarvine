@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript for Rails Developer Book](https://dev.to/railsdesigner/javascript-for-rails-developer-book-3f0e)
-- [Understanding Hoisting in JavaScript: A Comprehensive Guide](https://dev.to/nishanthank/understanding-hoisting-in-javascript-a-comprehensive-guide-5bic)
-- [White Label Financial Apps: Unlocking New Opportunities for Businesses](https://dev.to/kzier/white-label-financial-apps-unlocking-new-opportunities-for-businesses-25mj)
-- [Key insights I gained from reading &quot;Clean Code&quot;](https://dev.to/patfinder/key-insights-i-gained-from-reading-clean-code-4hnc)
+- [State update methods in React: Performance](https://dev.to/sonaykara/state-update-methods-in-react-performance-4c85)
+- [🎮No-Code Game Development Engine | Game development without Coding 👌](https://dev.to/amir_hassan_60/no-code-game-development-engine-game-development-without-coding-1kg1)
+- [Cursor has a problem, and it&#39;s not just the price](https://dev.to/watzon/cursor-has-a-problem-and-its-not-just-the-price-4cpl)
+- [Mastering Data Analytics: The Ultimate Guide to Data Analysis](https://dev.to/clement_mwai/mastering-data-analytics-the-ultimate-guide-to-data-analysis-5dk1)
 <!-- BLOG-POST-LIST:END -->
 
