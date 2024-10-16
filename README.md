@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing HTTP Headers Sent Errors in Node.js](https://dev.to/ayasa_siddika_99689bebcf0/fixing-http-headers-sent-errors-in-nodejs-3cpn)
-- [Welcome Thread - v298](https://dev.to/devteam/welcome-thread-v298-3le2)
-- [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
-- [Build a Secure Python Password Generator Using Secret Lib](https://dev.to/scofieldidehen/build-a-secure-python-password-generator-using-secret-lib-288n)
+- [29.for Loop &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/29for-loop-advanced-132m)
+- [28.0perators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/280perators-if-else-if-else-ternary-operator-switch-3267)
+- [Addressing Configuration Issues of SafeLine WAF](https://dev.to/carrie_luo1/addressing-configuration-issues-of-safeline-waf-bi1)
+- [27. Value va Reference Type &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/27-value-va-reference-type-advanced-4g0g)
 <!-- BLOG-POST-LIST:END -->
 
