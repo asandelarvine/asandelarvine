@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Passed the GitHub Foundations exam! 🎉](https://dev.to/lakhera2015/passed-the-github-foundations-exam-3adb)
-- [Laravel 11 Image Validation Rules – Complete Example and Guide](https://dev.to/mshsayket/laravel-11-image-validation-rules-complete-example-and-guide-4687)
-- [Facebook&#39;s API added the breakdowns parameter, but the query returns empty results](https://dev.to/xiami/facebooks-api-added-the-breakdowns-parameter-but-the-query-returns-empty-results-coj)
-- [Boas práticas com XPATH](https://dev.to/hiosk/boas-praticas-com-xpath-2oc4)
+- [Fixing HTTP Headers Sent Errors in Node.js](https://dev.to/ayasa_siddika_99689bebcf0/fixing-http-headers-sent-errors-in-nodejs-3cpn)
+- [Welcome Thread - v298](https://dev.to/devteam/welcome-thread-v298-3le2)
+- [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
+- [Build a Secure Python Password Generator Using Secret Lib](https://dev.to/scofieldidehen/build-a-secure-python-password-generator-using-secret-lib-288n)
 <!-- BLOG-POST-LIST:END -->
 
