@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Contributor to Collaborator: My Hacktoberfest Journey](https://dev.to/priya01/from-contributor-to-collaborator-my-hacktoberfest-journey-2443)
-- [Making a captivating personal homepage, the good, the bad &amp; the ugly &lpar;mostly ugly&rpar;](https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134)
-- [How to Customize the Auth Challenge in SafeLine WAF](https://dev.to/carrie_luo1/how-to-customize-the-auth-challenge-in-safeline-waf-47hm)
-- [CI/CD with Kubernetes: Automating Deployments using Jenkins and Helm](https://dev.to/birkssachdev/cicd-with-kubernetes-automating-deployments-using-jenkins-and-helm-dp6)
+- [The Importance of Building an Online Presence as a Developer](https://dev.to/s1lvax/the-importance-of-building-an-online-presence-as-a-developer-4n25)
+- [The DevOps Prime Directive: Optimizing Your Environment for ADHD Success](https://dev.to/sudh33ra/the-devops-prime-directive-optimizing-your-environment-for-adhd-success-cll)
+- [Recommended Software for Mac that You cannot Miss](https://dev.to/angelaswift/recommended-software-for-mac-that-you-cannot-miss-2l8i)
+- [Zenml for beautiful beautiful orchestration pt 3: Mlflow Aliases/Tags](https://dev.to/afrologicinsect/zenml-for-beautiful-beautiful-orchestration-pt-3-mlflow-aliasestags-3ha6)
 <!-- BLOG-POST-LIST:END -->
 
