@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Jobs in Parallel with GitHub Actions](https://dev.to/cicube/how-to-run-jobs-in-parallel-with-github-actions-4png)
-- [🔥 Why TypeScript is the Go-To Language for Modern Web Development 🔥](https://dev.to/hamzakhan/why-typescript-is-the-go-to-language-for-modern-web-development-1b3c)
-- [Common eCommerce Website Issues and How Proper Management Can Fix Them](https://dev.to/angelinajasper/common-ecommerce-website-issues-and-how-proper-management-can-fix-them-3j5d)
-- [How Data-Powered Strategies Can Enhance Competitive Advantage and Market Positioning](https://dev.to/marufhossain/how-data-powered-strategies-can-enhance-competitive-advantage-and-market-positioning-1jcg)
+- [What is the Principle of Least Privilege? A Comprehensive Guide](https://dev.to/bytehide/what-is-the-principle-of-least-privilege-a-comprehensive-guide-2mhi)
+- [Using the built-in SQLite module in Node.js](https://dev.to/logrocket/using-the-built-in-sqlite-module-in-nodejs-2e1j)
+- [Closures in python](https://dev.to/hakeem/closures-in-python-2fei)
+- [CodeBehind 3.7 Released](https://dev.to/elanatframework/codebehind-37-released-5b59)
 <!-- BLOG-POST-LIST:END -->
 
