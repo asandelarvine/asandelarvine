@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 JavaScript Debugging Tools for Front-End Development](https://dev.to/apilover/top-8-javascript-debugging-tools-for-front-end-development-3j0b)
-- [Create a Slack Bot with NodeJS and Slack Bolt API](https://dev.to/olibhiaghosh/create-a-slack-bot-with-nodejs-and-slack-bolt-api-13hm)
-- [17 Must-know React Projects for Developers 👩‍💻 🔥](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2)
-- [TCP1P CTF INTERNATIONAL 2024 — OSINT Writeup](https://dev.to/hitter/tcp1p-ctf-international-2024-osint-writeup-lam)
+- [5 Daily Task Managers to Keep You Focused and Productive](https://dev.to/thomasy0ung/5-daily-task-managers-to-keep-you-focused-and-productive-3k2d)
+- [My Journey from Postman to EchoAPI: Unlocking Efficient API Version Management](https://dev.to/watson_kristin_2253fed381/my-journey-from-postman-to-echoapi-unlocking-efficient-api-version-management-3a1h)
+- [20. Operators&lpar; if, else if, else, ternaty operator, switch&rpar;](https://dev.to/zahro_11eecc01a1cfe5142b9/20-operators-if-else-if-else-ternaty-operator-switch-2ggb)
+- [useMemo](https://dev.to/muthu_raja_b8df9eac7b8c21/usememo-2p4c)
 <!-- BLOG-POST-LIST:END -->
 
