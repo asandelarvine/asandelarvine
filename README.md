@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Intern to Frontend Developer to Selling a Company in College](https://dev.to/aadixc0de/from-intern-to-frontend-developer-to-selling-a-company-in-college-16if)
-- [querySelector vs querySelectorAll in javascript](https://dev.to/sagar7170/queryselector-vs-queryselectorall-in-javascript-53kd)
-- [LabEx Trending: MySQL Database Administration Essentials and More](https://dev.to/labex/labex-trending-mysql-database-administration-essentials-and-more-1akp)
-- [Durable writes](https://dev.to/misachi/durable-writes-4j5f)
+- [C# Clean Code: KISS &lpar; Keep It Simple, Stupid&rpar;Principle](https://dev.to/moh_moh701/c-clean-code-kiss-keep-it-simple-stupidprinciple-5bin)
+- [Implementing similarity search algotithms](https://dev.to/echo9k/implementing-similarity-search-algotithms-4hh9)
+- [JsTraceToIX - Debugging React, Vue, and Node.js just got easier! – no need to clutter your codebase with `console.log`!](https://dev.to/a-bentofreire/jstracetoix-debugging-react-vue-and-nodejs-just-got-easier-no-need-to-clutter-your-codebase-with-consolelog-2h2b)
+- [AWS Artifact for Security Compliance Reports](https://dev.to/ikoh_sylva/aws-artifact-for-security-compliance-reports-29ak)
 <!-- BLOG-POST-LIST:END -->
 
