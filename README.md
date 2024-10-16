@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between Scripting Languages and Programming Languages](https://dev.to/abhinowww/understanding-the-difference-between-scripting-languages-and-programming-languages-1666)
-- [🧑‍💻 Day 7: Master Linux Package Managers &amp; Systemctl in Your DevOps Journey](https://dev.to/singh_in_cloud/day-7-master-linux-package-managers-systemctl-in-your-devops-journey-568p)
-- [Getting a member according to primary key value #eg59](https://dev.to/esproc_spl/getting-a-member-according-to-primary-key-value-eg59-141e)
-- [Automate Your Java Tasks with Quartz: A Practical Guide](https://dev.to/birkssachdev/automate-your-java-tasks-with-quartz-a-practical-guide-3pc7)
+- [From Contributor to Collaborator: My Hacktoberfest Journey](https://dev.to/priya01/from-contributor-to-collaborator-my-hacktoberfest-journey-2443)
+- [Making a captivating personal homepage, the good, the bad &amp; the ugly &lpar;mostly ugly&rpar;](https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134)
+- [How to Customize the Auth Challenge in SafeLine WAF](https://dev.to/carrie_luo1/how-to-customize-the-auth-challenge-in-safeline-waf-47hm)
+- [CI/CD with Kubernetes: Automating Deployments using Jenkins and Helm](https://dev.to/birkssachdev/cicd-with-kubernetes-automating-deployments-using-jenkins-and-helm-dp6)
 <!-- BLOG-POST-LIST:END -->
 
