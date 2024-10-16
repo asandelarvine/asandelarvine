@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [29.for Loop &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/29for-loop-advanced-132m)
-- [28.0perators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/280perators-if-else-if-else-ternary-operator-switch-3267)
-- [Addressing Configuration Issues of SafeLine WAF](https://dev.to/carrie_luo1/addressing-configuration-issues-of-safeline-waf-bi1)
-- [27. Value va Reference Type &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/27-value-va-reference-type-advanced-4g0g)
+- [Understanding the Difference Between Scripting Languages and Programming Languages](https://dev.to/abhinowww/understanding-the-difference-between-scripting-languages-and-programming-languages-1666)
+- [🧑‍💻 Day 7: Master Linux Package Managers &amp; Systemctl in Your DevOps Journey](https://dev.to/singh_in_cloud/day-7-master-linux-package-managers-systemctl-in-your-devops-journey-568p)
+- [Getting a member according to primary key value #eg59](https://dev.to/esproc_spl/getting-a-member-according-to-primary-key-value-eg59-141e)
+- [Automate Your Java Tasks with Quartz: A Practical Guide](https://dev.to/birkssachdev/automate-your-java-tasks-with-quartz-a-practical-guide-3pc7)
 <!-- BLOG-POST-LIST:END -->
 
