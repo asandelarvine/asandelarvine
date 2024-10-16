@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Log Anything vs Log Everything](https://dev.to/last9/log-anything-vs-log-everything-2c50)
-- [The Best Admin Panel Tutorial](https://dev.to/domfive/the-best-admin-panel-tutorial-126e)
-- [The True Cost of Poor Data Quality: Why It Matters and How to Improve It](https://dev.to/markyu/the-true-cost-of-poor-data-quality-why-it-matters-and-how-to-improve-it-2epi)
-- [How to Use JSONB in PostgreSQL with Step-by-Step Instructions](https://dev.to/techprane/how-to-use-jsonb-in-postgresql-with-step-by-step-instructions-34k8)
+- [🎉 Passed the GitHub Foundations exam! 🎉](https://dev.to/lakhera2015/passed-the-github-foundations-exam-3adb)
+- [Laravel 11 Image Validation Rules – Complete Example and Guide](https://dev.to/mshsayket/laravel-11-image-validation-rules-complete-example-and-guide-4687)
+- [Facebook&#39;s API added the breakdowns parameter, but the query returns empty results](https://dev.to/xiami/facebooks-api-added-the-breakdowns-parameter-but-the-query-returns-empty-results-coj)
+- [Boas práticas com XPATH](https://dev.to/hiosk/boas-praticas-com-xpath-2oc4)
 <!-- BLOG-POST-LIST:END -->
 
