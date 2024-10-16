@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent accidental unregistration of AMI](https://dev.to/aws-builders/prevent-accidental-unregistration-of-ami-d02)
-- [TIL: Search Optimized Database &lpar;full-text search&rpar; for System Design](https://dev.to/dleedev365/til-search-optimized-database-full-text-search-for-system-design-5db1)
-- [1405. Longest Happy String](https://dev.to/mdarifulhaque/1405-longest-happy-string-9mg)
-- [AMIを誤って登録解除できないようにする](https://dev.to/aws-builders/amiwowu-tutedeng-lu-jie-chu-dekinaiyounisuru-48m7)
+- [Log Anything vs Log Everything](https://dev.to/last9/log-anything-vs-log-everything-2c50)
+- [The Best Admin Panel Tutorial](https://dev.to/domfive/the-best-admin-panel-tutorial-126e)
+- [The True Cost of Poor Data Quality: Why It Matters and How to Improve It](https://dev.to/markyu/the-true-cost-of-poor-data-quality-why-it-matters-and-how-to-improve-it-2epi)
+- [How to Use JSONB in PostgreSQL with Step-by-Step Instructions](https://dev.to/techprane/how-to-use-jsonb-in-postgresql-with-step-by-step-instructions-34k8)
 <!-- BLOG-POST-LIST:END -->
 
