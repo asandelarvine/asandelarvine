@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to style HTML with matcha.css](https://dev.to/logrocket/how-to-style-html-with-matchacss-4ne7)
-- [Advanced Type System and Generics for Pro TypeScript Developers](https://dev.to/shafayeat/advanced-type-system-and-generics-for-pro-typescript-developers-36mg)
-- [Free Mentorship in Coding Available](https://dev.to/chi_swimming_eb7a11432740/free-mentorship-in-coding-available-2op8)
-- [An Overview of Jira Asset Management Tool](https://dev.to/assetitapp/an-overview-of-jira-asset-management-tool-3n4i)
+- [Why You Should &lpar;Probably&rpar; Use TypeScript?](https://dev.to/shafayeat/why-you-should-probably-use-typescript-25g9)
+- [TypeScript Utility Types: Enhancing Code Reusability](https://dev.to/shafayeat/typescript-utility-types-enhancing-code-reusability-507g)
+- [From x86 to ARM: How Apple Silicon is Destroying the Competition](https://dev.to/arjun98k/from-x86-to-arm-how-apple-silicon-is-destroying-the-competition-1ima)
+- [Creating an API with Lithe](https://dev.to/lithephp/creating-an-api-with-lithe-5g46)
 <!-- BLOG-POST-LIST:END -->
 
