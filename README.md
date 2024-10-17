@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#76 — Simple Column-Wise Aggregation](https://dev.to/judith677/76-simple-column-wise-aggregation-4ag)
-- [Deploying Prometheus Postgres Exporter via Helm Chart](https://dev.to/rslim087a/deploying-prometheus-postgres-exporter-via-helm-chart-2bn6)
-- [An Introduction to FPGA Programming with Python Using MyHDL](https://dev.to/oven_kivi_9767f2633fb99c9/an-introduction-to-fpga-programming-with-python-using-myhdl-2lp0)
-- [Verilog vs VHDL: Choosing the Right HDL for FPGA Programming](https://dev.to/oven_kivi_9767f2633fb99c9/verilog-vs-vhdl-choosing-the-right-hdl-for-fpga-programming-27c3)
+- [Mint Blockchain became the first Superchain to participate in Optimism governance and was successfully approved for 750,000 OP!](https://dev.to/mint_/mint-blockchain-became-the-first-superchain-to-participate-in-optimism-governance-and-was-successfully-approved-for-750000-op-51o2)
+- [&lpar;SQL Query&rpar; Caching vs Indexing in Express.js](https://dev.to/w3vish/sql-query-caching-vs-indexing-in-expressjs-40n6)
+- [Syntax vs. Semantics](https://dev.to/hexalore/syntax-vs-semantics-4ckd)
+- [Understanding Node.js’s Single-Threaded Model and Concurrency](https://dev.to/softden_2005/understanding-nodejss-single-threaded-model-and-concurrency-12lc)
 <!-- BLOG-POST-LIST:END -->
 
