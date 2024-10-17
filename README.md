@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Everyone Should Contribute to Open Source &lpar; Even If You Can’t Code! &rpar;](https://dev.to/dhanushnehru/why-everyone-should-contribute-to-open-source-even-if-you-cant-code--5f0f)
-- [My First Participation in Hacktoberfest: An Enriching Experience](https://dev.to/yakedev/my-first-participation-in-hacktoberfest-an-enriching-experience-407f)
-- [Day 5 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-5-of-365-10-million-yen-japan-career-switch-challenge-1045)
-- [Power BI REST API: Automating Tasks and Integrating Power BI with Other Services](https://dev.to/jit_data/power-bi-rest-api-automating-tasks-and-integrating-power-bi-with-other-services-2oa3)
+- [Bottleneck Calculator for 3D Designers: Improve Rendering Times](https://dev.to/hendry2000/bottleneck-calculator-for-3d-designers-improve-rendering-times-41hl)
+- [Learn from Stripe, Microsoft, Amazon Leader: How Tech Leaders Streamline Development for Rapid Growth](https://dev.to/dobralin/learn-from-stripe-microsoft-amazon-leader-how-tech-leaders-streamline-development-for-rapid-growth-37hk)
+- [The problem with tech Twitter](https://dev.to/quentindamianino/the-problem-with-tech-twitter-g39)
+- [What is AWS VPC? Definition and How It Works?](https://dev.to/jamiu_cloud/what-is-aws-vpc-definition-and-how-it-works-2ke7)
 <!-- BLOG-POST-LIST:END -->
 
