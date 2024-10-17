@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Consistently Retrieve Valid JSON from Claude 3.5 in Go](https://dev.to/embiem/how-to-consistently-retrieve-valid-json-from-claude-35-in-go-1g5b)
-- [Redox OS: A New Take on Unix with Rust](https://dev.to/benslinux2024/redox-os-a-new-take-on-unix-with-rust-184d)
-- [670. Maximum Swap](https://dev.to/mdarifulhaque/670-maximum-swap-3ago)
-- [Пересечение траекторий через области &lpar;C#&rpar;](https://dev.to/nmatlubov/pieriesiechieniie-traiektorii-chieriez-oblasti-c-2nf)
+- [Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o)
+- [Engineer Astra! Explore top colleges and best courses in India.](https://dev.to/vishal_tiwari_114f21d14e5/engineer-astra-explore-top-colleges-and-best-courses-in-india-4bad)
+- [Chuck Norris TODO list](https://dev.to/pengeszikra/chuck-norris-todo-list-564l)
+- [Item 63: Cuidado com o desempenho da concatenação de string](https://dev.to/giselecoder/item-63-cuidado-com-o-desempenho-da-concatenacaode-string-2b67)
 <!-- BLOG-POST-LIST:END -->
 
