@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Accidentally Became a YouTube Creator... 54 Years Ago!&quot; 😯](https://dev.to/devops_descent/how-i-accidentally-became-a-youtube-creator-54-years-ago-4mdk)
-- [Understanding SQL COALESCE for Null Handling](https://dev.to/dbvismarketing/understanding-sql-coalesce-for-null-handling-4d9b)
-- [Puzzle game using html css and js](https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d)
-- [New Blog Alert!](https://dev.to/marmiksoni/new-blog-alert-264k)
+- [Figma for developers: Figma Components](https://dev.to/codeparrot/figma-for-developers-figma-components-547f)
+- [Teaching CS-395](https://dev.to/zaff/teaching-cs-395-7ma)
+- [Decoding EXPLAIN: How to Uncover Its Hidden Messages](https://dev.to/saby_explain/decoding-explain-how-to-uncover-its-hidden-messages-174e)
+- [Create a Notes App Using React and Local Storage](https://dev.to/tarim_bilal_3e13ed97b36be/create-a-notes-app-using-react-and-local-storage-i8b)
 <!-- BLOG-POST-LIST:END -->
 
