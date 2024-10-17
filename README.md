@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mint Blockchain became the first Superchain to participate in Optimism governance and was successfully approved for 750,000 OP!](https://dev.to/mint_/mint-blockchain-became-the-first-superchain-to-participate-in-optimism-governance-and-was-successfully-approved-for-750000-op-51o2)
-- [&lpar;SQL Query&rpar; Caching vs Indexing in Express.js](https://dev.to/w3vish/sql-query-caching-vs-indexing-in-expressjs-40n6)
-- [Syntax vs. Semantics](https://dev.to/hexalore/syntax-vs-semantics-4ckd)
-- [Understanding Node.js’s Single-Threaded Model and Concurrency](https://dev.to/softden_2005/understanding-nodejss-single-threaded-model-and-concurrency-12lc)
+- [Desbloqueie a Observabilidade: Guia prático com OpenTelemetry e Prometheus](https://dev.to/rflpazini/desbloqueie-a-observabilidade-guia-pratico-com-opentelemetry-e-prometheus-1pbc)
+- [MASTERING DATA ANALYTICS: The Ultimate Guide To Data Analytics](https://dev.to/kihoro_codes_c959f8c68a9c/mastering-data-analytics-the-ultimate-guide-to-data-analytics-1hhe)
+- [Introducing Our New Interactive Prompt Sheet](https://dev.to/susheel_kumar/introducing-our-new-interactive-prompt-sheet-36gh)
+- [Automating Authentication in Apollo Sandbox Explorer with Pre-request Scripts](https://dev.to/khanhtoandng/automating-authentication-in-apollo-sandbox-explorer-with-pre-request-scripts-1fil)
 <!-- BLOG-POST-LIST:END -->
 
