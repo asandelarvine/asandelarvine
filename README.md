@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [priceless-sanne-4yq8n4](https://dev.to/zavalarubengpe/priceless-sanne-4yq8n4-3p1h)
-- [Unlocking the Power of AWS Secrets Manager: A Beginner&#39;s Guide](https://dev.to/rakul0agn/unlocking-the-power-of-aws-secrets-manager-a-beginners-guide-4e16)
-- [Introducing My First Open Source Project: Swaggy-Swagger](https://dev.to/sujebi/introducing-my-first-open-source-project-swaggy-swagger-3p48)
-- [Implementing Secure Access and Immutable Storage in App Development Using Role-Based Access Control and Managed Identities&quot;](https://dev.to/dumka/implementing-secure-access-and-immutable-storage-in-app-development-using-role-based-access-control-and-managed-identities-5526)
+- [#76 — Simple Column-Wise Aggregation](https://dev.to/judith677/76-simple-column-wise-aggregation-4ag)
+- [Deploying Prometheus Postgres Exporter via Helm Chart](https://dev.to/rslim087a/deploying-prometheus-postgres-exporter-via-helm-chart-2bn6)
+- [An Introduction to FPGA Programming with Python Using MyHDL](https://dev.to/oven_kivi_9767f2633fb99c9/an-introduction-to-fpga-programming-with-python-using-myhdl-2lp0)
+- [Verilog vs VHDL: Choosing the Right HDL for FPGA Programming](https://dev.to/oven_kivi_9767f2633fb99c9/verilog-vs-vhdl-choosing-the-right-hdl-for-fpga-programming-27c3)
 <!-- BLOG-POST-LIST:END -->
 
