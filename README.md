@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should &lpar;Probably&rpar; Use TypeScript?](https://dev.to/shafayeat/why-you-should-probably-use-typescript-25g9)
-- [TypeScript Utility Types: Enhancing Code Reusability](https://dev.to/shafayeat/typescript-utility-types-enhancing-code-reusability-507g)
-- [From x86 to ARM: How Apple Silicon is Destroying the Competition](https://dev.to/arjun98k/from-x86-to-arm-how-apple-silicon-is-destroying-the-competition-1ima)
-- [Creating an API with Lithe](https://dev.to/lithephp/creating-an-api-with-lithe-5g46)
+- [Oct 24: Virtual AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/oct-24-virtual-ai-machine-learning-and-computer-vision-meetup-1h8p)
+- [WTF is Low-Level Design?](https://dev.to/shivam_chauhan/wtf-is-low-level-design-58b3)
+- [A different project of mine: Youtube to text](https://dev.to/demirwebx/a-different-project-of-mine-youtube-to-text-11ph)
+- [Bun &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/bun-bite-size-article-192m)
 <!-- BLOG-POST-LIST:END -->
 
