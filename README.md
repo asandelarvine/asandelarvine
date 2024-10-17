@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Multi-Agent Orchestration with Durable Swarm](https://dev.to/dbos/reliable-multi-agent-orchestration-with-durable-swarm-1f6l)
-- [You’re NOT Dumb, You Just Lack the Prerequisites - Programming 💡](https://dev.to/mwanzabj/youre-not-dumb-you-just-lack-the-prerequisites-programming-46l6)
-- [Subsistema de memória](https://dev.to/0xpsicod0s/subsistema-de-memoria-57)
-- [What is JavaScript and Why You Should Learn It](https://dev.to/ridoy_hasan/what-is-javascript-and-why-you-should-learn-it-2e7l)
+- [PARADIGMAS](https://dev.to/felipe_bs07/paradigmas-3dc5)
+- [7 Essential Events in React You Need to Know](https://dev.to/trushmi/7-essential-events-in-react-you-need-to-know-aan)
+- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-44pl)
+- [낯선 Rust에서 오래된 Object Pascal의 향기를 느끼다](https://dev.to/teminian/nacseon-rusteseo-oraedoen-object-pascalyi-hyanggireul-neuggida-51b7)
 <!-- BLOG-POST-LIST:END -->
 
