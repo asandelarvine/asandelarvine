@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma for developers: Figma Components](https://dev.to/codeparrot/figma-for-developers-figma-components-547f)
-- [Teaching CS-395](https://dev.to/zaff/teaching-cs-395-7ma)
-- [Decoding EXPLAIN: How to Uncover Its Hidden Messages](https://dev.to/saby_explain/decoding-explain-how-to-uncover-its-hidden-messages-174e)
-- [Create a Notes App Using React and Local Storage](https://dev.to/tarim_bilal_3e13ed97b36be/create-a-notes-app-using-react-and-local-storage-i8b)
+- [OWASP Broken Access Control Vulnerabilities](https://dev.to/sajidurshajib/owasp-broken-access-control-vulnerabilities-2k3i)
+- [Automated Security Operations with Safeline WAF &lpar;Part 1&rpar;](https://dev.to/carrie_luo1/automated-security-operations-with-safeline-waf-5fic)
+- [Vaadin, the battery-included server-side AJAX framework](https://dev.to/nfrankel/vaadin-the-battery-included-server-side-ajax-framework-21nm)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5)
 <!-- BLOG-POST-LIST:END -->
 
