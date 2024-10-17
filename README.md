@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring parallelism in Large Language Models &lpar;LLMs&rpar;](https://dev.to/siddhantkcode/exploring-parallelism-in-large-language-models-llms-5991)
-- [Structured vs. Unstructured Databases: The Ultimate Guide to Understanding the Key Differences](https://dev.to/abhinowww/structured-vs-unstructured-databases-the-ultimate-guide-to-understanding-the-key-differences-2jel)
-- [Cart Functions and how to do them in PHP](https://dev.to/yarkodev/cart-functions-and-how-to-do-them-in-php-1g1e)
-- [A privacy focused online PDF Editor](https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc)
+- [Building a Big Data Playground Sandbox for Learning](https://dev.to/abdullah_haggag/building-a-big-data-playground-sandbox-for-learning-cgi)
+- [The Future of Passwordless Authentication: Are Passwords Becoming Obsolete?](https://dev.to/akansh_pandeyap_041d5b/the-future-of-passwordless-authentication-are-passwords-becoming-obsolete-mpj)
+- [Cosmos’s New Interchain Stack: The One-Level-Up SDK for Sovereign L1 Builders](https://dev.to/zeeve/cosmoss-new-interchain-stack-the-one-level-up-sdk-for-sovereign-l1-builders-clc)
+- [Brain.JS -- The intelligence for your frontend app](https://dev.to/tanoy_basak/brainjs-the-intelligence-for-your-frontend-app-14ak)
 <!-- BLOG-POST-LIST:END -->
 
