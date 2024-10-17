@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Search Engines to Boost Productivity](https://dev.to/swirl/top-ai-search-engines-to-boost-productivity-26f9)
-- [🚀 Building Group Track: An Open-Source Location Tracker App with Flutter](https://dev.to/ishita__14cc5a0ee7a/building-group-track-an-open-source-location-tracker-app-with-flutter-4hkk)
-- [Understanding insertion sort algorithm: Beginner&#39;s guide with leetcode problems](https://dev.to/emmanuelayinde/understanding-insertion-sort-algorithm-beginners-guide-with-leetcode-problems-1pll)
-- [PHP Tags](https://dev.to/hurayraiit/php-tags-3c0e)
+- [How to Consistently Retrieve Valid JSON from Claude 3.5 in Go](https://dev.to/embiem/how-to-consistently-retrieve-valid-json-from-claude-35-in-go-1g5b)
+- [Redox OS: A New Take on Unix with Rust](https://dev.to/benslinux2024/redox-os-a-new-take-on-unix-with-rust-184d)
+- [670. Maximum Swap](https://dev.to/mdarifulhaque/670-maximum-swap-3ago)
+- [Пересечение траекторий через области &lpar;C#&rpar;](https://dev.to/nmatlubov/pieriesiechieniie-traiektorii-chieriez-oblasti-c-2nf)
 <!-- BLOG-POST-LIST:END -->
 
