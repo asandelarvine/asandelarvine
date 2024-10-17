@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Bad TypeScript Habits To Break In 2024](https://dev.to/safdarali/10-bad-typescript-habits-to-break-in-2024-2p54)
-- [Building My Laravel &amp; MySQL Web Application: A Developer&#39;s &lpar;Version 1&rpar;](https://dev.to/clever/building-my-laravel-mysql-web-application-a-developers-version-1-3i26)
-- [Sustainable Technology: The Path to a Greener Future](https://dev.to/izabellalbuquerque/sustainable-technology-the-path-to-a-greener-future-2loa)
-- [App developers, where do you find inspiration for your next app ideas?💡](https://dev.to/jxd-dev/app-developers-where-do-you-find-inspiration-for-your-next-app-ideas-1m6p)
+- [priceless-sanne-4yq8n4](https://dev.to/zavalarubengpe/priceless-sanne-4yq8n4-3p1h)
+- [Unlocking the Power of AWS Secrets Manager: A Beginner&#39;s Guide](https://dev.to/rakul0agn/unlocking-the-power-of-aws-secrets-manager-a-beginners-guide-4e16)
+- [Introducing My First Open Source Project: Swaggy-Swagger](https://dev.to/sujebi/introducing-my-first-open-source-project-swaggy-swagger-3p48)
+- [Implementing Secure Access and Immutable Storage in App Development Using Role-Based Access Control and Managed Identities&quot;](https://dev.to/dumka/implementing-secure-access-and-immutable-storage-in-app-development-using-role-based-access-control-and-managed-identities-5526)
 <!-- BLOG-POST-LIST:END -->
 
