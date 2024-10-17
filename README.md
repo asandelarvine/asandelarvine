@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Key: A Tale of Access Control](https://dev.to/carrie_luo1/the-hidden-key-a-tale-of-access-control-3lm9)
-- [Test Automation in Software Development](https://dev.to/jennife05918349/test-automation-in-software-development-1b5d)
-- [5 Key Software Architecture Principles for Starting Your Next Project](https://dev.to/byteminds_agency/5-key-software-architecture-principles-for-starting-your-next-project-57og)
-- [Running Spring Boot Applications With Gradle and Maven](https://dev.to/petemode/running-spring-boot-applications-with-gradle-and-maven-2lgp)
+- [Top AI Search Engines to Boost Productivity](https://dev.to/swirl/top-ai-search-engines-to-boost-productivity-26f9)
+- [🚀 Building Group Track: An Open-Source Location Tracker App with Flutter](https://dev.to/ishita__14cc5a0ee7a/building-group-track-an-open-source-location-tracker-app-with-flutter-4hkk)
+- [Understanding insertion sort algorithm: Beginner&#39;s guide with leetcode problems](https://dev.to/emmanuelayinde/understanding-insertion-sort-algorithm-beginners-guide-with-leetcode-problems-1pll)
+- [PHP Tags](https://dev.to/hurayraiit/php-tags-3c0e)
 <!-- BLOG-POST-LIST:END -->
 
