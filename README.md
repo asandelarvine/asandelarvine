@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OWASP Broken Access Control Vulnerabilities](https://dev.to/sajidurshajib/owasp-broken-access-control-vulnerabilities-2k3i)
-- [Automated Security Operations with Safeline WAF &lpar;Part 1&rpar;](https://dev.to/carrie_luo1/automated-security-operations-with-safeline-waf-5fic)
-- [Vaadin, the battery-included server-side AJAX framework](https://dev.to/nfrankel/vaadin-the-battery-included-server-side-ajax-framework-21nm)
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5)
+- [The Hidden Key: A Tale of Access Control](https://dev.to/carrie_luo1/the-hidden-key-a-tale-of-access-control-3lm9)
+- [Test Automation in Software Development](https://dev.to/jennife05918349/test-automation-in-software-development-1b5d)
+- [5 Key Software Architecture Principles for Starting Your Next Project](https://dev.to/byteminds_agency/5-key-software-architecture-principles-for-starting-your-next-project-57og)
+- [Running Spring Boot Applications With Gradle and Maven](https://dev.to/petemode/running-spring-boot-applications-with-gradle-and-maven-2lgp)
 <!-- BLOG-POST-LIST:END -->
 
