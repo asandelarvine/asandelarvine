@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o)
-- [Engineer Astra! Explore top colleges and best courses in India.](https://dev.to/vishal_tiwari_114f21d14e5/engineer-astra-explore-top-colleges-and-best-courses-in-india-4bad)
-- [Chuck Norris TODO list](https://dev.to/pengeszikra/chuck-norris-todo-list-564l)
-- [Item 63: Cuidado com o desempenho da concatenação de string](https://dev.to/giselecoder/item-63-cuidado-com-o-desempenho-da-concatenacaode-string-2b67)
+- [Structural pattern matching in Python](https://dev.to/myexamcloud/structural-pattern-matching-in-python-3em1)
+- [Understanding and supporting zoom behaviors on the web](https://dev.to/logrocket/understanding-and-supporting-zoom-behaviors-on-the-web-4gek)
+- [Changing CSS as You Scroll with Stimulus](https://dev.to/railsdesigner/changing-css-as-you-scroll-with-stimulus-5854)
+- [Understanding &quot;this&quot; in JavaScript objects and functions.](https://dev.to/js_cipher/understanding-this-in-javascript-objects-and-functions-24ld)
 <!-- BLOG-POST-LIST:END -->
 
