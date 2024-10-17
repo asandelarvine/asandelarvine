@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bottleneck Calculator for 3D Designers: Improve Rendering Times](https://dev.to/hendry2000/bottleneck-calculator-for-3d-designers-improve-rendering-times-41hl)
-- [Learn from Stripe, Microsoft, Amazon Leader: How Tech Leaders Streamline Development for Rapid Growth](https://dev.to/dobralin/learn-from-stripe-microsoft-amazon-leader-how-tech-leaders-streamline-development-for-rapid-growth-37hk)
-- [The problem with tech Twitter](https://dev.to/quentindamianino/the-problem-with-tech-twitter-g39)
-- [What is AWS VPC? Definition and How It Works?](https://dev.to/jamiu_cloud/what-is-aws-vpc-definition-and-how-it-works-2ke7)
+- [How to style HTML with matcha.css](https://dev.to/logrocket/how-to-style-html-with-matchacss-4ne7)
+- [Advanced Type System and Generics for Pro TypeScript Developers](https://dev.to/shafayeat/advanced-type-system-and-generics-for-pro-typescript-developers-36mg)
+- [Free Mentorship in Coding Available](https://dev.to/chi_swimming_eb7a11432740/free-mentorship-in-coding-available-2op8)
+- [An Overview of Jira Asset Management Tool](https://dev.to/assetitapp/an-overview-of-jira-asset-management-tool-3n4i)
 <!-- BLOG-POST-LIST:END -->
 
