@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbloqueie a Observabilidade: Guia prático com OpenTelemetry e Prometheus](https://dev.to/rflpazini/desbloqueie-a-observabilidade-guia-pratico-com-opentelemetry-e-prometheus-1pbc)
-- [MASTERING DATA ANALYTICS: The Ultimate Guide To Data Analytics](https://dev.to/kihoro_codes_c959f8c68a9c/mastering-data-analytics-the-ultimate-guide-to-data-analytics-1hhe)
-- [Introducing Our New Interactive Prompt Sheet](https://dev.to/susheel_kumar/introducing-our-new-interactive-prompt-sheet-36gh)
-- [Automating Authentication in Apollo Sandbox Explorer with Pre-request Scripts](https://dev.to/khanhtoandng/automating-authentication-in-apollo-sandbox-explorer-with-pre-request-scripts-1fil)
+- [Exploring parallelism in Large Language Models &lpar;LLMs&rpar;](https://dev.to/siddhantkcode/exploring-parallelism-in-large-language-models-llms-5991)
+- [Structured vs. Unstructured Databases: The Ultimate Guide to Understanding the Key Differences](https://dev.to/abhinowww/structured-vs-unstructured-databases-the-ultimate-guide-to-understanding-the-key-differences-2jel)
+- [Cart Functions and how to do them in PHP](https://dev.to/yarkodev/cart-functions-and-how-to-do-them-in-php-1g1e)
+- [A privacy focused online PDF Editor](https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc)
 <!-- BLOG-POST-LIST:END -->
 
