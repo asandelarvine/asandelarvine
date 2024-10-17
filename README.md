@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oct 24: Virtual AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/oct-24-virtual-ai-machine-learning-and-computer-vision-meetup-1h8p)
-- [WTF is Low-Level Design?](https://dev.to/shivam_chauhan/wtf-is-low-level-design-58b3)
-- [A different project of mine: Youtube to text](https://dev.to/demirwebx/a-different-project-of-mine-youtube-to-text-11ph)
-- [Bun &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/bun-bite-size-article-192m)
+- [Say hello to FreeBSD](https://dev.to/brunopacheco1/say-hello-to-freebsd-71p)
+- [MySQL Terminal: Login, Users and Permissions](https://dev.to/xxzeroxx/mysql-terminal-login-users-and-permissions-53ie)
+- [AI Tool: V0 with drag and drop and tailwindcss](https://dev.to/buildwebcrumbs/ai-tool-v0-with-drag-and-drop-and-tailwindcss-1jkh)
+- [Quick Tip: Git Undo Commands](https://dev.to/codewithcaen/quick-tip-git-undo-commands-1kj9)
 <!-- BLOG-POST-LIST:END -->
 
