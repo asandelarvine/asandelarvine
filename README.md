@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can ChatGPT be trained to become human?](https://dev.to/theainews/can-chatgpt-be-trained-to-become-human-3fe8)
-- [Building a Custom Backend with Node.js: A Step-by-Step Guide](https://dev.to/anticoder03/building-a-custom-backend-with-nodejs-a-step-by-step-guide-1mh0)
-- [What is a Batch DOM update and Why is it useful?](https://dev.to/jharna_khatun/what-is-a-batch-dom-update-and-why-is-it-useful-d3k)
-- [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
+- [Effective Communication: Overcome Public Speaking Fear](https://dev.to/annavi11arrea1/effective-communication-overcome-public-speaking-fear-1cih)
+- [How Subscription Management Software is Transforming Mobile Apps](https://dev.to/martacamps95/how-subscription-managementsoftware-is-transforming-mobile-apps-5c33)
+- [Unraveling the Digital Tapestry: A Comprehensive Guide to Web Portals](https://dev.to/mgtv_s/unraveling-the-digital-tapestry-a-comprehensive-guide-to-web-portals-e3l)
+- [Open URLs in Different Environments with Ease](https://dev.to/salimchemes/open-urls-in-different-environments-with-ease-fil)
 <!-- BLOG-POST-LIST:END -->
 
