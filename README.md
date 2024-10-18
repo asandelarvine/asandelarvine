@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Open/Closed Principle &lpar;OCP&rpar; from SOLID: Keep Code Flexible Yet Stable](https://dev.to/dazevedo/understanding-the-openclosed-principle-ocp-from-solid-keep-code-flexible-yet-stable-jo7)
-- [Create a unique array using Set&lpar;&rpar; in JavaScript.](https://dev.to/thinkthroo/create-a-unique-array-using-set-in-javascript-i80)
-- [How to Enable Windows Identity Foundation 3.5 in Windows 11?](https://dev.to/winsides/how-to-enable-windows-identity-foundation-35-in-windows-11-14dg)
-- [How to Automate Everyday Tasks with Python &lpar;Part 2&rpar;](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-2k67)
+- [How to Implement Google Analytics 4 &lpar;GA4&rpar; in a Next.js Project](https://dev.to/rajeshkumaryadavdotcom/how-to-implement-google-analytics-4-ga4-in-a-nextjs-project-dm7)
+- [Security news weekly round-up - 18th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-18th-october-2024-2l6i)
+- [Mastering the DOM in JavaScript](https://dev.to/imrankhan17/mastering-the-dom-in-javascript-498o)
+- [Next.js Dynamic Routes](https://dev.to/sonaykara/nextjs-dynamic-routes-abh)
 <!-- BLOG-POST-LIST:END -->
 
