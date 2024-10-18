@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Future Of AI In Influencer Marketing](https://dev.to/techdogs_inc/future-of-ai-in-influencer-marketing-4484)
-- [Clone a private repository with PAT from Github](https://dev.to/hyperkai/clone-a-private-repository-with-pat-from-github-425d)
-- [Perform Distinct on Ordered Numbers in a Text File #eg61](https://dev.to/esproc_spl/perform-distinct-on-ordered-numbers-in-a-text-file-eg61-2blo)
-- [Mastering the final Keyword in Java: Constants, Immutability, and More](https://dev.to/arshisaxena26/mastering-the-final-keyword-in-java-constants-immutability-and-more-34kj)
+- [20 Git Command-Line Tricks Every Developer Should Know](https://dev.to/jagroop2001/20-git-command-line-tricks-every-developer-should-know-1i21)
+- [3 Reasons Why Mastering JavaScript Fundamentals Is Crucial for Frontend Developers for Long-Term Career Success](https://dev.to/viissgg/3-reasons-why-mastering-javascript-fundamentals-is-crucial-for-frontend-developers-for-long-term-career-success-42d2)
+- [Zero-Touch Cloud Security: Automating Threat Detection &amp; Remediation with Wiz, AWS Security Hub, and GitHub Actions](https://dev.to/akhil_mittal/zero-touch-cloud-security-automating-threat-detection-remediation-with-wiz-aws-security-hub-and-github-actions-3bhj)
+- [The Essential Guide to Market APIs: Benefits, Use Cases, and Best Practices](https://dev.to/williamsmithh/the-essential-guide-to-market-apis-benefits-use-cases-and-best-practices-5319)
 <!-- BLOG-POST-LIST:END -->
 
