@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyper-Scale Activated! Ship Your Own FaaS 🤖](https://dev.to/smapiot/hyper-scale-activated-ship-your-own-faas-40kg)
-- [8 Must-Have Software for Programmers on Mac](https://dev.to/angelaswift/8-must-have-software-for-programmers-on-mac-2da5)
-- [Julia Programming - Simple Wave Generator](https://dev.to/benslinux2024/julia-simple-wave-generator-5f5i)
-- [Operators](https://dev.to/umida5/operators-20om)
+- [Can ChatGPT be trained to become human?](https://dev.to/theainews/can-chatgpt-be-trained-to-become-human-3fe8)
+- [Building a Custom Backend with Node.js: A Step-by-Step Guide](https://dev.to/anticoder03/building-a-custom-backend-with-nodejs-a-step-by-step-guide-1mh0)
+- [What is a Batch DOM update and Why is it useful?](https://dev.to/jharna_khatun/what-is-a-batch-dom-update-and-why-is-it-useful-d3k)
+- [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
 <!-- BLOG-POST-LIST:END -->
 
