@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Asynchronous State with User Roles in React Native with Firebase](https://dev.to/amanbhoria/handling-asynchronous-state-with-user-roles-in-react-native-with-firebase-lck)
-- [🕸️ MDN Web Docs: The Ultimate Developer&#39;s Toolbox 🌟](https://dev.to/hadil/mdn-web-docs-the-ultimate-developers-toolbox-5b84)
-- [Self-Learning and Confidence: The Path to Advancement for Female Talent](https://dev.to/shinetechsoftwareinc/self-learning-and-confidence-the-path-to-advancement-for-female-talent-556e)
-- [How to Force Garbage Collection in C#](https://dev.to/bytehide/how-to-force-garbage-collection-in-c-p8k)
+- [How to Inspect Element on an Android App &lpar;Easily&rpar;](https://dev.to/prakhars/how-to-inspect-element-on-an-android-app-easily-25b8)
+- [AWS IoT Core Simplified - Part 4: Rules](https://dev.to/slootjes/aws-iot-core-simplified-part-4-rules-m0a)
+- [Diataxis pour organiser sa documentation](https://dev.to/onepoint/diataxis-pour-organiser-sa-documentation-2498)
+- [7 Ways to Boost Your Cybersecurity Career with CISSP Certification](https://dev.to/itechburner/7-ways-to-boost-your-cybersecurity-career-with-cissp-certification-2do2)
 <!-- BLOG-POST-LIST:END -->
 
