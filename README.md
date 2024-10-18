@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Book Nook: A Tale of Cybersecurity and Community](https://dev.to/carrie_luo1/the-book-nook-a-tale-of-cybersecurity-and-community-4hlo)
-- [The Key Questions Every Modern Frontend Framework Should Answer](https://dev.to/eransakal/the-key-questions-every-modern-frontend-framework-should-answer-1bg1)
-- [I made a fully functional social media website by using WIX](https://dev.to/shafayeat/i-made-a-fully-functional-social-media-website-by-using-wix-3jeb)
-- [My Journey with Hacktoberfest 2024](https://dev.to/zemerik/my-journey-with-hacktoberfest-2024-nce)
+- [Hyper-Scale Activated! Ship Your Own FaaS 🤖](https://dev.to/smapiot/hyper-scale-activated-ship-your-own-faas-40kg)
+- [8 Must-Have Software for Programmers on Mac](https://dev.to/angelaswift/8-must-have-software-for-programmers-on-mac-2da5)
+- [Julia Programming - Simple Wave Generator](https://dev.to/benslinux2024/julia-simple-wave-generator-5f5i)
+- [Operators](https://dev.to/umida5/operators-20om)
 <!-- BLOG-POST-LIST:END -->
 
