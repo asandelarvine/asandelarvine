@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Cost-Effective API Testing Tools Cheaper Than Postman](https://dev.to/apilover/the-most-cost-effective-api-testing-tools-cheaper-than-postman-10b8)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-53kn)
-- [Kubernetes: Introduction](https://dev.to/jutionck/introduction-1oge)
-- [Comparing jq VS js String Interpolation](https://dev.to/pkutaj/comparing-jq-vs-js-string-interpolation-4643)
+- [Software Engineering Postmortem: Real-time Chat Microservice](https://dev.to/victoriadeveloper/software-engineering-postmortem-real-time-chat-microservice-42h5)
+- [30 COMMON MONGODB INTERVIEW QUESTIONS](https://dev.to/truongpx396/30-common-mongodb-interview-questions-57c8)
+- [Time-for-space reluctance for the Wi-Fi AP scan for ESP8266](https://dev.to/zhangzhuyue/time-for-space-reluctance-for-the-wi-fi-ap-scan-for-esp8266-21nl)
+- [Day 9 Progress Journal: Creating Add Post Component UI &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-9-progress-journal-creating-add-post-component-ui-mern-stack-instagram-clone-2bgp)
 <!-- BLOG-POST-LIST:END -->
 
