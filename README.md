@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code, Collaboration, and Contributions: My First Ever Hacktoberfest Experience](https://dev.to/safdarali/code-collaboration-and-contributions-my-first-ever-hacktoberfest-experience-31de)
-- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-cma)
-- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-4nk0)
-- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-2hme)
+- [Understanding the Open/Closed Principle &lpar;OCP&rpar; from SOLID: Keep Code Flexible Yet Stable](https://dev.to/dazevedo/understanding-the-openclosed-principle-ocp-from-solid-keep-code-flexible-yet-stable-jo7)
+- [Create a unique array using Set&lpar;&rpar; in JavaScript.](https://dev.to/thinkthroo/create-a-unique-array-using-set-in-javascript-i80)
+- [How to Enable Windows Identity Foundation 3.5 in Windows 11?](https://dev.to/winsides/how-to-enable-windows-identity-foundation-35-in-windows-11-14dg)
+- [How to Automate Everyday Tasks with Python &lpar;Part 2&rpar;](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-2k67)
 <!-- BLOG-POST-LIST:END -->
 
