@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PARADIGMAS](https://dev.to/felipe_bs07/paradigmas-3dc5)
-- [7 Essential Events in React You Need to Know](https://dev.to/trushmi/7-essential-events-in-react-you-need-to-know-aan)
-- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-44pl)
-- [낯선 Rust에서 오래된 Object Pascal의 향기를 느끼다](https://dev.to/teminian/nacseon-rusteseo-oraedoen-object-pascalyi-hyanggireul-neuggida-51b7)
+- [Open Source Achievement: Completing My Third PR in Hacktoberfest](https://dev.to/anhchienvu/open-source-achievement-completing-my-third-pr-in-hacktoberfest-42ja)
+- [Task for Thursday Oct 17 - Analysis of Job of SA](https://dev.to/ndungu_jeffersonmarira_/task-for-thursday-oct-17-analysis-of-job-of-sa-15gk)
+- [First contribution to Open Source - charmbracelet/huh](https://dev.to/prithvijj/first-contribution-to-open-source-charmbracelethuh-3ifc)
+- [Caching in FastAPI: Unlocking High-Performance Development:](https://dev.to/sivakumarmanoharan/caching-in-fastapi-unlocking-high-performance-development-20ej)
 <!-- BLOG-POST-LIST:END -->
 
