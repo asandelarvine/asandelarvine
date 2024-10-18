@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Sort Algorithm like a PRO](https://dev.to/emmanuelayinde/mastering-sort-algorithm-like-a-pro-13p6)
+- [Camouflage-Shield: An Image Encryption Application.](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
 - [How to Implement Google Analytics 4 &lpar;GA4&rpar; in a Next.js Project](https://dev.to/rajeshkumaryadavdotcom/how-to-implement-google-analytics-4-ga4-in-a-nextjs-project-dm7)
 - [Security news weekly round-up - 18th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-18th-october-2024-2l6i)
-- [Mastering the DOM in JavaScript](https://dev.to/imrankhan17/mastering-the-dom-in-javascript-498o)
-- [Next.js Dynamic Routes](https://dev.to/sonaykara/nextjs-dynamic-routes-abh)
 <!-- BLOG-POST-LIST:END -->
 
