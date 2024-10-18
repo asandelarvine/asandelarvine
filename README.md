@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between Null, NaN , isNaN&lpar;&rpar; and undefined in JavaScript?](https://dev.to/tanvir_ahamed/what-is-the-difference-between-null-nan-and-undefined-in-javascript-2g6i)
-- [Batch vs Online Learning: Breaking It Down for You](https://dev.to/harincoder/batch-vs-online-learning-breaking-it-down-for-you-3n8h)
-- [Weekly Updates - October 18, 2024](https://dev.to/couchbase/weekly-updates-october-18-2024-k)
-- [Web Service Calling Web Service](https://dev.to/gliimly/web-service-calling-web-service-15nb)
+- [Top 5 Open Source Tools Platform, SRE, and DevOps need in 2024](https://dev.to/jsbroks/top-5-open-source-tools-platform-sre-and-devops-need-in-2024-3hdm)
+- [Boosting Performance with .NET 8 and Blazor](https://dev.to/prahladyeri/boosting-performance-with-net-8-and-blazor-33dd)
+- [*Mastering Informatica Intelligent Cloud Services &lpar;IICS&rpar; for Cloud Data Integration*](https://dev.to/ashik_rodolfo/mastering-informatica-intelligent-cloud-services-iics-for-cloud-data-integration-43gk)
+- [Introducing Hanko: the open-source alternative to clerk](https://dev.to/naprila/introducing-hanko-the-open-source-alternative-to-clerk-md8)
 <!-- BLOG-POST-LIST:END -->
 
