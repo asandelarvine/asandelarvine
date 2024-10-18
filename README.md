@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Inspect Element on an Android App &lpar;Easily&rpar;](https://dev.to/prakhars/how-to-inspect-element-on-an-android-app-easily-25b8)
-- [AWS IoT Core Simplified - Part 4: Rules](https://dev.to/slootjes/aws-iot-core-simplified-part-4-rules-m0a)
-- [Diataxis pour organiser sa documentation](https://dev.to/onepoint/diataxis-pour-organiser-sa-documentation-2498)
-- [7 Ways to Boost Your Cybersecurity Career with CISSP Certification](https://dev.to/itechburner/7-ways-to-boost-your-cybersecurity-career-with-cissp-certification-2do2)
+- [The Book Nook: A Tale of Cybersecurity and Community](https://dev.to/carrie_luo1/the-book-nook-a-tale-of-cybersecurity-and-community-4hlo)
+- [The Key Questions Every Modern Frontend Framework Should Answer](https://dev.to/eransakal/the-key-questions-every-modern-frontend-framework-should-answer-1bg1)
+- [I made a fully functional social media website by using WIX](https://dev.to/shafayeat/i-made-a-fully-functional-social-media-website-by-using-wix-3jeb)
+- [My Journey with Hacktoberfest 2024](https://dev.to/zemerik/my-journey-with-hacktoberfest-2024-nce)
 <!-- BLOG-POST-LIST:END -->
 
