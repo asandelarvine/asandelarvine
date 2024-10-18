@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQL Terminal: Create Databases, Tables and more.](https://dev.to/xxzeroxx/mysql-terminal-create-databases-tables-and-more-26j2)
-- [Understanding Package Manager and Systemctl](https://dev.to/farukh166/understanding-package-manager-and-systemctl-2d9o)
-- [Agile and DevOps Transformation: a Successor](https://dev.to/simonmafany/agile-and-devops-transformation-a-successor-1ga8)
-- [Unlocking the Power of AWS Console to Code: A Game-Changer for DevOps and Infrastructure as code &lpar;IaC&rpar;](https://dev.to/aws-builders/unlocking-the-power-of-aws-console-to-code-a-game-changer-for-devops-and-infrastructure-as-code-iac-411l)
+- [Code, Collaboration, and Contributions: My First Ever Hacktoberfest Experience](https://dev.to/safdarali/code-collaboration-and-contributions-my-first-ever-hacktoberfest-experience-31de)
+- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-cma)
+- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-4nk0)
+- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-2hme)
 <!-- BLOG-POST-LIST:END -->
 
