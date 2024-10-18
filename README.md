@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤩How I prepared for AWS Solutions Architect Professional &lpar;SAP-C02&rpar; Exam](https://dev.to/mastercam123/how-i-prepared-for-aws-solutions-architect-professional-sap-c02-exam-3b5e)
-- [How To Use Pan for Easy Analytics in Your Laravel App](https://dev.to/bobbyiliev/how-to-use-pan-for-easy-analytics-in-your-laravel-app-omc)
-- [Discriminated unions in ReactJS](https://dev.to/kasir-barati/discriminated-unions-in-reactjs-5g25)
-- [Count Number of Maximum Bitwise-OR Subsets](https://dev.to/prashantrmishra/count-number-of-maximum-bitwise-or-subsets-2i7l)
+- [What is the difference between Null, NaN , isNaN&lpar;&rpar; and undefined in JavaScript?](https://dev.to/tanvir_ahamed/what-is-the-difference-between-null-nan-and-undefined-in-javascript-2g6i)
+- [Batch vs Online Learning: Breaking It Down for You](https://dev.to/harincoder/batch-vs-online-learning-breaking-it-down-for-you-3n8h)
+- [Weekly Updates - October 18, 2024](https://dev.to/couchbase/weekly-updates-october-18-2024-k)
+- [Web Service Calling Web Service](https://dev.to/gliimly/web-service-calling-web-service-15nb)
 <!-- BLOG-POST-LIST:END -->
 
