@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering Postmortem: Real-time Chat Microservice](https://dev.to/victoriadeveloper/software-engineering-postmortem-real-time-chat-microservice-42h5)
-- [30 COMMON MONGODB INTERVIEW QUESTIONS](https://dev.to/truongpx396/30-common-mongodb-interview-questions-57c8)
-- [Time-for-space reluctance for the Wi-Fi AP scan for ESP8266](https://dev.to/zhangzhuyue/time-for-space-reluctance-for-the-wi-fi-ap-scan-for-esp8266-21nl)
-- [Day 9 Progress Journal: Creating Add Post Component UI &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-9-progress-journal-creating-add-post-component-ui-mern-stack-instagram-clone-2bgp)
+- [Cloud Computing: The Future of Flexible and Efficient Digital Infrastructure](https://dev.to/vascomm/cloud-computing-the-future-of-flexible-and-efficient-digital-infrastructure-1ief)
+- [How to Implement Machine Readable Zone &lpar;MRZ&rpar; Recognition in Python](https://dev.to/yushulx/how-to-implement-machine-readable-zone-mrz-recognition-in-python-574h)
+- [Examful.ai: AI-powered AP, IB, and A-Level exam preparation tool](https://dev.to/fredai/examfulai-ai-powered-ap-ib-and-a-level-exam-preparation-tool-4520)
+- [Empowering Open-Source: My LFX Mentorship Adventure with Thanos](https://dev.to/agagag/empowering-open-source-my-lfx-mentorship-adventure-with-thanos-2mfj)
 <!-- BLOG-POST-LIST:END -->
 
