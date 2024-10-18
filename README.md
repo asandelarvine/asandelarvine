@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect and query multiple databases with a single REST API](https://dev.to/thadguidry/how-to-connect-and-query-multiple-databases-with-a-single-rest-api-2jml)
-- [Optical Investment Calculator](https://dev.to/mauro_peluso_22/optical-investment-calculator-f5o)
-- [Vue.js for Beginners 2024 #VueJs Part 7 : Understanding Lifecycle Hooks](https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-7-understanding-lifecycle-hooks-46jn)
-- [How Cloud Computing Enhances Scalability and Performance](https://dev.to/adityabhuyan/how-cloud-computing-enhances-scalability-and-performance-oom)
+- [The Most Cost-Effective API Testing Tools Cheaper Than Postman](https://dev.to/apilover/the-most-cost-effective-api-testing-tools-cheaper-than-postman-10b8)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-53kn)
+- [Kubernetes: Introduction](https://dev.to/jutionck/introduction-1oge)
+- [Comparing jq VS js String Interpolation](https://dev.to/pkutaj/comparing-jq-vs-js-string-interpolation-4643)
 <!-- BLOG-POST-LIST:END -->
 
