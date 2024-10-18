@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proud Participant of Hacktoberfest 2024! 🎉](https://dev.to/devops_descent/proud-participant-of-hacktoberfest-2024-28l5)
-- [Reload NGINX configuration using Docker](https://dev.to/sertxudev/reload-nginx-configuration-using-docker-j1j)
-- [Leading Crypto Wallet App Development Companies 2024](https://dev.to/kzier/leading-crypto-wallet-app-development-companies-2024-85l)
-- [Testing hell 😱. Honest question. How do you survive? What&#39;s your secret?](https://dev.to/opensourcee/testing-hell-how-do-you-survive-whats-your-secret-263c)
+- [🤩How I prepared for AWS Solutions Architect Professional &lpar;SAP-C02&rpar; Exam](https://dev.to/mastercam123/how-i-prepared-for-aws-solutions-architect-professional-sap-c02-exam-3b5e)
+- [How To Use Pan for Easy Analytics in Your Laravel App](https://dev.to/bobbyiliev/how-to-use-pan-for-easy-analytics-in-your-laravel-app-omc)
+- [Discriminated unions in ReactJS](https://dev.to/kasir-barati/discriminated-unions-in-reactjs-5g25)
+- [Count Number of Maximum Bitwise-OR Subsets](https://dev.to/prashantrmishra/count-number-of-maximum-bitwise-or-subsets-2i7l)
 <!-- BLOG-POST-LIST:END -->
 
