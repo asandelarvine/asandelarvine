@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Open Source Tools Platform, SRE, and DevOps need in 2024](https://dev.to/jsbroks/top-5-open-source-tools-platform-sre-and-devops-need-in-2024-3hdm)
-- [Boosting Performance with .NET 8 and Blazor](https://dev.to/prahladyeri/boosting-performance-with-net-8-and-blazor-33dd)
-- [*Mastering Informatica Intelligent Cloud Services &lpar;IICS&rpar; for Cloud Data Integration*](https://dev.to/ashik_rodolfo/mastering-informatica-intelligent-cloud-services-iics-for-cloud-data-integration-43gk)
-- [Introducing Hanko: the open-source alternative to clerk](https://dev.to/naprila/introducing-hanko-the-open-source-alternative-to-clerk-md8)
+- [MySQL Terminal: Create Databases, Tables and more.](https://dev.to/xxzeroxx/mysql-terminal-create-databases-tables-and-more-26j2)
+- [Understanding Package Manager and Systemctl](https://dev.to/farukh166/understanding-package-manager-and-systemctl-2d9o)
+- [Agile and DevOps Transformation: a Successor](https://dev.to/simonmafany/agile-and-devops-transformation-a-successor-1ga8)
+- [Unlocking the Power of AWS Console to Code: A Game-Changer for DevOps and Infrastructure as code &lpar;IaC&rpar;](https://dev.to/aws-builders/unlocking-the-power-of-aws-console-to-code-a-game-changer-for-devops-and-infrastructure-as-code-iac-411l)
 <!-- BLOG-POST-LIST:END -->
 
