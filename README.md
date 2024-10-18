@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing: The Future of Flexible and Efficient Digital Infrastructure](https://dev.to/vascomm/cloud-computing-the-future-of-flexible-and-efficient-digital-infrastructure-1ief)
-- [How to Implement Machine Readable Zone &lpar;MRZ&rpar; Recognition in Python](https://dev.to/yushulx/how-to-implement-machine-readable-zone-mrz-recognition-in-python-574h)
-- [Examful.ai: AI-powered AP, IB, and A-Level exam preparation tool](https://dev.to/fredai/examfulai-ai-powered-ap-ib-and-a-level-exam-preparation-tool-4520)
-- [Empowering Open-Source: My LFX Mentorship Adventure with Thanos](https://dev.to/agagag/empowering-open-source-my-lfx-mentorship-adventure-with-thanos-2mfj)
+- [Future Of AI In Influencer Marketing](https://dev.to/techdogs_inc/future-of-ai-in-influencer-marketing-4484)
+- [Clone a private repository with PAT from Github](https://dev.to/hyperkai/clone-a-private-repository-with-pat-from-github-425d)
+- [Perform Distinct on Ordered Numbers in a Text File #eg61](https://dev.to/esproc_spl/perform-distinct-on-ordered-numbers-in-a-text-file-eg61-2blo)
+- [Mastering the final Keyword in Java: Constants, Immutability, and More](https://dev.to/arshisaxena26/mastering-the-final-keyword-in-java-constants-immutability-and-more-34kj)
 <!-- BLOG-POST-LIST:END -->
 
