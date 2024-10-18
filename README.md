@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Achievement: Completing My Third PR in Hacktoberfest](https://dev.to/anhchienvu/open-source-achievement-completing-my-third-pr-in-hacktoberfest-42ja)
-- [Task for Thursday Oct 17 - Analysis of Job of SA](https://dev.to/ndungu_jeffersonmarira_/task-for-thursday-oct-17-analysis-of-job-of-sa-15gk)
-- [First contribution to Open Source - charmbracelet/huh](https://dev.to/prithvijj/first-contribution-to-open-source-charmbracelethuh-3ifc)
-- [Caching in FastAPI: Unlocking High-Performance Development:](https://dev.to/sivakumarmanoharan/caching-in-fastapi-unlocking-high-performance-development-20ej)
+- [Cloud Computing for Startups: How to Get Started](https://dev.to/adityabhuyan/cloud-computing-for-startups-how-to-get-started-5ghm)
+- [Cloud Computing Security Best Practices for Enterprises](https://dev.to/adityabhuyan/cloud-computing-security-best-practices-for-enterprises-l2f)
+- [A Beginner&#39;s Guide to Growing Your Wealth](https://dev.to/steve_rogers_62fc417ba385/a-beginners-guide-to-growing-your-wealth-e1)
+- [How to Edit php.ini Files](https://dev.to/hurayraiit/how-to-edit-phpini-files-1fdk)
 <!-- BLOG-POST-LIST:END -->
 
