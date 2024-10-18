@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing for Startups: How to Get Started](https://dev.to/adityabhuyan/cloud-computing-for-startups-how-to-get-started-5ghm)
-- [Cloud Computing Security Best Practices for Enterprises](https://dev.to/adityabhuyan/cloud-computing-security-best-practices-for-enterprises-l2f)
-- [A Beginner&#39;s Guide to Growing Your Wealth](https://dev.to/steve_rogers_62fc417ba385/a-beginners-guide-to-growing-your-wealth-e1)
-- [How to Edit php.ini Files](https://dev.to/hurayraiit/how-to-edit-phpini-files-1fdk)
+- [How to connect and query multiple databases with a single REST API](https://dev.to/thadguidry/how-to-connect-and-query-multiple-databases-with-a-single-rest-api-2jml)
+- [Optical Investment Calculator](https://dev.to/mauro_peluso_22/optical-investment-calculator-f5o)
+- [Vue.js for Beginners 2024 #VueJs Part 7 : Understanding Lifecycle Hooks](https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-7-understanding-lifecycle-hooks-46jn)
+- [How Cloud Computing Enhances Scalability and Performance](https://dev.to/adityabhuyan/how-cloud-computing-enhances-scalability-and-performance-oom)
 <!-- BLOG-POST-LIST:END -->
 
