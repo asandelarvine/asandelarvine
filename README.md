@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DynamoDB Transactions with AWS Step Functions](https://dev.to/viktorardelean/dynamodb-transactions-with-aws-step-functions-3k7d)
-- [Some sort of way to do things realistically without being the thing](https://dev.to/dreamwraithtulpa/some-sort-of-way-to-do-things-realistically-without-being-the-thing-345a)
-- [How to Add Domains and IP Addresses to Docker Containers](https://dev.to/berk/how-to-add-domains-and-ip-addresses-to-docker-containers-h9p)
-- [Building RESTful APIs with Node.js and Express: Step-by-Step Tutorial](https://dev.to/anticoder03/building-restful-apis-with-nodejs-and-express-step-by-step-tutorial-2oc6)
+- [Different Between Graphic Design and UI/UX Design](https://dev.to/kalak_khadayat/different-between-graphic-design-and-uiux-design-5fai)
+- [Build Your First React App: Mood Tracker](https://dev.to/pflashgary/build-your-first-react-app-mood-tracker-249l)
+- [EF Core raw queries &lpar;C#&rpar;](https://dev.to/karenpayneoregon/ef-core-raw-queries-c-13fh)
+- [❓ Do you allow wrong input to enter your function?](https://dev.to/kamilpro/do-you-allow-wrong-input-to-enter-your-function-4jo1)
 <!-- BLOG-POST-LIST:END -->
 
