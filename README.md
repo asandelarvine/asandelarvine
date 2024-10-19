@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React with TypeScript: Advanced Techniques &lpar;Compatible with React 19&rpar; 🚀](https://dev.to/abdulnasirolcan/react-with-typescript-advanced-techniques-compatible-with-react-19-2cbe)
-- [COBOL Tutorial Series: A calculation program - Session 2](https://dev.to/ngtduc693/cobol-tutorial-series-a-calculation-program-f35)
-- [Building eCommerce with Next.js](https://dev.to/aelassas/building-ecommerce-with-nextjs-3aa4)
-- [15 Must-Know Python Projects for Developers](https://dev.to/goumricom/15-must-know-python-projects-for-developers-42c3)
+- [🚀 Your Daily Crypto Job Digest For 19 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-october-cee)
+- [You will use Git Tags all the time now! 😄](https://dev.to/alishgiri/you-will-use-git-tags-all-the-time-now-1ijn)
+- [How to properly add a favicon in Next.js](https://dev.to/philippe/how-to-properly-add-a-favicon-in-nextjs-54kp)
+- [COBOL Tutorial Series: Condition &lpar;IF, ELSE&rpar; statement - Session 3](https://dev.to/ngtduc693/cobol-tutorial-series-condition-if-else-statement-session-3-2kle)
 <!-- BLOG-POST-LIST:END -->
 
