@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Learning Journey 1.0](https://dev.to/tilee/java-learning-journey-10-14fh)
-- [Latest Newsletter: Authentic blocking frenzy antidote &lpar;Issue #186&rpar;](https://dev.to/mjgs/latest-newsletter-authentic-blocking-frenzy-antidote-issue-186-egk)
-- [Determine Server Capacity to handle the requests](https://dev.to/raiyan_memon/determine-server-capacity-to-handle-the-requests-2gl9)
-- [𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫](https://dev.to/meghasharmaaaa/-22j1)
+- [React with TypeScript: Advanced Techniques &lpar;Compatible with React 19&rpar; 🚀](https://dev.to/abdulnasirolcan/react-with-typescript-advanced-techniques-compatible-with-react-19-2cbe)
+- [COBOL Tutorial Series: A calculation program - Session 2](https://dev.to/ngtduc693/cobol-tutorial-series-a-calculation-program-f35)
+- [Building eCommerce with Next.js](https://dev.to/aelassas/building-ecommerce-with-nextjs-3aa4)
+- [15 Must-Know Python Projects for Developers](https://dev.to/goumricom/15-must-know-python-projects-for-developers-42c3)
 <!-- BLOG-POST-LIST:END -->
 
