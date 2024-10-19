@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Soft Morph Elements w/SVG](https://dev.to/mandynicole/soft-morph-elements-wsvg-55h9)
-- [Cómo Realizar y Detectar Ataques de Path Injection](https://dev.to/michaelsperalta/como-realizar-y-detectar-ataques-de-path-injection-3457)
-- [Mastering Compiler Design: A Comprehensive Collection of Free Programming Resources](https://dev.to/getvm/mastering-compiler-design-a-comprehensive-collection-of-free-programming-resources-1e0j)
-- [Automated Lead Generation: Find &amp; Email Lookalike Companies Using Ocean.io &amp; Latenode](https://dev.to/latenode/automated-lead-generation-find-email-lookalike-companies-using-oceanio-latenode-33o8)
+- [Proxy Design Pattern](https://dev.to/srishtikprasad/proxy-design-pattern-4mm)
+- [System Design: UPI &lpar;Unified Payment Interface&rpar;](https://dev.to/zeeshanali0704/system-design-upi-unified-payment-interface-2ng3)
+- [Jumping Into The Deep End](https://dev.to/udayrana/jumping-into-the-deep-end-4j1m)
+- [Janus 1.3B: A Unified Model for Multimodal Understanding and Generation Tasks](https://dev.to/m_sea_bass/janus-13b-a-unified-model-for-multimodal-understanding-and-generation-tasks-40ik)
 <!-- BLOG-POST-LIST:END -->
 
