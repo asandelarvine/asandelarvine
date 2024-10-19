@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable Windows Projected File System in Windows 11](https://dev.to/winsides/how-to-enable-windows-projected-file-system-in-windows-11-461a)
-- [Why Students Should Explore Microsoft Azure: The Cloud Platform for Your Future 🚀](https://dev.to/mahrukh_adeel/why-students-should-explore-microsoft-azure-the-cloud-platform-for-your-future-238c)
-- [HackTheBox - Writeup Editorial [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-editorial-retired-2pcn)
-- [Day 7 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-7-of-365-10-million-yen-japan-career-switch-challenge-3ohb)
+- [🚀 Unlock the Power of Next.js with These Exciting Features! 🚀](https://dev.to/pains_arch/unlock-the-power-of-nextjs-with-these-exciting-features-jjc)
+- [My PRs in Hacktoberfest 2024](https://dev.to/ramy-badr-ahmed/my-prs-in-hacktoberfest-2024-2hkf)
+- [A Coding Adventure Awaits!](https://dev.to/seb-dojo/a-coding-adventure-awaits-o26)
+- [Nearest multiple of 10](https://dev.to/obrutus/nearest-multiple-of-10-9od)
 <!-- BLOG-POST-LIST:END -->
 
