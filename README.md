@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Convolutional Neural Networks](https://dev.to/samder/introduction-to-convolutional-neural-networks-4lmp)
-- [In WebForms Core Technology, All the Disadvantages of Microsoft&#39;s Former WebForms have been Fixed](https://dev.to/elanatframework/in-webforms-core-technology-all-the-disadvantages-of-microsofts-former-webforms-have-been-fixed-21bo)
-- [Understanding about React Outlet with proper routing](https://dev.to/mana95/understanding-about-react-outlet-with-proper-routing-2mo)
-- [Easy Authentication Using Hanko.io](https://dev.to/istaprasad_patra_db896155/easy-authentication-using-hankoio-2okd)
+- [How I Wrote Express-Go in 19 Hours](https://dev.to/brunociccarino/how-i-wrote-express-go-in-19-hours-3ndh)
+- [Streamlining Your Rails 8 App: Migrating from Postgres to SQLite](https://dev.to/visini/streamlining-your-rails-8-app-migrating-from-postgres-to-sqlite-5gd7)
+- [LabEx Trending: Student Grade Management System and More](https://dev.to/labex/labex-trending-student-grade-management-system-and-more-2fao)
+- [COBOL Tutorial Series: Working with Database - Session 5](https://dev.to/ngtduc693/cobol-tutorial-series-working-with-database-session-5-42gp)
 <!-- BLOG-POST-LIST:END -->
 
