@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Wrote Express-Go in 19 Hours](https://dev.to/brunociccarino/how-i-wrote-express-go-in-19-hours-3ndh)
-- [Streamlining Your Rails 8 App: Migrating from Postgres to SQLite](https://dev.to/visini/streamlining-your-rails-8-app-migrating-from-postgres-to-sqlite-5gd7)
-- [LabEx Trending: Student Grade Management System and More](https://dev.to/labex/labex-trending-student-grade-management-system-and-more-2fao)
-- [COBOL Tutorial Series: Working with Database - Session 5](https://dev.to/ngtduc693/cobol-tutorial-series-working-with-database-session-5-42gp)
+- [How to Enable Windows Projected File System in Windows 11](https://dev.to/winsides/how-to-enable-windows-projected-file-system-in-windows-11-461a)
+- [Why Students Should Explore Microsoft Azure: The Cloud Platform for Your Future 🚀](https://dev.to/mahrukh_adeel/why-students-should-explore-microsoft-azure-the-cloud-platform-for-your-future-238c)
+- [HackTheBox - Writeup Editorial [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-editorial-retired-2pcn)
+- [Day 7 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-7-of-365-10-million-yen-japan-career-switch-challenge-3ohb)
 <!-- BLOG-POST-LIST:END -->
 
