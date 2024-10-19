@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Different Between Graphic Design and UI/UX Design](https://dev.to/kalak_khadayat/different-between-graphic-design-and-uiux-design-5fai)
-- [Build Your First React App: Mood Tracker](https://dev.to/pflashgary/build-your-first-react-app-mood-tracker-249l)
-- [EF Core raw queries &lpar;C#&rpar;](https://dev.to/karenpayneoregon/ef-core-raw-queries-c-13fh)
-- [❓ Do you allow wrong input to enter your function?](https://dev.to/kamilpro/do-you-allow-wrong-input-to-enter-your-function-4jo1)
+- [Dockerizing a Next.js Application using a Standalone Build](https://dev.to/charliet1802/dockerizing-a-nextjs-application-using-a-standalone-build-2co9)
+- [B-tree: The Secret Recipe Behind Efficient Data Handling 🍰](https://dev.to/tuna99/b-tree-the-secret-recipe-behind-efficient-data-handling-5do8)
+- [Mastering the Fundamentals: Ready for Advanced Web Development Projects](https://dev.to/willowjr/mastering-the-fundamentals-ready-for-advanced-web-development-projects-2fdi)
+- [1545. Find Kth Bit in Nth Binary String](https://dev.to/mdarifulhaque/1545-find-kth-bit-in-nth-binary-string-1lek)
 <!-- BLOG-POST-LIST:END -->
 
