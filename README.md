@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlock the Power of Next.js with These Exciting Features! 🚀](https://dev.to/pains_arch/unlock-the-power-of-nextjs-with-these-exciting-features-jjc)
-- [My PRs in Hacktoberfest 2024](https://dev.to/ramy-badr-ahmed/my-prs-in-hacktoberfest-2024-2hkf)
-- [A Coding Adventure Awaits!](https://dev.to/seb-dojo/a-coding-adventure-awaits-o26)
-- [Nearest multiple of 10](https://dev.to/obrutus/nearest-multiple-of-10-9od)
+- [Implementing Edge Detection with Python and OpenCV: A Step-by-Step Guide](https://dev.to/chidoziemanagwu/implementing-edge-detection-with-python-and-opencv-a-step-by-step-guide-57ab)
+- [Converting SVG to JPG: A Complete Guide](https://dev.to/msmith99994/converting-svg-to-jpg-a-complete-guide-217f)
+- [Create an Anime Dashboard with React, Jikan API, Firebase Authentication, TailwindCSS &amp; Chart.js](https://dev.to/tarim_bilal_3e13ed97b36be/create-an-anime-dashboard-with-react-jikan-api-firebase-authentication-tailwindcss-chartjs-np7)
+- [How to Easily Convert an Image to GIF: A Step-by-Step Guide](https://dev.to/msmith99994/how-to-easily-convert-an-image-to-gif-a-step-by-step-guide-41c0)
 <!-- BLOG-POST-LIST:END -->
 
