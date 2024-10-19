@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Markdown and Image Translations with Co-op Translator](https://dev.to/skytin1004/automating-markdown-and-image-translations-with-co-op-translator-50lm)
-- [COBOL Tutorial Series: Loop statements - Session 4](https://dev.to/ngtduc693/cobol-tutorial-series-loop-statements-session-4-21la)
-- [Building emmanuel-dot-clone.netlify.app &lpar;A clone of dot.ai&rpar; with Astro JS](https://dev.to/professor12/building-emmanuel-dot-clonenetlifyapp-a-clone-of-dotai-with-astro-js-4e8n)
-- [Data-Driven Marketing: Improve Customer Experience and Sales](https://dev.to/tn_trnnh_bba09e66a2d/data-driven-marketing-improve-customer-experience-and-sales-1gld)
+- [Static Keyword: Decoding Static Blocks in Java](https://dev.to/arshisaxena26/static-keyword-decoding-static-blocks-in-java-11i8)
+- [Fixing VS Code Go to Definition Issue on Linux Mint](https://dev.to/markadel/fixing-vs-code-go-to-definition-issue-on-linux-mint-2j24)
+- [Swarm AI Agents with Java and OpenAI](https://dev.to/vishalmysore/swarm-ai-agents-with-java-and-openai-384e)
+- [React Toolset for Efficient Code Management](https://dev.to/huzaifa_malik_2d0cb96b998/react-toolset-for-efficient-code-management-1g24)
 <!-- BLOG-POST-LIST:END -->
 
