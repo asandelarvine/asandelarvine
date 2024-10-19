@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing DevCorner A Blogging Haven Specially Built For Developers &amp; Tech Enthusiast!](https://dev.to/codevsom/introducing-devcorner-a-blogging-haven-specially-built-for-developers-tech-enthusiast-3gpc)
-- [Building a Room Cost Estimator with JavaScript](https://dev.to/thounny/building-a-room-cost-estimator-with-javascript-45h7)
-- [How I created a QR Code Generator in Python](https://dev.to/abeck617/how-i-created-a-qr-code-generator-in-python-5dmo)
-- [Advanced Techniques in React State Management](https://dev.to/kartikmehta8/advanced-techniques-in-react-state-management-2db)
+- [hello would!](https://dev.to/mphpmaster/hello-would-6d3)
+- [Diving into Reactjs](https://dev.to/undrthegraveyard/diving-into-reactjs-4eid)
+- [Get Started with Python today](https://dev.to/efrataaron/get-started-with-python-today-p40)
+- [Understanding Comments in PHP](https://dev.to/hurayraiit/understanding-comments-in-php-30h6)
 <!-- BLOG-POST-LIST:END -->
 
