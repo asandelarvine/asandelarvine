@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Keyword: Decoding Static Blocks in Java](https://dev.to/arshisaxena26/static-keyword-decoding-static-blocks-in-java-11i8)
-- [Fixing VS Code Go to Definition Issue on Linux Mint](https://dev.to/markadel/fixing-vs-code-go-to-definition-issue-on-linux-mint-2j24)
-- [Swarm AI Agents with Java and OpenAI](https://dev.to/vishalmysore/swarm-ai-agents-with-java-and-openai-384e)
-- [React Toolset for Efficient Code Management](https://dev.to/huzaifa_malik_2d0cb96b998/react-toolset-for-efficient-code-management-1g24)
+- [DynamoDB Transactions with AWS Step Functions](https://dev.to/viktorardelean/dynamodb-transactions-with-aws-step-functions-3k7d)
+- [Some sort of way to do things realistically without being the thing](https://dev.to/dreamwraithtulpa/some-sort-of-way-to-do-things-realistically-without-being-the-thing-345a)
+- [How to Add Domains and IP Addresses to Docker Containers](https://dev.to/berk/how-to-add-domains-and-ip-addresses-to-docker-containers-h9p)
+- [Building RESTful APIs with Node.js and Express: Step-by-Step Tutorial](https://dev.to/anticoder03/building-restful-apis-with-nodejs-and-express-step-by-step-tutorial-2oc6)
 <!-- BLOG-POST-LIST:END -->
 
