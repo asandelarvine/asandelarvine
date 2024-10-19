@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing a Next.js Application using a Standalone Build](https://dev.to/charliet1802/dockerizing-a-nextjs-application-using-a-standalone-build-2co9)
-- [B-tree: The Secret Recipe Behind Efficient Data Handling 🍰](https://dev.to/tuna99/b-tree-the-secret-recipe-behind-efficient-data-handling-5do8)
-- [Mastering the Fundamentals: Ready for Advanced Web Development Projects](https://dev.to/willowjr/mastering-the-fundamentals-ready-for-advanced-web-development-projects-2fdi)
-- [1545. Find Kth Bit in Nth Binary String](https://dev.to/mdarifulhaque/1545-find-kth-bit-in-nth-binary-string-1lek)
+- [Introduction to Convolutional Neural Networks](https://dev.to/samder/introduction-to-convolutional-neural-networks-4lmp)
+- [In WebForms Core Technology, All the Disadvantages of Microsoft&#39;s Former WebForms have been Fixed](https://dev.to/elanatframework/in-webforms-core-technology-all-the-disadvantages-of-microsofts-former-webforms-have-been-fixed-21bo)
+- [Understanding about React Outlet with proper routing](https://dev.to/mana95/understanding-about-react-outlet-with-proper-routing-2mo)
+- [Easy Authentication Using Hanko.io](https://dev.to/istaprasad_patra_db896155/easy-authentication-using-hankoio-2okd)
 <!-- BLOG-POST-LIST:END -->
 
