@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Sort Algorithm like a PRO](https://dev.to/emmanuelayinde/mastering-sort-algorithm-like-a-pro-13p6)
-- [Camouflage-Shield: An Image Encryption Application.](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
-- [How to Implement Google Analytics 4 &lpar;GA4&rpar; in a Next.js Project](https://dev.to/rajeshkumaryadavdotcom/how-to-implement-google-analytics-4-ga4-in-a-nextjs-project-dm7)
-- [Security news weekly round-up - 18th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-18th-october-2024-2l6i)
+- [Introducing DevCorner A Blogging Haven Specially Built For Developers &amp; Tech Enthusiast!](https://dev.to/codevsom/introducing-devcorner-a-blogging-haven-specially-built-for-developers-tech-enthusiast-3gpc)
+- [Building a Room Cost Estimator with JavaScript](https://dev.to/thounny/building-a-room-cost-estimator-with-javascript-45h7)
+- [How I created a QR Code Generator in Python](https://dev.to/abeck617/how-i-created-a-qr-code-generator-in-python-5dmo)
+- [Advanced Techniques in React State Management](https://dev.to/kartikmehta8/advanced-techniques-in-react-state-management-2db)
 <!-- BLOG-POST-LIST:END -->
 
