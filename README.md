@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to GitHub](https://dev.to/kiran_baliga/a-beginners-guide-to-github-3966)
-- [Why Angular Remains a Top Choice for Web Development in 2024 ?](https://dev.to/aapgs_b8d41d300e2d50c4e5d/why-angular-remains-a-top-choice-for-web-development-in-2024--2pnj)
-- [VULNERABILITY RESEARCH](https://dev.to/sane08/vulnerability-research-57ej)
-- [Top Challenging and hardest javascript technical interview questions with solutions.](https://dev.to/vishal_tiwari_114f21d14e5/top-challenging-and-hardest-javascript-technical-interview-questions-with-solutions-3189)
+- [Hosting presentation on Read the Docs](https://dev.to/attakei/hosting-presentation-on-read-the-docs-3lkc)
+- [Embracing the Future: 30 days with AI Coding Tools](https://dev.to/kination/embracing-the-future-30-days-with-ai-coding-tools-3ni8)
+- [Optimizing Game Performance: Best Practices for Managing Memory and CPU Usage](https://dev.to/gamepro/optimizing-game-performance-best-practices-for-managing-memory-and-cpu-usage-1mc0)
+- [Complete CICD with Gitlab Kubernetes Runner, Gitlab KAS Agent, Kaniko and other Devops tools.](https://dev.to/raju_nandi_a2f810bf3664b6/complete-cicd-with-gitlab-kubernetes-runner-gitlab-kas-agent-kaniko-and-other-devops-tools-a8e)
 <!-- BLOG-POST-LIST:END -->
 
