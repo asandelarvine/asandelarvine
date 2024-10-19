@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxy Design Pattern](https://dev.to/srishtikprasad/proxy-design-pattern-4mm)
-- [System Design: UPI &lpar;Unified Payment Interface&rpar;](https://dev.to/zeeshanali0704/system-design-upi-unified-payment-interface-2ng3)
-- [Jumping Into The Deep End](https://dev.to/udayrana/jumping-into-the-deep-end-4j1m)
-- [Janus 1.3B: A Unified Model for Multimodal Understanding and Generation Tasks](https://dev.to/m_sea_bass/janus-13b-a-unified-model-for-multimodal-understanding-and-generation-tasks-40ik)
+- [Want your productivity to skyrocket? Avoid this trap!](https://dev.to/moozzyk/want-your-productivity-to-skyrocket-avoid-this-trap-4mdm)
+- [COBOL Tutorial Series: Developing Without a Mainframe](https://dev.to/ngtduc693/cobol-tutorial-series-developing-without-a-mainframe-3kah)
+- [Understanding Enterprise JavaBeans &lpar;EJB&rpar;: The Backbone of Java EE Applications](https://dev.to/adityabhuyan/understanding-enterprise-javabeans-ejb-the-backbone-of-java-ee-applications-27jg)
+- [Lançando uma exceção com throw](https://dev.to/devsjavagirls/lancando-uma-excecao-com-throw-21c)
 <!-- BLOG-POST-LIST:END -->
 
