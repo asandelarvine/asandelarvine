@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting presentation on Read the Docs](https://dev.to/attakei/hosting-presentation-on-read-the-docs-3lkc)
-- [Embracing the Future: 30 days with AI Coding Tools](https://dev.to/kination/embracing-the-future-30-days-with-ai-coding-tools-3ni8)
-- [Optimizing Game Performance: Best Practices for Managing Memory and CPU Usage](https://dev.to/gamepro/optimizing-game-performance-best-practices-for-managing-memory-and-cpu-usage-1mc0)
-- [Complete CICD with Gitlab Kubernetes Runner, Gitlab KAS Agent, Kaniko and other Devops tools.](https://dev.to/raju_nandi_a2f810bf3664b6/complete-cicd-with-gitlab-kubernetes-runner-gitlab-kas-agent-kaniko-and-other-devops-tools-a8e)
+- [Edit HTML files visually.](https://dev.to/urin/edit-html-files-visually-2a0l)
+- [My submission](https://dev.to/qaismohib2345/my-submission-52d4)
+- [Hello Folks I am Web And Graphic Designer](https://dev.to/nidhir_parmar_acc1a44849c/hello-folks-i-am-web-and-graphic-designer-312b)
+- [How Much Does Custom Insurance Software Development Cost in 2024?](https://dev.to/clashing_queen/how-much-does-custom-insurance-software-development-cost-in-2024-lek)
 <!-- BLOG-POST-LIST:END -->
 
