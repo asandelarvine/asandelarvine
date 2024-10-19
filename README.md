@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone knows how to debug Volt component in Laravel using vscode?](https://dev.to/arfn/does-anyone-knows-how-to-debug-volt-component-in-laravel-using-vscode-2k77)
-- [10 Scalability Lessons from Zoom&#39;s Software Architecture](https://dev.to/somadevtoo/10-scalability-lessons-from-zooms-software-architecture-6g3)
-- [Benefits and Drawbacks of Adopting Clean Architecture](https://dev.to/yukionishi1129/benefits-and-drawbacks-of-adopting-clean-architecture-2pd1)
-- [جدول الضرب](https://dev.to/mona_razg_0fc11d20091fcd8/jdwl-ldrb-3ilp)
+- [Java Learning Journey 1.0](https://dev.to/tilee/java-learning-journey-10-14fh)
+- [Latest Newsletter: Authentic blocking frenzy antidote &lpar;Issue #186&rpar;](https://dev.to/mjgs/latest-newsletter-authentic-blocking-frenzy-antidote-issue-186-egk)
+- [Determine Server Capacity to handle the requests](https://dev.to/raiyan_memon/determine-server-capacity-to-handle-the-requests-2gl9)
+- [𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫](https://dev.to/meghasharmaaaa/-22j1)
 <!-- BLOG-POST-LIST:END -->
 
