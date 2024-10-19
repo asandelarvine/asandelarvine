@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [hello would!](https://dev.to/mphpmaster/hello-would-6d3)
-- [Diving into Reactjs](https://dev.to/undrthegraveyard/diving-into-reactjs-4eid)
-- [Get Started with Python today](https://dev.to/efrataaron/get-started-with-python-today-p40)
-- [Understanding Comments in PHP](https://dev.to/hurayraiit/understanding-comments-in-php-30h6)
+- [Soft Morph Elements w/SVG](https://dev.to/mandynicole/soft-morph-elements-wsvg-55h9)
+- [Cómo Realizar y Detectar Ataques de Path Injection](https://dev.to/michaelsperalta/como-realizar-y-detectar-ataques-de-path-injection-3457)
+- [Mastering Compiler Design: A Comprehensive Collection of Free Programming Resources](https://dev.to/getvm/mastering-compiler-design-a-comprehensive-collection-of-free-programming-resources-1e0j)
+- [Automated Lead Generation: Find &amp; Email Lookalike Companies Using Ocean.io &amp; Latenode](https://dev.to/latenode/automated-lead-generation-find-email-lookalike-companies-using-oceanio-latenode-33o8)
 <!-- BLOG-POST-LIST:END -->
 
