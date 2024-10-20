@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortcomings of Current Smart City Platforms and Their Role in Sustainable &amp; Resilient Cities](https://dev.to/okyzaprabowo/shortcomings-of-current-smart-city-platforms-and-their-role-in-sustainable-resilient-cities-4c2l)
-- [In 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 , Do you know the difference between 𝐕𝐨𝐥𝐮𝐦𝐞 𝐁𝐢𝐧𝐝𝐢𝐧𝐠 and 𝐕𝐨𝐥𝐮𝐦𝐞 𝐌𝐨𝐮𝐧𝐭𝐢𝐧𝐠 ?](https://dev.to/nanditechbytes/in-do-you-know-the-difference-between-and--bjk)
-- [Deploying Nginx with Self-Signed TLS Using Helm and Minikube &lpar;Dev &amp; Staging Environments&rpar;](https://dev.to/bansikah/deploying-nginx-with-self-signed-tls-using-helm-and-minikube-dev-staging-environments-397)
-- [Replit saytidagi shell buyruqlari haqida](https://dev.to/munisa_kuranbekova_078e1e/replit-saytidagi-shell-buyruqlari-haqida-30fl)
+- [BashBlaze Day 1: Mastering the Basics of Bash Scripting](https://dev.to/hanzalawebdev/bashblaze-day-1-mastering-the-basics-of-bash-scripting-3h6k)
+- [Match a String with Regular Expression in Bash](https://dev.to/arsenikavalchuk/match-a-string-with-regular-expression-in-bash-3125)
+- [Weather Application UI Concept](https://dev.to/mihairs/weather-application-ui-concept-3m67)
+- [Mastering Bash Scripting: A Step-by-Step Guide 🚀](https://dev.to/farukh166/mastering-bash-scripting-a-step-by-step-guide-3bkg)
 <!-- BLOG-POST-LIST:END -->
 
