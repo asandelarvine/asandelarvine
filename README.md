@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Unit and Integration Testing for Minimal APIs in .NET 8: Best Practices for High-Quality Code](https://dev.to/leandroveiga/mastering-unit-and-integration-testing-for-minimal-apis-in-net-8-best-practices-for-high-quality-code-56n7)
-- [1106. Parsing A Boolean Expression](https://dev.to/mdarifulhaque/1106-parsing-a-boolean-expression-281a)
-- [CKA Full Course 2024: Day 1/40](https://dev.to/lloydrivers/cka-full-course-2024-day-140-5h35)
-- [BASH&lpar;Shell&rpar; Scripting 101](https://dev.to/prashant_1111/bashshell-scripting-101-54b8)
+- [How to find businesses without websites](https://dev.to/webdevamin/how-to-find-businesses-without-websites-57ja)
+- [Inside C# Expression Trees](https://dev.to/cleferman/inside-c-expression-trees-4kki)
+- [Simplifying Mobile Money Integration in PHP with the pawaPay SDK](https://dev.to/katorymnddev/simplifying-mobile-money-integration-in-php-with-the-pawapay-sdk-1aho)
+- [Advanced Unity Ad Mediation Systems](https://dev.to/farantariq/advanced-unity-ad-mediation-systems-4nkp)
 <!-- BLOG-POST-LIST:END -->
 
