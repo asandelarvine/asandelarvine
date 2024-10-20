@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From a Unified Bronze Layer to Multiple Silver Layers: Streamlining Data Transformation in Databricks Unity Catalog](https://dev.to/prakhyatkarri/from-a-unified-bronze-layer-to-multiple-silver-layers-streamlining-data-transformation-in-databricks-unity-catalog-1gj8)
-- [Scop in Javascript.](https://dev.to/hamadahmad000/scop-in-javascript-i47)
-- [The Surprising Tech Behind McMaster-Carr&#39;s Blazing Fast Website Speed](https://dev.to/svsharma/the-surprising-tech-behind-mcmaster-carrs-blazing-fast-website-speed-bfc)
-- [Multi-Agent System for 🚀 ANY AI/ML Model: 🌐 Web Scraping &amp; 📝 Content Analysis Powered by the 🔗 AI/ML API](https://dev.to/jadouse5/multi-agent-system-for-any-aiml-model-web-scraping-content-analysis-powered-by-the-aiml-api-5ek8)
+- [React Concepts Put You In The Top 5% Of All React Developers](https://dev.to/safdarali/react-concepts-put-you-in-the-top-5-of-all-react-developers-566)
+- [How to Add a New App to a Django Project: A Step-by-Step Guide](https://dev.to/bryan_oginga/how-to-add-a-new-app-to-a-django-project-a-step-by-step-guide-4ed5)
+- [My friend got a full-stack dev job without knowing anything](https://dev.to/felipecezar01/my-friend-got-a-full-stack-dev-job-without-knowing-anything-31a2)
+- [🛍️ Build Your Dream E-Commerce Store with This Awesome GitHub Project! 💻](https://dev.to/mnq11/build-your-dream-e-commerce-store-with-this-awesome-github-project-2jaf)
 <!-- BLOG-POST-LIST:END -->
 
