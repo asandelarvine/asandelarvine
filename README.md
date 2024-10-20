@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript JS0/JSSugar Proposals, Node.js 23, Next.js 15 RC2 and more](https://dev.to/thisweekinjavascript/javascript-js0jssugar-proposals-nodejs-23-nextjs-15-rc2-and-more-328j)
-- [Resolving Docker Push Errors: &quot;Denied: Requested Access to the Resource is Denied&quot;](https://dev.to/dm8ry/resolving-docker-push-errors-denied-requested-access-to-the-resource-is-denied-c41)
-- [Docker &amp; Kubernetes | Docker desktop &amp; Minikube](https://dev.to/mrcaption49/docker-kubernetes-docker-desktop-minikube-3onn)
-- [What Are Bitmasks and Bitwise Operators?](https://dev.to/chris407x/what-are-bitmasks-and-bitwise-operators-448m)
+- [Mastering Unit and Integration Testing for Minimal APIs in .NET 8: Best Practices for High-Quality Code](https://dev.to/leandroveiga/mastering-unit-and-integration-testing-for-minimal-apis-in-net-8-best-practices-for-high-quality-code-56n7)
+- [1106. Parsing A Boolean Expression](https://dev.to/mdarifulhaque/1106-parsing-a-boolean-expression-281a)
+- [CKA Full Course 2024: Day 1/40](https://dev.to/lloydrivers/cka-full-course-2024-day-140-5h35)
+- [BASH&lpar;Shell&rpar; Scripting 101](https://dev.to/prashant_1111/bashshell-scripting-101-54b8)
 <!-- BLOG-POST-LIST:END -->
 
