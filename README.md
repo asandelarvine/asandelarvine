@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Cookie Consent in Any Next.js App](https://dev.to/shieldstring/how-to-handle-cookie-consent-in-any-nextjs-app-1ej4)
-- [State-Space Models Adapt by Gradient Descent, Learning in Context](https://dev.to/mikeyoung44/state-space-models-adapt-by-gradient-descent-learning-in-context-241l)
-- [Need Help with My Live Transcription Browser Extension – Not Working](https://dev.to/saifalikhan9/need-help-with-my-live-transcription-browser-extension-not-working-4j2p)
-- [Your Current Backup Automation Is Missing the Key: Ansible, AWS S3, and Cron 🔑](https://dev.to/niranyadav/your-current-backup-automation-is-missing-the-key-ansible-aws-s3-and-cron-2mb8)
+- [From Animation to Cybersecurity &amp; AI: How I Battled Self-Doubt, and 225 Job Rejections to Find My Calling](https://dev.to/samson_tech/from-animation-to-cybersecurity-ai-how-i-battled-self-doubt-and-225-job-rejections-to-find-my-calling-19pl)
+- [Mastering JavaScript Debugging: 6 Best Techniques for Newbie](https://dev.to/emma_richardson/mastering-javascript-debugging-6-best-techniques-for-newbie-52bp)
+- [C# Advanced: Understanding Anonymous Types](https://dev.to/moh_moh701/c-advanced-understanding-anonymous-types-12p6)
+- [How Can We Prevent Catastrophic Forgetting and Preserve Knowledge During LLM Fine-tuning?](https://dev.to/alexht/wei-diao-llm-2eak)
 <!-- BLOG-POST-LIST:END -->
 
