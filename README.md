@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [มาทำความรู้จัก Nautik เครื่องมือสำหรับจัดการ kubernetes ผ่าน iPhone, iPad เเละ Mac](https://dev.to/bukton123/maathamkhwaamruucchak-nautik-ekhruuengmuuesamhrabcchadkaar-kubernetes-phaan-iphone-ipad-eela-mac-3d9m)
-- [Matriz 19.10](https://dev.to/lolzcec/matriz-1910-298n)
-- [🌊 Diving Into React Hooks: A Comprehensive Guide for Modern Development](https://dev.to/hernan_vergara_e797907d83/diving-into-react-hooks-a-comprehensive-guide-for-modern-development-20lp)
-- [Why Learning Fundamentals Over Frameworks is Key to Long-Term Success in Software Development](https://dev.to/musamakhizr/why-learning-fundamentals-over-frameworks-is-key-to-long-term-success-in-software-development-3a9i)
+- [Deploy a Static Astro Site on Railway](https://dev.to/markmunyaka/deploy-a-static-astro-site-on-railway-2bj3)
+- [Using the Web API for FLUX 1.1 [pro]: The Latest Image Generation AI Model by the Original Team of Stable Diffusion](https://dev.to/nabata/using-the-web-api-for-flux-11-pro-the-latest-image-generation-ai-model-by-the-original-team-of-stable-diffusion-29pi)
+- [Node.js v23.0.0 Released: End of Support for 32-bit Windows](https://dev.to/probir-sarkar/nodejs-v2300-released-end-of-support-for-32-bit-windows-3jjm)
+- [Taming Complexity with DDD and Spring Boot](https://dev.to/virajlakshitha/taming-complexity-with-ddd-and-spring-boot-54pn)
 <!-- BLOG-POST-LIST:END -->
 
