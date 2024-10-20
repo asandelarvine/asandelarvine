@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Technical Interviews: The Most Popular Questions](https://dev.to/salmaniyad/navigating-technical-interviews-the-most-popular-questions-3l9j)
-- [A Deep Dive into the Software Development Lifecycle: Strategies for Success](https://dev.to/zainab_afzal_55/a-deep-dive-into-the-software-development-lifecycle-strategies-for-success-4712)
-- [Image vs JPG](https://dev.to/msmith99994/image-vs-jpg-3c7k)
-- [Key Takeaways from My Recent Review of the React Docs](https://dev.to/jaamaalxyz/key-takeaways-from-my-recent-review-of-the-react-docs-4115)
+- [Designing a Virtual DOM from Scratch: A Step-by-Step Guide](https://dev.to/biswasprasana001/designing-a-virtual-dom-from-scratch-a-step-by-step-guide-3j45)
+- [Efficient API consumption for huge data in JavaScript](https://dev.to/robertobutti/efficient-api-consumption-for-huge-data-in-javascript-1i72)
+- [Managing API Exposure: Risks and Best Practices](https://dev.to/michay/managing-api-exposure-risks-and-best-practices-35en)
+- [Ways to Convert JPEG: How to Compress JPEG Files Easily](https://dev.to/msmith99994/ways-to-convert-jpeg-how-to-compress-jpeg-files-easily-2lhf)
 <!-- BLOG-POST-LIST:END -->
 
