@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a Static Astro Site on Railway](https://dev.to/markmunyaka/deploy-a-static-astro-site-on-railway-2bj3)
-- [Using the Web API for FLUX 1.1 [pro]: The Latest Image Generation AI Model by the Original Team of Stable Diffusion](https://dev.to/nabata/using-the-web-api-for-flux-11-pro-the-latest-image-generation-ai-model-by-the-original-team-of-stable-diffusion-29pi)
-- [Node.js v23.0.0 Released: End of Support for 32-bit Windows](https://dev.to/probir-sarkar/nodejs-v2300-released-end-of-support-for-32-bit-windows-3jjm)
-- [Taming Complexity with DDD and Spring Boot](https://dev.to/virajlakshitha/taming-complexity-with-ddd-and-spring-boot-54pn)
+- [Some tips and tricks with the new iOS 18 ScrollView APIs](https://dev.to/divyeshvekariya/some-tips-and-tricks-with-the-new-ios-18-scrollview-apis-2ahg)
+- [[Opinion] I’ve passed an AWS cert… but is this something for me?](https://dev.to/uponthesky/opinion-ive-passed-an-aws-cert-but-is-this-something-for-me-2al9)
+- [Design a web page with html and tailwind](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-html-and-tailwind-33d7)
+- [Design a web page with Tailwind CSS](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-tailwind-css-42b9)
 <!-- BLOG-POST-LIST:END -->
 
