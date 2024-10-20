@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Animation to Cybersecurity &amp; AI: How I Battled Self-Doubt, and 225 Job Rejections to Find My Calling](https://dev.to/samson_tech/from-animation-to-cybersecurity-ai-how-i-battled-self-doubt-and-225-job-rejections-to-find-my-calling-19pl)
-- [Mastering JavaScript Debugging: 6 Best Techniques for Newbie](https://dev.to/emma_richardson/mastering-javascript-debugging-6-best-techniques-for-newbie-52bp)
-- [C# Advanced: Understanding Anonymous Types](https://dev.to/moh_moh701/c-advanced-understanding-anonymous-types-12p6)
-- [How Can We Prevent Catastrophic Forgetting and Preserve Knowledge During LLM Fine-tuning?](https://dev.to/alexht/wei-diao-llm-2eak)
+- [The Hidden Algorithms Behind Your Social Media Feed 🤯](https://dev.to/lokesh_singh/the-hidden-algorithms-behind-your-social-media-feed-gl7)
+- [🔒 Mastering OAuth 2.0 in Modern Web Applications: Security Best Practices for 2024 🚀](https://dev.to/hamzakhan/mastering-oauth-20-in-modern-web-applications-security-best-practices-for-2024-26ed)
+- [Unit Test Generation with Early AI](https://dev.to/rsaz/unit-test-generation-with-early-ai-31co)
+- [How to Secure SSH on Any Linux Server using PAM and Google Authenticator](https://dev.to/ansxuman/how-to-secure-ssh-on-any-linux-server-using-pam-and-google-authenticator-12n7)
 <!-- BLOG-POST-LIST:END -->
 
