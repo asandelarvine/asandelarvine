@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dangerous Software #1: Therac-25](https://dev.to/tkouleris/dangerous-software-1-therac-25-3fid)
-- [Got Some Discord Communities](https://dev.to/yashritz/got-some-discord-communities-2f3l)
-- [Time Tracking: A Simple Way to Understand and Improve How You Work](https://dev.to/radzion/time-tracking-a-simple-way-to-understand-and-improve-how-you-work-1ijk)
-- [Most Asked DSA Interview Questions](https://dev.to/notarena/most-asked-dsa-interview-questions-586f)
+- [Front End Development And Integration With Google API | Using Hooks, Throttle, And Dynamic Style.](https://dev.to/msharifhub/front-end-development-and-integration-with-google-api-using-hooks-throttle-and-dynamic-style-3lp0)
+- [Create Your Own AI RAG Chatbot: A Python Guide with LangChain](https://dev.to/shreshthgoyal/create-your-own-ai-rag-chatbot-a-python-guide-with-langchain-dfi)
+- [Enhancing Healthcare with Cloud-Based Clinical Decision Support Systems](https://dev.to/sourishsr31/enhancing-healthcare-with-cloud-based-clinical-decision-support-systems-4ao8)
+- [A walkthrough to Sofia Santos&#39; OSINT Exercise #002](https://dev.to/bharathv03/a-walkthrough-to-sofia-santos-osint-exercise-002-53hc)
 <!-- BLOG-POST-LIST:END -->
 
