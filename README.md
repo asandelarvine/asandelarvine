@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are NOT the product](https://dev.to/amplanetwork/llms-are-not-the-product-5d8c)
-- [The Metaverse Expansion: Redefining Our Digital Interactions](https://dev.to/nitindahiyadev/the-metaverse-expansion-redefining-our-digital-interactions-1hhe)
-- [Architect Your React Native app to handle Millions of Users and Large Development Teams](https://dev.to/malik_chohra/architect-your-react-native-app-to-handle-millions-of-users-and-large-development-teams-184a)
-- [Basic code plans and licenses](https://dev.to/hexbatch/basic-code-plans-and-licenses-i7)
+- [Open Source Chatbot UI template for Developers](https://dev.to/ragharao314159/open-source-chatbot-ui-template-for-developers-5apk)
+- [London Perl Workshop 2024 – Preview](https://dev.to/davorg/london-perl-workshop-2024-preview-2oap)
+- [Essential Git Commands Every Developer Should Know](https://dev.to/wizdomtek/essential-git-commands-every-developer-should-know-2791)
+- [Getting Started with Tailwind CSS](https://dev.to/nehaaa/getting-started-with-tailwind-css-n2k)
 <!-- BLOG-POST-LIST:END -->
 
