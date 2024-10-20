@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to find businesses without websites](https://dev.to/webdevamin/how-to-find-businesses-without-websites-57ja)
-- [Inside C# Expression Trees](https://dev.to/cleferman/inside-c-expression-trees-4kki)
-- [Simplifying Mobile Money Integration in PHP with the pawaPay SDK](https://dev.to/katorymnddev/simplifying-mobile-money-integration-in-php-with-the-pawapay-sdk-1aho)
-- [Advanced Unity Ad Mediation Systems](https://dev.to/farantariq/advanced-unity-ad-mediation-systems-4nkp)
+- [Understanding the Proxy Pattern with a Payroll System Example](https://dev.to/dazevedo/understanding-the-proxy-pattern-with-a-payroll-system-example-136b)
+- [Overview about Craftjs - library used for page builder](https://dev.to/anh_tien_nguyen/overview-about-craftjs-library-used-for-page-builder-4826)
+- [AI-Powered Automation: Streamlining Sales Processes in Salesforce](https://dev.to/ilya_dudkin_a2376d54017d/ai-powered-automation-streamlining-sales-processes-in-salesforce-2g2p)
+- [Cloud Agnostic Way](https://dev.to/van0ss/cloud-agnostic-way-5hjj)
 <!-- BLOG-POST-LIST:END -->
 
