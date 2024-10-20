@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Color changing effect in the html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/color-changing-effect-in-the-html-css-and-javascript-1n4e)
-- [Docker and Kubernetes: The Backbone of Modern Application Development Part 4 &lpar;Docker and Kubernetes&rpar;](https://dev.to/574n13y/docker-and-kubernetes-the-backbone-of-modern-application-development-part-4-docker-and-kubernetes-1eg9)
-- [Writing an HTTP router for AWS Lambda functions from scratch with Go](https://dev.to/dandreev/writing-an-http-router-for-aws-lambda-functions-from-scratch-with-go-lii)
-- [Bun: A Faster, Modern Alternative to Node.js for JavaScript Development](https://dev.to/anticoder03/bun-a-faster-modern-alternative-to-nodejs-for-javascript-development-2p6i)
+- [Shortcomings of Current Smart City Platforms and Their Role in Sustainable &amp; Resilient Cities](https://dev.to/okyzaprabowo/shortcomings-of-current-smart-city-platforms-and-their-role-in-sustainable-resilient-cities-4c2l)
+- [In 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 , Do you know the difference between 𝐕𝐨𝐥𝐮𝐦𝐞 𝐁𝐢𝐧𝐝𝐢𝐧𝐠 and 𝐕𝐨𝐥𝐮𝐦𝐞 𝐌𝐨𝐮𝐧𝐭𝐢𝐧𝐠 ?](https://dev.to/nanditechbytes/in-do-you-know-the-difference-between-and--bjk)
+- [Deploying Nginx with Self-Signed TLS Using Helm and Minikube &lpar;Dev &amp; Staging Environments&rpar;](https://dev.to/bansikah/deploying-nginx-with-self-signed-tls-using-helm-and-minikube-dev-staging-environments-397)
+- [Replit saytidagi shell buyruqlari haqida](https://dev.to/munisa_kuranbekova_078e1e/replit-saytidagi-shell-buyruqlari-haqida-30fl)
 <!-- BLOG-POST-LIST:END -->
 
