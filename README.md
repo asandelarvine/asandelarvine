@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BashBlaze Day 1: Mastering the Basics of Bash Scripting](https://dev.to/hanzalawebdev/bashblaze-day-1-mastering-the-basics-of-bash-scripting-3h6k)
-- [Match a String with Regular Expression in Bash](https://dev.to/arsenikavalchuk/match-a-string-with-regular-expression-in-bash-3125)
-- [Weather Application UI Concept](https://dev.to/mihairs/weather-application-ui-concept-3m67)
-- [Mastering Bash Scripting: A Step-by-Step Guide 🚀](https://dev.to/farukh166/mastering-bash-scripting-a-step-by-step-guide-3bkg)
+- [LLMs are NOT the product](https://dev.to/amplanetwork/llms-are-not-the-product-5d8c)
+- [The Metaverse Expansion: Redefining Our Digital Interactions](https://dev.to/nitindahiyadev/the-metaverse-expansion-redefining-our-digital-interactions-1hhe)
+- [Architect Your React Native app to handle Millions of Users and Large Development Teams](https://dev.to/malik_chohra/architect-your-react-native-app-to-handle-millions-of-users-and-large-development-teams-184a)
+- [Basic code plans and licenses](https://dev.to/hexbatch/basic-code-plans-and-licenses-i7)
 <!-- BLOG-POST-LIST:END -->
 
