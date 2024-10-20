@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Proxy Pattern with a Payroll System Example](https://dev.to/dazevedo/understanding-the-proxy-pattern-with-a-payroll-system-example-136b)
-- [Overview about Craftjs - library used for page builder](https://dev.to/anh_tien_nguyen/overview-about-craftjs-library-used-for-page-builder-4826)
-- [AI-Powered Automation: Streamlining Sales Processes in Salesforce](https://dev.to/ilya_dudkin_a2376d54017d/ai-powered-automation-streamlining-sales-processes-in-salesforce-2g2p)
-- [Cloud Agnostic Way](https://dev.to/van0ss/cloud-agnostic-way-5hjj)
+- [Server Actions have been fixed](https://dev.to/aralroca/server-actions-have-been-fixed-3ikg)
+- [Things every programmer should have in their Mind Configuration](https://dev.to/c043/things-every-programmer-should-have-in-their-mind-configuration-1m1d)
+- [Comfyui custom nodes, how to create a button widget to select a path?](https://dev.to/uriel_deveaud/comfyui-custom-nodes-how-to-create-a-button-widget-to-select-a-path-al1)
+- [Keras: Understanding the Basics with a Detailed Example](https://dev.to/dazevedo/keras-understanding-the-basics-with-a-detailed-example-4b0h)
 <!-- BLOG-POST-LIST:END -->
 
