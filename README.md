@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering vs. Data Science: Understanding the Differences](https://dev.to/anshul_kichara/data-engineering-vs-data-science-understanding-the-differences-2e5)
-- [Tech Deregulation Plus Layoff](https://dev.to/xinusys/tech-deregulation-plus-layoff-182h)
-- [Building a Drag-and-Drop Kanban Board with React and dnd-kit](https://dev.to/radzion/building-a-drag-and-drop-kanban-board-with-react-and-dnd-kit-jdc)
-- [Co-Founders&#39; Equity Agreement Template | Alex Gulakov Dev Blog](https://dev.to/vtempest/co-founders-equity-agreement-template-alex-gulakov-dev-blog-od0)
+- [React Oauth2 Integration with AuthAction](https://dev.to/authaction/react-oauth2-integration-with-authaction-39ck)
+- [Creating a Responsive Website with HTML and CSS 🌐📱](https://dev.to/info_generalhazedawn_a3d/creating-a-responsive-website-with-html-and-css-hmk)
+- [Three Post-Mortem Lessons From a Failed Software Project](https://dev.to/canro91/three-post-mortem-lessons-from-a-failed-software-project-53jo)
+- [#78 — Fill Aggregation Value in The First Row of The Same Group of Data](https://dev.to/judith677/78-fill-aggregation-value-in-the-first-row-of-the-same-group-of-data-2k3n)
 <!-- BLOG-POST-LIST:END -->
 
