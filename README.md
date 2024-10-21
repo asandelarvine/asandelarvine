@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [POC of Grafana Post-Auth DuckDB SQL Injection &lpar;File Read&rpar; CVE-2024-9264](https://dev.to/carrie_luo1/poc-of-grafana-post-auth-duckdb-sql-injection-file-read-cve-2024-9264-1pnm)
-- [Updating MOERA Address for AD Connect Synchronized User in 2024](https://dev.to/paxol/updating-moera-address-for-ad-connect-synchronized-user-in-2024-125i)
-- [Deploy a Static Nuxt site to Railway](https://dev.to/markmunyaka/deploy-a-static-nuxt-site-to-railway-5213)
-- [AI and Ecommerce: A Perfect Match Revolutionizing the Online Retail Landscape](https://dev.to/johnsmith244303/ai-and-ecommerce-a-perfect-match-revolutionizing-the-online-retail-landscape-3im8)
+- [AI vs. Traditional Teaching: Can AI Replace Teachers?](https://dev.to/growkon21/ai-vs-traditional-teaching-can-ai-replace-teachers-9fp)
+- [The Future of Programming with AI - Part 1: The Basics and Early Adopters](https://dev.to/mendoncamaria/the-future-of-programming-with-ai-part-1-the-basics-and-early-adopters-1558)
+- [Simple Ways to Identify the MySQL Port](https://dev.to/drupaladmin/how-to-identify-the-mysql-port-588h)
+- [Exploring Async Deepgram API: Speech-to-Text using Python](https://dev.to/shadow_b/exploring-async-deepgram-api-speech-to-text-using-python-5ckl)
 <!-- BLOG-POST-LIST:END -->
 
