@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Experimental Feature Updates in Xahaud: A Performance Analysis](https://dev.to/dangell7/exploring-experimental-feature-updates-in-xahaud-a-performance-analysis-5df2)
-- [Top Interview questions for DevOps Part-1](https://dev.to/i_am_vesh/top-interview-questions-for-devops-part-1-3jj)
-- [Le réseau : l&#39;atout indispensable pour trouver un emploi](https://dev.to/pykpyky/le-reseau-latout-indispensable-pour-trouver-un-emploi-41ma)
-- [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://dev.to/copilotkit/13-projects-you-dont-want-to-pass-up-to-win-cool-hacktoberfest-swag-4dc9)
+- [How Intense Gaming Sessions Can Affect Your Brain – And How to Regain Balance](https://dev.to/nayetwolf/how-intense-gaming-sessions-can-affect-your-brain-and-how-to-regain-balance-d07)
+- [Conway&#39;s Law and Separation of Concerns in Web Development](https://dev.to/jlarky/conways-law-and-separation-of-concerns-in-web-development-4cfk)
+- [How to Build a Weather App in React](https://dev.to/vaatiesther/how-to-build-a-weather-app-in-react-48oj)
+- [Should we open source AI?](https://dev.to/blackgirlbytes/should-we-open-source-ai-hed)
 <!-- BLOG-POST-LIST:END -->
 
