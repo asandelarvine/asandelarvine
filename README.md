@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Make Decisions for Me? Understanding the Impact of AI on Our Choices](https://dev.to/banta/will-ai-make-decisions-for-me-understanding-the-impact-of-ai-on-our-choices-8ca)
-- [Understanding the JavaScript Splice Method](https://dev.to/metana/understanding-the-javascript-splice-method-51p9)
-- [Using Hyperkit to supercharge UI Development without writing JS](https://dev.to/chrsgrrtt/using-hyperkit-to-supercharge-ui-development-without-writing-js-3c4e)
-- [Efficient Kubernetes Cluster Deployment: Accelerating Setup with EKS Blueprints](https://dev.to/aws-builders/efficient-kubernetes-cluster-deployment-accelerating-setup-with-eks-blueprints-29p2)
+- [Getting started with h3 by unjs](https://dev.to/nwby/getting-started-with-h3-by-unjs-3d5l)
+- [DevOps Learning Journey: A Step-by-Step Roadmap](https://dev.to/rcmehedi15/devops-learning-roadmap-1ffd)
+- [SQLynx: A New Choice for Database Management with Intelligent Optimization, Swift Queries, and Exceptional Performance](https://dev.to/urlewicz_aicha_d14af69bc8/sqlynx-a-new-choice-for-database-management-with-intelligent-optimization-swift-queries-and-exceptional-performance-1ef4)
+- [Getting Started with Insomnia: How to Create a Collection in Insomnia](https://dev.to/patrick_61cbc6392b72286f6/getting-started-with-insomnia-how-to-create-a-collection-in-insomnia-33n)
 <!-- BLOG-POST-LIST:END -->
 
