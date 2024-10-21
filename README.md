@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Css: select all siblings using not&lpar;&rpar;](https://dev.to/hreuven/css-select-all-siblings-using-not-50bb)
-- [5 Key Techniques to Create Responsive Layouts So That You Don’t Have to Relying On Heavy CSS Frameworks](https://dev.to/viissgg/5-key-techniques-to-create-responsive-layouts-so-that-you-dont-have-to-relying-on-heavy-css-frameworks-2eaa)
-- [Building an Efficient Text Compression Algorithm Inspired by Silicon Valley’s Pied Piper](https://dev.to/daviducolo/building-an-efficient-text-compression-algorithm-inspired-by-silicon-valleys-pied-piper-329d)
-- [OpenAI Swarm: Exploring Lightweight Multi-Agent Orchestration](https://dev.to/fotiecodes/openai-swarm-exploring-lightweight-multi-agent-orchestration-gim)
+- [How Many Resources Does a Click Consume? React vs. Vanilla](https://dev.to/garciadiazjaime/how-many-resources-does-a-click-consume-react-vs-vanilla-700)
+- [Six things you may not know about JavaScript](https://dev.to/logrocket/six-things-you-may-not-know-about-javascript-5gii)
+- [These are the Winners of the 2024 #HelloFuture Hackathon](https://dev.to/hedera/these-are-the-winners-of-the-2024-hellofuture-hackathon-42nm)
+- [Optimizing Dynamic Content for SEO](https://dev.to/buzzgk/optimizing-dynamic-content-for-seo-39b5)
 <!-- BLOG-POST-LIST:END -->
 
