@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Inner Joins Simplified](https://dev.to/dbvismarketing/sql-inner-joins-simplified-4i9d)
-- [Rocket.rs lightspeed web server](https://dev.to/giuliano1993/rocketrs-lightspeed-web-server-2b77)
-- [Variable Naming Techniques](https://dev.to/murat_tun_b2c61f116185fc/variable-naming-techniques-19a5)
-- [The ultimate Electron app with Next.js and React Server Components](https://dev.to/kirillkonshin/the-ultimate-electron-app-with-nextjs-and-react-server-components-1b7g)
+- [POC of Grafana Post-Auth DuckDB SQL Injection &lpar;File Read&rpar; CVE-2024-9264](https://dev.to/carrie_luo1/poc-of-grafana-post-auth-duckdb-sql-injection-file-read-cve-2024-9264-1pnm)
+- [Updating MOERA Address for AD Connect Synchronized User in 2024](https://dev.to/paxol/updating-moera-address-for-ad-connect-synchronized-user-in-2024-125i)
+- [Deploy a Static Nuxt site to Railway](https://dev.to/markmunyaka/deploy-a-static-nuxt-site-to-railway-5213)
+- [AI and Ecommerce: A Perfect Match Revolutionizing the Online Retail Landscape](https://dev.to/johnsmith244303/ai-and-ecommerce-a-perfect-match-revolutionizing-the-online-retail-landscape-3im8)
 <!-- BLOG-POST-LIST:END -->
 
