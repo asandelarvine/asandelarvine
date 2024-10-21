@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the OSI Model: A Step-by-Step Breakdown](https://dev.to/leetcode/understanding-the-osi-model-a-step-by-step-breakdown-3np1)
+- [The Role of __pycache__ Folder in Python Programs](https://dev.to/ebad8931/the-role-of-pycache-folder-in-python-programs-2a7c)
+- [OWASP Juice Shop DOM XSS Walkthrough](https://dev.to/hax/owasp-juice-shop-dom-xss-walkthrough-51d7)
 - [Taming the Beast: Performance Optimization for Smooth User Experiences](https://dev.to/aandyphan/taming-the-beast-performance-optimization-for-smooth-user-experiences-3cg2)
-- [Open source, learn in public e minha experiência](https://dev.to/kauefraga/open-source-learn-in-public-e-minha-experiencia-bd2)
-- [React Basics~unit test/user event](https://dev.to/kkr0423/react-basicsunit-testuse-event-2j55)
-- [Optimize the task schedule to improve the handling speed and real-time capability for ESP8266 based programmable controller](https://dev.to/zhangzhuyue/optimize-the-task-schedule-to-improve-the-handling-speed-and-real-time-capability-for-esp8266-based-programmable-controller-570i)
 <!-- BLOG-POST-LIST:END -->
 
