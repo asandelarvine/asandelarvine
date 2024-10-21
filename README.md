@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Move your data into &lpar;or out of&rpar; ANY Vector Database](https://dev.to/dhruvanandaintech/move-your-data-into-or-out-of-any-vector-database-31fp)
-- [Most Useful Free APIs and Project ideas for Frontend Developers : Youtube , Spotify and more](https://dev.to/sonaykara/most-useful-free-apis-and-project-ideas-for-frontend-developers-youtube-spotift-and-more-3pfl)
-- [C# Overlooked: A Career-Building Language Overlooked by Students](https://dev.to/suryansh_singh/c-overlooked-a-career-building-language-overlooked-by-students-21cg)
-- [Intermission: HashiConf](https://dev.to/lykins/intermission-hashiconf-36o2)
+- [Handling Environment Variables in Vite](https://dev.to/padmajothi_athimoolam_23d/handling-environment-variables-in-vite-480b)
+- [The Importance of Working with Licensed Roofing Contractors in Oklahoma](https://dev.to/jerrywalters/the-importance-of-working-with-licensed-roofing-contractors-in-oklahoma-34kf)
+- [Network Traffic Analysis with Wireshark](https://dev.to/attiliohimeki/network-traffic-analysis-with-wireshark-4cbf)
+- [Java Spring Boot use Seq for logging](https://dev.to/minhaz1217/java-spring-boot-use-seq-for-logging-39fm)
 <!-- BLOG-POST-LIST:END -->
 
