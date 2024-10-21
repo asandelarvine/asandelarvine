@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Resources Does a Click Consume? React vs. Vanilla](https://dev.to/garciadiazjaime/how-many-resources-does-a-click-consume-react-vs-vanilla-700)
-- [Six things you may not know about JavaScript](https://dev.to/logrocket/six-things-you-may-not-know-about-javascript-5gii)
-- [These are the Winners of the 2024 #HelloFuture Hackathon](https://dev.to/hedera/these-are-the-winners-of-the-2024-hellofuture-hackathon-42nm)
-- [Optimizing Dynamic Content for SEO](https://dev.to/buzzgk/optimizing-dynamic-content-for-seo-39b5)
+- [Deploy a static &lpar;Next.js&rpar; website to AWS using AWS CDK &amp; AWS console](https://dev.to/redrobotdev/learn-how-to-deploy-a-static-nextjs-website-to-aws-using-aws-cdk-aws-console-62n)
+- [Serverless Architecture with Next.js 14 and Next.js Actions: A Practical Guide](https://dev.to/saurabh2836/serverless-architecture-with-nextjs-14-and-nextjs-actions-a-practical-guide-13a4)
+- [useState behind the scences in react!!!](https://dev.to/joedev090/usestate-behind-the-scences-in-react-2lof)
+- [C#&#39;da Remove&lpar;&rpar;](https://dev.to/muhammad_khodjaev/cda-remove-20pm)
 <!-- BLOG-POST-LIST:END -->
 
