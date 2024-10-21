@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with h3 by unjs](https://dev.to/nwby/getting-started-with-h3-by-unjs-3d5l)
-- [DevOps Learning Journey: A Step-by-Step Roadmap](https://dev.to/rcmehedi15/devops-learning-roadmap-1ffd)
-- [SQLynx: A New Choice for Database Management with Intelligent Optimization, Swift Queries, and Exceptional Performance](https://dev.to/urlewicz_aicha_d14af69bc8/sqlynx-a-new-choice-for-database-management-with-intelligent-optimization-swift-queries-and-exceptional-performance-1ef4)
-- [Getting Started with Insomnia: How to Create a Collection in Insomnia](https://dev.to/patrick_61cbc6392b72286f6/getting-started-with-insomnia-how-to-create-a-collection-in-insomnia-33n)
+- [Exploring Experimental Feature Updates in Xahaud: A Performance Analysis](https://dev.to/dangell7/exploring-experimental-feature-updates-in-xahaud-a-performance-analysis-5df2)
+- [Top Interview questions for DevOps Part-1](https://dev.to/i_am_vesh/top-interview-questions-for-devops-part-1-3jj)
+- [Le réseau : l&#39;atout indispensable pour trouver un emploi](https://dev.to/pykpyky/le-reseau-latout-indispensable-pour-trouver-un-emploi-41ma)
+- [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://dev.to/copilotkit/13-projects-you-dont-want-to-pass-up-to-win-cool-hacktoberfest-swag-4dc9)
 <!-- BLOG-POST-LIST:END -->
 
