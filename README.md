@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Intense Gaming Sessions Can Affect Your Brain – And How to Regain Balance](https://dev.to/nayetwolf/how-intense-gaming-sessions-can-affect-your-brain-and-how-to-regain-balance-d07)
-- [Conway&#39;s Law and Separation of Concerns in Web Development](https://dev.to/jlarky/conways-law-and-separation-of-concerns-in-web-development-4cfk)
-- [How to Build a Weather App in React](https://dev.to/vaatiesther/how-to-build-a-weather-app-in-react-48oj)
-- [Should we open source AI?](https://dev.to/blackgirlbytes/should-we-open-source-ai-hed)
+- [Character overlap with strings in JavaScript](https://dev.to/dindustack/character-overlap-with-strings-in-javascript-2o51)
+- [Create your K3S lab on Google Cloud](https://dev.to/jdxlabs/create-your-k3s-lab-on-google-cloud-2pim)
+- [Setters en un Record en Java](https://dev.to/asjordi/setters-en-un-record-en-java-4fb6)
+- [Learning AWS - DVA - Day 11: Amazon Aurora - RDS Security - RDS Proxy](https://dev.to/holehuy/learning-aws-dva-day-11-amazon-aurora-rds-security-rds-proxy-27fj)
 <!-- BLOG-POST-LIST:END -->
 
