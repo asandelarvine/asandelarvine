@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs. Traditional Teaching: Can AI Replace Teachers?](https://dev.to/growkon21/ai-vs-traditional-teaching-can-ai-replace-teachers-9fp)
-- [The Future of Programming with AI - Part 1: The Basics and Early Adopters](https://dev.to/mendoncamaria/the-future-of-programming-with-ai-part-1-the-basics-and-early-adopters-1558)
-- [Simple Ways to Identify the MySQL Port](https://dev.to/drupaladmin/how-to-identify-the-mysql-port-588h)
-- [Exploring Async Deepgram API: Speech-to-Text using Python](https://dev.to/shadow_b/exploring-async-deepgram-api-speech-to-text-using-python-5ckl)
+- [How to Minify and Cache CSS &amp; JS Files in Laravel](https://dev.to/biostate/how-to-minify-and-cache-css-js-files-in-laravel-8nm)
+- [The Future of AI: Will Artificial General Intelligence &lpar;AGI&rpar; Become a Reality?](https://dev.to/growkon21/the-future-of-ai-will-artificial-general-intelligence-agi-become-a-reality-g7g)
+- [Telehealth Software Development: Key Aspects, Costs, and Benefits](https://dev.to/kzier/telehealth-software-development-key-aspects-costs-and-benefits-27cn)
+- [Understanding IETMs Features: A Comprehensive Overview](https://dev.to/roberwilson15/understanding-ietms-features-a-comprehensive-overview-45bf)
 <!-- BLOG-POST-LIST:END -->
 
