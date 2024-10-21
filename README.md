@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Minify and Cache CSS &amp; JS Files in Laravel](https://dev.to/biostate/how-to-minify-and-cache-css-js-files-in-laravel-8nm)
-- [The Future of AI: Will Artificial General Intelligence &lpar;AGI&rpar; Become a Reality?](https://dev.to/growkon21/the-future-of-ai-will-artificial-general-intelligence-agi-become-a-reality-g7g)
-- [Telehealth Software Development: Key Aspects, Costs, and Benefits](https://dev.to/kzier/telehealth-software-development-key-aspects-costs-and-benefits-27cn)
-- [Understanding IETMs Features: A Comprehensive Overview](https://dev.to/roberwilson15/understanding-ietms-features-a-comprehensive-overview-45bf)
+- [Will AI Make Decisions for Me? Understanding the Impact of AI on Our Choices](https://dev.to/banta/will-ai-make-decisions-for-me-understanding-the-impact-of-ai-on-our-choices-8ca)
+- [Understanding the JavaScript Splice Method](https://dev.to/metana/understanding-the-javascript-splice-method-51p9)
+- [Using Hyperkit to supercharge UI Development without writing JS](https://dev.to/chrsgrrtt/using-hyperkit-to-supercharge-ui-development-without-writing-js-3c4e)
+- [Efficient Kubernetes Cluster Deployment: Accelerating Setup with EKS Blueprints](https://dev.to/aws-builders/efficient-kubernetes-cluster-deployment-accelerating-setup-with-eks-blueprints-29p2)
 <!-- BLOG-POST-LIST:END -->
 
