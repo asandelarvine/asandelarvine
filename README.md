@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for Coding Interviews: Tips and Resources](https://dev.to/jana-shantanu/how-to-prepare-for-coding-interviews-tips-and-resources-1gge)
-- [From Novice to Badge Holder: My Journey Through Hacktoberfest 2024](https://dev.to/noor_afsha_0812/from-novice-to-badge-holder-my-journey-through-hacktoberfest-2024-2p7)
-- [Dosu bot usage in Lobechat](https://dev.to/thinkthroo/dosu-bot-usage-in-lobechat-22f9)
-- [How to deploy affected NX projects to AWS S3 using Github Actions](https://dev.to/lucasmelo/how-to-deploy-affected-nx-projects-to-aws-s3-using-github-actions-1f70)
+- [Testing in KinD: Using Testkube with Kubernetes in Docker](https://dev.to/kubeshop/testing-in-kind-using-testkube-with-kubernetes-in-docker-2lm8)
+- [@glue - Need a custom visual transform like join, union taking more than one input DataFrame](https://dev.to/sasi_vijay_c5a15066c3f331/glue-need-a-custom-visual-transform-like-join-union-taking-more-than-one-input-dataframe-1cdj)
+- [Tanais Online, Week 3 - 4.](https://dev.to/laxika/tanais-online-week-3-4-34a8)
+- [Day 42. Monday](https://dev.to/kiolk/day-42-monday-kl0)
 <!-- BLOG-POST-LIST:END -->
 
