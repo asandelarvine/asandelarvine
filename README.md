@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a static &lpar;Next.js&rpar; website to AWS using AWS CDK &amp; AWS console](https://dev.to/redrobotdev/learn-how-to-deploy-a-static-nextjs-website-to-aws-using-aws-cdk-aws-console-62n)
-- [Serverless Architecture with Next.js 14 and Next.js Actions: A Practical Guide](https://dev.to/saurabh2836/serverless-architecture-with-nextjs-14-and-nextjs-actions-a-practical-guide-13a4)
-- [useState behind the scences in react!!!](https://dev.to/joedev090/usestate-behind-the-scences-in-react-2lof)
-- [C#&#39;da Remove&lpar;&rpar;](https://dev.to/muhammad_khodjaev/cda-remove-20pm)
+- [How to Prepare for Coding Interviews: Tips and Resources](https://dev.to/jana-shantanu/how-to-prepare-for-coding-interviews-tips-and-resources-1gge)
+- [From Novice to Badge Holder: My Journey Through Hacktoberfest 2024](https://dev.to/noor_afsha_0812/from-novice-to-badge-holder-my-journey-through-hacktoberfest-2024-2p7)
+- [Dosu bot usage in Lobechat](https://dev.to/thinkthroo/dosu-bot-usage-in-lobechat-22f9)
+- [How to deploy affected NX projects to AWS S3 using Github Actions](https://dev.to/lucasmelo/how-to-deploy-affected-nx-projects-to-aws-s3-using-github-actions-1f70)
 <!-- BLOG-POST-LIST:END -->
 
