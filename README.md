@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using workers in electron.js vite &lpar;typescript&rpar;&lpar;quick write up&rpar;](https://dev.to/danijelenoch/using-workers-in-electronjs-vite-typescriptquick-write-up-4f99)
-- [Introducing EnviroX: Your Go-To Dev Environment Setup Tool! 🛠️](https://dev.to/neelp03/introducing-envirox-your-go-to-dev-environment-setup-tool-281p)
-- [Building Mobile Games with Phaser](https://dev.to/kartikmehta8/building-mobile-games-with-phaser-5gmc)
-- [Como Fazendas Verticais Estão Revolucionando a Agricultura](https://dev.to/n1ghtm4r33/como-fazendas-verticais-estao-revolucionando-a-agricultura-22n1)
+- [Taming the Beast: Performance Optimization for Smooth User Experiences](https://dev.to/aandyphan/taming-the-beast-performance-optimization-for-smooth-user-experiences-3cg2)
+- [Open source, learn in public e minha experiência](https://dev.to/kauefraga/open-source-learn-in-public-e-minha-experiencia-bd2)
+- [React Basics~unit test/user event](https://dev.to/kkr0423/react-basicsunit-testuse-event-2j55)
+- [Optimize the task schedule to improve the handling speed and real-time capability for ESP8266 based programmable controller](https://dev.to/zhangzhuyue/optimize-the-task-schedule-to-improve-the-handling-speed-and-real-time-capability-for-esp8266-based-programmable-controller-570i)
 <!-- BLOG-POST-LIST:END -->
 
