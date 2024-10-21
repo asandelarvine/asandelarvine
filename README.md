@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Character overlap with strings in JavaScript](https://dev.to/dindustack/character-overlap-with-strings-in-javascript-2o51)
-- [Create your K3S lab on Google Cloud](https://dev.to/jdxlabs/create-your-k3s-lab-on-google-cloud-2pim)
-- [Setters en un Record en Java](https://dev.to/asjordi/setters-en-un-record-en-java-4fb6)
-- [Learning AWS - DVA - Day 11: Amazon Aurora - RDS Security - RDS Proxy](https://dev.to/holehuy/learning-aws-dva-day-11-amazon-aurora-rds-security-rds-proxy-27fj)
+- [Css: select all siblings using not&lpar;&rpar;](https://dev.to/hreuven/css-select-all-siblings-using-not-50bb)
+- [5 Key Techniques to Create Responsive Layouts So That You Don’t Have to Relying On Heavy CSS Frameworks](https://dev.to/viissgg/5-key-techniques-to-create-responsive-layouts-so-that-you-dont-have-to-relying-on-heavy-css-frameworks-2eaa)
+- [Building an Efficient Text Compression Algorithm Inspired by Silicon Valley’s Pied Piper](https://dev.to/daviducolo/building-an-efficient-text-compression-algorithm-inspired-by-silicon-valleys-pied-piper-329d)
+- [OpenAI Swarm: Exploring Lightweight Multi-Agent Orchestration](https://dev.to/fotiecodes/openai-swarm-exploring-lightweight-multi-agent-orchestration-gim)
 <!-- BLOG-POST-LIST:END -->
 
