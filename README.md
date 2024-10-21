@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Oauth2 Integration with AuthAction](https://dev.to/authaction/react-oauth2-integration-with-authaction-39ck)
-- [Creating a Responsive Website with HTML and CSS 🌐📱](https://dev.to/info_generalhazedawn_a3d/creating-a-responsive-website-with-html-and-css-hmk)
-- [Three Post-Mortem Lessons From a Failed Software Project](https://dev.to/canro91/three-post-mortem-lessons-from-a-failed-software-project-53jo)
-- [#78 — Fill Aggregation Value in The First Row of The Same Group of Data](https://dev.to/judith677/78-fill-aggregation-value-in-the-first-row-of-the-same-group-of-data-2k3n)
+- [How to Create an Advanced &quot;Show Password&quot; Feature Using HTML, CSS, and JavaScript](https://dev.to/wizdomtek/how-to-create-an-advanced-show-password-feature-using-html-css-and-javascript-ndn)
+- [Best Practices for Salesforce Marketing Cloud in 2024](https://dev.to/itechcloud_solution_01/best-practices-for-salesforce-marketing-cloud-in-2024-h0f)
+- [How to Transform Your Client’s Business with AI Integration Services](https://dev.to/laxmi_williams/how-to-transform-your-clients-business-with-ai-integration-services-opo)
+- [A Beginner’s Guide to Writing Software Requirements: User Stories](https://dev.to/johnnykoo84/a-beginners-guide-to-writing-software-requirements-user-stories-2h3k)
 <!-- BLOG-POST-LIST:END -->
 
