@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#79 - Split Aggregation Values And Fill Them in Detail Rows](https://dev.to/judith677/79-split-aggregation-values-and-fill-them-in-detail-rows-5boj)
-- [Understanding Promise.any&lpar;&rpar; in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-promiseany-in-javascript-2hc2)
-- [Appwrite - &lpar; Backend-as-a-Service &rpar;](https://dev.to/mrcaption49/appwrite-backend-as-a-service--h8p)
-- [Capítulo 2 - Modelos de Datos y Lenguajes de Consulta](https://dev.to/pabloar/capitulo-2-modelos-de-datos-y-lenguajes-de-consulta-28eh)
+- [Async Tricks in JavaScript for Smoother Code](https://dev.to/shafayeat/async-tricks-in-javascript-for-smoother-code-4cej)
+- [New Supply Chain Attack Technique Can Trojanize All Commands &lpar;Part 1&rpar;](https://dev.to/carrie_luo1/new-supply-chain-attack-technique-can-trojanize-all-commands-part-1-4kcc)
+- [Unlocking Speed: How Layer-2 Scaling Solutions Transform Blockchain Transactions](https://dev.to/adityabhuyan/unlocking-speed-how-layer-2-scaling-solutions-transform-blockchain-transactions-3973)
+- [Unlocking the Future: How Network Transformation Solutions Benefit Diverse Sectors](https://dev.to/adityabhuyan/unlocking-the-future-how-network-transformation-solutions-benefit-diverse-sectors-2nn0)
 <!-- BLOG-POST-LIST:END -->
 
