@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Youtube Clone with Strapi and Flutter: Part 1](https://dev.to/strapi/build-a-youtube-clone-with-strapi-and-flutter-part-1-3913)
-- [Java Debugging: A Comprehensive Guide](https://dev.to/prodevopsguytech/java-debugging-a-comprehensive-guide-32hh)
-- [Inspecting Contents on a Website](https://dev.to/shif/inspecting-contents-on-a-website-215d)
-- [Anthropic releases &quot;Computer Use&quot;](https://dev.to/peter/anthropic-releases-computer-use-15oj)
+- [How to build a crashproof customer service agent in &lt;80 lines with Swarm 💪🐝](https://dev.to/dbos/how-to-build-a-crashproof-customer-service-agent-in-80-lines-with-swarm-4b7c)
+- [Starting a new project - Probtrix](https://dev.to/umair-iftikhar/starting-a-new-project-probtrix-21me)
+- [New Here - Let&#39;s Rock](https://dev.to/stereoimageav/new-here-lets-rock-203e)
+- [How to convert CommonJS to ESM](https://dev.to/thisisjofrank/how-to-convert-commonjs-to-esm-1jc0)
 <!-- BLOG-POST-LIST:END -->
 
