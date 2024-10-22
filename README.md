@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Selenium Testing with Python: 5 Reasons to Use Pytest!](https://dev.to/emilyjohnsonready/master-selenium-testing-with-python-5-reasons-to-use-pytest-4hpd)
-- [Refactoring and Git Rebase for Tailor4Job](https://dev.to/inderpreet/blog-post-refactoring-and-git-rebase-for-tailor4job-1i19)
-- [I Survived a Massive DDoS Attack and Made My Server Bulletproof](https://dev.to/jimmymcbride/i-survived-a-massive-ddos-attack-and-made-my-server-bulletproof-21gh)
-- [Day 43. Composition](https://dev.to/kiolk/day-43-composition-eb6)
+- [12 Must-Know Libraries to Supercharge Your Frontend Development](https://dev.to/safdarali/12-must-know-libraries-to-supercharge-your-frontend-development-5ek3)
+- [Secure Your App: 2-Factor Auth in 3 Easy Steps](https://dev.to/jackwilltech/secure-your-app-2-factor-auth-in-3-easy-steps-ahn)
+- [Issue 67 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-67-of-aws-cloud-security-weekly-amn)
+- [Meta AI&#39;s CoTracker3: Enhanced Point Tracking with Less Data](https://dev.to/voxel51/meta-ais-cotracker3-enhanced-point-tracking-with-less-data-3kab)
 <!-- BLOG-POST-LIST:END -->
 
