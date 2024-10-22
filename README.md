@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-9k8)
-- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-3i5e)
-- [React js Life cycle](https://dev.to/muthuraja_r/react-js-life-cycle-26l8)
-- [Tim Berners-Lee : The Man Behind the Web](https://dev.to/samarpankc/tim-berners-lee-3b56)
+- [#79 - Split Aggregation Values And Fill Them in Detail Rows](https://dev.to/judith677/79-split-aggregation-values-and-fill-them-in-detail-rows-5boj)
+- [Understanding Promise.any&lpar;&rpar; in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-promiseany-in-javascript-2hc2)
+- [Appwrite - &lpar; Backend-as-a-Service &rpar;](https://dev.to/mrcaption49/appwrite-backend-as-a-service--h8p)
+- [Capítulo 2 - Modelos de Datos y Lenguajes de Consulta](https://dev.to/pabloar/capitulo-2-modelos-de-datos-y-lenguajes-de-consulta-28eh)
 <!-- BLOG-POST-LIST:END -->
 
