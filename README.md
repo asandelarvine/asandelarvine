@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async Tricks in JavaScript for Smoother Code](https://dev.to/shafayeat/async-tricks-in-javascript-for-smoother-code-4cej)
-- [New Supply Chain Attack Technique Can Trojanize All Commands &lpar;Part 1&rpar;](https://dev.to/carrie_luo1/new-supply-chain-attack-technique-can-trojanize-all-commands-part-1-4kcc)
-- [Unlocking Speed: How Layer-2 Scaling Solutions Transform Blockchain Transactions](https://dev.to/adityabhuyan/unlocking-speed-how-layer-2-scaling-solutions-transform-blockchain-transactions-3973)
-- [Unlocking the Future: How Network Transformation Solutions Benefit Diverse Sectors](https://dev.to/adityabhuyan/unlocking-the-future-how-network-transformation-solutions-benefit-diverse-sectors-2nn0)
+- [6 Ways to Speed Up List Views, Agentforce Blockers, Coral Cloud Resorts Sample App](https://dev.to/sfdcnews/6-ways-to-speed-up-list-views-agentforce-blockers-coral-cloud-resorts-sample-app-63b)
+- [ThrottleX: Scaling to a Million Requests Per Second Without Breaking a Sweat](https://dev.to/neelp03/throttlex-scaling-to-a-million-requests-per-second-without-breaking-a-sweat-39n0)
+- [Understanding Salesforce’s New Pricing Structure in 2024](https://dev.to/itechcloud_solution_01/understanding-salesforces-new-pricing-structure-in-2024-1l0b)
+- [Crowdstrike enters the Serverless market](https://dev.to/thijsdez/crowdstrike-enters-the-serverless-market-6g6)
 <!-- BLOG-POST-LIST:END -->
 
