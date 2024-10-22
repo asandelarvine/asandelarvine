@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 22 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-october-1cdk)
-- [Como Validar Dados em Golang?](https://dev.to/ortizdavid/como-validar-dados-em-golang-3b0f)
-- [Complete Guide to Automate the Deployment of the Sock Shop Application on Kubernetes with IaC, CI/CD, and Monitoring](https://dev.to/chigozieco/complete-guide-to-automate-the-deployment-of-the-sock-shop-application-on-kubernetes-with-iac-cicd-and-monitoring-5hlm)
-- [Laravel custom helper functions – Fast Tips](https://dev.to/inspector/laravel-custom-helper-functions-fast-tips-11ki)
+- [Step-by-Step Guide: How to Integrate Third-Party APIs with .NET 8 Minimal APIs](https://dev.to/leandroveiga/step-by-step-guide-how-to-integrate-third-party-apis-with-net-8-minimal-apis-5419)
+- [How do Turbo Streams Work &lpar;behind the scenes&rpar;](https://dev.to/railsdesigner/how-do-turbo-streams-work-behind-the-scenes-11mj)
+- [5 Surprising and Lesser-Known HTTP Methods Facts Every Developer Should Know to Avoid API Pitfalls](https://dev.to/viissgg/5-surprising-and-lesser-known-http-methods-facts-every-developer-should-know-to-avoid-api-pitfalls-3hon)
+- [ASP.NET Core Middleware](https://dev.to/rasulhsn/aspnet-core-middleware-2efd)
 <!-- BLOG-POST-LIST:END -->
 
