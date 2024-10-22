@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Table Selection in Software Engineering](https://dev.to/luminousmen/table-selection-in-software-engineering-2118)
-- [Why feedback and flexibility should drive team success](https://dev.to/ajparadith/why-feedback-and-flexibility-should-drive-team-success-2754)
-- [Unlock the Power of Predictive Analytics: A Comprehensive Guide](https://dev.to/jonesbest/unlock-the-power-of-predictive-analytics-a-comprehensive-guide-12e9)
-- [Level Up Your GitHub Profile: Unlocking the Power of GitHub Achievements](https://dev.to/devactivity-app/level-up-your-github-profile-unlocking-the-power-of-github-achievements-27k2)
+- [🚀 Your Daily Crypto Job Digest For 22 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-october-1cdk)
+- [Como Validar Dados em Golang?](https://dev.to/ortizdavid/como-validar-dados-em-golang-3b0f)
+- [Complete Guide to Automate the Deployment of the Sock Shop Application on Kubernetes with IaC, CI/CD, and Monitoring](https://dev.to/chigozieco/complete-guide-to-automate-the-deployment-of-the-sock-shop-application-on-kubernetes-with-iac-cicd-and-monitoring-5hlm)
+- [Laravel custom helper functions – Fast Tips](https://dev.to/inspector/laravel-custom-helper-functions-fast-tips-11ki)
 <!-- BLOG-POST-LIST:END -->
 
