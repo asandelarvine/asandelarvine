@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing HIP-904: Frictionless Airdrops](https://dev.to/hedera/introducing-hip-904-frictionless-airdrops-26ce)
-- [🛠️ Battle of the Backend: Go vs Node.js vs Python – Which One Reigns Supreme in 2024? 🚀](https://dev.to/hamzakhan/battle-of-the-backend-go-vs-nodejs-vs-python-which-one-reigns-supreme-in-2024-56d4)
-- [Younger open source maintainers are significantly more likely to use AI-based coding tools](https://dev.to/tidelift/younger-open-source-maintainers-are-significantly-more-likely-to-use-ai-based-coding-tools-3cop)
-- [2583. Kth Largest Sum in a Binary Tree](https://dev.to/mdarifulhaque/2583-kth-largest-sum-in-a-binary-tree-4n79)
+- [Automate Refresh Tokens with Axios Intercepters!](https://dev.to/difficultworld24/automate-refresh-tokens-with-axios-intercepters-3ndn)
+- [Python Lambda function example:](https://dev.to/aymanmahmoud33/python-lambda-function-example-49gp)
+- [Docker DevTools Day 4.0 Highlights: Where Containers, AI, and DevOps Meet](https://dev.to/ajeetraina/docker-devtools-day-40-highlights-where-containers-ai-and-devops-meet-1jjk)
+- [Optimizing Web App Performance with Simple Techniques](https://dev.to/zafaryaqoobask/optimizing-web-app-performance-with-simple-techniques-1akd)
 <!-- BLOG-POST-LIST:END -->
 
