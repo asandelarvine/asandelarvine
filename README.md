@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Geo Viewer in IntelliJ Idea is cool](https://dev.to/asvid/geo-viewer-in-intellij-idea-is-cool-2d22)
-- [Exploring Different Vesting Programs: Understanding How They Work](https://dev.to/mayanks01798115/exploring-different-vesting-programs-understanding-how-they-work-3fi9)
-- [API Testing with Burp Suite: A Practical Guide](https://dev.to/michay/api-testing-with-burp-suite-a-practical-guide-4o72)
-- [Docker 101: Basics and Practical Implementation with Spring REST API](https://dev.to/priya01/docker-101-basics-and-practical-implementation-with-spring-rest-api-497g)
+- [Table Selection in Software Engineering](https://dev.to/luminousmen/table-selection-in-software-engineering-2118)
+- [Why feedback and flexibility should drive team success](https://dev.to/ajparadith/why-feedback-and-flexibility-should-drive-team-success-2754)
+- [Unlock the Power of Predictive Analytics: A Comprehensive Guide](https://dev.to/jonesbest/unlock-the-power-of-predictive-analytics-a-comprehensive-guide-12e9)
+- [Level Up Your GitHub Profile: Unlocking the Power of GitHub Achievements](https://dev.to/devactivity-app/level-up-your-github-profile-unlocking-the-power-of-github-achievements-27k2)
 <!-- BLOG-POST-LIST:END -->
 
