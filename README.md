@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Python Framework for Telegram Bots](https://dev.to/gersonfreire/a-python-framework-for-telegram-bots-238f)
-- [Transacciones en laravel](https://dev.to/fernilo/transacciones-en-laravel-24fk)
-- [7 Useful Tools for Web Developers to Boost Productivity 🚀](https://dev.to/safdarali/7-useful-tools-for-web-developers-to-boost-productivity-3dfj)
-- [How to Prepare Your Application to Handle Multiple Requests on Black Friday](https://dev.to/wallacefreitas/how-to-prepare-your-application-to-handle-multiple-requests-on-black-friday-4dh3)
+- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-9k8)
+- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-3i5e)
+- [React js Life cycle](https://dev.to/muthuraja_r/react-js-life-cycle-26l8)
+- [Tim Berners-Lee : The Man Behind the Web](https://dev.to/samarpankc/tim-berners-lee-3b56)
 <!-- BLOG-POST-LIST:END -->
 
