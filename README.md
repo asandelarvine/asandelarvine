@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Refresh Tokens with Axios Intercepters!](https://dev.to/difficultworld24/automate-refresh-tokens-with-axios-intercepters-3ndn)
-- [Python Lambda function example:](https://dev.to/aymanmahmoud33/python-lambda-function-example-49gp)
-- [Docker DevTools Day 4.0 Highlights: Where Containers, AI, and DevOps Meet](https://dev.to/ajeetraina/docker-devtools-day-40-highlights-where-containers-ai-and-devops-meet-1jjk)
-- [Optimizing Web App Performance with Simple Techniques](https://dev.to/zafaryaqoobask/optimizing-web-app-performance-with-simple-techniques-1akd)
+- [Build a Youtube Clone with Strapi and Flutter: Part 1](https://dev.to/strapi/build-a-youtube-clone-with-strapi-and-flutter-part-1-3913)
+- [Java Debugging: A Comprehensive Guide](https://dev.to/prodevopsguytech/java-debugging-a-comprehensive-guide-32hh)
+- [Inspecting Contents on a Website](https://dev.to/shif/inspecting-contents-on-a-website-215d)
+- [Anthropic releases &quot;Computer Use&quot;](https://dev.to/peter/anthropic-releases-computer-use-15oj)
 <!-- BLOG-POST-LIST:END -->
 
