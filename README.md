@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Text2SQL AI Tools in 2024](https://dev.to/bytebase/top-5-text2sql-ai-tools-in-2024-1810)
-- [Amazon S3 Bucket with Policy Details](https://dev.to/mrcaption49/amazon-s3-bucket-with-policy-details-2g0b)
-- [Migrating from WordPress to Jekyll: Save Money with a Static Site](https://dev.to/prahladyeri/migrating-from-wordpress-to-jekyll-save-money-with-a-static-site-3e00)
-- [How to Use the workflow_dispatch Event for Manual Triggers](https://dev.to/cicube/how-to-use-the-workflowdispatch-event-for-manual-triggers-fjn)
+- [Next.js 15: Now Stable and Packed with Exciting Updates!](https://dev.to/mitchiemt11/nextjs-15-now-stable-and-packed-with-exciting-updates-2j0p)
+- [30+ Awesome Repos For You To Start Contributing on Hacktoberfest](https://dev.to/buildwebcrumbs/30-awesome-repos-for-you-to-start-contributing-on-hacktoberfest-3220)
+- [How I built PeerSplit: A free, peer-to-peer expense-splitting app—from idea to launch in just 2 weeks](https://dev.to/tanay/how-i-built-peersplit-a-free-peer-to-peer-expense-splitting-app-from-idea-to-launch-in-just-2-weeks-386m)
+- [Benchmark Testing In Software: The Key To Optimizing Performance](https://dev.to/keploy/benchmark-testing-in-software-the-key-to-optimizing-performance-2oj4)
 <!-- BLOG-POST-LIST:END -->
 
