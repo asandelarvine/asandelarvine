@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing Clean and Maintainable JavaScript Code](https://dev.to/rajivchaulagain/best-practices-for-writing-clean-and-maintainable-javascript-code-124p)
-- [PixNova AI photo generator for photo generation, editing, and enhancement.](https://dev.to/pixnovaai/pixnova-ai-photo-generator-for-photo-generation-editing-and-enhancement-3ada)
-- [Building Robust Python APIs with Flask-RESTPlus and Swagger UI](https://dev.to/rubengonzlez17/building-robust-python-apis-with-flask-restplus-and-swagger-ui-o6i)
-- [C# Clean Code: Commenting Conventions](https://dev.to/moh_moh701/c-clean-code-commenting-conventions-4abj)
+- [Update the Backstage catalog instantly without touching any YAML](https://dev.to/roadie/update-the-backstage-catalog-instantly-without-touching-any-yaml-4j25)
+- [In-depth Analysis of Apache DolphinScheduler&#39;s Fault Tolerance Mechanism](https://dev.to/chen_debra_3060b21d12b1b0/in-depth-analysis-of-apache-dolphinschedulers-fault-tolerance-mechanism-4adm)
+- [How Businesses Can Optimize Websites with Essential SEO Strategies](https://dev.to/juddiy/how-businesses-can-optimize-websites-with-essential-seo-strategies-1nm6)
+- [Shopify vs. WordPress: Key Features and Functionalities](https://dev.to/khalifalmahmud0/shopify-vs-wordpress-key-features-and-functionalities-1nc8)
 <!-- BLOG-POST-LIST:END -->
 
