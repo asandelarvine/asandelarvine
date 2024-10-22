@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Update the Backstage catalog instantly without touching any YAML](https://dev.to/roadie/update-the-backstage-catalog-instantly-without-touching-any-yaml-4j25)
-- [In-depth Analysis of Apache DolphinScheduler&#39;s Fault Tolerance Mechanism](https://dev.to/chen_debra_3060b21d12b1b0/in-depth-analysis-of-apache-dolphinschedulers-fault-tolerance-mechanism-4adm)
-- [How Businesses Can Optimize Websites with Essential SEO Strategies](https://dev.to/juddiy/how-businesses-can-optimize-websites-with-essential-seo-strategies-1nm6)
-- [Shopify vs. WordPress: Key Features and Functionalities](https://dev.to/khalifalmahmud0/shopify-vs-wordpress-key-features-and-functionalities-1nc8)
+- [Geo Viewer in IntelliJ Idea is cool](https://dev.to/asvid/geo-viewer-in-intellij-idea-is-cool-2d22)
+- [Exploring Different Vesting Programs: Understanding How They Work](https://dev.to/mayanks01798115/exploring-different-vesting-programs-understanding-how-they-work-3fi9)
+- [API Testing with Burp Suite: A Practical Guide](https://dev.to/michay/api-testing-with-burp-suite-a-practical-guide-4o72)
+- [Docker 101: Basics and Practical Implementation with Spring REST API](https://dev.to/priya01/docker-101-basics-and-practical-implementation-with-spring-rest-api-497g)
 <!-- BLOG-POST-LIST:END -->
 
