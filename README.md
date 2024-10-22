@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Python Framework for Telegram Bots](https://dev.to/gersonfreire/a-python-framework-for-telegram-bots-238f)
+- [Transacciones en laravel](https://dev.to/fernilo/transacciones-en-laravel-24fk)
 - [7 Useful Tools for Web Developers to Boost Productivity 🚀](https://dev.to/safdarali/7-useful-tools-for-web-developers-to-boost-productivity-3dfj)
 - [How to Prepare Your Application to Handle Multiple Requests on Black Friday](https://dev.to/wallacefreitas/how-to-prepare-your-application-to-handle-multiple-requests-on-black-friday-4dh3)
-- [Dealing with having multiple GitHub accounts](https://dev.to/veloek/dealing-with-having-multiple-github-accounts-45oo)
-- [Day 1046 : Grey Skies](https://dev.to/dwane/day-1046-grey-skies-24d4)
 <!-- BLOG-POST-LIST:END -->
 
