@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/10365-days-y10m-japan-job-challenge-5gb1)
-- [Ideaes - PROBTRIX](https://dev.to/umair-iftikhar/ideaes-probtrix-4gbo)
-- [Chat with any full website &lpar;not just a single page&rpar;. Complete Tutorial](https://dev.to/airabbit/chat-with-any-full-website-not-just-a-single-page-complete-tutorial-294k)
-- [High-level workflow in MERN apps](https://dev.to/oyegoke/high-level-workflow-in-mern-apps-1iaf)
+- [C# advanced: Exploring Tuples An Alternative to Anonymous Types](https://dev.to/moh_moh701/c-advance-exploring-tuples-an-alternative-to-anonymous-types-2j70)
+- [PL/SQL | Order of Exception Handling](https://dev.to/mrcaption49/plsql-order-of-exception-handling-eig)
+- [Exception Handling in PLSQL](https://dev.to/mrcaption49/exception-handling-in-plsql-30o6)
+- [CKA Full Course 2024: Day 5/40 Multi-Node Cluster Setup: Step by Step](https://dev.to/lloydrivers/cka-full-course-2024-day-540-multi-node-cluster-setup-step-by-step-422)
 <!-- BLOG-POST-LIST:END -->
 
