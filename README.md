@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional application of chained LINQ queries](https://dev.to/veloek/conditional-application-of-chained-linq-queries-560p)
-- [PRAGMA AUTONOMOUS_TRANSACTION with Workflow](https://dev.to/mrcaption49/pragma-autonomoustransaction-with-workflow-a7p)
-- [Professional Google Cloud Architect exam Documentation Resources](https://dev.to/valerianagit/professional-google-cloud-architect-exam-documentation-resources-304m)
-- [Dark Mode Toggle in HTML Web Components](https://dev.to/abbeyperini/dark-mode-toggle-using-html-web-components-h0g)
+- [Master Selenium Testing with Python: 5 Reasons to Use Pytest!](https://dev.to/emilyjohnsonready/master-selenium-testing-with-python-5-reasons-to-use-pytest-4hpd)
+- [Refactoring and Git Rebase for Tailor4Job](https://dev.to/inderpreet/blog-post-refactoring-and-git-rebase-for-tailor4job-1i19)
+- [I Survived a Massive DDoS Attack and Made My Server Bulletproof](https://dev.to/jimmymcbride/i-survived-a-massive-ddos-attack-and-made-my-server-bulletproof-21gh)
+- [Day 43. Composition](https://dev.to/kiolk/day-43-composition-eb6)
 <!-- BLOG-POST-LIST:END -->
 
