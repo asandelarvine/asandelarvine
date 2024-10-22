@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Ways to Speed Up List Views, Agentforce Blockers, Coral Cloud Resorts Sample App](https://dev.to/sfdcnews/6-ways-to-speed-up-list-views-agentforce-blockers-coral-cloud-resorts-sample-app-63b)
-- [ThrottleX: Scaling to a Million Requests Per Second Without Breaking a Sweat](https://dev.to/neelp03/throttlex-scaling-to-a-million-requests-per-second-without-breaking-a-sweat-39n0)
-- [Understanding Salesforce’s New Pricing Structure in 2024](https://dev.to/itechcloud_solution_01/understanding-salesforces-new-pricing-structure-in-2024-1l0b)
-- [Crowdstrike enters the Serverless market](https://dev.to/thijsdez/crowdstrike-enters-the-serverless-market-6g6)
+- [Top 5 Text2SQL AI Tools in 2024](https://dev.to/bytebase/top-5-text2sql-ai-tools-in-2024-1810)
+- [Amazon S3 Bucket with Policy Details](https://dev.to/mrcaption49/amazon-s3-bucket-with-policy-details-2g0b)
+- [Migrating from WordPress to Jekyll: Save Money with a Static Site](https://dev.to/prahladyeri/migrating-from-wordpress-to-jekyll-save-money-with-a-static-site-3e00)
+- [How to Use the workflow_dispatch Event for Manual Triggers](https://dev.to/cicube/how-to-use-the-workflowdispatch-event-for-manual-triggers-fjn)
 <!-- BLOG-POST-LIST:END -->
 
