@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a crashproof customer service agent in &lt;80 lines with Swarm 💪🐝](https://dev.to/dbos/how-to-build-a-crashproof-customer-service-agent-in-80-lines-with-swarm-4b7c)
-- [Starting a new project - Probtrix](https://dev.to/umair-iftikhar/starting-a-new-project-probtrix-21me)
-- [New Here - Let&#39;s Rock](https://dev.to/stereoimageav/new-here-lets-rock-203e)
-- [How to convert CommonJS to ESM](https://dev.to/thisisjofrank/how-to-convert-commonjs-to-esm-1jc0)
+- [10/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/10365-days-y10m-japan-job-challenge-5gb1)
+- [Ideaes - PROBTRIX](https://dev.to/umair-iftikhar/ideaes-probtrix-4gbo)
+- [Chat with any full website &lpar;not just a single page&rpar;. Complete Tutorial](https://dev.to/airabbit/chat-with-any-full-website-not-just-a-single-page-complete-tutorial-294k)
+- [High-level workflow in MERN apps](https://dev.to/oyegoke/high-level-workflow-in-mern-apps-1iaf)
 <!-- BLOG-POST-LIST:END -->
 
