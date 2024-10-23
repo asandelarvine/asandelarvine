@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server vs. Client Components in Next.js 13: When and How to Use Them](https://dev.to/micheaol/server-vs-client-components-in-nextjs-13-when-and-how-to-use-them-2dj7)
-- [Full Stack web framework with React](https://dev.to/hviana/full-stack-web-framework-with-react-cnh)
-- [How to scrape Hacker News to create a daily email summary](https://dev.to/triggerdotdev/how-to-scrape-hacker-news-to-create-a-daily-email-summary-3npa)
-- [Introducing Computer Use: Meet the New Claude 3.5 Sonnet and Claude 3.5 Haiku](https://dev.to/respect17/introducing-computer-use-meet-the-new-claude-35-sonnet-and-claude-35-haiku-oc0)
+- [Comparison between CORE and Other Software Development Methodologies](https://dev.to/jgmluiz/comparison-between-core-and-other-software-development-methodologies-5a79)
+- [How to use resources file and memory in try](https://dev.to/ozkanpakdil/how-to-use-resourcesfile-and-memory-in-try-5e24)
+- [Seeking Open-Source Collaboration to Complete Website for Portfolio](https://dev.to/ash-probably/seeking-open-source-collaboration-to-complete-website-for-portfolio-pb6)
+- [Boost Your Workflow: Essential Shell Scripts for Everyday Tasks](https://dev.to/mdarifulhaque/boost-your-workflow-essential-shell-scripts-for-everyday-tasks-1kde)
 <!-- BLOG-POST-LIST:END -->
 
