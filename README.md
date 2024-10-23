@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1048 : Great Escape](https://dev.to/dwane/day-1048-great-escape-1bfm)
-- [React Basics~unit test/describe test](https://dev.to/kkr0423/react-basicsunit-testdescribe-test-3b30)
-- [Introducing the DNA-KEY System: Taking the Password Generator to the Next Level! 🔐](https://dev.to/yassinesallami/introducing-the-dna-key-system-taking-the-password-generator-to-the-next-level-52la)
-- [Unlocking Multilingual Menus: How to Make Your WordPress Full-Site-Editing Navigation Translatable with Polylang!](https://dev.to/geoffreybr/unlocking-multilingual-menus-how-to-make-your-wordpress-full-site-editing-navigation-translatable-with-polylang-2nan)
+- [Mutable Derivations in Reactivity](https://dev.to/this-is-learning/mutable-derivations-in-reactivity-2ffl)
+- [How to create an image authentication system with python streamlit and canva!](https://dev.to/yassinesallami/how-to-create-an-image-authentication-system-with-python-streamlit-and-canva-3lk0)
+- [Building a Simple Responsive Layout with Flexbox for Beginners](https://dev.to/magsimuhammadessa/building-a-simple-responsive-layout-with-flexbox-for-beginners-cnb)
+- [Anthropic&#39;s Latest AI Breaks New Ground in Computing](https://dev.to/yashrajxdev/anthropics-latest-ai-breaks-new-ground-in-computing-9j4)
 <!-- BLOG-POST-LIST:END -->
 
