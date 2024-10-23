@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to write clean code](https://dev.to/codewithshahan/how-to-write-clean-code-3599)
-- [Setting Development Goals That Actually Stick: Examples and Strategies](https://dev.to/devactivity-app/setting-development-goals-that-actually-stick-examples-and-strategies-3jao)
-- [Why Doesn&#39;t Postgres Use My Index](https://dev.to/metis/why-doesnt-postgres-use-my-index-2b6e)
-- [Adding a Rubocop config to an old repository | step-by-step guide](https://dev.to/lcsm0n/adding-a-rubocop-config-to-an-old-repository-step-by-step-guide-49db)
+- [How to deploy Granite MOE 1B and 3B in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-granite-moe-1b-and-3b-in-the-cloud-4o7c)
+- [The Ultimate Guide to Understanding Blind SQL injection](https://dev.to/carrie_luo1/the-ultimate-guide-to-understanding-blind-sql-injection-3ci8)
+- [Understanding Semantic Analysis Algorithms: A Beginner’s Guide](https://dev.to/carrie_luo1/understanding-semantic-analysis-algorithms-a-beginners-guide-5bkm)
+- [Demystifying ABI Encoding: How to Communicate with Ethereum Smart Contracts](https://dev.to/djibrilm/solidity-abi-encoding-explained-fp)
 <!-- BLOG-POST-LIST:END -->
 
