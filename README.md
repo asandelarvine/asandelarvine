@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Must-Know Libraries to Supercharge Your Frontend Development](https://dev.to/safdarali/12-must-know-libraries-to-supercharge-your-frontend-development-5ek3)
-- [Secure Your App: 2-Factor Auth in 3 Easy Steps](https://dev.to/jackwilltech/secure-your-app-2-factor-auth-in-3-easy-steps-ahn)
-- [Issue 67 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-67-of-aws-cloud-security-weekly-amn)
-- [Meta AI&#39;s CoTracker3: Enhanced Point Tracking with Less Data](https://dev.to/voxel51/meta-ais-cotracker3-enhanced-point-tracking-with-less-data-3kab)
+- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-5gjg)
+- [How AWS SSM agent communicates with 𝐒𝐲𝐬𝐭𝐞𝐦 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 using 𝐕𝐏𝐂 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐞𝐧𝐝𝐩𝐨𝐢𝐧𝐭𝐬.](https://dev.to/nanditechbytes/how-aws-ssm-agent-communicates-with-using--1a0g)
+- [Construindo Chatbots com IA: Como Utilizar APIs de Processamento de Linguagem Natural](https://dev.to/jandersonsiqueira/construindo-chatbots-com-ia-como-utilizar-apis-de-processamento-de-linguagem-natural-bfp)
+- [Monitoramento Inteligente: Construa Dashboards que Antecipam Problemas](https://dev.to/womakerscode/monitoramento-inteligente-construa-dashboards-que-antecipam-problemas-58kn)
 <!-- BLOG-POST-LIST:END -->
 
