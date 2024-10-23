@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Science Fiction: A Deep Dive into the Exciting World of AI in Education](https://dev.to/saumya_1i/beyond-science-fiction-a-deep-dive-into-the-exciting-world-of-ai-in-education-49ph)
-- [Best Facial Recognition Companies 2024](https://dev.to/luxandcloud/best-facial-recognition-companies-2024-50ok)
-- [Automatically posting articles from dev.to to linkedin.com](https://dev.to/serhii_korol_ab7776c50dba/automatically-posting-articles-from-devto-to-linkedincom-17p5)
-- [The 2025 Roadmap to Building Secure Software: Best Practices and Tools for Software Engineers.](https://dev.to/balrajola/the-2025-roadmap-to-building-secure-software-best-practices-and-tools-for-software-engineers-cnk)
+- [RAG vs. Fine-Tuning: Which Is Best for Enhancing LLMs?](https://dev.to/fotiecodes/rag-vs-fine-tuning-which-is-best-for-enhancing-llms-6a)
+- [How to deploy a backend application to DigitalOcean using Docker and Encore](https://dev.to/encore/how-to-deploy-a-backend-application-to-digitalocean-using-docker-and-encore-1eh0)
+- [Running MySQL Server in Docker](https://dev.to/abhijeetgavali/running-mysql-server-in-docker-2i56)
+- [Jeg forstår det simpelthen ikke](https://dev.to/sprutnums/jeg-forstar-det-simpelthen-ikke-1850)
 <!-- BLOG-POST-LIST:END -->
 
