@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Redux: A tutorial with examples](https://dev.to/logrocket/understanding-redux-a-tutorial-with-examples-k2i)
-- [Top 10 Best Practices for Writing Clean Code](https://dev.to/saurabhkurve/top-10-best-practices-for-writing-clean-code-1pmj)
-- [How to Set Default CLI Version](https://dev.to/servbay/how-to-set-default-cli-version-2m90)
-- [20 TypeScript Tricks Every Developer Should Know 🚀](https://dev.to/jagroop2001/20-typescript-tricks-every-developer-should-know-31e2)
+- [Server vs. Client Components in Next.js 13: When and How to Use Them](https://dev.to/micheaol/server-vs-client-components-in-nextjs-13-when-and-how-to-use-them-2dj7)
+- [Full Stack web framework with React](https://dev.to/hviana/full-stack-web-framework-with-react-cnh)
+- [How to scrape Hacker News to create a daily email summary](https://dev.to/triggerdotdev/how-to-scrape-hacker-news-to-create-a-daily-email-summary-3npa)
+- [Introducing Computer Use: Meet the New Claude 3.5 Sonnet and Claude 3.5 Haiku](https://dev.to/respect17/introducing-computer-use-meet-the-new-claude-35-sonnet-and-claude-35-haiku-oc0)
 <!-- BLOG-POST-LIST:END -->
 
