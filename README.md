@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy a static website to DigitalOcean](https://dev.to/robinvanderknaap/how-to-deploy-a-static-website-to-digitalocean-308l)
-- [If you want to be successful, you should stop for lunch!](https://dev.to/cocodelacueva/if-you-want-to-be-successful-you-should-stop-for-lunch-1m90)
-- [How to Get Started with Open Source Contributions?](https://dev.to/zlaam/how-to-get-started-with-open-source-contributions-p12)
-- [Normalization | 1 NF](https://dev.to/mrcaption49/normalization-1-nf-47eg)
+- [Desbloqueando el Futuro de la Gestión de Edificios con AWS IoT](https://dev.to/aws-espanol/desbloqueando-el-futuro-de-la-gestion-de-edificios-con-aws-iot-3k23)
+- [19 Frontend Projects 🎨](https://dev.to/grapplingdev/19-frontend-projects-5heo)
+- [AZ-104: Configure and Manage Virtual Networks for Azure Administrators](https://dev.to/i_am_vesh/az-104-configure-and-manage-virtual-networks-for-azure-administrators-21ad)
+- [Unlocking the Future of Building Management with AWS IoT](https://dev.to/aws-builders/unlocking-the-future-of-building-management-with-aws-iot-2g73)
 <!-- BLOG-POST-LIST:END -->
 
