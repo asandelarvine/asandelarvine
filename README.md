@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Trace Analysis with Span Links using OpenTelemetry and Signoz &lpar;A Practical Guide&rpar;](https://dev.to/clericcoder/mastering-trace-analysis-with-span-links-using-opentelemetry-and-signoz-a-practical-guide-52hm)
-- [Inertia.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/inertiajs-adoption-guide-overview-examples-and-alternatives-2l8e)
-- [New: Rails Development Tool](https://dev.to/railsdesigner/new-rails-development-tool-4ooj)
-- [Partial Dependency in Normalisation | 2NF | ORACLE SQL](https://dev.to/mrcaption49/partial-dependency-in-normalisation-2nf-oracle-sql-34g3)
+- [How to deploy a static website to DigitalOcean](https://dev.to/robinvanderknaap/how-to-deploy-a-static-website-to-digitalocean-308l)
+- [If you want to be successful, you should stop for lunch!](https://dev.to/cocodelacueva/if-you-want-to-be-successful-you-should-stop-for-lunch-1m90)
+- [How to Get Started with Open Source Contributions?](https://dev.to/zlaam/how-to-get-started-with-open-source-contributions-p12)
+- [Normalization | 1 NF](https://dev.to/mrcaption49/normalization-1-nf-47eg)
 <!-- BLOG-POST-LIST:END -->
 
