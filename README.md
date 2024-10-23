@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Integration between Apache APISIX and open-appsec WAF](https://dev.to/apisix/announcing-integration-between-apache-apisix-and-open-appsec-waf-2jf9)
-- [Loader Animation](https://dev.to/mahmud-r-farhan/loader-animation-49di)
-- [Common built-in APIs in Nodejs](https://dev.to/muthuraja_r/common-built-in-apis-in-nodejs-3ep)
-- [Understanding the this Keyword in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-the-this-keyword-in-javascript-576p)
+- [Don&#39;t rely on memory. Take notes!](https://dev.to/gabrieltoma/dont-rely-on-memory-take-notes-1nfn)
+- [Welcome Thread - v299](https://dev.to/devteam/welcome-thread-v299-2770)
+- [Arduino Serial.parseInt 函式的運作方式](https://dev.to/codemee/arduino-serialparseint-han-shi-de-yun-zuo-fang-shi-bbg)
+- [🔥Offering Free Sessions: Let&#39;s Connect Over Cloud, Kubernetes and DevOps!🔥](https://dev.to/lakhera2015/offering-free-sessions-lets-connect-over-cloud-kubernetes-and-devops-7ab)
 <!-- BLOG-POST-LIST:END -->
 
