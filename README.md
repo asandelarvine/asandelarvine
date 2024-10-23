@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Go Applications with OpenTelemetry: Lessons from Gophercon](https://dev.to/susangithaigan/optimizing-go-applications-with-opentelemetry-lessons-from-gophercon-4il5)
-- [System Integration Testing: A Complete Overview](https://dev.to/keploy/system-integration-testing-a-complete-overview-iji)
-- [Create a simple REST API that can perform CRUD operations](https://dev.to/codingashish_dev/create-a-simple-rest-api-that-can-perform-crud-operations-je1)
-- [nextjs 15](https://dev.to/oliviarizona88/nextjs-15-3dck)
+- [Detailed Guide on Content Delivery Networks](https://dev.to/certera_/detailed-guide-on-content-delivery-networks-a6j)
+- [Guide to Addressing “Network File Descriptor is Not Connected”](https://dev.to/carrie_luo1/guide-to-addressing-network-file-descriptor-is-not-connected-4c33)
+- [The Secret to Effortless App Updates Explained in 2 Minutes! 🚀](https://dev.to/zorian/the-secret-to-effortless-app-updates-explained-in-2-minutes-30a8)
+- [5 Common Reactjs Errors](https://dev.to/oliviarizona88/5-common-reactjs-errors-49km)
 <!-- BLOG-POST-LIST:END -->
 
