@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you split your time between building and marketing?](https://dev.to/jxd-dev/how-do-you-split-your-time-between-building-and-marketing-5dl7)
-- [Go and Rust comparison - building a task scheduler](https://dev.to/hiro_111/go-and-rust-comparison-building-a-task-scheduler-1apa)
-- [Day 11/90: Error Handling in Shell Scripts 🛡️ #90DaysOfDevOps](https://dev.to/kanav_gathe/day-1190-error-handling-in-shell-scripts-90daysofdevops-1i5b)
-- [Day 10/90: Log Analyzer and Report Generator 📊 #90DaysOfDevOps](https://dev.to/kanav_gathe/day-1090-log-analyzer-and-report-generator-90daysofdevops-2d4d)
+- [Day 1048 : Great Escape](https://dev.to/dwane/day-1048-great-escape-1bfm)
+- [React Basics~unit test/describe test](https://dev.to/kkr0423/react-basicsunit-testdescribe-test-3b30)
+- [Introducing the DNA-KEY System: Taking the Password Generator to the Next Level! 🔐](https://dev.to/yassinesallami/introducing-the-dna-key-system-taking-the-password-generator-to-the-next-level-52la)
+- [Unlocking Multilingual Menus: How to Make Your WordPress Full-Site-Editing Navigation Translatable with Polylang!](https://dev.to/geoffreybr/unlocking-multilingual-menus-how-to-make-your-wordpress-full-site-editing-navigation-translatable-with-polylang-2nan)
 <!-- BLOG-POST-LIST:END -->
 
