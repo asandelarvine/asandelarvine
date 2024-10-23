@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detailed Guide on Content Delivery Networks](https://dev.to/certera_/detailed-guide-on-content-delivery-networks-a6j)
-- [Guide to Addressing “Network File Descriptor is Not Connected”](https://dev.to/carrie_luo1/guide-to-addressing-network-file-descriptor-is-not-connected-4c33)
-- [The Secret to Effortless App Updates Explained in 2 Minutes! 🚀](https://dev.to/zorian/the-secret-to-effortless-app-updates-explained-in-2-minutes-30a8)
-- [5 Common Reactjs Errors](https://dev.to/oliviarizona88/5-common-reactjs-errors-49km)
+- [How to write clean code](https://dev.to/codewithshahan/how-to-write-clean-code-3599)
+- [Setting Development Goals That Actually Stick: Examples and Strategies](https://dev.to/devactivity-app/setting-development-goals-that-actually-stick-examples-and-strategies-3jao)
+- [Why Doesn&#39;t Postgres Use My Index](https://dev.to/metis/why-doesnt-postgres-use-my-index-2b6e)
+- [Adding a Rubocop config to an old repository | step-by-step guide](https://dev.to/lcsm0n/adding-a-rubocop-config-to-an-old-repository-step-by-step-guide-49db)
 <!-- BLOG-POST-LIST:END -->
 
