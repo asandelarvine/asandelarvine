@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secret Linux Commands:](https://dev.to/krav24/secret-linux-commands-4g6i)
-- [Making a Webapp is so EASY with Streamlit](https://dev.to/sachingeek/making-a-webapp-is-so-easy-with-streamlit-12j3)
-- [Medusa 2.0: The world&#39;s most flexible commerce platform](https://dev.to/medusajs/medusa-20-the-worlds-most-flexible-commerce-platform-3k96)
-- [Show us your open-source Project](https://dev.to/litlyx/show-us-your-open-source-project-188o)
+- [Beyond Science Fiction: A Deep Dive into the Exciting World of AI in Education](https://dev.to/saumya_1i/beyond-science-fiction-a-deep-dive-into-the-exciting-world-of-ai-in-education-49ph)
+- [Best Facial Recognition Companies 2024](https://dev.to/luxandcloud/best-facial-recognition-companies-2024-50ok)
+- [Automatically posting articles from dev.to to linkedin.com](https://dev.to/serhii_korol_ab7776c50dba/automatically-posting-articles-from-devto-to-linkedincom-17p5)
+- [The 2025 Roadmap to Building Secure Software: Best Practices and Tools for Software Engineers.](https://dev.to/balrajola/the-2025-roadmap-to-building-secure-software-best-practices-and-tools-for-software-engineers-cnk)
 <!-- BLOG-POST-LIST:END -->
 
