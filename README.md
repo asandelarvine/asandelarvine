@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t rely on memory. Take notes!](https://dev.to/gabrieltoma/dont-rely-on-memory-take-notes-1nfn)
-- [Welcome Thread - v299](https://dev.to/devteam/welcome-thread-v299-2770)
-- [Arduino Serial.parseInt 函式的運作方式](https://dev.to/codemee/arduino-serialparseint-han-shi-de-yun-zuo-fang-shi-bbg)
-- [🔥Offering Free Sessions: Let&#39;s Connect Over Cloud, Kubernetes and DevOps!🔥](https://dev.to/lakhera2015/offering-free-sessions-lets-connect-over-cloud-kubernetes-and-devops-7ab)
+- [The Eaxeli Quiz API](https://dev.to/ifrank/the-eaxeli-quiz-api-20io)
+- [Clear Difference Between Cryptographic Hardware vs. Software Encryption](https://dev.to/sign_my_code/clear-difference-between-cryptographic-hardware-vs-software-encryption-35pi)
+- [Database Design patterns in Oracle SQL](https://dev.to/mrcaption49/database-design-patterns-in-oracle-sql-2hfe)
+- [Video: How to share an Angular Component with URL](https://dev.to/shhdharmen/video-how-to-share-an-angular-component-with-url-3g40)
 <!-- BLOG-POST-LIST:END -->
 
