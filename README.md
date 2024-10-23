@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-5gjg)
-- [How AWS SSM agent communicates with 𝐒𝐲𝐬𝐭𝐞𝐦 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 using 𝐕𝐏𝐂 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐞𝐧𝐝𝐩𝐨𝐢𝐧𝐭𝐬.](https://dev.to/nanditechbytes/how-aws-ssm-agent-communicates-with-using--1a0g)
-- [Construindo Chatbots com IA: Como Utilizar APIs de Processamento de Linguagem Natural](https://dev.to/jandersonsiqueira/construindo-chatbots-com-ia-como-utilizar-apis-de-processamento-de-linguagem-natural-bfp)
-- [Monitoramento Inteligente: Construa Dashboards que Antecipam Problemas](https://dev.to/womakerscode/monitoramento-inteligente-construa-dashboards-que-antecipam-problemas-58kn)
+- [Understanding the this Keyword in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-the-this-keyword-in-javascript-576p)
+- [Hello everyone, I am new here. Could you briefly show me the special features of this forum?](https://dev.to/waylau/hello-everyone-i-am-new-here-could-you-briefly-show-me-the-special-features-of-this-forum-26h5)
+- [Creating an Interactive Color Picker with Svelte 5](https://dev.to/devgauravjatt/creating-an-interactive-color-picker-with-svelte-5-212g)
+- [🟢 Creating and Using AWS Lambda Layers: A Complete Guide](https://dev.to/softden_2005/creating-and-using-aws-lambda-layers-a-complete-guide-51hc)
 <!-- BLOG-POST-LIST:END -->
 
