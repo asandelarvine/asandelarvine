@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy Granite MOE 1B and 3B in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-granite-moe-1b-and-3b-in-the-cloud-4o7c)
-- [The Ultimate Guide to Understanding Blind SQL injection](https://dev.to/carrie_luo1/the-ultimate-guide-to-understanding-blind-sql-injection-3ci8)
-- [Understanding Semantic Analysis Algorithms: A Beginner’s Guide](https://dev.to/carrie_luo1/understanding-semantic-analysis-algorithms-a-beginners-guide-5bkm)
-- [Demystifying ABI Encoding: How to Communicate with Ethereum Smart Contracts](https://dev.to/djibrilm/solidity-abi-encoding-explained-fp)
+- [Secret Linux Commands:](https://dev.to/krav24/secret-linux-commands-4g6i)
+- [Making a Webapp is so EASY with Streamlit](https://dev.to/sachingeek/making-a-webapp-is-so-easy-with-streamlit-12j3)
+- [Medusa 2.0: The world&#39;s most flexible commerce platform](https://dev.to/medusajs/medusa-20-the-worlds-most-flexible-commerce-platform-3k96)
+- [Show us your open-source Project](https://dev.to/litlyx/show-us-your-open-source-project-188o)
 <!-- BLOG-POST-LIST:END -->
 
