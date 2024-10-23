@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 GopherLight v0.2](https://dev.to/gopherlight/gopherlight-v02-23l1)
-- [C# Clean Code: string guide lines](https://dev.to/moh_moh701/c-clean-code-string-guide-lines-2k8)
-- [Kotlin test automation. Chapter 1- Framework and CRUD tests.](https://dev.to/fofolder/kotlin-test-automation-chapter-1-framework-and-crud-tests-418o)
-- [O que é Lazy Loading?](https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i)
+- [How do you split your time between building and marketing?](https://dev.to/jxd-dev/how-do-you-split-your-time-between-building-and-marketing-5dl7)
+- [Go and Rust comparison - building a task scheduler](https://dev.to/hiro_111/go-and-rust-comparison-building-a-task-scheduler-1apa)
+- [Day 11/90: Error Handling in Shell Scripts 🛡️ #90DaysOfDevOps](https://dev.to/kanav_gathe/day-1190-error-handling-in-shell-scripts-90daysofdevops-1i5b)
+- [Day 10/90: Log Analyzer and Report Generator 📊 #90DaysOfDevOps](https://dev.to/kanav_gathe/day-1090-log-analyzer-and-report-generator-90daysofdevops-2d4d)
 <!-- BLOG-POST-LIST:END -->
 
