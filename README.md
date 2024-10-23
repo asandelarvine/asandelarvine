@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Eaxeli Quiz API](https://dev.to/ifrank/the-eaxeli-quiz-api-20io)
-- [Clear Difference Between Cryptographic Hardware vs. Software Encryption](https://dev.to/sign_my_code/clear-difference-between-cryptographic-hardware-vs-software-encryption-35pi)
-- [Database Design patterns in Oracle SQL](https://dev.to/mrcaption49/database-design-patterns-in-oracle-sql-2hfe)
-- [Video: How to share an Angular Component with URL](https://dev.to/shhdharmen/video-how-to-share-an-angular-component-with-url-3g40)
+- [Optimizing Go Applications with OpenTelemetry: Lessons from Gophercon](https://dev.to/susangithaigan/optimizing-go-applications-with-opentelemetry-lessons-from-gophercon-4il5)
+- [System Integration Testing: A Complete Overview](https://dev.to/keploy/system-integration-testing-a-complete-overview-iji)
+- [Create a simple REST API that can perform CRUD operations](https://dev.to/codingashish_dev/create-a-simple-rest-api-that-can-perform-crud-operations-je1)
+- [nextjs 15](https://dev.to/oliviarizona88/nextjs-15-3dck)
 <!-- BLOG-POST-LIST:END -->
 
