@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparison between CORE and Other Software Development Methodologies](https://dev.to/jgmluiz/comparison-between-core-and-other-software-development-methodologies-5a79)
-- [How to use resources file and memory in try](https://dev.to/ozkanpakdil/how-to-use-resourcesfile-and-memory-in-try-5e24)
-- [Seeking Open-Source Collaboration to Complete Website for Portfolio](https://dev.to/ash-probably/seeking-open-source-collaboration-to-complete-website-for-portfolio-pb6)
-- [Boost Your Workflow: Essential Shell Scripts for Everyday Tasks](https://dev.to/mdarifulhaque/boost-your-workflow-essential-shell-scripts-for-everyday-tasks-1kde)
+- [🚀 GopherLight v0.2](https://dev.to/gopherlight/gopherlight-v02-23l1)
+- [C# Clean Code: string guide lines](https://dev.to/moh_moh701/c-clean-code-string-guide-lines-2k8)
+- [Kotlin test automation. Chapter 1- Framework and CRUD tests.](https://dev.to/fofolder/kotlin-test-automation-chapter-1-framework-and-crud-tests-418o)
+- [O que é Lazy Loading?](https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i)
 <!-- BLOG-POST-LIST:END -->
 
