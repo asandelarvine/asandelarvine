@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbloqueando el Futuro de la Gestión de Edificios con AWS IoT](https://dev.to/aws-espanol/desbloqueando-el-futuro-de-la-gestion-de-edificios-con-aws-iot-3k23)
-- [19 Frontend Projects 🎨](https://dev.to/grapplingdev/19-frontend-projects-5heo)
-- [AZ-104: Configure and Manage Virtual Networks for Azure Administrators](https://dev.to/i_am_vesh/az-104-configure-and-manage-virtual-networks-for-azure-administrators-21ad)
-- [Unlocking the Future of Building Management with AWS IoT](https://dev.to/aws-builders/unlocking-the-future-of-building-management-with-aws-iot-2g73)
+- [Understanding Redux: A tutorial with examples](https://dev.to/logrocket/understanding-redux-a-tutorial-with-examples-k2i)
+- [Top 10 Best Practices for Writing Clean Code](https://dev.to/saurabhkurve/top-10-best-practices-for-writing-clean-code-1pmj)
+- [How to Set Default CLI Version](https://dev.to/servbay/how-to-set-default-cli-version-2m90)
+- [20 TypeScript Tricks Every Developer Should Know 🚀](https://dev.to/jagroop2001/20-typescript-tricks-every-developer-should-know-31e2)
 <!-- BLOG-POST-LIST:END -->
 
