@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG vs. Fine-Tuning: Which Is Best for Enhancing LLMs?](https://dev.to/fotiecodes/rag-vs-fine-tuning-which-is-best-for-enhancing-llms-6a)
-- [How to deploy a backend application to DigitalOcean using Docker and Encore](https://dev.to/encore/how-to-deploy-a-backend-application-to-digitalocean-using-docker-and-encore-1eh0)
-- [Running MySQL Server in Docker](https://dev.to/abhijeetgavali/running-mysql-server-in-docker-2i56)
-- [Jeg forstår det simpelthen ikke](https://dev.to/sprutnums/jeg-forstar-det-simpelthen-ikke-1850)
+- [10 signs you’ve been a software tester for too long &lpar;and you should run while you still can&rpar;](https://dev.to/testerzypl/10-signs-youve-been-a-software-tester-for-too-long-and-you-should-run-while-you-still-can-1mjp)
+- [[Pass AWS SCS-C02 on the first try!] A security beginner passed AWS SCS in just 2 weeks](https://dev.to/uirole/pass-aws-scs-c02-on-the-first-try-a-security-beginner-passed-aws-scs-in-just-2-weeks-1g0j)
+- [Detailed Difference between Ienumerable-vs-Iqueryable](https://dev.to/deewakar_kumar_8812427a98/detailed-difference-between-ienumerable-vs-iqueryable-4303)
+- [Streamlining API Calls in Angular v18 with TanStack Angular Query](https://dev.to/this-is-angular/streamlining-api-calls-in-angular-v18-with-tanstack-angular-query-5ahc)
 <!-- BLOG-POST-LIST:END -->
 
