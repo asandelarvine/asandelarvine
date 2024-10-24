@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Khelo: From Streets to Stadiums - A Developer&#39;s Guide 🏏](https://dev.to/mayank_variya/khelo-from-streets-to-stadiums-a-developers-guide-18ka)
-- [Streaming Real-Time Data in Flutter: A Step-by-Step Guide for Developers](https://dev.to/mayank_variya/streaming-real-time-data-in-flutter-a-step-by-step-guide-for-developers-34eh)
-- [Handling Global Errors in Angular : A Simple App with Custom ErrorHandler](https://dev.to/manthanank/handling-global-errors-in-angular-a-simple-app-with-custom-errorhandler-4ak9)
-- [AI-Driven Background Removal: Streamlining Photography Workflows](https://dev.to/api4ai/ai-driven-background-removal-streamlining-photography-workflows-48en)
+- [Indexes in SQL | Clustered and Non Clustered Index](https://dev.to/mrcaption49/indexes-in-sql-clustered-and-non-clustered-index-24de)
+- [Next.js 15 : Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/sonaykara/nextjs-15-incremental-static-regeneration-isr-51h4)
+- [EDD with event emitters](https://dev.to/cirlorm_io/edd-with-event-emitters-1paf)
+- [C# Clean Code: using var guide lines](https://dev.to/moh_moh701/c-clean-code-using-var-guide-lines-4hhe)
 <!-- BLOG-POST-LIST:END -->
 
