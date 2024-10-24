@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Morph SDK and Metamask Integration](https://dev.to/azeezabidoye/getting-started-with-morph-sdk-and-metamask-integration-2m0j)
-- [The open source maintainer community is getting grayer](https://dev.to/tidelift/the-open-source-maintainer-community-is-getting-grayer-1gc2)
-- [Automatic file-based routing in Vue.js](https://dev.to/logrocket/automatic-file-based-routing-in-vuejs-5hnd)
-- [Future-Proofing Your Auth0 Integration: Moving from Rules and Hooks to Actions](https://dev.to/preethi_p_gowda/future-proofing-your-auth0-integration-moving-from-rules-and-hooks-to-actions-13ni)
+- [Item 66: Utilize os métodos nativos com sabedoria](https://dev.to/giselecoder/item-66-utilize-os-metodos-nativos-com-sabedoria-4j37)
+- [Item 65: Dê preferência às interfaces em vez da reflexão](https://dev.to/giselecoder/item-65-de-preferencia-as-interfaces-em-vez-da-reflexao-odp)
+- [Why Should You Choose Linux OS If You Are Programmer?](https://dev.to/zlaam/why-should-you-choose-linux-os-if-you-are-programmer-k20)
+- [AZ-104: Monitoring and Backing Up Azure Resources – Complete Guide](https://dev.to/i_am_vesh/az-104-monitoring-and-backing-up-azure-resources-complete-guide-1jel)
 <!-- BLOG-POST-LIST:END -->
 
