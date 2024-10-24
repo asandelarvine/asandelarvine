@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutable Derivations in Reactivity](https://dev.to/this-is-learning/mutable-derivations-in-reactivity-2ffl)
-- [How to create an image authentication system with python streamlit and canva!](https://dev.to/yassinesallami/how-to-create-an-image-authentication-system-with-python-streamlit-and-canva-3lk0)
-- [Building a Simple Responsive Layout with Flexbox for Beginners](https://dev.to/magsimuhammadessa/building-a-simple-responsive-layout-with-flexbox-for-beginners-cnb)
-- [Anthropic&#39;s Latest AI Breaks New Ground in Computing](https://dev.to/yashrajxdev/anthropics-latest-ai-breaks-new-ground-in-computing-9j4)
+- [Beginner&#39;s Guide to Backend Development: Build Your First App Using Node.js and Express.js](https://dev.to/inam003/beginners-guide-to-backend-development-build-your-first-app-using-nodejs-and-expressjs-499m)
+- [Client-Side Rendering &lpar;CSR&rpar;](https://dev.to/nullref/client-side-rendering-csr-98j)
+- [Introducing Soyo: Stream On Your Own , Effortlessly 🎬🎧](https://dev.to/hikki/introducing-soyo-stream-on-your-own-effortlessly-2eh)
+- [SAST, DAST, and IAST: Approaches to Testing Application Security](https://dev.to/ekirigwe/sast-dast-and-iast-approaches-to-testing-application-security-60b)
 <!-- BLOG-POST-LIST:END -->
 
