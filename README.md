@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Update Node.js](https://dev.to/xxzeroxx/how-to-update-nodejs-5d6d)
-- [Código, Paixão e Determinação: O Estilo Ayrton Senna na Tecnologia](https://dev.to/ruanvictordev/codigo-paixao-e-determinacao-o-estilo-ayrton-senna-na-tecnologia-k9h)
-- [Introduction to WebClient in Java 17: A Modern Way to Handle HTTP Requests](https://dev.to/matheusmartinello/introduction-to-webclient-in-java-17-a-modern-way-to-handle-http-requests-1h16)
-- [analyzeSizeChange script in tRPC source code](https://dev.to/thinkthroo/analyzesizechange-script-in-trpc-source-code-15cg)
+- [VRPG day 1](https://dev.to/vctrsmelo/vrpg-day-1-968)
+- [The Secret to Fast Typing on the Game Boy: Here’s How I Did It!](https://dev.to/cleggacus/the-secret-to-fast-typing-on-the-game-boy-heres-how-i-did-it-ohh)
+- [My First Time Participating in Hacktoberfest: A Journey into Open Source](https://dev.to/abdullah-k18/my-first-time-participating-in-hacktoberfest-a-journey-into-open-source-589l)
+- [True color with an explainer on bits and bytes](https://dev.to/khenhey/true-color-with-an-explainer-on-bits-and-bytes-6ph)
 <!-- BLOG-POST-LIST:END -->
 
