@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential MySQL Operators and Their Applications](https://dev.to/dbvismarketing/essential-mysql-operators-and-their-applications-2g7i)
-- [How to run Orbit by 🦊Mozilla in Chrome based browsers](https://dev.to/piterweb/how-to-run-orbit-by-mozilla-in-chrome-based-browsers-22hh)
-- [How to use JavaScript Classes in real projects](https://dev.to/midhul/how-to-use-javascript-classes-in-real-projects-i3p)
-- [JAT Task 2](https://dev.to/prabhumithran/jat-task-2-5dh5)
+- [Retrospectives Done Right: How to Make Your Team Meetings Actually Matter](https://dev.to/devactivity-app/retrospectives-done-right-how-to-make-your-team-meetings-actually-matter-4309)
+- [THE M.O.I.S.T Principle](https://dev.to/sprutnums/the-moist-principle-56b5)
+- [Mastering Code Review in GitHub: Common Mistakes to Avoid](https://dev.to/gocodeo/mastering-code-review-in-github-common-mistakes-to-avoid-mf5)
+- [Types of Mechanical Keyboard Switches and Their Impact](https://dev.to/mysticcoder/types-of-mechanical-keyboard-switches-and-their-impact-2hil)
 <!-- BLOG-POST-LIST:END -->
 
