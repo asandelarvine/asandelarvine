@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning the new Svelte v5 Reactivity System](https://dev.to/webjose/learning-the-new-svelte-v5-reactivity-system-13i4)
-- [Sliding subarray beauty](https://dev.to/prashantrmishra/sliding-subarray-beauty-5510)
-- [LazyVStack vs List in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/lazyvstack-vs-list-in-ios-18-30daysofswift-8fp)
-- [Git Workflow with a &quot;Lazy&quot; Alias](https://dev.to/y3asin/git-workflow-with-a-lazy-alias-3i7g)
+- [Exploring Swift for iOS Development](https://dev.to/swematic/exploring-swift-for-ios-development-2l3o)
+- [Install of Packages with NPM-Store Using AWS CodeArtifact](https://dev.to/aws-builders/install-of-packages-with-npm-store-using-aws-codeartifact-29lp)
+- [Two ways to use Pester to Mock objects with strongly typed parameters](https://dev.to/markwragg/two-ways-to-use-pester-to-mock-objects-with-strongly-typed-parameters-31n7)
+- [Auditing Healthcare Compliance Programs: A Comprehensive Guide](https://dev.to/romanburdiuzha/auditing-healthcare-compliance-programs-a-comprehensive-guide-3fij)
 <!-- BLOG-POST-LIST:END -->
 
