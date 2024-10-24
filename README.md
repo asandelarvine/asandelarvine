@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [supabase注册并创建项目和添加数据表](https://dev.to/longlikun/supabsezhu-ce-bing-chuang-jian-xiang-mu-he-tian-jia-shu-ju-biao-467p)
-- [The Journey From a CSV File to Apache Hive Table](https://dev.to/abdullah_haggag/the-journey-from-a-csv-file-to-apache-hive-table-45ab)
-- [How to Integrate Crypto Payments in Your Apps &amp; Build Your Own Crypto Payment Gateway with ZinariPays OpenAPI](https://dev.to/christopher_akanmu/how-to-integrate-crypto-payments-in-your-apps-build-your-own-crypto-payment-gateway-with-zinaripays-openapi-49ah)
-- [Implementing Webpack from Scratch, But in Rust - [1] Parsing and Modifying JS Code Using Oxc](https://dev.to/paradeto/implementing-webpack-from-scratch-but-in-rust-1-parsing-and-modifying-js-code-using-oxc-40l5)
+- [End Point Security Solutions](https://dev.to/certcube/end-point-security-solutions-4o17)
+- [Mine 14 dage med Cursor](https://dev.to/sprutnums/mine-14-dage-med-cursor-1oh3)
+- [7 Principper for Microservices](https://dev.to/sprutnums/7-principper-for-microservices-ca6)
+- [المسح الأمني للكود باستخدام Amazon Q Developer](https://dev.to/aws-3arabi/lmsh-lmny-llkwd-bstkhdm-amazon-q-developer-4jcj)
 <!-- BLOG-POST-LIST:END -->
 
