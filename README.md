@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [End Point Security Solutions](https://dev.to/certcube/end-point-security-solutions-4o17)
-- [Mine 14 dage med Cursor](https://dev.to/sprutnums/mine-14-dage-med-cursor-1oh3)
-- [7 Principper for Microservices](https://dev.to/sprutnums/7-principper-for-microservices-ca6)
-- [المسح الأمني للكود باستخدام Amazon Q Developer](https://dev.to/aws-3arabi/lmsh-lmny-llkwd-bstkhdm-amazon-q-developer-4jcj)
+- [Warning Filter in Python](https://dev.to/hyperkai/warning-filter-in-python-4g0e)
+- [What is RAG in AI? How It Combines Retrieval with Generation for Accurate Results](https://dev.to/arum_puripratamawati_ef5/what-is-rag-in-ai-how-it-combines-retrieval-with-generation-for-accurate-results-4ne9)
+- [🎉My journey of Contributing at Hacktoberfest🚀](https://dev.to/shubham_bendkhale/my-journey-of-contributing-at-hacktoberfest-1no2)
+- [🎉My journey of Contributing at Hacktoberfest🚀](https://dev.to/shubham_bendkhale/my-journey-of-contributing-at-hacktoberfest-2o2d)
 <!-- BLOG-POST-LIST:END -->
 
