@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Iterators in Go: A Fun Dive!](https://dev.to/tuna99/understanding-iterators-in-go-a-fun-dive-1c57)
-- [তরুণ উদ্যোক্তা এবং স্টার্টআপ: আমার কল্পনার জগতে একটি যাত্রা](https://dev.to/mahiamomo/trunn-udyoktaa-ebn-sttaarttaap-aamaar-klpnaar-jgte-ektti-yaatraa-408m)
-- [Create a Spooky Halloween-Themed Website with Our Interactive Template!](https://dev.to/arishn/create-a-spooky-halloween-themed-website-with-our-interactive-template-942)
-- [Procedure in PL/SQL | Best Explanation](https://dev.to/mrcaption49/procedure-in-plsql-best-explanation-4l96)
+- [🚀 Your Daily Crypto Job Digest For 24 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-october-1gj4)
+- [Deploying Static React app on AWS S3 Bucket](https://dev.to/saquib_hussain_0d67ba0ead/deploying-static-react-app-on-aws-s3-bucket-gln)
+- [Real-time examples of clustered and non-clustered indexes](https://dev.to/mrcaption49/real-time-examples-of-clustered-and-non-clustered-indexes-50bd)
+- [How to Use the Google Drive Uploader Component for Vue 3 and TypeScript](https://dev.to/mabbkhawaja/how-to-use-the-google-drive-uploader-component-for-vue-3-and-typescript-61j)
 <!-- BLOG-POST-LIST:END -->
 
