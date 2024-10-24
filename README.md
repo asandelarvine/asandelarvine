@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configurando un proyecto de React para producción](https://dev.to/joshuacba08/configurando-un-proyecto-de-react-para-produccion-7hb)
-- [Understanding the &#39;use client&#39; Directive in Next.js: Client-Side Components Explained](https://dev.to/saeedniyabati/understanding-the-use-client-directive-in-nextjs-client-side-components-explained-309)
-- [Varying the unknown parameter with optimization criteria](https://dev.to/eyakema11/varying-the-unknown-parameter-with-optimization-criteria-5d0m)
-- [TypeScript: JavaScript&#39;s Superhero Cape](https://dev.to/baransel/typescript-javascripts-superhero-cape-32eg)
+- [Code Smell 276 - Untested Regular Expressions](https://dev.to/mcsee/code-smell-276-untested-regular-expressions-4oai)
+- [Prompt Engineering &lpar;For Lazy Programmers&rpar;: Getting Exactly the Code You Want &lpar;and Even More, Out of ChatGPT&rpar;](https://dev.to/jamesbright/prompt-engineering-for-lazy-programmers-getting-exactly-the-code-you-want-and-even-more-out-of-chatgpt-3plf)
+- [How to Route Multiple Paystack Webhooks with one Webhook URL](https://dev.to/devlawrence/how-to-route-multiple-paystack-webhooks-with-one-webhook-url-1d2m)
+- [I created a video tutorial on how to make a responsive sidebar using CSS and vanilla Javascript](https://dev.to/laustke/i-created-a-video-tutorial-on-how-to-make-a-responsive-sidebar-using-css-and-vanilla-javascript-3ofi)
 <!-- BLOG-POST-LIST:END -->
 
