@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Item 66: Utilize os métodos nativos com sabedoria](https://dev.to/giselecoder/item-66-utilize-os-metodos-nativos-com-sabedoria-4j37)
-- [Item 65: Dê preferência às interfaces em vez da reflexão](https://dev.to/giselecoder/item-65-de-preferencia-as-interfaces-em-vez-da-reflexao-odp)
-- [Why Should You Choose Linux OS If You Are Programmer?](https://dev.to/zlaam/why-should-you-choose-linux-os-if-you-are-programmer-k20)
-- [AZ-104: Monitoring and Backing Up Azure Resources – Complete Guide](https://dev.to/i_am_vesh/az-104-monitoring-and-backing-up-azure-resources-complete-guide-1jel)
+- [Axios vs Fetch: Which One Should You Choose for Your Project](https://dev.to/codeparrot/axios-vs-fetch-which-one-should-you-choose-for-your-project-mka)
+- [Broadcast Turbo Streams without Redis](https://dev.to/railsdesigner/broadcast-turbo-streams-without-redis-31i6)
+- [Avoid the busy people and focus on what-matters](https://dev.to/akotek/avoid-the-busy-people-and-focus-on-what-matters-3nio)
+- [Don&#39;t Let Cyber Risks Sink Your Business: A Survival Guide for the Digital Age 🚀](https://dev.to/enzo_dechaene/dont-let-cyber-risks-sink-your-business-a-survival-guide-for-the-digital-age-1hkg)
 <!-- BLOG-POST-LIST:END -->
 
