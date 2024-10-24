@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Virtual Machine](https://dev.to/emmanuel_essien_ed2507db6/azure-virtual-machine-36lf)
-- [Just what is courage?](https://dev.to/stacy_cash/just-what-is-courage-3cb)
-- [Why Unit Testing Matters: Embracing AI-Powered Testing for Better Code Quality](https://dev.to/paterson1720/why-unit-testing-matters-embracing-ai-powered-testing-for-better-code-quality-1i8k)
-- [How I cleaned my MacBookPro 2015 and released 50Gb of disk space](https://dev.to/oleksandr/how-i-cleaned-my-macbookpro-2015-and-released-50gb-of-disk-space-4250)
+- [Getting Started with Morph SDK and Metamask Integration](https://dev.to/azeezabidoye/getting-started-with-morph-sdk-and-metamask-integration-2m0j)
+- [The open source maintainer community is getting grayer](https://dev.to/tidelift/the-open-source-maintainer-community-is-getting-grayer-1gc2)
+- [Automatic file-based routing in Vue.js](https://dev.to/logrocket/automatic-file-based-routing-in-vuejs-5hnd)
+- [Future-Proofing Your Auth0 Integration: Moving from Rules and Hooks to Actions](https://dev.to/preethi_p_gowda/future-proofing-your-auth0-integration-moving-from-rules-and-hooks-to-actions-13ni)
 <!-- BLOG-POST-LIST:END -->
 
