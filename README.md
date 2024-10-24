@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Axios vs Fetch: Which One Should You Choose for Your Project](https://dev.to/codeparrot/axios-vs-fetch-which-one-should-you-choose-for-your-project-mka)
-- [Broadcast Turbo Streams without Redis](https://dev.to/railsdesigner/broadcast-turbo-streams-without-redis-31i6)
-- [Avoid the busy people and focus on what-matters](https://dev.to/akotek/avoid-the-busy-people-and-focus-on-what-matters-3nio)
-- [Don&#39;t Let Cyber Risks Sink Your Business: A Survival Guide for the Digital Age 🚀](https://dev.to/enzo_dechaene/dont-let-cyber-risks-sink-your-business-a-survival-guide-for-the-digital-age-1hkg)
+- [Learning the new Svelte v5 Reactivity System](https://dev.to/webjose/learning-the-new-svelte-v5-reactivity-system-13i4)
+- [Sliding subarray beauty](https://dev.to/prashantrmishra/sliding-subarray-beauty-5510)
+- [LazyVStack vs List in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/lazyvstack-vs-list-in-ios-18-30daysofswift-8fp)
+- [Git Workflow with a &quot;Lazy&quot; Alias](https://dev.to/y3asin/git-workflow-with-a-lazy-alias-3i7g)
 <!-- BLOG-POST-LIST:END -->
 
