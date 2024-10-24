@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 24 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-october-1gj4)
-- [Deploying Static React app on AWS S3 Bucket](https://dev.to/saquib_hussain_0d67ba0ead/deploying-static-react-app-on-aws-s3-bucket-gln)
-- [Real-time examples of clustered and non-clustered indexes](https://dev.to/mrcaption49/real-time-examples-of-clustered-and-non-clustered-indexes-50bd)
-- [How to Use the Google Drive Uploader Component for Vue 3 and TypeScript](https://dev.to/mabbkhawaja/how-to-use-the-google-drive-uploader-component-for-vue-3-and-typescript-61j)
+- [Azure Virtual Machine](https://dev.to/emmanuel_essien_ed2507db6/azure-virtual-machine-36lf)
+- [Just what is courage?](https://dev.to/stacy_cash/just-what-is-courage-3cb)
+- [Why Unit Testing Matters: Embracing AI-Powered Testing for Better Code Quality](https://dev.to/paterson1720/why-unit-testing-matters-embracing-ai-powered-testing-for-better-code-quality-1i8k)
+- [How I cleaned my MacBookPro 2015 and released 50Gb of disk space](https://dev.to/oleksandr/how-i-cleaned-my-macbookpro-2015-and-released-50gb-of-disk-space-4250)
 <!-- BLOG-POST-LIST:END -->
 
