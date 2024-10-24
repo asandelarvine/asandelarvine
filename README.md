@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrospectives Done Right: How to Make Your Team Meetings Actually Matter](https://dev.to/devactivity-app/retrospectives-done-right-how-to-make-your-team-meetings-actually-matter-4309)
-- [THE M.O.I.S.T Principle](https://dev.to/sprutnums/the-moist-principle-56b5)
-- [Mastering Code Review in GitHub: Common Mistakes to Avoid](https://dev.to/gocodeo/mastering-code-review-in-github-common-mistakes-to-avoid-mf5)
-- [Types of Mechanical Keyboard Switches and Their Impact](https://dev.to/mysticcoder/types-of-mechanical-keyboard-switches-and-their-impact-2hil)
+- [Khelo: From Streets to Stadiums - A Developer&#39;s Guide 🏏](https://dev.to/mayank_variya/khelo-from-streets-to-stadiums-a-developers-guide-18ka)
+- [Streaming Real-Time Data in Flutter: A Step-by-Step Guide for Developers](https://dev.to/mayank_variya/streaming-real-time-data-in-flutter-a-step-by-step-guide-for-developers-34eh)
+- [Handling Global Errors in Angular : A Simple App with Custom ErrorHandler](https://dev.to/manthanank/handling-global-errors-in-angular-a-simple-app-with-custom-errorhandler-4ak9)
+- [AI-Driven Background Removal: Streamlining Photography Workflows](https://dev.to/api4ai/ai-driven-background-removal-streamlining-photography-workflows-48en)
 <!-- BLOG-POST-LIST:END -->
 
