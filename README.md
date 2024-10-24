@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to Backend Development: Build Your First App Using Node.js and Express.js](https://dev.to/inam003/beginners-guide-to-backend-development-build-your-first-app-using-nodejs-and-expressjs-499m)
-- [Client-Side Rendering &lpar;CSR&rpar;](https://dev.to/nullref/client-side-rendering-csr-98j)
-- [Introducing Soyo: Stream On Your Own , Effortlessly 🎬🎧](https://dev.to/hikki/introducing-soyo-stream-on-your-own-effortlessly-2eh)
-- [SAST, DAST, and IAST: Approaches to Testing Application Security](https://dev.to/ekirigwe/sast-dast-and-iast-approaches-to-testing-application-security-60b)
+- [DSA: Hash Table - Expanded Questions](https://dev.to/nozibul_islam_113b1d5334f/dsa-hash-table-expanded-questions-4f84)
+- [How Javascript works?](https://dev.to/diwakar_verma_381fc6e5e2f/how-javascript-works-eea)
+- [Stripe Checkout Session for custom products](https://dev.to/daveswork/stripe-checkout-session-for-custom-products-1gld)
+- [Step-by-Step Guide to Installing PostgreSQL on Arch Linux](https://dev.to/codingashish_dev/step-by-step-guide-to-installing-postgresql-on-arch-linux-3ked)
 <!-- BLOG-POST-LIST:END -->
 
