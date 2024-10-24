@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Warning Filter in Python](https://dev.to/hyperkai/warning-filter-in-python-4g0e)
-- [What is RAG in AI? How It Combines Retrieval with Generation for Accurate Results](https://dev.to/arum_puripratamawati_ef5/what-is-rag-in-ai-how-it-combines-retrieval-with-generation-for-accurate-results-4ne9)
-- [🎉My journey of Contributing at Hacktoberfest🚀](https://dev.to/shubham_bendkhale/my-journey-of-contributing-at-hacktoberfest-1no2)
-- [🎉My journey of Contributing at Hacktoberfest🚀](https://dev.to/shubham_bendkhale/my-journey-of-contributing-at-hacktoberfest-2o2d)
+- [Essential MySQL Operators and Their Applications](https://dev.to/dbvismarketing/essential-mysql-operators-and-their-applications-2g7i)
+- [How to run Orbit by 🦊Mozilla in Chrome based browsers](https://dev.to/piterweb/how-to-run-orbit-by-mozilla-in-chrome-based-browsers-22hh)
+- [How to use JavaScript Classes in real projects](https://dev.to/midhul/how-to-use-javascript-classes-in-real-projects-i3p)
+- [JAT Task 2](https://dev.to/prabhumithran/jat-task-2-5dh5)
 <!-- BLOG-POST-LIST:END -->
 
