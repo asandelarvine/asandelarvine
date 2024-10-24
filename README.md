@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Indexes in SQL | Clustered and Non Clustered Index](https://dev.to/mrcaption49/indexes-in-sql-clustered-and-non-clustered-index-24de)
-- [Next.js 15 : Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/sonaykara/nextjs-15-incremental-static-regeneration-isr-51h4)
-- [EDD with event emitters](https://dev.to/cirlorm_io/edd-with-event-emitters-1paf)
-- [C# Clean Code: using var guide lines](https://dev.to/moh_moh701/c-clean-code-using-var-guide-lines-4hhe)
+- [Understanding Iterators in Go: A Fun Dive!](https://dev.to/tuna99/understanding-iterators-in-go-a-fun-dive-1c57)
+- [তরুণ উদ্যোক্তা এবং স্টার্টআপ: আমার কল্পনার জগতে একটি যাত্রা](https://dev.to/mahiamomo/trunn-udyoktaa-ebn-sttaarttaap-aamaar-klpnaar-jgte-ektti-yaatraa-408m)
+- [Create a Spooky Halloween-Themed Website with Our Interactive Template!](https://dev.to/arishn/create-a-spooky-halloween-themed-website-with-our-interactive-template-942)
+- [Procedure in PL/SQL | Best Explanation](https://dev.to/mrcaption49/procedure-in-plsql-best-explanation-4l96)
 <!-- BLOG-POST-LIST:END -->
 
