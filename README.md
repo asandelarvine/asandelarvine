@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VRPG day 1](https://dev.to/vctrsmelo/vrpg-day-1-968)
-- [The Secret to Fast Typing on the Game Boy: Here’s How I Did It!](https://dev.to/cleggacus/the-secret-to-fast-typing-on-the-game-boy-heres-how-i-did-it-ohh)
-- [My First Time Participating in Hacktoberfest: A Journey into Open Source](https://dev.to/abdullah-k18/my-first-time-participating-in-hacktoberfest-a-journey-into-open-source-589l)
-- [True color with an explainer on bits and bytes](https://dev.to/khenhey/true-color-with-an-explainer-on-bits-and-bytes-6ph)
+- [Tutorial: Implementing Polyfills Promise.allSettled From Scratch in JavaScript](https://dev.to/mod_khalid_3558701aa1dc44/tutorial-implementing-promiseallsettled-from-scratch-in-javascript-pj0)
+- [&quot;Rate Limiting, Simplified&quot;: My Journey with Unkey, the Open-Source API Management Platform](https://dev.to/naprila/rate-limiting-simplified-my-journey-with-unkey-the-open-source-api-management-platform-11f)
+- [Developing an Expense Tracking App: A Case Study of Pocket Planner](https://dev.to/daviekim13/developing-an-expense-tracking-app-a-case-study-of-pocket-planner-1fdn)
+- [Exposing replica nodes in Percona Operator for PostgreSQL](https://dev.to/spronin/exposing-replica-nodes-in-percona-operator-for-postgresql-1fmh)
 <!-- BLOG-POST-LIST:END -->
 
