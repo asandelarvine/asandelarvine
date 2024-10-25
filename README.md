@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Essential Problem-Solving Patterns in C++](https://dev.to/hrshihab/20-essential-problem-solving-patterns-in-c-mfb)
-- [Building Better Software: The Importance of Clean Code](https://dev.to/susheel_kumar/building-better-software-the-importance-of-clean-code-391k)
-- [Lessons from 15 Years of Software Development](https://dev.to/devot/lessons-from-15-years-of-software-development-57c6)
-- [Fix Synaptic mousepad/touchpad](https://dev.to/jrmsanden/fix-synaptic-mousepadtouchpad-1ifl)
+- [The Complete [2024] Guide to Data Structures and Algorithms](https://dev.to/bonaogeto/the-complete-2024-guide-to-data-structures-and-algorithms-118b)
+- [Access to Properties-deep dive](https://dev.to/irenejpopova/access-to-properties-4ib2)
+- [Golang RESTful API with Gin, Gorm, PostgreSQL](https://dev.to/truongpx396/golang-restful-api-with-gin-gorm-postgresql-2hc)
+- [How WordPress Hosting Elevates Your Website Design and Development](https://dev.to/wewphosting/how-wordpress-hosting-elevates-your-website-design-and-development-1i4a)
 <!-- BLOG-POST-LIST:END -->
 
