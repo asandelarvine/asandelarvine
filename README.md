@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Passwordless Facial Authentication on Websites! &lpar;FACEIO&rpar;](https://dev.to/codewithshahan/passwordless-facial-authentication-on-websites-faceio-3i1p)
-- [Running AI locally in your users&#39; browsers](https://dev.to/miguelaeh/running-ai-locally-in-your-users-browsers-2b4e)
-- [Tips to Create Project Timelines in Architecture &amp; Real Estate Development Projects](https://dev.to/thomasy0ung/tips-to-create-project-timelines-in-architecture-real-estate-development-projects-2pml)
-- [The 11 Best Open-Source Performance Testing Tools](https://dev.to/apilover/the-11-best-open-source-performance-testing-tools-3pnh)
+- [🚀 Your Daily Crypto Job Digest For 25 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-25-october-2kje)
+- [Never Forget Debounce and Throttle Again. Visualise them - Codepen included](https://dev.to/ashiqsultan/never-forget-debounce-and-throttle-again-visualise-them-codepen-included-4bi6)
+- [GitHub CLI Extension for Conventional Commits](https://dev.to/robvanderleek/github-cli-extension-for-conventional-commits-4983)
+- [Game Dev Digest — Issue #255 - Animations, Engines, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-255-animations-engines-and-more-odm)
 <!-- BLOG-POST-LIST:END -->
 
