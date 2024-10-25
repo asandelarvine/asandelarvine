@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures: Creating Custom Node Classes](https://dev.to/dhanush9952/data-structures-creating-custom-node-classes-1e8)
-- [The Importance of Code Quality: Best Practices for Developers](https://dev.to/zafaryaqoobask/the-importance-of-code-quality-best-practices-for-developers-1khj)
-- [ClassiSage: Terraform IaC Automated AWS SageMaker based HDFS Log classification Model](https://dev.to/saahen_sriyan_mishra/classisage-terraform-iac-automated-aws-sagemaker-based-hdfs-log-classification-model-4pk4)
-- [Developer Relations and the Hero’s Journey](https://dev.to/lizzzzz/developer-relations-and-the-heros-journey-42g9)
+- [Breaking Curse of Knowledge](https://dev.to/rickvian/breaking-curse-of-knowledge-af4)
+- [My Hacktoberfest 2024 Experience: Pushing Boundaries with C# 12 and .NET 8 🚀](https://dev.to/ngtduc693/my-hacktoberfest-2024-experience-pushing-boundaries-with-c-12-and-net-8-29n0)
+- [How to Create 3D System Architecture Diagrams with Nested Subscenes](https://dev.to/_2082ca7cc65434467c4fb/how-to-create-3d-system-architecture-diagrams-with-nested-subscenes-3m2b)
+- [How to Create an Animatable 3D System Architecture Diagram](https://dev.to/_2082ca7cc65434467c4fb/how-to-create-an-animatable-3d-system-architecture-diagram-3fkp)
 <!-- BLOG-POST-LIST:END -->
 
