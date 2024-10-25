@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete [2024] Guide to Data Structures and Algorithms](https://dev.to/bonaogeto/the-complete-2024-guide-to-data-structures-and-algorithms-118b)
-- [Access to Properties-deep dive](https://dev.to/irenejpopova/access-to-properties-4ib2)
-- [Golang RESTful API with Gin, Gorm, PostgreSQL](https://dev.to/truongpx396/golang-restful-api-with-gin-gorm-postgresql-2hc)
-- [How WordPress Hosting Elevates Your Website Design and Development](https://dev.to/wewphosting/how-wordpress-hosting-elevates-your-website-design-and-development-1i4a)
+- [Why are cloud device farms necessary for mobile application testing](https://dev.to/satya_prakash/why-are-cloud-device-farms-necessary-for-mobile-application-testing-co)
+- [How to Change the Default Language in Spark Mail on macOS](https://dev.to/lichieh_su_ce93b64a0eee69/how-to-change-the-default-language-in-spark-mail-on-macos-225e)
+- [Best Postman Alternative for VSCode: EchoAPI for VS Code | Free &amp; Ultra-Lightweight](https://dev.to/watson_kristin_2253fed381/best-postman-alternative-for-vscode-echoapi-for-vs-code-free-ultra-lightweight-407h)
+- [Top 5 Best Ides To Use For Python In 2024](https://dev.to/keploy/top-5-best-ides-to-use-for-python-in-2024-59e8)
 <!-- BLOG-POST-LIST:END -->
 
