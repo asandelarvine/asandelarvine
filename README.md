@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly GitHub Project: NewsNow - Elegantly Reading Real-Time Trending News](https://dev.to/orange_cherry_/weekly-github-project-newsnow-elegantly-reading-real-time-trending-news-46en)
-- [Which is Harder, Being a Front End or A Backend Software Developer](https://dev.to/citracitoru/which-is-hader-being-a-front-end-or-a-backend-software-developer-5fi9)
-- [Home](https://dev.to/jaxonwest/home-37lg)
-- [Agente de IA confiável em prod com Java + Quarkus + Langchain4j - Parte 1 - AI as Service](https://dev.to/herbertbeckman/agente-de-ia-confiavel-em-prod-com-java-quarkus-langchain4j-parte-1-ai-as-service-4i14)
+- [merge workbooks into one workbook](https://dev.to/kanishk_singhmaurya_853f/merge-workbooks-into-one-workbook-14da)
+- [Golang básico - Comparação de Igualdade](https://dev.to/bgskurono/golang-basico-comparacao-de-igualdade-3flk)
+- [Illuminate Collections vs. PHP Arrays](https://dev.to/halexmorph/illuminate-collections-vs-php-arrays-23pj)
+- [Advanced SQL interview questions](https://dev.to/mrcaption49/advanced-sql-interview-questions-1icn)
 <!-- BLOG-POST-LIST:END -->
 
