@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 25 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-25-october-2kje)
-- [Never Forget Debounce and Throttle Again. Visualise them - Codepen included](https://dev.to/ashiqsultan/never-forget-debounce-and-throttle-again-visualise-them-codepen-included-4bi6)
-- [GitHub CLI Extension for Conventional Commits](https://dev.to/robvanderleek/github-cli-extension-for-conventional-commits-4983)
-- [Game Dev Digest — Issue #255 - Animations, Engines, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-255-animations-engines-and-more-odm)
+- [Building XPromise: A Deep Dive into Custom JavaScript Promises](https://dev.to/ravikishan/building-xpromise-a-deep-dive-into-custom-javascript-promises-3d17)
+- [6 Skills Every Frontend Developer Should Master](https://dev.to/zain725342/6-skills-every-frontend-developer-should-master-2e19)
+- [PIE: Simulating a PID Controller in Python](https://dev.to/klarity/pie-simulating-a-pid-controller-in-python-4eip)
+- [Deploying NestJS Application using Vercel and Supabase](https://dev.to/abayomijohn273/deploying-nestjs-application-using-vercel-and-supabase-3n7m)
 <!-- BLOG-POST-LIST:END -->
 
