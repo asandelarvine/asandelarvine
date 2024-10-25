@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 276 - Untested Regular Expressions](https://dev.to/mcsee/code-smell-276-untested-regular-expressions-4oai)
-- [Prompt Engineering &lpar;For Lazy Programmers&rpar;: Getting Exactly the Code You Want &lpar;and Even More, Out of ChatGPT&rpar;](https://dev.to/jamesbright/prompt-engineering-for-lazy-programmers-getting-exactly-the-code-you-want-and-even-more-out-of-chatgpt-3plf)
-- [How to Route Multiple Paystack Webhooks with one Webhook URL](https://dev.to/devlawrence/how-to-route-multiple-paystack-webhooks-with-one-webhook-url-1d2m)
-- [I created a video tutorial on how to make a responsive sidebar using CSS and vanilla Javascript](https://dev.to/laustke/i-created-a-video-tutorial-on-how-to-make-a-responsive-sidebar-using-css-and-vanilla-javascript-3ofi)
+- [Data Structures: Creating Custom Node Classes](https://dev.to/dhanush9952/data-structures-creating-custom-node-classes-1e8)
+- [The Importance of Code Quality: Best Practices for Developers](https://dev.to/zafaryaqoobask/the-importance-of-code-quality-best-practices-for-developers-1khj)
+- [ClassiSage: Terraform IaC Automated AWS SageMaker based HDFS Log classification Model](https://dev.to/saahen_sriyan_mishra/classisage-terraform-iac-automated-aws-sagemaker-based-hdfs-log-classification-model-4pk4)
+- [Developer Relations and the Hero’s Journey](https://dev.to/lizzzzz/developer-relations-and-the-heros-journey-42g9)
 <!-- BLOG-POST-LIST:END -->
 
