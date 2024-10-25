@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Shift Testing Left Part 2: QA Does More After Devs Run Tests](https://dev.to/signadot/why-shift-testing-left-part-2-qa-does-more-after-devs-run-tests-573i)
-- [WebP vs JPG: Understanding the Differences and When to Use Each Format](https://dev.to/smartdev72/webp-vs-jpg-understanding-the-differences-and-when-to-use-each-format-1e9i)
-- [Translate &amp; Guess: Build a Flag Quiz with Expo and Tolgee](https://dev.to/vaishali785/translate-guess-build-a-flag-quiz-with-expo-and-tolgee-4cah)
-- [JPG to WebP: Which Format is Better for Your Website?](https://dev.to/smartdev72/jpg-to-webp-which-format-is-better-for-your-website-djd)
+- [Security news weekly round-up - 25th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-25th-october-2024-3me8)
+- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-23mb)
+- [Understanding and Resolving npm Dependency Conflicts: A Developer&#39;s Guide](https://dev.to/gentritbiba/understanding-and-resolving-npm-dependency-conflicts-a-developers-guide-3c33)
+- [Delving into Gaussian Integers: Cracking Project Euler Problem 153](https://dev.to/gentritbiba/delving-into-gaussian-integers-cracking-project-euler-problem-153-4hcl)
 <!-- BLOG-POST-LIST:END -->
 
