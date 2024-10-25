@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use TL431 to detect battery voltage by the ADC without reference input](https://dev.to/zhangzhuyue/use-tl431-to-detect-battery-voltage-by-the-adc-without-reference-input-130o)
-- [#Hacktoberfest2024##](https://dev.to/balram_roy_1664bfa3ffbc44/hacktoberfest2024-b0d)
-- [Impostor Syndrome Doesn’t Define You, Dev](https://dev.to/quave/impostor-syndrome-doesnt-define-you-dev-27c5)
-- [Protecting Routes in Next.js with Unkey: A Personal Experience](https://dev.to/istaprasad_patra_db896155/protecting-routes-in-nextjs-with-unkey-a-personal-experience-3b9o)
+- [Finding the Right Job &lpar;OTB Ep 1: Jennifer Rorex&rpar;](https://dev.to/codemouse92/finding-the-right-job-otb-ep-1-jennifer-rorex-35eh)
+- [Second highest salary in Oracle SQL](https://dev.to/mrcaption49/second-highest-salary-in-oracle-sql-4781)
+- [How Pipe Syntax Fix SQL Design Problems](https://dev.to/mohamed_el_laithy/how-pipe-syntax-fix-significant-design-problems-in-sql-47g8)
+- [Top Interview questions for DevOps Part-4](https://dev.to/i_am_vesh/top-interview-questions-for-devops-part-4-3ieg)
 <!-- BLOG-POST-LIST:END -->
 
