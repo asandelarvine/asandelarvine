@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Curse of Knowledge](https://dev.to/rickvian/breaking-curse-of-knowledge-af4)
-- [My Hacktoberfest 2024 Experience: Pushing Boundaries with C# 12 and .NET 8 🚀](https://dev.to/ngtduc693/my-hacktoberfest-2024-experience-pushing-boundaries-with-c-12-and-net-8-29n0)
-- [How to Create 3D System Architecture Diagrams with Nested Subscenes](https://dev.to/_2082ca7cc65434467c4fb/how-to-create-3d-system-architecture-diagrams-with-nested-subscenes-3m2b)
-- [How to Create an Animatable 3D System Architecture Diagram](https://dev.to/_2082ca7cc65434467c4fb/how-to-create-an-animatable-3d-system-architecture-diagram-3fkp)
+- [Event-Driven Microservices with Spring Boot and Kafka](https://dev.to/virajlakshitha/event-driven-microservices-with-spring-boot-and-kafka-544l)
+- [Copy The Other Rows in a Text File the Times Which Is the Number in the Last Row #eg65](https://dev.to/esproc_spl/copy-the-other-rows-in-a-text-file-the-times-which-is-the-number-in-the-last-row-eg65-4hf0)
+- [Harness the Power of Microsoft Clarity – Invaluable Insights](https://dev.to/winsides/harness-the-power-of-microsoft-clarity-invaluable-insights-3noo)
+- [Diving into Open Source Part 3](https://dev.to/ajogseneca/diving-into-open-source-part-3-nl9)
 <!-- BLOG-POST-LIST:END -->
 
