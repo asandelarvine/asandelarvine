@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 30 JavaScript Tricks Every Developer Should Know](https://dev.to/shafayeat/top-30-javascript-tricks-every-developer-should-know-3iec)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
-- [Started Out Writing About Algorithms - Somehow Ended Up Writing Something Totally Different](https://dev.to/geauxweisbeck4/started-out-writing-about-algorithms-somehow-ended-up-writing-something-totally-different-2p9c)
-- [Mohammad S A A Alothman Explains How Powerful Artificial Intelligence Is](https://dev.to/schoolies_thailand_950c08/mohammad-s-a-a-alothman-explains-how-powerful-artificial-intelligence-is-1f8d)
+- [Unlock the Power of GitHub: Boost Your Resume and Career!](https://dev.to/creds/unlock-the-power-of-github-boost-your-resume-and-career-4jej)
+- [How a Time Clock App With GPS Can Boost Workforce Productivity?](https://dev.to/anurag_bhagsain_908641e9d/how-a-time-clock-app-with-gps-can-boost-workforce-productivity-2fo)
+- [How to write dirty code](https://dev.to/sprutnums/how-to-write-dirty-code-mpm)
+- [IN | OUT | IN/OUT parameters in Oracle SQL](https://dev.to/mrcaption49/in-out-inout-parameters-in-oracle-sql-e6h)
 <!-- BLOG-POST-LIST:END -->
 
