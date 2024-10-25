@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧹 The Art of Writing Clean Code: Why It Matters and How to Do It](https://dev.to/hadil/the-art-of-writing-clean-code-why-it-matters-and-how-to-do-it-6ll)
-- [Agile Development Retrospectives: Don&#39;t Just Reflect, Reimagine](https://dev.to/devactivity-app/agile-development-retrospectives-dont-just-reflect-reimagine-2ba3)
-- [AWS open source newsletter, #204](https://dev.to/aws/aws-open-source-newsletter-204-4pgg)
-- [How To Create a Parallax Movie Pager In Jetpack Compose](https://dev.to/canopassoftware/how-to-create-a-parallax-movie-pager-in-jetpack-compose-2pb3)
+- [Mastering a New Programming Language: The Ultimate Guide to Consistent Learning and Real-World Growth.](https://dev.to/navneet_verma/mastering-a-new-programming-language-the-ultimate-guide-to-consistent-learning-and-real-world-growth-5co0)
+- [Understanding CSS Sibling Selectors: A Beginner’s Guide](https://dev.to/vincentchosen/understanding-css-sibling-selectors-a-beginners-guide-3al)
+- [SEO from a Newbie for Beginners](https://dev.to/asodev/seo-from-a-newbie-for-beginners-bc6)
+- [✨8 Powerful Open-Source tools for Creating Accessible Web Apps ✨](https://dev.to/tolgee_i18n/8-powerful-open-source-tools-for-creating-accessible-web-apps-ig3)
 <!-- BLOG-POST-LIST:END -->
 
