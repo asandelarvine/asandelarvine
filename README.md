@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the Right Job &lpar;OTB Ep 1: Jennifer Rorex&rpar;](https://dev.to/codemouse92/finding-the-right-job-otb-ep-1-jennifer-rorex-35eh)
-- [Second highest salary in Oracle SQL](https://dev.to/mrcaption49/second-highest-salary-in-oracle-sql-4781)
-- [How Pipe Syntax Fix SQL Design Problems](https://dev.to/mohamed_el_laithy/how-pipe-syntax-fix-significant-design-problems-in-sql-47g8)
-- [Top Interview questions for DevOps Part-4](https://dev.to/i_am_vesh/top-interview-questions-for-devops-part-4-3ieg)
+- [Milvus Adventures October 25, 2024](https://dev.to/chrischurilo/milvus-adventures-october-25-2024-58kd)
+- [Static Keyword: Overloading, Overriding, and the Role of this and super](https://dev.to/arshisaxena26/static-keyword-overloading-overriding-and-the-role-of-this-and-super-3l8k)
+- [How to take string input in c](https://dev.to/mujahida_joynab_64c7407d8/how-to-take-string-input-in-c-29ba)
+- [Learn AWS DevOps from Zero: A Complete Beginner’s Guide](https://dev.to/prodevopsguytech/learn-aws-devops-from-zero-a-complete-beginners-guide-1gl2)
 <!-- BLOG-POST-LIST:END -->
 
