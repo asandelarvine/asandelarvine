@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [merge workbooks into one workbook](https://dev.to/kanishk_singhmaurya_853f/merge-workbooks-into-one-workbook-14da)
-- [Golang básico - Comparação de Igualdade](https://dev.to/bgskurono/golang-basico-comparacao-de-igualdade-3flk)
-- [Illuminate Collections vs. PHP Arrays](https://dev.to/halexmorph/illuminate-collections-vs-php-arrays-23pj)
-- [Advanced SQL interview questions](https://dev.to/mrcaption49/advanced-sql-interview-questions-1icn)
+- [DUCK &lpar;file structure&rpar; YOU!](https://dev.to/brandonc/duck-file-structure-you-pn1)
+- [The core architectural components of Azure](https://dev.to/folatech1/the-core-architectural-components-of-azure-5bh3)
+- [rollup-plugin-analyzer usage in trpc scripts](https://dev.to/thinkthroo/rollup-plugin-analyzer-usage-in-trpc-scripts-cjd)
+- [I&#39;m from Non IT Background,Going to start my career with Website Designing and Development. Right now I&#39;m learning HTML](https://dev.to/niladri_sen_21500869739d3/im-from-non-it-backgroundgoing-to-start-my-career-with-website-designing-and-development-right-now-im-learning-html-4chd)
 <!-- BLOG-POST-LIST:END -->
 
