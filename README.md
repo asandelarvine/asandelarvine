@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are cloud device farms necessary for mobile application testing](https://dev.to/satya_prakash/why-are-cloud-device-farms-necessary-for-mobile-application-testing-co)
-- [How to Change the Default Language in Spark Mail on macOS](https://dev.to/lichieh_su_ce93b64a0eee69/how-to-change-the-default-language-in-spark-mail-on-macos-225e)
-- [Best Postman Alternative for VSCode: EchoAPI for VS Code | Free &amp; Ultra-Lightweight](https://dev.to/watson_kristin_2253fed381/best-postman-alternative-for-vscode-echoapi-for-vs-code-free-ultra-lightweight-407h)
-- [Top 5 Best Ides To Use For Python In 2024](https://dev.to/keploy/top-5-best-ides-to-use-for-python-in-2024-59e8)
+- [🧹 The Art of Writing Clean Code: Why It Matters and How to Do It](https://dev.to/hadil/the-art-of-writing-clean-code-why-it-matters-and-how-to-do-it-6ll)
+- [Agile Development Retrospectives: Don&#39;t Just Reflect, Reimagine](https://dev.to/devactivity-app/agile-development-retrospectives-dont-just-reflect-reimagine-2ba3)
+- [AWS open source newsletter, #204](https://dev.to/aws/aws-open-source-newsletter-204-4pgg)
+- [How To Create a Parallax Movie Pager In Jetpack Compose](https://dev.to/canopassoftware/how-to-create-a-parallax-movie-pager-in-jetpack-compose-2pb3)
 <!-- BLOG-POST-LIST:END -->
 
