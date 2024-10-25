@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Milvus Adventures October 25, 2024](https://dev.to/chrischurilo/milvus-adventures-october-25-2024-58kd)
-- [Static Keyword: Overloading, Overriding, and the Role of this and super](https://dev.to/arshisaxena26/static-keyword-overloading-overriding-and-the-role-of-this-and-super-3l8k)
-- [How to take string input in c](https://dev.to/mujahida_joynab_64c7407d8/how-to-take-string-input-in-c-29ba)
-- [Learn AWS DevOps from Zero: A Complete Beginner’s Guide](https://dev.to/prodevopsguytech/learn-aws-devops-from-zero-a-complete-beginners-guide-1gl2)
+- [Enhancing NextJS Projects with Mantine UI: A Seamless Experience in TypeScript](https://dev.to/undolog/enhancing-nextjs-projects-with-mantine-ui-a-seamless-experience-in-typescript-1kg3)
+- [Testing Plugins Before Activating on a WordPress Site: Why and How?](https://dev.to/shabbir_mw_03f56129cd25/testing-plugins-before-activating-on-a-wordpress-site-why-and-how-4k4e)
+- [Embracing Rabbit Holes: The Hidden Power of Creativity in Competitive Intelligence](https://dev.to/graeme_d_d57e7aea807e4532/embracing-rabbit-holes-the-hidden-power-of-creativity-in-competitive-intelligence-25io)
+- [Open Canvas Vs ChastGPT Canvas](https://dev.to/dev007777/open-canvas-vs-chastgpt-canvas-1c2f)
 <!-- BLOG-POST-LIST:END -->
 
