@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing NextJS Projects with Mantine UI: A Seamless Experience in TypeScript](https://dev.to/undolog/enhancing-nextjs-projects-with-mantine-ui-a-seamless-experience-in-typescript-1kg3)
-- [Testing Plugins Before Activating on a WordPress Site: Why and How?](https://dev.to/shabbir_mw_03f56129cd25/testing-plugins-before-activating-on-a-wordpress-site-why-and-how-4k4e)
-- [Embracing Rabbit Holes: The Hidden Power of Creativity in Competitive Intelligence](https://dev.to/graeme_d_d57e7aea807e4532/embracing-rabbit-holes-the-hidden-power-of-creativity-in-competitive-intelligence-25io)
-- [Open Canvas Vs ChastGPT Canvas](https://dev.to/dev007777/open-canvas-vs-chastgpt-canvas-1c2f)
+- [Weekly GitHub Project: NewsNow - Elegantly Reading Real-Time Trending News](https://dev.to/orange_cherry_/weekly-github-project-newsnow-elegantly-reading-real-time-trending-news-46en)
+- [Which is Harder, Being a Front End or A Backend Software Developer](https://dev.to/citracitoru/which-is-hader-being-a-front-end-or-a-backend-software-developer-5fi9)
+- [Home](https://dev.to/jaxonwest/home-37lg)
+- [Agente de IA confiável em prod com Java + Quarkus + Langchain4j - Parte 1 - AI as Service](https://dev.to/herbertbeckman/agente-de-ia-confiavel-em-prod-com-java-quarkus-langchain4j-parte-1-ai-as-service-4i14)
 <!-- BLOG-POST-LIST:END -->
 
