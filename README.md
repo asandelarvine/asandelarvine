@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Microservices with Spring Boot and Kafka](https://dev.to/virajlakshitha/event-driven-microservices-with-spring-boot-and-kafka-544l)
-- [Copy The Other Rows in a Text File the Times Which Is the Number in the Last Row #eg65](https://dev.to/esproc_spl/copy-the-other-rows-in-a-text-file-the-times-which-is-the-number-in-the-last-row-eg65-4hf0)
-- [Harness the Power of Microsoft Clarity – Invaluable Insights](https://dev.to/winsides/harness-the-power-of-microsoft-clarity-invaluable-insights-3noo)
-- [Diving into Open Source Part 3](https://dev.to/ajogseneca/diving-into-open-source-part-3-nl9)
+- [Top 30 JavaScript Tricks Every Developer Should Know](https://dev.to/shafayeat/top-30-javascript-tricks-every-developer-should-know-3iec)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
+- [Started Out Writing About Algorithms - Somehow Ended Up Writing Something Totally Different](https://dev.to/geauxweisbeck4/started-out-writing-about-algorithms-somehow-ended-up-writing-something-totally-different-2p9c)
+- [Mohammad S A A Alothman Explains How Powerful Artificial Intelligence Is](https://dev.to/schoolies_thailand_950c08/mohammad-s-a-a-alothman-explains-how-powerful-artificial-intelligence-is-1f8d)
 <!-- BLOG-POST-LIST:END -->
 
