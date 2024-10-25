@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DUCK &lpar;file structure&rpar; YOU!](https://dev.to/brandonc/duck-file-structure-you-pn1)
-- [The core architectural components of Azure](https://dev.to/folatech1/the-core-architectural-components-of-azure-5bh3)
-- [rollup-plugin-analyzer usage in trpc scripts](https://dev.to/thinkthroo/rollup-plugin-analyzer-usage-in-trpc-scripts-cjd)
-- [I&#39;m from Non IT Background,Going to start my career with Website Designing and Development. Right now I&#39;m learning HTML](https://dev.to/niladri_sen_21500869739d3/im-from-non-it-backgroundgoing-to-start-my-career-with-website-designing-and-development-right-now-im-learning-html-4chd)
+- [Why Shift Testing Left Part 2: QA Does More After Devs Run Tests](https://dev.to/signadot/why-shift-testing-left-part-2-qa-does-more-after-devs-run-tests-573i)
+- [WebP vs JPG: Understanding the Differences and When to Use Each Format](https://dev.to/smartdev72/webp-vs-jpg-understanding-the-differences-and-when-to-use-each-format-1e9i)
+- [Translate &amp; Guess: Build a Flag Quiz with Expo and Tolgee](https://dev.to/vaishali785/translate-guess-build-a-flag-quiz-with-expo-and-tolgee-4cah)
+- [JPG to WebP: Which Format is Better for Your Website?](https://dev.to/smartdev72/jpg-to-webp-which-format-is-better-for-your-website-djd)
 <!-- BLOG-POST-LIST:END -->
 
