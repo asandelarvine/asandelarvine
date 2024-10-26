@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Js Part 3 : Event Handling and Form Management](https://dev.to/kyydev/react-js-part-3-event-handling-and-form-management-4ggd)
+- [Manojkumar Chandrasekar](https://dev.to/manojkumar-chandrase/manojkumar-chandrasekar-5ffc)
+- [Building a Web Task Manager Without SQL: A Frontend-First Approach](https://dev.to/jesus_delgado_28a06d768dc/building-a-web-task-manager-without-sql-a-frontend-first-approach-2abb)
 - [Understanding useCallback in Reactjs](https://dev.to/muthuraja_r/understanding-usecallback-in-reactjs-2j6c)
-- [SPO Week 4.1 - CPUs](https://dev.to/krinskumar/spo-week-41-cpus-327e)
-- [Do We Really Need Use Cases in Mobile Apps?](https://dev.to/1noshishi/do-we-really-need-use-cases-in-mobile-apps-20k9)
-- [Mastering NumPy: The Ultimate Guide for Efficient Numerical Computing in Python](https://dev.to/tinapyp/mastering-numpy-the-ultimate-guide-for-efficient-numerical-computing-in-python-3ld9)
 <!-- BLOG-POST-LIST:END -->
 
