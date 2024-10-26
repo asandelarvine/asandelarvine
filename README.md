@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3rd pull request -Hacktoberfest](https://dev.to/aldrin312/3rd-pull-request-hacktoberfest-5cm6)
-- [Navigating Dependency Complexity: Effective Strategies for Software Engineers](https://dev.to/adityabhuyan/navigating-dependency-complexity-effective-strategies-for-software-engineers-28ba)
-- [Enhancing Embedded Systems Software with Functional Programming Principles](https://dev.to/adityabhuyan/enhancing-embedded-systems-software-with-functional-programming-principles-jjl)
-- [Why We Migrated Our WordPress Site from Hostinger to AWS LightSail](https://dev.to/shu12388y/why-we-migrated-our-wordpress-site-from-hostinger-to-aws-lightsail-4pdl)
+- [Embed Short Videos in your Dev Posts &lpar;Simple Guide&rpar;](https://dev.to/gregharis/embed-short-videos-in-your-dev-posts-simple-guide-11bl)
+- [4 Steps To Integrate APIs in Vanilla JavaScript](https://dev.to/bonaogeto/4-steps-to-integrate-apis-in-vanilla-javascript-130l)
+- [Sherlock Holmes and The Case of the App Not Found](https://dev.to/programmerraja/sherlock-holmes-and-the-case-of-the-app-not-found-29bl)
+- [React native or Flutter ?](https://dev.to/davidwilliam_/react-native-or-flutter--566a)
 <!-- BLOG-POST-LIST:END -->
 
