@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why and How to Migrate from Notion to Logseq: A Practical Guide](https://dev.to/airabbit/why-and-how-to-migrate-from-notion-to-logseq-a-practical-guide-4446)
-- [Say goodbye to Notion and hello to Obsidian: A comprehensive guide](https://dev.to/airabbit/why-and-how-to-migrate-from-notion-to-obsidian-a-comprehensive-guide-4fd2)
-- [64-bit Assembly Programming: AArch64](https://dev.to/arilloid/64-bit-assembly-programming-aarch64-4ng7)
-- [Training a Convolutional Neural Network on the CIFAR-10 Dataset](https://dev.to/samder/training-a-convolutional-neural-network-on-the-cifar-10-dataset-1mdm)
+- [Contribute Here for Hacktoberfest 2024 as it comes to an end](https://dev.to/sjxsubham/contribute-here-for-hacktoberfest-2024-as-it-comes-to-an-end-2dce)
+- [Why project guides matter to developers](https://dev.to/rose_michelle/why-project-guides-matter-to-developers-1di3)
+- [Transitioning from Apple Notes to Notion: My Journey to a More Organized Workspace](https://dev.to/airabbit/transitioning-from-apple-notes-to-notion-my-journey-to-a-more-organized-workspace-48ea)
+- [🔍 Curiosity as a Career Catalyst: Why Lifelong Learning is Essential in Today’s Job Market 📚🚀](https://dev.to/tanishq_s09/curiosity-as-a-career-catalyst-why-lifelong-learning-is-essential-in-todays-job-market-1d9n)
 <!-- BLOG-POST-LIST:END -->
 
