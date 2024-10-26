@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Astro’s New Actions are the Upgrade React 19 Devs Have Been Waiting For](https://dev.to/ryanmabrouk/why-astros-new-actions-are-the-upgrade-react-19-devs-have-been-waiting-for-c25)
-- [Hacktoberfest! - Week 3](https://dev.to/theoforger/hacktoberfest-week-3-4ild)
-- [PHP Design Pattern: Adapter](https://dev.to/xxzeroxx/php-design-pattern-adapter-3hi1)
-- [Just say it: &quot;I don&#39;t know&quot;](https://dev.to/gabrieltoma/just-say-it-i-dont-know-16pp)
+- [SVG vs AVIF](https://dev.to/smartdev72/svg-vs-avif-145p)
+- [AI tool for each phase of your research journey!](https://dev.to/gracerosen/ai-tool-for-each-phase-of-your-research-journey-2ldh)
+- [Advanced State Management in React](https://dev.to/joaoalissonsilva/advanced-state-management-in-react-5b01)
+- [Setting Up a Private Storage account for a Company](https://dev.to/oluoma_stella/setting-up-a-private-storage-account-for-a-company-2e9d)
 <!-- BLOG-POST-LIST:END -->
 
