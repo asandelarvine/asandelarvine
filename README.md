@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools I Actually Pay For To Start Businesses](https://dev.to/akdevelop/tools-i-pay-for-to-start-every-businesses-2923)
-- [The one sentence that finally made React server components click for me](https://dev.to/tymzap/the-one-sentence-that-made-react-server-components-click-for-me-3f88)
-- [Some new features CSS in 2024](https://dev.to/sonaykara/some-new-features-css-in-2024-5hio)
-- [Creating an Instance on AWS using Ubuntu - AWS Tutorial](https://dev.to/abidemi/creating-an-instance-on-aws-using-ubuntu-aws-tutorial-4k1m)
+- [Why Astro’s New Actions are the Upgrade React 19 Devs Have Been Waiting For](https://dev.to/ryanmabrouk/why-astros-new-actions-are-the-upgrade-react-19-devs-have-been-waiting-for-c25)
+- [Hacktoberfest! - Week 3](https://dev.to/theoforger/hacktoberfest-week-3-4ild)
+- [PHP Design Pattern: Adapter](https://dev.to/xxzeroxx/php-design-pattern-adapter-3hi1)
+- [Just say it: &quot;I don&#39;t know&quot;](https://dev.to/gabrieltoma/just-say-it-i-dont-know-16pp)
 <!-- BLOG-POST-LIST:END -->
 
