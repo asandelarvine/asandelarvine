@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI: The Future of Housing, from Smart Homes to Smart Cities](https://dev.to/chidoziemanagwu/ai-the-future-of-housing-from-smart-homes-to-smart-cities-1hb6)
-- [SVG to JPG: Choosing the Right Format for Your Images](https://dev.to/smartdev72/svg-to-jpg-choosing-the-right-format-for-your-images-1khn)
-- [Configuring OpenWRT DDNS for freedns.afraid.org](https://dev.to/hubschrauber/configuring-openwrt-ddns-for-freednsafraidorg-4caa)
-- [Identifying the Problem](https://dev.to/steaks_96/identifying-the-problem-37na)
+- [Why and How to Migrate from Notion to Logseq: A Practical Guide](https://dev.to/airabbit/why-and-how-to-migrate-from-notion-to-logseq-a-practical-guide-4446)
+- [Say goodbye to Notion and hello to Obsidian: A comprehensive guide](https://dev.to/airabbit/why-and-how-to-migrate-from-notion-to-obsidian-a-comprehensive-guide-4fd2)
+- [64-bit Assembly Programming: AArch64](https://dev.to/arilloid/64-bit-assembly-programming-aarch64-4ng7)
+- [Training a Convolutional Neural Network on the CIFAR-10 Dataset](https://dev.to/samder/training-a-convolutional-neural-network-on-the-cifar-10-dataset-1mdm)
 <!-- BLOG-POST-LIST:END -->
 
