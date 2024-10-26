@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#Creating an Application with Firestore: A NoSQL Alternative from Google](https://dev.to/ronal_daniellupacamaman/creating-an-application-with-firestore-a-nosql-alternative-from-google-b48)
-- [Lightning-Fast Development with Zed and Dev Containers](https://dev.to/ale_annini/lightning-fast-development-with-zed-and-dev-containers-1nbd)
-- [Continuous delivery could save your time and sanity. And I can prove...](https://dev.to/ferreira_eduardo_95/continuous-delivery-could-save-your-time-and-sanity-and-i-can-prove-3mfg)
-- [New Wi-Fi IO module using an advanced Wi-Fi module for AGV integration](https://dev.to/zhangzhuyue/new-wi-fi-io-module-using-an-advanced-wi-fi-module-integrating-with-agv-1m5j)
+- [13/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/13365-days-y10m-japan-job-challenge-4m2o)
+- [&lt;Iomanop&gt; kutubxonasi](https://dev.to/madina1575/kutubxonasi-mam)
+- [Enable Windows Media Player in Windows 11](https://dev.to/winsides/enable-windows-media-player-in-windows-11-1ic4)
+- [Fully Typed, Easy React Context API Example](https://dev.to/noriller/fully-typed-easy-react-context-api-example-4ne5)
 <!-- BLOG-POST-LIST:END -->
 
