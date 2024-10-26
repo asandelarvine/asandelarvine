@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The .io domain might be in trouble](https://dev.to/talepunk/the-io-domain-might-be-in-trouble-21o8)
-- [Hacktoberfest 2024 - Part 4](https://dev.to/cleobnvntra/hacktoberfest-2024-part-4-887)
-- [Exploring the Exciting Possibilities of NVIDIA Megatron LM: A Fun and Friendly Code Walkthrough with PyTorch &amp; NVIDIA Apex!](https://dev.to/hassan_sherwani_9dd766c43/exploring-the-exciting-possibilities-of-nvidia-megatron-lm-a-fun-and-friendly-code-walkthrough-with-pytorch-nvidia-apex-n3d)
-- [#? List vs Tuples in python](https://dev.to/yassinesallami/-list-vs-tuples-in-python-2m3n)
+- [Understanding useCallback in Reactjs](https://dev.to/muthuraja_r/understanding-usecallback-in-reactjs-2j6c)
+- [SPO Week 4.1 - CPUs](https://dev.to/krinskumar/spo-week-41-cpus-327e)
+- [Do We Really Need Use Cases in Mobile Apps?](https://dev.to/1noshishi/do-we-really-need-use-cases-in-mobile-apps-20k9)
+- [Mastering NumPy: The Ultimate Guide for Efficient Numerical Computing in Python](https://dev.to/tinapyp/mastering-numpy-the-ultimate-guide-for-efficient-numerical-computing-in-python-3ld9)
 <!-- BLOG-POST-LIST:END -->
 
