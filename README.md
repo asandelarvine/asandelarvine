@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PNG vs JXL](https://dev.to/smartdev72/png-vs-jxl-235d)
-- [Automating Code Quality: Git Hooks, Husky, and Lint-Staged for Streamlined Linting &amp; Formatting](https://dev.to/hkp22/automating-code-quality-git-hooks-husky-and-lint-staged-for-streamlined-linting-formatting-5ep4)
-- [Unlock the Power of C: Dive into Parallel Computing, Redis, and More](https://dev.to/getvm/unlock-the-power-of-c-dive-into-parallel-computing-redis-and-more-4gcf)
-- [Understanding var and let in JavaScript: When and Why to Use Each for Cleaner Code](https://dev.to/vimuth7/understanding-var-and-let-in-javascript-when-and-why-to-use-each-for-cleaner-code-2hjb)
+- [宝塔安装的nextcloud开启伪静态（Nginx）](https://dev.to/www/bao-ta-an-zhuang-de-nextcloudkai-qi-wei-jing-tai-nginx-526i)
+- [Introducing Sharon Rose Gem: A Platform for Gem Enthusiasts Built on WIX](https://dev.to/kudos2shef/introducing-sharon-rose-gem-a-platform-for-gem-enthusiasts-built-on-wix-38eb)
+- [HEIC to JPG: Which Image Format Is Right for You?](https://dev.to/smartdev72/heic-to-jpg-which-image-format-is-right-for-you-cna)
+- [🌈 CSS Animations: A Beginner’s Guide to Adding Motion to Your Website 🌈](https://dev.to/anticoder03/css-animations-a-beginners-guide-to-adding-motion-to-your-website-276g)
 <!-- BLOG-POST-LIST:END -->
 
