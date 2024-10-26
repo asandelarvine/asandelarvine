@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# System.Text.Json JsonConverter masking](https://dev.to/karenpayneoregon/c-systemtextjson-jsonconverter-masking-4blg)
-- [Exploring the Architecture of ChatGPT-01-Preview: How ML and DL Techniques Build a Reasoning AI Model](https://dev.to/agustin_bereciartua/exploring-the-architecture-of-chatgpt-01-preview-how-ml-and-dl-techniques-build-a-reasoning-ai-model-3fok)
-- [Supercharge Your Node.js Monitoring with OpenTelemetry, Prometheus, and Grafana](https://dev.to/gleidsonleite/supercharge-your-nodejs-monitoring-with-opentelemetry-prometheus-and-grafana-4mhd)
-- [TikTok Live Streaming Feature: Technical Details and Architecture](https://dev.to/conquerym/tiktok-live-streaming-feature-technical-details-and-architecture-1n0j)
+- [Build a Professional Email Service: Gmail OAuth2 + Express + Webhooks](https://dev.to/yashrajxdev/build-a-professional-email-service-gmail-oauth2-express-webhooks-2gp8)
+- [HEIC vs WebP](https://dev.to/smartdev72/heic-vs-webp-4ohd)
+- [Save Hours of Coding: Build Powerful Custom Hooks in React](https://dev.to/shehzadhussain/save-hours-of-coding-build-powerful-custom-hooks-in-react-89b)
+- [HEIC vs GIF](https://dev.to/smartdev72/heic-vs-gif-an7)
 <!-- BLOG-POST-LIST:END -->
 
