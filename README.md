@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embed Short Videos in your Dev Posts &lpar;Simple Guide&rpar;](https://dev.to/gregharis/embed-short-videos-in-your-dev-posts-simple-guide-11bl)
-- [4 Steps To Integrate APIs in Vanilla JavaScript](https://dev.to/bonaogeto/4-steps-to-integrate-apis-in-vanilla-javascript-130l)
-- [Sherlock Holmes and The Case of the App Not Found](https://dev.to/programmerraja/sherlock-holmes-and-the-case-of-the-app-not-found-29bl)
-- [React native or Flutter ?](https://dev.to/davidwilliam_/react-native-or-flutter--566a)
+- [Comparing LINQ with Other Data Querying Techniques](https://dev.to/ferhatacar/comparing-linq-with-other-data-querying-techniques-34fn)
+- [Create a Simple Authentication System for your Next Application with Clerk](https://dev.to/drprime01/create-a-simple-authentication-system-for-your-next-application-with-clerk-4g75)
+- [Updating SharePoint items without modifying System columns](https://dev.to/fernandaek/updating-sharepoint-items-without-modifying-system-columns-309i)
+- [Testing](https://dev.to/sukhrobabdullaev/testing-2kc9)
 <!-- BLOG-POST-LIST:END -->
 
