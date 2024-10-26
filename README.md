@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Guessing? Unlock the Secrets of Your GitHub Stats with devActivity](https://dev.to/devactivity-app/tired-of-guessing-unlock-the-secrets-of-your-github-stats-with-devactivity-24ib)
-- [Freeware: Java Utility Package &lpar;Version 2024.10.26&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20241026-released-2791)
-- [The Benefits of Using A CDN](https://dev.to/pmbanugo/the-benefits-of-using-a-cdn-54g0)
-- [crazy-complete: Generate shell auto-completion files with a single configuration file](https://dev.to/crazycomplete/crazy-complete-generate-shell-auto-completion-files-with-a-single-configuration-file-kk3)
+- [PNG vs JXL](https://dev.to/smartdev72/png-vs-jxl-235d)
+- [Automating Code Quality: Git Hooks, Husky, and Lint-Staged for Streamlined Linting &amp; Formatting](https://dev.to/hkp22/automating-code-quality-git-hooks-husky-and-lint-staged-for-streamlined-linting-formatting-5ep4)
+- [Unlock the Power of C: Dive into Parallel Computing, Redis, and More](https://dev.to/getvm/unlock-the-power-of-c-dive-into-parallel-computing-redis-and-more-4gcf)
+- [Understanding var and let in JavaScript: When and Why to Use Each for Cleaner Code](https://dev.to/vimuth7/understanding-var-and-let-in-javascript-when-and-why-to-use-each-for-cleaner-code-2hjb)
 <!-- BLOG-POST-LIST:END -->
 
