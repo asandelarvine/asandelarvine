@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Uart with STM32F411RE](https://dev.to/vietdt89/setup-uart-with-stm32f411re-l4)
-- [Understanding Exports and Imports in JavaScript](https://dev.to/shieldstring/understanding-exports-and-imports-in-javascript-3gm)
-- [Terraform: Infrastructure as Code for the Modern DevOps Engineer](https://dev.to/574n13y/terraform-infrastructure-as-code-for-the-modern-devops-engineer-2fh4)
-- [Build collapsible sidebars using just CSS](https://dev.to/yashjain99/build-collapsible-sidebars-using-just-css-1ac1)
+- [3rd pull request -Hacktoberfest](https://dev.to/aldrin312/3rd-pull-request-hacktoberfest-5cm6)
+- [Navigating Dependency Complexity: Effective Strategies for Software Engineers](https://dev.to/adityabhuyan/navigating-dependency-complexity-effective-strategies-for-software-engineers-28ba)
+- [Enhancing Embedded Systems Software with Functional Programming Principles](https://dev.to/adityabhuyan/enhancing-embedded-systems-software-with-functional-programming-principles-jjl)
+- [Why We Migrated Our WordPress Site from Hostinger to AWS LightSail](https://dev.to/shu12388y/why-we-migrated-our-wordpress-site-from-hostinger-to-aws-lightsail-4pdl)
 <!-- BLOG-POST-LIST:END -->
 
