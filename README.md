@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Professional Email Service: Gmail OAuth2 + Express + Webhooks](https://dev.to/yashrajxdev/build-a-professional-email-service-gmail-oauth2-express-webhooks-2gp8)
-- [HEIC vs WebP](https://dev.to/smartdev72/heic-vs-webp-4ohd)
-- [Save Hours of Coding: Build Powerful Custom Hooks in React](https://dev.to/shehzadhussain/save-hours-of-coding-build-powerful-custom-hooks-in-react-89b)
-- [HEIC vs GIF](https://dev.to/smartdev72/heic-vs-gif-an7)
+- [AI: The Future of Housing, from Smart Homes to Smart Cities](https://dev.to/chidoziemanagwu/ai-the-future-of-housing-from-smart-homes-to-smart-cities-1hb6)
+- [SVG to JPG: Choosing the Right Format for Your Images](https://dev.to/smartdev72/svg-to-jpg-choosing-the-right-format-for-your-images-1khn)
+- [Configuring OpenWRT DDNS for freedns.afraid.org](https://dev.to/hubschrauber/configuring-openwrt-ddns-for-freednsafraidorg-4caa)
+- [Identifying the Problem](https://dev.to/steaks_96/identifying-the-problem-37na)
 <!-- BLOG-POST-LIST:END -->
 
