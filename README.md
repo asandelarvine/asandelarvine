@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Js Part 3 : Event Handling and Form Management](https://dev.to/kyydev/react-js-part-3-event-handling-and-form-management-4ggd)
-- [Manojkumar Chandrasekar](https://dev.to/manojkumar-chandrase/manojkumar-chandrasekar-5ffc)
-- [Building a Web Task Manager Without SQL: A Frontend-First Approach](https://dev.to/jesus_delgado_28a06d768dc/building-a-web-task-manager-without-sql-a-frontend-first-approach-2abb)
-- [Understanding useCallback in Reactjs](https://dev.to/muthuraja_r/understanding-usecallback-in-reactjs-2j6c)
+- [Something](https://dev.to/sukhrobtech/something-5b1j)
+- [Building an APP with NOSQL Database](https://dev.to/jhonnyarm/building-an-app-with-nosql-database-3m7a)
+- [Using Runway&#39;s &quot;Gen-3 Alpha Turbo&quot; API to Generate AI Videos](https://dev.to/nabata/using-runways-gen-3-alpha-turbo-api-to-generate-ai-videos-42gb)
+- [Behind the Scenes: Designing a Beat Saber-Style Game with Godot](https://dev.to/manasajayasri/behind-the-scenes-designing-a-beat-saber-style-game-with-godot-184j)
 <!-- BLOG-POST-LIST:END -->
 
