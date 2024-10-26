@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Git Command-Line Tricks Every Developer Should Know](https://dev.to/safdarali/20-git-command-line-tricks-every-developer-should-know-3e96)
-- [JPG vs AVIF](https://dev.to/smartdev72/jpg-vs-avif-2m8g)
-- [PNG vs AVIF](https://dev.to/smartdev72/png-vs-avif-2kl5)
-- [Essential Skills for a Lead Engineer](https://dev.to/pgangwani/essential-skills-for-a-lead-engineer-ec4)
+- [The .io domain might be in trouble](https://dev.to/talepunk/the-io-domain-might-be-in-trouble-21o8)
+- [Hacktoberfest 2024 - Part 4](https://dev.to/cleobnvntra/hacktoberfest-2024-part-4-887)
+- [Exploring the Exciting Possibilities of NVIDIA Megatron LM: A Fun and Friendly Code Walkthrough with PyTorch &amp; NVIDIA Apex!](https://dev.to/hassan_sherwani_9dd766c43/exploring-the-exciting-possibilities-of-nvidia-megatron-lm-a-fun-and-friendly-code-walkthrough-with-pytorch-nvidia-apex-n3d)
+- [#? List vs Tuples in python](https://dev.to/yassinesallami/-list-vs-tuples-in-python-2m3n)
 <!-- BLOG-POST-LIST:END -->
 
