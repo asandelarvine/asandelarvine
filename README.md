@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [宝塔安装的nextcloud开启伪静态（Nginx）](https://dev.to/www/bao-ta-an-zhuang-de-nextcloudkai-qi-wei-jing-tai-nginx-526i)
-- [Introducing Sharon Rose Gem: A Platform for Gem Enthusiasts Built on WIX](https://dev.to/kudos2shef/introducing-sharon-rose-gem-a-platform-for-gem-enthusiasts-built-on-wix-38eb)
-- [HEIC to JPG: Which Image Format Is Right for You?](https://dev.to/smartdev72/heic-to-jpg-which-image-format-is-right-for-you-cna)
-- [🌈 CSS Animations: A Beginner’s Guide to Adding Motion to Your Website 🌈](https://dev.to/anticoder03/css-animations-a-beginners-guide-to-adding-motion-to-your-website-276g)
+- [Stable Diffusion 3.5 Large How To Use Tutorial With Best Configuration and Comparison With FLUX DEV](https://dev.to/furkangozukara/stable-diffusion-35-large-how-to-use-tutorial-with-best-configuration-and-comparison-with-flux-dev-270b)
+- [Cin buyug&#39;i haqida](https://dev.to/munisa_kuranbekova_078e1e/cin-buyugi-haqida-4h77)
+- [How I created my custom react notification component using React createContext hook, and Typescript](https://dev.to/mrvicthor/how-i-created-my-custom-react-notification-component-using-react-createcontext-hook-and-typescript-3dfi)
+- [Broadcom killed VMware: Was this acquisition good or bad for you?](https://dev.to/mkdev/broadcom-killed-vmware-was-this-acquisition-good-or-bad-for-you-2iao)
 <!-- BLOG-POST-LIST:END -->
 
