@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [13/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/13365-days-y10m-japan-job-challenge-4m2o)
-- [&lt;Iomanop&gt; kutubxonasi](https://dev.to/madina1575/kutubxonasi-mam)
-- [Enable Windows Media Player in Windows 11](https://dev.to/winsides/enable-windows-media-player-in-windows-11-1ic4)
-- [Fully Typed, Easy React Context API Example](https://dev.to/noriller/fully-typed-easy-react-context-api-example-4ne5)
+- [C# System.Text.Json JsonConverter masking](https://dev.to/karenpayneoregon/c-systemtextjson-jsonconverter-masking-4blg)
+- [Exploring the Architecture of ChatGPT-01-Preview: How ML and DL Techniques Build a Reasoning AI Model](https://dev.to/agustin_bereciartua/exploring-the-architecture-of-chatgpt-01-preview-how-ml-and-dl-techniques-build-a-reasoning-ai-model-3fok)
+- [Supercharge Your Node.js Monitoring with OpenTelemetry, Prometheus, and Grafana](https://dev.to/gleidsonleite/supercharge-your-nodejs-monitoring-with-opentelemetry-prometheus-and-grafana-4mhd)
+- [TikTok Live Streaming Feature: Technical Details and Architecture](https://dev.to/conquerym/tiktok-live-streaming-feature-technical-details-and-architecture-1n0j)
 <!-- BLOG-POST-LIST:END -->
 
