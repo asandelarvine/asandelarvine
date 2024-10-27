@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Self-Attention: Polynomial Activations for Capturing Long-Range Dependencies](https://dev.to/mikeyoung44/rethinking-self-attention-polynomial-activations-for-capturing-long-range-dependencies-hof)
-- [Post-training layer scaling technique LiNeS prevents forgetting, enhances model merging](https://dev.to/mikeyoung44/post-training-layer-scaling-technique-lines-prevents-forgetting-enhances-model-merging-3123)
-- [Breaking Memory Limits: Supercharge Contrastive Learning with Near Infinite Batch Sizes](https://dev.to/mikeyoung44/breaking-memory-limits-supercharge-contrastive-learning-with-near-infinite-batch-sizes-5aai)
-- [10 Tailwind CSS Hacks Every UI Developer Should Know](https://dev.to/nnnirajn/10-tailwind-css-hacks-every-ui-developer-should-know-1gia)
+- [Step-by-Step Guide to Light/Dark Mode on Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-to-lightdark-mode-on-bear-blog-11ek)
+- [Parkinson&#39;s Law in Software Development: How to Break the Time-Expansion Trap 🚀](https://dev.to/rumendimov/parkinsons-law-in-software-development-how-to-break-the-time-expansion-trap-28a0)
+- [Add Jetbrains Fleet to right click context menu in windows 11](https://dev.to/ozkanpakdil/add-jetbrains-fleet-to-right-click-context-menu-in-windows-11-2kpg)
+- [Setting Up a Node.js, TypeScript, and Express Project](https://dev.to/codeparrot/setting-up-a-nodejs-typescript-and-express-project-3jha)
 <!-- BLOG-POST-LIST:END -->
 
