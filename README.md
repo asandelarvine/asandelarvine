@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🥇 Top 10 Node.js Libraries for Web Development 🚀](https://dev.to/anticoder03/top-10-nodejs-libraries-for-web-development-5882)
-- [Introducing NeighborsNetwork: Your Neighborhood’s Social Hub Built on Wix!](https://dev.to/ayushkaushik/introducing-neighborsnetwork-your-neighborhoods-social-hub-built-on-wix-3c58)
-- [Trying to build a $1K MRR SaaS app, while being a full time student 😊](https://dev.to/jaypatel123/trying-to-build-a-1k-mrr-saas-app-while-being-a-full-time-student-4h9b)
-- [Understanding Server-Side Rendering &lpar;SSR&rpar; and Client-Side Rendering &lpar;CSR&rpar;: How Websites Show You Content](https://dev.to/vjygour/understanding-server-side-rendering-ssr-and-client-side-rendering-csr-how-websites-show-you-content-1am3)
+- [DSA: Heap - Key Questions and Challenges](https://dev.to/nozibul_islam_113b1d5334f/dsa-heap-key-questions-and-challenges-3a55)
+- [Mastering Scalability : A Comprehensive Guide to Techniques, Needs, and Implementation](https://dev.to/ari-ghosh/mastering-scalability-a-comprehensive-guide-to-techniques-needs-and-implementation-o7)
+- [System Design of YouTube: A Detailed Deep Dive into the Video Giant](https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019)
+- [How To Handle Custom S/DQL Queries On Different Database Engine with DoctrineExpression](https://dev.to/ucscode/how-to-handle-custom-sdql-queries-on-different-database-engine-with-doctrineexpression-2j64)
 <!-- BLOG-POST-LIST:END -->
 
