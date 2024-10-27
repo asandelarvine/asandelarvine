@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating with React Router React Js Part 4: A Guide to Routing in React Applications](https://dev.to/kyydev/navigating-with-react-router-react-js-part-4-a-guide-to-routing-in-react-applications-1ikb)
-- [Java Inner Classes and Nested Classes](https://dev.to/dhanush9952/java-inner-classes-and-nested-classes-39a6)
-- [🌐 Navigating the CNCF Landscape: A Roadmap for Open Source Contributions 🚀](https://dev.to/manvendra2000/navigating-the-cncf-landscape-a-roadmap-for-open-source-contributions-1poe)
-- [Top 5 Programming Profiles: Racer, Coder, Maker, Joker, Tutor](https://dev.to/gurigraphics/top-5-programming-profiles-racer-coder-maker-joker-tutor-1gk5)
+- [🥇 Top 10 Node.js Libraries for Web Development 🚀](https://dev.to/anticoder03/top-10-nodejs-libraries-for-web-development-5882)
+- [Introducing NeighborsNetwork: Your Neighborhood’s Social Hub Built on Wix!](https://dev.to/ayushkaushik/introducing-neighborsnetwork-your-neighborhoods-social-hub-built-on-wix-3c58)
+- [Trying to build a $1K MRR SaaS app, while being a full time student 😊](https://dev.to/jaypatel123/trying-to-build-a-1k-mrr-saas-app-while-being-a-full-time-student-4h9b)
+- [Understanding Server-Side Rendering &lpar;SSR&rpar; and Client-Side Rendering &lpar;CSR&rpar;: How Websites Show You Content](https://dev.to/vjygour/understanding-server-side-rendering-ssr-and-client-side-rendering-csr-how-websites-show-you-content-1am3)
 <!-- BLOG-POST-LIST:END -->
 
