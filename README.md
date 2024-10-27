@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backtracking: Solving the N-Queens Problem and Python Implementation](https://dev.to/bonaogeto/backtracking-solving-the-n-queens-problem-and-python-implementation-6jf)
-- [Quickly Start Dev Environment For MySQL, PostgreSQL, MongoDB, Redis, and Kafka Using Docker Compose](https://dev.to/truongpx396/quickly-start-dev-environment-for-mysql-postgresql-mongodb-redis-and-kafka-using-docker-compose-40p9)
-- [Day-4 | Custom Metrics Instrumentation and Scraping using Prom Client](https://dev.to/subham_nandi/day-4-custom-metrics-instrumentation-and-scraping-using-prom-client-539b)
-- [React Hooks: Revolutionizing Functional Components](https://dev.to/softden_2005/react-hooks-revolutionizing-functional-components-26ck)
+- [What is an interface in Golang, and why is it important in building large-scale systems?](https://dev.to/congle/what-is-an-interface-in-golang-and-why-is-it-important-in-building-large-scale-systems-1odb)
+- [The Potential of Blockchain in Gaming: Disruption or Over-hyped?](https://dev.to/bloxbytes/the-potential-of-blockchain-in-gaming-disruption-or-over-hyped-1ojk)
+- [What Is Training Data Poisoning in LLMs &amp; 6 Ways to Prevent It](https://dev.to/pynt/what-is-training-data-poisoning-in-llms-6-ways-to-prevent-it-ibg)
+- [Interactive Components in Markdown](https://dev.to/valeriavg/interactive-components-in-markdown-2l1h)
 <!-- BLOG-POST-LIST:END -->
 
