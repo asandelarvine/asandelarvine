@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is an interface in Golang, and why is it important in building large-scale systems?](https://dev.to/congle/what-is-an-interface-in-golang-and-why-is-it-important-in-building-large-scale-systems-1odb)
-- [The Potential of Blockchain in Gaming: Disruption or Over-hyped?](https://dev.to/bloxbytes/the-potential-of-blockchain-in-gaming-disruption-or-over-hyped-1ojk)
-- [What Is Training Data Poisoning in LLMs &amp; 6 Ways to Prevent It](https://dev.to/pynt/what-is-training-data-poisoning-in-llms-6-ways-to-prevent-it-ibg)
-- [Interactive Components in Markdown](https://dev.to/valeriavg/interactive-components-in-markdown-2l1h)
+- [Transit Gateway v/s Direct Connect v/s Site-to-Site VPN](https://dev.to/rksalo88/transit-gateway-vs-direct-connect-vs-site-to-site-vpn-k31)
+- [How I Set Up My Own Server &lpar;and Why You Should Too&rpar;](https://dev.to/hungryoctopus/how-i-set-up-my-own-server-and-why-you-should-too-3k4k)
+- [A Step-by-Step Guide to Upgrading Your React Native Project to the New Architecture](https://dev.to/ajmal_hasan/a-step-by-step-guide-to-upgrading-your-react-native-project-to-the-new-architecture-3o20)
+- [Top 7 Web development projects for beginners](https://dev.to/rose_michelle/top-7-web-development-projects-fro-beginners-41)
 <!-- BLOG-POST-LIST:END -->
 
