@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SVG vs AVIF](https://dev.to/smartdev72/svg-vs-avif-145p)
-- [AI tool for each phase of your research journey!](https://dev.to/gracerosen/ai-tool-for-each-phase-of-your-research-journey-2ldh)
-- [Advanced State Management in React](https://dev.to/joaoalissonsilva/advanced-state-management-in-react-5b01)
-- [Setting Up a Private Storage account for a Company](https://dev.to/oluoma_stella/setting-up-a-private-storage-account-for-a-company-2e9d)
+- [react-dom.createRoot](https://dev.to/dwlhm/react-domcreateroot-25ck)
+- [The Role of Data Science in Shaping Modern Economics](https://dev.to/sourishsr31/the-role-of-data-science-in-shaping-modern-economics-3gi3)
+- [Atomic Design in Frontend &lpar;english&rpar;](https://dev.to/jullymac/atomic-design-in-frontend-english-5hcd)
+- [A Beginner&#39;s Guide to the CSS Box Model](https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5)
 <!-- BLOG-POST-LIST:END -->
 
