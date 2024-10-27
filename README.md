@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Build Projects by Attending Hackathons](https://dev.to/30_dayscoding_9b63e3c909/how-to-quickly-build-projects-by-attending-hackathons-20km)
-- [CKA Full Course 2024: Day 9/40 Kubernetes Services Explained: ClusterIP vs NodePort vs Loadbalancer vs External](https://dev.to/lloydrivers/cka-full-course-2024-day-940-kubernetes-services-explained-clusterip-vs-nodeport-vs-loadbalancer-vs-external-28nh)
-- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-3bdd)
-- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-2oce)
+- [Level Up Your Software Engineering Management Game: Stop Guessing, Start Knowing](https://dev.to/devactivity-app/level-up-your-software-engineering-management-game-stop-guessing-start-knowing-1cbh)
+- [TIFF vs PNG](https://dev.to/smartdev72/tiff-vs-png-21d8)
+- [Progress Bar Animation Ideas](https://dev.to/anwarachilles/codepen-homeprogress-bar-animation-ideas-4hin)
+- [Managing LLM prompts in DotNet with DotPrompt](https://dev.to/dazfuller/managing-llm-prompts-in-dotnet-with-dotprompt-51e)
 <!-- BLOG-POST-LIST:END -->
 
