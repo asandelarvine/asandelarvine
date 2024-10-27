@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Safe Assignment Operator : Alternative to try/catch](https://dev.to/sonaykara/safe-assignment-operator-alternative-to-trycatch-52dp)
-- [The 3 Laws of Writing Readable Code - A Guide to Clean Programming](https://dev.to/jenueldev/the-3-laws-of-writing-readable-code-a-guide-to-clean-programming-32ap)
-- [How to Compress JPEG Images for Optimal Quality and Performance](https://dev.to/smartdev72/how-to-compress-jpeg-images-for-optimal-quality-and-performance-2gp2)
-- [Designing Scalable and Maintainable Microservices](https://dev.to/divine_nnanna2/designing-scalable-and-maintainable-microservices-32ij)
+- [Backtracking: Solving the N-Queens Problem and Python Implementation](https://dev.to/bonaogeto/backtracking-solving-the-n-queens-problem-and-python-implementation-6jf)
+- [Quickly Start Dev Environment For MySQL, PostgreSQL, MongoDB, Redis, and Kafka Using Docker Compose](https://dev.to/truongpx396/quickly-start-dev-environment-for-mysql-postgresql-mongodb-redis-and-kafka-using-docker-compose-40p9)
+- [Day-4 | Custom Metrics Instrumentation and Scraping using Prom Client](https://dev.to/subham_nandi/day-4-custom-metrics-instrumentation-and-scraping-using-prom-client-539b)
+- [React Hooks: Revolutionizing Functional Components](https://dev.to/softden_2005/react-hooks-revolutionizing-functional-components-26ck)
 <!-- BLOG-POST-LIST:END -->
 
