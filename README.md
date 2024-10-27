@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Software Engineering Management Game: Stop Guessing, Start Knowing](https://dev.to/devactivity-app/level-up-your-software-engineering-management-game-stop-guessing-start-knowing-1cbh)
-- [TIFF vs PNG](https://dev.to/smartdev72/tiff-vs-png-21d8)
-- [Progress Bar Animation Ideas](https://dev.to/anwarachilles/codepen-homeprogress-bar-animation-ideas-4hin)
-- [Managing LLM prompts in DotNet with DotPrompt](https://dev.to/dazfuller/managing-llm-prompts-in-dotnet-with-dotprompt-51e)
+- [🛠️ Node.js Best Practices for Writing Clean and Scalable Code 🚀](https://dev.to/anticoder03/nodejs-best-practices-for-writing-clean-and-scalable-code-209h)
+- [PSD to WebP](https://dev.to/smartdev72/psd-to-webp-25op)
+- [Programming - Some ideas to Help Mitigate Infrastructure Strain](https://dev.to/benslinux2024/devs-to-the-rescue-how-better-programming-can-mitigate-infrastructure-strain-3jjo)
+- [Wix Studio Challenge x ChessMate](https://dev.to/tejas_jaiswall/wix-studio-challenge-x-chessmate-4dhh)
 <!-- BLOG-POST-LIST:END -->
 
