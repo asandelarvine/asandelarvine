@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Privacy and Safety in AI: The Role of AWS Bedrock Guardrails](https://dev.to/aws-builders/protecting-privacy-and-safety-in-ai-the-role-of-aws-bedrock-guardrails-261p)
-- [✅ .𝗡𝗘𝗧 𝟵 &amp; 𝗖# 𝟭𝟯: 𝗡𝗲𝘄 𝗟𝗼𝗰𝗸 𝗢𝗯𝗷𝗲𝗰𝘁 𝗮𝗻𝗱 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀](https://dev.to/apurvupadhyay/--1m8o)
-- [Revolutionising Software Development: The Intersection of Quantum Fractal Alloys and Fractal-Inspired Algorithms](https://dev.to/gracerosen/revolutionising-software-development-the-intersection-of-quantum-fractal-alloys-and-fractal-inspired-algorithms-46ac)
-- [Regex timeout - C#](https://dev.to/karenpayneoregon/regex-timeout-c-3n3n)
+- [Mastering File Uploads and Downloads in .NET 8 Minimal APIs: A Comprehensive Guide](https://dev.to/leandroveiga/mastering-file-uploads-and-downloads-in-net-8-minimal-apis-a-comprehensive-guide-5al3)
+- [Clean Code: Open Source Linting &amp; Formatting](https://dev.to/majd_almnayer_2101/clean-code-open-source-linting-formatting-1g8l)
+- [Building a Go Application with Docker on AWS: Creating a RESTful Interface for Adding and Retrieving Items](https://dev.to/zahraajawad/building-a-go-application-with-docker-on-aws-creating-a-restful-interface-for-adding-and-retrieving-items-54mi)
+- [Using Git as Your Personal To-Do List](https://dev.to/munemprionto/using-git-as-your-personal-to-do-list-3kkd)
 <!-- BLOG-POST-LIST:END -->
 
