@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [react-dom.createRoot](https://dev.to/dwlhm/react-domcreateroot-25ck)
-- [The Role of Data Science in Shaping Modern Economics](https://dev.to/sourishsr31/the-role-of-data-science-in-shaping-modern-economics-3gi3)
-- [Atomic Design in Frontend &lpar;english&rpar;](https://dev.to/jullymac/atomic-design-in-frontend-english-5hcd)
-- [A Beginner&#39;s Guide to the CSS Box Model](https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5)
+- [Navigating with React Router React Js Part 4: A Guide to Routing in React Applications](https://dev.to/kyydev/navigating-with-react-router-react-js-part-4-a-guide-to-routing-in-react-applications-1ikb)
+- [Java Inner Classes and Nested Classes](https://dev.to/dhanush9952/java-inner-classes-and-nested-classes-39a6)
+- [🌐 Navigating the CNCF Landscape: A Roadmap for Open Source Contributions 🚀](https://dev.to/manvendra2000/navigating-the-cncf-landscape-a-roadmap-for-open-source-contributions-1poe)
+- [Top 5 Programming Profiles: Racer, Coder, Maker, Joker, Tutor](https://dev.to/gurigraphics/top-5-programming-profiles-racer-coder-maker-joker-tutor-1gk5)
 <!-- BLOG-POST-LIST:END -->
 
