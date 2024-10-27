@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Node.js Best Practices for Writing Clean and Scalable Code 🚀](https://dev.to/anticoder03/nodejs-best-practices-for-writing-clean-and-scalable-code-209h)
-- [PSD to WebP](https://dev.to/smartdev72/psd-to-webp-25op)
-- [Programming - Some ideas to Help Mitigate Infrastructure Strain](https://dev.to/benslinux2024/devs-to-the-rescue-how-better-programming-can-mitigate-infrastructure-strain-3jjo)
-- [Wix Studio Challenge x ChessMate](https://dev.to/tejas_jaiswall/wix-studio-challenge-x-chessmate-4dhh)
+- [Safe Assignment Operator : Alternative to try/catch](https://dev.to/sonaykara/safe-assignment-operator-alternative-to-trycatch-52dp)
+- [The 3 Laws of Writing Readable Code - A Guide to Clean Programming](https://dev.to/jenueldev/the-3-laws-of-writing-readable-code-a-guide-to-clean-programming-32ap)
+- [How to Compress JPEG Images for Optimal Quality and Performance](https://dev.to/smartdev72/how-to-compress-jpeg-images-for-optimal-quality-and-performance-2gp2)
+- [Designing Scalable and Maintainable Microservices](https://dev.to/divine_nnanna2/designing-scalable-and-maintainable-microservices-32ij)
 <!-- BLOG-POST-LIST:END -->
 
