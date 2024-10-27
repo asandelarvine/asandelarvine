@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploding flower design](https://dev.to/sister_mariamonahan_65f5/exploding-flower-design-4pmd)
-- [boy running](https://dev.to/sister_mariamonahan_65f5/boy-running-co1)
-- [bear running](https://dev.to/sister_mariamonahan_65f5/bear-running-1nbk)
-- [sphere and cylinder move in 3d](https://dev.to/sister_mariamonahan_65f5/sphere-and-cylinder-move-in-3d-15c7)
+- [How to Create a Scroll Progress Bar in Next.js/React](https://dev.to/designly/how-to-create-a-scroll-progress-bar-in-nextjsreact-3oj7)
+- [Mild Introduction to Modern Sequence Processing. Part 1: Looking into Recurrent Neural Networks](https://dev.to/fively/mild-introduction-to-modern-sequence-processing-part-1-looking-into-recurrent-neural-networks-5g8)
+- [Perfectly Qualified Yet Rejected? Here’s Why It Happens and What to Change](https://dev.to/chocoscoding/perfectly-qualified-yet-rejected-heres-why-it-happens-and-what-to-change-4g6b)
+- [How to you collect data about your app?](https://dev.to/rudyryk/how-to-you-collect-data-about-your-app-20k4)
 <!-- BLOG-POST-LIST:END -->
 
