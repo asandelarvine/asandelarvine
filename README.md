@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transit Gateway v/s Direct Connect v/s Site-to-Site VPN](https://dev.to/rksalo88/transit-gateway-vs-direct-connect-vs-site-to-site-vpn-k31)
-- [How I Set Up My Own Server &lpar;and Why You Should Too&rpar;](https://dev.to/hungryoctopus/how-i-set-up-my-own-server-and-why-you-should-too-3k4k)
-- [A Step-by-Step Guide to Upgrading Your React Native Project to the New Architecture](https://dev.to/ajmal_hasan/a-step-by-step-guide-to-upgrading-your-react-native-project-to-the-new-architecture-3o20)
-- [Top 7 Web development projects for beginners](https://dev.to/rose_michelle/top-7-web-development-projects-fro-beginners-41)
+- [Developers, what projects are you currently working on? 💻](https://dev.to/jxd-dev/developers-what-projects-are-you-currently-working-on-1ngd)
+- [Generative AI in JavaScript? Microsoft’s GenAIScript, Svelte 5, Next.js 15 and more](https://dev.to/thisweekinjavascript/generative-ai-in-javascript-microsofts-genaiscript-svelte-5-nextjs-15-and-more-3p21)
+- [Introduction to DBMS](https://dev.to/paulopnun/introduction-to-dbms-16fd)
+- [Manual Memory Management and Garbage Collection in Kotlin Multiplatform Native Shared Libraries](https://dev.to/arsenikavalchuk/manual-memory-management-and-garbage-collection-in-kotlin-multiplatform-native-shared-libraries-1ll3)
 <!-- BLOG-POST-LIST:END -->
 
