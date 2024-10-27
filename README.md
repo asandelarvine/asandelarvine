@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Down with OOP? Understanding the &#39;S&#39;](https://dev.to/brian_king_b4f9d429a2d676/are-you-down-with-oop-understanding-the-s-53a6)
-- [https://samueladeniji2012.wixsite.com/fasolin-blog](https://dev.to/eriadura/httpssamueladeniji2012wixsitecomfasolin-blog-510e)
-- [Como o CI/CD pode transformar o ciclo de vida de desenvolvimento](https://dev.to/ruivalim/como-o-cicd-pode-transformar-o-ciclo-de-vida-de-desenvolvimento-62b)
-- [Second Contributions for hacktoberfest](https://dev.to/krinskumar/second-contributions-for-hacktoberfest-56j6)
+- [Exploding flower design](https://dev.to/sister_mariamonahan_65f5/exploding-flower-design-4pmd)
+- [boy running](https://dev.to/sister_mariamonahan_65f5/boy-running-co1)
+- [bear running](https://dev.to/sister_mariamonahan_65f5/bear-running-1nbk)
+- [sphere and cylinder move in 3d](https://dev.to/sister_mariamonahan_65f5/sphere-and-cylinder-move-in-3d-15c7)
 <!-- BLOG-POST-LIST:END -->
 
