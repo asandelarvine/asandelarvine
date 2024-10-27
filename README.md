@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering File Uploads and Downloads in .NET 8 Minimal APIs: A Comprehensive Guide](https://dev.to/leandroveiga/mastering-file-uploads-and-downloads-in-net-8-minimal-apis-a-comprehensive-guide-5al3)
-- [Clean Code: Open Source Linting &amp; Formatting](https://dev.to/majd_almnayer_2101/clean-code-open-source-linting-formatting-1g8l)
-- [Building a Go Application with Docker on AWS: Creating a RESTful Interface for Adding and Retrieving Items](https://dev.to/zahraajawad/building-a-go-application-with-docker-on-aws-creating-a-restful-interface-for-adding-and-retrieving-items-54mi)
-- [Using Git as Your Personal To-Do List](https://dev.to/munemprionto/using-git-as-your-personal-to-do-list-3kkd)
+- [Rebuilding EnviroX: Overcoming Early Flaws to Automate Development Environments](https://dev.to/neelp03/rebuilding-envirox-overcoming-early-flaws-to-automate-development-environments-12ld)
+- [Memory Management and Garbage Collection in Kotlin Multiplatform XCFramework](https://dev.to/arsenikavalchuk/memory-management-and-garbage-collection-in-kotlin-multiplatform-xcframework-15pa)
+- [🚀 Why Microsoft’s Pieces OS is a Game-Changer for Developers!](https://dev.to/shjz/why-microsofts-pieces-os-is-a-game-changer-for-developers-3090)
+- [Implementing a Perceptron from Scratch in Python](https://dev.to/dazevedo/implementing-a-perceptron-from-scratch-in-python-1j41)
 <!-- BLOG-POST-LIST:END -->
 
