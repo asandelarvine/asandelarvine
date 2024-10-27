@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Light/Dark Mode on Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-to-lightdark-mode-on-bear-blog-11ek)
-- [Parkinson&#39;s Law in Software Development: How to Break the Time-Expansion Trap 🚀](https://dev.to/rumendimov/parkinsons-law-in-software-development-how-to-break-the-time-expansion-trap-28a0)
-- [Add Jetbrains Fleet to right click context menu in windows 11](https://dev.to/ozkanpakdil/add-jetbrains-fleet-to-right-click-context-menu-in-windows-11-2kpg)
-- [Setting Up a Node.js, TypeScript, and Express Project](https://dev.to/codeparrot/setting-up-a-nodejs-typescript-and-express-project-3jha)
+- [C4 Model - The Basics](https://dev.to/rafaeljcamara/c4-model-the-basics-5bk5)
+- [Retrieval-Augmented Generation &lpar;RAG&rpar; in LLMs](https://dev.to/nareshnishad/retrieval-augmented-generation-rag-in-llms-4io0)
+- [3 VS CODE ALTERNATIVES THAT ARE GREAT 👍](https://dev.to/mince/3-vs-code-alternatives-that-are-great-gi0)
+- [Learning to Use HTML &amp; CSS: Your First Webpage](https://dev.to/okoye_ndidiamaka_5e3b7d30/learning-to-use-html-css-your-first-webpage-4c39)
 <!-- BLOG-POST-LIST:END -->
 
