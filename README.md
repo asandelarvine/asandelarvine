@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers, what projects are you currently working on? 💻](https://dev.to/jxd-dev/developers-what-projects-are-you-currently-working-on-1ngd)
-- [Generative AI in JavaScript? Microsoft’s GenAIScript, Svelte 5, Next.js 15 and more](https://dev.to/thisweekinjavascript/generative-ai-in-javascript-microsofts-genaiscript-svelte-5-nextjs-15-and-more-3p21)
-- [Introduction to DBMS](https://dev.to/paulopnun/introduction-to-dbms-16fd)
-- [Manual Memory Management and Garbage Collection in Kotlin Multiplatform Native Shared Libraries](https://dev.to/arsenikavalchuk/manual-memory-management-and-garbage-collection-in-kotlin-multiplatform-native-shared-libraries-1ll3)
+- [Protecting Privacy and Safety in AI: The Role of AWS Bedrock Guardrails](https://dev.to/aws-builders/protecting-privacy-and-safety-in-ai-the-role-of-aws-bedrock-guardrails-261p)
+- [✅ .𝗡𝗘𝗧 𝟵 &amp; 𝗖# 𝟭𝟯: 𝗡𝗲𝘄 𝗟𝗼𝗰𝗸 𝗢𝗯𝗷𝗲𝗰𝘁 𝗮𝗻𝗱 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀](https://dev.to/apurvupadhyay/--1m8o)
+- [Revolutionising Software Development: The Intersection of Quantum Fractal Alloys and Fractal-Inspired Algorithms](https://dev.to/gracerosen/revolutionising-software-development-the-intersection-of-quantum-fractal-alloys-and-fractal-inspired-algorithms-46ac)
+- [Regex timeout - C#](https://dev.to/karenpayneoregon/regex-timeout-c-3n3n)
 <!-- BLOG-POST-LIST:END -->
 
