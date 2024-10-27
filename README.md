@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding EnviroX: Overcoming Early Flaws to Automate Development Environments](https://dev.to/neelp03/rebuilding-envirox-overcoming-early-flaws-to-automate-development-environments-12ld)
-- [Memory Management and Garbage Collection in Kotlin Multiplatform XCFramework](https://dev.to/arsenikavalchuk/memory-management-and-garbage-collection-in-kotlin-multiplatform-xcframework-15pa)
-- [🚀 Why Microsoft’s Pieces OS is a Game-Changer for Developers!](https://dev.to/shjz/why-microsofts-pieces-os-is-a-game-changer-for-developers-3090)
-- [Implementing a Perceptron from Scratch in Python](https://dev.to/dazevedo/implementing-a-perceptron-from-scratch-in-python-1j41)
+- [Are You Down with OOP? Understanding the &#39;S&#39;](https://dev.to/brian_king_b4f9d429a2d676/are-you-down-with-oop-understanding-the-s-53a6)
+- [https://samueladeniji2012.wixsite.com/fasolin-blog](https://dev.to/eriadura/httpssamueladeniji2012wixsitecomfasolin-blog-510e)
+- [Como o CI/CD pode transformar o ciclo de vida de desenvolvimento](https://dev.to/ruivalim/como-o-cicd-pode-transformar-o-ciclo-de-vida-de-desenvolvimento-62b)
+- [Second Contributions for hacktoberfest](https://dev.to/krinskumar/second-contributions-for-hacktoberfest-56j6)
 <!-- BLOG-POST-LIST:END -->
 
