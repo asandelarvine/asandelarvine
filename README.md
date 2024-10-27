@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevator Scheduling Algorithms: FCFS, SSTF, SCAN, and LOOK](https://dev.to/thesaltree/elevator-scheduling-algorithms-fcfs-sstf-scan-and-look-2pae)
-- [Robots.txt pitfalls: what I learned the hard way](https://dev.to/prahladyeri/robotstxt-pitfalls-what-i-learned-the-hard-way-2aip)
-- [Understanding EVM&lpar;Ethereum Virtual Machine&rpar;](https://dev.to/dhanyosmi/understanding-evmethereum-virtual-machine-2dh7)
-- [Learning Ansible, Proxmox and LXC, Part 1](https://dev.to/beedog/learning-ansible-proxmox-and-lxc-part-1-2hbp)
+- [Rethinking Self-Attention: Polynomial Activations for Capturing Long-Range Dependencies](https://dev.to/mikeyoung44/rethinking-self-attention-polynomial-activations-for-capturing-long-range-dependencies-hof)
+- [Post-training layer scaling technique LiNeS prevents forgetting, enhances model merging](https://dev.to/mikeyoung44/post-training-layer-scaling-technique-lines-prevents-forgetting-enhances-model-merging-3123)
+- [Breaking Memory Limits: Supercharge Contrastive Learning with Near Infinite Batch Sizes](https://dev.to/mikeyoung44/breaking-memory-limits-supercharge-contrastive-learning-with-near-infinite-batch-sizes-5aai)
+- [10 Tailwind CSS Hacks Every UI Developer Should Know](https://dev.to/nnnirajn/10-tailwind-css-hacks-every-ui-developer-should-know-1gia)
 <!-- BLOG-POST-LIST:END -->
 
