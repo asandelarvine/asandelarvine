@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerization with Docker in Software Development](https://dev.to/adityabhuyan/containerization-with-docker-in-software-development-5dke)
-- [Trying to build an app with Claude Day 2](https://dev.to/danielarmbruster0314/trying-to-build-an-app-with-claude-day-2-gk1)
-- [What is an API ?](https://dev.to/diwakar_verma_381fc6e5e2f/what-is-an-api--3a12)
-- [Analysis of AWS Solutions Architect Professional Certification Question — EC2 Image Builder and Resource Access Manager](https://dev.to/jjoc007/analysis-of-aws-solutions-architect-professional-certification-question-ec2-image-builder-and-resource-access-manager-3c5b)
+- [Elevator Scheduling Algorithms: FCFS, SSTF, SCAN, and LOOK](https://dev.to/thesaltree/elevator-scheduling-algorithms-fcfs-sstf-scan-and-look-2pae)
+- [Robots.txt pitfalls: what I learned the hard way](https://dev.to/prahladyeri/robotstxt-pitfalls-what-i-learned-the-hard-way-2aip)
+- [Understanding EVM&lpar;Ethereum Virtual Machine&rpar;](https://dev.to/dhanyosmi/understanding-evmethereum-virtual-machine-2dh7)
+- [Learning Ansible, Proxmox and LXC, Part 1](https://dev.to/beedog/learning-ansible-proxmox-and-lxc-part-1-2hbp)
 <!-- BLOG-POST-LIST:END -->
 
