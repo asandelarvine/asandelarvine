@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion Fitness: A gamified fitness community to keep you fit](https://dev.to/paul_freeman/motion-fitness-a-gamified-fitness-community-to-keep-you-fit-32m)
-- [Combining Object-Oriented and Functional Programming in Large Projects](https://dev.to/adityabhuyan/combining-object-oriented-and-functional-programming-in-large-projects-6m2)
-- [10 JavaScript projects I have completed as a beginner!](https://dev.to/sababat/10-javascript-projects-i-have-completed-as-a-beginner-570c)
-- [Hacktoberfest Recap](https://dev.to/aamfahim/hacktoberfest-recap-4im1)
+- [TIL: How To Use the Specification Pattern in C# To Simplify Repositories](https://dev.to/canro91/til-how-to-use-the-specification-pattern-in-c-to-simplify-repositories-2m16)
+- [Overcoming Imposter Syndrome &lpar;OTB Ep 2: Monica Ayhens-Madon&rpar;](https://dev.to/codemouse92/overcoming-imposter-syndrome-otb-ep-2-monica-ayhens-madon-3fkl)
+- [Perl Weekly #692 - LPW 2024: Quick Report](https://dev.to/szabgab/perl-weekly-692-lpw-2024-quick-report-5d1)
+- [¡AWS Community Day Bolivia 🇧🇴: Gracias por hacer de este evento una experiencia inolvidable! 🎉](https://dev.to/monica_canaza/aws-community-day-bolivia-gracias-por-hacer-de-este-evento-una-experiencia-inolvidable-3e33)
 <!-- BLOG-POST-LIST:END -->
 
