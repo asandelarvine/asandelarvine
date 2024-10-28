@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React: How Often Does a Cleanup Function Run?](https://dev.to/garciadiazjaime/react-how-often-does-a-cleanup-function-run-nfg)
-- [🚢Exploratory Data Analysis on the Titanic Dataset🚢](https://dev.to/thatohatsi880/exploratory-data-analysis-on-the-titanic-dataset-kpb)
-- [What does LLM Temperature Actually Mean?](https://dev.to/trustgraph/what-does-llm-temperature-actually-mean-18bd)
-- [OpenAPI Tutorial for SafeLine WAF](https://dev.to/carrie_luo1/openapi-tutorial-for-safeline-waf-h0b)
+- [From Idea to Launch: Mistakes to avoid in your Development process](https://dev.to/rose_michelle/from-idea-to-launch-mistakes-to-avoid-in-your-development-process-45gg)
+- [Derivation of Welford&#39;s Algorithm](https://dev.to/kylepena/derivation-of-recurrence-relation-of-variance-based-on-second-central-moments-welfords-algorithm-305n)
+- [Best Practices for Writing Clean React Code with Examples](https://dev.to/vishesh813/javascript-clean-code-series-8ci)
+- [Prove AI Launches on the Hedera Network: Bringing a New Standard in AI Governance](https://dev.to/hedera/prove-ai-launches-on-the-hedera-network-bringing-a-new-standard-in-ai-governance-57g5)
 <!-- BLOG-POST-LIST:END -->
 
