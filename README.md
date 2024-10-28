@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weather App with Tolgee](https://dev.to/prathamesh_gursal/weather-app-with-tolgee-7ak)
-- [Introducing PinataNET: A Simple C# Wrapper for the Pinata API](https://dev.to/sebastiandevelops/introducing-pinatanet-a-simple-c-wrapper-for-the-pinata-api-396d)
-- [Dealing with Digital Transformation in large companies](https://dev.to/smfiorillo/dealing-with-digital-transformation-in-large-companies-318e)
-- [Join To My Journey to learn building full stack web application](https://dev.to/mert_izgahi_e1e5719866b86/join-to-my-journey-to-learn-building-full-stack-web-application-33bn)
+- [CSS Grid](https://dev.to/darkworldprogrammer/css-grid-7eo)
+- [Day 49. Organization card](https://dev.to/kiolk/day-49-organization-card-h1n)
+- [Simple Context Menu in iOS by Tap](https://dev.to/ssharyk/simple-context-menu-in-ios-by-tap-15kh)
+- [Kubernetes Service Accounts: Guide](https://dev.to/cicube/kubernetes-service-accounts-guide-586n)
 <!-- BLOG-POST-LIST:END -->
 
