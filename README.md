@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New React Projec](https://dev.to/ayala3423/new-react-projec-5bbh)
-- [NexOracle Rest APIs](https://dev.to/nexoracle/nexoracle-rest-apis-1m6m)
-- [Unlock the Fundamentals: 5 Free Computer Science Courses to Elevate Your Programming Journey](https://dev.to/getvm/unlock-the-fundamentals-5-free-computer-science-courses-to-elevate-your-programming-journey-3bob)
-- [Request Management System](https://dev.to/notreal001/request-management-system-6md)
+- [Weather App with Tolgee](https://dev.to/prathamesh_gursal/weather-app-with-tolgee-7ak)
+- [Introducing PinataNET: A Simple C# Wrapper for the Pinata API](https://dev.to/sebastiandevelops/introducing-pinatanet-a-simple-c-wrapper-for-the-pinata-api-396d)
+- [Dealing with Digital Transformation in large companies](https://dev.to/smfiorillo/dealing-with-digital-transformation-in-large-companies-318e)
+- [Join To My Journey to learn building full stack web application](https://dev.to/mert_izgahi_e1e5719866b86/join-to-my-journey-to-learn-building-full-stack-web-application-33bn)
 <!-- BLOG-POST-LIST:END -->
 
