@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Bias and Variance: Lessons from Learning to Ride a Bike](https://dev.to/sreeni5018/navigating-bias-and-variance-lessons-from-learning-to-ride-a-bike-e36)
-- [Protecting Your Digital Life: A Simple Guide to Mobile App Security for Everyday Users and Small Business Owners](https://dev.to/igbikisimewari/protecting-your-digital-life-a-simple-guide-to-mobile-app-security-for-everyday-users-and-small-business-owners-4f05)
-- [What are your goals for the week 44, HacktoberFest final days?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-44-hacktoberfest-final-days-1gm)
-- [Análise de dados de tráfego aéreo em tempo real com Spark Structured Streaming e Apache Kafka](https://dev.to/geazi_anc/analise-de-dados-de-trafego-aereo-em-tempo-real-com-spark-structured-streaming-e-apache-kafka-2db5)
+- [React: How Often Does a Cleanup Function Run?](https://dev.to/garciadiazjaime/react-how-often-does-a-cleanup-function-run-nfg)
+- [🚢Exploratory Data Analysis on the Titanic Dataset🚢](https://dev.to/thatohatsi880/exploratory-data-analysis-on-the-titanic-dataset-kpb)
+- [What does LLM Temperature Actually Mean?](https://dev.to/trustgraph/what-does-llm-temperature-actually-mean-18bd)
+- [OpenAPI Tutorial for SafeLine WAF](https://dev.to/carrie_luo1/openapi-tutorial-for-safeline-waf-h0b)
 <!-- BLOG-POST-LIST:END -->
 
