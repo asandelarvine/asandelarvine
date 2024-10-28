@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Launch: Mistakes to avoid in your Development process](https://dev.to/rose_michelle/from-idea-to-launch-mistakes-to-avoid-in-your-development-process-45gg)
-- [Derivation of Welford&#39;s Algorithm](https://dev.to/kylepena/derivation-of-recurrence-relation-of-variance-based-on-second-central-moments-welfords-algorithm-305n)
-- [Best Practices for Writing Clean React Code with Examples](https://dev.to/vishesh813/javascript-clean-code-series-8ci)
-- [Prove AI Launches on the Hedera Network: Bringing a New Standard in AI Governance](https://dev.to/hedera/prove-ai-launches-on-the-hedera-network-bringing-a-new-standard-in-ai-governance-57g5)
+- [New React Projec](https://dev.to/ayala3423/new-react-projec-5bbh)
+- [NexOracle Rest APIs](https://dev.to/nexoracle/nexoracle-rest-apis-1m6m)
+- [Unlock the Fundamentals: 5 Free Computer Science Courses to Elevate Your Programming Journey](https://dev.to/getvm/unlock-the-fundamentals-5-free-computer-science-courses-to-elevate-your-programming-journey-3bob)
+- [Request Management System](https://dev.to/notreal001/request-management-system-6md)
 <!-- BLOG-POST-LIST:END -->
 
