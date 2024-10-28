@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS Patterns](https://dev.to/railsdesigner/tailwind-css-patterns-1dma)
-- [AWS Storage - Part 3: Instance Store and EBS](https://dev.to/hulk-pham/aws-storage-part-3-instance-store-and-ebs-3be)
-- [Transform any MeteorJS App to a PWA in 2024](https://dev.to/meteor/transform-any-meteorjs-app-to-a-pwa-in-2024-15ll)
-- [How to Deploying Django on Vercel](https://dev.to/petrjoe/how-to-deploying-django-on-vercel-43ek)
+- [Navigating Bias and Variance: Lessons from Learning to Ride a Bike](https://dev.to/sreeni5018/navigating-bias-and-variance-lessons-from-learning-to-ride-a-bike-e36)
+- [Protecting Your Digital Life: A Simple Guide to Mobile App Security for Everyday Users and Small Business Owners](https://dev.to/igbikisimewari/protecting-your-digital-life-a-simple-guide-to-mobile-app-security-for-everyday-users-and-small-business-owners-4f05)
+- [What are your goals for the week 44, HacktoberFest final days?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-44-hacktoberfest-final-days-1gm)
+- [Análise de dados de tráfego aéreo em tempo real com Spark Structured Streaming e Apache Kafka](https://dev.to/geazi_anc/analise-de-dados-de-trafego-aereo-em-tempo-real-com-spark-structured-streaming-e-apache-kafka-2db5)
 <!-- BLOG-POST-LIST:END -->
 
