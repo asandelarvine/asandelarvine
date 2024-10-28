@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [aasd](https://dev.to/khalifalmahmud0/aasd-3de7)
-- [How I Cloned Myself with LLMs to Work 24/7 – Even While I Sleep](https://dev.to/docsgpt/how-i-cloned-myself-with-llms-to-work-247-even-while-i-sleep-23nn)
-- [5 costly mistakes when deploying Docker containers &lpar;and how to dodge them like a pro 😎&rpar;](https://dev.to/wimadev/5-costly-mistakes-when-deploying-docker-containers-and-how-to-dodge-them-like-a-pro--3kbm)
-- [Top 8 Web development projects for beginners](https://dev.to/balrajola/top-8-web-development-projects-for-beginners-40no)
+- [Week 2 in DevOps: From Linux Basics to Shell Scripting](https://dev.to/amandeol063/week-2-in-devops-from-linux-basics-to-shell-scripting-27m9)
+- [Understanding File Permissions in Linux: A Comprehensive Guide](https://dev.to/ibeh_joseph_003000c1fc029/understanding-file-permissions-in-linux-a-comprehensive-guide-2dlg)
+- [Fixing the “Get Started” Link in Event-Blend-Frontend](https://dev.to/inder4code/fixing-the-get-started-link-in-event-blend-frontend-24fb)
+- [Using the Service Layer Pattern in PHP for Clean and Scalable Code](https://dev.to/otutukingsley/using-the-service-layer-pattern-in-php-for-clean-and-scalable-code-15fb)
 <!-- BLOG-POST-LIST:END -->
 
