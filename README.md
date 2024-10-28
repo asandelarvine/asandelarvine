@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a Signup Feature in Login Page &lpar;Issue #96&rpar;](https://dev.to/inderpreet/adding-a-signup-feature-in-login-page-issue-96-1ep9)
-- [&quot;Computer Use&quot; for UAT](https://dev.to/sualeh/computer-use-for-uat-4dkd)
-- [Spring Boot Annotations](https://dev.to/dhan/spring-boot-annotations-5hk0)
-- [How I Built a Music Lyric Finder App with CopilotKit and Next.js: A Step-by-Step Guide](https://dev.to/anni/how-i-built-a-music-lyric-finder-app-with-copilotkit-and-nextjs-a-step-by-step-guide-4k14)
+- [My Journey into Software Engineering](https://dev.to/sababat/my-journey-into-software-engineering-13f0)
+- [My Fourth and Final Contribution to Hacktoberfest](https://dev.to/kannav02/my-fourth-and-final-contribution-to-hacktoberfest-1g8d)
+- [React Js Part 5 : Lifecycle Methods and Hooks in React](https://dev.to/kyydev/lifecycle-methods-and-hooks-in-react-aga)
+- [Setting Up an Ubuntu Dev Environment with Multipass and VS Code Remote-SSH](https://dev.to/dpuig/setting-up-an-ubuntu-dev-environment-with-multipass-and-vs-code-remote-ssh-1709)
 <!-- BLOG-POST-LIST:END -->
 
