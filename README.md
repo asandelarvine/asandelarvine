@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Dependency Injection in NestJS: Advanced Patterns for Scalable Applications](https://dev.to/virajlakshitha/mastering-dependency-injection-in-nestjs-advanced-patterns-for-scalable-applications-43e8)
-- [Why I use ESP8266-07s not ESP8266-01S for simple programmable controller](https://dev.to/zhangzhuyue/why-i-use-esp8266-07s-not-esp8266-01s-for-simple-programmable-controller-40bo)
-- [From Code to Chat: Help Me Deploy My Node.js &amp; React App for Free!](https://dev.to/sababat/from-code-to-chat-help-me-deploy-my-nodejs-react-app-for-free-3hj1)
-- [KonNiche - Skill-Based Feedback to Improve Your Projects](https://dev.to/schemetastic/konniche-skill-based-feedback-to-improve-your-projects-1ejb)
+- [Motion Fitness: A gamified fitness community to keep you fit](https://dev.to/paul_freeman/motion-fitness-a-gamified-fitness-community-to-keep-you-fit-32m)
+- [Combining Object-Oriented and Functional Programming in Large Projects](https://dev.to/adityabhuyan/combining-object-oriented-and-functional-programming-in-large-projects-6m2)
+- [10 JavaScript projects I have completed as a beginner!](https://dev.to/sababat/10-javascript-projects-i-have-completed-as-a-beginner-570c)
+- [Hacktoberfest Recap](https://dev.to/aamfahim/hacktoberfest-recap-4im1)
 <!-- BLOG-POST-LIST:END -->
 
