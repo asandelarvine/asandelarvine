@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Abstraction: Decoding Abstract Classes in Java](https://dev.to/arshisaxena26/abstraction-decoding-abstract-classes-in-java-3mng)
-- [Getting Started with Apache Kafka: A Backend Engineer&#39;s Perspective](https://dev.to/laithalenooz/getting-started-with-apache-kafka-a-backend-engineers-perspective-1ci)
-- [Weekly Indie Log #20](https://dev.to/hirvesh/weekly-indie-log-20-h0k)
-- [Build Inventory Software [Rust / Cursive]](https://dev.to/bekbrace/build-inventory-software-rust-cursive-5bc5)
+- [5 Easy Steps to Secure your Server](https://dev.to/code42cate/five-easy-steps-to-secure-your-server-43p4)
+- [Beyond boring 🙄 markdown rendering with LLMs ✨ and React ⚛️](https://dev.to/fibonacid/beyond-boring-markdown-rendering-with-llms-and-react-2gb3)
+- [Introduction to Software Testing](https://dev.to/kavindya_perera/introduction-to-software-testing-1a79)
+- [How to start Next.js with express](https://dev.to/ccsunnydev/how-to-start-nextjs-with-express-5ah5)
 <!-- BLOG-POST-LIST:END -->
 
