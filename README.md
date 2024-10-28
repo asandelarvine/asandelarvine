@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Grid](https://dev.to/darkworldprogrammer/css-grid-7eo)
-- [Day 49. Organization card](https://dev.to/kiolk/day-49-organization-card-h1n)
-- [Simple Context Menu in iOS by Tap](https://dev.to/ssharyk/simple-context-menu-in-ios-by-tap-15kh)
-- [Kubernetes Service Accounts: Guide](https://dev.to/cicube/kubernetes-service-accounts-guide-586n)
+- [Fixing numerous android build errors](https://dev.to/vpalania/career-progression-development-to-leadership-feat-siddharth-parakh-g45)
+- [Ensuring Consistent Node.js Versions Across Your Team](https://dev.to/feliperocha93/ensuring-consistent-nodejs-versions-across-your-team-364d)
+- [E2E testing in React with Cypress](https://dev.to/griseduardo/e2e-testing-in-react-with-cypress-p82)
+- [Testes e2e em React com Cypress](https://dev.to/griseduardo/testes-e2e-em-react-com-cypress-n9d)
 <!-- BLOG-POST-LIST:END -->
 
