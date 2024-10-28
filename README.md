@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2 in DevOps: From Linux Basics to Shell Scripting](https://dev.to/amandeol063/week-2-in-devops-from-linux-basics-to-shell-scripting-27m9)
-- [Understanding File Permissions in Linux: A Comprehensive Guide](https://dev.to/ibeh_joseph_003000c1fc029/understanding-file-permissions-in-linux-a-comprehensive-guide-2dlg)
-- [Fixing the “Get Started” Link in Event-Blend-Frontend](https://dev.to/inder4code/fixing-the-get-started-link-in-event-blend-frontend-24fb)
-- [Using the Service Layer Pattern in PHP for Clean and Scalable Code](https://dev.to/otutukingsley/using-the-service-layer-pattern-in-php-for-clean-and-scalable-code-15fb)
+- [Regex for a Java Software Engineer](https://dev.to/joaomarques/regex-for-a-java-software-engineer-3np4)
+- [My First CI/CD Pipeline](https://dev.to/fazly_fathhy/my-first-cicd-pipeline-1c2d)
+- [Secure Data Transmission: Easily Implementing Encrypted API Responses](https://dev.to/explinks/secure-data-transmission-easily-implementing-encrypted-api-responses-1pil)
+- [Brave New World: Environments](https://dev.to/oscarsbytes/brave-new-world-environments-4a0k)
 <!-- BLOG-POST-LIST:END -->
 
