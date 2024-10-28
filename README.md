@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Microservices Architecture: The Power of API Design, Automation, and Management](https://dev.to/getambassador2024/optimizing-microservices-architecture-the-power-of-api-design-automation-and-management-3nlb)
-- [Mastering CI/CD Pipeline: The Key to Streamlined Software Delivery](https://dev.to/getambassador2024/mastering-cicd-pipeline-the-key-to-streamlined-software-delivery-29n4)
-- [Rise Collective: Women Entrepreneur community using Wix Studio &lpar;Smart Mentor Matching&rpar; &amp; More.](https://dev.to/karan_shah_2cbf1785a701a7/rise-collective-women-entrepreneur-community-using-wix-studio-smart-mentor-matching-more-5ed0)
-- [Custom EHR Software Development: A Comprehensive Guide for Healthcare Providers](https://dev.to/evelynwyatt/custom-ehr-software-development-a-comprehensive-guide-for-healthcare-providers-42cj)
+- [Django API Project Setup](https://dev.to/saad4software/django-api-project-setup-2g5a)
+- [Latio Team: A community for tech hackers building togheter](https://dev.to/fredoist/latio-team-a-community-for-tech-hackers-building-togheter-289p)
+- [Advanced Error Handling in Spring Boot Microservices](https://dev.to/bishwapoudel/advanced-error-handling-in-spring-boot-microservices-3ca3)
+- [Demystifying Kubernetes: A Beginner&#39;s Guide to Containers and Orchestration](https://dev.to/chris-dev/demystifying-kubernetes-a-beginners-guide-to-containers-and-orchestration-12nl)
 <!-- BLOG-POST-LIST:END -->
 
