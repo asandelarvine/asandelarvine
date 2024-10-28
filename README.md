@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing numerous android build errors](https://dev.to/vpalania/career-progression-development-to-leadership-feat-siddharth-parakh-g45)
-- [Ensuring Consistent Node.js Versions Across Your Team](https://dev.to/feliperocha93/ensuring-consistent-nodejs-versions-across-your-team-364d)
-- [E2E testing in React with Cypress](https://dev.to/griseduardo/e2e-testing-in-react-with-cypress-p82)
-- [Testes e2e em React com Cypress](https://dev.to/griseduardo/testes-e2e-em-react-com-cypress-n9d)
+- [💡Never forget again: Build a scheduled reminder app in &lt;50 lines of Python using REST and Postgres](https://dev.to/dbos/never-forget-again-build-a-scheduled-reminder-app-in-50-lines-of-python-using-rest-and-postgres-4hk9)
+- [100+ FREE Resources Every Web Developer Must Try](https://dev.to/safdarali/100-free-resources-every-web-developer-must-try-21p5)
+- [Cómo Crear un Framework de JavaScript desde Cero - La Historia de Brisa Build](https://dev.to/bezael/como-crear-un-framework-de-javascript-desde-cero-la-historia-de-brisa-build-28im)
+- [How to Build a Gay Dating App with ZEGOCLOUD](https://dev.to/stephen568hub/how-to-build-a-gay-dating-app-with-zegocloud-66d)
 <!-- BLOG-POST-LIST:END -->
 
