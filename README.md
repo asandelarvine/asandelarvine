@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Scroll Progress Bar in Next.js/React](https://dev.to/designly/how-to-create-a-scroll-progress-bar-in-nextjsreact-3oj7)
-- [Mild Introduction to Modern Sequence Processing. Part 1: Looking into Recurrent Neural Networks](https://dev.to/fively/mild-introduction-to-modern-sequence-processing-part-1-looking-into-recurrent-neural-networks-5g8)
-- [Perfectly Qualified Yet Rejected? Here’s Why It Happens and What to Change](https://dev.to/chocoscoding/perfectly-qualified-yet-rejected-heres-why-it-happens-and-what-to-change-4g6b)
-- [How to you collect data about your app?](https://dev.to/rudyryk/how-to-you-collect-data-about-your-app-20k4)
+- [Adding a Signup Feature in Login Page &lpar;Issue #96&rpar;](https://dev.to/inderpreet/adding-a-signup-feature-in-login-page-issue-96-1ep9)
+- [&quot;Computer Use&quot; for UAT](https://dev.to/sualeh/computer-use-for-uat-4dkd)
+- [Spring Boot Annotations](https://dev.to/dhan/spring-boot-annotations-5hk0)
+- [How I Built a Music Lyric Finder App with CopilotKit and Next.js: A Step-by-Step Guide](https://dev.to/anni/how-i-built-a-music-lyric-finder-app-with-copilotkit-and-nextjs-a-step-by-step-guide-4k14)
 <!-- BLOG-POST-LIST:END -->
 
