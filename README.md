@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django API Project Setup](https://dev.to/saad4software/django-api-project-setup-2g5a)
-- [Latio Team: A community for tech hackers building togheter](https://dev.to/fredoist/latio-team-a-community-for-tech-hackers-building-togheter-289p)
-- [Advanced Error Handling in Spring Boot Microservices](https://dev.to/bishwapoudel/advanced-error-handling-in-spring-boot-microservices-3ca3)
-- [Demystifying Kubernetes: A Beginner&#39;s Guide to Containers and Orchestration](https://dev.to/chris-dev/demystifying-kubernetes-a-beginners-guide-to-containers-and-orchestration-12nl)
+- [Abstraction: Decoding Abstract Classes in Java](https://dev.to/arshisaxena26/abstraction-decoding-abstract-classes-in-java-3mng)
+- [Getting Started with Apache Kafka: A Backend Engineer&#39;s Perspective](https://dev.to/laithalenooz/getting-started-with-apache-kafka-a-backend-engineers-perspective-1ci)
+- [Weekly Indie Log #20](https://dev.to/hirvesh/weekly-indie-log-20-h0k)
+- [Build Inventory Software [Rust / Cursive]](https://dev.to/bekbrace/build-inventory-software-rust-cursive-5bc5)
 <!-- BLOG-POST-LIST:END -->
 
