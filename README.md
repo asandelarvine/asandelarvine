@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regex for a Java Software Engineer](https://dev.to/joaomarques/regex-for-a-java-software-engineer-3np4)
-- [My First CI/CD Pipeline](https://dev.to/fazly_fathhy/my-first-cicd-pipeline-1c2d)
-- [Secure Data Transmission: Easily Implementing Encrypted API Responses](https://dev.to/explinks/secure-data-transmission-easily-implementing-encrypted-api-responses-1pil)
-- [Brave New World: Environments](https://dev.to/oscarsbytes/brave-new-world-environments-4a0k)
+- [AIM Weekly 28 Oct 2024](https://dev.to/tspannhw/aim-weekly-28-oct-2024-339l)
+- [Choosing the Right Tech Stack: A Developer&#39;s Decision-Making Guide](https://dev.to/encore/choosing-the-right-tech-stack-a-developers-decision-making-guide-5gkd)
+- [Using the ternary expression in the Sempare Template Engine for Delphi](https://dev.to/sempare/using-the-ternary-expression-in-the-sempare-template-engine-for-delphi-2ne)
+- [[Unity] Access to the PostProcess from script](https://dev.to/m2048/unity-access-to-the-postprocess-from-script-35g9)
 <!-- BLOG-POST-LIST:END -->
 
