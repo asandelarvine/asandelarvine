@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Software Engineering](https://dev.to/sababat/my-journey-into-software-engineering-13f0)
-- [My Fourth and Final Contribution to Hacktoberfest](https://dev.to/kannav02/my-fourth-and-final-contribution-to-hacktoberfest-1g8d)
-- [React Js Part 5 : Lifecycle Methods and Hooks in React](https://dev.to/kyydev/lifecycle-methods-and-hooks-in-react-aga)
-- [Setting Up an Ubuntu Dev Environment with Multipass and VS Code Remote-SSH](https://dev.to/dpuig/setting-up-an-ubuntu-dev-environment-with-multipass-and-vs-code-remote-ssh-1709)
+- [Mastering Dependency Injection in NestJS: Advanced Patterns for Scalable Applications](https://dev.to/virajlakshitha/mastering-dependency-injection-in-nestjs-advanced-patterns-for-scalable-applications-43e8)
+- [Why I use ESP8266-07s not ESP8266-01S for simple programmable controller](https://dev.to/zhangzhuyue/why-i-use-esp8266-07s-not-esp8266-01s-for-simple-programmable-controller-40bo)
+- [From Code to Chat: Help Me Deploy My Node.js &amp; React App for Free!](https://dev.to/sababat/from-code-to-chat-help-me-deploy-my-nodejs-react-app-for-free-3hj1)
+- [KonNiche - Skill-Based Feedback to Improve Your Projects](https://dev.to/schemetastic/konniche-skill-based-feedback-to-improve-your-projects-1ejb)
 <!-- BLOG-POST-LIST:END -->
 
