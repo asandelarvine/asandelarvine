@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Just Made GitHub Copilot Even Smarter: Just Drag And Drop File](https://dev.to/thandhla/vs-code-just-made-github-copilot-even-smarter-just-drag-and-drop-file-2icd)
-- [Implementing Thread Safe Singleton Pattern in C#](https://dev.to/abdullahal_mahmud/implementing-thread-safe-singleton-pattern-in-c-22b5)
-- [Découvrez Cursor : L’éditeur de code qui booste votre productivité !](https://dev.to/guillaumesere/decouvrez-cursor-lediteur-de-code-qui-booste-votre-productivite--fje)
-- [What is VPC in AWS? A Beginner’s Guide](https://dev.to/jayesh0706/what-is-vpc-in-aws-a-beginners-guide-45k1)
+- [aasd](https://dev.to/khalifalmahmud0/aasd-3de7)
+- [How I Cloned Myself with LLMs to Work 24/7 – Even While I Sleep](https://dev.to/docsgpt/how-i-cloned-myself-with-llms-to-work-247-even-while-i-sleep-23nn)
+- [5 costly mistakes when deploying Docker containers &lpar;and how to dodge them like a pro 😎&rpar;](https://dev.to/wimadev/5-costly-mistakes-when-deploying-docker-containers-and-how-to-dodge-them-like-a-pro--3kbm)
+- [Top 8 Web development projects for beginners](https://dev.to/balrajola/top-8-web-development-projects-for-beginners-40no)
 <!-- BLOG-POST-LIST:END -->
 
