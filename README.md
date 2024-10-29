@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [useReducer and how it is different from useState](https://dev.to/adaobilynda/usereducer-and-how-it-is-different-from-usestate-5ac5)
-- [Go sync.Cond, the Most Overlooked Sync Mechanism](https://dev.to/func25/go-synccond-the-most-overlooked-sync-mechanism-1fgd)
-- [Code Smarter, Not Harder: 10 Must-Have AI Websites for Developers in 2024](https://dev.to/zafaryaqoobask/code-smarter-not-harder-10-must-have-ai-websites-for-developers-in-2024-1fc4)
-- [this is going to be a title](https://dev.to/lucaschitolina/this-is-going-to-be-a-title-13p7)
+- [Type Utilities - JavaScript Challenges](https://dev.to/mitchell_cheng/type-utilities-javascript-challenges-5c6i)
+- [How to create a tiktok-style page generator using pure CSS / JavaScript](https://dev.to/herezone/how-to-create-a-tiktok-style-page-generator-using-pure-css-javascript-5e0)
+- [Unveiling the Backbone of YouTube Live Streaming: A Deep Dive into YouTube’s Architecture and Real-Time Video Processing](https://dev.to/wittedtech-by-harshit/unveiling-the-backbone-of-youtube-live-streaming-a-deep-dive-into-youtubes-architecture-and-real-time-video-processing-f6j)
+- [Render, Heroku, or Vercel: Which One Should You Choose for Your Next Project? 🚀](https://dev.to/sababat/render-heroku-or-vercel-which-one-should-you-choose-for-your-next-project-23gg)
 <!-- BLOG-POST-LIST:END -->
 
