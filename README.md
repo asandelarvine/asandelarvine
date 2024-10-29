@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Motion Scape With GSAP](https://dev.to/shinnthant_jr/motion-scape-2m1g)
-- [Amazing experience with Hacktoberfest 💻😍](https://dev.to/pragyanandasaho/amazing-experience-with-hacktoberfest-20)
-- [Day 22: Distributed Training in Large Language Models](https://dev.to/nareshnishad/day-22-distributed-training-in-large-language-models-4bg1)
-- [Llama 3.1 Nemotron 70B - Quirks and Features](https://dev.to/maximsaplin/llama-31-nemotron-70b-quirks-and-features-4nbg)
+- [The future of SAP Hybris developers: Key skills, technologies to focus and career possibilities](https://dev.to/peachyiiy/the-future-of-sap-hybris-developers-key-skills-technologies-to-focus-and-career-possibilities-1nij)
+- [How to Learn DSA &lpar;Data Structures and Algorithms&rpar;? – Complete Guide](https://dev.to/kamal_nayan_f079357e989b0/how-to-learn-dsa-data-structures-and-algorithms-complete-guide-26h2)
+- [Learning to Touch Type: Week 3](https://dev.to/ayak22/learning-to-touch-type-week-3-5fbp)
+- [The Evolution of React Interviews: Moving Beyond Class Components in 2024](https://dev.to/pizucoder/the-evolution-of-react-interviews-moving-beyond-class-components-in-2024-3584)
 <!-- BLOG-POST-LIST:END -->
 
