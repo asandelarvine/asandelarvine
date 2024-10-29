@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Parameter Management at Scale: How Multi-Region Configurations Saved My Application](https://dev.to/aws-builders/parameter-management-at-scale-how-multi-region-configurations-saved-my-application-2o59)
-- [Advanced Containerization Concepts: A Guide to Best Practices &lpar;1&rpar;](https://dev.to/sosocrypto/advanced-containerization-concepts-a-guide-to-best-practices-1-23a5)
-- [Streamlining Python Development: Integrating Black and Flake8 with VSCode and Pre-Commit Hooks](https://dev.to/fadingna/streamlining-python-development-integrating-black-and-flake8-with-vscode-and-pre-commit-hooks-57jj)
-- [Best Tool for Query anything with SQL](https://dev.to/pareekplatform/best-tool-for-query-anything-with-sql-3lpi)
+- [Query a CSV File According to Specified Conditions #eg67](https://dev.to/esproc_spl/query-a-csv-file-according-to-specified-conditions-eg67-41d8)
+- [Powerful Examples of Destructuring Assignments in JavaScript](https://dev.to/shieldstring/powerful-examples-of-destructuring-assignments-in-javascript-2epk)
+- [The 5 Best Color Palette Generator Websites in 2024⚡️](https://dev.to/priyankdeep78/the-5-best-color-palette-generator-websites-in-2024-13nd)
+- [Greedy Algorithm Problems in Data Structures and Algorithms &lpar;DSA&rpar;](https://dev.to/nozibul_islam_113b1d5334f/greedy-algorithm-problems-in-data-structures-and-algorithms-dsa-5djm)
 <!-- BLOG-POST-LIST:END -->
 
