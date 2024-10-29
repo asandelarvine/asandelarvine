@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O&#39;zgaruvchiga nom berish va qiymat berish](https://dev.to/muhammadyusuf_xotamo/ozgaruvchiga-nom-berish-va-qiymat-berish-4hl5)
-- [Webdev &amp; AI Weekly News](https://dev.to/dev007777/webdev-ai-weekly-news-39c9)
-- [How to Encrypt a USB drive Using Cryptsetup with LUKS on Linux](https://dev.to/thetanweerali/how-to-encrypt-a-usb-drive-using-cryptsetup-with-luks-on-linux-4blf)
-- [Type casting](https://dev.to/sanjar777/type-casting-3l88)
+- [Essential SQL Database Security Practices to Protect Your Data](https://dev.to/mdarifulhaque/essential-sql-database-security-practices-to-protect-your-data-3a9m)
+- [Arithmetic Operators in Python](https://dev.to/jobreadyprogrammer/arithmetic-operators-in-python-3njg)
+- [One Level of Abstraction: The Key to Clean Functions](https://dev.to/56_kode/one-level-of-abstraction-the-key-to-clean-functions-2ekb)
+- [Congrats to the Wix Studio Challenge: Community Edition Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-community-edition-winner-57jo)
 <!-- BLOG-POST-LIST:END -->
 
