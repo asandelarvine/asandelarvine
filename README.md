@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ukraine Conflict Update: Key Advances, Political Responses, and Humanitarian Crisis](https://dev.to/snapnews/ukraine-conflict-update-key-advances-political-responses-and-humanitarian-crisis-45mi)
-- [AI in Space Exploration](https://dev.to/arbisoftcompany/ai-in-space-exploration-34k6)
-- [Setting Up a Developer&#39;s Playground: Most Important Tools That Every Starter Should Have](https://dev.to/okoye_ndidiamaka_5e3b7d30/setting-up-a-developers-playground-most-important-tools-that-every-starter-should-have-2g94)
-- [Unlocking Marketing Success: How AI is Transforming Strategies and Boosting ROI](https://dev.to/snapnews/unlocking-marketing-success-how-ai-is-transforming-strategies-and-boosting-roi-41li)
+- [Groovy for Jenkins Pipelines: The Complete Guide](https://dev.to/i_am_vesh/groovy-for-jenkins-pipelines-the-complete-guide-2cee)
+- [Software Engineering Metrics: Demystifying the Numbers That Matter](https://dev.to/devactivity-app/software-engineering-metrics-demystifying-the-numbers-that-matter-p0e)
+- [契約を Aleph Zero Testnet に展開する &lpar;開発者ガイド&rpar;](https://dev.to/ajtech0001/qi-yue-wo-aleph-zero-testnet-nizhan-kai-suru-kai-fa-zhe-gaido-1lig)
+- [Mastering the Ansible Fetch Module: Effortless File Retrieval](https://dev.to/labex/mastering-the-ansible-fetch-module-effortless-file-retrieval-33gk)
 <!-- BLOG-POST-LIST:END -->
 
