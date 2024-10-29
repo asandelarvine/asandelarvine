@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Query a CSV File According to Specified Conditions #eg67](https://dev.to/esproc_spl/query-a-csv-file-according-to-specified-conditions-eg67-41d8)
-- [Powerful Examples of Destructuring Assignments in JavaScript](https://dev.to/shieldstring/powerful-examples-of-destructuring-assignments-in-javascript-2epk)
-- [The 5 Best Color Palette Generator Websites in 2024⚡️](https://dev.to/priyankdeep78/the-5-best-color-palette-generator-websites-in-2024-13nd)
-- [Greedy Algorithm Problems in Data Structures and Algorithms &lpar;DSA&rpar;](https://dev.to/nozibul_islam_113b1d5334f/greedy-algorithm-problems-in-data-structures-and-algorithms-dsa-5djm)
+- [🚀 Motion Scape With GSAP](https://dev.to/shinnthant_jr/motion-scape-2m1g)
+- [Amazing experience with Hacktoberfest 💻😍](https://dev.to/pragyanandasaho/amazing-experience-with-hacktoberfest-20)
+- [Day 22: Distributed Training in Large Language Models](https://dev.to/nareshnishad/day-22-distributed-training-in-large-language-models-4bg1)
+- [Llama 3.1 Nemotron 70B - Quirks and Features](https://dev.to/maximsaplin/llama-31-nemotron-70b-quirks-and-features-4nbg)
 <!-- BLOG-POST-LIST:END -->
 
