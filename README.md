@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of SAP Hybris developers: Key skills, technologies to focus and career possibilities](https://dev.to/peachyiiy/the-future-of-sap-hybris-developers-key-skills-technologies-to-focus-and-career-possibilities-1nij)
-- [How to Learn DSA &lpar;Data Structures and Algorithms&rpar;? – Complete Guide](https://dev.to/kamal_nayan_f079357e989b0/how-to-learn-dsa-data-structures-and-algorithms-complete-guide-26h2)
-- [Learning to Touch Type: Week 3](https://dev.to/ayak22/learning-to-touch-type-week-3-5fbp)
-- [The Evolution of React Interviews: Moving Beyond Class Components in 2024](https://dev.to/pizucoder/the-evolution-of-react-interviews-moving-beyond-class-components-in-2024-3584)
+- [Ukraine Conflict Update: Key Advances, Political Responses, and Humanitarian Crisis](https://dev.to/snapnews/ukraine-conflict-update-key-advances-political-responses-and-humanitarian-crisis-45mi)
+- [AI in Space Exploration](https://dev.to/arbisoftcompany/ai-in-space-exploration-34k6)
+- [Setting Up a Developer&#39;s Playground: Most Important Tools That Every Starter Should Have](https://dev.to/okoye_ndidiamaka_5e3b7d30/setting-up-a-developers-playground-most-important-tools-that-every-starter-should-have-2g94)
+- [Unlocking Marketing Success: How AI is Transforming Strategies and Boosting ROI](https://dev.to/snapnews/unlocking-marketing-success-how-ai-is-transforming-strategies-and-boosting-roi-41li)
 <!-- BLOG-POST-LIST:END -->
 
