@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨💥 Top 5 Trending Open-source LLM Tools &amp; Frameworks You Must Know About ✨🚀](https://dev.to/guybuildingai/top-5-trending-open-source-llm-tools-frameworks-you-must-know-about-1fk7)
-- [Functions in JS](https://dev.to/basil-tech-star/functions-in-js-3oi9)
-- [Choosing Between Next.js and the MERN Stack: A Simple Guide](https://dev.to/vjygour/choosing-between-nextjs-and-the-mern-stack-a-simple-guide-4abp)
-- [Full-Stack Development in a Hybrid Cloud World: Tools and Techniques](https://dev.to/javeria59364390/full-stack-development-in-a-hybrid-cloud-world-tools-and-techniques-1m7)
+- [Everything You Need To Know About CSS Grid Layout](https://dev.to/safdarali/everything-you-need-to-know-about-css-grid-layout-2b1l)
+- [Mastering runCatching in Kotlin: How to Avoid Coroutine Cancellation Issues](https://dev.to/1noshishi/mastering-runcatching-in-kotlin-how-to-avoid-coroutine-cancellation-issues-5go2)
+- [Introducing implicit contexts in LogTape 0.7.0](https://dev.to/hongminhee/introducing-implicit-contexts-in-logtape-070-57fi)
+- [Managing State in React with useRef](https://dev.to/arefin6/managing-state-in-react-with-useref-1aol)
 <!-- BLOG-POST-LIST:END -->
 
