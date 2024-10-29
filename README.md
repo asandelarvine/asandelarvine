@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need To Know About CSS Grid Layout](https://dev.to/safdarali/everything-you-need-to-know-about-css-grid-layout-2b1l)
-- [Mastering runCatching in Kotlin: How to Avoid Coroutine Cancellation Issues](https://dev.to/1noshishi/mastering-runcatching-in-kotlin-how-to-avoid-coroutine-cancellation-issues-5go2)
-- [Introducing implicit contexts in LogTape 0.7.0](https://dev.to/hongminhee/introducing-implicit-contexts-in-logtape-070-57fi)
-- [Managing State in React with useRef](https://dev.to/arefin6/managing-state-in-react-with-useref-1aol)
+- [Day 6: Rust TUI Chat Application - Mastering Terminal User Interfaces](https://dev.to/trish_07/day-6-rust-tui-chat-application-mastering-terminal-user-interfaces-fk)
+- [Introduction to Mongo Database](https://dev.to/madgan95/introduction-to-mongo-database-6a2)
+- [The Irony of Static Typing in Dynamic Languages](https://dev.to/aminehorseman/the-irony-of-static-typing-in-dynamic-languages-31g1)
+- [🌟 About Me](https://dev.to/mahsaran/about-me-5dn4)
 <!-- BLOG-POST-LIST:END -->
 
