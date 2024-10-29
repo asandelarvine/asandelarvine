@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential SQL Database Security Practices to Protect Your Data](https://dev.to/mdarifulhaque/essential-sql-database-security-practices-to-protect-your-data-3a9m)
-- [Arithmetic Operators in Python](https://dev.to/jobreadyprogrammer/arithmetic-operators-in-python-3njg)
-- [One Level of Abstraction: The Key to Clean Functions](https://dev.to/56_kode/one-level-of-abstraction-the-key-to-clean-functions-2ekb)
-- [Congrats to the Wix Studio Challenge: Community Edition Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-community-edition-winner-57jo)
+- [Automating MongoDB Atlas Trigger Log Downloads Beyond the GUI and CLI Limitations](https://dev.to/josmanperez/automating-mongodb-atlas-trigger-log-downloads-beyond-the-gui-and-cli-limitations-2nel)
+- [Accessible components: Pagination](https://dev.to/micaavigliano/accessible-components-pagination-58c2)
+- [Learn CSS Properly](https://dev.to/nabir14/learn-css-properly-1k4f)
+- [Web APIs](https://dev.to/kanhaiyabanjara/web-apis-2ceb)
 <!-- BLOG-POST-LIST:END -->
 
