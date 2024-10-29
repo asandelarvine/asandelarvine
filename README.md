@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Groovy for Jenkins Pipelines: The Complete Guide](https://dev.to/i_am_vesh/groovy-for-jenkins-pipelines-the-complete-guide-2cee)
-- [Software Engineering Metrics: Demystifying the Numbers That Matter](https://dev.to/devactivity-app/software-engineering-metrics-demystifying-the-numbers-that-matter-p0e)
-- [契約を Aleph Zero Testnet に展開する &lpar;開発者ガイド&rpar;](https://dev.to/ajtech0001/qi-yue-wo-aleph-zero-testnet-nizhan-kai-suru-kai-fa-zhe-gaido-1lig)
-- [Mastering the Ansible Fetch Module: Effortless File Retrieval](https://dev.to/labex/mastering-the-ansible-fetch-module-effortless-file-retrieval-33gk)
+- [🚨💥 Top 5 Trending Open-source LLM Tools &amp; Frameworks You Must Know About ✨🚀](https://dev.to/guybuildingai/top-5-trending-open-source-llm-tools-frameworks-you-must-know-about-1fk7)
+- [Functions in JS](https://dev.to/basil-tech-star/functions-in-js-3oi9)
+- [Choosing Between Next.js and the MERN Stack: A Simple Guide](https://dev.to/vjygour/choosing-between-nextjs-and-the-mern-stack-a-simple-guide-4abp)
+- [Full-Stack Development in a Hybrid Cloud World: Tools and Techniques](https://dev.to/javeria59364390/full-stack-development-in-a-hybrid-cloud-world-tools-and-techniques-1m7)
 <!-- BLOG-POST-LIST:END -->
 
