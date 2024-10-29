@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Rust TUI Chat Application - Mastering Terminal User Interfaces](https://dev.to/trish_07/day-6-rust-tui-chat-application-mastering-terminal-user-interfaces-fk)
-- [Introduction to Mongo Database](https://dev.to/madgan95/introduction-to-mongo-database-6a2)
-- [The Irony of Static Typing in Dynamic Languages](https://dev.to/aminehorseman/the-irony-of-static-typing-in-dynamic-languages-31g1)
-- [🌟 About Me](https://dev.to/mahsaran/about-me-5dn4)
+- [Welcoming More Girls to Computer Science in Middle School](https://dev.to/jenlooper/welcoming-more-girls-to-computer-science-in-middle-school-4bng)
+- [Basic Autocomplete Without JavaScript using Datalist](https://dev.to/railsdesigner/basic-autocomplete-without-javascript-using-datalist-1ld)
+- [Simplifying CSS animations with the display and size properties](https://dev.to/logrocket/simplifying-css-animations-with-the-display-and-size-properties-3953)
+- [Spooky fonts for October &lpar;updated&rpar;](https://dev.to/paul_freeman/spooky-fonts-for-october-updated-1ddi)
 <!-- BLOG-POST-LIST:END -->
 
