@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating MongoDB Atlas Trigger Log Downloads Beyond the GUI and CLI Limitations](https://dev.to/josmanperez/automating-mongodb-atlas-trigger-log-downloads-beyond-the-gui-and-cli-limitations-2nel)
-- [Accessible components: Pagination](https://dev.to/micaavigliano/accessible-components-pagination-58c2)
-- [Learn CSS Properly](https://dev.to/nabir14/learn-css-properly-1k4f)
-- [Web APIs](https://dev.to/kanhaiyabanjara/web-apis-2ceb)
+- [Sending Transactional Emails with Transmitly &lpar;C#&rpar;](https://dev.to/jeremy_tly/sending-transactional-emails-with-transmitly-c-ede)
+- [How to use managed identity and role-based access control to provide security and storage for a new company app .](https://dev.to/oluoma_stella/how-to-use-managed-identity-and-role-based-access-control-to-provide-security-and-storage-for-a-new-company-app--4g4k)
+- [5 Open-Source Projects That Will Transform ⚡️ Your AI Workflow 💻](https://dev.to/fast/5-open-source-projects-that-will-transform-your-ai-workflow-190g)
+- [100+ Free PHP Resources Every Developer Must Try in 2024!](https://dev.to/navneet_verma/100-free-php-resources-every-developer-must-try-in-2024-5ann)
 <!-- BLOG-POST-LIST:END -->
 
