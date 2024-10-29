@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcoming More Girls to Computer Science in Middle School](https://dev.to/jenlooper/welcoming-more-girls-to-computer-science-in-middle-school-4bng)
-- [Basic Autocomplete Without JavaScript using Datalist](https://dev.to/railsdesigner/basic-autocomplete-without-javascript-using-datalist-1ld)
-- [Simplifying CSS animations with the display and size properties](https://dev.to/logrocket/simplifying-css-animations-with-the-display-and-size-properties-3953)
-- [Spooky fonts for October &lpar;updated&rpar;](https://dev.to/paul_freeman/spooky-fonts-for-october-updated-1ddi)
+- [O&#39;zgaruvchiga nom berish va qiymat berish](https://dev.to/muhammadyusuf_xotamo/ozgaruvchiga-nom-berish-va-qiymat-berish-4hl5)
+- [Webdev &amp; AI Weekly News](https://dev.to/dev007777/webdev-ai-weekly-news-39c9)
+- [How to Encrypt a USB drive Using Cryptsetup with LUKS on Linux](https://dev.to/thetanweerali/how-to-encrypt-a-usb-drive-using-cryptsetup-with-luks-on-linux-4blf)
+- [Type casting](https://dev.to/sanjar777/type-casting-3l88)
 <!-- BLOG-POST-LIST:END -->
 
