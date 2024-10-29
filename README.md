@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💡Never forget again: Build a scheduled reminder app in &lt;50 lines of Python using REST and Postgres](https://dev.to/dbos/never-forget-again-build-a-scheduled-reminder-app-in-50-lines-of-python-using-rest-and-postgres-4hk9)
-- [100+ FREE Resources Every Web Developer Must Try](https://dev.to/safdarali/100-free-resources-every-web-developer-must-try-21p5)
-- [Cómo Crear un Framework de JavaScript desde Cero - La Historia de Brisa Build](https://dev.to/bezael/como-crear-un-framework-de-javascript-desde-cero-la-historia-de-brisa-build-28im)
-- [How to Build a Gay Dating App with ZEGOCLOUD](https://dev.to/stephen568hub/how-to-build-a-gay-dating-app-with-zegocloud-66d)
+- [useReducer and how it is different from useState](https://dev.to/adaobilynda/usereducer-and-how-it-is-different-from-usestate-5ac5)
+- [Go sync.Cond, the Most Overlooked Sync Mechanism](https://dev.to/func25/go-synccond-the-most-overlooked-sync-mechanism-1fgd)
+- [Code Smarter, Not Harder: 10 Must-Have AI Websites for Developers in 2024](https://dev.to/zafaryaqoobask/code-smarter-not-harder-10-must-have-ai-websites-for-developers-in-2024-1fc4)
+- [this is going to be a title](https://dev.to/lucaschitolina/this-is-going-to-be-a-title-13p7)
 <!-- BLOG-POST-LIST:END -->
 
