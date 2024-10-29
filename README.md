@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Chain of Responsibility Design Pattern in Backend Development](https://dev.to/syridit118/understanding-the-chain-of-responsibility-design-pattern-in-backend-development-p2f)
-- [The Art of Planning: When Excitement Meets Reality 🎨](https://dev.to/muskan025/the-art-of-planning-when-excitement-meets-reality-3i9o)
-- [Accessible Tech Solutions for Mental Health: Bridging the Gap](https://dev.to/arbisoftcompany/accessible-tech-solutions-for-mental-health-bridging-the-gap-1ink)
-- [The 6 Stages of the Node.js Event Loop](https://dev.to/muthuraja_r/the-6-stages-of-the-nodejs-event-loop-4b3d)
+- [Parameter Management at Scale: How Multi-Region Configurations Saved My Application](https://dev.to/aws-builders/parameter-management-at-scale-how-multi-region-configurations-saved-my-application-2o59)
+- [Advanced Containerization Concepts: A Guide to Best Practices &lpar;1&rpar;](https://dev.to/sosocrypto/advanced-containerization-concepts-a-guide-to-best-practices-1-23a5)
+- [Streamlining Python Development: Integrating Black and Flake8 with VSCode and Pre-Commit Hooks](https://dev.to/fadingna/streamlining-python-development-integrating-black-and-flake8-with-vscode-and-pre-commit-hooks-57jj)
+- [Best Tool for Query anything with SQL](https://dev.to/pareekplatform/best-tool-for-query-anything-with-sql-3lpi)
 <!-- BLOG-POST-LIST:END -->
 
