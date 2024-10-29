@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [19 Frontend Resources Every Web Developer Must Bookmark](https://dev.to/safdarali/19-frontend-resources-every-web-developer-must-bookmark-513c)
 - [Important React Tips for Writing Cleaner, Efficient Code for Beginners](https://dev.to/mukhilpadmanabhan/important-react-tips-for-writing-cleaner-efficient-code-for-beginners-1idc)
 - [More storage for media : organize files using ChatGPT : part 1, data preparation](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-part-1-data-preparation-2p6c)
 - [Why Broken Links Are Costing You Brand Deals &lpar;And How to Fix It&rpar;](https://dev.to/tbdevs/why-broken-links-are-costing-you-brand-deals-and-how-to-fix-it-205o)
-- [Breaking the CORS Puzzle: What Every Developer Must Know for Interviews](https://dev.to/adithya_a_508b89c3885ee40/breaking-the-cors-puzzle-what-every-developer-must-know-for-interviews-45fe)
 <!-- BLOG-POST-LIST:END -->
 
