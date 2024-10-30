@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Steps to Organize and Maintain Your Python Codebase for Beginners](https://dev.to/olgabraginskaya/12-steps-to-organize-and-maintain-your-python-codebase-for-beginners-18bb)
-- [Demystifying Design Patterns](https://dev.to/joelbonetr/demystifying-design-patterns-45m3)
-- [Exploring Flyte: A Scalable, Extensible Workflow Orchestration Platform and Its Alternatives](https://dev.to/vanshajpoonia/exploring-flyte-a-scalable-extensible-workflow-orchestration-platform-and-its-alternatives-1i73)
-- [Interactive Code Editor Tutorial: Managing Dynamic Content with react-codemirror](https://dev.to/mrsupercraft/interactive-code-editor-tutorial-managing-dynamic-content-with-react-codemirror-3i7g)
+- [Surprising benefit of GraphQL for long-term maintainability](https://dev.to/asmyshlyaev177/surprising-benefit-of-graphql-for-long-term-maintainability-5c2p)
+- [Exploring SuperSim: Simulating Interoperability on the Superchain with OP Stack](https://dev.to/modenetworkl2/exploring-supersim-simulating-interoperability-on-the-superchain-with-op-stack-15pc)
+- [The best React select component libraries](https://dev.to/logrocket/the-best-react-select-component-libraries-b5b)
+- [Comprehensive List of Trie-Based Questions](https://dev.to/nozibul_islam_113b1d5334f/comprehensive-list-of-trie-based-questions-d70)
 <!-- BLOG-POST-LIST:END -->
 
