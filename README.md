@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 🐘👀 Postgres Monitoring Tools 🧰 and Best Practices in 2024 🔝](https://dev.to/bytebase/top-postgres-monitoring-tools-and-best-practices-in-2024-25nf)
-- [What is Agile methodology? &lpar;A beginner’s guide&rpar;](https://dev.to/sonmusui/what-is-agile-methodology-a-beginners-guide-3g8)
-- [Best Practices and Pitfalls in Java Exception Handling ✨](https://dev.to/saurabhkurve/best-practices-and-pitfalls-in-java-exception-handling-37dk)
-- [Abstraction: Abstract Class vs Interface](https://dev.to/arshisaxena26/abstraction-abstract-class-vs-interface-1dak)
+- [🚀Enhance Code Quality with These 5 Static Analysis Tools🔍](https://dev.to/dev_kiran/enhance-code-quality-with-these-5-static-analysis-tools-119m)
+- [Fixing File Renaming Issues in Git: Handling Case Sensitivity and core.ignorecase](https://dev.to/iediong/fixing-file-renaming-issues-in-git-handling-case-sensitivity-and-coreignorecase-1mf6)
+- [Prisma + Postgres](https://dev.to/awalias/prisma-postgres-4o09)
+- [Effective Visual Regression Testing for Developers: Vitest vs Playwright](https://dev.to/mayashavin/effective-visual-regression-testing-for-developers-vitest-vs-playwright-3la)
 <!-- BLOG-POST-LIST:END -->
 
