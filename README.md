@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding &quot;working-directory&quot; in GitHub Actions](https://dev.to/cicube/understanding-working-directory-in-github-actions-5glh)
+- [How to Use ENV variables in GitHub Actions](https://dev.to/cicube/how-to-use-env-variables-in-github-actions-4j3o)
 - [Contribution? Another one? 🥳](https://dev.to/this-is-learning/contribution-another-one-5gb9)
 - [Maxun: Open Source No-Code Web Data Extraction Platform⚡️](https://dev.to/karishmashukla/maxun-open-source-no-code-web-data-extraction-platform-4316)
-- [SOLID: Single Responsibility Principle&lpar;SRP&rpar; in C#](https://dev.to/extinctsion/solid-single-responsibility-principlesrp-in-c-34d7)
-- [🚀Enhance Code Quality with These 5 Static Analysis Tools🔍](https://dev.to/dev_kiran/enhance-code-quality-with-these-5-static-analysis-tools-119m)
 <!-- BLOG-POST-LIST:END -->
 
