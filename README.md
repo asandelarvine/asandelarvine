@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian &lpar;Sid|Unstable&rpar; with Gnome 47 on X11](https://dev.to/jeansen/debian-with-gnome-47-4391)
-- [How to deploy an Apache web app using Oracle Cloud](https://dev.to/farisdurrani/how-to-deploy-an-apache-web-app-using-oracle-cloud-1lm5)
-- [Binary editors in Webacus](https://dev.to/valentiniljaz/binary-editors-in-webacus-5079)
-- [Customizing Spring Boot Starter Templates](https://dev.to/igventurelli/customizing-spring-boot-starter-templates-5198)
+- [Data Fetching in React](https://dev.to/shieldstring/data-fetching-in-react-3oag)
+- [🔥 10 AI-driven packages for RPA and Intelligent Automation 🤖 🧠](https://dev.to/santhoshvijayabaskar/10-ai-driven-packages-for-rpa-and-intelligent-automation-1l14)
+- [Introduction to Jest: Unit Testing, Mocking, and Asynchronous Code](https://dev.to/st0ik/introduction-to-jest-unit-testing-mocking-and-asynchronous-code-485a)
+- [Understanding Dependency Injection in Spring Boot](https://dev.to/igventurelli/understanding-dependency-injection-in-spring-boot-472k)
 <!-- BLOG-POST-LIST:END -->
 
