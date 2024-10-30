@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Automation is Transforming DevSecOps for Better Security](https://dev.to/enna/how-automation-is-transforming-devsecops-for-better-security-1co)
-- [Cross-Post Project Update: Regex, Bug Fixes, and More Regex!](https://dev.to/jesse_chong_3bcc276c4f950/cross-post-project-update-regex-bug-fixes-and-more-regex-5p)
-- [My Thoughts on The Clean Coder Book](https://dev.to/aminrashidbeigi/my-thoughts-on-the-clean-coder-book-5ano)
-- [BashBlaze Day 2: Building an Interactive File and Directory Explorer &lpar;Part-1&rpar;](https://dev.to/hanzalawebdev/bashblaze-day-2-building-an-interactive-file-and-directory-explorer-part-1-17ch)
+- [Brisa Framework Presentation - October 2024](https://dev.to/aralroca/brisa-framework-presentation-octuber-2024-38k2)
+- [Capturing the perfect &lpar;radio&rpar; wave](https://dev.to/denladeside/capturing-the-perfect-radio-wave-16cl)
+- [UI/Text Blur Issues with Electron-Based Applications &lpar;e.g., Spotify, Discord&rpar; on Wayland](https://dev.to/nishan_bista/uitext-blur-issues-with-electron-based-applications-eg-spotify-discord-on-wayland-546c)
+- [Jetpack Compose Optimization - Making Your App Run Like a Well-Oiled Machine](https://dev.to/xheghun/jetpack-compose-optimization-making-your-app-run-like-a-well-oiled-machine-12lo)
 <!-- BLOG-POST-LIST:END -->
 
