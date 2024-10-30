@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brisa Framework Presentation - October 2024](https://dev.to/aralroca/brisa-framework-presentation-octuber-2024-38k2)
-- [Capturing the perfect &lpar;radio&rpar; wave](https://dev.to/denladeside/capturing-the-perfect-radio-wave-16cl)
-- [UI/Text Blur Issues with Electron-Based Applications &lpar;e.g., Spotify, Discord&rpar; on Wayland](https://dev.to/nishan_bista/uitext-blur-issues-with-electron-based-applications-eg-spotify-discord-on-wayland-546c)
-- [Jetpack Compose Optimization - Making Your App Run Like a Well-Oiled Machine](https://dev.to/xheghun/jetpack-compose-optimization-making-your-app-run-like-a-well-oiled-machine-12lo)
+- [4th and final - Hacktoberfest.](https://dev.to/krinskumar/4th-and-final-hacktoberfest-4cpk)
+- [How to Enable Microsoft Copilot in Windows 11?](https://dev.to/winsides/how-to-enable-microsoft-copilot-in-windows-11-42gi)
+- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-6d)
+- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-4kcp)
 <!-- BLOG-POST-LIST:END -->
 
