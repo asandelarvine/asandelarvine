@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Scrape Login-Protected Websites with Selenium &lpar;Step by Step Guide&rpar;](https://dev.to/dumay_sacha/how-to-scrape-login-protected-websites-with-selenium-step-by-step-guide-9cm)
 - [Understanding &quot;working-directory&quot; in GitHub Actions](https://dev.to/cicube/understanding-working-directory-in-github-actions-5glh)
 - [How to Use ENV variables in GitHub Actions](https://dev.to/cicube/how-to-use-env-variables-in-github-actions-4j3o)
-- [Contribution? Another one? 🥳](https://dev.to/this-is-learning/contribution-another-one-5gb9)
-- [Maxun: Open Source No-Code Web Data Extraction Platform⚡️](https://dev.to/karishmashukla/maxun-open-source-no-code-web-data-extraction-platform-4316)
+- [Beginner&#39;s Guide to Understanding CDN](https://dev.to/carrie_luo1/beginners-guide-to-understanding-cdn-2j2h)
 <!-- BLOG-POST-LIST:END -->
 
