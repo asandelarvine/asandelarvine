@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS vs Encore.ts: Choosing the Right Framework for Your TypeScript Microservices](https://dev.to/encore/nestjs-vs-encorets-choosing-the-right-framework-for-your-typescript-microservices-1g61)
-- [AI Tools Every Mobile Developer Needs to Use](https://dev.to/anna-boiko/ai-tools-every-mobile-developer-needs-to-use-35b1)
-- [Coding, Collaborating, and Contributing: My Hacktoberfest Journey](https://dev.to/niteshoak/coding-collaborating-and-contributing-my-hacktoberfest-journey-4i6)
-- [Best Way to Replace Duplicated Request Parameters in Spring Boot](https://dev.to/mammadyahyayev/best-way-to-replace-duplicated-request-parameters-in-spring-boot-4188)
+- [🚀 Your Daily Crypto Job Digest For 30 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-30-october-1m7p)
+- [Image Upload to Strapi via REST API with Next.js and Postman](https://dev.to/strapi/image-upload-to-strapi-via-rest-api-with-nextjs-and-postman-521o)
+- [Mastering React Checkbox: A Complete Guide](https://dev.to/codeparrot/mastering-react-checkbox-a-complete-guide-3b41)
+- [How Decentralized Apps Can Make Everyday Tasks Easy](https://dev.to/tbdevs/how-decentralized-apps-can-make-everyday-tasks-easy-o51)
 <!-- BLOG-POST-LIST:END -->
 
