@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Contribution? Another one? 🥳](https://dev.to/this-is-learning/contribution-another-one-5gb9)
+- [Maxun: Open Source No-Code Web Data Extraction Platform⚡️](https://dev.to/karishmashukla/maxun-open-source-no-code-web-data-extraction-platform-4316)
+- [SOLID: Single Responsibility Principle&lpar;SRP&rpar; in C#](https://dev.to/extinctsion/solid-single-responsibility-principlesrp-in-c-34d7)
 - [🚀Enhance Code Quality with These 5 Static Analysis Tools🔍](https://dev.to/dev_kiran/enhance-code-quality-with-these-5-static-analysis-tools-119m)
-- [Fixing File Renaming Issues in Git: Handling Case Sensitivity and core.ignorecase](https://dev.to/iediong/fixing-file-renaming-issues-in-git-handling-case-sensitivity-and-coreignorecase-1mf6)
-- [Prisma + Postgres](https://dev.to/awalias/prisma-postgres-4o09)
-- [Effective Visual Regression Testing for Developers: Vitest vs Playwright](https://dev.to/mayashavin/effective-visual-regression-testing-for-developers-vitest-vs-playwright-3la)
 <!-- BLOG-POST-LIST:END -->
 
