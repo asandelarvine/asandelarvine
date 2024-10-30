@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File Cleaner Pro - A Python Learning Project for File Management](https://dev.to/conquerym/file-cleaner-pro-a-python-learning-project-for-file-management-56im)
-- [An Innovative Way to Create REST APIs](https://dev.to/apilover/an-innovative-way-to-create-rest-apis-4a3i)
-- [How I Got Over My Fear of Launching by Building a Simple Tool in a Few Hours](https://dev.to/arno_le_mans/how-i-got-over-my-fear-of-launching-by-building-a-simple-tool-in-a-few-hours-296a)
-- [My Hacktoberfest 2024 Journey: Learning, Growing, and Giving Back 🎉](https://dev.to/extinctsion/my-hacktoberfest-2024-journey-learning-growing-and-giving-back-olm)
+- [🦸 OSS Heroes: Pilcrow, a student who built Lucia - auth library with 9.5k stars on GitHub ⭐ 🇯🇵](https://dev.to/wasp/oss-heroes-pilcrow-a-student-who-built-lucia-auth-library-with-95k-stars-on-github-524l)
+- [Top 5 Advertising Tools for Boosting Your Marketing Strategy](https://dev.to/anna-boiko/top-5-advertising-tools-for-boosting-your-marketing-strategy-n8a)
+- [7 Benefits of Using a Gantt Chart for Marketing Campaigns](https://dev.to/thomasy0ung/7-benefits-of-using-a-gantt-chart-for-marketing-campaigns-3gdn)
+- [5 Best Real-Time ETL Tools](https://dev.to/techsourabh/5-best-real-time-etl-tools-8mb)
 <!-- BLOG-POST-LIST:END -->
 
