@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 30 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-30-october-1m7p)
-- [Image Upload to Strapi via REST API with Next.js and Postman](https://dev.to/strapi/image-upload-to-strapi-via-rest-api-with-nextjs-and-postman-521o)
-- [Mastering React Checkbox: A Complete Guide](https://dev.to/codeparrot/mastering-react-checkbox-a-complete-guide-3b41)
-- [How Decentralized Apps Can Make Everyday Tasks Easy](https://dev.to/tbdevs/how-decentralized-apps-can-make-everyday-tasks-easy-o51)
+- [🧠 How to Learn Unfamiliar Codebases](https://dev.to/sammytran/how-to-learn-unfamiliar-codebases-1mi1)
+- [first project using BASIC lang](https://dev.to/amitbartwl/first-project-using-basic-lang-3856)
+- [JSON Web Tokens &lpar;JWTs&rpar;: A Comprehensive Guide](https://dev.to/igventurelli/json-web-tokens-jwts-a-comprehensive-guide-3bhf)
+- [Creating value and coding with a purpose - lessons by The Lean Startup](https://dev.to/1solation/creating-value-and-coding-with-a-purpose-lessons-by-the-lean-startup-532h)
 <!-- BLOG-POST-LIST:END -->
 
