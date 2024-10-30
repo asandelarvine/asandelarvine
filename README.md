@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Login-Protected Websites with Selenium &lpar;Step by Step Guide&rpar;](https://dev.to/dumay_sacha/how-to-scrape-login-protected-websites-with-selenium-step-by-step-guide-9cm)
-- [Understanding &quot;working-directory&quot; in GitHub Actions](https://dev.to/cicube/understanding-working-directory-in-github-actions-5glh)
-- [How to Use ENV variables in GitHub Actions](https://dev.to/cicube/how-to-use-env-variables-in-github-actions-4j3o)
-- [Beginner&#39;s Guide to Understanding CDN](https://dev.to/carrie_luo1/beginners-guide-to-understanding-cdn-2j2h)
+- [File Cleaner Pro - A Python Learning Project for File Management](https://dev.to/conquerym/file-cleaner-pro-a-python-learning-project-for-file-management-56im)
+- [An Innovative Way to Create REST APIs](https://dev.to/apilover/an-innovative-way-to-create-rest-apis-4a3i)
+- [How I Got Over My Fear of Launching by Building a Simple Tool in a Few Hours](https://dev.to/arno_le_mans/how-i-got-over-my-fear-of-launching-by-building-a-simple-tool-in-a-few-hours-296a)
+- [My Hacktoberfest 2024 Journey: Learning, Growing, and Giving Back 🎉](https://dev.to/extinctsion/my-hacktoberfest-2024-journey-learning-growing-and-giving-back-olm)
 <!-- BLOG-POST-LIST:END -->
 
