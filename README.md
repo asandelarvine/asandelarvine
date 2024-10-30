@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing REST APIs with OAuth2 and JWT: A Comprehensive Guide](https://dev.to/igventurelli/securing-rest-apis-with-oauth2-and-jwt-a-comprehensive-guide-4b8n)
-- [Mastering Algorithms: Unlock the Power of Data Structures and Numerical Computing](https://dev.to/getvm/mastering-algorithms-unlock-the-power-of-data-structures-and-numerical-computing-53ak)
-- [OAuth2: An In-Depth Overview and How It Works](https://dev.to/igventurelli/oauth2-an-in-depth-overview-and-how-it-works-i0g)
-- [Deleting Android database from the command line](https://dev.to/theplebdev/deleting-android-database-from-the-command-line-bkp)
+- [Debian &lpar;Sid|Unstable&rpar; with Gnome 47 on X11](https://dev.to/jeansen/debian-with-gnome-47-4391)
+- [How to deploy an Apache web app using Oracle Cloud](https://dev.to/farisdurrani/how-to-deploy-an-apache-web-app-using-oracle-cloud-1lm5)
+- [Binary editors in Webacus](https://dev.to/valentiniljaz/binary-editors-in-webacus-5079)
+- [Customizing Spring Boot Starter Templates](https://dev.to/igventurelli/customizing-spring-boot-starter-templates-5198)
 <!-- BLOG-POST-LIST:END -->
 
