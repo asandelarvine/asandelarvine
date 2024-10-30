@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How to Learn Unfamiliar Codebases](https://dev.to/sammytran/how-to-learn-unfamiliar-codebases-1mi1)
-- [first project using BASIC lang](https://dev.to/amitbartwl/first-project-using-basic-lang-3856)
-- [JSON Web Tokens &lpar;JWTs&rpar;: A Comprehensive Guide](https://dev.to/igventurelli/json-web-tokens-jwts-a-comprehensive-guide-3bhf)
-- [Creating value and coding with a purpose - lessons by The Lean Startup](https://dev.to/1solation/creating-value-and-coding-with-a-purpose-lessons-by-the-lean-startup-532h)
+- [12 Steps to Organize and Maintain Your Python Codebase for Beginners](https://dev.to/olgabraginskaya/12-steps-to-organize-and-maintain-your-python-codebase-for-beginners-18bb)
+- [Demystifying Design Patterns](https://dev.to/joelbonetr/demystifying-design-patterns-45m3)
+- [Exploring Flyte: A Scalable, Extensible Workflow Orchestration Platform and Its Alternatives](https://dev.to/vanshajpoonia/exploring-flyte-a-scalable-extensible-workflow-orchestration-platform-and-its-alternatives-1i73)
+- [Interactive Code Editor Tutorial: Managing Dynamic Content with react-codemirror](https://dev.to/mrsupercraft/interactive-code-editor-tutorial-managing-dynamic-content-with-react-codemirror-3i7g)
 <!-- BLOG-POST-LIST:END -->
 
