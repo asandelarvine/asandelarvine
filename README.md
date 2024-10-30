@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [#85 — Calculate Using Adjacent Row/Interval When Data of The Same Group Is Continuous &lpar;Link Relative Ratio And YOY&rpar;](https://dev.to/judith677/85-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-continuous-link-relative-ratio-and-yoy-4n0g)
 - [Hacktoberfest 2024 Experience of a Java Developer and a Contributor](https://dev.to/dhanush9952/hacktoberfest-2024-experience-of-a-java-developer-and-a-contributor-3jmi)
 - [Beyond LLMs: My Introductory Experience with AI Agents](https://dev.to/blackgirlbytes/beyond-llms-my-introductory-experience-with-ai-agents-1fjb)
 - [Why is understanding the Software Development Life Cycle &lpar;SDLC&rpar; important?](https://dev.to/wdp/why-is-understanding-the-software-development-life-cycle-sdlc-important-3l7g)
-- [Win Up to $1200 in the InfinityAI Halloween Challenge 🎃](https://dev.to/sojinsamuel/win-up-to-1200-in-the-infinityai-halloween-challenge-2hgi)
 <!-- BLOG-POST-LIST:END -->
 
