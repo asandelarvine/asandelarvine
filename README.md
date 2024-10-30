@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🦸 OSS Heroes: Pilcrow, a student who built Lucia - auth library with 9.5k stars on GitHub ⭐ 🇯🇵](https://dev.to/wasp/oss-heroes-pilcrow-a-student-who-built-lucia-auth-library-with-95k-stars-on-github-524l)
-- [Top 5 Advertising Tools for Boosting Your Marketing Strategy](https://dev.to/anna-boiko/top-5-advertising-tools-for-boosting-your-marketing-strategy-n8a)
-- [7 Benefits of Using a Gantt Chart for Marketing Campaigns](https://dev.to/thomasy0ung/7-benefits-of-using-a-gantt-chart-for-marketing-campaigns-3gdn)
-- [5 Best Real-Time ETL Tools](https://dev.to/techsourabh/5-best-real-time-etl-tools-8mb)
+- [NestJS vs Encore.ts: Choosing the Right Framework for Your TypeScript Microservices](https://dev.to/encore/nestjs-vs-encorets-choosing-the-right-framework-for-your-typescript-microservices-1g61)
+- [AI Tools Every Mobile Developer Needs to Use](https://dev.to/anna-boiko/ai-tools-every-mobile-developer-needs-to-use-35b1)
+- [Coding, Collaborating, and Contributing: My Hacktoberfest Journey](https://dev.to/niteshoak/coding-collaborating-and-contributing-my-hacktoberfest-journey-4i6)
+- [Best Way to Replace Duplicated Request Parameters in Spring Boot](https://dev.to/mammadyahyayev/best-way-to-replace-duplicated-request-parameters-in-spring-boot-4188)
 <!-- BLOG-POST-LIST:END -->
 
