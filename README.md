@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Surprising benefit of GraphQL for long-term maintainability](https://dev.to/asmyshlyaev177/surprising-benefit-of-graphql-for-long-term-maintainability-5c2p)
-- [Exploring SuperSim: Simulating Interoperability on the Superchain with OP Stack](https://dev.to/modenetworkl2/exploring-supersim-simulating-interoperability-on-the-superchain-with-op-stack-15pc)
-- [The best React select component libraries](https://dev.to/logrocket/the-best-react-select-component-libraries-b5b)
-- [Comprehensive List of Trie-Based Questions](https://dev.to/nozibul_islam_113b1d5334f/comprehensive-list-of-trie-based-questions-d70)
+- [How Automation is Transforming DevSecOps for Better Security](https://dev.to/enna/how-automation-is-transforming-devsecops-for-better-security-1co)
+- [Cross-Post Project Update: Regex, Bug Fixes, and More Regex!](https://dev.to/jesse_chong_3bcc276c4f950/cross-post-project-update-regex-bug-fixes-and-more-regex-5p)
+- [My Thoughts on The Clean Coder Book](https://dev.to/aminrashidbeigi/my-thoughts-on-the-clean-coder-book-5ano)
+- [BashBlaze Day 2: Building an Interactive File and Directory Explorer &lpar;Part-1&rpar;](https://dev.to/hanzalawebdev/bashblaze-day-2-building-an-interactive-file-and-directory-explorer-part-1-17ch)
 <!-- BLOG-POST-LIST:END -->
 
