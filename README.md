@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2463. Minimum Total Distance Traveled](https://dev.to/mdarifulhaque/2463-minimum-total-distance-traveled-4850)
-- [New Level of Security and Privacy](https://dev.to/fasqon/new-level-of-security-and-privacy-325h)
-- [My Experience with the OSS.GG Hackathon: Diving into Open Source with Twenty, Unkey, and Formbricks](https://dev.to/matin_shaikh_35f05c9baa2b/my-experience-with-the-ossgg-hackathon-diving-into-open-source-with-twenty-unkey-and-formbricks-2l6j)
-- [Custom AWS Cloud Platforms](https://dev.to/cyclops-ui/custom-aws-cloud-platforms-1i94)
+- [A guide to the best email editing tools](https://dev.to/leemeganj/a-guide-to-the-best-email-editing-tools-m8)
+- [10 JavaScript Tricks Every Developer Must Know 🚀](https://dev.to/izabellalbuquerque/10-javascript-tricks-every-developer-must-know-175h)
+- [How to Prepare for Crypto Winter?](https://dev.to/kaankaya/how-to-prepare-for-crypto-winter-49fc)
+- [With your .env, project, and a single Dockerfile, simply run &#39;bash run.sh&#39;.](https://dev.to/andrewkangg/with-your-env-project-and-a-single-dockerfile-simply-run-bash-runsh-3deg)
 <!-- BLOG-POST-LIST:END -->
 
