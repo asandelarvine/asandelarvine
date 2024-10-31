@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphism: Decoding Method Overloading in Java](https://dev.to/arshisaxena26/polymorphism-decoding-method-overloading-in-java-5hko)
-- [Level Up Your GitHub Workflow with devActivity: The Ultimate GitHub Tool for Developers](https://dev.to/devactivity-app/level-up-your-github-workflow-with-devactivity-the-ultimate-github-tool-for-developers-1b8l)
-- [Toggle Dark Mode using DIVLESS Pure CSS](https://dev.to/mardeg/toggle-dark-mode-using-divless-pure-css-2nkl)
-- [Relation operators.](https://dev.to/mahamadjon000/relation-operators-ghe)
+- [Building Interactive Emoji Animations in React ⚛️🎯](https://dev.to/mattlewandowski93/building-interactive-emoji-animations-in-react-4o5c)
+- [Make Planning Poker Fun 🎯](https://dev.to/mattlewandowski93/make-planning-poker-fun-45eh)
+- [Loops in C: A Simple Guide with Examples](https://dev.to/souvikkundu88/loops-in-c-a-simple-guide-with-examples-5hi7)
+- [TIPS FOR BEGINNERS IN ROBLOX STUDIO 😲](https://dev.to/mince/tips-for-beginners-in-roblox-studio-19m4)
 <!-- BLOG-POST-LIST:END -->
 
