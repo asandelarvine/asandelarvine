@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hotwire and Stimulus Tools You Need to Know](https://dev.to/railsdesigner/hotwire-and-stimulus-tools-you-need-to-know-n41)
-- [การใช้ GitLab สำหรับแชร์ Configuration ให้คนในทีม โดยไม่ใช้แชท](https://dev.to/anuchito/kaaraich-gitlab-samhrabaechr-configuration-aihkhnainthiim-odyaimaichaechth-4c21)
-- [How to Leverage Zapier for Marketing Automation: A Complete Guide](https://dev.to/airabbit/how-to-leverage-zapier-for-marketing-automation-a-complete-guide-laa)
-- [A month long code quest: oss.gg hackathon](https://dev.to/deepaprasanna/a-month-long-code-quest-ossgg-hackathon-4cha)
+- [Conjuring Cursed Halloween Tales with Qdrant&#39;s Dark Arts](https://dev.to/sabrinaesaquino/conjuring-cursed-halloween-tales-with-qdrants-dark-arts-3eji)
+- [🚀 Getting Started with AI-Powered Coding Assistants 🚀](https://dev.to/anticoder03/getting-started-with-ai-powered-coding-assistants-3o4o)
+- [5 things I wish I knew as a Web Developer](https://dev.to/safdarali/5-things-i-wish-i-knew-as-a-web-developer-34b7)
+- [Why Does Everyone Run Ancient Postgres Versions?](https://dev.to/neon-postgres/why-does-everyone-run-ancient-postgres-versions-3omd)
 <!-- BLOG-POST-LIST:END -->
 
