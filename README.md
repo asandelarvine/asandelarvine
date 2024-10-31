@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A guide to the best email editing tools](https://dev.to/leemeganj/a-guide-to-the-best-email-editing-tools-m8)
-- [10 JavaScript Tricks Every Developer Must Know 🚀](https://dev.to/izabellalbuquerque/10-javascript-tricks-every-developer-must-know-175h)
-- [How to Prepare for Crypto Winter?](https://dev.to/kaankaya/how-to-prepare-for-crypto-winter-49fc)
-- [With your .env, project, and a single Dockerfile, simply run &#39;bash run.sh&#39;.](https://dev.to/andrewkangg/with-your-env-project-and-a-single-dockerfile-simply-run-bash-runsh-3deg)
+- [Hotwire and Stimulus Tools You Need to Know](https://dev.to/railsdesigner/hotwire-and-stimulus-tools-you-need-to-know-n41)
+- [การใช้ GitLab สำหรับแชร์ Configuration ให้คนในทีม โดยไม่ใช้แชท](https://dev.to/anuchito/kaaraich-gitlab-samhrabaechr-configuration-aihkhnainthiim-odyaimaichaechth-4c21)
+- [How to Leverage Zapier for Marketing Automation: A Complete Guide](https://dev.to/airabbit/how-to-leverage-zapier-for-marketing-automation-a-complete-guide-laa)
+- [A month long code quest: oss.gg hackathon](https://dev.to/deepaprasanna/a-month-long-code-quest-ossgg-hackathon-4cha)
 <!-- BLOG-POST-LIST:END -->
 
