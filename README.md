@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a Kubernetes App &amp; AWS Resources using Crossplane on Kubernetes: Part 2](https://dev.to/meteorops/deploy-a-kubernetes-app-aws-resources-using-crossplane-on-kubernetes-part-2-2m51)
-- [Accessing Resource Files in Spring Boot: A Comprehensive Guide](https://dev.to/igventurelli/accessing-resource-files-in-spring-boot-a-comprehensive-guide-28f2)
-- [moment.js Alternative - Luxon](https://dev.to/virali_vasa_08dde36489ed6/momentjs-alternative-luxon-32m)
-- [Integrating Spring Boot with Third-Party APIs](https://dev.to/igventurelli/integrating-spring-boot-with-third-party-apis-18k)
+- [2463. Minimum Total Distance Traveled](https://dev.to/mdarifulhaque/2463-minimum-total-distance-traveled-4850)
+- [New Level of Security and Privacy](https://dev.to/fasqon/new-level-of-security-and-privacy-325h)
+- [My Experience with the OSS.GG Hackathon: Diving into Open Source with Twenty, Unkey, and Formbricks](https://dev.to/matin_shaikh_35f05c9baa2b/my-experience-with-the-ossgg-hackathon-diving-into-open-source-with-twenty-unkey-and-formbricks-2l6j)
+- [Custom AWS Cloud Platforms](https://dev.to/cyclops-ui/custom-aws-cloud-platforms-1i94)
 <!-- BLOG-POST-LIST:END -->
 
