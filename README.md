@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖🚀 Les frameworks boostés à l&#39;IA pour un dev plus simple et plus puissant ! 🚀🤖](https://dev.to/tom_goureau/les-frameworks-boostes-a-lia-pour-un-dev-plus-simple-et-plus-puissant--30co)
-- [How to use Prisma Postgres 🚀](https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519)
-- [Do I need Multi-Region?](https://dev.to/aws-builders/do-i-need-multi-region-1g81)
-- [Testing the startup time for your Fire OS app](https://dev.to/amazonappdev/testing-the-startup-time-for-your-fire-os-app-41me)
+- [Fixing Rounded Borders for Blog Previews: A Journey Through CSS and HTML](https://dev.to/msaluja/fixing-rounded-borders-for-blog-previews-a-journey-through-css-and-html-f53)
+- [Understand Open Graph &lpar; OG &rpar; in Next Js : A Practical Guide](https://dev.to/danmugh/understand-open-graph-og-in-next-js-a-practical-guide-3ade)
+- [🦫10 Go Tricks Every Go Programmer Needs in Their Toolkit!](https://dev.to/learngo/10-go-tricks-every-go-programmer-needs-in-their-toolkit-3o14)
+- [First Hacktoberfest Experience](https://dev.to/amullagaliev/first-hacktoberfest-experience-n7p)
 <!-- BLOG-POST-LIST:END -->
 
