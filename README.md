@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a WordPress Development Environment with DDEV](https://dev.to/sarahcssiqueira/setting-up-a-wordpress-development-environment-with-ddev-2bia)
-- [Unlocking the Power of README.md: Your Project&#39;s First Impression](https://dev.to/collinzo2022/unlocking-the-power-of-readmemd-your-projects-first-impression-1426)
-- [iFrame biPass](https://dev.to/zia_ur_rehman/iframe-bipass-427m)
-- [The Reasons Why Asbestos Law Firm In 2023 Is The Main Focus Of All People&#39;s Attention. 2023](https://dev.to/chinawave29/the-reasons-why-asbestos-law-firm-in-2023-is-the-main-focus-of-all-peoples-attention-2023-4jke)
+- [🤖🚀 Les frameworks boostés à l&#39;IA pour un dev plus simple et plus puissant ! 🚀🤖](https://dev.to/tom_goureau/les-frameworks-boostes-a-lia-pour-un-dev-plus-simple-et-plus-puissant--30co)
+- [How to use Prisma Postgres 🚀](https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519)
+- [Do I need Multi-Region?](https://dev.to/aws-builders/do-i-need-multi-region-1g81)
+- [Testing the startup time for your Fire OS app](https://dev.to/amazonappdev/testing-the-startup-time-for-your-fire-os-app-41me)
 <!-- BLOG-POST-LIST:END -->
 
