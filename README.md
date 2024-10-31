@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Webpack from Scratch, But in Rust - [3] Using NAPI-RS to Create Node.js Addons](https://dev.to/paradeto/implementing-webpack-from-scratch-but-in-rust-3-using-napi-rs-to-create-nodejs-addons-347h)
 - [Transforme Seu Servidor Local em um Site Público com Ngrok](https://dev.to/alexandrejusten/transforme-seu-servidor-local-em-um-site-publico-com-ngrok-30do)
 - [Unlock the Power of JavaScript Concurrency with Atomics.waitAsync&lpar;&rpar;](https://dev.to/dailysandbox/unlock-the-power-of-javascript-concurrency-with-atomicswaitasync-5e9p)
 - [Solutions for Failing to Create Tenants in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/solutions-for-failing-to-create-tenants-in-apache-dolphinscheduler-592)
-- [🧑‍💻 Build Your Cloud ☁️](https://dev.to/samyfodil/build-your-cloud-2nmm)
 <!-- BLOG-POST-LIST:END -->
 
