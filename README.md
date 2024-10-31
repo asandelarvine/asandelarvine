@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Introduction to CI/CD Pipelines](https://dev.to/debtech/a-comprehensive-introduction-to-cicd-pipelines-4ijc)
-- [10 Best Free AI Tools for Developers 2024](https://dev.to/bothubchat/10-best-free-ai-tools-for-developers-2024-1ecl)
-- [Unravel the Secrets of Distributed Cache in Hadoop](https://dev.to/labex/unravel-the-secrets-of-distributed-cache-in-hadoop-308c)
-- [DNF Cheat Sheet](https://dev.to/tavocoder/mastering-dnf-your-guide-to-package-management-on-fedora-2101)
+- [Silent Guardians: The Invisible Encryption Protecting Your S3 Data](https://dev.to/lindiwe09/silent-guardians-the-invisible-encryption-protecting-your-s3-data-2jjf)
+- [MASTERING LOOPS IN JAVASCRIPT: A COMPREHENSIVE GUIDE](https://dev.to/sopuluchukwu_eze/mastering-loops-in-javascript-a-comprehensive-guide-5del)
+- [Mastering Image Uploads with Multer, Firebase, and Express in Node.js](https://dev.to/alyconr/mastering-image-uploads-with-multer-firebase-and-express-in-nodejs-3glf)
+- [You don&#39;t need a CSS pre-processor](https://dev.to/dperrymorrow/you-dont-need-a-css-pre-processor-nj3)
 <!-- BLOG-POST-LIST:END -->
 
