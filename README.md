@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Silent Guardians: The Invisible Encryption Protecting Your S3 Data](https://dev.to/lindiwe09/silent-guardians-the-invisible-encryption-protecting-your-s3-data-2jjf)
-- [MASTERING LOOPS IN JAVASCRIPT: A COMPREHENSIVE GUIDE](https://dev.to/sopuluchukwu_eze/mastering-loops-in-javascript-a-comprehensive-guide-5del)
-- [Mastering Image Uploads with Multer, Firebase, and Express in Node.js](https://dev.to/alyconr/mastering-image-uploads-with-multer-firebase-and-express-in-nodejs-3glf)
-- [You don&#39;t need a CSS pre-processor](https://dev.to/dperrymorrow/you-dont-need-a-css-pre-processor-nj3)
+- [More storage for media : organize files using ChatGPT](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-31m5)
+- [Open-source NL-based data platform](https://dev.to/mohsenkamrani/open-source-nl-data-platform-2hd3)
+- [The Basics of Rate Limiting: How It Works and How to Use It](https://dev.to/devlawrence/the-basics-of-rate-limiting-how-it-works-and-how-to-use-it-5ccp)
+- [Next.js 15 Authentication](https://dev.to/shieldstring/nextjs-15-authentication-1al7)
 <!-- BLOG-POST-LIST:END -->
 
