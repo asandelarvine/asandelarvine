@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Web Developer - GitHub Spark](https://dev.to/dev007777/ai-web-developer-github-spark-16n8)
-- [#86 — Calculate Using Adjacent Row/Interval When Data of The Same Group Is Discontinuous &lpar;LRR/YOY in The Case of Missing Data&rpar;](https://dev.to/judith677/86-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-discontinuous-lrryoy-in-the-case-of-missing-data-59bi)
-- [Creating a Multilingual Expense Tracker with Tolgee](https://dev.to/mayank_mohapatra/creating-a-multilingual-expense-tracker-with-tolgee-445a)
-- [Working by Day, Hacking by Night: My oss.gg Hackathon Experience](https://dev.to/raju_gangitla_91920e1427f/working-by-day-hacking-by-night-my-ossgg-hackathon-experience-381c)
+- [Automate Codebase Documentation: Ruby Script for Markdown Conversion](https://dev.to/sulmanweb/automate-codebase-documentation-ruby-script-for-markdown-conversion-5000)
+- [Let&#39;s do a Battle Between JavaScript and TypeScript!!](https://dev.to/shafayeat/lets-do-a-battle-between-javascript-and-typescript-peo)
+- [Finding the Right Data Protection Solutions for Your Team’s Needs](https://dev.to/iamjoelfox/finding-the-right-data-protection-solutions-for-your-teams-needs-33g7)
+- [Don’t Overlook Encoding Schemes: Essential Tips for Bypassing Filters in Bug Bounty Hunting](https://dev.to/genius_introuble/dont-overlook-encoding-schemes-essential-tips-for-bypassing-filters-in-bug-bounty-hunting-1pph)
 <!-- BLOG-POST-LIST:END -->
 
