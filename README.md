@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Codebase Documentation: Ruby Script for Markdown Conversion](https://dev.to/sulmanweb/automate-codebase-documentation-ruby-script-for-markdown-conversion-5000)
-- [Let&#39;s do a Battle Between JavaScript and TypeScript!!](https://dev.to/shafayeat/lets-do-a-battle-between-javascript-and-typescript-peo)
-- [Finding the Right Data Protection Solutions for Your Team’s Needs](https://dev.to/iamjoelfox/finding-the-right-data-protection-solutions-for-your-teams-needs-33g7)
-- [Don’t Overlook Encoding Schemes: Essential Tips for Bypassing Filters in Bug Bounty Hunting](https://dev.to/genius_introuble/dont-overlook-encoding-schemes-essential-tips-for-bypassing-filters-in-bug-bounty-hunting-1pph)
+- [The Ultimate Guide to JavaScript Arrays: A Complete Method List &lpar;50 Topics&rpar;](https://dev.to/nozibul_islam_113b1d5334f/the-ultimate-guide-to-javascript-arrays-a-complete-method-list-50-topics-1e66)
+- [Why Set.has&lpar;&rpar; is Faster Than Array.includes&lpar;&rpar; for Finding Items](https://dev.to/programminginblood/why-sethas-is-faster-than-arrayincludes-for-finding-items-4hh)
+- [4. Median of Two Sorted Arrays](https://dev.to/munisekharudavalapati/4-median-of-two-sorted-arrays-4e0n)
+- [My Hacktoberfest 2024 Journey as a Maintainer with Github_Open_World 🌍](https://dev.to/spandan_twts/my-hacktoberfest-2024-journey-as-a-maintainer-with-githubopenworld-6g4)
 <!-- BLOG-POST-LIST:END -->
 
