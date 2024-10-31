@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to JavaScript Arrays: A Complete Method List &lpar;50 Topics&rpar;](https://dev.to/nozibul_islam_113b1d5334f/the-ultimate-guide-to-javascript-arrays-a-complete-method-list-50-topics-1e66)
-- [Why Set.has&lpar;&rpar; is Faster Than Array.includes&lpar;&rpar; for Finding Items](https://dev.to/programminginblood/why-sethas-is-faster-than-arrayincludes-for-finding-items-4hh)
-- [4. Median of Two Sorted Arrays](https://dev.to/munisekharudavalapati/4-median-of-two-sorted-arrays-4e0n)
-- [My Hacktoberfest 2024 Journey as a Maintainer with Github_Open_World 🌍](https://dev.to/spandan_twts/my-hacktoberfest-2024-journey-as-a-maintainer-with-githubopenworld-6g4)
+- [QPS for Beginners](https://dev.to/carrie_luo1/qps-for-beginners-4n8)
+- [What is CDR?](https://dev.to/turingvangisms/what-is-cdr-2bfg)
+- [Solve the 404 problem of downloading special files on the front end &lpar;using the Kestrel server as an example&rpar;](https://dev.to/_dc269df300190ce7ce32/solve-the-404-problem-of-downloading-special-files-on-the-front-end-using-the-kestrel-server-as-an-example-29bc)
+- [Hacktoberfest 2024 Milestone: Growth, Learning, and Open Source Wins ✨🚀](https://dev.to/kartik_badiger_7eb168d4f4/hacktoberfest-2024-milestone-growth-learning-and-open-source-wins-152m)
 <!-- BLOG-POST-LIST:END -->
 
