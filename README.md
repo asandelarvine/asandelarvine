@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌀What’s New in TypeScript: Essential Updates, Advantages, and Tips for 2024](https://dev.to/arghodev/whats-new-in-typescript-essential-updates-advantages-and-tips-for-2024-1lga)
-- [Implementacion de videollamadas multiplataforma iOS - Android](https://dev.to/luis_diaz_19a878119983392/implementacion-de-videollamadas-multiplataforma-ios-android-48l0)
-- [I didn&#39;t know it was this exciting !](https://dev.to/markoeltiger/i-didnt-know-it-was-this-exciting--e42)
-- [I didn&#39;t know it was this exciting !](https://dev.to/markoeltiger/i-didnt-know-it-was-this-exciting--56oj)
+- [Transforme Seu Servidor Local em um Site Público com Ngrok](https://dev.to/alexandrejusten/transforme-seu-servidor-local-em-um-site-publico-com-ngrok-30do)
+- [Unlock the Power of JavaScript Concurrency with Atomics.waitAsync&lpar;&rpar;](https://dev.to/dailysandbox/unlock-the-power-of-javascript-concurrency-with-atomicswaitasync-5e9p)
+- [Solutions for Failing to Create Tenants in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/solutions-for-failing-to-create-tenants-in-apache-dolphinscheduler-592)
+- [🧑‍💻 Build Your Cloud ☁️](https://dev.to/samyfodil/build-your-cloud-2nmm)
 <!-- BLOG-POST-LIST:END -->
 
