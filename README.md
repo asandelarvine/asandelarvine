@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Rounded Borders for Blog Previews: A Journey Through CSS and HTML](https://dev.to/msaluja/fixing-rounded-borders-for-blog-previews-a-journey-through-css-and-html-f53)
-- [Understand Open Graph &lpar; OG &rpar; in Next Js : A Practical Guide](https://dev.to/danmugh/understand-open-graph-og-in-next-js-a-practical-guide-3ade)
-- [🦫10 Go Tricks Every Go Programmer Needs in Their Toolkit!](https://dev.to/learngo/10-go-tricks-every-go-programmer-needs-in-their-toolkit-3o14)
-- [First Hacktoberfest Experience](https://dev.to/amullagaliev/first-hacktoberfest-experience-n7p)
+- [Hands-on with Apache Iceberg &amp; Dremio on Your Laptop within 10 Minutes](https://dev.to/alexmercedcoder/hands-on-with-apache-iceberg-dremio-on-your-laptop-within-10-minutes-2056)
+- [Safaricom Daraja API: Authorization API Guide for Access Tokens](https://dev.to/msnmongare/safaricom-daraja-api-authorization-api-guide-for-access-tokens-2kg1)
+- [The Ultimate Guide to Protecting Your Online Privacy in 2024](https://dev.to/benzellat_djameleddine_3/the-ultimate-guide-to-protecting-your-online-privacy-in-2024-lna)
+- [What is Algorithm](https://dev.to/m__mdy__m/what-is-algorithm-o51)
 <!-- BLOG-POST-LIST:END -->
 
