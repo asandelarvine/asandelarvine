@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Fetching in React](https://dev.to/shieldstring/data-fetching-in-react-3oag)
-- [🔥 10 AI-driven packages for RPA and Intelligent Automation 🤖 🧠](https://dev.to/santhoshvijayabaskar/10-ai-driven-packages-for-rpa-and-intelligent-automation-1l14)
-- [Introduction to Jest: Unit Testing, Mocking, and Asynchronous Code](https://dev.to/st0ik/introduction-to-jest-unit-testing-mocking-and-asynchronous-code-485a)
-- [Understanding Dependency Injection in Spring Boot](https://dev.to/igventurelli/understanding-dependency-injection-in-spring-boot-472k)
+- [🌀What’s New in TypeScript: Essential Updates, Advantages, and Tips for 2024](https://dev.to/arghodev/whats-new-in-typescript-essential-updates-advantages-and-tips-for-2024-1lga)
+- [Implementacion de videollamadas multiplataforma iOS - Android](https://dev.to/luis_diaz_19a878119983392/implementacion-de-videollamadas-multiplataforma-ios-android-48l0)
+- [I didn&#39;t know it was this exciting !](https://dev.to/markoeltiger/i-didnt-know-it-was-this-exciting--e42)
+- [I didn&#39;t know it was this exciting !](https://dev.to/markoeltiger/i-didnt-know-it-was-this-exciting--56oj)
 <!-- BLOG-POST-LIST:END -->
 
