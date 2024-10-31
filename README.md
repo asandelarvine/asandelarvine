@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Interactive Emoji Animations in React ⚛️🎯](https://dev.to/mattlewandowski93/building-interactive-emoji-animations-in-react-4o5c)
-- [Make Planning Poker Fun 🎯](https://dev.to/mattlewandowski93/make-planning-poker-fun-45eh)
-- [Loops in C: A Simple Guide with Examples](https://dev.to/souvikkundu88/loops-in-c-a-simple-guide-with-examples-5hi7)
-- [TIPS FOR BEGINNERS IN ROBLOX STUDIO 😲](https://dev.to/mince/tips-for-beginners-in-roblox-studio-19m4)
+- [Deploy a Kubernetes App &amp; AWS Resources using Crossplane on Kubernetes: Part 2](https://dev.to/meteorops/deploy-a-kubernetes-app-aws-resources-using-crossplane-on-kubernetes-part-2-2m51)
+- [Accessing Resource Files in Spring Boot: A Comprehensive Guide](https://dev.to/igventurelli/accessing-resource-files-in-spring-boot-a-comprehensive-guide-28f2)
+- [moment.js Alternative - Luxon](https://dev.to/virali_vasa_08dde36489ed6/momentjs-alternative-luxon-32m)
+- [Integrating Spring Boot with Third-Party APIs](https://dev.to/igventurelli/integrating-spring-boot-with-third-party-apis-18k)
 <!-- BLOG-POST-LIST:END -->
 
