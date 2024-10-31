@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Split a Huge CSV File into Multiple Smaller CSV Files #eg69](https://dev.to/esproc_spl/split-a-huge-csv-file-into-multiple-smaller-csv-files-eg69-5dcb)
-- [MySQL Numeric Data Types Explained](https://dev.to/dbvismarketing/mysql-numeric-data-types-explained-nim)
-- [Discover, Share, and Explore AI Tools with Thank John](https://dev.to/bitsbard/discover-share-and-explore-ai-tools-with-thank-john-3k6c)
-- [Wall Street X: How I Turned My Finance Obsession Into a Real-World Full-Stack Trading App](https://dev.to/luedev/wall-street-x-how-i-turned-my-finance-obsession-into-a-real-world-full-stack-trading-app-3d4o)
+- [Kraken’s Ink Launch, Vitalik’s “The Verge,” Zyfi’s Token Sale, EIP-7702 Demo, and AA October Insights](https://dev.to/etherspot/krakens-ink-launch-vitaliks-the-verge-zyfis-token-sale-eip-7702-demo-and-aa-october-insights-bcn)
+- [Float vs. Double in Java: Choosing the Right Tool for the Job](https://dev.to/souvikkundu88/float-vs-double-in-java-choosing-the-right-tool-for-the-job-4c9g)
+- [AWS Monitoring - Part 1: AWS CloudWatch](https://dev.to/hulk-pham/aws-monitoring-part-1-aws-cloudwatch-3amh)
+- [Understanding OpenAI’s ChatGPT History Policy: What It Means for Users](https://dev.to/netsqure/understanding-openais-chatgpt-history-policy-what-it-means-for-users-3hd4)
 <!-- BLOG-POST-LIST:END -->
 
