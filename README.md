@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-on with Apache Iceberg &amp; Dremio on Your Laptop within 10 Minutes](https://dev.to/alexmercedcoder/hands-on-with-apache-iceberg-dremio-on-your-laptop-within-10-minutes-2056)
-- [Safaricom Daraja API: Authorization API Guide for Access Tokens](https://dev.to/msnmongare/safaricom-daraja-api-authorization-api-guide-for-access-tokens-2kg1)
-- [The Ultimate Guide to Protecting Your Online Privacy in 2024](https://dev.to/benzellat_djameleddine_3/the-ultimate-guide-to-protecting-your-online-privacy-in-2024-lna)
-- [What is Algorithm](https://dev.to/m__mdy__m/what-is-algorithm-o51)
+- [A Comprehensive Introduction to CI/CD Pipelines](https://dev.to/debtech/a-comprehensive-introduction-to-cicd-pipelines-4ijc)
+- [10 Best Free AI Tools for Developers 2024](https://dev.to/bothubchat/10-best-free-ai-tools-for-developers-2024-1ecl)
+- [Unravel the Secrets of Distributed Cache in Hadoop](https://dev.to/labex/unravel-the-secrets-of-distributed-cache-in-hadoop-308c)
+- [DNF Cheat Sheet](https://dev.to/tavocoder/mastering-dnf-your-guide-to-package-management-on-fedora-2101)
 <!-- BLOG-POST-LIST:END -->
 
