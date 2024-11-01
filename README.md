@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Private Network](https://dev.to/oliviarizona88/virtual-private-network-333f)
-- [Page error 405.](https://dev.to/petrus_vaneeden_3f1cb44f/page-error-405-24g4)
-- [Battle of the Backend: Comparing Microservices Languages for Speed, Performance, and Scalability](https://dev.to/firoj_mujawar/battle-of-the-backend-comparing-microservices-languages-for-speed-performance-and-scalability-4kf0)
-- [Write a Java program to find duplicate elements in an array](https://dev.to/realnamehidden1_61/write-a-java-program-to-find-duplicate-elements-in-an-array-3n6k)
+- [10 Insane Web Design Tools Every Developer Should Know About! 🌟 🔥](https://dev.to/hosseinyazdi/10-insane-web-design-tools-every-developer-should-know-about-40he)
+- [Game Dev Digest — Issue #256 - Horror And More](https://dev.to/gamedevdigest/game-dev-digest-issue-256-horror-and-more-5d0o)
+- [Simplified URL Building and HTTP Requests with Flurl](https://dev.to/juarezasjunior/simplified-url-building-and-http-requests-with-flurl-36cl)
+- [Construção de URLs e Chamadas HTTP Simplificadas com Flurl](https://dev.to/juarezasjunior/construcao-de-urls-e-chamadas-http-simplificadas-com-flurl-2cco)
 <!-- BLOG-POST-LIST:END -->
 
