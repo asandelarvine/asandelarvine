@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 Why I Use Git UIs in My Daily Work and What You Should Know About Them](https://dev.to/matheusmcz/why-i-use-git-uis-in-my-daily-work-and-what-you-should-know-about-them-5ah3)
-- [How to Design, Maintain, and Promote APIs: A Practical Guide for Professionals](https://dev.to/uthman_eli_cd82d29be9e571/how-to-design-maintain-and-promote-apis-a-practical-guide-for-professionals-1iii)
-- [First Blackjack Game](https://dev.to/jtbjewson/first-blackjack-game-1njj)
-- [Optimizing Angular Reactive Forms: Enhancing Performance with Lazy Validation and Async Validators](https://dev.to/this-is-angular/optimizing-angular-reactive-forms-enhancing-performance-with-lazy-validation-and-async-validators-5c40)
+- [TIL: joining with LIKE](https://dev.to/epigene/til-joining-with-like-49c2)
+- [PostgreSQL Query Performance Tuning Tips](https://dev.to/akshay_gupta/postgresql-query-performance-tuning-tips-3aof)
+- [M-Pesa Transaction Status API](https://dev.to/msnmongare/m-pesa-transaction-status-api-1ich)
+- [อัพเดทเวอร์ชั่น Container runtime Colima](https://dev.to/anuchito/aphedthewrchan-container-runtime-colima-46e0)
 <!-- BLOG-POST-LIST:END -->
 
