@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#87 — Merge Data of The Same Group](https://dev.to/judith677/87-merge-data-of-the-same-group-5ap4)
-- [Function prototype - JavaScript Challenges](https://dev.to/mitchell_cheng/function-prototype-javascript-challenges-19eo)
-- [Swarm: El Framework Experimental de OpenAI para Orquestación de Agentes](https://dev.to/carlos_alarcn_4318831566/swarm-el-framework-experimental-de-openai-para-orquestacion-de-agentes-4d9h)
-- [A Yocto Cheatsheet](https://dev.to/lsahn/a-yocto-cheatsheet-3jbf)
+- [How to Validate a File Input with Zod](https://dev.to/drprime01/how-to-validate-a-file-input-with-zod-5739)
+- [Data Analysis and Visualization in Python 📊🐍](https://dev.to/info_generalhazedawn_a3d/data-analysis-and-visualization-in-python-2n1k)
+- [Automating software installations on Linux using Python.](https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611)
+- [Understanding JSONify&lpar;&rpar;, to_dict&lpar;&rpar;, make_response&lpar;&rpar;, and SerializerMixin in Flask](https://dev.to/the1kimk/understanding-jsonify-todict-makeresponse-and-serializermixin-in-flask-4d7c)
 <!-- BLOG-POST-LIST:END -->
 
