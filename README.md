@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackoberfest: Part 2](https://dev.to/add00_3/hackoberfest-part-2-3mbc)
-- [Navigating the Full-Stack Path](https://dev.to/kareem_itani_e51fee03fb7a/navigating-the-full-stack-path-1i5n)
-- [Dipping Into a Java Project](https://dev.to/udayrana/dipping-into-a-java-project-3jop)
-- [Free component libraries for your next Laravel application &lpar;part one&rpar;](https://dev.to/varzoeaa/free-component-libraries-for-your-next-laravel-application-part-one-37ae)
+- [Are LLMs Still Lost in the Middle?](https://dev.to/trustgraph/are-llms-still-lost-in-the-middle-52k0)
+- [Get thread dump of Java container running on JRE Docker image](https://dev.to/tranthe/get-thread-dump-of-java-container-running-on-jre-docker-image-39lk)
+- [Hackoberfest: Part 4](https://dev.to/add00_3/hackoberfest-part-4-2gh1)
+- [Optimizing C++ Memory Management with a Custom Memory Pool](https://dev.to/pigeoncodeur/optimizing-c-memory-management-with-a-custom-memory-pool-1o3b)
 <!-- BLOG-POST-LIST:END -->
 
