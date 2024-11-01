@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contri.Buzz - Celebrate your open source contributors](https://dev.to/hemanth004/contribuzz-celebrate-your-open-source-contributors-1ahl)
-- [🎉 The key evolution of the Easy Model package is here with v1.0.8 🎉](https://dev.to/mmramadan496/the-key-evolution-of-the-easy-model-package-is-here-with-v108-51c9)
-- [Mastering Python’s __name__ and __main__: Understanding Script Execution and Module Imports](https://dev.to/pawandeore/mastering-pythons-name-and-main-understanding-script-execution-and-module-imports-266g)
-- [My Coding Journey: Building Confidence One Day at a Time](https://dev.to/coding_chronicles/my-coding-journey-building-confidence-one-day-at-a-time-3cf9)
+- [Mastering APIs in JavaScript: From Basics to Async/Await](https://dev.to/imrankhan17/mastering-apis-in-javascript-from-basics-to-asyncawait-6mi)
+- [Why Virtual DOM: Render and Performance](https://dev.to/sonaykara/why-virtual-dom-faster-rendering-and-performance-1cjh)
+- [Pythonic Time Capsule: Must-Know Features from Each Version](https://dev.to/cquark7/pythonic-time-capsule-must-know-features-from-each-version-1795)
+- [SQL - Dia 7](https://dev.to/technonotes/sql-day-7-8hj)
 <!-- BLOG-POST-LIST:END -->
 
