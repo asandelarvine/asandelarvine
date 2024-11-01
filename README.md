@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Checking Constraint Violations in Smart Contracts Deep Storage](https://dev.to/smartmuv/checking-constraint-violations-in-smart-contracts-deep-storage-3jik)
-- [npm vs npx - What&#39;s the difference?](https://dev.to/hamachooo25/npm-vs-npx-whats-the-difference-4dhp)
-- [npmとnpxの違い](https://dev.to/hamachooo25/npmtonpxnowei-i-2cif)
-- [Implementing Distributed Caching with Redis in Azure Functions](https://dev.to/mbrennan376/implementing-distributed-caching-with-redis-in-azure-functions-14ph)
+- [How To Use Housing App Full Tutorial](https://dev.to/angesh_singh/how-to-use-housing-app-full-tutorial-496k)
+- [OOPS Interview Questions](https://dev.to/jemmyasjd/oops-interview-questions-53ji)
+- [I will refuse live coding interviews from now on.](https://dev.to/jswhisperer/i-will-refuse-live-coding-interviews-from-now-on-3mfh)
+- [API Design: From Zero to Best Practices](https://dev.to/abdulla783/api-design-from-zero-to-best-practices-43oc)
 <!-- BLOG-POST-LIST:END -->
 
