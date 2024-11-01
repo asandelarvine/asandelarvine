@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are LLMs Still Lost in the Middle?](https://dev.to/trustgraph/are-llms-still-lost-in-the-middle-52k0)
-- [Get thread dump of Java container running on JRE Docker image](https://dev.to/tranthe/get-thread-dump-of-java-container-running-on-jre-docker-image-39lk)
-- [Hackoberfest: Part 4](https://dev.to/add00_3/hackoberfest-part-4-2gh1)
-- [Optimizing C++ Memory Management with a Custom Memory Pool](https://dev.to/pigeoncodeur/optimizing-c-memory-management-with-a-custom-memory-pool-1o3b)
+- [#87 — Merge Data of The Same Group](https://dev.to/judith677/87-merge-data-of-the-same-group-5ap4)
+- [Function prototype - JavaScript Challenges](https://dev.to/mitchell_cheng/function-prototype-javascript-challenges-19eo)
+- [Swarm: El Framework Experimental de OpenAI para Orquestación de Agentes](https://dev.to/carlos_alarcn_4318831566/swarm-el-framework-experimental-de-openai-para-orquestacion-de-agentes-4d9h)
+- [A Yocto Cheatsheet](https://dev.to/lsahn/a-yocto-cheatsheet-3jbf)
 <!-- BLOG-POST-LIST:END -->
 
