@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Analytics &lpar;GA4&rpar; implementation with React - Remix example](https://dev.to/seasonedcc/google-analytics-ga4-implementation-with-react-remix-example-59j)
-- [From Theory to Practice: Developing a Distributed Key-Value Database with Sharding and Replication](https://dev.to/ravikishan/from-theory-to-practice-developing-a-distributed-key-value-database-with-sharding-and-replication-180d)
-- [Weekly Updates - Nov 1, 2024](https://dev.to/couchbase/weekly-updates-nov-1-2024-ek)
-- [Building a Simple TCP Server in C](https://dev.to/trish_07/building-a-simple-tcp-server-in-c-2h85)
+- [Addressing The Threat of Deep Fakes With Trusted Devices and Public Key Infrastructure](https://dev.to/kylepena/addressing-the-threat-of-deep-fakes-with-trusted-devices-and-public-key-infrastructure-2eh4)
+- [My Hacktoberfest 2024 Journey](https://dev.to/aditya_more/my-hacktoberfest-2024-journey-4kj6)
+- [NextJS + Drizzle -- 8 Things I Learned Spinning up a New Project](https://dev.to/jordanahaines/nextjs-drizzle-8-things-i-learned-spinning-up-a-new-project-53pd)
+- [The Essential Guide to Testing React Components](https://dev.to/adityabhuyan/the-essential-guide-to-testing-react-components-1hjl)
 <!-- BLOG-POST-LIST:END -->
 
