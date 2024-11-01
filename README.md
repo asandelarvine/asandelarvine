@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Addressing The Threat of Deep Fakes With Trusted Devices and Public Key Infrastructure](https://dev.to/kylepena/addressing-the-threat-of-deep-fakes-with-trusted-devices-and-public-key-infrastructure-2eh4)
-- [My Hacktoberfest 2024 Journey](https://dev.to/aditya_more/my-hacktoberfest-2024-journey-4kj6)
-- [NextJS + Drizzle -- 8 Things I Learned Spinning up a New Project](https://dev.to/jordanahaines/nextjs-drizzle-8-things-i-learned-spinning-up-a-new-project-53pd)
-- [The Essential Guide to Testing React Components](https://dev.to/adityabhuyan/the-essential-guide-to-testing-react-components-1hjl)
+- [Contri.Buzz - Celebrate your open source contributors](https://dev.to/hemanth004/contribuzz-celebrate-your-open-source-contributors-1ahl)
+- [🎉 The key evolution of the Easy Model package is here with v1.0.8 🎉](https://dev.to/mmramadan496/the-key-evolution-of-the-easy-model-package-is-here-with-v108-51c9)
+- [Mastering Python’s __name__ and __main__: Understanding Script Execution and Module Imports](https://dev.to/pawandeore/mastering-pythons-name-and-main-understanding-script-execution-and-module-imports-266g)
+- [My Coding Journey: Building Confidence One Day at a Time](https://dev.to/coding_chronicles/my-coding-journey-building-confidence-one-day-at-a-time-3cf9)
 <!-- BLOG-POST-LIST:END -->
 
