@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Insane Web Design Tools Every Developer Should Know About! 🌟 🔥](https://dev.to/hosseinyazdi/10-insane-web-design-tools-every-developer-should-know-about-40he)
-- [Game Dev Digest — Issue #256 - Horror And More](https://dev.to/gamedevdigest/game-dev-digest-issue-256-horror-and-more-5d0o)
-- [Simplified URL Building and HTTP Requests with Flurl](https://dev.to/juarezasjunior/simplified-url-building-and-http-requests-with-flurl-36cl)
-- [Construção de URLs e Chamadas HTTP Simplificadas com Flurl](https://dev.to/juarezasjunior/construcao-de-urls-e-chamadas-http-simplificadas-com-flurl-2cco)
+- [Tip: Leverage Indexers for Array-Like Access in C# ✨](https://dev.to/dotnetfullstackdev/tip-leverage-indexers-for-array-like-access-in-c-2ea1)
+- [EchoAPI for IntelliJ IDEA: A Plugin that Boosts API Management for Java Developers](https://dev.to/patrick_61cbc6392b72286f6/echoapi-for-intellij-idea-a-plugin-that-boosts-api-management-for-java-developers-58a7)
+- [Frustrated with Postman&#39;s Login Requirement? Try EchoAPI Instead](https://dev.to/patrick_61cbc6392b72286f6/frustrated-with-postmans-login-requirement-try-echoapi-instead-46pp)
+- [PHP: monads](https://dev.to/spo0q/php-monads-2g50)
 <!-- BLOG-POST-LIST:END -->
 
