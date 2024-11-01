@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local Dev Environment and Static Code Analysis](https://dev.to/kannav02/local-dev-environment-and-static-code-analysis-1pda)
-- [New here! Would love to connect with other builders](https://dev.to/sanchitbareja/new-here-would-love-to-connect-with-other-builders-1opi)
-- [nocaptcha: Replacing CAPTCHAs with Single-use WebAuthn Passkeys](https://dev.to/uday_singlr/nocaptcha-replacing-captchas-with-single-use-webauthn-passkeys-24l8)
-- [How to fix `Uncaught TypeError: Cannot read properties of null &lpar;reading &#39;ce&#39;&rpar;` error](https://dev.to/relliv/vue-vite-and-uncaught-typeerror-cannot-read-properties-of-null-reading-ce-16g1)
+- [Google Analytics &lpar;GA4&rpar; implementation with React - Remix example](https://dev.to/seasonedcc/google-analytics-ga4-implementation-with-react-remix-example-59j)
+- [From Theory to Practice: Developing a Distributed Key-Value Database with Sharding and Replication](https://dev.to/ravikishan/from-theory-to-practice-developing-a-distributed-key-value-database-with-sharding-and-replication-180d)
+- [Weekly Updates - Nov 1, 2024](https://dev.to/couchbase/weekly-updates-nov-1-2024-ek)
+- [Building a Simple TCP Server in C](https://dev.to/trish_07/building-a-simple-tcp-server-in-c-2h85)
 <!-- BLOG-POST-LIST:END -->
 
