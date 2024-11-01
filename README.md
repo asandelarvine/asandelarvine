@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Scheduling Patterns with Demand-Based Matching, Skills, and Competencies. Part 4.](https://dev.to/datapult/advanced-scheduling-patterns-with-demand-based-matching-skills-and-competencies-part-4-cj5)
-- [Automate API Response Validation](https://dev.to/apilover/automate-api-response-validation-2i79)
-- [How to Avoid the Single-Threaded Trap in JavaScript](https://dev.to/zenstok/how-to-avoid-the-single-threaded-trap-in-javascript-12ih)
-- [🚀 Top 3 Websites to Copy &amp; Paste Tailwind CSS Components for Fast-Track UI Development in 2024 💨](https://dev.to/bardui/top-3-websites-to-copy-paste-tailwind-css-components-for-fast-track-ui-development-in-2024-4182)
+- [Transforming the Software Testing Lifecycle with GenQE: The Future of Quality Engineering](https://dev.to/anil_csimplifyit_905c/transforming-the-software-testing-lifecycle-with-genqe-the-future-of-quality-engineering-1f6c)
+- [Send Email with Python SMPT and Gmail is Easy!](https://dev.to/riparuk/send-email-with-python-smpt-and-gmail-is-easy-3e64)
+- [Managing Container Lifecycles with Docker Compose Lifecycle Hooks](https://dev.to/idsulik/managing-container-lifecycles-with-docker-compose-lifecycle-hooks-mjg)
+- [Github Spark: The AI Tool That Creates Apps with Spoken Language](https://dev.to/apilover/github-spark-the-ai-tool-that-creates-apps-with-spoken-language-1op2)
 <!-- BLOG-POST-LIST:END -->
 
