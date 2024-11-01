@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Graviton Processors Explained: Cut Costs 💵by 40% with Better Efficiency and Security🔐](https://dev.to/devops_descent/aws-graviton-processors-explained-cut-costs-by-40-with-better-efficiency-and-security-3dcn)
-- [How to Pass Information Between Jobs in GitHub Actions](https://dev.to/cicube/how-to-pass-information-between-jobs-in-github-actions-25o)
-- [React Fatigue: Why Some Devs Are Moving On](https://dev.to/pizucoder/react-fatigue-why-some-devs-are-moving-on-2878)
-- [Automating CI/CD Pipeline Migration with GitHub Actions Importer](https://dev.to/cicube/automating-cicd-pipeline-migration-with-github-actions-importer-7c3)
+- [NixOS Full Disk Encryption with USB/SD-Card/Password Unlock](https://dev.to/jasper-clarke/nixos-full-disk-encryption-with-usbsd-cardpassword-unlock-4mg)
+- [Getting the Deck in Order: Custom Types and Methods in Go!](https://dev.to/_itsglover/getting-the-deck-in-order-custom-types-and-methods-in-go-40a9)
+- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-1bbp)
+- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-27dn)
 <!-- BLOG-POST-LIST:END -->
 
