@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More storage for media : organize files using ChatGPT](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-31m5)
-- [Open-source NL-based data platform](https://dev.to/mohsenkamrani/open-source-nl-data-platform-2hd3)
-- [The Basics of Rate Limiting: How It Works and How to Use It](https://dev.to/devlawrence/the-basics-of-rate-limiting-how-it-works-and-how-to-use-it-5ccp)
-- [Next.js 15 Authentication](https://dev.to/shieldstring/nextjs-15-authentication-1al7)
+- [Hackoberfest: Part 2](https://dev.to/add00_3/hackoberfest-part-2-3mbc)
+- [Navigating the Full-Stack Path](https://dev.to/kareem_itani_e51fee03fb7a/navigating-the-full-stack-path-1i5n)
+- [Dipping Into a Java Project](https://dev.to/udayrana/dipping-into-a-java-project-3jop)
+- [Free component libraries for your next Laravel application &lpar;part one&rpar;](https://dev.to/varzoeaa/free-component-libraries-for-your-next-laravel-application-part-one-37ae)
 <!-- BLOG-POST-LIST:END -->
 
