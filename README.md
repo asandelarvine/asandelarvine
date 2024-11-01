@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming the Software Testing Lifecycle with GenQE: The Future of Quality Engineering](https://dev.to/anil_csimplifyit_905c/transforming-the-software-testing-lifecycle-with-genqe-the-future-of-quality-engineering-1f6c)
-- [Send Email with Python SMPT and Gmail is Easy!](https://dev.to/riparuk/send-email-with-python-smpt-and-gmail-is-easy-3e64)
-- [Managing Container Lifecycles with Docker Compose Lifecycle Hooks](https://dev.to/idsulik/managing-container-lifecycles-with-docker-compose-lifecycle-hooks-mjg)
-- [Github Spark: The AI Tool That Creates Apps with Spoken Language](https://dev.to/apilover/github-spark-the-ai-tool-that-creates-apps-with-spoken-language-1op2)
+- [Virtual Private Network](https://dev.to/oliviarizona88/virtual-private-network-333f)
+- [Page error 405.](https://dev.to/petrus_vaneeden_3f1cb44f/page-error-405-24g4)
+- [Battle of the Backend: Comparing Microservices Languages for Speed, Performance, and Scalability](https://dev.to/firoj_mujawar/battle-of-the-backend-comparing-microservices-languages-for-speed-performance-and-scalability-4kf0)
+- [Write a Java program to find duplicate elements in an array](https://dev.to/realnamehidden1_61/write-a-java-program-to-find-duplicate-elements-in-an-array-3n6k)
 <!-- BLOG-POST-LIST:END -->
 
