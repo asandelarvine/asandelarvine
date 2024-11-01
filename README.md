@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: joining with LIKE](https://dev.to/epigene/til-joining-with-like-49c2)
-- [PostgreSQL Query Performance Tuning Tips](https://dev.to/akshay_gupta/postgresql-query-performance-tuning-tips-3aof)
-- [M-Pesa Transaction Status API](https://dev.to/msnmongare/m-pesa-transaction-status-api-1ich)
-- [อัพเดทเวอร์ชั่น Container runtime Colima](https://dev.to/anuchito/aphedthewrchan-container-runtime-colima-46e0)
+- [Checking Constraint Violations in Smart Contracts Deep Storage](https://dev.to/smartmuv/checking-constraint-violations-in-smart-contracts-deep-storage-3jik)
+- [npm vs npx - What&#39;s the difference?](https://dev.to/hamachooo25/npm-vs-npx-whats-the-difference-4dhp)
+- [npmとnpxの違い](https://dev.to/hamachooo25/npmtonpxnowei-i-2cif)
+- [Implementing Distributed Caching with Redis in Azure Functions](https://dev.to/mbrennan376/implementing-distributed-caching-with-redis-in-azure-functions-14ph)
 <!-- BLOG-POST-LIST:END -->
 
