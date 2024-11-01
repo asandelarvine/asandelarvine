@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta programação em Go: usando tags de atributo](https://dev.to/eldius/meta-programacao-em-go-usando-tags-de-atributo-2d8g)
-- [Streamline Your Azure Workflow with GitHub Copilot for Azure in VS Code](https://dev.to/azure/streamline-your-azure-workflow-with-github-copilot-for-azure-in-vs-code-2a2n)
-- [Adding Static Analysis Tools to Maintain the Code Quality](https://dev.to/arilloid/adding-static-analysis-tools-to-maintain-the-code-quality-2pb0)
-- [Maximizing Developer Productivity with Obsidian: A Complete Setup Guide](https://dev.to/airabbit/maximizing-developer-productivity-with-obsidian-a-complete-setup-guide-gj7)
+- [Local Dev Environment and Static Code Analysis](https://dev.to/kannav02/local-dev-environment-and-static-code-analysis-1pda)
+- [New here! Would love to connect with other builders](https://dev.to/sanchitbareja/new-here-would-love-to-connect-with-other-builders-1opi)
+- [nocaptcha: Replacing CAPTCHAs with Single-use WebAuthn Passkeys](https://dev.to/uday_singlr/nocaptcha-replacing-captchas-with-single-use-webauthn-passkeys-24l8)
+- [How to fix `Uncaught TypeError: Cannot read properties of null &lpar;reading &#39;ce&#39;&rpar;` error](https://dev.to/relliv/vue-vite-and-uncaught-typeerror-cannot-read-properties-of-null-reading-ce-16g1)
 <!-- BLOG-POST-LIST:END -->
 
