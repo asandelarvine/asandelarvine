@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tip: Leverage Indexers for Array-Like Access in C# ✨](https://dev.to/dotnetfullstackdev/tip-leverage-indexers-for-array-like-access-in-c-2ea1)
-- [EchoAPI for IntelliJ IDEA: A Plugin that Boosts API Management for Java Developers](https://dev.to/patrick_61cbc6392b72286f6/echoapi-for-intellij-idea-a-plugin-that-boosts-api-management-for-java-developers-58a7)
-- [Frustrated with Postman&#39;s Login Requirement? Try EchoAPI Instead](https://dev.to/patrick_61cbc6392b72286f6/frustrated-with-postmans-login-requirement-try-echoapi-instead-46pp)
-- [PHP: monads](https://dev.to/spo0q/php-monads-2g50)
+- [📢 Why I Use Git UIs in My Daily Work and What You Should Know About Them](https://dev.to/matheusmcz/why-i-use-git-uis-in-my-daily-work-and-what-you-should-know-about-them-5ah3)
+- [How to Design, Maintain, and Promote APIs: A Practical Guide for Professionals](https://dev.to/uthman_eli_cd82d29be9e571/how-to-design-maintain-and-promote-apis-a-practical-guide-for-professionals-1iii)
+- [First Blackjack Game](https://dev.to/jtbjewson/first-blackjack-game-1njj)
+- [Optimizing Angular Reactive Forms: Enhancing Performance with Lazy Validation and Async Validators](https://dev.to/this-is-angular/optimizing-angular-reactive-forms-enhancing-performance-with-lazy-validation-and-async-validators-5c40)
 <!-- BLOG-POST-LIST:END -->
 
