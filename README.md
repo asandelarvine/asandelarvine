@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate a File Input with Zod](https://dev.to/drprime01/how-to-validate-a-file-input-with-zod-5739)
-- [Data Analysis and Visualization in Python 📊🐍](https://dev.to/info_generalhazedawn_a3d/data-analysis-and-visualization-in-python-2n1k)
-- [Automating software installations on Linux using Python.](https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611)
-- [Understanding JSONify&lpar;&rpar;, to_dict&lpar;&rpar;, make_response&lpar;&rpar;, and SerializerMixin in Flask](https://dev.to/the1kimk/understanding-jsonify-todict-makeresponse-and-serializermixin-in-flask-4d7c)
+- [AWS Graviton Processors Explained: Cut Costs 💵by 40% with Better Efficiency and Security🔐](https://dev.to/devops_descent/aws-graviton-processors-explained-cut-costs-by-40-with-better-efficiency-and-security-3dcn)
+- [How to Pass Information Between Jobs in GitHub Actions](https://dev.to/cicube/how-to-pass-information-between-jobs-in-github-actions-25o)
+- [React Fatigue: Why Some Devs Are Moving On](https://dev.to/pizucoder/react-fatigue-why-some-devs-are-moving-on-2878)
+- [Automating CI/CD Pipeline Migration with GitHub Actions Importer](https://dev.to/cicube/automating-cicd-pipeline-migration-with-github-actions-importer-7c3)
 <!-- BLOG-POST-LIST:END -->
 
