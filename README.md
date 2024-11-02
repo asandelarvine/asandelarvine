@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design of a Referral System](https://dev.to/vaib215/system-design-of-a-referral-system-4hik)
-- [Art of saying no!](https://dev.to/coder-wolf/art-of-saying-no-2ckb)
-- [Revamp Your PHP Projects: The Essential PHP 8 Features for Developers](https://dev.to/mdarifulhaque/revamp-your-php-projects-the-essential-php-8-features-for-developers-32ep)
-- [Linux having multi-python virtual environment too ...](https://dev.to/uajay/linux-having-multi-python-virtual-environment-too--3526)
+- [Serverless Computing](https://dev.to/mrcaption49/serverless-computing-3m3l)
+- [Beginners Guide To &#39;Which programming language to...&#39;](https://dev.to/joan_wambugu/beginners-guide-to-which-programming-language-to-1a44)
+- [Profundizando en la Terminal: Entendiendo el Prompt y la Anatomía de un Comando](https://dev.to/tuxmontero/profundizando-en-la-terminal-entendiendo-el-prompt-y-la-anatomia-de-un-comando-5h2h)
+- [How to view manually installed packages in ubuntu](https://dev.to/hariharanumapathi/how-to-view-manually-installed-packages-in-ubuntu-1pgc)
 <!-- BLOG-POST-LIST:END -->
 
