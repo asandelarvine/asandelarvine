@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering APIs in JavaScript: From Basics to Async/Await](https://dev.to/imrankhan17/mastering-apis-in-javascript-from-basics-to-asyncawait-6mi)
-- [Why Virtual DOM: Render and Performance](https://dev.to/sonaykara/why-virtual-dom-faster-rendering-and-performance-1cjh)
-- [Pythonic Time Capsule: Must-Know Features from Each Version](https://dev.to/cquark7/pythonic-time-capsule-must-know-features-from-each-version-1795)
-- [SQL - Dia 7](https://dev.to/technonotes/sql-day-7-8hj)
+- [Adding Code Formatter and Linter Tools to my code.](https://dev.to/aldrin312/adding-code-formatter-and-linter-tools-to-my-code-e9g)
+- [Override java version on flutter](https://dev.to/ugifractal/override-java-version-on-flutter-3278)
+- [Hacktoberfest! - Racap](https://dev.to/theoforger/hacktoberfest-racap-8cc)
+- [Contribution Instructions: Formate Code and Linting](https://dev.to/amullagaliev/contribution-instructions-formate-code-and-linting-1m86)
 <!-- BLOG-POST-LIST:END -->
 
