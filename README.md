@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [do while loop](https://dev.to/sanjar777/do-while-loop-3l56)
-- [Nested while loop](https://dev.to/sanjar777/nested-while-loop-4klk)
-- [I made an AI Website Builder that generates websites from a single prompt ⚡️](https://dev.to/fredy/i-made-an-ai-website-builder-that-generates-websites-from-a-single-prompt-411p)
-- [Complete Sim Registration TM &lpar;Latest Guide&rpar;](https://dev.to/vapestation/complete-sim-registration-tm-latest-guide-3hb)
+- [Deploy Flask app using docker Compose](https://dev.to/rajnishspandey/deploy-flask-app-using-docker-compose-4i81)
+- [Deferred Task Management: Flexible Background Scheduling in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/deferred-task-management-flexible-background-scheduling-in-harmonyos-next-4p8f)
+- [Declaration Merging in TS](https://dev.to/kasir-barati/declarationmerging-in-ts-5g5b)
+- [延迟任务管理：HarmonyOS Next 的灵活后台调度](https://dev.to/xun_wang_6384a403f9817c2/yan-chi-ren-wu-guan-li-harmonyos-next-de-ling-huo-hou-tai-diao-du-1pc9)
 <!-- BLOG-POST-LIST:END -->
 
