@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Senior Developer or AI Obsolete? Navigating Seniority in the Age of AI](https://dev.to/goumricom/senior-developer-or-ai-obsolete-navigating-seniority-in-the-age-of-ai-10p2)
-- [Decrypt cloud storage file](https://dev.to/david_mrquez_71bbd9d34ee/decrypt-cloud-storage-file-1iha)
-- [Example Training Images Dataset, Trained Models, Grids and Full Training Configs, json files and more](https://dev.to/furkangozukara/example-training-images-dataset-trained-models-grids-and-full-training-configs-json-files-and-more-151b)
-- [Redis + Redundância com Sentinel + Docker](https://dev.to/airton_lirajunior_2ddebd/redis-redundancia-com-sentinel-docker-he0)
+- [Enable Windows Hypervisor Platform in Windows 11](https://dev.to/winsides/enable-windows-hypervisor-platform-in-windows-11-3502)
+- [12 Useful Developer Tools You Will Wish You Knew Sooner 🧑‍💻🧙](https://dev.to/safdarali/12-useful-developer-tools-you-will-wish-you-knew-sooner-3c77)
+- [Leetcode — Top Interview 150 — Remove Element](https://dev.to/bendlmp/leetcode-top-interview-150-remove-element-ca9)
+- [Transferring BTC Total data to amount on page 2 &lpar;help&rpar;](https://dev.to/chezciacbro/transferring-btc-total-data-to-amount-on-page-2-help-5ec0)
 <!-- BLOG-POST-LIST:END -->
 
