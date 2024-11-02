@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Marvel Character Showcase with React and Marvel API](https://dev.to/keihanaf/building-a-marvel-character-showcase-with-react-and-marvel-api-4jfj)
-- [Supercharge Your Symfony App with Smart Device Detection: Meet EprofosUserAgentAnalyzerBundle](https://dev.to/eprofos/supercharge-your-symfony-app-with-smart-device-detection-meet-eprofosuseragentanalyzerbundle-300m)
-- [Métricas para algorítimos de regressão](https://dev.to/airton_lirajunior_2ddebd/metricas-para-algoritimos-de-regressao-55lh)
-- [Harnessing AWS Bedrock: Create a Generative AI PDF Chatbot](https://dev.to/ndzenyuy/harnessing-aws-bedrock-create-a-generative-ai-pdf-chatbot-3d4h)
+- [Senior Developer or AI Obsolete? Navigating Seniority in the Age of AI](https://dev.to/goumricom/senior-developer-or-ai-obsolete-navigating-seniority-in-the-age-of-ai-10p2)
+- [Decrypt cloud storage file](https://dev.to/david_mrquez_71bbd9d34ee/decrypt-cloud-storage-file-1iha)
+- [Example Training Images Dataset, Trained Models, Grids and Full Training Configs, json files and more](https://dev.to/furkangozukara/example-training-images-dataset-trained-models-grids-and-full-training-configs-json-files-and-more-151b)
+- [Redis + Redundância com Sentinel + Docker](https://dev.to/airton_lirajunior_2ddebd/redis-redundancia-com-sentinel-docker-he0)
 <!-- BLOG-POST-LIST:END -->
 
