@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[API Databricks como serviço interno] dbutils — notebook.run, widgets.getArgument, widgets.text e notebook_params](https://dev.to/airton_lirajunior_2ddebd/api-databricks-como-servico-interno-dbutils-notebookrun-widgetsgetargument-widgetstext-e-notebookparams-4olf)
-- [OSD - lab - 6 - Code Formatter](https://dev.to/krinskumar/osd-lab-4-code-formatter-45gd)
-- [Implementando uma Lambda com GitLab CI/CD e Terraform para Integração SFTP, S3 e Databricks em Go](https://dev.to/airton_lirajunior_2ddebd/implementando-uma-lambda-com-gitlab-cicd-e-terraform-para-integracao-sftp-s3-e-databricks-em-go-5hc0)
-- [Common Language Runtime &lpar;CLR&rpar; y Intermediate Language &lpar;IL&rpar;](https://dev.to/brventurau/common-language-runtime-clr-y-intermediate-language-il-50kj)
+- [Building a Marvel Character Showcase with React and Marvel API](https://dev.to/keihanaf/building-a-marvel-character-showcase-with-react-and-marvel-api-4jfj)
+- [Supercharge Your Symfony App with Smart Device Detection: Meet EprofosUserAgentAnalyzerBundle](https://dev.to/eprofos/supercharge-your-symfony-app-with-smart-device-detection-meet-eprofosuseragentanalyzerbundle-300m)
+- [Métricas para algorítimos de regressão](https://dev.to/airton_lirajunior_2ddebd/metricas-para-algoritimos-de-regressao-55lh)
+- [Harnessing AWS Bedrock: Create a Generative AI PDF Chatbot](https://dev.to/ndzenyuy/harnessing-aws-bedrock-create-a-generative-ai-pdf-chatbot-3d4h)
 <!-- BLOG-POST-LIST:END -->
 
