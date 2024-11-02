@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding FastAPI Fundamentals: A Guide to FastAPI, Uvicorn, Starlette, Swagger UI, and Pydantic](https://dev.to/kfir-g/understanding-fastapi-fundamentals-a-guide-to-fastapi-uvicorn-starlette-swagger-ui-and-pydantic-2fp7)
-- [Apredendo construção de apis com node e TypeScript](https://dev.to/michaelmoranis/apredendo-construcao-de-apis-com-node-e-typescript-o11)
-- [Shell Scripting in DevOps: A Complete Guide](https://dev.to/i_am_vesh/shell-scripting-in-devops-a-complete-guide-1f86)
-- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-11ge)
+- [2490. Circular Sentence](https://dev.to/mdarifulhaque/2490-circular-sentence-2jp0)
+- [JavaScript Array Methods Examples: A Comprehensive Guide &lpar;31 Methods&rpar;](https://dev.to/nozibul_islam_113b1d5334f/javascript-array-methods-examples-a-comprehensive-guide-31-methods-4e66)
+- [House_Price_Prediction](https://dev.to/thatohatsi880/housepriceprediction-3ldg)
+- [Digital Signatures: Your Cryptographic John Hancock, Go Crypto 6](https://dev.to/rezmoss/digital-signatures-your-cryptographic-john-hancock-go-crypto-6-5f3p)
 <!-- BLOG-POST-LIST:END -->
 
