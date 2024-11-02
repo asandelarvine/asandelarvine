@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I access over 200 AI models with one API. Here’s how…](https://dev.to/abdibrokhim/i-access-over-200-ai-models-with-one-api-heres-how-47nm)
-- [Hacktoberfest 2024: A Journey of Learning and Contribution](https://dev.to/komsenapati/hacktoberfest-2024-a-journey-of-learning-and-contribution-1a64)
-- [The Power of Memory Map](https://dev.to/lsahn/the-power-of-memory-map-8f6)
-- [Modern HTML5 Boilerplate](https://dev.to/dev007777/modern-html5-boilerplate-3ma7)
+- [System Design of a Referral System](https://dev.to/vaib215/system-design-of-a-referral-system-4hik)
+- [Art of saying no!](https://dev.to/coder-wolf/art-of-saying-no-2ckb)
+- [Revamp Your PHP Projects: The Essential PHP 8 Features for Developers](https://dev.to/mdarifulhaque/revamp-your-php-projects-the-essential-php-8-features-for-developers-32ep)
+- [Linux having multi-python virtual environment too ...](https://dev.to/uajay/linux-having-multi-python-virtual-environment-too--3526)
 <!-- BLOG-POST-LIST:END -->
 
