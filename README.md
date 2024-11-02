@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supervised ML Types - Art of Possible](https://dev.to/lostinopensource/supervised-ml-types-art-of-possible-2kp5)
-- [Automated Log Analysis and Reporting with Python, Bash, and PowerShell](https://dev.to/oliverbennet/automated-log-analysis-and-reporting-with-python-bash-and-powershell-a32)
-- [Avoiding Connection Pinning in Lambda and RDS Proxy with NestJS and Proxy Splitting](https://dev.to/suzuki0430/avoiding-connection-pinning-in-lambda-and-rds-proxy-with-nestjs-and-proxy-splitting-2l44)
-- [Uncover HDFS Secrets with FS Shell find](https://dev.to/labex/uncover-hdfs-secrets-with-fs-shell-find-2ebg)
+- [Responsive Typography: Making Text Adapt to All Screens](https://dev.to/magsimuhammadessa/responsive-typography-making-text-adapt-to-all-screens-29p3)
+- [Cross-Compiling GCC in Linux](https://dev.to/nabir14/cross-compiling-gcc-in-linux-4peo)
+- [Switch](https://dev.to/mahamadjon000/switch-4b4i)
+- [Halloween themed hero section. Coding timelapse](https://dev.to/paul_freeman/halloween-themed-hero-section-coding-timelapse-4oec)
 <!-- BLOG-POST-LIST:END -->
 
