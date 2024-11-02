@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 02 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-november-29ff)
-- [Top 10 Modern JavaScript Patterns for 2025](https://dev.to/balrajola/top-10-modern-javascript-patterns-for-2025-1hle)
-- [How did a dumbo become an Open-Source contributor 🪔](https://dev.to/rohan_sharma/how-did-a-dumbo-become-an-open-source-contributor-333c)
-- [Should You Continue Learn Your Stack or Learn New Tools](https://dev.to/jenueldev/should-you-continue-learn-your-stack-or-learn-new-tools-5e9f)
+- [Understanding FastAPI Fundamentals: A Guide to FastAPI, Uvicorn, Starlette, Swagger UI, and Pydantic](https://dev.to/kfir-g/understanding-fastapi-fundamentals-a-guide-to-fastapi-uvicorn-starlette-swagger-ui-and-pydantic-2fp7)
+- [Apredendo construção de apis com node e TypeScript](https://dev.to/michaelmoranis/apredendo-construcao-de-apis-com-node-e-typescript-o11)
+- [Shell Scripting in DevOps: A Complete Guide](https://dev.to/i_am_vesh/shell-scripting-in-devops-a-complete-guide-1f86)
+- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-11ge)
 <!-- BLOG-POST-LIST:END -->
 
