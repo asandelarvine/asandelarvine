@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Code Formatter and Linter Tools to my code.](https://dev.to/aldrin312/adding-code-formatter-and-linter-tools-to-my-code-e9g)
-- [Override java version on flutter](https://dev.to/ugifractal/override-java-version-on-flutter-3278)
-- [Hacktoberfest! - Racap](https://dev.to/theoforger/hacktoberfest-racap-8cc)
-- [Contribution Instructions: Formate Code and Linting](https://dev.to/amullagaliev/contribution-instructions-formate-code-and-linting-1m86)
+- [Incorrect calculations by the computer: sin&lpar;x&rpar; and cos&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-and-cosx-52ep)
+- [The 5 Most Underrated Python Libraries You Should Start Using Right Now](https://dev.to/theekshana/the-5-most-underrated-python-libraries-you-should-start-using-right-now-3fn4)
+- [Lab 6 - Formatting and Linting](https://dev.to/cduarte3/lab-6-formatting-and-linting-23pb)
+- [If you don’t know about HTTP Archive’s Web Almanac yet, you should!](https://dev.to/snyk/if-you-dont-know-about-http-archives-web-almanac-yet-you-should-1da5)
 <!-- BLOG-POST-LIST:END -->
 
