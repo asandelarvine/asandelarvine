@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional operator](https://dev.to/munisa_kuranbekova_078e1e/conditional-operator-1lfd)
-- [1MinDocker #4 - Docker CLI essentials](https://dev.to/astrabert/1mindocker-4-docker-cli-essentials-33pl)
-- [PWC 293 Similar Dominos Done Badly](https://dev.to/boblied/pwc-293-similar-dominos-done-badly-4gpc)
-- [Function #2.](https://dev.to/abdumomin0/function-2-412b)
+- [🚀 Your Daily Crypto Job Digest For 02 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-november-29ff)
+- [Top 10 Modern JavaScript Patterns for 2025](https://dev.to/balrajola/top-10-modern-javascript-patterns-for-2025-1hle)
+- [How did a dumbo become an Open-Source contributor 🪔](https://dev.to/rohan_sharma/how-did-a-dumbo-become-an-open-source-contributor-333c)
+- [Should You Continue Learn Your Stack or Learn New Tools](https://dev.to/jenueldev/should-you-continue-learn-your-stack-or-learn-new-tools-5e9f)
 <!-- BLOG-POST-LIST:END -->
 
