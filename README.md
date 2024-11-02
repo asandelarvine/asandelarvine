@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Advance Part 1: Monitor Docker Containers with Health Checks](https://dev.to/mammadyahyayev/docker-advance-part-1-monitor-docker-containers-with-health-checks-4258)
-- [Advanced JWT Exploitation Techniques: Going Beyond the Basics](https://dev.to/genius_introuble/advanced-jwt-exploitation-techniques-going-beyond-the-basics-1h4m)
-- [Logical operators - mantiq operatorlari](https://dev.to/munisa_kuranbekova_078e1e/logical-operators-mantiq-operatorlari-55n9)
-- [Java 8 Stream API limit&lpar;&rpar; and skip&lpar;&rpar; methods](https://dev.to/realnamehidden1_61/java-8-stream-api-limit-and-skip-methods-46kl)
+- [Supervised ML Types - Art of Possible](https://dev.to/lostinopensource/supervised-ml-types-art-of-possible-2kp5)
+- [Automated Log Analysis and Reporting with Python, Bash, and PowerShell](https://dev.to/oliverbennet/automated-log-analysis-and-reporting-with-python-bash-and-powershell-a32)
+- [Avoiding Connection Pinning in Lambda and RDS Proxy with NestJS and Proxy Splitting](https://dev.to/suzuki0430/avoiding-connection-pinning-in-lambda-and-rds-proxy-with-nestjs-and-proxy-splitting-2l44)
+- [Uncover HDFS Secrets with FS Shell find](https://dev.to/labex/uncover-hdfs-secrets-with-fs-shell-find-2ebg)
 <!-- BLOG-POST-LIST:END -->
 
