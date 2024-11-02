@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Computing](https://dev.to/mrcaption49/serverless-computing-3m3l)
-- [Beginners Guide To &#39;Which programming language to...&#39;](https://dev.to/joan_wambugu/beginners-guide-to-which-programming-language-to-1a44)
-- [Profundizando en la Terminal: Entendiendo el Prompt y la Anatomía de un Comando](https://dev.to/tuxmontero/profundizando-en-la-terminal-entendiendo-el-prompt-y-la-anatomia-de-un-comando-5h2h)
-- [How to view manually installed packages in ubuntu](https://dev.to/hariharanumapathi/how-to-view-manually-installed-packages-in-ubuntu-1pgc)
+- [[API Databricks como serviço interno] dbutils — notebook.run, widgets.getArgument, widgets.text e notebook_params](https://dev.to/airton_lirajunior_2ddebd/api-databricks-como-servico-interno-dbutils-notebookrun-widgetsgetargument-widgetstext-e-notebookparams-4olf)
+- [OSD - lab - 6 - Code Formatter](https://dev.to/krinskumar/osd-lab-4-code-formatter-45gd)
+- [Implementando uma Lambda com GitLab CI/CD e Terraform para Integração SFTP, S3 e Databricks em Go](https://dev.to/airton_lirajunior_2ddebd/implementando-uma-lambda-com-gitlab-cicd-e-terraform-para-integracao-sftp-s3-e-databricks-em-go-5hc0)
+- [Common Language Runtime &lpar;CLR&rpar; y Intermediate Language &lpar;IL&rpar;](https://dev.to/brventurau/common-language-runtime-clr-y-intermediate-language-il-50kj)
 <!-- BLOG-POST-LIST:END -->
 
