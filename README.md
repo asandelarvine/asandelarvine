@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Progressive Deployments](https://dev.to/epklein/progressive-deployments-4hf2)
+- [Lab 6 : Adding Static Analysis tool to DocBot](https://dev.to/ajogseneca/lab-6-adding-static-analysis-tool-to-docbot-1856)
 - [Incorrect calculations by the computer: sin&lpar;x&rpar; and cos&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-and-cosx-52ep)
 - [The 5 Most Underrated Python Libraries You Should Start Using Right Now](https://dev.to/theekshana/the-5-most-underrated-python-libraries-you-should-start-using-right-now-3fn4)
-- [Lab 6 - Formatting and Linting](https://dev.to/cduarte3/lab-6-formatting-and-linting-23pb)
-- [If you don’t know about HTTP Archive’s Web Almanac yet, you should!](https://dev.to/snyk/if-you-dont-know-about-http-archives-web-almanac-yet-you-should-1da5)
 <!-- BLOG-POST-LIST:END -->
 
