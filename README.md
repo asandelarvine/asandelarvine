@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Typography: Making Text Adapt to All Screens](https://dev.to/magsimuhammadessa/responsive-typography-making-text-adapt-to-all-screens-29p3)
-- [Cross-Compiling GCC in Linux](https://dev.to/nabir14/cross-compiling-gcc-in-linux-4peo)
-- [Switch](https://dev.to/mahamadjon000/switch-4b4i)
-- [Halloween themed hero section. Coding timelapse](https://dev.to/paul_freeman/halloween-themed-hero-section-coding-timelapse-4oec)
+- [JavaScript Essentials: Part 7](https://dev.to/otumianempire/javascript-essentials-part-7-3e65)
+- [round&lpar;&rpar;](https://dev.to/sanjar777/round-1mcb)
+- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-24b8)
+- [Arifmetik operatorlar](https://dev.to/sanjar777/arifmetik-operatorlar-2a7m)
 <!-- BLOG-POST-LIST:END -->
 
