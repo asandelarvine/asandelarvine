@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Event Loop Techniques for Peak JS Performance](https://dev.to/shafayeat/advanced-event-loop-techniques-for-peak-js-performance-3kpa)
+- [How to Remove a Specific Item From an Array in JavaScript?](https://dev.to/mohsenkamrani/how-to-remove-a-specific-item-from-an-array-in-javascript-2oi8)
 - [Progressive Deployments](https://dev.to/epklein/progressive-deployments-4hf2)
 - [Lab 6 : Adding Static Analysis tool to DocBot](https://dev.to/ajogseneca/lab-6-adding-static-analysis-tool-to-docbot-1856)
-- [Incorrect calculations by the computer: sin&lpar;x&rpar; and cos&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-and-cosx-52ep)
-- [The 5 Most Underrated Python Libraries You Should Start Using Right Now](https://dev.to/theekshana/the-5-most-underrated-python-libraries-you-should-start-using-right-now-3fn4)
 <!-- BLOG-POST-LIST:END -->
 
