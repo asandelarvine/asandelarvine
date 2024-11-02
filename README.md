@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2490. Circular Sentence](https://dev.to/mdarifulhaque/2490-circular-sentence-2jp0)
-- [JavaScript Array Methods Examples: A Comprehensive Guide &lpar;31 Methods&rpar;](https://dev.to/nozibul_islam_113b1d5334f/javascript-array-methods-examples-a-comprehensive-guide-31-methods-4e66)
-- [House_Price_Prediction](https://dev.to/thatohatsi880/housepriceprediction-3ldg)
-- [Digital Signatures: Your Cryptographic John Hancock, Go Crypto 6](https://dev.to/rezmoss/digital-signatures-your-cryptographic-john-hancock-go-crypto-6-5f3p)
+- [I access over 200 AI models with one API. Here’s how…](https://dev.to/abdibrokhim/i-access-over-200-ai-models-with-one-api-heres-how-47nm)
+- [Hacktoberfest 2024: A Journey of Learning and Contribution](https://dev.to/komsenapati/hacktoberfest-2024-a-journey-of-learning-and-contribution-1a64)
+- [The Power of Memory Map](https://dev.to/lsahn/the-power-of-memory-map-8f6)
+- [Modern HTML5 Boilerplate](https://dev.to/dev007777/modern-html5-boilerplate-3ma7)
 <!-- BLOG-POST-LIST:END -->
 
