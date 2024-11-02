@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [if&lpar;&rpar;](https://dev.to/sanjar777/if-2h02)
-- [Команды терминала](https://dev.to/yasmina207/komandy-tierminala-j9p)
-- [for loop](https://dev.to/mahamadjon000/for-loop-475b)
-- [Conditional operator](https://dev.to/sanjar777/conditional-operator-14ha)
+- [do while loop](https://dev.to/sanjar777/do-while-loop-3l56)
+- [Nested while loop](https://dev.to/sanjar777/nested-while-loop-4klk)
+- [I made an AI Website Builder that generates websites from a single prompt ⚡️](https://dev.to/fredy/i-made-an-ai-website-builder-that-generates-websites-from-a-single-prompt-411p)
+- [Complete Sim Registration TM &lpar;Latest Guide&rpar;](https://dev.to/vapestation/complete-sim-registration-tm-latest-guide-3hb)
 <!-- BLOG-POST-LIST:END -->
 
