@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Essentials: Part 7](https://dev.to/otumianempire/javascript-essentials-part-7-3e65)
-- [round&lpar;&rpar;](https://dev.to/sanjar777/round-1mcb)
-- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-24b8)
-- [Arifmetik operatorlar](https://dev.to/sanjar777/arifmetik-operatorlar-2a7m)
+- [if&lpar;&rpar;](https://dev.to/sanjar777/if-2h02)
+- [Команды терминала](https://dev.to/yasmina207/komandy-tierminala-j9p)
+- [for loop](https://dev.to/mahamadjon000/for-loop-475b)
+- [Conditional operator](https://dev.to/sanjar777/conditional-operator-14ha)
 <!-- BLOG-POST-LIST:END -->
 
