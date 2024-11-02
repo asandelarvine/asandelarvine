@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Flask app using docker Compose](https://dev.to/rajnishspandey/deploy-flask-app-using-docker-compose-4i81)
-- [Deferred Task Management: Flexible Background Scheduling in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/deferred-task-management-flexible-background-scheduling-in-harmonyos-next-4p8f)
-- [Declaration Merging in TS](https://dev.to/kasir-barati/declarationmerging-in-ts-5g5b)
-- [延迟任务管理：HarmonyOS Next 的灵活后台调度](https://dev.to/xun_wang_6384a403f9817c2/yan-chi-ren-wu-guan-li-harmonyos-next-de-ling-huo-hou-tai-diao-du-1pc9)
+- [Conditional operator](https://dev.to/munisa_kuranbekova_078e1e/conditional-operator-1lfd)
+- [1MinDocker #4 - Docker CLI essentials](https://dev.to/astrabert/1mindocker-4-docker-cli-essentials-33pl)
+- [PWC 293 Similar Dominos Done Badly](https://dev.to/boblied/pwc-293-similar-dominos-done-badly-4gpc)
+- [Function #2.](https://dev.to/abdumomin0/function-2-412b)
 <!-- BLOG-POST-LIST:END -->
 
