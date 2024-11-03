@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching the Ultimate GitHub Repository for Tech FAQs: Awesome 0x3d FAQ&#39;s Collection! 🎉](https://dev.to/0x3d_site/launching-the-ultimate-github-repository-for-tech-faqs-awesome-0x3d-faqs-collection-2md7)
+- [Master Cron Expressions In 2 minutes](https://dev.to/mohsenkamrani/master-cron-expressions-in-2-minutes-2b8f)
 - [Coersion in JS - A Quick Brushup](https://dev.to/rameshpvr/coersion-in-js-a-quick-brushup-3d8n)
 - [How to run for inference Llama-3_1-Nemotron-51B-Instruct?](https://dev.to/nodeshiftcloud/how-to-run-for-inference-llama-31-nemotron-51b-instruct-kcm)
-- [Building a Simple Blockchain in Golang](https://dev.to/thesaltree/building-a-simple-blockchain-in-golang-4351)
-- [How to Implement a Custom BackupExtensionAbility in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/how-to-implement-a-custom-backupextensionability-in-harmonyos-next-4ip0)
 <!-- BLOG-POST-LIST:END -->
 
