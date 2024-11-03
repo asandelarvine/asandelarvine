@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Light Path Learning Demo!](https://dev.to/evanmarie/light-path-learning-demo-4e52)
-- [My Hacktoberfest 2024 Journey: From First Pull Request to Open Source Growth](https://dev.to/dapphari007/my-hacktoberfest-2024-journey-from-first-pull-request-to-open-source-growth-17i1)
-- [Maximizing SaaS Competitive Edge in the AI Era](https://dev.to/airabbit/have-you-ever-continued-using-a-service-that-doesnt-fully-meet-your-needs-simply-because-changing-17pl)
-- [21/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/21365-days-y10m-japan-job-challenge-4o2n)
+- [Building a Video Room Management API: Integrating Go, Twilio, and Zap Logging](https://dev.to/dioarafi/building-a-video-room-management-api-integrating-go-twilio-and-zap-logging-1306)
+- [Storybook: The Workshop for Modern Frontends](https://dev.to/kairoeder/storybook-the-workshop-for-modern-frontends-1d6e)
+- [CKA Full Course 2024: Day 13/40 Static Pods, Manual Scheduling, Labels, and Selectors in Kubernetes](https://dev.to/lloydrivers/cka-full-course-2024-day-1340-static-pods-manual-scheduling-labels-and-selectors-in-kubernetes-29jb)
+- [How to create an App Service Application and upload into it &lpar;WEB APP&rpar;](https://dev.to/ajayi/how-to-create-an-app-service-application-and-upload-into-it-web-app-36nn)
 <!-- BLOG-POST-LIST:END -->
 
