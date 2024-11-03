@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Amazon Location Service Updates - 2024.10](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202410-3mjc)
-- [Massivlar /2.](https://dev.to/_e7530225be583f1/massivlar-2-563m)
-- [Similar boomerang](https://dev.to/simongreennet/similar-boomerang-2h88)
-- [My Journey into Nested Functions in Dart: From Curiosity to Clarity.](https://dev.to/dev_toykam/my-journey-into-nested-functions-in-dart-from-curiosity-to-clarity-2kc3)
+- [Kotlin Properties vs. Java Fields: A Tale of Two Variables &lpar;Where Kotlin Has More Tricks Up Its Sleeve!&rpar;](https://dev.to/hamada147/kotlin-properties-vs-java-fields-a-tale-of-two-variables-where-kotlin-has-more-tricks-up-its-sleeve-2i58)
+- [Exploring ChatGPT&#39;s New Search Feature: A Powerful Tool for Real-Time Information](https://dev.to/magsimuhammadessa/exploring-chatgpts-new-search-feature-a-powerful-tool-for-real-time-information-d7e)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-2bn7)
+- [GitHub Copilot Got You Down? Here&#39;s a Free Alternative That&#39;ll Change Your Coding Game](https://dev.to/usmanzahidcode/github-copilot-got-you-down-heres-a-free-alternative-thatll-change-your-coding-game-355j)
 <!-- BLOG-POST-LIST:END -->
 
