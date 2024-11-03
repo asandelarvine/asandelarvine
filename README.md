@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Video Room Management API: Integrating Go, Twilio, and Zap Logging](https://dev.to/dioarafi/building-a-video-room-management-api-integrating-go-twilio-and-zap-logging-1306)
-- [Storybook: The Workshop for Modern Frontends](https://dev.to/kairoeder/storybook-the-workshop-for-modern-frontends-1d6e)
-- [CKA Full Course 2024: Day 13/40 Static Pods, Manual Scheduling, Labels, and Selectors in Kubernetes](https://dev.to/lloydrivers/cka-full-course-2024-day-1340-static-pods-manual-scheduling-labels-and-selectors-in-kubernetes-29jb)
-- [How to create an App Service Application and upload into it &lpar;WEB APP&rpar;](https://dev.to/ajayi/how-to-create-an-app-service-application-and-upload-into-it-web-app-36nn)
+- [Criando uma Aplicação Web para QA Testers: Lista de Tarefas de Qualidade](https://dev.to/marquezbertin/criando-uma-aplicacao-web-para-qa-testers-lista-de-tarefas-de-qualidade-3bm9)
+- [Hacktoberfest 2024: My 2nd Year Experience as A Maintainer](https://dev.to/adiatiayu/hacktoberfest-2024-my-2nd-year-experience-as-a-maintainer-n7f)
+- [Как убрать каплю снизу, когда нажимаешь на BasicTextFiled](https://dev.to/merqury14092/kak-ubrat-kapliu-snizu-koghda-nazhimaiesh-na-basictextfiled-57ip)
+- [Dynamic Risk-Based Updates Using Python and Excel](https://dev.to/sebos/dynamic-risk-based-updates-using-python-and-excel-dcp)
 <!-- BLOG-POST-LIST:END -->
 
