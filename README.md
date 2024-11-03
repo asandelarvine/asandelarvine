@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplified Community Moderation with Web4: Strategies for Effective Management](https://dev.to/web4/simplified-community-moderation-with-web4-strategies-for-effective-management-4287)
-- [A Beginner’s Guide to Subnetting, CIDR, Network, and Hosts](https://dev.to/574n13y/a-beginners-guide-to-subnetting-cidr-network-and-hosts-3a4l)
-- [Designing Better Tables: Using Popovers for Extra Data](https://dev.to/madsstoumann/designing-better-tables-using-popovers-for-extra-data-d1i)
-- [Will AI Take Kubernetes And Developer Jobs?](https://dev.to/thenjdevopsguy/will-ai-take-kubernetes-and-developer-jobs-2e3d)
+- [Claude AI now runs JavaScript, Python beats JavaScript on GitHub, new Node.js versions and more](https://dev.to/thisweekinjavascript/claude-ai-now-runs-javascript-python-beats-javascript-on-github-new-nodejs-versions-and-more-2f0l)
+- [10 Ways AI with SharpAPI is Transforming Travel Tech](https://dev.to/makowskid/10-ways-ai-with-sharpapi-is-transforming-travel-tech-2087)
+- [Reflecting on Hacktoberfest 2024](https://dev.to/cleobnvntra/reflecting-on-hacktoberfest-2024-43k4)
+- [Constructors in java](https://dev.to/devmercy/constructors-in-java-13b5)
 <!-- BLOG-POST-LIST:END -->
 
