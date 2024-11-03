@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Properties vs. Java Fields: A Tale of Two Variables &lpar;Where Kotlin Has More Tricks Up Its Sleeve!&rpar;](https://dev.to/hamada147/kotlin-properties-vs-java-fields-a-tale-of-two-variables-where-kotlin-has-more-tricks-up-its-sleeve-2i58)
-- [Exploring ChatGPT&#39;s New Search Feature: A Powerful Tool for Real-Time Information](https://dev.to/magsimuhammadessa/exploring-chatgpts-new-search-feature-a-powerful-tool-for-real-time-information-d7e)
-- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-2bn7)
-- [GitHub Copilot Got You Down? Here&#39;s a Free Alternative That&#39;ll Change Your Coding Game](https://dev.to/usmanzahidcode/github-copilot-got-you-down-heres-a-free-alternative-thatll-change-your-coding-game-355j)
+- [Angular Signals: From Zero to Hero](https://dev.to/soumayaerradi/angular-signals-from-zero-to-hero-4j2d)
+- [Absoulate import in node express typescript project configrations.](https://dev.to/khalid7487/absoulate-import-in-node-express-typescript-project-configrations-3le4)
+- [PostgreSQL vs. MySQL](https://dev.to/mermaidseaweav/postgresql-vs-mysql-5c5m)
+- [Using Stable Diffusion in AWS Bedrock to Generate Images](https://dev.to/muash10/using-stable-diffusion-in-aws-bedrock-to-generate-images-1h70)
 <!-- BLOG-POST-LIST:END -->
 
