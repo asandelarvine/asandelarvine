@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Converting Blazor Project to WebForms Core](https://dev.to/elanatframework/converting-blazor-project-to-webforms-core-4kaj)
-- [How I processed over 1M Entries per request - With Go!](https://dev.to/grimmacez/how-i-processed-over-1m-entries-per-request-with-go-2hpp)
-- [New Project: Code Updater](https://dev.to/programmeral/new-project-code-updater-3mj0)
-- [Mastering Error Handling in .NET 8: Strategies for Minimal APIs and Controllers](https://dev.to/leandroveiga/mastering-error-handling-in-net-8-strategies-for-minimal-apis-and-controllers-3eb)
+- [Light Path Learning Demo!](https://dev.to/evanmarie/light-path-learning-demo-4e52)
+- [My Hacktoberfest 2024 Journey: From First Pull Request to Open Source Growth](https://dev.to/dapphari007/my-hacktoberfest-2024-journey-from-first-pull-request-to-open-source-growth-17i1)
+- [Maximizing SaaS Competitive Edge in the AI Era](https://dev.to/airabbit/have-you-ever-continued-using-a-service-that-doesnt-fully-meet-your-needs-simply-because-changing-17pl)
+- [21/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/21365-days-y10m-japan-job-challenge-4o2n)
 <!-- BLOG-POST-LIST:END -->
 
