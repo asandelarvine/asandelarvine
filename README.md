@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals: From Zero to Hero](https://dev.to/soumayaerradi/angular-signals-from-zero-to-hero-4j2d)
-- [Absoulate import in node express typescript project configrations.](https://dev.to/khalid7487/absoulate-import-in-node-express-typescript-project-configrations-3le4)
-- [PostgreSQL vs. MySQL](https://dev.to/mermaidseaweav/postgresql-vs-mysql-5c5m)
-- [Using Stable Diffusion in AWS Bedrock to Generate Images](https://dev.to/muash10/using-stable-diffusion-in-aws-bedrock-to-generate-images-1h70)
+- [Simplified Community Moderation with Web4: Strategies for Effective Management](https://dev.to/web4/simplified-community-moderation-with-web4-strategies-for-effective-management-4287)
+- [A Beginner’s Guide to Subnetting, CIDR, Network, and Hosts](https://dev.to/574n13y/a-beginners-guide-to-subnetting-cidr-network-and-hosts-3a4l)
+- [Designing Better Tables: Using Popovers for Extra Data](https://dev.to/madsstoumann/designing-better-tables-using-popovers-for-extra-data-d1i)
+- [Will AI Take Kubernetes And Developer Jobs?](https://dev.to/thenjdevopsguy/will-ai-take-kubernetes-and-developer-jobs-2e3d)
 <!-- BLOG-POST-LIST:END -->
 
