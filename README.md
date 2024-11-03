@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude AI now runs JavaScript, Python beats JavaScript on GitHub, new Node.js versions and more](https://dev.to/thisweekinjavascript/claude-ai-now-runs-javascript-python-beats-javascript-on-github-new-nodejs-versions-and-more-2f0l)
-- [10 Ways AI with SharpAPI is Transforming Travel Tech](https://dev.to/makowskid/10-ways-ai-with-sharpapi-is-transforming-travel-tech-2087)
-- [Reflecting on Hacktoberfest 2024](https://dev.to/cleobnvntra/reflecting-on-hacktoberfest-2024-43k4)
-- [Constructors in java](https://dev.to/devmercy/constructors-in-java-13b5)
+- [Integrating Copyright Component in Angular Application](https://dev.to/sudhakar_george_e6d1f136f/integrating-copyright-component-in-angular-application-jb9)
+- [AWS CDK + Localstack &lpar;API Gateway, Lambda, SQS, DynamoDB,TypeScript&rpar;](https://dev.to/gins_cyriac/aws-cdk-localstack-api-gateway-lambda-sqs-dynamodbtypescript-man)
+- [Ensuring Deployment Accuracy with air sandbox diff in AbInitio](https://dev.to/somnathseeni/ensuring-deployment-accuracy-with-air-sandbox-diff-in-abinitio-pp2)
+- [Hacktoberfest 2024: Beginning of my open-source journey](https://dev.to/thelegendev/hacktoberfest-2024-beginning-of-my-open-source-journey-4p24)
 <!-- BLOG-POST-LIST:END -->
 
