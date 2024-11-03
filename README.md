@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Allowlist vs Denylist: When to use them](https://dev.to/mateuscechetto/allowlist-vs-denylist-when-to-use-them-5d6c)
-- [The Cascade Conspiracy: Why Your CSS Reset Might Be Working Against You](https://dev.to/eioluseyi/the-cascade-conspiracy-why-your-css-reset-might-be-working-against-you-3fo6)
-- [Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/sourishsr31/exploratory-data-analysis-eda-gib)
-- [The Role of Statistics in Data Science](https://dev.to/sourishsr31/the-role-of-statistics-in-data-science-201o)
+- [How to Implement a Custom BackupExtensionAbility in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/how-to-implement-a-custom-backupextensionability-in-harmonyos-next-4ip0)
+- [Essential VS Code Extensions for PHP &amp; Laravel Development](https://dev.to/nasrulhazim/essential-vs-code-extensions-for-php-laravel-development-ah)
+- [如何在 HarmonyOS Next 中实现自定义 BackupExtensionAbility](https://dev.to/xun_wang_6384a403f9817c2/ru-he-zai-harmonyos-next-zhong-shi-xian-zi-ding-yi-backupextensionability-138n)
+- [When I tried pair programming for infrastructure work, it turned out to be super effective!](https://dev.to/kakisoft/when-i-tried-pair-programming-for-infrastructure-work-it-turned-out-to-be-super-effective-449g)
 <!-- BLOG-POST-LIST:END -->
 
