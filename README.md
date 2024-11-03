@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Navigate a New Codebase](https://dev.to/koladev/how-to-quickly-navigate-a-new-codebase-48i9)
-- [Writing Terraform Configurations](https://dev.to/khurammurad/writing-terraform-configurations-a-beginners-guide-4b6b)
-- [Debian in WSL not Ubuntu](https://dev.to/talepunk/debian-in-wsl-not-ubuntu-3j28)
-- [Experiences and Caveats of Svelte 5 Migration](https://dev.to/kvetoslavnovak/experiences-and-caveats-of-svelte-5-migration-27cp)
+- [Monthly Amazon Location Service Updates - 2024.10](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202410-3mjc)
+- [Massivlar /2.](https://dev.to/_e7530225be583f1/massivlar-2-563m)
+- [Similar boomerang](https://dev.to/simongreennet/similar-boomerang-2h88)
+- [My Journey into Nested Functions in Dart: From Curiosity to Clarity.](https://dev.to/dev_toykam/my-journey-into-nested-functions-in-dart-from-curiosity-to-clarity-2kc3)
 <!-- BLOG-POST-LIST:END -->
 
