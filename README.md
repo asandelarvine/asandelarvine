@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Windows Hypervisor Platform in Windows 11](https://dev.to/winsides/enable-windows-hypervisor-platform-in-windows-11-3502)
-- [12 Useful Developer Tools You Will Wish You Knew Sooner 🧑‍💻🧙](https://dev.to/safdarali/12-useful-developer-tools-you-will-wish-you-knew-sooner-3c77)
-- [Leetcode — Top Interview 150 — Remove Element](https://dev.to/bendlmp/leetcode-top-interview-150-remove-element-ca9)
-- [Transferring BTC Total data to amount on page 2 &lpar;help&rpar;](https://dev.to/chezciacbro/transferring-btc-total-data-to-amount-on-page-2-help-5ec0)
+- [Allowlist vs Denylist: When to use them](https://dev.to/mateuscechetto/allowlist-vs-denylist-when-to-use-them-5d6c)
+- [The Cascade Conspiracy: Why Your CSS Reset Might Be Working Against You](https://dev.to/eioluseyi/the-cascade-conspiracy-why-your-css-reset-might-be-working-against-you-3fo6)
+- [Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/sourishsr31/exploratory-data-analysis-eda-gib)
+- [The Role of Statistics in Data Science](https://dev.to/sourishsr31/the-role-of-statistics-in-data-science-201o)
 <!-- BLOG-POST-LIST:END -->
 
