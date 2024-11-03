@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Copyright Component in Angular Application](https://dev.to/sudhakar_george_e6d1f136f/integrating-copyright-component-in-angular-application-jb9)
-- [AWS CDK + Localstack &lpar;API Gateway, Lambda, SQS, DynamoDB,TypeScript&rpar;](https://dev.to/gins_cyriac/aws-cdk-localstack-api-gateway-lambda-sqs-dynamodbtypescript-man)
-- [Ensuring Deployment Accuracy with air sandbox diff in AbInitio](https://dev.to/somnathseeni/ensuring-deployment-accuracy-with-air-sandbox-diff-in-abinitio-pp2)
-- [Hacktoberfest 2024: Beginning of my open-source journey](https://dev.to/thelegendev/hacktoberfest-2024-beginning-of-my-open-source-journey-4p24)
+- [Converting Blazor Project to WebForms Core](https://dev.to/elanatframework/converting-blazor-project-to-webforms-core-4kaj)
+- [How I processed over 1M Entries per request - With Go!](https://dev.to/grimmacez/how-i-processed-over-1m-entries-per-request-with-go-2hpp)
+- [New Project: Code Updater](https://dev.to/programmeral/new-project-code-updater-3mj0)
+- [Mastering Error Handling in .NET 8: Strategies for Minimal APIs and Controllers](https://dev.to/leandroveiga/mastering-error-handling-in-net-8-strategies-for-minimal-apis-and-controllers-3eb)
 <!-- BLOG-POST-LIST:END -->
 
