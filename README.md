@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure PHPStorm to work with Vite - Aliases](https://dev.to/tuandm/how-to-configure-phpstorm-to-work-with-vite-aliases-4j86)
-- [Travel Journal Web App](https://dev.to/kaoria/travel-journal-web-app-3357)
-- [Dominate Object-Oriented Programming &lpar;OOP&rpar; in JavaScript.](https://dev.to/shafayeat/dominate-object-oriented-programming-oop-in-javascript-3n65)
-- [My First Hacktoberfest as a Repo Maintainer: A Journey of Growth and Learning](https://dev.to/bijiyiqi2017/my-first-hacktoberfest-as-a-repo-maintainer-a-journey-of-growth-and-learning-44o)
+- [What is JavaScript ?](https://dev.to/dev_bilal/what-is-javascript--3ikc)
+- [How to Enable IIS Management Console in Windows 11?](https://dev.to/winsides/how-to-enable-iis-management-console-in-windows-11-2m8i)
+- [Two New LINQ Methods in .NET 9: CountBy and Index](https://dev.to/canro91/two-new-linq-methods-in-net-9-countby-and-index-1ebd)
+- [My Hacktoberfest Journey: From Beginner to Confident Contributor](https://dev.to/divanshi_goyal/my-hacktoberfest-journey-from-beginner-to-confident-contributor-5f3g)
 <!-- BLOG-POST-LIST:END -->
 
