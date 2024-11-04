@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 open-source AI coding tools that every developer should know 🎯](https://dev.to/composiodev/9-open-source-ai-coding-tools-that-every-developer-should-know-28l4)
-- [Integrating Redis with Django for High-Performance Caching](https://dev.to/praseesh_p_/integrating-redis-with-django-for-high-performance-caching-490b)
-- [Install NATS on Debian/Ubuntu](https://dev.to/amjadmh73/install-nats-on-debianubuntu-2op3)
-- [¿Cómo funciona Comparator en Java?](https://dev.to/asjordi/como-funciona-comparator-en-java-2lfg)
+- [Monday Monday](https://dev.to/ben/monday-monday-2kkm)
+- [Transforming JSON with AI: Dynamic Processing vs. Filter Generation](https://dev.to/airabbit/transforming-json-with-ai-dynamic-processing-vs-filter-generation-2n8i)
+- [eq and ne in PyTorch](https://dev.to/hyperkai/eq-and-ne-in-pytorch-1ai8)
+- [Challenges and Solutions in Implementing AI for Software Testing](https://dev.to/anil_csimplifyit_905c/challenges-and-solutions-in-implementing-ai-for-software-testing-2533)
 <!-- BLOG-POST-LIST:END -->
 
