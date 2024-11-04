@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monday Monday](https://dev.to/ben/monday-monday-2kkm)
-- [Transforming JSON with AI: Dynamic Processing vs. Filter Generation](https://dev.to/airabbit/transforming-json-with-ai-dynamic-processing-vs-filter-generation-2n8i)
-- [eq and ne in PyTorch](https://dev.to/hyperkai/eq-and-ne-in-pytorch-1ai8)
-- [Challenges and Solutions in Implementing AI for Software Testing](https://dev.to/anil_csimplifyit_905c/challenges-and-solutions-in-implementing-ai-for-software-testing-2533)
+- [Our problem with backlogs](https://dev.to/daniel-octomind/our-problem-with-backlogs-dk5)
+- [Top Mobile App Development Trends for 2024: What Every Developer Should Know](https://dev.to/salahuddin_ahmed_31bd5114/top-mobile-app-development-trends-for-2024-what-every-developer-should-know-c1p)
+- [Boost Your React App&#39;s Performance with Memoization: Exploring useMemo, useCallback, and React.memo](https://dev.to/saeedniyabati/boost-your-react-apps-performance-with-memoization-exploring-usememo-usecallback-and-reactmemo-35p1)
+- [How to configure TSC + Webpack + ESM for NodeJS](https://dev.to/kasir-barati/how-to-configure-tsc-webpack-esm-for-nodejs-1j6j)
 <!-- BLOG-POST-LIST:END -->
 
