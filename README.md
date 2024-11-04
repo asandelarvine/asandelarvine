@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EIP-7702: Along the Path to Account Abstraction](https://dev.to/alexandradev/eip-7702-along-the-path-to-account-abstraction-5cbb)
-- [🚀 Building an AI-Powered Call Intelligence System: A Developer&#39;s Epic Journey](https://dev.to/biswajitfsd/building-an-ai-powered-call-intelligence-system-a-developers-epic-journey-3oi2)
-- [Comparison of Popular JavaScript Frameworks: React, Vue and Angular](https://dev.to/cathzh/comparison-of-popular-javascript-frameworks-react-vue-and-angular-461)
-- [Understanding the Meaning of Re-Crawling from an SEO Perspective](https://dev.to/juddiy/understanding-the-meaning-of-re-crawling-from-an-seo-perspective-3o8n)
+- [Playwright vs. Puppeteer: Choosing the Right Browser Automation Library](https://dev.to/testifytech/playwright-vs-puppeteer-choosing-the-right-browser-automation-library-47ec)
+- [Getting Back to the Gym After Diwali: Return of the Software Developer](https://dev.to/ysinghchouhan/getting-back-to-the-gym-after-diwali-return-of-the-software-developer-2ad7)
+- [EchoAPI vs. Postman: Why EchoAPI is the Superior Choice for API Management](https://dev.to/patrick_61cbc6392b72286f6/echoapi-vs-postman-why-echoapi-is-the-superior-choice-for-api-management-fno)
+- [Why 90% of &#39;Software Engineers&#39; Are Actually Just Code Monkeys](https://dev.to/themuneebh/why-most-software-engineers-arent-actually-engineers-153i)
 <!-- BLOG-POST-LIST:END -->
 
