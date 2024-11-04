@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an API: A Step-by-Step Guide to API Development](https://dev.to/getambassador2024/how-to-build-an-api-a-step-by-step-guide-to-api-development-gpp)
-- [Anti Bot Protection with SafeLine 7.0](https://dev.to/carrie_luo1/anti-bot-protection-with-safeline-70-5bmm)
-- [A Better VS Code Plugin than Thunder Client](https://dev.to/eleanor_fairfax_5ce95399d/a-better-vs-code-plugin-than-thunder-client-3go2)
-- [User Authentication API with Express, JWT, Bcrypt, and MySQL](https://dev.to/gautam_kumar_d3daad738680/secure-user-authentication-api-with-express-jwt-bcrypt-and-mysql-16aj)
+- [You should know it CPU and Kernel ?](https://dev.to/theonlineaid/you-should-know-it-cpu-and-kernel--579h)
+- [Bypassing Bot Detection Software with Selenium in Python](https://dev.to/thetanweerali/bypassing-bot-detection-software-with-selenium-in-python-1mec)
+- [⚡ 🚀 Top 10 Trending GitHub Repositories, November 2024 🔥](https://dev.to/leamsigc/top-10-trending-github-repositories-october-2024-5ebg)
+- [Introducing FinanceFolio: Your Free Solution for Asset Management and Portfolio Tracking](https://dev.to/matek075/introducing-financefolio-your-free-solution-for-asset-management-and-portfolio-tracking-3038)
 <!-- BLOG-POST-LIST:END -->
 
