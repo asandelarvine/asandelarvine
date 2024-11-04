@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Serverless with Dart: AWS Lambda for Flutter Devs](https://dev.to/dinko7/going-serverless-with-dart-aws-lambda-for-flutter-devs-l1b)
-- [Method Chain: filter&lpar;&rpar;.map&lpar;&rpar; is inefficient?](https://dev.to/toshiya_matsumoto_ac94abe/method-chain-filtermap-is-inefficient-2gna)
-- [How do I set up a new app on Coolify?](https://dev.to/andretation/how-do-i-set-up-a-new-app-on-coolify-1ncj)
-- [Tauri 2.0 - Sqlite DB - React](https://dev.to/focuscookie/tauri-20-sqlite-db-react-2aem)
+- [9 open-source AI coding tools that every developer should know 🎯](https://dev.to/composiodev/9-open-source-ai-coding-tools-that-every-developer-should-know-28l4)
+- [Integrating Redis with Django for High-Performance Caching](https://dev.to/praseesh_p_/integrating-redis-with-django-for-high-performance-caching-490b)
+- [Install NATS on Debian/Ubuntu](https://dev.to/amjadmh73/install-nats-on-debianubuntu-2op3)
+- [¿Cómo funciona Comparator en Java?](https://dev.to/asjordi/como-funciona-comparator-en-java-2lfg)
 <!-- BLOG-POST-LIST:END -->
 
