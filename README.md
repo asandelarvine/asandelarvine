@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 RTO benefits that might surprise you](https://dev.to/fahimulhaq/5-rto-benefits-that-might-surprise-you-483m)
-- [Como funcionam Bindings no KnockoutJs](https://dev.to/santanaluc94/como-funcionam-bindings-no-knockoutjs-5328)
-- [Multithreading Concepts Part 3 : Deadlock](https://dev.to/anwaar/multithreading-concepts-part-3-deadlock-4ip6)
-- [&quot;React or Next.js? Key Differences Every Developer Should Know&quot;](https://dev.to/jamshed1777/react-or-nextjs-key-differences-every-developer-should-know-36gh)
+- [Regime.sh – A minimalist approach to daily scheduling](https://dev.to/maksimmuravev/regimesh-a-minimalist-approach-to-daily-scheduling-18n3)
+- [Mastering Blockchain: A Hands-On Journey with Go](https://dev.to/getvm/mastering-blockchain-a-hands-on-journey-with-go-15ek)
+- [Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](https://dev.to/tutti/evidence-backed-fact-checking-using-rag-and-few-shot-in-context-learning-with-llms-n3f)
+- [🚀 Your Daily Crypto Job Digest For 04 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-november-2c1g)
 <!-- BLOG-POST-LIST:END -->
 
