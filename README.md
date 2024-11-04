@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our problem with backlogs](https://dev.to/daniel-octomind/our-problem-with-backlogs-dk5)
-- [Top Mobile App Development Trends for 2024: What Every Developer Should Know](https://dev.to/salahuddin_ahmed_31bd5114/top-mobile-app-development-trends-for-2024-what-every-developer-should-know-c1p)
-- [Boost Your React App&#39;s Performance with Memoization: Exploring useMemo, useCallback, and React.memo](https://dev.to/saeedniyabati/boost-your-react-apps-performance-with-memoization-exploring-usememo-usecallback-and-reactmemo-35p1)
-- [How to configure TSC + Webpack + ESM for NodeJS](https://dev.to/kasir-barati/how-to-configure-tsc-webpack-esm-for-nodejs-1j6j)
+- [Building a Regex Engine in Go: Introducing MatchGo](https://dev.to/ravikishan/building-a-regex-engine-in-go-introducing-matchgo-4i76)
+- [Advanced Next.js caching strategies](https://dev.to/leemeganj/advanced-nextjs-caching-strategies-akm)
+- [Total Quality Management Framework with AI: Revolutionizing Business Excellence](https://dev.to/ishmam_jahan_4269b6f13ba5/total-quality-management-framework-with-ai-revolutionizing-business-excellence-1ni8)
+- [Starting to Rust](https://dev.to/doken/starting-to-rust-35pf)
 <!-- BLOG-POST-LIST:END -->
 
