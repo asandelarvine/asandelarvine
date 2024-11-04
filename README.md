@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Steps for JWT Authentication in Node.js Application](https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk)
-- [Writing Good Automated Tests with AI: A Case Study](https://dev.to/zenika/writing-good-automated-tests-with-ai-a-case-study-19d)
-- [☝️ One thing which has helped me IMMENSELY in learning SwiftUI...](https://dev.to/auden_pierce/one-thing-which-has-helped-me-immensely-in-learning-swiftui-2n2o)
-- [Mode, Mean, Median Using User Defined Function In Java](https://dev.to/takatws/mode-mean-median-using-user-defined-function-in-java-4p33)
+- [Is there an Alternative to Debezium + Kafka?](https://dev.to/lazypro/is-there-an-alternative-to-debezium-kafka-1abk)
+- [Average Reads and &quot;Do It Anyway&quot;](https://dev.to/haleyelder/average-reads-and-do-it-anyway-e0)
+- [How to Improve Development Efficiency Through Automated API Testing](https://dev.to/cloudtestify/how-to-improve-development-efficiency-through-automated-api-testing-cml)
+- [Noob here](https://dev.to/fazeena_asmi_/noob-here-2mnm)
 <!-- BLOG-POST-LIST:END -->
 
