@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is JavaScript ?](https://dev.to/dev_bilal/what-is-javascript--3ikc)
-- [How to Enable IIS Management Console in Windows 11?](https://dev.to/winsides/how-to-enable-iis-management-console-in-windows-11-2m8i)
-- [Two New LINQ Methods in .NET 9: CountBy and Index](https://dev.to/canro91/two-new-linq-methods-in-net-9-countby-and-index-1ebd)
-- [My Hacktoberfest Journey: From Beginner to Confident Contributor](https://dev.to/divanshi_goyal/my-hacktoberfest-journey-from-beginner-to-confident-contributor-5f3g)
+- [Introducing Rate Keeper: A Compact Utility for Robust Rate Limiting](https://dev.to/skullzarmy/introducing-rate-keeper-a-compact-utility-for-robust-rate-limiting-37ib)
+- [Quick Guide: Spinning Up Vagrant in No Time](https://dev.to/devops_descent/quick-guide-spinning-up-vagrant-in-no-time-4gh1)
+- [Rendering in Next.js](https://dev.to/anisriva/rendering-in-nextjs-4de1)
+- [Frontend Mentor Challenge: Form Validation](https://dev.to/kaoria/frontend-mentor-challenge-form-validation-4kdn)
 <!-- BLOG-POST-LIST:END -->
 
