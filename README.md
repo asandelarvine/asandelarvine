@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System design: Building a Vending Machine in Go](https://dev.to/thesaltree/system-design-building-a-vending-machine-in-go-340p)
-- [VS Code YAML Plugin Setup for Kubernetes Beginners](https://dev.to/lloydrivers/vs-code-yaml-plugin-setup-for-kubernetes-beginners-10hf)
-- [Improve Your Developer Blog Traffic Using SEO Strategies That Work](https://dev.to/okoye_ndidiamaka_5e3b7d30/improve-your-developer-blog-traffic-using-seo-strategies-that-work-41p3)
-- [Mastering Binary Search in JavaScript and Java: A Step-by-Step Guide](https://dev.to/mspilari/mastering-binary-search-in-javascript-and-java-a-step-by-step-guide-2cfn)
+- [5 RTO benefits that might surprise you](https://dev.to/fahimulhaq/5-rto-benefits-that-might-surprise-you-483m)
+- [Como funcionam Bindings no KnockoutJs](https://dev.to/santanaluc94/como-funcionam-bindings-no-knockoutjs-5328)
+- [Multithreading Concepts Part 3 : Deadlock](https://dev.to/anwaar/multithreading-concepts-part-3-deadlock-4ip6)
+- [&quot;React or Next.js? Key Differences Every Developer Should Know&quot;](https://dev.to/jamshed1777/react-or-nextjs-key-differences-every-developer-should-know-36gh)
 <!-- BLOG-POST-LIST:END -->
 
