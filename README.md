@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache redirects, even after fresh install](https://dev.to/jonathan_bauer_cbad9050c9/apache-redirects-even-after-fresh-install-356f)
-- [NodeList and HTMLCollection](https://dev.to/sonaykara/understanding-nodelist-and-htmlcollection-differences-behavior-and-examples-2j9c)
-- [Just learnt about Vue.js](https://dev.to/hunzombi/just-learnt-about-vuejs-33d2)
-- [Creating Custom Template and Managing IP Addresses in Microsoft Azure: Dissociation and Association Explained](https://dev.to/tjasper/creating-custom-template-and-managing-ip-addresses-in-microsoft-azure-dissociation-and-association-explained-1ceh)
+- [Introducing Fullstack Next.js Support on Fleek: Build, Deploy, and Scale Dynamic Apps with Ease](https://dev.to/fleek/introducing-fullstack-nextjs-support-on-fleek-build-deploy-and-scale-dynamic-apps-with-ease-1f4f)
+- [Glossary Google Cloud](https://dev.to/valerianagit/glossary-google-cloud-3c00)
+- [☁️ Google Cloud Preparation for Cloud Digital Leader Exam Classes and Exam Tips](https://dev.to/valerianagit/google-cloud-preparation-for-cloud-digital-leader-exam-classes-and-exam-tips-1i61)
+- [Tic-tac-toe: I thought this post would never come...](https://dev.to/codecara/tic-tac-toe-i-thought-this-post-would-never-come-1nc0)
 <!-- BLOG-POST-LIST:END -->
 
