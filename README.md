@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there an Alternative to Debezium + Kafka?](https://dev.to/lazypro/is-there-an-alternative-to-debezium-kafka-1abk)
-- [Average Reads and &quot;Do It Anyway&quot;](https://dev.to/haleyelder/average-reads-and-do-it-anyway-e0)
-- [How to Improve Development Efficiency Through Automated API Testing](https://dev.to/cloudtestify/how-to-improve-development-efficiency-through-automated-api-testing-cml)
-- [Noob here](https://dev.to/fazeena_asmi_/noob-here-2mnm)
+- [How I built my first mechanical keyboard [Tutorial] [Part 1]](https://dev.to/miriacode/how-i-built-my-first-mechanical-keyboard-tutorial-part-1-4oe)
+- [Quality isn&#39;t a four letter word](https://dev.to/cheetah100/quality-isnt-a-four-letter-word-4jc6)
+- [Callback - JavaScript Challenges](https://dev.to/mitchell_cheng/callback-javascript-challenges-2a5o)
+- [User File Access and Permission Control Based on File Access Framework in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/user-file-access-and-permission-control-based-on-file-access-framework-in-harmonyos-next-290b)
 <!-- BLOG-POST-LIST:END -->
 
