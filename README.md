@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright vs. Puppeteer: Choosing the Right Browser Automation Library](https://dev.to/testifytech/playwright-vs-puppeteer-choosing-the-right-browser-automation-library-47ec)
-- [Getting Back to the Gym After Diwali: Return of the Software Developer](https://dev.to/ysinghchouhan/getting-back-to-the-gym-after-diwali-return-of-the-software-developer-2ad7)
-- [EchoAPI vs. Postman: Why EchoAPI is the Superior Choice for API Management](https://dev.to/patrick_61cbc6392b72286f6/echoapi-vs-postman-why-echoapi-is-the-superior-choice-for-api-management-fno)
-- [Why 90% of &#39;Software Engineers&#39; Are Actually Just Code Monkeys](https://dev.to/themuneebh/why-most-software-engineers-arent-actually-engineers-153i)
+- [System design: Building a Vending Machine in Go](https://dev.to/thesaltree/system-design-building-a-vending-machine-in-go-340p)
+- [VS Code YAML Plugin Setup for Kubernetes Beginners](https://dev.to/lloydrivers/vs-code-yaml-plugin-setup-for-kubernetes-beginners-10hf)
+- [Improve Your Developer Blog Traffic Using SEO Strategies That Work](https://dev.to/okoye_ndidiamaka_5e3b7d30/improve-your-developer-blog-traffic-using-seo-strategies-that-work-41p3)
+- [Mastering Binary Search in JavaScript and Java: A Step-by-Step Guide](https://dev.to/mspilari/mastering-binary-search-in-javascript-and-java-a-step-by-step-guide-2cfn)
 <!-- BLOG-POST-LIST:END -->
 
