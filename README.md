@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Fullstack Next.js Support on Fleek: Build, Deploy, and Scale Dynamic Apps with Ease](https://dev.to/fleek/introducing-fullstack-nextjs-support-on-fleek-build-deploy-and-scale-dynamic-apps-with-ease-1f4f)
-- [Glossary Google Cloud](https://dev.to/valerianagit/glossary-google-cloud-3c00)
-- [☁️ Google Cloud Preparation for Cloud Digital Leader Exam Classes and Exam Tips](https://dev.to/valerianagit/google-cloud-preparation-for-cloud-digital-leader-exam-classes-and-exam-tips-1i61)
-- [Tic-tac-toe: I thought this post would never come...](https://dev.to/codecara/tic-tac-toe-i-thought-this-post-would-never-come-1nc0)
+- [Estudando - Linguagem Go - Dia 02](https://dev.to/leandroats/estudando-linguagem-go-dia-02-5ghi)
+- [Introduction to jOOQ](https://dev.to/bendlmp/introduction-to-jooq-16ip)
+- [Automate Your C# Library Deployment: Publishing to NuGet and GitHub Packages with GitHub Actions](https://dev.to/rafaeljcamara/automate-your-c-library-deployment-publishing-to-nuget-and-github-packages-with-github-actions-2707)
+- [Understanding merge sort algorithm: Beginner&#39;s guide to mastering sorting algorithm](https://dev.to/emmanuelayinde/understanding-merge-sort-algorithm-beginners-guide-to-mastering-sorting-algorithm-2jp8)
 <!-- BLOG-POST-LIST:END -->
 
