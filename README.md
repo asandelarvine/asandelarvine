@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Regex Engine in Go: Introducing MatchGo](https://dev.to/ravikishan/building-a-regex-engine-in-go-introducing-matchgo-4i76)
-- [Advanced Next.js caching strategies](https://dev.to/leemeganj/advanced-nextjs-caching-strategies-akm)
-- [Total Quality Management Framework with AI: Revolutionizing Business Excellence](https://dev.to/ishmam_jahan_4269b6f13ba5/total-quality-management-framework-with-ai-revolutionizing-business-excellence-1ni8)
-- [Starting to Rust](https://dev.to/doken/starting-to-rust-35pf)
+- [Python beats Javascript, Next.js Leap &amp; the AI Coding Wars](https://dev.to/dev007777/python-beats-javascript-nextjs-leap-the-ai-coding-wars-1kd2)
+- [Next.js containerization using Docker](https://dev.to/redrobotdev/nextjs-containerization-using-docker-dl3)
+- [Structuring Your Space: Designing a Visual Grid](https://dev.to/sandr0p/structuring-your-space-designing-a-visual-grid-4fao)
+- [📝 Cross-Post Project Update: Regex, Bug Fixes, and More Regex!](https://dev.to/jesse_chong_3bcc276c4f950/cross-post-project-update-regex-bug-fixes-and-more-regex-nj6)
 <!-- BLOG-POST-LIST:END -->
 
