@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python beats Javascript, Next.js Leap &amp; the AI Coding Wars](https://dev.to/dev007777/python-beats-javascript-nextjs-leap-the-ai-coding-wars-1kd2)
-- [Next.js containerization using Docker](https://dev.to/redrobotdev/nextjs-containerization-using-docker-dl3)
-- [Structuring Your Space: Designing a Visual Grid](https://dev.to/sandr0p/structuring-your-space-designing-a-visual-grid-4fao)
-- [📝 Cross-Post Project Update: Regex, Bug Fixes, and More Regex!](https://dev.to/jesse_chong_3bcc276c4f950/cross-post-project-update-regex-bug-fixes-and-more-regex-nj6)
+- [Gerando entradas em um arquivo](https://dev.to/devsjavagirls/gerando-entradas-em-um-arquivo-186k)
+- [Update Cursor AI on linux](https://dev.to/kosa12/update-cursor-ai-on-linux-a0h)
+- [Why Next.js is Better than React for Building an E-commerce Website](https://dev.to/arinze_obieze/why-nextjs-is-better-than-react-for-building-an-e-commerce-website-4l79)
+- [Why Clean Architecture Struggles in Golang and What Works Better](https://dev.to/lucasdeataides/why-clean-architecture-struggles-in-golang-and-what-works-better-m4g)
 <!-- BLOG-POST-LIST:END -->
 
