@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Rate Keeper: A Compact Utility for Robust Rate Limiting](https://dev.to/skullzarmy/introducing-rate-keeper-a-compact-utility-for-robust-rate-limiting-37ib)
-- [Quick Guide: Spinning Up Vagrant in No Time](https://dev.to/devops_descent/quick-guide-spinning-up-vagrant-in-no-time-4gh1)
-- [Rendering in Next.js](https://dev.to/anisriva/rendering-in-nextjs-4de1)
-- [Frontend Mentor Challenge: Form Validation](https://dev.to/kaoria/frontend-mentor-challenge-form-validation-4kdn)
+- [How to Build an API: A Step-by-Step Guide to API Development](https://dev.to/getambassador2024/how-to-build-an-api-a-step-by-step-guide-to-api-development-gpp)
+- [Anti Bot Protection with SafeLine 7.0](https://dev.to/carrie_luo1/anti-bot-protection-with-safeline-70-5bmm)
+- [A Better VS Code Plugin than Thunder Client](https://dev.to/eleanor_fairfax_5ce95399d/a-better-vs-code-plugin-than-thunder-client-3go2)
+- [User Authentication API with Express, JWT, Bcrypt, and MySQL](https://dev.to/gautam_kumar_d3daad738680/secure-user-authentication-api-with-express-jwt-bcrypt-and-mysql-16aj)
 <!-- BLOG-POST-LIST:END -->
 
