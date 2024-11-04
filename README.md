@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You should know it CPU and Kernel ?](https://dev.to/theonlineaid/you-should-know-it-cpu-and-kernel--579h)
-- [Bypassing Bot Detection Software with Selenium in Python](https://dev.to/thetanweerali/bypassing-bot-detection-software-with-selenium-in-python-1mec)
-- [⚡ 🚀 Top 10 Trending GitHub Repositories, November 2024 🔥](https://dev.to/leamsigc/top-10-trending-github-repositories-october-2024-5ebg)
-- [Introducing FinanceFolio: Your Free Solution for Asset Management and Portfolio Tracking](https://dev.to/matek075/introducing-financefolio-your-free-solution-for-asset-management-and-portfolio-tracking-3038)
+- [EIP-7702: Along the Path to Account Abstraction](https://dev.to/alexandradev/eip-7702-along-the-path-to-account-abstraction-5cbb)
+- [🚀 Building an AI-Powered Call Intelligence System: A Developer&#39;s Epic Journey](https://dev.to/biswajitfsd/building-an-ai-powered-call-intelligence-system-a-developers-epic-journey-3oi2)
+- [Comparison of Popular JavaScript Frameworks: React, Vue and Angular](https://dev.to/cathzh/comparison-of-popular-javascript-frameworks-react-vue-and-angular-461)
+- [Understanding the Meaning of Re-Crawling from an SEO Perspective](https://dev.to/juddiy/understanding-the-meaning-of-re-crawling-from-an-seo-perspective-3o8n)
 <!-- BLOG-POST-LIST:END -->
 
