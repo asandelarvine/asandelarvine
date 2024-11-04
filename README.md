@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regime.sh – A minimalist approach to daily scheduling](https://dev.to/maksimmuravev/regimesh-a-minimalist-approach-to-daily-scheduling-18n3)
-- [Mastering Blockchain: A Hands-On Journey with Go](https://dev.to/getvm/mastering-blockchain-a-hands-on-journey-with-go-15ek)
-- [Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](https://dev.to/tutti/evidence-backed-fact-checking-using-rag-and-few-shot-in-context-learning-with-llms-n3f)
-- [🚀 Your Daily Crypto Job Digest For 04 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-november-2c1g)
+- [Going Serverless with Dart: AWS Lambda for Flutter Devs](https://dev.to/dinko7/going-serverless-with-dart-aws-lambda-for-flutter-devs-l1b)
+- [Method Chain: filter&lpar;&rpar;.map&lpar;&rpar; is inefficient?](https://dev.to/toshiya_matsumoto_ac94abe/method-chain-filtermap-is-inefficient-2gna)
+- [How do I set up a new app on Coolify?](https://dev.to/andretation/how-do-i-set-up-a-new-app-on-coolify-1ncj)
+- [Tauri 2.0 - Sqlite DB - React](https://dev.to/focuscookie/tauri-20-sqlite-db-react-2aem)
 <!-- BLOG-POST-LIST:END -->
 
