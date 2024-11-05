@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Estudando - Linguagem Go - Dia 02](https://dev.to/leandroats/estudando-linguagem-go-dia-02-5ghi)
-- [Introduction to jOOQ](https://dev.to/bendlmp/introduction-to-jooq-16ip)
-- [Automate Your C# Library Deployment: Publishing to NuGet and GitHub Packages with GitHub Actions](https://dev.to/rafaeljcamara/automate-your-c-library-deployment-publishing-to-nuget-and-github-packages-with-github-actions-2707)
-- [Understanding merge sort algorithm: Beginner&#39;s guide to mastering sorting algorithm](https://dev.to/emmanuelayinde/understanding-merge-sort-algorithm-beginners-guide-to-mastering-sorting-algorithm-2jp8)
+- [Utilisation de Postman pour les Tests d&#39;API : Un Guide Complet](https://dev.to/developpeurtaf/utilisation-de-postman-pour-les-tests-dapi-un-guide-complet-21d3)
+- [React + AWS Cognito: Email Authentication Setup Guide &lpar;First Part&rpar;](https://dev.to/garciadiazjaime/react-aws-cognito-email-authentication-setup-guide-first-part-1ne)
+- [Go Singleflight Melts in Your Code, Not in Your DB](https://dev.to/func25/go-singleflight-melts-in-your-code-not-in-your-db-5gh9)
+- [Orchestrating Complex Workflows with AWS Step Functions and NestJS: A Deep Dive](https://dev.to/virajlakshitha/orchestrating-complex-workflows-with-aws-step-functions-and-nestjs-a-deep-dive-6oa)
 <!-- BLOG-POST-LIST:END -->
 
