@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the IT department testing and training](https://dev.to/wizzyb/provide-storage-for-the-it-department-testing-and-training-3n60)
-- [Gerenciamento de Pacotes Python: Você Sabe Onde Eles Moram?](https://dev.to/wgbn/gerenciamento-de-pacotes-python-voce-sabe-onde-eles-moram-18om)
-- [Understanding Blocking and Non-Blocking Code: An Easy Guide for Developers](https://dev.to/shubham_bendkhale/understanding-blocking-and-non-blocking-code-an-easy-guide-for-developers-e77)
-- [10 Best Postman Alternatives in 2024 | Free &amp; Open Source Tools](https://dev.to/patrick_61cbc6392b72286f6/10-best-postman-alternatives-in-2024-free-open-source-tools-1i3e)
+- [🚀 Your Daily Crypto Job Digest For 05 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-05-november-12nn)
+- [Launching Python.0x3D.site – Your Go-To Resource for All Things Python!](https://dev.to/0x3d_site/launching-python0x3dsite-your-go-to-resource-for-all-things-python-5800)
+- [To AB or not AB?](https://dev.to/pedrokiefer/to-ab-or-not-ab-52ee)
+- [3d Text Rotation illusion using html css and javascript https://www.instagram.com/webstreet_code/](https://dev.to/prince_beec5ccde00b7c6c73/3d-text-rotation-illusion-using-html-css-and-javascript-httpswwwinstagramcomwebstreetcode-4h8n)
 <!-- BLOG-POST-LIST:END -->
 
