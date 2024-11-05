@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Event-Driven Architecture in C# with Real-Life Scenarios](https://dev.to/iamcymentho/understanding-event-driven-architecture-in-c-with-real-life-scenarios-4h7g)
-- [Query DynamoDB with SQL using Athena - Leveraging DynamoDB Exports to S3 &lpar;1/2&rpar;](https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-dynamodb-exports-to-s3-12-3n5c)
-- [Как бесплатно зайти в разработку](https://dev.to/maximthomas/kak-biesplatno-zaiti-v-razrabotku-255e)
-- [How to Set Up Postgres Using Docker](https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d)
+- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-k0h)
+- [Flutter trick: using AnimatedBuilder for efficient animations.](https://dev.to/remejuan/flutter-trick-using-animatedbuilder-for-efficient-animations-5gjm)
+- [HarmonyOS Next 应用文件分享：安全高效的数据交换](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-ying-yong-wen-jian-fen-xiang-an-quan-gao-xiao-de-shu-ju-jiao-huan-3okm)
+- [HarmonyOS Next Application File Space Statistics and Management](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-application-file-space-statistics-and-management-49k4)
 <!-- BLOG-POST-LIST:END -->
 
