@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilisation de Postman pour les Tests d&#39;API : Un Guide Complet](https://dev.to/developpeurtaf/utilisation-de-postman-pour-les-tests-dapi-un-guide-complet-21d3)
-- [React + AWS Cognito: Email Authentication Setup Guide &lpar;First Part&rpar;](https://dev.to/garciadiazjaime/react-aws-cognito-email-authentication-setup-guide-first-part-1ne)
-- [Go Singleflight Melts in Your Code, Not in Your DB](https://dev.to/func25/go-singleflight-melts-in-your-code-not-in-your-db-5gh9)
-- [Orchestrating Complex Workflows with AWS Step Functions and NestJS: A Deep Dive](https://dev.to/virajlakshitha/orchestrating-complex-workflows-with-aws-step-functions-and-nestjs-a-deep-dive-6oa)
+- [Enhancing Task Scheduling Reliability: Integrating Arthas for API Monitoring in DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/enhancing-task-scheduling-reliability-integrating-arthas-for-api-monitoring-in-dolphinscheduler-2elh)
+- [✅ 𝗧𝗼𝗽 𝟲 𝗪𝗮𝘆𝘀 𝘁𝗼 𝗜𝗺𝗽𝗿𝗼𝘃𝗲 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞](https://dev.to/apurvupadhyay/-59n3)
+- [Part 4 - Using Cursor and Claude to Create Automated Tests with Playwright](https://dev.to/chiefremote/part-4-using-cursor-and-claude-to-create-automated-tests-with-playwright-2p7j)
+- [Introduction to the event &quot;TinyGo Keeb Tour 2024&quot;](https://dev.to/sago35/introduction-to-the-event-tinygo-keeb-tour-2024-2n0c)
 <!-- BLOG-POST-LIST:END -->
 
