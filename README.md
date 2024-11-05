@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Split Applications Into Microservices—and When You Don’t Need Them](https://dev.to/sergedev/how-to-split-applications-into-microservices-and-when-you-dont-need-them-4jf9)
-- [How to Turn On or Off Show Accent Color on Start menu and Taskbar in Windows 11?](https://dev.to/win11verse/how-to-turn-on-or-off-show-accent-color-on-start-menu-and-taskbar-in-windows-11-3lp6)
-- [4 stages of Automata theory](https://dev.to/fazly_fathhy/4-stages-of-automata-theory-1k3p)
-- [Beyond the Façade: How Surveyors Uncover the Hidden Realities of Property](https://dev.to/prowleandcobuildingsurveyors/beyond-the-facade-how-surveyors-uncover-the-hidden-realities-of-property-3ac2)
+- [Understanding Event-Driven Architecture in C# with Real-Life Scenarios](https://dev.to/iamcymentho/understanding-event-driven-architecture-in-c-with-real-life-scenarios-4h7g)
+- [Query DynamoDB with SQL using Athena - Leveraging DynamoDB Exports to S3 &lpar;1/2&rpar;](https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-dynamodb-exports-to-s3-12-3n5c)
+- [Как бесплатно зайти в разработку](https://dev.to/maximthomas/kak-biesplatno-zaiti-v-razrabotku-255e)
+- [How to Set Up Postgres Using Docker](https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d)
 <!-- BLOG-POST-LIST:END -->
 
