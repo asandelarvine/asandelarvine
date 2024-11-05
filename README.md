@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Table Tennis: Discovering the Joy and Art of the Game](https://dev.to/sadid_islamsachcho_bde70/table-tennis-discovering-the-joy-and-art-of-the-game-l5p)
-- [Table Tennis: Discovering the Joy and Art of the Game](https://dev.to/sadid_islamsachcho_bde70/table-tennis-discovering-the-joy-and-art-of-the-game-4hmb)
-- [A simple tool for automated MySQL database dumps and restores](https://dev.to/kremilly/a-simple-tool-for-automated-mysql-database-dumps-and-restores-3mc2)
-- [2914. Minimum Number of Changes to Make Binary String Beautiful](https://dev.to/mdarifulhaque/2914-minimum-number-of-changes-to-make-binary-string-beautiful-270a)
+- [Use Action Cable with Your Main PostgreSQL Database](https://dev.to/railsdesigner/use-action-cable-with-your-main-postgresql-database-30n5)
+- [How to Get a Job in JavaScript](https://dev.to/abhisheks_words/how-to-get-a-job-in-javascript-264k)
+- [Beyond Automation: How AI is Redefining the Role of QA in Software Development](https://dev.to/shashank_arora_ad9ae67d54/beyond-automation-how-ai-is-redefining-the-role-of-qa-in-software-development-246e)
+- [Top 10 MLOps Tools for 2025](https://dev.to/yayabobi/top-10-mlops-tools-for-2025-43g2)
 <!-- BLOG-POST-LIST:END -->
 
