@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Text Analysis Using AWS Comprehend with a Flask Web Interface](https://dev.to/zahraajawad/ai-powered-text-analysis-using-aws-comprehend-with-a-flask-web-interface-51el)
-- [Mastering Recharts: A Comprehensive Guide to Creating Charts in ReactJS](https://dev.to/tahrim_bilal/mastering-recharts-a-comprehensive-guide-to-creating-charts-in-reactjs-671)
-- [What are Recommender Systems and how to use them](https://dev.to/alexia_cismaru_f49ed201c2/what-are-recommender-systems-and-how-to-use-them-16n5)
-- [Investigating the performance of np.einsum](https://dev.to/kylepena/investigating-the-performance-of-npeinsum-22ho)
+- [Building a TypeScript Helper for Mock Data Generation with Zod and Faker](https://dev.to/serifcolakel/building-a-typescript-helper-for-mock-data-generation-with-zod-and-faker-4b8f)
+- [Setup Mac M1 Silicon for ReactNative Development](https://dev.to/httpjunkie/setup-mac-m1-silicon-for-reactnative-development-4n62)
+- [Why short deadlines fuel growth](https://dev.to/gabrieltoma/why-short-deadlines-fuel-growth-hg7)
+- [differenceInDays not working. Timezones and date-fns classic issues](https://dev.to/juliolugo96/differenceindays-not-working-timezones-and-date-fns-classic-issues-631)
 <!-- BLOG-POST-LIST:END -->
 
