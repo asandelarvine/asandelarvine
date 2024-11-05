@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modifiers And Encapsulation In Java](https://dev.to/thandhla/modifiers-and-encapsulation-in-java-2a0l)
-- [Managing Google Workspace Part 3: MDM Basics, Vault, Reporting and Domains](https://dev.to/andrew_despres/managing-google-workspace-part-3-mdm-basics-vault-reporting-and-domains-bki)
-- [Sort Items in a Directory by Descending Size Using Python, PowerShell, C#, or Go](https://dev.to/alexiskypridemos/sort-items-in-a-directory-by-descending-size-using-python-powershell-c-or-go-17g6)
-- [The Legend of the 10x Developer: Separating Myth from Reality](https://dev.to/joel_onyedika_1acbb728ee1/the-legend-of-the-10x-developer-separating-myth-from-reality-1i6h)
+- [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/safdarali/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-28nm)
+- [How to Detect Software Performance Bottlenecks Using AI: PFLB Solution](https://dev.to/pflb_45dd02a38e8/how-to-detect-software-performance-bottlenecks-using-ai-pflb-solution-pcl)
+- [Data structures and algorithms cheat sheet for interviews](https://dev.to/ozkanpakdil/data-structures-and-algorithms-cheat-sheet-for-interviews-4k9)
+- [The Untold Story of Visual Studio Code: A Revolution in Software Development](https://dev.to/rajeshkumaryadavdotcom/the-untold-story-of-visual-studio-code-a-revolution-in-software-development-44pp)
 <!-- BLOG-POST-LIST:END -->
 
