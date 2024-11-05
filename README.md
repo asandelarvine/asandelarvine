@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Highlights from the Umbraco US Festival 2024](https://dev.to/prenders/my-highlights-from-the-umbraco-us-festival-2024-3o37)
-- [GBASE数据库 | GBase 8c Typical Problem Resolution Examples](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8c-typical-problem-resolution-examples-fn2)
-- [Overloading Constructors and Constructor Chaining.](https://dev.to/devmercy/overloading-constructors-and-constructor-chaining-51d5)
-- [Mastering CSS @property Binding: A Guide for Web Developers](https://dev.to/softheartengineer/mastering-css-property-binding-a-guide-for-web-developers-28h6)
+- [relational operators C++](https://dev.to/meesmsik/relational-operators-c-5fgh)
+- [Gaming Mechanics on Crypto Exchanges: How It Works and Successful Examples](https://dev.to/alexroor4/gaming-mechanics-on-crypto-exchanges-how-it-works-and-successful-examples-52cf)
+- [Tailoring Language Giants: Survey of Personalized Large Language Models](https://dev.to/mikeyoung44/tailoring-language-giants-survey-of-personalized-large-language-models-5bo4)
+- [Neural Collapse Persists Despite Low-Rank Bias: Exploring Unconstrained Feature Dynamics](https://dev.to/mikeyoung44/neural-collapse-persists-despite-low-rank-bias-exploring-unconstrained-feature-dynamics-5b17)
 <!-- BLOG-POST-LIST:END -->
 
