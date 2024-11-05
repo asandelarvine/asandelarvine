@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [relational operators C++](https://dev.to/meesmsik/relational-operators-c-5fgh)
-- [Gaming Mechanics on Crypto Exchanges: How It Works and Successful Examples](https://dev.to/alexroor4/gaming-mechanics-on-crypto-exchanges-how-it-works-and-successful-examples-52cf)
-- [Tailoring Language Giants: Survey of Personalized Large Language Models](https://dev.to/mikeyoung44/tailoring-language-giants-survey-of-personalized-large-language-models-5bo4)
-- [Neural Collapse Persists Despite Low-Rank Bias: Exploring Unconstrained Feature Dynamics](https://dev.to/mikeyoung44/neural-collapse-persists-despite-low-rank-bias-exploring-unconstrained-feature-dynamics-5b17)
+- [Provide storage for the IT department testing and training](https://dev.to/wizzyb/provide-storage-for-the-it-department-testing-and-training-3n60)
+- [Gerenciamento de Pacotes Python: Você Sabe Onde Eles Moram?](https://dev.to/wgbn/gerenciamento-de-pacotes-python-voce-sabe-onde-eles-moram-18om)
+- [Understanding Blocking and Non-Blocking Code: An Easy Guide for Developers](https://dev.to/shubham_bendkhale/understanding-blocking-and-non-blocking-code-an-easy-guide-for-developers-e77)
+- [10 Best Postman Alternatives in 2024 | Free &amp; Open Source Tools](https://dev.to/patrick_61cbc6392b72286f6/10-best-postman-alternatives-in-2024-free-open-source-tools-1i3e)
 <!-- BLOG-POST-LIST:END -->
 
