@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leverage IP Data for Dynamic User Access Management 🌐](https://dev.to/rohan_sharma/leverage-ip-data-for-dynamic-user-access-management-2429)
-- [AI Tools Every Developer Should Use for Automation](https://dev.to/viitorcloud/ai-tools-every-developer-should-use-for-automation-231i)
-- [From Beats to Bytes: AI&#39;s Musical Revolution](https://dev.to/iste-vit/from-beats-to-bytes-ais-musical-revolution-egn)
-- [iOS HealthKit Ionic Angular](https://dev.to/luis_diaz_19a878119983392/ios-healthkit-ionic-angular-35lm)
+- [How to Split Applications Into Microservices—and When You Don’t Need Them](https://dev.to/sergedev/how-to-split-applications-into-microservices-and-when-you-dont-need-them-4jf9)
+- [How to Turn On or Off Show Accent Color on Start menu and Taskbar in Windows 11?](https://dev.to/win11verse/how-to-turn-on-or-off-show-accent-color-on-start-menu-and-taskbar-in-windows-11-3lp6)
+- [4 stages of Automata theory](https://dev.to/fazly_fathhy/4-stages-of-automata-theory-1k3p)
+- [Beyond the Façade: How Surveyors Uncover the Hidden Realities of Property](https://dev.to/prowleandcobuildingsurveyors/beyond-the-facade-how-surveyors-uncover-the-hidden-realities-of-property-3ac2)
 <!-- BLOG-POST-LIST:END -->
 
