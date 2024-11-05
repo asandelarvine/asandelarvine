@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-k0h)
-- [Flutter trick: using AnimatedBuilder for efficient animations.](https://dev.to/remejuan/flutter-trick-using-animatedbuilder-for-efficient-animations-5gjm)
-- [HarmonyOS Next 应用文件分享：安全高效的数据交换](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-ying-yong-wen-jian-fen-xiang-an-quan-gao-xiao-de-shu-ju-jiao-huan-3okm)
-- [HarmonyOS Next Application File Space Statistics and Management](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-application-file-space-statistics-and-management-49k4)
+- [Kickstart Your Web Development Journey with Django: A Complete Guide](https://dev.to/snapnews/kickstart-your-web-development-journey-with-django-a-complete-guide-3eb2)
+- [Unlock Tailored Newsletters: Discover AI Services for Personalized Content Delivery](https://dev.to/snapnews/unlock-tailored-newsletters-discover-ai-services-for-personalized-content-delivery-3jdb)
+- [Remote Work: A Blend of Challenges and Opportunities](https://dev.to/shinetechsoftwareinc/remote-work-a-blend-of-challenges-and-opportunities-am0)
+- [Day 26: Learning Rate Schedules](https://dev.to/nareshnishad/day-26-learning-rate-schedules-3922)
 <!-- BLOG-POST-LIST:END -->
 
