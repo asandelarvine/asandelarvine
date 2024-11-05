@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a TypeScript Helper for Mock Data Generation with Zod and Faker](https://dev.to/serifcolakel/building-a-typescript-helper-for-mock-data-generation-with-zod-and-faker-4b8f)
-- [Setup Mac M1 Silicon for ReactNative Development](https://dev.to/httpjunkie/setup-mac-m1-silicon-for-reactnative-development-4n62)
-- [Why short deadlines fuel growth](https://dev.to/gabrieltoma/why-short-deadlines-fuel-growth-hg7)
-- [differenceInDays not working. Timezones and date-fns classic issues](https://dev.to/juliolugo96/differenceindays-not-working-timezones-and-date-fns-classic-issues-631)
+- [Modifiers And Encapsulation In Java](https://dev.to/thandhla/modifiers-and-encapsulation-in-java-2a0l)
+- [Managing Google Workspace Part 3: MDM Basics, Vault, Reporting and Domains](https://dev.to/andrew_despres/managing-google-workspace-part-3-mdm-basics-vault-reporting-and-domains-bki)
+- [Sort Items in a Directory by Descending Size Using Python, PowerShell, C#, or Go](https://dev.to/alexiskypridemos/sort-items-in-a-directory-by-descending-size-using-python-powershell-c-or-go-17g6)
+- [The Legend of the 10x Developer: Separating Myth from Reality](https://dev.to/joel_onyedika_1acbb728ee1/the-legend-of-the-10x-developer-separating-myth-from-reality-1i6h)
 <!-- BLOG-POST-LIST:END -->
 
