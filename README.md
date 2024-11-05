@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why jQuery 4 is a good reminder to stop using jQuery](https://dev.to/logrocket/why-jquery-4-is-a-good-reminder-to-stop-using-jquery-59f1)
-- [Understanding Mental Health: Building Awareness, Breaking Stigmas, and Supporting Well-being](https://dev.to/laurasmith/understanding-mental-health-building-awareness-breaking-stigmas-and-supporting-well-being-2a5)
-- [Kong Admin API for PHP: A Framework-Agnostic Client for Seamless Kong Gateway Management](https://dev.to/nasrulhazim/kong-admin-api-for-php-a-framework-agnostic-client-for-seamless-kong-gateway-management-282l)
-- [How to expand the IO number for programmble controller using the self-defined communication protocol](https://dev.to/zhangzhuyue/how-to-expand-the-io-number-for-programmble-controller-using-the-self-defined-communication-protocol-4p89)
+- [AI and Machine Learning: The Powerhouse of the Future Software Industry](https://dev.to/bh-yogendra/ai-and-machine-learning-the-powerhouse-of-the-future-software-industry-2p82)
+- [GitHub Actions: Quickstart-Guide for every Developer!🚀](https://dev.to/webdeasy/github-actions-quickstart-guide-for-every-developer-4a99)
+- [Introduction to Cargo and cargo.toml](https://dev.to/alexmercedcoder/introduction-to-cargo-and-cargotoml-2l86)
+- [Step-by-step guide to containerize your full-stack MERN application, using Docker Compose.](https://dev.to/uwadon1/step-by-step-guide-to-containerize-your-full-stack-mern-application-using-docker-compose-3a8f)
 <!-- BLOG-POST-LIST:END -->
 
