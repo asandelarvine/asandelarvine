@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Machine Learning: The Powerhouse of the Future Software Industry](https://dev.to/bh-yogendra/ai-and-machine-learning-the-powerhouse-of-the-future-software-industry-2p82)
-- [GitHub Actions: Quickstart-Guide for every Developer!🚀](https://dev.to/webdeasy/github-actions-quickstart-guide-for-every-developer-4a99)
-- [Introduction to Cargo and cargo.toml](https://dev.to/alexmercedcoder/introduction-to-cargo-and-cargotoml-2l86)
-- [Step-by-step guide to containerize your full-stack MERN application, using Docker Compose.](https://dev.to/uwadon1/step-by-step-guide-to-containerize-your-full-stack-mern-application-using-docker-compose-3a8f)
+- [Table Tennis: Discovering the Joy and Art of the Game](https://dev.to/sadid_islamsachcho_bde70/table-tennis-discovering-the-joy-and-art-of-the-game-l5p)
+- [Table Tennis: Discovering the Joy and Art of the Game](https://dev.to/sadid_islamsachcho_bde70/table-tennis-discovering-the-joy-and-art-of-the-game-4hmb)
+- [A simple tool for automated MySQL database dumps and restores](https://dev.to/kremilly/a-simple-tool-for-automated-mysql-database-dumps-and-restores-3mc2)
+- [2914. Minimum Number of Changes to Make Binary String Beautiful](https://dev.to/mdarifulhaque/2914-minimum-number-of-changes-to-make-binary-string-beautiful-270a)
 <!-- BLOG-POST-LIST:END -->
 
