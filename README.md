@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 05 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-05-november-12nn)
-- [Launching Python.0x3D.site – Your Go-To Resource for All Things Python!](https://dev.to/0x3d_site/launching-python0x3dsite-your-go-to-resource-for-all-things-python-5800)
-- [To AB or not AB?](https://dev.to/pedrokiefer/to-ab-or-not-ab-52ee)
-- [3d Text Rotation illusion using html css and javascript https://www.instagram.com/webstreet_code/](https://dev.to/prince_beec5ccde00b7c6c73/3d-text-rotation-illusion-using-html-css-and-javascript-httpswwwinstagramcomwebstreetcode-4h8n)
+- [C# { get; init; }](https://dev.to/baltasarq/c-get-init--1i18)
+- [9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/madza/9-open-source-projects-every-developer-needs-to-bookmark-4lk9)
+- [Effortless Markdown From ChatGPT: Supercharge Your Workflow Now](https://dev.to/adi_cohen_6e0b7bbd528660e/effortless-markdown-from-chatgpt-supercharge-your-workflow-now-4k4m)
+- [Hexagonal Architecture](https://dev.to/brunociccarino/hexagonal-architecture-1lal)
 <!-- BLOG-POST-LIST:END -->
 
