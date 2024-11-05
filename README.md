@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unison speed test](https://dev.to/tripleo/unison-speed-test-fno)
-- [Why C++ ?](https://dev.to/diwakar_verma_381fc6e5e2f/why-c--16d6)
-- [Building a Self-Evolving Codebase: JavaScript’s AST Manipulation and Dynamic Compilation](https://dev.to/shafayeat/building-a-self-evolving-codebase-javascripts-ast-manipulation-and-dynamic-compilation-hb3)
-- [Why Learn Rust Programming Language?](https://dev.to/learn-code-in-hindi/why-learn-rust-programming-language-15m5)
+- [Leverage IP Data for Dynamic User Access Management 🌐](https://dev.to/rohan_sharma/leverage-ip-data-for-dynamic-user-access-management-2429)
+- [AI Tools Every Developer Should Use for Automation](https://dev.to/viitorcloud/ai-tools-every-developer-should-use-for-automation-231i)
+- [From Beats to Bytes: AI&#39;s Musical Revolution](https://dev.to/iste-vit/from-beats-to-bytes-ais-musical-revolution-egn)
+- [iOS HealthKit Ionic Angular](https://dev.to/luis_diaz_19a878119983392/ios-healthkit-ionic-angular-35lm)
 <!-- BLOG-POST-LIST:END -->
 
