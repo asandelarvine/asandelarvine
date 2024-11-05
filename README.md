@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Stencil Web Components in Angular Project](https://dev.to/sudhakar_george_e6d1f136f/integrating-stencil-web-components-in-angular-project-f9b)
-- [MyISAM VS InnoDB](https://dev.to/fernilo/myisam-vs-innodb-55c4)
-- [#89 — Calculate Proportion Using the Aggregation Values of the Data from the Same Group](https://dev.to/judith677/89-calculate-proportion-using-the-aggregation-values-of-the-data-from-the-same-group-307l)
-- [How to Set Up SSH Keys for GitHub on PopOs or Ubuntu: A Beginner&#39;s Guide](https://dev.to/alexandrecalaca/how-to-set-up-ssh-keys-for-github-on-popos-or-ubuntu-a-beginners-guide-2g3m)
+- [Unison speed test](https://dev.to/tripleo/unison-speed-test-fno)
+- [Why C++ ?](https://dev.to/diwakar_verma_381fc6e5e2f/why-c--16d6)
+- [Building a Self-Evolving Codebase: JavaScript’s AST Manipulation and Dynamic Compilation](https://dev.to/shafayeat/building-a-self-evolving-codebase-javascripts-ast-manipulation-and-dynamic-compilation-hb3)
+- [Why Learn Rust Programming Language?](https://dev.to/learn-code-in-hindi/why-learn-rust-programming-language-15m5)
 <!-- BLOG-POST-LIST:END -->
 
