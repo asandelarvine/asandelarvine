@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating a codebase with an API](https://dev.to/robert_mcknight_102975fef/navigating-a-codebase-with-an-api-27pa)
-- [GreyConnections](https://dev.to/dianahobbs/greyconnections-1bmg)
-- [Why Is Job Hunting Like This? This Broken Hiring System Has to Change](https://dev.to/amritanshu_kumar_0558b7f6/why-is-job-hunting-like-this-this-broken-hiring-system-has-to-change-33nf)
-- [AI takeover?](https://dev.to/norbs/ai-takeover-2fbm)
+- [Project 3 - Tetris Game](https://dev.to/aqeelakbari/project-3-tetris-game-e2m)
+- [Today in AI: Mixture of In-Context Learners](https://dev.to/pullreview/today-in-ai-mixture-of-in-context-learners-bh3)
+- [Distributed Load Testing with JMeter in Testkube](https://dev.to/kubeshop/distributed-load-testing-with-jmeter-in-testkube-4h7j)
+- [CAN MY AWS TECH ARTICLE BEAT CHATGPT?](https://dev.to/aws-builders/can-my-aws-tech-article-beat-chatgpt-35n)
 <!-- BLOG-POST-LIST:END -->
 
