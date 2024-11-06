@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert Excel Dataset into SQL insert statement](https://dev.to/smuniraj/convert-excel-dataset-into-sql-insert-statement-38k4)
-- [Best AI Tools for Programmers](https://dev.to/rahmaai/best-ai-tools-for-programmers-48o9)
-- [Introducing Pretty-js-log: Add Beautiful, Colorful Logging to Your Node.js Apps 🎨](https://dev.to/belguinan/introducing-pretty-js-log-add-beautiful-colorful-logging-to-your-nodejs-apps-5hfn)
-- [Week 3 in DevOps: Beginning with Advanced AWS Services and Security](https://dev.to/amandeol063/week-3-in-devops-beginning-with-advanced-aws-services-and-security-3ola)
+- [Why Is Job Hunting Like This? This Broken Hiring System Has to Change](https://dev.to/amritanshu_kumar_0558b7f6/why-is-job-hunting-like-this-this-broken-hiring-system-has-to-change-33nf)
+- [AI takeover?](https://dev.to/norbs/ai-takeover-2fbm)
+- [Embrace your voice](https://dev.to/norbs/embrace-your-voice-32ap)
+- [Dark side of Next.js - App Router](https://dev.to/asmyshlyaev177/dark-side-of-nextjs-app-router-15l)
 <!-- BLOG-POST-LIST:END -->
 
