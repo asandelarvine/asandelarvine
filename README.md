@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/safdarali/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-28nm)
-- [How to Detect Software Performance Bottlenecks Using AI: PFLB Solution](https://dev.to/pflb_45dd02a38e8/how-to-detect-software-performance-bottlenecks-using-ai-pflb-solution-pcl)
-- [Data structures and algorithms cheat sheet for interviews](https://dev.to/ozkanpakdil/data-structures-and-algorithms-cheat-sheet-for-interviews-4k9)
-- [The Untold Story of Visual Studio Code: A Revolution in Software Development](https://dev.to/rajeshkumaryadavdotcom/the-untold-story-of-visual-studio-code-a-revolution-in-software-development-44pp)
+- [Abstract factory method](https://dev.to/jayaprasanna_roddam/abstract-factory-method-3djd)
+- [Building a Custom C++ Serializer for Efficient Data Handling](https://dev.to/pigeoncodeur/building-a-custom-c-serializer-for-efficient-data-handling-27oc)
+- [Factory Design Pattern](https://dev.to/jayaprasanna_roddam/factory-design-pattern-ain)
+- [Implement a Secure, Dynamic Domain Approval System for Embeddable Widgets in Ruby on Rails](https://dev.to/dpaluy/implement-a-secure-dynamic-domain-approval-system-for-embeddable-widgets-in-ruby-on-rails-2f53)
 <!-- BLOG-POST-LIST:END -->
 
