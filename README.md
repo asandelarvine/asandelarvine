@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka - Overview](https://dev.to/hahabrother/kafka-overview-3i60)
-- [Python 连接PostgreSQL](https://dev.to/chenczy/python-lian-jie-postgresql-1dcp)
-- [error Command &quot;webpack&quot; not found](https://dev.to/alexandrecalaca/error-command-webpack-not-found-bpf)
-- [Facade Pattern no Angular](https://dev.to/mateus_oliveira_101fe5ee3/facade-pattern-no-angular-479l)
+- [Debugging Techniques Every Developer Should Know](https://dev.to/botelhoww/debugging-techniques-every-developer-should-know-4ang)
+- [Shopee Data Scraping- Complete Guide](https://dev.to/syphoon_ef9378/shopee-data-scraping-complete-guide-4fab)
+- [Day 6: Variables and Data Types | 100 Days Python](https://dev.to/abdulla783/day-6-variables-and-data-types-100-days-python-2o6g)
+- [JavaScript Memory Management and Optimization Techniques for Large-Scale Applications](https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a)
 <!-- BLOG-POST-LIST:END -->
 
