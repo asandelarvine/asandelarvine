@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Applications in Amazon EKS with NGINX Ingress](https://dev.to/akhil_mittal/deploying-applications-in-amazon-eks-with-nginx-ingress-47hj)
-- [Python for DevOps: A Comprehensive Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm)
-- [My journey of open-sourcing 2024](https://dev.to/priyanshuverma/my-journey-of-open-sourcing-2024-53f4)
-- [Best Practices for Managing Users, Roles, and Permissions](https://dev.to/anna_p_s/best-practices-for-managing-users-roles-and-permissions-5140)
+- [Amazon Bedrock announces support for cost allocation tags on inference profiles](https://dev.to/karthiksakthiveltechie/amazon-bedrock-announces-support-for-cost-allocation-tags-on-inference-profiles-kd5)
+- [Handling Asynchronous Execution with Transactions in Spring: A Common Pitfall and How to Solve It](https://dev.to/arashariani/handling-asynchronous-execution-with-transactions-in-spring-a-common-pitfall-and-how-to-solve-it-5ah4)
+- [Angular 19 - 5 Game-Changing Features You Need to Know](https://dev.to/this-is-angular/angular-19-5-game-changing-features-you-need-to-know-32cd)
+- [Implement reCAPTCHA in htmx + expressjs](https://dev.to/kasir-barati/implement-recaptcha-in-htmx-expressjs-4k1l)
 <!-- BLOG-POST-LIST:END -->
 
