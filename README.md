@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Аutomated email-sending](https://dev.to/vladimirnia/automated-email-sending-45pe)
-- [How to Discard Local Changes in Git](https://dev.to/cicube/how-to-discard-local-changes-in-git-43na)
-- [Understanding Kubernetes Jobs](https://dev.to/cicube/understanding-kubernetes-jobs-22n0)
-- [How to Manage Multiple promises concurrently with Promise.all&lpar;&rpar;](https://dev.to/vaatiesther/how-to-manage-multiple-promises-concurrently-with-promiseall-1i8)
+- [New Model Improves Knowledge-Powered Text Generation by Filtering Irrelevant Information](https://dev.to/mikeyoung44/new-model-improves-knowledge-powered-text-generation-by-filtering-irrelevant-information-3abh)
+- [GBASE数据库 | GBase 8s RHAC Cluster Basic Principles and Setup Steps](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8s-rhac-cluster-basic-principles-and-setup-steps-5332)
+- [Weight Decay&#39;s Critical Role: Theoretical Insights for Better Deep Learning Generalization](https://dev.to/mikeyoung44/weight-decays-critical-role-theoretical-insights-for-better-deep-learning-generalization-4okc)
+- [Tencent&#39;s 52B Parameter Open-Source Language Model Hunyuan-Large with MoE Architecture](https://dev.to/mikeyoung44/tencents-52b-parameter-open-source-language-model-hunyuan-large-with-moe-architecture-1jpl)
 <!-- BLOG-POST-LIST:END -->
 
