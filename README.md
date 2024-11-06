@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CS50&#39;s Introduction to Computer Science - Week 1 / Notes](https://dev.to/dmytro_lobanov/cs50s-introduction-to-computer-science-week-1-notes-3k15)
-- [How AI is Transforming Wireframing and Prototyping](https://dev.to/shtefcs/how-ai-is-transforming-wireframing-and-prototyping-4pc9)
-- [Learn Typography and change the way you design](https://dev.to/paul_freeman/learn-typography-and-change-the-way-you-design-3714)
-- [📈 Making Your GitHub Repository Stand Out With 12 Easy Steps!](https://dev.to/kosa12/making-your-github-repository-stand-out-5gef)
+- [I Built AlternateOSS, A Directory of Free, Open-source Alternatives to Popular Software 🚀🔥](https://dev.to/syakirurahman/i-built-alternateoss-a-directory-of-free-open-source-alternatives-to-popular-software-279c)
+- [El uso de los modelos de IA open source en el desarrollo](https://dev.to/miguelbc7/el-uso-de-los-modelos-de-ia-open-source-en-el-desarrollo-3j9h)
+- [Server-Side Rendering &lpar;SSR&rpar;: Boosting SEO and Speed in Modern Web Development🌐](https://dev.to/amenibensaada/server-side-rendering-ssr-boosting-seo-and-speed-in-modern-web-development-4l6h)
+- [Creating and Connecting to Linux Virtual Machine using a Public Key](https://dev.to/olalekan_johnayansola_4a/creating-and-connecting-to-linux-virtual-machine-using-a-public-key-4o9i)
 <!-- BLOG-POST-LIST:END -->
 
