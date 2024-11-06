@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Model Improves Knowledge-Powered Text Generation by Filtering Irrelevant Information](https://dev.to/mikeyoung44/new-model-improves-knowledge-powered-text-generation-by-filtering-irrelevant-information-3abh)
-- [GBASE数据库 | GBase 8s RHAC Cluster Basic Principles and Setup Steps](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8s-rhac-cluster-basic-principles-and-setup-steps-5332)
-- [Weight Decay&#39;s Critical Role: Theoretical Insights for Better Deep Learning Generalization](https://dev.to/mikeyoung44/weight-decays-critical-role-theoretical-insights-for-better-deep-learning-generalization-4okc)
-- [Tencent&#39;s 52B Parameter Open-Source Language Model Hunyuan-Large with MoE Architecture](https://dev.to/mikeyoung44/tencents-52b-parameter-open-source-language-model-hunyuan-large-with-moe-architecture-1jpl)
+- [How to Design a Spiral Lampshade Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-lampshade-using-3d-cad-software-1aae)
+- [Enhanced CLI Capabilities in NestJS Boilerplate](https://dev.to/rodik/enhanced-cli-capabilities-in-nestjs-boilerplate-59jc)
+- [How to Install Minikube on Ubuntu Virtual Machine?](https://dev.to/nodeshiftcloud/how-to-install-minikube-on-ubuntu-virtual-machine-207e)
+- [Methodical Naming in React: How It Improves Code Organization](https://dev.to/khaled17/methodical-naming-in-react-how-it-improves-code-organization-8dp)
 <!-- BLOG-POST-LIST:END -->
 
