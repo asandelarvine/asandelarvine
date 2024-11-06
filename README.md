@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the KS Storage](https://dev.to/kalpstudio/understanding-the-ks-storage-4jig)
-- [Dica C#: Nomeação de Variáveis e Métodos](https://dev.to/juarezasjunior/dica-c-nomeacao-de-variaveis-e-metodos-11p0)
-- [C# Tip: Naming Variables and Methods](https://dev.to/juarezasjunior/c-tip-naming-variables-and-methods-4hl8)
-- [Building Structured Workflows with Tools and Functions in LangGraph](https://dev.to/airabbit/building-structured-workflows-with-tools-and-functions-in-langgraph-3l6j)
+- [CS50&#39;s Introduction to Computer Science - Week 1 / Notes](https://dev.to/dmytro_lobanov/cs50s-introduction-to-computer-science-week-1-notes-3k15)
+- [How AI is Transforming Wireframing and Prototyping](https://dev.to/shtefcs/how-ai-is-transforming-wireframing-and-prototyping-4pc9)
+- [Learn Typography and change the way you design](https://dev.to/paul_freeman/learn-typography-and-change-the-way-you-design-3714)
+- [📈 Making Your GitHub Repository Stand Out With 12 Easy Steps!](https://dev.to/kosa12/making-your-github-repository-stand-out-5gef)
 <!-- BLOG-POST-LIST:END -->
 
