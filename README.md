@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built AlternateOSS, A Directory of Free, Open-source Alternatives to Popular Software 🚀🔥](https://dev.to/syakirurahman/i-built-alternateoss-a-directory-of-free-open-source-alternatives-to-popular-software-279c)
-- [El uso de los modelos de IA open source en el desarrollo](https://dev.to/miguelbc7/el-uso-de-los-modelos-de-ia-open-source-en-el-desarrollo-3j9h)
-- [Server-Side Rendering &lpar;SSR&rpar;: Boosting SEO and Speed in Modern Web Development🌐](https://dev.to/amenibensaada/server-side-rendering-ssr-boosting-seo-and-speed-in-modern-web-development-4l6h)
-- [Creating and Connecting to Linux Virtual Machine using a Public Key](https://dev.to/olalekan_johnayansola_4a/creating-and-connecting-to-linux-virtual-machine-using-a-public-key-4o9i)
+- [From WHOIS to SSL: How DNS Checker Pro Unveils the Hidden Details of Any Website](https://dev.to/rezmoss/from-whois-to-ssl-how-dns-checker-pro-unveils-the-hidden-details-of-any-website-5c06)
+- [Simple steps to debug docker build](https://dev.to/patfinder/simple-steps-to-debug-docker-build-57ba)
+- [Obteniendo una insignia Serverless de AWS](https://dev.to/kevinl/obteniendo-una-insignia-serverless-de-aws-31mk)
+- [How to Implement SEO in Next.js?](https://dev.to/visavadiyavrushik/how-to-implement-seo-in-nextjs-g6f)
 <!-- BLOG-POST-LIST:END -->
 
