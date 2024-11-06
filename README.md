@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Devlogs: October 2024](https://dev.to/deant_/devlogs-october-2024-1cfa)
-- [Static Site in the Cloud: An S3 Project](https://dev.to/sathvik_kumar_2694510810d/static-site-in-the-cloud-an-s3-project-36gl)
-- [Introducing the Flashcards Game with LLM Assistant](https://dev.to/vladimirnia/introducing-the-flashcards-game-with-llm-assistant-1ijh)
-- [Top 18 Cheapest AWS Services](https://dev.to/devops_descent/top-18-cheapest-aws-services-4pib)
+- [API Documentation Done Right: A Technical Guide](https://dev.to/getambassador2024/api-documentation-done-right-a-technical-guide-31ka)
+- [1500+ Free HTML Website Templates on HTMLrev](https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9)
+- [How to Clear Recent Colors History in Windows 11?](https://dev.to/win11verse/how-to-clear-recent-colors-history-in-windows-11-4j5p)
+- [The Ultimate Guide to Fitness App Development: Trends, Technologies, and Tips for Success](https://dev.to/evelynwyatt/the-ultimate-guide-to-fitness-app-development-trends-technologies-and-tips-for-success-4g01)
 <!-- BLOG-POST-LIST:END -->
 
