@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From WHOIS to SSL: How DNS Checker Pro Unveils the Hidden Details of Any Website](https://dev.to/rezmoss/from-whois-to-ssl-how-dns-checker-pro-unveils-the-hidden-details-of-any-website-5c06)
-- [Simple steps to debug docker build](https://dev.to/patfinder/simple-steps-to-debug-docker-build-57ba)
-- [Obteniendo una insignia Serverless de AWS](https://dev.to/kevinl/obteniendo-una-insignia-serverless-de-aws-31mk)
-- [How to Implement SEO in Next.js?](https://dev.to/visavadiyavrushik/how-to-implement-seo-in-nextjs-g6f)
+- [Deploying Applications in Amazon EKS with NGINX Ingress](https://dev.to/akhil_mittal/deploying-applications-in-amazon-eks-with-nginx-ingress-47hj)
+- [Python for DevOps: A Comprehensive Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm)
+- [My journey of open-sourcing 2024](https://dev.to/priyanshuverma/my-journey-of-open-sourcing-2024-53f4)
+- [Best Practices for Managing Users, Roles, and Permissions](https://dev.to/anna_p_s/best-practices-for-managing-users-roles-and-permissions-5140)
 <!-- BLOG-POST-LIST:END -->
 
