@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating a codebase with an API](https://dev.to/robert_mcknight_102975fef/navigating-a-codebase-with-an-api-27pa)
+- [GreyConnections](https://dev.to/dianahobbs/greyconnections-1bmg)
 - [Why Is Job Hunting Like This? This Broken Hiring System Has to Change](https://dev.to/amritanshu_kumar_0558b7f6/why-is-job-hunting-like-this-this-broken-hiring-system-has-to-change-33nf)
 - [AI takeover?](https://dev.to/norbs/ai-takeover-2fbm)
-- [Embrace your voice](https://dev.to/norbs/embrace-your-voice-32ap)
-- [Dark side of Next.js - App Router](https://dev.to/asmyshlyaev177/dark-side-of-nextjs-app-router-15l)
 <!-- BLOG-POST-LIST:END -->
 
