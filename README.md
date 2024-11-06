@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Documentation Done Right: A Technical Guide](https://dev.to/getambassador2024/api-documentation-done-right-a-technical-guide-31ka)
-- [1500+ Free HTML Website Templates on HTMLrev](https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9)
-- [How to Clear Recent Colors History in Windows 11?](https://dev.to/win11verse/how-to-clear-recent-colors-history-in-windows-11-4j5p)
-- [The Ultimate Guide to Fitness App Development: Trends, Technologies, and Tips for Success](https://dev.to/evelynwyatt/the-ultimate-guide-to-fitness-app-development-trends-technologies-and-tips-for-success-4g01)
+- [Аutomated email-sending](https://dev.to/vladimirnia/automated-email-sending-45pe)
+- [How to Discard Local Changes in Git](https://dev.to/cicube/how-to-discard-local-changes-in-git-43na)
+- [Understanding Kubernetes Jobs](https://dev.to/cicube/understanding-kubernetes-jobs-22n0)
+- [How to Manage Multiple promises concurrently with Promise.all&lpar;&rpar;](https://dev.to/vaatiesther/how-to-manage-multiple-promises-concurrently-with-promiseall-1i8)
 <!-- BLOG-POST-LIST:END -->
 
