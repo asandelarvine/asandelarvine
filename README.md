@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Techniques Every Developer Should Know](https://dev.to/botelhoww/debugging-techniques-every-developer-should-know-4ang)
-- [Shopee Data Scraping- Complete Guide](https://dev.to/syphoon_ef9378/shopee-data-scraping-complete-guide-4fab)
-- [Day 6: Variables and Data Types | 100 Days Python](https://dev.to/abdulla783/day-6-variables-and-data-types-100-days-python-2o6g)
-- [JavaScript Memory Management and Optimization Techniques for Large-Scale Applications](https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a)
+- [Mastering Prompt Engineering in LangChain for TechForce Academy: Tips for Optimizing Language Model Outputs](https://dev.to/techforcea/mastering-prompt-engineering-in-langchain-for-techforce-academy-tips-for-optimizing-language-model-outputs-292j)
+- [What Makes a Great Hacker?](https://dev.to/aravindmetquay/what-makes-a-great-hacker-4mf1)
+- [Layout - CSS challenges](https://dev.to/mitchell_cheng/layout-css-challenges-2ni8)
+- [Welcome Thread - v301](https://dev.to/devteam/welcome-thread-v301-3eom)
 <!-- BLOG-POST-LIST:END -->
 
