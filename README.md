@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Prompt Engineering in LangChain for TechForce Academy: Tips for Optimizing Language Model Outputs](https://dev.to/techforcea/mastering-prompt-engineering-in-langchain-for-techforce-academy-tips-for-optimizing-language-model-outputs-292j)
-- [What Makes a Great Hacker?](https://dev.to/aravindmetquay/what-makes-a-great-hacker-4mf1)
-- [Layout - CSS challenges](https://dev.to/mitchell_cheng/layout-css-challenges-2ni8)
-- [Welcome Thread - v301](https://dev.to/devteam/welcome-thread-v301-3eom)
+- [Devlogs: October 2024](https://dev.to/deant_/devlogs-october-2024-1cfa)
+- [Static Site in the Cloud: An S3 Project](https://dev.to/sathvik_kumar_2694510810d/static-site-in-the-cloud-an-s3-project-36gl)
+- [Introducing the Flashcards Game with LLM Assistant](https://dev.to/vladimirnia/introducing-the-flashcards-game-with-llm-assistant-1ijh)
+- [Top 18 Cheapest AWS Services](https://dev.to/devops_descent/top-18-cheapest-aws-services-4pib)
 <!-- BLOG-POST-LIST:END -->
 
