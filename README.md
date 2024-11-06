@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Abstract factory method](https://dev.to/jayaprasanna_roddam/abstract-factory-method-3djd)
-- [Building a Custom C++ Serializer for Efficient Data Handling](https://dev.to/pigeoncodeur/building-a-custom-c-serializer-for-efficient-data-handling-27oc)
-- [Factory Design Pattern](https://dev.to/jayaprasanna_roddam/factory-design-pattern-ain)
-- [Implement a Secure, Dynamic Domain Approval System for Embeddable Widgets in Ruby on Rails](https://dev.to/dpaluy/implement-a-secure-dynamic-domain-approval-system-for-embeddable-widgets-in-ruby-on-rails-2f53)
+- [Design Patterns: Adapter - using GoLang](https://dev.to/jayaprasanna_roddam/design-patterns-adapter-using-golang-9pl)
+- [🚨 Made a LIVE 2024 election counter! Enjoy](https://dev.to/asadk/made-a-live-2024-election-counter-enjoy-1do0)
+- [Unflatten in PyTorch](https://dev.to/hyperkai/unflatten-in-pytorch-3i7g)
+- [Project 3](https://dev.to/paperdrago/project-3-39kf)
 <!-- BLOG-POST-LIST:END -->
 
