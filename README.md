@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Robots to Perceive: Robotics Visionary Shares Insights on Next-Gen Vision Systems](https://dev.to/sophie_lee/enabling-robots-to-perceive-robotics-visionary-shares-insights-on-next-gen-vision-systems-55i)
-- [Debian 12 … is amazing! How to: Create your custom codehouse [Part 1/4]](https://dev.to/dev-charodeyka/debian-12-is-amazing-how-to-create-your-custom-codehouse-part-14-57b1)
-- [Creating a simple dependency injection framework in Swift [Part 4]: Dynamic arguments](https://dev.to/hbg/creating-a-simple-dependency-injection-framework-in-swift-part-4-dynamic-arguments-143g)
-- [From License to Freedom: Embracing Open Source Forks Knowing What to Expect](https://dev.to/hmorris3293/from-license-to-freedom-embracing-open-source-forks-knowing-what-to-expect-59a8)
+- [Convert Excel Dataset into SQL insert statement](https://dev.to/smuniraj/convert-excel-dataset-into-sql-insert-statement-38k4)
+- [Best AI Tools for Programmers](https://dev.to/rahmaai/best-ai-tools-for-programmers-48o9)
+- [Introducing Pretty-js-log: Add Beautiful, Colorful Logging to Your Node.js Apps 🎨](https://dev.to/belguinan/introducing-pretty-js-log-add-beautiful-colorful-logging-to-your-nodejs-apps-5hfn)
+- [Week 3 in DevOps: Beginning with Advanced AWS Services and Security](https://dev.to/amandeol063/week-3-in-devops-beginning-with-advanced-aws-services-and-security-3ola)
 <!-- BLOG-POST-LIST:END -->
 
