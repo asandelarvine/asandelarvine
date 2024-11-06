@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best API Design Tools for Seamless Experience 2024](https://dev.to/apilover/best-api-design-tools-for-seamless-experience-2024-f9p)
-- [Terraform Remote Backend: How to Manage Terraform State File for Easier Collaboration across Teams](https://dev.to/chigozieco/terraform-remote-backend-how-to-manage-terraform-state-file-for-easier-collaboration-across-teams-3dip)
-- [The Basics: How to Build an AI Agent from the Ground Up](https://dev.to/jhonsnow21/the-basics-how-to-build-an-ai-agent-from-the-ground-up-2b06)
-- [Unleashing the Power of Git Statistics: How to Track, Analyze, and Improve Your Codebase](https://dev.to/devactivity-app/unleashing-the-power-of-git-statistics-how-to-track-analyze-and-improve-your-codebase-26c0)
+- [Understanding the KS Storage](https://dev.to/kalpstudio/understanding-the-ks-storage-4jig)
+- [Dica C#: Nomeação de Variáveis e Métodos](https://dev.to/juarezasjunior/dica-c-nomeacao-de-variaveis-e-metodos-11p0)
+- [C# Tip: Naming Variables and Methods](https://dev.to/juarezasjunior/c-tip-naming-variables-and-methods-4hl8)
+- [Building Structured Workflows with Tools and Functions in LangGraph](https://dev.to/airabbit/building-structured-workflows-with-tools-and-functions-in-langgraph-3l6j)
 <!-- BLOG-POST-LIST:END -->
 
