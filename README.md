@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns: Adapter - using GoLang](https://dev.to/jayaprasanna_roddam/design-patterns-adapter-using-golang-9pl)
-- [🚨 Made a LIVE 2024 election counter! Enjoy](https://dev.to/asadk/made-a-live-2024-election-counter-enjoy-1do0)
-- [Unflatten in PyTorch](https://dev.to/hyperkai/unflatten-in-pytorch-3i7g)
-- [Project 3](https://dev.to/paperdrago/project-3-39kf)
+- [Kafka - Overview](https://dev.to/hahabrother/kafka-overview-3i60)
+- [Python 连接PostgreSQL](https://dev.to/chenczy/python-lian-jie-postgresql-1dcp)
+- [error Command &quot;webpack&quot; not found](https://dev.to/alexandrecalaca/error-command-webpack-not-found-bpf)
+- [Facade Pattern no Angular](https://dev.to/mateus_oliveira_101fe5ee3/facade-pattern-no-angular-479l)
 <!-- BLOG-POST-LIST:END -->
 
