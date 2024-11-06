@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock announces support for cost allocation tags on inference profiles](https://dev.to/karthiksakthiveltechie/amazon-bedrock-announces-support-for-cost-allocation-tags-on-inference-profiles-kd5)
-- [Handling Asynchronous Execution with Transactions in Spring: A Common Pitfall and How to Solve It](https://dev.to/arashariani/handling-asynchronous-execution-with-transactions-in-spring-a-common-pitfall-and-how-to-solve-it-5ah4)
-- [Angular 19 - 5 Game-Changing Features You Need to Know](https://dev.to/this-is-angular/angular-19-5-game-changing-features-you-need-to-know-32cd)
-- [Implement reCAPTCHA in htmx + expressjs](https://dev.to/kasir-barati/implement-recaptcha-in-htmx-expressjs-4k1l)
+- [Enabling Robots to Perceive: Robotics Visionary Shares Insights on Next-Gen Vision Systems](https://dev.to/sophie_lee/enabling-robots-to-perceive-robotics-visionary-shares-insights-on-next-gen-vision-systems-55i)
+- [Debian 12 … is amazing! How to: Create your custom codehouse [Part 1/4]](https://dev.to/dev-charodeyka/debian-12-is-amazing-how-to-create-your-custom-codehouse-part-14-57b1)
+- [Creating a simple dependency injection framework in Swift [Part 4]: Dynamic arguments](https://dev.to/hbg/creating-a-simple-dependency-injection-framework-in-swift-part-4-dynamic-arguments-143g)
+- [From License to Freedom: Embracing Open Source Forks Knowing What to Expect](https://dev.to/hmorris3293/from-license-to-freedom-embracing-open-source-forks-knowing-what-to-expect-59a8)
 <!-- BLOG-POST-LIST:END -->
 
