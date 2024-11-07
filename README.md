@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monsters ahead.....](https://dev.to/mince/monsters-ahead-48ng)
-- [JavaScript: Techniques for Checking if a Key Exists in an Object](https://dev.to/swati_gupta_c3c15df8b06de/javascript-techniques-for-checking-if-a-key-exists-in-an-object-e2m)
-- [Why Data Entry Freelancers are a Cost-Effective Solution for Small Businesses](https://dev.to/pangaea_x/why-data-entry-freelancers-are-a-cost-effective-solution-for-small-businesses-d0n)
-- [What is Memoization? &lpar;In JavaScript &amp; TypeScript&rpar;](https://dev.to/jancodes/what-is-memoization-in-javascript-typescript-2j32)
+- [Surfshark for Windows](https://dev.to/irina_nava_/surfshark-for-windows-22j)
+- [Semantic &lt;HTML/&gt; And Accessibility](https://dev.to/wkwarui/semantic-and-accessibility-2dfm)
+- [Why physics Nobel was given to AI researcher ?](https://dev.to/something_something_64b2a/why-physics-nobel-was-given-to-ai-researcher--3826)
+- [I used GitHub as a CMS](https://dev.to/potyoma/i-used-github-as-a-cms-3mhl)
 <!-- BLOG-POST-LIST:END -->
 
