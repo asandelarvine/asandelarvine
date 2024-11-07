@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we chose the Go Huma framework to develop our API endpoints](https://dev.to/programmingdecoded/why-we-chose-the-go-huma-framework-to-develop-our-api-endpoints-3h9l)
-- [ASP.NET8 using DataTables.net – Part9 – Advanced Filters](https://dev.to/markpelf/aspnet8-using-datatablesnet-part9-advanced-filters-4m5m)
-- [ASP.NET8 using DataTables.net – Part8 – Select rows](https://dev.to/markpelf/aspnet8-using-datatablesnet-part8-select-rows-40ip)
-- [ASP.NET8 using DataTables.net – Part7 – Buttons regular](https://dev.to/markpelf/aspnet8-using-datatablesnet-part7-buttons-regular-36e1)
+- [What is Clean Code?](https://dev.to/dazevedo/what-is-clean-code-4kai)
+- [How I Learned to Start &lpar;and Stick With&rpar; My Coding Journey](https://dev.to/coding_chronicles/how-i-learned-to-start-and-stick-with-my-coding-journey-4169)
+- [SLATE Code editor with highlight](https://dev.to/air_choosy/slate-code-editor-with-highlight-3015)
+- [How to Vet and Hire Engineers as a non-Technical Founder](https://dev.to/jetthoughts/how-to-vet-and-hire-engineers-as-a-non-technical-founder-4mfd)
 <!-- BLOG-POST-LIST:END -->
 
