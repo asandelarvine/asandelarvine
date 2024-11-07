@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Freshman in College? Here’s How I Started with Web Development](https://dev.to/mettasurendhar/freshman-in-college-heres-how-i-started-with-web-development-5c0g)
-- [Technical Interview Questions - Part 3 - SQL](https://dev.to/giulianaolmos/technical-interview-questions-part-3-sql-ni4)
-- [Implementando uma Tabela Hash em PHP para Armazenar Dados de Artilheiros do Brasileirão](https://dev.to/laurielylourenco/implementando-uma-tabela-hash-em-php-para-armazenar-dados-de-artilheiros-do-brasileirao-35om)
-- [AWS Lambda | Basic Definition](https://dev.to/mrcaption49/aws-lambda-basic-definition-1k67)
+- [Dependency Injection in Spring: Simplifying Your Code](https://dev.to/igventurelli/dependency-injection-in-spring-simplifying-your-code-2hel)
+- [Integrate Slack and SMS via Low-Code AI Studio](https://dev.to/vonagedev/integrate-slack-and-sms-via-low-code-ai-studio-42l0)
+- [What&#39;s behind the Call Home option?](https://dev.to/yugabyte/whats-behind-the-call-home-option-2cl3)
+- [Step-by-Step Tutorial on Building an AI text Humanizer with AI/ML API and Integration with Clerk Auth and Deploying to Vercel](https://dev.to/abdibrokhim/step-by-step-tutorial-on-building-an-ai-text-humanizer-with-aiml-api-and-integration-with-clerk-auth-and-deploying-to-vercel-moj)
 <!-- BLOG-POST-LIST:END -->
 
