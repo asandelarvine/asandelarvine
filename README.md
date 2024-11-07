@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Week 6 of #100DaysOfCode: Deep Dive into JavaScript, Building Projects, and Overcoming Challenges](https://dev.to/heritech9/week-6-of-100daysofcode-deep-dive-into-javascript-building-projects-and-overcoming-challenges-i72)
-- [Detailed explanation of Javascript event loop rules](https://dev.to/tanjiagang/detailed-explanation-of-javascript-event-loop-rules-156d)
-- [Cloud Computing for the Education Sector: Revolutionizing Learning](https://dev.to/adityabhuyan/cloud-computing-for-the-education-sector-revolutionizing-learning-28h0)
-- [Blazor&#39;s Authorization](https://dev.to/ruxozheng/blazors-authorization-13hf)
+- [Layer 4 vs Layer 7 Load Balancer](https://dev.to/jaiminbariya/layer-4-vs-layer-7-load-balancer-4cc7)
+- [Difficult Conversations](https://dev.to/gabrieltoma/difficult-conversations-3m06)
+- [From Startup to Cloud Giant: The Evolution of Salesforce and Its Impact on CRM](https://dev.to/techforcea/from-startup-to-cloud-giant-the-evolution-of-salesforce-and-its-impact-on-crm-1f3b)
+- [Day 28: Model Compression Techniques for Large Language Models &lpar;LLMs&rpar;](https://dev.to/nareshnishad/day-28-model-compression-techniques-for-large-language-models-llms-imf)
 <!-- BLOG-POST-LIST:END -->
 
