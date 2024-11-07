@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IMPORTANCE OF SEMANTIC HTML](https://dev.to/mboya123/importance-of-semantic-html-2lpi)
-- [A Beginner&#39;s Guide to Understanding AWS EC2 -&lpar;Elastic Compute Cloud&rpar;](https://dev.to/borhanitrash/a-beginners-guide-to-understanding-aws-ec2-elastic-compute-cloud-2j0c)
-- [Cloud Migration: What, Why and Who Benefits](https://dev.to/aws-builders/cloud-migration-what-why-and-who-benefits-3ebe)
-- [VPC y Subredes en AWS - Parte 2: Configuración de Conectividad Segura entre Recursos y hacia Internet](https://dev.to/madriz03/vpc-y-subredes-en-aws-parte-2-configuracion-de-conectividad-segura-entre-recursos-y-hacia-internet-3jm8)
+- [Why we chose the Go Huma framework to develop our API endpoints](https://dev.to/programmingdecoded/why-we-chose-the-go-huma-framework-to-develop-our-api-endpoints-3h9l)
+- [ASP.NET8 using DataTables.net – Part9 – Advanced Filters](https://dev.to/markpelf/aspnet8-using-datatablesnet-part9-advanced-filters-4m5m)
+- [ASP.NET8 using DataTables.net – Part8 – Select rows](https://dev.to/markpelf/aspnet8-using-datatablesnet-part8-select-rows-40ip)
+- [ASP.NET8 using DataTables.net – Part7 – Buttons regular](https://dev.to/markpelf/aspnet8-using-datatablesnet-part7-buttons-regular-36e1)
 <!-- BLOG-POST-LIST:END -->
 
