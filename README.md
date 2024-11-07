@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Layer 4 vs Layer 7 Load Balancer](https://dev.to/jaiminbariya/layer-4-vs-layer-7-load-balancer-4cc7)
-- [Difficult Conversations](https://dev.to/gabrieltoma/difficult-conversations-3m06)
-- [From Startup to Cloud Giant: The Evolution of Salesforce and Its Impact on CRM](https://dev.to/techforcea/from-startup-to-cloud-giant-the-evolution-of-salesforce-and-its-impact-on-crm-1f3b)
-- [Day 28: Model Compression Techniques for Large Language Models &lpar;LLMs&rpar;](https://dev.to/nareshnishad/day-28-model-compression-techniques-for-large-language-models-llms-imf)
+- [How to Access Databases using One SQL Statement #eg71](https://dev.to/esproc_spl/how-to-access-databases-using-one-sql-statement-eg71-3a1o)
+- [SPA Development with Filamentphp](https://dev.to/farhadi/spa-development-with-filamentphp-3cjp)
+- [JavaScript Closures: Top Interview Questions and Answers](https://dev.to/nozibul_islam_113b1d5334f/javascript-closures-top-interview-questions-and-answers-1fni)
+- [Choosing the Right Tech Stack for Your Project](https://dev.to/vaishnavi_sonawane/choosing-the-right-tech-stack-for-your-project-41n2)
 <!-- BLOG-POST-LIST:END -->
 
