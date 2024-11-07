@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection in Spring: Simplifying Your Code](https://dev.to/igventurelli/dependency-injection-in-spring-simplifying-your-code-2hel)
-- [Integrate Slack and SMS via Low-Code AI Studio](https://dev.to/vonagedev/integrate-slack-and-sms-via-low-code-ai-studio-42l0)
-- [What&#39;s behind the Call Home option?](https://dev.to/yugabyte/whats-behind-the-call-home-option-2cl3)
-- [Step-by-Step Tutorial on Building an AI text Humanizer with AI/ML API and Integration with Clerk Auth and Deploying to Vercel](https://dev.to/abdibrokhim/step-by-step-tutorial-on-building-an-ai-text-humanizer-with-aiml-api-and-integration-with-clerk-auth-and-deploying-to-vercel-moj)
+- [Make master Branch Default Again](https://dev.to/dpaluy/make-master-branch-default-again-3d52)
+- [Getting Started with AWS Landing Zone: Tips for Terraform Setup](https://dev.to/wojciech_piotrka_4898763/getting-started-with-aws-landing-zone-tips-for-terraform-setup-47oi)
+- [How to create scalable, module-based applications with ease.](https://dev.to/binjospookie/how-to-create-scalable-module-based-applications-with-ease-8h9)
+- [SSDLC: 7 Steps to Create a Secure Software Supply Chain](https://dev.to/yayabobi/ssdlc-7-steps-to-create-a-secure-software-supply-chain-27a9)
 <!-- BLOG-POST-LIST:END -->
 
