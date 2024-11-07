@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️ 15 Essential tools and resources for Frontend developers](https://dev.to/paul_freeman/15-essential-tools-and-resources-for-frontend-developers-4jn4)
-- [Implémentation d&#39;un Système de Détection de Fraude avec la Distance de Levenshtein dans un Projet Django](https://dev.to/jmegnidro/implementation-dun-systeme-de-detection-de-fraude-avec-la-distance-de-levenshtein-dans-un-projet-django-n8f)
-- [Possible to Do Panoramic Image Stitching in React Native?](https://dev.to/javadibrahimli/possible-to-do-panoramic-image-stitching-in-react-native-1fob)
-- [Why Choose an AWS Generative AI Competency Partner?](https://dev.to/jessica_williams_8192bc1f/why-choose-an-aws-generative-ai-competency-partner-4ghp)
+- [【转载】2024年值得关注的8款免费网站安全监测工具推荐](https://dev.to/carrie_luo1/zhuan-zai-2024nian-zhi-de-guan-zhu-de-8kuan-mian-fei-wang-zhan-an-quan-jian-ce-gong-ju-tui-jian-401l)
+- [【转载】2024年值得关注的8款免费网站安全监测工具推荐](https://dev.to/muzilathebest/zhuan-zai-2024nian-zhi-de-guan-zhu-de-8kuan-mian-fei-wang-zhan-an-quan-jian-ce-gong-ju-tui-jian-4j7n)
+- [Como Tratar Diferentes Tipos de Logs em Go?](https://dev.to/ortizdavid/como-tratar-diferentes-tipos-de-logs-em-go-4hhj)
+- [【转载】2024年值得关注的8款免费网站安全监测工具推荐](https://dev.to/thorila/zhuan-zai-2024nian-zhi-de-guan-zhu-de-8kuan-mian-fei-wang-zhan-an-quan-jian-ce-gong-ju-tui-jian-njd)
 <!-- BLOG-POST-LIST:END -->
 
