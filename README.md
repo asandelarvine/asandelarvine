@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Hero: Dockerizing My Go App and Hosting It on Render like a Pro 🚀](https://dev.to/githaiga22/from-zero-to-hero-dockerizing-my-go-app-and-hosting-it-on-render-like-a-pro-1nk9)
-- [Automated Testing Made Simple: Setting Up and Exploring pytest](https://dev.to/harshil_patel/automated-testing-made-simple-setting-up-and-exploring-pytest-13bc)
-- [My First JavaScript Web App: Interactive Image Coordinate Finder](https://dev.to/rverwey/my-first-javascript-web-app-interactive-image-coordinate-finder-414d)
-- [🚀 Bitcoin and Altcoins Surge as Optimism Grows](https://dev.to/david_tevzadze_/bitcoin-and-altcoins-surge-as-optimism-grows-155e)
+- [Disque dur : SAS, SATA, SCSI ou IDE /](https://dev.to/mrvym/disque-dur-sas-sata-scsi-ou-ide-59h6)
+- [AWS Deployment Best Practices: Let&#39;s make your own SPA web app! - &lpar;1&rpar;](https://dev.to/nanun_inna/aws-deployment-best-practices-lets-make-your-own-spa-web-app-1-282g)
+- [Como utilizei o Vagrant e o Virtual Box para desenvolvimento local](https://dev.to/marcos_vilela/como-utilizei-o-vagrant-e-o-virtual-box-para-desenvolvimento-local-4l87)
+- [Top 10 Real-World Applications of Artificial Intelligence to Watch in 2025](https://dev.to/vikas76/top-10-real-world-applications-of-artificial-intelligence-to-watch-in-2025-1o6e)
 <!-- BLOG-POST-LIST:END -->
 
