@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Techpally hints Building a Garden in Dwarf Fortress Game](https://dev.to/chaktty/techpally-hints-building-a-garden-in-dwarf-fortress-game-1pah)
-- [Usando helm-secrets e Vals para anonimizar seus dados no deploy!](https://dev.to/pedronandi/usando-helm-secrets-e-vals-para-anonimizar-seus-dados-no-deploy-2fme)
-- [Was für ein Jahr!✨](https://dev.to/per-starke-642/was-fur-ein-jahr-4m7k)
-- [3 Reasons Why you should go to the university instead of learn by yourself](https://dev.to/alcabrera/3-reasons-why-you-should-go-to-the-university-instead-of-learn-by-yourself-45af)
+- [IMPORTANCE OF SEMANTIC HTML](https://dev.to/mboya123/importance-of-semantic-html-2lpi)
+- [A Beginner&#39;s Guide to Understanding AWS EC2 -&lpar;Elastic Compute Cloud&rpar;](https://dev.to/borhanitrash/a-beginners-guide-to-understanding-aws-ec2-elastic-compute-cloud-2j0c)
+- [Cloud Migration: What, Why and Who Benefits](https://dev.to/aws-builders/cloud-migration-what-why-and-who-benefits-3ebe)
+- [VPC y Subredes en AWS - Parte 2: Configuración de Conectividad Segura entre Recursos y hacia Internet](https://dev.to/madriz03/vpc-y-subredes-en-aws-parte-2-configuracion-de-conectividad-segura-entre-recursos-y-hacia-internet-3jm8)
 <!-- BLOG-POST-LIST:END -->
 
