@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 𝗥𝗲𝗶𝗺𝗮𝗴𝗶𝗻𝗶𝗻𝗴 𝗔𝗴𝗶𝗹𝗲 𝗮𝗻𝗱 𝗦𝗰𝗿𝘂𝗺 𝗳𝗼𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 &lpar;𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝗦𝗶𝗺𝗼𝗻𝗲𝘁𝘁𝗮 𝗕𝗮𝘁𝘁𝗲𝗶𝗴𝗲𝗿&rpar;](https://dev.to/edensoftlabs/--aim)
-- [Introducing NexaPHP: A Lightweight MVC PHP Framework](https://dev.to/ravikishan/introducing-nexaphp-a-lightweight-mvc-php-framework-3po0)
-- [patch-package with Artifactory](https://dev.to/bytehala/patch-package-with-artifactory-17f5)
-- [25/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/25365-days-y10m-japan-job-challenge-8a0)
+- [Usando helm-secrets e Vals para anonimizar seus dados no deploy!](https://dev.to/pedronandi/usando-helm-secrets-e-vals-para-anonimizar-seus-dados-no-deploy-2fme)
+- [Was für ein Jahr!✨](https://dev.to/per-starke-642/was-fur-ein-jahr-4m7k)
+- [3 Reasons Why you should go to the university instead of learn by yourself](https://dev.to/alcabrera/3-reasons-why-you-should-go-to-the-university-instead-of-learn-by-yourself-45af)
+- [Writing Clean Code in Ruby on Rails Applications 🧼💻](https://dev.to/sonianand11/writing-clean-code-in-ruby-on-rails-applications-85h)
 <!-- BLOG-POST-LIST:END -->
 
