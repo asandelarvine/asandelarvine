@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [𝐒𝐞𝐞𝐫𝐬 𝐯𝐬 𝐂𝐨𝐨𝐤𝐢𝐞𝐁𝐨𝐭: 𝐖𝐡𝐢𝐜𝐡 𝐢𝐬 𝐭𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐏𝐥𝐮𝐠𝐢𝐧 𝐟𝐨𝐫 𝐂𝐨𝐨𝐤𝐢𝐞 𝐂𝐨𝐧𝐬𝐞𝐧𝐭?](https://dev.to/mehwish_malik_4f29ff7fb04/--1edo)
-- [Top Certifications to Boost Your Career as an Angular Developer](https://dev.to/yuvrajarora/top-certifications-to-boost-your-career-as-an-angular-developer-emb)
-- [Experiencia Única en Casas de Campo para Escapadas de Fin de Semana](https://dev.to/cherry_barton_7a5e168fe22/experiencia-unica-en-casas-de-campo-para-escapadas-de-fin-de-semana-19b1)
-- [How to Debug Ansible Playbooks](https://dev.to/cicube/how-to-debug-ansible-playbooks-29l5)
+- [⚡️ 15 Essential tools and resources for Frontend developers](https://dev.to/paul_freeman/15-essential-tools-and-resources-for-frontend-developers-4jn4)
+- [Implémentation d&#39;un Système de Détection de Fraude avec la Distance de Levenshtein dans un Projet Django](https://dev.to/jmegnidro/implementation-dun-systeme-de-detection-de-fraude-avec-la-distance-de-levenshtein-dans-un-projet-django-n8f)
+- [Possible to Do Panoramic Image Stitching in React Native?](https://dev.to/javadibrahimli/possible-to-do-panoramic-image-stitching-in-react-native-1fob)
+- [Why Choose an AWS Generative AI Competency Partner?](https://dev.to/jessica_williams_8192bc1f/why-choose-an-aws-generative-ai-competency-partner-4ghp)
 <!-- BLOG-POST-LIST:END -->
 
