@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#91 — Intersection, Union, And Difference in the Case of Simple Members — Two Sets](https://dev.to/judith677/91-intersection-union-and-difference-in-the-case-of-simple-members-two-sets-468n)
-- [A Comprehensive Guide to Setting Up AWS Organizations with Child Accounts](https://dev.to/rahulladumor/a-comprehensive-guide-to-setting-up-aws-organizations-with-child-accounts-de7)
-- [Dark mode &amp; light mode in next. Js 14 app router with material-ui without ui flickering](https://dev.to/torver213/dark-mode-light-mode-in-next-js-14-app-router-with-material-ui-without-ui-flickering-4flk)
-- [Revolutionizing Mobile Updates: How Rokomari Transformed Its App with Shorebird Code Push](https://dev.to/alaminkarno/revolutionizing-mobile-updates-how-rokomari-transformed-its-app-with-shorebird-code-push-4mla)
+- [𝐒𝐞𝐞𝐫𝐬 𝐯𝐬 𝐂𝐨𝐨𝐤𝐢𝐞𝐁𝐨𝐭: 𝐖𝐡𝐢𝐜𝐡 𝐢𝐬 𝐭𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐏𝐥𝐮𝐠𝐢𝐧 𝐟𝐨𝐫 𝐂𝐨𝐨𝐤𝐢𝐞 𝐂𝐨𝐧𝐬𝐞𝐧𝐭?](https://dev.to/mehwish_malik_4f29ff7fb04/--1edo)
+- [Top Certifications to Boost Your Career as an Angular Developer](https://dev.to/yuvrajarora/top-certifications-to-boost-your-career-as-an-angular-developer-emb)
+- [Experiencia Única en Casas de Campo para Escapadas de Fin de Semana](https://dev.to/cherry_barton_7a5e168fe22/experiencia-unica-en-casas-de-campo-para-escapadas-de-fin-de-semana-19b1)
+- [How to Debug Ansible Playbooks](https://dev.to/cicube/how-to-debug-ansible-playbooks-29l5)
 <!-- BLOG-POST-LIST:END -->
 
