@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【转载】2024年值得关注的8款免费网站安全监测工具推荐](https://dev.to/carrie_luo1/zhuan-zai-2024nian-zhi-de-guan-zhu-de-8kuan-mian-fei-wang-zhan-an-quan-jian-ce-gong-ju-tui-jian-401l)
-- [【转载】2024年值得关注的8款免费网站安全监测工具推荐](https://dev.to/muzilathebest/zhuan-zai-2024nian-zhi-de-guan-zhu-de-8kuan-mian-fei-wang-zhan-an-quan-jian-ce-gong-ju-tui-jian-4j7n)
-- [Como Tratar Diferentes Tipos de Logs em Go?](https://dev.to/ortizdavid/como-tratar-diferentes-tipos-de-logs-em-go-4hhj)
-- [【转载】2024年值得关注的8款免费网站安全监测工具推荐](https://dev.to/thorila/zhuan-zai-2024nian-zhi-de-guan-zhu-de-8kuan-mian-fei-wang-zhan-an-quan-jian-ce-gong-ju-tui-jian-njd)
+- [Monsters ahead.....](https://dev.to/mince/monsters-ahead-48ng)
+- [JavaScript: Techniques for Checking if a Key Exists in an Object](https://dev.to/swati_gupta_c3c15df8b06de/javascript-techniques-for-checking-if-a-key-exists-in-an-object-e2m)
+- [Why Data Entry Freelancers are a Cost-Effective Solution for Small Businesses](https://dev.to/pangaea_x/why-data-entry-freelancers-are-a-cost-effective-solution-for-small-businesses-d0n)
+- [What is Memoization? &lpar;In JavaScript &amp; TypeScript&rpar;](https://dev.to/jancodes/what-is-memoization-in-javascript-typescript-2j32)
 <!-- BLOG-POST-LIST:END -->
 
