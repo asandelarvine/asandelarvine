@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Access Databases using One SQL Statement #eg71](https://dev.to/esproc_spl/how-to-access-databases-using-one-sql-statement-eg71-3a1o)
-- [SPA Development with Filamentphp](https://dev.to/farhadi/spa-development-with-filamentphp-3cjp)
-- [JavaScript Closures: Top Interview Questions and Answers](https://dev.to/nozibul_islam_113b1d5334f/javascript-closures-top-interview-questions-and-answers-1fni)
-- [Choosing the Right Tech Stack for Your Project](https://dev.to/vaishnavi_sonawane/choosing-the-right-tech-stack-for-your-project-41n2)
+- [#91 — Intersection, Union, And Difference in the Case of Simple Members — Two Sets](https://dev.to/judith677/91-intersection-union-and-difference-in-the-case-of-simple-members-two-sets-468n)
+- [A Comprehensive Guide to Setting Up AWS Organizations with Child Accounts](https://dev.to/rahulladumor/a-comprehensive-guide-to-setting-up-aws-organizations-with-child-accounts-de7)
+- [Dark mode &amp; light mode in next. Js 14 app router with material-ui without ui flickering](https://dev.to/torver213/dark-mode-light-mode-in-next-js-14-app-router-with-material-ui-without-ui-flickering-4flk)
+- [Revolutionizing Mobile Updates: How Rokomari Transformed Its App with Shorebird Code Push](https://dev.to/alaminkarno/revolutionizing-mobile-updates-how-rokomari-transformed-its-app-with-shorebird-code-push-4mla)
 <!-- BLOG-POST-LIST:END -->
 
