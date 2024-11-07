@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Clean Code?](https://dev.to/dazevedo/what-is-clean-code-4kai)
-- [How I Learned to Start &lpar;and Stick With&rpar; My Coding Journey](https://dev.to/coding_chronicles/how-i-learned-to-start-and-stick-with-my-coding-journey-4169)
-- [SLATE Code editor with highlight](https://dev.to/air_choosy/slate-code-editor-with-highlight-3015)
-- [How to Vet and Hire Engineers as a non-Technical Founder](https://dev.to/jetthoughts/how-to-vet-and-hire-engineers-as-a-non-technical-founder-4mfd)
+- [Day 59. Comments](https://dev.to/kiolk/day-59-comments-5f43)
+- [Go for DevOps: From scratch to Hero Guide 🚀](https://dev.to/brunociccarino/go-for-devops-from-zero-to-hero-guide-h4a)
+- [A python script to uninstall pkg on MacOS](https://dev.to/dilawar/a-python-script-to-uninstall-pkg-on-macos-1nne)
+- [Introducing GitCase: Secure Portfolio Creation for Developers](https://dev.to/johnnykod/introducing-gitcase-secure-portfolio-creation-for-developers-h9b)
 <!-- BLOG-POST-LIST:END -->
 
