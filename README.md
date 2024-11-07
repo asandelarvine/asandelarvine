@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Disque dur : SAS, SATA, SCSI ou IDE /](https://dev.to/mrvym/disque-dur-sas-sata-scsi-ou-ide-59h6)
-- [AWS Deployment Best Practices: Let&#39;s make your own SPA web app! - &lpar;1&rpar;](https://dev.to/nanun_inna/aws-deployment-best-practices-lets-make-your-own-spa-web-app-1-282g)
-- [Como utilizei o Vagrant e o Virtual Box para desenvolvimento local](https://dev.to/marcos_vilela/como-utilizei-o-vagrant-e-o-virtual-box-para-desenvolvimento-local-4l87)
-- [Top 10 Real-World Applications of Artificial Intelligence to Watch in 2025](https://dev.to/vikas76/top-10-real-world-applications-of-artificial-intelligence-to-watch-in-2025-1o6e)
+- [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://dev.to/probir-sarkar/7-free-postgresql-hosting-platforms-for-developers-in-2024-fi5)
+- [Getting Started with Vector Search &lpar;Part 2&rpar;](https://dev.to/yukaty/getting-started-with-vector-search-part-2-3amh)
+- [Play games from your terminal!](https://dev.to/kaamkiya/play-games-from-your-terminal-25o)
+- [Understanding Strong Fundamentals in Stock Research](https://dev.to/susheel_kumar/understanding-strong-fundamentals-in-stock-research-2oai)
 <!-- BLOG-POST-LIST:END -->
 
