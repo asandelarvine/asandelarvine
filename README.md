@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Surfshark for Windows](https://dev.to/irina_nava_/surfshark-for-windows-22j)
-- [Semantic &lt;HTML/&gt; And Accessibility](https://dev.to/wkwarui/semantic-and-accessibility-2dfm)
-- [Why physics Nobel was given to AI researcher ?](https://dev.to/something_something_64b2a/why-physics-nobel-was-given-to-ai-researcher--3826)
-- [I used GitHub as a CMS](https://dev.to/potyoma/i-used-github-as-a-cms-3mhl)
+- [The Evolution of SEO with AI](https://dev.to/ostapzabolotnyy/the-evolution-of-seo-with-ai-1nj6)
+- [Manual Testing: Essential Practices for Quality Software Development](https://dev.to/keploy/manual-testing-essential-practices-for-quality-software-development-41k7)
+- [Store UI State in localStorage with Stimulus](https://dev.to/railsdesigner/store-ui-state-in-localstorage-with-stimulus-2ehe)
+- [Explorando Notificações Push no React Native com Expo e OneSignal!](https://dev.to/rafael_avelarcampos_e71c/explorando-notificacoes-push-no-react-native-com-expo-e-onesignal-1db7)
 <!-- BLOG-POST-LIST:END -->
 
