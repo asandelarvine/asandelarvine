@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make master Branch Default Again](https://dev.to/dpaluy/make-master-branch-default-again-3d52)
-- [Getting Started with AWS Landing Zone: Tips for Terraform Setup](https://dev.to/wojciech_piotrka_4898763/getting-started-with-aws-landing-zone-tips-for-terraform-setup-47oi)
-- [How to create scalable, module-based applications with ease.](https://dev.to/binjospookie/how-to-create-scalable-module-based-applications-with-ease-8h9)
-- [SSDLC: 7 Steps to Create a Secure Software Supply Chain](https://dev.to/yayabobi/ssdlc-7-steps-to-create-a-secure-software-supply-chain-27a9)
+- [🚀 𝗥𝗲𝗶𝗺𝗮𝗴𝗶𝗻𝗶𝗻𝗴 𝗔𝗴𝗶𝗹𝗲 𝗮𝗻𝗱 𝗦𝗰𝗿𝘂𝗺 𝗳𝗼𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 &lpar;𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝗦𝗶𝗺𝗼𝗻𝗲𝘁𝘁𝗮 𝗕𝗮𝘁𝘁𝗲𝗶𝗴𝗲𝗿&rpar;](https://dev.to/edensoftlabs/--aim)
+- [Introducing NexaPHP: A Lightweight MVC PHP Framework](https://dev.to/ravikishan/introducing-nexaphp-a-lightweight-mvc-php-framework-3po0)
+- [patch-package with Artifactory](https://dev.to/bytehala/patch-package-with-artifactory-17f5)
+- [25/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/25365-days-y10m-japan-job-challenge-8a0)
 <!-- BLOG-POST-LIST:END -->
 
