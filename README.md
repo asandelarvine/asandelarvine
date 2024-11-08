@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Container Restart Policies](https://dev.to/arif_hossain/docker-container-restart-policies-2b5k)
-- [🌐 Useful Web Development Resources.](https://dev.to/diwakar_verma_381fc6e5e2f/useful-web-development-resources-225d)
-- [Docker ও VM-এর মধ্যে পার্থক্যগুলো কী?](https://dev.to/bayajid_alam/docker-o-vm-er-mdhye-paarthkygulo-kii-3jb8)
-- [Advanced Core Web Vitals &amp; Performance Masterclass &lpar;Part 1&rpar;](https://dev.to/pmbanugo/advanced-core-web-vitals-performance-masterclass-part-1-ohe)
+- [Roniere Marques: Um Desenvolvedor em Destaque](https://dev.to/ronieremarques/roniere-marques-um-desenvolvedor-em-destaque-28oe)
+- [THE ROLE OF SEMANTIC HTML IN ENHANCING SEO AND WEB ACCESSIBILITY](https://dev.to/junky20/the-role-of-semantic-html-in-enhancing-seo-and-web-accessibility-4lno)
+- [Unlocking your SSH key through OSX keychain](https://dev.to/michalbryxi/unlocking-your-ssh-key-through-osx-keychain-fj4)
+- [useContext: React Hooks](https://dev.to/harshm03/usecontext-react-hooks-5818)
 <!-- BLOG-POST-LIST:END -->
 
