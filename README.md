@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roniere Marques: Um Desenvolvedor em Destaque](https://dev.to/ronieremarques/roniere-marques-um-desenvolvedor-em-destaque-28oe)
-- [THE ROLE OF SEMANTIC HTML IN ENHANCING SEO AND WEB ACCESSIBILITY](https://dev.to/junky20/the-role-of-semantic-html-in-enhancing-seo-and-web-accessibility-4lno)
-- [Unlocking your SSH key through OSX keychain](https://dev.to/michalbryxi/unlocking-your-ssh-key-through-osx-keychain-fj4)
-- [useContext: React Hooks](https://dev.to/harshm03/usecontext-react-hooks-5818)
+- [10 questions developers should ask our self](https://dev.to/patfinder/10-questions-developers-should-ask-our-self-2dgo)
+- [Tutorial Guide to &#39;useContext&#39; and &#39;useReducer&#39; in React: Managing Global State Efficiently](https://dev.to/harshm03/tutorial-guide-to-usecontext-and-usereducer-in-react-managing-global-state-efficiently-474p)
+- [Episode 3: The Sage of Hooks and the Gift of Agility](https://dev.to/vigneshiyergithub/episode-3-the-sage-of-hooks-and-the-gift-of-agility-412f)
+- [SEMANTIC HTML](https://dev.to/nicholaskiilu/semantic-html-4la5)
 <!-- BLOG-POST-LIST:END -->
 
