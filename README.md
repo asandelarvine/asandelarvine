@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 𝗥𝗲𝗶𝗺𝗮𝗴𝗶𝗻𝗶𝗻𝗴 𝗔𝗴𝗶𝗹𝗲 𝗮𝗻𝗱 𝗦𝗰𝗿𝘂𝗺 𝗳𝗼𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 &lpar;𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝗔𝗱𝗮𝗺 𝗘𝗹𝗹𝘀𝘄𝗼𝗿𝘁𝗵&rpar; 🌟](https://dev.to/edensoftlabs/--4hm1)
-- [Simple SEO fix for Vite/React SPAs without switching to Next/Remix](https://dev.to/msveshnikov/simple-seo-fix-for-vitereact-spas-without-switching-to-nextremix-pe0)
-- [Implementando un Plan de Cuentas en Django: De Arrays a Asientos Contables 🎯](https://dev.to/enlabe/implementando-un-plan-de-cuentas-en-django-de-arrays-a-asientos-contables-2a0f)
-- [Laravel Mix vs Vite: Why did Laravel Transitioned to Vite](https://dev.to/varzoeaa/laravel-mix-vs-vite-why-did-laravel-transitioned-to-vite-2k25)
+- [Docker Container Restart Policies](https://dev.to/arif_hossain/docker-container-restart-policies-2b5k)
+- [🌐 Useful Web Development Resources.](https://dev.to/diwakar_verma_381fc6e5e2f/useful-web-development-resources-225d)
+- [Docker ও VM-এর মধ্যে পার্থক্যগুলো কী?](https://dev.to/bayajid_alam/docker-o-vm-er-mdhye-paarthkygulo-kii-3jb8)
+- [Advanced Core Web Vitals &amp; Performance Masterclass &lpar;Part 1&rpar;](https://dev.to/pmbanugo/advanced-core-web-vitals-performance-masterclass-part-1-ohe)
 <!-- BLOG-POST-LIST:END -->
 
