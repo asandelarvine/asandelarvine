@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Responsive and Adaptive UIs: A Guide for iOS and Android Developers 📱💻](https://dev.to/info_generalhazedawn_a3d/coding-responsive-and-adaptive-uis-a-guide-for-ios-and-android-developers-6n7)
-- [Steps to achieve CI/CD pipeline for Microservice Architecture](https://dev.to/fazly_fathhy/steps-to-achieve-cicd-pipeline-for-microservice-architecture-2e6m)
-- [Do you Know ?](https://dev.to/fazly_fathhy/do-you-know--33om)
-- [Why Choose an AWS Generative AI Competency Partner?](https://dev.to/julie_ryan_df9e4e895cdcff/why-choose-an-aws-generative-ai-competency-partner-3chn)
+- [How to quickly ramp up on new codebases](https://dev.to/moozzyk/how-to-quickly-ramp-up-on-new-codebases-eag)
+- [Deep Dive into JuiceFS Data Synchronization and Consistency in Multi-Cloud Architectures](https://dev.to/daswu/deep-dive-into-juicefs-data-synchronization-and-consistency-in-multi-cloud-architectures-1mea)
+- [How to Become a Blockchain Developer](https://dev.to/edenwheeler/how-to-become-a-blockchain-developer-47hj)
+- [Understanding Kubernetes Requests and Limits: A Simple Guide](https://dev.to/devopsbymani/understanding-kubernetes-requests-and-limits-a-simple-guide-1phb)
 <!-- BLOG-POST-LIST:END -->
 
