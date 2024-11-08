@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#92 — Intersection, Union, And Difference in the Case of Simple Members — Multiple Sets](https://dev.to/judith677/92-intersection-union-and-difference-in-the-case-of-simple-members-multiple-sets-5acc)
-- [The Stack Overflow Error](https://dev.to/jairo-dev-jr/the-stack-overflow-error-2hhm)
-- [Axios interceptor + React JS](https://dev.to/ramadhan002/axios-interceptor-react-js-4g1b)
-- [Incorrect calculations by the computer: sin&lpar;x&rpar; near x=k*π](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-near-xkp-2lom)
+- [Linux Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/linux-commands-cheat-sheet--50lh)
+- [ChatGPT for Debugging](https://dev.to/qamar-khan/chatgpt-for-debugging-hmd)
+- [Trying Out the New AI Functionality Added to GROWI](https://dev.to/goofmint/trying-out-the-new-ai-functionality-added-to-growi-3c09)
+- [Implementing a Database Helper in C# Using the Strategy Design Pattern Step-by-Step Guide](https://dev.to/auyeungdavid_2847435260/implementing-a-database-helper-in-c-using-the-strategy-design-pattern-step-by-step-guide-2j95)
 <!-- BLOG-POST-LIST:END -->
 
