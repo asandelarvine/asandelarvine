@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BigPanda](https://dev.to/bharathi_05/bigpanda-3mb7)
-- [Rock Paper Scissors in Python with Tkinter](https://dev.to/devinisaperson/rock-paper-scissors-in-python-with-tkinter-2994)
-- [Setting Up Jest Testing in Your Node.js Application: A Complete Guide](https://dev.to/gentritbiba/setting-up-jest-testing-in-your-nodejs-application-a-complete-guide-o8i)
-- [Exploring Design Patterns: Factory Method](https://dev.to/abdullahal_mahmud/exploring-design-patterns-factory-method-1ink)
+- [Ghosts as Unstructured Data: A Study Guide](https://dev.to/tspannhw/ghosts-as-unstructured-data-a-study-guide-224i)
+- [Adding Jest To Explainer.js](https://dev.to/aamfahim/adding-jest-to-explainerjs-50f)
+- [Unlocking the Power of AI Prompts: A Game-Changer for Productivity and Innovation](https://dev.to/susheel_kumar/unlocking-the-power-of-ai-prompts-a-game-changer-for-productivity-and-innovation-35pd)
+- [Building a Simple RESTful API in Go for Managing Blog Posts](https://dev.to/fredgitonga/building-a-simple-restful-api-in-go-for-managing-blog-posts-ni7)
 <!-- BLOG-POST-LIST:END -->
 
