@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Replacing Only the Background of an Image with AI Generation Using the Stable Diffusion Web API](https://dev.to/nabata/replacing-only-the-background-of-an-image-with-ai-generation-using-the-stable-diffusion-web-api-2oia)
-- [🚀 Your Daily Crypto Job Digest For 08 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-november-22lc)
-- [BUILDING A SIMPLE WEB-BASED CALCULATOR: Step-by-step Guild with Html CSS And JavaScript](https://dev.to/sopuluchukwu_eze/building-a-simple-web-based-calculator-step-by-step-guild-with-html-css-and-javascript-4baa)
-- [&quot;Helper&quot; Varaibles in Svelte 5](https://dev.to/kvetoslavnovak/helper-varaibles-in-svelte-5-5cni)
+- [Break Free from Folders: A New Way to Organize Your Information with Logseq](https://dev.to/airabbit/break-free-from-folders-a-new-way-to-organize-your-information-with-logseq-59j4)
+- [BSides Orlando 2024: Insights, Innovations, and Security Adventures](https://dev.to/gitguardian/bsides-orlando-2024-insights-innovations-and-security-adventures-4k48)
+- [JUKE](https://dev.to/carlos_vasconcelos_7ed707/untitled-12p)
+- [Mandelbrot set with Numerical Elixir and Zigler](https://dev.to/ndrean/mandelbrot-set-with-numerical-elixir-and-zigler-750)
 <!-- BLOG-POST-LIST:END -->
 
