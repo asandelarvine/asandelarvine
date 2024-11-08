@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Break Free from Folders: A New Way to Organize Your Information with Logseq](https://dev.to/airabbit/break-free-from-folders-a-new-way-to-organize-your-information-with-logseq-59j4)
-- [BSides Orlando 2024: Insights, Innovations, and Security Adventures](https://dev.to/gitguardian/bsides-orlando-2024-insights-innovations-and-security-adventures-4k48)
-- [JUKE](https://dev.to/carlos_vasconcelos_7ed707/untitled-12p)
-- [Mandelbrot set with Numerical Elixir and Zigler](https://dev.to/ndrean/mandelbrot-set-with-numerical-elixir-and-zigler-750)
+- [🚀 𝗥𝗲𝗶𝗺𝗮𝗴𝗶𝗻𝗶𝗻𝗴 𝗔𝗴𝗶𝗹𝗲 𝗮𝗻𝗱 𝗦𝗰𝗿𝘂𝗺 𝗳𝗼𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 &lpar;𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝗔𝗱𝗮𝗺 𝗘𝗹𝗹𝘀𝘄𝗼𝗿𝘁𝗵&rpar; 🌟](https://dev.to/edensoftlabs/--4hm1)
+- [Simple SEO fix for Vite/React SPAs without switching to Next/Remix](https://dev.to/msveshnikov/simple-seo-fix-for-vitereact-spas-without-switching-to-nextremix-pe0)
+- [Implementando un Plan de Cuentas en Django: De Arrays a Asientos Contables 🎯](https://dev.to/enlabe/implementando-un-plan-de-cuentas-en-django-de-arrays-a-asientos-contables-2a0f)
+- [Laravel Mix vs Vite: Why did Laravel Transitioned to Vite](https://dev.to/varzoeaa/laravel-mix-vs-vite-why-did-laravel-transitioned-to-vite-2k25)
 <!-- BLOG-POST-LIST:END -->
 
