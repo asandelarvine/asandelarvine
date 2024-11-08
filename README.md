@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/linux-commands-cheat-sheet--50lh)
-- [ChatGPT for Debugging](https://dev.to/qamar-khan/chatgpt-for-debugging-hmd)
-- [Trying Out the New AI Functionality Added to GROWI](https://dev.to/goofmint/trying-out-the-new-ai-functionality-added-to-growi-3c09)
-- [Implementing a Database Helper in C# Using the Strategy Design Pattern Step-by-Step Guide](https://dev.to/auyeungdavid_2847435260/implementing-a-database-helper-in-c-using-the-strategy-design-pattern-step-by-step-guide-2j95)
+- [What was your win this week? &lpar;and last week too because we forgot to post!&rpar;](https://dev.to/devteam/what-was-your-win-this-week-32c4)
+- [Top 25 React Tips Every Developer Should Know — Part 2](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7)
+- [Why Are Type Guards Necessary? Exploring Different Types and Their Use Cases](https://dev.to/naymhdev/why-are-type-guards-necessary-exploring-different-types-and-their-use-cases-2f8e)
+- [Data Security Consulting: Safeguard Your Data with Brass Valley](https://dev.to/brassvalley_/data-security-consulting-safeguard-your-data-with-brass-valley-1mm3)
 <!-- BLOG-POST-LIST:END -->
 
