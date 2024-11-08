@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to quickly ramp up on new codebases](https://dev.to/moozzyk/how-to-quickly-ramp-up-on-new-codebases-eag)
-- [Deep Dive into JuiceFS Data Synchronization and Consistency in Multi-Cloud Architectures](https://dev.to/daswu/deep-dive-into-juicefs-data-synchronization-and-consistency-in-multi-cloud-architectures-1mea)
-- [How to Become a Blockchain Developer](https://dev.to/edenwheeler/how-to-become-a-blockchain-developer-47hj)
-- [Understanding Kubernetes Requests and Limits: A Simple Guide](https://dev.to/devopsbymani/understanding-kubernetes-requests-and-limits-a-simple-guide-1phb)
+- [How to use open source nodejs project&#39;s build or bundle in another nodejs project by importing?](https://dev.to/jatin345anand/how-to-use-open-source-nodejs-projects-build-or-bundle-in-another-nodejs-project-by-importing-2864)
+- [Lessons Learned from Migrating to Amazon Cognito](https://dev.to/aws-builders/lessons-learned-from-migrating-to-amazon-cognito-1ilg)
+- [🚀 Software Engineering Postmortem: The Last Petals of Spring 🌸](https://dev.to/victoriadeveloper/post-mortem-the-development-of-the-last-petals-of-spring-37e4)
+- [How to Set Up GitHub with SSH Keys on Windows 10 or 11](https://dev.to/adnanalemran/title-setting-up-github-with-ssh-keys-on-windows-10-539a)
 <!-- BLOG-POST-LIST:END -->
 
