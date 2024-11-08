@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PIA VPN Costs and Value](https://dev.to/salomonbervin/pia-vpn-costs-and-value-5h13)
-- [Standardized Response and Global Error Handling in Next.js API Routes with Prisma and Zod](https://dev.to/tahsin000/standardized-response-and-global-error-handling-in-nextjs-api-routes-with-prisma-and-zod-2762)
-- [Important Distinctions and Use Cases of Supervised and Unsupervised Learning](https://dev.to/karavvayala_sravansaiku/important-distinctions-and-use-cases-of-supervised-and-unsupervised-learning-224o)
-- [How to Suppress System Sound for Keyboard Shortcuts in C++ Desktop Application](https://dev.to/junior_dev/how-to-suppress-system-sound-for-keyboard-shortcuts-in-c-desktop-application-2n10)
+- [Replacing Only the Background of an Image with AI Generation Using the Stable Diffusion Web API](https://dev.to/nabata/replacing-only-the-background-of-an-image-with-ai-generation-using-the-stable-diffusion-web-api-2oia)
+- [🚀 Your Daily Crypto Job Digest For 08 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-november-22lc)
+- [BUILDING A SIMPLE WEB-BASED CALCULATOR: Step-by-step Guild with Html CSS And JavaScript](https://dev.to/sopuluchukwu_eze/building-a-simple-web-based-calculator-step-by-step-guild-with-html-css-and-javascript-4baa)
+- [&quot;Helper&quot; Varaibles in Svelte 5](https://dev.to/kvetoslavnovak/helper-varaibles-in-svelte-5-5cni)
 <!-- BLOG-POST-LIST:END -->
 
