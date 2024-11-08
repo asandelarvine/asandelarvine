@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start using nix?](https://dev.to/luksquaresma/how-to-start-using-nix-f5h)
-- [How IT Support Ensures Cyber Insurance Compliance for Local Businesses](https://dev.to/samhortons/how-it-support-ensures-cyber-insurance-compliance-for-local-businesses-3hai)
-- [Research Assignment: The Importance of Semantic HTML for SEO and Accessibility](https://dev.to/fideloluoch/research-assignmentthe-importance-ofsemantic-html-for-seo-and-accessibility-ela)
-- [Peer Review for Growth](https://dev.to/neffcodes/peer-review-for-growth-1mec)
+- [Dynamic SQL in PL/SQL](https://dev.to/mrcaption49/dynamic-sql-in-plsql-2m12)
+- [New features in Amazon Bedrock Prompt Management](https://dev.to/aws-builders/new-features-in-amazon-bedrock-prompt-management-4dmf)
+- [Building a Modern Personal Portfolio&quot;?](https://dev.to/bibek-thapa/building-a-modern-personal-portfolio-269a)
+- [Introducing ThrusterKit: A Boilerplate to Speed Up Your SaaS App Launch](https://dev.to/mnutsch/introducing-thrusterkit-a-boilerplate-to-speed-up-your-saas-app-launch-1hii)
 <!-- BLOG-POST-LIST:END -->
 
