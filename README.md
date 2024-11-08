@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential JavaScript Array Methods Every Developer Should Know](https://dev.to/khalifalmahmud0/essential-javascript-array-methods-every-developer-should-know-1lao)
-- [Why Social Media Plugins are Essential for WordPress](https://dev.to/cozy_wordpress/why-social-media-plugins-are-essential-for-wordpress-62d)
-- [Hardware Security Modules: Preparing for the Post-Quantum Era](https://dev.to/jet_aabb035014e0a4cfa938f/hardware-security-modules-preparing-for-the-post-quantum-era-40e3)
-- [Imagine More with Giada AI PC](https://dev.to/_7e0d0f31eba8186034cd2/imagine-more-with-giada-ai-pc-ble)
+- [10 best software development collaboration tools in 2025.](https://dev.to/balrajola/10-best-software-development-collaboration-tools-in-2025-1ok4)
+- [HTTP Method Override](https://dev.to/kataras/http-method-override-1b6p)
+- [Understanding LimitRange in Kubernetes: A Guide with Examples](https://dev.to/devopsbymani/understanding-limitrange-in-kubernetes-a-guide-with-examples-5cac)
+- [Supercharging GitHub Project Management: Building an Intelligent Issue Bot with Cross-Namespace Configuration Support](https://dev.to/fernabache/supercharging-github-project-management-building-an-intelligent-issue-bot-with-cross-namespace-configuration-support-2hhp)
 <!-- BLOG-POST-LIST:END -->
 
