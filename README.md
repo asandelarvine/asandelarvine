@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghosts as Unstructured Data: A Study Guide](https://dev.to/tspannhw/ghosts-as-unstructured-data-a-study-guide-224i)
-- [Adding Jest To Explainer.js](https://dev.to/aamfahim/adding-jest-to-explainerjs-50f)
-- [Unlocking the Power of AI Prompts: A Game-Changer for Productivity and Innovation](https://dev.to/susheel_kumar/unlocking-the-power-of-ai-prompts-a-game-changer-for-productivity-and-innovation-35pd)
-- [Building a Simple RESTful API in Go for Managing Blog Posts](https://dev.to/fredgitonga/building-a-simple-restful-api-in-go-for-managing-blog-posts-ni7)
+- [#92 — Intersection, Union, And Difference in the Case of Simple Members — Multiple Sets](https://dev.to/judith677/92-intersection-union-and-difference-in-the-case-of-simple-members-multiple-sets-5acc)
+- [The Stack Overflow Error](https://dev.to/jairo-dev-jr/the-stack-overflow-error-2hhm)
+- [Axios interceptor + React JS](https://dev.to/ramadhan002/axios-interceptor-react-js-4g1b)
+- [Incorrect calculations by the computer: sin&lpar;x&rpar; near x=k*π](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-near-xkp-2lom)
 <!-- BLOG-POST-LIST:END -->
 
