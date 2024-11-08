@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System design | Components | Part 1](https://dev.to/mrcaption49/system-design-components-3e9h)
-- [React lifecycles - Custom Hooks](https://dev.to/mitchell_cheng/react-lifecycles-custom-hooks-2pea)
-- [Introducing Polirizer – A Free Chrome Extension to Simplify Privacy Policies](https://dev.to/sahaib/introducing-polirizer-a-free-chrome-extension-to-simplify-privacy-policies-3alo)
-- [Latest GitHub FAQ Collections by 0x3d.site](https://dev.to/0x3d_site/latest-github-faq-collections-by-0x3dsite-1jck)
+- [PIA VPN Costs and Value](https://dev.to/salomonbervin/pia-vpn-costs-and-value-5h13)
+- [Standardized Response and Global Error Handling in Next.js API Routes with Prisma and Zod](https://dev.to/tahsin000/standardized-response-and-global-error-handling-in-nextjs-api-routes-with-prisma-and-zod-2762)
+- [Important Distinctions and Use Cases of Supervised and Unsupervised Learning](https://dev.to/karavvayala_sravansaiku/important-distinctions-and-use-cases-of-supervised-and-unsupervised-learning-224o)
+- [How to Suppress System Sound for Keyboard Shortcuts in C++ Desktop Application](https://dev.to/junior_dev/how-to-suppress-system-sound-for-keyboard-shortcuts-in-c-desktop-application-2n10)
 <!-- BLOG-POST-LIST:END -->
 
