@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 59. Comments](https://dev.to/kiolk/day-59-comments-5f43)
-- [Go for DevOps: From scratch to Hero Guide 🚀](https://dev.to/brunociccarino/go-for-devops-from-zero-to-hero-guide-h4a)
-- [A python script to uninstall pkg on MacOS](https://dev.to/dilawar/a-python-script-to-uninstall-pkg-on-macos-1nne)
-- [Introducing GitCase: Secure Portfolio Creation for Developers](https://dev.to/johnnykod/introducing-gitcase-secure-portfolio-creation-for-developers-h9b)
+- [BigPanda](https://dev.to/bharathi_05/bigpanda-3mb7)
+- [Rock Paper Scissors in Python with Tkinter](https://dev.to/devinisaperson/rock-paper-scissors-in-python-with-tkinter-2994)
+- [Setting Up Jest Testing in Your Node.js Application: A Complete Guide](https://dev.to/gentritbiba/setting-up-jest-testing-in-your-nodejs-application-a-complete-guide-o8i)
+- [Exploring Design Patterns: Factory Method](https://dev.to/abdullahal_mahmud/exploring-design-patterns-factory-method-1ink)
 <!-- BLOG-POST-LIST:END -->
 
