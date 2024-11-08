@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week? &lpar;and last week too because we forgot to post!&rpar;](https://dev.to/devteam/what-was-your-win-this-week-32c4)
-- [Top 25 React Tips Every Developer Should Know — Part 2](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7)
-- [Why Are Type Guards Necessary? Exploring Different Types and Their Use Cases](https://dev.to/naymhdev/why-are-type-guards-necessary-exploring-different-types-and-their-use-cases-2f8e)
-- [Data Security Consulting: Safeguard Your Data with Brass Valley](https://dev.to/brassvalley_/data-security-consulting-safeguard-your-data-with-brass-valley-1mm3)
+- [Coding Responsive and Adaptive UIs: A Guide for iOS and Android Developers 📱💻](https://dev.to/info_generalhazedawn_a3d/coding-responsive-and-adaptive-uis-a-guide-for-ios-and-android-developers-6n7)
+- [Steps to achieve CI/CD pipeline for Microservice Architecture](https://dev.to/fazly_fathhy/steps-to-achieve-cicd-pipeline-for-microservice-architecture-2e6m)
+- [Do you Know ?](https://dev.to/fazly_fathhy/do-you-know--33om)
+- [Why Choose an AWS Generative AI Competency Partner?](https://dev.to/julie_ryan_df9e4e895cdcff/why-choose-an-aws-generative-ai-competency-partner-3chn)
 <!-- BLOG-POST-LIST:END -->
 
