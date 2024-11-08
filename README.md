@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Perform Join Queries on Different Types of Databases #72](https://dev.to/esproc_spl/how-to-perform-join-queries-on-different-types-of-databases-72-n2o)
-- [Ruby on Rails 8: Simplifying Sharding with New Methods](https://dev.to/jetthoughts/ruby-on-rails-8-simplifying-sharding-with-new-methods-48m9)
-- [GBase数据库 | GBase 8s Database: Understanding the LISTAGG Function](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8s-database-understanding-the-listagg-function-1o5l)
-- [Implementing RAG Systems with Unstructured Data: A Comprehensive Guide](https://dev.to/visdom_04_88f1c6e8a47fe74/implementing-rag-systems-with-unstructured-data-a-comprehensive-guide-5cpf)
+- [Essential JavaScript Array Methods Every Developer Should Know](https://dev.to/khalifalmahmud0/essential-javascript-array-methods-every-developer-should-know-1lao)
+- [Why Social Media Plugins are Essential for WordPress](https://dev.to/cozy_wordpress/why-social-media-plugins-are-essential-for-wordpress-62d)
+- [Hardware Security Modules: Preparing for the Post-Quantum Era](https://dev.to/jet_aabb035014e0a4cfa938f/hardware-security-modules-preparing-for-the-post-quantum-era-40e3)
+- [Imagine More with Giada AI PC](https://dev.to/_7e0d0f31eba8186034cd2/imagine-more-with-giada-ai-pc-ble)
 <!-- BLOG-POST-LIST:END -->
 
