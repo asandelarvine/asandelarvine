@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MVC, MVP e MVVM](https://dev.to/luis041/mvc-mvp-e-mvvm-33l2)
-- [About My Self](https://dev.to/tanvirtopsecret/about-my-self-49oe)
-- [Maze generator, written in C](https://dev.to/e-niek/maze-generator-written-in-c-5amg)
-- [test md](https://dev.to/ijatayam/test-md-233c)
+- [Working with multiple image select in Laravel Livewire](https://dev.to/dotmarn/working-with-multiple-image-select-in-laravel-livewire-4683)
+- [The power of asking for help](https://dev.to/gabrieltoma/the-power-of-asking-for-help-3fl1)
+- [Путеводитель по HTTP-кодам в Java: Как понять, что сервер от тебя хочет?](https://dev.to/easycat/putievoditiel-po-http-kodam-v-java-kak-poniat-chto-siervier-ot-tiebia-khochiet-34d9)
+- [NextJs, Docker and IP Geolocation](https://dev.to/jorgeagoiz/nextjs-docker-and-ip-geolocation-1al1)
 <!-- BLOG-POST-LIST:END -->
 
