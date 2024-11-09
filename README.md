@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Made Simple: An Introductory Guide for Developers](https://dev.to/abdullah_tajudeen_a406597/microservices-made-simple-an-introductory-guide-for-developers-59fj)
-- [c# advanced: Adding Additional Members to a Record in C#](https://dev.to/moh_moh701/c-advanced-adding-additional-members-to-a-record-in-c-2og6)
-- [How to deploy a Node.js Express app on Netlify &lpar;2024&rpar;](https://dev.to/sakispal/how-to-deploy-a-nodejs-express-app-on-netlify-2024-1hci)
-- [c# advance : Introduction to Records in C#](https://dev.to/moh_moh701/c-advance-introduction-to-records-in-c-24ok)
+- [Import objects from another database in Access VBA](https://dev.to/0meow0/import-objects-from-another-database-in-access-vba-5fdk)
+- [Writing your resume as a developer](https://dev.to/chesedwolfjager/writing-your-resume-as-a-developer-107e)
+- [Automate Web Testing in C#: A Guide with PuppeteerSharp and SpecFlow](https://dev.to/mukarramjavid/automate-web-testing-in-c-a-guide-with-puppeteersharp-and-specflow-48)
+- [Padrões de projeto: Strategy](https://dev.to/camilaferreiranas/padroes-de-projeto-strategy-1fc)
 <!-- BLOG-POST-LIST:END -->
 
