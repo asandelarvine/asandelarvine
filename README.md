@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sprint Retrospective Templates: Your Guide to Productive Team Reflections](https://dev.to/devactivity-app/sprint-retrospective-templates-your-guide-to-productive-team-reflections-2h1i)
-- [How to create a sticky changelog component with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-sticky-changelog-component-with-tailwind-css-1pg4)
-- [A Flexible AI-Powered Chat App for Websites,Youtube, Files, and Dev.to Articles](https://dev.to/programmerraja/a-flexible-ai-powered-chat-app-for-websitesyoutube-files-and-devto-articles-4ihh)
-- [Five Essential Traits of Successful Programmers](https://dev.to/josemariairiarte/five-essential-traits-of-successful-programmers-4ij8)
+- [Kubernetes service accounts, and creating kubeconfig for one](https://dev.to/th0th/kubernetes-service-accounts-and-creating-kubeconfig-for-one-2kma)
+- [expressions C++](https://dev.to/meesmsik/expressions-c-561a)
+- [Semantic Document Search System with pgvector and pgai](https://dev.to/tomlin7/semantic-document-search-system-with-pgvector-and-pgai-2aca)
+- [5 Best Python TUI Libraries for Building Text-Based User Interfaces](https://dev.to/lazy_code/5-best-python-tui-libraries-for-building-text-based-user-interfaces-5fdi)
 <!-- BLOG-POST-LIST:END -->
 
