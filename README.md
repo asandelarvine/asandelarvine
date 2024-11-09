@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This Tailwind CSS Animations will BLOW Your Mind!](https://dev.to/dev007777/this-tailwind-css-animations-will-blow-your-mind-10ll)
 - [Mastering Error Boundaries in React: Why &amp; How 🚨](https://dev.to/mohiyaddeen7/mastering-error-boundaries-in-react-why-how-1fhf)
 - [I Created a Developer Portfolio inspired by the macOS interface](https://dev.to/ansxuman/i-created-a-developer-portfolio-inspired-by-the-macos-interface-11od)
 - [Navigating the Solution Architecture Trilemma: Performance, Memory, and Maintainability](https://dev.to/muhammad_mahdiramadhan/navigating-the-solution-architecture-trilemma-performance-memory-and-maintainability-6ip)
-- [Unlock Your Azure Linux VM’s Potential with Proactive Monitoring](https://dev.to/unique-tea/unlock-your-azure-linux-vms-potential-with-proactive-monitoring-4mmo)
 <!-- BLOG-POST-LIST:END -->
 
