@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp System Design: A Humorous Journey Through High-Level and Low-Level Architecture](https://dev.to/wittedtech-by-harshit/whatsapp-system-design-a-humorous-journey-through-high-level-and-low-level-architecture-3o48)
-- [My CS50 Final Project: iPlus Code – A Tech Blogging Platform](https://dev.to/vivekvohra/my-cs50-final-project-iplus-code-a-tech-blogging-platform-2hl9)
-- [Advanced Development of HarmonyOS IME Kit: Shared Sandbox Mechanism and Input Method Data Transmission](https://dev.to/xun_wang_6384a403f9817c2/advanced-development-of-harmonyos-ime-kit-shared-sandbox-mechanism-and-input-method-data-transmission-351f)
-- [Exploring Kubernetes: What It Is, Key Features, and How It Powers DevOps](https://dev.to/eren_yeager/exploring-kubernetes-what-it-is-key-features-and-how-it-powers-devops-1gn3)
+- [How to Test a Proxy for Optimal Performance](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-test-a-proxy-for-optimal-performance-1jkf)
+- [Unbundling Content Delivery Network Architecture: How CDN Work](https://dev.to/jeffersonnnn/unbundling-content-delivery-network-architecture-how-cdn-work-539e)
+- [Unleash ServBay’s Power! Managing Local DNS Records](https://dev.to/servbay/unleash-servbays-power-managing-local-dns-records-170n)
+- [How to Test a Proxy for Speed and Anonymity](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-test-a-proxy-for-speed-and-anonymity-4i17)
 <!-- BLOG-POST-LIST:END -->
 
