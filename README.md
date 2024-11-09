@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Logout User From All Tabs At Once In React](https://dev.to/gyantocode/how-to-track-localstorage-update-in-different-tabs-and-same-tab-3f30)
-- [AI Bot: Intelligent Financial Query Assistant Powered by PostgreSQL and Ollama](https://dev.to/ngtduc693/ai-bot-intelligent-financial-query-assistant-powered-by-postgresql-and-ollama-267h)
-- [Feedback on My Web Developer Portfolio – I&#39;d Love Your Input!](https://dev.to/remycnl/feedback-on-my-web-developer-portfolio-id-love-your-input-4p2o)
-- [Quantum Computing and its real world applications](https://dev.to/atharvgyan/quantum-computing-and-its-real-world-applications-113p)
+- [🔥 200 Project Ideas from Beginner to Advanced with Open Source Contributions 🚀](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a)
+- [Comparing Cody, Codeium, CodeGPT, and GitHub Copilot for VSCode](https://dev.to/pgangwani/comparing-cody-codeium-codegpt-and-github-copilot-for-vscode-575b)
+- [How to Set Up Prometheus Exporters for PostgreSQL and MongoDB in Kubernetes](https://dev.to/dm8ry/how-to-set-up-prometheus-exporters-for-postgresql-and-mongodb-in-kubernetes-2ccb)
+- [The Most Potent Security Control on AWS](https://dev.to/aws-builders/the-most-potent-security-control-on-aws-37ib)
 <!-- BLOG-POST-LIST:END -->
 
