@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 200 Project Ideas from Beginner to Advanced with Open Source Contributions 🚀](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a)
-- [Comparing Cody, Codeium, CodeGPT, and GitHub Copilot for VSCode](https://dev.to/pgangwani/comparing-cody-codeium-codegpt-and-github-copilot-for-vscode-575b)
-- [How to Set Up Prometheus Exporters for PostgreSQL and MongoDB in Kubernetes](https://dev.to/dm8ry/how-to-set-up-prometheus-exporters-for-postgresql-and-mongodb-in-kubernetes-2ccb)
-- [The Most Potent Security Control on AWS](https://dev.to/aws-builders/the-most-potent-security-control-on-aws-37ib)
+- [MVC, MVP e MVVM](https://dev.to/luis041/mvc-mvp-e-mvvm-33l2)
+- [About My Self](https://dev.to/tanvirtopsecret/about-my-self-49oe)
+- [Maze generator, written in C](https://dev.to/e-niek/maze-generator-written-in-c-5amg)
+- [test md](https://dev.to/ijatayam/test-md-233c)
 <!-- BLOG-POST-LIST:END -->
 
