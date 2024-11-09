@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test a Proxy for Optimal Performance](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-test-a-proxy-for-optimal-performance-1jkf)
-- [Unbundling Content Delivery Network Architecture: How CDN Work](https://dev.to/jeffersonnnn/unbundling-content-delivery-network-architecture-how-cdn-work-539e)
-- [Unleash ServBay’s Power! Managing Local DNS Records](https://dev.to/servbay/unleash-servbays-power-managing-local-dns-records-170n)
-- [How to Test a Proxy for Speed and Anonymity](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-test-a-proxy-for-speed-and-anonymity-4i17)
+- [Using SSH to Connect Local Git to Remote Repositories](https://dev.to/bryanltobing/using-ssh-to-connect-local-git-to-remote-repositories-501d)
+- [PLANVIEW](https://dev.to/pranneeth_1511/planview-4k2m)
+- [Understanding Concept Estimating: A Crucial Step in Project Feasibility and Planning](https://dev.to/soapboxes_custom1_40f201b/understanding-concept-estimating-a-crucial-step-in-project-feasibility-and-planning-5fpi)
+- [Building a Modern React Library Starter: A Comprehensive Guide](https://dev.to/abhirup99/building-a-modern-react-library-starter-a-comprehensive-guide-3m5b)
 <!-- BLOG-POST-LIST:END -->
 
