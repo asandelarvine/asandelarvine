@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic SQL in PL/SQL](https://dev.to/mrcaption49/dynamic-sql-in-plsql-2m12)
-- [New features in Amazon Bedrock Prompt Management](https://dev.to/aws-builders/new-features-in-amazon-bedrock-prompt-management-4dmf)
-- [Building a Modern Personal Portfolio&quot;?](https://dev.to/bibek-thapa/building-a-modern-personal-portfolio-269a)
-- [Introducing ThrusterKit: A Boilerplate to Speed Up Your SaaS App Launch](https://dev.to/mnutsch/introducing-thrusterkit-a-boilerplate-to-speed-up-your-saas-app-launch-1hii)
+- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-44pc)
+- [Testing Troubles with Jest and ESM and how to fix it](https://dev.to/bregwin/testing-troubles-with-jest-and-esm-and-how-to-fix-it-pae)
+- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-ejj)
+- [Contabilidad para Django Developers: Implementando Reportería Regulatoria SBS](https://dev.to/enlabe/contabilidad-para-django-developers-implementando-reporteria-regulatoria-sbs-51ib)
 <!-- BLOG-POST-LIST:END -->
 
