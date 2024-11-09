@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using SSH to Connect Local Git to Remote Repositories](https://dev.to/bryanltobing/using-ssh-to-connect-local-git-to-remote-repositories-501d)
-- [PLANVIEW](https://dev.to/pranneeth_1511/planview-4k2m)
-- [Understanding Concept Estimating: A Crucial Step in Project Feasibility and Planning](https://dev.to/soapboxes_custom1_40f201b/understanding-concept-estimating-a-crucial-step-in-project-feasibility-and-planning-5fpi)
-- [Building a Modern React Library Starter: A Comprehensive Guide](https://dev.to/abhirup99/building-a-modern-react-library-starter-a-comprehensive-guide-3m5b)
+- [Sprint Retrospective Templates: Your Guide to Productive Team Reflections](https://dev.to/devactivity-app/sprint-retrospective-templates-your-guide-to-productive-team-reflections-2h1i)
+- [How to create a sticky changelog component with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-sticky-changelog-component-with-tailwind-css-1pg4)
+- [A Flexible AI-Powered Chat App for Websites,Youtube, Files, and Dev.to Articles](https://dev.to/programmerraja/a-flexible-ai-powered-chat-app-for-websitesyoutube-files-and-devto-articles-4ihh)
+- [Five Essential Traits of Successful Programmers](https://dev.to/josemariairiarte/five-essential-traits-of-successful-programmers-4ij8)
 <!-- BLOG-POST-LIST:END -->
 
