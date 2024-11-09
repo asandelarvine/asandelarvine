@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with multiple image select in Laravel Livewire](https://dev.to/dotmarn/working-with-multiple-image-select-in-laravel-livewire-4683)
-- [The power of asking for help](https://dev.to/gabrieltoma/the-power-of-asking-for-help-3fl1)
-- [Путеводитель по HTTP-кодам в Java: Как понять, что сервер от тебя хочет?](https://dev.to/easycat/putievoditiel-po-http-kodam-v-java-kak-poniat-chto-siervier-ot-tiebia-khochiet-34d9)
-- [NextJs, Docker and IP Geolocation](https://dev.to/jorgeagoiz/nextjs-docker-and-ip-geolocation-1al1)
+- [Microservices Made Simple: An Introductory Guide for Developers](https://dev.to/abdullah_tajudeen_a406597/microservices-made-simple-an-introductory-guide-for-developers-59fj)
+- [c# advanced: Adding Additional Members to a Record in C#](https://dev.to/moh_moh701/c-advanced-adding-additional-members-to-a-record-in-c-2og6)
+- [How to deploy a Node.js Express app on Netlify &lpar;2024&rpar;](https://dev.to/sakispal/how-to-deploy-a-nodejs-express-app-on-netlify-2024-1hci)
+- [c# advance : Introduction to Records in C#](https://dev.to/moh_moh701/c-advance-introduction-to-records-in-c-24ok)
 <!-- BLOG-POST-LIST:END -->
 
