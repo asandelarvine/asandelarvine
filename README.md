@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude AI Can Now Control Your Computer](https://dev.to/thandhla/claude-ai-can-now-control-your-computer-j4e)
+- [Introduction to Docker Compose](https://dev.to/arif_hossain/introduction-to-docker-compose-ddh)
 - [How to create a Load Balancer in Azure](https://dev.to/ajayi/how-to-create-a-load-balancer-in-azure-479a)
-- [Promises in JavaScript and React Native: Creation, Usage, and Common Scenarios](https://dev.to/ajmal_hasan/promises-in-javascript-and-react-native-creation-usage-and-common-scenarios-lko)
 - [How to connect two Windows computers with a wireless LAN](https://dev.to/petrussola/how-to-connect-two-windows-computers-with-a-wireless-lan-6f0)
-- [Threat Modeling for Non-Security Experts](https://dev.to/nikolapopov/threat-modeling-for-non-security-experts-303l)
 <!-- BLOG-POST-LIST:END -->
 
