@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-44pc)
-- [Testing Troubles with Jest and ESM and how to fix it](https://dev.to/bregwin/testing-troubles-with-jest-and-esm-and-how-to-fix-it-pae)
-- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-ejj)
-- [Contabilidad para Django Developers: Implementando Reportería Regulatoria SBS](https://dev.to/enlabe/contabilidad-para-django-developers-implementando-reporteria-regulatoria-sbs-51ib)
+- [Modular React architecture](https://dev.to/michael_mazzone_87d595a97/modular-react-architecture-157n)
+- [Coder Mindset](https://dev.to/bhuwan71/coder-mindset-3j8e)
+- [Presenting at DataEngBytes 2024 Sydney: Building a Transactional Data Lakehouse on AWS with Apache Iceberg](https://dev.to/roops/presenting-at-dataengbytes-2024-sydney-building-a-transactional-data-lakehouse-on-aws-with-apache-iceberg-1f7a)
+- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-4ghh)
 <!-- BLOG-POST-LIST:END -->
 
