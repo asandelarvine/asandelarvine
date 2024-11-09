@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude AI Can Now Control Your Computer](https://dev.to/thandhla/claude-ai-can-now-control-your-computer-j4e)
-- [Introduction to Docker Compose](https://dev.to/arif_hossain/introduction-to-docker-compose-ddh)
-- [How to create a Load Balancer in Azure](https://dev.to/ajayi/how-to-create-a-load-balancer-in-azure-479a)
-- [How to connect two Windows computers with a wireless LAN](https://dev.to/petrussola/how-to-connect-two-windows-computers-with-a-wireless-lan-6f0)
+- [Automate DevOps Workflows with GitHub Actions](https://dev.to/trixsec/automate-devops-workflows-with-github-actions-3816)
+- [From Zero to Hero: My Journey Building a Property Rental Website and Mobile App](https://dev.to/aelassas/from-zero-to-hero-my-journey-building-a-property-rental-website-and-mobile-app-46e8)
+- [Redux Simple Guide](https://dev.to/harshm03/redux-simple-guide-34d2)
+- [How to commit](https://dev.to/waradu/how-to-commit-25mf)
 <!-- BLOG-POST-LIST:END -->
 
