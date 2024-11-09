@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test: How Much Do You Know About Top Asbestos Law Firm?](https://dev.to/gramyellow22/test-how-much-do-you-know-about-top-asbestos-law-firm-4hg9)
-- [Which websites offer free app building without coding?](https://dev.to/rockb/which-websites-offer-free-app-building-without-coding-16kf)
-- [Data Pipeline Filters 101: Choosing Between Static and Dynamic Approaches](https://dev.to/muhammad_mahdiramadhan/data-pipeline-filters-101-choosing-between-static-and-dynamic-approaches-2ff0)
-- [LINUX CHALLENGE, DAY 4](https://dev.to/blessingglobally/linux-challenge-day-4-5h2k)
+- [How To Logout User From All Tabs At Once In React](https://dev.to/gyantocode/how-to-track-localstorage-update-in-different-tabs-and-same-tab-3f30)
+- [AI Bot: Intelligent Financial Query Assistant Powered by PostgreSQL and Ollama](https://dev.to/ngtduc693/ai-bot-intelligent-financial-query-assistant-powered-by-postgresql-and-ollama-267h)
+- [Feedback on My Web Developer Portfolio – I&#39;d Love Your Input!](https://dev.to/remycnl/feedback-on-my-web-developer-portfolio-id-love-your-input-4p2o)
+- [Quantum Computing and its real world applications](https://dev.to/atharvgyan/quantum-computing-and-its-real-world-applications-113p)
 <!-- BLOG-POST-LIST:END -->
 
