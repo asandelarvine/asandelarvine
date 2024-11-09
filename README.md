@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [40 Frontend Developer Interview Questions](https://dev.to/grenishrai/40-frontend-developer-interview-questions-51oc)
-- [Common Myths About Mongoose](https://dev.to/nozibul_islam_113b1d5334f/common-myths-about-mongoose-25o)
-- [ViteConf 2024: Innovations, Announcements, and the Road Ahead](https://dev.to/mohamedlaminef/viteconf-2024-innovations-announcements-and-the-road-ahead-104)
-- [A Aplicação da Lei de Pareto no Desenvolvimento de Software](https://dev.to/wilsonlucena/a-aplicacao-da-lei-de-pareto-no-desenvolvimento-de-software-4k8b)
+- [Test: How Much Do You Know About Top Asbestos Law Firm?](https://dev.to/gramyellow22/test-how-much-do-you-know-about-top-asbestos-law-firm-4hg9)
+- [Which websites offer free app building without coding?](https://dev.to/rockb/which-websites-offer-free-app-building-without-coding-16kf)
+- [Data Pipeline Filters 101: Choosing Between Static and Dynamic Approaches](https://dev.to/muhammad_mahdiramadhan/data-pipeline-filters-101-choosing-between-static-and-dynamic-approaches-2ff0)
+- [LINUX CHALLENGE, DAY 4](https://dev.to/blessingglobally/linux-challenge-day-4-5h2k)
 <!-- BLOG-POST-LIST:END -->
 
