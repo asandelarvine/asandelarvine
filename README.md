@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate DevOps Workflows with GitHub Actions](https://dev.to/trixsec/automate-devops-workflows-with-github-actions-3816)
-- [From Zero to Hero: My Journey Building a Property Rental Website and Mobile App](https://dev.to/aelassas/from-zero-to-hero-my-journey-building-a-property-rental-website-and-mobile-app-46e8)
-- [Redux Simple Guide](https://dev.to/harshm03/redux-simple-guide-34d2)
-- [How to commit](https://dev.to/waradu/how-to-commit-25mf)
+- [Kotlin String Templates vs. Java String Concatenation: A Tale of Two Strings &lpar;Where Kotlin Sings!&rpar;](https://dev.to/hamada147/kotlin-string-templates-vs-java-string-concatenation-a-tale-of-two-strings-where-kotlin-sings-4195)
+- [** Opening Effectiveness: Advanced Features in SAP Ariba Sourcing AR121-- Component 2 **.&lt;br&gt;](https://dev.to/beardraven5/-opening-effectiveness-advanced-features-in-sap-ariba-sourcing-ar121-component-2--55dd)
+- [Getting Started with C# and .NET Development: A Beginner&#39;s Guide](https://dev.to/terieyenike/getting-started-with-c-and-net-development-a-beginners-guide-48dl)
+- [6 Ways Handle WebSocket Load Balancing Without Losing the Connection Thread](https://dev.to/hoainhoblogdev/6-ways-handle-websocket-load-balancing-without-losing-the-connection-thread-238m)
 <!-- BLOG-POST-LIST:END -->
 
