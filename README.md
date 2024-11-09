@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin String Templates vs. Java String Concatenation: A Tale of Two Strings &lpar;Where Kotlin Sings!&rpar;](https://dev.to/hamada147/kotlin-string-templates-vs-java-string-concatenation-a-tale-of-two-strings-where-kotlin-sings-4195)
-- [** Opening Effectiveness: Advanced Features in SAP Ariba Sourcing AR121-- Component 2 **.&lt;br&gt;](https://dev.to/beardraven5/-opening-effectiveness-advanced-features-in-sap-ariba-sourcing-ar121-component-2--55dd)
-- [Getting Started with C# and .NET Development: A Beginner&#39;s Guide](https://dev.to/terieyenike/getting-started-with-c-and-net-development-a-beginners-guide-48dl)
-- [6 Ways Handle WebSocket Load Balancing Without Losing the Connection Thread](https://dev.to/hoainhoblogdev/6-ways-handle-websocket-load-balancing-without-losing-the-connection-thread-238m)
+- [40 Frontend Developer Interview Questions](https://dev.to/grenishrai/40-frontend-developer-interview-questions-51oc)
+- [Common Myths About Mongoose](https://dev.to/nozibul_islam_113b1d5334f/common-myths-about-mongoose-25o)
+- [ViteConf 2024: Innovations, Announcements, and the Road Ahead](https://dev.to/mohamedlaminef/viteconf-2024-innovations-announcements-and-the-road-ahead-104)
+- [A Aplicação da Lei de Pareto no Desenvolvimento de Software](https://dev.to/wilsonlucena/a-aplicacao-da-lei-de-pareto-no-desenvolvimento-de-software-4k8b)
 <!-- BLOG-POST-LIST:END -->
 
