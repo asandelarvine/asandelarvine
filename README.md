@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Tailwind CSS Animations will BLOW Your Mind!](https://dev.to/dev007777/this-tailwind-css-animations-will-blow-your-mind-10ll)
-- [Mastering Error Boundaries in React: Why &amp; How 🚨](https://dev.to/mohiyaddeen7/mastering-error-boundaries-in-react-why-how-1fhf)
-- [I Created a Developer Portfolio inspired by the macOS interface](https://dev.to/ansxuman/i-created-a-developer-portfolio-inspired-by-the-macos-interface-11od)
-- [Navigating the Solution Architecture Trilemma: Performance, Memory, and Maintainability](https://dev.to/muhammad_mahdiramadhan/navigating-the-solution-architecture-trilemma-performance-memory-and-maintainability-6ip)
+- [WhatsApp System Design: A Humorous Journey Through High-Level and Low-Level Architecture](https://dev.to/wittedtech-by-harshit/whatsapp-system-design-a-humorous-journey-through-high-level-and-low-level-architecture-3o48)
+- [My CS50 Final Project: iPlus Code – A Tech Blogging Platform](https://dev.to/vivekvohra/my-cs50-final-project-iplus-code-a-tech-blogging-platform-2hl9)
+- [Advanced Development of HarmonyOS IME Kit: Shared Sandbox Mechanism and Input Method Data Transmission](https://dev.to/xun_wang_6384a403f9817c2/advanced-development-of-harmonyos-ime-kit-shared-sandbox-mechanism-and-input-method-data-transmission-351f)
+- [Exploring Kubernetes: What It Is, Key Features, and How It Powers DevOps](https://dev.to/eren_yeager/exploring-kubernetes-what-it-is-key-features-and-how-it-powers-devops-1gn3)
 <!-- BLOG-POST-LIST:END -->
 
