@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes service accounts, and creating kubeconfig for one](https://dev.to/th0th/kubernetes-service-accounts-and-creating-kubeconfig-for-one-2kma)
-- [expressions C++](https://dev.to/meesmsik/expressions-c-561a)
-- [Semantic Document Search System with pgvector and pgai](https://dev.to/tomlin7/semantic-document-search-system-with-pgvector-and-pgai-2aca)
-- [5 Best Python TUI Libraries for Building Text-Based User Interfaces](https://dev.to/lazy_code/5-best-python-tui-libraries-for-building-text-based-user-interfaces-5fdi)
+- [How to create a Load Balancer in Azure](https://dev.to/ajayi/how-to-create-a-load-balancer-in-azure-479a)
+- [Promises in JavaScript and React Native: Creation, Usage, and Common Scenarios](https://dev.to/ajmal_hasan/promises-in-javascript-and-react-native-creation-usage-and-common-scenarios-lko)
+- [How to connect two Windows computers with a wireless LAN](https://dev.to/petrussola/how-to-connect-two-windows-computers-with-a-wireless-lan-6f0)
+- [Threat Modeling for Non-Security Experts](https://dev.to/nikolapopov/threat-modeling-for-non-security-experts-303l)
 <!-- BLOG-POST-LIST:END -->
 
