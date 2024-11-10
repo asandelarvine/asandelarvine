@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Do I need to follow &#39;develop in China&#39; steps if I&#39;m using VPN?](https://dev.to/devzach/do-i-need-to-follow-develop-in-china-steps-if-im-using-vpn-aek)
+- [Smart Bookmark Manager](https://dev.to/bellatrick/smart-bookmark-manager-35fb)
 - [🌐 Building a Custom Framework in Java: From Dependency Injection to AOP](https://dev.to/saurabhkurve/building-a-custom-framework-in-java-from-dependency-injection-to-aop-3n2f)
 - [Database Monitoring: Importance, Tools, and Best Practices for Performance Optimization](https://dev.to/nozibul_islam_113b1d5334f/database-monitoring-importance-tools-and-best-practices-for-performance-optimization-4d57)
-- [Strings: Understanding Mutability and Immutability](https://dev.to/arshisaxena26/strings-understanding-mutability-and-immutability-4m4n)
-- [DearBook: Create Magical Illustrated Children&#39;s Stories with AI](https://dev.to/milewski/dearbook-create-magical-illustrated-childrens-stories-with-ai-4mpe)
 <!-- BLOG-POST-LIST:END -->
 
