@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Import objects from another database in Access VBA](https://dev.to/0meow0/import-objects-from-another-database-in-access-vba-5fdk)
-- [Writing your resume as a developer](https://dev.to/chesedwolfjager/writing-your-resume-as-a-developer-107e)
-- [Automate Web Testing in C#: A Guide with PuppeteerSharp and SpecFlow](https://dev.to/mukarramjavid/automate-web-testing-in-c-a-guide-with-puppeteersharp-and-specflow-48)
-- [Padrões de projeto: Strategy](https://dev.to/camilaferreiranas/padroes-de-projeto-strategy-1fc)
+- [Custom Hooks in React](https://dev.to/chewryl/custom-hooks-in-react-56i1)
+- [Rewind AI + Cursor AI = screenpipe: how we built a high performance Rust frame streaming API &lpar;OSS&rpar;](https://dev.to/louis030195/rewind-ai-cursor-ai-screenpipe-how-we-built-a-high-performance-rust-frame-streaming-api-oss-1k9j)
+- [Simple Factory](https://dev.to/sota_333ad4b72095606ab40c/simple-factory-3bnl)
+- [Automated Testing with Pytest](https://dev.to/arilloid/automated-testing-with-pytest-2c9g)
 <!-- BLOG-POST-LIST:END -->
 
