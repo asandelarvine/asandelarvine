@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash ServBay’s Power! Managing Local Hosts File](https://dev.to/servbay/unleash-servbays-power-managing-local-hosts-file-3925)
 - [Tough Task? Discover How Google’s AI Can Help You Understand Your Algorithm and Codes Faster.](https://dev.to/chiamaka_ebolue/tough-task-discover-how-googles-ai-can-help-you-understand-your-algorithm-and-codes-faster-1ln4)
 - [Utilizing Generative AI with Python](https://dev.to/rosaliewessels/utilizing-generative-ai-with-python-1dbf)
 - [Tech Made Simple: The Key to Understanding What Really Matters.](https://dev.to/chiamaka_ebolue/tech-made-simple-the-key-to-understanding-what-really-matters-355e)
-- [Phoenix LiveView Optimization Guide](https://dev.to/manhvanvu/phoenix-liveview-optimization-guide-3gkj)
 <!-- BLOG-POST-LIST:END -->
 
