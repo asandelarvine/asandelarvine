@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from VSCode to Neovim: A Journey of Learning, Confusion, and Triumph! 🚀](https://dev.to/brunociccarino/migrating-from-vscode-to-neovim-a-journey-of-learning-confusion-and-triumph-el0)
-- [GitHub’s Security Scanner &amp; Conventional Commits — A Developer’s Journey](https://dev.to/jesse_chong_3bcc276c4f950/githubs-security-scanner-conventional-commits-a-developers-journey-4cef)
-- [Full-Stack Web Application with AWS Amplify: AWS Project](https://dev.to/shubham_murti/full-stack-web-application-with-aws-amplify-aws-project-5f8e)
-- [Code Companion: Dive Deep into Your Codebase with Your Own Intelligent AI Chatbot!](https://dev.to/shubrah_gupta_107/code-companion-dive-deep-into-your-codebase-with-your-own-intelligent-ai-chatbot-37e)
+- [Complete Guide: Setting up VS Code for Elixir and Phoenix Development](https://dev.to/abreujp/complete-guide-setting-up-vs-code-for-elixir-and-phoenix-development-4pmd)
+- [Media Attribute in HTML](https://dev.to/aryan015/media-attribute-in-html-5acd)
+- [Building a Machine Learning Regression Model to Predict Student Grades with Python](https://dev.to/ayas_tech_2b0560ee159e661/building-a-machine-learning-regression-model-to-predict-student-grades-with-python-3kp8)
+- [DBMS_SQL package | Dynamic SQL](https://dev.to/mrcaption49/dbmssql-package-dynamic-sql-530e)
 <!-- BLOG-POST-LIST:END -->
 
