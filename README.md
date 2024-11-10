@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Release 0.45.0 of Spellcheck &lpar;GitHub&rpar; Action - it is all about maintenance](https://dev.to/jonasbn/release-0450-of-spellcheck-github-action-it-is-all-about-maintenance-30c7)
+- [AI-Powered CV Analysis Platform](https://dev.to/davkharbayar/ai-powered-cv-analysis-platform-1p48)
 - [Critical changes coming to GitHub Actions: Ubuntu 24 migration guide](https://dev.to/siddhantkcode/critical-changes-coming-to-github-actions-ubuntu-24-migration-guide-oo8)
-- [AI Systematic Literature Review with KawanPaper](https://dev.to/fahminlb33/systematic-literature-review-with-kawanpaper-110l)
-- [Kamal: How to use Grafana Loki as a logging driver](https://dev.to/eduardinni/kamal-how-to-use-grafana-loki-as-a-logging-driver-1hdc)
-- [Decoding StyleX: Meta&#39;s Cutting-Edge Styling System](https://dev.to/supminn/decoding-stylex-metas-cutting-edge-styling-system-1d8l)
+- [Kamal: Speed up the image builds using managed third-party builders and GitHub Actions](https://dev.to/eduardinni/kamal-speed-up-the-image-builds-using-managed-third-party-builders-and-github-actions-40bj)
 <!-- BLOG-POST-LIST:END -->
 
