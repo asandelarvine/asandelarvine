@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Execute E2E Test Cases Using Natural Language with Intelli-Browser](https://dev.to/chlorine/execute-e2e-test-cases-using-natural-language-with-intelli-browser-1d1f)
-- [Understanding forwardRef in React: A Comprehensive Guide](https://dev.to/ingeniouswebster/understanding-forwardref-in-react-a-comprehensive-guide-4e85)
-- [🚀 My First Website: Anotes - A Sleek Note-Taking App](https://dev.to/alexcj10/my-first-website-anotes-a-sleek-note-taking-app-4fgl)
-- [Global day of code retreat Madrid](https://dev.to/marabesi/global-day-of-code-retreat-madrid-1305)
+- [Migrating from VSCode to Neovim: A Journey of Learning, Confusion, and Triumph! 🚀](https://dev.to/brunociccarino/migrating-from-vscode-to-neovim-a-journey-of-learning-confusion-and-triumph-el0)
+- [GitHub’s Security Scanner &amp; Conventional Commits — A Developer’s Journey](https://dev.to/jesse_chong_3bcc276c4f950/githubs-security-scanner-conventional-commits-a-developers-journey-4cef)
+- [Full-Stack Web Application with AWS Amplify: AWS Project](https://dev.to/shubham_murti/full-stack-web-application-with-aws-amplify-aws-project-5f8e)
+- [Code Companion: Dive Deep into Your Codebase with Your Own Intelligent AI Chatbot!](https://dev.to/shubrah_gupta_107/code-companion-dive-deep-into-your-codebase-with-your-own-intelligent-ai-chatbot-37e)
 <!-- BLOG-POST-LIST:END -->
 
