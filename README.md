@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/vizzv/test-43l8)
-- [Why We Code Like Legends and Communicate Like NPCs: The Programmer’s Paradox](https://dev.to/high_octane/why-we-code-like-legends-and-communicate-like-npcs-the-programmers-paradox-1316)
-- [Identificando os objetos da melhor API de tabela de campeonatos que você já viu!](https://dev.to/anastacio_dev/identificando-os-objetos-da-melhor-api-de-tabela-de-campeonatos-que-voce-ja-viu-1607)
-- [Ansible Use Cases: Practical Applications and Implementation with Examples](https://dev.to/i_am_vesh/ansible-use-cases-practical-applications-and-implementation-with-examples-166o)
+- [INTRO TO SLACK](https://dev.to/sandesh_dangi/intro-to-slack-nh)
+- [The Human Brain During Sleep vs. AI Hallucinations: a Comparison](https://dev.to/evanmarie/the-human-brain-during-sleep-vs-ai-hallucinations-a-comparison-4abi)
+- [Building a Free Online Music Creator: Free Incredibox Sprunki](https://dev.to/reversecher/building-a-free-online-music-creator-free-incredibox-sprunki-4061)
+- [Artify: Leveraging Deep Learning to Transform Images into Unique Art Pieces](https://dev.to/parag_ghatage_dev124/artify-leveraging-deep-learning-to-transform-images-into-unique-art-pieces-3m3p)
 <!-- BLOG-POST-LIST:END -->
 
