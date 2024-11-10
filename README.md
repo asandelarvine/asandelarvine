@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide: Setting up VS Code for Elixir and Phoenix Development](https://dev.to/abreujp/complete-guide-setting-up-vs-code-for-elixir-and-phoenix-development-4pmd)
-- [Media Attribute in HTML](https://dev.to/aryan015/media-attribute-in-html-5acd)
-- [Building a Machine Learning Regression Model to Predict Student Grades with Python](https://dev.to/ayas_tech_2b0560ee159e661/building-a-machine-learning-regression-model-to-predict-student-grades-with-python-3kp8)
-- [DBMS_SQL package | Dynamic SQL](https://dev.to/mrcaption49/dbmssql-package-dynamic-sql-530e)
+- [Deep Dive into Unsupervised Learning: UC Berkeley&#39;s Cutting-Edge Course](https://dev.to/getvm/deep-dive-into-unsupervised-learning-uc-berkeleys-cutting-edge-course-c19)
+- [Reproducible and Scalable VM Cloning on Proxmox-Ansible to the Rescue!](https://dev.to/sebos/reproducible-and-scalable-vm-cloning-on-proxmox-ansible-to-the-rescue-25mn)
+- [15 Essential React 18 Hooks You Need to Know &lpar;With Examples&rpar;](https://dev.to/vivekmengu016/15-essential-react-18-hooks-you-need-to-know-with-examples-4cl3)
+- [C4 Model: Documentación Clara y Efectiva para Arquitecturas de Software](https://dev.to/ajcastillo/c4-model-documentacion-clara-y-efectiva-para-arquitecturas-de-software-43od)
 <!-- BLOG-POST-LIST:END -->
 
