@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Full-Stack Project with React and Firebase: Authentication, Firestore, Storage, Functions &amp; Vertex AI](https://dev.to/gladiatorsbattle/setting-up-a-full-stack-project-with-react-and-firebase-authentication-firestore-storage-functions-vertex-ai-5964)
-- [Level Up Your App&#39;s Speed with `NgOptimizedImage`](https://dev.to/jzolnowski/supercharge-angular-app-with-ngoptimizedimage-56j4)
-- [Why Your Company Should Sponsor Events](https://dev.to/cirdes/why-your-company-should-sponsor-events-4e04)
-- [Transform Your Testing Process: A Guide to GPT-Powered Test Planning](https://dev.to/denisha/transform-your-testing-process-a-guide-to-gpt-powered-test-planning-48a6)
+- [The Ultimate Data Engineering Roadmap: From Beginner to Pro](https://dev.to/shahiakhilesh1304/the-ultimate-data-engineering-roadmap-from-beginner-to-pro-21nf)
+- [How do HTML event handlers work?](https://dev.to/tbroyer/how-do-html-event-handlers-work-nok)
+- [Simplify Your Server Connections with SSH Config](https://dev.to/nwby/simplify-your-server-connections-with-ssh-config-5gce)
+- [Pure Text Laravel Package](https://dev.to/yasserelgammal/pure-text-laravel-package-302p)
 <!-- BLOG-POST-LIST:END -->
 
