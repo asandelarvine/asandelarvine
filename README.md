@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack User Management System with Next.js 14, GraphQL, Prisma, and PostgreSQL](https://dev.to/abdur_rakibrony_97cea0e9/building-a-full-stack-user-management-system-with-nextjs-14-graphql-prisma-and-postgresql-34ma)
-- [DEVOPS TOOL - MICROSOFT TEAMS](https://dev.to/madhumithaa/devops-tool-microsoft-teams-32i0)
-- [How Software Engineers Make Their Software Run Faster](https://dev.to/koladev/how-software-engineers-make-their-software-run-faster-2620)
-- [Linux Web Server Showdown: Choosing Between Apache, Nginx, LiteSpeed, and Caddy](https://dev.to/kaustubhyerkade/linux-web-server-showdown-choosing-between-apache-nginx-litespeed-and-caddy-2anl)
+- [Test](https://dev.to/vizzv/test-43l8)
+- [Why We Code Like Legends and Communicate Like NPCs: The Programmer’s Paradox](https://dev.to/high_octane/why-we-code-like-legends-and-communicate-like-npcs-the-programmers-paradox-1316)
+- [Identificando os objetos da melhor API de tabela de campeonatos que você já viu!](https://dev.to/anastacio_dev/identificando-os-objetos-da-melhor-api-de-tabela-de-campeonatos-que-voce-ja-viu-1607)
+- [Ansible Use Cases: Practical Applications and Implementation with Examples](https://dev.to/i_am_vesh/ansible-use-cases-practical-applications-and-implementation-with-examples-166o)
 <!-- BLOG-POST-LIST:END -->
 
