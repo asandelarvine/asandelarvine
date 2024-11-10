@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Hooks in React](https://dev.to/chewryl/custom-hooks-in-react-56i1)
-- [Rewind AI + Cursor AI = screenpipe: how we built a high performance Rust frame streaming API &lpar;OSS&rpar;](https://dev.to/louis030195/rewind-ai-cursor-ai-screenpipe-how-we-built-a-high-performance-rust-frame-streaming-api-oss-1k9j)
-- [Simple Factory](https://dev.to/sota_333ad4b72095606ab40c/simple-factory-3bnl)
-- [Automated Testing with Pytest](https://dev.to/arilloid/automated-testing-with-pytest-2c9g)
+- [Building a Product Store with MERN Stack](https://dev.to/krishnatejakrish/building-a-product-store-with-mern-stack-in0)
+- [鸿蒙自定义编辑框与共享沙箱实现个性化输入法与编辑框的交互](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-zi-ding-yi-bian-ji-kuang-yu-gong-xiang-sha-xiang-shi-xian-ge-xing-hua-shu-ru-fa-yu-bian-ji-kuang-de-jiao-hu-1mb)
+- [Design of HarmonyOS Multi-Language Intelligent Input Method: Dynamic Switching of Subtypes and Real-Time Translation Function](https://dev.to/xun_wang_6384a403f9817c2/design-of-harmonyos-multi-language-intelligent-input-method-dynamic-switching-of-subtypes-and-real-time-translation-function-2fkb)
+- [鸿蒙多语言智能输入法设计：动态切换子类型与实时翻译功能](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-duo-yu-yan-zhi-neng-shu-ru-fa-she-ji-dong-tai-qie-huan-zi-lei-xing-yu-shi-shi-fan-yi-gong-neng-2508)
 <!-- BLOG-POST-LIST:END -->
 
