@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing in DevOps: Strategies, Tools, and Best Practices for Continuous Quality](https://dev.to/prodevopsguytech/testing-in-devops-strategies-tools-and-best-practices-for-continuous-quality-3b4a)
-- [What is the difference between forEach and map in streams?](https://dev.to/realnamehidden1_61/what-is-the-difference-between-foreach-and-map-in-streams-42d4)
-- [[Blog Template] Create your own blog site with this Ready-to-use Template, built with Next.js](https://dev.to/jnoncode/blog-template-create-your-own-blog-site-with-this-ready-to-use-template-built-with-nextjs-44hd)
-- [PL/SQL Developer Interview Questions with 3 years of experience](https://dev.to/mrcaption49/plsql-developer-interview-questions-with-3-years-of-experience-4f6l)
+- [Building a Full-Stack User Management System with Next.js 14, GraphQL, Prisma, and PostgreSQL](https://dev.to/abdur_rakibrony_97cea0e9/building-a-full-stack-user-management-system-with-nextjs-14-graphql-prisma-and-postgresql-34ma)
+- [DEVOPS TOOL - MICROSOFT TEAMS](https://dev.to/madhumithaa/devops-tool-microsoft-teams-32i0)
+- [How Software Engineers Make Their Software Run Faster](https://dev.to/koladev/how-software-engineers-make-their-software-run-faster-2620)
+- [Linux Web Server Showdown: Choosing Between Apache, Nginx, LiteSpeed, and Caddy](https://dev.to/kaustubhyerkade/linux-web-server-showdown-choosing-between-apache-nginx-litespeed-and-caddy-2anl)
 <!-- BLOG-POST-LIST:END -->
 
