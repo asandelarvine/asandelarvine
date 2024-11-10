@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Product Store with MERN Stack](https://dev.to/krishnatejakrish/building-a-product-store-with-mern-stack-in0)
-- [鸿蒙自定义编辑框与共享沙箱实现个性化输入法与编辑框的交互](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-zi-ding-yi-bian-ji-kuang-yu-gong-xiang-sha-xiang-shi-xian-ge-xing-hua-shu-ru-fa-yu-bian-ji-kuang-de-jiao-hu-1mb)
-- [Design of HarmonyOS Multi-Language Intelligent Input Method: Dynamic Switching of Subtypes and Real-Time Translation Function](https://dev.to/xun_wang_6384a403f9817c2/design-of-harmonyos-multi-language-intelligent-input-method-dynamic-switching-of-subtypes-and-real-time-translation-function-2fkb)
-- [鸿蒙多语言智能输入法设计：动态切换子类型与实时翻译功能](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-duo-yu-yan-zhi-neng-shu-ru-fa-she-ji-dong-tai-qie-huan-zi-lei-xing-yu-shi-shi-fan-yi-gong-neng-2508)
+- [Tough Task? Discover How Google’s AI Can Help You Understand Your Algorithm and Codes Faster.](https://dev.to/chiamaka_ebolue/tough-task-discover-how-googles-ai-can-help-you-understand-your-algorithm-and-codes-faster-1ln4)
+- [Utilizing Generative AI with Python](https://dev.to/rosaliewessels/utilizing-generative-ai-with-python-1dbf)
+- [Tech Made Simple: The Key to Understanding What Really Matters.](https://dev.to/chiamaka_ebolue/tech-made-simple-the-key-to-understanding-what-really-matters-355e)
+- [Phoenix LiveView Optimization Guide](https://dev.to/manhvanvu/phoenix-liveview-optimization-guide-3gkj)
 <!-- BLOG-POST-LIST:END -->
 
