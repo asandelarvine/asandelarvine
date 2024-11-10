@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do I need to follow &#39;develop in China&#39; steps if I&#39;m using VPN?](https://dev.to/devzach/do-i-need-to-follow-develop-in-china-steps-if-im-using-vpn-aek)
-- [Smart Bookmark Manager](https://dev.to/bellatrick/smart-bookmark-manager-35fb)
-- [🌐 Building a Custom Framework in Java: From Dependency Injection to AOP](https://dev.to/saurabhkurve/building-a-custom-framework-in-java-from-dependency-injection-to-aop-3n2f)
-- [Database Monitoring: Importance, Tools, and Best Practices for Performance Optimization](https://dev.to/nozibul_islam_113b1d5334f/database-monitoring-importance-tools-and-best-practices-for-performance-optimization-4d57)
+- [Critical changes coming to GitHub Actions: Ubuntu 24 migration guide](https://dev.to/siddhantkcode/critical-changes-coming-to-github-actions-ubuntu-24-migration-guide-oo8)
+- [AI Systematic Literature Review with KawanPaper](https://dev.to/fahminlb33/systematic-literature-review-with-kawanpaper-110l)
+- [Kamal: How to use Grafana Loki as a logging driver](https://dev.to/eduardinni/kamal-how-to-use-grafana-loki-as-a-logging-driver-1hdc)
+- [Decoding StyleX: Meta&#39;s Cutting-Edge Styling System](https://dev.to/supminn/decoding-stylex-metas-cutting-edge-styling-system-1d8l)
 <!-- BLOG-POST-LIST:END -->
 
