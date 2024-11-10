@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customizing Compiler-Generated Methods in C# Records with Full Code Examples](https://dev.to/moh_moh701/customizing-compiler-generated-methods-in-c-records-with-full-code-examples-47if)
-- [Definindo a arquitetura da melhor API de tabela de campeonato que você já!](https://dev.to/anastacio_dev/definindo-a-arquitetura-da-melhor-api-de-tabela-de-campeonato-que-voce-ja-3kkp)
-- [Why Your Software Projects Aren’t Getting You Hired &lpar;And What to Do About It&rpar;](https://dev.to/dishitdevasia/why-your-software-projects-arent-getting-you-hired-and-what-to-do-about-it-22do)
-- [In-Depth Technical Analysis of XAML-Based Frameworks and Cross-Platform Project Architecture Design](https://dev.to/jamesnet214/in-depth-technical-analysis-of-xaml-based-frameworks-and-cross-platform-project-architecture-design-6cj)
+- [User Authentication with Auth.js in Next.js App Router](https://dev.to/jamescroissant/user-authentication-with-authjs-in-nextjs-app-router-424k)
+- [PHPStan: Elevate Your PHP Code Quality with Static Analysis](https://dev.to/alphaolomi/phpstan-elevate-your-php-code-quality-with-static-analysis-519f)
+- [Turbocharge Your Website: A Developer&#39;s Guide to Web Performance 🚀💨💻](https://dev.to/hossamgouda/turbocharge-your-website-a-developers-guide-to-web-performance-h0l)
+- [Mastering Async JavaScript: Promises vs. Async/Await](https://dev.to/holly_e0971bb/mastering-async-javascript-promises-vs-asyncawait-1f15)
 <!-- BLOG-POST-LIST:END -->
 
