@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [INTRO TO SLACK](https://dev.to/sandesh_dangi/intro-to-slack-nh)
-- [The Human Brain During Sleep vs. AI Hallucinations: a Comparison](https://dev.to/evanmarie/the-human-brain-during-sleep-vs-ai-hallucinations-a-comparison-4abi)
-- [Building a Free Online Music Creator: Free Incredibox Sprunki](https://dev.to/reversecher/building-a-free-online-music-creator-free-incredibox-sprunki-4061)
-- [Artify: Leveraging Deep Learning to Transform Images into Unique Art Pieces](https://dev.to/parag_ghatage_dev124/artify-leveraging-deep-learning-to-transform-images-into-unique-art-pieces-3m3p)
+- [Execute E2E Test Cases Using Natural Language with Intelli-Browser](https://dev.to/chlorine/execute-e2e-test-cases-using-natural-language-with-intelli-browser-1d1f)
+- [Understanding forwardRef in React: A Comprehensive Guide](https://dev.to/ingeniouswebster/understanding-forwardref-in-react-a-comprehensive-guide-4e85)
+- [🚀 My First Website: Anotes - A Sleek Note-Taking App](https://dev.to/alexcj10/my-first-website-anotes-a-sleek-note-taking-app-4fgl)
+- [Global day of code retreat Madrid](https://dev.to/marabesi/global-day-of-code-retreat-madrid-1305)
 <!-- BLOG-POST-LIST:END -->
 
