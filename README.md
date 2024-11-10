@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does JavaScript’s parseInt&lpar;0.0000005&rpar; Print “5”? 🤔](https://dev.to/jagroop2001/why-does-javascripts-parseint00000005-print-5-4f0e)
-- [🌟 Extensions Dump: UnitFlux and CodeMorph!](https://dev.to/shiftescape/extensions-dump-unitflux-and-codemorph-bhi)
-- [Let’s create numeric range input with attached scale](https://dev.to/morewings/lets-create-numeric-range-input-with-attached-scale-iie)
-- [How to style active Nav links in server components in Next.js](https://dev.to/cookiemonsterdev/how-to-style-active-nav-links-in-server-components-in-nextjs-1193)
+- [Method References in Java](https://dev.to/dhanush9952/method-references-in-java-4690)
+- [C# Fundamentals: Variables and Data Types](https://dev.to/adrianbailador/c-fundamentals-variables-and-data-types-2p58)
+- [Understanding Genetic Algorithms: Applications, Benefits, and Challenges in Soft Computing](https://dev.to/adityabhuyan/understanding-genetic-algorithms-applications-benefits-and-challenges-in-soft-computing-4j71)
+- [Futuristic Portfolio](https://dev.to/anooppatel/futuristic-portfolio-1711)
 <!-- BLOG-POST-LIST:END -->
 
