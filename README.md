@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Unsupervised Learning: UC Berkeley&#39;s Cutting-Edge Course](https://dev.to/getvm/deep-dive-into-unsupervised-learning-uc-berkeleys-cutting-edge-course-c19)
-- [Reproducible and Scalable VM Cloning on Proxmox-Ansible to the Rescue!](https://dev.to/sebos/reproducible-and-scalable-vm-cloning-on-proxmox-ansible-to-the-rescue-25mn)
-- [15 Essential React 18 Hooks You Need to Know &lpar;With Examples&rpar;](https://dev.to/vivekmengu016/15-essential-react-18-hooks-you-need-to-know-with-examples-4cl3)
-- [C4 Model: Documentación Clara y Efectiva para Arquitecturas de Software](https://dev.to/ajcastillo/c4-model-documentacion-clara-y-efectiva-para-arquitecturas-de-software-43od)
+- [Customizing Compiler-Generated Methods in C# Records with Full Code Examples](https://dev.to/moh_moh701/customizing-compiler-generated-methods-in-c-records-with-full-code-examples-47if)
+- [Definindo a arquitetura da melhor API de tabela de campeonato que você já!](https://dev.to/anastacio_dev/definindo-a-arquitetura-da-melhor-api-de-tabela-de-campeonato-que-voce-ja-3kkp)
+- [Why Your Software Projects Aren’t Getting You Hired &lpar;And What to Do About It&rpar;](https://dev.to/dishitdevasia/why-your-software-projects-arent-getting-you-hired-and-what-to-do-about-it-22do)
+- [In-Depth Technical Analysis of XAML-Based Frameworks and Cross-Platform Project Architecture Design](https://dev.to/jamesnet214/in-depth-technical-analysis-of-xaml-based-frameworks-and-cross-platform-project-architecture-design-6cj)
 <!-- BLOG-POST-LIST:END -->
 
