@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jira Issue Types Link to Assets](https://dev.to/assetitapp/jira-issue-types-link-to-assets-3pii)
-- [How Does Curl Work to Simplify Data Transfers and Testing](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-does-curl-work-to-simplify-data-transfers-and-testing-4a0g)
-- [How Does Curl Work to Simplify Data Transfers and Testing](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-does-curl-work-to-simplify-data-transfers-and-testing-dpb)
-- [Exploring Microsoft SQL Server: Powering Enterprise Data Management](https://dev.to/chat2db/exploring-microsoft-sql-server-powering-enterprise-data-management-5789)
+- [What is the Process of AI Development?](https://dev.to/ravi_makhija/what-is-the-process-of-ai-development-3phe)
+- [Cypress for the absolute beginner](https://dev.to/w4dd325/cypress-for-the-absolute-beginner-10fi)
+- [Transform Your WordPress Images with Generative AI](https://dev.to/sharony/transform-your-wordpress-images-with-generative-ai-4l7f)
+- [Understanding Service Mesh: The Backbone of Microservices Communication](https://dev.to/keploy/understanding-service-mesh-the-backbone-of-microservices-communication-4l2o)
 <!-- BLOG-POST-LIST:END -->
 
