@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do AirTags Work? A Comprehensive Guide](https://dev.to/rahulladumor/how-do-airtags-work-a-comprehensive-guide-oe1)
-- [Choosing the Right Database for Full-Stack Development: Amazon RDS vs. Amazon Aurora](https://dev.to/em_tampz/choosing-the-right-database-for-full-stack-development-amazon-rds-vs-amazon-aurora-3oal)
-- [Engineering the Unseen: My Work as a Software Engineer](https://dev.to/norbs/engineering-the-unseen-my-work-as-a-software-engineer-abp)
-- [A Guide to Tackle DevOps Implementation Challenges With Ease](https://dev.to/harman_diaz/a-guide-to-tackle-devops-implementation-challenges-with-ease-j8f)
+- [Agile vs. DevOps: Which is Best for Your Team?](https://dev.to/balrajola/agile-vs-devops-which-is-best-for-your-team-3oh8)
+- [A Beginners Guide to AWS &lpar;VPS&rpar; Virtual Private Cloud](https://dev.to/redrobotdev/a-beginners-guide-to-aws-vps-virtual-private-cloud-292m)
+- [Dynamic image creation with service workers](https://dev.to/maxart2501/dynamic-image-creation-with-service-workers-3l9h)
+- [How does WebAssembly enhance web application performance?](https://dev.to/techcreator_usa/how-does-webassembly-enhance-web-application-performance-3a0)
 <!-- BLOG-POST-LIST:END -->
 
