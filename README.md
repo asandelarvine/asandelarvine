@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Server key values are compared case-insensitively in EFCore 8](https://dev.to/scottpony/sql-server-key-values-are-compared-case-insensitively-in-efcore-8-im0)
-- [Master Node.js with the 5th Edition Cookbook](https://dev.to/eomm/master-nodejs-with-the-5th-edition-cookbook-jml)
-- [Resume data replication in Postgres and Node.js](https://dev.to/eomm/resume-data-replication-in-postgres-and-nodejs-1739)
-- [Top 9 Generative AI Skills You Should Learn](https://dev.to/tutortacademy/top-9-generative-ai-skills-you-should-learn-n6h)
+- [Network Redundancy for Business Continuity](https://dev.to/samhortons/network-redundancy-for-business-continuity-3ki)
+- [Hi, I&#39;m Jacob Roman: A Decade in Web Development](https://dev.to/romanbytes/hi-im-jacob-roman-a-decade-in-web-development-3kpp)
+- [The Power of Open Source Communities: Paving the Way to High-Paying Jobs](https://dev.to/mrdprasad/the-power-of-open-source-communities-paving-the-way-to-high-paying-jobs-3f62)
+- [Deploying WordPress on AWS Lightsail: A Beginner&#39;s Guide to Cloud Hosting](https://dev.to/maksdeb-g/deploying-wordpress-on-aws-lightsail-a-beginners-guide-to-cloud-hosting-peh)
 <!-- BLOG-POST-LIST:END -->
 
