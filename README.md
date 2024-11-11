@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is JWT Bearer for REST APIs and How to Debug It With Code &amp; Tools](https://dev.to/daniel_ma_4ea0d9971ef2dcf/what-is-jwt-bearer-for-rest-apis-and-how-to-debug-it-with-code-tools-57e5)
-- [El bloque finally en Java](https://dev.to/asjordi/el-bloque-finally-en-java-3pba)
-- [Rotating an object in OpenGL 4.6 not centered at origin](https://dev.to/sanskar_4862/rotating-an-object-in-opengl-46-not-centered-at-origin-2ge2)
-- [Rate Limiting Algorithms and Techniques](https://dev.to/syncloop_dev/rate-limiting-algorithms-and-techniques-14gb)
+- [Linux File System](https://dev.to/habdulr1/linux-file-system-8ca)
+- [AI Agents for Social Good: Solving Real-World Problems with Automation](https://dev.to/asad1/ai-agents-for-social-good-solving-real-world-problems-with-automation-3lob)
+- [First Night at Web Summit 2024: The Energy is Electric!](https://dev.to/marrouchi/first-night-at-web-summit-2024-the-energy-is-electric-4561)
+- [Why Every Company Needs Security Checkers in 2025](https://dev.to/natasha_ramzan/why-every-company-needs-security-checkers-in-2025-1m21)
 <!-- BLOG-POST-LIST:END -->
 
