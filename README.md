@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HardenEKS: The Easy Way to keep your AWS EKS clusters secure and compliant](https://dev.to/aws-builders/hardeneks-the-easy-way-to-keep-your-aws-eks-clusters-secure-and-compliant-58o9)
-- [Open-Closed Principle &lpar;OCP&rpar;-Part-2](https://dev.to/bappasahabapi/open-closed-principle-ocp-part-2-1po4)
-- [Metallics by Draneria | Free brushes, for Krita!](https://dev.to/draneria/metallics-by-draneria-free-brushes-for-krita-3k5o)
-- [7 Must-Have PHP Development Tools to Boost Efficiency in 2025](https://dev.to/neotechy/7-must-have-php-development-tools-to-boost-efficiency-in-2025-526j)
+- [Jira Issue Types Link to Assets](https://dev.to/assetitapp/jira-issue-types-link-to-assets-3pii)
+- [How Does Curl Work to Simplify Data Transfers and Testing](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-does-curl-work-to-simplify-data-transfers-and-testing-4a0g)
+- [How Does Curl Work to Simplify Data Transfers and Testing](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-does-curl-work-to-simplify-data-transfers-and-testing-dpb)
+- [Exploring Microsoft SQL Server: Powering Enterprise Data Management](https://dev.to/chat2db/exploring-microsoft-sql-server-powering-enterprise-data-management-5789)
 <!-- BLOG-POST-LIST:END -->
 
