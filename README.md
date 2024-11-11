@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a &lpar;Nearly&rpar; Free Serverless Rate Limiter on AWS](https://dev.to/kieronjmckenna/how-to-create-a-nearly-free-serverless-rate-limiter-on-aws-2j9n)
-- [Exploring MongoDB: A Comprehensive Guide to the NoSQL Database](https://dev.to/draigo15/exploring-mongodb-a-comprehensive-guide-to-the-nosql-database-3g58)
-- [Learning from My Own Tests](https://dev.to/udayrana/learning-by-writing-tests-15a0)
-- [Introduction to Classification in Machine Learning](https://dev.to/ayas_tech_2b0560ee159e661/introduction-to-classification-in-machine-learning-3ge5)
+- [What a missing favicon can do..](https://dev.to/rexebin/what-a-missing-favicon-can-do-29ha)
+- [MiniSupermaket](https://dev.to/brbara_montesino_44d2eb7/minisupermaket-2j4c)
+- [The Hidden Costs of Traditional Lawns: An AI Analysis](https://dev.to/josef_doctorovitz_ww/the-hidden-costs-of-traditional-lawns-an-ai-analysis-3hd8)
+- [Google Workspace Security Part 2: SSO, API Access, Managing Connected Apps and the Alert Center](https://dev.to/andrew_despres/google-workspace-security-part-2-sso-api-access-managing-connected-apps-and-the-alert-center-13bk)
 <!-- BLOG-POST-LIST:END -->
 
