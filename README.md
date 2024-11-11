@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Process of AI Development?](https://dev.to/ravi_makhija/what-is-the-process-of-ai-development-3phe)
-- [Cypress for the absolute beginner](https://dev.to/w4dd325/cypress-for-the-absolute-beginner-10fi)
-- [Transform Your WordPress Images with Generative AI](https://dev.to/sharony/transform-your-wordpress-images-with-generative-ai-4l7f)
-- [Understanding Service Mesh: The Backbone of Microservices Communication](https://dev.to/keploy/understanding-service-mesh-the-backbone-of-microservices-communication-4l2o)
+- [Is Apidog the Best API Documentation Tool for Developers?](https://dev.to/apilover/is-apidog-the-best-api-documentation-tool-for-developers-2ea8)
+- [Warum jede Website für mich mehr als ein Projekt ist](https://dev.to/per-starke-642/warum-jede-website-fur-mich-mehr-als-ein-projekt-ist-4j2j)
+- [How ViewEncapsulation Works in Angular: The Shadow DOM, Emulated, and None Modes](https://dev.to/itamartati/how-viewencapsulation-works-in-angular-the-shadow-dom-emulated-and-none-modes-4i28)
+- [My Deloitte Interview Experience: On-Campus Placement Drive 2024 &lpar;Product Engineering Analyst Role&rpar;](https://dev.to/yeshwanthvarma/my-deloitte-interview-experience-on-campus-placement-drive-2024-product-engineering-analyst-role-3e1h)
 <!-- BLOG-POST-LIST:END -->
 
