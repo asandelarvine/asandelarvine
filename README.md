@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Role-Based Access Control in NestJS Using Custom Guards](https://dev.to/imzihad21/custom-role-based-access-control-in-nestjs-using-custom-guards-jol)
-- [Why NotebookLM is Revolutionizing Academic Research &lpar;While ChatGPT Falls Short&rpar;](https://dev.to/hannes_lehmann/why-notebooklm-is-revolutionizing-academic-research-while-chatgpt-falls-short-35mi)
-- [Procedimentos como base sólida da experiência do desenvolvedor antes da automação](https://dev.to/biosbug/procedimentos-como-base-solida-da-experiencia-do-desenvolvedor-antes-da-automacao-jk6)
-- [Navigating the Vocabulary of Gen AI with GIFs](https://dev.to/aws-builders/navigating-the-vocabulary-of-gen-ai-with-gifs-5ao5)
+- [Symfony Station Communiqué — 08 November 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-08-november-2024-a-look-at-symfony-drupal-php-and-programming-news-2569)
+- [Mastering in linux find command](https://dev.to/shani_kumar97/mastering-in-linux-find-command-3k8g)
+- [Integrating Stripe Payment Intent in NestJS with Webhook Handling](https://dev.to/imzihad21/integrating-stripe-payment-intent-in-nestjs-with-webhook-handling-1n65)
+- [Introducing InsightfulAI: Open-Source Machine Learning Templates for Everyone](https://dev.to/craftedwithintent/introducing-insightfulai-open-source-machine-learning-templates-for-everyone-lb)
 <!-- BLOG-POST-LIST:END -->
 
