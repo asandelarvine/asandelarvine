@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Redundancy for Business Continuity](https://dev.to/samhortons/network-redundancy-for-business-continuity-3ki)
-- [Hi, I&#39;m Jacob Roman: A Decade in Web Development](https://dev.to/romanbytes/hi-im-jacob-roman-a-decade-in-web-development-3kpp)
-- [The Power of Open Source Communities: Paving the Way to High-Paying Jobs](https://dev.to/mrdprasad/the-power-of-open-source-communities-paving-the-way-to-high-paying-jobs-3f62)
-- [Deploying WordPress on AWS Lightsail: A Beginner&#39;s Guide to Cloud Hosting](https://dev.to/maksdeb-g/deploying-wordpress-on-aws-lightsail-a-beginners-guide-to-cloud-hosting-peh)
+- [What Is JWT Bearer for REST APIs and How to Debug It With Code &amp; Tools](https://dev.to/daniel_ma_4ea0d9971ef2dcf/what-is-jwt-bearer-for-rest-apis-and-how-to-debug-it-with-code-tools-57e5)
+- [El bloque finally en Java](https://dev.to/asjordi/el-bloque-finally-en-java-3pba)
+- [Rotating an object in OpenGL 4.6 not centered at origin](https://dev.to/sanskar_4862/rotating-an-object-in-opengl-46-not-centered-at-origin-2ge2)
+- [Rate Limiting Algorithms and Techniques](https://dev.to/syncloop_dev/rate-limiting-algorithms-and-techniques-14gb)
 <!-- BLOG-POST-LIST:END -->
 
