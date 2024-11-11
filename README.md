@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile vs. DevOps: Which is Best for Your Team?](https://dev.to/balrajola/agile-vs-devops-which-is-best-for-your-team-3oh8)
-- [A Beginners Guide to AWS &lpar;VPS&rpar; Virtual Private Cloud](https://dev.to/redrobotdev/a-beginners-guide-to-aws-vps-virtual-private-cloud-292m)
-- [Dynamic image creation with service workers](https://dev.to/maxart2501/dynamic-image-creation-with-service-workers-3l9h)
-- [How does WebAssembly enhance web application performance?](https://dev.to/techcreator_usa/how-does-webassembly-enhance-web-application-performance-3a0)
+- [Custom Role-Based Access Control in NestJS Using Custom Guards](https://dev.to/imzihad21/custom-role-based-access-control-in-nestjs-using-custom-guards-jol)
+- [Why NotebookLM is Revolutionizing Academic Research &lpar;While ChatGPT Falls Short&rpar;](https://dev.to/hannes_lehmann/why-notebooklm-is-revolutionizing-academic-research-while-chatgpt-falls-short-35mi)
+- [Procedimentos como base sólida da experiência do desenvolvedor antes da automação](https://dev.to/biosbug/procedimentos-como-base-solida-da-experiencia-do-desenvolvedor-antes-da-automacao-jk6)
+- [Navigating the Vocabulary of Gen AI with GIFs](https://dev.to/aws-builders/navigating-the-vocabulary-of-gen-ai-with-gifs-5ao5)
 <!-- BLOG-POST-LIST:END -->
 
