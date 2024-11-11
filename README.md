@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Apidog the Best API Documentation Tool for Developers?](https://dev.to/apilover/is-apidog-the-best-api-documentation-tool-for-developers-2ea8)
-- [Warum jede Website für mich mehr als ein Projekt ist](https://dev.to/per-starke-642/warum-jede-website-fur-mich-mehr-als-ein-projekt-ist-4j2j)
-- [How ViewEncapsulation Works in Angular: The Shadow DOM, Emulated, and None Modes](https://dev.to/itamartati/how-viewencapsulation-works-in-angular-the-shadow-dom-emulated-and-none-modes-4i28)
-- [My Deloitte Interview Experience: On-Campus Placement Drive 2024 &lpar;Product Engineering Analyst Role&rpar;](https://dev.to/yeshwanthvarma/my-deloitte-interview-experience-on-campus-placement-drive-2024-product-engineering-analyst-role-3e1h)
+- [GC compaction: Behold your hash keys!](https://dev.to/trailblazer/gc-compaction-behold-your-hash-keys-2ii1)
+- [Building a Console-Based Calculator in C#](https://dev.to/terieyenike/building-a-console-based-calculator-in-c-1846)
+- [The call Function in Solidity](https://dev.to/ayoashy/the-call-function-in-solidity-d0h)
+- [Credit Card Against FD: What It Is, Key Features, and Benefits](https://dev.to/richa_jain_cae2bb36857bb5/credit-card-against-fd-what-it-is-key-features-and-benefits-2hg)
 <!-- BLOG-POST-LIST:END -->
 
