@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Considerations in AI-Driven Software Testing](https://dev.to/anil_csimplifyit_905c/ethical-considerations-in-ai-driven-software-testing-3ile)
-- [Use vite_rails to use Vue SFC&lpar;single file component, .vue&rpar; in &gt;= Rails7](https://dev.to/kevinluo201/use-viterails-to-use-vue-sfcsingle-file-component-vue-in-rails7-51bn)
-- [High Concurrency IPC Communication Implementation: Asynchronous Invocation and Multithreading Processing in HarmonyOS](https://dev.to/xun_wang_6384a403f9817c2/high-concurrency-ipc-communication-implementation-asynchronous-invocation-and-multithreading-processing-in-harmonyos-4966)
-- [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://dev.to/xun_wang_6384a403f9817c2/gao-bing-fa-ipctong-xin-shi-xian-harmonyoszhong-de-yi-bu-diao-yong-yu-duo-xian-cheng-chu-li-2eb4)
+- [Overcoming Challenges in Shifting Left Security: Practical Tips and Considerations](https://dev.to/public_cloud/overcoming-challenges-in-shifting-left-security-practical-tips-and-considerations-1f79)
+- [The Ultimate Glossary Of Terms About Accidents Lawyer](https://dev.to/cocoashears0/the-ultimate-glossary-of-terms-about-accidents-lawyer-fag)
+- [How To Explain Personal Injury Lawyer To Your Grandparents](https://dev.to/domainlevel9/how-to-explain-personal-injury-lawyer-to-your-grandparents-f2j)
+- [How to Create a RESTful API with Node.js, Express, and MongoDB using MVC pattern](https://dev.to/inam003/how-to-create-a-restful-api-with-nodejs-express-and-mongodb-using-mvc-pattern-218)
 <!-- BLOG-POST-LIST:END -->
 
