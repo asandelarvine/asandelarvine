@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Challenges in Shifting Left Security: Practical Tips and Considerations](https://dev.to/public_cloud/overcoming-challenges-in-shifting-left-security-practical-tips-and-considerations-1f79)
-- [The Ultimate Glossary Of Terms About Accidents Lawyer](https://dev.to/cocoashears0/the-ultimate-glossary-of-terms-about-accidents-lawyer-fag)
-- [How To Explain Personal Injury Lawyer To Your Grandparents](https://dev.to/domainlevel9/how-to-explain-personal-injury-lawyer-to-your-grandparents-f2j)
-- [How to Create a RESTful API with Node.js, Express, and MongoDB using MVC pattern](https://dev.to/inam003/how-to-create-a-restful-api-with-nodejs-express-and-mongodb-using-mvc-pattern-218)
+- [MongoDB Indexes: The Superpower to Speed Up Your Queries ⚡](https://dev.to/tuna99/mongodb-indexes-the-superpower-to-speed-up-your-queries-3lea)
+- [8 Slack Tips Every Tech Team Should Know in 2025](https://dev.to/adler_hsieh/8-slack-tips-every-tech-team-should-know-in-2025-4odl)
+- [14 Career Lessons After 10+ Years &lpar;and Lots of Trial and Error&rpar; as a Software Engineer — Rapid Fire Edition](https://dev.to/canro91/14-career-lessons-after-10-years-and-lots-of-trial-and-error-as-a-software-engineer-rapid-fire-edition-2946)
+- [A Playground for SQL RDBMS, custom Ollama API Interaction with RAG on Timescale DB and download of query plus result](https://dev.to/ogbotemi2000/a-playground-for-sql-rdbms-custom-ollama-api-interaction-with-rag-on-timescale-db-and-download-of-query-plus-result-5b24)
 <!-- BLOG-POST-LIST:END -->
 
