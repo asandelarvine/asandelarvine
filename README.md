@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux File System](https://dev.to/habdulr1/linux-file-system-8ca)
-- [AI Agents for Social Good: Solving Real-World Problems with Automation](https://dev.to/asad1/ai-agents-for-social-good-solving-real-world-problems-with-automation-3lob)
-- [First Night at Web Summit 2024: The Energy is Electric!](https://dev.to/marrouchi/first-night-at-web-summit-2024-the-energy-is-electric-4561)
-- [Why Every Company Needs Security Checkers in 2025](https://dev.to/natasha_ramzan/why-every-company-needs-security-checkers-in-2025-1m21)
+- [How Do AirTags Work? A Comprehensive Guide](https://dev.to/rahulladumor/how-do-airtags-work-a-comprehensive-guide-oe1)
+- [Choosing the Right Database for Full-Stack Development: Amazon RDS vs. Amazon Aurora](https://dev.to/em_tampz/choosing-the-right-database-for-full-stack-development-amazon-rds-vs-amazon-aurora-3oal)
+- [Engineering the Unseen: My Work as a Software Engineer](https://dev.to/norbs/engineering-the-unseen-my-work-as-a-software-engineer-abp)
+- [A Guide to Tackle DevOps Implementation Challenges With Ease](https://dev.to/harman_diaz/a-guide-to-tackle-devops-implementation-challenges-with-ease-j8f)
 <!-- BLOG-POST-LIST:END -->
 
