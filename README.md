@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Custom Hooks for Reusable Logic in React](https://dev.to/outstandingvick/creating-custom-hooks-for-reusable-logic-in-react-2735)
-- [How to Write and Handle Dynamic XPath In Selenium [with Tactics]](https://dev.to/satya_prakash/how-to-write-and-handle-dynamic-xpath-in-selenium-with-tactics-2p0f)
-- [Building a Real-Time Location Tracking Solution with Pulsetracker, Laravel, and Python](https://dev.to/l_walid/building-a-real-time-location-tracking-solution-with-pulsetracker-laravel-and-python-b08)
-- [Virtualization vs. Containerization in DevOps: Differences, Tools, and Use Cases](https://dev.to/jayesh0706/virtualization-vs-containerization-in-devops-differences-tools-and-use-cases-43hl)
+- [Using Binary To Solve the Poisoned Barrel Puzzle](https://dev.to/michi/using-binary-to-solve-the-poisoned-barrel-puzzle-4hhg)
+- [Meme Monday](https://dev.to/ben/meme-monday-5729)
+- [The Value of Small Wins](https://dev.to/gabrieltoma/the-value-of-small-wins-2bj8)
+- [How To Code Faster: Coding Strategies, GRASP, Shortcuts](https://dev.to/bkhebert/how-to-code-faster--49i4)
 <!-- BLOG-POST-LIST:END -->
 
