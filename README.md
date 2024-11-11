@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GC compaction: Behold your hash keys!](https://dev.to/trailblazer/gc-compaction-behold-your-hash-keys-2ii1)
-- [Building a Console-Based Calculator in C#](https://dev.to/terieyenike/building-a-console-based-calculator-in-c-1846)
-- [The call Function in Solidity](https://dev.to/ayoashy/the-call-function-in-solidity-d0h)
-- [Credit Card Against FD: What It Is, Key Features, and Benefits](https://dev.to/richa_jain_cae2bb36857bb5/credit-card-against-fd-what-it-is-key-features-and-benefits-2hg)
+- [Creating Custom Hooks for Reusable Logic in React](https://dev.to/outstandingvick/creating-custom-hooks-for-reusable-logic-in-react-2735)
+- [How to Write and Handle Dynamic XPath In Selenium [with Tactics]](https://dev.to/satya_prakash/how-to-write-and-handle-dynamic-xpath-in-selenium-with-tactics-2p0f)
+- [Building a Real-Time Location Tracking Solution with Pulsetracker, Laravel, and Python](https://dev.to/l_walid/building-a-real-time-location-tracking-solution-with-pulsetracker-laravel-and-python-b08)
+- [Virtualization vs. Containerization in DevOps: Differences, Tools, and Use Cases](https://dev.to/jayesh0706/virtualization-vs-containerization-in-devops-differences-tools-and-use-cases-43hl)
 <!-- BLOG-POST-LIST:END -->
 
