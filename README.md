@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering 6 Powerful Features in Dart](https://dev.to/harsh8088/mastering-6-powerful-features-in-dart-574j)
-- [Create a Dynamic Code Playground with SandPack + React!](https://dev.to/salehmubashar/create-a-dynamic-code-playground-with-sandpack-react-3na5)
-- [Essential Web Resources for Stunning Front-End Design](https://dev.to/kurtchan/essential-web-resources-for-stunning-front-end-design-41j2)
-- [Why Wireframing Matters in UI/UX Design](https://dev.to/ariston_itservices/why-wireframing-matters-in-uiux-design-5h54)
+- [HardenEKS: The Easy Way to keep your AWS EKS clusters secure and compliant](https://dev.to/aws-builders/hardeneks-the-easy-way-to-keep-your-aws-eks-clusters-secure-and-compliant-58o9)
+- [Open-Closed Principle &lpar;OCP&rpar;-Part-2](https://dev.to/bappasahabapi/open-closed-principle-ocp-part-2-1po4)
+- [Metallics by Draneria | Free brushes, for Krita!](https://dev.to/draneria/metallics-by-draneria-free-brushes-for-krita-3k5o)
+- [7 Must-Have PHP Development Tools to Boost Efficiency in 2025](https://dev.to/neotechy/7-must-have-php-development-tools-to-boost-efficiency-in-2025-526j)
 <!-- BLOG-POST-LIST:END -->
 
