@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony Station Communiqué — 08 November 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-08-november-2024-a-look-at-symfony-drupal-php-and-programming-news-2569)
-- [Mastering in linux find command](https://dev.to/shani_kumar97/mastering-in-linux-find-command-3k8g)
-- [Integrating Stripe Payment Intent in NestJS with Webhook Handling](https://dev.to/imzihad21/integrating-stripe-payment-intent-in-nestjs-with-webhook-handling-1n65)
-- [Introducing InsightfulAI: Open-Source Machine Learning Templates for Everyone](https://dev.to/craftedwithintent/introducing-insightfulai-open-source-machine-learning-templates-for-everyone-lb)
+- [How to Create a &lpar;Nearly&rpar; Free Serverless Rate Limiter on AWS](https://dev.to/kieronjmckenna/how-to-create-a-nearly-free-serverless-rate-limiter-on-aws-2j9n)
+- [Exploring MongoDB: A Comprehensive Guide to the NoSQL Database](https://dev.to/draigo15/exploring-mongodb-a-comprehensive-guide-to-the-nosql-database-3g58)
+- [Learning from My Own Tests](https://dev.to/udayrana/learning-by-writing-tests-15a0)
+- [Introduction to Classification in Machine Learning](https://dev.to/ayas_tech_2b0560ee159e661/introduction-to-classification-in-machine-learning-3ge5)
 <!-- BLOG-POST-LIST:END -->
 
