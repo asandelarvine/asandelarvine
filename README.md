@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Binary To Solve the Poisoned Barrel Puzzle](https://dev.to/michi/using-binary-to-solve-the-poisoned-barrel-puzzle-4hhg)
-- [Meme Monday](https://dev.to/ben/meme-monday-5729)
-- [The Value of Small Wins](https://dev.to/gabrieltoma/the-value-of-small-wins-2bj8)
-- [How To Code Faster: Coding Strategies, GRASP, Shortcuts](https://dev.to/bkhebert/how-to-code-faster--49i4)
+- [SQL Server key values are compared case-insensitively in EFCore 8](https://dev.to/scottpony/sql-server-key-values-are-compared-case-insensitively-in-efcore-8-im0)
+- [Master Node.js with the 5th Edition Cookbook](https://dev.to/eomm/master-nodejs-with-the-5th-edition-cookbook-jml)
+- [Resume data replication in Postgres and Node.js](https://dev.to/eomm/resume-data-replication-in-postgres-and-nodejs-1739)
+- [Top 9 Generative AI Skills You Should Learn](https://dev.to/tutortacademy/top-9-generative-ai-skills-you-should-learn-n6h)
 <!-- BLOG-POST-LIST:END -->
 
