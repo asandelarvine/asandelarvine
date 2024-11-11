@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Data Engineering Roadmap: From Beginner to Pro](https://dev.to/shahiakhilesh1304/the-ultimate-data-engineering-roadmap-from-beginner-to-pro-21nf)
-- [How do HTML event handlers work?](https://dev.to/tbroyer/how-do-html-event-handlers-work-nok)
-- [Simplify Your Server Connections with SSH Config](https://dev.to/nwby/simplify-your-server-connections-with-ssh-config-5gce)
-- [Pure Text Laravel Package](https://dev.to/yasserelgammal/pure-text-laravel-package-302p)
+- [Use vite_rails to use Vue SFC&lpar;single file component, .vue&rpar; in Rails7](https://dev.to/kevinluo201/use-viterails-to-use-vue-sfcsingle-file-component-vue-in-rails7-51bn)
+- [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://dev.to/xun_wang_6384a403f9817c2/gao-bing-fa-ipctong-xin-shi-xian-harmonyoszhong-de-yi-bu-diao-yong-yu-duo-xian-cheng-chu-li-2eb4)
+- [HarmonyOS IPC Kit Advanced: Basic Communication between Client and Server](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-ipc-kit-advanced-basic-communication-between-client-and-server-5c9m)
+- [HarmonyOS IPC Kit进阶：客户端与服务端的基础通信](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-ipc-kitjin-jie-ke-hu-duan-yu-fu-wu-duan-de-ji-chu-tong-xin-4nd3)
 <!-- BLOG-POST-LIST:END -->
 
