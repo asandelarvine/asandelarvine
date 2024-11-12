@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Inspector Integrations: Strengthening Cloud Security with Security Hub and EventBridge](https://dev.to/aws-builders/amazon-inspector-integrations-strengthening-cloud-security-with-security-hub-and-eventbridge-33g7)
-- [5 Top Skills for Backend Developers](https://dev.to/david_tevzadze_/5-top-skills-for-backend-developers-2ag5)
-- [Building an API part 1](https://dev.to/simon8800/building-an-api-part-1-1b9m)
-- [Zero-Trust Security in K8s Made Simple: Istio Ambient Mesh, No Sidecar Needed](https://dev.to/uripld/achieve-sidecar-less-mtls-for-k8s-pods-with-istios-ambient-mesh-28k)
+- [Pergunte ao especialista - classes encapsuladoras de tipos primitivos](https://dev.to/devsjavagirls/pergunte-ao-especialista-classes-encapsuladoras-de-tipos-primitivos-5bnd)
+- [Usando os encapsuladores de tipos da linguagem Java para converter strings numéricos](https://dev.to/devsjavagirls/usando-os-encapsuladores-de-tipos-da-linguagem-java-para-converter-strings-numericos-512f)
+- [The Global Object in JavaScript](https://dev.to/ggmurr24/the-global-object-in-javascript-5bhi)
+- [Pergunte ao especialista - I/O](https://dev.to/devsjavagirls/pergunte-ao-especialista-io-50ej)
 <!-- BLOG-POST-LIST:END -->
 
