@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [☘️ Growing 3D grass on Your GitHub Profile](https://dev.to/nrysk/growing-3d-grass-on-your-github-profile-3gfj)
-- [Efficient Package for Machine Learning Models: From XGBoost to Neural Networks in an Optimized System](https://dev.to/jafarzadeh/efficient-package-for-machine-learning-models-from-xgboost-to-neural-networks-in-an-optimized-system-2j2e)
-- [【转载】百川云网站安全监测：全面保障网站安全与稳定性的深度监测工具](https://dev.to/carrie_luo1/zhuan-zai-bai-chuan-yun-wang-zhan-an-quan-jian-ce-quan-mian-bao-zhang-wang-zhan-an-quan-yu-wen-ding-xing-de-shen-du-jian-ce-gong-ju-257k)
-- [【转载】百川云网站安全监测：全面保障网站安全与稳定性的深度监测工具](https://dev.to/muzilathebest/zhuan-zai-bai-chuan-yun-wang-zhan-an-quan-jian-ce-quan-mian-bao-zhang-wang-zhan-an-quan-yu-wen-ding-xing-de-shen-du-jian-ce-gong-ju-2pl4)
+- [How to Segment Your Audience for Maximum Impact with Email Automation](https://dev.to/sameer_rajpoot/how-to-segment-your-audience-for-maximum-impact-with-email-automation-27f7)
+- [Unlocking the Future: How AI is Transforming Marketing Strategies Today](https://dev.to/snapnews/unlocking-the-future-how-ai-is-transforming-marketing-strategies-today-4432)
+- [ERC-4337 Shared Mempool: Official Launch on Ethereum Mainnet, Arbitrum and Optimism](https://dev.to/etherspot/erc-4337-shared-mempool-official-launch-on-ethereum-mainnet-arbitrum-and-optimism-2cgj)
+- [Common Pitfalls in LINQ Queries and How to Avoid Them](https://dev.to/ferhatacar/common-pitfalls-in-linq-queries-and-how-to-avoid-them-42dd)
 <!-- BLOG-POST-LIST:END -->
 
