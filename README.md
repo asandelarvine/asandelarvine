@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check if You Are Using a Local Account or Microsoft Account in Windows 11?](https://dev.to/win11verse/how-to-check-if-you-are-using-a-local-account-or-microsoft-account-in-windows-11-5hdl)
-- [Problem solving TASK - 2](https://dev.to/danielprem_b4cd894e6c6051/problem-solving-task-2-74n)
-- [MongoDB Basics – Creating and Managing Data in MERN &lpar;PART 3&rpar;](https://dev.to/bilalkhanio/mongodb-basics-creating-and-managing-data-in-mern-part-3-16p7)
-- [VS Code Extension Development Tips](https://dev.to/vineethtrv/vs-code-extension-development-tips-3lml)
+- [Highly scalable image storage solution with AWS Serverless at ip.labs - Part 1](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-at-iplabs-part-1-3ep8)
+- [Optimizing Application Performance: A Comprehensive Guide for Testers](https://dev.to/sundram_bhardwaj/optimizing-application-performance-a-comprehensive-guide-for-testers-12jp)
+- [How to Insert Barcodes into a PDF Document with HTML5 and JavaScript](https://dev.to/yushulx/how-to-insert-barcodes-into-a-pdf-document-with-html5-and-javascript-32g9)
+- [Top 10 AI Tools for Developers in 2024](https://dev.to/nikl/top-10-ai-tools-for-developers-in-2024-92k)
 <!-- BLOG-POST-LIST:END -->
 
