@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1MinDocker #6 - Building further](https://dev.to/astrabert/1mindocker-6-building-further-39al)
-- [🚀 Building a Microservices Architecture with Node.js: A Practical Approach🌐](https://dev.to/erasmuskotoka/building-a-microservices-architecture-with-nodejs-a-practical-approach-48lh)
-- [What to use for data analysis programming, SQL, Python, or esProc SPL?](https://dev.to/esproc_spl/what-to-use-for-data-analysis-programming-sql-python-or-esproc-spl-11la)
-- [Multi - Process Collaborative Real - Time Data Acquisition and Sharing System](https://dev.to/xun_wang_6384a403f9817c2/multi-process-collaborative-real-time-data-acquisition-and-sharing-system-2ofg)
+- [The Bad Sides of JavaScript](https://dev.to/shafayeat/the-bad-sides-of-javascript-51ac)
+- [System Design 09 - Data Partitioning: Dividing to Conquer Big Data](https://dev.to/sarvabharan/data-partitioning-dividing-to-conquer-big-data-2nkj)
+- [A Guide to MongoDB Operators and Aggregations](https://dev.to/naymhdev/a-guide-to-mongodb-operators-and-aggregations-gmc)
+- [Understanding the Decorator Pattern: Enhancing Object Behavior Dynamically](https://dev.to/syridit118/understanding-the-decorator-pattern-enhancing-object-behavior-dynamically-pfl)
 <!-- BLOG-POST-LIST:END -->
 
