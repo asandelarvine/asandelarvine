@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello dev.to community! 👋](https://dev.to/evans_igho/hello-devto-community-13k2)
-- [3 Steps to Speed Up Laravel Projects with Laravel Shift Blueprint](https://dev.to/akramghaleb/3-steps-to-speed-up-laravel-projects-with-laravel-shift-blueprint-4e1o)
-- [New Text Encoding Boosts Multilingual AI Fairness and Performance](https://dev.to/mikeyoung44/new-text-encoding-boosts-multilingual-ai-fairness-and-performance-170h)
-- [Supervised, Unsupervised, and Reinforcement Learning: Choosing the Right Type for Your Project in 2025](https://dev.to/vikas76/supervised-unsupervised-and-reinforcement-learning-choosing-the-right-type-for-your-project-in-2025-4plj)
+- [Installing Git &amp; Setting Up Your GitHub Account](https://dev.to/ahsan598/installing-git-setting-up-your-github-account-548a)
+- [Understanding SSL/TLS: How Encryption Secures Your Online Communications](https://dev.to/aryaglekshmi/ssl-25j5)
+- [Understanding Incremental Static Generation in Next.js: A Practical Guide](https://dev.to/remejuan/understanding-incremental-static-generation-in-nextjs-a-practical-guide-11ff)
+- [Why Do Online Card Payments Fail? Insights from a Payment Processing Perspective](https://dev.to/lspsolutions/why-do-online-card-payments-fail-insights-from-a-payment-processing-perspective-22j9)
 <!-- BLOG-POST-LIST:END -->
 
