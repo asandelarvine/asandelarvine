@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [1MinDocker #6 - Building further](https://dev.to/astrabert/1mindocker-6-building-further-39al)
+- [🚀 Building a Microservices Architecture with Node.js: A Practical Approach🌐](https://dev.to/erasmuskotoka/building-a-microservices-architecture-with-nodejs-a-practical-approach-48lh)
 - [What to use for data analysis programming, SQL, Python, or esProc SPL?](https://dev.to/esproc_spl/what-to-use-for-data-analysis-programming-sql-python-or-esproc-spl-11la)
 - [Multi - Process Collaborative Real - Time Data Acquisition and Sharing System](https://dev.to/xun_wang_6384a403f9817c2/multi-process-collaborative-real-time-data-acquisition-and-sharing-system-2ofg)
-- [Incorrect calculations: csc&lpar;x&rpar; near x=k*π](https://dev.to/zaim/incorrect-calculations-cscx-near-xkp-47f8)
 <!-- BLOG-POST-LIST:END -->
 
