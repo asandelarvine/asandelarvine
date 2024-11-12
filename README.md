@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Git &amp; Setting Up Your GitHub Account](https://dev.to/ahsan598/installing-git-setting-up-your-github-account-548a)
-- [Understanding SSL/TLS: How Encryption Secures Your Online Communications](https://dev.to/aryaglekshmi/ssl-25j5)
-- [Understanding Incremental Static Generation in Next.js: A Practical Guide](https://dev.to/remejuan/understanding-incremental-static-generation-in-nextjs-a-practical-guide-11ff)
-- [Why Do Online Card Payments Fail? Insights from a Payment Processing Perspective](https://dev.to/lspsolutions/why-do-online-card-payments-fail-insights-from-a-payment-processing-perspective-22j9)
+- [“Bitcoin and DevOps: How Cryptocurrency Changed the Approach to Security and Infrastructure Management”](https://dev.to/alexroor4/bitcoin-and-devops-how-cryptocurrency-changed-the-approach-to-security-and-infrastructure-management-23l8)
+- [Setting Up an Autoscaling Application for a Client](https://dev.to/574n13y/setting-up-an-autoscaling-application-for-a-client-j9a)
+- [Understanding RESTful API Design Principles](https://dev.to/philip_zhang_854092d88473/understanding-restful-api-design-principles-1plj)
+- [What Is Basic Auth for REST APIs and How to Debug It With Code &amp; Tools](https://dev.to/philip_zhang_854092d88473/what-is-basic-auth-for-rest-apis-and-how-to-debug-it-with-code-tools-1cco)
 <!-- BLOG-POST-LIST:END -->
 
