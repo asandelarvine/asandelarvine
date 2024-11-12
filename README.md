@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Segment Your Audience for Maximum Impact with Email Automation](https://dev.to/sameer_rajpoot/how-to-segment-your-audience-for-maximum-impact-with-email-automation-27f7)
-- [Unlocking the Future: How AI is Transforming Marketing Strategies Today](https://dev.to/snapnews/unlocking-the-future-how-ai-is-transforming-marketing-strategies-today-4432)
-- [ERC-4337 Shared Mempool: Official Launch on Ethereum Mainnet, Arbitrum and Optimism](https://dev.to/etherspot/erc-4337-shared-mempool-official-launch-on-ethereum-mainnet-arbitrum-and-optimism-2cgj)
-- [Common Pitfalls in LINQ Queries and How to Avoid Them](https://dev.to/ferhatacar/common-pitfalls-in-linq-queries-and-how-to-avoid-them-42dd)
+- [Hello dev.to community! 👋](https://dev.to/evans_igho/hello-devto-community-13k2)
+- [3 Steps to Speed Up Laravel Projects with Laravel Shift Blueprint](https://dev.to/akramghaleb/3-steps-to-speed-up-laravel-projects-with-laravel-shift-blueprint-4e1o)
+- [New Text Encoding Boosts Multilingual AI Fairness and Performance](https://dev.to/mikeyoung44/new-text-encoding-boosts-multilingual-ai-fairness-and-performance-170h)
+- [Supervised, Unsupervised, and Reinforcement Learning: Choosing the Right Type for Your Project in 2025](https://dev.to/vikas76/supervised-unsupervised-and-reinforcement-learning-choosing-the-right-type-for-your-project-in-2025-4plj)
 <!-- BLOG-POST-LIST:END -->
 
