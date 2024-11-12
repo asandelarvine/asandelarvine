@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Distributed State with GenServers in Phoenix and Elixir](https://dev.to/appsignal/managing-distributed-state-with-genservers-in-phoenix-and-elixir-323a)
-- [Setting up auto brew update using crontab](https://dev.to/farisdurrani/setting-up-auto-brew-update-using-crontab-16d8)
-- [Why taking that bug break is important.](https://dev.to/mungaikeren/why-taking-that-bug-break-is-important-1epd)
-- [FIFO Messaging with Azure Service Bus and Spring Boot](https://dev.to/axeldlv/fifo-messaging-with-azure-service-bus-and-spring-boot-3650)
+- [The Best Way to Use ChatGPT to Your Advantage](https://dev.to/lucaschitolina/the-best-way-to-use-chatgpt-to-your-advantage-14gg)
+- [Highly scalable image storage solution with AWS Serverless at ip.labs - Part 1 The why behind the re-implementation](https://dev.to/aws-heroes/highly-scalable-image-storage-solution-with-aws-serverless-at-iplabs-part-1-the-why-behind-the-re-implementation-20ce)
+- [Building Microservices with Spring Boot: A Beginner&#39;s Perspective](https://dev.to/igventurelli/building-microservices-with-spring-boot-a-beginners-perspective-3a3o)
+- [I&#39;ve built the TodoMVC app with HTMX and lived to tell the story](https://dev.to/mbarzeev/ive-built-the-todomvc-app-in-htmx-and-lived-to-tell-the-story-480p)
 <!-- BLOG-POST-LIST:END -->
 
