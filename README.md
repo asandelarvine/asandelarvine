@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What a missing favicon can do..](https://dev.to/rexebin/what-a-missing-favicon-can-do-29ha)
-- [MiniSupermaket](https://dev.to/brbara_montesino_44d2eb7/minisupermaket-2j4c)
-- [The Hidden Costs of Traditional Lawns: An AI Analysis](https://dev.to/josef_doctorovitz_ww/the-hidden-costs-of-traditional-lawns-an-ai-analysis-3hd8)
-- [Google Workspace Security Part 2: SSO, API Access, Managing Connected Apps and the Alert Center](https://dev.to/andrew_despres/google-workspace-security-part-2-sso-api-access-managing-connected-apps-and-the-alert-center-13bk)
+- [Math.ceil vs Math.floor](https://dev.to/dougsource/mathceil-vs-mathfloor-b1e)
+- [Efficient Multimodal Learning Using Pre-Trained Models on a Single GPU](https://dev.to/mikeyoung44/efficient-multimodal-learning-using-pre-trained-models-on-a-single-gpu-e62)
+- [Understanding MongoDB Atlas Search Scoring for Better Search Results](https://dev.to/shannonlal/understanding-mongodb-atlas-search-scoring-for-better-search-results-1in4)
+- [A beginner&#39;s guide to the Stable-Diffusion-Xl-Base-1.0 model by Stabilityai on Huggingface](https://dev.to/mikeyoung44/a-beginners-guide-to-the-stable-diffusion-xl-base-10-model-by-stabilityai-on-huggingface-3943)
 <!-- BLOG-POST-LIST:END -->
 
