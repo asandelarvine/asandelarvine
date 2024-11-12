@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 in Python](https://dev.to/varatha/day-2-in-python-3m60)
-- [Step-by-Step Guide to Integrating Third-Party APIs in Laravel Applications](https://dev.to/mdarifulhaque/step-by-step-guide-to-integrating-third-party-apis-in-laravel-applications-1a7c)
-- [What is Optimized Code?](https://dev.to/sanskar_4862/what-is-optimized-code-577o)
-- [C# &lt;-&gt; JSON|XML](https://dev.to/baltasarq/c-jsonxml-39nh)
+- [portfolio](https://dev.to/rashi_kumarira231100301/portfolio-2ja0)
+- [Google Gemini AI helping me to code](https://dev.to/loveliberty/google-gemini-ai-helping-me-to-code-98b)
+- [Weaknesses in Two-Factor Authentication](https://dev.to/golam_mostafa/weaknesses-in-two-factor-authentication-c6i)
+- [Today’s new knowledge #3](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-3-29la)
 <!-- BLOG-POST-LIST:END -->
 
