@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [“Bitcoin and DevOps: How Cryptocurrency Changed the Approach to Security and Infrastructure Management”](https://dev.to/alexroor4/bitcoin-and-devops-how-cryptocurrency-changed-the-approach-to-security-and-infrastructure-management-23l8)
-- [Setting Up an Autoscaling Application for a Client](https://dev.to/574n13y/setting-up-an-autoscaling-application-for-a-client-j9a)
-- [Understanding RESTful API Design Principles](https://dev.to/philip_zhang_854092d88473/understanding-restful-api-design-principles-1plj)
-- [What Is Basic Auth for REST APIs and How to Debug It With Code &amp; Tools](https://dev.to/philip_zhang_854092d88473/what-is-basic-auth-for-rest-apis-and-how-to-debug-it-with-code-tools-1cco)
+- [Multi-body System Simulation with FEATool Multiphysics for Design of Optical Grating Tiling Devices](https://dev.to/precise-simulation/multi-body-system-simulation-with-featool-multiphysics-for-design-of-optical-grating-tiling-devices-h13)
+- [Personalizar o Liferay para atender às necessidades específicas da sua empresa](https://dev.to/cdfortes/personalizar-o-liferay-para-atender-as-necessidades-especificas-da-sua-empresa-hn2)
+- [How we migrated from Vue 2 to Vue 3](https://dev.to/365talents/how-we-migrated-from-vue-2-to-vue-3-3ld4)
+- [Let&#39;s revel the power of Bash!](https://dev.to/imkrunalkanojiya/lets-revel-the-power-of-bash-1bii)
 <!-- BLOG-POST-LIST:END -->
 
