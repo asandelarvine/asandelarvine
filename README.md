@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerate Your Playwright Test Suite with Microsoft Playwright Testing](https://dev.to/playwright/accelerate-your-playwright-test-suite-with-microsoft-playwright-testing-3kj4)
-- [Getting Started with FastEndpoints for Building Web APIs in .NET](https://dev.to/antonmartyniuk/getting-started-with-fastendpoints-for-building-web-apis-in-net-2nak)
-- [Automate code commenting using VS Code and Ollama](https://dev.to/logrocket/automate-code-commenting-using-vs-code-and-ollama-434i)
-- [Configuring webpack to handle multiple browser windows in Electron](https://dev.to/tsudhishnair/configuring-webpack-to-handle-multiple-browser-windows-in-electron-4nl3)
+- [Day 2 in Python](https://dev.to/varatha/day-2-in-python-3m60)
+- [Step-by-Step Guide to Integrating Third-Party APIs in Laravel Applications](https://dev.to/mdarifulhaque/step-by-step-guide-to-integrating-third-party-apis-in-laravel-applications-1a7c)
+- [What is Optimized Code?](https://dev.to/sanskar_4862/what-is-optimized-code-577o)
+- [C# &lt;-&gt; JSON|XML](https://dev.to/baltasarq/c-jsonxml-39nh)
 <!-- BLOG-POST-LIST:END -->
 
