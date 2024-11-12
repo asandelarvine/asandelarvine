@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bad Sides of JavaScript](https://dev.to/shafayeat/the-bad-sides-of-javascript-51ac)
-- [System Design 09 - Data Partitioning: Dividing to Conquer Big Data](https://dev.to/sarvabharan/data-partitioning-dividing-to-conquer-big-data-2nkj)
-- [A Guide to MongoDB Operators and Aggregations](https://dev.to/naymhdev/a-guide-to-mongodb-operators-and-aggregations-gmc)
-- [Understanding the Decorator Pattern: Enhancing Object Behavior Dynamically](https://dev.to/syridit118/understanding-the-decorator-pattern-enhancing-object-behavior-dynamically-pfl)
+- [The Best Low-Code No Code Platforms in 2024](https://dev.to/brilworks/the-best-low-code-no-code-platforms-in-2024-l6g)
+- [Build UIs with V0, CursorAI and Behance with PRD process](https://dev.to/ethanleetech/how-to-streamline-your-design-and-prd-process-with-ai-tools-1id1)
+- [Managing Transactions in Microservices](https://dev.to/vipulkumarsviit/managing-transactions-in-microservices-3l7d)
+- [Mastering Closures in JavaScript: A Complete Guide with Examples](https://dev.to/dostmd96/mastering-closures-in-javascript-a-complete-guide-with-examples-1ind)
 <!-- BLOG-POST-LIST:END -->
 
