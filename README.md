@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Low-Code No Code Platforms in 2024](https://dev.to/brilworks/the-best-low-code-no-code-platforms-in-2024-l6g)
-- [Build UIs with V0, CursorAI and Behance with PRD process](https://dev.to/ethanleetech/how-to-streamline-your-design-and-prd-process-with-ai-tools-1id1)
-- [Managing Transactions in Microservices](https://dev.to/vipulkumarsviit/managing-transactions-in-microservices-3l7d)
-- [Mastering Closures in JavaScript: A Complete Guide with Examples](https://dev.to/dostmd96/mastering-closures-in-javascript-a-complete-guide-with-examples-1ind)
+- [How to Check if You Are Using a Local Account or Microsoft Account in Windows 11?](https://dev.to/win11verse/how-to-check-if-you-are-using-a-local-account-or-microsoft-account-in-windows-11-5hdl)
+- [Problem solving TASK - 2](https://dev.to/danielprem_b4cd894e6c6051/problem-solving-task-2-74n)
+- [MongoDB Basics – Creating and Managing Data in MERN &lpar;PART 3&rpar;](https://dev.to/bilalkhanio/mongodb-basics-creating-and-managing-data-in-mern-part-3-16p7)
+- [VS Code Extension Development Tips](https://dev.to/vineethtrv/vs-code-extension-development-tips-3lml)
 <!-- BLOG-POST-LIST:END -->
 
