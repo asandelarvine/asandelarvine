@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [portfolio](https://dev.to/rashi_kumarira231100301/portfolio-2ja0)
-- [Google Gemini AI helping me to code](https://dev.to/loveliberty/google-gemini-ai-helping-me-to-code-98b)
-- [Weaknesses in Two-Factor Authentication](https://dev.to/golam_mostafa/weaknesses-in-two-factor-authentication-c6i)
-- [Today’s new knowledge #3](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-3-29la)
+- [Amazon Inspector Integrations: Strengthening Cloud Security with Security Hub and EventBridge](https://dev.to/aws-builders/amazon-inspector-integrations-strengthening-cloud-security-with-security-hub-and-eventbridge-33g7)
+- [5 Top Skills for Backend Developers](https://dev.to/david_tevzadze_/5-top-skills-for-backend-developers-2ag5)
+- [Building an API part 1](https://dev.to/simon8800/building-an-api-part-1-1b9m)
+- [Zero-Trust Security in K8s Made Simple: Istio Ambient Mesh, No Sidecar Needed](https://dev.to/uripld/achieve-sidecar-less-mtls-for-k8s-pods-with-istios-ambient-mesh-28k)
 <!-- BLOG-POST-LIST:END -->
 
