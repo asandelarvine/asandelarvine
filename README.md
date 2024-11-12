@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Way to Use ChatGPT to Your Advantage](https://dev.to/lucaschitolina/the-best-way-to-use-chatgpt-to-your-advantage-14gg)
-- [Highly scalable image storage solution with AWS Serverless at ip.labs - Part 1 The why behind the re-implementation](https://dev.to/aws-heroes/highly-scalable-image-storage-solution-with-aws-serverless-at-iplabs-part-1-the-why-behind-the-re-implementation-20ce)
-- [Building Microservices with Spring Boot: A Beginner&#39;s Perspective](https://dev.to/igventurelli/building-microservices-with-spring-boot-a-beginners-perspective-3a3o)
-- [I&#39;ve built the TodoMVC app with HTMX and lived to tell the story](https://dev.to/mbarzeev/ive-built-the-todomvc-app-in-htmx-and-lived-to-tell-the-story-480p)
+- [Build a TODO Application With React and Vite.](https://dev.to/lawaniej/build-a-todo-application-with-react-and-vite-3l6d)
+- [Free-to-Use Open APIs for Your Next Project — Lifetime Access for Developers](https://dev.to/mdarifulhaque/free-to-use-open-apis-for-your-next-project-lifetime-access-for-developers-50im)
+- [Local Workflow: Orchestrating Data Ingestion into Airtable](https://dev.to/afrologicinsect/local-workflow-orchestrating-data-ingestion-into-airtable-3fhn)
+- [Built a Windows App with flutter and made it opensource](https://dev.to/iamvaar/built-a-windows-app-with-flutter-and-made-it-opensource-nk4)
 <!-- BLOG-POST-LIST:END -->
 
