@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a TODO Application With React and Vite.](https://dev.to/lawaniej/build-a-todo-application-with-react-and-vite-3l6d)
-- [Free-to-Use Open APIs for Your Next Project — Lifetime Access for Developers](https://dev.to/mdarifulhaque/free-to-use-open-apis-for-your-next-project-lifetime-access-for-developers-50im)
-- [Local Workflow: Orchestrating Data Ingestion into Airtable](https://dev.to/afrologicinsect/local-workflow-orchestrating-data-ingestion-into-airtable-3fhn)
-- [Built a Windows App with flutter and made it opensource](https://dev.to/iamvaar/built-a-windows-app-with-flutter-and-made-it-opensource-nk4)
+- [Agente de IA confiável em prod com Java + Quarkus + Langchain4j - Parte 2 - Memória](https://dev.to/herbertbeckman/agente-de-ia-confiavel-em-prod-com-java-quarkus-langchain4j-parte-2-memoria-12b9)
+- [Using OpenFeature with ConfigCat](https://dev.to/zms/using-openfeature-with-configcat-5glj)
+- [My experience at GitHub Field Day Abuja 🔥](https://dev.to/theresa_agboinedu_26/my-experience-at-github-field-day-abuja-2d30)
+- [Choosing the Best VPN](https://dev.to/clarissabowlenmly/building-your-own-vpn-for-free-5b8f)
 <!-- BLOG-POST-LIST:END -->
 
