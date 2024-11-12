@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Highly scalable image storage solution with AWS Serverless at ip.labs - Part 1](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-at-iplabs-part-1-3ep8)
-- [Optimizing Application Performance: A Comprehensive Guide for Testers](https://dev.to/sundram_bhardwaj/optimizing-application-performance-a-comprehensive-guide-for-testers-12jp)
-- [How to Insert Barcodes into a PDF Document with HTML5 and JavaScript](https://dev.to/yushulx/how-to-insert-barcodes-into-a-pdf-document-with-html5-and-javascript-32g9)
-- [Top 10 AI Tools for Developers in 2024](https://dev.to/nikl/top-10-ai-tools-for-developers-in-2024-92k)
+- [☘️ Growing 3D grass on Your GitHub Profile](https://dev.to/nrysk/growing-3d-grass-on-your-github-profile-3gfj)
+- [Efficient Package for Machine Learning Models: From XGBoost to Neural Networks in an Optimized System](https://dev.to/jafarzadeh/efficient-package-for-machine-learning-models-from-xgboost-to-neural-networks-in-an-optimized-system-2j2e)
+- [【转载】百川云网站安全监测：全面保障网站安全与稳定性的深度监测工具](https://dev.to/carrie_luo1/zhuan-zai-bai-chuan-yun-wang-zhan-an-quan-jian-ce-quan-mian-bao-zhang-wang-zhan-an-quan-yu-wen-ding-xing-de-shen-du-jian-ce-gong-ju-257k)
+- [【转载】百川云网站安全监测：全面保障网站安全与稳定性的深度监测工具](https://dev.to/muzilathebest/zhuan-zai-bai-chuan-yun-wang-zhan-an-quan-jian-ce-quan-mian-bao-zhang-wang-zhan-an-quan-yu-wen-ding-xing-de-shen-du-jian-ce-gong-ju-2pl4)
 <!-- BLOG-POST-LIST:END -->
 
