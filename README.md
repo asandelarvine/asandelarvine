@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Verified Commits on GitHub from Ubuntu 22.04 LTS &lpar;GPG Keys&rpar; ✅](https://dev.to/surajkumar00/verified-commits-on-github-from-ubuntu-2204-lts-gpg-keys-27dg)
-- [Basics of Pandas &lpar;Python Library&rpar;](https://dev.to/shariqahmed525/basics-of-pandas-python-library-4gaf)
-- [Why Django is the Top Choice for Building Scalable, Secure Web Applications?](https://dev.to/jagruti_rana_f6c6ff3c06ed/why-django-is-the-top-choice-for-building-scalable-secure-web-applications-4ceo)
-- [Border Animations in CSS](https://dev.to/softheartengineer/border-animations-in-css-43do)
+- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-7ap)
+- [Deploy and manage AWS Control Tower controls by using Terraform](https://dev.to/tulasi_rao/deploy-and-manage-aws-control-tower-controls-by-using-terraform-3ola)
+- [Annapurna Base Camp Trek](https://dev.to/annapurnabase2/annapurna-base-camp-trek-2845)
+- [Best Monthly Budget Planners to Make Financial Management Smarter](https://dev.to/thomasy0ung/best-monthly-budget-planners-to-make-financial-management-smarter-3eo6)
 <!-- BLOG-POST-LIST:END -->
 
