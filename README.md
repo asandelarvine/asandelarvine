@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres can do that? No surprise Postgres is everywhere](https://dev.to/metis/postgres-can-do-that-no-surprise-postgres-is-everywhere-4c02)
-- [What is Cloud Computing? A Guide for Beginners](https://dev.to/ijay/what-is-cloud-computing-a-guide-for-beginners-9i5)
-- [Top/Bottom N: getting values #eg73](https://dev.to/esproc_spl/topbottom-n-getting-values-eg73-bml)
-- [🚀 Swift Tip: `for` vs `filter` para Filtragem de Listas](https://dev.to/felcarv01/swift-tip-for-vs-filter-para-filtragem-de-listas-2764)
+- [Top 10 API Load Testing Tools](https://dev.to/apilover/top-10-api-load-testing-tools-445c)
+- [Infinite Scroll in React with Intersection Observer](https://dev.to/matan3sh/infinite-scroll-in-react-with-intersection-observer-3932)
+- [Certified Protection Professional – Enhancing Security Standards with Consultancy Veritas](https://dev.to/consultancyveritas_backli/certified-protection-professional-enhancing-security-standards-with-consultancy-veritas-414i)
+- [Adding Revision Support to Entities in Entity Framework Core](https://dev.to/greenfieldcoder/adding-revision-support-to-entities-in-entity-framework-core-233k)
 <!-- BLOG-POST-LIST:END -->
 
