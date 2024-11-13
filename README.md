@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-7ap)
-- [Deploy and manage AWS Control Tower controls by using Terraform](https://dev.to/tulasi_rao/deploy-and-manage-aws-control-tower-controls-by-using-terraform-3ola)
-- [Annapurna Base Camp Trek](https://dev.to/annapurnabase2/annapurna-base-camp-trek-2845)
-- [Best Monthly Budget Planners to Make Financial Management Smarter](https://dev.to/thomasy0ung/best-monthly-budget-planners-to-make-financial-management-smarter-3eo6)
+- [How We Transformed Our Product Launch Strategy Using AI Tools and Workflow Automation](https://dev.to/efficient_front/how-we-transformed-our-product-launch-strategy-using-ai-tools-and-workflow-automation-41g2)
+- [Data Link layer](https://dev.to/dipsankadariya/data-link-layer-1788)
+- [Architects Aren’t Made in Classrooms](https://dev.to/hatem_zidi/architects-arent-made-in-classrooms-1711)
+- [Ultra Premium Gladiators Battle Flip Card with 3D Effects](https://dev.to/gladiatorsbattle/ultra-premium-gladiators-battle-flip-card-with-3d-effects-4f05)
 <!-- BLOG-POST-LIST:END -->
 
