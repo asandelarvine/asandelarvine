@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Type-Safe Event-Driven Applications in TypeScript using Pub/Sub, Cron Jobs, and PostgreSQL](https://dev.to/encore/building-type-safe-event-driven-applications-in-typescript-using-pubsub-cron-jobs-and-postgresql-50jc)
-- [Step-by-step Guide to Building a Morph App with Pyth Oracle and WalletConnect](https://dev.to/azeezabidoye/step-by-step-guide-to-building-a-morph-app-with-pyth-oracle-and-walletconnect-hcp)
-- [Microsoft Clarity : Features, Benefits, and Future Tools](https://dev.to/spv_blogs/microsoft-clarity-features-benefits-and-future-tools-hcn)
-- [Cheap VPN with MFA from Home to AWS](https://dev.to/aws-builders/cheap-vpn-with-mfa-from-home-to-aws-2b3b)
+- [11 Best Debugging Tools For All Developers! 💻 🛠️ 🔥](https://dev.to/hosseinyazdi/11-best-debugging-tools-for-all-developers-4edo)
+- [Top 10 advanced-level questions | ORACLE PLSQL DEVELOPER](https://dev.to/mrcaption49/top-10-advanced-level-questions-oracle-plsql-developer-1mk4)
+- [Shia Muslims in the USA: Connecting with the Quran Through Online Learning](https://dev.to/smith_jack_df4284612389e5/shia-muslims-in-the-usa-connecting-with-the-quran-through-online-learning-503k)
+- [Mastering the basics: A Deep into Low-Level Programming Essentials &lpar;Part 1&rpar;](https://dev.to/bitcraft_/mastering-the-basics-a-deep-into-low-level-programming-essentials-part-1-432p)
 <!-- BLOG-POST-LIST:END -->
 
