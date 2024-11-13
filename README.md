@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to API Call Types: Understanding the Essentials](https://dev.to/philip_zhang_854092d88473/a-comprehensive-guide-to-api-call-types-understanding-the-essentials-5d4b)
-- [How to Automatically Remove All LinkedIn Connections with Python](https://dev.to/muhammadabir/how-to-automatically-remove-all-linkedin-connections-with-python-3h7m)
-- [Decoding Networking Protocols: A Guide to TCP/IP, HTTP, Socket, and WebSocket](https://dev.to/philip_zhang_854092d88473/decoding-networking-protocols-a-guide-to-tcpip-http-socket-and-websocket-3d8i)
-- [How EchoAPI Enhances Team Collaboration Efficiency](https://dev.to/philip_zhang_854092d88473/how-echoapi-enhances-team-collaboration-efficiency-1aff)
+- [Getting Started with Web3 Development: A Beginner’s Guide to Skills and Tools](https://dev.to/sergi_web3/getting-started-with-web3-development-a-beginners-guide-to-skills-and-tools-2f0)
+- [What&#39;s your favorite book on web development? 📖](https://dev.to/thomasbnt/whats-your-favorite-book-on-web-development-33nl)
+- [Sending Emails with Mailer in PHP + Symfony](https://dev.to/skipperhoa/sending-emails-with-mailer-in-php-symfony-3gk0)
+- [Human explanation and step-by-step visualisation of the Ford-Johnson algorithm](https://dev.to/emuminov/human-explanation-and-step-by-step-visualisation-of-the-ford-johnson-algorithm-5g91)
 <!-- BLOG-POST-LIST:END -->
 
