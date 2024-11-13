@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlit Part 7: Build a Chat Interface](https://dev.to/jamesbmour/streamlit-part-7-build-a-chat-interface-51mo)
-- [Understanding Cloud Networking: An Introduction to AWS VPC](https://dev.to/blessedofofon2/understanding-cloud-networking-an-introduction-to-aws-vpc-442a)
-- [Scheming About Clojure](https://dev.to/gramian/scheming-about-clojure-133n)
-- [Understanding Memory&lt;T&gt; in C#](https://dev.to/moh_moh701/understanding-memory-in-c-5fm4)
+- [What Is Polymorphism? Exploring Type and Object Relations](https://dev.to/yo-shi/what-is-polymorphism-exploring-type-and-object-relations-nmh)
+- [intro to Garbage Collection and Resource Management in C#](https://dev.to/moh_moh701/mastering-garbage-collection-and-resource-management-in-c-3gbk)
+- [🚀 Help Us Improve the Audio Experience with Nightsound Audio – A Dynamic Audio Adjustment Tool for Movies and Series 🎬🔊](https://dev.to/chefderschwaetzer/help-us-improve-the-audio-experience-with-nightsound-audio-a-dynamic-audio-adjustment-tool-for-18h3)
+- [Flakey tests are the death of me](https://dev.to/ben/flakey-tests-are-the-death-of-me-2nd)
 <!-- BLOG-POST-LIST:END -->
 
