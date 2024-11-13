@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rewind to a Specific Commit in Git](https://dev.to/labex/rewind-to-a-specific-commit-in-git-1bjj)
-- [The Sad Reality of CS Lectures😔](https://dev.to/ezekiel_77/the-sad-reality-of-cs-lectures-465e)
-- [This is a new thing: A type of quick post that doesn&#39;t show up on your profile or in notifications. It&#39;s in beta, and we have a few adjustments and improvements in the pipeline — but if you have ideas, let me know.](https://dev.to/ben/this-is-a-new-thing-a-type-of-quick-post-that-doesnt-show-up-on-your-profile-or-in-notifications-its-in-beta-and-we-have-a-few-adjustments-and-improvements-in-the-pipeline-but-if-you-have-ideas-let-me-know-3e6a)
-- [Code Optimizations using AI and Azure Profiler](https://dev.to/antoinega/code-optimizations-using-ai-and-azure-profiler-1mg2)
+- [RAG Retrieval Performance Enhancement Practices: Detailed Explanation of Hybrid Retrieval and Self-Query Techniques](https://dev.to/jamesli/rag-retrieval-performance-enhancement-practices-detailed-explanation-of-hybrid-retrieval-and-self-query-techniques-59ja)
+- [Seja um Evangelizador de Qualidade e Transforme Equipes](https://dev.to/womakerscode/seja-um-evangelizador-de-qualidade-e-transforme-equipes-2f29)
+- [Optimizing RAG Indexing Strategy: Multi-Vector Indexing and Parent Document Retrieval](https://dev.to/jamesli/optimizing-rag-indexing-strategy-multi-vector-indexing-and-parent-document-retrieval-49hf)
+- [Client Extension no Liferay](https://dev.to/cdfortes/melhores-praticas-para-desenvolvimento-em-liferay-5fl8)
 <!-- BLOG-POST-LIST:END -->
 
