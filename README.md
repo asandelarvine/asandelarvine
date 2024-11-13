@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Retrieval Performance Enhancement Practices: Detailed Explanation of Hybrid Retrieval and Self-Query Techniques](https://dev.to/jamesli/rag-retrieval-performance-enhancement-practices-detailed-explanation-of-hybrid-retrieval-and-self-query-techniques-59ja)
-- [Seja um Evangelizador de Qualidade e Transforme Equipes](https://dev.to/womakerscode/seja-um-evangelizador-de-qualidade-e-transforme-equipes-2f29)
-- [Optimizing RAG Indexing Strategy: Multi-Vector Indexing and Parent Document Retrieval](https://dev.to/jamesli/optimizing-rag-indexing-strategy-multi-vector-indexing-and-parent-document-retrieval-49hf)
-- [Client Extension no Liferay](https://dev.to/cdfortes/melhores-praticas-para-desenvolvimento-em-liferay-5fl8)
+- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/thorila/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2lg4)
+- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/muzilathebest/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2gen)
+- [百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/magickong123/bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-4bn2)
+- [Customizing LangChain Components: Building a Personalized RAG Application](https://dev.to/jamesli/customizing-langchain-components-building-a-personalized-rag-application-21bl)
 <!-- BLOG-POST-LIST:END -->
 
