@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Transformed Our Product Launch Strategy Using AI Tools and Workflow Automation](https://dev.to/efficient_front/how-we-transformed-our-product-launch-strategy-using-ai-tools-and-workflow-automation-41g2)
-- [Data Link layer](https://dev.to/dipsankadariya/data-link-layer-1788)
-- [Architects Aren’t Made in Classrooms](https://dev.to/hatem_zidi/architects-arent-made-in-classrooms-1711)
-- [Ultra Premium Gladiators Battle Flip Card with 3D Effects](https://dev.to/gladiatorsbattle/ultra-premium-gladiators-battle-flip-card-with-3d-effects-4f05)
+- [Postgres can do that? No surprise Postgres is everywhere](https://dev.to/metis/postgres-can-do-that-no-surprise-postgres-is-everywhere-4c02)
+- [What is Cloud Computing? A Guide for Beginners](https://dev.to/ijay/what-is-cloud-computing-a-guide-for-beginners-9i5)
+- [Top/Bottom N: getting values #eg73](https://dev.to/esproc_spl/topbottom-n-getting-values-eg73-bml)
+- [🚀 Swift Tip: `for` vs `filter` para Filtragem de Listas](https://dev.to/felcarv01/swift-tip-for-vs-filter-para-filtragem-de-listas-2764)
 <!-- BLOG-POST-LIST:END -->
 
