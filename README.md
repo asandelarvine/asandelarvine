@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with AWS DeepRacer!!](https://dev.to/mayurbhatti/getting-started-with-aws-deepracer-3j94)
-- [Exploring Indexers in C#: Array-Like Access for Custom Types](https://dev.to/moh_moh701/exploring-indexers-in-c-array-like-access-for-custom-types-i3a)
-- [js13kGames 2024 t-shirts galore: full print, originals, and retro!](https://dev.to/js13kgames/js13kgames-2024-t-shirts-galore-full-print-originals-and-retro-ckk)
-- [Implement Unrecognized Device Login Alerts in React](https://dev.to/chaoming/implement-unrecognized-device-login-alerts-in-react-4e05)
+- [Streamlit Part 7: Build a Chat Interface](https://dev.to/jamesbmour/streamlit-part-7-build-a-chat-interface-51mo)
+- [Understanding Cloud Networking: An Introduction to AWS VPC](https://dev.to/blessedofofon2/understanding-cloud-networking-an-introduction-to-aws-vpc-442a)
+- [Scheming About Clojure](https://dev.to/gramian/scheming-about-clojure-133n)
+- [Understanding Memory&lt;T&gt; in C#](https://dev.to/moh_moh701/understanding-memory-in-c-5fm4)
 <!-- BLOG-POST-LIST:END -->
 
