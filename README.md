@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Web3 Development: A Beginner’s Guide to Skills and Tools](https://dev.to/sergi_web3/getting-started-with-web3-development-a-beginners-guide-to-skills-and-tools-2f0)
-- [What&#39;s your favorite book on web development? 📖](https://dev.to/thomasbnt/whats-your-favorite-book-on-web-development-33nl)
-- [Sending Emails with Mailer in PHP + Symfony](https://dev.to/skipperhoa/sending-emails-with-mailer-in-php-symfony-3gk0)
-- [Human explanation and step-by-step visualisation of the Ford-Johnson algorithm](https://dev.to/emuminov/human-explanation-and-step-by-step-visualisation-of-the-ford-johnson-algorithm-5g91)
+- [Feature Toggles Are Secretly Wrecking Your Front-End: Here&#39;s How to Fix the Mess](https://dev.to/bibipbubup/feature-toggles-are-secretly-wrecking-your-front-end-heres-how-to-fix-the-oam)
+- [Understanding Operator Associativity in JavaScript](https://dev.to/mageshk/operator-associativity-25a1)
+- [Getting Started with Full Stack Development: A Step-by-Step Guide](https://dev.to/jahswill_jacob_/getting-started-with-full-stack-development-a-step-by-step-guide-3ae6)
+- [React Memo custom fn return true, but still rerenders](https://dev.to/meenal_aggarwal_9fb1eecf3/react-memo-custom-fn-true-but-still-rerenders-51bl)
 <!-- BLOG-POST-LIST:END -->
 
