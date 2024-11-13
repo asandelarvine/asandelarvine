@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/thorila/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2lg4)
-- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/muzilathebest/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2gen)
-- [百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/magickong123/bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-4bn2)
-- [Customizing LangChain Components: Building a Personalized RAG Application](https://dev.to/jamesli/customizing-langchain-components-building-a-personalized-rag-application-21bl)
+- [Building Globally Scalable Applications: Leveraging Spring Boot&#39;s Powerful Internationalization &lpar;i18n&rpar; Capabilities](https://dev.to/virajlakshitha/building-globally-scalable-applications-leveraging-spring-boots-powerful-internationalization-i18n-capabilities-oe6)
+- [What is WAAP?](https://dev.to/carrie_luo1/what-is-waap-1akl)
+- [.NET 9 is Officially Out Today: Unpacking the Top Updates Across 8 Key Areas! 🎉](https://dev.to/apurvupadhyay/net-9-is-officially-out-today-unpacking-the-top-updates-across-8-key-areas-2n7i)
+- [Understanding the Key Differences Between NMI and Normal Interrupts](https://dev.to/adityabhuyan/understanding-the-key-differences-between-nmi-and-normal-interrupts-5ee2)
 <!-- BLOG-POST-LIST:END -->
 
