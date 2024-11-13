@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Best Debugging Tools For All Developers! 💻 🛠️ 🔥](https://dev.to/hosseinyazdi/11-best-debugging-tools-for-all-developers-4edo)
-- [Top 10 advanced-level questions | ORACLE PLSQL DEVELOPER](https://dev.to/mrcaption49/top-10-advanced-level-questions-oracle-plsql-developer-1mk4)
-- [Shia Muslims in the USA: Connecting with the Quran Through Online Learning](https://dev.to/smith_jack_df4284612389e5/shia-muslims-in-the-usa-connecting-with-the-quran-through-online-learning-503k)
-- [Mastering the basics: A Deep into Low-Level Programming Essentials &lpar;Part 1&rpar;](https://dev.to/bitcraft_/mastering-the-basics-a-deep-into-low-level-programming-essentials-part-1-432p)
+- [Assumption kills](https://dev.to/thanhdaoky/assumption-kills-4jbj)
+- [The Basics of Rack for Ruby](https://dev.to/appsignal/the-basics-of-rack-for-ruby-5fkk)
+- [20 Open Source Tools I Recommend to Build, Share, and Run AI Projects](https://dev.to/kitops/20-open-source-tools-i-recommend-to-build-share-and-run-ai-projects-4ncg)
+- [Un T-Rex entre los bits - Historias de un Desarrollador](https://dev.to/fedatu/un-t-rex-entre-los-bits-historias-de-un-desarrollador-20nn)
 <!-- BLOG-POST-LIST:END -->
 
