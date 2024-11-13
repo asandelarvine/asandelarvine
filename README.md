@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍🔧🏋️Strengthening Security with JavaScript: A Guide to Authentication](https://dev.to/vaishnavi_sonawane/strengthening-security-with-javascript-a-guide-to-authentication-529l)
-- [Streamlining .deb Package Installation on Ubuntu: A Better Way to Manage Downloaded Packages](https://dev.to/dev_michael/streamlining-deb-package-installation-on-ubuntu-a-better-way-to-manage-downloaded-packages-140j)
-- [The art and science behind prompt engineering of IT.](https://dev.to/denish007/the-art-and-science-behind-prompt-engineering-of-it-5d7n)
-- [Milk Replacers Are the Future of Livestock Farming](https://dev.to/kuberdairyglobal_backlink/milk-replacers-are-the-future-of-livestock-farming-4702)
+- [Building Type-Safe Event-Driven Applications in TypeScript using Pub/Sub, Cron Jobs, and PostgreSQL](https://dev.to/encore/building-type-safe-event-driven-applications-in-typescript-using-pubsub-cron-jobs-and-postgresql-50jc)
+- [Step-by-step Guide to Building a Morph App with Pyth Oracle and WalletConnect](https://dev.to/azeezabidoye/step-by-step-guide-to-building-a-morph-app-with-pyth-oracle-and-walletconnect-hcp)
+- [Microsoft Clarity : Features, Benefits, and Future Tools](https://dev.to/spv_blogs/microsoft-clarity-features-benefits-and-future-tools-hcn)
+- [Cheap VPN with MFA from Home to AWS](https://dev.to/aws-builders/cheap-vpn-with-mfa-from-home-to-aws-2b3b)
 <!-- BLOG-POST-LIST:END -->
 
