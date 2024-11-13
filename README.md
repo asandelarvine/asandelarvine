@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pattern printing in C #2](https://dev.to/bytesanctum/pattern-printing-in-c-1e1g)
-- [Git &amp; Github&lpar;part-1&rpar;](https://dev.to/jayesh0706/git--2g4)
-- [Password, please! – Building an open source password generator with FastAPI](https://dev.to/devarno88/password-please-building-an-open-source-password-generator-with-172o)
-- [Amazon Simple Storage Service &lpar;S3&rpar;](https://dev.to/collins224/amazon-simple-storage-service-411o)
+- [CSS Parts are saving you!](https://dev.to/michaelwarren1106/css-parts-are-saving-you-1k79)
+- [SQL Server Execution Plans](https://dev.to/turalsuleymani/sql-server-execution-plans-n0j)
+- [Ng-News 24/45: Rationale behind &lpar;potential&rpar; Authoring Format](https://dev.to/this-is-angular/ng-news-2445-rationale-behind-potential-authoring-format-4e49)
+- [Using Timeshift for System&#39;s Snapshots and Recovery on Debian 12 via Command Line](https://dev.to/dev-charodeyka/using-timeshift-for-systems-snapshots-and-recovery-on-debian-12-via-command-line-7m6)
 <!-- BLOG-POST-LIST:END -->
 
