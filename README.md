@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Toggles Are Secretly Wrecking Your Front-End: Here&#39;s How to Fix the Mess](https://dev.to/bibipbubup/feature-toggles-are-secretly-wrecking-your-front-end-heres-how-to-fix-the-oam)
-- [Understanding Operator Associativity in JavaScript](https://dev.to/mageshk/operator-associativity-25a1)
-- [Getting Started with Full Stack Development: A Step-by-Step Guide](https://dev.to/jahswill_jacob_/getting-started-with-full-stack-development-a-step-by-step-guide-3ae6)
-- [React Memo custom fn return true, but still rerenders](https://dev.to/meenal_aggarwal_9fb1eecf3/react-memo-custom-fn-true-but-still-rerenders-51bl)
+- [Pattern printing in C #2](https://dev.to/bytesanctum/pattern-printing-in-c-1e1g)
+- [Git &amp; Github&lpar;part-1&rpar;](https://dev.to/jayesh0706/git--2g4)
+- [Password, please! – Building an open source password generator with FastAPI](https://dev.to/devarno88/password-please-building-an-open-source-password-generator-with-172o)
+- [Amazon Simple Storage Service &lpar;S3&rpar;](https://dev.to/collins224/amazon-simple-storage-service-411o)
 <!-- BLOG-POST-LIST:END -->
 
