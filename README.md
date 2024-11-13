@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our brain handles millions of data bits per second but processes only a fraction consciously. This is why structured code and tech design matter.They reduce cognitive load and optimize focus. Does your approach empower your mind or overwhelm it?](https://dev.to/shafayeat/our-brain-handles-millions-of-data-bits-per-second-but-processes-only-a-fraction-consciously-this-is-why-structured-code-and-tech-design-matterthey-reduce-cognitive-load-and-optimize-focus-does-your-approach-empower-your-mind-or-overwhelm-it-10a7)
-- [Enhancing Observability in Machine Learning with OpenTelemetry: InsightfulAI Update](https://dev.to/craftedwithintent/enhancing-observability-in-machine-learning-with-opentelemetry-insightfulai-update-55p6)
-- [The Best AI Tools for Every Marketing Task](https://dev.to/danyaleyman/the-best-ai-tools-for-every-marketing-task-4khh)
-- [Mastering the Strategy Design Pattern: A Guide for Developers](https://dev.to/syridit118/mastering-the-strategy-design-pattern-a-guide-for-developers-397l)
+- [The Drawbacks of Two-Factor Authentication &lpar;2FA&rpar; You Need to Know](https://dev.to/adityabhuyan/the-drawbacks-of-two-factor-authentication-2fa-you-need-to-know-1jho)
+- [10 essential CSS resources](https://dev.to/04anilr/10-essential-css-resources-3dc6)
+- [How to test smart contract on Sepolia testnet?](https://dev.to/steven-dev/how-to-test-smart-contract-on-sepolia-testnet-i1d)
+- [Welcome Thread - v302](https://dev.to/devteam/welcome-thread-v302-1m81)
 <!-- BLOG-POST-LIST:END -->
 
