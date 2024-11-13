@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Drawbacks of Two-Factor Authentication &lpar;2FA&rpar; You Need to Know](https://dev.to/adityabhuyan/the-drawbacks-of-two-factor-authentication-2fa-you-need-to-know-1jho)
-- [10 essential CSS resources](https://dev.to/04anilr/10-essential-css-resources-3dc6)
-- [How to test smart contract on Sepolia testnet?](https://dev.to/steven-dev/how-to-test-smart-contract-on-sepolia-testnet-i1d)
-- [Welcome Thread - v302](https://dev.to/devteam/welcome-thread-v302-1m81)
+- [Verified Commits on GitHub from Ubuntu 22.04 LTS &lpar;GPG Keys&rpar; ✅](https://dev.to/surajkumar00/verified-commits-on-github-from-ubuntu-2204-lts-gpg-keys-27dg)
+- [Basics of Pandas &lpar;Python Library&rpar;](https://dev.to/shariqahmed525/basics-of-pandas-python-library-4gaf)
+- [Why Django is the Top Choice for Building Scalable, Secure Web Applications?](https://dev.to/jagruti_rana_f6c6ff3c06ed/why-django-is-the-top-choice-for-building-scalable-secure-web-applications-4ceo)
+- [Border Animations in CSS](https://dev.to/softheartengineer/border-animations-in-css-43do)
 <!-- BLOG-POST-LIST:END -->
 
