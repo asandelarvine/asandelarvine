@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Parts are saving you!](https://dev.to/michaelwarren1106/css-parts-are-saving-you-1k79)
-- [SQL Server Execution Plans](https://dev.to/turalsuleymani/sql-server-execution-plans-n0j)
-- [Ng-News 24/45: Rationale behind &lpar;potential&rpar; Authoring Format](https://dev.to/this-is-angular/ng-news-2445-rationale-behind-potential-authoring-format-4e49)
-- [Using Timeshift for System&#39;s Snapshots and Recovery on Debian 12 via Command Line](https://dev.to/dev-charodeyka/using-timeshift-for-systems-snapshots-and-recovery-on-debian-12-via-command-line-7m6)
+- [Getting started with AWS DeepRacer!!](https://dev.to/mayurbhatti/getting-started-with-aws-deepracer-3j94)
+- [Exploring Indexers in C#: Array-Like Access for Custom Types](https://dev.to/moh_moh701/exploring-indexers-in-c-array-like-access-for-custom-types-i3a)
+- [js13kGames 2024 t-shirts galore: full print, originals, and retro!](https://dev.to/js13kgames/js13kgames-2024-t-shirts-galore-full-print-originals-and-retro-ckk)
+- [Implement Unrecognized Device Login Alerts in React](https://dev.to/chaoming/implement-unrecognized-device-login-alerts-in-react-4e05)
 <!-- BLOG-POST-LIST:END -->
 
