@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 Form Component: A Beginner&#39;s Guide](https://dev.to/saidmounaim/nextjs-15-form-component-a-beginners-guide-56a2)
-- [What Was The First Thing You Learned that Got You Excited About Development?](https://dev.to/pavelkeyzik/what-was-the-first-thing-you-learned-that-got-you-excited-about-development-16gf)
-- [Componentization](https://dev.to/bianca_camargo_m/componentization-16dh)
-- [Building an Authentication Wrapper in React/Next.js + GraphQL 💪](https://dev.to/thesohailjafri/building-an-authentication-wrapper-in-reactnextjs-graphql-112f)
+- [What C-Level Leaders Need to Know About AI Agents](https://dev.to/aws-builders/what-c-level-leaders-need-to-know-about-ai-agents-4jgb)
+- [2064. Minimized Maximum of Products Distributed to Any Store](https://dev.to/mdarifulhaque/2064-minimized-maximum-of-products-distributed-to-any-store-2kl3)
+- [How to Build Tools For AI Agents With Human in The Loop in Python](https://dev.to/edwinkys/how-to-build-tools-for-ai-agents-with-human-in-the-loop-in-python-259j)
+- [Installing Go on Windows 11 in One Command](https://dev.to/ashwingopalsamy/installing-go-on-windows-11-in-one-command-1dmm)
 <!-- BLOG-POST-LIST:END -->
 
