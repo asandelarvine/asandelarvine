@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build AWS VPC Using Terraform](https://dev.to/giasuddin90/how-to-build-aws-vpc-using-terraform-1ndp)
-- [Preventing SQL Injection &lpar;SQLi&rpar; in React.js Apps](https://dev.to/pentest_testing_corp/preventing-sql-injection-sqli-in-reactjs-apps-176a)
-- [Understanding the Saga Pattern in Microservices](https://dev.to/vipulkumarsviit/understanding-the-saga-pattern-in-microservices-dfi)
-- [SDLC | Waterfall model | Agile | DevOps](https://dev.to/mrcaption49/sdlc-waterfall-model-agile-devops-55i9)
+- [How to Market Your Newly Created Token Successfully](https://dev.to/deploytokens/how-to-market-your-newly-created-token-successfully-10d3)
+- [Built-in Method](https://dev.to/nikhil_kalariya_277019f8e/built-in-method-101b)
+- [Top 10 Advanced typescript concepts that Every Developer Should Know](https://dev.to/niharikaa/top-10-advanced-typescript-concepts-that-every-developer-should-know-4kg4)
+- [PL/SQL Developer Interview Questions](https://dev.to/mrcaption49/plsql-developer-interview-questions-28c7)
 <!-- BLOG-POST-LIST:END -->
 
