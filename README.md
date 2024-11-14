@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What C-Level Leaders Need to Know About AI Agents](https://dev.to/aws-builders/what-c-level-leaders-need-to-know-about-ai-agents-4jgb)
-- [2064. Minimized Maximum of Products Distributed to Any Store](https://dev.to/mdarifulhaque/2064-minimized-maximum-of-products-distributed-to-any-store-2kl3)
-- [How to Build Tools For AI Agents With Human in The Loop in Python](https://dev.to/edwinkys/how-to-build-tools-for-ai-agents-with-human-in-the-loop-in-python-259j)
-- [Installing Go on Windows 11 in One Command](https://dev.to/ashwingopalsamy/installing-go-on-windows-11-in-one-command-1dmm)
+- [Definitely need to add linking to quickie posts, just need to do it in the right way. Probably start with linking to DEV posts as a way to share and boost stuff you like a bit more easily.](https://dev.to/ben/definitely-need-to-add-linking-to-quickie-posts-just-need-to-do-it-in-the-right-way-probably-3dkl)
+- [Mastering URL Structure: Tips for SEO and User Experience](https://dev.to/techpulse55/mastering-url-structure-tips-for-seo-and-user-experience-l66)
+- [How to Write Clean Code: Refactoring and Best Practices.](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-1mo)
+- [Python Error Types Explained: Troubleshooting for Beginners](https://dev.to/namimai/python-error-types-explained-troubleshooting-for-beginners-4o76)
 <!-- BLOG-POST-LIST:END -->
 
