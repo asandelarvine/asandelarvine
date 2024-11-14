@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Shouldn’t Use Libraries Blindly: A Lesson in Bundle Size](https://dev.to/rm_sh/why-you-shouldnt-use-libraries-blindly-a-lesson-in-bundle-size-2dm4)
-- [Mastering Recursive Types in TypeScript: Handling Depth Limitations Gracefully](https://dev.to/adrien2p/mastering-recursive-types-in-typescript-handling-depth-limitations-gracefully-5f4o)
-- [I need to build and app at my place of work to overcome the sheer time time wasting repetitive tedium of some tasks I only have Excel to work with suggestions &lpar; based on experience &rpar; welcome](https://dev.to/ossie_jesson_1d3647c1f9c3/i-need-to-build-and-app-at-my-place-of-work-to-overcome-the-sheer-time-time-wasting-repetitive-28c6)
-- [What are the best resources for studying System Design?](https://dev.to/educative/what-are-the-best-resources-for-studying-system-design-15c)
+- [How to Build a Currency Converter App Using JSON API for Real-Time Forex Rates](https://dev.to/rameshchauhan/how-to-build-a-currency-converter-app-using-json-api-for-real-time-forex-rates-406d)
+- [Getting Started with CSS: Styling Your Web Pages](https://dev.to/brianamol/getting-started-with-css-styling-your-web-pages-4jai)
+- [How to Speed Up Your Development Process using Mock API](https://dev.to/requestly/how-to-speed-up-your-development-process-using-mock-api-3f0k)
+- [Devs working on devtools?](https://dev.to/nikoldimit/devs-working-on-devtools-3bl3)
 <!-- BLOG-POST-LIST:END -->
 
