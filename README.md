@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the AWS CDK L2 Construct: Simplified Security for Amazon CloudFront with Origin Access Control &lpar;OAC&rpar;](https://dev.to/viradiaharsh/introducing-the-aws-cdk-l2-construct-simplified-security-for-amazon-cloudfront-with-origin-access-94h)
-- [Integrating sg-avatar Component in Angular Application](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-avatar-component-in-angular-application-2hf7)
-- [Differences between JpaRepository and CrudRepository and when you need to chose each](https://dev.to/igventurelli/differences-between-jparepository-and-crudrepository-and-when-you-need-to-chose-each-41l0)
-- [defineExpose and &lt;style vars&gt; in Vue 3 for component interaction and theming](https://dev.to/logrocket/defineexpose-and-in-vue-3-for-component-interaction-and-theming-40d4)
+- [Releasing Idle Elastic IPs on AWS to Save Costs](https://dev.to/axeldlv/releasing-idle-elastic-ips-on-aws-to-save-costs-5cji)
+- [The Essential Guide to Dew Point Calculators: How They Work and Why They Matter](https://dev.to/hoor_1f5d2736e0a82809ae88/the-essential-guide-to-dew-point-calculators-how-they-work-and-why-they-matter-3521)
+- [Pattern matching for everyone &lpar;Using in video games&rpar;](https://dev.to/josh_devquezada/pattern-matching-for-all-usage-in-videogames-2kc6)
+- [Introduction to Computer Networks](https://dev.to/madgan95/introduction-to-computer-networks-mno)
 <!-- BLOG-POST-LIST:END -->
 
