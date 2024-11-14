@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Currency Converter App Using JSON API for Real-Time Forex Rates](https://dev.to/rameshchauhan/how-to-build-a-currency-converter-app-using-json-api-for-real-time-forex-rates-406d)
-- [Getting Started with CSS: Styling Your Web Pages](https://dev.to/brianamol/getting-started-with-css-styling-your-web-pages-4jai)
-- [How to Speed Up Your Development Process using Mock API](https://dev.to/requestly/how-to-speed-up-your-development-process-using-mock-api-3f0k)
-- [Devs working on devtools?](https://dev.to/nikoldimit/devs-working-on-devtools-3bl3)
+- [AI Cybersecurity Challenges: Navigating Emerging Threats and Opportunities](https://dev.to/siddharthbhalsod/ai-cybersecurity-challenges-navigating-emerging-threats-and-opportunities-4fd1)
+- [I want to compile and install Snort on Mac OS &lpar;12.7.4&rpar; without segmentation fault. Are there any steps or guides for this?](https://dev.to/hate_story_9bc92409c3651c/i-want-to-compile-and-install-snort-on-mac-os-1274-without-segmentation-fault-are-there-any-4ajb)
+- [Rust🦀 is my first programming language, and here is my experience of writing my first OSS in Rust in 1979 loc.](https://dev.to/fnabinash/rust-is-my-first-programming-language-and-here-is-my-experience-of-writing-my-first-oss-in-rust-358k)
+- [CLI, Operator, Helm 차트를 이용한 Linkerd Enterprise 설치 방법](https://dev.to/gtrekter/cli-operator-helm-cateureul-iyonghan-linkerd-enterprise-seolci-bangbeob-5g33)
 <!-- BLOG-POST-LIST:END -->
 
