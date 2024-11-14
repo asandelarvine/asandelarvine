@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enhance Your CSS Skills: Effective Steps and Tips](https://dev.to/mettasurendhar/how-to-enhance-your-css-skills-effective-steps-and-tips-599o)
-- [How to enable user passwordless sudo in WSL2 - Linux](https://dev.to/marcelopalin/how-to-enable-user-passwordless-sudo-in-wsl2-linux-38f7)
-- [10 Useful but Rarely Used OS Functions in Python](https://dev.to/sachingeek/10-useful-but-rarely-used-os-functions-in-python-3jp1)
-- [Changing App Icon in Flutter](https://dev.to/meng_ly_5f07a38c932b97230/changing-app-icon-in-flutter-1hjb)
+- [Introducing the AWS CDK L2 Construct: Simplified Security for Amazon CloudFront with Origin Access Control &lpar;OAC&rpar;](https://dev.to/viradiaharsh/introducing-the-aws-cdk-l2-construct-simplified-security-for-amazon-cloudfront-with-origin-access-94h)
+- [Integrating sg-avatar Component in Angular Application](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-avatar-component-in-angular-application-2hf7)
+- [Differences between JpaRepository and CrudRepository and when you need to chose each](https://dev.to/igventurelli/differences-between-jparepository-and-crudrepository-and-when-you-need-to-chose-each-41l0)
+- [defineExpose and &lt;style vars&gt; in Vue 3 for component interaction and theming](https://dev.to/logrocket/defineexpose-and-in-vue-3-for-component-interaction-and-theming-40d4)
 <!-- BLOG-POST-LIST:END -->
 
