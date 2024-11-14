@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket-X: Leading the New Era of Web3 Launch Platforms with Corgia&#39;s Debut Launch - A Showcase of Strength and Innovation](https://dev.to/rocket_x/rocket-x-leading-the-new-era-of-web3-launch-platforms-with-corgias-debut-launch-a-showcase-of-1ah)
-- [Mastering Git Stash: Seamless Workflow Management](https://dev.to/labex/mastering-git-stash-seamless-workflow-management-4614)
-- [🌟 Microsoft is offering new AI course for &lpar; FREE &rpar;🌟](https://dev.to/adithya_81ed1606e0756c8da/microsoft-is-offering-new-ai-course-for-free--483c)
-- [The Art of Data Synchronization in HarmonyOS Next Part Two: In-depth Understanding of Standardized Data Types &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-two-in-depth-understanding-of-standardized-pd9)
+- [Quick intro to JavaScript and codeguppy.com](https://dev.to/codeguppy/quick-intro-to-javascript-and-codeguppycom-2ohd)
+- [JavaScript is like Python](https://dev.to/codeguppy/javascript-is-like-python-lic)
+- [Book: JavaScript for the Whole Family](https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf)
+- [Understanding useState in TypeScript React](https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8)
 <!-- BLOG-POST-LIST:END -->
 
