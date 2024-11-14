@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [react](https://dev.to/hikolakita/react-1832)
-- [How to Build a Dark Mode Admin Dashboard with Tailwind CSS](https://dev.to/hitesh_developer/how-to-build-a-dark-mode-admin-dashboard-with-tailwind-css-442g)
-- [Mastering the Salesforce Platform : Latest Updates and Essential Tips for Success](https://dev.to/techforcea/mastering-the-salesforce-platform-latest-updates-and-essential-tips-for-success-35a5)
-- [Traffic sniff - Forensics Writeup CTF - Pwnedcr2024](https://dev.to/casderoso/traffic-sniff-forensics-writeup-ctf-pwnedcr2024-3agi)
+- [How many data analysis tasks can BI software handle?](https://dev.to/esproc_spl/how-many-data-analysis-tasks-can-bi-software-handle-5cbi)
+- [Deploying a &lpar;static&rpar; Vite React app](https://dev.to/cph-business-web-dev/deploying-a-static-vite-react-app-4aen)
+- [📚🤖 Implementing a Recommendation System Using Collaborative Filtering &amp; Content-Based Algorithms in Python 🐍](https://dev.to/info_generalhazedawn_a3d/implementing-a-recommendation-system-using-collaborative-filtering-content-based-algorithms-in-4pcp)
+- [Can Machines Think? The Role of the Turing Test in Artificial Intelligence](https://dev.to/bikashdaga/can-machines-think-the-role-of-the-turing-test-in-artificial-intelligence-lbc)
 <!-- BLOG-POST-LIST:END -->
 
