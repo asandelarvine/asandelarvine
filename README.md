@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 66. Theme switcher](https://dev.to/kiolk/day-66-theme-switcher-4088)
-- [7 AI Open Source Libraries To Build RAG, Agents &amp; AI Search](https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm)
-- [I cant deploy at IIS Blazor with SignalR .Net 9, Can you help me?](https://dev.to/jos_fernandoocheitacas/i-cant-deploy-at-iis-blazor-with-signalr-net-9-can-you-help-me-560b)
-- [TypeScript Advanced Types: My Daily Essentials Now on NPM](https://dev.to/ggondim/typescript-advanced-types-my-daily-essentials-now-on-npm-n02)
+- [Buddy programs make connections](https://dev.to/gabrieltoma/buddy-programs-make-connections-28mc)
+- [Adding CI tests for my open source.](https://dev.to/krinskumar/adding-ci-tests-for-my-open-source-3j6j)
+- [How AI is Revolutionizing Personalized Skincare Formulations in 2024](https://dev.to/josef_doctorovitz_ww/how-ai-is-revolutionizing-personalized-skincare-formulations-in-2024-178)
+- [Thinking about leaving IT?](https://dev.to/felipefreitag/thinking-about-leaving-it-3kb7)
 <!-- BLOG-POST-LIST:END -->
 
