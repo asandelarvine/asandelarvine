@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting a Gladiator-Inspired Drop Cap with CSS and JavaScript](https://dev.to/gladiatorsbattle/crafting-a-gladiator-inspired-drop-cap-with-css-and-javascript-5abi)
-- [Why I created a new UUID package for Node.js](https://dev.to/ggondim/why-i-created-a-new-uuid-package-for-nodejs-4df2)
-- [Upgrading Simple Shells to Fully Interactive TTYs](https://dev.to/0xmrmasry/upgrading-simple-shells-to-fully-interactive-ttys-49eb)
-- [How to Use Proxies in Python](https://dev.to/federicotrotta/how-to-use-a-proxy-in-python-1278)
+- [Day 66. Theme switcher](https://dev.to/kiolk/day-66-theme-switcher-4088)
+- [7 AI Open Source Libraries To Build RAG, Agents &amp; AI Search](https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm)
+- [I cant deploy at IIS Blazor with SignalR .Net 9, Can you help me?](https://dev.to/jos_fernandoocheitacas/i-cant-deploy-at-iis-blazor-with-signalr-net-9-can-you-help-me-560b)
+- [TypeScript Advanced Types: My Daily Essentials Now on NPM](https://dev.to/ggondim/typescript-advanced-types-my-daily-essentials-now-on-npm-n02)
 <!-- BLOG-POST-LIST:END -->
 
