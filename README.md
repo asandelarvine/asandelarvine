@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeBehind 3.8 Released](https://dev.to/elanatframework/codebehind-38-released-3iao)
-- [Why Holding Buttons Is Superior to Confirmation Dialogs in UX Design](https://dev.to/tomj/why-holding-buttons-is-superior-to-confirmation-dialogs-in-ux-design-1fic)
-- [What Is Polymorphism? Exploring Type and Object Relations](https://dev.to/yo-shi/what-is-polymorphism-exploring-type-and-object-relations-nmh)
-- [intro to Garbage Collection and Resource Management in C#](https://dev.to/moh_moh701/mastering-garbage-collection-and-resource-management-in-c-3gbk)
+- [How does your customer help you?](https://dev.to/rouilj/how-does-your-customer-help-you-18oj)
+- [Day 1059 : Over 50](https://dev.to/dwane/day-1059-over-50-1a1p)
+- [4 years at DEV](https://dev.to/krishnapalrajput/4-years-at-dev-47ak)
+- [De[v]log#5: Arduino Cloud &amp; Blynk Integration](https://dev.to/mytx/devlog4-arduino-cloud-blynk-integration-3m69)
 <!-- BLOG-POST-LIST:END -->
 
