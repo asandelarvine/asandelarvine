@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of React 19: A Deep Dive into Its Game-Changing Features](https://dev.to/rohitkhokhar/unlocking-the-power-of-react-19-a-deep-dive-into-its-game-changing-features-3n0)
-- [🔥HMPL — best alternative to HTMX](https://dev.to/anthonymax/hmpl-best-alternative-to-htmx-41j8)
-- [Building a Successful eLearning Marketplace: Essential Solutions and Strategies](https://dev.to/george_brown_d48172649212/building-a-successful-elearning-marketplace-essential-solutions-and-strategies-1d5l)
-- [POC — CVE-2024–10914 Command Injection Vulnerability in `name` parameter for D-Link NAS](https://dev.to/verylazytech/poc-cve-2024-10914-command-injection-vulnerability-in-name-parameter-for-d-link-nas-4f8p)
+- [Why You Shouldn’t Use Libraries Blindly: A Lesson in Bundle Size](https://dev.to/rm_sh/why-you-shouldnt-use-libraries-blindly-a-lesson-in-bundle-size-2dm4)
+- [Mastering Recursive Types in TypeScript: Handling Depth Limitations Gracefully](https://dev.to/adrien2p/mastering-recursive-types-in-typescript-handling-depth-limitations-gracefully-5f4o)
+- [I need to build and app at my place of work to overcome the sheer time time wasting repetitive tedium of some tasks I only have Excel to work with suggestions &lpar; based on experience &rpar; welcome](https://dev.to/ossie_jesson_1d3647c1f9c3/i-need-to-build-and-app-at-my-place-of-work-to-overcome-the-sheer-time-time-wasting-repetitive-28c6)
+- [What are the best resources for studying System Design?](https://dev.to/educative/what-are-the-best-resources-for-studying-system-design-15c)
 <!-- BLOG-POST-LIST:END -->
 
