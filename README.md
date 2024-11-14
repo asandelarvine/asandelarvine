@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Buddy programs make connections](https://dev.to/gabrieltoma/buddy-programs-make-connections-28mc)
-- [Adding CI tests for my open source.](https://dev.to/krinskumar/adding-ci-tests-for-my-open-source-3j6j)
-- [How AI is Revolutionizing Personalized Skincare Formulations in 2024](https://dev.to/josef_doctorovitz_ww/how-ai-is-revolutionizing-personalized-skincare-formulations-in-2024-178)
-- [Thinking about leaving IT?](https://dev.to/felipefreitag/thinking-about-leaving-it-3kb7)
+- [REST vs. GraphQL: Choosing the Right API for Your Project](https://dev.to/trinityyi/rest-vs-graphql-choosing-the-right-api-for-your-project-12jm)
+- [Version Fox for the Win...dows](https://dev.to/aaronblondeau/version-fox-for-the-windows-4a5o)
+- [Allowing any app on macOS](https://dev.to/santisbon/disabling-macos-gatekeeper-230o)
+- [Supporting Multiple post.logout.redirect.uris in Keycloak Config CLI](https://dev.to/motouom_victor/supporting-multiple-postlogoutredirecturis-in-keycloak-config-cli-4nig)
 <!-- BLOG-POST-LIST:END -->
 
