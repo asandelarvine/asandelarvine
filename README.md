@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Market Your Newly Created Token Successfully](https://dev.to/deploytokens/how-to-market-your-newly-created-token-successfully-10d3)
-- [Built-in Method](https://dev.to/nikhil_kalariya_277019f8e/built-in-method-101b)
-- [Top 10 Advanced typescript concepts that Every Developer Should Know](https://dev.to/niharikaa/top-10-advanced-typescript-concepts-that-every-developer-should-know-4kg4)
-- [PL/SQL Developer Interview Questions](https://dev.to/mrcaption49/plsql-developer-interview-questions-28c7)
+- [react](https://dev.to/hikolakita/react-1832)
+- [How to Build a Dark Mode Admin Dashboard with Tailwind CSS](https://dev.to/hitesh_developer/how-to-build-a-dark-mode-admin-dashboard-with-tailwind-css-442g)
+- [Mastering the Salesforce Platform : Latest Updates and Essential Tips for Success](https://dev.to/techforcea/mastering-the-salesforce-platform-latest-updates-and-essential-tips-for-success-35a5)
+- [Traffic sniff - Forensics Writeup CTF - Pwnedcr2024](https://dev.to/casderoso/traffic-sniff-forensics-writeup-ctf-pwnedcr2024-3agi)
 <!-- BLOG-POST-LIST:END -->
 
