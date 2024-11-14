@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Definitely need to add linking to quickie posts, just need to do it in the right way. Probably start with linking to DEV posts as a way to share and boost stuff you like a bit more easily.](https://dev.to/ben/definitely-need-to-add-linking-to-quickie-posts-just-need-to-do-it-in-the-right-way-probably-3dkl)
-- [Mastering URL Structure: Tips for SEO and User Experience](https://dev.to/techpulse55/mastering-url-structure-tips-for-seo-and-user-experience-l66)
-- [How to Write Clean Code: Refactoring and Best Practices.](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-1mo)
-- [Python Error Types Explained: Troubleshooting for Beginners](https://dev.to/namimai/python-error-types-explained-troubleshooting-for-beginners-4o76)
+- [Crafting a Gladiator-Inspired Drop Cap with CSS and JavaScript](https://dev.to/gladiatorsbattle/crafting-a-gladiator-inspired-drop-cap-with-css-and-javascript-5abi)
+- [Why I created a new UUID package for Node.js](https://dev.to/ggondim/why-i-created-a-new-uuid-package-for-nodejs-4df2)
+- [Upgrading Simple Shells to Fully Interactive TTYs](https://dev.to/0xmrmasry/upgrading-simple-shells-to-fully-interactive-ttys-49eb)
+- [How to Use Proxies in Python](https://dev.to/federicotrotta/how-to-use-a-proxy-in-python-1278)
 <!-- BLOG-POST-LIST:END -->
 
