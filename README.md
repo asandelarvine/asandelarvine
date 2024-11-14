@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick intro to JavaScript and codeguppy.com](https://dev.to/codeguppy/quick-intro-to-javascript-and-codeguppycom-2ohd)
-- [JavaScript is like Python](https://dev.to/codeguppy/javascript-is-like-python-lic)
-- [Book: JavaScript for the Whole Family](https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf)
-- [Understanding useState in TypeScript React](https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8)
+- [How to Build AWS VPC Using Terraform](https://dev.to/giasuddin90/how-to-build-aws-vpc-using-terraform-1ndp)
+- [Preventing SQL Injection &lpar;SQLi&rpar; in React.js Apps](https://dev.to/pentest_testing_corp/preventing-sql-injection-sqli-in-reactjs-apps-176a)
+- [Understanding the Saga Pattern in Microservices](https://dev.to/vipulkumarsviit/understanding-the-saga-pattern-in-microservices-dfi)
+- [SDLC | Waterfall model | Agile | DevOps](https://dev.to/mrcaption49/sdlc-waterfall-model-agile-devops-55i9)
 <!-- BLOG-POST-LIST:END -->
 
