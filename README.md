@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Releasing Idle Elastic IPs on AWS to Save Costs](https://dev.to/axeldlv/releasing-idle-elastic-ips-on-aws-to-save-costs-5cji)
-- [The Essential Guide to Dew Point Calculators: How They Work and Why They Matter](https://dev.to/hoor_1f5d2736e0a82809ae88/the-essential-guide-to-dew-point-calculators-how-they-work-and-why-they-matter-3521)
-- [Pattern matching for everyone &lpar;Using in video games&rpar;](https://dev.to/josh_devquezada/pattern-matching-for-all-usage-in-videogames-2kc6)
-- [Introduction to Computer Networks](https://dev.to/madgan95/introduction-to-computer-networks-mno)
+- [Next.js 15 Form Component: A Beginner&#39;s Guide](https://dev.to/saidmounaim/nextjs-15-form-component-a-beginners-guide-56a2)
+- [What Was The First Thing You Learned that Got You Excited About Development?](https://dev.to/pavelkeyzik/what-was-the-first-thing-you-learned-that-got-you-excited-about-development-16gf)
+- [Componentization](https://dev.to/bianca_camargo_m/componentization-16dh)
+- [Building an Authentication Wrapper in React/Next.js + GraphQL 💪](https://dev.to/thesohailjafri/building-an-authentication-wrapper-in-reactnextjs-graphql-112f)
 <!-- BLOG-POST-LIST:END -->
 
