@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How many data analysis tasks can BI software handle?](https://dev.to/esproc_spl/how-many-data-analysis-tasks-can-bi-software-handle-5cbi)
-- [Deploying a &lpar;static&rpar; Vite React app](https://dev.to/cph-business-web-dev/deploying-a-static-vite-react-app-4aen)
-- [📚🤖 Implementing a Recommendation System Using Collaborative Filtering &amp; Content-Based Algorithms in Python 🐍](https://dev.to/info_generalhazedawn_a3d/implementing-a-recommendation-system-using-collaborative-filtering-content-based-algorithms-in-4pcp)
-- [Can Machines Think? The Role of the Turing Test in Artificial Intelligence](https://dev.to/bikashdaga/can-machines-think-the-role-of-the-turing-test-in-artificial-intelligence-lbc)
+- [Unlocking the Power of React 19: A Deep Dive into Its Game-Changing Features](https://dev.to/rohitkhokhar/unlocking-the-power-of-react-19-a-deep-dive-into-its-game-changing-features-3n0)
+- [🔥HMPL — best alternative to HTMX](https://dev.to/anthonymax/hmpl-best-alternative-to-htmx-41j8)
+- [Building a Successful eLearning Marketplace: Essential Solutions and Strategies](https://dev.to/george_brown_d48172649212/building-a-successful-elearning-marketplace-essential-solutions-and-strategies-1d5l)
+- [POC — CVE-2024–10914 Command Injection Vulnerability in `name` parameter for D-Link NAS](https://dev.to/verylazytech/poc-cve-2024-10914-command-injection-vulnerability-in-name-parameter-for-d-link-nas-4f8p)
 <!-- BLOG-POST-LIST:END -->
 
