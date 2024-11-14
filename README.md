@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Cybersecurity Challenges: Navigating Emerging Threats and Opportunities](https://dev.to/siddharthbhalsod/ai-cybersecurity-challenges-navigating-emerging-threats-and-opportunities-4fd1)
-- [I want to compile and install Snort on Mac OS &lpar;12.7.4&rpar; without segmentation fault. Are there any steps or guides for this?](https://dev.to/hate_story_9bc92409c3651c/i-want-to-compile-and-install-snort-on-mac-os-1274-without-segmentation-fault-are-there-any-4ajb)
-- [Rust🦀 is my first programming language, and here is my experience of writing my first OSS in Rust in 1979 loc.](https://dev.to/fnabinash/rust-is-my-first-programming-language-and-here-is-my-experience-of-writing-my-first-oss-in-rust-358k)
-- [CLI, Operator, Helm 차트를 이용한 Linkerd Enterprise 설치 방법](https://dev.to/gtrekter/cli-operator-helm-cateureul-iyonghan-linkerd-enterprise-seolci-bangbeob-5g33)
+- [Building a High-Performance Gaming Desktop for Development: A Worthwhile Investment?](https://dev.to/gabriella_browne_d047850e/building-a-high-performance-gaming-desktop-for-development-a-worthwhile-investment-22a8)
+- [32/365 | ¥10M Job Challenge - Original Intentions](https://dev.to/kameken100/32365-y10m-job-challenge-original-intentions-3f2k)
+- [Mastering API Development: Best Practices for RESTful APIs](https://dev.to/shreyash-hexa/mastering-api-development-best-practices-for-restful-apis-5h9e)
+- [Mastering Service Mesh with Linkerd](https://dev.to/gtrekter/mastering-service-mesh-with-linkerd-2hmn)
 <!-- BLOG-POST-LIST:END -->
 
