@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contract Data Extraction: How It Works?](https://dev.to/smartmuv/smart-contract-data-extraction-how-it-works-1hj1)
-- [iubenda SDK Integration on Android](https://dev.to/albini/iubenda-sdk-integration-on-android-3585)
-- [What Is a Data Streaming Platform?](https://dev.to/jhk_info/what-is-a-data-streaming-platform-1meo)
-- [Building an email address parser in Rust with nom](https://dev.to/arcjet/building-an-email-address-parser-in-rust-with-nom-84a)
+- [This Week In React #209 : Next.js, Compiler, Motion, Remix, Toldo, state-in-url, Expo 52, Skia List, Godot, True Sheet, Nitro...](https://dev.to/sebastienlorber/this-week-in-react-209-nextjs-compiler-motion-remix-toldo-state-in-url-expo-52-skia-40og)
+- [Crafting a Premium Drag-and-Drop Task Manager with Intuitive Modals](https://dev.to/gladiatorsbattle/crafting-a-premium-drag-and-drop-task-manager-with-intuitive-modals-3m4)
+- [Transitioning from Flask with Jinja2 to React: Understanding Authentication and Data Flow for Beginners](https://dev.to/usooldatascience/transitioning-from-flask-with-jinja2-to-react-understanding-authentication-and-data-flow-for-4214)
+- [How To Deploy a json-server on render](https://dev.to/akashjadhav55/how-to-deploy-a-json-server-on-render-3h8l)
 <!-- BLOG-POST-LIST:END -->
 
