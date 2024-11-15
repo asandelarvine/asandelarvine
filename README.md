@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Potential of Computer Vision: Benefits, Use Cases, Features, and Future Trends](https://dev.to/evelynwyatt/unlocking-the-potential-of-computer-vision-benefits-use-cases-features-and-future-trends-3ied)
-- [From Code to Cloud: Easily Host Your HTML Website on an EC2 Instance!](https://dev.to/carlton_agesa/from-code-to-cloud-easily-host-your-html-website-on-an-ec2-instance-20a2)
-- [Understanding SharedArrayBuffer in Simple Terms](https://dev.to/nozibul_islam_113b1d5334f/understanding-sharedarraybuffer-in-simple-terms-b3e)
-- [Sprint Retrospective Example: How To Turn Your Team&#39;s &quot;Oh, Crap!&quot; Moments Into &quot;Aha!&quot; Moments](https://dev.to/devactivity-app/sprint-retrospective-example-how-to-turn-your-teams-oh-crap-moments-into-aha-moments-515e)
+- [Smart Contract Data Extraction: How It Works?](https://dev.to/smartmuv/smart-contract-data-extraction-how-it-works-1hj1)
+- [iubenda SDK Integration on Android](https://dev.to/albini/iubenda-sdk-integration-on-android-3585)
+- [What Is a Data Streaming Platform?](https://dev.to/jhk_info/what-is-a-data-streaming-platform-1meo)
+- [Building an email address parser in Rust with nom](https://dev.to/arcjet/building-an-email-address-parser-in-rust-with-nom-84a)
 <!-- BLOG-POST-LIST:END -->
 
