@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 **Exciting Updates for LibTracker - The Ultimate SBOM Tool!** 🚀](https://dev.to/windmillcode/exciting-updates-for-libtracker-the-ultimate-sbom-tool-3apf)
-- [Orbis: The Magic of Abstraction in PHP](https://dev.to/lithephp/orbis-the-magic-of-abstraction-in-php-kh8)
-- [Orbis: A Magia da Abstração em PHP](https://dev.to/lithephp/orbis-a-magia-da-abstracao-em-php-1if7)
-- [Master Website Speed Optimization: A Comprehensive Guide](https://dev.to/techpulse55/master-website-speed-optimization-a-comprehensive-guide-3kc3)
+- [🗄️Memoization in JavaScript: Optimizing Computations and Improving Performance](https://dev.to/hmpljs/memoization-in-javascript-optimizing-computations-and-improving-performance-5129)
+- [🚀 Dogecoin Update: Why $0.42 is Key for $DOGE ’s Next Target](https://dev.to/joshthebtc/dogecoin-update-why-042-is-key-for-doge-s-next-target-4c78)
+- [Mastering Clean Code: 4 Essential Techniques for Organizing Data in C#](https://dev.to/moh_moh701/mastering-clean-code-4-essential-techniques-for-organizing-data-in-c-1idf)
+- [Security news weekly round-up - 15th November 2024](https://dev.to/ziizium/security-news-weekly-round-up-15th-november-2024-1jgn)
 <!-- BLOG-POST-LIST:END -->
 
