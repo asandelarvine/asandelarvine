@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your Own Commands in Linux Terminal](https://dev.to/xxzeroxx/how-to-make-your-own-commands-in-linux-terminal-3ol1)
-- [Software Engineering at Google - Chapter 9: Code Review](https://dev.to/eidher/software-engineering-at-google-chapter-9-code-review-oia)
-- [Desvendando os Git Aliases: Otimize seu fluxo de trabalho com simplicidade e estilo](https://dev.to/tonybsilvadev/desvendando-os-git-aliases-otimize-seu-fluxo-de-trabalho-com-simplicidade-e-estilo-1oka)
-- [Strings -- Manipulating the Immutable.](https://dev.to/maryalice/strings-manipulating-the-immutable-253a)
+- [Design a consistent hashing for system design interview](https://dev.to/dleedev365/design-a-consistent-hashing-for-system-design-interview-50f)
+- [Cutting the High Cost of Testing Microservices](https://dev.to/signadot/cutting-the-high-cost-of-testing-microservices-21io)
+- [Goliath Dashboard - Shield Module Demo](https://dev.to/danieljsaldana/goliath-dashboard-shield-module-demo-5162)
+- [Working with GitHub OAuth Authentication](https://dev.to/anhchienvu/working-with-github-oauth-authentication-48dk)
 <!-- BLOG-POST-LIST:END -->
 
