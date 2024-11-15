@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Bloc State Management Roadmap: Chapter 1 — Roadmap to Mastery](https://dev.to/alaminkarno/flutter-bloc-state-management-roadmap-chapter-1-roadmap-to-mastery-4dg)
-- [The Guide to Surviving Impostor Syndrome: You’re Better Than You Think](https://dev.to/high_octane/the-guide-to-surviving-impostor-syndrome-youre-better-than-you-think-3d84)
-- [Hexagonal Architecture in Spring Boot Applications](https://dev.to/virajlakshitha/hexagonal-architecture-in-spring-boot-applications-1ibm)
-- [The Best Web Development Frameworks in 2024](https://dev.to/adityabhuyan/the-best-web-development-frameworks-in-2024-2bj3)
+- [Becoming a Power Platform Developer: A Beginner’s Guide](https://dev.to/luisdev07/becoming-a-power-platform-developer-a-beginners-guide-34c0)
+- [Facial Recognition System Development – The Why’s and How’s](https://dev.to/luxandcloud/facial-recognition-system-development-the-whys-and-hows-don)
+- [#97 — Count Duplicates of Simple Members](https://dev.to/judith677/97-count-duplicates-of-simple-members-20jk)
+- [JavaScript Learning Resources: Your Gateway to Modern Web Development](https://dev.to/getvm/javascript-learning-resources-your-gateway-to-modern-web-development-1bc2)
 <!-- BLOG-POST-LIST:END -->
 
