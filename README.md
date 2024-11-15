@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs. GraphQL: Choosing the Right API for Your Project](https://dev.to/trinityyi/rest-vs-graphql-choosing-the-right-api-for-your-project-12jm)
-- [Version Fox for the Win...dows](https://dev.to/aaronblondeau/version-fox-for-the-windows-4a5o)
-- [Allowing any app on macOS](https://dev.to/santisbon/disabling-macos-gatekeeper-230o)
-- [Supporting Multiple post.logout.redirect.uris in Keycloak Config CLI](https://dev.to/motouom_victor/supporting-multiple-postlogoutredirecturis-in-keycloak-config-cli-4nig)
+- [🚀 Go-ing Full-Stack: Building Dynamic Web Apps with Go 🐹, PostgreSQL 🐘, Docker 🐳, and HTTP Servers 🌐](https://dev.to/githaiga22/go-ing-full-stack-building-dynamic-web-apps-with-go-postgresql-docker-and-http-servers-4d4i)
+- [Creating A Window Virtual Machine, RDP into it, Add a data disc to window virtual machine.](https://dev.to/engra/creating-a-window-virtual-machine-rdp-into-it-add-a-data-disc-to-window-virtual-machine-i6k)
+- [Creating an azure compute Gallery , capture the image of VM and store in compute Gallery and create VMSS](https://dev.to/engra/creating-an-azure-compute-gallery-capture-the-image-of-vm-and-store-in-compute-gallery-and-1e02)
+- [How Focusing on Business Impact Improved My “Technical Debt” Conversations](https://dev.to/michymono77/how-focusing-on-business-impact-improved-my-technical-debt-conversations-21pe)
 <!-- BLOG-POST-LIST:END -->
 
