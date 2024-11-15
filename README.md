@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EXPLAIN PLAN and DBMS_PROFILER](https://dev.to/mrcaption49/explain-plan-and-dbmsprofiler-57lh)
-- [Day 3 &amp; 4: Double Attack!](https://dev.to/0101001/day-3-4-double-attack-2efe)
-- [🚀 Your Daily Crypto Job Digest For 15 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-november-3hc6)
-- [Is Squarespace Better for Your Website? Comparing WordPress and Squarespace Features](https://dev.to/henrydavid/is-squarespace-better-for-your-website-comparing-wordpress-and-squarespace-features-5anm)
+- [Vpn কী এবং এটি কিভাবে কাজ করে: সহজ ভাষায় বিশ্লেষণ](https://dev.to/codemechanix/vpn-kii-ebn-etti-kibhaabe-kaaj-kre-shj-bhaassaay-bishlessnn-12f3)
+- [Deploying a Flask-based Intrusion Detection System to AWS ECS with CI/CD](https://dev.to/victoriliya/deploying-a-flask-based-intrusion-detection-system-to-aws-ecs-with-cicd-4pgm)
+- [How AI Is Transforming IAM and Identity Security](https://dev.to/nolunchbreaks_22/how-ai-is-transforming-iam-and-identity-security-4ji7)
+- [The 100 Best Chrome Extensions to Know! 🧩 🔥](https://dev.to/hosseinyazdi/the-100-best-chrome-extensions-to-know-1o61)
 <!-- BLOG-POST-LIST:END -->
 
