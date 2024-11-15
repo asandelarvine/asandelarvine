@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Managers Demystified: Simplify Your Resource Handling in Python](https://dev.to/meqdad_dev/context-managers-demystified-simplify-your-resource-handling-in-python-4lc0)
-- [Array and Object Access](https://dev.to/wlegard/array-and-object-access-436f)
-- [Creating and Connecting to a Linux Virtual Machine Scale Set &lpar;VMSS&rpar;](https://dev.to/olalekan_johnayansola_4a/creating-and-connecting-to-a-linux-virtual-machine-scale-set-vmss-5ki)
-- [Conceitos de POO em Python para Programadores C++98](https://dev.to/vinncius_cedrazribeiro_/conceitos-de-poo-em-python-para-programadores-c98-5h8k)
+- [Implementing Blue-Green Deployment in Kubernetes with TLS Encryption Using Cert-Manager and Nginx Ingress](https://dev.to/ezejioforog/implementing-blue-green-deployment-in-kubernetes-with-tls-encryption-using-cert-manager-and-nginx-38hg)
+- [JavaScript Superpowers: Mastering Proxies and Reflect for Dynamic Code Manipulation](https://dev.to/aaravjoshi/javascript-superpowers-mastering-proxies-and-reflect-for-dynamic-code-manipulation-28aj)
+- [Revolutionizing the $27+ Billion Market with Conversational AI in Data Analytics](https://dev.to/idan_moradov_4b6d9e5b5477/revolutionizing-the-27-billion-market-with-conversational-ai-in-data-analytics-4fdb)
+- [Mastering TypeScript: Advanced Type Tricks for Bulletproof Code](https://dev.to/aaravjoshi/mastering-typescript-advanced-type-tricks-for-bulletproof-code-5ghl)
 <!-- BLOG-POST-LIST:END -->
 
