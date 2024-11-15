@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shape Your Career with Our Advanced Online Data Science Course](https://dev.to/clarkeedu/shape-your-career-with-our-advanced-online-data-science-course-5g07)
-- [How to Build an iOS MRZ Scanner with SwiftUI and Dynamsoft Capture Vision](https://dev.to/yushulx/how-to-build-an-ios-mrz-scanner-with-swiftui-and-dynamsoft-capture-vision-2fib)
-- [Setting Up PostgreSQL with Docker: A Beginner&#39;s Guide](https://dev.to/tkrbhargav/setting-up-postgresql-with-docker-a-beginners-guide-6lk)
-- [Factory Method Pattern in JS!](https://dev.to/marcobustillo/factory-method-pattern-in-js-k3d)
+- [Unlocking the Potential of Computer Vision: Benefits, Use Cases, Features, and Future Trends](https://dev.to/evelynwyatt/unlocking-the-potential-of-computer-vision-benefits-use-cases-features-and-future-trends-3ied)
+- [From Code to Cloud: Easily Host Your HTML Website on an EC2 Instance!](https://dev.to/carlton_agesa/from-code-to-cloud-easily-host-your-html-website-on-an-ec2-instance-20a2)
+- [Understanding SharedArrayBuffer in Simple Terms](https://dev.to/nozibul_islam_113b1d5334f/understanding-sharedarraybuffer-in-simple-terms-b3e)
+- [Sprint Retrospective Example: How To Turn Your Team&#39;s &quot;Oh, Crap!&quot; Moments Into &quot;Aha!&quot; Moments](https://dev.to/devactivity-app/sprint-retrospective-example-how-to-turn-your-teams-oh-crap-moments-into-aha-moments-515e)
 <!-- BLOG-POST-LIST:END -->
 
