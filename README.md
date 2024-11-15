@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗄️Memoization in JavaScript: Optimizing Computations and Improving Performance](https://dev.to/hmpljs/memoization-in-javascript-optimizing-computations-and-improving-performance-5129)
-- [🚀 Dogecoin Update: Why $0.42 is Key for $DOGE ’s Next Target](https://dev.to/joshthebtc/dogecoin-update-why-042-is-key-for-doge-s-next-target-4c78)
-- [Mastering Clean Code: 4 Essential Techniques for Organizing Data in C#](https://dev.to/moh_moh701/mastering-clean-code-4-essential-techniques-for-organizing-data-in-c-1idf)
-- [Security news weekly round-up - 15th November 2024](https://dev.to/ziizium/security-news-weekly-round-up-15th-november-2024-1jgn)
+- [How to Make Your Own Commands in Linux Terminal](https://dev.to/xxzeroxx/how-to-make-your-own-commands-in-linux-terminal-3ol1)
+- [Software Engineering at Google - Chapter 9: Code Review](https://dev.to/eidher/software-engineering-at-google-chapter-9-code-review-oia)
+- [Desvendando os Git Aliases: Otimize seu fluxo de trabalho com simplicidade e estilo](https://dev.to/tonybsilvadev/desvendando-os-git-aliases-otimize-seu-fluxo-de-trabalho-com-simplicidade-e-estilo-1oka)
+- [Strings -- Manipulating the Immutable.](https://dev.to/maryalice/strings-manipulating-the-immutable-253a)
 <!-- BLOG-POST-LIST:END -->
 
