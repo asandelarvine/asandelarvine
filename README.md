@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Docker and Kubernetes-like System from First Principles](https://dev.to/biswasprasana001/building-a-docker-and-kubernetes-like-system-from-first-principles-7l9)
-- [ssh không cần mật khẩu bằng ssh-copy-id trong windows](https://dev.to/longtth/ssh-khong-can-mat-khau-bang-ssh-copy-id-trong-windows-1a7p)
-- [change default excel template](https://dev.to/longtth/change-default-excel-template-56hp)
-- [5 recommended tools to support editing of oblique photography OSGB scenes](https://dev.to/austin6799/5-recommended-tools-to-support-editing-of-oblique-photography-osgb-scenes-1imd)
+- [40 open-source gems to become the ultimate developer🔥 🚀](https://dev.to/nevodavid/40-open-source-gems-to-become-the-ultimate-developer-4l20)
+- [Why Atomic Design Is Not for Frontend: A Deep Dive](https://dev.to/it_vturbo/why-atomic-design-is-not-for-frontend-a-deep-dive-32in)
+- [Git Tricks You Should Know: Aliases, Bisect, and Hooks for Better Workflow](https://dev.to/atlantis/git-tricks-you-should-know-aliases-bisect-and-hooks-for-better-workflow-2ekj)
+- [Testing REST APIs in Go: A Guide to Unit and Integration Testing with Go&#39;s Standard Testing Library](https://dev.to/sha254/testing-rest-apis-in-go-a-guide-to-unit-and-integration-testing-with-gos-standard-testing-library-2o9l)
 <!-- BLOG-POST-LIST:END -->
 
