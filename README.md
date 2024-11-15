@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vpn কী এবং এটি কিভাবে কাজ করে: সহজ ভাষায় বিশ্লেষণ](https://dev.to/codemechanix/vpn-kii-ebn-etti-kibhaabe-kaaj-kre-shj-bhaassaay-bishlessnn-12f3)
-- [Deploying a Flask-based Intrusion Detection System to AWS ECS with CI/CD](https://dev.to/victoriliya/deploying-a-flask-based-intrusion-detection-system-to-aws-ecs-with-cicd-4pgm)
-- [How AI Is Transforming IAM and Identity Security](https://dev.to/nolunchbreaks_22/how-ai-is-transforming-iam-and-identity-security-4ji7)
-- [The 100 Best Chrome Extensions to Know! 🧩 🔥](https://dev.to/hosseinyazdi/the-100-best-chrome-extensions-to-know-1o61)
+- [Basic Linux Commands](https://dev.to/radurga/basic-linux-commands-35m0)
+- [A Comprehensive Guide to Tor and Digital Freedom 😊](https://dev.to/johndoelord/a-comprehensive-guide-to-tor-and-digital-freedom-4431)
+- [Comprehensive Methods to Display Arrays in PHP and Laravel](https://dev.to/mdarifulhaque/comprehensive-methods-to-display-arrays-in-php-and-laravel-377b)
+- [🚀 Hire a Professional Software Developer for Your Next Project!](https://dev.to/coderarnab/hire-a-professional-software-developer-for-your-next-project-1j0c)
 <!-- BLOG-POST-LIST:END -->
 
