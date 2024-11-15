@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Linux Commands](https://dev.to/radurga/basic-linux-commands-35m0)
-- [A Comprehensive Guide to Tor and Digital Freedom 😊](https://dev.to/johndoelord/a-comprehensive-guide-to-tor-and-digital-freedom-4431)
-- [Comprehensive Methods to Display Arrays in PHP and Laravel](https://dev.to/mdarifulhaque/comprehensive-methods-to-display-arrays-in-php-and-laravel-377b)
-- [🚀 Hire a Professional Software Developer for Your Next Project!](https://dev.to/coderarnab/hire-a-professional-software-developer-for-your-next-project-1j0c)
+- [Milvus Adventures November 15, 2024](https://dev.to/chrischurilo/milvus-adventures-november-15-2024-4fji)
+- [Mainnet Forking in Foundry](https://dev.to/awesamarth/mainnet-forking-in-foundry-79f)
+- [We Ditched Kubernetes! Here&#39;s Why &amp; What We&#39;re Using Now](https://dev.to/pmbanugo/we-ditched-kubernetes-heres-why-what-were-using-now-40b0)
+- [Litlyx Update! After reaching 760+ stars and 45 paying clients!](https://dev.to/litlyx/litlyx-update-after-reaching-760-stars-and-45-paying-clients-1mfi)
 <!-- BLOG-POST-LIST:END -->
 
