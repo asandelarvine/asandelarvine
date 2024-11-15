@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [40 open-source gems to become the ultimate developer🔥 🚀](https://dev.to/nevodavid/40-open-source-gems-to-become-the-ultimate-developer-4l20)
-- [Why Atomic Design Is Not for Frontend: A Deep Dive](https://dev.to/it_vturbo/why-atomic-design-is-not-for-frontend-a-deep-dive-32in)
-- [Git Tricks You Should Know: Aliases, Bisect, and Hooks for Better Workflow](https://dev.to/atlantis/git-tricks-you-should-know-aliases-bisect-and-hooks-for-better-workflow-2ekj)
-- [Testing REST APIs in Go: A Guide to Unit and Integration Testing with Go&#39;s Standard Testing Library](https://dev.to/sha254/testing-rest-apis-in-go-a-guide-to-unit-and-integration-testing-with-gos-standard-testing-library-2o9l)
+- [Shape Your Career with Our Advanced Online Data Science Course](https://dev.to/clarkeedu/shape-your-career-with-our-advanced-online-data-science-course-5g07)
+- [How to Build an iOS MRZ Scanner with SwiftUI and Dynamsoft Capture Vision](https://dev.to/yushulx/how-to-build-an-ios-mrz-scanner-with-swiftui-and-dynamsoft-capture-vision-2fib)
+- [Setting Up PostgreSQL with Docker: A Beginner&#39;s Guide](https://dev.to/tkrbhargav/setting-up-postgresql-with-docker-a-beginners-guide-6lk)
+- [Factory Method Pattern in JS!](https://dev.to/marcobustillo/factory-method-pattern-in-js-k3d)
 <!-- BLOG-POST-LIST:END -->
 
