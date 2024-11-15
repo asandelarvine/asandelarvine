@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#LearningToCode](https://dev.to/edisonvinson07/learningtocode-4k5c)
-- [Cross-Platform API Compatibility: Designing for Web, Mobile, and IoT](https://dev.to/apidna/cross-platform-api-compatibility-designing-for-web-mobile-and-iot-40dl)
-- [Lambdas in Java](https://dev.to/crqcastro/lambdas-in-java-1j7j)
-- [Developer Icons: an awesome open-source library for free tech logos](https://dev.to/xandemon/developer-icons-an-awesome-open-source-library-for-free-tech-logos-299p)
+- [Context Managers Demystified: Simplify Your Resource Handling in Python](https://dev.to/meqdad_dev/context-managers-demystified-simplify-your-resource-handling-in-python-4lc0)
+- [Array and Object Access](https://dev.to/wlegard/array-and-object-access-436f)
+- [Creating and Connecting to a Linux Virtual Machine Scale Set &lpar;VMSS&rpar;](https://dev.to/olalekan_johnayansola_4a/creating-and-connecting-to-a-linux-virtual-machine-scale-set-vmss-5ki)
+- [Conceitos de POO em Python para Programadores C++98](https://dev.to/vinncius_cedrazribeiro_/conceitos-de-poo-em-python-para-programadores-c98-5h8k)
 <!-- BLOG-POST-LIST:END -->
 
