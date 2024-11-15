@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Milvus Adventures November 15, 2024](https://dev.to/chrischurilo/milvus-adventures-november-15-2024-4fji)
-- [Mainnet Forking in Foundry](https://dev.to/awesamarth/mainnet-forking-in-foundry-79f)
-- [We Ditched Kubernetes! Here&#39;s Why &amp; What We&#39;re Using Now](https://dev.to/pmbanugo/we-ditched-kubernetes-heres-why-what-were-using-now-40b0)
-- [Litlyx Update! After reaching 760+ stars and 45 paying clients!](https://dev.to/litlyx/litlyx-update-after-reaching-760-stars-and-45-paying-clients-1mfi)
+- [#LearningToCode](https://dev.to/edisonvinson07/learningtocode-4k5c)
+- [Cross-Platform API Compatibility: Designing for Web, Mobile, and IoT](https://dev.to/apidna/cross-platform-api-compatibility-designing-for-web-mobile-and-iot-40dl)
+- [Lambdas in Java](https://dev.to/crqcastro/lambdas-in-java-1j7j)
+- [Developer Icons: an awesome open-source library for free tech logos](https://dev.to/xandemon/developer-icons-an-awesome-open-source-library-for-free-tech-logos-299p)
 <!-- BLOG-POST-LIST:END -->
 
