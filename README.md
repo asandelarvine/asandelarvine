@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering at Google - Chapter 5: How to Lead a Team](https://dev.to/eidher/software-engineering-at-google-chapter-5-how-to-lead-a-team-19o5)
-- [Software Engineer Interviews - #1 Intro](https://dev.to/lucasqueiroz/software-engineer-interviews-1-intro-22if)
-- [AWS Network Challenge 2: Deploy File Upload App on EC2, RDS, DocumentDB](https://dev.to/raphael_jambalos/aws-network-challenge-2-deploy-a-file-uploading-app-on-ec2-rds-documentdb-16eb)
-- [LangChain Memory Component Deep Dive: Chain Components and Runnable Study](https://dev.to/jamesli/langchain-memory-component-deep-dive-chain-components-and-runnable-study-359p)
+- [Flutter Bloc State Management Roadmap: Chapter 1 — Roadmap to Mastery](https://dev.to/alaminkarno/flutter-bloc-state-management-roadmap-chapter-1-roadmap-to-mastery-4dg)
+- [The Guide to Surviving Impostor Syndrome: You’re Better Than You Think](https://dev.to/high_octane/the-guide-to-surviving-impostor-syndrome-youre-better-than-you-think-3d84)
+- [Hexagonal Architecture in Spring Boot Applications](https://dev.to/virajlakshitha/hexagonal-architecture-in-spring-boot-applications-1ibm)
+- [The Best Web Development Frameworks in 2024](https://dev.to/adityabhuyan/the-best-web-development-frameworks-in-2024-2bj3)
 <!-- BLOG-POST-LIST:END -->
 
