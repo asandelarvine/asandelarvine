@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Go-ing Full-Stack: Building Dynamic Web Apps with Go 🐹, PostgreSQL 🐘, Docker 🐳, and HTTP Servers 🌐](https://dev.to/githaiga22/go-ing-full-stack-building-dynamic-web-apps-with-go-postgresql-docker-and-http-servers-4d4i)
-- [Creating A Window Virtual Machine, RDP into it, Add a data disc to window virtual machine.](https://dev.to/engra/creating-a-window-virtual-machine-rdp-into-it-add-a-data-disc-to-window-virtual-machine-i6k)
-- [Creating an azure compute Gallery , capture the image of VM and store in compute Gallery and create VMSS](https://dev.to/engra/creating-an-azure-compute-gallery-capture-the-image-of-vm-and-store-in-compute-gallery-and-1e02)
-- [How Focusing on Business Impact Improved My “Technical Debt” Conversations](https://dev.to/michymono77/how-focusing-on-business-impact-improved-my-technical-debt-conversations-21pe)
+- [Software Engineering at Google - Chapter 5: How to Lead a Team](https://dev.to/eidher/software-engineering-at-google-chapter-5-how-to-lead-a-team-19o5)
+- [Software Engineer Interviews - #1 Intro](https://dev.to/lucasqueiroz/software-engineer-interviews-1-intro-22if)
+- [AWS Network Challenge 2: Deploy File Upload App on EC2, RDS, DocumentDB](https://dev.to/raphael_jambalos/aws-network-challenge-2-deploy-a-file-uploading-app-on-ec2-rds-documentdb-16eb)
+- [LangChain Memory Component Deep Dive: Chain Components and Runnable Study](https://dev.to/jamesli/langchain-memory-component-deep-dive-chain-components-and-runnable-study-359p)
 <!-- BLOG-POST-LIST:END -->
 
