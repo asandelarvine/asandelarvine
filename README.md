@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Supercharged Cursor Editor with Pieces and Unlimited AI?](https://dev.to/nikl/how-i-supercharged-cursor-editor-with-pieces-and-unlimited-ai-h81)
-- [How Blockchain is Revolutionizing the Internet of Things &lpar;IoT&rpar;](https://dev.to/adityabhuyan/how-blockchain-is-revolutionizing-the-internet-of-things-iot-cde)
-- [Docker Image Optimization: Reducing Size for Faster Deployments](https://dev.to/dhanu0510/docker-image-optimization-reducing-size-for-faster-deployments-489g)
-- [Docker vs. Kubernetes: Which Is Right for Your DevOps Pipeline?](https://dev.to/trinityyi/docker-vs-kubernetes-which-is-right-for-your-devops-pipeline-6h9)
+- [Writing a Dockerfile: Beginners to Advanced](https://dev.to/prodevopsguytech/writing-a-dockerfile-beginners-to-advanced-31ie)
+- [A Comprehensive Guide to Software Acceptance Testing](https://dev.to/keploy/a-comprehensive-guide-to-software-acceptance-testing-1j53)
+- [.NET 9 Improvements for ASP.NET Core: Open API, Performance, and Tooling](https://dev.to/rosharch2/net-9-improvements-for-aspnet-core-open-api-performance-and-tooling-23aj)
+- [RAG Explained: Fine-Tuning vs RAG](https://dev.to/busycaesar/rag-explained-fine-tuning-vs-rag-2669)
 <!-- BLOG-POST-LIST:END -->
 
