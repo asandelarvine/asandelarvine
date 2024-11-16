@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World in Go Language](https://dev.to/sprybear/hello-world-in-go-language-1mc6)
-- [Chapter 3: What Are Bloc Events and States?](https://dev.to/alaminkarno/chapter-3-what-are-bloc-events-and-states-c0)
-- [Konversi Konfigurasi Apache .htaccess ke IIS web.config untuk Pengalihan Domain](https://dev.to/yysfyn/konversi-konfigurasi-apache-htaccess-ke-iis-webconfig-untuk-pengalihan-domain-dlk)
-- [How I &lpar;mostly&rpar; Learned to Touch Type in 6 Weeks](https://dev.to/ayak22/how-i-mostly-learned-to-touch-type-in-6-weeks-191)
+- [How to install Flutter + My Flutter Experience so far](https://dev.to/ryangst/how-to-install-flutter-my-flutter-experience-so-far-4k9k)
+- [Top 100% Free Torrent APIs for Developers](https://dev.to/riturajps/top-100-free-torrent-apis-for-developers-1jc1)
+- [GitLab CI: Needs vs Dependencies — A Practical Guide](https://dev.to/zavoloklom/gitlab-ci-needs-vs-dependencies-a-practical-guide-aoi)
+- [Keploy VS Code Extension: Revolutionizing Automated Unit &amp; Integration Test Generation](https://dev.to/keploy/keploy-vs-code-extension-revolutionizing-automated-unit-integration-test-generation-a2)
 <!-- BLOG-POST-LIST:END -->
 
