@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detailed Explanation of LangChain&#39;s Prompt Component](https://dev.to/jamesli/detailed-explanation-of-langchains-prompt-component-1ohg)
-- [How To Create A Tooltip With Floating UI](https://dev.to/ewenikeemmanue4/how-to-create-a-tooltip-with-floating-ui-4m96)
-- [started figma today , learning layers and tools right now .](https://dev.to/coderkun/started-figma-today-learning-layers-and-tools-right-now--4k2n)
-- [partdec: a multipart downloader and file splitter](https://dev.to/cjijcb/partdec-a-multipart-downloader-and-file-splitter-2nf3)
+- [Multipurpose Packer Templates](https://dev.to/lykins/multipurpose-packer-templates-5322)
+- [Lessons Learned from Using Torch Inductor For Inference](https://dev.to/aaronlangford31/lessons-learned-from-using-torch-inductor-for-inference-1ma7)
+- [Lab 08 Continuous Integration &lpar;CI&rpar;](https://dev.to/ajogseneca/lab-08-continuous-integration-ci-518f)
+- [Continuous Integration and Continuous Learning](https://dev.to/add00_3/continuous-integration-and-continuous-learning-16fg)
 <!-- BLOG-POST-LIST:END -->
 
