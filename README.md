@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙Next应用国际化：时间与日期格式化](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-guo-ji-hua-shi-jian-yu-ri-qi-ge-shi-hua-10eb)
-- [การเขียนเทสเพื่อทดสอบโปรเจคแบบ React + Firebase](https://dev.to/wteja/kaarekhiiynethsephuuethdsboprecchkhaebb-react-firebase-41dl)
-- [Latest Newsletter: Bull runs, economies, politics, browsers &amp; crypto AI &lpar;Issue #190&rpar;](https://dev.to/mjgs/latest-newsletter-bull-runs-economies-politics-browsers-crypto-ai-issue-190-21j9)
-- [Terms and Functionality in React.js](https://dev.to/shieldstring/terms-and-functionality-in-reactjs-p75)
+- [Choosing a VPS/VDS Server in 2024: My TOP-4 Picks](https://dev.to/hamilldivyesh/choosing-a-vpsvds-server-in-2024-my-top-4-picks-c0d)
+- [What, Why, Types, Challanges.... ML.](https://dev.to/arung/what-why-types-challanges-ml-5eon)
+- [Scrape but Validate: Data scraping with Pydantic Validation](https://dev.to/ajitkumar/scrape-but-validate-data-scraping-with-pydantic-validation-453k)
+- [Breakthrough: Language AI Models Can Learn From Their Own Outputs, Enhancing Long-Form Reasoning](https://dev.to/mikeyoung44/breakthrough-language-ai-models-can-learn-from-their-own-outputs-enhancing-long-form-reasoning-o60)
 <!-- BLOG-POST-LIST:END -->
 
