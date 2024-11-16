@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Part 2 : Unlocking the Power of Pure Functions](https://dev.to/nabil71dev/part-2-unlocking-the-power-of-pure-functions-3mp7)
-- [🚀 Introducing Chromate: Build AI Agents Easily with Ruby and the Chrome DevTools Protocol &lpar;CDP&rpar;](https://dev.to/eth3rnit3/introducing-chromate-build-ai-agents-easily-with-ruby-and-the-chrome-devtools-protocol-cdp-i04)
-- [Can Copybot AI Revolutionize Your Content?](https://dev.to/techpulse55/can-copybot-ai-revolutionize-your-content-2gbb)
-- [🔐 Understanding Ethereum ECDSA, EIP-712 and Its Role in Permit Functionality 🧾](https://dev.to/truongpx396/understanding-ethereum-ecdsa-eip-712-and-its-role-in-permit-functionality-26ll)
+- [Subnets and Subnet Masks: A DevOps Guide to Calculating Networks and Hosts](https://dev.to/574n13y/subnets-and-subnet-masks-a-devops-guide-to-calculating-networks-and-hosts-2bpk)
+- [Demystifying Algorithms: Brute Force](https://dev.to/craftedwithintent/demystifying-algorithms-brute-force-1pgi)
+- [🚀✨ We just launched Side Space on Product Hunt!](https://dev.to/robertshaw/we-just-launched-side-space-on-product-hunt-3a0e)
+- [Hosting a Static Website in Azure Storage with CDN and CI/CD Pipeline Integration](https://dev.to/nikhil_wilson_dfb43fe6436/hosting-a-static-website-in-azure-storage-with-cdn-and-cicd-pipeline-integration-20b6)
 <!-- BLOG-POST-LIST:END -->
 
