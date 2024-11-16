@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Python Frameworks for 2024](https://dev.to/hndmr79/top-10-python-frameworks-for-2024-ddm)
-- [Adding Continuous Integration to my Project](https://dev.to/bregwin/adding-continuous-integration-to-my-project-5cbl)
-- [Topic Breakdown: Roadmap to learn anything](https://dev.to/noobcoder21/topic-breakdown-roadmap-to-learn-anything-5ch9)
-- [Automated Testing and Dev Containers](https://dev.to/theoforger/automated-testing-and-dev-containers-1i59)
+- [Lab 8 - CI Actions and Testing](https://dev.to/cduarte3/lab-8-24kh)
+- [Storage Solutions for a New Company App: Scalable, Secure, and Efficient](https://dev.to/unique-tea/storage-solutions-for-a-new-company-app-scalable-secure-and-efficient-45le)
+- [bkash এর পেমেন্ট গেটওয়ে তৈরী করার নিয়ম](https://dev.to/mfmuktadir/bkash-er-pementt-gettoyye-tairii-kraar-niyym-2e45)
+- [First DevOps books to read](https://dev.to/tmckiknn3/first-devops-books-to-read-2pbk)
 <!-- BLOG-POST-LIST:END -->
 
