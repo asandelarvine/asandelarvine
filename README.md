@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 12: The Guardian of Codex – Embracing PWAs and Micro-Frontends](https://dev.to/vigneshiyergithub/episode-12-the-guardian-of-codex-embracing-pwas-and-micro-frontends-4hl6)
-- [Unlock Your Inner Productivity Ninja: How to Supercharge Your Software Developer Workflow](https://dev.to/devactivity-app/unlock-your-inner-productivity-ninja-how-to-supercharge-your-software-developer-workflow-125e)
-- [Capturing the image of a Virtual machine in Azure](https://dev.to/afeez_adeyemo/capturing-the-image-of-a-virtual-machine-in-azure-38c8)
-- [Achieving Perfect Vertical Rhythm in Web Browsers](https://dev.to/p233/achieving-perfect-vertical-rhythm-in-web-browsers-2d95)
+- [Understanding Star Schema vs. Snowflake Schema](https://dev.to/puneet_verma_aa1b0f7536c6/understanding-star-schema-vs-snowflake-schema-4hlj)
+- [First flutter app for marathon training](https://dev.to/matsch1/first-flutter-app-for-marathon-training-50l)
+- [🔎Exploring Design Patterns: Adapter Pattern](https://dev.to/abdullahal_mahmud/exploring-design-patterns-adapter-pattern-3o91)
+- [Spring Boot Cheat Sheet](https://dev.to/codegreen/spring-boot-cheat-sheet-1nk6)
 <!-- BLOG-POST-LIST:END -->
 
