@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design a consistent hashing for system design interview](https://dev.to/dleedev365/design-a-consistent-hashing-for-system-design-interview-50f)
-- [Cutting the High Cost of Testing Microservices](https://dev.to/signadot/cutting-the-high-cost-of-testing-microservices-21io)
-- [Goliath Dashboard - Shield Module Demo](https://dev.to/danieljsaldana/goliath-dashboard-shield-module-demo-5162)
-- [Working with GitHub OAuth Authentication](https://dev.to/anhchienvu/working-with-github-oauth-authentication-48dk)
+- [Top 10 Python Frameworks for 2024](https://dev.to/hndmr79/top-10-python-frameworks-for-2024-ddm)
+- [Adding Continuous Integration to my Project](https://dev.to/bregwin/adding-continuous-integration-to-my-project-5cbl)
+- [Topic Breakdown: Roadmap to learn anything](https://dev.to/noobcoder21/topic-breakdown-roadmap-to-learn-anything-5ch9)
+- [Automated Testing and Dev Containers](https://dev.to/theoforger/automated-testing-and-dev-containers-1i59)
 <!-- BLOG-POST-LIST:END -->
 
