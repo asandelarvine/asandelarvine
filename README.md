@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Flutter + My Flutter Experience so far](https://dev.to/ryangst/how-to-install-flutter-my-flutter-experience-so-far-4k9k)
-- [Top 100% Free Torrent APIs for Developers](https://dev.to/riturajps/top-100-free-torrent-apis-for-developers-1jc1)
-- [GitLab CI: Needs vs Dependencies — A Practical Guide](https://dev.to/zavoloklom/gitlab-ci-needs-vs-dependencies-a-practical-guide-aoi)
-- [Keploy VS Code Extension: Revolutionizing Automated Unit &amp; Integration Test Generation](https://dev.to/keploy/keploy-vs-code-extension-revolutionizing-automated-unit-integration-test-generation-a2)
+- [Inside Database Management Tool](https://dev.to/intersystems/inside-database-management-tool-ckc)
+- [Securing CI/CD Pipelines: GitHub Actions vs Jenkins](https://dev.to/ekirigwe/securing-cicd-pipelines-github-actions-vs-jenkins-1p2e)
+- [Exploring Sass Tint and Shade Functions for Color Manipulation](https://dev.to/fahaddevs/exploring-sass-tint-and-shade-functions-for-color-manipulation-4e7c)
+- [Database Management Tool](https://dev.to/intersystems/database-management-tool-20g9)
 <!-- BLOG-POST-LIST:END -->
 
