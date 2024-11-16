@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Categorization of Machine Learning Algorithms](https://dev.to/rohit_prasain/categorization-of-machine-learning-algorithms-15gb)
-- [Mastering Istio in Kubernetes: A Comprehensive Guide to Microservices Management](https://dev.to/alialp/mastering-istio-in-kubernetes-a-comprehensive-guide-to-microservices-management-34dk)
-- [LibTracker Updates 11/16/24: Simplify Dependency Management with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-111624-simplify-dependency-management-with-this-simple-sbom-tool-4ce2)
-- [Framer Logo Dark Mode](https://dev.to/grapplingdev/framer-logo-dark-mode-150i)
+- [DevEarn: A Vision for the Future of Programming with Crypto Rewards](https://dev.to/gladiatorsbattle/devearn-a-vision-for-the-future-of-programming-with-crypto-rewards-1k5o)
+- [Javascript listeners click bait](https://dev.to/loveliberty/javascript-listeners-click-bait-39k3)
+- [Exciting News: Introducing the Filament Form Builder Handbook! 🚀](https://dev.to/andreiabohner/exciting-news-introducing-the-filament-form-builder-handbook-566i)
+- [How Access to Knowledge Makes You a Better Developer](https://dev.to/jadeljerdy/how-access-to-knowledge-makes-you-a-better-developer-968)
 <!-- BLOG-POST-LIST:END -->
 
