@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multipurpose Packer Templates](https://dev.to/lykins/multipurpose-packer-templates-5322)
-- [Lessons Learned from Using Torch Inductor For Inference](https://dev.to/aaronlangford31/lessons-learned-from-using-torch-inductor-for-inference-1ma7)
-- [Lab 08 Continuous Integration &lpar;CI&rpar;](https://dev.to/ajogseneca/lab-08-continuous-integration-ci-518f)
-- [Continuous Integration and Continuous Learning](https://dev.to/add00_3/continuous-integration-and-continuous-learning-16fg)
+- [鸿蒙Next应用国际化：时间与日期格式化](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-guo-ji-hua-shi-jian-yu-ri-qi-ge-shi-hua-10eb)
+- [การเขียนเทสเพื่อทดสอบโปรเจคแบบ React + Firebase](https://dev.to/wteja/kaarekhiiynethsephuuethdsboprecchkhaebb-react-firebase-41dl)
+- [Latest Newsletter: Bull runs, economies, politics, browsers &amp; crypto AI &lpar;Issue #190&rpar;](https://dev.to/mjgs/latest-newsletter-bull-runs-economies-politics-browsers-crypto-ai-issue-190-21j9)
+- [Terms and Functionality in React.js](https://dev.to/shieldstring/terms-and-functionality-in-reactjs-p75)
 <!-- BLOG-POST-LIST:END -->
 
