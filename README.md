@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Star Schema vs. Snowflake Schema](https://dev.to/puneet_verma_aa1b0f7536c6/understanding-star-schema-vs-snowflake-schema-4hlj)
-- [First flutter app for marathon training](https://dev.to/matsch1/first-flutter-app-for-marathon-training-50l)
-- [🔎Exploring Design Patterns: Adapter Pattern](https://dev.to/abdullahal_mahmud/exploring-design-patterns-adapter-pattern-3o91)
-- [Spring Boot Cheat Sheet](https://dev.to/codegreen/spring-boot-cheat-sheet-1nk6)
+- [Convert http to https in AWS](https://dev.to/darshil89/convert-http-to-https-in-aws-3ecj)
+- [How to create AWS IAM Policies with ActionHero and Access Analyser](https://dev.to/mkdev/how-to-create-aws-iam-policies-with-actionhero-and-access-analyser-hp2)
+- [Simplify Your Django Admin with django-unfold](https://dev.to/eshat002/simplify-your-django-admin-with-django-unfold-5g16)
+- [A Concise Guide to CSS Selectors](https://dev.to/bat_man_d0c6665ccb1bcf2ad/a-concise-guide-to-css-selectors-g6m)
 <!-- BLOG-POST-LIST:END -->
 
