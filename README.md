@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Highly Reactive Page in React: A Deep Dive into Gladiator Crash](https://dev.to/gladiatorsbattle/building-a-highly-reactive-page-in-react-a-deep-dive-into-gladiator-crash-564c)
-- [Redux Best Practice](https://dev.to/bappasahabapi/redux-best-practice-361m)
-- [Realistic data Generation Using Bloomer Mock](https://dev.to/sadhna_mishra_8e2adbed214/realistic-data-generation-using-bloomer-mock-20o9)
-- [2 Ways to Stream Videos on the Frontend in FastAPI](https://dev.to/sachingeek/2-ways-to-stream-videos-on-the-frontend-in-fastapi-4oi9)
+- [Hello World in Go Language](https://dev.to/sprybear/hello-world-in-go-language-1mc6)
+- [Chapter 3: What Are Bloc Events and States?](https://dev.to/alaminkarno/chapter-3-what-are-bloc-events-and-states-c0)
+- [Konversi Konfigurasi Apache .htaccess ke IIS web.config untuk Pengalihan Domain](https://dev.to/yysfyn/konversi-konfigurasi-apache-htaccess-ke-iis-webconfig-untuk-pengalihan-domain-dlk)
+- [How I &lpar;mostly&rpar; Learned to Touch Type in 6 Weeks](https://dev.to/ayak22/how-i-mostly-learned-to-touch-type-in-6-weeks-191)
 <!-- BLOG-POST-LIST:END -->
 
