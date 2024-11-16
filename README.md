@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Database Management Tool](https://dev.to/intersystems/inside-database-management-tool-ckc)
-- [Securing CI/CD Pipelines: GitHub Actions vs Jenkins](https://dev.to/ekirigwe/securing-cicd-pipelines-github-actions-vs-jenkins-1p2e)
-- [Exploring Sass Tint and Shade Functions for Color Manipulation](https://dev.to/fahaddevs/exploring-sass-tint-and-shade-functions-for-color-manipulation-4e7c)
-- [Database Management Tool](https://dev.to/intersystems/database-management-tool-20g9)
+- [EXPLAIN PLAN &amp; DBMS_PROFILER Explanation](https://dev.to/mrcaption49/explain-plan-2a5k)
+- [Objetos em JavaScript](https://dev.to/gushenriq/objetos-em-javascript-22ea)
+- [Upgrading Lambda function from Python 3.8 to Higher](https://dev.to/aws-builders/upgrading-lambda-function-from-python-38-to-higher-emc)
+- [Stop Overpaying for Website analytics - Affordable Alternative](https://dev.to/abdulmuminyqn/stop-overpaying-for-website-analytics-affordable-alternative-5a89)
 <!-- BLOG-POST-LIST:END -->
 
