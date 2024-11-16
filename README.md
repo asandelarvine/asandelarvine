@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a Dockerfile: Beginners to Advanced](https://dev.to/prodevopsguytech/writing-a-dockerfile-beginners-to-advanced-31ie)
-- [A Comprehensive Guide to Software Acceptance Testing](https://dev.to/keploy/a-comprehensive-guide-to-software-acceptance-testing-1j53)
-- [.NET 9 Improvements for ASP.NET Core: Open API, Performance, and Tooling](https://dev.to/rosharch2/net-9-improvements-for-aspnet-core-open-api-performance-and-tooling-23aj)
-- [RAG Explained: Fine-Tuning vs RAG](https://dev.to/busycaesar/rag-explained-fine-tuning-vs-rag-2669)
+- [Building a Highly Reactive Page in React: A Deep Dive into Gladiator Crash](https://dev.to/gladiatorsbattle/building-a-highly-reactive-page-in-react-a-deep-dive-into-gladiator-crash-564c)
+- [Redux Best Practice](https://dev.to/bappasahabapi/redux-best-practice-361m)
+- [Realistic data Generation Using Bloomer Mock](https://dev.to/sadhna_mishra_8e2adbed214/realistic-data-generation-using-bloomer-mock-20o9)
+- [2 Ways to Stream Videos on the Frontend in FastAPI](https://dev.to/sachingeek/2-ways-to-stream-videos-on-the-frontend-in-fastapi-4oi9)
 <!-- BLOG-POST-LIST:END -->
 
