@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing a VPS/VDS Server in 2024: My TOP-4 Picks](https://dev.to/hamilldivyesh/choosing-a-vpsvds-server-in-2024-my-top-4-picks-c0d)
-- [What, Why, Types, Challanges.... ML.](https://dev.to/arung/what-why-types-challanges-ml-5eon)
-- [Scrape but Validate: Data scraping with Pydantic Validation](https://dev.to/ajitkumar/scrape-but-validate-data-scraping-with-pydantic-validation-453k)
-- [Breakthrough: Language AI Models Can Learn From Their Own Outputs, Enhancing Long-Form Reasoning](https://dev.to/mikeyoung44/breakthrough-language-ai-models-can-learn-from-their-own-outputs-enhancing-long-form-reasoning-o60)
+- [🚀 Part 2 : Unlocking the Power of Pure Functions](https://dev.to/nabil71dev/part-2-unlocking-the-power-of-pure-functions-3mp7)
+- [🚀 Introducing Chromate: Build AI Agents Easily with Ruby and the Chrome DevTools Protocol &lpar;CDP&rpar;](https://dev.to/eth3rnit3/introducing-chromate-build-ai-agents-easily-with-ruby-and-the-chrome-devtools-protocol-cdp-i04)
+- [Can Copybot AI Revolutionize Your Content?](https://dev.to/techpulse55/can-copybot-ai-revolutionize-your-content-2gbb)
+- [🔐 Understanding Ethereum ECDSA, EIP-712 and Its Role in Permit Functionality 🧾](https://dev.to/truongpx396/understanding-ethereum-ecdsa-eip-712-and-its-role-in-permit-functionality-26ll)
 <!-- BLOG-POST-LIST:END -->
 
