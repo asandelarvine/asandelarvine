@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lab 8 - CI Actions and Testing](https://dev.to/cduarte3/lab-8-24kh)
-- [Storage Solutions for a New Company App: Scalable, Secure, and Efficient](https://dev.to/unique-tea/storage-solutions-for-a-new-company-app-scalable-secure-and-efficient-45le)
-- [bkash এর পেমেন্ট গেটওয়ে তৈরী করার নিয়ম](https://dev.to/mfmuktadir/bkash-er-pementt-gettoyye-tairii-kraar-niyym-2e45)
-- [First DevOps books to read](https://dev.to/tmckiknn3/first-devops-books-to-read-2pbk)
+- [Detailed Explanation of LangChain&#39;s Prompt Component](https://dev.to/jamesli/detailed-explanation-of-langchains-prompt-component-1ohg)
+- [How To Create A Tooltip With Floating UI](https://dev.to/ewenikeemmanue4/how-to-create-a-tooltip-with-floating-ui-4m96)
+- [started figma today , learning layers and tools right now .](https://dev.to/coderkun/started-figma-today-learning-layers-and-tools-right-now--4k2n)
+- [partdec: a multipart downloader and file splitter](https://dev.to/cjijcb/partdec-a-multipart-downloader-and-file-splitter-2nf3)
 <!-- BLOG-POST-LIST:END -->
 
