@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 16 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-16-november-5ef3)
-- [My Journey Through the 2024 Kaggle X Fellowship Programme](https://dev.to/victor_isaac_king/my-journey-through-the-2024-kaggle-x-fellowship-programme-1o1e)
-- [Building a website using Markdown content with Next.js App Router and Fusionable](https://dev.to/robertobutti/building-a-website-using-markdown-content-with-nextjs-app-router-and-fusionable-4kj7)
-- [Full-Stack Software Engineer skilled in web and mobile &lpar;Co-Founder Potential&rpar;](https://dev.to/gr_ltd/full-stack-software-engineer-skilled-in-web-and-mobile-co-founder-potential-4g79)
+- [How I Supercharged Cursor Editor with Pieces and Unlimited AI?](https://dev.to/nikl/how-i-supercharged-cursor-editor-with-pieces-and-unlimited-ai-h81)
+- [How Blockchain is Revolutionizing the Internet of Things &lpar;IoT&rpar;](https://dev.to/adityabhuyan/how-blockchain-is-revolutionizing-the-internet-of-things-iot-cde)
+- [Docker Image Optimization: Reducing Size for Faster Deployments](https://dev.to/dhanu0510/docker-image-optimization-reducing-size-for-faster-deployments-489g)
+- [Docker vs. Kubernetes: Which Is Right for Your DevOps Pipeline?](https://dev.to/trinityyi/docker-vs-kubernetes-which-is-right-for-your-devops-pipeline-6h9)
 <!-- BLOG-POST-LIST:END -->
 
