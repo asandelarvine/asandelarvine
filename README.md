@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OLAP &lpar;Online Analytical Processing&rpar;](https://dev.to/mrcaption49/olap-online-analytical-processing-1m6n)
-- [Creating a TodoList with PHP and the Lithe Framework: A Complete Guide](https://dev.to/lithephp/creating-a-todolist-with-php-and-the-lithe-framework-a-complete-guide-28ho)
-- [Criando uma TodoList com PHP e o Framework Lithe: Um Guia Completo](https://dev.to/lithephp/criando-uma-todolist-com-php-e-o-framework-lithe-um-guia-completo-4hh2)
-- [Case Study: Building Tomorrow’s Products—The Secret Sauce Behind TeamStation AI](https://dev.to/teamstation/case-study-building-tomorrows-products-the-secret-sauce-behind-teamstation-ai-52bb)
+- [Categorization of Machine Learning Algorithms](https://dev.to/rohit_prasain/categorization-of-machine-learning-algorithms-15gb)
+- [Mastering Istio in Kubernetes: A Comprehensive Guide to Microservices Management](https://dev.to/alialp/mastering-istio-in-kubernetes-a-comprehensive-guide-to-microservices-management-34dk)
+- [LibTracker Updates 11/16/24: Simplify Dependency Management with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-111624-simplify-dependency-management-with-this-simple-sbom-tool-4ce2)
+- [Framer Logo Dark Mode](https://dev.to/grapplingdev/framer-logo-dark-mode-150i)
 <!-- BLOG-POST-LIST:END -->
 
