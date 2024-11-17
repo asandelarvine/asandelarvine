@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 - None Datatype &amp; input&lpar;&rpar; function in Python](https://dev.to/lakshmi_prithanadesan_32/day-4-none-datatype-input-function-in-python-36pf)
-- [Découvrez Astro : Le Framework Frontend Ultra Performant](https://dev.to/guillaumesere/decouvrez-astro-le-framework-frontend-ultra-performant-24ep)
-- [Seeking advice for my OSINT presentation 🚀](https://dev.to/perisicnikola37/seeking-advice-for-my-osint-presentation-1g19)
-- [Inside My Workflow](https://dev.to/crusty0gphr/inside-my-workflow-2b04)
+- [Write a program to EMI calculator](https://dev.to/lakshmi_prithanadesan_32/write-a-program-to-emi-calculator-317f)
+- [Someone give me a new web development project please!](https://dev.to/brandondevelops/someone-give-me-a-new-web-development-project-please-1j7i)
+- [.NET MAUI vs Avalonia: Which Cross-Platform Framework Should You Choose?](https://dev.to/empiree/net-maui-vs-avalonia-which-cross-platform-framework-should-you-choose-2ki)
+- [Just joined Google&#39;s Developer Groups -Blockchain department!](https://dev.to/adityabharti/just-joined-googles-developer-groups-blockchain-department-3hi5)
 <!-- BLOG-POST-LIST:END -->
 
