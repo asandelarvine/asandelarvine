@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Patching the Cracks](https://dev.to/neffcodes/patching-the-cracks-4f3h)
-- [Advice from Software Engineers at Google and Spotify](https://dev.to/ryoichihomma/advice-from-software-engineers-at-google-and-spotify-170n)
-- [Comprehensive Guide to JavaScript Object Property Manipulation Methods](https://dev.to/satyajitgain/comprehensive-guide-to-javascript-object-property-manipulation-methods-pii)
-- [HarmonyOS Next Ark Data Management and Distributed Database in Practice: Building an Efficient Synchronization Architecture](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-ark-data-management-and-distributed-database-in-practice-building-an-efficient-1n8a)
+- [Introduction to Big Data Analysis](https://dev.to/madgan95/introduction-to-big-data-analysis-4cg1)
+- [AWS VPC Peering: A Comprehensive Guide](https://dev.to/giasuddin90/aws-vpc-peering-a-comprehensive-guide-2nf)
+- [Enable ASP.NET 4.8 Support in IIS on Windows 11](https://dev.to/winsides/enable-aspnet-48-support-in-iis-on-windows-11-478l)
+- [Java Stream.distinct&lpar;&rpar;](https://dev.to/realnamehidden1_61/java-streamdistinct-495k)
 <!-- BLOG-POST-LIST:END -->
 
