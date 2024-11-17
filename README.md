@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source AI-powered Projects with step-by-step Tutorials.](https://dev.to/abdibrokhim/open-source-ai-powered-projects-with-step-by-step-tutorials-3h30)
-- [When Scalability Meets Spectacle: Lessons from Netflix&#39;s Tyson-Paul Fight Crash](https://dev.to/riz007/when-scalability-meets-spectacle-lessons-from-netflixs-tyson-paul-fight-crash-3m3n)
-- [Building smarter Docker Images for your development environments with Pants 🚀](https://dev.to/siddhantkcode/building-smarter-docker-images-for-your-development-environments-with-pants-51al)
-- [How I Created a Stunning Portfolio with Next.js, Tailwind CSS, and Framer Motion](https://dev.to/arishn/how-i-created-a-stunning-portfolio-with-nextjs-tailwind-css-and-framer-motion-36ja)
+- [True Alphanumeric / natural sorting in MySQL - why is the answer always recursion?](https://dev.to/grahamthedev/true-alphanumeric-natural-sorting-in-mysql-why-is-the-answer-always-recursion-2b4a)
+- [Hibernate Zoo: Жадный Гиппопотам и Ленивый Лемур &lpar;Lazy vs Eager&rpar;](https://dev.to/easycat/hibernate-zoo-zhadnyi-gippopotam-i-lienivyi-liemur-lazy-vs-eager-44eo)
+- [Mastering Spring Boot Dependency Graphs: Boost Performance and Simplify Maintenance](https://dev.to/aaravjoshi/mastering-spring-boot-dependency-graphs-boost-performance-and-simplify-maintenance-14b2)
+- [5 CSS Practices that You Should Avoid](https://dev.to/tilakjain123/5-css-practices-that-you-should-avoid-nkd)
 <!-- BLOG-POST-LIST:END -->
 
