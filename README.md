@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [True Alphanumeric / natural sorting in MySQL - why is the answer always recursion?](https://dev.to/grahamthedev/true-alphanumeric-natural-sorting-in-mysql-why-is-the-answer-always-recursion-2b4a)
-- [Hibernate Zoo: Жадный Гиппопотам и Ленивый Лемур &lpar;Lazy vs Eager&rpar;](https://dev.to/easycat/hibernate-zoo-zhadnyi-gippopotam-i-lienivyi-liemur-lazy-vs-eager-44eo)
-- [Mastering Spring Boot Dependency Graphs: Boost Performance and Simplify Maintenance](https://dev.to/aaravjoshi/mastering-spring-boot-dependency-graphs-boost-performance-and-simplify-maintenance-14b2)
-- [5 CSS Practices that You Should Avoid](https://dev.to/tilakjain123/5-css-practices-that-you-should-avoid-nkd)
+- [AI-Driven Election Security: Safeguarding Democracy in the Digital Age](https://dev.to/siddharthbhalsod/ai-driven-election-security-safeguarding-democracy-in-the-digital-age-3f0e)
+- [Analogy of mutating trigger with examples](https://dev.to/mrcaption49/analogy-of-mutating-trigger-with-examples-3n1o)
+- [Mutating trigger in Oracle SQL](https://dev.to/mrcaption49/mutating-trigger-in-oracle-sql-41he)
+- [Edit .json.gz Files Effortlessly with jgze – A Flexible CLI Tool](https://dev.to/teihenn/edit-jsongz-files-effortlessly-with-jgze-a-flexible-cli-tool-4c4k)
 <!-- BLOG-POST-LIST:END -->
 
