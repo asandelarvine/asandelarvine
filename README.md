@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Concurrent Rendering in React: How React’s Concurrent Rendering Makes Everything Smoother](https://dev.to/mukhilpadmanabhan/concurrent-rendering-in-react-how-reacts-concurrent-rendering-makes-everything-smoother-45j5)
+- [Detailed Explanation of DBMS PROFILER with its Steps](https://dev.to/mrcaption49/detailed-explanation-of-dbms-profiler-with-its-steps-2mo8)
 - [SQL*Loader in Oracle SQL](https://dev.to/mrcaption49/sqlloader-in-oracle-sql-1bek)
 - [VideoToBlogAI: Transform Your Videos Into Technical Blog Post Using AI](https://dev.to/bakkeshks/videotoblogai-transform-your-videos-into-technical-blog-post-using-ai-4b57)
-- [Cursor Tips](https://dev.to/heymarkkop/cursor-tips-10f8)
-- [Libre - OSINT CTF Writeup - Pwnedcr2024](https://dev.to/casderoso/libre-osint-ctf-writeup-pwnedcr2024-6np)
 <!-- BLOG-POST-LIST:END -->
 
