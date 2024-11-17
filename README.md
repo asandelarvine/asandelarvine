@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [msnscript2: A Language for Developers Who Dare to Think Differently](https://dev.to/masonmarker/msnscript2-a-language-for-developers-who-dare-to-think-differently-29b9)
-- [Implementing CI with GitHub Actions Workflow](https://dev.to/cleobnvntra/implementing-ci-with-github-actions-workflow-3oh4)
-- [Cómo aplicar un Well Architected Review para asegurar tu infraestructura. Cuarta parte](https://dev.to/dcastrocordero22/como-aplicar-un-well-architected-review-para-asegurar-tu-infraestructura-cuarta-parte-2844)
-- [Linux File Permissions Cheat Sheet](https://dev.to/adnanalemran/linux-file-permissions-cheat-sheet-1671)
+- [Patching the Cracks](https://dev.to/neffcodes/patching-the-cracks-4f3h)
+- [Advice from Software Engineers at Google and Spotify](https://dev.to/ryoichihomma/advice-from-software-engineers-at-google-and-spotify-170n)
+- [Comprehensive Guide to JavaScript Object Property Manipulation Methods](https://dev.to/satyajitgain/comprehensive-guide-to-javascript-object-property-manipulation-methods-pii)
+- [HarmonyOS Next Ark Data Management and Distributed Database in Practice: Building an Efficient Synchronization Architecture](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-ark-data-management-and-distributed-database-in-practice-building-an-efficient-1n8a)
 <!-- BLOG-POST-LIST:END -->
 
