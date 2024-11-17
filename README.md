@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Write a program to EMI calculator](https://dev.to/lakshmi_prithanadesan_32/write-a-program-to-emi-calculator-317f)
-- [Someone give me a new web development project please!](https://dev.to/brandondevelops/someone-give-me-a-new-web-development-project-please-1j7i)
-- [.NET MAUI vs Avalonia: Which Cross-Platform Framework Should You Choose?](https://dev.to/empiree/net-maui-vs-avalonia-which-cross-platform-framework-should-you-choose-2ki)
-- [Just joined Google&#39;s Developer Groups -Blockchain department!](https://dev.to/adityabharti/just-joined-googles-developer-groups-blockchain-department-3hi5)
+- [Create a 2D Pong Game with Rust and Bevy: A Step-by-Step Guide](https://dev.to/trish_07/create-a-2d-pong-game-with-rust-and-bevy-a-step-by-step-guide-1dbk)
+- [Learning Python: A Game-Changing Interactive Guide for Aspiring Programmers](https://dev.to/getvm/learning-python-a-game-changing-interactive-guide-for-aspiring-programmers-2oc1)
+- [Linux User Management - a comprehensive guide](https://dev.to/shanikr/linux-user-management-a-comprehensive-guide-3hjg)
+- [Building a tiny type-safe typescript ECS &lpar;Entity-component-system&rpar;](https://dev.to/trymnilsen/building-a-tiny-type-safe-typescript-ecs-entity-component-system-dil)
 <!-- BLOG-POST-LIST:END -->
 
