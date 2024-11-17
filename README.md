@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Sensitive Information in Automated Processes](https://dev.to/sebos/handling-sensitive-information-in-automated-processes-3inm)
-- [Why eval&lpar;&rpar; Could Be Your JavaScript Code&#39;s Worst Enemy](https://dev.to/mrsupercraft/why-eval-could-be-your-javascript-codes-worst-enemy-i7p)
-- [Mathematical Foundation for Whirlwind Pattern Generation](https://dev.to/bclonan/mathematical-foundation-for-whirlwind-pattern-generation-4j7g)
-- [Mastering Go&#39;s Advanced Concurrency: Boost Your Code&#39;s Power and Performance](https://dev.to/aaravjoshi/mastering-gos-advanced-concurrency-boost-your-codes-power-and-performance-5hm7)
+- [How to Use Axios Interceptors to Handle API Error Responses](https://dev.to/shieldstring/how-to-use-axios-interceptors-to-handle-api-error-responses-2gn1)
+- [10 años participando en DevFest!](https://dev.to/jorgeucano/10-anos-participando-en-devfest-5hne)
+- [Overfitting vs Underfitting](https://dev.to/hyperkai/overfitting-vs-underfitting-33i8)
+- [✅ASP.NET Core API Gateway with Ocelot Part 4 &lpar;Rate Limiting&rpar;](https://dev.to/dot_nettips_a4e90828daa4/aspnet-core-api-gateway-with-ocelot-part-4-rate-limiting-4ia1)
 <!-- BLOG-POST-LIST:END -->
 
