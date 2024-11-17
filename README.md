@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Application Downloads in Local bolt.new](https://dev.to/m_sea_bass/enabling-application-downloads-in-local-boltnew-22i5)
-- [Modify the local bolt.new interface to allow input of the API key](https://dev.to/m_sea_bass/modify-the-local-boltnew-interface-to-allow-input-of-the-api-key-45hd)
-- [How Qubits are physically implemented?](https://dev.to/thisisanshgupta/how-qubits-are-physically-implemented-5bd9)
-- [ROWNUM vs ROW_NUMBER in Oracle](https://dev.to/mrcaption49/rownum-vs-rownumber-in-oracle-5aaf)
+- [Python Decorators: More Understanding into Functionality Enhancement](https://dev.to/aishwarya_raj_978520e6399/python-decorators-more-understanding-into-functionality-enhancement-4bj0)
+- [Configure tanstack router into vite project with authenticate routes, active routes.](https://dev.to/khalid7487/configure-tanstack-router-into-vite-project-with-authenticate-routes-active-routes-2463)
+- [Understanding call, apply, and bind in JavaScript](https://dev.to/sangeeth_p_a1f93f8e09aa9e/understanding-call-apply-and-bind-in-javascript-3cp6)
+- [Prevent SQL Injection in RESTful APIs: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-sql-injection-in-restful-apis-a-comprehensive-guide-5e6)
 <!-- BLOG-POST-LIST:END -->
 
