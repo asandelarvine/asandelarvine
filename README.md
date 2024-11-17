@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Wi-Fi Hacking: Cracking WPA3 and Modern Wireless Security](https://dev.to/trixsec/advanced-wi-fi-hacking-cracking-wpa3-and-modern-wireless-security-1mg7)
-- [Move Zeroes to the End of an Array: A Practical Guide](https://dev.to/rk042/move-zeroes-to-the-end-of-an-array-a-practical-guide-2bfl)
-- [Introducing Helm CEL: A More Expressive Way to Validate Your Helm Charts](https://dev.to/idsulik/introducing-helm-cel-a-more-expressive-way-to-validate-your-helm-charts-2kcb)
-- [Learn Cypress with easy steps](https://dev.to/tejas_singh_2961ac9fb547f/learn-cypress-with-easy-steps-2jdp)
+- [How to Delete Accounts in Windows 11? Easy Guide!](https://dev.to/win11verse/how-to-delete-accounts-in-windows-11-easy-guide-3f1)
+- [Audio to Text Application using AssemblyAi](https://dev.to/suvoji01/audio-to-text-application-using-assemblyai-1pnf)
+- [10 Must-Know Tips for New Web Developers Entering the Backend World](https://dev.to/ayusharpcoder/10-must-know-tips-for-new-web-developers-entering-the-backend-world-m52)
+- [Usage of Node.js Cluster vs Worker](https://dev.to/sangeeth_raj/usage-of-nodejs-cluster-vs-worker-4fdf)
 <!-- BLOG-POST-LIST:END -->
 
