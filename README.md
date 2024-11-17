@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Delete Accounts in Windows 11? Easy Guide!](https://dev.to/win11verse/how-to-delete-accounts-in-windows-11-easy-guide-3f1)
-- [Audio to Text Application using AssemblyAi](https://dev.to/suvoji01/audio-to-text-application-using-assemblyai-1pnf)
-- [10 Must-Know Tips for New Web Developers Entering the Backend World](https://dev.to/ayusharpcoder/10-must-know-tips-for-new-web-developers-entering-the-backend-world-m52)
-- [Usage of Node.js Cluster vs Worker](https://dev.to/sangeeth_raj/usage-of-nodejs-cluster-vs-worker-4fdf)
+- [Enabling Application Downloads in Local bolt.new](https://dev.to/m_sea_bass/enabling-application-downloads-in-local-boltnew-22i5)
+- [Modify the local bolt.new interface to allow input of the API key](https://dev.to/m_sea_bass/modify-the-local-boltnew-interface-to-allow-input-of-the-api-key-45hd)
+- [How Qubits are physically implemented?](https://dev.to/thisisanshgupta/how-qubits-are-physically-implemented-5bd9)
+- [ROWNUM vs ROW_NUMBER in Oracle](https://dev.to/mrcaption49/rownum-vs-rownumber-in-oracle-5aaf)
 <!-- BLOG-POST-LIST:END -->
 
