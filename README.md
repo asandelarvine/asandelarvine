@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to design custom product labels and badges | Shopify](https://dev.to/saadsaif97/how-to-design-custom-product-labels-and-badges-shopify-jj)
-- [🦄Mastering React DOM Manipulation💙](https://dev.to/vaishnavi_sonawane/mastering-react-dom-manipulation-40m5)
-- [Should You Try Azure Virtual Desktop? Here’s the Simple Breakdown](https://dev.to/mahrukh_adeel/should-you-try-azure-virtual-desktop-heres-the-simple-breakdown-1ka9)
-- [angular-rbac the RBAC lightweight library for your next Angular projects](https://dev.to/fatehmohamed14/angular-rbac-the-rbac-lightweight-library-for-your-next-angular-projects-172g)
+- [Libre - OSINT CTF Writeup - Pwnedcr2024](https://dev.to/casderoso/libre-osint-ctf-writeup-pwnedcr2024-6np)
+- [Insertion Sort](https://dev.to/harsh_bhardwaj_809a89d3a7/insertion-sort-335e)
+- [Setup Eslint Prettier in a TypeScript project with mongoose ODM](https://dev.to/rashedul_islam_rajj/setup-eslint-prettier-in-a-typescript-project-with-mongoose-odm-3j78)
+- [FP &gt; OO](https://dev.to/john_mitchell_4185d0dd9ed/fp-oo-2hej)
 <!-- BLOG-POST-LIST:END -->
 
