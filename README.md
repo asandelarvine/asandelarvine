@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Big Data Analysis](https://dev.to/madgan95/introduction-to-big-data-analysis-4cg1)
-- [AWS VPC Peering: A Comprehensive Guide](https://dev.to/giasuddin90/aws-vpc-peering-a-comprehensive-guide-2nf)
-- [Enable ASP.NET 4.8 Support in IIS on Windows 11](https://dev.to/winsides/enable-aspnet-48-support-in-iis-on-windows-11-478l)
-- [Java Stream.distinct&lpar;&rpar;](https://dev.to/realnamehidden1_61/java-streamdistinct-495k)
+- [Advanced Wi-Fi Hacking: Cracking WPA3 and Modern Wireless Security](https://dev.to/trixsec/advanced-wi-fi-hacking-cracking-wpa3-and-modern-wireless-security-1mg7)
+- [Move Zeroes to the End of an Array: A Practical Guide](https://dev.to/rk042/move-zeroes-to-the-end-of-an-array-a-practical-guide-2bfl)
+- [Introducing Helm CEL: A More Expressive Way to Validate Your Helm Charts](https://dev.to/idsulik/introducing-helm-cel-a-more-expressive-way-to-validate-your-helm-charts-2kcb)
+- [Learn Cypress with easy steps](https://dev.to/tejas_singh_2961ac9fb547f/learn-cypress-with-easy-steps-2jdp)
 <!-- BLOG-POST-LIST:END -->
 
