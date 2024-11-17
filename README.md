@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevEarn: A Vision for the Future of Programming with Crypto Rewards](https://dev.to/gladiatorsbattle/devearn-a-vision-for-the-future-of-programming-with-crypto-rewards-1k5o)
-- [Javascript listeners click bait](https://dev.to/loveliberty/javascript-listeners-click-bait-39k3)
-- [Exciting News: Introducing the Filament Form Builder Handbook! 🚀](https://dev.to/andreiabohner/exciting-news-introducing-the-filament-form-builder-handbook-566i)
-- [How Access to Knowledge Makes You a Better Developer](https://dev.to/jadeljerdy/how-access-to-knowledge-makes-you-a-better-developer-968)
+- [msnscript2: A Language for Developers Who Dare to Think Differently](https://dev.to/masonmarker/msnscript2-a-language-for-developers-who-dare-to-think-differently-29b9)
+- [Implementing CI with GitHub Actions Workflow](https://dev.to/cleobnvntra/implementing-ci-with-github-actions-workflow-3oh4)
+- [Cómo aplicar un Well Architected Review para asegurar tu infraestructura. Cuarta parte](https://dev.to/dcastrocordero22/como-aplicar-un-well-architected-review-para-asegurar-tu-infraestructura-cuarta-parte-2844)
+- [Linux File Permissions Cheat Sheet](https://dev.to/adnanalemran/linux-file-permissions-cheat-sheet-1671)
 <!-- BLOG-POST-LIST:END -->
 
