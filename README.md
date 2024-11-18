@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 WebSocket Testing Tools for Real-Time Apps &lpar;Updated 2024&rpar;](https://dev.to/therealmrmumba/top-10-websocket-testing-tools-for-real-time-apps-updated-2024-1egc)
-- [API Testing Tools Comparison: Postman vs Hoppscotch Showdown](https://dev.to/patrick_61cbc6392b72286f6/api-testing-tools-comparison-postman-vs-hoppscotch-showdown-16db)
-- [How to Work with AWS Lambda Layers Using AWS CDK with TypeScript](https://dev.to/wallacefreitas/how-to-work-with-aws-lambda-layers-using-aws-cdk-with-typescript-2jo7)
-- [Three Tier Architecture. Overview and Each tier explained.](https://dev.to/bkhebert/three-tier-architecture-overview-and-each-tier-explained-3j96)
+- [JavaScript SECRETS: Become a coding wizard!](https://dev.to/perisicnikola37/javascript-secrets-become-a-coding-wizard-1338)
+- [What are your goals for week 47 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-47-of-2024-513l)
+- [Production-Ready Terraform Module for Seamless Disaster Recovery: Primary and Secondary Clusters with Zero Downtime](https://dev.to/aidudo/production-ready-terraform-module-for-seamless-disaster-recovery-primary-and-secondary-clusters-5an4)
+- [Questions Recognition System using NLP-BERT from Un-labeled Data](https://dev.to/atifwattoo/questions-recognition-system-using-nlp-bert-from-un-labeled-data-3875)
 <!-- BLOG-POST-LIST:END -->
 
