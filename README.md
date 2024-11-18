@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript VS WebForms Core Technology](https://dev.to/elanatframework/javascript-vs-webforms-core-technology-4eek)
-- [What goes after Serverless? I&#39;m looking for a new buzzword.](https://dev.to/aws-builders/what-goes-after-serverless-im-looking-for-a-new-buzzword-2fff)
-- [How to debug Lambda to ec2 - AWS policy?](https://dev.to/inspiraller/how-to-debug-lambda-to-ec2-aws-policy-3bl4)
-- [🚀 The Journey to Sitecore CMS: A Complex Content Migration](https://dev.to/kmataru/the-journey-to-sitecore-cms-a-complex-content-migration-4kd4)
+- [Day 68-70. Theme switcher](https://dev.to/kiolk/day-68-70-theme-switcher-265k)
+- [Create a Relational Database Application](https://dev.to/asi_security/create-a-relational-database-application-56p3)
+- [AgentQL Launch Week Recap—make the web AI-ready](https://dev.to/nearestnabors/agentql-launch-week-recap-make-the-web-ai-ready-86b)
+- [Login system with JWT token and email reset password](https://dev.to/mspilari/login-system-with-jwt-token-and-email-reset-password-571)
 <!-- BLOG-POST-LIST:END -->
 
