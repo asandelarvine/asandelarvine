@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💫🔷Mastering Git &amp; GitHub Level Up Your Collaboration and Version Control Skills✌️](https://dev.to/vaishnavi_sonawane/mastering-git-githublevel-up-your-collaboration-and-version-control-skills-5f3m)
-- [🗂️ Monorepo vs. Polyrepo: Choosing the Right Strategy for Your Projects 🚀](https://dev.to/hamzakhan/monorepo-vs-polyrepo-choosing-the-right-strategy-for-your-projects-5eb3)
-- [Why Security Testing is Crucial for Businesses in the USA](https://dev.to/diginatives/why-security-testing-is-crucial-for-businesses-in-the-usa-4omd)
-- [Host Nextjs 14 Application on cPanel](https://dev.to/hasanulhaquebanna/host-nextjs-14-application-on-cpanel-2cig)
+- [Next.js Deployment using ECS with Fargate](https://dev.to/redrobotdev/nextjs-deployment-using-ecs-with-fargate-2cno)
+- [De Next.js a React Edge com Cloudflare Workers: Uma História de Libertação](https://dev.to/feliperohdee/de-nextjs-a-react-edge-com-cloudflare-workers-uma-historia-de-libertacao-1ado)
+- [From Next.js to React Edge with Cloudflare Workers: A Story of Liberation](https://dev.to/feliperohdee/from-nextjs-to-react-edge-with-cloudflare-workers-a-story-of-liberation-496o)
+- [💡 What&#39;s new in txtai 8.0](https://dev.to/neuml/whats-new-in-txtai-80-50ia)
 <!-- BLOG-POST-LIST:END -->
 
