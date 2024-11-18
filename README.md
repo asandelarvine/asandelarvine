@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No nací para esto.](https://dev.to/fedatu/no-naci-para-esto-3fg0)
-- [Hypotonic Spiral illusion video using html css and java](https://dev.to/prince_beec5ccde00b7c6c73/hypotonic-spiral-illusion-video-using-html-css-and-java-4cdd)
-- [Hypnotic Spiral illusion using html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/hypnotic-spiral-illusion-using-html-css-and-javascript-55l6)
-- [Lessons Learned: App crash since caches go wrong](https://dev.to/vukhanhtruong/lessons-learned-app-crash-since-caches-go-wrong-2odf)
+- [A Step by Step Guide on How to Migrate from AWS to Azure](https://dev.to/brilworks/a-step-by-step-guide-on-how-to-migrate-from-aws-to-azure-5bi5)
+- [在大陆下载huggingface模型](https://dev.to/second/zai-da-lu-xia-zai-huggingfacemo-xing-5fba)
+- [SimplySocket: A Lightweight WebSocket Wrapper for Go](https://dev.to/dhruvikdonga/simplysocket-a-lightweight-websocket-wrapper-for-go-4pnl)
+- [Using Lambda Expressions Doesn&#39;t Make Your C# Code Functional](https://dev.to/canro91/using-lambda-expressions-doesnt-make-your-c-code-functional-2hn7)
 <!-- BLOG-POST-LIST:END -->
 
