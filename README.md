@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s New in Copilot Studio: November Highlights](https://dev.to/thelalitblogs/whats-new-in-copilot-studio-november-highlights-94k)
-- [Understanding Remote Access for iPads](https://dev.to/davidjonson/understanding-remote-access-for-ipads-3fel)
-- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-3d2c)
-- [Getting Started with Redux](https://dev.to/bilalkhanio/getting-started-with-redux-m0k)
+- [Dataverse Security Roles](https://dev.to/wyattdave/dataverse-security-roles-1nmo)
+- [Prometheus 3.0: A Quantum Leap in Monitoring](https://dev.to/graphpe/prometheus-30-a-quantum-leap-in-monitoring-30ea)
+- [Chat Application with Spring boot And React JS](https://dev.to/himanshu_singh_0e86632da5/chat-application-with-spring-boot-and-react-js-5g5e)
+- [The setApplicationContext method execution issue of the applicationContextAware interface and failed to get Spring beans](https://dev.to/leozhao/the-setapplicationcontext-method-execution-issue-of-the-applicationcontextaware-interface-and-172p)
 <!-- BLOG-POST-LIST:END -->
 
