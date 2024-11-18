@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a Great First impression with best Ats Friendly Resume](https://dev.to/rajashekarks/make-a-great-first-impression-with-best-ats-friendly-resume-350c)
-- [Understanding Cloud Computing Deployment Models and Their Benefits](https://dev.to/bansikah/understanding-cloud-computing-deployment-models-and-their-benefits-17kd)
-- [Why You Should Use Semantic HTML &lpar;1 Minute Guide&rpar;](https://dev.to/itamartati/why-you-should-use-semantic-html-1-minute-guide-3obl)
-- [Boost Your Productivity: React.js Is Magic: How It Changed the Game for Developers 🎩✨](https://dev.to/sharma572/boost-your-productivity-reactjs-is-magic-how-it-changed-the-game-for-developers-2lpi)
+- [Getting Started with Chatbot Development Using Node.js and Machine Learning.](https://dev.to/himbaza123h/getting-started-with-chatbot-development-using-nodejs-and-machine-learning-2754)
+- [JavaScript et Objets : Des Fondations aux Cas Pratiques Avancés](https://dev.to/guillaumesere/javascript-et-objets-des-fondations-aux-cas-pratiques-avances-4kpk)
+- [Could the Netflix App Handle Jake Paul vs. Mike Tyson Fight with Load Testing?](https://dev.to/prime_qasolutions_d99d24/could-the-netflix-app-handle-jake-paul-vs-mike-tyson-fight-with-load-testing-3fo)
+- [How to fix git repository initialization](https://dev.to/labex/how-to-fix-git-repository-initialization-ili)
 <!-- BLOG-POST-LIST:END -->
 
