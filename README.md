@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma Simples Tela Criada Usando UIKit/ViewCode e Flutter](https://dev.to/felcarv01/uma-simples-tela-criada-usando-uikitviewcode-e-flutter-2n9b)
-- [ALLAIS: Create UI for React Svelte and Vue](https://dev.to/geokala/allais-create-ui-for-react-svelte-and-vue-378a)
-- [The delegatecall Function in Solidity](https://dev.to/ayoashy/the-delegatecall-function-in-solidity-1pol)
-- [The delegatecall Function in Solidity](https://dev.to/ayoashy/the-delegatecall-function-in-solidity-ogo)
+- [TypeScript vs. JavaScript: Which One Is Better?](https://dev.to/parthprajapatispan/typescript-vs-javascript-which-one-is-better-12n3)
+- [Simplifying HR Compliance: A Deep Dive into TechServe Alliance’s Compliance HR Portal](https://dev.to/rocket_blogger/simplifying-hr-compliance-a-deep-dive-into-techserve-alliances-compliance-hr-portal-2hda)
+- [Simplify Kubernetes Resource Management with KRO by AWS](https://dev.to/aws-builders/simplify-kubernetes-resource-management-with-kro-by-aws-3egk)
+- [Découvrez la qualité de l&#39;air avec l&#39;API Air Visual 🌍💨](https://dev.to/guillaumesere/decouvrez-la-qualite-de-lair-avec-lapi-air-visual-4861)
 <!-- BLOG-POST-LIST:END -->
 
