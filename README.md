@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step by Step Guide on How to Migrate from AWS to Azure](https://dev.to/brilworks/a-step-by-step-guide-on-how-to-migrate-from-aws-to-azure-5bi5)
-- [在大陆下载huggingface模型](https://dev.to/second/zai-da-lu-xia-zai-huggingfacemo-xing-5fba)
-- [SimplySocket: A Lightweight WebSocket Wrapper for Go](https://dev.to/dhruvikdonga/simplysocket-a-lightweight-websocket-wrapper-for-go-4pnl)
-- [Using Lambda Expressions Doesn&#39;t Make Your C# Code Functional](https://dev.to/canro91/using-lambda-expressions-doesnt-make-your-c-code-functional-2hn7)
+- [What’s New in Copilot Studio: November Highlights](https://dev.to/thelalitblogs/whats-new-in-copilot-studio-november-highlights-94k)
+- [Understanding Remote Access for iPads](https://dev.to/davidjonson/understanding-remote-access-for-ipads-3fel)
+- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-3d2c)
+- [Getting Started with Redux](https://dev.to/bilalkhanio/getting-started-with-redux-m0k)
 <!-- BLOG-POST-LIST:END -->
 
