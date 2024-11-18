@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Chatbot Development Using Node.js and Machine Learning.](https://dev.to/himbaza123h/getting-started-with-chatbot-development-using-nodejs-and-machine-learning-2754)
-- [JavaScript et Objets : Des Fondations aux Cas Pratiques Avancés](https://dev.to/guillaumesere/javascript-et-objets-des-fondations-aux-cas-pratiques-avances-4kpk)
-- [Could the Netflix App Handle Jake Paul vs. Mike Tyson Fight with Load Testing?](https://dev.to/prime_qasolutions_d99d24/could-the-netflix-app-handle-jake-paul-vs-mike-tyson-fight-with-load-testing-3fo)
-- [How to fix git repository initialization](https://dev.to/labex/how-to-fix-git-repository-initialization-ili)
+- [Uma Simples Tela Criada Usando UIKit/ViewCode e Flutter](https://dev.to/felcarv01/uma-simples-tela-criada-usando-uikitviewcode-e-flutter-2n9b)
+- [ALLAIS: Create UI for React Svelte and Vue](https://dev.to/geokala/allais-create-ui-for-react-svelte-and-vue-378a)
+- [The delegatecall Function in Solidity](https://dev.to/ayoashy/the-delegatecall-function-in-solidity-1pol)
+- [The delegatecall Function in Solidity](https://dev.to/ayoashy/the-delegatecall-function-in-solidity-ogo)
 <!-- BLOG-POST-LIST:END -->
 
