@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 68-70. Theme switcher](https://dev.to/kiolk/day-68-70-theme-switcher-265k)
-- [Create a Relational Database Application](https://dev.to/asi_security/create-a-relational-database-application-56p3)
-- [AgentQL Launch Week Recap—make the web AI-ready](https://dev.to/nearestnabors/agentql-launch-week-recap-make-the-web-ai-ready-86b)
-- [Login system with JWT token and email reset password](https://dev.to/mspilari/login-system-with-jwt-token-and-email-reset-password-571)
+- [Documenting Your .NET Web API with Swagger: The Fun Guide](https://dev.to/zrebhi/documenting-your-net-web-api-with-swagger-the-fun-guide-5dok)
+- [Svelte Counter I made to understand runes](https://dev.to/elidvenega/svelte-counter-i-made-to-understand-runes-a49)
+- [New node module &lpar;NPM&rpar; for data analyse with mongodb](https://dev.to/thorlex/new-node-module-npm-for-data-analyse-with-mongodb-11gd)
+- [Implementing Gmail Sending with Cloudflare Workers - Setup Guide](https://dev.to/roboword/implementing-gmail-sending-with-cloudflare-workers-setup-guide-he0)
 <!-- BLOG-POST-LIST:END -->
 
