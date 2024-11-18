@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs. JavaScript: Which One Is Better?](https://dev.to/parthprajapatispan/typescript-vs-javascript-which-one-is-better-12n3)
-- [Simplifying HR Compliance: A Deep Dive into TechServe Alliance’s Compliance HR Portal](https://dev.to/rocket_blogger/simplifying-hr-compliance-a-deep-dive-into-techserve-alliances-compliance-hr-portal-2hda)
-- [Simplify Kubernetes Resource Management with KRO by AWS](https://dev.to/aws-builders/simplify-kubernetes-resource-management-with-kro-by-aws-3egk)
-- [Découvrez la qualité de l&#39;air avec l&#39;API Air Visual 🌍💨](https://dev.to/guillaumesere/decouvrez-la-qualite-de-lair-avec-lapi-air-visual-4861)
+- [Type Coercion in JavaScript Explained](https://dev.to/devshefali/type-coercion-in-javascript-explained-3poo)
+- [An Anti-Pattern to get UIWindowScene](https://dev.to/matsuji/an-anti-pattern-to-get-uiwindowscene-1j54)
+- [The Role of JSON in APIs](https://dev.to/riyasharma028/the-role-of-json-in-apis-4f43)
+- [Optimizing External Libraries with the defer Attribute: Boosting Page Speed](https://dev.to/mahasun/optimizing-external-libraries-with-the-defer-attribute-boosting-page-speed-agf)
 <!-- BLOG-POST-LIST:END -->
 
