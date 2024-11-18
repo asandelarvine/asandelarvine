@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dataverse Security Roles](https://dev.to/wyattdave/dataverse-security-roles-1nmo)
-- [Prometheus 3.0: A Quantum Leap in Monitoring](https://dev.to/graphpe/prometheus-30-a-quantum-leap-in-monitoring-30ea)
-- [Chat Application with Spring boot And React JS](https://dev.to/himanshu_singh_0e86632da5/chat-application-with-spring-boot-and-react-js-5g5e)
-- [The setApplicationContext method execution issue of the applicationContextAware interface and failed to get Spring beans](https://dev.to/leozhao/the-setapplicationcontext-method-execution-issue-of-the-applicationcontextaware-interface-and-172p)
+- [&quot;Bridging Vision and Execution: The Power of Corporate Communication&quot;](https://dev.to/shraddha_jamdar_79ae0e28d/bridging-vision-and-execution-the-power-of-corporate-communication-59ne)
+- [The &quot;Reimagine This Challenge&quot; – Push Your Creativity and Rebuild Classic Projects with a Twist!](https://dev.to/rose_michelle/the-reimagine-this-challenge-push-your-creativity-and-rebuild-classic-projects-with-a-twist-1o8e)
+- [python session day 4 at payilagam none data type and input&lpar;&rpar;function in python](https://dev.to/kuhanraja_ar_1df623b8e2e/python-session-day-4-at-payilagam-none-data-type-and-inputfunction-in-python-3akc)
+- [ReAct vs Plan-and-Execute: A Practical Comparison of LLM Agent Patterns](https://dev.to/jamesli/react-vs-plan-and-execute-a-practical-comparison-of-llm-agent-patterns-4gh9)
 <!-- BLOG-POST-LIST:END -->
 
