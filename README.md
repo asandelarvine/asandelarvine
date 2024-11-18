@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Bridging Vision and Execution: The Power of Corporate Communication&quot;](https://dev.to/shraddha_jamdar_79ae0e28d/bridging-vision-and-execution-the-power-of-corporate-communication-59ne)
-- [The &quot;Reimagine This Challenge&quot; – Push Your Creativity and Rebuild Classic Projects with a Twist!](https://dev.to/rose_michelle/the-reimagine-this-challenge-push-your-creativity-and-rebuild-classic-projects-with-a-twist-1o8e)
-- [python session day 4 at payilagam none data type and input&lpar;&rpar;function in python](https://dev.to/kuhanraja_ar_1df623b8e2e/python-session-day-4-at-payilagam-none-data-type-and-inputfunction-in-python-3akc)
-- [ReAct vs Plan-and-Execute: A Practical Comparison of LLM Agent Patterns](https://dev.to/jamesli/react-vs-plan-and-execute-a-practical-comparison-of-llm-agent-patterns-4gh9)
+- [Make a Great First impression with best Ats Friendly Resume](https://dev.to/rajashekarks/make-a-great-first-impression-with-best-ats-friendly-resume-350c)
+- [Understanding Cloud Computing Deployment Models and Their Benefits](https://dev.to/bansikah/understanding-cloud-computing-deployment-models-and-their-benefits-17kd)
+- [Why You Should Use Semantic HTML &lpar;1 Minute Guide&rpar;](https://dev.to/itamartati/why-you-should-use-semantic-html-1-minute-guide-3obl)
+- [Boost Your Productivity: React.js Is Magic: How It Changed the Game for Developers 🎩✨](https://dev.to/sharma572/boost-your-productivity-reactjs-is-magic-how-it-changed-the-game-for-developers-2lpi)
 <!-- BLOG-POST-LIST:END -->
 
