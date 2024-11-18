@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wild, Weird, and Secure: SecureWV 2024&#39;s Cryptid-Themed Conference](https://dev.to/gitguardian/wild-weird-and-secure-securewv-2024s-cryptid-themed-conference-5cld)
-- [Lagoon v2.22: Enhanced Security, Performance, and Service Types](https://dev.to/laurenhasthree/lagoon-v222-enhanced-security-performance-and-service-types-2l5e)
-- [LLM + Mermaid: How Modern Teams Create UML Diagrams Without Lucidchart](https://dev.to/mike-vincent/llm-mermaid-how-modern-teams-create-uml-diagrams-without-lucidchart-2mbm)
-- [loops, for, while.](https://dev.to/rivojiddin_f9740e8fb02701/loops-for-while-3gnj)
+- [Top 10 WebSocket Testing Tools for Real-Time Apps &lpar;Updated 2024&rpar;](https://dev.to/therealmrmumba/top-10-websocket-testing-tools-for-real-time-apps-updated-2024-1egc)
+- [API Testing Tools Comparison: Postman vs Hoppscotch Showdown](https://dev.to/patrick_61cbc6392b72286f6/api-testing-tools-comparison-postman-vs-hoppscotch-showdown-16db)
+- [How to Work with AWS Lambda Layers Using AWS CDK with TypeScript](https://dev.to/wallacefreitas/how-to-work-with-aws-lambda-layers-using-aws-cdk-with-typescript-2jo7)
+- [Three Tier Architecture. Overview and Each tier explained.](https://dev.to/bkhebert/three-tier-architecture-overview-and-each-tier-explained-3j96)
 <!-- BLOG-POST-LIST:END -->
 
