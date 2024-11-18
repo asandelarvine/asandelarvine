@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Deployment using ECS with Fargate](https://dev.to/redrobotdev/nextjs-deployment-using-ecs-with-fargate-2cno)
-- [De Next.js a React Edge com Cloudflare Workers: Uma História de Libertação](https://dev.to/feliperohdee/de-nextjs-a-react-edge-com-cloudflare-workers-uma-historia-de-libertacao-1ado)
-- [From Next.js to React Edge with Cloudflare Workers: A Story of Liberation](https://dev.to/feliperohdee/from-nextjs-to-react-edge-with-cloudflare-workers-a-story-of-liberation-496o)
-- [💡 What&#39;s new in txtai 8.0](https://dev.to/neuml/whats-new-in-txtai-80-50ia)
+- [JavaScript VS WebForms Core Technology](https://dev.to/elanatframework/javascript-vs-webforms-core-technology-4eek)
+- [What goes after Serverless? I&#39;m looking for a new buzzword.](https://dev.to/aws-builders/what-goes-after-serverless-im-looking-for-a-new-buzzword-2fff)
+- [How to debug Lambda to ec2 - AWS policy?](https://dev.to/inspiraller/how-to-debug-lambda-to-ec2-aws-policy-3bl4)
+- [🚀 The Journey to Sitecore CMS: A Complex Content Migration](https://dev.to/kmataru/the-journey-to-sitecore-cms-a-complex-content-migration-4kd4)
 <!-- BLOG-POST-LIST:END -->
 
