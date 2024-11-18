@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Documenting Your .NET Web API with Swagger: The Fun Guide](https://dev.to/zrebhi/documenting-your-net-web-api-with-swagger-the-fun-guide-5dok)
-- [Svelte Counter I made to understand runes](https://dev.to/elidvenega/svelte-counter-i-made-to-understand-runes-a49)
-- [New node module &lpar;NPM&rpar; for data analyse with mongodb](https://dev.to/thorlex/new-node-module-npm-for-data-analyse-with-mongodb-11gd)
-- [Implementing Gmail Sending with Cloudflare Workers - Setup Guide](https://dev.to/roboword/implementing-gmail-sending-with-cloudflare-workers-setup-guide-he0)
+- [How to Enable or Disable an Account in Windows 11?](https://dev.to/win11verse/how-to-enable-or-disable-an-account-in-windows-11-2p3b)
+- [The Hidden Cost of True Leadership: A Twenty-Year Journey in the Trenches](https://dev.to/adnansmajlovic/the-hidden-cost-of-true-leadership-a-twenty-year-journey-in-the-trenches-47p0)
+- [Introduction to Chaos Engineering and LitmusChaos](https://dev.to/asi_security/introduction-to-chaos-engineering-and-litmuschaos-2non)
+- [Rust Threads safety: Uma comparação com C.](https://dev.to/z4nder/rust-threads-safety-uma-comparacao-com-c-1a8h)
 <!-- BLOG-POST-LIST:END -->
 
