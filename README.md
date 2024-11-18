@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning GO : 09 - Packages](https://dev.to/gaurav444/learning-go-09-packages-aji)
-- [Simplifying Package Distribution with setuptools and pyproject.toml](https://dev.to/fadingna/simplifying-package-distribution-with-setuptools-and-pyprojecttoml-38in)
-- [Building Intelligent LLM Applications with Conditional Chains - A Deep Dive](https://dev.to/jamesli/building-intelligent-llm-applications-with-conditional-chains-a-deep-dive-430a)
-- [Protocolo BGP ejemplo](https://dev.to/aleets_vaaz/protocolo-bgp-ejemplo-c59)
+- [No nací para esto.](https://dev.to/fedatu/no-naci-para-esto-3fg0)
+- [Hypotonic Spiral illusion video using html css and java](https://dev.to/prince_beec5ccde00b7c6c73/hypotonic-spiral-illusion-video-using-html-css-and-java-4cdd)
+- [Hypnotic Spiral illusion using html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/hypnotic-spiral-illusion-using-html-css-and-javascript-55l6)
+- [Lessons Learned: App crash since caches go wrong](https://dev.to/vukhanhtruong/lessons-learned-app-crash-since-caches-go-wrong-2odf)
 <!-- BLOG-POST-LIST:END -->
 
