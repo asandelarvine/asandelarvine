@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS String to Kotlin ByteArray Performance Analysis](https://dev.to/arsenikavalchuk/ios-string-to-kotlin-bytearray-performance-analysis-4edi)
-- [The World of HarmonyOS Programming: Advantages of Asynchronous Programming and the Application of Promise](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-advantages-of-asynchronous-programming-and-the-application-of-3dh3)
-- [Capítulo 3 - Almacenamiento y Acceso a Datos](https://dev.to/pabloar/capitulo-3-almacenamiento-y-acceso-a-datos-84d)
-- [鸿蒙编程江湖：异步编程的优势及 Promise的应用](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-yi-bu-bian-cheng-de-you-shi-ji-promisede-ying-yong-4pkp)
+- [Learning GO : 09 - Packages](https://dev.to/gaurav444/learning-go-09-packages-aji)
+- [Simplifying Package Distribution with setuptools and pyproject.toml](https://dev.to/fadingna/simplifying-package-distribution-with-setuptools-and-pyprojecttoml-38in)
+- [Building Intelligent LLM Applications with Conditional Chains - A Deep Dive](https://dev.to/jamesli/building-intelligent-llm-applications-with-conditional-chains-a-deep-dive-430a)
+- [Protocolo BGP ejemplo](https://dev.to/aleets_vaaz/protocolo-bgp-ejemplo-c59)
 <!-- BLOG-POST-LIST:END -->
 
