@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is inside Rate Limiting for .NET](https://dev.to/ilya-chumakov/what-is-inside-rate-limiting-for-net-58n7)
-- [Open Source is For Everyone: First Experience in Non-Code Contribution to Mautic during Hacktoberfest 2024](https://dev.to/adiatiayu/open-source-is-for-everyone-first-experience-in-non-code-contribution-to-mautic-during-4oph)
-- [Free Testing Tools for API Testing](https://dev.to/keploy/free-testing-tools-for-api-testing-5lm)
-- [Mastering Lombok: Clean and Efficient Java Code Simplification](https://dev.to/igventurelli/mastering-lombok-clean-and-efficient-java-code-simplification-42a3)
+- [Exploring dev.to&#39;s Hidden Features: Upload a Video. What?](https://dev.to/radchenko/exploring-devtos-hidden-features-upload-a-video-what-3hh2)
+- [Stop Fighting with Media Queries! Use CSS Container Queries Instead](https://dev.to/amaresh_adak/stop-fighting-with-media-queries-use-css-container-queries-instead-1jjf)
+- [Implementing Continuous Deployment with Docker and Kubernetes](https://dev.to/therealmrmumba/implementing-continuous-deployment-with-docker-and-kubernetes-45mm)
+- [Kotlin Extension Functions vs. Java: Adding a Touch of Magic to Existing Classes](https://dev.to/hamada147/kotlin-extension-functions-vs-java-adding-a-touch-of-magic-to-existing-classes-4mcf)
 <!-- BLOG-POST-LIST:END -->
 
