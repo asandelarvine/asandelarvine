@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built WildTrack AI: A Multi-Tech Approach to Revolutionizing Wildlife Exploration](https://dev.to/mohammadmahdi_negahban_83/how-we-built-wildtrack-ai-a-multi-tech-approach-to-revolutionizing-wildlife-exploration-2684)
-- [Creating a Linux VM and installing nginx on it](https://dev.to/wizzyb/creating-a-linux-vm-and-installing-nginx-on-it-42ii)
-- [Scroll Wheel and Continuous Forms in Microsoft Access](https://dev.to/richardrost/scroll-wheel-and-continuous-forms-in-microsoft-access-1bc9)
-- [How to secure Liveblocks Rooms with Clerk in Next.js](https://dev.to/clerk/how-to-secure-liveblocks-rooms-with-clerk-in-nextjs-58oo)
+- [Custom Kotlin Delegates: Shared Preferences](https://dev.to/ssharyk/custom-kotlin-delegates-shared-preferences-42f3)
+- [Using Goose with OpenAI](https://dev.to/iabdulkarim472/using-goose-with-openai-8bf)
+- [The CSS geometric loaders + free source code ❤️](https://dev.to/melnik909/the-css-geometric-loaders-free-source-code-38bc)
+- [Recapping ECCV 2024 Redux: Day 1](https://dev.to/voxel51/recapping-eccv-2024-redux-day-1-1766)
 <!-- BLOG-POST-LIST:END -->
 
