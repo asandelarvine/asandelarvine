@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Release 0.3 #1](https://dev.to/aamfahim/release-03-1-6p6)
-- [Git Rebase: Complete Documentation](https://dev.to/softden_2005/git-rebase-complete-documentation-5h7c)
-- [The World of HarmonyOS Programming: Handling I/O-Intensive Tasks and the Asynchronous Lock Mechanism in ArkTS](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-handling-io-intensive-tasks-and-the-asynchronous-lock-h27)
-- [鸿蒙编程江湖：I/O 密集型任务处理及 ArkTS 的异步锁机制](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-io-mi-ji-xing-ren-wu-chu-li-ji-arkts-de-yi-bu-suo-ji-zhi-6f9)
+- [Automation Testing](https://dev.to/neethumathew/automation-testing-j3a)
+- [Smart Screen Animation using html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/smart-screen-animation-using-html-css-and-javascript-4e47)
+- [Entiende la Cascada y el Flujo de Estilos en CSS](https://dev.to/osva_ocampo/entiende-la-cascada-y-el-flujo-de-estilos-en-css-3693)
+- [GitHub Actions Pipeline](https://dev.to/lykins/github-actions-pipeline-4397)
 <!-- BLOG-POST-LIST:END -->
 
