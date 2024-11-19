@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes DaemonSet: Everything You Need to Know](https://dev.to/i_am_vesh/kubernetes-daemonset-everything-you-need-to-know-48lh)
-- [Service Mesh: Managing Microservices Communication](https://dev.to/vipulkumarsviit/service-mesh-managing-microservices-communication-303b)
-- [Top Benefits of Cloud Migration Services](https://dev.to/brilworks/top-benefits-of-cloud-migration-services-20ni)
-- [Sakura Boot: Reduce boilerplate, save time, build backends faster with Spring Boot](https://dev.to/malcolmsansen/sakura-boot-reduce-boilerplate-save-time-build-backends-faster-with-spring-boot-2jd8)
+- [👨‍💻 My Developer Portfolio: Showcasing My Journey and Projects 💖](https://dev.to/aniruddhadak/my-developer-portfolio-showcasing-my-journey-and-projects-4d0c)
+- [Understanding Vue Reactivity with Pinia Stores](https://dev.to/ajinkyax/understanding-vue-reactivity-with-pinia-stores-4ahi)
+- [Artificial Narrow Intelligence &lpar;ANI&rpar;: Revolutionizing Automation and Decision Making](https://dev.to/lipton_ahammed_a6bb8e41b6/artificial-narrow-intelligence-ani-revolutionizing-automation-and-decision-making-7o7)
+- [🔒 Securing Web Applications: Best Practices in Authentication 🔑 and Authorization ✅](https://dev.to/info_generalhazedawn_a3d/securing-web-applications-best-practices-in-authentication-and-authorization-3gog)
 <!-- BLOG-POST-LIST:END -->
 
