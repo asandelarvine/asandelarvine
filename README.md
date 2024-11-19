@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure Delve &lpar;dlv&rpar; in VS Code](https://dev.to/jijonivan/how-to-configure-delve-dlv-in-vs-code-1hbh)
-- [VShell: Production Release Workflow](https://dev.to/anhchienvu/vshell-production-release-workflow-48bm)
-- [This Tool can remove 98% Bloatware apps](https://dev.to/junaid_dev/this-tool-can-remove-98-bloatware-apps-1imp)
-- [Using IPAddress Java Library with ColdFusion to Standardize IPv4 &amp; IPv6 Addresses](https://dev.to/gamesover/using-ipaddress-java-library-with-coldfusion-to-standardize-ipv4-ipv6-addresses-bcn)
+- [How We Built WildTrack AI: A Multi-Tech Approach to Revolutionizing Wildlife Exploration](https://dev.to/mohammadmahdi_negahban_83/how-we-built-wildtrack-ai-a-multi-tech-approach-to-revolutionizing-wildlife-exploration-2684)
+- [Creating a Linux VM and installing nginx on it](https://dev.to/wizzyb/creating-a-linux-vm-and-installing-nginx-on-it-42ii)
+- [Scroll Wheel and Continuous Forms in Microsoft Access](https://dev.to/richardrost/scroll-wheel-and-continuous-forms-in-microsoft-access-1bc9)
+- [How to secure Liveblocks Rooms with Clerk in Next.js](https://dev.to/clerk/how-to-secure-liveblocks-rooms-with-clerk-in-nextjs-58oo)
 <!-- BLOG-POST-LIST:END -->
 
