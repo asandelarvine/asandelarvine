@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [👨‍💻 My Developer Portfolio: Showcasing My Journey and Projects 💖](https://dev.to/aniruddhadak/my-developer-portfolio-showcasing-my-journey-and-projects-4d0c)
-- [Understanding Vue Reactivity with Pinia Stores](https://dev.to/ajinkyax/understanding-vue-reactivity-with-pinia-stores-4ahi)
-- [Artificial Narrow Intelligence &lpar;ANI&rpar;: Revolutionizing Automation and Decision Making](https://dev.to/lipton_ahammed_a6bb8e41b6/artificial-narrow-intelligence-ani-revolutionizing-automation-and-decision-making-7o7)
-- [🔒 Securing Web Applications: Best Practices in Authentication 🔑 and Authorization ✅](https://dev.to/info_generalhazedawn_a3d/securing-web-applications-best-practices-in-authentication-and-authorization-3gog)
+- [5 Must-Have Project Roadmap Tools for Effective Planning](https://dev.to/thomasy0ung/5-must-have-project-roadmap-tools-for-effective-planning-p0f)
+- [How Generative AI Works](https://dev.to/abhinowww/how-generative-ai-works-1flp)
+- [Upgrade to Telepresence 2.20: Streamlined Kubernetes Dev with New Proxy, Serverless, and Argo Rollouts Support](https://dev.to/getambassador2024/upgrade-to-telepresence-220-streamlined-kubernetes-dev-with-new-proxy-serverless-and-argo-29k4)
+- [MongoDB Developer Day Manila 2024: A Recap - A Deep Dive into the Future of Data](https://dev.to/kakacomputer/mongodb-developer-day-manila-2024-a-recap-a-deep-dive-into-the-future-of-data-4go4)
 <!-- BLOG-POST-LIST:END -->
 
