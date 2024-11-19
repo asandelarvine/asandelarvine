@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapping Over Undefined? But this should work!](https://dev.to/kabakadev/mapping-over-undefined-but-this-should-work-572h)
-- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-84)
-- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-1fk0)
-- [Building simple event-driven applications with Pub/Sub](https://dev.to/encore/building-simple-event-driven-applications-with-pubsub-k57)
+- [AI Coding Assistants, Starter Templates, and More: A Guide to Working Less](https://dev.to/giteden/ai-coding-assistants-starter-templates-and-more-a-guide-to-working-less-f0a)
+- [Continuous Integration Testing - All you need to know](https://dev.to/abhayit2000/continuous-integration-testing-all-you-need-to-know-5gkf)
+- [Type-C Programming Language](https://dev.to/praisethemoon/type-c-programming-language-3cj3)
+- [Web Components and SSR - 2024 Edition](https://dev.to/stuffbreaker/web-components-and-ssr-2024-edition-1nel)
 <!-- BLOG-POST-LIST:END -->
 
