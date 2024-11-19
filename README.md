@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF Waiting Room: The Terminator of HTTP Flood DDoS Attack](https://dev.to/carrie_luo1/safeline-waf-waiting-room-the-terminator-of-http-flood-ddos-attack-1f5)
-- [Work from anywhere with VSCode Remote Tunnels](https://dev.to/dorinandreidragan/work-from-anywhere-with-vscode-remote-tunnels-4o5i)
-- [Debugging bugs in x64dbg debugger. Step out to GUI](https://dev.to/pvsdev/debugging-bugs-in-x64dbg-debugger-step-out-to-gui-ipn)
-- [HackerRank - Problem#12](https://dev.to/sunnat_qayumov/hackerrank-problem12-26oo)
+- [Step-by-Step Guide: Write Your First Web Crawling with Selenium in C#](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-write-your-first-web-crawling-with-selenium-in-c-30ck)
+- [🚀Top Github Repositories to boost Your project setup.🚀](https://dev.to/matek075/top-github-repositories-to-boost-your-project-setup-28ji)
+- [How We Built 🔧🦾 the SQL Autocomplete Framework ⚙️🧱 with ANTLR4](https://dev.to/bytebase/how-we-built-the-sql-autocomplete-framework-with-antlr4-a3p)
+- [How to use Promise.race to add timeout to fetch calls](https://dev.to/websilvercraft/how-to-use-promiserace-to-add-timeout-to-fetch-calls-a8m)
 <!-- BLOG-POST-LIST:END -->
 
