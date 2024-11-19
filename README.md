@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Healthcare Efficiency with Intelligent Medical Coding Platforms](https://dev.to/jhonsnow21/transform-healthcare-efficiency-with-intelligent-medical-coding-platforms-181i)
-- [The difference between pointers and values on methods](https://dev.to/tiaguinho/the-difference-between-pointers-and-values-on-methods-eim)
-- [🚀 Your Daily Crypto Job Digest For 18 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-november-26o1)
-- [Git Account&#39;ga SSH orqali ulanish](https://dev.to/jakhaaliyev/connect-to-git-via-ssh-5b0b)
+- [Mapping Over Undefined? But this should work!](https://dev.to/kabakadev/mapping-over-undefined-but-this-should-work-572h)
+- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-84)
+- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-1fk0)
+- [Building simple event-driven applications with Pub/Sub](https://dev.to/encore/building-simple-event-driven-applications-with-pubsub-k57)
 <!-- BLOG-POST-LIST:END -->
 
