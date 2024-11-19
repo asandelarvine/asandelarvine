@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hoisting in JS](https://dev.to/ramya_srim/hoisting-in-js-5ghc)
-- [Designing robust and scalable relational databases: A series of best practices.](https://dev.to/pedrohgoncalves/designing-robust-and-scalable-relational-databases-a-series-of-best-practices-1i20)
-- [Aborted attempt to return meaningful Problem Details responses for model binding errors in an ASP.NET Core Minimal API](https://dev.to/nausaf/aborted-attempt-to-return-meaningful-problem-details-response-from-model-binding-errors-in-an-353g)
-- [Building a real-time application with Relay 17](https://dev.to/logrocket/building-a-real-time-application-with-relay-17-21o4)
+- [Mastering REST API Best Practices with Node.js 🚀](https://dev.to/biswajitfsd/mastering-rest-api-best-practices-with-nodejs-4ejk)
+- [Why Beginners CRUSH IT with TypeScript](https://dev.to/thesohailjafri/why-beginners-crush-it-with-typescript-hon)
+- [Easily Share ComfyUI Online Using Pinggy](https://dev.to/ghoshbishakh/easily-share-comfyui-online-using-pinggy-52ll)
+- [Code Generated Architecture Diagram using Azure Devops](https://dev.to/arindam0310018/code-generated-architecture-diagram-using-azure-devops-2ah4)
 <!-- BLOG-POST-LIST:END -->
 
