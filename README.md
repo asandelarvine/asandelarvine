@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to learn machine learning by projects](https://dev.to/shahid_shabbir_se/how-to-learn-machine-learning-by-projects-3p9j)
-- [Your startup’s digital foundation: A comprehensive web development Q&amp;A](https://dev.to/stasvalletta/your-startups-digital-foundation-a-comprehensive-web-development-qa-3a5a)
-- [Understanding WSGI and ASGI: The Building Blocks of Python Web Applications](https://dev.to/cyb3r_ninja27/understanding-wsgi-and-asgi-the-building-blocks-of-python-web-applications-1p46)
-- [Keep Up With the Latest Storm Activity Effecting Brevard Roofing Company](https://dev.to/leonorpattyxmo/build-a-simple-weather-app-in-java-using-openweathermap-api-3416)
+- [Release 0.3 #1](https://dev.to/aamfahim/release-03-1-6p6)
+- [Git Rebase: Complete Documentation](https://dev.to/softden_2005/git-rebase-complete-documentation-5h7c)
+- [The World of HarmonyOS Programming: Handling I/O-Intensive Tasks and the Asynchronous Lock Mechanism in ArkTS](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-handling-io-intensive-tasks-and-the-asynchronous-lock-h27)
+- [鸿蒙编程江湖：I/O 密集型任务处理及 ArkTS 的异步锁机制](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-io-mi-ji-xing-ren-wu-chu-li-ji-arkts-de-yi-bu-suo-ji-zhi-6f9)
 <!-- BLOG-POST-LIST:END -->
 
