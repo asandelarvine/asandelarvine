@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring dev.to&#39;s Hidden Features: Upload a Video. What?](https://dev.to/radchenko/exploring-devtos-hidden-features-upload-a-video-what-3hh2)
-- [Stop Fighting with Media Queries! Use CSS Container Queries Instead](https://dev.to/amaresh_adak/stop-fighting-with-media-queries-use-css-container-queries-instead-1jjf)
-- [Implementing Continuous Deployment with Docker and Kubernetes](https://dev.to/therealmrmumba/implementing-continuous-deployment-with-docker-and-kubernetes-45mm)
-- [Kotlin Extension Functions vs. Java: Adding a Touch of Magic to Existing Classes](https://dev.to/hamada147/kotlin-extension-functions-vs-java-adding-a-touch-of-magic-to-existing-classes-4mcf)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55mg)
+- [KaibanJS v0.10.1 is Here! Explore the New Tools 🚀](https://dev.to/dariel_vila_2d5ebae1c430f/kaibanjs-v0101-is-here-explore-the-new-tools-5ae1)
+- [Demystifying Software Architectures: Choosing the Right Design for Your Project](https://dev.to/wallacefreitas/demystifying-software-architectures-choosing-the-right-design-for-your-project-5gmi)
+- [2024 Recap: Why Accessibility is Important](https://dev.to/theoriginalbpc/2024-recap-why-accessibility-is-important-43n9)
 <!-- BLOG-POST-LIST:END -->
 
