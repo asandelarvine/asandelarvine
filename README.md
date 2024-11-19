@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automation Testing](https://dev.to/neethumathew/automation-testing-j3a)
-- [Smart Screen Animation using html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/smart-screen-animation-using-html-css-and-javascript-4e47)
-- [Entiende la Cascada y el Flujo de Estilos en CSS](https://dev.to/osva_ocampo/entiende-la-cascada-y-el-flujo-de-estilos-en-css-3693)
-- [GitHub Actions Pipeline](https://dev.to/lykins/github-actions-pipeline-4397)
+- [10 CSS Tricks for UI developers](https://dev.to/nnnirajn/10-css-tricks-for-ui-developers-2l5)
+- [Join Our Community Collaborate, Learn, and Grow Together in Programming and Beyond!](https://dev.to/jether_morriahvbohol_1/join-our-communitycollaborate-learn-and-grow-together-in-programming-and-beyond-3eod)
+- [End-to-End System Design for a React + Java + Cosmos DB Application](https://dev.to/satyendra_pandey_b62c8218/end-to-end-system-design-for-a-react-java-cosmos-db-application-3kmj)
+- [Microservices: A Friendly, Humanized Guide](https://dev.to/satyendra_pandey_b62c8218/microservices-a-friendly-humanized-guide-b76)
 <!-- BLOG-POST-LIST:END -->
 
