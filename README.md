@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55mg)
-- [KaibanJS v0.10.1 is Here! Explore the New Tools 🚀](https://dev.to/dariel_vila_2d5ebae1c430f/kaibanjs-v0101-is-here-explore-the-new-tools-5ae1)
-- [Demystifying Software Architectures: Choosing the Right Design for Your Project](https://dev.to/wallacefreitas/demystifying-software-architectures-choosing-the-right-design-for-your-project-5gmi)
-- [2024 Recap: Why Accessibility is Important](https://dev.to/theoriginalbpc/2024-recap-why-accessibility-is-important-43n9)
+- [Hoisting in JS](https://dev.to/ramya_srim/hoisting-in-js-5ghc)
+- [Designing robust and scalable relational databases: A series of best practices.](https://dev.to/pedrohgoncalves/designing-robust-and-scalable-relational-databases-a-series-of-best-practices-1i20)
+- [Aborted attempt to return meaningful Problem Details responses for model binding errors in an ASP.NET Core Minimal API](https://dev.to/nausaf/aborted-attempt-to-return-meaningful-problem-details-response-from-model-binding-errors-in-an-353g)
+- [Building a real-time application with Relay 17](https://dev.to/logrocket/building-a-real-time-application-with-relay-17-21o4)
 <!-- BLOG-POST-LIST:END -->
 
