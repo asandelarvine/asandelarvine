@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Assistants, Starter Templates, and More: A Guide to Working Less](https://dev.to/giteden/ai-coding-assistants-starter-templates-and-more-a-guide-to-working-less-f0a)
-- [Continuous Integration Testing - All you need to know](https://dev.to/abhayit2000/continuous-integration-testing-all-you-need-to-know-5gkf)
-- [Type-C Programming Language](https://dev.to/praisethemoon/type-c-programming-language-3cj3)
-- [Web Components and SSR - 2024 Edition](https://dev.to/stuffbreaker/web-components-and-ssr-2024-edition-1nel)
+- [What is inside Rate Limiting for .NET](https://dev.to/ilya-chumakov/what-is-inside-rate-limiting-for-net-58n7)
+- [Open Source is For Everyone: First Experience in Non-Code Contribution to Mautic during Hacktoberfest 2024](https://dev.to/adiatiayu/open-source-is-for-everyone-first-experience-in-non-code-contribution-to-mautic-during-4oph)
+- [Free Testing Tools for API Testing](https://dev.to/keploy/free-testing-tools-for-api-testing-5lm)
+- [Mastering Lombok: Clean and Efficient Java Code Simplification](https://dev.to/igventurelli/mastering-lombok-clean-and-efficient-java-code-simplification-42a3)
 <!-- BLOG-POST-LIST:END -->
 
