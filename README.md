@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Have Project Roadmap Tools for Effective Planning](https://dev.to/thomasy0ung/5-must-have-project-roadmap-tools-for-effective-planning-p0f)
-- [How Generative AI Works](https://dev.to/abhinowww/how-generative-ai-works-1flp)
-- [Upgrade to Telepresence 2.20: Streamlined Kubernetes Dev with New Proxy, Serverless, and Argo Rollouts Support](https://dev.to/getambassador2024/upgrade-to-telepresence-220-streamlined-kubernetes-dev-with-new-proxy-serverless-and-argo-29k4)
-- [MongoDB Developer Day Manila 2024: A Recap - A Deep Dive into the Future of Data](https://dev.to/kakacomputer/mongodb-developer-day-manila-2024-a-recap-a-deep-dive-into-the-future-of-data-4go4)
+- [Effective Strategies for Managing Software Engineering Teams](https://dev.to/remejuan/effective-strategies-for-managing-software-engineering-teams-1n91)
+- [Ng-News 24/46: Angular Camp, TypeScript 5.7 RC](https://dev.to/this-is-angular/ng-news-2446-angular-camp-typescript-57-rc-1f30)
+- [Devfest Nantes 2024, la frayeur s&#39;invite à la cité des congrès 👻](https://dev.to/onepoint/devfest-nantes-2024-la-frayeur-sinvite-a-la-cite-des-congres-3pan)
+- [Streamline Your GitHub Workflows with Composite Actions](https://dev.to/samnash/streamline-your-github-workflows-with-composite-actions-2pme)
 <!-- BLOG-POST-LIST:END -->
 
