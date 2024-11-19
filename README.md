@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Write Your First Web Crawling with Selenium in C#](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-write-your-first-web-crawling-with-selenium-in-c-30ck)
-- [🚀Top Github Repositories to boost Your project setup.🚀](https://dev.to/matek075/top-github-repositories-to-boost-your-project-setup-28ji)
-- [How We Built 🔧🦾 the SQL Autocomplete Framework ⚙️🧱 with ANTLR4](https://dev.to/bytebase/how-we-built-the-sql-autocomplete-framework-with-antlr4-a3p)
-- [How to use Promise.race to add timeout to fetch calls](https://dev.to/websilvercraft/how-to-use-promiserace-to-add-timeout-to-fetch-calls-a8m)
+- [[ROAST] Launching on DevHunt Doesn&#39;t Work? Here&#39;s What I Found!](https://dev.to/radchenko/roast-launching-on-devhunt-doesnt-work-heres-what-i-found-hli)
+- [Docker Layer Caching Explained: Tips to Improve Build Times](https://dev.to/thenanjay/docker-layer-caching-explained-tips-to-improve-build-times-6kc)
+- [New AI Method Makes Video Editing More Stable and Consistent by Preserving Object Shapes](https://dev.to/mikeyoung44/new-ai-method-makes-video-editing-more-stable-and-consistent-by-preserving-object-shapes-2m2k)
+- [What do 200 electrocuted monks have to do with Redis 8, the fastest Redis ever?](https://dev.to/raphaeldelio/what-do-200-electrocuted-monks-have-to-do-with-redis-8-the-fastest-redis-ever-3kca)
 <!-- BLOG-POST-LIST:END -->
 
