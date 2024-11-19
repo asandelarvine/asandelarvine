@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable or Disable an Account in Windows 11?](https://dev.to/win11verse/how-to-enable-or-disable-an-account-in-windows-11-2p3b)
-- [The Hidden Cost of True Leadership: A Twenty-Year Journey in the Trenches](https://dev.to/adnansmajlovic/the-hidden-cost-of-true-leadership-a-twenty-year-journey-in-the-trenches-47p0)
-- [Introduction to Chaos Engineering and LitmusChaos](https://dev.to/asi_security/introduction-to-chaos-engineering-and-litmuschaos-2non)
-- [Rust Threads safety: Uma comparação com C.](https://dev.to/z4nder/rust-threads-safety-uma-comparacao-com-c-1a8h)
+- [How to learn machine learning by projects](https://dev.to/shahid_shabbir_se/how-to-learn-machine-learning-by-projects-3p9j)
+- [Your startup’s digital foundation: A comprehensive web development Q&amp;A](https://dev.to/stasvalletta/your-startups-digital-foundation-a-comprehensive-web-development-qa-3a5a)
+- [Understanding WSGI and ASGI: The Building Blocks of Python Web Applications](https://dev.to/cyb3r_ninja27/understanding-wsgi-and-asgi-the-building-blocks-of-python-web-applications-1p46)
+- [Keep Up With the Latest Storm Activity Effecting Brevard Roofing Company](https://dev.to/leonorpattyxmo/build-a-simple-weather-app-in-java-using-openweathermap-api-3416)
 <!-- BLOG-POST-LIST:END -->
 
