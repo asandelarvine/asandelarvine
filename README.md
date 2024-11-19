@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Strategies for Managing Software Engineering Teams](https://dev.to/remejuan/effective-strategies-for-managing-software-engineering-teams-1n91)
-- [Ng-News 24/46: Angular Camp, TypeScript 5.7 RC](https://dev.to/this-is-angular/ng-news-2446-angular-camp-typescript-57-rc-1f30)
-- [Devfest Nantes 2024, la frayeur s&#39;invite à la cité des congrès 👻](https://dev.to/onepoint/devfest-nantes-2024-la-frayeur-sinvite-a-la-cite-des-congres-3pan)
-- [Streamline Your GitHub Workflows with Composite Actions](https://dev.to/samnash/streamline-your-github-workflows-with-composite-actions-2pme)
+- [SafeLine WAF Waiting Room: The Terminator of HTTP Flood DDoS Attack](https://dev.to/carrie_luo1/safeline-waf-waiting-room-the-terminator-of-http-flood-ddos-attack-1f5)
+- [Work from anywhere with VSCode Remote Tunnels](https://dev.to/dorinandreidragan/work-from-anywhere-with-vscode-remote-tunnels-4o5i)
+- [Debugging bugs in x64dbg debugger. Step out to GUI](https://dev.to/pvsdev/debugging-bugs-in-x64dbg-debugger-step-out-to-gui-ipn)
+- [HackerRank - Problem#12](https://dev.to/sunnat_qayumov/hackerrank-problem12-26oo)
 <!-- BLOG-POST-LIST:END -->
 
