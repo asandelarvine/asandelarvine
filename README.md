@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[ROAST] Launching on DevHunt Doesn&#39;t Work? Here&#39;s What I Found!](https://dev.to/radchenko/roast-launching-on-devhunt-doesnt-work-heres-what-i-found-hli)
-- [Docker Layer Caching Explained: Tips to Improve Build Times](https://dev.to/thenanjay/docker-layer-caching-explained-tips-to-improve-build-times-6kc)
-- [New AI Method Makes Video Editing More Stable and Consistent by Preserving Object Shapes](https://dev.to/mikeyoung44/new-ai-method-makes-video-editing-more-stable-and-consistent-by-preserving-object-shapes-2m2k)
-- [What do 200 electrocuted monks have to do with Redis 8, the fastest Redis ever?](https://dev.to/raphaeldelio/what-do-200-electrocuted-monks-have-to-do-with-redis-8-the-fastest-redis-ever-3kca)
+- [Transform Healthcare Efficiency with Intelligent Medical Coding Platforms](https://dev.to/jhonsnow21/transform-healthcare-efficiency-with-intelligent-medical-coding-platforms-181i)
+- [The difference between pointers and values on methods](https://dev.to/tiaguinho/the-difference-between-pointers-and-values-on-methods-eim)
+- [🚀 Your Daily Crypto Job Digest For 18 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-november-26o1)
+- [Git Account&#39;ga SSH orqali ulanish](https://dev.to/jakhaaliyev/connect-to-git-via-ssh-5b0b)
 <!-- BLOG-POST-LIST:END -->
 
