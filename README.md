@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering REST API Best Practices with Node.js 🚀](https://dev.to/biswajitfsd/mastering-rest-api-best-practices-with-nodejs-4ejk)
-- [Why Beginners CRUSH IT with TypeScript](https://dev.to/thesohailjafri/why-beginners-crush-it-with-typescript-hon)
-- [Easily Share ComfyUI Online Using Pinggy](https://dev.to/ghoshbishakh/easily-share-comfyui-online-using-pinggy-52ll)
-- [Code Generated Architecture Diagram using Azure Devops](https://dev.to/arindam0310018/code-generated-architecture-diagram-using-azure-devops-2ah4)
+- [How to configure Delve &lpar;dlv&rpar; in VS Code](https://dev.to/jijonivan/how-to-configure-delve-dlv-in-vs-code-1hbh)
+- [VShell: Production Release Workflow](https://dev.to/anhchienvu/vshell-production-release-workflow-48bm)
+- [This Tool can remove 98% Bloatware apps](https://dev.to/junaid_dev/this-tool-can-remove-98-bloatware-apps-1imp)
+- [Using IPAddress Java Library with ColdFusion to Standardize IPv4 &amp; IPv6 Addresses](https://dev.to/gamesover/using-ipaddress-java-library-with-coldfusion-to-standardize-ipv4-ipv6-addresses-bcn)
 <!-- BLOG-POST-LIST:END -->
 
