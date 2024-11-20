@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Speaks for Itself: Como Métodos Bem Escritos Tornam Comentários Supérfluos](https://dev.to/glauco_fox_5a72cd02386684/code-speaks-for-itself-como-metodos-bem-escritos-tornam-comentarios-superfluos-3n5g)
-- [Learning and Growing Through Open Source Contributions](https://dev.to/cleobnvntra/learning-and-growing-through-open-source-contributions-78j)
-- [eKYC Revolutionizes the Banking Sector Beyond Traditional KYC](https://dev.to/kyanondigital/ekyc-revolutionizes-the-banking-sector-beyond-traditional-kyc-3f31)
-- [Master Docker](https://dev.to/tharindumadubashna/master-docker-lfb)
+- [How to Migrate AWS Resources from one AWS Account to Another](https://dev.to/brilworks/how-to-migrate-aws-resources-from-one-aws-account-to-another-1ap5)
+- [Welcome Thread - v303](https://dev.to/devteam/welcome-thread-v303-4b2)
+- [Restoring a Backup Stored in S3 to an EC2 Instance Using XtraBackup](https://dev.to/anshul_kichara/restoring-a-backup-stored-in-s3-to-an-ec2-instance-using-xtrabackup-4cp4)
+- [Caching information in Redis on NestJS](https://dev.to/endykaufman/caching-information-in-redis-on-nestjs-8po)
 <!-- BLOG-POST-LIST:END -->
 
