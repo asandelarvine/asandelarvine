@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to disable GIL &lpar;Global Interpreter Lock&rpar; in Python 3.13](https://dev.to/sachingeek/how-to-disable-gil-global-interpreter-lock-in-python-313-2264)
-- [How to Execute Multi-database Queries via JDBC #eg76](https://dev.to/esproc_spl/how-to-execute-multi-database-queries-via-jdbc-eg76-2561)
-- [Cache Strategies: A Complete Guide with Real-Life Examples 🚀](https://dev.to/jaiminbariya/cache-strategies-a-complete-guide-with-real-life-examples-416p)
-- [SeaTunnel-Powered Data Integration: How 58 Group Handles Over 500 Billion+ Data Points Daily](https://dev.to/seatunnel/seatunnel-powered-data-integration-how-58-group-handles-over-500-billion-data-points-daily-3d1m)
+- [The future of software architecture: focus on event-driven architecture](https://dev.to/atixag/the-future-of-software-architecture-focus-on-event-driven-architecture-5amf)
+- [Boost Your Network Control with Curl SOCKS5 Proxies](https://dev.to/lewis_kerr_2d0d4c5b886b02/boost-your-network-control-with-curl-socks5-proxies-24k8)
+- [How to prioritize your tasks as a software engineer?](https://dev.to/pierre/how-to-prioritize-your-tasks-as-a-software-engineer-5e83)
+- [Oracle Using Agile in ERP](https://dev.to/sharongrace2024102420241024/oracle-using-agile-in-erp-plo)
 <!-- BLOG-POST-LIST:END -->
 
