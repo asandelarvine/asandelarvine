@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [38/365 | ¥10M Job Challenge - What doesn’t kill me makes me stronger?](https://dev.to/kameken100/38365-y10m-job-challenge-what-doesnt-kill-me-makes-me-stronger-4b3g)
-- [How to push your files from your local environment to Github](https://dev.to/wizzyb/how-to-push-your-files-from-your-local-environment-to-github-413j)
-- [AI coding for JS Devs](https://dev.to/jonathanfarrow/online-meetup-for-ai-4la1)
-- [Understanding JavaScript Closures with Real-World Examples](https://dev.to/hannan9560/understanding-javascript-closures-with-real-world-examples-441)
+- [How to start your django project the right way](https://dev.to/strerius/how-to-start-your-django-project-the-right-way-4cgp)
+- [🚀🚀🚀 Ethereum Price Today: Will $ETH Hit $4k First or $2k?](https://dev.to/sergi_web3/ethereum-price-today-will-eth-hit-4k-first-or-2k-469g)
+- [Simplifying Unit Conversions in .NET with UniVertAll](https://dev.to/shahabfar/simplifying-unit-conversions-in-net-with-univertall-11n1)
+- [Oracle Certified Java 8 Associate &lpar;OCA&rpar; Exam Preparation](https://dev.to/devmercy/oracle-certified-java-associate-oca-exam-preparation-358g)
 <!-- BLOG-POST-LIST:END -->
 
