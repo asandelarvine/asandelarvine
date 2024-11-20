@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 20 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-november-3hb9)
-- [Top 20 VS Code Extensions to Boost Your Productivity 💻](https://dev.to/helloquash/top-20-vs-code-extensions-to-boost-your-productivity-4g9g)
-- [Code Smell 280 - Spaghetti Code](https://dev.to/mcsee/code-smell-280-spaghetti-code-4686)
-- [How to Implement Master Data Management: A Step-by-Step Guide](https://dev.to/hana_sato/how-to-implement-master-data-management-a-step-by-step-guide-5fn7)
+- [The Medallion Architecture: Refining Data from Bronze to Gold 🏅](https://dev.to/cortexflow/the-medallion-architecture-refining-data-from-bronze-to-gold-ikp)
+- [The Only Open-Source FAQ Guide You&#39;ll Ever Need—Straight From the 0x3d Collection](https://dev.to/0x3d_site/the-only-open-source-faq-guide-youll-ever-need-straight-from-the-0x3d-collection-2ki2)
+- [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://dev.to/appsignal/optimize-database-performance-in-ruby-on-rails-and-activerecord-mcn)
+- [Microfrontends a Developer&#39;s Guide: Best Practices and Lessons Learned](https://dev.to/joacod/microfrontends-a-developers-guide-best-practices-and-lessons-learned-1nlp)
 <!-- BLOG-POST-LIST:END -->
 
