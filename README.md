@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate AWS Resources from one AWS Account to Another](https://dev.to/brilworks/how-to-migrate-aws-resources-from-one-aws-account-to-another-1ap5)
-- [Welcome Thread - v303](https://dev.to/devteam/welcome-thread-v303-4b2)
-- [Restoring a Backup Stored in S3 to an EC2 Instance Using XtraBackup](https://dev.to/anshul_kichara/restoring-a-backup-stored-in-s3-to-an-ec2-instance-using-xtrabackup-4cp4)
-- [Caching information in Redis on NestJS](https://dev.to/endykaufman/caching-information-in-redis-on-nestjs-8po)
+- [Pre-trained AI Models Explained: Implementation Guide with BERT, GPT &amp; Stable Diffusion](https://dev.to/abhinowww/pre-trained-ai-models-explained-implementation-guide-with-bert-gpt-stable-diffusion-37cl)
+- [SQL Basics Review](https://dev.to/john_analytics/sql-basics-review-1nl5)
+- [Top 5 Git-based CMS Comparison &lpar;As of April 2024&rpar;](https://dev.to/linkb15/top-5-git-based-cms-comparison-as-of-april-2024-4k1e)
+- [Securing Databases with SSL in Docker Containers](https://dev.to/keploy/securing-databases-with-ssl-in-docker-containers-44h2)
 <!-- BLOG-POST-LIST:END -->
 
