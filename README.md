@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Snapped and Built My Own Tab and Bookmark Manager - Tabme](https://dev.to/pltnkv/how-i-snapped-and-built-my-own-tab-and-bookmark-manager-tabme-3cnm)
-- [Call-to-Actions Done Right: CTA Guide für mehr Interaktionen](https://dev.to/per-starke-642/call-to-actions-done-right-cta-guide-fur-mehr-interaktionen-3mem)
-- [Create a Python environment in Linux &lpar;Ubuntu&rpar; &amp; Windows](https://dev.to/aa_nadim/create-a-python-environment-in-linux-ubuntu-windows-397m)
-- [Mastering TypeScript&#39;s Template Literal Types: Boosting Code Safety and Expressiveness](https://dev.to/aaravjoshi/mastering-typescripts-template-literal-types-boosting-code-safety-and-expressiveness-31fl)
+- [How to use diffInDays with filters in Laravel | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/how-to-use-diffindays-with-filters-in-laravel-f13)
+- [2. DBMS என்றால் என்ன? What is a DBMS?](https://dev.to/vajravijay/2-dbms-ennnrraal-ennnnnn-what-is-a-dbms-4dni)
+- [How TO Remove Items From RJSF Custom ArrayTemplate](https://dev.to/dendekky/how-to-remove-items-from-rjsf-custom-arraytemplate-1clo)
+- [How To Build Beautiful Terminal UIs &lpar;TUIs&rpar; in JavaScript!](https://dev.to/sfundomhlungu/how-to-build-beautiful-terminal-uis-tuis-in-javascript-74j)
 <!-- BLOG-POST-LIST:END -->
 
