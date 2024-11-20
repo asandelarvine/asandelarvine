@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Heart of DolphinScheduler: In-Depth Analysis of the Quartz Scheduling Framework](https://dev.to/chen_debra_3060b21d12b1b0/the-heart-of-dolphinscheduler-in-depth-analysis-of-the-quartz-scheduling-framework-5efl)
-- [Managing Docker Containers with Portainer](https://dev.to/kevinmel2000/managing-docker-containers-with-portainer-40ei)
-- [Django vs Rails for API Development: Performance, Productivity, and Scalability Comparison](https://dev.to/adityabhuyan/django-vs-rails-for-api-development-performance-productivity-and-scalability-comparison-4g8k)
-- [5 OpenGraph &lpar;OG&rpar; Image Tricks That Made My Life Easier 🎨](https://dev.to/gleamso/5-opengraph-og-image-tricks-that-made-my-life-easier-407o)
+- [Web vulnerability bounty rules update](https://dev.to/tecno-security/web-vulnerability-bounty-rules-update-181g)
+- [Set up SSH for WSL to use windsurf IDE before official WSL support](https://dev.to/govindsb/set-up-ssh-for-wsl-to-use-windsurf-ide-before-official-wsl-support-aj8)
+- [Implementing CQRS with Spring Boot: A Deep Dive for Software Architects](https://dev.to/virajlakshitha/implementing-cqrs-with-spring-boot-a-deep-dive-for-software-architects-2imc)
+- [SaaS multi-tenant web app with user creation and login, in 200 lines of code](https://dev.to/gliimly/saas-multi-tenant-web-app-with-user-creation-and-login-in-200-lines-of-code-1ce0)
 <!-- BLOG-POST-LIST:END -->
 
