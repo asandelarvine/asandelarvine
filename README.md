@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web vulnerability bounty rules update](https://dev.to/tecno-security/web-vulnerability-bounty-rules-update-181g)
-- [Set up SSH for WSL to use windsurf IDE before official WSL support](https://dev.to/govindsb/set-up-ssh-for-wsl-to-use-windsurf-ide-before-official-wsl-support-aj8)
-- [Implementing CQRS with Spring Boot: A Deep Dive for Software Architects](https://dev.to/virajlakshitha/implementing-cqrs-with-spring-boot-a-deep-dive-for-software-architects-2imc)
-- [SaaS multi-tenant web app with user creation and login, in 200 lines of code](https://dev.to/gliimly/saas-multi-tenant-web-app-with-user-creation-and-login-in-200-lines-of-code-1ce0)
+- [Code Speaks for Itself: Como Métodos Bem Escritos Tornam Comentários Supérfluos](https://dev.to/glauco_fox_5a72cd02386684/code-speaks-for-itself-como-metodos-bem-escritos-tornam-comentarios-superfluos-3n5g)
+- [Learning and Growing Through Open Source Contributions](https://dev.to/cleobnvntra/learning-and-growing-through-open-source-contributions-78j)
+- [eKYC Revolutionizes the Banking Sector Beyond Traditional KYC](https://dev.to/kyanondigital/ekyc-revolutionizes-the-banking-sector-beyond-traditional-kyc-3f31)
+- [Master Docker](https://dev.to/tharindumadubashna/master-docker-lfb)
 <!-- BLOG-POST-LIST:END -->
 
