@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10 Progress Journal: Creating Middleware for User Authorization &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-10-progress-journal-creating-middleware-for-user-authorization-mern-stack-instagram-clone-5eh9)
-- [A Journey towards Healthier Schools: Spherule Foundation&#39;s WASH Initiative](https://dev.to/spherule_foundation_a79f2/a-journey-towards-healthier-schools-spherule-foundations-wash-initiative-5d1p)
-- [LeetCode in Swift - 66. Plus One](https://dev.to/vc7/leetcode-in-swift-66-plus-one-1o7i)
-- [📈 2025 Design Trends + Fixing the Dev-Design Mismatch](https://dev.to/adam/2025-design-trends-fixing-the-dev-design-mismatch-3fnb)
+- [Kotlin vs. Java: A Grand Finale and Farewell &lpar;But Not Goodbye!&rpar;](https://dev.to/hamada147/kotlin-vs-java-a-grand-finale-and-farewell-but-not-goodbye-33je)
+- [RAG Chatbot](https://dev.to/yashksaini/rag-chatbot-3bce)
+- [Day 20 Progress Journal: Implementing the Frontend for Comment Box &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-20-progress-journal-implementing-the-frontend-for-comment-box-mern-stack-instagram-clone-1a49)
+- [Decoding Software Quality: A Deep Dive into Errors, Faults, Bugs, Defects, and Failures.](https://dev.to/nozibul_islam_113b1d5334f/decoding-software-quality-a-deep-dive-into-errors-faults-bugs-defects-and-failures-106o)
 <!-- BLOG-POST-LIST:END -->
 
