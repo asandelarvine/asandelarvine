@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 unknown CSS techniques](https://dev.to/melnik909/4-unknown-css-techniques-3n3c)
-- [💡Only 20% of Developers are Happy at Work?](https://dev.to/alexr/only-20-of-developers-are-happy-at-work-18o9)
-- [Multipart from data send to backend as json file using axios.](https://dev.to/khalid7487/multipart-from-data-send-to-backend-as-json-file-using-axios-5a1d)
-- [How to Optimize a Website for Search Engines: A Comprehensive Guide](https://dev.to/jeferson0993/how-to-optimize-a-website-for-search-engines-a-comprehensive-guide-23op)
+- [38/365 | ¥10M Job Challenge - What doesn’t kill me makes me stronger?](https://dev.to/kameken100/38365-y10m-job-challenge-what-doesnt-kill-me-makes-me-stronger-4b3g)
+- [How to push your files from your local environment to Github](https://dev.to/wizzyb/how-to-push-your-files-from-your-local-environment-to-github-413j)
+- [AI coding for JS Devs](https://dev.to/jonathanfarrow/online-meetup-for-ai-4la1)
+- [Understanding JavaScript Closures with Real-World Examples](https://dev.to/hannan9560/understanding-javascript-closures-with-real-world-examples-441)
 <!-- BLOG-POST-LIST:END -->
 
