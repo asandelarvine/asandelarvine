@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Saga Pattern in Microservices](https://dev.to/dazevedo/the-saga-pattern-in-microservices-4a91)
-- [Some Essential Coding Practices Every Experienced Developer Recommends](https://dev.to/mdarifulhaque/some-essential-coding-practices-every-experienced-developer-recommends-3cic)
-- [A journey to optimize a SpringData SQL query with N+1s](https://dev.to/loiklak/a-journey-to-optimize-a-springdata-sql-query-with-n1s-2f87)
-- [Excel-lent News: Copilot Takes Your Data to New Heights](https://dev.to/balagmadhu/excel-lent-news-copilot-takes-your-data-to-new-heights-jbk)
+- [Burnout](https://dev.to/gabrieltoma/burnout-1n2i)
+- [Menu de Game Retrô com Godot4](https://dev.to/justaguyfrombr/menu-de-game-retro-com-godot4-3m91)
+- [IceCream: A Sweet Alternative to Print Debugging in Python](https://dev.to/vidyasagarmsc/icecream-a-sweet-alternative-to-print-debugging-in-python-1lhg)
+- [How to add custom icons in React Native in 2025](https://dev.to/oktaysenkan/how-to-add-custom-icons-in-the-react-native-in-2025-1g4b)
 <!-- BLOG-POST-LIST:END -->
 
