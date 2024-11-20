@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin vs. Java: A Grand Finale and Farewell &lpar;But Not Goodbye!&rpar;](https://dev.to/hamada147/kotlin-vs-java-a-grand-finale-and-farewell-but-not-goodbye-33je)
-- [RAG Chatbot](https://dev.to/yashksaini/rag-chatbot-3bce)
-- [Day 20 Progress Journal: Implementing the Frontend for Comment Box &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-20-progress-journal-implementing-the-frontend-for-comment-box-mern-stack-instagram-clone-1a49)
-- [Decoding Software Quality: A Deep Dive into Errors, Faults, Bugs, Defects, and Failures.](https://dev.to/nozibul_islam_113b1d5334f/decoding-software-quality-a-deep-dive-into-errors-faults-bugs-defects-and-failures-106o)
+- [4 unknown CSS techniques](https://dev.to/melnik909/4-unknown-css-techniques-3n3c)
+- [💡Only 20% of Developers are Happy at Work?](https://dev.to/alexr/only-20-of-developers-are-happy-at-work-18o9)
+- [Multipart from data send to backend as json file using axios.](https://dev.to/khalid7487/multipart-from-data-send-to-backend-as-json-file-using-axios-5a1d)
+- [How to Optimize a Website for Search Engines: A Comprehensive Guide](https://dev.to/jeferson0993/how-to-optimize-a-website-for-search-engines-a-comprehensive-guide-23op)
 <!-- BLOG-POST-LIST:END -->
 
