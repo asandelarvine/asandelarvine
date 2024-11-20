@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Medallion Architecture: Refining Data from Bronze to Gold 🏅](https://dev.to/cortexflow/the-medallion-architecture-refining-data-from-bronze-to-gold-ikp)
-- [The Only Open-Source FAQ Guide You&#39;ll Ever Need—Straight From the 0x3d Collection](https://dev.to/0x3d_site/the-only-open-source-faq-guide-youll-ever-need-straight-from-the-0x3d-collection-2ki2)
-- [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://dev.to/appsignal/optimize-database-performance-in-ruby-on-rails-and-activerecord-mcn)
-- [Microfrontends a Developer&#39;s Guide: Best Practices and Lessons Learned](https://dev.to/joacod/microfrontends-a-developers-guide-best-practices-and-lessons-learned-1nlp)
+- [🧨 PHP 8.4 Officially Released!](https://dev.to/servbay/php-84-officially-released-5c28)
+- [Day 1 : Daily Notes for #30DayOfFLCode](https://dev.to/ajitkumar/daily-notes-for-30dayofflcode-3lj0)
+- [Angular Version 19: New Features and Updates](https://dev.to/this-is-angular/angular-version-19-new-features-and-updates-3nk7)
+- [Client-side Rendering &amp; Server-side Rendering](https://dev.to/arjad_gohar_f6d9b8938c997/client-side-rendering-server-side-rendering-p99)
 <!-- BLOG-POST-LIST:END -->
 
