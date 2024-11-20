@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proper Contributions - 2](https://dev.to/krinskumar/proper-contributions-2-1b05)
-- [🎮 🌟How $TON Has Changed the Role of Crypto Games](https://dev.to/sergi_web3/how-ton-has-changed-the-role-of-crypto-games-2jfg)
-- [php.ini Overview: Boost Performance, Security, and Flexibility](https://dev.to/mdarifulhaque/phpini-overview-boost-performance-security-and-flexibility-2f7b)
-- [Fixing the &#39;MySQL Module Shutting Down Unexpectedly&#39; Error in XAMPP: Step-by-Step Guide](https://dev.to/harshchaudhari/fixing-the-mysql-module-shutting-down-unexpectedly-error-in-xampp-step-by-step-guide-li8)
+- [Don&#39;t expose primary id&#39;s with Rails&#39; dom_id](https://dev.to/railsdesigner/dont-expose-primary-ids-with-rails-domid-3e6k)
+- [Trying bigger tasks in Open Source](https://dev.to/bregwin/trying-bigger-tasks-in-open-source-2oji)
+- [I Found The CLEANEST Loading Animation EVER!](https://dev.to/technoph1le/i-found-the-cleanest-loading-animation-ever-4ln1)
+- [Integrating what3words in Your Angular 18 Application](https://dev.to/matthiaskrt/integrating-what3words-in-your-angular-18-application-5amj)
 <!-- BLOG-POST-LIST:END -->
 
