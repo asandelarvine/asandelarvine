@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Large file transfer from VPS to local machine](https://dev.to/tallesl/large-file-transfer-from-vps-to-local-machine-3b74)
-- [Global Disaster recovery for AWS Aurora](https://dev.to/sudo_anuj/global-disaster-recovery-for-aws-aurora-2ih8)
-- [Modal with ReactDOM.createPortal](https://dev.to/kaziusan/modal-with-reactdomcreateportal-l23)
-- [AI &amp; Deep Learning for CFD Flow Prediction](https://dev.to/precise-simulation/ai-deep-learning-for-cfd-flow-prediction-475l)
+- [The Heart of DolphinScheduler: In-Depth Analysis of the Quartz Scheduling Framework](https://dev.to/chen_debra_3060b21d12b1b0/the-heart-of-dolphinscheduler-in-depth-analysis-of-the-quartz-scheduling-framework-5efl)
+- [Managing Docker Containers with Portainer](https://dev.to/kevinmel2000/managing-docker-containers-with-portainer-40ei)
+- [Django vs Rails for API Development: Performance, Productivity, and Scalability Comparison](https://dev.to/adityabhuyan/django-vs-rails-for-api-development-performance-productivity-and-scalability-comparison-4g8k)
+- [5 OpenGraph &lpar;OG&rpar; Image Tricks That Made My Life Easier 🎨](https://dev.to/gleamso/5-opengraph-og-image-tricks-that-made-my-life-easier-407o)
 <!-- BLOG-POST-LIST:END -->
 
