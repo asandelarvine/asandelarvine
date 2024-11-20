@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pre-trained AI Models Explained: Implementation Guide with BERT, GPT &amp; Stable Diffusion](https://dev.to/abhinowww/pre-trained-ai-models-explained-implementation-guide-with-bert-gpt-stable-diffusion-37cl)
-- [SQL Basics Review](https://dev.to/john_analytics/sql-basics-review-1nl5)
-- [Top 5 Git-based CMS Comparison &lpar;As of April 2024&rpar;](https://dev.to/linkb15/top-5-git-based-cms-comparison-as-of-april-2024-4k1e)
-- [Securing Databases with SSL in Docker Containers](https://dev.to/keploy/securing-databases-with-ssl-in-docker-containers-44h2)
+- [How to disable GIL &lpar;Global Interpreter Lock&rpar; in Python 3.13](https://dev.to/sachingeek/how-to-disable-gil-global-interpreter-lock-in-python-313-2264)
+- [How to Execute Multi-database Queries via JDBC #eg76](https://dev.to/esproc_spl/how-to-execute-multi-database-queries-via-jdbc-eg76-2561)
+- [Cache Strategies: A Complete Guide with Real-Life Examples 🚀](https://dev.to/jaiminbariya/cache-strategies-a-complete-guide-with-real-life-examples-416p)
+- [SeaTunnel-Powered Data Integration: How 58 Group Handles Over 500 Billion+ Data Points Daily](https://dev.to/seatunnel/seatunnel-powered-data-integration-how-58-group-handles-over-500-billion-data-points-daily-3d1m)
 <!-- BLOG-POST-LIST:END -->
 
