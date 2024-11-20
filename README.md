@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧨 PHP 8.4 Officially Released!](https://dev.to/servbay/php-84-officially-released-5c28)
-- [Day 1 : Daily Notes for #30DayOfFLCode](https://dev.to/ajitkumar/daily-notes-for-30dayofflcode-3lj0)
-- [Angular Version 19: New Features and Updates](https://dev.to/this-is-angular/angular-version-19-new-features-and-updates-3nk7)
-- [Client-side Rendering &amp; Server-side Rendering](https://dev.to/arjad_gohar_f6d9b8938c997/client-side-rendering-server-side-rendering-p99)
+- [Day 10 Progress Journal: Creating Middleware for User Authorization &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-10-progress-journal-creating-middleware-for-user-authorization-mern-stack-instagram-clone-5eh9)
+- [A Journey towards Healthier Schools: Spherule Foundation&#39;s WASH Initiative](https://dev.to/spherule_foundation_a79f2/a-journey-towards-healthier-schools-spherule-foundations-wash-initiative-5d1p)
+- [LeetCode in Swift - 66. Plus One](https://dev.to/vc7/leetcode-in-swift-66-plus-one-1o7i)
+- [📈 2025 Design Trends + Fixing the Dev-Design Mismatch](https://dev.to/adam/2025-design-trends-fixing-the-dev-design-mismatch-3fnb)
 <!-- BLOG-POST-LIST:END -->
 
