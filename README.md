@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use diffInDays with filters in Laravel | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/how-to-use-diffindays-with-filters-in-laravel-f13)
-- [2. DBMS என்றால் என்ன? What is a DBMS?](https://dev.to/vajravijay/2-dbms-ennnrraal-ennnnnn-what-is-a-dbms-4dni)
-- [How TO Remove Items From RJSF Custom ArrayTemplate](https://dev.to/dendekky/how-to-remove-items-from-rjsf-custom-arraytemplate-1clo)
-- [How To Build Beautiful Terminal UIs &lpar;TUIs&rpar; in JavaScript!](https://dev.to/sfundomhlungu/how-to-build-beautiful-terminal-uis-tuis-in-javascript-74j)
+- [Las sugerencIAs de código consideradas dañinas](https://dev.to/baltasarq/las-sugerencias-de-codigo-consideradas-daninas-3hn3)
+- [Mental Health Awareness in the Workplace: Adapting to a Remote and Hybrid World](https://dev.to/digitalsamba/mental-health-awareness-in-the-workplace-adapting-to-a-remote-and-hybrid-world-2bfc)
+- [Creating a Toy Solidity compiler and running it in a Toy EVM](https://dev.to/_akira19/creating-a-toy-solidity-compiler-and-running-it-in-a-toy-evm-28jo)
+- [Unlocking Revenue Streams: Secrets to Monetizing Your Passion](https://dev.to/muskaan_jayant_a29033c959/unlocking-revenue-streams-secrets-to-monetizing-your-passion-o8g)
 <!-- BLOG-POST-LIST:END -->
 
