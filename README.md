@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Las sugerencIAs de código consideradas dañinas](https://dev.to/baltasarq/las-sugerencias-de-codigo-consideradas-daninas-3hn3)
-- [Mental Health Awareness in the Workplace: Adapting to a Remote and Hybrid World](https://dev.to/digitalsamba/mental-health-awareness-in-the-workplace-adapting-to-a-remote-and-hybrid-world-2bfc)
-- [Creating a Toy Solidity compiler and running it in a Toy EVM](https://dev.to/_akira19/creating-a-toy-solidity-compiler-and-running-it-in-a-toy-evm-28jo)
-- [Unlocking Revenue Streams: Secrets to Monetizing Your Passion](https://dev.to/muskaan_jayant_a29033c959/unlocking-revenue-streams-secrets-to-monetizing-your-passion-o8g)
+- [🚀 Your Daily Crypto Job Digest For 20 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-november-3hb9)
+- [Top 20 VS Code Extensions to Boost Your Productivity 💻](https://dev.to/helloquash/top-20-vs-code-extensions-to-boost-your-productivity-4g9g)
+- [Code Smell 280 - Spaghetti Code](https://dev.to/mcsee/code-smell-280-spaghetti-code-4686)
+- [How to Implement Master Data Management: A Step-by-Step Guide](https://dev.to/hana_sato/how-to-implement-master-data-management-a-step-by-step-guide-5fn7)
 <!-- BLOG-POST-LIST:END -->
 
