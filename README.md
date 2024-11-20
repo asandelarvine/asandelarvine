@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of software architecture: focus on event-driven architecture](https://dev.to/atixag/the-future-of-software-architecture-focus-on-event-driven-architecture-5amf)
-- [Boost Your Network Control with Curl SOCKS5 Proxies](https://dev.to/lewis_kerr_2d0d4c5b886b02/boost-your-network-control-with-curl-socks5-proxies-24k8)
-- [How to prioritize your tasks as a software engineer?](https://dev.to/pierre/how-to-prioritize-your-tasks-as-a-software-engineer-5e83)
-- [Oracle Using Agile in ERP](https://dev.to/sharongrace2024102420241024/oracle-using-agile-in-erp-plo)
+- [How I Snapped and Built My Own Tab and Bookmark Manager - Tabme](https://dev.to/pltnkv/how-i-snapped-and-built-my-own-tab-and-bookmark-manager-tabme-3cnm)
+- [Call-to-Actions Done Right: CTA Guide für mehr Interaktionen](https://dev.to/per-starke-642/call-to-actions-done-right-cta-guide-fur-mehr-interaktionen-3mem)
+- [Create a Python environment in Linux &lpar;Ubuntu&rpar; &amp; Windows](https://dev.to/aa_nadim/create-a-python-environment-in-linux-ubuntu-windows-397m)
+- [Mastering TypeScript&#39;s Template Literal Types: Boosting Code Safety and Expressiveness](https://dev.to/aaravjoshi/mastering-typescripts-template-literal-types-boosting-code-safety-and-expressiveness-31fl)
 <!-- BLOG-POST-LIST:END -->
 
