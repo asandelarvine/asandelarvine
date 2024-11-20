@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start your django project the right way](https://dev.to/strerius/how-to-start-your-django-project-the-right-way-4cgp)
-- [🚀🚀🚀 Ethereum Price Today: Will $ETH Hit $4k First or $2k?](https://dev.to/sergi_web3/ethereum-price-today-will-eth-hit-4k-first-or-2k-469g)
-- [Simplifying Unit Conversions in .NET with UniVertAll](https://dev.to/shahabfar/simplifying-unit-conversions-in-net-with-univertall-11n1)
-- [Oracle Certified Java 8 Associate &lpar;OCA&rpar; Exam Preparation](https://dev.to/devmercy/oracle-certified-java-associate-oca-exam-preparation-358g)
+- [Proper Contributions - 2](https://dev.to/krinskumar/proper-contributions-2-1b05)
+- [🎮 🌟How $TON Has Changed the Role of Crypto Games](https://dev.to/sergi_web3/how-ton-has-changed-the-role-of-crypto-games-2jfg)
+- [php.ini Overview: Boost Performance, Security, and Flexibility](https://dev.to/mdarifulhaque/phpini-overview-boost-performance-security-and-flexibility-2f7b)
+- [Fixing the &#39;MySQL Module Shutting Down Unexpectedly&#39; Error in XAMPP: Step-by-Step Guide](https://dev.to/harshchaudhari/fixing-the-mysql-module-shutting-down-unexpectedly-error-in-xampp-step-by-step-guide-li8)
 <!-- BLOG-POST-LIST:END -->
 
