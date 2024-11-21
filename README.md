@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 Enumeration](https://dev.to/aktran321/s3-enumeration-53hd)
-- [Introducing CI Pipeline for Clang-Format Checks in faker-cxx](https://dev.to/mayankpareek/introducing-ci-pipeline-for-clang-format-checks-in-faker-cxx-35go)
-- [Top MLOps Interview Questions and Answers](https://dev.to/vivekk101/top-mlops-interview-questions-and-answers-56lg)
-- [Dive Deep into OS Development with &quot;The Little Book About OS Development&quot;](https://dev.to/getvm/dive-deep-into-os-development-with-the-little-book-about-os-development-24b7)
+- [Can LLMs Play Chess? I&#39;ve Tested 13 Models](https://dev.to/maximsaplin/can-llms-play-chess-ive-tested-13-models-2154)
+- [Dev Log #14 - Phaser.js and game dev](https://dev.to/antoniodev/dev-log-14-phaserjs-and-game-dev-5382)
+- [How EDI Communication Protocols Streamline Business Data Exchange](https://dev.to/adityabhuyan/how-edi-communication-protocols-streamline-business-data-exchange-5fcf)
+- [How to Remove Account Facial Recognition Sign-In in Windows 11?](https://dev.to/win11verse/how-to-remove-account-facial-recognition-sign-in-in-windows-11-113c)
 <!-- BLOG-POST-LIST:END -->
 
