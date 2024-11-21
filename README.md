@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Burnout](https://dev.to/gabrieltoma/burnout-1n2i)
-- [Menu de Game Retrô com Godot4](https://dev.to/justaguyfrombr/menu-de-game-retro-com-godot4-3m91)
-- [IceCream: A Sweet Alternative to Print Debugging in Python](https://dev.to/vidyasagarmsc/icecream-a-sweet-alternative-to-print-debugging-in-python-1lhg)
-- [How to add custom icons in React Native in 2025](https://dev.to/oktaysenkan/how-to-add-custom-icons-in-the-react-native-in-2025-1g4b)
+- [Unlocking the Power of Spanish Benchmarks: Why &quot;Hola&quot; Matters More Than You Think](https://dev.to/agustin_bereciartua/unlocking-the-power-of-spanish-benchmarks-why-hola-matters-more-than-you-think-29l5)
+- [Hello Folks!](https://dev.to/mohamed_rila/hello-folks-1d3c)
+- [2D Game Menu with Godot4](https://dev.to/justaguyfrombr/2d-game-menu-with-godot4-55hj)
+- [How Transformers Revolutionized AI with Attention Mechanisms](https://dev.to/vasanthi_govindaraj_5bfd4/how-transformers-revolutionized-ai-with-attention-mechanisms-2eg)
 <!-- BLOG-POST-LIST:END -->
 
