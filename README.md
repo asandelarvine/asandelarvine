@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement WitnessCalc in native apps Pt.2](https://dev.to/lukachi/implement-witnesscalc-in-native-apps-pt2-ei3)
-- [These Are the Best Programming Languages for AI Development.](https://dev.to/thepeteleba/these-are-the-best-programming-languages-for-ai-development-2ceh)
-- [Implement WitnessCalc in native apps Pt.1](https://dev.to/lukachi/implement-witnesscalc-in-native-apps-pt1-472h)
-- [🚀📊 Will $AVAX Break the $34.85 Resistance?](https://dev.to/sergi_web3/will-avax-break-the-3485-resistance-19g6)
+- [Learn with Lumi! Beta testing starts soon!](https://dev.to/evanmarie/learn-with-lumi-beta-testing-starts-soon-p1d)
+- [Error Handling in Node.js](https://dev.to/jahend412/error-handling-in-nodejs-41o2)
+- [Releasing Tailor4Job via npm](https://dev.to/inder4code/releasing-tailor4job-via-npm-4h7l)
+- [4 Ways to Improve your Code Readability](https://dev.to/peboycodes/4-ways-to-improve-your-code-readability-2dol)
 <!-- BLOG-POST-LIST:END -->
 
