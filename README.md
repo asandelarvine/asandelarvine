@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 modern CSS tricks that you should know](https://dev.to/melnik909/the-5-modern-css-tricks-that-you-should-know-3f0b)
-- [A Letter to Jobseekers: Don&#39;t Give Up!](https://dev.to/westernal/a-letter-to-jobseekers-dont-give-up-2jim)
-- [422 Error with @jwt_required&lpar;&rpar; in Flask App Deployed on VPS with Nginx](https://dev.to/mohamed_zahi_00/422-error-with-jwtrequired-in-flask-app-deployed-on-vps-with-nginx-4ggm)
-- [I created a visually pleasing HTML color viewer](https://dev.to/madsenmm/i-created-a-visually-pleasing-html-color-viewer-92c)
+- [Edit Large Documents in Realtime using GPT and Function Calling](https://dev.to/airabbit/instant-documents-editing-using-gpt-and-function-calling-32ca)
+- [Instant Documents Editing using GPT and Function Calling: A Summary](https://dev.to/airabbit/instant-documents-editing-using-gpt-and-function-calling-a-summary-278h)
+- [Comprehensive Comparison of GPT-Powered Obsidian Plugins in 2024 &lpar;Summary&rpar;](https://dev.to/airabbit/comprehensive-comparison-of-gpt-powered-obsidian-plugins-in-2024-summary-50mn)
+- [Guide to Test-Driven Development &lpar;TDD&rpar; in Laravel: A Step-by-Step Example](https://dev.to/amritak27/guide-to-test-driven-development-tdd-in-laravel-a-step-by-step-example-2ae7)
 <!-- BLOG-POST-LIST:END -->
 
