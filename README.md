@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Insecure Direct Object References &lpar;IDOR&rpar; in Laravel](https://dev.to/pentest_testing_corp/insecure-direct-object-references-idor-in-laravel-18kk)
-- [@manypkg/get-packages usage in Changesets](https://dev.to/thinkthroo/manypkgget-packages-usage-in-changesets-3n73)
-- [A comprehensive guide to developing a Car Rental App](https://dev.to/birdmorning/a-comprehensive-guide-to-developing-a-car-rental-app-efa)
-- [Generate PESTEL Analysis With AI: A Comprehensive Guide](https://dev.to/ishmam_jahan_4269b6f13ba5/generate-pestel-analysis-with-ai-a-comprehensive-guide-3e7e)
+- [Understanding WeakRefs and FinalizationRegistry in JavaScript](https://dev.to/shafayeat/understanding-weakrefs-and-finalizationregistry-in-javascript-3gog)
+- [How to Store Specified CSV Columns to a New File #eg77](https://dev.to/esproc_spl/how-to-store-specified-csv-columns-to-a-new-file-eg77-4enf)
+- [From Basics to Real-Time Performance: a Complete Guide to API Requests](https://dev.to/getambassador2024/from-basics-to-real-time-performance-a-complete-guide-to-api-requests-47d8)
+- [Python Day 7-How to build a Tech Community?](https://dev.to/guru_prasanna_01/python-day-7-how-to-build-community-4a0n)
 <!-- BLOG-POST-LIST:END -->
 
