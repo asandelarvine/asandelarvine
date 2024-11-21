@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Insurance Software Development: Streamlining Processes for Faster Deployment](https://dev.to/stratoflow/custom-insurance-software-development-streamlining-processes-for-faster-deployment-5cp1)
-- [Nodejs worker pools fine tuning](https://dev.to/jrme_chauveau_54adb30d6/nodejs-worker-pools-fine-tuning-26o8)
-- [20. Valid Parentheses](https://dev.to/tamilvanan/20-valid-parentheses-412j)
-- [How a Solar Rooftop Calculator Helps You Make Informed Decisions](https://dev.to/swapnilu/how-a-solar-rooftop-calculator-helps-you-make-informed-decisions-c37)
+- [Run Android Emulator without installing Android Studio](https://dev.to/shivams136/run-android-emulator-without-installing-android-studio-3ji)
+- [💻📊 Effortless Data Integration with Pandas and PostgreSQL 🚀](https://dev.to/msjahid/effortless-data-integration-with-pandas-and-postgresql-4phh)
+- [Dynamic HTML Tag in React Components with the &quot;as&quot; prop](https://dev.to/tresorama/dynamic-html-tag-in-react-components-with-the-as-prop-56b8)
+- [🚀 Coming Soon: Eldora 2.0 – The Future of Page Design](https://dev.to/karthikmudunuri/coming-soon-eldora-20-the-future-of-page-design-18ce)
 <!-- BLOG-POST-LIST:END -->
 
