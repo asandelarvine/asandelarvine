@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CDN NLogN🌍](https://dev.to/ycwhencpp/cdn-nlogn-35n9)
-- [Self-Aligning Dish in Rust: Blink](https://dev.to/ian_ndeda/self-aligning-dish-in-rust-blink-mjh)
-- [Web developers are not software engineers.](https://dev.to/a_andreasian/web-developers-are-not-software-engineers-28bp)
-- [Inheritance with Stimulus Controller](https://dev.to/railsdesigner/inheritance-with-stimulus-controller-g58)
+- [Implement WitnessCalc in native apps Pt.2](https://dev.to/lukachi/implement-witnesscalc-in-native-apps-pt2-ei3)
+- [These Are the Best Programming Languages for AI Development.](https://dev.to/thepeteleba/these-are-the-best-programming-languages-for-ai-development-2ceh)
+- [Implement WitnessCalc in native apps Pt.1](https://dev.to/lukachi/implement-witnesscalc-in-native-apps-pt1-472h)
+- [🚀📊 Will $AVAX Break the $34.85 Resistance?](https://dev.to/sergi_web3/will-avax-break-the-3485-resistance-19g6)
 <!-- BLOG-POST-LIST:END -->
 
