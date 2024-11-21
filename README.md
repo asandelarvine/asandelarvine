@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Quorum-Based Approaches in Distributed Systems - Jaimin Bariya](https://dev.to/jaiminbariya/understanding-quorum-based-approaches-in-distributed-systems-jaimin-bariya-5h1b)
-- [how can I add search functionality in this code?](https://dev.to/farhan_ahmedfarhan41230/how-can-i-add-search-functionality-in-this-code-3ige)
-- [Entendendo props e useState no React: Como Passar e Gerenciar Dados Entre Componentes](https://dev.to/vania_gomes/entendendo-props-e-usestate-no-react-como-passar-e-gerenciar-dados-entre-componentes-12oe)
-- [Getting Started with DevOps: A Comprehensive Guide](https://dev.to/rohitg00/getting-started-with-devops-a-comprehensive-guide-5d45)
+- [S3 Enumeration](https://dev.to/aktran321/s3-enumeration-53hd)
+- [Introducing CI Pipeline for Clang-Format Checks in faker-cxx](https://dev.to/mayankpareek/introducing-ci-pipeline-for-clang-format-checks-in-faker-cxx-35go)
+- [Top MLOps Interview Questions and Answers](https://dev.to/vivekk101/top-mlops-interview-questions-and-answers-56lg)
+- [Dive Deep into OS Development with &quot;The Little Book About OS Development&quot;](https://dev.to/getvm/dive-deep-into-os-development-with-the-little-book-about-os-development-24b7)
 <!-- BLOG-POST-LIST:END -->
 
