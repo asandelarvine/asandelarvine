@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from nvm to mise](https://dev.to/hverlin/migrating-from-nvm-to-mise-4mfp)
-- [How I Built a Cardiovascular Disease Detector using Machine Learning and FastAPI](https://dev.to/okellodaniel/how-i-built-a-cardiovascular-disease-detector-using-machine-learning-and-fastapi-adi)
-- [Release 0.3 - OEV-docs PR](https://dev.to/cduarte3/release-03-oev-docs-pr-3eno)
-- [A Roadmap to Growth in the IT Industry](https://dev.to/sagarmuchhal/a-roadmap-to-growth-in-the-it-industry-3bom)
+- [Customize dataset so that Dataloader can apply...](https://dev.to/henri_wang_d48b1e9bc1ea79/customize-dataset-so-that-dataloader-can-apply-37no)
+- [Build an enterprise-level financial data analysis assistant: multi-source data RAG system practice based on LangChain](https://dev.to/jamesli/build-an-enterprise-level-financial-data-analysis-assistant-multi-source-data-rag-system-practice-2c2h)
+- [In React, quickly collect form data into a complex JSON object](https://dev.to/zhangfisher/in-react-quickly-collect-form-data-into-a-complex-json-object-4i5m)
+- [Introduction to Clock IC](https://dev.to/lisleapex/introduction-to-clock-ic-2p2n)
 <!-- BLOG-POST-LIST:END -->
 
