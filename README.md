@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn with Lumi! Beta testing starts soon!](https://dev.to/evanmarie/learn-with-lumi-beta-testing-starts-soon-p1d)
-- [Error Handling in Node.js](https://dev.to/jahend412/error-handling-in-nodejs-41o2)
-- [Releasing Tailor4Job via npm](https://dev.to/inder4code/releasing-tailor4job-via-npm-4h7l)
-- [4 Ways to Improve your Code Readability](https://dev.to/peboycodes/4-ways-to-improve-your-code-readability-2dol)
+- [The Art of Loading States: Reimagining Loading Experiences at Scale](https://dev.to/dayo_adewuyi/the-art-of-loading-states-reimagining-loading-experiences-at-scale-2g2i)
+- [[DevLog #02] Gmail-TUI: Replicating Gmail-Web&#39;s Navigation](https://dev.to/dev_vaayen/devlog-02-gmail-tui-replicating-gmail-webs-navigation-blb)
+- [Azure Durable Task Scheduler advantages for Durable Functions](https://dev.to/florianlenz/azure-durable-task-scheduler-advantages-for-durable-functions-2944)
+- [Por que a Polícia Federal conseguiu recuperar o vídeo &#39;deletado&#39; do Mauro CID?](https://dev.to/valdeirpsr/por-que-os-arquivos-sao-recuperados-de-ssds-mesmo-apos-a-exclusao-383m)
 <!-- BLOG-POST-LIST:END -->
 
