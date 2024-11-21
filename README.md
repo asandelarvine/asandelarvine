@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can LLMs Play Chess? I&#39;ve Tested 13 Models](https://dev.to/maximsaplin/can-llms-play-chess-ive-tested-13-models-2154)
-- [Dev Log #14 - Phaser.js and game dev](https://dev.to/antoniodev/dev-log-14-phaserjs-and-game-dev-5382)
-- [How EDI Communication Protocols Streamline Business Data Exchange](https://dev.to/adityabhuyan/how-edi-communication-protocols-streamline-business-data-exchange-5fcf)
-- [How to Remove Account Facial Recognition Sign-In in Windows 11?](https://dev.to/win11verse/how-to-remove-account-facial-recognition-sign-in-in-windows-11-113c)
+- [🗞 Rapyd Developer Newsletter: October 2024 💰 Gig Payments Made Easy + More](https://dev.to/rapyd/rapyd-developer-newsletter-october-2024-gig-payments-made-easy-more-30ha)
+- [Using Map, Filter, and Reduce Effectively in JavaScript🔥](https://dev.to/hosseinmobarakian/using-map-filter-and-reduce-effectively-in-javascript-2g6d)
+- [Custom Hooks in React: A Guide to Creation and Usage](https://dev.to/wittedtech-by-harshit/custom-hooks-in-react-a-guide-to-creation-and-usage-2d99)
+- [Newbie&#39;s Guide to Starting with Open Source Contributions](https://dev.to/mettasurendhar/newbies-guide-to-starting-with-open-source-contributions-44dh)
 <!-- BLOG-POST-LIST:END -->
 
