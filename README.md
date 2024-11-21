@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Revolutionizing Case Research for PA Personal Injury Attorneys: A 2024 Perspective](https://dev.to/josef_doctorovitz_ww/how-ai-is-revolutionizing-case-research-for-pa-personal-injury-attorneys-a-2024-perspective-4he6)
-- [Level Up Your CSS with Sass: A Game-Changer for Web Developers](https://dev.to/tharindumadubashna/level-up-your-css-with-sass-a-game-changer-for-web-developers-1i10)
-- [how to add Google login remind popup to web application](https://dev.to/fromsian/how-to-add-google-login-remind-popup-to-web-application-4pi8)
-- [Part 2 - Building the Frontend for Screenshot Generation with Nuxt 3](https://dev.to/dailysandbox/part-2-building-the-frontend-for-screenshot-generation-with-nuxt-3-35ng)
+- [Decoding User Experience: 5 Fundamental Laws Every Designer Should Know](https://dev.to/nozibul_islam_113b1d5334f/decoding-user-experience-5-fundamental-laws-every-designer-should-know-39fi)
+- [3d Cards matching game using html css and javascript follow us on instagram: https://www.instagram.com/webstreet_code/](https://dev.to/prince_beec5ccde00b7c6c73/3d-cards-matching-game-using-html-css-and-javascript-follow-us-on-instagram-177g)
+- [Building Microservices in Java: A Practical Guide](https://dev.to/brilworks/building-microservices-in-java-a-practical-guide-49h8)
+- [Integrating Live Activity and Dynamic Island in iOS: A Complete Guide](https://dev.to/divyeshvekariya/integrating-live-activity-and-dynamic-island-in-ios-a-complete-guide-2i0l)
 <!-- BLOG-POST-LIST:END -->
 
