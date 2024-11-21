@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++](https://dev.to/pvsdev/history-of-c-and-c-part-one-emergence-and-standardization-of-c-language-c-with-classes-becomes-48kj)
-- [Mastering Cloud-Based Development Environments: Unlocking Productivity with GitHub Codespaces and AWS Cloud9](https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-cloud-based-development-environments-unlocking-productivity-with-github-codespaces-and-10fn)
-- [Mastering Reactive Microservices: Spring WebFlux and Project Reactor Essentials for High-Performance Systems](https://dev.to/aaravjoshi/mastering-reactive-microservices-spring-webflux-and-project-reactor-essentials-for-305m)
-- [GBASE数据库 | GBase 8c Compatibility Analysis with Distributed Databases](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8c-compatibility-analysis-with-distributed-databases-1kca)
+- [Mastering Currying in JavaScript 🌟](https://dev.to/jagroop2001/mastering-currying-in-javascript-25h2)
+- [&quot;IT&quot; - nima degani?](https://dev.to/_e7530225be583f1/it-nima-degani-4op2)
+- [ContextCheck: An open-source framework for testing and evaluating LLMs, RAGs, Chatbots](https://dev.to/edwin_lisowski/contextcheck-an-open-source-framework-for-testing-and-evaluating-llms-rags-chatbots-3hkn)
+- [React timed server-side flip just right](https://dev.to/senky/react-timed-server-side-flip-just-right-2311)
 <!-- BLOG-POST-LIST:END -->
 
