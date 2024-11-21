@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding User Experience: 5 Fundamental Laws Every Designer Should Know](https://dev.to/nozibul_islam_113b1d5334f/decoding-user-experience-5-fundamental-laws-every-designer-should-know-39fi)
-- [3d Cards matching game using html css and javascript follow us on instagram: https://www.instagram.com/webstreet_code/](https://dev.to/prince_beec5ccde00b7c6c73/3d-cards-matching-game-using-html-css-and-javascript-follow-us-on-instagram-177g)
-- [Building Microservices in Java: A Practical Guide](https://dev.to/brilworks/building-microservices-in-java-a-practical-guide-49h8)
-- [Integrating Live Activity and Dynamic Island in iOS: A Complete Guide](https://dev.to/divyeshvekariya/integrating-live-activity-and-dynamic-island-in-ios-a-complete-guide-2i0l)
+- [Insecure Direct Object References &lpar;IDOR&rpar; in Laravel](https://dev.to/pentest_testing_corp/insecure-direct-object-references-idor-in-laravel-18kk)
+- [@manypkg/get-packages usage in Changesets](https://dev.to/thinkthroo/manypkgget-packages-usage-in-changesets-3n73)
+- [A comprehensive guide to developing a Car Rental App](https://dev.to/birdmorning/a-comprehensive-guide-to-developing-a-car-rental-app-efa)
+- [Generate PESTEL Analysis With AI: A Comprehensive Guide](https://dev.to/ishmam_jahan_4269b6f13ba5/generate-pestel-analysis-with-ai-a-comprehensive-guide-3e7e)
 <!-- BLOG-POST-LIST:END -->
 
