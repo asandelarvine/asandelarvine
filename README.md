@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Android Emulator without installing Android Studio](https://dev.to/shivams136/run-android-emulator-without-installing-android-studio-3ji)
-- [💻📊 Effortless Data Integration with Pandas and PostgreSQL 🚀](https://dev.to/msjahid/effortless-data-integration-with-pandas-and-postgresql-4phh)
-- [Dynamic HTML Tag in React Components with the &quot;as&quot; prop](https://dev.to/tresorama/dynamic-html-tag-in-react-components-with-the-as-prop-56b8)
-- [🚀 Coming Soon: Eldora 2.0 – The Future of Page Design](https://dev.to/karthikmudunuri/coming-soon-eldora-20-the-future-of-page-design-18ce)
+- [The 5 modern CSS tricks that you should know](https://dev.to/melnik909/the-5-modern-css-tricks-that-you-should-know-3f0b)
+- [A Letter to Jobseekers: Don&#39;t Give Up!](https://dev.to/westernal/a-letter-to-jobseekers-dont-give-up-2jim)
+- [422 Error with @jwt_required&lpar;&rpar; in Flask App Deployed on VPS with Nginx](https://dev.to/mohamed_zahi_00/422-error-with-jwtrequired-in-flask-app-deployed-on-vps-with-nginx-4ggm)
+- [I created a visually pleasing HTML color viewer](https://dev.to/madsenmm/i-created-a-visually-pleasing-html-color-viewer-92c)
 <!-- BLOG-POST-LIST:END -->
 
