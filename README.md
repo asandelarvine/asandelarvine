@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How is B Tech Ai Revolutionising the Field of Education?](https://dev.to/ashwini_ashu/how-is-b-tech-ai-revolutionising-the-field-of-education-5hlf)
-- [Know Everything About Blind XSS and How to Detect and Prevent Blind XSS Attacks](https://dev.to/sign_my_code/know-everything-about-blind-xss-and-how-to-detect-and-prevent-blind-xss-attacks-26a0)
-- [Static Site Generators&lpar;SGG&rpar; using React: Is Gatsby still the king?](https://dev.to/quantotius/static-site-generatorssgg-using-react-is-gatsby-still-the-king-1eel)
-- [10 Key Insights into Express.js for Building Scalable Web Applications](https://dev.to/saquibe/10-key-insights-into-expressjs-for-building-scalable-web-applications-5734)
+- [History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++](https://dev.to/pvsdev/history-of-c-and-c-part-one-emergence-and-standardization-of-c-language-c-with-classes-becomes-48kj)
+- [Mastering Cloud-Based Development Environments: Unlocking Productivity with GitHub Codespaces and AWS Cloud9](https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-cloud-based-development-environments-unlocking-productivity-with-github-codespaces-and-10fn)
+- [Mastering Reactive Microservices: Spring WebFlux and Project Reactor Essentials for High-Performance Systems](https://dev.to/aaravjoshi/mastering-reactive-microservices-spring-webflux-and-project-reactor-essentials-for-305m)
+- [GBASE数据库 | GBase 8c Compatibility Analysis with Distributed Databases](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8c-compatibility-analysis-with-distributed-databases-1kca)
 <!-- BLOG-POST-LIST:END -->
 
