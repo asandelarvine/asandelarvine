@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customize dataset so that Dataloader can apply...](https://dev.to/henri_wang_d48b1e9bc1ea79/customize-dataset-so-that-dataloader-can-apply-37no)
-- [Build an enterprise-level financial data analysis assistant: multi-source data RAG system practice based on LangChain](https://dev.to/jamesli/build-an-enterprise-level-financial-data-analysis-assistant-multi-source-data-rag-system-practice-2c2h)
-- [In React, quickly collect form data into a complex JSON object](https://dev.to/zhangfisher/in-react-quickly-collect-form-data-into-a-complex-json-object-4i5m)
-- [Introduction to Clock IC](https://dev.to/lisleapex/introduction-to-clock-ic-2p2n)
+- [How AI is Revolutionizing Case Research for PA Personal Injury Attorneys: A 2024 Perspective](https://dev.to/josef_doctorovitz_ww/how-ai-is-revolutionizing-case-research-for-pa-personal-injury-attorneys-a-2024-perspective-4he6)
+- [Level Up Your CSS with Sass: A Game-Changer for Web Developers](https://dev.to/tharindumadubashna/level-up-your-css-with-sass-a-game-changer-for-web-developers-1i10)
+- [how to add Google login remind popup to web application](https://dev.to/fromsian/how-to-add-google-login-remind-popup-to-web-application-4pi8)
+- [Part 2 - Building the Frontend for Screenshot Generation with Nuxt 3](https://dev.to/dailysandbox/part-2-building-the-frontend-for-screenshot-generation-with-nuxt-3-35ng)
 <!-- BLOG-POST-LIST:END -->
 
