@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Spanish Benchmarks: Why &quot;Hola&quot; Matters More Than You Think](https://dev.to/agustin_bereciartua/unlocking-the-power-of-spanish-benchmarks-why-hola-matters-more-than-you-think-29l5)
-- [Hello Folks!](https://dev.to/mohamed_rila/hello-folks-1d3c)
-- [2D Game Menu with Godot4](https://dev.to/justaguyfrombr/2d-game-menu-with-godot4-55hj)
-- [How Transformers Revolutionized AI with Attention Mechanisms](https://dev.to/vasanthi_govindaraj_5bfd4/how-transformers-revolutionized-ai-with-attention-mechanisms-2eg)
+- [Migrating from nvm to mise](https://dev.to/hverlin/migrating-from-nvm-to-mise-4mfp)
+- [How I Built a Cardiovascular Disease Detector using Machine Learning and FastAPI](https://dev.to/okellodaniel/how-i-built-a-cardiovascular-disease-detector-using-machine-learning-and-fastapi-adi)
+- [Release 0.3 - OEV-docs PR](https://dev.to/cduarte3/release-03-oev-docs-pr-3eno)
+- [A Roadmap to Growth in the IT Industry](https://dev.to/sagarmuchhal/a-roadmap-to-growth-in-the-it-industry-3bom)
 <!-- BLOG-POST-LIST:END -->
 
