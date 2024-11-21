@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Currying in JavaScript 🌟](https://dev.to/jagroop2001/mastering-currying-in-javascript-25h2)
-- [&quot;IT&quot; - nima degani?](https://dev.to/_e7530225be583f1/it-nima-degani-4op2)
-- [ContextCheck: An open-source framework for testing and evaluating LLMs, RAGs, Chatbots](https://dev.to/edwin_lisowski/contextcheck-an-open-source-framework-for-testing-and-evaluating-llms-rags-chatbots-3hkn)
-- [React timed server-side flip just right](https://dev.to/senky/react-timed-server-side-flip-just-right-2311)
+- [Understanding Quorum-Based Approaches in Distributed Systems - Jaimin Bariya](https://dev.to/jaiminbariya/understanding-quorum-based-approaches-in-distributed-systems-jaimin-bariya-5h1b)
+- [how can I add search functionality in this code?](https://dev.to/farhan_ahmedfarhan41230/how-can-i-add-search-functionality-in-this-code-3ige)
+- [Entendendo props e useState no React: Como Passar e Gerenciar Dados Entre Componentes](https://dev.to/vania_gomes/entendendo-props-e-usestate-no-react-como-passar-e-gerenciar-dados-entre-componentes-12oe)
+- [Getting Started with DevOps: A Comprehensive Guide](https://dev.to/rohitg00/getting-started-with-devops-a-comprehensive-guide-5d45)
 <!-- BLOG-POST-LIST:END -->
 
