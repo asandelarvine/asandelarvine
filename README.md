@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗞 Rapyd Developer Newsletter: October 2024 💰 Gig Payments Made Easy + More](https://dev.to/rapyd/rapyd-developer-newsletter-october-2024-gig-payments-made-easy-more-30ha)
-- [Using Map, Filter, and Reduce Effectively in JavaScript🔥](https://dev.to/hosseinmobarakian/using-map-filter-and-reduce-effectively-in-javascript-2g6d)
-- [Custom Hooks in React: A Guide to Creation and Usage](https://dev.to/wittedtech-by-harshit/custom-hooks-in-react-a-guide-to-creation-and-usage-2d99)
-- [Newbie&#39;s Guide to Starting with Open Source Contributions](https://dev.to/mettasurendhar/newbies-guide-to-starting-with-open-source-contributions-44dh)
+- [Custom Insurance Software Development: Streamlining Processes for Faster Deployment](https://dev.to/stratoflow/custom-insurance-software-development-streamlining-processes-for-faster-deployment-5cp1)
+- [Nodejs worker pools fine tuning](https://dev.to/jrme_chauveau_54adb30d6/nodejs-worker-pools-fine-tuning-26o8)
+- [20. Valid Parentheses](https://dev.to/tamilvanan/20-valid-parentheses-412j)
+- [How a Solar Rooftop Calculator Helps You Make Informed Decisions](https://dev.to/swapnilu/how-a-solar-rooftop-calculator-helps-you-make-informed-decisions-c37)
 <!-- BLOG-POST-LIST:END -->
 
