@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Edit Large Documents in Realtime using GPT and Function Calling](https://dev.to/airabbit/instant-documents-editing-using-gpt-and-function-calling-32ca)
-- [Instant Documents Editing using GPT and Function Calling: A Summary](https://dev.to/airabbit/instant-documents-editing-using-gpt-and-function-calling-a-summary-278h)
-- [Comprehensive Comparison of GPT-Powered Obsidian Plugins in 2024 &lpar;Summary&rpar;](https://dev.to/airabbit/comprehensive-comparison-of-gpt-powered-obsidian-plugins-in-2024-summary-50mn)
-- [Guide to Test-Driven Development &lpar;TDD&rpar; in Laravel: A Step-by-Step Example](https://dev.to/amritak27/guide-to-test-driven-development-tdd-in-laravel-a-step-by-step-example-2ae7)
+- [CDN NLogN🌍](https://dev.to/ycwhencpp/cdn-nlogn-35n9)
+- [Self-Aligning Dish in Rust: Blink](https://dev.to/ian_ndeda/self-aligning-dish-in-rust-blink-mjh)
+- [Web developers are not software engineers.](https://dev.to/a_andreasian/web-developers-are-not-software-engineers-28bp)
+- [Inheritance with Stimulus Controller](https://dev.to/railsdesigner/inheritance-with-stimulus-controller-g58)
 <!-- BLOG-POST-LIST:END -->
 
