@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using MiniSearch in React: Advanced Search and Filtering Made Easy](https://dev.to/voke_vawkei/using-minisearch-in-react-advanced-search-and-filtering-made-easy-191c)
-- [Reverse engineering GraphQL persistedQuery extension](https://dev.to/crawlee/reverse-engineering-graphql-persistedquery-extension-4o9j)
-- [Goodbye Exceptions! Mastering Error Handling in JavaScript with the Result Pattern](https://dev.to/gautam_kumar_d3daad738680/goodbye-exceptions-mastering-error-handling-in-javascript-with-the-result-pattern-26kb)
-- [Understanding Upwork&#39;s Security Systems: A Deep Technical Dive](https://dev.to/jason_smith_c5f0dd9d2c5c9/understanding-upworks-security-systems-a-deep-technical-dive-59p2)
+- [Java serialization: let&#39;s dig it up](https://dev.to/pvsdev/java-serialization-lets-dig-it-up-35i0)
+- [How to deploy Qwen2.5-Coder-32B-Instruct in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-qwen25-coder-32b-instruct-in-the-cloud-4o9m)
+- [Secure transfer](https://dev.to/junissen9/secure-transfer-o2l)
+- [My AWS Journey](https://dev.to/ijay/my-aws-journey-53l1)
 <!-- BLOG-POST-LIST:END -->
 
