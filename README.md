@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Shaping the Future of SaaS](https://dev.to/sanskar_4862/how-ai-is-shaping-the-future-of-saas-bdn)
-- [&quot;Navigating the Maze: Solving Pathfinding Problems with the Rat in a Maze Algorithm&quot;](https://dev.to/charumathi_m/navigating-the-maze-solving-pathfinding-problems-with-the-rat-in-a-maze-algorithm-a33)
-- [Releasing my open source project.](https://dev.to/krinskumar/releasing-my-open-source-project-4aa)
-- [HOSTING A STATIC WEBSITE ON AZURE BLOB STORAG](https://dev.to/olalekan_johnayansola_4a/hosting-a-static-website-on-azure-blob-storag-2g2k)
+- [Setting Up a DNS Server on My Local System &lpar;BIND9&rpar;](https://dev.to/teetoflame/setting-up-a-dns-server-on-my-local-system-bind9-1a8c)
+- [Alternatives to React Redux: Exploring Zustand and Jotai&lpar;atom&rpar;](https://dev.to/keshav___dev/alternatives-to-react-redux-exploring-zustand-and-jotaiatom-49jo)
+- [Behind the Scenes: Amazon&#39;s Inventory Management Mastery using backtracking](https://dev.to/muthaiah_p_9404b69ed194c8/behind-the-scenes-amazons-inventory-management-mastery-using-backtracking-21d1)
+- [Recent Web Vulnerabilities and How LLMs and DCS Can Help Combat Them!](https://dev.to/rabbitwolf__/recent-web-vulnerabilities-and-how-llms-and-dcs-can-help-combat-them-1jdd)
 <!-- BLOG-POST-LIST:END -->
 
