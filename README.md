@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 Top-Rated Talks at NODES 2024](https://dev.to/yolandeonneo4j/the-10-top-rated-talks-at-nodes-2024-3gb7)
-- [Morning Self-Care to Boost Serotonin: 3 Habits for Better Mental Health &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/morning-self-care-to-boost-serotonin-3-habits-for-better-mental-health-bite-size-article-24b6)
-- [CASE STUDY](https://dev.to/praisey/case-study-41lj)
-- [ReadmeGenie is Ready for You! Automating Releases with GitHub Actions](https://dev.to/htsagara/readmegenie-is-ready-for-you-automating-releases-with-github-actions-4fmn)
+- [Learning Parent and Child Shells in Bash Scripts](https://dev.to/tommykw/learning-parent-and-child-shells-in-bash-scripts-1ijj)
+- [Building the Foundation: How to Connect to a Windows Virtual Machine and install Windows Server](https://dev.to/under2wenty/building-the-foundation-how-to-connect-to-a-windows-virtual-machine-and-install-windows-server-3f8b)
+- [How to publish your node.js package to NPM](https://dev.to/bregwin/how-to-publish-your-nodejs-package-to-npm-2gc3)
+- [Meta Tower](https://dev.to/theversan_4adce7651e1fe76/meta-tower-2go3)
 <!-- BLOG-POST-LIST:END -->
 
