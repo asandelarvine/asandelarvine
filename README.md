@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java serialization: let&#39;s dig it up](https://dev.to/pvsdev/java-serialization-lets-dig-it-up-35i0)
-- [How to deploy Qwen2.5-Coder-32B-Instruct in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-qwen25-coder-32b-instruct-in-the-cloud-4o9m)
-- [Secure transfer](https://dev.to/junissen9/secure-transfer-o2l)
-- [My AWS Journey](https://dev.to/ijay/my-aws-journey-53l1)
+- [Unpacking Lambda Expressions: What They Are and Why They Matter](https://dev.to/rajibdk/unpacking-lambda-expressions-what-they-are-and-why-they-matter-58f8)
+- [Tired of Developer Reports That Leave You in the Dark?](https://dev.to/devactivity-app/tired-of-developer-reports-that-leave-you-in-the-dark-2b3l)
+- [Building a SSL Certificate Monitor &lpar;to check a validity date&rpar;](https://dev.to/mibii/building-a-ssl-certificate-monitor-to-check-a-validity-date-3ggj)
+- [Why Multiply and Divide by 1𝑒18 in Solidity?](https://dev.to/prince_ad7e7c212e5c5ecf40/why-multiply-and-divide-by-118-in-solidity-53mp)
 <!-- BLOG-POST-LIST:END -->
 
