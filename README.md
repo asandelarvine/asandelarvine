@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpacking Lambda Expressions: What They Are and Why They Matter](https://dev.to/rajibdk/unpacking-lambda-expressions-what-they-are-and-why-they-matter-58f8)
-- [Tired of Developer Reports That Leave You in the Dark?](https://dev.to/devactivity-app/tired-of-developer-reports-that-leave-you-in-the-dark-2b3l)
-- [Building a SSL Certificate Monitor &lpar;to check a validity date&rpar;](https://dev.to/mibii/building-a-ssl-certificate-monitor-to-check-a-validity-date-3ggj)
-- [Why Multiply and Divide by 1𝑒18 in Solidity?](https://dev.to/prince_ad7e7c212e5c5ecf40/why-multiply-and-divide-by-118-in-solidity-53mp)
+- [✨ Colorful Magic Blocks! 🌈 ✨ using html css and javascript illusion](https://dev.to/prince_beec5ccde00b7c6c73/colorful-magic-blocks-using-html-css-and-javascript-illusion-1inb)
+- [Scaling AI Infrastructure: Challenges and Best Practices](https://dev.to/nix_25/scaling-ai-infrastructure-challenges-and-best-practices-2704)
+- [Scaling AI Infrastructure: Challenges and Best Practices](https://dev.to/nix_25/scaling-ai-infrastructure-challenges-and-best-practices-5b8m)
+- [Easiest way of Implementing Authentication in NestJS](https://dev.to/haroldmud/easiest-way-of-implementing-authentication-in-nestjs-594g)
 <!-- BLOG-POST-LIST:END -->
 
