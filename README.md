@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Burnout to Breakthrough: Rediscovering My Passion in Tech and Writing](https://dev.to/udoka033/burnout-to-breakthrough-rediscovering-my-passion-in-tech-and-writing-2hid)
-- [Sophisticated Speech-to-Text Submission Template, The AssemblyAI challenge.](https://dev.to/devmercy/sophisticated-speech-to-text-submission-template-5fkn)
-- [Mastering AWS DevOps with 20 Essential Services](https://dev.to/mohamednasser018/mastering-aws-devops-with-20-essential-services-3pep)
-- [ECCV 2024 - Skeleton Recall Loss for Connectivity Conserving and Resource Efficient Segmentation of Thin Tubular Structures](https://dev.to/voxel51/eccv-2024-skeleton-recall-loss-for-connectivity-conserving-and-resource-efficient-segmentation-of-bij)
+- [Security news weekly round-up - 22nd November 2024](https://dev.to/ziizium/security-news-weekly-round-up-22nd-november-2024-3d5k)
+- [Clarifying some Misconceptions about Java](https://dev.to/techdata_academy_0f128ec2/clarifying-some-misconceptions-about-java-28ka)
+- [Lab 9 - NPM Release](https://dev.to/cduarte3/lab-9-npm-release-32mj)
+- [ECCV 2024: High-Efficiency 3D Scene Compression Using Self-Organizing Gaussians](https://dev.to/voxel51/eccv-2024-high-efficiency-3d-scene-compression-using-self-organizing-gaussians-2lmp)
 <!-- BLOG-POST-LIST:END -->
 
