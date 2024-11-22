@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NFetch](https://dev.to/nighty3098/nfetch-3228)
-- [Smaller Efficient LLMs: The Future of AI](https://dev.to/siddharthbhalsod/smaller-efficient-llms-the-future-of-ai-50fo)
-- [5 Proven Strategies for Slashing Your AWS Bill](https://dev.to/billgist/5-proven-strategies-for-slashing-your-aws-bill-1d97)
-- [Easypanel: Um Painel Moderno para Gerenciamento de Servidores](https://dev.to/gsmatheus/easypanel-um-painel-moderno-para-gerenciamento-de-servidores-2o2n)
+- [This Week In React #210 : React 19 pre-warming, Next.js, TanStack, Expo Workflows, Yoga JSI, Skia, Turbo Haptics, Angular 19...](https://dev.to/sebastienlorber/this-week-in-react-210-react-19-pre-warming-nextjs-tanstack-expo-workflows-yoga-jsi-skia-1m4d)
+- [How to Score Amazon Free Credits: A Comprehensive Guide](https://dev.to/billgist/how-to-score-amazon-free-credits-a-comprehensive-guide-4k8n)
+- [Mastering the Art of Frontend Development 🌟✨ Season 1: The Foundations of UI Development 🚀 Ep 2: Design Principles 101 🎨](https://dev.to/bhuwan71/mastering-the-art-of-frontend-development-season-1-the-foundations-of-ui-development-ep-2-21i7)
+- [RAG based Generative AI using Amazon Bedrock Knowledge Base](https://dev.to/wojciech_piotrka_4898763/rag-based-generative-ai-using-amazon-bedrock-knowledge-base-1h9o)
 <!-- BLOG-POST-LIST:END -->
 
