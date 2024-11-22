@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Documentation with Next.js: A Case Study with JetThoughts](https://dev.to/jetthoughts/transforming-documentation-with-nextjs-a-case-study-with-jetthoughts-2c5o)
-- [&quot;Mastering the N-Queen Problem: Solving Complex Puzzles with Backtracking&quot;](https://dev.to/tharan_h5141/mastering-the-n-queen-problem-solving-complex-puzzles-with-backtracking-4814)
-- [The beginning Of My New Journey](https://dev.to/chishxd/the-beginning-of-my-new-journey-19d9)
-- [Mastering the N-Queen Problem](https://dev.to/jayasudhi_jit_51ca2325c2/mastering-the-n-queen-problem-njn)
+- [The to do list is long today 😭](https://dev.to/jess/the-to-do-list-is-long-today-5hgc)
+- [Harnessing the Power of AWS Security Services](https://dev.to/mohamednasser018/harnessing-the-power-of-aws-security-services-4eaa)
+- [Re-publishing gimme_readme to npm with GitHub Actions](https://dev.to/peterdanwan/re-publishing-gimmereadme-to-npm-with-github-actions-23cd)
+- [Automation and branches- Using YAMLFish to easily manage I18n translations in your project](https://dev.to/intrepidd/using-yamlfish-to-easily-manage-i18n-translations-in-your-project-automation-and-branches-1dhb)
 <!-- BLOG-POST-LIST:END -->
 
