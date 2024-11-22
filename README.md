@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Colorful Magic Blocks! 🌈 ✨ using html css and javascript illusion](https://dev.to/prince_beec5ccde00b7c6c73/colorful-magic-blocks-using-html-css-and-javascript-illusion-1inb)
-- [Scaling AI Infrastructure: Challenges and Best Practices](https://dev.to/nix_25/scaling-ai-infrastructure-challenges-and-best-practices-2704)
-- [Scaling AI Infrastructure: Challenges and Best Practices](https://dev.to/nix_25/scaling-ai-infrastructure-challenges-and-best-practices-5b8m)
-- [Easiest way of Implementing Authentication in NestJS](https://dev.to/haroldmud/easiest-way-of-implementing-authentication-in-nestjs-594g)
+- [NFetch](https://dev.to/nighty3098/nfetch-3228)
+- [Smaller Efficient LLMs: The Future of AI](https://dev.to/siddharthbhalsod/smaller-efficient-llms-the-future-of-ai-50fo)
+- [5 Proven Strategies for Slashing Your AWS Bill](https://dev.to/billgist/5-proven-strategies-for-slashing-your-aws-bill-1d97)
+- [Easypanel: Um Painel Moderno para Gerenciamento de Servidores](https://dev.to/gsmatheus/easypanel-um-painel-moderno-para-gerenciamento-de-servidores-2o2n)
 <!-- BLOG-POST-LIST:END -->
 
