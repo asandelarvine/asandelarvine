@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun Flashcards Game for Kids using AI Speech Recognition](https://dev.to/dchif/fun-flashcards-game-for-kids-using-ai-speech-recognition-4ip7)
-- [How to Convert JSON Data into a Two-dimensional Table and Export It to a CSV #78](https://dev.to/esproc_spl/how-to-convert-json-data-into-a-two-dimensional-table-and-export-it-to-a-csv-78-2p5f)
-- [Building a Casino Game with NPCs from &#39;Lost&#39;: A Codecademy Journey](https://dev.to/digitaldruid10010110/building-a-casino-game-with-npcs-from-lost-a-codecademy-journey-459b)
-- [Inside JavaScript Engines: How Browsers Bring Your Code to Life](https://dev.to/mukhilpadmanabhan/inside-javascript-engines-how-browsers-bring-your-code-to-life-h1)
+- [Using MiniSearch in React: Advanced Search and Filtering Made Easy](https://dev.to/voke_vawkei/using-minisearch-in-react-advanced-search-and-filtering-made-easy-191c)
+- [Reverse engineering GraphQL persistedQuery extension](https://dev.to/crawlee/reverse-engineering-graphql-persistedquery-extension-4o9j)
+- [Goodbye Exceptions! Mastering Error Handling in JavaScript with the Result Pattern](https://dev.to/gautam_kumar_d3daad738680/goodbye-exceptions-mastering-error-handling-in-javascript-with-the-result-pattern-26kb)
+- [Understanding Upwork&#39;s Security Systems: A Deep Technical Dive](https://dev.to/jason_smith_c5f0dd9d2c5c9/understanding-upworks-security-systems-a-deep-technical-dive-59p2)
 <!-- BLOG-POST-LIST:END -->
 
