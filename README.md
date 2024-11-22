@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [User Authentication 🔑: Your Ultimate Digital Shield ! 🛡️](https://dev.to/enzo_dechaene/user-authentication-your-ultimate-digital-shield--3j8e)
-- [Build a Fast and Lightweight Rust Vector Search App with Rig &amp; LanceDB](https://dev.to/0thtachi/build-a-fast-and-lightweight-rust-vector-search-app-with-rig-lancedb-57h2)
-- [How to Set Up a PHP Development Environment in VS Code with Docker Desktop A Step-by-Step Guide](https://dev.to/mdarifulhaque/how-to-set-up-a-php-development-environment-in-vs-code-with-docker-desktop-a-step-by-step-guide-12ia)
-- [Recapping ECCV 2024 Redux: Day 3](https://dev.to/voxel51/recapping-eccv-2024-redux-day-3-40c6)
+- [1072. Flip Columns For Maximum Number of Equal Rows](https://dev.to/mdarifulhaque/1072-flip-columns-for-maximum-number-of-equal-rows-48o5)
+- [Singleton Pattern](https://dev.to/sota_333ad4b72095606ab40c/singleton-pattern-2m62)
+- [Terraform-docs: Automatize sua Documentação de Infraestrutura como Código](https://dev.to/fernandomullerjr/terraform-docs-automatize-sua-documentacao-de-infraestrutura-como-codigo-5007)
+- [lowCalProj Update 1](https://dev.to/itsizakb/lowcalproj-update-1-4n6b)
 <!-- BLOG-POST-LIST:END -->
 
