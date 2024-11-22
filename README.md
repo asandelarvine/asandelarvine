@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Expectations &lpar;OTB Ep 7: JJ Brenner&rpar;](https://dev.to/codemouse92/navigating-expectations-otb-ep-7-jj-brenner-3jlb)
-- [🖼️ Blockchain NFT, ERC721 From Basics To Production 🚀](https://dev.to/truongpx396/blockchain-nft-erc721-from-basics-to-production-jja)
-- [AI Summit Vancouver 2024: Exploring AI&#39;s Role, Risks, and Transformative Power](https://dev.to/gitguardian/ai-summit-vancouver-2024-exploring-ais-role-risks-and-transformative-power-5e91)
-- [Virtual Machine Setup and WordPress Installation Documentation](https://dev.to/teetoflame/virtual-machine-setup-and-wordpress-installation-documentation-28m7)
+- [Tech Watch 4](https://dev.to/56_kode/tech-watch-4-2cah)
+- [JavaScript RPG Document: Exploration Feature - Level 1](https://dev.to/farishan/javascript-rpg-document-exploration-feature-level-1-46h)
+- [The Pocket Guide to Internal Developer Platform](https://dev.to/gravitycloud/the-pocket-guide-to-internal-developer-platform-3kcg)
+- [Hidden Gems of the Fedify CLI: Tips &amp; Tricks You Might Have Missed](https://dev.to/hongminhee/hidden-gems-of-the-fedify-cli-tips-tricks-you-might-have-missed-54af)
 <!-- BLOG-POST-LIST:END -->
 
