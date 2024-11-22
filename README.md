@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Watch 4](https://dev.to/56_kode/tech-watch-4-2cah)
-- [JavaScript RPG Document: Exploration Feature - Level 1](https://dev.to/farishan/javascript-rpg-document-exploration-feature-level-1-46h)
-- [The Pocket Guide to Internal Developer Platform](https://dev.to/gravitycloud/the-pocket-guide-to-internal-developer-platform-3kcg)
-- [Hidden Gems of the Fedify CLI: Tips &amp; Tricks You Might Have Missed](https://dev.to/hongminhee/hidden-gems-of-the-fedify-cli-tips-tricks-you-might-have-missed-54af)
+- [How AI is Shaping the Future of SaaS](https://dev.to/sanskar_4862/how-ai-is-shaping-the-future-of-saas-bdn)
+- [&quot;Navigating the Maze: Solving Pathfinding Problems with the Rat in a Maze Algorithm&quot;](https://dev.to/charumathi_m/navigating-the-maze-solving-pathfinding-problems-with-the-rat-in-a-maze-algorithm-a33)
+- [Releasing my open source project.](https://dev.to/krinskumar/releasing-my-open-source-project-4aa)
+- [HOSTING A STATIC WEBSITE ON AZURE BLOB STORAG](https://dev.to/olalekan_johnayansola_4a/hosting-a-static-website-on-azure-blob-storag-2g2k)
 <!-- BLOG-POST-LIST:END -->
 
