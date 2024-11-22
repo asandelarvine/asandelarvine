@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Idempotency in DynamoDB](https://dev.to/aws-builders/idempotency-in-dynamodb-4leh)
 - [#102 — Deduplication of Simple Data — Keeping the Original Order](https://dev.to/judith677/102-deduplication-of-simple-data-keeping-the-original-order-4ipc)
 - [Essential Writing Tips for Dev.to Community 👩🏼‍💻](https://dev.to/hanzla-baig/essential-writing-tips-for-devto-community-f2e)
 - [How to detect code language in browser](https://dev.to/ray-d-song/how-to-detect-code-language-in-browser-424h)
-- [ArkTS Memory Snapshots and Memory Leak Debugging](https://dev.to/xun_wang_6384a403f9817c2/arkts-memory-snapshots-and-memory-leak-debugging-1kn6)
 <!-- BLOG-POST-LIST:END -->
 
