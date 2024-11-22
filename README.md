@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Web Development YouTube Channels to Kickstart Your Learning in 2024 🚀](https://dev.to/abhishek_patel_14174bfd97/top-web-development-youtube-channels-to-kickstart-your-learning-in-2024-3o51)
-- [react day 1](https://dev.to/timthoi/react-day-1-49ih)
-- [Minimally intrusive instrumentation of embedded system C/C++ code](https://dev.to/bpremzel/minimally-intrusive-instrumentation-of-embedded-system-cc-code-1o3b)
-- [Spext - a web app that helps international students study better](https://dev.to/ducdev_29/spext-a-web-app-that-helps-international-students-study-better-321h)
+- [Understanding Test Scenarios vs Test Cases: A Complete Guide for QA Engineers](https://dev.to/nozibul_islam_113b1d5334f/understanding-test-scenarios-vs-test-cases-a-complete-guide-for-qa-engineers-4cmi)
+- [Must-Use Mobile Accessibility Testing Tools in 2025](https://dev.to/sarahthomasdev/must-use-mobile-accessibility-testing-tools-in-2025-4g9c)
+- [Implementation of ACID transaction in Database](https://dev.to/jaiminbariya/implementation-of-acid-transaction-in-database-44nc)
+- [Python Day - 8 Modules-Meaning and Types,Tasks](https://dev.to/guru_prasanna_01/python-day-8-modules-meaning-and-typestasks-1bfe)
 <!-- BLOG-POST-LIST:END -->
 
