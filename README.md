@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 22nd November 2024](https://dev.to/ziizium/security-news-weekly-round-up-22nd-november-2024-3d5k)
-- [Clarifying some Misconceptions about Java](https://dev.to/techdata_academy_0f128ec2/clarifying-some-misconceptions-about-java-28ka)
-- [Lab 9 - NPM Release](https://dev.to/cduarte3/lab-9-npm-release-32mj)
-- [ECCV 2024: High-Efficiency 3D Scene Compression Using Self-Organizing Gaussians](https://dev.to/voxel51/eccv-2024-high-efficiency-3d-scene-compression-using-self-organizing-gaussians-2lmp)
+- [The 10 Top-Rated Talks at NODES 2024](https://dev.to/yolandeonneo4j/the-10-top-rated-talks-at-nodes-2024-3gb7)
+- [Morning Self-Care to Boost Serotonin: 3 Habits for Better Mental Health &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/morning-self-care-to-boost-serotonin-3-habits-for-better-mental-health-bite-size-article-24b6)
+- [CASE STUDY](https://dev.to/praisey/case-study-41lj)
+- [ReadmeGenie is Ready for You! Automating Releases with GitHub Actions](https://dev.to/htsagara/readmegenie-is-ready-for-you-automating-releases-with-github-actions-4fmn)
 <!-- BLOG-POST-LIST:END -->
 
