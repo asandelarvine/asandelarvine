@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a DNS Server on My Local System &lpar;BIND9&rpar;](https://dev.to/teetoflame/setting-up-a-dns-server-on-my-local-system-bind9-1a8c)
-- [Alternatives to React Redux: Exploring Zustand and Jotai&lpar;atom&rpar;](https://dev.to/keshav___dev/alternatives-to-react-redux-exploring-zustand-and-jotaiatom-49jo)
-- [Behind the Scenes: Amazon&#39;s Inventory Management Mastery using backtracking](https://dev.to/muthaiah_p_9404b69ed194c8/behind-the-scenes-amazons-inventory-management-mastery-using-backtracking-21d1)
-- [Recent Web Vulnerabilities and How LLMs and DCS Can Help Combat Them!](https://dev.to/rabbitwolf__/recent-web-vulnerabilities-and-how-llms-and-dcs-can-help-combat-them-1jdd)
+- [Transforming Documentation with Next.js: A Case Study with JetThoughts](https://dev.to/jetthoughts/transforming-documentation-with-nextjs-a-case-study-with-jetthoughts-2c5o)
+- [&quot;Mastering the N-Queen Problem: Solving Complex Puzzles with Backtracking&quot;](https://dev.to/tharan_h5141/mastering-the-n-queen-problem-solving-complex-puzzles-with-backtracking-4814)
+- [The beginning Of My New Journey](https://dev.to/chishxd/the-beginning-of-my-new-journey-19d9)
+- [Mastering the N-Queen Problem](https://dev.to/jayasudhi_jit_51ca2325c2/mastering-the-n-queen-problem-njn)
 <!-- BLOG-POST-LIST:END -->
 
