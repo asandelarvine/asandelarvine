@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The to do list is long today 😭](https://dev.to/jess/the-to-do-list-is-long-today-5hgc)
-- [Harnessing the Power of AWS Security Services](https://dev.to/mohamednasser018/harnessing-the-power-of-aws-security-services-4eaa)
-- [Re-publishing gimme_readme to npm with GitHub Actions](https://dev.to/peterdanwan/re-publishing-gimmereadme-to-npm-with-github-actions-23cd)
-- [Automation and branches- Using YAMLFish to easily manage I18n translations in your project](https://dev.to/intrepidd/using-yamlfish-to-easily-manage-i18n-translations-in-your-project-automation-and-branches-1dhb)
+- [Burnout to Breakthrough: Rediscovering My Passion in Tech and Writing](https://dev.to/udoka033/burnout-to-breakthrough-rediscovering-my-passion-in-tech-and-writing-2hid)
+- [Sophisticated Speech-to-Text Submission Template, The AssemblyAI challenge.](https://dev.to/devmercy/sophisticated-speech-to-text-submission-template-5fkn)
+- [Mastering AWS DevOps with 20 Essential Services](https://dev.to/mohamednasser018/mastering-aws-devops-with-20-essential-services-3pep)
+- [ECCV 2024 - Skeleton Recall Loss for Connectivity Conserving and Resource Efficient Segmentation of Thin Tubular Structures](https://dev.to/voxel51/eccv-2024-skeleton-recall-loss-for-connectivity-conserving-and-resource-efficient-segmentation-of-bij)
 <!-- BLOG-POST-LIST:END -->
 
