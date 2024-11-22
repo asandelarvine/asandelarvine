@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sprite Animations Using Steps in CSS](https://dev.to/softheartengineer/sprite-animations-using-steps-in-css-4joh)
+- [Drawing Taiwan&#39;s Flag with CSS](https://dev.to/kevinluo201/drawing-taiwans-flag-with-css-317a)
+- [Unlock Innovation with Neardi’s Rockchip Development Boards: The Ultimate Choice for Embedded Systems](https://dev.to/neardi_41f9bfcb826b280976/unlock-innovation-with-neardis-rockchip-development-boards-the-ultimate-choice-for-embedded-1mmd)
 - [Idempotency in DynamoDB](https://dev.to/aws-builders/idempotency-in-dynamodb-4leh)
-- [#102 — Deduplication of Simple Data — Keeping the Original Order](https://dev.to/judith677/102-deduplication-of-simple-data-keeping-the-original-order-4ipc)
-- [Essential Writing Tips for Dev.to Community 👩🏼‍💻](https://dev.to/hanzla-baig/essential-writing-tips-for-devto-community-f2e)
-- [How to detect code language in browser](https://dev.to/ray-d-song/how-to-detect-code-language-in-browser-424h)
 <!-- BLOG-POST-LIST:END -->
 
