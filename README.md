@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 quick tips for your upcoming system design interview](https://dev.to/s3an_0vert0n/3-quick-tips-for-your-upcoming-system-design-interview-3530)
-- [Elon Musk’s Tweets, by Grok ?](https://dev.to/emunael_lator_081ba8962f8/elon-musks-tweets-by-grok--2kab)
-- [Tracking Furthest Enemy in a Tower Defence Game using Max Heap](https://dev.to/vlad_ogir_76f82ec55672762/tracking-furthest-enemy-in-a-tower-defence-game-using-max-heap-33c6)
-- [Smoother Fonts for Alacritty on macOS](https://dev.to/eparreno/smoother-fonts-for-alacritty-on-macos-3b4f)
+- [My React Journey: Day 6](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-6-3850)
+- [Released Result::Simple - a dead simple perl-ish Result like F#, Rust, Go](https://dev.to/kfly8/released-resultsimple-a-dead-simple-perl-ish-result-like-f-rust-go-2hl2)
+- [Let&#39;s build an app](https://dev.to/rmsilva1973/lets-build-an-app-328k)
+- [The Power of Modular Code: A 1-Minute Guide](https://dev.to/itamartati/the-power-of-modular-code-a-1-minute-guide-3lb2)
 <!-- BLOG-POST-LIST:END -->
 
