@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Recover Deleted Github Repository](https://dev.to/code_duchess/how-to-recover-deleted-github-repository-19l8)
-- [Decoding Airplane Seat Mysteries in Cabin Crew Life Simulator - Devlog#4](https://dev.to/khaisimon_devgame/decoding-airplane-seat-mysteries-in-cabin-crew-life-simulator-devlog4-22l4)
-- [Learn HPC with me: CPU vs GPU](https://dev.to/toji/learn-hpc-with-me-cpu-vs-gpu-44eb)
-- [Tailwind Vs Chakra UI | The Ultimate React UI Library Battle](https://dev.to/thesohailjafri/tailwind-vs-chakra-ui-the-ultimate-react-ui-library-battle-24io)
+- [Full stack Development in 5 minutes](https://dev.to/valeriavg/full-stack-development-in-5-minutes-3c16)
+- [Hybrid Battery Repairs: A Comprehensive Guide](https://dev.to/vortex_blogger/hybrid-battery-repairs-a-comprehensive-guide-4ik2)
+- [Understanding Networking and Internet Infrastructure: A Global Overview with Insights from Nigeria](https://dev.to/josephibehdev/understanding-networking-and-internet-infrastructure-a-global-overview-with-insights-from-nigeria-2h30)
+- [Recursive Conditional Types](https://dev.to/kasir-barati/recursive-conditional-types-8e5)
 <!-- BLOG-POST-LIST:END -->
 
