@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplified Configuration of SSO Profiles in AWS CLI Using SSO Sessions](https://dev.to/aws-heroes/simplified-configuration-of-sso-profiles-in-aws-cli-using-sso-sessions-8hh)
-- [Check your Dependencies](https://dev.to/andrereus/check-your-dependencies-5cko)
-- [How to solve Missing Signed-By in the sources.list&lpar;5&rpar; entry for Ubuntu after upgrading to Ubuntu 24.04](https://dev.to/lennylam/how-to-solve-missing-signed-by-in-the-sourceslist5-entry-for-ubuntu-after-upgrading-to-ubuntu-48bf)
-- [Building Testable CloudFront Functions with TypeScript](https://dev.to/ohanhaliuk/building-testable-cloudfront-functions-with-typescript-233h)
+- [How HTML, CSS, JavaScript, PHP, and MySQL Work](https://dev.to/inzaghi_poshaf/how-html-css-javascript-php-and-mysql-work-3m6m)
+- [EchoSense: Your Pocket-Sized Companion for Smarter Meetings](https://dev.to/milewski/echosense-your-pocket-sized-companion-for-smarter-meetings-3i71)
+- [Building a RichText Editor with TipTap in React &lpar;with Mentions&rpar;](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-3l22)
+- [Building a RichText Editor with TipTap in React &lpar;with Mentions&rpar;](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-12b)
 <!-- BLOG-POST-LIST:END -->
 
