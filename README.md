@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing to npm!!](https://dev.to/aldrin312/publishing-to-npm-153i)
-- [Hamilton Circuit Graph](https://dev.to/abishekvishal_24/hamilton-circuit-graph-3mnf)
-- [🚀 𝗧𝗵𝗲𝗥𝗲𝗮𝗹𝗛𝗼𝘁𝗲𝗹𝘀 🌟](https://dev.to/shinnthant_jr/-2gah)
-- [Hamiltonian circuit graph](https://dev.to/rahul_rit_25afa237e37d50/hamiltonian-circuit-graph-5gdl)
+- [The Importance and Role of Domestic Coal in Modern Economies](https://dev.to/digital_marketer_/the-importance-and-role-of-domestic-coal-in-modern-economies-3feh)
+- [Navigating Complexity: How the Rat in a Maze Algorithm Finds the Best Path](https://dev.to/pradeepa_mcce_232ef3599c/navigating-complexity-how-the-rat-in-a-maze-algorithm-finds-the-best-path-2jhd)
+- [Contributing to ChatCraft](https://dev.to/kannav02/contributing-to-chatcraft-2n61)
+- [Releasing a Package](https://dev.to/add00_3/releasing-a-package-2j44)
 <!-- BLOG-POST-LIST:END -->
 
