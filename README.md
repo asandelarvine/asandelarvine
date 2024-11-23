@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [40/365 | ¥10M Job Challenge - Reality](https://dev.to/kameken100/40365-y10m-job-challenge--2jh0)
-- [Automated Session Control with Bluetooth: An Insight into ble-lock-session](https://dev.to/connormanraz/automated-session-control-with-bluetooth-an-insight-into-ble-lock-session-1bo0)
-- [Introdução ao AWS Lambda: O Poder do Serverless](https://dev.to/andersoncode66/introducao-ao-aws-lambda-o-poder-do-serverless-2o61)
-- [Develop in Multiple OS/Production-like Environments with Docker](https://dev.to/rajatbansal01/develop-in-multiple-osproduction-like-environments-with-docker-kk9)
+- [3 quick tips for your upcoming system design interview](https://dev.to/s3an_0vert0n/3-quick-tips-for-your-upcoming-system-design-interview-3530)
+- [Elon Musk’s Tweets, by Grok ?](https://dev.to/emunael_lator_081ba8962f8/elon-musks-tweets-by-grok--2kab)
+- [Tracking Furthest Enemy in a Tower Defence Game using Max Heap](https://dev.to/vlad_ogir_76f82ec55672762/tracking-furthest-enemy-in-a-tower-defence-game-using-max-heap-33c6)
+- [Smoother Fonts for Alacritty on macOS](https://dev.to/eparreno/smoother-fonts-for-alacritty-on-macos-3b4f)
 <!-- BLOG-POST-LIST:END -->
 
