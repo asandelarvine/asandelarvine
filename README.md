@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Outlook tips and tricks pt 1 a tip for the calendar](https://dev.to/rick_wilson_3dc489f0f1860/outlook-tips-and-tricks-pt-1-a-tip-for-the-calendar-1l74)
-- [How to Create a RESTful API with Node.js: A Step-by-Step Guide](https://dev.to/abhinowww/how-to-create-a-restful-api-with-nodejs-a-step-by-step-guide-47dj)
-- [Nx 20: Exploring the new TS preset and TypeScript project references](https://dev.to/edbzn/nx-20-exploring-the-new-ts-preset-and-typescript-project-references-31hl)
-- [Cloud-Native Applications: Best Practices for Building in the Cloud](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-native-applications-best-practices-for-building-in-the-cloud-1d2m)
+- [How to Recover Deleted Github Repository](https://dev.to/code_duchess/how-to-recover-deleted-github-repository-19l8)
+- [Decoding Airplane Seat Mysteries in Cabin Crew Life Simulator - Devlog#4](https://dev.to/khaisimon_devgame/decoding-airplane-seat-mysteries-in-cabin-crew-life-simulator-devlog4-22l4)
+- [Learn HPC with me: CPU vs GPU](https://dev.to/toji/learn-hpc-with-me-cpu-vs-gpu-44eb)
+- [Tailwind Vs Chakra UI | The Ultimate React UI Library Battle](https://dev.to/thesohailjafri/tailwind-vs-chakra-ui-the-ultimate-react-ui-library-battle-24io)
 <!-- BLOG-POST-LIST:END -->
 
