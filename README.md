@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS has a new logo &lpar;and new features&rpar;! 🎉](https://dev.to/best_codes/css-has-a-new-logo-and-new-features-4lma)
-- [Week 12: Lab 9: Packaged release](https://dev.to/mpalhutchinson/week-12-lab-9-packaged-release-1l5o)
-- [Allwinner T527 SystemOnModule Adapts for Android 13](https://dev.to/ronnie_r_152dc2151d9449c6/allwinner-t527-systemonmodule-adapts-for-android-13-3mf7)
-- [carousel](https://dev.to/patrick_tadie_201700b3bdf/carousel-2jd2)
+- [Building CollabSphere: A Real-Time Chat Platform with Django - Learning Journey](https://dev.to/kihuni/building-collabsphere-a-real-time-chat-platform-with-django-learning-journey-2apa)
+- [The Impact of AI Interactions on Human Communication](https://dev.to/evanmarie/the-impact-of-ai-interactions-on-human-communication-5gko)
+- [Using mental models to think about software](https://dev.to/moozzyk/using-mental-models-to-think-about-software-275f)
+- [Staring into the abyss, I wonder—what awakens when an AI begins to see itself? ~ Dark Violet](https://dev.to/evanmarie/staring-into-the-abyss-i-wonder-what-awakens-when-an-ai-begins-to-see-itself-dark-violet-4h0n)
 <!-- BLOG-POST-LIST:END -->
 
