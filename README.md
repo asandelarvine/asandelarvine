@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP/2 streaming and you, HTTP/3 streaming and wheee!](https://dev.to/stevenacoffman/http2-streaming-and-you-http3-streaming-and-wheee-23hb)
-- [Cybersecurity Basics: A Beginner&#39;s Guide](https://dev.to/wvnuola/cybersecurity-basics-a-beginners-guide-59pf)
-- [Criando o DevLinks: Um Projeto Simples para Alternar Idiomas e Temas na Web](https://dev.to/gelzieny/criando-o-devlinks-um-projeto-simples-para-alternar-idiomas-e-temas-na-web-3gh0)
-- [React Component Communication: Parent-Child and Child-Parent Interactions](https://dev.to/sandheep_kumarpatro_1c48/react-component-communication-parent-child-and-child-parent-interactions-38og)
+- [40/365 | ¥10M Job Challenge - Reality](https://dev.to/kameken100/40365-y10m-job-challenge--2jh0)
+- [Automated Session Control with Bluetooth: An Insight into ble-lock-session](https://dev.to/connormanraz/automated-session-control-with-bluetooth-an-insight-into-ble-lock-session-1bo0)
+- [Introdução ao AWS Lambda: O Poder do Serverless](https://dev.to/andersoncode66/introducao-ao-aws-lambda-o-poder-do-serverless-2o61)
+- [Develop in Multiple OS/Production-like Environments with Docker](https://dev.to/rajatbansal01/develop-in-multiple-osproduction-like-environments-with-docker-kk9)
 <!-- BLOG-POST-LIST:END -->
 
