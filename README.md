@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How HTML, CSS, JavaScript, PHP, and MySQL Work](https://dev.to/inzaghi_poshaf/how-html-css-javascript-php-and-mysql-work-3m6m)
-- [EchoSense: Your Pocket-Sized Companion for Smarter Meetings](https://dev.to/milewski/echosense-your-pocket-sized-companion-for-smarter-meetings-3i71)
-- [Building a RichText Editor with TipTap in React &lpar;with Mentions&rpar;](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-3l22)
-- [Building a RichText Editor with TipTap in React &lpar;with Mentions&rpar;](https://dev.to/abdelraman_ahmed_e83db59f/building-a-richtext-editor-with-tiptap-in-react-with-mentions-12b)
+- [Make Voting Fun With Code](https://dev.to/gazi2050/make-voting-fun-with-code-30ap)
+- [Securing .NET Core API from DDoS Attack.](https://dev.to/devesh_omar_b599bc4be3ee7/securing-net-core-api-from-ddos-attack-1l97)
+- [Building a Cost-Effective Valheim Server on Azure with Serverless Discord Bot Integration](https://dev.to/rdalbuquerque/building-a-cost-effective-valheim-server-on-azure-with-serverless-discord-bot-integration-2jco)
+- [From Classroom Attention to Transformer: A Journey Through Language Learning and AI Evolution](https://dev.to/sreeni5018/from-classroom-attention-to-transformer-a-journey-through-language-learning-and-ai-evolution-77o)
 <!-- BLOG-POST-LIST:END -->
 
