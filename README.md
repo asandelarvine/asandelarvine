@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Penetration Testing Guidelines Safeguarding Your Cloud Environment](https://dev.to/ikoh_sylva/aws-penetration-testing-guidelines-safeguarding-your-cloud-environment-14c1)
-- [Integrating OpenCV with Visual Studio C++](https://dev.to/tuttelikz/integrating-opencv-with-visual-studio-c-3dkm)
-- [💡5 tools to boost your developer productivity](https://dev.to/itdevus/5-tools-to-boost-your-developer-productivity-20ah)
-- [Unlocking Agile Success: The Retrospective Agile Template You Need](https://dev.to/devactivity-app/unlocking-agile-success-the-retrospective-agile-template-you-need-2g85)
+- [Outlook tips and tricks pt 1 a tip for the calendar](https://dev.to/rick_wilson_3dc489f0f1860/outlook-tips-and-tricks-pt-1-a-tip-for-the-calendar-1l74)
+- [How to Create a RESTful API with Node.js: A Step-by-Step Guide](https://dev.to/abhinowww/how-to-create-a-restful-api-with-nodejs-a-step-by-step-guide-47dj)
+- [Nx 20: Exploring the new TS preset and TypeScript project references](https://dev.to/edbzn/nx-20-exploring-the-new-ts-preset-and-typescript-project-references-31hl)
+- [Cloud-Native Applications: Best Practices for Building in the Cloud](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-native-applications-best-practices-for-building-in-the-cloud-1d2m)
 <!-- BLOG-POST-LIST:END -->
 
