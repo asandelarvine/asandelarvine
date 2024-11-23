@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Producer and Consumer Example in .NET 6 with ASP.NET Core](https://dev.to/renukapatil/kafka-producer-and-consumer-example-in-net-6-with-aspnet-core-9i9)
-- [[23/52] Game Engine-ering: Railway Empire DLCs Ranked](https://dev.to/tythos/2352-game-engine-ering-railway-empire-dlcs-ranked-4pl1)
-- [Sherlock Holmes and The Case of the Cloudflare Timeout Mystery](https://dev.to/programmerraja/sherlock-holmes-and-the-case-of-the-cloudflare-timeout-mystery-3d61)
-- [#OBS MacOS Super Screen Recording supports excluding specific applications for screen recording](https://dev.to/dl0/obs-macos-super-screen-recording-supports-excluding-specific-applications-for-screen-recording-5a3n)
+- [Scaling AI Computing with Ray: Large-Scale Implementation and Optimization](https://dev.to/conquerym/scaling-ai-computing-with-ray-large-scale-implementation-and-optimization-2i79)
+- [The Code of Life: Lessons Beyond the Screen](https://dev.to/high_octane/the-code-of-life-lessons-beyond-the-screen-4nii)
+- [Learn how to create an animated toggle with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-toggle-with-tailwind-css-2eig)
+- [🇩🇪 Datenmanipulation und Abfragen mit SQL](https://dev.to/informatik-ninja/datenmanipulation-und-abfragen-mit-sql-m4i)
 <!-- BLOG-POST-LIST:END -->
 
