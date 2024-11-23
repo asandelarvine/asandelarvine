@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full stack Development in 5 minutes](https://dev.to/valeriavg/full-stack-development-in-5-minutes-3c16)
-- [Hybrid Battery Repairs: A Comprehensive Guide](https://dev.to/vortex_blogger/hybrid-battery-repairs-a-comprehensive-guide-4ik2)
-- [Understanding Networking and Internet Infrastructure: A Global Overview with Insights from Nigeria](https://dev.to/josephibehdev/understanding-networking-and-internet-infrastructure-a-global-overview-with-insights-from-nigeria-2h30)
-- [Recursive Conditional Types](https://dev.to/kasir-barati/recursive-conditional-types-8e5)
+- [Understanding RxJS and Observables in Angular: A Beginner-Friendly Guide](https://dev.to/renukapatil/understanding-rxjs-and-observables-in-angular-a-beginner-friendly-guide-ibf)
+- [Data Architecture Best Practices](https://dev.to/dqops/data-architecture-best-practices-18ij)
+- [Speed Up Your Angular App: 5 Change Detection Tricks You Need to Know](https://dev.to/aaravjoshi/speed-up-your-angular-app-5-change-detection-tricks-you-need-to-know-3g4i)
+- [DialogueAI: Interactive Playground for assemblyai speech to text API and leMUR API and generate code for the configurations](https://dev.to/code_triggered_/dialogueai-interactive-playground-for-assemblyai-speech-to-text-api-and-lemur-api-and-generate-30de)
 <!-- BLOG-POST-LIST:END -->
 
