@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Node.js Application on AWS](https://dev.to/blacorpheus/deploying-a-nodejs-application-on-aws-39dd)
-- [Color Theory: Playing with Colors Programmatically](https://dev.to/ayybbbt/color-theory-playing-with-colors-programmatically-h96)
-- [JavaScript IIFE: A Complete Guide to Immediately Invoked Function Expressions](https://dev.to/onurhandtr/javascript-iife-a-complete-guide-to-immediately-invoked-function-expressions-3ghd)
-- [Why is Hamiltonian graph?](https://dev.to/junissen9/why-is-hamiltonian-graph-598b)
+- [HTTP/2 streaming and you, HTTP/3 streaming and wheee!](https://dev.to/stevenacoffman/http2-streaming-and-you-http3-streaming-and-wheee-23hb)
+- [Cybersecurity Basics: A Beginner&#39;s Guide](https://dev.to/wvnuola/cybersecurity-basics-a-beginners-guide-59pf)
+- [Criando o DevLinks: Um Projeto Simples para Alternar Idiomas e Temas na Web](https://dev.to/gelzieny/criando-o-devlinks-um-projeto-simples-para-alternar-idiomas-e-temas-na-web-3gh0)
+- [React Component Communication: Parent-Child and Child-Parent Interactions](https://dev.to/sandheep_kumarpatro_1c48/react-component-communication-parent-child-and-child-parent-interactions-38og)
 <!-- BLOG-POST-LIST:END -->
 
