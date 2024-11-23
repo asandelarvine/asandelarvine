@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance and Role of Domestic Coal in Modern Economies](https://dev.to/digital_marketer_/the-importance-and-role-of-domestic-coal-in-modern-economies-3feh)
-- [Navigating Complexity: How the Rat in a Maze Algorithm Finds the Best Path](https://dev.to/pradeepa_mcce_232ef3599c/navigating-complexity-how-the-rat-in-a-maze-algorithm-finds-the-best-path-2jhd)
-- [Contributing to ChatCraft](https://dev.to/kannav02/contributing-to-chatcraft-2n61)
-- [Releasing a Package](https://dev.to/add00_3/releasing-a-package-2j44)
+- [The RAT Algorithm Finds Its Way](https://dev.to/chandra_priyan_73c13146f6/the-rat-algorithm-finds-its-way-4j60)
+- [Simple note-taking extension for your browser](https://dev.to/luciandev/simple-note-taking-extension-for-your-browser-4f1n)
+- [I built a side project to make it easier to find &amp; organize private games.](https://dev.to/berto6544collab/i-built-a-side-project-to-make-it-easier-to-find-organize-private-games-26fc)
+- [Choosing npm for Release Management](https://dev.to/vinhyan/choosing-npm-for-release-management-5047)
 <!-- BLOG-POST-LIST:END -->
 
