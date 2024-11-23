@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Event Delegation](https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k)
-- [What is SYN Flooding ?](https://dev.to/mridul037/what-is-syn-flooding--1360)
-- [Crafting Secure Cryptographic Passwords Using Backtracking](https://dev.to/karpagayalini_r/crafting-secure-cryptographic-passwords-using-backtracking-69k)
-- [Backtracking: The Ultimate Problem-Solving Strategy Behind Sudoku and Beyond](https://dev.to/kavika_scce_84a6025f5423/backtracking-the-ultimate-problem-solving-strategy-behind-sudoku-and-beyond-1dfd)
+- [Kafka Producer and Consumer Example in .NET 6 with ASP.NET Core](https://dev.to/renukapatil/kafka-producer-and-consumer-example-in-net-6-with-aspnet-core-9i9)
+- [[23/52] Game Engine-ering: Railway Empire DLCs Ranked](https://dev.to/tythos/2352-game-engine-ering-railway-empire-dlcs-ranked-4pl1)
+- [Sherlock Holmes and The Case of the Cloudflare Timeout Mystery](https://dev.to/programmerraja/sherlock-holmes-and-the-case-of-the-cloudflare-timeout-mystery-3d61)
+- [#OBS MacOS Super Screen Recording supports excluding specific applications for screen recording](https://dev.to/dl0/obs-macos-super-screen-recording-supports-excluding-specific-applications-for-screen-recording-5a3n)
 <!-- BLOG-POST-LIST:END -->
 
