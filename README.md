@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Plan for Building an E-Commerce Website](https://dev.to/msnmongare/comprehensive-plan-for-building-an-e-commerce-website-3deo)
+- [🇩🇪 PHP 8.4: Was ist neu?](https://dev.to/informatik-ninja/php-84-was-ist-neu-3f0p)
 - [Scaling AI Computing with Ray: Large-Scale Implementation and Optimization](https://dev.to/conquerym/scaling-ai-computing-with-ray-large-scale-implementation-and-optimization-2i79)
 - [The Code of Life: Lessons Beyond the Screen](https://dev.to/high_octane/the-code-of-life-lessons-beyond-the-screen-4nii)
-- [Learn how to create an animated toggle with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-toggle-with-tailwind-css-2eig)
-- [🇩🇪 Datenmanipulation und Abfragen mit SQL](https://dev.to/informatik-ninja/datenmanipulation-und-abfragen-mit-sql-m4i)
 <!-- BLOG-POST-LIST:END -->
 
