@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The RAT Algorithm Finds Its Way](https://dev.to/chandra_priyan_73c13146f6/the-rat-algorithm-finds-its-way-4j60)
-- [Simple note-taking extension for your browser](https://dev.to/luciandev/simple-note-taking-extension-for-your-browser-4f1n)
-- [I built a side project to make it easier to find &amp; organize private games.](https://dev.to/berto6544collab/i-built-a-side-project-to-make-it-easier-to-find-organize-private-games-26fc)
-- [Choosing npm for Release Management](https://dev.to/vinhyan/choosing-npm-for-release-management-5047)
+- [Mastering JavaScript Event Delegation](https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k)
+- [What is SYN Flooding ?](https://dev.to/mridul037/what-is-syn-flooding--1360)
+- [Crafting Secure Cryptographic Passwords Using Backtracking](https://dev.to/karpagayalini_r/crafting-secure-cryptographic-passwords-using-backtracking-69k)
+- [Backtracking: The Ultimate Problem-Solving Strategy Behind Sudoku and Beyond](https://dev.to/kavika_scce_84a6025f5423/backtracking-the-ultimate-problem-solving-strategy-behind-sudoku-and-beyond-1dfd)
 <!-- BLOG-POST-LIST:END -->
 
