@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Parent and Child Shells in Bash Scripts](https://dev.to/tommykw/learning-parent-and-child-shells-in-bash-scripts-1ijj)
-- [Building the Foundation: How to Connect to a Windows Virtual Machine and install Windows Server](https://dev.to/under2wenty/building-the-foundation-how-to-connect-to-a-windows-virtual-machine-and-install-windows-server-3f8b)
-- [How to publish your node.js package to NPM](https://dev.to/bregwin/how-to-publish-your-nodejs-package-to-npm-2gc3)
-- [Meta Tower](https://dev.to/theversan_4adce7651e1fe76/meta-tower-2go3)
+- [CSS has a new logo &lpar;and new features&rpar;! 🎉](https://dev.to/best_codes/css-has-a-new-logo-and-new-features-4lma)
+- [Week 12: Lab 9: Packaged release](https://dev.to/mpalhutchinson/week-12-lab-9-packaged-release-1l5o)
+- [Allwinner T527 SystemOnModule Adapts for Android 13](https://dev.to/ronnie_r_152dc2151d9449c6/allwinner-t527-systemonmodule-adapts-for-android-13-3mf7)
+- [carousel](https://dev.to/patrick_tadie_201700b3bdf/carousel-2jd2)
 <!-- BLOG-POST-LIST:END -->
 
