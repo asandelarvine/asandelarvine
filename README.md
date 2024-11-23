@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Voting Fun With Code](https://dev.to/gazi2050/make-voting-fun-with-code-30ap)
-- [Securing .NET Core API from DDoS Attack.](https://dev.to/devesh_omar_b599bc4be3ee7/securing-net-core-api-from-ddos-attack-1l97)
-- [Building a Cost-Effective Valheim Server on Azure with Serverless Discord Bot Integration](https://dev.to/rdalbuquerque/building-a-cost-effective-valheim-server-on-azure-with-serverless-discord-bot-integration-2jco)
-- [From Classroom Attention to Transformer: A Journey Through Language Learning and AI Evolution](https://dev.to/sreeni5018/from-classroom-attention-to-transformer-a-journey-through-language-learning-and-ai-evolution-77o)
+- [Deploying a Node.js Application on AWS](https://dev.to/blacorpheus/deploying-a-nodejs-application-on-aws-39dd)
+- [Color Theory: Playing with Colors Programmatically](https://dev.to/ayybbbt/color-theory-playing-with-colors-programmatically-h96)
+- [JavaScript IIFE: A Complete Guide to Immediately Invoked Function Expressions](https://dev.to/onurhandtr/javascript-iife-a-complete-guide-to-immediately-invoked-function-expressions-3ghd)
+- [Why is Hamiltonian graph?](https://dev.to/junissen9/why-is-hamiltonian-graph-598b)
 <!-- BLOG-POST-LIST:END -->
 
