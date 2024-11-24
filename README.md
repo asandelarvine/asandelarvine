@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you code on the weekends?](https://dev.to/best_codes/do-you-code-on-the-weekends-529n)
-- [Making a simple pointillism painting using OpenCv.](https://dev.to/markus_koppensteiner/making-a-simple-pointillism-painting-371m)
-- [Python Day-9 Predefined modules,While loop,Task](https://dev.to/guru_prasanna_01/python-day-9-predefined-moduleswhile-looptask-56hp)
-- [7 Cutting-Edge AI Frameworks Every Developer Should Master in 2024](https://dev.to/pratikbarjatya/7-cutting-edge-ai-frameworks-every-developer-should-master-in-2024-2ed0)
+- [Angular 19 is Here, Next.js From China, NEWEST JavaScript Engine and more](https://dev.to/thisweekinjavascript/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-26a2)
+- [What is DOM &lpar;Document Object Modle&rpar; in JavaScript](https://dev.to/04anilr/what-is-dom-document-object-modle-in-javascript-12j2)
+- [How to create arrays in ruby using methods - AI generated](https://dev.to/ali-alkhawaja/how-to-create-arrays-in-ruby-using-methods-ai-generated-5pf)
+- [MedAI: Real-Time Transcription and Medical Assistant](https://dev.to/paulndirangu/medai-real-time-transcription-and-medical-assistant-1ce0)
 <!-- BLOG-POST-LIST:END -->
 
