@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task](https://dev.to/varatha/task-9h0)
-- [🌟 Vanilla Update: New Components and Enhanced Features! 🌟](https://dev.to/adamgolan/vanilla-update-new-components-and-enhanced-features-3bf3)
-- [Semantic Matching of Text Identifiers Using LASER Embeddings in Python](https://dev.to/edgaras/semantic-matching-of-text-identifiers-using-laser-embeddings-in-python-5bl5)
-- [Visual Studio package security](https://dev.to/karenpayneoregon/visual-studio-package-security-6fk)
+- [Building a Chess Game with Python and OpenAI](https://dev.to/yannis_rizos_73faad4009e6/building-a-chess-game-with-python-and-openai-4elk)
+- [Event Broker Implementation in C# Using Azure Service Bus](https://dev.to/dazevedo/event-broker-implementation-in-c-using-azure-service-bus-1p06)
+- [Types of Class loaders in JAVA](https://dev.to/alireza_a2c92b00e922149b7/types-of-class-loaders-in-java-3fe5)
+- [Self-organize files in the downloads folder &lpar;automatically&rpar;](https://dev.to/costa86/self-organize-files-in-the-downloads-folder-automatically-120f)
 <!-- BLOG-POST-LIST:END -->
 
