@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind v4 is here! Learn how to upgrade your current project and explore the new features with Flowbite](https://dev.to/zoltanszogyenyi/tailwind-v4-is-here-learn-how-to-upgrade-your-current-project-and-explore-the-new-features-with-3ji7)
-- [PHP 8.4: It&#39;s a small change, but `$date = DateTimeImmutable::createFromTimestamp&lpar;1732420815&rpar;` instead of `$date = new DateTimeImmutable&lpar;&rpar;; $date-&gt;setTimestamp&lpar;1732420815&rpar;;` looks pretty cool! 🤩](https://dev.to/spo0q/php-84-its-a-small-change-but-date-datetimeimmutablecreatefromtimestamp1732420815-37ck)
-- [Modern Low-Code Testing Platforms](https://dev.to/hamsterboomer_76/modern-low-code-testing-platforms-4apa)
-- [Bootcamping 02: Named exports and default exports - does it really matter?](https://dev.to/aleflewitt/bootcamping-02-named-exports-and-default-exports-does-it-really-matter-15p1)
+- [Do you code on the weekends?](https://dev.to/best_codes/do-you-code-on-the-weekends-529n)
+- [Making a simple pointillism painting using OpenCv.](https://dev.to/markus_koppensteiner/making-a-simple-pointillism-painting-371m)
+- [Python Day-9 Predefined modules,While loop,Task](https://dev.to/guru_prasanna_01/python-day-9-predefined-moduleswhile-looptask-56hp)
+- [7 Cutting-Edge AI Frameworks Every Developer Should Master in 2024](https://dev.to/pratikbarjatya/7-cutting-edge-ai-frameworks-every-developer-should-master-in-2024-2ed0)
 <!-- BLOG-POST-LIST:END -->
 
