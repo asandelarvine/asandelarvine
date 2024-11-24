@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting familiar with Git/GitHub](https://dev.to/emmanuel_cobham/getting-familiar-with-gitgithub-54oa)
-- [[Python Оригинал] Создал демо веб-скрейпера для сайта вакансий](https://dev.to/excalibra/python-orighinal-sozdal-diemo-vieb-skrieipiera-dlia-saita-vakansii-46if)
-- [Let&#39;s Learn Promises in JavaScript! 🚀](https://dev.to/jagroop2001/lets-learn-promises-in-javascript-3ijo)
-- [1975. Maximum Matrix Sum](https://dev.to/mdarifulhaque/1975-maximum-matrix-sum-okn)
+- [Contributing to Node.js: Improving Test Runner Coverage Reporting](https://dev.to/harshil_patel/contributing-to-nodejs-improving-test-runner-coverage-reporting-kmg)
+- [The Amigo programming language](https://dev.to/alexander_baranovsky_afa7/the-amigo-programming-language-23ci)
+- [Introduction to Amazon Simple Notification Service &lpar;SNS&rpar;](https://dev.to/devops_descent/introduction-to-amazon-simple-notification-service-sns-41k5)
+- [SpeechTrack](https://dev.to/murthyug/speechtrack-5c46)
 <!-- BLOG-POST-LIST:END -->
 
