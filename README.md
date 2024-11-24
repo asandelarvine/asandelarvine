@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [多平台服务中的代码混淆与内存安全：ArkTS 应用的安全优化](https://dev.to/xun_wang_6384a403f9817c2/duo-ping-tai-fu-wu-zhong-de-dai-ma-hun-yao-yu-nei-cun-an-quan-arkts-ying-yong-de-an-quan-you-hua-5178)
-- [How and Why I Built Analyzr: A Lightweight, Real-Time Analytics Tool 🚀📊](https://dev.to/arjuncodess/how-and-why-i-built-analyzr-a-lightweight-real-time-analytics-tool-4f6h)
-- [Demystifying Docker: How It Works](https://dev.to/chewryl/demystifying-docker-how-it-works-4527)
-- [CollabSphere Part 1: Setting Up a Modular Django Chat Application](https://dev.to/kihuni/collabsphere-part-1-setting-up-a-modular-django-chat-application-d3a)
+- [Getting familiar with Git/GitHub](https://dev.to/emmanuel_cobham/getting-familiar-with-gitgithub-54oa)
+- [[Python Оригинал] Создал демо веб-скрейпера для сайта вакансий](https://dev.to/excalibra/python-orighinal-sozdal-diemo-vieb-skrieipiera-dlia-saita-vakansii-46if)
+- [Let&#39;s Learn Promises in JavaScript! 🚀](https://dev.to/jagroop2001/lets-learn-promises-in-javascript-3ijo)
+- [1975. Maximum Matrix Sum](https://dev.to/mdarifulhaque/1975-maximum-matrix-sum-okn)
 <!-- BLOG-POST-LIST:END -->
 
