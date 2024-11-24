@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Classify a student&#39;s best friend!](https://dev.to/waleedh/classify-a-students-best-friend-28b6)
-- [Smart Contract Audits: Ensuring Safe Blockchain Migration](https://dev.to/smartmuv/smart-contract-audits-ensuring-safe-blockchain-migration-1221)
-- [Software Architecture for Developers](https://dev.to/hamedi/software-architecture-for-developers-4g56)
-- [Dashboard of open source low-code tools](https://dev.to/jcabot/dashboard-of-open-source-low-code-tools-39md)
+- [Tailwind v4 is here! Learn how to upgrade your current project and explore the new features with Flowbite](https://dev.to/zoltanszogyenyi/tailwind-v4-is-here-learn-how-to-upgrade-your-current-project-and-explore-the-new-features-with-3ji7)
+- [PHP 8.4: It&#39;s a small change, but `$date = DateTimeImmutable::createFromTimestamp&lpar;1732420815&rpar;` instead of `$date = new DateTimeImmutable&lpar;&rpar;; $date-&gt;setTimestamp&lpar;1732420815&rpar;;` looks pretty cool! 🤩](https://dev.to/spo0q/php-84-its-a-small-change-but-date-datetimeimmutablecreatefromtimestamp1732420815-37ck)
+- [Modern Low-Code Testing Platforms](https://dev.to/hamsterboomer_76/modern-low-code-testing-platforms-4apa)
+- [Bootcamping 02: Named exports and default exports - does it really matter?](https://dev.to/aleflewitt/bootcamping-02-named-exports-and-default-exports-does-it-really-matter-15p1)
 <!-- BLOG-POST-LIST:END -->
 
