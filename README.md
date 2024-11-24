@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chess Game with Python and OpenAI](https://dev.to/yannis_rizos_73faad4009e6/building-a-chess-game-with-python-and-openai-4elk)
-- [Event Broker Implementation in C# Using Azure Service Bus](https://dev.to/dazevedo/event-broker-implementation-in-c-using-azure-service-bus-1p06)
-- [Types of Class loaders in JAVA](https://dev.to/alireza_a2c92b00e922149b7/types-of-class-loaders-in-java-3fe5)
-- [Self-organize files in the downloads folder &lpar;automatically&rpar;](https://dev.to/costa86/self-organize-files-in-the-downloads-folder-automatically-120f)
+- [Classify a student&#39;s best friend!](https://dev.to/waleedh/classify-a-students-best-friend-28b6)
+- [Smart Contract Audits: Ensuring Safe Blockchain Migration](https://dev.to/smartmuv/smart-contract-audits-ensuring-safe-blockchain-migration-1221)
+- [Software Architecture for Developers](https://dev.to/hamedi/software-architecture-for-developers-4g56)
+- [Dashboard of open source low-code tools](https://dev.to/jcabot/dashboard-of-open-source-low-code-tools-39md)
 <!-- BLOG-POST-LIST:END -->
 
