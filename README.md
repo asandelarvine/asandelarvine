@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Made an app to track my Admob Earnings, but then made it public](https://dev.to/rasul_aghakishiyev_f32982/made-an-app-to-track-my-admob-earnings-but-then-made-it-public-29io)
-- [Hello Dev.to Mates!](https://dev.to/nilespatel95/hello-devto-mates-3a7j)
-- [Monorepo vs Microservices: Finding the Perfect Fit for Your Project](https://dev.to/piusha/monorepo-vs-microservices-finding-the-perfect-fit-for-your-project-4lna)
-- [ClipSummarizer: Audio &amp; Video Highlights at Your Fingertips](https://dev.to/deveshpande/clipsummarizer-audio-video-highlights-at-your-fingertips-2ifc)
+- [Advanced 404-page snippet for WordPress](https://dev.to/andrewinsidelazarev/advanced-404-page-snippet-for-wordpress-39me)
+- [New comer to dev.to](https://dev.to/zozjr/new-comer-to-devto-33ea)
+- [Self-Aligning Satellite Dish in Rust: Compass](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-compass-576d)
+- [Self-Aligning Dish: GPS](https://dev.to/ian_ndeda/self-aligning-dish-gps-56lb)
 <!-- BLOG-POST-LIST:END -->
 
