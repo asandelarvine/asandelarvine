@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Object Detection Application with YOLO](https://dev.to/abhinowww/building-a-real-time-object-detection-application-with-yolo-2b60)
-- [7 Best Practices for Implementing Active Directory Reporting](https://dev.to/aragorn_talks/7-best-practices-for-implementing-active-directory-reporting-2ion)
-- [Understanding Git Rebase Merge: Chronological vs Logical Order and Commit History](https://dev.to/codedir/understanding-git-rebase-merge-chronological-vs-logical-order-and-commit-histories-36ae)
-- [Conducting a Comprehensive Ecommerce SEO Audit](https://dev.to/buzzgk/conducting-a-comprehensive-ecommerce-seo-audit-2i4n)
+- [Task](https://dev.to/varatha/task-9h0)
+- [🌟 Vanilla Update: New Components and Enhanced Features! 🌟](https://dev.to/adamgolan/vanilla-update-new-components-and-enhanced-features-3bf3)
+- [Semantic Matching of Text Identifiers Using LASER Embeddings in Python](https://dev.to/edgaras/semantic-matching-of-text-identifiers-using-laser-embeddings-in-python-5bl5)
+- [Visual Studio package security](https://dev.to/karenpayneoregon/visual-studio-package-security-6fk)
 <!-- BLOG-POST-LIST:END -->
 
