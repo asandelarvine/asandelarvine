@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ Assembla: AI-Driven Voice Magic](https://dev.to/real/assembla-ai-driven-voice-magic-1m8k)
-- [Run node.js app with systemd](https://dev.to/angeloscle/run-nodejs-app-with-systemd-3g6b)
-- [I Studied How Google Signs You Into All Services With One Login. Here&#39;s What I Learned](https://dev.to/ganesh-kumar/i-studied-how-google-signs-you-into-all-services-with-one-login-heres-what-i-learned-34a0)
-- [Seeking Feedback: My React Project Structure for Scalability and Maintainability](https://dev.to/abdelghani_elmouak_0d93c/seeking-feedback-my-react-project-structure-for-scalability-and-maintainability-5f64)
+- [Made an app to track my Admob Earnings, but then made it public](https://dev.to/rasul_aghakishiyev_f32982/made-an-app-to-track-my-admob-earnings-but-then-made-it-public-29io)
+- [Hello Dev.to Mates!](https://dev.to/nilespatel95/hello-devto-mates-3a7j)
+- [Monorepo vs Microservices: Finding the Perfect Fit for Your Project](https://dev.to/piusha/monorepo-vs-microservices-finding-the-perfect-fit-for-your-project-4lna)
+- [ClipSummarizer: Audio &amp; Video Highlights at Your Fingertips](https://dev.to/deveshpande/clipsummarizer-audio-video-highlights-at-your-fingertips-2ifc)
 <!-- BLOG-POST-LIST:END -->
 
