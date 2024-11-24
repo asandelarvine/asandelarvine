@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform e Deploy: Virtual Machine e Security Group na Magalu Cloud](https://dev.to/deirofelippe/terraform-e-deploy-virtual-machine-e-security-group-na-magalu-cloud-kdo)
-- [2x Faster, 40% less RAM: The Cloud Run stdout logging hack](https://dev.to/siddhantkcode/2x-faster-40-less-ram-the-cloud-run-stdout-logging-hack-1iig)
-- [Best extensions for Visual Studio Code &lpar;Beautiful Graphic&rpar;](https://dev.to/itdevus/best-extensions-for-visual-studio-code-beautiful-graphic-2cg2)
-- [42/365 | ¥10M Job Challenge - Buffer](https://dev.to/kameken100/42365-y10m-job-challenge-buffer-4kf5)
+- [🎙️ Assembla: AI-Driven Voice Magic](https://dev.to/real/assembla-ai-driven-voice-magic-1m8k)
+- [Run node.js app with systemd](https://dev.to/angeloscle/run-nodejs-app-with-systemd-3g6b)
+- [I Studied How Google Signs You Into All Services With One Login. Here&#39;s What I Learned](https://dev.to/ganesh-kumar/i-studied-how-google-signs-you-into-all-services-with-one-login-heres-what-i-learned-34a0)
+- [Seeking Feedback: My React Project Structure for Scalability and Maintainability](https://dev.to/abdelghani_elmouak_0d93c/seeking-feedback-my-react-project-structure-for-scalability-and-maintainability-5f64)
 <!-- BLOG-POST-LIST:END -->
 
