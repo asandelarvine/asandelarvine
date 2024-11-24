@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Hadoop:&rpar;](https://dev.to/madgan95/introduction-to-hadoop-p9f)
-- [Using Azure OpenAI Service with Local bolt.new](https://dev.to/m_sea_bass/using-azure-openai-service-with-local-boltnew-3n70)
-- [Mastering Your Sprint Review Meeting Agenda: A Guide to Productive Discussions and Improved Outcomes](https://dev.to/devactivity-app/mastering-your-sprint-review-meeting-agenda-a-guide-to-productive-discussions-and-improved-outcomes-154p)
-- [Beyond console.log](https://dev.to/asmyshlyaev177/beyond-consolelog-1h40)
+- [Building a Real-Time Object Detection Application with YOLO](https://dev.to/abhinowww/building-a-real-time-object-detection-application-with-yolo-2b60)
+- [7 Best Practices for Implementing Active Directory Reporting](https://dev.to/aragorn_talks/7-best-practices-for-implementing-active-directory-reporting-2ion)
+- [Understanding Git Rebase Merge: Chronological vs Logical Order and Commit History](https://dev.to/codedir/understanding-git-rebase-merge-chronological-vs-logical-order-and-commit-histories-36ae)
+- [Conducting a Comprehensive Ecommerce SEO Audit](https://dev.to/buzzgk/conducting-a-comprehensive-ecommerce-seo-audit-2i4n)
 <!-- BLOG-POST-LIST:END -->
 
