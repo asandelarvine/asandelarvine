@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced 404-page snippet for WordPress](https://dev.to/andrewinsidelazarev/advanced-404-page-snippet-for-wordpress-39me)
-- [New comer to dev.to](https://dev.to/zozjr/new-comer-to-devto-33ea)
-- [Self-Aligning Satellite Dish in Rust: Compass](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-compass-576d)
-- [Self-Aligning Dish: GPS](https://dev.to/ian_ndeda/self-aligning-dish-gps-56lb)
+- [Demystifying Algorithms: Linear Search](https://dev.to/craftedwithintent/demystifying-algorithms-linear-search-4k62)
+- [Demystifying Algorithms: Rabin-Karp](https://dev.to/craftedwithintent/demystifying-algorithms-rabin-karp-504)
+- [JWT in Microservices](https://dev.to/dazevedo/jwt-in-microservices-ac5)
+- [VisualQuest - Interact with stories using your voice](https://dev.to/alcadeus0/visualquest-interact-with-stories-using-your-voice-4hh1)
 <!-- BLOG-POST-LIST:END -->
 
