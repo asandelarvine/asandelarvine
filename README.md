@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contributing to Node.js: Improving Test Runner Coverage Reporting](https://dev.to/harshil_patel/contributing-to-nodejs-improving-test-runner-coverage-reporting-kmg)
-- [The Amigo programming language](https://dev.to/alexander_baranovsky_afa7/the-amigo-programming-language-23ci)
-- [Introduction to Amazon Simple Notification Service &lpar;SNS&rpar;](https://dev.to/devops_descent/introduction-to-amazon-simple-notification-service-sns-41k5)
-- [SpeechTrack](https://dev.to/murthyug/speechtrack-5c46)
+- [Infrastructure as Code &lpar;IaC&rpar; and Terraform](https://dev.to/mohamednasser018/infrastructure-as-code-iac-and-terraform-1phm)
+- [Multitasking and Parallelism with Analogy | PART 2](https://dev.to/mrcaption49/multitasking-and-parallelism-with-analogy-part-2-524i)
+- [React’s Context API: Simplifying State Management](https://dev.to/dipakahirav/reacts-context-api-simplifying-state-management-2g2j)
+- [Multitasking and parallelism | PART 1](https://dev.to/mrcaption49/multitasking-and-parallelism-part-1-2gb8)
 <!-- BLOG-POST-LIST:END -->
 
