@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My React Journey: Day 6](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-6-3850)
-- [Released Result::Simple - a dead simple perl-ish Result like F#, Rust, Go](https://dev.to/kfly8/released-resultsimple-a-dead-simple-perl-ish-result-like-f-rust-go-2hl2)
-- [Let&#39;s build an app](https://dev.to/rmsilva1973/lets-build-an-app-328k)
-- [The Power of Modular Code: A 1-Minute Guide](https://dev.to/itamartati/the-power-of-modular-code-a-1-minute-guide-3lb2)
+- [A 19-Year-Old Dreamer Building the Platform of Tomorrow 🚀](https://dev.to/bonsuaq/a-19-year-old-dreamer-building-the-platform-of-tomorrow-3pim)
+- [I found a cool community &lpar;not as good as dev.to :P&rpar; the other day. I think I&#39;ll write a post about it soon. See link in comments.](https://dev.to/best_codes/i-found-a-cool-community-not-as-good-as-devto-p-the-other-day-i-think-ill-write-a-post-about-j99)
+- [Creating a Comprehensive Raffle System for GladiatorsBattle.com](https://dev.to/gladiatorsbattle/creating-a-comprehensive-raffle-system-for-gladiatorsbattlecom-1kk8)
+- [SETTING UP A DOCKER BASED GITLAB-CE&lpar;COMMUNITY EDITION&rpar; AND A GITLAB RUNNING USING DOCKER COMPOSE](https://dev.to/toluxfash/setting-up-a-docker-based-gitlab-cecommunity-edition-and-a-gitlab-running-using-docker-compose-3kkp)
 <!-- BLOG-POST-LIST:END -->
 
