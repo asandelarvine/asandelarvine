@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Algorithms: Linear Search](https://dev.to/craftedwithintent/demystifying-algorithms-linear-search-4k62)
-- [Demystifying Algorithms: Rabin-Karp](https://dev.to/craftedwithintent/demystifying-algorithms-rabin-karp-504)
-- [JWT in Microservices](https://dev.to/dazevedo/jwt-in-microservices-ac5)
-- [VisualQuest - Interact with stories using your voice](https://dev.to/alcadeus0/visualquest-interact-with-stories-using-your-voice-4hh1)
+- [How to Get Data from Google Trends Using Python dev.to oxylabs](https://dev.to/muhammad_taha_3dc32647fc2/how-to-get-data-from-google-trends-using-python-devto-oxylabs-1f9k)
+- [Introducing LiteLookup: Your Terminal Assistant](https://dev.to/lanreywaju/introducing-litelookup-your-terminal-assistant-2lgc)
+- [Why I Code: Starting My Coding Journey!](https://dev.to/devddine/why-i-code-starting-my-coding-journey-52pj)
+- [The Run-Length of Matchsticks &lpar;PWC 296&rpar;](https://dev.to/muthm/the-run-length-of-matchsticks-pwc-296-24b4)
 <!-- BLOG-POST-LIST:END -->
 
