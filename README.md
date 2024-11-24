@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 19 is Here, Next.js From China, NEWEST JavaScript Engine and more](https://dev.to/thisweekinjavascript/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-26a2)
-- [What is DOM &lpar;Document Object Modle&rpar; in JavaScript](https://dev.to/04anilr/what-is-dom-document-object-modle-in-javascript-12j2)
-- [How to create arrays in ruby using methods - AI generated](https://dev.to/ali-alkhawaja/how-to-create-arrays-in-ruby-using-methods-ai-generated-5pf)
-- [MedAI: Real-Time Transcription and Medical Assistant](https://dev.to/paulndirangu/medai-real-time-transcription-and-medical-assistant-1ce0)
+- [Terraform e Deploy: Virtual Machine e Security Group na Magalu Cloud](https://dev.to/deirofelippe/terraform-e-deploy-virtual-machine-e-security-group-na-magalu-cloud-kdo)
+- [2x Faster, 40% less RAM: The Cloud Run stdout logging hack](https://dev.to/siddhantkcode/2x-faster-40-less-ram-the-cloud-run-stdout-logging-hack-1iig)
+- [Best extensions for Visual Studio Code &lpar;Beautiful Graphic&rpar;](https://dev.to/itdevus/best-extensions-for-visual-studio-code-beautiful-graphic-2cg2)
+- [42/365 | ¥10M Job Challenge - Buffer](https://dev.to/kameken100/42365-y10m-job-challenge-buffer-4kf5)
 <!-- BLOG-POST-LIST:END -->
 
