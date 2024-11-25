@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Data from Google Trends Using Python dev.to oxylabs](https://dev.to/muhammad_taha_3dc32647fc2/how-to-get-data-from-google-trends-using-python-devto-oxylabs-1f9k)
-- [Introducing LiteLookup: Your Terminal Assistant](https://dev.to/lanreywaju/introducing-litelookup-your-terminal-assistant-2lgc)
-- [Why I Code: Starting My Coding Journey!](https://dev.to/devddine/why-i-code-starting-my-coding-journey-52pj)
-- [The Run-Length of Matchsticks &lpar;PWC 296&rpar;](https://dev.to/muthm/the-run-length-of-matchsticks-pwc-296-24b4)
+- [Apache Paimon Playground ft. Flink and Trino](https://dev.to/lazypro/apache-paimon-playground-ft-flink-and-trino-10fo)
+- [Asynchronous Python](https://dev.to/desertthunder/asynchronous-python-2gjc)
+- [AudioNsight: Transform Audio Content into Structured Data with AI](https://dev.to/buildbyalan/audionsight-transform-audio-content-into-structured-data-with-ai-2bnk)
+- [Sun Tzu&#39;s Guide to Micro SaaS: Ancient Wisdom for Digital Victory](https://dev.to/dewmal/sun-tzus-guide-to-micro-saas-ancient-wisdom-for-digital-victory-507f)
 <!-- BLOG-POST-LIST:END -->
 
