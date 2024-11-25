@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Webhook vs API: Key Differences You Need to Know](https://dev.to/keploy/webhook-vs-api-key-differences-you-need-to-know-2epp)
-- [Llama 3.2 on Lambda](https://dev.to/rsiv/llama-32-on-lambda-k9p)
-- [Switch php version on windows with one command](https://dev.to/drissboumlik/switch-php-version-on-windows-with-one-command-56fn)
-- [Revolutionizing Notifications with NTFY.sh: Use Cases, Benefits, and Best Practices](https://dev.to/valterseu/revolutionizing-notifications-with-ntfysh-use-cases-benefits-and-best-practices-1gaf)
+- [How to Use Vultr Object Storage with Laravel &lpar;S3-Compatible&rpar;](https://dev.to/lucasltavares/how-to-use-vultr-object-storage-with-laravel-s3-compatible-4coo)
+- [Finding the Perfect Laptop: A Guide to Using LLMs for Targeted Purchasing](https://dev.to/danielrosehill/how-to-use-chatgpt-to-pick-out-a-laptop-1e8c)
+- [Build a Loan EMI Calculator in React and Deploy it on GitHub Pages](https://dev.to/gkhan205/build-a-loan-emi-calculator-in-react-and-deploy-it-on-github-pages-1j7a)
+- [GitLab DevSecOps developer](https://dev.to/mkarthiatgithub/gitlab-devsecops-developer-45d3)
 <!-- BLOG-POST-LIST:END -->
 
