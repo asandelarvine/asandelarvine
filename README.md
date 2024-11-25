@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Agentic RAG? Building Agents with Qdrant](https://dev.to/qdrant/what-is-agentic-rag-building-agents-with-qdrant-2pm0)
-- [Saving Time: Batch QR Code Generation with Bash](https://dev.to/nlankwei5/saving-time-batch-qr-code-generation-with-bash-4bcm)
-- [Building And Running WASM Apps](https://dev.to/thenjdevopsguy/building-and-running-wasm-apps-3l48)
-- [Database Integration with Express.js: How to Integrate MongoDB, MySQL, and PostgreSQL](https://dev.to/devvemeka/database-integration-with-expressjs-how-to-integrate-mongodb-mysql-and-postgresql-2jba)
+- [Deploy Next.js using Amplify &amp; AWS CDK](https://dev.to/redrobotdev/deploy-nextjs-using-amplify-aws-cdk-48g0)
+- [A KeyVault for the Power Platform](https://dev.to/sandr0p/a-keyvault-for-the-power-platform-2jpo)
+- [Quick Guide: Accessing Array Values in Nested Hashes in Ruby - AI generated](https://dev.to/ali-alkhawaja/quick-guide-accessing-array-values-in-nested-hashes-in-ruby-ai-generated-32bb)
+- [STAR Interview Questions and Answers: A Complete Guide](https://dev.to/hey_rishabh/star-interview-questions-and-answers-a-complete-guide-3n33)
 <!-- BLOG-POST-LIST:END -->
 
