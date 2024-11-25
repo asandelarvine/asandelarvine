@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Vultr Object Storage with Laravel &lpar;S3-Compatible&rpar;](https://dev.to/lucasltavares/how-to-use-vultr-object-storage-with-laravel-s3-compatible-4coo)
-- [Finding the Perfect Laptop: A Guide to Using LLMs for Targeted Purchasing](https://dev.to/danielrosehill/how-to-use-chatgpt-to-pick-out-a-laptop-1e8c)
-- [Build a Loan EMI Calculator in React and Deploy it on GitHub Pages](https://dev.to/gkhan205/build-a-loan-emi-calculator-in-react-and-deploy-it-on-github-pages-1j7a)
-- [GitLab DevSecOps developer](https://dev.to/mkarthiatgithub/gitlab-devsecops-developer-45d3)
+- [RAG VS FINE-TUNING](https://dev.to/sai333/rag-vs-fine-tuning-35am)
+- [Starting My New Journey: Full-Stack Web Developer Career!](https://dev.to/umarsiddique010/starting-my-new-journey-full-stack-web-developer-career-34mg)
+- [How I Built a Serverless URL Shortener on AWS Using Terraform](https://dev.to/jorgecontreras/how-i-built-a-serverless-url-shortener-on-aws-using-terraform-83e)
+- [Realtime Git/GitHub Branching Strategies for DevOps Engineers](https://dev.to/prodevopsguytech/realtime-gitgithub-branching-strategies-for-devops-engineers-of2)
 <!-- BLOG-POST-LIST:END -->
 
