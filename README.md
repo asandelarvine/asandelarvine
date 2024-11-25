@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Next.js using Amplify &amp; AWS CDK](https://dev.to/redrobotdev/deploy-nextjs-using-amplify-aws-cdk-48g0)
-- [A KeyVault for the Power Platform](https://dev.to/sandr0p/a-keyvault-for-the-power-platform-2jpo)
-- [Quick Guide: Accessing Array Values in Nested Hashes in Ruby - AI generated](https://dev.to/ali-alkhawaja/quick-guide-accessing-array-values-in-nested-hashes-in-ruby-ai-generated-32bb)
-- [STAR Interview Questions and Answers: A Complete Guide](https://dev.to/hey_rishabh/star-interview-questions-and-answers-a-complete-guide-3n33)
+- [Exploring the MQTT Trigger for Spin: Simplifying Real-time Communication](https://dev.to/fermyon/exploring-the-mqtt-trigger-for-spin-simplifying-real-time-communication-25ne)
+- [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
+- [Global Navigation + Gradient Path Planning](https://dev.to/notlongas/global-navigation-gradient-path-planning-40cg)
+- [🚀 Why Tap-to-Earn Games Are the Latest Crypto Trend](https://dev.to/david_tevzadze_/why-tap-to-earn-games-are-the-latest-crypto-trend-3baa)
 <!-- BLOG-POST-LIST:END -->
 
