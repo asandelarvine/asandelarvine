@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Problèmes Complexes et Résolution : L’IA Face à ses Casse-Têtes 🧩](https://dev.to/chafine_ayedoun_adebi/problemes-complexes-et-resolution-lia-face-a-ses-casse-tetes-18ib)
-- [Como funcionam Bindings de Eventos de Formulário no KnockoutJs](https://dev.to/santanaluc94/como-funcionam-bindings-de-eventos-de-formulario-no-knockoutjs-40fe)
-- [Les Méthodes de Recherche en IA : Quand les Algorithmes Se Prennent pour Sherlock Holmes 🕵️‍♂️](https://dev.to/chafine_ayedoun_adebi/les-methodes-de-recherche-en-ia-quand-les-algorithmes-se-prennent-pour-sherlock-holmes-1kfp)
-- [LeetCode in Swift - 773. Sliding Puzzle （中文解釋）](https://dev.to/vc7/leetcode-in-swift-773-sliding-puzzle-zhong-wen-jie-shi--2a07)
+- [What is Agentic RAG? Building Agents with Qdrant](https://dev.to/qdrant/what-is-agentic-rag-building-agents-with-qdrant-2pm0)
+- [Saving Time: Batch QR Code Generation with Bash](https://dev.to/nlankwei5/saving-time-batch-qr-code-generation-with-bash-4bcm)
+- [Building And Running WASM Apps](https://dev.to/thenjdevopsguy/building-and-running-wasm-apps-3l48)
+- [Database Integration with Express.js: How to Integrate MongoDB, MySQL, and PostgreSQL](https://dev.to/devvemeka/database-integration-with-expressjs-how-to-integrate-mongodb-mysql-and-postgresql-2jba)
 <!-- BLOG-POST-LIST:END -->
 
