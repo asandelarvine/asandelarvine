@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All About Proxies: Types and Implementing a Reverse Proxy with Load Balancing Using NGINX and Docker](https://dev.to/mspilari/all-about-proxies-types-and-implementing-a-reverse-proxy-with-load-balancing-using-nginx-and-docker-2amj)
-- [Agile Methodology Retrospective: Making Sense of Your Sprint Chaos](https://dev.to/devactivity-app/agile-methodology-retrospective-making-sense-of-your-sprint-chaos-4ml0)
-- [Steps for Conducting a Thorough QR Code Testing](https://dev.to/abhayit2000/steps-for-conducting-a-thorough-qr-code-testing-3kh4)
-- [Error Handling in Go](https://dev.to/vinolia_andisi/error-handling-in-go-38p4)
+- [Top 7 Best CI/CD Tools Every Developer Should Know](https://dev.to/apilover/top-7-best-cicd-tools-every-developer-should-know-31em)
+- [The Benefits of Remote Working &amp; How to Have the Best Experience - The Remoties](https://dev.to/lycawn_antoniades_42e8c8a/the-benefits-of-remote-working-how-to-have-the-best-experience-the-remoties-29hm)
+- [How to Successfully Implement a Cloud-Based Data Warehouse](https://dev.to/hana_sato/how-to-successfully-implement-a-cloud-based-data-warehouse-1834)
+- [Understanding approve and depositCollateral: The Core of ERC-20 Token Transfers in Solidity](https://dev.to/prince_ad7e7c212e5c5ecf40/understanding-approve-and-depositcollateral-the-core-of-erc-20-token-transfers-in-solidity-2jcc)
 <!-- BLOG-POST-LIST:END -->
 
