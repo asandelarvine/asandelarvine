@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Things I Learned Building a Next.js App With No Experience](https://dev.to/create_matt/10-things-i-learned-building-a-nextjs-app-with-no-experience-3c56)
-- [🚀Zeroagent - World&#39;s first AI Work Assistant](https://dev.to/ndrohith/zeroagent-worlds-first-ai-work-assistant-4bj2)
-- [Into to Federated Learning](https://dev.to/sanggusti/into-to-federated-learning-2ghj)
-- [AWS Architectural Diagrams on a Commit Base: Using AWS PDK Diagram Plugin with Python](https://dev.to/zirkonium88/aws-architectural-diagrams-on-a-commit-base-using-aws-pdk-diagram-plugin-with-python-3b84)
+- [Essential Skills to Look for When Hiring a .NET Developer](https://dev.to/netdeveloper/essential-skills-to-look-for-when-hiring-a-net-developer-4nf)
+- [Explore: Why PacketSDK is So Concerned about Privacy](https://dev.to/packetsdk/explore-why-packetsdk-is-so-concerned-about-privacy-14a4)
+- [[Meme Monday] My favorite mythological animal is a cleanup npm installation](https://dev.to/manuartero/my-favorite-mythological-animal-is-a-cleanup-npm-installation-3g03)
+- [Tired of Guessing? Unlock the Secrets of Your GitHub Activity with devActivity](https://dev.to/devactivity-app/tired-of-guessing-unlock-the-secrets-of-your-github-activity-with-devactivity-4lee)
 <!-- BLOG-POST-LIST:END -->
 
