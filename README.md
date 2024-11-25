@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the MQTT Trigger for Spin: Simplifying Real-time Communication](https://dev.to/fermyon/exploring-the-mqtt-trigger-for-spin-simplifying-real-time-communication-25ne)
-- [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
-- [Global Navigation + Gradient Path Planning](https://dev.to/notlongas/global-navigation-gradient-path-planning-40cg)
-- [🚀 Why Tap-to-Earn Games Are the Latest Crypto Trend](https://dev.to/david_tevzadze_/why-tap-to-earn-games-are-the-latest-crypto-trend-3baa)
+- [Guide to Regular Commit Messages](https://dev.to/yusufbozaci/guide-to-regular-commit-messages-3agd)
+- [&lpar;D&rpar;: Aplicando o &quot;Princípio da Inversão de Dependências&quot; com Typescript e Java](https://dev.to/victorlima142/aplicando-o-dependency-inversion-principle-com-typescript-e-java-1bgg)
+- [🕵️ OSINT: link company acronyms to Standard Occupation Classification w. Open Source LLMs](https://dev.to/adriens/osint-link-company-acronyms-to-standard-occupation-classification-w-open-source-llms-5c6o)
+- [Granting autonomy to agents](https://dev.to/neuml/granting-autonomy-to-agents-ae6)
 <!-- BLOG-POST-LIST:END -->
 
