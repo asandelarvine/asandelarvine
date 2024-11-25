@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use ORMs &lpar;Prisma / Drizzle / Knex.js&rpar; in a TypeScript backend built with Encore.ts](https://dev.to/encore/how-to-use-orms-prisma-drizzle-knexjs-in-a-typescript-backend-built-with-encorets-1j63)
-- [How AI Empowers Non-Designers to Build Stunning Websites](https://dev.to/hillaryprosper_wahua_bce/how-ai-empowers-non-designers-to-build-stunning-websites-12b3)
-- [Creating Azure DevTest Labs!](https://dev.to/busa/creating-azure-devtest-labs-31jl)
-- [The Top 10 AI Tools Every SaaS Startup Needs in 2025](https://dev.to/aviatorscode2/the-top-10-ai-tools-every-saas-startup-needs-in-2025-3h73)
+- [Webhook vs API: Key Differences You Need to Know](https://dev.to/keploy/webhook-vs-api-key-differences-you-need-to-know-2epp)
+- [Llama 3.2 on Lambda](https://dev.to/rsiv/llama-32-on-lambda-k9p)
+- [Switch php version on windows with one command](https://dev.to/drissboumlik/switch-php-version-on-windows-with-one-command-56fn)
+- [Revolutionizing Notifications with NTFY.sh: Use Cases, Benefits, and Best Practices](https://dev.to/valterseu/revolutionizing-notifications-with-ntfysh-use-cases-benefits-and-best-practices-1gaf)
 <!-- BLOG-POST-LIST:END -->
 
