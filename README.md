@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Best CI/CD Tools Every Developer Should Know](https://dev.to/apilover/top-7-best-cicd-tools-every-developer-should-know-31em)
-- [The Benefits of Remote Working &amp; How to Have the Best Experience - The Remoties](https://dev.to/lycawn_antoniades_42e8c8a/the-benefits-of-remote-working-how-to-have-the-best-experience-the-remoties-29hm)
-- [How to Successfully Implement a Cloud-Based Data Warehouse](https://dev.to/hana_sato/how-to-successfully-implement-a-cloud-based-data-warehouse-1834)
-- [Understanding approve and depositCollateral: The Core of ERC-20 Token Transfers in Solidity](https://dev.to/prince_ad7e7c212e5c5ecf40/understanding-approve-and-depositcollateral-the-core-of-erc-20-token-transfers-in-solidity-2jcc)
+- [How to use ORMs &lpar;Prisma / Drizzle / Knex.js&rpar; in a TypeScript backend built with Encore.ts](https://dev.to/encore/how-to-use-orms-prisma-drizzle-knexjs-in-a-typescript-backend-built-with-encorets-1j63)
+- [How AI Empowers Non-Designers to Build Stunning Websites](https://dev.to/hillaryprosper_wahua_bce/how-ai-empowers-non-designers-to-build-stunning-websites-12b3)
+- [Creating Azure DevTest Labs!](https://dev.to/busa/creating-azure-devtest-labs-31jl)
+- [The Top 10 AI Tools Every SaaS Startup Needs in 2025](https://dev.to/aviatorscode2/the-top-10-ai-tools-every-saas-startup-needs-in-2025-3h73)
 <!-- BLOG-POST-LIST:END -->
 
