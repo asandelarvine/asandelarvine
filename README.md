@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Regular Commit Messages](https://dev.to/yusufbozaci/guide-to-regular-commit-messages-3agd)
-- [&lpar;D&rpar;: Aplicando o &quot;Princípio da Inversão de Dependências&quot; com Typescript e Java](https://dev.to/victorlima142/aplicando-o-dependency-inversion-principle-com-typescript-e-java-1bgg)
-- [🕵️ OSINT: link company acronyms to Standard Occupation Classification w. Open Source LLMs](https://dev.to/adriens/osint-link-company-acronyms-to-standard-occupation-classification-w-open-source-llms-5c6o)
-- [Granting autonomy to agents](https://dev.to/neuml/granting-autonomy-to-agents-ae6)
+- [Setup Apollo Client for graphQL requests in React](https://dev.to/griseduardo/setup-apollo-client-for-graphql-requests-in-react-3j8d)
+- [A Comprehensive Guide to Starting and Maintaining Customer Support for Small Businesses and Freelancers](https://dev.to/tomj/a-comprehensive-guide-to-starting-and-maintaining-customer-support-for-small-businesses-and-3ekl)
+- [Setup Apollo Client para requisições graphQL em React](https://dev.to/griseduardo/setup-apollo-client-para-requisicoes-graphql-em-react-2pc7)
+- [Security Management and Advanced Threat Protection](https://dev.to/salman_khan_c31307505285e/security-management-and-advanced-threat-protection-3ed6)
 <!-- BLOG-POST-LIST:END -->
 
