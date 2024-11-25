@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Github user analysis and ranking website](https://dev.to/ray-d-song/i-built-a-github-user-analysis-and-ranking-website-5d3a)
-- [Ubuntu 22.04 Hibernate Using Swap File](https://dev.to/dansteren/ubuntu-2204-hibernate-using-swap-file-1ca1)
-- [The Amazing SQL Recursive Queries](https://dev.to/freakynit/the-amazing-sql-recursive-queries-16lh)
-- [Essential Input Strategies in Building Microservices Architecture](https://dev.to/brilworks/essential-input-strategies-in-building-microservices-architecture-42lg)
+- [Building a RESTful API from Scratch 🚀](https://dev.to/info_generalhazedawn_a3d/building-a-restful-api-from-scratch-394b)
+- [Best Test Automation Tools for QA Teams in 2024](https://dev.to/keploy/best-test-automation-tools-for-qa-teams-in-2024-4n8)
+- [The Thrill of Strategic Games: A Deep Dive into Forge of Empires and Similar Titles](https://dev.to/muhammad_ali_a6ec52608465/the-thrill-of-strategic-games-a-deep-dive-into-forge-of-empires-and-similar-titles-12gp)
+- [Upcoming JavaScript Features: Simplifying Array Combinations with `Array.zip` and `Array.zipKeyed`](https://dev.to/dharamgfx/upcoming-javascript-features-simplifying-array-combinations-with-arrayzip-and-arrayzipkeyed-e0g)
 <!-- BLOG-POST-LIST:END -->
 
