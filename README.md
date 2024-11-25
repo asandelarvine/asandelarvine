@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Paimon Playground ft. Flink and Trino](https://dev.to/lazypro/apache-paimon-playground-ft-flink-and-trino-10fo)
-- [Asynchronous Python](https://dev.to/desertthunder/asynchronous-python-2gjc)
-- [AudioNsight: Transform Audio Content into Structured Data with AI](https://dev.to/buildbyalan/audionsight-transform-audio-content-into-structured-data-with-ai-2bnk)
-- [Sun Tzu&#39;s Guide to Micro SaaS: Ancient Wisdom for Digital Victory](https://dev.to/dewmal/sun-tzus-guide-to-micro-saas-ancient-wisdom-for-digital-victory-507f)
+- [Laravel 11: Allowed memory size of 134217728 bytes exhausted &lpar;tried to allocate 23085056 bytes&rpar;](https://dev.to/awan/laravel-11-allowed-memory-size-of-134217728-bytes-exhausted-tried-to-allocate-23085056-bytes-392a)
+- [Usecase: TumbleLog](https://dev.to/mikkelsj/usecase-tumblelog-klg)
+- [Postgres - Session 02 &lpar; Architecture &rpar;](https://dev.to/technonotes/postgres-session-02-architecture--3kpf)
+- [Using GPT-4 for Free Through Github Models &lpar;with Limitations&rpar;](https://dev.to/hoaitx/using-gpt-4-for-free-through-github-models-with-limitations-2a44)
 <!-- BLOG-POST-LIST:END -->
 
