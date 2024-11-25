@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG VS FINE-TUNING](https://dev.to/sai333/rag-vs-fine-tuning-35am)
-- [Starting My New Journey: Full-Stack Web Developer Career!](https://dev.to/umarsiddique010/starting-my-new-journey-full-stack-web-developer-career-34mg)
-- [How I Built a Serverless URL Shortener on AWS Using Terraform](https://dev.to/jorgecontreras/how-i-built-a-serverless-url-shortener-on-aws-using-terraform-83e)
-- [Realtime Git/GitHub Branching Strategies for DevOps Engineers](https://dev.to/prodevopsguytech/realtime-gitgithub-branching-strategies-for-devops-engineers-of2)
+- [Problèmes Complexes et Résolution : L’IA Face à ses Casse-Têtes 🧩](https://dev.to/chafine_ayedoun_adebi/problemes-complexes-et-resolution-lia-face-a-ses-casse-tetes-18ib)
+- [Como funcionam Bindings de Eventos de Formulário no KnockoutJs](https://dev.to/santanaluc94/como-funcionam-bindings-de-eventos-de-formulario-no-knockoutjs-40fe)
+- [Les Méthodes de Recherche en IA : Quand les Algorithmes Se Prennent pour Sherlock Holmes 🕵️‍♂️](https://dev.to/chafine_ayedoun_adebi/les-methodes-de-recherche-en-ia-quand-les-algorithmes-se-prennent-pour-sherlock-holmes-1kfp)
+- [LeetCode in Swift - 773. Sliding Puzzle （中文解釋）](https://dev.to/vc7/leetcode-in-swift-773-sliding-puzzle-zhong-wen-jie-shi--2a07)
 <!-- BLOG-POST-LIST:END -->
 
