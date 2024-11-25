@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 11: Allowed memory size of 134217728 bytes exhausted &lpar;tried to allocate 23085056 bytes&rpar;](https://dev.to/awan/laravel-11-allowed-memory-size-of-134217728-bytes-exhausted-tried-to-allocate-23085056-bytes-392a)
-- [Usecase: TumbleLog](https://dev.to/mikkelsj/usecase-tumblelog-klg)
-- [Postgres - Session 02 &lpar; Architecture &rpar;](https://dev.to/technonotes/postgres-session-02-architecture--3kpf)
-- [Using GPT-4 for Free Through Github Models &lpar;with Limitations&rpar;](https://dev.to/hoaitx/using-gpt-4-for-free-through-github-models-with-limitations-2a44)
+- [𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 — এ কেন [ ] == ![ ] এর ফলাফল 𝐭𝐫𝐮𝐞?](https://dev.to/naymhdev/-e-ken-er-phlaaphl--459g)
+- [The Role of Virtual DOM in React.js Transforming Frontend Development](https://dev.to/marry_e7535745dc0f3756df9/the-role-of-virtual-dom-in-reactjs-transforming-frontend-development-48o3)
+- [Build a Task Management App with React, TypeScript, and Material UI](https://dev.to/sevicode/build-a-task-management-app-with-react-typescript-and-material-ui-3n4n)
+- [Open-Source Development is Amazing!](https://dev.to/amullagaliev/open-source-development-is-amazing-4gho)
 <!-- BLOG-POST-LIST:END -->
 
