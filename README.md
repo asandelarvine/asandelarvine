@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Skills to Look for When Hiring a .NET Developer](https://dev.to/netdeveloper/essential-skills-to-look-for-when-hiring-a-net-developer-4nf)
-- [Explore: Why PacketSDK is So Concerned about Privacy](https://dev.to/packetsdk/explore-why-packetsdk-is-so-concerned-about-privacy-14a4)
-- [[Meme Monday] My favorite mythological animal is a cleanup npm installation](https://dev.to/manuartero/my-favorite-mythological-animal-is-a-cleanup-npm-installation-3g03)
-- [Tired of Guessing? Unlock the Secrets of Your GitHub Activity with devActivity](https://dev.to/devactivity-app/tired-of-guessing-unlock-the-secrets-of-your-github-activity-with-devactivity-4lee)
+- [All About Proxies: Types and Implementing a Reverse Proxy with Load Balancing Using NGINX and Docker](https://dev.to/mspilari/all-about-proxies-types-and-implementing-a-reverse-proxy-with-load-balancing-using-nginx-and-docker-2amj)
+- [Agile Methodology Retrospective: Making Sense of Your Sprint Chaos](https://dev.to/devactivity-app/agile-methodology-retrospective-making-sense-of-your-sprint-chaos-4ml0)
+- [Steps for Conducting a Thorough QR Code Testing](https://dev.to/abhayit2000/steps-for-conducting-a-thorough-qr-code-testing-3kh4)
+- [Error Handling in Go](https://dev.to/vinolia_andisi/error-handling-in-go-38p4)
 <!-- BLOG-POST-LIST:END -->
 
