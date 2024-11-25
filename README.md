@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RESTful API from Scratch 🚀](https://dev.to/info_generalhazedawn_a3d/building-a-restful-api-from-scratch-394b)
-- [Best Test Automation Tools for QA Teams in 2024](https://dev.to/keploy/best-test-automation-tools-for-qa-teams-in-2024-4n8)
-- [The Thrill of Strategic Games: A Deep Dive into Forge of Empires and Similar Titles](https://dev.to/muhammad_ali_a6ec52608465/the-thrill-of-strategic-games-a-deep-dive-into-forge-of-empires-and-similar-titles-12gp)
-- [Upcoming JavaScript Features: Simplifying Array Combinations with `Array.zip` and `Array.zipKeyed`](https://dev.to/dharamgfx/upcoming-javascript-features-simplifying-array-combinations-with-arrayzip-and-arrayzipkeyed-e0g)
+- [AI-Powered EdTech: Transforming Learning Experiences in 2025](https://dev.to/vikas76/ai-powered-edtech-transforming-learning-experiences-in-2025-51ah)
+- [Asking for feedback on open source CLI tool that exports Markdown to PDF using html and css templates&lpar;MDExport&rpar;](https://dev.to/avtn/asking-for-feedback-on-open-source-cli-tool-that-exports-markdown-to-pdf-using-html-and-css-nlo)
+- [CloudVocal - Serverless Speech-to-Text with AssemblyAI](https://dev.to/majdidxb/serverless-speech-to-text-with-assemblyai-48n5)
+- [Todo en Uno: Las Últimas Novedades de AWS pre-reInvent 2024](https://dev.to/aws-espanol/todo-en-uno-las-ultimas-novedades-de-aws-pre-reinvent-2024-4n46)
 <!-- BLOG-POST-LIST:END -->
 
