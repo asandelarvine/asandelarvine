@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 Swagger Codegen Alternatives](https://dev.to/apilover/top-8-swagger-codegen-alternatives-m8a)
-- [Building Your First WhatsApp Bot in Python: A Beginner’s Guide](https://dev.to/whapicloud/building-your-first-whatsapp-bot-in-python-a-beginners-guide-41lf)
-- [NgSysV2-10.1: Firestore CRUD templates](https://dev.to/mjoycemilburn/ngsysv2-101-firestore-crud-templates-g83)
-- [Master Node.js Streams: Boost Performance and Handle Big Data Like a Pro](https://dev.to/aaravjoshi/master-nodejs-streams-boost-performance-and-handle-big-data-like-a-pro-2lgo)
+- [Learnings from using the Sitecore ADM module](https://dev.to/byteminds_agency/learnings-from-using-the-sitecore-adm-module-9gc)
+- [Google profile design](https://dev.to/junissen9/google-profile-design-1mkn)
+- [Dataverse table with 2 lookup and 1 formula columns](https://dev.to/andrewelans/dataverse-table-with-2-lookup-and-1-formula-columns-1bn0)
+- [Destructuring in JavaScript](https://dev.to/oracle101/destructuring-in-javascript-4lmp)
 <!-- BLOG-POST-LIST:END -->
 
