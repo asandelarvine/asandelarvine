@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why everyone loves Python &lpar;simple code inside&rpar;](https://dev.to/itdevus/why-everyone-loves-python-simple-code-inside-34di)
-- [The Future of Smart Homes: Top Devices, Trends &amp; Innovations for 2024](https://dev.to/snapnews/the-future-of-smart-homes-top-devices-trends-innovations-for-2024-4doi)
-- [Unlocking AI in Marketing: Key Trends Transforming Strategy in 2024](https://dev.to/snapnews/unlocking-ai-in-marketing-key-trends-transforming-strategy-in-2024-4al0)
-- [Unlocking the Power of Django: Build Secure and Scalable Web Apps Fast](https://dev.to/snapnews/unlocking-the-power-of-django-build-secure-and-scalable-web-apps-fast-463a)
+- [Top 8 Swagger Codegen Alternatives](https://dev.to/apilover/top-8-swagger-codegen-alternatives-m8a)
+- [Building Your First WhatsApp Bot in Python: A Beginner’s Guide](https://dev.to/whapicloud/building-your-first-whatsapp-bot-in-python-a-beginners-guide-41lf)
+- [NgSysV2-10.1: Firestore CRUD templates](https://dev.to/mjoycemilburn/ngsysv2-101-firestore-crud-templates-g83)
+- [Master Node.js Streams: Boost Performance and Handle Big Data Like a Pro](https://dev.to/aaravjoshi/master-nodejs-streams-boost-performance-and-handle-big-data-like-a-pro-2lgo)
 <!-- BLOG-POST-LIST:END -->
 
