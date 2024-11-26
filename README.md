@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why SOLID Principles Still Matter for .NET Developers](https://dev.to/ashish_2024/why-solid-principles-still-matter-for-net-developers-13o)
-- [Toncoin Surges 27%, Breaks Resistance: Is $9 Next for $TON ?](https://dev.to/sergi_web3/toncoin-surges-27-breaks-resistance-is-9-next-for-ton--47en)
-- [Making Smart Contracts Upgradeable: Fixing Locked Funds and Bugs](https://dev.to/block_experts_766a3a21915637/making-smart-contracts-upgradeable-fixing-locked-funds-and-bugs-ogo)
-- [Post about, can or cannot AI replace coders are narrow minded...](https://dev.to/td5r/post-about-can-or-cannot-ai-replace-coders-are-narrow-minded-4gi3)
+- [Introduction to AWS: Basics and main services](https://dev.to/briansuarezsantiago/introduction-to-aws-basics-and-main-services-3e8p)
+- [Cloud Computing Basics: What it is and why it&#39;s revolutionizing technology](https://dev.to/briansuarezsantiago/cloud-computing-basics-what-it-is-and-why-its-revolutionizing-technology-2d6)
+- [What is Reddit karma and why does it matter?](https://dev.to/notomarsol/what-is-reddit-karma-and-why-does-it-matter-130b)
+- [I Built a Chrome Extension to Bring Back the Google Maps Tab](https://dev.to/builtbylukas/i-built-a-chrome-extension-to-bring-back-the-google-maps-tab-3d4h)
 <!-- BLOG-POST-LIST:END -->
 
