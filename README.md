@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Growing Role Across Industries and Job Markets](https://dev.to/johnmic9087/ais-growing-role-across-industries-and-job-markets-336m)
-- [LeetCode in Swift - 2924. Find Champion II （中文解釋）](https://dev.to/vc7/leetcode-in-swift-2924-find-champion-ii-zhong-wen-jie-shi--2083)
-- [Quick Time Events: How to Align a Team in One Meeting](https://dev.to/nanojoel/quick-time-events-how-to-align-a-team-in-one-meeting-2ipg)
-- [9 AI-Powered Chrome Extensions to Save Hours of Manual Work 🧙‍♂️🔥](https://dev.to/madza/9-ai-powered-chrome-extensions-to-save-hours-of-manual-work-gg1)
+- [10 Types of AI - Detailed Guide](https://dev.to/vijendra22/10-types-of-ai-detailed-guide-134)
+- [🚀 My CRM Journey&lpar;Day-2&rpar;: Admin Panel, jQuery Integration &amp; Customer Management 🌟](https://dev.to/anticoder03/my-crm-journeyday-2-admin-panel-jquery-integration-customer-management-2jb6)
+- [Master Cloud Patterns for Stability](https://dev.to/omar_zenhom/master-cloud-patterns-for-stability-4hg)
+- [Drizzle vs. Prisma: Which ORM is best for your project?](https://dev.to/logrocket/drizzle-vs-prisma-which-orm-is-best-for-your-project-52be)
 <!-- BLOG-POST-LIST:END -->
 
