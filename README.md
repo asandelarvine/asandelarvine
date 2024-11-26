@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Color Palette Generator](https://dev.to/ayybbbt/ai-color-palette-generator-5fl5)
-- [How to Run Samurai on Google Colab](https://dev.to/0xkoji/how-to-run-samurai-on-google-colab-4m2g)
-- [Inline Unsupported Browser Warning &lpar;using Rails 7.2 feature&rpar;](https://dev.to/railsdesigner/inline-unsupported-browser-warning-using-rails-72-feature-ad4)
-- [Tente Isto 11-2 - Use a thread principal](https://dev.to/javagirlsjug/tente-isto-11-2-use-a-thread-principal-4o8d)
+- [ArkWeb Page Preloading and Caching - Enhancing User Experience](https://dev.to/xun_wang_6384a403f9817c2/arkweb-page-preloading-and-caching-enhancing-user-experience-3l8c)
+- [Building and Testing the Gemini API with CI/CD Pipeline](https://dev.to/nirajan_mahara/building-and-testing-the-gemini-api-with-cicd-pipeline-1e7p)
+- [Unlocking Reasoning with Chain-of-Thought Prompting By Jill Smith](https://dev.to/wiko_w/unlocking-reasoning-with-chain-of-thought-promptingby-jill-smith-2o9k)
+- [TS - Array 元素上下移動、置頂置底和元素交換，你會嗎？](https://dev.to/fakestandard/ts-array-yuan-su-shang-xia-yi-dong-zhi-ding-zhi-di-he-yuan-su-jiao-huan-ni-hui-ma--2i0h)
 <!-- BLOG-POST-LIST:END -->
 
