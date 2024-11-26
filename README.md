@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Common Mistakes in React Development and How to Avoid Them ⚛️](https://dev.to/rodolphedupuis/top-5-common-mistakes-in-react-development-and-how-to-avoid-them-1k1)
-- [Sites speed optimisation is a destination, not a journey](https://dev.to/nikdyankov/sites-speed-optimisation-is-a-destination-not-a-journey-2dca)
-- [Build, Publish, Secure: AWS CodePipeline Now Simplifies ECR Publishing and Vulnerability Scans](https://dev.to/aws-builders/build-publish-secure-aws-codepipeline-now-simplifies-ecr-publishing-and-vulnerability-scans-2j43)
-- [📹 How YouTube Scaled MySQL to Support 2.49 Billion Users 🚀](https://dev.to/hamzakhan/how-youtube-scaled-mysql-to-support-249-billion-users-3eea)
+- [Best Folder Structure for React Complex Projects](https://dev.to/shubhadip_bhowmik/best-folder-structure-for-react-complex-projects-432p)
+- [Unlocking User Data: Building a Secure Supabase Edge Function](https://dev.to/thingengineer/unlocking-user-data-building-a-secure-supabase-edge-function-bn9)
+- [Aleph Zero エコシステム: Interlock の Threatslayer で Web3 セキュリティ レベルを向上](https://dev.to/ajtech0001/aleph-zero-ekosisutemu-interlock-no-threatslayer-de-web3-sekiyuritei-reberuwoxiang-shang-4719)
+- [Visual Studio and MSBuild](https://dev.to/junissen9/visual-studio-and-msbuild-3ijl)
 <!-- BLOG-POST-LIST:END -->
 
