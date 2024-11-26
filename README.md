@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama-OCR for High-Precision OCR with Ollama](https://dev.to/bytefer/ollama-ocr-for-high-precision-ocr-with-ollama-4o31)
-- [Crossing the Line before the Finish Line. Also the line before that.](https://dev.to/gitmcmillan/crossing-the-line-before-the-finish-line-also-the-line-before-that-4m9j)
-- [Mild Introduction to Modern Sequence Processing. Part 2: Recurrent Neural Networks Training](https://dev.to/fively/mild-introduction-to-modern-sequence-processing-part-2-recurrent-neural-networks-training-2j8e)
-- [Push vs. Pull-Based Deployments](https://dev.to/mohamednasser018/push-vs-pull-based-deployments-4m78)
+- [AI Color Palette Generator](https://dev.to/ayybbbt/ai-color-palette-generator-5fl5)
+- [How to Run Samurai on Google Colab](https://dev.to/0xkoji/how-to-run-samurai-on-google-colab-4m2g)
+- [Inline Unsupported Browser Warning &lpar;using Rails 7.2 feature&rpar;](https://dev.to/railsdesigner/inline-unsupported-browser-warning-using-rails-72-feature-ad4)
+- [Tente Isto 11-2 - Use a thread principal](https://dev.to/javagirlsjug/tente-isto-11-2-use-a-thread-principal-4o8d)
 <!-- BLOG-POST-LIST:END -->
 
