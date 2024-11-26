@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#104 — Deduplication of Row-Based Data — by Whole Row — Keeping the Original Order](https://dev.to/judith677/104-deduplication-of-row-based-data-by-whole-row-keeping-the-original-order-2bpe)
-- [How to Prevent NTP Reflection Attacks?](https://dev.to/adityabhuyan/how-to-prevent-ntp-reflection-attacks-5f33)
-- [Understanding Application-Oriented Distributed Operating Systems: Architecture, Benefits, and Use Cases](https://dev.to/adityabhuyan/understanding-application-oriented-distributed-operating-systems-architecture-benefits-and-use-160m)
-- [Implementing Google One Tap Authentication in Next.js](https://dev.to/jakaria/implementing-google-one-tap-authentication-in-nextjs-2o1l)
+- [Notes on using ref and reactive in Vue](https://dev.to/handsometan/notes-on-using-ref-and-reactive-in-vue-3j8h)
+- [Dynamic derivations and its way to kill useEffect](https://dev.to/felipegs/dynamic-derivations-and-its-way-to-kill-useeffect-3ohn)
+- [TanStack Query v5 Guide: Features, Benefits, and How It&#39;s Used](https://dev.to/inam003/tanstack-query-v5-guide-features-benefits-and-how-its-used-36nk)
+- [Rocket-X DAO Governance: Balancing Efficiency and Fairness to Set a New Benchmark for Web3 Investment](https://dev.to/rocket_x/rocket-x-dao-governance-balancing-efficiency-and-fairness-to-set-a-new-benchmark-for-web3-464g)
 <!-- BLOG-POST-LIST:END -->
 
