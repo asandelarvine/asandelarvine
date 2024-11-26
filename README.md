@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on using ref and reactive in Vue](https://dev.to/handsometan/notes-on-using-ref-and-reactive-in-vue-3j8h)
-- [Dynamic derivations and its way to kill useEffect](https://dev.to/felipegs/dynamic-derivations-and-its-way-to-kill-useeffect-3ohn)
-- [TanStack Query v5 Guide: Features, Benefits, and How It&#39;s Used](https://dev.to/inam003/tanstack-query-v5-guide-features-benefits-and-how-its-used-36nk)
-- [Rocket-X DAO Governance: Balancing Efficiency and Fairness to Set a New Benchmark for Web3 Investment](https://dev.to/rocket_x/rocket-x-dao-governance-balancing-efficiency-and-fairness-to-set-a-new-benchmark-for-web3-464g)
+- [JSON Compare: Simplifying Data Validation](https://dev.to/keploy/json-compare-simplifying-data-validation-2fnh)
+- [AI Image Validation Solutions: A Game-Changer for Quality Control](https://dev.to/jhonsnow21/ai-image-validation-solutions-a-game-changer-for-quality-control-2j46)
+- [🚀 Let’s Learn Event Loops in JavaScript! 🎡](https://dev.to/jagroop2001/lets-learn-event-loops-in-javascript-26k0)
+- [I finally tried Pest for PHP &amp; Laravel, then made the switch](https://dev.to/seriquynh/i-finally-tried-pest-for-php-laravel-then-made-the-switch-3anf)
 <!-- BLOG-POST-LIST:END -->
 
