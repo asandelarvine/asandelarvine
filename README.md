@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 JSON commands in SQL](https://dev.to/mrcaption49/top-5-json-commands-in-sql-1a3n)
-- [Dockerfile Instructions Guide](https://dev.to/jayesh0706/dockerfile-instructions-guide-58i5)
-- [🐜 Ant as a standard](https://dev.to/hmpljs/ant-as-a-standard-153m)
-- [Hello everyone, I have 2 questions](https://dev.to/islam911k/hello-everyone-i-have-2-questions-2h8j)
+- [Fortigate Firewall Üzerinde Birden Fazla Syslog Yapılandırma](https://dev.to/yuksektepe/fortigate-firewall-uzerinde-birden-fazla-syslog-yapilandirma-251n)
+- [QtWidgets and QtCore](https://dev.to/junissen9/qtwidgets-and-qtcore-onh)
+- [Best Status Page Software for Incident Communication](https://dev.to/maxshash/best-status-page-software-for-incident-communication-2kg8)
+- [10 Free APIs to supercharge your side projects](https://dev.to/nikdyankov/10-free-apis-to-supercharge-your-side-projects-2ja1)
 <!-- BLOG-POST-LIST:END -->
 
