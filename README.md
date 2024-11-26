@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to AWS: Basics and main services](https://dev.to/briansuarezsantiago/introduction-to-aws-basics-and-main-services-3e8p)
-- [Cloud Computing Basics: What it is and why it&#39;s revolutionizing technology](https://dev.to/briansuarezsantiago/cloud-computing-basics-what-it-is-and-why-its-revolutionizing-technology-2d6)
-- [What is Reddit karma and why does it matter?](https://dev.to/notomarsol/what-is-reddit-karma-and-why-does-it-matter-130b)
-- [I Built a Chrome Extension to Bring Back the Google Maps Tab](https://dev.to/builtbylukas/i-built-a-chrome-extension-to-bring-back-the-google-maps-tab-3d4h)
+- [Wednesday Links - Edition 2024-11-26](https://dev.to/0xkkocel/wednesday-links-edition-2024-11-26-5f9j)
+- [Building a movie suggestion Bot using AWS Bedrock, Amazon Lex, and OpenSearch](https://dev.to/aws-builders/building-a-movie-suggestion-bot-using-aws-bedrock-amazon-lex-and-opensearch-52ci)
+- [Kubernetes Architect](https://dev.to/jamiu_cloud/kubernetes-architect-52fg)
+- [My React Journey: Day 7](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-7-336j)
 <!-- BLOG-POST-LIST:END -->
 
