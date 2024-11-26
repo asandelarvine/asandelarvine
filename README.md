@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate a hosted zone to a different AWS account in few seconds!!](https://dev.to/aws-builders/migrate-a-hosted-zone-to-a-different-aws-account-in-few-seconds-2la2)
-- [Git made simpler: Some modern alternatives to classic commands](https://dev.to/dimeloper/git-made-simpler-some-modern-alternatives-to-classic-commands-5g5j)
-- [Putting Users First: How to Improve Your Website’s Performance](https://dev.to/daniel_clarke/putting-users-first-how-to-improve-your-websites-performance-1fb8)
-- [The coolest chat](https://dev.to/junissen9/the-coolest-chat-2hlm)
+- [Deploy Hugging Face Models to AWS Lambda in 3 steps](https://dev.to/cnuss/deploy-hugging-face-models-to-aws-lambda-in-3-steps-5f18)
+- [The Critical Role of PCBs in High-Frequency Applications](https://dev.to/yoy/the-critical-role-of-pcbs-in-high-frequency-applications-289h)
+- [Why Idempotence Matters in CI/CD Pipeline Build Steps](https://dev.to/tutunak/why-idempotence-matters-in-cicd-pipeline-build-steps-4ka)
+- [Will AI make software disappear?](https://dev.to/polipo_gio/will-ai-make-software-disappear-4dla)
 <!-- BLOG-POST-LIST:END -->
 
