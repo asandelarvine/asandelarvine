@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fortigate Firewall Üzerinde Birden Fazla Syslog Yapılandırma](https://dev.to/yuksektepe/fortigate-firewall-uzerinde-birden-fazla-syslog-yapilandirma-251n)
-- [QtWidgets and QtCore](https://dev.to/junissen9/qtwidgets-and-qtcore-onh)
-- [Best Status Page Software for Incident Communication](https://dev.to/maxshash/best-status-page-software-for-incident-communication-2kg8)
-- [10 Free APIs to supercharge your side projects](https://dev.to/nikdyankov/10-free-apis-to-supercharge-your-side-projects-2ja1)
+- [Why SOLID Principles Still Matter for .NET Developers](https://dev.to/ashish_2024/why-solid-principles-still-matter-for-net-developers-13o)
+- [Toncoin Surges 27%, Breaks Resistance: Is $9 Next for $TON ?](https://dev.to/sergi_web3/toncoin-surges-27-breaks-resistance-is-9-next-for-ton--47en)
+- [Making Smart Contracts Upgradeable: Fixing Locked Funds and Bugs](https://dev.to/block_experts_766a3a21915637/making-smart-contracts-upgradeable-fixing-locked-funds-and-bugs-ogo)
+- [Post about, can or cannot AI replace coders are narrow minded...](https://dev.to/td5r/post-about-can-or-cannot-ai-replace-coders-are-narrow-minded-4gi3)
 <!-- BLOG-POST-LIST:END -->
 
