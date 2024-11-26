@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Hugging Face Models to AWS Lambda in 3 steps](https://dev.to/cnuss/deploy-hugging-face-models-to-aws-lambda-in-3-steps-5f18)
-- [The Critical Role of PCBs in High-Frequency Applications](https://dev.to/yoy/the-critical-role-of-pcbs-in-high-frequency-applications-289h)
-- [Why Idempotence Matters in CI/CD Pipeline Build Steps](https://dev.to/tutunak/why-idempotence-matters-in-cicd-pipeline-build-steps-4ka)
-- [Will AI make software disappear?](https://dev.to/polipo_gio/will-ai-make-software-disappear-4dla)
+- [AI&#39;s Growing Role Across Industries and Job Markets](https://dev.to/johnmic9087/ais-growing-role-across-industries-and-job-markets-336m)
+- [LeetCode in Swift - 2924. Find Champion II （中文解釋）](https://dev.to/vc7/leetcode-in-swift-2924-find-champion-ii-zhong-wen-jie-shi--2083)
+- [Quick Time Events: How to Align a Team in One Meeting](https://dev.to/nanojoel/quick-time-events-how-to-align-a-team-in-one-meeting-2ipg)
+- [9 AI-Powered Chrome Extensions to Save Hours of Manual Work 🧙‍♂️🔥](https://dev.to/madza/9-ai-powered-chrome-extensions-to-save-hours-of-manual-work-gg1)
 <!-- BLOG-POST-LIST:END -->
 
