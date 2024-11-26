@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learnings from using the Sitecore ADM module](https://dev.to/byteminds_agency/learnings-from-using-the-sitecore-adm-module-9gc)
-- [Google profile design](https://dev.to/junissen9/google-profile-design-1mkn)
-- [Dataverse table with 2 lookup and 1 formula columns](https://dev.to/andrewelans/dataverse-table-with-2-lookup-and-1-formula-columns-1bn0)
-- [Destructuring in JavaScript](https://dev.to/oracle101/destructuring-in-javascript-4lmp)
+- [Migrate a hosted zone to a different AWS account in few seconds!!](https://dev.to/aws-builders/migrate-a-hosted-zone-to-a-different-aws-account-in-few-seconds-2la2)
+- [Git made simpler: Some modern alternatives to classic commands](https://dev.to/dimeloper/git-made-simpler-some-modern-alternatives-to-classic-commands-5g5j)
+- [Putting Users First: How to Improve Your Website’s Performance](https://dev.to/daniel_clarke/putting-users-first-how-to-improve-your-websites-performance-1fb8)
+- [The coolest chat](https://dev.to/junissen9/the-coolest-chat-2hlm)
 <!-- BLOG-POST-LIST:END -->
 
