@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ArkWeb Page Preloading and Caching - Enhancing User Experience](https://dev.to/xun_wang_6384a403f9817c2/arkweb-page-preloading-and-caching-enhancing-user-experience-3l8c)
-- [Building and Testing the Gemini API with CI/CD Pipeline](https://dev.to/nirajan_mahara/building-and-testing-the-gemini-api-with-cicd-pipeline-1e7p)
-- [Unlocking Reasoning with Chain-of-Thought Prompting By Jill Smith](https://dev.to/wiko_w/unlocking-reasoning-with-chain-of-thought-promptingby-jill-smith-2o9k)
-- [TS - Array 元素上下移動、置頂置底和元素交換，你會嗎？](https://dev.to/fakestandard/ts-array-yuan-su-shang-xia-yi-dong-zhi-ding-zhi-di-he-yuan-su-jiao-huan-ni-hui-ma--2i0h)
+- [#104 — Deduplication of Row-Based Data — by Whole Row — Keeping the Original Order](https://dev.to/judith677/104-deduplication-of-row-based-data-by-whole-row-keeping-the-original-order-2bpe)
+- [How to Prevent NTP Reflection Attacks?](https://dev.to/adityabhuyan/how-to-prevent-ntp-reflection-attacks-5f33)
+- [Understanding Application-Oriented Distributed Operating Systems: Architecture, Benefits, and Use Cases](https://dev.to/adityabhuyan/understanding-application-oriented-distributed-operating-systems-architecture-benefits-and-use-160m)
+- [Implementing Google One Tap Authentication in Next.js](https://dev.to/jakaria/implementing-google-one-tap-authentication-in-nextjs-2o1l)
 <!-- BLOG-POST-LIST:END -->
 
