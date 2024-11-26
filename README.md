@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding API Gateway’s integrations hard limit: scaling serverless architectures efficiently](https://dev.to/slsbytheodo/avoiding-api-gateways-integrations-hard-limit-scaling-serverless-architectures-efficiently-49on)
-- [Aurora Limitless - SQL Limitations](https://dev.to/aws-heroes/aurora-limitless-sql-limitations-20if)
-- [10 Key Facts Job Market 2024 &amp; Outlook Disruption](https://dev.to/sfdcnews/10-key-facts-job-market-2024-outlook-disruption-f73)
-- [Where WordPress Pages are Stored: A Complete Guide](https://dev.to/cozy_wordpress/where-wordpress-pages-are-stored-a-complete-guide-3o92)
+- [Getting Started with Linux SOCKS Proxy Server](https://dev.to/swiftproxy9572/getting-started-with-linux-socks-proxy-server-4i80)
+- [Merge Multiple kubeconfig Files into One](https://dev.to/gloria_adhiambo_c684bb9a0/merge-multiple-kubeconfig-files-into-one-al3)
+- [How to Hide Your IP Address on iPhone in Just a Few Steps](https://dev.to/swiftproxy9572/how-to-hide-your-ip-address-on-iphone-in-just-a-few-steps-45fc)
+- [NgSysV2-1.1: A Young Person’s Guide to Systems Development in the Age of AI](https://dev.to/mjoycemilburn/ngsysv2-11-a-young-persons-guide-to-systems-development-in-the-age-of-ai-39pe)
 <!-- BLOG-POST-LIST:END -->
 
