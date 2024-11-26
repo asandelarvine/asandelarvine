@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Linux SOCKS Proxy Server](https://dev.to/swiftproxy9572/getting-started-with-linux-socks-proxy-server-4i80)
-- [Merge Multiple kubeconfig Files into One](https://dev.to/gloria_adhiambo_c684bb9a0/merge-multiple-kubeconfig-files-into-one-al3)
-- [How to Hide Your IP Address on iPhone in Just a Few Steps](https://dev.to/swiftproxy9572/how-to-hide-your-ip-address-on-iphone-in-just-a-few-steps-45fc)
-- [NgSysV2-1.1: A Young Person’s Guide to Systems Development in the Age of AI](https://dev.to/mjoycemilburn/ngsysv2-11-a-young-persons-guide-to-systems-development-in-the-age-of-ai-39pe)
+- [Why everyone loves Python &lpar;simple code inside&rpar;](https://dev.to/itdevus/why-everyone-loves-python-simple-code-inside-34di)
+- [The Future of Smart Homes: Top Devices, Trends &amp; Innovations for 2024](https://dev.to/snapnews/the-future-of-smart-homes-top-devices-trends-innovations-for-2024-4doi)
+- [Unlocking AI in Marketing: Key Trends Transforming Strategy in 2024](https://dev.to/snapnews/unlocking-ai-in-marketing-key-trends-transforming-strategy-in-2024-4al0)
+- [Unlocking the Power of Django: Build Secure and Scalable Web Apps Fast](https://dev.to/snapnews/unlocking-the-power-of-django-build-secure-and-scalable-web-apps-fast-463a)
 <!-- BLOG-POST-LIST:END -->
 
