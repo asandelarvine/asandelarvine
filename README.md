@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is `functools partial`?](https://dev.to/atifwattoo/what-is-functools-partial-4hh3)
-- [Why PyTorch Stole the Spotlight from TensorFlow?](https://dev.to/_mvkim/why-pytorch-stole-the-spotlight-from-tensorflow-3b0i)
-- [Exploring React Native 0.76: New Features and modifications](https://dev.to/hakeem/exploring-react-native-076-new-features-and-modifications-2mn0)
-- [How I Automated a Greenhouse with IoT: The AgriSense Story](https://dev.to/itsdchanda/how-i-automated-a-greenhouse-with-iot-the-agrisense-story-4e02)
+- [Top 5 Common Mistakes in React Development and How to Avoid Them ⚛️](https://dev.to/rodolphedupuis/top-5-common-mistakes-in-react-development-and-how-to-avoid-them-1k1)
+- [Sites speed optimisation is a destination, not a journey](https://dev.to/nikdyankov/sites-speed-optimisation-is-a-destination-not-a-journey-2dca)
+- [Build, Publish, Secure: AWS CodePipeline Now Simplifies ECR Publishing and Vulnerability Scans](https://dev.to/aws-builders/build-publish-secure-aws-codepipeline-now-simplifies-ecr-publishing-and-vulnerability-scans-2j43)
+- [📹 How YouTube Scaled MySQL to Support 2.49 Billion Users 🚀](https://dev.to/hamzakhan/how-youtube-scaled-mysql-to-support-249-billion-users-3eea)
 <!-- BLOG-POST-LIST:END -->
 
