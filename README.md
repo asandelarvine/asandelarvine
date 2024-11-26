@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Compare: Simplifying Data Validation](https://dev.to/keploy/json-compare-simplifying-data-validation-2fnh)
-- [AI Image Validation Solutions: A Game-Changer for Quality Control](https://dev.to/jhonsnow21/ai-image-validation-solutions-a-game-changer-for-quality-control-2j46)
-- [🚀 Let’s Learn Event Loops in JavaScript! 🎡](https://dev.to/jagroop2001/lets-learn-event-loops-in-javascript-26k0)
-- [I finally tried Pest for PHP &amp; Laravel, then made the switch](https://dev.to/seriquynh/i-finally-tried-pest-for-php-laravel-then-made-the-switch-3anf)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-38f9)
+- [Turkey-Themed Designs for Your Thanksgiving T-Shirts: Celebrate with Style](https://dev.to/atakan_zaar_c28304506fc/turkey-themed-designs-for-your-thanksgiving-t-shirts-celebrate-with-style-1873)
+- [Building a Login and Registration System Using NestJS with TypeORM and PostgreSQL](https://dev.to/buildwithgagan/building-a-login-and-registration-system-using-nestjs-with-typeorm-and-postgresql-19hh)
+- [Momen vs. Bubble Comparison: An Honest Look at Features and Performance](https://dev.to/momen_hq/momen-vs-bubble-comparison-an-honest-look-at-features-and-performance-37ec)
 <!-- BLOG-POST-LIST:END -->
 
