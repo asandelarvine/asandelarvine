@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Types of AI - Detailed Guide](https://dev.to/vijendra22/10-types-of-ai-detailed-guide-134)
-- [🚀 My CRM Journey&lpar;Day-2&rpar;: Admin Panel, jQuery Integration &amp; Customer Management 🌟](https://dev.to/anticoder03/my-crm-journeyday-2-admin-panel-jquery-integration-customer-management-2jb6)
-- [Master Cloud Patterns for Stability](https://dev.to/omar_zenhom/master-cloud-patterns-for-stability-4hg)
-- [Drizzle vs. Prisma: Which ORM is best for your project?](https://dev.to/logrocket/drizzle-vs-prisma-which-orm-is-best-for-your-project-52be)
+- [What is `functools partial`?](https://dev.to/atifwattoo/what-is-functools-partial-4hh3)
+- [Why PyTorch Stole the Spotlight from TensorFlow?](https://dev.to/_mvkim/why-pytorch-stole-the-spotlight-from-tensorflow-3b0i)
+- [Exploring React Native 0.76: New Features and modifications](https://dev.to/hakeem/exploring-react-native-076-new-features-and-modifications-2mn0)
+- [How I Automated a Greenhouse with IoT: The AgriSense Story](https://dev.to/itsdchanda/how-i-automated-a-greenhouse-with-iot-the-agrisense-story-4e02)
 <!-- BLOG-POST-LIST:END -->
 
