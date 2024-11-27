@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Aspects You Need to Know about Appium and Selenium](https://dev.to/misterankit/critical-aspects-you-need-to-know-about-appium-and-selenium-53l8)
-- [ccess websites?](https://dev.to/l_21fbb1644a69/ccess-websites-2g8i)
-- [How to Build a Line Follower Robot with Arduino](https://dev.to/akshay_jain/how-to-build-a-line-follower-robot-with-arduino-2j2a)
-- [Welcome Thread - v304](https://dev.to/devteam/welcome-thread-v305-57bl)
+- [SQL: Multi field mixed deduplication followed by numbering #eg81](https://dev.to/esproc_spl/sql-multi-field-mixed-deduplication-followed-by-numbering-eg81-2ai0)
+- [Federally Qualified Health Centers &lpar;FQHCs&rpar; and EHR Adoption: Transforming Care Through Technology](https://dev.to/hrithicrohan/federally-qualified-health-centers-fqhcs-and-ehr-adoption-transforming-care-through-technology-567h)
+- [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
+- [Overcoming Monorepo Challenges to Enhance Performance and Productivity](https://dev.to/shieldstring/overcoming-monorepo-challenges-to-enhance-performance-and-productivity-26dd)
 <!-- BLOG-POST-LIST:END -->
 
