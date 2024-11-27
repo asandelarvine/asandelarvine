@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This week Javascript 3](https://dev.to/devmercy/this-week-javascript-3-1lnj)
-- [Learn how to create a ribbon for a pricing card with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-ribbon-for-a-pricing-card-with-tailwind-css-5d9g)
-- [How CodeMirror v6 dev setup installs packages without a monorepo](https://dev.to/thinkthroo/how-codemirror-v6-dev-setup-installs-packages-without-a-monorepo-1048)
-- [CentOS Stream 9 : Memcached : PHP](https://dev.to/muhammad_shahidulislam_b/centos-stream-9-memcached-php-5del)
+- [Understanding InvalidOperationException in C#](https://dev.to/iamcymentho/understanding-invalidoperationexception-in-c-41no)
+- [Double the Talk, Double the Recording: Capturing Both Sides in Interpreted Zoom Meetings](https://dev.to/hackmack4772/double-the-talk-double-the-recording-capturing-both-sides-in-interpreted-zoom-meetings-57a2)
+- [Understanding Variance in C#](https://dev.to/moh_moh701/understanding-variance-in-c-22d)
+- [Simple explanation of Clustered Index and Non-Clustered Index](https://dev.to/mrcaption49/simple-explanation-of-clustered-index-and-non-clustered-index-2j4f)
 <!-- BLOG-POST-LIST:END -->
 
