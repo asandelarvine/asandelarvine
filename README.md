@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best UX Audit Tools Toward Optimizing User Experience in 2025](https://dev.to/lollypopdesign/15-best-ux-audit-tools-toward-optimizing-user-experience-in-2025-5f7a)
-- [ReentrantReadWriteLock](https://dev.to/pranavt84/reentrantreadwritelock-2fd)
-- [From Code to Coaching: Embracing the Growth Mindset in Engineering Management](https://dev.to/_firelinks/from-code-to-coaching-embracing-the-growth-mindset-in-engineering-management-3342)
-- [Mi primera computadora.](https://dev.to/fedatu/mi-primera-computadora-2f9n)
+- [Critical Aspects You Need to Know about Appium and Selenium](https://dev.to/misterankit/critical-aspects-you-need-to-know-about-appium-and-selenium-53l8)
+- [ccess websites?](https://dev.to/l_21fbb1644a69/ccess-websites-2g8i)
+- [How to Build a Line Follower Robot with Arduino](https://dev.to/akshay_jain/how-to-build-a-line-follower-robot-with-arduino-2j2a)
+- [Welcome Thread - v304](https://dev.to/devteam/welcome-thread-v305-57bl)
 <!-- BLOG-POST-LIST:END -->
 
