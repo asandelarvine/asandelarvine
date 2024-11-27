@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL: Multi field mixed deduplication followed by numbering #eg81](https://dev.to/esproc_spl/sql-multi-field-mixed-deduplication-followed-by-numbering-eg81-2ai0)
-- [Federally Qualified Health Centers &lpar;FQHCs&rpar; and EHR Adoption: Transforming Care Through Technology](https://dev.to/hrithicrohan/federally-qualified-health-centers-fqhcs-and-ehr-adoption-transforming-care-through-technology-567h)
-- [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
-- [Overcoming Monorepo Challenges to Enhance Performance and Productivity](https://dev.to/shieldstring/overcoming-monorepo-challenges-to-enhance-performance-and-productivity-26dd)
+- [Critical Path Software for Project Teams: Top 3 Solutions](https://dev.to/thomasy0ung/critical-path-software-for-project-teams-top-3-solutions-5618)
+- [Button hover, increase width on right side but left side fixed](https://dev.to/webfaisalbd/button-hover-increase-width-on-right-side-but-left-side-fixed-1a9k)
+- [Mastering Assertions in Python Selenium: A Comprehensive Guide for Testing](https://dev.to/keploy/mastering-assertions-in-python-selenium-a-comprehensive-guide-for-testing-20h)
+- [Switch colors in Flutter](https://dev.to/rampsad27/switch-colors-in-flutter-2kaf)
 <!-- BLOG-POST-LIST:END -->
 
