@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Codepen October Challenge: Halloween Edition with WebDataRocks](https://dev.to/svlorman/codepen-october-challenge-halloween-edition-with-webdatarocks-42d7)
-- [Added rate limit in api enpoint in node express js](https://dev.to/khalid7487/added-rate-limit-in-api-enpoint-in-node-express-js-ocb)
-- [Mastering the Conditional React Hooks Pattern &lpar;With JavaScript and TypeScript Examples&rpar; 🚀](https://dev.to/abdulnasirolcan/mastering-the-conditional-react-hooks-pattern-with-javascript-and-typescript-examples-53h4)
-- [Feedback🗒️💻](https://dev.to/taariqelliott/feedback-45oe)
+- [Virtual Reality &lpar;VR&rpar; and Augmented Reality &lpar;AR&rpar;](https://dev.to/iskender83/virtual-reality-vr-and-augmented-reality-ar-105o)
+- [Hiding Notifications in Foreground and Triggering Them in Background or Killed States using notifee](https://dev.to/amitkumar13/hiding-notifications-in-foreground-and-triggering-them-in-background-or-killed-states-using-notifee-mjc)
+- [5G Network Technology](https://dev.to/iskender83/5g-network-technology-2dp1)
+- [Automating AWS Security with Code a Comprehensive Guide](https://dev.to/ikoh_sylva/automating-aws-security-with-code-a-comprehensive-guide-69f)
 <!-- BLOG-POST-LIST:END -->
 
