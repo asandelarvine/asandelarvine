@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Exploring Python Libraries: Unlocking the Power of Pre-Written Code 🚀](https://dev.to/shreyash-hexa/exploring-python-libraries-unlocking-the-power-of-pre-written-code-3noi)
-- [Understanding 401k Hardship Withdrawal Reasons: A Comprehensive Guide](https://dev.to/thenexttech/understanding-401k-hardship-withdrawal-reasons-a-comprehensive-guide-3nk2)
-- [FlutterFlow: Building Apps with Simplicity and Speed](https://dev.to/mohd_shadab_dev/flutterflow-building-apps-with-simplicity-and-speed-22nh)
-- [Part 1 : How to Create and Configure a New Azure Pipeline with a GitHub Repository](https://dev.to/shashank-mishra-dev/part-1-how-to-create-and-configure-a-new-azure-pipeline-with-a-github-repository-41g1)
+- [DevOps Planning to Production Day 1 of 24 : Getting Started with Red Hat Linux](https://dev.to/kanav_gathe/devops-planning-to-production-day-1-of-24-getting-started-with-red-hat-linux-17j6)
+- [Understanding the Layered Architecture Pattern: A Comprehensive Guide](https://dev.to/yasmine_ddec94f4d4/understanding-the-layered-architecture-pattern-a-comprehensive-guide-1e2j)
+- [Angular 19: A Strong Challenger to React.js](https://dev.to/dev007777/angular-19-a-strong-challenger-to-reactjs-36if)
+- [YOU GOT A CHALLENGE..](https://dev.to/mince/you-got-a-challenge-4kb7)
 <!-- BLOG-POST-LIST:END -->
 
