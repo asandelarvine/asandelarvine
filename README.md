@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐜 Since CSS has changed the logo, it&#39;s time for HMPL to change the logo too!](https://dev.to/hmpljs/since-css-has-changed-the-logo-its-time-for-hmpl-to-change-the-logo-too-80k)
-- [🚀 Skillcef AI Chatbot Hackathon: Are You Ready to Build the Future?](https://dev.to/skillcef/skillcef-ai-chatbot-hackathon-are-you-ready-to-build-the-future-1edf)
-- [Reactive Programming with JavaScript but Beyond the Basics](https://dev.to/shafayeat/reactive-programming-with-javascript-but-beyond-the-basics-4il1)
-- [Solving eventual consistency in frontend](https://dev.to/logrocket/solving-eventual-consistency-in-frontend-3dgl)
+- [🏎️ When Bots Play Better: My Journey of Creating a Bot for KartWars.io](https://dev.to/kmataru/when-bots-play-better-my-journey-of-creating-a-bot-for-kartwarsio-4a8p)
+- [Build and Deploy your own Browser Extensions](https://dev.to/mukhilpadmanabhan/build-and-deploy-your-own-browser-extensions-5034)
+- [Was This Text written by a Human? We asked Real Humans &lpar;Part I&rpar;](https://dev.to/airabbit/was-this-text-written-by-a-human-we-asked-real-humans-part-i-356l)
+- [What Most People Get Wrong About the Term SSR](https://dev.to/jlarky/what-most-people-get-wrong-about-the-term-ssr-3ijo)
 <!-- BLOG-POST-LIST:END -->
 
