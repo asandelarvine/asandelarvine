@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏎️ When Bots Play Better: My Journey of Creating a Bot for KartWars.io](https://dev.to/kmataru/when-bots-play-better-my-journey-of-creating-a-bot-for-kartwarsio-4a8p)
-- [Build and Deploy your own Browser Extensions](https://dev.to/mukhilpadmanabhan/build-and-deploy-your-own-browser-extensions-5034)
-- [Was This Text written by a Human? We asked Real Humans &lpar;Part I&rpar;](https://dev.to/airabbit/was-this-text-written-by-a-human-we-asked-real-humans-part-i-356l)
-- [What Most People Get Wrong About the Term SSR](https://dev.to/jlarky/what-most-people-get-wrong-about-the-term-ssr-3ijo)
+- [I absolutely love when CSS gets new features &lpar;Even though it usually takes me years to remember to use them 😄&rpar;](https://dev.to/ben/i-absolutely-love-when-css-gets-new-features-even-though-it-usually-takes-me-years-to-remember-to-11po)
+- [Have you ever built your own browser extension? What kind of problems did you have and which functionalities were handy for you? Share your opinion or tips in comments! Let’s help each other to build better extensions!](https://dev.to/mukhilpadmanabhan/have-you-ever-built-your-own-browser-extension-what-kind-of-problems-did-you-have-and-which-2kep)
+- [AWS CloudWatch Logging and Live Tail using AWS CLI!](https://dev.to/bhatiagirish/aws-cloudwatch-logging-and-live-tail-using-aws-cli-5h4e)
+- [Basic Understanding of AWS Cloud Adoption Framework-&lpar;CAF&rpar;](https://dev.to/borhanitrash/basic-understanding-of-aws-cloud-adoption-framework-caf-cp5)
 <!-- BLOG-POST-LIST:END -->
 
