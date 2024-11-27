@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spin Verman - The Version Manager Plugin](https://dev.to/fermyon/spin-verman-the-version-manager-plugin-2pie)
-- [Meet Stache Forcache, a Movember-themed AI created using Amazon PartyRock](https://dev.to/aws-heroes/meet-stache-forcache-a-movember-themed-ai-created-using-amazon-partyrock-4lc3)
-- [Simulando um ambiente AWS com LocalStack](https://dev.to/gilsonsilvati/simulando-um-ambiente-aws-com-localstack-5496)
-- [Day 1063 : Understand](https://dev.to/dwane/day-1063-understand-4118)
+- [A Final Challenge: The Planning Phase](https://dev.to/cleobnvntra/a-final-challenge-the-planning-phase-2p10)
+- [Android Studio 에서 Compose 의 Preview 가 남긴 로그 보기](https://dev.to/kingori/android-studio-eseo-compose-yi-preview-ga-namgin-rogeu-bogi-18jp)
+- [Debugging Laravel Routes in Testing](https://dev.to/nasrulhazim/debugging-laravel-routes-in-testing-dak)
+- [Resolving Environment Preset Loading Error in React Three Fiber](https://dev.to/anapimolodec/resolving-environment-preset-loading-error-in-react-three-fiber-5elc)
 <!-- BLOG-POST-LIST:END -->
 
