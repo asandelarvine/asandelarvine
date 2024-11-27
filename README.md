@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Reality &lpar;VR&rpar; and Augmented Reality &lpar;AR&rpar;](https://dev.to/iskender83/virtual-reality-vr-and-augmented-reality-ar-105o)
-- [Hiding Notifications in Foreground and Triggering Them in Background or Killed States using notifee](https://dev.to/amitkumar13/hiding-notifications-in-foreground-and-triggering-them-in-background-or-killed-states-using-notifee-mjc)
-- [5G Network Technology](https://dev.to/iskender83/5g-network-technology-2dp1)
-- [Automating AWS Security with Code a Comprehensive Guide](https://dev.to/ikoh_sylva/automating-aws-security-with-code-a-comprehensive-guide-69f)
+- [🐜 Since CSS has changed the logo, it&#39;s time for HMPL to change the logo too!](https://dev.to/hmpljs/since-css-has-changed-the-logo-its-time-for-hmpl-to-change-the-logo-too-80k)
+- [🚀 Skillcef AI Chatbot Hackathon: Are You Ready to Build the Future?](https://dev.to/skillcef/skillcef-ai-chatbot-hackathon-are-you-ready-to-build-the-future-1edf)
+- [Reactive Programming with JavaScript but Beyond the Basics](https://dev.to/shafayeat/reactive-programming-with-javascript-but-beyond-the-basics-4il1)
+- [Solving eventual consistency in frontend](https://dev.to/logrocket/solving-eventual-consistency-in-frontend-3dgl)
 <!-- BLOG-POST-LIST:END -->
 
