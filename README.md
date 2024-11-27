@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Path Software for Project Teams: Top 3 Solutions](https://dev.to/thomasy0ung/critical-path-software-for-project-teams-top-3-solutions-5618)
-- [Button hover, increase width on right side but left side fixed](https://dev.to/webfaisalbd/button-hover-increase-width-on-right-side-but-left-side-fixed-1a9k)
-- [Mastering Assertions in Python Selenium: A Comprehensive Guide for Testing](https://dev.to/keploy/mastering-assertions-in-python-selenium-a-comprehensive-guide-for-testing-20h)
-- [Switch colors in Flutter](https://dev.to/rampsad27/switch-colors-in-flutter-2kaf)
+- [This week Javascript 3](https://dev.to/devmercy/this-week-javascript-3-1lnj)
+- [Learn how to create a ribbon for a pricing card with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-ribbon-for-a-pricing-card-with-tailwind-css-5d9g)
+- [How CodeMirror v6 dev setup installs packages without a monorepo](https://dev.to/thinkthroo/how-codemirror-v6-dev-setup-installs-packages-without-a-monorepo-1048)
+- [CentOS Stream 9 : Memcached : PHP](https://dev.to/muhammad_shahidulislam_b/centos-stream-9-memcached-php-5del)
 <!-- BLOG-POST-LIST:END -->
 
