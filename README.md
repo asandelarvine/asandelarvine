@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Your First Solana Project with Anchor](https://dev.to/realacjoshua/running-your-first-solana-project-with-anchor-3ion)
-- [Share yours!](https://dev.to/jess/share-yours-3d43)
-- [Securing Cloud-Native Databases and Big Data Solutions](https://dev.to/iskender83/securing-cloud-native-databases-and-big-data-solutions-2l56)
-- [Safe Thanksgiving travels to anyone who&#39;s partaking!](https://dev.to/jess/safe-thanksgiving-travels-to-anyone-whos-partaking-onl)
+- [Understanding Django Regular Expressions](https://dev.to/michael__/understanding-django-regular-expressions-5d6o)
+- [Behind the Scenes of Gladiators Battle: Building a Browser-Based Gladiator RPG with React and Firebase](https://dev.to/gladiatorsbattle/behind-the-scenes-of-gladiators-battle-building-a-browser-based-gladiator-rpg-with-react-and-49h7)
+- [Python C/C++ binding](https://dev.to/patfinder/python-cc-binding-59l6)
+- [Set Default Values in Laravel with mergeIfMissing: Real-Life Examples](https://dev.to/homezonic/set-default-values-in-laravel-with-mergeifmissing-real-life-examples-54ma)
 <!-- BLOG-POST-LIST:END -->
 
