@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Planning to Production Day 1 of 24 : Getting Started with Red Hat Linux](https://dev.to/kanav_gathe/devops-planning-to-production-day-1-of-24-getting-started-with-red-hat-linux-17j6)
-- [Understanding the Layered Architecture Pattern: A Comprehensive Guide](https://dev.to/yasmine_ddec94f4d4/understanding-the-layered-architecture-pattern-a-comprehensive-guide-1e2j)
-- [Angular 19: A Strong Challenger to React.js](https://dev.to/dev007777/angular-19-a-strong-challenger-to-reactjs-36if)
-- [YOU GOT A CHALLENGE..](https://dev.to/mince/you-got-a-challenge-4kb7)
+- [API Testing: Ensuring Reliable and Robust Software Applications](https://dev.to/keploy/api-testing-ensuring-reliable-and-robust-software-applications-18l6)
+- [What the heck is &quot;this&quot; Keyword in JavaScript](https://dev.to/keyur-chaudhari/what-the-heck-is-this-keyword-in-javascript-ll2)
+- [What We Learned From Analyzing 20.2 Million CI Jobs In Trunk Flaky Tests - Part 2](https://dev.to/gewenyu99/what-we-learned-from-analyzing-202-million-ci-jobs-in-trunk-flaky-tests-part-2-1363)
+- [One Extension, Every JSON Feature: The Complete Story of JSON Viewer Plus](https://dev.to/rezmoss/one-extension-every-json-feature-the-complete-story-of-json-viewer-plus-3i14)
 <!-- BLOG-POST-LIST:END -->
 
