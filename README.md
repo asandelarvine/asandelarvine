@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I absolutely love when CSS gets new features &lpar;Even though it usually takes me years to remember to use them 😄&rpar;](https://dev.to/ben/i-absolutely-love-when-css-gets-new-features-even-though-it-usually-takes-me-years-to-remember-to-11po)
-- [Have you ever built your own browser extension? What kind of problems did you have and which functionalities were handy for you? Share your opinion or tips in comments! Let’s help each other to build better extensions!](https://dev.to/mukhilpadmanabhan/have-you-ever-built-your-own-browser-extension-what-kind-of-problems-did-you-have-and-which-2kep)
-- [AWS CloudWatch Logging and Live Tail using AWS CLI!](https://dev.to/bhatiagirish/aws-cloudwatch-logging-and-live-tail-using-aws-cli-5h4e)
-- [Basic Understanding of AWS Cloud Adoption Framework-&lpar;CAF&rpar;](https://dev.to/borhanitrash/basic-understanding-of-aws-cloud-adoption-framework-caf-cp5)
+- [Hello, developers! 👋](https://dev.to/codeandbeverage/hello-developers-hkc)
+- [IT WORKS](https://dev.to/elliot_brenya/it-works-3cdb)
+- [Fixing Vercel 404 Errors: A Simple Solution for Node.js Projects](https://dev.to/elliot_brenya/fixing-vercel-404-errors-a-simple-solution-for-nodejs-projects-1jbf)
+- [Spacer Components introduced in ViewComponent 3.20](https://dev.to/railsdesigner/spacer-components-introduced-in-viewcomponent-320-5130)
 <!-- BLOG-POST-LIST:END -->
 
