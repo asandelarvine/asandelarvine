@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, developers! 👋](https://dev.to/codeandbeverage/hello-developers-hkc)
-- [IT WORKS](https://dev.to/elliot_brenya/it-works-3cdb)
-- [Fixing Vercel 404 Errors: A Simple Solution for Node.js Projects](https://dev.to/elliot_brenya/fixing-vercel-404-errors-a-simple-solution-for-nodejs-projects-1jbf)
-- [Spacer Components introduced in ViewComponent 3.20](https://dev.to/railsdesigner/spacer-components-introduced-in-viewcomponent-320-5130)
+- [Running Your First Solana Project with Anchor](https://dev.to/realacjoshua/running-your-first-solana-project-with-anchor-3ion)
+- [Share yours!](https://dev.to/jess/share-yours-3d43)
+- [Securing Cloud-Native Databases and Big Data Solutions](https://dev.to/iskender83/securing-cloud-native-databases-and-big-data-solutions-2l56)
+- [Safe Thanksgiving travels to anyone who&#39;s partaking!](https://dev.to/jess/safe-thanksgiving-travels-to-anyone-whos-partaking-onl)
 <!-- BLOG-POST-LIST:END -->
 
