@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding InvalidOperationException in C#](https://dev.to/iamcymentho/understanding-invalidoperationexception-in-c-41no)
-- [Double the Talk, Double the Recording: Capturing Both Sides in Interpreted Zoom Meetings](https://dev.to/hackmack4772/double-the-talk-double-the-recording-capturing-both-sides-in-interpreted-zoom-meetings-57a2)
-- [Understanding Variance in C#](https://dev.to/moh_moh701/understanding-variance-in-c-22d)
-- [Simple explanation of Clustered Index and Non-Clustered Index](https://dev.to/mrcaption49/simple-explanation-of-clustered-index-and-non-clustered-index-2j4f)
+- [How to C#: Add Configuration to your .NET 8 Web API Application](https://dev.to/iamrule/how-to-c-add-configuration-to-your-net-8-web-api-application-4cjf)
+- [Why IT Leaders Should Focus on Multi-Factor Authentication in 2025](https://dev.to/blogginger/why-it-leaders-should-focus-on-multi-factor-authentication-in-2025-476a)
+- [GitOps vs. DevOps: Understanding the Key Differences](https://dev.to/mohamednasser018/gitops-vs-devops-understanding-the-key-differences-32d5)
+- [Boost Node.js Performance: Master JIT Compilation for Lightning-Fast Apps](https://dev.to/aaravjoshi/boost-nodejs-performance-master-jit-compilation-for-lightning-fast-apps-27hk)
 <!-- BLOG-POST-LIST:END -->
 
