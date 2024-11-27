@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Final Challenge: The Planning Phase](https://dev.to/cleobnvntra/a-final-challenge-the-planning-phase-2p10)
-- [Android Studio 에서 Compose 의 Preview 가 남긴 로그 보기](https://dev.to/kingori/android-studio-eseo-compose-yi-preview-ga-namgin-rogeu-bogi-18jp)
-- [Debugging Laravel Routes in Testing](https://dev.to/nasrulhazim/debugging-laravel-routes-in-testing-dak)
-- [Resolving Environment Preset Loading Error in React Three Fiber](https://dev.to/anapimolodec/resolving-environment-preset-loading-error-in-react-three-fiber-5elc)
+- [15 Best UX Audit Tools Toward Optimizing User Experience in 2025](https://dev.to/lollypopdesign/15-best-ux-audit-tools-toward-optimizing-user-experience-in-2025-5f7a)
+- [ReentrantReadWriteLock](https://dev.to/pranavt84/reentrantreadwritelock-2fd)
+- [From Code to Coaching: Embracing the Growth Mindset in Engineering Management](https://dev.to/_firelinks/from-code-to-coaching-embracing-the-growth-mindset-in-engineering-management-3342)
+- [Mi primera computadora.](https://dev.to/fedatu/mi-primera-computadora-2f9n)
 <!-- BLOG-POST-LIST:END -->
 
