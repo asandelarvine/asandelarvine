@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration of AI in Health Care](https://dev.to/siddharthbhalsod/integration-of-ai-in-health-care-2ndn)
-- [Why Every Business Needs a QR Code Generator in 2024](https://dev.to/jacob_spencer_73079147d63/why-every-business-needs-a-qr-code-generator-in-2024-76m)
-- [Mastering Selenium C# with NUnit: In-Depth Guide to Page Object Model &lpar;POM&rpar; and Data Object Model &lpar;DOM&rpar;](https://dev.to/jignect_technologies/mastering-selenium-c-with-nunit-in-depth-guide-to-page-object-model-pom-and-data-object-model-2b12)
-- [Multi-Armed Bandits: A Practical Guide to Adaptive Testing](https://dev.to/pzapolskii/multi-armed-bandits-a-practical-guide-to-adaptive-testing-1n7g)
+- [🌟 Exploring Python Libraries: Unlocking the Power of Pre-Written Code 🚀](https://dev.to/shreyash-hexa/exploring-python-libraries-unlocking-the-power-of-pre-written-code-3noi)
+- [Understanding 401k Hardship Withdrawal Reasons: A Comprehensive Guide](https://dev.to/thenexttech/understanding-401k-hardship-withdrawal-reasons-a-comprehensive-guide-3nk2)
+- [FlutterFlow: Building Apps with Simplicity and Speed](https://dev.to/mohd_shadab_dev/flutterflow-building-apps-with-simplicity-and-speed-22nh)
+- [Part 1 : How to Create and Configure a New Azure Pipeline with a GitHub Repository](https://dev.to/shashank-mishra-dev/part-1-how-to-create-and-configure-a-new-azure-pipeline-with-a-github-repository-41g1)
 <!-- BLOG-POST-LIST:END -->
 
