@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Links - Edition 2024-11-26](https://dev.to/0xkkocel/wednesday-links-edition-2024-11-26-5f9j)
-- [Building a movie suggestion Bot using AWS Bedrock, Amazon Lex, and OpenSearch](https://dev.to/aws-builders/building-a-movie-suggestion-bot-using-aws-bedrock-amazon-lex-and-opensearch-52ci)
-- [Kubernetes Architect](https://dev.to/jamiu_cloud/kubernetes-architect-52fg)
-- [My React Journey: Day 7](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-7-336j)
+- [Spin Verman - The Version Manager Plugin](https://dev.to/fermyon/spin-verman-the-version-manager-plugin-2pie)
+- [Meet Stache Forcache, a Movember-themed AI created using Amazon PartyRock](https://dev.to/aws-heroes/meet-stache-forcache-a-movember-themed-ai-created-using-amazon-partyrock-4lc3)
+- [Simulando um ambiente AWS com LocalStack](https://dev.to/gilsonsilvati/simulando-um-ambiente-aws-com-localstack-5496)
+- [Day 1063 : Understand](https://dev.to/dwane/day-1063-understand-4118)
 <!-- BLOG-POST-LIST:END -->
 
