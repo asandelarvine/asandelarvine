@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Progressive Web Apps &lpar;PWAs&rpar;: Transforming Websites into App-Like Experiences](https://dev.to/okoye_ndidiamaka_5e3b7d30/progressive-web-apps-pwas-transforming-websites-into-app-like-experiences-2g31)
-- [Kubernetes Ingress Explained](https://dev.to/i_am_vesh/kubernetes-ingress-explained-1cp0)
-- [Future Trends in E-commerce and How Adobe Commerce is Adapting](https://dev.to/surekhatechnologies/future-trends-in-e-commerce-and-how-adobe-commerce-is-adapting-2cbl)
-- [How Custom Web Applications Boost Efficiency and Security](https://dev.to/purvituvar/how-custom-web-applications-boost-efficiency-and-security-d5n)
+- [Integration of AI in Health Care](https://dev.to/siddharthbhalsod/integration-of-ai-in-health-care-2ndn)
+- [Why Every Business Needs a QR Code Generator in 2024](https://dev.to/jacob_spencer_73079147d63/why-every-business-needs-a-qr-code-generator-in-2024-76m)
+- [Mastering Selenium C# with NUnit: In-Depth Guide to Page Object Model &lpar;POM&rpar; and Data Object Model &lpar;DOM&rpar;](https://dev.to/jignect_technologies/mastering-selenium-c-with-nunit-in-depth-guide-to-page-object-model-pom-and-data-object-model-2b12)
+- [Multi-Armed Bandits: A Practical Guide to Adaptive Testing](https://dev.to/pzapolskii/multi-armed-bandits-a-practical-guide-to-adaptive-testing-1n7g)
 <!-- BLOG-POST-LIST:END -->
 
