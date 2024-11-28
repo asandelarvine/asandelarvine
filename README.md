@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do JavaScript developers hate funerals? Because every time they hear &quot;Your function has no body,&quot; they panic and start debugging💀💀](https://dev.to/shafayeat/why-do-javascript-developers-hate-funerals-because-every-time-they-hear-your-function-has-no-3i4h)
-- [Securing Cloud-Based Databases](https://dev.to/iskender83/securing-cloud-based-databases-4hei)
-- [AI-Based Threat Detection for Cloud Networks](https://dev.to/iskender83/ai-based-threat-detection-for-cloud-networks-42ml)
-- [How to test Edge on macOS? &lpar;with Top Methods&rpar;](https://dev.to/sarahthomasdev/how-to-test-edge-on-macos-with-top-methods-42h7)
+- [Radial Gradient Generator](https://dev.to/didof/radial-gradient-generator-6gj)
+- [How to Set Up Your Environment to Start Java Development](https://dev.to/ricardocaselati/how-to-set-up-your-environment-to-start-java-development-2f4c)
+- [Cybersecurity Risks in Cloud-Based IoT Networks](https://dev.to/iskender83/cybersecurity-risks-in-cloud-based-iot-networks-5gnl)
+- [Best Debugging Tools in Android &lpar;Updated for 2025&rpar;](https://dev.to/sarahthomasdev/best-debugging-tools-in-android-updated-for-2025-94b)
 <!-- BLOG-POST-LIST:END -->
 
