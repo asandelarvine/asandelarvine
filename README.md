@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [URL Shortener in Go](https://dev.to/jordan_t/url-shortener-in-go-3d8l)
-- [New Tab Page Plugin vs Browser&#39;s Home Tab Page](https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf)
-- [Using OpenTelemetry with gRPC in Node.js and Express Hybrid Applications](https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe)
-- [Testing the new reshare feature with Quickie Posts! Obviously, I&#39;m being a little bit selfish by reposting myself, but oh well. I&#39;ll find someone else to repost next. 🤭](https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j)
+- [[Boost]](https://dev.to/leone/-ed8)
+- [Do WordPress Plugins Contain Viruses?](https://dev.to/cozy_wordpress/do-wordpress-plugins-contain-viruses-1i6d)
+- [Top API Testing Tools for Mac: Best Picks for 2025](https://dev.to/philip_zhang_854092d88473/top-api-testing-tools-for-mac-best-picks-for-2025-1akn)
+- [Building a 6-Digit Passcode Input in Plain JavaScript](https://dev.to/dailysandbox/building-a-6-digit-passcode-input-in-plain-javascript-1a45)
 <!-- BLOG-POST-LIST:END -->
 
