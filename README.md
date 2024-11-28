@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Developer Tools to Make Backend Development Easier 👩‍💻 🚀](https://dev.to/encore/10-best-developer-tools-to-make-backend-development-easier-12me)
-- [AI for Cloud-Based Risk Management and Threat Intelligence](https://dev.to/iskender83/ai-for-cloud-based-risk-management-and-threat-intelligence-m7i)
-- [Supercharge Your Spring Boot: TestContainers and Chaos Engineering for Bulletproof Apps](https://dev.to/aaravjoshi/supercharge-your-spring-boot-testcontainers-and-chaos-engineering-for-bulletproof-apps-1l3l)
-- [2290. Minimum Obstacle Removal to Reach Corner](https://dev.to/mdarifulhaque/2290-minimum-obstacle-removal-to-reach-corner-4fg6)
+- [Why do JavaScript developers hate funerals? Because every time they hear &quot;Your function has no body,&quot; they panic and start debugging💀💀](https://dev.to/shafayeat/why-do-javascript-developers-hate-funerals-because-every-time-they-hear-your-function-has-no-3i4h)
+- [Securing Cloud-Based Databases](https://dev.to/iskender83/securing-cloud-based-databases-4hei)
+- [AI-Based Threat Detection for Cloud Networks](https://dev.to/iskender83/ai-based-threat-detection-for-cloud-networks-42ml)
+- [How to test Edge on macOS? &lpar;with Top Methods&rpar;](https://dev.to/sarahthomasdev/how-to-test-edge-on-macos-with-top-methods-42h7)
 <!-- BLOG-POST-LIST:END -->
 
