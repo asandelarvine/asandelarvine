@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazy Loading in React Native: Beyond the Basics](https://dev.to/naly_moslih/lazy-loading-in-react-native-beyond-the-basics-25lo)
-- [🚀 Creating a Feature-Rich Redux Store with Redux Toolkit and TypeScript](https://dev.to/blamsa0mine/creating-a-feature-rich-redux-store-with-redux-toolkit-and-typescript-1h06)
-- [Optimizing AWS Lambda Performance with Node.js: Minimizing Cold Start Latency](https://dev.to/jajera/optimizing-aws-lambda-performance-with-nodejs-minimizing-cold-start-latency-4i6o)
-- [Can Node.js Really Handle Millions of Users? The Ultimate Guide to Massive Scale Applications](https://dev.to/chintanonweb/can-nodejs-really-handle-millions-of-users-the-ultimate-guide-to-massive-scale-applications-3m34)
+- [I am purposefully super nice to AI because I imagine they are trained on data where nice people get better help. Doing this, though, has an existential uneasiness to it.](https://dev.to/ben/i-am-purposefully-super-nice-to-ai-because-i-imagine-they-are-trained-on-data-where-nice-people-get-2ak3)
+- [Boost Your Productivity with VS Code and .vscode for Dev.to Markdown](https://dev.to/jajera/boost-your-productivity-with-vs-code-and-vscode-for-devto-markdown-1ehe)
+- [How to create userform with mysql database using chatgpt](https://dev.to/kashmari_apples_6d11e66ab/how-to-create-userform-with-mysql-database-using-chatgpt-119k)
+- [TrailBase: Fast &amp; Open FireBase alternative](https://dev.to/trailbase/trailbase-fast-open-firebase-alternative-eg0)
 <!-- BLOG-POST-LIST:END -->
 
