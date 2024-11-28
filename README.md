@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How My Dog Became My Hero: Lessons in Love, Laughter, and Life](https://dev.to/jessica_amoura_9c724083cf/how-my-dog-became-my-hero-lessons-in-love-laughter-and-life-1kfa)
-- [Burnout, Imposter Syndrome &amp; More: What Junior Devs Really Experience 🕵️‍♀️](https://dev.to/thesohailjafri/burnout-imposter-syndrome-more-what-junior-devs-really-experience-6oe)
-- [Shanks Tonelli algorithm](https://dev.to/junissen9/shanks-tonelli-algorithm-1k9j)
-- [Project Liberty x Linea, Gnosis Pushes Native Rollups, Chain Abstraction by Cointelegraph, Forshtat’s AA Vision](https://dev.to/alexandradev/project-liberty-x-linea-gnosis-pushes-native-rollups-chain-abstraction-by-cointelegraph-3k7p)
+- [React from hero to zero](https://dev.to/nikdyankov/react-from-hero-to-zero-1bme)
+- [Understanding Laravel Cashier&#39;s Core Traits: A Deep Dive](https://dev.to/bhaidar/understanding-laravel-cashiers-core-traits-a-deep-dive-5693)
+- [My first JavaScript package &lpar;with recursion for the win&rpar;](https://dev.to/suzusuzu-haruharu/my-first-javascript-package-with-recursion-for-the-win-1774)
+- [How to Switch Your Rails Application Database from PostgreSQL to SQLite](https://dev.to/alexandrecalaca/how-to-switch-your-rails-application-database-from-postgresql-to-sqlite-59ip)
 <!-- BLOG-POST-LIST:END -->
 
