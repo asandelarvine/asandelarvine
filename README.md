@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stimulus Features You &lpar;Didn&#39;t&rpar; Know](https://dev.to/railsdesigner/stimulus-features-you-didnt-know-4anc)
-- [Self-Aligning Satellite Dish in Rust: Servo](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-servo-5b3o)
-- [Maximize Your FastAPI Efficiency: Blazingly Fast Implementation of Caching and Locking with py-cachify](https://dev.to/galtozzy/maximize-your-fastapi-efficiency-blazingly-fast-implementation-of-caching-and-locking-with-4pgj)
-- [Learn React - a guide for busy learners ⚡️🔥🚀](https://dev.to/nikdyankov/learn-react-a-guide-for-busy-learners-12f6)
+- [5 Books to Transform Your Habits and Your Life](https://dev.to/vopehop137/5-books-to-transform-your-habits-and-your-life-70m)
+- [The Power of Manifestation: Lessons from Five Transformative Books](https://dev.to/vopehop137/the-power-of-manifestation-lessons-from-five-transformative-books-1b6p)
+- [Developing Educational Apps for Early Learners: Best Practices for Software Developers](https://dev.to/luke_leech_e6bebf0dcc50d6/developing-educational-apps-for-early-learners-best-practices-for-software-developers-3ep8)
+- [Design Systems, Design Tokens and the eternal battle between efficiency and flexibility](https://dev.to/silversonicaxel/design-systems-design-tokens-and-the-eternal-battle-between-efficiency-and-flexibility-9ch)
 <!-- BLOG-POST-LIST:END -->
 
