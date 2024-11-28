@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How TeamStation AI Evaluates, Validates, and Vets Top Python Developers](https://dev.to/teamstation/how-teamstation-ai-evaluates-validates-and-vets-top-python-developers-4nf)
-- [Built an AI tool to help my team tweet smart – goodbye manual posting, hello viral hits!🫡🚀](https://dev.to/composiodev/built-an-ai-tool-to-help-my-team-tweet-smart-goodbye-manual-posting-hello-viral-hits-5fap)
-- [Buying nothing, or how digital art is disappearing](https://dev.to/ispmanager/buying-nothing-or-how-digital-art-is-disappearing-b0b)
-- [Advanced OAuth2: Refresh Tokens and Token Expiration Strategies](https://dev.to/igventurelli/advanced-oauth2-refresh-tokens-and-token-expiration-strategies-448n)
+- [The Impact of Modern Technology on Our Lives](https://dev.to/jhonbuller/the-impact-of-modern-technology-on-our-lives-196m)
+- [APIs: The Universal Language of the Software World](https://dev.to/hamada147/apis-the-universal-language-of-the-software-world-3ol1)
+- [Aurora Limitless - Collocation &lpar;and porting PgBench&rpar;](https://dev.to/aws-heroes/aurora-limitless-collocation-and-porting-pgbench-4jop)
+- [การคิดเชิงระบบ &lpar;Systematic Thinking&rpar; สำหรับ Developer](https://dev.to/pskclub/kaarkhidechingrabb-systematic-thinking-samhrab-developer-37og)
 <!-- BLOG-POST-LIST:END -->
 
