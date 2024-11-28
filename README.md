@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Django Regular Expressions](https://dev.to/michael__/understanding-django-regular-expressions-5d6o)
-- [Behind the Scenes of Gladiators Battle: Building a Browser-Based Gladiator RPG with React and Firebase](https://dev.to/gladiatorsbattle/behind-the-scenes-of-gladiators-battle-building-a-browser-based-gladiator-rpg-with-react-and-49h7)
-- [Python C/C++ binding](https://dev.to/patfinder/python-cc-binding-59l6)
-- [Set Default Values in Laravel with mergeIfMissing: Real-Life Examples](https://dev.to/homezonic/set-default-values-in-laravel-with-mergeifmissing-real-life-examples-54ma)
+- [Day 1064 : Thanksgiving](https://dev.to/dwane/day-1064-thanksgiving-14gi)
+- [[BD] História 4: Lory e o Uso de Cache com Go](https://dev.to/flaviolzsantos/bd-historia-4-lory-e-o-uso-de-cache-com-go-fa6)
+- [🖼️ Build an Image Converter WebApp Using Python and Streamlit](https://dev.to/lawaniej/build-an-image-converter-webapp-using-python-and-streamlit-4f2e)
+- [História 3: Lory e a Desnormalização no Sistema de E-commerce O Crescimento do Sistema](https://dev.to/flaviolzsantos/historia-3-lory-e-a-desnormalizacao-no-sistema-de-e-commerceo-crescimento-do-sistema-3o09)
 <!-- BLOG-POST-LIST:END -->
 
