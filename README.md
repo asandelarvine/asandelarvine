@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Modern Technology on Our Lives](https://dev.to/jhonbuller/the-impact-of-modern-technology-on-our-lives-196m)
-- [APIs: The Universal Language of the Software World](https://dev.to/hamada147/apis-the-universal-language-of-the-software-world-3ol1)
-- [Aurora Limitless - Collocation &lpar;and porting PgBench&rpar;](https://dev.to/aws-heroes/aurora-limitless-collocation-and-porting-pgbench-4jop)
-- [การคิดเชิงระบบ &lpar;Systematic Thinking&rpar; สำหรับ Developer](https://dev.to/pskclub/kaarkhidechingrabb-systematic-thinking-samhrab-developer-37og)
+- [Navigating the Cloud: A Deep Dive into the AWS Well-Architected Framework](https://dev.to/borhanitrash/navigating-the-cloud-a-deep-dive-into-the-aws-well-architected-framework-3f7f)
+- [Create an Impressive Portfolio For a Software Developer or Engineer](https://dev.to/jtrevdev/create-an-impressive-portfolio-for-a-software-developer-or-engineer-2oba)
+- [10 Game-Changing CSS Practices That Will Level Up Your Code](https://dev.to/mo-dev/10-game-changing-css-practices-that-will-level-up-your-code-h6)
+- [Day 12 - Looping Excercises](https://dev.to/lakshmi_prithanadesan_32/day-12-looping-excercises-11d2)
 <!-- BLOG-POST-LIST:END -->
 
