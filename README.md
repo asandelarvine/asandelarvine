@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-1db2)
-- [How to Improve Mobile Game Performance and User Experience](https://dev.to/jennife05918349/how-to-improve-mobile-game-performance-and-user-experience-3405)
-- [Origin of Dot Net](https://dev.to/shivansh_sri9/origin-of-dot-net-a6k)
-- [Basic Cascading Form React Native](https://dev.to/raguram90/basic-cascading-form-react-native-20ao)
+- [10 Best Developer Tools to Make Backend Development Easier 👩‍💻 🚀](https://dev.to/encore/10-best-developer-tools-to-make-backend-development-easier-12me)
+- [AI for Cloud-Based Risk Management and Threat Intelligence](https://dev.to/iskender83/ai-for-cloud-based-risk-management-and-threat-intelligence-m7i)
+- [Supercharge Your Spring Boot: TestContainers and Chaos Engineering for Bulletproof Apps](https://dev.to/aaravjoshi/supercharge-your-spring-boot-testcontainers-and-chaos-engineering-for-bulletproof-apps-1l3l)
+- [2290. Minimum Obstacle Removal to Reach Corner](https://dev.to/mdarifulhaque/2290-minimum-obstacle-removal-to-reach-corner-4fg6)
 <!-- BLOG-POST-LIST:END -->
 
