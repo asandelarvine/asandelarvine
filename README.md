@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I am purposefully super nice to AI because I imagine they are trained on data where nice people get better help. Doing this, though, has an existential uneasiness to it.](https://dev.to/ben/i-am-purposefully-super-nice-to-ai-because-i-imagine-they-are-trained-on-data-where-nice-people-get-2ak3)
-- [Boost Your Productivity with VS Code and .vscode for Dev.to Markdown](https://dev.to/jajera/boost-your-productivity-with-vs-code-and-vscode-for-devto-markdown-1ehe)
-- [How to create userform with mysql database using chatgpt](https://dev.to/kashmari_apples_6d11e66ab/how-to-create-userform-with-mysql-database-using-chatgpt-119k)
-- [TrailBase: Fast &amp; Open FireBase alternative](https://dev.to/trailbase/trailbase-fast-open-firebase-alternative-eg0)
+- [How TeamStation AI Evaluates, Validates, and Vets Top Python Developers](https://dev.to/teamstation/how-teamstation-ai-evaluates-validates-and-vets-top-python-developers-4nf)
+- [Built an AI tool to help my team tweet smart – goodbye manual posting, hello viral hits!🫡🚀](https://dev.to/composiodev/built-an-ai-tool-to-help-my-team-tweet-smart-goodbye-manual-posting-hello-viral-hits-5fap)
+- [Buying nothing, or how digital art is disappearing](https://dev.to/ispmanager/buying-nothing-or-how-digital-art-is-disappearing-b0b)
+- [Advanced OAuth2: Refresh Tokens and Token Expiration Strategies](https://dev.to/igventurelli/advanced-oauth2-refresh-tokens-and-token-expiration-strategies-448n)
 <!-- BLOG-POST-LIST:END -->
 
