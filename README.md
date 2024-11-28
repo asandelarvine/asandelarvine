@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Radial Gradient Generator](https://dev.to/didof/radial-gradient-generator-6gj)
-- [How to Set Up Your Environment to Start Java Development](https://dev.to/ricardocaselati/how-to-set-up-your-environment-to-start-java-development-2f4c)
-- [Cybersecurity Risks in Cloud-Based IoT Networks](https://dev.to/iskender83/cybersecurity-risks-in-cloud-based-iot-networks-5gnl)
-- [Best Debugging Tools in Android &lpar;Updated for 2025&rpar;](https://dev.to/sarahthomasdev/best-debugging-tools-in-android-updated-for-2025-94b)
+- [Lazy Loading in React Native: Beyond the Basics](https://dev.to/naly_moslih/lazy-loading-in-react-native-beyond-the-basics-25lo)
+- [🚀 Creating a Feature-Rich Redux Store with Redux Toolkit and TypeScript](https://dev.to/blamsa0mine/creating-a-feature-rich-redux-store-with-redux-toolkit-and-typescript-1h06)
+- [Optimizing AWS Lambda Performance with Node.js: Minimizing Cold Start Latency](https://dev.to/jajera/optimizing-aws-lambda-performance-with-nodejs-minimizing-cold-start-latency-4i6o)
+- [Can Node.js Really Handle Millions of Users? The Ultimate Guide to Massive Scale Applications](https://dev.to/chintanonweb/can-nodejs-really-handle-millions-of-users-the-ultimate-guide-to-massive-scale-applications-3m34)
 <!-- BLOG-POST-LIST:END -->
 
