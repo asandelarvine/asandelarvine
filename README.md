@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Intelligence Sharing in Multi-Cloud Environments](https://dev.to/iskender83/threat-intelligence-sharing-in-multi-cloud-environments-54ob)
-- [How to Set Up a Remote Desktop from Mac to a Windows 11 Computer](https://dev.to/davidjonson/how-to-set-up-a-remote-desktop-from-mac-to-a-windows-11-computer-hoh)
-- [AI and Blockchain Integration for Cloud Security](https://dev.to/iskender83/ai-and-blockchain-integration-for-cloud-security-359e)
-- [Decoding Java’s Unsafe Class: A Developer’s Secret Scroll](https://dev.to/wittedtech-by-harshit/decoding-javas-unsafe-class-a-developers-secret-scroll-hm)
+- [[Boost]](https://dev.to/stevendev0822/-1fmn)
+- [Software Acceptance Testing: Ensuring Quality and User Satisfaction](https://dev.to/keploy/software-acceptance-testing-ensuring-quality-and-user-satisfaction-35gk)
+- [Wrizzle AI](https://dev.to/wrizzle/wrizzle-ai-2336)
+- [Privacy-Preserving Cloud Storage Solutions](https://dev.to/iskender83/privacy-preserving-cloud-storage-solutions-5dlo)
 <!-- BLOG-POST-LIST:END -->
 
