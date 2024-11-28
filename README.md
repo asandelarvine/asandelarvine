@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Sepolia ERC-20 Tokens and DEX&#39;s](https://dev.to/blx/looking-for-sepolia-erc-20-tokens-and-dexs-27je)
-- [How Digital Onboarding KYC is Transforming Identity Verification](https://dev.to/faceplugin/how-digital-onboarding-kyc-is-transforming-identity-verification-1ioa)
-- [How to Use Postman Interceptor in Chrome | The Best Alternative](https://dev.to/philip_zhang_854092d88473/how-to-use-postman-interceptor-in-chrome-the-best-alternative-2170)
-- [How We Started Continuous OSS License Monitoring with License Finder](https://dev.to/masutaka/how-we-started-continuous-oss-license-monitoring-with-license-finder-a9i)
+- [URL Shortener in Go](https://dev.to/jordan_t/url-shortener-in-go-3d8l)
+- [New Tab Page Plugin vs Browser&#39;s Home Tab Page](https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf)
+- [Using OpenTelemetry with gRPC in Node.js and Express Hybrid Applications](https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe)
+- [Testing the new reshare feature with Quickie Posts! Obviously, I&#39;m being a little bit selfish by reposting myself, but oh well. I&#39;ll find someone else to repost next. 🤭](https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j)
 <!-- BLOG-POST-LIST:END -->
 
