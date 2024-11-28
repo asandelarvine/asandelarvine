@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Cloud: A Deep Dive into the AWS Well-Architected Framework](https://dev.to/borhanitrash/navigating-the-cloud-a-deep-dive-into-the-aws-well-architected-framework-3f7f)
-- [Create an Impressive Portfolio For a Software Developer or Engineer](https://dev.to/jtrevdev/create-an-impressive-portfolio-for-a-software-developer-or-engineer-2oba)
-- [10 Game-Changing CSS Practices That Will Level Up Your Code](https://dev.to/mo-dev/10-game-changing-css-practices-that-will-level-up-your-code-h6)
-- [Day 12 - Looping Excercises](https://dev.to/lakshmi_prithanadesan_32/day-12-looping-excercises-11d2)
+- [How My Dog Became My Hero: Lessons in Love, Laughter, and Life](https://dev.to/jessica_amoura_9c724083cf/how-my-dog-became-my-hero-lessons-in-love-laughter-and-life-1kfa)
+- [Burnout, Imposter Syndrome &amp; More: What Junior Devs Really Experience 🕵️‍♀️](https://dev.to/thesohailjafri/burnout-imposter-syndrome-more-what-junior-devs-really-experience-6oe)
+- [Shanks Tonelli algorithm](https://dev.to/junissen9/shanks-tonelli-algorithm-1k9j)
+- [Project Liberty x Linea, Gnosis Pushes Native Rollups, Chain Abstraction by Cointelegraph, Forshtat’s AA Vision](https://dev.to/alexandradev/project-liberty-x-linea-gnosis-pushes-native-rollups-chain-abstraction-by-cointelegraph-3k7p)
 <!-- BLOG-POST-LIST:END -->
 
