@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1064 : Thanksgiving](https://dev.to/dwane/day-1064-thanksgiving-14gi)
-- [[BD] História 4: Lory e o Uso de Cache com Go](https://dev.to/flaviolzsantos/bd-historia-4-lory-e-o-uso-de-cache-com-go-fa6)
-- [🖼️ Build an Image Converter WebApp Using Python and Streamlit](https://dev.to/lawaniej/build-an-image-converter-webapp-using-python-and-streamlit-4f2e)
-- [História 3: Lory e a Desnormalização no Sistema de E-commerce O Crescimento do Sistema](https://dev.to/flaviolzsantos/historia-3-lory-e-a-desnormalizacao-no-sistema-de-e-commerceo-crescimento-do-sistema-3o09)
+- [Looking for Sepolia ERC-20 Tokens and DEX&#39;s](https://dev.to/blx/looking-for-sepolia-erc-20-tokens-and-dexs-27je)
+- [How Digital Onboarding KYC is Transforming Identity Verification](https://dev.to/faceplugin/how-digital-onboarding-kyc-is-transforming-identity-verification-1ioa)
+- [How to Use Postman Interceptor in Chrome | The Best Alternative](https://dev.to/philip_zhang_854092d88473/how-to-use-postman-interceptor-in-chrome-the-best-alternative-2170)
+- [How We Started Continuous OSS License Monitoring with License Finder](https://dev.to/masutaka/how-we-started-continuous-oss-license-monitoring-with-license-finder-a9i)
 <!-- BLOG-POST-LIST:END -->
 
