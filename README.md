@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying asynchronous code with Top-Level Await in Javascript](https://dev.to/devmercy/simplifying-asynchronous-code-with-top-level-await-in-javascript-5h51)
-- [3 Best Ways – Fix Account Unknown S-1-5-21 issue on Windows 11?](https://dev.to/winsides/3-best-ways-fix-account-unknown-s-1-5-21-issue-on-windows-11-2f5i)
-- [AI Use Cases in Auditing: Revolutionizing Audit Practices](https://dev.to/jhonsnow21/ai-use-cases-in-auditing-revolutionizing-audit-practices-cga)
-- [Hello Everyone!](https://dev.to/abdul_lah/hello-everyone-nnf)
+- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-1db2)
+- [How to Improve Mobile Game Performance and User Experience](https://dev.to/jennife05918349/how-to-improve-mobile-game-performance-and-user-experience-3405)
+- [Origin of Dot Net](https://dev.to/shivansh_sri9/origin-of-dot-net-a6k)
+- [Basic Cascading Form React Native](https://dev.to/raguram90/basic-cascading-form-react-native-20ao)
 <!-- BLOG-POST-LIST:END -->
 
