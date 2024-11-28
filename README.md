@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React from hero to zero](https://dev.to/nikdyankov/react-from-hero-to-zero-1bme)
-- [Understanding Laravel Cashier&#39;s Core Traits: A Deep Dive](https://dev.to/bhaidar/understanding-laravel-cashiers-core-traits-a-deep-dive-5693)
-- [My first JavaScript package &lpar;with recursion for the win&rpar;](https://dev.to/suzusuzu-haruharu/my-first-javascript-package-with-recursion-for-the-win-1774)
-- [How to Switch Your Rails Application Database from PostgreSQL to SQLite](https://dev.to/alexandrecalaca/how-to-switch-your-rails-application-database-from-postgresql-to-sqlite-59ip)
+- [Creating a Mini Blog API with Lithe and Eloquent](https://dev.to/lithephp/creating-a-mini-blog-api-with-lithe-and-eloquent-15a8)
+- [Criando uma API de Mini Blog com Lithe e Eloquent](https://dev.to/lithephp/criando-uma-api-de-mini-blog-com-lithe-e-eloquent-25g9)
+- [My First Publish to crates.io &lpar;and cross compilation&rpar;](https://dev.to/theoforger/my-first-publish-to-cratesio-and-cross-compilation-3a6o)
+- [Game strategies tree](https://dev.to/junissen9/game-strategies-tree-4pa5)
 <!-- BLOG-POST-LIST:END -->
 
