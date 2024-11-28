@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/leone/-ed8)
-- [Do WordPress Plugins Contain Viruses?](https://dev.to/cozy_wordpress/do-wordpress-plugins-contain-viruses-1i6d)
-- [Top API Testing Tools for Mac: Best Picks for 2025](https://dev.to/philip_zhang_854092d88473/top-api-testing-tools-for-mac-best-picks-for-2025-1akn)
-- [Building a 6-Digit Passcode Input in Plain JavaScript](https://dev.to/dailysandbox/building-a-6-digit-passcode-input-in-plain-javascript-1a45)
+- [Threat Intelligence Sharing in Multi-Cloud Environments](https://dev.to/iskender83/threat-intelligence-sharing-in-multi-cloud-environments-54ob)
+- [How to Set Up a Remote Desktop from Mac to a Windows 11 Computer](https://dev.to/davidjonson/how-to-set-up-a-remote-desktop-from-mac-to-a-windows-11-computer-hoh)
+- [AI and Blockchain Integration for Cloud Security](https://dev.to/iskender83/ai-and-blockchain-integration-for-cloud-security-359e)
+- [Decoding Java’s Unsafe Class: A Developer’s Secret Scroll](https://dev.to/wittedtech-by-harshit/decoding-javas-unsafe-class-a-developers-secret-scroll-hm)
 <!-- BLOG-POST-LIST:END -->
 
