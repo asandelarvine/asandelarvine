@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Mini Blog API with Lithe and Eloquent](https://dev.to/lithephp/creating-a-mini-blog-api-with-lithe-and-eloquent-15a8)
-- [Criando uma API de Mini Blog com Lithe e Eloquent](https://dev.to/lithephp/criando-uma-api-de-mini-blog-com-lithe-e-eloquent-25g9)
-- [My First Publish to crates.io &lpar;and cross compilation&rpar;](https://dev.to/theoforger/my-first-publish-to-cratesio-and-cross-compilation-3a6o)
-- [Game strategies tree](https://dev.to/junissen9/game-strategies-tree-4pa5)
+- [Stimulus Features You &lpar;Didn&#39;t&rpar; Know](https://dev.to/railsdesigner/stimulus-features-you-didnt-know-4anc)
+- [Self-Aligning Satellite Dish in Rust: Servo](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-servo-5b3o)
+- [Maximize Your FastAPI Efficiency: Blazingly Fast Implementation of Caching and Locking with py-cachify](https://dev.to/galtozzy/maximize-your-fastapi-efficiency-blazingly-fast-implementation-of-caching-and-locking-with-4pgj)
+- [Learn React - a guide for busy learners ⚡️🔥🚀](https://dev.to/nikdyankov/learn-react-a-guide-for-busy-learners-12f6)
 <!-- BLOG-POST-LIST:END -->
 
