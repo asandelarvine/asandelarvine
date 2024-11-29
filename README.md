@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Beyond Data Ingestion: Advanced Strategies for Optimizing API Data Pipelines](https://dev.to/sanket00123/beyond-data-ingestion-advanced-strategies-for-optimizing-api-data-pipelines-3613)
-- [Execa vs using child_process to execute CLI commands programmatically.](https://dev.to/thinkthroo/execa-vs-using-childprocess-to-execute-cli-commands-programmatically-1mjm)
-- [Conquer the API Rainbow Road Level with these Dev “Cheat Codes”](https://dev.to/getambassador2024/conquer-the-api-rainbow-road-level-with-these-dev-cheat-codes-42a1)
-- [How API Gateways Simplify the Transition from Monolith to Microservices](https://dev.to/getambassador2024/how-api-gateways-simplify-the-transition-from-monolith-to-microservices-8f1)
+- [Powerful CSS Features You Might Not Know About](https://dev.to/timoransky/powerful-css-features-you-might-not-know-about-536c)
+- [Hai Robotics Achieved High Availability &amp; Easy Operations in a Hybrid Cloud Architecture with JuiceFS](https://dev.to/daswu/hai-robotics-achieved-high-availability-easy-operations-in-a-hybrid-cloud-architecture-with-29l3)
+- [5 MOST Important JS Concepts To Master JavaScript](https://dev.to/danish/5-most-important-js-concepts-to-master-javascript-4pn1)
+- [10 Advanced OG Image Techniques I Learned Building gleam.so 🔍](https://dev.to/gleamso/10-advanced-og-image-techniques-i-learned-building-gleamso-3517)
 <!-- BLOG-POST-LIST:END -->
 
