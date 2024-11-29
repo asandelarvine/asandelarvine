@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We’ve launched the global version of the ROUTE06 Tech Blog on dev.to! 🧑‍💻 I&#39;ve been writing articles in Japanese on https://tech.route06.co.jp/, but I&#39;ve decided to start posting more in English as well. We look forward to interacting with you!](https://dev.to/shige/weve-launched-the-global-version-of-the-route06-tech-blog-on-devto-ive-been-writing-373i)
-- [AI-Powered Features in Upcoming CMS for WooCommerce](https://dev.to/zafaryaqoobask/ai-powered-features-in-upcoming-cms-for-woocommerce-d96)
-- [10 Ways to Effectively Manage Spring Cloud Dependencies](https://dev.to/brilworks/10-ways-to-effectively-manage-spring-cloud-dependencies-4kj)
-- [Mastering Advanced Error Handling in Express.js for Robust Node.js Applications](https://dev.to/rigalpatel001/mastering-advanced-error-handling-in-expressjs-for-robust-nodejs-applications-3534)
+- [10 Best Black Friday &amp; Cyber Monday Deals for Email SMTP Services](https://dev.to/otismilburnn/10-best-black-friday-cyber-monday-deals-for-email-smtp-services-30kg)
+- [How to Add Google Ads to WordPress [Beginners Guide]](https://dev.to/cozy_wordpress/how-to-add-google-ads-to-wordpress-beginners-guide-4mah)
+- [Cypress Automation : Increase Reusability with Custom Commands](https://dev.to/jignect_technologies/cypress-automation-increase-reusability-with-custom-commands-582d)
+- [Cloud Monitoring and Logging: Key Tools and Practices for Ensuring Cloud Reliability](https://dev.to/blessedofofon2/cloud-monitoring-and-logging-key-tools-and-practices-for-ensuring-cloud-reliability-1c)
 <!-- BLOG-POST-LIST:END -->
 
