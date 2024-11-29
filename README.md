@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Kubernetes using Kubeadm utility](https://dev.to/dirudeen/installing-kubernetes-using-kubeadm-utility-5abn)
-- [Basic functions in GPTLocalhost &lpar;Word Add-in&rpar;](https://dev.to/gptlocalhost/basic-functions-in-gptlocalhost-word-add-in-3c6n)
-- [How IT Companies Hire Talent Globally with a PEO](https://dev.to/employerofrecord/how-it-companies-hire-talent-globally-with-a-peo-23jj)
-- [Network Policy in Kubernetes: A Comprehensive Guide for DevOps](https://dev.to/i_am_vesh/network-policy-in-kubernetes-a-comprehensive-guide-for-devops-3po8)
+- [How To Use ChangeNotifier](https://dev.to/andrious/how-to-use-changenotifier-2enk)
+- [Request of help firebase](https://dev.to/the_kinggamer_a95a04de52/request-of-help-firebase-221a)
+- [Démystifier le dossier .git : Le cœur du suivi de version de Git](https://dev.to/brandoniscoding-dev/demystifier-le-dossier-git-le-coeur-du-suivi-de-version-de-git-i5j)
+- [&quot;Harnessing the Power of AI and Humans in Testing: Why Collaboration Wins&quot;](https://dev.to/harish_rachakonda_bb24a73/harnessing-the-power-of-ai-and-humans-in-testing-why-collaboration-wins-47ln)
 <!-- BLOG-POST-LIST:END -->
 
