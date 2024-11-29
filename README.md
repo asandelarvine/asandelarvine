@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Essential Tools Every Modern Web Developer Should Know](https://dev.to/mo-dev/8-essential-tools-every-modern-web-developer-should-know-2f2e)
-- [End-to-End Security for Cloud-Native Platforms](https://dev.to/iskender83/end-to-end-security-for-cloud-native-platforms-olm)
-- [S3 native state locking in Terraform](https://dev.to/globart/s3-native-state-locking-in-terraform-518i)
-- [Advanced Persistent Threats &lpar;APT&rpar;](https://dev.to/iskender83/advanced-persistent-threats-apt-4o76)
+- [The End of the Beginning: My Open Source Journey so far](https://dev.to/bregwin/the-end-of-the-beginning-my-open-source-journey-so-far-3oid)
+- [Nova&#39;s Sneaky Redirect: A Quick Fix](https://dev.to/helfull/novas-sneaky-redirect-a-quick-fix-e6k)
+- [Weapons-grade Metaprotocols on METASHREW](https://dev.to/kungfuflex/weapons-grade-metaprotocols-on-metashrew-262k)
+- [Can a Solo Developer Build a SaaS App?](https://dev.to/thealgorithm/can-a-solo-developer-build-a-saas-app-28gm)
 <!-- BLOG-POST-LIST:END -->
 
