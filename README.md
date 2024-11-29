@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Things to Keep in Mind While Migrating a WooCommerce Website](https://dev.to/shabbir_mw_03f56129cd25/things-to-keep-in-mind-while-migrating-a-woocommerce-website-48af)
-- [Git hooks for 100x devs.&lpar;not for faint heart&rpar;](https://dev.to/megatronprime/git-hooks-for-100x-devsnot-for-faint-heart-5d9b)
-- [The Final Stretch of My Open Source Journey: Part 2](https://dev.to/majd_almnayer_2101/the-final-stretch-of-my-open-source-journey-part-2-d0d)
-- [The Single Quote Curse: When AI Mistook an MDX Front Matter Issue for a YAML Bug](https://dev.to/roboword/the-single-quote-curse-when-ai-mistook-an-mdx-front-matter-issue-for-a-yaml-bug-20e3)
+- [Installing Kubernetes using Kubeadm utility](https://dev.to/dirudeen/installing-kubernetes-using-kubeadm-utility-5abn)
+- [Basic functions in GPTLocalhost &lpar;Word Add-in&rpar;](https://dev.to/gptlocalhost/basic-functions-in-gptlocalhost-word-add-in-3c6n)
+- [How IT Companies Hire Talent Globally with a PEO](https://dev.to/employerofrecord/how-it-companies-hire-talent-globally-with-a-peo-23jj)
+- [Network Policy in Kubernetes: A Comprehensive Guide for DevOps](https://dev.to/i_am_vesh/network-policy-in-kubernetes-a-comprehensive-guide-for-devops-3po8)
 <!-- BLOG-POST-LIST:END -->
 
