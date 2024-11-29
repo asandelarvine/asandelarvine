@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seaborn Plot Selection Made Easy: How to Visualize Your Data Effectively](https://dev.to/arum_puripratamawati_ef5/seaborn-plot-selection-made-easy-how-to-visualize-your-data-effectively-kan)
-- [Progress on Automatic Feedback Loop](https://dev.to/kannav02/progress-on-automatic-feedback-loop-1e43)
-- [I have an error when installing and using the react-native-bluetooth-serial-next library on an ios device.](https://dev.to/hoang_duc_nam/i-installed-and-used-the-react-native-bluetooth-serial-next-library-on-an-ios-device-cnp)
-- [Building your Portfolio in 2025](https://dev.to/zemerik/building-your-portfolio-in-2025-218e)
+- [My Journey Contributing to Node.js Core: The Final Chapter &lpar;3/3&rpar;](https://dev.to/harshil_patel/my-journey-contributing-to-nodejs-core-the-final-chapter-33-14)
+- [Regex in VSCode: My favorite hacks](https://dev.to/allmightenglishtech/regex-in-vscode-my-favorite-hacks-2ea6)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 5](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-5-3eb2)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 4](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-4-14nh)
 <!-- BLOG-POST-LIST:END -->
 
