@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding PooCoin and Its Key Features](https://dev.to/stablecoinstrategist/understanding-poocoin-and-its-key-features-2p3j)
-- [Blockchain for Cloud-Based Supply Chain Traceability](https://dev.to/iskender83/blockchain-for-cloud-based-supply-chain-traceability-4239)
-- [Documentation Release Notes - November 2024](https://dev.to/pubnub/documentation-release-notes-november-2024-5314)
-- [Latest Trends in mHealth App Development: Transforming Healthcare with Innovation](https://dev.to/evelynwyatt/latest-trends-in-mhealth-app-development-transforming-healthcare-with-innovation-528j)
+- [From Beginner to Pro: Unlock the Power of CSS Inheritance](https://dev.to/chintanonweb/from-beginner-to-pro-unlock-the-power-of-css-inheritance-4id0)
+- [Comprehensive Data Protection in Kubernetes: Strategies for Securing Sensitive Information and Ensuring Resilience](https://dev.to/raza_shaikh_eb0dd7d1ca772/comprehensive-data-protection-in-kubernetes-strategies-for-securing-sensitive-information-and-mm2)
+- [Multi-Tenant Cloud Environments and Security Challenges](https://dev.to/iskender83/multi-tenant-cloud-environments-and-security-challenges-5d19)
+- [Reusable, Extensible and Testable State Logic with Reactive Programming.](https://dev.to/laidav/reusable-extensible-and-testable-state-logic-with-reactive-programming-3b9d)
 <!-- BLOG-POST-LIST:END -->
 
