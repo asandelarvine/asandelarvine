@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KitOps integration with MLflow enables machine learning teams to work more efficiently. KitOps establishes a well-defined framework for workflows, while MLflow focuses on detailed tracking and efficient deployment. Together, they allow data science teams.](https://dev.to/astrodevil/kitops-integration-with-mlflow-enables-machine-learning-teams-to-work-more-efficiently-kitops-b99)
-- [Yet Another Angular Article, Part 3 : configurations and environments](https://dev.to/benjamin_richard_ee22ca92/yet-another-angular-article-part-3-configurations-and-environments-23hp)
-- [9 things that make IT professionals nostalgic](https://dev.to/ispmanager/9-things-that-make-it-professionals-nostalgic-1dmf)
-- [Postman vs. Thunder Client vs. EchoAPI: What are the Differences?](https://dev.to/philip_zhang_854092d88473/postman-vs-thunder-client-vs-echoapi-what-are-the-differences-4009)
+- [Things to Keep in Mind While Migrating a WooCommerce Website](https://dev.to/shabbir_mw_03f56129cd25/things-to-keep-in-mind-while-migrating-a-woocommerce-website-48af)
+- [Git hooks for 100x devs.&lpar;not for faint heart&rpar;](https://dev.to/megatronprime/git-hooks-for-100x-devsnot-for-faint-heart-5d9b)
+- [The Final Stretch of My Open Source Journey: Part 2](https://dev.to/majd_almnayer_2101/the-final-stretch-of-my-open-source-journey-part-2-d0d)
+- [The Single Quote Curse: When AI Mistook an MDX Front Matter Issue for a YAML Bug](https://dev.to/roboword/the-single-quote-curse-when-ai-mistook-an-mdx-front-matter-issue-for-a-yaml-bug-20e3)
 <!-- BLOG-POST-LIST:END -->
 
