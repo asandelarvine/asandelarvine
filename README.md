@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use ChangeNotifier](https://dev.to/andrious/how-to-use-changenotifier-2enk)
-- [Request of help firebase](https://dev.to/the_kinggamer_a95a04de52/request-of-help-firebase-221a)
-- [Démystifier le dossier .git : Le cœur du suivi de version de Git](https://dev.to/brandoniscoding-dev/demystifier-le-dossier-git-le-coeur-du-suivi-de-version-de-git-i5j)
-- [&quot;Harnessing the Power of AI and Humans in Testing: Why Collaboration Wins&quot;](https://dev.to/harish_rachakonda_bb24a73/harnessing-the-power-of-ai-and-humans-in-testing-why-collaboration-wins-47ln)
+- [Finding Harmony in a Busy World &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/finding-harmony-in-a-busy-world-bite-size-article-2b6b)
+- [How Twitter, Instagram feed system made?](https://dev.to/jasperoh/how-twitter-instagram-feed-system-made-2ggb)
+- [🐘 Simplified Guide to Setting Up PostgreSQL on macOS with Docker 🚢](https://dev.to/kpndevroot/simplified-guide-to-setting-up-postgresql-on-macos-with-docker-5egd)
+- [Top 12 DevSecOps Tools for 2025](https://dev.to/yayabobi/top-12-devsecops-tools-for-2025-264b)
 <!-- BLOG-POST-LIST:END -->
 
