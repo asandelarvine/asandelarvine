@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Beginner to Pro: Unlock the Power of CSS Inheritance](https://dev.to/chintanonweb/from-beginner-to-pro-unlock-the-power-of-css-inheritance-4id0)
-- [Comprehensive Data Protection in Kubernetes: Strategies for Securing Sensitive Information and Ensuring Resilience](https://dev.to/raza_shaikh_eb0dd7d1ca772/comprehensive-data-protection-in-kubernetes-strategies-for-securing-sensitive-information-and-mm2)
-- [Multi-Tenant Cloud Environments and Security Challenges](https://dev.to/iskender83/multi-tenant-cloud-environments-and-security-challenges-5d19)
-- [Reusable, Extensible and Testable State Logic with Reactive Programming.](https://dev.to/laidav/reusable-extensible-and-testable-state-logic-with-reactive-programming-3b9d)
+- [Understanding Amazon Bedrock&#39;s New Feature - &quot;Flows&quot;](https://dev.to/aws-builders/understanding-amazon-bedrocks-new-feature-flows-1ohd)
+- [Monitoring Cloud Services for Security Events](https://dev.to/iskender83/monitoring-cloud-services-for-security-events-59k3)
+- [Privacy by Design in Cloud Application Development](https://dev.to/iskender83/privacy-by-design-in-cloud-application-development-kpb)
+- [AI Use Cases in Education: Shaping the Future of Learning](https://dev.to/jhonsnow21/ai-use-cases-in-education-shaping-the-future-of-learning-17db)
 <!-- BLOG-POST-LIST:END -->
 
