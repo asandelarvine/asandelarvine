@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Vpn]build local network](https://dev.to/reene44444/vpnbuild-local-network-12ab)
-- [Why is it Discouraged to Accept `&amp;String`, `&amp;Vec`, or `&amp;Box` as Function Arguments in Rust?](https://dev.to/sharmaprash/why-is-it-discouraged-to-accept-string-vec-or-box-as-function-arguments-in-rust-3g72)
-- [AI Engineer&#39;s Tool Review: Arize](https://dev.to/shubhsk/ai-engineers-tool-review-arize-4f63)
-- [Biometrics and Security: Designing for Trust in Web and Mobile Apps](https://dev.to/uiuxstevemathews/biometrics-and-security-designing-for-trust-in-web-and-mobile-apps-2aaj)
+- [Automating Cloud Resource Management](https://dev.to/iskender83/automating-cloud-resource-management-51cp)
+- [Mastering Packaging and devlopment: Packaging and Running Apps on Gunicorn.](https://dev.to/pracode_2503/mastering-packaging-and-devlopment-packaging-and-running-apps-on-gunicorn-3668)
+- [Cloud Security for Mobile Devices](https://dev.to/iskender83/cloud-security-for-mobile-devices-281o)
+- [Terraform State List Command](https://dev.to/spacelift/terraform-state-list-command-3ncj)
 <!-- BLOG-POST-LIST:END -->
 
