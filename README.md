@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Unauthorized: No token provided&quot;&rpar;](https://dev.to/lord_rahms/unauthorizedno-token-provided-4an4)
 - [The End of the Beginning: My Open Source Journey so far](https://dev.to/bregwin/the-end-of-the-beginning-my-open-source-journey-so-far-3oid)
 - [Nova&#39;s Sneaky Redirect: A Quick Fix](https://dev.to/helfull/novas-sneaky-redirect-a-quick-fix-e6k)
 - [Weapons-grade Metaprotocols on METASHREW](https://dev.to/kungfuflex/weapons-grade-metaprotocols-on-metashrew-262k)
-- [Can a Solo Developer Build a SaaS App?](https://dev.to/thealgorithm/can-a-solo-developer-build-a-saas-app-28gm)
 <!-- BLOG-POST-LIST:END -->
 
