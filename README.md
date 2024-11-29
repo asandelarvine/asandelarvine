@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Aligning Satellite Dish in Rust: Pan Example](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-pan-example-1p0a)
-- [Data Engineering with DLT and REST](https://dev.to/spara_50/data-engineering-with-dlt-and-rest-4hf5)
-- [Building Dynamic and Maintainable Menus in Laravel](https://dev.to/nasrulhazim/building-dynamic-and-maintainable-menus-in-laravel-ba0)
-- [How to Keep Your Ruby Gems Up-to-Date Without the Stress](https://dev.to/michymono77/how-to-keep-your-ruby-gems-up-to-date-without-the-stress-2ikf)
+- [Seaborn Plot Selection Made Easy: How to Visualize Your Data Effectively](https://dev.to/arum_puripratamawati_ef5/seaborn-plot-selection-made-easy-how-to-visualize-your-data-effectively-kan)
+- [Progress on Automatic Feedback Loop](https://dev.to/kannav02/progress-on-automatic-feedback-loop-1e43)
+- [I have an error when installing and using the react-native-bluetooth-serial-next library on an ios device.](https://dev.to/hoang_duc_nam/i-installed-and-used-the-react-native-bluetooth-serial-next-library-on-an-ios-device-cnp)
+- [Building your Portfolio in 2025](https://dev.to/zemerik/building-your-portfolio-in-2025-218e)
 <!-- BLOG-POST-LIST:END -->
 
