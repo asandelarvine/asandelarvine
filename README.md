@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Powerful CSS Features You Might Not Know About](https://dev.to/timoransky/powerful-css-features-you-might-not-know-about-536c)
-- [Hai Robotics Achieved High Availability &amp; Easy Operations in a Hybrid Cloud Architecture with JuiceFS](https://dev.to/daswu/hai-robotics-achieved-high-availability-easy-operations-in-a-hybrid-cloud-architecture-with-29l3)
-- [5 MOST Important JS Concepts To Master JavaScript](https://dev.to/danish/5-most-important-js-concepts-to-master-javascript-4pn1)
-- [10 Advanced OG Image Techniques I Learned Building gleam.so 🔍](https://dev.to/gleamso/10-advanced-og-image-techniques-i-learned-building-gleamso-3517)
+- [[Vpn]build local network](https://dev.to/reene44444/vpnbuild-local-network-12ab)
+- [Why is it Discouraged to Accept `&amp;String`, `&amp;Vec`, or `&amp;Box` as Function Arguments in Rust?](https://dev.to/sharmaprash/why-is-it-discouraged-to-accept-string-vec-or-box-as-function-arguments-in-rust-3g72)
+- [AI Engineer&#39;s Tool Review: Arize](https://dev.to/shubhsk/ai-engineers-tool-review-arize-4f63)
+- [Biometrics and Security: Designing for Trust in Web and Mobile Apps](https://dev.to/uiuxstevemathews/biometrics-and-security-designing-for-trust-in-web-and-mobile-apps-2aaj)
 <!-- BLOG-POST-LIST:END -->
 
