@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Harmony in a Busy World &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/finding-harmony-in-a-busy-world-bite-size-article-2b6b)
-- [How Twitter, Instagram feed system made?](https://dev.to/jasperoh/how-twitter-instagram-feed-system-made-2ggb)
-- [🐘 Simplified Guide to Setting Up PostgreSQL on macOS with Docker 🚢](https://dev.to/kpndevroot/simplified-guide-to-setting-up-postgresql-on-macos-with-docker-5egd)
-- [Top 12 DevSecOps Tools for 2025](https://dev.to/yayabobi/top-12-devsecops-tools-for-2025-264b)
+- [My QA Tech Stack in 2025](https://dev.to/samelawrence/my-qa-tech-stack-in-2025-ee2)
+- [Blockchain-Based Identity Management Systems](https://dev.to/iskender83/blockchain-based-identity-management-systems-gg4)
+- [How a Future-Ready CMS Transforms Content Delivery](https://dev.to/meghaghotkar/how-a-future-ready-cms-transforms-content-delivery-4e8)
+- [What is PHP Fiber? Does PHP Fiber Really Give You Asynchronous Execution?](https://dev.to/devmahfuz/what-is-php-fiber-does-php-fiber-really-give-you-asynchronous-execution-12ia)
 <!-- BLOG-POST-LIST:END -->
 
