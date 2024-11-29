@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My QA Tech Stack in 2025](https://dev.to/samelawrence/my-qa-tech-stack-in-2025-ee2)
-- [Blockchain-Based Identity Management Systems](https://dev.to/iskender83/blockchain-based-identity-management-systems-gg4)
-- [How a Future-Ready CMS Transforms Content Delivery](https://dev.to/meghaghotkar/how-a-future-ready-cms-transforms-content-delivery-4e8)
-- [What is PHP Fiber? Does PHP Fiber Really Give You Asynchronous Execution?](https://dev.to/devmahfuz/what-is-php-fiber-does-php-fiber-really-give-you-asynchronous-execution-12ia)
+- [Exploring the React component lifecycle: A guide to understanding the different phases.](https://dev.to/alamin49/exploring-the-react-component-lifecycle-a-guide-to-understanding-the-different-phases-1g7g)
+- [Umbul Nilo: Keindahan Alam Tersembunyi di Klaten yang Memikat Hati](https://dev.to/zoloku/umbul-nilo-keindahan-alam-tersembunyi-di-klaten-yang-memikat-hati-41af)
+- [Automating Cloud Infrastructure Security Compliance](https://dev.to/iskender83/automating-cloud-infrastructure-security-compliance-kd2)
+- [Daemons on macOS with Rust](https://dev.to/sylvanfranklin/daemons-on-macos-with-rust-188a)
 <!-- BLOG-POST-LIST:END -->
 
