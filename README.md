@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Black Friday &amp; Cyber Monday Deals for Email SMTP Services](https://dev.to/otismilburnn/10-best-black-friday-cyber-monday-deals-for-email-smtp-services-30kg)
-- [How to Add Google Ads to WordPress [Beginners Guide]](https://dev.to/cozy_wordpress/how-to-add-google-ads-to-wordpress-beginners-guide-4mah)
-- [Cypress Automation : Increase Reusability with Custom Commands](https://dev.to/jignect_technologies/cypress-automation-increase-reusability-with-custom-commands-582d)
-- [Cloud Monitoring and Logging: Key Tools and Practices for Ensuring Cloud Reliability](https://dev.to/blessedofofon2/cloud-monitoring-and-logging-key-tools-and-practices-for-ensuring-cloud-reliability-1c)
+- [🚀 Beyond Data Ingestion: Advanced Strategies for Optimizing API Data Pipelines](https://dev.to/sanket00123/beyond-data-ingestion-advanced-strategies-for-optimizing-api-data-pipelines-3613)
+- [Execa vs using child_process to execute CLI commands programmatically.](https://dev.to/thinkthroo/execa-vs-using-childprocess-to-execute-cli-commands-programmatically-1mjm)
+- [Conquer the API Rainbow Road Level with these Dev “Cheat Codes”](https://dev.to/getambassador2024/conquer-the-api-rainbow-road-level-with-these-dev-cheat-codes-42a1)
+- [How API Gateways Simplify the Transition from Monolith to Microservices](https://dev.to/getambassador2024/how-api-gateways-simplify-the-transition-from-monolith-to-microservices-8f1)
 <!-- BLOG-POST-LIST:END -->
 
