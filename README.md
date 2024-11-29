@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Contributing to Node.js Core: The Final Chapter &lpar;3/3&rpar;](https://dev.to/harshil_patel/my-journey-contributing-to-nodejs-core-the-final-chapter-33-14)
-- [Regex in VSCode: My favorite hacks](https://dev.to/allmightenglishtech/regex-in-vscode-my-favorite-hacks-2ea6)
-- [Mastering Git and GitHub: Advanced Git Commands - Part 5](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-5-3eb2)
-- [Mastering Git and GitHub: Advanced Git Commands - Part 4](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-4-14nh)
+- [We’ve launched the global version of the ROUTE06 Tech Blog on dev.to! 🧑‍💻 I&#39;ve been writing articles in Japanese on https://tech.route06.co.jp/, but I&#39;ve decided to start posting more in English as well. We look forward to interacting with you!](https://dev.to/shige/weve-launched-the-global-version-of-the-route06-tech-blog-on-devto-ive-been-writing-373i)
+- [AI-Powered Features in Upcoming CMS for WooCommerce](https://dev.to/zafaryaqoobask/ai-powered-features-in-upcoming-cms-for-woocommerce-d96)
+- [10 Ways to Effectively Manage Spring Cloud Dependencies](https://dev.to/brilworks/10-ways-to-effectively-manage-spring-cloud-dependencies-4kj)
+- [Mastering Advanced Error Handling in Express.js for Robust Node.js Applications](https://dev.to/rigalpatel001/mastering-advanced-error-handling-in-expressjs-for-robust-nodejs-applications-3534)
 <!-- BLOG-POST-LIST:END -->
 
