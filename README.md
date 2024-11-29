@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the React component lifecycle: A guide to understanding the different phases.](https://dev.to/alamin49/exploring-the-react-component-lifecycle-a-guide-to-understanding-the-different-phases-1g7g)
-- [Umbul Nilo: Keindahan Alam Tersembunyi di Klaten yang Memikat Hati](https://dev.to/zoloku/umbul-nilo-keindahan-alam-tersembunyi-di-klaten-yang-memikat-hati-41af)
-- [Automating Cloud Infrastructure Security Compliance](https://dev.to/iskender83/automating-cloud-infrastructure-security-compliance-kd2)
-- [Daemons on macOS with Rust](https://dev.to/sylvanfranklin/daemons-on-macos-with-rust-188a)
+- [8 Essential Tools Every Modern Web Developer Should Know](https://dev.to/mo-dev/8-essential-tools-every-modern-web-developer-should-know-2f2e)
+- [End-to-End Security for Cloud-Native Platforms](https://dev.to/iskender83/end-to-end-security-for-cloud-native-platforms-olm)
+- [S3 native state locking in Terraform](https://dev.to/globart/s3-native-state-locking-in-terraform-518i)
+- [Advanced Persistent Threats &lpar;APT&rpar;](https://dev.to/iskender83/advanced-persistent-threats-apt-4o76)
 <!-- BLOG-POST-LIST:END -->
 
