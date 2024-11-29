@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Cloud Resource Management](https://dev.to/iskender83/automating-cloud-resource-management-51cp)
-- [Mastering Packaging and devlopment: Packaging and Running Apps on Gunicorn.](https://dev.to/pracode_2503/mastering-packaging-and-devlopment-packaging-and-running-apps-on-gunicorn-3668)
-- [Cloud Security for Mobile Devices](https://dev.to/iskender83/cloud-security-for-mobile-devices-281o)
-- [Terraform State List Command](https://dev.to/spacelift/terraform-state-list-command-3ncj)
+- [Understanding PooCoin and Its Key Features](https://dev.to/stablecoinstrategist/understanding-poocoin-and-its-key-features-2p3j)
+- [Blockchain for Cloud-Based Supply Chain Traceability](https://dev.to/iskender83/blockchain-for-cloud-based-supply-chain-traceability-4239)
+- [Documentation Release Notes - November 2024](https://dev.to/pubnub/documentation-release-notes-november-2024-5314)
+- [Latest Trends in mHealth App Development: Transforming Healthcare with Innovation](https://dev.to/evelynwyatt/latest-trends-in-mhealth-app-development-transforming-healthcare-with-innovation-528j)
 <!-- BLOG-POST-LIST:END -->
 
