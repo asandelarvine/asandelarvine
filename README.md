@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeking Help to Create a Simple API for Pokémon Data](https://dev.to/sudhanshuambastha/seeking-help-to-create-a-simple-api-for-pokemon-data-15c6)
-- [Analytics Desperately Need Innovation in 2024/2025](https://dev.to/litlyx/analytics-desperately-need-innovation-in-20242025-1i8n)
-- [Building a Code Snippet Library with Readwise, Obsidian, and Visual Studio Code](https://dev.to/airabbit/building-a-code-snippet-library-with-readwise-obsidian-and-visual-studio-code-3cdh)
-- [A debate to be had.](https://dev.to/miketalbot/a-debate-to-be-had-563h)
+- [Kubernetes and Cloud Native Associate &lpar;KCNA&rpar; Exam Guide](https://dev.to/borhanitrash/kubernetes-and-cloud-native-associate-kcna-exam-guide-1djj)
+- [Kubernetes and Cloud Native Associate &lpar;KCNA&rpar; Exam Guide](https://dev.to/borhanitrash/kubernetes-and-cloud-native-associate-kcna-exam-guide-2e6c)
+- [Mastering Java Bytecode: Boost Performance and Flexibility with Runtime Code Magic](https://dev.to/aaravjoshi/mastering-java-bytecode-boost-performance-and-flexibility-with-runtime-code-magic-5al)
+- [Debugging with dbg: Exploring Elixir&#39;s Built-in Debugger](https://dev.to/abreujp/debugging-with-dbg-exploring-elixirs-built-in-debugger-dn8)
 <!-- BLOG-POST-LIST:END -->
 
