@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Full-Stack Development: Part 3 - Mastering Advance JS](https://dev.to/rahulmpatel369/learn-full-stack-development-part-3-mastering-advance-js-3h8e)
-- [How to Run Two MongoDB Instances on the Same Server &lpar;Standalone and Replica Set&rpar;](https://dev.to/thepurveshpanchal/how-to-run-two-mongodb-instances-on-the-same-server-standalone-and-replica-set-m2n)
-- [Node vs Deno vs Bun: Comparing JavaScript Runtimes](https://dev.to/codeparrot/node-vs-deno-vs-bun-comparing-javascript-runtimes-3m5)
-- [How To Setup Password Hash Synchronization In Microsoft Azure](https://dev.to/samuelarogbonlo_64/how-to-setup-password-hash-synchronization-in-microsoft-azure-313h)
+- [Dynamic Data Handling in C#: Resizing Collections with List&lt;T&gt;](https://dev.to/moh_moh701/dynamic-data-handling-in-c-resizing-collections-with-list-l1n)
+- [Currency converter in Rust + WebAssembly](https://dev.to/amedalen/currency-converter-in-rust-webassembly-77p)
+- [The Power of Visual Data Analysis: Tools, Techniques, and Software for Enhanced Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-visual-data-analysis-tools-techniques-and-software-for-enhanced-insights-3b09)
+- [💡 Building a Nuxt 3 App with Pinia and Testing It with Cypress 🚀](https://dev.to/blamsa0mine/building-a-nuxt-3-app-with-pinia-and-testing-it-with-cypress-13ah)
 <!-- BLOG-POST-LIST:END -->
 
