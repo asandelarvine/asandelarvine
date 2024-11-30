@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teste do Capítulo 11](https://dev.to/javaparainiciantes/teste-do-capitulo-11-3hkf)
-- [The Fastest Way To Get A Tech Job When Nobody Is Hiring](https://dev.to/drjoshcsimmons/the-fastest-way-to-get-a-tech-job-when-nobody-is-hiring-2j81)
-- [Mastering SQlite Commands: A Beginner&#39;s Guide](https://dev.to/emmanuel_essien_ed2507db6/mastering-sqlite-commands-a-beginners-guide-1pk7)
-- [Reflections On My First Challenge](https://dev.to/ingeborg_adolfs_c414578af/reflections-on-my-first-challenge-5eig)
+- [Building Serverless Agentic Workflows with Amazon Bedrock](https://dev.to/hassan_sherwani_9dd766c43/building-serverless-agentic-workflows-with-amazon-bedrock-1j6h)
+- [15 WordPress Search Plugins to Supercharge Your Website’s Search Functionality](https://dev.to/fitehal/15-wordpress-search-plugins-to-supercharge-your-websites-search-functionality-jf6)
+- [Practical Construction of a Secure Authentication System for Enterprise-Level Applications in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-construction-of-a-secure-authentication-system-for-enterprise-level-applications-in-2hpl)
+- [鸿蒙 Next 企业级应用安全认证体系构建实战](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-next-qi-ye-ji-ying-yong-an-quan-ren-zheng-ti-xi-gou-jian-shi-zhan-4c77)
 <!-- BLOG-POST-LIST:END -->
 
