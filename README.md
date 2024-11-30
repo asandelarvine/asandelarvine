@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a responsive multi-column layout with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-responsive-multi-column-layout-with-tailwind-css-5c80)
-- [🚀 Your First Java Project in IntelliJ IDEA: Creating a &quot;Hello World&quot; in Java 🚀](https://dev.to/ricardocaselati/your-first-java-project-in-intellij-idea-creating-a-hello-world-in-java-4l73)
-- [How to Detect and Defend Against SQL Injection Attacks - Part 3[Must Read]](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-3must-read-i48)
-- [The Ultimate Guide to AWS Lambda](https://dev.to/borhanitrash/the-ultimate-guide-to-aws-lambda-1886)
+- [Seeking Help to Create a Simple API for Pokémon Data](https://dev.to/sudhanshuambastha/seeking-help-to-create-a-simple-api-for-pokemon-data-15c6)
+- [Analytics Desperately Need Innovation in 2024/2025](https://dev.to/litlyx/analytics-desperately-need-innovation-in-20242025-1i8n)
+- [Building a Code Snippet Library with Readwise, Obsidian, and Visual Studio Code](https://dev.to/airabbit/building-a-code-snippet-library-with-readwise-obsidian-and-visual-studio-code-3cdh)
+- [A debate to be had.](https://dev.to/miketalbot/a-debate-to-be-had-563h)
 <!-- BLOG-POST-LIST:END -->
 
