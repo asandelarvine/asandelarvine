@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Data Handling in C#: Resizing Collections with List&lt;T&gt;](https://dev.to/moh_moh701/dynamic-data-handling-in-c-resizing-collections-with-list-l1n)
-- [Currency converter in Rust + WebAssembly](https://dev.to/amedalen/currency-converter-in-rust-webassembly-77p)
-- [The Power of Visual Data Analysis: Tools, Techniques, and Software for Enhanced Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-visual-data-analysis-tools-techniques-and-software-for-enhanced-insights-3b09)
-- [💡 Building a Nuxt 3 App with Pinia and Testing It with Cypress 🚀](https://dev.to/blamsa0mine/building-a-nuxt-3-app-with-pinia-and-testing-it-with-cypress-13ah)
+- [Performance Optimization with TypeScript](https://dev.to/shafayeat/performance-optimization-with-typescript-dcj)
+- [Series I: CMake &amp; C++17 Quick Started](https://dev.to/lwdjohari/series-i-cmake-c17-quick-started-2jc9)
+- [C# Dictionary p2](https://dev.to/moh_moh701/c-dictionary-p2-2044)
+- [Azure Function App &lpar;Flex Conumption&rpar; in private VNET via IaC](https://dev.to/rokicool/azure-function-app-flex-conumption-in-private-vnet-via-iac-1j62)
 <!-- BLOG-POST-LIST:END -->
 
