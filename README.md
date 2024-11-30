@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to load an MFE module from a shell app &lpar;Using Angular + Webpack + Module Federation&rpar;.](https://dev.to/ruben2079/how-to-load-an-mfe-module-from-a-shell-app-using-angular-webpack-module-federation-53e6)
-- [LeetCode Meditations: Word Break](https://dev.to/rivea0/leetcode-meditations-word-break-4i4p)
-- [Cloud Storage Encryption](https://dev.to/iskender83/cloud-storage-encryption-ei5)
-- [NET 9 BinaryFormatter migration paths](https://dev.to/karenpayneoregon/net-9-binaryformatter-migration-paths-4i5a)
+- [Increase Debian based Linux VPS server’s security](https://dev.to/xinitd/increase-debian-based-linux-vps-servers-security-2ioo)
+- [Code Smell 282 - Bad Defaults](https://dev.to/mcsee/code-smell-282-bad-defaults-86l)
+- [AI for Continuous Monitoring of Cloud Infrastructure](https://dev.to/iskender83/ai-for-continuous-monitoring-of-cloud-infrastructure-59if)
+- [Advanced Cloud Security Solutions for High-Performance Computing](https://dev.to/iskender83/advanced-cloud-security-solutions-for-high-performance-computing-317h)
 <!-- BLOG-POST-LIST:END -->
 
