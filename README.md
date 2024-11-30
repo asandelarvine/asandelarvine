@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seaborn Cheat Sheet](https://dev.to/arum_puripratamawati_ef5/seaborn-cheat-sheet-3p26)
-- [Building Real-time Object Detection on Live-streams](https://dev.to/spring93/building-real-time-object-detection-on-live-streams-46ja)
-- [Why does a reboot make your PC run SO much faster than running all the cleaning tools you can possibly imagine?](https://dev.to/best_codes/why-does-a-reboot-make-your-pc-run-so-much-faster-than-running-all-the-cleaning-tools-you-can-20b1)
-- [查询BSC钱包地址USDT余额](https://dev.to/dragon72463399/cha-xun-bscqian-bao-di-zhi-usdtyu-e-35pb)
+- [How to Detect and Defend Against SQL Injection Attacks - Part 2](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-2-3b1p)
+- [Installing Postgres on a Development Machine](https://dev.to/tallesl/installing-postgres-on-a-development-machine-4gb9)
+- [Top 15 Git Commands That Every Developer Should Know](https://dev.to/hardy_mervana/top-15-git-commands-that-every-developer-should-know-1pbi)
+- [Caught in the Crunch My Journey from Snacks to 200000 Exposed Users Privacy](https://dev.to/programmerraja/caught-in-the-crunch-my-journey-from-snacks-to-200000-exposed-users-privacy-41e0)
 <!-- BLOG-POST-LIST:END -->
 
