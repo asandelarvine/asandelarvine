@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Booting an OS from a Preserved .E01 &lpar;EWF&rpar; Disk Image File Using Arsenal Image Mounter](https://dev.to/sum3sh1/booting-an-os-from-a-preserved-e01-ewf-disk-image-file-using-arsenal-image-mounter-cdf)
-- [Advanced Persistent Threat &lpar;APT&rpar; Mitigation in Cloud Platforms](https://dev.to/iskender83/advanced-persistent-threat-apt-mitigation-in-cloud-platforms-245a)
-- [Web Application Firewalls &lpar;WAF&rpar;](https://dev.to/iskender83/web-application-firewalls-waf-2p6a)
-- [IoT Security Frameworks for Cloud Environments](https://dev.to/iskender83/iot-security-frameworks-for-cloud-environments-1fe)
+- [Understanding GraphQL: A Comprehensive Overview](https://dev.to/hexadecimal_software/understanding-graphql-a-comprehensive-overview-53bg)
+- [AI Engineer&#39;s Tool Review: Bolt.new](https://dev.to/shubhsk/ai-engineers-tool-review-boltnew-2b51)
+- [Build a Simple Real-Time SBOBET88-Style Website for Beginners with PHP, CSS, and JavaScript](https://dev.to/sbobet88_dev/build-a-simple-real-time-sbobet88-style-website-for-beginners-with-php-css-and-javascript-1dig)
+- [15 Best Chrome Extensions for Devs 🧑‍💻](https://dev.to/naymhdev/15-best-chrome-extensions-for-devs-1dmm)
 <!-- BLOG-POST-LIST:END -->
 
