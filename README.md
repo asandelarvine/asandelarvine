@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up MLflow in Google Colab: A Beginner-Friendly Guide](https://dev.to/shemanto_sharkar/setting-up-mlflow-in-google-colab-a-beginner-friendly-guide-5c8g)
-- [Canary Deployments: A Safer Way to Roll Out Updates](https://dev.to/vipulkumarsviit/canary-deployments-a-safer-way-to-roll-out-updates-2c40)
-- [Untitled](https://dev.to/satyamshorrf/untitled-4o88)
-- [🚀 Generate Dynamic PDFs in Laravel with DomPDF](https://dev.to/blamsa0mine/generate-dynamic-pdfs-in-laravel-with-dompdf-5bmd)
+- [Learn how to create a responsive multi-column layout with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-responsive-multi-column-layout-with-tailwind-css-5c80)
+- [🚀 Your First Java Project in IntelliJ IDEA: Creating a &quot;Hello World&quot; in Java 🚀](https://dev.to/ricardocaselati/your-first-java-project-in-intellij-idea-creating-a-hello-world-in-java-4l73)
+- [How to Detect and Defend Against SQL Injection Attacks - Part 3[Must Read]](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-3must-read-i48)
+- [The Ultimate Guide to AWS Lambda](https://dev.to/borhanitrash/the-ultimate-guide-to-aws-lambda-1886)
 <!-- BLOG-POST-LIST:END -->
 
