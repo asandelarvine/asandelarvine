@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unauthorized: No token provided&quot;&rpar;](https://dev.to/lord_rahms/unauthorizedno-token-provided-4an4)
-- [The End of the Beginning: My Open Source Journey so far](https://dev.to/bregwin/the-end-of-the-beginning-my-open-source-journey-so-far-3oid)
-- [Nova&#39;s Sneaky Redirect: A Quick Fix](https://dev.to/helfull/novas-sneaky-redirect-a-quick-fix-e6k)
-- [Weapons-grade Metaprotocols on METASHREW](https://dev.to/kungfuflex/weapons-grade-metaprotocols-on-metashrew-262k)
+- [Teste do Capítulo 11](https://dev.to/javaparainiciantes/teste-do-capitulo-11-3hkf)
+- [The Fastest Way To Get A Tech Job When Nobody Is Hiring](https://dev.to/drjoshcsimmons/the-fastest-way-to-get-a-tech-job-when-nobody-is-hiring-2j81)
+- [Mastering SQlite Commands: A Beginner&#39;s Guide](https://dev.to/emmanuel_essien_ed2507db6/mastering-sqlite-commands-a-beginners-guide-1pk7)
+- [Reflections On My First Challenge](https://dev.to/ingeborg_adolfs_c414578af/reflections-on-my-first-challenge-5eig)
 <!-- BLOG-POST-LIST:END -->
 
