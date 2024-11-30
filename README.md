@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding GraphQL: A Comprehensive Overview](https://dev.to/hexadecimal_software/understanding-graphql-a-comprehensive-overview-53bg)
-- [AI Engineer&#39;s Tool Review: Bolt.new](https://dev.to/shubhsk/ai-engineers-tool-review-boltnew-2b51)
-- [Build a Simple Real-Time SBOBET88-Style Website for Beginners with PHP, CSS, and JavaScript](https://dev.to/sbobet88_dev/build-a-simple-real-time-sbobet88-style-website-for-beginners-with-php-css-and-javascript-1dig)
-- [15 Best Chrome Extensions for Devs 🧑‍💻](https://dev.to/naymhdev/15-best-chrome-extensions-for-devs-1dmm)
+- [[Boost]](https://dev.to/kola_yusuf/-5ccf)
+- [CREATE AN AZURE VIRTUAL NETWORK WITH FOUR SUBNET](https://dev.to/seyilufadejucyberservices/create-an-azure-virtual-network-with-four-subnet-101h)
+- [Hackathon 101](https://dev.to/arpanaditya/hackathon-101-4f4f)
+- [Ranking System and Career Progression in Cabin Crew Life Simulator - Devlog #5](https://dev.to/khaisimon_devgame/ranking-system-and-career-progression-in-cabin-crew-life-simulator-devlog-5-16c5)
 <!-- BLOG-POST-LIST:END -->
 
