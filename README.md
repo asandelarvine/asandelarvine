@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes and Cloud Native Associate &lpar;KCNA&rpar; Exam Guide](https://dev.to/borhanitrash/kubernetes-and-cloud-native-associate-kcna-exam-guide-1djj)
-- [Kubernetes and Cloud Native Associate &lpar;KCNA&rpar; Exam Guide](https://dev.to/borhanitrash/kubernetes-and-cloud-native-associate-kcna-exam-guide-2e6c)
-- [Mastering Java Bytecode: Boost Performance and Flexibility with Runtime Code Magic](https://dev.to/aaravjoshi/mastering-java-bytecode-boost-performance-and-flexibility-with-runtime-code-magic-5al)
-- [Debugging with dbg: Exploring Elixir&#39;s Built-in Debugger](https://dev.to/abreujp/debugging-with-dbg-exploring-elixirs-built-in-debugger-dn8)
+- [Beginner&#39;s Guide to PHP Form Handling with Cookies](https://dev.to/harshm03/beginners-guide-to-php-form-handling-with-cookies-1el4)
+- [How to add loading states with server action and useActionState hook in Nextjs 15 and React 19](https://dev.to/thatanjan/how-to-add-loading-states-with-server-action-and-useactionstate-hook-in-nextjs-15-and-react-19-5elc)
+- [Tối ưu Frontend - Độ phức tạp của Style CSS ?🚀](https://dev.to/nddev_18/toi-uu-frontend-do-phuc-tap-cua-style-css--2762)
+- [Beginner&#39;s Guide to PHP Form Handling with Sessions](https://dev.to/harshm03/beginners-guide-to-php-form-handling-with-sessions-5ebh)
 <!-- BLOG-POST-LIST:END -->
 
