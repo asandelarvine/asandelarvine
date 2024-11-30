@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Increase Debian based Linux VPS server’s security](https://dev.to/xinitd/increase-debian-based-linux-vps-servers-security-2ioo)
-- [Code Smell 282 - Bad Defaults](https://dev.to/mcsee/code-smell-282-bad-defaults-86l)
-- [AI for Continuous Monitoring of Cloud Infrastructure](https://dev.to/iskender83/ai-for-continuous-monitoring-of-cloud-infrastructure-59if)
-- [Advanced Cloud Security Solutions for High-Performance Computing](https://dev.to/iskender83/advanced-cloud-security-solutions-for-high-performance-computing-317h)
+- [Just Say No to Magic Values](https://dev.to/crusty-rustacean/just-say-no-to-magic-values-59dg)
+- [Why Are We Still Learning in 2D When the World is 3D?](https://dev.to/jeffsalive/why-are-we-still-learning-in-2d-when-the-world-is-3d-hcd)
+- [Sending message from Telegram bot to users](https://dev.to/xinitd/sending-message-from-telegram-bot-to-users-1g3d)
+- [I know nothing about Pokémon, but maybe one of you guys can help :&rpar;](https://dev.to/best_codes/i-know-nothing-about-pokemon-but-maybe-one-of-you-guys-can-help--55hg)
 <!-- BLOG-POST-LIST:END -->
 
