@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Loops](https://dev.to/lostshades/a-beginners-guide-to-loops-4pmm)
-- [FireChat Technical Documentation](https://dev.to/alex7842/firechat-technical-documentation-5811)
-- [The Dual Impact of AI and Robotics on Society, Employment, and the Future](https://dev.to/hamidintech/the-dual-impact-of-ai-and-robotics-on-society-employment-and-the-future-1e3a)
-- [FireChat User Guide](https://dev.to/alex7842/firechat-user-guide-2914)
+- [48/365 | ¥10M Job Challenge - Direction](https://dev.to/kameken100/48365-y10m-job-challenge-ai-blockchain-339g)
+- [Neovim how to ignore directories like node_modules in Telescope](https://dev.to/lico/neovim-how-to-ignore-directories-like-nodemodules-in-telescope-3pjj)
+- [Where do you put JWT in your React application?](https://dev.to/eshat002/where-do-you-put-jwt-in-your-react-application-o4h)
+- [Gestión de Identidades y Accesos &lpar;IAM&rpar; en AWS: Buenas Prácticas para Fortalecer la Seguridad](https://dev.to/briansuarezsantiago/gestion-de-identidades-y-accesos-iam-en-aws-buenas-practicas-para-fortalecer-la-seguridad-2mb2)
 <!-- BLOG-POST-LIST:END -->
 
