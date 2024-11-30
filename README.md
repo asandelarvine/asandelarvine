@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My most useful Visual Studio Code Extensions](https://dev.to/radictionary/my-most-useful-visual-studio-code-extensions-ng4)
-- [PureScript for Scala developers](https://dev.to/zelenya/purescript-for-scala-developers-2o75)
-- [GitHub Copilot: Supercharge Your Coding with AI Pair Programmer](https://dev.to/rajinh24/github-copilot-supercharge-your-coding-with-ai-pair-programmer-17nf)
-- [Lang Everything: The Missing Guide to LangChain&#39;s Ecosystem](https://dev.to/dpaluy/lang-everything-the-missing-guide-to-langchains-ecosystem-1eo7)
+- [Booting an OS from a Preserved .E01 &lpar;EWF&rpar; Disk Image File Using Arsenal Image Mounter](https://dev.to/sum3sh1/booting-an-os-from-a-preserved-e01-ewf-disk-image-file-using-arsenal-image-mounter-cdf)
+- [Advanced Persistent Threat &lpar;APT&rpar; Mitigation in Cloud Platforms](https://dev.to/iskender83/advanced-persistent-threat-apt-mitigation-in-cloud-platforms-245a)
+- [Web Application Firewalls &lpar;WAF&rpar;](https://dev.to/iskender83/web-application-firewalls-waf-2p6a)
+- [IoT Security Frameworks for Cloud Environments](https://dev.to/iskender83/iot-security-frameworks-for-cloud-environments-1fe)
 <!-- BLOG-POST-LIST:END -->
 
