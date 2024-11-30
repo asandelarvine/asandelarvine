@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redefining Healthcare: Elon Musk’s X Initiative vs. Zirr AI’s Real-Time Solutions.](https://dev.to/zirrai/redefining-healthcare-elon-musks-x-initiative-vs-zirr-ais-real-time-solutions-3phh)
-- [Unlocking the Future: The Power of Technology in Everyday Life](https://dev.to/samduttonn/unlocking-the-future-the-power-of-technology-in-everyday-life-1eki)
-- [Designing a Production-Grade Database for High-Traffic Applications on AWS RDS MySQL](https://dev.to/akhil_mittal/designing-a-production-grade-database-for-high-traffic-applications-on-aws-rds-mysql-1hmm)
-- [Amazon EC2 Fundamentals](https://dev.to/arafat_islam/amazon-ec2-fundamentals-3g8n)
+- [A Beginner&#39;s Guide to Loops](https://dev.to/lostshades/a-beginners-guide-to-loops-4pmm)
+- [FireChat Technical Documentation](https://dev.to/alex7842/firechat-technical-documentation-5811)
+- [The Dual Impact of AI and Robotics on Society, Employment, and the Future](https://dev.to/hamidintech/the-dual-impact-of-ai-and-robotics-on-society-employment-and-the-future-1e3a)
+- [FireChat User Guide](https://dev.to/alex7842/firechat-user-guide-2914)
 <!-- BLOG-POST-LIST:END -->
 
