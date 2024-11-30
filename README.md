@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Serverless Agentic Workflows with Amazon Bedrock](https://dev.to/hassan_sherwani_9dd766c43/building-serverless-agentic-workflows-with-amazon-bedrock-1j6h)
-- [15 WordPress Search Plugins to Supercharge Your Website’s Search Functionality](https://dev.to/fitehal/15-wordpress-search-plugins-to-supercharge-your-websites-search-functionality-jf6)
-- [Practical Construction of a Secure Authentication System for Enterprise-Level Applications in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-construction-of-a-secure-authentication-system-for-enterprise-level-applications-in-2hpl)
-- [鸿蒙 Next 企业级应用安全认证体系构建实战](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-next-qi-ye-ji-ying-yong-an-quan-ren-zheng-ti-xi-gou-jian-shi-zhan-4c77)
+- [Seaborn Cheat Sheet](https://dev.to/arum_puripratamawati_ef5/seaborn-cheat-sheet-3p26)
+- [Building Real-time Object Detection on Live-streams](https://dev.to/spring93/building-real-time-object-detection-on-live-streams-46ja)
+- [Why does a reboot make your PC run SO much faster than running all the cleaning tools you can possibly imagine?](https://dev.to/best_codes/why-does-a-reboot-make-your-pc-run-so-much-faster-than-running-all-the-cleaning-tools-you-can-20b1)
+- [查询BSC钱包地址USDT余额](https://dev.to/dragon72463399/cha-xun-bscqian-bao-di-zhi-usdtyu-e-35pb)
 <!-- BLOG-POST-LIST:END -->
 
