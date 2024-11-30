@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/kola_yusuf/-5ccf)
-- [CREATE AN AZURE VIRTUAL NETWORK WITH FOUR SUBNET](https://dev.to/seyilufadejucyberservices/create-an-azure-virtual-network-with-four-subnet-101h)
-- [Hackathon 101](https://dev.to/arpanaditya/hackathon-101-4f4f)
-- [Ranking System and Career Progression in Cabin Crew Life Simulator - Devlog #5](https://dev.to/khaisimon_devgame/ranking-system-and-career-progression-in-cabin-crew-life-simulator-devlog-5-16c5)
+- [Setting Up MLflow in Google Colab: A Beginner-Friendly Guide](https://dev.to/shemanto_sharkar/setting-up-mlflow-in-google-colab-a-beginner-friendly-guide-5c8g)
+- [Canary Deployments: A Safer Way to Roll Out Updates](https://dev.to/vipulkumarsviit/canary-deployments-a-safer-way-to-roll-out-updates-2c40)
+- [Untitled](https://dev.to/satyamshorrf/untitled-4o88)
+- [🚀 Generate Dynamic PDFs in Laravel with DomPDF](https://dev.to/blamsa0mine/generate-dynamic-pdfs-in-laravel-with-dompdf-5bmd)
 <!-- BLOG-POST-LIST:END -->
 
