@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Optimization with TypeScript](https://dev.to/shafayeat/performance-optimization-with-typescript-dcj)
-- [Series I: CMake &amp; C++17 Quick Started](https://dev.to/lwdjohari/series-i-cmake-c17-quick-started-2jc9)
-- [C# Dictionary p2](https://dev.to/moh_moh701/c-dictionary-p2-2044)
-- [Azure Function App &lpar;Flex Conumption&rpar; in private VNET via IaC](https://dev.to/rokicool/azure-function-app-flex-conumption-in-private-vnet-via-iac-1j62)
+- [Redefining Healthcare: Elon Musk’s X Initiative vs. Zirr AI’s Real-Time Solutions.](https://dev.to/zirrai/redefining-healthcare-elon-musks-x-initiative-vs-zirr-ais-real-time-solutions-3phh)
+- [Unlocking the Future: The Power of Technology in Everyday Life](https://dev.to/samduttonn/unlocking-the-future-the-power-of-technology-in-everyday-life-1eki)
+- [Designing a Production-Grade Database for High-Traffic Applications on AWS RDS MySQL](https://dev.to/akhil_mittal/designing-a-production-grade-database-for-high-traffic-applications-on-aws-rds-mysql-1hmm)
+- [Amazon EC2 Fundamentals](https://dev.to/arafat_islam/amazon-ec2-fundamentals-3g8n)
 <!-- BLOG-POST-LIST:END -->
 
