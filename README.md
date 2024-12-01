@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Differences Between ReplicationController, ReplicaSet, and Deployment in Kubernetes](https://dev.to/nishant026/understanding-the-differences-between-replicationcontroller-replicaset-and-deployment-in-202b)
-- [Avoiding Pitfalls in Amazon S3: Handling Case Sensitivity in Python Workflows](https://dev.to/aws-builders/avoiding-pitfalls-in-amazon-s3-handling-case-sensitivity-in-python-workflows-22if)
-- [Creating Custom Validators in Spring Data: A Comprehensive Guide](https://dev.to/parzival_computer/creating-custom-validators-in-spring-data-a-comprehensive-guide-4a50)
-- [Day 43: Evaluation Metrics for LLMs](https://dev.to/nareshnishad/day-43-evaluation-metrics-for-llms-4i68)
+- [Sufficient Software Tests Using Metrics](https://dev.to/sualeh/sufficient-software-tests-using-metrics-36i2)
+- [AI travel Plan using Next.js 15, TailwindCSS, Prisma, Google AI Studio, and Clerk](https://dev.to/saidmounaim/ai-travel-plan-using-nextjs-15-tailwindcss-prisma-google-ai-studio-and-clerk-21jm)
+- [Welcome to My Tech Journey](https://dev.to/teetoflame/welcome-to-my-tech-journey-30d)
+- [JavaScript](https://dev.to/tobias4374f08cc/javascript-4djj)
 <!-- BLOG-POST-LIST:END -->
 
