@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Best Software Architecture?](https://dev.to/koladev/whats-the-best-software-architecture-3g8g)
-- [Building an Audio Visualizer in Flutter](https://dev.to/mophero/building-an-audio-visualizer-in-flutter-4e0i)
-- [Beyond the Hype: Four GameFi Trends Set to Redefine Gaming](https://dev.to/endeo/beyond-the-hype-four-gamefi-trends-set-to-redefine-gaming-3611)
-- [Building a Basic Blockchain in Python: My Journey and Key Takeaways!](https://dev.to/arish_sethi_7d1481d9c4b87/building-a-basic-blockchain-in-python-my-journey-and-key-takeaways-1b6a)
+- [Database-as-a-Service &lpar;DBaaS&rpar;](https://dev.to/rednexie/database-as-a-service-dbaas-3lk5)
+- [SQL Interview Questions: A Comprehensive Guide for Developers](https://dev.to/nozibul_islam_113b1d5334f/sql-interview-questions-a-comprehensive-guide-for-developers-5c6d)
+- [Starting my C# journey! 🚀 Looking for YouTube recommendations to learn, but having a mentor would be even better. If you&#39;re also a beginner, let&#39;s connect and grow together. Suggestions and connections are welcome](https://dev.to/gebidan/starting-my-c-journey-looking-for-youtube-recommendations-to-learn-but-having-a-mentor-would-2228)
+- [The Last Crime: A Reflection on Consciousness, Technology, and Humanity](https://dev.to/atallah_anouz_423191e8872/the-last-crimea-reflection-on-consciousness-technology-and-humanity-5af5)
 <!-- BLOG-POST-LIST:END -->
 
