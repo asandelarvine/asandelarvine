@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Based Vulnerability Scanning for Cloud Infrastructure](https://dev.to/rednexie/ai-based-vulnerability-scanning-for-cloud-infrastructure-14lj)
-- [Data Governance and Compliance in the Cloud](https://dev.to/rednexie/data-governance-and-compliance-in-the-cloud-1237)
-- [Integrating Blockchain with Cloud for Secure Data Transactions](https://dev.to/rednexie/integrating-blockchain-with-cloud-for-secure-data-transactions-3kcp)
-- [Great fun playing with hypotrochoid](https://dev.to/tthtlc/great-fun-playing-19he)
+- [You’re Doing Error-Handling Wrong!](https://dev.to/therealfloatdev/youre-doing-error-handling-wrong-34nn)
+- [Understanding the Concept of VPNs](https://dev.to/vipulkumarsviit/understanding-the-concept-of-vpns-2ej9)
+- [Nurturing the Developer Within: A Journey of Growth and Community](https://dev.to/vidyasagarmsc/nurturing-the-developer-within-a-journey-of-growth-and-2n9o)
+- [Tailwind CSS v4 Beta is Out, New Rust-Based React Framework, BEST JavaScript Animation Library, and more](https://dev.to/thisweekinjavascript/tailwind-css-v4-beta-is-out-new-rust-based-react-framework-best-javascript-animation-library-and-19po)
 <!-- BLOG-POST-LIST:END -->
 
