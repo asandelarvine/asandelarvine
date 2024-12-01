@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Integrating tldraw &lpar;React Component&rpar; in an Angular App Without Losing Your Mind](https://dev.to/balajisasi/integrating-tldraw-react-component-in-an-angular-app-without-losing-your-mind-21i1)
-- [How I Solved Common Prisma ORM Errors: Debugging Tips and Best Practices](https://dev.to/ikoichi/how-i-solved-common-prisma-orm-errors-debugging-tips-and-best-practices-1505)
-- [Master Go&#39;s Concurrency: Context Propagation and Cancellation Secrets Revealed](https://dev.to/aaravjoshi/master-gos-concurrency-context-propagation-and-cancellation-secrets-revealed-12fm)
-- [Advanced Cryptography for Cloud Storage Solutions](https://dev.to/iskender83/advanced-cryptography-for-cloud-storage-solutions-2md9)
+- [At a Standstill - FAV0 Weekly #023](https://dev.to/justin3go/at-a-standstill-fav0-weekly-023-26gp)
+- [停滞不前 - FAV0周刊#023](https://dev.to/justin3go/ting-zhi-bu-qian-fav0zhou-kan-023-4dkl)
+- [387. First Unique Character in a String - Java 練習 - HashMap （中文解釋）](https://dev.to/vc7/387-first-unique-character-in-a-string-java-lian-xi-hashmap-zhong-wen-jie-shi--4hbp)
+- [Quantum Computing in Your Browser: Build a Simulator with React and WebAssembly](https://dev.to/aaravjoshi/quantum-computing-in-your-browser-build-a-simulator-with-react-and-webassembly-460f)
 <!-- BLOG-POST-LIST:END -->
 
