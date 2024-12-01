@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automações com Python.](https://dev.to/java2890/automacoes-com-python-3jgd)
-- [Zermatt.dev : A Frontend Framework for Magento](https://dev.to/herveguetin/zermatt-a-frontend-framework-for-magento-developers-5hen)
-- [Telegram bot para replicar sinais no mt5](https://dev.to/java2890/telegram-bot-para-replicar-sinais-no-mt5-2cf1)
-- [Jenkins - 1](https://dev.to/technonotes/jenkins-1-jk6)
+- [Uncommon UI: Can accessible web patterns keep up?](https://dev.to/amandamandashow/uncommon-ui-can-accessible-web-patterns-keep-up-4fkk)
+- [Growth Hacking](https://dev.to/java2890/growth-hacking-4jbj)
+- [C++ and ModernCLI](https://dev.to/dyfet/c-and-moderncli-517f)
+- [Construyendo un Portfolio Moderno con Astro y Tailwind CSS](https://dev.to/goaqidev/-construyendo-un-portfolio-moderno-con-astro-y-tailwind-css-20ni)
 <!-- BLOG-POST-LIST:END -->
 
