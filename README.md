@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Automation and Scripting](https://dev.to/iskender83/cloud-automation-and-scripting-3eh7)
-- [Fine-Tuning vs. Retrieval-Augmented Generation &lpar;RAG&rpar;: Enhancing LLMs for Specific Tasks](https://dev.to/ahikmah/fine-tuning-vs-retrieval-augmented-generation-rag-enhancing-llms-for-specific-tasks-2o5p)
-- [Building Resilient Cloud-Native Security Architectures](https://dev.to/iskender83/building-resilient-cloud-native-security-architectures-4i9h)
-- [Fine-Tuning LLM: Transforming General Models into Specialized Experts](https://dev.to/ahikmah/fine-tuning-llm-transforming-general-models-into-specialized-experts-11h)
+- [🎨 Integrating tldraw &lpar;React Component&rpar; in an Angular App Without Losing Your Mind](https://dev.to/balajisasi/integrating-tldraw-react-component-in-an-angular-app-without-losing-your-mind-21i1)
+- [How I Solved Common Prisma ORM Errors: Debugging Tips and Best Practices](https://dev.to/ikoichi/how-i-solved-common-prisma-orm-errors-debugging-tips-and-best-practices-1505)
+- [Master Go&#39;s Concurrency: Context Propagation and Cancellation Secrets Revealed](https://dev.to/aaravjoshi/master-gos-concurrency-context-propagation-and-cancellation-secrets-revealed-12fm)
+- [Advanced Cryptography for Cloud Storage Solutions](https://dev.to/iskender83/advanced-cryptography-for-cloud-storage-solutions-2md9)
 <!-- BLOG-POST-LIST:END -->
 
