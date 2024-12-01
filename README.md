@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Как подружить котиков, слонов и китов: тестирование Spring-приложений с Testcontainers 🐱🐘🐋](https://dev.to/easycat/kak-podruzhit-kotikov-slonov-i-kitov-tiestirovaniie-spring-prilozhienii-s-testcontainers-3pkh)
-- [AI Engineer&#39;s Tool Review: Helicone](https://dev.to/shubhsk/ai-engineers-tool-review-helicone-55ff)
-- [Context-menu-Lock](https://dev.to/bylickilabs/context-menu-lock-34ch)
-- [Fix Security Misconfigurations in Laravel for Safer Web Apps](https://dev.to/pentest_testing_corp/fix-security-misconfigurations-in-laravel-for-safer-web-apps-be3)
+- [How to Write a Token Price Oracle Smart Contract](https://dev.to/marksantiago02/how-to-write-a-token-price-oracle-smart-contract-1oj)
+- [Let&#39;s Learn Polyfill in JavaScript 🚀](https://dev.to/jagroop2001/lets-learn-polyfill-in-javascript-24id)
+- [JavaScript. How to Make a Blazingly Fast Multithreaded Data Grid for 1,000,000 Rows. Part 1/2: The Nuances of Working with DOM](https://dev.to/alexboyko/javascript-how-to-make-a-blazingly-fast-multithreaded-data-grid-for-1000000-rows-part-12-the-3ek5)
+- [Cara Buka Blokir BRImo: Panduan Lengkap dan Praktis](https://dev.to/zoloku/cara-buka-blokir-brimo-panduan-lengkap-dan-praktis-bf0)
 <!-- BLOG-POST-LIST:END -->
 
