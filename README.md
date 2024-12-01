@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect and Defend Against SQL Injection Attacks – Part 4: Real-World Scenarios Deep Dive](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-4-real-world-scenarios-deep-dive-1lg9)
-- [How to Use TypeScript to Accumulate Types: Typing ALL possible fetch&lpar;&rpar; Results](https://dev.to/webjose/how-to-use-typescript-to-accumulate-types-typing-all-possible-fetch-results-3hc)
-- [Datasets for Computer Vision &lpar;4&rpar;](https://dev.to/hyperkai/datasets-for-computer-vision-4-4050)
-- [Numerical Root-Finding Algorithms: Foundations, Theory, and Advanced Methods. Part 1](https://dev.to/padiazg/numerical-root-finding-algorithms-foundations-theory-and-advanced-methods-part-1-1f31)
+- [Python Development in VSCode Using Devcontainer](https://dev.to/jajera/python-development-in-vscode-using-devcontainer-2ao1)
+- [Learning Input Methods in C](https://dev.to/combustrrr/learning-input-methods-in-c-kci)
+- [How to manage dependencies in Ansible roles?](https://dev.to/labex/how-to-manage-dependencies-in-ansible-roles-21je)
+- [A detailed analysis of Java Object size and its comparision with primitive data types.](https://dev.to/dhanush9952/a-detailed-analysis-of-java-object-size-and-its-comparision-with-primitive-data-types-37i8)
 <!-- BLOG-POST-LIST:END -->
 
