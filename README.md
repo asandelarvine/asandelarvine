@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roniere Marques: A Jornada de um Developer Full Stack](https://dev.to/ronieremarques/roniere-marques-a-jornada-de-um-developer-full-stack-f17)
-- [50+ ReactJS Interview Questions 2024 | Basic &amp; Advanced with Free PDF Download.](https://dev.to/sudhanshu_developer/50-reactjs-interview-questions-2024-basic-advanced-with-free-pdf-download-3jap)
-- [Explorando la Infraestructura Global de AWS: Regiones, Zonas de Disponibilidad y más](https://dev.to/briansuarezsantiago/explorando-la-infraestructura-global-de-aws-regiones-zonas-de-disponibilidad-y-mas-3p3j)
-- [The best opportunities often come through connections](https://dev.to/jcsmileyjr/the-best-opportunities-often-come-through-connections-2o73)
+- [How to Detect and Defend Against SQL Injection Attacks – Part 4: Real-World Scenarios Deep Dive](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-4-real-world-scenarios-deep-dive-1lg9)
+- [How to Use TypeScript to Accumulate Types: Typing ALL possible fetch&lpar;&rpar; Results](https://dev.to/webjose/how-to-use-typescript-to-accumulate-types-typing-all-possible-fetch-results-3hc)
+- [Datasets for Computer Vision &lpar;4&rpar;](https://dev.to/hyperkai/datasets-for-computer-vision-4-4050)
+- [Numerical Root-Finding Algorithms: Foundations, Theory, and Advanced Methods. Part 1](https://dev.to/padiazg/numerical-root-finding-algorithms-foundations-theory-and-advanced-methods-part-1-1f31)
 <!-- BLOG-POST-LIST:END -->
 
