@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust Security Architecture for Multi-Cloud Deployments](https://dev.to/iskender83/zero-trust-security-architecture-for-multi-cloud-deployments-1fe6)
-- [A Beginner&#39;s Guide to Docker Compose for Developers](https://dev.to/idsulik/a-beginners-guide-to-docker-compose-for-developers-55dm)
-- [Build Chatbot with Amazon Lex](https://dev.to/debabrata2050/build-chatbot-with-amazon-lex-40n)
-- [Blockchain for Secure Cloud-Based Voting Systems](https://dev.to/iskender83/blockchain-for-secure-cloud-based-voting-systems-573j)
+- [Cloud Automation and Scripting](https://dev.to/iskender83/cloud-automation-and-scripting-3eh7)
+- [Fine-Tuning vs. Retrieval-Augmented Generation &lpar;RAG&rpar;: Enhancing LLMs for Specific Tasks](https://dev.to/ahikmah/fine-tuning-vs-retrieval-augmented-generation-rag-enhancing-llms-for-specific-tasks-2o5p)
+- [Building Resilient Cloud-Native Security Architectures](https://dev.to/iskender83/building-resilient-cloud-native-security-architectures-4i9h)
+- [Fine-Tuning LLM: Transforming General Models into Specialized Experts](https://dev.to/ahikmah/fine-tuning-llm-transforming-general-models-into-specialized-experts-11h)
 <!-- BLOG-POST-LIST:END -->
 
