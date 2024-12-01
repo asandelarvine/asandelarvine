@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #205](https://dev.to/aws/aws-open-source-newsletter-205-1dln)
-- [Python - Level : 1 Tasks](https://dev.to/guru_prasanna_01/python-level-1-tasks-3436)
-- [Show full text on hover with text-overflow: ellipsis](https://dev.to/andrewelans/show-full-text-on-hover-with-text-overflow-ellipsis-560e)
-- [Deep Work vs. Shallow Work: How to Prioritize for Maximum Impact](https://dev.to/harrisonphan9/deep-work-vs-shallow-work-how-to-prioritize-for-maximum-impact-36f4)
+- [Setting Up a Conda Environment for Your Python Projects](https://dev.to/ajmal_hasan/setting-up-a-conda-environment-for-your-python-projects-251d)
+- [The Most Popular Database Caching Strategies Explained](https://dev.to/isaactony/the-most-popular-database-caching-strategies-explained-3joe)
+- [Mastering Performance Optimization in React: A Deep Dive into useCallback and useMemo](https://dev.to/abhijit_panchal_2406/mastering-performance-optimization-in-react-a-deep-dive-into-usecallback-and-usememo-168)
+- [Mastering Micro Frontends: A Modular Approach to Scalable Web Applications](https://dev.to/abhinav_sharma_e01f930be6/mastering-micro-frontends-a-modular-approach-to-scalable-web-applications-30cf)
 <!-- BLOG-POST-LIST:END -->
 
