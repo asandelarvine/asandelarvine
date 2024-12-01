@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Conda Environment for Your Python Projects](https://dev.to/ajmal_hasan/setting-up-a-conda-environment-for-your-python-projects-251d)
-- [The Most Popular Database Caching Strategies Explained](https://dev.to/isaactony/the-most-popular-database-caching-strategies-explained-3joe)
-- [Mastering Performance Optimization in React: A Deep Dive into useCallback and useMemo](https://dev.to/abhijit_panchal_2406/mastering-performance-optimization-in-react-a-deep-dive-into-usecallback-and-usememo-168)
-- [Mastering Micro Frontends: A Modular Approach to Scalable Web Applications](https://dev.to/abhinav_sharma_e01f930be6/mastering-micro-frontends-a-modular-approach-to-scalable-web-applications-30cf)
+- [Zero Trust Security Architecture for Multi-Cloud Deployments](https://dev.to/iskender83/zero-trust-security-architecture-for-multi-cloud-deployments-1fe6)
+- [A Beginner&#39;s Guide to Docker Compose for Developers](https://dev.to/idsulik/a-beginners-guide-to-docker-compose-for-developers-55dm)
+- [Build Chatbot with Amazon Lex](https://dev.to/debabrata2050/build-chatbot-with-amazon-lex-40n)
+- [Blockchain for Secure Cloud-Based Voting Systems](https://dev.to/iskender83/blockchain-for-secure-cloud-based-voting-systems-573j)
 <!-- BLOG-POST-LIST:END -->
 
