@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating Permalinks in VS Code Using hogashi.vscode-copy-github-permalink](https://dev.to/jajera/generating-permalinks-in-vs-code-using-hogashivscode-copy-github-permalink-4p5c)
-- [Boost Your Productivity with VS Code and .vscode for Dev.to Markdown](https://dev.to/jajera/boost-your-productivity-with-vs-code-and-vscode-for-devto-markdown-2plj)
-- [Building a Simple Cloud-Native App with Docker](https://dev.to/jajera/building-a-simple-cloud-native-app-with-docker-4fig)
-- [How to Increase the Scrollback Buffer in VSCode Terminal](https://dev.to/jajera/how-to-increase-the-scrollback-buffer-in-vscode-terminal-7fc)
+- [Как подружить котиков, слонов и китов: тестирование Spring-приложений с Testcontainers 🐱🐘🐋](https://dev.to/easycat/kak-podruzhit-kotikov-slonov-i-kitov-tiestirovaniie-spring-prilozhienii-s-testcontainers-3pkh)
+- [AI Engineer&#39;s Tool Review: Helicone](https://dev.to/shubhsk/ai-engineers-tool-review-helicone-55ff)
+- [Context-menu-Lock](https://dev.to/bylickilabs/context-menu-lock-34ch)
+- [Fix Security Misconfigurations in Laravel for Safer Web Apps](https://dev.to/pentest_testing_corp/fix-security-misconfigurations-in-laravel-for-safer-web-apps-be3)
 <!-- BLOG-POST-LIST:END -->
 
