@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sufficient Software Tests Using Metrics](https://dev.to/sualeh/sufficient-software-tests-using-metrics-36i2)
-- [AI travel Plan using Next.js 15, TailwindCSS, Prisma, Google AI Studio, and Clerk](https://dev.to/saidmounaim/ai-travel-plan-using-nextjs-15-tailwindcss-prisma-google-ai-studio-and-clerk-21jm)
-- [Welcome to My Tech Journey](https://dev.to/teetoflame/welcome-to-my-tech-journey-30d)
-- [JavaScript](https://dev.to/tobias4374f08cc/javascript-4djj)
+- [How We Rebuilt Our Extension for Manifest V3](https://dev.to/jamdotdev/how-we-rebuilt-our-extension-for-manifest-v3-2iga)
+- [Monitoring Queries on PostgreSQL](https://dev.to/tallesl/monitoring-queries-on-postgresql-1nk3)
+- [Debian 12: NVIDIA drivers](https://dev.to/dev-charodeyka/debian-12-nvidia-drivers-18dh)
+- [Be welcome to Not Made by a Human.](https://dev.to/notmadebyahuman/be-welcome-to-not-made-by-a-human-14hi)
 <!-- BLOG-POST-LIST:END -->
 
