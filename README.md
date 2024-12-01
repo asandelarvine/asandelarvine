@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database-as-a-Service &lpar;DBaaS&rpar;](https://dev.to/rednexie/database-as-a-service-dbaas-3lk5)
-- [SQL Interview Questions: A Comprehensive Guide for Developers](https://dev.to/nozibul_islam_113b1d5334f/sql-interview-questions-a-comprehensive-guide-for-developers-5c6d)
-- [Starting my C# journey! 🚀 Looking for YouTube recommendations to learn, but having a mentor would be even better. If you&#39;re also a beginner, let&#39;s connect and grow together. Suggestions and connections are welcome](https://dev.to/gebidan/starting-my-c-journey-looking-for-youtube-recommendations-to-learn-but-having-a-mentor-would-2228)
-- [The Last Crime: A Reflection on Consciousness, Technology, and Humanity](https://dev.to/atallah_anouz_423191e8872/the-last-crimea-reflection-on-consciousness-technology-and-humanity-5af5)
+- [AI-Based Vulnerability Scanning for Cloud Infrastructure](https://dev.to/rednexie/ai-based-vulnerability-scanning-for-cloud-infrastructure-14lj)
+- [Data Governance and Compliance in the Cloud](https://dev.to/rednexie/data-governance-and-compliance-in-the-cloud-1237)
+- [Integrating Blockchain with Cloud for Secure Data Transactions](https://dev.to/rednexie/integrating-blockchain-with-cloud-for-secure-data-transactions-3kcp)
+- [Great fun playing with hypotrochoid](https://dev.to/tthtlc/great-fun-playing-19he)
 <!-- BLOG-POST-LIST:END -->
 
