@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginnings](https://dev.to/cypher-phil/beginnings-3ni2)
-- [Understanding and Solving False Sharing in Multi-threaded Applications with an actual issue I had](https://dev.to/ariasdiniz/understanding-and-solving-false-sharing-in-multi-threaded-applications-with-an-actual-issue-i-had-57c)
-- [React&#39;s harsh reality: A Must-Read Insight by Alex Russell](https://dev.to/mbarzeev/reacts-harsh-reality-a-must-read-insight-by-alex-russell-52lk)
-- [How We Rebuilt Our Extension for Manifest V3](https://dev.to/jamdotdev/how-we-rebuilt-our-extension-for-manifest-v3-2iga)
+- [Automações com Python.](https://dev.to/java2890/automacoes-com-python-3jgd)
+- [Zermatt.dev : A Frontend Framework for Magento](https://dev.to/herveguetin/zermatt-a-frontend-framework-for-magento-developers-5hen)
+- [Telegram bot para replicar sinais no mt5](https://dev.to/java2890/telegram-bot-para-replicar-sinais-no-mt5-2cf1)
+- [Jenkins - 1](https://dev.to/technonotes/jenkins-1-jk6)
 <!-- BLOG-POST-LIST:END -->
 
