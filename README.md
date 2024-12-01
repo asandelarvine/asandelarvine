@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You’re Doing Error-Handling Wrong!](https://dev.to/therealfloatdev/youre-doing-error-handling-wrong-34nn)
-- [Understanding the Concept of VPNs](https://dev.to/vipulkumarsviit/understanding-the-concept-of-vpns-2ej9)
-- [Nurturing the Developer Within: A Journey of Growth and Community](https://dev.to/vidyasagarmsc/nurturing-the-developer-within-a-journey-of-growth-and-2n9o)
-- [Tailwind CSS v4 Beta is Out, New Rust-Based React Framework, BEST JavaScript Animation Library, and more](https://dev.to/thisweekinjavascript/tailwind-css-v4-beta-is-out-new-rust-based-react-framework-best-javascript-animation-library-and-19po)
+- [Understanding the Differences Between ReplicationController, ReplicaSet, and Deployment in Kubernetes](https://dev.to/nishant026/understanding-the-differences-between-replicationcontroller-replicaset-and-deployment-in-202b)
+- [Avoiding Pitfalls in Amazon S3: Handling Case Sensitivity in Python Workflows](https://dev.to/aws-builders/avoiding-pitfalls-in-amazon-s3-handling-case-sensitivity-in-python-workflows-22if)
+- [Creating Custom Validators in Spring Data: A Comprehensive Guide](https://dev.to/parzival_computer/creating-custom-validators-in-spring-data-a-comprehensive-guide-4a50)
+- [Day 43: Evaluation Metrics for LLMs](https://dev.to/nareshnishad/day-43-evaluation-metrics-for-llms-4i68)
 <!-- BLOG-POST-LIST:END -->
 
