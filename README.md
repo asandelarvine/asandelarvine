@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Say No to Magic Values](https://dev.to/crusty-rustacean/just-say-no-to-magic-values-59dg)
-- [Why Are We Still Learning in 2D When the World is 3D?](https://dev.to/jeffsalive/why-are-we-still-learning-in-2d-when-the-world-is-3d-hcd)
-- [Sending message from Telegram bot to users](https://dev.to/xinitd/sending-message-from-telegram-bot-to-users-1g3d)
-- [I know nothing about Pokémon, but maybe one of you guys can help :&rpar;](https://dev.to/best_codes/i-know-nothing-about-pokemon-but-maybe-one-of-you-guys-can-help--55hg)
+- [Roniere Marques: A Jornada de um Developer Full Stack](https://dev.to/ronieremarques/roniere-marques-a-jornada-de-um-developer-full-stack-f17)
+- [50+ ReactJS Interview Questions 2024 | Basic &amp; Advanced with Free PDF Download.](https://dev.to/sudhanshu_developer/50-reactjs-interview-questions-2024-basic-advanced-with-free-pdf-download-3jap)
+- [Explorando la Infraestructura Global de AWS: Regiones, Zonas de Disponibilidad y más](https://dev.to/briansuarezsantiago/explorando-la-infraestructura-global-de-aws-regiones-zonas-de-disponibilidad-y-mas-3p3j)
+- [The best opportunities often come through connections](https://dev.to/jcsmileyjr/the-best-opportunities-often-come-through-connections-2o73)
 <!-- BLOG-POST-LIST:END -->
 
