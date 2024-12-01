@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Token Price Oracle Smart Contract](https://dev.to/marksantiago02/how-to-write-a-token-price-oracle-smart-contract-1oj)
-- [Let&#39;s Learn Polyfill in JavaScript 🚀](https://dev.to/jagroop2001/lets-learn-polyfill-in-javascript-24id)
-- [JavaScript. How to Make a Blazingly Fast Multithreaded Data Grid for 1,000,000 Rows. Part 1/2: The Nuances of Working with DOM](https://dev.to/alexboyko/javascript-how-to-make-a-blazingly-fast-multithreaded-data-grid-for-1000000-rows-part-12-the-3ek5)
-- [Cara Buka Blokir BRImo: Panduan Lengkap dan Praktis](https://dev.to/zoloku/cara-buka-blokir-brimo-panduan-lengkap-dan-praktis-bf0)
+- [AWS open source newsletter, #205](https://dev.to/aws/aws-open-source-newsletter-205-1dln)
+- [Python - Level : 1 Tasks](https://dev.to/guru_prasanna_01/python-level-1-tasks-3436)
+- [Show full text on hover with text-overflow: ellipsis](https://dev.to/andrewelans/show-full-text-on-hover-with-text-overflow-ellipsis-560e)
+- [Deep Work vs. Shallow Work: How to Prioritize for Maximum Impact](https://dev.to/harrisonphan9/deep-work-vs-shallow-work-how-to-prioritize-for-maximum-impact-36f4)
 <!-- BLOG-POST-LIST:END -->
 
