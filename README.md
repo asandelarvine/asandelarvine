@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Development in VSCode Using Devcontainer](https://dev.to/jajera/python-development-in-vscode-using-devcontainer-2ao1)
-- [Learning Input Methods in C](https://dev.to/combustrrr/learning-input-methods-in-c-kci)
-- [How to manage dependencies in Ansible roles?](https://dev.to/labex/how-to-manage-dependencies-in-ansible-roles-21je)
-- [A detailed analysis of Java Object size and its comparision with primitive data types.](https://dev.to/dhanush9952/a-detailed-analysis-of-java-object-size-and-its-comparision-with-primitive-data-types-37i8)
+- [Generating Permalinks in VS Code Using hogashi.vscode-copy-github-permalink](https://dev.to/jajera/generating-permalinks-in-vs-code-using-hogashivscode-copy-github-permalink-4p5c)
+- [Boost Your Productivity with VS Code and .vscode for Dev.to Markdown](https://dev.to/jajera/boost-your-productivity-with-vs-code-and-vscode-for-devto-markdown-2plj)
+- [Building a Simple Cloud-Native App with Docker](https://dev.to/jajera/building-a-simple-cloud-native-app-with-docker-4fig)
+- [How to Increase the Scrollback Buffer in VSCode Terminal](https://dev.to/jajera/how-to-increase-the-scrollback-buffer-in-vscode-terminal-7fc)
 <!-- BLOG-POST-LIST:END -->
 
