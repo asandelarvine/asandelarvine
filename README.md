@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn To Talk to Non-Tech People in Your Team](https://dev.to/canro91/learn-to-talk-to-non-tech-people-in-your-team-4oec)
-- [Day 2: Terminal Gradients 🌈](https://dev.to/valeriavg/day-2-terminal-gradients-53po)
-- [Getting Started with Microsoft Learn Certifications: A Guide for Beginners](https://dev.to/kiran_baliga/getting-started-with-microsoft-learn-certifications-a-guide-for-beginners-1fm5)
-- [UI/UX Testing: Why It’s Important for Your Project](https://dev.to/muhammadalarabi/uiux-testing-why-its-important-for-your-project-3f88)
+- [I&#39;m glad you wrote this, now I won&#39;t regret not knowing this since im so GREEN...](https://dev.to/gremlinmaster/im-glad-you-wrote-this-now-i-wont-regret-not-knowing-this-since-im-so-green-3255)
+- [Introduction to Amazon S3](https://dev.to/elu_olawale/introduction-to-amazon-s3-3g26)
+- [Automated Alerts for High CPU Utilization: Real-Time Email Notifications with Instance Details](https://dev.to/piyush_desai_bddc94d674ad/automated-alerts-for-high-cpu-utilization-real-time-email-notifications-with-instance-details-21e)
+- [Stay ahead in web development: latest news, tools, and insights #61](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-61-4gki)
 <!-- BLOG-POST-LIST:END -->
 
