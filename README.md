@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OSD Final Chapter: Part 2](https://dev.to/amullagaliev/osd-final-chapter-part-2-584a)
-- [HarmonyOS Next Key Asset Storage Development: Performance Optimization and Precautions](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-key-asset-storage-development-performance-optimization-and-precautions-3f29)
-- [Building a Flutter VIN Scanner for Windows Using Dynamsoft Capture Vision C++ SDK](https://dev.to/yushulx/building-a-flutter-vin-scanner-for-windows-using-dynamsoft-capture-vision-c-sdk-4n18)
-- [HarmonyOS Next关键资产存储开发：性能优化与注意事项](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextguan-jian-zi-chan-cun-chu-kai-fa-xing-neng-you-hua-yu-zhu-yi-shi-xiang-559f)
+- [Clojure REPL-Driven Development with VS Code](https://dev.to/dumplingbyte/clojure-repl-driven-development-with-vs-code-133)
+- [4 Steps How Voice Search is Transforming the Energy Industry](https://dev.to/fishbat_7111370c67ddf121e/4-steps-how-voice-search-is-transforming-the-energy-industry-3f9p)
+- [Laravel Mastery | Install and run your first Laravel project](https://dev.to/syamsarosa/laravel-mastery-install-and-run-your-first-laravel-project-3n8b)
+- [Creative Approaches to Testing Desktop Applications](https://dev.to/sureshayyanna/creative-approaches-to-testing-desktop-applications-48n9)
 <!-- BLOG-POST-LIST:END -->
 
