@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Sticker List for Developers Showcasing Creativity and Identity](https://dev.to/vincentme/the-ultimate-sticker-list-for-developers-showcasing-creativity-and-identity-3kdn)
-- [The CSS I Knew Has Evolved: Advanced Features, New Identity](https://dev.to/ismail9k/the-css-i-knew-has-evolved-advanced-features-new-identity-316a)
-- [Event-Driven Architecture, Event Sourcing, and CQRS: How They Work Together](https://dev.to/yasmine_ddec94f4d4/event-driven-architecture-event-sourcing-and-cqrs-how-they-work-together-1bp1)
-- [Cursor AI vs GitHub Copilot: Choosing the Right AI Tool for Developers](https://dev.to/lazyasscoder/cursor-ai-vs-github-copilot-choosing-the-right-ai-tool-for-developers-2262)
+- [Understanding SOLID Principles in PHP](https://dev.to/parzival_computer/understanding-solid-principles-in-php-2fh7)
+- [A brief breakdown of Kubernetes architecture](https://dev.to/olymahmud/a-brief-breakdown-of-kubernetes-architecture-1je7)
+- [Amazon S3: Casos de éxito que inspiran](https://dev.to/briansuarezsantiago/amazon-s3-casos-de-exito-que-inspiran-3158)
+- [New to the computer science world and looking forward to all it holds. Have a wonderful week everyone!](https://dev.to/ju1cyj4y/new-to-the-computer-science-world-and-looking-forward-to-all-it-holds-have-a-wonderful-week-53n4)
 <!-- BLOG-POST-LIST:END -->
 
