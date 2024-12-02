@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Structuring Your React Applications with &quot;Layout Primitives&quot;: Today, let&#39;s focus on the unbeatable &lt;Stack /&gt; 🚀](https://dev.to/maieonbrixx/structuring-your-react-applications-with-layout-primitives-today-lets-focus-on-the-unbeatable-5em3)
-- [Internship for Golang developers!](https://dev.to/mnikalayenka/internship-for-golang-developers-375i)
-- [SQL: Recursive calculation of tree like hierarchical structure #eg83](https://dev.to/esproc_spl/sql-recursive-calculation-of-tree-like-hierarchical-structure-eg83-525b)
-- [How to make Flutter 3.24 run on Windows 7?](https://dev.to/rustdesk/how-to-make-flutter-324-run-on-windows-7-4ocf)
+- [Writing Clean and Efficient JavaScript: 10 Best Practices Every Developer Should Know](https://dev.to/hkp22/writing-clean-and-efficient-javascript-10-best-practices-every-developer-should-know-20be)
+- [From Monolithic to Microservices: Architectures 101](https://dev.to/encore/from-monolithic-to-microservices-architectures-101-3f2e)
+- [The Solid Design Principle — Single Responsibility](https://dev.to/infinitypaul/the-solid-design-principle-single-responsibility-e67)
+- [Laravel Query Builder Security](https://dev.to/infinitypaul/laravel-query-builder-security-3me5)
 <!-- BLOG-POST-LIST:END -->
 
