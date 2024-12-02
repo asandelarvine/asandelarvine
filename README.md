@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é engenheiro de software de alta performance](https://dev.to/devxbr/o-que-e-engenheiro-de-alta-performance-5da4)
-- [O que é engenheiro de alta performance](https://dev.to/devxbr/o-que-e-engenheiro-de-alta-performance-4677)
-- [Step-by-Step Guide to setting Up Terraform, AWS CLI, and VS Code](https://dev.to/linsmed/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-2pml)
-- [Why Developers Are Turning to Bun: The New Hotness in JavaScript 🚀](https://dev.to/joodi/why-developers-are-turning-to-bun-the-new-hotness-in-javascript-2n0h)
+- [Trying something new! 24 days of Docker to go from 0 to Hero :&rpar;](https://dev.to/code42cate/trying-something-new-24-days-of-docker-to-go-from-0-to-hero--lkp)
+- [Advent of Docker: Day 0](https://dev.to/code42cate/advent-of-docker-day-0-5e7d)
+- [Day 1: Introduction to Terraform and Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/yokwejuste/day-1-introduction-to-terraform-and-infrastructure-as-code-iac-5do4)
+- [Rails and Ruby Deprecation Warnings: Why You Should Care and How to Fix Them](https://dev.to/michymono77/rails-and-ruby-deprecation-warnings-stop-ignoring-start-fixing-1kca)
 <!-- BLOG-POST-LIST:END -->
 
