@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Breeze Laravel app on Render - part 1](https://dev.to/lucasltavares/deploying-a-breeze-laravel-app-on-render-part-1-33i0)
-- [Who&#39;s hiring &lpar;December 2024&rpar;](https://dev.to/fmerian/whos-hiring-december-2024-32m9)
-- [&quot;Listen to Yourself&quot;. Event sourcing for Domain Driven Design ... One Domain Event to Rule Them All](https://dev.to/yrafe/listen-to-yourself-one-domain-event-to-rule-them-all-event-sourcing-for-domain-driven-design-4pbc)
-- [Hello Devs, I hope this message finds you well. As I near the completion of my online software development training, I&#39;m working on my final project: a torrent leeching app. The app will utilize ReactJS, NodeJS, and MySQL, and feature magnet linking and](https://dev.to/ayodeji_ajuwon/hello-cartel-i-hope-this-message-finds-you-well-as-i-near-the-completion-of-my-online-software-51lo)
+- [Chat with Your Google Sheets Using ChatGPT: Make Your Data Work for You](https://dev.to/tala/chat-with-your-google-sheets-using-chatgpt-make-your-data-work-for-you-kkl)
+- [Week 6 in DevOps: Advanced Jenkins Configuration and GitLab Integration](https://dev.to/amandeol063/week-6-in-devops-advanced-jenkins-configuration-and-gitlab-integration-e2b)
+- [Utilize Multi-Thread in Javascript - Not About WebWorkers nor WebAssembly](https://dev.to/tomj/utilize-multi-thread-in-javascript-not-about-webworkers-nor-webassembly-2okk)
+- [Scaling E-Commerce Website for Holiday Traffic with NorthBay’s Fully Managed AWS Services](https://dev.to/jessica_williams_8192bc1f/scaling-e-commerce-website-for-holiday-traffic-with-northbays-fully-managed-aws-services-4l38)
 <!-- BLOG-POST-LIST:END -->
 
