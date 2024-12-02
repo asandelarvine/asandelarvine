@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon DevOps Guru for the Serverless applications - Part 14 my wish and improvement list](https://dev.to/aws-heroes/amazon-devops-guru-for-the-serverless-applications-part-14-my-wish-and-improvement-list-hfl)
-- [The Difference Between `-able` and `-tor` in Java: My Visualization](https://dev.to/yo-shi/the-difference-between-able-and-tor-in-java-my-visualization-p8)
-- [#TerraWeekChallenge Day 2:](https://dev.to/oncloud7/terraweekchallenge-day-2-25b7)
-- [🚀 Build a Dynamic InputTags Component with Vue 3 and TypeScript](https://dev.to/blamsa0mine/build-a-dynamic-inputtags-component-with-vue-3-and-typescript-2770)
+- [The Ultimate Sticker List for Developers Showcasing Creativity and Identity](https://dev.to/vincentme/the-ultimate-sticker-list-for-developers-showcasing-creativity-and-identity-3kdn)
+- [The CSS I Knew Has Evolved: Advanced Features, New Identity](https://dev.to/ismail9k/the-css-i-knew-has-evolved-advanced-features-new-identity-316a)
+- [Event-Driven Architecture, Event Sourcing, and CQRS: How They Work Together](https://dev.to/yasmine_ddec94f4d4/event-driven-architecture-event-sourcing-and-cqrs-how-they-work-together-1bp1)
+- [Cursor AI vs GitHub Copilot: Choosing the Right AI Tool for Developers](https://dev.to/lazyasscoder/cursor-ai-vs-github-copilot-choosing-the-right-ai-tool-for-developers-2262)
 <!-- BLOG-POST-LIST:END -->
 
