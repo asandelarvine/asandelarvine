@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Scroll Grid](https://dev.to/madsstoumann/creating-a-scroll-grid-en5)
-- [PHP vs Python vs Node.js: Which Server-Side Scripting Language Is Best for Your Project?](https://dev.to/yasmine_ddec94f4d4/php-vs-python-vs-nodejs-which-server-side-scripting-language-is-best-for-your-project-2i4f)
-- [Tackling CPU Throttling in Kubernetes for Better Application Performance](https://dev.to/causely/tackling-cpu-throttling-in-kubernetes-for-better-application-performance-1dko)
-- [What is Full-Stack Development? An Introductory Guide](https://dev.to/_jasverma/what-is-full-stack-development-an-introductory-guide-40j2)
+- [O que é engenheiro de software de alta performance](https://dev.to/devxbr/o-que-e-engenheiro-de-alta-performance-5da4)
+- [O que é engenheiro de alta performance](https://dev.to/devxbr/o-que-e-engenheiro-de-alta-performance-4677)
+- [Step-by-Step Guide to setting Up Terraform, AWS CLI, and VS Code](https://dev.to/linsmed/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-2pml)
+- [Why Developers Are Turning to Bun: The New Hotness in JavaScript 🚀](https://dev.to/joodi/why-developers-are-turning-to-bun-the-new-hotness-in-javascript-2n0h)
 <!-- BLOG-POST-LIST:END -->
 
