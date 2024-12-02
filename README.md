@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying something new! 24 days of Docker to go from 0 to Hero :&rpar;](https://dev.to/code42cate/trying-something-new-24-days-of-docker-to-go-from-0-to-hero--lkp)
-- [Advent of Docker: Day 0](https://dev.to/code42cate/advent-of-docker-day-0-5e7d)
-- [Day 1: Introduction to Terraform and Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/yokwejuste/day-1-introduction-to-terraform-and-infrastructure-as-code-iac-5do4)
-- [Rails and Ruby Deprecation Warnings: Why You Should Care and How to Fix Them](https://dev.to/michymono77/rails-and-ruby-deprecation-warnings-stop-ignoring-start-fixing-1kca)
+- [Steps to follow to become a modern QA Engineer](https://dev.to/qalogy/steps-to-follow-to-become-a-modern-qa-engineer-200l)
+- [SQL Exercicios.](https://dev.to/java2890/sql-exercicios-5724)
+- [5 Ways Developers Can Gear Up for an Amazing 2025](https://dev.to/respect17/5-ways-developers-can-gear-up-for-an-amazing-2025-1pkc)
+- [How to Create a Magical Christmas Scene with Animated Snowflakes and Santa in JavaScript](https://dev.to/gladiatorsbattle/how-to-create-a-magical-christmas-scene-with-animated-snowflakes-and-santa-in-javascript-1375)
 <!-- BLOG-POST-LIST:END -->
 
