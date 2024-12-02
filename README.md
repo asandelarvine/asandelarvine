@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A very helpful tool for your websites](https://dev.to/carrie_luo1/a-very-helpful-tool-for-your-websites-2hgk)
-- [How to Update SSL Certificate in SafeLine WAF through a File](https://dev.to/carrie_luo1/how-to-update-ssl-certificate-in-safeline-waf-through-a-file-5155)
-- [Devtools Startup Ideas: Build A Markdown Editor With Ruby On Rails And Redis](https://dev.to/dumebii/devtools-startup-ideas-build-a-markdown-editor-with-ruby-on-rails-and-redis-2fnd)
-- [Understanding Rate Limiting: A Guide to Protecting Your APIs and Applications](https://dev.to/mspilari/understanding-rate-limiting-a-guide-to-protecting-your-apis-and-applications-254c)
+- [Deploying a Breeze Laravel app on Render - part 1](https://dev.to/lucasltavares/deploying-a-breeze-laravel-app-on-render-part-1-33i0)
+- [Who&#39;s hiring &lpar;December 2024&rpar;](https://dev.to/fmerian/whos-hiring-december-2024-32m9)
+- [&quot;Listen to Yourself&quot;. Event sourcing for Domain Driven Design ... One Domain Event to Rule Them All](https://dev.to/yrafe/listen-to-yourself-one-domain-event-to-rule-them-all-event-sourcing-for-domain-driven-design-4pbc)
+- [Hello Devs, I hope this message finds you well. As I near the completion of my online software development training, I&#39;m working on my final project: a torrent leeching app. The app will utilize ReactJS, NodeJS, and MySQL, and feature magnet linking and](https://dev.to/ayodeji_ajuwon/hello-cartel-i-hope-this-message-finds-you-well-as-i-near-the-completion-of-my-online-software-51lo)
 <!-- BLOG-POST-LIST:END -->
 
