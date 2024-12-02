@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m glad you wrote this, now I won&#39;t regret not knowing this since im so GREEN...](https://dev.to/gremlinmaster/im-glad-you-wrote-this-now-i-wont-regret-not-knowing-this-since-im-so-green-3255)
-- [Introduction to Amazon S3](https://dev.to/elu_olawale/introduction-to-amazon-s3-3g26)
-- [Automated Alerts for High CPU Utilization: Real-Time Email Notifications with Instance Details](https://dev.to/piyush_desai_bddc94d674ad/automated-alerts-for-high-cpu-utilization-real-time-email-notifications-with-instance-details-21e)
-- [Stay ahead in web development: latest news, tools, and insights #61](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-61-4gki)
+- [DevOps: Shift Right for Real-World Validation](https://dev.to/jajera/devops-shift-right-for-real-world-validation-2km0)
+- [DevOps: Shift Left vs Shift Right – What’s the Difference?](https://dev.to/jajera/devops-shift-left-vs-shift-right-whats-the-difference-4f7i)
+- [DevOps: Shift Left for Early Testing and Security](https://dev.to/jajera/devops-shift-left-for-early-testing-and-security-2gf7)
+- [Building Scalable and Cost-Efficient SaaS: The Architecture Behind Fitly Space](https://dev.to/lotfijb/building-scalable-and-cost-efficient-saas-the-architecture-behind-fitly-space-5bj7)
 <!-- BLOG-POST-LIST:END -->
 
