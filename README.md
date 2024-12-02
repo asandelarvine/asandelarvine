@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Here is a 450-Phrase Article on Understanding what an API is In Python:](https://dev.to/clay26schwarz/here-is-a-450-phrase-article-on-understanding-what-an-api-is-in-python-31j6)
-- [Database branching in Django apps using GitHub actions](https://dev.to/hackmamba/database-branching-in-django-apps-using-github-actions-3lgh)
-- [Here is a 450-Phrase Article on Understanding what an API is In Python:](https://dev.to/clay26schwarz/here-is-a-450-phrase-article-on-understanding-what-an-api-is-in-python-2cmm)
-- [Why AI Agents Are Not Ready to Get Real Jobs Done — Yet](https://dev.to/erenkucuker_1/why-ai-agents-are-not-ready-to-get-real-jobs-done-yet-1ehn)
+- [Creating a Scroll Grid](https://dev.to/madsstoumann/creating-a-scroll-grid-en5)
+- [PHP vs Python vs Node.js: Which Server-Side Scripting Language Is Best for Your Project?](https://dev.to/yasmine_ddec94f4d4/php-vs-python-vs-nodejs-which-server-side-scripting-language-is-best-for-your-project-2i4f)
+- [Tackling CPU Throttling in Kubernetes for Better Application Performance](https://dev.to/causely/tackling-cpu-throttling-in-kubernetes-for-better-application-performance-1dko)
+- [What is Full-Stack Development? An Introductory Guide](https://dev.to/_jasverma/what-is-full-stack-development-an-introductory-guide-40j2)
 <!-- BLOG-POST-LIST:END -->
 
