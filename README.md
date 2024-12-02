@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Digital Marketing institute in Sikandrabad](https://dev.to/rihankhan02/best-digital-marketing-institute-in-sikandrabad-4gc0)
-- [Perl Weekly #697 - Advent Calendars 2024](https://dev.to/szabgab/perl-weekly-697-advent-calendars-2024-2pph)
-- [WebSocket broadcasting with JavaScript and Bun](https://dev.to/robertobutti/websocket-broadcasting-with-javascript-and-bun-3mkf)
-- [Color Palette is served with ShadCn Theme Editor](https://dev.to/giuliano1993/color-palette-is-served-with-shadcn-theme-editor-1jjc)
+- [Structuring Your React Applications with &quot;Layout Primitives&quot;: Today, let&#39;s focus on the unbeatable &lt;Stack /&gt; 🚀](https://dev.to/maieonbrixx/structuring-your-react-applications-with-layout-primitives-today-lets-focus-on-the-unbeatable-5em3)
+- [Internship for Golang developers!](https://dev.to/mnikalayenka/internship-for-golang-developers-375i)
+- [SQL: Recursive calculation of tree like hierarchical structure #eg83](https://dev.to/esproc_spl/sql-recursive-calculation-of-tree-like-hierarchical-structure-eg83-525b)
+- [How to make Flutter 3.24 run on Windows 7?](https://dev.to/rustdesk/how-to-make-flutter-324-run-on-windows-7-4ocf)
 <!-- BLOG-POST-LIST:END -->
 
