@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#108 — Sorting of Row-Based Data](https://dev.to/judith677/108-sorting-of-row-based-data-3alg)
-- [Part 8: SQL Injection Series - Advanced Prevention Techniques and Real-World Applications](https://dev.to/trixsec/part-8-sql-injection-series-advanced-prevention-techniques-and-real-world-applications-5bc6)
-- [Steps to Use .NET on the Forlinx OKMX6UL Series Development Board &lpar;Linux4.1.15&rpar;](https://dev.to/forlinx_jason/steps-to-use-net-on-the-forlinx-okmx6ul-series-development-board-linux4115-4oa8)
-- [Part 7: SQL Injection Series: Advanced SQL Injection Techniques](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-6-advanced-sql-injection-techniques-20mf)
+- [Learn To Talk to Non-Tech People in Your Team](https://dev.to/canro91/learn-to-talk-to-non-tech-people-in-your-team-4oec)
+- [Day 2: Terminal Gradients 🌈](https://dev.to/valeriavg/day-2-terminal-gradients-53po)
+- [Getting Started with Microsoft Learn Certifications: A Guide for Beginners](https://dev.to/kiran_baliga/getting-started-with-microsoft-learn-certifications-a-guide-for-beginners-1fm5)
+- [UI/UX Testing: Why It’s Important for Your Project](https://dev.to/muhammadalarabi/uiux-testing-why-its-important-for-your-project-3f88)
 <!-- BLOG-POST-LIST:END -->
 
