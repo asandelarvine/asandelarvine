@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open-source social media scheduling, and it blew up 💣](https://dev.to/nevodavid/i-built-an-open-source-social-media-scheduling-and-it-blew-up-415e)
-- [Java for DSA Part 1](https://dev.to/yashranjit19/java-for-dsa-part-1-2ld)
-- [Craft Your Own Language: Build a JavaScript Transpiler from Scratch](https://dev.to/aaravjoshi/craft-your-own-language-build-a-javascript-transpiler-from-scratch-1dg9)
-- [Building a Perplexity-like Open Source AI Search with SWIRL](https://dev.to/srbhr/building-a-perplexity-like-open-source-ai-search-with-swirl-3h7p)
+- [Amazon DevOps Guru for the Serverless applications - Part 14 my wish and improvement list](https://dev.to/aws-heroes/amazon-devops-guru-for-the-serverless-applications-part-14-my-wish-and-improvement-list-hfl)
+- [The Difference Between `-able` and `-tor` in Java: My Visualization](https://dev.to/yo-shi/the-difference-between-able-and-tor-in-java-my-visualization-p8)
+- [#TerraWeekChallenge Day 2:](https://dev.to/oncloud7/terraweekchallenge-day-2-25b7)
+- [🚀 Build a Dynamic InputTags Component with Vue 3 and TypeScript](https://dev.to/blamsa0mine/build-a-dynamic-inputtags-component-with-vue-3-and-typescript-2770)
 <!-- BLOG-POST-LIST:END -->
 
