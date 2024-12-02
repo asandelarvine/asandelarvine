@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat with Your Google Sheets Using ChatGPT: Make Your Data Work for You](https://dev.to/tala/chat-with-your-google-sheets-using-chatgpt-make-your-data-work-for-you-kkl)
-- [Week 6 in DevOps: Advanced Jenkins Configuration and GitLab Integration](https://dev.to/amandeol063/week-6-in-devops-advanced-jenkins-configuration-and-gitlab-integration-e2b)
-- [Utilize Multi-Thread in Javascript - Not About WebWorkers nor WebAssembly](https://dev.to/tomj/utilize-multi-thread-in-javascript-not-about-webworkers-nor-webassembly-2okk)
-- [Scaling E-Commerce Website for Holiday Traffic with NorthBay’s Fully Managed AWS Services](https://dev.to/jessica_williams_8192bc1f/scaling-e-commerce-website-for-holiday-traffic-with-northbays-fully-managed-aws-services-4l38)
+- [I built an open-source social media scheduling, and it blew up 💣](https://dev.to/nevodavid/i-built-an-open-source-social-media-scheduling-and-it-blew-up-415e)
+- [Java for DSA Part 1](https://dev.to/yashranjit19/java-for-dsa-part-1-2ld)
+- [Craft Your Own Language: Build a JavaScript Transpiler from Scratch](https://dev.to/aaravjoshi/craft-your-own-language-build-a-javascript-transpiler-from-scratch-1dg9)
+- [Building a Perplexity-like Open Source AI Search with SWIRL](https://dev.to/srbhr/building-a-perplexity-like-open-source-ai-search-with-swirl-3h7p)
 <!-- BLOG-POST-LIST:END -->
 
