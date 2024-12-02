@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncommon UI: Can accessible web patterns keep up?](https://dev.to/amandamandashow/uncommon-ui-can-accessible-web-patterns-keep-up-4fkk)
-- [Growth Hacking](https://dev.to/java2890/growth-hacking-4jbj)
-- [C++ and ModernCLI](https://dev.to/dyfet/c-and-moderncli-517f)
-- [Construyendo un Portfolio Moderno con Astro y Tailwind CSS](https://dev.to/goaqidev/-construyendo-un-portfolio-moderno-con-astro-y-tailwind-css-20ni)
+- [OSD Final Chapter: Part 2](https://dev.to/amullagaliev/osd-final-chapter-part-2-584a)
+- [HarmonyOS Next Key Asset Storage Development: Performance Optimization and Precautions](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-key-asset-storage-development-performance-optimization-and-precautions-3f29)
+- [Building a Flutter VIN Scanner for Windows Using Dynamsoft Capture Vision C++ SDK](https://dev.to/yushulx/building-a-flutter-vin-scanner-for-windows-using-dynamsoft-capture-vision-c-sdk-4n18)
+- [HarmonyOS Next关键资产存储开发：性能优化与注意事项](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextguan-jian-zi-chan-cun-chu-kai-fa-xing-neng-you-hua-yu-zhu-yi-shi-xiang-559f)
 <!-- BLOG-POST-LIST:END -->
 
