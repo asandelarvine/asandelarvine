@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps: Shift Right for Real-World Validation](https://dev.to/jajera/devops-shift-right-for-real-world-validation-2km0)
-- [DevOps: Shift Left vs Shift Right – What’s the Difference?](https://dev.to/jajera/devops-shift-left-vs-shift-right-whats-the-difference-4f7i)
-- [DevOps: Shift Left for Early Testing and Security](https://dev.to/jajera/devops-shift-left-for-early-testing-and-security-2gf7)
-- [Building Scalable and Cost-Efficient SaaS: The Architecture Behind Fitly Space](https://dev.to/lotfijb/building-scalable-and-cost-efficient-saas-the-architecture-behind-fitly-space-5bj7)
+- [Best Digital Marketing institute in Sikandrabad](https://dev.to/rihankhan02/best-digital-marketing-institute-in-sikandrabad-4gc0)
+- [Perl Weekly #697 - Advent Calendars 2024](https://dev.to/szabgab/perl-weekly-697-advent-calendars-2024-2pph)
+- [WebSocket broadcasting with JavaScript and Bun](https://dev.to/robertobutti/websocket-broadcasting-with-javascript-and-bun-3mkf)
+- [Color Palette is served with ShadCn Theme Editor](https://dev.to/giuliano1993/color-palette-is-served-with-shadcn-theme-editor-1jjc)
 <!-- BLOG-POST-LIST:END -->
 
