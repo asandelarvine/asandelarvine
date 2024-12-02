@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SOLID Principles in PHP](https://dev.to/parzival_computer/understanding-solid-principles-in-php-2fh7)
-- [A brief breakdown of Kubernetes architecture](https://dev.to/olymahmud/a-brief-breakdown-of-kubernetes-architecture-1je7)
-- [Amazon S3: Casos de éxito que inspiran](https://dev.to/briansuarezsantiago/amazon-s3-casos-de-exito-que-inspiran-3158)
-- [New to the computer science world and looking forward to all it holds. Have a wonderful week everyone!](https://dev.to/ju1cyj4y/new-to-the-computer-science-world-and-looking-forward-to-all-it-holds-have-a-wonderful-week-53n4)
+- [Day 14 - Looping](https://dev.to/lakshmi_prithanadesan_32/day-14-looping-8jm)
+- [C# 13: How params Collections Transform Development](https://dev.to/bytehide/c-13-how-params-collections-transform-development-1llg)
+- [50/365 | ¥10M Job Challenge - Focus on the process](https://dev.to/kameken100/50365-y10m-job-challenge-focus-on-the-process-4fbh)
+- [Day 1: Getting Started with Python](https://dev.to/arjun98k/day-1-getting-started-with-python-53km)
 <!-- BLOG-POST-LIST:END -->
 
