@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Clean and Efficient JavaScript: 10 Best Practices Every Developer Should Know](https://dev.to/hkp22/writing-clean-and-efficient-javascript-10-best-practices-every-developer-should-know-20be)
-- [From Monolithic to Microservices: Architectures 101](https://dev.to/encore/from-monolithic-to-microservices-architectures-101-3f2e)
-- [The Solid Design Principle — Single Responsibility](https://dev.to/infinitypaul/the-solid-design-principle-single-responsibility-e67)
-- [Laravel Query Builder Security](https://dev.to/infinitypaul/laravel-query-builder-security-3me5)
+- [A very helpful tool for your websites](https://dev.to/carrie_luo1/a-very-helpful-tool-for-your-websites-2hgk)
+- [How to Update SSL Certificate in SafeLine WAF through a File](https://dev.to/carrie_luo1/how-to-update-ssl-certificate-in-safeline-waf-through-a-file-5155)
+- [Devtools Startup Ideas: Build A Markdown Editor With Ruby On Rails And Redis](https://dev.to/dumebii/devtools-startup-ideas-build-a-markdown-editor-with-ruby-on-rails-and-redis-2fnd)
+- [Understanding Rate Limiting: A Guide to Protecting Your APIs and Applications](https://dev.to/mspilari/understanding-rate-limiting-a-guide-to-protecting-your-apis-and-applications-254c)
 <!-- BLOG-POST-LIST:END -->
 
