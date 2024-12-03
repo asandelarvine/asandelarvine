@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [re:Invent 2024 Keynotes](https://dev.to/aws-espanol/reinvent-2024-keynotes-1lg0)
-- [Minikube....](https://dev.to/fazly_fathhy/minikube-2hhk)
-- [[Boost]](https://dev.to/rym_michaut/-4loi)
-- [Unleash Spring Boot&#39;s Scheduling Superpowers: Advanced Tricks for Dynamic Tasks](https://dev.to/aaravjoshi/unleash-spring-boots-scheduling-superpowers-advanced-tricks-for-dynamic-tasks-21h5)
+- [Posts about music and code always grab my attention!](https://dev.to/jess/posts-about-music-and-code-always-grab-my-attention-2302)
+- [The Power of Low-Code in Creating Workflow Applications](https://dev.to/ai-info/the-power-of-low-code-in-creating-workflow-applications-3mbj)
+- [Test Page Print: Your Complete Guide to Troubleshooting Printers](https://dev.to/tobbystalin/test-page-print-your-complete-guide-to-troubleshooting-printers-1o5p)
+- [Today is the International Day of Persons with Disabilities](https://dev.to/tatyanabayramova/today-is-the-international-day-of-persons-with-disabilities-3c27)
 <!-- BLOG-POST-LIST:END -->
 
