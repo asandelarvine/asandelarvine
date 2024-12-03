@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Backlinking Strategy For SEO](https://dev.to/dumebii/the-best-backlinking-strategy-for-seo-163m)
-- [Key Considerations for Using .NET in Cloud Native Development to Ensure Flexibility and Scalability](https://dev.to/marufhossain/key-considerations-for-using-net-in-cloud-native-development-to-ensure-flexibility-and-scalability-19kd)
-- [How to Thoroughly Cancel All AWS Services: A Step-by-Step Guide](https://dev.to/billgist/how-to-thoroughly-cancel-all-aws-services-a-step-by-step-guide-3gl3)
-- [Tesla Optimus showed off new hands](https://dev.to/devsk001/tesla-optimus-showed-off-new-hands-1d49)
+- [re:Invent 2024 Keynotes](https://dev.to/aws-espanol/reinvent-2024-keynotes-1lg0)
+- [Minikube....](https://dev.to/fazly_fathhy/minikube-2hhk)
+- [[Boost]](https://dev.to/rym_michaut/-4loi)
+- [Unleash Spring Boot&#39;s Scheduling Superpowers: Advanced Tricks for Dynamic Tasks](https://dev.to/aaravjoshi/unleash-spring-boots-scheduling-superpowers-advanced-tricks-for-dynamic-tasks-21h5)
 <!-- BLOG-POST-LIST:END -->
 
