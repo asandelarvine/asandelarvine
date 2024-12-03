@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Syntax and Variables](https://dev.to/jeremycmorgan/understanding-python-syntax-and-variables-1m0m)
-- [0.4 - week - 2 - Progress](https://dev.to/krinskumar/04-week-2-progress-1i3d)
-- [Blazor and Single-Page Applications &lpar;SPA&rpar;](https://dev.to/dazevedo/blazor-and-single-page-applications-spa-5d8h)
-- [Matt Garman keynote takeways](https://dev.to/martinnanchev/matt-garman-keynote-takeways-3hjc)
+- [Deus in Machina: Pinging Jesus in the Digital Confessional](https://dev.to/hacknip/deus-in-machina-pinging-jesus-in-the-digital-confessional-2hfd)
+- [Really happy to see this get picked up from the community 🤗](https://dev.to/jess/really-happy-to-see-this-get-picked-up-from-the-community-7mg)
+- [Master AWS Containers: Your 15-Day Journey from Beginner to Expert](https://dev.to/vellanki/master-aws-containers-your-15-day-journey-from-beginner-to-expert-5026)
+- [Release 0.4 Progress](https://dev.to/aamfahim/release-04-progress-5b2k)
 <!-- BLOG-POST-LIST:END -->
 
