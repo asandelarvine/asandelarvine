@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Serverless Computing with AWS Lambda 🚀](https://dev.to/info_generalhazedawn_a3d/the-power-of-serverless-computing-with-aws-lambda-n4e)
-- [Part 1: Cross-Site Scripting &lpar;XSS&rpar; Series - Introduction to Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/part-1-introduction-to-cross-site-scripting-xss-22g9)
-- [Setting Boundaries: Protecting Your Time and Focus ⏳](https://dev.to/harrisonphan9/setting-boundaries-protecting-your-time-and-focus-3b6d)
-- [10 Best JavaScript Minifier Tools to Boost Website Speed](https://dev.to/codeitbro/10-best-javascript-minifier-tools-to-boost-website-speed-1jk1)
+- [Top 10 Build Management Tools for Developers](https://dev.to/apilover/top-10-build-management-tools-for-developers-m0i)
+- [How to Control Delta Robotic Arm by EtherCAT Motion Controller?](https://dev.to/zmotion_controller/how-to-control-delta-robotic-arm-by-ethercat-motion-controller-3c8p)
+- [Best Project Portfolio Management Software: 3 Amazing Solutions for Project Teams](https://dev.to/thomasy0ung/best-project-portfolio-management-software-3-amazing-solutions-for-project-teams-2n3c)
+- [Designing a Scalable Database System for High-Volume Data with Real-Time Analytics](https://dev.to/midnightasc/designing-a-scalable-database-system-for-high-volume-data-with-real-time-analytics-5eo3)
 <!-- BLOG-POST-LIST:END -->
 
