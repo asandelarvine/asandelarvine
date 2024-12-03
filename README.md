@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is WireGuard Secure Enough to Safeguard Your Information](https://dev.to/swiftproxy9572/is-wireguard-secure-enough-to-safeguard-your-information-1d7f)
-- [Test All your Business Logic in less than 1 second](https://dev.to/etienneleba/test-all-your-business-logic-in-less-than-1-second-2n84)
-- [The Ultimate Guide to Mobile App Development Process: A Step-by-Step Guide](https://dev.to/evelynwyatt/the-ultimate-guide-to-mobile-app-development-process-a-step-by-step-guide-1fj)
-- [How Startups Can Create a Winning Commercialization Plan While Avoiding Copyright Issues](https://dev.to/wil_jacques_f207e23e43bf5/how-startups-can-create-a-winning-commercialization-plan-while-avoiding-copyright-issues-25ga)
+- [Join the Journey: Build an Exciting Tech Project with Us! 🚀](https://dev.to/gleb_galkin/join-the-journey-build-an-exciting-tech-project-with-us-2gcd)
+- [405 Error: Solution](https://dev.to/devmercy/405-error-solution-5cc9)
+- [Clean your dockers trash](https://dev.to/jagedn/clean-your-dockers-trash-1j50)
+- [HTTP Status 405 - Method Not Allowed Error for Rest API -&gt; Solution](https://dev.to/devmercy/http-status-405-method-not-allowed-error-for-rest-api-solution-1l5e)
 <!-- BLOG-POST-LIST:END -->
 
