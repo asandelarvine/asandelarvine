@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover how transitioning from monolithic to microservices can revolutionize your application&#39;s scalability, performance, and resilience!](https://dev.to/lorebrada00/discover-how-transitioning-from-monolithic-to-microservices-can-revolutionize-your-applications-9o4)
-- [Handling Distributed Transactions in Microservices: The SAGA Pattern Explained 🚀](https://dev.to/cortexflow/handling-distributed-transactions-in-microservices-the-saga-pattern-explained-33j8)
-- [Git clone - that repo is too big : HELP!](https://dev.to/danuw/git-clone-that-repo-is-too-big-help-4chn)
-- [What is the Scope Chain and How Does It Work?](https://dev.to/wallacefreitas/what-is-the-scope-chain-and-how-does-it-work-52e3)
+- [Making An LLM A Data Analysis Intern &lpar;Assistant Config&rpar;](https://dev.to/danielrosehill/making-an-llm-a-data-analysis-intern-assistant-config-444o)
+- [Revisiting Two&#39;s complement: A demonstration using Java](https://dev.to/joao9aulo/revisitando-complemento-a-dois-demonstrando-a-tecnica-com-auxilio-da-linguagem-java-25bo)
+- [FLUX Tools Complete Tutorial with SwarmUI : Outpainting, Inpainting, Redux Re-Imagine + Combine Images, Depth &amp; Canny](https://dev.to/furkangozukara/flux-tools-complete-tutorial-with-swarmui-outpainting-inpainting-redux-re-imagine-combine-45jl)
+- [Yet another Angular article, part 4 : Input](https://dev.to/benjamin_richard/yet-another-angular-article-part-4-input-4alb)
 <!-- BLOG-POST-LIST:END -->
 
