@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making An LLM A Data Analysis Intern &lpar;Assistant Config&rpar;](https://dev.to/danielrosehill/making-an-llm-a-data-analysis-intern-assistant-config-444o)
-- [Revisiting Two&#39;s complement: A demonstration using Java](https://dev.to/joao9aulo/revisitando-complemento-a-dois-demonstrando-a-tecnica-com-auxilio-da-linguagem-java-25bo)
-- [FLUX Tools Complete Tutorial with SwarmUI : Outpainting, Inpainting, Redux Re-Imagine + Combine Images, Depth &amp; Canny](https://dev.to/furkangozukara/flux-tools-complete-tutorial-with-swarmui-outpainting-inpainting-redux-re-imagine-combine-45jl)
-- [Yet another Angular article, part 4 : Input](https://dev.to/benjamin_richard/yet-another-angular-article-part-4-input-4alb)
+- [GraphQL vs REST: When to Choose Which for Your Node.js Backend](https://dev.to/ivmarcos/graphql-vs-rest-when-to-choose-which-for-your-nodejs-backend-198m)
+- [Introduction to Infrastructure-as-Code &lpar;IaC&rpar; with AWS CloudFormation](https://dev.to/briansuarezsantiago/introduction-to-infrastructure-as-code-iac-with-aws-cloudformation-28dn)
+- [Patrones de Arquitectura: Guía de inicio](https://dev.to/goaqidev/patrones-de-arquitectura-guia-de-inicio-53ha)
+- [Thanks again everyone :D](https://dev.to/best_codes/thanks-again-everyone-d-2m7o)
 <!-- BLOG-POST-LIST:END -->
 
