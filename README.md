@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Digital Dungeon Master with Semantic Kernel, C#, and Azure](https://dev.to/leading-edje/building-a-digital-dungeon-master-with-semantic-kernel-c-and-azure-cgk)
-- [The 7 Best AI Tools to Help Students Learn Anything Faster](https://dev.to/timesofasi/the-7-best-ai-tools-to-help-students-learn-anything-faster-2oel)
-- [#109 — Sorting of Row-Based Data — by the Combination of Multiple Columns](https://dev.to/judith677/109-sorting-of-row-based-data-by-the-combination-of-multiple-columns-142j)
-- [𝗦𝗲𝗿𝘃𝗲𝗿-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 𝘃𝘀 𝗖𝗹𝗶𝗲𝗻𝘁-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 : 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗦𝗵𝗼𝘂𝗹𝗱 𝗪𝗲 𝗖𝗵𝗼𝗼𝘀𝗲? 🤔](https://dev.to/apurvupadhyay/--3j8a)
+- [8 Best Mass Mailing Service Providers To Hit Their Inbox in 2025](https://dev.to/sam_devid_65bbbe34ab06c1a/8-best-mass-mailing-service-providers-to-hit-their-inbox-in-2025-217o)
+- [Day 3: JS Scripts 🚀](https://dev.to/valeriavg/day-3-js-scripts-4mho)
+- [How to Change Website Template in WordPress: A Beginner&#39;s Guide](https://dev.to/cozy_wordpress/how-to-change-website-template-in-wordpress-a-beginners-guide-i76)
+- [Wireshark Sniffing: Capturing and Analyzing Network Data Like a Pro](https://dev.to/s3cloudhub/wireshark-sniffing-capturing-and-analyzing-network-data-like-a-pro-2adi)
 <!-- BLOG-POST-LIST:END -->
 
