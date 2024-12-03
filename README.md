@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Best Mass Mailing Service Providers To Hit Their Inbox in 2025](https://dev.to/sam_devid_65bbbe34ab06c1a/8-best-mass-mailing-service-providers-to-hit-their-inbox-in-2025-217o)
-- [Day 3: JS Scripts 🚀](https://dev.to/valeriavg/day-3-js-scripts-4mho)
-- [How to Change Website Template in WordPress: A Beginner&#39;s Guide](https://dev.to/cozy_wordpress/how-to-change-website-template-in-wordpress-a-beginners-guide-i76)
-- [Wireshark Sniffing: Capturing and Analyzing Network Data Like a Pro](https://dev.to/s3cloudhub/wireshark-sniffing-capturing-and-analyzing-network-data-like-a-pro-2adi)
+- [The Power of Serverless Computing with AWS Lambda 🚀](https://dev.to/info_generalhazedawn_a3d/the-power-of-serverless-computing-with-aws-lambda-n4e)
+- [Part 1: Cross-Site Scripting &lpar;XSS&rpar; Series - Introduction to Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/part-1-introduction-to-cross-site-scripting-xss-22g9)
+- [Setting Boundaries: Protecting Your Time and Focus ⏳](https://dev.to/harrisonphan9/setting-boundaries-protecting-your-time-and-focus-3b6d)
+- [10 Best JavaScript Minifier Tools to Boost Website Speed](https://dev.to/codeitbro/10-best-javascript-minifier-tools-to-boost-website-speed-1jk1)
 <!-- BLOG-POST-LIST:END -->
 
