@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Log Analysis | Sysmon | Blue Team Labs Online](https://dev.to/mihika/log-analysis-sysmon-blue-team-labs-online-484k)
-- [Which Is the Best Cloud Data Warehouse Solution for Your Business?](https://dev.to/harman_diaz/which-is-the-best-cloud-data-warehouse-solution-for-your-business-5a2h)
-- [Clip-Path Circle Reveal Animation With Mouse Movement](https://dev.to/plsankar/clip-path-circle-reveal-animation-with-mouse-movement-250d)
-- [Where to start ?](https://dev.to/ybenitezf/where-to-start--4i3h)
+- [Amazon Aurora DSQL: Which PostgreSQL Service Should I Use on AWS ?](https://dev.to/aws-heroes/amazon-aurora-dsql-which-postgresql-service-should-i-use-on-aws--1598)
+- [Supercharge your HTML with mizu.js!](https://dev.to/lowlighter/supercharge-your-html-with-mizujs-2djf)
+- [Understanding Accessible Names in HTML](https://dev.to/ibn_abubakre/understanding-accessible-names-in-html-562)
+- [Seaborn VS Matplotlib](https://dev.to/atifwattoo/seaborn-vs-matplotlib-4g0b)
 <!-- BLOG-POST-LIST:END -->
 
