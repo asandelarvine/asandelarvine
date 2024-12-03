@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Steps to follow to become a modern QA Engineer](https://dev.to/qalogy/steps-to-follow-to-become-a-modern-qa-engineer-200l)
-- [SQL Exercicios.](https://dev.to/java2890/sql-exercicios-5724)
-- [5 Ways Developers Can Gear Up for an Amazing 2025](https://dev.to/respect17/5-ways-developers-can-gear-up-for-an-amazing-2025-1pkc)
-- [How to Create a Magical Christmas Scene with Animated Snowflakes and Santa in JavaScript](https://dev.to/gladiatorsbattle/how-to-create-a-magical-christmas-scene-with-animated-snowflakes-and-santa-in-javascript-1375)
+- [𝗦𝗲𝗿𝘃𝗲𝗿-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 𝘃𝘀 𝗖𝗹𝗶𝗲𝗻𝘁-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 : 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗦𝗵𝗼𝘂𝗹𝗱 𝗪𝗲 𝗖𝗵𝗼𝗼𝘀𝗲? 🤔](https://dev.to/apurvupadhyay/--3j8a)
+- [Facade Pattern](https://dev.to/sota_333ad4b72095606ab40c/facade-pattern-1efk)
+- [Lol, I thought I could start 2 blog series while also trying to work full-time AND do Advent of Code. Lmao even.](https://dev.to/yeehawtoast/lol-i-thought-i-could-start-2-blog-series-while-also-trying-to-work-full-time-and-do-advent-of-fo0)
+- [The Truth About Being an Expat Developer in Japan: It&#39;s More Doable Than You Think](https://dev.to/aaronli-mf/the-truth-about-being-an-expat-developer-in-japan-its-more-doable-than-you-think-127h)
 <!-- BLOG-POST-LIST:END -->
 
