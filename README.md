@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Build Management Tools for Developers](https://dev.to/apilover/top-10-build-management-tools-for-developers-m0i)
-- [How to Control Delta Robotic Arm by EtherCAT Motion Controller?](https://dev.to/zmotion_controller/how-to-control-delta-robotic-arm-by-ethercat-motion-controller-3c8p)
-- [Best Project Portfolio Management Software: 3 Amazing Solutions for Project Teams](https://dev.to/thomasy0ung/best-project-portfolio-management-software-3-amazing-solutions-for-project-teams-2n3c)
-- [Designing a Scalable Database System for High-Volume Data with Real-Time Analytics](https://dev.to/midnightasc/designing-a-scalable-database-system-for-high-volume-data-with-real-time-analytics-5eo3)
+- [Is WireGuard Secure Enough to Safeguard Your Information](https://dev.to/swiftproxy9572/is-wireguard-secure-enough-to-safeguard-your-information-1d7f)
+- [Test All your Business Logic in less than 1 second](https://dev.to/etienneleba/test-all-your-business-logic-in-less-than-1-second-2n84)
+- [The Ultimate Guide to Mobile App Development Process: A Step-by-Step Guide](https://dev.to/evelynwyatt/the-ultimate-guide-to-mobile-app-development-process-a-step-by-step-guide-1fj)
+- [How Startups Can Create a Winning Commercialization Plan While Avoiding Copyright Issues](https://dev.to/wil_jacques_f207e23e43bf5/how-startups-can-create-a-winning-commercialization-plan-while-avoiding-copyright-issues-25ga)
 <!-- BLOG-POST-LIST:END -->
 
