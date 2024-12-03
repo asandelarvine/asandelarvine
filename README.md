@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deus in Machina: Pinging Jesus in the Digital Confessional](https://dev.to/hacknip/deus-in-machina-pinging-jesus-in-the-digital-confessional-2hfd)
-- [Really happy to see this get picked up from the community 🤗](https://dev.to/jess/really-happy-to-see-this-get-picked-up-from-the-community-7mg)
-- [Master AWS Containers: Your 15-Day Journey from Beginner to Expert](https://dev.to/vellanki/master-aws-containers-your-15-day-journey-from-beginner-to-expert-5026)
-- [Release 0.4 Progress](https://dev.to/aamfahim/release-04-progress-5b2k)
+- [Discover how transitioning from monolithic to microservices can revolutionize your application&#39;s scalability, performance, and resilience!](https://dev.to/lorebrada00/discover-how-transitioning-from-monolithic-to-microservices-can-revolutionize-your-applications-9o4)
+- [Handling Distributed Transactions in Microservices: The SAGA Pattern Explained 🚀](https://dev.to/cortexflow/handling-distributed-transactions-in-microservices-the-saga-pattern-explained-33j8)
+- [Git clone - that repo is too big : HELP!](https://dev.to/danuw/git-clone-that-repo-is-too-big-help-4chn)
+- [What is the Scope Chain and How Does It Work?](https://dev.to/wallacefreitas/what-is-the-scope-chain-and-how-does-it-work-52e3)
 <!-- BLOG-POST-LIST:END -->
 
