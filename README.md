@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.3 Enable Amazon Q Developer Workspace Index](https://dev.to/094459/amazon-q-developer-tips-no3-enable-amazon-q-developer-workspace-index-1jkb)
-- [SMTP Server for Bulk Emailing- Trusted by Experts](https://dev.to/otismilburnn/smtp-server-for-bulk-emailing-trusted-by-experts-op7)
-- [[Boost]](https://dev.to/userof/-4lem)
-- [EchoAPI vs Bruno: A Comprehensive Comparison from Design to Testing 💡](https://dev.to/velan/echoapi-vs-bruno-a-comprehensive-comparison-from-design-to-testing-20oi)
+- [Best MAMP Alternatives in 2025](https://dev.to/servbay/best-mamp-alternatives-in-2025-c81)
+- [How to Select a WAF for New Webmasters&lpar;Part 1&rpar;](https://dev.to/carrie_luo1/how-to-select-a-waf-for-new-webmasterspart-1-l8g)
+- [Top Generative AI-Based Testing Tools in the Market](https://dev.to/ronika_kashyap/top-generative-ai-based-testing-tools-in-the-market-4foe)
+- [Use FLUX, PyTorch, and Streamlit to Build an AI Image Generation App](https://dev.to/koyeb/use-flux-pytorch-and-streamlit-to-build-an-ai-image-generation-app-4911)
 <!-- BLOG-POST-LIST:END -->
 
