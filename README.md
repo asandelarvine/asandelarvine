@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Aurora DSQL: Which PostgreSQL Service Should I Use on AWS ?](https://dev.to/aws-heroes/amazon-aurora-dsql-which-postgresql-service-should-i-use-on-aws--1598)
-- [Supercharge your HTML with mizu.js!](https://dev.to/lowlighter/supercharge-your-html-with-mizujs-2djf)
-- [Understanding Accessible Names in HTML](https://dev.to/ibn_abubakre/understanding-accessible-names-in-html-562)
-- [Seaborn VS Matplotlib](https://dev.to/atifwattoo/seaborn-vs-matplotlib-4g0b)
+- [Understanding Python Syntax and Variables](https://dev.to/jeremycmorgan/understanding-python-syntax-and-variables-1m0m)
+- [0.4 - week - 2 - Progress](https://dev.to/krinskumar/04-week-2-progress-1i3d)
+- [Blazor and Single-Page Applications &lpar;SPA&rpar;](https://dev.to/dazevedo/blazor-and-single-page-applications-spa-5d8h)
+- [Matt Garman keynote takeways](https://dev.to/martinnanchev/matt-garman-keynote-takeways-3hjc)
 <!-- BLOG-POST-LIST:END -->
 
