@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hna)
-- [Exploring Class Organization with Packages in Java](https://dev.to/ricardocaselati/exploring-class-organization-with-packages-in-java-1cg5)
-- [Nested Routes](https://dev.to/khanrabiul/nested-routes-kk)
-- [Creating a Custom Role for Secure Bicep Deployments in Azure](https://dev.to/latzo/creating-a-custom-role-for-secure-bicep-deployments-in-azure-2k43)
+- [Log Analysis | Sysmon | Blue Team Labs Online](https://dev.to/mihika/log-analysis-sysmon-blue-team-labs-online-484k)
+- [Which Is the Best Cloud Data Warehouse Solution for Your Business?](https://dev.to/harman_diaz/which-is-the-best-cloud-data-warehouse-solution-for-your-business-5a2h)
+- [Clip-Path Circle Reveal Animation With Mouse Movement](https://dev.to/plsankar/clip-path-circle-reveal-animation-with-mouse-movement-250d)
+- [Where to start ?](https://dev.to/ybenitezf/where-to-start--4i3h)
 <!-- BLOG-POST-LIST:END -->
 
