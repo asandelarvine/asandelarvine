@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Posts about music and code always grab my attention!](https://dev.to/jess/posts-about-music-and-code-always-grab-my-attention-2302)
-- [The Power of Low-Code in Creating Workflow Applications](https://dev.to/ai-info/the-power-of-low-code-in-creating-workflow-applications-3mbj)
-- [Test Page Print: Your Complete Guide to Troubleshooting Printers](https://dev.to/tobbystalin/test-page-print-your-complete-guide-to-troubleshooting-printers-1o5p)
-- [Today is the International Day of Persons with Disabilities](https://dev.to/tatyanabayramova/today-is-the-international-day-of-persons-with-disabilities-3c27)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hna)
+- [Exploring Class Organization with Packages in Java](https://dev.to/ricardocaselati/exploring-class-organization-with-packages-in-java-1cg5)
+- [Nested Routes](https://dev.to/khanrabiul/nested-routes-kk)
+- [Creating a Custom Role for Secure Bicep Deployments in Azure](https://dev.to/latzo/creating-a-custom-role-for-secure-bicep-deployments-in-azure-2k43)
 <!-- BLOG-POST-LIST:END -->
 
