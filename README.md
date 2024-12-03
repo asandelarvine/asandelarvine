@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Qual a causa de tanto imediatismo em tecnologia?](https://dev.to/lucianodiisouza/qual-a-causa-de-tanto-imediatismo-em-tecnologia-4mm5)
-- [Automated crypto price tracking using GMAIL and Python](https://dev.to/perisicnikola37/crypto-price-tracking-using-gmail-and-python-3kp9)
-- [Top 10 Tools for Efficient API Testing and Debugging](https://dev.to/therealmrmumba/top-10-tools-for-efficient-api-testing-and-debugging-23eh)
-- [Synchronously and Asynchronously](https://dev.to/ibiyemi_convenat_f126bfb4/synchronously-and-asynchronously-374b)
+- [The Best Backlinking Strategy For SEO](https://dev.to/dumebii/the-best-backlinking-strategy-for-seo-163m)
+- [Key Considerations for Using .NET in Cloud Native Development to Ensure Flexibility and Scalability](https://dev.to/marufhossain/key-considerations-for-using-net-in-cloud-native-development-to-ensure-flexibility-and-scalability-19kd)
+- [How to Thoroughly Cancel All AWS Services: A Step-by-Step Guide](https://dev.to/billgist/how-to-thoroughly-cancel-all-aws-services-a-step-by-step-guide-3gl3)
+- [Tesla Optimus showed off new hands](https://dev.to/devsk001/tesla-optimus-showed-off-new-hands-1d49)
 <!-- BLOG-POST-LIST:END -->
 
