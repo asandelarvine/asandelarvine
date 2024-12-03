@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the Journey: Build an Exciting Tech Project with Us! 🚀](https://dev.to/gleb_galkin/join-the-journey-build-an-exciting-tech-project-with-us-2gcd)
-- [405 Error: Solution](https://dev.to/devmercy/405-error-solution-5cc9)
-- [Clean your dockers trash](https://dev.to/jagedn/clean-your-dockers-trash-1j50)
-- [HTTP Status 405 - Method Not Allowed Error for Rest API -&gt; Solution](https://dev.to/devmercy/http-status-405-method-not-allowed-error-for-rest-api-solution-1l5e)
+- [Amazon Q Developer Tips: No.3 Enable Amazon Q Developer Workspace Index](https://dev.to/094459/amazon-q-developer-tips-no3-enable-amazon-q-developer-workspace-index-1jkb)
+- [SMTP Server for Bulk Emailing- Trusted by Experts](https://dev.to/otismilburnn/smtp-server-for-bulk-emailing-trusted-by-experts-op7)
+- [[Boost]](https://dev.to/userof/-4lem)
+- [EchoAPI vs Bruno: A Comprehensive Comparison from Design to Testing 💡](https://dev.to/velan/echoapi-vs-bruno-a-comprehensive-comparison-from-design-to-testing-20oi)
 <!-- BLOG-POST-LIST:END -->
 
