@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there a better time to learn Docker than right before Christmas? I don&#39;t think so 🎄 Check out this series if you want to learn it!](https://dev.to/wimadev/is-there-a-better-time-to-learn-docker-than-right-before-christmas-i-dont-think-so-check-out-nmp)
-- [Your journey to become a Docker Hero starts today! 🚀🚀](https://dev.to/thecodingthesi/your-journey-to-become-a-docker-hero-starts-today-16a5)
-- [Finally getting into it! Learn how to create your first docker image and container 🎄🐳](https://dev.to/code42cate/finally-getting-into-it-learn-how-to-create-your-first-docker-image-and-container-5588)
-- [Day 4: Your first Container](https://dev.to/code42cate/advent-of-docker-day-4-your-first-container-bhj)
+- [7 ChatGPT-Powered Tips for Writing the Perfect Resume](https://dev.to/timesofasi/7-chatgpt-powered-tips-for-writing-the-perfect-resume-41f6)
+- [Socket.IO vs. WebSocket: Pros and Cons for Beginners](https://dev.to/aolanipekun/socketio-vs-websocket-pros-and-cons-for-beginners-1ba)
+- [Setting Up Multi-Architecture Docker Builds with QEMU](https://dev.to/andersonpem/setting-up-multi-architecture-docker-builds-with-qemu-22mg)
+- [Top 10 CSS Frameworks for Front-End Developers in 2024](https://dev.to/habeebrahmanca07/top-10-css-frameworks-for-front-end-developers-in-2024-4ejl)
 <!-- BLOG-POST-LIST:END -->
 
