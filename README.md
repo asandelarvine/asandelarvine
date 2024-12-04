@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 ChatGPT-Powered Tips for Writing the Perfect Resume](https://dev.to/timesofasi/7-chatgpt-powered-tips-for-writing-the-perfect-resume-41f6)
-- [Socket.IO vs. WebSocket: Pros and Cons for Beginners](https://dev.to/aolanipekun/socketio-vs-websocket-pros-and-cons-for-beginners-1ba)
-- [Setting Up Multi-Architecture Docker Builds with QEMU](https://dev.to/andersonpem/setting-up-multi-architecture-docker-builds-with-qemu-22mg)
-- [Top 10 CSS Frameworks for Front-End Developers in 2024](https://dev.to/habeebrahmanca07/top-10-css-frameworks-for-front-end-developers-in-2024-4ejl)
+- [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
+- [Jenkins vs. GitHub Actions vs. GitLab CI](https://dev.to/574n13y/jenkins-vs-github-actions-vs-gitlab-ci-2k35)
+- [Awesome Collection of topics + blog posts](https://dev.to/terabytetiger/awesome-collection-of-topics-blog-posts-4od0)
+- [Create an Interactive Eraser Tool with HTML5 Canvas 🚀](https://dev.to/blamsa0mine/create-an-interactive-eraser-tool-with-html5-canvas-21jk)
 <!-- BLOG-POST-LIST:END -->
 
