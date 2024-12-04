@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [There are decades where nothing happens; and there are weeks where decades happen. Sometimes life feels this way 🙂](https://dev.to/srbhr/there-are-decades-where-nothing-happens-and-there-are-weeks-where-decades-happen-sometimes-life-3ieg)
-- [How to Change Account Password in Windows 11?](https://dev.to/win11verse/how-to-change-account-password-in-windows-11-5ac5)
-- [Accelerating Legacy Workload Transformation with Amazon Q Developer](https://dev.to/hrudu-shibu-tech/accelerating-legacy-workload-transformation-with-amazon-q-developer-2fi5)
-- [[Boost]](https://dev.to/lindiwe09/-o2d)
+- [Let It Snow: lightweight snow code](https://dev.to/iaki_imaz_1b9f1b2ffcdf27/let-it-snow-lightweight-snow-code-4h50)
+- [AI Technology in Mobile Phones Takes Center Stage: The Digital Awakening](https://dev.to/tara_choudhary00/ai-technology-in-mobile-phones-takes-center-stage-the-digital-awakening-1n6)
+- [Building an actionable ⚡️ GitHub account with these open-source projects 👩🏻‍💻](https://dev.to/fast/building-an-actionable-github-account-with-these-open-source-projects-1fo3)
+- [悼姜文华](https://dev.to/relis2e/dao-jiang-wen-hua-49fp)
 <!-- BLOG-POST-LIST:END -->
 
