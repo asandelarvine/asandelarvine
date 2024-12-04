@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GBASE数据库 | GCDW Installation and HDFS Configuration with GBase Database](https://dev.to/congcong/gbaseshu-ju-ku-gcdw-installation-and-hdfs-configuration-with-gbase-database-dp0)
-- [Secure Nginx with Let&#39;s Encrypt on Ubuntu](https://dev.to/kevinmel2000/secure-nginx-with-lets-encrypt-on-ubuntu-4p2g)
-- [Modern era of Javascript :](https://dev.to/sunil_s/modern-era-of-javascript--56gn)
-- [The Role of SPF, DMARC, and DKIM in Email Deliverability](https://dev.to/shray_lead_8841247cad400/the-role-of-spf-dmarc-and-dkim-in-email-deliverability-5c9d)
+- [VPC Monitoring with Flow Logs](https://dev.to/misolainthecloud/vpc-monitoring-with-flow-logs-1n9i)
+- [Day 3: Setting Up Your AWS Environment and Creating an S3 Bucket for Static Website Hosting](https://dev.to/abdullateef/day-3-setting-up-your-aws-environment-and-creating-an-s3-bucket-for-static-website-hosting-4dhj)
+- [day2 object and class](https://dev.to/v_inoth_f0fad29baec4c/day2-object-and-class-32ie)
+- [Accelerate ExpressJS API Development: Build Faster than Low-Code Platforms with AI-Driven Prompts.](https://dev.to/araldhafeeri/accelerate-expressjs-api-development-build-faster-than-low-code-platforms-with-ai-driven-prompts-44a7)
 <!-- BLOG-POST-LIST:END -->
 
