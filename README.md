@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [31 Days of Code Day 3](https://dev.to/galacticghoul/31-days-of-code-dh8)
-- [Install Docker on Ubuntu](https://dev.to/abstractmusa/install-docker-on-ubuntu-5g6h)
-- [The Ultimate Guide to Docker, React, Express, and Java 🌟](https://dev.to/hanzla-baig/the-ultimate-guide-to-docker-react-express-and-java-5c9h)
-- [What is Software Testing?](https://dev.to/anil_csimplifyit_905c/what-is-software-testing-1i7p)
+- [The Future of Data Lies in Transformer Models vs. Big Data Transformations](https://dev.to/seatunnel/the-future-of-data-lies-in-transformer-models-vs-big-data-transformations-13i5)
+- [Fly.io, CI/CD with Github Actions](https://dev.to/jarodsim/flyio-cicd-with-github-actions-50em)
+- [Building DuitWise: A Personal Financial Management Solution for Malaysia](https://dev.to/irfanghapar/building-duitwise-a-personal-financial-management-solution-for-malaysia-8n1)
+- [IntaLink Community: Exploring the Open Source New Power of Data Table Relationship Automatic Analysis Platform](https://dev.to/intalink/play-with-intalink-community-exploring-the-open-source-new-power-of-data-table-relationship-d3e)
 <!-- BLOG-POST-LIST:END -->
 
