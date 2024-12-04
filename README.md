@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetching Advent of Code Inputs Dynamically in Go](https://dev.to/johneliud/fetching-advent-of-code-inputs-dynamically-in-go-1c67)
-- [Hoisting: facing Temporal dead zone](https://dev.to/lariicsa/hoisting-facing-temporal-dead-zone-d88)
-- [How Node.js Works:](https://dev.to/kishan45/how-nodejs-works-47d2)
-- [AWS re:Invent 2024 Day 2](https://dev.to/aws-builders/aws-reinvent-2024-day-2-747)
+- [ChromaDB for the SQL Mind](https://dev.to/aditya47x/chromadb-for-the-sql-mind-1b00)
+- [52/365 | ¥10M Job Challenge - Good night or good morning?](https://dev.to/kameken100/52365-y10m-job-challenge-good-night-or-good-morning-44f6)
+- [Speeding up ECS containers with SOCI](https://dev.to/aws-builders/speeding-up-ecs-containers-with-soci-5g5c)
+- [Exploring the Use of Java for Game Development](https://dev.to/david_tevzadze_/exploring-the-use-of-java-for-game-development-5a12)
 <!-- BLOG-POST-LIST:END -->
 
