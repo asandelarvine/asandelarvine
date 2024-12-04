@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VPC Monitoring with Flow Logs](https://dev.to/misolainthecloud/vpc-monitoring-with-flow-logs-1n9i)
-- [Day 3: Setting Up Your AWS Environment and Creating an S3 Bucket for Static Website Hosting](https://dev.to/abdullateef/day-3-setting-up-your-aws-environment-and-creating-an-s3-bucket-for-static-website-hosting-4dhj)
-- [day2 object and class](https://dev.to/v_inoth_f0fad29baec4c/day2-object-and-class-32ie)
-- [Accelerate ExpressJS API Development: Build Faster than Low-Code Platforms with AI-Driven Prompts.](https://dev.to/araldhafeeri/accelerate-expressjs-api-development-build-faster-than-low-code-platforms-with-ai-driven-prompts-44a7)
+- [There are decades where nothing happens; and there are weeks where decades happen. Sometimes life feels this way 🙂](https://dev.to/srbhr/there-are-decades-where-nothing-happens-and-there-are-weeks-where-decades-happen-sometimes-life-3ieg)
+- [How to Change Account Password in Windows 11?](https://dev.to/win11verse/how-to-change-account-password-in-windows-11-5ac5)
+- [Accelerating Legacy Workload Transformation with Amazon Q Developer](https://dev.to/hrudu-shibu-tech/accelerating-legacy-workload-transformation-with-amazon-q-developer-2fi5)
+- [[Boost]](https://dev.to/lindiwe09/-o2d)
 <!-- BLOG-POST-LIST:END -->
 
