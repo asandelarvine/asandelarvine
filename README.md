@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL vs REST: When to Choose Which for Your Node.js Backend](https://dev.to/ivmarcos/graphql-vs-rest-when-to-choose-which-for-your-nodejs-backend-198m)
-- [Introduction to Infrastructure-as-Code &lpar;IaC&rpar; with AWS CloudFormation](https://dev.to/briansuarezsantiago/introduction-to-infrastructure-as-code-iac-with-aws-cloudformation-28dn)
-- [Patrones de Arquitectura: Guía de inicio](https://dev.to/goaqidev/patrones-de-arquitectura-guia-de-inicio-53ha)
-- [Thanks again everyone :D](https://dev.to/best_codes/thanks-again-everyone-d-2m7o)
+- [31 Days of Code Day 3](https://dev.to/galacticghoul/31-days-of-code-dh8)
+- [Install Docker on Ubuntu](https://dev.to/abstractmusa/install-docker-on-ubuntu-5g6h)
+- [The Ultimate Guide to Docker, React, Express, and Java 🌟](https://dev.to/hanzla-baig/the-ultimate-guide-to-docker-react-express-and-java-5c9h)
+- [What is Software Testing?](https://dev.to/anil_csimplifyit_905c/what-is-software-testing-1i7p)
 <!-- BLOG-POST-LIST:END -->
 
