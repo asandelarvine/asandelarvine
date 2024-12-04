@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Data Lies in Transformer Models vs. Big Data Transformations](https://dev.to/seatunnel/the-future-of-data-lies-in-transformer-models-vs-big-data-transformations-13i5)
-- [Fly.io, CI/CD with Github Actions](https://dev.to/jarodsim/flyio-cicd-with-github-actions-50em)
-- [Building DuitWise: A Personal Financial Management Solution for Malaysia](https://dev.to/irfanghapar/building-duitwise-a-personal-financial-management-solution-for-malaysia-8n1)
-- [IntaLink Community: Exploring the Open Source New Power of Data Table Relationship Automatic Analysis Platform](https://dev.to/intalink/play-with-intalink-community-exploring-the-open-source-new-power-of-data-table-relationship-d3e)
+- [Simple Flutter frontend to a LMS](https://dev.to/jobechoi/simple-flutter-frontend-to-a-lms-549p)
+- [Top 10 Best Practices for Upgrading Angular Applications to the Latest Version](https://dev.to/dhruvil_joshi14/top-10-best-practices-for-upgrading-angular-applications-to-the-latest-version-2n9n)
+- [Javier Milei - President of Argentina - Freedom, Economics, and Corruption | Lex Fridman Podcast](https://dev.to/podextra/javier-milei-president-of-argentina-freedom-economics-and-corruption-lex-fridman-podcast-24dk)
+- [How podcasts deeply involve in the US presidential election | Left - Right](https://dev.to/podextra/how-podcasts-deeply-involve-in-the-us-presidential-election-left-right-5268)
 <!-- BLOG-POST-LIST:END -->
 
