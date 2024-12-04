@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
-- [Jenkins vs. GitHub Actions vs. GitLab CI](https://dev.to/574n13y/jenkins-vs-github-actions-vs-gitlab-ci-2k35)
-- [Awesome Collection of topics + blog posts](https://dev.to/terabytetiger/awesome-collection-of-topics-blog-posts-4od0)
-- [Create an Interactive Eraser Tool with HTML5 Canvas 🚀](https://dev.to/blamsa0mine/create-an-interactive-eraser-tool-with-html5-canvas-21jk)
+- [Throttling Explained: A Guide to Managing API Request Limits](https://dev.to/didof/throttling-explained-a-guide-to-managing-api-request-limits-102a)
+- [TypeScript and ReactMarkdown: A Tale of Types, Tears, and Triumph](https://dev.to/muzaffar640/typescript-and-reactmarkdown-a-tale-of-types-tears-and-triumph-1h1a)
+- [MNIST in PyTorch](https://dev.to/hyperkai/mnist-in-pytorch-2lm2)
+- [🗺 Remote Work](https://dev.to/oscareduardolp6/remote-work-476d)
 <!-- BLOG-POST-LIST:END -->
 
