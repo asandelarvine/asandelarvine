@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is WordPress Breadcrumbs? Enhance Navigation and User Experience](https://dev.to/cozy_wordpress/what-is-wordpress-breadcrumbs-enhance-navigation-and-user-experience-2dm6)
-- [Welcome Thread - v305](https://dev.to/devteam/welcome-thread-v305-398)
-- [Day 4: ASCII Art Fonts 🖋️](https://dev.to/valeriavg/day-4-ascii-art-fonts-46kh)
-- [[Boost]](https://dev.to/govardhana/-49p0)
+- [Stack](https://dev.to/jaikumar007/stack-5d3e)
+- [JavaScript async/await Explained: 🚀 A Beginner&#39;s Guide with Real-World Examples 🌟](https://dev.to/bst53/javascript-asyncawait-explained-a-beginners-guide-with-real-world-examples-1jlo)
+- [Monorepos vs Polyrepos: Which One Fits Your Workflow?](https://dev.to/web_dev-usman/monorepos-vs-polyrepos-which-one-fits-your-workflow-2agj)
+- [The Role of Explainable AI in Building Trust and Accountability](https://dev.to/jottyjohn/the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p)
 <!-- BLOG-POST-LIST:END -->
 
