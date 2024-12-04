@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Medusa B2C Starter - Solace](https://dev.to/rigbyjs/medusa-b2c-starter-solace-5219)
-- [AWS S3](https://dev.to/rhemabit/aws-s3-39a9)
-- [Variadic Function in PHP](https://dev.to/sharminshanta/variadic-function-in-php-49c1)
-- [Building a Feature-Rich Admin Dashboard with Angular and Bootstrap 5](https://dev.to/hitesh_developer/building-a-feature-rich-admin-dashboard-with-angular-and-bootstrap-5-f6g)
+- [Unlocking the Potential of Decentralized Finance &lpar;DeFi&rpar;](https://dev.to/dbhatasana/unlocking-the-potential-of-decentralized-finance-defi-edc)
+- [End Of Series: Mastering Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/end-of-series-mastering-cross-site-scripting-xss-328c)
+- [🚀 Master Data Science &amp; Machine Learning with Microsoft Fabric!](https://dev.to/nabeghanane/master-data-science-machine-learning-with-microsoft-fabric-2elc)
+- [Next.js &amp; Hono.js Starter Project 🚀](https://dev.to/joodi/nextjs-honojs-starter-project-2j81)
 <!-- BLOG-POST-LIST:END -->
 
