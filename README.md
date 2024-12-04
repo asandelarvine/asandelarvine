@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack](https://dev.to/jaikumar007/stack-5d3e)
-- [JavaScript async/await Explained: 🚀 A Beginner&#39;s Guide with Real-World Examples 🌟](https://dev.to/bst53/javascript-asyncawait-explained-a-beginners-guide-with-real-world-examples-1jlo)
-- [Monorepos vs Polyrepos: Which One Fits Your Workflow?](https://dev.to/web_dev-usman/monorepos-vs-polyrepos-which-one-fits-your-workflow-2agj)
-- [The Role of Explainable AI in Building Trust and Accountability](https://dev.to/jottyjohn/the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p)
+- [Throwing if fetch&lpar;&rpar; returns response.ok === false?? Terrible!](https://dev.to/webjose/throwing-if-fetch-returns-responseok-false-terrible-4oh6)
+- [Progressive Web Apps: Technology Bridging Web and Mobile](https://dev.to/mukhilpadmanabhan/progressive-web-apps-technology-bridging-web-and-mobile-41pa)
+- [Difference Between Mechanical Keyboard and Normal Keyboard](https://dev.to/mysticcoder/difference-between-mechanical-keyboard-and-normal-keyboard-5pd)
+- [Pump.fun Was the Fad in 2024, Will AI Revolutionize Crypto in 2025?](https://dev.to/rimaakter/pumpfun-was-the-fad-in-2024-will-ai-revolutionize-crypto-in-2025-1l6n)
 <!-- BLOG-POST-LIST:END -->
 
