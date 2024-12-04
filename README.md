@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up WHM on Rocky 9 VPS](https://dev.to/joshalmasin88/setting-up-whm-on-rocky-9-vps-542m)
-- [“Why Unit Testing Is Not an Option, But a Duty”](https://dev.to/hotfixhero/why-unit-testing-is-not-an-option-but-a-duty-3e4j)
-- [OS Security and Passwords 🔐: Protect Your Digital Universe! 🛡️](https://dev.to/enzo_dechaene/os-security-and-passwords-protect-your-digital-universe-5dni)
-- [Chaining LINQ Methods in C#: Why Order Matters](https://dev.to/moh_moh701/chaining-linq-methods-in-c-why-order-matters-3dln)
+- [Streamline Java Object Initialization with Inline Blocks &lpar;Including Public Fields&rpar;](https://dev.to/mhossen/simplify-java-object-instantiation-with-an-inline-initialization-block-15bl)
+- [Just Your Type: Swiping Right On JavaScript and TypeScript](https://dev.to/nicole_santiago_a92dfb3d5/just-your-type-choosing-between-javascript-and-typescript-1495)
+- [OOP - Abstraction](https://dev.to/sivan2503/oop-abstraction-295k)
+- [Issue 72 &amp; 73 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-72-73-of-aws-cloud-security-weekly-2ic8)
 <!-- BLOG-POST-LIST:END -->
 
