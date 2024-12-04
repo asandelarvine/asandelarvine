@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let It Snow: lightweight snow code](https://dev.to/iaki_imaz_1b9f1b2ffcdf27/let-it-snow-lightweight-snow-code-4h50)
-- [AI Technology in Mobile Phones Takes Center Stage: The Digital Awakening](https://dev.to/tara_choudhary00/ai-technology-in-mobile-phones-takes-center-stage-the-digital-awakening-1n6)
-- [Building an actionable ⚡️ GitHub account with these open-source projects 👩🏻‍💻](https://dev.to/fast/building-an-actionable-github-account-with-these-open-source-projects-1fo3)
-- [悼姜文华](https://dev.to/relis2e/dao-jiang-wen-hua-49fp)
+- [Medusa B2C Starter - Solace](https://dev.to/rigbyjs/medusa-b2c-starter-solace-5219)
+- [AWS S3](https://dev.to/rhemabit/aws-s3-39a9)
+- [Variadic Function in PHP](https://dev.to/sharminshanta/variadic-function-in-php-49c1)
+- [Building a Feature-Rich Admin Dashboard with Angular and Bootstrap 5](https://dev.to/hitesh_developer/building-a-feature-rich-admin-dashboard-with-angular-and-bootstrap-5-f6g)
 <!-- BLOG-POST-LIST:END -->
 
