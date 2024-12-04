@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Throwing if fetch&lpar;&rpar; returns response.ok === false?? Terrible!](https://dev.to/webjose/throwing-if-fetch-returns-responseok-false-terrible-4oh6)
-- [Progressive Web Apps: Technology Bridging Web and Mobile](https://dev.to/mukhilpadmanabhan/progressive-web-apps-technology-bridging-web-and-mobile-41pa)
-- [Difference Between Mechanical Keyboard and Normal Keyboard](https://dev.to/mysticcoder/difference-between-mechanical-keyboard-and-normal-keyboard-5pd)
-- [Pump.fun Was the Fad in 2024, Will AI Revolutionize Crypto in 2025?](https://dev.to/rimaakter/pumpfun-was-the-fad-in-2024-will-ai-revolutionize-crypto-in-2025-1l6n)
+- [GBASE数据库 | GCDW Installation and HDFS Configuration with GBase Database](https://dev.to/congcong/gbaseshu-ju-ku-gcdw-installation-and-hdfs-configuration-with-gbase-database-dp0)
+- [Secure Nginx with Let&#39;s Encrypt on Ubuntu](https://dev.to/kevinmel2000/secure-nginx-with-lets-encrypt-on-ubuntu-4p2g)
+- [Modern era of Javascript :](https://dev.to/sunil_s/modern-era-of-javascript--56gn)
+- [The Role of SPF, DMARC, and DKIM in Email Deliverability](https://dev.to/shray_lead_8841247cad400/the-role-of-spf-dmarc-and-dkim-in-email-deliverability-5c9d)
 <!-- BLOG-POST-LIST:END -->
 
