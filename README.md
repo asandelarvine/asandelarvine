@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Potential of Decentralized Finance &lpar;DeFi&rpar;](https://dev.to/dbhatasana/unlocking-the-potential-of-decentralized-finance-defi-edc)
-- [End Of Series: Mastering Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/end-of-series-mastering-cross-site-scripting-xss-328c)
-- [🚀 Master Data Science &amp; Machine Learning with Microsoft Fabric!](https://dev.to/nabeghanane/master-data-science-machine-learning-with-microsoft-fabric-2elc)
-- [Next.js &amp; Hono.js Starter Project 🚀](https://dev.to/joodi/nextjs-honojs-starter-project-2j81)
+- [Top AI Search Engines for Business &amp; Startups in 2025](https://dev.to/swirl/top-ai-search-engines-for-business-startups-in-2025-49jo)
+- [Rack for Ruby: Socket Hijacking](https://dev.to/appsignal/rack-for-ruby-socket-hijacking-1ken)
+- [Deine erste Website - hier sind die wichtigsten 8 praktischen Tipps!](https://dev.to/per-starke-642/deine-erste-website-hier-sind-die-wichtigsten-8-praktischen-tipps-27f4)
+- [🚀 Your Daily Crypto Job Digest For 04 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-december-1ahk)
 <!-- BLOG-POST-LIST:END -->
 
