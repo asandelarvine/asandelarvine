@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Throttling Explained: A Guide to Managing API Request Limits](https://dev.to/didof/throttling-explained-a-guide-to-managing-api-request-limits-102a)
-- [TypeScript and ReactMarkdown: A Tale of Types, Tears, and Triumph](https://dev.to/muzaffar640/typescript-and-reactmarkdown-a-tale-of-types-tears-and-triumph-1h1a)
-- [MNIST in PyTorch](https://dev.to/hyperkai/mnist-in-pytorch-2lm2)
-- [🗺 Remote Work](https://dev.to/oscareduardolp6/remote-work-476d)
+- [Redundant imports and Naming conflicts in Java](https://dev.to/devmercy/redundant-imports-and-naming-conflicts-in-java-lcp)
+- [Enhancing Application Security: Implementing Authorization with OpenFGA](https://dev.to/afzal442/enhancing-application-security-implementing-authorization-with-openfga-38mh)
+- [Database Learning Resources: Your Roadmap to Data Mastery](https://dev.to/getvm/database-learning-resources-your-roadmap-to-data-mastery-29c1)
+- [Unpopular Opinion: TypeScript is Overrated &lpar;Or Is It?&rpar;](https://dev.to/balrajola/unpopular-opinion-typescript-is-overrated-or-is-it-o31)
 <!-- BLOG-POST-LIST:END -->
 
