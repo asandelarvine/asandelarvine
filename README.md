@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChromaDB for the SQL Mind](https://dev.to/aditya47x/chromadb-for-the-sql-mind-1b00)
-- [52/365 | ¥10M Job Challenge - Good night or good morning?](https://dev.to/kameken100/52365-y10m-job-challenge-good-night-or-good-morning-44f6)
-- [Speeding up ECS containers with SOCI](https://dev.to/aws-builders/speeding-up-ecs-containers-with-soci-5g5c)
-- [Exploring the Use of Java for Game Development](https://dev.to/david_tevzadze_/exploring-the-use-of-java-for-game-development-5a12)
+- [Setting up WHM on Rocky 9 VPS](https://dev.to/joshalmasin88/setting-up-whm-on-rocky-9-vps-542m)
+- [“Why Unit Testing Is Not an Option, But a Duty”](https://dev.to/hotfixhero/why-unit-testing-is-not-an-option-but-a-duty-3e4j)
+- [OS Security and Passwords 🔐: Protect Your Digital Universe! 🛡️](https://dev.to/enzo_dechaene/os-security-and-passwords-protect-your-digital-universe-5dni)
+- [Chaining LINQ Methods in C#: Why Order Matters](https://dev.to/moh_moh701/chaining-linq-methods-in-c-why-order-matters-3dln)
 <!-- BLOG-POST-LIST:END -->
 
