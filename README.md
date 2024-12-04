@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redundant imports and Naming conflicts in Java](https://dev.to/devmercy/redundant-imports-and-naming-conflicts-in-java-lcp)
-- [Enhancing Application Security: Implementing Authorization with OpenFGA](https://dev.to/afzal442/enhancing-application-security-implementing-authorization-with-openfga-38mh)
-- [Database Learning Resources: Your Roadmap to Data Mastery](https://dev.to/getvm/database-learning-resources-your-roadmap-to-data-mastery-29c1)
-- [Unpopular Opinion: TypeScript is Overrated &lpar;Or Is It?&rpar;](https://dev.to/balrajola/unpopular-opinion-typescript-is-overrated-or-is-it-o31)
+- [Fetching Advent of Code Inputs Dynamically in Go](https://dev.to/johneliud/fetching-advent-of-code-inputs-dynamically-in-go-1c67)
+- [Hoisting: facing Temporal dead zone](https://dev.to/lariicsa/hoisting-facing-temporal-dead-zone-d88)
+- [How Node.js Works:](https://dev.to/kishan45/how-nodejs-works-47d2)
+- [AWS re:Invent 2024 Day 2](https://dev.to/aws-builders/aws-reinvent-2024-day-2-747)
 <!-- BLOG-POST-LIST:END -->
 
