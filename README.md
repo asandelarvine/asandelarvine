@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Flutter frontend to a LMS](https://dev.to/jobechoi/simple-flutter-frontend-to-a-lms-549p)
-- [Top 10 Best Practices for Upgrading Angular Applications to the Latest Version](https://dev.to/dhruvil_joshi14/top-10-best-practices-for-upgrading-angular-applications-to-the-latest-version-2n9n)
-- [Javier Milei - President of Argentina - Freedom, Economics, and Corruption | Lex Fridman Podcast](https://dev.to/podextra/javier-milei-president-of-argentina-freedom-economics-and-corruption-lex-fridman-podcast-24dk)
-- [How podcasts deeply involve in the US presidential election | Left - Right](https://dev.to/podextra/how-podcasts-deeply-involve-in-the-us-presidential-election-left-right-5268)
+- [What is WordPress Breadcrumbs? Enhance Navigation and User Experience](https://dev.to/cozy_wordpress/what-is-wordpress-breadcrumbs-enhance-navigation-and-user-experience-2dm6)
+- [Welcome Thread - v305](https://dev.to/devteam/welcome-thread-v305-398)
+- [Day 4: ASCII Art Fonts 🖋️](https://dev.to/valeriavg/day-4-ascii-art-fonts-46kh)
+- [[Boost]](https://dev.to/govardhana/-49p0)
 <!-- BLOG-POST-LIST:END -->
 
