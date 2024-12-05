@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claves para romper la barrera del Seniority](https://dev.to/jamescardona11/claves-para-romper-la-barrera-del-seniority-3k6i)
-- [How to Efficiently Schedule Kubernetes Cronjobs](https://dev.to/labex/how-to-efficiently-schedule-kubernetes-cronjobs-1f05)
-- [Black Box Testing](https://dev.to/gablemathias/black-box-testing-53fd)
-- [Blockchain for Secure Data Sharing in Cloud Environments](https://dev.to/rednexie/blockchain-for-secure-data-sharing-in-cloud-environments-4cbf)
+- [Implementing Authorization with OpenFGA | Part 2](https://dev.to/afzal442/implementing-authorization-with-openfga-part-2-290l)
+- [Material You NewTab Extension- A Fresh Look for Your Browser](https://dev.to/utkarshk/material-you-newtab-extension-a-fresh-look-for-your-browser-21h2)
+- [The First Project Built with Lithe Is Now Live!](https://dev.to/lithephp/the-first-project-built-with-lithe-is-now-live-26h3)
+- [O Primeiro Projeto Criado com Lithe Já Está no Ar!](https://dev.to/lithephp/o-primeiro-projeto-criado-com-lithe-ja-esta-no-ar-46b1)
 <!-- BLOG-POST-LIST:END -->
 
