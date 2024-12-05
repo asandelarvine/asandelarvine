@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Authorization with OpenFGA | Part 2](https://dev.to/afzal442/implementing-authorization-with-openfga-part-2-290l)
-- [Material You NewTab Extension- A Fresh Look for Your Browser](https://dev.to/utkarshk/material-you-newtab-extension-a-fresh-look-for-your-browser-21h2)
-- [The First Project Built with Lithe Is Now Live!](https://dev.to/lithephp/the-first-project-built-with-lithe-is-now-live-26h3)
-- [O Primeiro Projeto Criado com Lithe Já Está no Ar!](https://dev.to/lithephp/o-primeiro-projeto-criado-com-lithe-ja-esta-no-ar-46b1)
+- [RHCSA Administration Script](https://dev.to/hamza_shaukat_00279f7fa91/rhcsa-administration-script-3pfd)
+- [Smarter Decisions Start Here: The Power of Enterprise Data Analytics](https://dev.to/dataplatr/smarter-decisions-start-here-the-power-of-enterprise-data-analytics-4g58)
+- [Highlights from Werner Vogels Keynote at re:Invent 2024](https://dev.to/aws-builders/highlights-from-werner-vogels-keynote-at-reinvent-2024-1jfe)
+- [Cloud Security for Real-Time Financial Services](https://dev.to/rednexie/cloud-security-for-real-time-financial-services-pd)
 <!-- BLOG-POST-LIST:END -->
 
