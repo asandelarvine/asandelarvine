@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proximity Search: A Complete Guide for Developers](https://dev.to/softheartengineer/proximity-search-a-complete-guide-for-developers-42lc)
-- [Upload to S3](https://dev.to/shubhainder_singh/upload-to-s3-33gh)
-- [Top 10 Java Libraries Every Dev Should Know About](https://dev.to/apilover/top-10-java-libraries-every-dev-should-know-about-1fi7)
-- [How JavaScript Works: Understanding Execution Context &lpar;Simplified for Beginners&rpar;](https://dev.to/biswasprasana001/how-javascript-works-understanding-execution-context-simplified-for-everyone-3o3m)
+- [How to Filter multiple Posts in WordPress by tag Using AJAX, without using any plugin](https://dev.to/rehmatullahbaltikhan/how-to-filter-multiple-wordpress-posts-by-tag-using-ajax-without-using-any-plugin-29b4)
+- [Revolutionizing AI Testing: Introducing GenQE’s “AI Tests AI” Add-On](https://dev.to/vaibhavkuls/revolutionizing-ai-testing-introducing-genqes-ai-tests-ai-add-on-265o)
+- [How to Read Thread Dumps – easily &amp; efficiently](https://dev.to/ram_lakshmanan_001/how-to-read-thread-dumps-easily-efficiently-9b0)
+- [Drag and Drop](https://dev.to/mayankghatawal/drag-and-drop-fdj)
 <!-- BLOG-POST-LIST:END -->
 
