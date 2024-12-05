@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Security Best Practices for Cloud Environments](https://dev.to/rednexie/serverless-security-best-practices-for-cloud-environments-4c98)
-- [AI-based Vulnerability Scanners](https://dev.to/rednexie/ai-based-vulnerability-scanners-2k29)
-- [Unveiling Q3: The Quantum-Classical Kernel That Bridges Computing Frontiers](https://dev.to/shanks_zero_6b3dbc3393aba/unveiling-q3-the-quantum-classical-kernel-that-bridges-computing-frontiers-3g50)
-- [Losing a Software Team: Challenges and Solutions - Part 1](https://dev.to/devtriste/losing-a-software-team-challenges-and-solutions-part-1-44fm)
+- [What changed from Java 22 to Java 23](https://dev.to/devmercy/what-changed-from-java-22-to-java-23-40ba)
+- [day-15 at payilagam range,index,for](https://dev.to/kuhanraja_ar_1df623b8e2e/day-15-at-payilagam-rangeindexfor-1fh4)
+- [How to install ansible and run your first ansible Ad-Hoc Command.](https://dev.to/kartik_p/how-to-install-ansible-and-run-your-first-ansible-ad-hoc-command-3eji)
+- [Submission for the DevCycle Feature Flag Challenge: Memory Maze](https://dev.to/sneha11/memory-maze-a-dynamic-react-based-memory-game-3ia4)
 <!-- BLOG-POST-LIST:END -->
 
