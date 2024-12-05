@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Locks: A Comprehensive Guide](https://dev.to/andigwandi/azure-locks-a-comprehensive-guide-mhd)
-- [Mastering the Minecraft Proxy Server Setup](https://dev.to/swiftproxy9572/mastering-the-minecraft-proxy-server-setup-40p3)
-- [使用 selenium 讀取需要登入會員的網頁](https://dev.to/codemee/shi-yong-selenium-du-qu-xu-yao-deng-ru-hui-yuan-de-wang-ye-86i)
-- [The Core Subjects You’ll Study in a BCS Program](https://dev.to/diyasharmaw121/the-core-subjects-youll-study-in-a-bcs-program-2ek1)
+- [Legacy Code: Love or Hate?](https://dev.to/hotfixhero/legacy-code-love-or-hate-1l2o)
+- [Setup Celery Worker with Supervisord on elastic beanstalk via .ebextensions](https://dev.to/codelemons/setup-celery-worker-with-supervisord-on-elastic-beanstalk-via-ebextensions-1fd8)
+- [Bitcoin Daily Digest: Key Events from a Web Developer&#39;s Perspective 🧑‍💻💻](https://dev.to/cryptosandy/bitcoin-daily-digest-key-events-from-a-web-developers-perspective-4gpd)
+- [Security-First Architecture in Azure Logic Apps: Patterns, Practices, and Compliance](https://dev.to/prachibhende/security-first-architecture-in-azure-logic-apps-patterns-practices-and-compliance-56j5)
 <!-- BLOG-POST-LIST:END -->
 
