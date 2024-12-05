@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Shopping Cart App with React, TypeScript, and Material-UI 🚀](https://dev.to/blamsa0mine/build-a-shopping-cart-app-with-react-typescript-and-material-ui-5jn)
-- [What is the difference between var, let and const in JavaScript?](https://dev.to/akinsanya_toluwanimi_e409/what-is-the-difference-between-var-let-and-const-in-javascript-19pe)
-- [Powerful Learning with GPT and Readwise](https://dev.to/airabbit/powerful-learning-with-gpt-and-readwise-28gg)
-- [Unlocking Efficiency and Growth with DevOps Consulting Services](https://dev.to/smart_data_/unlocking-efficiency-and-growth-with-devops-consulting-services-126k)
+- [5 lições que aprendi depois de trabalhar remoto por 7 anos](https://dev.to/lincolixavier/5-licoes-que-aprendi-depois-de-trabalhar-remoto-por-7-anos-39i2)
+- [The Unspoken Reality of Computer Science Education: Beyond Web Development](https://dev.to/nozibul_islam_113b1d5334f/the-unspoken-reality-of-computer-science-education-beyond-web-development-3e2o)
+- [Flutter Web | Build with .env File](https://dev.to/01kg/flutter-web-build-with-env-file-2k60)
+- [Terraform for Loops Guide: Types, Examples and Best Practices](https://dev.to/env0team/terraform-for-loops-guide-types-examples-and-best-practices-3nda)
 <!-- BLOG-POST-LIST:END -->
 
