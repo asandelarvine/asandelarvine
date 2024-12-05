@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Text Processing with Grep, Sed, Awk, Cut, and Sort](https://dev.to/imkrunalkanojiya/mastering-text-processing-with-grep-sed-awk-cut-and-sort-3inj)
-- [Dolphinscheduler DAG Core Source Code Analysis](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-dag-core-source-code-analysis-95i)
-- [SQL: ROW_NUMBER, RANK and DENSE_RANK](https://dev.to/anwaar/sql-rownumber-rank-and-denserank-7ik)
-- [The Memes Of The Day](https://dev.to/hanzla-baig/the-memes-of-the-day-onf)
+- [Join Me in Building the Next Big Thing in Restaurant Tech 🚀](https://dev.to/heet_jain/join-me-in-building-the-next-big-thing-in-restaurant-tech-3jg2)
+- [Day 5: For all blogging matters ✍️](https://dev.to/valeriavg/day-5-for-all-blogging-matters-aec)
+- [Redis](https://dev.to/anjali_gurjar_dff81513867/redis-4l70)
+- [Debouncing in JS: Building better web apps](https://dev.to/prathamesh_patil_98/debouncing-in-js-building-better-web-apps-4g8h)
 <!-- BLOG-POST-LIST:END -->
 
