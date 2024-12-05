@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy Code: Love or Hate?](https://dev.to/hotfixhero/legacy-code-love-or-hate-1l2o)
-- [Setup Celery Worker with Supervisord on elastic beanstalk via .ebextensions](https://dev.to/codelemons/setup-celery-worker-with-supervisord-on-elastic-beanstalk-via-ebextensions-1fd8)
-- [Bitcoin Daily Digest: Key Events from a Web Developer&#39;s Perspective 🧑‍💻💻](https://dev.to/cryptosandy/bitcoin-daily-digest-key-events-from-a-web-developers-perspective-4gpd)
-- [Security-First Architecture in Azure Logic Apps: Patterns, Practices, and Compliance](https://dev.to/prachibhende/security-first-architecture-in-azure-logic-apps-patterns-practices-and-compliance-56j5)
+- [How Flutter is Revolutionizing App Development](https://dev.to/olivia_carter_3ec30353e19/how-flutter-is-revolutionizing-app-development-53b4)
+- [Authentication and Authorization in Django: Django session](https://dev.to/arum_puripratamawati_ef5/authentication-and-authorization-in-django-django-session-ge6)
+- [OTP Generator with Verification in HTML CSS and JavaScript](https://dev.to/sharathchandark/otp-generator-with-verification-in-html-css-and-javascript-13im)
+- [Flow Matching Speeds Up AI Image Generation While Boosting Quality](https://dev.to/mikeyoung44/flow-matching-speeds-up-ai-image-generation-while-boosting-quality-2jbd)
 <!-- BLOG-POST-LIST:END -->
 
