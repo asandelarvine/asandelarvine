@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 lições que aprendi depois de trabalhar remoto por 7 anos](https://dev.to/lincolixavier/5-licoes-que-aprendi-depois-de-trabalhar-remoto-por-7-anos-39i2)
-- [The Unspoken Reality of Computer Science Education: Beyond Web Development](https://dev.to/nozibul_islam_113b1d5334f/the-unspoken-reality-of-computer-science-education-beyond-web-development-3e2o)
-- [Flutter Web | Build with .env File](https://dev.to/01kg/flutter-web-build-with-env-file-2k60)
-- [Terraform for Loops Guide: Types, Examples and Best Practices](https://dev.to/env0team/terraform-for-loops-guide-types-examples-and-best-practices-3nda)
+- [Scaling Code Reviews: A Two-Step Process for Large Engineering Teams](https://dev.to/martinrojas/scaling-code-reviews-a-two-step-process-for-large-engineering-teams-571o)
+- [At day 5 of Advent of Docker we are taking a look at web servers in Docker and more ways to interact with your container!](https://dev.to/code42cate/at-day-5-of-advent-of-docker-we-are-taking-a-look-at-web-servers-in-docker-and-more-ways-to-45h0)
+- [A Must-Have Tool for Real-Time HTML Debugging](https://dev.to/andrewdejackson/a-must-have-tool-for-real-time-html-debugging-32lh)
+- [Day 5: Interacting with Containers](https://dev.to/code42cate/day-5-interacting-with-containers-5g31)
 <!-- BLOG-POST-LIST:END -->
 
