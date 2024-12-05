@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [These 7 AI Tools Helped Me Write Better Code in 2024](https://dev.to/anmolbaranwal/these-7-ai-tools-helped-me-write-better-code-in-2024-5bdj)
-- [How are you using AI?](https://dev.to/jmc_promptbros/how-are-you-using-ai-34mf)
-- [Static text reinvented: a developer’s solution to updates without a CMS](https://dev.to/erikvandewiel/static-text-reinvented-a-developers-solution-to-updates-without-a-cms-392e)
-- [Overcoming Challenges in Generative AI POCs: Strategies for Success](https://dev.to/globalnodes/overcoming-challenges-in-generative-ai-pocs-strategies-for-success-3nhb)
+- [QR Codes: How They Work and Why They&#39;re Amazing](https://dev.to/witcher_1001/qr-codes-how-they-work-and-why-theyre-amazing-f4)
+- [A Year of Learning, Leading, and Building: Here’s What I’ve Been Up To](https://dev.to/vedangit/a-year-of-learning-leading-and-building-heres-what-ive-been-up-to-3fdp)
+- [Master Reactive Programming: Spring Boot and Reactor Secrets Revealed](https://dev.to/aaravjoshi/master-reactive-programming-spring-boot-and-reactor-secrets-revealed-4jao)
+- [Future of Customer Experience with AI: Take a High of Business Growth](https://dev.to/emily_smith_86b5b7960eebb/future-of-customer-experience-with-ai-take-a-high-of-business-growth-1lbp)
 <!-- BLOG-POST-LIST:END -->
 
