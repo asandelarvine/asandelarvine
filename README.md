@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RHCSA Administration Script](https://dev.to/hamza_shaukat_00279f7fa91/rhcsa-administration-script-3pfd)
-- [Smarter Decisions Start Here: The Power of Enterprise Data Analytics](https://dev.to/dataplatr/smarter-decisions-start-here-the-power-of-enterprise-data-analytics-4g58)
-- [Highlights from Werner Vogels Keynote at re:Invent 2024](https://dev.to/aws-builders/highlights-from-werner-vogels-keynote-at-reinvent-2024-1jfe)
-- [Cloud Security for Real-Time Financial Services](https://dev.to/rednexie/cloud-security-for-real-time-financial-services-pd)
+- [Serverless Security Best Practices for Cloud Environments](https://dev.to/rednexie/serverless-security-best-practices-for-cloud-environments-4c98)
+- [AI-based Vulnerability Scanners](https://dev.to/rednexie/ai-based-vulnerability-scanners-2k29)
+- [Unveiling Q3: The Quantum-Classical Kernel That Bridges Computing Frontiers](https://dev.to/shanks_zero_6b3dbc3393aba/unveiling-q3-the-quantum-classical-kernel-that-bridges-computing-frontiers-3g50)
+- [Losing a Software Team: Challenges and Solutions - Part 1](https://dev.to/devtriste/losing-a-software-team-challenges-and-solutions-part-1-44fm)
 <!-- BLOG-POST-LIST:END -->
 
