@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Flutter is Revolutionizing App Development](https://dev.to/olivia_carter_3ec30353e19/how-flutter-is-revolutionizing-app-development-53b4)
-- [Authentication and Authorization in Django: Django session](https://dev.to/arum_puripratamawati_ef5/authentication-and-authorization-in-django-django-session-ge6)
-- [OTP Generator with Verification in HTML CSS and JavaScript](https://dev.to/sharathchandark/otp-generator-with-verification-in-html-css-and-javascript-13im)
-- [Flow Matching Speeds Up AI Image Generation While Boosting Quality](https://dev.to/mikeyoung44/flow-matching-speeds-up-ai-image-generation-while-boosting-quality-2jbd)
+- [These 7 AI Tools Helped Me Write Better Code in 2024](https://dev.to/anmolbaranwal/these-7-ai-tools-helped-me-write-better-code-in-2024-5bdj)
+- [How are you using AI?](https://dev.to/jmc_promptbros/how-are-you-using-ai-34mf)
+- [Static text reinvented: a developer’s solution to updates without a CMS](https://dev.to/erikvandewiel/static-text-reinvented-a-developers-solution-to-updates-without-a-cms-392e)
+- [Overcoming Challenges in Generative AI POCs: Strategies for Success](https://dev.to/globalnodes/overcoming-challenges-in-generative-ai-pocs-strategies-for-success-3nhb)
 <!-- BLOG-POST-LIST:END -->
 
