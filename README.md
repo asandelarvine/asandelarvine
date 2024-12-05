@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [QR Codes: How They Work and Why They&#39;re Amazing](https://dev.to/witcher_1001/qr-codes-how-they-work-and-why-theyre-amazing-f4)
-- [A Year of Learning, Leading, and Building: Here’s What I’ve Been Up To](https://dev.to/vedangit/a-year-of-learning-leading-and-building-heres-what-ive-been-up-to-3fdp)
-- [Master Reactive Programming: Spring Boot and Reactor Secrets Revealed](https://dev.to/aaravjoshi/master-reactive-programming-spring-boot-and-reactor-secrets-revealed-4jao)
-- [Future of Customer Experience with AI: Take a High of Business Growth](https://dev.to/emily_smith_86b5b7960eebb/future-of-customer-experience-with-ai-take-a-high-of-business-growth-1lbp)
+- [Build a Shopping Cart App with React, TypeScript, and Material-UI 🚀](https://dev.to/blamsa0mine/build-a-shopping-cart-app-with-react-typescript-and-material-ui-5jn)
+- [What is the difference between var, let and const in JavaScript?](https://dev.to/akinsanya_toluwanimi_e409/what-is-the-difference-between-var-let-and-const-in-javascript-19pe)
+- [Powerful Learning with GPT and Readwise](https://dev.to/airabbit/powerful-learning-with-gpt-and-readwise-28gg)
+- [Unlocking Efficiency and Growth with DevOps Consulting Services](https://dev.to/smart_data_/unlocking-efficiency-and-growth-with-devops-consulting-services-126k)
 <!-- BLOG-POST-LIST:END -->
 
