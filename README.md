@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Filter multiple Posts in WordPress by tag Using AJAX, without using any plugin](https://dev.to/rehmatullahbaltikhan/how-to-filter-multiple-wordpress-posts-by-tag-using-ajax-without-using-any-plugin-29b4)
-- [Revolutionizing AI Testing: Introducing GenQE’s “AI Tests AI” Add-On](https://dev.to/vaibhavkuls/revolutionizing-ai-testing-introducing-genqes-ai-tests-ai-add-on-265o)
-- [How to Read Thread Dumps – easily &amp; efficiently](https://dev.to/ram_lakshmanan_001/how-to-read-thread-dumps-easily-efficiently-9b0)
-- [Drag and Drop](https://dev.to/mayankghatawal/drag-and-drop-fdj)
+- [Azure Locks: A Comprehensive Guide](https://dev.to/andigwandi/azure-locks-a-comprehensive-guide-mhd)
+- [Mastering the Minecraft Proxy Server Setup](https://dev.to/swiftproxy9572/mastering-the-minecraft-proxy-server-setup-40p3)
+- [使用 selenium 讀取需要登入會員的網頁](https://dev.to/codemee/shi-yong-selenium-du-qu-xu-yao-deng-ru-hui-yuan-de-wang-ye-86i)
+- [The Core Subjects You’ll Study in a BCS Program](https://dev.to/diyasharmaw121/the-core-subjects-youll-study-in-a-bcs-program-2ek1)
 <!-- BLOG-POST-LIST:END -->
 
