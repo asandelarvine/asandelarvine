@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Code Reviews: A Two-Step Process for Large Engineering Teams](https://dev.to/martinrojas/scaling-code-reviews-a-two-step-process-for-large-engineering-teams-571o)
-- [At day 5 of Advent of Docker we are taking a look at web servers in Docker and more ways to interact with your container!](https://dev.to/code42cate/at-day-5-of-advent-of-docker-we-are-taking-a-look-at-web-servers-in-docker-and-more-ways-to-45h0)
-- [A Must-Have Tool for Real-Time HTML Debugging](https://dev.to/andrewdejackson/a-must-have-tool-for-real-time-html-debugging-32lh)
-- [Day 5: Interacting with Containers](https://dev.to/code42cate/day-5-interacting-with-containers-5g31)
+- [Security of Cloud-Based Artificial Intelligence Models](https://dev.to/rednexie/security-of-cloud-based-artificial-intelligence-models-5g3k)
+- [SRE for the SaaS](https://dev.to/sharesquare/sre-for-the-saas-2ngh)
+- [Service Mesh &lpar;Istio&rpar;](https://dev.to/574n13y/service-mesh-istio-1jdh)
+- [HTTP Response Status Codes | All you need to know | 2025🐱‍💻](https://dev.to/elpidaguy/http-response-status-codes-all-you-need-to-know-2025-d01)
 <!-- BLOG-POST-LIST:END -->
 
