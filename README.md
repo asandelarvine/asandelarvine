@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What changed from Java 22 to Java 23](https://dev.to/devmercy/what-changed-from-java-22-to-java-23-40ba)
-- [day-15 at payilagam range,index,for](https://dev.to/kuhanraja_ar_1df623b8e2e/day-15-at-payilagam-rangeindexfor-1fh4)
-- [How to install ansible and run your first ansible Ad-Hoc Command.](https://dev.to/kartik_p/how-to-install-ansible-and-run-your-first-ansible-ad-hoc-command-3eji)
-- [Submission for the DevCycle Feature Flag Challenge: Memory Maze](https://dev.to/sneha11/memory-maze-a-dynamic-react-based-memory-game-3ia4)
+- [AI Travel Planner app built with Next.js 15, Tailwind CSS, Prisma, Open AI, and Clerk.](https://dev.to/saidmounaim/ai-travel-planner-app-built-with-nextjs-15-tailwind-css-prisma-open-ai-and-clerk-2396)
+- [VSCode Extension to Simplify Code Collaboration and Sharing](https://dev.to/zaur_ibrahimov/vscode-extension-to-simplify-code-collaboration-and-sharing-bm6)
+- [Diseño de Interfaz de Usuario &lpar;UI&rpar;: Una Guía para Desarrolladores](https://dev.to/yuliana_seplveda/diseno-de-interfaz-de-usuario-ui-una-guia-para-desarrolladores-54dg)
+- [Understanding Active Port Scanning, Firewalls, and Zero Trust Security](https://dev.to/sherwin6180/understanding-active-port-scanning-firewalls-and-zero-trust-security-554h)
 <!-- BLOG-POST-LIST:END -->
 
