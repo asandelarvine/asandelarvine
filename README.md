@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Text Processing with Grep, Sed, Awk, Cut, and Sort](https://dev.to/imkrunalkanojiya/mastering-text-processing-with-grep-sed-awk-cut-and-sort-3inj)
 - [Dolphinscheduler DAG Core Source Code Analysis](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-dag-core-source-code-analysis-95i)
 - [SQL: ROW_NUMBER, RANK and DENSE_RANK](https://dev.to/anwaar/sql-rownumber-rank-and-denserank-7ik)
 - [The Memes Of The Day](https://dev.to/hanzla-baig/the-memes-of-the-day-onf)
-- [#111 — Sort in Group](https://dev.to/judith677/111-sort-in-group-55m0)
 <!-- BLOG-POST-LIST:END -->
 
