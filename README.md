@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Java Object Initialization with Inline Blocks &lpar;Including Public Fields&rpar;](https://dev.to/mhossen/simplify-java-object-instantiation-with-an-inline-initialization-block-15bl)
-- [Just Your Type: Swiping Right On JavaScript and TypeScript](https://dev.to/nicole_santiago_a92dfb3d5/just-your-type-choosing-between-javascript-and-typescript-1495)
-- [OOP - Abstraction](https://dev.to/sivan2503/oop-abstraction-295k)
-- [Issue 72 &amp; 73 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-72-73-of-aws-cloud-security-weekly-2ic8)
+- [Resolving the `DO $$` Issue in Drizzle ORM with Nile Postgres](https://dev.to/jacksonkasi/resolving-the-do-issue-in-drizzle-orm-with-nile-postgres-1lni)
+- [Gradient Generator](https://dev.to/pinky057/updated-gradient-generator-1217)
+- [Database Indexing: A Comprehensive Guide for All Levels](https://dev.to/iamcymentho/database-indexing-a-comprehensive-guide-for-all-levels-1b3m)
+- [Is Python Still the King of Data Science?](https://dev.to/lonare/is-python-still-the-king-of-data-science-55n)
 <!-- BLOG-POST-LIST:END -->
 
