@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security of Cloud-Based Artificial Intelligence Models](https://dev.to/rednexie/security-of-cloud-based-artificial-intelligence-models-5g3k)
-- [SRE for the SaaS](https://dev.to/sharesquare/sre-for-the-saas-2ngh)
-- [Service Mesh &lpar;Istio&rpar;](https://dev.to/574n13y/service-mesh-istio-1jdh)
-- [HTTP Response Status Codes | All you need to know | 2025🐱‍💻](https://dev.to/elpidaguy/http-response-status-codes-all-you-need-to-know-2025-d01)
+- [Claves para romper la barrera del Seniority](https://dev.to/jamescardona11/claves-para-romper-la-barrera-del-seniority-3k6i)
+- [How to Efficiently Schedule Kubernetes Cronjobs](https://dev.to/labex/how-to-efficiently-schedule-kubernetes-cronjobs-1f05)
+- [Black Box Testing](https://dev.to/gablemathias/black-box-testing-53fd)
+- [Blockchain for Secure Data Sharing in Cloud Environments](https://dev.to/rednexie/blockchain-for-secure-data-sharing-in-cloud-environments-4cbf)
 <!-- BLOG-POST-LIST:END -->
 
