@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Me in Building the Next Big Thing in Restaurant Tech 🚀](https://dev.to/heet_jain/join-me-in-building-the-next-big-thing-in-restaurant-tech-3jg2)
-- [Day 5: For all blogging matters ✍️](https://dev.to/valeriavg/day-5-for-all-blogging-matters-aec)
-- [Redis](https://dev.to/anjali_gurjar_dff81513867/redis-4l70)
-- [Debouncing in JS: Building better web apps](https://dev.to/prathamesh_patil_98/debouncing-in-js-building-better-web-apps-4g8h)
+- [Proximity Search: A Complete Guide for Developers](https://dev.to/softheartengineer/proximity-search-a-complete-guide-for-developers-42lc)
+- [Upload to S3](https://dev.to/shubhainder_singh/upload-to-s3-33gh)
+- [Top 10 Java Libraries Every Dev Should Know About](https://dev.to/apilover/top-10-java-libraries-every-dev-should-know-about-1fi7)
+- [How JavaScript Works: Understanding Execution Context &lpar;Simplified for Beginners&rpar;](https://dev.to/biswasprasana001/how-javascript-works-understanding-execution-context-simplified-for-everyone-3o3m)
 <!-- BLOG-POST-LIST:END -->
 
