@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Backbone of Great Documentation: An Introduction to the Document Development Lifecycle &lpar;DDLC&rpar;](https://dev.to/ikhaledabdelfattah/the-backbone-of-great-documentation-an-introduction-to-the-document-development-lifecycle-ddlc-35jh)
-- [Hono Js - Another Express clone?](https://dev.to/sourabh_singh1812/hono-js-another-express-clone-38h6)
-- [54/365 | ¥10M Job Challenge](https://dev.to/kameken100/54365-y10m-job-challenge-1j7)
-- [Why Every Millisecond Counts: Understanding Latency in Payments](https://dev.to/dev_tycodez/why-every-millisecond-counts-understanding-latency-in-payments-3kbe)
+- [Your Guide to Better Documentation: Writing Your First Draft and Beyond](https://dev.to/ikhaledabdelfattah/your-guide-to-better-documentation-writing-your-first-draft-and-beyond-1od3)
+- [Coming Full Circle: It starts and ends with Git and GitHub](https://dev.to/peterdanwan/coming-full-circle-it-starts-and-ends-with-git-and-github-n9o)
+- [Your Guide to Better Documentation: How to Get the Right Information During the Research Phase](https://dev.to/ikhaledabdelfattah/your-guide-to-better-documentation-how-to-get-the-right-information-during-the-research-phase-2335)
+- [Part 6: Object-Oriented Programming &lpar;OOP&rpar; in C#](https://dev.to/adrianbailador/part-6-object-oriented-programming-oop-in-c-377e)
 <!-- BLOG-POST-LIST:END -->
 
