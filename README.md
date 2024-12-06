@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Developer Mode on iPhone &amp; How to Enable It?](https://dev.to/codeparrot/what-is-developer-mode-on-iphone-how-to-enable-it-828)
-- [Quick Steps to Overcome Impostor Syndrome as a Tech Professional](https://dev.to/medalytics/quick-steps-to-overcome-impostor-syndrome-as-a-tech-professional-43c4)
-- [PHP: Should I mock or should I go?](https://dev.to/spo0q/php-mocking-od-458c)
-- [User Guide for ApplyUni.com](https://dev.to/ayeminkhant023/user-guide-for-applyunicom-25cp)
+- [Case Study: Creating an ETL Data Pipeline using AWS Services - Real-World Problem](https://dev.to/heighter/case-study-creating-an-etl-data-pipeline-using-aws-services-real-world-problem-1e40)
+- [Understanding and Preventing Email Spoofing Through DMARC Reports: A Technical Analysis](https://dev.to/roboword/understanding-and-preventing-email-spoofing-through-dmarc-reports-a-technical-analysis-1jk)
+- [Amazon S3 Tables: A Game Changer in Analytics and Data Lake Space](https://dev.to/asankab/amazon-s3-tables-a-game-changer-in-analytics-and-data-lake-space-2mjo)
+- [Introduction to DevSecOps](https://dev.to/i_am_vesh/introduction-to-devsecops-1l87)
 <!-- BLOG-POST-LIST:END -->
 
