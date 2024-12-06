@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Form Handling in Your MERN Stack Projects with Formik](https://dev.to/bilalkhanio/simplify-form-handling-in-your-mern-stack-projects-with-formik-3a2k)
-- [Day 6: Super Expressive ✨](https://dev.to/valeriavg/day-6-super-expressive-48kd)
-- [Part 2: Building Your Own AI - Setting Up the Environment for AI/ML Development](https://dev.to/trixsec/part-1-building-your-own-ai-setting-up-the-environment-for-aiml-development-315g)
-- [SQL: Query the records closest to the specified time each day #eg86](https://dev.to/esproc_spl/sql-query-the-records-closest-to-the-specified-time-each-day-eg86-3k52)
+- [Sorting Smarts in Java: Comparable and Comparator](https://dev.to/arshisaxena26/sorting-smarts-in-java-comparable-and-comparator-283j)
+- [How to Manage Your SQL Server Database Effectively](https://dev.to/auyeungdavid_2847435260/how-to-manage-your-sql-server-database-effectively-54ej)
+- [Just How Kurma Sustains a Healthy And Balanced Way Of Life in Malaysia](https://dev.to/pantrywillow3/just-how-kurma-sustains-a-healthy-and-balanced-way-of-life-in-malaysia-70a)
+- [Supervised Learning vs. Unsupervised Learning](https://dev.to/askyt/supervised-learning-vs-unsupervised-learning-3chh)
 <!-- BLOG-POST-LIST:END -->
 
