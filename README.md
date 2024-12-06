@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying to customize the screen](https://dev.to/junissen9/trying-to-customize-the-screen-1eli)
-- [Demystifying AWS VPC: A Comprehensive Guide to Networking in the Cloud](https://dev.to/linsmed/demystifying-aws-vpc-a-comprehensive-guide-to-networking-in-the-cloud-3c5m)
-- [ReactJs: useState](https://dev.to/ankushgoyal11/reactjs-usestate-2poh)
-- [It’s Not Flutter](https://dev.to/andrious/its-not-flutter-27co)
+- [The Backbone of Great Documentation: An Introduction to the Document Development Lifecycle &lpar;DDLC&rpar;](https://dev.to/ikhaledabdelfattah/the-backbone-of-great-documentation-an-introduction-to-the-document-development-lifecycle-ddlc-35jh)
+- [Hono Js - Another Express clone?](https://dev.to/sourabh_singh1812/hono-js-another-express-clone-38h6)
+- [54/365 | ¥10M Job Challenge](https://dev.to/kameken100/54365-y10m-job-challenge-1j7)
+- [Why Every Millisecond Counts: Understanding Latency in Payments](https://dev.to/dev_tycodez/why-every-millisecond-counts-understanding-latency-in-payments-3kbe)
 <!-- BLOG-POST-LIST:END -->
 
