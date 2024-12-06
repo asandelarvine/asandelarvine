@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 tools for productive developer work](https://dev.to/itdevus/5-tools-for-productive-developer-work-37ha)
+- [Creating a New Era of Intelligent Finance: GBase Database Leading the Digital Transformation in Finance](https://dev.to/congcong/creating-a-new-era-of-intelligent-finance-gbase-database-leading-the-digital-transformation-in-3he4)
 - [Sorting Smarts in Java: Comparable and Comparator](https://dev.to/arshisaxena26/sorting-smarts-in-java-comparable-and-comparator-283j)
 - [How to Manage Your SQL Server Database Effectively](https://dev.to/auyeungdavid_2847435260/how-to-manage-your-sql-server-database-effectively-54ej)
-- [Just How Kurma Sustains a Healthy And Balanced Way Of Life in Malaysia](https://dev.to/pantrywillow3/just-how-kurma-sustains-a-healthy-and-balanced-way-of-life-in-malaysia-70a)
-- [Supervised Learning vs. Unsupervised Learning](https://dev.to/askyt/supervised-learning-vs-unsupervised-learning-3chh)
 <!-- BLOG-POST-LIST:END -->
 
