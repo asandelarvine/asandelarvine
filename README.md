@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 06 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-06-december-32j3)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2m3o)
-- [Why Strapi Cloud is a Game-Changer for Frontend Developers? 🚀](https://dev.to/joodi/why-strapi-cloud-is-a-game-changer-for-frontend-developers-1349)
-- [React v19 is out!](https://dev.to/srbhr/react-v19-is-out-2eo2)
+- [DOM-based vulnerabilities](https://dev.to/rednexie/dom-based-vulnerabilities-3h7)
+- [Object &amp; class](https://dev.to/pavitra_aravind_3d319916a/object-class-5h6d)
+- [I have encountered all the key points addressed in this post. I agree with the writer but it is worth being aware that complying with all these things is not trivial.](https://dev.to/ntung/i-have-encountered-all-the-key-points-addressed-in-this-post-i-agree-with-the-writer-but-it-is-2lc9)
+- [My Bluesky Analytics tool is live!](https://dev.to/andreihudovich/my-bluesky-analytics-tool-is-live-4fek)
 <!-- BLOG-POST-LIST:END -->
 
