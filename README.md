@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Creating an ETL Data Pipeline using AWS Services - Real-World Problem](https://dev.to/heighter/case-study-creating-an-etl-data-pipeline-using-aws-services-real-world-problem-1e40)
-- [Understanding and Preventing Email Spoofing Through DMARC Reports: A Technical Analysis](https://dev.to/roboword/understanding-and-preventing-email-spoofing-through-dmarc-reports-a-technical-analysis-1jk)
-- [Amazon S3 Tables: A Game Changer in Analytics and Data Lake Space](https://dev.to/asankab/amazon-s3-tables-a-game-changer-in-analytics-and-data-lake-space-2mjo)
-- [Introduction to DevSecOps](https://dev.to/i_am_vesh/introduction-to-devsecops-1l87)
+- [Trying to customize the screen](https://dev.to/junissen9/trying-to-customize-the-screen-1eli)
+- [Demystifying AWS VPC: A Comprehensive Guide to Networking in the Cloud](https://dev.to/linsmed/demystifying-aws-vpc-a-comprehensive-guide-to-networking-in-the-cloud-3c5m)
+- [ReactJs: useState](https://dev.to/ankushgoyal11/reactjs-usestate-2poh)
+- [It’s Not Flutter](https://dev.to/andrious/its-not-flutter-27co)
 <!-- BLOG-POST-LIST:END -->
 
