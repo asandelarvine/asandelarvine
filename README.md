@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Guide to Better Documentation: Writing Your First Draft and Beyond](https://dev.to/ikhaledabdelfattah/your-guide-to-better-documentation-writing-your-first-draft-and-beyond-1od3)
-- [Coming Full Circle: It starts and ends with Git and GitHub](https://dev.to/peterdanwan/coming-full-circle-it-starts-and-ends-with-git-and-github-n9o)
-- [Your Guide to Better Documentation: How to Get the Right Information During the Research Phase](https://dev.to/ikhaledabdelfattah/your-guide-to-better-documentation-how-to-get-the-right-information-during-the-research-phase-2335)
-- [Part 6: Object-Oriented Programming &lpar;OOP&rpar; in C#](https://dev.to/adrianbailador/part-6-object-oriented-programming-oop-in-c-377e)
+- [The Transformative Power of Cleaning: Small Wins and Fulfilling the Need for Control &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/the-transformative-power-of-cleaning-small-wins-and-fulfilling-the-need-for-control-bite-size-55j6)
+- [Building Your Next Project with Open Source Boilerplates](https://dev.to/sadekxd/building-your-next-project-with-open-source-boilerplates-17e9)
+- [Prunable Eloquent Models](https://dev.to/paulund/prunable-eloquent-models-1ji1)
+- [[Boost]](https://dev.to/bahaeddinesaim/-3o5m)
 <!-- BLOG-POST-LIST:END -->
 
