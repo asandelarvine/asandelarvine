@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠Ultimate Guide to Creating Your Own Google Chrome Extension🛠](https://dev.to/hanzla-baig/ultimate-guide-to-creating-your-own-google-chrome-extension-52g6)
-- [Master the SAGA pattern to manage distributed transactions in microservices, ensuring data consistency and scalability!!!!](https://dev.to/lorebrada00/master-the-saga-pattern-to-manage-distributed-transactions-in-microservices-ensuring-data-1aa7)
-- [Comunicação Assíncrona e Síncrona](https://dev.to/emanoelcarvalho/comunicacao-assincrona-e-sincrona-3gg)
-- [Turning search results into Markdown for LLMs](https://dev.to/nate_serpapi/turning-search-results-into-markdown-for-llms-1jc5)
+- [How to Reset Password for an Account in Windows 11?](https://dev.to/win11verse/how-to-reset-password-for-an-account-in-windows-11-5a24)
+- [New ChatGPT creation: wavy lines.](https://dev.to/tthtlc/new-chatgpt-creation-wavy-lines-1ai8)
+- [Index Routes](https://dev.to/khanrabiul/index-routes-49n2)
+- [Beginner&#39;s Guide to Version Control Systems &lpar;VCS&rpar;](https://dev.to/fitehal/beginners-guide-to-version-control-systems-vcs-1mjk)
 <!-- BLOG-POST-LIST:END -->
 
