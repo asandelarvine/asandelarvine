@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Chatbot with Svelte and ElizaBot](https://dev.to/blamsa0mine/build-a-simple-chatbot-with-svelte-and-elizabot-573m)
-- [Don&#39;t miss out on these AI tools!](https://dev.to/hosseinyazdi/dont-miss-out-on-these-ai-tools-43dj)
-- [Error: cannot mix str with &lpar;non-str&rpar; arguments](https://dev.to/ngregistrations/error-cannot-mix-str-with-non-str-arguments-4o64)
-- [AI Travel Planner app built with Next.js 15, Tailwind CSS, Prisma, Open AI, and Clerk.](https://dev.to/saidmounaim/ai-travel-planner-app-built-with-nextjs-15-tailwind-css-prisma-open-ai-and-clerk-2396)
+- [🛠Ultimate Guide to Creating Your Own Google Chrome Extension🛠](https://dev.to/hanzla-baig/ultimate-guide-to-creating-your-own-google-chrome-extension-52g6)
+- [Master the SAGA pattern to manage distributed transactions in microservices, ensuring data consistency and scalability!!!!](https://dev.to/lorebrada00/master-the-saga-pattern-to-manage-distributed-transactions-in-microservices-ensuring-data-1aa7)
+- [Comunicação Assíncrona e Síncrona](https://dev.to/emanoelcarvalho/comunicacao-assincrona-e-sincrona-3gg)
+- [Turning search results into Markdown for LLMs](https://dev.to/nate_serpapi/turning-search-results-into-markdown-for-llms-1jc5)
 <!-- BLOG-POST-LIST:END -->
 
