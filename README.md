@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats everyone!](https://dev.to/ben/congrats-everyone-4epm)
-- [Amazon Q Developer Tips: No.6 Exploring Use Cases](https://dev.to/aws/amazon-q-developer-tips-no6-exploring-use-cases-hf2)
-- [Advent of Joy](https://dev.to/martintale/advent-of-joy-40el)
-- [How is an SQL Query Statement executed](https://dev.to/kbws13/how-is-an-sql-query-statement-executed-1np5)
+- [What is Developer Mode on iPhone &amp; How to Enable It?](https://dev.to/codeparrot/what-is-developer-mode-on-iphone-how-to-enable-it-828)
+- [Quick Steps to Overcome Impostor Syndrome as a Tech Professional](https://dev.to/medalytics/quick-steps-to-overcome-impostor-syndrome-as-a-tech-professional-43c4)
+- [PHP: Should I mock or should I go?](https://dev.to/spo0q/php-mocking-od-458c)
+- [User Guide for ApplyUni.com](https://dev.to/ayeminkhant023/user-guide-for-applyunicom-25cp)
 <!-- BLOG-POST-LIST:END -->
 
