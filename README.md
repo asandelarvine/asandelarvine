@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-step guide: Adding client-side logic to your Hono app](https://dev.to/fiberplane/step-by-step-guide-adding-client-side-logic-to-your-hono-app-14eh)
+- [Understanding the `this` Keyword in JavaScript: A Complete Guide](https://dev.to/jps27cse/understanding-the-this-keyword-in-javascript-a-complete-guide-39oh)
+- [I made a plugin that enables PDF export in GROWI.](https://dev.to/goofmint/i-made-a-plugin-that-enables-pdf-export-in-growi-2d5m)
 - [5 tools for productive developer work](https://dev.to/itdevus/5-tools-for-productive-developer-work-37ha)
-- [Creating a New Era of Intelligent Finance: GBase Database Leading the Digital Transformation in Finance](https://dev.to/congcong/creating-a-new-era-of-intelligent-finance-gbase-database-leading-the-digital-transformation-in-3he4)
-- [Sorting Smarts in Java: Comparable and Comparator](https://dev.to/arshisaxena26/sorting-smarts-in-java-comparable-and-comparator-283j)
-- [How to Manage Your SQL Server Database Effectively](https://dev.to/auyeungdavid_2847435260/how-to-manage-your-sql-server-database-effectively-54ej)
 <!-- BLOG-POST-LIST:END -->
 
