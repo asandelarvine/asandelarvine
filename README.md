@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do I Turn JavaScript Off and Protect My Privacy](https://dev.to/swiftproxy9572/how-do-i-turn-javascript-off-and-protect-my-privacy-3h7m)
-- [Introduction to Batch processing with Apache Spark](https://dev.to/hiswill_thompson_e33923d1/introduction-to-batch-processing-with-apache-spark-3i99)
-- [How Do I Turn JavaScript Off Across Multiple Browsers](https://dev.to/swiftproxy9572/how-do-i-turn-javascript-off-across-multiple-browsers-583e)
-- [Celebrating Open Source in 2024: Top Projects and Milestones](https://dev.to/jaysaadana/celebrating-open-source-in-2024-top-projects-and-milestones-5993)
+- [How to upload files to a server in NodeJS with Formidable](https://dev.to/plleonart/how-to-upload-files-to-a-server-in-nodejs-with-formidable-3bkg)
+- [Learn how to animate objects with Tailwind CSS and Alpine JS intersection observer](https://dev.to/mike_andreuzza/learn-how-to-animate-objects-with-tailwind-css-and-alpine-js-intersection-observer-16l9)
+- [Building a 🧾 PDF Invoice Generator with 📨 Twilio SendGrid, 🐍 Python, Flask, and 🖌️ Bootstrap](https://dev.to/kumarkalyan/building-a-pdf-invoice-generator-with-twilio-sendgrid-python-flask-and-bootstrap-1pco)
+- [How to Quickly Level Up and Earn Money in Cabin Crew Life Simulator](https://dev.to/khaisimon_devgame/how-to-quickly-level-up-and-earn-money-in-cabin-crew-life-simulator-4oib)
 <!-- BLOG-POST-LIST:END -->
 
