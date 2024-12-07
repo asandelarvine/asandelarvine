@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Arduino Development with VSCode and Arduino CLI](https://dev.to/udara_dananjaya/how-to-set-up-arduino-development-with-vscode-and-arduino-cli-3382)
-- [AWS Compute Services](https://dev.to/adisa_akinkunmi/aws-compute-services-3kmn)
-- [Today’s new knowledge #9 &lpar;Understanding Transaction Rollbacks in Mongoose&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-9-understanding-transaction-rollbacks-in-mongoose-21ph)
-- [5 Key Concepts Every .NET Developer Should Know for Job Interviews](https://dev.to/auyeungdavid_2847435260/5-key-concepts-every-net-developer-should-know-for-job-interviews-4je6)
+- [Building Scalable Microservices with Java Spring Boot: Best Practices and Techniques part -2](https://dev.to/ayshriv/building-scalable-microservices-with-java-spring-boot-best-practices-and-techniques-part-2-3ld1)
+- [My First Full-Stack Deployment with Docker and NGINX as Load Balancer](https://dev.to/fazly_fathhy/my-first-full-stack-deployment-with-docker-and-nginx-as-load-balancer-4nlm)
+- [Adding a user to your existing AWS subscription involves creating an IAM &lpar;Identity and Access Management&rpar; user.](https://dev.to/fisherwayy/adding-a-user-to-your-existing-aws-subscription-involves-creating-an-iam-identity-and-access-415c)
+- [Submission for the DevCycle Feature Flag Challenge: AI Feature Flag Suggestions 🧠](https://dev.to/siddhantkcode/submission-for-the-devcycle-feature-flag-challenge-ai-feature-flag-suggestions-566m)
 <!-- BLOG-POST-LIST:END -->
 
