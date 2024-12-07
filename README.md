@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Machine Learning: Transforming Business Analytics](https://dev.to/techyboo009/ai-and-machine-learning-transforming-business-analytics-2dnm)
-- [Mastering the GST Invoice Format: A Comprehensive Guide to Create and Manage Your Invoices](https://dev.to/anais_hammes_b02c95a6f911/mastering-the-gst-invoice-format-a-comprehensive-guide-to-create-and-manage-your-invoices-20ad)
-- [AI and Machine Learning: Future Technology Trends](https://dev.to/techyboo009/ai-and-machine-learning-future-technology-trends-4n25)
-- [Machine Learning for Beginners: A Quick Guide](https://dev.to/techyboo009/machine-learning-for-beginners-a-quick-guide-3gf7)
+- [A Beginner&#39;s Guide to Docker Health Checks and Container Monitoring](https://dev.to/idsulik/a-beginners-guide-to-docker-health-checks-and-container-monitoring-3kh6)
+- [Boost Your Retrieval-Augmented Generation &lpar;RAG&rpar; with Vector Databases 🚀](https://dev.to/shubhsk/boost-your-retrieval-augmented-generation-rag-with-vector-databases-2j55)
+- [hi devs.](https://dev.to/karavind2005/hi-devs-2k1m)
+- [Exploring Localhost 127.0.0.1:62893: Setup and Usage Guide](https://dev.to/techyboo009/exploring-localhost-12700162893-setup-and-usage-guide-4ja6)
 <!-- BLOG-POST-LIST:END -->
 
