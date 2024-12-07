@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Features in React 19 Stable ️‍🔥](https://dev.to/best_codes/new-features-in-react-19-stable-4ded)
-- [Comecei um emprego novo, e agora?](https://dev.to/hillarysousa/comecei-um-emprego-novo-e-agora-2pl2)
-- [Building a Simple Grav CMS Theme with Twig, PHP, and CSS](https://dev.to/reubenwalker64/building-a-simple-grav-cms-theme-with-twig-php-and-css-17e7)
-- [AISEKA Color Tool Website](https://dev.to/meetqy/aiseka-color-tool-website-4bol)
+- [Modular Programming: Benefits, Challenges, and Modern Applications](https://dev.to/alex_ricciardi/modular-programming-benefits-challenges-and-modern-applications-5395)
+- [Part 3: Building Your Own AI - Understanding the Basics of Machine Learning Algorithms](https://dev.to/trixsec/part-3-building-your-own-ai-understanding-the-basics-of-machine-learning-algorithms-11kh)
+- [Fundamentos do autoboxing e os métodos](https://dev.to/javaefetivo/fundamentos-do-autoboxing-e-os-metodos-2i5m)
+- [CRUD With Flask And MySql #1 Introduction](https://dev.to/yudhasdev/crud-with-flask-and-mysql-1-introduction-ajk)
 <!-- BLOG-POST-LIST:END -->
 
