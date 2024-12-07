@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just came across this while doing some hobby stuff. Really cool project from a few years ago.](https://dev.to/ben/just-came-across-this-while-doing-some-hobby-stuff-really-cool-project-from-a-few-years-ago-1kj3)
-- [Day 1069 : Keep Going](https://dev.to/dwane/day-1069-keep-going-1m78)
-- [Glam Up My Markup: Winter Solstice](https://dev.to/ladeoshodi/glam-up-my-markup-winter-solstice-21e9)
-- [AWS Global Infrastructure: Availability Zones, Regions and Edge Locations.](https://dev.to/nyong_godwill_e7dfb3c04a7/aws-global-infrastructure-availability-zones-regions-and-edge-locations-5bmg)
+- [JWT](https://dev.to/rednexie/jwt-28n8)
+- [Daily JavaScript Challenge #JS-40: Find Balanced Delimiters](https://dev.to/dpc/daily-javascript-challenge-js-40-find-balanced-delimiters-56dc)
+- [Beyond the Classroom: Inspiring Careers in Open Source](https://dev.to/gh-campus-experts/beyond-the-classroom-inspiring-careers-in-open-source-56ld)
+- [NoSQL injection](https://dev.to/rednexie/nosql-injection-93d)
 <!-- BLOG-POST-LIST:END -->
 
