@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling in Zig: A Fresh Approach to Reliability](https://dev.to/chrischtel/error-handling-in-zig-a-fresh-approach-to-reliability-19o2)
-- [Mastering Go Concurrency: Essential Patterns for High-Performance Systems](https://dev.to/aaravjoshi/mastering-go-concurrency-essential-patterns-for-high-performance-systems-1ko6)
-- [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc)
-- [Understanding float and double in Java](https://dev.to/ricardocaselati/understanding-float-and-double-in-java-hoa)
+- [How to Print a Test Page on Your Printer - Quick Guide](https://dev.to/tobbystalin/how-to-print-a-test-page-on-your-printer-quick-guide-j62)
+- [🚨 Calling All Developers: Are You Making These Common Mistakes? 🚨](https://dev.to/sayyad_arsalan_97175d7177/calling-all-developers-are-you-making-these-common-mistakes-1g0h)
+- [Choose functional stack for next project](https://dev.to/roman_m/choose-functional-stack-for-next-project-3ep7)
+- [Driving Innovation: The Role of AWS and Its Services in the Advancing Tech World.](https://dev.to/faisal_the1st/driving-innovation-the-role-of-aws-and-its-services-in-the-advancing-tech-world-1oj8)
 <!-- BLOG-POST-LIST:END -->
 
