@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to upload files to a server in NodeJS with Formidable](https://dev.to/plleonart/how-to-upload-files-to-a-server-in-nodejs-with-formidable-3bkg)
-- [Learn how to animate objects with Tailwind CSS and Alpine JS intersection observer](https://dev.to/mike_andreuzza/learn-how-to-animate-objects-with-tailwind-css-and-alpine-js-intersection-observer-16l9)
-- [Building a 🧾 PDF Invoice Generator with 📨 Twilio SendGrid, 🐍 Python, Flask, and 🖌️ Bootstrap](https://dev.to/kumarkalyan/building-a-pdf-invoice-generator-with-twilio-sendgrid-python-flask-and-bootstrap-1pco)
-- [How to Quickly Level Up and Earn Money in Cabin Crew Life Simulator](https://dev.to/khaisimon_devgame/how-to-quickly-level-up-and-earn-money-in-cabin-crew-life-simulator-4oib)
+- [AI and Machine Learning: Transforming Business Analytics](https://dev.to/techyboo009/ai-and-machine-learning-transforming-business-analytics-2dnm)
+- [Mastering the GST Invoice Format: A Comprehensive Guide to Create and Manage Your Invoices](https://dev.to/anais_hammes_b02c95a6f911/mastering-the-gst-invoice-format-a-comprehensive-guide-to-create-and-manage-your-invoices-20ad)
+- [AI and Machine Learning: Future Technology Trends](https://dev.to/techyboo009/ai-and-machine-learning-future-technology-trends-4n25)
+- [Machine Learning for Beginners: A Quick Guide](https://dev.to/techyboo009/machine-learning-for-beginners-a-quick-guide-3gf7)
 <!-- BLOG-POST-LIST:END -->
 
