@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Print a Test Page on Your Printer - Quick Guide](https://dev.to/tobbystalin/how-to-print-a-test-page-on-your-printer-quick-guide-j62)
-- [🚨 Calling All Developers: Are You Making These Common Mistakes? 🚨](https://dev.to/sayyad_arsalan_97175d7177/calling-all-developers-are-you-making-these-common-mistakes-1g0h)
-- [Choose functional stack for next project](https://dev.to/roman_m/choose-functional-stack-for-next-project-3ep7)
-- [Driving Innovation: The Role of AWS and Its Services in the Advancing Tech World.](https://dev.to/faisal_the1st/driving-innovation-the-role-of-aws-and-its-services-in-the-advancing-tech-world-1oj8)
+- [Retaining ChatGPT Insights: Active Learning with Readwise](https://dev.to/airabbit/retaining-chatgpt-insights-active-learning-with-readwise-4m5p)
+- [Art with CSS Grid and SVG filters](https://dev.to/madsstoumann/art-with-css-grid-and-svg-filters-1ke6)
+- [JSONs and its variations](https://dev.to/junissen9/jsons-and-its-variations-48in)
+- [Understanding Prototypical Inheritance in JavaScript: A Beginner&#39;s Guide](https://dev.to/sangeeth_p_a1f93f8e09aa9e/understanding-prototypical-inheritance-in-javascript-a-beginners-guide-15n7)
 <!-- BLOG-POST-LIST:END -->
 
