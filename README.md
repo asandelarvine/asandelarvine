@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modular Programming: Benefits, Challenges, and Modern Applications](https://dev.to/alex_ricciardi/modular-programming-benefits-challenges-and-modern-applications-5395)
-- [Part 3: Building Your Own AI - Understanding the Basics of Machine Learning Algorithms](https://dev.to/trixsec/part-3-building-your-own-ai-understanding-the-basics-of-machine-learning-algorithms-11kh)
-- [Fundamentos do autoboxing e os métodos](https://dev.to/javaefetivo/fundamentos-do-autoboxing-e-os-metodos-2i5m)
-- [CRUD With Flask And MySql #1 Introduction](https://dev.to/yudhasdev/crud-with-flask-and-mysql-1-introduction-ajk)
+- [Best article so far for learning typescript !!](https://dev.to/paxnw/best-article-so-far-for-learning-typescript--4p05)
+- [Introduction to RESTful APIs](https://dev.to/vipulkumarsviit/introduction-to-restful-apis-2g4j)
+- [🚀 Top 10 Tech Trends Developers Must Know in 2025 🌐](https://dev.to/sayyad_arsalan_97175d7177/top-10-tech-trends-developers-must-know-in-2025-10ol)
+- [Angular Chart Visualization Task](https://dev.to/ktrajasekar/angular-chart-visualization-task-l2n)
 <!-- BLOG-POST-LIST:END -->
 
