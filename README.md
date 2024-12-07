@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AWS SQS for a Modern Nigerian Lifestyle: A Reliable Message Queue Service](https://dev.to/imran_abdulazeez_/leveraging-aws-sqs-for-a-modern-nigerian-lifestyle-a-reliable-message-queue-service-35m0)
-- [Containerized Development Workflows](https://dev.to/iskender83/containerized-development-workflows-1hjp)
-- [AI: A Double-Edged Sword, Shaping Our Future](https://dev.to/akshay5651/ai-a-double-edged-sword-shaping-our-future-869)
-- [Java Compilation : From Source Code to Bytecode Execution](https://dev.to/imkrunalkanojiya/java-compilation-from-source-code-to-bytecode-execution-12hp)
+- [Recently I decided to give Linux a go after using windows my entire life and all I can say is why didn’t I do it sooner. 🤣 #Linux](https://dev.to/ju1cyj4y/recently-i-decided-to-give-linux-a-go-after-using-windows-my-entire-life-and-all-i-can-say-is-why-1efl)
+- [Risk-Based Security Policies for Cloud Computing](https://dev.to/iskender83/risk-based-security-policies-for-cloud-computing-1hfb)
+- [PHP 8 News: Constructor Property Promotion](https://dev.to/xxzeroxx/php-8-news-constructor-property-promotion-1k30)
+- [Vulnerability Scanning in Cloud Infrastructure](https://dev.to/iskender83/vulnerability-scanning-in-cloud-infrastructure-1ikp)
 <!-- BLOG-POST-LIST:END -->
 
