@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Implementation with LangChain](https://dev.to/bolajibolajoko51/rag-implementation-with-langchain-2jei)
-- [Sorting Algorithms That Use Hash Tables](https://dev.to/adityabhuyan/sorting-algorithms-that-use-hash-tables-3chh)
-- [How To Add Multiple Modules In The Swift Package Manager](https://dev.to/divyeshvekariya/how-to-add-multiple-modules-in-the-swift-package-manager-1b9i)
-- [Mastering Dependency Injection in Android Development](https://dev.to/adityabhuyan/mastering-dependency-injection-in-android-development-37cf)
+- [What is QUIC protocol, and how to use through Rust?](https://dev.to/kination/what-is-quic-protocol-and-how-to-use-through-rust-30i8)
+- [Non overlapping intervals](https://dev.to/prashantrmishra/non-overlapping-intervals-2jhh)
+- [Linux Basics](https://dev.to/bdporomon/linux-basics-3gd)
+- [Discord Developer Cheat Sheet](https://dev.to/leimanisemils/discord-developer-cheat-sheet-2c4)
 <!-- BLOG-POST-LIST:END -->
 
