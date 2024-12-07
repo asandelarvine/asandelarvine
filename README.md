@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Docker Health Checks and Container Monitoring](https://dev.to/idsulik/a-beginners-guide-to-docker-health-checks-and-container-monitoring-3kh6)
-- [Boost Your Retrieval-Augmented Generation &lpar;RAG&rpar; with Vector Databases 🚀](https://dev.to/shubhsk/boost-your-retrieval-augmented-generation-rag-with-vector-databases-2j55)
-- [hi devs.](https://dev.to/karavind2005/hi-devs-2k1m)
-- [Exploring Localhost 127.0.0.1:62893: Setup and Usage Guide](https://dev.to/techyboo009/exploring-localhost-12700162893-setup-and-usage-guide-4ja6)
+- [AWS Data Storage Options: S3, EBS, and EFS](https://dev.to/574n13y/aws-data-storage-options-s3-ebs-and-efs-12de)
+- [“A Beginner’s Guide to Getting Started with Front-End Frameworks”](https://dev.to/muhammad_moon_a4f4d3197cb/a-beginners-guide-to-getting-started-with-front-end-frameworks-3n0d)
+- [Sun and Moon landscape](https://dev.to/martichka9/sun-and-moon-landscape-3bfe)
+- [What is First Person Narrative on LinkedIn?](https://dev.to/nozibul_islam_113b1d5334f/what-is-first-person-narrative-on-linkedin-16a3)
 <!-- BLOG-POST-LIST:END -->
 
