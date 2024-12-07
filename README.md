@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recently I decided to give Linux a go after using windows my entire life and all I can say is why didn’t I do it sooner. 🤣 #Linux](https://dev.to/ju1cyj4y/recently-i-decided-to-give-linux-a-go-after-using-windows-my-entire-life-and-all-i-can-say-is-why-1efl)
-- [Risk-Based Security Policies for Cloud Computing](https://dev.to/iskender83/risk-based-security-policies-for-cloud-computing-1hfb)
-- [PHP 8 News: Constructor Property Promotion](https://dev.to/xxzeroxx/php-8-news-constructor-property-promotion-1k30)
-- [Vulnerability Scanning in Cloud Infrastructure](https://dev.to/iskender83/vulnerability-scanning-in-cloud-infrastructure-1ikp)
+- [AWS SNS and SQS: Building Reliable Messaging Systems](https://dev.to/msalbrain/aws-sns-and-sqs-building-reliable-messaging-systems-1971)
+- [Step into the world of API integration in your React projects with the powerful Google Gemini API!](https://dev.to/tahrim_bilal/step-into-the-world-of-api-integration-in-your-react-projects-with-the-powerful-google-gemini-api-abe)
+- [Introducing VecSpark](https://dev.to/aditya47x/introducing-vecspark-41m)
+- [Release 0.4 Release](https://dev.to/aamfahim/release-04-release-13cn)
 <!-- BLOG-POST-LIST:END -->
 
