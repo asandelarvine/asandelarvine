@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT](https://dev.to/rednexie/jwt-28n8)
-- [Daily JavaScript Challenge #JS-40: Find Balanced Delimiters](https://dev.to/dpc/daily-javascript-challenge-js-40-find-balanced-delimiters-56dc)
-- [Beyond the Classroom: Inspiring Careers in Open Source](https://dev.to/gh-campus-experts/beyond-the-classroom-inspiring-careers-in-open-source-56ld)
-- [NoSQL injection](https://dev.to/rednexie/nosql-injection-93d)
+- [New Features in React 19 Stable ️‍🔥](https://dev.to/best_codes/new-features-in-react-19-stable-4ded)
+- [Comecei um emprego novo, e agora?](https://dev.to/hillarysousa/comecei-um-emprego-novo-e-agora-2pl2)
+- [Building a Simple Grav CMS Theme with Twig, PHP, and CSS](https://dev.to/reubenwalker64/building-a-simple-grav-cms-theme-with-twig-php-and-css-17e7)
+- [AISEKA Color Tool Website](https://dev.to/meetqy/aiseka-color-tool-website-4bol)
 <!-- BLOG-POST-LIST:END -->
 
