@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Cloud Security Strategy](https://dev.to/iskender83/hybrid-cloud-security-strategy-55a9)
-- [An opinionated testing approach for VueJS](https://dev.to/allhandsondeck/an-opinionated-testing-approach-in-vuejs-3p0a)
-- [Database Security in the Cloud](https://dev.to/iskender83/database-security-in-the-cloud-o4f)
-- [AoC &#39;24 - Day7: Bridge Repair](https://dev.to/grantdotdev/aoc-24-day7-bridge-repair-n7n)
+- [Leveraging AWS SQS for a Modern Nigerian Lifestyle: A Reliable Message Queue Service](https://dev.to/imran_abdulazeez_/leveraging-aws-sqs-for-a-modern-nigerian-lifestyle-a-reliable-message-queue-service-35m0)
+- [Containerized Development Workflows](https://dev.to/iskender83/containerized-development-workflows-1hjp)
+- [AI: A Double-Edged Sword, Shaping Our Future](https://dev.to/akshay5651/ai-a-double-edged-sword-shaping-our-future-869)
+- [Java Compilation : From Source Code to Bytecode Execution](https://dev.to/imkrunalkanojiya/java-compilation-from-source-code-to-bytecode-execution-12hp)
 <!-- BLOG-POST-LIST:END -->
 
