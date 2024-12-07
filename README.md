@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SNS and SQS: Building Reliable Messaging Systems](https://dev.to/msalbrain/aws-sns-and-sqs-building-reliable-messaging-systems-1971)
-- [Step into the world of API integration in your React projects with the powerful Google Gemini API!](https://dev.to/tahrim_bilal/step-into-the-world-of-api-integration-in-your-react-projects-with-the-powerful-google-gemini-api-abe)
-- [Introducing VecSpark](https://dev.to/aditya47x/introducing-vecspark-41m)
-- [Release 0.4 Release](https://dev.to/aamfahim/release-04-release-13cn)
+- [E-commerce Product Page: Building Dynamic Shopping Experiences! 🛍️](https://dev.to/imrancodes/e-commerce-product-page-building-dynamic-shopping-experiences-1k2h)
+- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-11h2)
+- [Why 90% of Software Development Projects Fail &lpar;And How You Can Avoid It!&rpar;](https://dev.to/ekele/why-90-of-software-development-projects-fail-and-how-you-can-avoid-it-3dnb)
+- [testing whatever](https://dev.to/javascriptar/testing-whatever-50k5)
 <!-- BLOG-POST-LIST:END -->
 
