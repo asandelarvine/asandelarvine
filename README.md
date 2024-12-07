@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retaining ChatGPT Insights: Active Learning with Readwise](https://dev.to/airabbit/retaining-chatgpt-insights-active-learning-with-readwise-4m5p)
-- [Art with CSS Grid and SVG filters](https://dev.to/madsstoumann/art-with-css-grid-and-svg-filters-1ke6)
-- [JSONs and its variations](https://dev.to/junissen9/jsons-and-its-variations-48in)
-- [Understanding Prototypical Inheritance in JavaScript: A Beginner&#39;s Guide](https://dev.to/sangeeth_p_a1f93f8e09aa9e/understanding-prototypical-inheritance-in-javascript-a-beginners-guide-15n7)
+- [How to Set Up Arduino Development with VSCode and Arduino CLI](https://dev.to/udara_dananjaya/how-to-set-up-arduino-development-with-vscode-and-arduino-cli-3382)
+- [AWS Compute Services](https://dev.to/adisa_akinkunmi/aws-compute-services-3kmn)
+- [Today’s new knowledge #9 &lpar;Understanding Transaction Rollbacks in Mongoose&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-9-understanding-transaction-rollbacks-in-mongoose-21ph)
+- [5 Key Concepts Every .NET Developer Should Know for Job Interviews](https://dev.to/auyeungdavid_2847435260/5-key-concepts-every-net-developer-should-know-for-job-interviews-4je6)
 <!-- BLOG-POST-LIST:END -->
 
