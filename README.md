@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 of SQL Series || Operators , Wildcards and Aggregate Functions](https://dev.to/akshat0610/day-5-of-sql-series-operators-wildcards-and-aggregate-functions-28mf)
-- [Export .env from Vercel: New Laptop, Old Project? No Problem!](https://dev.to/csituma/how-do-you-export-env-from-vercel-new-laptop-old-project-no-problem-1fd1)
-- [Great article about using ThingsDB as a complete back-end solution, Thanks Michal!](https://dev.to/joente/great-article-about-using-thingsdb-as-a-complete-back-end-solution-thanks-michal-20o8)
-- [DevOps for Beginners: When Code, Ops, and Humor Become Best Friends](https://dev.to/ravindra_babu/devops-for-beginners-when-code-ops-and-humor-become-best-friends-2gka)
+- [Error Handling in Zig: A Fresh Approach to Reliability](https://dev.to/chrischtel/error-handling-in-zig-a-fresh-approach-to-reliability-19o2)
+- [Mastering Go Concurrency: Essential Patterns for High-Performance Systems](https://dev.to/aaravjoshi/mastering-go-concurrency-essential-patterns-for-high-performance-systems-1ko6)
+- [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc)
+- [Understanding float and double in Java](https://dev.to/ricardocaselati/understanding-float-and-double-in-java-hoa)
 <!-- BLOG-POST-LIST:END -->
 
