@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best article so far for learning typescript !!](https://dev.to/paxnw/best-article-so-far-for-learning-typescript--4p05)
-- [Introduction to RESTful APIs](https://dev.to/vipulkumarsviit/introduction-to-restful-apis-2g4j)
-- [🚀 Top 10 Tech Trends Developers Must Know in 2025 🌐](https://dev.to/sayyad_arsalan_97175d7177/top-10-tech-trends-developers-must-know-in-2025-10ol)
-- [Angular Chart Visualization Task](https://dev.to/ktrajasekar/angular-chart-visualization-task-l2n)
+- [RAG Implementation with LangChain](https://dev.to/bolajibolajoko51/rag-implementation-with-langchain-2jei)
+- [Sorting Algorithms That Use Hash Tables](https://dev.to/adityabhuyan/sorting-algorithms-that-use-hash-tables-3chh)
+- [How To Add Multiple Modules In The Swift Package Manager](https://dev.to/divyeshvekariya/how-to-add-multiple-modules-in-the-swift-package-manager-1b9i)
+- [Mastering Dependency Injection in Android Development](https://dev.to/adityabhuyan/mastering-dependency-injection-in-android-development-37cf)
 <!-- BLOG-POST-LIST:END -->
 
