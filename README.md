@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential JavaScript Design Patterns for Scalable Web Development](https://dev.to/aaravjoshi/5-essential-javascript-design-patterns-for-scalable-web-development-30an)
-- [Chat to Database GenAI Chatbot](https://dev.to/gary_zavaleta_ee17bce787f/chat-to-database-genai-chatbot-486h)
-- [Javascript Current Date App &lpar;Project 1, Day 5 of 100&rpar;](https://dev.to/kofa_sunday_73d00f8011584/javascript-current-date-app-project-1-day-5-of-100-47lf)
-- [Enhancing the Developer Experience of Testing Part 2](https://dev.to/pauldmooney/enhancing-the-developer-experience-of-testing-part-2-3oee)
+- [Task.WhenAll + Exceptions = Dor de Cabeça!](https://dev.to/angelobelchior/taskwhenall-exceptions-dor-de-cabeca-29g)
+- [Set Git to Recognize Case Changes](https://dev.to/elukuro/set-git-to-recognize-case-changes-3f77)
+- [Topics in Open Source Final Run Part 2 &lpar;Progress&rpar;](https://dev.to/ajogseneca/topics-in-open-source-final-run-part-2-progress-5dp4)
+- [Meu final de ano, dicas, conselhos, opiniões, estou aceitando!](https://dev.to/felipetess/meu-final-de-ano-dicas-conselhos-opinioes-estou-aceitando-3139)
 <!-- BLOG-POST-LIST:END -->
 
