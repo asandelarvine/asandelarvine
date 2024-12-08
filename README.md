@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced State Management Techniques in ReactJS](https://dev.to/atharvgyan/advanced-state-management-techniques-in-reactjs-19jl)
+- [React 19 Update 🎉](https://dev.to/sonu123/react-19-update-jcd)
+- [React 19 is now stable ! What’s New 👇](https://dev.to/random_ti/react-19-is-now-stable-whats-new-1k3b)
 - [What’s the hardest part of Software Development?](https://dev.to/itdevus/whats-the-hardest-part-of-software-development-4c9)
-- [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
-- [Boost Your Productivity with Pieces for Developers](https://dev.to/grenishrai/boost-your-productivity-with-pieces-for-developers-k2g)
-- [Solid State Drive &lpar;SSD&rpar; : Complete Overview](https://dev.to/madgan95/solid-state-drive-ssd-complete-overview-3n54)
 <!-- BLOG-POST-LIST:END -->
 
