@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Memes Of The Day](https://dev.to/hanzla-baig/the-memes-of-the-day-5c5k)
-- [🚀 How to Share Components Between Sites: A Complete Advanced Guide 🌐](https://dev.to/hanzla-baig/how-to-share-components-between-sites-a-complete-advanced-guide-112)
-- [🚀 How to Share Components Between Sites: The Ultimate Guide🌐](https://dev.to/hanzla-baig/how-to-share-components-between-sites-the-ultimate-guide-46h2)
-- [🚚Memprediksi Geofence di Depan dengan Turf.js: Solusi Cerdas untuk Jalur Hauling](https://dev.to/ferryops/memprediksi-geofence-di-depan-dengan-turfjs-solusi-cerdas-untuk-jalur-hauling-39b4)
+- [What’s the hardest part of Software Development?](https://dev.to/itdevus/whats-the-hardest-part-of-software-development-4c9)
+- [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
+- [Boost Your Productivity with Pieces for Developers](https://dev.to/grenishrai/boost-your-productivity-with-pieces-for-developers-k2g)
+- [Solid State Drive &lpar;SSD&rpar; : Complete Overview](https://dev.to/madgan95/solid-state-drive-ssd-complete-overview-3n54)
 <!-- BLOG-POST-LIST:END -->
 
