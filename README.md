@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your Custom WSL from any Linux Distribution &lpar;Part-1&rpar;](https://dev.to/ddebajyati/create-your-custom-wsl-from-any-linux-distribution-part-1-51k1)
-- [Inside `java.lang.String`: Understanding and Optimizing Instantiation Performance](https://dev.to/komamitsu/inside-javalangstring-understanding-and-optimizing-instantiation-performance-2poj)
-- [Python Merge Dictionaries – A Complete Guide to Merging Dicts in Python](https://dev.to/askyt/python-merge-dictionaries-a-complete-guide-to-merging-dicts-in-python-4eo2)
-- [Vector Database for Modern Applications](https://dev.to/sebastiancotrina/vector-database-for-modern-applications-jph)
+- [Ollama 0.5 Is Here: Generate Structured Outputs](https://dev.to/busycaesar/structured-response-using-ollama-2i73)
+- [Building an ETL Pipeline for Web Scraping Using Python](https://dev.to/techwithqasim/building-an-etl-pipeline-for-web-scraping-using-python-2381)
+- [Master the Art of Creating a Responsive Navigation Menu Bar using JavaScript](https://dev.to/sharathchandark/master-the-art-of-creating-a-responsive-navigation-menu-bar-using-javascript-264j)
+- [Handling Recipient SMS Replies with Twilio and .NET](https://dev.to/seanmdrew/handling-recipient-sms-replies-with-twilio-and-net-1kni)
 <!-- BLOG-POST-LIST:END -->
 
