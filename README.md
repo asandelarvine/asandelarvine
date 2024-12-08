@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced State Management Techniques in ReactJS](https://dev.to/atharvgyan/advanced-state-management-techniques-in-reactjs-19jl)
-- [React 19 Update 🎉](https://dev.to/sonu123/react-19-update-jcd)
-- [React 19 is now stable ! What’s New 👇](https://dev.to/random_ti/react-19-is-now-stable-whats-new-1k3b)
-- [What’s the hardest part of Software Development?](https://dev.to/itdevus/whats-the-hardest-part-of-software-development-4c9)
+- [Create Your Custom WSL from any Linux Distribution &lpar;Part-1&rpar;](https://dev.to/ddebajyati/create-your-custom-wsl-from-any-linux-distribution-part-1-51k1)
+- [Inside `java.lang.String`: Understanding and Optimizing Instantiation Performance](https://dev.to/komamitsu/inside-javalangstring-understanding-and-optimizing-instantiation-performance-2poj)
+- [Python Merge Dictionaries – A Complete Guide to Merging Dicts in Python](https://dev.to/askyt/python-merge-dictionaries-a-complete-guide-to-merging-dicts-in-python-4eo2)
+- [Vector Database for Modern Applications](https://dev.to/sebastiancotrina/vector-database-for-modern-applications-jph)
 <!-- BLOG-POST-LIST:END -->
 
