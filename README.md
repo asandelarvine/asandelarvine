@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customizing IEx: Personalizing Your Elixir Shell Environment](https://dev.to/abreujp/customizing-iex-personalizing-your-elixir-shell-environment-3jmc)
-- [CASE and DECODE in SQL](https://dev.to/mrcaption49/case-decode-1hmg)
-- [Arc42: Cómo Documentar Arquitecturas Cloud Complejas para Garantizar el Éxito](https://dev.to/ajcastillo/arc42-como-documentar-arquitecturas-cloud-complejas-para-garantizar-el-exito-44l3)
-- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-lio)
+- [what is type-safe web APIs?](https://dev.to/surajvatsya/what-is-type-safe-web-apis-bc)
+- [Advent of Code #8 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-8-in-gleam-4of6)
+- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-3mnd)
+- [🚨High-Severity Laravel Vulnerability &lpar;CVE-2024-52301&rpar; - Awareness and Action Required](https://dev.to/saanchitapaul/high-severity-laravel-vulnerability-cve-2024-52301-awareness-and-action-required-15po)
 <!-- BLOG-POST-LIST:END -->
 
