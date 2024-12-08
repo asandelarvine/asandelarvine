@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce Product Page: Building Dynamic Shopping Experiences! 🛍️](https://dev.to/imrancodes/e-commerce-product-page-building-dynamic-shopping-experiences-1k2h)
-- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-11h2)
-- [Why 90% of Software Development Projects Fail &lpar;And How You Can Avoid It!&rpar;](https://dev.to/ekele/why-90-of-software-development-projects-fail-and-how-you-can-avoid-it-3dnb)
-- [testing whatever](https://dev.to/javascriptar/testing-whatever-50k5)
+- [5 Essential JavaScript Design Patterns for Scalable Web Development](https://dev.to/aaravjoshi/5-essential-javascript-design-patterns-for-scalable-web-development-30an)
+- [Chat to Database GenAI Chatbot](https://dev.to/gary_zavaleta_ee17bce787f/chat-to-database-genai-chatbot-486h)
+- [Javascript Current Date App &lpar;Project 1, Day 5 of 100&rpar;](https://dev.to/kofa_sunday_73d00f8011584/javascript-current-date-app-project-1-day-5-of-100-47lf)
+- [Enhancing the Developer Experience of Testing Part 2](https://dev.to/pauldmooney/enhancing-the-developer-experience-of-testing-part-2-3oee)
 <!-- BLOG-POST-LIST:END -->
 
