@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript vs. Deno, Vite 6, Astro 5, and more](https://dev.to/thisweekinjavascript/javascript-vs-deno-vite-6-astro5-and-more-57oo)
-- [2054. Two Best Non-Overlapping Events](https://dev.to/mdarifulhaque/2054-two-best-non-overlapping-events-27jf)
-- [How do you print in c language?](https://dev.to/sandeep_a67a84444cb5f3f6f/how-do-you-print-in-c-language-190l)
-- [Mastering Event-Driven Systems: My Perspective on Common Pitfalls](https://dev.to/chandrasekar_jayabharathy/mastering-event-driven-systems-my-perspective-on-common-pitfalls-12e4)
+- [Customizing IEx: Personalizing Your Elixir Shell Environment](https://dev.to/abreujp/customizing-iex-personalizing-your-elixir-shell-environment-3jmc)
+- [CASE and DECODE in SQL](https://dev.to/mrcaption49/case-decode-1hmg)
+- [Arc42: Cómo Documentar Arquitecturas Cloud Complejas para Garantizar el Éxito](https://dev.to/ajcastillo/arc42-como-documentar-arquitecturas-cloud-complejas-para-garantizar-el-exito-44l3)
+- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-lio)
 <!-- BLOG-POST-LIST:END -->
 
