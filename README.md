@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama 0.5 Is Here: Generate Structured Outputs](https://dev.to/busycaesar/structured-response-using-ollama-2i73)
-- [Building an ETL Pipeline for Web Scraping Using Python](https://dev.to/techwithqasim/building-an-etl-pipeline-for-web-scraping-using-python-2381)
-- [Master the Art of Creating a Responsive Navigation Menu Bar using JavaScript](https://dev.to/sharathchandark/master-the-art-of-creating-a-responsive-navigation-menu-bar-using-javascript-264j)
-- [Handling Recipient SMS Replies with Twilio and .NET](https://dev.to/seanmdrew/handling-recipient-sms-replies-with-twilio-and-net-1kni)
+- [What is parameters in java?](https://dev.to/pavitra_aravind_3d319916a/what-is-parameters-in-java-1di3)
+- [From Network Admin to aspiring Cloud Engineer - The Cloud Resume Challenge &lpar;Azure&rpar;](https://dev.to/emswantek1/from-network-admin-to-aspiring-cloud-engineer-the-cloud-resume-challenge-azure-214k)
+- [Google Axion: A New Leader in ARM Server Performance](https://dev.to/dkechag/google-axion-a-new-leader-in-arm-server-performance-4im9)
+- [Backing Up and Restoring the System—Best Practices](https://dev.to/theyasirr/backing-up-and-restoring-the-system-best-practices-5f1p)
 <!-- BLOG-POST-LIST:END -->
 
