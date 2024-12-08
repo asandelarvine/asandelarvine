@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is parameters in java?](https://dev.to/pavitra_aravind_3d319916a/what-is-parameters-in-java-1di3)
-- [From Network Admin to aspiring Cloud Engineer - The Cloud Resume Challenge &lpar;Azure&rpar;](https://dev.to/emswantek1/from-network-admin-to-aspiring-cloud-engineer-the-cloud-resume-challenge-azure-214k)
-- [Google Axion: A New Leader in ARM Server Performance](https://dev.to/dkechag/google-axion-a-new-leader-in-arm-server-performance-4im9)
-- [Backing Up and Restoring the System—Best Practices](https://dev.to/theyasirr/backing-up-and-restoring-the-system-best-practices-5f1p)
+- [JavaScript vs. Deno, Vite 6, Astro 5, and more](https://dev.to/thisweekinjavascript/javascript-vs-deno-vite-6-astro5-and-more-57oo)
+- [2054. Two Best Non-Overlapping Events](https://dev.to/mdarifulhaque/2054-two-best-non-overlapping-events-27jf)
+- [How do you print in c language?](https://dev.to/sandeep_a67a84444cb5f3f6f/how-do-you-print-in-c-language-190l)
+- [Mastering Event-Driven Systems: My Perspective on Common Pitfalls](https://dev.to/chandrasekar_jayabharathy/mastering-event-driven-systems-my-perspective-on-common-pitfalls-12e4)
 <!-- BLOG-POST-LIST:END -->
 
