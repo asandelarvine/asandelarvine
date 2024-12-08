@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what is type-safe web APIs?](https://dev.to/surajvatsya/what-is-type-safe-web-apis-bc)
-- [Advent of Code #8 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-8-in-gleam-4of6)
-- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-3mnd)
-- [🚨High-Severity Laravel Vulnerability &lpar;CVE-2024-52301&rpar; - Awareness and Action Required](https://dev.to/saanchitapaul/high-severity-laravel-vulnerability-cve-2024-52301-awareness-and-action-required-15po)
+- [Nexus Network Testnet: A Revolution in Blockchain and Cybersecurity](https://dev.to/nauman_aslam_7cfcf7b83f8a/nexus-network-testnet-a-revolution-in-blockchain-and-cybersecurity-ml7)
+- [Day 8: Week 1 Quiz](https://dev.to/code42cate/day-7-week-1-quiz-dec)
+- [Creating an Amazon EC2 instance and installing the IIS web server.](https://dev.to/oluoma_stella/creating-an-amazon-ec2-instance-and-installing-the-iis-web-server-5c44)
+- [Fetching Liked Posts Using the Bluesky API](https://dev.to/noah_75a59e33bd95/fetching-liked-posts-using-the-bluesky-api-4iko)
 <!-- BLOG-POST-LIST:END -->
 
