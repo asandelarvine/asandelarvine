@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking about learning TypeScript? Start with JavaScript to build a strong foundation. Once you&#39;re comfortable, learn TypeScript compiler it’s like having a coding mentor who won’t let you take shortcuts.Play around, make some errors, and learn from them.](https://dev.to/shafayeat/thinking-about-learning-typescript-start-with-javascript-to-build-a-strong-foundation-once-youre-m81)
 - [Task.WhenAll + Exceptions = Dor de Cabeça!](https://dev.to/angelobelchior/taskwhenall-exceptions-dor-de-cabeca-29g)
 - [Set Git to Recognize Case Changes](https://dev.to/elukuro/set-git-to-recognize-case-changes-3f77)
 - [Topics in Open Source Final Run Part 2 &lpar;Progress&rpar;](https://dev.to/ajogseneca/topics-in-open-source-final-run-part-2-progress-5dp4)
-- [Meu final de ano, dicas, conselhos, opiniões, estou aceitando!](https://dev.to/felipetess/meu-final-de-ano-dicas-conselhos-opinioes-estou-aceitando-3139)
 <!-- BLOG-POST-LIST:END -->
 
