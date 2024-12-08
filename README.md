@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to validate requests when using AWS Lambda Function Url](https://dev.to/iamsherif/how-to-validate-requests-when-using-aws-lambda-function-url-5d72)
 - [Code Against the Clock : Automating Attendance Management](https://dev.to/programmerraja/code-against-the-clock-automating-attendance-management-58ma)
 - [Frontend Dev: Mastering the Art of Frontend Development](https://dev.to/bhuwan71/frontend-dev-mastering-the-art-of-frontend-development-51f0)
 - [Flutter: Is the Framework Dying or Evolving into Something Better?](https://dev.to/ashiqu_ali/flutter-is-the-framework-dying-or-evolving-into-something-better-1abm)
-- [What Makes GenQE the Ultimate Software Testing Tool?](https://dev.to/vaibhavkuls/what-makes-genqe-the-ultimate-software-testing-tool-9g7)
 <!-- BLOG-POST-LIST:END -->
 
