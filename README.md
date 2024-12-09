@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Decide Which Engine is Right for You](https://dev.to/loartdev/how-to-decide-which-engine-is-right-for-you-2ga8)
-- [Understanding Xenea’s DACS Node Architecture and SGM: The Foundation of Reliable NFT Storage](https://dev.to/ajtech0001/understanding-xeneas-dacs-node-architecture-and-sgm-the-foundation-of-reliable-nft-storage-4ghb)
-- [Case Study: Ascension Belle&#39;s Offering](https://dev.to/loartdev/case-study-ascension-belles-offering-52dk)
-- [Two Sum problem in Javascript](https://dev.to/sushmeet/two-sum-problem-in-javascript-4aj2)
+- [OKX DEX API Guide: Building a Solana Token Swap Interface](https://dev.to/j_dev28/okx-dex-api-guide-building-a-solana-token-swap-interface-58eh)
+- [Static Keyword in C# Explained in 1 Minute](https://dev.to/dotnetfullstackdev/static-keyword-in-c-explained-in-1-minute-53i1)
+- [Facing Overwhelm and Overcoming Procrastination in Release 0.3](https://dev.to/elisassa/facing-overwhelm-and-overcoming-procrastination-in-release-03-5cjl)
+- [How to use Pacman on Arch Linux 🚀](https://dev.to/miguelneto/how-to-use-pacman-on-arch-linux-4455)
 <!-- BLOG-POST-LIST:END -->
 
