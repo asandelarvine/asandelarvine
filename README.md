@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New horizons in Web Development: Tools for Pros](https://dev.to/itdevus/new-horizons-in-web-development-tools-for-pros-1pl1)
-- [PHP HyperF -&gt; Firebase JWT](https://dev.to/thiagoeti/php-hyperf-firebase-jwt-49dh)
-- [4 Commands to Debug “Silent Errors” in JavaScript](https://dev.to/cli-pirate/4-commands-to-debug-silent-errors-in-javascript-2mlc)
-- [From Chaos to Clarity: A Journey Through Random SQL Code: Practical Examples for Developers](https://dev.to/seanmdrew/from-chaos-to-clarity-a-journey-through-random-sql-code-practical-examples-for-developers-2o0e)
+- [Chatbot with Semantic Kernel - Part 3: Inspector &amp; tokens 🔎](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-3-inspector-tokens-48be)
+- [57/365 | ¥10M Job Challenge - Escape](https://dev.to/kameken100/57365-y10m-job-challenge-escape-1ko3)
+- [Stack, DSA Complete Syllabus](https://dev.to/harshm03/stack-dsa-complete-syllabus-e2)
+- [Awesome Video on MERN Stack Authentication](https://dev.to/webdevhero0101/awesome-video-on-mern-stack-authentication-518e)
 <!-- BLOG-POST-LIST:END -->
 
