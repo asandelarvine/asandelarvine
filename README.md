@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering `sed` Commands and Flags: A Guide to Stream Editing in Linux 🖥️](https://dev.to/eshanized/mastering-sed-commands-and-flags-a-guide-to-stream-editing-in-linux-29jj)
-- [How to create a dynamic object](https://dev.to/mujahida_joynab_64c7407d8/how-to-create-a-dynamic-object-20e9)
-- [GUI Testing: Best Practices, Tools, and Checklists You Can’t Miss](https://dev.to/testifytech/gui-testing-best-practices-tools-and-checklists-you-cant-miss-4pb3)
-- [Integrate DAYTONA and let the magic begin....](https://dev.to/mayank_mohapatra/integrate-daytona-and-let-the-magic-begin-38hg)
+- [what is object ?](https://dev.to/hema_latha_a50b33050f35df/what-is-object--3e4d)
+- [Amazon Q Developer Tips: No.9 Using import statements to direct suggestions](https://dev.to/aws/amazon-q-developer-tips-no9-using-import-statements-to-direct-suggestions-2mfb)
+- [When Jeremy Clarkson Describes How My SaaS Dream Turned into a Circus of Despair](https://dev.to/hatem_zidi/when-jeremy-clarkson-describes-how-my-saas-dream-turned-into-a-circus-of-despair-3d2n)
+- [How to Containerise and Deploy a MERN Stack Application with Docker Compose](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-to-containerise-and-deploy-a-mern-stack-application-with-docker-compose-jml)
 <!-- BLOG-POST-LIST:END -->
 
