@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your Virtual Communication with High-Quality Video Conferencing](https://dev.to/krideo/elevate-your-virtual-communication-with-high-quality-video-conferencing-251h)
-- [How to Go Deeper With Your Learning](https://dev.to/vuelancer/how-to-go-deeper-with-your-learning-43bm)
-- [Understanding the Spring Security Architecture](https://dev.to/mds05/understanding-the-spring-security-architecture-2j2j)
-- [Progress of my new website.](https://dev.to/mollymilkhoney/progress-of-my-new-website-233h)
+- [Algorithm for Normalizing Current Data Using Historical Data to Eliminate Sound Noise](https://dev.to/_0cf8b251b57ec13fb1ac/algorithm-for-normalizing-current-data-using-historical-data-to-eliminate-sound-noise-42n0)
+- [Cloud Security with AWS IAM](https://dev.to/misolainthecloud/cloud-security-with-aws-iam-1i39)
+- [Build Live Code Editor Clone with HTML, CSS and JavaScript](https://dev.to/sharathchandark/build-live-code-editor-clone-with-html-css-and-javascript-h1j)
+- [Drupal vs. WordPress: Drupal vs. WordPress: Choosing the Right CMS for Your Needs](https://dev.to/angelinajasper/drupal-vs-wordpress-drupal-vs-wordpress-choosing-the-right-cms-for-your-needs-459)
 <!-- BLOG-POST-LIST:END -->
 
