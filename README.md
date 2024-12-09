@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering SQLMap Tamper Scripts: The Ultimate Guide to Evading WAFs Like a Pro [Must Read Article]](https://dev.to/trixsec/mastering-sqlmap-tamper-scripts-the-ultimate-guide-to-evading-wafs-like-a-pro-must-read-article-4co3)
-- [Streamlining env0 Onboarding with Environment Discovery](https://dev.to/env0/streamlining-env0-onboarding-with-environment-discovery-5gfc)
-- [Boosting SQL Query Flexibility with CROSS APPLY](https://dev.to/seanmdrew/boosting-sql-query-flexibility-with-cross-apply-11l0)
-- [Effective Logging with ILogger in USSD Banking Applications: A .NET Approach](https://dev.to/korirmoze/effective-logging-with-ilogger-in-ussd-banking-applications-a-net-approach-1a64)
+- [Command Pattern with Undo and Redo in C#.NET](https://dev.to/alikolahdoozan/command-pattern-with-undo-and-redo-in-cnet-c0n)
+- [The Side-Effect Concerns: A Surgical Paradigm Shift in a Legacy React ERP Dashboard](https://dev.to/ryo_suwito/the-side-effect-concerns-a-surgical-paradigm-shift-in-a-legacy-react-erp-dashboard-oob)
+- [week 1 ends!](https://dev.to/ishan_siddhartha/week-1-ends-4id7)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/samuel_udeh/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-b2o)
 <!-- BLOG-POST-LIST:END -->
 
