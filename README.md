@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OKX DEX API Guide: Building a Solana Token Swap Interface](https://dev.to/j_dev28/okx-dex-api-guide-building-a-solana-token-swap-interface-58eh)
-- [Static Keyword in C# Explained in 1 Minute](https://dev.to/dotnetfullstackdev/static-keyword-in-c-explained-in-1-minute-53i1)
-- [Facing Overwhelm and Overcoming Procrastination in Release 0.3](https://dev.to/elisassa/facing-overwhelm-and-overcoming-procrastination-in-release-03-5cjl)
-- [How to use Pacman on Arch Linux 🚀](https://dev.to/miguelneto/how-to-use-pacman-on-arch-linux-4455)
+- [.𝗡𝗘𝗧 𝟵 𝗟𝗜𝗡𝗤 𝗠𝗮𝗴𝗶𝗰 : 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝗧𝗼 𝗞𝗻𝗼𝘄!](https://dev.to/apurvupadhyay/--n58)
+- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-3p6g)
+- [VB .Net: Secure Password](https://dev.to/vblover_programmer/vb-net-secure-password-3lpp)
+- [Overcoming Impostor Syndrome in Software Development](https://dev.to/norbs/overcoming-impostor-syndrome-in-software-development-5fnm)
 <!-- BLOG-POST-LIST:END -->
 
