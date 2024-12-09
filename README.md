@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Voucher System for Small Businesses](https://dev.to/mspilari/building-a-simple-voucher-system-for-small-businesses-7m9)
-- [AWS Certified Cloud Practitioner 2025: The Guide to AWS Certification Course](https://dev.to/daksh_kataria_9c4197f3f7c/aws-certified-cloud-practitioner-2025-the-guide-to-aws-certification-course-50db)
-- [How to Handle Asynchronous Operations](https://dev.to/shajibul_alam_shihab/how-to-handle-asynchronous-operations-48m3)
-- [Implement Array.prototype.flat&lpar;&rpar; Solution](https://dev.to/shamun_khatri/implement-arrayprototypeflat-solution-a2b)
+- [Elevate Your Virtual Communication with High-Quality Video Conferencing](https://dev.to/krideo/elevate-your-virtual-communication-with-high-quality-video-conferencing-251h)
+- [How to Go Deeper With Your Learning](https://dev.to/vuelancer/how-to-go-deeper-with-your-learning-43bm)
+- [Understanding the Spring Security Architecture](https://dev.to/mds05/understanding-the-spring-security-architecture-2j2j)
+- [Progress of my new website.](https://dev.to/mollymilkhoney/progress-of-my-new-website-233h)
 <!-- BLOG-POST-LIST:END -->
 
