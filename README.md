@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Your Daily Tasks with Python Scripting 🐍⚙️](https://dev.to/info_generalhazedawn_a3d/automating-your-daily-tasks-with-python-scripting-3bcm)
-- [what is parameter ?](https://dev.to/hema_latha_a50b33050f35df/what-is-parameter--pno)
-- [Beginner’s Guide to Shopify Liquid Template Language](https://dev.to/fitehal/beginners-guide-to-shopify-liquid-template-language-48f2)
-- [what is Method calling ?](https://dev.to/hema_latha_a50b33050f35df/what-is-method-calling--5a76)
+- [Mastering `sed` Commands and Flags: A Guide to Stream Editing in Linux 🖥️](https://dev.to/eshanized/mastering-sed-commands-and-flags-a-guide-to-stream-editing-in-linux-29jj)
+- [How to create a dynamic object](https://dev.to/mujahida_joynab_64c7407d8/how-to-create-a-dynamic-object-20e9)
+- [GUI Testing: Best Practices, Tools, and Checklists You Can’t Miss](https://dev.to/testifytech/gui-testing-best-practices-tools-and-checklists-you-cant-miss-4pb3)
+- [Integrate DAYTONA and let the magic begin....](https://dev.to/mayank_mohapatra/integrate-daytona-and-let-the-magic-begin-38hg)
 <!-- BLOG-POST-LIST:END -->
 
