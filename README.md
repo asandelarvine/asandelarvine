@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Tic Tac Toe Game in Angular: A Beginner&#39;s Guide](https://dev.to/manthanank/building-a-tic-tac-toe-game-in-angular-a-beginners-guide-fcm)
-- [Stay ahead in web development: latest news, tools, and insights #62](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-62-2ekg)
-- [[Boost]](https://dev.to/hassan_aftab/-lb7)
-- [Introducing Emailgic: Your New AI Email Design Partner](https://dev.to/chuy/introducing-emailgic-your-new-ai-email-design-partner-in)
+- [Hacking Excel Files in Power Automate](https://dev.to/wyattdave/hacking-excel-files-in-power-automate-427d)
+- [AWS re:Invent 2024: Key Announcements on Containers and Serverless](https://dev.to/aws-builders/aws-reinvent-2024-key-announcements-on-containers-and-serverless-4fop)
+- [Software Development Trends to Watch Out for in 2025](https://dev.to/evelynwyatt/software-development-trends-to-watch-out-for-in-2025-4h99)
+- [Task-Python Packages](https://dev.to/guru_prasanna_01/task-python-packages-2dek)
 <!-- BLOG-POST-LIST:END -->
 
