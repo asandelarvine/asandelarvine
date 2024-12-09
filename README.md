@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what is object ?](https://dev.to/hema_latha_a50b33050f35df/what-is-object--3e4d)
-- [Amazon Q Developer Tips: No.9 Using import statements to direct suggestions](https://dev.to/aws/amazon-q-developer-tips-no9-using-import-statements-to-direct-suggestions-2mfb)
-- [When Jeremy Clarkson Describes How My SaaS Dream Turned into a Circus of Despair](https://dev.to/hatem_zidi/when-jeremy-clarkson-describes-how-my-saas-dream-turned-into-a-circus-of-despair-3d2n)
-- [How to Containerise and Deploy a MERN Stack Application with Docker Compose](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-to-containerise-and-deploy-a-mern-stack-application-with-docker-compose-jml)
+- [Building a Simple Voucher System for Small Businesses](https://dev.to/mspilari/building-a-simple-voucher-system-for-small-businesses-7m9)
+- [AWS Certified Cloud Practitioner 2025: The Guide to AWS Certification Course](https://dev.to/daksh_kataria_9c4197f3f7c/aws-certified-cloud-practitioner-2025-the-guide-to-aws-certification-course-50db)
+- [How to Handle Asynchronous Operations](https://dev.to/shajibul_alam_shihab/how-to-handle-asynchronous-operations-48m3)
+- [Implement Array.prototype.flat&lpar;&rpar; Solution](https://dev.to/shamun_khatri/implement-arrayprototypeflat-solution-a2b)
 <!-- BLOG-POST-LIST:END -->
 
