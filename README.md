@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [simple 3 tier python app repo](https://dev.to/mohit_kumar_2ea5b53e68f9f/simple-3-tier-python-app-repo-7bc)
-- [Zustand - 🐻 Bear necessities for state management in React](https://dev.to/zaur_ibrahimov/zustand-bear-necessities-for-state-management-in-react-1omd)
-- [This Month in Solid #10: SolidHack 2024 Winners 😎](https://dev.to/danieljcafonso/this-month-in-solid-10-solidhack-2024-winners-29dp)
-- [Calculando Espacios y Pintando Slots en Fyne: Resolviendo un Problema en un Simulador de Estacionamiento](https://dev.to/david_delacruzmorales_/calculando-espacios-y-pintando-slots-en-fyne-resolviendo-un-problema-en-un-simulador-de-1296)
+- [New horizons in Web Development: Tools for Pros](https://dev.to/itdevus/new-horizons-in-web-development-tools-for-pros-1pl1)
+- [PHP HyperF -&gt; Firebase JWT](https://dev.to/thiagoeti/php-hyperf-firebase-jwt-49dh)
+- [4 Commands to Debug “Silent Errors” in JavaScript](https://dev.to/cli-pirate/4-commands-to-debug-silent-errors-in-javascript-2mlc)
+- [From Chaos to Clarity: A Journey Through Random SQL Code: Practical Examples for Developers](https://dev.to/seanmdrew/from-chaos-to-clarity-a-journey-through-random-sql-code-practical-examples-for-developers-2o0e)
 <!-- BLOG-POST-LIST:END -->
 
