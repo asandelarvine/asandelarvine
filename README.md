@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned: Overusing useMemo in React](https://dev.to/visualcookie/lessons-learned-overusing-usememo-in-react-19ma)
-- [Escalabilidad automática en AWS: Auto Scaling Groups y sus beneficios](https://dev.to/briansuarezsantiago/escalabilidad-automatica-en-aws-auto-scaling-groups-y-sus-beneficios-2a7d)
-- [1 Week to Build the Future of AI with Humiris](https://dev.to/louniai/1-week-to-build-the-future-of-ai-with-humiris-b60)
-- [Understanding Inverted Indexes: The Backbone of Efficient Search](https://dev.to/surajvatsya/understanding-inverted-indexes-the-backbone-of-efficient-search-3hoe)
+- [The Importance of Minimizing Database Queries in Backend Development](https://dev.to/yasserelgammal/the-importance-of-minimizing-database-queries-in-backend-development-546e)
+- [For LiveAPI - Each Day In Itself is a Little Life](https://dev.to/shrsv/for-liveapi-each-day-in-itself-is-a-little-life-bic)
+- [🚀 React 19 Cheat Sheet](https://dev.to/dancalderon/react-19-cheat-sheet-2j8a)
+- [Requirements Engineering: A Practical Approach from 30 Years of Industry Experience](https://dev.to/roboword/requirements-engineering-a-practical-approach-from-30-years-of-industry-experience-5108)
 <!-- BLOG-POST-LIST:END -->
 
