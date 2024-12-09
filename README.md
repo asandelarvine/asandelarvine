@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Algorithm for Normalizing Current Data Using Historical Data to Eliminate Sound Noise](https://dev.to/_0cf8b251b57ec13fb1ac/algorithm-for-normalizing-current-data-using-historical-data-to-eliminate-sound-noise-42n0)
-- [Cloud Security with AWS IAM](https://dev.to/misolainthecloud/cloud-security-with-aws-iam-1i39)
-- [Build Live Code Editor Clone with HTML, CSS and JavaScript](https://dev.to/sharathchandark/build-live-code-editor-clone-with-html-css-and-javascript-h1j)
-- [Drupal vs. WordPress: Drupal vs. WordPress: Choosing the Right CMS for Your Needs](https://dev.to/angelinajasper/drupal-vs-wordpress-drupal-vs-wordpress-choosing-the-right-cms-for-your-needs-459)
+- [Mastering SQLMap Tamper Scripts: The Ultimate Guide to Evading WAFs Like a Pro [Must Read Article]](https://dev.to/trixsec/mastering-sqlmap-tamper-scripts-the-ultimate-guide-to-evading-wafs-like-a-pro-must-read-article-4co3)
+- [Streamlining env0 Onboarding with Environment Discovery](https://dev.to/env0/streamlining-env0-onboarding-with-environment-discovery-5gfc)
+- [Boosting SQL Query Flexibility with CROSS APPLY](https://dev.to/seanmdrew/boosting-sql-query-flexibility-with-cross-apply-11l0)
+- [Effective Logging with ILogger in USSD Banking Applications: A .NET Approach](https://dev.to/korirmoze/effective-logging-with-ilogger-in-ussd-banking-applications-a-net-approach-1a64)
 <!-- BLOG-POST-LIST:END -->
 
