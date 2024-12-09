@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ON DELETE CASCADE Usage with Foreign key](https://dev.to/mrcaption49/on-delete-cascade-usage-with-foreign-key-59e3)
-- [Part 5: Building Your Own AI - Exploring Unsupervised Learning and Clustering](https://dev.to/trixsec/part-5-building-your-own-ai-exploring-unsupervised-learning-and-clustering-nib)
-- [Order Up: Fresh Install of Unity 6](https://dev.to/yuguru/order-up-fresh-install-of-unity-6-oj3)
-- [[Boost]](https://dev.to/itsvinayak/-1eff)
+- [Building a Tic Tac Toe Game in Angular: A Beginner&#39;s Guide](https://dev.to/manthanank/building-a-tic-tac-toe-game-in-angular-a-beginners-guide-fcm)
+- [Stay ahead in web development: latest news, tools, and insights #62](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-62-2ekg)
+- [[Boost]](https://dev.to/hassan_aftab/-lb7)
+- [Introducing Emailgic: Your New AI Email Design Partner](https://dev.to/chuy/introducing-emailgic-your-new-ai-email-design-partner-in)
 <!-- BLOG-POST-LIST:END -->
 
