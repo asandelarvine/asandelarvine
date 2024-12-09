@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Code Reuse is Important in the Age of AI](https://dev.to/msm8/why-code-reuse-is-important-in-the-age-of-ai-3p56)
-- [Building an Article Generator with LangChain and Llama3: An AI Developer&#39;s Journey](https://dev.to/allmightenglishtech/building-an-article-generator-with-langchain-and-llama3-an-ai-developers-journey-2l16)
-- [Simple accordion without JavaScript](https://dev.to/railsdesigner/simple-accordion-without-javascript-1cpn)
-- [Azure Logic Apps: Automate Your Workflows Without Writing Code](https://dev.to/yelkin_arslan/azure-logic-apps-automate-your-workflows-without-writing-code-mp7)
+- [Python Cache: How to Speed Up Your Code with Effective Caching](https://dev.to/crawlbase/python-cache-how-to-speed-up-your-code-with-effective-caching-53m5)
+- [Systemd vs. Docker: Exploring a Surprising Alternative](https://dev.to/_russell/systemd-vs-docker-exploring-a-surprising-alternative-4pmm)
+- [Optimizing Code for Performance: A Case Study in Prefix Arrays](https://dev.to/starkprince/optimizing-code-for-performance-a-case-study-in-prefix-arrays-26gj)
+- [Landing zone?](https://dev.to/salman_khan_c31307505285e/landing-zone-4p89)
 <!-- BLOG-POST-LIST:END -->
 
