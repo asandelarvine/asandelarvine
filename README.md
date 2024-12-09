@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot with Semantic Kernel - Part 3: Inspector &amp; tokens 🔎](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-3-inspector-tokens-48be)
-- [57/365 | ¥10M Job Challenge - Escape](https://dev.to/kameken100/57365-y10m-job-challenge-escape-1ko3)
-- [Stack, DSA Complete Syllabus](https://dev.to/harshm03/stack-dsa-complete-syllabus-e2)
-- [Awesome Video on MERN Stack Authentication](https://dev.to/webdevhero0101/awesome-video-on-mern-stack-authentication-518e)
+- [Lessons Learned: Overusing useMemo in React](https://dev.to/visualcookie/lessons-learned-overusing-usememo-in-react-19ma)
+- [Escalabilidad automática en AWS: Auto Scaling Groups y sus beneficios](https://dev.to/briansuarezsantiago/escalabilidad-automatica-en-aws-auto-scaling-groups-y-sus-beneficios-2a7d)
+- [1 Week to Build the Future of AI with Humiris](https://dev.to/louniai/1-week-to-build-the-future-of-ai-with-humiris-b60)
+- [Understanding Inverted Indexes: The Backbone of Efficient Search](https://dev.to/surajvatsya/understanding-inverted-indexes-the-backbone-of-efficient-search-3hoe)
 <!-- BLOG-POST-LIST:END -->
 
