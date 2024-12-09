@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Cache: How to Speed Up Your Code with Effective Caching](https://dev.to/crawlbase/python-cache-how-to-speed-up-your-code-with-effective-caching-53m5)
-- [Systemd vs. Docker: Exploring a Surprising Alternative](https://dev.to/_russell/systemd-vs-docker-exploring-a-surprising-alternative-4pmm)
-- [Optimizing Code for Performance: A Case Study in Prefix Arrays](https://dev.to/starkprince/optimizing-code-for-performance-a-case-study-in-prefix-arrays-26gj)
-- [Landing zone?](https://dev.to/salman_khan_c31307505285e/landing-zone-4p89)
+- [Talking about time like a human.](https://dev.to/mdesenfants/talking-about-time-like-a-human-52l7)
+- [The Human Side of CI/CD: When Technology Meets Teamwork](https://dev.to/lewisawe/the-human-side-of-cicd-when-technology-meets-teamwork-4oj3)
+- [Can we all agree. Our tech forefathers kinda screwed us?](https://dev.to/devan_b_8ea6e22120a7121b0/can-we-all-agree-our-tech-forefathers-kinda-screwed-us-20cm)
+- [You Are Already Using Wasm In Production](https://dev.to/fermyon/you-are-already-using-wasm-in-production-92k)
 <!-- BLOG-POST-LIST:END -->
 
