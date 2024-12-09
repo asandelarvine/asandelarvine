@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Command Pattern with Undo and Redo in C#.NET](https://dev.to/alikolahdoozan/command-pattern-with-undo-and-redo-in-cnet-c0n)
-- [The Side-Effect Concerns: A Surgical Paradigm Shift in a Legacy React ERP Dashboard](https://dev.to/ryo_suwito/the-side-effect-concerns-a-surgical-paradigm-shift-in-a-legacy-react-erp-dashboard-oob)
-- [week 1 ends!](https://dev.to/ishan_siddhartha/week-1-ends-4id7)
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/samuel_udeh/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-b2o)
+- [simple 3 tier python app repo](https://dev.to/mohit_kumar_2ea5b53e68f9f/simple-3-tier-python-app-repo-7bc)
+- [Zustand - 🐻 Bear necessities for state management in React](https://dev.to/zaur_ibrahimov/zustand-bear-necessities-for-state-management-in-react-1omd)
+- [This Month in Solid #10: SolidHack 2024 Winners 😎](https://dev.to/danieljcafonso/this-month-in-solid-10-solidhack-2024-winners-29dp)
+- [Calculando Espacios y Pintando Slots en Fyne: Resolviendo un Problema en un Simulador de Estacionamiento](https://dev.to/david_delacruzmorales_/calculando-espacios-y-pintando-slots-en-fyne-resolviendo-un-problema-en-un-simulador-de-1296)
 <!-- BLOG-POST-LIST:END -->
 
