@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Excel Files in Power Automate](https://dev.to/wyattdave/hacking-excel-files-in-power-automate-427d)
-- [AWS re:Invent 2024: Key Announcements on Containers and Serverless](https://dev.to/aws-builders/aws-reinvent-2024-key-announcements-on-containers-and-serverless-4fop)
-- [Software Development Trends to Watch Out for in 2025](https://dev.to/evelynwyatt/software-development-trends-to-watch-out-for-in-2025-4h99)
-- [Task-Python Packages](https://dev.to/guru_prasanna_01/task-python-packages-2dek)
+- [Automating Your Daily Tasks with Python Scripting 🐍⚙️](https://dev.to/info_generalhazedawn_a3d/automating-your-daily-tasks-with-python-scripting-3bcm)
+- [what is parameter ?](https://dev.to/hema_latha_a50b33050f35df/what-is-parameter--pno)
+- [Beginner’s Guide to Shopify Liquid Template Language](https://dev.to/fitehal/beginners-guide-to-shopify-liquid-template-language-48f2)
+- [what is Method calling ?](https://dev.to/hema_latha_a50b33050f35df/what-is-method-calling--5a76)
 <!-- BLOG-POST-LIST:END -->
 
