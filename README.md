@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Minimizing Database Queries in Backend Development](https://dev.to/yasserelgammal/the-importance-of-minimizing-database-queries-in-backend-development-546e)
-- [For LiveAPI - Each Day In Itself is a Little Life](https://dev.to/shrsv/for-liveapi-each-day-in-itself-is-a-little-life-bic)
-- [🚀 React 19 Cheat Sheet](https://dev.to/dancalderon/react-19-cheat-sheet-2j8a)
-- [Requirements Engineering: A Practical Approach from 30 Years of Industry Experience](https://dev.to/roboword/requirements-engineering-a-practical-approach-from-30-years-of-industry-experience-5108)
+- [Why Code Reuse is Important in the Age of AI](https://dev.to/msm8/why-code-reuse-is-important-in-the-age-of-ai-3p56)
+- [Building an Article Generator with LangChain and Llama3: An AI Developer&#39;s Journey](https://dev.to/allmightenglishtech/building-an-article-generator-with-langchain-and-llama3-an-ai-developers-journey-2l16)
+- [Simple accordion without JavaScript](https://dev.to/railsdesigner/simple-accordion-without-javascript-1cpn)
+- [Azure Logic Apps: Automate Your Workflows Without Writing Code](https://dev.to/yelkin_arslan/azure-logic-apps-automate-your-workflows-without-writing-code-mp7)
 <!-- BLOG-POST-LIST:END -->
 
