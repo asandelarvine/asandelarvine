@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.10 Personalise Amazon Q&#39;s output](https://dev.to/aws/amazon-q-developer-tips-no10-personalise-amazon-qs-output-243p)
-- [Finding My Footing in Open-Source Timesheet Automation](https://dev.to/fahadalikhanca/finding-my-footing-in-open-source-timesheet-automation-51o)
-- [Top 10 real world use cases of computer vision AI in the oil &amp; gas industry](https://dev.to/chandrus/top-10-real-world-use-cases-of-computer-vision-ai-in-the-oil-gas-industry-39lc)
-- [What is the difference between NAT Gateway &amp; Internet Gateway? 🤔](https://dev.to/baraamohamed2311/what-is-the-difference-between-nat-gateway-internet-gateway-320l)
+- [A Step-by-Step Guide to CI/CD Pipeline for Angular App with Azure Container Apps](https://dev.to/hassan_aftab/a-step-by-step-guide-to-cicd-pipeline-for-angular-app-with-azure-container-apps-3b79)
+- [From Chaos to Code: Thriving as a Developer in Uncertain Times 🌟](https://dev.to/sayyad_arsalan_97175d7177/from-chaos-to-code-thriving-as-a-developer-in-uncertain-times-1hjg)
+- [Networking Basics for DevOps Beginners](https://dev.to/aazizzailani/networking-basics-for-devops-beginners-p31)
+- [Learn how to create a flyout menu with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/learn-how-to-create-a-flyout-menu-with-tailwind-css-and-alpine-js-4oio)
 <!-- BLOG-POST-LIST:END -->
 
