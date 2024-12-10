@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSqlParser-5.0 problem with MySQL Convert&lpar;expr,type&rpar; function](https://dev.to/liubo/jsqlparser-50-problem-with-mysql-convertexprtype-function-119h)
-- [GQL— Write SQL queries in your Git repo!](https://dev.to/joji/gql-write-sql-queries-in-your-git-repo-4g6p)
-- [What is React ⚛️ and the Concept of Components](https://dev.to/shieldstring/what-is-react-and-the-concept-of-components-6h2)
-- [AI and Its Role in Testing Mobile Apps](https://dev.to/misterankit/ai-and-its-role-in-testing-mobile-apps-57p0)
+- [# Frontend Engineering: A Comprehensive Guide](https://dev.to/tipusultandev/-frontend-engineering-a-comprehensive-guide-278)
+- [Day 5 java class,object,count](https://dev.to/reegan/day-4-java-classobjectcount-1jah)
+- [Follow Trixsec on Instagram for Cybersecurity Updates, Memes, and Tools!](https://dev.to/trixsec/follow-trixsec-on-instagram-for-cybersecurity-updates-memes-and-tools-13go)
+- [What is Node JS?](https://dev.to/zarr02992/what-is-node-js-5gc)
 <!-- BLOG-POST-LIST:END -->
 
