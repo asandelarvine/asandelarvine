@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-site scripting](https://dev.to/rednexie/cross-site-scripting-3iaf)
-- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-17hh)
-- [Java day 4](https://dev.to/yaswanth_krishna_81faee1e/java-day-4-1ibp)
-- [Day 2 Task-1 Theatre.java](https://dev.to/saravanan_477814b61087a66/day-2-task-1-theatrejava-227i)
+- [Top 10 HTTP Testing Tools for Mac in 2024](https://dev.to/auden/top-10-http-testing-tools-for-mac-in-2024-3m3b)
+- [AI in Compliance: Cutting Hidden Costs and Managing Risks Smarter](https://dev.to/hana_sato/ai-in-compliance-cutting-hidden-costs-and-managing-risks-smarter-1o3)
+- [Cloud-Based Vulnerability Scanners and Tools](https://dev.to/iskender83/cloud-based-vulnerability-scanners-and-tools-2kfl)
+- [How to Deploy Kubernetes on Bare Metal](https://dev.to/nodeshiftcloud/how-to-deploy-kubernetes-on-bare-metal-2oc0)
 <!-- BLOG-POST-LIST:END -->
 
