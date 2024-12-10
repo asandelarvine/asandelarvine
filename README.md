@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gorilla: Bridging LLMs and the Real World](https://dev.to/airabbit/gorilla-bridging-llms-and-the-real-world-dnk)
-- [The Ultimate Guide to Penetration Testing Tools: Enhancing Cybersecurity in 2024](https://dev.to/keploy/the-ultimate-guide-to-penetration-testing-tools-enhancing-cybersecurity-in-2024-285i)
-- [My &lpar;non-AI&rpar; AWS re:Invent 24 picks](https://dev.to/rdbatch/my-non-ai-aws-reinvent-24-picks-5bdh)
-- [Refactoring: The Art of Crafting Cleaner, Smarter, and More Maintainable Code](https://dev.to/tkarropoulos/refactoring-the-art-of-crafting-cleaner-smarter-and-more-maintainable-code-2ic4)
+- [Queue: Container, C++](https://dev.to/harshm03/queue-container-c-5alc)
+- [Stack: Container, C++](https://dev.to/harshm03/stack-container-c-48e3)
+- [What is Azure DevOps and Its Usability](https://dev.to/markwayne/what-is-azure-devops-and-its-usability-n3a)
+- [Disaster Recovery and Backup Strategies](https://dev.to/574n13y/disaster-recovery-and-backup-strategies-13lb)
 <!-- BLOG-POST-LIST:END -->
 
