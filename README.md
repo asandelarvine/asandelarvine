@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevContainers: Big and Bold or Small and Smart?](https://dev.to/martin_pi/devcontainers-big-and-bold-or-small-and-smart-1i61)
-- [Bridging Innovation and Society: Lessons from Web Development and Fintech](https://dev.to/cryptosandy/bridging-innovation-and-society-lessons-from-web-development-and-fintech-ad7)
-- [Boost Your Productivity: New Tools and APIs for Task Automation in .NET 9](https://dev.to/leandroveiga/boost-your-productivity-new-tools-and-apis-for-task-automation-in-net-9-3p6n)
-- [Turning a Customer Security Concern into a Feature](https://dev.to/lincemathew/turning-a-customer-security-concern-into-a-feature-1edl)
+- [How I Built a Simple, Pay-As-You-Go SMS API for Developers](https://dev.to/saltypenguin313/how-i-built-a-simple-pay-as-you-go-sms-api-for-developers-15ma)
+- [List of free Quantum Toolkits](https://dev.to/sbalasa/list-of-free-quantum-toolkits-m3f)
+- [The Need for Security in Firms:](https://dev.to/omobolaji_25/the-need-for-security-in-firms-4d2m)
+- [UX/UI Laws Every Frontend Developer Should Know](https://dev.to/yuliana_seplveda/uxui-laws-every-frontend-developer-should-know-52ln)
 <!-- BLOG-POST-LIST:END -->
 
