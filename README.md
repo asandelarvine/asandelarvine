@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding O&lpar;N&rpar;: Linear Time Complexity in Algorithms](https://dev.to/moh_moh701/understanding-on-linear-time-complexity-in-algorithms-545g)
-- [How to Make Money Using Django: A Practical Guide for Developers](https://dev.to/saifeddin1/how-to-make-money-using-django-a-practical-guide-for-developers-1p6e)
-- [Creating a Storage Bucket in AWS Using S3.](https://dev.to/busa/creating-a-storage-bucket-in-aws-using-s3-4a0b)
-- [Get a gist of graph data structure here...](https://dev.to/vidhithakur/get-a-gist-of-graph-here-4295)
+- [Day 10: Docker Networking](https://dev.to/code42cate/day-10-docker-networking-1n1c)
+- [Flexible Angular Builds: A Guide to Angular 19 Build-Time Variables with Docker](https://dev.to/danielsogl/flexible-angular-builds-a-guide-to-angular-19-build-time-variables-with-docker-3ld1)
+- [How to Build a SaaS Financial Model](https://dev.to/thealgorithm/how-to-build-a-saas-financial-model-4mdj)
+- [Reconnaissance &amp; Information Gathering](https://dev.to/guptswayam/reconnaissance-information-gathering-1fn1)
 <!-- BLOG-POST-LIST:END -->
 
