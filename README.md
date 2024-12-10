@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 20 - String functions](https://dev.to/lakshmi_prithanadesan_32/day-20-string-functions-5g8h)
-- [Circuit Breaker 🎛️ pattern with GO](https://dev.to/sandyk/circuit-breaker-pattern-with-go-5b78)
-- [To nest or not to nest](https://dev.to/khanrabiul/to-nest-or-not-to-nest-2m4)
-- [Developer Self-Service with Resourcely](https://dev.to/morethancertified/developer-self-service-with-resourcely-5hcn)
+- [Deque: Container, C++](https://dev.to/harshm03/deque-container-c-4c)
+- [Create Your First AI-Powered C# App with Semantic Kernel: A Step-by-Step Guide](https://dev.to/codestreet/create-your-first-ai-powered-c-app-with-semantic-kernel-a-step-by-step-guide-3ca0)
+- [From Zero to Observability: Your first steps sending OpenTelemetry data to an Observability backend](https://dev.to/jadelassery/from-zero-to-observability-your-first-steps-sending-opentelemetry-data-to-an-observability-backend-29l7)
+- [Day 6 of SQL Series || Alter Table, Order By, NULL Values](https://dev.to/akshat0610/day-6-of-sql-series-alter-table-order-by-null-values-18m5)
 <!-- BLOG-POST-LIST:END -->
 
