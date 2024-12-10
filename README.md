@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Text Processing &amp; Regular Expressions](https://dev.to/joshalmasin88/text-processing-regular-expressions-13g1)
-- [Introduction to Microsoft Security Copilot](https://dev.to/romanus_onyekwere/introduction-to-microsoft-security-copilot-266n)
-- [Data-Centric Visual AI Linkedin Learning course!](https://dev.to/voxel51/free-data-centric-visual-ai-linkedin-learning-course-4i92)
-- [The Rise of Serverless Architectures in 2024](https://dev.to/codiclab/the-rise-of-serverless-architectures-in-2024-3a8m)
+- [Understanding O&lpar;N&rpar;: Linear Time Complexity in Algorithms](https://dev.to/moh_moh701/understanding-on-linear-time-complexity-in-algorithms-545g)
+- [How to Make Money Using Django: A Practical Guide for Developers](https://dev.to/saifeddin1/how-to-make-money-using-django-a-practical-guide-for-developers-1p6e)
+- [Creating a Storage Bucket in AWS Using S3.](https://dev.to/busa/creating-a-storage-bucket-in-aws-using-s3-4a0b)
+- [Get a gist of graph data structure here...](https://dev.to/vidhithakur/get-a-gist-of-graph-here-4295)
 <!-- BLOG-POST-LIST:END -->
 
