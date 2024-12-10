@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Hospitals: Integrating IoT for Enhanced Patient Care](https://dev.to/grgonline/smart-hospitals-integrating-iot-for-enhanced-patient-care-2l1b)
-- [An Overview of the Main Class Types in OOP](https://dev.to/1hamzabek/an-overview-of-the-main-class-types-in-oop-26hk)
-- [Untitled](https://dev.to/prince_singh_2775b5c4fa3a/untitled-1p7j)
-- [College Wishlist](https://dev.to/prince_singh_2775b5c4fa3a/college-wishlist-3f99)
+- [Ensuring Fair Processing with Celery - Part II](https://dev.to/ykimura/ensuring-fair-processing-with-celery-part-ii-3jm9)
+- [&quot;Performance Has Improved!&quot; Can You Really Prove It?](https://dev.to/moondaeseung/performance-has-improved-can-you-really-prove-it-10mn)
+- [Upload Image by WebForms Core Technology](https://dev.to/elanatframework/upload-image-by-webforms-core-technology-3k9n)
+- [Creatio no code/low code platform](https://dev.to/thando_mpofu_cc21ebc837e3/creatio-no-codelow-code-platform-39ff)
 <!-- BLOG-POST-LIST:END -->
 
