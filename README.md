@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor SQL Performance in Spring Boot](https://dev.to/inspector/how-to-monitor-sql-performance-in-spring-boot-5f44)
-- [Day-3 simple return model](https://dev.to/saravanan_477814b61087a66/day-3-simple-return-model-3n07)
-- [Migrating from DIY ELK to a full SaaS platform](https://dev.to/jadelassery/migrating-from-diy-elk-to-a-full-saas-platform-1m8p)
-- [Day 5 java Data types :](https://dev.to/guna_sekaran_/day-5-java-data-types--2928)
+- [Day 20 - String functions](https://dev.to/lakshmi_prithanadesan_32/day-20-string-functions-5g8h)
+- [Circuit Breaker 🎛️ pattern with GO](https://dev.to/sandyk/circuit-breaker-pattern-with-go-5b78)
+- [To nest or not to nest](https://dev.to/khanrabiul/to-nest-or-not-to-nest-2m4)
+- [Developer Self-Service with Resourcely](https://dev.to/morethancertified/developer-self-service-with-resourcely-5hcn)
 <!-- BLOG-POST-LIST:END -->
 
