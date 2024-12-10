@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deque: Container, C++](https://dev.to/harshm03/deque-container-c-4c)
-- [Create Your First AI-Powered C# App with Semantic Kernel: A Step-by-Step Guide](https://dev.to/codestreet/create-your-first-ai-powered-c-app-with-semantic-kernel-a-step-by-step-guide-3ca0)
-- [From Zero to Observability: Your first steps sending OpenTelemetry data to an Observability backend](https://dev.to/jadelassery/from-zero-to-observability-your-first-steps-sending-opentelemetry-data-to-an-observability-backend-29l7)
-- [Day 6 of SQL Series || Alter Table, Order By, NULL Values](https://dev.to/akshat0610/day-6-of-sql-series-alter-table-order-by-null-values-18m5)
+- [Git: The Secret to Version Control](https://dev.to/justdetermined/git-the-secret-to-version-control-16d8)
+- [Angular 18: Features, Enhancements, and Comparisons](https://dev.to/muhammad_ahmad_ca7be2fd8d/angular-18-features-enhancements-and-comparisons-5h16)
+- [Operators and Expressions in JavaScript](https://dev.to/arjun98k/operators-and-expressions-in-javascript-4k5g)
+- [[Boost]](https://dev.to/sheraz4194/-706)
 <!-- BLOG-POST-LIST:END -->
 
