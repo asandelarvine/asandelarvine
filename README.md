@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Fair Processing with Celery - Part II](https://dev.to/ykimura/ensuring-fair-processing-with-celery-part-ii-3jm9)
-- [&quot;Performance Has Improved!&quot; Can You Really Prove It?](https://dev.to/moondaeseung/performance-has-improved-can-you-really-prove-it-10mn)
-- [Upload Image by WebForms Core Technology](https://dev.to/elanatframework/upload-image-by-webforms-core-technology-3k9n)
-- [Creatio no code/low code platform](https://dev.to/thando_mpofu_cc21ebc837e3/creatio-no-codelow-code-platform-39ff)
+- [Gorilla: Bridging LLMs and the Real World](https://dev.to/airabbit/gorilla-bridging-llms-and-the-real-world-dnk)
+- [The Ultimate Guide to Penetration Testing Tools: Enhancing Cybersecurity in 2024](https://dev.to/keploy/the-ultimate-guide-to-penetration-testing-tools-enhancing-cybersecurity-in-2024-285i)
+- [My &lpar;non-AI&rpar; AWS re:Invent 24 picks](https://dev.to/rdbatch/my-non-ai-aws-reinvent-24-picks-5bdh)
+- [Refactoring: The Art of Crafting Cleaner, Smarter, and More Maintainable Code](https://dev.to/tkarropoulos/refactoring-the-art-of-crafting-cleaner-smarter-and-more-maintainable-code-2ic4)
 <!-- BLOG-POST-LIST:END -->
 
