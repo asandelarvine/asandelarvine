@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Simple, Pay-As-You-Go SMS API for Developers](https://dev.to/saltypenguin313/how-i-built-a-simple-pay-as-you-go-sms-api-for-developers-15ma)
-- [List of free Quantum Toolkits](https://dev.to/sbalasa/list-of-free-quantum-toolkits-m3f)
-- [The Need for Security in Firms:](https://dev.to/omobolaji_25/the-need-for-security-in-firms-4d2m)
-- [UX/UI Laws Every Frontend Developer Should Know](https://dev.to/yuliana_seplveda/uxui-laws-every-frontend-developer-should-know-52ln)
+- [Text Processing &amp; Regular Expressions](https://dev.to/joshalmasin88/text-processing-regular-expressions-13g1)
+- [Introduction to Microsoft Security Copilot](https://dev.to/romanus_onyekwere/introduction-to-microsoft-security-copilot-266n)
+- [Data-Centric Visual AI Linkedin Learning course!](https://dev.to/voxel51/free-data-centric-visual-ai-linkedin-learning-course-4i92)
+- [The Rise of Serverless Architectures in 2024](https://dev.to/codiclab/the-rise-of-serverless-architectures-in-2024-3a8m)
 <!-- BLOG-POST-LIST:END -->
 
