@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auditoria massiva com Lineage Tables do UC no Databricks](https://dev.to/airton_lirajunior_2ddebd/auditoria-massiva-com-lineage-tables-do-uc-no-databricks-32mo)
-- [Star for Star Github Repo Thread....](https://dev.to/pullreview/star-for-star-github-repo-thread-13p3)
-- [Hi everyone! Please take a look at this blog post! Hope you will fins it useful!!](https://dev.to/lorebrada00/hi-everyone-please-take-a-look-at-this-blog-post-hope-you-will-fins-it-useful-4nng)
-- [Unlock your path to success as a developer with this comprehensive roadmap! 🚀](https://dev.to/lorebrada00/happy-reading-1oik)
+- [JSqlParser-5.0 problem with MySQL Convert&lpar;expr,type&rpar; function](https://dev.to/liubo/jsqlparser-50-problem-with-mysql-convertexprtype-function-119h)
+- [GQL— Write SQL queries in your Git repo!](https://dev.to/joji/gql-write-sql-queries-in-your-git-repo-4g6p)
+- [What is React ⚛️ and the Concept of Components](https://dev.to/shieldstring/what-is-react-and-the-concept-of-components-6h2)
+- [AI and Its Role in Testing Mobile Apps](https://dev.to/misterankit/ai-and-its-role-in-testing-mobile-apps-57p0)
 <!-- BLOG-POST-LIST:END -->
 
