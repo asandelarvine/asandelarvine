@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java String Manipulation: Common Methods You Should Know](https://dev.to/saurabhkurve/java-string-manipulation-common-methods-you-should-know-li3)
-- [The Rise of Health Gamification and Its Impact on Patient Engagement](https://dev.to/grgonline/the-rise-of-health-gamification-and-its-impact-on-patient-engagement-39hd)
-- [Simple program using Return keyword...](https://dev.to/pavitra_aravind_3d319916a/simple-program-using-return-keyword-43i1)
-- [cs50x week 9 Flask](https://dev.to/kartikjhaba/cs50x-week-9-flask-54ca)
+- [Smart Hospitals: Integrating IoT for Enhanced Patient Care](https://dev.to/grgonline/smart-hospitals-integrating-iot-for-enhanced-patient-care-2l1b)
+- [An Overview of the Main Class Types in OOP](https://dev.to/1hamzabek/an-overview-of-the-main-class-types-in-oop-26hk)
+- [Untitled](https://dev.to/prince_singh_2775b5c4fa3a/untitled-1p7j)
+- [College Wishlist](https://dev.to/prince_singh_2775b5c4fa3a/college-wishlist-3f99)
 <!-- BLOG-POST-LIST:END -->
 
