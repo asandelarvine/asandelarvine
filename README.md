@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git: The Secret to Version Control](https://dev.to/justdetermined/git-the-secret-to-version-control-16d8)
-- [Angular 18: Features, Enhancements, and Comparisons](https://dev.to/muhammad_ahmad_ca7be2fd8d/angular-18-features-enhancements-and-comparisons-5h16)
-- [Operators and Expressions in JavaScript](https://dev.to/arjun98k/operators-and-expressions-in-javascript-4k5g)
-- [[Boost]](https://dev.to/sheraz4194/-706)
+- [DevContainers: Big and Bold or Small and Smart?](https://dev.to/martin_pi/devcontainers-big-and-bold-or-small-and-smart-1i61)
+- [Bridging Innovation and Society: Lessons from Web Development and Fintech](https://dev.to/cryptosandy/bridging-innovation-and-society-lessons-from-web-development-and-fintech-ad7)
+- [Boost Your Productivity: New Tools and APIs for Task Automation in .NET 9](https://dev.to/leandroveiga/boost-your-productivity-new-tools-and-apis-for-task-automation-in-net-9-3p6n)
+- [Turning a Customer Security Concern into a Feature](https://dev.to/lincemathew/turning-a-customer-security-concern-into-a-feature-1edl)
 <!-- BLOG-POST-LIST:END -->
 
