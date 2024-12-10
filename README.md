@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Frontend Engineering: A Comprehensive Guide](https://dev.to/tipusultandev/-frontend-engineering-a-comprehensive-guide-278)
-- [Day 5 java class,object,count](https://dev.to/reegan/day-4-java-classobjectcount-1jah)
-- [Follow Trixsec on Instagram for Cybersecurity Updates, Memes, and Tools!](https://dev.to/trixsec/follow-trixsec-on-instagram-for-cybersecurity-updates-memes-and-tools-13go)
-- [What is Node JS?](https://dev.to/zarr02992/what-is-node-js-5gc)
+- [How I Built TwitterAPI.io in 30 Minutes for $0: A Developer&#39;s Journey](https://dev.to/kaito2046/how-i-built-twitterapiio-in-30-minutes-for-0-a-developers-journey-3edd)
+- [How I Built TwitterAPI.io in 30 Minutes for $0: A Story About Just Starting](https://dev.to/kaito2046/how-i-built-twitterapiio-in-30-minutes-for-0-a-story-about-just-starting-2hm5)
+- [Day 10: Ho-ho-hono! 🔥](https://dev.to/valeriavg/ho-ho-hono-2j55)
+- [Mouse meets Python: Welcome to the Jungle](https://dev.to/jack_belyeu_699e7081d417f/mouse-meets-python-welcome-to-the-jungle-3cjk)
 <!-- BLOG-POST-LIST:END -->
 
