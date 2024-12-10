@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to CI/CD Pipeline for Angular App with Azure Container Apps](https://dev.to/hassan_aftab/a-step-by-step-guide-to-cicd-pipeline-for-angular-app-with-azure-container-apps-3b79)
-- [From Chaos to Code: Thriving as a Developer in Uncertain Times 🌟](https://dev.to/sayyad_arsalan_97175d7177/from-chaos-to-code-thriving-as-a-developer-in-uncertain-times-1hjg)
-- [Networking Basics for DevOps Beginners](https://dev.to/aazizzailani/networking-basics-for-devops-beginners-p31)
-- [Learn how to create a flyout menu with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/learn-how-to-create-a-flyout-menu-with-tailwind-css-and-alpine-js-4oio)
+- [Java String Manipulation: Common Methods You Should Know](https://dev.to/saurabhkurve/java-string-manipulation-common-methods-you-should-know-li3)
+- [The Rise of Health Gamification and Its Impact on Patient Engagement](https://dev.to/grgonline/the-rise-of-health-gamification-and-its-impact-on-patient-engagement-39hd)
+- [Simple program using Return keyword...](https://dev.to/pavitra_aravind_3d319916a/simple-program-using-return-keyword-43i1)
+- [cs50x week 9 Flask](https://dev.to/kartikjhaba/cs50x-week-9-flask-54ca)
 <!-- BLOG-POST-LIST:END -->
 
