@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Talking about time like a human.](https://dev.to/mdesenfants/talking-about-time-like-a-human-52l7)
-- [The Human Side of CI/CD: When Technology Meets Teamwork](https://dev.to/lewisawe/the-human-side-of-cicd-when-technology-meets-teamwork-4oj3)
-- [Can we all agree. Our tech forefathers kinda screwed us?](https://dev.to/devan_b_8ea6e22120a7121b0/can-we-all-agree-our-tech-forefathers-kinda-screwed-us-20cm)
-- [You Are Already Using Wasm In Production](https://dev.to/fermyon/you-are-already-using-wasm-in-production-92k)
+- [Auditoria massiva com Lineage Tables do UC no Databricks](https://dev.to/airton_lirajunior_2ddebd/auditoria-massiva-com-lineage-tables-do-uc-no-databricks-32mo)
+- [Star for Star Github Repo Thread....](https://dev.to/pullreview/star-for-star-github-repo-thread-13p3)
+- [Hi everyone! Please take a look at this blog post! Hope you will fins it useful!!](https://dev.to/lorebrada00/hi-everyone-please-take-a-look-at-this-blog-post-hope-you-will-fins-it-useful-4nng)
+- [Unlock your path to success as a developer with this comprehensive roadmap! 🚀](https://dev.to/lorebrada00/happy-reading-1oik)
 <!-- BLOG-POST-LIST:END -->
 
