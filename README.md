@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 7: Building Your Own AI - Convolutional Neural Networks &lpar;CNNs&rpar; for Image Processing](https://dev.to/trixsec/part-7-building-your-own-ai-convolutional-neural-networks-cnns-for-image-processing-3mep)
-- [A Comprehensive Guide to Conducting Accessibility Audit](https://dev.to/lollypopdesign/a-comprehensive-guide-to-conducting-accessibility-audit-3ach)
-- [#115 — Ranking of Row-Based Data — by the Expression](https://dev.to/judith677/115-ranking-of-row-based-data-by-the-expression-32nb)
-- [Subform Goto First Field in Microsoft Access](https://dev.to/richardrost/subform-goto-first-field-in-microsoft-access-42p7)
+- [Recommended Settings for VS Code for react js developers](https://dev.to/midhunkrishnan/recommended-settings-for-vs-code-12eo)
+- [You don&#39;t need update to React 19](https://dev.to/composite/you-dont-need-update-to-react-19-2opk)
+- [GraphQL vs REST: A Comprehensive Comparison](https://dev.to/keploy/graphql-vs-rest-a-comprehensive-comparison-2bfi)
+- [Key Steps to Create a Dimensional Model for a Database](https://dev.to/adityabhuyan/key-steps-to-create-a-dimensional-model-for-a-database-3eh8)
 <!-- BLOG-POST-LIST:END -->
 
