@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ImageGoNord: Balancing Open Source Freedom with Ethical Challenges](https://dev.to/schroedinger-hat/imagegonord-balancing-open-source-freedom-with-ethical-challenges-46e4)
-- [Like Vim, but Helix](https://dev.to/sevapp/like-vim-but-helix-1eg6)
-- [Comparison JavaScript Common Data Formats](https://dev.to/emma_richardson/comparison-javascript-common-data-formats-4a0c)
-- [Staging vs. Production: Key Differences You Need to Know](https://dev.to/keploy/staging-vs-production-key-differences-you-need-to-know-31ka)
+- [How to Set Git Username and Password in Git Bash?](https://dev.to/msnmongare/how-to-set-git-username-and-password-in-git-bash-24i)
+- [🔥Introducing the HMPL VS Code Extension](https://dev.to/hmpljs/introducing-the-hmpl-vs-code-extension-58pm)
+- [How Can AI Development Be Applied to Improve Cybersecurity?](https://dev.to/marco_luther_4e754f32d75f/how-can-ai-development-be-applied-to-improve-cybersecurity-27dn)
+- [How to Install a GUI on Ubuntu Server](https://dev.to/nodeshiftcloud/how-to-install-a-gui-on-ubuntu-server-c15)
 <!-- BLOG-POST-LIST:END -->
 
