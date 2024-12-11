@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10: Docker Networking](https://dev.to/code42cate/day-10-docker-networking-1n1c)
-- [Flexible Angular Builds: A Guide to Angular 19 Build-Time Variables with Docker](https://dev.to/danielsogl/flexible-angular-builds-a-guide-to-angular-19-build-time-variables-with-docker-3ld1)
-- [How to Build a SaaS Financial Model](https://dev.to/thealgorithm/how-to-build-a-saas-financial-model-4mdj)
-- [Reconnaissance &amp; Information Gathering](https://dev.to/guptswayam/reconnaissance-information-gathering-1fn1)
+- [3 Ready-to-Copy Bash Scripts to Visualize Python Code](https://dev.to/cli-pirate/3-ready-to-copy-bash-scripts-to-visualize-python-code-49dm)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/unique-tea/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-5da9)
+- [Daily JavaScript Challenge #JS-44: Convert Roman Numerals to Integer](https://dev.to/dpc/daily-javascript-challenge-js-44-convert-roman-numerals-to-integer-3nlk)
+- [From Scrolls to Scripts: Orchestrating Agents with Chronicles](https://dev.to/michael_flanagan_red/from-scrolls-to-scripts-orchestrating-agents-with-chronicles-n1b)
 <!-- BLOG-POST-LIST:END -->
 
