@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test APIs Visually in IntelliJ IDEA](https://dev.to/auden/test-apis-visually-in-intellij-idea-4j0m)
-- [How to Test APIs Visually in IntelliJ IDEA?](https://dev.to/auden/how-to-test-apis-visually-in-intellij-idea-5388)
-- [System Design: Distributed Logging](https://dev.to/surajvatsya/system-design-distributed-logging-4hf0)
-- [Accelerate Cloud Innovation with AWS Data Lab Design Workshop](https://dev.to/jessica_williams_8192bc1f/accelerate-cloud-innovation-with-aws-data-lab-design-workshop-4j2n)
+- [Do universo Dev para Platform Engineering: A nova jornada do desenvolvedor](https://dev.to/biosbug/do-universo-dev-para-platform-engineering-a-nova-jornada-do-desenvolvedor-2ml2)
+- [A CSS for Bear Blog](https://dev.to/chenyun/a-css-for-bear-blog-158)
+- [[Boost]](https://dev.to/truongpx396/-3b2f)
+- [Ansible vs Jenkins: Choosing the Right Tool for Your Automation Needs](https://dev.to/velan/ansible-vs-jenkins-choosing-the-right-tool-for-your-automation-needs-5eod)
 <!-- BLOG-POST-LIST:END -->
 
