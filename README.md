@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【Tips】DolphinScheduler Task Data Cleanup and Backup Strategy to Ensure Page Smoothness](https://dev.to/chen_debra_3060b21d12b1b0/tips-dolphinscheduler-task-data-cleanup-and-backup-strategy-to-ensure-page-smoothness-3jc4)
-- [I&#39;ve tried v0 and Figma, but neither feels right. v0 doesn&#39;t offer visual editing, and Figma doesn&#39;t have great code export or the ability to write code. Curious if anyone finds this annoying and if other devs want to visually edit + code?](https://dev.to/slowro/ive-tried-v0-and-figma-but-neither-feels-right-v0-doesnt-offer-visual-editing-and-figma-2p36)
-- [Creating an SQL Agent Using OpenAI and Python](https://dev.to/suyashmuley/creating-an-sql-agent-using-openai-and-python-13if)
-- [my first post](https://dev.to/anjali_pal/my-first-post-2o0e)
+- [ImageGoNord: Balancing Open Source Freedom with Ethical Challenges](https://dev.to/schroedinger-hat/imagegonord-balancing-open-source-freedom-with-ethical-challenges-46e4)
+- [Like Vim, but Helix](https://dev.to/sevapp/like-vim-but-helix-1eg6)
+- [Comparison JavaScript Common Data Formats](https://dev.to/emma_richardson/comparison-javascript-common-data-formats-4a0c)
+- [Staging vs. Production: Key Differences You Need to Know](https://dev.to/keploy/staging-vs-production-key-differences-you-need-to-know-31ka)
 <!-- BLOG-POST-LIST:END -->
 
