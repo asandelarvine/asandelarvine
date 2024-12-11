@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is the Best Way to Incorporate High-Quality Protein into a Balanced Diet?](https://dev.to/rafaelmeans716/what-is-the-best-way-to-incorporate-high-quality-protein-into-a-balanced-diet-3kno)
-- [The Curious Case of Sound Restoration Frequencies: A Tech-Driven Fix for Phone Speakers](https://dev.to/deen_john17/the-curious-case-of-sound-restoration-frequencies-a-tech-driven-fix-for-phone-speakers-k1k)
-- [How to create a pre-assigned URL for an S3 bucket in AWS.](https://dev.to/ikelechia/how-to-create-a-pre-assigned-url-for-an-s3-bucket-in-aws-32ac)
-- [The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners](https://dev.to/askyt/the-express-nodejs-handbook-learn-the-express-javascript-framework-for-beginners-hd7)
+- [A Comprehensive Guide to Conducting Accessibility Audit](https://dev.to/lollypopdesign/a-comprehensive-guide-to-conducting-accessibility-audit-3ach)
+- [#115 — Ranking of Row-Based Data — by the Expression](https://dev.to/judith677/115-ranking-of-row-based-data-by-the-expression-32nb)
+- [Subform Goto First Field in Microsoft Access](https://dev.to/richardrost/subform-goto-first-field-in-microsoft-access-42p7)
+- [Unveiling the Unseen: A Journey from Simple Recon Using Shodan to Leaking AWS Secrets](https://dev.to/tecno-security/unveiling-the-unseen-a-journey-from-simple-recon-using-shodan-to-leaking-aws-secrets-ek5)
 <!-- BLOG-POST-LIST:END -->
 
