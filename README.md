@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Interview Questions: Part 1 - &lpar;10 Q &amp; A&rpar;](https://dev.to/1hamzabek/aspnet-interview-questions-part-1-10-q-a-3oh4)
-- [Simplifying Workflow Execution with Action Mapping in C#](https://dev.to/seanmdrew/simplifying-workflow-execution-with-action-mapping-in-c-9jb)
-- [HTML Canvas Made Simple: A Guide for Beginners.](https://dev.to/motuncoded/html-canvas-made-simple-a-guide-for-beginners-739)
-- [[Boost]](https://dev.to/denoldtimer/-5fg)
+- [Glam Up My Markup: Winter Solstice](https://dev.to/yukaty/glam-up-my-markup-winter-solstice-239h)
+- [DevFest Zamboanga Peninsula 2024: A Celebration of Tech and Innovation](https://dev.to/kakacomputer/devfest-zamboanga-peninsula-2024-a-celebration-of-tech-and-innovation-1m7i)
+- [6502 Math](https://dev.to/arilloid/6502-math-5ggh)
+- [Gradle extensions part 2: Now with shenanigans](https://dev.to/autonomousapps/gradle-extensions-part-2-now-with-shenanigans-12m6)
 <!-- BLOG-POST-LIST:END -->
 
