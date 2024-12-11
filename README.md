@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Git Username and Password in Git Bash?](https://dev.to/msnmongare/how-to-set-git-username-and-password-in-git-bash-24i)
-- [🔥Introducing the HMPL VS Code Extension](https://dev.to/hmpljs/introducing-the-hmpl-vs-code-extension-58pm)
-- [How Can AI Development Be Applied to Improve Cybersecurity?](https://dev.to/marco_luther_4e754f32d75f/how-can-ai-development-be-applied-to-improve-cybersecurity-27dn)
-- [How to Install a GUI on Ubuntu Server](https://dev.to/nodeshiftcloud/how-to-install-a-gui-on-ubuntu-server-c15)
+- [Test APIs Visually in IntelliJ IDEA](https://dev.to/auden/test-apis-visually-in-intellij-idea-4j0m)
+- [How to Test APIs Visually in IntelliJ IDEA?](https://dev.to/auden/how-to-test-apis-visually-in-intellij-idea-5388)
+- [System Design: Distributed Logging](https://dev.to/surajvatsya/system-design-distributed-logging-4hf0)
+- [Accelerate Cloud Innovation with AWS Data Lab Design Workshop](https://dev.to/jessica_williams_8192bc1f/accelerate-cloud-innovation-with-aws-data-lab-design-workshop-4j2n)
 <!-- BLOG-POST-LIST:END -->
 
