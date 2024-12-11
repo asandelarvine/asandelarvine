@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to post a link with embed card on Bluesky with JavaScript](https://dev.to/piotrkulpinski/how-to-post-a-link-with-embed-card-on-bluesky-with-javascript-4bll)
-- [What is AWS Step Functions? - A Complete Guide](https://dev.to/cicube/what-is-aws-step-functions-a-complete-guide-4dg3)
-- [Working together has once again proven what a professional and dedicated team you are.](https://dev.to/marceefish/working-together-has-once-again-proven-what-a-professional-and-dedicated-team-you-are-1phg)
-- [Demystifying an interesting relation between ECR and S3](https://dev.to/aws-builders/demystifying-an-interesting-relation-between-ecr-and-s3-53co)
+- [Building a Chatbot with Flutter and Firebase](https://dev.to/r3d_cr0wn/building-a-chatbot-with-flutter-and-firebase-452c)
+- [LINUXtips.local Fortaleza e a importância dos eventos presenciais](https://dev.to/technerdsup/linuxtipslocal-fortaleza-e-a-importancia-dos-eventos-presenciais-1p09)
+- [RITengine: ai.ritengine.com](https://dev.to/mazdak/ritengine-airitenginecom-34j4)
+- [Day 3: Lists](https://dev.to/theoriginalbpc/day-3-lists-288p)
 <!-- BLOG-POST-LIST:END -->
 
