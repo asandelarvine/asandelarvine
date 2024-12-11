@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should You Use an Open-source SaaS Boilerplate Starter or a $300+ Paid One?](https://dev.to/wasp/should-you-use-an-open-source-saas-boilerplate-starter-or-a-300-paid-one-48ea)
-- [LeetCode Challenge: Best Time to Buy and Sell Stock II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-best-time-to-buy-and-sell-stock-ii-javascript-solution-332d)
-- [🚀 Your Daily Crypto Job Digest For 11 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-11-december-e40)
-- [firework](https://dev.to/phelan_nguyen_ae307cc25b7/firework2022-3m2c)
+- [Criando um Chatbot com JavaScript e Gemini AI](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-364k)
+- [Djoser+SimpleJWT](https://dev.to/eshat002/djosersimplejwt-1pli)
+- [Infrastructure Planning with Terraform Day 5](https://dev.to/i_am_vesh/infrastructure-planning-with-terraform-day-5-1eeg)
+- [Explaining donut like 5 years old Part-4](https://dev.to/bhjaipal/explaining-donut-like-5-years-old-part-4-330f)
 <!-- BLOG-POST-LIST:END -->
 
