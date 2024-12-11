@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chatbot with Flutter and Firebase](https://dev.to/r3d_cr0wn/building-a-chatbot-with-flutter-and-firebase-452c)
-- [LINUXtips.local Fortaleza e a importância dos eventos presenciais](https://dev.to/technerdsup/linuxtipslocal-fortaleza-e-a-importancia-dos-eventos-presenciais-1p09)
-- [RITengine: ai.ritengine.com](https://dev.to/mazdak/ritengine-airitenginecom-34j4)
-- [Day 3: Lists](https://dev.to/theoriginalbpc/day-3-lists-288p)
+- [From Reader to Friend of Medium: My Journey to 1K Followers and Beyond](https://dev.to/gajanan0707/from-reader-to-friend-of-medium-my-journey-to-1k-followers-and-beyond-5727)
+- [Code as design](https://dev.to/dan1618/code-as-design-46cj)
+- [🚀 &quot;Building an Enterprise-Grade 💼 Generative AI Chatbot 🤖 Using Amazon Q&quot; 🔍](https://dev.to/aws-builders/building-an-enterprise-grade-generative-ai-chatbot-using-amazon-q-9m3)
+- [Joins, Scale, and Denormalization](https://dev.to/aws-heroes/joins-and-denormalization-3dan)
 <!-- BLOG-POST-LIST:END -->
 
