@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a SaaS as a Solo Developer: Month 1 Learnings](https://dev.to/gleamso/building-a-saas-as-a-solo-developer-month-1-learnings-4l3)
-- [That First Ticket](https://dev.to/annawijetunga/that-first-ticket-54cb)
-- [SlotQris: Meaning, How it Works, and a Series of Benefits](https://dev.to/slotqris/slotqris-meaning-how-it-works-and-a-series-of-benefits-18da)
-- [Canon IJ Scan Utility: A Complete Guide to Scanning Like a Pro](https://dev.to/tobbystalin/canon-ij-scan-utility-a-complete-guide-to-scanning-like-a-pro-457n)
+- [How to post a link with embed card on Bluesky with JavaScript](https://dev.to/piotrkulpinski/how-to-post-a-link-with-embed-card-on-bluesky-with-javascript-4bll)
+- [What is AWS Step Functions? - A Complete Guide](https://dev.to/cicube/what-is-aws-step-functions-a-complete-guide-4dg3)
+- [Working together has once again proven what a professional and dedicated team you are.](https://dev.to/marceefish/working-together-has-once-again-proven-what-a-professional-and-dedicated-team-you-are-1phg)
+- [Demystifying an interesting relation between ECR and S3](https://dev.to/aws-builders/demystifying-an-interesting-relation-between-ecr-and-s3-53co)
 <!-- BLOG-POST-LIST:END -->
 
