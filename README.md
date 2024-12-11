@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 7: Building Your Own AI - Convolutional Neural Networks &lpar;CNNs&rpar; for Image Processing](https://dev.to/trixsec/part-7-building-your-own-ai-convolutional-neural-networks-cnns-for-image-processing-3mep)
 - [A Comprehensive Guide to Conducting Accessibility Audit](https://dev.to/lollypopdesign/a-comprehensive-guide-to-conducting-accessibility-audit-3ach)
 - [#115 — Ranking of Row-Based Data — by the Expression](https://dev.to/judith677/115-ranking-of-row-based-data-by-the-expression-32nb)
 - [Subform Goto First Field in Microsoft Access](https://dev.to/richardrost/subform-goto-first-field-in-microsoft-access-42p7)
-- [Unveiling the Unseen: A Journey from Simple Recon Using Shodan to Leaking AWS Secrets](https://dev.to/tecno-security/unveiling-the-unseen-a-journey-from-simple-recon-using-shodan-to-leaking-aws-secrets-ek5)
 <!-- BLOG-POST-LIST:END -->
 
