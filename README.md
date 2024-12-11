@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Reader to Friend of Medium: My Journey to 1K Followers and Beyond](https://dev.to/gajanan0707/from-reader-to-friend-of-medium-my-journey-to-1k-followers-and-beyond-5727)
-- [Code as design](https://dev.to/dan1618/code-as-design-46cj)
-- [🚀 &quot;Building an Enterprise-Grade 💼 Generative AI Chatbot 🤖 Using Amazon Q&quot; 🔍](https://dev.to/aws-builders/building-an-enterprise-grade-generative-ai-chatbot-using-amazon-q-9m3)
-- [Joins, Scale, and Denormalization](https://dev.to/aws-heroes/joins-and-denormalization-3dan)
+- [Dec 12 - Virtual AI, Machine Learning and Computer Vision Meetup with Meta AI](https://dev.to/voxel51/dec-12-virtual-ai-machine-learning-and-computer-vision-meetup-with-meta-ai-jpe)
+- [Practical Deep Learning for Coders: The Ultimate Free Learning Resource for Aspiring AI Developers](https://dev.to/getvm/practical-deep-learning-for-coders-the-ultimate-free-learning-resource-for-aspiring-ai-developers-2hbj)
+- [Intro to AI Agent Store](https://dev.to/aiagentstore/intro-to-ai-agent-store-2lbk)
+- [Latest post🙌](https://dev.to/caganshen/latest-post-5b54)
 <!-- BLOG-POST-LIST:END -->
 
