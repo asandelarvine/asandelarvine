@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Clerk SSO to access Google Calendar and other service data](https://dev.to/clerk/using-clerk-sso-to-access-google-calendar-and-other-service-data-bfk)
-- [From Campus to Career: Securing an Offer at HSBC Technologies](https://dev.to/mrinankmj/from-campus-to-career-securing-an-offer-at-hsbc-technologies-5lg)
-- [How to Measure DORA Deployment Frequency](https://dev.to/shipyard/how-to-measure-dora-deployment-frequency-3c2i)
-- [Creating the Perfect Summer Color Palette: A Comprehensive Guide](https://dev.to/kolort/creating-the-perfect-summer-color-palette-a-comprehensive-guide-269k)
+- [ASP.NET Interview Questions: Part 1 - &lpar;10 Q &amp; A&rpar;](https://dev.to/1hamzabek/aspnet-interview-questions-part-1-10-q-a-3oh4)
+- [Simplifying Workflow Execution with Action Mapping in C#](https://dev.to/seanmdrew/simplifying-workflow-execution-with-action-mapping-in-c-9jb)
+- [HTML Canvas Made Simple: A Guide for Beginners.](https://dev.to/motuncoded/html-canvas-made-simple-a-guide-for-beginners-739)
+- [[Boost]](https://dev.to/denoldtimer/-5fg)
 <!-- BLOG-POST-LIST:END -->
 
