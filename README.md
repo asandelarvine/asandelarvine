@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do universo Dev para Platform Engineering: A nova jornada do desenvolvedor](https://dev.to/biosbug/do-universo-dev-para-platform-engineering-a-nova-jornada-do-desenvolvedor-2ml2)
-- [A CSS for Bear Blog](https://dev.to/chenyun/a-css-for-bear-blog-158)
-- [[Boost]](https://dev.to/truongpx396/-3b2f)
-- [Ansible vs Jenkins: Choosing the Right Tool for Your Automation Needs](https://dev.to/velan/ansible-vs-jenkins-choosing-the-right-tool-for-your-automation-needs-5eod)
+- [Displaying Python Script Outputs on Conky Panels](https://dev.to/evertontenorio/displaying-python-script-outputs-on-conky-panels-1ho)
+- [Deploying AI Models with Amazon Web Services: A Practical Guide](https://dev.to/kingkonsole/deploying-ai-models-with-amazon-web-services-a-practical-guide-14bc)
+- [Exploring the Power of Apple Intelligence: A New Era of Smart Innovation](https://dev.to/thenexttech/exploring-the-power-of-apple-intelligence-a-new-era-of-smart-innovation-1lef)
+- [Implementing Infinite Scrolling with Laravel, Inertia.js v2.0, and Vue 3](https://dev.to/bhaidar/implementing-infinite-scrolling-with-laravel-inertiajs-v20-and-vue-3-3il)
 <!-- BLOG-POST-LIST:END -->
 
