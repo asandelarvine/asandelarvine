@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um Chatbot com JavaScript e Gemini AI](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-364k)
-- [Djoser+SimpleJWT](https://dev.to/eshat002/djosersimplejwt-1pli)
-- [Infrastructure Planning with Terraform Day 5](https://dev.to/i_am_vesh/infrastructure-planning-with-terraform-day-5-1eeg)
-- [Explaining donut like 5 years old Part-4](https://dev.to/bhjaipal/explaining-donut-like-5-years-old-part-4-330f)
+- [Building a SaaS as a Solo Developer: Month 1 Learnings](https://dev.to/gleamso/building-a-saas-as-a-solo-developer-month-1-learnings-4l3)
+- [That First Ticket](https://dev.to/annawijetunga/that-first-ticket-54cb)
+- [SlotQris: Meaning, How it Works, and a Series of Benefits](https://dev.to/slotqris/slotqris-meaning-how-it-works-and-a-series-of-benefits-18da)
+- [Canon IJ Scan Utility: A Complete Guide to Scanning Like a Pro](https://dev.to/tobbystalin/canon-ij-scan-utility-a-complete-guide-to-scanning-like-a-pro-457n)
 <!-- BLOG-POST-LIST:END -->
 
