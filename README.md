@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dec 12 - Virtual AI, Machine Learning and Computer Vision Meetup with Meta AI](https://dev.to/voxel51/dec-12-virtual-ai-machine-learning-and-computer-vision-meetup-with-meta-ai-jpe)
-- [Practical Deep Learning for Coders: The Ultimate Free Learning Resource for Aspiring AI Developers](https://dev.to/getvm/practical-deep-learning-for-coders-the-ultimate-free-learning-resource-for-aspiring-ai-developers-2hbj)
-- [Intro to AI Agent Store](https://dev.to/aiagentstore/intro-to-ai-agent-store-2lbk)
-- [Latest post🙌](https://dev.to/caganshen/latest-post-5b54)
+- [Automate One-Time Password &lpar;OTP&rpar; Testing: A Casual Guide](https://dev.to/dancortazio/automate-one-time-password-otp-testing-a-casual-guide-3ocn)
+- [Check this amazing list of projects](https://dev.to/akshaycodes/check-this-amazing-list-of-projects-196d)
+- [Great List of Tools](https://dev.to/tanmoys95268896/great-list-of-tools-4he)
+- [Testing Management Tools](https://dev.to/fabiola_estefanipomamac/testing-management-tools-1909)
 <!-- BLOG-POST-LIST:END -->
 
