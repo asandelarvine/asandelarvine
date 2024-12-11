@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Displaying Python Script Outputs on Conky Panels](https://dev.to/evertontenorio/displaying-python-script-outputs-on-conky-panels-1ho)
-- [Deploying AI Models with Amazon Web Services: A Practical Guide](https://dev.to/kingkonsole/deploying-ai-models-with-amazon-web-services-a-practical-guide-14bc)
-- [Exploring the Power of Apple Intelligence: A New Era of Smart Innovation](https://dev.to/thenexttech/exploring-the-power-of-apple-intelligence-a-new-era-of-smart-innovation-1lef)
-- [Implementing Infinite Scrolling with Laravel, Inertia.js v2.0, and Vue 3](https://dev.to/bhaidar/implementing-infinite-scrolling-with-laravel-inertiajs-v20-and-vue-3-3il)
+- [Should You Use an Open-source SaaS Boilerplate Starter or a $300+ Paid One?](https://dev.to/wasp/should-you-use-an-open-source-saas-boilerplate-starter-or-a-300-paid-one-48ea)
+- [LeetCode Challenge: Best Time to Buy and Sell Stock II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-best-time-to-buy-and-sell-stock-ii-javascript-solution-332d)
+- [🚀 Your Daily Crypto Job Digest For 11 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-11-december-e40)
+- [firework](https://dev.to/phelan_nguyen_ae307cc25b7/firework2022-3m2c)
 <!-- BLOG-POST-LIST:END -->
 
