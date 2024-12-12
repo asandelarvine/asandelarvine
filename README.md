@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Cloud Security Efforts with AWS CAF and Well-Architected Framework](https://dev.to/oluwaseun_musa/building-cloud-security-efforts-with-aws-caf-and-well-architected-framework-53jj)
-- [ARP Poisoning Explained: What It Is and How to Prevent It](https://dev.to/s3cloudhub/arp-poisoning-explained-what-it-is-and-how-to-prevent-it-3kgc)
-- [Decoding the AI Brain: Vector vs. Graph Databases – The Secret Weapons Behind Smart Search &lpar;and RAG!&rpar;](https://dev.to/rupeshit/decoding-the-ai-brain-vector-vs-graph-databases-the-secret-weapons-behind-smart-search-and-45oo)
-- [Entity Framework | A Beginner&#39;s Guide : Mastering](https://dev.to/thedsdev/entity-framework-a-beginners-guide-mastering-6e0)
+- [Prevent Directory Traversal in Laravel: Expert Guide](https://dev.to/pentest_testing_corp/prevent-directory-traversal-in-laravel-expert-guide-23lc)
+- [Morphing Shape Animation](https://dev.to/ayusharpcoder/morphing-shape-animation-3l4p)
+- [THE ARTHA](https://dev.to/arjun-pseudo/the-artha-3dgm)
+- [Data Science in the Era of Generative AI, IoT, and Sustainable Technologies: A Complete Roadmap](https://dev.to/vikas76/data-science-in-the-era-of-generative-ai-iot-and-sustainable-technologies-a-complete-roadmap-26bm)
 <!-- BLOG-POST-LIST:END -->
 
