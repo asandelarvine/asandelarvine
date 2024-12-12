@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced RxJs Operators You Know But Not Well Enough pt 2.](https://dev.to/this-is-angular/advanced-rxjs-operators-you-know-but-not-well-enough-pt-2-3df5)
-- [Scala&#39;s Variance](https://dev.to/hackus/scalas-variance-30og)
-- [MUI Components: Your Complete Guide to Building Modern React UIs](https://dev.to/codeparrot/mui-components-your-complete-guide-to-building-modern-react-uis-1m0a)
-- [How to Migrate Azure Snapshots with Ease: Single and Multiple Scenarios](https://dev.to/angelotheman/how-to-migrate-azure-snapshots-with-ease-single-and-multiple-scenarios-5519)
+- [Key EU Directives and Regulations in IT, Web Developmentm, AI and Data Protection](https://dev.to/kvetoslavnovak/key-eu-directives-and-regulations-in-it-web-developmentm-ai-and-data-protection-4pn5)
+- [Just opensourced mcp-golang](https://dev.to/chrisbattarbee/-ghn)
+- [Building Websites That Convert: A Guide via Leading Design and Development Experts](https://dev.to/ella_oliver_1300b4b8e3f88/building-websites-that-convert-a-guide-via-leading-design-and-development-experts-boa)
+- [✍️ Obsidian: Journaling](https://dev.to/oscareduardolp6/obsidian-journaling-3mp1)
 <!-- BLOG-POST-LIST:END -->
 
