@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Web Development? A Beginner’s Guide to Building Websites](https://dev.to/mohamed_suhail_/what-is-web-development-a-beginners-guide-to-building-websites-22d4)
-- [Analysis of the Relationship Between HTTP and RPC](https://dev.to/mpoiiii/analysis-of-the-relationship-between-http-and-rpc-35j9)
-- [📖Accessibility: Making the Web a Better Place🌐🚀](https://dev.to/laxmann/accessibility-making-the-web-a-better-place-311g)
-- [Streaming live data to your ReactJS app using Server-Side-Events](https://dev.to/nir_tzezana_029370cba9093/streaming-live-data-to-your-reactjs-app-using-server-side-events-40am)
+- [Handling Callbacks in Laravel](https://dev.to/msnmongare/handling-callbacks-in-laravel-94f)
+- [API Development Roadmap For Developers😎](https://dev.to/krishna7852/api-development-roadmap-for-developers-pmf)
+- [How to Control BissC Absolute Encoder in EtherCAT Motion Controller](https://dev.to/zmotion_controller/how-to-control-bissc-absolute-encoder-in-ethercat-motion-controller-2d9l)
+- [Cách trình bày ngày/giờ chuyên nghiệp và không gây ra nhầm lẫn](https://dev.to/longtth/cach-trinh-bay-ngaygio-chuyen-nghiep-va-khong-gay-ra-nham-lan-20if)
 <!-- BLOG-POST-LIST:END -->
 
