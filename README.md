@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Buttons and Links](https://dev.to/chris_devto/buttons-and-links-12l3)
-- [the Accessibility Overlay Scandal](https://dev.to/chris_devto/the-accessibility-overlay-scandal-3d5e)
-- [Service Registry: Mastering Spring Boot Service Discovery and Registration using Netflix Eureka](https://dev.to/ayshriv/service-registry-mastering-spring-boot-service-discovery-and-registration-using-netflix-eureka-5edf)
-- [Hare and Tortoise - To Find Start of Loop in Linked List](https://dev.to/obanai/hare-and-tortoise-to-find-start-of-loop-in-linked-list-2eei)
+- [As a Techie: Balancing Growth with Boundaries](https://dev.to/_juniordev_/as-a-techie-balancing-growth-with-boundaries-52h9)
+- [Rails Icons 1.0.0 is here](https://dev.to/railsdesigner/rails-icons-100-is-here-1mb3)
+- [Want to Know more about Software Raid?](https://dev.to/pltnvs/want-to-know-more-about-software-raid-cag)
+- [SimpleAuth - Open Source WebApi Based Alternative to ASP.NET Core Identity](https://dev.to/lymestack/simpleauth-open-source-webapi-based-alternative-to-aspnet-core-identity-40i8)
 <!-- BLOG-POST-LIST:END -->
 
