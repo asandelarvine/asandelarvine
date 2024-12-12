@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [As a Techie: Balancing Growth with Boundaries](https://dev.to/_juniordev_/as-a-techie-balancing-growth-with-boundaries-52h9)
-- [Rails Icons 1.0.0 is here](https://dev.to/railsdesigner/rails-icons-100-is-here-1mb3)
-- [Want to Know more about Software Raid?](https://dev.to/pltnvs/want-to-know-more-about-software-raid-cag)
-- [SimpleAuth - Open Source WebApi Based Alternative to ASP.NET Core Identity](https://dev.to/lymestack/simpleauth-open-source-webapi-based-alternative-to-aspnet-core-identity-40i8)
+- [Flipper Zero NFC Hacking - EMV Banking, Man-in-the-Middle, and Relay Attacks](https://dev.to/gvi/flipper-zero-nfc-hacking-man-in-the-middle-relay-attack-1oc0)
+- [Learn by Proxy: JavaScript Quick Bits](https://dev.to/oculus42/learn-by-proxy-javascript-quick-bits-4lbn)
+- [Comprehensive Guide: Creating and Running the &quot;Sample Video Generator&quot; with Daytona](https://dev.to/aryprogrammer/comprehensive-guide-creating-and-running-the-sample-video-generator-with-daytona-2895)
+- [It&#39;s one small step for man](https://dev.to/itsa_depression/its-one-small-step-for-man-48ha)
 <!-- BLOG-POST-LIST:END -->
 
