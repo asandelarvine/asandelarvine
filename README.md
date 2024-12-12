@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity as a Developer: Essential Tools and Plugins](https://dev.to/cryptosandy/boost-your-productivity-as-a-developer-essential-tools-and-plugins-ahe)
-- [Importance of Compliance &lpar;GDPR, HIPAA&rpar;](https://dev.to/574n13y/importance-of-compliance-gdpr-hipaa-1m0c)
-- [Full Stack Developer Test Empowered by Google: A Journey Through Challenges and MCQs](https://dev.to/usman_awan/full-stack-developer-test-empowered-by-google-a-journey-through-challenges-and-mcqs-1p5m)
-- [2558. Take Gifts From the Richest Pile](https://dev.to/mdarifulhaque/2558-take-gifts-from-the-richest-pile-4i65)
+- [Advanced RxJs Operators You Know But Not Well Enough pt 2.](https://dev.to/this-is-angular/advanced-rxjs-operators-you-know-but-not-well-enough-pt-2-3df5)
+- [Scala&#39;s Variance](https://dev.to/hackus/scalas-variance-30og)
+- [MUI Components: Your Complete Guide to Building Modern React UIs](https://dev.to/codeparrot/mui-components-your-complete-guide-to-building-modern-react-uis-1m0a)
+- [How to Migrate Azure Snapshots with Ease: Single and Multiple Scenarios](https://dev.to/angelotheman/how-to-migrate-azure-snapshots-with-ease-single-and-multiple-scenarios-5519)
 <!-- BLOG-POST-LIST:END -->
 
