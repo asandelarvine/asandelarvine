@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind at Google: Denny Zhou](https://dev.to/pravintargaryen/deepmind-at-google-denny-zhou-fcl)
-- [How to Recreate the Iconic Pegman from Google Maps](https://dev.to/rodrigoantunes/how-to-recreate-the-iconic-pegman-from-google-maps-mi7)
-- [Is Bitcoin Ready for the Quantum Era? Understanding Security and Future-Proofing](https://dev.to/zororaka/is-bitcoin-ready-for-the-quantum-era-understanding-security-and-future-proofing-5b0l)
-- [Day One to Became an Android Developer](https://dev.to/himagaur2708/day-one-to-became-an-android-developer-2e37)
+- [Hybrid Cloud Migration Strategies](https://dev.to/enna/hybrid-cloud-migration-strategies-3cam)
+- [price tag](https://dev.to/mrugadnik/price-tag-288k)
+- [DevRel Uni Cohort 6 Powered by Arbitrum](https://dev.to/dariaag/devrel-uni-cohort-6-powered-by-arbitrum-4n24)
+- [🕸️ How to Scrape Indonesian Public Company Profiles](https://dev.to/zororaka/how-to-scrape-indonesian-public-company-profiles-hd9)
 <!-- BLOG-POST-LIST:END -->
 
