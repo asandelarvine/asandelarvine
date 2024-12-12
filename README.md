@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent Directory Traversal in Laravel: Expert Guide](https://dev.to/pentest_testing_corp/prevent-directory-traversal-in-laravel-expert-guide-23lc)
-- [Morphing Shape Animation](https://dev.to/ayusharpcoder/morphing-shape-animation-3l4p)
-- [THE ARTHA](https://dev.to/arjun-pseudo/the-artha-3dgm)
-- [Data Science in the Era of Generative AI, IoT, and Sustainable Technologies: A Complete Roadmap](https://dev.to/vikas76/data-science-in-the-era-of-generative-ai-iot-and-sustainable-technologies-a-complete-roadmap-26bm)
+- [What is Web Development? A Beginner’s Guide to Building Websites](https://dev.to/mohamed_suhail_/what-is-web-development-a-beginners-guide-to-building-websites-22d4)
+- [Analysis of the Relationship Between HTTP and RPC](https://dev.to/mpoiiii/analysis-of-the-relationship-between-http-and-rpc-35j9)
+- [📖Accessibility: Making the Web a Better Place🌐🚀](https://dev.to/laxmann/accessibility-making-the-web-a-better-place-311g)
+- [Streaming live data to your ReactJS app using Server-Side-Events](https://dev.to/nir_tzezana_029370cba9093/streaming-live-data-to-your-reactjs-app-using-server-side-events-40am)
 <!-- BLOG-POST-LIST:END -->
 
