@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Algorithms with Go: A Beginner&#39;s Guide to Sorting Small Data Sets 🔥](https://dev.to/githaiga22/mastering-algorithms-with-go-a-beginners-guide-to-sorting-small-data-sets-1nn9)
-- [#116 — Concatenate Members with the Same Ranking](https://dev.to/judith677/116-concatenate-members-with-the-same-ranking-5g58)
-- [Learn Git and GitHub the Practical Way guide by senior engineer](https://dev.to/pawandeore/learn-git-and-github-the-practical-way-guide-by-senior-engineer-281m)
-- [Final Update - Failed to Release](https://dev.to/elisassa/final-update-failed-to-release-5hh3)
+- [Building Cloud Security Efforts with AWS CAF and Well-Architected Framework](https://dev.to/oluwaseun_musa/building-cloud-security-efforts-with-aws-caf-and-well-architected-framework-53jj)
+- [ARP Poisoning Explained: What It Is and How to Prevent It](https://dev.to/s3cloudhub/arp-poisoning-explained-what-it-is-and-how-to-prevent-it-3kgc)
+- [Decoding the AI Brain: Vector vs. Graph Databases – The Secret Weapons Behind Smart Search &lpar;and RAG!&rpar;](https://dev.to/rupeshit/decoding-the-ai-brain-vector-vs-graph-databases-the-secret-weapons-behind-smart-search-and-45oo)
+- [Entity Framework | A Beginner&#39;s Guide : Mastering](https://dev.to/thedsdev/entity-framework-a-beginners-guide-mastering-6e0)
 <!-- BLOG-POST-LIST:END -->
 
