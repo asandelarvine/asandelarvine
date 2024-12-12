@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Functions in JavaScript](https://dev.to/arjun98k/mastering-functions-in-javascript-499m)
-- [Predicting Instagram Influencers Engagement with Machine Learning in Python](https://dev.to/adipamartulandi/predicting-instagram-influencers-engagement-with-machine-learning-in-python-53bk)
-- [Building an App with Change Data Capture &lpar;CDC&rpar; Tool](https://dev.to/jhonnyarm/building-an-app-with-change-data-capture-cdc-tool-7dj)
-- [DevOps: The Cool Tech World You Need to Know About!](https://dev.to/ravindra_babu/devops-the-cool-tech-world-you-need-to-know-about-2n2d)
+- [DeepMind at Google: Denny Zhou](https://dev.to/pravintargaryen/deepmind-at-google-denny-zhou-fcl)
+- [How to Recreate the Iconic Pegman from Google Maps](https://dev.to/rodrigoantunes/how-to-recreate-the-iconic-pegman-from-google-maps-mi7)
+- [Is Bitcoin Ready for the Quantum Era? Understanding Security and Future-Proofing](https://dev.to/zororaka/is-bitcoin-ready-for-the-quantum-era-understanding-security-and-future-proofing-5b0l)
+- [Day One to Became an Android Developer](https://dev.to/himagaur2708/day-one-to-became-an-android-developer-2e37)
 <!-- BLOG-POST-LIST:END -->
 
