@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key EU Directives and Regulations in IT, Web Developmentm, AI and Data Protection](https://dev.to/kvetoslavnovak/key-eu-directives-and-regulations-in-it-web-developmentm-ai-and-data-protection-4pn5)
-- [Just opensourced mcp-golang](https://dev.to/chrisbattarbee/-ghn)
-- [Building Websites That Convert: A Guide via Leading Design and Development Experts](https://dev.to/ella_oliver_1300b4b8e3f88/building-websites-that-convert-a-guide-via-leading-design-and-development-experts-boa)
-- [✍️ Obsidian: Journaling](https://dev.to/oscareduardolp6/obsidian-journaling-3mp1)
+- [Mastering Functions in JavaScript](https://dev.to/arjun98k/mastering-functions-in-javascript-499m)
+- [Predicting Instagram Influencers Engagement with Machine Learning in Python](https://dev.to/adipamartulandi/predicting-instagram-influencers-engagement-with-machine-learning-in-python-53bk)
+- [Building an App with Change Data Capture &lpar;CDC&rpar; Tool](https://dev.to/jhonnyarm/building-an-app-with-change-data-capture-cdc-tool-7dj)
+- [DevOps: The Cool Tech World You Need to Know About!](https://dev.to/ravindra_babu/devops-the-cool-tech-world-you-need-to-know-about-2n2d)
 <!-- BLOG-POST-LIST:END -->
 
