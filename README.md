@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Callbacks in Laravel](https://dev.to/msnmongare/handling-callbacks-in-laravel-94f)
-- [API Development Roadmap For Developers😎](https://dev.to/krishna7852/api-development-roadmap-for-developers-pmf)
-- [How to Control BissC Absolute Encoder in EtherCAT Motion Controller](https://dev.to/zmotion_controller/how-to-control-bissc-absolute-encoder-in-ethercat-motion-controller-2d9l)
-- [Cách trình bày ngày/giờ chuyên nghiệp và không gây ra nhầm lẫn](https://dev.to/longtth/cach-trinh-bay-ngaygio-chuyen-nghiep-va-khong-gay-ra-nham-lan-20if)
+- [Understanding BCrypt: The Secure Way to Hash Passwords](https://dev.to/kailashnirmal/understanding-bcrypt-the-secure-way-to-hash-passwords-aj5)
+- [Login Signup Interface](https://dev.to/tobidelly/login-signup-interface-281m)
+- [Do you know that EKS Auto Mode enforces a 21-day maximum node lifetime?](https://dev.to/vijaykodam/do-you-know-that-eks-auto-mode-enforces-a-21-day-maximum-node-lifetime-5gm3)
+- [Understanding == in Java: Why 1 == 1 is True but 128 == 128 Might Be False](https://dev.to/thisismemukul/understanding-in-java-why-1-1-is-true-but-128-128-might-be-false-je)
 <!-- BLOG-POST-LIST:END -->
 
