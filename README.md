@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Glam Up My Markup: Winter Solstice](https://dev.to/yukaty/glam-up-my-markup-winter-solstice-239h)
-- [DevFest Zamboanga Peninsula 2024: A Celebration of Tech and Innovation](https://dev.to/kakacomputer/devfest-zamboanga-peninsula-2024-a-celebration-of-tech-and-innovation-1m7i)
-- [6502 Math](https://dev.to/arilloid/6502-math-5ggh)
-- [Gradle extensions part 2: Now with shenanigans](https://dev.to/autonomousapps/gradle-extensions-part-2-now-with-shenanigans-12m6)
+- [AWS re:Invent 2024 recap](https://dev.to/oluwaseun_musa/aws-reinvent-2024-recap-44n8)
+- [Advent of Code 2024 - Day 11: Plutonian Pebbles](https://dev.to/grantdotdev/advent-of-code-2024-day-11-plutonian-pebbles-2m75)
+- [3 Bash One-Liners to Analyze Production Issues 10X Faster](https://dev.to/cli-pirate/3-bash-one-liners-to-analyze-production-issues-10x-faster-1ceg)
+- [Hello I&#39;m a beginner, anyone knows how can I fix the issues in my code?](https://dev.to/airraa/hello-im-a-beginner-anyone-knows-how-can-i-fix-the-issues-in-my-code-26j9)
 <!-- BLOG-POST-LIST:END -->
 
