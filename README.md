@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flipper Zero NFC Hacking - EMV Banking, Man-in-the-Middle, and Relay Attacks](https://dev.to/gvi/flipper-zero-nfc-hacking-man-in-the-middle-relay-attack-1oc0)
-- [Learn by Proxy: JavaScript Quick Bits](https://dev.to/oculus42/learn-by-proxy-javascript-quick-bits-4lbn)
-- [Comprehensive Guide: Creating and Running the &quot;Sample Video Generator&quot; with Daytona](https://dev.to/aryprogrammer/comprehensive-guide-creating-and-running-the-sample-video-generator-with-daytona-2895)
-- [It&#39;s one small step for man](https://dev.to/itsa_depression/its-one-small-step-for-man-48ha)
+- [Adapter and Composite Design Patterns](https://dev.to/shieldstring/adapter-and-composite-design-patterns-4701)
+- [Interviews as a Storytelling Showcase](https://dev.to/shieldstring/interviews-as-a-storytelling-showcase-2477)
+- [A pragmatic approach to SOLID](https://dev.to/kmruiz/a-pragmatic-approach-to-solid-46a5)
+- [Walkthrough HTB Public Exploits Flag Hunting: Lessons in Overthinking and Simplifying](https://dev.to/hacknip/walkthrough-htb-public-exploits-flag-hunting-lessons-in-overthinking-and-simplifying-4ddk)
 <!-- BLOG-POST-LIST:END -->
 
