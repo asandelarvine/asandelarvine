@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding BCrypt: The Secure Way to Hash Passwords](https://dev.to/kailashnirmal/understanding-bcrypt-the-secure-way-to-hash-passwords-aj5)
-- [Login Signup Interface](https://dev.to/tobidelly/login-signup-interface-281m)
-- [Do you know that EKS Auto Mode enforces a 21-day maximum node lifetime?](https://dev.to/vijaykodam/do-you-know-that-eks-auto-mode-enforces-a-21-day-maximum-node-lifetime-5gm3)
-- [Understanding == in Java: Why 1 == 1 is True but 128 == 128 Might Be False](https://dev.to/thisismemukul/understanding-in-java-why-1-1-is-true-but-128-128-might-be-false-je)
+- [Building a Streamlit Inventory Management App with Fragment Decorators 🚀](https://dev.to/blamsa0mine/building-a-streamlit-inventory-management-app-with-fragment-decorators-10bl)
+- [⚡DevCycle Feature Flag Challenge : Customisable Personal Blog Creator](https://dev.to/coding_claws/created-a-customisable-personal-blog-creator-4alm)
+- [Mastering API Testing: Key Challenges and How to Solve Them](https://dev.to/vijayashree44/mastering-api-testing-key-challenges-and-how-to-solve-them-4lf1)
+- [Code. Battery notifier.](https://dev.to/axkira/code-battery-notifier-1l0l)
 <!-- BLOG-POST-LIST:END -->
 
