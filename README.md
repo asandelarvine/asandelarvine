@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Cloud Migration Strategies](https://dev.to/enna/hybrid-cloud-migration-strategies-3cam)
-- [price tag](https://dev.to/mrugadnik/price-tag-288k)
-- [DevRel Uni Cohort 6 Powered by Arbitrum](https://dev.to/dariaag/devrel-uni-cohort-6-powered-by-arbitrum-4n24)
-- [🕸️ How to Scrape Indonesian Public Company Profiles](https://dev.to/zororaka/how-to-scrape-indonesian-public-company-profiles-hd9)
+- [Python](https://dev.to/saranvino23/python-j7d)
+- [CelebA in PyTorch](https://dev.to/hyperkai/celeba-in-pytorch-3ai)
+- [How to apply configurations to multiple hosts using Ansible](https://dev.to/labex/how-to-apply-configurations-to-multiple-hosts-using-ansible-17ek)
+- [Building an Efficient File Organizer with Rust](https://dev.to/joeljaison394/building-an-efficient-file-organizer-with-rust-172f)
 <!-- BLOG-POST-LIST:END -->
 
