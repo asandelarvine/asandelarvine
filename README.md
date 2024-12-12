@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://dev.to/saranvino23/python-j7d)
-- [CelebA in PyTorch](https://dev.to/hyperkai/celeba-in-pytorch-3ai)
-- [How to apply configurations to multiple hosts using Ansible](https://dev.to/labex/how-to-apply-configurations-to-multiple-hosts-using-ansible-17ek)
-- [Building an Efficient File Organizer with Rust](https://dev.to/joeljaison394/building-an-efficient-file-organizer-with-rust-172f)
+- [Buttons and Links](https://dev.to/chris_devto/buttons-and-links-12l3)
+- [the Accessibility Overlay Scandal](https://dev.to/chris_devto/the-accessibility-overlay-scandal-3d5e)
+- [Service Registry: Mastering Spring Boot Service Discovery and Registration using Netflix Eureka](https://dev.to/ayshriv/service-registry-mastering-spring-boot-service-discovery-and-registration-using-netflix-eureka-5edf)
+- [Hare and Tortoise - To Find Start of Loop in Linked List](https://dev.to/obanai/hare-and-tortoise-to-find-start-of-loop-in-linked-list-2eei)
 <!-- BLOG-POST-LIST:END -->
 
