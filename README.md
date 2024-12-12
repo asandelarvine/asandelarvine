@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Streamlit Inventory Management App with Fragment Decorators 🚀](https://dev.to/blamsa0mine/building-a-streamlit-inventory-management-app-with-fragment-decorators-10bl)
-- [⚡DevCycle Feature Flag Challenge : Customisable Personal Blog Creator](https://dev.to/coding_claws/created-a-customisable-personal-blog-creator-4alm)
-- [Mastering API Testing: Key Challenges and How to Solve Them](https://dev.to/vijayashree44/mastering-api-testing-key-challenges-and-how-to-solve-them-4lf1)
-- [Code. Battery notifier.](https://dev.to/axkira/code-battery-notifier-1l0l)
+- [Essential Mobile App Testing Tools: Ensuring Quality Across Devices 📱🔍](https://dev.to/hexadecimalsoftware/essential-mobile-app-testing-tools-ensuring-quality-across-devices-4jah)
+- [Last stretch for this client and then I&#39;m on vacation!](https://dev.to/highcenburg/last-stretch-for-this-client-and-then-im-on-vacation-3odb)
+- [AWS EKS Auto Mode: Automating Kubernetes Cluster Management](https://dev.to/aws-builders/aws-eks-auto-mode-automating-kubernetes-cluster-management-1cek)
+- [JS Interview Question](https://dev.to/anjali_gurjar_dff81513867/js-interview-question-1fcd)
 <!-- BLOG-POST-LIST:END -->
 
