@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is React and How it works ?](https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd)
-- [How to Compile and Use fw_printenv in the OKMX6UL Series Linux 4.1.15 System](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-compile-and-use-fwprintenv-in-the-okmx6ul-series-linux-4115-system-3kpo)
-- [Local Storage vs Session Storage: When to Use Each &lpar;With Mini Projects&rpar;](https://dev.to/peboycodes/local-storage-vs-session-storage-when-to-use-each-with-mini-projects-3flm)
-- [Introduction to Docker, part I](https://dev.to/docker/introduction-to-docker-part-i-3fo6)
+- [Mastering Algorithms with Go: A Beginner&#39;s Guide to Sorting Small Data Sets 🔥](https://dev.to/githaiga22/mastering-algorithms-with-go-a-beginners-guide-to-sorting-small-data-sets-1nn9)
+- [#116 — Concatenate Members with the Same Ranking](https://dev.to/judith677/116-concatenate-members-with-the-same-ranking-5g58)
+- [Learn Git and GitHub the Practical Way guide by senior engineer](https://dev.to/pawandeore/learn-git-and-github-the-practical-way-guide-by-senior-engineer-281m)
+- [Final Update - Failed to Release](https://dev.to/elisassa/final-update-failed-to-release-5hh3)
 <!-- BLOG-POST-LIST:END -->
 
