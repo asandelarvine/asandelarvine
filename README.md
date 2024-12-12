@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Mobile App Testing Tools: Ensuring Quality Across Devices 📱🔍](https://dev.to/hexadecimalsoftware/essential-mobile-app-testing-tools-ensuring-quality-across-devices-4jah)
-- [Last stretch for this client and then I&#39;m on vacation!](https://dev.to/highcenburg/last-stretch-for-this-client-and-then-im-on-vacation-3odb)
-- [AWS EKS Auto Mode: Automating Kubernetes Cluster Management](https://dev.to/aws-builders/aws-eks-auto-mode-automating-kubernetes-cluster-management-1cek)
-- [JS Interview Question](https://dev.to/anjali_gurjar_dff81513867/js-interview-question-1fcd)
+- [CSS Specificity Explained: How to Control Which Styles Win](https://dev.to/bridget_amana/css-specificity-explained-how-to-control-which-styles-win-57l1)
+- [Master building a powerful weather app using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/master-building-a-powerful-weather-app-using-html-css-and-javascript-4oe)
+- [java task](https://dev.to/yaswanth_krishna_81faee1e/java-task-55a0)
+- [java 5](https://dev.to/yaswanth_krishna_81faee1e/java-5-5635)
 <!-- BLOG-POST-LIST:END -->
 
