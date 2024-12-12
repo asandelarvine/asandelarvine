@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Specificity Explained: How to Control Which Styles Win](https://dev.to/bridget_amana/css-specificity-explained-how-to-control-which-styles-win-57l1)
-- [Master building a powerful weather app using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/master-building-a-powerful-weather-app-using-html-css-and-javascript-4oe)
-- [java task](https://dev.to/yaswanth_krishna_81faee1e/java-task-55a0)
-- [java 5](https://dev.to/yaswanth_krishna_81faee1e/java-5-5635)
+- [Boost Your Productivity as a Developer: Essential Tools and Plugins](https://dev.to/cryptosandy/boost-your-productivity-as-a-developer-essential-tools-and-plugins-ahe)
+- [Importance of Compliance &lpar;GDPR, HIPAA&rpar;](https://dev.to/574n13y/importance-of-compliance-gdpr-hipaa-1m0c)
+- [Full Stack Developer Test Empowered by Google: A Journey Through Challenges and MCQs](https://dev.to/usman_awan/full-stack-developer-test-empowered-by-google-a-journey-through-challenges-and-mcqs-1p5m)
+- [2558. Take Gifts From the Richest Pile](https://dev.to/mdarifulhaque/2558-take-gifts-from-the-richest-pile-4i65)
 <!-- BLOG-POST-LIST:END -->
 
