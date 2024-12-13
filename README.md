@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Function-based RAG: Extending LLMs Beyond Static Knowledge Bases](https://dev.to/gentoro/function-based-rag-extending-llms-beyond-static-knowledge-bases-75j)
-- [I built the HackerNews for IndieHackers.](https://dev.to/ericbn09/i-built-the-hackernews-for-indiehackers-28bc)
-- [Learning Devops projects from beginner to advance.](https://dev.to/urdevops24/learning-devops-projects-from-beginner-to-advance-59ld)
-- [FiveM - resource hot reload](https://dev.to/justinmartindev/fivem-resource-hot-reload-oeg)
+- [Bash Scripting: Your Gateway to Linux Automation and Efficiency](https://dev.to/getvm/bash-scripting-your-gateway-to-linux-automation-and-efficiency-4n0f)
+- [IoT solution using IoT Hub, involves setting IoT Hub, device registering and to send telemetry data to Azure Blob Storage](https://dev.to/ikuesan_adeola/iot-solution-using-iot-hub-involves-setting-iot-hub-device-registering-and-to-send-telemetry-data-4h)
+- [Why I Built ThreejsResources.com and How It Helps the 3D Community.](https://dev.to/peter_csipkay/why-i-built-threejsresourcescom-and-how-it-helps-the-3d-community-203m)
+- [Como Habilitar o Provedor Legado no OpenSSL 3.x](https://dev.to/gifflet/como-habilitar-o-provedor-legado-no-openssl-3x-4cmj)
 <!-- BLOG-POST-LIST:END -->
 
