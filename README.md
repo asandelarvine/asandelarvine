@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sass vs. SCSS: What&#39;s the Difference and Which One Should You Use?](https://dev.to/rayechos/sass-vs-scss-whats-the-difference-and-which-one-should-you-use-4od4)
-- [Understanding God Objects in Object-Oriented Programming](https://dev.to/wallacefreitas/understanding-god-objects-in-object-oriented-programming-5636)
-- [Find out the GCD&lpar;Greatest Common Divisor&rpar; of the given two numbers in PHP.](https://dev.to/sharminshanta/find-out-the-gcdgreatest-common-divisor-of-the-given-two-numbers-in-php-3l2)
-- [How to install an iis web server on Amazon Ec2 instance](https://dev.to/stippy4real/how-to-install-an-iis-web-server-on-amazon-ec2-instance-55b1)
+- [Getting Started with React Native: From Effort to Ease 🚀](https://dev.to/naman_aggarwal_ad6214aa1b/getting-started-with-react-native-from-effort-to-ease-27pm)
+- [AWS re:Invent 2024 Reflection](https://dev.to/aws-builders/aws-reinvent-2024-reflection-2j81)
+- [How to deploy Kyverno Across Multiple Kubernetes Clusters](https://dev.to/simone_morellato/how-to-deploy-kyverno-across-multiple-kubernetes-clusters-jpa)
+- [It&#39;s one of the most thorough how-to guides I&#39;ve seen on any site, and it offers extreme flexibility for individual setup and Linux distribution preferences.](https://dev.to/zaznet/its-one-of-the-most-thorough-how-to-guides-ive-seen-on-any-site-and-it-offers-extreme-2fd3)
 <!-- BLOG-POST-LIST:END -->
 
