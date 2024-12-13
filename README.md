@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Top 3 Best authentication Frameworks for 2025 🗝️🧰](https://dev.to/martygo/top-3-best-authentication-frameworks-for-2025-51ej)
-- [Stop Building Messy APIs! Here&#39;s Your Clean Code Guide🚀](https://dev.to/geekvergil/stop-building-messy-apis-heres-your-clean-code-guide-4h95)
-- [eval de php](https://dev.to/zerostarck_205cd0c0933e2a/eval-de-php-n49)
-- [YouTube Hidden Features: Unlocking the Secrets of the Platform](https://dev.to/anindya_krnayak_cf1e0fa6/youtube-hidden-features-unlocking-the-secrets-of-the-platform-4eh6)
+- [How These Free Open Source Projects Can Jumpstart Your Career &lpar;No Experience? No Problem!&rpar;](https://dev.to/swirl/how-these-free-open-source-projects-can-jumpstart-your-career-no-experience-no-problem-4e44)
+- [Plesk users keep discussing the price increase](https://dev.to/ispmanager/plesk-users-keep-discussing-the-price-increase-5bgk)
+- [¿Cómo crear una llave SSH y conectarla con Github en Windows? 🤔](https://dev.to/duxtech/como-crear-una-llave-ssh-y-conectarla-con-github-en-windows-1j39)
+- [Harnessing IoT for Predictive Maintenance in Ships: Reducing Downtime and Enhancing Operational Efficiency](https://dev.to/navinder/harnessing-iot-for-predictive-maintenance-in-ships-reducing-downtime-and-enhancing-operational-36lo)
 <!-- BLOG-POST-LIST:END -->
 
