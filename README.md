@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Functions and Array](https://dev.to/jaxongir_isoqjonov_f2df17/functions-and-array-365h)
-- [為什麼 member function 不叫做 function member？](https://dev.to/codemee/wei-shi-mo-member-function-bu-jiao-zuo-function-member-5gnf)
-- [How To Add The Whitelist for Your Ingress-Nginx Controller of K8S?](https://dev.to/u2633/how-to-add-the-whitelist-for-your-ingress-nginx-controller-of-k8s-1a02)
-- [Cloud Solutions vs. On-Premise Speech Recognition Systems](https://dev.to/julia_8cb077bca5/cloud-solutions-vs-on-premise-speech-recognition-systems-1378)
+- [Complete Guide to AWS Compute Rightsizing](https://dev.to/vaish_98/complete-guide-to-aws-compute-rightsizing-3hn1)
+- [Complete Javascript - Basic to Advanced](https://dev.to/omkar_talekar_12f076b05f1/complete-javascript-basic-to-advanced-1m4a)
+- [Dummy API for Testing: How to Use It vs Mocking](https://dev.to/getambassador2024/dummy-api-for-testing-how-to-use-it-vs-mocking-251g)
+- [Key DevOps Trends in 2025](https://dev.to/neeljyo/key-devops-trends-in-2025-1lhc)
 <!-- BLOG-POST-LIST:END -->
 
