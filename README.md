@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimistic Rollups vs Zero-Knowledge Rollups: A Comparative Guide](https://dev.to/zororaka/optimistic-rollups-vs-zero-knowledge-rollups-a-comparative-guide-2jci)
-- [Solidity Pattern - Proxy Delegate and Decorator Patterns](https://dev.to/syedghufranhassan/solidity-pattern-proxy-delegate-and-decorator-patterns-a50)
-- [Every developer has said &quot;Hello, World&quot;](https://dev.to/pedroantdevv/every-developer-has-said-hello-world-hkg)
-- [Do you know what the best practices are for simple storage shuffle in AWS S3?](https://dev.to/vaish_98/do-you-know-what-the-best-practices-are-for-simple-storage-shuffle-in-aws-s3-la0)
+- [Hyperlinks: Quick and easy.](https://dev.to/ruben_salazar_ea6982ebd94/hyperlinks-quick-and-easy-2gmj)
+- [Using SpinKube on Kairos](https://dev.to/fermyon/using-spinkube-on-kairos-5f8m)
+- [Azure: Providing storage for the IT department testing and training](https://dev.to/johnogbonna/azure-providing-storage-for-the-it-department-testing-and-training-47ga)
+- [Next.js starter template](https://dev.to/michalskolakxx/nextjs-starter-template-239p)
 <!-- BLOG-POST-LIST:END -->
 
