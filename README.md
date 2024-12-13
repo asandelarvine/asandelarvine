@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Advanced CSS: Master Every Trick, Technique, and Hidden Feature🎨🚀](https://dev.to/hanzla-baig/the-ultimate-guide-to-advanced-css-master-every-trick-technique-and-hidden-feature-1i0d)
-- [Create a practical IoT Solution using Azure IoT](https://dev.to/olalekan_johnayansola_4a/create-a-practical-iot-solution-using-azure-iot-3ncp)
-- [Maximize Time and Elevate Efficiency with GenQE](https://dev.to/anil_csimplifyit_905c/maximize-time-and-elevate-efficiency-with-genqe-1je4)
-- [December &lpar;so far&rpar; Recap!](https://dev.to/theoforger/december-so-far-recap-4kce)
+- [How to Activate Windows 11 Using a Product Key or Digital License?](https://dev.to/win11verse/how-to-activate-windows-11-using-a-product-key-or-digital-license-3im1)
+- [Application of proxy IP in hot monitoring and trend analysis](https://dev.to/98ip/application-of-proxy-ip-in-hot-monitoring-and-trend-analysis-4gig)
+- [What is Chunk Size and Chunk Overlap](https://dev.to/tak089/what-is-chunk-size-and-chunk-overlap-1hlj)
+- [Cybersecurity Challenges in AI-Powered Medical Devices &lpar;SaMD&rpar;:](https://dev.to/rupeshit/cybersecurity-challenges-in-ai-powered-medical-devices-samd-1oma)
 <!-- BLOG-POST-LIST:END -->
 
