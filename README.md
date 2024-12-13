@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Artificial Intelligence: How AI is Changing the World 🌍🤖](https://dev.to/shreyash-hexa/the-future-of-artificial-intelligence-how-ai-is-changing-the-world-3pp3)
-- [Understanding Dijkstra&#39;s Algorithm: From Theory to Implementation](https://dev.to/frorning/understanding-dijkstras-algorithm-from-theory-to-implementation-1ed)
-- [Bolt.new with any LLM, you need to use it](https://dev.to/gabrielvanderlei/boltnew-with-any-llm-you-need-to-use-it-24eh)
-- [Future-Proofing Web Apps: The Power of Composable Components](https://dev.to/studiospindle/future-proofing-web-apps-the-power-of-composable-components-oad)
+- [A Peek Behind Go’s Entry Point - From Initialization to Exit](https://dev.to/ashwingopalsamy/a-peek-behind-gos-entry-point-from-initialization-to-exit-3h9d)
+- [Anthropic MCP: Developer&#39;s Thoughts](https://dev.to/dbolotov/anthropic-mcp-developers-thoughts-3dkk)
+- [# How to write good commit messages](https://dev.to/chamal1120/-how-to-write-good-commit-messages-57ac)
+- [Essential AI Development Tips by Dev Centre House Ireland](https://dev.to/anthonymccann/essential-ai-development-tips-by-dev-centre-house-ireland-g95)
 <!-- BLOG-POST-LIST:END -->
 
