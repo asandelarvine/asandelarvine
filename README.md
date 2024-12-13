@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A HTML with CSS, CHATROOM template.](https://dev.to/chenyun/a-html-with-css-chatroom-template-4c7p)
-- [Unlock Cleaner Code with Dexter.ai: A must have VS Code extension for Python Development](https://dev.to/grishma_kachhadiya_832ad6/unlock-cleaner-code-with-dexterai-a-must-have-vs-code-extension-for-python-development-5fkm)
-- [Leverage On-Premises Infrastructure in Amazon EKS Clusters with Amazon EKS Hybrid Nodes](https://dev.to/aws-builders/leverage-on-premises-infrastructure-in-amazon-eks-clusters-with-amazon-eks-hybrid-nodes-3fbl)
-- [Did Google Just Open Pandora’s Box of AI?](https://dev.to/airabbit/gemini-20-did-google-just-open-pandoras-box-of-ai-3kn9)
+- [We made an AI SWE that solved 48.60% of issues on the SWE bench, 100% open-source.](https://dev.to/composiodev/we-made-an-ai-swe-that-solved-4860-of-issues-on-the-swe-bench-100-open-source-aop)
+- [git@github.com: Permission denied &lpar;Linux Guide&rpar;](https://dev.to/carbonlabs/gitgithubcom-permission-denied-19g4)
+- [How to Retrieve EC2 Instances Information Using Python and Boto3](https://dev.to/dm8ry/how-to-retrieve-ec2-instances-information-using-python-and-boto3-1njk)
+- [Query optimization in MySQL is crucial for improving database performance, especially when dealing with large datasets](https://dev.to/ahmedraza_fyntune/query-optimization-in-mysql-is-crucial-for-improving-database-performance-especially-when-dealing-1619)
 <!-- BLOG-POST-LIST:END -->
 
