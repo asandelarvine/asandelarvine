@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with React Native: From Effort to Ease 🚀](https://dev.to/naman_aggarwal_ad6214aa1b/getting-started-with-react-native-from-effort-to-ease-27pm)
-- [AWS re:Invent 2024 Reflection](https://dev.to/aws-builders/aws-reinvent-2024-reflection-2j81)
-- [How to deploy Kyverno Across Multiple Kubernetes Clusters](https://dev.to/simone_morellato/how-to-deploy-kyverno-across-multiple-kubernetes-clusters-jpa)
-- [It&#39;s one of the most thorough how-to guides I&#39;ve seen on any site, and it offers extreme flexibility for individual setup and Linux distribution preferences.](https://dev.to/zaznet/its-one-of-the-most-thorough-how-to-guides-ive-seen-on-any-site-and-it-offers-extreme-2fd3)
+- [Optimistic Rollups vs Zero-Knowledge Rollups: A Comparative Guide](https://dev.to/zororaka/optimistic-rollups-vs-zero-knowledge-rollups-a-comparative-guide-2jci)
+- [Solidity Pattern - Proxy Delegate and Decorator Patterns](https://dev.to/syedghufranhassan/solidity-pattern-proxy-delegate-and-decorator-patterns-a50)
+- [Every developer has said &quot;Hello, World&quot;](https://dev.to/pedroantdevv/every-developer-has-said-hello-world-hkg)
+- [Do you know what the best practices are for simple storage shuffle in AWS S3?](https://dev.to/vaish_98/do-you-know-what-the-best-practices-are-for-simple-storage-shuffle-in-aws-s3-la0)
 <!-- BLOG-POST-LIST:END -->
 
