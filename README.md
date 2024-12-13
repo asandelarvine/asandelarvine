@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We made an AI SWE that solved 48.60% of issues on the SWE bench, 100% open-source.](https://dev.to/composiodev/we-made-an-ai-swe-that-solved-4860-of-issues-on-the-swe-bench-100-open-source-aop)
-- [git@github.com: Permission denied &lpar;Linux Guide&rpar;](https://dev.to/carbonlabs/gitgithubcom-permission-denied-19g4)
-- [How to Retrieve EC2 Instances Information Using Python and Boto3](https://dev.to/dm8ry/how-to-retrieve-ec2-instances-information-using-python-and-boto3-1njk)
-- [Query optimization in MySQL is crucial for improving database performance, especially when dealing with large datasets](https://dev.to/ahmedraza_fyntune/query-optimization-in-mysql-is-crucial-for-improving-database-performance-especially-when-dealing-1619)
+- [The Future of Artificial Intelligence: How AI is Changing the World 🌍🤖](https://dev.to/shreyash-hexa/the-future-of-artificial-intelligence-how-ai-is-changing-the-world-3pp3)
+- [Understanding Dijkstra&#39;s Algorithm: From Theory to Implementation](https://dev.to/frorning/understanding-dijkstras-algorithm-from-theory-to-implementation-1ed)
+- [Bolt.new with any LLM, you need to use it](https://dev.to/gabrielvanderlei/boltnew-with-any-llm-you-need-to-use-it-24eh)
+- [Future-Proofing Web Apps: The Power of Composable Components](https://dev.to/studiospindle/future-proofing-web-apps-the-power-of-composable-components-oad)
 <!-- BLOG-POST-LIST:END -->
 
