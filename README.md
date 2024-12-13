@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperlinks: Quick and easy.](https://dev.to/ruben_salazar_ea6982ebd94/hyperlinks-quick-and-easy-2gmj)
-- [Using SpinKube on Kairos](https://dev.to/fermyon/using-spinkube-on-kairos-5f8m)
-- [Azure: Providing storage for the IT department testing and training](https://dev.to/johnogbonna/azure-providing-storage-for-the-it-department-testing-and-training-47ga)
-- [Next.js starter template](https://dev.to/michalskolakxx/nextjs-starter-template-239p)
+- [Function-based RAG: Extending LLMs Beyond Static Knowledge Bases](https://dev.to/gentoro/function-based-rag-extending-llms-beyond-static-knowledge-bases-75j)
+- [I built the HackerNews for IndieHackers.](https://dev.to/ericbn09/i-built-the-hackernews-for-indiehackers-28bc)
+- [Learning Devops projects from beginner to advance.](https://dev.to/urdevops24/learning-devops-projects-from-beginner-to-advance-59ld)
+- [FiveM - resource hot reload](https://dev.to/justinmartindev/fivem-resource-hot-reload-oeg)
 <!-- BLOG-POST-LIST:END -->
 
