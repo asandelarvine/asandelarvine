@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Activate Windows 11 Using a Product Key or Digital License?](https://dev.to/win11verse/how-to-activate-windows-11-using-a-product-key-or-digital-license-3im1)
-- [Application of proxy IP in hot monitoring and trend analysis](https://dev.to/98ip/application-of-proxy-ip-in-hot-monitoring-and-trend-analysis-4gig)
-- [What is Chunk Size and Chunk Overlap](https://dev.to/tak089/what-is-chunk-size-and-chunk-overlap-1hlj)
-- [Cybersecurity Challenges in AI-Powered Medical Devices &lpar;SaMD&rpar;:](https://dev.to/rupeshit/cybersecurity-challenges-in-ai-powered-medical-devices-samd-1oma)
+- [Understanding require vs import in JavaScript: A Practical Guide](https://dev.to/nishanthan-k/understanding-require-vs-import-in-javascript-a-practical-guide-4p8l)
+- [Agrupamiento de datos de una lista usando LINQ en C#](https://dev.to/devpanch/agrupamiento-de-datos-de-una-lista-usando-linq-en-c-4jii)
+- [Turning Complex Tech Topics into Engaging Multimedia Content](https://dev.to/dizzy_strategy/turning-complex-tech-topics-into-engaging-multimedia-content-4a1d)
+- [Llama 3.3 vs OpenAI O1](https://dev.to/ashinno/llama-33-vs-openai-o1-623)
 <!-- BLOG-POST-LIST:END -->
 
