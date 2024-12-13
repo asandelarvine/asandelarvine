@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Peek Behind Go’s Entry Point - From Initialization to Exit](https://dev.to/ashwingopalsamy/a-peek-behind-gos-entry-point-from-initialization-to-exit-3h9d)
-- [Anthropic MCP: Developer&#39;s Thoughts](https://dev.to/dbolotov/anthropic-mcp-developers-thoughts-3dkk)
-- [# How to write good commit messages](https://dev.to/chamal1120/-how-to-write-good-commit-messages-57ac)
-- [Essential AI Development Tips by Dev Centre House Ireland](https://dev.to/anthonymccann/essential-ai-development-tips-by-dev-centre-house-ireland-g95)
+- [Instalando Symfony 7.2 na Hostinger &lpar;Shared Server&rpar;](https://dev.to/razielrodrigues/instalando-symfony-72-na-hostinger-shared-server-366d)
+- [How AI is Revolutionizing Software Development: A Journey for Every Developer](https://dev.to/praveenrajamani/how-ai-is-revolutionizing-software-development-a-journey-for-every-developer-4pk0)
+- [Odoo Full Stack Developer Interview Experience](https://dev.to/abhijit_panchal_c487386c6/odoo-full-stack-developer-interview-experience-2b1k)
+- [🎄 Retour sur mon année 2024](https://dev.to/jphi_baconnais/retour-sur-2024-3655)
 <!-- BLOG-POST-LIST:END -->
 
