@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling the Heights: An Introduction to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/under2wenty/scaling-the-heights-an-introduction-to-azure-kubernetes-service-aks-1gba)
-- [AWS re:Invent 2024 Keynote: A New Era of Cloud Innovation](https://dev.to/chicks2014/aws-reinvent-2024-keynote-a-new-era-of-cloud-innovation-2h2a)
-- [Crawlee GiveAway for our dev.to community! :&rpar;](https://dev.to/sauain/crawlee-giveaway-for-our-devto-community--2nkl)
-- [Understanding the Bag ADT in Java: A Flexible Data Structure](https://dev.to/alex_ricciardi/understanding-the-bag-adt-in-java-a-flexible-data-structure-155h)
+- [Functions and Array](https://dev.to/jaxongir_isoqjonov_f2df17/functions-and-array-365h)
+- [為什麼 member function 不叫做 function member？](https://dev.to/codemee/wei-shi-mo-member-function-bu-jiao-zuo-function-member-5gnf)
+- [How To Add The Whitelist for Your Ingress-Nginx Controller of K8S?](https://dev.to/u2633/how-to-add-the-whitelist-for-your-ingress-nginx-controller-of-k8s-1a02)
+- [Cloud Solutions vs. On-Premise Speech Recognition Systems](https://dev.to/julia_8cb077bca5/cloud-solutions-vs-on-premise-speech-recognition-systems-1378)
 <!-- BLOG-POST-LIST:END -->
 
