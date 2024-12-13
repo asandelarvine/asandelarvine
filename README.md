@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to AWS Compute Rightsizing](https://dev.to/vaish_98/complete-guide-to-aws-compute-rightsizing-3hn1)
-- [Complete Javascript - Basic to Advanced](https://dev.to/omkar_talekar_12f076b05f1/complete-javascript-basic-to-advanced-1m4a)
-- [Dummy API for Testing: How to Use It vs Mocking](https://dev.to/getambassador2024/dummy-api-for-testing-how-to-use-it-vs-mocking-251g)
-- [Key DevOps Trends in 2025](https://dev.to/neeljyo/key-devops-trends-in-2025-1lhc)
+- [Building an Interactive Budget Calculator with Streamlit 🚀](https://dev.to/blamsa0mine/building-an-interactive-budget-calculator-with-streamlit-jc6)
+- [RoadMap for Vite](https://dev.to/fridaymeng/roadmap-for-vite-4hdd)
+- [Terraform with Azure DevOps CI/CD Pipeline](https://dev.to/techielass/terraform-with-azure-devops-cicd-pipeline-1hbf)
+- [🚀 Week 2 Recap: Learning in Public – Software Engineering with DevOps 🚀](https://dev.to/xetnopnawab/week-2-recap-learning-in-public-software-engineering-with-devops-3kk9)
 <!-- BLOG-POST-LIST:END -->
 
