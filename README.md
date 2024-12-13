@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How These Free Open Source Projects Can Jumpstart Your Career &lpar;No Experience? No Problem!&rpar;](https://dev.to/swirl/how-these-free-open-source-projects-can-jumpstart-your-career-no-experience-no-problem-4e44)
-- [Plesk users keep discussing the price increase](https://dev.to/ispmanager/plesk-users-keep-discussing-the-price-increase-5bgk)
-- [¿Cómo crear una llave SSH y conectarla con Github en Windows? 🤔](https://dev.to/duxtech/como-crear-una-llave-ssh-y-conectarla-con-github-en-windows-1j39)
-- [Harnessing IoT for Predictive Maintenance in Ships: Reducing Downtime and Enhancing Operational Efficiency](https://dev.to/navinder/harnessing-iot-for-predictive-maintenance-in-ships-reducing-downtime-and-enhancing-operational-36lo)
+- [A HTML with CSS, CHATROOM template.](https://dev.to/chenyun/a-html-with-css-chatroom-template-4c7p)
+- [Unlock Cleaner Code with Dexter.ai: A must have VS Code extension for Python Development](https://dev.to/grishma_kachhadiya_832ad6/unlock-cleaner-code-with-dexterai-a-must-have-vs-code-extension-for-python-development-5fkm)
+- [Leverage On-Premises Infrastructure in Amazon EKS Clusters with Amazon EKS Hybrid Nodes](https://dev.to/aws-builders/leverage-on-premises-infrastructure-in-amazon-eks-clusters-with-amazon-eks-hybrid-nodes-3fbl)
+- [Did Google Just Open Pandora’s Box of AI?](https://dev.to/airabbit/gemini-20-did-google-just-open-pandoras-box-of-ai-3kn9)
 <!-- BLOG-POST-LIST:END -->
 
