@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Interactive Budget Calculator with Streamlit 🚀](https://dev.to/blamsa0mine/building-an-interactive-budget-calculator-with-streamlit-jc6)
-- [RoadMap for Vite](https://dev.to/fridaymeng/roadmap-for-vite-4hdd)
-- [Terraform with Azure DevOps CI/CD Pipeline](https://dev.to/techielass/terraform-with-azure-devops-cicd-pipeline-1hbf)
-- [🚀 Week 2 Recap: Learning in Public – Software Engineering with DevOps 🚀](https://dev.to/xetnopnawab/week-2-recap-learning-in-public-software-engineering-with-devops-3kk9)
+- [Flutter 3.27 Release: Performance Upgrades and New Features](https://dev.to/encodedots/flutter-327-release-performance-upgrades-and-new-features-1f5k)
+- [Get the First Chapter of My Book for Free! 📘🎉🎉](https://dev.to/kristiyan_velkov/get-the-first-chapter-of-my-book-for-free-34of)
+- [How to Use Send AWS CloudWatch Metrics to GreptimeCloud by Grafana Alloy](https://dev.to/jetsquirrel/how-to-use-send-aws-cloudwatch-metrics-to-greptimecloud-by-grafana-alloy-2me0)
+- [Day 11: Advanced Docker Compose](https://dev.to/code42cate/day-11-advanced-docker-compose-32no)
 <!-- BLOG-POST-LIST:END -->
 
