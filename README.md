@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter 3.27 Release: Performance Upgrades and New Features](https://dev.to/encodedots/flutter-327-release-performance-upgrades-and-new-features-1f5k)
-- [Get the First Chapter of My Book for Free! 📘🎉🎉](https://dev.to/kristiyan_velkov/get-the-first-chapter-of-my-book-for-free-34of)
-- [How to Use Send AWS CloudWatch Metrics to GreptimeCloud by Grafana Alloy](https://dev.to/jetsquirrel/how-to-use-send-aws-cloudwatch-metrics-to-greptimecloud-by-grafana-alloy-2me0)
-- [Day 11: Advanced Docker Compose](https://dev.to/code42cate/day-11-advanced-docker-compose-32no)
+- [🔐 Top 3 Best authentication Frameworks for 2025 🗝️🧰](https://dev.to/martygo/top-3-best-authentication-frameworks-for-2025-51ej)
+- [Stop Building Messy APIs! Here&#39;s Your Clean Code Guide🚀](https://dev.to/geekvergil/stop-building-messy-apis-heres-your-clean-code-guide-4h95)
+- [eval de php](https://dev.to/zerostarck_205cd0c0933e2a/eval-de-php-n49)
+- [YouTube Hidden Features: Unlocking the Secrets of the Platform](https://dev.to/anindya_krnayak_cf1e0fa6/youtube-hidden-features-unlocking-the-secrets-of-the-platform-4eh6)
 <!-- BLOG-POST-LIST:END -->
 
