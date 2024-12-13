@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adapter and Composite Design Patterns](https://dev.to/shieldstring/adapter-and-composite-design-patterns-4701)
-- [Interviews as a Storytelling Showcase](https://dev.to/shieldstring/interviews-as-a-storytelling-showcase-2477)
-- [A pragmatic approach to SOLID](https://dev.to/kmruiz/a-pragmatic-approach-to-solid-46a5)
-- [Walkthrough HTB Public Exploits Flag Hunting: Lessons in Overthinking and Simplifying](https://dev.to/hacknip/walkthrough-htb-public-exploits-flag-hunting-lessons-in-overthinking-and-simplifying-4ddk)
+- [The Ultimate Guide to Advanced CSS: Master Every Trick, Technique, and Hidden Feature🎨🚀](https://dev.to/hanzla-baig/the-ultimate-guide-to-advanced-css-master-every-trick-technique-and-hidden-feature-1i0d)
+- [Create a practical IoT Solution using Azure IoT](https://dev.to/olalekan_johnayansola_4a/create-a-practical-iot-solution-using-azure-iot-3ncp)
+- [Maximize Time and Elevate Efficiency with GenQE](https://dev.to/anil_csimplifyit_905c/maximize-time-and-elevate-efficiency-with-genqe-1je4)
+- [December &lpar;so far&rpar; Recap!](https://dev.to/theoforger/december-so-far-recap-4kce)
 <!-- BLOG-POST-LIST:END -->
 
