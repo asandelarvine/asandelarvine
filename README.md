@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why implement custom copy constructor in C++?](https://dev.to/pikotutorial/why-implement-custom-copy-constructor-in-c-4636)
-- [Clojure is Awesome!!!](https://dev.to/borba/clojure-is-awesome-5f6k)
-- [Network Security Fundamentals](https://dev.to/mahimabhardwaj/network-security-fundamentals-3p5b)
-- [Spring Security: Redirect to login page if access pages which is for authorized user only](https://dev.to/saladlam/spring-security-redirect-to-login-page-if-access-pages-which-is-for-authorized-user-only-1a05)
+- [Linux Commands in DevOps: A Practical Guide with Examples](https://dev.to/nolunchbreaks_22/advanced-linux-command-guide-for-devops-professionals-deep-dive-1nih)
+- [Create a Time-Saving Template 🧩 with React, Vite, and Tailwind CSS](https://dev.to/rtambunt/create-a-time-saving-template-with-react-vite-and-tailwind-css-3p3h)
+- [Windows or Linux?](https://dev.to/fxos/windows-or-linux-37ah)
+- [Understanding Session, Cookie, and Local Storage.](https://dev.to/zenixtech/understanding-session-cookie-and-local-storage-1fpc)
 <!-- BLOG-POST-LIST:END -->
 
