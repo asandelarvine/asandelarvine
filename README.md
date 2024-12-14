@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [re:Invent 2024 Keynotes: Matt Garman](https://dev.to/iaasgeek/reinvent-2024-keynotes-matt-garman-3kka)
-- [🔥10 Git Features You Might Not Know About](https://dev.to/hmpljs/10-git-features-you-might-not-know-about-56dh)
-- [Crack the Code: How to Make Coding as Addictive as Video Games](https://dev.to/itspedram/crack-the-code-how-to-make-coding-as-addictive-as-video-games-4676)
-- [How to Improve Your Website’s Performance with Lighthouse Metrics](https://dev.to/mosrah/how-to-improve-your-websites-performance-with-lighthouse-metrics-59cf)
+- [Understanding Numbers in Elixir](https://dev.to/abreujp/understanding-numbers-in-elixir-na5)
+- [Stop Wasting Time: Programming Tips You Wish You Knew Sooner](https://dev.to/0x3d_site/stop-wasting-time-programming-tips-you-wish-you-knew-sooner-5ao8)
+- [Architecture of Kubernetes](https://dev.to/qudus_olamide_1d5d6b09476/architecture-of-kubernetes-17lk)
+- [The Complete Guide to Cloud Integration Services for Modern Enterprises](https://dev.to/khalid_nawazch_316eead9f/the-complete-guide-to-cloud-integration-services-for-modern-enterprises-10m3)
 <!-- BLOG-POST-LIST:END -->
 
