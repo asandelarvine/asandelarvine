@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Numbers in Elixir](https://dev.to/abreujp/understanding-numbers-in-elixir-na5)
-- [Stop Wasting Time: Programming Tips You Wish You Knew Sooner](https://dev.to/0x3d_site/stop-wasting-time-programming-tips-you-wish-you-knew-sooner-5ao8)
-- [Architecture of Kubernetes](https://dev.to/qudus_olamide_1d5d6b09476/architecture-of-kubernetes-17lk)
-- [The Complete Guide to Cloud Integration Services for Modern Enterprises](https://dev.to/khalid_nawazch_316eead9f/the-complete-guide-to-cloud-integration-services-for-modern-enterprises-10m3)
+- [Resolving CUDA Version and GPU Architecture Issues in ContourCraft](https://dev.to/sophytoeat/resolving-cuda-version-and-gpu-architecture-issues-in-contourcraft-22np)
+- [Using Datastax Langflow and AstraDB to Create a Multi-Agent Research Assistant with Safety Check - Part 3: Summarizer](https://dev.to/aknox/using-datastax-langflow-and-astradb-to-create-a-multi-agent-research-assistant-with-safety-check--5bi7)
+- [NestJS TypeORM and Multi-Tenancy](https://dev.to/henriqueweiand/nestjs-typeorm-and-multi-tenancy-ekl)
+- [&quot;Tech is just a Huge Mistake...&quot; -- Part 1.](https://dev.to/paul_silas/tech-is-just-a-huge-mistake-part-1-4k15)
 <!-- BLOG-POST-LIST:END -->
 
