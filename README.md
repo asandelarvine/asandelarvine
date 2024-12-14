@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Real-Time Data Pipelines with Debezium and Kafka: A Practical Guide](https://dev.to/csar_fabinchvezlinar/building-real-time-data-pipelines-with-debezium-and-kafka-a-practical-guide-4mfg)
-- [Implementing AI-Powered Executive Learning: Best Practices for Organizational Success](https://dev.to/neural-minds/implementing-ai-powered-executive-learning-best-practices-for-organizational-success-2d9j)
-- [Empowering Web Privacy with Rust: Intro](https://dev.to/zhukmax/empowering-web-privacy-with-rust-intro-b3h)
-- [Free Programming Resources: Your Gateway to Coding Excellence](https://dev.to/getvm/free-programming-resources-your-gateway-to-coding-excellence-3j0e)
+- [Amazon Q: Your GenAI Assistant for Business Processes, Code Reviews, and Documentation](https://dev.to/bhatiagirish/amazon-q-your-genai-assistant-for-business-processes-code-reviews-and-documentation-18el)
+- [Building a Web App with CouchDB Capella and Kafka for Community Problem Reporting with Change Data Capture](https://dev.to/jeanvalve/building-a-web-app-with-couchdb-capella-and-kafka-for-community-problem-reporting-with-change-data-p04)
+- [adding new files](https://dev.to/mohammad_rezaomrani_ddf2/adding-new-files-29kn)
+- [Dev 1](https://dev.to/gchar/dev-1-1o7p)
 <!-- BLOG-POST-LIST:END -->
 
