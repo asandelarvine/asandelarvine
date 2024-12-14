@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 9: Building Your Own AI - Natural Language Processing &lpar;NLP&rpar; for Language Understanding](https://dev.to/trixsec/part-9-building-your-own-ai-natural-language-processing-nlp-for-language-understanding-3m62)
-- [C#](https://dev.to/darioprazeres/c-4k8f)
-- [Why Your Chatbot Will Fail Without This One Simple Fix](https://dev.to/devangtomar/why-your-chatbot-will-fail-without-this-one-simple-fix-3fao)
-- [Installing your react.js local package registry to your project](https://dev.to/midhunkrishnan/installing-your-reactjs-local-package-registry-to-your-project-2a2i)
+- [How to Impress Passengers and Earn Rewards in Cabin Crew Life Simulator - Devlog #7](https://dev.to/khaisimon_devgame/how-to-impress-passengers-and-earn-rewards-in-cabin-crew-life-simulator-devlog-7-2jkm)
+- [VertiTab - Vertical Tabs in Side Panel v2.14.0 released](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-vertical-tabs-in-side-panel-v2140-released-j76)
+- [Welcome to Solana: A Web2 Developer&#39;s Travel Guide to the Blockchain Nation](https://dev.to/danielasaboro/welcome-to-solana-a-web2-developers-travel-guide-to-the-blockchain-nation-ipc)
+- [Mastering Testing and Continuous Learning: Steps to Become a Better Software Engineer 💯](https://dev.to/alisamir/mastering-testing-and-continuous-learning-steps-to-become-a-better-software-engineer-an1)
 <!-- BLOG-POST-LIST:END -->
 
