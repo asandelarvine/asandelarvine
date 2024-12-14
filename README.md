@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ToxicPanda: A New Malware Threat to Android Users and Their Bank Accounts](https://dev.to/iammikeade/toxicpanda-a-new-malware-threat-to-android-users-and-their-bank-accounts-2l23)
+- [Secure-by-Design: How AWS, Microsoft, and Others Are Embracing CISA&#39;s Cyber Goals](https://dev.to/iammikeade/secure-by-design-how-aws-microsoft-and-others-are-embracing-cisas-cyber-goals-49jl)
+- [Data Link Layer: Computer Networks](https://dev.to/harshm03/data-link-layer-computer-networks-55pc)
 - [A Guiding Influence: The Man Who Shaped My Perspective](https://dev.to/wiko_w/a-guiding-influence-the-man-who-shaped-my-perspective-4d4o)
-- [A Media Server on Steroids - Walkthrough](https://dev.to/ravenesc/a-media-server-on-steroids-walkthrough-9c7)
-- [UI Card Library](https://dev.to/abhirajadhikary06/ui-card-library-5d4k)
-- [Help needed! A lightweight CSS framework/library](https://dev.to/dmytro_lobanov/help-needed-a-lightweight-css-frameworklibrary-10ne)
 <!-- BLOG-POST-LIST:END -->
 
