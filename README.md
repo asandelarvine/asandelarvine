@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pattern 12: Binary Search Tree](https://dev.to/arpitrathore/pattern-12-binary-search-tree-2obb)
-- [Pattern 11: Binary Tree](https://dev.to/arpitrathore/pattern-11-binary-tree-2lam)
-- [Understanding Database Indexing: A Guide with SQL Examples](https://dev.to/shriyaexe/understanding-database-indexing-a-guide-with-sql-examples-17ik)
-- [How to Use Firebase for Authentication and Database in React](https://dev.to/ayusharpcoder/how-to-use-firebase-for-authentication-and-database-in-react-1boa)
+- [Top 20 Ethical Hacking Interview Questions for 2025](https://dev.to/daksh_kataria_9c4197f3f7c/top-20-ethical-hacking-interview-questions-for-2025-2jo3)
+- [Pattern 20: Design own data structure](https://dev.to/arpitrathore/pattern-20-design-own-data-structure-33oa)
+- [Explorer l&#39;API de 360Learning : de l&#39;agilité de Power Query à la robustesse de la Modern Data Stack](https://dev.to/onepoint/explorer-lapi-de-360learning-de-lagilite-de-power-query-a-la-robustesse-de-la-modern-data-stack-5739)
+- [Patten 19 - Dynamic Programming](https://dev.to/arpitrathore/patten-19-dynamic-programming-10c9)
 <!-- BLOG-POST-LIST:END -->
 
