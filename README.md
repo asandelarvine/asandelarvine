@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PGP Public Key](https://dev.to/little-amy/pgp-public-key-4ii)
-- [Introduction to data analysis with Python: Part 1 - Data types and Variables](https://dev.to/jeornee/introduction-to-data-analysis-with-python-part-1-data-types-and-variables-1jjj)
-- [How to install SSH Server in Termux](https://dev.to/ipigantenk/how-to-install-ssh-server-in-termux-37fa)
-- [GenQE: Redefining Software Testing and Innovation](https://dev.to/anil_csimplifyit_905c/genqe-redefining-software-testing-and-innovation-bdb)
+- [Dev4](https://dev.to/gchar/dev4-3e8h)
+- [Converting Loops into Recursion: Templates and Tail Recursion Explained](https://dev.to/frorning/converting-loops-into-recursion-templates-and-tail-recursion-explained-3ga)
+- [Dev3](https://dev.to/gchar/dev3-393g)
+- [Automating Security Hub Findings Summary with Bedrock, Slack Notifications, and Zenhub Task Management](https://dev.to/suzuki0430/automating-security-hub-findings-summary-with-bedrock-slack-notifications-and-zenhub-task-2e26)
 <!-- BLOG-POST-LIST:END -->
 
