@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring GitHub Workflow Dispatch: Take Full Control of Your CI/CD Pipelines](https://dev.to/horace_karatu_7dfd55f0f1f/exploring-github-workflow-dispatch-take-full-control-of-your-cicd-pipelines-3hck)
-- [CSS Flexbox and Grid: The Art of Building Responsive Layouts](https://dev.to/tianyaschool/css-flexbox-and-grid-the-art-of-building-responsive-layouts-14hh)
-- [Scandinavian Airlines were fined $100,000 for accessibility bugs](https://dev.to/chris_devto/scandinavian-airlines-were-fined-100000-for-accessibility-bugs-1lj1)
-- [Cara Membuat Fungsi longestWord di JavaScript dengan Penjelasan Teknis](https://dev.to/rantidhanty/cara-membuat-fungsi-longestword-di-javascript-dengan-penjelasan-teknis-29ej)
+- [Pattern 12: Binary Search Tree](https://dev.to/arpitrathore/pattern-12-binary-search-tree-2obb)
+- [Pattern 11: Binary Tree](https://dev.to/arpitrathore/pattern-11-binary-tree-2lam)
+- [Understanding Database Indexing: A Guide with SQL Examples](https://dev.to/shriyaexe/understanding-database-indexing-a-guide-with-sql-examples-17ik)
+- [How to Use Firebase for Authentication and Database in React](https://dev.to/ayusharpcoder/how-to-use-firebase-for-authentication-and-database-in-react-1boa)
 <!-- BLOG-POST-LIST:END -->
 
