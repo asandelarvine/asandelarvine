@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MSWord default font](https://dev.to/longtth/msword-default-font-2g8e)
-- [Understanding String Interning in C#](https://dev.to/moh_moh701/understanding-string-interning-in-c-2occ)
-- [Python Terminal Recommendation Engine](https://dev.to/techjunkiedru/python-terminal-recommendation-engine-4pag)
-- [DNS-load-balancing](https://dev.to/cguttesen/dns-load-balancing-4jpb)
+- [6 Common Data Structures in Programming](https://dev.to/riz007/6-common-data-structures-in-programming-3m3i)
+- [Dev 11.5](https://dev.to/gchar/dev-115-2a89)
+- [How React Native Works Behind the Scenes](https://dev.to/naly_moslih/how-react-native-works-behind-the-scenes-f82)
+- [Protecting Student Privacy: Building a Secure Grades Viewer with React and Permit](https://dev.to/fadahunsiseyi/protecting-student-privacy-building-a-secure-grades-viewer-with-react-and-permit-474o)
 <!-- BLOG-POST-LIST:END -->
 
