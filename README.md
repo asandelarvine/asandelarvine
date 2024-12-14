@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving CUDA Version and GPU Architecture Issues in ContourCraft](https://dev.to/sophytoeat/resolving-cuda-version-and-gpu-architecture-issues-in-contourcraft-22np)
-- [Using Datastax Langflow and AstraDB to Create a Multi-Agent Research Assistant with Safety Check - Part 3: Summarizer](https://dev.to/aknox/using-datastax-langflow-and-astradb-to-create-a-multi-agent-research-assistant-with-safety-check--5bi7)
-- [NestJS TypeORM and Multi-Tenancy](https://dev.to/henriqueweiand/nestjs-typeorm-and-multi-tenancy-ekl)
-- [&quot;Tech is just a Huge Mistake...&quot; -- Part 1.](https://dev.to/paul_silas/tech-is-just-a-huge-mistake-part-1-4k15)
+- [How to write dynamic staking smart contract step by step in practice](https://dev.to/marksantiago02/how-to-write-dynamic-staking-smart-contract-step-by-step-in-practice-2bg4)
+- [Improving TypeScript Metadata Type Safety with ts-reflector](https://dev.to/e22m4u/improving-typescript-metadata-type-safety-with-ts-reflector-2j5)
+- [Understanding the Data Link and Physical Layers: The Final Step in Mastering OSI Model and Computer Networking](https://dev.to/vignesh_j/understanding-the-data-link-and-physical-layers-the-final-step-in-mastering-osi-model-and-computer-6g)
+- [BigDAG: A Simple Tool for Managing BigQuery Workflows](https://dev.to/feroult/bigdag-a-simple-tool-for-managing-bigquery-workflows-23o2)
 <!-- BLOG-POST-LIST:END -->
 
