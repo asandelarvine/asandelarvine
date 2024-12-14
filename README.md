@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Tor - Part 1 - Motivation](https://dev.to/little-amy/how-to-use-tor-part-1-motivation-lp8)
-- [Day 9; Task 1](https://dev.to/reegan/day-9-task-1-4175)
-- [Azure Cloud Computing Platform: Unlocking Endless Possibilities 🌍](https://dev.to/s3cloudhub/azure-cloud-computing-platform-unlocking-endless-possibilities-4kfl)
-- [Day 14: Keep on Spinning! ♻️](https://dev.to/valeriavg/day-14-keep-on-spinning-2bac)
+- [Exploring GitHub Workflow Dispatch: Take Full Control of Your CI/CD Pipelines](https://dev.to/horace_karatu_7dfd55f0f1f/exploring-github-workflow-dispatch-take-full-control-of-your-cicd-pipelines-3hck)
+- [CSS Flexbox and Grid: The Art of Building Responsive Layouts](https://dev.to/tianyaschool/css-flexbox-and-grid-the-art-of-building-responsive-layouts-14hh)
+- [Scandinavian Airlines were fined $100,000 for accessibility bugs](https://dev.to/chris_devto/scandinavian-airlines-were-fined-100000-for-accessibility-bugs-1lj1)
+- [Cara Membuat Fungsi longestWord di JavaScript dengan Penjelasan Teknis](https://dev.to/rantidhanty/cara-membuat-fungsi-longestword-di-javascript-dengan-penjelasan-teknis-29ej)
 <!-- BLOG-POST-LIST:END -->
 
