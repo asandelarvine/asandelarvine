@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to write dynamic staking smart contract step by step in practice](https://dev.to/marksantiago02/how-to-write-dynamic-staking-smart-contract-step-by-step-in-practice-2bg4)
-- [Improving TypeScript Metadata Type Safety with ts-reflector](https://dev.to/e22m4u/improving-typescript-metadata-type-safety-with-ts-reflector-2j5)
-- [Understanding the Data Link and Physical Layers: The Final Step in Mastering OSI Model and Computer Networking](https://dev.to/vignesh_j/understanding-the-data-link-and-physical-layers-the-final-step-in-mastering-osi-model-and-computer-6g)
-- [BigDAG: A Simple Tool for Managing BigQuery Workflows](https://dev.to/feroult/bigdag-a-simple-tool-for-managing-bigquery-workflows-23o2)
+- [Get Started with LangChain: A Step-by-Step Tutorial for Beginners](https://dev.to/busycaesar/basic-langchain-tutorial-34j7)
+- [node.js and docker on raspberry](https://dev.to/tbietenbeck/nodejs-and-docker-on-raspberry-5c8c)
+- [🎄 Instant Local Translation with Chrome 🌐](https://dev.to/zenoplex/instant-local-translation-with-chrome-1d7p)
+- [Anatomia de um Elemento HTML](https://dev.to/udanielnogueira/anatomia-de-um-elemento-html-5207)
 <!-- BLOG-POST-LIST:END -->
 
