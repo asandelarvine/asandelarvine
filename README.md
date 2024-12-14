@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 Ethical Hacking Interview Questions for 2025](https://dev.to/daksh_kataria_9c4197f3f7c/top-20-ethical-hacking-interview-questions-for-2025-2jo3)
-- [Pattern 20: Design own data structure](https://dev.to/arpitrathore/pattern-20-design-own-data-structure-33oa)
-- [Explorer l&#39;API de 360Learning : de l&#39;agilité de Power Query à la robustesse de la Modern Data Stack](https://dev.to/onepoint/explorer-lapi-de-360learning-de-lagilite-de-power-query-a-la-robustesse-de-la-modern-data-stack-5739)
-- [Patten 19 - Dynamic Programming](https://dev.to/arpitrathore/patten-19-dynamic-programming-10c9)
+- [Part 9: Building Your Own AI - Natural Language Processing &lpar;NLP&rpar; for Language Understanding](https://dev.to/trixsec/part-9-building-your-own-ai-natural-language-processing-nlp-for-language-understanding-3m62)
+- [C#](https://dev.to/darioprazeres/c-4k8f)
+- [Why Your Chatbot Will Fail Without This One Simple Fix](https://dev.to/devangtomar/why-your-chatbot-will-fail-without-this-one-simple-fix-3fao)
+- [Installing your react.js local package registry to your project](https://dev.to/midhunkrishnan/installing-your-reactjs-local-package-registry-to-your-project-2a2i)
 <!-- BLOG-POST-LIST:END -->
 
