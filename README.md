@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Impress Passengers and Earn Rewards in Cabin Crew Life Simulator - Devlog #7](https://dev.to/khaisimon_devgame/how-to-impress-passengers-and-earn-rewards-in-cabin-crew-life-simulator-devlog-7-2jkm)
-- [VertiTab - Vertical Tabs in Side Panel v2.14.0 released](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-vertical-tabs-in-side-panel-v2140-released-j76)
-- [Welcome to Solana: A Web2 Developer&#39;s Travel Guide to the Blockchain Nation](https://dev.to/danielasaboro/welcome-to-solana-a-web2-developers-travel-guide-to-the-blockchain-nation-ipc)
-- [Mastering Testing and Continuous Learning: Steps to Become a Better Software Engineer 💯](https://dev.to/alisamir/mastering-testing-and-continuous-learning-steps-to-become-a-better-software-engineer-an1)
+- [re:Invent 2024 Keynotes: Matt Garman](https://dev.to/iaasgeek/reinvent-2024-keynotes-matt-garman-3kka)
+- [🔥10 Git Features You Might Not Know About](https://dev.to/hmpljs/10-git-features-you-might-not-know-about-56dh)
+- [Crack the Code: How to Make Coding as Addictive as Video Games](https://dev.to/itspedram/crack-the-code-how-to-make-coding-as-addictive-as-video-games-4676)
+- [How to Improve Your Website’s Performance with Lighthouse Metrics](https://dev.to/mosrah/how-to-improve-your-websites-performance-with-lighthouse-metrics-59cf)
 <!-- BLOG-POST-LIST:END -->
 
