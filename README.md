@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue vs React: Comparing Features, Community, and More](https://dev.to/sarthak_niranjan_3bd6cb5f/vue-vs-react-comparing-features-community-and-more-37bi)
-- [Need help with invalid token error while setting up OAuth2 SASL authentication on Kafka](https://dev.to/aiyer100/need-help-with-invalid-token-error-while-setting-up-oauth2-sasl-authentication-on-kafka-g14)
-- [Multi-player Tic-tac-toe Game Interface](https://dev.to/tobidelly/multi-player-tic-tac-toe-game-interface-41e5)
-- [Construyendo una aplicación con Change Data Capture &lpar;CDC&rpar; utilizando Debezium, Kafka y NiFi](https://dev.to/draylexter/construyendo-una-aplicacion-con-change-data-capture-cdc-utilizando-debezium-kafka-y-nifi-ei)
+- [MSWord default font](https://dev.to/longtth/msword-default-font-2g8e)
+- [Understanding String Interning in C#](https://dev.to/moh_moh701/understanding-string-interning-in-c-2occ)
+- [Python Terminal Recommendation Engine](https://dev.to/techjunkiedru/python-terminal-recommendation-engine-4pag)
+- [DNS-load-balancing](https://dev.to/cguttesen/dns-load-balancing-4jpb)
 <!-- BLOG-POST-LIST:END -->
 
