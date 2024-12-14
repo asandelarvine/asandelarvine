@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q: Your GenAI Assistant for Business Processes, Code Reviews, and Documentation](https://dev.to/bhatiagirish/amazon-q-your-genai-assistant-for-business-processes-code-reviews-and-documentation-18el)
-- [Building a Web App with CouchDB Capella and Kafka for Community Problem Reporting with Change Data Capture](https://dev.to/jeanvalve/building-a-web-app-with-couchdb-capella-and-kafka-for-community-problem-reporting-with-change-data-p04)
-- [adding new files](https://dev.to/mohammad_rezaomrani_ddf2/adding-new-files-29kn)
-- [Dev 1](https://dev.to/gchar/dev-1-1o7p)
+- [How to use Tor - Part 1 - Motivation](https://dev.to/little-amy/how-to-use-tor-part-1-motivation-lp8)
+- [Day 9; Task 1](https://dev.to/reegan/day-9-task-1-4175)
+- [Azure Cloud Computing Platform: Unlocking Endless Possibilities 🌍](https://dev.to/s3cloudhub/azure-cloud-computing-platform-unlocking-endless-possibilities-4kfl)
+- [Day 14: Keep on Spinning! ♻️](https://dev.to/valeriavg/day-14-keep-on-spinning-2bac)
 <!-- BLOG-POST-LIST:END -->
 
