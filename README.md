@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ToxicPanda: A New Malware Threat to Android Users and Their Bank Accounts](https://dev.to/iammikeade/toxicpanda-a-new-malware-threat-to-android-users-and-their-bank-accounts-2l23)
-- [Secure-by-Design: How AWS, Microsoft, and Others Are Embracing CISA&#39;s Cyber Goals](https://dev.to/iammikeade/secure-by-design-how-aws-microsoft-and-others-are-embracing-cisas-cyber-goals-49jl)
-- [Data Link Layer: Computer Networks](https://dev.to/harshm03/data-link-layer-computer-networks-55pc)
-- [A Guiding Influence: The Man Who Shaped My Perspective](https://dev.to/wiko_w/a-guiding-influence-the-man-who-shaped-my-perspective-4d4o)
+- [Why implement custom copy constructor in C++?](https://dev.to/pikotutorial/why-implement-custom-copy-constructor-in-c-4636)
+- [Clojure is Awesome!!!](https://dev.to/borba/clojure-is-awesome-5f6k)
+- [Network Security Fundamentals](https://dev.to/mahimabhardwaj/network-security-fundamentals-3p5b)
+- [Spring Security: Redirect to login page if access pages which is for authorized user only](https://dev.to/saladlam/spring-security-redirect-to-login-page-if-access-pages-which-is-for-authorized-user-only-1a05)
 <!-- BLOG-POST-LIST:END -->
 
