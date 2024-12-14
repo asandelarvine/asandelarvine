@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete guide for infinite scroll feature in React🧑‍🍳](https://dev.to/apestein/complete-guide-for-infinite-scroll-feature-in-react-a5n)
-- [How to Build a Kubernetes Cluster Using kubeadm](https://dev.to/vansh__bhardwaj/how-to-build-a-kubernetes-cluster-using-kubeadm-13g8)
-- [Top 10 Frameworks for Scalable Web Development in 2025](https://dev.to/anctech/top-10-frameworks-for-scalable-web-development-in-2025-fk9)
-- [2762. Continuous Subarrays](https://dev.to/mdarifulhaque/2762-continuous-subarrays-pm4)
+- [Vue vs React: Comparing Features, Community, and More](https://dev.to/sarthak_niranjan_3bd6cb5f/vue-vs-react-comparing-features-community-and-more-37bi)
+- [Need help with invalid token error while setting up OAuth2 SASL authentication on Kafka](https://dev.to/aiyer100/need-help-with-invalid-token-error-while-setting-up-oauth2-sasl-authentication-on-kafka-g14)
+- [Multi-player Tic-tac-toe Game Interface](https://dev.to/tobidelly/multi-player-tic-tac-toe-game-interface-41e5)
+- [Construyendo una aplicación con Change Data Capture &lpar;CDC&rpar; utilizando Debezium, Kafka y NiFi](https://dev.to/draylexter/construyendo-una-aplicacion-con-change-data-capture-cdc-utilizando-debezium-kafka-y-nifi-ei)
 <!-- BLOG-POST-LIST:END -->
 
