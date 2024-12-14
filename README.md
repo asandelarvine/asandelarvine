@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Limits of &quot;Fake it Till You Make it&quot; in the Software Engineering Career](https://dev.to/magcdev/the-limits-of-fake-it-till-you-make-it-in-the-software-engineering-career-3jog)
-- [Advent of Code &#39;24 - Day 13 Claw Contraption](https://dev.to/grantdotdev/advent-of-code-24-day-13-claw-contraption-n2p)
-- [MariaDB &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-brief-introduction-to-mariadb-bite-size-article-5hci)
-- [Why Many Developers Abandon Their First Projects](https://dev.to/iohan/why-many-developers-abandon-their-first-projects-53me)
+- [PGP Public Key](https://dev.to/little-amy/pgp-public-key-4ii)
+- [Introduction to data analysis with Python: Part 1 - Data types and Variables](https://dev.to/jeornee/introduction-to-data-analysis-with-python-part-1-data-types-and-variables-1jjj)
+- [How to install SSH Server in Termux](https://dev.to/ipigantenk/how-to-install-ssh-server-in-termux-37fa)
+- [GenQE: Redefining Software Testing and Innovation](https://dev.to/anil_csimplifyit_905c/genqe-redefining-software-testing-and-innovation-bdb)
 <!-- BLOG-POST-LIST:END -->
 
