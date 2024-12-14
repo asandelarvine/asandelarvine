@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev4](https://dev.to/gchar/dev4-3e8h)
-- [Converting Loops into Recursion: Templates and Tail Recursion Explained](https://dev.to/frorning/converting-loops-into-recursion-templates-and-tail-recursion-explained-3ga)
-- [Dev3](https://dev.to/gchar/dev3-393g)
-- [Automating Security Hub Findings Summary with Bedrock, Slack Notifications, and Zenhub Task Management](https://dev.to/suzuki0430/automating-security-hub-findings-summary-with-bedrock-slack-notifications-and-zenhub-task-2e26)
+- [Building Real-Time Data Pipelines with Debezium and Kafka: A Practical Guide](https://dev.to/csar_fabinchvezlinar/building-real-time-data-pipelines-with-debezium-and-kafka-a-practical-guide-4mfg)
+- [Implementing AI-Powered Executive Learning: Best Practices for Organizational Success](https://dev.to/neural-minds/implementing-ai-powered-executive-learning-best-practices-for-organizational-success-2d9j)
+- [Empowering Web Privacy with Rust: Intro](https://dev.to/zhukmax/empowering-web-privacy-with-rust-intro-b3h)
+- [Free Programming Resources: Your Gateway to Coding Excellence](https://dev.to/getvm/free-programming-resources-your-gateway-to-coding-excellence-3j0e)
 <!-- BLOG-POST-LIST:END -->
 
