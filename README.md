@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey Open-Source Community! If you have not read it before, check out this article! :&rpar;](https://dev.to/empiree/hey-open-source-community-if-you-have-not-read-it-before-check-out-this-article--6nj)
-- [How AI is Slowly but Surely Reshaping Our World—And What It Means for You](https://dev.to/future-predictor/how-ai-is-slowly-but-surely-reshaping-our-world-and-what-it-means-for-you-717)
-- [How AI is Slowly but Surely Reshaping Our World—And What It Means for You](https://dev.to/future-predictor/how-ai-is-slowly-but-surely-reshaping-our-world-and-what-it-means-for-you-458a)
-- [The tiniest transpiler you&#39;ll ever see](https://dev.to/kaamkiya/the-tiniest-transpiler-youll-ever-see-jlk)
+- [React Best Practices with Examples](https://dev.to/philipwalsh/react-best-practices-with-examples-ao0)
+- [I just cloned Threads!](https://dev.to/mmvergara/i-just-cloned-threads-31o2)
+- [Como Adicionar Sons em HTML](https://dev.to/udanielnogueira/como-adicionar-sons-em-html-56ga)
+- [How to Scrape and Analyse Data for Free using AI: From Collection to Insight](https://dev.to/aviatorscode2/how-to-scrape-and-analyse-data-for-free-using-ai-from-collection-to-insight-1hko)
 <!-- BLOG-POST-LIST:END -->
 
