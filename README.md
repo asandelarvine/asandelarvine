@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Commands in DevOps: A Practical Guide with Examples](https://dev.to/nolunchbreaks_22/advanced-linux-command-guide-for-devops-professionals-deep-dive-1nih)
-- [Create a Time-Saving Template 🧩 with React, Vite, and Tailwind CSS](https://dev.to/rtambunt/create-a-time-saving-template-with-react-vite-and-tailwind-css-3p3h)
-- [Windows or Linux?](https://dev.to/fxos/windows-or-linux-37ah)
-- [Understanding Session, Cookie, and Local Storage.](https://dev.to/zenixtech/understanding-session-cookie-and-local-storage-1fpc)
+- [Redux Toolkit - createAsyncThunk&lpar;&rpar;](https://dev.to/rifkyalfarez/redux-toolkit-createasyncthunk-okm)
+- [Building a Python Quiz Game with GUI using Tkinter](https://dev.to/shrihith_a/building-a-python-quiz-game-with-gui-using-tkinter-26im)
+- [C1](https://dev.to/gchar/c1-5127)
+- [Dev15P](https://dev.to/gchar/dev15p-1kj4)
 <!-- BLOG-POST-LIST:END -->
 
