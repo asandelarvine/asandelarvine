@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazyvim version 14.x in WSL](https://dev.to/hardyweb/lazyvim-version-14x-in-wsl-2n8p)
-- [Resume Writing for Recent Graduates](https://dev.to/resumewriting_services/resume-writing-for-recent-graduates-j1d)
-- [13 Best SEO Audit Services in 2024](https://dev.to/authorityboosters/13-best-seo-audit-services-in-2024-4a93)
-- [🗡️Excalibur v0.30.0 Released!](https://dev.to/excaliburjs/excalibur-v0300-released-3n7m)
+- [Bright Data Web Scraping Challenge Submission](https://dev.to/hanzla-baig/bright-data-web-scraping-challenge-submission-1doi)
+- [❄️ Winterland - A Beautiful Winter-Themed Website for the Front-End Challenge ⛄](https://dev.to/hanzla-baig/winterland-a-beautiful-winter-themed-website-for-the-front-end-challenge-501k)
+- [[Boost]](https://dev.to/apollotoday/-2a96)
+- [surviving coding bootcamp: project planning](https://dev.to/ashleyd480/surviving-coding-bootcamp-project-planning-3dg3)
 <!-- BLOG-POST-LIST:END -->
 
