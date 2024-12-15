@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In my Problem Solving Journey](https://dev.to/karthika_movva/in-my-problem-solving-journey-52pg)
-- [Synchronizing Threads with Semaphores: Practicing Concurrency in Java - LeetCode Problem 1115, &quot;Print FooBar Alternately&quot;](https://dev.to/budiwidhiyanto/synchronizing-threads-with-semaphores-practicing-concurrency-in-java-leetcode-problem-1115-2d3b)
-- [In My Problem Solving Journey](https://dev.to/karthika_movva/in-my-problem-solving-journey-4215)
-- [Meet Your New Productivity Partner: NoteBook-App](https://dev.to/akash2061/meet-your-new-productivity-partner-notebook-app-2p6c)
+- [Journal - 16-10-24](https://dev.to/rishitha_nallapureddy_751/journal-16-10-24-4cii)
+- [40th day of my CP jounery](https://dev.to/prasanna2910/40th-day-of-my-cp-jounery-4ll3)
+- [Journal-15-10-24](https://dev.to/rishitha_nallapureddy_751/journal-15-10-24-40mg)
+- [Connecting Problems](https://dev.to/karthika_movva/connecting-problems-299m)
 <!-- BLOG-POST-LIST:END -->
 
