@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flowers102 in PyTorch](https://dev.to/hyperkai/flowers102-in-pytorch-4l71)
-- [Mastering JWT Authentication: A Complete Guide with MERN Stack](https://dev.to/engrsakib/mastering-jwt-authentication-a-complete-guide-with-mern-stack-4k7g)
-- [Understanding Protocol Buffers: A Fast Alternative to JSON](https://dev.to/khaja_hussain_db1f84efe83/understanding-protocol-buffers-a-fast-alternative-to-json-ga2)
-- [My Python Language Solution to Task 1 from The Weekly Challenge 299](https://dev.to/rcmcintosh/my-python-language-solution-to-task-1-from-the-weekly-challenge-299-5fn4)
+- [Hey Open-Source Community! If you have not read it before, check out this article! :&rpar;](https://dev.to/empiree/hey-open-source-community-if-you-have-not-read-it-before-check-out-this-article--6nj)
+- [How AI is Slowly but Surely Reshaping Our World—And What It Means for You](https://dev.to/future-predictor/how-ai-is-slowly-but-surely-reshaping-our-world-and-what-it-means-for-you-717)
+- [How AI is Slowly but Surely Reshaping Our World—And What It Means for You](https://dev.to/future-predictor/how-ai-is-slowly-but-surely-reshaping-our-world-and-what-it-means-for-you-458a)
+- [The tiniest transpiler you&#39;ll ever see](https://dev.to/kaamkiya/the-tiniest-transpiler-youll-ever-see-jlk)
 <!-- BLOG-POST-LIST:END -->
 
