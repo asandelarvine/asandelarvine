@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [63/365 | ¥10M Job Challenge - Resume](https://dev.to/kameken100/63365-y10m-job-challenge-resume-3pn1)
-- [Lessons from My First few Months as an Intern: What I Wish I Knew](https://dev.to/asvin/lessons-from-my-first-few-months-as-an-intern-what-i-wish-i-knew-23i4)
-- [Memahami Function Ticker di JavaScript: Cara Kerja dan Penjelasan Detail](https://dev.to/rantidhanty/memahami-function-ticker-di-javascript-cara-kerja-dan-penjelasan-detail-4e9f)
-- [Abusive Email Summary Assistant &lpar;Open Source Configuration Text&rpar;](https://dev.to/danielrosehill/abusive-email-summary-assistant-open-source-configuration-text-1cem)
+- [Mat menu angular 7](https://dev.to/chakirayoub/mat-menu-angular-7-2a62)
+- [LeetCode Challenge: 380. Insert Delete GetRandom O&lpar;1&rpar; - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-380-insert-delete-getrandom-o1-javascript-solution-4gej)
+- [Day 30: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-30-competitive-programming-journal-122a)
+- [5 useful yet underused 👾 CSS rules](https://dev.to/pagesword/5-useful-yet-underused-css-rules-267j)
 <!-- BLOG-POST-LIST:END -->
 
