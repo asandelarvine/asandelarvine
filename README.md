@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bright Data Web Scraping Challenge Submission](https://dev.to/hanzla-baig/bright-data-web-scraping-challenge-submission-1doi)
-- [❄️ Winterland - A Beautiful Winter-Themed Website for the Front-End Challenge ⛄](https://dev.to/hanzla-baig/winterland-a-beautiful-winter-themed-website-for-the-front-end-challenge-501k)
-- [[Boost]](https://dev.to/apollotoday/-2a96)
-- [surviving coding bootcamp: project planning](https://dev.to/ashleyd480/surviving-coding-bootcamp-project-planning-3dg3)
+- [Prompt Engineering: The Secret Sauce for AI Success](https://dev.to/chidoziemanagwu/prompt-engineering-the-secret-sauce-for-ai-success-4d1k)
+- [Ensuring Atomicity in Modern Databases](https://dev.to/ujjwall-r/ensuring-atomicity-in-modern-databases-2e97)
+- [HP 79 Service Error: Comprehensive Troubleshooting Guide](https://dev.to/tobbystalin/hp-79-service-error-comprehensive-troubleshooting-guide-3i84)
+- [Unlock Web Development: A Beginner&#39;s Gateway to Digital Creation](https://dev.to/getvm/unlock-web-development-a-beginners-gateway-to-digital-creation-2e60)
 <!-- BLOG-POST-LIST:END -->
 
