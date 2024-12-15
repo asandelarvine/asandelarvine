@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-4nmp)
-- [44th day of my CP journey](https://dev.to/prasanna2910/44th-day-of-my-cp-journey-1808)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-2m1k)
-- [Enumeration](https://dev.to/chamarthirahul/enumeration-2jlf)
+- [Using states to manage UI changes](https://dev.to/sebastianjones/using-states-to-manage-ui-changes-5dlg)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-ppo)
+- [Create a File If Not Exists in Python](https://dev.to/askyt/create-a-file-if-not-exists-in-python-19j3)
+- [&quot;Day 7 with GSAP: Interactive Scrolling Animation with Rotating Arrows&quot;](https://dev.to/anticoder03/day-7-with-gsap-interactive-scrolling-animation-with-rotating-arrows-4cld)
 <!-- BLOG-POST-LIST:END -->
 
