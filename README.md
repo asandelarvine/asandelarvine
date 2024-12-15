@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using states to manage UI changes](https://dev.to/sebastianjones/using-states-to-manage-ui-changes-5dlg)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-ppo)
-- [Create a File If Not Exists in Python](https://dev.to/askyt/create-a-file-if-not-exists-in-python-19j3)
-- [&quot;Day 7 with GSAP: Interactive Scrolling Animation with Rotating Arrows&quot;](https://dev.to/anticoder03/day-7-with-gsap-interactive-scrolling-animation-with-rotating-arrows-4cld)
+- [Understanding Python&#39;s if...else Statement with Examples](https://dev.to/askyt/understanding-pythons-ifelse-statement-with-examples-g7m)
+- [5 Common Refactors in Python for Beginners](https://dev.to/ggmurr24/5-common-refactors-in-python-for-beginners-4ol3)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5ca9)
+- [Using Datastax Langflow and AstraDB to Create a Multi-Agent Research Assistant with Safety Check - Part 4: Preparation](https://dev.to/aknox/using-datastax-langflow-and-astradb-to-create-a-multi-agent-research-assistant-with-safety-check--2h3i)
 <!-- BLOG-POST-LIST:END -->
 
