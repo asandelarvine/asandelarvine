@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redux Toolkit - createAsyncThunk&lpar;&rpar;](https://dev.to/rifkyalfarez/redux-toolkit-createasyncthunk-okm)
-- [Building a Python Quiz Game with GUI using Tkinter](https://dev.to/shrihith_a/building-a-python-quiz-game-with-gui-using-tkinter-26im)
-- [C1](https://dev.to/gchar/c1-5127)
-- [Dev15P](https://dev.to/gchar/dev15p-1kj4)
+- [How does Optional.ifPresent&lpar;&rpar; differ from Optional.orElse&lpar;&rpar;?](https://dev.to/realnamehidden1_61/how-does-optionalifpresent-differ-from-optionalorelse-391e)
+- [Exploring Tailwind CSS 3: Advanced Utility-First Design Techniques](https://dev.to/tharindumadubashna/exploring-tailwind-css-3-advanced-utility-first-design-techniques-9oe)
+- [Pagination Component in React](https://dev.to/softden_2005/pagination-component-in-react-3iah)
+- [Detrás de la facturación de AWS: Cómo funciona la optimización de costos en la nube](https://dev.to/briansuarezsantiago/detras-de-la-facturacion-de-aws-como-funciona-la-optimizacion-de-costos-en-la-nube-ina)
 <!-- BLOG-POST-LIST:END -->
 
