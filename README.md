@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering: The Secret Sauce for AI Success](https://dev.to/chidoziemanagwu/prompt-engineering-the-secret-sauce-for-ai-success-4d1k)
-- [Ensuring Atomicity in Modern Databases](https://dev.to/ujjwall-r/ensuring-atomicity-in-modern-databases-2e97)
-- [HP 79 Service Error: Comprehensive Troubleshooting Guide](https://dev.to/tobbystalin/hp-79-service-error-comprehensive-troubleshooting-guide-3i84)
-- [Unlock Web Development: A Beginner&#39;s Gateway to Digital Creation](https://dev.to/getvm/unlock-web-development-a-beginners-gateway-to-digital-creation-2e60)
+- [In my Problem Solving Journey](https://dev.to/karthika_movva/in-my-problem-solving-journey-52pg)
+- [Synchronizing Threads with Semaphores: Practicing Concurrency in Java - LeetCode Problem 1115, &quot;Print FooBar Alternately&quot;](https://dev.to/budiwidhiyanto/synchronizing-threads-with-semaphores-practicing-concurrency-in-java-leetcode-problem-1115-2d3b)
+- [In My Problem Solving Journey](https://dev.to/karthika_movva/in-my-problem-solving-journey-4215)
+- [Meet Your New Productivity Partner: NoteBook-App](https://dev.to/akash2061/meet-your-new-productivity-partner-notebook-app-2p6c)
 <!-- BLOG-POST-LIST:END -->
 
