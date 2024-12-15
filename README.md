@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mat menu angular 7](https://dev.to/chakirayoub/mat-menu-angular-7-2a62)
-- [LeetCode Challenge: 380. Insert Delete GetRandom O&lpar;1&rpar; - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-380-insert-delete-getrandom-o1-javascript-solution-4gej)
-- [Day 30: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-30-competitive-programming-journal-122a)
-- [5 useful yet underused 👾 CSS rules](https://dev.to/pagesword/5-useful-yet-underused-css-rules-267j)
+- [Artificial Intelligence and Ethical Hacking](https://dev.to/mohanavamsi0614/artificial-intelligence-and-ethical-hacking-4d8i)
+- [AI in Fighting Phishing](https://dev.to/mohanavamsi0614/ai-in-fighting-phishing-3703)
+- [AI in Cybersecurity - The Double-Edged Sword](https://dev.to/mohanavamsi0614/ai-in-cybersecurity-the-double-edged-sword-3d88)
+- [Password Hashing in Python](https://dev.to/mohanavamsi0614/password-hashing-in-python-29eh)
 <!-- BLOG-POST-LIST:END -->
 
