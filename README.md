@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence and Ethical Hacking](https://dev.to/mohanavamsi0614/artificial-intelligence-and-ethical-hacking-4d8i)
-- [AI in Fighting Phishing](https://dev.to/mohanavamsi0614/ai-in-fighting-phishing-3703)
-- [AI in Cybersecurity - The Double-Edged Sword](https://dev.to/mohanavamsi0614/ai-in-cybersecurity-the-double-edged-sword-3d88)
-- [Password Hashing in Python](https://dev.to/mohanavamsi0614/password-hashing-in-python-29eh)
+- [Top 10 Interview Questions And Answers In JavaScript For 2025](https://dev.to/matant/top-10-interview-questions-and-answers-in-javascript-for-2025-1jhp)
+- [Chain Abstraction](https://dev.to/anistark/chain-abstraction-5a8i)
+- [Using Bright Data and OpenAI to Auto-Generate TLDR-Style Newsletters](https://dev.to/b-d055/using-bright-data-and-openai-to-auto-generate-tldr-style-newsletters-42cl)
+- [The Importance of Secure Passwords](https://dev.to/chamarthiraahul/the-importance-of-secure-passwords-fgi)
 <!-- BLOG-POST-LIST:END -->
 
