@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python&#39;s if...else Statement with Examples](https://dev.to/askyt/understanding-pythons-ifelse-statement-with-examples-g7m)
-- [5 Common Refactors in Python for Beginners](https://dev.to/ggmurr24/5-common-refactors-in-python-for-beginners-4ol3)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5ca9)
-- [Using Datastax Langflow and AstraDB to Create a Multi-Agent Research Assistant with Safety Check - Part 4: Preparation](https://dev.to/aknox/using-datastax-langflow-and-astradb-to-create-a-multi-agent-research-assistant-with-safety-check--2h3i)
+- [63/365 | ¥10M Job Challenge - Resume](https://dev.to/kameken100/63365-y10m-job-challenge-resume-3pn1)
+- [Lessons from My First few Months as an Intern: What I Wish I Knew](https://dev.to/asvin/lessons-from-my-first-few-months-as-an-intern-what-i-wish-i-knew-23i4)
+- [Memahami Function Ticker di JavaScript: Cara Kerja dan Penjelasan Detail](https://dev.to/rantidhanty/memahami-function-ticker-di-javascript-cara-kerja-dan-penjelasan-detail-4e9f)
+- [Abusive Email Summary Assistant &lpar;Open Source Configuration Text&rpar;](https://dev.to/danielrosehill/abusive-email-summary-assistant-open-source-configuration-text-1cem)
 <!-- BLOG-POST-LIST:END -->
 
