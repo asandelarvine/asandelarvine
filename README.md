@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Interview Questions And Answers In JavaScript For 2025](https://dev.to/matant/top-10-interview-questions-and-answers-in-javascript-for-2025-1jhp)
-- [Chain Abstraction](https://dev.to/anistark/chain-abstraction-5a8i)
-- [Using Bright Data and OpenAI to Auto-Generate TLDR-Style Newsletters](https://dev.to/b-d055/using-bright-data-and-openai-to-auto-generate-tldr-style-newsletters-42cl)
-- [The Importance of Secure Passwords](https://dev.to/chamarthiraahul/the-importance-of-secure-passwords-fgi)
+- [I like Vercel Deployments](https://dev.to/akaak/i-like-vercel-deployments-270d)
+- [Personal Profile Card Interface](https://dev.to/tobidelly/personal-profile-card-interface-4jkc)
+- [Introducing Linkspreed’s Web4 Reseller System](https://dev.to/web4/introducing-linkspreeds-web4-reseller-system-4mbc)
+- [Distributed Task Scheduling](https://dev.to/surajvatsya/distributed-task-scheduling-1641)
 <!-- BLOG-POST-LIST:END -->
 
