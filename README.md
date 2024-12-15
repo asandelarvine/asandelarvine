@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Journal - 8-11-24](https://dev.to/rishitha_nallapureddy_751/journal-8-11-24-38ei)
-- [Journal - 7-11-24](https://dev.to/rishitha_nallapureddy_751/journal-7-11-24-406j)
-- [Leveraging Your Personal Brand to Connect with Industry Leaders](https://dev.to/okoye_ndidiamaka_5e3b7d30/leveraging-your-personal-brand-to-connect-with-industry-leaders-8mi)
-- [🔍 Why Are There So Many Bots on Solana, Especially in Meme Tokens?](https://dev.to/zororaka/why-are-there-so-many-bots-on-solana-especially-in-meme-tokens-58ga)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-4nmp)
+- [44th day of my CP journey](https://dev.to/prasanna2910/44th-day-of-my-cp-journey-1808)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-2m1k)
+- [Enumeration](https://dev.to/chamarthirahul/enumeration-2jlf)
 <!-- BLOG-POST-LIST:END -->
 
