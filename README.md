@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📊 AI Dashboard Builder: Create Insightful Dashboards just Droppping your Data](https://dev.to/pnmartinez/ai-dashboard-builder-create-insightful-dashboards-just-droppping-your-data-36ff)
-- [Car Dashboard Monitor Interface](https://dev.to/tobidelly/car-dashboard-monitor-interface-3005)
-- [Week Three of #100DaysOfCode](https://dev.to/lymah/week-three-of-100daysofcode-1i9f)
-- [The hidden costs of poor secrets management](https://dev.to/enkryptify/the-hidden-costs-of-poor-secrets-management-3641)
+- [Flowers102 in PyTorch](https://dev.to/hyperkai/flowers102-in-pytorch-4l71)
+- [Mastering JWT Authentication: A Complete Guide with MERN Stack](https://dev.to/engrsakib/mastering-jwt-authentication-a-complete-guide-with-mern-stack-4k7g)
+- [Understanding Protocol Buffers: A Fast Alternative to JSON](https://dev.to/khaja_hussain_db1f84efe83/understanding-protocol-buffers-a-fast-alternative-to-json-ga2)
+- [My Python Language Solution to Task 1 from The Weekly Challenge 299](https://dev.to/rcmcintosh/my-python-language-solution-to-task-1-from-the-weekly-challenge-299-5fn4)
 <!-- BLOG-POST-LIST:END -->
 
