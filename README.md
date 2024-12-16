@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Metasploit: A Hacker&#39;s Toolkit](https://dev.to/chamarthiraahul/introduction-to-metasploit-a-hackers-toolkit-2i5)
-- [Nmap: Mapping Your Network Like a Pro](https://dev.to/chamarthiraahul/introduction-to-metasploit-a-hackers-toolkit-185j)
-- [Why ERP Finance Is Essential for Modern Financial Management](https://dev.to/arobit_digital/why-erp-finance-is-essential-for-modern-financial-management-2892)
-- [Burp Suite: The Web Application Security Powerhouse](https://dev.to/shiva_varma/burp-suite-the-web-application-security-powerhouse-20ik)
+- [Everything You Need to Know About LLMs Observability and LangSmith](https://dev.to/adipamartulandi/everything-you-need-to-know-about-llms-observability-and-langsmith-4476)
+- [How to Enable/Disable Reset PIN at Sign-in in Windows 11?](https://dev.to/win11verse/how-to-enabledisable-reset-pin-at-sign-in-in-windows-11-319o)
+- [Using Terraform Helm Provider](https://dev.to/spacelift/using-terraform-helm-provider-1be9)
+- [DAY 9 Task](https://dev.to/v_inoth_f0fad29baec4c/day-9-task-78l)
 <!-- BLOG-POST-LIST:END -->
 
