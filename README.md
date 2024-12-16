@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Say goodbye to tedious data entry! The future of OCR is here, and it’s smarter than ever!](https://dev.to/praveenrajamani/say-goodbye-to-tedious-data-entry-the-future-of-ocr-is-here-and-its-smarter-than-ever-4am9)
-- [I built a Web3 URL shortener in Next.js!](https://dev.to/tobysolutions/i-built-a-web3-url-shortener-in-nextjs-4bjf)
-- [SQL&lpar;subquery&rpar;](https://dev.to/anjali_gurjar_dff81513867/sqlsubquery-10m6)
-- [Effortless K8s Namespace Switching Using Konfig](https://dev.to/gokucodes/easily-switch-k8s-namespaces-30pi)
+- [Resolving the K3s Config File Permission Denied Error](https://dev.to/olymahmud/resolving-the-k3s-config-file-permission-denied-error-27e5)
+- [Why Rewriting Everything in Rust Won’t Solve All Your Problems](https://dev.to/pranta/why-rewriting-everything-in-rust-wont-solve-all-your-problems-24d0)
+- [LeetCode Challenge: 238. Product of Array Except Self - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-238-product-of-array-except-self-javascript-solution-1l83)
+- [End-to-End Encryption for Healthcare Workloads](https://dev.to/ikoh_sylva/end-to-end-encryption-for-healthcare-workloads-1ega)
 <!-- BLOG-POST-LIST:END -->
 
