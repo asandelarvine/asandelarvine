@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring AWS Compute Services and Key Concepts in Module 6](https://dev.to/eunice-js/exploring-aws-compute-services-and-key-concepts-in-module-6-39ga)
-- [5 Free &#39;non-AI&#39; Design Tools to Create Human Loving Landing Pages](https://dev.to/vkweb/5-free-non-ai-design-tools-to-create-human-loving-landing-pages-260m)
-- [Meme Monday](https://dev.to/ben/meme-monday-8hm)
-- [Content Marketing with AI: Revolutionizing Strategies for 2025](https://dev.to/ishmam_jahan_4269b6f13ba5/content-marketing-with-ai-revolutionizing-strategies-for-2025-2fg4)
+- [Exploring Generative AI as a Creative Tool for Artists with AI Professionals including Yahya Yuksel](https://dev.to/yahya_yuksel_7aa7977b8460/exploring-generative-ai-as-a-creative-tool-for-artists-with-ai-professionals-including-yahya-yuksel-pk0)
+- [GraphQL: A Beginner&#39;s Guide](https://dev.to/biswasprasana001/graphql-a-beginners-guide-ph7)
+- [A New Way of Setting Up an Express Server for Lazy Developers npm i mbfi](https://dev.to/manoj_gowda_3429b5941161e/a-new-way-of-setting-up-an-express-server-for-lazy-developers-npm-i-mbfi-1kp7)
+- [Next.js vs React - Performance and Architecture Analysis In-Depth Comparison](https://dev.to/fajarhide/nextjs-vs-react-performance-and-architecture-analysis-in-depth-comparison-27d6)
 <!-- BLOG-POST-LIST:END -->
 
