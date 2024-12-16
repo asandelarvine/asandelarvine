@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finally got some time to play with the new JSONata and Variables support for Step Functions, and I have to say, it is massive improvement. Check out my latest blog post, where I walk through a simple example of how easy it is to handle pagination now](https://dev.to/ianbrumby/finally-got-some-time-to-play-with-the-new-jsonata-and-variables-support-for-step-functions-and-i-3086)
-- [জাভাস্ক্রিপ্টে কোনো ভ্যালুকে স্ট্রিংয়ে রূপান্তর করার উপায় 🎯](https://dev.to/torequl/jaabhaaskriptte-kono-bhyaaluke-sttrinye-ruupaantr-kraar-upaay-5bhp)
-- [Announcing Stimulus FX](https://dev.to/railsdesigner/announcing-stimulus-fx-1hlc)
-- [Implementing Golang defer concept into Javascript](https://dev.to/araldhafeeri/implementing-golang-defer-concept-into-javascript-2eoa)
+- [Elemental Ruby: A Better Way to Organize Rails Applications](https://dev.to/bevinh/elemental-ruby-a-better-way-to-organize-rails-applications-5p0)
+- [Exploring new AWS Aurora DSQL. What is it ? Why it is important ? How to quickstart ?](https://dev.to/aws-builders/exploring-new-aws-aurora-dsql-what-is-it-why-it-is-important-how-to-quickstart--3hf1)
+- [Day 38: Understanding Kubernetes Controllers and CRDs](https://dev.to/arbythecoder/day-38-understanding-kubernetes-controllers-and-crds-40p2)
+- [Track-POD: Revolutionizing Delivery Management for Modern Businesses](https://dev.to/devvemeka/track-pod-revolutionizing-delivery-management-for-modern-businesses-383e)
 <!-- BLOG-POST-LIST:END -->
 
