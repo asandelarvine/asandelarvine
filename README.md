@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First App: A Beginner’s Guide for Students](https://dev.to/growkon21/how-to-build-your-first-app-a-beginners-guide-for-students-4g2j)
-- [How to Use PydanticAI for Structured Outputs with Multimodal LLMs](https://dev.to/stephenc222/how-to-use-pydanticai-for-structured-outputs-with-multimodal-llms-3j3a)
-- [How Coding Enhances Problem-Solving Skills in Students](https://dev.to/growkon21/how-coding-enhances-problem-solving-skills-in-students-1k8n)
-- [How to Detect and Save Documents to PDF with HTML5 and JavaScript](https://dev.to/yushulx/how-to-detect-and-save-documents-to-pdf-with-html5-and-javascript-193p)
+- [The Role of Writing Prompts in Streamlining Creative Processes](https://dev.to/devrajbhuyan/the-role-of-writing-prompts-in-streamlining-creative-processes-2gmn)
+- [Day 15 Journal](https://dev.to/vinnugollakoti/day-15-journal-5c09)
+- [Linux](https://dev.to/shiva_varma/linux-320l)
+- [Week 3](https://dev.to/aiden_isaac/week-3-2b83)
 <!-- BLOG-POST-LIST:END -->
 
