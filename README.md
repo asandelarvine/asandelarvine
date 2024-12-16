@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Custom MedusaJS Admin Dashboard with NextJS, Supabase, and Tailwind CSS](https://dev.to/aviatorscode2/how-to-build-a-custom-medusajs-admin-dashboard-with-nextjs-supabase-and-tailwind-css-2iop)
-- [Understanding the CAP Theorem Through a Hands-On Simulation in Golang](https://dev.to/tmwakalasya/understanding-the-cap-theorem-through-a-hands-on-simulation-in-golang-372h)
-- [The Forgotten Art of Enjoying Testing](https://dev.to/anil_csimplifyit_905c/the-forgotten-art-of-enjoying-testing-52i6)
-- [Breeding Practices and Their Impact on Teacup Yorkie Health](https://dev.to/colondavid3/breeding-practices-and-their-impact-on-teacup-yorkie-health-31lb)
+- [How to Build Your First App: A Beginner’s Guide for Students](https://dev.to/growkon21/how-to-build-your-first-app-a-beginners-guide-for-students-4g2j)
+- [How to Use PydanticAI for Structured Outputs with Multimodal LLMs](https://dev.to/stephenc222/how-to-use-pydanticai-for-structured-outputs-with-multimodal-llms-3j3a)
+- [How Coding Enhances Problem-Solving Skills in Students](https://dev.to/growkon21/how-coding-enhances-problem-solving-skills-in-students-1k8n)
+- [How to Detect and Save Documents to PDF with HTML5 and JavaScript](https://dev.to/yushulx/how-to-detect-and-save-documents-to-pdf-with-html5-and-javascript-193p)
 <!-- BLOG-POST-LIST:END -->
 
