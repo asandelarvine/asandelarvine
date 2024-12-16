@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TransMonkey: A Versatile Alternative to DeepL?](https://dev.to/fagac_gvwc_0ebeec7ffe710a/transmonkey-a-versatile-alternative-to-deepl-4cod)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-42kg)
-- [ever tried game jam?](https://dev.to/pagesword/ever-tried-game-jam-11k4)
-- [15th day of my CP journey](https://dev.to/prasanna2910/15th-day-of-my-cp-journey-34fn)
+- [[Boost]](https://dev.to/theresasogunle/-572p)
+- [Expert guide for Optimizing Amazon EKS Costs](https://dev.to/vaish_98/expert-guide-for-optimizing-amazon-eks-costs-325n)
+- [[Unity] use UnityWebRequest by async/without coroutine](https://dev.to/piler-tam/unity-use-unitywebrequest-by-asyncwithout-coroutine-enf)
+- [Comparing Open-Source Vision Models for Photo Description Tasks Using .NET Aspire](https://dev.to/syamaner/comparing-open-source-vision-models-for-photo-description-tasks-using-net-aspire-2ebm)
 <!-- BLOG-POST-LIST:END -->
 
