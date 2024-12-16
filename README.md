@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Event-Based and Process-Based Workflows](https://dev.to/littlelittlecloud/understanding-event-based-and-process-based-workflows-30le)
-- [Azure: Providing private storage for internal company documents](https://dev.to/johnogbonna/azure-providing-private-storage-for-internal-company-documents-314m)
-- [do blogs will be still a thing in 2025?](https://dev.to/pagesword/do-blogs-will-be-still-a-thing-in-2025-k44)
-- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-48pi)
+- [what skills are required for data scientist?](https://dev.to/abinesh_sn_f18e8c5aca838/what-skills-are-required-for-data-scientist-27ob)
+- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5942)
+- [Why are Props Immutable in React?](https://dev.to/nozibul_islam_113b1d5334f/why-are-props-immutable-in-react-bin)
+- [Modularization in Flutter App](https://dev.to/tentanganak/modularization-in-flutter-app-bb6)
 <!-- BLOG-POST-LIST:END -->
 
