@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Managed Identities for Secure Cross-Service Communication in Azure](https://dev.to/latzo/using-managed-identities-for-secure-cross-service-communication-in-azure-42l7)
-- [React native](https://dev.to/graham_logan_dfbaf718e13f/react-native-25mg)
-- [🐋 Ripple Whale Withdraws $2.2 Billion XRP, Eyes on $4.5 🚀](https://dev.to/sergi_web3/ripple-whale-withdraws-22-billion-xrp-eyes-on-45-2nmj)
-- [Firewall Testing 101: How to Secure Your Network and Block Cyber Threats](https://dev.to/sebos/firewall-testing-101-how-to-secure-your-network-and-block-cyber-threats-oe0)
+- [Generate QR Codes in JavaScript: Step-by-Step Guide](https://dev.to/tooleroid/generate-qr-codes-in-javascript-step-by-step-guide-3b13)
+- [Targeted Element Parallax](https://dev.to/anwarachilles/targeted-element-parallax-56al)
+- [How to Convert CSV to JSON in Python: A Step-by-Step Guide](https://dev.to/tooleroid/how-to-convert-csv-to-json-in-python-a-step-by-step-guide-53ph)
+- [A Beginner&#39;s Guide to RegEx: Testing Patterns Online](https://dev.to/tooleroid/a-beginners-guide-to-regex-testing-patterns-online-45p5)
 <!-- BLOG-POST-LIST:END -->
 
