@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Project Roadmap: Tips, Tools and Insights](https://dev.to/cryptosandy/building-a-project-roadmap-tips-tools-and-insights-4365)
-- [7 Essential Accessibility Testing Tools for Web Developers: Ensure Inclusive Design](https://dev.to/aaravjoshi/7-essential-accessibility-testing-tools-for-web-developers-ensure-inclusive-design-527l)
-- [[Boost]](https://dev.to/armspkt/-5b5i)
-- [Day 48: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-48-competitive-programming-journal-3fbd)
+- [Introduction to Metasploit: A Hacker&#39;s Toolkit](https://dev.to/chamarthiraahul/introduction-to-metasploit-a-hackers-toolkit-2i5)
+- [Nmap: Mapping Your Network Like a Pro](https://dev.to/chamarthiraahul/introduction-to-metasploit-a-hackers-toolkit-185j)
+- [Why ERP Finance Is Essential for Modern Financial Management](https://dev.to/arobit_digital/why-erp-finance-is-essential-for-modern-financial-management-2892)
+- [Burp Suite: The Web Application Security Powerhouse](https://dev.to/shiva_varma/burp-suite-the-web-application-security-powerhouse-20ik)
 <!-- BLOG-POST-LIST:END -->
 
