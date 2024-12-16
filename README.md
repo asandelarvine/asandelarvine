@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/theresasogunle/-572p)
-- [Expert guide for Optimizing Amazon EKS Costs](https://dev.to/vaish_98/expert-guide-for-optimizing-amazon-eks-costs-325n)
-- [[Unity] use UnityWebRequest by async/without coroutine](https://dev.to/piler-tam/unity-use-unitywebrequest-by-asyncwithout-coroutine-enf)
-- [Comparing Open-Source Vision Models for Photo Description Tasks Using .NET Aspire](https://dev.to/syamaner/comparing-open-source-vision-models-for-photo-description-tasks-using-net-aspire-2ebm)
+- [Understanding Event-Based and Process-Based Workflows](https://dev.to/littlelittlecloud/understanding-event-based-and-process-based-workflows-30le)
+- [Azure: Providing private storage for internal company documents](https://dev.to/johnogbonna/azure-providing-private-storage-for-internal-company-documents-314m)
+- [do blogs will be still a thing in 2025?](https://dev.to/pagesword/do-blogs-will-be-still-a-thing-in-2025-k44)
+- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-48pi)
 <!-- BLOG-POST-LIST:END -->
 
