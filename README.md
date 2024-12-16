@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessible, Sustainable, and Creative Web Development](https://dev.to/ingosteinke/accessible-sustainable-and-creative-web-development-4im1)
-- [Integrating AWS Services with Stripe for Seamless Payment Solutions](https://dev.to/billgist/integrating-aws-services-with-stripe-for-seamless-payment-solutions-407l)
-- [Redes neuronales convolucionales &lpar;CNN&rpar; y redes neuronales recurrentes &lpar;RNN&rpar;](https://dev.to/fuenrob/redes-neuronales-convolucionales-cnn-y-redes-neuronales-recurrentes-rnn-10ci)
-- [pgsql.PostgresException : 42883: function DC_Test.fn_get_configuration&lpar;key := bigint&rpar; does not exist in npgsql version 9.0.2](https://dev.to/sunil_gohel_771b3ec120384/pgsqlpostgresexception-42883-function-dctestfngetconfigurationkey-bigint-does-not-jhl)
+- [Exploring AWS Compute Services and Key Concepts in Module 6](https://dev.to/eunice-js/exploring-aws-compute-services-and-key-concepts-in-module-6-39ga)
+- [5 Free &#39;non-AI&#39; Design Tools to Create Human Loving Landing Pages](https://dev.to/vkweb/5-free-non-ai-design-tools-to-create-human-loving-landing-pages-260m)
+- [Meme Monday](https://dev.to/ben/meme-monday-8hm)
+- [Content Marketing with AI: Revolutionizing Strategies for 2025](https://dev.to/ishmam_jahan_4269b6f13ba5/content-marketing-with-ai-revolutionizing-strategies-for-2025-2fg4)
 <!-- BLOG-POST-LIST:END -->
 
