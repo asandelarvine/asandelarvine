@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elemental Ruby: A Better Way to Organize Rails Applications](https://dev.to/bevinh/elemental-ruby-a-better-way-to-organize-rails-applications-5p0)
-- [Exploring new AWS Aurora DSQL. What is it ? Why it is important ? How to quickstart ?](https://dev.to/aws-builders/exploring-new-aws-aurora-dsql-what-is-it-why-it-is-important-how-to-quickstart--3hf1)
-- [Day 38: Understanding Kubernetes Controllers and CRDs](https://dev.to/arbythecoder/day-38-understanding-kubernetes-controllers-and-crds-40p2)
-- [Track-POD: Revolutionizing Delivery Management for Modern Businesses](https://dev.to/devvemeka/track-pod-revolutionizing-delivery-management-for-modern-businesses-383e)
+- [Using Managed Identities for Secure Cross-Service Communication in Azure](https://dev.to/latzo/using-managed-identities-for-secure-cross-service-communication-in-azure-42l7)
+- [React native](https://dev.to/graham_logan_dfbaf718e13f/react-native-25mg)
+- [🐋 Ripple Whale Withdraws $2.2 Billion XRP, Eyes on $4.5 🚀](https://dev.to/sergi_web3/ripple-whale-withdraws-22-billion-xrp-eyes-on-45-2nmj)
+- [Firewall Testing 101: How to Secure Your Network and Block Cyber Threats](https://dev.to/sebos/firewall-testing-101-how-to-secure-your-network-and-block-cyber-threats-oe0)
 <!-- BLOG-POST-LIST:END -->
 
