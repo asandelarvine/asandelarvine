@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving the K3s Config File Permission Denied Error](https://dev.to/olymahmud/resolving-the-k3s-config-file-permission-denied-error-27e5)
-- [Why Rewriting Everything in Rust Won’t Solve All Your Problems](https://dev.to/pranta/why-rewriting-everything-in-rust-wont-solve-all-your-problems-24d0)
-- [LeetCode Challenge: 238. Product of Array Except Self - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-238-product-of-array-except-self-javascript-solution-1l83)
-- [End-to-End Encryption for Healthcare Workloads](https://dev.to/ikoh_sylva/end-to-end-encryption-for-healthcare-workloads-1ega)
+- [Salesforce vs. HubSpot: Which CRM is Right for Your Team?](https://dev.to/devvemeka/salesforce-vs-hubspot-which-crm-is-right-for-your-team-148o)
+- [Can you scrape the url from this website?](https://dev.to/zai/can-you-scrape-the-url-from-this-website-1ej3)
+- [Exploring the for Loop in Java](https://dev.to/ricardocaselati/exploring-the-for-loop-in-java-4gnl)
+- [Handling Paginated Results Seamlessly with AWS Step Functions](https://dev.to/ianbrumby/handling-paginated-results-seamlessly-with-aws-step-functions-42po)
 <!-- BLOG-POST-LIST:END -->
 
