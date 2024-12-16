@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Best Practices with Examples](https://dev.to/philipwalsh/react-best-practices-with-examples-ao0)
-- [I just cloned Threads!](https://dev.to/mmvergara/i-just-cloned-threads-31o2)
-- [Como Adicionar Sons em HTML](https://dev.to/udanielnogueira/como-adicionar-sons-em-html-56ga)
-- [How to Scrape and Analyse Data for Free using AI: From Collection to Insight](https://dev.to/aviatorscode2/how-to-scrape-and-analyse-data-for-free-using-ai-from-collection-to-insight-1hko)
+- [How to Build a Custom MedusaJS Admin Dashboard with NextJS, Supabase, and Tailwind CSS](https://dev.to/aviatorscode2/how-to-build-a-custom-medusajs-admin-dashboard-with-nextjs-supabase-and-tailwind-css-2iop)
+- [Understanding the CAP Theorem Through a Hands-On Simulation in Golang](https://dev.to/tmwakalasya/understanding-the-cap-theorem-through-a-hands-on-simulation-in-golang-372h)
+- [The Forgotten Art of Enjoying Testing](https://dev.to/anil_csimplifyit_905c/the-forgotten-art-of-enjoying-testing-52i6)
+- [Breeding Practices and Their Impact on Teacup Yorkie Health](https://dev.to/colondavid3/breeding-practices-and-their-impact-on-teacup-yorkie-health-31lb)
 <!-- BLOG-POST-LIST:END -->
 
