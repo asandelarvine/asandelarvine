@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate QR Codes in JavaScript: Step-by-Step Guide](https://dev.to/tooleroid/generate-qr-codes-in-javascript-step-by-step-guide-3b13)
-- [Targeted Element Parallax](https://dev.to/anwarachilles/targeted-element-parallax-56al)
-- [How to Convert CSV to JSON in Python: A Step-by-Step Guide](https://dev.to/tooleroid/how-to-convert-csv-to-json-in-python-a-step-by-step-guide-53ph)
-- [A Beginner&#39;s Guide to RegEx: Testing Patterns Online](https://dev.to/tooleroid/a-beginners-guide-to-regex-testing-patterns-online-45p5)
+- [JavaScript: The &quot;English&quot; of Programming Languages](https://dev.to/norbs/javascript-the-english-of-programming-languages-5dg2)
+- [Designing a Scalable Repository Structure in Laravel with queryFi](https://dev.to/zerk4/designing-a-scalable-repository-structure-in-laravel-with-queryfi-oa6)
+- [I think these are valid reasons! I think the same but many times I told it to someone it was snatched from the table by TS hype.](https://dev.to/stma/i-think-these-are-valid-reasons-i-think-the-same-but-many-times-i-told-it-to-someone-it-was-1lkf)
+- [Load Balancer](https://dev.to/salman_khan_c31307505285e/load-balancer-4lmm)
 <!-- BLOG-POST-LIST:END -->
 
