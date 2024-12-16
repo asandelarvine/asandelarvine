@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Generative AI as a Creative Tool for Artists with AI Professionals including Yahya Yuksel](https://dev.to/yahya_yuksel_7aa7977b8460/exploring-generative-ai-as-a-creative-tool-for-artists-with-ai-professionals-including-yahya-yuksel-pk0)
-- [GraphQL: A Beginner&#39;s Guide](https://dev.to/biswasprasana001/graphql-a-beginners-guide-ph7)
-- [A New Way of Setting Up an Express Server for Lazy Developers npm i mbfi](https://dev.to/manoj_gowda_3429b5941161e/a-new-way-of-setting-up-an-express-server-for-lazy-developers-npm-i-mbfi-1kp7)
-- [Next.js vs React - Performance and Architecture Analysis In-Depth Comparison](https://dev.to/fajarhide/nextjs-vs-react-performance-and-architecture-analysis-in-depth-comparison-27d6)
+- [Say goodbye to tedious data entry! The future of OCR is here, and it’s smarter than ever!](https://dev.to/praveenrajamani/say-goodbye-to-tedious-data-entry-the-future-of-ocr-is-here-and-its-smarter-than-ever-4am9)
+- [I built a Web3 URL shortener in Next.js!](https://dev.to/tobysolutions/i-built-a-web3-url-shortener-in-nextjs-4bjf)
+- [SQL&lpar;subquery&rpar;](https://dev.to/anjali_gurjar_dff81513867/sqlsubquery-10m6)
+- [Effortless K8s Namespace Switching Using Konfig](https://dev.to/gokucodes/easily-switch-k8s-namespaces-30pi)
 <!-- BLOG-POST-LIST:END -->
 
