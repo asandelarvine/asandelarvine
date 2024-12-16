@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce vs. HubSpot: Which CRM is Right for Your Team?](https://dev.to/devvemeka/salesforce-vs-hubspot-which-crm-is-right-for-your-team-148o)
-- [Can you scrape the url from this website?](https://dev.to/zai/can-you-scrape-the-url-from-this-website-1ej3)
-- [Exploring the for Loop in Java](https://dev.to/ricardocaselati/exploring-the-for-loop-in-java-4gnl)
-- [Handling Paginated Results Seamlessly with AWS Step Functions](https://dev.to/ianbrumby/handling-paginated-results-seamlessly-with-aws-step-functions-42po)
+- [Finally got some time to play with the new JSONata and Variables support for Step Functions, and I have to say, it is massive improvement. Check out my latest blog post, where I walk through a simple example of how easy it is to handle pagination now](https://dev.to/ianbrumby/finally-got-some-time-to-play-with-the-new-jsonata-and-variables-support-for-step-functions-and-i-3086)
+- [জাভাস্ক্রিপ্টে কোনো ভ্যালুকে স্ট্রিংয়ে রূপান্তর করার উপায় 🎯](https://dev.to/torequl/jaabhaaskriptte-kono-bhyaaluke-sttrinye-ruupaantr-kraar-upaay-5bhp)
+- [Announcing Stimulus FX](https://dev.to/railsdesigner/announcing-stimulus-fx-1hlc)
+- [Implementing Golang defer concept into Javascript](https://dev.to/araldhafeeri/implementing-golang-defer-concept-into-javascript-2eoa)
 <!-- BLOG-POST-LIST:END -->
 
