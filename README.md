@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About LLMs Observability and LangSmith](https://dev.to/adipamartulandi/everything-you-need-to-know-about-llms-observability-and-langsmith-4476)
-- [How to Enable/Disable Reset PIN at Sign-in in Windows 11?](https://dev.to/win11verse/how-to-enabledisable-reset-pin-at-sign-in-in-windows-11-319o)
-- [Using Terraform Helm Provider](https://dev.to/spacelift/using-terraform-helm-provider-1be9)
-- [DAY 9 Task](https://dev.to/v_inoth_f0fad29baec4c/day-9-task-78l)
+- [Accessible, Sustainable, and Creative Web Development](https://dev.to/ingosteinke/accessible-sustainable-and-creative-web-development-4im1)
+- [Integrating AWS Services with Stripe for Seamless Payment Solutions](https://dev.to/billgist/integrating-aws-services-with-stripe-for-seamless-payment-solutions-407l)
+- [Redes neuronales convolucionales &lpar;CNN&rpar; y redes neuronales recurrentes &lpar;RNN&rpar;](https://dev.to/fuenrob/redes-neuronales-convolucionales-cnn-y-redes-neuronales-recurrentes-rnn-10ci)
+- [pgsql.PostgresException : 42883: function DC_Test.fn_get_configuration&lpar;key := bigint&rpar; does not exist in npgsql version 9.0.2](https://dev.to/sunil_gohel_771b3ec120384/pgsqlpostgresexception-42883-function-dctestfngetconfigurationkey-bigint-does-not-jhl)
 <!-- BLOG-POST-LIST:END -->
 
