@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what skills are required for data scientist?](https://dev.to/abinesh_sn_f18e8c5aca838/what-skills-are-required-for-data-scientist-27ob)
-- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5942)
-- [Why are Props Immutable in React?](https://dev.to/nozibul_islam_113b1d5334f/why-are-props-immutable-in-react-bin)
-- [Modularization in Flutter App](https://dev.to/tentanganak/modularization-in-flutter-app-bb6)
+- [Building a Project Roadmap: Tips, Tools and Insights](https://dev.to/cryptosandy/building-a-project-roadmap-tips-tools-and-insights-4365)
+- [7 Essential Accessibility Testing Tools for Web Developers: Ensure Inclusive Design](https://dev.to/aaravjoshi/7-essential-accessibility-testing-tools-for-web-developers-ensure-inclusive-design-527l)
+- [[Boost]](https://dev.to/armspkt/-5b5i)
+- [Day 48: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-48-competitive-programming-journal-3fbd)
 <!-- BLOG-POST-LIST:END -->
 
