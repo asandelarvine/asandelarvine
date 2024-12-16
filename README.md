@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Writing Prompts in Streamlining Creative Processes](https://dev.to/devrajbhuyan/the-role-of-writing-prompts-in-streamlining-creative-processes-2gmn)
-- [Day 15 Journal](https://dev.to/vinnugollakoti/day-15-journal-5c09)
-- [Linux](https://dev.to/shiva_varma/linux-320l)
-- [Week 3](https://dev.to/aiden_isaac/week-3-2b83)
+- [Automated Load Testing in CI/CD Pipelines: Lessons from a Custom Bash Script](https://dev.to/favxlaw/automated-load-testing-in-cicd-pipelines-lessons-from-a-custom-bash-script-3d97)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-2op7)
+- [Nmap](https://dev.to/shiva_varma/nmap-3e05)
+- [StanfordCars in PyTorch](https://dev.to/hyperkai/stanfordcars-in-pytorch-11ah)
 <!-- BLOG-POST-LIST:END -->
 
