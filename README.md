@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a framework less, offline first, cross platform application](https://dev.to/amazingmuffin/building-a-framework-less-offline-first-cross-platform-application-2a5f)
-- [Building a Digital Signage Content Management System: A Challenge and a Journey](https://dev.to/htsagara/building-a-digital-signage-content-management-system-a-challenge-and-a-journey-43m)
-- [A Developer&#39;s Roadmap for 2025👩🏼‍💻!](https://dev.to/respect17/a-developers-roadmap-for-2025-32j4)
-- [Automating Debian Package Update Summaries with Python and Gemini &lpar;gemini-1.5-flash&rpar;](https://dev.to/evertontenorio/automating-debian-package-update-summaries-with-python-and-gemini-gemini-15-flash-1ce5)
+- [Build an Application Without SQL Server Database &lpar;Avoiding RPrometheusedis, MongoDB, and &rpar;](https://dev.to/angelica_romero/build-an-application-without-sql-server-database-avoiding-rprometheusedis-mongodb-and--3ko7)
+- [Security🔒](https://dev.to/taariqelliott/security-2b3d)
+- [🚀 Tailwind CSS v4: What is New](https://dev.to/tzador/tailwind-css-v4-what-is-new-137k)
+- [Postgres TypeScript bindings for &quot;stored procedures&quot;](https://dev.to/aleclarson/postgres-typescript-bindings-for-stored-procedures-56m8)
 <!-- BLOG-POST-LIST:END -->
 
