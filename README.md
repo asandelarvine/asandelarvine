@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP: Skip the boring part &amp; press Tab!](https://dev.to/spo0q/php-skip-the-boring-part-press-tab-1eaf)
-- [FlagFeed: Gamified Tech Learning with Feature Flags 🚀](https://dev.to/sanjaysah/flagfeed-gamified-tech-learning-with-feature-flags-189j)
-- [Is the setState operation an async operation in react? + solution](https://dev.to/erfan_esmkhani/is-the-setstate-operation-an-async-operation-in-react-solution-266m)
-- [The Silent Struggles of Working in Oversized Organizations](https://dev.to/joacod/the-silent-struggles-of-working-in-oversized-organizations-232p)
+- [Rails Designer v1.10: Make your form fields look pretty 🌸](https://dev.to/railsdesigner/rails-designer-v110-make-your-form-fields-look-pretty-26na)
+- [A importância de frequentar eventos de tecnologia e fazer networking para aumentar oportunidades](https://dev.to/alvesmariadefatima/a-importancia-de-frequentar-eventos-de-tecnologia-e-fazer-networking-para-aumentar-oportunidades-26h2)
+- [What’s Driving Intel Arc GPU Prices In The Gaming World?](https://dev.to/gabriella_browne_d047850e/whats-driving-intel-arc-gpu-prices-in-the-gaming-world-49b)
+- [Decorators &amp; Class Property in Python](https://dev.to/klaftech/decorators-class-property-in-python-14fa)
 <!-- BLOG-POST-LIST:END -->
 
