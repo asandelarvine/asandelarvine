@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛑 Stop Create Hooks in React 🪝🎣](https://dev.to/martygo/stop-create-hooks-in-react-511f)
-- [How to Use CSS Size Units for Better Web Design](https://dev.to/web_dev-usman/how-to-use-css-size-units-for-better-web-design-40ko)
-- [Stop Struggling Learn CSS Faster](https://dev.to/dev007777/stop-struggling-learn-css-faster-50no)
-- [Delving Deeper into Queue Management with Cutting-Edge Computer Vision](https://dev.to/chandrus/delving-deeper-into-queue-management-with-cutting-edge-computer-vision-go5)
+- [Common Design Patterns In Golang](https://dev.to/truongpx396/common-design-patterns-in-golang-5789)
+- [Time management: Learn how to make a huge difference in your productivity](https://dev.to/lindiwe09/time-management-learn-how-to-make-a-huge-difference-in-your-productivity-5712)
+- [Promises and Async/Await: Two Sides of the Same Coin 🚀](https://dev.to/alisamir/promises-and-asyncawait-two-sides-of-the-same-coin-36ia)
+- [What features should small businesses look for in HR management software?](https://dev.to/mobilise/what-features-should-small-businesses-look-for-in-hr-management-software-666)
 <!-- BLOG-POST-LIST:END -->
 
