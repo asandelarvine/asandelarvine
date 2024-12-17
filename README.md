@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v1.10: Make your form fields look pretty 🌸](https://dev.to/railsdesigner/rails-designer-v110-make-your-form-fields-look-pretty-26na)
-- [A importância de frequentar eventos de tecnologia e fazer networking para aumentar oportunidades](https://dev.to/alvesmariadefatima/a-importancia-de-frequentar-eventos-de-tecnologia-e-fazer-networking-para-aumentar-oportunidades-26h2)
-- [What’s Driving Intel Arc GPU Prices In The Gaming World?](https://dev.to/gabriella_browne_d047850e/whats-driving-intel-arc-gpu-prices-in-the-gaming-world-49b)
-- [Decorators &amp; Class Property in Python](https://dev.to/klaftech/decorators-class-property-in-python-14fa)
+- [Is Clean Code really practical?](https://dev.to/chanh_le/is-clean-code-really-practical-10ha)
+- [Launching AI Prototyping Projects](https://dev.to/leading-edje/launching-ai-prototyping-projects-2d8n)
+- [Mastering Cross-Platform Development with .NET 9: New Features and Enhanced Support](https://dev.to/leandroveiga/mastering-cross-platform-development-with-net-9-new-features-and-enhanced-support-1pli)
+- [Implementing camera functionality in React Native](https://dev.to/logrocket/implementing-camera-functionality-in-react-native-k7)
 <!-- BLOG-POST-LIST:END -->
 
