@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Clean Code really practical?](https://dev.to/chanh_le/is-clean-code-really-practical-10ha)
-- [Launching AI Prototyping Projects](https://dev.to/leading-edje/launching-ai-prototyping-projects-2d8n)
-- [Mastering Cross-Platform Development with .NET 9: New Features and Enhanced Support](https://dev.to/leandroveiga/mastering-cross-platform-development-with-net-9-new-features-and-enhanced-support-1pli)
-- [Implementing camera functionality in React Native](https://dev.to/logrocket/implementing-camera-functionality-in-react-native-k7)
+- [Understanding JavaScript Prototypes: A Comprehensive Guide to Inheritance and Method Sharing](https://dev.to/abhay_yt_52a8e72b213be229/understanding-javascript-prototypes-a-comprehensive-guide-to-inheritance-and-method-sharing-1f7l)
+- [Construtores genéricos](https://dev.to/javaparainiciantes/construtores-genericos-291m)
+- [Hands-On: Deploy a Web App on an Nginx Server Using AWS App Runner](https://dev.to/aws-builders/hands-on-deploy-a-web-app-on-an-nginx-server-using-aws-app-runner-3mac)
+- [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/object-oriented-programming-oop-in-javascript-a-comprehensive-guide-47i5)
 <!-- BLOG-POST-LIST:END -->
 
