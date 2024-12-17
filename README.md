@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Application Without SQL Server Database &lpar;Avoiding RPrometheusedis, MongoDB, and &rpar;](https://dev.to/angelica_romero/build-an-application-without-sql-server-database-avoiding-rprometheusedis-mongodb-and--3ko7)
-- [Security🔒](https://dev.to/taariqelliott/security-2b3d)
-- [🚀 Tailwind CSS v4: What is New](https://dev.to/tzador/tailwind-css-v4-what-is-new-137k)
-- [Postgres TypeScript bindings for &quot;stored procedures&quot;](https://dev.to/aleclarson/postgres-typescript-bindings-for-stored-procedures-56m8)
+- [Day 17: Github Actions](https://dev.to/code42cate/day-16-github-actions-15bn)
+- [Building a Real-Time Data Pipeline App with Change Data Capture Tools: Debezium, Kafka, and NiFi](https://dev.to/angelica_romero/building-a-real-time-data-pipeline-app-with-change-data-capture-tools-debezium-kafka-and-nifi-6ig)
+- [Microservices vs Monoliths: The Battle of Architectures!](https://dev.to/norbs/microservices-vs-monoliths-the-battle-of-architectures-2i9)
+- [Cómo Crear Tu Primer Paquete y publicarlo en NPM](https://dev.to/lfernand_cs/como-crear-tu-primer-paquete-y-publicarlo-en-npm-5hhm)
 <!-- BLOG-POST-LIST:END -->
 
