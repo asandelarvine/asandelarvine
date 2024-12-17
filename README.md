@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Prototypes: A Comprehensive Guide to Inheritance and Method Sharing](https://dev.to/abhay_yt_52a8e72b213be229/understanding-javascript-prototypes-a-comprehensive-guide-to-inheritance-and-method-sharing-1f7l)
-- [Construtores genéricos](https://dev.to/javaparainiciantes/construtores-genericos-291m)
-- [Hands-On: Deploy a Web App on an Nginx Server Using AWS App Runner](https://dev.to/aws-builders/hands-on-deploy-a-web-app-on-an-nginx-server-using-aws-app-runner-3mac)
-- [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/object-oriented-programming-oop-in-javascript-a-comprehensive-guide-47i5)
+- [How to Modify Multiple Various Matches at Once in Vim](https://dev.to/pkutaj/how-to-modify-multiple-various-matches-at-once-in-vim-1856)
+- [🚀From Frontend to Backend: Build Scalable Pagination for Web Applications](https://dev.to/engrsakib/from-frontend-to-backend-build-scalable-pagination-for-web-applications-45aj)
+- [Mastering Function Composition in JavaScript: A Guide to Combining Functions for Better Code](https://dev.to/abhay_yt_52a8e72b213be229/mastering-function-composition-in-javascript-a-guide-to-combining-functions-for-better-code-2a11)
+- [Crypto News Aggregator using Typescript, Next.js, NewsDataHub and CoinGecko APIs](https://dev.to/newsdatahub/crypto-news-aggregator-using-typescript-nextjs-newsdatahub-and-coingecko-apis-197b)
 <!-- BLOG-POST-LIST:END -->
 
