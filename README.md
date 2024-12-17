@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Functional Programming, and How Can You Do It in JavaScript?](https://dev.to/arvindkhadri/what-is-functional-programming-and-how-can-you-do-it-in-javascript-25j0)
-- [Introduction to Apache Camel K: Solving Integration Challenges](https://dev.to/igventurelli/introduction-to-apache-camel-k-solving-integration-challenges-1586)
-- [Hoppscotch vs. Postman: a guide to open source API testing](https://dev.to/logrocket/hoppscotch-vs-postman-a-guide-to-open-source-api-testing-2f51)
-- [👋🏻Goodbye Power BI! 📊 In 2025 Build AI/ML Dashboards Entirely Within Python 🤖](https://dev.to/taipy/goodbye-power-bi-in-2025-build-aiml-dashboards-entirely-within-python-4l22)
+- [PHP: Skip the boring part &amp; press Tab!](https://dev.to/spo0q/php-skip-the-boring-part-press-tab-1eaf)
+- [FlagFeed: Gamified Tech Learning with Feature Flags 🚀](https://dev.to/sanjaysah/flagfeed-gamified-tech-learning-with-feature-flags-189j)
+- [Is the setState operation an async operation in react? + solution](https://dev.to/erfan_esmkhani/is-the-setstate-operation-an-async-operation-in-react-solution-266m)
+- [The Silent Struggles of Working in Oversized Organizations](https://dev.to/joacod/the-silent-struggles-of-working-in-oversized-organizations-232p)
 <!-- BLOG-POST-LIST:END -->
 
