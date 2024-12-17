@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in Software Testing: Applications, Use Cases, and Benefits](https://dev.to/sachinrawa73828/the-role-of-ai-in-software-testing-applications-use-cases-and-benefits-hd)
-- [Staging vs Production: Understanding the Key Differences](https://dev.to/keploy/staging-vs-production-understanding-the-key-differences-3gc5)
-- [From Concept to Launch: 9 Product Management Frameworks for Creating Winning Products](https://dev.to/dchucks/from-concept-to-launch-9-product-management-frameworks-for-creating-winning-products-8g0)
-- [From Freelancer to CTO: A new chapter](https://dev.to/blkkkbvsik/from-freelancer-to-cto-a-new-chapter-5827)
+- [Amazon Q Developer Tips: No.17 Choose the right tool](https://dev.to/aws/amazon-q-developer-tips-no17-choose-the-right-tool-7a2)
+- [How to Validate Rectangular Images in Django Using Python](https://dev.to/highcenburg/how-to-validate-rectangular-images-in-django-using-python-ho2)
+- [Why Cybersecurity Starts with Website Design and Development](https://dev.to/seo_esignature_8b18cc8801/why-cybersecurity-starts-with-website-design-and-development-2f20)
+- [Develop APIs 100x Faster: Unlock the Power of This All-in-One IntelliJ Plugin](https://dev.to/apilover/develop-apis-100x-faster-unlock-the-power-of-this-all-in-one-intellij-plugin-17i1)
 <!-- BLOG-POST-LIST:END -->
 
