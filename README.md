@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.17 Choose the right tool](https://dev.to/aws/amazon-q-developer-tips-no17-choose-the-right-tool-7a2)
-- [How to Validate Rectangular Images in Django Using Python](https://dev.to/highcenburg/how-to-validate-rectangular-images-in-django-using-python-ho2)
-- [Why Cybersecurity Starts with Website Design and Development](https://dev.to/seo_esignature_8b18cc8801/why-cybersecurity-starts-with-website-design-and-development-2f20)
-- [Develop APIs 100x Faster: Unlock the Power of This All-in-One IntelliJ Plugin](https://dev.to/apilover/develop-apis-100x-faster-unlock-the-power-of-this-all-in-one-intellij-plugin-17i1)
+- [These 7 Open-Source Tools will Make You the Ultimate Chill Guy](https://dev.to/thenomadevel/these-7-open-source-tools-will-make-you-the-ultimate-chill-guy-226h)
+- [AI Creates Explorable 3D Worlds from Text Descriptions in Real-Time](https://dev.to/mikeyoung44/ai-creates-explorable-3d-worlds-from-text-descriptions-in-real-time-48d4)
+- [Study Reveals 88% of AI Models Vulnerable to Jailbreak Attacks, Including Top Security Systems](https://dev.to/mikeyoung44/study-reveals-88-of-ai-models-vulnerable-to-jailbreak-attacks-including-top-security-systems-361o)
+- [NVIDIA Ada Lovelace architecture for AI and Deep Learning](https://dev.to/javaeeeee/nvidia-ada-lovelace-architecture-for-ai-and-deep-learning-3g4j)
 <!-- BLOG-POST-LIST:END -->
 
