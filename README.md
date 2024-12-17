@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Modify Multiple Various Matches at Once in Vim](https://dev.to/pkutaj/how-to-modify-multiple-various-matches-at-once-in-vim-1856)
-- [🚀From Frontend to Backend: Build Scalable Pagination for Web Applications](https://dev.to/engrsakib/from-frontend-to-backend-build-scalable-pagination-for-web-applications-45aj)
-- [Mastering Function Composition in JavaScript: A Guide to Combining Functions for Better Code](https://dev.to/abhay_yt_52a8e72b213be229/mastering-function-composition-in-javascript-a-guide-to-combining-functions-for-better-code-2a11)
-- [Crypto News Aggregator using Typescript, Next.js, NewsDataHub and CoinGecko APIs](https://dev.to/newsdatahub/crypto-news-aggregator-using-typescript-nextjs-newsdatahub-and-coingecko-apis-197b)
+- [Building a framework less, offline first, cross platform application](https://dev.to/amazingmuffin/building-a-framework-less-offline-first-cross-platform-application-2a5f)
+- [Building a Digital Signage Content Management System: A Challenge and a Journey](https://dev.to/htsagara/building-a-digital-signage-content-management-system-a-challenge-and-a-journey-43m)
+- [A Developer&#39;s Roadmap for 2025👩🏼‍💻!](https://dev.to/respect17/a-developers-roadmap-for-2025-32j4)
+- [Automating Debian Package Update Summaries with Python and Gemini &lpar;gemini-1.5-flash&rpar;](https://dev.to/evertontenorio/automating-debian-package-update-summaries-with-python-and-gemini-gemini-15-flash-1ce5)
 <!-- BLOG-POST-LIST:END -->
 
