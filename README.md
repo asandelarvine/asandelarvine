@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Staging Is a Bottleneck for Microservice Testing](https://dev.to/signadot/why-staging-is-a-bottleneck-for-microservice-testing-27ek)
-- [Mastering Spread and Rest Operators in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-spread-and-rest-operators-in-javascript-3e7i)
-- [Demystifying Destructuring Assignment in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/demystifying-destructuring-assignment-in-javascript-56fe)
-- [Nurturing the Future: Kids Nutrition in 2025](https://dev.to/marketingfwn/nurturing-the-future-kids-nutrition-in-2025-b3i)
+- [LeetCode Challenge: 134. Gas Station - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-134-gas-station-javascript-solution-218m)
+- [Terraform Workspaces Guide: Commands, Examples and Best Practices](https://dev.to/env0/terraform-workspaces-guide-commands-examples-and-best-practices-503g)
+- [Understanding DOM Events in JavaScript: A Comprehensive Guide to Interaction](https://dev.to/abhay_yt_52a8e72b213be229/understanding-dom-events-in-javascript-a-comprehensive-guide-to-interaction-3li9)
+- [The history of game engines — from assembly coding to photorealism and AI](https://dev.to/ispmanager/the-history-of-game-engines-from-assembly-coding-to-photorealism-and-ai-d9h)
 <!-- BLOG-POST-LIST:END -->
 
