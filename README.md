@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript: The &quot;English&quot; of Programming Languages](https://dev.to/norbs/javascript-the-english-of-programming-languages-5dg2)
-- [Designing a Scalable Repository Structure in Laravel with queryFi](https://dev.to/zerk4/designing-a-scalable-repository-structure-in-laravel-with-queryfi-oa6)
-- [I think these are valid reasons! I think the same but many times I told it to someone it was snatched from the table by TS hype.](https://dev.to/stma/i-think-these-are-valid-reasons-i-think-the-same-but-many-times-i-told-it-to-someone-it-was-1lkf)
-- [Load Balancer](https://dev.to/salman_khan_c31307505285e/load-balancer-4lmm)
+- [How to use WSL 2 to Install Ubuntu on Windows 11?](https://dev.to/winsides/how-to-use-wsl-2-to-install-ubuntu-on-windows-11-2hgf)
+- [How to Fix “Something Happened and Your PIN Isn’t Available” on Windows 11?](https://dev.to/win11verse/how-to-fix-something-happened-and-your-pin-isnt-available-on-windows-11-15p8)
+- [My Python Language Solution to Task 1: Beautiful Arrangement from The Weekly Challenge 300](https://dev.to/rcmcintosh/my-python-language-solution-to-task-1-beautiful-arrangement-from-the-weekly-challenge-300-2dfn)
+- [The Forgotten Art of Enjoying Testing](https://dev.to/anil_csimplifyit_905c/the-forgotten-art-of-enjoying-testing-18bo)
 <!-- BLOG-POST-LIST:END -->
 
