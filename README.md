@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙Next应用全局状态AppStorage用法总结](https://dev.to/freerain9/hong-meng-nextying-yong-quan-ju-zhuang-tai-appstorageyong-fa-zong-jie-1kld)
-- [Day - 1 Task 1](https://dev.to/harish_r_850ca66fd34b07e7/day-1-task-1-c4p)
-- [鸿蒙Next循环渲染ForEach用法总结](https://dev.to/freerain9/hong-meng-nextxun-huan-xuan-ran-foreachyong-fa-zong-jie-23c6)
-- [鸿蒙Next下页面级存储LocalStorage用法全解析](https://dev.to/freerain9/hong-meng-nextxia-ye-mian-ji-cun-chu-localstorageyong-fa-quan-jie-xi-26do)
+- [React 19 ERROR NPX](https://dev.to/kushagra_mishra_8210f3fac/react-19-error-npx-412e)
+- [82. Remove Duplicates from Sorted List II](https://dev.to/arpitrathore/82-remove-duplicates-from-sorted-list-ii-38df)
+- [19. Remove Nth Node From End of List](https://dev.to/arpitrathore/19-remove-nth-node-from-end-of-list-1iog)
+- [Mastering Daytona Integration in Python: A Detailed Step-by-Step Guide 🚀](https://dev.to/vraj_chaudhari_9ec1858a13/mastering-daytona-integration-in-python-a-detailed-step-by-step-guide-2pe6)
 <!-- BLOG-POST-LIST:END -->
 
