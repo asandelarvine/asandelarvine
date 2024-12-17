@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use WSL 2 to Install Ubuntu on Windows 11?](https://dev.to/winsides/how-to-use-wsl-2-to-install-ubuntu-on-windows-11-2hgf)
-- [How to Fix “Something Happened and Your PIN Isn’t Available” on Windows 11?](https://dev.to/win11verse/how-to-fix-something-happened-and-your-pin-isnt-available-on-windows-11-15p8)
-- [My Python Language Solution to Task 1: Beautiful Arrangement from The Weekly Challenge 300](https://dev.to/rcmcintosh/my-python-language-solution-to-task-1-beautiful-arrangement-from-the-weekly-challenge-300-2dfn)
-- [The Forgotten Art of Enjoying Testing](https://dev.to/anil_csimplifyit_905c/the-forgotten-art-of-enjoying-testing-18bo)
+- [Semantic Search Feature](https://dev.to/hoaitx/semantic-search-feature-4lbh)
+- [Practical Application of Proxy IP in Machine Learning](https://dev.to/98ip/practical-application-of-proxy-ip-in-machine-learning-2216)
+- [🌐 5 Steps to Debugging a Slow API: Ultimate Guide to Speed and Performance🌟 🚀](https://dev.to/hanzla-baig/5-steps-to-debugging-a-slow-api-ultimate-guide-to-speed-and-performance-3ceh)
+- [solana 获取钱包token余额，及优化](https://dev.to/xiaodao/solana-huo-qu-qian-bao-tokenyu-e-ji-you-hua-3enb)
 <!-- BLOG-POST-LIST:END -->
 
