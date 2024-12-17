@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 59 Journal](https://dev.to/vinnugollakoti1/day-59-journal-49d)
-- [Computer Vision Learning: Free Online Courses for Aspiring Technologists](https://dev.to/getvm/computer-vision-learning-free-online-courses-for-aspiring-technologists-480m)
-- [Day 55 Journal](https://dev.to/vinnugollakoti1/day-55-journal-2kf)
-- [Web Page Header Not Visible on Mobile Screen.](https://dev.to/hreece/web-page-header-not-visible-on-mobile-screen-1ag1)
+- [鸿蒙Next应用全局状态AppStorage用法总结](https://dev.to/freerain9/hong-meng-nextying-yong-quan-ju-zhuang-tai-appstorageyong-fa-zong-jie-1kld)
+- [Day - 1 Task 1](https://dev.to/harish_r_850ca66fd34b07e7/day-1-task-1-c4p)
+- [鸿蒙Next循环渲染ForEach用法总结](https://dev.to/freerain9/hong-meng-nextxun-huan-xuan-ran-foreachyong-fa-zong-jie-23c6)
+- [鸿蒙Next下页面级存储LocalStorage用法全解析](https://dev.to/freerain9/hong-meng-nextxia-ye-mian-ji-cun-chu-localstorageyong-fa-quan-jie-xi-26do)
 <!-- BLOG-POST-LIST:END -->
 
