@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 134. Gas Station - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-134-gas-station-javascript-solution-218m)
-- [Terraform Workspaces Guide: Commands, Examples and Best Practices](https://dev.to/env0/terraform-workspaces-guide-commands-examples-and-best-practices-503g)
-- [Understanding DOM Events in JavaScript: A Comprehensive Guide to Interaction](https://dev.to/abhay_yt_52a8e72b213be229/understanding-dom-events-in-javascript-a-comprehensive-guide-to-interaction-3li9)
-- [The history of game engines — from assembly coding to photorealism and AI](https://dev.to/ispmanager/the-history-of-game-engines-from-assembly-coding-to-photorealism-and-ai-d9h)
+- [What is Functional Programming, and How Can You Do It in JavaScript?](https://dev.to/arvindkhadri/what-is-functional-programming-and-how-can-you-do-it-in-javascript-25j0)
+- [Introduction to Apache Camel K: Solving Integration Challenges](https://dev.to/igventurelli/introduction-to-apache-camel-k-solving-integration-challenges-1586)
+- [Hoppscotch vs. Postman: a guide to open source API testing](https://dev.to/logrocket/hoppscotch-vs-postman-a-guide-to-open-source-api-testing-2f51)
+- [👋🏻Goodbye Power BI! 📊 In 2025 Build AI/ML Dashboards Entirely Within Python 🤖](https://dev.to/taipy/goodbye-power-bi-in-2025-build-aiml-dashboards-entirely-within-python-4l22)
 <!-- BLOG-POST-LIST:END -->
 
