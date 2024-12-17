@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 ERROR NPX](https://dev.to/kushagra_mishra_8210f3fac/react-19-error-npx-412e)
-- [82. Remove Duplicates from Sorted List II](https://dev.to/arpitrathore/82-remove-duplicates-from-sorted-list-ii-38df)
-- [19. Remove Nth Node From End of List](https://dev.to/arpitrathore/19-remove-nth-node-from-end-of-list-1iog)
-- [Mastering Daytona Integration in Python: A Detailed Step-by-Step Guide 🚀](https://dev.to/vraj_chaudhari_9ec1858a13/mastering-daytona-integration-in-python-a-detailed-step-by-step-guide-2pe6)
+- [How to Learn Python From Scratch in 2025: An Expert Guide](https://dev.to/elinav/how-to-learn-python-from-scratch-in-2025-an-expert-guide-50o9)
+- [#4 Daily Rabbit Holes: Cracking the Azure B2C Puzzle](https://dev.to/pul/4-daily-rabbit-holes-cracking-the-azure-b2c-puzzle-mp9)
+- [Demystifying the Man-Month&lpar;Part1&rpar;](https://dev.to/roboword/demystifying-the-man-monthpart1-41g9)
+- [Why a Test Strategy is Critical for Your Project Success](https://dev.to/keploy/why-a-test-strategy-is-critical-for-your-project-success-3can)
 <!-- BLOG-POST-LIST:END -->
 
