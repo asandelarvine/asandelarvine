@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn Python From Scratch in 2025: An Expert Guide](https://dev.to/elinav/how-to-learn-python-from-scratch-in-2025-an-expert-guide-50o9)
-- [#4 Daily Rabbit Holes: Cracking the Azure B2C Puzzle](https://dev.to/pul/4-daily-rabbit-holes-cracking-the-azure-b2c-puzzle-mp9)
-- [Demystifying the Man-Month&lpar;Part1&rpar;](https://dev.to/roboword/demystifying-the-man-monthpart1-41g9)
-- [Why a Test Strategy is Critical for Your Project Success](https://dev.to/keploy/why-a-test-strategy-is-critical-for-your-project-success-3can)
+- [🛑 Stop Create Hooks in React 🪝🎣](https://dev.to/martygo/stop-create-hooks-in-react-511f)
+- [How to Use CSS Size Units for Better Web Design](https://dev.to/web_dev-usman/how-to-use-css-size-units-for-better-web-design-40ko)
+- [Stop Struggling Learn CSS Faster](https://dev.to/dev007777/stop-struggling-learn-css-faster-50no)
+- [Delving Deeper into Queue Management with Cutting-Edge Computer Vision](https://dev.to/chandrus/delving-deeper-into-queue-management-with-cutting-edge-computer-vision-go5)
 <!-- BLOG-POST-LIST:END -->
 
