@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search Feature](https://dev.to/hoaitx/semantic-search-feature-4lbh)
-- [Practical Application of Proxy IP in Machine Learning](https://dev.to/98ip/practical-application-of-proxy-ip-in-machine-learning-2216)
-- [🌐 5 Steps to Debugging a Slow API: Ultimate Guide to Speed and Performance🌟 🚀](https://dev.to/hanzla-baig/5-steps-to-debugging-a-slow-api-ultimate-guide-to-speed-and-performance-3ceh)
-- [solana 获取钱包token余额，及优化](https://dev.to/xiaodao/solana-huo-qu-qian-bao-tokenyu-e-ji-you-hua-3enb)
+- [Day 59 Journal](https://dev.to/vinnugollakoti1/day-59-journal-49d)
+- [Computer Vision Learning: Free Online Courses for Aspiring Technologists](https://dev.to/getvm/computer-vision-learning-free-online-courses-for-aspiring-technologists-480m)
+- [Day 55 Journal](https://dev.to/vinnugollakoti1/day-55-journal-2kf)
+- [Web Page Header Not Visible on Mobile Screen.](https://dev.to/hreece/web-page-header-not-visible-on-mobile-screen-1ag1)
 <!-- BLOG-POST-LIST:END -->
 
