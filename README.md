@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I&#39;d do differently in Bootcamp. &lpar;spoiler: Everything&rpar;](https://dev.to/gitmcmillan/what-id-do-differently-in-bootcamp-spoiler-everything-27m7)
-- [Selectores CSS: La Clave para estilizar tu Web](https://dev.to/osva_ocampo/selectores-css-la-clave-para-estilizar-tu-web-5814)
-- [The Intelligent Disaster Management System with Alternative Energy and AI-Powered](https://dev.to/napattnpp/the-intelligent-disaster-management-system-with-alternative-energy-and-ai-powered-5gkc)
-- [How to Download and Install FortiClient VPN for Your Windows PC](https://dev.to/msnmongare/how-to-download-and-install-forticlient-vpn-for-your-windows-pc-2g19)
+- [Introduction to Mina Protocol: Mina Protocol Vision and Its Role in Web3](https://dev.to/amity808/introduction-to-mina-protocol-mina-protocol-vision-and-its-role-in-web3-45ld)
+- [Use AI in Your Projects for Free](https://dev.to/dogoxeteste/use-ai-in-your-projects-for-free-10lp)
+- [Mastering Concatenation in JavaScript](https://dev.to/motuncoded/mastering-concatenation-in-javascript-178e)
+- [Resumes and Job Descriptions are DEAD](https://dev.to/teamstation/resumes-and-job-descriptions-are-dead-57eh)
 <!-- BLOG-POST-LIST:END -->
 
