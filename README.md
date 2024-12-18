@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get API Key from Firecrawl](https://dev.to/abdibrokhim/how-to-get-api-key-from-firecrawl-4d5g)
-- [Simplifying Complexity: How UX/UI Drives Web3 Adoption](https://dev.to/cryptosandy/simplifying-complexity-how-uxui-drives-web3-adoption-2n4c)
-- [Top 5 VS Code Extensions to Boost Your Productivity](https://dev.to/cryptosandy/top-5-vs-code-extensions-to-boost-your-productivity-2p5c)
-- [Building a tool that transforms modern websites into authentic 90s-style designs using AI/ML API](https://dev.to/abdibrokhim/building-a-tool-that-transforms-modern-websites-into-authentic-90s-style-designs-using-aiml-api-5ame)
+- [If you are reading this, the site is still up.](https://dev.to/ben/if-you-are-reading-this-the-site-is-still-up-3jn8)
+- [How to Use AutoHotkey to Managing Multiple Monitors: A Practical Guide](https://dev.to/takuuu/how-to-use-autohotkey-to-managing-multiple-monitors-a-practical-guide-31a2)
+- [Why Microservices Are leaking and How seal it properly](https://dev.to/xxeleton/why-microservices-are-leaking-and-how-seal-it-properly-3oel)
+- [React libraries for building forms and surveys](https://dev.to/logrocket/react-libraries-for-building-forms-and-surveys-2ejp)
 <!-- BLOG-POST-LIST:END -->
 
