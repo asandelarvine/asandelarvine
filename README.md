@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Nested Routes in React Router: Building Dynamic Layouts](https://dev.to/abhay_yt_52a8e72b213be229/mastering-nested-routes-in-react-router-building-dynamic-layouts-4dd5)
-- [Understanding React Router Basics: Managing Navigation in React](https://dev.to/abhay_yt_52a8e72b213be229/understanding-react-router-basics-managing-navigation-in-react-46l3)
-- [The Essential Rules of Hooks in React: How to Use Hooks Properly](https://dev.to/abhay_yt_52a8e72b213be229/the-essential-rules-of-hooks-in-react-how-to-use-hooks-properly-2ih3)
-- [How to evaluate the safety and security of LLM Applications?](https://dev.to/dllewellyn/how-to-evaluate-the-safety-and-security-of-llm-applications-5d2f)
+- [Puppet Community Townhall Recap](https://dev.to/puppet/puppet-community-townhall-recap-333j)
+- [The Art of Naming in Programming: Why Good Names Matter!](https://dev.to/bakar31/the-art-of-naming-in-programming-why-good-names-matter-5951)
+- [The Three Golden Rules of Successful Product Development](https://dev.to/shrsv/the-three-golden-rules-of-successful-product-development-2dno)
+- [Getting Started with Material-UI &lpar;MUI&rpar; in React: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/getting-started-with-emotion-in-react-a-complete-guide-3gjl)
 <!-- BLOG-POST-LIST:END -->
 
