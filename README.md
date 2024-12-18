@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of Migration Hub in AWS: Simplify and Streamline Your Cloud Journey](https://dev.to/piya__c204c9e90/benefits-of-migration-hub-in-aws-simplify-and-streamline-your-cloud-journey-591a)
-- [My React Journey: Day 20](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-20-jnc)
-- [How to Create a Custom Priority Event Emitter in Node.js](https://dev.to/aditya0901/how-to-create-a-custom-priority-event-emitter-in-nodejs-155f)
-- [Connecting to MongoDB: A Guide for Clients and Applications](https://dev.to/abhay_yt_52a8e72b213be229/connecting-to-mongodb-a-guide-for-clients-and-applications-nmf)
+- [How To Compare Characters in Java](https://dev.to/devnenyasha/how-to-compare-characters-in-java-2nl5)
+- [How Implementing DevOps Helped Cut Our Release Cycle from Months to Days](https://dev.to/mehul_budasana/how-implementing-devops-helped-cut-our-release-cycle-from-months-to-days-44a1)
+- [Cómo subir imágenes de Docker a Azure Container Registry](https://dev.to/asjordi/como-subir-imagenes-de-docker-a-azure-container-registry-2nc5)
+- [Why Teaching AI to Doubt Makes it Smarter 🤖](https://dev.to/adzhydra/why-teaching-ai-to-doubt-makes-it-smarter-5hg2)
 <!-- BLOG-POST-LIST:END -->
 
