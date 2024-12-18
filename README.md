@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I create a class system in my programming language](https://dev.to/jhonata_rios_778f7c2a9cdf/how-do-i-create-a-class-system-in-my-programming-language-36gn)
-- [Install Node using the package manager](https://dev.to/michaella23/install-node-using-the-package-manager-4fea)
-- [Migration from Jest to Vitest: A Real-World Experience with 2900+ Tests](https://dev.to/56_kode/migration-from-jest-to-vitest-a-real-world-experience-with-2900-tests-39np)
-- [Node JS](https://dev.to/anjali_gurjar_dff81513867/node-js-4ki4)
+- [Understanding Higher-Order Components &lpar;HOC&rpar; in React: Enhancing Functionality and Reusability](https://dev.to/abhay_yt_52a8e72b213be229/understanding-higher-order-components-hoc-in-react-enhancing-functionality-and-reusability-55k7)
+- [Change is Hard—Even When It’s for the Better](https://dev.to/arshida/change-is-hard-even-when-its-for-the-better-44mc)
+- [Understanding Prop Drilling in React: Challenges and Solutions](https://dev.to/abhay_yt_52a8e72b213be229/understanding-prop-drilling-in-react-challenges-and-solutions-50l9)
+- [Choosing a Vector Store for LangChain](https://dev.to/datastax/choosing-a-vector-store-for-langchain-4n48)
 <!-- BLOG-POST-LIST:END -->
 
