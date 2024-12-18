@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Menu Alien](https://dev.to/diegobrito/menu-alien-4hmj)
-- [How to SSH into a Server Using IP Address, Username, and Password](https://dev.to/msnmongare/how-to-ssh-into-a-server-using-ip-address-username-and-password-21j6)
-- [How to Leverage ChatGPT for Personalized Customer Engagement](https://dev.to/aliiii/how-to-leverage-chatgpt-for-personalized-customer-engagement-480j)
-- [Hacking the Python Import System and Rewriting the AST For Durable Execution](https://dev.to/haimzlato/hacking-the-import-system-and-rewriting-the-ast-for-durable-execution-5fc9)
+- [How to get API Key from Firecrawl](https://dev.to/abdibrokhim/how-to-get-api-key-from-firecrawl-4d5g)
+- [Simplifying Complexity: How UX/UI Drives Web3 Adoption](https://dev.to/cryptosandy/simplifying-complexity-how-uxui-drives-web3-adoption-2n4c)
+- [Top 5 VS Code Extensions to Boost Your Productivity](https://dev.to/cryptosandy/top-5-vs-code-extensions-to-boost-your-productivity-2p5c)
+- [Building a tool that transforms modern websites into authentic 90s-style designs using AI/ML API](https://dev.to/abdibrokhim/building-a-tool-that-transforms-modern-websites-into-authentic-90s-style-designs-using-aiml-api-5ame)
 <!-- BLOG-POST-LIST:END -->
 
