@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If you are reading this, the site is still up.](https://dev.to/ben/if-you-are-reading-this-the-site-is-still-up-3jn8)
-- [How to Use AutoHotkey to Managing Multiple Monitors: A Practical Guide](https://dev.to/takuuu/how-to-use-autohotkey-to-managing-multiple-monitors-a-practical-guide-31a2)
-- [Why Microservices Are leaking and How seal it properly](https://dev.to/xxeleton/why-microservices-are-leaking-and-how-seal-it-properly-3oel)
-- [React libraries for building forms and surveys](https://dev.to/logrocket/react-libraries-for-building-forms-and-surveys-2ejp)
+- [How do I create a class system in my programming language](https://dev.to/jhonata_rios_778f7c2a9cdf/how-do-i-create-a-class-system-in-my-programming-language-36gn)
+- [Install Node using the package manager](https://dev.to/michaella23/install-node-using-the-package-manager-4fea)
+- [Migration from Jest to Vitest: A Real-World Experience with 2900+ Tests](https://dev.to/56_kode/migration-from-jest-to-vitest-a-real-world-experience-with-2900-tests-39np)
+- [Node JS](https://dev.to/anjali_gurjar_dff81513867/node-js-4ki4)
 <!-- BLOG-POST-LIST:END -->
 
