@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Comprehensive Guide to Understanding Generative AI](https://dev.to/vivekk101/the-comprehensive-guide-to-understanding-generative-ai-3g0a)
-- [Mastering CSS: The Comprehensive Guide to Web Design and Styling](https://dev.to/abhay_yt_52a8e72b213be229/mastering-css-the-comprehensive-guide-to-web-design-and-styling-2l15)
-- [Building an App with Cloud No Sql Server Amazon DynamoDB: A Step-by-Step Guide](https://dev.to/draigo15/building-an-app-with-amazon-dynamodb-a-step-by-step-guide-g83)
-- [How to Secure Your Next.js E-commerce Site with RBAC and Permit.io](https://dev.to/umavictor6/how-to-secure-your-nextjs-e-commerce-site-with-rbac-and-permitio-38if)
+- [Benefits of Migration Hub in AWS: Simplify and Streamline Your Cloud Journey](https://dev.to/piya__c204c9e90/benefits-of-migration-hub-in-aws-simplify-and-streamline-your-cloud-journey-591a)
+- [My React Journey: Day 20](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-20-jnc)
+- [How to Create a Custom Priority Event Emitter in Node.js](https://dev.to/aditya0901/how-to-create-a-custom-priority-event-emitter-in-nodejs-155f)
+- [Connecting to MongoDB: A Guide for Clients and Applications](https://dev.to/abhay_yt_52a8e72b213be229/connecting-to-mongodb-a-guide-for-clients-and-applications-nmf)
 <!-- BLOG-POST-LIST:END -->
 
