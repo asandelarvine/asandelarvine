@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make on-scroll animations in JavaScript and CSS](https://dev.to/codemonster240/how-to-make-on-scroll-animations-in-javascript-and-css-bmj)
-- [Tudo o que você precisa saber sobre Next.JS para iniciar um novo projeto hoje](https://dev.to/layssadev/tudo-o-que-voce-precisa-saber-sobre-nextjs-para-iniciar-um-novo-projeto-hoje-2cg2)
-- [POO coding exercises in C#](https://dev.to/fernando_rezendecunhaju/poo-coding-exercises-in-c-18lg)
-- [2024 Update on DEV.to Monetization: REMOVED](https://dev.to/bytehala/2024-update-on-devto-monetization-removed-4517)
+- [Top Free Resources to Learn Coding as a Student](https://dev.to/growkon21/top-free-resources-to-learn-coding-as-a-student-lg6)
+- [Day 19: Highlight&#39;em up! 🔖](https://dev.to/valeriavg/day-19-highlightem-up-44c3)
+- [10 Proven Ways to Shield Your Website from Negative SEO in 2024](https://dev.to/negseoexpert/10-proven-ways-to-shield-your-website-from-negative-seo-in-2024-1emk)
+- [🔰Git e Github: Comandos basicos do git](https://dev.to/edineidev/git-e-github-comandos-do-git-e8p)
 <!-- BLOG-POST-LIST:END -->
 
