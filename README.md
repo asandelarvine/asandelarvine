@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 20 Closing the Week with Hashmap Challenges](https://dev.to/somuya_khandelwal/day-20-closing-the-week-with-hashmap-challenges-4918)
-- [DAY 19 Mastering Sliding Window Problems](https://dev.to/somuya_khandelwal/day-19-mastering-sliding-window-problems-4a8n)
-- [State of JS 2024](https://dev.to/nikdyankov/state-of-js-2024-3dm2)
-- [A Practical guide to Aysnc and Await for JavaScript Developers](https://dev.to/baraq/a-practical-guide-to-aysnc-and-await-for-javascript-developers-1gi8)
+- [The Comprehensive Guide to Understanding Generative AI](https://dev.to/vivekk101/the-comprehensive-guide-to-understanding-generative-ai-3g0a)
+- [Mastering CSS: The Comprehensive Guide to Web Design and Styling](https://dev.to/abhay_yt_52a8e72b213be229/mastering-css-the-comprehensive-guide-to-web-design-and-styling-2l15)
+- [Building an App with Cloud No Sql Server Amazon DynamoDB: A Step-by-Step Guide](https://dev.to/draigo15/building-an-app-with-amazon-dynamodb-a-step-by-step-guide-g83)
+- [How to Secure Your Next.js E-commerce Site with RBAC and Permit.io](https://dev.to/umavictor6/how-to-secure-your-nextjs-e-commerce-site-with-rbac-and-permitio-38if)
 <!-- BLOG-POST-LIST:END -->
 
