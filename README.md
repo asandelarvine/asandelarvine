@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Accept Cryptocurrency Payments: A Guide for Beginners](https://dev.to/trixsec/how-to-accept-cryptocurrency-payments-a-guide-for-beginners-3pl1)
-- [Time-saver: This IDEA plugin can help you write SparkSQL faster](https://dev.to/dogeking/time-saver-this-idea-plugin-can-help-you-write-sparksql-faster-m6d)
-- [Day-4 Task-2](https://dev.to/saravanan_477814b61087a66/day-4-task-2-43p8)
-- [Understanding Next.js and TypeScript Tutorial](https://dev.to/ahmad_tibibi/understanding-nextjs-and-typescript-tutorial-25i)
+- [Mastering the Geolocation API: Building Location-Aware JavaScript Applications](https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-geolocation-api-building-location-aware-javascript-applications-20hc)
+- [.NET Cross-Platform Web Desktop APP Framework to replace Electron](https://dev.to/rockfire/net-cross-platform-web-desktop-app-framework-to-replace-electron-1np2)
+- [Correct Way to Implement RTL in React Js](https://dev.to/neerajs/correct-way-to-implement-rtl-in-react-js-1mcg)
+- [Automating RDS Snapshot Management for Daily Testing](https://dev.to/radurga/automating-rds-snapshot-management-for-daily-testing-4jpe)
 <!-- BLOG-POST-LIST:END -->
 
