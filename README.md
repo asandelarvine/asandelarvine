@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: Github Actions](https://dev.to/code42cate/day-16-github-actions-15bn)
-- [Building a Real-Time Data Pipeline App with Change Data Capture Tools: Debezium, Kafka, and NiFi](https://dev.to/angelica_romero/building-a-real-time-data-pipeline-app-with-change-data-capture-tools-debezium-kafka-and-nifi-6ig)
-- [Microservices vs Monoliths: The Battle of Architectures!](https://dev.to/norbs/microservices-vs-monoliths-the-battle-of-architectures-2i9)
-- [Cómo Crear Tu Primer Paquete y publicarlo en NPM](https://dev.to/lfernand_cs/como-crear-tu-primer-paquete-y-publicarlo-en-npm-5hhm)
+- [zod vs class-validator &amp; class-transformer](https://dev.to/abdulghofurme/zod-vs-class-validator-class-transformer-3oam)
+- [Imagemagick](https://dev.to/jgngo/imagemagick-142e)
+- [Next.js Optimization for Dynamic Apps: Vercel Edge vs. Traditional SSR](https://dev.to/davy_zhang_20d2ea1c380870/nextjs-optimization-for-dynamic-apps-vercel-edge-vs-traditional-ssr-g5l)
+- [Prisma &amp; MongoDB: server to be run as a replica set](https://dev.to/abdulghofurme/prisma-mongodb-server-to-be-run-as-a-replica-set-2ji2)
 <!-- BLOG-POST-LIST:END -->
 
