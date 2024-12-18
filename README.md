@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux](https://dev.to/thiago_riva/linux-3k9i)
-- [What I Learned](https://dev.to/tayodaniel/what-i-learned-hel)
-- [AI Agents: Decoding the Future of Intelligent Automation](https://dev.to/ivansing/ai-agents-decoding-the-future-of-intelligent-automation-2mi)
-- [Understanding Middlewares in Express.js and Their Internal Working](https://dev.to/nishanthan-k/understanding-middlewares-in-expressjs-and-their-internal-working-4ddc)
+- [How to Accept Cryptocurrency Payments: A Guide for Beginners](https://dev.to/trixsec/how-to-accept-cryptocurrency-payments-a-guide-for-beginners-3pl1)
+- [Time-saver: This IDEA plugin can help you write SparkSQL faster](https://dev.to/dogeking/time-saver-this-idea-plugin-can-help-you-write-sparksql-faster-m6d)
+- [Day-4 Task-2](https://dev.to/saravanan_477814b61087a66/day-4-task-2-43p8)
+- [Understanding Next.js and TypeScript Tutorial](https://dev.to/ahmad_tibibi/understanding-nextjs-and-typescript-tutorial-25i)
 <!-- BLOG-POST-LIST:END -->
 
