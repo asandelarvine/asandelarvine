@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimise AWS Costs: Automate Unused EBS Snapshot Cleanup with Lambda](https://dev.to/pravesh_sudha_3c2b0c2b5e0/optimise-aws-costs-automate-unused-ebs-snapshot-cleanup-with-lambda-9g1)
-- [PVS\-Studio 7\.34: support for Apple Silicon ARM64, \.NET 9, taint analysis in Java analyzer, and more](https://dev.to/pvsdev/pvs-studio-734-support-for-apple-silicon-arm64-net-9-taint-analysis-in-java-analyzer-and-5006)
-- [What Can In-Browser JavaScript Do and What Are Its Limitations?](https://dev.to/marufpfc/what-can-in-browser-javascript-do-and-what-are-its-limitations-106l)
-- [How to Scale Your Application to Handle Peak Loads and Increase Throughput](https://dev.to/rutikakhaire/how-to-scale-your-application-to-handle-peak-loads-and-increase-throughput-4d6l)
+- [Menu Alien](https://dev.to/diegobrito/menu-alien-4hmj)
+- [How to SSH into a Server Using IP Address, Username, and Password](https://dev.to/msnmongare/how-to-ssh-into-a-server-using-ip-address-username-and-password-21j6)
+- [How to Leverage ChatGPT for Personalized Customer Engagement](https://dev.to/aliiii/how-to-leverage-chatgpt-for-personalized-customer-engagement-480j)
+- [Hacking the Python Import System and Rewriting the AST For Durable Execution](https://dev.to/haimzlato/hacking-the-import-system-and-rewriting-the-ast-for-durable-execution-5fc9)
 <!-- BLOG-POST-LIST:END -->
 
