@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Higher-Order Components &lpar;HOC&rpar; in React: Enhancing Functionality and Reusability](https://dev.to/abhay_yt_52a8e72b213be229/understanding-higher-order-components-hoc-in-react-enhancing-functionality-and-reusability-55k7)
-- [Change is Hard—Even When It’s for the Better](https://dev.to/arshida/change-is-hard-even-when-its-for-the-better-44mc)
-- [Understanding Prop Drilling in React: Challenges and Solutions](https://dev.to/abhay_yt_52a8e72b213be229/understanding-prop-drilling-in-react-challenges-and-solutions-50l9)
-- [Choosing a Vector Store for LangChain](https://dev.to/datastax/choosing-a-vector-store-for-langchain-4n48)
+- [Mastering Nested Routes in React Router: Building Dynamic Layouts](https://dev.to/abhay_yt_52a8e72b213be229/mastering-nested-routes-in-react-router-building-dynamic-layouts-4dd5)
+- [Understanding React Router Basics: Managing Navigation in React](https://dev.to/abhay_yt_52a8e72b213be229/understanding-react-router-basics-managing-navigation-in-react-46l3)
+- [The Essential Rules of Hooks in React: How to Use Hooks Properly](https://dev.to/abhay_yt_52a8e72b213be229/the-essential-rules-of-hooks-in-react-how-to-use-hooks-properly-2ih3)
+- [How to evaluate the safety and security of LLM Applications?](https://dev.to/dllewellyn/how-to-evaluate-the-safety-and-security-of-llm-applications-5d2f)
 <!-- BLOG-POST-LIST:END -->
 
