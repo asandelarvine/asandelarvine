@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Continuous Testing: Ensuring Quality in DevOps Pipelines](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-in-continuous-testing-ensuring-quality-in-devops-pipelines-2k0d)
-- [Extract metadata of paper and export it to Notion DB](https://dev.to/kromiii/extract-metadata-of-paper-and-export-it-to-notion-db-3m3l)
-- [WebAssembly + JavaScript: Building a Real-Time Image Processing Tool](https://dev.to/vladislav_v_75b0533bb1e3/webassembly-javascript-building-a-real-time-image-processing-tool-2748)
-- [Extracting Pipefy API data into Power BI with M language](https://dev.to/milenaemmert/extracting-data-from-the-pipefy-api-into-power-bi-with-m-language-l3a)
+- [Linux](https://dev.to/thiago_riva/linux-3k9i)
+- [What I Learned](https://dev.to/tayodaniel/what-i-learned-hel)
+- [AI Agents: Decoding the Future of Intelligent Automation](https://dev.to/ivansing/ai-agents-decoding-the-future-of-intelligent-automation-2mi)
+- [Understanding Middlewares in Express.js and Their Internal Working](https://dev.to/nishanthan-k/understanding-middlewares-in-expressjs-and-their-internal-working-4ddc)
 <!-- BLOG-POST-LIST:END -->
 
