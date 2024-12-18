@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Mina Protocol: Mina Protocol Vision and Its Role in Web3](https://dev.to/amity808/introduction-to-mina-protocol-mina-protocol-vision-and-its-role-in-web3-45ld)
-- [Use AI in Your Projects for Free](https://dev.to/dogoxeteste/use-ai-in-your-projects-for-free-10lp)
-- [Mastering Concatenation in JavaScript](https://dev.to/motuncoded/mastering-concatenation-in-javascript-178e)
-- [Resumes and Job Descriptions are DEAD](https://dev.to/teamstation/resumes-and-job-descriptions-are-dead-57eh)
+- [How to make on-scroll animations in JavaScript and CSS](https://dev.to/codemonster240/how-to-make-on-scroll-animations-in-javascript-and-css-bmj)
+- [Tudo o que você precisa saber sobre Next.JS para iniciar um novo projeto hoje](https://dev.to/layssadev/tudo-o-que-voce-precisa-saber-sobre-nextjs-para-iniciar-um-novo-projeto-hoje-2cg2)
+- [POO coding exercises in C#](https://dev.to/fernando_rezendecunhaju/poo-coding-exercises-in-c-18lg)
+- [2024 Update on DEV.to Monetization: REMOVED](https://dev.to/bytehala/2024-update-on-devto-monetization-removed-4517)
 <!-- BLOG-POST-LIST:END -->
 
