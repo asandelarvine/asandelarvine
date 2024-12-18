@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Compare Characters in Java](https://dev.to/devnenyasha/how-to-compare-characters-in-java-2nl5)
-- [How Implementing DevOps Helped Cut Our Release Cycle from Months to Days](https://dev.to/mehul_budasana/how-implementing-devops-helped-cut-our-release-cycle-from-months-to-days-44a1)
-- [Cómo subir imágenes de Docker a Azure Container Registry](https://dev.to/asjordi/como-subir-imagenes-de-docker-a-azure-container-registry-2nc5)
-- [Why Teaching AI to Doubt Makes it Smarter 🤖](https://dev.to/adzhydra/why-teaching-ai-to-doubt-makes-it-smarter-5hg2)
+- [Optimise AWS Costs: Automate Unused EBS Snapshot Cleanup with Lambda](https://dev.to/pravesh_sudha_3c2b0c2b5e0/optimise-aws-costs-automate-unused-ebs-snapshot-cleanup-with-lambda-9g1)
+- [PVS\-Studio 7\.34: support for Apple Silicon ARM64, \.NET 9, taint analysis in Java analyzer, and more](https://dev.to/pvsdev/pvs-studio-734-support-for-apple-silicon-arm64-net-9-taint-analysis-in-java-analyzer-and-5006)
+- [What Can In-Browser JavaScript Do and What Are Its Limitations?](https://dev.to/marufpfc/what-can-in-browser-javascript-do-and-what-are-its-limitations-106l)
+- [How to Scale Your Application to Handle Peak Loads and Increase Throughput](https://dev.to/rutikakhaire/how-to-scale-your-application-to-handle-peak-loads-and-increase-throughput-4d6l)
 <!-- BLOG-POST-LIST:END -->
 
