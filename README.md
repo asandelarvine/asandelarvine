@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Unique Keys in SQL: Ensuring Data Integrity](https://dev.to/abhay_yt_52a8e72b213be229/understanding-unique-keys-in-sql-ensuring-data-integrity-2n5m)
-- [Understanding the Difference Between WHERE and HAVING in SQL](https://dev.to/abhay_yt_52a8e72b213be229/understanding-the-difference-between-where-and-having-in-sql-383h)
-- [Practical Solutions with Node.js and JavaScript](https://dev.to/khushar_waseem_60619574b9/practical-solutions-with-nodejs-and-javascript-2dia)
-- [Mastering the SQL SELECT Statement: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-sql-select-statement-a-comprehensive-guide-18lc)
+- [DAY 20 Closing the Week with Hashmap Challenges](https://dev.to/somuya_khandelwal/day-20-closing-the-week-with-hashmap-challenges-4918)
+- [DAY 19 Mastering Sliding Window Problems](https://dev.to/somuya_khandelwal/day-19-mastering-sliding-window-problems-4a8n)
+- [State of JS 2024](https://dev.to/nikdyankov/state-of-js-2024-3dm2)
+- [A Practical guide to Aysnc and Await for JavaScript Developers](https://dev.to/baraq/a-practical-guide-to-aysnc-and-await-for-javascript-developers-1gi8)
 <!-- BLOG-POST-LIST:END -->
 
