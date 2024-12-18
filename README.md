@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Geolocation API: Building Location-Aware JavaScript Applications](https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-geolocation-api-building-location-aware-javascript-applications-20hc)
-- [.NET Cross-Platform Web Desktop APP Framework to replace Electron](https://dev.to/rockfire/net-cross-platform-web-desktop-app-framework-to-replace-electron-1np2)
-- [Correct Way to Implement RTL in React Js](https://dev.to/neerajs/correct-way-to-implement-rtl-in-react-js-1mcg)
-- [Automating RDS Snapshot Management for Daily Testing](https://dev.to/radurga/automating-rds-snapshot-management-for-daily-testing-4jpe)
+- [Understanding Unique Keys in SQL: Ensuring Data Integrity](https://dev.to/abhay_yt_52a8e72b213be229/understanding-unique-keys-in-sql-ensuring-data-integrity-2n5m)
+- [Understanding the Difference Between WHERE and HAVING in SQL](https://dev.to/abhay_yt_52a8e72b213be229/understanding-the-difference-between-where-and-having-in-sql-383h)
+- [Practical Solutions with Node.js and JavaScript](https://dev.to/khushar_waseem_60619574b9/practical-solutions-with-nodejs-and-javascript-2dia)
+- [Mastering the SQL SELECT Statement: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-sql-select-statement-a-comprehensive-guide-18lc)
 <!-- BLOG-POST-LIST:END -->
 
