@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppet Community Townhall Recap](https://dev.to/puppet/puppet-community-townhall-recap-333j)
-- [The Art of Naming in Programming: Why Good Names Matter!](https://dev.to/bakar31/the-art-of-naming-in-programming-why-good-names-matter-5951)
-- [The Three Golden Rules of Successful Product Development](https://dev.to/shrsv/the-three-golden-rules-of-successful-product-development-2dno)
-- [Getting Started with Material-UI &lpar;MUI&rpar; in React: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/getting-started-with-emotion-in-react-a-complete-guide-3gjl)
+- [What I&#39;d do differently in Bootcamp. &lpar;spoiler: Everything&rpar;](https://dev.to/gitmcmillan/what-id-do-differently-in-bootcamp-spoiler-everything-27m7)
+- [Selectores CSS: La Clave para estilizar tu Web](https://dev.to/osva_ocampo/selectores-css-la-clave-para-estilizar-tu-web-5814)
+- [The Intelligent Disaster Management System with Alternative Energy and AI-Powered](https://dev.to/napattnpp/the-intelligent-disaster-management-system-with-alternative-energy-and-ai-powered-5gkc)
+- [How to Download and Install FortiClient VPN for Your Windows PC](https://dev.to/msnmongare/how-to-download-and-install-forticlient-vpn-for-your-windows-pc-2g19)
 <!-- BLOG-POST-LIST:END -->
 
