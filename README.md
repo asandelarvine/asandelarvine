@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling to Set Up Your Dev Environment? Your Desktop Feels It Too! Here&#39;s Fix!](https://dev.to/arnavk-09/struggling-to-set-up-your-dev-environment-your-desktop-feels-it-too-3inm)
-- [React Testing: Ensuring Quality and Reliability in Your React Applications](https://dev.to/keploy/react-testing-ensuring-quality-and-reliability-in-your-react-applications-5ahc)
-- [Understanding The HTTP Deprecation Header](https://dev.to/zuplo/understanding-the-http-deprecation-header-1h9e)
-- [Building Plumbi: A Fun Puzzle Game with Reddit Devvit](https://dev.to/viralne94104639/building-plumbi-a-fun-puzzle-game-with-reddit-devvit-1c41)
+- [An Intuitive understanding of Overfitting](https://dev.to/ashed00/an-intuitive-understanding-of-overfitting-4643)
+- [7 Powerful JavaScript Performance Optimization Techniques for Developers](https://dev.to/aaravjoshi/7-powerful-javascript-performance-optimization-techniques-for-developers-38gg)
+- [Azure VM Resize: Effortlessly Scale Your Virtual Machines in Azure](https://dev.to/s3cloudhub/azure-vm-resize-effortlessly-scale-your-virtual-machines-in-azure-3f6i)
+- [Navigating Software Engineering: Building Frameworks and Tools](https://dev.to/alvizeu/navigating-software-engineering-building-frameworks-and-tools-3d79)
 <!-- BLOG-POST-LIST:END -->
 
