@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Free Resources to Learn Coding as a Student](https://dev.to/growkon21/top-free-resources-to-learn-coding-as-a-student-lg6)
-- [Day 19: Highlight&#39;em up! 🔖](https://dev.to/valeriavg/day-19-highlightem-up-44c3)
-- [10 Proven Ways to Shield Your Website from Negative SEO in 2024](https://dev.to/negseoexpert/10-proven-ways-to-shield-your-website-from-negative-seo-in-2024-1emk)
-- [🔰Git e Github: Comandos basicos do git](https://dev.to/edineidev/git-e-github-comandos-do-git-e8p)
+- [AI &amp; SMS-based Learning Management System - Introducing EstudIA!](https://dev.to/sebaspv/ai-sms-based-learning-management-system-introducing-estudia-13dn)
+- [AI for Test Case Creation: How It Works and Why It Matters.](https://dev.to/anil_csimplifyit_905c/ai-for-test-case-creation-how-it-works-and-why-it-matters-1omb)
+- [# Azure Functions Memory Issues: How to Handle Large Files &lpar;Complete Guide 2024&rpar;](https://dev.to/adzhydra/-azure-functions-memory-issues-how-to-handle-large-files-complete-guide-2024-3h1b)
+- [Don&#39;t Fall Into the CDN Trap! 🪤](https://dev.to/aralroca/dont-fall-into-the-cdn-trap-4keg)
 <!-- BLOG-POST-LIST:END -->
 
