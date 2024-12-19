@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Witness Innovation at the Huawei Developer Competition Northern Africa 2024 - Egypt Final!&quot;](https://dev.to/mohamednasser018/witness-innovation-at-the-huawei-developer-competition-northern-africa-2024-egypt-final-1c8c)
-- [Email Validation Best Practices: Ensuring Accuracy with the Right Email Address Validator](https://dev.to/devapis/email-validation-best-practices-ensuring-accuracy-with-the-right-email-address-validator-59fj)
-- [How to deploy laravel project on cpanel or shared hosting](https://dev.to/salimhosen/how-to-deploy-laravel-project-on-cpanel-or-shared-hosting-56k0)
-- [AWS re:Invent 2024: Top Highlights and Best Moments &lpar;In My Opinion&rpar;](https://dev.to/aws-builders/aws-reinvent-2024-top-highlights-and-best-moments-in-my-opinion-30gl)
+- [A Comprehensive Guide to Lean Six Sigma Methodology](https://dev.to/shishsingh/a-comprehensive-guide-to-lean-six-sigma-methodology-2cbl)
+- [Can AI finally generate best practice code? I think so.](https://dev.to/airbyte/can-ai-finally-generate-best-practice-code-i-think-so-55d2)
+- [How to solve packet sniffing permissions](https://dev.to/labex/how-to-solve-packet-sniffing-permissions-518i)
+- [Interface Funcional: EVITE esse uso!](https://dev.to/oigorrudel/interface-funcional-evite-esse-uso-149b)
 <!-- BLOG-POST-LIST:END -->
 
