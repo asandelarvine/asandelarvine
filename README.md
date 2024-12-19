@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Started with an Exchange Rate API for Real-Time Currency Data](https://dev.to/sachinkumar123/how-to-get-started-with-an-exchange-rate-api-for-real-time-currency-data-73o)
-- [Visualizing Global Climate: A Digital Canvas of Seasonal Contrasts](https://dev.to/govindvyas/visualizing-global-climate-a-digital-canvas-of-seasonal-contrasts-559n)
-- [How to Run Control Panel as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-control-panel-as-administrator-on-windows-11-2l8b)
-- [Concurrency vs Parallelism in Computing](https://dev.to/vipulkumarsviit/concurrency-vs-parallelism-in-computing-1cc4)
+- [Technical Documentation Blog For AWS Services: AWS Lambda](https://dev.to/justin_luzano_6b2348d7dc6/technical-documentation-blog-for-aws-services-aws-lambda-5ha2)
+- [Bleve: How to build a rocket-fast search engine?](https://dev.to/kwnaidoo/bleve-how-to-build-a-rocket-fast-search-engine-45md)
+- [Installing additional SSD on LENOVO ThinkBook 16 G7 IML](https://dev.to/markpelf/installing-additional-ssd-on-lenovo-thinkbook-16-g7-iml-3n8a)
+- [Build a Currency Exchange Service in Ruby on Rails](https://dev.to/sulmanweb/build-a-currency-exchange-service-in-ruby-on-rails-5dng)
 <!-- BLOG-POST-LIST:END -->
 
