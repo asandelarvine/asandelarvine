@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implications of using Aws cognito in Laravel 11 and the pool&#39;s user_id as application User Id.](https://dev.to/pcmagas/implications-of-using-aws-cognito-in-laravel-11-and-the-pools-userid-as-application-user-id-4b20)
-- [Exploring Spring Boot: The Magic Wand for Java Developers ✨](https://dev.to/kazi_ziaulhassan_66c99c8/exploring-spring-boot-the-magic-wand-for-java-developers-5bka)
-- [Terraform Map Variable: A Complete Guide with Practical Examples](https://dev.to/env0/terraform-map-variable-a-complete-guide-with-practical-examples-1iaf)
-- [Step-by-Step Approach to Configuring and Optimizing Cloud Environments on AWS](https://dev.to/marufhossain/step-by-step-approach-to-configuring-and-optimizing-cloud-environments-on-aws-2772)
+- [Callout Blocks in a New Way](https://dev.to/ddebajyati/callout-blocks-in-a-new-way-275p)
+- [Why I Used Kit for Our Novel’s Website Instead of Building My Own](https://dev.to/bekahhw/why-i-used-kit-for-our-novels-website-instead-of-building-my-own-1nn6)
+- [Efficient API Development: 3 Practical Ways to Improve Your Workflow](https://dev.to/rijultp/efficient-api-development-3-practical-ways-to-improve-your-workflow-5lj)
+- [Mastering Error Handling in JavaScript](https://dev.to/arjun98k/mastering-error-handling-in-javascript-4i0i)
 <!-- BLOG-POST-LIST:END -->
 
