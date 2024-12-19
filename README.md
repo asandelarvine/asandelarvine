@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Callout Blocks in a New Way](https://dev.to/ddebajyati/callout-blocks-in-a-new-way-275p)
-- [Why I Used Kit for Our Novel’s Website Instead of Building My Own](https://dev.to/bekahhw/why-i-used-kit-for-our-novels-website-instead-of-building-my-own-1nn6)
-- [Efficient API Development: 3 Practical Ways to Improve Your Workflow](https://dev.to/rijultp/efficient-api-development-3-practical-ways-to-improve-your-workflow-5lj)
-- [Mastering Error Handling in JavaScript](https://dev.to/arjun98k/mastering-error-handling-in-javascript-4i0i)
+- [I built a Sass template. You can just copy me!](https://dev.to/technoph1le/i-built-a-sass-template-you-can-just-copy-me-213o)
+- [Practice javascript via first principle thinking, not syntax memorization](https://dev.to/adamchain/practice-javascript-via-first-principle-thinking-not-syntax-memorization-2724)
+- [Mastering Laravel Collections: A Guide to Chainable Data Manipulation](https://dev.to/thescriptbinary/mastering-laravel-collections-a-guide-to-chainable-data-manipulation-2mo1)
+- [Python Lists in 5 minutes](https://dev.to/suresh_kumar_f75b7356272e/python-lists-in-5-minutes-37ob)
 <!-- BLOG-POST-LIST:END -->
 
