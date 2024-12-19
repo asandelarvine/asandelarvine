@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot grátis? Temos!](https://dev.to/pachicodes/github-copilot-gratis-temos-3f78)
-- [The Evolution of Cloud Computing and the Rise of FinOps](https://dev.to/vaish_98/the-evolution-of-cloud-computing-and-the-rise-of-finops-10m9)
-- [Older NVIDIA GPUs that you can use for AI and Deep Learning experiments](https://dev.to/javaeeeee/older-nvidia-gpus-that-you-can-use-for-ai-and-deep-learning-experiments-d26)
-- [🔥 Blockchain is way More Than Just Crypto! Here&#39;s What&#39;s Really Cool Right Now](https://dev.to/endeo/blockchain-is-way-more-than-just-crypto-heres-whats-really-cool-right-now-n07)
+- [Mastering Database Technologies: SQL vs NoSQL](https://dev.to/techgeek_7/mastering-database-technologies-sql-vs-nosql-j8b)
+- [🚀 Your Daily Crypto Job Digest For 19 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-december-k3o)
+- [5 FACTS ABOUT MINECRAFT.](https://dev.to/mince/minecraft-4nlk)
+- [Technical Interview Questions - Part 7 - Promises Methods](https://dev.to/giulianaolmos/technical-interview-questions-part-7-promises-methods-311n)
 <!-- BLOG-POST-LIST:END -->
 
