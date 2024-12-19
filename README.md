@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Lean Six Sigma Methodology](https://dev.to/shishsingh/a-comprehensive-guide-to-lean-six-sigma-methodology-2cbl)
-- [Can AI finally generate best practice code? I think so.](https://dev.to/airbyte/can-ai-finally-generate-best-practice-code-i-think-so-55d2)
-- [How to solve packet sniffing permissions](https://dev.to/labex/how-to-solve-packet-sniffing-permissions-518i)
-- [Interface Funcional: EVITE esse uso!](https://dev.to/oigorrudel/interface-funcional-evite-esse-uso-149b)
+- [Choose the Right Git Branching Strategy for Your Team](https://dev.to/juniourrau/choose-the-right-git-branching-strategy-for-your-team-5dio)
+- [Triggering AWS Lambda Functions with Voice Commands Using Amazon Alexa](https://dev.to/kasundsilva/triggering-aws-lambda-functions-with-voice-commands-using-amazon-alexa-35d8)
+- [Login API](https://dev.to/dev_d_akash/login-api-po3)
+- [Database Setup](https://dev.to/dev_d_akash/database-setup-1jeg)
 <!-- BLOG-POST-LIST:END -->
 
