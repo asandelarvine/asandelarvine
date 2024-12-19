@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A better deal for startups and small businesses](https://dev.to/zuplo/a-better-deal-for-startups-and-small-businesses-4lif)
-- [Why Imburse Payments Chose Zuplo Over Azure API Management](https://dev.to/zuplo/why-imburse-payments-chose-zuplo-over-azure-api-management-2i)
-- [Zero Downtime migration of API Authentication](https://dev.to/zuplo/zero-downtime-migration-of-api-authentication-h9c)
-- [Introducing - The Posters of Facebook](https://dev.to/zuplo/introducing-the-posters-of-facebook-18f4)
+- [GitHub Copilot grátis? Temos!](https://dev.to/pachicodes/github-copilot-gratis-temos-3f78)
+- [The Evolution of Cloud Computing and the Rise of FinOps](https://dev.to/vaish_98/the-evolution-of-cloud-computing-and-the-rise-of-finops-10m9)
+- [Older NVIDIA GPUs that you can use for AI and Deep Learning experiments](https://dev.to/javaeeeee/older-nvidia-gpus-that-you-can-use-for-ai-and-deep-learning-experiments-d26)
+- [🔥 Blockchain is way More Than Just Crypto! Here&#39;s What&#39;s Really Cool Right Now](https://dev.to/endeo/blockchain-is-way-more-than-just-crypto-heres-whats-really-cool-right-now-n07)
 <!-- BLOG-POST-LIST:END -->
 
