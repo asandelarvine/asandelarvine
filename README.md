@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing RuneScript v0.99: An Open Source Editor to Simplify Developer Workflows](https://dev.to/axlfc/introducing-runescript-v099-an-open-source-editor-to-simplify-developer-workflows-4m7a)
-- [Github&#39;s Top 36 items of Dec 19, 2024](https://dev.to/gittech/githubs-top-36-items-of-dec-19-2024-5flh)
-- [Video Tutor - Enable SMB 1.0 / CIFS File Sharing Support using CMD &amp; PowerShell](https://dev.to/winsides/video-tutor-enable-smb-10-cifs-file-sharing-support-using-cmd-powershell-14go)
-- [How I 15x My Freelance Business in 2024 – and Transformed My Life Along the Way](https://dev.to/per-starke-642/how-i-15x-my-freelance-business-in-2024-and-transformed-my-life-along-the-way-5fjk)
+- [Implications of using Aws cognito in Laravel 11 and the pool&#39;s user_id as application User Id.](https://dev.to/pcmagas/implications-of-using-aws-cognito-in-laravel-11-and-the-pools-userid-as-application-user-id-4b20)
+- [Exploring Spring Boot: The Magic Wand for Java Developers ✨](https://dev.to/kazi_ziaulhassan_66c99c8/exploring-spring-boot-the-magic-wand-for-java-developers-5bka)
+- [Terraform Map Variable: A Complete Guide with Practical Examples](https://dev.to/env0/terraform-map-variable-a-complete-guide-with-practical-examples-1iaf)
+- [Step-by-Step Approach to Configuring and Optimizing Cloud Environments on AWS](https://dev.to/marufhossain/step-by-step-approach-to-configuring-and-optimizing-cloud-environments-on-aws-2772)
 <!-- BLOG-POST-LIST:END -->
 
