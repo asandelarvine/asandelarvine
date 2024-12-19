@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI &amp; SMS-based Learning Management System - Introducing EstudIA!](https://dev.to/sebaspv/ai-sms-based-learning-management-system-introducing-estudia-13dn)
-- [AI for Test Case Creation: How It Works and Why It Matters.](https://dev.to/anil_csimplifyit_905c/ai-for-test-case-creation-how-it-works-and-why-it-matters-1omb)
-- [# Azure Functions Memory Issues: How to Handle Large Files &lpar;Complete Guide 2024&rpar;](https://dev.to/adzhydra/-azure-functions-memory-issues-how-to-handle-large-files-complete-guide-2024-3h1b)
-- [Don&#39;t Fall Into the CDN Trap! 🪤](https://dev.to/aralroca/dont-fall-into-the-cdn-trap-4keg)
+- [I&#39;m learning html &amp; css now, some tips?](https://dev.to/snagh1/im-learning-html-css-now-some-tips-16ao)
+- [How I minimized a state machine.](https://dev.to/okpalan/how-i-minimized-a-state-machine-5gk4)
+- [Redefining Software Testing: Smarter Strategies for Better Quality✔✔](https://dev.to/arun_pal_3ce740a137cf15ad/redefining-software-testing-smarter-strategies-for-better-quality-1dba)
+- [Introduction: VULKAN API](https://dev.to/kastuv/introduction-vulkan-api-1jp8)
 <!-- BLOG-POST-LIST:END -->
 
