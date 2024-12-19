@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid Boilerplate with Code Generator in Flutter](https://dev.to/tentanganak/avoid-boilerplate-with-code-generator-in-flutter-nb8)
-- [The Rise of AI Co-Pilots: How GPT Models Are Changing Software Development](https://dev.to/mrinankmj/the-rise-of-ai-co-pilots-how-gpt-models-are-changing-software-development-6pl)
-- [I&#39;m learning html &amp; css now, some tips?](https://dev.to/snagh1/im-learning-html-css-now-some-tips-16ao)
-- [How I minimized a state machine.](https://dev.to/okpalan/how-i-minimized-a-state-machine-5gk4)
+- [These strategies can essentially help in Cloud cost deduction!](https://dev.to/sofia_martin_ce7fcfb78531/these-strategies-can-essentially-help-in-cloud-cost-deduction-4oo6)
+- [AWS and Generative AI will truly be future of Machine Learning!](https://dev.to/aish_roy_69e2048a8cbac303/aws-and-generative-ai-will-truly-be-future-of-machine-learning-1b89)
+- [Advanced Next.js Course: Mastering the Power of Next.js](https://dev.to/lior_amsalem_3879371237f6/-advanced-nextjs-course-mastering-the-power-of-nextjs-4n4l)
+- [The software apprentice #2025:](https://dev.to/simonesquad/the-software-apprentice-2025-3pck)
 <!-- BLOG-POST-LIST:END -->
 
