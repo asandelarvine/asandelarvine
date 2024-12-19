@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Database Technologies: SQL vs NoSQL](https://dev.to/techgeek_7/mastering-database-technologies-sql-vs-nosql-j8b)
-- [🚀 Your Daily Crypto Job Digest For 19 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-december-k3o)
-- [5 FACTS ABOUT MINECRAFT.](https://dev.to/mince/minecraft-4nlk)
-- [Technical Interview Questions - Part 7 - Promises Methods](https://dev.to/giulianaolmos/technical-interview-questions-part-7-promises-methods-311n)
+- [Implementing an Express-based REST API in TypeScript with MongoDB, JWT-based Authentication, and RBAC](https://dev.to/syed_ammar/implementing-an-express-based-rest-api-in-typescript-with-mongodb-jwt-based-authentication-and-5735)
+- [pg_class in postgreSQL](https://dev.to/hujan/pgclass-in-postgresql-5eik)
+- [How to Estimate SaaS Product Development Costs](https://dev.to/thealgorithm/how-to-estimate-saas-product-development-costs-nin)
+- [Embracing Change: My Journey Towards Growth](https://dev.to/imtiaz101325/embracing-change-my-journey-towards-growth-4oep)
 <!-- BLOG-POST-LIST:END -->
 
