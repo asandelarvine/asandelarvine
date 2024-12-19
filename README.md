@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choose the Right Git Branching Strategy for Your Team](https://dev.to/juniourrau/choose-the-right-git-branching-strategy-for-your-team-5dio)
-- [Triggering AWS Lambda Functions with Voice Commands Using Amazon Alexa](https://dev.to/kasundsilva/triggering-aws-lambda-functions-with-voice-commands-using-amazon-alexa-35d8)
-- [Login API](https://dev.to/dev_d_akash/login-api-po3)
-- [Database Setup](https://dev.to/dev_d_akash/database-setup-1jeg)
+- [My React Journey: Day 22](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-22-4p57)
+- [Referential integrity In The Absence Of Foreign Key](https://dev.to/aws-heroes/referential-integrity-in-the-absence-of-foreign-key-3mbd)
+- [UI Improvements and Bug Fixes](https://dev.to/dev_d_akash/ui-improvements-and-bug-fixes-4g3e)
+- [Typing User Indicator &lpar;Bug Fixes and Optimization&rpar;](https://dev.to/dev_d_akash/typing-user-indicator-bug-fixes-and-optimization-2j8o)
 <!-- BLOG-POST-LIST:END -->
 
