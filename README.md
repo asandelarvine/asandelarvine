@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [These strategies can essentially help in Cloud cost deduction!](https://dev.to/sofia_martin_ce7fcfb78531/these-strategies-can-essentially-help-in-cloud-cost-deduction-4oo6)
-- [AWS and Generative AI will truly be future of Machine Learning!](https://dev.to/aish_roy_69e2048a8cbac303/aws-and-generative-ai-will-truly-be-future-of-machine-learning-1b89)
-- [Advanced Next.js Course: Mastering the Power of Next.js](https://dev.to/lior_amsalem_3879371237f6/-advanced-nextjs-course-mastering-the-power-of-nextjs-4n4l)
-- [The software apprentice #2025:](https://dev.to/simonesquad/the-software-apprentice-2025-3pck)
+- [How to Get Started with an Exchange Rate API for Real-Time Currency Data](https://dev.to/sachinkumar123/how-to-get-started-with-an-exchange-rate-api-for-real-time-currency-data-73o)
+- [Visualizing Global Climate: A Digital Canvas of Seasonal Contrasts](https://dev.to/govindvyas/visualizing-global-climate-a-digital-canvas-of-seasonal-contrasts-559n)
+- [How to Run Control Panel as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-control-panel-as-administrator-on-windows-11-2l8b)
+- [Concurrency vs Parallelism in Computing](https://dev.to/vipulkumarsviit/concurrency-vs-parallelism-in-computing-1cc4)
 <!-- BLOG-POST-LIST:END -->
 
