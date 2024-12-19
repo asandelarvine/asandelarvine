@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Sass template. You can just copy me!](https://dev.to/technoph1le/i-built-a-sass-template-you-can-just-copy-me-213o)
-- [Practice javascript via first principle thinking, not syntax memorization](https://dev.to/adamchain/practice-javascript-via-first-principle-thinking-not-syntax-memorization-2724)
-- [Mastering Laravel Collections: A Guide to Chainable Data Manipulation](https://dev.to/thescriptbinary/mastering-laravel-collections-a-guide-to-chainable-data-manipulation-2mo1)
-- [Python Lists in 5 minutes](https://dev.to/suresh_kumar_f75b7356272e/python-lists-in-5-minutes-37ob)
+- [&quot;Witness Innovation at the Huawei Developer Competition Northern Africa 2024 - Egypt Final!&quot;](https://dev.to/mohamednasser018/witness-innovation-at-the-huawei-developer-competition-northern-africa-2024-egypt-final-1c8c)
+- [Email Validation Best Practices: Ensuring Accuracy with the Right Email Address Validator](https://dev.to/devapis/email-validation-best-practices-ensuring-accuracy-with-the-right-email-address-validator-59fj)
+- [How to deploy laravel project on cpanel or shared hosting](https://dev.to/salimhosen/how-to-deploy-laravel-project-on-cpanel-or-shared-hosting-56k0)
+- [AWS re:Invent 2024: Top Highlights and Best Moments &lpar;In My Opinion&rpar;](https://dev.to/aws-builders/aws-reinvent-2024-top-highlights-and-best-moments-in-my-opinion-30gl)
 <!-- BLOG-POST-LIST:END -->
 
