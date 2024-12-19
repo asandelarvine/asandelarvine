@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auth Pricing Wars: Cognito vs Auth0 vs Firebase vs Supabase](https://dev.to/zuplo/auth-pricing-wars-cognito-vs-auth0-vs-firebase-vs-supabase-2poh)
-- [Progressive Web Apps &lpar;PWAs&rpar;: The Future of Web Development for Fast, Reliable User Experiences](https://dev.to/abhay_yt_52a8e72b213be229/progressive-web-apps-pwas-the-future-of-web-development-for-fast-reliable-user-experiences-26on)
-- [jsonmergepatch.com: Free JSON Merge Patch Tool and API](https://dev.to/zuplo/jsonmergepatchcom-free-json-merge-patch-tool-and-api-4ilh)
-- [Unlocking the Power of Web Components and Custom Elements for Reusable UI Design](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-the-power-of-web-components-and-custom-elements-for-reusable-ui-design-ppg)
+- [A better deal for startups and small businesses](https://dev.to/zuplo/a-better-deal-for-startups-and-small-businesses-4lif)
+- [Why Imburse Payments Chose Zuplo Over Azure API Management](https://dev.to/zuplo/why-imburse-payments-chose-zuplo-over-azure-api-management-2i)
+- [Zero Downtime migration of API Authentication](https://dev.to/zuplo/zero-downtime-migration-of-api-authentication-h9c)
+- [Introducing - The Posters of Facebook](https://dev.to/zuplo/introducing-the-posters-of-facebook-18f4)
 <!-- BLOG-POST-LIST:END -->
 
