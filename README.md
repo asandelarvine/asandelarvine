@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Intuitive understanding of Overfitting](https://dev.to/ashed00/an-intuitive-understanding-of-overfitting-4643)
-- [7 Powerful JavaScript Performance Optimization Techniques for Developers](https://dev.to/aaravjoshi/7-powerful-javascript-performance-optimization-techniques-for-developers-38gg)
-- [Azure VM Resize: Effortlessly Scale Your Virtual Machines in Azure](https://dev.to/s3cloudhub/azure-vm-resize-effortlessly-scale-your-virtual-machines-in-azure-3f6i)
-- [Navigating Software Engineering: Building Frameworks and Tools](https://dev.to/alvizeu/navigating-software-engineering-building-frameworks-and-tools-3d79)
+- [Auth Pricing Wars: Cognito vs Auth0 vs Firebase vs Supabase](https://dev.to/zuplo/auth-pricing-wars-cognito-vs-auth0-vs-firebase-vs-supabase-2poh)
+- [Progressive Web Apps &lpar;PWAs&rpar;: The Future of Web Development for Fast, Reliable User Experiences](https://dev.to/abhay_yt_52a8e72b213be229/progressive-web-apps-pwas-the-future-of-web-development-for-fast-reliable-user-experiences-26on)
+- [jsonmergepatch.com: Free JSON Merge Patch Tool and API](https://dev.to/zuplo/jsonmergepatchcom-free-json-merge-patch-tool-and-api-4ilh)
+- [Unlocking the Power of Web Components and Custom Elements for Reusable UI Design](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-the-power-of-web-components-and-custom-elements-for-reusable-ui-design-ppg)
 <!-- BLOG-POST-LIST:END -->
 
