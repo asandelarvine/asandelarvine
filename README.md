@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Documentation Blog For AWS Services: AWS Lambda](https://dev.to/justin_luzano_6b2348d7dc6/technical-documentation-blog-for-aws-services-aws-lambda-5ha2)
-- [Bleve: How to build a rocket-fast search engine?](https://dev.to/kwnaidoo/bleve-how-to-build-a-rocket-fast-search-engine-45md)
-- [Installing additional SSD on LENOVO ThinkBook 16 G7 IML](https://dev.to/markpelf/installing-additional-ssd-on-lenovo-thinkbook-16-g7-iml-3n8a)
-- [Build a Currency Exchange Service in Ruby on Rails](https://dev.to/sulmanweb/build-a-currency-exchange-service-in-ruby-on-rails-5dng)
+- [Using Apollo Client for GraphQL Data Management in React](https://dev.to/abhay_yt_52a8e72b213be229/using-apollo-client-for-graphql-data-management-in-react-567l)
+- [How Background Removal Tools Enhance the Views of Tutorial Videos](https://dev.to/technology-posts/how-background-removal-tools-enhance-the-views-of-tutorial-videos-1ck3)
+- [Understanding SWR &lpar;Stale-While-Revalidate&rpar; in React for Optimized Data Fetching](https://dev.to/abhay_yt_52a8e72b213be229/understanding-swr-stale-while-revalidate-in-react-for-optimized-data-fetching-1kld)
+- [Introducing kinekt: a typescript-first web framework for building REST Apis](https://dev.to/samucodes/introducing-kinekt-a-typescript-first-web-framework-for-building-rest-apis-4e65)
 <!-- BLOG-POST-LIST:END -->
 
