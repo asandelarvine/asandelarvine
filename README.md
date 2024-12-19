@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Boilerplate with Code Generator in Flutter](https://dev.to/tentanganak/avoid-boilerplate-with-code-generator-in-flutter-nb8)
+- [The Rise of AI Co-Pilots: How GPT Models Are Changing Software Development](https://dev.to/mrinankmj/the-rise-of-ai-co-pilots-how-gpt-models-are-changing-software-development-6pl)
 - [I&#39;m learning html &amp; css now, some tips?](https://dev.to/snagh1/im-learning-html-css-now-some-tips-16ao)
 - [How I minimized a state machine.](https://dev.to/okpalan/how-i-minimized-a-state-machine-5gk4)
-- [Redefining Software Testing: Smarter Strategies for Better Quality✔✔](https://dev.to/arun_pal_3ce740a137cf15ad/redefining-software-testing-smarter-strategies-for-better-quality-1dba)
-- [Introduction: VULKAN API](https://dev.to/kastuv/introduction-vulkan-api-1jp8)
 <!-- BLOG-POST-LIST:END -->
 
