@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing an Express-based REST API in TypeScript with MongoDB, JWT-based Authentication, and RBAC](https://dev.to/syed_ammar/implementing-an-express-based-rest-api-in-typescript-with-mongodb-jwt-based-authentication-and-5735)
-- [pg_class in postgreSQL](https://dev.to/hujan/pgclass-in-postgresql-5eik)
-- [How to Estimate SaaS Product Development Costs](https://dev.to/thealgorithm/how-to-estimate-saas-product-development-costs-nin)
-- [Embracing Change: My Journey Towards Growth](https://dev.to/imtiaz101325/embracing-change-my-journey-towards-growth-4oep)
+- [🚀 New AI Workload Guidance on Azure Well-Architected Framework 🧠](https://dev.to/teamstation/new-ai-workload-guidance-on-azure-well-architected-framework-4gnm)
+- [The quick code controversy: Why it&#39;s time to re-examine the quick vs. clean code debate](https://dev.to/louis-dupont/the-quick-code-controversy-why-its-time-to-re-examine-the-quick-vs-clean-code-debate-4dmj)
+- [Amazon Lightsail: Instances, Snapshots, and Networking](https://dev.to/mikianka/amazon-lightsail-instances-snapshots-and-networking-1agp)
+- [flow design for access and refresh token- JWT](https://dev.to/sallbro/flow-design-for-access-and-refresh-token-jwt-2lh6)
 <!-- BLOG-POST-LIST:END -->
 
