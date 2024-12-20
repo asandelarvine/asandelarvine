@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [68/365 | ¥10M Job Challenge - AI tool](https://dev.to/kameken100/68365-y10m-job-challenge-ai-tool-2lf1)
-- [6 Types of Git Branching Strategy](https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54)
-- [This Week In React #214 : Base UI, Custom Elements, Next.js, React Router, Android XR, iOS targets, Nitro, RNTL...](https://dev.to/sebastienlorber/this-week-in-react-214-base-ui-custom-elements-nextjs-react-router-android-xr-ios-targets-5d00)
-- [Click with Caution: A Beginner’s Guide to Cybersecurity](https://dev.to/tochi_/click-with-caution-a-beginners-guide-to-cybersecurity-3ajo)
+- [Neubrutalism React TypeScript Tailwind Portfolio Website](https://dev.to/seyma/neubrutalism-react-typescript-tailwind-portfolio-website-2m62)
+- [Fast Memory Copying in C#/.NET &lpar;Cache, AVX, Threads, Unsafe, Alternatives&rpar;](https://dev.to/peter_truchly_4fce0874fd5/fast-memory-copying-in-cnet-cache-avx-threads-unsafe-alternatives-h57)
+- [Learn Design Patterns: Understanding the Factory Method Pattern](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-factory-method-pattern-2cel)
+- [Ruby on Rails System testing &lpar;E2E testing&rpar; using Natural Language with OpenAI API](https://dev.to/yusukeiwaki/ruby-on-rails-system-testing-e2e-testing-using-natural-language-with-openai-5d24)
 <!-- BLOG-POST-LIST:END -->
 
