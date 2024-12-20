@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cowboy Casino Major Update](https://dev.to/w4ffl35/cowboy-casino-major-update-924)
-- [Carla Simulator 1 : How to Set Up CARLA Simulator – Toretto Style 🏎️🔥](https://dev.to/mitanshgor/carla-simulator-1-how-to-set-up-carla-simulator-toretto-style-3800)
-- [Carla Simulator 2 : Welcome to the Ride, Brian Cooper Here! 🚗🏍️](https://dev.to/mitanshgor/carla-simulator-2-welcome-to-the-ride-brian-cooper-here-4jbi)
-- [Learn Design Patterns: Understanding the Abstract Factory Pattern](https://dev.to/sami_maachi/pushing-to-devto-using-github-5594)
+- [Choosing the Right Tech Stack for Your Next Project: Insights and Recommendations](https://dev.to/jetthoughts/choosing-the-right-tech-stack-for-your-next-project-insights-and-recommendations-101b)
+- [From SLIM to ERB: A Developer&#39;s Journey Back to Classic Templates](https://dev.to/jetthoughts/from-slim-to-erb-a-developers-journey-back-to-classic-templates-3ipd)
+- [Mastering Link Creation in Rails: Best Practices Unveiled](https://dev.to/jetthoughts/mastering-link-creation-in-rails-best-practices-unveiled-4eea)
+- [Learn Design Patterns: Unlocking the Power of the Prototype Design Pattern](https://dev.to/sami_maachi/learn-design-patterns-unlocking-the-power-of-the-prototype-design-pattern-1440)
 <!-- BLOG-POST-LIST:END -->
 
