@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Have you Read this ?](https://dev.to/random_ti/have-you-read-this--4fdo)
-- [How to Build a Successful Online Store with Shopify?](https://dev.to/ravi_makhija/how-to-build-a-successful-online-store-with-shopify-1666)
-- [Full-Stack AI for Web Developers Book Launch + Manning Holiday Sale](https://dev.to/theodesp/full-stack-ai-for-web-developers-book-launch-manning-holiday-sale-4in6)
-- [You know when you&#39;ve been Wordled...](https://dev.to/matt_k/you-know-when-youve-been-wordled-3ako)
+- [New diagnostic rules in PVS-Studio 7.34](https://dev.to/pvsdev/new-diagnostic-rules-in-pvs-studio-734-347e)
+- [Enhancing Hybrid Search in MongoDB: Combining RRF, Thresholds, and Weights](https://dev.to/shannonlal/enhancing-hybrid-search-in-mongodb-combining-rrf-thresholds-and-weights-3np1)
+- [The Future of Web Development: Trends to Watch in 2025](https://dev.to/jbconcept/the-future-of-web-development-trends-to-watch-in-2025-4pfe)
+- [Unlock the Potential of GenAI: 9 Open Source LLMs for Your Commercial GenAI Projects](https://dev.to/mobisoft/unlock-the-potential-of-genai-9-open-source-llms-for-your-commercial-genai-projects-2edn)
 <!-- BLOG-POST-LIST:END -->
 
