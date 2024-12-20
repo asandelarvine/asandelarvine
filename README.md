@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New diagnostic rules in PVS-Studio 7.34](https://dev.to/pvsdev/new-diagnostic-rules-in-pvs-studio-734-347e)
-- [Enhancing Hybrid Search in MongoDB: Combining RRF, Thresholds, and Weights](https://dev.to/shannonlal/enhancing-hybrid-search-in-mongodb-combining-rrf-thresholds-and-weights-3np1)
-- [The Future of Web Development: Trends to Watch in 2025](https://dev.to/jbconcept/the-future-of-web-development-trends-to-watch-in-2025-4pfe)
-- [Unlock the Potential of GenAI: 9 Open Source LLMs for Your Commercial GenAI Projects](https://dev.to/mobisoft/unlock-the-potential-of-genai-9-open-source-llms-for-your-commercial-genai-projects-2edn)
+- [Revolutionize GitHub Issue Management with KaibanJS](https://dev.to/dariel_vila_2d5ebae1c430f/revolutionize-github-issue-management-with-kaibanjs-5dfj)
+- [Tired of AI Giving You &#39;Lazy Answers&#39;? Here&#39;s Our Solution](https://dev.to/yonghaowu/tired-of-ai-giving-you-lazy-answers-heres-our-solution-1o4j)
+- [Getting Started with Java: A Beginner&#39;s Guide](https://dev.to/bharu_0fec38bd0fb51b76742/getting-started-with-java-a-beginners-guide-54k5)
+- [Building Healthcare Platforms with Next.js](https://dev.to/pagepro_agency/building-healthcare-platforms-with-nextjs-4jc0)
 <!-- BLOG-POST-LIST:END -->
 
