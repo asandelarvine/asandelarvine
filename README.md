@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New PostgreSQL ORM for Golang: Enterprise](https://dev.to/samet_burgazoglu/new-postgresql-orm-for-golang-enterprise-1bja)
-- [Security news weekly round-up - 20th December 2024](https://dev.to/ziizium/security-news-weekly-round-up-20th-december-2024-4l67)
-- [The Only Shortcut to Becoming a Cloud/DevOps Engineer in 2025](https://dev.to/lindiwe09/the-only-shortcut-to-becoming-a-clouddevops-engineer-in-2025-510b)
-- [Pushing to Dev.to using GitHub](https://dev.to/sami_maachi/pushing-to-devto-using-github-29dd)
+- [Cowboy Casino Major Update](https://dev.to/w4ffl35/cowboy-casino-major-update-924)
+- [Carla Simulator 1 : How to Set Up CARLA Simulator – Toretto Style 🏎️🔥](https://dev.to/mitanshgor/carla-simulator-1-how-to-set-up-carla-simulator-toretto-style-3800)
+- [Carla Simulator 2 : Welcome to the Ride, Brian Cooper Here! 🚗🏍️](https://dev.to/mitanshgor/carla-simulator-2-welcome-to-the-ride-brian-cooper-here-4jbi)
+- [Learn Design Patterns: Understanding the Abstract Factory Pattern](https://dev.to/sami_maachi/pushing-to-devto-using-github-5594)
 <!-- BLOG-POST-LIST:END -->
 
