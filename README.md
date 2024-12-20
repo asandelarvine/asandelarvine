@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Continuous Monitoring: Enhancing IT Services Through Proactive Management](https://dev.to/adityabhuyan/continuous-monitoring-enhancing-it-services-through-proactive-management-54aa)
-- [Easily Integrate Databend Test Environment with Testcontainers](https://dev.to/ksanaka/easily-integrate-databend-test-environment-with-testcontainers-h69)
-- [Mastering Node.js Routing: A Complete Guide with Internal Workings Explained](https://dev.to/nishanthan-k/mastering-nodejs-routing-a-complete-guide-with-internal-workings-explained-4gkg)
-- [Global Error Handling in Angular](https://dev.to/neerajs/global-error-handling-in-angular-29b5)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0o)
+- [Day 20: Not a Dedent! 🚧](https://dev.to/valeriavg/day-20-not-a-dedent-4boj)
+- [10 Bad Practices to Avoid When Writing SQL Queries for Better Performance](https://dev.to/abhay_yt_52a8e72b213be229/10-bad-practices-to-avoid-when-writing-sql-queries-for-better-performance-3doe)
+- [Integrating TikTok API with Laravel: A Comprehensive Guide](https://dev.to/ehtesham_ali_abc367f36a5b/integrating-tiktok-api-with-laravel-a-comprehensive-guide-43op)
 <!-- BLOG-POST-LIST:END -->
 
