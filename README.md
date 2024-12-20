@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The JavaScript History API](https://dev.to/aryan_shourie/the-javascript-history-api-2e0d)
-- [🔥 9 WILDFIRE AI TOOLS for 2025🚒](https://dev.to/gajanan0707/9-wildfire-ai-tools-for-2025-4pki)
-- [Cómo instalar MySQL en una instancia EC2 con Amazon Linux 2023](https://dev.to/briansuarezsantiago/como-instalar-mysql-en-una-instancia-ec2-con-amazon-linux-2023-2128)
-- [📊Power BI: Fórmulas Dax e Medidas](https://dev.to/edineidev/power-bi-formulas-dax-e-medidas-20m)
+- [How Does the Internet Work?](https://dev.to/sinazinsaz/how-does-the-internet-work-4h17)
+- [Docker Compose Networking: A Guide to Efficient Container Communication](https://dev.to/abhay_yt_52a8e72b213be229/docker-compose-networking-a-guide-to-efficient-container-communication-523e)
+- [Singleton Design Pattern in Java](https://dev.to/thisismemukul/singleton-design-pattern-in-java-4m9p)
+- [Docker Compose: Simplifying Multi-Container Applications](https://dev.to/abhay_yt_52a8e72b213be229/docker-compose-simplifying-multi-container-applications-1b4c)
 <!-- BLOG-POST-LIST:END -->
 
