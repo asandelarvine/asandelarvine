@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI in Software Testing: Trends to Watch in 2025](https://dev.to/anil_csimplifyit_905c/the-future-of-ai-in-software-testing-trends-to-watch-in-2025-23ii)
-- [🛠 AI: Transforming How the World Thinks and Innovates 🛠](https://dev.to/arun_pal_3ce740a137cf15ad/ai-transforming-how-the-world-thinks-and-innovates-2aea)
-- [Youtube convertor app](https://dev.to/simangakhumalo/youtube-convertor-app-3gji)
-- [Build an Auto-Saving Memo App in 100 Lines with Flutter](https://dev.to/soraef/build-an-auto-saving-memo-app-in-100-lines-with-flutter-2g84)
+- [Wasm3 + TinyGo on PSP](https://dev.to/aethiopicuschan/wasm3-tinygo-on-psp-12c9)
+- [How to Simulate High CPU Usage on AWS Ubuntu Instances for Testing and Performance Optimization](https://dev.to/abstractmusa/how-to-simulate-high-cpu-usage-on-aws-ubuntu-instances-for-testing-and-performance-optimization-1f5f)
+- [How to Prevent Duplication in Data Aggregation with BladePipe](https://dev.to/bladepipe/how-to-prevent-duplication-in-data-aggregation-with-bladepipe-4on5)
+- [🚀 5 JavaScript Best Practices That Transformed My Code Quality](https://dev.to/devjordan/5-javascript-best-practices-that-transformed-my-code-quality-3bdl)
 <!-- BLOG-POST-LIST:END -->
 
