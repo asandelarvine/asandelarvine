@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does the Internet Work?](https://dev.to/sinazinsaz/how-does-the-internet-work-4h17)
-- [Docker Compose Networking: A Guide to Efficient Container Communication](https://dev.to/abhay_yt_52a8e72b213be229/docker-compose-networking-a-guide-to-efficient-container-communication-523e)
-- [Singleton Design Pattern in Java](https://dev.to/thisismemukul/singleton-design-pattern-in-java-4m9p)
-- [Docker Compose: Simplifying Multi-Container Applications](https://dev.to/abhay_yt_52a8e72b213be229/docker-compose-simplifying-multi-container-applications-1b4c)
+- [Today&#39;s Top 30+ items of Github - Dec 20, 2024](https://dev.to/gittech/todays-top-30-items-of-github-dec-20-2024-4l54)
+- [Backend Development Roadmap](https://dev.to/meenakshi_lodhirajput_8e/backend-development-roadmap-4o0m)
+- [How to Estimate Cloud Costs with Terraform using Infracost](https://dev.to/cloudcuddler/how-to-estimate-cloud-costs-with-terraform-using-infracost-55a3)
+- [4 Plataformas para você aprender UX Design](https://dev.to/vitoriazzp/4-plataformas-para-voce-aprender-ux-design-3cg0)
 <!-- BLOG-POST-LIST:END -->
 
