@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we optimized perceived performance to improve our KPIs: a Hotjar case study](https://dev.to/erykpiast/how-we-optimized-perceived-performance-to-improve-our-kpis-a-hotjar-case-study-4mkp)
-- [Learn .env in Express.js for Beginners &lpar;Effortless Setup&rpar;](https://dev.to/joodi/learn-env-in-expressjs-for-beginners-effortless-setup-clh)
-- [Announcement: Ada Developer Room at FOSDEM 2025](https://dev.to/pinotattari/announcement-ada-developer-room-at-fosdem-2025-59n6)
-- [LeetCode Challenge 13: Roman to Integer - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-13-roman-to-integer-javascript-solution-b4e)
+- [Have you Read this ?](https://dev.to/random_ti/have-you-read-this--4fdo)
+- [How to Build a Successful Online Store with Shopify?](https://dev.to/ravi_makhija/how-to-build-a-successful-online-store-with-shopify-1666)
+- [Full-Stack AI for Web Developers Book Launch + Manning Holiday Sale](https://dev.to/theodesp/full-stack-ai-for-web-developers-book-launch-manning-holiday-sale-4in6)
+- [You know when you&#39;ve been Wordled...](https://dev.to/matt_k/you-know-when-youve-been-wordled-3ako)
 <!-- BLOG-POST-LIST:END -->
 
