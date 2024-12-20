@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Azure App Service&rpar; Feature Flags in C#/Blazor App](https://dev.to/icebeam7/azure-app-service-feature-flags-in-cblazor-app-1ei8)
-- [Analyzing the communication protocol of the Decathlon Walk by domyos](https://dev.to/endes/analyzing-the-communication-protocol-of-the-decathlon-walk-by-domyos-3a36)
-- [Boost Your Productivity with SiteNotes: A Chrome Extension for Contextual Note-Taking](https://dev.to/vishwagauravin/boost-your-productivity-with-sitenotes-a-chrome-extension-for-contextual-note-taking-3a7m)
-- [Today&#39;s Top 30+ items of Github - Dec 20, 2024](https://dev.to/gittech/todays-top-30-items-of-github-dec-20-2024-4l54)
+- [68/365 | ¥10M Job Challenge - AI tool](https://dev.to/kameken100/68365-y10m-job-challenge-ai-tool-2lf1)
+- [6 Types of Git Branching Strategy](https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54)
+- [This Week In React #214 : Base UI, Custom Elements, Next.js, React Router, Android XR, iOS targets, Nitro, RNTL...](https://dev.to/sebastienlorber/this-week-in-react-214-base-ui-custom-elements-nextjs-react-router-android-xr-ios-targets-5d00)
+- [Click with Caution: A Beginner’s Guide to Cybersecurity](https://dev.to/tochi_/click-with-caution-a-beginners-guide-to-cybersecurity-3ajo)
 <!-- BLOG-POST-LIST:END -->
 
