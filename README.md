@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML &amp; CSS: Your Gateway to Building Stunning Websites](https://dev.to/techcrafted/html-css-your-gateway-to-building-stunning-websites-2hff)
-- [Using AWS Lambda as data processing for any IoT project.](https://dev.to/ken_cameron111/using-aws-lambda-as-data-processing-for-any-iot-project-3jgl)
-- [Deploying Node.js Application with AWS Elastic Beanstalk: A Beginner&#39;s Guide](https://dev.to/kier_thing/deploying-nodejs-application-with-aws-elastic-beanstalk-a-beginners-guide-52n7)
-- [A beginner&#39;s guide to the Remove-Bg model by Lucataco on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-remove-bg-model-by-lucataco-on-replicate-4n7p)
+- [Build Your YouTube Video Transcriber with Streamlit &amp; Youtube API&#39;s 🚀](https://dev.to/jagroop2001/build-your-youtube-video-transcriber-with-streamlit-youtube-apis-5faf)
+- [How to add comment from BlueSky to static/vue/nuxt project](https://dev.to/leamsigc/how-to-add-comment-from-bluesky-to-staticvuenuxt-project-n1h)
+- [How Neural Networks Learn: Behind the Scenes of AI Training](https://dev.to/umeshtharukaofficial/how-neural-networks-learn-behind-the-scenes-of-ai-training-24ee)
+- [The Great HashMap Heist: How Your Java Objects Are Secretly Losing Data 🕵️‍♂️](https://dev.to/argonite/the-great-hashmap-heist-how-your-java-objects-are-secretly-losing-data-3gk0)
 <!-- BLOG-POST-LIST:END -->
 
