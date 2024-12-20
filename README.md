@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your YouTube Video Transcriber with Streamlit &amp; Youtube API&#39;s 🚀](https://dev.to/jagroop2001/build-your-youtube-video-transcriber-with-streamlit-youtube-apis-5faf)
-- [How to add comment from BlueSky to static/vue/nuxt project](https://dev.to/leamsigc/how-to-add-comment-from-bluesky-to-staticvuenuxt-project-n1h)
-- [How Neural Networks Learn: Behind the Scenes of AI Training](https://dev.to/umeshtharukaofficial/how-neural-networks-learn-behind-the-scenes-of-ai-training-24ee)
-- [The Great HashMap Heist: How Your Java Objects Are Secretly Losing Data 🕵️‍♂️](https://dev.to/argonite/the-great-hashmap-heist-how-your-java-objects-are-secretly-losing-data-3gk0)
+- [Asset Tokenization on Blockchain: A Detailed Tutorial](https://dev.to/abijohn/asset-tokenization-on-blockchain-a-detailed-tutorial-2a3p)
+- [Asset Tokenization on Blockchain: A Detailed Tutorial](https://dev.to/abijohn/asset-tokenization-on-blockchain-a-detailed-tutorial-5gkc)
+- [Understanding YouTube Studio: The Ultimate Guide for Creators](https://dev.to/anindya_krnayak_cf1e0fa6/understanding-youtube-studio-the-ultimate-guide-for-creators-31e8)
+- [Optimizing Search Performance with Elastic Search&#39;s Profile API](https://dev.to/jetthoughts/optimizing-search-performance-with-elastic-searchs-profile-api-lje)
 <!-- BLOG-POST-LIST:END -->
 
