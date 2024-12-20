@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Computer Networks and the OSI Model](https://dev.to/iqra_firdose/a-beginners-guide-to-computer-networks-and-the-osi-model-47k8)
-- [Azure: Providing storage for a new company app](https://dev.to/johnogbonna/azure-providing-storage-for-a-new-company-app-34jf)
-- [Aspiring Tech Writer Looking to Collaborate with Developers!](https://dev.to/deborah_madu_03984faf7ae5/aspiring-tech-writer-looking-to-collaborate-with-developers-3743)
-- [Understanding Docker Compose File Format: Structure, Options, and Best Practices](https://dev.to/abhay_yt_52a8e72b213be229/understanding-docker-compose-file-format-structure-options-and-best-practices-3nob)
+- [Using Git Maintenance in GitHub Actions: Optimize Your Repositories Automatically](https://dev.to/this-is-learning/using-git-maintenance-in-github-actions-optimize-your-repositories-automatically-39ka)
+- [Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions](https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j)
+- [The Rise of Ultra Short Throw Projectors: The Future of Home Entertainment](https://dev.to/rbush1063/the-rise-of-ultra-short-throw-projectors-the-future-of-home-entertainment-650)
+- [Mastering gluestack-ui v2 Animations with NativeWind: A Step-by-Step Guide](https://dev.to/gluestackio/mastering-gluestack-ui-v2-animations-with-nativewind-a-step-by-step-guide-294g)
 <!-- BLOG-POST-LIST:END -->
 
