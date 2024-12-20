@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Efficiently Handle Errors in TypeScript 🚀](https://dev.to/info_generalhazedawn_a3d/how-to-efficiently-handle-errors-in-typescript-3gf8)
-- [AR ID PROJECT](https://dev.to/sidatgithubcode/ar-id-project-2hf4)
-- [Build Lightning-Fast Data Processing in Rust: From Single Thread to Parallel Performance](https://dev.to/ivansing/build-lightning-fast-data-processing-in-rust-from-single-thread-to-parallel-performance-gd8)
-- [What I Learned....](https://dev.to/tayodaniel/what-i-learned-4jde)
+- [Continuous Monitoring: Enhancing IT Services Through Proactive Management](https://dev.to/adityabhuyan/continuous-monitoring-enhancing-it-services-through-proactive-management-54aa)
+- [Easily Integrate Databend Test Environment with Testcontainers](https://dev.to/ksanaka/easily-integrate-databend-test-environment-with-testcontainers-h69)
+- [Mastering Node.js Routing: A Complete Guide with Internal Workings Explained](https://dev.to/nishanthan-k/mastering-nodejs-routing-a-complete-guide-with-internal-workings-explained-4gkg)
+- [Global Error Handling in Angular](https://dev.to/neerajs/global-error-handling-in-angular-29b5)
 <!-- BLOG-POST-LIST:END -->
 
