@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wasm3 + TinyGo on PSP](https://dev.to/aethiopicuschan/wasm3-tinygo-on-psp-12c9)
-- [How to Simulate High CPU Usage on AWS Ubuntu Instances for Testing and Performance Optimization](https://dev.to/abstractmusa/how-to-simulate-high-cpu-usage-on-aws-ubuntu-instances-for-testing-and-performance-optimization-1f5f)
-- [How to Prevent Duplication in Data Aggregation with BladePipe](https://dev.to/bladepipe/how-to-prevent-duplication-in-data-aggregation-with-bladepipe-4on5)
-- [🚀 5 JavaScript Best Practices That Transformed My Code Quality](https://dev.to/devjordan/5-javascript-best-practices-that-transformed-my-code-quality-3bdl)
+- [How to Efficiently Handle Errors in TypeScript 🚀](https://dev.to/info_generalhazedawn_a3d/how-to-efficiently-handle-errors-in-typescript-3gf8)
+- [AR ID PROJECT](https://dev.to/sidatgithubcode/ar-id-project-2hf4)
+- [Build Lightning-Fast Data Processing in Rust: From Single Thread to Parallel Performance](https://dev.to/ivansing/build-lightning-fast-data-processing-in-rust-from-single-thread-to-parallel-performance-gd8)
+- [What I Learned....](https://dev.to/tayodaniel/what-i-learned-4jde)
 <!-- BLOG-POST-LIST:END -->
 
