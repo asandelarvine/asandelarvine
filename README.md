@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neubrutalism React TypeScript Tailwind Portfolio Website](https://dev.to/seyma/neubrutalism-react-typescript-tailwind-portfolio-website-2m62)
-- [Fast Memory Copying in C#/.NET &lpar;Cache, AVX, Threads, Unsafe, Alternatives&rpar;](https://dev.to/peter_truchly_4fce0874fd5/fast-memory-copying-in-cnet-cache-avx-threads-unsafe-alternatives-h57)
-- [Learn Design Patterns: Understanding the Factory Method Pattern](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-factory-method-pattern-2cel)
-- [Ruby on Rails System testing &lpar;E2E testing&rpar; using Natural Language with OpenAI API](https://dev.to/yusukeiwaki/ruby-on-rails-system-testing-e2e-testing-using-natural-language-with-openai-5d24)
+- [New PostgreSQL ORM for Golang: Enterprise](https://dev.to/samet_burgazoglu/new-postgresql-orm-for-golang-enterprise-1bja)
+- [Security news weekly round-up - 20th December 2024](https://dev.to/ziizium/security-news-weekly-round-up-20th-december-2024-4l67)
+- [The Only Shortcut to Becoming a Cloud/DevOps Engineer in 2025](https://dev.to/lindiwe09/the-only-shortcut-to-becoming-a-clouddevops-engineer-in-2025-510b)
+- [Pushing to Dev.to using GitHub](https://dev.to/sami_maachi/pushing-to-devto-using-github-29dd)
 <!-- BLOG-POST-LIST:END -->
 
