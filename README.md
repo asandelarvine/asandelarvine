@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0o)
-- [Day 20: Not a Dedent! 🚧](https://dev.to/valeriavg/day-20-not-a-dedent-4boj)
-- [10 Bad Practices to Avoid When Writing SQL Queries for Better Performance](https://dev.to/abhay_yt_52a8e72b213be229/10-bad-practices-to-avoid-when-writing-sql-queries-for-better-performance-3doe)
-- [Integrating TikTok API with Laravel: A Comprehensive Guide](https://dev.to/ehtesham_ali_abc367f36a5b/integrating-tiktok-api-with-laravel-a-comprehensive-guide-43op)
+- [A Beginner’s Guide to Computer Networks and the OSI Model](https://dev.to/iqra_firdose/a-beginners-guide-to-computer-networks-and-the-osi-model-47k8)
+- [Azure: Providing storage for a new company app](https://dev.to/johnogbonna/azure-providing-storage-for-a-new-company-app-34jf)
+- [Aspiring Tech Writer Looking to Collaborate with Developers!](https://dev.to/deborah_madu_03984faf7ae5/aspiring-tech-writer-looking-to-collaborate-with-developers-3743)
+- [Understanding Docker Compose File Format: Structure, Options, and Best Practices](https://dev.to/abhay_yt_52a8e72b213be229/understanding-docker-compose-file-format-structure-options-and-best-practices-3nob)
 <!-- BLOG-POST-LIST:END -->
 
