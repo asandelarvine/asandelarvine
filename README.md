@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My React Journey: Day 22](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-22-4p57)
-- [Referential integrity In The Absence Of Foreign Key](https://dev.to/aws-heroes/referential-integrity-in-the-absence-of-foreign-key-3mbd)
-- [UI Improvements and Bug Fixes](https://dev.to/dev_d_akash/ui-improvements-and-bug-fixes-4g3e)
-- [Typing User Indicator &lpar;Bug Fixes and Optimization&rpar;](https://dev.to/dev_d_akash/typing-user-indicator-bug-fixes-and-optimization-2j8o)
+- [The Future of AI in Software Testing: Trends to Watch in 2025](https://dev.to/anil_csimplifyit_905c/the-future-of-ai-in-software-testing-trends-to-watch-in-2025-23ii)
+- [🛠 AI: Transforming How the World Thinks and Innovates 🛠](https://dev.to/arun_pal_3ce740a137cf15ad/ai-transforming-how-the-world-thinks-and-innovates-2aea)
+- [Youtube convertor app](https://dev.to/simangakhumalo/youtube-convertor-app-3gji)
+- [Build an Auto-Saving Memo App in 100 Lines with Flutter](https://dev.to/soraef/build-an-auto-saving-memo-app-in-100-lines-with-flutter-2g84)
 <!-- BLOG-POST-LIST:END -->
 
