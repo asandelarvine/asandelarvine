@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Git Maintenance in GitHub Actions: Optimize Your Repositories Automatically](https://dev.to/this-is-learning/using-git-maintenance-in-github-actions-optimize-your-repositories-automatically-39ka)
-- [Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions](https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j)
-- [The Rise of Ultra Short Throw Projectors: The Future of Home Entertainment](https://dev.to/rbush1063/the-rise-of-ultra-short-throw-projectors-the-future-of-home-entertainment-650)
-- [Mastering gluestack-ui v2 Animations with NativeWind: A Step-by-Step Guide](https://dev.to/gluestackio/mastering-gluestack-ui-v2-animations-with-nativewind-a-step-by-step-guide-294g)
+- [HTML &amp; CSS: Your Gateway to Building Stunning Websites](https://dev.to/techcrafted/html-css-your-gateway-to-building-stunning-websites-2hff)
+- [Using AWS Lambda as data processing for any IoT project.](https://dev.to/ken_cameron111/using-aws-lambda-as-data-processing-for-any-iot-project-3jgl)
+- [Deploying Node.js Application with AWS Elastic Beanstalk: A Beginner&#39;s Guide](https://dev.to/kier_thing/deploying-nodejs-application-with-aws-elastic-beanstalk-a-beginners-guide-52n7)
+- [A beginner&#39;s guide to the Remove-Bg model by Lucataco on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-remove-bg-model-by-lucataco-on-replicate-4n7p)
 <!-- BLOG-POST-LIST:END -->
 
