@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asset Tokenization on Blockchain: A Detailed Tutorial](https://dev.to/abijohn/asset-tokenization-on-blockchain-a-detailed-tutorial-2a3p)
-- [Asset Tokenization on Blockchain: A Detailed Tutorial](https://dev.to/abijohn/asset-tokenization-on-blockchain-a-detailed-tutorial-5gkc)
-- [Understanding YouTube Studio: The Ultimate Guide for Creators](https://dev.to/anindya_krnayak_cf1e0fa6/understanding-youtube-studio-the-ultimate-guide-for-creators-31e8)
-- [Optimizing Search Performance with Elastic Search&#39;s Profile API](https://dev.to/jetthoughts/optimizing-search-performance-with-elastic-searchs-profile-api-lje)
+- [How we optimized perceived performance to improve our KPIs: a Hotjar case study](https://dev.to/erykpiast/how-we-optimized-perceived-performance-to-improve-our-kpis-a-hotjar-case-study-4mkp)
+- [Learn .env in Express.js for Beginners &lpar;Effortless Setup&rpar;](https://dev.to/joodi/learn-env-in-expressjs-for-beginners-effortless-setup-clh)
+- [Announcement: Ada Developer Room at FOSDEM 2025](https://dev.to/pinotattari/announcement-ada-developer-room-at-fosdem-2025-59n6)
+- [LeetCode Challenge 13: Roman to Integer - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-13-roman-to-integer-javascript-solution-b4e)
 <!-- BLOG-POST-LIST:END -->
 
