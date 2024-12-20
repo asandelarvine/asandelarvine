@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize GitHub Issue Management with KaibanJS](https://dev.to/dariel_vila_2d5ebae1c430f/revolutionize-github-issue-management-with-kaibanjs-5dfj)
-- [Tired of AI Giving You &#39;Lazy Answers&#39;? Here&#39;s Our Solution](https://dev.to/yonghaowu/tired-of-ai-giving-you-lazy-answers-heres-our-solution-1o4j)
-- [Getting Started with Java: A Beginner&#39;s Guide](https://dev.to/bharu_0fec38bd0fb51b76742/getting-started-with-java-a-beginners-guide-54k5)
-- [Building Healthcare Platforms with Next.js](https://dev.to/pagepro_agency/building-healthcare-platforms-with-nextjs-4jc0)
+- [The JavaScript History API](https://dev.to/aryan_shourie/the-javascript-history-api-2e0d)
+- [🔥 9 WILDFIRE AI TOOLS for 2025🚒](https://dev.to/gajanan0707/9-wildfire-ai-tools-for-2025-4pki)
+- [Cómo instalar MySQL en una instancia EC2 con Amazon Linux 2023](https://dev.to/briansuarezsantiago/como-instalar-mysql-en-una-instancia-ec2-con-amazon-linux-2023-2128)
+- [📊Power BI: Fórmulas Dax e Medidas](https://dev.to/edineidev/power-bi-formulas-dax-e-medidas-20m)
 <!-- BLOG-POST-LIST:END -->
 
