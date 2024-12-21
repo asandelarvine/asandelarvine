@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Video Poker Skill or Luck? Strategies for Consistent Play](https://dev.to/boss_betz_5137b9baf2388c1/is-video-poker-skill-or-luck-strategies-for-consistent-play-745)
-- [This](https://dev.to/younesamalou/-4i53)
-- [How to get free twitter leads in 2025?](https://dev.to/engrisaac/how-to-get-free-twitter-leads-in-2025-5m1)
-- [LeetCode Challenge: 12. Integer to Roman - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-12-integer-to-roman-javascript-solution-1ee)
+- [Understanding Web Authentication: Sessions vs. JWTs](https://dev.to/arnav2004/understanding-web-authentication-sessions-vs-jwts-34nf)
+- [Les clés du développement web: React JS, TypeScript et TSX](https://dev.to/ftahiri/les-cles-du-developpement-web-react-js-typescript-et-tsx-3gp0)
+- [How to Cut Down Work-from-Home Distractions as a Mom?](https://dev.to/ipremiums/how-to-cut-down-work-from-home-distractions-as-a-mom-23lm)
+- [Why Should Developers Consider Google Cloud Platform Over Other Providers?](https://dev.to/innovative-insight/why-should-developers-consider-google-cloud-platform-over-other-providers-21ag)
 <!-- BLOG-POST-LIST:END -->
 
