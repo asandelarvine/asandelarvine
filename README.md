@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Autoscaling: Dynamically Adjust Containers Based on Demand](https://dev.to/abhay_yt_52a8e72b213be229/docker-autoscaling-dynamically-adjust-containers-based-on-demand-5ec0)
-- [Docker in Production Environments: Best Practices and Strategies for Success](https://dev.to/abhay_yt_52a8e72b213be229/docker-in-production-environments-best-practices-and-strategies-for-success-3ma6)
-- [Docker with Helm: Simplifying Kubernetes Deployment and Management](https://dev.to/abhay_yt_52a8e72b213be229/docker-with-helm-simplifying-kubernetes-deployment-and-management-2hkj)
-- [Docker and Kubernetes Integration: The Ultimate Solution for Containerized Applications](https://dev.to/abhay_yt_52a8e72b213be229/docker-and-kubernetes-integration-the-ultimate-solution-for-containerized-applications-3h37)
+- [Explore use of agents to comment you code](https://dev.to/bsorrentino/explore-use-of-agents-to-comment-you-code-51ok)
+- [MBA em Desenvolvimento de Software Avançado com foco em Ruby on Rails](https://dev.to/alexandrecalaca/mba-em-desenvolvimento-de-software-avancado-com-foco-em-ruby-on-rails-3plj)
+- [🌿 Why RabbitMQ is Faster than Apache Kafka and When to Use Each](https://dev.to/zororaka/why-rabbitmq-is-faster-than-apache-kafka-and-when-to-use-each-2565)
+- [Discuss: What&#39;s your tech Prediction for 2025?](https://dev.to/hr21don/discuss-whats-your-tech-prediction-for-2025-5d6a)
 <!-- BLOG-POST-LIST:END -->
 
