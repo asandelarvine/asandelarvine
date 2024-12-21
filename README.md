@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2024-9935 - PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download](https://dev.to/verylazytech/cve-2024-9935-pdf-generator-addon-for-elementor-page-builder-175-unauthenticated-arbitrary-5138)
-- [5 Essential Patterns for Building Resilient Java Microservices: A Developer&#39;s Guide](https://dev.to/aaravjoshi/5-essential-patterns-for-building-resilient-java-microservices-a-developers-guide-3cf6)
-- [Install AWS CLI &lpar;Command Line Interface&rpar; on Ubuntu](https://dev.to/abstractmusa/install-aws-cli-command-line-interface-on-ubuntu-1b50)
-- [When Should You Create Views in Your Database?](https://dev.to/arkdevsolutions/when-should-you-create-views-in-your-database-52hb)
+- [Is Video Poker Skill or Luck? Strategies for Consistent Play](https://dev.to/boss_betz_5137b9baf2388c1/is-video-poker-skill-or-luck-strategies-for-consistent-play-745)
+- [This](https://dev.to/younesamalou/-4i53)
+- [How to get free twitter leads in 2025?](https://dev.to/engrisaac/how-to-get-free-twitter-leads-in-2025-5m1)
+- [LeetCode Challenge: 12. Integer to Roman - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-12-integer-to-roman-javascript-solution-1ee)
 <!-- BLOG-POST-LIST:END -->
 
