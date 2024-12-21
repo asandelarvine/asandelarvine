@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking program](https://dev.to/cvc_games/hacking-program-46gi)
-- [Highly scalable image storage solution with AWS Serverless - Building File API for Uploads and Downloads](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-building-file-api-for-uploads-and-2kgb)
-- [Important Topics for Frontend Developers to Master in 2025](https://dev.to/moibra/important-topics-for-frontend-developers-to-master-in-2025-59jo)
-- [10 Statistical Terms to Know as a Data Analyst](https://dev.to/moubarakmohame4/10-statistical-terms-to-know-as-a-data-analyst-15hh)
+- [Did you know there’s a state of the web report?](https://dev.to/urbanisierung/did-you-know-theres-a-state-of-the-web-report-53ad)
+- [Live Azure VM Workshop | Deploy and Manage Azure VMs: RDP, Resize, Troubleshoot, IIS Setup](https://dev.to/s3cloudhub/live-azure-vm-workshop-deploy-and-manage-azure-vms-rdp-resize-troubleshoot-iis-setup-529b)
+- [Memory PCB: The Heart of Data Storage and Processing](https://dev.to/yoy/memory-pcb-the-heart-of-data-storage-and-processing-efn)
+- [Building a Real-Time Flask and Next.js Application with Redis, Socket.IO, and Docker Compose](https://dev.to/aixart/building-a-real-time-flask-and-nextjs-application-with-redis-socketio-and-docker-compose-5d6j)
 <!-- BLOG-POST-LIST:END -->
 
