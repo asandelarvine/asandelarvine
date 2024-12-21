@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Tech Stack for Your Next Project: Insights and Recommendations](https://dev.to/jetthoughts/choosing-the-right-tech-stack-for-your-next-project-insights-and-recommendations-101b)
-- [From SLIM to ERB: A Developer&#39;s Journey Back to Classic Templates](https://dev.to/jetthoughts/from-slim-to-erb-a-developers-journey-back-to-classic-templates-3ipd)
-- [Mastering Link Creation in Rails: Best Practices Unveiled](https://dev.to/jetthoughts/mastering-link-creation-in-rails-best-practices-unveiled-4eea)
-- [Learn Design Patterns: Unlocking the Power of the Prototype Design Pattern](https://dev.to/sami_maachi/learn-design-patterns-unlocking-the-power-of-the-prototype-design-pattern-1440)
+- [Can you find the error in this Nextjs code?](https://dev.to/kelsey-d/can-you-find-the-error-in-this-nextjs-code-249g)
+- [Fine-Tuning T5-Small Model for a Completely New Language: Limbu](https://dev.to/bedram-tamang/fine-tuning-t5-small-model-for-a-completely-new-language-limbu-4c4n)
+- [AI Software Testing: Improving Quality Assurance with Artificial Intelligence](https://dev.to/anil_csimplifyit_905c/ai-software-testing-improving-quality-assurance-with-artificial-intelligence-932)
+- [Things About Nonce &amp; CSRF Token: Differences, Use Cases, and How They Work](https://dev.to/finfin/things-about-nonce-csrf-token-differences-use-cases-and-how-they-work-2nk1)
 <!-- BLOG-POST-LIST:END -->
 
