@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Welcome to the LazyVim Adventure! 🎉 Part1](https://dev.to/memlens/welcome-to-the-lazyvim-adventure-5he2)
-- [Real-World Success Stories of AI-Powered Upskilling](https://dev.to/neural-minds/real-world-success-stories-of-ai-powered-upskilling-5f2k)
-- [Day 21: In the name of Progress! 📈](https://dev.to/valeriavg/day-21-for-the-progress-4369)
-- [TypeScript for Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/shafayeat/typescript-for-domain-driven-design-ddd-6kk)
+- [SOPS - Secrets encryptés dans un dépôt GIT](https://dev.to/onepoint/sops-secrets-encryptes-dans-un-depot-git-1c04)
+- [Create Professional Banners with the As Seen On Image Generator Online](https://dev.to/foxinfotech/create-professional-banners-with-the-as-seen-on-image-generator-online-p50)
+- [go调用solidity合约新方法](https://dev.to/xiaodao/godiao-yong-solidityhe-yue-xin-fang-fa-lp2)
+- [Untold Aspects of Software Engineering Interviews from an ex-Meta Engineer](https://dev.to/chetan_hs_c12b4d5cd3fdded/untold-aspects-of-software-engineering-interviews-from-an-ex-meta-engineer-2356)
 <!-- BLOG-POST-LIST:END -->
 
