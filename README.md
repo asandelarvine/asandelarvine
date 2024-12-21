@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-side rendering without Next.js, Remix, Nuxt.js, etc.](https://dev.to/hmpljs/server-side-rendering-without-nextjs-remix-nuxtjs-etc-14fe)
-- [Introducing LightUp: AI-Powered Annotations for the Web](https://dev.to/sadiq_mooo/introducing-lightup-ai-powered-annotations-for-the-web-301j)
-- [TailwindCSS The Great!](https://dev.to/arunkrish11/tailwindcss-the-great-6m3)
-- [Is ChatGPT Losing Its Mind? The Curious Case of Declining LLM Performance](https://dev.to/trev_the_dev/is-chatgpt-losing-its-mind-the-curious-case-of-declining-llm-performance-58ei)
+- [Offering help with a project](https://dev.to/mat7/offering-help-with-a-project-54p2)
+- [AWS CLI: Instalación en Windows y Linux, y Uso Básico](https://dev.to/fernandosilvot/aws-cli-instalacion-en-windows-y-linux-y-uso-basico-l2e)
+- [Mastering Next.js Deployment on EC2: Direct vs Apache Setup 🚀](https://dev.to/devopsbysetchuko/mastering-nextjs-deployment-on-ec2-direct-vs-apache-setup-1h3i)
+- [Mastering CSS: A Complete Guide to Styling Modern Websites](https://dev.to/dimasyoga42/mastering-css-a-complete-guide-to-styling-modern-websites-44ol)
 <!-- BLOG-POST-LIST:END -->
 
