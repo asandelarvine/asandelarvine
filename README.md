@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Odoo v 17 with Python 3.12 in MSWindows 11](https://dev.to/jeevanizm/install-odoo-v-17-with-python-312-in-mswindows-11-3m0m)
-- [How to integrate pgvector&#39;s Docker image with Langchain?](https://dev.to/busycaesar/how-to-integrate-pgvectors-docker-image-with-langchain-2o3b)
-- [Crafting Robust Applications Across AWS, On-Premises, and Data Centers: A Comprehensive Technical Guide](https://dev.to/akhil_mittal/crafting-robust-applications-across-aws-on-premises-and-data-centers-a-comprehensive-technical-15e2)
-- [A Walkthrough of Solidity Custom Errors](https://dev.to/block_experts_766a3a21915637/a-walkthrough-of-solidity-custom-errors-88g)
+- [Mastering software architecture patterns PART 2](https://dev.to/lorebrada00/-363)
+- [Getting Started with Playwright: A Step-by-Step Guide](https://dev.to/aswani25/getting-started-with-playwright-a-step-by-step-guide-479j)
+- [12 Projects In 12 Months Challenge](https://dev.to/raihanstark/12-projects-in-12-months-challenge-25hh)
+- [GenAIScript - Comment Code with AI](https://dev.to/bsorrentino/genaiscript-comment-code-with-ai-509f)
 <!-- BLOG-POST-LIST:END -->
 
