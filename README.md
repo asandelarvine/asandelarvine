@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering software architecture patterns PART 2](https://dev.to/lorebrada00/-363)
-- [Getting Started with Playwright: A Step-by-Step Guide](https://dev.to/aswani25/getting-started-with-playwright-a-step-by-step-guide-479j)
-- [12 Projects In 12 Months Challenge](https://dev.to/raihanstark/12-projects-in-12-months-challenge-25hh)
-- [GenAIScript - Comment Code with AI](https://dev.to/bsorrentino/genaiscript-comment-code-with-ai-509f)
+- [QR Code Generator Using HTML, CSS, and JavaScript](https://dev.to/doxa_dev/qr-code-generator-using-html-css-and-javascript-1deh)
+- [WIP Notes working though Render hosting Postgres + SQL Alchemy + Flask + Vite + React-ts + React-query + Wouter + Tailwind](https://dev.to/codewander/notes-working-though-render-hosting-postgres-sql-alchemy-flask-vite-react-ts-react-query-2ili)
+- [A Beginners Guide to Serverless API Gateway Authentication with Lambda Authorizer](https://dev.to/aws-builders/a-beginners-guide-to-serverless-api-gateway-authentication-with-lambda-authorizer-1ach)
+- [Frontend Challenge - December Edition](https://dev.to/fazly_fathhy/frontend-challenge-december-edition-203i)
 <!-- BLOG-POST-LIST:END -->
 
