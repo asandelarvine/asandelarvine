@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Identifying Duplicate Elements in Arrays: A Comprehensive Guide for Aspiring Programmers](https://dev.to/rk042/identifying-duplicate-elements-in-arrays-a-comprehensive-guide-for-aspiring-programmers-3eh3)
-- [AWS CDK - aws-lambda-nodejs Module &lpar;updated&rpar;](https://dev.to/vanroy86/aws-cdk-aws-lambda-nodejs-module-updated-n3i)
-- [Mastering Azure Monitor: A Step-by-Step Guide to Monitoring Your Azure Virtual Machine Like a Pro](https://dev.to/unique-tea/mastering-azure-monitor-a-step-by-step-guide-to-monitoring-your-azure-virtual-machine-like-a-pro-33ko)
-- [Test. 1](https://dev.to/himanshu_mishra_13/test-1-5f4o)
+- [🎉 Welcome to the LazyVim Adventure! 🎉 Part1](https://dev.to/memlens/welcome-to-the-lazyvim-adventure-5he2)
+- [Real-World Success Stories of AI-Powered Upskilling](https://dev.to/neural-minds/real-world-success-stories-of-ai-powered-upskilling-5f2k)
+- [Day 21: In the name of Progress! 📈](https://dev.to/valeriavg/day-21-for-the-progress-4369)
+- [TypeScript for Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/shafayeat/typescript-for-domain-driven-design-ddd-6kk)
 <!-- BLOG-POST-LIST:END -->
 
