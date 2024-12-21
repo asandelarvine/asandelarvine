@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Offering help with a project](https://dev.to/mat7/offering-help-with-a-project-54p2)
-- [AWS CLI: Instalación en Windows y Linux, y Uso Básico](https://dev.to/fernandosilvot/aws-cli-instalacion-en-windows-y-linux-y-uso-basico-l2e)
-- [Mastering Next.js Deployment on EC2: Direct vs Apache Setup 🚀](https://dev.to/devopsbysetchuko/mastering-nextjs-deployment-on-ec2-direct-vs-apache-setup-1h3i)
-- [Mastering CSS: A Complete Guide to Styling Modern Websites](https://dev.to/dimasyoga42/mastering-css-a-complete-guide-to-styling-modern-websites-44ol)
+- [Docker Autoscaling: Dynamically Adjust Containers Based on Demand](https://dev.to/abhay_yt_52a8e72b213be229/docker-autoscaling-dynamically-adjust-containers-based-on-demand-5ec0)
+- [Docker in Production Environments: Best Practices and Strategies for Success](https://dev.to/abhay_yt_52a8e72b213be229/docker-in-production-environments-best-practices-and-strategies-for-success-3ma6)
+- [Docker with Helm: Simplifying Kubernetes Deployment and Management](https://dev.to/abhay_yt_52a8e72b213be229/docker-with-helm-simplifying-kubernetes-deployment-and-management-2hkj)
+- [Docker and Kubernetes Integration: The Ultimate Solution for Containerized Applications](https://dev.to/abhay_yt_52a8e72b213be229/docker-and-kubernetes-integration-the-ultimate-solution-for-containerized-applications-3h37)
 <!-- BLOG-POST-LIST:END -->
 
