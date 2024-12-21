@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Authentication: Sessions vs. JWTs](https://dev.to/arnav2004/understanding-web-authentication-sessions-vs-jwts-34nf)
-- [Les clés du développement web: React JS, TypeScript et TSX](https://dev.to/ftahiri/les-cles-du-developpement-web-react-js-typescript-et-tsx-3gp0)
-- [How to Cut Down Work-from-Home Distractions as a Mom?](https://dev.to/ipremiums/how-to-cut-down-work-from-home-distractions-as-a-mom-23lm)
-- [Why Should Developers Consider Google Cloud Platform Over Other Providers?](https://dev.to/innovative-insight/why-should-developers-consider-google-cloud-platform-over-other-providers-21ag)
+- [testv3](https://dev.to/himanshu_mishra_13/testv3-1mfm)
+- [what is jq? a program for json files](https://dev.to/akaak/what-is-jq-a-program-for-json-files-2dhg)
+- [Introduction to Gleam Programming Language](https://dev.to/sharsha315/introduction-to-gleam-programming-language-1c7n)
+- [5. Mocking usePathName, useSearchParams and useRouter with Jest in Next 15](https://dev.to/peterlidee/5-mocking-usepathname-usesearchparams-and-userouter-with-jest-in-next-15-3coh)
 <!-- BLOG-POST-LIST:END -->
 
