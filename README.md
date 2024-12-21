@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you find the error in this Nextjs code?](https://dev.to/kelsey-d/can-you-find-the-error-in-this-nextjs-code-249g)
-- [Fine-Tuning T5-Small Model for a Completely New Language: Limbu](https://dev.to/bedram-tamang/fine-tuning-t5-small-model-for-a-completely-new-language-limbu-4c4n)
-- [AI Software Testing: Improving Quality Assurance with Artificial Intelligence](https://dev.to/anil_csimplifyit_905c/ai-software-testing-improving-quality-assurance-with-artificial-intelligence-932)
-- [Things About Nonce &amp; CSRF Token: Differences, Use Cases, and How They Work](https://dev.to/finfin/things-about-nonce-csrf-token-differences-use-cases-and-how-they-work-2nk1)
+- [Azure DevOps Flutter IOS CI Pipeline](https://dev.to/mohamedamr/azure-devops-flutter-ios-ci-pipeline-1kb)
+- [Day 12: Layouts and Floats](https://dev.to/theoriginalbpc/day-12-layouts-and-floats-58dl)
+- [How to create efficient containers](https://dev.to/sidikndik/how-to-create-efficient-containers-1fkf)
+- [A Practical Guide to Reducing LLM Hallucinations with Sandboxed Code Interpreter](https://dev.to/dbolotov/a-practical-guide-to-reducing-llm-hallucinations-with-sandboxed-code-interpreter-nbb)
 <!-- BLOG-POST-LIST:END -->
 
