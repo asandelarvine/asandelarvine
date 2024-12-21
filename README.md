@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOPS - Secrets encryptés dans un dépôt GIT](https://dev.to/onepoint/sops-secrets-encryptes-dans-un-depot-git-1c04)
-- [Create Professional Banners with the As Seen On Image Generator Online](https://dev.to/foxinfotech/create-professional-banners-with-the-as-seen-on-image-generator-online-p50)
-- [go调用solidity合约新方法](https://dev.to/xiaodao/godiao-yong-solidityhe-yue-xin-fang-fa-lp2)
-- [Untold Aspects of Software Engineering Interviews from an ex-Meta Engineer](https://dev.to/chetan_hs_c12b4d5cd3fdded/untold-aspects-of-software-engineering-interviews-from-an-ex-meta-engineer-2356)
+- [Hacking program](https://dev.to/cvc_games/hacking-program-46gi)
+- [Highly scalable image storage solution with AWS Serverless - Building File API for Uploads and Downloads](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-building-file-api-for-uploads-and-2kgb)
+- [Important Topics for Frontend Developers to Master in 2025](https://dev.to/moibra/important-topics-for-frontend-developers-to-master-in-2025-59jo)
+- [10 Statistical Terms to Know as a Data Analyst](https://dev.to/moubarakmohame4/10-statistical-terms-to-know-as-a-data-analyst-15hh)
 <!-- BLOG-POST-LIST:END -->
 
