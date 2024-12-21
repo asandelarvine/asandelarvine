@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Did you know there’s a state of the web report?](https://dev.to/urbanisierung/did-you-know-theres-a-state-of-the-web-report-53ad)
-- [Live Azure VM Workshop | Deploy and Manage Azure VMs: RDP, Resize, Troubleshoot, IIS Setup](https://dev.to/s3cloudhub/live-azure-vm-workshop-deploy-and-manage-azure-vms-rdp-resize-troubleshoot-iis-setup-529b)
-- [Memory PCB: The Heart of Data Storage and Processing](https://dev.to/yoy/memory-pcb-the-heart-of-data-storage-and-processing-efn)
-- [Building a Real-Time Flask and Next.js Application with Redis, Socket.IO, and Docker Compose](https://dev.to/aixart/building-a-real-time-flask-and-nextjs-application-with-redis-socketio-and-docker-compose-5d6j)
+- [My Journey to Creating a Supportive Community for Freelancers &amp; Small Business Owners - #1: The Vision](https://dev.to/per-starke-642/my-journey-to-creating-a-supportive-community-for-freelancers-small-business-owners-1-the-47go)
+- [A Pleasant Work Environment = Better Productivity](https://dev.to/nozibul_islam_113b1d5334f/a-pleasant-work-environment-better-productivity-jil)
+- [Create scalable and fault-tolerant microservices architecture](https://dev.to/neers/create-scalable-and-fault-tolerant-microservices-architecture-50k0)
+- [Difference between AddScoped, AddTransient and AddSingleton in .netcore](https://dev.to/neers/difference-between-addscoped-addtransient-and-addsingleton-in-netcore-2c8f)
 <!-- BLOG-POST-LIST:END -->
 
