@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Creating a Supportive Community for Freelancers &amp; Small Business Owners - #1: The Vision](https://dev.to/per-starke-642/my-journey-to-creating-a-supportive-community-for-freelancers-small-business-owners-1-the-47go)
-- [A Pleasant Work Environment = Better Productivity](https://dev.to/nozibul_islam_113b1d5334f/a-pleasant-work-environment-better-productivity-jil)
-- [Create scalable and fault-tolerant microservices architecture](https://dev.to/neers/create-scalable-and-fault-tolerant-microservices-architecture-50k0)
-- [Difference between AddScoped, AddTransient and AddSingleton in .netcore](https://dev.to/neers/difference-between-addscoped-addtransient-and-addsingleton-in-netcore-2c8f)
+- [From Concept to Impact: A Journey Through My Fraud Detection Model](https://dev.to/ccinaza/from-concept-to-impact-a-journey-through-my-fraud-detection-model-2nc3)
+- [Github Copilot is Now Free: Here&#39;s How to Set It Up](https://dev.to/angelocodes/github-copilot-is-now-free-heres-how-to-set-it-up-32kg)
+- [Database Generation](https://dev.to/farlamo/database-generation-1kpb)
+- [Learn how to create an animated navigation on scroll with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-dfe)
 <!-- BLOG-POST-LIST:END -->
 
