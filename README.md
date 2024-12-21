@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring HuggingFace and Building an AI Exam Question Generator](https://dev.to/kurtchan/exploring-huggingface-and-building-an-ai-exam-question-generator-3e2d)
+- [Transform Your API Logs Into Interactive Visualizations with This Free Online Tool](https://dev.to/foxinfotech/transform-your-api-logs-into-interactive-visualizations-with-this-free-online-tool-3np0)
+- [Leitura comentada - Arquitetura Limpa - Princípios dos componentes](https://dev.to/ifelipedev/leitura-comentada-arquitetura-limpa-principios-dos-componentes-18kc)
 - [Azure DevOps Flutter IOS CI Pipeline](https://dev.to/mohamedamr/azure-devops-flutter-ios-ci-pipeline-1kb)
-- [Day 12: Layouts and Floats](https://dev.to/theoriginalbpc/day-12-layouts-and-floats-58dl)
-- [How to create efficient containers](https://dev.to/sidikndik/how-to-create-efficient-containers-1fkf)
-- [A Practical Guide to Reducing LLM Hallucinations with Sandboxed Code Interpreter](https://dev.to/dbolotov/a-practical-guide-to-reducing-llm-hallucinations-with-sandboxed-code-interpreter-nbb)
 <!-- BLOG-POST-LIST:END -->
 
