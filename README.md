@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [testv3](https://dev.to/himanshu_mishra_13/testv3-1mfm)
-- [what is jq? a program for json files](https://dev.to/akaak/what-is-jq-a-program-for-json-files-2dhg)
-- [Introduction to Gleam Programming Language](https://dev.to/sharsha315/introduction-to-gleam-programming-language-1c7n)
-- [5. Mocking usePathName, useSearchParams and useRouter with Jest in Next 15](https://dev.to/peterlidee/5-mocking-usepathname-usesearchparams-and-userouter-with-jest-in-next-15-3coh)
+- [Install Odoo v 17 with Python 3.12 in MSWindows 11](https://dev.to/jeevanizm/install-odoo-v-17-with-python-312-in-mswindows-11-3m0m)
+- [How to integrate pgvector&#39;s Docker image with Langchain?](https://dev.to/busycaesar/how-to-integrate-pgvectors-docker-image-with-langchain-2o3b)
+- [Crafting Robust Applications Across AWS, On-Premises, and Data Centers: A Comprehensive Technical Guide](https://dev.to/akhil_mittal/crafting-robust-applications-across-aws-on-premises-and-data-centers-a-comprehensive-technical-15e2)
+- [A Walkthrough of Solidity Custom Errors](https://dev.to/block_experts_766a3a21915637/a-walkthrough-of-solidity-custom-errors-88g)
 <!-- BLOG-POST-LIST:END -->
 
