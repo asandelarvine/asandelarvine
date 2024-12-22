@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence in Software Testing: A Guide for Manufacturers](https://dev.to/arun_pal_3ce740a137cf15ad/artificial-intelligence-in-software-testing-a-guide-for-manufacturers-2l34)
-- [🤖 AI Testers: Revolutionizing Software Testing with GenQE.ai 🧪](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-testers-revolutionizing-software-testing-with-genqeai-3b47)
-- [Servlet: The Foundation of Java Web Technology](https://dev.to/ahmedjaad/servlet-the-foundation-of-java-web-technology-okh)
-- [Week 4 Recap of #100DaysOfCode](https://dev.to/lymah/week-4-recap-of-100daysofcode-1ccj)
+- [AI Cabin Crew: Taking Teamwork to New Heights](https://dev.to/khaisimon_devgame/ai-cabin-crew-taking-teamwork-to-new-heights-1af0)
+- [Alarme Dynamo Throttle Events - Discord](https://dev.to/aldeiacloud/alarme-dynamo-throttle-events-discord-51if)
+- [60-Second Series - Amazon S3: The Simple Storage Solution for Your Data Needs](https://dev.to/aws-builders/60-second-series-amazon-s3-the-simple-storage-solution-for-your-data-needs-2gf0)
+- [MY FIRST GAME 🤩](https://dev.to/mince/my-first-game-4gf)
 <!-- BLOG-POST-LIST:END -->
 
