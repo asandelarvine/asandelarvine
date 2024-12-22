@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Winter Solstice](https://dev.to/ambatichaitanya/winter-solstice-3d8a)
-- [Mentoring for Women in IT: How to Get the Most Out of It](https://dev.to/kwan/mentoring-for-women-in-it-how-to-get-the-most-out-of-it-3dl2)
-- [2940. Find Building Where Alice and Bob Can Meet](https://dev.to/mdarifulhaque/2940-find-building-where-alice-and-bob-can-meet-2m2m)
-- [&lpar;Occasionally&rpar; Useful Web Tools For Android Developers](https://dev.to/berhram/occasionally-useful-web-tools-for-android-developers-4g48)
+- [¿Cómo solucionar el error &#39;GPG key is already installed&#39; al instalar MySQL en Amazon Linux 2023?](https://dev.to/briansuarezsantiago/como-solucionar-el-error-gpg-key-is-already-installed-al-instalar-mysql-en-amazon-linux-2023-bd)
+- [Cartoon Network Logo with Web Component](https://dev.to/citronbrick/cartoon-network-logo-with-web-component-4d8p)
+- [👺Nasty People, How to deal with them without stooping to their level.](https://dev.to/devmercy/nasty-people-how-to-deal-with-them-without-stooping-to-their-level-2fng)
+- [FSCSS Example](https://dev.to/fscss/fscss-example-1cpe)
 <!-- BLOG-POST-LIST:END -->
 
