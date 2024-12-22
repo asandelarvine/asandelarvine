@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Understanding Variables and Constants – The Building Blocks of C++](https://dev.to/datboimayank/day-3-understanding-variables-and-constants-the-building-blocks-of-c-ch3)
-- [Day 22: How the Tables have turned 🏓](https://dev.to/valeriavg/day-22-how-the-tables-have-turned-5307)
-- [Firebase with Next.js](https://dev.to/lior_amsalem_3879371237f6/firebase-with-nextjs-4bip)
-- [Integration of Contentful with Next.js](https://dev.to/lior_amsalem_3879371237f6/integration-of-contentful-with-nextjs-48e8)
+- [🚀 Exciting News for Developers: Run VS Code on Any Browser! 🌐](https://dev.to/rizwan486/exciting-news-for-developers-run-vs-code-on-any-browser-12kf)
+- [Preventing File Inclusion Vulnerabilities in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-file-inclusion-vulnerabilities-in-laravel-applications-o3d)
+- [Syntax highlight with Shiki and Adding Copy Functionality to Codeblocks](https://dev.to/vaishnavs/syntax-highlight-with-shiki-and-adding-copy-functionality-to-codeblocks-26el)
+- [The Only VPS Guide You&#39;ll Need: From Setup to Production in Simple Steps](https://dev.to/codexam/the-only-vps-guide-youll-need-from-setup-to-production-in-simple-steps-310i)
 <!-- BLOG-POST-LIST:END -->
 
