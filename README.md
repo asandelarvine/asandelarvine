@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I used [ Figma] to bring this concept to life and truly enjoyed every step of the process.](https://dev.to/mrugadnik/i-used-figma-to-bring-this-concept-to-life-and-truly-enjoyed-every-step-of-the-process-2gl5)
-- [Software Project Management for Website Development](https://dev.to/davidjonson/software-project-management-for-website-development-19f8)
-- [When Tech Plays Mind Games, The Curious Case of Uber Pricing](https://dev.to/shafayeat/when-tech-plays-mind-games-the-curious-case-of-uber-pricing-371)
-- [Data Privacy and Ethics: How to Safeguard User Data and Build Trust](https://dev.to/okoye_ndidiamaka_5e3b7d30/data-privacy-and-ethics-how-to-safeguard-user-data-and-build-trust-34i0)
+- [Build a Personal Blog with VS Code + Github](https://dev.to/frankie/build-a-personal-blog-with-vs-code-github-241k)
+- [PWA Pilipinas Roadshow in Baguio: A Night of Learning, Innovation, and Community](https://dev.to/kakacomputer-media/pwa-pilipinas-roadshow-in-baguio-a-night-of-learning-innovation-and-community-2ai5)
+- [What is generator function in JavaScript? and How does it work?](https://dev.to/imranshaik012/what-is-generator-function-in-javascript-and-how-does-it-work-5g8a)
+- [Download Video from s3 with Cloudfront, nodejs and react](https://dev.to/chocoscoding/download-video-from-s3-with-cloudfront-nodejs-and-react-15he)
 <!-- BLOG-POST-LIST:END -->
 
