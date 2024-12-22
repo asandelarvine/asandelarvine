@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como realizei o deploy do meu portfólio utilizando uma VPS](https://dev.to/fernandeess/como-realizei-o-deploy-do-meu-portfolio-utilizando-uma-vps-27je)
-- [&quot;Space-Ease: Rent Your Space, Park With Ease&quot;](https://dev.to/roy_amit/space-ease-rent-your-space-park-with-ease-21bg)
-- [Tea Loop - A/B testing with DevCycle](https://dev.to/schemetastic/tea-loop-ab-testing-with-devcycle-2hgb)
-- [Introducing fck-nat: Cost optimized alternative to AWS NAT Gateways](https://dev.to/dhoang1905/introducing-fck-nat-cost-optimized-alternative-to-aws-nat-gateways-24a)
+- [Supercharge Your API Performance with Asynchronous Programming in FastAPI](https://dev.to/saint_vandora/supercharge-your-api-performance-with-asynchronous-programming-in-fastapi-9g7)
+- [CustomFormField - Custom Widgets Series](https://dev.to/arafaysaleem/customformfield-custom-widgets-series-8ep)
+- [A simple HTML/CSS edition for the Frontend Challenge](https://dev.to/thomasbnt/a-simple-htmlcss-edition-for-the-frontend-challenge-2ic0)
+- [History of my ThinkPad X260](https://dev.to/nakidai/history-of-my-thinkpad-x260-439f)
 <!-- BLOG-POST-LIST:END -->
 
