@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo solucionar el error &#39;GPG key is already installed&#39; al instalar MySQL en Amazon Linux 2023?](https://dev.to/briansuarezsantiago/como-solucionar-el-error-gpg-key-is-already-installed-al-instalar-mysql-en-amazon-linux-2023-bd)
-- [Cartoon Network Logo with Web Component](https://dev.to/citronbrick/cartoon-network-logo-with-web-component-4d8p)
-- [👺Nasty People, How to deal with them without stooping to their level.](https://dev.to/devmercy/nasty-people-how-to-deal-with-them-without-stooping-to-their-level-2fng)
-- [FSCSS Example](https://dev.to/fscss/fscss-example-1cpe)
+- [What is a Proxy Server? Understanding the Middleman of the Internet](https://dev.to/lovestaco/what-is-a-proxy-server-understanding-the-middleman-of-the-internet-nmo)
+- [Studying at the University in the Age of Self-Learning. My Experience as the Design Student](https://dev.to/jakub_bobkowski/studying-at-the-university-in-the-age-of-self-learning-my-experience-as-the-top-student-317m)
+- [It&#39;s Okay to Code on Nights and Weekends](https://dev.to/tejas_kumar_83c520d6bef27/its-okay-to-code-on-nights-and-weekends-2m5d)
+- [Amazon GuardDuty: Protección contra amenazas y seguridad proactiva](https://dev.to/briansuarezsantiago/amazon-guardduty-proteccion-contra-amenazas-y-seguridad-proactiva-4eom)
 <!-- BLOG-POST-LIST:END -->
 
