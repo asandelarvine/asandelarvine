@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of Tailwind CSS: A Comprehensive Guide](https://dev.to/oliviarizona88/unleashing-the-power-of-tailwind-css-a-comprehensive-guide-5eai)
-- [🌟 Welcome to Forem: The Ultimate Platform for Building Thriving Communities!🌐](https://dev.to/hanzla-baig/welcome-to-forem-the-ultimate-platform-for-building-thriving-communities-1c1d)
-- [🚀 Introducing JSON Viewer Extension 2025: The Modern Way to Visualize JSON](https://dev.to/bugblitz98/introducing-json-viewer-extension-2025-the-modern-way-to-visualize-json-4kcn)
-- [60-Second Series - Amazon FSx: Purpose-Built File Storage](https://dev.to/aws-builders/60-second-series-amazon-fsx-purpose-built-file-storage-276b)
+- [Day 3: Understanding Variables and Constants – The Building Blocks of C++](https://dev.to/datboimayank/day-3-understanding-variables-and-constants-the-building-blocks-of-c-ch3)
+- [Day 22: How the Tables have turned 🏓](https://dev.to/valeriavg/day-22-how-the-tables-have-turned-5307)
+- [Firebase with Next.js](https://dev.to/lior_amsalem_3879371237f6/firebase-with-nextjs-4bip)
+- [Integration of Contentful with Next.js](https://dev.to/lior_amsalem_3879371237f6/integration-of-contentful-with-nextjs-48e8)
 <!-- BLOG-POST-LIST:END -->
 
