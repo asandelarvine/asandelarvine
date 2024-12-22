@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solution: &quot;Android Emulator Process has terminated&quot; - Windows 10](https://dev.to/pgomezec/solution-android-emulator-process-has-terminated-windows-10-219j)
-- [Dark Portfolio: A Fully Responsive Next.js 15 + TypeScript + Tailwind CSS Project](https://dev.to/seyma/dark-portfolio-a-fully-responsive-nextjs-15-typescript-tailwind-css-project-l3i)
-- [🎄CSS Art: December Challange - Christmas In Malaysia ✨](https://dev.to/juniourrau/css-art-december-challange-christmas-in-malaysia-1fjb)
-- [Redux Toolkit: Creating Thunk Functions](https://dev.to/hajarnasr/redux-toolkit-creating-thunk-functions-ic2)
+- [Winter Solstice](https://dev.to/ambatichaitanya/winter-solstice-3d8a)
+- [Mentoring for Women in IT: How to Get the Most Out of It](https://dev.to/kwan/mentoring-for-women-in-it-how-to-get-the-most-out-of-it-3dl2)
+- [2940. Find Building Where Alice and Bob Can Meet](https://dev.to/mdarifulhaque/2940-find-building-where-alice-and-bob-can-meet-2m2m)
+- [&lpar;Occasionally&rpar; Useful Web Tools For Android Developers](https://dev.to/berhram/occasionally-useful-web-tools-for-android-developers-4g48)
 <!-- BLOG-POST-LIST:END -->
 
