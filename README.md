@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LlamaFusion: How Language Models Can Create Images with Just 0.1% Parameter Changes](https://dev.to/mikeyoung44/llamafusion-how-language-models-can-create-images-with-just-01-parameter-changes-3mb8)
-- [AI Models Can Now Critique Their Own Work, Boosting Performance by 13%](https://dev.to/mikeyoung44/ai-models-can-now-critique-their-own-work-boosting-performance-by-13-4p9)
-- [New AI Model Processes Text 4x Faster While Using 75% Less Memory](https://dev.to/mikeyoung44/new-ai-model-processes-text-4x-faster-while-using-75-less-memory-1gmk)
-- [AI-Powered System Safely Converts Legacy C Code to Modern Rust with Automated Verification](https://dev.to/mikeyoung44/ai-powered-system-safely-converts-legacy-c-code-to-modern-rust-with-automated-verification-l0m)
+- [Amazon Q Developer Tips: No.22 Amazon Q Keyboard shortcuts](https://dev.to/aws/amazon-q-developer-tips-no22-amazon-q-keyboard-shortcuts-2kfc)
+- [New 47 GitHub Repositories - OpenSource of Dec 20, 2024](https://dev.to/gittech/new-47-github-repositories-opensource-of-dec-20-2024-4l5p)
+- [Enhancing LRU Cache with Configurable Data Persistence](https://dev.to/armando284/enhancing-lru-cache-with-configurable-data-persistence-37am)
+- [Top 10 Linux Commands Every DevOps Engineer Should Know](https://dev.to/imransaifi/top-10-linux-commands-every-devops-engineer-should-know-df8)
 <!-- BLOG-POST-LIST:END -->
 
