@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future of Frontend Technology: Trends and Innovations for 2025](https://dev.to/jetthoughts/exploring-the-future-of-frontend-technology-trends-and-innovations-for-2025-5hk6)
-- [Aeon&#39;s Surreal Renaissance: Learn SurrealDB Through a Story](https://dev.to/surrealdb/aeons-surreal-renaissance-learn-surrealdb-through-a-story-53kd)
-- [The Dotfiles Quest: Becoming a Configuration Wizard 🧙‍♂️](https://dev.to/memlens/the-dotfiles-quest-becoming-a-configuration-wizard-4ogo)
-- [Toán tử trong Javascript](https://dev.to/thaiduong2003/toan-tu-trong-javascript-4n4j)
+- [I used [ Figma] to bring this concept to life and truly enjoyed every step of the process.](https://dev.to/mrugadnik/i-used-figma-to-bring-this-concept-to-life-and-truly-enjoyed-every-step-of-the-process-2gl5)
+- [Software Project Management for Website Development](https://dev.to/davidjonson/software-project-management-for-website-development-19f8)
+- [When Tech Plays Mind Games, The Curious Case of Uber Pricing](https://dev.to/shafayeat/when-tech-plays-mind-games-the-curious-case-of-uber-pricing-371)
+- [Data Privacy and Ethics: How to Safeguard User Data and Build Trust](https://dev.to/okoye_ndidiamaka_5e3b7d30/data-privacy-and-ethics-how-to-safeguard-user-data-and-build-trust-34i0)
 <!-- BLOG-POST-LIST:END -->
 
