@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A technical blog on Git and Github, how to set up git, creating a repository, making commits, pushing,pulling](https://dev.to/olalekan_johnayansola_4a/a-technical-blog-on-git-and-github-how-to-set-up-git-creating-a-repository-making-commits-2b0d)
-- [Mastering Responsive Design: Best Practices for 2025](https://dev.to/gurjeetsinghvirdee/mastering-responsive-design-best-practices-for-2025-2gmn)
-- [Home for the Holidays: Staying Ahead of Cybersecurity Threats](https://dev.to/wvnuola/home-for-the-holidays-staying-ahead-of-cybersecurity-threats-2h)
-- [How to Become a Successful Software Developer in 2024](https://dev.to/empiree/how-to-become-a-successful-software-developer-in-2024-2f07)
+- [Artificial Intelligence in Software Testing: A Guide for Manufacturers](https://dev.to/arun_pal_3ce740a137cf15ad/artificial-intelligence-in-software-testing-a-guide-for-manufacturers-2l34)
+- [🤖 AI Testers: Revolutionizing Software Testing with GenQE.ai 🧪](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-testers-revolutionizing-software-testing-with-genqeai-3b47)
+- [Servlet: The Foundation of Java Web Technology](https://dev.to/ahmedjaad/servlet-the-foundation-of-java-web-technology-okh)
+- [Week 4 Recap of #100DaysOfCode](https://dev.to/lymah/week-4-recap-of-100daysofcode-1ccj)
 <!-- BLOG-POST-LIST:END -->
 
