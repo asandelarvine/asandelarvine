@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📉 Cardano &lpar;ADA&rpar; Could Fall 15% – Here’s Why 🚨](https://dev.to/sergi_web3/cardano-ada-could-fall-15-heres-why-40h1)
-- [🚀 Render: Can Whales Push RNDR to $8.13 After a 40% Dip? 📊🐋](https://dev.to/joshthebtc/render-can-whales-push-rndr-to-813-after-a-40-dip-4d7b)
-- [🚀 $AAVE : THESE Factors Could Drive the Coin to $351 📊🔥](https://dev.to/sergi_web3/aave-these-factors-could-drive-the-coin-to-351-3e7f)
-- [Dumriya Live - AWS Oriented Full Stack Application Infrastructure Overview](https://dev.to/janithdisanayake/dumriya-live-aws-oriented-full-stack-application-infrastructure-overview-o9f)
+- [State of JavaScript 2024 Results, GitHub Copilot Now Free, EPIC Developer Tools, and more](https://dev.to/thisweekinjavascript/state-of-javascript-2024-results-github-copilot-now-free-epic-developer-tools-and-more-3pbi)
+- [How to Integrate Tabby in React Native: A Step-by-Step Guide](https://dev.to/muhammad_harisbaig_1268d/how-to-integrate-tabby-in-react-native-a-step-by-step-guide-3ja)
+- [Inheritance vs Composition](https://dev.to/deepakbarwal/inheritance-vs-composition-4ef4)
+- [what is private ?](https://dev.to/hema_latha/what-is-private--5hbo)
 <!-- BLOG-POST-LIST:END -->
 
