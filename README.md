@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Driving AWS Fargate to the Edge: Matillion Hybrid Agents and Python Pandas](https://dev.to/zirkonium88/driving-aws-fargate-to-the-edge-matillion-hybrid-agents-and-python-pandas-1f1a)
-- [Web Scraping for Product Analysis and Price Comparison](https://dev.to/fahminlb33/web-scraping-for-product-analysis-and-price-comparison-1o9j)
-- [7 Essential Java Security Techniques: A Developer&#39;s Guide](https://dev.to/aaravjoshi/7-essential-java-security-techniques-a-developers-guide-3j4b)
-- [How to Make Cornell Notes with Notion: A Comprehensive Guide](https://dev.to/airabbit/how-to-make-cornell-notes-with-notion-a-comprehensive-guide-5hio)
+- [Is Software Engineering Still Worth It in 2025?](https://dev.to/koladev/is-software-engineering-still-worth-it-in-2025-j3b)
+- [The Linguistic and Economic Implications of an Arabic Programming Language](https://dev.to/ashras/the-linguistic-and-economic-implications-of-an-arabic-programming-language-4emj)
+- [Escape the Chrome Browsing Rabbit Hole](https://dev.to/airabbit/escape-the-chrome-browsing-rabbit-hole-f56)
+- [Webscraping com Python: usando CSV como base de dados](https://dev.to/casewinter/webscraping-com-python-usando-csv-como-base-de-dados-186k)
 <!-- BLOG-POST-LIST:END -->
 
