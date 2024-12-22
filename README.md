@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.22 Amazon Q Keyboard shortcuts](https://dev.to/aws/amazon-q-developer-tips-no22-amazon-q-keyboard-shortcuts-2kfc)
-- [New 47 GitHub Repositories - OpenSource of Dec 20, 2024](https://dev.to/gittech/new-47-github-repositories-opensource-of-dec-20-2024-4l5p)
-- [Enhancing LRU Cache with Configurable Data Persistence](https://dev.to/armando284/enhancing-lru-cache-with-configurable-data-persistence-37am)
-- [Top 10 Linux Commands Every DevOps Engineer Should Know](https://dev.to/imransaifi/top-10-linux-commands-every-devops-engineer-should-know-df8)
+- [Docker for Blue/Green Deployment: Achieve Zero Downtime Updates](https://dev.to/abhay_yt_52a8e72b213be229/docker-for-bluegreen-deployment-achieve-zero-downtime-updates-38mf)
+- [Docker for Load Balancing: Scaling Applications Efficiently](https://dev.to/abhay_yt_52a8e72b213be229/docker-for-load-balancing-scaling-applications-efficiently-494i)
+- [Docker in Microservices Architecture: Building Scalable and Resilient Systems](https://dev.to/abhay_yt_52a8e72b213be229/docker-in-microservices-architecture-building-scalable-and-resilient-systems-1h9k)
+- [Docker Autoscaling: Enhancing Application Resilience and Resource Efficiency](https://dev.to/abhay_yt_52a8e72b213be229/docker-autoscaling-enhancing-application-resilience-and-resource-efficiency-3nb8)
 <!-- BLOG-POST-LIST:END -->
 
