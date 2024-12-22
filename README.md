@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Personal Blog with VS Code + Github](https://dev.to/frankie/build-a-personal-blog-with-vs-code-github-241k)
-- [PWA Pilipinas Roadshow in Baguio: A Night of Learning, Innovation, and Community](https://dev.to/kakacomputer-media/pwa-pilipinas-roadshow-in-baguio-a-night-of-learning-innovation-and-community-2ai5)
-- [What is generator function in JavaScript? and How does it work?](https://dev.to/imranshaik012/what-is-generator-function-in-javascript-and-how-does-it-work-5g8a)
-- [Download Video from s3 with Cloudfront, nodejs and react](https://dev.to/chocoscoding/download-video-from-s3-with-cloudfront-nodejs-and-react-15he)
+- [Driving AWS Fargate to the Edge: Matillion Hybrid Agents and Python Pandas](https://dev.to/zirkonium88/driving-aws-fargate-to-the-edge-matillion-hybrid-agents-and-python-pandas-1f1a)
+- [Web Scraping for Product Analysis and Price Comparison](https://dev.to/fahminlb33/web-scraping-for-product-analysis-and-price-comparison-1o9j)
+- [7 Essential Java Security Techniques: A Developer&#39;s Guide](https://dev.to/aaravjoshi/7-essential-java-security-techniques-a-developers-guide-3j4b)
+- [How to Make Cornell Notes with Notion: A Comprehensive Guide](https://dev.to/airabbit/how-to-make-cornell-notes-with-notion-a-comprehensive-guide-5hio)
 <!-- BLOG-POST-LIST:END -->
 
