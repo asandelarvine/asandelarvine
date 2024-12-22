@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Unlock Unparalleled Community Power with Forem.dev 🚀 :The Future is Now!](https://dev.to/hanzla-baig/unlock-unparalleled-community-power-with-foremdev-the-future-is-now-pj4)
-- [TypeScript for Professionals](https://dev.to/dhanush9952/typescript-for-professionals-2309)
-- [60-Second Series - Amazon EFS: Elastic File Storage Simplified](https://dev.to/aws-builders/60-second-amazon-efs-elastic-file-storage-simplified-21hp)
-- [Al Samiul Himel](https://dev.to/alsamiulhimel/al-samiul-himel-1nda)
+- [Unleashing the Power of Tailwind CSS: A Comprehensive Guide](https://dev.to/oliviarizona88/unleashing-the-power-of-tailwind-css-a-comprehensive-guide-5eai)
+- [🌟 Welcome to Forem: The Ultimate Platform for Building Thriving Communities!🌐](https://dev.to/hanzla-baig/welcome-to-forem-the-ultimate-platform-for-building-thriving-communities-1c1d)
+- [🚀 Introducing JSON Viewer Extension 2025: The Modern Way to Visualize JSON](https://dev.to/bugblitz98/introducing-json-viewer-extension-2025-the-modern-way-to-visualize-json-4kcn)
+- [60-Second Series - Amazon FSx: Purpose-Built File Storage](https://dev.to/aws-builders/60-second-series-amazon-fsx-purpose-built-file-storage-276b)
 <!-- BLOG-POST-LIST:END -->
 
