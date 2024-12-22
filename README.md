@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Blue/Green Deployment: Achieve Zero Downtime Updates](https://dev.to/abhay_yt_52a8e72b213be229/docker-for-bluegreen-deployment-achieve-zero-downtime-updates-38mf)
-- [Docker for Load Balancing: Scaling Applications Efficiently](https://dev.to/abhay_yt_52a8e72b213be229/docker-for-load-balancing-scaling-applications-efficiently-494i)
-- [Docker in Microservices Architecture: Building Scalable and Resilient Systems](https://dev.to/abhay_yt_52a8e72b213be229/docker-in-microservices-architecture-building-scalable-and-resilient-systems-1h9k)
-- [Docker Autoscaling: Enhancing Application Resilience and Resource Efficiency](https://dev.to/abhay_yt_52a8e72b213be229/docker-autoscaling-enhancing-application-resilience-and-resource-efficiency-3nb8)
+- [Exploring the Future of Frontend Technology: Trends and Innovations for 2025](https://dev.to/jetthoughts/exploring-the-future-of-frontend-technology-trends-and-innovations-for-2025-5hk6)
+- [Aeon&#39;s Surreal Renaissance: Learn SurrealDB Through a Story](https://dev.to/surrealdb/aeons-surreal-renaissance-learn-surrealdb-through-a-story-53kd)
+- [The Dotfiles Quest: Becoming a Configuration Wizard 🧙‍♂️](https://dev.to/memlens/the-dotfiles-quest-becoming-a-configuration-wizard-4ogo)
+- [Toán tử trong Javascript](https://dev.to/thaiduong2003/toan-tu-trong-javascript-4n4j)
 <!-- BLOG-POST-LIST:END -->
 
