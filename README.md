@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Exciting News for Developers: Run VS Code on Any Browser! 🌐](https://dev.to/rizwan486/exciting-news-for-developers-run-vs-code-on-any-browser-12kf)
-- [Preventing File Inclusion Vulnerabilities in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-file-inclusion-vulnerabilities-in-laravel-applications-o3d)
-- [Syntax highlight with Shiki and Adding Copy Functionality to Codeblocks](https://dev.to/vaishnavs/syntax-highlight-with-shiki-and-adding-copy-functionality-to-codeblocks-26el)
-- [The Only VPS Guide You&#39;ll Need: From Setup to Production in Simple Steps](https://dev.to/codexam/the-only-vps-guide-youll-need-from-setup-to-production-in-simple-steps-310i)
+- [LlamaFusion: How Language Models Can Create Images with Just 0.1% Parameter Changes](https://dev.to/mikeyoung44/llamafusion-how-language-models-can-create-images-with-just-01-parameter-changes-3mb8)
+- [AI Models Can Now Critique Their Own Work, Boosting Performance by 13%](https://dev.to/mikeyoung44/ai-models-can-now-critique-their-own-work-boosting-performance-by-13-4p9)
+- [New AI Model Processes Text 4x Faster While Using 75% Less Memory](https://dev.to/mikeyoung44/new-ai-model-processes-text-4x-faster-while-using-75-less-memory-1gmk)
+- [AI-Powered System Safely Converts Legacy C Code to Modern Rust with Automated Verification](https://dev.to/mikeyoung44/ai-powered-system-safely-converts-legacy-c-code-to-modern-rust-with-automated-verification-l0m)
 <!-- BLOG-POST-LIST:END -->
 
