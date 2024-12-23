@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay ahead in web development: latest news, tools, and insights #64](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-64-2a5e)
-- [How to Create a Sitemap for a Website](https://dev.to/anshul_kichara/how-to-create-a-sitemap-for-a-website-mdc)
-- [Code as Doc: Automate by Vercel AI SDK and ZenStack for Free](https://dev.to/zenstack/code-as-doc-automate-by-vercel-ai-sdk-and-zenstack-for-free-1ch4)
-- [Why Cloud Provider’s Native Tooling Struggles to Deliver FinOps Excellence](https://dev.to/vaish_98/why-cloud-providers-native-tooling-struggles-to-deliver-finops-excellence-1k3g)
+- [OpenAI&#39;s O3 Models: A New Frontier in AI Reasoning](https://dev.to/jon_exume_99b374aa68a0028/openais-o3-models-a-new-frontier-in-ai-reasoning-266m)
+- [Unlock the Gen AI Revolution: Autonomous Multicloud Management with Cloudgov.ai](https://dev.to/vaish_98/unlock-the-gen-ai-revolution-autonomous-multicloud-management-with-cloudgovai-e3n)
+- [Secure and Reliable Over the Air OTA Update for Industrial 4.0 Environments](https://dev.to/romana_diana_/secure-and-reliable-over-the-air-ota-update-for-industrial-40-environments-1n7h)
+- [AI Innovations to Watch in 2024: Transforming Everyday Life](https://dev.to/namratahinduja/ai-innovations-to-watch-in-2024-transforming-everyday-life-le4)
 <!-- BLOG-POST-LIST:END -->
 
