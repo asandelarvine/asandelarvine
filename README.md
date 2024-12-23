@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I enrolled in Microsoft 365 Developer Program](https://dev.to/andrewelans/how-i-enrolled-in-microsoft-365-developer-program-28m6)
-- [🚀 Your Daily Crypto Job Digest For 23 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-23-december-3mm7)
-- [Dropout in Neural Networks: Simplified Explanation for Beginners](https://dev.to/fotiecodes/dropout-in-neural-networks-simplified-explanation-for-beginners-2oj6)
-- [React Native cross-platform development practice: from zero to one](https://dev.to/tianyaschool/react-native-cross-platform-development-practice-from-zero-to-one-3i1c)
+- [Machine Learning in Code Security: A Developer-Researcher&#39;s Journey Through Neural Code Analysis](https://dev.to/nolunchbreaks_22/machine-learning-in-code-security-a-developer-researchers-journey-through-neural-code-analysis-59h4)
+- [Meme Monday](https://dev.to/ben/meme-monday-1dld)
+- [Serverless self-service IoT certificate management - Part 2](https://dev.to/aws-heroes/serverless-self-service-iot-certificate-management-part-2-3ca7)
+- [Sharing A Nvidia GPU Between Pods In Kubernetes](https://dev.to/thenjdevopsguy/sharing-a-nvidia-gpu-between-pods-in-kubernetes-4hp9)
 <!-- BLOG-POST-LIST:END -->
 
