@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI o3 is AGI ?](https://dev.to/dev007777/openai-o3-is-agi--29f4)
-- [What Does API Stand For?](https://dev.to/keploy/what-does-api-stand-for-6bh)
-- [Implementing Logger and Server Analytics in Flutter](https://dev.to/arafaysaleem/implementing-logger-and-server-analytics-in-flutter-5389)
-- [How to Choose the Best Sofa Legs for Your Home: A Complete Guide](https://dev.to/flybird_hardware_4683d5b1/how-to-choose-the-best-sofa-legs-for-your-home-a-complete-guide-5k2)
+- [How I Use My Own Product to Maintain Its Help Docs](https://dev.to/apidog/how-i-use-my-own-product-to-maintain-its-help-docs-1clf)
+- [Will MCP Transform Claude from a Chatbot to a Powerful Assistant?](https://dev.to/airabbit/will-mcp-transform-claude-from-a-chatbot-to-a-powerful-assistant-42p4)
+- [Roast my portfolio](https://dev.to/ehsanpo/roast-my-portfolio-1ibh)
+- [Learn How to Create Responsive Admin Dashboard Using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/learn-how-to-create-responsive-admin-dashboard-using-html-css-javascript-13b2)
 <!-- BLOG-POST-LIST:END -->
 
