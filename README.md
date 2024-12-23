@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your API Performance with Asynchronous Programming in FastAPI](https://dev.to/saint_vandora/supercharge-your-api-performance-with-asynchronous-programming-in-fastapi-9g7)
-- [CustomFormField - Custom Widgets Series](https://dev.to/arafaysaleem/customformfield-custom-widgets-series-8ep)
-- [A simple HTML/CSS edition for the Frontend Challenge](https://dev.to/thomasbnt/a-simple-htmlcss-edition-for-the-frontend-challenge-2ic0)
-- [History of my ThinkPad X260](https://dev.to/nakidai/history-of-my-thinkpad-x260-439f)
+- [鸿蒙Next ArkTS语法适配背景概述](https://dev.to/freerain9/hong-meng-next-arktsyu-fa-gua-pei-bei-jing-gai-shu-168b)
+- [Python Tutorial - 3 Data Structure](https://dev.to/nadirbasalamah/python-tutorial-3-data-structure-567a)
+- [Data types in python](https://dev.to/aadarsh_ancha_bba80fa9cdf/data-types-in-python-451o)
+- [Rails View Helpers for Components](https://dev.to/naofumik/rails-view-helpers-for-components-481c)
 <!-- BLOG-POST-LIST:END -->
 
