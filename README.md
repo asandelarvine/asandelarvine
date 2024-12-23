@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD pipeline](https://dev.to/anjali_gurjar_dff81513867/cicd-46l3)
-- [FSCSS Example](https://dev.to/lmcss/fscss-example-2j9l)
-- [HTML Tables: The Hidden Stars of the Early Web &lpar;And 15 Mind-Blowing Examples You Won&#39;t Believe Exist&rpar;](https://dev.to/govindvyas/html-tables-the-hidden-stars-of-the-early-web-and-15-mind-blowing-examples-you-wont-believe-2bfm)
-- [Powerful Tools to Crawl Websites for Developers and Businesses](https://dev.to/swiftproxy_residential/powerful-tools-to-crawl-websites-for-developers-and-businesses-1dc1)
+- [OpenAI o3 is AGI ?](https://dev.to/dev007777/openai-o3-is-agi--29f4)
+- [What Does API Stand For?](https://dev.to/keploy/what-does-api-stand-for-6bh)
+- [Implementing Logger and Server Analytics in Flutter](https://dev.to/arafaysaleem/implementing-logger-and-server-analytics-in-flutter-5389)
+- [How to Choose the Best Sofa Legs for Your Home: A Complete Guide](https://dev.to/flybird_hardware_4683d5b1/how-to-choose-the-best-sofa-legs-for-your-home-a-complete-guide-5k2)
 <!-- BLOG-POST-LIST:END -->
 
