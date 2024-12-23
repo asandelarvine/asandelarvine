@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying JavaScript Closures: A Comprehensive Guide with Advanced Insights](https://dev.to/hasunnilupul/demystifying-javascript-closures-a-comprehensive-guide-with-advanced-insights-500h)
-- [Understanding Variables](https://dev.to/gurjeetsinghvirdee/understanding-variables-4fi1)
-- [menu alien](https://dev.to/diegobrito/menu-alien-h5f)
-- [🚀 How to Boost Your Productivity as a Web3 Developer](https://dev.to/sergi_web3/how-to-boost-your-productivity-as-a-web3-developer-27b9)
+- [The Evolution of LiveScript: The Precursor to JavaScript](https://dev.to/m0slah/the-evolution-of-livescript-the-precursor-to-javascript-245i)
+- [Counting Tokens: Sorting Through the Details](https://dev.to/es404020/counting-tokens-sorting-through-the-details-o58)
+- [Terraform: Steps to create complete AWS S3 module](https://dev.to/marko_milosavljevic_97169/terraform-steps-to-create-complete-module-36mj)
+- [Secure Password Generation: A Complete Guide to Creating Strong Passwords](https://dev.to/tooleroid/secure-password-generation-a-complete-guide-to-creating-strong-passwords-44fe)
 <!-- BLOG-POST-LIST:END -->
 
