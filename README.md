@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Winter Solstice Interactive Page – Glam Up My Markup Submission](https://dev.to/tharushi1019/winter-solstice-interactive-page-glam-up-my-markup-submission-331j)
-- [When AI Learns to Feel: The Rise of Emotionally Aware Machines](https://dev.to/epicx/when-ai-learns-to-feel-the-rise-of-emotionally-aware-machines-51b8)
-- [Web scraping and analysing foreign languages data](https://dev.to/gabriel_rowan_1b96f237438/web-scraping-and-analysing-foreign-languages-data-24pm)
-- [Base64 strings concepts in different programming language](https://dev.to/atifwattoo/base64-strings-concepts-in-different-programming-language-6bf)
+- [How to Write Effective Texts for Blogs: Tips and AI Tools to Boost Your Content](https://dev.to/danyaleyman/how-to-write-effective-texts-for-blogs-tips-and-ai-tools-to-boost-your-content-29p5)
+- [Enforcing guardrails in the AWS environment](https://dev.to/aws-builders/enforcing-guardrails-in-the-aws-environment-20fl)
+- [Microsoft Clarity&#39;s New Cookie Consent Requirements](https://dev.to/xcs/microsoft-claritys-new-cookie-consent-requirements-57f2)
+- [Top 10 Best Open Source Next.js Projects to Learn From](https://dev.to/codebucks/top-10-best-open-source-nextjs-projects-to-learn-from-217h)
 <!-- BLOG-POST-LIST:END -->
 
