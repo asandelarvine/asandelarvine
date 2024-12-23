@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Effective Texts for Blogs: Tips and AI Tools to Boost Your Content](https://dev.to/danyaleyman/how-to-write-effective-texts-for-blogs-tips-and-ai-tools-to-boost-your-content-29p5)
-- [Enforcing guardrails in the AWS environment](https://dev.to/aws-builders/enforcing-guardrails-in-the-aws-environment-20fl)
-- [Microsoft Clarity&#39;s New Cookie Consent Requirements](https://dev.to/xcs/microsoft-claritys-new-cookie-consent-requirements-57f2)
-- [Top 10 Best Open Source Next.js Projects to Learn From](https://dev.to/codebucks/top-10-best-open-source-nextjs-projects-to-learn-from-217h)
+- [An Exploration of the Software Development Field](https://dev.to/rachelle_wilber_422febda6/an-exploration-of-the-software-development-field-39mf)
+- [How Remention AI Boosts Social Media Engagement and Brand Visibility](https://dev.to/ohansfavour/how-remention-ai-boosts-social-media-engagement-and-brand-visibility-2h99)
+- [Day - 1 of Java](https://dev.to/sathish_balaji_2003/day-1-of-java-4ecp)
+- [How to Use the PHP Spread Operator](https://dev.to/moneer_fahmy_b838032ddcc1/how-to-use-the-php-spread-operator-4cfk)
 <!-- BLOG-POST-LIST:END -->
 
