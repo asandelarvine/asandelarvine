@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Red Flags - What NOT to do](https://dev.to/fatihguzel/backend-red-flags-what-not-to-do-50g5)
-- [Microsoft Certifications List &lpar;2024-2025&rpar;](https://dev.to/skillboosttrainer/microsoft-certifications-list-2024-2025-23ai)
-- [Setting Up Paystack for Subscription-Based Billing in NestJS](https://dev.to/idrisakintobi/setting-up-paystack-for-subscription-based-billing-in-nestjs-520i)
-- [Dividing Tasks](https://dev.to/jasten/dividing-tasks-4bg0)
+- [How Do I Start a New React Native App?](https://dev.to/wafa_bergaoui/how-do-i-start-a-new-react-native-app-21m3)
+- [How To Create a Google Chrome Extension: Step-by-Step Guide](https://dev.to/alex_aslam/how-to-create-a-google-chrome-extension-step-by-step-guide-bkb)
+- [How I Used LLMs to Make IoT Devices Understand Any Language](https://dev.to/pavel_anni/how-i-used-llms-to-make-iot-devices-understand-any-language-23ia)
+- [Revolutionizing Retail Customer Service with AI-Powered Chatbots and Real-Time Multilingual Support](https://dev.to/julie_ryan_df9e4e895cdcff/revolutionizing-retail-customer-service-with-ai-powered-chatbots-and-real-time-multilingual-support-b75)
 <!-- BLOG-POST-LIST:END -->
 
