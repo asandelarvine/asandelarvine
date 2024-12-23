@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do I Start a New React Native App?](https://dev.to/wafa_bergaoui/how-do-i-start-a-new-react-native-app-21m3)
-- [How To Create a Google Chrome Extension: Step-by-Step Guide](https://dev.to/alex_aslam/how-to-create-a-google-chrome-extension-step-by-step-guide-bkb)
-- [How I Used LLMs to Make IoT Devices Understand Any Language](https://dev.to/pavel_anni/how-i-used-llms-to-make-iot-devices-understand-any-language-23ia)
-- [Revolutionizing Retail Customer Service with AI-Powered Chatbots and Real-Time Multilingual Support](https://dev.to/julie_ryan_df9e4e895cdcff/revolutionizing-retail-customer-service-with-ai-powered-chatbots-and-real-time-multilingual-support-b75)
+- [Demystifying JavaScript Closures: A Comprehensive Guide with Advanced Insights](https://dev.to/hasunnilupul/demystifying-javascript-closures-a-comprehensive-guide-with-advanced-insights-500h)
+- [Understanding Variables](https://dev.to/gurjeetsinghvirdee/understanding-variables-4fi1)
+- [menu alien](https://dev.to/diegobrito/menu-alien-h5f)
+- [🚀 How to Boost Your Productivity as a Web3 Developer](https://dev.to/sergi_web3/how-to-boost-your-productivity-as-a-web3-developer-27b9)
 <!-- BLOG-POST-LIST:END -->
 
