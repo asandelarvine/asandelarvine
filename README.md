@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use My Own Product to Maintain Its Help Docs](https://dev.to/apidog/how-i-use-my-own-product-to-maintain-its-help-docs-1clf)
-- [Will MCP Transform Claude from a Chatbot to a Powerful Assistant?](https://dev.to/airabbit/will-mcp-transform-claude-from-a-chatbot-to-a-powerful-assistant-42p4)
-- [Roast my portfolio](https://dev.to/ehsanpo/roast-my-portfolio-1ibh)
-- [Learn How to Create Responsive Admin Dashboard Using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/learn-how-to-create-responsive-admin-dashboard-using-html-css-javascript-13b2)
+- [Deploying Azure Functions with Python: A Step-by-Step Guide](https://dev.to/edgaras/deploying-azure-functions-with-python-a-step-by-step-guide-5db6)
+- [How QA Professionals Can Earn by Finding Bugs: A Tester’s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-qa-professionals-can-earn-by-finding-bugs-a-testers-perspective-2kf1)
+- [Inversion of Control and Dependency Injection: A Practical Guide with Java and Spring Boot](https://dev.to/mspilari/inversion-of-control-and-dependency-injection-a-practical-guide-with-java-and-spring-boot-5c1d)
+- [Simplify AWS Networking Costs: Key Tips with Cloudgov.ai’s Gen AI Platform](https://dev.to/vaish_98/simplify-aws-networking-costs-key-tips-with-cloudgovais-gen-ai-platform-2k43)
 <!-- BLOG-POST-LIST:END -->
 
