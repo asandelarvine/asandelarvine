@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending the 200-Character Limit for Post Names in WordPress: A Developer’s Guide](https://dev.to/litonarefin/extending-the-200-character-limit-for-post-names-in-wordpress-a-developers-guide-1fj1)
-- [🌟 🌐 TOP 90 Resources For The Front-end Development 🚀 🌟](https://dev.to/hanzla-baig/top-90-resources-for-the-front-end-development-3a6i)
-- [Mastering MERN Stack Development: Tips, Best Practices, and Tools](https://dev.to/rayan2228/mastering-mern-stack-development-tips-best-practices-and-tools-4b1p)
-- [How to Become a Software Engineer: No Experience? No Problem](https://dev.to/lodely/how-to-become-a-software-engineer-no-experience-no-problem-3npp)
+- [Understanding TypeScript&#39;s Partial Utility Function and Its Use in React](https://dev.to/myogeshchavan97/understanding-typescripts-partial-utility-function-and-its-use-in-react-4f57)
+- [A Beginner’s Guide to State Management in React with Zustand](https://dev.to/muthu_aravindh_668229c96f/a-beginners-guide-to-state-management-in-react-with-zustand-28k5)
+- [How to Decide a WordPress Hosting Plan for Your Clients](https://dev.to/shabbir_mw_03f56129cd25/how-to-decide-a-wordpress-hosting-plan-for-your-clients-1975)
+- [Build RAG 10X Faster](https://dev.to/tomokanazawa/build-rag-10x-faster-5eme)
 <!-- BLOG-POST-LIST:END -->
 
