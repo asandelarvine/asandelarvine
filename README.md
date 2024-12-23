@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning in Code Security: A Developer-Researcher&#39;s Journey Through Neural Code Analysis](https://dev.to/nolunchbreaks_22/machine-learning-in-code-security-a-developer-researchers-journey-through-neural-code-analysis-59h4)
-- [Meme Monday](https://dev.to/ben/meme-monday-1dld)
-- [Serverless self-service IoT certificate management - Part 2](https://dev.to/aws-heroes/serverless-self-service-iot-certificate-management-part-2-3ca7)
-- [Sharing A Nvidia GPU Between Pods In Kubernetes](https://dev.to/thenjdevopsguy/sharing-a-nvidia-gpu-between-pods-in-kubernetes-4hp9)
+- [Winter Solstice Interactive Page – Glam Up My Markup Submission](https://dev.to/tharushi1019/winter-solstice-interactive-page-glam-up-my-markup-submission-331j)
+- [When AI Learns to Feel: The Rise of Emotionally Aware Machines](https://dev.to/epicx/when-ai-learns-to-feel-the-rise-of-emotionally-aware-machines-51b8)
+- [Web scraping and analysing foreign languages data](https://dev.to/gabriel_rowan_1b96f237438/web-scraping-and-analysing-foreign-languages-data-24pm)
+- [Base64 strings concepts in different programming language](https://dev.to/atifwattoo/base64-strings-concepts-in-different-programming-language-6bf)
 <!-- BLOG-POST-LIST:END -->
 
