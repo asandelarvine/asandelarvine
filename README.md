@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 23: Terminal Images 🖼️](https://dev.to/valeriavg/day-23-terminal-images-5ch7)
-- [When Is The Best Time To Look for a New Job?](https://dev.to/canro91/when-is-the-best-time-to-look-for-a-new-job-3699)
-- [OpenShift Interview Questions expected in 2025 &lpar;Updated List&rpar;](https://dev.to/dhinesh_kumar_4be5561ed81/openshift-interview-questions-expected-in-2025-updated-list-1oe4)
-- [Frontend DEV Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/matin676/frontend-dev-challenge-december-edition-glam-up-my-markup-winter-solstice-2b5p)
+- [Stay ahead in web development: latest news, tools, and insights #64](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-64-2a5e)
+- [How to Create a Sitemap for a Website](https://dev.to/anshul_kichara/how-to-create-a-sitemap-for-a-website-mdc)
+- [Code as Doc: Automate by Vercel AI SDK and ZenStack for Free](https://dev.to/zenstack/code-as-doc-automate-by-vercel-ai-sdk-and-zenstack-for-free-1ch4)
+- [Why Cloud Provider’s Native Tooling Struggles to Deliver FinOps Excellence](https://dev.to/vaish_98/why-cloud-providers-native-tooling-struggles-to-deliver-finops-excellence-1k3g)
 <!-- BLOG-POST-LIST:END -->
 
