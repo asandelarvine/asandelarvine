@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s O3 Models: A New Frontier in AI Reasoning](https://dev.to/jon_exume_99b374aa68a0028/openais-o3-models-a-new-frontier-in-ai-reasoning-266m)
-- [Unlock the Gen AI Revolution: Autonomous Multicloud Management with Cloudgov.ai](https://dev.to/vaish_98/unlock-the-gen-ai-revolution-autonomous-multicloud-management-with-cloudgovai-e3n)
-- [Secure and Reliable Over the Air OTA Update for Industrial 4.0 Environments](https://dev.to/romana_diana_/secure-and-reliable-over-the-air-ota-update-for-industrial-40-environments-1n7h)
-- [AI Innovations to Watch in 2024: Transforming Everyday Life](https://dev.to/namratahinduja/ai-innovations-to-watch-in-2024-transforming-everyday-life-le4)
+- [CI/CD pipeline](https://dev.to/anjali_gurjar_dff81513867/cicd-46l3)
+- [FSCSS Example](https://dev.to/lmcss/fscss-example-2j9l)
+- [HTML Tables: The Hidden Stars of the Early Web &lpar;And 15 Mind-Blowing Examples You Won&#39;t Believe Exist&rpar;](https://dev.to/govindvyas/html-tables-the-hidden-stars-of-the-early-web-and-15-mind-blowing-examples-you-wont-believe-2bfm)
+- [Powerful Tools to Crawl Websites for Developers and Businesses](https://dev.to/swiftproxy_residential/powerful-tools-to-crawl-websites-for-developers-and-businesses-1dc1)
 <!-- BLOG-POST-LIST:END -->
 
