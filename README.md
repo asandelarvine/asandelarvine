@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Exploration of the Software Development Field](https://dev.to/rachelle_wilber_422febda6/an-exploration-of-the-software-development-field-39mf)
-- [How Remention AI Boosts Social Media Engagement and Brand Visibility](https://dev.to/ohansfavour/how-remention-ai-boosts-social-media-engagement-and-brand-visibility-2h99)
-- [Day - 1 of Java](https://dev.to/sathish_balaji_2003/day-1-of-java-4ecp)
-- [How to Use the PHP Spread Operator](https://dev.to/moneer_fahmy_b838032ddcc1/how-to-use-the-php-spread-operator-4cfk)
+- [Criando um Chatbot com JavaScript e Gemini AI: criando o backend](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-criando-o-backend-3lf7)
+- [Building a Secure Multi-Device Authentication System: The SyncBridge Story #1🔐](https://dev.to/laakri/building-a-secure-multi-device-authentication-system-the-syncbridge-story-1-1pgp)
+- [React 19: Server Functions](https://dev.to/garciadiazjaime/react-19-server-functions-9g6)
+- [The Top TS Copy Paste Libraries for 2025](https://dev.to/ivanivanovv/the-top-ts-copy-paste-libraries-for-2025-36oo)
 <!-- BLOG-POST-LIST:END -->
 
