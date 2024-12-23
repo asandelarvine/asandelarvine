@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um Chatbot com JavaScript e Gemini AI: criando o backend](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-criando-o-backend-3lf7)
-- [Building a Secure Multi-Device Authentication System: The SyncBridge Story #1🔐](https://dev.to/laakri/building-a-secure-multi-device-authentication-system-the-syncbridge-story-1-1pgp)
-- [React 19: Server Functions](https://dev.to/garciadiazjaime/react-19-server-functions-9g6)
-- [The Top TS Copy Paste Libraries for 2025](https://dev.to/ivanivanovv/the-top-ts-copy-paste-libraries-for-2025-36oo)
+- [Backend Red Flags - What NOT to do](https://dev.to/fatihguzel/backend-red-flags-what-not-to-do-50g5)
+- [Microsoft Certifications List &lpar;2024-2025&rpar;](https://dev.to/skillboosttrainer/microsoft-certifications-list-2024-2025-23ai)
+- [Setting Up Paystack for Subscription-Based Billing in NestJS](https://dev.to/idrisakintobi/setting-up-paystack-for-subscription-based-billing-in-nestjs-520i)
+- [Dividing Tasks](https://dev.to/jasten/dividing-tasks-4bg0)
 <!-- BLOG-POST-LIST:END -->
 
