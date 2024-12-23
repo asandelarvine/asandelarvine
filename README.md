@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Azure Functions with Python: A Step-by-Step Guide](https://dev.to/edgaras/deploying-azure-functions-with-python-a-step-by-step-guide-5db6)
-- [How QA Professionals Can Earn by Finding Bugs: A Tester’s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-qa-professionals-can-earn-by-finding-bugs-a-testers-perspective-2kf1)
-- [Inversion of Control and Dependency Injection: A Practical Guide with Java and Spring Boot](https://dev.to/mspilari/inversion-of-control-and-dependency-injection-a-practical-guide-with-java-and-spring-boot-5c1d)
-- [Simplify AWS Networking Costs: Key Tips with Cloudgov.ai’s Gen AI Platform](https://dev.to/vaish_98/simplify-aws-networking-costs-key-tips-with-cloudgovais-gen-ai-platform-2k43)
+- [New 41 GitHub Repositories - OpenSource of Dec 22, 2024](https://dev.to/gittech/new-41-github-repositories-opensource-of-dec-22-2024-502o)
+- [Does your GitHub profile actually help you land a job?](https://dev.to/devmercy/does-your-github-profile-actually-help-you-land-a-job-4eff)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V52 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v52-showcase-52mk)
+- [LeetCode Meditations: Reverse Bits](https://dev.to/rivea0/leetcode-meditations-reverse-bits-4koc)
 <!-- BLOG-POST-LIST:END -->
 
