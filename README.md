@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New 41 GitHub Repositories - OpenSource of Dec 22, 2024](https://dev.to/gittech/new-41-github-repositories-opensource-of-dec-22-2024-502o)
-- [Does your GitHub profile actually help you land a job?](https://dev.to/devmercy/does-your-github-profile-actually-help-you-land-a-job-4eff)
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V52 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v52-showcase-52mk)
-- [LeetCode Meditations: Reverse Bits](https://dev.to/rivea0/leetcode-meditations-reverse-bits-4koc)
+- [How I enrolled in Microsoft 365 Developer Program](https://dev.to/andrewelans/how-i-enrolled-in-microsoft-365-developer-program-28m6)
+- [🚀 Your Daily Crypto Job Digest For 23 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-23-december-3mm7)
+- [Dropout in Neural Networks: Simplified Explanation for Beginners](https://dev.to/fotiecodes/dropout-in-neural-networks-simplified-explanation-for-beginners-2oj6)
+- [React Native cross-platform development practice: from zero to one](https://dev.to/tianyaschool/react-native-cross-platform-development-practice-from-zero-to-one-3i1c)
 <!-- BLOG-POST-LIST:END -->
 
