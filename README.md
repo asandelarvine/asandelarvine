@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding TypeScript&#39;s Partial Utility Function and Its Use in React](https://dev.to/myogeshchavan97/understanding-typescripts-partial-utility-function-and-its-use-in-react-4f57)
-- [A Beginner’s Guide to State Management in React with Zustand](https://dev.to/muthu_aravindh_668229c96f/a-beginners-guide-to-state-management-in-react-with-zustand-28k5)
-- [How to Decide a WordPress Hosting Plan for Your Clients](https://dev.to/shabbir_mw_03f56129cd25/how-to-decide-a-wordpress-hosting-plan-for-your-clients-1975)
-- [Build RAG 10X Faster](https://dev.to/tomokanazawa/build-rag-10x-faster-5eme)
+- [Day 23: Terminal Images 🖼️](https://dev.to/valeriavg/day-23-terminal-images-5ch7)
+- [When Is The Best Time To Look for a New Job?](https://dev.to/canro91/when-is-the-best-time-to-look-for-a-new-job-3699)
+- [OpenShift Interview Questions expected in 2025 &lpar;Updated List&rpar;](https://dev.to/dhinesh_kumar_4be5561ed81/openshift-interview-questions-expected-in-2025-updated-list-1oe4)
+- [Frontend DEV Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/matin676/frontend-dev-challenge-december-edition-glam-up-my-markup-winter-solstice-2b5p)
 <!-- BLOG-POST-LIST:END -->
 
