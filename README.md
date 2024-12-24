@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CockroachDB: fast-start configuration on a fresh cluster](https://dev.to/world2mark/cockroachdb-fast-start-configuration-on-a-fresh-cluster-23ha)
-- [Understanding Disk Management in Database Systems: From Fundamentals to RAID](https://dev.to/pepos_wives_ce25db06057c6/understanding-disk-management-in-database-systems-from-fundamentals-to-raid-4c6k)
-- [Merry Christmas!🎄](https://dev.to/best_codes/merry-christmas-36i7)
-- [Stop Hallucinating: APIs are the Missing Link For Reliable Agentic Applications](https://dev.to/agustus_gloop/stop-hallucinating-apis-are-the-missing-link-for-reliable-agentic-applications-3d5h)
+- [❄️Introducing the HMPL Template Language](https://dev.to/anthonymax/introducing-the-hmpl-template-language-32fm)
+- [Coding Myths Debunked: Things Beginners Should Stop Believing](https://dev.to/arjun98k/coding-myths-debunked-things-beginners-should-stop-believing-2nbo)
+- [CHRISTMAS IS COMING!!](https://dev.to/anshi/christmas-is-coming-5fpd)
+- [2025 Outlook: How AI Agents May Reshape Software Development](https://dev.to/aiagentstore/2025-outlook-how-ai-agents-may-reshape-software-development-3ac0)
 <!-- BLOG-POST-LIST:END -->
 
