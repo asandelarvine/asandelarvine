@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Operators for Custom Applications &lpar;e.g., Databases&rpar;](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-operators-for-custom-applications-eg-databases-33lj)
-- [How do you finish your pet projects?](https://dev.to/echoladone/how-do-you-finish-your-pet-projects-1mpi)
-- [Top 10 Online Courses to Learn DevOps in 2025](https://dev.to/prishav/top-10-online-courses-to-learn-devops-in-2025-25fb)
-- [How to Secure Kubernetes Clusters with RBAC, Network Policies, and Encryption](https://dev.to/abhay_yt_52a8e72b213be229/how-to-secure-kubernetes-clusters-with-rbac-network-policies-and-encryption-2cjg)
+- [🔐🔴 Top 3 Authentication Strategies For 2025 📖🔑](https://dev.to/martygo/top-3-authentication-strategies-for-2025-4pib)
+- [Top 10 Design Patterns for Programming Interviews](https://dev.to/somadevtoo/top-10-design-patterns-for-programming-interviews-8j4)
+- [Configuring the System to Use Simple Queue Service &lpar;AWS SQS&rpar;](https://dev.to/s3cloudhub/configuring-the-system-to-use-simple-queue-service-aws-sqs-1ad8)
+- [Building a Slack Clone with Next.js and TailwindCSS - Part One](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-one-6g0)
 <!-- BLOG-POST-LIST:END -->
 
