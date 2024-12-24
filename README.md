@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Dev.to](https://dev.to/jmr85/test-devto-2oid)
-- [HTTP: The Protocol Every Web Developer Must Master](https://dev.to/daniel_oladepo_0c5ac110f2/http-the-protocol-every-web-developer-must-master-374p)
-- [Ansible: Installation and Configuration Guide for Beginners](https://dev.to/harshm03/ansible-installation-and-configuration-guide-for-beginners-32g6)
-- [CYPRESS-AJV-SCHEMA-VALIDATOR VIDEO TUTORIAL: Mastering API Schema Testing in Cypress](https://dev.to/sebastianclavijo/cypress-ajv-schema-validator-video-tutorial-mastering-api-schema-testing-in-cypress-78)
+- [🤖 Coding Smarter with AI: How to Improve Your Workflow Without Losing Your Touch](https://dev.to/respect17/coding-smarter-with-ai-how-to-improve-your-workflow-without-losing-your-touch-3ao2)
+- [Day 24: Thanks and Goodbye!](https://dev.to/code42cate/day-24-thanks-and-goodbye-144c)
+- [Looking for a mentor who could lead me to a right way for RPA developers](https://dev.to/barulancik/looking-for-a-mentor-who-could-lead-me-to-a-right-way-for-rpa-developers-4ejd)
+- [Ensuring Data Security When Using Currency Exchange Rate APIs](https://dev.to/devapis/ensuring-data-security-when-using-currency-exchange-rate-apis-1iik)
 <!-- BLOG-POST-LIST:END -->
 
