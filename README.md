@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Email Service with AWS Lambda, Node.js, and SQS 📧](https://dev.to/mohinsheikh/serverless-email-service-with-aws-lambda-nodejs-and-sqs-1d9g)
-- [Streamlining Restaurant Inventory Management: Challenges and Solutions](https://dev.to/ricardocaselati/streamlining-restaurant-inventory-management-challenges-and-solutions-1c2f)
-- [Understanding the Node.js Event Loop: How Node.js Handles Asynchronous Operations on a Single Thread](https://dev.to/mohinsheikh/understanding-the-nodejs-event-loop-how-nodejs-handles-asynchronous-operations-on-a-single-thread-443d)
-- [3203. Find Minimum Diameter After Merging Two Trees](https://dev.to/mdarifulhaque/3203-find-minimum-diameter-after-merging-two-trees-4df9)
+- [HackerRank: Plus Minus JavaScript solution.](https://dev.to/tochi_/hackerrank-plus-minus-javascript-solution-5el3)
+- [React Clicks, Styles, &amp; Conditionals! 🎨💥](https://dev.to/mayowakalejaiye/react-clicks-styles-conditionals-16h8)
+- [Getting Started with Java: Problem-Solving for Beginners](https://dev.to/bharu_0fec38bd0fb51b76742/getting-started-with-java-problem-solving-for-beginners-3d36)
+- [AWS VPC with Public and Private Subnets &amp; NAT Gateway](https://dev.to/taha_sumeer/aws-vpc-with-public-and-private-subnets-nat-gateway-nmd)
 <!-- BLOG-POST-LIST:END -->
 
