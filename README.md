@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Chatbots: Boon or Security Time Bomb?](https://dev.to/hr21don/ai-chatbots-boon-or-security-time-bomb-483g)
-- [✨ 5 Bad Ideas in TypeScript](https://dev.to/_ndeyefatoudiop/5-bad-ideas-in-typescript-4a4a)
-- [Free Forex Data API for Backtesting Strategies: A Game Changer for Traders](https://dev.to/bradi/free-forex-data-api-for-backtesting-strategies-a-game-changer-for-traders-h9o)
-- [The art of Smooth UX : Debouncing and Throttling for a more performant UI](https://dev.to/abhirupa/the-art-of-smooth-ux-debouncing-and-throttling-for-a-more-performant-ui-m0h)
+- [Kubernetes Operators for Custom Applications &lpar;e.g., Databases&rpar;](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-operators-for-custom-applications-eg-databases-33lj)
+- [How do you finish your pet projects?](https://dev.to/echoladone/how-do-you-finish-your-pet-projects-1mpi)
+- [Top 10 Online Courses to Learn DevOps in 2025](https://dev.to/prishav/top-10-online-courses-to-learn-devops-in-2025-25fb)
+- [How to Secure Kubernetes Clusters with RBAC, Network Policies, and Encryption](https://dev.to/abhay_yt_52a8e72b213be229/how-to-secure-kubernetes-clusters-with-rbac-network-policies-and-encryption-2cjg)
 <!-- BLOG-POST-LIST:END -->
 
