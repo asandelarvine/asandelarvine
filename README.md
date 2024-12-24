@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is infrastructure as code and how its transforming DevOps](https://dev.to/tennie/what-is-infrastructure-as-code-and-how-its-transforming-devops-12h2)
-- [Bitcoin Halving: Impact on Price and Crypto Market Dynamics](https://dev.to/cryptogem123/bitcoin-halving-impact-on-price-and-crypto-market-dynamics-4712)
-- [Review: The New NVIDIA Jetson Orin Nano](https://dev.to/jeremycmorgan/review-the-new-nvidia-jetson-orin-nano-4ci7)
-- [The Future of AI in Software Testing: Trends to Watch in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-future-of-ai-in-software-testing-trends-to-watch-in-2025-42ah)
+- [Is AGI Here? A Deep Dive into OpenAI&#39;s o3 Model and ARC-AGI Benchmarks](https://dev.to/dansasser/is-agi-here-a-deep-dive-into-openais-o3-model-and-arc-agi-benchmarks-39po)
+- [Optimizing Serverless Lambda with GraalVM Native Image](https://dev.to/abrish/optimizing-serverless-lambda-with-graalvm-native-image-3g3g)
+- [Quick RabbitMQ Refresher](https://dev.to/tallesl/quick-rabbitmq-refresher-5b5o)
+- [My first day of learning DSA](https://dev.to/mehfila_parkkulthil_23/my-first-day-of-learning-dsa-838)
 <!-- BLOG-POST-LIST:END -->
 
