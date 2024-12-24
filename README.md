@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run LLMs Locally with Ollama &amp; Semantic Kernel in .NET: A Quick Start](https://dev.to/frankiey/run-llms-locally-with-ollama-semantic-kernel-in-net-a-quick-start-4go4)
-- [How to Add/Remove Microsoft, Work, or School Accounts used to sign in by other apps in Windows 11?](https://dev.to/win11verse/how-to-addremove-microsoft-work-or-school-accounts-used-to-sign-in-by-other-apps-in-windows-11-44j)
-- [How to Build Responsive Websites: A Beginner’s Guide](https://dev.to/abdielbytes/how-to-build-responsive-websites-a-beginners-guide-2mig)
-- [JWT vs Opaque Tokens: A Comprehensive Guide to Choosing Wisely](https://dev.to/igventurelli/jwt-vs-opaque-tokens-a-comprehensive-guide-to-choosing-wisely-40f1)
+- [Serverless Security Best Practices](https://dev.to/ikoh_sylva/serverless-security-best-practices-5g0j)
+- [My try on the Glam Up My Markup: Winter Solstice frontend challenge](https://dev.to/pranav_surya_bfad31be53f0/my-try-on-the-glam-up-my-markup-winter-solstice-frontend-challenge-1a73)
+- [Making the Web More Inclusive: Accessibility Testing with open source testing agents](https://dev.to/smilinrobin/making-the-web-more-inclusive-accessibility-testing-with-open-source-testing-agents-2l27)
+- [Exploring Logging Best Practices](https://dev.to/574n13y/exploring-logging-best-practices-37l7)
 <!-- BLOG-POST-LIST:END -->
 
