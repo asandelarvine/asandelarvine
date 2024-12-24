@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.24 Amazon Q Developer community resources](https://dev.to/aws/amazon-q-developer-tips-no24-amazon-q-developer-community-resources-2knh)
-- [My All Trending Medium Article Please Watch: Part 1](https://dev.to/uicraft_by_pratik/my-all-trending-medium-article-please-watch-part-1-1pgn)
-- [Cloud Christmas Hacks - Prize of 1500$](https://dev.to/styava/cloud-christmas-hacks-prize-of-1500-2g0a)
-- [Understanding SSL and Its Importance](https://dev.to/vipulkumarsviit/understanding-ssl-and-its-importance-3flh)
+- [AI Chatbots: Boon or Security Time Bomb?](https://dev.to/hr21don/ai-chatbots-boon-or-security-time-bomb-483g)
+- [✨ 5 Bad Ideas in TypeScript](https://dev.to/_ndeyefatoudiop/5-bad-ideas-in-typescript-4a4a)
+- [Free Forex Data API for Backtesting Strategies: A Game Changer for Traders](https://dev.to/bradi/free-forex-data-api-for-backtesting-strategies-a-game-changer-for-traders-h9o)
+- [The art of Smooth UX : Debouncing and Throttling for a more performant UI](https://dev.to/abhirupa/the-art-of-smooth-ux-debouncing-and-throttling-for-a-more-performant-ui-m0h)
 <!-- BLOG-POST-LIST:END -->
 
