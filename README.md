@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [❄️Introducing the HMPL Template Language](https://dev.to/anthonymax/introducing-the-hmpl-template-language-32fm)
-- [Coding Myths Debunked: Things Beginners Should Stop Believing](https://dev.to/arjun98k/coding-myths-debunked-things-beginners-should-stop-believing-2nbo)
-- [CHRISTMAS IS COMING!!](https://dev.to/anshi/christmas-is-coming-5fpd)
-- [2025 Outlook: How AI Agents May Reshape Software Development](https://dev.to/aiagentstore/2025-outlook-how-ai-agents-may-reshape-software-development-3ac0)
+- [Serverless Email Service with AWS Lambda, Node.js, and SQS 📧](https://dev.to/mohinsheikh/serverless-email-service-with-aws-lambda-nodejs-and-sqs-1d9g)
+- [Streamlining Restaurant Inventory Management: Challenges and Solutions](https://dev.to/ricardocaselati/streamlining-restaurant-inventory-management-challenges-and-solutions-1c2f)
+- [Understanding the Node.js Event Loop: How Node.js Handles Asynchronous Operations on a Single Thread](https://dev.to/mohinsheikh/understanding-the-nodejs-event-loop-how-nodejs-handles-asynchronous-operations-on-a-single-thread-443d)
+- [3203. Find Minimum Diameter After Merging Two Trees](https://dev.to/mdarifulhaque/3203-find-minimum-diameter-after-merging-two-trees-4df9)
 <!-- BLOG-POST-LIST:END -->
 
