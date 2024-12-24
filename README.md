@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 23: Docker Resources](https://dev.to/code42cate/day-22-docker-resources-2h15)
-- [La dualidad de tu profesión.](https://dev.to/ulisesserranop/la-dualidad-de-tu-profesion-4ahb)
-- [React v19, unboxing! 📦](https://dev.to/rlgino/react-v19-unboxing-df2)
-- [What I learned in Quantum Computing this year &lpar;as a Junior Engineer&rpar;](https://dev.to/taradev/what-i-learned-in-quantum-computing-this-year-as-a-junior-engineer-1i5a)
+- [What is infrastructure as code and how its transforming DevOps](https://dev.to/tennie/what-is-infrastructure-as-code-and-how-its-transforming-devops-12h2)
+- [Bitcoin Halving: Impact on Price and Crypto Market Dynamics](https://dev.to/cryptogem123/bitcoin-halving-impact-on-price-and-crypto-market-dynamics-4712)
+- [Review: The New NVIDIA Jetson Orin Nano](https://dev.to/jeremycmorgan/review-the-new-nvidia-jetson-orin-nano-4ci7)
+- [The Future of AI in Software Testing: Trends to Watch in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-future-of-ai-in-software-testing-trends-to-watch-in-2025-42ah)
 <!-- BLOG-POST-LIST:END -->
 
