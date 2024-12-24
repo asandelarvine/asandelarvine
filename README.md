@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DolphinScheduler and SeaTunnel VS. AirFlow and NiFi](https://dev.to/seatunnel/dolphinscheduler-and-seatunnel-vs-airflow-and-nifi-2jg0)
-- [Apache SeaTunnel Won an Award for &quot;2024 Open Source Community&quot;!](https://dev.to/seatunnel/apache-seatunnel-won-an-award-for-2024-open-source-community-1cfg)
-- [Cloud Telephony](https://dev.to/airphone/cloud-telephony-1g9b)
-- [Dive into the Block Blast Adventure!](https://dev.to/berry_esther_0f1a44cc272b/dive-into-the-block-blast-adventure-1l04)
+- [Amazon Q Developer Tips: No.24 Amazon Q Developer community resources](https://dev.to/aws/amazon-q-developer-tips-no24-amazon-q-developer-community-resources-2knh)
+- [My All Trending Medium Article Please Watch: Part 1](https://dev.to/uicraft_by_pratik/my-all-trending-medium-article-please-watch-part-1-1pgn)
+- [Cloud Christmas Hacks - Prize of 1500$](https://dev.to/styava/cloud-christmas-hacks-prize-of-1500-2g0a)
+- [Understanding SSL and Its Importance](https://dev.to/vipulkumarsviit/understanding-ssl-and-its-importance-3flh)
 <!-- BLOG-POST-LIST:END -->
 
