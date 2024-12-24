@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Merge PDFs Recursively Using Python](https://dev.to/abbazs/merge-pdfs-recursively-using-python-402k)
-- [Migrate decorators to the input, query, and output functions](https://dev.to/railsstudent/migrate-decorators-to-the-input-query-and-output-functions-411d)
-- [Replace Text in PDFs Using Python](https://dev.to/abbazs/replace-text-in-pdfs-using-python-42k6)
-- [Solution to fix the &quot;Missing Compliance&quot; Warning at App Store Connect](https://dev.to/surhidamatya/solution-to-fix-the-missing-compliance-warning-at-app-store-connect-1kb6)
+- [DolphinScheduler and SeaTunnel VS. AirFlow and NiFi](https://dev.to/seatunnel/dolphinscheduler-and-seatunnel-vs-airflow-and-nifi-2jg0)
+- [Apache SeaTunnel Won an Award for &quot;2024 Open Source Community&quot;!](https://dev.to/seatunnel/apache-seatunnel-won-an-award-for-2024-open-source-community-1cfg)
+- [Cloud Telephony](https://dev.to/airphone/cloud-telephony-1g9b)
+- [Dive into the Block Blast Adventure!](https://dev.to/berry_esther_0f1a44cc272b/dive-into-the-block-blast-adventure-1l04)
 <!-- BLOG-POST-LIST:END -->
 
