@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next build error collecting page data; + Chakra UI](https://dev.to/habeebullahi01/next-build-error-collecting-page-data-chakra-ui-27e1)
-- [Understanding Variables and Data Types in JavaScript](https://dev.to/vjygour/-understanding-variables-and-data-types-in-javascript-2b2d)
-- [Open Source: The Easy Way, How not to break the Internet &lpar;Yet&rpar;😁](https://dev.to/harshit_rwt/open-source-the-easy-way-how-not-to-break-the-internet-yet-dma)
-- [Cómo instalar Jenkins en AWS: Guía paso a paso](https://dev.to/briansuarezsantiago/como-instalar-jenkins-en-aws-guia-paso-a-paso-530d)
+- [Run LLMs Locally with Ollama &amp; Semantic Kernel in .NET: A Quick Start](https://dev.to/frankiey/run-llms-locally-with-ollama-semantic-kernel-in-net-a-quick-start-4go4)
+- [How to Add/Remove Microsoft, Work, or School Accounts used to sign in by other apps in Windows 11?](https://dev.to/win11verse/how-to-addremove-microsoft-work-or-school-accounts-used-to-sign-in-by-other-apps-in-windows-11-44j)
+- [How to Build Responsive Websites: A Beginner’s Guide](https://dev.to/abdielbytes/how-to-build-responsive-websites-a-beginners-guide-2mig)
+- [JWT vs Opaque Tokens: A Comprehensive Guide to Choosing Wisely](https://dev.to/igventurelli/jwt-vs-opaque-tokens-a-comprehensive-guide-to-choosing-wisely-40f1)
 <!-- BLOG-POST-LIST:END -->
 
