@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Code: How I Built a Python Text Editor](https://dev.to/mostypc123/from-idea-to-code-how-i-built-a-python-text-editor-kh4)
-- [Understanding the `mount&lpar;&rpar;` Method in Livewire](https://dev.to/msnmongare/understanding-the-mount-method-in-livewire-4am)
-- [Learn Design Patterns: Mastering the Singleton Design Pattern](https://dev.to/sami_maachi/learn-design-patterns-unlocking-the-power-of-the-prototype-design-pattern-3g00)
-- [Adam Smith&#39;s Guide to Turning Work into Wealth](https://dev.to/shrsv/adam-smiths-guide-to-turning-work-into-wealth-31me)
+- [Test Dev.to](https://dev.to/jmr85/test-devto-2oid)
+- [HTTP: The Protocol Every Web Developer Must Master](https://dev.to/daniel_oladepo_0c5ac110f2/http-the-protocol-every-web-developer-must-master-374p)
+- [Ansible: Installation and Configuration Guide for Beginners](https://dev.to/harshm03/ansible-installation-and-configuration-guide-for-beginners-32g6)
+- [CYPRESS-AJV-SCHEMA-VALIDATOR VIDEO TUTORIAL: Mastering API Schema Testing in Cypress](https://dev.to/sebastianclavijo/cypress-ajv-schema-validator-video-tutorial-mastering-api-schema-testing-in-cypress-78)
 <!-- BLOG-POST-LIST:END -->
 
