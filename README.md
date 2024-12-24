@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS Cheatsheet](https://dev.to/aninooo/tailwind-css-cheatsheet-9da)
-- [RandomRotation in PyTorch](https://dev.to/hyperkai/randomrotation-in-pytorch-4bn2)
-- [Kubernetes Ingress Controllers and NGINX Ingress: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-ingress-controllers-and-nginx-ingress-a-complete-guide-4l9e)
-- [Mastering Kubernetes Services: External Access and Internal Networking](https://dev.to/abhay_yt_52a8e72b213be229/mastering-kubernetes-services-external-access-and-internal-networking-1ca2)
+- [Merge PDFs Recursively Using Python](https://dev.to/abbazs/merge-pdfs-recursively-using-python-402k)
+- [Migrate decorators to the input, query, and output functions](https://dev.to/railsstudent/migrate-decorators-to-the-input-query-and-output-functions-411d)
+- [Replace Text in PDFs Using Python](https://dev.to/abbazs/replace-text-in-pdfs-using-python-42k6)
+- [Solution to fix the &quot;Missing Compliance&quot; Warning at App Store Connect](https://dev.to/surhidamatya/solution-to-fix-the-missing-compliance-warning-at-app-store-connect-1kb6)
 <!-- BLOG-POST-LIST:END -->
 
