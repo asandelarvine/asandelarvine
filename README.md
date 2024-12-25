@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Configurar uma API Node.js com TypeScript em 2025](https://dev.to/codeinitdev/como-configurar-uma-api-nodejs-com-typescript-em-2025-3p32)
-- [Mastering Trampolining: A Deep Dive into Recursive Optimization](https://dev.to/frorning/mastering-trampolining-a-deep-dive-into-recursive-optimization-45nc)
-- [Find Largest Value in Each Tree Row](https://dev.to/ashchk/leetcode-daily-challenge-find-largest-value-in-each-tree-row-15l1)
-- [Fewer Files, More Lines vs. More Files, Fewer Lines of Code](https://dev.to/anmolsaini16/fewer-files-more-lines-vs-more-files-fewer-lines-of-code-gi7)
+- [Set up Anaconda on Ubuntu 22.04 in Minutes: Simplify Your AI Workflow](https://dev.to/nodeshiftcloud/set-up-anaconda-on-ubuntu-2204-in-minutes-simplify-your-ai-workflow-511d)
+- [Why You Should Learn Go in 2025](https://dev.to/empiree/why-you-should-learn-go-in-2025-308l)
+- [SOLID: The Interface Segregation Principle&lpar;ISP&rpar; in C#](https://dev.to/extinctsion/solid-the-interface-segregation-principleisp-in-c-n84)
+- [Real-Time Updates Anywhere, Anytime!](https://dev.to/soorajsuresh/real-time-updates-anywhere-anytime-4j65)
 <!-- BLOG-POST-LIST:END -->
 
