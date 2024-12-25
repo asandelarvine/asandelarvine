@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI-Powered Conversations: Building a Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot](https://dev.to/awwdudee/unlocking-ai-powered-conversations-building-a-retrieval-augmented-generation-rag-chatbot-3hpa)
-- [Use cases of Kafka](https://dev.to/sudo_anuj/use-cases-of-kafka-297m)
-- [鸿蒙Next状态管理V2-Local装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-localzhuang-shi-qi-zong-jie-4nn)
-- [Comparing AWS RDS and Amazon Aurora: Which Managed Database Service is Right for You?](https://dev.to/sudo_anuj/comparing-aws-rds-and-amazon-aurora-which-managed-database-service-is-right-for-you-3f2e)
+- [Data ingestion using AWS Services, Part 2](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-2-2pg7)
+- [Data ingestion using AWS Services, Part 1](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-1-ige)
+- [Efficiently Solving Two Sum II - Input Array Is Sorted](https://dev.to/abhivyaktii/efficiently-solving-two-sum-ii-input-array-is-sorted-323k)
+- [3 AM on Christmas: A Cloud Engineer&#39;s Holiday Survival Guide🎄](https://dev.to/aws-builders/3-am-on-christmas-a-cloud-engineers-holiday-survival-guide-3od7)
 <!-- BLOG-POST-LIST:END -->
 
