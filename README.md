@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data ingestion using AWS Services, Part 2](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-2-2pg7)
-- [Data ingestion using AWS Services, Part 1](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-1-ige)
-- [Efficiently Solving Two Sum II - Input Array Is Sorted](https://dev.to/abhivyaktii/efficiently-solving-two-sum-ii-input-array-is-sorted-323k)
-- [3 AM on Christmas: A Cloud Engineer&#39;s Holiday Survival Guide🎄](https://dev.to/aws-builders/3-am-on-christmas-a-cloud-engineers-holiday-survival-guide-3od7)
+- [Building Multi-Tenant SaaS Applications with Micro-SaaS Architecture](https://dev.to/virajlakshitha/building-multi-tenant-saas-applications-with-micro-saas-architecture-pm1)
+- [Optimizing Logistics: Strategies for Efficient Global Oil Transportation](https://dev.to/valorfzc/optimizing-logistics-strategies-for-efficient-global-oil-transportation-53ha)
+- [Convex &amp; Kinde](https://dev.to/sholajegede/convex-kinde-2pe1)
+- [Forget Everything You Thought You Knew About AI Video: Veo 2 is Here 🚀](https://dev.to/sathyaanand/forget-everything-you-thought-you-knew-about-ai-video-veo-2-is-here-1989)
 <!-- BLOG-POST-LIST:END -->
 
