@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay 1.7.0 Released: Now with NGINX Support!](https://dev.to/servbay/servbay-170-released-now-with-nginx-support-38gl)
-- [Bright data Challenge - Industry AI Watchdog](https://dev.to/tqbit/bright-data-challenge-industry-ai-watchdog-la5)
-- [Fast Track to Mock Data: A Developer&#39;s 2-Minute Guide](https://dev.to/theodoresummer/fast-track-to-mock-data-a-developers-2-minute-guide-52a7)
-- [Amazon Q Developer Tips: 25 tips to supercharge your development](https://dev.to/aws/amazon-q-developer-tips-25-tips-to-supercharge-your-development-2ffg)
+- [Understanding and Fixing &#39;Uncaught SyntaxError: Cannot Use Import Statement Outside a Module&#39; in JavaScript](https://dev.to/codeparrot/understanding-and-fixing-uncaught-syntaxerror-cannot-use-import-statement-outside-a-module-in-31a3)
+- [Mastering Visual Regression Testing in WDIO&lpar;WebdriverIO&rpar; with TypeScript: A Practical Approach](https://dev.to/jignect_technologies/mastering-visual-regression-testing-in-wdiowebdriverio-with-typescript-a-practical-approach-ha9)
+- [Google’s Most Powerful AI Yet: Google Gemini 2.0 Explained](https://dev.to/proflead/googles-most-powerful-ai-yet-google-gemini-20-explained-3m97)
+- [A Comprehensive Guide to JSDoc 📚](https://dev.to/alisamir/a-comprehensive-guide-to-jsdoc-3meb)
 <!-- BLOG-POST-LIST:END -->
 
