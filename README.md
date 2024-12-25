@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Tenant SaaS Applications with Micro-SaaS Architecture](https://dev.to/virajlakshitha/building-multi-tenant-saas-applications-with-micro-saas-architecture-pm1)
-- [Optimizing Logistics: Strategies for Efficient Global Oil Transportation](https://dev.to/valorfzc/optimizing-logistics-strategies-for-efficient-global-oil-transportation-53ha)
-- [Convex &amp; Kinde](https://dev.to/sholajegede/convex-kinde-2pe1)
-- [Forget Everything You Thought You Knew About AI Video: Veo 2 is Here 🚀](https://dev.to/sathyaanand/forget-everything-you-thought-you-knew-about-ai-video-veo-2-is-here-1989)
+- [Kubernetes Basic Commands for your Playground](https://dev.to/shannu_2057/kubernetes-basic-commands-for-your-playground-5bon)
+- [Advanced Perspectives on Multiprocessing and Task Queueing in Distributed Architectures](https://dev.to/awwdudee/advanced-perspectives-on-multiprocessing-and-task-queueing-in-distributed-architectures-58me)
+- [Advanced Perspectives on Multiprocessing and Task Queueing in Distributed Architectures](https://dev.to/awwdudee/advanced-perspectives-on-multiprocessing-and-task-queueing-in-distributed-architectures-3e1m)
+- [Angular](https://dev.to/negi-space/angular-31c3)
 <!-- BLOG-POST-LIST:END -->
 
