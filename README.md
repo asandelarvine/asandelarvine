@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/amitkumar13/-4hg6)
-- [Custom Website Design vs. Template Design: The Best Choice](https://dev.to/seo_esignature_8b18cc8801/custom-website-design-vs-template-design-the-best-choice-1pgi)
-- [SILENCE is Costing You More Than You Think!](https://dev.to/karell_stemarie_ce42bf9c/silence-is-costing-you-more-than-you-think-egg)
-- [New Post here!🍻](https://dev.to/digitaldrreamer/new-post-here-268j)
+- [What are the best practices for integrating Playwright with Jenkins](https://dev.to/hexa-home/what-are-the-best-practices-for-integrating-playwright-with-jenkins-1377)
+- [How can companies create a culture that encourages developers to ask for help?](https://dev.to/hexa-home/how-can-companies-create-a-culture-that-encourages-developers-to-ask-for-help-2h34)
+- [[Boost]](https://dev.to/maradwan/-54pg)
+- [What we do with the box-shadows](https://dev.to/anamartins/what-we-do-with-the-box-shadows-3d39)
 <!-- BLOG-POST-LIST:END -->
 
