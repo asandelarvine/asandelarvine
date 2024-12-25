@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v308](https://dev.to/devteam/welcome-thread-v308-12hc)
-- [Creating a Dog Care Calculator Using JavaScript](https://dev.to/learninggs/creating-a-dog-care-calculator-using-javascript-2oij)
-- [TS1019: An index signature parameter cannot have a question mark.](https://dev.to/lior_amsalem_3879371237f6/ts1019-an-index-signature-parameter-cannot-have-a-question-mark-4ca7)
-- [Becoming an AWS Community Builder](https://dev.to/aws-builders/becoming-an-aws-community-builder-3je3)
+- [#121 — Enumeration Grouping](https://dev.to/judith677/121-enumeration-grouping-5785)
+- [Wrapping Up 2024: IIS and Apache Tomcat Join the DevOps Basics Journey!](https://dev.to/tungbq/wrapping-up-2024-iis-and-apache-tomcat-join-the-devops-basics-journey-5gai)
+- [Java Stream Scenario Based Interview Question](https://dev.to/realnamehidden1_61/java-stream-scenario-based-interview-question-5e27)
+- [Master This Feature of DevEco Studio to Efficiently Implement ArkTS and C++ Glue Code](https://dev.to/qingkouwei/master-this-feature-of-deveco-studio-to-efficiently-implement-arkts-and-c-glue-code-32he)
 <!-- BLOG-POST-LIST:END -->
 
