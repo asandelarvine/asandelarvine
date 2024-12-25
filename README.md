@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Coding Smarter with AI: How to Improve Your Workflow Without Losing Your Touch](https://dev.to/respect17/coding-smarter-with-ai-how-to-improve-your-workflow-without-losing-your-touch-3ao2)
-- [Day 24: Thanks and Goodbye!](https://dev.to/code42cate/day-24-thanks-and-goodbye-144c)
-- [Looking for a mentor who could lead me to a right way for RPA developers](https://dev.to/barulancik/looking-for-a-mentor-who-could-lead-me-to-a-right-way-for-rpa-developers-4ejd)
-- [Ensuring Data Security When Using Currency Exchange Rate APIs](https://dev.to/devapis/ensuring-data-security-when-using-currency-exchange-rate-apis-1iik)
+- [Unlocking AI-Powered Conversations: Building a Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot](https://dev.to/awwdudee/unlocking-ai-powered-conversations-building-a-retrieval-augmented-generation-rag-chatbot-3hpa)
+- [Use cases of Kafka](https://dev.to/sudo_anuj/use-cases-of-kafka-297m)
+- [鸿蒙Next状态管理V2-Local装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-localzhuang-shi-qi-zong-jie-4nn)
+- [Comparing AWS RDS and Amazon Aurora: Which Managed Database Service is Right for You?](https://dev.to/sudo_anuj/comparing-aws-rds-and-amazon-aurora-which-managed-database-service-is-right-for-you-3f2e)
 <!-- BLOG-POST-LIST:END -->
 
