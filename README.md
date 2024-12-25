@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next - OPUS Audio Encoding in Audio and Video in Practice](https://dev.to/qingkouwei/harmonyos-next-opus-audio-encoding-in-audio-and-video-in-practice-2kb6)
-- [State Isolation: Layout vs Workspace](https://dev.to/samuel_udeh/state-isolation-layout-vs-workspace-ji9)
-- [HarmonyOS Next - Mastering Log Knowledge in One Article](https://dev.to/qingkouwei/harmonyos-next-mastering-log-knowledge-in-one-article-573b)
-- [Boost Unit Test Efficiency Using Ai-Powered Extensions For Vs Code](https://dev.to/keploy/boost-unit-test-efficiency-using-ai-powered-extensions-for-vs-code-434h)
+- [Continuous UI Testing Pipeline: BrowserStack with GitHub Actions](https://dev.to/keploy/continuous-ui-testing-pipeline-browserstack-with-github-actions-3k37)
+- [Writing Unit Tests for an Express.js Application: A Beginner-Friendly Guide](https://dev.to/mohinsheikh/writing-unit-tests-for-an-expressjs-application-a-beginner-friendly-guide-42eo)
+- [Figma To Code using CodeParrot AI](https://dev.to/codeparrot/figma-to-code-using-codeparrot-ai-3i8l)
+- [Getting Started with Spring WebFlux](https://dev.to/eric6166/getting-started-with-spring-webflux-4231)
 <!-- BLOG-POST-LIST:END -->
 
