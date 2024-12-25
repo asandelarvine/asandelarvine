@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Novel Creation Using Generative AI: Day 1](https://dev.to/saugata/my-journey-into-novel-creation-using-generative-ai-day-1-2g8i)
-- [Wishing you and your loved ones a peaceful, joyous, and very merry Christmas! 🎄🎅🏻](https://dev.to/devmercy/wishing-you-and-your-loved-ones-a-peaceful-joyous-and-very-merry-christmas-lbp)
-- [🎗️Breast Cancer Prediction with Decision Trees](https://dev.to/pragyan_tiwari_ad31c0323f/breast-cancer-prediction-with-decision-trees-58cj)
-- [I am productive, are you?](https://dev.to/rinidhdhokia/i-am-productive-are-you-325a)
+- [Join the AWS Community Builders and Transform Your Cloud Career](https://dev.to/lindiwe09/join-the-aws-community-builders-and-transform-your-cloud-career-1b26)
+- [How To Improve Performance Of My ASP.NET Core Web API In 18x Times Using HybridCache In .NET 9](https://dev.to/antonmartyniuk/how-to-improve-performance-of-my-aspnet-core-web-api-in-18x-times-using-hybridcache-in-net-9-o2k)
+- [How I Reduced API Latency by 40% with Server-Side Caching 🚀](https://dev.to/digitalminds/how-i-reduced-api-latency-by-40-with-server-side-caching-34n7)
+- [Specialization Isn&#39;t Enough - Why You Need Specialized Teamwork](https://dev.to/shrsv/specialization-isnt-enough-why-you-need-specialized-teamwork-3cak)
 <!-- BLOG-POST-LIST:END -->
 
