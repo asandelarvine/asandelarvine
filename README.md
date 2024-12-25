@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Fixing &#39;Uncaught SyntaxError: Cannot Use Import Statement Outside a Module&#39; in JavaScript](https://dev.to/codeparrot/understanding-and-fixing-uncaught-syntaxerror-cannot-use-import-statement-outside-a-module-in-31a3)
-- [Mastering Visual Regression Testing in WDIO&lpar;WebdriverIO&rpar; with TypeScript: A Practical Approach](https://dev.to/jignect_technologies/mastering-visual-regression-testing-in-wdiowebdriverio-with-typescript-a-practical-approach-ha9)
-- [Google’s Most Powerful AI Yet: Google Gemini 2.0 Explained](https://dev.to/proflead/googles-most-powerful-ai-yet-google-gemini-20-explained-3m97)
-- [A Comprehensive Guide to JSDoc 📚](https://dev.to/alisamir/a-comprehensive-guide-to-jsdoc-3meb)
+- [[Boost]](https://dev.to/amitkumar13/-4hg6)
+- [Custom Website Design vs. Template Design: The Best Choice](https://dev.to/seo_esignature_8b18cc8801/custom-website-design-vs-template-design-the-best-choice-1pgi)
+- [SILENCE is Costing You More Than You Think!](https://dev.to/karell_stemarie_ce42bf9c/silence-is-costing-you-more-than-you-think-egg)
+- [New Post here!🍻](https://dev.to/digitaldrreamer/new-post-here-268j)
 <!-- BLOG-POST-LIST:END -->
 
