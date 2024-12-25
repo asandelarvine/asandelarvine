@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Basic Commands for your Playground](https://dev.to/shannu_2057/kubernetes-basic-commands-for-your-playground-5bon)
-- [Advanced Perspectives on Multiprocessing and Task Queueing in Distributed Architectures](https://dev.to/awwdudee/advanced-perspectives-on-multiprocessing-and-task-queueing-in-distributed-architectures-58me)
-- [Advanced Perspectives on Multiprocessing and Task Queueing in Distributed Architectures](https://dev.to/awwdudee/advanced-perspectives-on-multiprocessing-and-task-queueing-in-distributed-architectures-3e1m)
-- [Angular](https://dev.to/negi-space/angular-31c3)
+- [Welcome Thread - v308](https://dev.to/devteam/welcome-thread-v308-12hc)
+- [Creating a Dog Care Calculator Using JavaScript](https://dev.to/learninggs/creating-a-dog-care-calculator-using-javascript-2oij)
+- [TS1019: An index signature parameter cannot have a question mark.](https://dev.to/lior_amsalem_3879371237f6/ts1019-an-index-signature-parameter-cannot-have-a-question-mark-4ca7)
+- [Becoming an AWS Community Builder](https://dev.to/aws-builders/becoming-an-aws-community-builder-3je3)
 <!-- BLOG-POST-LIST:END -->
 
