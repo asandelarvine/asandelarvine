@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Serve Only Data to AI Crawlers?](https://dev.to/sip/can-you-serve-only-data-to-ai-crawlers-4edb)
-- [Step by Step Guide to deploy a web app with CI/CD pipelines on Azure App Service.](https://dev.to/seyilufadejucyberservices/step-by-step-guide-to-deploy-a-web-app-with-cicd-pipelines-on-azure-app-service-ae4)
-- [React 19: The Features You Need to Know!](https://dev.to/mukhilpadmanabhan/react-19-the-features-you-need-to-know-55h6)
-- [When to replace IN&lpar;&rpar; with EXISTS&lpar;&rpar; - correlated and uncorrelated subqueries](https://dev.to/yugabyte/when-to-replace-in-with-exists-correlated-and-uncorrelated-subqueries-flk)
+- [Containerizing a Three-Tier Application with Docker: A Hands-On Guide](https://dev.to/nolunchbreaks_22/containerizing-a-three-tier-application-with-docker-a-hands-on-guide-36pk)
+- [Top 10 React js interview questions.](https://dev.to/griffin_techs_/top-10-react-js-interview-questions-5g8d)
+- [Mushroom loading screen](https://dev.to/alex_f2d6ab289c59897d21fa/mushroom-loading-screen-3685)
+- [Difference between AWS Security Groups and NACL](https://dev.to/cloudcuddler/difference-between-aws-security-groups-and-nacl-32f0)
 <!-- BLOG-POST-LIST:END -->
 
