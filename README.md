@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#121 — Enumeration Grouping](https://dev.to/judith677/121-enumeration-grouping-5785)
-- [Wrapping Up 2024: IIS and Apache Tomcat Join the DevOps Basics Journey!](https://dev.to/tungbq/wrapping-up-2024-iis-and-apache-tomcat-join-the-devops-basics-journey-5gai)
-- [Java Stream Scenario Based Interview Question](https://dev.to/realnamehidden1_61/java-stream-scenario-based-interview-question-5e27)
-- [Master This Feature of DevEco Studio to Efficiently Implement ArkTS and C++ Glue Code](https://dev.to/qingkouwei/master-this-feature-of-deveco-studio-to-efficiently-implement-arkts-and-c-glue-code-32he)
+- [HarmonyOS Next - OPUS Audio Encoding in Audio and Video in Practice](https://dev.to/qingkouwei/harmonyos-next-opus-audio-encoding-in-audio-and-video-in-practice-2kb6)
+- [State Isolation: Layout vs Workspace](https://dev.to/samuel_udeh/state-isolation-layout-vs-workspace-ji9)
+- [HarmonyOS Next - Mastering Log Knowledge in One Article](https://dev.to/qingkouwei/harmonyos-next-mastering-log-knowledge-in-one-article-573b)
+- [Boost Unit Test Efficiency Using Ai-Powered Extensions For Vs Code](https://dev.to/keploy/boost-unit-test-efficiency-using-ai-powered-extensions-for-vs-code-434h)
 <!-- BLOG-POST-LIST:END -->
 
