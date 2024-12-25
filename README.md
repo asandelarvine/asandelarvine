@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the AWS Community Builders and Transform Your Cloud Career](https://dev.to/lindiwe09/join-the-aws-community-builders-and-transform-your-cloud-career-1b26)
-- [How To Improve Performance Of My ASP.NET Core Web API In 18x Times Using HybridCache In .NET 9](https://dev.to/antonmartyniuk/how-to-improve-performance-of-my-aspnet-core-web-api-in-18x-times-using-hybridcache-in-net-9-o2k)
-- [How I Reduced API Latency by 40% with Server-Side Caching 🚀](https://dev.to/digitalminds/how-i-reduced-api-latency-by-40-with-server-side-caching-34n7)
-- [Specialization Isn&#39;t Enough - Why You Need Specialized Teamwork](https://dev.to/shrsv/specialization-isnt-enough-why-you-need-specialized-teamwork-3cak)
+- [Can You Serve Only Data to AI Crawlers?](https://dev.to/sip/can-you-serve-only-data-to-ai-crawlers-4edb)
+- [Step by Step Guide to deploy a web app with CI/CD pipelines on Azure App Service.](https://dev.to/seyilufadejucyberservices/step-by-step-guide-to-deploy-a-web-app-with-cicd-pipelines-on-azure-app-service-ae4)
+- [React 19: The Features You Need to Know!](https://dev.to/mukhilpadmanabhan/react-19-the-features-you-need-to-know-55h6)
+- [When to replace IN&lpar;&rpar; with EXISTS&lpar;&rpar; - correlated and uncorrelated subqueries](https://dev.to/yugabyte/when-to-replace-in-with-exists-correlated-and-uncorrelated-subqueries-flk)
 <!-- BLOG-POST-LIST:END -->
 
