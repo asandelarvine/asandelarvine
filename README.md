@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with URLs in JavaScript](https://dev.to/logrocket/working-with-urls-in-javascript-1m7f)
-- [Here are some notes I learned while building a Gen AI app with Next.js and Nest.js](https://dev.to/tak089/here-are-some-notes-i-learned-while-building-a-gen-ai-app-with-nextjs-and-nestjs-1a95)
-- [Cost Comparison: Neon vs. Azure Database for PostgreSQL Flexible Server](https://dev.to/bobur/cost-comparison-neon-vs-azure-database-for-postgresql-flexible-server-2lpp)
-- [Setting Up Ubuntu Linux on Windows: A Developer&#39;s Guide](https://dev.to/devopsbysetchuko/setting-up-ubuntu-linux-on-windows-a-developers-guide-22e5)
+- [Como Configurar uma API Node.js com TypeScript em 2025](https://dev.to/codeinitdev/como-configurar-uma-api-nodejs-com-typescript-em-2025-3p32)
+- [Mastering Trampolining: A Deep Dive into Recursive Optimization](https://dev.to/frorning/mastering-trampolining-a-deep-dive-into-recursive-optimization-45nc)
+- [Find Largest Value in Each Tree Row](https://dev.to/ashchk/leetcode-daily-challenge-find-largest-value-in-each-tree-row-15l1)
+- [Fewer Files, More Lines vs. More Files, Fewer Lines of Code](https://dev.to/anmolsaini16/fewer-files-more-lines-vs-more-files-fewer-lines-of-code-gi7)
 <!-- BLOG-POST-LIST:END -->
 
