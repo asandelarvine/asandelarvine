@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Screener.in Search API: A Performance Checkup! 🔎](https://dev.to/shahstavan/screenerin-search-api-a-performance-checkup-518m)
-- [Make EditorJS work in Svelte&lpar;kit&rpar; SSR](https://dev.to/digitaldrreamer/make-editorjs-work-in-sveltekit-ssr-34ho)
-- [Chrome DevTools: Everything You Need to Know](https://dev.to/kevin-uehara/chrome-devtools-everything-you-need-to-know-51pk)
-- [Nomeação de variáveis baseada no clean code](https://dev.to/domgarotom/nomeacao-de-variaveis-baseada-no-clean-code-36g2)
+- [Working with URLs in JavaScript](https://dev.to/logrocket/working-with-urls-in-javascript-1m7f)
+- [Here are some notes I learned while building a Gen AI app with Next.js and Nest.js](https://dev.to/tak089/here-are-some-notes-i-learned-while-building-a-gen-ai-app-with-nextjs-and-nestjs-1a95)
+- [Cost Comparison: Neon vs. Azure Database for PostgreSQL Flexible Server](https://dev.to/bobur/cost-comparison-neon-vs-azure-database-for-postgresql-flexible-server-2lpp)
+- [Setting Up Ubuntu Linux on Windows: A Developer&#39;s Guide](https://dev.to/devopsbysetchuko/setting-up-ubuntu-linux-on-windows-a-developers-guide-22e5)
 <!-- BLOG-POST-LIST:END -->
 
