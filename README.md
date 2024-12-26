@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Svelte 4 to Svelte 5: Understanding Slots &lpar;default and named&rpar;](https://dev.to/digitaldrreamer/from-svelte-4-to-svelte-5-understanding-slots-default-and-named-259n)
-- [Flutter 3.27: Wrapping Up the Year with Innovation and Progress](https://dev.to/tech_tales_daa8a7eab515b3/flutter-327-wrapping-up-the-year-with-innovation-and-progress-5dhj)
-- [Getting Started with Grafana: Your Observability Superhero Awaits](https://dev.to/mettasurendhar/getting-started-with-grafana-your-observability-superhero-awaits-okl)
-- [DeltaSharing en Databricks](https://dev.to/andresguecha/deltasharing-en-databricks-2f78)
+- [TIL: Vite can do HTML Env variables](https://dev.to/isaiahwp/til-vite-can-do-html-env-variables-3n52)
+- [Is Getting a CCNA Certification Worth in 2025?](https://dev.to/skillboosttrainer/is-getting-a-ccna-certification-worth-in-2025-5g7k)
+- [IRIS-RAG-Gen: Personalizing ChatGPT RAG Application Powered by IRIS Vector Search](https://dev.to/intersystems/iris-rag-gen-personalizing-chatgpt-rag-application-powered-by-iris-vector-search-1lij)
+- [Winter Solstice](https://dev.to/rafiya_1207/winter-solstice-jdm)
 <!-- BLOG-POST-LIST:END -->
 
