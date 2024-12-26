@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrated Development Environments&lpar;IDE&rpar;: How They Transform Coding and Boost Productivity](https://dev.to/hexadecimalsoftware/integrated-development-environmentside-how-they-transform-coding-and-boost-productivity-1an5)
-- [Best Practices for Secure File Uploads in PHP: Preventing Common Vulnerabilities](https://dev.to/abhay_yt_52a8e72b213be229/best-practices-for-secure-file-uploads-in-php-preventing-common-vulnerabilities-1p24)
-- [Understanding PHP-FPM: Key Differences from Traditional PHP Processes and Benefits](https://dev.to/abhay_yt_52a8e72b213be229/understanding-php-fpm-key-differences-from-traditional-php-processes-and-benefits-2eh7)
-- [An example of HACS: Adaptive Lighting](https://dev.to/nfrankel/an-example-of-hacs-adaptive-lighting-3hn0)
+- [Coroutines, Distributed Cache, Resilience, and Replication in Kotlin — Making a VMA’s application](https://dev.to/jofisaes/coroutines-distributed-cache-resilience-and-replication-in-kotlin-making-a-vmas-application-3lo5)
+- [AWS Security: A Guide to AWS IAM, IAM Roles, and Policy Assignment](https://dev.to/s3cloudhub/aws-security-a-guide-to-aws-iam-iam-roles-and-policy-assignment-29n5)
+- [Js in bits - 5.6&lpar;datatypes - undefined&rpar;](https://dev.to/avinashd10/js-in-bits-56datatypes-undefined-cha)
+- [Frontend Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/shravya_shetty/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-2mj2)
 <!-- BLOG-POST-LIST:END -->
 
