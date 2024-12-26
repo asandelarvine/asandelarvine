@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Clickjacking in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-clickjacking-in-laravel-applications-2hfe)
-- [Understand cURL more in Just 10 Minutes！🔥🔥](https://dev.to/fallon_jimmy/understand-curl-more-in-just-10-minutes-32om)
-- [Js in bits - 4&lpar;variables&rpar;](https://dev.to/avinashd10/js-in-bits-4variables-1d14)
-- [API7 Enterprise v3.3.0 Supports API Portal](https://dev.to/api7/api7-enterprise-v330-supports-api-portal-365m)
+- [Integrated Development Environments&lpar;IDE&rpar;: How They Transform Coding and Boost Productivity](https://dev.to/hexadecimalsoftware/integrated-development-environmentside-how-they-transform-coding-and-boost-productivity-1an5)
+- [Best Practices for Secure File Uploads in PHP: Preventing Common Vulnerabilities](https://dev.to/abhay_yt_52a8e72b213be229/best-practices-for-secure-file-uploads-in-php-preventing-common-vulnerabilities-1p24)
+- [Understanding PHP-FPM: Key Differences from Traditional PHP Processes and Benefits](https://dev.to/abhay_yt_52a8e72b213be229/understanding-php-fpm-key-differences-from-traditional-php-processes-and-benefits-2eh7)
+- [An example of HACS: Adaptive Lighting](https://dev.to/nfrankel/an-example-of-hacs-adaptive-lighting-3hn0)
 <!-- BLOG-POST-LIST:END -->
 
