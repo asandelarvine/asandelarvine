@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Sleek Digital Clock with Free Source Code](https://dev.to/safdarali25/build-your-own-sleek-digital-clock-with-free-source-code-a90)
-- [Introducing RealtimeAgent Capabilities in AG2](https://dev.to/ag2ai/introducing-realtimeagent-capabilities-in-ag2-n8d)
-- [Winter Solstice Celebrations - DEV Frontend Challenge Submission](https://dev.to/parnab03/winter-solstice-celebrations-dev-frontend-challenge-submission-387a)
-- [Generating OpenAPI API clients for Angular](https://dev.to/logrocket/generating-openapi-api-clients-for-angular-4ie0)
+- [Terminal Animations with Node.js](https://dev.to/vladimirvovk/terminal-animations-with-nodejs-2lld)
+- [React Context and Hooks: The Modern Approach to State Management 🚀](https://dev.to/onkar895/react-context-and-hooks-the-modern-approach-to-state-management-2a1p)
+- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-6l3)
+- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-4dca)
 <!-- BLOG-POST-LIST:END -->
 
