@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Mode and Night Mode with Tailwind CSS and CSS Variables](https://dev.to/anandu_dev_a75fe0162e268f/dark-mode-and-night-mode-with-tailwind-css-and-css-variables-3047)
-- [5 Instagantt Alternatives That Can Do Better](https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-2g3b)
-- [Why is Oracle Autonomous Database a Game-Changer for DBAs?](https://dev.to/wiseguide/why-is-oracle-autonomous-database-a-game-changer-for-dbas-36i0)
-- [SQL Injection &lpar;SQLi&rpar;](https://dev.to/golam_mostafa/sql-injection-sqli-58af)
+- [Simplify Your Algorithms and Data Structures Revision with This Free Resource!](https://dev.to/risabhkedai/simplify-your-algorithms-and-data-structures-revision-with-this-free-resource-57gn)
+- [Lazy loading vs. Eager loading](https://dev.to/logrocket/lazy-loading-vs-eager-loading-2a10)
+- [The Best of 2024 from Rails Designer &lpar;number 1 won&#39;t surprise you 🤪&rpar;](https://dev.to/railsdesigner/the-best-of-2024-from-rails-designer-number-1-wont-surprise-you--30f5)
+- [How Toolzr Was Built](https://dev.to/toolzr/how-toolzr-was-built-2fpd)
 <!-- BLOG-POST-LIST:END -->
 
