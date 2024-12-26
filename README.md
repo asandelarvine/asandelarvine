@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adjust the intensity/brightness of colors in SwiftUI views](https://dev.to/divyeshvekariya/adjust-the-intensity-of-colors-in-swiftui-views-2oia)
-- [Build Real-Time Presence Features Like Figma and Google Docs in Your App in Minutes🚀🔥🧑‍💻](https://dev.to/astrodevil/build-real-time-presence-features-like-figma-and-google-docs-in-your-app-in-minutes-1lae)
-- [This blog covers commonly used types of operators and their purposes](https://dev.to/thedevricha/this-blog-covers-commonly-used-types-of-operators-and-their-purposes-352a)
-- [A Developer&#39;s Guide to Building Fast and Scalable Apps With Vite](https://dev.to/timvandort7291/a-developers-guide-to-building-fast-and-scalable-apps-with-vite-20ja)
+- [Preventing Clickjacking in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-clickjacking-in-laravel-applications-2hfe)
+- [Understand cURL more in Just 10 Minutes！🔥🔥](https://dev.to/fallon_jimmy/understand-curl-more-in-just-10-minutes-32om)
+- [Js in bits - 4&lpar;variables&rpar;](https://dev.to/avinashd10/js-in-bits-4variables-1d14)
+- [API7 Enterprise v3.3.0 Supports API Portal](https://dev.to/api7/api7-enterprise-v330-supports-api-portal-365m)
 <!-- BLOG-POST-LIST:END -->
 
