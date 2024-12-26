@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coroutines, Distributed Cache, Resilience, and Replication in Kotlin — Making a VMA’s application](https://dev.to/jofisaes/coroutines-distributed-cache-resilience-and-replication-in-kotlin-making-a-vmas-application-3lo5)
-- [AWS Security: A Guide to AWS IAM, IAM Roles, and Policy Assignment](https://dev.to/s3cloudhub/aws-security-a-guide-to-aws-iam-iam-roles-and-policy-assignment-29n5)
-- [Js in bits - 5.6&lpar;datatypes - undefined&rpar;](https://dev.to/avinashd10/js-in-bits-56datatypes-undefined-cha)
-- [Frontend Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/shravya_shetty/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-2mj2)
+- [Glance Widget: Revolutionizing Android Lock Screens with Unparalleled Weather Insights](https://dev.to/prajakta_gawande_9485a4fd/glance-widget-revolutionizing-android-lock-screens-with-unparalleled-weather-insights-575a)
+- [Implement a Time-based Service in .NET 8 by using IHostedService Interface](https://dev.to/elpidaguy/implement-a-time-based-service-in-net-8-by-using-ihostedservice-interface-1328)
+- [The Best Programming Languages to Learn in 2025](https://dev.to/trixsec/the-best-programming-languages-to-learn-in-2025-3jhl)
+- [Building a Real-time Collaboration Platform with Go and WebSockets](https://dev.to/indalyadav56/building-a-real-time-collaboration-platform-with-go-and-websockets-3h4e)
 <!-- BLOG-POST-LIST:END -->
 
