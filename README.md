@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Lazy Loading: A Complete Guide Introduction](https://dev.to/manikanta_ketha_bf00556e9/mastering-react-lazy-loading-a-complete-guideintroduction-4ii5)
-- [How to Implement a Free Geolocation API in Your Next Project](https://dev.to/devapis/how-to-implement-a-free-geolocation-api-in-your-next-project-3ded)
-- [Encryption: ciphers, digests, salt, IV](https://dev.to/gliimly/encryption-ciphers-digests-salt-iv-5j4)
-- [The Power of Closures in JavaScript](https://dev.to/tajammal_mabool/the-power-of-closures-in-javascript-49n2)
+- [Seamless Nuxt 2 Deployment: A Step-by-Step Guide with GitLab CI/CD and DigitalOcean](https://dev.to/tegos/seamless-nuxt-2-deployment-a-step-by-step-guide-with-gitlab-cicd-and-digitalocean-441d)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/stack_dev/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-17a)
+- [Laravel queues: Skip job if no longer required](https://dev.to/sertxudev/laravel-queues-skip-job-if-no-longer-required-4g45)
+- [Kafka fundamentals with a practical example](https://dev.to/ricardo_borges/kafka-fundamentals-with-a-practical-example-25bi)
 <!-- BLOG-POST-LIST:END -->
 
