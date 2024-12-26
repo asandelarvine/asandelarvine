@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TOP AI Coding Tools Compared: Flatlogic, FlutterFlow AI Gen, v0, Softr.io](https://dev.to/flatlogic/top-ai-coding-tools-compared-flatlogic-flutterflow-ai-gen-v0-softrio-1gfg)
-- [Free Forex Live Rates API to Test](https://dev.to/bradi/free-forex-live-rates-api-to-test-3in3)
-- [Project Zomboid: A Decade-Long Adventure](https://dev.to/painkiller/project-zomboid-a-decade-long-adventure-4dnd)
-- [A Beginner’s Guide to Amazon CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/aws-builders/a-beginners-guide-to-amazon-cloudwatch-monitoring-your-cloud-like-a-pro-3aje)
+- [How AI and Semantic Search Will Revolutionize Parts Lookup](https://dev.to/robertwilson1/how-ai-and-semantic-search-will-revolutionize-parts-lookup-45oa)
+- [Exploring Git Miscellaneous Features: Bare Repositories, SVN, Size Management, Stats, and Archive](https://dev.to/abhay_yt_52a8e72b213be229/exploring-git-miscellaneous-features-bare-repositories-svn-size-management-stats-and-archive-383g)
+- [Git Performance: Optimizing Your Workflow with Shallow Cloning, Sparse Checkout, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-performance-optimizing-your-workflow-with-shallow-cloning-sparse-checkout-and-more-48ek)
+- [Understanding Inheritance in Java Through a Practical Example](https://dev.to/rama13850/understanding-inheritance-in-java-through-a-practical-example-55l2)
 <!-- BLOG-POST-LIST:END -->
 
