@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Can&#39;t Stop Trading &lpar;And Why That&#39;s A Good Thing!&rpar;](https://dev.to/shrsv/why-we-cant-stop-trading-and-why-thats-a-good-thing-2ae3)
-- [Tell Don&#39;t Ask principle explained](https://dev.to/thibaultchatelain/tell-dont-ask-principle-explained-1gbf)
-- [Como Instalar o n8n com Suporte a Pastas para Workflows - Guia Completo de Instalação Local](https://dev.to/ronieremarques/como-instalar-o-n8n-com-suporte-a-pastas-para-workflows-guia-completo-de-instalacao-local-2o1m)
-- [494. Target Sum](https://dev.to/mdarifulhaque/494-target-sum-1p2i)
+- [Mastering React Lazy Loading: A Complete Guide Introduction](https://dev.to/manikanta_ketha_bf00556e9/mastering-react-lazy-loading-a-complete-guideintroduction-4ii5)
+- [How to Implement a Free Geolocation API in Your Next Project](https://dev.to/devapis/how-to-implement-a-free-geolocation-api-in-your-next-project-3ded)
+- [Encryption: ciphers, digests, salt, IV](https://dev.to/gliimly/encryption-ciphers-digests-salt-iv-5j4)
+- [The Power of Closures in JavaScript](https://dev.to/tajammal_mabool/the-power-of-closures-in-javascript-49n2)
 <!-- BLOG-POST-LIST:END -->
 
