@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI and Semantic Search Will Revolutionize Parts Lookup](https://dev.to/robertwilson1/how-ai-and-semantic-search-will-revolutionize-parts-lookup-45oa)
-- [Exploring Git Miscellaneous Features: Bare Repositories, SVN, Size Management, Stats, and Archive](https://dev.to/abhay_yt_52a8e72b213be229/exploring-git-miscellaneous-features-bare-repositories-svn-size-management-stats-and-archive-383g)
-- [Git Performance: Optimizing Your Workflow with Shallow Cloning, Sparse Checkout, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-performance-optimizing-your-workflow-with-shallow-cloning-sparse-checkout-and-more-48ek)
-- [Understanding Inheritance in Java Through a Practical Example](https://dev.to/rama13850/understanding-inheritance-in-java-through-a-practical-example-55l2)
+- [From Svelte 4 to Svelte 5: Understanding Slots &lpar;default and named&rpar;](https://dev.to/digitaldrreamer/from-svelte-4-to-svelte-5-understanding-slots-default-and-named-259n)
+- [Flutter 3.27: Wrapping Up the Year with Innovation and Progress](https://dev.to/tech_tales_daa8a7eab515b3/flutter-327-wrapping-up-the-year-with-innovation-and-progress-5dhj)
+- [Getting Started with Grafana: Your Observability Superhero Awaits](https://dev.to/mettasurendhar/getting-started-with-grafana-your-observability-superhero-awaits-okl)
+- [DeltaSharing en Databricks](https://dev.to/andresguecha/deltasharing-en-databricks-2f78)
 <!-- BLOG-POST-LIST:END -->
 
