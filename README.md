@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Vite can do HTML Env variables](https://dev.to/isaiahwp/til-vite-can-do-html-env-variables-3n52)
-- [Is Getting a CCNA Certification Worth in 2025?](https://dev.to/skillboosttrainer/is-getting-a-ccna-certification-worth-in-2025-5g7k)
-- [IRIS-RAG-Gen: Personalizing ChatGPT RAG Application Powered by IRIS Vector Search](https://dev.to/intersystems/iris-rag-gen-personalizing-chatgpt-rag-application-powered-by-iris-vector-search-1lij)
-- [Winter Solstice](https://dev.to/rafiya_1207/winter-solstice-jdm)
+- [Build Your Own Sleek Digital Clock with Free Source Code](https://dev.to/safdarali25/build-your-own-sleek-digital-clock-with-free-source-code-a90)
+- [Introducing RealtimeAgent Capabilities in AG2](https://dev.to/ag2ai/introducing-realtimeagent-capabilities-in-ag2-n8d)
+- [Winter Solstice Celebrations - DEV Frontend Challenge Submission](https://dev.to/parnab03/winter-solstice-celebrations-dev-frontend-challenge-submission-387a)
+- [Generating OpenAPI API clients for Angular](https://dev.to/logrocket/generating-openapi-api-clients-for-angular-4ie0)
 <!-- BLOG-POST-LIST:END -->
 
