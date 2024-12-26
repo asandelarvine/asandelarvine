@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for a Frontend Developer Interview in 2025](https://dev.to/moibra/how-to-prepare-for-a-frontend-developer-interview-in-2025-2e6b)
-- [Amazon EKS Cluster Reliability with Node Auto Repair](https://dev.to/prithiviraj_rengarajan/amazon-eks-cluster-reliability-with-node-auto-repair-1151)
-- [Unveiling the Power of Java Oracle: A Comprehensive Guide](https://dev.to/james8976/unveiling-the-power-of-java-oracle-a-comprehensive-guide-46ci)
-- [Compiler/Interpreter](https://dev.to/pavithra_saravanan_2/compilerinterpreter-6d8)
+- [Adjust the intensity/brightness of colors in SwiftUI views](https://dev.to/divyeshvekariya/adjust-the-intensity-of-colors-in-swiftui-views-2oia)
+- [Build Real-Time Presence Features Like Figma and Google Docs in Your App in Minutes🚀🔥🧑‍💻](https://dev.to/astrodevil/build-real-time-presence-features-like-figma-and-google-docs-in-your-app-in-minutes-1lae)
+- [This blog covers commonly used types of operators and their purposes](https://dev.to/thedevricha/this-blog-covers-commonly-used-types-of-operators-and-their-purposes-352a)
+- [A Developer&#39;s Guide to Building Fast and Scalable Apps With Vite](https://dev.to/timvandort7291/a-developers-guide-to-building-fast-and-scalable-apps-with-vite-20ja)
 <!-- BLOG-POST-LIST:END -->
 
