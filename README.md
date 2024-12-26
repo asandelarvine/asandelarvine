@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terminal Animations with Node.js](https://dev.to/vladimirvovk/terminal-animations-with-nodejs-2lld)
-- [React Context and Hooks: The Modern Approach to State Management 🚀](https://dev.to/onkar895/react-context-and-hooks-the-modern-approach-to-state-management-2a1p)
-- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-6l3)
-- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-4dca)
+- [Dark Mode and Night Mode with Tailwind CSS and CSS Variables](https://dev.to/anandu_dev_a75fe0162e268f/dark-mode-and-night-mode-with-tailwind-css-and-css-variables-3047)
+- [5 Instagantt Alternatives That Can Do Better](https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-2g3b)
+- [Why is Oracle Autonomous Database a Game-Changer for DBAs?](https://dev.to/wiseguide/why-is-oracle-autonomous-database-a-game-changer-for-dbas-36i0)
+- [SQL Injection &lpar;SQLi&rpar;](https://dev.to/golam_mostafa/sql-injection-sqli-58af)
 <!-- BLOG-POST-LIST:END -->
 
