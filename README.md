@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Glance Widget: Revolutionizing Android Lock Screens with Unparalleled Weather Insights](https://dev.to/prajakta_gawande_9485a4fd/glance-widget-revolutionizing-android-lock-screens-with-unparalleled-weather-insights-575a)
-- [Implement a Time-based Service in .NET 8 by using IHostedService Interface](https://dev.to/elpidaguy/implement-a-time-based-service-in-net-8-by-using-ihostedservice-interface-1328)
-- [The Best Programming Languages to Learn in 2025](https://dev.to/trixsec/the-best-programming-languages-to-learn-in-2025-3jhl)
-- [Building a Real-time Collaboration Platform with Go and WebSockets](https://dev.to/indalyadav56/building-a-real-time-collaboration-platform-with-go-and-websockets-3h4e)
+- [TOP AI Coding Tools Compared: Flatlogic, FlutterFlow AI Gen, v0, Softr.io](https://dev.to/flatlogic/top-ai-coding-tools-compared-flatlogic-flutterflow-ai-gen-v0-softrio-1gfg)
+- [Free Forex Live Rates API to Test](https://dev.to/bradi/free-forex-live-rates-api-to-test-3in3)
+- [Project Zomboid: A Decade-Long Adventure](https://dev.to/painkiller/project-zomboid-a-decade-long-adventure-4dnd)
+- [A Beginner’s Guide to Amazon CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/aws-builders/a-beginners-guide-to-amazon-cloudwatch-monitoring-your-cloud-like-a-pro-3aje)
 <!-- BLOG-POST-LIST:END -->
 
