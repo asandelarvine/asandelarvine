@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Your Algorithms and Data Structures Revision with This Free Resource!](https://dev.to/risabhkedai/simplify-your-algorithms-and-data-structures-revision-with-this-free-resource-57gn)
-- [Lazy loading vs. Eager loading](https://dev.to/logrocket/lazy-loading-vs-eager-loading-2a10)
-- [The Best of 2024 from Rails Designer &lpar;number 1 won&#39;t surprise you 🤪&rpar;](https://dev.to/railsdesigner/the-best-of-2024-from-rails-designer-number-1-wont-surprise-you--30f5)
-- [How Toolzr Was Built](https://dev.to/toolzr/how-toolzr-was-built-2fpd)
+- [Why We Can&#39;t Stop Trading &lpar;And Why That&#39;s A Good Thing!&rpar;](https://dev.to/shrsv/why-we-cant-stop-trading-and-why-thats-a-good-thing-2ae3)
+- [Tell Don&#39;t Ask principle explained](https://dev.to/thibaultchatelain/tell-dont-ask-principle-explained-1gbf)
+- [Como Instalar o n8n com Suporte a Pastas para Workflows - Guia Completo de Instalação Local](https://dev.to/ronieremarques/como-instalar-o-n8n-com-suporte-a-pastas-para-workflows-guia-completo-de-instalacao-local-2o1m)
+- [494. Target Sum](https://dev.to/mdarifulhaque/494-target-sum-1p2i)
 <!-- BLOG-POST-LIST:END -->
 
