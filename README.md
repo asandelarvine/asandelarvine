@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Solusi Comment Reply WordPress Error Karena Rocket Loader Cloudflare](https://dev.to/ngobrolinit/solusi-comment-reply-wordpress-error-karena-rocket-loader-cloudflare-290f)
+- [Best Practices for Developing Non-English APIs](https://dev.to/apidog/best-practices-for-developing-non-english-apis-3bee)
 - [🚀 Boost Your Social Media Presence with Chain! 🌟](https://dev.to/hanzla-baig/boost-your-social-media-presence-with-chain-1gie)
 - [Configuring Hyper-V Global Default Directories](https://dev.to/jajera/configuring-hyper-v-global-default-directories-2opj)
-- [Deploy Laravel to Vercel](https://dev.to/jhonoryza/deploy-laravel-to-vercel-8bn)
-- [Redis Queue and Cron in Go](https://dev.to/jhonoryza/redis-queue-and-cron-in-go-1fl8)
 <!-- BLOG-POST-LIST:END -->
 
