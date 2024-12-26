@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerizing a Three-Tier Application with Docker: A Hands-On Guide](https://dev.to/nolunchbreaks_22/containerizing-a-three-tier-application-with-docker-a-hands-on-guide-36pk)
-- [Top 10 React js interview questions.](https://dev.to/griffin_techs_/top-10-react-js-interview-questions-5g8d)
-- [Mushroom loading screen](https://dev.to/alex_f2d6ab289c59897d21fa/mushroom-loading-screen-3685)
-- [Difference between AWS Security Groups and NACL](https://dev.to/cloudcuddler/difference-between-aws-security-groups-and-nacl-32f0)
+- [The Shift Toward Autonomous Testing: Revolutionizing Quality Assurance with Tools Like GenQE.ai](https://dev.to/anil_csimplifyit_905c/the-shift-toward-autonomous-testing-revolutionizing-quality-assurance-with-tools-like-genqeai-5hjk)
+- [515. Find Largest Value in Each Tree Row](https://dev.to/mdarifulhaque/515-find-largest-value-in-each-tree-row-1cbp)
+- [How to Set Up n8n on DigitalOcean with Docker and Caddy](https://dev.to/nasrulhazim/how-to-set-up-n8n-on-digitalocean-with-docker-and-caddy-1doo)
+- [鸿蒙Next状态管理V2 - @Param装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-paramzhuang-shi-qi-zong-jie-201a)
 <!-- BLOG-POST-LIST:END -->
 
