@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Web Dev: Friend, Foe, or Force Multiplier?](https://dev.to/awaisz99/ai-web-dev-friend-foe-or-force-multiplier-hhj)
-- [Do you think schema flexibility justifies using NoSQL? Think twice.](https://dev.to/ernestomar/do-you-think-schema-flexibility-justifies-using-nosql-think-twice-131p)
-- [I built a library of code snippets](https://dev.to/technoph1le/i-built-a-library-of-code-snippets-d66)
-- [The Rise of Web3: A New Era of the Decentralized Internet, NFTs, and the Future of Blockchains](https://dev.to/fashikun_mojoyinoluwa_20e/the-rise-of-web3-a-new-era-of-the-decentralized-internet-nfts-and-the-future-of-blockchains-2bn3)
+- [Chatbot with Semantic Kernel - Part 4: Whisper 👂](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-4-whisper-19ib)
+- [Powerful GenAI Enterprise Search with Onyx](https://dev.to/airabbit/powerful-genai-enterprise-search-with-onyx-15ca)
+- [Building a Kafka Producer and Consumer in Go](https://dev.to/indalyadav56/building-a-kafka-producer-and-consumer-in-go-4lan)
+- [Virtual PCF Controls are GA... but theming is not!](https://dev.to/_neronotte/virtual-pcf-controls-are-ga-but-theming-is-not-1k77)
 <!-- BLOG-POST-LIST:END -->
 
