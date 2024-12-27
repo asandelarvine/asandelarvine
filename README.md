@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Color Scheme Switcher with Free Source Code](https://dev.to/safdarali25/interactive-color-scheme-switcher-with-free-source-code-2kd3)
-- [「Mac畅玩鸿蒙与硬件9」鸿蒙开发环境配置篇9 - 使用Git进行版本控制](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-9-hong-meng-kai-fa-huan-jing-pei-zhi-pian-9-shi-yong-gitjin-xing-ban-ben-kong-zhi-165f)
-- [🚀A Developer’s Guide to Integrating Daytona with Android Projects ✨](https://dev.to/anuragkanojiya/a-developers-guide-to-integrating-daytona-with-android-projects-1a11)
-- [「Mac畅玩鸿蒙与硬件8」鸿蒙开发环境配置篇8 - 应用依赖与资源管理](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-8-hong-meng-kai-fa-huan-jing-pei-zhi-pian-8-ying-yong-yi-lai-yu-zi-yuan-guan-li-2og5)
+- [The Power of Habits: How to Build a Life You Love in 30 Days](https://dev.to/fashikun_mojoyinoluwa_20e/the-power-of-habits-how-to-build-a-life-you-love-in-30-days-3d37)
+- [15 Essential JavaScript Array Functions](https://dev.to/kafeel_ahmad/15-essential-javascript-array-functions-7fm)
+- [Your Ultimate Guide to Creating Profitable Notion Templates](https://dev.to/resource_bunk_1077cab07da/your-ultimate-guide-to-creating-profitable-notion-templates-1bef)
+- [Tutorial de Instalação: Express com MongoDB e Mongoose](https://dev.to/thaissacarvalho/tutorial-de-instalacao-express-com-mongodb-e-mongoose-7f3)
 <!-- BLOG-POST-LIST:END -->
 
