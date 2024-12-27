@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#123 — Convert One-Dimensional Array to Two-Dimensional Array](https://dev.to/judith677/123-convert-one-dimensional-array-to-two-dimensional-array-2mf1)
-- [Five GIS Toolboxes: Unlocking the Potential of Geographic Information Systems](https://dev.to/gisbox/five-gis-toolboxes-unlocking-the-potential-of-geographic-information-systems-1l28)
-- [Smart AI Memory System Boosts Language Models with Two-Pass Processing Method](https://dev.to/mikeyoung44/smart-ai-memory-system-boosts-language-models-with-two-pass-processing-method-4k95)
-- [Is CodeIgniter Still Relevant in 2025?](https://dev.to/3m1n3nc3/is-codeigniter-still-relevant-in-2025-3ppl)
+- [Quick Guide on How to Create a Project Timeline in PowerPoint](https://dev.to/thomasy0ung/quick-guide-on-how-to-create-a-project-timeline-in-powerpoint-57d)
+- [Learn how to create a circular menu with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-circular-menu-with-tailwind-css-and-javascript-2oeo)
+- [20+ Best Web Development Tools &amp; Software &lpar;With Pricing&rpar; to Use in 2025🎉🔥🔥](https://dev.to/fallon_jimmy/20-best-web-development-tools-software-with-pricing-to-use-in-2025-5gjk)
+- [A Practical Guide to Identifying and Mitigating Hallucinations Outputs in Language Models](https://dev.to/adipamartulandi/a-practical-guide-to-identifying-and-mitigating-hallucinations-outputs-in-language-models-58e2)
 <!-- BLOG-POST-LIST:END -->
 
