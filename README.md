@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Test Case Generators: Revolutionizing Software Testing](https://dev.to/keploy/ai-test-case-generators-revolutionizing-software-testing-4h29)
-- [How did I created a URL shortner](https://dev.to/shahadatkhokhar/how-did-i-created-a-url-shortner-4efk)
-- [Ecommerce Trends To Watch Out In 2025](https://dev.to/techdogs_inc/ecommerce-trends-to-watch-out-in-2025-5a50)
-- [Top IDEs for Java Development on Mac](https://dev.to/brilworks/top-ides-for-java-development-on-mac-1p6i)
+- [#123 — Convert One-Dimensional Array to Two-Dimensional Array](https://dev.to/judith677/123-convert-one-dimensional-array-to-two-dimensional-array-2mf1)
+- [Five GIS Toolboxes: Unlocking the Potential of Geographic Information Systems](https://dev.to/gisbox/five-gis-toolboxes-unlocking-the-potential-of-geographic-information-systems-1l28)
+- [Smart AI Memory System Boosts Language Models with Two-Pass Processing Method](https://dev.to/mikeyoung44/smart-ai-memory-system-boosts-language-models-with-two-pass-processing-method-4k95)
+- [Is CodeIgniter Still Relevant in 2025?](https://dev.to/3m1n3nc3/is-codeigniter-still-relevant-in-2025-3ppl)
 <!-- BLOG-POST-LIST:END -->
 
