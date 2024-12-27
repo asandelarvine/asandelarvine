@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [End to End Testing No More](https://dev.to/dishitdevasia/end-to-end-testing-no-more-56md)
-- [How to Use Google AI Cloud Vision API to Analyze Images - Easy Step by Step Tutorial](https://dev.to/codingmoney/how-to-use-google-ai-cloud-vision-api-to-analyze-images-easy-step-by-step-tutorial-ag0)
-- [HTTP Testing Tools for Mac in 2025](https://dev.to/auden/http-testing-tools-for-mac-in-2025-2f8g)
-- [How to Know What Shopify Apps a Store is Using](https://dev.to/sakinur_rahman_c906707428/how-to-know-what-shopify-apps-a-store-is-using-6bb)
+- [Empowering Quality Assurance with Testing and Automation](https://dev.to/wiseguide/empowering-quality-assurance-with-testing-and-automation-456n)
+- [How to Configure GitHub Authentication Using SSH Certificates](https://dev.to/jajera/how-to-configure-github-authentication-using-ssh-certificates-3haj)
+- [Understanding the Essentials of Blockchain Technology](https://dev.to/napkingun7/understanding-the-essentials-of-blockchain-technology-4ii1)
+- [How AI is Transforming Web Development: From Automation to Personalization](https://dev.to/rayan2228/how-ai-is-transforming-web-development-from-automation-to-personalization-1fef)
 <!-- BLOG-POST-LIST:END -->
 
