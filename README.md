@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Pricing Models and Billing: A Guide to Managing Costs in the Cloud](https://dev.to/abhay_yt_52a8e72b213be229/aws-pricing-models-and-billing-a-guide-to-managing-costs-in-the-cloud-4bm1)
-- [Track Amazon Prices in Real-Time and Solve CAPTCHAs Seamlessly with Bright Data](https://dev.to/sholajegede/track-amazon-prices-in-real-time-and-solve-captchas-seamlessly-with-bright-data-3533)
-- [DLL injection of managed code into native process](https://dev.to/gervantofryvia/dll-injection-of-managed-code-into-native-process-3jo6)
-- [Exploring Cupertino and Material Updates in Flutter 3.27.0](https://dev.to/canopassoftware/exploring-cupertino-and-material-updates-in-flutter-3270-2433)
+- [Interactive Color Scheme Switcher with Free Source Code](https://dev.to/safdarali25/interactive-color-scheme-switcher-with-free-source-code-2kd3)
+- [「Mac畅玩鸿蒙与硬件9」鸿蒙开发环境配置篇9 - 使用Git进行版本控制](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-9-hong-meng-kai-fa-huan-jing-pei-zhi-pian-9-shi-yong-gitjin-xing-ban-ben-kong-zhi-165f)
+- [🚀A Developer’s Guide to Integrating Daytona with Android Projects ✨](https://dev.to/anuragkanojiya/a-developers-guide-to-integrating-daytona-with-android-projects-1a11)
+- [「Mac畅玩鸿蒙与硬件8」鸿蒙开发环境配置篇8 - 应用依赖与资源管理](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-8-hong-meng-kai-fa-huan-jing-pei-zhi-pian-8-ying-yong-yi-lai-yu-zi-yuan-guan-li-2og5)
 <!-- BLOG-POST-LIST:END -->
 
