@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup GraphQL Mock Server](https://dev.to/akdevcraft/setup-graphql-mock-server-32fc)
-- [Real-Time Web Application demo with WebSocket - Backend](https://dev.to/tom-takeru/real-time-web-application-demo-with-websocket-backend-1a1n)
-- [Startup Growth, AI, and Leadership: My Chat with Anna 🎙️🚀](https://dev.to/spaquet/startup-growth-ai-and-leadership-my-chat-with-anna-ikc)
-- [AI-Powered Test Automation: The Future of Software Testing](https://dev.to/anil_csimplifyit_905c/ai-powered-test-automation-the-future-of-software-testing-2em0)
+- [End to End Testing No More](https://dev.to/dishitdevasia/end-to-end-testing-no-more-56md)
+- [How to Use Google AI Cloud Vision API to Analyze Images - Easy Step by Step Tutorial](https://dev.to/codingmoney/how-to-use-google-ai-cloud-vision-api-to-analyze-images-easy-step-by-step-tutorial-ag0)
+- [HTTP Testing Tools for Mac in 2025](https://dev.to/auden/http-testing-tools-for-mac-in-2025-2f8g)
+- [How to Know What Shopify Apps a Store is Using](https://dev.to/sakinur_rahman_c906707428/how-to-know-what-shopify-apps-a-store-is-using-6bb)
 <!-- BLOG-POST-LIST:END -->
 
