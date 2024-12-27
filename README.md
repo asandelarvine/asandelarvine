@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Create React App to Vite: A Developer&#39;s Guide](https://dev.to/snehasis_debbarman/migrating-from-create-react-app-to-vite-a-comprehensive-guide-3ec1)
-- [Security news weekly round-up - 27th December 2024](https://dev.to/ziizium/security-news-weekly-round-up-27th-december-2024-3cab)
-- [Understanding AWS Lambda Event Source Mapping](https://dev.to/aws-builders/understanding-aws-lambda-event-source-mapping-l1e)
-- [A beginners guide to Constraints and Validations in Flask, SQLAlchemy](https://dev.to/namimai/a-beginners-guide-to-constraints-and-validations-in-flask-sqlalchemy-4cpc)
+- [AI won&#39;t replace your job if you...](https://dev.to/wgcorrea/ai-wont-replace-your-job-if-you-4nd4)
+- [Send emails using Nodemailer &lpar;Typescript&rpar;](https://dev.to/victuk/send-emails-using-nodemailer-typescript-4763)
+- [Introducing CheckMailPro – Block Fake/Temp Emails and Secure Your User Signups!](https://dev.to/checkmailpro/introducing-checkmailpro-block-faketemp-emails-and-secure-your-user-signups-17c5)
+- [What&#39;s this time of year like for you?](https://dev.to/jess/whats-this-time-of-year-like-for-you-5ecm)
 <!-- BLOG-POST-LIST:END -->
 
