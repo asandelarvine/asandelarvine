@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot with Semantic Kernel - Part 4: Whisper 👂](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-4-whisper-19ib)
-- [Powerful GenAI Enterprise Search with Onyx](https://dev.to/airabbit/powerful-genai-enterprise-search-with-onyx-15ca)
-- [Building a Kafka Producer and Consumer in Go](https://dev.to/indalyadav56/building-a-kafka-producer-and-consumer-in-go-4lan)
-- [Virtual PCF Controls are GA... but theming is not!](https://dev.to/_neronotte/virtual-pcf-controls-are-ga-but-theming-is-not-1k77)
+- [Conquering the Setup Loop with Daytona](https://dev.to/akashjana/conquering-the-setup-loop-with-daytona-5614)
+- [Why You Should Attend Events Like Devcon?](https://dev.to/mahima_thacker/why-you-should-attend-events-like-devcon-1684)
+- [Frequently asked questions on launch weeks](https://dev.to/launchweekdev/frequently-asked-questions-on-launch-weeks-21mm)
+- [Using Python for Advanced Email Validation Techniques: A Developer’s Guide](https://dev.to/mailfloss/using-python-for-advanced-email-validation-techniques-a-developers-guide-2ako)
 <!-- BLOG-POST-LIST:END -->
 
