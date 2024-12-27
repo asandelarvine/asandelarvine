@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 React js interview questions.](https://dev.to/mukul_aggarwal/top-10-react-js-interview-questions-1adp)
-- [🌥️ Exploring Cloud Computing: A Simple Guide](https://dev.to/tharindumadubashna/exploring-cloud-computing-a-simple-guide-1fd4)
-- [React Dropzone: Image Drag n Drop using Dropzone](https://dev.to/mukul_aggarwal/react-dropzone-image-drag-n-drop-using-dropzone-f69)
-- [I Found Splito: An Exciting Open-Source Bill-Splitting App](https://dev.to/divyeshvekariya/i-found-splito-an-exciting-open-source-bill-splitting-app-31di)
+- [Setting Up a New Rust Project with ⚙️ Cargo](https://dev.to/zhukmax/setting-up-a-new-rust-project-with-cargo-510n)
+- [Free Tableau Crash Course with Airbnb Project](https://dev.to/jobreadyprogrammer/free-tableau-crash-course-with-airbnb-project-42lp)
+- [Beyond the Hype: Real Talk on Recent Web Dev and AI Innovations](https://dev.to/awaisz99/beyond-the-hype-real-talk-on-recent-web-dev-and-ai-innovations-54n2)
+- [TIL: Why Does a SPA Have Multiple URLs? 🤔](https://dev.to/kohki_takatama/til-why-does-a-spa-have-multiple-urls-1e9j)
 <!-- BLOG-POST-LIST:END -->
 
