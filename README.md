@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conquering the Setup Loop with Daytona](https://dev.to/akashjana/conquering-the-setup-loop-with-daytona-5614)
-- [Why You Should Attend Events Like Devcon?](https://dev.to/mahima_thacker/why-you-should-attend-events-like-devcon-1684)
-- [Frequently asked questions on launch weeks](https://dev.to/launchweekdev/frequently-asked-questions-on-launch-weeks-21mm)
-- [Using Python for Advanced Email Validation Techniques: A Developer’s Guide](https://dev.to/mailfloss/using-python-for-advanced-email-validation-techniques-a-developers-guide-2ako)
+- [Ansible Facts: Complete Guide for Beginners](https://dev.to/harshm03/ansible-facts-complete-guide-for-beginners-1dcp)
+- [Proptest: property testing in Rust](https://dev.to/ivanyu/proptest-property-testing-in-rust-blp)
+- [Quit Using Anonymous Functions in Props!](https://dev.to/sevenzark/quit-using-anonymous-functions-in-props-c2j)
+- [Starting Tests from Zero](https://dev.to/johntellsall/starting-tests-from-zero-2kha)
 <!-- BLOG-POST-LIST:END -->
 
