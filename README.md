@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Tortoise ORM &amp; PostgreSQL: Your Ultimate Beginner&#39;s Guide.](https://dev.to/saint_vandora/master-tortoise-orm-postgresql-your-ultimate-beginners-guide-3oid)
-- [The Beginner&#39;s Guide to AMP](https://dev.to/carrie_luo1/the-beginners-guide-to-amp-11oh)
-- [Data governance and security with Microsoft Purview and Fabric](https://dev.to/emily_smith_86b5b7960eebb/data-governance-and-security-with-microsoft-purview-and-fabric-da6)
-- [You could do amazing things with a little JS 😊](https://dev.to/alagrede/you-could-do-amazing-things-with-a-little-js-4ej4)
+- [AWS Pricing Models and Billing: A Guide to Managing Costs in the Cloud](https://dev.to/abhay_yt_52a8e72b213be229/aws-pricing-models-and-billing-a-guide-to-managing-costs-in-the-cloud-4bm1)
+- [Track Amazon Prices in Real-Time and Solve CAPTCHAs Seamlessly with Bright Data](https://dev.to/sholajegede/track-amazon-prices-in-real-time-and-solve-captchas-seamlessly-with-bright-data-3533)
+- [DLL injection of managed code into native process](https://dev.to/gervantofryvia/dll-injection-of-managed-code-into-native-process-3jo6)
+- [Exploring Cupertino and Material Updates in Flutter 3.27.0](https://dev.to/canopassoftware/exploring-cupertino-and-material-updates-in-flutter-3270-2433)
 <!-- BLOG-POST-LIST:END -->
 
