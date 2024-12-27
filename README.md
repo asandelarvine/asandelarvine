@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Secretly Love It](https://dev.to/c4rx/the-dark-side-of-coding-why-we-secretly-love-it-25hj)
-- [DevOps Principles](https://dev.to/malar_nath/devops-principles-3p2b)
-- [Top 5 Things Devs Overlook When Joining a New Company/Team](https://dev.to/mosbat/top-5-things-devs-overlook-when-joining-a-new-companyteam-564j)
-- [Hello, dev.to Community 👋](https://dev.to/jayantakarmakar/hello-devto-community-d47)
+- [My 2024 Wrapped: you can just make things](https://dev.to/abdibrokhim/my-2024-wrapped-you-can-just-make-things-43dp)
+- [Rule of Thumb for spinning up Azure Landing Zones](https://dev.to/arindam0310018/rule-of-thumb-for-spinning-up-azure-landing-zones-5h1l)
+- [Major Release: Total Overhaul - JavaFX Renaissance](https://dev.to/maksik997/major-release-total-overhaul-javafx-renaissance-51m)
+- [Using Vim Navigation &lpar;h, j, k, l&rpar; as Arrow Keys on Mac with Karabiner-Elements](https://dev.to/lico/using-vim-navigation-h-j-k-l-as-arrow-keys-on-mac-with-karabiner-elements-ahj)
 <!-- BLOG-POST-LIST:END -->
 
