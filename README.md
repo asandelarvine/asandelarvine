@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a New Rust Project with ⚙️ Cargo](https://dev.to/zhukmax/setting-up-a-new-rust-project-with-cargo-510n)
-- [Free Tableau Crash Course with Airbnb Project](https://dev.to/jobreadyprogrammer/free-tableau-crash-course-with-airbnb-project-42lp)
-- [Beyond the Hype: Real Talk on Recent Web Dev and AI Innovations](https://dev.to/awaisz99/beyond-the-hype-real-talk-on-recent-web-dev-and-ai-innovations-54n2)
-- [TIL: Why Does a SPA Have Multiple URLs? 🤔](https://dev.to/kohki_takatama/til-why-does-a-spa-have-multiple-urls-1e9j)
+- [AI Test Case Generators: Revolutionizing Software Testing](https://dev.to/keploy/ai-test-case-generators-revolutionizing-software-testing-4h29)
+- [How did I created a URL shortner](https://dev.to/shahadatkhokhar/how-did-i-created-a-url-shortner-4efk)
+- [Ecommerce Trends To Watch Out In 2025](https://dev.to/techdogs_inc/ecommerce-trends-to-watch-out-in-2025-5a50)
+- [Top IDEs for Java Development on Mac](https://dev.to/brilworks/top-ides-for-java-development-on-mac-1p6i)
 <!-- BLOG-POST-LIST:END -->
 
