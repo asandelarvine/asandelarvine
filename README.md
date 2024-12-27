@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My new Nix series!](https://dev.to/arnu515/my-new-nix-series-2cc3)
-- [⚡ 🚀 Top 10 Trending GitHub Repositories, December 2024 ⚡ 🚀 🚀](https://dev.to/leamsigc/top-10-trending-github-repositories-december-2024-c69)
-- [What’s been your biggest achievement this year??](https://dev.to/shafayeat/whats-been-your-biggest-achievement-this-year-ih2)
-- [Article 1](https://dev.to/mimoooooooo/article-1-29c5)
+- [Master Tortoise ORM &amp; PostgreSQL: Your Ultimate Beginner&#39;s Guide.](https://dev.to/saint_vandora/master-tortoise-orm-postgresql-your-ultimate-beginners-guide-3oid)
+- [The Beginner&#39;s Guide to AMP](https://dev.to/carrie_luo1/the-beginners-guide-to-amp-11oh)
+- [Data governance and security with Microsoft Purview and Fabric](https://dev.to/emily_smith_86b5b7960eebb/data-governance-and-security-with-microsoft-purview-and-fabric-da6)
+- [You could do amazing things with a little JS 😊](https://dev.to/alagrede/you-could-do-amazing-things-with-a-little-js-4ej4)
 <!-- BLOG-POST-LIST:END -->
 
