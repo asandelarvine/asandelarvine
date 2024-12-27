@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Certificates: Your Invisible Shield ! 🔒](https://dev.to/tavernetech/digital-certificates-your-invisible-shield-in-the-digital-jungle-4g2k)
-- [ما مدى أهمية بايثون للأعمال؟](https://dev.to/kader_maarouf/m-md-hmy-bythwn-llml-9fl)
-- [@nuxt/test-utils - The First-Class Citizen for Nuxt Unit Testing](https://dev.to/akdevcraft/nuxttest-utils-the-first-class-citizen-for-nuxt-unit-testing-41h2)
-- [Overview of IBM&#39;s &quot;Machine &amp; Deep Learning&quot; Module](https://dev.to/caganshen/overview-of-ibms-machine-deep-learning-module-583i)
+- [Migrating from Create React App to Vite: A Developer&#39;s Guide](https://dev.to/snehasis_debbarman/migrating-from-create-react-app-to-vite-a-comprehensive-guide-3ec1)
+- [Security news weekly round-up - 27th December 2024](https://dev.to/ziizium/security-news-weekly-round-up-27th-december-2024-3cab)
+- [Understanding AWS Lambda Event Source Mapping](https://dev.to/aws-builders/understanding-aws-lambda-event-source-mapping-l1e)
+- [A beginners guide to Constraints and Validations in Flask, SQLAlchemy](https://dev.to/namimai/a-beginners-guide-to-constraints-and-validations-in-flask-sqlalchemy-4cpc)
 <!-- BLOG-POST-LIST:END -->
 
