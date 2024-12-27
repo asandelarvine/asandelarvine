@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Guide on How to Create a Project Timeline in PowerPoint](https://dev.to/thomasy0ung/quick-guide-on-how-to-create-a-project-timeline-in-powerpoint-57d)
-- [Learn how to create a circular menu with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-circular-menu-with-tailwind-css-and-javascript-2oeo)
-- [20+ Best Web Development Tools &amp; Software &lpar;With Pricing&rpar; to Use in 2025🎉🔥🔥](https://dev.to/fallon_jimmy/20-best-web-development-tools-software-with-pricing-to-use-in-2025-5gjk)
-- [A Practical Guide to Identifying and Mitigating Hallucinations Outputs in Language Models](https://dev.to/adipamartulandi/a-practical-guide-to-identifying-and-mitigating-hallucinations-outputs-in-language-models-58e2)
+- [My new Nix series!](https://dev.to/arnu515/my-new-nix-series-2cc3)
+- [⚡ 🚀 Top 10 Trending GitHub Repositories, December 2024 ⚡ 🚀 🚀](https://dev.to/leamsigc/top-10-trending-github-repositories-december-2024-c69)
+- [What’s been your biggest achievement this year??](https://dev.to/shafayeat/whats-been-your-biggest-achievement-this-year-ih2)
+- [Article 1](https://dev.to/mimoooooooo/article-1-29c5)
 <!-- BLOG-POST-LIST:END -->
 
