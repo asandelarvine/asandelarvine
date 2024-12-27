@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My 2024 Wrapped: you can just make things](https://dev.to/abdibrokhim/my-2024-wrapped-you-can-just-make-things-43dp)
-- [Rule of Thumb for spinning up Azure Landing Zones](https://dev.to/arindam0310018/rule-of-thumb-for-spinning-up-azure-landing-zones-5h1l)
-- [Major Release: Total Overhaul - JavaFX Renaissance](https://dev.to/maksik997/major-release-total-overhaul-javafx-renaissance-51m)
-- [Using Vim Navigation &lpar;h, j, k, l&rpar; as Arrow Keys on Mac with Karabiner-Elements](https://dev.to/lico/using-vim-navigation-h-j-k-l-as-arrow-keys-on-mac-with-karabiner-elements-ahj)
+- [Digital Certificates: Your Invisible Shield ! 🔒](https://dev.to/tavernetech/digital-certificates-your-invisible-shield-in-the-digital-jungle-4g2k)
+- [ما مدى أهمية بايثون للأعمال؟](https://dev.to/kader_maarouf/m-md-hmy-bythwn-llml-9fl)
+- [@nuxt/test-utils - The First-Class Citizen for Nuxt Unit Testing](https://dev.to/akdevcraft/nuxttest-utils-the-first-class-citizen-for-nuxt-unit-testing-41h2)
+- [Overview of IBM&#39;s &quot;Machine &amp; Deep Learning&quot; Module](https://dev.to/caganshen/overview-of-ibms-machine-deep-learning-module-583i)
 <!-- BLOG-POST-LIST:END -->
 
