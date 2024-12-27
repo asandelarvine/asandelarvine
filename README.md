@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Facts: Complete Guide for Beginners](https://dev.to/harshm03/ansible-facts-complete-guide-for-beginners-1dcp)
-- [Proptest: property testing in Rust](https://dev.to/ivanyu/proptest-property-testing-in-rust-blp)
-- [Quit Using Anonymous Functions in Props!](https://dev.to/sevenzark/quit-using-anonymous-functions-in-props-c2j)
-- [Starting Tests from Zero](https://dev.to/johntellsall/starting-tests-from-zero-2kha)
+- [Why We Secretly Love It](https://dev.to/c4rx/the-dark-side-of-coding-why-we-secretly-love-it-25hj)
+- [DevOps Principles](https://dev.to/malar_nath/devops-principles-3p2b)
+- [Top 5 Things Devs Overlook When Joining a New Company/Team](https://dev.to/mosbat/top-5-things-devs-overlook-when-joining-a-new-companyteam-564j)
+- [Hello, dev.to Community 👋](https://dev.to/jayantakarmakar/hello-devto-community-d47)
 <!-- BLOG-POST-LIST:END -->
 
