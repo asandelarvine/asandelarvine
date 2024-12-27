@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Habits: How to Build a Life You Love in 30 Days](https://dev.to/fashikun_mojoyinoluwa_20e/the-power-of-habits-how-to-build-a-life-you-love-in-30-days-3d37)
-- [15 Essential JavaScript Array Functions](https://dev.to/kafeel_ahmad/15-essential-javascript-array-functions-7fm)
-- [Your Ultimate Guide to Creating Profitable Notion Templates](https://dev.to/resource_bunk_1077cab07da/your-ultimate-guide-to-creating-profitable-notion-templates-1bef)
-- [Tutorial de Instalação: Express com MongoDB e Mongoose](https://dev.to/thaissacarvalho/tutorial-de-instalacao-express-com-mongodb-e-mongoose-7f3)
+- [AI Web Dev: Friend, Foe, or Force Multiplier?](https://dev.to/awaisz99/ai-web-dev-friend-foe-or-force-multiplier-hhj)
+- [Do you think schema flexibility justifies using NoSQL? Think twice.](https://dev.to/ernestomar/do-you-think-schema-flexibility-justifies-using-nosql-think-twice-131p)
+- [I built a library of code snippets](https://dev.to/technoph1le/i-built-a-library-of-code-snippets-d66)
+- [The Rise of Web3: A New Era of the Decentralized Internet, NFTs, and the Future of Blockchains](https://dev.to/fashikun_mojoyinoluwa_20e/the-rise-of-web3-a-new-era-of-the-decentralized-internet-nfts-and-the-future-of-blockchains-2bn3)
 <!-- BLOG-POST-LIST:END -->
 
