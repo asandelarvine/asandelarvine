@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cut Your AWS Lambda Logging Costs: Filter Logs with AWS SAM](https://dev.to/faboulaye/cut-your-aws-lambda-logging-costs-filter-logs-with-aws-sam-1ap3)
-- [Free Full-Stack Web Service Development Guide From Scratch with Video Lessons, Source Code, and Support](https://dev.to/iserdmi/free-full-stack-web-service-development-guide-from-scratch-with-video-lessons-source-code-and-bm5)
-- [CSS CELEBRATION Art](https://dev.to/winslause/css-celebration-art-3p2p)
-- [Js in bits - 9.5&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-95comparisons-2eld)
+- [Explore Equality - one of the most fundamental concepts in JavaScript](https://dev.to/thedevricha/explore-equality-one-of-the-most-fundamental-concepts-in-javascript-jcj)
+- [Ladli Behna Yojana: A Step Towards Women&#39;s Empowerment and Inclusive Growth](https://dev.to/pm_kishan_8bea89437f06ed8/ladli-behna-yojana-a-step-towards-womens-empowerment-and-inclusive-growth-37hl)
+- [Understanding Equality in JavaScript](https://dev.to/thedevricha/understanding-equality-in-javascript-4pco)
+- [5 Situations Where You Need useState in Your Projects](https://dev.to/golsaesk/5-situations-where-you-need-usestate-in-your-projects-1ooh)
 <!-- BLOG-POST-LIST:END -->
 
