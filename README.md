@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rspack with Module federation V2 is the future](https://dev.to/ibrahimshamma99/rspack-with-module-federation-v2-is-the-future-3g89)
-- [U.S. Drug Seizures Analysis &lpar;2020–2024&rpar;: Insights on Regional Trends, Drug Types, and Enforcement](https://dev.to/dishapatel363/us-drug-seizures-analysis-2020-2024-insights-on-regional-trends-drug-types-and-enforcement-1ge8)
-- [Reading UTF-8 char by char in C](https://dev.to/tallesl/reading-utf-8-char-by-char-in-c-4nkg)
-- [Day 5: State Management in React - Mastering useState and Beyond! 🚀](https://dev.to/mayowakalejaiye/day-5-state-management-in-react-mastering-usestate-and-beyond-58o0)
+- [What is Mutex and How to Use it in Golang?](https://dev.to/lincemathew/what-is-mutex-and-how-to-use-it-in-golang-1m1i)
+- [Exploring OSM changesets via DuckDB](https://dev.to/gis_nuke/exploring-osm-changesets-via-duckdb-5bf1)
+- [MyGithub scrap datas from Your Github account with a new format](https://dev.to/sjxsubham/mygithub-scrap-datas-from-your-github-account-with-a-new-format-30d5)
+- [Frontend-Challenge-December-Edition by Solanki Sarkar](https://dev.to/solankisarkar505/frontend-challenge-december-edition-by-solanki-sarkar-11g4)
 <!-- BLOG-POST-LIST:END -->
 
