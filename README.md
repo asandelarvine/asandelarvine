@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Confusion about coding field after introduced chatgpt and other AI models AI can make itself code and also make websites and apps etc. We have a carrier confusion because I am a BTech 1st year computer science student. Please help.](https://dev.to/vineet_upadhyay_169a0e048/confusion-about-coding-field-after-introduced-chatgpt-and-other-ai-models-ai-can-make-itself-code-6of)
-- [Pub-sub Redis in Micronaut](https://dev.to/jofisaes/pub-sub-redis-in-micronaut-1bjf)
-- [From REST to GraphQL: Why and How I Made the Switch](https://dev.to/qbentil/from-rest-to-graphql-why-and-how-i-made-the-switch-4c01)
-- [Python Best Practices: Writing Clean and Maintainable Code](https://dev.to/indalyadav56/python-best-practices-writing-clean-and-maintainable-code-45fi)
+- [Variables](https://dev.to/sathish_balaji_2003/variables-n38)
+- [SOLID Principle In .NET Core](https://dev.to/abhishek_adhav_22ab0c2463/solid-principle-in-net-core-1am0)
+- [Three Steps to Build a More Cost-Effective Solution on AWS](https://dev.to/matheusdasmerces/three-steps-to-build-a-more-cost-effective-solution-on-aws-mlj)
+- [Domain Driven Design: making a domain modeling](https://dev.to/eronalves1996/domain-driven-design-making-a-domain-model-181p)
 <!-- BLOG-POST-LIST:END -->
 
