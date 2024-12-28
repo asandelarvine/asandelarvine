@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore Equality - one of the most fundamental concepts in JavaScript](https://dev.to/thedevricha/explore-equality-one-of-the-most-fundamental-concepts-in-javascript-jcj)
-- [Ladli Behna Yojana: A Step Towards Women&#39;s Empowerment and Inclusive Growth](https://dev.to/pm_kishan_8bea89437f06ed8/ladli-behna-yojana-a-step-towards-womens-empowerment-and-inclusive-growth-37hl)
-- [Understanding Equality in JavaScript](https://dev.to/thedevricha/understanding-equality-in-javascript-4pco)
-- [5 Situations Where You Need useState in Your Projects](https://dev.to/golsaesk/5-situations-where-you-need-usestate-in-your-projects-1ooh)
+- [First impressions of Astro: what I liked and disliked](https://dev.to/tylerlwsmith/first-impressions-of-astro-what-i-liked-and-disliked-22nj)
+- [Customize iTerm](https://dev.to/saoud/customize-iterm-1a01)
+- [The Dawn of AI Workforce: A 2025 Perspective](https://dev.to/aws-builders/the-dawn-of-ai-workforce-a-2025-perspective-19jc)
+- [Court is in session: Top 10 most notorious C and C++ errors in 2024](https://dev.to/pvsdev/court-is-in-session-top-10-most-notorious-c-and-c-errors-in-2024-21kd)
 <!-- BLOG-POST-LIST:END -->
 
