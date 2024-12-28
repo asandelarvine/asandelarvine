@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Sass Maps Work](https://dev.to/lovestaco/how-sass-maps-work-3547)
-- [SVG Filter — Remove white](https://dev.to/sone_lay_149429ab4ede35fa/svg-filter-remove-white-1dc5)
-- [Check out my recently released project and how I came about it! I created a Wrapped &lpar;2024 Unwrapped&rpar; for Dev.to. You can use it to see your stats for the year.](https://dev.to/drprime01/check-out-my-recently-released-project-and-how-i-came-about-it-i-created-a-wrapped-2024-12dj)
-- [Good File Structure](https://dev.to/lichtkind/good-file-structure-1p39)
+- [Personal project built with Next.js and TailwindCSS.](https://dev.to/saidmounaim/personal-project-built-with-nextjs-and-tailwindcss-1mb3)
+- [Unveiling Amazon Nova Models: The Future of Generative AI 🚀](https://dev.to/sanjay_s_2b92419b725dcea1/unveiling-amazon-nova-models-the-future-of-generative-ai-3a3d)
+- [Dynamic DNS sync with Cloudflare](https://dev.to/umarov/dynamic-dns-sync-with-cloudflare-4p07)
+- [Using Blocks in Sections](https://dev.to/zaidrehman/using-blocks-in-sections-2022)
 <!-- BLOG-POST-LIST:END -->
 
