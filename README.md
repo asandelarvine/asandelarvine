@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Profitable Business Selling Notion Templates](https://dev.to/resource_bunk_1077cab07da/how-to-build-a-profitable-business-selling-notion-templates-1eab)
-- [The Most Profitable Notion Templates to Sell in 2025](https://dev.to/resource_bunk_1077cab07da/the-most-profitable-notion-templates-to-sell-in-2025-4m4o)
-- [How to setup Supabase with Nextjs for authentication | Supabase Auth](https://dev.to/thatanjan/how-to-setup-supabase-with-nextjs-for-authentication-supabase-auth-3p76)
-- [Data Visualization: How to Create Styled Cryptocurrency Candlesticks with Highcharts](https://dev.to/chideraao/data-visualization-how-to-create-styled-cryptocurrency-candlesticks-with-highcharts-3hmo)
+- [Confusion about coding field after introduced chatgpt and other AI models AI can make itself code and also make websites and apps etc. We have a carrier confusion because I am a BTech 1st year computer science student. Please help.](https://dev.to/vineet_upadhyay_169a0e048/confusion-about-coding-field-after-introduced-chatgpt-and-other-ai-models-ai-can-make-itself-code-6of)
+- [Pub-sub Redis in Micronaut](https://dev.to/jofisaes/pub-sub-redis-in-micronaut-1bjf)
+- [From REST to GraphQL: Why and How I Made the Switch](https://dev.to/qbentil/from-rest-to-graphql-why-and-how-i-made-the-switch-4c01)
+- [Python Best Practices: Writing Clean and Maintainable Code](https://dev.to/indalyadav56/python-best-practices-writing-clean-and-maintainable-code-45fi)
 <!-- BLOG-POST-LIST:END -->
 
