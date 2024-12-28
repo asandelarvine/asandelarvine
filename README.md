@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JUST MAKE THINGS](https://dev.to/abdibrokhim/just-make-things-3b0h)
-- [Rate Limiting for Beginners: What It Is and How to Build One in Go](https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955)
-- [[React - Learn From Problem]Common Errors Beginners Face When Practicing with Project](https://dev.to/tak089/react-clean-codecommon-errors-beginners-face-when-practicing-with-project-2gnf)
-- [[Boost]](https://dev.to/estruyf/-16k7)
+- [Rspack with Module federation V2 is the future](https://dev.to/ibrahimshamma99/rspack-with-module-federation-v2-is-the-future-3g89)
+- [U.S. Drug Seizures Analysis &lpar;2020–2024&rpar;: Insights on Regional Trends, Drug Types, and Enforcement](https://dev.to/dishapatel363/us-drug-seizures-analysis-2020-2024-insights-on-regional-trends-drug-types-and-enforcement-1ge8)
+- [Reading UTF-8 char by char in C](https://dev.to/tallesl/reading-utf-8-char-by-char-in-c-4nkg)
+- [Day 5: State Management in React - Mastering useState and Beyond! 🚀](https://dev.to/mayowakalejaiye/day-5-state-management-in-react-mastering-usestate-and-beyond-58o0)
 <!-- BLOG-POST-LIST:END -->
 
