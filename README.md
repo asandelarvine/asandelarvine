@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What were your 2024 goals and resolutions?](https://dev.to/devmercy/what-were-your-2024-resolutions-539d)
-- [Load balancer vs Gateway vs reverse proxy vs forward proxy](https://dev.to/sallbro/load-balancer-vs-gateway-vs-reverse-proxy-vs-forward-proxy-49oe)
-- [Software Engineering Cheatsheet I Always Wanted to Have for Interviews &lpar;This is a Game Changer!&rpar;](https://dev.to/msnmongare/software-engineering-cheatsheet-i-always-wanted-to-have-for-interviews-this-is-a-game-changer-3ko6)
-- [9 Key Benefits of Cloud Migration You Need To Know](https://dev.to/softqubetechnologies/9-key-benefits-of-cloud-migration-you-need-to-know-3h4b)
+- [🧩 LeetCode Challenge: Remove Element | Top Interview Questions [Java Solution]](https://dev.to/rahulgithubweb/leetcode-challenge-remove-element-top-interview-questions-java-solution-3f6h)
+- [Build a Smart Chatbot with AWS Lambda, Lex, and Enhanced Sentiment Analysis - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/build-a-smart-chatbot-with-aws-lambda-lex-and-enhanced-sentiment-analysis-lets-build-2jjn)
+- [🚀 𝗣𝗛𝗣 𝟴.𝟰 𝗶𝘀 𝗛𝗲𝗿𝗲: 𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗪𝗵𝗮𝘁&#39;𝘀 𝗡𝗲𝘄 𝘄𝗶𝘁𝗵 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀!](https://dev.to/tal7aouy/--3c4j)
+- [Database Migration with Flyway and Micronaut Data JDBC](https://dev.to/anand_jaisy_2f7644a12001b/database-migration-with-flyway-and-micronaut-data-jdbc-1i2b)
 <!-- BLOG-POST-LIST:END -->
 
