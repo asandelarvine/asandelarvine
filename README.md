@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This is one thing that is under exposed using an AI. https://www.zdnet.com/article/if-chatgpt-produces-ai-generated-code-for-your-app-who-does-it-really-belong-to/](https://dev.to/xwero/-10m3)
-- [There will be much less room for improvement soon.](https://dev.to/xamidi/there-will-be-much-less-room-for-improvement-soon-5950)
-- [Fix &quot;Dummy Device&quot; for sound on Debian](https://dev.to/jeansen/fix-dummy-device-for-sound-on-debian-45e)
-- [How to Configure Gmail SMTP Server Settings](https://dev.to/msnmongare/how-to-configure-gmail-smtp-server-settings-7l6)
+- [The Future of Defect Management: Integrating AI for Smarter Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-future-of-defect-management-integrating-ai-for-smarter-testing-2bon)
+- [Descubriendo Hyperplane: La tecnología detrás de NAT Gateway y NLB](https://dev.to/briansuarezsantiago/descubriendo-hyperplane-la-tecnologia-detras-de-nat-gateway-y-nlb-2jeo)
+- [Building a No Code AI Platform and the BFS Algorithm](https://dev.to/ahmad_farhanishraq_74b52/building-a-no-code-platform-and-the-bfs-algorithm-6d1)
+- [Nice one](https://dev.to/braglife/nice-one-28hg)
 <!-- BLOG-POST-LIST:END -->
 
