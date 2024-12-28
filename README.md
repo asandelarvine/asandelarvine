@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Mutex and How to Use it in Golang?](https://dev.to/lincemathew/what-is-mutex-and-how-to-use-it-in-golang-1m1i)
-- [Exploring OSM changesets via DuckDB](https://dev.to/gis_nuke/exploring-osm-changesets-via-duckdb-5bf1)
-- [MyGithub scrap datas from Your Github account with a new format](https://dev.to/sjxsubham/mygithub-scrap-datas-from-your-github-account-with-a-new-format-30d5)
-- [Frontend-Challenge-December-Edition by Solanki Sarkar](https://dev.to/solankisarkar505/frontend-challenge-december-edition-by-solanki-sarkar-11g4)
+- [How Sass Maps Work](https://dev.to/lovestaco/how-sass-maps-work-3547)
+- [SVG Filter — Remove white](https://dev.to/sone_lay_149429ab4ede35fa/svg-filter-remove-white-1dc5)
+- [Check out my recently released project and how I came about it! I created a Wrapped &lpar;2024 Unwrapped&rpar; for Dev.to. You can use it to see your stats for the year.](https://dev.to/drprime01/check-out-my-recently-released-project-and-how-i-came-about-it-i-created-a-wrapped-2024-12dj)
+- [Good File Structure](https://dev.to/lichtkind/good-file-structure-1p39)
 <!-- BLOG-POST-LIST:END -->
 
