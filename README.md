@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First impressions of Astro: what I liked and disliked](https://dev.to/tylerlwsmith/first-impressions-of-astro-what-i-liked-and-disliked-22nj)
-- [Customize iTerm](https://dev.to/saoud/customize-iterm-1a01)
-- [The Dawn of AI Workforce: A 2025 Perspective](https://dev.to/aws-builders/the-dawn-of-ai-workforce-a-2025-perspective-19jc)
-- [Court is in session: Top 10 most notorious C and C++ errors in 2024](https://dev.to/pvsdev/court-is-in-session-top-10-most-notorious-c-and-c-errors-in-2024-21kd)
+- [Navigating the World of Event-Driven Process Orchestration for Technical Leaders](https://dev.to/ernestohs/navigating-the-world-of-event-driven-process-orchestration-for-technical-leaders-pj9)
+- [🔮 Daytona + EchoBrain – AI Development Reimagined](https://dev.to/bigbang001/crafting-echobrain-with-daytona-ai-development-simplified-432n)
+- [Web development - Vercel AI](https://dev.to/dowenrei/web-development-vercel-ai-20il)
+- [How to Connect a Gaming PC to a Monitor](https://dev.to/shazaib_rafiq_496442e8642/how-to-connect-a-gaming-pc-to-a-monitor-2k8b)
 <!-- BLOG-POST-LIST:END -->
 
