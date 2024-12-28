@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We no need write Java in Kotlin](https://dev.to/mikhailepatko/we-no-need-write-java-in-kotlin-5985)
-- [The Journey of ReqWeb: What’s Coming in Version 2.0](https://dev.to/taqsblaze/the-journey-of-reqweb-whats-coming-in-version-20-32d3)
-- [Configuring a custom domain for your Azure Static Web App](https://dev.to/chsami/configuring-a-custom-domain-for-your-azure-static-web-app-1igc)
-- [vogen - Value Object Generator in golang](https://dev.to/nchika/vogen-value-object-generator-in-golang-fkg)
+- [WebCrawlAI: An AI-Powered Web Scraper Built Using Bright Data](https://dev.to/arjuncodess/webcrawlai-an-ai-powered-web-scraper-built-using-bright-data-23md)
+- [🎨 DaisyUI: The Game-Changer for Your Tailwind CSS Workflow](https://dev.to/onkar_karale/daisyui-the-game-changer-for-your-tailwind-css-workflow-6o2)
+- [My submission for the Frontend Challenge &lpar;Dec&#39;24&rpar;](https://dev.to/plutonium239/my-submission-for-the-frontend-challenge-dec24-426e)
+- [Go 1.23’s Iter package](https://dev.to/cheikh_seck_01/go-123s-iter-package-24kc)
 <!-- BLOG-POST-LIST:END -->
 
