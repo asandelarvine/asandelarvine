@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebCrawlAI: An AI-Powered Web Scraper Built Using Bright Data](https://dev.to/arjuncodess/webcrawlai-an-ai-powered-web-scraper-built-using-bright-data-23md)
-- [🎨 DaisyUI: The Game-Changer for Your Tailwind CSS Workflow](https://dev.to/onkar_karale/daisyui-the-game-changer-for-your-tailwind-css-workflow-6o2)
-- [My submission for the Frontend Challenge &lpar;Dec&#39;24&rpar;](https://dev.to/plutonium239/my-submission-for-the-frontend-challenge-dec24-426e)
-- [Go 1.23’s Iter package](https://dev.to/cheikh_seck_01/go-123s-iter-package-24kc)
+- [How to Build a Profitable Business Selling Notion Templates](https://dev.to/resource_bunk_1077cab07da/how-to-build-a-profitable-business-selling-notion-templates-1eab)
+- [The Most Profitable Notion Templates to Sell in 2025](https://dev.to/resource_bunk_1077cab07da/the-most-profitable-notion-templates-to-sell-in-2025-4m4o)
+- [How to setup Supabase with Nextjs for authentication | Supabase Auth](https://dev.to/thatanjan/how-to-setup-supabase-with-nextjs-for-authentication-supabase-auth-3p76)
+- [Data Visualization: How to Create Styled Cryptocurrency Candlesticks with Highcharts](https://dev.to/chideraao/data-visualization-how-to-create-styled-cryptocurrency-candlesticks-with-highcharts-3hmo)
 <!-- BLOG-POST-LIST:END -->
 
