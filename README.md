@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end Challenge](https://dev.to/winslause/front-end-challenge-3kle)
-- [Ensure Idempotency in concurrent POST request with different request id&#39;s](https://dev.to/satyajitnayak/ensure-idempotency-in-concurrent-post-request-with-different-request-ids-5hff)
-- [Transforming Retail: How Augmented Reality Enhances Shopping Experiences](https://dev.to/vishal_bisht_2bae8e8d8bd4/transforming-retail-how-augmented-reality-enhances-shopping-experiences-30gh)
-- [🚀 60+ New GitHub Repositories That Could Inspire Your Next Project &lpar;Dec 27, 2024&rpar;](https://dev.to/gittech/60-new-github-repositories-that-could-inspire-your-next-project-dec-27-2024-58m0)
+- [Cut Your AWS Lambda Logging Costs: Filter Logs with AWS SAM](https://dev.to/faboulaye/cut-your-aws-lambda-logging-costs-filter-logs-with-aws-sam-1ap3)
+- [Free Full-Stack Web Service Development Guide From Scratch with Video Lessons, Source Code, and Support](https://dev.to/iserdmi/free-full-stack-web-service-development-guide-from-scratch-with-video-lessons-source-code-and-bm5)
+- [CSS CELEBRATION Art](https://dev.to/winslause/css-celebration-art-3p2p)
+- [Js in bits - 9.5&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-95comparisons-2eld)
 <!-- BLOG-POST-LIST:END -->
 
