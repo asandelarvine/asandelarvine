@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Defect Management: Integrating AI for Smarter Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-future-of-defect-management-integrating-ai-for-smarter-testing-2bon)
-- [Descubriendo Hyperplane: La tecnología detrás de NAT Gateway y NLB](https://dev.to/briansuarezsantiago/descubriendo-hyperplane-la-tecnologia-detras-de-nat-gateway-y-nlb-2jeo)
-- [Building a No Code AI Platform and the BFS Algorithm](https://dev.to/ahmad_farhanishraq_74b52/building-a-no-code-platform-and-the-bfs-algorithm-6d1)
-- [Nice one](https://dev.to/braglife/nice-one-28hg)
+- [How to Deploy a Web App with CI/CD Pipelines on Azure App Service](https://dev.to/olalekan_johnayansola_4a/how-to-deploy-a-web-app-with-cicd-pipelines-on-azure-app-service-153i)
+- [How AI Models Adapt to Changing Environments: Real-World Insights](https://dev.to/umeshtharukaofficial/how-ai-models-adapt-to-changing-environments-real-world-insights-47jk)
+- [WICK-A11Y 1.4.0: Not Everything Needs to Fail a Test!](https://dev.to/sebastianclavijo/wick-a11y-140-not-everything-needs-to-fail-a-test-1pe5)
+- [Configure SSH Passwordless Login from Windows to Linux](https://dev.to/jajera/configure-ssh-passwordless-login-from-windows-to-linux-1nml)
 <!-- BLOG-POST-LIST:END -->
 
