@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [With Spring can I make an optional path variable?](https://dev.to/realnamehidden1_61/with-spring-can-i-make-an-optional-path-variable-4im8)
+- [How I Fixed My Messed-Up Pull Request](https://dev.to/studiosmolthing/how-i-fixed-my-messed-up-pull-request-k7l)
+- [Emerging Trends in SaaS Development: What to Expect in 2025 and Beyond](https://dev.to/rayan2228/emerging-trends-in-saas-development-what-to-expect-in-2025-and-beyond-4l4n)
 - [How to Deploy a Web App with CI/CD Pipelines on Azure App Service](https://dev.to/olalekan_johnayansola_4a/how-to-deploy-a-web-app-with-cicd-pipelines-on-azure-app-service-153i)
-- [How AI Models Adapt to Changing Environments: Real-World Insights](https://dev.to/umeshtharukaofficial/how-ai-models-adapt-to-changing-environments-real-world-insights-47jk)
-- [WICK-A11Y 1.4.0: Not Everything Needs to Fail a Test!](https://dev.to/sebastianclavijo/wick-a11y-140-not-everything-needs-to-fail-a-test-1pe5)
-- [Configure SSH Passwordless Login from Windows to Linux](https://dev.to/jajera/configure-ssh-passwordless-login-from-windows-to-linux-1nml)
 <!-- BLOG-POST-LIST:END -->
 
