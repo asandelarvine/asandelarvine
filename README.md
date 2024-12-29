@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma ORM: Revolutionizing Database Interactions](https://dev.to/austinwdigital/prisma-orm-revolutionizing-database-interactions-3860)
-- [Js in bits - 11.1&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-11logical-operators-2210)
-- [How to Run Group Policy Editor as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-group-policy-editor-as-administrator-on-windows-11-4ji5)
-- [Hashing, DSA Complete Syllabus](https://dev.to/harshm03/hashing-dsa-complete-syllabus-35pk)
+- [Build Your Developer Portfolio: Exciting Web Development Projects You Can Start Today](https://dev.to/codeparrot/build-your-developer-portfolio-exciting-web-development-projects-you-can-start-today-1mm)
+- [Cross-Browser Testing Made Easy with Playwright](https://dev.to/aswani25/cross-browser-testing-made-easy-with-playwright-l80)
+- [Day 03: Learning JavaScript APIs: Page Visibility API](https://dev.to/spruceemma/day-03-learning-javascript-apis-page-visibility-api-58m4)
+- [Js in bits - 11.5&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-115logical-operators-489m)
 <!-- BLOG-POST-LIST:END -->
 
