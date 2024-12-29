@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshooting HTTP/3 QUIC Reverse Proxy for Chunked Uploads to S3 Pre-Signed URLs](https://dev.to/vikram_parihar/troubleshooting-http3-quic-reverse-proxy-for-chunked-uploads-to-s3-pre-signed-urls-10ge)
+- [Resonant Collinearity](https://dev.to/rmion/resonant-collinearity-3m5m)
 - [Parsing command-line arguments in C](https://dev.to/tallesl/parsing-command-line-arguments-in-c-41ac)
 - [Choosing the Right Database: A Simplified Guide](https://dev.to/mohammad-reza-mahdiani/choosing-the-right-database-a-simplified-guide-30o0)
-- [Getting Started with Go and the Web: Hello, World!](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal)
-- [Ghostty 1.0: A Terminal Emulator Built for Speed, Features, and Native Integration](https://dev.to/dansasser/ghostty-10-a-terminal-emulator-built-for-speed-features-and-native-integration-22ng)
 <!-- BLOG-POST-LIST:END -->
 
