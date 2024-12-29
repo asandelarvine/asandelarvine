@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech News Scraper](https://dev.to/chethanyadav/the-tech-news-scraper-14kc)
-- [1639. Number of Ways to Form a Target String Given a Dictionary](https://dev.to/mdarifulhaque/1639-number-of-ways-to-form-a-target-string-given-a-dictionary-585c)
-- [How to build a blog website using HTML CSS, and host it in GitHub and deploy it to Vercel.](https://dev.to/rarai365/how-to-build-a-blog-website-using-html-css-and-host-it-in-github-and-deploy-it-to-vercel-4dd6)
-- [Quickstart Guide: Getting Started with Measurely](https://dev.to/measurely/quickstart-guide-getting-started-with-measurely-32cg)
+- [Wildcards in Federated Credentials Entra ID &lpar;OIDC&rpar;](https://dev.to/rokicool/wildcards-in-federated-credentials-entra-id-oidc-d7e)
+- [Configuring AWS Vault with the Pass Backend for Secure Credential Management on Linux](https://dev.to/jajera/configuring-aws-vault-with-the-pass-backend-for-secure-credential-management-on-linux-1n1p)
+- [Quick debugging with gdb](https://dev.to/tallesl/quick-debugging-with-gdb-eio)
+- [Symfony Station Communiqué — 27 December 2024 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-27-december-2024-a-look-at-symfony-drupal-php-and-other-5fgm)
 <!-- BLOG-POST-LIST:END -->
 
