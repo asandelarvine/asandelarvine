@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating DNS in Azure Private DNS with External-DNS ☁️🔐](https://dev.to/hkhelil/automating-dns-in-azure-private-dns-with-external-dns-3knk)
-- [Frontend-Challenge-December- by Jyothi M](https://dev.to/7892536388/frontend-challenge-december-by-jyothi-m-2kgd)
-- [Frontend-Challenge - December Edition by Manasi Netrekar](https://dev.to/manasirn/frontend-challenge-december-edition-by-manasi-1bbc)
-- [Frontend Challenge: Winter Solstice](https://dev.to/danish0111/frontend-challenge-winter-solstice-23ck)
+- [Start Simple: A Beginner&#39;s Guide to Using Notion Templates](https://dev.to/resource_bunk_1077cab07da/start-simple-a-beginners-guide-to-using-notion-templates-118c)
+- [Keyword Arguments in C++/C](https://dev.to/prabhu-yu/keyword-arguments-in-cc-14f1)
+- [I added networking standards to my custom kernel!](https://dev.to/kernux_/i-added-networking-standards-to-my-custom-kernel-3a95)
+- [#15 Enhancing User Experience with Server Actions in Next.js 15🚀✨](https://dev.to/sahilshityalkar/15-enhancing-user-experience-with-server-actions-in-nextjs-15-5dpn)
 <!-- BLOG-POST-LIST:END -->
 
