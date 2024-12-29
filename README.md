@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Final Project Golang - Backend Development Sanbercode](https://dev.to/danawar/final-project-golang-backend-development-sanbercode-4891)
-- [Smart Home Security: Advanced Motion Detection with CCTV](https://dev.to/heavenaulianisa/smart-home-security-advanced-motion-detection-with-cctv-30bk)
-- [How to Protect Your FiveM Server from DDoS Attacks](https://dev.to/davidjonson/how-to-protect-your-fivem-server-from-ddos-attacks-33id)
-- [Trading Signal from Sentiment Analysis using Bright Data API](https://dev.to/fahminlb33/trading-signal-from-sentiment-analysis-using-bright-data-api-4nci)
+- [⭐️🌐 🎀 JavaScript Visualized: Promises &amp; Async/Await](https://dev.to/hanzla-baig/javascript-visualized-promises-asyncawait-3plm)
+- [✋🏼🗺 🔥 CS Visualized: CORS](https://dev.to/hanzla-baig/cs-visualized-cors-461)
+- [Welcome to My Corner of the Internet! 🏡](https://dev.to/produde/welcome-to-my-corner-of-the-internet-4fdk)
+- [Task 2&lpar;28/12&rpar;](https://dev.to/pavithra_saravanan_2/task-22812-2mj1)
 <!-- BLOG-POST-LIST:END -->
 
