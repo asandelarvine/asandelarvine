@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why Progressive Web Apps &lpar;PWAs&rpar; Are the Future of Web Development.](https://dev.to/awaisz99/why-progressive-web-apps-pwas-are-the-future-of-web-development-4m1g)
-- [How to retrieve values from all types of HTML Inputs in JavaScript](https://dev.to/milliemolotov/how-to-retrieve-values-from-all-types-of-html-inputs-in-javascript-3143)
-- [Embracing the Solstice: A Winter Wonderland of Science, Traditions, and Celebrations](https://dev.to/himanshu_joshi_d1e6144a7b/embracing-the-solstice-a-winter-wonderland-of-science-traditions-and-celebrations-2fbd)
-- [Complete React Setup with SSR, CSR, TailwindCSS, and Jest Using esbuild](https://dev.to/willyelm/a-complete-react-setup-ssr-csr-tailwindcss-jest-with-esbuild-fpp)
+- [Automating DNS in Azure Private DNS with External-DNS ☁️🔐](https://dev.to/hkhelil/automating-dns-in-azure-private-dns-with-external-dns-3knk)
+- [Frontend-Challenge-December- by Jyothi M](https://dev.to/7892536388/frontend-challenge-december-by-jyothi-m-2kgd)
+- [Frontend-Challenge - December Edition by Manasi Netrekar](https://dev.to/manasirn/frontend-challenge-december-edition-by-manasi-1bbc)
+- [Frontend Challenge: Winter Solstice](https://dev.to/danish0111/frontend-challenge-winter-solstice-23ck)
 <!-- BLOG-POST-LIST:END -->
 
