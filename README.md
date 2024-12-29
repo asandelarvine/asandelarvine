@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried cline 3.0.0 and here is what happend](https://dev.to/dasheck0/i-tried-cline-300-and-here-is-what-happend-3dm5)
-- [Javascript Arrays: A Cheat Sheet for Developer](https://dev.to/voscanoa/javascript-arrays-a-cheat-sheet-for-developer-2d2k)
-- [Securing Laravel Reverb](https://dev.to/edgaras/securing-laravel-reverb-2nh3)
-- [Matrix code rain - in Rust](https://dev.to/admin1299/matrix-code-rain-in-rust-1fad)
+- [Is It Possible to Launch a Bug-Free Product? No. Here’s Why.](https://dev.to/iri_denis/is-it-possible-to-launch-a-bug-free-product-no-heres-why-4k95)
+- [AWS Billing Fundamentals](https://dev.to/prathamesh_gawade_16/aws-billing-fundamentals-1k3j)
+- [Introducing Stylesnap: Optimize Your CSS Like Never Before](https://dev.to/ravikishan/introducing-stylesnap-optimize-your-css-like-never-before-508f)
+- [Nix at level 0 is still awesome](https://dev.to/noriller/nix-at-level-0-is-still-awesome-bhf)
 <!-- BLOG-POST-LIST:END -->
 
