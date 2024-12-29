@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Tailscale With Ansible](https://dev.to/nicholassynovic/install-tailscale-with-ansible-3962)
-- [OpenAPI + Swagger UI with Micronaut Application](https://dev.to/anand_jaisy_2f7644a12001b/openapi-swagger-ui-with-micronaut-application-4hip)
-- [🚀 React Best Practices for Scalable Frontends: Part 2 – State Management](https://dev.to/el_mahfoudbouatim_b502a2/react-best-practices-for-scalable-frontends-part-2-state-management-in-react-4bpi)
-- [Server-Side Rendering in Sections](https://dev.to/zaidrehman/server-side-rendering-in-sections-d41)
+- [The Tech News Scraper](https://dev.to/chethanyadav/the-tech-news-scraper-14kc)
+- [1639. Number of Ways to Form a Target String Given a Dictionary](https://dev.to/mdarifulhaque/1639-number-of-ways-to-form-a-target-string-given-a-dictionary-585c)
+- [How to build a blog website using HTML CSS, and host it in GitHub and deploy it to Vercel.](https://dev.to/rarai365/how-to-build-a-blog-website-using-html-css-and-host-it-in-github-and-deploy-it-to-vercel-4dd6)
+- [Quickstart Guide: Getting Started with Measurely](https://dev.to/measurely/quickstart-guide-getting-started-with-measurely-32cg)
 <!-- BLOG-POST-LIST:END -->
 
