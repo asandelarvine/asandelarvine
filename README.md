@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 4 NPM Libraries I used to Elevate My Project 🚀](https://dev.to/rijultp/top-4-npm-libraries-i-used-to-elevate-my-project-4g9k)
-- [Web4: A New Generation of Social Networks Transforming the Internet](https://dev.to/web4/web4-a-new-generation-of-social-networks-transforming-the-internet-7md)
-- [How to Start Solving Problems, Build Solutions, and Validate Your Idea Without Spending a Dollar](https://dev.to/rogueloop/how-to-start-solving-problems-build-solutions-and-validate-your-idea-without-spending-a-dollar-37hm)
-- [How to Deploy Puppeteer in the Cloud: Solutions Compared](https://dev.to/leapcell/how-to-deploy-puppeteer-in-the-cloud-solutions-compared-pfk)
+- [From Wrenches to Code - Why Learning to Code Is Like Fixing a Car](https://dev.to/codebyblazej/from-wrenches-to-code-why-learning-to-code-is-like-fixing-a-car-508o)
+- [Convert LabelMe Annotations to YOLO Format with labelme-to-yolo](https://dev.to/tlaloces/convert-labelme-annotations-to-yolo-format-with-labelme-to-yolo-3if7)
+- [Introduce Object Orientation](https://dev.to/khanh_huypham_06835e1ccd/chaper-3-object-orientation-4acg)
+- [I&#39;m a senior Software Engineer](https://dev.to/philip_luther_5d14ee96b5c/im-a-senior-software-engineer-1923)
 <!-- BLOG-POST-LIST:END -->
 
