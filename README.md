@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Strategies for Successful Business Development](https://dev.to/mutie_urrehman_dabae6f78/5-strategies-for-successful-business-development-2g1k)
-- [The Importance of Effective Logging](https://dev.to/daryllukas/the-importance-of-effective-logging-3llb)
-- [How to Manually Approve LuLu Network Extension on Mac](https://dev.to/shawon/how-to-manually-approve-lulu-network-extension-on-mac-plo)
-- [From www.google.com to 172.217.5.253: The Magic of DNS](https://dev.to/kakarotdevv/from-wwwgooglecom-to-1722175253-the-magic-of-dns-54kg)
+- [Final Project Golang - Backend Development Sanbercode](https://dev.to/danawar/final-project-golang-backend-development-sanbercode-4891)
+- [Smart Home Security: Advanced Motion Detection with CCTV](https://dev.to/heavenaulianisa/smart-home-security-advanced-motion-detection-with-cctv-30bk)
+- [How to Protect Your FiveM Server from DDoS Attacks](https://dev.to/davidjonson/how-to-protect-your-fivem-server-from-ddos-attacks-33id)
+- [Trading Signal from Sentiment Analysis using Bright Data API](https://dev.to/fahminlb33/trading-signal-from-sentiment-analysis-using-bright-data-api-4nci)
 <!-- BLOG-POST-LIST:END -->
 
