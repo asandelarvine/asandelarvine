@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⭐️🌐 🎀 JavaScript Visualized: Promises &amp; Async/Await](https://dev.to/hanzla-baig/javascript-visualized-promises-asyncawait-3plm)
-- [✋🏼🗺 🔥 CS Visualized: CORS](https://dev.to/hanzla-baig/cs-visualized-cors-461)
-- [Welcome to My Corner of the Internet! 🏡](https://dev.to/produde/welcome-to-my-corner-of-the-internet-4fdk)
-- [Task 2&lpar;28/12&rpar;](https://dev.to/pavithra_saravanan_2/task-22812-2mj1)
+- [LeetCode Challenge: 392. Is Subsequence - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-392-is-subsequence-javascript-solution-2fbi)
+- [Unlimited Color Changer: A Fun and Interactive Way to Add Vibrance to Your Screen](https://dev.to/safdarali25/unlimited-color-changer-a-fun-and-interactive-way-to-add-vibrance-to-your-screen-3km1)
+- [Mastering Async/Await and DOM Manipulation](https://dev.to/muslimekaya/mastering-asyncawait-and-dom-manipulation-1mj1)
+- [Improving Collaborative Coding Skills](https://dev.to/muslimekaya/improving-collaborative-coding-skills-2981)
 <!-- BLOG-POST-LIST:END -->
 
