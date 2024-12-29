@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Wrenches to Code - Why Learning to Code Is Like Fixing a Car](https://dev.to/codebyblazej/from-wrenches-to-code-why-learning-to-code-is-like-fixing-a-car-508o)
-- [Convert LabelMe Annotations to YOLO Format with labelme-to-yolo](https://dev.to/tlaloces/convert-labelme-annotations-to-yolo-format-with-labelme-to-yolo-3if7)
-- [Introduce Object Orientation](https://dev.to/khanh_huypham_06835e1ccd/chaper-3-object-orientation-4acg)
-- [I&#39;m a senior Software Engineer](https://dev.to/philip_luther_5d14ee96b5c/im-a-senior-software-engineer-1923)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/tennie/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-39i9)
+- [Building OpenCV 4.10.0 with GUI Support in WSL](https://dev.to/eddiegulay/building-opencv-4100-with-gui-support-in-wsl-5do0)
+- [How to start with test driven development &lpar;TDD&rpar;](https://dev.to/exanfabry/how-to-start-with-test-driven-development-tdd-41ma)
+- [👾 UX : From API to IoT LED Matrix show](https://dev.to/adriens/ux-from-api-to-iot-led-matrix-show-239g)
 <!-- BLOG-POST-LIST:END -->
 
