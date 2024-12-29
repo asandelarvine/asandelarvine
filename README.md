@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 40: Implementing Advanced Role-Based Access Control &lpar;RBAC&rpar; with OPA Gatekeeper](https://dev.to/arbythecoder/day-40-implementing-advanced-role-based-access-control-rbac-with-opa-gatekeeper-5gib)
-- [How to Convince Your Team to Adopt Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/otumiky/how-to-convince-your-team-to-adopt-infrastructure-as-code-iac-7ao)
-- [Syntax of comments](https://dev.to/coder_d295cd12743e7d146c7/syntax-of-comments-3k60)
-- [Build a highly scalable Serverless CRUD Microservice with AWS Lambda and the Serverless Framework](https://dev.to/ideepaksharma/build-a-highly-scalable-serverless-crud-microservice-with-aws-lambda-and-the-serverless-framework-1eac)
+- [Pytest Fish shell autocompletion](https://dev.to/pomidoroshev/pytest-fish-shell-autocompletion-58o6)
+- [AI in Remote Hiring: The Future of Global Talent Acquisition](https://dev.to/baraq/ai-in-remote-hiring-the-future-of-global-talent-acquisition-5aei)
+- [What is this “ARC Zonal shift” in EKS? Here’s what I found about it…](https://dev.to/vijaykodam/what-is-this-arc-zonal-shift-in-eks-heres-what-i-found-about-it-51hp)
+- [Closing Note: The End of a Transformative Journey](https://dev.to/arbythecoder/closing-note-the-end-of-a-transformative-journey-3abh)
 <!-- BLOG-POST-LIST:END -->
 
