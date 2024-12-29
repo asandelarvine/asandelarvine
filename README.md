@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Developer Portfolio: Exciting Web Development Projects You Can Start Today](https://dev.to/codeparrot/build-your-developer-portfolio-exciting-web-development-projects-you-can-start-today-1mm)
-- [Cross-Browser Testing Made Easy with Playwright](https://dev.to/aswani25/cross-browser-testing-made-easy-with-playwright-l80)
-- [Day 03: Learning JavaScript APIs: Page Visibility API](https://dev.to/spruceemma/day-03-learning-javascript-apis-page-visibility-api-58m4)
-- [Js in bits - 11.5&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-115logical-operators-489m)
+- [What Are the Symptoms of Bad Software?](https://dev.to/elliot_brenya/what-are-the-symptoms-of-bad-software-1oe6)
+- [The Importance of AI-Based Software Tools in Modern Development](https://dev.to/vaibhavkuls/the-importance-of-ai-based-software-tools-in-modern-development-1c9a)
+- [Named va Typed HttpClient haqida](https://dev.to/ben_randall_743e73c50d4b6/named-va-typed-httpclient-haqida-55b8)
+- [Unlocking the Power of Education Tools: Revolutionizing the Learning Experience](https://dev.to/rimaakter1/unlocking-the-power-of-education-tools-revolutionizing-the-learning-experience-16c2)
 <!-- BLOG-POST-LIST:END -->
 
