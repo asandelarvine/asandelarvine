@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/tennie/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-39i9)
-- [Building OpenCV 4.10.0 with GUI Support in WSL](https://dev.to/eddiegulay/building-opencv-4100-with-gui-support-in-wsl-5do0)
-- [How to start with test driven development &lpar;TDD&rpar;](https://dev.to/exanfabry/how-to-start-with-test-driven-development-tdd-41ma)
-- [👾 UX : From API to IoT LED Matrix show](https://dev.to/adriens/ux-from-api-to-iot-led-matrix-show-239g)
+- [Day 40: Implementing Advanced Role-Based Access Control &lpar;RBAC&rpar; with OPA Gatekeeper](https://dev.to/arbythecoder/day-40-implementing-advanced-role-based-access-control-rbac-with-opa-gatekeeper-5gib)
+- [How to Convince Your Team to Adopt Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/otumiky/how-to-convince-your-team-to-adopt-infrastructure-as-code-iac-7ao)
+- [Syntax of comments](https://dev.to/coder_d295cd12743e7d146c7/syntax-of-comments-3k60)
+- [Build a highly scalable Serverless CRUD Microservice with AWS Lambda and the Serverless Framework](https://dev.to/ideepaksharma/build-a-highly-scalable-serverless-crud-microservice-with-aws-lambda-and-the-serverless-framework-1eac)
 <!-- BLOG-POST-LIST:END -->
 
