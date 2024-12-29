@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It Possible to Launch a Bug-Free Product? No. Here’s Why.](https://dev.to/iri_denis/is-it-possible-to-launch-a-bug-free-product-no-heres-why-4k95)
-- [AWS Billing Fundamentals](https://dev.to/prathamesh_gawade_16/aws-billing-fundamentals-1k3j)
-- [Introducing Stylesnap: Optimize Your CSS Like Never Before](https://dev.to/ravikishan/introducing-stylesnap-optimize-your-css-like-never-before-508f)
-- [Nix at level 0 is still awesome](https://dev.to/noriller/nix-at-level-0-is-still-awesome-bhf)
+- [How to share folder by network via Samba protocol in Linux machine](https://dev.to/xinitd/how-to-share-folder-by-network-via-samba-protocol-in-linux-machine-2e6l)
+- [#100DAYSOFCODE: Day 3](https://dev.to/isaiahhtml/100daysofcode-day-3-37lo)
+- [MySQL Database Administrator: Managing Open-Source Powerhouses](https://dev.to/wiseguide/mysql-database-administrator-managing-open-source-powerhouses-1lof)
+- [Azure SQL Database Administrator: Driving Modern Data Solutions](https://dev.to/wiseguide/azure-sql-database-administrator-driving-modern-data-solutions-35c9)
 <!-- BLOG-POST-LIST:END -->
 
