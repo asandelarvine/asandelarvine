@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting HTTP/3 QUIC Reverse Proxy for Chunked Uploads to S3 Pre-Signed URLs](https://dev.to/vikram_parihar/troubleshooting-http3-quic-reverse-proxy-for-chunked-uploads-to-s3-pre-signed-urls-10ge)
-- [Resonant Collinearity](https://dev.to/rmion/resonant-collinearity-3m5m)
-- [Parsing command-line arguments in C](https://dev.to/tallesl/parsing-command-line-arguments-in-c-41ac)
-- [Choosing the Right Database: A Simplified Guide](https://dev.to/mohammad-reza-mahdiani/choosing-the-right-database-a-simplified-guide-30o0)
+- [Prisma ORM: Revolutionizing Database Interactions](https://dev.to/austinwdigital/prisma-orm-revolutionizing-database-interactions-3860)
+- [Js in bits - 11.1&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-11logical-operators-2210)
+- [How to Run Group Policy Editor as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-group-policy-editor-as-administrator-on-windows-11-4ji5)
+- [Hashing, DSA Complete Syllabus](https://dev.to/harshm03/hashing-dsa-complete-syllabus-35pk)
 <!-- BLOG-POST-LIST:END -->
 
