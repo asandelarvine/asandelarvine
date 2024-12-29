@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 392. Is Subsequence - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-392-is-subsequence-javascript-solution-2fbi)
-- [Unlimited Color Changer: A Fun and Interactive Way to Add Vibrance to Your Screen](https://dev.to/safdarali25/unlimited-color-changer-a-fun-and-interactive-way-to-add-vibrance-to-your-screen-3km1)
-- [Mastering Async/Await and DOM Manipulation](https://dev.to/muslimekaya/mastering-asyncawait-and-dom-manipulation-1mj1)
-- [Improving Collaborative Coding Skills](https://dev.to/muslimekaya/improving-collaborative-coding-skills-2981)
+- [I tried cline 3.0.0 and here is what happend](https://dev.to/dasheck0/i-tried-cline-300-and-here-is-what-happend-3dm5)
+- [Javascript Arrays: A Cheat Sheet for Developer](https://dev.to/voscanoa/javascript-arrays-a-cheat-sheet-for-developer-2d2k)
+- [Securing Laravel Reverb](https://dev.to/edgaras/securing-laravel-reverb-2nh3)
+- [Matrix code rain - in Rust](https://dev.to/admin1299/matrix-code-rain-in-rust-1fad)
 <!-- BLOG-POST-LIST:END -->
 
