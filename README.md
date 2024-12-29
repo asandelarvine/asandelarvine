@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Symptoms of Bad Software?](https://dev.to/elliot_brenya/what-are-the-symptoms-of-bad-software-1oe6)
-- [The Importance of AI-Based Software Tools in Modern Development](https://dev.to/vaibhavkuls/the-importance-of-ai-based-software-tools-in-modern-development-1c9a)
-- [Named va Typed HttpClient haqida](https://dev.to/ben_randall_743e73c50d4b6/named-va-typed-httpclient-haqida-55b8)
-- [Unlocking the Power of Education Tools: Revolutionizing the Learning Experience](https://dev.to/rimaakter1/unlocking-the-power-of-education-tools-revolutionizing-the-learning-experience-16c2)
+- [Enhance Website Security: Prevent Session Fixation in Laravel](https://dev.to/pentest_testing_corp/enhance-website-security-prevent-session-fixation-in-laravel-fke)
+- [The Ultimate Guide to iOS Development: Enum &lpar;Part 8&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-enum-part-8-3k2b)
+- [Гайд на первый пет-проект](https://dev.to/dmkjfs/gaid-na-piervyi-piet-proiekt-14ib)
+- [How to Implement an Auto-Reply System Using EmailJS in Your React Project](https://dev.to/ryoichihomma/how-to-implement-an-auto-reply-system-using-emailjs-in-your-react-project-4p70)
 <!-- BLOG-POST-LIST:END -->
 
