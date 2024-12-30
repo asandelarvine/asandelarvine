@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Tutorial for Beginners: Mastering AWS CloudFront and CDN with a Hands-On Lab](https://dev.to/s3cloudhub/aws-tutorial-for-beginners-mastering-aws-cloudfront-and-cdn-with-a-hands-on-lab-1c1l)
-- [Your Go-To Guide for Chatbot Development Success](https://dev.to/hitesh_umaletiya/your-go-to-guide-for-chatbot-development-success-2hc7)
-- [If You&#39;re Looking for Red Flags Once You&#39;re in a Job, It&#39;s Too Late](https://dev.to/canro91/if-youre-looking-for-red-flags-once-youre-in-a-job-its-too-late-5cbm)
-- [Unlocking the Power of GraphQL: The Future of API Development](https://dev.to/austinwdigital/unlocking-the-power-of-graphql-the-future-of-api-development-3p0f)
+- [The Power of Real-Time Analytics: Transforming Modern Apps](https://dev.to/mukhilpadmanabhan/the-power-of-real-time-analytics-transforming-modern-apps-2gkp)
+- [When two videos are displayed on the phone screen their zoom and drag, they cannot exceed their respective size limits](https://dev.to/tonyxiong/when-two-videos-are-displayed-on-the-phone-screen-their-zoom-and-drag-they-cannot-exceed-their-1pk3)
+- [Gigs AI: A Conversational Chatbot Powered by Aggregated Data from Freelancer and Upwork](https://dev.to/cijesanchez/gigs-ai-a-conversational-chatbot-powered-by-aggregated-data-from-freelancer-and-upwork-1ilg)
+- [Rails Testing for Financial Operations](https://dev.to/sulmanweb/rails-testing-for-financial-operations-a90)
 <!-- BLOG-POST-LIST:END -->
 
