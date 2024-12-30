@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s talk metaframeworks](https://dev.to/fyodorio/lets-talk-metaframeworks-2mkb)
-- [Continuous Feedback? That’s right! And we’re not talking about people management!](https://dev.to/hugodeaguiar/continuous-feedback-thats-right-and-were-not-talking-about-people-management-28m0)
-- [How to run Python script or other job in Docker container with CRON](https://dev.to/xinitd/how-to-run-python-script-or-other-job-in-docker-container-with-cron-2fb2)
-- [Hal9: Create and Share Generative Apps](https://dev.to/javier_luraschi_7c6f7512b/hal9-create-and-share-generative-apps-81h)
+- [Mastering CI/CD](https://dev.to/razoropscicd/mastering-cicd-3pbo)
+- [Test](https://dev.to/ben/test-5d29)
+- [Seeking feedback and contributions for my open-source React portfolio builder project](https://dev.to/melvinprince/seeking-feedback-and-contributions-for-my-open-source-react-portfolio-builder-project-45k0)
+- [To implement CI/CD for DevOps](https://dev.to/razoropscicd/to-implement-cicd-for-devops-5eal)
 <!-- BLOG-POST-LIST:END -->
 
