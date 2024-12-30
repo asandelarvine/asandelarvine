@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in Angular v19?](https://dev.to/jzolnowski/angular-v19-a-game-changing-release-21dn)
-- [The Magic behind Bzip2 : Burrows Wheeler Transform](https://dev.to/skysingh04/the-magic-behind-bzip2-burrows-wheeler-transform-238d)
-- [Google reveals quantum computing chip Willow with ‘breakthrough’ achievements](https://dev.to/empiree/google-reveals-quantum-computing-chip-willow-with-breakthrough-achievements-4geh)
-- [How Not to Use AI in Software Development](https://dev.to/asachanfbd/how-not-to-use-ai-in-software-development-1l69)
+- [Azure Certification Path in 2025: A Complete Microsoft Azure Certification Guide](https://dev.to/skillboosttrainer/azure-certification-path-in-2025-a-complete-microsoft-azure-certification-guide-451k)
+- [How AI is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-ai-is-revolutionizing-software-testing-1n2h)
+- [Day 15 Task 1](https://dev.to/reegan/day-15-task-1-5797)
+- [Why I Switched from JavaScript to TypeScript for My Latest Project &lpar;And Why You Might Want to Too&rpar;](https://dev.to/digitalminds/why-i-switched-from-javascript-to-typescript-for-my-latest-project-and-why-you-might-want-to-too-150c)
 <!-- BLOG-POST-LIST:END -->
 
