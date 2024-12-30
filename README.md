@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CI/CD](https://dev.to/razoropscicd/mastering-cicd-3pbo)
-- [Test](https://dev.to/ben/test-5d29)
-- [Seeking feedback and contributions for my open-source React portfolio builder project](https://dev.to/melvinprince/seeking-feedback-and-contributions-for-my-open-source-react-portfolio-builder-project-45k0)
-- [To implement CI/CD for DevOps](https://dev.to/razoropscicd/to-implement-cicd-for-devops-5eal)
+- [💬 How Intent-Driven Interfaces Will Transform the Way Users Interact with Software](https://dev.to/louis-dupont/how-intent-driven-interfaces-will-transform-the-way-users-interact-with-software-3fdo)
+- [Enhancing Side Effects in Angular with NgRx&#39;s signalMethod](https://dev.to/danielsogl/enhancing-side-effects-in-angular-with-ngrxs-signalmethod-ho9)
+- [linspace in PyTorch](https://dev.to/hyperkai/linspace-in-pytorch-bfo)
+- [arange in PyTorch](https://dev.to/hyperkai/arange-in-pytorch-20gj)
 <!-- BLOG-POST-LIST:END -->
 
