@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Road to 5G: Anticipating the Next Wave of Connectivity](https://dev.to/hexadecimalsoftware/the-road-to-5g-anticipating-the-next-wave-of-connectivity-pk0)
-- [HELP NEEDED!!!](https://dev.to/scottstem/help-needed-20a7)
-- [Coding Made Easier: Steps That Transformed My Learning Journey](https://dev.to/faith_dev_/coding-made-easier-steps-that-transformed-my-learning-journey-4p06)
-- [5 Powerful Python Techniques for Efficient Data Streaming and Real-Time Processing](https://dev.to/aaravjoshi/5-powerful-python-techniques-for-efficient-data-streaming-and-real-time-processing-5dfl)
+- [JeKa: The Simplest Way to Publish on Maven Central](https://dev.to/djeang/jeka-the-simplest-way-to-publish-on-maven-central-f14)
+- [Using Grammarly in Dev.to](https://dev.to/mjoycemilburn/using-grammarly-in-devto-4cd5)
+- [How to Remove the Noindex Tag in WordPress](https://dev.to/zyodigitals/how-to-remove-the-noindex-tag-in-wordpress-pc6)
+- [How to Fix a Hacked WordPress Site: A Beginner&#39;s Guide](https://dev.to/vega12/how-to-fix-a-hacked-wordpress-site-a-beginners-guide-484g)
 <!-- BLOG-POST-LIST:END -->
 
