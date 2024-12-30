@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Serverless Podcast Workflow: Adventures with AI](https://dev.to/aws-builders/building-a-serverless-podcast-workflow-adventures-with-ai-l1f)
-- [Revolutionizing Content Creation: The Impact of AI on Content Generation](https://dev.to/shreyash-hexa/revolutionizing-content-creation-the-impact-of-ai-on-content-generation-4lkm)
-- [Ruby on Rails 8 - Frontend Rápido Usando Tailwind como um Frameworks CSS Classless](https://dev.to/dailson_igo/ruby-on-rails-8-frontend-rapido-usando-tailwind-como-um-frameworks-css-classless-2m87)
-- [You&#39;ve Got an App. Fargate or Kubernetes? 🙋‍♂️](https://dev.to/mike-vincent/youve-got-an-app-fargate-or-kubernetes-160o)
+- [Minimal portfolio built with Next.js and TailwindCSS](https://dev.to/saidmounaim/minimal-portfolio-built-with-nextjs-and-tailwindcss-ka8)
+- [Exploring Mina Foundation Grant Program and Current Projects](https://dev.to/hrmkingnuel/exploring-mina-foundation-grant-program-and-current-projects-562n)
+- [Simplify Email Testing with a Local Papercut SMTP Server Using Docker](https://dev.to/imzihad21/simplify-email-testing-with-a-local-papercut-smtp-server-using-docker-1o6b)
+- [Jason Meller Welcomes 1Password to the Rails Foundation](https://dev.to/jetthoughts/jason-meller-welcomes-1password-to-the-rails-foundation-29p8)
 <!-- BLOG-POST-LIST:END -->
 
