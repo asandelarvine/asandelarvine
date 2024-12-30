@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Internet Scale Services with Kubernetes and AWS](https://dev.to/chrisvensand/building-internet-scale-services-with-kubernetes-and-aws-4718)
+- [MediaPipe Face Landmarker Task for web](https://dev.to/technewbie12/mediapipe-face-landmarker-task-for-web-4b)
+- [Looking back to move forward: lessons from life and code](https://dev.to/creowistech/looking-back-to-move-forward-lessons-from-life-and-code-2n4p)
 - [Compare prices across AliExpress, eBay, &amp; Amazon.](https://dev.to/sarahokolo/compare-prices-across-aliexpress-ebay-amazon-1alj)
-- [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
-- [Enhancing Event Listener Reusability in JavaScript](https://dev.to/aubreywhitford/enhancing-event-listener-reusability-in-javascript-1dpb)
-- [2024: Career Review](https://dev.to/raymathewdeveloper/2024-career-review-1p4)
 <!-- BLOG-POST-LIST:END -->
 
