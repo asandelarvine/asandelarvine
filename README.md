@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Internet Scale Services with Kubernetes and AWS](https://dev.to/chrisvensand/building-internet-scale-services-with-kubernetes-and-aws-4718)
-- [MediaPipe Face Landmarker Task for web](https://dev.to/technewbie12/mediapipe-face-landmarker-task-for-web-4b)
-- [Looking back to move forward: lessons from life and code](https://dev.to/creowistech/looking-back-to-move-forward-lessons-from-life-and-code-2n4p)
-- [Compare prices across AliExpress, eBay, &amp; Amazon.](https://dev.to/sarahokolo/compare-prices-across-aliexpress-ebay-amazon-1alj)
+- [iOS implements basic operations for slow playback of videos](https://dev.to/tonyxiong/ios-implements-basic-operations-for-slow-playback-of-videos-194)
+- [The Remaining Issues With Path Of Exile 2’s Early Access Endgame - Forbes](https://dev.to/hk9099/the-remaining-issues-with-path-of-exile-2s-early-access-endgame-forbes-1876)
+- [Nintendo Reveals Japan&#39;s &quot;Top 30&quot; Most Downloaded Switch eShop Games Of 2024 - Nintendo Life](https://dev.to/hk9099/nintendo-reveals-japans-top-30-most-downloaded-switch-eshop-games-of-2024-nintendo-life-5geg)
+- [Best CRM Apps To Manage Customers and Leads](https://dev.to/codedthemes/best-crm-apps-to-manage-customers-and-leads-1ehd)
 <!-- BLOG-POST-LIST:END -->
 
