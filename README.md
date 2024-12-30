@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Books That Changed My Career as a Software Engineer](https://dev.to/juniourrau/10-books-that-changed-my-career-as-a-software-engineer-3fcp)
-- [The easiest way to migrate from Nuxt 3 to Nuxt 4!](https://dev.to/cn-2k/the-easiest-way-to-migrate-from-nuxt-3-for-nuxt-4-3l65)
-- [🔥 30 Brand-New Web Development Reads Dropping Right Now &lpar;Dec 30, 2024&rpar;](https://dev.to/dev-resources/30-brand-new-web-development-reads-dropping-right-now-dec-30-2024-39f9)
-- [Is Microsoft Copilot Worth It in 2025? A Fresh Look at Its Features and Value](https://dev.to/skillboosttrainer/is-microsoft-copilot-worth-it-in-2025-a-fresh-look-at-its-features-and-value-24ea)
+- [Let&#39;s talk metaframeworks](https://dev.to/fyodorio/lets-talk-metaframeworks-2mkb)
+- [Continuous Feedback? That’s right! And we’re not talking about people management!](https://dev.to/hugodeaguiar/continuous-feedback-thats-right-and-were-not-talking-about-people-management-28m0)
+- [How to run Python script or other job in Docker container with CRON](https://dev.to/xinitd/how-to-run-python-script-or-other-job-in-docker-container-with-cron-2fb2)
+- [Hal9: Create and Share Generative Apps](https://dev.to/javier_luraschi_7c6f7512b/hal9-create-and-share-generative-apps-81h)
 <!-- BLOG-POST-LIST:END -->
 
