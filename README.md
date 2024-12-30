@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimal portfolio built with Next.js and TailwindCSS](https://dev.to/saidmounaim/minimal-portfolio-built-with-nextjs-and-tailwindcss-ka8)
-- [Exploring Mina Foundation Grant Program and Current Projects](https://dev.to/hrmkingnuel/exploring-mina-foundation-grant-program-and-current-projects-562n)
-- [Simplify Email Testing with a Local Papercut SMTP Server Using Docker](https://dev.to/imzihad21/simplify-email-testing-with-a-local-papercut-smtp-server-using-docker-1o6b)
-- [Jason Meller Welcomes 1Password to the Rails Foundation](https://dev.to/jetthoughts/jason-meller-welcomes-1password-to-the-rails-foundation-29p8)
+- [Full Stack Application Hosting in AWS](https://dev.to/randiakm/full-stack-application-hosting-in-aws-2kc3)
+- [The Art of Prefetching and Preloading: Enhancing Web Performance](https://dev.to/bhargab/the-art-of-prefetching-and-preloading-enhancing-web-performance-2ef8)
+- [Taming the Beast: Harnessing `go.uber.org/ratelimit` in Go Applications](https://dev.to/rapidcodelab/taming-the-beast-harnessing-gouberorgratelimit-in-go-applications-2c05)
+- [🚀 Top Web3 news you could have missed](https://dev.to/endeo/top-web3-news-you-could-have-missed-2fo0)
 <!-- BLOG-POST-LIST:END -->
 
