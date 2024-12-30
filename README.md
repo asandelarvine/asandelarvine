@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Application Hosting in AWS](https://dev.to/randiakm/full-stack-application-hosting-in-aws-2kc3)
-- [The Art of Prefetching and Preloading: Enhancing Web Performance](https://dev.to/bhargab/the-art-of-prefetching-and-preloading-enhancing-web-performance-2ef8)
-- [Taming the Beast: Harnessing `go.uber.org/ratelimit` in Go Applications](https://dev.to/rapidcodelab/taming-the-beast-harnessing-gouberorgratelimit-in-go-applications-2c05)
-- [🚀 Top Web3 news you could have missed](https://dev.to/endeo/top-web3-news-you-could-have-missed-2fo0)
+- [🌱 Responsive Planto Ecommerce Website with React, Vite, TypeScript &amp; Tailwind CSS 🌱](https://dev.to/seyma/responsive-planto-ecommerce-website-with-react-vite-typescript-tailwind-css-3kld)
+- [kkTerminal —— A terminal for Web SSH connection](https://dev.to/zyyzyykk/kkterminal-a-terminal-for-web-ssh-connection-3c65)
+- [10 Reasons to Upgrade to .NET 9](https://dev.to/antonmartyniuk/10-reasons-to-upgrade-to-net-9-4aml)
+- [Deploying an Application Using CloudFormation with CDN Integration](https://dev.to/azeemah/deploying-an-application-using-cloudformation-with-cdn-integration-36pe)
 <!-- BLOG-POST-LIST:END -->
 
