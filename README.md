@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Certification Path in 2025: A Complete Microsoft Azure Certification Guide](https://dev.to/skillboosttrainer/azure-certification-path-in-2025-a-complete-microsoft-azure-certification-guide-451k)
-- [How AI is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-ai-is-revolutionizing-software-testing-1n2h)
-- [Day 15 Task 1](https://dev.to/reegan/day-15-task-1-5797)
-- [Why I Switched from JavaScript to TypeScript for My Latest Project &lpar;And Why You Might Want to Too&rpar;](https://dev.to/digitalminds/why-i-switched-from-javascript-to-typescript-for-my-latest-project-and-why-you-might-want-to-too-150c)
+- [Building a Serverless Podcast Workflow: Adventures with AI](https://dev.to/aws-builders/building-a-serverless-podcast-workflow-adventures-with-ai-l1f)
+- [Revolutionizing Content Creation: The Impact of AI on Content Generation](https://dev.to/shreyash-hexa/revolutionizing-content-creation-the-impact-of-ai-on-content-generation-4lkm)
+- [Ruby on Rails 8 - Frontend Rápido Usando Tailwind como um Frameworks CSS Classless](https://dev.to/dailson_igo/ruby-on-rails-8-frontend-rapido-usando-tailwind-como-um-frameworks-css-classless-2m87)
+- [You&#39;ve Got an App. Fargate or Kubernetes? 🙋‍♂️](https://dev.to/mike-vincent/youve-got-an-app-fargate-or-kubernetes-160o)
 <!-- BLOG-POST-LIST:END -->
 
