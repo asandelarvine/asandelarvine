@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Change the Background in Ubuntu Terminal](https://dev.to/greenwebpage/how-to-change-the-background-in-ubuntu-terminal-329o)
-- [Top Kubernetes RSS Feeds that You Must Follow](https://dev.to/kubefeeds/top-kubernetes-rss-feeds-that-you-must-follow-11c)
-- [Top Open-Source Coding LLMs Revolutionizing Development](https://dev.to/roobia/top-open-source-coding-llms-revolutionizing-development-3g7a)
-- [Understanding and Fixing the Externally-Managed-Environment Error](https://dev.to/swiftproxy_residential/understanding-and-fixing-the-externally-managed-environment-error-1519)
+- [React Native Debugger: Best Tools and How to Use Them](https://dev.to/codeparrot/react-native-debugger-best-tools-and-how-to-use-them-12m0)
+- [Best Free Cookie Consent Banner Generator](https://dev.to/foxinfotech/best-free-cookie-consent-banner-generator-1bbo)
+- [Advanced RAG Techniques: Bridging Text and Visuals for More Accurate Responses](https://dev.to/mimotest/advanced-rag-techniques-bridging-text-and-visuals-for-more-accurate-responses-3l41)
+- [Postman vs. Sparrow: The Gen Z Take on API Testing Tools](https://dev.to/anmol_kushwah_1928/postman-vs-sparrow-the-gen-z-take-on-api-testing-tools-2i1b)
 <!-- BLOG-POST-LIST:END -->
 
