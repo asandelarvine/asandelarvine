@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 How Intent-Driven Interfaces Will Transform the Way Users Interact with Software](https://dev.to/louis-dupont/how-intent-driven-interfaces-will-transform-the-way-users-interact-with-software-3fdo)
-- [Enhancing Side Effects in Angular with NgRx&#39;s signalMethod](https://dev.to/danielsogl/enhancing-side-effects-in-angular-with-ngrxs-signalmethod-ho9)
-- [linspace in PyTorch](https://dev.to/hyperkai/linspace-in-pytorch-bfo)
-- [arange in PyTorch](https://dev.to/hyperkai/arange-in-pytorch-20gj)
+- [My React Journey: Day 27](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-27-49b8)
+- [fmod in PyTorch](https://dev.to/hyperkai/fmod-in-pytorch-5bcp)
+- [remainder in PyTorch](https://dev.to/hyperkai/remainder-in-pytorch-418l)
+- [### Flutter vs. React Native: Which Mobile Framework Will You Choose in 2025?](https://dev.to/respect17/-flutter-vs-react-native-which-mobile-framework-will-you-choose-in-2025-53hd)
 <!-- BLOG-POST-LIST:END -->
 
