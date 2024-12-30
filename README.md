@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JeKa: The Simplest Way to Publish on Maven Central](https://dev.to/djeang/jeka-the-simplest-way-to-publish-on-maven-central-f14)
-- [Using Grammarly in Dev.to](https://dev.to/mjoycemilburn/using-grammarly-in-devto-4cd5)
-- [How to Remove the Noindex Tag in WordPress](https://dev.to/zyodigitals/how-to-remove-the-noindex-tag-in-wordpress-pc6)
-- [How to Fix a Hacked WordPress Site: A Beginner&#39;s Guide](https://dev.to/vega12/how-to-fix-a-hacked-wordpress-site-a-beginners-guide-484g)
+- [What&#39;s New in Angular v19?](https://dev.to/jzolnowski/angular-v19-a-game-changing-release-21dn)
+- [The Magic behind Bzip2 : Burrows Wheeler Transform](https://dev.to/skysingh04/the-magic-behind-bzip2-burrows-wheeler-transform-238d)
+- [Google reveals quantum computing chip Willow with ‘breakthrough’ achievements](https://dev.to/empiree/google-reveals-quantum-computing-chip-willow-with-breakthrough-achievements-4geh)
+- [How Not to Use AI in Software Development](https://dev.to/asachanfbd/how-not-to-use-ai-in-software-development-1l69)
 <!-- BLOG-POST-LIST:END -->
 
