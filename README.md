@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS implements basic operations for slow playback of videos](https://dev.to/tonyxiong/ios-implements-basic-operations-for-slow-playback-of-videos-194)
-- [The Remaining Issues With Path Of Exile 2’s Early Access Endgame - Forbes](https://dev.to/hk9099/the-remaining-issues-with-path-of-exile-2s-early-access-endgame-forbes-1876)
-- [Nintendo Reveals Japan&#39;s &quot;Top 30&quot; Most Downloaded Switch eShop Games Of 2024 - Nintendo Life](https://dev.to/hk9099/nintendo-reveals-japans-top-30-most-downloaded-switch-eshop-games-of-2024-nintendo-life-5geg)
-- [Best CRM Apps To Manage Customers and Leads](https://dev.to/codedthemes/best-crm-apps-to-manage-customers-and-leads-1ehd)
+- [AWS Tutorial for Beginners: Mastering AWS CloudFront and CDN with a Hands-On Lab](https://dev.to/s3cloudhub/aws-tutorial-for-beginners-mastering-aws-cloudfront-and-cdn-with-a-hands-on-lab-1c1l)
+- [Your Go-To Guide for Chatbot Development Success](https://dev.to/hitesh_umaletiya/your-go-to-guide-for-chatbot-development-success-2hc7)
+- [If You&#39;re Looking for Red Flags Once You&#39;re in a Job, It&#39;s Too Late](https://dev.to/canro91/if-youre-looking-for-red-flags-once-youre-in-a-job-its-too-late-5cbm)
+- [Unlocking the Power of GraphQL: The Future of API Development](https://dev.to/austinwdigital/unlocking-the-power-of-graphql-the-future-of-api-development-3p0f)
 <!-- BLOG-POST-LIST:END -->
 
