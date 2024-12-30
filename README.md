@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pytest Fish shell autocompletion](https://dev.to/pomidoroshev/pytest-fish-shell-autocompletion-58o6)
-- [AI in Remote Hiring: The Future of Global Talent Acquisition](https://dev.to/baraq/ai-in-remote-hiring-the-future-of-global-talent-acquisition-5aei)
-- [What is this “ARC Zonal shift” in EKS? Here’s what I found about it…](https://dev.to/vijaykodam/what-is-this-arc-zonal-shift-in-eks-heres-what-i-found-about-it-51hp)
-- [Closing Note: The End of a Transformative Journey](https://dev.to/arbythecoder/closing-note-the-end-of-a-transformative-journey-3abh)
+- [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
+- [Enhancing Event Listener Reusability in JavaScript](https://dev.to/aubreywhitford/enhancing-event-listener-reusability-in-javascript-1dpb)
+- [2024: Career Review](https://dev.to/raymathewdeveloper/2024-career-review-1p4)
+- [Building a Privacy-First Coding Activity Tracker for VS Code](https://dev.to/ernivani/building-a-privacy-first-coding-activity-tracker-for-vs-code-15g)
 <!-- BLOG-POST-LIST:END -->
 
