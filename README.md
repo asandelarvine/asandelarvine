@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Currency is What &lpar;Almost&rpar; Everyone Wants](https://dev.to/shrsv/currency-is-what-almost-everyone-wants-1o4a)
-- [Codewars - Descending Order](https://dev.to/dantedinopegassi/codewars-descending-order-53he)
-- [Deno docker](https://dev.to/pdotdotdot/deno-docker-4p1p)
-- [Rust: The Memory Doesn&#39;t Remain](https://dev.to/crusty-rustacean/rust-the-memory-doesnt-remain-5h1d)
+- [Just sent our final email of the year 😌](https://dev.to/jess/just-sent-our-final-email-of-the-year-1djo)
+- [From C# to Haskell and Back Again: My Journey into Functional Programming](https://dev.to/rjcg916/from-c-to-haskell-and-back-again-my-journey-into-functional-programming-38l7)
+- [A happy new year to everyone in Python!](https://dev.to/evertontenorio/a-happy-new-year-to-everyone-in-python-pmb)
+- [Chat App Deploy on Kubernetes Using Kind, Metallb and Ingress](https://dev.to/kamruzzaman/chat-app-deploy-on-kubernetes-using-kind-metallb-and-ingress-2e3)
 <!-- BLOG-POST-LIST:END -->
 
