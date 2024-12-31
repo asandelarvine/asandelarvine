@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Video Review: Firestore Data Structure, Limitations, and IMHO](https://dev.to/imkven/dev-video-review-firestore-data-structure-limitations-and-imho-302c)
-- [How to read ip addr output on Linux](https://dev.to/pikotutorial/how-to-read-ip-addr-output-on-linux-fnj)
-- [Show or Hide a Div Based on Select Option in JavaScript](https://dev.to/askyt/show-or-hide-a-div-based-on-select-option-in-javascript-57el)
-- [Show an Element if a Checkbox is checked using JavaScript](https://dev.to/askyt/show-an-element-if-a-checkbox-is-checked-using-javascript-35pe)
+- [Giới Thiệu Về Pattern Trong Phát Triển Phần Mềm](https://dev.to/le_hongphuc_eecc926242df/gioi-thieu-ve-pattern-trong-phat-trien-phan-mem-4e15)
+- [Preparing your business for the European Accessibility Act](https://dev.to/tinyoctopus/preparing-your-business-for-the-european-accessibility-act-16bl)
+- [Flutter skill: using CustomPainter for drawing custom shapes and graphics.](https://dev.to/remejuan/flutter-skill-using-custompainter-for-drawing-custom-shapes-and-graphics-5a7o)
+- [Function Composition in JS - বাংলা](https://dev.to/shmihad/function-composition-in-js-baanlaa-13bf)
 <!-- BLOG-POST-LIST:END -->
 
