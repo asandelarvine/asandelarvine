@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My React Journey: Day 27](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-27-49b8)
-- [fmod in PyTorch](https://dev.to/hyperkai/fmod-in-pytorch-5bcp)
-- [remainder in PyTorch](https://dev.to/hyperkai/remainder-in-pytorch-418l)
-- [### Flutter vs. React Native: Which Mobile Framework Will You Choose in 2025?](https://dev.to/respect17/-flutter-vs-react-native-which-mobile-framework-will-you-choose-in-2025-53hd)
+- [A Cost-Effective Guide to prepare and pass the KCNA](https://dev.to/bongoe/a-cost-effective-guide-to-prepare-and-pass-the-kcna-3fge)
+- [A Straightforward Guide to Building and Using a JSON Database File](https://dev.to/p-rf/a-straightforward-guide-to-building-and-using-a-json-database-file-5a3h)
+- [From Alert to Action: Investigating a Possible Phishing URL](https://dev.to/gabrieloc/from-alert-to-action-investigating-a-possible-phishing-url-1e7p)
+- [Aprende a instalar Docker en una instancia EC2 con Amazon Linux 2023 y Ubuntu](https://dev.to/briansuarezsantiago/aprende-a-instalar-docker-en-una-instancia-ec2-con-amazon-linux-2023-y-ubuntu-3ncn)
 <!-- BLOG-POST-LIST:END -->
 
