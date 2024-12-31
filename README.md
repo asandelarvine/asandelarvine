@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adopting Serverless Architecture: Real-Life Examples, Key Benefits, and Implementation](https://dev.to/bcherlapally/adopting-serverless-architecture-real-life-examples-key-benefits-and-implementation-2ii3)
-- [MongoDB Command Shortcuts: The Ultimate Guide](https://dev.to/milliemolotov/mongodb-command-shortcuts-the-ultimate-guide-41c5)
-- [Styling HTML &lt;details&gt; and &lt;summary&gt; with modern CSS](https://dev.to/logrocket/styling-html-and-with-modern-css-24b2)
-- [LeetCode Challenge: 11. 📦 Container With Most Water - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-11-container-with-most-water-javascript-solution-ah1)
+- [🍃 30 Elm Picks to Fuel Your Functional Code](https://dev.to/0x3d_site/30-elm-picks-to-fuel-your-functional-code-kf8)
+- [From Setback to Success: My ACM Winter School Journey...](https://dev.to/phanisirisha-46/from-setback-to-success-my-acm-winter-school-journey-4h7p)
+- [Why Struggle with Software Challenges When Tanzu Can Do the Heavy Lifting?](https://dev.to/michelle_sebek_/why-struggle-with-software-challenges-when-tanzu-can-do-the-heavy-lifting-3oki)
+- [&quot;nvm use&quot; does not work with nvm-windows](https://dev.to/ku6ryo/nvm-use-does-not-work-with-nvm-windows-2fo9)
 <!-- BLOG-POST-LIST:END -->
 
