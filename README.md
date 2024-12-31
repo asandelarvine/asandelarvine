@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling LangChain from Go &lpar;Part 1&rpar;](https://dev.to/aairom/calling-langchain-from-go-part-1alain-airom-ayrom-18i2)
-- [Test, review &amp; document your code with Amazon Q Developer](https://dev.to/welcloud-io/test-review-document-your-code-with-amazon-q-developer-19cf)
-- [My 2024 Unwrap &lpar;of course, it&#39;s not a must-read&rpar;](https://dev.to/rohan_sharma/my-2024-unwrap-of-course-its-not-a-must-read-4ap6)
-- [7 Essential Python Decorator Patterns for Cleaner, More Efficient Code](https://dev.to/aaravjoshi/7-essential-python-decorator-patterns-for-cleaner-more-efficient-code-36fe)
+- [End-to-End Encrypted Messaging App: High-Level Design and Architecture](https://dev.to/gyanaa_vaibhav_8757257a61/end-to-end-encrypted-messaging-app-high-level-design-and-architecture-5d16)
+- [10 GitHub Repositories That Will Level Up Your Coding Skills in 2025.](https://dev.to/balrajola/10-github-repositories-that-will-level-up-your-coding-skills-in-2025-2p0l)
+- [Introduction to Quantum Computing](https://dev.to/atharvgyan/introduction-to-quantum-computing-kgl)
+- [How to Make the Most of Remote Work Opportunities](https://dev.to/krishanvijay/how-to-make-the-most-of-remote-work-opportunities-11o6)
 <!-- BLOG-POST-LIST:END -->
 
