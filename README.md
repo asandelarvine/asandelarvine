@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cricket task](https://dev.to/hema_latha/cricket-task-4c6j)
-- [PlutoViz: More prep](https://dev.to/robinfivewords/plutoviz-more-prep-pp4)
-- [AWS Elastic Load Balancer &lpar;ELB&rpar; Tutorial: How to Configure ELB and Add Web Servers](https://dev.to/s3cloudhub/aws-elastic-load-balancer-elb-tutorial-how-to-configure-elb-and-add-web-servers-2456)
-- [Day 15 Task 3](https://dev.to/reegan/day-15-task-3-332)
+- [How to Build a File Server Using ZimaBoard or Raspberry Pi](https://dev.to/jewelmahmud/how-to-build-a-file-server-using-zimaboard-or-raspberry-pi-fab)
+- [Reboot Your Tech Career: A Practical Guide to Thriving in the Tech Industry](https://dev.to/techforcea/reboot-your-tech-career-a-practical-guide-to-thriving-in-the-tech-industry-178g)
+- [How to edit boot config Raspberry Pi 5 USB?](https://dev.to/carolineee/how-to-edit-boot-config-raspberry-pi-5-usb-3ab8)
+- [Top 10 Web Accessibility Mistakes Developers Make and How to Avoid Them](https://dev.to/accessibly_speaking/top-10-web-accessibility-mistakes-developers-make-and-how-to-avoid-them-4b1p)
 <!-- BLOG-POST-LIST:END -->
 
