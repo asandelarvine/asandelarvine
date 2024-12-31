@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Java: 10 Must-Know Development Tools🎉🎉](https://dev.to/noah_anderson_7632d059a07de/a-beginners-guide-to-java-10-must-know-development-tools-4k55)
-- [Using the GitHub API in Rust](https://dev.to/dmbtechdev/using-the-github-api-in-rust-10op)
-- [Codigger integrates Copilot: an intelligent programming assistant](https://dev.to/codigger/codigger-integrates-copilot-an-intelligent-programming-assistant-38km)
-- [How to Start Building APIs in 2025: A Comprehensive Guide🔥🔥](https://dev.to/apilover/how-to-start-building-apis-in-2025-a-comprehensive-guide-58k5)
+- [Calling LangChain from Go &lpar;Part 1&rpar;](https://dev.to/aairom/calling-langchain-from-go-part-1alain-airom-ayrom-18i2)
+- [Test, review &amp; document your code with Amazon Q Developer](https://dev.to/welcloud-io/test-review-document-your-code-with-amazon-q-developer-19cf)
+- [My 2024 Unwrap &lpar;of course, it&#39;s not a must-read&rpar;](https://dev.to/rohan_sharma/my-2024-unwrap-of-course-its-not-a-must-read-4ap6)
+- [7 Essential Python Decorator Patterns for Cleaner, More Efficient Code](https://dev.to/aaravjoshi/7-essential-python-decorator-patterns-for-cleaner-more-efficient-code-36fe)
 <!-- BLOG-POST-LIST:END -->
 
