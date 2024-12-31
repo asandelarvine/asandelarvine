@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just sent our final email of the year 😌](https://dev.to/jess/just-sent-our-final-email-of-the-year-1djo)
-- [From C# to Haskell and Back Again: My Journey into Functional Programming](https://dev.to/rjcg916/from-c-to-haskell-and-back-again-my-journey-into-functional-programming-38l7)
-- [A happy new year to everyone in Python!](https://dev.to/evertontenorio/a-happy-new-year-to-everyone-in-python-pmb)
-- [Chat App Deploy on Kubernetes Using Kind, Metallb and Ingress](https://dev.to/kamruzzaman/chat-app-deploy-on-kubernetes-using-kind-metallb-and-ingress-2e3)
+- [OSI Model Layers and Protocols: Computer Networks](https://dev.to/harshm03/osi-model-layers-and-protocols-computer-networks-1i0e)
+- [Running Kibana, Elastic, and APM with Docker Compose](https://dev.to/sohail0992/running-kibana-elastic-and-apm-with-docker-compose-37ej)
+- [What is a Web Designer and what does he do](https://dev.to/sysmaya/what-is-a-web-designer-and-what-does-he-do-395g)
+- [Explaining Iterable vs Iterator in Python](https://dev.to/pkutaj/explaining-iterable-vs-iterator-in-python-4c3a)
 <!-- BLOG-POST-LIST:END -->
 
