@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS is Emotional: The Psychology of Specificity](https://dev.to/eioluseyi/css-is-emotional-the-psychology-of-specificity-3447)
-- [2 class link method](https://dev.to/hema_latha/2-class-link-method-35cl)
-- [Testcontainers for kafka](https://dev.to/said_olano/testcontainers-for-kafka-4c2o)
-- [Traefik using owned SSL certificate](https://dev.to/jhonoryza/traefik-using-owned-ssl-certificate-2b4n)
+- [Turbocharge Your React Apps: Unlocking Peak Performance with Proven Techniques](https://dev.to/solitrix02/turbocharge-your-react-apps-unlocking-peak-performance-with-proven-techniques-1jck)
+- [Ghostty for Ubuntu 24.04](https://dev.to/shafiqimtiaz/ghostty-for-ubuntu-2404-4hhn)
+- [Decentralized Applications &lpar;dApps&rpar; Built on Mina Protocol](https://dev.to/uratmangun/decentralized-applications-dapps-built-on-mina-protocol-4ce6)
+- [Software Testing](https://dev.to/50_yuvashrees_70d09a9fc9/software-testing-1p4i)
 <!-- BLOG-POST-LIST:END -->
 
