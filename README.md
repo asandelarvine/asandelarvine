@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Coding Becoming Irrelevant? 8 Rules to Learn Code in 2025](https://dev.to/web_dev-usman/is-coding-becoming-irrelevant-8-rules-to-learn-code-in-2025-36ln)
-- [Top 10 Web Development Trends of 2025 You May Not Know](https://dev.to/dhruvjoshi9/top-10-web-development-trends-of-2025-you-may-not-know-cdn)
-- [🤖🧠Making Tech Blog with AI character &lpar;React + AWS&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-with-ai-character-react-aws-2986)
-- [Exploring the MERN Stack: Building Modern Web Applications in 2024](https://dev.to/codemintah/exploring-the-mern-stack-building-modern-web-applications-in-2024-192d)
+- [Cricket task](https://dev.to/hema_latha/cricket-task-4c6j)
+- [PlutoViz: More prep](https://dev.to/robinfivewords/plutoviz-more-prep-pp4)
+- [AWS Elastic Load Balancer &lpar;ELB&rpar; Tutorial: How to Configure ELB and Add Web Servers](https://dev.to/s3cloudhub/aws-elastic-load-balancer-elb-tutorial-how-to-configure-elb-and-add-web-servers-2456)
+- [Day 15 Task 3](https://dev.to/reegan/day-15-task-3-332)
 <!-- BLOG-POST-LIST:END -->
 
