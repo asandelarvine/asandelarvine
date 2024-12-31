@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Rasa? A Beginner’s Guide to Conversational AI](https://dev.to/bharath_madhu/what-is-rasa-a-beginners-guide-to-conversational-ai-15nm)
-- [Best programming Language this year](https://dev.to/rdx011o/best-programming-language-this-year-4dhe)
-- [Happy new year! To more coding, playing the guitar, biking and motorcycle rides next year!](https://dev.to/highcenburg/happy-new-year-to-more-coding-playing-the-guitar-biking-and-motorcycle-rides-next-year-497m)
-- [AWS - Route53](https://dev.to/fenil_patel_04/aws-route53-237a)
+- [The future of frontend developer &lpar;2025&rpar;](https://dev.to/codewithshahan/the-future-of-frontend-developer-2025-54me)
+- [Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/mofshamim/interface-segregation-principle-isp-1c9p)
+- [Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/mofshamim/liskov-substitution-principle-lsp-4ejo)
+- [Dev Wrap 2024](https://dev.to/busycaesar/dev-retro-2024-1)
 <!-- BLOG-POST-LIST:END -->
 
