@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Low-Level Design for an End-to-End Encrypted Messaging Application with Real-Time Communication](https://dev.to/gyanaa_vaibhav_8757257a61/low-level-design-for-an-end-to-end-encrypted-messaging-application-with-real-time-communication-19lj)
-- [How to Set Up CopilotKit in Your React App: A Step-by-Step Guide](https://dev.to/coding_farhan/how-to-set-up-copilotkit-in-your-react-app-a-step-by-step-guide-1cca)
-- [reactJs](https://dev.to/futuristicgeeks/reactjs-39h3)
-- [#100DAYSOFCODE: Day 4 &amp; Day 5](https://dev.to/isaiahhtml/100daysofcode-day-4-day-5-1io4)
+- [What is Rasa? A Beginner’s Guide to Conversational AI](https://dev.to/bharath_madhu/what-is-rasa-a-beginners-guide-to-conversational-ai-15nm)
+- [Best programming Language this year](https://dev.to/rdx011o/best-programming-language-this-year-4dhe)
+- [Happy new year! To more coding, playing the guitar, biking and motorcycle rides next year!](https://dev.to/highcenburg/happy-new-year-to-more-coding-playing-the-guitar-biking-and-motorcycle-rides-next-year-497m)
+- [AWS - Route53](https://dev.to/fenil_patel_04/aws-route53-237a)
 <!-- BLOG-POST-LIST:END -->
 
