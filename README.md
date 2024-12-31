@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of frontend developer &lpar;2025&rpar;](https://dev.to/codewithshahan/the-future-of-frontend-developer-2025-54me)
-- [Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/mofshamim/interface-segregation-principle-isp-1c9p)
-- [Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/mofshamim/liskov-substitution-principle-lsp-4ejo)
-- [Dev Wrap 2024](https://dev.to/busycaesar/dev-retro-2024-1)
+- [Adopting Serverless Architecture: Real-Life Examples, Key Benefits, and Implementation](https://dev.to/bcherlapally/adopting-serverless-architecture-real-life-examples-key-benefits-and-implementation-2ii3)
+- [MongoDB Command Shortcuts: The Ultimate Guide](https://dev.to/milliemolotov/mongodb-command-shortcuts-the-ultimate-guide-41c5)
+- [Styling HTML &lt;details&gt; and &lt;summary&gt; with modern CSS](https://dev.to/logrocket/styling-html-and-with-modern-css-24b2)
+- [LeetCode Challenge: 11. 📦 Container With Most Water - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-11-container-with-most-water-javascript-solution-ah1)
 <!-- BLOG-POST-LIST:END -->
 
