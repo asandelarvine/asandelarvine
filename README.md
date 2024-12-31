@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Cost-Effective Guide to prepare and pass the KCNA](https://dev.to/bongoe/a-cost-effective-guide-to-prepare-and-pass-the-kcna-3fge)
-- [A Straightforward Guide to Building and Using a JSON Database File](https://dev.to/p-rf/a-straightforward-guide-to-building-and-using-a-json-database-file-5a3h)
-- [From Alert to Action: Investigating a Possible Phishing URL](https://dev.to/gabrieloc/from-alert-to-action-investigating-a-possible-phishing-url-1e7p)
-- [Aprende a instalar Docker en una instancia EC2 con Amazon Linux 2023 y Ubuntu](https://dev.to/briansuarezsantiago/aprende-a-instalar-docker-en-una-instancia-ec2-con-amazon-linux-2023-y-ubuntu-3ncn)
+- [How to deal with problems caused by frequent IP access when crawling?](https://dev.to/98ip/how-to-deal-with-problems-caused-by-frequent-ip-access-when-crawling-533n)
+- [I need help choosing a framework.](https://dev.to/koen_stewart_f2b51f676687/i-need-help-choosing-a-framework-1c0d)
+- [Tutorial para criação de projetos com Ruby on Rails &lpar;sem Ruby localmente&rpar;](https://dev.to/svitorz/tutorial-para-criacao-de-projetos-com-ruby-on-rails-sem-ruby-localmente-459o)
+- [Library Task](https://dev.to/hema_latha/library-task-l0l)
 <!-- BLOG-POST-LIST:END -->
 
