@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Your React Apps: Unlocking Peak Performance with Proven Techniques](https://dev.to/solitrix02/turbocharge-your-react-apps-unlocking-peak-performance-with-proven-techniques-1jck)
-- [Ghostty for Ubuntu 24.04](https://dev.to/shafiqimtiaz/ghostty-for-ubuntu-2404-4hhn)
-- [Decentralized Applications &lpar;dApps&rpar; Built on Mina Protocol](https://dev.to/uratmangun/decentralized-applications-dapps-built-on-mina-protocol-4ce6)
-- [Software Testing](https://dev.to/50_yuvashrees_70d09a9fc9/software-testing-1p4i)
+- [Is Coding Becoming Irrelevant? 8 Rules to Learn Code in 2025](https://dev.to/web_dev-usman/is-coding-becoming-irrelevant-8-rules-to-learn-code-in-2025-36ln)
+- [Top 10 Web Development Trends of 2025 You May Not Know](https://dev.to/dhruvjoshi9/top-10-web-development-trends-of-2025-you-may-not-know-cdn)
+- [🤖🧠Making Tech Blog with AI character &lpar;React + AWS&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-with-ai-character-react-aws-2986)
+- [Exploring the MERN Stack: Building Modern Web Applications in 2024](https://dev.to/codemintah/exploring-the-mern-stack-building-modern-web-applications-in-2024-192d)
 <!-- BLOG-POST-LIST:END -->
 
