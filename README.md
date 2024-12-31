@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Encrypted Messaging App: High-Level Design and Architecture](https://dev.to/gyanaa_vaibhav_8757257a61/end-to-end-encrypted-messaging-app-high-level-design-and-architecture-5d16)
-- [10 GitHub Repositories That Will Level Up Your Coding Skills in 2025.](https://dev.to/balrajola/10-github-repositories-that-will-level-up-your-coding-skills-in-2025-2p0l)
-- [Introduction to Quantum Computing](https://dev.to/atharvgyan/introduction-to-quantum-computing-kgl)
-- [How to Make the Most of Remote Work Opportunities](https://dev.to/krishanvijay/how-to-make-the-most-of-remote-work-opportunities-11o6)
+- [Low-Level Design for an End-to-End Encrypted Messaging Application with Real-Time Communication](https://dev.to/gyanaa_vaibhav_8757257a61/low-level-design-for-an-end-to-end-encrypted-messaging-application-with-real-time-communication-19lj)
+- [How to Set Up CopilotKit in Your React App: A Step-by-Step Guide](https://dev.to/coding_farhan/how-to-set-up-copilotkit-in-your-react-app-a-step-by-step-guide-1cca)
+- [reactJs](https://dev.to/futuristicgeeks/reactjs-39h3)
+- [#100DAYSOFCODE: Day 4 &amp; Day 5](https://dev.to/isaiahhtml/100daysofcode-day-4-day-5-1io4)
 <!-- BLOG-POST-LIST:END -->
 
