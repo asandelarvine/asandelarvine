@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Changing Software Testing in 2025](https://dev.to/anil_csimplifyit_905c/how-ai-is-changing-software-testing-in-2025-490c)
-- [Configura un servidor GitLab en AWS EC2 en minutos](https://dev.to/briansuarezsantiago/configura-un-servidor-gitlab-en-aws-ec2-en-minutos-2g7l)
-- [Deploying APIs as Microservice with Kubernetes, Docker, and AWS](https://dev.to/azeemah/deploying-apis-as-microservice-with-kubernetes-docker-and-aws-1a79)
-- [React js](https://dev.to/frang1977/react-js-3n8l)
+- [Kong API Gateway Setup Basic to advance usages](https://dev.to/indalyadav56/kong-api-gateway-setup-basic-to-advance-usages-9me)
+- [Guidelines about the Refer-a-Friend Program](https://dev.to/tecno-security/guidelines-about-the-refer-a-friend-program-3c63)
+- [Deploying a Simple Static Website on AWS with CDK and TypeScript](https://dev.to/kasukur/deploying-a-simple-static-website-on-aws-with-cdk-and-typescript-oij)
+- [Problem Solving Patterns &lpar;Part 4&rpar;: Divide and Conquer](https://dev.to/kanishkaisuru/problem-solving-patterns-part-4-divide-and-conquer-1gl5)
 <!-- BLOG-POST-LIST:END -->
 
