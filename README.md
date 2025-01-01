@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Found the Perfect Alternative to MAMP](https://dev.to/proprzzzz/i-finally-found-the-perfect-alternative-to-mamp-5162)
-- [Enable SMB 1.0 / CIFS File Sharing Support using Command Prompt &amp; Windows PowerShell](https://dev.to/winsides/enable-smb-10-cifs-file-sharing-support-using-command-prompt-windows-powershell-43h6)
-- [Day 1 : Introduction to C++](https://dev.to/mehfila_parkkulthil_23/day-1-introduction-to-c-4738)
-- [Launching a Freelancer Platform: Be Seen First Forever for Just £10](https://dev.to/vulcanwm/launching-a-freelancer-platform-be-seen-first-forever-for-just-ps10-45a2)
+- [Consistency Models and Replicache](https://dev.to/siisee11/consistency-models-and-replicache-1l42)
+- [The Case for Build-Time Micro Frontends](https://dev.to/msm8/the-case-for-build-time-micro-frontends-2a6f)
+- [Matanuska ADR 006 - Runtime Exit](https://dev.to/jfhbrook/matanuska-adr-006-runtime-exit-34jg)
+- [Navigating Challenges: Reflections on My Career Journey](https://dev.to/yetesfa/navigating-challenges-reflections-on-my-career-journey-34p0)
 <!-- BLOG-POST-LIST:END -->
 
