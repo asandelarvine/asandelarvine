@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Try a Local LLM Model—and How to Get Started](https://dev.to/luca1iu/why-you-should-try-a-local-llm-model-and-how-to-get-started-2ni4)
-- [Dtos in typescript](https://dev.to/anas-abdelhadi/dtos-in-typescript-2cik)
-- [💻Mastering State Management with Zustand in Next.js and React ⚛](https://dev.to/mrsupercraft/mastering-state-management-with-zustand-in-nextjs-and-react-1g26)
-- [Working with Matter Team Membership Using the IntApp Walls API](https://dev.to/seanmdrew/working-with-matter-team-membership-using-the-intapp-walls-api-2nop)
+- [AI Paper Review: ORPO - Monolithic Preference Optimization without Reference Model](https://dev.to/bullmouse/ai-paper-review-24l4)
+- [Build a Single Page Application &lpar;SPA&rpar; Using HTML, CSS &amp; JavaScript - No Frameworks Needed](https://dev.to/sharathchandark/build-a-single-page-application-spa-using-html-css-javascript-no-frameworks-needed-3bf9)
+- [Angular resource&lpar;&rpar; and rxResource&lpar;&rpar; APIs: what you need to know](https://dev.to/davidepassafaro/angular-resource-and-rxresource-apis-what-you-need-to-know-5ce2)
+- [🚀 Automating Process Monitoring &amp; Restarting with Bash Scripting Day4! 🔧](https://dev.to/jamiu_cloud/automating-process-monitoring-restarting-with-bash-scripting-day4-5e0i)
 <!-- BLOG-POST-LIST:END -->
 
