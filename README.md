@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Deployment Strategies for Kubernetes: Canary, Blue-Green, and Shadow Deployments](https://dev.to/virajlakshitha/advanced-deployment-strategies-for-kubernetes-canary-blue-green-and-shadow-deployments-2161)
-- [ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod](https://dev.to/softjapan/chatgpt-client-with-line-style-ui-built-with-flutter-and-riverpod-2hei)
-- [Top 10 Books for Boosting Efficiency, Productivity, and Performance](https://dev.to/seyedehsanmirmahdi/top-10-books-for-boosting-efficiency-productivity-and-performance-3990)
-- [Full-Stack Next.js 15 Development Using Zod, Typescript, tRPC, react-query, and Sequelize ORM](https://dev.to/designly/full-stack-nextjs-15-development-using-zod-typescript-trpc-react-query-and-sequelize-orm-45nf)
+- [ServBay 1.7.1 Released: Now Supports PHP 8.5-dev](https://dev.to/servbay/servbay-171-released-now-supports-php-85-dev-1ok7)
+- [Why do we need to maintain our own front-end engineering system?](https://dev.to/faurewu/why-do-we-need-to-maintain-our-own-front-end-engineering-system-3o2c)
+- [The Role of Machine Learning in Predictive Test Analytics](https://dev.to/arun_pal_3ce740a137cf15ad/the-role-of-machine-learning-in-predictive-test-analytics-13mh)
+- [Streamline School Management with MeraSkool: Seamless Data Migration and More](https://dev.to/nobullshit-coder/streamline-school-management-with-meraskool-seamless-data-migration-and-more-573l)
 <!-- BLOG-POST-LIST:END -->
 
