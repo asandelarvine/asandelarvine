@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Día 1/365. Instalar Rust en ArchLinux](https://dev.to/rustarch/dia-1365-instalar-rust-en-archlinux-2nie)
-- [ia whatssap](https://dev.to/abd_elmalknajdi/ia-whatssap-2j8k)
-- [What is React useContext&lpar;&rpar; ???](https://dev.to/zeyrarararara/what-is-react-usecontext--4heh)
-- [Consistency Is Key: Kicking Off 2025 with a 30-Day Coding Challenge](https://dev.to/brian_oginga/consistency-is-key-kicking-off-2025-with-a-30-day-coding-challenge-526c)
+- [How can you secure microservices architecture using AWS services?](https://dev.to/vijaykodam/how-can-you-secure-microservices-architecture-using-aws-services-6ga)
+- [Dropdown or Radio button options in Azure Devops](https://dev.to/arindam0310018/dropdown-or-radio-button-options-in-azure-devops-2d1f)
+- [Fastest and Cheapest Ways to Delete Millions of Files from Amazon S3](https://dev.to/vijaykodam/fastest-and-cheapest-ways-to-delete-millions-of-files-from-amazon-s3-d3n)
+- [My First Steps with Playwright 🎭: A Tester’s Journey from Selenium](https://dev.to/utkarsh630/my-first-steps-with-playwright-a-testers-journey-from-selenium-4bj1)
 <!-- BLOG-POST-LIST:END -->
 
