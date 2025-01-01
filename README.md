@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Paper Review: ORPO - Monolithic Preference Optimization without Reference Model](https://dev.to/bullmouse/ai-paper-review-24l4)
-- [Build a Single Page Application &lpar;SPA&rpar; Using HTML, CSS &amp; JavaScript - No Frameworks Needed](https://dev.to/sharathchandark/build-a-single-page-application-spa-using-html-css-javascript-no-frameworks-needed-3bf9)
-- [Angular resource&lpar;&rpar; and rxResource&lpar;&rpar; APIs: what you need to know](https://dev.to/davidepassafaro/angular-resource-and-rxresource-apis-what-you-need-to-know-5ce2)
-- [🚀 Automating Process Monitoring &amp; Restarting with Bash Scripting Day4! 🔧](https://dev.to/jamiu_cloud/automating-process-monitoring-restarting-with-bash-scripting-day4-5e0i)
+- [Using Multiple Versions of a Package in a Single Project: Why and How](https://dev.to/msm8/using-multiple-versions-of-a-package-in-a-single-project-why-and-how-2308)
+- [How Businesses Can Protect Their Applications from Evolving Cyber Threats](https://dev.to/marufhossain/how-businesses-can-protect-their-applications-from-evolving-cyber-threats-1nk)
+- [Software para Inventarios Online Gratis](https://dev.to/sysmaya/software-para-inventarios-online-gratis-iel)
+- [How to Secure TypeScript Applications...??](https://dev.to/shafayeat/how-to-secure-typescript-applications-5a27)
 <!-- BLOG-POST-LIST:END -->
 
