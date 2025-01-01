@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Programmers Life - Debugging 24](https://dev.to/dapphari007/programmers-life-debugging-24-348)
-- [Thinking of Creating an NPM Package – Any Feedback or Ideas?](https://dev.to/zaur_ibrahimov/thinking-of-creating-an-npm-package-any-feedback-or-ideas-335f)
-- [The Strange &#39;else&#39; in Python](https://dev.to/alexlitvino/the-strange-else-in-python-40k9)
-- [Introducing Myself](https://dev.to/rayen-ben-rhim/introducing-myself-41on)
+- [Building a webhook tester from scratch](https://dev.to/acoh3n/building-a-webhook-tester-from-scratch-34a8)
+- [Retro&#39;ing and Debugging 2024: A Year That Challenged and Changed Me](https://dev.to/respect17/retroing-and-debugging-2024-a-year-that-challenged-and-changed-me-2geo)
+- [Creating a To-Do app with Django and HTMX - Part 1: Creating the Django project with uv](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-1-583p)
+- [Why Do We Still Need Jackson or Gson in Java?](https://dev.to/joaomarques/why-do-we-still-need-jackson-or-gson-in-java-1994)
 <!-- BLOG-POST-LIST:END -->
 
