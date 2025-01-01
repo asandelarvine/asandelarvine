@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Rust Coders, Don’t Miss These 25 Resource Picks](https://dev.to/0x3d_site/rust-coders-dont-miss-these-25-resource-picks-i7l)
-- [How To Integrate GitHub Sign-In: A Four Step Guide](https://dev.to/lovestaco/how-to-integrate-github-sign-in-a-four-step-guide-1doj)
-- [Day 6 - Dec 26](https://dev.to/vimala_jeyakumar_de64a9b2/day-6-dec-26-46oh)
-- [Labour: The Original Currency of Value](https://dev.to/shrsv/labour-the-original-currency-of-value-17nj)
+- [Programmers Life - Debugging 24](https://dev.to/dapphari007/programmers-life-debugging-24-348)
+- [Thinking of Creating an NPM Package – Any Feedback or Ideas?](https://dev.to/zaur_ibrahimov/thinking-of-creating-an-npm-package-any-feedback-or-ideas-335f)
+- [The Strange &#39;else&#39; in Python](https://dev.to/alexlitvino/the-strange-else-in-python-40k9)
+- [Introducing Myself](https://dev.to/rayen-ben-rhim/introducing-myself-41on)
 <!-- BLOG-POST-LIST:END -->
 
