@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Track, Plan, Succeed: A Guide to 2025 Goal-Setting](https://dev.to/mrzaizai2k/track-plan-succeed-a-guide-to-2025-goal-setting-148g)
-- [Understanding the Terraform Lifecycle: A Key Concept for HashiCorp Terraform Associate Exam](https://dev.to/s3cloudhub/understanding-the-terraform-lifecycle-a-key-concept-for-hashicorp-terraform-associate-exam-4ian)
-- [Day 1 : Introduction of DSA](https://dev.to/mehfila_parkkulthil_23/day-1-introduction-of-dsa-2ddb)
-- [Technical Writing Guide: Introduction to Technical Writing and Its Tools](https://dev.to/olodocoder/technical-writing-guide-introduction-to-technical-writing-and-its-tools-1m39)
+- [I Finally Found the Perfect Alternative to MAMP](https://dev.to/proprzzzz/i-finally-found-the-perfect-alternative-to-mamp-5162)
+- [Enable SMB 1.0 / CIFS File Sharing Support using Command Prompt &amp; Windows PowerShell](https://dev.to/winsides/enable-smb-10-cifs-file-sharing-support-using-command-prompt-windows-powershell-43h6)
+- [Day 1 : Introduction to C++](https://dev.to/mehfila_parkkulthil_23/day-1-introduction-to-c-4738)
+- [Launching a Freelancer Platform: Be Seen First Forever for Just £10](https://dev.to/vulcanwm/launching-a-freelancer-platform-be-seen-first-forever-for-just-ps10-45a2)
 <!-- BLOG-POST-LIST:END -->
 
