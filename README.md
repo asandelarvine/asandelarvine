@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI Developer Roadmap 🚀 | Week 1, Day 2](https://dev.to/saichinmayt/genai-developer-roadmap-week-1-day-2-nkf)
-- [Amazon Web Services](https://dev.to/madgan95/amazon-web-services-2d7m)
-- [The Laravel Request Life Cycle is the basis of all Laravel applications](https://dev.to/thedevricha/the-laravel-request-life-cycle-is-the-basis-of-all-laravel-applications-3h9)
-- [Deploying an Existing Express API + Prisma + Supabase Project to Vercel](https://dev.to/7twilight/deploying-an-existing-express-api-prisma-supabase-project-to-vercel-1h0d)
+- [A Symphony of Innovation: Exploring the Technologies Shaping Our Future](https://dev.to/neotechy/a-symphony-of-innovation-exploring-the-technologies-shaping-our-future-50nc)
+- [Node backend port band bo&#39;lib qolishi](https://dev.to/jsdecoder/node-backend-port-band-bolib-qolishi-5ep7)
+- [Angular Defer View](https://dev.to/sarmitha/angular-defer-view-36g9)
+- [Mastering Go Packages: How to Discover Exported Functionalities](https://dev.to/abstractmusa/mastering-go-packages-how-to-discover-exported-functionalities-mn)
 <!-- BLOG-POST-LIST:END -->
 
