@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay 1.7.1 Released: Now Supports PHP 8.5-dev](https://dev.to/servbay/servbay-171-released-now-supports-php-85-dev-1ok7)
-- [Why do we need to maintain our own front-end engineering system?](https://dev.to/faurewu/why-do-we-need-to-maintain-our-own-front-end-engineering-system-3o2c)
-- [The Role of Machine Learning in Predictive Test Analytics](https://dev.to/arun_pal_3ce740a137cf15ad/the-role-of-machine-learning-in-predictive-test-analytics-13mh)
-- [Streamline School Management with MeraSkool: Seamless Data Migration and More](https://dev.to/nobullshit-coder/streamline-school-management-with-meraskool-seamless-data-migration-and-more-573l)
+- [Happy new year!](https://dev.to/ben/happy-new-year-403c)
+- [I Tried CodeRabbit — An AI Tool That Will Make Your Code Reviews 10X Faster &lpar;Seriously!&rpar;](https://dev.to/nitinfab/i-tried-coderabbit-an-ai-tool-that-will-make-your-code-reviews-10x-faster-seriously-10b)
+- [How to Use Styled Components for Scalable and Maintainable React Styling](https://dev.to/ayusharpcoder/how-to-use-styled-components-for-scalable-and-maintainable-react-styling-1nga)
+- [Untitled](https://dev.to/namita_debnath_b3e98db73f/untitled-51am)
 <!-- BLOG-POST-LIST:END -->
 
