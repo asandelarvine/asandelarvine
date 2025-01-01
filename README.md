@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 - Dec 23 --&gt;java simple program](https://dev.to/vimala_jeyakumar_de64a9b2/day-4-dec-23-java-simple-program-21hi)
-- [Angular Migrating to Signals: A Paradigm Shift in Change Detection](https://dev.to/adiozdaniel/angular-migrating-to-signals-a-paradigm-shift-in-change-detection-3bmd)
-- [Mastering loops is essential for dealing with complicated issues efficiently in JS](https://dev.to/thedevricha/mastering-loops-is-essential-for-dealing-with-complicated-issues-efficiently-in-js-18ii)
-- [Understanding Loops and Iteration in JavaScript](https://dev.to/thedevricha/understanding-loops-and-iteration-in-javascript-47od)
+- [🎯 Track, Plan, Succeed: A Guide to 2025 Goal-Setting](https://dev.to/mrzaizai2k/track-plan-succeed-a-guide-to-2025-goal-setting-148g)
+- [Understanding the Terraform Lifecycle: A Key Concept for HashiCorp Terraform Associate Exam](https://dev.to/s3cloudhub/understanding-the-terraform-lifecycle-a-key-concept-for-hashicorp-terraform-associate-exam-4ian)
+- [Day 1 : Introduction of DSA](https://dev.to/mehfila_parkkulthil_23/day-1-introduction-of-dsa-2ddb)
+- [Technical Writing Guide: Introduction to Technical Writing and Its Tools](https://dev.to/olodocoder/technical-writing-guide-introduction-to-technical-writing-and-its-tools-1m39)
 <!-- BLOG-POST-LIST:END -->
 
