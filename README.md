@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a webhook tester from scratch](https://dev.to/acoh3n/building-a-webhook-tester-from-scratch-34a8)
-- [Retro&#39;ing and Debugging 2024: A Year That Challenged and Changed Me](https://dev.to/respect17/retroing-and-debugging-2024-a-year-that-challenged-and-changed-me-2geo)
-- [Creating a To-Do app with Django and HTMX - Part 1: Creating the Django project with uv](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-1-583p)
-- [Why Do We Still Need Jackson or Gson in Java?](https://dev.to/joaomarques/why-do-we-still-need-jackson-or-gson-in-java-1994)
+- [Día 1/365. Instalar Rust en ArchLinux](https://dev.to/rustarch/dia-1365-instalar-rust-en-archlinux-2nie)
+- [ia whatssap](https://dev.to/abd_elmalknajdi/ia-whatssap-2j8k)
+- [What is React useContext&lpar;&rpar; ???](https://dev.to/zeyrarararara/what-is-react-usecontext--4heh)
+- [Consistency Is Key: Kicking Off 2025 with a 30-Day Coding Challenge](https://dev.to/brian_oginga/consistency-is-key-kicking-off-2025-with-a-30-day-coding-challenge-526c)
 <!-- BLOG-POST-LIST:END -->
 
