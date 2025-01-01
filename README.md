@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Multiple Versions of a Package in a Single Project: Why and How](https://dev.to/msm8/using-multiple-versions-of-a-package-in-a-single-project-why-and-how-2308)
-- [How Businesses Can Protect Their Applications from Evolving Cyber Threats](https://dev.to/marufhossain/how-businesses-can-protect-their-applications-from-evolving-cyber-threats-1nk)
-- [Software para Inventarios Online Gratis](https://dev.to/sysmaya/software-para-inventarios-online-gratis-iel)
-- [How to Secure TypeScript Applications...??](https://dev.to/shafayeat/how-to-secure-typescript-applications-5a27)
+- [[Boost]](https://dev.to/rajeshkumaryadavdotcom/-2ppo)
+- [Importance of Cisco in IT Networking in 2025](https://dev.to/skillboosttrainer/importance-of-cisco-in-it-networking-in-2025-3mn3)
+- [Embracing AI in Development: A Journey into the Future](https://dev.to/atifazeez77/embracing-ai-in-development-a-journey-into-the-future-11mb)
+- [Building Real-Time Dashboards with WebSockets: A Crypto Live Trades Example](https://dev.to/abhivyaktii/building-real-time-dashboards-with-websockets-a-crypto-live-trades-example-5840)
 <!-- BLOG-POST-LIST:END -->
 
