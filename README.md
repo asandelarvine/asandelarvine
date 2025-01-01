@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Singular SDK with React Native: A Comprehensive Guide](https://dev.to/amitkumar13/integrating-singular-sdk-with-react-native-a-comprehensive-guide-2c86)
-- [🚀 Introducing React AI: Open Source React Components Builder](https://dev.to/akshaynceo/introducing-react-ai-open-source-react-components-builder-2fk1)
-- [Apple promised next-gen CarPlay in 2024, so where is it? - The Verge](https://dev.to/hk9099/apple-promised-next-gen-carplay-in-2024-so-where-is-it-the-verge-4omo)
-- [Apple TV+ Sets Free Streaming Weekend In January - Deadline](https://dev.to/hk9099/apple-tv-sets-free-streaming-weekend-in-january-deadline-475b)
+- [Day 4 - Dec 23 --&gt;java simple program](https://dev.to/vimala_jeyakumar_de64a9b2/day-4-dec-23-java-simple-program-21hi)
+- [Angular Migrating to Signals: A Paradigm Shift in Change Detection](https://dev.to/adiozdaniel/angular-migrating-to-signals-a-paradigm-shift-in-change-detection-3bmd)
+- [Mastering loops is essential for dealing with complicated issues efficiently in JS](https://dev.to/thedevricha/mastering-loops-is-essential-for-dealing-with-complicated-issues-efficiently-in-js-18ii)
+- [Understanding Loops and Iteration in JavaScript](https://dev.to/thedevricha/understanding-loops-and-iteration-in-javascript-47od)
 <!-- BLOG-POST-LIST:END -->
 
