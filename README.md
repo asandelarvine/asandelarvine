@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How New Grads Can Land a High-Paid Tech Job in 2025](https://dev.to/drjoshcsimmons/how-new-grads-can-land-a-high-paid-tech-job-in-2025-2ka3)
-- [What are the main challenges in SaaS product development](https://dev.to/thealgorithm/what-are-the-main-challenges-in-saas-product-development-578d)
-- [Python Script for Stock Sentiment Analysis](https://dev.to/ajayvallab/python-script-for-stock-sentiment-analysis-2do)
-- [OSI Model Layers and Protocols: Computer Networks](https://dev.to/harshm03/osi-model-layers-and-protocols-computer-networks-1i0e)
+- [How AI is Changing Software Testing in 2025](https://dev.to/anil_csimplifyit_905c/how-ai-is-changing-software-testing-in-2025-490c)
+- [Configura un servidor GitLab en AWS EC2 en minutos](https://dev.to/briansuarezsantiago/configura-un-servidor-gitlab-en-aws-ec2-en-minutos-2g7l)
+- [Deploying APIs as Microservice with Kubernetes, Docker, and AWS](https://dev.to/azeemah/deploying-apis-as-microservice-with-kubernetes-docker-and-aws-1a79)
+- [React js](https://dev.to/frang1977/react-js-3n8l)
 <!-- BLOG-POST-LIST:END -->
 
