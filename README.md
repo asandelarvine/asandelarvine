@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kong API Gateway Setup Basic to advance usages](https://dev.to/indalyadav56/kong-api-gateway-setup-basic-to-advance-usages-9me)
-- [Guidelines about the Refer-a-Friend Program](https://dev.to/tecno-security/guidelines-about-the-refer-a-friend-program-3c63)
-- [Deploying a Simple Static Website on AWS with CDK and TypeScript](https://dev.to/kasukur/deploying-a-simple-static-website-on-aws-with-cdk-and-typescript-oij)
-- [Problem Solving Patterns &lpar;Part 4&rpar;: Divide and Conquer](https://dev.to/kanishkaisuru/problem-solving-patterns-part-4-divide-and-conquer-1gl5)
+- [Advanced Deployment Strategies for Kubernetes: Canary, Blue-Green, and Shadow Deployments](https://dev.to/virajlakshitha/advanced-deployment-strategies-for-kubernetes-canary-blue-green-and-shadow-deployments-2161)
+- [ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod](https://dev.to/softjapan/chatgpt-client-with-line-style-ui-built-with-flutter-and-riverpod-2hei)
+- [Top 10 Books for Boosting Efficiency, Productivity, and Performance](https://dev.to/seyedehsanmirmahdi/top-10-books-for-boosting-efficiency-productivity-and-performance-3990)
+- [Full-Stack Next.js 15 Development Using Zod, Typescript, tRPC, react-query, and Sequelize ORM](https://dev.to/designly/full-stack-nextjs-15-development-using-zod-typescript-trpc-react-query-and-sequelize-orm-45nf)
 <!-- BLOG-POST-LIST:END -->
 
