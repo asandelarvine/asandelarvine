@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy new year!](https://dev.to/ben/happy-new-year-403c)
-- [I Tried CodeRabbit — An AI Tool That Will Make Your Code Reviews 10X Faster &lpar;Seriously!&rpar;](https://dev.to/nitinfab/i-tried-coderabbit-an-ai-tool-that-will-make-your-code-reviews-10x-faster-seriously-10b)
-- [How to Use Styled Components for Scalable and Maintainable React Styling](https://dev.to/ayusharpcoder/how-to-use-styled-components-for-scalable-and-maintainable-react-styling-1nga)
-- [Untitled](https://dev.to/namita_debnath_b3e98db73f/untitled-51am)
+- [GenAI Developer Roadmap 🚀 | Week 1, Day 2](https://dev.to/saichinmayt/genai-developer-roadmap-week-1-day-2-nkf)
+- [Amazon Web Services](https://dev.to/madgan95/amazon-web-services-2d7m)
+- [The Laravel Request Life Cycle is the basis of all Laravel applications](https://dev.to/thedevricha/the-laravel-request-life-cycle-is-the-basis-of-all-laravel-applications-3h9)
+- [Deploying an Existing Express API + Prisma + Supabase Project to Vercel](https://dev.to/7twilight/deploying-an-existing-express-api-prisma-supabase-project-to-vercel-1h0d)
 <!-- BLOG-POST-LIST:END -->
 
