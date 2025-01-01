@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Symphony of Innovation: Exploring the Technologies Shaping Our Future](https://dev.to/neotechy/a-symphony-of-innovation-exploring-the-technologies-shaping-our-future-50nc)
-- [Node backend port band bo&#39;lib qolishi](https://dev.to/jsdecoder/node-backend-port-band-bolib-qolishi-5ep7)
-- [Angular Defer View](https://dev.to/sarmitha/angular-defer-view-36g9)
-- [Mastering Go Packages: How to Discover Exported Functionalities](https://dev.to/abstractmusa/mastering-go-packages-how-to-discover-exported-functionalities-mn)
+- [Integrating Singular SDK with React Native: A Comprehensive Guide](https://dev.to/amitkumar13/integrating-singular-sdk-with-react-native-a-comprehensive-guide-2c86)
+- [🚀 Introducing React AI: Open Source React Components Builder](https://dev.to/akshaynceo/introducing-react-ai-open-source-react-components-builder-2fk1)
+- [Apple promised next-gen CarPlay in 2024, so where is it? - The Verge](https://dev.to/hk9099/apple-promised-next-gen-carplay-in-2024-so-where-is-it-the-verge-4omo)
+- [Apple TV+ Sets Free Streaming Weekend In January - Deadline](https://dev.to/hk9099/apple-tv-sets-free-streaming-weekend-in-january-deadline-475b)
 <!-- BLOG-POST-LIST:END -->
 
