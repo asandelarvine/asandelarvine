@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DOs &amp; DONTs for Twitter Scraping 2025](https://dev.to/simplr_sh/dos-donts-for-twitter-scraping-2025-4dg7)
-- [You can get your financial freedom with open-source in 2025! 🤑](https://dev.to/nevodavid/you-can-get-your-financial-freedom-with-open-source-in-2025-41i8)
-- [Is a Cisco Certification Worth It in 2025?](https://dev.to/skillboosttrainer/is-a-cisco-certification-worth-it-in-2025-39le)
-- [Automated Reporting in Automation Testing](https://dev.to/testreport-io/automated-reporting-in-automation-testing-1db)
+- [Why You Should Try a Local LLM Model—and How to Get Started](https://dev.to/luca1iu/why-you-should-try-a-local-llm-model-and-how-to-get-started-2ni4)
+- [Dtos in typescript](https://dev.to/anas-abdelhadi/dtos-in-typescript-2cik)
+- [💻Mastering State Management with Zustand in Next.js and React ⚛](https://dev.to/mrsupercraft/mastering-state-management-with-zustand-in-nextjs-and-react-1g26)
+- [Working with Matter Team Membership Using the IntApp Walls API](https://dev.to/seanmdrew/working-with-matter-team-membership-using-the-intapp-walls-api-2nop)
 <!-- BLOG-POST-LIST:END -->
 
