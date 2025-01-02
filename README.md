@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/codeswithroh/compiling-2025-my-roadmap-for-the-year-ahead-4bp8)
-- [Handling Dynamic Preview URLs in Cypress Tests](https://dev.to/qaproengineer/handling-dynamic-preview-urls-in-cypress-tests-2k91)
-- [Unlocking Efficiency: How Internal Developer Platforms Transform Software Development in 2025](https://dev.to/jetthoughts/unlocking-efficiency-how-internal-developer-platforms-transform-software-development-in-2025-4okn)
-- [A Throwback to My Holberton Days: Crafting a Simple Shell in C](https://dev.to/arycodes0/a-throwback-to-my-holberton-days-crafting-a-simple-shell-in-c-1915)
+- [Day 2 of My 2025 Coding Streak: Major Progress on Lyra](https://dev.to/winnerezy/day-2-of-my-2025-coding-streak-major-progress-on-lyra-5d2l)
+- [To comment, or not to comment](https://dev.to/xaberue/to-comment-or-not-to-comment-18a3)
+- [Integrating AI and Coding in Early STEM Education](https://dev.to/jds64/integrating-ai-and-coding-in-early-stem-education-3gnm)
+- [The Journey of Optimization](https://dev.to/dkuku/the-journey-of-optimization-4j15)
 <!-- BLOG-POST-LIST:END -->
 
