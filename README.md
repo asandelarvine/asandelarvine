@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git &amp; GitHub](https://dev.to/riyasharma028/git-github-44l0)
-- [A no-nonsense guide to frontend for backend developers](https://dev.to/hojimat/a-no-nonsense-guide-to-frontend-for-backend-developers-1hjj)
-- [How to Use Condoms Safely](https://dev.to/dr_venkateshkumar_/how-to-use-condoms-safely-ojj)
-- [Frugal Architecture: Embracing Cost-Effective Cloud-Native Design](https://dev.to/monojsaha/frugal-architecture-embracing-cost-effective-cloud-native-design-e6i)
+- [Building an Automatic Currency Switcher in Next.js](https://dev.to/lukem121/building-an-automatic-currency-switcher-in-nextjs-4e89)
+- [Programming and Music](https://dev.to/high_octane/programming-and-music-1mh1)
+- [Calculate the hierarchy of recursive references :From SQL to SPL](https://dev.to/esproc_spl/calculate-the-hierarchy-of-recursive-references-from-sql-to-spl-345e)
+- [How to Upgrade the In-System Programming &lpar;ISP&rpar; for DSP](https://dev.to/carolineee/how-to-upgrade-the-in-system-programming-isp-for-dsp-4don)
 <!-- BLOG-POST-LIST:END -->
 
