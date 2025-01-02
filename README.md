@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ejemplo basico de aplicacion web para visualizacion de datos con Streamlit + Python](https://dev.to/andresguecha/ejemplo-basico-de-aplicacion-web-para-visualizacion-de-datos-con-streamlit-python-4oh7)
-- [Deploy NestJS and NextJS application in same server using pm2 and Nginx](https://dev.to/fahim_hasnainfahad_7e50d/deploy-nestjs-and-nextjs-application-in-same-server-using-pm2-and-nginx-1epg)
-- [Python o Spark, para el procesamiento de datos](https://dev.to/andresguecha/python-o-spark-para-el-procesamiento-de-datos-2mc6)
-- [Obfuscating “Hello world!” obfuscate on Python](https://dev.to/kevinmel2000/obfuscating-hello-world-obfuscate-on-python-16ll)
+- [React New Updates](https://dev.to/anjali_gurjar_dff81513867/react-new-updates-3gmh)
+- [PHP, Python, Node.js, which one is the most suitable for writing crawlers?](https://dev.to/98ip/php-python-nodejs-which-one-is-the-most-suitable-for-writing-crawlers-2j3p)
+- [Arquitectura Medallion para procesamiento de datos](https://dev.to/andresguecha/arquitectura-medallion-para-procesamiento-de-datos-736)
+- [Assignment](https://dev.to/hema_latha/assignment-65f)
 <!-- BLOG-POST-LIST:END -->
 
