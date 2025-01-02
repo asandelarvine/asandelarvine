@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your AI Applications: Building Custom Tools with Model Context Protocol](https://dev.to/adityak74/supercharge-your-ai-applications-building-custom-tools-with-model-context-protocol-241c)
-- [Cypress Debugging: How to Get Started](https://dev.to/ronika_kashyap/cypress-debugging-how-to-get-started-577k)
-- [Understanding `.m` and `.h` Files in iOS Development](https://dev.to/surhidamatya/understanding-m-and-h-files-in-ios-development-1h27)
-- [AI-Powered Scanner Makes Scientific Discovery 10x Faster by Intelligently Exploring Parameter Spaces](https://dev.to/mikeyoung44/ai-powered-scanner-makes-scientific-discovery-10x-faster-by-intelligently-exploring-parameter-spaces-3k15)
+- [Git &amp; GitHub](https://dev.to/riyasharma028/git-github-44l0)
+- [A no-nonsense guide to frontend for backend developers](https://dev.to/hojimat/a-no-nonsense-guide-to-frontend-for-backend-developers-1hjj)
+- [How to Use Condoms Safely](https://dev.to/dr_venkateshkumar_/how-to-use-condoms-safely-ojj)
+- [Frugal Architecture: Embracing Cost-Effective Cloud-Native Design](https://dev.to/monojsaha/frugal-architecture-embracing-cost-effective-cloud-native-design-e6i)
 <!-- BLOG-POST-LIST:END -->
 
