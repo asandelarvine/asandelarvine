@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automatic Currency Switcher in Next.js](https://dev.to/lukem121/building-an-automatic-currency-switcher-in-nextjs-4e89)
-- [Programming and Music](https://dev.to/high_octane/programming-and-music-1mh1)
-- [Calculate the hierarchy of recursive references :From SQL to SPL](https://dev.to/esproc_spl/calculate-the-hierarchy-of-recursive-references-from-sql-to-spl-345e)
-- [How to Upgrade the In-System Programming &lpar;ISP&rpar; for DSP](https://dev.to/carolineee/how-to-upgrade-the-in-system-programming-isp-for-dsp-4don)
+- [New Year New Me: 17 Best Programming Books for Beginner Devs 2025](https://dev.to/abhisekgour/new-year-new-me-17-best-programming-books-for-beginner-devs-2025-5d00)
+- [⚡️The Best Postman Alternative for IntelliJ Every Developer Will Want to Know! 🔥](https://dev.to/roobia/the-best-postman-alternative-for-intellij-every-developer-will-want-to-know-465a)
+- [How to Track Plugins on WordPress.org?](https://dev.to/dmtlo/how-to-track-plugins-on-wordpressorg-1c8k)
+- [My Vision for 2025: A Year of Growth, Innovation, and Impact](https://dev.to/shikhar_sen_885f39d759ded/my-vision-for-2025-a-year-of-growth-innovation-and-impact-5702)
 <!-- BLOG-POST-LIST:END -->
 
