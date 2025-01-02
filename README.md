@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Lost to Found: My Transformative Journey Through 2024](https://dev.to/dipeshdeula/from-lost-to-found-my-transformative-journey-through-2024-9ja)
-- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #2: Azure Policy](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-2-azure-policy-g9)
-- [PHP OOP Part-2: Constructor and Destructor](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-2-constructor-and-destructor-387h)
-- [Melhores APIs JavaScript para carregamento &lpar;upload&rpar; de arquivos em 2025](https://dev.to/danielroncaglia/melhores-apis-javascript-para-carregamento-upload-de-arquivos-em-2025-1312)
+- [Comandos Essenciais do Linux &lpar;Nv-2&rpar;](https://dev.to/davionrails/comandos-essenciais-do-linux-nv-2-5g6i)
+- [☃️ Jan 2, 2025: Top 40+ GitHub Finds – Highlighting Tools and Innovations for Developers](https://dev.to/gittech/jan-2-2025-top-40-github-finds-highlighting-tools-and-innovations-for-developers-3cc0)
+- [Retro&#39;ing and Debugging 2024](https://dev.to/judy_kagia_b0614d39216209/retroing-and-debugging-2024-56d1)
+- [Building blocks collection: Isolate code blocks from each other?](https://dev.to/inesp/building-blocks-collection-isolate-code-blocks-from-each-other-11p0)
 <!-- BLOG-POST-LIST:END -->
 
