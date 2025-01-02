@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How And Why The Developer-First Approach Is Changing The Observability Landscape](https://dev.to/metis/how-and-why-the-developer-first-approach-is-changing-the-observability-landscape-25j0)
-- [The Return of the Blog](https://dev.to/ericbl3/the-return-of-the-blog-3i1n)
-- [My 2024 &lpar;and 3rd year&rpar; as an AWS Community Builder](https://dev.to/aws-builders/my-2024-and-3rd-year-as-an-aws-community-builder-acn)
-- [Cybersecurity Understanding the OWASP® Top 10 Security Threats](https://dev.to/marcoatl/cybersecurity-understanding-the-owaspr-top-10-security-threats-59ln)
+- [Reflecting on 2024 and Preparing for Growth in 2025](https://dev.to/tjsyte/reflecting-on-2024-and-preparing-for-growth-in-2025-44ce)
+- [Writting a GH extension with AI](https://dev.to/r0x0d/writting-a-gh-extension-with-ai-3if2)
+- [2024 In Review](https://dev.to/vladkens/2024-in-review-4jel)
+- [Looking Back and Moving Forward: My 2024 Retrospective](https://dev.to/tjsyte/looking-back-and-moving-forward-my-2024-retrospective-2m0h)
 <!-- BLOG-POST-LIST:END -->
 
