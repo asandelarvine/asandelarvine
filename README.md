@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 18: Building Your Own AI - Advanced Topics: Quantum Machine Learning](https://dev.to/trixsec/part-18-building-your-own-ai-advanced-topics-quantum-machine-learning-13ep)
-- [Think That Website Looks Safe? Meet WebShield, Your Cybersecurity Ally!](https://dev.to/priyanshukumarsinha/think-that-website-looks-safe-meet-webshield-your-cybersecurity-ally-23na)
-- [🚀 Introducing Extendify: A Sleek Taskbar Enhancement Utility for Windows 🎉](https://dev.to/idris_jimoh/introducing-extendify-a-sleek-taskbar-enhancement-utility-for-windows-5h69)
-- [Rails Soft Delete &amp; Audit Logging Guide](https://dev.to/sulmanweb/rails-soft-delete-audit-logging-guide-4m2d)
+- [Supercharge Your AI Applications: Building Custom Tools with Model Context Protocol](https://dev.to/adityak74/supercharge-your-ai-applications-building-custom-tools-with-model-context-protocol-241c)
+- [Cypress Debugging: How to Get Started](https://dev.to/ronika_kashyap/cypress-debugging-how-to-get-started-577k)
+- [Understanding `.m` and `.h` Files in iOS Development](https://dev.to/surhidamatya/understanding-m-and-h-files-in-ios-development-1h27)
+- [AI-Powered Scanner Makes Scientific Discovery 10x Faster by Intelligently Exploring Parameter Spaces](https://dev.to/mikeyoung44/ai-powered-scanner-makes-scientific-discovery-10x-faster-by-intelligently-exploring-parameter-spaces-3k15)
 <!-- BLOG-POST-LIST:END -->
 
