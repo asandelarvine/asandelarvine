@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you have any new year rituals? I like to generate new passwords across accounts and unsubscribe from marketing emails 😃](https://dev.to/jess/do-you-have-any-new-year-rituals-i-like-to-generate-new-passwords-across-accounts-and-unsubscribe-43ia)
-- [What I Wish I Knew as a Junior Developer: Advice from a Senior Engineer](https://dev.to/holasoymalva/what-i-wish-i-knew-as-a-junior-developer-advice-from-a-senior-engineer-58lj)
-- [Battle of the Local Development: ServBay vs. MAMP](https://dev.to/crawomg/battle-of-the-local-development-servbay-vs-mamp-2ac5)
-- [Getting Certified: GitHub Advanced Security](https://dev.to/hiranthapeiris/getting-certified-github-advanced-security-3c18)
+- [From Lost to Found: My Transformative Journey Through 2024](https://dev.to/dipeshdeula/from-lost-to-found-my-transformative-journey-through-2024-9ja)
+- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #2: Azure Policy](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-2-azure-policy-g9)
+- [PHP OOP Part-2: Constructor and Destructor](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-2-constructor-and-destructor-387h)
+- [Melhores APIs JavaScript para carregamento &lpar;upload&rpar; de arquivos em 2025](https://dev.to/danielroncaglia/melhores-apis-javascript-para-carregamento-upload-de-arquivos-em-2025-1312)
 <!-- BLOG-POST-LIST:END -->
 
