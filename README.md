@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Java Debugging Tools for Efficient Application Development](https://dev.to/adityabhuyan/top-java-debugging-tools-for-efficient-application-development-3b3)
-- [Build a Crypto Price Alert System with Telegram and AWS Lambda](https://dev.to/radzion/build-a-crypto-price-alert-system-with-telegram-and-aws-lambda-120m)
-- [Top 5 CSS Generators to Make Developer Life Easier!](https://dev.to/kafeel_ahmad/top-5-css-generators-to-make-developer-life-easier-8d4)
-- [AWS CloudWatch: Implementing Data Protection Policy for Sensitive Log Data!](https://dev.to/bhatiagirish/aws-cloudwatch-implementing-data-protection-policy-for-sensitive-log-data-5d4n)
+- [How to break the cycle of firefighting and build engineering excellence](https://dev.to/jesalg/how-to-break-the-cycle-of-firefighting-and-build-engineering-excellence-406n)
+- [The Ultimate Guide to Launching Auto Chatbots for Your Business](https://dev.to/hitesh_umaletiya/the-ultimate-guide-to-launching-auto-chatbots-for-your-business-50f0)
+- [Designing User-Defined Methods in Java: Key Criteria](https://dev.to/alex_ricciardi/designing-user-defined-methods-in-java-key-criteria-15if)
+- [Mastering Dependency Injection in Flutter: A Deep Dive into GetIt](https://dev.to/michealgabriel/mastering-dependency-injection-in-flutter-a-deep-dive-into-getit-2fo2)
 <!-- BLOG-POST-LIST:END -->
 
