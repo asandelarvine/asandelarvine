@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Half-Duplex vs Full-Duplex: What are the Differences?](https://dev.to/skillboosttrainer/half-duplex-vs-full-duplex-what-are-the-differences-5ek7)
-- [Top New Libraries and APIs in .NET 9: A Comprehensive Guide for Developers](https://dev.to/leandroveiga/top-new-libraries-and-apis-in-net-9-a-comprehensive-guide-for-developers-1ci9)
-- [Kafka and Enterprise Integration Patterns: A Match Made in Event-Driven Heaven](https://dev.to/igventurelli/kafka-and-enterprise-integration-patterns-a-match-made-in-event-driven-heaven-2pg1)
-- [How I Aim to Evolve, Innovate, and Inspire Through Technology](https://dev.to/yoonus_ajward/how-i-aim-to-evolve-innovate-and-inspire-through-technology-5d70)
+- [Do you have any new year rituals? I like to generate new passwords across accounts and unsubscribe from marketing emails 😃](https://dev.to/jess/do-you-have-any-new-year-rituals-i-like-to-generate-new-passwords-across-accounts-and-unsubscribe-43ia)
+- [What I Wish I Knew as a Junior Developer: Advice from a Senior Engineer](https://dev.to/holasoymalva/what-i-wish-i-knew-as-a-junior-developer-advice-from-a-senior-engineer-58lj)
+- [Battle of the Local Development: ServBay vs. MAMP](https://dev.to/crawomg/battle-of-the-local-development-servbay-vs-mamp-2ac5)
+- [Getting Certified: GitHub Advanced Security](https://dev.to/hiranthapeiris/getting-certified-github-advanced-security-3c18)
 <!-- BLOG-POST-LIST:END -->
 
