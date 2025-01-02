@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up a Storyblok space with the Community Plan for local development](https://dev.to/robertobutti/how-to-set-up-a-storyblok-space-with-the-community-plan-for-local-development-1i37)
-- [Process Management: Operating System](https://dev.to/harshm03/process-management-operating-system-18gl)
-- [Common Lisp HTML templates: using Djula in .lisp files](https://dev.to/vindarel/common-lisp-html-templates-using-djula-in-lisp-files-4e64)
-- [Kubernetes Network &lpar;5&rpar; -- Ingress and NodePort](https://dev.to/cheedge_lee/kubernetes-network-5-ingress-and-nodeport-329i)
+- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/codeswithroh/compiling-2025-my-roadmap-for-the-year-ahead-4bp8)
+- [Handling Dynamic Preview URLs in Cypress Tests](https://dev.to/qaproengineer/handling-dynamic-preview-urls-in-cypress-tests-2k91)
+- [Unlocking Efficiency: How Internal Developer Platforms Transform Software Development in 2025](https://dev.to/jetthoughts/unlocking-efficiency-how-internal-developer-platforms-transform-software-development-in-2025-4okn)
+- [A Throwback to My Holberton Days: Crafting a Simple Shell in C](https://dev.to/arycodes0/a-throwback-to-my-holberton-days-crafting-a-simple-shell-in-c-1915)
 <!-- BLOG-POST-LIST:END -->
 
