@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top DevOps Tools for Infrastructure Automation in 2025](https://dev.to/env0/top-devops-tools-for-infrastructure-automation-in-2025-2o2o)
-- [How to Install DaVinci Resolve 19 &lpar;studio&rpar; on Linux Mint 22 with AMD Radeon Graphics Card with a Script fast 2025](https://dev.to/annietaylorchen/how-to-install-davinci-resolve-19-studio-on-linux-mint-22-with-amd-radeon-graphics-card-with-a-kd6)
-- [A Year of Adventuring: 2024 in Review](https://dev.to/linkbenjamin/a-year-of-adventuring-2024-in-review-47n4)
-- [Make Small Commits](https://dev.to/oculus42/make-small-commits-22cd)
+- [Blockchain Explained: Development, Security, and Integration with Neo4j](https://dev.to/taimax13/blockchain-explained-development-security-and-integration-with-neo4j-2ja6)
+- [Sometimes life pushes you out of your comfort zone, forcing you to face the unexpected.](https://dev.to/taimax13/sometimes-life-pushes-you-out-of-your-comfort-zone-forcing-you-to-face-the-unexpected-2hck)
+- [Step-by-Step Guide to Configuring Cribl and Grafana for Data Processing](https://dev.to/mettasurendhar/step-by-step-guide-to-configuring-cribl-and-grafana-for-data-processing-1j0f)
+- [Thinking Outside the Box: A Conceptual Framework for Machine Learning and Data Analysis](https://dev.to/taimax13/thinking-outside-the-box-a-conceptual-framework-for-machine-learning-and-data-analysis-1fb0)
 <!-- BLOG-POST-LIST:END -->
 
