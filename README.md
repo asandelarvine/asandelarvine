@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Explained: Development, Security, and Integration with Neo4j](https://dev.to/taimax13/blockchain-explained-development-security-and-integration-with-neo4j-2ja6)
-- [Sometimes life pushes you out of your comfort zone, forcing you to face the unexpected.](https://dev.to/taimax13/sometimes-life-pushes-you-out-of-your-comfort-zone-forcing-you-to-face-the-unexpected-2hck)
-- [Step-by-Step Guide to Configuring Cribl and Grafana for Data Processing](https://dev.to/mettasurendhar/step-by-step-guide-to-configuring-cribl-and-grafana-for-data-processing-1j0f)
-- [Thinking Outside the Box: A Conceptual Framework for Machine Learning and Data Analysis](https://dev.to/taimax13/thinking-outside-the-box-a-conceptual-framework-for-machine-learning-and-data-analysis-1fb0)
+- [Half-Duplex vs Full-Duplex: What are the Differences?](https://dev.to/skillboosttrainer/half-duplex-vs-full-duplex-what-are-the-differences-5ek7)
+- [Top New Libraries and APIs in .NET 9: A Comprehensive Guide for Developers](https://dev.to/leandroveiga/top-new-libraries-and-apis-in-net-9-a-comprehensive-guide-for-developers-1ci9)
+- [Kafka and Enterprise Integration Patterns: A Match Made in Event-Driven Heaven](https://dev.to/igventurelli/kafka-and-enterprise-integration-patterns-a-match-made-in-event-driven-heaven-2pg1)
+- [How I Aim to Evolve, Innovate, and Inspire Through Technology](https://dev.to/yoonus_ajward/how-i-aim-to-evolve-innovate-and-inspire-through-technology-5d70)
 <!-- BLOG-POST-LIST:END -->
 
