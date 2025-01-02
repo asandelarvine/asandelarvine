@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comandos Essenciais do Linux &lpar;Nv-2&rpar;](https://dev.to/davionrails/comandos-essenciais-do-linux-nv-2-5g6i)
-- [☃️ Jan 2, 2025: Top 40+ GitHub Finds – Highlighting Tools and Innovations for Developers](https://dev.to/gittech/jan-2-2025-top-40-github-finds-highlighting-tools-and-innovations-for-developers-3cc0)
-- [Retro&#39;ing and Debugging 2024](https://dev.to/judy_kagia_b0614d39216209/retroing-and-debugging-2024-56d1)
-- [Building blocks collection: Isolate code blocks from each other?](https://dev.to/inesp/building-blocks-collection-isolate-code-blocks-from-each-other-11p0)
+- [Hello future world](https://dev.to/ben/hello-future-world-4p9d)
+- [How to Become a Network Engineer: A Complete Guide &lpar;2025&rpar;](https://dev.to/skillboosttrainer/how-to-become-a-network-engineer-a-complete-guide-2025-193h)
+- [Deep Dive into Go Struct](https://dev.to/leapcell/deep-dive-into-go-struct-mf6)
+- [CocoDetection in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cocodetection-in-pytorch-1-40fb)
 <!-- BLOG-POST-LIST:END -->
 
