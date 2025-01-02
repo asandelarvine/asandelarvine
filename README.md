@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React New Updates](https://dev.to/anjali_gurjar_dff81513867/react-new-updates-3gmh)
-- [PHP, Python, Node.js, which one is the most suitable for writing crawlers?](https://dev.to/98ip/php-python-nodejs-which-one-is-the-most-suitable-for-writing-crawlers-2j3p)
-- [Arquitectura Medallion para procesamiento de datos](https://dev.to/andresguecha/arquitectura-medallion-para-procesamiento-de-datos-736)
-- [Assignment](https://dev.to/hema_latha/assignment-65f)
+- [Top Java Debugging Tools for Efficient Application Development](https://dev.to/adityabhuyan/top-java-debugging-tools-for-efficient-application-development-3b3)
+- [Build a Crypto Price Alert System with Telegram and AWS Lambda](https://dev.to/radzion/build-a-crypto-price-alert-system-with-telegram-and-aws-lambda-120m)
+- [Top 5 CSS Generators to Make Developer Life Easier!](https://dev.to/kafeel_ahmad/top-5-css-generators-to-make-developer-life-easier-8d4)
+- [AWS CloudWatch: Implementing Data Protection Policy for Sensitive Log Data!](https://dev.to/bhatiagirish/aws-cloudwatch-implementing-data-protection-policy-for-sensitive-log-data-5d4n)
 <!-- BLOG-POST-LIST:END -->
 
