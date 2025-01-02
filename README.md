@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to break the cycle of firefighting and build engineering excellence](https://dev.to/jesalg/how-to-break-the-cycle-of-firefighting-and-build-engineering-excellence-406n)
-- [The Ultimate Guide to Launching Auto Chatbots for Your Business](https://dev.to/hitesh_umaletiya/the-ultimate-guide-to-launching-auto-chatbots-for-your-business-50f0)
-- [Designing User-Defined Methods in Java: Key Criteria](https://dev.to/alex_ricciardi/designing-user-defined-methods-in-java-key-criteria-15if)
-- [Mastering Dependency Injection in Flutter: A Deep Dive into GetIt](https://dev.to/michealgabriel/mastering-dependency-injection-in-flutter-a-deep-dive-into-getit-2fo2)
+- [Part 18: Building Your Own AI - Advanced Topics: Quantum Machine Learning](https://dev.to/trixsec/part-18-building-your-own-ai-advanced-topics-quantum-machine-learning-13ep)
+- [Think That Website Looks Safe? Meet WebShield, Your Cybersecurity Ally!](https://dev.to/priyanshukumarsinha/think-that-website-looks-safe-meet-webshield-your-cybersecurity-ally-23na)
+- [🚀 Introducing Extendify: A Sleek Taskbar Enhancement Utility for Windows 🎉](https://dev.to/idris_jimoh/introducing-extendify-a-sleek-taskbar-enhancement-utility-for-windows-5h69)
+- [Rails Soft Delete &amp; Audit Logging Guide](https://dev.to/sulmanweb/rails-soft-delete-audit-logging-guide-4m2d)
 <!-- BLOG-POST-LIST:END -->
 
