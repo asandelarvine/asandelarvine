@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello future world](https://dev.to/ben/hello-future-world-4p9d)
-- [How to Become a Network Engineer: A Complete Guide &lpar;2025&rpar;](https://dev.to/skillboosttrainer/how-to-become-a-network-engineer-a-complete-guide-2025-193h)
-- [Deep Dive into Go Struct](https://dev.to/leapcell/deep-dive-into-go-struct-mf6)
-- [CocoDetection in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cocodetection-in-pytorch-1-40fb)
+- [Creating Objects in JavaScript: Closures, Prototypes, and ES6 Classes](https://dev.to/francescoagati/creating-objects-in-javascript-closures-prototypes-and-es6-classes-4hmc)
+- [Python Tips to Make Your Code Shine! ✨](https://dev.to/iftakher_hossen/tips-for-writing-cleaner-python-code-4f9g)
+- [How to Set Up a Node.js API with TypeScript in 2025](https://dev.to/codeinitdev/how-to-set-up-a-nodejs-api-with-typescript-in-2025-208f)
+- [Subnetting Demystified: Concepts, Importance, and a Real-World Example](https://dev.to/daniel_idoko/subnetting-demystified-concepts-importance-and-a-real-world-example-1co)
 <!-- BLOG-POST-LIST:END -->
 
