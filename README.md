@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking: TCP Header explained](https://dev.to/annavi11arrea1/networking-tcp-header-explained-57k)
-- [Unlocking the Power of Hexagonal Architecture in Rails Development](https://dev.to/jetthoughts/unlocking-the-power-of-hexagonal-architecture-in-rails-development-1ehh)
-- [Infrastructure as Code with Terraform: A Beginner&#39;s Guide](https://dev.to/krisfernando6/infrastructure-as-code-with-terraform-a-beginners-guide-13af)
-- [How to Get a Self-Employed Mortgage: 6 Steps](https://dev.to/ignition_tax_5cd9ac658623/how-to-get-a-self-employed-mortgage-6-steps-2k2h)
+- [🔧 Why Most Notion Dashboards Fall Short &lpar;And How to Fix Yours&rpar;](https://dev.to/resource_bunk_1077cab07da/why-most-notion-dashboards-fall-short-and-how-to-fix-yours-55ko)
+- [🎉 Today’s 25+ GitHub Repositories Featuring Coding Without Code and More &lpar;Jan 3, 2025&rpar;](https://dev.to/gittech/todays-25-github-repositories-featuring-coding-without-code-and-more-jan-3-2025-alj)
+- [😎 New Year, New Gear: The Must-See Open Source Trends &amp; Projects of 2025](https://dev.to/dev-resources/new-year-new-gear-the-must-see-open-source-trends-projects-of-2025-57j)
+- [Color Highlighting for Tailwind CSS Variables in VS Code](https://dev.to/franciscomoretti/color-highlighting-for-tailwind-css-variables-in-vs-code-14gf)
 <!-- BLOG-POST-LIST:END -->
 
