@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is AI failing? &lpar;Part 2&rpar;](https://dev.to/eddealmeidajr/is-ai-failing-part-2-234f)
-- [How to Enhance Real-Time Performance of Linux 6.1 Kernel on OK-MX9352-C by Applying Real-Time Patches](https://dev.to/forlinx_jason/how-to-enhance-real-time-performance-of-linux-61-kernel-on-ok-mx9352-c-by-applying-real-time-ep0)
-- [Why do webdev posts get so much engagement? Where are Java people?](https://dev.to/prakhars/why-do-webdev-posts-get-so-much-engagement-where-are-java-people-5eii)
-- [A Comprehensive Guide to Mastering Kotlin Coroutines](https://dev.to/prakhars/a-comprehensive-guide-to-mastering-kotlin-coroutines-1ai3)
+- [Between Coding And Changing Diapers 24 Hours Are Not Enough](https://dev.to/blarzhernandez/between-coding-and-changing-diapers-24-hours-are-not-enough-1p6n)
+- [New Fine Updates - Project Instructions &amp; More](https://dev.to/thisisfinedev/new-fine-updates-project-instructions-more-42f)
+- [Why LLMs Fall Short: Why Large Language Models Aren&#39;t Ideal for AI Agent Applications](https://dev.to/_aparna_pradhan_/why-llms-fall-short-why-large-language-models-arent-ideal-for-ai-agent-applications-3a55)
+- [Maintenance mode check in Next.js middleware.ts](https://dev.to/ramunarasinga-11/maintenance-mode-check-in-nextjs-middlewarets-5c7a)
 <!-- BLOG-POST-LIST:END -->
 
