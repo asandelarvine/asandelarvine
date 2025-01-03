@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Skills Every Robotics Engineer Needs in 2025](https://dev.to/thepeteleba/top-skills-every-robotics-engineer-needs-in-2025-5feo)
-- [10 Books That Will Transform Your Software Engineering in 2025](https://dev.to/proflead/10-books-that-will-transform-your-software-engineering-in-2025-3cjj)
-- [The Importance of Reading Documentation: A Lesson from Nvidia Drivers](https://dev.to/asheleyine/the-importance-of-reading-documentation-a-lesson-from-nvidia-drivers-41df)
-- [IR Data Analytics: Simplifying Data Extraction](https://dev.to/pranavps/ir-data-analytics-simplifying-data-extraction-58md)
+- [&quot;Boost LLM Performance: Unleashing the Power of Distributed Mixture-of-Agents&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boost-llm-performance-unleashing-the-power-of-distributed-mixture-of-agents-d8m)
+- [Understanding Lossy and Lossless Image Compression Techniques](https://dev.to/anish21pgt/understanding-lossy-and-lossless-image-compression-techniques-4f19)
+- [Integrating React and Vite: How It Boosted My Development Speed](https://dev.to/mannat_trivedi/integrating-react-and-vite-how-it-boosted-my-development-speed-2ge3)
+- [Backend Development Course Structure](https://dev.to/erasmuskotoka/backend-development-course-structure-13bo)
 <!-- BLOG-POST-LIST:END -->
 
