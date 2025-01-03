@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Stack 2025](https://dev.to/khriztianmoreno/tech-stack-2025-3684)
-- [The Art of Iteration: Starting the Cycle](https://dev.to/arindam0310018/the-art-of-iteration-starting-the-cycle-1op)
-- [Entendendo os menus do Android Studio sobre limpeza e reconstrução de projeto](https://dev.to/douglasmartins7/entendendo-os-menus-do-android-studio-sobre-limpeza-e-reconstrucao-de-projeto-2nm3)
-- [How to Integrate Instant Payment Notification&lpar;IPN&rpar; with KCB Bank Buni API Gateway](https://dev.to/msnmongare/instant-payment-notification-ipn-api-integration-with-kcb-bank-buni-api-gateway-4pdc)
+- [CKA Recap -- Ingress &amp; NetworkPolicy](https://dev.to/cheedge_lee/cka-recap-ingress-networkpolicy-2pc)
+- [About UriComponentsBuilder and UriComponents](https://dev.to/saladlam/about-uricomponentsbuilder-and-uricomponents-26f7)
+- [Monitor EBS Volume Health](https://dev.to/aws-builders/monitor-ebs-volume-health-45ib)
+- [Advanced Python Decorators: Elevating Your Code](https://dev.to/ajayvallab/python-script-for-stock-sentiment-analysis-bna)
 <!-- BLOG-POST-LIST:END -->
 
