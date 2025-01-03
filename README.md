@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Most Common Job Scams That Target IT Professionals and How To Avoid Them](https://dev.to/kwan/top-most-common-job-scams-that-target-it-professionals-and-how-to-avoid-them-1nf1)
-- [Static methods in a PHP project: a good idea or a bad one?](https://dev.to/ictools/static-methods-in-a-php-project-a-good-idea-or-a-bad-one-5jd)
-- [How to use queue data structure in programming](https://dev.to/volodymyr_potiichuk/how-to-use-queue-data-structure-in-programming-5h7)
-- [Techie Limericks: A Humorous Dive into Code, APIs, and Neural Networks](https://dev.to/romanmarshanski/techie-limericks-a-humorous-dive-into-code-apis-and-neural-networks-dh)
+- [Getting started with Nix and Nix Flakes](https://dev.to/arnu515/getting-started-with-nix-and-nix-flakes-mml)
+- [LeetCode Challenge: 209. Minimum Size Subarray Sum - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-209-minimum-size-subarray-sum-javascript-solution-40n0)
+- [Java Spring basic contents and components.](https://dev.to/prastha/java-spring-basic-contents-and-components-1mio)
+- [Databricks on AWS](https://dev.to/aws-builders/databricks-on-aws-1hnp)
 <!-- BLOG-POST-LIST:END -->
 
