@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplified Data Masking in AWS Lambda with Powertool](https://dev.to/aws-builders/simplified-data-masking-in-aws-lambda-with-powertool-468j)
-- [82/365 | ¥10M Job Challenge - Rest is for the sake of going further](https://dev.to/kameken100/82365-y10m-job-challenge-rest-is-for-the-sake-of-going-further-4559)
-- [NLP 101: Title: Lemmatization vs. Stemming: The Thoughtful Strategist vs. The Rule-Following Hacker.](https://dev.to/sreeni5018/nlp-101-title-lemmatization-vs-stemming-the-thoughtful-strategist-vs-the-rule-following-j33)
-- [My take on the Memory Layer Paper by Meta &lpar;noob friendly&rpar;](https://dev.to/govindsb/my-take-on-the-memory-layer-paper-by-meta-noob-friendly-3hgo)
+- [The Economics of Training Frontier Models](https://dev.to/shrsv/the-economics-of-training-frontier-models-31gk)
+- [WEDIDIT - an ngo that transforms lives and empower community](https://dev.to/susmita_bose/wedidit-an-ngo-that-transforms-lives-and-empower-community-27j3)
+- [Containerizing a MERN Stack Application!](https://dev.to/yash_patil16/containerizing-a-mern-stack-application-1pn1)
+- [Writing a Node.js and Express app with decorators based routing and DI](https://dev.to/9zemian5/writing-a-nodejs-and-express-app-with-decorators-based-routing-and-di-1hlc)
 <!-- BLOG-POST-LIST:END -->
 
