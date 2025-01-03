@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Travel Experience with a Robust Air Ticket API Integration](https://dev.to/johnmiller/enhancing-travel-experience-with-a-robust-air-ticket-api-integration-2n7i)
-- [How React.js is Adapting to AI-Powered Frontend Development](https://dev.to/rigalpatel001/how-reactjs-is-adapting-to-ai-powered-frontend-development-4li)
-- [Building Scalable Event Processing with Fan-out Pattern using the Serverless Framework](https://dev.to/ideepaksharma/building-scalable-event-processing-with-fan-out-pattern-using-the-serverless-framework-1o9f)
-- [Top Open Source Projects to Watch in 2025](https://dev.to/jaysaadana/top-open-source-projects-to-watch-in-2025-4bem)
+- [Top Most Common Job Scams That Target IT Professionals and How To Avoid Them](https://dev.to/kwan/top-most-common-job-scams-that-target-it-professionals-and-how-to-avoid-them-1nf1)
+- [Static methods in a PHP project: a good idea or a bad one?](https://dev.to/ictools/static-methods-in-a-php-project-a-good-idea-or-a-bad-one-5jd)
+- [How to use queue data structure in programming](https://dev.to/volodymyr_potiichuk/how-to-use-queue-data-structure-in-programming-5h7)
+- [Techie Limericks: A Humorous Dive into Code, APIs, and Neural Networks](https://dev.to/romanmarshanski/techie-limericks-a-humorous-dive-into-code-apis-and-neural-networks-dh)
 <!-- BLOG-POST-LIST:END -->
 
