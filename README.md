@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Boost LLM Performance: Unleashing the Power of Distributed Mixture-of-Agents&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boost-llm-performance-unleashing-the-power-of-distributed-mixture-of-agents-d8m)
-- [Understanding Lossy and Lossless Image Compression Techniques](https://dev.to/anish21pgt/understanding-lossy-and-lossless-image-compression-techniques-4f19)
-- [Integrating React and Vite: How It Boosted My Development Speed](https://dev.to/mannat_trivedi/integrating-react-and-vite-how-it-boosted-my-development-speed-2ge3)
-- [Backend Development Course Structure](https://dev.to/erasmuskotoka/backend-development-course-structure-13bo)
+- [Networking: TCP Header explained](https://dev.to/annavi11arrea1/networking-tcp-header-explained-57k)
+- [Unlocking the Power of Hexagonal Architecture in Rails Development](https://dev.to/jetthoughts/unlocking-the-power-of-hexagonal-architecture-in-rails-development-1ehh)
+- [Infrastructure as Code with Terraform: A Beginner&#39;s Guide](https://dev.to/krisfernando6/infrastructure-as-code-with-terraform-a-beginners-guide-13af)
+- [How to Get a Self-Employed Mortgage: 6 Steps](https://dev.to/ignition_tax_5cd9ac658623/how-to-get-a-self-employed-mortgage-6-steps-2k2h)
 <!-- BLOG-POST-LIST:END -->
 
