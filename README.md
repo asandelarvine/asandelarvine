@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Economics of Training Frontier Models](https://dev.to/shrsv/the-economics-of-training-frontier-models-31gk)
-- [WEDIDIT - an ngo that transforms lives and empower community](https://dev.to/susmita_bose/wedidit-an-ngo-that-transforms-lives-and-empower-community-27j3)
-- [Containerizing a MERN Stack Application!](https://dev.to/yash_patil16/containerizing-a-mern-stack-application-1pn1)
-- [Writing a Node.js and Express app with decorators based routing and DI](https://dev.to/9zemian5/writing-a-nodejs-and-express-app-with-decorators-based-routing-and-di-1hlc)
+- [Self-hosting a Platform As A Service on a single EC2 instance with coolify](https://dev.to/sobowalebukola/self-hosting-a-platform-as-a-service-on-a-single-ec2-instance-with-coolify-17jn)
+- [2024 Reflection to Compiling My 2025 Roadmap](https://dev.to/mlloyd/2024-reflection-to-compiling-my-2025-roadmap-m7m)
+- [Understanding Vector Databases: A Beginner&#39;s Guide](https://dev.to/sebastiandevelops/understanding-vector-databases-a-beginners-guide-20nj)
+- [🔥 10 javaScript questions before you face rejection ❌](https://dev.to/jorjishasan/10-javascript-questions-before-you-face-rejection-1g3m)
 <!-- BLOG-POST-LIST:END -->
 
