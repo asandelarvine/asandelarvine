@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [K3D: Monitoring Your Service using Kubernetes Dashboard or Octant](https://dev.to/danielcristho/k3d-monitoring-your-service-using-kubernetes-dashboard-or-octant-23ef)
-- [Comprehensive Guide to Python Debugging Tools for Efficient Code Troubleshooting](https://dev.to/adityabhuyan/comprehensive-guide-to-python-debugging-tools-for-efficient-code-troubleshooting-47af)
-- [Revolutionizing Regression Testing with AI and Automation](https://dev.to/misterankit/revolutionizing-regression-testing-with-ai-and-automation-1586)
-- [Transform Your Workflow with AI Helper Bots for Maximum Productivity](https://dev.to/hitesh_umaletiya/transform-your-workflow-with-ai-helper-bots-for-maximum-productivity-jf7)
+- [Is AI failing? &lpar;Part 2&rpar;](https://dev.to/eddealmeidajr/is-ai-failing-part-2-234f)
+- [How to Enhance Real-Time Performance of Linux 6.1 Kernel on OK-MX9352-C by Applying Real-Time Patches](https://dev.to/forlinx_jason/how-to-enhance-real-time-performance-of-linux-61-kernel-on-ok-mx9352-c-by-applying-real-time-ep0)
+- [Why do webdev posts get so much engagement? Where are Java people?](https://dev.to/prakhars/why-do-webdev-posts-get-so-much-engagement-where-are-java-people-5eii)
+- [A Comprehensive Guide to Mastering Kotlin Coroutines](https://dev.to/prakhars/a-comprehensive-guide-to-mastering-kotlin-coroutines-1ai3)
 <!-- BLOG-POST-LIST:END -->
 
