@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting a Platform As A Service on a single EC2 instance with coolify](https://dev.to/sobowalebukola/self-hosting-a-platform-as-a-service-on-a-single-ec2-instance-with-coolify-17jn)
-- [2024 Reflection to Compiling My 2025 Roadmap](https://dev.to/mlloyd/2024-reflection-to-compiling-my-2025-roadmap-m7m)
-- [Understanding Vector Databases: A Beginner&#39;s Guide](https://dev.to/sebastiandevelops/understanding-vector-databases-a-beginners-guide-20nj)
-- [🔥 10 javaScript questions before you face rejection ❌](https://dev.to/jorjishasan/10-javascript-questions-before-you-face-rejection-1g3m)
+- [Tech Stack 2025](https://dev.to/khriztianmoreno/tech-stack-2025-3684)
+- [The Art of Iteration: Starting the Cycle](https://dev.to/arindam0310018/the-art-of-iteration-starting-the-cycle-1op)
+- [Entendendo os menus do Android Studio sobre limpeza e reconstrução de projeto](https://dev.to/douglasmartins7/entendendo-os-menus-do-android-studio-sobre-limpeza-e-reconstrucao-de-projeto-2nm3)
+- [How to Integrate Instant Payment Notification&lpar;IPN&rpar; with KCB Bank Buni API Gateway](https://dev.to/msnmongare/instant-payment-notification-ipn-api-integration-with-kcb-bank-buni-api-gateway-4pdc)
 <!-- BLOG-POST-LIST:END -->
 
