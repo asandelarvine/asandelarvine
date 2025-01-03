@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Nix and Nix Flakes](https://dev.to/arnu515/getting-started-with-nix-and-nix-flakes-mml)
-- [LeetCode Challenge: 209. Minimum Size Subarray Sum - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-209-minimum-size-subarray-sum-javascript-solution-40n0)
-- [Java Spring basic contents and components.](https://dev.to/prastha/java-spring-basic-contents-and-components-1mio)
-- [Databricks on AWS](https://dev.to/aws-builders/databricks-on-aws-1hnp)
+- [Change a .Net Console application into an web application](https://dev.to/gaotter/change-a-net-console-application-into-an-web-application-2i2l)
+- [Top 5 Go Libraries Every Backend Developer Should Know](https://dev.to/siddheshk02/top-5-go-libraries-every-backend-developer-should-know-1nhn)
+- [Lección 1: Introducción a Python y su Instalación](https://dev.to/michidev/leccion-1-introduccion-a-python-y-su-instalacion-5c8f)
+- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
 <!-- BLOG-POST-LIST:END -->
 
