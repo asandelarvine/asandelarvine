@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Promoting my project https://github.com/oitcode/samarium in this year 2025. Happy new year all.](https://dev.to/oitoit/promoting-my-project-httpsgithubcomoitcodesamarium-in-this-year-2025-happy-new-year-all-417l)
-- [AI: Your New Work Ally, Not a Replacement 🤝](https://dev.to/elvissautet/ai-your-new-work-ally-not-a-replacement-o3e)
-- [Feijuca.Auth - Part 1: Configuring the tool](https://dev.to/felipemattioli/feijucaauth-part-1-configuring-the-tool-9ok)
-- [Understanding Regex in Python: A Practical Example](https://dev.to/melissajlw/understanding-regex-in-python-a-practical-example-1ili)
+- [Top Skills Every Robotics Engineer Needs in 2025](https://dev.to/thepeteleba/top-skills-every-robotics-engineer-needs-in-2025-5feo)
+- [10 Books That Will Transform Your Software Engineering in 2025](https://dev.to/proflead/10-books-that-will-transform-your-software-engineering-in-2025-3cjj)
+- [The Importance of Reading Documentation: A Lesson from Nvidia Drivers](https://dev.to/asheleyine/the-importance-of-reading-documentation-a-lesson-from-nvidia-drivers-41df)
+- [IR Data Analytics: Simplifying Data Extraction](https://dev.to/pranavps/ir-data-analytics-simplifying-data-extraction-58md)
 <!-- BLOG-POST-LIST:END -->
 
