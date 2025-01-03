@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 of My 2025 Coding Streak: Major Progress on Lyra](https://dev.to/winnerezy/day-2-of-my-2025-coding-streak-major-progress-on-lyra-5d2l)
-- [To comment, or not to comment](https://dev.to/xaberue/to-comment-or-not-to-comment-18a3)
-- [Integrating AI and Coding in Early STEM Education](https://dev.to/jds64/integrating-ai-and-coding-in-early-stem-education-3gnm)
-- [The Journey of Optimization](https://dev.to/dkuku/the-journey-of-optimization-4j15)
+- [Subqueries](https://dev.to/ricardomtt/subqueries-kcm)
+- [Kafka vs rabbitmq](https://dev.to/lng_minhqun_66efb0ca2/kafka-vs-rabbitmq-11cj)
+- [使用自签证书在局域网部署 HTTPS 并让浏览器识别为『安全』](https://dev.to/axum/shi-yong-zi-qian-zheng-shu-zai-ju-yu-wang-bu-shu-https-bing-rang-liu-lan-qi-shi-bie-wei-an-quan--41j7)
+- [Exploring Mina Protocol zkApps with Auro Wallet](https://dev.to/ajtech0001/exploring-mina-protocol-zkapps-with-auro-wallet-517)
 <!-- BLOG-POST-LIST:END -->
 
