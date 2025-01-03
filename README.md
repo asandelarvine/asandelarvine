@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Why Most Notion Dashboards Fall Short &lpar;And How to Fix Yours&rpar;](https://dev.to/resource_bunk_1077cab07da/why-most-notion-dashboards-fall-short-and-how-to-fix-yours-55ko)
-- [🎉 Today’s 25+ GitHub Repositories Featuring Coding Without Code and More &lpar;Jan 3, 2025&rpar;](https://dev.to/gittech/todays-25-github-repositories-featuring-coding-without-code-and-more-jan-3-2025-alj)
-- [😎 New Year, New Gear: The Must-See Open Source Trends &amp; Projects of 2025](https://dev.to/dev-resources/new-year-new-gear-the-must-see-open-source-trends-projects-of-2025-57j)
-- [Color Highlighting for Tailwind CSS Variables in VS Code](https://dev.to/franciscomoretti/color-highlighting-for-tailwind-css-variables-in-vs-code-14gf)
+- [Simplified Data Masking in AWS Lambda with Powertool](https://dev.to/aws-builders/simplified-data-masking-in-aws-lambda-with-powertool-468j)
+- [82/365 | ¥10M Job Challenge - Rest is for the sake of going further](https://dev.to/kameken100/82365-y10m-job-challenge-rest-is-for-the-sake-of-going-further-4559)
+- [NLP 101: Title: Lemmatization vs. Stemming: The Thoughtful Strategist vs. The Rule-Following Hacker.](https://dev.to/sreeni5018/nlp-101-title-lemmatization-vs-stemming-the-thoughtful-strategist-vs-the-rule-following-j33)
+- [My take on the Memory Layer Paper by Meta &lpar;noob friendly&rpar;](https://dev.to/govindsb/my-take-on-the-memory-layer-paper-by-meta-noob-friendly-3hgo)
 <!-- BLOG-POST-LIST:END -->
 
