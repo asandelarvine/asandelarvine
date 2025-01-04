@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Destination Wedding Checklist: A Comprehensive Guide to Planning the Perfect Wedding Abroad](https://dev.to/briobella/destination-wedding-checklist-a-comprehensive-guide-to-planning-the-perfect-wedding-abroad-pmm)
-- [12 Essential AI Tools for Web Development to Boost Your Projects](https://dev.to/kafeel_ahmad/12-essential-ai-tools-for-web-development-to-boost-your-projects-hjg)
-- [5 Tips to Level Up Your Coding Skills](https://dev.to/shaik_mohammadfaarooq_bb/5-tips-to-level-up-your-coding-skills-1p78)
-- [Does front-end architecture exist?](https://dev.to/ourai/does-front-end-architecture-exist-2ndm)
+- [Nguyên lý Low Coupling trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-low-coupling-trong-grasp-pattern-1732)
+- [The Most Reliable API for Forex Exchange Rate Data](https://dev.to/bradi/the-most-reliable-api-for-forex-exchange-rate-data-2510)
+- [Understanding Room Database in Android: A Beginner&#39;s Guide](https://dev.to/harsh_lade/understanding-room-database-in-android-a-beginners-guide-1njo)
+- [Dboun](https://dev.to/devnax/dboun-4m8l)
 <!-- BLOG-POST-LIST:END -->
 
