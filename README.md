@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Effectively Handle Figma Designs?](https://dev.to/hexa-home/how-to-effectively-handle-figma-designs-3hk)
-- [Thinking About Software Project Through the SDLC Lens With Project Example](https://dev.to/mohamed_el_laithy/thinking-about-software-project-through-the-sdlc-lens-with-project-example-3o2g)
-- [1930. Unique Length-3 Palindromic Subsequences](https://dev.to/mdarifulhaque/1930-unique-length-3-palindromic-subsequences-2bed)
-- [NPM Commands Every Web Developer Must Know](https://dev.to/dhruvdankhara/npm-commands-every-web-developer-must-know-knp)
+- [How to Install Terraform on Ubuntu](https://dev.to/nodeshiftcloud/how-to-install-terraform-on-ubuntu-9ba)
+- [Building a Multi-LLM Profanity Detector in C# using StepWise](https://dev.to/littlelittlecloud/building-a-multi-llm-profanity-detector-in-c-using-stepwise-1p8m)
+- [🌱 Building [clean] reusable React components](https://dev.to/codewithshahan/building-clean-reusable-react-components-241l)
+- [The 3 Habits of Highly Effective Programmers](https://dev.to/fares_mohamed/the-3-habits-of-highly-effective-programmers-19bp)
 <!-- BLOG-POST-LIST:END -->
 
