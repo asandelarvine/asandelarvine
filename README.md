@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Terraform on Ubuntu](https://dev.to/nodeshiftcloud/how-to-install-terraform-on-ubuntu-9ba)
-- [Building a Multi-LLM Profanity Detector in C# using StepWise](https://dev.to/littlelittlecloud/building-a-multi-llm-profanity-detector-in-c-using-stepwise-1p8m)
-- [🌱 Building [clean] reusable React components](https://dev.to/codewithshahan/building-clean-reusable-react-components-241l)
-- [The 3 Habits of Highly Effective Programmers](https://dev.to/fares_mohamed/the-3-habits-of-highly-effective-programmers-19bp)
+- [I Hate Website Builders – So I Built My Own](https://dev.to/kiraaziz/i-hate-website-builders-so-i-built-my-own-1728)
+- [Harnessing the Power of Hugging Face Transformers for Machine Learning](https://dev.to/dm8ry/harnessing-the-power-of-hugging-face-transformers-for-machine-learning-59ai)
+- [Day 4: C++ language | Variables | Datatypes | Part-2](https://dev.to/mehfila_parkkulthil_23/day-4-c-language-variables-datatypes-part-2-2mce)
+- [Daily JavaScript Challenge #JS-64: Find Unique Numbers](https://dev.to/dpc/daily-javascript-challenge-js-64-find-unique-numbers-5bo)
 <!-- BLOG-POST-LIST:END -->
 
