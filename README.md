@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React : Keeping Components Pure](https://dev.to/sonaykara/react-keeping-components-pure-32jn)
-- [Unpacking the Benefits and Pitfalls of TypeScript](https://dev.to/youneshajizadeh/unpacking-the-benefits-and-pitfalls-of-typescript-jf6)
-- [Creating a To-Do app with Django and HTMX, part 6: implementing Delete with tests](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-6-implementing-delete-with-tdd-471l)
-- [New version for my osxiec project](https://dev.to/okerew/new-version-for-my-osxiec-project-2pkm)
+- [Why I think GitHub Copilot is a Must-Have Tool for Developers](https://dev.to/elukuro/why-i-think-github-copilot-is-a-must-have-tool-for-developers-248o)
+- [[For Beginners] Understanding the KMP Algorithm by Comparing with the Brute-Force](https://dev.to/yo-shi/for-beginners-understanding-the-kmp-algorithm-by-comparing-with-the-brute-force-1da3)
+- [What is Gliimly Application Server](https://dev.to/gliimly/what-is-gliimly-application-server-20f5)
+- [Dockerized Deployment of a Full Stack Application with Reverse Proxy, Monitoring &amp; Observability](https://dev.to/chigozieco/dockerized-deployment-of-a-full-stack-application-with-reverse-proxy-monitoring-observability-5c04)
 <!-- BLOG-POST-LIST:END -->
 
