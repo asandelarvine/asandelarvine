@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nguyên lý Low Coupling trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-low-coupling-trong-grasp-pattern-1732)
-- [The Most Reliable API for Forex Exchange Rate Data](https://dev.to/bradi/the-most-reliable-api-for-forex-exchange-rate-data-2510)
-- [Understanding Room Database in Android: A Beginner&#39;s Guide](https://dev.to/harsh_lade/understanding-room-database-in-android-a-beginners-guide-1njo)
-- [Dboun](https://dev.to/devnax/dboun-4m8l)
+- [Building “Product Fetcher”: A Solopreneur’s Dive into Scraping, AI, and Automation](https://dev.to/nicolascdev/building-product-fetcher-a-solopreneurs-dive-into-scraping-ai-and-automation-2e6b)
+- [&quot;Revolutionizing Language Models: LEP and Its Impact on NLP Adaptation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-lep-and-its-impact-on-nlp-adaptation-2k6n)
+- [How to write technical posts with Nebo](https://dev.to/alejandrogomezfrieiro/how-to-write-technical-posts-with-nebo-9a2)
+- [API Resource Management and Access Control](https://dev.to/aungkyawminn/api-resource-management-and-access-control-321a)
 <!-- BLOG-POST-LIST:END -->
 
