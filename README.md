@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hate Website Builders – So I Built My Own](https://dev.to/kiraaziz/i-hate-website-builders-so-i-built-my-own-1728)
-- [Harnessing the Power of Hugging Face Transformers for Machine Learning](https://dev.to/dm8ry/harnessing-the-power-of-hugging-face-transformers-for-machine-learning-59ai)
-- [Day 4: C++ language | Variables | Datatypes | Part-2](https://dev.to/mehfila_parkkulthil_23/day-4-c-language-variables-datatypes-part-2-2mce)
-- [Daily JavaScript Challenge #JS-64: Find Unique Numbers](https://dev.to/dpc/daily-javascript-challenge-js-64-find-unique-numbers-5bo)
+- [Using Cloudflare SSL with Elastic Beanstalk instances](https://dev.to/kkuj/using-cloudflare-ssl-with-elastic-beanstalk-instances-gf3)
+- [&quot;Unlocking Edge Inference: The Power of Distributed Mixture-of-Agents in LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-edge-inference-the-power-of-distributed-mixture-of-agents-in-llms-137j)
+- [Understanding Tokenization: A Deep Dive into Tokenizers with Hugging Face](https://dev.to/dm8ry/understanding-tokenization-a-deep-dive-into-tokenizers-with-hugging-face-4gp8)
+- [The Art of Iteration: Loop in Pipeline Stage](https://dev.to/arindam0310018/the-art-of-iteration-loop-in-pipeline-stage-40he)
 <!-- BLOG-POST-LIST:END -->
 
