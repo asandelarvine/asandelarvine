@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Jest and React Testing Library with Webpack](https://dev.to/hoshdev/setting-up-jest-and-react-testing-library-with-webpack-55dh)
-- [Confidence in the cloud with data sovereignty](https://dev.to/aws-builders/confidence-in-the-cloud-with-data-sovereignty-1p6a)
-- [PyTorch and Deep Learning for Decision Makers &lpar;LFS1116&rpar;](https://dev.to/marcoatl/pytorch-and-deep-learning-for-decision-makers-lfs1116-3o8l)
-- [Reflections and Predictions, Analyzing the Challenges and Trends of 2025](https://dev.to/shafayeat/reflections-and-predictions-analyzing-the-challenges-and-trends-of-2025-29bg)
+- [@blocz/react-responsive v4](https://dev.to/ayc0/bloczreact-responsive-v4-2j5i)
+- [What are the 5 best cloud encryption software options for Mac users in 2025?](https://dev.to/ariyan_shah_2ac3ba2bebb4b/what-are-the-5-best-cloud-encryption-software-options-for-mac-users-in-2025-76n)
+- [How to start with micro services ?](https://dev.to/fidsouza/how-to-start-with-micro-services--j22)
+- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/singhaayush/getting-started-with-git-and-github-a-beginners-guide-5emi)
 <!-- BLOG-POST-LIST:END -->
 
