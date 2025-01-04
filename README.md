@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Why I Don’t Have a Portfolio&quot;](https://dev.to/elvissautet/why-i-dont-have-a-portfolio-3h94)
-- [Find all anagrams in the string[Fixed Window pattern]](https://dev.to/prashantrmishra/find-all-anagrams-in-the-stringfixed-window-pattern-2cf0)
-- [Everything You Need to Know About AWS S3 for Cloud Storage](https://dev.to/souhailsegni/everything-you-need-to-know-about-aws-s3-for-cloud-storage-3032)
-- [Why is GRC Important in 2025?](https://dev.to/andreyana_michael/why-is-grc-important-in-2025-10gi)
+- [How to Effectively Handle Figma Designs?](https://dev.to/hexa-home/how-to-effectively-handle-figma-designs-3hk)
+- [Thinking About Software Project Through the SDLC Lens With Project Example](https://dev.to/mohamed_el_laithy/thinking-about-software-project-through-the-sdlc-lens-with-project-example-3o2g)
+- [1930. Unique Length-3 Palindromic Subsequences](https://dev.to/mdarifulhaque/1930-unique-length-3-palindromic-subsequences-2bed)
+- [NPM Commands Every Web Developer Must Know](https://dev.to/dhruvdankhara/npm-commands-every-web-developer-must-know-knp)
 <!-- BLOG-POST-LIST:END -->
 
