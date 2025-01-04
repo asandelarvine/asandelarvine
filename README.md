@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Journey to Web Development: A Beginner&#39;s Guide to Frontend Development](https://dev.to/prajwol_bakhati_968253020/your-journey-to-web-development-a-beginners-guide-to-frontend-development-1lop)
-- [Build an awesome developer portfolio website](https://dev.to/ambrishgoswami80/build-an-awesome-developer-portfolio-website-13d1)
-- [Data Transfer from S3 to Cloud Storage using GCP Storage Transfer Service](https://dev.to/ryankarlos/data-transfer-from-s3-to-cloud-storage-using-gcp-storage-transfer-service-25m)
-- [AWS + JavaScript + WordPress = Fun Content Automation Strategies Using Artificial Intelligence](https://dev.to/christonit/aws-javascript-wordpress-fun-content-automation-strategies-using-artificial-intelligence-1gl1)
+- [Context Caching vs RAG](https://dev.to/abhinowww/context-caching-vs-rag-3gag)
+- [OpenMP Data-Sharing Clauses: Differences Explained](https://dev.to/minwook/openmp-data-sharing-clauses-differences-explained-3fop)
+- [150+ FREE APIs Every Developer Needs to Know](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j)
+- [FREE: Password Generator ⚡ PRO &lpar;extension/add-on&rpar; + [source code]](https://dev.to/hanzla-baig/free-password-generator-pro-extensionadd-on-source-code-48gf)
 <!-- BLOG-POST-LIST:END -->
 
