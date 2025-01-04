@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter, Smaller and Efficient AI Models: NVIDIA’s Minitron Approach](https://dev.to/bakar31/building-smarter-smaller-ai-models-nvidias-minitron-approach-10i7)
-- [Simplifying CRUD Operations Using Primary Constructors for Dependency Injection with Generic Interfaces](https://dev.to/aravindhasamy/simplifying-crud-operations-using-primary-constructors-for-dependency-injection-with-generic-1hm8)
-- [SANA: Ultra HD Fast Text to Image Model from NVIDIA Step by Step Tutorial on Windows, Cloud &amp; Kaggle — Generate 2048x2048 Images](https://dev.to/furkangozukara/sana-ultra-hd-fast-text-to-image-model-from-nvidia-step-by-step-tutorial-on-windows-cloud--1l2o)
-- [&quot;My First Week in DevOps with Python, Git, and Key Automation Tools&quot;](https://dev.to/prakash_baria_38a80ea60f1/my-first-week-in-devops-with-python-git-and-key-automation-tools-5b0f)
+- [Introducing My UI Components &amp; Templates App: Feedback Wanted! 🚀](https://dev.to/akanji/introducing-my-ui-components-templates-app-feedback-wanted-216b)
+- [How To Use Javascript To Secure Your WordPress Website](https://dev.to/bkthemes/how-to-use-javascript-to-secure-your-wordpress-website-2h6m)
+- [Debugging C# Code Like a Pro](https://dev.to/vandana_babshetti_91df8eb/debugging-c-code-like-a-pro-275n)
+- [C# in Cloud Computing: Getting Started with Azure Functions](https://dev.to/vandana_babshetti_91df8eb/c-in-cloud-computing-getting-started-with-azure-functions-18ji)
 <!-- BLOG-POST-LIST:END -->
 
