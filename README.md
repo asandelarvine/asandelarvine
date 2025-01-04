@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CKA Recap -- Ingress &amp; NetworkPolicy](https://dev.to/cheedge_lee/cka-recap-ingress-networkpolicy-2pc)
-- [About UriComponentsBuilder and UriComponents](https://dev.to/saladlam/about-uricomponentsbuilder-and-uricomponents-26f7)
-- [Monitor EBS Volume Health](https://dev.to/aws-builders/monitor-ebs-volume-health-45ib)
-- [Advanced Python Decorators: Elevating Your Code](https://dev.to/ajayvallab/python-script-for-stock-sentiment-analysis-bna)
+- [El origen de la historia](https://dev.to/juanmiguelar/el-origen-de-la-historia-1n4p)
+- [AI in Cybersecurity: When Robots Guard Your Wi-Fi ????️????](https://dev.to/aniruddhaadak/ai-in-cybersecurity-when-robots-guard-your-wi-fi--3dli)
+- [Depurando mi 2024: Una Retrospectiva de Desarrollador](https://dev.to/julio_andresmiguel_a499a/depurando-mi-2024-una-retrospectiva-de-desarrollador-56a1)
+- [Manage duplicates in your Bitwarden Vault with Python](https://dev.to/peterbenoit/manage-duplicates-in-your-bitwarden-vault-with-python-5f00)
 <!-- BLOG-POST-LIST:END -->
 
