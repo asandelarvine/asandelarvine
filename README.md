@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Caching vs RAG](https://dev.to/abhinowww/context-caching-vs-rag-3gag)
-- [OpenMP Data-Sharing Clauses: Differences Explained](https://dev.to/minwook/openmp-data-sharing-clauses-differences-explained-3fop)
-- [150+ FREE APIs Every Developer Needs to Know](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j)
-- [FREE: Password Generator ⚡ PRO &lpar;extension/add-on&rpar; + [source code]](https://dev.to/hanzla-baig/free-password-generator-pro-extensionadd-on-source-code-48gf)
+- [Destination Wedding Checklist: A Comprehensive Guide to Planning the Perfect Wedding Abroad](https://dev.to/briobella/destination-wedding-checklist-a-comprehensive-guide-to-planning-the-perfect-wedding-abroad-pmm)
+- [12 Essential AI Tools for Web Development to Boost Your Projects](https://dev.to/kafeel_ahmad/12-essential-ai-tools-for-web-development-to-boost-your-projects-hjg)
+- [5 Tips to Level Up Your Coding Skills](https://dev.to/shaik_mohammadfaarooq_bb/5-tips-to-level-up-your-coding-skills-1p78)
+- [Does front-end architecture exist?](https://dev.to/ourai/does-front-end-architecture-exist-2ndm)
 <!-- BLOG-POST-LIST:END -->
 
