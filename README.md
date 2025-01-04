@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Dashboards Fail](https://dev.to/amoakomensa/why-dashboards-fail-2n54)
-- [Color Highlighting for Tailwind CSS Variables in VS Code](https://dev.to/franciscomoretti/color-highlighting-for-tailwind-css-variables-in-vs-code-371n)
-- [Laravel route alternatives](https://dev.to/xwero/laravel-route-alternatives-53pl)
-- [Go&#39;s &#39;Must&#39; Pattern: Streamline Your Error Handling](https://dev.to/dubjay18/gos-must-pattern-streamline-your-error-handling-27ff)
+- [React : Keeping Components Pure](https://dev.to/sonaykara/react-keeping-components-pure-32jn)
+- [Unpacking the Benefits and Pitfalls of TypeScript](https://dev.to/youneshajizadeh/unpacking-the-benefits-and-pitfalls-of-typescript-jf6)
+- [Creating a To-Do app with Django and HTMX, part 6: implementing Delete with tests](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-6-implementing-delete-with-tdd-471l)
+- [New version for my osxiec project](https://dev.to/okerew/new-version-for-my-osxiec-project-2pkm)
 <!-- BLOG-POST-LIST:END -->
 
