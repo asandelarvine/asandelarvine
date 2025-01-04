@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building “Product Fetcher”: A Solopreneur’s Dive into Scraping, AI, and Automation](https://dev.to/nicolascdev/building-product-fetcher-a-solopreneurs-dive-into-scraping-ai-and-automation-2e6b)
-- [&quot;Revolutionizing Language Models: LEP and Its Impact on NLP Adaptation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-lep-and-its-impact-on-nlp-adaptation-2k6n)
-- [How to write technical posts with Nebo](https://dev.to/alejandrogomezfrieiro/how-to-write-technical-posts-with-nebo-9a2)
-- [API Resource Management and Access Control](https://dev.to/aungkyawminn/api-resource-management-and-access-control-321a)
+- [How to implement JaCoCo in Kotlin + Spring Boot + Gradle project](https://dev.to/mikhailepatko/how-to-implement-jacoco-in-kotlin-spring-boot-gradle-project-2ffb)
+- [Optimize and Monitor Power Apps Like a Pro with Application Insights](https://dev.to/seenakhan/optimize-and-monitor-power-apps-like-a-pro-with-application-insights-20k3)
+- [My Journey Deploying an API: From Novice to Docker Enthusiast](https://dev.to/anadudev/my-journey-deploying-an-api-from-novice-to-docker-enthusiast-1037)
+- [🚀 10 JavaScript Tricks Every Developer Should Know](https://dev.to/fares_mohamed/10-javascript-tricks-every-developer-should-know-254p)
 <!-- BLOG-POST-LIST:END -->
 
