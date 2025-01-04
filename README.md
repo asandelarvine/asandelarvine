@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Master Authentication and Role-Based Access Control &lpar;RBAC&rpar; with Kinde and Convex in a File-Sharing Application](https://dev.to/sholajegede/part-2-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-ch)
-- [Laravel Debugbar for Next.js](https://dev.to/zerk4/laravel-debugbar-for-nextjs-326m)
-- [Build an OTP-Based Authentication Server with Go: Part 1](https://dev.to/vishaaxl/build-an-otp-based-authentication-server-with-go-part-1-760)
-- [Advantages of search databases](https://dev.to/axotion/advantages-of-search-databases-2lmh)
+- [Why Dashboards Fail](https://dev.to/amoakomensa/why-dashboards-fail-2n54)
+- [Color Highlighting for Tailwind CSS Variables in VS Code](https://dev.to/franciscomoretti/color-highlighting-for-tailwind-css-variables-in-vs-code-371n)
+- [Laravel route alternatives](https://dev.to/xwero/laravel-route-alternatives-53pl)
+- [Go&#39;s &#39;Must&#39; Pattern: Streamline Your Error Handling](https://dev.to/dubjay18/gos-must-pattern-streamline-your-error-handling-27ff)
 <!-- BLOG-POST-LIST:END -->
 
