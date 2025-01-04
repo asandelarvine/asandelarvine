@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to implement JaCoCo in Kotlin + Spring Boot + Gradle project](https://dev.to/mikhailepatko/how-to-implement-jacoco-in-kotlin-spring-boot-gradle-project-2ffb)
-- [Optimize and Monitor Power Apps Like a Pro with Application Insights](https://dev.to/seenakhan/optimize-and-monitor-power-apps-like-a-pro-with-application-insights-20k3)
-- [My Journey Deploying an API: From Novice to Docker Enthusiast](https://dev.to/anadudev/my-journey-deploying-an-api-from-novice-to-docker-enthusiast-1037)
-- [🚀 10 JavaScript Tricks Every Developer Should Know](https://dev.to/fares_mohamed/10-javascript-tricks-every-developer-should-know-254p)
+- [Setting up Jest and React Testing Library with Webpack](https://dev.to/hoshdev/setting-up-jest-and-react-testing-library-with-webpack-55dh)
+- [Confidence in the cloud with data sovereignty](https://dev.to/aws-builders/confidence-in-the-cloud-with-data-sovereignty-1p6a)
+- [PyTorch and Deep Learning for Decision Makers &lpar;LFS1116&rpar;](https://dev.to/marcoatl/pytorch-and-deep-learning-for-decision-makers-lfs1116-3o8l)
+- [Reflections and Predictions, Analyzing the Challenges and Trends of 2025](https://dev.to/shafayeat/reflections-and-predictions-analyzing-the-challenges-and-trends-of-2025-29bg)
 <!-- BLOG-POST-LIST:END -->
 
