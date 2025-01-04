@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [60 Advanced and Modern Ideas for an Impressive Portfolio Website🚀🌟](https://dev.to/hanzla-baig/60-advanced-and-modern-ideas-for-an-impressive-portfolio-website-56f8)
+- [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://dev.to/hanzla-baig/javascript-visualized-the-javascript-engine-36cc)
+- [The Future of AI: Building Next-Generation Chatbot Agents with Microsoft Copilot Studio](https://dev.to/emmanuel_adegor/the-future-of-ai-building-next-generation-chatbot-agents-with-microsoft-copilot-studio-c31)
 - [El origen de la historia](https://dev.to/juanmiguelar/el-origen-de-la-historia-1n4p)
-- [AI in Cybersecurity: When Robots Guard Your Wi-Fi ????️????](https://dev.to/aniruddhaadak/ai-in-cybersecurity-when-robots-guard-your-wi-fi--3dli)
-- [Depurando mi 2024: Una Retrospectiva de Desarrollador](https://dev.to/julio_andresmiguel_a499a/depurando-mi-2024-una-retrospectiva-de-desarrollador-56a1)
-- [Manage duplicates in your Bitwarden Vault with Python](https://dev.to/peterbenoit/manage-duplicates-in-your-bitwarden-vault-with-python-5f00)
 <!-- BLOG-POST-LIST:END -->
 
