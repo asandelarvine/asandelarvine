@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Human Writing in the Age of AI](https://dev.to/chemenggcalc/human-writing-in-the-age-of-ai-3dh3)
-- [Understanding JavaScript Immutability and Reference Types](https://dev.to/vishalkinikar/understanding-javascript-immutability-and-reference-types-34pj)
-- [OpenTofu module for spoke VPC with TGW](https://dev.to/cyber_gavin_038a51f0d5c30/opentofu-module-for-spoke-vpc-with-tgw-4k6a)
-- [My Journey as a React Developer Intern at The Entrepreneurship Network](https://dev.to/utkarshk/my-journey-as-a-react-developer-intern-at-the-entrepreneurship-network-14bc)
+- [&quot;Revolutionizing AR Collaboration: Explore the SARA Architecture Today!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-ar-collaboration-explore-the-sara-architecture-today-1181)
+- [Launched a web version Java Spring Framework, Spring Boot Web](https://dev.to/marcoatl/launched-a-web-version-java-spring-framework-spring-boot-web-llj)
+- [Git Checkout vs Git Switch: Why You Need to Break Up With Your Old Habits](https://dev.to/itxshakil/git-checkout-vs-git-switch-why-you-need-to-break-up-with-your-old-habits-558k)
+- [Behind the Aisles: The Essential Role of the Service Cart -Devlog#10](https://dev.to/khaisimon_devgame/behind-the-aisles-the-essential-role-of-the-service-cart-devlog10-2eke)
 <!-- BLOG-POST-LIST:END -->
 
