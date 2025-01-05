@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [“Effortlessly Convert Numbers to Words with Tafqeet.com: The Ultimate Multi-Language Tool”](https://dev.to/qaaiss/effortlessly-convert-numbers-to-words-with-tafqeetcom-the-ultimate-multi-language-tool-1ck0)
-- [Building Scalable LLM Applications with LangChain and Vector Databases](https://dev.to/virajlakshitha/building-scalable-llm-applications-with-langchain-and-vector-databases-21eh)
-- [Setting Up Themes in SSR React Applications](https://dev.to/maxh1t/setting-up-themes-in-ssr-react-applications-eem)
-- [Gen AI Developer Week 1 — Day 5](https://dev.to/saichinmayt/gen-ai-developer-week-1-day-5-1jo5)
+- [React Stack 2025](https://dev.to/seifzellaban/react-stack-2025-7g2)
+- [Rust: Keeping You Guessing](https://dev.to/crusty-rustacean/rust-keeping-you-guessing-bfj)
+- [My Experience with Node.js Version Compatibility: Leveraging the engines Field in package.json for AutoScout](https://dev.to/akramshekh/my-experience-with-nodejs-version-compatibility-leveraging-the-engines-field-in-packagejson-for-4j6a)
+- [🚀 My Journey into Web &amp; Software Development](https://dev.to/shamsuddin_hamdule/my-journey-into-web-software-development-ha9)
 <!-- BLOG-POST-LIST:END -->
 
