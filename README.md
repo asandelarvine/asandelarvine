@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Relational Database Design: DBMS](https://dev.to/harshm03/relational-database-design-dbms-1fbo)
-- [Create a Blogging Platform With No Backend &lpar;Zero Hosting Charge&rpar;](https://dev.to/shinjithdev/create-a-blogging-platform-with-no-backend-zero-hosting-fee-2eki)
-- [Why [4, 11, 2, 23].sort&lpar;&rpar; in JavaScript Isn’t What You Expect](https://dev.to/devmatsu/why-4-11-2-23sort-in-javascript-isnt-what-you-expect-4njl)
-- [Does anyone know someone who makes Discord bots for free, or where to find such a person?](https://dev.to/best_codes/does-anyone-know-someone-who-makes-discord-bots-for-free-or-where-to-find-such-a-person-5b8o)
+- [I took advantage of an error in the code of a dating app](https://dev.to/zeedu_dev/i-took-advantage-of-an-error-in-the-code-of-a-dating-app-3dkp)
+- [How to Install Node.js on Windows](https://dev.to/erasmuskotoka/how-to-install-nodejs-on-windows-1ngd)
+- [Mastering Image Uploads in Node.js: A Beginner-to-Advanced Guide with Multer and Cloudinary](https://dev.to/yugjadvani/mastering-image-uploads-in-nodejs-a-beginner-to-advanced-guide-with-multer-and-cloudinary-15j)
+- [Jira Configuration Made Easy: First Time Tips for New Project Managers!](https://dev.to/pro-project-mngr/jira-configuration-made-easy-first-time-tips-for-new-project-managers-3j6)
 <!-- BLOG-POST-LIST:END -->
 
