@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Exciting Web Trends to Watch in 2025](https://dev.to/biomathcode/10-exciting-web-trends-to-watch-in-2025-2cpk)
-- [Calculator](https://dev.to/raj_mlotra/calculator-5fac)
-- [Would anyone like to read short book summaries on DEV? Mostly about productivity and small snippets from what I like about Huberman Labs podcasts? Goal is to distill concepts of some books into actionable insights](https://dev.to/srbhr/would-anyone-like-to-read-short-book-summaries-on-dev-mostly-about-productivity-and-small-snippets-29o1)
-- [Which Programming Languages Are Being Used by Popular Streaming Services &lpar;Netflix, Apple TV, Amazon Prime, YouTube…&rpar;?](https://dev.to/emma_richardson/which-programming-languages-are-being-used-by-popular-streaming-services-netflix-apple-tv-amazon-41n1)
+- [Getting Started with Android Testing: Building Reliable Apps with Confidence](https://dev.to/sridharsubramani/getting-started-with-android-testing-building-reliable-apps-with-confidence-153m)
+- [I joined dev.to!](https://dev.to/muffakir_ibnhamid_338cde/i-joined-devto-490d)
+- [CKA Recap -- Deployment](https://dev.to/cheedge_lee/cka-recap-deployment-4950)
+- [How to Set Up OpenShift Local &lpar;CRC&rpar; on Ubuntu: A Developer&#39;s Guide](https://dev.to/khurammurad/how-to-set-up-openshift-local-crc-on-ubuntu-a-developers-guide-le2)
 <!-- BLOG-POST-LIST:END -->
 
