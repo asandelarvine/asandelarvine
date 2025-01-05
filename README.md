@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Stack 2025](https://dev.to/seifzellaban/react-stack-2025-7g2)
-- [Rust: Keeping You Guessing](https://dev.to/crusty-rustacean/rust-keeping-you-guessing-bfj)
-- [My Experience with Node.js Version Compatibility: Leveraging the engines Field in package.json for AutoScout](https://dev.to/akramshekh/my-experience-with-nodejs-version-compatibility-leveraging-the-engines-field-in-packagejson-for-4j6a)
-- [🚀 My Journey into Web &amp; Software Development](https://dev.to/shamsuddin_hamdule/my-journey-into-web-software-development-ha9)
+- [The Rise of AI-Powered Coding Assistants: How They&#39;re Changing Development in 2025](https://dev.to/rayan2228/the-rise-of-ai-powered-coding-assistants-how-theyre-changing-development-in-2025-5dhj)
+- [Día 4/365. Tipos de datos en Rust: Escalares y compuestos.](https://dev.to/rustarch/dia-4365-tipos-de-datos-en-rust-escalares-y-compuestos-3k11)
+- [Stop Coding Alone: A Wake-up Call.](https://dev.to/zipqt/stop-coding-alone-a-wake-up-call-16p5)
+- [Instalação do RKE2 em HA](https://dev.to/gutobrutus/instalacao-do-rke2-em-ha-1968)
 <!-- BLOG-POST-LIST:END -->
 
