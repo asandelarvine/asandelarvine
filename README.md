@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Eloquent ORM in Bangla Part-2 &lpar;Eloquent Model Conventions&rpar;](https://dev.to/sontus/laravel-eloquent-orm-in-bangla-part-2-eloquent-model-conventions-1jle)
-- [Path Manipulation in Laravel: Secure Your App from Vulnerabilities](https://dev.to/pentest_testing_corp/path-manipulation-in-laravel-secure-your-app-from-vulnerabilities-241a)
-- [Cookies, Local storage and Session storage](https://dev.to/thesanjeevsharma/cookies-local-storage-and-session-storage-1hkm)
-- [4 Easy Ways: Run Windows Terminal as Administrator With Elevated Permissions!](https://dev.to/winsides/4-easy-ways-run-windows-terminal-as-administrator-with-elevated-permissions-346b)
+- [Human Writing in the Age of AI](https://dev.to/chemenggcalc/human-writing-in-the-age-of-ai-3dh3)
+- [Understanding JavaScript Immutability and Reference Types](https://dev.to/vishalkinikar/understanding-javascript-immutability-and-reference-types-34pj)
+- [OpenTofu module for spoke VPC with TGW](https://dev.to/cyber_gavin_038a51f0d5c30/opentofu-module-for-spoke-vpc-with-tgw-4k6a)
+- [My Journey as a React Developer Intern at The Entrepreneurship Network](https://dev.to/utkarshk/my-journey-as-a-react-developer-intern-at-the-entrepreneurship-network-14bc)
 <!-- BLOG-POST-LIST:END -->
 
