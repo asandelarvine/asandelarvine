@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best JavaScript Frameworks 2025, Next.js vs Laravel, new developer tools and more](https://dev.to/thisweekinjavascript/best-javascript-frameworks-2025-nextjs-vs-laravel-new-developer-tools-and-more-58g)
-- [A Quick Guide to SQL Data Modification Commands with Examples](https://dev.to/luca1iu/a-quick-guide-to-sql-data-modification-commands-with-examples-3n0h)
-- [My 2024 Year in Review](https://dev.to/klesand/my-2024-year-in-review-14fp)
-- [[ASP.NET Core] Try reading a word processing file by OpenXML 2](https://dev.to/masanori_msl/aspnet-core-try-reading-a-word-processing-file-by-openxml-2-di5)
+- [Deploy an Express.js API on Vercel 🚀](https://dev.to/hajith_m/deploy-an-expressjs-api-on-vercel-173m)
+- [Deploying Taipy app in Render](https://dev.to/david001/deploying-taipy-app-in-render-56pf)
+- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3afg)
+- [The GOAT Ruby on Rails 8 is here - What&#39;s new?](https://dev.to/railsfactory/the-goat-ruby-on-rails-8-is-here-whats-new-449h)
 <!-- BLOG-POST-LIST:END -->
 
