@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash the Groove: How to Give GPT a Funky Personality!](https://dev.to/hdenizd/unleash-the-groove-how-to-give-gpt-a-funky-personality-4dk9)
-- [Lua as your favorite Programming Language](https://dev.to/if-els/lua-as-your-favorite-programming-language-2j92)
-- [The Web4 Revolution and the Future of Digital Identity with UI4](https://dev.to/web4/the-web4-revolution-and-the-future-of-digital-identity-with-ui4-4knl)
-- [7 Things I Love to Do for the Best User Experience](https://dev.to/web_dev-usman/7-things-i-love-to-do-for-the-best-user-experience-3gao)
+- [Exploring the AWS Journey Understanding Amazon EBS &lpar;Elastic Block Store&rpar;](https://dev.to/aws-builders/exploring-the-aws-journey-understanding-amazon-ebs-elastic-block-store-42pl)
+- [Permission-Based Authentication and Authorization in .NET, via Cookies](https://dev.to/tural_hasanov_11/permission-based-authentication-and-authorization-in-net-via-cookies-47fh)
+- [zsh: command not found: bun](https://dev.to/sibstark/zsh-command-not-found-bun-7n1)
+- [Creating M3U Playlists for xPola Player](https://dev.to/adama_bongado_a857dfff7ed/creating-m3u-playlists-for-xpola-player-1bd0)
 <!-- BLOG-POST-LIST:END -->
 
