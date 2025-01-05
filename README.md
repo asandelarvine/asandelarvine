@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Boosting LLM Integrity: The AFICE Framework Explained&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-llm-integrity-the-afice-framework-explained-33i3)
-- [Error message: Is the Docker daemon running?](https://dev.to/rimelek/error-message-is-the-docker-daemon-running-3l7c)
-- [Tài liệu: What is UML?](https://dev.to/hcmute_project_988df1c63c/tai-lieu-what-is-uml-39hn)
-- [From Notebook to Production: How Amazon SageMaker Simplifies Machine Learning Deployment](https://dev.to/nerdrx/from-notebook-to-production-how-amazon-sagemaker-simplifies-machine-learning-deployment-ncm)
+- [Best JavaScript Frameworks 2025, Next.js vs Laravel, new developer tools and more](https://dev.to/thisweekinjavascript/best-javascript-frameworks-2025-nextjs-vs-laravel-new-developer-tools-and-more-58g)
+- [A Quick Guide to SQL Data Modification Commands with Examples](https://dev.to/luca1iu/a-quick-guide-to-sql-data-modification-commands-with-examples-3n0h)
+- [My 2024 Year in Review](https://dev.to/klesand/my-2024-year-in-review-14fp)
+- [[ASP.NET Core] Try reading a word processing file by OpenXML 2](https://dev.to/masanori_msl/aspnet-core-try-reading-a-word-processing-file-by-openxml-2-di5)
 <!-- BLOG-POST-LIST:END -->
 
