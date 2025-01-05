@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy an Express.js API on Vercel 🚀](https://dev.to/hajith_m/deploy-an-expressjs-api-on-vercel-173m)
-- [Deploying Taipy app in Render](https://dev.to/david001/deploying-taipy-app-in-render-56pf)
-- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3afg)
-- [The GOAT Ruby on Rails 8 is here - What&#39;s new?](https://dev.to/railsfactory/the-goat-ruby-on-rails-8-is-here-whats-new-449h)
+- [Some thoughts on when to use LLMs](https://dev.to/matmooredev/some-thoughts-on-when-to-use-llms-3281)
+- [Lessons Learned from Implementing OAuth and Preparing for a Feature Release](https://dev.to/lovestaco/lessons-learned-from-implementing-oauth-and-preparing-for-a-feature-release-1c42)
+- [https://dev.to/oz/application-architecture-for-angular-project-4m0](https://dev.to/asdaian/httpsdevtoozapplication-architecture-for-angular-project-4m0-6cp)
+- [Managing Relationships, Migrations, and Performance Optimization in ASP.NET Core MVC](https://dev.to/sardarmudassaralikhan/managing-relationships-migrations-and-performance-optimization-in-aspnet-core-mvc-1pg)
 <!-- BLOG-POST-LIST:END -->
 
