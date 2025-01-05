@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing AR Collaboration: Explore the SARA Architecture Today!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-ar-collaboration-explore-the-sara-architecture-today-1181)
-- [Launched a web version Java Spring Framework, Spring Boot Web](https://dev.to/marcoatl/launched-a-web-version-java-spring-framework-spring-boot-web-llj)
-- [Git Checkout vs Git Switch: Why You Need to Break Up With Your Old Habits](https://dev.to/itxshakil/git-checkout-vs-git-switch-why-you-need-to-break-up-with-your-old-habits-558k)
-- [Behind the Aisles: The Essential Role of the Service Cart -Devlog#10](https://dev.to/khaisimon_devgame/behind-the-aisles-the-essential-role-of-the-service-cart-devlog10-2eke)
+- [7 Things I Love to Do for the Best User Experience](https://dev.to/web_dev-usman/7-things-i-love-to-do-for-the-best-user-experience-3gao)
+- [List.of&lpar;&rpar; vs Arrays.asList&lpar;&rpar; in java](https://dev.to/realnamehidden1_61/listof-vs-arraysaslist-in-java-2jlg)
+- [@PreConstruct and @PostConstruct annotation Spring Boot Example](https://dev.to/realnamehidden1_61/preconstruct-and-postconstruct-annotation-spring-boot-example-4a66)
+- [What are Sprunki Games?](https://dev.to/recondart/what-are-sprunki-games-55po)
 <!-- BLOG-POST-LIST:END -->
 
