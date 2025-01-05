@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I took advantage of an error in the code of a dating app](https://dev.to/zeedu_dev/i-took-advantage-of-an-error-in-the-code-of-a-dating-app-3dkp)
-- [How to Install Node.js on Windows](https://dev.to/erasmuskotoka/how-to-install-nodejs-on-windows-1ngd)
-- [Mastering Image Uploads in Node.js: A Beginner-to-Advanced Guide with Multer and Cloudinary](https://dev.to/yugjadvani/mastering-image-uploads-in-nodejs-a-beginner-to-advanced-guide-with-multer-and-cloudinary-15j)
-- [Jira Configuration Made Easy: First Time Tips for New Project Managers!](https://dev.to/pro-project-mngr/jira-configuration-made-easy-first-time-tips-for-new-project-managers-3j6)
+- [“Effortlessly Convert Numbers to Words with Tafqeet.com: The Ultimate Multi-Language Tool”](https://dev.to/qaaiss/effortlessly-convert-numbers-to-words-with-tafqeetcom-the-ultimate-multi-language-tool-1ck0)
+- [Building Scalable LLM Applications with LangChain and Vector Databases](https://dev.to/virajlakshitha/building-scalable-llm-applications-with-langchain-and-vector-databases-21eh)
+- [Setting Up Themes in SSR React Applications](https://dev.to/maxh1t/setting-up-themes-in-ssr-react-applications-eem)
+- [Gen AI Developer Week 1 — Day 5](https://dev.to/saichinmayt/gen-ai-developer-week-1-day-5-1jo5)
 <!-- BLOG-POST-LIST:END -->
 
