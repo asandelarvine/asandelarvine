@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash the Groove: How to Give GPT a Funky Personality!](https://dev.to/hdenizd/unleash-the-groove-how-to-give-gpt-a-funky-personality-4dk9)
+- [Lua as your favorite Programming Language](https://dev.to/if-els/lua-as-your-favorite-programming-language-2j92)
+- [The Web4 Revolution and the Future of Digital Identity with UI4](https://dev.to/web4/the-web4-revolution-and-the-future-of-digital-identity-with-ui4-4knl)
 - [7 Things I Love to Do for the Best User Experience](https://dev.to/web_dev-usman/7-things-i-love-to-do-for-the-best-user-experience-3gao)
-- [List.of&lpar;&rpar; vs Arrays.asList&lpar;&rpar; in java](https://dev.to/realnamehidden1_61/listof-vs-arraysaslist-in-java-2jlg)
-- [@PreConstruct and @PostConstruct annotation Spring Boot Example](https://dev.to/realnamehidden1_61/preconstruct-and-postconstruct-annotation-spring-boot-example-4a66)
-- [What are Sprunki Games?](https://dev.to/recondart/what-are-sprunki-games-55po)
 <!-- BLOG-POST-LIST:END -->
 
