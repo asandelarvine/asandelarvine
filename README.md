@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Android Testing: Building Reliable Apps with Confidence](https://dev.to/sridharsubramani/getting-started-with-android-testing-building-reliable-apps-with-confidence-153m)
-- [I joined dev.to!](https://dev.to/muffakir_ibnhamid_338cde/i-joined-devto-490d)
-- [CKA Recap -- Deployment](https://dev.to/cheedge_lee/cka-recap-deployment-4950)
-- [How to Set Up OpenShift Local &lpar;CRC&rpar; on Ubuntu: A Developer&#39;s Guide](https://dev.to/khurammurad/how-to-set-up-openshift-local-crc-on-ubuntu-a-developers-guide-le2)
+- [&quot;Boosting LLM Integrity: The AFICE Framework Explained&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-llm-integrity-the-afice-framework-explained-33i3)
+- [Error message: Is the Docker daemon running?](https://dev.to/rimelek/error-message-is-the-docker-daemon-running-3l7c)
+- [Tài liệu: What is UML?](https://dev.to/hcmute_project_988df1c63c/tai-lieu-what-is-uml-39hn)
+- [From Notebook to Production: How Amazon SageMaker Simplifies Machine Learning Deployment](https://dev.to/nerdrx/from-notebook-to-production-how-amazon-sagemaker-simplifies-machine-learning-deployment-ncm)
 <!-- BLOG-POST-LIST:END -->
 
