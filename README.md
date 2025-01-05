@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Frequent Problem in Legacy System Maintenance](https://dev.to/gabrielvileladev/a-frequent-problem-in-legacy-system-maintenance-2j76)
-- [Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️](https://dev.to/lorenzo_tettamanti/kubernetes-explained-understanding-the-key-components-driving-modern-infrastructure-4eef)
-- [Auto-Instrumentação com OpenTelemetry no EKS [Lab Session]](https://dev.to/aws-builders/auto-instrumentacao-com-opentelemetry-no-eks-lab-session-n5p)
-- [Curso gratuito de Typescript 2025](https://dev.to/portugues/curso-gratuito-de-typescript-2025-5b3c)
+- [I was using Tailwind wrong, so you don&#39;t have to](https://dev.to/aloisseckar/i-was-using-tailwind-wrong-so-you-dont-have-to-4h7j)
+- [How to Build and Manage Virtual Machines Using Proxmox CLI: A Step-by-Step Guide](https://dev.to/sebos/how-to-build-and-manage-virtual-machines-using-proxmox-cli-a-step-by-step-guide-5926)
+- [Searching for a Word](https://dev.to/alterum89/searching-for-a-word-1kk8)
+- [SpringBoot Web Service - Part 5 - Github Action](https://dev.to/vlaship/springboot-web-service-part-5-github-action-12nb)
 <!-- BLOG-POST-LIST:END -->
 
