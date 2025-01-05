@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Some thoughts on when to use LLMs](https://dev.to/matmooredev/some-thoughts-on-when-to-use-llms-3281)
-- [Lessons Learned from Implementing OAuth and Preparing for a Feature Release](https://dev.to/lovestaco/lessons-learned-from-implementing-oauth-and-preparing-for-a-feature-release-1c42)
-- [https://dev.to/oz/application-architecture-for-angular-project-4m0](https://dev.to/asdaian/httpsdevtoozapplication-architecture-for-angular-project-4m0-6cp)
-- [Managing Relationships, Migrations, and Performance Optimization in ASP.NET Core MVC](https://dev.to/sardarmudassaralikhan/managing-relationships-migrations-and-performance-optimization-in-aspnet-core-mvc-1pg)
+- [A Frequent Problem in Legacy System Maintenance](https://dev.to/gabrielvileladev/a-frequent-problem-in-legacy-system-maintenance-2j76)
+- [Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️](https://dev.to/lorenzo_tettamanti/kubernetes-explained-understanding-the-key-components-driving-modern-infrastructure-4eef)
+- [Auto-Instrumentação com OpenTelemetry no EKS [Lab Session]](https://dev.to/aws-builders/auto-instrumentacao-com-opentelemetry-no-eks-lab-session-n5p)
+- [Curso gratuito de Typescript 2025](https://dev.to/portugues/curso-gratuito-de-typescript-2025-5b3c)
 <!-- BLOG-POST-LIST:END -->
 
