@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the AWS Journey Understanding Amazon EBS &lpar;Elastic Block Store&rpar;](https://dev.to/aws-builders/exploring-the-aws-journey-understanding-amazon-ebs-elastic-block-store-42pl)
-- [Permission-Based Authentication and Authorization in .NET, via Cookies](https://dev.to/tural_hasanov_11/permission-based-authentication-and-authorization-in-net-via-cookies-47fh)
-- [zsh: command not found: bun](https://dev.to/sibstark/zsh-command-not-found-bun-7n1)
-- [Creating M3U Playlists for xPola Player](https://dev.to/adama_bongado_a857dfff7ed/creating-m3u-playlists-for-xpola-player-1bd0)
+- [Tracing a method call in Ruby](https://dev.to/wetterkrank/tracing-a-method-call-1dgd)
+- [🚀 Understanding Event-Driven Architecture: A Guide for Backend Developers 🛠️](https://dev.to/hamzakhan/understanding-event-driven-architecture-a-guide-for-backend-developers-3bne)
+- [The Impact of Infrastructure Automation part 1](https://dev.to/574n13y/the-impact-of-infrastructure-automation-2n24)
+- [Dev Next a job platform built with Next.js, Tailwind CSS, Prisma, and NextAuth](https://dev.to/saidmounaim/dev-next-a-job-platform-built-with-nextjs-tailwind-css-prisma-and-nextauth-4ni7)
 <!-- BLOG-POST-LIST:END -->
 
