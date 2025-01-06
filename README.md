@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Business Analyst Interview Questions](https://dev.to/siva_velu_b39044a1dd3b732/common-business-analyst-interview-questions-1keh)
-- [Create an auto-merging workflow on Github](https://dev.to/stroiman/create-an-auto-merging-workflow-on-github-joj)
-- [Revolutionizing Fire Safety: How AI Fire and Smoke Detection Software is Changing the Game](https://dev.to/chandrus/revolutionizing-fire-safety-how-ai-fire-and-smoke-detection-software-is-changing-the-game-1nhl)
-- [Learn Coding with CopilotKit: A Revolutionary Approach to Mastering Programming](https://dev.to/aryprogrammer/learn-coding-with-copilotkit-a-revolutionary-approach-to-mastering-programming-3nlh)
+- [Mastering Keyword Research: How to Tailor Your Content for Search Engines and Boost Rankings](https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-keyword-research-how-to-tailor-your-content-for-search-engines-and-boost-rankings-15ip)
+- [Beneficios de registrar dominios con Amazon Route 53](https://dev.to/briansuarezsantiago/beneficios-de-registrar-dominios-con-amazon-route-53-1p59)
+- [Job Application Automation: Is it Safe and Ethical?](https://dev.to/codev206/job-application-automation-is-it-safe-and-ethical-5gbl)
+- [Twelve Books I’ve read in 2024 as a Product Team Technical Leader](https://dev.to/sazonov/twelve-books-ive-read-in-2024-as-a-product-team-technical-leader-4eal)
 <!-- BLOG-POST-LIST:END -->
 
