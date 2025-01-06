@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Keyword Research: How to Tailor Your Content for Search Engines and Boost Rankings](https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-keyword-research-how-to-tailor-your-content-for-search-engines-and-boost-rankings-15ip)
-- [Beneficios de registrar dominios con Amazon Route 53](https://dev.to/briansuarezsantiago/beneficios-de-registrar-dominios-con-amazon-route-53-1p59)
-- [Job Application Automation: Is it Safe and Ethical?](https://dev.to/codev206/job-application-automation-is-it-safe-and-ethical-5gbl)
-- [Twelve Books I’ve read in 2024 as a Product Team Technical Leader](https://dev.to/sazonov/twelve-books-ive-read-in-2024-as-a-product-team-technical-leader-4eal)
+- [Hono.js: The Next-Gen Node.js Framework](https://dev.to/leapcell/honojs-the-next-gen-nodejs-framework-hln)
+- [🚀 API Maker : Release Notes for v1.9.0](https://dev.to/apimaker/api-maker-release-notes-for-v190-1dli)
+- [10/10. Would Route Again!](https://dev.to/mike-vincent/1010-would-route-again-4dpe)
+- [&quot;From Networks to Cloud Computing: My Tech Journey&quot;](https://dev.to/phenomena_ekuss_c2bd80894/from-networks-to-cloud-computing-my-tech-journey-2fhd)
 <!-- BLOG-POST-LIST:END -->
 
