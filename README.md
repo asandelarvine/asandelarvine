@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing DorkHub: A Comprehensive Collection of Google Dorks for Security Researchers](https://dev.to/trixsec/introducing-dorkhub-a-comprehensive-collection-of-google-dorks-for-security-researchers-52ke)
-- [Simplify Content Management with spurtCMS Powerful and Flexible](https://dev.to/manavbhati25/simplify-content-management-with-spurtcms-powerful-and-flexible-50ij)
-- [The Rise of Blockchain in Agriculture and Food Supply Chains](https://dev.to/manavbhati25/the-rise-of-blockchain-in-agriculture-and-food-supply-chains-bki)
-- [365 Days of DevSecOps and SRE](https://dev.to/sremastery/365-days-of-devsecops-and-sre-3465)
+- [What I learned building vue3-search-select package](https://dev.to/adetolaaremu/what-i-learned-building-vue3-search-select-package-5pd)
+- [How to train a LLaMA model using my database to answer analytical questions about the data?](https://dev.to/ayman_salah_03dd379e468cc/how-to-train-a-llama-model-using-my-database-to-answer-analytical-questions-about-the-data-13mj)
+- [The Future of DevOps: How AI is Shaping Infrastructure Management](https://dev.to/rubixkube/the-future-of-devops-how-ai-is-shaping-infrastructure-management-3b95)
+- [Unlock Laravel Code Generation &lpar;Part 3&rpar;: Automating Validation from Your Database Schema 🤯🚀](https://dev.to/adriancolom/unlock-laravel-code-generation-part-3-automating-validation-from-your-database-schema-2fk8)
 <!-- BLOG-POST-LIST:END -->
 
