@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hono.js: The Next-Gen Node.js Framework](https://dev.to/leapcell/honojs-the-next-gen-nodejs-framework-hln)
-- [🚀 API Maker : Release Notes for v1.9.0](https://dev.to/apimaker/api-maker-release-notes-for-v190-1dli)
-- [10/10. Would Route Again!](https://dev.to/mike-vincent/1010-would-route-again-4dpe)
-- [&quot;From Networks to Cloud Computing: My Tech Journey&quot;](https://dev.to/phenomena_ekuss_c2bd80894/from-networks-to-cloud-computing-my-tech-journey-2fhd)
+- [Installing Fedora the RIGHT way.](https://dev.to/tazim_esaf/installing-fedora-the-right-way-1j2f)
+- [[Boost]](https://dev.to/leonardorafaeldev/-1l03)
+- [Install Redis Locally in Windows](https://dev.to/sachingeek/install-redis-locally-in-windows-50mk)
+- [Navigating IT Support: Key Models for Modern Businesses](https://dev.to/content/navigating-it-support-key-models-for-modern-businesses-1d66)
 <!-- BLOG-POST-LIST:END -->
 
