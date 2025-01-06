@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Give your app a modern look with FxPopup](https://dev.to/victor_hugogasparquinn_/give-your-app-a-modern-look-with-fxpopup-3oab)
-- [What is GCHandle in C#? &lpar;Part 1&rpar;](https://dev.to/arminshoeibi/what-is-gchandle-in-c-part-1-243j)
-- [7 Essential CSS3 Tips and Tricks Every Developer Should Know](https://dev.to/bkthemes/7-essential-css3-tips-and-tricks-every-developer-should-know-gfl)
-- [MiniProject — Detect Faces by Using AWS Rekognition!](https://dev.to/kamalpreet_kaur_cb7c84299/miniproject-detect-faces-by-using-aws-rekognition-f3b)
+- [Pointers in C++: Memory Management, Arrays, and Smart Pointers](https://dev.to/alex_ricciardi/pointers-in-c-memory-management-arrays-and-smart-pointers-50ia)
+- [Codewars - Delete occurrences of an element if it occurs more than n times](https://dev.to/dantedinopegassi/codewars-delete-occurrences-of-an-element-if-it-occurs-more-than-n-times-2g9g)
+- [Building Serverless APIS with Serverless,Node.js, Typescript, DynamoDB, and Lambda.](https://dev.to/oladele_omoarukhe_9c700bf/building-serverless-apis-with-serverlessnodejs-typescript-dynamodb-and-lambda-54ni)
+- [Inheritance and Polymorphism in Java: Using Superclasses and Subclasses](https://dev.to/alex_ricciardi/inheritance-and-polymorphism-in-java-using-superclasses-and-subclasses-12jn)
 <!-- BLOG-POST-LIST:END -->
 
