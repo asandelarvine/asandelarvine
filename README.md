@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned building vue3-search-select package](https://dev.to/adetolaaremu/what-i-learned-building-vue3-search-select-package-5pd)
-- [How to train a LLaMA model using my database to answer analytical questions about the data?](https://dev.to/ayman_salah_03dd379e468cc/how-to-train-a-llama-model-using-my-database-to-answer-analytical-questions-about-the-data-13mj)
-- [The Future of DevOps: How AI is Shaping Infrastructure Management](https://dev.to/rubixkube/the-future-of-devops-how-ai-is-shaping-infrastructure-management-3b95)
-- [Unlock Laravel Code Generation &lpar;Part 3&rpar;: Automating Validation from Your Database Schema 🤯🚀](https://dev.to/adriancolom/unlock-laravel-code-generation-part-3-automating-validation-from-your-database-schema-2fk8)
+- [LINQ First and FirstOrDefault Methods in C#](https://dev.to/dianaiminza/linq-first-and-firstordefault-methods-in-c-o4c)
+- [How to Connect a DSP with an Amplifier](https://dev.to/carolineee/how-to-connect-a-dsp-with-an-amplifier-11m7)
+- [2025, Please, Be Gentle](https://dev.to/eevajonnapanula/2025-please-be-gentle-289e)
+- [5 Must-Try Trending UI Component Libraries to Enhance Your Web Design in 2025](https://dev.to/web_dev-usman/5-must-try-trending-ui-component-libraries-to-enhance-your-web-design-in-2025-3k1c)
 <!-- BLOG-POST-LIST:END -->
 
