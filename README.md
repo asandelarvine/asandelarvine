@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the XOR Operator: A Powerful Tool in Computing](https://dev.to/mspilari/understanding-the-xor-operator-a-powerful-tool-in-computing-1517)
-- [Stop Using Local State for Filters — Here is why](https://dev.to/stephengade/stop-using-local-state-for-filters-here-is-why-5hgd)
-- [Develop a ulauncher extension with a command database](https://dev.to/ubuntupunk/develop-a-ulauncher-extension-with-a-command-database-55l6)
-- [What is the Diuwin Color Prediction App?](https://dev.to/recondart/what-is-the-diuwin-color-prediction-app-3j34)
+- [Common Business Analyst Interview Questions](https://dev.to/siva_velu_b39044a1dd3b732/common-business-analyst-interview-questions-1keh)
+- [Create an auto-merging workflow on Github](https://dev.to/stroiman/create-an-auto-merging-workflow-on-github-joj)
+- [Revolutionizing Fire Safety: How AI Fire and Smoke Detection Software is Changing the Game](https://dev.to/chandrus/revolutionizing-fire-safety-how-ai-fire-and-smoke-detection-software-is-changing-the-game-1nhl)
+- [Learn Coding with CopilotKit: A Revolutionary Approach to Mastering Programming](https://dev.to/aryprogrammer/learn-coding-with-copilotkit-a-revolutionary-approach-to-mastering-programming-3nlh)
 <!-- BLOG-POST-LIST:END -->
 
