@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LINQ First and FirstOrDefault Methods in C#](https://dev.to/dianaiminza/linq-first-and-firstordefault-methods-in-c-o4c)
-- [How to Connect a DSP with an Amplifier](https://dev.to/carolineee/how-to-connect-a-dsp-with-an-amplifier-11m7)
-- [2025, Please, Be Gentle](https://dev.to/eevajonnapanula/2025-please-be-gentle-289e)
-- [5 Must-Try Trending UI Component Libraries to Enhance Your Web Design in 2025](https://dev.to/web_dev-usman/5-must-try-trending-ui-component-libraries-to-enhance-your-web-design-in-2025-3k1c)
+- [Learning API Requests with GUI client - The easy way🚀🚀](https://dev.to/fallon_jimmy/learning-api-requests-with-gui-client-the-easy-way-1l2j)
+- [🔍 Mastering the Sliding Window Technique: A Developer&#39;s Guide](https://dev.to/rahulgithubweb/mastering-the-sliding-window-technique-a-developers-guide-1gg6)
+- [&quot;Different Types of CSS Selectors”](https://dev.to/mahiamomo/different-types-of-css-selectors-3k5i)
+- [Maximizing Productivity: The Benefits of Planning Your Day as a Software Engineer](https://dev.to/bobby_the_creatr/maximizing-productivity-the-benefits-of-planning-your-day-as-a-software-engineer-3ma5)
 <!-- BLOG-POST-LIST:END -->
 
