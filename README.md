@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Día 6/365. Control de flujo: if, else, y expresiones.](https://dev.to/rustarch/dia-6365-control-de-flujo-if-else-y-expresiones-37d4)
-- [Oh, and before I get carried away—Hi! I am mary😁, a software engineer with a passion for crafting beautiful designs and websites. Lately, I have started writing on dev.to weekly, sharing my experiences while soaking up wisdom from this amazing community.](https://dev.to/mary_willson_c7350920124b/oh-and-before-i-get-carried-away-hi-i-am-ravin-a-software-engineer-with-a-passion-for-crafting-3267)
-- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-734)
-- [Running PostgreSQL, MongoDB, and NestJS concurrently with Docker Compose](https://dev.to/javascriptar/running-postgresql-mongodb-and-nestjs-concurrently-with-docker-compose-d6g)
+- [How Do You Organize the Frontend Architecture?](https://dev.to/m_midas/how-do-you-organize-the-frontend-architecture-3m0p)
+- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-54il)
+- [Front-End is Becoming Obsolete](https://dev.to/elanatframework/front-end-is-becoming-obsolete-f85)
+- [The Building Blocks of Python: Variables, I/O, and Operators](https://dev.to/iftakher_hossen/the-building-blocks-of-python-variables-io-and-operators-2fli)
 <!-- BLOG-POST-LIST:END -->
 
