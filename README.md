@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning API Requests with GUI client - The easy way🚀🚀](https://dev.to/fallon_jimmy/learning-api-requests-with-gui-client-the-easy-way-1l2j)
-- [🔍 Mastering the Sliding Window Technique: A Developer&#39;s Guide](https://dev.to/rahulgithubweb/mastering-the-sliding-window-technique-a-developers-guide-1gg6)
-- [&quot;Different Types of CSS Selectors”](https://dev.to/mahiamomo/different-types-of-css-selectors-3k5i)
-- [Maximizing Productivity: The Benefits of Planning Your Day as a Software Engineer](https://dev.to/bobby_the_creatr/maximizing-productivity-the-benefits-of-planning-your-day-as-a-software-engineer-3ma5)
+- [Understanding Proof of Stake in Blockchain Technology](https://dev.to/blessedtechnologist/understanding-proof-of-stake-in-blockchain-technology-54ln)
+- [How to apply SRP &lpar;Single Responsibility Principle&rpar; in Kotlin + Spring Boot project](https://dev.to/mikhailepatko/how-to-apply-srp-single-responsibility-principle-in-kotlin-spring-boot-project-23c9)
+- [Mastering Rust&#39;s Concurrency: A Guide to Safe and Efficient Multithreading](https://dev.to/aaravjoshi/mastering-rusts-concurrency-a-guide-to-safe-and-efficient-multithreading-5cea)
+- [How to oAuth2 Code Flow in Tanstack Start](https://dev.to/moncapitaine/how-to-oauth2-code-flow-in-tanstack-start-4ne3)
 <!-- BLOG-POST-LIST:END -->
 
