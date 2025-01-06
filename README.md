@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pointers in C++: Memory Management, Arrays, and Smart Pointers](https://dev.to/alex_ricciardi/pointers-in-c-memory-management-arrays-and-smart-pointers-50ia)
-- [Codewars - Delete occurrences of an element if it occurs more than n times](https://dev.to/dantedinopegassi/codewars-delete-occurrences-of-an-element-if-it-occurs-more-than-n-times-2g9g)
-- [Building Serverless APIS with Serverless,Node.js, Typescript, DynamoDB, and Lambda.](https://dev.to/oladele_omoarukhe_9c700bf/building-serverless-apis-with-serverlessnodejs-typescript-dynamodb-and-lambda-54ni)
-- [Inheritance and Polymorphism in Java: Using Superclasses and Subclasses](https://dev.to/alex_ricciardi/inheritance-and-polymorphism-in-java-using-superclasses-and-subclasses-12jn)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar;: A Comprehensive Guide](https://dev.to/itanand_/amazon-virtual-private-cloud-vpc-a-comprehensive-guide-1hh)
+- [[Boost]](https://dev.to/nghihua/-19k8)
+- [[PLS HELP] Terrain Issues Unity](https://dev.to/nucleardev/pls-help-terrain-issues-unity-4gfp)
+- [Amazon EC2: A Comprehensive Guide 🚀](https://dev.to/itanand_/amazon-ec2-a-comprehensive-guide-56el)
 <!-- BLOG-POST-LIST:END -->
 
