@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Driven Penetration Testing Tool.](https://dev.to/profm0r1arty/building-an-ai-driven-penetration-testing-tool-1o2n)
-- [Learning some Fantomas AST](https://dev.to/jkone27/learning-some-fantomas-ast-2e5i)
-- [Java Can Be Serverless Too: Using GraalVM for Fast Cold Starts](https://dev.to/gruxer/java-can-be-serverless-too-using-graalvm-for-fast-cold-starts-2gd4)
-- [After my brother&#39;s death due to a sudden heart attack, Baba asked my sister-in-law to marry my elder brother, but my sister-in-law worried about me, because I was young, I immediately refused, but still the marriage was arranged. I hated my sister-in-law,](https://dev.to/quiz_niva_685bc49a3c06d75/after-my-brothers-death-due-to-a-sudden-heart-attack-baba-asked-my-sister-in-law-to-marry-my-2a1d)
+- [Why We Built Meseji: Helping You Ace Communication at Every Level](https://dev.to/theakashshukla/why-we-built-meseji-helping-you-ace-communication-at-every-level-4obf)
+- [New to Programming](https://dev.to/nbenduse/new-to-programming-40lc)
+- [Journey Developing an Obsidian Plugin Part 2 - Improving the Architecture, Basic Error Handling and more!](https://dev.to/bjarnerentz/journey-developing-an-obsidian-plugin-part-2-improving-the-architecture-basic-error-handling-and-5aa6)
+- [Day 1 of My 30-Day DevOps Challenge: Building a Cloud-Powered Weather Dashboard ☁️🌍](https://dev.to/onetayjones/day-1-of-my-30-day-devops-challenge-building-a-cloud-powered-weather-dashboard-3h55)
 <!-- BLOG-POST-LIST:END -->
 
