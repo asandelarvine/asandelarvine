@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar;: A Comprehensive Guide](https://dev.to/itanand_/amazon-virtual-private-cloud-vpc-a-comprehensive-guide-1hh)
-- [[Boost]](https://dev.to/nghihua/-19k8)
-- [[PLS HELP] Terrain Issues Unity](https://dev.to/nucleardev/pls-help-terrain-issues-unity-4gfp)
-- [Amazon EC2: A Comprehensive Guide 🚀](https://dev.to/itanand_/amazon-ec2-a-comprehensive-guide-56el)
+- [2025 Technology Forecast 🔮](https://dev.to/async_dime/2025-technology-forecast-224f)
+- [Reflecting on My Journey Through 2024 🌟](https://dev.to/hirushi_nethmini_41168bb8/reflecting-on-my-journey-through-2024-1ajp)
+- [Exploring Angular v19 Resource API](https://dev.to/nhannguyendevjs/exploring-angular-v19-resource-api-2k89)
+- [Solving the Logistics Puzzle: How Geospatial Data Visualization Optimizes Delivery and Transportation](https://dev.to/duyhoabhsoft/solving-the-logistics-puzzle-how-geospatial-data-visualization-optimizes-delivery-and-4fa6)
 <!-- BLOG-POST-LIST:END -->
 
