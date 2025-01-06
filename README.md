@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Technology Forecast 🔮](https://dev.to/async_dime/2025-technology-forecast-224f)
-- [Reflecting on My Journey Through 2024 🌟](https://dev.to/hirushi_nethmini_41168bb8/reflecting-on-my-journey-through-2024-1ajp)
-- [Exploring Angular v19 Resource API](https://dev.to/nhannguyendevjs/exploring-angular-v19-resource-api-2k89)
-- [Solving the Logistics Puzzle: How Geospatial Data Visualization Optimizes Delivery and Transportation](https://dev.to/duyhoabhsoft/solving-the-logistics-puzzle-how-geospatial-data-visualization-optimizes-delivery-and-4fa6)
+- [Automating Logic Apps Connections to Dynamics 365 Using Bicep](https://dev.to/umeshtharukaofficial/automating-logic-apps-connections-to-dynamics-365-using-bicep-4250)
+- [How to develop a Optical Design Software like zemax or codev](https://dev.to/zhu_co/how-to-develop-a-optical-design-software-like-zemax-or-codev-1pfn)
+- [Visualize TypeScript Dependencies of Changed Files in a Pull Request Using dependency-cruiser-report-action](https://dev.to/mh4gf/visualize-typescript-dependencies-of-changed-files-in-a-pull-request-using-127j)
+- [📦 How to Create, Publish, and Maintain a Node.js Package &lpar;in JavaScript and TypeScript&rpar;](https://dev.to/sweetpapa/how-to-create-publish-and-maintain-a-nodejs-package-in-javascript-and-typescript-3jgn)
 <!-- BLOG-POST-LIST:END -->
 
