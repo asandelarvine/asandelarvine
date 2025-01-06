@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta programming with Ruby Eval: A guide &lpar;Part 2&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-2-5256)
-- [My 2024 in Review—And My Most Read Posts](https://dev.to/canro91/my-2024-in-review-and-my-most-read-posts-gc)
-- [Meta programming with Ruby Eval: A guide &lpar;Part 1&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-1-3ndn)
-- [Crea diagramas de AWS de manera gratuita con Draw.io](https://dev.to/cpazro/crea-diagramas-de-aws-de-manera-gratuita-con-drawio-2987)
+- [Introducing DorkHub: A Comprehensive Collection of Google Dorks for Security Researchers](https://dev.to/trixsec/introducing-dorkhub-a-comprehensive-collection-of-google-dorks-for-security-researchers-52ke)
+- [Simplify Content Management with spurtCMS Powerful and Flexible](https://dev.to/manavbhati25/simplify-content-management-with-spurtcms-powerful-and-flexible-50ij)
+- [The Rise of Blockchain in Agriculture and Food Supply Chains](https://dev.to/manavbhati25/the-rise-of-blockchain-in-agriculture-and-food-supply-chains-bki)
+- [365 Days of DevSecOps and SRE](https://dev.to/sremastery/365-days-of-devsecops-and-sre-3465)
 <!-- BLOG-POST-LIST:END -->
 
