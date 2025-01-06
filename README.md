@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built Meseji: Helping You Ace Communication at Every Level](https://dev.to/theakashshukla/why-we-built-meseji-helping-you-ace-communication-at-every-level-4obf)
-- [New to Programming](https://dev.to/nbenduse/new-to-programming-40lc)
-- [Journey Developing an Obsidian Plugin Part 2 - Improving the Architecture, Basic Error Handling and more!](https://dev.to/bjarnerentz/journey-developing-an-obsidian-plugin-part-2-improving-the-architecture-basic-error-handling-and-5aa6)
-- [Day 1 of My 30-Day DevOps Challenge: Building a Cloud-Powered Weather Dashboard ☁️🌍](https://dev.to/onetayjones/day-1-of-my-30-day-devops-challenge-building-a-cloud-powered-weather-dashboard-3h55)
+- [Introducing API Endpoint Search at Scale &lpar;via LiveAPI&rpar;](https://dev.to/shrsv/introducing-api-endpoint-search-at-scale-via-liveapi-33d7)
+- [A dev&#39;s Groundhog Day](https://dev.to/hotfixhero/a-devs-groundhog-day-2ip2)
+- [Git avanzado: ¿Qué es cherry pick? 🍒](https://dev.to/duxtech/git-avanzado-que-es-cherry-pick-2m4g)
+- [My self and goal.](https://dev.to/yugo_matsuda/my-self-and-goal-1o4)
 <!-- BLOG-POST-LIST:END -->
 
