@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Fedora the RIGHT way.](https://dev.to/tazim_esaf/installing-fedora-the-right-way-1j2f)
-- [[Boost]](https://dev.to/leonardorafaeldev/-1l03)
-- [Install Redis Locally in Windows](https://dev.to/sachingeek/install-redis-locally-in-windows-50mk)
-- [Navigating IT Support: Key Models for Modern Businesses](https://dev.to/content/navigating-it-support-key-models-for-modern-businesses-1d66)
+- [Productivity and Organization Tips for Software Engineers](https://dev.to/thawkin3/productivity-and-organization-tips-for-software-engineers-31ij)
+- [Building a multi-lingual web app with Nuxt 3 and Nuxt i18n](https://dev.to/logrocket/building-a-multi-lingual-web-app-with-nuxt-3-and-nuxt-i18n-7f2)
+- [Introducing Supabase Client Playground: The Ultimate Tool for Streamlined Query Testing](https://dev.to/ismaeljtl/introducing-supabase-client-playground-the-ultimate-tool-for-streamlined-query-testing-5efd)
+- [How to Host Multiple Next.js Applications on a Single AWS ECR Instance Using Kamal 2.4](https://dev.to/derick1530/how-to-host-multiple-nextjs-applications-on-a-single-aws-ecr-instance-using-kamal-24-3cn3)
 <!-- BLOG-POST-LIST:END -->
 
