@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Data Loss Scenarios &amp; Solutions in Prisma Schema Changes](https://dev.to/vatul16/common-data-loss-scenarios-solutions-in-prisma-schema-changes-52id)
-- [Steps to Add Pagination to Your React TypeScript Project](https://dev.to/rinkaku_ebe4e8e9933e0c269/steps-to-add-pagination-to-your-react-typescript-project-jm4)
-- [Test Strategies for Software Development](https://dev.to/keploy/test-strategies-for-software-development-5ef1)
-- [12 CSS resources you may not know about ... 🔎 🧐](https://dev.to/gilles_vauvarin_861cefba1/12-css-resources-you-may-not-know-about--4ib7)
+- [AWS Security Case Studies: Lessons from the Field](https://dev.to/ikoh_sylva/aws-security-case-studies-lessons-from-the-field-3mci)
+- [Steps to manipulating MongoDB with AI](https://dev.to/hackmamba/steps-to-manipulating-mongodb-with-ai-175i)
+- [Been thinking to create a Text-to-Video Ai](https://dev.to/almancidiqui/been-thinking-to-create-a-text-to-video-ai-3b6d)
+- [Swiftide 0.16 brings AI agents to Rust](https://dev.to/timonv/swiftide-016-brings-ai-agents-to-rust-3o17)
 <!-- BLOG-POST-LIST:END -->
 
