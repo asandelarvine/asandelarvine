@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Security Case Studies: Lessons from the Field](https://dev.to/ikoh_sylva/aws-security-case-studies-lessons-from-the-field-3mci)
-- [Steps to manipulating MongoDB with AI](https://dev.to/hackmamba/steps-to-manipulating-mongodb-with-ai-175i)
-- [Been thinking to create a Text-to-Video Ai](https://dev.to/almancidiqui/been-thinking-to-create-a-text-to-video-ai-3b6d)
-- [Swiftide 0.16 brings AI agents to Rust](https://dev.to/timonv/swiftide-016-brings-ai-agents-to-rust-3o17)
+- [Good post as always from Ryan](https://dev.to/ben/good-post-as-always-from-ryan-3mpf)
+- [7th January 2025 WebDev Digest: 30 Fresh Picked Articles for Developers](https://dev.to/dev-resources/7th-january-2025-webdev-digest-30-fresh-picked-articles-for-developers-a2n)
+- [Customize TypeScript syntax highlighting in VSCode](https://dev.to/365talents/customize-typescript-code-in-vscode-gh4)
+- [🚀 Today&#39;s Top 20+ Github Repositories – Tiny Databases, Collaborative Engines, and More &lpar;Jan 7, 2025&rpar;](https://dev.to/gittech/todays-top-20-github-repositories-tiny-databases-collaborative-engines-and-more-jan-7-25ih)
 <!-- BLOG-POST-LIST:END -->
 
