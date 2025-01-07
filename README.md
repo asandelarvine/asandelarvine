@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Web Projects with Sphere Animations Using EldoraUI 🚀](https://dev.to/karthikmudunuri/enhance-your-web-projects-with-sphere-animations-using-eldoraui-3f1j)
-- [AI Language Models Find Hidden Ways to Shrink Code by 4% that Compilers Miss](https://dev.to/mikeyoung44/ai-language-models-find-hidden-ways-to-shrink-code-by-4-that-compilers-miss-1i0c)
-- [Building a Kubernetes Operator: A Practical Guide](https://dev.to/kubefeeds/building-a-kubernetes-operator-a-practical-guide-nc9)
-- [Unlocking the Power of AWS: My Journey So Far](https://dev.to/rajaryan/unlocking-the-power-of-aws-my-journey-so-far-f3k)
+- [Mongoose query](https://dev.to/anjali_gurjar_dff81513867/mongoose-query-5hga)
+- [Building a Contact Form Backend with FastAPI and Discord Integration](https://dev.to/highcenburg/building-a-contact-form-backend-with-fastapi-and-discord-integration-12c8)
+- [Rely.io Update Roundup - December 2024](https://dev.to/rely-io/relyio-update-roundup-december-2024-2mj2)
+- [Custom Website Development - A Complete Guide for Small Businesses](https://dev.to/moeenakram/custom-website-development-a-complete-guide-for-small-businesses-3gnd)
 <!-- BLOG-POST-LIST:END -->
 
