@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mongoose query](https://dev.to/anjali_gurjar_dff81513867/mongoose-query-5hga)
-- [Building a Contact Form Backend with FastAPI and Discord Integration](https://dev.to/highcenburg/building-a-contact-form-backend-with-fastapi-and-discord-integration-12c8)
-- [Rely.io Update Roundup - December 2024](https://dev.to/rely-io/relyio-update-roundup-december-2024-2mj2)
-- [Custom Website Development - A Complete Guide for Small Businesses](https://dev.to/moeenakram/custom-website-development-a-complete-guide-for-small-businesses-3gnd)
+- [Um ano de Magalu Cloud, e aí?](https://dev.to/patos/um-ano-de-magalu-cloud-e-ai-48e7)
+- [Choosing the Right Time Series Database for Your Use Case](https://dev.to/karthika_murugesan_c51100/-choosing-the-right-time-series-database-for-your-use-case-54bn)
+- [React 19 Automatic Optimization: Goodbye memo, useMemo, and useCallback?](https://dev.to/manojspace/react-19-automatic-optimization-goodbye-memo-usememo-and-usecallback-555h)
+- [Building Type-Safe APIs: Integrating NestJS with Prisma and TypeScript](https://dev.to/devjordan/building-type-safe-apis-integrating-nestjs-with-prisma-and-typescript-3dgk)
 <!-- BLOG-POST-LIST:END -->
 
