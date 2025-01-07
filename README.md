@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT: The Backbone of Modern Web Authentication and Authorization](https://dev.to/slogan_codes/understanding-jwt-the-backbone-of-modern-web-authentication-and-authorization-2dg5)
-- [A Quick Overview of Delivery Manager Role in the Modern Enterprise SDLC Process &lpar;Software Development Life Cycle&rpar;](https://dev.to/alexander_uspenskiy_the_great/a-quick-overview-of-deliver-manager-role-in-the-modern-enterprise-sdlc-process-software-kbl)
-- [AI Testing for Emotional Intelligence in Applications: Enhancing User Experiences with Tools Like GenQE.ai](https://dev.to/anil_csimplifyit_905c/ai-testing-for-emotional-intelligence-in-applications-enhancing-user-experiences-with-tools-like-10p4)
-- [Back-End Engineer with Expertise in Cryptocurrency, Blockchain, and Social Media](https://dev.to/metaengineer2025/back-end-engineer-with-expertise-in-cryptocurrency-blockchain-and-social-media-3j8d)
+- [How to Deploy a Static Website with Hugo and GitHub Pages](https://dev.to/yaruyng/how-to-deploy-a-static-website-with-hugo-and-github-pages-3he4)
+- [TypeScript Fundamentals: A Beginner&#39;s Guide &lpar;2025&rpar; ✅](https://dev.to/sweetpapa/typescript-fundamentals-a-beginners-guide-2025-3ej9)
+- [Steps to Add a New Column with Sequelize Migrations](https://dev.to/rinkaku_ebe4e8e9933e0c269/steps-to-add-a-new-column-with-sequelize-migrations-mn0)
+- [Kickstarting Your Cybersecurity Journey: A Beginner’s Guide](https://dev.to/ejiro-gojo/kickstarting-your-cybersecurity-journey-a-beginners-guide-495a)
 <!-- BLOG-POST-LIST:END -->
 
