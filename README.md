@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-1c1m)
-- [[Boost]](https://dev.to/narate/-22mp)
-- [&quot;Unlocking Visual Intelligence: The Power of Gaussian Masked Autoencoders&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-gaussian-masked-autoencoders-h99)
-- [Leveraging Social Media to Attract Top PHP Developers](https://dev.to/melaniesharma/leveraging-social-media-to-attract-top-php-developers-1fl7)
+- [How to Build a Centered Input Field for Amounts in React Native](https://dev.to/royged/how-to-build-a-centered-input-field-for-amounts-in-react-native-583d)
+- [A Pro Web Development Tip](https://dev.to/web_dev-usman/a-pro-web-development-tip-4926)
+- [andyux01/PHP-DASAR/main](https://dev.to/andy_pembelajar_597b4fc71/andyux01php-dasarmain-40k8)
+- [Back to Top button with smooth scroll](https://dev.to/snippflow/back-to-top-button-with-smooth-scroll-jfp)
 <!-- BLOG-POST-LIST:END -->
 
