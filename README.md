@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Centered Input Field for Amounts in React Native](https://dev.to/royged/how-to-build-a-centered-input-field-for-amounts-in-react-native-583d)
-- [A Pro Web Development Tip](https://dev.to/web_dev-usman/a-pro-web-development-tip-4926)
-- [andyux01/PHP-DASAR/main](https://dev.to/andy_pembelajar_597b4fc71/andyux01php-dasarmain-40k8)
-- [Back to Top button with smooth scroll](https://dev.to/snippflow/back-to-top-button-with-smooth-scroll-jfp)
+- [Enhance Your Web Projects with Sphere Animations Using EldoraUI 🚀](https://dev.to/karthikmudunuri/enhance-your-web-projects-with-sphere-animations-using-eldoraui-3f1j)
+- [AI Language Models Find Hidden Ways to Shrink Code by 4% that Compilers Miss](https://dev.to/mikeyoung44/ai-language-models-find-hidden-ways-to-shrink-code-by-4-that-compilers-miss-1i0c)
+- [Building a Kubernetes Operator: A Practical Guide](https://dev.to/kubefeeds/building-a-kubernetes-operator-a-practical-guide-nc9)
+- [Unlocking the Power of AWS: My Journey So Far](https://dev.to/rajaryan/unlocking-the-power-of-aws-my-journey-so-far-f3k)
 <!-- BLOG-POST-LIST:END -->
 
