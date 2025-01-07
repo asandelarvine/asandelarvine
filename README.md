@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding PostgreSQL Isolation Levels](https://dev.to/mohamed_hamdi_2590116d3ec/understanding-postgresql-isolation-levels-h7e)
-- [How I&#39;m Using Signals to Make My React App Simpler](https://dev.to/andyjessop/how-im-using-signals-to-make-my-react-app-simpler-h8j)
-- [🚀 Intrepid AI 0.10: Ready for Liftoff!](https://dev.to/fgadaleta/intrepid-ai-010-ready-for-liftoff-2ge9)
-- [How to Install Docker on Windows: A Beginner&#39;s Guide](https://dev.to/pmbanugo/how-to-install-docker-on-windows-a-beginners-guide-17c4)
+- [Automating Word Document Creation with Python and FastAPI &lpar;Using python-docx-template&rpar;](https://dev.to/huseinkntrc/automating-word-document-creation-with-python-and-fastapi-using-python-docx-template-41l)
+- [I want to write a code for POS sales output interface - and import to mongoDb for sale analysis- however is POS agnostic interface, should work with all POS](https://dev.to/rk_srk_5de0760b0858bc67bf/i-want-to-write-a-code-for-pos-sales-output-interface-and-import-to-mongodb-for-sale-analysis--ao8)
+- [Self-taught Front-End Dev seeking to grow network](https://dev.to/mitsu_kubo_4a0b4f1446d564/self-taught-front-end-dev-seeking-to-grow-network-2p5k)
+- [Efficient Batch Writing to DynamoDB with Python: A Step-by-Step Guide](https://dev.to/dm8ry/efficient-batch-writing-to-dynamodb-with-python-a-step-by-step-guide-1hp8)
 <!-- BLOG-POST-LIST:END -->
 
