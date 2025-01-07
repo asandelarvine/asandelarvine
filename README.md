@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React&#39;s Fiber Tree: A Deep Dive into React&#39;s Architecture and Rendering Process](https://dev.to/gervaisamoah/understanding-reacts-fiber-tree-a-deep-dive-into-reacts-architecture-and-rendering-process-2loo)
-- [Mastering XPath in Cypress: Best Practices for Effective Testing](https://dev.to/hexa-home/mastering-xpath-in-cypress-best-practices-for-effective-testing-1656)
-- [andyux01/PHP-DASAR/draft/quizzical-bush](https://dev.to/andy_pembelajar_597b4fc71/andyux01php-dasardraftquizzical-bush-1f93)
-- [Can you find the Output of this Java Code](https://dev.to/asithalakshan/can-you-find-the-output-of-this-java-code-520a)
+- [How to Build a Real-Time Dashboard with Encore.ts and React](https://dev.to/encore/how-to-build-a-real-time-dashboard-with-encorets-and-react-ii9)
+- [LeetCode Challenge: 76. Minimum Window Substring - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-76-minimum-window-substring-javascript-solution-3id4)
+- [Nesse artigo, iremos desenvolver uma pipeline de dados bem simples em tempo real utilizando o Apache Flink em conjunto com a versão 3 da linguagem de programação Scala, fazendo o uso do Pub/Sub como message broker 🚀](https://dev.to/geazi_anc/nesse-artigo-iremos-desenvolver-uma-pipeline-de-dados-bem-simples-em-tempo-real-utilizando-o-457e)
+- [System.out.println&lpar;&rpar;](https://dev.to/sathish_balaji_2003/systemoutprintln-33o3)
 <!-- BLOG-POST-LIST:END -->
 
