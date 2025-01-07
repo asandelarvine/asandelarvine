@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Real-Time Dashboard with Encore.ts and React](https://dev.to/encore/how-to-build-a-real-time-dashboard-with-encorets-and-react-ii9)
-- [LeetCode Challenge: 76. Minimum Window Substring - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-76-minimum-window-substring-javascript-solution-3id4)
-- [Nesse artigo, iremos desenvolver uma pipeline de dados bem simples em tempo real utilizando o Apache Flink em conjunto com a versão 3 da linguagem de programação Scala, fazendo o uso do Pub/Sub como message broker 🚀](https://dev.to/geazi_anc/nesse-artigo-iremos-desenvolver-uma-pipeline-de-dados-bem-simples-em-tempo-real-utilizando-o-457e)
-- [System.out.println&lpar;&rpar;](https://dev.to/sathish_balaji_2003/systemoutprintln-33o3)
+- [Common Data Loss Scenarios &amp; Solutions in Prisma Schema Changes](https://dev.to/vatul16/common-data-loss-scenarios-solutions-in-prisma-schema-changes-52id)
+- [Steps to Add Pagination to Your React TypeScript Project](https://dev.to/rinkaku_ebe4e8e9933e0c269/steps-to-add-pagination-to-your-react-typescript-project-jm4)
+- [Test Strategies for Software Development](https://dev.to/keploy/test-strategies-for-software-development-5ef1)
+- [12 CSS resources you may not know about ... 🔎 🧐](https://dev.to/gilles_vauvarin_861cefba1/12-css-resources-you-may-not-know-about--4ib7)
 <!-- BLOG-POST-LIST:END -->
 
