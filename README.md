@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Tech Stacks for AI-Powered Applications in 2025](https://dev.to/elliot_brenya/the-best-tech-stacks-for-ai-powered-applications-in-2025-efe)
-- [Just used the Dev API to add a comment section to my blog at https://dansasser.me Now any post that matches one of mine here on Dev will display the same comments as here on Dev and has a link back to the comment section here.](https://dev.to/dansasser/just-used-the-dev-api-to-add-a-comment-section-to-my-blog-at-httpsdansasserme-now-any-post-44g)
-- [How to Deploy a React Application Using AWS S3 and CloudFront](https://dev.to/itanand_/how-to-deploy-a-react-application-using-aws-s3-and-cloudfront-58kj)
-- [Improving Productivity with Automated Unit Testing](https://dev.to/misterankit/improving-productivity-with-automated-unit-testing-160n)
+- [TypeScript + React Redux: Pro Tips for Type-Safe and Scalable Apps](https://dev.to/nvish007/typescript-react-redux-pro-tips-for-type-safe-and-scalable-apps-44en)
+- [Code Editor Wars: The Battle for the Hearts and Minds of Developers](https://dev.to/karander/code-editor-wars-the-battle-for-the-hearts-and-minds-of-developers-52fa)
+- [Bringing Together Containers &amp; SQL](https://dev.to/aryan_zingade/bringing-together-containers-sql-24k)
+- [The Journey of India&#39;s Atmanirbhar Defence Sector with the Make in India Initiative](https://dev.to/dev_kumar_9a1db98e34077b6/the-journey-of-indias-atmanirbhar-defence-sector-with-the-make-in-india-initiative-1f85)
 <!-- BLOG-POST-LIST:END -->
 
