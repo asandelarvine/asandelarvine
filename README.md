@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a Static Website with Hugo and GitHub Pages](https://dev.to/yaruyng/how-to-deploy-a-static-website-with-hugo-and-github-pages-3he4)
-- [TypeScript Fundamentals: A Beginner&#39;s Guide &lpar;2025&rpar; ✅](https://dev.to/sweetpapa/typescript-fundamentals-a-beginners-guide-2025-3ej9)
-- [Steps to Add a New Column with Sequelize Migrations](https://dev.to/rinkaku_ebe4e8e9933e0c269/steps-to-add-a-new-column-with-sequelize-migrations-mn0)
-- [Kickstarting Your Cybersecurity Journey: A Beginner’s Guide](https://dev.to/ejiro-gojo/kickstarting-your-cybersecurity-journey-a-beginners-guide-495a)
+- [🧩 Step-by-Step EC2 Deployment: FastAPI, MongoDB, and NGINX Setup](https://dev.to/mrzaizai2k/step-by-step-ec2-deployment-fastapi-mongodb-and-nginx-setup-2jmp)
+- [Despite all my efforts the file could not append with formData, can anyone tell me where the errors are occurring](https://dev.to/software_dev_145266f43154/despite-all-my-efforts-the-file-could-not-append-with-formdata-can-anyone-tell-me-where-the-errors-3g1g)
+- [Edge Computing: The Future of Scalable and Low-Latency Applications](https://dev.to/techwave/edge-computing-the-future-of-scalable-and-low-latency-applications-50ej)
+- [Ringing in 2025: Glimpsing the Future of Media Tech at NAB](https://dev.to/jason_jacob_dcfc2408b7557/ringing-in-2025-glimpsing-the-future-of-media-tech-at-nab-5cao)
 <!-- BLOG-POST-LIST:END -->
 
