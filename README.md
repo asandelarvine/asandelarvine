@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Word Document Creation with Python and FastAPI &lpar;Using python-docx-template&rpar;](https://dev.to/huseinkntrc/automating-word-document-creation-with-python-and-fastapi-using-python-docx-template-41l)
-- [I want to write a code for POS sales output interface - and import to mongoDb for sale analysis- however is POS agnostic interface, should work with all POS](https://dev.to/rk_srk_5de0760b0858bc67bf/i-want-to-write-a-code-for-pos-sales-output-interface-and-import-to-mongodb-for-sale-analysis--ao8)
-- [Self-taught Front-End Dev seeking to grow network](https://dev.to/mitsu_kubo_4a0b4f1446d564/self-taught-front-end-dev-seeking-to-grow-network-2p5k)
-- [Efficient Batch Writing to DynamoDB with Python: A Step-by-Step Guide](https://dev.to/dm8ry/efficient-batch-writing-to-dynamodb-with-python-a-step-by-step-guide-1hp8)
+- [Prometheus json_exporter: Monitor any JSON API endpoint with Prometheus](https://dev.to/agardnerit/prometheus-jsonexporter-monitor-any-json-api-endpoint-with-prometheus-c26)
+- [Level up your AWS Cloud Knowledge with Free AWS Learning Knowledge Badges](https://dev.to/simonmafany/level-up-your-aws-cloud-knowledge-with-free-aws-learning-knowledge-badges-10gf)
+- [CocoDetection in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cocodetection-in-pytorch-1-mm3)
+- [Top Icon Libraries to Enhance Your React Native App’s UI](https://dev.to/aneeqakhan/top-icon-libraries-to-enhance-your-react-native-apps-ui-4na9)
 <!-- BLOG-POST-LIST:END -->
 
