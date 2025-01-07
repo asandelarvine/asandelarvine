@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Jenkins: A Step-by-Step Guide to Setting Up and Supercharging Your CI/CD Workflow](https://dev.to/hashim_hb/mastering-jenkins-a-step-by-step-guide-to-setting-up-and-supercharging-your-cicd-workflow-2ln9)
-- [🤯 #NODES24: a practical path to Cloud-Native Knowledge Graph Automation &amp; AI Agents](https://dev.to/adriens/nodes24-a-practical-path-to-cloud-native-knowledge-graph-automation-ai-agents-2ejh)
-- [try it out](https://dev.to/atultrp/try-it-out-511l)
-- [Java OOP: Week 2 - The OOP Adventure Continues](https://dev.to/kendall_vargas/java-oop-week-2-the-oop-adventure-continues-aed)
+- [Understanding PostgreSQL Isolation Levels](https://dev.to/mohamed_hamdi_2590116d3ec/understanding-postgresql-isolation-levels-h7e)
+- [How I&#39;m Using Signals to Make My React App Simpler](https://dev.to/andyjessop/how-im-using-signals-to-make-my-react-app-simpler-h8j)
+- [🚀 Intrepid AI 0.10: Ready for Liftoff!](https://dev.to/fgadaleta/intrepid-ai-010-ready-for-liftoff-2ge9)
+- [How to Install Docker on Windows: A Beginner&#39;s Guide](https://dev.to/pmbanugo/how-to-install-docker-on-windows-a-beginners-guide-17c4)
 <!-- BLOG-POST-LIST:END -->
 
