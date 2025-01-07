@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript + React Redux: Pro Tips for Type-Safe and Scalable Apps](https://dev.to/nvish007/typescript-react-redux-pro-tips-for-type-safe-and-scalable-apps-44en)
-- [Code Editor Wars: The Battle for the Hearts and Minds of Developers](https://dev.to/karander/code-editor-wars-the-battle-for-the-hearts-and-minds-of-developers-52fa)
-- [Bringing Together Containers &amp; SQL](https://dev.to/aryan_zingade/bringing-together-containers-sql-24k)
-- [The Journey of India&#39;s Atmanirbhar Defence Sector with the Make in India Initiative](https://dev.to/dev_kumar_9a1db98e34077b6/the-journey-of-indias-atmanirbhar-defence-sector-with-the-make-in-india-initiative-1f85)
+- [Using Mutating Admission Controllers to Ease Kubernetes Migrations](https://dev.to/getambassador2024/using-mutating-admission-controllers-to-ease-kubernetes-migrations-39pp)
+- [Simplifying State Management in React: An Introduction to F-Box React](https://dev.to/kentaromorishita/simplifying-react-state-management-an-introduction-to-f-box-react-2f0p)
+- [From Debian to Devuan](https://dev.to/evertontenorio/from-debian-to-devuan-2bn6)
+- [⭐5 Simple TailwindCSS Tips for Faster Web Development](https://dev.to/mrsupercraft/5-simple-tailwindcss-tips-for-faster-web-development-2p0b)
 <!-- BLOG-POST-LIST:END -->
 
