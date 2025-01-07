@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Organize the Frontend Architecture?](https://dev.to/m_midas/how-do-you-organize-the-frontend-architecture-3m0p)
-- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-54il)
-- [Front-End is Becoming Obsolete](https://dev.to/elanatframework/front-end-is-becoming-obsolete-f85)
-- [The Building Blocks of Python: Variables, I/O, and Operators](https://dev.to/iftakher_hossen/the-building-blocks-of-python-variables-io-and-operators-2fli)
+- [Understanding JWT: The Backbone of Modern Web Authentication and Authorization](https://dev.to/slogan_codes/understanding-jwt-the-backbone-of-modern-web-authentication-and-authorization-2dg5)
+- [A Quick Overview of Delivery Manager Role in the Modern Enterprise SDLC Process &lpar;Software Development Life Cycle&rpar;](https://dev.to/alexander_uspenskiy_the_great/a-quick-overview-of-deliver-manager-role-in-the-modern-enterprise-sdlc-process-software-kbl)
+- [AI Testing for Emotional Intelligence in Applications: Enhancing User Experiences with Tools Like GenQE.ai](https://dev.to/anil_csimplifyit_905c/ai-testing-for-emotional-intelligence-in-applications-enhancing-user-experiences-with-tools-like-10p4)
+- [Back-End Engineer with Expertise in Cryptocurrency, Blockchain, and Social Media](https://dev.to/metaengineer2025/back-end-engineer-with-expertise-in-cryptocurrency-blockchain-and-social-media-3j8d)
 <!-- BLOG-POST-LIST:END -->
 
