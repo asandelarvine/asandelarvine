@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hipa.ai Blog Writer Technology Stack](https://dev.to/hipa-ai/hipaai-blog-writer-technology-stack-oo9)
-- [Document Object Model simplified.](https://dev.to/jovickcoder/document-object-model-simplified-nnc)
-- [Eight New Partner Deals Join DEV++! Early-bird pricing ends this month.](https://dev.to/devteam/eight-new-partner-deals-join-dev-early-bird-pricing-ends-this-month-2h42)
-- [ReasoningAgent Update - Beam Search, MCTS, and LATS for LLM Reasoning](https://dev.to/ag2ai/reasoningagent-update-beam-search-mcts-and-lats-for-llm-reasoning-3im1)
+- [Mastering Jenkins: A Step-by-Step Guide to Setting Up and Supercharging Your CI/CD Workflow](https://dev.to/hashim_hb/mastering-jenkins-a-step-by-step-guide-to-setting-up-and-supercharging-your-cicd-workflow-2ln9)
+- [🤯 #NODES24: a practical path to Cloud-Native Knowledge Graph Automation &amp; AI Agents](https://dev.to/adriens/nodes24-a-practical-path-to-cloud-native-knowledge-graph-automation-ai-agents-2ejh)
+- [try it out](https://dev.to/atultrp/try-it-out-511l)
+- [Java OOP: Week 2 - The OOP Adventure Continues](https://dev.to/kendall_vargas/java-oop-week-2-the-oop-adventure-continues-aed)
 <!-- BLOG-POST-LIST:END -->
 
