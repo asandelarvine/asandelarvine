@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Mutating Admission Controllers to Ease Kubernetes Migrations](https://dev.to/getambassador2024/using-mutating-admission-controllers-to-ease-kubernetes-migrations-39pp)
-- [Simplifying State Management in React: An Introduction to F-Box React](https://dev.to/kentaromorishita/simplifying-react-state-management-an-introduction-to-f-box-react-2f0p)
-- [From Debian to Devuan](https://dev.to/evertontenorio/from-debian-to-devuan-2bn6)
-- [⭐5 Simple TailwindCSS Tips for Faster Web Development](https://dev.to/mrsupercraft/5-simple-tailwindcss-tips-for-faster-web-development-2p0b)
+- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-1c1m)
+- [[Boost]](https://dev.to/narate/-22mp)
+- [&quot;Unlocking Visual Intelligence: The Power of Gaussian Masked Autoencoders&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-gaussian-masked-autoencoders-h99)
+- [Leveraging Social Media to Attract Top PHP Developers](https://dev.to/melaniesharma/leveraging-social-media-to-attract-top-php-developers-1fl7)
 <!-- BLOG-POST-LIST:END -->
 
