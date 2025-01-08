@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 JavaScript Frameworks for 2025](https://dev.to/1408keshu/top-10-javascript-frameworks-for-2025-4379)
-- [Secure Self-Hosting with Cloudflare Tunnels and Docker: Zero Trust Security](https://dev.to/mihailtd/secure-self-hosting-with-cloudflare-tunnels-and-docker-zero-trust-security-5bbn)
-- [Great resource for backend developers](https://dev.to/envitab/great-resource-for-backend-developers-3lea)
-- [Go Concurrency: Mutexes vs Channels with Examples](https://dev.to/mayallo/go-concurrency-mutexes-vs-channels-with-examples-47pe)
+- [🚀 Your Daily Crypto Job Digest For 08 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-january-3gmd)
+- [Como fazer procv](https://dev.to/brayanmonteiroo/como-fazer-procv-510p)
+- [MVVM on React: Why it might be the best solution for you?](https://dev.to/lucasbrogni1/mvvm-on-react-why-it-might-be-the-best-solution-for-you-3j5f)
+- [Building a Scalable Web Server on AWS: A Hands-On Guide to Linux, Apache, and SSL Configuration](https://dev.to/josephibehdev/building-a-scalable-web-server-on-aws-a-hands-on-guide-to-linux-apache-and-ssl-configuration-3cmh)
 <!-- BLOG-POST-LIST:END -->
 
