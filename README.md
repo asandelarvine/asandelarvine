@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Onvite to Rails 8 Authentication](https://dev.to/railsdesigner/add-onvite-to-rails-8-authentication-5671)
-- [Here’s why Julia is THE language in scientific programming](https://dev.to/ninacomputer/heres-why-julia-is-the-language-in-scientific-programming-5633)
-- [Cloud economics vs. Cloud FinOps](https://dev.to/barbara_gaspar/cloud-economics-vs-cloud-finops-44i5)
-- [🤔Retro’ing and Debugging 2024: a year of data, books, APIs, BOTs &amp; AI](https://dev.to/adriens/retroing-and-debugging-2024-a-year-of-data-books-apis-bots-ai-4436)
+- [Web Architecture: Monorepos, Micro-frontends, and Vite](https://dev.to/hxnain619/web-architecture-monorepos-micro-frontends-and-vite-3606)
+- [[BR] Arquiteturas híbridas - entrelaçando monólitos, microsserviços e serviços distribuídos](https://dev.to/scarlet/br-arquiteturas-hibridas-entrelacando-monolitos-microsservicos-e-servicos-distribuidos-3mk8)
+- [Is there anything left for me?](https://dev.to/student564/is-there-anything-left-for-me-3id1)
+- [The Magic of JavaScript Closures: A Clear and Easy Guide](https://dev.to/baraq/the-magic-of-javascript-closures-a-clear-and-easy-guide-5f00)
 <!-- BLOG-POST-LIST:END -->
 
