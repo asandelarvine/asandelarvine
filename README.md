@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prometheus json_exporter: Monitor any JSON API endpoint with Prometheus](https://dev.to/agardnerit/prometheus-jsonexporter-monitor-any-json-api-endpoint-with-prometheus-c26)
-- [Level up your AWS Cloud Knowledge with Free AWS Learning Knowledge Badges](https://dev.to/simonmafany/level-up-your-aws-cloud-knowledge-with-free-aws-learning-knowledge-badges-10gf)
-- [CocoDetection in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cocodetection-in-pytorch-1-mm3)
-- [Top Icon Libraries to Enhance Your React Native App’s UI](https://dev.to/aneeqakhan/top-icon-libraries-to-enhance-your-react-native-apps-ui-4na9)
+- [Creating Java GUIs with Swing Components](https://dev.to/alex_ricciardi/creating-java-guis-with-swing-components-471k)
+- [Accurate Hallucination Detection With NER](https://dev.to/skeptrune/accurate-hallucination-detection-with-ner-52ba)
+- [AI and Machine Learning Algorithms: Strengths, Weaknesses and Best Use Cases](https://dev.to/alex_ricciardi/ai-and-machine-learning-algorithms-strengths-weaknesses-and-best-use-cases-731)
+- [2024 Year in Review: My Greatest Achievement](https://dev.to/blackgirlbytes/2024-year-in-review-my-greatest-achievement-5322)
 <!-- BLOG-POST-LIST:END -->
 
