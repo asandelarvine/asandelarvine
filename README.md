@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v309](https://dev.to/devteam/welcome-thread-v309-1dej)
-- [How to Create a quick Authentication library for NestJS/MongoDB application](https://dev.to/dewmyth/how-to-create-a-quick-authentication-library-for-nestjsmongodb-application-45bh)
-- [First thoughts on Electron](https://dev.to/sarkispeha/first-thoughts-on-electron-2c6p)
-- [SP_HELPTEXT](https://dev.to/mirajhad/sphelptext-3773)
+- [From Specific to Reusable: Transforming UI Components with Bit](https://dev.to/msm8/from-specific-to-reusable-transforming-ui-components-with-bit-5126)
+- [HTTP Cookies 🍪](https://dev.to/lovestaco/http-cookies-2g13)
+- [Identities Do Not Exist in a Vacuum: A View on Understanding Non-Human Identities Governance](https://dev.to/gitguardian/identities-do-not-exist-in-a-vacuum-a-view-on-understanding-non-human-identities-governance-18p3)
+- [Comunicando JAVA com o GeminiAI](https://dev.to/wandpsilva/comunicando-com-o-geminiai-via-java-4470)
 <!-- BLOG-POST-LIST:END -->
 
