@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing ERP Customization: The Power of AI and Self-Adaptive Frameworks&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-erp-customization-the-power-of-ai-and-self-adaptive-frameworks-4h89)
-- [Mastering Rust Lifetimes: Advanced Techniques for Safe and Efficient Code](https://dev.to/aaravjoshi/mastering-rust-lifetimes-advanced-techniques-for-safe-and-efficient-code-27pp)
-- [Automatically Monitor and Manage RAM Usage for Next.js Development](https://dev.to/anggakswr/automatically-monitor-and-manage-ram-usage-for-nextjs-development-24i)
-- [Introduction to Access Control Testing](https://dev.to/keploy/introduction-to-access-control-testing-kag)
+- [Homemade LLM Hosting with Two-Way Voice Support using Python, Transformers, Qwen, and Bark](https://dev.to/aiandml/homemade-llm-hosting-with-two-way-voice-support-using-python-transformers-qwen-and-bark-35g7)
+- [The Tale of Zoe: From Doodler to Best-Seller with HydePHP](https://dev.to/melasistema/the-tale-of-zoe-from-doodler-to-best-seller-with-hydephp-3082)
+- [Code Generation &amp; Debugging: How AI Revolutionizes Development Time](https://dev.to/tree_unitedllc/code-generation-debugging-how-ai-revolutionizes-development-time-5h9j)
+- [Troubleshooting Common Issues with NativeWind &lpar;and Why You Should Try gluestack-ui&rpar;](https://dev.to/gluestackio/troubleshooting-common-issues-with-nativewind-and-why-you-should-try-gluestack-ui-3c1b)
 <!-- BLOG-POST-LIST:END -->
 
