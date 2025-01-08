@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Specific to Reusable: Transforming UI Components with Bit](https://dev.to/msm8/from-specific-to-reusable-transforming-ui-components-with-bit-5126)
-- [HTTP Cookies 🍪](https://dev.to/lovestaco/http-cookies-2g13)
-- [Identities Do Not Exist in a Vacuum: A View on Understanding Non-Human Identities Governance](https://dev.to/gitguardian/identities-do-not-exist-in-a-vacuum-a-view-on-understanding-non-human-identities-governance-18p3)
-- [Comunicando JAVA com o GeminiAI](https://dev.to/wandpsilva/comunicando-com-o-geminiai-via-java-4470)
+- [Add Onvite to Rails 8 Authentication](https://dev.to/railsdesigner/add-onvite-to-rails-8-authentication-5671)
+- [Here’s why Julia is THE language in scientific programming](https://dev.to/ninacomputer/heres-why-julia-is-the-language-in-scientific-programming-5633)
+- [Cloud economics vs. Cloud FinOps](https://dev.to/barbara_gaspar/cloud-economics-vs-cloud-finops-44i5)
+- [🤔Retro’ing and Debugging 2024: a year of data, books, APIs, BOTs &amp; AI](https://dev.to/adriens/retroing-and-debugging-2024-a-year-of-data-books-apis-bots-ai-4436)
 <!-- BLOG-POST-LIST:END -->
 
