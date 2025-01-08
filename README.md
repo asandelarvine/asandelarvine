@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Make PDF to Images converter in html, css, and, java, bootstrap and jquery](https://dev.to/hanzla-baig/make-pdf-to-images-converter-in-html-csd-and-java-bootstrap-and-jquery-101f)
+- [How Plumbers Use Machine Learning to Improve Operational Efficiency on the Job](https://dev.to/luke_leech_e6bebf0dcc50d6/how-plumbers-use-machine-learning-to-improve-operational-efficiency-on-the-job-2bdg)
 - [Real-time Application Solution for RISC-V Core on Forlinx Embedded T113-i Development Board](https://dev.to/forlinx_jason/real-time-application-solution-for-risc-v-core-on-forlinx-embedded-t113-i-development-board-3341)
 - [Day 2: Mastering Arrays and Kadane’s Algorithm](https://dev.to/rohit96nair/day-2-mastering-arrays-and-kadanes-algorithm-2603)
-- [Streamlining Data Processing with AWS Lambda and Amazon S3](https://dev.to/tanvir4hmed/streamlining-data-processing-with-aws-lambda-and-amazon-s3-21ja)
-- [Let Me Talk About Abstraction of Front-end Application Presentation Layer](https://dev.to/ourai/let-me-talk-about-abstraction-of-front-end-application-presentation-layer-5070)
 <!-- BLOG-POST-LIST:END -->
 
