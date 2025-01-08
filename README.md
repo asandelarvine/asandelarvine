@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Homemade LLM Hosting with Two-Way Voice Support using Python, Transformers, Qwen, and Bark](https://dev.to/aiandml/homemade-llm-hosting-with-two-way-voice-support-using-python-transformers-qwen-and-bark-35g7)
-- [The Tale of Zoe: From Doodler to Best-Seller with HydePHP](https://dev.to/melasistema/the-tale-of-zoe-from-doodler-to-best-seller-with-hydephp-3082)
-- [Code Generation &amp; Debugging: How AI Revolutionizes Development Time](https://dev.to/tree_unitedllc/code-generation-debugging-how-ai-revolutionizes-development-time-5h9j)
-- [Troubleshooting Common Issues with NativeWind &lpar;and Why You Should Try gluestack-ui&rpar;](https://dev.to/gluestackio/troubleshooting-common-issues-with-nativewind-and-why-you-should-try-gluestack-ui-3c1b)
+- [Top 10 JavaScript Frameworks for 2025](https://dev.to/1408keshu/top-10-javascript-frameworks-for-2025-4379)
+- [Secure Self-Hosting with Cloudflare Tunnels and Docker: Zero Trust Security](https://dev.to/mihailtd/secure-self-hosting-with-cloudflare-tunnels-and-docker-zero-trust-security-5bbn)
+- [Great resource for backend developers](https://dev.to/envitab/great-resource-for-backend-developers-3lea)
+- [Go Concurrency: Mutexes vs Channels with Examples](https://dev.to/mayallo/go-concurrency-mutexes-vs-channels-with-examples-47pe)
 <!-- BLOG-POST-LIST:END -->
 
