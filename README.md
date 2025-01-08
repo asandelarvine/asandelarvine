@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock and its benefits in a RAG project](https://dev.to/lidia_delcarmenbenitez/amazon-bedrock-and-its-benefits-in-a-rag-project-4bn3)
-- [My Tech Blog Title](https://dev.to/rishabh_raj_2b61a1c41b371/my-tech-blog-title-2gpk)
-- [Create a python package and publish.](https://dev.to/mahamudh472/create-a-python-package-and-publish-1abp)
-- [5 Reasons Ruby on Rails Is Still a Leading Web Development Choice in 2025](https://dev.to/techcronusbs/5-reasons-ruby-on-rails-is-still-a-leading-web-development-choice-in-2025-1f5e)
+- [Design Pattern in Flutter MVVM](https://dev.to/sukmarizki04/design-pattern-in-flutter-mvvm-4mkm)
+- [Handling Concurrency in CosmosDB with ETags](https://dev.to/petersaktor/handling-concurrency-in-cosmosdb-with-etags-15bd)
+- [Membuat prototype mudah dengan simple-prototype](https://dev.to/salmantok/membuat-prototype-mudah-dengan-simple-prototype-50k9)
+- [Why I started writing a blog](https://dev.to/cng_khanhtrnduy_84974/why-i-started-writing-a-blog-34b0)
 <!-- BLOG-POST-LIST:END -->
 
