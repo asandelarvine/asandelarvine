@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharp.js: The Best Node.js Image Framework Ever](https://dev.to/leapcell/sharpjs-the-best-nodejs-image-framework-ever-5gpe)
-- [Envias Correo Electrónicos gratis con Resend Emails](https://dev.to/yosmarcode/envias-correo-electronicos-gratis-con-resend-emails-5d8j)
-- [🌐 🚀 Scale Your Business with DigitalOcean: Powerful, Affordable Cloud Hosting](https://dev.to/bhuwan71/scale-your-business-with-digitalocean-powerful-affordable-cloud-hosting-2hh8)
-- [[Feedback Wanted]Meet Nora: A Desktop Plant Robot Companion 🌱](https://dev.to/jozenlee/feedback-wantedmeet-nora-a-desktop-plant-robot-companion-3p38)
+- [TS is bad at hover text](https://dev.to/thejaredwilcurt/ts-is-bad-at-hover-text-3n0j)
+- [POS sale Interface - POS application agnostic](https://dev.to/rk_srk_5de0760b0858bc67bf/pos-sale-interface-pos-application-agnostic-42h7)
+- [Beyond Buttons: The Complex Reality of Frontend Engineering](https://dev.to/dhrumitdk/beyond-buttons-the-complex-reality-of-frontend-engineering-2cf7)
+- [Introduction to Sunrise v2 Campaign](https://dev.to/sunriselayer_dev/introduction-to-sunrise-v2-campaign-d19)
 <!-- BLOG-POST-LIST:END -->
 
