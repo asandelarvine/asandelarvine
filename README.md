@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make PDF to Images converter in html, css, and, java, bootstrap and jquery](https://dev.to/hanzla-baig/make-pdf-to-images-converter-in-html-csd-and-java-bootstrap-and-jquery-101f)
-- [How Plumbers Use Machine Learning to Improve Operational Efficiency on the Job](https://dev.to/luke_leech_e6bebf0dcc50d6/how-plumbers-use-machine-learning-to-improve-operational-efficiency-on-the-job-2bdg)
-- [Real-time Application Solution for RISC-V Core on Forlinx Embedded T113-i Development Board](https://dev.to/forlinx_jason/real-time-application-solution-for-risc-v-core-on-forlinx-embedded-t113-i-development-board-3341)
-- [Day 2: Mastering Arrays and Kadane’s Algorithm](https://dev.to/rohit96nair/day-2-mastering-arrays-and-kadanes-algorithm-2603)
+- [Sharp.js: The Best Node.js Image Framework Ever](https://dev.to/leapcell/sharpjs-the-best-nodejs-image-framework-ever-5gpe)
+- [Envias Correo Electrónicos gratis con Resend Emails](https://dev.to/yosmarcode/envias-correo-electronicos-gratis-con-resend-emails-5d8j)
+- [🌐 🚀 Scale Your Business with DigitalOcean: Powerful, Affordable Cloud Hosting](https://dev.to/bhuwan71/scale-your-business-with-digitalocean-powerful-affordable-cloud-hosting-2hh8)
+- [[Feedback Wanted]Meet Nora: A Desktop Plant Robot Companion 🌱](https://dev.to/jozenlee/feedback-wantedmeet-nora-a-desktop-plant-robot-companion-3p38)
 <!-- BLOG-POST-LIST:END -->
 
