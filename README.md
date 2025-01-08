@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Architecture: Monorepos, Micro-frontends, and Vite](https://dev.to/hxnain619/web-architecture-monorepos-micro-frontends-and-vite-3606)
-- [[BR] Arquiteturas híbridas - entrelaçando monólitos, microsserviços e serviços distribuídos](https://dev.to/scarlet/br-arquiteturas-hibridas-entrelacando-monolitos-microsservicos-e-servicos-distribuidos-3mk8)
-- [Is there anything left for me?](https://dev.to/student564/is-there-anything-left-for-me-3id1)
-- [The Magic of JavaScript Closures: A Clear and Easy Guide](https://dev.to/baraq/the-magic-of-javascript-closures-a-clear-and-easy-guide-5f00)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-2d01)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4jmb)
+- [Connexion Agenda Externe dans Nemitis](https://dev.to/flo-nemitis/connexion-agenda-externe-dans-nemitis-1n3k)
+- [Build a React login page template](https://dev.to/clerk/build-a-react-login-page-template-3dkg)
 <!-- BLOG-POST-LIST:END -->
 
