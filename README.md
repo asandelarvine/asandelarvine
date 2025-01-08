@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing BlockBuster: is my asyncio event loop blocked?](https://dev.to/cbornet/introducing-blockbuster-is-my-asyncio-event-loop-blocked-3487)
-- [Part 1: Bangkok](https://dev.to/nicolastilkin/part-1-bangkok-13d6)
-- [5 Key Skills Every Aspiring Technical Writer Needs in 2025](https://dev.to/opman129/5-key-skills-every-aspiring-technical-writer-needs-in-2025-2jh6)
-- [How can I reverse my Jio wrong recharge?](https://dev.to/gxxkoy_ddc3974b24cb9bcbdb/how-can-i-reverse-my-jio-wrong-recharge-150a)
+- [Wow! This article really went viral. I can&#39;t believe how many people have red it already.](https://dev.to/dansasser/wow-this-article-really-went-viral-i-cant-believe-how-many-people-have-red-it-already-1pf5)
+- [AI Agent Tutorial for Beginners: A Comprehensive Guide](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agent-tutorial-for-beginners-a-comprehensive-guide-24op)
+- [The Basics of UI vs UX](https://dev.to/letsupdateskills/the-basics-of-ui-vs-ux-1gfn)
+- [Understanding JavaScript Promises &lpar;With a Desi Twist 🌟&rpar;](https://dev.to/inder_/understanding-javascript-promises-with-a-desi-twist--1fc3)
 <!-- BLOG-POST-LIST:END -->
 
