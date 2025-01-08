@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Pattern in Flutter MVVM](https://dev.to/sukmarizki04/design-pattern-in-flutter-mvvm-4mkm)
-- [Handling Concurrency in CosmosDB with ETags](https://dev.to/petersaktor/handling-concurrency-in-cosmosdb-with-etags-15bd)
-- [Membuat prototype mudah dengan simple-prototype](https://dev.to/salmantok/membuat-prototype-mudah-dengan-simple-prototype-50k9)
-- [Why I started writing a blog](https://dev.to/cng_khanhtrnduy_84974/why-i-started-writing-a-blog-34b0)
+- [How to Connect External Speakers to Your Xbox Console](https://dev.to/thetecheez/how-to-connect-external-speakers-to-your-xbox-console-4j7h)
+- [Exploring RWA Tokenization: A Beginner&#39;s Guide to Blockchain, Applications, and Industry Impact](https://dev.to/abijohn/exploring-rwa-tokenization-a-beginners-guide-to-blockchain-applications-and-industry-impact-3jia)
+- [How to create a Google Font Picker in Angular 18](https://dev.to/marco_maxim_e509de60b846d/how-to-create-a-google-font-picker-in-angular-18-2i8b)
+- [causes of nearsightedness](https://dev.to/mohmd_dossary/causes-of-nearsightedness-1dbj)
 <!-- BLOG-POST-LIST:END -->
 
