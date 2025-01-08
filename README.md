@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TS is bad at hover text](https://dev.to/thejaredwilcurt/ts-is-bad-at-hover-text-3n0j)
-- [POS sale Interface - POS application agnostic](https://dev.to/rk_srk_5de0760b0858bc67bf/pos-sale-interface-pos-application-agnostic-42h7)
-- [Beyond Buttons: The Complex Reality of Frontend Engineering](https://dev.to/dhrumitdk/beyond-buttons-the-complex-reality-of-frontend-engineering-2cf7)
-- [Introduction to Sunrise v2 Campaign](https://dev.to/sunriselayer_dev/introduction-to-sunrise-v2-campaign-d19)
+- [Amazon Bedrock and its benefits in a RAG project](https://dev.to/lidia_delcarmenbenitez/amazon-bedrock-and-its-benefits-in-a-rag-project-4bn3)
+- [My Tech Blog Title](https://dev.to/rishabh_raj_2b61a1c41b371/my-tech-blog-title-2gpk)
+- [Create a python package and publish.](https://dev.to/mahamudh472/create-a-python-package-and-publish-1abp)
+- [5 Reasons Ruby on Rails Is Still a Leading Web Development Choice in 2025](https://dev.to/techcronusbs/5-reasons-ruby-on-rails-is-still-a-leading-web-development-choice-in-2025-1f5e)
 <!-- BLOG-POST-LIST:END -->
 
