@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lattice Cryptography: A Post-Quantum Solution](https://dev.to/bytehide/lattice-cryptography-a-post-quantum-solution-49c4)
-- [How to Use Three.js for Interactive 3D Web Experiences](https://dev.to/smok/how-to-use-threejs-for-interactive-3d-web-experiences-4ame)
-- [Why Your Kubernetes Workflow Is Broken &lpar;And How to Fix It with Northflank&rpar;](https://dev.to/coderoflagos/why-your-kubernetes-workflow-is-broken-and-how-to-fix-it-with-northflank-1p6e)
-- [School Chatbot: Revolutionizing Communication with AI](https://dev.to/aaronshenny/school-chatbot-revolutionizing-communication-with-ai-1ea1)
+- [My Tech Blog](https://dev.to/rishabh_raj_2b61a1c41b371/my-tech-blog-3onc)
+- [Why soft skills are important for a programmer?](https://dev.to/taqmuraz/why-soft-skills-are-important-for-a-programmer-1jkf)
+- [Laravel IQ - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/laravel-iq-level-1-part-1-15fk)
+- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #6.2: Azure Files - File Sync](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-62-azure-files--4c3)
 <!-- BLOG-POST-LIST:END -->
 
