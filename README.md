@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Java GUIs with Swing Components](https://dev.to/alex_ricciardi/creating-java-guis-with-swing-components-471k)
-- [Accurate Hallucination Detection With NER](https://dev.to/skeptrune/accurate-hallucination-detection-with-ner-52ba)
-- [AI and Machine Learning Algorithms: Strengths, Weaknesses and Best Use Cases](https://dev.to/alex_ricciardi/ai-and-machine-learning-algorithms-strengths-weaknesses-and-best-use-cases-731)
-- [2024 Year in Review: My Greatest Achievement](https://dev.to/blackgirlbytes/2024-year-in-review-my-greatest-achievement-5322)
+- [Real-time Application Solution for RISC-V Core on Forlinx Embedded T113-i Development Board](https://dev.to/forlinx_jason/real-time-application-solution-for-risc-v-core-on-forlinx-embedded-t113-i-development-board-3341)
+- [Day 2: Mastering Arrays and Kadane’s Algorithm](https://dev.to/rohit96nair/day-2-mastering-arrays-and-kadanes-algorithm-2603)
+- [Streamlining Data Processing with AWS Lambda and Amazon S3](https://dev.to/tanvir4hmed/streamlining-data-processing-with-aws-lambda-and-amazon-s3-21ja)
+- [Let Me Talk About Abstraction of Front-end Application Presentation Layer](https://dev.to/ourai/let-me-talk-about-abstraction-of-front-end-application-presentation-layer-5070)
 <!-- BLOG-POST-LIST:END -->
 
