@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect External Speakers to Your Xbox Console](https://dev.to/thetecheez/how-to-connect-external-speakers-to-your-xbox-console-4j7h)
-- [Exploring RWA Tokenization: A Beginner&#39;s Guide to Blockchain, Applications, and Industry Impact](https://dev.to/abijohn/exploring-rwa-tokenization-a-beginners-guide-to-blockchain-applications-and-industry-impact-3jia)
-- [How to create a Google Font Picker in Angular 18](https://dev.to/marco_maxim_e509de60b846d/how-to-create-a-google-font-picker-in-angular-18-2i8b)
-- [causes of nearsightedness](https://dev.to/mohmd_dossary/causes-of-nearsightedness-1dbj)
+- [&quot;Revolutionizing ERP Customization: The Power of AI and Self-Adaptive Frameworks&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-erp-customization-the-power-of-ai-and-self-adaptive-frameworks-4h89)
+- [Mastering Rust Lifetimes: Advanced Techniques for Safe and Efficient Code](https://dev.to/aaravjoshi/mastering-rust-lifetimes-advanced-techniques-for-safe-and-efficient-code-27pp)
+- [Automatically Monitor and Manage RAM Usage for Next.js Development](https://dev.to/anggakswr/automatically-monitor-and-manage-ram-usage-for-nextjs-development-24i)
+- [Introduction to Access Control Testing](https://dev.to/keploy/introduction-to-access-control-testing-kag)
 <!-- BLOG-POST-LIST:END -->
 
