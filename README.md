@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tech Blog](https://dev.to/rishabh_raj_2b61a1c41b371/my-tech-blog-3onc)
-- [Why soft skills are important for a programmer?](https://dev.to/taqmuraz/why-soft-skills-are-important-for-a-programmer-1jkf)
-- [Laravel IQ - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/laravel-iq-level-1-part-1-15fk)
-- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #6.2: Azure Files - File Sync](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-62-azure-files--4c3)
+- [Introducing BlockBuster: is my asyncio event loop blocked?](https://dev.to/cbornet/introducing-blockbuster-is-my-asyncio-event-loop-blocked-3487)
+- [Part 1: Bangkok](https://dev.to/nicolastilkin/part-1-bangkok-13d6)
+- [5 Key Skills Every Aspiring Technical Writer Needs in 2025](https://dev.to/opman129/5-key-skills-every-aspiring-technical-writer-needs-in-2025-2jh6)
+- [How can I reverse my Jio wrong recharge?](https://dev.to/gxxkoy_ddc3974b24cb9bcbdb/how-can-i-reverse-my-jio-wrong-recharge-150a)
 <!-- BLOG-POST-LIST:END -->
 
