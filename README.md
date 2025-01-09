@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Monolith: Why Are You Destroying My Life?](https://dev.to/dminatto/distributed-monolith-why-are-you-destroying-my-life-5hj5)
-- [Education Technology Trends That Will Impact Your Business In 2025](https://dev.to/techdogs_inc/education-technology-trends-that-will-impact-your-business-in-2025-598k)
-- [You can open a startup in open-source and quit your daily job 🤑](https://dev.to/nevodavid/you-can-open-a-startup-in-open-source-and-quit-your-daily-job-3ld5)
-- [How to Use AJAX in TYPO3 with TypoScript and Extbase](https://dev.to/sanjaychauhan/how-to-use-ajax-in-typo3-with-typoscript-and-extbase-2kmc)
+- [Why iOS 18 is Perfect for Building Custom Business Apps in 2025?](https://dev.to/prashantpujara/why-ios-18-is-perfect-for-building-custom-business-apps-in-2025-mj7)
+- [Understand Google SERP Scraping: How to Extract Valuable SEO Data](https://dev.to/kervi_11_/understand-google-serp-scraping-how-to-extract-valuable-seo-data-akd)
+- [Software Testing Tasks with Challenges, Tools, and Best Practices](https://dev.to/pulkit_singh_ed61dba49ac9/software-testing-tasks-with-challenges-tools-and-best-practices-3fml)
+- [Understanding the Bharat Bill Payment System &lpar;BBPS&rpar; Ecosystem description:](https://dev.to/munisekhar_udavapati/understanding-the-bharat-bill-payment-system-bbps-ecosystemdescription-l34)
 <!-- BLOG-POST-LIST:END -->
 
