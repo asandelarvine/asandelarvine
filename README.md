@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-2d01)
-- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4jmb)
-- [Connexion Agenda Externe dans Nemitis](https://dev.to/flo-nemitis/connexion-agenda-externe-dans-nemitis-1n3k)
-- [Build a React login page template](https://dev.to/clerk/build-a-react-login-page-template-3dkg)
+- [How to Enhance Real-Time Performance of Linux 6.1 Kernel on OK-MX9352-C by Applying Real-Time Patches](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-enhance-real-time-performance-of-linux-61-kernel-on-ok-mx9352-c-by-applying-real-time-4gnm)
+- [Unlocking Success: The Best Software Development Tools to Elevate Your Projects in 2025](https://dev.to/jetthoughts/unlocking-success-the-best-software-development-tools-to-elevate-your-projects-in-2025-4hab)
+- [Why AI-Driven Automated Testing is a Necessity for Enterprises in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/why-ai-driven-automated-testing-is-a-necessity-for-enterprises-in-2025-2c5l)
+- [Effortlessly Convert JSON to TypeScript in Seconds 🚀](https://dev.to/joodi/supercharge-your-workflow-convert-json-to-typescript-in-seconds-5a42)
 <!-- BLOG-POST-LIST:END -->
 
