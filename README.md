@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quando usar ResponseEntity?](https://dev.to/oigorrudel/quando-usar-responseentity-36b6)
-- [Building and Deploying a New API &lpar;Part 2&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-2-5dm)
-- [What is IoT? A Comprehensive Guide to the Internet of Things](https://dev.to/scitech-insights/what-is-iot-a-comprehensive-guide-to-the-internet-of-things-28n8)
-- [10 Months of Elm to Angular](https://dev.to/jesterxl/10-months-of-elm-to-angular-enh)
+- [LeetCode Challenge: 54. Spiral Matrix - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-54-spiral-matrix-javascript-solution-50j9)
+- [&quot;Unlocking Quantum Potential: The Purcell Effect in Hybrid Systems Explained&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-the-purcell-effect-in-hybrid-systems-explained-202c)
+- [How React 19 can help you make faster websites](https://dev.to/logrocket/how-react-19-can-help-you-make-faster-websites-1f88)
+- [[Boost]](https://dev.to/erman_chown/-3dic)
 <!-- BLOG-POST-LIST:END -->
 
