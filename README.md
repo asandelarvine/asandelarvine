@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Update WSL Ubuntu password](https://dev.to/geeky_coder_cf994db71d263/update-wsl-ubuntu-password-5cpk)
-- [Complete Full-Stack Web App Development Roadmap](https://dev.to/daan_balm_47e72b39b1db15e/complete-full-stack-web-app-development-roadmap-k5g)
-- [&quot;Pesquei, Java!&quot; | Classe e Objeto em Foco: Da Abstração à Realidade](https://dev.to/bsalla/pesquei-java-classe-e-objeto-em-foco-da-abstracao-a-realidade-3d52)
-- [Day 3 -&gt; Athena empties the quiver](https://dev.to/miketypes/day-3-athena-empties-the-quiver-3kc2)
+- [Use cases for Turbo&#39;s Custom Events](https://dev.to/railsdesigner/use-cases-for-turbos-custom-events-6gp)
+- [Building a Professional Game Loop in TypeScript: From Basic to Advanced Implementation](https://dev.to/stormsidali2001/building-a-professional-game-loop-in-typescript-from-basic-to-advanced-implementation-eo8)
+- [🔀 Merging Strategies: Handling Conflicts Like a Pro 🔃](https://dev.to/aws-builders/merging-strategies-handling-conflicts-like-a-pro-4d0h)
+- [Engage Users Instantly: Embed an Interactive Demo in your React SPA](https://dev.to/nick_van_dyke/engage-users-instantly-embed-an-interactive-demo-in-your-react-spa-2cf1)
 <!-- BLOG-POST-LIST:END -->
 
