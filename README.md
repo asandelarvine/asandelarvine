@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 54. Spiral Matrix - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-54-spiral-matrix-javascript-solution-50j9)
-- [&quot;Unlocking Quantum Potential: The Purcell Effect in Hybrid Systems Explained&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-the-purcell-effect-in-hybrid-systems-explained-202c)
-- [How React 19 can help you make faster websites](https://dev.to/logrocket/how-react-19-can-help-you-make-faster-websites-1f88)
-- [[Boost]](https://dev.to/erman_chown/-3dic)
+- [AI Agents: The Future of Intelligent Automation](https://dev.to/abhinav11234/ai-agents-the-future-of-intelligent-automation-4ge1)
+- [Indicator to do better software design](https://dev.to/manoj_kumar_6703aa3643a64/indicator-to-do-better-software-design-4pad)
+- [Building with Twitter Data: A Developer&#39;s Guide to Cost-Effective Solutions](https://dev.to/kaito2046/building-with-twitter-data-a-developers-guide-to-cost-effective-solutions-4cmh)
+- [🚀 Supercharge Your PHP Projects with FileSizeHandler: A Flexible and Extensible File Size Utility](https://dev.to/nassiry/supercharge-your-php-projects-with-filesizehandler-a-flexible-and-extensible-file-size-utility-3nn9)
 <!-- BLOG-POST-LIST:END -->
 
