@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BionicGPT Partners with Pump.fun: Empowering Enterprise AI](https://dev.to/gptbionic/bionicgpt-partners-with-pumpfun-empowering-enterprise-ai-412n)
-- [The latest version of Chrome browser enable SolidWorks 3D controls for ActiveX controls](https://dev.to/yunkaipx/the-latest-version-of-chrome-browser-enable-solidworks-3d-controls-for-activex-controls-l6e)
-- [How to Override Decorator Arguments in Python](https://dev.to/nomi3/how-to-override-decorator-arguments-in-python-120b)
-- [Observability Unveiled: Key Insights from IBM’s SRE Expert](https://dev.to/mettasurendhar/observability-unveiled-key-insights-from-ibms-sre-expert-4k1h)
+- [Quando usar ResponseEntity?](https://dev.to/oigorrudel/quando-usar-responseentity-36b6)
+- [Building and Deploying a New API &lpar;Part 2&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-2-5dm)
+- [What is IoT? A Comprehensive Guide to the Internet of Things](https://dev.to/scitech-insights/what-is-iot-a-comprehensive-guide-to-the-internet-of-things-28n8)
+- [10 Months of Elm to Angular](https://dev.to/jesterxl/10-months-of-elm-to-angular-enh)
 <!-- BLOG-POST-LIST:END -->
 
