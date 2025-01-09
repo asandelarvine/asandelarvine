@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Automation in Data Analytics: Tools, Techniques, and Challenges](https://dev.to/ahanash46390872/ai-and-automation-in-data-analytics-tools-techniques-and-challenges-e6m)
-- [Understanding CPU Performance: A Detailed Guide to Comparing Processors for Optimal Computing](https://dev.to/adityabhuyan/understanding-cpu-performance-a-detailed-guide-to-comparing-processors-for-optimal-computing-3e0o)
-- [JavaScript Memory Optimization Techniques](https://dev.to/nhannguyendevjs/javascript-memory-optimization-techniques-4jkf)
-- [Why I Built commit-ai: A Story About Git Security and Team Safety](https://dev.to/luanphungba/why-i-built-commit-ai-a-story-about-git-security-and-team-safety-1ejn)
+- [UXGamer Labs - Testers Needed!](https://dev.to/itayzuriel/uxgamer-labs-testers-needed-1lol)
+- [What I Learned from the &#39;Amazon DynamoDB for Serverless Architectures&#39; Course on AWS Skill Builder](https://dev.to/hoangquochung1110/what-i-learned-from-the-amazon-dynamodb-for-serverless-architectures-course-on-aws-skill-builder-58og)
+- [The OceanGate of Software Development: Coding with Generative AI](https://dev.to/itamartati/the-oceangate-of-software-development-coding-with-generative-ai-346j)
+- [Using git Conditionals to Manage Your Git Identities](https://dev.to/implosion/using-git-conditionals-to-manage-your-git-identities-3664)
 <!-- BLOG-POST-LIST:END -->
 
