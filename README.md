@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Building APIs with Laravel Sanctum](https://dev.to/ehtesham_ali_abc367f36a5b/day-6-building-apis-with-laravel-sanctum-4l05)
-- [How to Develop an OTT App like Netflix?](https://dev.to/yudizsolutions/how-to-develop-an-ott-app-like-netflix-9mm)
-- [Smart and Modular Validation Toolkit](https://dev.to/jackfd120/smart-and-modular-validation-toolkit-3o6b)
-- [Item 82: Documente a thread safety](https://dev.to/javaefetivo/item-82-documente-a-thread-safety-3jc3)
+- [Digital Signage Content Management Systems &lpar;CMS&rpar;: The Ultimate Guide](https://dev.to/evelynwyatt/digital-signage-content-management-systems-cms-the-ultimate-guide-28kh)
+- [Experience the magic of interactive web animations!](https://dev.to/prince_beec5ccde00b7c6c73/experience-the-magic-of-interactive-web-animations-1g9i)
+- [How Mobile Event Apps Revolutionize Check-Ins and Simplify Ticketing](https://dev.to/saanvipatel099/how-mobile-event-apps-revolutionize-check-ins-and-simplify-ticketing-38eb)
+- [QuoteAI Pro: Generate Project Estimates in Minutes with AI Precision](https://dev.to/material360/quoteai-pro-generate-project-estimates-in-minutes-with-ai-precision-4j74)
 <!-- BLOG-POST-LIST:END -->
 
