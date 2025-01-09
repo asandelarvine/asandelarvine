@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Gatsby to Next.js: Why We Migrated Our Blog and How You Can Too](https://dev.to/flotiq/from-gatsby-to-nextjs-why-we-migrated-our-blog-and-how-you-can-too-e96)
-- [Strategy Pattern](https://dev.to/stevsharp/strategy-pattern-h9l)
-- [How the World’s Slowest HELLO WORLD Program Was Born](https://dev.to/eigil_bjrgum_80e0a17784f/how-the-worlds-slowest-hello-world-program-was-born-o29)
-- [How to Implement Brand Indicators For Message Identification &lpar;BIMI&rpar; to Display The Brand Logo in an Email?](https://dev.to/certera_/how-to-implement-brand-indicators-for-message-identification-bimi-to-display-the-brand-logo-in-an-gbk)
+- [Distributed Monolith: Why Are You Destroying My Life?](https://dev.to/dminatto/distributed-monolith-why-are-you-destroying-my-life-5hj5)
+- [Education Technology Trends That Will Impact Your Business In 2025](https://dev.to/techdogs_inc/education-technology-trends-that-will-impact-your-business-in-2025-598k)
+- [You can open a startup in open-source and quit your daily job 🤑](https://dev.to/nevodavid/you-can-open-a-startup-in-open-source-and-quit-your-daily-job-3ld5)
+- [How to Use AJAX in TYPO3 with TypoScript and Extbase](https://dev.to/sanjaychauhan/how-to-use-ajax-in-typo3-with-typoscript-and-extbase-2kmc)
 <!-- BLOG-POST-LIST:END -->
 
