@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Middleware Extensions in .NET Core Web API](https://dev.to/gaurav-nandankar/custom-middleware-extensions-in-net-core-web-api-4ndm)
-- [Applications for java Developers](https://dev.to/mirajhad/applications-for-java-developers-5em8)
-- [&quot;Understanding Blockchain: The Foundation of Decentralized Systems&quot;](https://dev.to/sania_ashraf_c97464909c1d/understanding-blockchain-the-foundation-of-decentralized-systems-7g9)
-- [Calculating Quarterly Taxes as a Freelancer](https://dev.to/mrispoli24/calculating-quarterly-taxes-as-a-freelancer-27i0)
+- [Update WSL Ubuntu password](https://dev.to/geeky_coder_cf994db71d263/update-wsl-ubuntu-password-5cpk)
+- [Complete Full-Stack Web App Development Roadmap](https://dev.to/daan_balm_47e72b39b1db15e/complete-full-stack-web-app-development-roadmap-k5g)
+- [&quot;Pesquei, Java!&quot; | Classe e Objeto em Foco: Da Abstração à Realidade](https://dev.to/bsalla/pesquei-java-classe-e-objeto-em-foco-da-abstracao-a-realidade-3d52)
+- [Day 3 -&gt; Athena empties the quiver](https://dev.to/miketypes/day-3-athena-empties-the-quiver-3kc2)
 <!-- BLOG-POST-LIST:END -->
 
