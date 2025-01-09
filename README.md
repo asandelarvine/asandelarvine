@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why iOS 18 is Perfect for Building Custom Business Apps in 2025?](https://dev.to/prashantpujara/why-ios-18-is-perfect-for-building-custom-business-apps-in-2025-mj7)
-- [Understand Google SERP Scraping: How to Extract Valuable SEO Data](https://dev.to/kervi_11_/understand-google-serp-scraping-how-to-extract-valuable-seo-data-akd)
-- [Software Testing Tasks with Challenges, Tools, and Best Practices](https://dev.to/pulkit_singh_ed61dba49ac9/software-testing-tasks-with-challenges-tools-and-best-practices-3fml)
-- [Understanding the Bharat Bill Payment System &lpar;BBPS&rpar; Ecosystem description:](https://dev.to/munisekhar_udavapati/understanding-the-bharat-bill-payment-system-bbps-ecosystemdescription-l34)
+- [Crudify: Automate Your Mongoose CRUD Operations in NestJS](https://dev.to/mitinoh/crudify-automate-your-mongoose-crud-operations-in-nestjs-455a)
+- [BBPS API SPECIFICATIONS](https://dev.to/munisekhar_udavapati/bbps-api-specifications-pkh)
+- [From Burn-out To Balance-out](https://dev.to/prakirth/from-burn-out-to-balance-out-4i4f)
+- [DTO &amp; DAO in Software Development](https://dev.to/mrcaption49/dto-dao-in-software-development-2olf)
 <!-- BLOG-POST-LIST:END -->
 
