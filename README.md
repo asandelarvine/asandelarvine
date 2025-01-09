@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing the Power of Self-Hosted Supabase on Coolify: A Complete Guide to Server Setup and OAuth Providers Integration](https://dev.to/musayazlik/harnessing-the-power-of-self-hosted-supabase-on-coolify-a-complete-guide-to-server-setup-and-oauth-34c5)
-- [Navigating the Complexities of Open-Source Tool Architecture: Advanced Strategies for Success](https://dev.to/efficient_front/navigating-the-complexities-of-open-source-tool-architecture-advanced-strategies-for-success-1n3)
-- [Web Accessibility: Who&#39;s it for?](https://dev.to/gloriakaduru/web-accessibility-whos-it-for-3889)
-- [2185. Counting Words With a Given Prefix](https://dev.to/mdarifulhaque/2185-counting-words-with-a-given-prefix-408d)
+- [From Gatsby to Next.js: Why We Migrated Our Blog and How You Can Too](https://dev.to/flotiq/from-gatsby-to-nextjs-why-we-migrated-our-blog-and-how-you-can-too-e96)
+- [Strategy Pattern](https://dev.to/stevsharp/strategy-pattern-h9l)
+- [How the World’s Slowest HELLO WORLD Program Was Born](https://dev.to/eigil_bjrgum_80e0a17784f/how-the-worlds-slowest-hello-world-program-was-born-o29)
+- [How to Implement Brand Indicators For Message Identification &lpar;BIMI&rpar; to Display The Brand Logo in an Email?](https://dev.to/certera_/how-to-implement-brand-indicators-for-message-identification-bimi-to-display-the-brand-logo-in-an-gbk)
 <!-- BLOG-POST-LIST:END -->
 
