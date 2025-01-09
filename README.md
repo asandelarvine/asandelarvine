@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Challenge - December Edition](https://dev.to/adamgazdiev/frontend-challenge-december-edition-4mn8)
-- [.NET tarixi haqida qisqacha](https://dev.to/munisa_kuranbekova_078e1e/net-tarixi-haqida-qisqacha-2f2)
-- [&quot;Unlocking Quantum Potential: The Purcell Effect in Photon-Magnon Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-the-purcell-effect-in-photon-magnon-systems-5cba)
-- [How to Write Simple API Documentation for an Endpoint](https://dev.to/msnmongare/how-to-write-simple-api-documentation-for-an-endpoint-1e90)
+- [Harnessing the Power of Self-Hosted Supabase on Coolify: A Complete Guide to Server Setup and OAuth Providers Integration](https://dev.to/musayazlik/harnessing-the-power-of-self-hosted-supabase-on-coolify-a-complete-guide-to-server-setup-and-oauth-34c5)
+- [Navigating the Complexities of Open-Source Tool Architecture: Advanced Strategies for Success](https://dev.to/efficient_front/navigating-the-complexities-of-open-source-tool-architecture-advanced-strategies-for-success-1n3)
+- [Web Accessibility: Who&#39;s it for?](https://dev.to/gloriakaduru/web-accessibility-whos-it-for-3889)
+- [2185. Counting Words With a Given Prefix](https://dev.to/mdarifulhaque/2185-counting-words-with-a-given-prefix-408d)
 <!-- BLOG-POST-LIST:END -->
 
