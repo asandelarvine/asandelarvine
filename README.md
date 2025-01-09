@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking 101: IP Addressing](https://dev.to/godofgeeks/networking-101-ip-addressing-3of2)
-- [GIT hack: Sort and show recent branches](https://dev.to/kwnaidoo/git-hack-sort-and-show-recent-branches-3nb8)
-- [Amazon Q Developer Now Available in Amazon SageMaker Code Editor IDE](https://dev.to/aihrudu/amazon-q-developer-now-available-in-amazon-sagemaker-code-editor-ide-1e17)
-- [Essential FFmpeg Recipes for Video Manipulation](https://dev.to/abbazs/essential-ffmpeg-recipes-for-video-manipulation-gn4)
+- [Frontend Challenge - December Edition](https://dev.to/adamgazdiev/frontend-challenge-december-edition-4mn8)
+- [.NET tarixi haqida qisqacha](https://dev.to/munisa_kuranbekova_078e1e/net-tarixi-haqida-qisqacha-2f2)
+- [&quot;Unlocking Quantum Potential: The Purcell Effect in Photon-Magnon Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-the-purcell-effect-in-photon-magnon-systems-5cba)
+- [How to Write Simple API Documentation for an Endpoint](https://dev.to/msnmongare/how-to-write-simple-api-documentation-for-an-endpoint-1e90)
 <!-- BLOG-POST-LIST:END -->
 
