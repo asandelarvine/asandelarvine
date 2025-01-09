@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Signage Content Management Systems &lpar;CMS&rpar;: The Ultimate Guide](https://dev.to/evelynwyatt/digital-signage-content-management-systems-cms-the-ultimate-guide-28kh)
-- [Experience the magic of interactive web animations!](https://dev.to/prince_beec5ccde00b7c6c73/experience-the-magic-of-interactive-web-animations-1g9i)
-- [How Mobile Event Apps Revolutionize Check-Ins and Simplify Ticketing](https://dev.to/saanvipatel099/how-mobile-event-apps-revolutionize-check-ins-and-simplify-ticketing-38eb)
-- [QuoteAI Pro: Generate Project Estimates in Minutes with AI Precision](https://dev.to/material360/quoteai-pro-generate-project-estimates-in-minutes-with-ai-precision-4j74)
+- [Networking 101: IP Addressing](https://dev.to/godofgeeks/networking-101-ip-addressing-3of2)
+- [GIT hack: Sort and show recent branches](https://dev.to/kwnaidoo/git-hack-sort-and-show-recent-branches-3nb8)
+- [Amazon Q Developer Now Available in Amazon SageMaker Code Editor IDE](https://dev.to/aihrudu/amazon-q-developer-now-available-in-amazon-sagemaker-code-editor-ide-1e17)
+- [Essential FFmpeg Recipes for Video Manipulation](https://dev.to/abbazs/essential-ffmpeg-recipes-for-video-manipulation-gn4)
 <!-- BLOG-POST-LIST:END -->
 
