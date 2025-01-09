@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: The Future of Intelligent Automation](https://dev.to/abhinav11234/ai-agents-the-future-of-intelligent-automation-4ge1)
-- [Indicator to do better software design](https://dev.to/manoj_kumar_6703aa3643a64/indicator-to-do-better-software-design-4pad)
-- [Building with Twitter Data: A Developer&#39;s Guide to Cost-Effective Solutions](https://dev.to/kaito2046/building-with-twitter-data-a-developers-guide-to-cost-effective-solutions-4cmh)
-- [🚀 Supercharge Your PHP Projects with FileSizeHandler: A Flexible and Extensible File Size Utility](https://dev.to/nassiry/supercharge-your-php-projects-with-filesizehandler-a-flexible-and-extensible-file-size-utility-3nn9)
+- [Custom Middleware Extensions in .NET Core Web API](https://dev.to/gaurav-nandankar/custom-middleware-extensions-in-net-core-web-api-4ndm)
+- [Applications for java Developers](https://dev.to/mirajhad/applications-for-java-developers-5em8)
+- [&quot;Understanding Blockchain: The Foundation of Decentralized Systems&quot;](https://dev.to/sania_ashraf_c97464909c1d/understanding-blockchain-the-foundation-of-decentralized-systems-7g9)
+- [Calculating Quarterly Taxes as a Freelancer](https://dev.to/mrispoli24/calculating-quarterly-taxes-as-a-freelancer-27i0)
 <!-- BLOG-POST-LIST:END -->
 
