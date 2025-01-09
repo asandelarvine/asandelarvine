@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use cases for Turbo&#39;s Custom Events](https://dev.to/railsdesigner/use-cases-for-turbos-custom-events-6gp)
-- [Building a Professional Game Loop in TypeScript: From Basic to Advanced Implementation](https://dev.to/stormsidali2001/building-a-professional-game-loop-in-typescript-from-basic-to-advanced-implementation-eo8)
-- [🔀 Merging Strategies: Handling Conflicts Like a Pro 🔃](https://dev.to/aws-builders/merging-strategies-handling-conflicts-like-a-pro-4d0h)
-- [Engage Users Instantly: Embed an Interactive Demo in your React SPA](https://dev.to/nick_van_dyke/engage-users-instantly-embed-an-interactive-demo-in-your-react-spa-2cf1)
+- [10 Backend Terms Every Frontend Developer Should Know](https://dev.to/thesanjeevsharma/10-backend-terms-every-frontend-developer-should-know-2o2h)
+- [Getting Started with Keycloak: Understanding the Basics](https://dev.to/haithamoumer/getting-started-with-keycloak-understanding-the-basics-55bf)
+- [Want to be a better full-stack developer? Know the web and HTTP principles](https://dev.to/manonja/want-to-be-a-better-full-stack-developer-know-the-web-and-http-principles-o7n)
+- [The Agile Trap: Why Sprinting Alone Won’t Get You to the Finish Line](https://dev.to/hotfixhero/the-agile-trap-why-sprinting-alone-wont-get-you-to-the-finish-line-4gmb)
 <!-- BLOG-POST-LIST:END -->
 
