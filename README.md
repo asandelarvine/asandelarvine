@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to customize Next.js metadata](https://dev.to/clerk/how-to-customize-nextjs-metadata-p4k)
-- [Optimize PostgreSQL Storage: What Developers Must Know](https://dev.to/timescale/optimize-postgresql-storage-what-developers-must-know-4pef)
-- [JavaScript Deep Dive: Understanding Operators](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-operators-564o)
-- [Tyler Durden: The Alpha and Omega of Cinematic Nihilism](https://dev.to/triple7/tyler-durden-the-alpha-and-omega-of-cinematic-nihilism-1lgd)
+- [The Complete Guide to Bash Commands](https://dev.to/nolunchbreaks_22/the-complete-guide-to-bash-commands-42je)
+- [Web3: Fantastic SDAPPS and Where to Find Them!](https://dev.to/toorion/web3-fantastic-sdapps-and-where-to-find-them-2g5i)
+- [becoming an AI-solopreneur with zero coding/business experience](https://dev.to/pianolabs/becoming-an-ai-solopreneur-with-zero-codingbusiness-experience-1klh)
+- [Shared form with config files in NextJs](https://dev.to/zerk4/shared-form-with-config-files-in-nextjs-5ehc)
 <!-- BLOG-POST-LIST:END -->
 
