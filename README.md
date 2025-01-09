@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crudify: Automate Your Mongoose CRUD Operations in NestJS](https://dev.to/mitinoh/crudify-automate-your-mongoose-crud-operations-in-nestjs-455a)
-- [BBPS API SPECIFICATIONS](https://dev.to/munisekhar_udavapati/bbps-api-specifications-pkh)
-- [From Burn-out To Balance-out](https://dev.to/prakirth/from-burn-out-to-balance-out-4i4f)
-- [DTO &amp; DAO in Software Development](https://dev.to/mrcaption49/dto-dao-in-software-development-2olf)
+- [BionicGPT Partners with Pump.fun: Empowering Enterprise AI](https://dev.to/gptbionic/bionicgpt-partners-with-pumpfun-empowering-enterprise-ai-412n)
+- [The latest version of Chrome browser enable SolidWorks 3D controls for ActiveX controls](https://dev.to/yunkaipx/the-latest-version-of-chrome-browser-enable-solidworks-3d-controls-for-activex-controls-l6e)
+- [How to Override Decorator Arguments in Python](https://dev.to/nomi3/how-to-override-decorator-arguments-in-python-120b)
+- [Observability Unveiled: Key Insights from IBM’s SRE Expert](https://dev.to/mettasurendhar/observability-unveiled-key-insights-from-ibms-sre-expert-4k1h)
 <!-- BLOG-POST-LIST:END -->
 
