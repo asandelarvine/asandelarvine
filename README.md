@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UXGamer Labs - Testers Needed!](https://dev.to/itayzuriel/uxgamer-labs-testers-needed-1lol)
-- [What I Learned from the &#39;Amazon DynamoDB for Serverless Architectures&#39; Course on AWS Skill Builder](https://dev.to/hoangquochung1110/what-i-learned-from-the-amazon-dynamodb-for-serverless-architectures-course-on-aws-skill-builder-58og)
-- [The OceanGate of Software Development: Coding with Generative AI](https://dev.to/itamartati/the-oceangate-of-software-development-coding-with-generative-ai-346j)
-- [Using git Conditionals to Manage Your Git Identities](https://dev.to/implosion/using-git-conditionals-to-manage-your-git-identities-3664)
+- [Day 6: Building APIs with Laravel Sanctum](https://dev.to/ehtesham_ali_abc367f36a5b/day-6-building-apis-with-laravel-sanctum-4l05)
+- [How to Develop an OTT App like Netflix?](https://dev.to/yudizsolutions/how-to-develop-an-ott-app-like-netflix-9mm)
+- [Smart and Modular Validation Toolkit](https://dev.to/jackfd120/smart-and-modular-validation-toolkit-3o6b)
+- [Item 82: Documente a thread safety](https://dev.to/javaefetivo/item-82-documente-a-thread-safety-3jc3)
 <!-- BLOG-POST-LIST:END -->
 
