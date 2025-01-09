@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Backend Terms Every Frontend Developer Should Know](https://dev.to/thesanjeevsharma/10-backend-terms-every-frontend-developer-should-know-2o2h)
-- [Getting Started with Keycloak: Understanding the Basics](https://dev.to/haithamoumer/getting-started-with-keycloak-understanding-the-basics-55bf)
-- [Want to be a better full-stack developer? Know the web and HTTP principles](https://dev.to/manonja/want-to-be-a-better-full-stack-developer-know-the-web-and-http-principles-o7n)
-- [The Agile Trap: Why Sprinting Alone Won’t Get You to the Finish Line](https://dev.to/hotfixhero/the-agile-trap-why-sprinting-alone-wont-get-you-to-the-finish-line-4gmb)
+- [How to customize Next.js metadata](https://dev.to/clerk/how-to-customize-nextjs-metadata-p4k)
+- [Optimize PostgreSQL Storage: What Developers Must Know](https://dev.to/timescale/optimize-postgresql-storage-what-developers-must-know-4pef)
+- [JavaScript Deep Dive: Understanding Operators](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-operators-564o)
+- [Tyler Durden: The Alpha and Omega of Cinematic Nihilism](https://dev.to/triple7/tyler-durden-the-alpha-and-omega-of-cinematic-nihilism-1lgd)
 <!-- BLOG-POST-LIST:END -->
 
