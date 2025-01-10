@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 1 Thing I Love About TailwindCSS v4 Beta and 1 Thing I Hate ✨](https://dev.to/meschacirung/1-thing-i-love-about-tailwindcss-v4-beta-and-1-thing-i-hate-3go)
-- [Loco 0.14 on Cathyos: 始め方](https://dev.to/nabbisen/loco-014-on-cathyos-shi-mefang-nch)
-- [Landing Table vs Staging Table: Understanding Their Role in MDM Implementation](https://dev.to/hana_sato/landing-table-vs-staging-table-understanding-their-role-in-mdm-implementation-57if)
-- [Cervical Spondylosis: Early Warning Signs and How to Manage Them](https://dev.to/malhotraaarav189/cervical-spondylosis-early-warning-signs-and-how-to-manage-them-3n12)
+- [Lessons from My 2 SaaS Exits 🔑 Fueling My Next Big Exits](https://dev.to/martin_the_m/lessons-from-my-2-saas-exits-fueling-my-next-big-exits-2a8o)
+- [2025: From &#39;Can Someone Help?&#39; to &#39;I’ve Got This!&#39;🤩](https://dev.to/harshit_rwt/2025-from-can-someone-help-to-ive-got-this-p7e)
+- [Revolutionizing Operations with Comprehensive Equipment Management Systems](https://dev.to/seleam/revolutionizing-operations-with-comprehensive-equipment-management-systems-586h)
+- [🔥Top Web Dev Trends to Dominate in 2025 and Beyond 🚀🌐](https://dev.to/bhuwan71/top-web-dev-trends-to-dominate-in-2025-and-beyond-29l8)
 <!-- BLOG-POST-LIST:END -->
 
