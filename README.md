@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NameWiz: Building a Creative Name Generator with GitHub Copilot](https://dev.to/olgabraginskaya/namewiz-building-a-creative-name-generator-with-github-copilot-4koo)
-- [Versioning in Go Huma](https://dev.to/programmingdecoded/versioning-in-go-huma-5g0p)
-- [The Dos and Don’ts of Mobile-Friendly Web Development](https://dev.to/bkthemes/the-dos-and-donts-of-mobile-friendly-web-development-4776)
-- [Enhance Your macOS Terminal with Oh My Zsh, Autosuggestions, and Powerlevel10k](https://dev.to/arnav_sharma_e9029557ff8b/enhance-your-macos-terminal-with-oh-my-zsh-autosuggestions-and-powerlevel10k-37c5)
+- [Stop Comparing Frameworks and Languages: It’s a Waste of Time](https://dev.to/hotfixhero/stop-comparing-frameworks-and-languages-its-a-waste-of-time-135f)
+- [Ruby on Rails - Calculating pricing based user&#39;s purchasing power parity](https://dev.to/waruna/ruby-on-rails-calculating-pricing-based-users-purchasing-power-parity-4bc8)
+- [Codewars - Pick peaks](https://dev.to/dantedinopegassi/codewars-pick-peaks-3nkn)
+- [How to Host a Project on Firebase Hosting](https://dev.to/roton2/how-to-host-a-project-on-firebase-hosting-37dg)
 <!-- BLOG-POST-LIST:END -->
 
