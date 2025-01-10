@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 very simple React patterns to immediately improve your codebase 🪄](https://dev.to/tymzap/3-very-simple-react-patterns-to-immediately-improve-your-codebase-573)
-- [&quot;Revolutionizing Brain Cancer Diagnosis with DenseNet169 and Explainable AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-brain-cancer-diagnosis-with-densenet169-and-explainable-ai-2m81)
-- [How AI Will Impact Your High-Frequency Trading Clients](https://dev.to/stealc/how-ai-will-impact-your-high-frequency-trading-clients-17hl)
-- [The AI Evolution in Software Development: Crafting the Future of Innovation](https://dev.to/vaibhavkuls/the-ai-evolution-in-software-development-crafting-the-future-of-innovation-42lb)
+- [NameWiz: Building a Creative Name Generator with GitHub Copilot](https://dev.to/olgabraginskaya/namewiz-building-a-creative-name-generator-with-github-copilot-4koo)
+- [Versioning in Go Huma](https://dev.to/programmingdecoded/versioning-in-go-huma-5g0p)
+- [The Dos and Don’ts of Mobile-Friendly Web Development](https://dev.to/bkthemes/the-dos-and-donts-of-mobile-friendly-web-development-4776)
+- [Enhance Your macOS Terminal with Oh My Zsh, Autosuggestions, and Powerlevel10k](https://dev.to/arnav_sharma_e9029557ff8b/enhance-your-macos-terminal-with-oh-my-zsh-autosuggestions-and-powerlevel10k-37c5)
 <!-- BLOG-POST-LIST:END -->
 
