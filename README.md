@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t want to update software](https://dev.to/xao0isb/i-dont-want-to-update-software-1mgi)
-- [From Sales to Learning How to Code to Developer……Well Almost &lpar;Part 4&rpar;](https://dev.to/hroman_codes/from-sales-to-learning-how-to-code-to-developerwell-almost-part-4-95)
-- [I Built the ULTIMATE Educational Website from Scratch — Day 3](https://dev.to/who_tf_cares/i-built-the-ultimate-educational-website-from-scratch-day-3-4elf)
-- [Your own Telegram bot on NodeJS with TypeScript, Telegraf and Fastify &lpar;Part 3&rpar;](https://dev.to/6akcuk/your-own-telegram-bot-on-nodejs-with-typescript-telegraf-and-fastify-part-3-1f59)
+- [A decade in computer science &lpar;2014 - 2024&rpar;- A brief review.](https://dev.to/saonideb/a-decade-in-computer-science-2014-2024-a-brief-review-2lah)
+- [Designing the solution in product management](https://dev.to/wdp/designing-the-solution-in-product-management-38i2)
+- [React.js vs. Vue.js: Comparing Strengths and Use Cases](https://dev.to/lucky_6400/reactjs-vs-vuejs-comparing-strengths-and-use-cases-1bk4)
+- [Cyber skill chain](https://dev.to/aj_0/cyber-skill-chain-3h6f)
 <!-- BLOG-POST-LIST:END -->
 
