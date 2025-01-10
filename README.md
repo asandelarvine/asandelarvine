@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Participating in a hackathon: My experience](https://dev.to/israelrotimi/participating-in-a-hackathon-my-experience-177g)
-- [Your Roadmap to Mastering k6 for Performance Testing](https://dev.to/jfreveb/your-roadmap-to-mastering-k6-for-performance-testing-5eae)
-- [Here&#39;s how to brew obfuscation in JavaScript without burning the lab: AST, Babel, plugins.](https://dev.to/karust/heres-how-to-brew-obfuscation-in-javascript-without-burning-the-lab-ast-babel-plugins-2k2d)
-- [Top JavaScript Interview Questions for 2 Years of Experience](https://dev.to/greatfrontend/top-javascript-interview-questions-for-2-years-of-experience-20m9)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5j6)
+- [The Future of Architecture is Being Built by Robots](https://dev.to/material360/the-future-of-architecture-is-being-built-by-robots-4neb)
+- [TanStack Router: The Future of React Routing in 2025](https://dev.to/rigalpatel001/tanstack-router-the-future-of-react-routing-in-2025-421p)
+- [Unleashing the Power of Next: How You Can Benefit from It](https://dev.to/dhrumitdk/unleashing-the-power-of-next-how-you-can-benefit-from-it-3mk9)
 <!-- BLOG-POST-LIST:END -->
 
