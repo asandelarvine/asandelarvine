@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Taught is Still Possible In 2025](https://dev.to/nmiller15/self-taught-is-still-possible-in-2025-546d)
-- [Explore, Scan, Secure: Nmap for Network Ninjas](https://dev.to/karanjain2527/explore-scan-secure-nmap-for-network-ninjas-4p0m)
-- [How to improve MSAA performance of MTKView](https://dev.to/keaukraine/how-to-improve-msaa-performance-of-mtkview-25da)
-- [Mockando Constantes em Testes com Jest: Um Exemplo Prático](https://dev.to/vitorrios1001/mockando-constantes-em-testes-com-jest-um-exemplo-pratico-1g2c)
+- [AI-First Organization](https://dev.to/razbakov/ai-first-organization-2cf7)
+- [Poor man&#39;s parallel in Bash](https://dev.to/stolzenhain/poor-mans-parallel-in-bash-46e2)
+- [9 Terms Every Frontend Developer Should Know!](https://dev.to/rijultp/9-terms-every-frontend-developer-should-know-58p3)
+- [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://dev.to/sagnew/asynchronous-http-requests-in-python-with-httpx-and-asyncio-2n19)
 <!-- BLOG-POST-LIST:END -->
 
