@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Resilient Systems with Chaos Engineering in DevOps](https://dev.to/virajlakshitha/designing-resilient-systems-with-chaos-engineering-in-devops-h04)
-- [The System of Front-end UI Components](https://dev.to/ourai/the-system-of-front-end-ui-components-5hej)
-- [Understanding Microservices Architecture in Full-Stack Applications](https://dev.to/adityabhuyan/understanding-microservices-architecture-in-full-stack-applications-4n05)
-- [Tongcheng Travel Chose JuiceFS over CephFS to Manage Hundreds of Millions of Files](https://dev.to/daswu/tongcheng-travel-chose-juicefs-over-cephfs-to-manage-hundreds-of-millions-of-files-4a3m)
+- [Participating in a hackathon: My experience](https://dev.to/israelrotimi/participating-in-a-hackathon-my-experience-177g)
+- [Your Roadmap to Mastering k6 for Performance Testing](https://dev.to/jfreveb/your-roadmap-to-mastering-k6-for-performance-testing-5eae)
+- [Here&#39;s how to brew obfuscation in JavaScript without burning the lab: AST, Babel, plugins.](https://dev.to/karust/heres-how-to-brew-obfuscation-in-javascript-without-burning-the-lab-ast-babel-plugins-2k2d)
+- [Top JavaScript Interview Questions for 2 Years of Experience](https://dev.to/greatfrontend/top-javascript-interview-questions-for-2-years-of-experience-20m9)
 <!-- BLOG-POST-LIST:END -->
 
