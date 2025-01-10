@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 10 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-january-5cgl)
-- [Awesome tutorial using CopilotKit!](https://dev.to/uliyahoo/awesome-tutorial-using-copilotkit-5g74)
-- [Exploring Node.js – A Beginner&#39;s Guide](https://dev.to/keploy/exploring-nodejs-a-beginners-guide-h2p)
-- [pg_auto_embeddings — text embeddings directly in Postgres, without extensions](https://dev.to/elkornacio/pgautoembeddings-text-embeddings-directly-in-postgres-without-extensions-fbd)
+- [&lpar;Trying to&rpar; take notes from the lock screen](https://dev.to/tkuenneth/trying-to-take-notes-from-the-lock-screen-4h95)
+- [Nguyên lý High Cohesion trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-high-cohesion-trong-grasp-pattern-2cko)
+- [Unexpected Transformations: A Year of Growth Through Adversity](https://dev.to/ksolomon/unexpected-transformations-a-year-of-growth-through-adversity-500d)
+- [Find logged Microsoft SQL Server Messages](https://dev.to/flnzba/find-logged-microsoft-sql-server-messages-1mj2)
 <!-- BLOG-POST-LIST:END -->
 
