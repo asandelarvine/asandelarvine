@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Top HR Service Company Replaces its System Seamlessly with BladePipe](https://dev.to/bladepipe/a-top-hr-service-company-replaces-its-system-seamlessly-with-bladepipe-2agn)
-- [My 2025 Roadmap](https://dev.to/hamza_isaibrahim/my-2025-roadmap-3h4n)
-- [🚀Introduction to Building a Micro-SaaS with Next.js 🤑](https://dev.to/mrsupercraft/introduction-to-building-a-micro-saas-with-nextjs-4j40)
-- [My Graph API call shows IsLoopEnabled value false](https://dev.to/chetan_kashid_67cbd846dec/my-graph-api-call-shows-isloopenabled-value-false-3ph0)
+- [✨ 1 Thing I Love About TailwindCSS v4 Beta and 1 Thing I Hate ✨](https://dev.to/meschacirung/1-thing-i-love-about-tailwindcss-v4-beta-and-1-thing-i-hate-3go)
+- [Loco 0.14 on Cathyos: 始め方](https://dev.to/nabbisen/loco-014-on-cathyos-shi-mefang-nch)
+- [Landing Table vs Staging Table: Understanding Their Role in MDM Implementation](https://dev.to/hana_sato/landing-table-vs-staging-table-understanding-their-role-in-mdm-implementation-57if)
+- [Cervical Spondylosis: Early Warning Signs and How to Manage Them](https://dev.to/malhotraaarav189/cervical-spondylosis-early-warning-signs-and-how-to-manage-them-3n12)
 <!-- BLOG-POST-LIST:END -->
 
