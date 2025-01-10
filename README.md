@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5j6)
-- [The Future of Architecture is Being Built by Robots](https://dev.to/material360/the-future-of-architecture-is-being-built-by-robots-4neb)
-- [TanStack Router: The Future of React Routing in 2025](https://dev.to/rigalpatel001/tanstack-router-the-future-of-react-routing-in-2025-421p)
-- [Unleashing the Power of Next: How You Can Benefit from It](https://dev.to/dhrumitdk/unleashing-the-power-of-next-how-you-can-benefit-from-it-3mk9)
+- [Git Like a Pro: The Ultimate Cheat Sheet for Developers](https://dev.to/kafeel_ahmad/git-like-a-pro-the-ultimate-cheat-sheet-for-developers-3a87)
+- [AI assistance at autocomplete on coding](https://dev.to/pramananda_sarkar/ai-assistance-at-autocomplete-on-coding-41oi)
+- [Bag: A header-only, simplistic, C++20, zipping &amp; unzipping library.](https://dev.to/rechie_kho/bag-a-header-only-simplistic-c20-zipping-unzipping-library-1a6d)
+- [🐈‍⬛ Git and GitHub: A Beginner’s Guide to Version Control 🚀](https://dev.to/dct_technologyprivatelimited/git-and-github-a-beginners-guide-to-version-control-3f2h)
 <!-- BLOG-POST-LIST:END -->
 
