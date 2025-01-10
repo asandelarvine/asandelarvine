@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Trying to&rpar; take notes from the lock screen](https://dev.to/tkuenneth/trying-to-take-notes-from-the-lock-screen-4h95)
-- [Nguyên lý High Cohesion trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-high-cohesion-trong-grasp-pattern-2cko)
-- [Unexpected Transformations: A Year of Growth Through Adversity](https://dev.to/ksolomon/unexpected-transformations-a-year-of-growth-through-adversity-500d)
-- [Find logged Microsoft SQL Server Messages](https://dev.to/flnzba/find-logged-microsoft-sql-server-messages-1mj2)
+- [What are the types or formats of questions can I expect in the exam?? &lpar;OCA Java SE 8 Programmer I Certification&rpar;](https://dev.to/devmercy/what-are-the-types-or-formats-of-questions-can-i-expect-in-the-exam-oca-java-se-8-programmer-i-lmf)
+- [This Week In React #216 : Next.js, ViewTransition, RSC, Compiler, React Router, Recoil, Bippy, Docusaurus, A11y...](https://dev.to/sebastienlorber/this-week-in-react-216-nextjs-viewtransition-rsc-compiler-react-router-recoil-bippy-51b0)
+- [New to working on server side development... I designed a nodejs,express mongodb and ejs project when deployed on cpanel im getting error &quot;failed to load resource:the server responded with status 500&quot; when making API calls to third party api](https://dev.to/twain97/new-to-working-on-server-side-development-i-designed-a-nodejsexpress-mongodb-and-ejs-project-16fn)
+- [Tester c&#39;est tricher, compiler c&#39;est douter](https://dev.to/mrvym/tester-cest-tricher-compiler-cest-douter-h59)
 <!-- BLOG-POST-LIST:END -->
 
