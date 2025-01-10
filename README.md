@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-First Organization](https://dev.to/razbakov/ai-first-organization-2cf7)
-- [Poor man&#39;s parallel in Bash](https://dev.to/stolzenhain/poor-mans-parallel-in-bash-46e2)
-- [9 Terms Every Frontend Developer Should Know!](https://dev.to/rijultp/9-terms-every-frontend-developer-should-know-58p3)
-- [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://dev.to/sagnew/asynchronous-http-requests-in-python-with-httpx-and-asyncio-2n19)
+- [Crypto is Booming in China as Asia Leads with 60% of Global Users](https://dev.to/future_crypto/crypto-is-booming-in-china-as-asia-leads-with-60-of-global-users-43dh)
+- [Seizing Rare Opportunities: The Importance of Foresight in Lü Buwei&#39;s Story and Bitcoin &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/seizing-rare-opportunities-the-importance-of-foresight-in-lu-buweis-story-and-bitcoin-bite-size-5d7i)
+- [Building a Simple Conversational Chatbot LLM Application with LangChain](https://dev.to/sreeni5018/building-a-simple-conversational-chatbot-llm-application-with-langchain-4f8h)
+- [How we used gpt-4o for image detection with 350 very similar, single image classes.](https://dev.to/olup/how-we-used-gpt-4o-for-image-detection-with-350-very-similar-single-image-classes-3lmj)
 <!-- BLOG-POST-LIST:END -->
 
