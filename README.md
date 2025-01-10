@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Bash Commands](https://dev.to/nolunchbreaks_22/the-complete-guide-to-bash-commands-42je)
-- [Web3: Fantastic SDAPPS and Where to Find Them!](https://dev.to/toorion/web3-fantastic-sdapps-and-where-to-find-them-2g5i)
-- [becoming an AI-solopreneur with zero coding/business experience](https://dev.to/pianolabs/becoming-an-ai-solopreneur-with-zero-codingbusiness-experience-1klh)
-- [Shared form with config files in NextJs](https://dev.to/zerk4/shared-form-with-config-files-in-nextjs-5ehc)
+- [Retro’ing and Debugging 2024: A Developer&#39;s Journey to Independence](https://dev.to/block_experts_766a3a21915637/retroing-and-debugging-2024-empowering-freedom-a-developers-journey-to-independence-470m)
+- [25 Must-Check Elm Resources for Developers: Tutorials, Tools, and Tips](https://dev.to/0x3d_site/25-must-check-elm-resources-for-developers-tutorials-tools-and-tips-5dkc)
+- [🚀 Top 25+ Must-Read Productivity Articles for January 9, 2025](https://dev.to/dev-resources/top-25-must-read-productivity-articles-for-january-9-2025-n6f)
+- [Today&#39;s Hottest GitHub Projects: Top 56 Picks from January 9, 2025](https://dev.to/gittech/todays-hottest-github-projects-top-56-picks-from-january-9-2025-1f7c)
 <!-- BLOG-POST-LIST:END -->
 
