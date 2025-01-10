@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro’ing and Debugging 2024: A Developer&#39;s Journey to Independence](https://dev.to/block_experts_766a3a21915637/retroing-and-debugging-2024-empowering-freedom-a-developers-journey-to-independence-470m)
-- [25 Must-Check Elm Resources for Developers: Tutorials, Tools, and Tips](https://dev.to/0x3d_site/25-must-check-elm-resources-for-developers-tutorials-tools-and-tips-5dkc)
-- [🚀 Top 25+ Must-Read Productivity Articles for January 9, 2025](https://dev.to/dev-resources/top-25-must-read-productivity-articles-for-january-9-2025-n6f)
-- [Today&#39;s Hottest GitHub Projects: Top 56 Picks from January 9, 2025](https://dev.to/gittech/todays-hottest-github-projects-top-56-picks-from-january-9-2025-1f7c)
+- [The best web crawler tools in 2025](https://dev.to/98ip/the-best-web-crawler-tools-in-2025-331m)
+- [خا](https://dev.to/hamidreza_karbalivand_476/kh-2539)
+- [The Hidden Challenges of Cross-Border E-Commerce and How to Overcome Them](https://dev.to/hana_lee/the-hidden-challenges-of-cross-border-e-commerce-and-how-to-overcome-them-45el)
+- [CSS Gradient Generator 🚀 🌟](https://dev.to/hanzla-baig/css-gradient-generator-3occ)
 <!-- BLOG-POST-LIST:END -->
 
