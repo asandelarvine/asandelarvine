@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs - A BEGINNER’S GUIDE](https://dev.to/phanhie/apis-a-beginners-guide-37hb)
-- [Copilot vs ChatGPT: Which AI Tool Should You Use?](https://dev.to/keploy/copilot-vs-chatgpt-which-ai-tool-should-you-use-c8c)
-- [Do you really need AI Agents?](https://dev.to/mkinf_io/do-you-really-need-ai-agents-3f4g)
-- [Glimpse of Google: Peer bonuses](https://dev.to/rockandnull/glimpse-of-google-peer-bonuses-288c)
+- [🚀 Your Daily Crypto Job Digest For 10 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-january-5cgl)
+- [Awesome tutorial using CopilotKit!](https://dev.to/uliyahoo/awesome-tutorial-using-copilotkit-5g74)
+- [Exploring Node.js – A Beginner&#39;s Guide](https://dev.to/keploy/exploring-nodejs-a-beginners-guide-h2p)
+- [pg_auto_embeddings — text embeddings directly in Postgres, without extensions](https://dev.to/elkornacio/pgautoembeddings-text-embeddings-directly-in-postgres-without-extensions-fbd)
 <!-- BLOG-POST-LIST:END -->
 
