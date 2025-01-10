@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Comparing Frameworks and Languages: It’s a Waste of Time](https://dev.to/hotfixhero/stop-comparing-frameworks-and-languages-its-a-waste-of-time-135f)
-- [Ruby on Rails - Calculating pricing based user&#39;s purchasing power parity](https://dev.to/waruna/ruby-on-rails-calculating-pricing-based-users-purchasing-power-parity-4bc8)
-- [Codewars - Pick peaks](https://dev.to/dantedinopegassi/codewars-pick-peaks-3nkn)
-- [How to Host a Project on Firebase Hosting](https://dev.to/roton2/how-to-host-a-project-on-firebase-hosting-37dg)
+- [Self-Taught is Still Possible In 2025](https://dev.to/nmiller15/self-taught-is-still-possible-in-2025-546d)
+- [Explore, Scan, Secure: Nmap for Network Ninjas](https://dev.to/karanjain2527/explore-scan-secure-nmap-for-network-ninjas-4p0m)
+- [How to improve MSAA performance of MTKView](https://dev.to/keaukraine/how-to-improve-msaa-performance-of-mtkview-25da)
+- [Mockando Constantes em Testes com Jest: Um Exemplo Prático](https://dev.to/vitorrios1001/mockando-constantes-em-testes-com-jest-um-exemplo-pratico-1g2c)
 <!-- BLOG-POST-LIST:END -->
 
