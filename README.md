@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto is Booming in China as Asia Leads with 60% of Global Users](https://dev.to/future_crypto/crypto-is-booming-in-china-as-asia-leads-with-60-of-global-users-43dh)
-- [Seizing Rare Opportunities: The Importance of Foresight in Lü Buwei&#39;s Story and Bitcoin &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/seizing-rare-opportunities-the-importance-of-foresight-in-lu-buweis-story-and-bitcoin-bite-size-5d7i)
-- [Building a Simple Conversational Chatbot LLM Application with LangChain](https://dev.to/sreeni5018/building-a-simple-conversational-chatbot-llm-application-with-langchain-4f8h)
-- [How we used gpt-4o for image detection with 350 very similar, single image classes.](https://dev.to/olup/how-we-used-gpt-4o-for-image-detection-with-350-very-similar-single-image-classes-3lmj)
+- [I don&#39;t want to update software](https://dev.to/xao0isb/i-dont-want-to-update-software-1mgi)
+- [From Sales to Learning How to Code to Developer……Well Almost &lpar;Part 4&rpar;](https://dev.to/hroman_codes/from-sales-to-learning-how-to-code-to-developerwell-almost-part-4-95)
+- [I Built the ULTIMATE Educational Website from Scratch — Day 3](https://dev.to/who_tf_cares/i-built-the-ultimate-educational-website-from-scratch-day-3-4elf)
+- [Your own Telegram bot on NodeJS with TypeScript, Telegraf and Fastify &lpar;Part 3&rpar;](https://dev.to/6akcuk/your-own-telegram-bot-on-nodejs-with-typescript-telegraf-and-fastify-part-3-1f59)
 <!-- BLOG-POST-LIST:END -->
 
