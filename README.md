@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing!](https://dev.to/ben/testing-240)
-- [Kanye West Just Unleashes a Terrifying AI-Generated Music Video](https://dev.to/future_ai/kanye-west-just-unleashes-a-terrifying-ai-generated-music-video-ej-temp-slug-874619)
-- [The Singularity Approaches: Decoding the Signs and Speculations](https://dev.to/future_ai/the-singularity-approaches-decoding-the-signs-and-speculations-kj7-temp-slug-8398946)
-- [Project Digits: How NVIDIA&#39;s $3,000 AI Supercomputer Could Democratize Local AI Development | Caveman Press](https://dev.to/future_ai/project-digits-how-nvidias-3000-ai-supercomputer-could-democratize-local-ai-development--5gih-temp-slug-2147441)
+- [3 very simple React patterns to immediately improve your codebase 🪄](https://dev.to/tymzap/3-very-simple-react-patterns-to-immediately-improve-your-codebase-573)
+- [&quot;Revolutionizing Brain Cancer Diagnosis with DenseNet169 and Explainable AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-brain-cancer-diagnosis-with-densenet169-and-explainable-ai-2m81)
+- [How AI Will Impact Your High-Frequency Trading Clients](https://dev.to/stealc/how-ai-will-impact-your-high-frequency-trading-clients-17hl)
+- [The AI Evolution in Software Development: Crafting the Future of Innovation](https://dev.to/vaibhavkuls/the-ai-evolution-in-software-development-crafting-the-future-of-innovation-42lb)
 <!-- BLOG-POST-LIST:END -->
 
