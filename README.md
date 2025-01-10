@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of the Cyber Threat Landscape](https://dev.to/godofgeeks/basics-of-the-cyber-threat-landscape-2odd)
-- [3d portfolio](https://dev.to/vargha_rahavi/3d-portfolio-12p)
-- [Detecting and Mitigating Threats with AWS Security Hub and GuardDuty.](https://dev.to/goodluck_ekeoma_2c98866d0/detecting-and-mitigating-threats-with-aws-security-hub-and-guardduty-187k)
-- [Build Faster and Smarter with Containerized Development Environments](https://dev.to/getambassador2024/build-faster-and-smarter-with-containerized-development-environments-hpe)
+- [A Top HR Service Company Replaces its System Seamlessly with BladePipe](https://dev.to/bladepipe/a-top-hr-service-company-replaces-its-system-seamlessly-with-bladepipe-2agn)
+- [My 2025 Roadmap](https://dev.to/hamza_isaibrahim/my-2025-roadmap-3h4n)
+- [🚀Introduction to Building a Micro-SaaS with Next.js 🤑](https://dev.to/mrsupercraft/introduction-to-building-a-micro-saas-with-nextjs-4j40)
+- [My Graph API call shows IsLoopEnabled value false](https://dev.to/chetan_kashid_67cbd846dec/my-graph-api-call-shows-isloopenabled-value-false-3ph0)
 <!-- BLOG-POST-LIST:END -->
 
