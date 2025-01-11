@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Code: Why Problem-Solving Skills Are Essential for Programmers](https://dev.to/3nginuity/beyond-code-why-problem-solving-skills-are-essential-for-programmers-14n)
-- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/itanand_/compiling-2025-my-roadmap-for-the-year-ahead-1cjp)
-- [CDK construct for a SaaS that performs data analysis on S3 using DuckDB](https://dev.to/kazuho/cdk-construct-for-a-saas-that-performs-data-analysis-on-s3-using-duckdb-ebd)
-- [The 2 Body Problem - Why Developer Estimates Fail](https://dev.to/codekidx/the-2-body-problem-why-developer-estimates-fail-mji)
+- [From NFTs to DeFi: What Developers Can Do on Solana in 2025](https://dev.to/harsh_suthar_5a9a14772609/from-nfts-to-defi-what-developers-can-do-on-solana-in-2025-p92)
+- [Niftyzk tutorial 2, The Commit-reveal scheme](https://dev.to/strawberry666/niftyzk-tutorial-2-the-commit-reveal-scheme-25ll)
+- [Build a Mac Tool to Fix Grammar Using TypeScript, OpenAI API, and Automator](https://dev.to/radzion/build-a-mac-tool-to-fix-grammar-using-typescript-openai-api-and-automator-2399)
+- [Niftyzk tutorials 1](https://dev.to/strawberry666/niftyzk-tutorials-1-4i5e)
 <!-- BLOG-POST-LIST:END -->
 
