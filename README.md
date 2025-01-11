@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 JavaScript tricks only experienced developers know... Until now! 🧙‍](https://dev.to/tymzap/5-javascript-tricks-only-experienced-developers-know-until-now-4il6)
-- [⏳GitHub Copilot 1-Day Build Challenge : eol, a tiny Go client to manage eols](https://dev.to/adriens/github-copilot-1-day-build-challenge-eol-a-tiny-go-client-to-manage-eols-j)
-- [Inside the Node.js Event Loop: A Deep Dive](https://dev.to/leapcell/inside-the-nodejs-event-loop-a-deep-dive-152d)
-- [A tutorial on WinUI 3 &lpar;2025&rpar;](https://dev.to/mario_rosell_eba5bf025fde/a-tutorial-on-winui-3-2025-c8j)
+- [Learn Full-Stack Development: Part 1 - Mastering HTML and CSS in 10 Days](https://dev.to/rahulmpatel369/learn-full-stack-development-part-1-mastering-html-and-css-in-10-days-4h5o)
+- [Scrum Product Owner Certification: A Comprehensive Guide](https://dev.to/benmariemconsulting/scrum-product-owner-certification-a-comprehensive-guide-1p3)
+- [Use LateX in Astro.js for Markdown Rendering](https://dev.to/flnzba/use-latex-in-astrojs-for-markdown-rendering-4f2k)
+- [2025’s Must-Know Tech Stacks](https://dev.to/abubakersiddique761/2025s-must-know-tech-stacks-4b74)
 <!-- BLOG-POST-LIST:END -->
 
