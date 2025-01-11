@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Python Open Source Projects Not to Be Missed in 2025](https://dev.to/jaysaadana/top-python-open-source-projects-not-to-be-missed-in-2025-3cli)
-- [What Is Proof of Attribution? A Complete Guide to Its Role in Blockchain and AI](https://dev.to/joinwithken/what-is-proof-of-attribution-a-complete-guide-to-its-role-in-blockchain-and-ai-dbm)
-- [🚀 Applying SOLID Principles in NestJS: A Practical Guide](https://dev.to/abhivyaktii/applying-solid-principles-in-nestjs-a-practical-guide-i50)
-- [What’s New in Quantum PHP Framework 2.9 Release](https://dev.to/armanist84/whats-new-in-quantum-php-framework-29-release-3o1j)
+- [5 JavaScript tricks only experienced developers know... Until now! 🧙‍](https://dev.to/tymzap/5-javascript-tricks-only-experienced-developers-know-until-now-4il6)
+- [⏳GitHub Copilot 1-Day Build Challenge : eol, a tiny Go client to manage eols](https://dev.to/adriens/github-copilot-1-day-build-challenge-eol-a-tiny-go-client-to-manage-eols-j)
+- [Inside the Node.js Event Loop: A Deep Dive](https://dev.to/leapcell/inside-the-nodejs-event-loop-a-deep-dive-152d)
+- [A tutorial on WinUI 3 &lpar;2025&rpar;](https://dev.to/mario_rosell_eba5bf025fde/a-tutorial-on-winui-3-2025-c8j)
 <!-- BLOG-POST-LIST:END -->
 
