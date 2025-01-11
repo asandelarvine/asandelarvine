@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless FastAPI Development: Building Player FC API on AWS](https://dev.to/aws-builders/serverless-fastapi-development-building-player-fc-api-on-aws-3735)
-- [TypeScript Deep Dive: Mastering DeepStrictOmit, DeepStrictPick, and DeepStrictAssert](https://dev.to/kakasoo/typescript-deep-dive-mastering-deepstrictomit-deepstrictpick-and-deepstrictassert-jkm)
-- [AI Assistant Learns to Google: New Model Combines Language AI with Autonomous Web Search](https://dev.to/mikeyoung44/ai-assistant-learns-to-google-new-model-combines-language-ai-with-autonomous-web-search-4em7)
-- [Breakthrough Training Method Makes AI Art Generation Faster and More Stable Than Ever Before](https://dev.to/mikeyoung44/breakthrough-training-method-makes-ai-art-generation-faster-and-more-stable-than-ever-before-32gh)
+- [&quot;Unveiling Bias in AI: The FairCode Benchmark for Code Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-bias-in-ai-the-faircode-benchmark-for-code-generation-3c0a)
+- [Leetcode 75. Sort Colors](https://dev.to/devn913/leetcode-75-sort-colors-3imp)
+- [Rust From &amp; Into Traits - A Full Beginner’s Guide 🦀](https://dev.to/ansonh/rust-from-into-traits-a-full-beginners-guide-1m9l)
+- [The Secret to Making Landing Pages Convert: A Step-by-Step Guide](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-secret-to-making-landing-pages-convert-a-step-by-step-guide-ejp)
 <!-- BLOG-POST-LIST:END -->
 
