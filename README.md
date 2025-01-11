@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Massively Scalable Processing &amp; Massively Parallel Processing](https://dev.to/asankab/massively-scalable-processing-massively-parallel-processing-5h5h)
-- [🚀 Introducing DataForge: A Laravel-Based Framework to Transform Backend Development](https://dev.to/astratechnodataforge/introducing-dataforge-a-laravel-based-framework-to-transform-backend-development-1600)
-- [Top Blogging Platforms That Support Posting Articles via API](https://dev.to/chatgptnexus/2025011111-20-31-article-2m44)
-- [🤖🧠Making Tech Blog 2️⃣&lpar;MUI &lpar;Material UI&rpar;&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-2mui-material-ui-14g3)
+- [Beyond Code: Why Problem-Solving Skills Are Essential for Programmers](https://dev.to/3nginuity/beyond-code-why-problem-solving-skills-are-essential-for-programmers-14n)
+- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/itanand_/compiling-2025-my-roadmap-for-the-year-ahead-1cjp)
+- [CDK construct for a SaaS that performs data analysis on S3 using DuckDB](https://dev.to/kazuho/cdk-construct-for-a-saas-that-performs-data-analysis-on-s3-using-duckdb-ebd)
+- [The 2 Body Problem - Why Developer Estimates Fail](https://dev.to/codekidx/the-2-body-problem-why-developer-estimates-fail-mji)
 <!-- BLOG-POST-LIST:END -->
 
