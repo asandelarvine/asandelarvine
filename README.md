@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI Coding Assistants: How They’re Changing the Developer’s Workflow](https://dev.to/arjun98k/the-rise-of-ai-coding-assistants-how-theyre-changing-the-developers-workflow-19p5)
-- [Attended Re:invent Recap at aws user group surat](https://dev.to/fenil_patel_04/attended-reinvent-recap-at-aws-user-group-surat-43p9)
-- [90/365 | ¥10M Job Challenge - Resume review](https://dev.to/kameken100/90365-y10m-job-challenge-resume-review-jgp)
-- [Free APIs You Need to Know About in 2024](https://dev.to/raajaryan/free-apis-you-need-to-know-about-in-2024-1ko9)
+- [Integration for format.JS/react-intl: Automated Translations with doloc](https://dev.to/danielsc/integration-for-formatjsreact-intl-automated-translations-with-doloc-4gpf)
+- [Integration for Angular: Automated Translations with doloc](https://dev.to/danielsc/integration-for-angular-automated-translations-with-doloc-45mn)
+- [Help Shape a Platform for Student Collaboration and Open-Source Contribution! 🌟](https://dev.to/sred_32d5411adef35f2cc234/help-shape-a-platform-for-student-collaboration-and-open-source-contribution-119p)
+- [Show query window at startup in SQL Server Management Studio](https://dev.to/mirajhad/show-query-window-at-startup-in-sql-server-management-studio-1b42)
 <!-- BLOG-POST-LIST:END -->
 
