@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Stack, Bottom Tab, and Drawer Navigator in React Native](https://dev.to/amitkumar13/how-to-integrate-stack-bottom-tab-and-drawer-navigator-in-react-native-27e0)
-- [Resolving Peer Dependency Errors in React: A Comprehensive Guide ⚡](https://dev.to/aslanreza/resolving-peer-dependency-errors-in-react-a-comprehensive-guide-3all)
-- [Rendering Shopify Liquid Code Locally with VS Code](https://dev.to/flnzba/rendering-shopify-liquid-code-locally-with-vs-code-25hf)
-- [Day 2: Creating NBA Game Day Notification System using Event-Driven Architecture](https://dev.to/rahmantheman/day-2-creating-nba-game-day-notification-system-using-event-driven-architecture-14kh)
+- [Top Python Open Source Projects Not to Be Missed in 2025](https://dev.to/jaysaadana/top-python-open-source-projects-not-to-be-missed-in-2025-3cli)
+- [What Is Proof of Attribution? A Complete Guide to Its Role in Blockchain and AI](https://dev.to/joinwithken/what-is-proof-of-attribution-a-complete-guide-to-its-role-in-blockchain-and-ai-dbm)
+- [🚀 Applying SOLID Principles in NestJS: A Practical Guide](https://dev.to/abhivyaktii/applying-solid-principles-in-nestjs-a-practical-guide-i50)
+- [What’s New in Quantum PHP Framework 2.9 Release](https://dev.to/armanist84/whats-new-in-quantum-php-framework-29-release-3o1j)
 <!-- BLOG-POST-LIST:END -->
 
