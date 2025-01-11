@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Perfect Roadmap with Roadmap Creator - A Simple and Intuitive Tool](https://dev.to/bugblitz98/build-your-perfect-roadmap-with-roadmap-creator-a-simple-and-intuitive-tool-50pi)
-- [Week 12 of #100DaysOfCode: Resilience, Growth, and New Skills](https://dev.to/toptech5419/week-12-of-100daysofcode-resilience-growth-and-new-skills-1f7j)
-- [Reason for Talking About Front-end of Web-based Management Systems](https://dev.to/ourai/reason-for-talking-about-front-end-of-web-based-management-systems-1nm1)
-- [Resources and Cost Optimization Strategy in AWS](https://dev.to/danmuso/resources-and-cost-optimization-strategy-in-aws-iob)
+- [Mastering Secure Authentication in Node.js: Login/Logout with bcrypt.js and JWT](https://dev.to/tuhin114/mastering-secure-authentication-in-nodejs-loginlogout-with-bcryptjs-and-jwt-4kcl)
+- [Why Quick Sort is Faster Than Heap Sort](https://dev.to/jaiminbariya/why-quick-sort-is-faster-than-heap-sort-4aca)
+- [Insert into linked list random position](https://dev.to/myora/insert-into-linked-list-random-position-2029)
+- [How to create perfect CSS circle sectors](https://dev.to/andreigheorghiu/how-to-create-perfect-css-circle-sectors-2h43)
 <!-- BLOG-POST-LIST:END -->
 
