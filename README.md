@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unveiling Bias in AI: The FairCode Benchmark for Code Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-bias-in-ai-the-faircode-benchmark-for-code-generation-3c0a)
-- [Leetcode 75. Sort Colors](https://dev.to/devn913/leetcode-75-sort-colors-3imp)
-- [Rust From &amp; Into Traits - A Full Beginner’s Guide 🦀](https://dev.to/ansonh/rust-from-into-traits-a-full-beginners-guide-1m9l)
-- [The Secret to Making Landing Pages Convert: A Step-by-Step Guide](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-secret-to-making-landing-pages-convert-a-step-by-step-guide-ejp)
+- [Top 20 Unique Database Project Ideas For Students](https://dev.to/tarunfulera/top-20-unique-database-project-ideas-for-students-lej)
+- [Circle of Strategy: The Ultimate Puzzle Game for Logic Enthusiasts](https://dev.to/tjsyte/circle-of-strategy-the-ultimate-puzzle-game-for-logic-enthusiasts-2b40)
+- [Affordable Object Storage Solutions for Developers in 2025](https://dev.to/adityabhuyan/affordable-object-storage-solutions-for-developers-in-2025-2o17)
+- [Dependency injection validation error in ASP.NET Core projects](https://dev.to/alechka/dependency-injection-validation-error-in-aspnet-core-projects-3d7j)
 <!-- BLOG-POST-LIST:END -->
 
