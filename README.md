@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 Unique Database Project Ideas For Students](https://dev.to/tarunfulera/top-20-unique-database-project-ideas-for-students-lej)
-- [Circle of Strategy: The Ultimate Puzzle Game for Logic Enthusiasts](https://dev.to/tjsyte/circle-of-strategy-the-ultimate-puzzle-game-for-logic-enthusiasts-2b40)
-- [Affordable Object Storage Solutions for Developers in 2025](https://dev.to/adityabhuyan/affordable-object-storage-solutions-for-developers-in-2025-2o17)
-- [Dependency injection validation error in ASP.NET Core projects](https://dev.to/alechka/dependency-injection-validation-error-in-aspnet-core-projects-3d7j)
+- [How to Integrate Stack, Bottom Tab, and Drawer Navigator in React Native](https://dev.to/amitkumar13/how-to-integrate-stack-bottom-tab-and-drawer-navigator-in-react-native-27e0)
+- [Resolving Peer Dependency Errors in React: A Comprehensive Guide ⚡](https://dev.to/aslanreza/resolving-peer-dependency-errors-in-react-a-comprehensive-guide-3all)
+- [Rendering Shopify Liquid Code Locally with VS Code](https://dev.to/flnzba/rendering-shopify-liquid-code-locally-with-vs-code-25hf)
+- [Day 2: Creating NBA Game Day Notification System using Event-Driven Architecture](https://dev.to/rahmantheman/day-2-creating-nba-game-day-notification-system-using-event-driven-architecture-14kh)
 <!-- BLOG-POST-LIST:END -->
 
