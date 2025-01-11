@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Commit to Growth: My 2024 Reflection](https://dev.to/lymah/commit-to-growth-my-2024-reflection-1n1n)
+- [How to create components interfaces using useRef/forwardRef/useImperativeHandle](https://dev.to/matias-tanguito/how-to-create-components-interfaces-using-userefforwardrefuseimperativehandle-3app)
 - [A decade in computer science &lpar;2014 - 2024&rpar;- A brief review.](https://dev.to/saonideb/a-decade-in-computer-science-2014-2024-a-brief-review-2lah)
 - [Designing the solution in product management](https://dev.to/wdp/designing-the-solution-in-product-management-38i2)
-- [React.js vs. Vue.js: Comparing Strengths and Use Cases](https://dev.to/lucky_6400/reactjs-vs-vuejs-comparing-strengths-and-use-cases-1bk4)
-- [Cyber skill chain](https://dev.to/aj_0/cyber-skill-chain-3h6f)
 <!-- BLOG-POST-LIST:END -->
 
