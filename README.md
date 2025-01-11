@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MY PORTFOLIO WEBSITE](https://dev.to/mhgkhan/my-portfolio-website-3df1)
-- [Interfaces Funcionais Genéricas](https://dev.to/javaparainiciantes/interfaces-funcionais-genericas-575e)
-- [🌎 Seamless Multi-Language Support in React Native](https://dev.to/amitkumar13/seamless-multi-language-support-in-react-native-5flg)
-- [21 Must-Subscribe AI YouTube Channels for Learning and Inspiration](https://dev.to/andrewbaisden/21-must-subscribe-ai-youtube-channels-for-learning-and-inspiration-12m3)
+- [The Rise of AI Coding Assistants: How They’re Changing the Developer’s Workflow](https://dev.to/arjun98k/the-rise-of-ai-coding-assistants-how-theyre-changing-the-developers-workflow-19p5)
+- [Attended Re:invent Recap at aws user group surat](https://dev.to/fenil_patel_04/attended-reinvent-recap-at-aws-user-group-surat-43p9)
+- [90/365 | ¥10M Job Challenge - Resume review](https://dev.to/kameken100/90365-y10m-job-challenge-resume-review-jgp)
+- [Free APIs You Need to Know About in 2024](https://dev.to/raajaryan/free-apis-you-need-to-know-about-in-2024-1ko9)
 <!-- BLOG-POST-LIST:END -->
 
