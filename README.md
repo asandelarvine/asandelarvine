@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From NFTs to DeFi: What Developers Can Do on Solana in 2025](https://dev.to/harsh_suthar_5a9a14772609/from-nfts-to-defi-what-developers-can-do-on-solana-in-2025-p92)
-- [Niftyzk tutorial 2, The Commit-reveal scheme](https://dev.to/strawberry666/niftyzk-tutorial-2-the-commit-reveal-scheme-25ll)
-- [Build a Mac Tool to Fix Grammar Using TypeScript, OpenAI API, and Automator](https://dev.to/radzion/build-a-mac-tool-to-fix-grammar-using-typescript-openai-api-and-automator-2399)
-- [Niftyzk tutorials 1](https://dev.to/strawberry666/niftyzk-tutorials-1-4i5e)
+- [Build Your Perfect Roadmap with Roadmap Creator - A Simple and Intuitive Tool](https://dev.to/bugblitz98/build-your-perfect-roadmap-with-roadmap-creator-a-simple-and-intuitive-tool-50pi)
+- [Week 12 of #100DaysOfCode: Resilience, Growth, and New Skills](https://dev.to/toptech5419/week-12-of-100daysofcode-resilience-growth-and-new-skills-1f7j)
+- [Reason for Talking About Front-end of Web-based Management Systems](https://dev.to/ourai/reason-for-talking-about-front-end-of-web-based-management-systems-1nm1)
+- [Resources and Cost Optimization Strategy in AWS](https://dev.to/danmuso/resources-and-cost-optimization-strategy-in-aws-iob)
 <!-- BLOG-POST-LIST:END -->
 
