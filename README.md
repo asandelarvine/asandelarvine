@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Full-Stack Development: Part 1 - Mastering HTML and CSS in 10 Days](https://dev.to/rahulmpatel369/learn-full-stack-development-part-1-mastering-html-and-css-in-10-days-4h5o)
-- [Scrum Product Owner Certification: A Comprehensive Guide](https://dev.to/benmariemconsulting/scrum-product-owner-certification-a-comprehensive-guide-1p3)
-- [Use LateX in Astro.js for Markdown Rendering](https://dev.to/flnzba/use-latex-in-astrojs-for-markdown-rendering-4f2k)
-- [2025’s Must-Know Tech Stacks](https://dev.to/abubakersiddique761/2025s-must-know-tech-stacks-4b74)
+- [.NET 9 vs .NET 8: Key Differences and New Features for Developers](https://dev.to/leandroveiga/net-9-vs-net-8-key-differences-and-new-features-for-developers-4bg3)
+- [Introducing KoiCom: A Library for Building Front-End Interfaces](https://dev.to/valkoivo/introducing-koicom-a-library-for-building-front-end-interfaces-5cfb)
+- [Best Practices for Managing Route Names and Paths with go_router in Flutter](https://dev.to/7twilight/best-practices-for-managing-route-names-and-paths-with-gorouter-in-flutter-4pd8)
+- [Troubleshooting AWS NAT Instance Connectivity Issues: A Comprehensive Guide](https://dev.to/chatgptnexus/2025011122-41-44-article-5932)
 <!-- BLOG-POST-LIST:END -->
 
