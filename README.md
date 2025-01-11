@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a To-do app with HTMX and Django, part 9: active search](https://dev.to/rodbv/creating-a-to-do-app-with-htmx-and-django-part-9-active-search-3071)
-- [Salvaging a Corrupted Table from PostgreSQL](https://dev.to/garrettmills/salvaging-a-corrupted-table-from-postgresql-17ep)
-- [SEO Optimization Checklist for Coding Your Website](https://dev.to/wtshek/seo-optimization-checklist-for-coding-your-website-31on)
-- [Testing with different text](https://dev.to/mariem_sghaier/testing-with-different-text-261e)
+- [&quot;PHP is dead⚰️&quot; .. what&#39;s next? Is Laravel worth it? 😎](https://dev.to/icornea/php-is-dead-whats-next-is-laravel-worth-it-g7)
+- [Understanding Quick Sort in Kotlin : A Beginner&#39;s Guide](https://dev.to/wolfof420street/understanding-quick-sort-in-kotlin-a-beginners-guide-3620)
+- [Building an NBA Data Lake with AWS: A Comprehensive Guide](https://dev.to/princemaxi/building-an-nba-data-lake-with-aws-a-comprehensive-guide-5d70)
+- [Setting Up Your Go Environment](https://dev.to/ali_farhadnia/setting-up-your-go-environment-l8f)
 <!-- BLOG-POST-LIST:END -->
 
