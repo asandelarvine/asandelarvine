@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration for format.JS/react-intl: Automated Translations with doloc](https://dev.to/danielsc/integration-for-formatjsreact-intl-automated-translations-with-doloc-4gpf)
-- [Integration for Angular: Automated Translations with doloc](https://dev.to/danielsc/integration-for-angular-automated-translations-with-doloc-45mn)
-- [Help Shape a Platform for Student Collaboration and Open-Source Contribution! 🌟](https://dev.to/sred_32d5411adef35f2cc234/help-shape-a-platform-for-student-collaboration-and-open-source-contribution-119p)
-- [Show query window at startup in SQL Server Management Studio](https://dev.to/mirajhad/show-query-window-at-startup-in-sql-server-management-studio-1b42)
+- [DBChat Part 3 - Configure , Connect &amp; Dump Databases](https://dev.to/shrsv/dbchat-part-3-configure-connect-dump-databases-4ogh)
+- [How I Achieved 60% Faster Queries with Indexing](https://dev.to/digitalminds/how-i-achieved-60-faster-queries-with-indexing-514e)
+- [Dynamic Head-Out Image Box Using React + Tailwind CSS](https://dev.to/hayyaun/creating-a-dynamic-head-out-image-box-using-react-tailwind-css-3mkp)
+- [Provision EKS Cluster with Terraform, Terragrunt &amp; GitHub Actions](https://dev.to/aws-builders/provision-eks-cluster-with-terraform-terragrunt-github-actions-1c64)
 <!-- BLOG-POST-LIST:END -->
 
