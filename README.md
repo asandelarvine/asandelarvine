@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Secure Authentication in Node.js: Login/Logout with bcrypt.js and JWT](https://dev.to/tuhin114/mastering-secure-authentication-in-nodejs-loginlogout-with-bcryptjs-and-jwt-4kcl)
-- [Why Quick Sort is Faster Than Heap Sort](https://dev.to/jaiminbariya/why-quick-sort-is-faster-than-heap-sort-4aca)
-- [Insert into linked list random position](https://dev.to/myora/insert-into-linked-list-random-position-2029)
-- [How to create perfect CSS circle sectors](https://dev.to/andreigheorghiu/how-to-create-perfect-css-circle-sectors-2h43)
+- [Serverless FastAPI Development: Building Player FC API on AWS](https://dev.to/aws-builders/serverless-fastapi-development-building-player-fc-api-on-aws-3735)
+- [TypeScript Deep Dive: Mastering DeepStrictOmit, DeepStrictPick, and DeepStrictAssert](https://dev.to/kakasoo/typescript-deep-dive-mastering-deepstrictomit-deepstrictpick-and-deepstrictassert-jkm)
+- [AI Assistant Learns to Google: New Model Combines Language AI with Autonomous Web Search](https://dev.to/mikeyoung44/ai-assistant-learns-to-google-new-model-combines-language-ai-with-autonomous-web-search-4em7)
+- [Breakthrough Training Method Makes AI Art Generation Faster and More Stable Than Ever Before](https://dev.to/mikeyoung44/breakthrough-training-method-makes-ai-art-generation-faster-and-more-stable-than-ever-before-32gh)
 <!-- BLOG-POST-LIST:END -->
 
