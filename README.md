@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New to JavaScript Classes? Read this.](https://dev.to/egroene/new-to-javascript-classes-read-this-25pk)
-- [Powerful, Affordable Cloud Hosting](https://dev.to/bhuwan71/powerful-affordable-cloud-hosting-2kll)
-- [Glue cross-account setup](https://dev.to/aws-builders/glue-cross-account-setup-466p)
-- [&quot;Unveiling Bias in AI: The FairCode Benchmark for Code Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-bias-in-ai-the-faircode-benchmark-for-code-generation-167d)
+- [MY PORTFOLIO WEBSITE](https://dev.to/mhgkhan/my-portfolio-website-3df1)
+- [Interfaces Funcionais Genéricas](https://dev.to/javaparainiciantes/interfaces-funcionais-genericas-575e)
+- [🌎 Seamless Multi-Language Support in React Native](https://dev.to/amitkumar13/seamless-multi-language-support-in-react-native-5flg)
+- [21 Must-Subscribe AI YouTube Channels for Learning and Inspiration](https://dev.to/andrewbaisden/21-must-subscribe-ai-youtube-channels-for-learning-and-inspiration-12m3)
 <!-- BLOG-POST-LIST:END -->
 
