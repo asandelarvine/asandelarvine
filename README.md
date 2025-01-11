@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Serverless: How to Create and Use a Lambda Layer via the AWS SAM - Part 2](https://dev.to/bhatiagirish/aws-serverless-how-to-create-and-use-a-lambda-layer-via-the-aws-sam-part-2-18am)
-- [Trying to use the &#39;match&#39; statement.](https://dev.to/jack_schuster_2fe373f1f46/trying-to-use-the-match-statement-9kn)
-- [Top 12 Best Practices for REST APIs using C# .NET](https://dev.to/adrianbailador/top-12-best-practices-for-rest-apis-using-c-net-4kpp)
-- [Documentation is marketing](https://dev.to/loccolito/documentation-is-marketing-2d76)
+- [Creating a To-do app with HTMX and Django, part 9: active search](https://dev.to/rodbv/creating-a-to-do-app-with-htmx-and-django-part-9-active-search-3071)
+- [Salvaging a Corrupted Table from PostgreSQL](https://dev.to/garrettmills/salvaging-a-corrupted-table-from-postgresql-17ep)
+- [SEO Optimization Checklist for Coding Your Website](https://dev.to/wtshek/seo-optimization-checklist-for-coding-your-website-31on)
+- [Testing with different text](https://dev.to/mariem_sghaier/testing-with-different-text-261e)
 <!-- BLOG-POST-LIST:END -->
 
