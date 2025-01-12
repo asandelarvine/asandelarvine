@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Signs Your Company Is Recovering From ZIRP](https://dev.to/jetthoughts/signs-your-company-is-recovering-from-zirp-2408)
+- [🚀Boost Your React Performance with useMemo and useCallback🚀](https://dev.to/matin676/boost-your-react-performance-with-usememo-and-usecallback-25ge)
+- [how to write a Rabbit Message](https://dev.to/said_olano/how-to-write-a-rabbit-message-35db)
 - [Static sites FTW](https://dev.to/w4ffl35/static-sites-ftw-3cg2)
-- [Install PyTorch and JupyterLab on Ubuntu](https://dev.to/hyperkai/install-pytorch-and-jupyterlab-on-ubuntu-294i)
-- [Entity Framework Core Code First](https://dev.to/chami/entity-framework-core-database-first-378e)
-- [Secrets of a Flight Attendant&#39;s Life:Top Ways to Spend Money in the Game - Devlog #11](https://dev.to/khaisimon_devgame/secrets-of-a-flight-attendants-lifetop-ways-to-spend-money-in-the-game-devlog-11-4edl)
 <!-- BLOG-POST-LIST:END -->
 
