@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek v3, Microsoft Phi 4, OpenAI o3, new tools and more](https://dev.to/thisweekinaiengineering/deepseek-v3-microsoft-phi-4-openai-o3-new-tools-and-more-274f)
 - [CREATING A ROCK, PAPER, &amp; SCISSORS GAME IN PYTHON](https://dev.to/seyilufadejucyberservices/creating-a-rock-paper-scissors-game-in-python-28op)
 - [How I automated Certificate expiration alerts with AWS](https://dev.to/aws-builders/how-i-automated-certificate-expiration-alerts-with-aws-1g10)
 - [Face Recognition with Python and FaceNet](https://dev.to/edgaras/face-recognition-with-facenet-ha8)
-- [Nextjs + Openlayers integration](https://dev.to/mrepoch/nextjs-openlayers-integration-5017)
 <!-- BLOG-POST-LIST:END -->
 
