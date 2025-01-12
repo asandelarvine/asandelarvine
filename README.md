@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Blind 75](https://dev.to/jaiminbariya/leetcode-blind-75-49mp)
-- [Getting Started with Hibernate: An Introduction to ORM and JPA Annotations](https://dev.to/kaweeshamr/getting-started-with-hibernate-an-introduction-to-orm-and-jpa-annotations-50l0)
-- [Janus](https://dev.to/tbosak/janus-4fjd)
-- [How I Built a Profitable Bluesky Tool Directory in 7 Days](https://dev.to/tangsirongit/how-i-built-a-profitable-bluesky-tool-directory-in-7-days-56m8)
+- [TS1064: The return type of an async function or method must be the global Promise](https://dev.to/rivkaavraham/ts1064-the-return-type-of-an-async-function-or-method-must-be-the-global-promise-1pjf)
+- [TS1069: Unexpected token. A type parameter name was expected without curly braces](https://dev.to/ahmad_tibibi/ts1069-unexpected-token-a-type-parameter-name-was-expected-without-curly-braces-280d)
+- [TS1059: A promise must have a &#39;then&#39; method](https://dev.to/turingvangisms/ts1059-a-promise-must-have-a-then-method-4l5b)
+- [TS1061: Enum member must have initializer](https://dev.to/lior_amsalem_3879371237f6/ts1061-enum-member-must-have-initializer-3bfh)
 <!-- BLOG-POST-LIST:END -->
 
