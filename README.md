@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your Flask API on GCP Cloud Run 🚀](https://dev.to/aadityasinha_dotcom/deploy-your-flask-api-on-gcp-cloud-run-4ph0)
-- [SDK va Runtime haqida qisqacha](https://dev.to/munisa_kuranbekova_078e1e/sdk-va-runtime-haqida-qisqacha-1ke9)
-- [Import JSON Data in Astro &lpar;with Typescript&rpar;](https://dev.to/flnzba/import-json-data-in-astro-with-typescript-4nbg)
-- [The AI Revolution in Software Testing: A Leap into the Future 🚀](https://dev.to/vaibhavkuls/the-ai-revolution-in-software-testing-a-leap-into-the-future-5a55)
+- [Mastering Pull-to-Refresh in React Native: A Guide to Smooth Data Reloading 🚀](https://dev.to/amitkumar13/mastering-pull-to-refresh-in-react-native-a-guide-to-smooth-data-reloading-3apo)
+- [JavaScript is best programing language](https://dev.to/rudraprasad-pradhan/javascript-is-best-programing-language-255g)
+- [Latest Trends in AI in 2025](https://dev.to/rodiwa/latest-trends-in-ai-in-2025-284j)
+- [Want to build React Community in my city.](https://dev.to/shubham_gupta_5f11bdf672a/want-to-build-react-community-in-my-city-3ll2)
 <!-- BLOG-POST-LIST:END -->
 
