@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap to Becoming a Mobile App Developer: Tips for Success](https://dev.to/devboussouf/roadmap-to-becoming-a-mobile-app-developer-tips-for-success-1k6h)
-- [how to inspect a docker container](https://dev.to/said_olano/how-to-inspect-a-docker-container-31hf)
-- [Introduction To Networking](https://dev.to/andrew_despres/introduction-to-networking-lih)
-- [How to run a Nginx-web server](https://dev.to/said_olano/how-to-run-a-nginx-web-server-456b)
+- [Static sites FTW](https://dev.to/w4ffl35/static-sites-ftw-3cg2)
+- [Install PyTorch and JupyterLab on Ubuntu](https://dev.to/hyperkai/install-pytorch-and-jupyterlab-on-ubuntu-294i)
+- [Entity Framework Core Code First](https://dev.to/chami/entity-framework-core-database-first-378e)
+- [Secrets of a Flight Attendant&#39;s Life:Top Ways to Spend Money in the Game - Devlog #11](https://dev.to/khaisimon_devgame/secrets-of-a-flight-attendants-lifetop-ways-to-spend-money-in-the-game-devlog-11-4edl)
 <!-- BLOG-POST-LIST:END -->
 
