@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro &amp; Strapi Website Tutorial: Part 2 - Intro to Strapi](https://dev.to/javascriptar/astro-strapi-website-tutorial-part-2-intro-to-strapi-43oj)
-- [How to structure your ML project code](https://dev.to/penscola/how-to-structure-your-ml-project-code-18ac)
-- [Flutter Development for Low end PCs](https://dev.to/chamal1120/flutter-development-for-low-end-pcs-5gcd)
-- [The evolutionary progression of IIFE](https://dev.to/golsaesk/the-evolutionary-progression-of-iife-n88)
+- [Deploy your Flask API on GCP Cloud Run 🚀](https://dev.to/aadityasinha_dotcom/deploy-your-flask-api-on-gcp-cloud-run-4ph0)
+- [SDK va Runtime haqida qisqacha](https://dev.to/munisa_kuranbekova_078e1e/sdk-va-runtime-haqida-qisqacha-1ke9)
+- [Import JSON Data in Astro &lpar;with Typescript&rpar;](https://dev.to/flnzba/import-json-data-in-astro-with-typescript-4nbg)
+- [The AI Revolution in Software Testing: A Leap into the Future 🚀](https://dev.to/vaibhavkuls/the-ai-revolution-in-software-testing-a-leap-into-the-future-5a55)
 <!-- BLOG-POST-LIST:END -->
 
