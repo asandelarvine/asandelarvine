@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SWR make it easy!!!](https://dev.to/asim786521/swr-make-it-easy-54oo)
-- [Exciting Milestone: Completing AWS Academy Cloud Foundations and Earning My Digital Badge!](https://dev.to/siddharthrane07/exciting-milestone-completing-aws-academy-cloud-foundations-and-earning-my-digital-badge-4207)
-- [Guess what? You can make a game inside a PDF!](https://dev.to/rez1coder/guess-what-you-can-make-a-game-inside-a-pdf-43e1)
-- [API Vulnerabilities in Laravel: Identify &amp; Secure Your Endpoints](https://dev.to/pentest_testing_corp/api-vulnerabilities-in-laravel-identify-secure-your-endpoints-4f2p)
+- [How I do: export/import?](https://dev.to/aadswebdesign/how-i-do-exportimport-4jk2)
+- [Introduction to Web Application Security](https://dev.to/godofgeeks/introduction-to-web-application-security-38hf)
+- [Next.js with React: Pros and Cons](https://dev.to/riyaz_farhin_233f3cffeac5/nextjs-with-react-pros-and-cons-2lg3)
+- [Building an AI-Powered Background Remover with React and Transformers.js](https://dev.to/emojiiii/building-an-ai-powered-background-remover-with-react-and-transformersjs-5hl5)
 <!-- BLOG-POST-LIST:END -->
 
