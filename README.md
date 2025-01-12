@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;PHP is dead⚰️&quot; .. what&#39;s next? Is Laravel worth it? 😎](https://dev.to/icornea/php-is-dead-whats-next-is-laravel-worth-it-g7)
-- [Understanding Quick Sort in Kotlin : A Beginner&#39;s Guide](https://dev.to/wolfof420street/understanding-quick-sort-in-kotlin-a-beginners-guide-3620)
-- [Building an NBA Data Lake with AWS: A Comprehensive Guide](https://dev.to/princemaxi/building-an-nba-data-lake-with-aws-a-comprehensive-guide-5d70)
-- [Setting Up Your Go Environment](https://dev.to/ali_farhadnia/setting-up-your-go-environment-l8f)
+- [Roadmap to Becoming a Mobile App Developer: Tips for Success](https://dev.to/devboussouf/roadmap-to-becoming-a-mobile-app-developer-tips-for-success-1k6h)
+- [how to inspect a docker container](https://dev.to/said_olano/how-to-inspect-a-docker-container-31hf)
+- [Introduction To Networking](https://dev.to/andrew_despres/introduction-to-networking-lih)
+- [How to run a Nginx-web server](https://dev.to/said_olano/how-to-run-a-nginx-web-server-456b)
 <!-- BLOG-POST-LIST:END -->
 
