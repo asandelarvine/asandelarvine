@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Pull-to-Refresh in React Native: A Guide to Smooth Data Reloading 🚀](https://dev.to/amitkumar13/mastering-pull-to-refresh-in-react-native-a-guide-to-smooth-data-reloading-3apo)
-- [JavaScript is best programing language](https://dev.to/rudraprasad-pradhan/javascript-is-best-programing-language-255g)
-- [Latest Trends in AI in 2025](https://dev.to/rodiwa/latest-trends-in-ai-in-2025-284j)
-- [Want to build React Community in my city.](https://dev.to/shubham_gupta_5f11bdf672a/want-to-build-react-community-in-my-city-3ll2)
+- [25 New Technology Trends for 2025](https://dev.to/aniruddhaadak/25-new-technology-trends-for-2025-1857)
+- [In a cold day of late winter a new search engine came out](https://dev.to/denis_cartin_bc7ae4b665da/in-a-cold-day-of-late-winter-a-new-search-engine-came-out-f3m)
+- [Tower defense clicker game built with Svelte 5, without canvas. Only CSS transitions and the power of Runes](https://dev.to/baterson/tower-defense-clicker-game-built-with-svelte-5-without-canvas-only-css-transitions-and-the-power-323a)
+- [Hello Dev.to, This is My First Post Here](https://dev.to/cypherpunksamurai/hello-devto-this-is-my-first-post-here-43cp)
 <!-- BLOG-POST-LIST:END -->
 
