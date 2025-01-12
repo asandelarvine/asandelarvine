@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning NextJS](https://dev.to/thanh_nguyenle_a0e7f5135/learning-nextjs-154l)
-- [Debugging 2024](https://dev.to/mehakb7/debugging-2024-4kna)
-- [🚀 Exploring the Power of Visualization: From Dependency Graphs to Molecular Structures 🧬](https://dev.to/gprakasha/exploring-the-power-of-visualization-from-dependency-graphs-to-molecular-structures-4hkd)
-- [🌟 How to Fix Node.js Path Issues in VS Code &lpar;Step-by-Step Guide&rpar;](https://dev.to/siddharth_nandava/how-to-fix-nodejs-path-issues-in-vs-code-step-by-step-guide-1jc3)
+- [Node.js now supports TypeScript, JavaScript Rising Stars report is out, NEW developer tools and more](https://dev.to/thisweekinjavascript/nodejs-now-supports-typescript-javascript-rising-stars-report-is-out-new-developer-tools-and-more-1opb)
+- [Securing Amazon Redshift - Best Practices for Access Control](https://dev.to/awscommunity-asean/securing-amazon-redshift-best-practices-for-access-control-15l6)
+- [What I Learned After Coding for 24 Hours Straight](https://dev.to/nassiry/what-i-learned-after-coding-for-24-hours-straight-3nhp)
+- [Support for App-Token based multiple verification approaches, including API calls to the authorization server, direct database validation, and local JWT decoding.](https://dev.to/andrewkangg/support-for-app-token-based-multiple-verification-approaches-including-api-calls-to-the-11bb)
 <!-- BLOG-POST-LIST:END -->
 
