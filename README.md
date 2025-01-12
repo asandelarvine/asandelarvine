@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Private Voting App as a zkApp](https://dev.to/syedghufranhassan/implementing-a-private-voting-app-as-a-zkapp-2a1)
-- [Hoof It](https://dev.to/rmion/hoof-it-3gih)
-- [How to market your idea](https://dev.to/insafuddin/how-to-market-your-idea-97n)
-- [Supercharge Your Skills: A 2025 Guide for Developers](https://dev.to/oba2311/supercharge-your-skills-a-2025-guide-for-developers-3ipg)
+- [Just use this Next.js Eslint Configuration](https://dev.to/jordanahaines/just-use-this-nextjs-eslint-configuration-540)
+- [Unveiling the Depths of Deep Learning](https://dev.to/penscola/unveiling-the-depths-of-deep-learning-38mf)
+- [Diesel vs SQLx in Raw and ORM Modes](https://dev.to/shubham_lodhi/diesel-vs-sqlx-in-raw-and-orm-modes-4bgd)
+- [Monitor Your Static App memory usage EC2 Instances with Prometheus and Grafana](https://dev.to/aws-builders/monitor-your-static-app-memory-usage-ec2-instances-with-prometheus-and-grafana-21ln)
 <!-- BLOG-POST-LIST:END -->
 
