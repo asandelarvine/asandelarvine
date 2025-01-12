@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just use this Next.js Eslint Configuration](https://dev.to/jordanahaines/just-use-this-nextjs-eslint-configuration-540)
-- [Unveiling the Depths of Deep Learning](https://dev.to/penscola/unveiling-the-depths-of-deep-learning-38mf)
-- [Diesel vs SQLx in Raw and ORM Modes](https://dev.to/shubham_lodhi/diesel-vs-sqlx-in-raw-and-orm-modes-4bgd)
-- [Monitor Your Static App memory usage EC2 Instances with Prometheus and Grafana](https://dev.to/aws-builders/monitor-your-static-app-memory-usage-ec2-instances-with-prometheus-and-grafana-21ln)
+- [Shadow DOM Perfected: Experience the Power of Monster 3.100!](https://dev.to/schukai/shadow-dom-perfected-experience-the-power-of-monster-3100-18ii)
+- [The Outsourcing Trap: Why Your Product Deserves Better](https://dev.to/jetthoughts/the-outsourcing-trap-why-your-product-deserves-better-46i8)
+- [Building a Stronger Security Posture with AWS Security Hub](https://dev.to/aws-builders/building-a-stronger-security-posture-with-aws-security-hub-2foi)
+- [5 Software Development Challenges That Can Be Solved With AI](https://dev.to/opman129/5-software-development-challenges-that-can-be-solved-with-ai-112f)
 <!-- BLOG-POST-LIST:END -->
 
