@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform-CodeGen0: A Terraform Code Generator](https://dev.to/randiakm/terraform-codegen0-a-terraform-code-generator-55aa)
-- [Using Rsync on Oracle Linux 9 for Secure Data Synchronization](https://dev.to/sebos/using-rsync-on-oracle-linux-9-for-secure-data-synchronization-1c0e)
-- [I Hated gRPC until this tool started Simplifying it!](https://dev.to/aryanmehrotra/i-hated-grpc-until-this-tool-started-simplifying-it-27o2)
-- [I gem-packed this with how I&#39;m leveraging LLMs in my workflow!](https://dev.to/oba2311/i-gem-packed-this-with-how-im-leveraging-llms-in-my-workflow-2f47)
+- [CREATING A ROCK, PAPER, &amp; SCISSORS GAME IN PYTHON](https://dev.to/seyilufadejucyberservices/creating-a-rock-paper-scissors-game-in-python-28op)
+- [How I automated Certificate expiration alerts with AWS](https://dev.to/aws-builders/how-i-automated-certificate-expiration-alerts-with-aws-1g10)
+- [Face Recognition with Python and FaceNet](https://dev.to/edgaras/face-recognition-with-facenet-ha8)
+- [Nextjs + Openlayers integration](https://dev.to/mrepoch/nextjs-openlayers-integration-5017)
 <!-- BLOG-POST-LIST:END -->
 
