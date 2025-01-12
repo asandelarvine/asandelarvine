@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow DOM Perfected: Experience the Power of Monster 3.100!](https://dev.to/schukai/shadow-dom-perfected-experience-the-power-of-monster-3100-18ii)
-- [The Outsourcing Trap: Why Your Product Deserves Better](https://dev.to/jetthoughts/the-outsourcing-trap-why-your-product-deserves-better-46i8)
-- [Building a Stronger Security Posture with AWS Security Hub](https://dev.to/aws-builders/building-a-stronger-security-posture-with-aws-security-hub-2foi)
-- [5 Software Development Challenges That Can Be Solved With AI](https://dev.to/opman129/5-software-development-challenges-that-can-be-solved-with-ai-112f)
+- [Terraform-CodeGen0: A Terraform Code Generator](https://dev.to/randiakm/terraform-codegen0-a-terraform-code-generator-55aa)
+- [Using Rsync on Oracle Linux 9 for Secure Data Synchronization](https://dev.to/sebos/using-rsync-on-oracle-linux-9-for-secure-data-synchronization-1c0e)
+- [I Hated gRPC until this tool started Simplifying it!](https://dev.to/aryanmehrotra/i-hated-grpc-until-this-tool-started-simplifying-it-27o2)
+- [I gem-packed this with how I&#39;m leveraging LLMs in my workflow!](https://dev.to/oba2311/i-gem-packed-this-with-how-im-leveraging-llms-in-my-workflow-2f47)
 <!-- BLOG-POST-LIST:END -->
 
