@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CDNs in Distributed Systems: Beyond Caching for Better Performance](https://dev.to/ujjwall-r/cdns-in-distributed-systems-beyond-caching-for-better-performance-fo0)
-- [Google Authentication in MERN Stack](https://dev.to/rabeehco/google-authentication-in-mern-stack-27dc)
-- [READ_UNCOMMITTED in SQL Server](https://dev.to/naghme_vahabi_0f038741f9e/readuncommitted-in-sql-server-5ama)
-- [Mastering GoFrame Logging: From Zero to Hero](https://dev.to/jones_charles_ad50858dbc0/mastering-goframe-logging-from-zero-to-hero-4m26)
+- [Brevo smtp emails to other gmail accounts silently failing , verified domain to the rescue](https://dev.to/tigawanna/brevo-smtp-emails-to-other-gmail-accounts-silently-failing-verified-domain-to-the-rescue-1d78)
+- [Implementing Kubernetes Security with Kyverno: A Journey Through Resource Management](https://dev.to/devopsbysetchuko/implementing-kubernetes-security-with-kyverno-a-journey-through-resource-management-16ea)
+- [Comprehensive Guide to Installing AWS CLI, Configuring It, and Downloading S3 Buckets Locally](https://dev.to/himanshusinghtomar/comprehensive-guide-to-installing-aws-cli-configuring-it-and-downloading-s3-buckets-locally-h)
+- [When and Why You Need Sharding: A Complete Guide to Scaling Databases Efficiently](https://dev.to/lvalen/when-and-why-you-need-sharding-a-complete-guide-to-scaling-databases-efficiently-3h8g)
 <!-- BLOG-POST-LIST:END -->
 
