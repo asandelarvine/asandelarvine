@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Signs Your Company Is Recovering From ZIRP](https://dev.to/jetthoughts/signs-your-company-is-recovering-from-zirp-2408)
-- [🚀Boost Your React Performance with useMemo and useCallback🚀](https://dev.to/matin676/boost-your-react-performance-with-usememo-and-usecallback-25ge)
-- [how to write a Rabbit Message](https://dev.to/said_olano/how-to-write-a-rabbit-message-35db)
-- [Static sites FTW](https://dev.to/w4ffl35/static-sites-ftw-3cg2)
+- [Leetcode Blind 75](https://dev.to/jaiminbariya/leetcode-blind-75-49mp)
+- [Getting Started with Hibernate: An Introduction to ORM and JPA Annotations](https://dev.to/kaweeshamr/getting-started-with-hibernate-an-introduction-to-orm-and-jpa-annotations-50l0)
+- [Janus](https://dev.to/tbosak/janus-4fjd)
+- [How I Built a Profitable Bluesky Tool Directory in 7 Days](https://dev.to/tangsirongit/how-i-built-a-profitable-bluesky-tool-directory-in-7-days-56m8)
 <!-- BLOG-POST-LIST:END -->
 
