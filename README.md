@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [25 New Technology Trends for 2025](https://dev.to/aniruddhaadak/25-new-technology-trends-for-2025-1857)
-- [In a cold day of late winter a new search engine came out](https://dev.to/denis_cartin_bc7ae4b665da/in-a-cold-day-of-late-winter-a-new-search-engine-came-out-f3m)
-- [Tower defense clicker game built with Svelte 5, without canvas. Only CSS transitions and the power of Runes](https://dev.to/baterson/tower-defense-clicker-game-built-with-svelte-5-without-canvas-only-css-transitions-and-the-power-323a)
-- [Hello Dev.to, This is My First Post Here](https://dev.to/cypherpunksamurai/hello-devto-this-is-my-first-post-here-43cp)
+- [Learning NextJS](https://dev.to/thanh_nguyenle_a0e7f5135/learning-nextjs-154l)
+- [Debugging 2024](https://dev.to/mehakb7/debugging-2024-4kna)
+- [🚀 Exploring the Power of Visualization: From Dependency Graphs to Molecular Structures 🧬](https://dev.to/gprakasha/exploring-the-power-of-visualization-from-dependency-graphs-to-molecular-structures-4hkd)
+- [🌟 How to Fix Node.js Path Issues in VS Code &lpar;Step-by-Step Guide&rpar;](https://dev.to/siddharth_nandava/how-to-fix-nodejs-path-issues-in-vs-code-step-by-step-guide-1jc3)
 <!-- BLOG-POST-LIST:END -->
 
