@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js now supports TypeScript, JavaScript Rising Stars report is out, NEW developer tools and more](https://dev.to/thisweekinjavascript/nodejs-now-supports-typescript-javascript-rising-stars-report-is-out-new-developer-tools-and-more-1opb)
-- [Securing Amazon Redshift - Best Practices for Access Control](https://dev.to/awscommunity-asean/securing-amazon-redshift-best-practices-for-access-control-15l6)
-- [What I Learned After Coding for 24 Hours Straight](https://dev.to/nassiry/what-i-learned-after-coding-for-24-hours-straight-3nhp)
-- [Support for App-Token based multiple verification approaches, including API calls to the authorization server, direct database validation, and local JWT decoding.](https://dev.to/andrewkangg/support-for-app-token-based-multiple-verification-approaches-including-api-calls-to-the-11bb)
+- [Implementing a Private Voting App as a zkApp](https://dev.to/syedghufranhassan/implementing-a-private-voting-app-as-a-zkapp-2a1)
+- [Hoof It](https://dev.to/rmion/hoof-it-3gih)
+- [How to market your idea](https://dev.to/insafuddin/how-to-market-your-idea-97n)
+- [Supercharge Your Skills: A 2025 Guide for Developers](https://dev.to/oba2311/supercharge-your-skills-a-2025-guide-for-developers-3ipg)
 <!-- BLOG-POST-LIST:END -->
 
