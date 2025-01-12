@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TS1064: The return type of an async function or method must be the global Promise](https://dev.to/rivkaavraham/ts1064-the-return-type-of-an-async-function-or-method-must-be-the-global-promise-1pjf)
-- [TS1069: Unexpected token. A type parameter name was expected without curly braces](https://dev.to/ahmad_tibibi/ts1069-unexpected-token-a-type-parameter-name-was-expected-without-curly-braces-280d)
-- [TS1059: A promise must have a &#39;then&#39; method](https://dev.to/turingvangisms/ts1059-a-promise-must-have-a-then-method-4l5b)
-- [TS1061: Enum member must have initializer](https://dev.to/lior_amsalem_3879371237f6/ts1061-enum-member-must-have-initializer-3bfh)
+- [SWR make it easy!!!](https://dev.to/asim786521/swr-make-it-easy-54oo)
+- [Exciting Milestone: Completing AWS Academy Cloud Foundations and Earning My Digital Badge!](https://dev.to/siddharthrane07/exciting-milestone-completing-aws-academy-cloud-foundations-and-earning-my-digital-badge-4207)
+- [Guess what? You can make a game inside a PDF!](https://dev.to/rez1coder/guess-what-you-can-make-a-game-inside-a-pdf-43e1)
+- [API Vulnerabilities in Laravel: Identify &amp; Secure Your Endpoints](https://dev.to/pentest_testing_corp/api-vulnerabilities-in-laravel-identify-secure-your-endpoints-4f2p)
 <!-- BLOG-POST-LIST:END -->
 
