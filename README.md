@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuxflare Auth: A lightweight self-hosted auth server built with Nuxt, Cloudflare and OpenAuth.js](https://dev.to/tanay/nuxflare-auth-a-lightweight-self-hosted-auth-server-built-with-nuxt-cloudflare-and-openauthjs-1dnd)
-- [🎯 Run Qwen2-VL on CPU Using GGUF model &amp; llama.cpp](https://dev.to/mrzaizai2k/run-qwen2-vl-on-cpu-using-gguf-model-llamacpp-bli)
-- [Authentication in Android Project with Firebase.](https://dev.to/harsh_lade/authentication-in-android-project-with-firebase-130l)
-- [Learn Firebase for Android Development from Scratch, a beginner guide.](https://dev.to/harsh_lade/learn-firebase-for-android-development-from-scratch-a-beginner-guide-3ejm)
+- [Building a Geospatial Server with BBOX Server](https://dev.to/mierune/building-a-geospatial-server-with-bbox-server-4e5b)
+- [👀](https://dev.to/zanaranjosa/-3g66)
+- [Top AI Video Generator Review: Unveiling Strengths, Weaknesses, and Best Picks](https://dev.to/cecilia_luo_23bae8578aa08/top-ai-video-generator-review-unveiling-strengths-weaknesses-and-best-picks-d1i)
+- [Rendering graph nodes as React components in d3.js+React graph.](https://dev.to/neznayer/force-graph-with-react-and-d3js-21h0)
 <!-- BLOG-POST-LIST:END -->
 
