@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiding WooCommerce Cart when empty by Enqueueing JavaScript](https://dev.to/skateallday/hiding-woocommerce-cart-when-empty-by-enqueueing-javascript-1n5k)
-- [Overcoming REST API Challenges with NeoApps.AI](https://dev.to/neopric_licences_86355902/overcoming-rest-api-challenges-with-neoappsai-4f4a)
-- [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
-- [Docker vs Kubernetes](https://dev.to/code42cate/docker-vs-kubernetes-2f5o)
+- [How to Image Upload with CKeditor in Laravel 11 Tutorial](https://dev.to/mshsayket/how-to-image-upload-with-ckeditor-in-laravel-11-tutorial-4ob7)
+- [Unlocking Success: How MVP Development Services Can Propel Your Startup Forward](https://dev.to/jetthoughts/unlocking-success-how-mvp-development-services-can-propel-your-startup-forward-39ak)
+- [UX Writing Challenge: Day 7](https://dev.to/jds64/ux-writing-challenge-day-7-j8o)
+- [Using uv instead of pip / venv?](https://dev.to/varund/using-uv-instead-of-pip-venv-433k)
 <!-- BLOG-POST-LIST:END -->
 
