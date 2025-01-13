@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Web Scraping in Python using Scrapy: Beginner&#39;s Guide](https://dev.to/python_and_beyond/efficient-web-scraping-in-python-using-scrapy-beginners-guide-5bck)
-- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-5c99)
-- [SSH Keys | Change the label of the public key](https://dev.to/nuwan_arambage/ssh-keys-change-the-label-of-the-public-key-2c1d)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/friendgrass7/agentic-ai-revolutionizing-cybersecurity-application-security-5eln)
+- [Nuxflare Auth: A lightweight self-hosted auth server built with Nuxt, Cloudflare and OpenAuth.js](https://dev.to/tanay/nuxflare-auth-a-lightweight-self-hosted-auth-server-built-with-nuxt-cloudflare-and-openauthjs-1dnd)
+- [🎯 Run Qwen2-VL on CPU Using GGUF model &amp; llama.cpp](https://dev.to/mrzaizai2k/run-qwen2-vl-on-cpu-using-gguf-model-llamacpp-bli)
+- [Authentication in Android Project with Firebase.](https://dev.to/harsh_lade/authentication-in-android-project-with-firebase-130l)
+- [Learn Firebase for Android Development from Scratch, a beginner guide.](https://dev.to/harsh_lade/learn-firebase-for-android-development-from-scratch-a-beginner-guide-3ejm)
 <!-- BLOG-POST-LIST:END -->
 
