@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Must-Know Python Open Source Projects for 2025](https://dev.to/abubakersiddique761/must-know-python-open-source-projects-for-2025-4g9p)
-- [[Boost]](https://dev.to/dpills/-18jl)
-- [Two-Tier Architecture with Terraform](https://dev.to/otumiky/two-tier-architecture-with-terraform-1epp)
-- [ServBay v1.7.2 Released: New Node.js Configuration Interface and UX Improvements](https://dev.to/servbay/servbay-v172-new-nodejs-configuration-interface-and-ux-improvements-510p)
+- [Understanding the Critical Render Path and Its Role in Web Performance](https://dev.to/nik26_/understanding-the-critical-render-path-and-its-role-in-web-performance-24c5)
+- [What does it mean to be sentient, conscious, or self-aware?](https://dev.to/a-bentofreire/what-does-it-mean-to-be-sentient-conscious-or-self-aware-5fle)
+- [Service Workers: Revolutionizing Modern Web Apps](https://dev.to/mukhilpadmanabhan/service-workers-revolutionizing-modern-web-apps-24pk)
+- [Hello future](https://dev.to/ben/hello-future-3pg3)
 <!-- BLOG-POST-LIST:END -->
 
