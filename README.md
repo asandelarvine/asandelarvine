@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Things About Modules in Front-end Projects](https://dev.to/ourai/things-about-modules-in-front-end-projects-1jhi)
-- [Concurrency in C++: Mitigating Risks](https://dev.to/alex_ricciardi/concurrency-in-c-mitigating-risks-2029)
-- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
-- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
+- [Hiding WooCommerce Cart when empty by Enqueueing JavaScript](https://dev.to/skateallday/hiding-woocommerce-cart-when-empty-by-enqueueing-javascript-1n5k)
+- [Overcoming REST API Challenges with NeoApps.AI](https://dev.to/neopric_licences_86355902/overcoming-rest-api-challenges-with-neoappsai-4f4a)
+- [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
+- [Docker vs Kubernetes](https://dev.to/code42cate/docker-vs-kubernetes-2f5o)
 <!-- BLOG-POST-LIST:END -->
 
