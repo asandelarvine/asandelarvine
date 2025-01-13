@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Asynchronous Work on Engineering Innovation: A Deeper Analysis](https://dev.to/rahul_chandel_aff38e56755/the-impact-of-asynchronous-work-on-engineering-innovation-a-deeper-analysis-5k5)
-- [What did I get myself into?](https://dev.to/moth668/what-did-i-get-myself-into-2dp1)
-- [Personal Development Dashboard - A New Beginnings](https://dev.to/jayapriya_s_5d59c0186c35b/personal-development-dashboard-a-new-beginnings-3e15)
-- [Explainable AI: Humanizing Artificial Intelligence](https://dev.to/arun_pal_3ce740a137cf15ad/explainable-ai-humanizing-artificial-intelligence-1ip9)
+- [I’m joining Pomerium!](https://dev.to/nickytonline/im-joining-pomerium-225j)
+- [I&#39;m Answering the Blog Questions Challenge — Dev.to Edition](https://dev.to/canro91/im-answering-the-blog-questions-challenge-devto-edition-2f3g)
+- [From Product Manager to Independent Developer: A Six-Month Transformation Guide](https://dev.to/tomastomas/from-product-manager-to-independent-developer-a-six-month-transformation-guide-1d81)
+- [Understanding Agentic AI: A Step Beyond Traditional Chatbots](https://dev.to/hitesh_umaletiya/understanding-agentic-ai-a-step-beyond-traditional-chatbots-3mh4)
 <!-- BLOG-POST-LIST:END -->
 
