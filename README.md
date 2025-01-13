@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a universal CRUD API with UkrGuru.Sql](https://dev.to/ukrguru/creating-a-universal-crud-api-with-ukrgurusql-4kkk)
-- [Demystifying AIContents in Microsoft.Extensions.AI](https://dev.to/mehrandvd/demystifying-aicontents-in-microsoftextensionsai-5hg8)
-- [SkillBytes - Gamified learning process using AI](https://dev.to/schemetastic/skillbytes-gamified-learning-process-using-ai-3ed5)
-- [has anyone find a fix for this issue on build of next and payload CMS version 2 &lpar;sharp issue&rpar; ./node_modules/sharp/build/Release/sharp-win32-x64.node Module parse failed: Unexpected character &#39; &#39; &lpar;1:2&rpar; You may need an appropriate loader to handle this](https://dev.to/kirubel_ast_88bd78e69df1c/has-anyone-find-a-fix-for-this-issue-on-build-of-next-and-payload-cms-version-2-sharp-issue-nc2)
+- [Meme Tuesday 🚱](https://dev.to/gokayburuc/meme-tuesday-3620)
+- [Master Azure Development: Linking Cloud Shell with VS Code on Windows Made Easy](https://dev.to/unique-tea/master-azure-development-linking-cloud-shell-with-vs-code-on-windows-made-easy-g28)
+- [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
+- [Finding best performant stack so you don&#39;t have to.](https://dev.to/digital_blaze/finding-best-performant-stack-so-you-dont-have-to-261n)
 <!-- BLOG-POST-LIST:END -->
 
