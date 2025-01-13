@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Print Tailwind-Styled React Components Without Rendering Visually](https://dev.to/shahriaras/print-tailwind-styled-react-components-without-rendering-visually-4ibl)
-- [Getting Started with Python: Installing Python and Writing Your First Program &lpar;Day 2 of 100 Days of Python&rpar;](https://dev.to/allaboutpython/getting-started-with-python-installing-python-and-writing-your-first-program-day-2-of-100-days-of-4d49)
-- [Why Your Startup Needs a Single Source of Truth &lpar;And How to Create It&rpar;](https://dev.to/jetthoughts/why-your-startup-needs-a-single-source-of-truth-and-how-to-create-it-2f7i)
-- [Абстракции vs. привязка к технологии](https://dev.to/dmkjfs/abstraktsii-vs-priviazka-k-tiekhnologhii-5794)
+- [Firebase Alternatives to Consider in 2025](https://dev.to/riteshkokam/firebase-alternatives-to-consider-in-2025-456g)
+- [ISP - O Princípio da Segregação de Interface](https://dev.to/thrsouza/isp-o-principio-da-segregacao-de-interface-32c7)
+- [Effortlessly Host Static JSON Files with JSONsilo.com](https://dev.to/jaironlanda/effortlessly-host-static-json-files-with-jsonsilocom-3jm)
+- [Platforms for learning Linux](https://dev.to/david_stephen_f411b721ed2/platforms-for-learning-linux-108k)
 <!-- BLOG-POST-LIST:END -->
 
