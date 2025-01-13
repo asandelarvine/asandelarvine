@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools Dependency Injection](https://dev.to/ag2blogger/tools-dependency-injection-3o9o)
-- [Organizing Information Properly in Technical Writing](https://dev.to/olodocoder/complete-guide-to-organizing-information-properly-in-technical-writing-181o)
-- [Your first Java app with Docker deployment in 5 min](https://dev.to/alexander_uspenskiy_the_great/your-first-java-app-with-docker-deployment-in-5-min-3ofe)
-- [Encapsulation in Python](https://dev.to/vincenttommi/encapsulation-in-python-388a)
+- [The art of creating an effective application security Program: Strategies, Methods, and Tooling for Optimal results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tooling-for-28ag)
+- [Making an Effective Application Security Program: Strategies, methods and tools for the best results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-results-2pca)
+- [NET9: Swagger no compatible [Alternativas]](https://dev.to/romnyd/net9-swagger-no-compatible-alternativas-1mil)
+- [Developing a Simple RESTful API with Gin, ginvalidator, and validatorgo](https://dev.to/gbubemi_attah_8220489db16/developing-a-simple-restful-api-with-gin-ginvalidator-and-validatorgo-1b80)
 <!-- BLOG-POST-LIST:END -->
 
