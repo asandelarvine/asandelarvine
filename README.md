@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek v3, Microsoft Phi 4, OpenAI o3, new tools and more](https://dev.to/thisweekinaiengineering/deepseek-v3-microsoft-phi-4-openai-o3-new-tools-and-more-274f)
-- [CREATING A ROCK, PAPER, &amp; SCISSORS GAME IN PYTHON](https://dev.to/seyilufadejucyberservices/creating-a-rock-paper-scissors-game-in-python-28op)
-- [How I automated Certificate expiration alerts with AWS](https://dev.to/aws-builders/how-i-automated-certificate-expiration-alerts-with-aws-1g10)
-- [Face Recognition with Python and FaceNet](https://dev.to/edgaras/face-recognition-with-facenet-ha8)
+- [Things About Modules in Front-end Projects](https://dev.to/ourai/things-about-modules-in-front-end-projects-1jhi)
+- [Concurrency in C++: Mitigating Risks](https://dev.to/alex_ricciardi/concurrency-in-c-mitigating-risks-2029)
+- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
+- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
 <!-- BLOG-POST-LIST:END -->
 
