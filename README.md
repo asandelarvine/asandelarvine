@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First RAG Chatbot: What I Built and How](https://dev.to/hellogithub/my-first-rag-chatbot-what-i-built-and-how-4ilg)
-- [Introducing Ephem](https://dev.to/rhannequin/introducing-ephem-5827)
-- [Introduction to PHP](https://dev.to/oluwajubelo1/introduction-to-php-mn3)
-- [All Data and AI Weekly #172 for 13 January 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-172-for-13-january-2025-508a)
+- [Must-Know Python Open Source Projects for 2025](https://dev.to/abubakersiddique761/must-know-python-open-source-projects-for-2025-4g9p)
+- [[Boost]](https://dev.to/dpills/-18jl)
+- [Two-Tier Architecture with Terraform](https://dev.to/otumiky/two-tier-architecture-with-terraform-1epp)
+- [ServBay v1.7.2 Released: New Node.js Configuration Interface and UX Improvements](https://dev.to/servbay/servbay-v172-new-nodejs-configuration-interface-and-ux-improvements-510p)
 <!-- BLOG-POST-LIST:END -->
 
