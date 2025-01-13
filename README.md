@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Tuesday 🚱](https://dev.to/gokayburuc/meme-tuesday-3620)
-- [Master Azure Development: Linking Cloud Shell with VS Code on Windows Made Easy](https://dev.to/unique-tea/master-azure-development-linking-cloud-shell-with-vs-code-on-windows-made-easy-g28)
-- [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
-- [Finding best performant stack so you don&#39;t have to.](https://dev.to/digital_blaze/finding-best-performant-stack-so-you-dont-have-to-261n)
+- [All-APIs.com: The Ultimate Free REST API Platform for Developers](https://dev.to/raya_ali_4d4f239e66f846cc/all-apiscom-the-ultimate-free-rest-api-platform-for-developers-mig)
+- [3 essential elements for Web publishing](https://dev.to/jldec/3-essential-elements-for-web-publishing-30n1)
+- [Binary Made Easy — Understand the Basics](https://dev.to/theselftaughtdev/binary-made-easy-understand-the-basics-10hl)
+- [Rutas relativas y absolutas en programación](https://dev.to/devjohanadrian/rutas-relativas-y-absolutas-en-programacion-15nh)
 <!-- BLOG-POST-LIST:END -->
 
