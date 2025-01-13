@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Geospatial Server with BBOX Server](https://dev.to/mierune/building-a-geospatial-server-with-bbox-server-4e5b)
-- [👀](https://dev.to/zanaranjosa/-3g66)
-- [Top AI Video Generator Review: Unveiling Strengths, Weaknesses, and Best Picks](https://dev.to/cecilia_luo_23bae8578aa08/top-ai-video-generator-review-unveiling-strengths-weaknesses-and-best-picks-d1i)
-- [Rendering graph nodes as React components in d3.js+React graph.](https://dev.to/neznayer/force-graph-with-react-and-d3js-21h0)
+- [🚀 Your Daily Crypto Job Digest For 13 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-january-28kj)
+- [Setting Up a Kubernetes Cluster with KOPS](https://dev.to/prithiviraj_rengarajan/setting-up-a-kubernetes-cluster-with-kops-2mj1)
+- [Understanding Lists in Python](https://dev.to/samita_khanduri_/understanding-lists-in-python-55e0)
+- [The Future of Lead Generation: Why First-Party Data Will Define 2025](https://dev.to/vereigenmedia_80ca9ae2f52/the-future-of-lead-generation-why-first-party-data-will-define-2025-9k5)
 <!-- BLOG-POST-LIST:END -->
 
