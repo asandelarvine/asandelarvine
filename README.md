@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Publish a Power Platform Custom Connector](https://dev.to/wyattdave/how-to-publish-a-power-platform-custom-connector-2ihi)
-- [Easily handle dates and times operations in your application using Day.js](https://dev.to/sarahokolo/format-dates-and-times-easily-in-your-application-using-dayjs-fja)
-- [How to pass The CISSP Exam? Tips and Tricks](https://dev.to/itechburner/how-to-pass-the-cissp-exam-tips-and-tricks-1b46)
-- [Best website builders](https://dev.to/rickyjohn27/best-website-builders-12i)
+- [Author Bio Box CSS in WordPress](https://dev.to/snippflow/author-bio-box-css-in-wordpress-4io0)
+- [CC ↔ HP Converter](https://dev.to/learninggs/cc-hp-converter-2fi4)
+- [SQL Tables for Marvel Rivals Characters + Team-Up Abilities](https://dev.to/mbreshock/sql-tables-for-marvel-rivals-characters-team-up-abilities-32fb)
+- [How to Determine Proxies Per Task Efficiently](https://dev.to/swiftproxy_residential/how-to-determine-proxies-per-task-efficiently-5acp)
 <!-- BLOG-POST-LIST:END -->
 
