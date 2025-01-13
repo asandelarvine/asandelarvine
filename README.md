@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Critical Render Path and Its Role in Web Performance](https://dev.to/nik26_/understanding-the-critical-render-path-and-its-role-in-web-performance-24c5)
-- [What does it mean to be sentient, conscious, or self-aware?](https://dev.to/a-bentofreire/what-does-it-mean-to-be-sentient-conscious-or-self-aware-5fle)
-- [Service Workers: Revolutionizing Modern Web Apps](https://dev.to/mukhilpadmanabhan/service-workers-revolutionizing-modern-web-apps-24pk)
-- [Hello future](https://dev.to/ben/hello-future-3pg3)
+- [Testing a GraphQL Application with Jest and SuperTest](https://dev.to/joaosc17/testing-a-graphql-application-with-jest-and-supertest-1353)
+- [API vs Middleware: Understanding the Difference](https://dev.to/lovestaco/api-vs-middleware-understanding-the-difference-3b26)
+- [Introduction to Operating Systems](https://dev.to/arjun98k/introduction-to-operating-systems-3hji)
+- [The Ultimate Cheat Sheet: CLI Man Pages, tldr, and cheat.sh](https://dev.to/randazraik/the-ultimate-cheat-sheet-cli-man-pages-tldr-and-cheatsh-19bc)
 <!-- BLOG-POST-LIST:END -->
 
