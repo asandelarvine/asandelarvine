@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Alternatives to Consider in 2025](https://dev.to/riteshkokam/firebase-alternatives-to-consider-in-2025-456g)
-- [ISP - O Princípio da Segregação de Interface](https://dev.to/thrsouza/isp-o-principio-da-segregacao-de-interface-32c7)
-- [Effortlessly Host Static JSON Files with JSONsilo.com](https://dev.to/jaironlanda/effortlessly-host-static-json-files-with-jsonsilocom-3jm)
-- [Platforms for learning Linux](https://dev.to/david_stephen_f411b721ed2/platforms-for-learning-linux-108k)
+- [My First RAG Chatbot: What I Built and How](https://dev.to/hellogithub/my-first-rag-chatbot-what-i-built-and-how-4ilg)
+- [Introducing Ephem](https://dev.to/rhannequin/introducing-ephem-5827)
+- [Introduction to PHP](https://dev.to/oluwajubelo1/introduction-to-php-mn3)
+- [All Data and AI Weekly #172 for 13 January 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-172-for-13-january-2025-508a)
 <!-- BLOG-POST-LIST:END -->
 
