@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m joining Pomerium!](https://dev.to/nickytonline/im-joining-pomerium-225j)
-- [I&#39;m Answering the Blog Questions Challenge — Dev.to Edition](https://dev.to/canro91/im-answering-the-blog-questions-challenge-devto-edition-2f3g)
-- [From Product Manager to Independent Developer: A Six-Month Transformation Guide](https://dev.to/tomastomas/from-product-manager-to-independent-developer-a-six-month-transformation-guide-1d81)
-- [Understanding Agentic AI: A Step Beyond Traditional Chatbots](https://dev.to/hitesh_umaletiya/understanding-agentic-ai-a-step-beyond-traditional-chatbots-3mh4)
+- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-15bf)
+- [Stop Storing Sensitive Data in Local Storage: Do This Instead!](https://dev.to/elvissautet/stop-storing-sensitive-data-in-local-storage-do-this-instead-mf9)
+- [Not fitting clothes proper on upper body in lens studio...while making virtual try-on clothes](https://dev.to/mohan_mamidala_f2b2753a4d/not-fitting-clothes-proper-on-upper-body-in-lens-studiowhile-making-virtual-try-on-clothes-595e)
+- [Explore Nested Functions in JavaScript and how their scope works](https://dev.to/thedevricha/explore-nested-functions-in-javascript-and-how-their-scope-works-4i6a)
 <!-- BLOG-POST-LIST:END -->
 
