@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Security Measures: Safeguarding Your Codebase 🔒](https://dev.to/aws-builders/security-measures-safeguarding-your-codebase-3n23)
-- [Top Benefits of Using Bulk Email Marketing Services for Your Business](https://dev.to/steffan_jones_16b32d5275a/top-benefits-of-using-bulk-email-marketing-services-for-your-business-4emo)
-- [Why I won&#39;t use querySelector again.](https://dev.to/codingnninja/why-i-wont-use-queryselector-again-3mod)
-- [Stable Memory In Internet Computer](https://dev.to/harshedabdulla/stable-memory-in-internet-computer-37pj)
+- [10 Software Engineering Books Developers Should Read in 2025](https://dev.to/somadevtoo/10-software-engineering-books-developers-should-read-in-2025-2kfk)
+- [How Blackbird Accelerates API Development with Prod-Like Development Environments](https://dev.to/getambassador2024/how-blackbird-accelerates-api-development-with-prod-like-development-environments-17b0)
+- [End-to-End API Testing: How Mocking and Debugging Work Together](https://dev.to/getambassador2024/end-to-end-api-testing-how-mocking-and-debugging-work-together-27cc)
+- [The Ultimate VPS Showdown: Hetzner, Ionos, and LuxVPS — Who’s Your Budget Buddy? 🎉](https://dev.to/adriancolom/the-ultimate-vps-showdown-hetzner-ionos-and-luxvps-whos-your-budget-buddy-2gmm)
 <!-- BLOG-POST-LIST:END -->
 
