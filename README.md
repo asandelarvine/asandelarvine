@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CRM Development: Unlocking Growth with Custom Solutions](https://dev.to/spencermarx/crm-development-unlocking-growth-with-custom-solutions-fle)
-- [Getting ready for Tailwind v4.0](https://dev.to/logrocket/getting-ready-for-tailwind-v40-53gh)
-- [My Favorite Tech Stack for Startup Success in 2025](https://dev.to/this-is-learning/my-favorite-tech-stack-for-startup-success-in-2025-1e14)
-- [Самые необычные технологические новинки, представленные на CES 2025](https://dev.to/arcanegamingcom/samyie-nieobychnyie-tiekhnologhichieskiie-novinki-priedstavliennyie-na-ces-2025-4j13)
+- [💡 How Do You Generate Your Cover Images for Blog Posts?](https://dev.to/makechi02/how-do-you-generate-your-cover-images-for-blog-posts-599a)
+- [Introducing vulne-soldier: A Modern AWS EC2 Vulnerability Remediation Tool](https://dev.to/kingkonsole/introducing-vulne-soldier-a-modern-aws-ec2-vulnerability-remediation-tool-3j7a)
+- [White Label Chat Platform for 2025](https://dev.to/aprogrammer22/white-label-chat-platform-for-2025-3mb7)
+- [Mentorship: A Two-Way Street of Growth](https://dev.to/m_midas/mentorship-a-two-way-street-of-growth-5al6)
 <!-- BLOG-POST-LIST:END -->
 
