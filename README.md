@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS, Azure, and GCP: Which provider is best for your needs?](https://dev.to/briansuarezsantiago/aws-azure-and-gcp-which-provider-is-best-for-your-needs-5enl)
-- [The World’s 1st Free and Open-Source Palm Recognition SDK from Faceplugin](https://dev.to/faceplugin/the-worlds-1st-free-and-open-source-palm-recognition-sdk-from-faceplugin-5d8h)
-- [Clean up S3 Batch Operations, Tags and Lifecycle policies, they said. It will be cheaper, they said.](https://dev.to/aws-builders/clean-up-s3-batch-operations-tags-and-lifecycle-policies-they-said-it-will-be-cheaper-they-3gli)
-- [Secrets Management in Kubernetes: Best Practices for Security](https://dev.to/rubixkube/secrets-management-in-kubernetes-best-practices-for-security-1df0)
+- [Building an Intelligent SQL Query Assistant with Neon, .NET, Azure Functions, and Azure OpenAI service](https://dev.to/bobur/building-an-intelligent-sql-query-assistant-with-neon-net-azure-functions-and-azure-openai-1hii)
+- [🚀 Your Daily Crypto Job Digest For 14 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-january-3nnc)
+- [Kubernetes on Hybrid Cloud: Talos network](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-talos-network-51lo)
+- [Expo reads text asset file](https://dev.to/somidad/expo-reads-text-asset-file-3f07)
 <!-- BLOG-POST-LIST:END -->
 
