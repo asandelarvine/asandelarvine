@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Animation Library You Can Use for your Web Apps](https://dev.to/jenueldev/animation-library-you-can-use-for-your-web-apps-35lb)
-- [What is Generative AI and Why Does Your Business Need It?](https://dev.to/robertadler/what-is-generative-ai-and-why-does-your-business-need-it-41na)
-- [Streamlining CI/CD with AWS CodePipeline and GitHub Actions: A DevOps Perspective](https://dev.to/mabubakarriaz/streamlining-cicd-with-aws-codepipeline-and-github-actions-a-devops-perspective-j18)
-- [DEV RETRO 2024 !](https://dev.to/pragadeeshnehru/dev-retro-2024--3ceb)
+- [AWS, Azure, and GCP: Which provider is best for your needs?](https://dev.to/briansuarezsantiago/aws-azure-and-gcp-which-provider-is-best-for-your-needs-5enl)
+- [The World’s 1st Free and Open-Source Palm Recognition SDK from Faceplugin](https://dev.to/faceplugin/the-worlds-1st-free-and-open-source-palm-recognition-sdk-from-faceplugin-5d8h)
+- [Clean up S3 Batch Operations, Tags and Lifecycle policies, they said. It will be cheaper, they said.](https://dev.to/aws-builders/clean-up-s3-batch-operations-tags-and-lifecycle-policies-they-said-it-will-be-cheaper-they-3gli)
+- [Secrets Management in Kubernetes: Best Practices for Security](https://dev.to/rubixkube/secrets-management-in-kubernetes-best-practices-for-security-1df0)
 <!-- BLOG-POST-LIST:END -->
 
