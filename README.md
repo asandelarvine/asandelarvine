@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Vyper - Write your First Smart Contract &lpar;Series&rpar;](https://dev.to/scofieldidehen/vyper-write-your-first-smart-contract-series-1mkf)
+- [SEO AI: Your Secret Weapon for Boosting SEO Performance!](https://dev.to/juddiy/seo-ai-your-secret-weapon-for-boosting-seo-performance-h4h)
 - [Nextjs and ReactJS](https://dev.to/shelleyp95/nextjs-and-reactjs-3g48)
 - [NextJS And Contentful](https://dev.to/rivkaavraham/nextjs-and-contentful-1o7i)
-- [Figma to NextJS](https://dev.to/rivkaavraham/figma-to-nextjs-18kb)
-- [Contentful with Next Js](https://dev.to/meggieton/contentful-with-next-js-3fdo)
 <!-- BLOG-POST-LIST:END -->
 
