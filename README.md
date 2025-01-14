@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extract structured data using Python&#39;s advanced techniques](https://dev.to/98ip/extract-structured-data-using-pythons-advanced-techniques-5efo)
-- [✨ Introducing Tooltip: A Revolutionary Suite of Developer Tools** ✨](https://dev.to/hanzla-baig/introducing-tooltip-a-revolutionary-suite-of-developer-tools-3jf4)
-- [Create-Vue](https://dev.to/ebagabee/create-vue-31ob)
-- [Why AWS Decision Guides Matter for Cloud Computing Beginners](https://dev.to/franciscojeg78/why-aws-decision-guides-matter-for-cloud-computing-beginners-12j7)
+- [Nextjs and ReactJS](https://dev.to/shelleyp95/nextjs-and-reactjs-3g48)
+- [NextJS And Contentful](https://dev.to/rivkaavraham/nextjs-and-contentful-1o7i)
+- [Figma to NextJS](https://dev.to/rivkaavraham/figma-to-nextjs-18kb)
+- [Contentful with Next Js](https://dev.to/meggieton/contentful-with-next-js-3fdo)
 <!-- BLOG-POST-LIST:END -->
 
