@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to fix: ReferenceError: Variable Is Not Defined](https://dev.to/failwarn/how-to-fix-referenceerror-variable-is-not-defined-3709)
-- [Why to begin Website Error Tracking](https://dev.to/failwarn/why-to-begin-website-error-tracking-486h)
-- [Go Basics: Syntax and Structure](https://dev.to/ali_farhadnia/go-basics-syntax-and-structure-1f1)
-- [Getting Started with the Open Source AI Hackathon](https://dev.to/abdibrokhim/getting-started-with-the-open-source-ai-hackathon-989)
+- [Temporary Chat Isn&#39;t That Temporary | A Look at The Custom Bio and User Instructions in ChatGPT](https://dev.to/dansasser/temporary-chat-isnt-that-temporary-a-look-at-the-custom-bio-and-user-instructions-in-chatgpt-1og4)
+- [Creating a scalable Monorepo for Vue - Workspaces](https://dev.to/nagell/creating-a-scalable-monorepo-for-vue-workspaces-5dlk)
+- [Understanding Galadriel CSS and Nenyr: A Comprehensive Guide to Declarative Styling](https://dev.to/patrickgunnar/understanding-galadriel-css-and-nenyr-a-comprehensive-guide-to-declarative-styling-3eb3)
+- [Unlocking the Secrets of React Context: Power, Pitfalls, and Performance](https://dev.to/vigneshiyergithub/unlocking-the-secrets-of-react-context-power-pitfalls-and-performance-2962)
 <!-- BLOG-POST-LIST:END -->
 
