@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Top 30 Must-Read Productivity Articles for January 9, 2025](https://dev.to/dev-resources/top-30-must-read-productivity-articles-for-january-9-2025-4eal)
-- [OAuth2 Scopes and Claims: Fine-Grained Access Control](https://dev.to/igventurelli/oauth2-scopes-and-claims-fine-grained-access-control-121e)
-- [Why Do We Use Calendars? A Short Essay About Time](https://dev.to/zirkelc/why-do-we-use-calendars-a-short-essay-about-time-4g0g)
-- [Navigating Tomorrow: Embracing the Top 5 HR Trends for 2024](https://dev.to/vdaubry/navigating-tomorrow-embracing-the-top-5-hr-trends-for-2024-4eh8)
+- [How I Saved Time on Frontend Development Using shadcn Components &lpar;And Made It Look Better Too&rpar;](https://dev.to/rijultp/how-i-saved-time-on-frontend-development-using-shadcn-components-and-made-it-look-better-too-1af0)
+- [How to Build a Social Network in 1 Day: Part 1 — Introduction](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-1-introduction-1a3d)
+- [Naviguer vers le Bien-être des Employés : Stratégies RH pour la Santé Mentale en 2024](https://dev.to/vdaubry/naviguer-vers-le-bien-etre-des-employes-strategies-rh-pour-la-sante-mentale-en-2024-2007)
+- [Building Modern Desktop Applications with .NET 9: Features and Best Practices](https://dev.to/leandroveiga/building-modern-desktop-applications-with-net-9-features-and-best-practices-4707)
 <!-- BLOG-POST-LIST:END -->
 
