@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Saved Time on Frontend Development Using shadcn Components &lpar;And Made It Look Better Too&rpar;](https://dev.to/rijultp/how-i-saved-time-on-frontend-development-using-shadcn-components-and-made-it-look-better-too-1af0)
-- [How to Build a Social Network in 1 Day: Part 1 — Introduction](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-1-introduction-1a3d)
-- [Naviguer vers le Bien-être des Employés : Stratégies RH pour la Santé Mentale en 2024](https://dev.to/vdaubry/naviguer-vers-le-bien-etre-des-employes-strategies-rh-pour-la-sante-mentale-en-2024-2007)
-- [Building Modern Desktop Applications with .NET 9: Features and Best Practices](https://dev.to/leandroveiga/building-modern-desktop-applications-with-net-9-features-and-best-practices-4707)
+- [Understanding Blockchain: A Beginner&#39;s Guide for Novices](https://dev.to/phonelocket8/understanding-blockchain-a-beginners-guide-for-novices-427m)
+- [Can this be improved? Or is there existing code/apps/etc. that do this?](https://dev.to/andy88/can-this-be-improved-or-is-there-existing-codeappsetc-that-do-this-4obp)
+- [Understanding the Fundamentals of AI](https://dev.to/lauraorange44/understanding-the-fundamentals-of-ai-3jd5)
+- [🛡️ Security Measures: Safeguarding Your Codebase 🔒](https://dev.to/aws-builders/security-measures-safeguarding-your-codebase-4fij)
 <!-- BLOG-POST-LIST:END -->
 
