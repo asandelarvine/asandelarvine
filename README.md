@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Intelligent SQL Query Assistant with Neon, .NET, Azure Functions, and Azure OpenAI service](https://dev.to/bobur/building-an-intelligent-sql-query-assistant-with-neon-net-azure-functions-and-azure-openai-1hii)
-- [🚀 Your Daily Crypto Job Digest For 14 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-january-3nnc)
-- [Kubernetes on Hybrid Cloud: Talos network](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-talos-network-51lo)
-- [Expo reads text asset file](https://dev.to/somidad/expo-reads-text-asset-file-3f07)
+- [Code Challenge: Map](https://dev.to/missbreton/code-challenge-map-27fd)
+- [Scala Full-Stack templates](https://dev.to/hackus/scala-full-stack-templates-16ea)
+- [Dynamic Routes in Astro &lpar;+load parameters from JSON&rpar;](https://dev.to/flnzba/dynamic-routes-in-astro-load-parameters-from-json-g6p)
+- [7 Critical Pitfalls New Developers Must Avoid in Their First Weeks](https://dev.to/_ndeyefatoudiop/7-critical-pitfalls-new-developers-must-avoid-in-their-first-weeks-2l21)
 <!-- BLOG-POST-LIST:END -->
 
