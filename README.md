@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s create Data Table. Part 7: Dark theme and refactoring](https://dev.to/morewings/lets-create-data-table-part-7-dark-theme-and-refactoring-3ni9)
-- [Compiling 2025: Building a Year of Growth and Innovation](https://dev.to/prasanthj/compiling-2025-building-a-year-of-growth-and-innovation-3d3k)
-- [Understanding OAuth 1.0a Signature Generation: Postman vs. Node.js Library and Custom Implementation](https://dev.to/chatgptnexus/2025011422-50-58-article-2olf)
-- [React Korean Input Bug: First Character Not Displaying Properly](https://dev.to/gnoeykeat/react-korean-input-bug-first-character-not-displaying-properly-5epd)
+- [CRM Development: Unlocking Growth with Custom Solutions](https://dev.to/spencermarx/crm-development-unlocking-growth-with-custom-solutions-fle)
+- [Getting ready for Tailwind v4.0](https://dev.to/logrocket/getting-ready-for-tailwind-v40-53gh)
+- [My Favorite Tech Stack for Startup Success in 2025](https://dev.to/this-is-learning/my-favorite-tech-stack-for-startup-success-in-2025-1e14)
+- [Самые необычные технологические новинки, представленные на CES 2025](https://dev.to/arcanegamingcom/samyie-nieobychnyie-tiekhnologhichieskiie-novinki-priedstavliennyie-na-ces-2025-4j13)
 <!-- BLOG-POST-LIST:END -->
 
