@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Temporary Chat Isn&#39;t That Temporary | A Look at The Custom Bio and User Instructions in ChatGPT](https://dev.to/dansasser/temporary-chat-isnt-that-temporary-a-look-at-the-custom-bio-and-user-instructions-in-chatgpt-1og4)
-- [Creating a scalable Monorepo for Vue - Workspaces](https://dev.to/nagell/creating-a-scalable-monorepo-for-vue-workspaces-5dlk)
-- [Understanding Galadriel CSS and Nenyr: A Comprehensive Guide to Declarative Styling](https://dev.to/patrickgunnar/understanding-galadriel-css-and-nenyr-a-comprehensive-guide-to-declarative-styling-3eb3)
-- [Unlocking the Secrets of React Context: Power, Pitfalls, and Performance](https://dev.to/vigneshiyergithub/unlocking-the-secrets-of-react-context-power-pitfalls-and-performance-2962)
+- [Building a Semantic Search Engine with OpenAI, Go, and PostgreSQL &lpar;pgvector&rpar;](https://dev.to/dpuig/building-a-semantic-search-engine-with-openai-go-and-postgresql-pgvector-1el6)
+- [Is the SIP protocol making a comeback?](https://dev.to/naderjaber/is-the-sip-protocol-making-a-comeback-3l0b)
+- [Using LRU Cache in Node.js and TypeScript](https://dev.to/shayy/using-lru-cache-in-nodejs-and-typescript-7d9)
+- [Who Needs Roles Anymore? Introducing OpenFGA, the Future of SaaS](https://dev.to/blkgrlcto/who-needs-roles-anymore-introducing-openfga-the-future-of-saas-19j6)
 <!-- BLOG-POST-LIST:END -->
 
