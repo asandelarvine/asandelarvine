@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey as a First-Year Software Engineering Student](https://dev.to/gitbuddhi/my-journey-as-a-first-year-software-engineering-student-1l55)
-- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1j15)
-- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1dha)
-- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-54i9)
+- [Animation Library You Can Use for your Web Apps](https://dev.to/jenueldev/animation-library-you-can-use-for-your-web-apps-35lb)
+- [What is Generative AI and Why Does Your Business Need It?](https://dev.to/robertadler/what-is-generative-ai-and-why-does-your-business-need-it-41na)
+- [Streamlining CI/CD with AWS CodePipeline and GitHub Actions: A DevOps Perspective](https://dev.to/mabubakarriaz/streamlining-cicd-with-aws-codepipeline-and-github-actions-a-devops-perspective-j18)
+- [DEV RETRO 2024 !](https://dev.to/pragadeeshnehru/dev-retro-2024--3ceb)
 <!-- BLOG-POST-LIST:END -->
 
