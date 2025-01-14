@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All-APIs.com: The Ultimate Free REST API Platform for Developers](https://dev.to/raya_ali_4d4f239e66f846cc/all-apiscom-the-ultimate-free-rest-api-platform-for-developers-mig)
-- [3 essential elements for Web publishing](https://dev.to/jldec/3-essential-elements-for-web-publishing-30n1)
-- [Binary Made Easy — Understand the Basics](https://dev.to/theselftaughtdev/binary-made-easy-understand-the-basics-10hl)
-- [Rutas relativas y absolutas en programación](https://dev.to/devjohanadrian/rutas-relativas-y-absolutas-en-programacion-15nh)
+- [Por onde começar os estudos da AWS - Parte 1](https://dev.to/any97cris/por-onde-comecar-os-estudos-da-aws-parte-1-6o4)
+- [AI Is Transforming Software Testing: A New Era of Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-is-transforming-software-testing-a-new-era-of-quality-assurance-odd)
+- [Secrets Management 101: A technical approach with AKS, Terraform, and Vault](https://dev.to/poojan18/secrets-management-101-a-technical-approach-with-aks-terraform-and-vault-284p)
+- [New ways to engage with the stdlib community!](https://dev.to/stdlib/new-ways-to-engage-with-the-stdlib-community-3in4)
 <!-- BLOG-POST-LIST:END -->
 
