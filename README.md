@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Por onde começar os estudos da AWS - Parte 1](https://dev.to/any97cris/por-onde-comecar-os-estudos-da-aws-parte-1-6o4)
-- [AI Is Transforming Software Testing: A New Era of Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-is-transforming-software-testing-a-new-era-of-quality-assurance-odd)
-- [Secrets Management 101: A technical approach with AKS, Terraform, and Vault](https://dev.to/poojan18/secrets-management-101-a-technical-approach-with-aks-terraform-and-vault-284p)
-- [New ways to engage with the stdlib community!](https://dev.to/stdlib/new-ways-to-engage-with-the-stdlib-community-3in4)
+- [Extract structured data using Python&#39;s advanced techniques](https://dev.to/98ip/extract-structured-data-using-pythons-advanced-techniques-5efo)
+- [✨ Introducing Tooltip: A Revolutionary Suite of Developer Tools** ✨](https://dev.to/hanzla-baig/introducing-tooltip-a-revolutionary-suite-of-developer-tools-3jf4)
+- [Create-Vue](https://dev.to/ebagabee/create-vue-31ob)
+- [Why AWS Decision Guides Matter for Cloud Computing Beginners](https://dev.to/franciscojeg78/why-aws-decision-guides-matter-for-cloud-computing-beginners-12j7)
 <!-- BLOG-POST-LIST:END -->
 
