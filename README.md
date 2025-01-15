@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Power Query SDK in Visual Studio Code for Power BI](https://dev.to/flnzba/use-power-query-sdk-in-visual-studio-code-for-power-bi-5hjc)
-- [The Transformative Power of Selfless Service: How Giving Back Shapes Us All](https://dev.to/nandhitha_0203040506/the-transformative-power-of-selfless-service-how-giving-back-shapes-us-all-27im)
-- [Dev Diaries: ShareIt](https://dev.to/dd8888/dev-diaries-shareit-3gi7)
-- [6 Top Professional AI Resume Builders Offering the Best Resume Writing Services in 2025](https://dev.to/nitinfab/6-top-professional-ai-resume-builders-offering-the-best-resume-writing-services-in-2025-4ok8)
+- [Unique Symbols: How to Use Symbols for Type Safety](https://dev.to/zirkelc/unique-symbols-how-to-use-symbols-for-type-safety-52gb)
+- [➡️💡Guide, Innovate, Succeed: Becoming a Software Development Leader 🚀](https://dev.to/praveenrajamani/guide-innovate-succeed-becoming-a-software-development-leader-59f5)
+- [Vinny built CoverletterGPT to $500/month, a good read](https://dev.to/infomiho/vinny-built-coverlettergpt-to-500month-a-good-read-56gb)
+- [Serverless NBA Data Lake Application with API Gateway, AWS Lambda, Amazon S3, AWS Glue and Athena Using Terraform](https://dev.to/gbenga700/serverless-nba-data-lake-application-with-api-gateway-aws-lambda-amazon-s3-aws-glue-and-athena-i2l)
 <!-- BLOG-POST-LIST:END -->
 
