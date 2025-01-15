@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Security with Proxy Hostname](https://dev.to/swiftproxy_residential/enhance-your-security-with-proxy-hostname-1300)
-- [How to Incorporate Style Guides into Your Technical Writing Process](https://dev.to/olodocoder/how-to-incorporate-style-guides-into-your-technical-writing-process-11gb)
-- [What Is a Proxy and Why It Matters](https://dev.to/swiftproxy_residential/what-is-a-proxy-and-why-it-matters-5edm)
-- [Binary classification with Machine Learning: Neural Networks for classifying Chihuahuas and Muffins](https://dev.to/atlantis/binary-classification-with-machine-learning-neural-networks-for-classifying-chihuahuas-and-muffins-4b72)
+- [Speed Up Your Frontend Development 10x with These Mock Tools 🚀](https://dev.to/geekvergil/speed-up-your-frontend-development-10x-with-these-mock-tools-31ob)
+- [Why Successful Companies Don&#39;t Have DBAs](https://dev.to/metis/why-successful-companies-dont-have-dbas-1b19)
+- [A Simple Guide to AWS Monitoring Tools](https://dev.to/aws-builders/a-simple-guide-to-aws-monitoring-tools-5gj4)
+- [Custom builder for Angular: My way](https://dev.to/klerick/custom-builder-for-angular-my-way-12hd)
 <!-- BLOG-POST-LIST:END -->
 
