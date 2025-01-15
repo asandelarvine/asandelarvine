@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-53kj)
-- [check it out](https://dev.to/shivam223/check-it-out-2nah)
-- [🌐 Building Golang RESTful API with Gin, MongoDB 🌱](https://dev.to/truongpx396/building-golang-restful-api-with-gin-mongodb-482c)
-- [Why Is Everyone Unhappy With JavaScript? | State of Javascript 2024 Survey](https://dev.to/mikehtmlallthethings/why-is-everyone-unhappy-with-javascript-state-of-javascript-2024-survey-20g6)
+- [Is posible to manipulate the return value from useRefs?](https://dev.to/polartang/is-posible-to-manipulate-the-return-value-from-userefs-1h3j)
+- [Como criei um dashboard estratégico com Streamlit usando dados do Jira &lpar;sendo Product Owner&rpar;](https://dev.to/proesc/como-criei-um-dashboard-estrategico-com-streamlit-usando-dados-do-jira-sendo-product-owner-igj)
+- [Hello, this is my first time here. I hope you are all doing well.](https://dev.to/abobakrelgandy/hello-this-is-my-first-time-here-i-hope-you-are-all-doing-well-433i)
+- [My React Journey: Project](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-project-2b66)
 <!-- BLOG-POST-LIST:END -->
 
