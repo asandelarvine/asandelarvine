@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Email Marketing Service Providers in Noida to Grow Your Business](https://dev.to/digitalakadotcom/top-6-email-marketing-service-providers-in-noida-to-grow-your-business-4m1g)
-- [OpenCL performance on intel i5-11400 by Clpeak](https://dev.to/viveknanda/opencl-performance-on-intel-i5-11400-by-clpeak-fc)
-- [Welcome to Neurolov AI – Revolutionizing AI for Developers](https://dev.to/neurolov_ai_/welcome-to-neurolov-ai-revolutionizing-ai-for-developers-da7)
-- [AI Workflows vs AI Agents — What’s the Difference?](https://dev.to/anandrmedia/ai-workflows-vs-ai-agents-whats-the-difference-5fk6)
+- [DevOps Culture &amp; Principles](https://dev.to/godofgeeks/devops-culture-principles-2fik)
+- [A Complete Beginner’s Guide to Python Training Course](https://dev.to/daksh_kataria_9c4197f3f7c/a-complete-beginners-guide-to-python-training-course-2hnh)
+- [Understanding PHP Development and Why It’s Still Relevant Today](https://dev.to/neotechy/understanding-php-development-and-why-its-still-relevant-today-292i)
+- [Rate limiting : Global, Tumbling Window, and Sliding Window](https://dev.to/zeeshanali0704/rate-limiting-global-tumbling-window-and-sliding-window-3d2o)
 <!-- BLOG-POST-LIST:END -->
 
