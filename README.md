@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React](https://dev.to/kushi_nama_0e0be6ad87f7fc/react-2kbh)
-- [What &lpar;&lpar;programming&rpar; language&rpar; should I learn this year, 2025 ?](https://dev.to/taikedz/what-programming-language-should-i-learn-this-year-2025--meo)
-- [Are millions of accounts vulnerable due to Google&#39;s OAuth Flaw?](https://dev.to/authress/are-millions-of-accounts-vulnerable-due-to-googles-oauth-flaw-33f)
-- [Best Tips to Prepare for the AWS Certification Exam in 2025](https://dev.to/skillboosttrainer/best-tips-to-prepare-for-the-aws-certification-exam-in-2025-166h)
+- [Vyper Data Types &lpar;Series 2&rpar;](https://dev.to/scofieldidehen/vyper-data-types-series-2-8m7)
+- [From Bootcamp to Senior Engineer: Growing, Learning, and Feeling Green](https://dev.to/justinoblivion/from-bootcamp-to-senior-engineer-growing-learning-and-feeling-green-1740)
+- [Impostor syndrome website: Copilot 1-Day Build Challenge](https://dev.to/gerardovillla/impostor-syndrome-website-copilot-1-day-build-challenge-279j)
+- [Do You Care About Commit Messages?](https://dev.to/mathiasfc/do-you-care-about-commit-messages-3ml8)
 <!-- BLOG-POST-LIST:END -->
 
