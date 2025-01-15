@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Speed Up Your Frontend Development 10x with These Mock Tools 🚀](https://dev.to/geekvergil/speed-up-your-frontend-development-10x-with-these-mock-tools-31ob)
-- [Why Successful Companies Don&#39;t Have DBAs](https://dev.to/metis/why-successful-companies-dont-have-dbas-1b19)
-- [A Simple Guide to AWS Monitoring Tools](https://dev.to/aws-builders/a-simple-guide-to-aws-monitoring-tools-5gj4)
-- [Custom builder for Angular: My way](https://dev.to/klerick/custom-builder-for-angular-my-way-12hd)
+- [Evolution By Sound](https://dev.to/bizzi_cole87_26ec228487d6/evolution-by-sound-453f)
+- [Building a String Calculator with Test-Driven Development &lpar;TDD&rpar;: A Step-by-Step Guide](https://dev.to/vishaaxl/building-a-string-calculator-with-test-driven-development-tdd-a-step-by-step-guide-4d59)
+- [How AI is Transforming the Healthcare Industry](https://dev.to/ram_fb361bc2f8f94e06772e2/how-ai-is-transforming-the-healthcare-industry-2gh6)
+- [Metamorphosis Tracker](https://dev.to/codedragon35/metamorphosis-tracker-3m5f)
 <!-- BLOG-POST-LIST:END -->
 
