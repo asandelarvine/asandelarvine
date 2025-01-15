@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Semantic Search Engine with OpenAI, Go, and PostgreSQL &lpar;pgvector&rpar;](https://dev.to/dpuig/building-a-semantic-search-engine-with-openai-go-and-postgresql-pgvector-1el6)
-- [Is the SIP protocol making a comeback?](https://dev.to/naderjaber/is-the-sip-protocol-making-a-comeback-3l0b)
-- [Using LRU Cache in Node.js and TypeScript](https://dev.to/shayy/using-lru-cache-in-nodejs-and-typescript-7d9)
-- [Who Needs Roles Anymore? Introducing OpenFGA, the Future of SaaS](https://dev.to/blkgrlcto/who-needs-roles-anymore-introducing-openfga-the-future-of-saas-19j6)
+- [🌐 🚀 Top 230 Websites every developer should know 🌟](https://dev.to/hanzla-baig/top-230-websites-every-developer-should-know-2og9)
+- [PyTorch and Deep Learning for Decision Makers &lpar;LFS1116&rpar; Course with The Linux Foundation](https://dev.to/marcoatl/pytorch-and-deep-learning-for-decision-makers-lfs1116-course-with-the-linux-foundation-2l2)
+- [Episode 21 about Gen AI: Cybersecurity&#39;s Double-Edged Sword](https://dev.to/marcoatl/episode-21-about-gen-ai-cybersecuritys-double-edged-sword-4efl)
+- [Developing a project using Java Spring Framework, JSON, JPA and PostgreSQL](https://dev.to/marcoatl/developing-a-project-using-java-spring-framework-json-jpa-and-postgresql-3ib7)
 <!-- BLOG-POST-LIST:END -->
 
