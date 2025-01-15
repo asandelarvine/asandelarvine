@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Culture &amp; Principles](https://dev.to/godofgeeks/devops-culture-principles-2fik)
-- [A Complete Beginner’s Guide to Python Training Course](https://dev.to/daksh_kataria_9c4197f3f7c/a-complete-beginners-guide-to-python-training-course-2hnh)
-- [Understanding PHP Development and Why It’s Still Relevant Today](https://dev.to/neotechy/understanding-php-development-and-why-its-still-relevant-today-292i)
-- [Rate limiting : Global, Tumbling Window, and Sliding Window](https://dev.to/zeeshanali0704/rate-limiting-global-tumbling-window-and-sliding-window-3d2o)
+- [Enhance Your Security with Proxy Hostname](https://dev.to/swiftproxy_residential/enhance-your-security-with-proxy-hostname-1300)
+- [How to Incorporate Style Guides into Your Technical Writing Process](https://dev.to/olodocoder/how-to-incorporate-style-guides-into-your-technical-writing-process-11gb)
+- [What Is a Proxy and Why It Matters](https://dev.to/swiftproxy_residential/what-is-a-proxy-and-why-it-matters-5edm)
+- [Binary classification with Machine Learning: Neural Networks for classifying Chihuahuas and Muffins](https://dev.to/atlantis/binary-classification-with-machine-learning-neural-networks-for-classifying-chihuahuas-and-muffins-4b72)
 <!-- BLOG-POST-LIST:END -->
 
