@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v310](https://dev.to/devteam/welcome-thread-v310-348i)
-- [Blockchain](https://dev.to/ranjithjupaka/blockchain-309n)
-- [HTML Elements](https://dev.to/kavya_655bd7b08c9f0e93601/html-elements-6lj)
-- [AngularFire Starter Template](https://dev.to/mbejda/angularfire-starter-template-4cgp)
+- [Top 6 Email Marketing Service Providers in Noida to Grow Your Business](https://dev.to/digitalakadotcom/top-6-email-marketing-service-providers-in-noida-to-grow-your-business-4m1g)
+- [OpenCL performance on intel i5-11400 by Clpeak](https://dev.to/viveknanda/opencl-performance-on-intel-i5-11400-by-clpeak-fc)
+- [Welcome to Neurolov AI – Revolutionizing AI for Developers](https://dev.to/neurolov_ai_/welcome-to-neurolov-ai-revolutionizing-ai-for-developers-da7)
+- [AI Workflows vs AI Agents — What’s the Difference?](https://dev.to/anandrmedia/ai-workflows-vs-ai-agents-whats-the-difference-5fk6)
 <!-- BLOG-POST-LIST:END -->
 
