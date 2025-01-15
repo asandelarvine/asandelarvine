@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 🚀 Top 230 Websites every developer should know 🌟](https://dev.to/hanzla-baig/top-230-websites-every-developer-should-know-2og9)
-- [PyTorch and Deep Learning for Decision Makers &lpar;LFS1116&rpar; Course with The Linux Foundation](https://dev.to/marcoatl/pytorch-and-deep-learning-for-decision-makers-lfs1116-course-with-the-linux-foundation-2l2)
-- [Episode 21 about Gen AI: Cybersecurity&#39;s Double-Edged Sword](https://dev.to/marcoatl/episode-21-about-gen-ai-cybersecuritys-double-edged-sword-4efl)
-- [Developing a project using Java Spring Framework, JSON, JPA and PostgreSQL](https://dev.to/marcoatl/developing-a-project-using-java-spring-framework-json-jpa-and-postgresql-3ib7)
+- [uilding Thriving Communities: A Guide for Developers and Leaders](https://dev.to/shib_itsme/uilding-thriving-communities-a-guide-for-developers-and-leaders-e08)
+- [Video AI](https://dev.to/csakscreator/video-ai-dkc)
+- [The King Combination: Efficiently Completing Heterogeneous Data Integration with DolphinScheduler 3.1.* and SeaTunnel 2.3.*](https://dev.to/chen_debra_3060b21d12b1b0/the-king-combination-efficiently-completing-heterogeneous-data-integration-with-dolphinscheduler-2lp1)
+- [不同版本redis get 获取String类型的数据结构，拿到的值类型不同！](https://dev.to/dragon72463399/bu-tong-ban-ben-redis-get-huo-qu-stringlei-xing-de-shu-ju-jie-gou-na-dao-de-zhi-lei-xing-bu-tong--1cmo)
 <!-- BLOG-POST-LIST:END -->
 
