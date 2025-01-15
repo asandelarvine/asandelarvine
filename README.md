@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Google Flights Data with Python](https://dev.to/datacollectionscraper/how-to-scrape-google-flights-data-with-python-3afm)
-- [🌟 A New Adventure Begins! 🛵🍕](https://dev.to/sahilkhatiwada_official/a-new-adventure-begins-1mgj)
-- [#131 — Use Association Table to Handle Interval Association](https://dev.to/judith677/131-use-association-table-to-handle-interval-association-2jg2)
-- [Using Direct Line botframework in a React Native Application to connect to Copilot Studio Agent](https://dev.to/vivekyadav200988/direct-line-usage-in-a-react-native-application-using-botframework-4lhh)
+- [3..2..1… AWS aterriza en México 🚀 🇲🇽](https://dev.to/bgalicia/321-aws-aterriza-en-mexico-22hl)
+- [Automating Limit Orders on Polygon with TypeScript, 0x, and Terraform](https://dev.to/radzion/automating-limit-orders-on-polygon-with-typescript-0x-and-terraform-24pp)
+- [深度探索Pop Max详尽问答指南](https://dev.to/popmaxcn/shen-du-tan-suo-pop-maxxiang-jin-wen-da-zhi-nan-gb9)
+- [The Future of Automated Testing: A New Horizon for Quality Assurance](https://dev.to/arun_pal_3ce740a137cf15ad/the-future-of-automated-testing-a-new-horizon-for-quality-assurance-1o6p)
 <!-- BLOG-POST-LIST:END -->
 
