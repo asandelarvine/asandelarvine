@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Frontier of Visual AI in Medical Imaging](https://dev.to/voxel51/the-frontier-of-visual-ai-in-medical-imaging-2kll)
-- [&quot;Boosting Multilingual LLMs: Tackling Noise for Better Performance&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-multilingual-llms-tackling-noise-for-better-performance-4c0a)
-- [7 Mistakes Developers Make When Learning a New Framework &lpar;and How to Avoid Them&rpar;](https://dev.to/tunde_brown_9aca573715fe5/7-mistakes-developers-make-when-learning-a-new-framework-and-how-to-avoid-them-1cg2)
-- [Planning for 2025](https://dev.to/k-charm/planning-for-2025-4ji9)
+- [React](https://dev.to/kushi_nama_0e0be6ad87f7fc/react-2kbh)
+- [What &lpar;&lpar;programming&rpar; language&rpar; should I learn this year, 2025 ?](https://dev.to/taikedz/what-programming-language-should-i-learn-this-year-2025--meo)
+- [Are millions of accounts vulnerable due to Google&#39;s OAuth Flaw?](https://dev.to/authress/are-millions-of-accounts-vulnerable-due-to-googles-oauth-flaw-33f)
+- [Best Tips to Prepare for the AWS Certification Exam in 2025](https://dev.to/skillboosttrainer/best-tips-to-prepare-for-the-aws-certification-exam-in-2025-166h)
 <!-- BLOG-POST-LIST:END -->
 
