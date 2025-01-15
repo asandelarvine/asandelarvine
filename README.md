@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vyper Data Types &lpar;Series 2&rpar;](https://dev.to/scofieldidehen/vyper-data-types-series-2-8m7)
-- [From Bootcamp to Senior Engineer: Growing, Learning, and Feeling Green](https://dev.to/justinoblivion/from-bootcamp-to-senior-engineer-growing-learning-and-feeling-green-1740)
-- [Impostor syndrome website: Copilot 1-Day Build Challenge](https://dev.to/gerardovillla/impostor-syndrome-website-copilot-1-day-build-challenge-279j)
-- [Do You Care About Commit Messages?](https://dev.to/mathiasfc/do-you-care-about-commit-messages-3ml8)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-53kj)
+- [check it out](https://dev.to/shivam223/check-it-out-2nah)
+- [🌐 Building Golang RESTful API with Gin, MongoDB 🌱](https://dev.to/truongpx396/building-golang-restful-api-with-gin-mongodb-482c)
+- [Why Is Everyone Unhappy With JavaScript? | State of Javascript 2024 Survey](https://dev.to/mikehtmlallthethings/why-is-everyone-unhappy-with-javascript-state-of-javascript-2024-survey-20g6)
 <!-- BLOG-POST-LIST:END -->
 
