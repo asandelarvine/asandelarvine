@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unique Symbols: How to Use Symbols for Type Safety](https://dev.to/zirkelc/unique-symbols-how-to-use-symbols-for-type-safety-52gb)
-- [➡️💡Guide, Innovate, Succeed: Becoming a Software Development Leader 🚀](https://dev.to/praveenrajamani/guide-innovate-succeed-becoming-a-software-development-leader-59f5)
-- [Vinny built CoverletterGPT to $500/month, a good read](https://dev.to/infomiho/vinny-built-coverlettergpt-to-500month-a-good-read-56gb)
-- [Serverless NBA Data Lake Application with API Gateway, AWS Lambda, Amazon S3, AWS Glue and Athena Using Terraform](https://dev.to/gbenga700/serverless-nba-data-lake-application-with-api-gateway-aws-lambda-amazon-s3-aws-glue-and-athena-i2l)
+- [Simple SQL Generator using AWS Bedrock](https://dev.to/buildandcodewithraman/simple-sql-generator-using-aws-bedrock-2cnd)
+- [Designing for developers means designing for LLMs too](https://dev.to/encore/designing-for-developers-means-designing-for-llms-too-ep8)
+- [2025: The Year of Decentralization – How Nostr Will Make You a Standout Developer](https://dev.to/jurjendevries/2025-the-year-of-decentralization-how-nostr-will-make-you-a-standout-developer-5f5l)
+- [Using SVGs on Canvas with Compose Multiplatform](https://dev.to/eevajonnapanula/using-svgs-on-canvas-with-compose-multiplatform-272p)
 <!-- BLOG-POST-LIST:END -->
 
