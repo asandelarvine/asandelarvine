@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple SQL Generator using AWS Bedrock](https://dev.to/buildandcodewithraman/simple-sql-generator-using-aws-bedrock-2cnd)
-- [Designing for developers means designing for LLMs too](https://dev.to/encore/designing-for-developers-means-designing-for-llms-too-ep8)
-- [2025: The Year of Decentralization – How Nostr Will Make You a Standout Developer](https://dev.to/jurjendevries/2025-the-year-of-decentralization-how-nostr-will-make-you-a-standout-developer-5f5l)
-- [Using SVGs on Canvas with Compose Multiplatform](https://dev.to/eevajonnapanula/using-svgs-on-canvas-with-compose-multiplatform-272p)
+- [The Frontier of Visual AI in Medical Imaging](https://dev.to/voxel51/the-frontier-of-visual-ai-in-medical-imaging-2kll)
+- [&quot;Boosting Multilingual LLMs: Tackling Noise for Better Performance&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-multilingual-llms-tackling-noise-for-better-performance-4c0a)
+- [7 Mistakes Developers Make When Learning a New Framework &lpar;and How to Avoid Them&rpar;](https://dev.to/tunde_brown_9aca573715fe5/7-mistakes-developers-make-when-learning-a-new-framework-and-how-to-avoid-them-1cg2)
+- [Planning for 2025](https://dev.to/k-charm/planning-for-2025-4ji9)
 <!-- BLOG-POST-LIST:END -->
 
