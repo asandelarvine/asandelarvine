@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3..2..1… AWS aterriza en México 🚀 🇲🇽](https://dev.to/bgalicia/321-aws-aterriza-en-mexico-22hl)
-- [Automating Limit Orders on Polygon with TypeScript, 0x, and Terraform](https://dev.to/radzion/automating-limit-orders-on-polygon-with-typescript-0x-and-terraform-24pp)
-- [深度探索Pop Max详尽问答指南](https://dev.to/popmaxcn/shen-du-tan-suo-pop-maxxiang-jin-wen-da-zhi-nan-gb9)
-- [The Future of Automated Testing: A New Horizon for Quality Assurance](https://dev.to/arun_pal_3ce740a137cf15ad/the-future-of-automated-testing-a-new-horizon-for-quality-assurance-1o6p)
+- [Welcome Thread - v310](https://dev.to/devteam/welcome-thread-v310-348i)
+- [Blockchain](https://dev.to/ranjithjupaka/blockchain-309n)
+- [HTML Elements](https://dev.to/kavya_655bd7b08c9f0e93601/html-elements-6lj)
+- [AngularFire Starter Template](https://dev.to/mbejda/angularfire-starter-template-4cgp)
 <!-- BLOG-POST-LIST:END -->
 
