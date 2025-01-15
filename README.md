@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PersianNameGenerator: A Python Package for Generating Random Persian Names](https://dev.to/md86mi86/introducing-persiannamegenerator-a-python-package-for-generating-random-persian-names-4b7p)
-- [The Basics of Data Science Unveiled](https://dev.to/cubanpants50/the-basics-of-data-science-unveiled-5acm)
-- [The Importance of Writing Meaningful Code and Documentation](https://dev.to/robinncode/the-importance-of-writing-meaningful-code-and-documentation-454a)
-- [Setup Shopify GraphQL Admin API Client in Hydrogen](https://dev.to/dvnrsn/setup-shopify-graphql-admin-api-client-in-hydrogen-22oj)
+- [Difference Between &lt;b&gt; and &lt;strong&gt; Tags in HTML](https://dev.to/wisdomudo/difference-between-and-tags-in-html-1fp6)
+- [Data structures](https://dev.to/__8d1b4f7/data-structures-4gkl)
+- [Hello everyone!!! :&rpar; ...and, what am I doing wrong?](https://dev.to/techniqueen/hello-everyone-and-what-am-i-doing-wrong-4and)
+- [The Way I Use Apple Notes is... Different](https://dev.to/litd/the-way-i-use-apple-notes-is-different-4jf)
 <!-- BLOG-POST-LIST:END -->
 
