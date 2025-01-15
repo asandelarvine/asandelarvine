@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is posible to manipulate the return value from useRefs?](https://dev.to/polartang/is-posible-to-manipulate-the-return-value-from-userefs-1h3j)
-- [Como criei um dashboard estratégico com Streamlit usando dados do Jira &lpar;sendo Product Owner&rpar;](https://dev.to/proesc/como-criei-um-dashboard-estrategico-com-streamlit-usando-dados-do-jira-sendo-product-owner-igj)
-- [Hello, this is my first time here. I hope you are all doing well.](https://dev.to/abobakrelgandy/hello-this-is-my-first-time-here-i-hope-you-are-all-doing-well-433i)
-- [My React Journey: Project](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-project-2b66)
+- [Introducing PersianNameGenerator: A Python Package for Generating Random Persian Names](https://dev.to/md86mi86/introducing-persiannamegenerator-a-python-package-for-generating-random-persian-names-4b7p)
+- [The Basics of Data Science Unveiled](https://dev.to/cubanpants50/the-basics-of-data-science-unveiled-5acm)
+- [The Importance of Writing Meaningful Code and Documentation](https://dev.to/robinncode/the-importance-of-writing-meaningful-code-and-documentation-454a)
+- [Setup Shopify GraphQL Admin API Client in Hydrogen](https://dev.to/dvnrsn/setup-shopify-graphql-admin-api-client-in-hydrogen-22oj)
 <!-- BLOG-POST-LIST:END -->
 
