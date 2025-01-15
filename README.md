@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Online Postman-Like Tools for API Testing and Development](https://dev.to/apilover/top-10-online-postman-like-tools-for-api-testing-and-development-502o)
-- [10 Must-Know Software Testing Interview Questions](https://dev.to/mansi_patil_ba50a09f10264/10-must-know-software-testing-interview-questions-3fci)
-- [5 Reasons Why Homework Should Be Banned?](https://dev.to/tarunfulera/5-reasons-why-homework-should-be-banned-1ke0)
-- [Debugging Authorization: How Cerbos Makes Troubleshooting Access Issues a Breeze](https://dev.to/techondiapers/debugging-authorization-how-cerbos-makes-troubleshooting-access-issues-a-breeze-1955)
+- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
+- [How to upload Markdown files to Devto from GitHub v1](https://dev.to/alexantartico/how-to-upload-markdown-files-to-devto-from-github-v1-2ok6)
+- [How to Choose the Right Shopify Theme for Your Business Needs](https://dev.to/angelinajasper/how-to-choose-the-right-shopify-theme-for-your-business-needs-72g)
+- [10 Splunk SQL Interview Questions &lpar;Updated 2025&rpar;](https://dev.to/markwayne/10-splunk-sql-interview-questions-updated-2025-g6j)
 <!-- BLOG-POST-LIST:END -->
 
