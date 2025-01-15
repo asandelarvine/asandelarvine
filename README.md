@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
-- [How to upload Markdown files to Devto from GitHub v1](https://dev.to/alexantartico/how-to-upload-markdown-files-to-devto-from-github-v1-2ok6)
-- [How to Choose the Right Shopify Theme for Your Business Needs](https://dev.to/angelinajasper/how-to-choose-the-right-shopify-theme-for-your-business-needs-72g)
-- [10 Splunk SQL Interview Questions &lpar;Updated 2025&rpar;](https://dev.to/markwayne/10-splunk-sql-interview-questions-updated-2025-g6j)
+- [Use Power Query SDK in Visual Studio Code for Power BI](https://dev.to/flnzba/use-power-query-sdk-in-visual-studio-code-for-power-bi-5hjc)
+- [The Transformative Power of Selfless Service: How Giving Back Shapes Us All](https://dev.to/nandhitha_0203040506/the-transformative-power-of-selfless-service-how-giving-back-shapes-us-all-27im)
+- [Dev Diaries: ShareIt](https://dev.to/dd8888/dev-diaries-shareit-3gi7)
+- [6 Top Professional AI Resume Builders Offering the Best Resume Writing Services in 2025](https://dev.to/nitinfab/6-top-professional-ai-resume-builders-offering-the-best-resume-writing-services-in-2025-4ok8)
 <!-- BLOG-POST-LIST:END -->
 
