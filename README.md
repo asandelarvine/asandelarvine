@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [uilding Thriving Communities: A Guide for Developers and Leaders](https://dev.to/shib_itsme/uilding-thriving-communities-a-guide-for-developers-and-leaders-e08)
-- [Video AI](https://dev.to/csakscreator/video-ai-dkc)
-- [The King Combination: Efficiently Completing Heterogeneous Data Integration with DolphinScheduler 3.1.* and SeaTunnel 2.3.*](https://dev.to/chen_debra_3060b21d12b1b0/the-king-combination-efficiently-completing-heterogeneous-data-integration-with-dolphinscheduler-2lp1)
-- [不同版本redis get 获取String类型的数据结构，拿到的值类型不同！](https://dev.to/dragon72463399/bu-tong-ban-ben-redis-get-huo-qu-stringlei-xing-de-shu-ju-jie-gou-na-dao-de-zhi-lei-xing-bu-tong--1cmo)
+- [How to Scrape Google Flights Data with Python](https://dev.to/datacollectionscraper/how-to-scrape-google-flights-data-with-python-3afm)
+- [🌟 A New Adventure Begins! 🛵🍕](https://dev.to/sahilkhatiwada_official/a-new-adventure-begins-1mgj)
+- [#131 — Use Association Table to Handle Interval Association](https://dev.to/judith677/131-use-association-table-to-handle-interval-association-2jg2)
+- [Using Direct Line botframework in a React Native Application to connect to Copilot Studio Agent](https://dev.to/vivekyadav200988/direct-line-usage-in-a-react-native-application-using-botframework-4lhh)
 <!-- BLOG-POST-LIST:END -->
 
