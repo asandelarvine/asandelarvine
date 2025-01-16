@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Workflows on how to be more efficient with your code](https://dev.to/efrenmarin/-of7)
-- [Aleo Blockchain: Privacy-Preserving dApps with Zero-Knowledge](https://dev.to/cryptogem123/aleo-blockchain-privacy-preserving-dapps-with-zero-knowledge-1iek)
-- [TS1105: A &#39;break&#39; statement can only be used within an enclosing iteration or switch statement](https://dev.to/turingvangisms/ts1105-a-break-statement-can-only-be-used-within-an-enclosing-iteration-or-switch-statement-19gf)
-- [Understanding Tailwind and Admin Tailwind](https://dev.to/ahmad_tibibi/understanding-tailwind-and-admin-tailwind-1nf5)
+- [API Rate Limiting in Node.js: Strategies and Best Practices](https://dev.to/hamzakhan/api-rate-limiting-in-nodejs-strategies-and-best-practices-3gef)
+- [Ineffective Life Goals Advisor](https://dev.to/aniruddhaadak/ineffective-life-goals-advisor-30f3)
+- [Introduction to Elasticsearch Database and Key Terminologies](https://dev.to/web_dev-usman/introduction-to-elasticsearch-database-and-key-terminologies-36oe)
+- [Get More Done with LangChain’s AI Email Assistant &lpar;EAIA&rpar;](https://dev.to/visdom_04_88f1c6e8a47fe74/get-more-done-with-langchains-ai-email-assistant-eaia-1cii)
 <!-- BLOG-POST-LIST:END -->
 
