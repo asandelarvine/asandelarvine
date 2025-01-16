@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Well, it finally happened—my first &lt;25 reads in 24 hours. 🎉 Lesson learned: not every post will be a hit, and that’s okay! 🚀 Writing is about growth, engagement, and experimenting. Thanks for being part of the journey—check it out @dansasser! #AIWorkflow](https://dev.to/dansasser/well-it-finally-happened-my-first-25-reads-in-24-hours-lesson-learned-not-every-post-will-be-1811)
+- [Resolvendo meu primeiro desafio no HackerRank](https://dev.to/jessilyneh/resolvendo-meu-primeiro-hackerrank-14b4)
+- [ReadOnePage - Spend more time reading and learning, and less time in social media](https://dev.to/schemetastic/readonepage-spend-more-time-reading-and-learning-and-less-time-in-social-media-14fj)
 - [What technologies do you recommend for developing an affiliate network marketing platform?](https://dev.to/samhernandezc24/what-technologies-do-you-recommend-for-developing-an-affiliate-network-marketing-platform-4c4o)
-- [Why You Hate Test Coverage](https://dev.to/liammyles/why-you-hate-test-coverage-2cg9)
-- [Building Secure and Scalable Fintech Applications: A Technical Architecture Deep Dive](https://dev.to/ojosolomon/building-secure-and-scalable-fintech-applications-a-technical-architecture-deep-dive-35in)
-- [Phase 4 Project](https://dev.to/victordelcarpio/phase-4-project-59hi)
 <!-- BLOG-POST-LIST:END -->
 
