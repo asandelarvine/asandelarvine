@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Work with State in Flutter](https://dev.to/shanu-kumawat/how-to-work-with-state-in-flutter-21l0)
-- [&lt;h1&gt;Unlocking Efficiency: A Deep Dive into Production Assimilation with SAP EWM - EWM130&lt;/h1&gt;](https://dev.to/locketdirt57/unlocking-efficiency-a-deep-dive-into-production-assimilation-with-sap-ewm-ewm130-60i)
-- [Unleashing Creativity with VIDU Studio AI: A Comprehensive Guide for Video Content Creators](https://dev.to/umeshgan/unleashing-creativity-with-vidu-studio-ai-a-comprehensive-guide-for-video-content-creators-gil)
-- [Technical Debt Is Killing Your Business –Here’s How to Fight Back](https://dev.to/iwooky/technical-debt-is-killing-your-business-heres-how-to-fight-back-fdl)
+- [&quot;Ctrl+Alt+Laugh: 2025 Tech Trends&quot;](https://dev.to/snehal_kothawade_sk/ctrlaltlaugh-2025-tech-trends-4h7h)
+- [🚀 Top React Libraries for Project Management Apps You Need to Know](https://dev.to/olga_tash/top-react-libraries-for-project-management-apps-you-need-to-know-5dg8)
+- [The Simplest Free Weather API Integration with Python](https://dev.to/b_thompson_2/the-simplest-free-weather-api-integration-with-python-3ceh)
+- [Top 50 Most Asked Java Questions in Technical Interviews.](https://dev.to/piyush_kumarsingh/top-50-most-asked-java-questions-in-technical-interviews-211e)
 <!-- BLOG-POST-LIST:END -->
 
