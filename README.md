@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving MySQL Port Conflicts: A Step-by-Step Guide](https://dev.to/saint_vandora/resolving-mysql-port-conflicts-a-step-by-step-guide-hgc)
-- [Blockchain and Slots: Why They’re a Perfect Match](https://dev.to/ram_fb361bc2f8f94e06772e2/blockchain-and-slots-why-theyre-a-perfect-match-93a)
-- [The Home Assistant companion app](https://dev.to/nfrankel/the-home-assistant-companion-app-40hj)
-- [From Circuit Boards to Code: How Being a Polyglot Web Developer &lpar;and an Electrical Engineer&rpar; Supercharged My Programming Game](https://dev.to/ryo_suwito/from-circuit-boards-to-code-how-being-a-polyglot-web-developer-and-an-electrical-engineer-511c)
+- [Mastering Web Workers: 7 Advanced Techniques for High-Performance JavaScript](https://dev.to/aaravjoshi/mastering-web-workers-7-advanced-techniques-for-high-performance-javascript-44k9)
+- [Using Laravel Dusk to download Paddle payout PDFs](https://dev.to/smitmartijn/using-laravel-dusk-to-download-paddle-payout-pdfs-2bim)
+- [Master REST API Design in 5 Minutes: A Beginner-Friendly Guide](https://dev.to/ebereplenty/master-rest-api-design-in-5-minutes-a-beginner-friendly-guide-30a0)
+- [Rust&#39;s Compile-Time Guarantees: Enhancing Software Reliability and Performance](https://dev.to/aaravjoshi/rusts-compile-time-guarantees-enhancing-software-reliability-and-performance-529p)
 <!-- BLOG-POST-LIST:END -->
 
