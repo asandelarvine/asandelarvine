@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.http Files: The Hidden Tool Every Developer Needs for API Testing](https://dev.to/apilover/http-files-the-hidden-tool-every-developer-needs-for-api-testing-5l8)
-- [5 Common Mistakes to Avoid When Using AI Design Tools](https://dev.to/technology-posts/5-common-mistakes-to-avoid-when-using-ai-design-tools-1bna)
-- [The Top 10 Things Every Developer Needs to Know About Professionalism](https://dev.to/respect17/the-top-10-things-every-developer-needs-to-know-about-professionalism-2ca8)
-- [The Role of Proxies for Bots](https://dev.to/swiftproxy_residential/the-role-of-proxies-for-bots-48if)
+- [Resolving MySQL Port Conflicts: A Step-by-Step Guide](https://dev.to/saint_vandora/resolving-mysql-port-conflicts-a-step-by-step-guide-hgc)
+- [Blockchain and Slots: Why They’re a Perfect Match](https://dev.to/ram_fb361bc2f8f94e06772e2/blockchain-and-slots-why-theyre-a-perfect-match-93a)
+- [The Home Assistant companion app](https://dev.to/nfrankel/the-home-assistant-companion-app-40hj)
+- [From Circuit Boards to Code: How Being a Polyglot Web Developer &lpar;and an Electrical Engineer&rpar; Supercharged My Programming Game](https://dev.to/ryo_suwito/from-circuit-boards-to-code-how-being-a-polyglot-web-developer-and-an-electrical-engineer-511c)
 <!-- BLOG-POST-LIST:END -->
 
