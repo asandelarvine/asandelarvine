@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices: Common Misconceptions and Practical Realities](https://dev.to/fedorb/microservices-common-misconceptions-and-practical-realities-kja)
-- [Sherlock Holmes: The Mystery of the Erratic Logstash](https://dev.to/programmerraja/sherlock-holmes-and-the-mystery-of-the-erratic-logstash-51jg)
-- [Understanding *args and **kwargs in Python](https://dev.to/samita_khanduri_/understanding-args-and-kwargs-in-python-3bkb)
-- [How to use Ably LiveSync’s MongoDB Connector for realtime and offline data sync](https://dev.to/ably/how-to-use-ably-livesyncs-mongodb-connector-for-realtime-and-offline-data-sync-4d5o)
+- [Meet AgentCare - Your Personalized AI Health Advisor, Anytime, Anywhere](https://dev.to/prasanthj/revolutionizing-healthcare-intelligent-health-assistant-agent-35om)
+- [💥2030 Apocalypse: AI Boom vs Energy Crisis💥 Head over to my page here @dav or over at my blog @dansasser #AI #ArtificialIntelligence #creativewriting #blogging](https://dev.to/dansasser/2030-apocalypse-ai-boom-vs-energy-crisis-head-over-to-my-page-here-dav-or-over-at-my-blog-51n5)
+- [Unlocking the Power of AWS Databases: A Complete Guide for Developers](https://dev.to/nikhil_nareddula_/unlocking-the-power-of-aws-databases-a-complete-guide-for-developers-h44)
+- [PyTorch Day 03: Tensor Operations](https://dev.to/ahammadmejbah/pytorch-day-03-tensor-operations-2efc)
 <!-- BLOG-POST-LIST:END -->
 
