@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Rate Limiting in Node.js: Strategies and Best Practices](https://dev.to/hamzakhan/api-rate-limiting-in-nodejs-strategies-and-best-practices-3gef)
-- [Ineffective Life Goals Advisor](https://dev.to/aniruddhaadak/ineffective-life-goals-advisor-30f3)
-- [Introduction to Elasticsearch Database and Key Terminologies](https://dev.to/web_dev-usman/introduction-to-elasticsearch-database-and-key-terminologies-36oe)
-- [Get More Done with LangChain’s AI Email Assistant &lpar;EAIA&rpar;](https://dev.to/visdom_04_88f1c6e8a47fe74/get-more-done-with-langchains-ai-email-assistant-eaia-1cii)
+- [中文音频翻译成英文语音的最佳选择：TransMonkey](https://dev.to/fagac_gvwc_0ebeec7ffe710a/zhong-wen-yin-pin-fan-yi-cheng-ying-wen-yu-yin-de-zui-jia-xuan-ze-transmonkey-464j)
+- [®️Reddit Scraper Pro 👑](https://dev.to/aniruddhadak/rreddit-scraper-pro-kc0)
+- [Educating Machines.](https://dev.to/williammuko/educating-machines-3ck8)
+- [Rails Self-Join Tables - Parent-Child Magic](https://dev.to/sulmanweb/rails-self-join-tables-parent-child-magic-5abg)
 <!-- BLOG-POST-LIST:END -->
 
