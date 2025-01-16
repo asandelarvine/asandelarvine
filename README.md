@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Benefits of Zero Trust Security Architecture: Enhancing Your Cybersecurity Strategy](https://dev.to/adityabhuyan/top-benefits-of-zero-trust-security-architecture-enhancing-your-cybersecurity-strategy-2gi8)
-- [AWS Certified AI Practitioner受験体験記](https://dev.to/aws-builders/aws-certified-ai-practitionershou-yan-ti-yan-ji-3084)
-- [Nanuq!](https://dev.to/waelouf/nanuq-470l)
-- [Sharing Runes in Svelte 5 with the Rune Class](https://dev.to/jdgamble555/sharing-runes-in-svelte-5-the-rune-class-505e)
+- [Workflows on how to be more efficient with your code](https://dev.to/efrenmarin/-of7)
+- [Aleo Blockchain: Privacy-Preserving dApps with Zero-Knowledge](https://dev.to/cryptogem123/aleo-blockchain-privacy-preserving-dapps-with-zero-knowledge-1iek)
+- [TS1105: A &#39;break&#39; statement can only be used within an enclosing iteration or switch statement](https://dev.to/turingvangisms/ts1105-a-break-statement-can-only-be-used-within-an-enclosing-iteration-or-switch-statement-19gf)
+- [Understanding Tailwind and Admin Tailwind](https://dev.to/ahmad_tibibi/understanding-tailwind-and-admin-tailwind-1nf5)
 <!-- BLOG-POST-LIST:END -->
 
