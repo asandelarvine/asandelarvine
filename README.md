@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [中文音频翻译成英文语音的最佳选择：TransMonkey](https://dev.to/fagac_gvwc_0ebeec7ffe710a/zhong-wen-yin-pin-fan-yi-cheng-ying-wen-yu-yin-de-zui-jia-xuan-ze-transmonkey-464j)
-- [®️Reddit Scraper Pro 👑](https://dev.to/aniruddhadak/rreddit-scraper-pro-kc0)
-- [Educating Machines.](https://dev.to/williammuko/educating-machines-3ck8)
-- [Rails Self-Join Tables - Parent-Child Magic](https://dev.to/sulmanweb/rails-self-join-tables-parent-child-magic-5abg)
+- [Implementing passwordless sign-in flow with email in Cognito](https://dev.to/aws-builders/implementing-passwordless-sign-in-flow-with-email-in-cognito-109g)
+- [Optimizing Inventory Management Using POS Data](https://dev.to/hikepos/optimizing-inventory-management-using-pos-data-2of5)
+- [Cilium: Everything you need to know for CKS](https://dev.to/ptuladhar3/cilium-everything-you-need-to-know-for-cks-31pa)
+- [The Evolution of AI: How Machines Are Shaping Our Future](https://dev.to/laxmi_bhati_c3029c819a8ec/the-evolution-of-ai-how-machines-are-shaping-our-future-16ch)
 <!-- BLOG-POST-LIST:END -->
 
