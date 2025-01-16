@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Back a Lost Git Branch](https://dev.to/documendous/how-to-get-back-a-lost-git-branch-18ml)
-- [Docker Scout: Your Container Security Companion - A Developer&#39;s Guide](https://dev.to/docker/docker-scout-your-container-security-companion-a-developers-guide-4777)
-- [Compiling 2025: Building a Roadmap for Career Growth in Blockchain Development](https://dev.to/block_experts_766a3a21915637/compiling-2025-building-a-roadmap-for-career-growth-in-blockchain-development-4dab)
-- [Quick Start: Elasticsearch + OpenTelemetry Collector](https://dev.to/ev_vasilev/quick-start-elasticsearch-opentelemetry-collector-d65)
+- [Microservices: Common Misconceptions and Practical Realities](https://dev.to/fedorb/microservices-common-misconceptions-and-practical-realities-kja)
+- [Sherlock Holmes: The Mystery of the Erratic Logstash](https://dev.to/programmerraja/sherlock-holmes-and-the-mystery-of-the-erratic-logstash-51jg)
+- [Understanding *args and **kwargs in Python](https://dev.to/samita_khanduri_/understanding-args-and-kwargs-in-python-3bkb)
+- [How to use Ably LiveSync’s MongoDB Connector for realtime and offline data sync](https://dev.to/ably/how-to-use-ably-livesyncs-mongodb-connector-for-realtime-and-offline-data-sync-4d5o)
 <!-- BLOG-POST-LIST:END -->
 
