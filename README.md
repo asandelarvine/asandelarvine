@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Using Table Hints in SQL Server](https://dev.to/stevsharp/understanding-and-using-table-hints-in-sql-server-4iia)
-- [How to Structure API Documentation for Maximum Usability](https://dev.to/opman129/how-to-structure-api-documentation-for-maximum-usability-7if)
-- [🚫 Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-1nmd)
-- [🚫Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-2bd4)
+- [How to Work with State in Flutter](https://dev.to/shanu-kumawat/how-to-work-with-state-in-flutter-21l0)
+- [&lt;h1&gt;Unlocking Efficiency: A Deep Dive into Production Assimilation with SAP EWM - EWM130&lt;/h1&gt;](https://dev.to/locketdirt57/unlocking-efficiency-a-deep-dive-into-production-assimilation-with-sap-ewm-ewm130-60i)
+- [Unleashing Creativity with VIDU Studio AI: A Comprehensive Guide for Video Content Creators](https://dev.to/umeshgan/unleashing-creativity-with-vidu-studio-ai-a-comprehensive-guide-for-video-content-creators-gil)
+- [Technical Debt Is Killing Your Business –Here’s How to Fight Back](https://dev.to/iwooky/technical-debt-is-killing-your-business-heres-how-to-fight-back-fdl)
 <!-- BLOG-POST-LIST:END -->
 
