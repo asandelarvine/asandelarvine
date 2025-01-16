@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Well, it finally happened—my first &lt;25 reads in 24 hours. 🎉 Lesson learned: not every post will be a hit, and that’s okay! 🚀 Writing is about growth, engagement, and experimenting. Thanks for being part of the journey—check it out @dansasser! #AIWorkflow](https://dev.to/dansasser/well-it-finally-happened-my-first-25-reads-in-24-hours-lesson-learned-not-every-post-will-be-1811)
-- [Resolvendo meu primeiro desafio no HackerRank](https://dev.to/jessilyneh/resolvendo-meu-primeiro-hackerrank-14b4)
-- [ReadOnePage - Spend more time reading and learning, and less time in social media](https://dev.to/schemetastic/readonepage-spend-more-time-reading-and-learning-and-less-time-in-social-media-14fj)
-- [What technologies do you recommend for developing an affiliate network marketing platform?](https://dev.to/samhernandezc24/what-technologies-do-you-recommend-for-developing-an-affiliate-network-marketing-platform-4c4o)
+- [Top Benefits of Zero Trust Security Architecture: Enhancing Your Cybersecurity Strategy](https://dev.to/adityabhuyan/top-benefits-of-zero-trust-security-architecture-enhancing-your-cybersecurity-strategy-2gi8)
+- [AWS Certified AI Practitioner受験体験記](https://dev.to/aws-builders/aws-certified-ai-practitionershou-yan-ti-yan-ji-3084)
+- [Nanuq!](https://dev.to/waelouf/nanuq-470l)
+- [Sharing Runes in Svelte 5 with the Rune Class](https://dev.to/jdgamble555/sharing-runes-in-svelte-5-the-rune-class-505e)
 <!-- BLOG-POST-LIST:END -->
 
