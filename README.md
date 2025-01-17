@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Hilarious Coach](https://dev.to/auramuch/most-hilarious-coach-2b7l)
-- [Sql basic command](https://dev.to/sachin841/sql-basic-command-42jj)
-- [Top 10 Free Proxies for Web Scraping: 2025](https://dev.to/datacollectionscraper/top-10-free-proxies-for-web-scraping-2025-7og)
-- [The Role of Augmented Reality in Manufacturing: Applications and Advantages](https://dev.to/ram_fb361bc2f8f94e06772e2/the-role-of-augmented-reality-in-manufacturing-applications-and-advantages-3m5e)
+- [🔰Git e Github: Hacktoberfest e Conclusão](https://dev.to/neiesc/git-e-github-hacktoberfest-e-conclusao-hk9)
+- [C++ 3rd Code &lpar; using cin.get alternate system&lpar;&quot;pause&quot;&rpar;](https://dev.to/md-salah/c-3rd-code-using-cinget-alternate-systempause-1h17)
+- [Streamline Your Batch Jobs: The Power of Cortecs AI Inference 🤖](https://dev.to/cortecs/streamline-your-batch-jobs-the-power-of-cortecs-ai-inference-2jjl)
+- [Common Mistakes to Avoid While Relaunching Your Website](https://dev.to/topdevelopersco/common-mistakes-to-avoid-while-relaunching-your-website-399h)
 <!-- BLOG-POST-LIST:END -->
 
