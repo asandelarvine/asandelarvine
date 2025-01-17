@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Kafka Topic Creation and Deletion, Using GitHub Actions and JavaScript](https://dev.to/pmbanugo/how-to-automate-kafka-topic-creation-and-deletion-using-github-actions-and-javascript-p9n)
-- [Moving flask app to production.](https://dev.to/eddiegulay/moving-flask-app-to-production-41b6)
-- [Deploying Flask App in Digital Ocean Droplet](https://dev.to/eddiegulay/deploying-flask-app-in-digital-ocean-droplet-cep)
-- [string.indexOf&lpar;&rpar; under the hood](https://dev.to/aziz999/stringindexof-under-the-hood-2699)
+- [Umbraco: Adding custom query strings for GetCropUrl&lpar;&rpar;](https://dev.to/richard_ockerby_62d513a3f/umbraco-adding-custom-query-strings-for-getcropurl-459f)
+- [Building an AWS Gamified Learning Platform with Amazon Q and Gemini: An AI-Powered Journey &lpar;Public Repo&rpar;](https://dev.to/sam_ben_786ddbe69e5992835/building-an-aws-gamified-learning-platform-with-amazon-q-and-gemini-an-ai-powered-journey-public-379h)
+- [SquidGame Bot: A Unique Experience Inspired by the Iconic Series!](https://dev.to/squidgamebot/squidgame-bot-a-unique-experience-inspired-by-the-iconic-series-4il9)
+- [The Impact of AI on Software Testing: Revolutionizing Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/the-impact-of-ai-on-software-testing-revolutionizing-quality-assurance-34lo)
 <!-- BLOG-POST-LIST:END -->
 
