@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔰Git e Github: Hacktoberfest e Conclusão](https://dev.to/neiesc/git-e-github-hacktoberfest-e-conclusao-hk9)
-- [C++ 3rd Code &lpar; using cin.get alternate system&lpar;&quot;pause&quot;&rpar;](https://dev.to/md-salah/c-3rd-code-using-cinget-alternate-systempause-1h17)
-- [Streamline Your Batch Jobs: The Power of Cortecs AI Inference 🤖](https://dev.to/cortecs/streamline-your-batch-jobs-the-power-of-cortecs-ai-inference-2jjl)
-- [Common Mistakes to Avoid While Relaunching Your Website](https://dev.to/topdevelopersco/common-mistakes-to-avoid-while-relaunching-your-website-399h)
+- [Enhancing Security with App Signature Verification](https://dev.to/helloquash/enhancing-security-with-app-signature-verification-1hi4)
+- [Main Advantage Of Hoisting In JavaScript?](https://dev.to/prabal_sharma_55f155f14be/main-advantage-of-hoisting-in-javascript-413f)
+- [Festive Sales Made Fun with WooCommerce Product Designer](https://dev.to/alan_joe_b81bdc8e7ce4b163/festive-sales-made-fun-with-woocommerce-product-designer-28m5)
+- [Building a Wishlist App: My Journey with Room Database, DAO, and Entity Integration](https://dev.to/himagaur2708/building-a-wishlist-app-my-journey-with-room-database-dao-and-entity-integration-2gjo)
 <!-- BLOG-POST-LIST:END -->
 
