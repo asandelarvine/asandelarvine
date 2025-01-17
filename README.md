@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save Your TikTok Videos Before They’re Gone: A Simple Tool to Backup Your Content](https://dev.to/pikadoramon/how-to-save-your-tiktok-videos-before-theyre-gone-a-simple-tool-to-backup-your-content-4d6g)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2eei)
-- [NVIDIA Introduces NIM Microservices to Enhance AI Application Safety and Accuracy](https://dev.to/aihrudu/nvidia-introduces-nim-microservices-to-enhance-ai-application-safety-and-accuracy-591a)
-- [Helyi felhatalmazás: Hogyan energizálja a tokenizált napenergia a közösségeket a SunMoney Solar iparági vezetői által](https://dev.to/sunmoney_solar_e3196a3bdd/helyi-felhatalmazas-hogyan-energizalja-a-tokenizalt-napenergia-a-kozossegeket-a-sunmoney-solar-2333)
+- [CSS3 Animations: The Complete Guide with Examples](https://dev.to/chardnoise3/css3-animations-the-complete-guide-with-examples-587f)
+- [The Rise of AI Sales Agents: Revolutionizing the Sales Landscape](https://dev.to/blogsx/the-rise-of-ai-sales-agents-revolutionizing-the-sales-landscape-i3m)
+- [Data Visualization Best Practices for Non-Technical Users](https://dev.to/raquelmathew/data-visualization-best-practices-for-non-technical-users-1dh1)
+- [👩‍💻 When VS Code Becomes Your Side Chick: Shortcuts You’ll Actually Use! 🔥](https://dev.to/sudo_091/when-vs-code-becomes-your-side-chick-shortcuts-youll-actually-use-4m4d)
 <!-- BLOG-POST-LIST:END -->
 
