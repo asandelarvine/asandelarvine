@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Security with App Signature Verification](https://dev.to/helloquash/enhancing-security-with-app-signature-verification-1hi4)
-- [Main Advantage Of Hoisting In JavaScript?](https://dev.to/prabal_sharma_55f155f14be/main-advantage-of-hoisting-in-javascript-413f)
-- [Festive Sales Made Fun with WooCommerce Product Designer](https://dev.to/alan_joe_b81bdc8e7ce4b163/festive-sales-made-fun-with-woocommerce-product-designer-28m5)
-- [Building a Wishlist App: My Journey with Room Database, DAO, and Entity Integration](https://dev.to/himagaur2708/building-a-wishlist-app-my-journey-with-room-database-dao-and-entity-integration-2gjo)
+- [Mastering Multi-Account Management: Step-by-Step Guide to Setting Up AWS Organizations with SSO](https://dev.to/aws-builders/mastering-multi-account-management-step-by-step-guide-to-setting-up-aws-organizations-with-sso-4690)
+- [Python](https://dev.to/julienpalleau/python-1bpi)
+- [Leetcode — 3146. Permutation Difference between Two Strings](https://dev.to/bendlmp/leetcode-3146-permutation-difference-between-two-strings-3b28)
+- [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
 <!-- BLOG-POST-LIST:END -->
 
