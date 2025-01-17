@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays In Java](https://dev.to/devmercy/arrays-in-java-3f3l)
-- [Implementing blue-green deployment with Azure App Service deployment slots](https://dev.to/devsonclouds/implementing-blue-green-deployment-with-azure-app-service-deployment-slots-2658)
-- [Locking Mechanisms in Relational Database Management Systems &lpar;RDBMS&rpar;](https://dev.to/erjun_chen_9674afdc95380d/locking-mechanisms-in-relational-database-management-systems-rdbms-2i7b)
-- [The Four Layers of Internet Computer Protocol](https://dev.to/therustfanatic/the-four-layers-of-internet-computer-protocol-5dp)
+- [Snort](https://dev.to/aj_0/snort-nd2)
+- [Node Congress](https://dev.to/gitnationorg/node-congress-171i)
+- [Using Anthropic&#39;s Claude 3.5 Sonnet for Generating Reports](https://dev.to/pilar/using-anthropics-claude-35-sonnet-for-generating-reports-4icp)
+- [Mastering API Documentation: Effective Requirement Elicitation for Basic &amp; Advanced Query Parameters](https://dev.to/snehal_joglekar/mastering-api-documentation-effective-requirement-elicitation-for-basic-advanced-query-parameters-4df2)
 <!-- BLOG-POST-LIST:END -->
 
