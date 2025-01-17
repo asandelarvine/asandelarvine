@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS3 Animations: The Complete Guide with Examples](https://dev.to/chardnoise3/css3-animations-the-complete-guide-with-examples-587f)
-- [The Rise of AI Sales Agents: Revolutionizing the Sales Landscape](https://dev.to/blogsx/the-rise-of-ai-sales-agents-revolutionizing-the-sales-landscape-i3m)
-- [Data Visualization Best Practices for Non-Technical Users](https://dev.to/raquelmathew/data-visualization-best-practices-for-non-technical-users-1dh1)
-- [👩‍💻 When VS Code Becomes Your Side Chick: Shortcuts You’ll Actually Use! 🔥](https://dev.to/sudo_091/when-vs-code-becomes-your-side-chick-shortcuts-youll-actually-use-4m4d)
+- [Introduction to AWS Services](https://dev.to/godofgeeks/introduction-to-aws-services-20dm)
+- [🎙️I built &quot;GitPodcast&quot; to help devs understand 💡any GitHub repo easily](https://dev.to/mkagenius/i-built-gitpodcast-to-help-devs-understand-any-github-repo-easily-1pkn)
+- [Generating Random User Agents in Rust: Introducing `rand_agents` Library](https://dev.to/trixsec/generating-random-user-agents-in-rust-introducing-randagents-library-4c82)
+- [Getting Started With Kubernetes: A beginner&#39;s guide](https://dev.to/onlyfave/getting-started-with-kubernetes-a-beginners-guide-jhc)
 <!-- BLOG-POST-LIST:END -->
 
