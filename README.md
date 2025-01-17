@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dev’s Guide to Surviving Standups](https://dev.to/hotfixhero/the-devs-guide-to-surviving-standups-11kk)
-- [Refactoring Horror: Turning Spaghetti Code into Gourmet Code](https://dev.to/hotfixhero/refactoring-horror-turning-spaghetti-code-into-gourmet-code-387k)
-- [Introducing an Open-Source MySQL Memory Calculator](https://dev.to/drupaladmin/introducing-an-open-source-mysql-memory-calculator-1ca5)
-- [My Code Chronicles #1: Optimizing Images in Next.js with a Custom Component](https://dev.to/nathlowe/my-code-chronicles-1-optimizing-images-in-nextjs-with-a-custom-component-3973)
+- [Arrays In Java](https://dev.to/devmercy/arrays-in-java-3f3l)
+- [Implementing blue-green deployment with Azure App Service deployment slots](https://dev.to/devsonclouds/implementing-blue-green-deployment-with-azure-app-service-deployment-slots-2658)
+- [Locking Mechanisms in Relational Database Management Systems &lpar;RDBMS&rpar;](https://dev.to/erjun_chen_9674afdc95380d/locking-mechanisms-in-relational-database-management-systems-rdbms-2i7b)
+- [The Four Layers of Internet Computer Protocol](https://dev.to/therustfanatic/the-four-layers-of-internet-computer-protocol-5dp)
 <!-- BLOG-POST-LIST:END -->
 
