@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IT Job Market in 2025: Trends, Roles, and Opportunities](https://dev.to/empiree/it-job-market-in-2025-trends-roles-and-opportunities-bf)
-- [Top UI/UX Design Innovations to Watch](https://dev.to/ram_fb361bc2f8f94e06772e2/top-uiux-design-innovations-to-watch-55ki)
-- [This Week In React #217: View Transitions, RSC, Next.js, Compiler, EAS Hosting, Shopify, Skia, OTP, Gesture Handler, Radon...](https://dev.to/sebastienlorber/this-week-in-react-217-view-transitions-rsc-nextjs-compiler-eas-hosting-shopify-skia-otp-2hpf)
-- [The Future of Front-End Development](https://dev.to/aneeqakhan/the-future-of-front-end-development-3gea)
+- [The Best Tips To Improve Productivity On Hubstaff](https://dev.to/dumebii/the-best-tips-to-improve-productivity-on-hubstaff-3467)
+- [Maximizing Efficiency: Top ChatGPT Prompts for DevOps Engineers](https://dev.to/s3cloudhub/maximizing-efficiency-top-chatgpt-prompts-for-devops-engineers-56l2)
+- [Custom Software Development: A Strategic Solution for Unique Industry Demands](https://dev.to/evelynwyatt/custom-software-development-a-strategic-solution-for-unique-industry-demands-17b2)
+- [💡 Did you know closures in JavaScript can supercharge your code?](https://dev.to/muhayminbinmehmood/understanding-closures-in-javascript-4iap)
 <!-- BLOG-POST-LIST:END -->
 
