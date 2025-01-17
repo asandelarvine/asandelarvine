@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/bellalak/-58oo)
-- [2683. Neighboring Bitwise XOR](https://dev.to/mdarifulhaque/2683-neighboring-bitwise-xor-jeg)
-- [Working with AddrPort in net/netip: Complete Guide 2/7](https://dev.to/rezmoss/working-with-addrport-in-netnetip-complete-guide-1dah)
-- [Async Tasks in Cloudflare Workers – Part 2: Decomposing tasks into multiple Workers](https://dev.to/fiberplane/async-tasks-in-cloudflare-workers-part-2-decomposing-tasks-into-multiple-workers-1cpi)
+- [😎 Simple Steps to Take Control of Your Money](https://dev.to/0x5a_live/simple-steps-to-take-control-of-your-money-jlh)
+- [Top Developer Forums &amp; Platforms](https://dev.to/cryptosandy/top-developer-forums-platforms-3ddi)
+- [Understanding Bubble Sort Algorithm &lpar;with Examples in Java&rpar;](https://dev.to/chinonsoike/understanding-bubble-sort-algorithm-with-examples-in-java-3gae)
+- [Our Amazing APP for most Powerful Vision Model CogVLM 2 now works amazing on Windows](https://dev.to/furkangozukara/our-amazing-app-for-most-powerful-vision-model-cogvlm-2-now-works-amazing-on-windows-3bn2)
 <!-- BLOG-POST-LIST:END -->
 
