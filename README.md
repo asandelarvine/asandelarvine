@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Snort](https://dev.to/aj_0/snort-nd2)
-- [Node Congress](https://dev.to/gitnationorg/node-congress-171i)
-- [Using Anthropic&#39;s Claude 3.5 Sonnet for Generating Reports](https://dev.to/pilar/using-anthropics-claude-35-sonnet-for-generating-reports-4icp)
-- [Mastering API Documentation: Effective Requirement Elicitation for Basic &amp; Advanced Query Parameters](https://dev.to/snehal_joglekar/mastering-api-documentation-effective-requirement-elicitation-for-basic-advanced-query-parameters-4df2)
+- [Building a Weather Dashboard using S3, Python and OpenWeather API](https://dev.to/ameh_mathias/building-a-weather-dashboard-using-s3-python-and-openweather-api-3nlm)
+- [AWS CAF Explained: The Framework Behind Successful Cloud Adoptions](https://dev.to/franciscojeg78/have-you-ever-heard-of-the-aws-cloud-adoption-framework-caf-1d9n)
+- [SLIDESHOW Auto Slider](https://dev.to/fscss-ttr/slideshow-auto-slider-4lgd)
+- [UX Writing Challenge: Day 12](https://dev.to/jds64/ux-writing-challenge-day-12-2ab)
 <!-- BLOG-POST-LIST:END -->
 
