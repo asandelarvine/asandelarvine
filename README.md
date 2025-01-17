@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Multi-Account Management: Step-by-Step Guide to Setting Up AWS Organizations with SSO](https://dev.to/aws-builders/mastering-multi-account-management-step-by-step-guide-to-setting-up-aws-organizations-with-sso-4690)
-- [Python](https://dev.to/julienpalleau/python-1bpi)
-- [Leetcode — 3146. Permutation Difference between Two Strings](https://dev.to/bendlmp/leetcode-3146-permutation-difference-between-two-strings-3b28)
-- [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
+- [[Boost]](https://dev.to/bellalak/-58oo)
+- [2683. Neighboring Bitwise XOR](https://dev.to/mdarifulhaque/2683-neighboring-bitwise-xor-jeg)
+- [Working with AddrPort in net/netip: Complete Guide 2/7](https://dev.to/rezmoss/working-with-addrport-in-netnetip-complete-guide-1dah)
+- [Async Tasks in Cloudflare Workers – Part 2: Decomposing tasks into multiple Workers](https://dev.to/fiberplane/async-tasks-in-cloudflare-workers-part-2-decomposing-tasks-into-multiple-workers-1cpi)
 <!-- BLOG-POST-LIST:END -->
 
