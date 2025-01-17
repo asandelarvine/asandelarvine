@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to AWS Services](https://dev.to/godofgeeks/introduction-to-aws-services-20dm)
-- [🎙️I built &quot;GitPodcast&quot; to help devs understand 💡any GitHub repo easily](https://dev.to/mkagenius/i-built-gitpodcast-to-help-devs-understand-any-github-repo-easily-1pkn)
-- [Generating Random User Agents in Rust: Introducing `rand_agents` Library](https://dev.to/trixsec/generating-random-user-agents-in-rust-introducing-randagents-library-4c82)
-- [Getting Started With Kubernetes: A beginner&#39;s guide](https://dev.to/onlyfave/getting-started-with-kubernetes-a-beginners-guide-jhc)
+- [&quot;Master Debugging: How Simulated Tools Transform Computer Science Education&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/master-debugging-how-simulated-tools-transform-computer-science-education-366n)
+- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-23i1)
+- [Embracing the Low-Code Era: A Revolutionary Shift from Traditional Coding to Low-Code Platforms.](https://dev.to/suhaassmh/the-low-code-era-4mo0)
+- [Vue.js or Nuxt.js?](https://dev.to/freshtech/vuejs-or-nuxtjs-5fec)
 <!-- BLOG-POST-LIST:END -->
 
