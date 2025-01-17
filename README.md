@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Top 25+ Must-Read AI Related Articles for Everyone.](https://dev.to/dev-resources/top-25-must-read-ai-related-articles-for-everyone-3bif)
-- [From Rookie to AWS Enthusiast: How I Tackled S3, IAM, and a ₹5000 Surprise](https://dev.to/falconxfied/from-rookie-to-aws-enthusiast-how-i-tackled-s3-iam-and-a-5000-surprise-44fm)
-- [DJANGO MODEL](https://dev.to/george_ngiye_b8648fa370bb/django-model-2kki)
-- [Streamline Your Background Tasks with the Task Repetitor Library](https://dev.to/fermantttnnn/streamline-your-background-tasks-with-the-task-repetitor-library-2fie)
+- [The Dev’s Guide to Surviving Standups](https://dev.to/hotfixhero/the-devs-guide-to-surviving-standups-11kk)
+- [Refactoring Horror: Turning Spaghetti Code into Gourmet Code](https://dev.to/hotfixhero/refactoring-horror-turning-spaghetti-code-into-gourmet-code-387k)
+- [Introducing an Open-Source MySQL Memory Calculator](https://dev.to/drupaladmin/introducing-an-open-source-mysql-memory-calculator-1ca5)
+- [My Code Chronicles #1: Optimizing Images in Next.js with a Custom Component](https://dev.to/nathlowe/my-code-chronicles-1-optimizing-images-in-nextjs-with-a-custom-component-3973)
 <!-- BLOG-POST-LIST:END -->
 
