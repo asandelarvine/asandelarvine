@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Umbraco: Adding custom query strings for GetCropUrl&lpar;&rpar;](https://dev.to/richard_ockerby_62d513a3f/umbraco-adding-custom-query-strings-for-getcropurl-459f)
-- [Building an AWS Gamified Learning Platform with Amazon Q and Gemini: An AI-Powered Journey &lpar;Public Repo&rpar;](https://dev.to/sam_ben_786ddbe69e5992835/building-an-aws-gamified-learning-platform-with-amazon-q-and-gemini-an-ai-powered-journey-public-379h)
-- [SquidGame Bot: A Unique Experience Inspired by the Iconic Series!](https://dev.to/squidgamebot/squidgame-bot-a-unique-experience-inspired-by-the-iconic-series-4il9)
-- [The Impact of AI on Software Testing: Revolutionizing Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/the-impact-of-ai-on-software-testing-revolutionizing-quality-assurance-34lo)
+- [ElastiCache Serverless: L2 CDK Construct Released in open-constructs](https://dev.to/aws-builders/elasticache-serverless-l2-cdk-construct-released-in-open-constructs-fpe)
+- [Special Edition - This Month in Azure Static Web Apps | November and December 2024](https://dev.to/azure/special-edition-this-month-in-azure-static-web-apps-november-and-december-2024-2h41)
+- [The Allure of the Internet Computer Protocol &lpar;ICP&rpar;: A Deep Dive](https://dev.to/uratmangun/1st-wave-icp-the-allure-of-the-internet-computer-protocol-icp-a-deep-dive-5bjm)
+- [Proxy IP efficiently helps crawl millions of data](https://dev.to/98ip/proxy-ip-efficiently-helps-crawl-millions-of-data-5ea4)
 <!-- BLOG-POST-LIST:END -->
 
