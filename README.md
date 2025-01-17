@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Process Synchronization and Scheduling in Operating Systems](https://dev.to/arjun98k/process-synchronization-and-scheduling-in-operating-systems-1hcp)
-- [Rails Designer v1.11: Rails Icons now a default](https://dev.to/railsdesigner/rails-designer-v111-rails-icons-now-a-default-3h21)
-- [Lift and Shift vs Replatforming](https://dev.to/enna/lift-and-shift-vs-replatforming-5d07)
-- [What the H*ck is Terraform: An Introduction](https://dev.to/brandondamue/what-the-hck-is-terraform-an-introduction-2058)
+- [🚀 Top 25+ Must-Read AI Related Articles for Everyone.](https://dev.to/dev-resources/top-25-must-read-ai-related-articles-for-everyone-3bif)
+- [From Rookie to AWS Enthusiast: How I Tackled S3, IAM, and a ₹5000 Surprise](https://dev.to/falconxfied/from-rookie-to-aws-enthusiast-how-i-tackled-s3-iam-and-a-5000-surprise-44fm)
+- [DJANGO MODEL](https://dev.to/george_ngiye_b8648fa370bb/django-model-2kki)
+- [Streamline Your Background Tasks with the Task Repetitor Library](https://dev.to/fermantttnnn/streamline-your-background-tasks-with-the-task-repetitor-library-2fie)
 <!-- BLOG-POST-LIST:END -->
 
