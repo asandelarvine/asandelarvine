@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Tips To Improve Productivity On Hubstaff](https://dev.to/dumebii/the-best-tips-to-improve-productivity-on-hubstaff-3467)
-- [Maximizing Efficiency: Top ChatGPT Prompts for DevOps Engineers](https://dev.to/s3cloudhub/maximizing-efficiency-top-chatgpt-prompts-for-devops-engineers-56l2)
-- [Custom Software Development: A Strategic Solution for Unique Industry Demands](https://dev.to/evelynwyatt/custom-software-development-a-strategic-solution-for-unique-industry-demands-17b2)
-- [💡 Did you know closures in JavaScript can supercharge your code?](https://dev.to/muhayminbinmehmood/understanding-closures-in-javascript-4iap)
+- [Most Hilarious Coach](https://dev.to/auramuch/most-hilarious-coach-2b7l)
+- [Sql basic command](https://dev.to/sachin841/sql-basic-command-42jj)
+- [Top 10 Free Proxies for Web Scraping: 2025](https://dev.to/datacollectionscraper/top-10-free-proxies-for-web-scraping-2025-7og)
+- [The Role of Augmented Reality in Manufacturing: Applications and Advantages](https://dev.to/ram_fb361bc2f8f94e06772e2/the-role-of-augmented-reality-in-manufacturing-applications-and-advantages-3m5e)
 <!-- BLOG-POST-LIST:END -->
 
