@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Master Debugging: How Simulated Tools Transform Computer Science Education&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/master-debugging-how-simulated-tools-transform-computer-science-education-366n)
-- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-23i1)
-- [Embracing the Low-Code Era: A Revolutionary Shift from Traditional Coding to Low-Code Platforms.](https://dev.to/suhaassmh/the-low-code-era-4mo0)
-- [Vue.js or Nuxt.js?](https://dev.to/freshtech/vuejs-or-nuxtjs-5fec)
+- [IT Job Market in 2025: Trends, Roles, and Opportunities](https://dev.to/empiree/it-job-market-in-2025-trends-roles-and-opportunities-bf)
+- [Top UI/UX Design Innovations to Watch](https://dev.to/ram_fb361bc2f8f94e06772e2/top-uiux-design-innovations-to-watch-55ki)
+- [This Week In React #217: View Transitions, RSC, Next.js, Compiler, EAS Hosting, Shopify, Skia, OTP, Gesture Handler, Radon...](https://dev.to/sebastienlorber/this-week-in-react-217-view-transitions-rsc-nextjs-compiler-eas-hosting-shopify-skia-otp-2hpf)
+- [The Future of Front-End Development](https://dev.to/aneeqakhan/the-future-of-front-end-development-3gea)
 <!-- BLOG-POST-LIST:END -->
 
