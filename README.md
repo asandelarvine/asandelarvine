@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What make Rust blazing fast?](https://dev.to/sadanand_dodawadakar_10b2/what-make-rust-blazing-fast-5anj)
-- [Trampolim para funções além do primitivo recursivo? Implementação para a função de Ackermann Peter](https://dev.to/jeffque/trampolim-para-funcoes-alem-do-primitivo-recursivo-implementacao-para-a-funcao-de-ackermann-peter-3c8n)
-- [Guard expressions in JavaScript](https://dev.to/anreutt/guard-expressions-in-javascript-161e)
-- [The Differences in Truthiness and Falsiness in JavaScript vs PHP](https://dev.to/kengitahi/the-differences-in-truthiness-and-falsiness-in-javascript-vs-php-4fdb)
+- [Ludo Multiplayer on Playhop: A Fun and Competitive Experience](https://dev.to/mittul_a089a9a0969dcd2d8c/ludo-multiplayer-on-playhop-a-fun-and-competitive-experience-4b2n)
+- [Building Better UIs: Why ShadCN and Radix Are Worth Your Attention](https://dev.to/lovestaco/building-better-uis-why-shadcn-and-radix-are-worth-your-attention-4fen)
+- [🌐 💻 Welcome to Future: Your Developer Community Hub 🚀 By Ben Halpern](https://dev.to/hanzla-baig/welcome-to-future-your-developer-community-hub-by-ben-halpern-2j04)
+- [Bridge: Empowering Communities and Fresh Starts with GitHub Copilot](https://dev.to/sgfhonestant/bridge-empowering-communities-and-fresh-starts-with-github-copilot-5efl)
 <!-- BLOG-POST-LIST:END -->
 
