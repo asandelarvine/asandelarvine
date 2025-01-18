@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ludo Multiplayer on Playhop: A Fun and Competitive Experience](https://dev.to/mittul_a089a9a0969dcd2d8c/ludo-multiplayer-on-playhop-a-fun-and-competitive-experience-4b2n)
-- [Building Better UIs: Why ShadCN and Radix Are Worth Your Attention](https://dev.to/lovestaco/building-better-uis-why-shadcn-and-radix-are-worth-your-attention-4fen)
-- [🌐 💻 Welcome to Future: Your Developer Community Hub 🚀 By Ben Halpern](https://dev.to/hanzla-baig/welcome-to-future-your-developer-community-hub-by-ben-halpern-2j04)
-- [Bridge: Empowering Communities and Fresh Starts with GitHub Copilot](https://dev.to/sgfhonestant/bridge-empowering-communities-and-fresh-starts-with-github-copilot-5efl)
+- [2024 in Review: AWS Mastery, PartyRock Victory, and AI Innovation](https://dev.to/makendrang/2024-in-review-aws-mastery-partyrock-victory-and-ai-innovation-25lg)
+- [Why You Should Use a Single FastAPI App and TestClient Instance](https://dev.to/kfir-g/why-you-should-use-a-single-fastapi-app-and-testclient-instance-4m2b)
+- [Constructors in JavaScript](https://dev.to/queentiol/constructors-in-javascript-30dg)
+- [What Is Web Application Security and How It Works](https://dev.to/daksh_kataria_9c4197f3f7c/what-is-web-application-security-and-how-it-works-3pah)
 <!-- BLOG-POST-LIST:END -->
 
