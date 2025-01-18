@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevChef: The Ultimate Monthly Coding Contest by DevKaft](https://dev.to/dev_kraft/devchef-the-ultimate-monthly-coding-contest-by-devkaft-3dla)
-- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-2fog)
-- [Walls and Gates](https://dev.to/prashantrmishra/walls-and-gates-40gb)
-- [Exploring the Utility of web_read in Odoo Development](https://dev.to/maisie_brooke_73b14a05485/exploring-the-utility-of-webread-in-odoo-development-1nh1)
+- [What make Rust blazing fast?](https://dev.to/sadanand_dodawadakar_10b2/what-make-rust-blazing-fast-5anj)
+- [Trampolim para funções além do primitivo recursivo? Implementação para a função de Ackermann Peter](https://dev.to/jeffque/trampolim-para-funcoes-alem-do-primitivo-recursivo-implementacao-para-a-funcao-de-ackermann-peter-3c8n)
+- [Guard expressions in JavaScript](https://dev.to/anreutt/guard-expressions-in-javascript-161e)
+- [The Differences in Truthiness and Falsiness in JavaScript vs PHP](https://dev.to/kengitahi/the-differences-in-truthiness-and-falsiness-in-javascript-vs-php-4fdb)
 <!-- BLOG-POST-LIST:END -->
 
