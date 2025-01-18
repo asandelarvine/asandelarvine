@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the Prebuilt ReAct Agent in LangGraph](https://dev.to/chatgptnexus/2025011823-09-11-article-3a60)
-- [Spring Framework: Bean definition and creation](https://dev.to/saladlam/spring-framework-bean-definition-and-creation-4bdd)
-- [A Practical Introduction to the Event Driven Architecture](https://dev.to/jimjunior/a-practical-introduction-to-the-event-driven-architecture-dol)
-- [AWS-IAM Beginner perfect guide](https://dev.to/4su_para/aws-iam-beginner-perfect-guide-7d7)
+- [Memory Leaks in JavaScript: A Simple Guide 💯](https://dev.to/alisamir/memory-leaks-in-javascript-a-simple-guide-31e8)
+- [This Week in Tech: My Newsletter for Developers Who Want to Stay in the Loop Without the Overwhelm](https://dev.to/digitalminds/this-week-in-tech-my-newsletter-for-developers-who-want-to-stay-in-the-loop-without-the-overwhelm-11km)
+- [Sliding Window Median with .NET 9](https://dev.to/soczek/sliding-window-median-with-net-9-45k5)
+- [Tutorial: Use OSS Bucket SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/tutorial-use-oss-bucket-api-with-net-autodesk-platform-services-aps-3kjb)
 <!-- BLOG-POST-LIST:END -->
 
