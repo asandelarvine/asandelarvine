@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Tailwind to Next.js: A Comprehensive Guide](https://dev.to/hannahanot/adding-tailwind-to-nextjs-a-comprehensive-guide-5cd4)
-- [Adding Tailwind to React](https://dev.to/hannahanot/adding-tailwind-to-react-429p)
-- [TS1144: &#39;{&#39; or &#39;;&#39; expected](https://dev.to/turingvangisms/ts1144-or-expected-54eo)
-- [TS1138: Parameter declaration expected](https://dev.to/turingvangisms/ts1138-parameter-declaration-expected-20l7)
+- [Master Network Security: Protect Your Digital World from Hidden Threats! 👾](https://dev.to/tavernetech/master-network-security-protect-your-digital-world-from-hidden-threats-2dfd)
+- [Mistral Codestral v25.01, NEW AI Model better than OpenAI o3, Adobe&#39;s latest AI Tool, and more](https://dev.to/thisweekinaiengineering/mistral-codestral-v2501-new-ai-model-better-than-openai-o3-adobes-latest-ai-tool-and-more-1fb3)
+- [5 AI-Powered Developer Tools Changing the Way We Work in 2025](https://dev.to/burcs/5-ai-powered-developer-tools-changing-the-way-we-work-in-2025-17ff)
+- [It&#39;s not a copilot it&#39;s a genie I never dreamt of!](https://dev.to/priyanka_shah/its-not-a-copilot-its-a-genie-i-never-dreamt-of-bjk)
 <!-- BLOG-POST-LIST:END -->
 
