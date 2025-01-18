@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting &#39;pip install pipenv&#39;](https://dev.to/hastycodea/troubleshooting-pip-install-pipenv-4pga)
-- [Node.js Introduction and Setup](https://dev.to/godofgeeks/nodejs-introduction-and-setup-noa)
-- [16 Open Source Alternatives Every Developer Must Know 🔥👨‍💻](https://dev.to/itanand_/16-open-source-alternatives-every-developer-must-know-18oj)
-- [Using Homebrew to Install Pyenv on Ubuntu](https://dev.to/hastycodea/using-homebrew-to-install-pyenv-on-ubuntu-54ge)
+- [Revolutionary Remote DevOps: A C-Level Blueprint for Digital Transformation Excellence](https://dev.to/aws-builders/revolutionary-remote-devops-a-c-level-blueprint-for-digital-transformation-excellence-59n1)
+- [&quot;Unlocking Precision: Advances in Phenotype Recognition and Video Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-precision-advances-in-phenotype-recognition-and-video-generation-15ol)
+- [The Ultimate Guide to Conducting SERP Analysis for SEO](https://dev.to/swiftproxy_residential/the-ultimate-guide-to-conducting-serp-analysis-for-seo-2kij)
+- [Currying](https://dev.to/jacobhsu/currying-1gh0)
 <!-- BLOG-POST-LIST:END -->
 
