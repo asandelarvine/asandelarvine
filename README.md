@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Assertions in Selenium Python: A Complete Guide](https://dev.to/keploy/assertions-in-selenium-python-a-complete-guide-5fbp)
-- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-39p0)
-- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates In the ever-evolving digital landscape, having an appealing and functional website is paramount for businesses, bloggers, and developers. ThemeForest, a marketplace under the Envato](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-in-the-ever-evolving-57df)
-- [test](https://dev.to/sardorml/test-59pe)
+- [Troubleshooting &#39;pip install pipenv&#39;](https://dev.to/hastycodea/troubleshooting-pip-install-pipenv-4pga)
+- [Node.js Introduction and Setup](https://dev.to/godofgeeks/nodejs-introduction-and-setup-noa)
+- [16 Open Source Alternatives Every Developer Must Know 🔥👨‍💻](https://dev.to/itanand_/16-open-source-alternatives-every-developer-must-know-18oj)
+- [Using Homebrew to Install Pyenv on Ubuntu](https://dev.to/hastycodea/using-homebrew-to-install-pyenv-on-ubuntu-54ge)
 <!-- BLOG-POST-LIST:END -->
 
