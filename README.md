@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seasons: A Creative Exploration of Transitions and Transformations](https://dev.to/dailydev/seasons-a-creative-exploration-of-transitions-and-transformations-5el8)
-- [Laravel Envoy - Automate the boring stuff](https://dev.to/oussamamater/laravel-envoy-automate-the-boring-stuff-2jo3)
-- [AWS Serverless: Understanding and Managing Lambda Recursive Loops for Event-Driven Architectures](https://dev.to/bhatiagirish/aws-serverless-understanding-and-managing-lambda-recursive-loops-for-event-driven-architectures-38nd)
-- [SST - a parte da infra que pode ser legal](https://dev.to/playma256/sst-a-parte-da-infra-que-pode-ser-legal-1i6a)
+- [Weather Data collection API using S3 and Python](https://dev.to/ayindejamiu/weather-data-collection-api-using-s3-and-python-3908)
+- [Deploying a TypeScript Express App to GKE Using Docker and Artifact Registry](https://dev.to/emiroberti/deploying-a-typescript-express-app-to-gke-using-docker-and-artifact-registry-7j8)
+- [Kernel development update! 2025-01-18](https://dev.to/kernux_/kernel-development-update-2025-01-18-of2)
+- [FG.CsvParser: A Powerful .NET Library for Working with CSV Files](https://dev.to/fermantttnnn/fgcsvparser-a-powerful-net-library-for-working-with-csv-files-15n7)
 <!-- BLOG-POST-LIST:END -->
 
