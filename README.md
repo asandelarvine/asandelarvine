@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a Flask Portfolio Website on AWS Elastic Beanstalk](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-to-deploy-a-flask-portfolio-website-on-aws-elastic-beanstalk-19pc)
-- [AI Agents Unveiled at CES 2025: Implications for Software Engineering and the Job Market](https://dev.to/arjun98k/ai-agents-unveiled-at-ces-2025-implications-for-software-engineering-and-the-job-market-4h0p)
-- [OAuth2 Spring Boot GitHub Authentication](https://dev.to/quotcode/oauth2-spring-boot-github-authentication-4f1p)
-- [Power of Python Libraries in Data Science](https://dev.to/letsupdateskills/power-of-python-libraries-in-data-science-79i)
+- [Crafting Efficient JavaScript: A Guide for Advanced Engineers](https://dev.to/ojosolomon/crafting-efficient-javascript-a-guide-for-advanced-engineers-5bjn)
+- [🧪 GOLANG INTEGRATION TEST WITH GIN, GORM, TESTIFY, MYSQL](https://dev.to/truongpx396/golang-integration-test-with-gin-gorm-testify-mysql-37h5)
+- [Artificial Intelligence](https://dev.to/sakhiknowledge/artificial-intelligence-3gn)
+- [A fresh start after a heartbreak](https://dev.to/sagi0312/a-fresh-start-after-a-heartbreak-b0n)
 <!-- BLOG-POST-LIST:END -->
 
