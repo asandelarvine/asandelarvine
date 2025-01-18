@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2024 in Review: AWS Mastery, PartyRock Victory, and AI Innovation](https://dev.to/makendrang/2024-in-review-aws-mastery-partyrock-victory-and-ai-innovation-25lg)
-- [Why You Should Use a Single FastAPI App and TestClient Instance](https://dev.to/kfir-g/why-you-should-use-a-single-fastapi-app-and-testclient-instance-4m2b)
-- [Constructors in JavaScript](https://dev.to/queentiol/constructors-in-javascript-30dg)
-- [What Is Web Application Security and How It Works](https://dev.to/daksh_kataria_9c4197f3f7c/what-is-web-application-security-and-how-it-works-3pah)
+- [How to Use the Prebuilt ReAct Agent in LangGraph](https://dev.to/chatgptnexus/2025011823-09-11-article-3a60)
+- [Spring Framework: Bean definition and creation](https://dev.to/saladlam/spring-framework-bean-definition-and-creation-4bdd)
+- [A Practical Introduction to the Event Driven Architecture](https://dev.to/jimjunior/a-practical-introduction-to-the-event-driven-architecture-dol)
+- [AWS-IAM Beginner perfect guide](https://dev.to/4su_para/aws-iam-beginner-perfect-guide-7d7)
 <!-- BLOG-POST-LIST:END -->
 
