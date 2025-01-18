@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing the &quot;vueDemi2.effectScope is not a function&quot; Error in Nuxt 3 + Pinia &lpar;SSR, Vercel Deploy&rpar;](https://dev.to/jeanjavi/fixing-the-vuedemi2effectscope-is-not-a-function-error-in-nuxt-3-pinia-ssr-vercel-deploy-2jih)
 - [Python for Data Science: A Beginner&#39;s Introduction](https://dev.to/mei_zhu/python-for-data-science-a-beginners-introduction-39hg)
 - [How to Assign and Manage Resource Monitors in Snowflake](https://dev.to/rodolfom-data/how-to-assign-and-manage-resource-monitors-in-snowflake-58io)
 - [Exploring Python After Learning JavaScript](https://dev.to/mei_zhu/exploring-python-after-learning-javascript-48i5)
-- [Daily Quantum Learning #1 - What&#39;s a Qubit?](https://dev.to/quantumashx/daily-quantum-learning-1-whats-a-qubit-2eg6)
 <!-- BLOG-POST-LIST:END -->
 
