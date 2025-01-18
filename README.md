@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Leaks in JavaScript: A Simple Guide 💯](https://dev.to/alisamir/memory-leaks-in-javascript-a-simple-guide-31e8)
-- [This Week in Tech: My Newsletter for Developers Who Want to Stay in the Loop Without the Overwhelm](https://dev.to/digitalminds/this-week-in-tech-my-newsletter-for-developers-who-want-to-stay-in-the-loop-without-the-overwhelm-11km)
-- [Sliding Window Median with .NET 9](https://dev.to/soczek/sliding-window-median-with-net-9-45k5)
-- [Tutorial: Use OSS Bucket SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/tutorial-use-oss-bucket-api-with-net-autodesk-platform-services-aps-3kjb)
+- [Adding Tailwind to Next.js: A Comprehensive Guide](https://dev.to/hannahanot/adding-tailwind-to-nextjs-a-comprehensive-guide-5cd4)
+- [Adding Tailwind to React](https://dev.to/hannahanot/adding-tailwind-to-react-429p)
+- [TS1144: &#39;{&#39; or &#39;;&#39; expected](https://dev.to/turingvangisms/ts1144-or-expected-54eo)
+- [TS1138: Parameter declaration expected](https://dev.to/turingvangisms/ts1138-parameter-declaration-expected-20l7)
 <!-- BLOG-POST-LIST:END -->
 
