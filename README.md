@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explain in 5 Levels of Difficulty: Quantum Computing](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-quantum-computing-2afd)
-- [The Evolution from Microservice to Multi-Agent AI Systems](https://dev.to/sreeni5018/the-evolution-from-microservice-to-multi-agent-ai-systems-76o)
-- [Six News Aggregators for Tech Enthusiasts](https://dev.to/gokayburuc/six-news-aggregators-for-tech-enthusiasts-55ip)
-- [Sensitive Data Checker using agent.ai](https://dev.to/abdullah-k18/sensitive-data-checker-using-agentai-4ng0)
+- [New Kid on the block](https://dev.to/essy/new-kid-on-the-block-12ji)
+- [Django Task Manager: Built in a Day with Django](https://dev.to/odera_markbash/django-task-manager-built-in-a-day-with-django-4ihp)
+- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21bk)
+- [Internacionalización en Aplicaciones React con i18next](https://dev.to/devjohanadrian/internacionalizacion-en-aplicaciones-react-con-i18next-286k)
 <!-- BLOG-POST-LIST:END -->
 
