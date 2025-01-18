@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Rates Script in Go](https://dev.to/evertontenorio/bitcoin-rates-script-in-go-1fh5)
-- [JSON Viewer Tools– A Free Alternative to JSON Crack](https://dev.to/aidevtools/json-viewer-tools-a-free-alternative-to-json-crack-1ggm)
-- [What Everyone Needs to Learn About Effective Artistic Approaches](https://dev.to/beautyegg98/what-everyone-needs-to-learn-about-effective-artistic-approaches-145a)
-- [System Design: encurtador de URL parte 1](https://dev.to/jessilyneh/system-design-encurtador-de-url-parte-1-2p29)
+- [Deep Learning &lpar;1737176160&rpar;](https://dev.to/sakhiknowledge/deep-learning-1737176160-5bl9)
+- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-52a5)
+- [Your Random is Static 🎲: Random Numbers in Go](https://dev.to/leapcell/your-random-is-static-random-numbers-in-go-124l)
+- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-13nm)
 <!-- BLOG-POST-LIST:END -->
 
