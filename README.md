@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Efficient JavaScript: A Guide for Advanced Engineers](https://dev.to/ojosolomon/crafting-efficient-javascript-a-guide-for-advanced-engineers-5bjn)
-- [🧪 GOLANG INTEGRATION TEST WITH GIN, GORM, TESTIFY, MYSQL](https://dev.to/truongpx396/golang-integration-test-with-gin-gorm-testify-mysql-37h5)
-- [Artificial Intelligence](https://dev.to/sakhiknowledge/artificial-intelligence-3gn)
-- [A fresh start after a heartbreak](https://dev.to/sagi0312/a-fresh-start-after-a-heartbreak-b0n)
+- [Seasons: A Creative Exploration of Transitions and Transformations](https://dev.to/dailydev/seasons-a-creative-exploration-of-transitions-and-transformations-5el8)
+- [Laravel Envoy - Automate the boring stuff](https://dev.to/oussamamater/laravel-envoy-automate-the-boring-stuff-2jo3)
+- [AWS Serverless: Understanding and Managing Lambda Recursive Loops for Event-Driven Architectures](https://dev.to/bhatiagirish/aws-serverless-understanding-and-managing-lambda-recursive-loops-for-event-driven-architectures-38nd)
+- [SST - a parte da infra que pode ser legal](https://dev.to/playma256/sst-a-parte-da-infra-que-pode-ser-legal-1i6a)
 <!-- BLOG-POST-LIST:END -->
 
