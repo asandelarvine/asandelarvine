@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weather Data collection API using S3 and Python](https://dev.to/ayindejamiu/weather-data-collection-api-using-s3-and-python-3908)
-- [Deploying a TypeScript Express App to GKE Using Docker and Artifact Registry](https://dev.to/emiroberti/deploying-a-typescript-express-app-to-gke-using-docker-and-artifact-registry-7j8)
-- [Kernel development update! 2025-01-18](https://dev.to/kernux_/kernel-development-update-2025-01-18-of2)
-- [FG.CsvParser: A Powerful .NET Library for Working with CSV Files](https://dev.to/fermantttnnn/fgcsvparser-a-powerful-net-library-for-working-with-csv-files-15n7)
+- [Explain in 5 Levels of Difficulty: Quantum Computing](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-quantum-computing-2afd)
+- [The Evolution from Microservice to Multi-Agent AI Systems](https://dev.to/sreeni5018/the-evolution-from-microservice-to-multi-agent-ai-systems-76o)
+- [Six News Aggregators for Tech Enthusiasts](https://dev.to/gokayburuc/six-news-aggregators-for-tech-enthusiasts-55ip)
+- [Sensitive Data Checker using agent.ai](https://dev.to/abdullah-k18/sensitive-data-checker-using-agentai-4ng0)
 <!-- BLOG-POST-LIST:END -->
 
