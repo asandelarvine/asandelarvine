@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Sales Agent: From Voice to Pitch.](https://dev.to/devesh0099/building-an-ai-sales-agent-from-voice-to-pitch-3p6c)
-- [5 Essential AI Tools Every Developer Should Know](https://dev.to/neurolov_ai_/5-essential-ai-tools-every-developer-should-know-42e7)
-- [Ditch the &#39;if else&#39;: Mastering Design Patterns for Cleaner, Scalable Code](https://dev.to/ahmedmohamedhussein/ditch-the-if-else-mastering-design-patterns-for-cleaner-scalable-code-1ihg)
-- [How Codevo Academy Helps Working Professionals Upskill for a Brighter Future](https://dev.to/sailesh_sahu_7d7151b6d251/how-codevo-academy-helps-working-professionals-upskill-for-a-brighter-future-b2h)
+- [DevChef: The Ultimate Monthly Coding Contest by DevKaft](https://dev.to/dev_kraft/devchef-the-ultimate-monthly-coding-contest-by-devkaft-3dla)
+- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-2fog)
+- [Walls and Gates](https://dev.to/prashantrmishra/walls-and-gates-40gb)
+- [Exploring the Utility of web_read in Odoo Development](https://dev.to/maisie_brooke_73b14a05485/exploring-the-utility-of-webread-in-odoo-development-1nh1)
 <!-- BLOG-POST-LIST:END -->
 
