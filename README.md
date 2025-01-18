@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning &lpar;1737176160&rpar;](https://dev.to/sakhiknowledge/deep-learning-1737176160-5bl9)
-- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-52a5)
-- [Your Random is Static 🎲: Random Numbers in Go](https://dev.to/leapcell/your-random-is-static-random-numbers-in-go-124l)
-- [Deep Learning](https://dev.to/sakhiknowledge/deep-learning-13nm)
+- [Assertions in Selenium Python: A Complete Guide](https://dev.to/keploy/assertions-in-selenium-python-a-complete-guide-5fbp)
+- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-39p0)
+- [ThemeForest Blog: A Comprehensive Guide to Exploring Themes and Templates In the ever-evolving digital landscape, having an appealing and functional website is paramount for businesses, bloggers, and developers. ThemeForest, a marketplace under the Envato](https://dev.to/jone_mone_7ced200dabf137d/themeforest-blog-a-comprehensive-guide-to-exploring-themes-and-templates-in-the-ever-evolving-57df)
+- [test](https://dev.to/sardorml/test-59pe)
 <!-- BLOG-POST-LIST:END -->
 
