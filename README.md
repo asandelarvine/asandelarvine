@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Useful Git Commands You Absolutely Must Know](https://dev.to/kelen/7-useful-git-commands-you-absolutely-must-know-24ei)
-- [Use Await Async Revit API](https://dev.to/chuongmep/use-await-async-revit-api-3nk4)
-- [Getting Started with PostgreSQL: A Beginner&#39;s Guide](https://dev.to/nhannguyendevjs/getting-started-with-postgresql-a-beginners-guide-2dc2)
-- [What is an MVP?](https://dev.to/sinaptia_dev/what-is-an-mvp-2d2n)
+- [Bitcoin Rates Script in Go](https://dev.to/evertontenorio/bitcoin-rates-script-in-go-1fh5)
+- [JSON Viewer Tools– A Free Alternative to JSON Crack](https://dev.to/aidevtools/json-viewer-tools-a-free-alternative-to-json-crack-1ggm)
+- [What Everyone Needs to Learn About Effective Artistic Approaches](https://dev.to/beautyegg98/what-everyone-needs-to-learn-about-effective-artistic-approaches-145a)
+- [System Design: encurtador de URL parte 1](https://dev.to/jessilyneh/system-design-encurtador-de-url-parte-1-2p29)
 <!-- BLOG-POST-LIST:END -->
 
