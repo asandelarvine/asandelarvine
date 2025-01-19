@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ConquerortheCrown Organization - Resources Grants for Future Makers](https://dev.to/abhinavsharma_devto/conquerorthecrown-organization-resources-grants-for-future-makers-518)
-- [Spotify: The Most Expensive Skip Button](https://dev.to/alxizr/spotify-the-most-expensive-skip-button-pji)
-- [Stop organizing scavenger hunts in your cloud infrastructure](https://dev.to/aws-builders/stop-organizing-scavenger-hunts-in-your-cloud-infrastructure-1m9c)
-- [What is Webflow?](https://dev.to/webyansh/what-is-webflow-2k96)
+- [Top 10 Programming Languages for Beginners in 2025](https://dev.to/tarunfulera1/top-10-programming-languages-for-beginners-in-2025-3ain)
+- [🌱TinyHabits with Obsidian Sync and Rewards!🌿🚀🏆](https://dev.to/ximet/tinyhabits-with-obsidian-sync-and-rewards-h24)
+- [Freeware: Java Utility Package &lpar;Version 2025.01.19&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20250119-released-2331)
+- [Faster Git Clone Using Depth](https://dev.to/mohansandesh/faster-git-clone-using-depth-4lpc)
 <!-- BLOG-POST-LIST:END -->
 
