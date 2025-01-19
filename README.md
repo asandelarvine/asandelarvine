@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Life Cycle of an S3 Object, A Simple Tale of Data’s Journey](https://dev.to/aws-builders/the-life-cycle-of-an-s3-object-a-simple-tale-of-datas-journey-2cne)
-- [Anyone Can Become Certified in Cybersecurity](https://dev.to/devh0us3/anyone-can-become-certified-in-cybersecurity-2nb0)
-- [Building a Cloud-Based NBA Data Lake with AWS 🏀](https://dev.to/pat6339/building-a-cloud-based-nba-data-lake-with-aws-2c2o)
-- [CropShield: Rainfall Reporting for Smart Approvals](https://dev.to/njayaba75/cropshield-rainfall-reporting-for-smart-approvals-1nbh)
+- [😎 Build Wealth, Start a Hustle, and Communicate Like a Pro](https://dev.to/0x5a_live/build-wealth-start-a-hustle-and-communicate-like-a-pro-89o)
+- [Is Your Age Really Holding You Back from Founding a Tech Startup? Think Again.](https://dev.to/0x2e_tech/is-your-age-really-holding-you-back-from-founding-a-tech-startup-think-again-2bfb)
+- [# Revolutionizing Web Performance: JBConcept.ro&#39;s Journey to Sub-Second Loading](https://dev.to/jbconcept_c4ad1ea567bc3c6/-revolutionizing-web-performance-jbconceptros-journey-to-sub-second-loading-3280)
+- [Unlocking the Power of AI Agents: Applications and Customization](https://dev.to/chatgptnexus/2025011922-33-25-article-4ffa)
 <!-- BLOG-POST-LIST:END -->
 
