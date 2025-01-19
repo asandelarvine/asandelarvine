@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Legendary Aircraft You’ll Work On in Cabin Crew Life Simulator - Devlog#12](https://dev.to/khaisimon_devgame/the-legendary-aircraft-youll-work-on-in-cabin-crew-life-simulator-devlog12-36ad)
-- [Symfony Station Communiqué — 17 January 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-17-january-2025-a-look-at-symfony-drupal-php-and-other-34m1)
-- [Why the ‘Likes’ Don’t Matter, My Friends](https://dev.to/agent-philosopher/why-the-likes-dont-matter-my-friends-40i0)
-- [Building Testable Websites: Empower Your Entire Organization](https://dev.to/copyleftdev/building-testable-websites-empower-your-entire-organization-19ap)
+- [Mejores IDE para Programar en Greenie Linux](https://dev.to/angel_rojas_6904bae237a0d/mejores-ide-para-programar-en-greenie-linux-5g0l)
+- [Using Local LLMs to Add Topic and Concluding Sentences in Microsoft Word](https://dev.to/gptlocalhost/using-local-llms-to-add-topic-and-concluding-sentences-in-microsoft-word-4fml)
+- [Pros and Cons about Github Foundations cert](https://dev.to/halftamayo/pros-and-cons-about-github-foundations-cert-1ji8)
+- [Nested IIF Functions in Microsoft Access](https://dev.to/richardrost/nested-iif-functions-in-microsoft-access-1360)
 <!-- BLOG-POST-LIST:END -->
 
