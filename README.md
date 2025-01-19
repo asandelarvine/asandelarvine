@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A React 19 Cheat Sheet](https://dev.to/joodi/a-react-19-cheat-sheet-n06)
-- [🚀 Top 25+ Must-Read Web Development Articles Every Programmer Should Read](https://dev.to/dev-resources/top-25-must-read-web-development-articles-every-programmer-should-read-52mm)
-- [Terraform Session 3: Let&#39;s Learn about Terraform State, Variables and Functions](https://dev.to/krisfernando6/terraform-session-3-lets-learn-about-terraform-state-variables-and-functions-4900)
-- [Achieve Your Goals: an app for Taking Action towards your Dreams](https://dev.to/petros_arvanitis_d9043d21/achieve-your-goals-an-app-for-taking-action-towards-your-dreams-2b9k)
+- [10 Practical Components to Build While Learning MERN Stack](https://dev.to/kajal_deore_abfd80bf25222/10-practical-components-to-build-while-learning-mern-stack-3a9b)
+- [NEW JavaScript Framework for real-time collaboration, Bun update fixes 40+ bugs, and more](https://dev.to/thisweekinjavascript/new-javascript-framework-for-real-time-collaboration-bun-update-fixes-40-bugs-and-more-3kk0)
+- [Join us at Hack the Future: AI &amp; Open Source Hackathon](https://dev.to/abdibrokhim/join-us-at-hack-the-future-ai-open-source-hackathon-2m57)
+- [Note Taking webApp](https://dev.to/finder8055/note-taking-webapp-158o)
 <!-- BLOG-POST-LIST:END -->
 
