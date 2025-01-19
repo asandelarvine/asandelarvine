@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backup Posts Dev.to to SQLite](https://dev.to/chuongmep/backup-posts-devto-to-sqlite-3kop)
-- [Advocating the Adoption of a Custom Base-32 Encoding System for Enhanced Data Representation and Error Prevention](https://dev.to/megan_pyro/advocating-the-adoption-of-a-custom-base-32-encoding-system-for-enhanced-data-representation-and-5e60)
-- [Exploring Promises in JavaScript](https://dev.to/ryoichihomma/exploring-promises-in-javascript-2k8n)
-- [Data Sources | Terraform](https://dev.to/ibrahimsi/data-sources-terraform-2nn0)
+- [I built &quot;ClickClickClick&quot; 👆that lets me use/control phones 📱using plain text 💬](https://dev.to/mkagenius/i-built-clickclickclick-that-lets-me-usecontrol-phones-using-plain-text-3di4)
+- [Title: Understanding Async/Await in JavaScript: A Beginner&#39;s Guide](https://dev.to/krushna_sananse/title-understanding-asyncawait-in-javascript-a-beginners-guide-f1n)
+- [Core JavaScript Concepts](https://dev.to/godofgeeks/core-javascript-concepts-4nn5)
+- [[Boost]](https://dev.to/j03150315/-4324)
 <!-- BLOG-POST-LIST:END -->
 
