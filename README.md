@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Always Be Open &lpar;In Your Career&rpar;](https://dev.to/drjoanneskiles/always-be-open-in-your-career-3fjc)
-- [10 Hilarious Coding Memes That Only Developers Will Get](https://dev.to/nassiry/10-hilarious-coding-memes-that-only-developers-will-get-35mg)
-- [Transforming Text to Markdown: AI vs Traditional Methods](https://dev.to/chatgptnexus/2025011913-55-19-article-d6h)
-- [How to Handle Large File Uploads &lpar;Without Losing Your Mind&rpar;](https://dev.to/leapcell/how-to-handle-large-file-uploads-without-losing-your-mind-3dck)
+- [Backup Posts Dev.to to SQLite](https://dev.to/chuongmep/backup-posts-devto-to-sqlite-3kop)
+- [Advocating the Adoption of a Custom Base-32 Encoding System for Enhanced Data Representation and Error Prevention](https://dev.to/megan_pyro/advocating-the-adoption-of-a-custom-base-32-encoding-system-for-enhanced-data-representation-and-5e60)
+- [Exploring Promises in JavaScript](https://dev.to/ryoichihomma/exploring-promises-in-javascript-2k8n)
+- [Data Sources | Terraform](https://dev.to/ibrahimsi/data-sources-terraform-2nn0)
 <!-- BLOG-POST-LIST:END -->
 
