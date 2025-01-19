@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built &quot;ClickClickClick&quot; 👆that lets me use/control phones 📱using plain text 💬](https://dev.to/mkagenius/i-built-clickclickclick-that-lets-me-usecontrol-phones-using-plain-text-3di4)
-- [Title: Understanding Async/Await in JavaScript: A Beginner&#39;s Guide](https://dev.to/krushna_sananse/title-understanding-asyncawait-in-javascript-a-beginners-guide-f1n)
-- [Core JavaScript Concepts](https://dev.to/godofgeeks/core-javascript-concepts-4nn5)
-- [[Boost]](https://dev.to/j03150315/-4324)
+- [Blockchain Based License Protection To Prevent Software Piracy](https://dev.to/vignesh_k_5002/blockchain-based-license-protection-to-prevent-software-piracy-34i6)
+- [Caching and Cache Misses: A Beginner&#39;s Guide to Building Faster Systems 🚀](https://dev.to/abhivyaktii/caching-and-cache-misses-a-beginners-guide-to-building-faster-systems-15k4)
+- [Steps to Configure AWS Environments for Secure Handling of Sensitive Health Data](https://dev.to/marufhossain/steps-to-configure-aws-environments-for-secure-handling-of-sensitive-health-data-5031)
+- [Leetcode 901. Online Stock Span](https://dev.to/devn913/leetcode-901-online-stock-span-p4m)
 <!-- BLOG-POST-LIST:END -->
 
