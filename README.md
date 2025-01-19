@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Schema for a Chat with Notification Application](https://dev.to/lovestaco/designing-a-schema-for-a-chat-with-notification-application-59mc)
-- [Marketing Team Shocked ❌ Agent.ai Rocket ✅ 😎](https://dev.to/jacksonkasi/marketing-team-shocked-agentai-rocket-revenue-boost-3kld)
-- [No framework - front end frameworks are unnecessary](https://dev.to/sti_selini/no-framework-front-end-frameworks-are-unnecessary-3p2k)
-- [Essential Linux Commands for DevOps Engineers](https://dev.to/megha_shivhare_5038dc1047/essential-linux-commands-for-devops-engineers-5ai8)
+- [The Life Cycle of an S3 Object, A Simple Tale of Data’s Journey](https://dev.to/aws-builders/the-life-cycle-of-an-s3-object-a-simple-tale-of-datas-journey-2cne)
+- [Anyone Can Become Certified in Cybersecurity](https://dev.to/devh0us3/anyone-can-become-certified-in-cybersecurity-2nb0)
+- [Building a Cloud-Based NBA Data Lake with AWS 🏀](https://dev.to/pat6339/building-a-cloud-based-nba-data-lake-with-aws-2c2o)
+- [CropShield: Rainfall Reporting for Smart Approvals](https://dev.to/njayaba75/cropshield-rainfall-reporting-for-smart-approvals-1nbh)
 <!-- BLOG-POST-LIST:END -->
 
