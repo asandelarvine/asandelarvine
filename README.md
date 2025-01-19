@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an AI Developer in 2025 &lpar;Full Guide + Resources&rpar;](https://dev.to/empiree/how-to-become-an-ai-developer-in-2025-full-guide-resources-a0p)
-- [API rate limit exceeded Github: How to fix?](https://dev.to/mehmetakar/api-rate-limit-exceeded-github-how-to-fix-4h6n)
-- [Using nested annotations for key-value pairs in a custom annotation](https://dev.to/alaugks/using-nested-annotations-for-key-value-pairs-in-a-custom-annotation-2fla)
-- [Legacy Box: Relive, Reflect, Reignite.](https://dev.to/niraj_patel_f248efc2e5550/legacy-box-relive-reflect-reignite-534c)
+- [How to Build Lasting Change](https://dev.to/cijesanchez/how-to-build-lasting-change-176)
+- [BuildYourPath: Why wait for tomorrow?](https://dev.to/panagiotis_thiv/buildyourpath-why-wait-for-tomorrow-1efi)
+- [Conquering the First Steps: Overcoming Challenges for Coding Beginners](https://dev.to/riteshkumarkarn/conquering-the-first-steps-overcoming-challenges-for-coding-beginners-m58)
+- [Транзакционные приключения плюшевой семьи медведей](https://dev.to/easycat/tranzaktsionnyie-prikliuchieniia-pliushievoi-siemi-miedviediei-198f)
 <!-- BLOG-POST-LIST:END -->
 
