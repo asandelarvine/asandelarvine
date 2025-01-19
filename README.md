@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O dev.to é realmente incrível. O alcance que eu tenho aqui é muito maior que em outras redes sociais, fora o fato de ser focado em dev. Pra quem quiser criar um blog, esse é o lugar... Só precisa ter um editor de post melhor hehehe](https://dev.to/angelobelchior/o-devto-e-realmente-incrivel-o-alcance-que-eu-tenho-aqui-e-muito-maior-que-em-outras-redes-30ea)
-- [Kontroler: &quot;DogFood&quot; Testing](https://dev.to/greedykomdodragon/kontroler-dogfood-testing-2m5a)
-- [Hero Sprint - Never Start From Zero](https://dev.to/anupulu/hero-spring-never-start-from-zero-17hn)
-- [Daily Quantum Learning #2 - Determinism, Probabilism, and Superposition](https://dev.to/quantumashx/daily-quantum-learning-2-determinism-probabilism-and-superposition-jkg)
+- [Pulumi WASM/Rust devlog #4](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-4-3acd)
+- [Diverse AI tools used for the C# developer](https://dev.to/karenpayneoregon/diverse-ai-tools-used-for-the-c-developer-4981)
+- [Live Resume: Take your resume online on github pages](https://dev.to/hithesh_reddivari_b646cd8/live-resume-take-your-resume-online-on-github-pages-4o5h)
+- [LifeTrackr 2025: A New Beginnings minimal visual focused app with GitHub Copilot](https://dev.to/hidde38967103/lifetrackr-2025-a-new-beginnings-minimal-visual-focused-app-with-github-copilot-1kl4)
 <!-- BLOG-POST-LIST:END -->
 
