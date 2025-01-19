@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is Everywhere Around Us](https://dev.to/jaygpt/ai-is-everywhere-around-us-50kj)
-- [I’m no developer but I’m looking to learn. I love what you guys do and would love to be accepted in your communities.](https://dev.to/tyler_coleman_d50bf50c16e/im-no-developer-but-im-looking-to-learn-i-love-what-you-guys-do-and-would-love-to-be-accepted-in-462e)
-- [How to Dockerize SvelteKit](https://dev.to/code42cate/how-to-dockerize-sveltekit-3oho)
-- [Understanding the Fundamentals of Quantum Computing](https://dev.to/cicadavise7/understanding-the-fundamentals-of-quantum-computing-46do)
+- [How to Integrate a SHA256 Signature Serverless Function into a LangChain Agent Tool](https://dev.to/chatgptnexus/2025011913-08-36-article-19bl)
+- [Resolving Missing `_sqlite3` Module in Python on Ubuntu](https://dev.to/hastycodea/resolving-missing-sqlite3-module-in-python-on-ubuntu-47id)
+- [Hello Dev &lpar;World&rpar;! 😄🌍](https://dev.to/crypto_dnvarchar_447169d/hello-dev-world-51on)
+- [Step-by-Step Guide to Building a Robust CI/CD Pipeline for Java Projects on AWS Linux with Git, Jenkins, Maven, &amp; Tomcat](https://dev.to/khalifalmahmud0/step-by-step-guide-to-building-a-robust-cicd-pipeline-for-java-projects-on-aws-linux-with-git-4842)
 <!-- BLOG-POST-LIST:END -->
 
