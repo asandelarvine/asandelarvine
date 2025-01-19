@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 40+ Github Repositories Curated For Programmers](https://dev.to/gittech/top-40-github-repositories-curated-for-programmers-2fb8)
-- [Azure Virtual Networks &lpar;vNet&rpar;: Overview 2025](https://dev.to/diya_roy_1043d6ba08405d25/azure-virtual-networks-vnet-overview-2025-39ik)
-- [YouTube agent &lpar; filterbot&rpar;](https://dev.to/maani_k/youtube-agent-filterbot-28a2)
-- [HTTP Caching 101: Everything You Need to Know](https://dev.to/leapcell/http-caching-101-everything-you-need-to-know-27ef)
+- [How to Become an AI Developer in 2025 &lpar;Full Guide + Resources&rpar;](https://dev.to/empiree/how-to-become-an-ai-developer-in-2025-full-guide-resources-a0p)
+- [API rate limit exceeded Github: How to fix?](https://dev.to/mehmetakar/api-rate-limit-exceeded-github-how-to-fix-4h6n)
+- [Using nested annotations for key-value pairs in a custom annotation](https://dev.to/alaugks/using-nested-annotations-for-key-value-pairs-in-a-custom-annotation-2fla)
+- [Legacy Box: Relive, Reflect, Reignite.](https://dev.to/niraj_patel_f248efc2e5550/legacy-box-relive-reflect-reignite-534c)
 <!-- BLOG-POST-LIST:END -->
 
