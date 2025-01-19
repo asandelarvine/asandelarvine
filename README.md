@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Programming Languages for Beginners in 2025](https://dev.to/tarunfulera1/top-10-programming-languages-for-beginners-in-2025-3ain)
-- [🌱TinyHabits with Obsidian Sync and Rewards!🌿🚀🏆](https://dev.to/ximet/tinyhabits-with-obsidian-sync-and-rewards-h24)
-- [Freeware: Java Utility Package &lpar;Version 2025.01.19&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20250119-released-2331)
-- [Faster Git Clone Using Depth](https://dev.to/mohansandesh/faster-git-clone-using-depth-4lpc)
+- [Designing a Schema for a Chat with Notification Application](https://dev.to/lovestaco/designing-a-schema-for-a-chat-with-notification-application-59mc)
+- [Marketing Team Shocked ❌ Agent.ai Rocket ✅ 😎](https://dev.to/jacksonkasi/marketing-team-shocked-agentai-rocket-revenue-boost-3kld)
+- [No framework - front end frameworks are unnecessary](https://dev.to/sti_selini/no-framework-front-end-frameworks-are-unnecessary-3p2k)
+- [Essential Linux Commands for DevOps Engineers](https://dev.to/megha_shivhare_5038dc1047/essential-linux-commands-for-devops-engineers-5ai8)
 <!-- BLOG-POST-LIST:END -->
 
