@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Framework Comparison for Web Development](https://dev.to/leapcell/go-framework-comparison-for-web-development-b55)
-- [&quot;Key Syntax Differences in Object-Oriented Programming: Python vs. Java”](https://dev.to/mahiamomo/key-syntax-differences-in-object-oriented-programming-python-vs-java-2l04)
-- [The Impatient AI Programming - FAV0 Weekly #027](https://dev.to/justin3go/the-impatient-ai-programming-fav0-weekly-027-51kg)
-- [浮躁的AI编程 - FAV0周刊#027](https://dev.to/justin3go/fu-zao-de-aibian-cheng-fav0zhou-kan-027-3djo)
+- [A React 19 Cheat Sheet](https://dev.to/joodi/a-react-19-cheat-sheet-n06)
+- [🚀 Top 25+ Must-Read Web Development Articles Every Programmer Should Read](https://dev.to/dev-resources/top-25-must-read-web-development-articles-every-programmer-should-read-52mm)
+- [Terraform Session 3: Let&#39;s Learn about Terraform State, Variables and Functions](https://dev.to/krisfernando6/terraform-session-3-lets-learn-about-terraform-state-variables-and-functions-4900)
+- [Achieve Your Goals: an app for Taking Action towards your Dreams](https://dev.to/petros_arvanitis_d9043d21/achieve-your-goals-an-app-for-taking-action-towards-your-dreams-2b9k)
 <!-- BLOG-POST-LIST:END -->
 
