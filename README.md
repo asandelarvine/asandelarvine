@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Now Dream 💭](https://dev.to/akshitzatakia/ai-can-now-dream-2nfa)
-- [SkillSphere: A platform with 10 apps for well-being and productivity.](https://dev.to/aniruddhaadak/skillsphere-a-platform-with-10-apps-for-well-being-and-productivity-1k1p)
-- [Blockchain Based License Protection To Prevent Software Piracy](https://dev.to/vignesh_k_5002/blockchain-based-license-protection-to-prevent-software-piracy-34i6)
-- [Caching and Cache Misses: A Beginner&#39;s Guide to Building Faster Systems 🚀](https://dev.to/abhivyaktii/caching-and-cache-misses-a-beginners-guide-to-building-faster-systems-15k4)
+- [ConquerortheCrown Organization - Resources Grants for Future Makers](https://dev.to/abhinavsharma_devto/conquerorthecrown-organization-resources-grants-for-future-makers-518)
+- [Spotify: The Most Expensive Skip Button](https://dev.to/alxizr/spotify-the-most-expensive-skip-button-pji)
+- [Stop organizing scavenger hunts in your cloud infrastructure](https://dev.to/aws-builders/stop-organizing-scavenger-hunts-in-your-cloud-infrastructure-1m9c)
+- [What is Webflow?](https://dev.to/webyansh/what-is-webflow-2k96)
 <!-- BLOG-POST-LIST:END -->
 
