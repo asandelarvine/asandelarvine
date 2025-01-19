@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Kid on the block](https://dev.to/essy/new-kid-on-the-block-12ji)
-- [Django Task Manager: Built in a Day with Django](https://dev.to/odera_markbash/django-task-manager-built-in-a-day-with-django-4ihp)
-- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21bk)
-- [Internacionalización en Aplicaciones React con i18next](https://dev.to/devjohanadrian/internacionalizacion-en-aplicaciones-react-con-i18next-286k)
+- [The Legendary Aircraft You’ll Work On in Cabin Crew Life Simulator - Devlog#12](https://dev.to/khaisimon_devgame/the-legendary-aircraft-youll-work-on-in-cabin-crew-life-simulator-devlog12-36ad)
+- [Symfony Station Communiqué — 17 January 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-17-january-2025-a-look-at-symfony-drupal-php-and-other-34m1)
+- [Why the ‘Likes’ Don’t Matter, My Friends](https://dev.to/agent-philosopher/why-the-likes-dont-matter-my-friends-40i0)
+- [Building Testable Websites: Empower Your Entire Organization](https://dev.to/copyleftdev/building-testable-websites-empower-your-entire-organization-19ap)
 <!-- BLOG-POST-LIST:END -->
 
