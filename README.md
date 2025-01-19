@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Practical Components to Build While Learning MERN Stack](https://dev.to/kajal_deore_abfd80bf25222/10-practical-components-to-build-while-learning-mern-stack-3a9b)
-- [NEW JavaScript Framework for real-time collaboration, Bun update fixes 40+ bugs, and more](https://dev.to/thisweekinjavascript/new-javascript-framework-for-real-time-collaboration-bun-update-fixes-40-bugs-and-more-3kk0)
-- [Join us at Hack the Future: AI &amp; Open Source Hackathon](https://dev.to/abdibrokhim/join-us-at-hack-the-future-ai-open-source-hackathon-2m57)
-- [Note Taking webApp](https://dev.to/finder8055/note-taking-webapp-158o)
+- [Top 40+ Github Repositories Curated For Programmers](https://dev.to/gittech/top-40-github-repositories-curated-for-programmers-2fb8)
+- [Azure Virtual Networks &lpar;vNet&rpar;: Overview 2025](https://dev.to/diya_roy_1043d6ba08405d25/azure-virtual-networks-vnet-overview-2025-39ik)
+- [YouTube agent &lpar; filterbot&rpar;](https://dev.to/maani_k/youtube-agent-filterbot-28a2)
+- [HTTP Caching 101: Everything You Need to Know](https://dev.to/leapcell/http-caching-101-everything-you-need-to-know-27ef)
 <!-- BLOG-POST-LIST:END -->
 
