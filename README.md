@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 Update Information: What&#39;s New and Improved](https://dev.to/pushpak_chaudhari_b4083aa/windows-11-update-information-whats-new-and-improved-31h8)
-- [How to Create a Launcher for Your AppImage on Linux](https://dev.to/lovestaco/how-to-create-a-launcher-for-your-appimage-on-linux-mc3)
-- [What is AWS Security Essentials? A Comprehensive Guide](https://dev.to/skillboosttrainer/what-is-aws-security-essentials-a-comprehensive-guide-47c3)
-- [Building with TypeScript: A Lego-Based Guide](https://dev.to/nerajno/building-with-typescript-a-lego-based-guide-194k)
+- [Transactions in Microservices: Part 1 - SAGA Patterns overview.](https://dev.to/federico_bevione/transactions-in-microservices-part-1-saga-patterns-with-choreography-and-orchestration-4an9)
+- [5 Signs Your Nonprofit Needs Case Management Software](https://dev.to/alex_ferguson/5-signs-your-nonprofit-needs-case-management-software-163i)
+- [2661. First Completely Painted Row or Column](https://dev.to/mdarifulhaque/2661-first-completely-painted-row-or-column-22gc)
+- [Script Correct AI Text Corrector](https://dev.to/tagada216/script-correct-ai-text-corrector-38l7)
 <!-- BLOG-POST-LIST:END -->
 
