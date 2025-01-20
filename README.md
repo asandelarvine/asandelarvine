@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💰 This Is How to Make Extra Cash Without Breaking a Sweat](https://dev.to/0x5a_live/this-is-how-to-make-extra-cash-without-breaking-a-sweat-5gdj)
-- [🚀 How I Built TicketiHub: A Seamless Event Management and Ticketing Platform🚀](https://dev.to/theoddysey/how-i-built-ticketihub-a-seamless-event-management-and-ticketing-platform-3ooh)
-- [[Boost]](https://dev.to/meshack_commey/-2365)
-- [12 Simple Lessons for Developers and Founders](https://dev.to/0x2e_tech/12-simple-lessons-for-developers-and-founders-5egc)
+- [Windows 11 Update Information: What&#39;s New and Improved](https://dev.to/pushpak_chaudhari_b4083aa/windows-11-update-information-whats-new-and-improved-31h8)
+- [How to Create a Launcher for Your AppImage on Linux](https://dev.to/lovestaco/how-to-create-a-launcher-for-your-appimage-on-linux-mc3)
+- [What is AWS Security Essentials? A Comprehensive Guide](https://dev.to/skillboosttrainer/what-is-aws-security-essentials-a-comprehensive-guide-47c3)
+- [Building with TypeScript: A Lego-Based Guide](https://dev.to/nerajno/building-with-typescript-a-lego-based-guide-194k)
 <!-- BLOG-POST-LIST:END -->
 
