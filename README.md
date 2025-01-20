@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for Fintech](https://dev.to/bhagvank/python-for-fintech-ab1)
-- [Pass By Value vs. Pass By Reference, Does It Matter?](https://dev.to/chukwuma1976/pass-by-value-vs-pass-by-reference-does-it-matter-1cho)
-- [AdSense Revenue Crisis: Chrome&#39;s Cookie Changes Spark Widespread Earnings Collapse](https://dev.to/developerbishwas/adsense-revenue-crisis-chromes-cookie-changes-spark-widespread-earnings-collapse-hb4)
-- [Web Developers: Help Shape the Future of Accessibility Tools](https://dev.to/yoav_nov/web-developers-help-shape-the-future-of-accessibility-tools-1309)
+- [A Frontend Developer’s Guide to the Essentials](https://dev.to/golsaesk/a-frontend-developers-guide-to-the-essentials-11j7)
+- [[Boost]](https://dev.to/leamsigc/-49bm)
+- [After Effects: The Modulo Operator &lpar;%&rpar;](https://dev.to/kocreative/after-effects-using-the-modulo-operator-in-motion-graphics-expressions-to-make-digital-and-45lj)
+- [Integración de Salesforce, Node.js y React: Una Guía Paso a Paso](https://dev.to/javiernicolasadan/integracion-de-salesforce-nodejs-y-react-una-guia-paso-a-paso-nl7)
 <!-- BLOG-POST-LIST:END -->
 
