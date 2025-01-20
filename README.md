@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET terminal komandalari](https://dev.to/madina1575/net-terminal-komandalari-2jh2)
-- [Progress Report: First Half of My Outreachy Internship](https://dev.to/0xfaker/progress-report-first-half-of-my-outreachy-internship-3n8n)
-- [IL &lpar;Intermediate Language&rpar;](https://dev.to/madina1575/il-intermediate-language-bjh)
-- [Design Patterns Serie — Structural Chapter: Proxy Pattern](https://dev.to/bryam_vega_487231d2d7c62e/design-patterns-serie-structural-chapter-proxy-pattern-ji0)
+- [A Practical Guide to Using ReactJS with Inertia.js 2 and Laravel 11](https://dev.to/thefeqy/a-practical-guide-to-using-reactjs-with-inertiajs-2-and-laravel-11-4adc)
+- [CES 2025 was an AI-powered fever dream…](https://dev.to/fabianfrankwerner/ces-2025-was-an-ai-powered-fever-dream-3djd)
+- [Nvidia just changed computing forever…](https://dev.to/fabianfrankwerner/nvidia-just-changed-computing-forever-4hpc)
+- [Embracing Zoneless in Angular: A New Era of Change Detection](https://dev.to/houdass/embracing-zoneless-in-angular-a-new-era-of-change-detection-53hj)
 <!-- BLOG-POST-LIST:END -->
 
