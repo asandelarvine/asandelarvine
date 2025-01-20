@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubero vs Coolify](https://dev.to/shoksuno/kubero-vs-coolify-3po0)
-- [Explanation on Operator](https://dev.to/arikeade123/explanation-on-operator-402g)
-- [AI Coding isn&#39;t just replacing developers](https://dev.to/thisisfinedev/ai-coding-isnt-just-replacing-developers-3481)
-- [Memanfaatkan Promise.all&lpar;&rpar;](https://dev.to/hadihammurabi/memanfaatkan-promiseall-46ob)
+- [Effective Strategies for Anonymous Website Visitor Identification and Tracking](https://dev.to/kapusto/identifying-and-understanding-anonymous-website-visitors-a-comprehensive-guide-3mm2)
+- [Automatically commit by AI in Visual Studio](https://dev.to/mirajhad/automatically-commit-by-ai-in-visual-studio-3hjg)
+- [Just updated the list of real open-source Angular projects I found](https://dev.to/ovidiu141/just-updated-the-list-of-real-open-source-angular-projects-i-found-313)
+- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-1o5d)
 <!-- BLOG-POST-LIST:END -->
 
