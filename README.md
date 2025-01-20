@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Frontend Developer’s Guide to the Essentials](https://dev.to/golsaesk/a-frontend-developers-guide-to-the-essentials-11j7)
-- [[Boost]](https://dev.to/leamsigc/-49bm)
-- [After Effects: The Modulo Operator &lpar;%&rpar;](https://dev.to/kocreative/after-effects-using-the-modulo-operator-in-motion-graphics-expressions-to-make-digital-and-45lj)
-- [Integración de Salesforce, Node.js y React: Una Guía Paso a Paso](https://dev.to/javiernicolasadan/integracion-de-salesforce-nodejs-y-react-una-guia-paso-a-paso-nl7)
+- [💰 This Is How to Make Extra Cash Without Breaking a Sweat](https://dev.to/0x5a_live/this-is-how-to-make-extra-cash-without-breaking-a-sweat-5gdj)
+- [🚀 How I Built TicketiHub: A Seamless Event Management and Ticketing Platform🚀](https://dev.to/theoddysey/how-i-built-ticketihub-a-seamless-event-management-and-ticketing-platform-3ooh)
+- [[Boost]](https://dev.to/meshack_commey/-2365)
+- [12 Simple Lessons for Developers and Founders](https://dev.to/0x2e_tech/12-simple-lessons-for-developers-and-founders-5egc)
 <!-- BLOG-POST-LIST:END -->
 
