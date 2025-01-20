@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi WASM/Rust devlog #4](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-4-3acd)
-- [Diverse AI tools used for the C# developer](https://dev.to/karenpayneoregon/diverse-ai-tools-used-for-the-c-developer-4981)
-- [Live Resume: Take your resume online on github pages](https://dev.to/hithesh_reddivari_b646cd8/live-resume-take-your-resume-online-on-github-pages-4o5h)
-- [LifeTrackr 2025: A New Beginnings minimal visual focused app with GitHub Copilot](https://dev.to/hidde38967103/lifetrackr-2025-a-new-beginnings-minimal-visual-focused-app-with-github-copilot-1kl4)
+- [HTML Updates](https://dev.to/atombrown/html-updates-3ab7)
+- [What is Ruby?](https://dev.to/wlegard/what-is-ruby-5287)
+- [How to Convert Audible AAX Files to MP3 for Free](https://dev.to/documendous/how-to-convert-audible-aax-files-to-mp3-for-free-p20)
+- [Building Mindful Journal: How AI and GitHub Copilot Empowered My One-Day Productivity App](https://dev.to/ifihan/building-mindful-journal-how-ai-and-github-copilot-empowered-my-one-day-productivity-app-3348)
 <!-- BLOG-POST-LIST:END -->
 
