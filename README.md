@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector search using Alibaba Cloud infererence API and semantic text](https://dev.to/a_lucas/vector-search-using-alibaba-cloud-infererence-api-and-semantic-text-26og)
-- [AWS CDK Validation in Python](https://dev.to/krzyslow/aws-cdk-validation-in-python-4d5i)
-- [Understanding Docker: part 48 – Docker Compose Lifecycle hooks](https://dev.to/aurelievache/understanding-docker-part-48-docker-compose-lifecycle-hooks-64n)
-- [&quot;Transforming Education: Unveiling the Impact of Social Determinants and AI Ontology&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/transforming-education-unveiling-the-impact-of-social-determinants-and-ai-ontology-jfg)
+- [🚀 Master Next.js 15 Like a Pro: Your Ultimate Guide to Modern Web Development!](https://dev.to/myogeshchavan97/master-nextjs-15-like-a-pro-your-ultimate-guide-to-modern-web-development-4ee)
+- [How to detect touch devices using browser media queries](https://dev.to/morewings/how-to-detect-touch-devices-using-browser-media-queries-1kbm)
+- [Compression algorithms in Parquet Java](https://dev.to/jerolba/compression-algorithms-in-parquet-java-4kec)
+- [Simple Git and GitHub Commands for Beginners](https://dev.to/mahmud-r-farhan/simple-git-and-github-commands-for-beginners-42hf)
 <!-- BLOG-POST-LIST:END -->
 
