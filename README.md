@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [XAMPP Alternative in Mac for Mysql](https://dev.to/shield8994/xampp-alternative-in-mac-for-mysql-55l1)
+- [Life in Dots: A Visual Journey of Time and Transformation](https://dev.to/josectoscano/life-in-dots-a-visual-journey-of-time-and-transformation-118c)
+- [NextStep: Habit Tracker Built with GitHub Copilot](https://dev.to/mirfanhassan/nextstep-habit-tracker-built-with-github-copilot-313)
 - [New Beginnings Personal Growth Productivity Tool](https://dev.to/cvipuls/new-beginnings-personal-growth-productivity-tool-344e)
-- [Use Selenium and proxy IP to easily crawl dynamic page information](https://dev.to/98ip/use-selenium-and-proxy-ip-to-easily-crawl-dynamic-page-information-1mk5)
-- [How to Make HTTP Requests in Node.js with Node-Fetch API?](https://dev.to/scraper0024/how-to-make-http-requests-in-nodejs-with-node-fetch-api-i19)
-- [A Comprehensive Introduction to Understanding the Core Elements of Solar Technology](https://dev.to/dogcloth5/a-comprehensive-introduction-to-understanding-the-core-elements-of-solar-technology-1j5)
 <!-- BLOG-POST-LIST:END -->
 
