@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Using ReactJS with Inertia.js 2 and Laravel 11](https://dev.to/thefeqy/a-practical-guide-to-using-reactjs-with-inertiajs-2-and-laravel-11-4adc)
-- [CES 2025 was an AI-powered fever dream…](https://dev.to/fabianfrankwerner/ces-2025-was-an-ai-powered-fever-dream-3djd)
-- [Nvidia just changed computing forever…](https://dev.to/fabianfrankwerner/nvidia-just-changed-computing-forever-4hpc)
-- [Embracing Zoneless in Angular: A New Era of Change Detection](https://dev.to/houdass/embracing-zoneless-in-angular-a-new-era-of-change-detection-53hj)
+- [Building a Board Game with React: Lessons Learned](https://dev.to/rasyidf/building-a-board-game-with-react-lessons-learned-3ajh)
+- [Goose Retro’ing and Debugging 2024](https://dev.to/sergo/goose-retroing-and-debugging-2024-2jk1)
+- [UX Writing Challenge Day 15: Mastering Microcopy for Better User Engagement](https://dev.to/jds64/ux-writing-challenge-day-15-mastering-microcopy-for-better-user-engagement-1omj)
+- [Implementation of jaxb-api has not been found on module path or classpath. Error Solution](https://dev.to/mehmetakar/implementation-of-jaxb-api-has-not-been-found-on-module-path-or-classpath-4mmh)
 <!-- BLOG-POST-LIST:END -->
 
