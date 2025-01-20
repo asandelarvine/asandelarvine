@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Binge-Watching to Brain-Boosting: Optimizing YouTube for Learning](https://dev.to/mahyar_rezghi/from-binge-watching-to-brain-boosting-optimizing-youtube-for-learning-59nn)
-- [.NET versiyalari](https://dev.to/madina1575/net-versiyalari-4cch)
-- [Convergence of Blockchain and AI: A New Era of Innovation](https://dev.to/lightbeam888/convergence-of-blockchain-and-ai-a-new-era-of-innovation-50e6)
-- [Rethink Software](https://dev.to/ourai/rethink-software-5a5m)
+- [.NET terminal komandalari](https://dev.to/madina1575/net-terminal-komandalari-2jh2)
+- [Progress Report: First Half of My Outreachy Internship](https://dev.to/0xfaker/progress-report-first-half-of-my-outreachy-internship-3n8n)
+- [IL &lpar;Intermediate Language&rpar;](https://dev.to/madina1575/il-intermediate-language-bjh)
+- [Design Patterns Serie — Structural Chapter: Proxy Pattern](https://dev.to/bryam_vega_487231d2d7c62e/design-patterns-serie-structural-chapter-proxy-pattern-ji0)
 <!-- BLOG-POST-LIST:END -->
 
