@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does Editing CSV Files Always Feel So Difficult?](https://dev.to/cedric_bonjour/why-does-editing-csv-files-always-feel-so-difficult-1hmh)
-- [Python Basics: Data Types &amp; Control Flow](https://dev.to/godofgeeks/python-basics-data-types-control-flow-8ff)
-- [Let&#39;s Talk About Power Platform Previews](https://dev.to/wyattdave/lets-talk-about-power-platform-previews-58ne)
-- [Docker Multi-Container Deployment with GitHub Actions in Laravel](https://dev.to/devmahfuz/docker-multi-container-docker-multi-container-deployment-with-github-actions-1jko)
+- [Vector search using Alibaba Cloud infererence API and semantic text](https://dev.to/a_lucas/vector-search-using-alibaba-cloud-infererence-api-and-semantic-text-26og)
+- [AWS CDK Validation in Python](https://dev.to/krzyslow/aws-cdk-validation-in-python-4d5i)
+- [Understanding Docker: part 48 – Docker Compose Lifecycle hooks](https://dev.to/aurelievache/understanding-docker-part-48-docker-compose-lifecycle-hooks-64n)
+- [&quot;Transforming Education: Unveiling the Impact of Social Determinants and AI Ontology&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/transforming-education-unveiling-the-impact-of-social-determinants-and-ai-ontology-jfg)
 <!-- BLOG-POST-LIST:END -->
 
