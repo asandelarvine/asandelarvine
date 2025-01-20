@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hemath923604/-6f9)
-- [[Boost]](https://dev.to/akshaybond30160/-3h9i)
-- [The Only 20 VS Code Extensions Web Developers Will Need in 2025](https://dev.to/web_dev-usman/the-only-20-vs-code-extensions-web-developers-will-need-in-2025-5a02)
-- [StyleSpark: Analyzing and Matching Code to Iconic Programming Styles using GitHub Actions](https://dev.to/mrmemory/stylespark-analyzing-and-matching-code-to-iconic-programming-styles-using-github-actions-14mh)
+- [AI Tools for Developers in 2025](https://dev.to/boorge/ai-tools-for-developers-in-2025-29i8)
+- [Stay ahead in web development: latest news, tools, and insights #68](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-68-2hpd)
+- [Configuring Virtual Network Peering in Azure](https://dev.to/willvelida/configuring-virtual-network-peering-in-azure-46jf)
+- [Microsoft Certifications: Unlock Your Path to Tech Success](https://dev.to/educ4te/microsoft-certifications-unlock-your-path-to-tech-success-kd9)
 <!-- BLOG-POST-LIST:END -->
 
