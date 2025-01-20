@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Master Next.js 15 Like a Pro: Your Ultimate Guide to Modern Web Development!](https://dev.to/myogeshchavan97/master-nextjs-15-like-a-pro-your-ultimate-guide-to-modern-web-development-4ee)
-- [How to detect touch devices using browser media queries](https://dev.to/morewings/how-to-detect-touch-devices-using-browser-media-queries-1kbm)
-- [Compression algorithms in Parquet Java](https://dev.to/jerolba/compression-algorithms-in-parquet-java-4kec)
-- [Simple Git and GitHub Commands for Beginners](https://dev.to/mahmud-r-farhan/simple-git-and-github-commands-for-beginners-42hf)
+- [Python for Fintech](https://dev.to/bhagvank/python-for-fintech-ab1)
+- [Pass By Value vs. Pass By Reference, Does It Matter?](https://dev.to/chukwuma1976/pass-by-value-vs-pass-by-reference-does-it-matter-1cho)
+- [AdSense Revenue Crisis: Chrome&#39;s Cookie Changes Spark Widespread Earnings Collapse](https://dev.to/developerbishwas/adsense-revenue-crisis-chromes-cookie-changes-spark-widespread-earnings-collapse-hb4)
+- [Web Developers: Help Shape the Future of Accessibility Tools](https://dev.to/yoav_nov/web-developers-help-shape-the-future-of-accessibility-tools-1309)
 <!-- BLOG-POST-LIST:END -->
 
