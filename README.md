@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools for Developers in 2025](https://dev.to/boorge/ai-tools-for-developers-in-2025-29i8)
-- [Stay ahead in web development: latest news, tools, and insights #68](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-68-2hpd)
-- [Configuring Virtual Network Peering in Azure](https://dev.to/willvelida/configuring-virtual-network-peering-in-azure-46jf)
-- [Microsoft Certifications: Unlock Your Path to Tech Success](https://dev.to/educ4te/microsoft-certifications-unlock-your-path-to-tech-success-kd9)
+- [Why Does Editing CSV Files Always Feel So Difficult?](https://dev.to/cedric_bonjour/why-does-editing-csv-files-always-feel-so-difficult-1hmh)
+- [Python Basics: Data Types &amp; Control Flow](https://dev.to/godofgeeks/python-basics-data-types-control-flow-8ff)
+- [Let&#39;s Talk About Power Platform Previews](https://dev.to/wyattdave/lets-talk-about-power-platform-previews-58ne)
+- [Docker Multi-Container Deployment with GitHub Actions in Laravel](https://dev.to/devmahfuz/docker-multi-container-docker-multi-container-deployment-with-github-actions-1jko)
 <!-- BLOG-POST-LIST:END -->
 
