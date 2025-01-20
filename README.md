@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master TypeScript with These Essential Concepts](https://dev.to/princekukreja/master-typescript-with-these-essential-concepts-41g1)
-- [Shift Left Meets Kafka: Testing Event-Driven Microservices](https://dev.to/signadot/shift-left-meets-kafka-testing-event-driven-microservices-20f1)
-- [Using Android to stream to Twitch. Part 1. Securing a Socket](https://dev.to/theplebdev/using-android-to-stream-to-twitch-part-1-securing-a-socket-2pjc)
-- [What you know about Compiler &amp; Interpreter](https://dev.to/spartacus/what-you-know-about-compiler-interpreter-17d5)
+- [Kubero vs Coolify](https://dev.to/shoksuno/kubero-vs-coolify-3po0)
+- [Explanation on Operator](https://dev.to/arikeade123/explanation-on-operator-402g)
+- [AI Coding isn&#39;t just replacing developers](https://dev.to/thisisfinedev/ai-coding-isnt-just-replacing-developers-3481)
+- [Memanfaatkan Promise.all&lpar;&rpar;](https://dev.to/hadihammurabi/memanfaatkan-promiseall-46ob)
 <!-- BLOG-POST-LIST:END -->
 
