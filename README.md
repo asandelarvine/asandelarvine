@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Overengineer a Website like a true professional?](https://dev.to/web_dev-usman/how-to-overengineer-a-website-like-a-true-professional-35ia)
-- [Anonymity in Blockchain Development: Pros and Cons for Developers](https://dev.to/klimd1389/anonymity-in-blockchain-development-pros-and-cons-for-developers-1k82)
-- [Open Source Software Weaknesses – And a Possible Solution](https://dev.to/sergey_ilyevsky_4fb6e3281/open-source-software-weaknesses-and-a-possible-solution-27p5)
-- [No Spikes](https://dev.to/markblandford/no-spikes-547m)
+- [Best Tech Stacks Every Developer Should Know: A Comprehensive Guide](https://dev.to/apilover/best-tech-stacks-every-developer-should-know-a-comprehensive-guide-1pf5)
+- [What is Virtual DOM in React.js](https://dev.to/kristiyanvelkov/what-is-virtual-dom-in-reactjs-58md)
+- [#134 — Convert Row-Based Table to Crosstab](https://dev.to/judith677/134-convert-row-based-table-to-crosstab-19j9)
+- [Daily HR News and Insights](https://dev.to/vdaubry/daily-hr-news-and-insights-2np8)
 <!-- BLOG-POST-LIST:END -->
 
