@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The best Javascript library for structured logging](https://dev.to/theogravity/the-best-javascript-library-for-structured-logging-3m2f)
-- [The Daily UI 100-Day Design Challenge: A Journey to Enhance Your UI Skills](https://dev.to/jds64/the-daily-ui-100-day-design-challenge-a-journey-to-enhance-your-ui-skills-41e5)
-- [How to Fix Weak TLS/SSL Configuration in Laravel](https://dev.to/pentest_testing_corp/how-to-fix-weak-tlsssl-configuration-in-laravel-p9n)
-- [How to Configure SSH for GitHub Authentication on Windows](https://dev.to/jajera/how-to-configure-ssh-for-github-authentication-on-windows-34k9)
+- [Setup a multi-node K3s setup with HA capable egress](https://dev.to/trekkiecoder/setup-a-multi-node-k3s-setup-with-ha-capable-egress-1h4m)
+- [AI-Powered Smart Contracts: The Future Of Automated Decision-Making](https://dev.to/rahul_chandel_aff38e56755/ai-powered-smart-contracts-the-future-of-automated-decision-making-5an2)
+- [Rusty Backends](https://dev.to/ipt/rusty-backends-3551)
+- [Day 5: Python Lists Demystified: Tips, Tricks, and Best Practices](https://dev.to/praneeth_647b9830399cd2b7/day-5-python-lists-demystified-tips-tricks-and-best-practices-4mn3)
 <!-- BLOG-POST-LIST:END -->
 
