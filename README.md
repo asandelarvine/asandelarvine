@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[!] CocoaPods could not find compatible versions for pod](https://dev.to/matthewzruiz/-cocoapods-could-not-find-compatible-versions-for-pod-27g)
-- [How to Troubleshoot a Failed Re-creation of Google Cloud Certificate Manager Resources with Terraform](https://dev.to/nomi3/how-to-troubleshoot-a-failed-re-creation-of-google-cloud-certificate-manager-resources-with-fok)
-- [Surprising side effect of running EKS Auto Mode](https://dev.to/vijaykodam/surprising-side-effect-of-running-eks-auto-mode-3oj8)
-- [useMemo in ReactJs](https://dev.to/sajakshrestha8/usememo-in-reactjs-449)
+- [Top 9 Free Resources to Learn Programming Online](https://dev.to/tarunfulera1/top-9-free-resources-to-learn-programming-online-1kl2)
+- [Form management](https://dev.to/pedroguilhermefariaduarte/form-management-3ni)
+- [&quot;Transforming Education: The Power of Social Determinants and AI Collaboration&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/transforming-education-the-power-of-social-determinants-and-ai-collaboration-51n9)
+- [Building a REST API with Golang, Gin, and Pocketbase](https://dev.to/rowjay007/building-a-rest-api-with-golang-gin-and-pocketbase-8o3)
 <!-- BLOG-POST-LIST:END -->
 
