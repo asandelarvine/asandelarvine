@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a multi-node K3s setup with HA capable egress](https://dev.to/trekkiecoder/setup-a-multi-node-k3s-setup-with-ha-capable-egress-1h4m)
-- [AI-Powered Smart Contracts: The Future Of Automated Decision-Making](https://dev.to/rahul_chandel_aff38e56755/ai-powered-smart-contracts-the-future-of-automated-decision-making-5an2)
-- [Rusty Backends](https://dev.to/ipt/rusty-backends-3551)
-- [Day 5: Python Lists Demystified: Tips, Tricks, and Best Practices](https://dev.to/praneeth_647b9830399cd2b7/day-5-python-lists-demystified-tips-tricks-and-best-practices-4mn3)
+- [Run PySpark Local Python Windows Notebook](https://dev.to/chuongmep/run-pyspark-local-python-windows-notebook-ngg)
+- [Private API Gateway as EventBridge API Destination](https://dev.to/aws-builders/private-api-gateway-as-eventbridge-api-destination-1aok)
+- [API Gateway as Websocket](https://dev.to/amitkayal/api-gateway-as-websocket-5eee)
+- [Why Choosing the Right MVP Software Development Company is Crucial for Startup Success in 2025](https://dev.to/jetthoughts/why-choosing-the-right-mvp-software-development-company-is-crucial-for-startup-success-in-2025-52k0)
 <!-- BLOG-POST-LIST:END -->
 
