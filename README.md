@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥We build HMPL to help developers make web apps smaller 📂 in size](https://dev.to/anthonymax/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-62b)
-- [Bash, Fish, and Zsh: Choosing Your Shell](https://dev.to/brunociccarino/bash-fish-and-zsh-choosing-your-shell-2ng7)
-- [Building a Random Quotes Generator: A Step-by-Step Guide with Code](https://dev.to/devendranm/building-a-random-quotes-generator-a-step-by-step-guide-with-code-o8c)
-- [Securing Your Next.js Application: The Basic Defenders &lpar;Security Headers&rpar;](https://dev.to/simplr_sh/securing-your-nextjs-application-the-basic-defenders-security-headers-o31)
+- [Sociable Unit Test simplified](https://dev.to/wbauweraerts/sociable-unit-test-simplified-20bp)
+- [Top 7 Headless UI Libraries for React Developers](https://dev.to/joodi/top-6-headless-ui-libraries-for-react-developers-3mfi)
+- [C++ 11th code&lpar;cmath--&gt;abs&rpar;](https://dev.to/md-salah/c-11th-codecmath-abs-3j34)
+- [Let’s Build a Color Code Converter With React Together!](https://dev.to/aulneia_voen_d34e417adb55/lets-build-a-color-code-converter-with-react-together-4nb6)
 <!-- BLOG-POST-LIST:END -->
 
