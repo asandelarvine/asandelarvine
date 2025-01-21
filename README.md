@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing RBAC in Kubernetes: A Real-World Example](https://dev.to/naresh_maharaj_c4b8fbd4aa/implementing-rbac-in-kubernetes-a-real-world-example-4die)
-- [Building an AI Agent Is Easy! Here’s Proof..](https://dev.to/bartohm/building-an-ai-agent-is-easy-heres-proof-2j3l)
-- [How Programming Will Look In the Future?](https://dev.to/emil14/how-programming-will-look-in-the-future-5bj4)
-- [SEO for Next.js Developers: A Complete Beginner&#39;s Guide](https://dev.to/dannypreye/seo-for-nextjs-developers-a-complete-beginners-guide-5cmm)
+- [Do you wonder what the future of web frameworks will look like? Let&#39;s imagine it together!](https://dev.to/jvzaniolo/do-you-wonder-what-the-future-of-web-frameworks-will-look-like-lets-imagine-it-together-edg)
+- [Web Frameworks: The Future](https://dev.to/jvzaniolo/web-frameworks-the-future-1bp9)
+- [Understanding Cron: Automating Tasks in Linux](https://dev.to/_russell/understanding-cron-automating-tasks-in-linux-54lp)
+- [Measure of center. What is this dataset&#39;s typical behavior?](https://dev.to/jeornee/measure-of-center-what-is-this-datasets-typical-behavior-4kfa)
 <!-- BLOG-POST-LIST:END -->
 
