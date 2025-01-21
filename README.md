@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run PySpark Local Python Windows Notebook](https://dev.to/chuongmep/run-pyspark-local-python-windows-notebook-ngg)
-- [Private API Gateway as EventBridge API Destination](https://dev.to/aws-builders/private-api-gateway-as-eventbridge-api-destination-1aok)
-- [API Gateway as Websocket](https://dev.to/amitkayal/api-gateway-as-websocket-5eee)
-- [Why Choosing the Right MVP Software Development Company is Crucial for Startup Success in 2025](https://dev.to/jetthoughts/why-choosing-the-right-mvp-software-development-company-is-crucial-for-startup-success-in-2025-52k0)
+- [How to Overengineer a Website like a true professional?](https://dev.to/web_dev-usman/how-to-overengineer-a-website-like-a-true-professional-35ia)
+- [Anonymity in Blockchain Development: Pros and Cons for Developers](https://dev.to/klimd1389/anonymity-in-blockchain-development-pros-and-cons-for-developers-1k82)
+- [Open Source Software Weaknesses – And a Possible Solution](https://dev.to/sergey_ilyevsky_4fb6e3281/open-source-software-weaknesses-and-a-possible-solution-27p5)
+- [No Spikes](https://dev.to/markblandford/no-spikes-547m)
 <!-- BLOG-POST-LIST:END -->
 
