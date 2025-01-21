@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Tech Stacks Every Developer Should Know: A Comprehensive Guide](https://dev.to/apilover/best-tech-stacks-every-developer-should-know-a-comprehensive-guide-1pf5)
-- [What is Virtual DOM in React.js](https://dev.to/kristiyanvelkov/what-is-virtual-dom-in-reactjs-58md)
-- [#134 — Convert Row-Based Table to Crosstab](https://dev.to/judith677/134-convert-row-based-table-to-crosstab-19j9)
-- [Daily HR News and Insights](https://dev.to/vdaubry/daily-hr-news-and-insights-2np8)
+- [How to create a website on your own for free. A detailed guide for beginners](https://dev.to/ispmanager/how-to-create-a-website-on-your-own-for-free-a-detailed-guide-for-beginners-454n)
+- [🎯VS Code Editor Shortcuts So Good, They’ll Make Your Mouse Jealous 🖱️💔](https://dev.to/sudo_091/vs-code-editor-shortcuts-so-good-theyll-make-your-mouse-jealous-42c5)
+- [Mastering Multi-Screen Presentations: A Technical Guide for Modern Event Professionals](https://dev.to/anju_sainircon_1677aa2/mastering-multi-screen-presentations-a-technical-guide-for-modern-event-professionals-1ajo)
+- [Cultiver des amitiés au travail : La clé pour améliorer le bien-être et l&#39;engagement des employés](https://dev.to/vdaubry/cultiver-des-amities-au-travail-la-cle-pour-ameliorer-le-bien-etre-et-lengagement-des-employes-5c32)
 <!-- BLOG-POST-LIST:END -->
 
