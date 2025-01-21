@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Entra Connect Sync: Bridging On-Premises and Cloud Identity Systems](https://dev.to/kapusto/microsoft-entra-connect-sync-bridging-on-premises-and-cloud-identity-systems-23o1)
-- [JavaScript Array Methods, Under the Hood &lpar;Part 1/2&rpar;](https://dev.to/egroene/javascript-array-methods-under-the-hood-part-12-257g)
-- [Clean Coder not only codes - it manages whole project by it own](https://dev.to/grigorij_dudnik/clean-coder-not-only-codes-it-manages-whole-project-by-it-own-g9j)
-- [“It Happened: My Immersive Journey at DevFest 2024 — A Blend of Innovation and Inspiration”](https://dev.to/saumya_pratapsingh_b79df/it-happened-my-immersive-journey-at-devfest-2024-a-blend-of-innovation-and-inspiration-1heg)
+- [LearnQuest – Your Gamified Learning Companion 🎮📚](https://dev.to/timotej_avsec/learnquest-your-gamified-learning-companion-1203)
+- [7 little-known code editors that deserve your attention 🤖](https://dev.to/gilles_vauvarin_861cefba1/7-little-known-code-editors-that-deserve-your-attention-40g1)
+- [Just One More Feature: The Silent Killer of Projects](https://dev.to/hotfixhero/just-one-more-feature-the-silent-killer-of-projects-5gj3)
+- [Automating Python Code Linting with GitHub Actions](https://dev.to/namanvashistha/automating-python-code-linting-with-github-actions-1p6f)
 <!-- BLOG-POST-LIST:END -->
 
