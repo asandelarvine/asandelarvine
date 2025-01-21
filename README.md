@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [800+ Free Template Websites Every Developer Should Know](https://dev.to/justin3go/800-free-template-websites-every-developer-should-know-de7)
-- [Migrating CloudFormation to TF](https://dev.to/aws-builders/migrating-cloudformation-to-tf-bo9)
-- [Organizing Playwright Tests Effectively](https://dev.to/debs_obrien/organizing-playwright-tests-effectively-2hi0)
-- [The Tech Stack for Building AI Apps in 2025](https://dev.to/copilotkit/the-tech-stack-for-building-ai-apps-in-2025-12l9)
+- [[!] CocoaPods could not find compatible versions for pod](https://dev.to/matthewzruiz/-cocoapods-could-not-find-compatible-versions-for-pod-27g)
+- [How to Troubleshoot a Failed Re-creation of Google Cloud Certificate Manager Resources with Terraform](https://dev.to/nomi3/how-to-troubleshoot-a-failed-re-creation-of-google-cloud-certificate-manager-resources-with-fok)
+- [Surprising side effect of running EKS Auto Mode](https://dev.to/vijaykodam/surprising-side-effect-of-running-eks-auto-mode-3oj8)
+- [useMemo in ReactJs](https://dev.to/sajakshrestha8/usememo-in-reactjs-449)
 <!-- BLOG-POST-LIST:END -->
 
