@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 21 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-january-1bfp)
-- [Webship-js: When I wait](https://dev.to/webshipco/webship-js-when-i-wait-3flm)
-- [Behind the Scenes: Key takeaways from our Smart India Hackathon 2024 experience.](https://dev.to/macroandmicro/behind-the-scenes-key-takeaways-from-our-smart-india-hackathon-2024-experience-5glc)
-- [How to Connect to Windows Server on an Android Device via RDP in 2022?](https://dev.to/davidjonson/how-to-connect-to-windows-server-on-an-android-device-via-rdp-in-2022-5doc)
+- [JavaScript Basics: Your First Step Into Web Development](https://dev.to/majeedatwahab/javascript-basics-your-first-step-into-web-development-5l2)
+- [Design Patterns #1: Strategy – A Different Perspective.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98)
+- [What Is Privileged Access Management &lpar;PAM&rpar;?](https://dev.to/clouddefenseai/what-is-privileged-access-management-pam-5ccd)
+- [2024 Annual Summary](https://dev.to/ryan_zhi/2024-annual-summary-2881)
 <!-- BLOG-POST-LIST:END -->
 
