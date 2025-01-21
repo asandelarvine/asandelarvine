@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LearnQuest – Your Gamified Learning Companion 🎮📚](https://dev.to/timotej_avsec/learnquest-your-gamified-learning-companion-1203)
-- [7 little-known code editors that deserve your attention 🤖](https://dev.to/gilles_vauvarin_861cefba1/7-little-known-code-editors-that-deserve-your-attention-40g1)
-- [Just One More Feature: The Silent Killer of Projects](https://dev.to/hotfixhero/just-one-more-feature-the-silent-killer-of-projects-5gj3)
-- [Automating Python Code Linting with GitHub Actions](https://dev.to/namanvashistha/automating-python-code-linting-with-github-actions-1p6f)
+- [🔥We build HMPL to help developers make web apps smaller 📂 in size](https://dev.to/anthonymax/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-62b)
+- [Bash, Fish, and Zsh: Choosing Your Shell](https://dev.to/brunociccarino/bash-fish-and-zsh-choosing-your-shell-2ng7)
+- [Building a Random Quotes Generator: A Step-by-Step Guide with Code](https://dev.to/devendranm/building-a-random-quotes-generator-a-step-by-step-guide-with-code-o8c)
+- [Securing Your Next.js Application: The Basic Defenders &lpar;Security Headers&rpar;](https://dev.to/simplr_sh/securing-your-nextjs-application-the-basic-defenders-security-headers-o31)
 <!-- BLOG-POST-LIST:END -->
 
