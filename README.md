@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lo mejor de la comunidad son las personas](https://dev.to/barbara_gaspar/lo-mejor-de-la-comunidad-son-las-personas-2101)
-- [Human Factors in Software Production Part 1](https://dev.to/ourai/human-factors-in-software-production-part-1-59kf)
-- [Server Actions in React with Next.js: A Beginner&#39;s Guide](https://dev.to/ivmarcos/server-actions-in-react-with-nextjs-a-beginners-guide-4j12)
-- [C++12 code&lpar;nested if --&gt;Max number &rpar;](https://dev.to/md-salah/c12-codenested-if-max-number--4d73)
+- [Implementing RBAC in Kubernetes: A Real-World Example](https://dev.to/naresh_maharaj_c4b8fbd4aa/implementing-rbac-in-kubernetes-a-real-world-example-4die)
+- [Building an AI Agent Is Easy! Here’s Proof..](https://dev.to/bartohm/building-an-ai-agent-is-easy-heres-proof-2j3l)
+- [How Programming Will Look In the Future?](https://dev.to/emil14/how-programming-will-look-in-the-future-5bj4)
+- [SEO for Next.js Developers: A Complete Beginner&#39;s Guide](https://dev.to/dannypreye/seo-for-nextjs-developers-a-complete-beginners-guide-5cmm)
 <!-- BLOG-POST-LIST:END -->
 
