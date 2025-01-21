@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C language from 0](https://dev.to/sbre/c-language-from-0-1k37)
-- [Test Automation: Revolutionizing Software Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-revolutionizing-software-quality-assurance-8ik)
-- [📰 Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution](https://dev.to/d_thiranjaya_6d3ec4552111/planet-wgs-804hpt-industrial-switch-flaws-could-be-chained-to-achieve-remote-code-execution-1f7m)
-- [Emergent Growth in Distributed Knowledge Networks](https://dev.to/d1d4c/emergent-growth-in-distributed-knowledge-networks-2f9f)
+- [2025 - Shopify Roadmap](https://dev.to/joseamayadev/2025-shopify-roadmap-ld9)
+- [Angular LAB: Preserving Component State Across Route Transitions](https://dev.to/this-is-angular/angular-lab-preserving-component-state-across-route-transitions-3f7j)
+- [Building a Web Crawler with Python: Extracting Data from Web Pages](https://dev.to/98ip/building-a-web-crawler-with-python-extracting-data-from-web-pages-2foi)
+- [2024 - Lecciones y más](https://dev.to/joseamayadev/2024-lecciones-y-mas-4d8f)
 <!-- BLOG-POST-LIST:END -->
 
