@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a website on your own for free. A detailed guide for beginners](https://dev.to/ispmanager/how-to-create-a-website-on-your-own-for-free-a-detailed-guide-for-beginners-454n)
-- [🎯VS Code Editor Shortcuts So Good, They’ll Make Your Mouse Jealous 🖱️💔](https://dev.to/sudo_091/vs-code-editor-shortcuts-so-good-theyll-make-your-mouse-jealous-42c5)
-- [Mastering Multi-Screen Presentations: A Technical Guide for Modern Event Professionals](https://dev.to/anju_sainircon_1677aa2/mastering-multi-screen-presentations-a-technical-guide-for-modern-event-professionals-1ajo)
-- [Cultiver des amitiés au travail : La clé pour améliorer le bien-être et l&#39;engagement des employés](https://dev.to/vdaubry/cultiver-des-amities-au-travail-la-cle-pour-ameliorer-le-bien-etre-et-lengagement-des-employes-5c32)
+- [🚀 Your Daily Crypto Job Digest For 21 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-january-1bfp)
+- [Webship-js: When I wait](https://dev.to/webshipco/webship-js-when-i-wait-3flm)
+- [Behind the Scenes: Key takeaways from our Smart India Hackathon 2024 experience.](https://dev.to/macroandmicro/behind-the-scenes-key-takeaways-from-our-smart-india-hackathon-2024-experience-5glc)
+- [How to Connect to Windows Server on an Android Device via RDP in 2022?](https://dev.to/davidjonson/how-to-connect-to-windows-server-on-an-android-device-via-rdp-in-2022-5doc)
 <!-- BLOG-POST-LIST:END -->
 
