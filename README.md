@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/baotranvu/-2i80)
-- [Choosing the Right Programming Language for your backend](https://dev.to/ezekiel_77/choosing-the-right-programming-language-for-your-backend-5d2)
-- [Working remotely effectively](https://dev.to/sinaptia_dev/working-remotely-effectively-a9f)
-- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-3ba2)
+- [Animated Footer w/ Float Icon using typescript and tailwind](https://dev.to/brokarim/animated-footer-w-float-icon-using-typescript-and-tailwind-1ioa)
+- [SPO600: First Lab](https://dev.to/amullagaliev/spo600-first-lab-3396)
+- [Sql basic command 2](https://dev.to/sachin841/sql-basic-command-2-5e3)
+- [Desbravando Go: Capítulo 2 – Estrutura dos Programas](https://dev.to/caio_rodriguesbackend/desbravando-go-capitulo-2-estrutura-dos-programas-530)
 <!-- BLOG-POST-LIST:END -->
 
