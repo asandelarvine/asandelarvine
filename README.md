@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 9 Free Resources to Learn Programming Online](https://dev.to/tarunfulera1/top-9-free-resources-to-learn-programming-online-1kl2)
-- [Form management](https://dev.to/pedroguilhermefariaduarte/form-management-3ni)
-- [&quot;Transforming Education: The Power of Social Determinants and AI Collaboration&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/transforming-education-the-power-of-social-determinants-and-ai-collaboration-51n9)
-- [Building a REST API with Golang, Gin, and Pocketbase](https://dev.to/rowjay007/building-a-rest-api-with-golang-gin-and-pocketbase-8o3)
+- [Microsoft Entra Connect Sync: Bridging On-Premises and Cloud Identity Systems](https://dev.to/kapusto/microsoft-entra-connect-sync-bridging-on-premises-and-cloud-identity-systems-23o1)
+- [JavaScript Array Methods, Under the Hood &lpar;Part 1/2&rpar;](https://dev.to/egroene/javascript-array-methods-under-the-hood-part-12-257g)
+- [Clean Coder not only codes - it manages whole project by it own](https://dev.to/grigorij_dudnik/clean-coder-not-only-codes-it-manages-whole-project-by-it-own-g9j)
+- [“It Happened: My Immersive Journey at DevFest 2024 — A Blend of Innovation and Inspiration”](https://dev.to/saumya_pratapsingh_b79df/it-happened-my-immersive-journey-at-devfest-2024-a-blend-of-innovation-and-inspiration-1heg)
 <!-- BLOG-POST-LIST:END -->
 
