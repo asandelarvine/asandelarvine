@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 - Shopify Roadmap](https://dev.to/joseamayadev/2025-shopify-roadmap-ld9)
-- [Angular LAB: Preserving Component State Across Route Transitions](https://dev.to/this-is-angular/angular-lab-preserving-component-state-across-route-transitions-3f7j)
-- [Building a Web Crawler with Python: Extracting Data from Web Pages](https://dev.to/98ip/building-a-web-crawler-with-python-extracting-data-from-web-pages-2foi)
-- [2024 - Lecciones y más](https://dev.to/joseamayadev/2024-lecciones-y-mas-4d8f)
+- [[Boost]](https://dev.to/baotranvu/-2i80)
+- [Choosing the Right Programming Language for your backend](https://dev.to/ezekiel_77/choosing-the-right-programming-language-for-your-backend-5d2)
+- [Working remotely effectively](https://dev.to/sinaptia_dev/working-remotely-effectively-a9f)
+- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-3ba2)
 <!-- BLOG-POST-LIST:END -->
 
