@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried 10+ AI Headshot Generators to Upgrade My Profile Picture - Here&#39;re the Best Ones](https://dev.to/nitinfab/i-tried-10-ai-headshot-generators-to-upgrade-my-profile-picture-herere-the-best-ones-7k9)
-- [Mastering Python Essentials: File Handling, Lambda Functions, and Functional Programming](https://dev.to/sunmathi/mastering-python-essentials-file-handling-lambda-functions-and-functional-programming-45if)
-- [Investing in Communities](https://dev.to/kingyobs/investing-in-communities-13n6)
-- [what is the purpose of java script?](https://dev.to/hema_latha/what-is-the-purpose-of-java-script-2flh)
+- [371 SUM OF TWO INTEGERS - leetcode - Python](https://dev.to/jaiminbariya/371-sum-of-two-integers-leetcode-python-11ff)
+- [Migrating Databases From MS SQL Server to Snowflake](https://dev.to/montemi_chelle_6c95a354f0/migrating-databases-from-ms-sql-server-to-snowflake-2c95)
+- [Use Authentication SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/use-authentication-sdk-net-autodesk-platform-services-aps-55eg)
+- [Understanding Python Selenium Waits for Efficient Automation](https://dev.to/sunmathi/understanding-python-selenium-waits-for-efficient-automation-4n01)
 <!-- BLOG-POST-LIST:END -->
 
