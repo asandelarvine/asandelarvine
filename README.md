@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15: Unlocking the Power of after&lpar;&rpar; for Non-Blocking Tasks](https://dev.to/joodi/nextjs-15-unlocking-the-power-of-after-for-non-blocking-tasks-2kli)
-- [Transforming Tech Marketing: Strategies to Attract, Engage, and Convert Technical Buyers](https://dev.to/kapusto/transforming-tech-marketing-strategies-to-attract-engage-and-convert-technical-buyers-1203)
-- [We built KitOps to simplify the deployment, management, and security of your AI projects. It&#39;s awesome to see community members finding value.](https://dev.to/jwilliamsr/we-built-kitops-to-simplify-the-deployment-management-and-security-of-your-ai-projects-its-2bh9)
-- [5 Must-Know Open-Source Tools for DevOps and MLOps Developers](https://dev.to/astrodevil/5-must-know-open-source-tools-for-devops-and-mlops-developers-29bp)
+- [Introducing New Features in Crudify: Streamline Your API Development](https://dev.to/mitinoh/introducing-new-features-in-crudify-streamline-your-api-development-4bic)
+- [Create Stunning Images from Text with a Telegram Bot 🚀](https://dev.to/namanvashistha/create-stunning-images-from-text-with-a-telegram-bot-2p9n)
+- [What is a try-with-resources statement and what is it useful for?](https://dev.to/devmercy/what-is-a-try-with-resources-statement-and-what-is-it-useful-for-1ji5)
+- [Understanding Azure Security Defaults](https://dev.to/mikesays/understanding-azure-security-defaults-4i3l)
 <!-- BLOG-POST-LIST:END -->
 
