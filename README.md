@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Turn Off Glance: A Complete Guide to Managing Your Android Lock Screen Experience](https://dev.to/adambrooks1231/how-to-turn-off-glance-a-complete-guide-to-managing-your-android-lock-screen-experience-51ih)
-- [We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/anthonymax/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-5f8k)
-- [Need free PR maintainer? Feel free to reach out](https://dev.to/perisicnikola37/need-free-pr-maintainer-feel-free-to-reach-out-aak)
-- [PR in Fintech: Lessons for Developers](https://dev.to/andylarkin677/pr-in-fintech-lessons-for-developers-3na9)
+- [Pair Programming: What Is It?](https://dev.to/apilover/pair-programming-what-is-it-2oe8)
+- [React Native 0.77 Just Landed: Styling Superpowers &amp; More!](https://dev.to/mitchiemt11/react-native-077-just-landed-styling-superpowers-more-3350)
+- [Explore Free APIs for Your Projects](https://dev.to/divyeshvekariya/explore-free-apis-for-your-projects-424p)
+- [Docs-as-code in action: Documenting a Python library.](https://dev.to/emiloju/docs-as-code-in-action-documenting-a-python-library-4pbe)
 <!-- BLOG-POST-LIST:END -->
 
