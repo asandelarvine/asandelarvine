@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Keyboard in React Native](https://dev.to/amitkumar13/handling-keyboard-avoiding-view-in-react-native-e03)
-- [Godot 4.3+ Hierachical State Machine](https://dev.to/ubr4x/godot-43-hierachical-state-machine-2pd)
-- [Survival in Software Team](https://dev.to/ourai/survival-in-software-team-55d8)
-- [Top 20 most asked Advanced Java Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-20-most-asked-advanced-java-questions-in-interviews-1lbo)
+- [The Role of AI Humanizers in Bridging the Gap Between Machines and Emotional Intelligence](https://dev.to/andreyana_michael/the-role-of-ai-humanizers-in-bridging-the-gap-between-machines-and-emotional-intelligence-15il)
+- [Postgresql Vector Database: Pgvector Tutorial](https://dev.to/mehmetakar/postgresql-vector-database-pgvector-tutorial-2dmd)
+- [Building Smarter Web Applications: Integrating AI into Web Development](https://dev.to/zeenox-stack/building-smarter-web-applications-integrating-ai-into-web-development-41f)
+- [Build AI Agent Connected to Unlimited APIs with Vercel&#39;s AI SDK &amp; Pica&#39;s OneTool](https://dev.to/moekatib/build-ai-agent-connected-to-unlimited-apis-with-vercels-ai-sdk-picas-onetool-1mpi)
 <!-- BLOG-POST-LIST:END -->
 
