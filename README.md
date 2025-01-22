@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [$500 billion into Stargate](https://dev.to/peter/500-billion-into-stargate-1d1n)
-- [Blockchain Testing: Ensuring Trust and Reliability in Decentralized Systems](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-testing-ensuring-trust-and-reliability-in-decentralized-systems-4pmb)
-- [Building an Interactive Resume AI Assistant: Showcasing Your Portfolio with a Twist](https://dev.to/mohamedrimsan/building-an-interactive-resume-ai-assistant-showcasing-your-portfolio-with-a-twist-13da)
-- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-4lni)
+- [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
+- [11 Useful React.js Hacks Every Developer Should Know](https://dev.to/sovannaro/11-useful-reactjs-hacks-every-developer-should-know-58po)
+- [The Daily UI 100 Day Design Challenge: Day 2 – Elevate Your UI Design Skills](https://dev.to/jds64/the-daily-ui-100-day-design-challenge-day-2-elevate-your-ui-design-skills-3cc5)
+- [Next.js SEO Comprehensive Checklist](https://dev.to/simplr_sh/nextjs-seo-comprehensive-checklist-f8j)
 <!-- BLOG-POST-LIST:END -->
 
