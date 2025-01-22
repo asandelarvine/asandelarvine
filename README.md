@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Supabase Comments](https://dev.to/mskian/php-supabase-comments-4p52)
-- [How to Convert Iterables to Objects Using Object.fromEntries&lpar;&rpar; in JavaScript](https://dev.to/sourav_22cdd152890952704c/how-to-convert-iterables-to-objects-using-objectfromentries-in-javascript-5ba2)
-- [Bitcoin Price Predictions for 2025: Insights and Expert Views](https://dev.to/coinw/bitcoin-price-predictions-for-2025-insights-and-expert-views-21fg)
-- [adaptive-classifier: Cut your LLM costs with smart query routing &lpar;32.4% cost savings demonstrated&rpar;](https://dev.to/codelion86/adaptive-classifier-cut-your-llm-costs-with-smart-query-routing-324-cost-savings-demonstrated-1a51)
+- [🚀 Before January Ends: Future-Proof Your Website for 2025 🌐](https://dev.to/dct_technologyprivatelimited/before-january-ends-future-proof-your-website-for-2025-22hb)
+- [Best CI/CD Tools for 2025: Automating Software Development Pipelines for Greater Efficiency and Speed](https://dev.to/adityabhuyan/best-cicd-tools-for-2025-automating-software-development-pipelines-for-greater-efficiency-and-4l4a)
+- [Mastering Mocking: A Complete Guide to Mocks and other test doubles](https://dev.to/keploy/mastering-mocking-a-complete-guide-to-mocks-and-other-test-doubles-1o85)
+- [A Complete Guide to Implementing Two-Factor Authentication in Firebase with Node.js](https://dev.to/adityabhuyan/a-complete-guide-to-implementing-two-factor-authentication-in-firebase-with-nodejs-3pn7)
 <!-- BLOG-POST-LIST:END -->
 
