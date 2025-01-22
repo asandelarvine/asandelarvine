@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you wonder what the future of web frameworks will look like? Let&#39;s imagine it together!](https://dev.to/jvzaniolo/do-you-wonder-what-the-future-of-web-frameworks-will-look-like-lets-imagine-it-together-edg)
-- [Web Frameworks: The Future](https://dev.to/jvzaniolo/web-frameworks-the-future-1bp9)
-- [Understanding Cron: Automating Tasks in Linux](https://dev.to/_russell/understanding-cron-automating-tasks-in-linux-54lp)
-- [Measure of center. What is this dataset&#39;s typical behavior?](https://dev.to/jeornee/measure-of-center-what-is-this-datasets-typical-behavior-4kfa)
+- [$500 billion into Stargate](https://dev.to/peter/500-billion-into-stargate-1d1n)
+- [Blockchain Testing: Ensuring Trust and Reliability in Decentralized Systems](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-testing-ensuring-trust-and-reliability-in-decentralized-systems-4pmb)
+- [Building an Interactive Resume AI Assistant: Showcasing Your Portfolio with a Twist](https://dev.to/mohamedrimsan/building-an-interactive-resume-ai-assistant-showcasing-your-portfolio-with-a-twist-13da)
+- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-4lni)
 <!-- BLOG-POST-LIST:END -->
 
