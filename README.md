@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Before January Ends: Future-Proof Your Website for 2025 🌐](https://dev.to/dct_technologyprivatelimited/before-january-ends-future-proof-your-website-for-2025-22hb)
-- [Best CI/CD Tools for 2025: Automating Software Development Pipelines for Greater Efficiency and Speed](https://dev.to/adityabhuyan/best-cicd-tools-for-2025-automating-software-development-pipelines-for-greater-efficiency-and-4l4a)
-- [Mastering Mocking: A Complete Guide to Mocks and other test doubles](https://dev.to/keploy/mastering-mocking-a-complete-guide-to-mocks-and-other-test-doubles-1o85)
-- [A Complete Guide to Implementing Two-Factor Authentication in Firebase with Node.js](https://dev.to/adityabhuyan/a-complete-guide-to-implementing-two-factor-authentication-in-firebase-with-nodejs-3pn7)
+- [I Tried 10+ AI Headshot Generators to Upgrade My Profile Picture - Here&#39;re the Best Ones](https://dev.to/nitinfab/i-tried-10-ai-headshot-generators-to-upgrade-my-profile-picture-herere-the-best-ones-7k9)
+- [Mastering Python Essentials: File Handling, Lambda Functions, and Functional Programming](https://dev.to/sunmathi/mastering-python-essentials-file-handling-lambda-functions-and-functional-programming-45if)
+- [Investing in Communities](https://dev.to/kingyobs/investing-in-communities-13n6)
+- [what is the purpose of java script?](https://dev.to/hema_latha/what-is-the-purpose-of-java-script-2flh)
 <!-- BLOG-POST-LIST:END -->
 
