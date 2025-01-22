@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI Humanizers in Bridging the Gap Between Machines and Emotional Intelligence](https://dev.to/andreyana_michael/the-role-of-ai-humanizers-in-bridging-the-gap-between-machines-and-emotional-intelligence-15il)
-- [Postgresql Vector Database: Pgvector Tutorial](https://dev.to/mehmetakar/postgresql-vector-database-pgvector-tutorial-2dmd)
-- [Building Smarter Web Applications: Integrating AI into Web Development](https://dev.to/zeenox-stack/building-smarter-web-applications-integrating-ai-into-web-development-41f)
-- [Build AI Agent Connected to Unlimited APIs with Vercel&#39;s AI SDK &amp; Pica&#39;s OneTool](https://dev.to/moekatib/build-ai-agent-connected-to-unlimited-apis-with-vercels-ai-sdk-picas-onetool-1mpi)
+- [Amazon Lex: Build AI-Powered Conversational Bots](https://dev.to/swathi_gunasekaran_de18b2/amazon-lex-build-ai-powered-conversational-bots-e14)
+- [15+ Articles to Find Your Perfect Side Hustle](https://dev.to/0x5a_live/15-articles-to-find-your-perfect-side-hustle-1joi)
+- [Contact Form Using EmailJS](https://dev.to/mahmud-r-farhan/contact-form-using-emailjs-1di1)
+- [The Blogs Every Developer Needs &lpar;Without the Overwhelm&rpar;](https://dev.to/auramuch/the-blogs-every-developer-needs-without-the-overwhelm-2bi1)
 <!-- BLOG-POST-LIST:END -->
 
