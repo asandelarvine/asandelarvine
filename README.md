@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pair Programming: What Is It?](https://dev.to/apilover/pair-programming-what-is-it-2oe8)
-- [React Native 0.77 Just Landed: Styling Superpowers &amp; More!](https://dev.to/mitchiemt11/react-native-077-just-landed-styling-superpowers-more-3350)
-- [Explore Free APIs for Your Projects](https://dev.to/divyeshvekariya/explore-free-apis-for-your-projects-424p)
-- [Docs-as-code in action: Documenting a Python library.](https://dev.to/emiloju/docs-as-code-in-action-documenting-a-python-library-4pbe)
+- [🚀 Your Daily Crypto Job Digest For 22 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-january-37kn)
+- [Tips to Make Videos Go Viral on Social Media](https://dev.to/digi_carotene_7542256a23b/tips-to-make-videos-go-viral-on-social-media-f36)
+- [Fetching Data with Axios in Next.js 15: A Complete Guide](https://dev.to/joodi/fetching-data-with-axios-in-nextjs-15-a-complete-guide-hed)
+- [Demystifying Containerization: How Docker and Kubernetes Revolutionize Web Development](https://dev.to/gurjeetsinghvirdee/demystifying-containerization-how-docker-and-kubernetes-revolutionize-web-development-1b0a)
 <!-- BLOG-POST-LIST:END -->
 
