@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Driven Development in Laravel - Folder Structure &amp; Setup &lpar;1&rpar;](https://dev.to/bedram-tamang/test-driven-development-in-laravel-folder-structure-setup-1-27l3)
-- [Gems I use for Rails SaaS apps](https://dev.to/railsdesigner/gems-i-use-for-rails-saas-apps-23hh)
-- [🎖️ War in the Wires : The Silent Battlefield of Cyber Warfare](https://dev.to/kkrypt0nn/war-in-the-wires-the-silent-battlefield-of-cyber-warfare-2984)
-- [1minDocker #12 - What is CI/CD?](https://dev.to/astrabert/1mindocker-12-what-is-cicd-2ap6)
+- [ServMon walktrough - hack the box ctf](https://dev.to/felix_tymchak_969/servmon-walktrough-hack-the-box-ctf-51ce)
+- [Maryrose Whittaker reviews the hottest topics related to VoIP and Business PBX at the start of 2025](https://dev.to/officeonc3/maryrose-whittaker-reviews-the-hottest-topics-related-to-voip-and-business-pbx-at-the-start-of-2025-5e33)
+- [Using Machine Learning to Detect Fraud](https://dev.to/rapyd/using-machine-learning-to-detect-fraud-4m91)
+- [I want to create images about the Ninja Turtles](https://dev.to/dhia_eddine_ae834bc6ba09c/i-want-to-create-images-about-the-ninja-turtles-2688)
 <!-- BLOG-POST-LIST:END -->
 
