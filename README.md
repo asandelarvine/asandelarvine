@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Container queries in css](https://dev.to/jsha/container-queries-in-css-1221)
-- [Upgrading Ruby on Rails applications](https://dev.to/sinaptia_dev/upgrading-ruby-on-rails-applications-46nm)
-- [Security Testing: Safeguarding the Digital Frontier](https://dev.to/arun_pal_3ce740a137cf15ad/security-testing-safeguarding-the-digital-frontier-87c)
-- [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
+- [PHP Supabase Comments](https://dev.to/mskian/php-supabase-comments-4p52)
+- [How to Convert Iterables to Objects Using Object.fromEntries&lpar;&rpar; in JavaScript](https://dev.to/sourav_22cdd152890952704c/how-to-convert-iterables-to-objects-using-objectfromentries-in-javascript-5ba2)
+- [Bitcoin Price Predictions for 2025: Insights and Expert Views](https://dev.to/coinw/bitcoin-price-predictions-for-2025-insights-and-expert-views-21fg)
+- [adaptive-classifier: Cut your LLM costs with smart query routing &lpar;32.4% cost savings demonstrated&rpar;](https://dev.to/codelion86/adaptive-classifier-cut-your-llm-costs-with-smart-query-routing-324-cost-savings-demonstrated-1a51)
 <!-- BLOG-POST-LIST:END -->
 
