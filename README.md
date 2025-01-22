@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ServMon walktrough - hack the box ctf](https://dev.to/felix_tymchak_969/servmon-walktrough-hack-the-box-ctf-51ce)
-- [Maryrose Whittaker reviews the hottest topics related to VoIP and Business PBX at the start of 2025](https://dev.to/officeonc3/maryrose-whittaker-reviews-the-hottest-topics-related-to-voip-and-business-pbx-at-the-start-of-2025-5e33)
-- [Using Machine Learning to Detect Fraud](https://dev.to/rapyd/using-machine-learning-to-detect-fraud-4m91)
-- [I want to create images about the Ninja Turtles](https://dev.to/dhia_eddine_ae834bc6ba09c/i-want-to-create-images-about-the-ninja-turtles-2688)
+- [How to Fetch and Display Blog Articles from Contentful in a Next.js Application](https://dev.to/developers_today/how-to-fetch-and-display-blog-articles-from-contentful-in-a-nextjs-application-lo2)
+- [Let’s Build Invoice Processing System Using AI Agents](https://dev.to/exploredataaiml/lets-build-invoice-processing-system-using-ai-agents-140e)
+- [Azure API management](https://dev.to/higor_amorim_15d165de93d4/azure-api-management-j9b)
+- [Easily Sync Your Subtitles with React, RHF and shadcn/ui](https://dev.to/joanroucoux/easily-sync-your-subtitles-with-react-rhf-and-shadcnui-3gfe)
 <!-- BLOG-POST-LIST:END -->
 
