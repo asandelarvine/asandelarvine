@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing an E-book App: Key Features and Cost Breakdown](https://dev.to/ram_fb361bc2f8f94e06772e2/developing-an-e-book-app-key-features-and-cost-breakdown-367g)
-- [Stop Being Afraid of Databases](https://dev.to/metis/stop-being-afraid-of-databases-10ba)
-- [Mastering AI in Software Engineering](https://dev.to/gocodeo/mastering-ai-in-software-engineering-16mm)
-- [Summary of Deploying Vortex GPGPU on K7 FPGA Development Board](https://dev.to/ryan_zhi/summary-of-deploying-vortex-gpgpu-on-k7-fpga-development-board-324j)
+- [How to Turn Off Glance: A Complete Guide to Managing Your Android Lock Screen Experience](https://dev.to/adambrooks1231/how-to-turn-off-glance-a-complete-guide-to-managing-your-android-lock-screen-experience-51ih)
+- [We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/anthonymax/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-5f8k)
+- [Need free PR maintainer? Feel free to reach out](https://dev.to/perisicnikola37/need-free-pr-maintainer-feel-free-to-reach-out-aak)
+- [PR in Fintech: Lessons for Developers](https://dev.to/andylarkin677/pr-in-fintech-lessons-for-developers-3na9)
 <!-- BLOG-POST-LIST:END -->
 
