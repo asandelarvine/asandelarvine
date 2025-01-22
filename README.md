@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 22 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-january-37kn)
-- [Tips to Make Videos Go Viral on Social Media](https://dev.to/digi_carotene_7542256a23b/tips-to-make-videos-go-viral-on-social-media-f36)
-- [Fetching Data with Axios in Next.js 15: A Complete Guide](https://dev.to/joodi/fetching-data-with-axios-in-nextjs-15-a-complete-guide-hed)
-- [Demystifying Containerization: How Docker and Kubernetes Revolutionize Web Development](https://dev.to/gurjeetsinghvirdee/demystifying-containerization-how-docker-and-kubernetes-revolutionize-web-development-1b0a)
+- [We built KitOps to simplify the deployment, management, and security of your AI projects. It&#39;s awesome to see community members finding value.](https://dev.to/jwilliamsr/we-built-kitops-to-simplify-the-deployment-management-and-security-of-your-ai-projects-its-2bh9)
+- [5 Must-Know Open-Source Tools for DevOps and MLOps Developers](https://dev.to/astrodevil/5-must-know-open-source-tools-for-devops-and-mlops-developers-29bp)
+- [Understanding DSA Techniques: A Beginner&#39;s Guide to Problem Solving](https://dev.to/solitrix02/understanding-dsa-techniques-a-beginners-guide-to-problem-solving-55mf)
+- [Turn Figma Designs into Full Stack Apps Using Lovable and Builder.io](https://dev.to/builderio/turn-figma-designs-into-full-stack-apps-using-lovable-and-builderio-162o)
 <!-- BLOG-POST-LIST:END -->
 
