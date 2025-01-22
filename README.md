@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [371 SUM OF TWO INTEGERS - leetcode - Python](https://dev.to/jaiminbariya/371-sum-of-two-integers-leetcode-python-11ff)
-- [Migrating Databases From MS SQL Server to Snowflake](https://dev.to/montemi_chelle_6c95a354f0/migrating-databases-from-ms-sql-server-to-snowflake-2c95)
-- [Use Authentication SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/use-authentication-sdk-net-autodesk-platform-services-aps-55eg)
-- [Understanding Python Selenium Waits for Efficient Automation](https://dev.to/sunmathi/understanding-python-selenium-waits-for-efficient-automation-4n01)
+- [💔💔💔 Bye-Bye Plain Old `console.log` – Let’s Level Up Together! 💻](https://dev.to/respect17/bye-bye-plain-old-consolelog-lets-level-up-together-1f29)
+- [Top 5 des meilleurs écrans pour le télétravail en 2025](https://dev.to/xavier/top-5-des-meilleurs-ecrans-pour-le-teletravail-en-2025-3001)
+- [Uncaught &lpar;in promise&rpar; TypeError: Converting circular structure to JSON](https://dev.to/brillant_loroque_e6284f87/uncaught-in-promise-typeerror-converting-circular-structure-to-json-43m6)
+- [.NET Core Cross-Platform Development](https://dev.to/abtosoftware/net-core-cross-platform-development-j17)
 <!-- BLOG-POST-LIST:END -->
 
