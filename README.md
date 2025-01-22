@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Install pgvector on Windows](https://dev.to/mehmetakar/install-pgvector-on-windows-6gl)
-- [50+ Remote Job Websites You Need to Know About 🌍💼](https://dev.to/elliot_brenya/50-remote-job-websites-you-need-to-know-about-g34)
-- [Why Are Many Brands Migrating from Magento Enterprise &lpar;Adobe Commerce&rpar; to Shopify?](https://dev.to/deploi-dev/why-are-many-brands-migrating-from-magento-enterprise-adobe-commerce-to-shopify-3j6l)
-- [Unruggable AI Agents with ZKML](https://dev.to/filosofiacodigoen/unruggable-ai-agents-with-zkml-4hf7)
+- [Setting Up Your First Web App in the Cloud with AWS](https://dev.to/siddharthrane07/setting-up-your-first-web-app-in-the-cloud-with-aws-2jfj)
+- [# Creating Your First Solana Program: A Beginner’s Perspective](https://dev.to/adewumi_israel_360c3d0332/-creating-your-first-solana-program-a-beginners-perspective-40lk)
+- [First release, hot off the presses!](https://dev.to/voxpupuli/first-release-hot-off-the-presses-4fg4)
+- [Importance of Salesforce Data Cleaning for AI Implementation](https://dev.to/doriansabitov/importance-of-salesforce-data-cleaning-for-ai-implementation-1pe8)
 <!-- BLOG-POST-LIST:END -->
 
