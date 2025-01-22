@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💔💔💔 Bye-Bye Plain Old `console.log` – Let’s Level Up Together! 💻](https://dev.to/respect17/bye-bye-plain-old-consolelog-lets-level-up-together-1f29)
-- [Top 5 des meilleurs écrans pour le télétravail en 2025](https://dev.to/xavier/top-5-des-meilleurs-ecrans-pour-le-teletravail-en-2025-3001)
-- [Uncaught &lpar;in promise&rpar; TypeError: Converting circular structure to JSON](https://dev.to/brillant_loroque_e6284f87/uncaught-in-promise-typeerror-converting-circular-structure-to-json-43m6)
-- [.NET Core Cross-Platform Development](https://dev.to/abtosoftware/net-core-cross-platform-development-j17)
+- [Developing an E-book App: Key Features and Cost Breakdown](https://dev.to/ram_fb361bc2f8f94e06772e2/developing-an-e-book-app-key-features-and-cost-breakdown-367g)
+- [Stop Being Afraid of Databases](https://dev.to/metis/stop-being-afraid-of-databases-10ba)
+- [Mastering AI in Software Engineering](https://dev.to/gocodeo/mastering-ai-in-software-engineering-16mm)
+- [Summary of Deploying Vortex GPGPU on K7 FPGA Development Board](https://dev.to/ryan_zhi/summary-of-deploying-vortex-gpgpu-on-k7-fpga-development-board-324j)
 <!-- BLOG-POST-LIST:END -->
 
