@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Container queries in css](https://dev.to/jsha/container-queries-in-css-1221)
+- [Upgrading Ruby on Rails applications](https://dev.to/sinaptia_dev/upgrading-ruby-on-rails-applications-46nm)
+- [Security Testing: Safeguarding the Digital Frontier](https://dev.to/arun_pal_3ce740a137cf15ad/security-testing-safeguarding-the-digital-frontier-87c)
 - [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
-- [11 Useful React.js Hacks Every Developer Should Know](https://dev.to/sovannaro/11-useful-reactjs-hacks-every-developer-should-know-58po)
-- [The Daily UI 100 Day Design Challenge: Day 2 – Elevate Your UI Design Skills](https://dev.to/jds64/the-daily-ui-100-day-design-challenge-day-2-elevate-your-ui-design-skills-3cc5)
-- [Next.js SEO Comprehensive Checklist](https://dev.to/simplr_sh/nextjs-seo-comprehensive-checklist-f8j)
 <!-- BLOG-POST-LIST:END -->
 
