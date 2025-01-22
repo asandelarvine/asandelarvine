@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing New Features in Crudify: Streamline Your API Development](https://dev.to/mitinoh/introducing-new-features-in-crudify-streamline-your-api-development-4bic)
-- [Create Stunning Images from Text with a Telegram Bot 🚀](https://dev.to/namanvashistha/create-stunning-images-from-text-with-a-telegram-bot-2p9n)
-- [What is a try-with-resources statement and what is it useful for?](https://dev.to/devmercy/what-is-a-try-with-resources-statement-and-what-is-it-useful-for-1ji5)
-- [Understanding Azure Security Defaults](https://dev.to/mikesays/understanding-azure-security-defaults-4i3l)
+- [Handling Keyboard in React Native](https://dev.to/amitkumar13/handling-keyboard-avoiding-view-in-react-native-e03)
+- [Godot 4.3+ Hierachical State Machine](https://dev.to/ubr4x/godot-43-hierachical-state-machine-2pd)
+- [Survival in Software Team](https://dev.to/ourai/survival-in-software-team-55d8)
+- [Top 20 most asked Advanced Java Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-20-most-asked-advanced-java-questions-in-interviews-1lbo)
 <!-- BLOG-POST-LIST:END -->
 
