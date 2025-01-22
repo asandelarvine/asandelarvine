@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Lex: Build AI-Powered Conversational Bots](https://dev.to/swathi_gunasekaran_de18b2/amazon-lex-build-ai-powered-conversational-bots-e14)
-- [15+ Articles to Find Your Perfect Side Hustle](https://dev.to/0x5a_live/15-articles-to-find-your-perfect-side-hustle-1joi)
-- [Contact Form Using EmailJS](https://dev.to/mahmud-r-farhan/contact-form-using-emailjs-1di1)
-- [The Blogs Every Developer Needs &lpar;Without the Overwhelm&rpar;](https://dev.to/auramuch/the-blogs-every-developer-needs-without-the-overwhelm-2bi1)
+- [Install pgvector on Windows](https://dev.to/mehmetakar/install-pgvector-on-windows-6gl)
+- [50+ Remote Job Websites You Need to Know About 🌍💼](https://dev.to/elliot_brenya/50-remote-job-websites-you-need-to-know-about-g34)
+- [Why Are Many Brands Migrating from Magento Enterprise &lpar;Adobe Commerce&rpar; to Shopify?](https://dev.to/deploi-dev/why-are-many-brands-migrating-from-magento-enterprise-adobe-commerce-to-shopify-3j6l)
+- [Unruggable AI Agents with ZKML](https://dev.to/filosofiacodigoen/unruggable-ai-agents-with-zkml-4hf7)
 <!-- BLOG-POST-LIST:END -->
 
