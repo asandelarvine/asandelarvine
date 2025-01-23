@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/kantord/-5d36)
-- [Essential Security Tips for Users and Web3 Developers](https://dev.to/cryptosandy/essential-security-tips-for-users-and-web3-developers-1j2d)
-- [Customer Feedback Loops: How to Continuously Improve Your Products and Services](https://dev.to/feedbackmanagement/customer-feedback-loops-how-to-continuously-improve-your-products-and-services-2mk0)
-- [Top 10 No-Code Tools for Developers in 2025: Build Without Boundaries](https://dev.to/hadil/top-10-no-code-tools-for-developers-in-2025-build-without-boundaries-4b63)
+- [Launching Jolt AI on Product Hunt! meooow.link/jolt](https://dev.to/fmerian/launching-jolt-ai-on-product-hunt-meooowlinkjolt-20ff)
+- [Why we’re betting on Kubernetes &lpar;and you should too&rpar;](https://dev.to/cyclops-ui/why-were-betting-on-kubernetes-and-you-should-too-365k)
+- [Mastering React: The Complete Web Development Guide](https://dev.to/ideradevtools/mastering-react-the-complete-web-development-guide-378f)
+- [DreamDev Technologies PVT LTD](https://dev.to/dreamdev_947589cd09000835/dreamdev-technologies-pvt-ltd-25l5)
 <!-- BLOG-POST-LIST:END -->
 
