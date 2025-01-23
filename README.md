@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS Misconfigurations in Laravel: Risks and Fixes](https://dev.to/pentest_testing_corp/cors-misconfigurations-in-laravel-risks-and-fixes-5all)
-- [Blazor WebAssembly with .Net Framework](https://dev.to/robodobdob/blazor-webassembly-with-net-framework-3276)
-- [3 GitHub Hacks You Didn’t Know You Needed &lpar;But Totally Do!&rpar; 🚀](https://dev.to/itxshakil/3-github-hacks-you-didnt-know-you-needed-but-totally-do-h8o)
-- [How to Start in Python &lpar;2025&rpar;: A New Coder’s Guide](https://dev.to/jay_ramoliya_1331a2addb80/how-to-start-in-python-2025-a-new-coders-guide-3d56)
+- [Day 7: Laravel Asana API Integration](https://dev.to/ehtesham_ali_abc367f36a5b/day-7-laravel-asana-api-integration-1ba5)
+- [101/365 | ¥10M Job Challenge - 2 Things in the World of AI That Will Never Change](https://dev.to/kameken100/101365-y10m-job-challenge-2-things-in-the-world-of-ai-that-will-never-change-1820)
+- [What is LocalStorage and How to Use LocalStorage with Next.js?](https://dev.to/swhabitation/what-is-localstorage-and-how-to-use-localstorage-with-nextjs-4gbd)
+- [What is EC2 in AWS? Everything about EC2 Fundamentals in AWS](https://dev.to/sign_my_code/what-is-ec2-in-aws-everything-about-ec2-fundamentals-in-aws-2hj)
 <!-- BLOG-POST-LIST:END -->
 
