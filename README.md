@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Git Commands Every Developer Should Know](https://dev.to/sachinkg12/25-git-commands-every-developer-should-know-498f)
-- [Amazon Elastic Inference](https://dev.to/sbshanjaiy/amazon-elastic-inference-2fo8)
-- [AutoGen, Eliza, Aider](https://dev.to/ykgoon/autogen-eliza-aider-24kh)
-- [Store weather data in Amazon S3](https://dev.to/ogooluwa/store-weather-data-in-amazon-s3-4lm7)
+- [Is PostgreSQL Better Than MySQL?](https://dev.to/angelaswift/is-postgresql-better-than-mysql-4okm)
+- [Subtracting Vectors](https://dev.to/bazengdev/subtracting-vectors-13jk)
+- [Taking over a project, the SINAPTIA way](https://dev.to/sinaptia_dev/taking-over-a-project-the-sinaptia-way-1fjp)
+- [Fingertip.com - AI website builder with all the tools you need](https://dev.to/mblode/fingertipcom-ai-website-builder-with-all-the-tools-you-need-4l0)
 <!-- BLOG-POST-LIST:END -->
 
