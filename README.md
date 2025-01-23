@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It is big, it is free and it can change your webdev&#39;s life](https://dev.to/aloisseckar/it-is-big-it-is-free-and-it-can-change-your-webdevs-life-148p)
-- [6 Free Icon Libraries for Rails Apps](https://dev.to/railsdesigner/free-icon-libraries-for-rails-apps-26i0)
-- [How to Customize Your GitHub Profile Like a Pro! 🚀](https://dev.to/sbre/how-to-customize-your-github-profile-like-a-pro-3fm)
-- [How To Protect Your Data By Spotting Phishing Emails.](https://dev.to/graceh_/how-to-protect-your-data-by-spotting-phishing-emails-3ci0)
+- [May Jolt AI be the future of production-ready AI developer tools?](https://dev.to/fmerian/may-jolt-ai-be-the-future-of-production-ready-ai-developer-tools-1k80)
+- [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://dev.to/yev_yev_yev/introducing-jolt-ai-codegen-and-chat-for-100k-to-multi-million-line-codebases-1764)
+- [[Boost]](https://dev.to/mezmo/-453p)
+- [Setting up a VPC Infrastructure For Jenkins, Artifactory, Sonarqube on AWS using Terraform](https://dev.to/nonso_echendu_001/setting-up-a-vpc-infrastructure-for-jenkins-artifactory-sonarqube-on-aws-using-terraform-27ia)
 <!-- BLOG-POST-LIST:END -->
 
