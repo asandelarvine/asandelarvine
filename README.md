@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fetch and Display Blog Articles from Contentful in a Next.js Application](https://dev.to/developers_today/how-to-fetch-and-display-blog-articles-from-contentful-in-a-nextjs-application-lo2)
-- [Let’s Build Invoice Processing System Using AI Agents](https://dev.to/exploredataaiml/lets-build-invoice-processing-system-using-ai-agents-140e)
-- [Azure API management](https://dev.to/higor_amorim_15d165de93d4/azure-api-management-j9b)
-- [Easily Sync Your Subtitles with React, RHF and shadcn/ui](https://dev.to/joanroucoux/easily-sync-your-subtitles-with-react-rhf-and-shadcnui-3gfe)
+- [State Management in React: A Developer&#39;s Guide](https://dev.to/webmaster09811/state-management-in-react-a-developers-guide-41pg)
+- [Database seeder](https://dev.to/mahir_xalilov_cd64c8cd8b1/database-seeder-58nb)
+- [The Future Outlook of XRP: Trends and Predictions](https://dev.to/webmaster09811/the-future-outlook-of-xrp-trends-and-predictions-hhh)
+- [Mappie.ai: A Context-Aware AI Tool For Product Teams](https://dev.to/convex/mappieai-a-context-aware-ai-tool-for-product-teams-3jo0)
 <!-- BLOG-POST-LIST:END -->
 
