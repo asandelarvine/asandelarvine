@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly LAUNCHED 30+ Github Repositories for Developers.](https://dev.to/gittech/newly-launched-30-github-repositories-for-developers-3o99)
-- [Is the Software Developer Job Market Dying? 2025 and Beyond](https://dev.to/bhuwan71/is-the-software-developer-job-market-dying-2025-and-beyond-1jbp)
-- [After More than 5 Years of Maintaining WordPress Websites, Here’s What I’ve Learned](https://dev.to/andgoedu/after-more-than-5-years-of-maintaining-wordpress-websites-heres-what-ive-learned-3in5)
-- [Complete Guide to AWS Route 53: DNS Management Made Easy! 🌐](https://dev.to/techwithhari/complete-guide-to-aws-route-53-dns-management-made-easy-4el1)
+- [Hosting a React App on AWS S3 with CloudFront](https://dev.to/vasanthbal5220/hosting-a-react-app-on-aws-s3-with-cloudfront-1280)
+- [Kubernetes Resource Management: Exploring AKS Karpenter and Node Auto-Provisioning](https://dev.to/pustotips/kubernetes-resource-management-exploring-aks-karpenter-and-node-auto-provisioning-29bm)
+- [Post-Quantum Cryptography](https://dev.to/muhammad_ishaque/post-quantum-cryptography-31ka)
+- [Top 30 most asked Computer Networking Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-computer-networking-questions-in-interviews-3npp)
 <!-- BLOG-POST-LIST:END -->
 
