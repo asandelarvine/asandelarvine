@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a React App on AWS S3 with CloudFront](https://dev.to/vasanthbal5220/hosting-a-react-app-on-aws-s3-with-cloudfront-1280)
-- [Kubernetes Resource Management: Exploring AKS Karpenter and Node Auto-Provisioning](https://dev.to/pustotips/kubernetes-resource-management-exploring-aks-karpenter-and-node-auto-provisioning-29bm)
-- [Post-Quantum Cryptography](https://dev.to/muhammad_ishaque/post-quantum-cryptography-31ka)
-- [Top 30 most asked Computer Networking Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-computer-networking-questions-in-interviews-3npp)
+- [JavaScript](https://dev.to/iamadeveloper/javascript-4ffe)
+- [Two-Day Razorpay Integration for Seamless Payments 🚀](https://dev.to/lovestaco/two-day-razorpay-integration-for-seamless-payments-1893)
+- [Modern Web Development: Essential Tools and Best Practices for Building Scalable Applications](https://dev.to/oleeeedev/modern-web-development-essential-tools-and-best-practices-for-building-scalable-applications-2a7j)
+- [A Comprehensive Guide to Building High-Quality Backlinks in 2025](https://dev.to/grape-marketing/a-comprehensive-guide-to-building-high-quality-backlinks-in-2025-4io4)
 <!-- BLOG-POST-LIST:END -->
 
