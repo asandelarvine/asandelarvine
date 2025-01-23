@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State Management in React: A Developer&#39;s Guide](https://dev.to/webmaster09811/state-management-in-react-a-developers-guide-41pg)
-- [Database seeder](https://dev.to/mahir_xalilov_cd64c8cd8b1/database-seeder-58nb)
-- [The Future Outlook of XRP: Trends and Predictions](https://dev.to/webmaster09811/the-future-outlook-of-xrp-trends-and-predictions-hhh)
-- [Mappie.ai: A Context-Aware AI Tool For Product Teams](https://dev.to/convex/mappieai-a-context-aware-ai-tool-for-product-teams-3jo0)
+- [25 Git Commands Every Developer Should Know](https://dev.to/sachinkg12/25-git-commands-every-developer-should-know-498f)
+- [Amazon Elastic Inference](https://dev.to/sbshanjaiy/amazon-elastic-inference-2fo8)
+- [AutoGen, Eliza, Aider](https://dev.to/ykgoon/autogen-eliza-aider-24kh)
+- [Store weather data in Amazon S3](https://dev.to/ogooluwa/store-weather-data-in-amazon-s3-4lm7)
 <!-- BLOG-POST-LIST:END -->
 
