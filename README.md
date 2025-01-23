@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Cloud Shock: How to Set Up AWS Budgets for Predictable Expenses](https://dev.to/lindiwe09/avoiding-cloud-shock-how-to-set-up-aws-budgets-for-predictable-expenses-495h)
-- [AceHack 4.0: Where Ideas Meet Collaboration](https://dev.to/acehack/acehack-40-where-ideas-meet-collaboration-22p5)
-- [How to integrate AWS lamda serverless with Node.js Nest.js](https://dev.to/shaikhalamin/how-to-integrate-aws-lamda-serverless-with-nodejs-nestjs-5060)
-- [Best Practices for Securing Git LFS on GitHub, GitLab, Bitbucket, and Azure DevOps](https://dev.to/gitprotect/best-practices-for-securing-git-lfs-on-github-gitlab-bitbucket-and-azure-devops-hom)
+- [Docker for Dummies &lpar;Part 2&rpar;](https://dev.to/vigneshpb/docker-for-dummies-part-2-3aa9)
+- [Resolving npm Execution Policy Error in PowerShell: A Step-by-Step Guide for Developers](https://dev.to/jackfd120/resolving-npm-execution-policy-error-in-powershell-a-step-by-step-guide-for-developers-32ip)
+- [Automated Data Lineage: Tracking and Visualizing Data in Complex Systems](https://dev.to/kapusto/automated-data-lineage-tracking-and-visualizing-data-in-complex-systems-6m3)
+- [Resolving API Records Limit Issue with Pagination](https://dev.to/sarahs/resolving-api-records-limit-issue-with-pagination-5b77)
 <!-- BLOG-POST-LIST:END -->
 
