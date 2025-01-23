@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Multiple Payment Gateways in NestJS &lpar;With Stripe Example&rpar;](https://dev.to/henriqueweiand/how-to-integrate-multiple-payment-gateways-in-nestjs-with-stripe-example-54pi)
-- [How Can Payable AI Models Transform Businesses in the AI Era?](https://dev.to/joinwithken/how-can-payable-ai-models-transform-businesses-in-the-ai-era-324l)
-- [JSON Unescape: Understanding and Using It Effectively](https://dev.to/keploy/json-unescape-understanding-and-using-it-effectively-4j6d)
-- [10x0 = 0](https://dev.to/linkbenjamin/10x0-0-3igh)
+- [Avoiding Cloud Shock: How to Set Up AWS Budgets for Predictable Expenses](https://dev.to/lindiwe09/avoiding-cloud-shock-how-to-set-up-aws-budgets-for-predictable-expenses-495h)
+- [AceHack 4.0: Where Ideas Meet Collaboration](https://dev.to/acehack/acehack-40-where-ideas-meet-collaboration-22p5)
+- [How to integrate AWS lamda serverless with Node.js Nest.js](https://dev.to/shaikhalamin/how-to-integrate-aws-lamda-serverless-with-nodejs-nestjs-5060)
+- [Best Practices for Securing Git LFS on GitHub, GitLab, Bitbucket, and Azure DevOps](https://dev.to/gitprotect/best-practices-for-securing-git-lfs-on-github-gitlab-bitbucket-and-azure-devops-hom)
 <!-- BLOG-POST-LIST:END -->
 
