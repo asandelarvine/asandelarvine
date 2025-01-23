@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Dummies &lpar;Part 2&rpar;](https://dev.to/vigneshpb/docker-for-dummies-part-2-3aa9)
-- [Resolving npm Execution Policy Error in PowerShell: A Step-by-Step Guide for Developers](https://dev.to/jackfd120/resolving-npm-execution-policy-error-in-powershell-a-step-by-step-guide-for-developers-32ip)
-- [Automated Data Lineage: Tracking and Visualizing Data in Complex Systems](https://dev.to/kapusto/automated-data-lineage-tracking-and-visualizing-data-in-complex-systems-6m3)
-- [Resolving API Records Limit Issue with Pagination](https://dev.to/sarahs/resolving-api-records-limit-issue-with-pagination-5b77)
+- [&quot;Revolutionizing Radio Astronomy: The GLOT Tool for Data Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-radio-astronomy-the-glot-tool-for-data-analysis-1dof)
+- [Understanding Big O Notation for Frontend Developers](https://dev.to/roshankrsoni/understanding-big-o-notation-for-frontend-developers-2pdc)
+- [How I Turned My Habit Tracker Idea into Reality in 28 Days](https://dev.to/jithinjude/how-i-turned-my-habit-tracker-idea-into-reality-in-28-days-25gf)
+- [Top 10 most asked Java 8 Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-10-most-asked-java-8-questions-in-interviews-7p6)
 <!-- BLOG-POST-LIST:END -->
 
