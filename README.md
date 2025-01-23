@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7: Laravel Asana API Integration](https://dev.to/ehtesham_ali_abc367f36a5b/day-7-laravel-asana-api-integration-1ba5)
-- [101/365 | ¥10M Job Challenge - 2 Things in the World of AI That Will Never Change](https://dev.to/kameken100/101365-y10m-job-challenge-2-things-in-the-world-of-ai-that-will-never-change-1820)
-- [What is LocalStorage and How to Use LocalStorage with Next.js?](https://dev.to/swhabitation/what-is-localstorage-and-how-to-use-localstorage-with-nextjs-4gbd)
-- [What is EC2 in AWS? Everything about EC2 Fundamentals in AWS](https://dev.to/sign_my_code/what-is-ec2-in-aws-everything-about-ec2-fundamentals-in-aws-2hj)
+- [I tried out a new programming language for data analysts](https://dev.to/serina_8340/i-tried-out-a-new-programming-language-for-data-analysts-2m52)
+- [Secure Your Database: How DbVisualizer Prevents SQL Injection](https://dev.to/dbvismarketing/secure-your-database-how-dbvisualizer-prevents-sql-injection-1k58)
+- [Why Choose Malgo for Your Cryptocurrency Development Needs? A Comprehensive Guide](https://dev.to/andrew_kamal_d7e4aa2cac6d/why-choose-malgo-for-your-cryptocurrency-development-needs-a-comprehensive-guide-1l82)
+- [Sustainable DevOps: Reducing the Carbon Footprint of Software Development ✨♻️](https://dev.to/info_generalhazedawn_a3d/sustainable-devops-reducing-the-carbon-footprint-of-software-development-555g)
 <!-- BLOG-POST-LIST:END -->
 
