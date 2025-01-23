@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried out a new programming language for data analysts](https://dev.to/serina_8340/i-tried-out-a-new-programming-language-for-data-analysts-2m52)
-- [Secure Your Database: How DbVisualizer Prevents SQL Injection](https://dev.to/dbvismarketing/secure-your-database-how-dbvisualizer-prevents-sql-injection-1k58)
-- [Why Choose Malgo for Your Cryptocurrency Development Needs? A Comprehensive Guide](https://dev.to/andrew_kamal_d7e4aa2cac6d/why-choose-malgo-for-your-cryptocurrency-development-needs-a-comprehensive-guide-1l82)
-- [Sustainable DevOps: Reducing the Carbon Footprint of Software Development ✨♻️](https://dev.to/info_generalhazedawn_a3d/sustainable-devops-reducing-the-carbon-footprint-of-software-development-555g)
+- [Express 5.0.0: New Features and Updates](https://dev.to/leapcell/express-500-new-features-and-updates-48an)
+- [Reactive State Management Without Libraries](https://dev.to/adamgolan/reactive-state-management-without-libraries-51pj)
+- [Unifi: Change Inform URL](https://dev.to/sertxudev/unifi-change-inform-url-43hj)
+- [Deploying a Static website using AWS &lpar;S3+cloudfront&rpar;-React App](https://dev.to/harinivas_m_00360dd83f42/deploying-a-static-website-using-aws-s3cloudfront-react-app-404i)
 <!-- BLOG-POST-LIST:END -->
 
