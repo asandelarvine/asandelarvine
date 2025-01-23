@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing Radio Astronomy: The GLOT Tool for Data Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-radio-astronomy-the-glot-tool-for-data-analysis-1dof)
-- [Understanding Big O Notation for Frontend Developers](https://dev.to/roshankrsoni/understanding-big-o-notation-for-frontend-developers-2pdc)
-- [How I Turned My Habit Tracker Idea into Reality in 28 Days](https://dev.to/jithinjude/how-i-turned-my-habit-tracker-idea-into-reality-in-28-days-25gf)
-- [Top 10 most asked Java 8 Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-10-most-asked-java-8-questions-in-interviews-7p6)
+- [Composable Commerce Migration: Shaping the Future of Scalable Ecommerce Systems](https://dev.to/mikesays/composable-commerce-migration-shaping-the-future-of-scalable-ecommerce-systems-mkb)
+- [Popular DevOps Tools and Their Use Cases](https://dev.to/574n13y/popular-devops-tools-and-their-use-cases-3n3h)
+- [How to Start a React Project from Scratch with Git and GitHub](https://dev.to/tranmatt/how-to-start-a-react-project-from-scratch-with-git-and-github-2118)
+- [Secure Your AWS Pipeline: Step-by-Step Guide to VPC Integration](https://dev.to/aws-builders/secure-your-aws-pipeline-step-by-step-guide-to-vpc-integration-4n5i)
 <!-- BLOG-POST-LIST:END -->
 
