@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dreams &amp; Cheers](https://dev.to/alptekin/dreams-cheers-daj)
-- [Managing Developer Burnout with Better Productivity Tools 💻](https://dev.to/hamzakhan/managing-developer-burnout-with-better-productivity-tools-2gn7)
-- [A Beginner’s Guide to AIOps: The Future of Automated DevOps](https://dev.to/anshul_kichara/a-beginners-guide-to-aiops-the-future-of-automated-devops-35ne)
-- [New in Dev](https://dev.to/hasanmahmud/new-in-dev-44hc)
+- [CORS Misconfigurations in Laravel: Risks and Fixes](https://dev.to/pentest_testing_corp/cors-misconfigurations-in-laravel-risks-and-fixes-5all)
+- [Blazor WebAssembly with .Net Framework](https://dev.to/robodobdob/blazor-webassembly-with-net-framework-3276)
+- [3 GitHub Hacks You Didn’t Know You Needed &lpar;But Totally Do!&rpar; 🚀](https://dev.to/itxshakil/3-github-hacks-you-didnt-know-you-needed-but-totally-do-h8o)
+- [How to Start in Python &lpar;2025&rpar;: A New Coder’s Guide](https://dev.to/jay_ramoliya_1331a2addb80/how-to-start-in-python-2025-a-new-coders-guide-3d56)
 <!-- BLOG-POST-LIST:END -->
 
