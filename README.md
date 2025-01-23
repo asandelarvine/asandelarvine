@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Questions to Ask Recruiters During the Interview](https://dev.to/ebereplenty/essential-questions-to-ask-recruiters-during-the-interview-1j0e)
-- [Why Most Social Media Campaigns Fail—and How I Learned to Fix Them](https://dev.to/dizzy_strategy/why-most-social-media-campaigns-fail-and-how-i-learned-to-fix-them-20pk)
-- [How I Started Writing Unit Tests for Vue Components](https://dev.to/byteminds/how-i-started-writing-unit-tests-for-vue-components-1771)
-- [How to Make a Resume: A Complete Guide with ATS Friendly Templates!](https://dev.to/avinash201199/how-to-make-a-resume-a-complete-guide-with-ats-friendly-templates-21f1)
+- [[Boost]](https://dev.to/kantord/-5d36)
+- [Essential Security Tips for Users and Web3 Developers](https://dev.to/cryptosandy/essential-security-tips-for-users-and-web3-developers-1j2d)
+- [Customer Feedback Loops: How to Continuously Improve Your Products and Services](https://dev.to/feedbackmanagement/customer-feedback-loops-how-to-continuously-improve-your-products-and-services-2mk0)
+- [Top 10 No-Code Tools for Developers in 2025: Build Without Boundaries](https://dev.to/hadil/top-10-no-code-tools-for-developers-in-2025-build-without-boundaries-4b63)
 <!-- BLOG-POST-LIST:END -->
 
