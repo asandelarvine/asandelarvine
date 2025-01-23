@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Jolt AI on Product Hunt! meooow.link/jolt](https://dev.to/fmerian/launching-jolt-ai-on-product-hunt-meooowlinkjolt-20ff)
-- [Why we’re betting on Kubernetes &lpar;and you should too&rpar;](https://dev.to/cyclops-ui/why-were-betting-on-kubernetes-and-you-should-too-365k)
-- [Mastering React: The Complete Web Development Guide](https://dev.to/ideradevtools/mastering-react-the-complete-web-development-guide-378f)
-- [DreamDev Technologies PVT LTD](https://dev.to/dreamdev_947589cd09000835/dreamdev-technologies-pvt-ltd-25l5)
+- [How to Integrate Multiple Payment Gateways in NestJS &lpar;With Stripe Example&rpar;](https://dev.to/henriqueweiand/how-to-integrate-multiple-payment-gateways-in-nestjs-with-stripe-example-54pi)
+- [How Can Payable AI Models Transform Businesses in the AI Era?](https://dev.to/joinwithken/how-can-payable-ai-models-transform-businesses-in-the-ai-era-324l)
+- [JSON Unescape: Understanding and Using It Effectively](https://dev.to/keploy/json-unescape-understanding-and-using-it-effectively-4j6d)
+- [10x0 = 0](https://dev.to/linkbenjamin/10x0-0-3igh)
 <!-- BLOG-POST-LIST:END -->
 
