@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Summarizing The Effective Engineer Part 3](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-3-k9j)
-- [Ranking #1 Isn’t Enough: How to Drive Conversions 🚦](https://dev.to/genixbit/ranking-1-isnt-enough-how-to-drive-conversions-hdd)
-- [Summarizing The Effective Engineer Part 2](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-2-2fk)
-- [Summarizing The Effective Engineer Part 1](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-1-g2k)
+- [Dreams &amp; Cheers](https://dev.to/alptekin/dreams-cheers-daj)
+- [Managing Developer Burnout with Better Productivity Tools 💻](https://dev.to/hamzakhan/managing-developer-burnout-with-better-productivity-tools-2gn7)
+- [A Beginner’s Guide to AIOps: The Future of Automated DevOps](https://dev.to/anshul_kichara/a-beginners-guide-to-aiops-the-future-of-automated-devops-35ne)
+- [New in Dev](https://dev.to/hasanmahmud/new-in-dev-44hc)
 <!-- BLOG-POST-LIST:END -->
 
