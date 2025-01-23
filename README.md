@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Composable Commerce Migration: Shaping the Future of Scalable Ecommerce Systems](https://dev.to/mikesays/composable-commerce-migration-shaping-the-future-of-scalable-ecommerce-systems-mkb)
-- [Popular DevOps Tools and Their Use Cases](https://dev.to/574n13y/popular-devops-tools-and-their-use-cases-3n3h)
-- [How to Start a React Project from Scratch with Git and GitHub](https://dev.to/tranmatt/how-to-start-a-react-project-from-scratch-with-git-and-github-2118)
-- [Secure Your AWS Pipeline: Step-by-Step Guide to VPC Integration](https://dev.to/aws-builders/secure-your-aws-pipeline-step-by-step-guide-to-vpc-integration-4n5i)
+- [Newly LAUNCHED 30+ Github Repositories for Developers.](https://dev.to/gittech/newly-launched-30-github-repositories-for-developers-3o99)
+- [Is the Software Developer Job Market Dying? 2025 and Beyond](https://dev.to/bhuwan71/is-the-software-developer-job-market-dying-2025-and-beyond-1jbp)
+- [After More than 5 Years of Maintaining WordPress Websites, Here’s What I’ve Learned](https://dev.to/andgoedu/after-more-than-5-years-of-maintaining-wordpress-websites-heres-what-ive-learned-3in5)
+- [Complete Guide to AWS Route 53: DNS Management Made Easy! 🌐](https://dev.to/techwithhari/complete-guide-to-aws-route-53-dns-management-made-easy-4el1)
 <!-- BLOG-POST-LIST:END -->
 
