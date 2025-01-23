@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/metal3d/-52mi)
-- [Simple backup service with rclone, restic and systemd on WebDAV &lpar;or another storage&rpar;](https://dev.to/metal3d/simple-backup-service-with-rclone-restic-and-systemd-on-webdav-or-another-storage-3dlb)
-- [Angular](https://dev.to/mohammad_makeen/angular-4i0o)
-- [I am following several tags, but nothing is showing in my feed](https://dev.to/andypk/i-am-following-several-tags-but-nothing-is-showing-in-my-feed-29f5)
+- [It is big, it is free and it can change your webdev&#39;s life](https://dev.to/aloisseckar/it-is-big-it-is-free-and-it-can-change-your-webdevs-life-148p)
+- [6 Free Icon Libraries for Rails Apps](https://dev.to/railsdesigner/free-icon-libraries-for-rails-apps-26i0)
+- [How to Customize Your GitHub Profile Like a Pro! 🚀](https://dev.to/sbre/how-to-customize-your-github-profile-like-a-pro-3fm)
+- [How To Protect Your Data By Spotting Phishing Emails.](https://dev.to/graceh_/how-to-protect-your-data-by-spotting-phishing-emails-3ci0)
 <!-- BLOG-POST-LIST:END -->
 
