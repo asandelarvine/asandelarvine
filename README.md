@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript](https://dev.to/iamadeveloper/javascript-4ffe)
-- [Two-Day Razorpay Integration for Seamless Payments 🚀](https://dev.to/lovestaco/two-day-razorpay-integration-for-seamless-payments-1893)
-- [Modern Web Development: Essential Tools and Best Practices for Building Scalable Applications](https://dev.to/oleeeedev/modern-web-development-essential-tools-and-best-practices-for-building-scalable-applications-2a7j)
-- [A Comprehensive Guide to Building High-Quality Backlinks in 2025](https://dev.to/grape-marketing/a-comprehensive-guide-to-building-high-quality-backlinks-in-2025-4io4)
+- [[Boost]](https://dev.to/metal3d/-52mi)
+- [Simple backup service with rclone, restic and systemd on WebDAV &lpar;or another storage&rpar;](https://dev.to/metal3d/simple-backup-service-with-rclone-restic-and-systemd-on-webdav-or-another-storage-3dlb)
+- [Angular](https://dev.to/mohammad_makeen/angular-4i0o)
+- [I am following several tags, but nothing is showing in my feed](https://dev.to/andypk/i-am-following-several-tags-but-nothing-is-showing-in-my-feed-29f5)
 <!-- BLOG-POST-LIST:END -->
 
