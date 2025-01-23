@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is PostgreSQL Better Than MySQL?](https://dev.to/angelaswift/is-postgresql-better-than-mysql-4okm)
-- [Subtracting Vectors](https://dev.to/bazengdev/subtracting-vectors-13jk)
-- [Taking over a project, the SINAPTIA way](https://dev.to/sinaptia_dev/taking-over-a-project-the-sinaptia-way-1fjp)
-- [Fingertip.com - AI website builder with all the tools you need](https://dev.to/mblode/fingertipcom-ai-website-builder-with-all-the-tools-you-need-4l0)
+- [Summarizing The Effective Engineer Part 3](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-3-k9j)
+- [Ranking #1 Isn’t Enough: How to Drive Conversions 🚦](https://dev.to/genixbit/ranking-1-isnt-enough-how-to-drive-conversions-hdd)
+- [Summarizing The Effective Engineer Part 2](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-2-2fk)
+- [Summarizing The Effective Engineer Part 1](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-1-g2k)
 <!-- BLOG-POST-LIST:END -->
 
