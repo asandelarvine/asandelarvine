@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t know it, but your open-source might be worth millions of dollars 🤑](https://dev.to/nevodavid/you-dont-know-it-but-your-open-source-might-be-worth-millions-of-dollars-47c)
-- [Transparency vs. Anonymity in Crypto: Lessons from My Experience](https://dev.to/iri_denis/transparency-vs-anonymity-in-crypto-lessons-from-my-experience-ij6)
-- [Ultimate Guide to School Management Software Development](https://dev.to/ram_fb361bc2f8f94e06772e2/ultimate-guide-to-school-management-software-development-ljg)
-- [How to Test Applications with External APIs: Strategies and Solutions](https://dev.to/testscenario/how-to-test-applications-with-external-apis-strategies-and-solutions-22ec)
+- [Build a Collaborative Meeting App in React: Adding Whiteboard and Chat Features](https://dev.to/riyachudasama23/build-a-collaborative-meeting-app-in-react-adding-whiteboard-and-chat-features-3c5k)
+- [Setup VPS server with Cpanel for Nodejs Application &lpar;DNS, Mail&rpar;](https://dev.to/nurulislamrimon/setup-vps-server-with-cpanel-for-nodejs-application-dns-mail-164h)
+- [do while working diagram](https://dev.to/amitraky/do-while-working-diagram-3eo1)
+- [How to Train AI Models for Real-World Applications?](https://dev.to/julioherreravelutini/how-to-train-ai-models-for-real-world-applications-4j4k)
 <!-- BLOG-POST-LIST:END -->
 
