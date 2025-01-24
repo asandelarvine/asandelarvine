@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spin Joins CNCF Sandbox: Strengthening Adoption and Benefits for Organizations and Developers](https://dev.to/fermyon/spin-joins-cncf-sandbox-strengthening-adoption-and-benefits-for-organizations-and-developers-4m8f)
-- [Explore AI for Free with LLMSys: A Beginner&#39;s Guide](https://dev.to/angel_rojas_6904bae237a0d/explore-ai-for-free-with-llmsys-a-beginners-guide-396h)
-- [Tech Founders &amp; Leaders: Join Temporal&#39;s Lunch &amp; Learn at Sequoia Capital NYC!](https://dev.to/brandon_moorer_9dcfeab52c/tech-founders-leaders-join-temporals-lunch-learn-at-sequoia-capital-nyc-2b66)
-- [I made lots efforts to write this blog !!](https://dev.to/tingwei628/i-made-lots-efforts-to-write-this-blog--317d)
+- [SocialBuddy: create simple, impactful content for any platform](https://dev.to/sachinchaurasiya/socialbuddy-create-simple-impactful-content-for-any-platform-k0j)
+- [Top 10 most asked Git Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-10-most-asked-git-questions-in-interviews-1po6)
+- [103/365 | ¥10M Job Challenge - overloaded?](https://dev.to/kameken100/103365-y10m-job-challenge-overloaded-1139)
+- [Real-time chat with NestJS and Socket.io](https://dev.to/henriqueweiand/real-time-chat-with-nestjs-and-socketio-3e6e)
 <!-- BLOG-POST-LIST:END -->
 
