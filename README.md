@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java](https://dev.to/abin_tt/java-408d)
-- [Notes on Data Engineering Zoomcamp 2025 - Launch Stream](https://dev.to/pizofreude/notes-on-data-engineering-zoomcamp-2025-launch-stream-4mpm)
-- [Date in JS&lpar;Fully Covered&rpar;](https://dev.to/sarthak_kashmira_50d8ddac/date-in-jsfully-covered-489)
-- [My Journey to Becoming a Full-Stack Developer](https://dev.to/dahami_fabbio/my-journey-to-becoming-a-full-stack-developer-p8f)
+- [Understanding the STRIDE Function in Cybersecurity](https://dev.to/prabin750/understanding-the-stride-function-in-cybersecurity-1abe)
+- [&quot;Unlocking Stellar Secrets: Tidal Forces and 3D Reconstruction Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-stellar-secrets-tidal-forces-and-3d-reconstruction-innovations-204l)
+- [Should I Consider Writing a Book? 🤔](https://dev.to/trixsec/should-i-consider-writing-a-book-81i)
+- [Deploy a Laravel app on Hostinger &lpar;Using git&rpar;](https://dev.to/vimuth7/deploy-a-laravel-app-on-hostinger-using-git-1ice)
 <!-- BLOG-POST-LIST:END -->
 
