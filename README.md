@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Sell API Credits in Laravel](https://dev.to/arukomp/how-to-sell-api-credits-in-laravel-k30)
-- [WHAT THE 😂&#39; WITH GENERATIVE AI END TO END PIPELINE](https://dev.to/fonyuygita/what-the-with-generative-ai-end-to-end-pipeline-65l)
-- [Mastering Prefix &lpar;CIDR&rpar; Operations in net/netip 3/7](https://dev.to/rezmoss/mastering-prefix-cidr-operations-in-netnetip-37-3l5p)
-- [🚀 Mastering 2025: A Developer’s Guide](https://dev.to/aniruddhaadak/mastering-2025-a-developers-guide-187i)
+- [Mastering GraphQL Performance: 8 Expert Strategies for Optimizing Your API](https://dev.to/aaravjoshi/mastering-graphql-performance-8-expert-strategies-for-optimizing-your-api-5di0)
+- [This Week in Docker](https://dev.to/code42cate/this-week-in-docker-4hn)
+- [Estruturando Rotas em Sistemas Modulares](https://dev.to/ortizdavid/estruturando-rotas-em-sistemas-modulares-2203)
+- [The Definitive Guide to Prompt Management Systems](https://dev.to/mahmoud_mabrouk_41cf3a6c1/the-definitive-guide-to-prompt-management-systems-33em)
 <!-- BLOG-POST-LIST:END -->
 
