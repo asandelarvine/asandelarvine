@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#136 — Put Data in a Group Horizontally into Columns](https://dev.to/judith677/136-put-data-in-a-group-horizontally-into-columns-57gd)
-- [Telecom Industry Jobs: Exploring Careers in the Connectivity Sector with Professionals like David Bernard Ezell](https://dev.to/davidezell/telecom-industry-jobs-exploring-careers-in-the-connectivity-sector-with-professionals-like-david-28l1)
-- [Is PHP, at its age of 30 in 2025, past its prime?](https://dev.to/crawomg/is-php-at-its-age-of-30-in-2025-past-its-prime-2lb)
-- [From Idea to Reality: Readdy&#39;s story](https://dev.to/explorer1/from-idea-to-reality-readdys-story-2943)
+- [GitOps-Driven Multi-Cluster Kubernetes Management: A Deep Dive into Modern Infrastructure](https://dev.to/ramasankar_molleti_f7f80d/gitops-driven-multi-cluster-kubernetes-management-a-deep-dive-into-modern-infrastructure-3ka0)
+- [Mastering The Redo Shortcut Key: A Guide For Efficient Workflows](https://dev.to/keploy/mastering-the-redo-shortcut-key-a-guide-for-efficient-workflows-5j)
+- [Building a Custom JavaScript Framework from Scratch](https://dev.to/shotvpro/building-a-custom-javascript-framework-from-scratch-36pb)
+- [Learn DOM Manipulation](https://dev.to/bollaram_srinivas_d52ccbb/learn-dom-manipulation-1am7)
 <!-- BLOG-POST-LIST:END -->
 
