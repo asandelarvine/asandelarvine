@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [R-Lock vs Lock in Python](https://dev.to/hiteshchawla/r-lock-vs-lock-in-python-3po9)
-- [🗽 Top 5 DevOps AI Tools for 2025](https://dev.to/cicube/top-5-devops-ai-tools-for-2025-146l)
-- [PRAGMA AUTONOMOUS_TRANSACTION in ORACLE PLSQL - Use case](https://dev.to/mrcaption49/pragma-autonomoustransaction-in-oracle-plsql-use-case-2ehd)
-- [Libraries You Should Know if You Build with React Native](https://dev.to/aneeqakhan/libraries-you-should-know-if-you-build-with-react-native-3c6d)
+- [How ContentCraft Repurposes Your Blog Posts with AI](https://dev.to/ifihan/how-contentcraft-repurposes-your-blog-posts-with-ai-573g)
+- [Build A HTML form that sends an email from a Form Backend](https://dev.to/fabform2/build-a-html-form-that-sends-an-email-from-a-form-backend-43jh)
+- [Learnings from upgrading an existing Umbraco project to TailwindCSS 4](https://dev.to/skttl/learnings-from-upgrading-an-existing-umbraco-project-to-tailwindcss-4-20pc)
+- [Understanding libuv in Node.js](https://dev.to/piyushxmishra/understanding-libuv-in-nodejs-4haj)
 <!-- BLOG-POST-LIST:END -->
 
