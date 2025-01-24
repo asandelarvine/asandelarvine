@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/brunociccarino/-4mm)
-- [Tell me, what is your favorite theme? Of all the themes, which one do you like the most?](https://dev.to/brunociccarino/tell-me-what-is-your-favorite-theme-of-all-the-themes-which-one-do-you-like-the-most-4lo9)
-- [Unlock the Magic of Images: A Quick and Easy Guide to Using the Cutting-Edge SmolVLM-500M Model](https://dev.to/alexander_uspenskiy_the_great/unlock-the-magic-of-images-a-quick-and-easy-guide-to-using-the-cutting-edge-smolvlm-500m-model-366c)
-- [🚀 Your Daily Crypto Job Digest For 23 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-23-january-3524)
+- [Alertas Modernas y Efectivas para Next.js con Next.js Toast Notify](https://dev.to/urian121/alertas-modernas-y-efectivas-para-nextjs-con-nextjs-toast-notify-o8g)
+- [Understanding and Mitigating AWS Lambda Cold Starts](https://dev.to/adityabhuyan/understanding-and-mitigating-aws-lambda-cold-starts-4kcf)
+- [Understanding AWS Lambda Pricing: Why Execution Time Matters](https://dev.to/adityabhuyan/understanding-aws-lambda-pricing-why-execution-time-matters-2m7i)
+- [Current Date and Time for agents](https://dev.to/thewebtech/current-date-and-time-for-agents-32kj)
 <!-- BLOG-POST-LIST:END -->
 
