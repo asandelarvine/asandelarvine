@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How ContentCraft Repurposes Your Blog Posts with AI](https://dev.to/ifihan/how-contentcraft-repurposes-your-blog-posts-with-ai-573g)
-- [Build A HTML form that sends an email from a Form Backend](https://dev.to/fabform2/build-a-html-form-that-sends-an-email-from-a-form-backend-43jh)
-- [Learnings from upgrading an existing Umbraco project to TailwindCSS 4](https://dev.to/skttl/learnings-from-upgrading-an-existing-umbraco-project-to-tailwindcss-4-20pc)
-- [Understanding libuv in Node.js](https://dev.to/piyushxmishra/understanding-libuv-in-nodejs-4haj)
+- [You don&#39;t know it, but your open-source might be worth millions of dollars 🤑](https://dev.to/nevodavid/you-dont-know-it-but-your-open-source-might-be-worth-millions-of-dollars-47c)
+- [Transparency vs. Anonymity in Crypto: Lessons from My Experience](https://dev.to/iri_denis/transparency-vs-anonymity-in-crypto-lessons-from-my-experience-ij6)
+- [Ultimate Guide to School Management Software Development](https://dev.to/ram_fb361bc2f8f94e06772e2/ultimate-guide-to-school-management-software-development-ljg)
+- [How to Test Applications with External APIs: Strategies and Solutions](https://dev.to/testscenario/how-to-test-applications-with-external-apis-strategies-and-solutions-22ec)
 <!-- BLOG-POST-LIST:END -->
 
