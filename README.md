@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asas Kubernetes - Hari 3. Komponen penting didalam Master Node atau dikenali sebagai Control-Plane](https://dev.to/kodakademik/asas-kubernetes-hari-3-komponen-penting-didalam-master-node-atau-dikenali-sebagai-control-plane-4bn3)
-- [📰 Elon Musk publicly trashes Trump-backed Stargate AI project, clashes with OpenAI CEO Sam Altman](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-publicly-trashes-trump-backed-stargate-ai-project-clashes-with-openai-ceo-sam-altman-2n68)
-- [Logs - your secret weapon](https://dev.to/adegiamb/logs-your-secret-weapon-5h5i)
-- [End-to-End Video on Demand Solution in AWS](https://dev.to/gurudev_prasadteketi/end-to-end-video-on-demand-solution-in-aws-4fal)
+- [[Boost]](https://dev.to/brunociccarino/-4mm)
+- [Tell me, what is your favorite theme? Of all the themes, which one do you like the most?](https://dev.to/brunociccarino/tell-me-what-is-your-favorite-theme-of-all-the-themes-which-one-do-you-like-the-most-4lo9)
+- [Unlock the Magic of Images: A Quick and Easy Guide to Using the Cutting-Edge SmolVLM-500M Model](https://dev.to/alexander_uspenskiy_the_great/unlock-the-magic-of-images-a-quick-and-easy-guide-to-using-the-cutting-edge-smolvlm-500m-model-366c)
+- [🚀 Your Daily Crypto Job Digest For 23 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-23-january-3524)
 <!-- BLOG-POST-LIST:END -->
 
