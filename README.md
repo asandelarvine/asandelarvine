@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Collaborative Meeting App in React: Adding Whiteboard and Chat Features](https://dev.to/riyachudasama23/build-a-collaborative-meeting-app-in-react-adding-whiteboard-and-chat-features-3c5k)
-- [Setup VPS server with Cpanel for Nodejs Application &lpar;DNS, Mail&rpar;](https://dev.to/nurulislamrimon/setup-vps-server-with-cpanel-for-nodejs-application-dns-mail-164h)
-- [do while working diagram](https://dev.to/amitraky/do-while-working-diagram-3eo1)
-- [How to Train AI Models for Real-World Applications?](https://dev.to/julioherreravelutini/how-to-train-ai-models-for-real-world-applications-4j4k)
+- [FastAPI vs Django/Flask](https://dev.to/hiteshchawla/fastapi-vs-django-core-difference-103a)
+- [Introducing Squidly: Simplify Your GitHub Workflow Management](https://dev.to/fralps/introducing-squidly-simplify-your-github-workflow-management-b5h)
+- [Building a Simple and Efficient Language Translator for Your Projects](https://dev.to/muhammadaqib86/building-a-simple-and-efficient-language-translator-for-your-projects-47jj)
+- [Angular Topics](https://dev.to/anjali_gurjar_dff81513867/angular-topics-1p51)
 <!-- BLOG-POST-LIST:END -->
 
