@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps-Driven Multi-Cluster Kubernetes Management: A Deep Dive into Modern Infrastructure](https://dev.to/ramasankar_molleti_f7f80d/gitops-driven-multi-cluster-kubernetes-management-a-deep-dive-into-modern-infrastructure-3ka0)
-- [Mastering The Redo Shortcut Key: A Guide For Efficient Workflows](https://dev.to/keploy/mastering-the-redo-shortcut-key-a-guide-for-efficient-workflows-5j)
-- [Building a Custom JavaScript Framework from Scratch](https://dev.to/shotvpro/building-a-custom-javascript-framework-from-scratch-36pb)
-- [Learn DOM Manipulation](https://dev.to/bollaram_srinivas_d52ccbb/learn-dom-manipulation-1am7)
+- [Three Tier Architecture Part-1 Introduction](https://dev.to/sbshanjaiy/three-tier-architecture-introduction-part-1-3b55)
+- [Understanding Java Stream APIs: A Guide for Developers](https://dev.to/bharath_vasishtha/understanding-java-stream-apis-a-guide-for-developers-2ok6)
+- [RepoCast](https://dev.to/mkagenius/repocast-3d0j)
+- [Three Tier Architecture Part-2 S3 Bucket Creation And Iam Role](https://dev.to/sbshanjaiy/three-tier-architecture-p8l)
 <!-- BLOG-POST-LIST:END -->
 
