@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [May Jolt AI be the future of production-ready AI developer tools?](https://dev.to/fmerian/may-jolt-ai-be-the-future-of-production-ready-ai-developer-tools-1k80)
-- [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://dev.to/yev_yev_yev/introducing-jolt-ai-codegen-and-chat-for-100k-to-multi-million-line-codebases-1764)
-- [[Boost]](https://dev.to/mezmo/-453p)
-- [Setting up a VPC Infrastructure For Jenkins, Artifactory, Sonarqube on AWS using Terraform](https://dev.to/nonso_echendu_001/setting-up-a-vpc-infrastructure-for-jenkins-artifactory-sonarqube-on-aws-using-terraform-27ia)
+- [Asas Kubernetes - Hari 3. Komponen penting didalam Master Node atau dikenali sebagai Control-Plane](https://dev.to/kodakademik/asas-kubernetes-hari-3-komponen-penting-didalam-master-node-atau-dikenali-sebagai-control-plane-4bn3)
+- [📰 Elon Musk publicly trashes Trump-backed Stargate AI project, clashes with OpenAI CEO Sam Altman](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-publicly-trashes-trump-backed-stargate-ai-project-clashes-with-openai-ceo-sam-altman-2n68)
+- [Logs - your secret weapon](https://dev.to/adegiamb/logs-your-secret-weapon-5h5i)
+- [End-to-End Video on Demand Solution in AWS](https://dev.to/gurudev_prasadteketi/end-to-end-video-on-demand-solution-in-aws-4fal)
 <!-- BLOG-POST-LIST:END -->
 
