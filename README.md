@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛥️ Docker Architecture: The Engine Behind the Magic](https://dev.to/juniourrau/docker-architecture-the-engine-behind-the-magic-4d2a)
-- [Unit Testing in .NET: Getting Started with xUnit and NUnit](https://dev.to/ana_rena_51038dafebd2290/unit-testing-in-net-getting-started-with-xunit-and-nunit-48ck)
-- [Security news weekly round-up - 24th January 2025](https://dev.to/ziizium/security-news-weekly-round-up-24th-january-2025-828)
-- [ElasticTransform in PyTorch](https://dev.to/hyperkai/elastictransform-in-pytorch-50ng)
+- [Day 1088 : Solar Power](https://dev.to/dwane/day-1088-solar-power-f9d)
+- [Slashing S3 Costs: How Databend Reduced List API Expenses by 70%](https://dev.to/ksanaka/slashing-s3-costs-how-databend-reduced-list-api-expenses-by-70-1l6e)
+- [FSCSS animation example](https://dev.to/fscss-ttr/fscss-animation-example-j2j)
+- [Indexing for NOT EQUAL &lpar;&lt;&gt;,!=&rpar; in YugabyteDB, PostgreSQL, Oracle Database, SQL Server, and MongoDB](https://dev.to/aws-heroes/indexing-for-not-equal-in-yugabytedb-postgresql-oracle-database-and-mongodb-25mo)
 <!-- BLOG-POST-LIST:END -->
 
