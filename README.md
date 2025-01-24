@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Molecular Architecture](https://dev.to/almaju/the-molecular-architecture-28mc)
-- [ServBay 1.8.0 Released: Support for Apache](https://dev.to/servbay/servbay-180-released-support-for-apache-52bb)
-- [Top 30 most asked Linux Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-linux-questions-in-interviews-1na3)
-- [Python Virtual Environments: Why You Need Them and How to Use Them](https://dev.to/lovestaco/python-virtual-environments-why-you-need-them-and-how-to-use-them-1o1e)
+- [10 Tips to Optimize Your Laravel Application Performance](https://dev.to/savan1012/10-tips-to-optimize-your-laravel-application-performance-1abh)
+- [AZ900-Exam Ref by Jim Cheshire Chap. One Skill 1.1](https://dev.to/minhthongle/az900-exam-ref-by-jim-cheshire-chap-one-skill-11-1be4)
+- [Mastering AI Coding for Beginners: Build a Responsive Menu with Next.js](https://dev.to/codingmoney/mastering-ai-coding-for-beginners-build-a-responsive-menu-with-nextjs-1fa4)
+- [JavaScript Arrays: Filter](https://dev.to/oculus42/javascript-arrays-filter-4fe5)
 <!-- BLOG-POST-LIST:END -->
 
