@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Tier Architecture Part-1 Introduction](https://dev.to/sbshanjaiy/three-tier-architecture-introduction-part-1-3b55)
-- [Understanding Java Stream APIs: A Guide for Developers](https://dev.to/bharath_vasishtha/understanding-java-stream-apis-a-guide-for-developers-2ok6)
-- [RepoCast](https://dev.to/mkagenius/repocast-3d0j)
-- [Three Tier Architecture Part-2 S3 Bucket Creation And Iam Role](https://dev.to/sbshanjaiy/three-tier-architecture-p8l)
+- [Java](https://dev.to/abin_tt/java-408d)
+- [Notes on Data Engineering Zoomcamp 2025 - Launch Stream](https://dev.to/pizofreude/notes-on-data-engineering-zoomcamp-2025-launch-stream-4mpm)
+- [Date in JS&lpar;Fully Covered&rpar;](https://dev.to/sarthak_kashmira_50d8ddac/date-in-jsfully-covered-489)
+- [My Journey to Becoming a Full-Stack Developer](https://dev.to/dahami_fabbio/my-journey-to-becoming-a-full-stack-developer-p8f)
 <!-- BLOG-POST-LIST:END -->
 
