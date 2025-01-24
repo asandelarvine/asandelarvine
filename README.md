@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My latest fatigue!](https://dev.to/cadienvan/my-latest-fatigue-3h4d)
-- [What Sits And What Fits.](https://dev.to/cadienvan/what-sits-and-what-fits-o58)
-- [Getting Started with Firebase and Angular in idx.dev](https://dev.to/this-is-angular/getting-started-with-firebase-and-angular-in-idxdev-49h6)
-- [X Profile Roaster 🌶️🔥❤️‍🔥](https://dev.to/divya4879/x-profile-roaster-1ca0)
+- [How to Sell API Credits in Laravel](https://dev.to/arukomp/how-to-sell-api-credits-in-laravel-k30)
+- [WHAT THE 😂&#39; WITH GENERATIVE AI END TO END PIPELINE](https://dev.to/fonyuygita/what-the-with-generative-ai-end-to-end-pipeline-65l)
+- [Mastering Prefix &lpar;CIDR&rpar; Operations in net/netip 3/7](https://dev.to/rezmoss/mastering-prefix-cidr-operations-in-netnetip-37-3l5p)
+- [🚀 Mastering 2025: A Developer’s Guide](https://dev.to/aniruddhaadak/mastering-2025-a-developers-guide-187i)
 <!-- BLOG-POST-LIST:END -->
 
