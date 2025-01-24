@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching my AI all about using our TSQL.APP Framework that turns SQL Server into an Application Server](https://dev.to/rick_hoek_c401925e5aec039/teaching-my-ai-all-about-using-our-tsqlapp-framework-that-turns-sql-server-into-an-application-5ha3)
-- [How to Overcome Procrastination in the Second Quadrant and Boost Motivation &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-overcome-procrastination-in-the-second-quadrant-and-boost-motivation-bite-size-article-1in8)
-- [From Idea to Live Product in One Night: An Indie Dev&#39;s AWS Journey](https://dev.to/saar_tochner/from-idea-to-live-product-in-one-night-an-indie-devs-aws-journey-fcf)
-- [Acceptable attributes in tech stack](https://dev.to/codewander/acceptable-attributes-in-tech-stack-g7o)
+- [🛥️ Docker Architecture: The Engine Behind the Magic](https://dev.to/juniourrau/docker-architecture-the-engine-behind-the-magic-4d2a)
+- [Unit Testing in .NET: Getting Started with xUnit and NUnit](https://dev.to/ana_rena_51038dafebd2290/unit-testing-in-net-getting-started-with-xunit-and-nunit-48ck)
+- [Security news weekly round-up - 24th January 2025](https://dev.to/ziizium/security-news-weekly-round-up-24th-january-2025-828)
+- [ElasticTransform in PyTorch](https://dev.to/hyperkai/elastictransform-in-pytorch-50ng)
 <!-- BLOG-POST-LIST:END -->
 
