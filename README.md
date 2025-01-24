@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GraphQL Performance: 8 Expert Strategies for Optimizing Your API](https://dev.to/aaravjoshi/mastering-graphql-performance-8-expert-strategies-for-optimizing-your-api-5di0)
-- [This Week in Docker](https://dev.to/code42cate/this-week-in-docker-4hn)
-- [Estruturando Rotas em Sistemas Modulares](https://dev.to/ortizdavid/estruturando-rotas-em-sistemas-modulares-2203)
-- [The Definitive Guide to Prompt Management Systems](https://dev.to/mahmoud_mabrouk_41cf3a6c1/the-definitive-guide-to-prompt-management-systems-33em)
+- [Spin Joins CNCF Sandbox: Strengthening Adoption and Benefits for Organizations and Developers](https://dev.to/fermyon/spin-joins-cncf-sandbox-strengthening-adoption-and-benefits-for-organizations-and-developers-4m8f)
+- [Explore AI for Free with LLMSys: A Beginner&#39;s Guide](https://dev.to/angel_rojas_6904bae237a0d/explore-ai-for-free-with-llmsys-a-beginners-guide-396h)
+- [Tech Founders &amp; Leaders: Join Temporal&#39;s Lunch &amp; Learn at Sequoia Capital NYC!](https://dev.to/brandon_moorer_9dcfeab52c/tech-founders-leaders-join-temporals-lunch-learn-at-sequoia-capital-nyc-2b66)
+- [I made lots efforts to write this blog !!](https://dev.to/tingwei628/i-made-lots-efforts-to-write-this-blog--317d)
 <!-- BLOG-POST-LIST:END -->
 
