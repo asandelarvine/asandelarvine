@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Implementing Feature Flags in React via Permix](https://dev.to/letstri/implementing-feature-flags-in-react-via-permix-1dc)
-- [Exploring the Future: A Global Guide to the Best AI Technology Books](https://dev.to/julioherreravelutini/exploring-the-future-a-global-guide-to-the-best-ai-technology-books-4pkc)
-- [Introduction to Helm and Why It Matters](https://dev.to/manjunath_kotabal_3d1e736/introduction-to-helm-and-why-it-matters-1hgk)
-- [Amazon S3 + Cloudflare Cloud Connector magic](https://dev.to/petekip/amazon-s3-cloudflare-cloud-connector-magic-392f)
+- [Building Hounty: Baby steps](https://dev.to/valeriavg/building-an-app-baby-steps-2jb7)
+- [Task-24/01/2025](https://dev.to/neelakandan_ravi_2000/task-24012025-477f)
+- [Are you stuck in Software testing role check out A Step-by-Step Guide to Transitioning from Software Testing to DevOps](https://dev.to/techconcephub/are-you-stuck-in-software-testing-role-check-out-a-step-by-step-guide-to-transitioning-from-49ba)
+- [Understanding Angular Life Cycle Hooks](https://dev.to/himanshusinghtomar/understanding-angular-life-cycle-hooks-oi4)
 <!-- BLOG-POST-LIST:END -->
 
