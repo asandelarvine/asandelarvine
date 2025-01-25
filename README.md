@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling 2025: My Developer Roadmap 🛠️🚀](https://dev.to/talha666tahir/compiling-2025-my-developer-roadmap-50nf)
-- [Django Models Simplified: A Quick 4-Minute Guide for Beginners](https://dev.to/ebereplenty/django-models-simplified-a-quick-4-minute-guide-for-beginners-3a88)
-- [Supervised vs. Unsupervised Learning](https://dev.to/prezaei/understanding-supervised-vs-unsupervised-learning-g2g)
-- [104/365 | ¥10M Job Challenge - Learning and Work Productivity](https://dev.to/kameken100/104365-y10m-job-challenge-learning-and-work-productivity-3bk8)
+- [Navigating JavaScript: Async / Await](https://dev.to/liam-brophy/navigating-javascript-async-await-356b)
+- [Type, or Interface, That Is the Question](https://dev.to/leapcell/type-or-interface-that-is-the-question-50c7)
+- [How to change a word across multiple files in a directory using find and sed](https://dev.to/itwerx/how-to-change-a-word-across-multiple-files-in-a-directory-using-find-and-sed-1cod)
+- [Closer to God via Agent.ai](https://dev.to/victoronoja/closer-to-god-via-agentai-2pmk)
 <!-- BLOG-POST-LIST:END -->
 
