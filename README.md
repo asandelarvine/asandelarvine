@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Tauri &lpar;8&rpar; - Implementing global shortcut key function](https://dev.to/rain9/tauri-8-implementing-global-shortcut-key-function-2336)
+- [2025&#39;s Top 10 Python Web Frameworks Compared](https://dev.to/leapcell/top-10-python-web-frameworks-compared-3o82)
+- [How to Think and Solve Problems Like Sherlock Holmes as a Software Engineer](https://dev.to/dilanblog/how-to-think-and-solve-problems-like-sherlock-holmes-as-a-software-engineer-35j3)
 - [Why You Need HTMX in Your Life &lpar;and How to Get Started&rpar;](https://dev.to/digitalminds/why-you-need-htmx-in-your-life-and-how-to-get-started-294n)
-- [Is Multitasking a Skill—or Just a Fancy Word for Doing Nothing Well?](https://dev.to/nat_sun/is-multitasking-a-skill-or-just-a-fancy-word-for-doing-nothing-well-mp0)
-- [Mantle Network: The Modular Layer-2 Gem](https://dev.to/babalasisi/mantle-network-the-modular-layer-2-gem-5147)
-- [The &lt;sarcasm&gt; 🙄 component - now Brits can finally be understood on the web!](https://dev.to/grahamthedev/the-component-now-brits-can-finally-be-understood-on-the-web-33m1)
 <!-- BLOG-POST-LIST:END -->
 
