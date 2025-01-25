@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Learning DevOps &lpar;With Real-Time Project Example&rpar;](https://dev.to/priyanshu_singh_226a58ddb/a-beginners-guide-to-learning-devops-with-real-time-project-example-4c9n)
-- [A Beginner’s Guide to Learning DevOps &lpar;With Real-Time Project Example&rpar;](https://dev.to/anshsingh15/a-beginners-guide-to-learning-devops-with-real-time-project-example-2fee)
-- [Reading 10x more research papers](https://dev.to/vekambar/reading-10x-more-research-papers-40lj)
-- [Understanding Research Papers &lpar;e.g arxiv&rpar;](https://dev.to/vekambar/understanding-research-papers-eg-arxiv-2hij)
+- [Ensuring Security and Compliance with On Premises Identity Verification—FacePlugin’s Advanced Solutions](https://dev.to/faceplugin/ensuring-security-and-compliance-with-on-premises-identity-verification-faceplugins-advanced-1jpf)
+- [Rapidly Deploy ECS Infrastructure on AWS with AWS CDK &lpar;TypeScript&rpar;](https://dev.to/muhammad_ahmad_khan/rapidly-deploy-ecs-infrastructure-on-aws-with-aws-cdk-typescript-1fpk)
+- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-4be2)
+- [Build a Stunning 3D City Model with GISBox!](https://dev.to/gisbox/build-a-stunning-3d-city-model-with-gisbox-2aii)
 <!-- BLOG-POST-LIST:END -->
 
