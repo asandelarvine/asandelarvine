@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# LINQ Any Explained](https://dev.to/rafaeljcamara/c-linq-any-explained-3d58)
-- [MicroPie - ultra micro WSGI web framework for Python](https://dev.to/patx/micropie-ultra-micro-wsgi-web-framework-for-python-40l6)
-- [React.js: What I’ve Learned from My First Project](https://dev.to/egroene/reactjs-what-ive-learned-from-my-first-project-g1f)
-- [Everything You Need to Know About Types in TypeScript](https://dev.to/brunociccarino/everything-you-need-to-know-about-types-in-typescript-1leh)
+- [I couldn&#39;t find a job, so I made a SaaS my accident](https://dev.to/ahmed_yasser/i-couldnt-find-a-job-so-i-made-a-saas-my-accident-2il7)
+- [Exploring the New Architecture of React Native: A Step Towards Modernization 🔥](https://dev.to/ersuman/exploring-the-new-architecture-of-react-native-a-step-towards-modernization-5174)
+- [Mindmap Generator: How to Draw SVG-Based Graphs with AI-Generated Text and Images Using the Agent Approach](https://dev.to/sosuisen/mindmap-generator-how-to-draw-svg-based-graphs-with-ai-generated-text-and-images-using-the-agent-2po2)
+- [🔥Announcing Auto-I8LN: Simplify Flutter Internationalization &amp; Localization](https://dev.to/michealgabriel/announcing-auto-i8ln-simplify-flutter-internationalization-localization-3hm3)
 <!-- BLOG-POST-LIST:END -->
 
