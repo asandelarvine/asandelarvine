@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1088 : Solar Power](https://dev.to/dwane/day-1088-solar-power-f9d)
-- [Slashing S3 Costs: How Databend Reduced List API Expenses by 70%](https://dev.to/ksanaka/slashing-s3-costs-how-databend-reduced-list-api-expenses-by-70-1l6e)
-- [FSCSS animation example](https://dev.to/fscss-ttr/fscss-animation-example-j2j)
-- [Indexing for NOT EQUAL &lpar;&lt;&gt;,!=&rpar; in YugabyteDB, PostgreSQL, Oracle Database, SQL Server, and MongoDB](https://dev.to/aws-heroes/indexing-for-not-equal-in-yugabytedb-postgresql-oracle-database-and-mongodb-25mo)
+- [A Beginner’s Guide to Learning DevOps &lpar;With Real-Time Project Example&rpar;](https://dev.to/priyanshu_singh_226a58ddb/a-beginners-guide-to-learning-devops-with-real-time-project-example-4c9n)
+- [A Beginner’s Guide to Learning DevOps &lpar;With Real-Time Project Example&rpar;](https://dev.to/anshsingh15/a-beginners-guide-to-learning-devops-with-real-time-project-example-2fee)
+- [Reading 10x more research papers](https://dev.to/vekambar/reading-10x-more-research-papers-40lj)
+- [Understanding Research Papers &lpar;e.g arxiv&rpar;](https://dev.to/vekambar/understanding-research-papers-eg-arxiv-2hij)
 <!-- BLOG-POST-LIST:END -->
 
