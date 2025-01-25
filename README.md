@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Learning journey with TSI](https://dev.to/jibrin_masud_e989e2381636/my-learning-journey-with-tsi-1nei)
-- [Designing Website Layouts: A Friendly Guide](https://dev.to/lovestaco/designing-website-layouts-a-friendly-guide-29he)
-- [Understanding Internet Protocols: The Backbone of Communication](https://dev.to/hossamgouda/understanding-internet-protocols-the-backbone-of-communication-1bkc)
-- [C++19th Code &lpar; postfix &amp; Prefix&rpar; --&gt; &lpar;X++&rpar; &amp; &lpar;++X&rpar;](https://dev.to/md-salah/c19th-code-postfix-prefix-x-x-5ecl)
+- [C# LINQ Any Explained](https://dev.to/rafaeljcamara/c-linq-any-explained-3d58)
+- [MicroPie - ultra micro WSGI web framework for Python](https://dev.to/patx/micropie-ultra-micro-wsgi-web-framework-for-python-40l6)
+- [React.js: What I’ve Learned from My First Project](https://dev.to/egroene/reactjs-what-ive-learned-from-my-first-project-g1f)
+- [Everything You Need to Know About Types in TypeScript](https://dev.to/brunociccarino/everything-you-need-to-know-about-types-in-typescript-1leh)
 <!-- BLOG-POST-LIST:END -->
 
