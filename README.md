@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Hounty: Baby steps](https://dev.to/valeriavg/building-an-app-baby-steps-2jb7)
-- [Task-24/01/2025](https://dev.to/neelakandan_ravi_2000/task-24012025-477f)
-- [Are you stuck in Software testing role check out A Step-by-Step Guide to Transitioning from Software Testing to DevOps](https://dev.to/techconcephub/are-you-stuck-in-software-testing-role-check-out-a-step-by-step-guide-to-transitioning-from-49ba)
-- [Understanding Angular Life Cycle Hooks](https://dev.to/himanshusinghtomar/understanding-angular-life-cycle-hooks-oi4)
+- [Why You Need HTMX in Your Life &lpar;and How to Get Started&rpar;](https://dev.to/digitalminds/why-you-need-htmx-in-your-life-and-how-to-get-started-294n)
+- [Is Multitasking a Skill—or Just a Fancy Word for Doing Nothing Well?](https://dev.to/nat_sun/is-multitasking-a-skill-or-just-a-fancy-word-for-doing-nothing-well-mp0)
+- [Mantle Network: The Modular Layer-2 Gem](https://dev.to/babalasisi/mantle-network-the-modular-layer-2-gem-5147)
+- [The &lt;sarcasm&gt; 🙄 component - now Brits can finally be understood on the web!](https://dev.to/grahamthedev/the-component-now-brits-can-finally-be-understood-on-the-web-33m1)
 <!-- BLOG-POST-LIST:END -->
 
