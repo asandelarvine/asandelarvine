@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why DeepSeek Might Be the AI Tool to Replace ChatGPT Premium!](https://dev.to/joodi/why-deepseek-might-be-the-ai-tool-to-replace-chatgpt-premium-4mp5)
-- [Types of Renewable Energy: A Comprehensive Guide](https://dev.to/scitech-insights/types-of-renewable-energy-a-comprehensive-guide-3kdh)
-- [Practice5](https://dev.to/monica_c1d6b30fcaca/practice5-210a)
-- [Configure self-hosted runner for GitHub Actions](https://dev.to/busycaesar/configure-self-hosted-runner-for-github-actions-j1b)
+- [Responde como un experto: Gestión de incidentes y seguridad con AWS](https://dev.to/briansuarezsantiago/responde-como-un-experto-gestion-de-incidentes-y-seguridad-con-aws-43jc)
+- [2948. Make Lexicographically Smallest Array by Swapping Elements](https://dev.to/mdarifulhaque/2948-make-lexicographically-smallest-array-by-swapping-elements-2n9)
+- [Instalación y uso de TanStack Query &lpar;antes React Query&rpar;](https://dev.to/unpandadev/instalacion-y-uso-de-tanstack-query-antes-react-query-1g0i)
+- [Data Engineering Zoomcamp 2025 Cohort: Introduction - Self-Study Notes](https://dev.to/pizofreude/data-engineering-zoomcamp-2025-cohort-introduction-self-study-notes-44a4)
 <!-- BLOG-POST-LIST:END -->
 
