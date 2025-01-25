@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Your Workflow with a Powerful Screenshot API](https://dev.to/theaiguy786/revolutionize-your-workflow-with-a-powerful-screenshot-api-44p3)
-- [What&#39;s New and Migration Guide: Tailwind CSS v4.0](https://dev.to/kasenda/whats-new-and-migration-guide-tailwind-css-v40-3kag)
-- [Prototype Design Pattern Explained](https://dev.to/dzungnt98/prototype-design-pattern-explained-2n1f)
-- [Must try this frontend project if you are a newbie 🚀](https://dev.to/msranjana/must-try-this-frontend-project-if-you-are-a-newbie-493)
+- [The Evolution of Purchase Order Automation: What’s Next?](https://dev.to/rockeye/the-evolution-of-purchase-order-automation-whats-next-126d)
+- [Daily UI Design Challenge: Day 5 – Elevate Your UI Design Skills](https://dev.to/jds64/daily-ui-design-challenge-day-5-elevate-your-ui-design-skills-bph)
+- [7 React Custom Hooks I Can’t Live Without in My Projects 🚀](https://dev.to/sovannaro/7-react-custom-hooks-i-cant-live-without-in-my-projects-14lj)
+- [Overcoming Challenges: Thriving with Tech Trends as a Full-Stack Developer](https://dev.to/dminatto/overcoming-challenges-thriving-with-tech-trends-as-a-full-stack-developer-21mf)
 <!-- BLOG-POST-LIST:END -->
 
