@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating JavaScript: Async / Await](https://dev.to/liam-brophy/navigating-javascript-async-await-356b)
-- [Type, or Interface, That Is the Question](https://dev.to/leapcell/type-or-interface-that-is-the-question-50c7)
-- [How to change a word across multiple files in a directory using find and sed](https://dev.to/itwerx/how-to-change-a-word-across-multiple-files-in-a-directory-using-find-and-sed-1cod)
-- [Closer to God via Agent.ai](https://dev.to/victoronoja/closer-to-god-via-agentai-2pmk)
+- [My Learning journey with TSI](https://dev.to/jibrin_masud_e989e2381636/my-learning-journey-with-tsi-1nei)
+- [Designing Website Layouts: A Friendly Guide](https://dev.to/lovestaco/designing-website-layouts-a-friendly-guide-29he)
+- [Understanding Internet Protocols: The Backbone of Communication](https://dev.to/hossamgouda/understanding-internet-protocols-the-backbone-of-communication-1bkc)
+- [C++19th Code &lpar; postfix &amp; Prefix&rpar; --&gt; &lpar;X++&rpar; &amp; &lpar;++X&rpar;](https://dev.to/md-salah/c19th-code-postfix-prefix-x-x-5ecl)
 <!-- BLOG-POST-LIST:END -->
 
