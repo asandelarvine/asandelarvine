@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [In-Depth Study of ZGC &lpar;Z Garbage Collector&rpar;](https://dev.to/ryan_zhi/in-depth-study-of-zgc-z-garbage-collector-2lo)
+- [Tauri &lpar;1&rpar; — A desktop application development solution more suitable for web developers ✅](https://dev.to/rain9/tauri-1-a-desktop-application-development-solution-more-suitable-for-web-developers-38c2)
 - [Tauri &lpar;8&rpar; - Implementing global shortcut key function](https://dev.to/rain9/tauri-8-implementing-global-shortcut-key-function-2336)
-- [2025&#39;s Top 10 Python Web Frameworks Compared](https://dev.to/leapcell/top-10-python-web-frameworks-compared-3o82)
-- [How to Think and Solve Problems Like Sherlock Holmes as a Software Engineer](https://dev.to/dilanblog/how-to-think-and-solve-problems-like-sherlock-holmes-as-a-software-engineer-35j3)
-- [Why You Need HTMX in Your Life &lpar;and How to Get Started&rpar;](https://dev.to/digitalminds/why-you-need-htmx-in-your-life-and-how-to-get-started-294n)
+- [AceHack 4.0: Innovation Meets Entertainment](https://dev.to/acehack/acehack-40-innovation-meets-entertainment-k58)
 <!-- BLOG-POST-LIST:END -->
 
