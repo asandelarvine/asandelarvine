@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Security and Compliance with On Premises Identity Verification—FacePlugin’s Advanced Solutions](https://dev.to/faceplugin/ensuring-security-and-compliance-with-on-premises-identity-verification-faceplugins-advanced-1jpf)
-- [Rapidly Deploy ECS Infrastructure on AWS with AWS CDK &lpar;TypeScript&rpar;](https://dev.to/muhammad_ahmad_khan/rapidly-deploy-ecs-infrastructure-on-aws-with-aws-cdk-typescript-1fpk)
-- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-4be2)
-- [Build a Stunning 3D City Model with GISBox!](https://dev.to/gisbox/build-a-stunning-3d-city-model-with-gisbox-2aii)
+- [Seeking Compliance over](https://dev.to/sosmation/seeking-compliance-over-2ki9)
+- [Convert a GeoTIFF for Use with Cesium&#39;s Imagery Provider using GISBox](https://dev.to/gisbox/convert-a-geotiff-for-use-with-cesiums-imagery-provider-using-gisbox-1nl8)
+- [GISBox generates models with one click and easily completes format conversion](https://dev.to/gisbox/gisbox-generates-models-with-one-click-and-easily-completes-format-conversion-4li8)
+- [Frontend Performance Optimization: A Comprehensive Guide 🚀](https://dev.to/alisamir/frontend-performance-optimization-a-comprehensive-guide-2bfk)
 <!-- BLOG-POST-LIST:END -->
 
