@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Purchase Order Automation: What’s Next?](https://dev.to/rockeye/the-evolution-of-purchase-order-automation-whats-next-126d)
-- [Daily UI Design Challenge: Day 5 – Elevate Your UI Design Skills](https://dev.to/jds64/daily-ui-design-challenge-day-5-elevate-your-ui-design-skills-bph)
-- [7 React Custom Hooks I Can’t Live Without in My Projects 🚀](https://dev.to/sovannaro/7-react-custom-hooks-i-cant-live-without-in-my-projects-14lj)
-- [Overcoming Challenges: Thriving with Tech Trends as a Full-Stack Developer](https://dev.to/dminatto/overcoming-challenges-thriving-with-tech-trends-as-a-full-stack-developer-21mf)
+- [Subnetting Essentials](https://dev.to/godofgeeks/subnetting-essentials-4nog)
+- [JavaScript Performance Optimization Tips for 2025.](https://dev.to/balrajola/javascript-performance-optimization-tips-for-2025-4h38)
+- [Password Hashing and Data Integrity in Real-World Implementation](https://dev.to/nozibul_islam_113b1d5334f/password-hashing-and-data-integrity-in-real-world-implementation-50g6)
+- [Advancements in Artificial Intelligence &lpar;AI&rpar; and Quantum Computing: A Technological Revolution](https://dev.to/ayusharpcoder/advancements-in-artificial-intelligence-ai-and-quantum-computing-a-technological-revolution-4f77)
 <!-- BLOG-POST-LIST:END -->
 
