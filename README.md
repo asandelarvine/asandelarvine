@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In-Depth Study of ZGC &lpar;Z Garbage Collector&rpar;](https://dev.to/ryan_zhi/in-depth-study-of-zgc-z-garbage-collector-2lo)
-- [Tauri &lpar;1&rpar; — A desktop application development solution more suitable for web developers ✅](https://dev.to/rain9/tauri-1-a-desktop-application-development-solution-more-suitable-for-web-developers-38c2)
-- [Tauri &lpar;8&rpar; - Implementing global shortcut key function](https://dev.to/rain9/tauri-8-implementing-global-shortcut-key-function-2336)
-- [AceHack 4.0: Innovation Meets Entertainment](https://dev.to/acehack/acehack-40-innovation-meets-entertainment-k58)
+- [Why DeepSeek Might Be the AI Tool to Replace ChatGPT Premium!](https://dev.to/joodi/why-deepseek-might-be-the-ai-tool-to-replace-chatgpt-premium-4mp5)
+- [Types of Renewable Energy: A Comprehensive Guide](https://dev.to/scitech-insights/types-of-renewable-energy-a-comprehensive-guide-3kdh)
+- [Practice5](https://dev.to/monica_c1d6b30fcaca/practice5-210a)
+- [Configure self-hosted runner for GitHub Actions](https://dev.to/busycaesar/configure-self-hosted-runner-for-github-actions-j1b)
 <!-- BLOG-POST-LIST:END -->
 
