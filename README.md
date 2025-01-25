@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Comparison: CISSP vs. CCSP in 2025](https://dev.to/p2p_certs_5787663da138fad/comprehensive-comparison-cissp-vs-ccsp-in-2025-85h)
-- [Understanding AJAX, XMLHttpRequest, and Fetch API in JavaScript](https://dev.to/krushna_sananse/understanding-ajax-xmlhttprequest-and-fetch-api-in-javascript-ijf)
-- [CheckMate - quick and easy-to-use fact-checking assistant that combats misinformation](https://dev.to/filipehb/checkmate-quick-and-easy-to-use-fact-checking-assistant-that-combats-misinformation-3n41)
-- [Managing Production Configurations in ASP.NET Core WebAPI Using Environment Variables](https://dev.to/imzihad21/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf)
+- [Revolutionize Your Workflow with a Powerful Screenshot API](https://dev.to/theaiguy786/revolutionize-your-workflow-with-a-powerful-screenshot-api-44p3)
+- [What&#39;s New and Migration Guide: Tailwind CSS v4.0](https://dev.to/kasenda/whats-new-and-migration-guide-tailwind-css-v40-3kag)
+- [Prototype Design Pattern Explained](https://dev.to/dzungnt98/prototype-design-pattern-explained-2n1f)
+- [Must try this frontend project if you are a newbie 🚀](https://dev.to/msranjana/must-try-this-frontend-project-if-you-are-a-newbie-493)
 <!-- BLOG-POST-LIST:END -->
 
