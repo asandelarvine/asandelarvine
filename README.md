@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Subnetting Essentials](https://dev.to/godofgeeks/subnetting-essentials-4nog)
-- [JavaScript Performance Optimization Tips for 2025.](https://dev.to/balrajola/javascript-performance-optimization-tips-for-2025-4h38)
-- [Password Hashing and Data Integrity in Real-World Implementation](https://dev.to/nozibul_islam_113b1d5334f/password-hashing-and-data-integrity-in-real-world-implementation-50g6)
-- [Advancements in Artificial Intelligence &lpar;AI&rpar; and Quantum Computing: A Technological Revolution](https://dev.to/ayusharpcoder/advancements-in-artificial-intelligence-ai-and-quantum-computing-a-technological-revolution-4f77)
+- [&quot;Unlocking Stellar Secrets: Tidal Interactions and Cosmic Filaments Explored&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-stellar-secrets-tidal-interactions-and-cosmic-filaments-explored-1ghf)
+- [The real problems are not employers AFAIK but EU itself as they put constraints on employers who try to hire people without proper credentials or confirmed years of experience.](https://dev.to/framemuse/the-real-problems-are-not-employers-afaik-but-eu-itself-as-they-dont-put-constraints-on-employers-3ki5)
+- [From Automation Testing to Developer: A Fresh Grad&#39;s Journey](https://dev.to/hereeisha/from-automation-testing-to-developer-a-fresh-grads-journey-ch3)
+- [How to Integrate RazorPay in Next.js 14/15 with Easy Steps.](https://dev.to/hanuchaudhary/how-to-integrate-razorpay-in-nextjs-1415-with-easy-steps-fl7)
 <!-- BLOG-POST-LIST:END -->
 
