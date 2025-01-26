@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI SDK by Vercel vs. Pydantic AI: A Tale of Two Frameworks for Modern AI Development](https://dev.to/simplr_sh/ai-sdk-by-vercel-vs-pydantic-ai-a-tale-of-two-frameworks-for-modern-ai-development-4cli)
-- [#137 — Re-group or Sort When Filling Grouped Data into Columns](https://dev.to/judith677/137-re-group-or-sort-when-filling-grouped-data-into-columns-4eac)
-- [Top 10 Tech Podcasts for Software Engineers to Level Up in 2025](https://dev.to/jaiminbariya/top-10-tech-podcasts-for-software-engineers-to-level-up-in-2025-518j)
-- [Task and Parallel](https://dev.to/sborhade/task-and-parallel-dlf)
+- [How to Build a CRUD App with Golang, Gin, and PostgreSQL](https://dev.to/mazyaryousefinia/how-to-build-a-crud-app-with-golang-gin-and-postgresql-4h4l)
+- [Pad in PyTorch](https://dev.to/hyperkai/pad-in-pytorch-416a)
+- [From Express to Laravel: My Journey of Rewriting a 5-Year-Old REST API &lpar;and Surviving the Chaos&rpar;](https://dev.to/darkterminal/from-express-to-laravel-my-journey-of-rewriting-a-5-year-old-rest-api-and-surviving-the-chaos-3da7)
+- [El Astrónomo que Derrotó a un Hacker 🚨💻](https://dev.to/francotel/el-astronomo-que-derroto-a-un-hacker-3cne)
 <!-- BLOG-POST-LIST:END -->
 
