@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Something Could Double the Development Efficiency of Java Programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-1n35)
-- [7 React Lessons I Wish I Knew Earlier &lpar;with TypeScript Examples&rpar;](https://dev.to/sovannaro/7-react-lessons-i-wish-i-knew-earlier-with-typescript-examples-8ho)
-- [How AI Is Transforming Code Learning—for Better and for Worse](https://dev.to/sarthology/how-ai-is-transforming-code-learning-for-better-and-for-worse-2nhc)
-- [AI Pet Finder](https://dev.to/wenheli/ai-pet-finder-167a)
+- [Fix Insufficient TLS in Laravel: Guide with Free Security Tools](https://dev.to/pentest_testing_corp/fix-insufficient-tls-in-laravel-guide-with-free-security-tools-21n3)
+- [Python Logging: loguru vs logging](https://dev.to/leapcell/python-logging-loguru-vs-logging-1f55)
+- [When You Open a Website What Exactly happens Internally](https://dev.to/ashutoshsarangi/when-you-open-a-website-what-exactly-happens-internally-jff)
+- [Python Caching mutable values](https://dev.to/ninadmhatre/python-caching-mutable-values-213f)
 <!-- BLOG-POST-LIST:END -->
 
