@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a model from my data on Kaggle](https://dev.to/_5fd0ac428c1e7fb4765d6b/how-to-create-a-model-from-my-data-on-kaggle-3pij)
-- [🚀 Git Workflow: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/git-workflow-essential-tips-and-tricks-for-developers-2n84)
-- [Transitioning from Monolithic to Microservices Architecture in .NET: A Comprehensive Step-by-Step Guide](https://dev.to/leandroveiga/transitioning-from-monolithic-to-microservices-architecture-in-net-a-comprehensive-step-by-step-4gl0)
-- [Building the World&#39;s First User-Friendly DNS Manager: The is-cod.in DNS Panel Story](https://dev.to/araan/building-the-worlds-first-user-friendly-dns-manager-the-is-codin-dns-panel-story-5c0o)
+- [OpenTofu - Encrypted State + Git to Bootstrap Infrastructure](https://dev.to/zloeber/opentofu-encrypted-state-git-to-bootstrap-infrastructure-47lj)
+- [@Slf4j = Facade Pattern + Service Locator Pattern](https://dev.to/minisundev/slf4j-facade-pattern-service-locator-pattern-45pa)
+- [Job Compatibility Analyzer - Never Again Waste Your Time Applying for a Job You Aren&#39;t Qualified for](https://dev.to/jeffrey_leavitt_cf31e7e50/never-again-waste-your-time-applying-for-a-job-you-arent-qualified-for-2el9)
+- [How We Used a Starter Kit to Finish Our Project Faster](https://dev.to/faciletechnolab/how-we-used-a-starter-kit-to-finish-our-project-faster-3mok)
 <!-- BLOG-POST-LIST:END -->
 
