@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19: New Hooks Every Developer Should Know](https://dev.to/swagath_tp_/react-19-new-hooks-every-developer-should-know-40dl)
-- [Getting Started with Encore.go](https://dev.to/eminetto/getting-started-with-encorego-3pk2)
-- [How can I create a killer business presentation that&#39;s more of a show than a speech?](https://dev.to/0x5a_live/how-can-i-create-a-killer-business-presentation-thats-more-of-a-show-than-a-speech-11eb)
-- [Git Bash Gradle Ctrl+C Fix: A Practical Guide](https://dev.to/0x2e_tech/git-bash-gradle-ctrlc-fix-a-practical-guide-4e1j)
+- [Writing Event-Driven Serverless Code to Build Scalable Applications](https://dev.to/chiragagg5k/writing-event-driven-serverless-code-to-build-scalable-applications-2mol)
+- [DeepThink R1 vs GPT: The AI Showdown That’s Changing Everything](https://dev.to/arpitstack/deepthink-r1-vs-gpt-the-ai-showdown-thats-changing-everything-30cp)
+- [Study Notes: DE Zoomcamp 1.2.1 - Introduction to Docker](https://dev.to/pizofreude/study-notes-de-zoomcamp-121-introduction-to-docker-bj4)
+- [Introducing SponsoShield | An AI powered agent to indetify sponsors on youtube](https://dev.to/hikolakita/introducing-sponsoshield-an-ai-powered-agent-to-indetify-sponsors-on-youtube-e1l)
 <!-- BLOG-POST-LIST:END -->
 
