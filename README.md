@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I couldn&#39;t find a job, so I made a SaaS my accident](https://dev.to/ahmed_yasser/i-couldnt-find-a-job-so-i-made-a-saas-my-accident-2il7)
-- [Exploring the New Architecture of React Native: A Step Towards Modernization 🔥](https://dev.to/ersuman/exploring-the-new-architecture-of-react-native-a-step-towards-modernization-5174)
-- [Mindmap Generator: How to Draw SVG-Based Graphs with AI-Generated Text and Images Using the Agent Approach](https://dev.to/sosuisen/mindmap-generator-how-to-draw-svg-based-graphs-with-ai-generated-text-and-images-using-the-agent-2po2)
-- [🔥Announcing Auto-I8LN: Simplify Flutter Internationalization &amp; Localization](https://dev.to/michealgabriel/announcing-auto-i8ln-simplify-flutter-internationalization-localization-3hm3)
+- [How to create a model from my data on Kaggle](https://dev.to/_5fd0ac428c1e7fb4765d6b/how-to-create-a-model-from-my-data-on-kaggle-3pij)
+- [🚀 Git Workflow: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/git-workflow-essential-tips-and-tricks-for-developers-2n84)
+- [Transitioning from Monolithic to Microservices Architecture in .NET: A Comprehensive Step-by-Step Guide](https://dev.to/leandroveiga/transitioning-from-monolithic-to-microservices-architecture-in-net-a-comprehensive-step-by-step-4gl0)
+- [Building the World&#39;s First User-Friendly DNS Manager: The is-cod.in DNS Panel Story](https://dev.to/araan/building-the-worlds-first-user-friendly-dns-manager-the-is-codin-dns-panel-story-5c0o)
 <!-- BLOG-POST-LIST:END -->
 
