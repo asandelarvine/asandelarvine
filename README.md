@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Views in Databases: A Complete Guide 🧠💡](https://dev.to/abhivyaktii/understanding-views-in-databases-a-complete-guide-167f)
 - [How Web Workers Saved My JavaScript App from Performance Hell 🚀](https://dev.to/digitalminds/how-web-workers-saved-my-javascript-app-from-performance-hell-1kkg)
+- [Automating Cost Management: Creating AWS Budgets with Terraform ⚙️](https://dev.to/aws-heroes/automating-cost-management-creating-aws-budgets-with-terraform-40no)
 - [Big News: Web Accidents is LIVE! 🎉](https://dev.to/vigneshiyergithub/big-news-web-accidents-is-live-2639)
-- [General Overview Of Computer Architecture](https://dev.to/zzhihao/general-overview-of-computer-architecture-59ip)
-- [Introduction to Linked Lists in PHP: A Beginner&#39;s Guide](https://dev.to/abdulwahidkahar/introduction-to-linked-lists-in-php-a-beginners-guide-5fe6)
 <!-- BLOG-POST-LIST:END -->
 
