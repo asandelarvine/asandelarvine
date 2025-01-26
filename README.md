@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Capture Your Best Ideas Anytime, Anywhere with Brain Dump: The AI-Powered Writing Assistant for Effortless Content Creation!](https://dev.to/josectoscano/capture-your-best-ideas-anytime-anywhere-with-brain-dump-the-ai-powered-writing-assistant-for-1glo)
 - [Understanding Views in Databases: A Complete Guide 🧠💡](https://dev.to/abhivyaktii/understanding-views-in-databases-a-complete-guide-167f)
 - [How Web Workers Saved My JavaScript App from Performance Hell 🚀](https://dev.to/digitalminds/how-web-workers-saved-my-javascript-app-from-performance-hell-1kkg)
 - [Automating Cost Management: Creating AWS Budgets with Terraform ⚙️](https://dev.to/aws-heroes/automating-cost-management-creating-aws-budgets-with-terraform-40no)
-- [Big News: Web Accidents is LIVE! 🎉](https://dev.to/vigneshiyergithub/big-news-web-accidents-is-live-2639)
 <!-- BLOG-POST-LIST:END -->
 
