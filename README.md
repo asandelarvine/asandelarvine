@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React 19: New Hooks Every Developer Should Know](https://dev.to/swagath_tp_/react-19-new-hooks-every-developer-should-know-40dl)
+- [Getting Started with Encore.go](https://dev.to/eminetto/getting-started-with-encorego-3pk2)
 - [How can I create a killer business presentation that&#39;s more of a show than a speech?](https://dev.to/0x5a_live/how-can-i-create-a-killer-business-presentation-thats-more-of-a-show-than-a-speech-11eb)
 - [Git Bash Gradle Ctrl+C Fix: A Practical Guide](https://dev.to/0x2e_tech/git-bash-gradle-ctrlc-fix-a-practical-guide-4e1j)
-- [Hack the Future: AI &amp; Open Source Hackathon](https://dev.to/abdibrokhim/hack-the-future-ai-open-source-hackathon-4hp3)
-- [What happens when you ignore clear financial problems?](https://dev.to/0x5a_live/what-happens-when-you-ignore-clear-financial-problems-4bak)
 <!-- BLOG-POST-LIST:END -->
 
