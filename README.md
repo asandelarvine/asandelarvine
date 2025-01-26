@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Secrets Manager: Mantén tus secretos seguros y fuera del código](https://dev.to/briansuarezsantiago/aws-secrets-manager-manten-tus-secretos-seguros-y-fuera-del-codigo-591h)
-- [NestJs Backend Overview](https://dev.to/tak089/nestjs-backend-overview-4no1)
-- [Creating and Managing Custom systemd Services on Ubuntu](https://dev.to/edgaras/creating-and-managing-custom-systemd-services-on-ubuntu-dkh)
-- [Unraveling the &quot;===&quot; of javascript](https://dev.to/mmvergara/unraveling-the-of-javascript-2h36)
+- [Spring Batch 5 : a simple use case with tests](https://dev.to/sbouhaddi/spring-batch-5-a-simple-use-case-with-tests-4fmi)
+- [Exploring Zeek: A Powerful Network Security Monitoring Tool](https://dev.to/aj_0/exploring-zeek-a-powerful-network-security-monitoring-tool-3iol)
+- [Starting a project](https://dev.to/lucas-moura-veloso/starting-a-project-35i9)
+- [Telco Churn Classification Project](https://dev.to/ndumbe0/telco-churn-classification-project-3pol)
 <!-- BLOG-POST-LIST:END -->
 
