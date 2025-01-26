@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inventing Blockchain: The tale of a frustrated programmer](https://dev.to/acoh3n/inventing-blockchain-the-tale-of-a-frustrated-programmer-2o9f)
-- [🐳DeepSeek API Integration 🌟 🔥](https://dev.to/hanzla-baig/deepseek-api-integration-2cpe)
-- [Redis Pub/Sub vs Redis Streams: A Dev-Friendly Comparison](https://dev.to/lovestaco/redis-pubsub-vs-redis-streams-a-dev-friendly-comparison-39hm)
-- [The Power of Quantization: Shrinking GPT2, Unleashing Speed](https://dev.to/shrsv/the-power-of-quantization-shrinking-gpt2-unleashing-speed-5h7c)
+- [2025 React vs. Vue Tech Stack Comparison for Your Startup](https://dev.to/abubakersiddique761/2025-react-vs-vue-tech-stack-comparison-for-your-startup-556n)
+- [A Brief History of Frontend Engineering](https://dev.to/leapcell/a-brief-history-of-frontend-engineering-b27)
+- [What Makes You Think You&#39;re Too Fat to Make Money?](https://dev.to/0x5a_live/what-makes-you-think-youre-too-fat-to-make-money-m1g)
+- [How might selfless acts build a profitable business?](https://dev.to/0x5a_live/how-might-selfless-acts-build-a-profitable-business-2gk6)
 <!-- BLOG-POST-LIST:END -->
 
