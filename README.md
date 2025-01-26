@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Referring styles of other vue file](https://dev.to/hadakadenkyu/referring-styles-of-other-vue-file-34ec)
-- [Top 5 Upvoty Alternatives in 2025](https://dev.to/shayy/top-5-upvoty-alternatives-in-2025-3h45)
-- [Email Sender Service](https://dev.to/yadab_sutradhar/email-sender-service-gg1)
-- [Host React with Blazor Server](https://dev.to/ruxozheng/host-react-with-blazor-server-6ff)
+- [AI SDK by Vercel vs. Pydantic AI: A Tale of Two Frameworks for Modern AI Development](https://dev.to/simplr_sh/ai-sdk-by-vercel-vs-pydantic-ai-a-tale-of-two-frameworks-for-modern-ai-development-4cli)
+- [#137 — Re-group or Sort When Filling Grouped Data into Columns](https://dev.to/judith677/137-re-group-or-sort-when-filling-grouped-data-into-columns-4eac)
+- [Top 10 Tech Podcasts for Software Engineers to Level Up in 2025](https://dev.to/jaiminbariya/top-10-tech-podcasts-for-software-engineers-to-level-up-in-2025-518j)
+- [Task and Parallel](https://dev.to/sborhade/task-and-parallel-dlf)
 <!-- BLOG-POST-LIST:END -->
 
