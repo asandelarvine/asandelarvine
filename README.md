@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu - Encrypted State + Git to Bootstrap Infrastructure](https://dev.to/zloeber/opentofu-encrypted-state-git-to-bootstrap-infrastructure-47lj)
-- [@Slf4j = Facade Pattern + Service Locator Pattern](https://dev.to/minisundev/slf4j-facade-pattern-service-locator-pattern-45pa)
-- [Job Compatibility Analyzer - Never Again Waste Your Time Applying for a Job You Aren&#39;t Qualified for](https://dev.to/jeffrey_leavitt_cf31e7e50/never-again-waste-your-time-applying-for-a-job-you-arent-qualified-for-2el9)
-- [How We Used a Starter Kit to Finish Our Project Faster](https://dev.to/faciletechnolab/how-we-used-a-starter-kit-to-finish-our-project-faster-3mok)
+- [Referring styles of other vue file](https://dev.to/hadakadenkyu/referring-styles-of-other-vue-file-34ec)
+- [Top 5 Upvoty Alternatives in 2025](https://dev.to/shayy/top-5-upvoty-alternatives-in-2025-3h45)
+- [Email Sender Service](https://dev.to/yadab_sutradhar/email-sender-service-gg1)
+- [Host React with Blazor Server](https://dev.to/ruxozheng/host-react-with-blazor-server-6ff)
 <!-- BLOG-POST-LIST:END -->
 
