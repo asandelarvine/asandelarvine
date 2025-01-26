@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How Web Workers Saved My JavaScript App from Performance Hell 🚀](https://dev.to/digitalminds/how-web-workers-saved-my-javascript-app-from-performance-hell-1kkg)
+- [Big News: Web Accidents is LIVE! 🎉](https://dev.to/vigneshiyergithub/big-news-web-accidents-is-live-2639)
+- [General Overview Of Computer Architecture](https://dev.to/zzhihao/general-overview-of-computer-architecture-59ip)
 - [Introduction to Linked Lists in PHP: A Beginner&#39;s Guide](https://dev.to/abdulwahidkahar/introduction-to-linked-lists-in-php-a-beginners-guide-5fe6)
-- [Get started with Vector Search in Azure Cosmos DB](https://dev.to/abhirockzz/get-started-with-vector-search-in-azure-cosmos-db-15dk)
-- [Rust and Go: The Future of High-Performance Computing](https://dev.to/adamgolan/rust-and-go-the-future-of-high-performance-computing-2gpc)
-- [10 Must Read Data Structures and Algorithms Books for Developers](https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1)
 <!-- BLOG-POST-LIST:END -->
 
