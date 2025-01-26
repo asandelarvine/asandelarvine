@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a CRUD App with Golang, Gin, and PostgreSQL](https://dev.to/mazyaryousefinia/how-to-build-a-crud-app-with-golang-gin-and-postgresql-4h4l)
-- [Pad in PyTorch](https://dev.to/hyperkai/pad-in-pytorch-416a)
-- [From Express to Laravel: My Journey of Rewriting a 5-Year-Old REST API &lpar;and Surviving the Chaos&rpar;](https://dev.to/darkterminal/from-express-to-laravel-my-journey-of-rewriting-a-5-year-old-rest-api-and-surviving-the-chaos-3da7)
-- [El Astrónomo que Derrotó a un Hacker 🚨💻](https://dev.to/francotel/el-astronomo-que-derroto-a-un-hacker-3cne)
+- [Daily UI Challenge Day 6: User Profile Design to Boost Your UI/UX Skills](https://dev.to/jds64/daily-ui-design-challenge-day-6-elevate-your-ui-design-skills-222g)
+- [Ebook Fasih HTML5 &amp; CSS3 DARI 0](https://dev.to/ligmatv/ebook-fasih-html5-css3-dari-0-582k)
+- [Running SQL on files with the esProc is very convenient, on par with duckDB](https://dev.to/alberto_robertson/running-sql-on-files-with-the-esproc-is-very-convenient-on-par-with-duckdb-37cm)
+- [Is there Any Unique Project Ideas left?](https://dev.to/lakshita_kumawat/is-there-any-unique-project-ideas-left-1jl3)
 <!-- BLOG-POST-LIST:END -->
 
