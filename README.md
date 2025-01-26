@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Event-Driven Serverless Code to Build Scalable Applications](https://dev.to/chiragagg5k/writing-event-driven-serverless-code-to-build-scalable-applications-2mol)
-- [DeepThink R1 vs GPT: The AI Showdown That’s Changing Everything](https://dev.to/arpitstack/deepthink-r1-vs-gpt-the-ai-showdown-thats-changing-everything-30cp)
-- [Study Notes: DE Zoomcamp 1.2.1 - Introduction to Docker](https://dev.to/pizofreude/study-notes-de-zoomcamp-121-introduction-to-docker-bj4)
-- [Introducing SponsoShield | An AI powered agent to indetify sponsors on youtube](https://dev.to/hikolakita/introducing-sponsoshield-an-ai-powered-agent-to-indetify-sponsors-on-youtube-e1l)
+- [Inventing Blockchain: The tale of a frustrated programmer](https://dev.to/acoh3n/inventing-blockchain-the-tale-of-a-frustrated-programmer-2o9f)
+- [🐳DeepSeek API Integration 🌟 🔥](https://dev.to/hanzla-baig/deepseek-api-integration-2cpe)
+- [Redis Pub/Sub vs Redis Streams: A Dev-Friendly Comparison](https://dev.to/lovestaco/redis-pubsub-vs-redis-streams-a-dev-friendly-comparison-39hm)
+- [The Power of Quantization: Shrinking GPT2, Unleashing Speed](https://dev.to/shrsv/the-power-of-quantization-shrinking-gpt2-unleashing-speed-5h7c)
 <!-- BLOG-POST-LIST:END -->
 
