@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Insufficient TLS in Laravel: Guide with Free Security Tools](https://dev.to/pentest_testing_corp/fix-insufficient-tls-in-laravel-guide-with-free-security-tools-21n3)
-- [Python Logging: loguru vs logging](https://dev.to/leapcell/python-logging-loguru-vs-logging-1f55)
-- [When You Open a Website What Exactly happens Internally](https://dev.to/ashutoshsarangi/when-you-open-a-website-what-exactly-happens-internally-jff)
-- [Python Caching mutable values](https://dev.to/ninadmhatre/python-caching-mutable-values-213f)
+- [EC2 putty,Mobaxterm+ IAM + S3](https://dev.to/sanjay02112004/ec2-puttymobaxterm-iam-s3-1310)
+- [10 Simple &amp; Easy Steps to Create a Website](https://dev.to/tarunfulera1/10-simple-easy-steps-to-create-a-website-5cgo)
+- [Sports API System with Amazon ECS and API Gateway](https://dev.to/ayindejamiu/sports-api-system-with-amazon-ecs-and-api-gateway-1da1)
+- [The Internet Computer Protocol &lpar;ICP&rpar;: A Technical Deep Dive into the World Computer](https://dev.to/amity808/the-internet-computer-protocol-icp-a-technical-deep-dive-into-the-world-computer-1jl)
 <!-- BLOG-POST-LIST:END -->
 
