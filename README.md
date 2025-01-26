@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Linked Lists in PHP: A Beginner&#39;s Guide](https://dev.to/abdulwahidkahar/introduction-to-linked-lists-in-php-a-beginners-guide-5fe6)
+- [Get started with Vector Search in Azure Cosmos DB](https://dev.to/abhirockzz/get-started-with-vector-search-in-azure-cosmos-db-15dk)
+- [Rust and Go: The Future of High-Performance Computing](https://dev.to/adamgolan/rust-and-go-the-future-of-high-performance-computing-2gpc)
 - [10 Must Read Data Structures and Algorithms Books for Developers](https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1)
-- [InfluenceIQ: The Ultimate AI Tool for Smarter Influencer Marketing](https://dev.to/ronit_chawla_88d33416a2cd/influenceiq-the-ultimate-ai-tool-for-smarter-influencer-marketing-2i0e)
-- [Redis Demystified: A Simple Introduction for System Design 🧩](https://dev.to/priya01/redis-demystified-a-simple-introduction-for-system-design-56mb)
-- [ng-conf 2024: Angular control flow](https://dev.to/mehdi1/ng-conf-2024-angular-control-flow-4p4k)
 <!-- BLOG-POST-LIST:END -->
 
