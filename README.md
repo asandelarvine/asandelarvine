@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily UI Challenge Day 6: User Profile Design to Boost Your UI/UX Skills](https://dev.to/jds64/daily-ui-design-challenge-day-6-elevate-your-ui-design-skills-222g)
-- [Ebook Fasih HTML5 &amp; CSS3 DARI 0](https://dev.to/ligmatv/ebook-fasih-html5-css3-dari-0-582k)
-- [Running SQL on files with the esProc is very convenient, on par with duckDB](https://dev.to/alberto_robertson/running-sql-on-files-with-the-esproc-is-very-convenient-on-par-with-duckdb-37cm)
-- [Is there Any Unique Project Ideas left?](https://dev.to/lakshita_kumawat/is-there-any-unique-project-ideas-left-1jl3)
+- [Something Could Double the Development Efficiency of Java Programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-1n35)
+- [7 React Lessons I Wish I Knew Earlier &lpar;with TypeScript Examples&rpar;](https://dev.to/sovannaro/7-react-lessons-i-wish-i-knew-earlier-with-typescript-examples-8ho)
+- [How AI Is Transforming Code Learning—for Better and for Worse](https://dev.to/sarthology/how-ai-is-transforming-code-learning-for-better-and-for-worse-2nhc)
+- [AI Pet Finder](https://dev.to/wenheli/ai-pet-finder-167a)
 <!-- BLOG-POST-LIST:END -->
 
