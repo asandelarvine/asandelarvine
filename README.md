@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 27 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-27-january-k9m)
-- [Go&#39;s http.ServeMux Is All You Need](https://dev.to/leapcell/gos-httpservemux-is-all-you-need-1mam)
-- [Building Custom Insurance Policy Management Application 60% Faster](https://dev.to/openkoda/building-custom-insurance-policy-management-application-60-faster-667)
-- [Convert Dates to Persian Time in React](https://dev.to/joodi/convert-dates-to-persian-time-in-react-1a6e)
+- [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
+- [EC2 Placement Groups: Fine-Tuning Your Cloud Infrastructure for Specific Workload Needs](https://dev.to/lindiwe09/ec2-placement-groups-fine-tuning-your-cloud-infrastructure-for-specific-workload-needs-3bm2)
+- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
+- [Meme Monday](https://dev.to/ben/meme-monday-419k)
 <!-- BLOG-POST-LIST:END -->
 
