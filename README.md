@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
-- [EC2 Placement Groups: Fine-Tuning Your Cloud Infrastructure for Specific Workload Needs](https://dev.to/lindiwe09/ec2-placement-groups-fine-tuning-your-cloud-infrastructure-for-specific-workload-needs-3bm2)
-- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
-- [Meme Monday](https://dev.to/ben/meme-monday-419k)
+- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
+- [Creating An AI Agent For Kubernetes Performance Optimization](https://dev.to/thenjdevopsguy/creating-an-ai-agent-for-kubernetes-performance-optimization-2nl9)
+- [Tools with ChatContext Dependency Injection](https://dev.to/ag2ai/tools-with-chatcontext-dependency-injection-187m)
+- [Comparing Amazon DynamoDB with Other NoSQL Databases: MongoDB and Cassandra](https://dev.to/imsushant12/comparing-amazon-dynamodb-with-other-nosql-databases-mongodb-and-cassandra-1h16)
 <!-- BLOG-POST-LIST:END -->
 
