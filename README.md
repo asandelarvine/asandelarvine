@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-505k)
-- [Stay ahead in web development: latest news, tools, and insights #69](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-69-1128)
-- [How Much Does it Cost to Develop an App like Myntra](https://dev.to/yudizsolutions/how-much-does-it-cost-to-develop-an-app-like-myntra-2lpn)
-- [When Your Series A Success Becomes a Code Review Crisis](https://dev.to/camshotter/when-your-series-a-success-becomes-a-code-review-crisis-40ad)
+- [2025: A Great Start for Linkspreed and Web4](https://dev.to/web4/2025-a-great-start-for-linkspreed-and-web4-576h)
+- [Top Chrome extensions for web design in 2025](https://dev.to/paul_freeman/top-chrome-extensions-for-web-design-in-2025-1gah)
+- [Sidekick Bot - Generate Editable Designs With The Help of AI &lpar;ON HOLD&rpar;](https://dev.to/schemetastic/sidekick-bot-generate-editable-designs-with-the-help-of-ai-on-hold-3fpl)
+- [Top Mass Email Services for Reliable Bulk Email Delivery](https://dev.to/sam_devid_65bbbe34ab06c1a/top-mass-email-services-for-reliable-bulk-email-delivery-2kf0)
 <!-- BLOG-POST-LIST:END -->
 
