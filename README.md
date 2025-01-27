@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #206](https://dev.to/aws/aws-open-source-newsletter-206-3l9f)
+- [Uncertain number but regular column to row conversion:From SQL to SPL#5](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reportingfrom-sql-to-spl5-4cle)
+- [🚀 API, Styling, and Frameworks: A Comprehensive Developer’s Guide](https://dev.to/0x2e_tech/api-styling-and-frameworks-a-comprehensive-developers-guide-4ag1)
 - [Agent: Content summariser](https://dev.to/saloni0512/agent-content-summariser-38f9)
-- [ResearchByte: Techy+bite-sized videos in minutes](https://dev.to/dhanushreddy29/researchbyte-techybite-sized-videos-in-minutes-3a1l)
-- [ResearchByte: Techy + bite-sized videos in minutes](https://dev.to/dhanushreddy29/researchbyte-techy-bite-sized-videos-in-minutes-2ef7)
-- [AI Meme Generator: Where Humor Meets Virality](https://dev.to/ifihan/ai-meme-generator-where-humor-meets-virality-1k00)
 <!-- BLOG-POST-LIST:END -->
 
