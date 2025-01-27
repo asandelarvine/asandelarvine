@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Overcomplicating CSS: Master Layouts, Variables, and Modern Best Practices](https://dev.to/mikehtmlallthethings/stop-overcomplicating-css-master-layouts-variables-and-modern-best-practices-11cb)
 - [DeepSeek releases new image model family](https://dev.to/ben/deepseek-releases-new-image-model-family-2en0)
 - [Docker Swarm vs Kubernetes](https://dev.to/code42cate/docker-swarm-vs-kubernetes-41m9)
-- [Top 4 Toasts: The Unsung Heroes of User Notifications](https://dev.to/lovestaco/top-4-toasts-the-unsung-heroes-of-user-notifications-5nh)
-- [Deepseek Market Impact — Monday Jan 27](https://dev.to/ben/deepseek-market-impact-2g2n)
+- [Announcing Our New Golang Blog!](https://dev.to/alongwaytogo/announcing-our-new-golang-blog-4hd)
 <!-- BLOG-POST-LIST:END -->
 
