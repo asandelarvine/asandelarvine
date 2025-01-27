@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #206](https://dev.to/aws/aws-open-source-newsletter-206-3l9f)
-- [Uncertain number but regular column to row conversion:From SQL to SPL#5](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reportingfrom-sql-to-spl5-4cle)
-- [🚀 API, Styling, and Frameworks: A Comprehensive Developer’s Guide](https://dev.to/0x2e_tech/api-styling-and-frameworks-a-comprehensive-developers-guide-4ag1)
-- [Agent: Content summariser](https://dev.to/saloni0512/agent-content-summariser-38f9)
+- [How to Create a Unified Contact List by merging multiple VCF files?](https://dev.to/loganwalker/how-to-create-a-unified-contact-list-by-merging-multiple-vcf-files-5323)
+- [A Step-by-Step Guide to Install DeepSeek-R1 Locally with Ollama, vLLM or Transformers](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-44a1)
+- [10 Common Website Development Mistakes to Avoid in 2025](https://dev.to/metablock_seo_b927d38fdbe/10-common-website-development-mistakes-to-avoid-in-2025-dil)
+- [Npm package my-animated-components](https://dev.to/mrider007/npm-package-my-animated-components-i0e)
 <!-- BLOG-POST-LIST:END -->
 
