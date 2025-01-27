@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When Your Series A Success Becomes a Code Review Crisis](https://dev.to/camshotter/when-your-series-a-success-becomes-a-code-review-crisis-40ad)
+- [Summarizing &quot;What Every Computer Scientist Should Know About Floating Point Arithmetic&quot;](https://dev.to/absterdabster/summarizing-what-every-computer-scientist-should-know-about-floating-point-arithmetic-h0b)
 - [SocialSelling Radar : Be Prepared for Every Lead](https://dev.to/moadhdev/socialselling-radar-be-prepared-for-every-lead-1062)
 - [🚀 API Analysis Github Repository 🔥 🌐](https://dev.to/hanzla-baig/api-analysis-github-repository-1e0i)
-- [Internet Gateway en AWS Desde Cero](https://dev.to/camila_vinza/internet-gateway-en-aws-desde-cero-51b2)
-- [How to setup Nomba checkout on Woocommerce](https://dev.to/nomba-financial-service/how-to-setup-nomba-checkout-on-woocommerce-4o05)
 <!-- BLOG-POST-LIST:END -->
 
