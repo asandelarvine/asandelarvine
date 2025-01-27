@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
-- [Creating An AI Agent For Kubernetes Performance Optimization](https://dev.to/thenjdevopsguy/creating-an-ai-agent-for-kubernetes-performance-optimization-2nl9)
-- [Tools with ChatContext Dependency Injection](https://dev.to/ag2ai/tools-with-chatcontext-dependency-injection-187m)
-- [Comparing Amazon DynamoDB with Other NoSQL Databases: MongoDB and Cassandra](https://dev.to/imsushant12/comparing-amazon-dynamodb-with-other-nosql-databases-mongodb-and-cassandra-1h16)
+- [How to Become a Self-Taught Web Developer in 2025](https://dev.to/tarunfulera1/how-to-become-a-self-taught-web-developer-in-2025-2j37)
+- [7 Best Event Chat Platforms for 2025](https://dev.to/aprogrammer22/7-best-event-chat-platforms-for-2025-2nb)
+- [Attending Tech Conferences With a Toddler: A DevRel Mom’s Story](https://dev.to/vonagedev/attending-tech-conferences-with-a-toddler-a-devrel-moms-story-41np)
+- [DeepSeek-R1: The Open-Source AI That&#39;s Making Waves &lpar;on a Budget!&rpar;](https://dev.to/sayed_ali_alkamel/deepseek-r1-the-open-source-ai-thats-making-waves-on-a-budget-13ik)
 <!-- BLOG-POST-LIST:END -->
 
