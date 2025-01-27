@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Curated - Github&#39;s Top 30 Repositories of Jan 27, 2025](https://dev.to/gittech/curated-githubs-top-30-repositories-of-jan-27-2025-2ada)
-- [🚀 25+ React Must-Read Articles.](https://dev.to/dev-resources/25-react-must-read-articles-13ci)
-- [Make a FREE AI Chatbot with Discord + Vercel 🤖](https://dev.to/best_codes/make-a-free-ai-chatbot-with-discord-vercel-373l)
-- [The Best DB Browser for SQLite](https://dev.to/burcs/the-best-db-browser-for-sqlite-2pj4)
+- [Top 4 Toasts: The Unsung Heroes of User Notifications](https://dev.to/lovestaco/top-4-toasts-the-unsung-heroes-of-user-notifications-5nh)
+- [Deepseek Market Impact — Monday Jan 27](https://dev.to/ben/deepseek-market-impact-2g2n)
+- [Fullstack Developer&#39;s Complete Setup in VSCode + Transparent Background with Image](https://dev.to/brunociccarino/fullstack-developers-complete-setup-in-vscode-transparent-background-with-image-258e)
+- [🚀 7 Essential Fix-It Guides for Developers](https://dev.to/0x2e_tech/7-essential-fix-it-guides-for-developers-4h3a)
 <!-- BLOG-POST-LIST:END -->
 
