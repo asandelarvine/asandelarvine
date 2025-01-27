@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streaming CSV Downloads in Rails: A Practical Guide](https://dev.to/daviducolo/streaming-csv-downloads-in-rails-a-practical-guide-41hi)
+- [How To Do Form Validation in Vue with Tanstack Form](https://dev.to/aaronksaunders/how-to-do-form-validation-in-vue-with-tanstack-form-39m5)
+- [AI could end my job — Just not the way I expected](https://dev.to/manuartero/ai-could-end-my-job-just-not-the-way-i-expected-5g3m)
 - [How to Become a Self-Taught Web Developer in 2025](https://dev.to/tarunfulera1/how-to-become-a-self-taught-web-developer-in-2025-2j37)
-- [7 Best Event Chat Platforms for 2025](https://dev.to/aprogrammer22/7-best-event-chat-platforms-for-2025-2nb)
-- [Attending Tech Conferences With a Toddler: A DevRel Mom’s Story](https://dev.to/vonagedev/attending-tech-conferences-with-a-toddler-a-devrel-moms-story-41np)
-- [DeepSeek-R1: The Open-Source AI That&#39;s Making Waves &lpar;on a Budget!&rpar;](https://dev.to/sayed_ali_alkamel/deepseek-r1-the-open-source-ai-thats-making-waves-on-a-budget-13ik)
 <!-- BLOG-POST-LIST:END -->
 
