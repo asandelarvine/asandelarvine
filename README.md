@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your JavaScript more readable with named parameters](https://dev.to/tahazsh/make-your-javascript-more-readable-with-named-parameters-1okl)
-- [Demystifying Two Phase Commit &lpar;2PC&rpar; for Distributed Transaction in Microservices](https://dev.to/ovichowdhury/demystifying-two-phase-commit-2pc-for-distributed-transaction-in-microservices-5ca7)
-- [Hosting a Vue.js App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-vuejs-app-without-a-server-using-pinggy-4obh)
-- [DeepSeek-V3: Laziness vs Eagerness](https://dev.to/maximsaplin/deepseek-v3-laziness-vs-eagerness-52bi)
+- [🚀 Your Daily Crypto Job Digest For 27 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-27-january-k9m)
+- [Go&#39;s http.ServeMux Is All You Need](https://dev.to/leapcell/gos-httpservemux-is-all-you-need-1mam)
+- [Building Custom Insurance Policy Management Application 60% Faster](https://dev.to/openkoda/building-custom-insurance-policy-management-application-60-faster-667)
+- [Convert Dates to Persian Time in React](https://dev.to/joodi/convert-dates-to-persian-time-in-react-1a6e)
 <!-- BLOG-POST-LIST:END -->
 
