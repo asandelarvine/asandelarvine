@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The difference between arrays as Lists in Java?](https://dev.to/devmercy/the-difference-between-arrays-as-lists-in-java-55j8)
-- [How to Use Deepseek API and Enable Streaming Output for Debugging](https://dev.to/auden/how-to-use-deepseek-api-and-enable-streaming-output-for-debugging-1ah9)
-- [JavaScript NaN Quirks: Features, Not Flaws.](https://dev.to/mmvergara/javascript-nan-quirks-features-not-flaws-1f90)
-- [Cloud-Based Software Development: An In-Depth Guide](https://dev.to/ram_fb361bc2f8f94e06772e2/cloud-based-software-development-an-in-depth-guide-2kle)
+- [Make your JavaScript more readable with named parameters](https://dev.to/tahazsh/make-your-javascript-more-readable-with-named-parameters-1okl)
+- [Demystifying Two Phase Commit &lpar;2PC&rpar; for Distributed Transaction in Microservices](https://dev.to/ovichowdhury/demystifying-two-phase-commit-2pc-for-distributed-transaction-in-microservices-5ca7)
+- [Hosting a Vue.js App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-vuejs-app-without-a-server-using-pinggy-4obh)
+- [DeepSeek-V3: Laziness vs Eagerness](https://dev.to/maximsaplin/deepseek-v3-laziness-vs-eagerness-52bi)
 <!-- BLOG-POST-LIST:END -->
 
