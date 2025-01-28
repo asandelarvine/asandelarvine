@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s VOTING TIME! 🥳. Here are a few things to keep in mind for this phase.](https://dev.to/abdibrokhim/its-voting-time-here-are-a-few-things-to-keep-in-mind-for-this-phase-2hj0)
-- [Build a Scalable Data Pipeline with JavaScript? Yes, You Can](https://dev.to/digitalminds/build-a-scalable-data-pipeline-with-javascript-yes-you-can-101j)
-- [DeepSeek R1: A Comprehensive Overview](https://dev.to/simplr_sh/deepseek-r1-a-comprehensive-overview-3j0c)
-- [🚀 Your Daily Crypto Job Digest For 28 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-january-lg9)
+- [Real-time Collaborative Data Science: The Container Way](https://dev.to/spicecoder/real-time-collaborative-data-science-the-container-way-1en4)
+- [Here&#39;s an extended look at Gemini in Android XR on the Samsung mixed reality headset](https://dev.to/future_arvr/heres-an-extended-look-at-gemini-in-android-xr-on-the-samsung-mixed-reality-headset-b06)
+- [Vector Storage, Indexing, and Search With MariaDB](https://dev.to/alejandro_du/vector-storage-indexing-and-search-with-mariadb-19bl)
+- [DeepSeek R1 vs Kimi K1.5: A Comprehensive Comparison](https://dev.to/simplr_sh/deepseek-r1-vs-kimi-k15-a-comprehensive-comparison-kn7)
 <!-- BLOG-POST-LIST:END -->
 
