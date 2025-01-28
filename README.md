@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Push Sips: The Best Facts Car Cups for On-the-Go Coffee Lovers](https://dev.to/milesneeze7/push-sips-the-best-facts-car-cups-for-on-the-go-coffee-lovers-561l)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-gk6)
-- [Front End Debugging Part 3: Networking](https://dev.to/codenameone/front-end-debugging-part-3-networking-4bii)
-- [Some Cool Apis](https://dev.to/djones/some-cool-apis-1na8)
+- [JavaScript Array Methods: Sort, Map, Filter, and Reduce](https://dev.to/jamesbright/javascript-array-methods-sort-map-filter-and-reduce-1l09)
+- [[Boost]](https://dev.to/ben/-269)
+- [Understanding Dependency Injection in NestJS with a Book Service Example](https://dev.to/abhivyaktii/understanding-dependency-injection-in-nestjs-with-a-book-service-example-49kg)
+- [TailwindCSS Tip : How to prevent Layout Shifts With Aspect Ratio](https://dev.to/meschacirung/tailwindcss-tip-how-to-prevent-layout-shifts-with-aspect-ratio-35a1)
 <!-- BLOG-POST-LIST:END -->
 
