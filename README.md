@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time Collaborative Data Science: The Container Way](https://dev.to/spicecoder/real-time-collaborative-data-science-the-container-way-1en4)
-- [Here&#39;s an extended look at Gemini in Android XR on the Samsung mixed reality headset](https://dev.to/future_arvr/heres-an-extended-look-at-gemini-in-android-xr-on-the-samsung-mixed-reality-headset-b06)
-- [Vector Storage, Indexing, and Search With MariaDB](https://dev.to/alejandro_du/vector-storage-indexing-and-search-with-mariadb-19bl)
-- [DeepSeek R1 vs Kimi K1.5: A Comprehensive Comparison](https://dev.to/simplr_sh/deepseek-r1-vs-kimi-k15-a-comprehensive-comparison-kn7)
+- [Interesting AI prototyping series.](https://dev.to/ben/interesting-ai-prototyping-series-o56)
+- [Nuxt state management and hydration with useState](https://dev.to/logrocket/nuxt-state-management-and-hydration-with-usestate-23lf)
+- [Have normal people heard about Deepseek?](https://dev.to/ben/have-normal-people-heard-about-deepseek-23g7)
+- [Everyone Teaches Coding, But No One Talks About These 5 Skills Developers Actually Need.](https://dev.to/balrajola/everyone-teaches-coding-but-no-one-talks-about-these-5-skills-developers-actually-need-jf3)
 <!-- BLOG-POST-LIST:END -->
 
