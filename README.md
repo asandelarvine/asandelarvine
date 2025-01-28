@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar; process](https://dev.to/mrcaption49/continuous-integrationcontinuous-deployment-cicd-process-2304)
+- [Do You Really Need a Whole Team to Build an Android App?](https://dev.to/dhruvjoshi9/do-you-really-need-a-whole-team-to-build-an-android-app-4fm9)
+- [Journey From Java file to a JAR file](https://dev.to/mrcaption49/journey-from-java-file-to-a-jar-file-6bn)
 - [Does CSS Block Parsing and Rendering? A Detailed Analysis](https://dev.to/leapcell/does-css-block-parsing-and-rendering-a-detailed-analysis-1hhe)
-- [What is Sublimation? Importance of Sublimation Printing](https://dev.to/182312/what-is-sublimation-importance-of-sublimation-printing-2anp)
-- [Testing for AI in Synthetic Biology](https://dev.to/arun_pal_3ce740a137cf15ad/testing-for-ai-in-synthetic-biology-gg5)
-- [Frontend Fundamentals 1/20](https://dev.to/c6z3h/frontend-fundamentals-120-4dbb)
 <!-- BLOG-POST-LIST:END -->
 
