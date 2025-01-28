@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interesting AI prototyping series.](https://dev.to/ben/interesting-ai-prototyping-series-o56)
-- [Nuxt state management and hydration with useState](https://dev.to/logrocket/nuxt-state-management-and-hydration-with-usestate-23lf)
-- [Have normal people heard about Deepseek?](https://dev.to/ben/have-normal-people-heard-about-deepseek-23g7)
-- [Everyone Teaches Coding, But No One Talks About These 5 Skills Developers Actually Need.](https://dev.to/balrajola/everyone-teaches-coding-but-no-one-talks-about-these-5-skills-developers-actually-need-jf3)
+- [5 Tools to Rapidly Launch Production-Grade AI/ML Apps in 2025🔥🏎️](https://dev.to/astrodevil/5-tools-to-rapidly-launch-production-grade-aiml-apps-in-2025-1lpn)
+- [DeepSeek and the Power of Mixture of Experts &lpar;MoE&rpar;](https://dev.to/sayed_ali_alkamel/deepseek-and-the-power-of-mixture-of-experts-moe-ham)
+- [From Zero to Team Development: Building Your Own Cloud Container Playground](https://dev.to/spicecoder/from-zero-to-team-development-building-your-own-cloud-container-playground-2hl5)
+- [Go Slices and Subslices: Understanding Shared Memory and Avoiding `append&lpar;&rpar;` Pitfalls](https://dev.to/noblet/go-slices-and-subslices-understanding-shared-memory-and-avoiding-append-pitfalls-mij)
 <!-- BLOG-POST-LIST:END -->
 
