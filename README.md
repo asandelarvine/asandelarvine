@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Awesome Git Chrome Extensions😎](https://dev.to/dev_kiran/awesome-git-chrome-extensions-3gla)
-- [Integrating APIs with frontend framework jQuery](https://dev.to/kelvincode1234/integrating-apis-with-frontend-framework-jquery-ccb)
-- [3 JavaScript Features That Make Your Life Easier As a Frontend Developer.](https://dev.to/majeedatwahab/3-javascript-features-that-make-your-life-easier-as-a-frontend-developer-o5d)
-- [Comprehensive Guide to Developing Photo Editing Software](https://dev.to/ram_fb361bc2f8f94e06772e2/comprehensive-guide-to-developing-photo-editing-software-5fa4)
+- [Top 9 IT Staff Augmentation Companies to Consider in 2025](https://dev.to/dhruvil_joshi14/top-9-it-staff-augmentation-companies-to-consider-in-2025-55bn)
+- [Optimize Vite Build Time: A Comprehensive Guide](https://dev.to/perisicnikola37/optimize-vite-build-time-a-comprehensive-guide-4c99)
+- [&quot;ngrok&quot; from scratch](https://dev.to/woovi/ngrok-from-scratch-be3)
+- [ML and EDA App Deployment](https://dev.to/ndumbe0/ml-and-eda-app-deployment-5ddi)
 <!-- BLOG-POST-LIST:END -->
 
