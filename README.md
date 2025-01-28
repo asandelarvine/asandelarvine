@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek: How a $5.6 Million Breakthrough Could Reshape Global Tech and Markets](https://dev.to/wafa_bergaoui/deepseek-how-a-56-million-breakthrough-could-reshape-global-tech-and-markets-408a)
-- [Tiny with big numbers](https://dev.to/ykosinets/tiny-with-big-numbers-56ka)
-- [about me &lpar; Front-end Developer&rpar; Ehsan Yousefian](https://dev.to/ehsanyousefian/about-me-front-end-developer-ehsan-yousefian-1n2c)
-- [Automating Resume Creation with KaibanJS: A Game-Changer for Job Seekers](https://dev.to/kaibanjs/automating-resume-creation-with-kaibanjs-a-game-changer-for-job-seekers-1157)
+- [How to dockerize and deploy a Hono App](https://dev.to/code42cate/how-to-dockerize-and-deploy-a-hono-app-4mi9)
+- [Handling Layout Form Submission Inside a React Router Cookie Banner 🍪](https://dev.to/rgolawski/handling-layout-form-submission-inside-a-react-router-cookie-banner-55oj)
+- [Breaking into Tech](https://dev.to/emzydev/breaking-into-tech-4g9g)
+- [Running multiple MySQL versions on macOS: A Step-by-Step Guide](https://dev.to/musa11971/running-multiple-mysql-versions-on-macos-a-step-by-step-guide-4i24)
 <!-- BLOG-POST-LIST:END -->
 
