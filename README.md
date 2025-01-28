@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-2j1)
 - [JavaScript Array Methods: Sort, Map, Filter, and Reduce](https://dev.to/jamesbright/javascript-array-methods-sort-map-filter-and-reduce-1l09)
-- [[Boost]](https://dev.to/ben/-269)
-- [Understanding Dependency Injection in NestJS with a Book Service Example](https://dev.to/abhivyaktii/understanding-dependency-injection-in-nestjs-with-a-book-service-example-49kg)
-- [TailwindCSS Tip : How to prevent Layout Shifts With Aspect Ratio](https://dev.to/meschacirung/tailwindcss-tip-how-to-prevent-layout-shifts-with-aspect-ratio-35a1)
+- [Why the LiveAPI team works hard to earn CTO respect](https://dev.to/shrsv/why-the-liveapi-team-works-hard-to-earn-cto-respect-50of)
+- [My React Journey: From Side Projects to Real-World Challenges](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-from-side-projects-to-real-world-challenges-4cf4)
 <!-- BLOG-POST-LIST:END -->
 
