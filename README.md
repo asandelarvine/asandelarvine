@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Zap: Unlock the Full Potential of Logging in Go](https://dev.to/leapcell/zap-unlock-the-full-potential-of-logging-in-go-3g3e)
 - [🛠️ Building Starts Here: How to Pick the Right Backend Framework for You](https://dev.to/abubakersiddique761/building-starts-here-how-to-pick-the-right-backend-framework-for-you-474d)
 - [Top 9 Features of the SharePoint Embedded VS Code Extension](https://dev.to/jaloplo/top-9-features-of-the-sharepoint-embedded-vs-code-extension-4mdk)
 - [Good practices for Vue Computed Properties](https://dev.to/jacobandrewsky/good-practices-for-vue-computed-properties-5gd7)
-- [A Beginner’s Journey into Machine Learning with Python](https://dev.to/jhk_info/a-beginners-journey-into-machine-learning-with-python-1oad)
 <!-- BLOG-POST-LIST:END -->
 
