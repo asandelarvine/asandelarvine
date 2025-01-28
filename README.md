@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Does CSS Block Parsing and Rendering? A Detailed Analysis](https://dev.to/leapcell/does-css-block-parsing-and-rendering-a-detailed-analysis-1hhe)
 - [What is Sublimation? Importance of Sublimation Printing](https://dev.to/182312/what-is-sublimation-importance-of-sublimation-printing-2anp)
-- [Custom logging in Next.js](https://dev.to/theogravity/custom-logging-in-nextjs-2epm)
-- [Running DeepSeek Janus-Pro-1B in the Browser: A Comprehensive Guide](https://dev.to/emojiiii/running-deepseek-janus-pro-1b-in-the-browser-a-step-by-step-guide-kj2)
-- [libuv e Lua](https://dev.to/joao_neto/libuv-e-lua-3d30)
+- [Testing for AI in Synthetic Biology](https://dev.to/arun_pal_3ce740a137cf15ad/testing-for-ai-in-synthetic-biology-gg5)
+- [Frontend Fundamentals 1/20](https://dev.to/c6z3h/frontend-fundamentals-120-4dbb)
 <!-- BLOG-POST-LIST:END -->
 
