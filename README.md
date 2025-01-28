@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar; process](https://dev.to/mrcaption49/continuous-integrationcontinuous-deployment-cicd-process-2304)
-- [Do You Really Need a Whole Team to Build an Android App?](https://dev.to/dhruvjoshi9/do-you-really-need-a-whole-team-to-build-an-android-app-4fm9)
-- [Journey From Java file to a JAR file](https://dev.to/mrcaption49/journey-from-java-file-to-a-jar-file-6bn)
-- [Does CSS Block Parsing and Rendering? A Detailed Analysis](https://dev.to/leapcell/does-css-block-parsing-and-rendering-a-detailed-analysis-1hhe)
+- [🚀 Mastering Callbacks and Promises in JavaScript : A Complete Guide to Asynchronous Programming](https://dev.to/dct_technologyprivatelimited/mastering-callbacks-and-promises-in-javascript-a-complete-guide-to-asynchronous-programming-4mco)
+- [Solving the Emoji Rendering Issue: A Comprehensive Guide](https://dev.to/nixx/solving-the-emoji-rendering-issue-a-comprehensive-guide-jn2)
+- [Mastering Docker Image Management with GitHub Actions and Container Registries](https://dev.to/kherld/mastering-docker-image-management-with-github-actions-and-container-registries-1lda)
+- [Did you know you can secure WordPress admin URL without a plugin?](https://dev.to/web_dev-usman/did-you-know-you-can-secure-wordpress-admin-url-without-a-plugin-5gkj)
 <!-- BLOG-POST-LIST:END -->
 
