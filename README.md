@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Race Conditions in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-race-conditions-in-laravel-applications-5b6e)
-- [🚀 Mastering Callbacks and Promises in JavaScript : A Complete Guide to Asynchronous Programming](https://dev.to/dct_technologyprivatelimited/mastering-callbacks-and-promises-in-javascript-a-complete-guide-to-asynchronous-programming-4mco)
-- [Solving the Emoji Rendering Issue: A Comprehensive Guide](https://dev.to/nixx/solving-the-emoji-rendering-issue-a-comprehensive-guide-jn2)
-- [Introduction to KQL and Basic Commands](https://dev.to/balagmadhu/introduction-to-kql-and-basic-commands-36k3)
+- [🛠️ Building Starts Here: How to Pick the Right Backend Framework for You](https://dev.to/abubakersiddique761/building-starts-here-how-to-pick-the-right-backend-framework-for-you-474d)
+- [Top 9 Features of the SharePoint Embedded VS Code Extension](https://dev.to/jaloplo/top-9-features-of-the-sharepoint-embedded-vs-code-extension-4mdk)
+- [Good practices for Vue Computed Properties](https://dev.to/jacobandrewsky/good-practices-for-vue-computed-properties-5gd7)
+- [A Beginner’s Journey into Machine Learning with Python](https://dev.to/jhk_info/a-beginners-journey-into-machine-learning-with-python-1oad)
 <!-- BLOG-POST-LIST:END -->
 
