@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SAP en AWS: Beneficios, casos de éxito y cómo empezar](https://dev.to/briansuarezsantiago/sap-en-aws-beneficios-casos-de-exito-y-como-empezar-5eeg)
-- [Could DeepSeek Be the Democratization of AI?](https://dev.to/brunociccarino/could-deepseek-be-the-democratization-of-ai-23ln)
-- [🤯 8 APIs to Make your Next Project 10x better ⚡️](https://dev.to/akshaycodes/8-apis-to-make-your-next-project-10x-better-3a9o)
-- [10 Hard-Earned Lessons &lpar;Plus One Bonus!&rpar; From Launching My First Startup](https://dev.to/digitaldrreamer/10-hard-earned-lessons-plus-one-bonus-from-launching-my-first-startup-71a)
+- [Run deepseek locally with webUI interface](https://dev.to/sahasrara62/run-deepseek-locally-with-webui-interface-4n65)
+- [Reflecting on 2024 in DevOps: Key Lessons, Challenges, and Looking Ahead to 2025](https://dev.to/therealadammusk/reflecting-on-2024-in-devops-key-lessons-challenges-and-looking-ahead-to-2025-3jom)
+- [Reflecting on 2024: Lessons Learned and Growth Achieved](https://dev.to/therealadammusk/reflecting-on-2024-lessons-learned-and-growth-achieved-521d)
+- [Why DevOps is a Game Changer for Modern Software Development](https://dev.to/therealadammusk/why-devops-is-a-game-changer-for-modern-software-development-1ab)
 <!-- BLOG-POST-LIST:END -->
 
