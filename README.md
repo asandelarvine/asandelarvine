@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Natural Language to Automated Tests: Simplifying UI Workflows with AI](https://dev.to/atreddy/from-natural-language-to-automated-tests-simplifying-ui-workflows-with-ai-568i)
-- [Frontend Fundamentals 2/20](https://dev.to/c6z3h/frontend-fundamentals-220-15e7)
-- [The Ultimate Guide to Debugging Your Code](https://dev.to/kakacomputer-media/the-ultimate-guide-to-debugging-your-code-p8d)
-- [Why JAVA](https://dev.to/ramya_kamalasekaran/why-java-59jp)
+- [How to Set Up HashiCorp Vault on Kubernetes](https://dev.to/rajesh_kumar_36a2b4761e0d/how-to-set-up-hashicorp-vault-on-kubernetes-96d)
+- [How To Integrate TailwindCSS In React To Quickly Styling Our App?](https://dev.to/mroman7/how-to-integrate-tailwindcss-in-react-to-quickly-styling-our-app-30he)
+- [Understanding &quot;this&quot; in JavaScript and its behavior in various scenarios](https://dev.to/thedevricha/understanding-this-in-javascript-with-a-real-world-application-1l2i)
+- [Janus Pro: DeepSeek’s Game-Changing Multimodal AI Model](https://dev.to/simplr_sh/janus-pro-deepseeks-game-changing-multimodal-ai-model-4g4k)
 <!-- BLOG-POST-LIST:END -->
 
