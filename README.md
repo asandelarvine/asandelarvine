@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Two-Factor Authentication on WordPress Without Plugin](https://dev.to/web_dev-usman/how-to-set-up-two-factor-authentication-on-wordpress-without-plugin-523m)
-- [flushSync in TipTap source code](https://dev.to/ramunarasinga-11/flushsync-in-tiptap-source-code-28pe)
-- [🚀 10 JavaScript Array Methods Every Developer Should Master!](https://dev.to/dct_technologyprivatelimited/10-javascript-array-methods-every-developer-should-master-2h25)
-- [🔒 Why HTTPS and SSL Certificates Are Non-Negotiable for Your Website’s Security](https://dev.to/dct_technologyprivatelimited/why-https-and-ssl-certificates-are-non-negotiable-for-your-websites-security-4aja)
+- [Inflation is an important DEVIL](https://dev.to/yashvi_bhuva/inflation-is-an-important-devil-1di1)
+- [Authentication vs Authorization: Key Practices for Building Secure APIs](https://dev.to/getambassador2024/authentication-vs-authorization-key-practices-for-building-secure-apis-1nf)
+- [🚀 The Ultimate List of 27 Frontend Libraries for Creative Developers](https://dev.to/hadil/the-ultimate-list-of-27-frontend-libraries-for-creative-developers-15go)
+- [AI Data Agents - Why Your Business Needs Them in 2025](https://dev.to/flowtrail-admin/ai-data-agents-why-your-business-needs-them-in-2025-3hh9)
 <!-- BLOG-POST-LIST:END -->
 
