@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Query Execution Order](https://dev.to/scorcism/step-by-step-breakdown-of-sql-query-execution-5f38)
-- [Build a RAG copilot on your own Knowledge Base with CopilotKit, Pinecone, &amp; Anthropic 😎](https://dev.to/copilotkit/build-a-rag-copilot-on-your-own-knowledge-base-with-copilotkit-pinecone-anthropic-21m9)
-- [TypeScript object destructuring and you](https://dev.to/logrocket/typescript-object-destructuring-and-you-35k3)
-- [Learning DevOps 29/01](https://dev.to/ashray_sam/learning-devops-2901-13c9)
+- [Concurrency, Goroutines, and Channels in Go: A Study](https://dev.to/uskdev/concurrency-goroutines-and-channels-in-go-a-study-4245)
+- [Enabling Communication](https://dev.to/aws-builders/enabling-communication-4d37)
+- [This is pretty cool!](https://dev.to/maxprilutskiy/this-is-pretty-cool-2bi2)
+- [Building Cross-Platform CI/CD Actions with Docker](https://dev.to/mathio/building-cross-platform-cicd-actions-with-docker-3c9o)
 <!-- BLOG-POST-LIST:END -->
 
