@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inflation is an important DEVIL](https://dev.to/yashvi_bhuva/inflation-is-an-important-devil-1di1)
-- [Authentication vs Authorization: Key Practices for Building Secure APIs](https://dev.to/getambassador2024/authentication-vs-authorization-key-practices-for-building-secure-apis-1nf)
-- [🚀 The Ultimate List of 27 Frontend Libraries for Creative Developers](https://dev.to/hadil/the-ultimate-list-of-27-frontend-libraries-for-creative-developers-15go)
-- [AI Data Agents - Why Your Business Needs Them in 2025](https://dev.to/flowtrail-admin/ai-data-agents-why-your-business-needs-them-in-2025-3hh9)
+- [Kotlin for Java Developers &lpar;Part 3&rpar;](https://dev.to/florian_rser_58d39a640e2/kotlin-for-java-developers-part-3-22he)
+- [Animate Adding Items to Your Cart with cartflow, A Lightweight JavaScript Library](https://dev.to/nassiry/animate-adding-items-to-your-cart-with-cartflow-a-lightweight-javascript-library-3921)
+- [What is React.js and Why is it So Popular? ⚛️🚀](https://dev.to/abhay_yt_52a8e72b213be229/what-is-reactjs-and-why-is-it-so-popular-39c)
+- [control flow statemet:](https://dev.to/harish_r_850ca66fd34b07e7/control-flow-statemet-3bgj)
 <!-- BLOG-POST-LIST:END -->
 
