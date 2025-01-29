@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v312](https://dev.to/devteam/welcome-thread-v312-3gmp)
-- [Cheating Lambda scalability](https://dev.to/aws-builders/cheating-lambda-scalability-1hgi)
-- [Using ARM-based GitHub Actions Runners for Workflows](https://dev.to/pradumnasaraf/using-arm-based-github-actions-runners-for-workflows-l6o)
-- [Detecting Browsers in JavaScript](https://dev.to/saiful7778/detecting-browsers-in-javascript-253m)
+- [How to Set Up Two-Factor Authentication on WordPress Without Plugin](https://dev.to/web_dev-usman/how-to-set-up-two-factor-authentication-on-wordpress-without-plugin-523m)
+- [flushSync in TipTap source code](https://dev.to/ramunarasinga-11/flushsync-in-tiptap-source-code-28pe)
+- [🚀 10 JavaScript Array Methods Every Developer Should Master!](https://dev.to/dct_technologyprivatelimited/10-javascript-array-methods-every-developer-should-master-2h25)
+- [🔒 Why HTTPS and SSL Certificates Are Non-Negotiable for Your Website’s Security](https://dev.to/dct_technologyprivatelimited/why-https-and-ssl-certificates-are-non-negotiable-for-your-websites-security-4aja)
 <!-- BLOG-POST-LIST:END -->
 
