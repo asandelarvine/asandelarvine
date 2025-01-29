@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Is a Cross-Cutting Concern. So Are Databases](https://dev.to/metis/testing-is-a-cross-cutting-concern-so-are-databases-n0c)
-- [EngCode: The English-Like Programming Language for Everyone](https://dev.to/hope_igbinosa_4b6b14a4b0e/engcode-the-english-like-programming-language-for-everyone-34no)
-- [Untitled](https://dev.to/said_jeilani_bea409f2ddc7/untitled-3eia)
-- [Exploring CPU-Bound and I/O-Bound Tasks: Inside the libuv Library in Node.js](https://dev.to/leapcell/exploring-cpu-bound-and-io-bound-tasks-inside-the-libuv-library-in-nodejs-5581)
+- [Forward Proxy vs. Reverse Proxy: Understanding the Key Differences](https://dev.to/abhay_yt_52a8e72b213be229/forward-proxy-vs-reverse-proxy-understanding-the-key-differences-3ho0)
+- [IndexOf&lpar;&rpar;](https://dev.to/alisher0909/indexof-23bb)
+- [100 Days Challenge](https://dev.to/powell_fgn/100-days-challenge-4h8l)
+- [My NGINX Adventure: From Panic to Pride on a Fresh Ubuntu Server](https://dev.to/citatech232/my-nginx-adventure-from-panic-to-pride-on-a-fresh-ubuntu-server-24jb)
 <!-- BLOG-POST-LIST:END -->
 
