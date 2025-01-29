@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin for Java Developers &lpar;Part 3&rpar;](https://dev.to/florian_rser_58d39a640e2/kotlin-for-java-developers-part-3-22he)
-- [Animate Adding Items to Your Cart with cartflow, A Lightweight JavaScript Library](https://dev.to/nassiry/animate-adding-items-to-your-cart-with-cartflow-a-lightweight-javascript-library-3921)
-- [What is React.js and Why is it So Popular? ⚛️🚀](https://dev.to/abhay_yt_52a8e72b213be229/what-is-reactjs-and-why-is-it-so-popular-39c)
-- [control flow statemet:](https://dev.to/harish_r_850ca66fd34b07e7/control-flow-statemet-3bgj)
+- [Testing Is a Cross-Cutting Concern. So Are Databases](https://dev.to/metis/testing-is-a-cross-cutting-concern-so-are-databases-n0c)
+- [EngCode: The English-Like Programming Language for Everyone](https://dev.to/hope_igbinosa_4b6b14a4b0e/engcode-the-english-like-programming-language-for-everyone-34no)
+- [Untitled](https://dev.to/said_jeilani_bea409f2ddc7/untitled-3eia)
+- [Exploring CPU-Bound and I/O-Bound Tasks: Inside the libuv Library in Node.js](https://dev.to/leapcell/exploring-cpu-bound-and-io-bound-tasks-inside-the-libuv-library-in-nodejs-5581)
 <!-- BLOG-POST-LIST:END -->
 
