@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI ML DL DS Robotics Automation differences ???](https://dev.to/jaiminbariya/ai-ml-dl-ds-robotics-automation--i4)
-- [Difference between Global variable and Local variable in API Testing Global variable : Access with in the workspace with multiple Collection &amp; Request Local variable : Access this in a single &amp; specific request and cannot be accessed outside of it.](https://dev.to/mohdar7d/difference-between-global-variable-and-local-variable-in-api-testing-global-variable-access-4ah0)
-- [The Technical Importance of CI/CD in DevOps](https://dev.to/therealadammusk/the-technical-importance-of-cicd-in-devops-128c)
-- [If ESLint won&#39;t let you build your NextJS 15 app because of no-unused-vars do this](https://dev.to/garbanv/if-eslint-wont-let-you-build-your-nextjs-15-app-because-of-no-unused-vars-do-this-30kc)
+- [🦄 6 CSS Snippets, Audible’s UX Insights &amp; 350ms LCP](https://dev.to/adam/6-css-snippets-audibles-ux-insights-350ms-lcp-2d0g)
+- [A Neural Network Architecture That Thinks, Adapts &amp; Creates](https://dev.to/okerew/a-neural-network-architecture-that-thinks-adapts-creates-5mp)
+- [Hash in SQL: A Key Concept for Data Engineers](https://dev.to/aragorn_talks/hash-in-sql-a-key-concept-for-data-engineers-4cda)
+- [Power Pages SPA: login redirect Part 2](https://dev.to/andrewelans/power-pages-spa-login-redirect-part-2-o79)
 <!-- BLOG-POST-LIST:END -->
 
