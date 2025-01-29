@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Charge APIs Enhance Payment Processing in Fintech](https://dev.to/nomba-financial-service/how-charge-apis-enhance-payment-processing-in-fintech-3o1n)
-- [Interesting project](https://dev.to/ben/interesting-project-11db)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/stack_dev/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4929)
-- [Solidity Crash Course - Part 02: Smart Contracts](https://dev.to/ayaz/solidity-crash-course-part-02-2f2l)
+- [SQL Query Execution Order](https://dev.to/scorcism/step-by-step-breakdown-of-sql-query-execution-5f38)
+- [Build a RAG copilot on your own Knowledge Base with CopilotKit, Pinecone, &amp; Anthropic 😎](https://dev.to/copilotkit/build-a-rag-copilot-on-your-own-knowledge-base-with-copilotkit-pinecone-anthropic-21m9)
+- [TypeScript object destructuring and you](https://dev.to/logrocket/typescript-object-destructuring-and-you-35k3)
+- [Learning DevOps 29/01](https://dev.to/ashray_sam/learning-devops-2901-13c9)
 <!-- BLOG-POST-LIST:END -->
 
