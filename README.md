@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kafka Keys: A Comprehensive Guide](https://dev.to/gyandeeps/understanding-kafka-keys-a-comprehensive-guide-2410)
-- [Automating 44 E2E Tests with AI-Powered Browser Control for Under $1](https://dev.to/pppp606/automating-44-e2e-tests-with-ai-powered-browser-control-for-under-1-3fbj)
-- [Help Validate a Vue.js Code Smell Catalog!](https://dev.to/joo_paulofreitasqueiro/help-validate-a-vuejs-code-smell-catalog-op8)
-- [Why Mobile-First Design is Crucial for Today’s Web](https://dev.to/orizon_7c665050ca98bfa866/why-mobile-first-design-is-crucial-for-todays-web-46ij)
+- [From Natural Language to Automated Tests: Simplifying UI Workflows with AI](https://dev.to/atreddy/from-natural-language-to-automated-tests-simplifying-ui-workflows-with-ai-568i)
+- [Frontend Fundamentals 2/20](https://dev.to/c6z3h/frontend-fundamentals-220-15e7)
+- [The Ultimate Guide to Debugging Your Code](https://dev.to/kakacomputer-media/the-ultimate-guide-to-debugging-your-code-p8d)
+- [Why JAVA](https://dev.to/ramya_kamalasekaran/why-java-59jp)
 <!-- BLOG-POST-LIST:END -->
 
