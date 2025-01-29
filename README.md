@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeMash 2025: A Community Conversation About NHI And Secrets Security](https://dev.to/gitguardian/codemash-2025-a-community-conversation-about-nhi-and-secrets-security-3650)
-- [How to install a Window Manager on Linux](https://dev.to/hxsggsz/how-to-install-a-window-manager-on-linux-4g9k)
-- [Configuring NGINX](https://dev.to/lahteeph/configuring-nginx-4n56)
-- [Journey of Enhanced &amp; Mindful Architecture - Part 3](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-3-4gfk)
+- [Harnessing the Power of Edge Computing and Distributed Systems! 🌐🚀](https://dev.to/lorebrada00/harnessing-the-power-of-edge-computing-and-distributed-systems-3c5i)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/iflames_1/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-dmd)
+- [Corporate Jargon Translation with Amazon Bedrock](https://dev.to/aws-builders/corporate-jargon-translation-with-amazon-bedrock-48ch)
+- [HTML and CSS crash course completed](https://dev.to/nosfuratoo1/html-and-css-crash-course-completed-4095)
 <!-- BLOG-POST-LIST:END -->
 
