@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forward Proxy vs. Reverse Proxy: Understanding the Key Differences](https://dev.to/abhay_yt_52a8e72b213be229/forward-proxy-vs-reverse-proxy-understanding-the-key-differences-3ho0)
-- [IndexOf&lpar;&rpar;](https://dev.to/alisher0909/indexof-23bb)
-- [100 Days Challenge](https://dev.to/powell_fgn/100-days-challenge-4h8l)
-- [My NGINX Adventure: From Panic to Pride on a Fresh Ubuntu Server](https://dev.to/citatech232/my-nginx-adventure-from-panic-to-pride-on-a-fresh-ubuntu-server-24jb)
+- [Crypto Activities Digest for January: Fun, Rewards, and a Bit of Adrenaline](https://dev.to/iri_denis/crypto-activities-digest-for-january-fun-rewards-and-a-bit-of-adrenaline-5cae)
+- [Deep Seek Trading Agent](https://dev.to/ehtesham_ali_abc367f36a5b/deep-seek-trading-agent-2k0e)
+- [Maximize efficiency: CrewAI Task isolation problem](https://dev.to/pavelkoryagin/maximize-efficiency-crewai-task-isolation-problem-16in)
+- [🚨 Prevent Goroutine Leaks in Go: Master Graceful Termination 🚨](https://dev.to/architagr/prevent-goroutine-leaks-in-go-master-graceful-termination-2ddm)
 <!-- BLOG-POST-LIST:END -->
 
