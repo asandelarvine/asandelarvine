@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Activities Digest for January: Fun, Rewards, and a Bit of Adrenaline](https://dev.to/iri_denis/crypto-activities-digest-for-january-fun-rewards-and-a-bit-of-adrenaline-5cae)
-- [Deep Seek Trading Agent](https://dev.to/ehtesham_ali_abc367f36a5b/deep-seek-trading-agent-2k0e)
-- [Maximize efficiency: CrewAI Task isolation problem](https://dev.to/pavelkoryagin/maximize-efficiency-crewai-task-isolation-problem-16in)
-- [🚨 Prevent Goroutine Leaks in Go: Master Graceful Termination 🚨](https://dev.to/architagr/prevent-goroutine-leaks-in-go-master-graceful-termination-2ddm)
+- [AI ML DL DS Robotics Automation differences ???](https://dev.to/jaiminbariya/ai-ml-dl-ds-robotics-automation--i4)
+- [Difference between Global variable and Local variable in API Testing Global variable : Access with in the workspace with multiple Collection &amp; Request Local variable : Access this in a single &amp; specific request and cannot be accessed outside of it.](https://dev.to/mohdar7d/difference-between-global-variable-and-local-variable-in-api-testing-global-variable-access-4ah0)
+- [The Technical Importance of CI/CD in DevOps](https://dev.to/therealadammusk/the-technical-importance-of-cicd-in-devops-128c)
+- [If ESLint won&#39;t let you build your NextJS 15 app because of no-unused-vars do this](https://dev.to/garbanv/if-eslint-wont-let-you-build-your-nextjs-15-app-because-of-no-unused-vars-do-this-30kc)
 <!-- BLOG-POST-LIST:END -->
 
