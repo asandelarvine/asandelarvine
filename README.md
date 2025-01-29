@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[pt-BR] Analisando Processos no Linux: Um Guia de Procedimentos Para o Dia a Dia](https://dev.to/marcos_vilela/pt-br-analisando-processos-no-linux-um-guia-de-procedimentos-para-o-dia-a-dia-226b)
-- [🚆 Building a Scalable Transport System with React &amp; Tailwind](https://dev.to/eze_ernest_62786560c8b5f3/building-a-scalable-transport-system-with-react-tailwind-198h)
-- [🚀 Introducing ByteAether.Ulid: A High-Performance .NET Library for ULIDs](https://dev.to/gigaherz/introducing-byteaetherulid-a-high-performance-net-library-for-ulids-3n0j)
-- [Hosting a Page with Nginx: A Newbie’s Journey](https://dev.to/mart_young_ce778e4c31eb33/hosting-a-page-with-nginx-a-newbies-journey-39i6)
+- [Create Portfolio Website using React](https://dev.to/boorge/create-portfolio-website-using-react-33ga)
+- [Amazon Q Developer ahora te ayuda a entender tus costos en AWS de forma sencilla](https://dev.to/briansuarezsantiago/amazon-q-developer-ahora-te-ayuda-a-entender-tus-costos-en-aws-de-forma-sencilla-42n8)
+- [tsParticles](https://dev.to/luizfelippedev/tsparticles-1nlp)
+- [Fear of using the cloud???](https://dev.to/andy_goncalves/fear-of-using-the-cloud-38pd)
 <!-- BLOG-POST-LIST:END -->
 
