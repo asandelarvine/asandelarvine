@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Passaporto Digitale del Prodotto: la guida per i consumatori?](https://dev.to/corradofacchini/passaporto-digitale-del-prodotto-la-guida-per-i-consumatori-2lc8)
-- [[Boost]](https://dev.to/mikehtmlallthethings/-h2d)
-- [Using DeepSeek R1 on an AMD GPU](https://dev.to/aswinrajeevofficial/using-deepseek-r1-on-an-amd-gpu-nf8)
-- [Running Deepseek R1 locally](https://dev.to/vijaykodam/running-deepseek-r1-locally-ai7)
+- [CodeMash 2025: A Community Conversation About NHI And Secrets Security](https://dev.to/gitguardian/codemash-2025-a-community-conversation-about-nhi-and-secrets-security-3650)
+- [How to install a Window Manager on Linux](https://dev.to/hxsggsz/how-to-install-a-window-manager-on-linux-4g9k)
+- [Configuring NGINX](https://dev.to/lahteeph/configuring-nginx-4n56)
+- [Journey of Enhanced &amp; Mindful Architecture - Part 3](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-3-4gfk)
 <!-- BLOG-POST-LIST:END -->
 
