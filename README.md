@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency, Goroutines, and Channels in Go: A Study](https://dev.to/uskdev/concurrency-goroutines-and-channels-in-go-a-study-4245)
-- [Enabling Communication](https://dev.to/aws-builders/enabling-communication-4d37)
-- [This is pretty cool!](https://dev.to/maxprilutskiy/this-is-pretty-cool-2bi2)
-- [Building Cross-Platform CI/CD Actions with Docker](https://dev.to/mathio/building-cross-platform-cicd-actions-with-docker-3c9o)
+- [SEO 101: Navigating Robots.txt, Sitemaps, and Google Search Console](https://dev.to/rijultp/seo-101-navigating-robotstxt-sitemaps-and-google-search-console-4a0b)
+- [Python Performance Tips You Must Know](https://dev.to/leapcell/python-performance-tips-you-must-know-24n5)
+- [The case against ORMs](https://dev.to/cies/the-case-against-orms-5bh4)
+- [One of our best articles so far!](https://dev.to/uliyahoo/one-of-our-best-articles-so-far-1mih)
 <!-- BLOG-POST-LIST:END -->
 
