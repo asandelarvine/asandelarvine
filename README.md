@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to dockerize and deploy a Hono App](https://dev.to/code42cate/how-to-dockerize-and-deploy-a-hono-app-4mi9)
-- [Handling Layout Form Submission Inside a React Router Cookie Banner 🍪](https://dev.to/rgolawski/handling-layout-form-submission-inside-a-react-router-cookie-banner-55oj)
-- [Breaking into Tech](https://dev.to/emzydev/breaking-into-tech-4g9g)
-- [Running multiple MySQL versions on macOS: A Step-by-Step Guide](https://dev.to/musa11971/running-multiple-mysql-versions-on-macos-a-step-by-step-guide-4i24)
+- [Testing for AI in the Singularity: Navigating the Uncharted Territory of Superintelligence](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-for-ai-in-the-singularity-navigating-the-uncharted-territory-of-superintelligence-5e68)
+- [React 19: Exciting Updates You Need To Know](https://dev.to/austinwdigital/react-19-exciting-updates-you-need-to-know-45ee)
+- [Beginner guide to NGINX: Hosting Your First Website On NGINX.](https://dev.to/og_dmerlin_d79f81b3a358b6/beginner-guide-to-nginx-hosting-your-first-website-on-nginx-299m)
+- [Testing for AI in Consciousness: Exploring the Boundaries of Machine Awareness](https://dev.to/anil_csimplifyit_905c/testing-for-ai-in-consciousness-exploring-the-boundaries-of-machine-awareness-35b1)
 <!-- BLOG-POST-LIST:END -->
 
