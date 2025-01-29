@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing for AI in the Singularity: Navigating the Uncharted Territory of Superintelligence](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-for-ai-in-the-singularity-navigating-the-uncharted-territory-of-superintelligence-5e68)
-- [React 19: Exciting Updates You Need To Know](https://dev.to/austinwdigital/react-19-exciting-updates-you-need-to-know-45ee)
-- [Beginner guide to NGINX: Hosting Your First Website On NGINX.](https://dev.to/og_dmerlin_d79f81b3a358b6/beginner-guide-to-nginx-hosting-your-first-website-on-nginx-299m)
-- [Testing for AI in Consciousness: Exploring the Boundaries of Machine Awareness](https://dev.to/anil_csimplifyit_905c/testing-for-ai-in-consciousness-exploring-the-boundaries-of-machine-awareness-35b1)
+- [Understanding Kafka Keys: A Comprehensive Guide](https://dev.to/gyandeeps/understanding-kafka-keys-a-comprehensive-guide-2410)
+- [Automating 44 E2E Tests with AI-Powered Browser Control for Under $1](https://dev.to/pppp606/automating-44-e2e-tests-with-ai-powered-browser-control-for-under-1-3fbj)
+- [Help Validate a Vue.js Code Smell Catalog!](https://dev.to/joo_paulofreitasqueiro/help-validate-a-vuejs-code-smell-catalog-op8)
+- [Why Mobile-First Design is Crucial for Today’s Web](https://dev.to/orizon_7c665050ca98bfa866/why-mobile-first-design-is-crucial-for-todays-web-46ij)
 <!-- BLOG-POST-LIST:END -->
 
