@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Portfolio Website using React](https://dev.to/boorge/create-portfolio-website-using-react-33ga)
-- [Amazon Q Developer ahora te ayuda a entender tus costos en AWS de forma sencilla](https://dev.to/briansuarezsantiago/amazon-q-developer-ahora-te-ayuda-a-entender-tus-costos-en-aws-de-forma-sencilla-42n8)
-- [tsParticles](https://dev.to/luizfelippedev/tsparticles-1nlp)
-- [Fear of using the cloud???](https://dev.to/andy_goncalves/fear-of-using-the-cloud-38pd)
+- [Passaporto Digitale del Prodotto: la guida per i consumatori?](https://dev.to/corradofacchini/passaporto-digitale-del-prodotto-la-guida-per-i-consumatori-2lc8)
+- [[Boost]](https://dev.to/mikehtmlallthethings/-h2d)
+- [Using DeepSeek R1 on an AMD GPU](https://dev.to/aswinrajeevofficial/using-deepseek-r1-on-an-amd-gpu-nf8)
+- [Running Deepseek R1 locally](https://dev.to/vijaykodam/running-deepseek-r1-locally-ai7)
 <!-- BLOG-POST-LIST:END -->
 
