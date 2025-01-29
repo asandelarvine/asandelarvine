@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the IT department testing and training.](https://dev.to/blessing_azeta_9a7b650577/provide-storage-for-the-it-department-testing-and-training-2fha)
-- [Hypermedia as the Engine of Application State &lpar;HATEOAS&rpar;](https://dev.to/lovestaco/hypermedia-as-the-engine-of-application-state-hateoas-245f)
-- [Celebrating The Top Search-Tech Voices for 2025 🏆](https://dev.to/zevireinitz/celebrating-the-top-search-tech-voices-for-2025-1gj4)
-- [Stop Wasting Time on Outdated TypeScript Starters – Meet TypeZero 🚀](https://dev.to/mislam/stop-wasting-time-on-outdated-typescript-starters-meet-typezero-4eig)
+- [[pt-BR] Analisando Processos no Linux: Um Guia de Procedimentos Para o Dia a Dia](https://dev.to/marcos_vilela/pt-br-analisando-processos-no-linux-um-guia-de-procedimentos-para-o-dia-a-dia-226b)
+- [🚆 Building a Scalable Transport System with React &amp; Tailwind](https://dev.to/eze_ernest_62786560c8b5f3/building-a-scalable-transport-system-with-react-tailwind-198h)
+- [🚀 Introducing ByteAether.Ulid: A High-Performance .NET Library for ULIDs](https://dev.to/gigaherz/introducing-byteaetherulid-a-high-performance-net-library-for-ulids-3n0j)
+- [Hosting a Page with Nginx: A Newbie’s Journey](https://dev.to/mart_young_ce778e4c31eb33/hosting-a-page-with-nginx-a-newbies-journey-39i6)
 <!-- BLOG-POST-LIST:END -->
 
