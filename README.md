@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Medical Admission System by Specialties](https://dev.to/jorge_medina_618dfeeedb4c/medical-admission-system-by-specialties-1ne3)
-- [That Beginner AWS Project You Can Practice With](https://dev.to/aws-builders/that-beginner-aws-project-you-can-practice-with-487f)
-- [Front-end Shovel 💩 Diary #1: Project Directory Structure Adjustment](https://dev.to/ourai/front-end-shovel-diary-1-project-directory-structure-adjustment-136g)
-- [5 Ways Logistics Apps Improve Last-Mile Delivery](https://dev.to/raniaswal/5-ways-logistics-apps-improve-last-mile-delivery-5d6o)
+- [QuickSort - ordenando seus dados o mais rápido possível](https://dev.to/domgarotom/quicksort-ordenando-seus-dados-o-mais-rapido-possivel-13af)
+- [Before building product, connect the dots first](https://dev.to/rowsanali/before-building-product-connect-the-dots-first-5692)
+- [Migrating Azure Event Grid to Minimal API with FastEndpoints](https://dev.to/eelcolos/migrating-azure-event-grid-to-minimal-api-with-fastendpoints-515j)
+- [2025 Predictions: Quantum, AI, Blockchain -&gt; all security](https://dev.to/hrulabs/2025-predictions-quantum-ai-blockchain-all-security-4kam)
 <!-- BLOG-POST-LIST:END -->
 
