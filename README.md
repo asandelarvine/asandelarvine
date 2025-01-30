@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of No-Code and Low-Code in Frontend Development: Opportunity or Threat?](https://dev.to/dainemawer/the-rise-of-no-code-and-low-code-in-frontend-development-opportunity-or-threat-ofa)
-- [Falsehoods Programmers Believe About Finance](https://dev.to/mdesenfants/falsehoods-programmers-believe-about-finance-53hm)
-- [Mastering Step-by-Step Reasoning in Prompts](https://dev.to/borba/mastering-step-by-step-reasoning-in-prompts-3mkb)
-- [The Magic of Theming](https://dev.to/nblackburn/the-magic-of-theming-4np9)
+- [Here Are Some Productivity Tools That I Use Every Day](https://dev.to/devlawrence/here-are-some-productivity-tools-that-i-use-every-day-3p3b)
+- [Transcode video with open web services](https://dev.to/video/transcode-video-with-open-web-services-4p3e)
+- [CONFIGURING NGINX ON AN FRESH UBUNTU SERVER](https://dev.to/dheecloud/configuring-nginx-on-an-fresh-ubuntu-server-3pcp)
+- [[Boost]](https://dev.to/proxyos/-5j3)
 <!-- BLOG-POST-LIST:END -->
 
