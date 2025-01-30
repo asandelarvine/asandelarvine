@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HackerNoon beets Dev](https://dev.to/dansasser/hackernoon-beets-dev-3pig)
-- [This community is becoming a joke](https://dev.to/dansasser/this-community-is-becoming-a-joke-2dmh)
-- [I just had the discussion tagged removed from one of my post when it is clearly a very popular discussion. This platform is becoming a joke](https://dev.to/dansasser/i-just-had-the-discussion-tagged-removed-from-one-of-my-post-when-it-is-clearly-a-very-popular-4eoc)
-- [🚀 5 Open-Source Tools to Track PostgreSQL Performance Like a Pro!](https://dev.to/dct_technologyprivatelimited/5-open-source-tools-to-track-postgresql-performance-like-a-pro-5805)
+- [🚀 Medical Admission System by Specialties](https://dev.to/jorge_medina_618dfeeedb4c/medical-admission-system-by-specialties-1ne3)
+- [That Beginner AWS Project You Can Practice With](https://dev.to/aws-builders/that-beginner-aws-project-you-can-practice-with-487f)
+- [Front-end Shovel 💩 Diary #1: Project Directory Structure Adjustment](https://dev.to/ourai/front-end-shovel-diary-1-project-directory-structure-adjustment-136g)
+- [5 Ways Logistics Apps Improve Last-Mile Delivery](https://dev.to/raniaswal/5-ways-logistics-apps-improve-last-mile-delivery-5d6o)
 <!-- BLOG-POST-LIST:END -->
 
