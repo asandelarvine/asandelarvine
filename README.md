@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Firebase for ASP.NET authentication](https://dev.to/logrocket/using-firebase-for-aspnet-authentication-e27)
-- [The Dead Letter Channel Enterprise Integration Pattern &lpar;EIP&rpar;: A Deep Dive](https://dev.to/igventurelli/the-dead-letter-channel-enterprise-integration-pattern-eip-a-deep-dive-2f2p)
-- [UAT: A Quick Overview](https://dev.to/shipyard/uat-a-quick-overview-1go7)
-- [React Scan - Best choise for FE dev](https://dev.to/nddev_18/react-scan-best-choise-for-fe-dev-1mnl)
+- [&quot;Unlocking Quantum Potential: Innovations in Secure Multi-Party Computation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-innovations-in-secure-multi-party-computation-2g4h)
+- [Setting Up and Configuring NGINX on an Ubuntu Server.](https://dev.to/thelady_moh/setting-up-and-configuring-nginx-on-an-ubuntu-server-2hoi)
+- [Deploying Nginx on Azure Ubuntu VM: My Experience](https://dev.to/praisephs/deploying-nginx-on-azure-ubuntu-vm-my-experience-3102)
+- [How AI and data are transforming recruitment 2025](https://dev.to/deborah_madu_03984faf7ae5/how-ai-and-data-are-transforming-recruitment-2025-4ko1)
 <!-- BLOG-POST-LIST:END -->
 
