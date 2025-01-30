@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Gray Release for High Availability](https://dev.to/ngendo/mastering-gray-release-for-high-availability-11pp)
-- [Built-in AI: The Future of Web-Powered Intelligence](https://dev.to/itxshakil/built-in-ai-the-future-of-web-powered-intelligence-39nd)
-- [Item 86: Tenha cautela ao implementar a Serializable](https://dev.to/javaefetivo/item-86-tenha-cautela-ao-implementar-a-serializable-258i)
-- [Implementing Cloud SQL](https://dev.to/unique-tea/implementing-cloud-sql-3f8j)
+- [Daily Quantum Learning #5 - Physical Basis of Quantum Gates](https://dev.to/quantumashx/daily-quantum-learning-5-physical-basis-of-quantum-gates-97h)
+- [OAuth vs SAML vs OpenID: A Beginner-Friendly Guide](https://dev.to/lovestaco/oauth-vs-saml-vs-openid-a-beginner-friendly-guide-3l7o)
+- [A comprehensive guide to JavaScript generators](https://dev.to/logrocket/a-comprehensive-guide-to-javascript-generators-i95)
+- [Logs para que te quero? Sobre a importância do mapeamento das ações do usuário em um sistema](https://dev.to/dminatto/logs-para-que-te-quero-sobre-a-importancia-do-mapeamento-das-acoes-do-usuario-em-um-sistema-4l3o)
 <!-- BLOG-POST-LIST:END -->
 
