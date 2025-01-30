@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of React Component Libraries: Elevate Your Development Process](https://dev.to/sencha_reext/unlocking-the-power-of-react-component-libraries-elevate-your-development-process-2bjg)
-- [Authorization in Golang](https://dev.to/ortizdavid/authorization-in-golang-52oj)
-- [spring-014: mvn spring-boot:run-lifecycle-phases](https://dev.to/hunor85/spring-014-mvn-spring-bootrun-lifecycle-phases-18g9)
-- [Smart CO2-Based Fan Control Using BleuIO and Renesas RA4M2](https://dev.to/bleuiot/smart-co2-based-fan-control-using-bleuio-and-renesas-ra4m2-dkm)
+- [HackerNoon beets Dev](https://dev.to/dansasser/hackernoon-beets-dev-3pig)
+- [This community is becoming a joke](https://dev.to/dansasser/this-community-is-becoming-a-joke-2dmh)
+- [I just had the discussion tagged removed from one of my post when it is clearly a very popular discussion. This platform is becoming a joke](https://dev.to/dansasser/i-just-had-the-discussion-tagged-removed-from-one-of-my-post-when-it-is-clearly-a-very-popular-4eoc)
+- [🚀 5 Open-Source Tools to Track PostgreSQL Performance Like a Pro!](https://dev.to/dct_technologyprivatelimited/5-open-source-tools-to-track-postgresql-performance-like-a-pro-5805)
 <!-- BLOG-POST-LIST:END -->
 
