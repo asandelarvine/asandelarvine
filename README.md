@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Testing in React: React Testing Library and Jest](https://dev.to/austinwdigital/simplifying-testing-in-react-react-testing-library-and-jest-38c0)
-- [How to Implement 📈 Test-Driven Development 🔄 in Your 📁 Projects with 💻 TypeScript 👍](https://dev.to/akashaman/how-to-implement-test-driven-development-in-your-projects-with-typescript-490)
-- [5 Simple Productivity Tips Every Developer Should Try](https://dev.to/kimwachsman1979/5-simple-productivity-tips-every-developer-should-try-1mcl)
-- [[Boost]](https://dev.to/mislam/-5196)
+- [Playwright Alternatives: Top Tools for Web Automation and Testing](https://dev.to/keploy/playwright-alternatives-top-tools-for-web-automation-and-testing-1fcp)
+- [Rails CI/CD with Dokku &amp; GitHub Actions](https://dev.to/sulmanweb/rails-cicd-with-dokku-github-actions-l2g)
+- [🚀 Master Props in React: The Beginner’s Guide You Need! 🚀](https://dev.to/dct_technologyprivatelimited/master-props-in-react-the-beginners-guide-you-need-1md2)
+- [Getting Started with Stellar Development: A Step-by-Step Guide for Beginners](https://dev.to/dhruv_patel_966c637ac866f/getting-started-with-stellar-development-a-step-by-step-guide-for-beginners-5bjn)
 <!-- BLOG-POST-LIST:END -->
 
