@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [QuickSort - ordenando seus dados o mais rápido possível](https://dev.to/domgarotom/quicksort-ordenando-seus-dados-o-mais-rapido-possivel-13af)
-- [Before building product, connect the dots first](https://dev.to/rowsanali/before-building-product-connect-the-dots-first-5692)
-- [Migrating Azure Event Grid to Minimal API with FastEndpoints](https://dev.to/eelcolos/migrating-azure-event-grid-to-minimal-api-with-fastendpoints-515j)
-- [2025 Predictions: Quantum, AI, Blockchain -&gt; all security](https://dev.to/hrulabs/2025-predictions-quantum-ai-blockchain-all-security-4kam)
+- [Using Firebase for ASP.NET authentication](https://dev.to/logrocket/using-firebase-for-aspnet-authentication-e27)
+- [The Dead Letter Channel Enterprise Integration Pattern &lpar;EIP&rpar;: A Deep Dive](https://dev.to/igventurelli/the-dead-letter-channel-enterprise-integration-pattern-eip-a-deep-dive-2f2p)
+- [UAT: A Quick Overview](https://dev.to/shipyard/uat-a-quick-overview-1go7)
+- [React Scan - Best choise for FE dev](https://dev.to/nddev_18/react-scan-best-choise-for-fe-dev-1mnl)
 <!-- BLOG-POST-LIST:END -->
 
