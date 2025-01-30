@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 IDE Integration: Supercharging Productivity ✔](https://dev.to/sarvar_04/ide-integration-supercharging-productivity-pap)
-- [How to Create, Run, &amp; Manage Laravel Migrations](https://dev.to/buttercms/how-to-create-run-manage-laravel-migrations-3o6d)
-- [text-Editor VSCODE Without Mouse](https://dev.to/ngouend_gerard_90/text-editor-vscode-without-mouse-2k3o)
-- [5 Common Mistakes When Using useEffect Hook in React](https://dev.to/symplymuslimah12/5-common-mistakes-when-using-useeffect-hook-in-react-949)
+- [React Key Concepts - Episode 1](https://dev.to/priya_sharma/react-key-concepts-episode-1-2k2b)
+- [HNG Stage 0: NGINX Web Server Task](https://dev.to/calebsgram/hng-stage-0-nginx-web-server-task-5f0j)
+- [Deploy DeepSeek R1 to AWS EC2](https://dev.to/fpmortal/deploy-deepseek-r1-to-aws-ec2-n78)
+- [Qwen 2.5 Max vs. DeepSeek V3 &lpar;R1&rpar; Benchmark](https://dev.to/mehmetakar/qwen-25-max-vs-deepseek-v3-r1-benchmark-49be)
 <!-- BLOG-POST-LIST:END -->
 
