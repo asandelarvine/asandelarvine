@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Choosing the Right Website Builder.](https://dev.to/advtech_market/the-ultimate-guide-to-choosing-the-right-website-builder-45a1)
-- [Understanding the Java Execution Process: From Code to Execution](https://dev.to/nishanthan-k/understanding-the-java-execution-process-from-code-to-execution-1n89)
-- [Discover 7 Amazing Tools for Image Optimization and Compression](https://dev.to/mroman7/discover-7-amazing-tools-for-image-optimization-and-compression-406i)
-- [From the Dark Web to Ethical Hacking: The Journey of Monsif Hmouri in Cybersecurity](https://dev.to/monsifhmouri/from-the-dark-web-to-ethical-hacking-the-journey-of-monsif-hmouri-in-cybersecurity-5d8i)
+- [Simplifying Testing in React: React Testing Library and Jest](https://dev.to/austinwdigital/simplifying-testing-in-react-react-testing-library-and-jest-38c0)
+- [How to Implement 📈 Test-Driven Development 🔄 in Your 📁 Projects with 💻 TypeScript 👍](https://dev.to/akashaman/how-to-implement-test-driven-development-in-your-projects-with-typescript-490)
+- [5 Simple Productivity Tips Every Developer Should Try](https://dev.to/kimwachsman1979/5-simple-productivity-tips-every-developer-should-try-1mcl)
+- [[Boost]](https://dev.to/mislam/-5196)
 <!-- BLOG-POST-LIST:END -->
 
