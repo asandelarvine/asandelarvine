@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for URLs: A Comprehensive Guide](https://dev.to/simplr_sh/best-practices-for-urls-a-comprehensive-guide-2f90)
-- [Day 1: Building a Tic-Tac-Toe Game with a Valentine’s Twist Using React](https://dev.to/damilola_oyeyipo_1348716f/building-a-tic-tac-toe-game-with-a-valentines-twist-using-react-292f)
-- [DevOps - NGINX Configuration](https://dev.to/mukumbuta/devops-nginx-configuration-b4n)
-- [Inserção de dados em massa em bancos relacionais](https://dev.to/viniciuslisboa07/insercao-de-dados-em-massa-em-bancos-relacionais-3ien)
+- [The Ultimate Guide to Choosing the Right Website Builder.](https://dev.to/advtech_market/the-ultimate-guide-to-choosing-the-right-website-builder-45a1)
+- [Understanding the Java Execution Process: From Code to Execution](https://dev.to/nishanthan-k/understanding-the-java-execution-process-from-code-to-execution-1n89)
+- [Discover 7 Amazing Tools for Image Optimization and Compression](https://dev.to/mroman7/discover-7-amazing-tools-for-image-optimization-and-compression-406i)
+- [From the Dark Web to Ethical Hacking: The Journey of Monsif Hmouri in Cybersecurity](https://dev.to/monsifhmouri/from-the-dark-web-to-ethical-hacking-the-journey-of-monsif-hmouri-in-cybersecurity-5d8i)
 <!-- BLOG-POST-LIST:END -->
 
