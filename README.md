@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gasless Transactions Simplified: OktoPaymaster in Action](https://dev.to/abi_6fc654db6b9c841fb4c4f/gasless-transactions-simplified-oktopaymaster-in-action-144c)
-- [My Experience Setting Up NGINX on an Ubuntu Server in AWS - HNG DevOps](https://dev.to/c_6b7a8e65d067ddc62/my-experience-setting-up-nginx-on-an-ubuntu-server-in-aws-hng-devops-g22)
-- [Exposing SAS Decision Manager Decision Flows as REST APIs in SAS Viya: A Step-by-Step Guide](https://dev.to/devaaai/exposing-sas-decision-manager-decision-flows-as-rest-apis-in-sas-viya-a-step-by-step-guide-535b)
-- [TypeScript vs JavaScript: A short To the point comparison](https://dev.to/web_dev-usman/typescript-vs-javascript-a-short-to-the-point-comparison-4m82)
+- [Prevent DNS Rebinding in Laravel: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-dns-rebinding-in-laravel-a-comprehensive-guide-4gmi)
+- [Microservices 101: Communication between services](https://dev.to/bulatgab/microservices-101-communication-between-services-4ea)
+- [“Indian Root Bridge” - Integration Approach to Connect Systems](https://dev.to/bhagvank/indian-root-bridge-integration-approach-to-connect-systems-77j)
+- [Embedding JSFiddle in dev.to Articles](https://dev.to/manoj_004d/embedding-jsfiddle-in-devto-articles-1in5)
 <!-- BLOG-POST-LIST:END -->
 
