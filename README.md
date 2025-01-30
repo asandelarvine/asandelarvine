@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Alternatives: Top Tools for Web Automation and Testing](https://dev.to/keploy/playwright-alternatives-top-tools-for-web-automation-and-testing-1fcp)
-- [Rails CI/CD with Dokku &amp; GitHub Actions](https://dev.to/sulmanweb/rails-cicd-with-dokku-github-actions-l2g)
-- [🚀 Master Props in React: The Beginner’s Guide You Need! 🚀](https://dev.to/dct_technologyprivatelimited/master-props-in-react-the-beginners-guide-you-need-1md2)
-- [Getting Started with Stellar Development: A Step-by-Step Guide for Beginners](https://dev.to/dhruv_patel_966c637ac866f/getting-started-with-stellar-development-a-step-by-step-guide-for-beginners-5bjn)
+- [Gasless Transactions Simplified: OktoPaymaster in Action](https://dev.to/abi_6fc654db6b9c841fb4c4f/gasless-transactions-simplified-oktopaymaster-in-action-144c)
+- [My Experience Setting Up NGINX on an Ubuntu Server in AWS - HNG DevOps](https://dev.to/c_6b7a8e65d067ddc62/my-experience-setting-up-nginx-on-an-ubuntu-server-in-aws-hng-devops-g22)
+- [Exposing SAS Decision Manager Decision Flows as REST APIs in SAS Viya: A Step-by-Step Guide](https://dev.to/devaaai/exposing-sas-decision-manager-decision-flows-as-rest-apis-in-sas-viya-a-step-by-step-guide-535b)
+- [TypeScript vs JavaScript: A short To the point comparison](https://dev.to/web_dev-usman/typescript-vs-javascript-a-short-to-the-point-comparison-4m82)
 <!-- BLOG-POST-LIST:END -->
 
