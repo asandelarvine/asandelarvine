@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Quantum Learning #5 - Physical Basis of Quantum Gates](https://dev.to/quantumashx/daily-quantum-learning-5-physical-basis-of-quantum-gates-97h)
-- [OAuth vs SAML vs OpenID: A Beginner-Friendly Guide](https://dev.to/lovestaco/oauth-vs-saml-vs-openid-a-beginner-friendly-guide-3l7o)
-- [A comprehensive guide to JavaScript generators](https://dev.to/logrocket/a-comprehensive-guide-to-javascript-generators-i95)
-- [Logs para que te quero? Sobre a importância do mapeamento das ações do usuário em um sistema](https://dev.to/dminatto/logs-para-que-te-quero-sobre-a-importancia-do-mapeamento-das-acoes-do-usuario-em-um-sistema-4l3o)
+- [💻 IDE Integration: Supercharging Productivity ✔](https://dev.to/sarvar_04/ide-integration-supercharging-productivity-pap)
+- [How to Create, Run, &amp; Manage Laravel Migrations](https://dev.to/buttercms/how-to-create-run-manage-laravel-migrations-3o6d)
+- [text-Editor VSCODE Without Mouse](https://dev.to/ngouend_gerard_90/text-editor-vscode-without-mouse-2k3o)
+- [5 Common Mistakes When Using useEffect Hook in React](https://dev.to/symplymuslimah12/5-common-mistakes-when-using-useeffect-hook-in-react-949)
 <!-- BLOG-POST-LIST:END -->
 
