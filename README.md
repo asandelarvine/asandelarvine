@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Key Concepts - Episode 1](https://dev.to/priya_sharma/react-key-concepts-episode-1-2k2b)
-- [HNG Stage 0: NGINX Web Server Task](https://dev.to/calebsgram/hng-stage-0-nginx-web-server-task-5f0j)
-- [Deploy DeepSeek R1 to AWS EC2](https://dev.to/fpmortal/deploy-deepseek-r1-to-aws-ec2-n78)
-- [Qwen 2.5 Max vs. DeepSeek V3 &lpar;R1&rpar; Benchmark](https://dev.to/mehmetakar/qwen-25-max-vs-deepseek-v3-r1-benchmark-49be)
+- [Multiple component variants with Tailwind](https://dev.to/railsdesigner/multiple-component-variants-with-tailwind-243c)
+- [Entenda GIT e GITHUB](https://dev.to/bughunterbr/entenda-git-e-github-1ikc)
+- [Custom Multipart Request in Dart for Video Uploads](https://dev.to/saurabh_saha_bf5fd7abb989/custom-multipart-request-in-dart-for-video-uploads-38c7)
+- [Muy buena opinión y apoyo para adentrarse en el mundo DEV, totalmente de acuerdo en potenciar nuestros conocimientos y carreras por medio de la creación de conexiones con compañeros en el campo.](https://dev.to/juan_pabloalvarezbaraja/muy-buena-opinion-y-apoyo-para-adentrarse-en-el-mundo-dev-totalmente-de-acuerdo-en-potenciar-5713)
 <!-- BLOG-POST-LIST:END -->
 
