@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On inheritance and subtyping](https://dev.to/nfrankel/on-inheritance-and-subtyping-c4m)
-- [Validating configuration files with Raku and Sparrow Task::Check DSL](https://dev.to/melezhik/validating-config-files-with-raku-and-sparrow-taskcheck-dsl-1ekp)
-- [Advanced Web Development Insights: Lessons from Senior Developers](https://dev.to/smok/advanced-web-development-insights-lessons-from-senior-developers-4pjo)
-- [Integrating Kube-Prometheus with Your Operator Using Jsonnet Bundler &lpar;jb&rpar;](https://dev.to/aws-builders/integrating-kube-prometheus-with-your-operator-using-jsonnet-bundler-jb-5dop)
+- [maven-006: maven-classpath](https://dev.to/hunor85/maven-006-maven-classpath-3dn7)
+- [Starting up with Kubernetes](https://dev.to/pareekplatform/starting-up-with-kubernetes-1jae)
+- [Recursively Mapping Objects in JavaScript](https://dev.to/askyt/recursively-mapping-objects-in-javascript-5gne)
+- [maven-005: deep-dive-into-site-lifecycle](https://dev.to/hunor85/maven-005-deep-dive-into-site-lifecycle-3dm3)
 <!-- BLOG-POST-LIST:END -->
 
