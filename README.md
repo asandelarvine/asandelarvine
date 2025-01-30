@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for URLs: A Comprehensive Guide](https://dev.to/simplr_sh/best-practices-for-urls-a-comprehensive-guide-2f90)
 - [Day 1: Building a Tic-Tac-Toe Game with a Valentine’s Twist Using React](https://dev.to/damilola_oyeyipo_1348716f/building-a-tic-tac-toe-game-with-a-valentines-twist-using-react-292f)
 - [DevOps - NGINX Configuration](https://dev.to/mukumbuta/devops-nginx-configuration-b4n)
 - [Inserção de dados em massa em bancos relacionais](https://dev.to/viniciuslisboa07/insercao-de-dados-em-massa-em-bancos-relacionais-3ien)
-- [Configure Your Cloud Infrastructure using Terraform and AWS CLI: A Step-by-Step Tutorial](https://dev.to/ikelechia/configure-your-cloud-infrastructure-using-terraform-and-aws-cli-a-step-by-step-tutorial-9ag)
 <!-- BLOG-POST-LIST:END -->
 
