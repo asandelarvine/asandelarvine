@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [maven-006: maven-classpath](https://dev.to/hunor85/maven-006-maven-classpath-3dn7)
-- [Starting up with Kubernetes](https://dev.to/pareekplatform/starting-up-with-kubernetes-1jae)
-- [Recursively Mapping Objects in JavaScript](https://dev.to/askyt/recursively-mapping-objects-in-javascript-5gne)
-- [maven-005: deep-dive-into-site-lifecycle](https://dev.to/hunor85/maven-005-deep-dive-into-site-lifecycle-3dm3)
+- [Unlocking the Power of React Component Libraries: Elevate Your Development Process](https://dev.to/sencha_reext/unlocking-the-power-of-react-component-libraries-elevate-your-development-process-2bjg)
+- [Authorization in Golang](https://dev.to/ortizdavid/authorization-in-golang-52oj)
+- [spring-014: mvn spring-boot:run-lifecycle-phases](https://dev.to/hunor85/spring-014-mvn-spring-bootrun-lifecycle-phases-18g9)
+- [Smart CO2-Based Fan Control Using BleuIO and Renesas RA4M2](https://dev.to/bleuiot/smart-co2-based-fan-control-using-bleuio-and-renesas-ra4m2-dkm)
 <!-- BLOG-POST-LIST:END -->
 
