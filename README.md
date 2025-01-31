@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Trello-Like Task Board with Video Uploads | React.js &amp; Firebase](https://dev.to/aqibbuttportfolio/trello-like-task-board-with-video-uploads-reactjs-firebase-2hoh)
-- [🚀 Understanding React Context and the Double Curly Braces in AuthContext.Provider 💡](https://dev.to/peeyush_tyagi_473a6b7f1e7/understanding-react-context-and-the-double-curly-braces-in-authcontextprovider-3mf3)
-- [A.I. Chat with your TypeScript Class &lpar;Every TypeScript Classes can be Super A.I. Chatbot&rpar;](https://dev.to/samchon/ai-chat-with-your-typescript-class-every-typescript-classes-can-be-super-ai-chatbot-51f)
-- [How I Configured NGINX on a Fresh Ubuntu Server: My Experience](https://dev.to/onlyfave/how-i-configured-nginx-on-a-fresh-ubuntu-server-my-experience-434b)
+- [Newly Curated Must-Read Web Development Articles.](https://dev.to/dev-resources/newly-curated-must-read-web-development-articles-41ag)
+- [Build a Time Tracking App with Tkinter and Pygame](https://dev.to/flnzba/build-a-time-tracking-app-with-tkinter-and-pygame-1959)
+- [awesome](https://dev.to/brunociccarino/awesome-3p6e)
+- [Plan and main algorithms](https://dev.to/tmshbai/plan-and-main-algorithms-2c28)
 <!-- BLOG-POST-LIST:END -->
 
