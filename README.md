@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/oscar_morlet_28699383128a/-5a45)
-- [Analyzing the Dub.co analytics playbook](https://dev.to/tinybirdco/analyzing-the-dubco-analytics-playbook-30l9)
-- [Quick tip: Comparing OpenAI and Ollama using LangChain&#39;s SQLDatabaseToolkit](https://dev.to/singlestore/quick-tip-comparing-openai-and-ollama-using-langchains-sqldatabasetoolkit-46hm)
-- [HTTP METHOD AND STATUS CODE](https://dev.to/_sumayah/http-method-and-status-code-m1b)
+- [OpenAI o3-mini: Pushing the Frontier of Cost-Effective Reasoning](https://dev.to/mehmetakar/openai-o3-mini-pushing-the-frontier-of-cost-effective-reasoning-3m2i)
+- [[Boost]](https://dev.to/zxce3/-2f4f)
+- [Crime Analyst AI](https://dev.to/madds/crime-analyst-ai-k16)
+- [Embedding KCL in Rust](https://dev.to/ffromm/embedding-kcl-in-rust-1akj)
 <!-- BLOG-POST-LIST:END -->
 
