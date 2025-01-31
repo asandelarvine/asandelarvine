@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-36dm)
-- [IP Address Set Operations with net/netip 4/7](https://dev.to/rezmoss/ip-address-set-operations-with-netnetip-47-38b2)
-- [Avoiding global functions in JavaScript](https://dev.to/56_kode/avoiding-global-functions-in-javascript-1hlm)
-- [Built public API for HNG stage0 task](https://dev.to/mayowakalejaiye/built-public-api-for-hng-stage0-task-3aa8)
+- [Check out this list of 18 Best UI Component Libraries for React! 🚀 Any other favorites to add? Let me know! 👇](https://dev.to/joodi/check-out-this-list-of-18-best-ui-component-libraries-for-react-any-other-favorites-to-add-let-2bhf)
+- [[Boost]](https://dev.to/ogutu/-1jck)
+- [My Journey with Go and Two Practice Projects](https://dev.to/kawasthi2889/my-journey-with-go-and-two-practice-projects-1lho)
+- [🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝗛𝗶𝗯𝗲𝗿𝗻𝗮𝘁𝗲 𝗕𝗮𝘁𝗰𝗵 𝗝𝗼𝗯𝘀: 𝗕𝗼𝗼𝘀𝘁 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗟𝗶𝗸𝗲 𝗡𝗲𝘃𝗲𝗿 𝗕𝗲𝗳𝗼𝗿𝗲! 💡](https://dev.to/thiago_souza_1510/--4loe)
 <!-- BLOG-POST-LIST:END -->
 
