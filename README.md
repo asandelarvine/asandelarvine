@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Combine Filters, Sorting, and Infinite Scrolling in Laravel, Inertia.js v2, and Vue 3](https://dev.to/deondazy/how-to-combine-filters-sorting-and-infinite-scrolling-in-laravel-inertiajs-v2-and-vue-3-24a7)
-- [Microservices Architecture with MERN: Pros &amp; Cons](https://dev.to/nadim_ch0wdhury/microservices-architecture-with-mern-pros-cons-2fmo)
-- [GraphQL vs. REST API: Which One Should You Use in MERN?](https://dev.to/nadim_ch0wdhury/graphql-vs-rest-api-which-one-should-you-use-in-mern-14ob)
-- [When Postgres index meets Bcrypt](https://dev.to/_n0rdy_/when-postgres-index-meets-bcrypt-3ap3)
+- [1 Billion Rows Challenge in PHP](https://dev.to/gfabrizi/1-billion-rows-challenge-in-php-5bpe)
+- [Emerging Tech Trends of 2025: What’s Shaping the Future?](https://dev.to/aneeqakhan/emerging-tech-trends-of-2025-whats-shaping-the-future-1kke)
+- [HNG DevOps Stage 0 - Setting Up Nginx on an Azure Virtual Machine](https://dev.to/ben-g/hng-devops-stage-0-setting-up-nginx-on-an-azure-virtual-machine-3oa2)
+- [Simple Yet Powerful: Building an In-Memory Async Event Bus in Python](https://dev.to/kuba_szw/simple-yet-powerful-building-an-in-memory-async-event-bus-in-python-3e8j)
 <!-- BLOG-POST-LIST:END -->
 
