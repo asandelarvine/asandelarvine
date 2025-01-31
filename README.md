@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Here Are Some Productivity Tools That I Use Every Day](https://dev.to/devlawrence/here-are-some-productivity-tools-that-i-use-every-day-3p3b)
-- [Transcode video with open web services](https://dev.to/video/transcode-video-with-open-web-services-4p3e)
-- [CONFIGURING NGINX ON AN FRESH UBUNTU SERVER](https://dev.to/dheecloud/configuring-nginx-on-an-fresh-ubuntu-server-3pcp)
-- [[Boost]](https://dev.to/proxyos/-5j3)
+- [Journey of Enhanced &amp; Mindful Architecture - Part 4](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-4-56ee)
+- [Testing the Robustness of AI Systems: Ensuring Reliability in Real-World Scenarios](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-the-robustness-of-ai-systems-ensuring-reliability-in-real-world-scenarios-1c69)
+- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-4d2j)
+- [Running DeepSeek-R1 Locally - Use with Open WebUI, Chatbox, CodeGPT](https://dev.to/jonathan-dev/running-deepseek-r1-locally-use-with-open-webui-chatbox-codegpt-4425)
 <!-- BLOG-POST-LIST:END -->
 
