@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out this list of 18 Best UI Component Libraries for React! 🚀 Any other favorites to add? Let me know! 👇](https://dev.to/joodi/check-out-this-list-of-18-best-ui-component-libraries-for-react-any-other-favorites-to-add-let-2bhf)
-- [[Boost]](https://dev.to/ogutu/-1jck)
-- [My Journey with Go and Two Practice Projects](https://dev.to/kawasthi2889/my-journey-with-go-and-two-practice-projects-1lho)
-- [🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝗛𝗶𝗯𝗲𝗿𝗻𝗮𝘁𝗲 𝗕𝗮𝘁𝗰𝗵 𝗝𝗼𝗯𝘀: 𝗕𝗼𝗼𝘀𝘁 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗟𝗶𝗸𝗲 𝗡𝗲𝘃𝗲𝗿 𝗕𝗲𝗳𝗼𝗿𝗲! 💡](https://dev.to/thiago_souza_1510/--4loe)
+- [Is Bigger Really Better? Rethinking AI with SLMs – Why Smaller Models Are Leading the Next Wave of Innovation](https://dev.to/devopsking/is-bigger-really-better-rethinking-ai-with-slms-why-smaller-models-are-leading-the-next-wave-of-2m3n)
+- [From PartyRock to Bedrock: AI-Powered Automation at Work](https://dev.to/aws-builders/from-partyrock-to-bedrock-ai-powered-automation-at-work-28c2)
+- [Which JavaScript Bundler Is Right for You? A Deep Dive into Webpack, Vite, and More](https://dev.to/mohamedlaminef/which-javascript-bundler-is-right-for-you-a-deep-dive-into-webpack-vite-and-more-50bc)
+- [Profiling asynchronous Python](https://dev.to/smirnoffmg/profiling-asynchronous-python-1nii)
 <!-- BLOG-POST-LIST:END -->
 
