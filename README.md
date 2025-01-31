@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My IONIC Notes](https://dev.to/agussudarmanto/my-ionic-notes-2b84)
-- [Day 31 - Types of functions](https://dev.to/lakshmipritha/day-31-types-of-functions-28i2)
-- [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
-- [AI for Test Environment Management: Streamlining Software Testing Infrastructure](https://dev.to/arun_pal_3ce740a137cf15ad/ai-for-test-environment-management-streamlining-software-testing-infrastructure-4463)
+- [How to use Vercel Blob Storage with Python](https://dev.to/suryasekhar/how-to-use-vercel-blob-storage-with-python-3ko)
+- [6502 Math - Lab 2](https://dev.to/jurozaw/6502-math-lab-2-4adm)
+- [My first co-post!!](https://dev.to/robbenzo24/my-first-co-post-397l)
+- [PHP security](https://dev.to/ekopriyanto/php-security-40hj)
 <!-- BLOG-POST-LIST:END -->
 
