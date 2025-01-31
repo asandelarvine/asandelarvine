@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Unlock the True Potential of Google&#39;s Gemini AI? This Guide Will Show You How!](https://dev.to/sayed_ali_alkamel/want-to-unlock-the-true-potential-of-googles-gemini-ai-this-guide-will-show-you-how-nmo)
-- [Laravel and Vue.js: A Powerful Combination for Modern Web Applications](https://dev.to/robin-ivi/laravel-and-vuejs-a-powerful-combination-for-modern-web-applications-5ajo)
-- [Querido desarrollador de Android](https://dev.to/baltasarq/querido-desarrollador-de-android-5g7c)
-- [List Operation Functions](https://dev.to/mujahida_joynab_64c7407d8/list-operation-functions-1ifo)
+- [🔥🌐 Web Development &amp; AI &lpar;ChatGPT VS Deepseek&rpar; 🚀](https://dev.to/hanzla-baig/web-development-ai-chatgpt-vs-deepseek-3fed)
+- [The Dynamics of Open Source Contributions: A Conversation From Both Ends of the Spectrum](https://dev.to/devmercy/the-dynamics-of-open-source-contributions-a-conversation-from-both-ends-of-the-spectrum-3nbb)
+- [How to Fix &quot;go.mod file not found&quot; Error in Go](https://dev.to/apondiart/-how-to-fix-gomod-file-not-found-error-in-go-4lg4)
+- [Usando Deepseek no Visual Studio Code de graça 💸](https://dev.to/razielrodrigues/usando-deepseek-no-visual-studio-code-de-graca-2764)
 <!-- BLOG-POST-LIST:END -->
 
