@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly Curated Must-Read Web Development Articles.](https://dev.to/dev-resources/newly-curated-must-read-web-development-articles-41ag)
-- [Build a Time Tracking App with Tkinter and Pygame](https://dev.to/flnzba/build-a-time-tracking-app-with-tkinter-and-pygame-1959)
-- [awesome](https://dev.to/brunociccarino/awesome-3p6e)
-- [Plan and main algorithms](https://dev.to/tmshbai/plan-and-main-algorithms-2c28)
+- [How to Keep Avatar Size Fixed?](https://dev.to/joodi/how-to-keep-avatar-size-fixed-1a64)
+- [Transparency and trust discussion](https://dev.to/ben/transparency-and-trust-discussion-3d0e)
+- [Building a Next.js login page](https://dev.to/clerk/building-a-nextjs-login-page-2h87)
+- [Safeguarding Your Data When Using DeepSeek R1 In RAG Pipelines - Part II](https://dev.to/authzed/safeguarding-your-data-when-using-deepseek-r1-in-rag-pipelines-part-ii-2cli)
 <!-- BLOG-POST-LIST:END -->
 
