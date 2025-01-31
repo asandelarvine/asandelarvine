@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential Python Tips Every Beginner Should Know!](https://dev.to/thameemx/5-essential-python-tips-every-beginner-should-know-2m3i)
-- [Push Notification Events VS Providers](https://dev.to/buildandcodewithraman/push-notification-events-vs-providers-be0)
-- [Is DeepSeek’s Influence Overblown?](https://dev.to/arturampilogov/examining-deepseeks-disruptive-influence-19hd)
-- [What is Dedicated Spindle Software? Learn Its Key Role in CNC Machines | By Raterpoint](https://dev.to/shazaib_rafiq_496442e8642/what-is-dedicated-spindle-software-learn-its-key-role-in-cnc-machines-by-raterpoint-3ci8)
+- [Harnessing AWS Cloud for Seamless DeepSeek R1 Operations](https://dev.to/aws-builders/harnessing-aws-cloud-for-seamless-deepseek-r1-operations-3h3f)
+- [How to Become a Backend Developer in 2025 ?](https://dev.to/avinash201199/how-to-become-a-backend-developer-in-2025--2am2)
+- [HTTP METHOD AND STATUS CODE](https://dev.to/posi_0030316/http-method-and-status-code-18n2)
+- [🚀 Exploring the Power of DeepSeek Chat: A Hands-on Experience](https://dev.to/buildandcodewithraman/exploring-the-power-of-deepseek-chat-a-hands-on-experience-4fin)
 <!-- BLOG-POST-LIST:END -->
 
