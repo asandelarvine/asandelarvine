@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Découvrez Qwen-2.5-Max : Une Révolution dans le Domaine des Modèles Linguistiques](https://dev.to/taak61/decouvrez-qwen-25-max-une-revolution-dans-le-domaine-des-modeles-linguistiques-1641)
-- [Stop Hard-Coding API Keys: Why You Need Environment Variables Right Now](https://dev.to/jrud25/stop-hard-coding-api-keys-why-you-need-environment-variables-right-now-584n)
-- [Zod Validation in [React + Typescript]](https://dev.to/silentvoice143/zod-validation-in-react-typescript-28k6)
-- [El verdadero impacto de DeepSeek en la IA y el Open Source](https://dev.to/raulprtech/el-verdadero-impacto-de-deepseek-en-la-ia-y-el-open-source-481d)
+- [[Boost]](https://dev.to/oscar_morlet_28699383128a/-5a45)
+- [Analyzing the Dub.co analytics playbook](https://dev.to/tinybirdco/analyzing-the-dubco-analytics-playbook-30l9)
+- [Quick tip: Comparing OpenAI and Ollama using LangChain&#39;s SQLDatabaseToolkit](https://dev.to/singlestore/quick-tip-comparing-openai-and-ollama-using-langchains-sqldatabasetoolkit-46hm)
+- [HTTP METHOD AND STATUS CODE](https://dev.to/_sumayah/http-method-and-status-code-m1b)
 <!-- BLOG-POST-LIST:END -->
 
