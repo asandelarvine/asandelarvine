@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Bigger Really Better? Rethinking AI with SLMs – Why Smaller Models Are Leading the Next Wave of Innovation](https://dev.to/devopsking/is-bigger-really-better-rethinking-ai-with-slms-why-smaller-models-are-leading-the-next-wave-of-2m3n)
-- [From PartyRock to Bedrock: AI-Powered Automation at Work](https://dev.to/aws-builders/from-partyrock-to-bedrock-ai-powered-automation-at-work-28c2)
-- [Which JavaScript Bundler Is Right for You? A Deep Dive into Webpack, Vite, and More](https://dev.to/mohamedlaminef/which-javascript-bundler-is-right-for-you-a-deep-dive-into-webpack-vite-and-more-50bc)
-- [Profiling asynchronous Python](https://dev.to/smirnoffmg/profiling-asynchronous-python-1nii)
+- [🚀 Trello-Like Task Board with Video Uploads | React.js &amp; Firebase](https://dev.to/aqibbuttportfolio/trello-like-task-board-with-video-uploads-reactjs-firebase-2hoh)
+- [🚀 Understanding React Context and the Double Curly Braces in AuthContext.Provider 💡](https://dev.to/peeyush_tyagi_473a6b7f1e7/understanding-react-context-and-the-double-curly-braces-in-authcontextprovider-3mf3)
+- [A.I. Chat with your TypeScript Class &lpar;Every TypeScript Classes can be Super A.I. Chatbot&rpar;](https://dev.to/samchon/ai-chat-with-your-typescript-class-every-typescript-classes-can-be-super-ai-chatbot-51f)
+- [How I Configured NGINX on a Fresh Ubuntu Server: My Experience](https://dev.to/onlyfave/how-i-configured-nginx-on-a-fresh-ubuntu-server-my-experience-434b)
 <!-- BLOG-POST-LIST:END -->
 
