@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1 Billion Rows Challenge in PHP](https://dev.to/gfabrizi/1-billion-rows-challenge-in-php-5bpe)
-- [Emerging Tech Trends of 2025: What’s Shaping the Future?](https://dev.to/aneeqakhan/emerging-tech-trends-of-2025-whats-shaping-the-future-1kke)
-- [HNG DevOps Stage 0 - Setting Up Nginx on an Azure Virtual Machine](https://dev.to/ben-g/hng-devops-stage-0-setting-up-nginx-on-an-azure-virtual-machine-3oa2)
-- [Simple Yet Powerful: Building an In-Memory Async Event Bus in Python](https://dev.to/kuba_szw/simple-yet-powerful-building-an-in-memory-async-event-bus-in-python-3e8j)
+- [Want to Unlock the True Potential of Google&#39;s Gemini AI? This Guide Will Show You How!](https://dev.to/sayed_ali_alkamel/want-to-unlock-the-true-potential-of-googles-gemini-ai-this-guide-will-show-you-how-nmo)
+- [Laravel and Vue.js: A Powerful Combination for Modern Web Applications](https://dev.to/robin-ivi/laravel-and-vuejs-a-powerful-combination-for-modern-web-applications-5ajo)
+- [Querido desarrollador de Android](https://dev.to/baltasarq/querido-desarrollador-de-android-5g7c)
+- [List Operation Functions](https://dev.to/mujahida_joynab_64c7407d8/list-operation-functions-1ifo)
 <!-- BLOG-POST-LIST:END -->
 
