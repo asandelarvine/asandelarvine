@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing AWS Cloud for Seamless DeepSeek R1 Operations](https://dev.to/aws-builders/harnessing-aws-cloud-for-seamless-deepseek-r1-operations-3h3f)
-- [How to Become a Backend Developer in 2025 ?](https://dev.to/avinash201199/how-to-become-a-backend-developer-in-2025--2am2)
-- [HTTP METHOD AND STATUS CODE](https://dev.to/posi_0030316/http-method-and-status-code-18n2)
-- [🚀 Exploring the Power of DeepSeek Chat: A Hands-on Experience](https://dev.to/buildandcodewithraman/exploring-the-power-of-deepseek-chat-a-hands-on-experience-4fin)
+- [[Boost]](https://dev.to/ben/-36dm)
+- [IP Address Set Operations with net/netip 4/7](https://dev.to/rezmoss/ip-address-set-operations-with-netnetip-47-38b2)
+- [Avoiding global functions in JavaScript](https://dev.to/56_kode/avoiding-global-functions-in-javascript-1hlm)
+- [Built public API for HNG stage0 task](https://dev.to/mayowakalejaiye/built-public-api-for-hng-stage0-task-3aa8)
 <!-- BLOG-POST-LIST:END -->
 
