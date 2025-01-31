@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Vercel Blob Storage with Python](https://dev.to/suryasekhar/how-to-use-vercel-blob-storage-with-python-3ko)
-- [6502 Math - Lab 2](https://dev.to/jurozaw/6502-math-lab-2-4adm)
-- [My first co-post!!](https://dev.to/robbenzo24/my-first-co-post-397l)
-- [PHP security](https://dev.to/ekopriyanto/php-security-40hj)
+- [Who Won Product Hunt Golden Kitty Awards 2024? Find Out the Best Products!](https://dev.to/web_dev-usman/who-won-product-hunt-golden-kitty-awards-2024-find-out-the-best-products-14nd)
+- [Practical use of the event.stopPropagation React MUI Data Grid: Allowing Arrow Key Navigation for Input Fields](https://dev.to/rajeshroyal/practical-use-of-the-eventstoppropagation-react-mui-data-grid-allowing-arrow-key-navigation-for-571a)
+- [Minimal VSCode: How I Crafted a Clean, Keyboard-Driven Coding Setup](https://dev.to/tipomrsk/minimal-vscode-how-i-crafted-a-clean-keyboard-driven-coding-setup-401d)
+- [Set up Docker For NestJs](https://dev.to/tak089/set-up-docker-for-nestjs-3gib)
 <!-- BLOG-POST-LIST:END -->
 
