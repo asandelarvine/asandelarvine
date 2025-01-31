@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Journey of Enhanced &amp; Mindful Architecture - Part 4](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-4-56ee)
-- [Testing the Robustness of AI Systems: Ensuring Reliability in Real-World Scenarios](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-the-robustness-of-ai-systems-ensuring-reliability-in-real-world-scenarios-1c69)
-- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-4d2j)
-- [Running DeepSeek-R1 Locally - Use with Open WebUI, Chatbox, CodeGPT](https://dev.to/jonathan-dev/running-deepseek-r1-locally-use-with-open-webui-chatbox-codegpt-4425)
+- [My IONIC Notes](https://dev.to/agussudarmanto/my-ionic-notes-2b84)
+- [Day 31 - Types of functions](https://dev.to/lakshmipritha/day-31-types-of-functions-28i2)
+- [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
+- [AI for Test Environment Management: Streamlining Software Testing Infrastructure](https://dev.to/arun_pal_3ce740a137cf15ad/ai-for-test-environment-management-streamlining-software-testing-infrastructure-4463)
 <!-- BLOG-POST-LIST:END -->
 
