@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥🌐 Web Development &amp; AI &lpar;ChatGPT VS Deepseek&rpar; 🚀](https://dev.to/hanzla-baig/web-development-ai-chatgpt-vs-deepseek-3fed)
-- [The Dynamics of Open Source Contributions: A Conversation From Both Ends of the Spectrum](https://dev.to/devmercy/the-dynamics-of-open-source-contributions-a-conversation-from-both-ends-of-the-spectrum-3nbb)
-- [How to Fix &quot;go.mod file not found&quot; Error in Go](https://dev.to/apondiart/-how-to-fix-gomod-file-not-found-error-in-go-4lg4)
-- [Usando Deepseek no Visual Studio Code de graça 💸](https://dev.to/razielrodrigues/usando-deepseek-no-visual-studio-code-de-graca-2764)
+- [🚀 Your Daily Crypto Job Digest For 31 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-31-january-36lo)
+- [Unlocking the Power of AI &amp; ML: Revolutionizing Software Security, Library Management, and EOL Updates](https://dev.to/bcherlapally/unlocking-the-power-of-ai-ml-revolutionizing-software-security-library-management-and-eol-50ck)
+- [Understanding Controlled and Uncontrolled Components in React](https://dev.to/jenishdabhi/understanding-controlled-and-uncontrolled-components-in-react-9ep)
+- [FIX THIS JAVA ERROR](https://dev.to/abhishek_rawat_eac0b2262f/fix-this-java-error-5aap)
 <!-- BLOG-POST-LIST:END -->
 
