@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Data Mocking Explained: Advanced API Development Techniques](https://dev.to/getambassador2024/dynamic-data-mocking-explained-advanced-api-development-techniques-1457)
-- [Design Insights: Katie Dill Reviews Startup Websites](https://dev.to/jetthoughts/design-insights-katie-dill-reviews-startup-websites-492p)
-- [Deep Dive into Building AI Agents with LLMs](https://dev.to/subeshb1/deep-dive-into-building-ai-agents-with-llms-3d0p)
-- [🚀 Transform Your Chatbot Game with Multi-Agent Magic! 🤖](https://dev.to/techifysolutions/transform-your-chatbot-game-with-multi-agent-magic-1g60)
+- [How to Combine Filters, Sorting, and Infinite Scrolling in Laravel, Inertia.js v2, and Vue 3](https://dev.to/deondazy/how-to-combine-filters-sorting-and-infinite-scrolling-in-laravel-inertiajs-v2-and-vue-3-24a7)
+- [Microservices Architecture with MERN: Pros &amp; Cons](https://dev.to/nadim_ch0wdhury/microservices-architecture-with-mern-pros-cons-2fmo)
+- [GraphQL vs. REST API: Which One Should You Use in MERN?](https://dev.to/nadim_ch0wdhury/graphql-vs-rest-api-which-one-should-you-use-in-mern-14ob)
+- [When Postgres index meets Bcrypt](https://dev.to/_n0rdy_/when-postgres-index-meets-bcrypt-3ap3)
 <!-- BLOG-POST-LIST:END -->
 
