@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ek)
-- [Limitations of React v19 `use` API in Full Stack Frameworks](https://dev.to/nancy_kataria/limitations-of-react-v19-use-api-in-full-stack-frameworks-5fop)
-- [[Boost]](https://dev.to/galpo_dainformtica_d96/-2ei9)
-- [Absolute paths for assets in iOS &amp; Android Cordova apps](https://dev.to/tylerlwsmith/absolute-paths-for-assets-in-ios-android-cordova-apps-mn8)
+- [🚀 Transform Your Chatbot Game with Multi-Agent Magic! 🤖](https://dev.to/techifysolutions/transform-your-chatbot-game-with-multi-agent-magic-1g60)
+- [In this article, ScrumStudy&#39;s Scrum Fundamentals Certification &lpar;SFC&rpar; | Study Guide - Part II: Principles, I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy&#39;s Scrum Fundamentals Certification.](https://dev.to/jasminemlewis/in-this-article-scrumstudys-scrum-fundamentals-certification-sfc-study-guide-part-ii-34d9)
+- [In this article titled SCRUMstudy&#39;s Scrum Fundamentals Certification &lpar;SFC&rpar; | Notes - Part I: Introduction, I provide a synopsis of the exam and overview of Scrum, including definition and benefits.](https://dev.to/jasminemlewis/in-this-article-titled-scrumstudys-scrum-fundamentals-certification-sfc-notes-part-i-53j3)
+- [Docker Desktop Kubernetes Evolution: Single-Node to Multi-Node](https://dev.to/ajeetraina/docker-desktop-kubernetes-evolution-single-node-to-multi-node-38gm)
 <!-- BLOG-POST-LIST:END -->
 
