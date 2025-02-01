@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned It’s Okay Not to Know Everything as a Software Engineer](https://dev.to/danielwetan/how-i-learned-its-okay-not-to-know-everything-as-a-software-engineer-3189)
-- [Azure Virtual Machines](https://dev.to/godofgeeks/azure-virtual-machines-1g0g)
-- [Predicting House Prices as Your First ML Project](https://dev.to/prezaei/predicting-house-prices-as-your-first-ml-project-1pdi)
-- [Simplifying Data Holder Classes with Java Record Classes](https://dev.to/blog-genius/simplifying-data-holder-classes-with-java-record-classes-4k25)
+- [Which is the Best Way to Learn Ethical Hacking in 2025?](https://dev.to/ankit_cyber/which-is-the-best-way-to-learn-ethical-hacking-in-2025-2ko3)
+- [&quot;Mastering Dotfiles: Optimize Your Developer Workflow with Proven Strategies&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-dotfiles-optimize-your-developer-workflow-with-proven-strategies-jpm)
+- [AronVault: Guide to Safe and Best Data Storage](https://dev.to/imtiazmarwat/aronvault-guide-to-safe-and-best-data-storage-5g15)
+- [Understanding the Difference Between var, let, and const in JavaScript](https://dev.to/saji_janahiram_a4704bc095/understanding-the-difference-between-var-let-and-const-in-javascript-9nh)
 <!-- BLOG-POST-LIST:END -->
 
