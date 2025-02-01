@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is your React app struggling to rank on Google? 🤔](https://dev.to/dct_technologyprivatelimited/is-your-react-app-struggling-to-rank-on-google-3pai)
-- [Contains&lpar;&rpar;;](https://dev.to/_e7530225be583f1/contains-23ng)
-- [SQL vs. MongoDB](https://dev.to/anjali_gurjar_dff81513867/sql-vs-mongodb-1c74)
-- [Part 1: Creating an Azure storage account and configuring basic settings for security and networking: A step by step guide.](https://dev.to/essy/part-1-creating-an-azure-storage-account-and-configuring-basic-settings-for-security-and-4na2)
+- [Tijuana vs. Cruz Azul: An Intense Battle in Liga MX](https://dev.to/samratd978/tijuana-vs-cruz-azul-an-intense-battle-in-liga-mx-f3c)
+- [Revolutionizing Discord for Traders: The All-in-One Finance Bot](https://dev.to/nvstly/revolutionizing-discord-for-traders-the-all-in-one-finance-bot-361n)
+- [Automate Adding Publix Coupons](https://dev.to/npranto/automate-adding-publix-coupons-3me1)
+- [Generando preguntas para el examen AZ-900 con OpenAI](https://dev.to/garcodas/generando-preguntas-para-el-examen-az-900-con-openai-2ecj)
 <!-- BLOG-POST-LIST:END -->
 
