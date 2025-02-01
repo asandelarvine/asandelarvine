@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tijuana vs. Cruz Azul: An Intense Battle in Liga MX](https://dev.to/samratd978/tijuana-vs-cruz-azul-an-intense-battle-in-liga-mx-f3c)
-- [Revolutionizing Discord for Traders: The All-in-One Finance Bot](https://dev.to/nvstly/revolutionizing-discord-for-traders-the-all-in-one-finance-bot-361n)
-- [Automate Adding Publix Coupons](https://dev.to/npranto/automate-adding-publix-coupons-3me1)
-- [Generando preguntas para el examen AZ-900 con OpenAI](https://dev.to/garcodas/generando-preguntas-para-el-examen-az-900-con-openai-2ecj)
+- [How I Learned It’s Okay Not to Know Everything as a Software Engineer](https://dev.to/danielwetan/how-i-learned-its-okay-not-to-know-everything-as-a-software-engineer-3189)
+- [Azure Virtual Machines](https://dev.to/godofgeeks/azure-virtual-machines-1g0g)
+- [Predicting House Prices as Your First ML Project](https://dev.to/prezaei/predicting-house-prices-as-your-first-ml-project-1pdi)
+- [Simplifying Data Holder Classes with Java Record Classes](https://dev.to/blog-genius/simplifying-data-holder-classes-with-java-record-classes-4k25)
 <!-- BLOG-POST-LIST:END -->
 
