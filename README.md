@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI o3-mini: Pushing the Frontier of Cost-Effective Reasoning](https://dev.to/mehmetakar/openai-o3-mini-pushing-the-frontier-of-cost-effective-reasoning-3m2i)
-- [[Boost]](https://dev.to/zxce3/-2f4f)
-- [Crime Analyst AI](https://dev.to/madds/crime-analyst-ai-k16)
-- [Embedding KCL in Rust](https://dev.to/ffromm/embedding-kcl-in-rust-1akj)
+- [🚀 React Patterns: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/react-patterns-essential-tips-and-tricks-for-developers-70l)
+- [The Cost of Quality in Software Testing: Understanding the Investment in Excellence](https://dev.to/radha_4c842d8e4362a7cdd9c/the-cost-of-quality-in-software-testing-understanding-the-investment-in-excellence-1ech)
+- [Importance of PIL: Weapon of justice for the commoner](https://dev.to/amit_sharwa_f58714037d043/importance-of-pil-weapon-of-justice-for-the-commoner-2kn)
+- [WTF is &#39;this&#39; in Javascript](https://dev.to/mmvergara/wtf-is-this-in-javascript-dn6)
 <!-- BLOG-POST-LIST:END -->
 
