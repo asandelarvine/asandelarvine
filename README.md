@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SETTING UP NGINX SERVER ON UBUNTU](https://dev.to/joeydanielsdev/setting-up-nginx-server-on-ubuntu-2e7f)
-- [OpenAI Launches o3-mini, its Cheapest But Most Dangerous AI Model to Date](https://dev.to/gajanan0707/openai-launches-o3-mini-its-cheapest-but-most-dangerous-ai-model-to-date-1422)
-- [Here are your 20 tweets based on the budget speech, focusing on key initiatives:](https://dev.to/susheel_kumar/here-are-your-20-tweets-based-on-the-budget-speech-focusing-on-key-initiatives-5chb)
-- [Disabled video game characters](https://dev.to/catrin__s/disabled-video-game-characters-2l5n)
+- [3 вещи, которые я, как продуктовый фронтенд-разработчик, часто недооценивал](https://dev.to/sundaycoding/3-vieshchi-kotoryie-ia-kak-produktovyi-frontiend-razrabotchik-chasto-niedootsienival-nbf)
+- [Incident Response Essentials: Building a Resilient AWS Environment with Wazuh](https://dev.to/1percentnerd/incident-response-essentials-building-a-resilient-aws-environment-with-wazuh-13i3)
+- [Web Accessibility nima?](https://dev.to/diyordev/web-accessibility-nima-bib)
+- [From Doubt to Done: How I wrote my first blogpost](https://dev.to/bolaji_akinloye/how-i-wrote-my-first-blogpost-3ef3)
 <!-- BLOG-POST-LIST:END -->
 
