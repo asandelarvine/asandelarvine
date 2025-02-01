@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/janak0ff/-5eg7)
-- [Top 10 Developer-First Payment Processors in West Africa](https://dev.to/drantaz/top-10-developer-first-payment-processors-in-west-africa-1828)
-- [Hiden Storage Local dan Local-Lvm](https://dev.to/seno21/hiden-storage-local-dan-local-lvm-273a)
-- [Crash Course on Developing AI Applications with LangChain](https://dev.to/alexmercedcoder/crash-course-on-developing-ai-applications-with-langchain-2d55)
+- [&quot;Unlocking Efficiency: The Future of LLM Compression and 3D Model Integration&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-the-future-of-llm-compression-and-3d-model-integration-4674)
+- [Key Concepts in Operating Systems](https://dev.to/ryan_zhi/key-concepts-in-operating-systems-a7g)
+- [The State of Digital Payments in Gambia: A Look at Wave, Waychit, Gamswitch, and Modem Pay](https://dev.to/drantaz/the-state-of-digital-payments-in-gambia-a-look-at-wave-waychit-gamswitch-and-modem-pay-4k20)
+- [Installing Nvidia Datacenter GPU Manager on Amazon Linux 2023](https://dev.to/aws-builders/installing-nvidia-datacenter-gpu-manager-on-amazon-linux-2023-16hk)
 <!-- BLOG-POST-LIST:END -->
 
