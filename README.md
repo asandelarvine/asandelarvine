@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use 📔FuzPad!](https://dev.to/jianzcar/how-to-use-fuzpad-4p93)
-- [Plan d&#39;étude rapide pour réussir le PSM 1](https://dev.to/andreadev/plan-detude-rapide-pour-reussir-le-psm-1-n2n)
-- [Java Deadlocks Debugging: A Comprehensive Guide](https://dev.to/blog-genius/java-deadlocks-debugging-a-comprehensive-guide-2n23)
-- [The Effect of Accessibility on Web Performance](https://dev.to/pmbanugo/the-effect-of-accessibility-on-web-performance-4haj)
+- [2025_02_01_21-28-31-article](https://dev.to/chatgptnexus/2025020121-28-31-article-1hma)
+- [Quick docker hacks](https://dev.to/kwnaidoo/quick-docker-hacks-259i)
+- [Top 10 Essential chrome extensions for web design and development](https://dev.to/paul_freeman/top-10-essential-chrome-extensions-for-web-design-and-development-4m1)
+- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-1p3f)
 <!-- BLOG-POST-LIST:END -->
 
