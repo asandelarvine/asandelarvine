@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Patterns: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/react-patterns-essential-tips-and-tricks-for-developers-70l)
-- [The Cost of Quality in Software Testing: Understanding the Investment in Excellence](https://dev.to/radha_4c842d8e4362a7cdd9c/the-cost-of-quality-in-software-testing-understanding-the-investment-in-excellence-1ech)
-- [Importance of PIL: Weapon of justice for the commoner](https://dev.to/amit_sharwa_f58714037d043/importance-of-pil-weapon-of-justice-for-the-commoner-2kn)
-- [WTF is &#39;this&#39; in Javascript](https://dev.to/mmvergara/wtf-is-this-in-javascript-dn6)
+- [Introducing Shadcn UI Multi Form – Simplify Multi-Step Form Building!](https://dev.to/remy349/introducing-shadcn-ui-multi-form-simplify-multi-step-form-building-4gmn)
+- [Mastering GitHub Actions Strategy Matrix: Deploy Smarter, Not Harder ⚙️](https://dev.to/tejastn10/mastering-github-actions-strategy-matrix-deploy-smarter-not-harder-28po)
+- [Next-Gen Identity Verification—The Role of Biometric Authentication Solutions in Secure Digital Transformation](https://dev.to/faceplugin/next-gen-identity-verification-the-role-of-biometric-authentication-solutions-in-secure-digital-5dl)
+- [GitHub em 1 Clique: De Público para Privado em Segundos!🔒](https://dev.to/alexandrejusten/github-em-1-clique-de-publico-para-privado-em-segundos-knl)
 <!-- BLOG-POST-LIST:END -->
 
