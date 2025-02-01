@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Efficiency: The Future of LLM Compression and 3D Model Integration&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-the-future-of-llm-compression-and-3d-model-integration-4674)
-- [Key Concepts in Operating Systems](https://dev.to/ryan_zhi/key-concepts-in-operating-systems-a7g)
-- [The State of Digital Payments in Gambia: A Look at Wave, Waychit, Gamswitch, and Modem Pay](https://dev.to/drantaz/the-state-of-digital-payments-in-gambia-a-look-at-wave-waychit-gamswitch-and-modem-pay-4k20)
-- [Installing Nvidia Datacenter GPU Manager on Amazon Linux 2023](https://dev.to/aws-builders/installing-nvidia-datacenter-gpu-manager-on-amazon-linux-2023-16hk)
+- [Mastering Java Memory Management](https://dev.to/blog-genius/mastering-java-memory-management-34lh)
+- [AI with AI: Let Robots Talk](https://dev.to/mileswk/ai-with-ai-let-robots-talk-3lcb)
+- [Getting Started with HTML Canvas: The Basics You Need to Know](https://dev.to/benedekkata/getting-started-with-html-canvas-the-basics-you-need-to-know-516e)
+- [The Art of Writing Clean and Maintainable Code](https://dev.to/caleb82/the-art-of-writing-clean-and-maintainable-code-2ck4)
 <!-- BLOG-POST-LIST:END -->
 
