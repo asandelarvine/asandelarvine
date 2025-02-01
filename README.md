@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which is the Best Way to Learn Ethical Hacking in 2025?](https://dev.to/ankit_cyber/which-is-the-best-way-to-learn-ethical-hacking-in-2025-2ko3)
-- [&quot;Mastering Dotfiles: Optimize Your Developer Workflow with Proven Strategies&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-dotfiles-optimize-your-developer-workflow-with-proven-strategies-jpm)
-- [AronVault: Guide to Safe and Best Data Storage](https://dev.to/imtiazmarwat/aronvault-guide-to-safe-and-best-data-storage-5g15)
-- [Understanding the Difference Between var, let, and const in JavaScript](https://dev.to/saji_janahiram_a4704bc095/understanding-the-difference-between-var-let-and-const-in-javascript-9nh)
+- [SETTING UP NGINX SERVER ON UBUNTU](https://dev.to/joeydanielsdev/setting-up-nginx-server-on-ubuntu-2e7f)
+- [OpenAI Launches o3-mini, its Cheapest But Most Dangerous AI Model to Date](https://dev.to/gajanan0707/openai-launches-o3-mini-its-cheapest-but-most-dangerous-ai-model-to-date-1422)
+- [Here are your 20 tweets based on the budget speech, focusing on key initiatives:](https://dev.to/susheel_kumar/here-are-your-20-tweets-based-on-the-budget-speech-focusing-on-key-initiatives-5chb)
+- [Disabled video game characters](https://dev.to/catrin__s/disabled-video-game-characters-2l5n)
 <!-- BLOG-POST-LIST:END -->
 
