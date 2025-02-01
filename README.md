@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Shadcn UI Multi Form – Simplify Multi-Step Form Building!](https://dev.to/remy349/introducing-shadcn-ui-multi-form-simplify-multi-step-form-building-4gmn)
-- [Mastering GitHub Actions Strategy Matrix: Deploy Smarter, Not Harder ⚙️](https://dev.to/tejastn10/mastering-github-actions-strategy-matrix-deploy-smarter-not-harder-28po)
-- [Next-Gen Identity Verification—The Role of Biometric Authentication Solutions in Secure Digital Transformation](https://dev.to/faceplugin/next-gen-identity-verification-the-role-of-biometric-authentication-solutions-in-secure-digital-5dl)
-- [GitHub em 1 Clique: De Público para Privado em Segundos!🔒](https://dev.to/alexandrejusten/github-em-1-clique-de-publico-para-privado-em-segundos-knl)
+- [How to Think Like a Senior React Developer](https://dev.to/coderosion/how-to-think-like-a-senior-react-developer-453)
+- [Leveraging AWS Step Functions for Orchestrating Complex Workflows](https://dev.to/virajlakshitha/leveraging-aws-step-functions-for-orchestrating-complex-workflows-2j35)
+- [Some one help me pls](https://dev.to/fernando_garciag_2546b7f/some-one-help-me-pls-2ml6)
+- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 2](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-2-41la)
 <!-- BLOG-POST-LIST:END -->
 
