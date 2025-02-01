@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 вещи, которые я, как продуктовый фронтенд-разработчик, часто недооценивал](https://dev.to/sundaycoding/3-vieshchi-kotoryie-ia-kak-produktovyi-frontiend-razrabotchik-chasto-niedootsienival-nbf)
-- [Incident Response Essentials: Building a Resilient AWS Environment with Wazuh](https://dev.to/1percentnerd/incident-response-essentials-building-a-resilient-aws-environment-with-wazuh-13i3)
-- [Web Accessibility nima?](https://dev.to/diyordev/web-accessibility-nima-bib)
-- [From Doubt to Done: How I wrote my first blogpost](https://dev.to/bolaji_akinloye/how-i-wrote-my-first-blogpost-3ef3)
+- [How to use 📔FuzPad!](https://dev.to/jianzcar/how-to-use-fuzpad-4p93)
+- [Plan d&#39;étude rapide pour réussir le PSM 1](https://dev.to/andreadev/plan-detude-rapide-pour-reussir-le-psm-1-n2n)
+- [Java Deadlocks Debugging: A Comprehensive Guide](https://dev.to/blog-genius/java-deadlocks-debugging-a-comprehensive-guide-2n23)
+- [The Effect of Accessibility on Web Performance](https://dev.to/pmbanugo/the-effect-of-accessibility-on-web-performance-4haj)
 <!-- BLOG-POST-LIST:END -->
 
