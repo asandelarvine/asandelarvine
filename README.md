@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Outsmarting the Clock: A Detective&#39;s Guide to Avoiding TLE in Programming](https://dev.to/sayed_ali_alkamel/outsmarting-the-clock-a-detectives-guide-to-avoiding-tle-in-programming-4845)
-- [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
-- [Unraveling Image Classification: Understanding Classification Model Behavior in Different Approaches](https://dev.to/nikhil_reddy_/unraveling-image-classification-understanding-classification-model-behavior-in-different-approaches-lj0)
-- [Namespaces in Kubernetes Explained: 🔍 Understanding Isolation and Sharing](https://dev.to/favxlaw/namespaces-in-kubernetes-explained-understanding-isolation-and-sharing-5ki)
+- [RSS: A Great Standard That Can’t Keep Up](https://dev.to/justlig/rss-a-great-standard-that-cant-keep-up-4ibp)
+- [Instalando o Docker no Windows 10 Home ou Professional com WSL 2](https://dev.to/papitofernando/instalando-o-docker-no-windows-10-home-ou-professional-com-wsl-2-26m3)
+- [Monitoring the Yezin Dam: A Journey Through Time with Computer Vision](https://dev.to/nikhil_reddy_/monitoring-the-yezin-dam-a-journey-through-time-with-computer-vision-2lmg)
+- [Prompt Engineering Template for Writers: Create Prompts Easily and Intuitively](https://dev.to/angel_rojas_6904bae237a0d/prompt-engineering-template-for-writers-create-prompts-easily-and-intuitively-43l8)
 <!-- BLOG-POST-LIST:END -->
 
