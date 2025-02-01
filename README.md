@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [pgAssistant v1.7 released](https://dev.to/bertrand_hartwig_309d1958/pgassistant-v17-released-3309)
-- [Looking to optimize memory in your Go application? Check out this guide](https://dev.to/thatcoolguy/looking-to-optimize-memory-in-your-go-application-check-out-this-guide-gh5)
-- [Memory Management in Go: 4 Effective Approaches](https://dev.to/thatcoolguy/memory-management-in-go-4-effective-approaches-39d2)
-- [The Silent Killer of Software Teams: Context Switching and How to Stop It](https://dev.to/digitalminds/the-silent-killer-of-software-teams-context-switching-and-how-to-stop-it-20oi)
+- [Hyperbaric Chambers: Benefits, Risks, and the Alarming Safety Concerns](https://dev.to/samratd978/hyperbaric-chambers-benefits-risks-and-the-alarming-safety-concerns-3gbk)
+- [DeepSeek in VSCode, run locally](https://dev.to/evanmarie/deepseek-in-vscode-run-locally-4p2b)
+- [Understanding Incremental and Batch Updates in Android Apps: Leveraging App Bundles and CodePush](https://dev.to/devaaai/understanding-incremental-and-batch-updates-in-android-apps-leveraging-app-bundles-and-codepush-3pj1)
+- [Migrando sin estrés con AWS Application Migration Service](https://dev.to/briansuarezsantiago/migrando-sin-estres-con-aws-application-migration-service-1483)
 <!-- BLOG-POST-LIST:END -->
 
