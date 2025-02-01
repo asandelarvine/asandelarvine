@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Think Like a Senior React Developer](https://dev.to/coderosion/how-to-think-like-a-senior-react-developer-453)
-- [Leveraging AWS Step Functions for Orchestrating Complex Workflows](https://dev.to/virajlakshitha/leveraging-aws-step-functions-for-orchestrating-complex-workflows-2j35)
-- [Some one help me pls](https://dev.to/fernando_garciag_2546b7f/some-one-help-me-pls-2ml6)
-- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 2](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-2-41la)
+- [Setting Up NGINX to Serve a Simple HTML Page](https://dev.to/anneusang/setting-up-nginx-to-serve-a-simple-html-page-2p4k)
+- [Integrating Cursor with Model Context Protocol &lpar;MCP&rpar;: A Developer&#39;s Guide](https://dev.to/chatgptnexus/2025020113-09-07-article-4onl)
+- [Quantum Computing and LLMs: Match Made in Heaven?](https://dev.to/aaronsteers/quantum-computing-and-llms-match-made-in-heaven-35fp)
+- [Cloud DevOps vs Linux vs Security: The Ultimate Guide for Professionals Over 30 in India](https://dev.to/pravinjadhav/cloud-devops-vs-linux-vs-security-the-ultimate-guide-for-professionals-over-30-in-india-26k3)
 <!-- BLOG-POST-LIST:END -->
 
