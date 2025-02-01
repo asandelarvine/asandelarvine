@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PREDICTING 2025](https://dev.to/tito-string/predicting-2025-3a4i)
-- [Handle and make safe and secure authentications for users for your ui sites](https://dev.to/testgithubrobert/handle-and-make-safe-and-secure-authentications-for-users-for-your-ui-sites-3617)
-- [Make Rock, Paper, Scissor game with Ink &quot;Game Engine&quot;](https://dev.to/limitcracker/make-rock-paper-scissor-game-with-ink-game-engine-2kje)
-- [Building a Real-time Todo App: Django + AJAX + Bootstrap Magic](https://dev.to/idevdesign/building-a-real-time-todo-app-django-ajax-bootstrap-magic-51fc)
+- [🌐 HTTP Status Codes: A Comprehensive Guide to API Responses](https://dev.to/juniourrau/http-status-codes-a-comprehensive-guide-to-api-responses-13pm)
+- [First Steps with Git](https://dev.to/adrianogil/first-steps-with-git-5bfh)
+- [Configuring Nginx On Amazon EC2](https://dev.to/success_john_7a76d623a3b2/configuring-nginx-on-amazon-ec2-3dp0)
+- [🎯 ML Done Right: Versioning Datasets and Models with DVC &amp; MLflow](https://dev.to/aws-builders/ml-done-right-versioning-datasets-and-models-with-dvc-mlflow-4p3f)
 <!-- BLOG-POST-LIST:END -->
 
