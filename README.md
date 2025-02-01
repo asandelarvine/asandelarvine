@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Java Memory Management](https://dev.to/blog-genius/mastering-java-memory-management-34lh)
-- [AI with AI: Let Robots Talk](https://dev.to/mileswk/ai-with-ai-let-robots-talk-3lcb)
-- [Getting Started with HTML Canvas: The Basics You Need to Know](https://dev.to/benedekkata/getting-started-with-html-canvas-the-basics-you-need-to-know-516e)
-- [The Art of Writing Clean and Maintainable Code](https://dev.to/caleb82/the-art-of-writing-clean-and-maintainable-code-2ck4)
+- [Building My Portfolio: Inspired by Apple, Powered by Web Technologies](https://dev.to/shahrushil09/building-my-portfolio-inspired-by-apple-powered-by-web-technologies-2a58)
+- [From AI Hype to Personal Growth: Lessons Learned in 2024](https://dev.to/tinymce/from-ai-hype-to-personal-growth-lessons-learned-in-2024-kb3)
+- [MapReduce Basics &lpar;Part 2&rpar;](https://dev.to/shrsv/mapreduce-basics-part-2-8ip)
+- [Witty Workflow - a TALL stack small business management tool](https://dev.to/kristi11/witty-workflow-a-tall-stack-small-business-management-tool-550e)
 <!-- BLOG-POST-LIST:END -->
 
