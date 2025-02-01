@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CloudFormation Introducción. 1. VPC IPv4/IPv6. IaC. AWS Academy.](https://dev.to/aws-builders/aws-cloudformation-introduccion-1-vpc-ipv4ipv6-iac-aws-academy-5fg2)
-- [111/365 | ¥10M Job Challenge - OpenAI o3](https://dev.to/kameken100/111365-y10m-job-challenge-openai-o3-2c8j)
-- [Execution of Synchronous and Asynchronous Functions in Node.js](https://dev.to/aditya_kushwaha_0a7aa61d6/execution-of-synchronous-and-asynchronous-functions-in-nodejs-4f65)
-- [React Chart.js: Building Interactive Charts with Ease](https://dev.to/maulikpaghdal/react-chartjs-building-interactive-charts-with-ease-4ggm)
+- [PREDICTING 2025](https://dev.to/tito-string/predicting-2025-3a4i)
+- [Handle and make safe and secure authentications for users for your ui sites](https://dev.to/testgithubrobert/handle-and-make-safe-and-secure-authentications-for-users-for-your-ui-sites-3617)
+- [Make Rock, Paper, Scissor game with Ink &quot;Game Engine&quot;](https://dev.to/limitcracker/make-rock-paper-scissor-game-with-ink-game-engine-2kje)
+- [Building a Real-time Todo App: Django + AJAX + Bootstrap Magic](https://dev.to/idevdesign/building-a-real-time-todo-app-django-ajax-bootstrap-magic-51fc)
 <!-- BLOG-POST-LIST:END -->
 
