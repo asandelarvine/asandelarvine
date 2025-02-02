@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Custom Configuration Files in NestJS](https://dev.to/tamim_ikbal/how-to-setup-custom-configuration-files-intonestjs-288a)
-- [AI Revolution: OpenAI o3-mini, DeepSeek R1, and Meta Llama 3.3 Shaping the Future of Tomorrow’s Intelligence](https://dev.to/madds/ai-revolution-openai-o3-mini-deepseek-r1-and-meta-llama-33-shaping-the-future-of-tomorrows-20cn)
-- [The Role of Data Engineering Services in AI and Machine Learning](https://dev.to/reckonsys/the-role-of-data-engineering-services-in-ai-and-machine-learning-4aoi)
-- [Tokens and Embeddings: The Building Blocks of GenAI](https://dev.to/sharsha315/tokens-and-embeddings-the-building-blocks-of-genai-1pgk)
+- [Archive System development technologies](https://dev.to/mugisha_alain_rw/archive-system-development-technologies-33fa)
+- [DeepSeek AI: The Disruptor Challenging OpenAI and Google in the AI Race](https://dev.to/ayusharpcoder/deepseek-ai-the-disruptor-challenging-openai-and-google-in-the-ai-race-56dh)
+- [Exploring MySQL Full-Text Search and Its Implementation in Laravel](https://dev.to/devmahfuz/exploring-mysql-full-text-search-and-its-implementation-in-laravel-4icl)
+- [Tortoise and Hare](https://dev.to/mujahida_joynab_64c7407d8/tortoise-and-hare-47ph)
 <!-- BLOG-POST-LIST:END -->
 
