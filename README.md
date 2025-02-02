@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps 101: Part 2](https://dev.to/himanshu_bhatt/devops-101-part-2-1fma)
-- [Storing and Querying OpenAI Embeddings in PostgreSQL with pg_vector](https://dev.to/simplr_sh/storing-and-querying-openai-embeddings-in-postgresql-with-pgvector-2ib7)
-- [Sliding Window || Python || Data Structures and Algorithms](https://dev.to/rishabtrivedi/sliding-window-python-data-structures-and-algorithms-16m)
-- [How to Build a Modern Direct Message Component in React | Daily UI Challenge Day 13](https://dev.to/jds64/how-to-build-a-modern-direct-message-component-in-react-daily-ui-challenge-day-13-40h9)
+- [How I Transitioned from Data Analyst to Data Scientist](https://dev.to/debrahayes1971/how-i-transitioned-from-data-analyst-to-data-scientist-24n9)
+- [Common Data Science Mistakes I Made &lpar;And How to Avoid Them&rpar;](https://dev.to/debrahayes1971/common-data-science-mistakes-i-made-and-how-to-avoid-them-37h8)
+- [ColorJitter in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-1-4o9o)
+- [My Favorite VS Code Extensions for Full-Stack Development](https://dev.to/enriqueminvielle1963/my-favorite-vs-code-extensions-for-full-stack-development-6i0)
 <!-- BLOG-POST-LIST:END -->
 
