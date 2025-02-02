@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma breve introdução à HashMap](https://dev.to/patriciaclares/uma-breve-introducao-a-hashmap-i62)
-- [*Terraform*](https://dev.to/fazly_fathhy/terraform-1pmj)
-- [Simple Demo for AWS CICD Pipeline](https://dev.to/cheedge_lee/simple-demo-for-aws-cicd-pipeline-2m0c)
-- [Conviértete en un experto en Solidity: Curso de cero a programador blockchain](https://dev.to/angel_rojas_6904bae237a0d/conviertete-en-un-experto-en-solidity-curso-de-cero-a-programador-blockchain-3fl9)
+- [Simplifying Software Architecture: A Guide to MVC, MVP, and MVVM](https://dev.to/lassiecoder/simplifying-software-architecture-a-guide-to-mvc-mvp-and-mvvm-87n)
+- [Digital Product Passport, quali prodotti non devono averlo?](https://dev.to/corradofacchini/digital-product-passport-quali-prodotti-non-devono-averlo-2dl0)
+- [DeepSeek R1 is creating waves in the developer community!](https://dev.to/lassiecoder/deepseek-r1-is-creating-waves-in-the-developer-community-oo8)
+- [Monitoring &amp; Alerting for AWS EKS Using Grafana, Prometheus &amp; Alertmanager with SNS Integration](https://dev.to/muhammad_ahmad_khan/monitoring-alerting-for-aws-eks-using-grafana-prometheus-alertmanager-with-sns-integration-5593)
 <!-- BLOG-POST-LIST:END -->
 
