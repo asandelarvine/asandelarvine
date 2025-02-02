@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 JavaScript Tips for Beginners🚀](https://dev.to/mahmud-r-farhan/10-javascript-tips-for-beginners-51mk)
-- [From Engineering to Corporate :2024 Rewind](https://dev.to/rieesteves/from-engineering-to-corporate-2024-rewind-55dh)
-- [The Future of AI](https://dev.to/rishabh_raj_2b61a1c41b371/the-future-of-ai-3n2)
-- [Finetune: A One-Month Coding Challenge to Sharpen Your Skills! 🚀](https://dev.to/vulcanwm/finetune-a-one-month-coding-challenge-to-sharpen-your-skills-400l)
+- [Need Help Adding TI-84 Calculator to My Website](https://dev.to/abdulmuqeet663/need-help-adding-ti-84-calculator-to-my-website-42mj)
+- [Ultimate Guide to API Security in .NET: Mastering JWT, OAuth, and Best Practices](https://dev.to/leandroveiga/ultimate-guide-to-api-security-in-net-mastering-jwt-oauth-and-best-practices-4ee8)
+- [112/365 | ¥10M Job Challenge - One step at a time](https://dev.to/kameken100/112365-y10m-job-challenge-one-step-at-a-time-4ia0)
+- [Crew.ai VS Langgraph](https://dev.to/rishabh_raj_2b61a1c41b371/crewai-vs-langgraph-2ob3)
 <!-- BLOG-POST-LIST:END -->
 
