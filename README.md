@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Need Help Adding TI-84 Calculator to My Website](https://dev.to/abdulmuqeet663/need-help-adding-ti-84-calculator-to-my-website-42mj)
-- [Ultimate Guide to API Security in .NET: Mastering JWT, OAuth, and Best Practices](https://dev.to/leandroveiga/ultimate-guide-to-api-security-in-net-mastering-jwt-oauth-and-best-practices-4ee8)
-- [112/365 | ¥10M Job Challenge - One step at a time](https://dev.to/kameken100/112365-y10m-job-challenge-one-step-at-a-time-4ia0)
-- [Crew.ai VS Langgraph](https://dev.to/rishabh_raj_2b61a1c41b371/crewai-vs-langgraph-2ob3)
+- [Uma breve introdução à HashMap](https://dev.to/patriciaclares/uma-breve-introducao-a-hashmap-i62)
+- [*Terraform*](https://dev.to/fazly_fathhy/terraform-1pmj)
+- [Simple Demo for AWS CICD Pipeline](https://dev.to/cheedge_lee/simple-demo-for-aws-cicd-pipeline-2m0c)
+- [Conviértete en un experto en Solidity: Curso de cero a programador blockchain](https://dev.to/angel_rojas_6904bae237a0d/conviertete-en-un-experto-en-solidity-curso-de-cero-a-programador-blockchain-3fl9)
 <!-- BLOG-POST-LIST:END -->
 
