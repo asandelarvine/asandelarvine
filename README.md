@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking 3D Vision: Innovations in Object Reconstruction and Generative Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-3d-vision-innovations-in-object-reconstruction-and-generative-models-nak)
-- [Command Injection in Laravel: How to Detect &amp; Prevent It](https://dev.to/pentest_testing_corp/command-injection-in-laravel-how-to-detect-prevent-it-3nnm)
-- [Exploring the Different Types of Manual Testing](https://dev.to/satheesh_madhavarapu_302a/exploring-the-different-types-of-manual-testing-1m8n)
-- [Django + Redis: Simplifying Data Caching with a Real-World Example 💡](https://dev.to/priya01/django-redis-simplifying-data-caching-with-a-real-world-example-4nnn)
+- [From Motion designer to Full Stack developer](https://dev.to/maxdlr/from-motion-designer-to-full-stack-developer-1329)
+- [AI DevOps Agent for Better CI](https://dev.to/cicubeteam/ai-devops-agent-for-better-ci-27ka)
+- [🚀 Kickstart Your Angular Projects with the Ultimate Starter Kit! 🚀](https://dev.to/wlucha/kickstart-your-angular-projects-with-the-ultimate-starter-kit-1cg7)
+- [Frontend Elegante y Eficiente con Patrones de Diseño](https://dev.to/iamadeveloper/frontend-elegante-y-eficiente-con-patrones-de-diseno-379e)
 <!-- BLOG-POST-LIST:END -->
 
