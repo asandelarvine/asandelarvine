@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Motion designer to Full Stack developer](https://dev.to/maxdlr/from-motion-designer-to-full-stack-developer-1329)
-- [AI DevOps Agent for Better CI](https://dev.to/cicubeteam/ai-devops-agent-for-better-ci-27ka)
-- [🚀 Kickstart Your Angular Projects with the Ultimate Starter Kit! 🚀](https://dev.to/wlucha/kickstart-your-angular-projects-with-the-ultimate-starter-kit-1cg7)
-- [Frontend Elegante y Eficiente con Patrones de Diseño](https://dev.to/iamadeveloper/frontend-elegante-y-eficiente-con-patrones-de-diseno-379e)
+- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://dev.to/jetthoughts/why-vertical-llm-agents-are-the-new-1-billion-saas-opportunities-4mb3)
+- [Understanding Why Arrays Cannot Be Compared to `nil` but Slices Can in Go](https://dev.to/minuda_saswitha/understanding-why-arrays-cannot-be-compared-to-nil-but-slices-can-in-go-kjl)
+- [Why India’s AI Future Depends on You](https://dev.to/codedetech/why-indias-ai-future-depends-on-you-5gic)
+- [Scaling Data Analytics: Building a Starter Kit with Neon, Airflow, and Streamlit](https://dev.to/olgabraginskaya/scaling-data-analytics-building-a-starter-kit-with-neon-airflow-and-streamlit-3f9i)
 <!-- BLOG-POST-LIST:END -->
 
