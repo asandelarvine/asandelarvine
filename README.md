@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 3 No-Code Platforms to Create Chatbots!](https://dev.to/aiza_rashid_1826ae90a8102/i-tested-3-no-code-platforms-to-create-chatbots-216n)
-- [AI Agents in 2025: Revolutionizing Industries](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agents-in-2025-revolutionizing-industries-117j)
-- [Daily JavaScript Challenge #JS-90: Generate Collatz Sequence](https://dev.to/dpc/daily-javascript-challenge-js-90-generate-collatz-sequence-872)
-- [How to Choose the Best .NET Library for Your Task](https://dev.to/meletuananh/how-to-choose-the-best-net-library-for-your-task-467n)
+- [LazyColumn with drag and drop elements. Part 2 Refactoring.](https://dev.to/mardsoul/lazycolumn-with-drag-and-drop-elements-part-2-refactoring-31fb)
+- [Untitled](https://dev.to/pshyam_pshyam_a87b3d9af49/untitled-5gdj)
+- [GenAI with LLMs in .NET using Microsoft.Extensions.AI](https://dev.to/lun_trng_e0afd1e1a1722/genai-with-llms-in-net-using-microsoftextensionsai-5fek)
+- [Digital garden - Revisitando meu processo de escrita](https://dev.to/figur8/digital-garden-revisitando-meu-processo-de-escrita-2nc6)
 <!-- BLOG-POST-LIST:END -->
 
