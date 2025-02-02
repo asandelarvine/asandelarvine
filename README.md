@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LazyColumn with drag and drop elements. Part 2 Refactoring.](https://dev.to/mardsoul/lazycolumn-with-drag-and-drop-elements-part-2-refactoring-31fb)
-- [Untitled](https://dev.to/pshyam_pshyam_a87b3d9af49/untitled-5gdj)
-- [GenAI with LLMs in .NET using Microsoft.Extensions.AI](https://dev.to/lun_trng_e0afd1e1a1722/genai-with-llms-in-net-using-microsoftextensionsai-5fek)
-- [Digital garden - Revisitando meu processo de escrita](https://dev.to/figur8/digital-garden-revisitando-meu-processo-de-escrita-2nc6)
+- [Accessibility in Frontend Development: Building Inclusive Web Experiences](https://dev.to/drprime01/accessibility-in-frontend-development-building-inclusive-web-experiences-ek1)
+- [Building a Meme Battle Royale with SurrealDB and Gofr](https://dev.to/vaidehi_adhi_84b623a30da7/building-a-meme-battle-royale-with-surrealdb-and-gofr-9l6)
+- [General recommended VRAM Guidelines for LLMs](https://dev.to/simplr_sh/general-recommended-vram-guidelines-for-llms-4ef3)
+- [gulc: a C Library Built from Scratch](https://dev.to/landiluigi746/gulc-a-c-library-built-from-scratch-2ej6)
 <!-- BLOG-POST-LIST:END -->
 
