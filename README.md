@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fediverse: Exploring the Federated Web &amp; A Beginner&#39;s Guide to ActivityPub Development](https://dev.to/austinwdigital/fediverse-exploring-the-federated-web-a-beginners-guide-to-activitypub-development-2hc8)
-- [Playwright on Cloud: Automating Review Data Extraction](https://dev.to/fru2/playwright-on-cloud-automating-review-data-extraction-9i7)
-- [&quot;Conferindo Prova Objetiva&quot; Este é o assunto de Programação deste Domingo  &lpar;02/02/25&rpar;, onde é apresentado um programa que confere prova objetiva com um Gabarito. ---------------------------------------------------------------------- Pense nisto: &quot;IA escr](https://dev.to/profmario48/conferindo-prova-objetiva-este-e-o-assunto-de-programacao-deste-domingo-020225-onde-e-1bap)
-- [From AWS to Azure: My Multi-Cloud Adventure Begins! ☁️🚀](https://dev.to/kelechiedeh/from-aws-to-azure-my-multi-cloud-adventure-begins--27m6)
+- [Easy way to configure your kubeconfig and to debug your your EKS Cluster](https://dev.to/aws-builders/easy-way-to-configure-your-kubeconfig-and-to-debug-your-your-eks-cluster-3k5p)
+- [Tsonnet #2 - Cram tests to the rescue](https://dev.to/bitmaybewise/tsonnet-2-cram-tests-to-the-rescue-1jpd)
+- [Modern Invoice Generation with XSLT and React: A Seamless Integration Guide](https://dev.to/serifcolakel/modern-invoice-generation-with-xslt-and-react-a-seamless-integration-guide-25n8)
+- [Building a Scalable Web Application on AWS Using Core Services [Perfect for Beginners]](https://dev.to/aws-builders/building-a-scalable-web-application-on-aws-using-core-services-perfect-for-beginners-22h8)
 <!-- BLOG-POST-LIST:END -->
 
