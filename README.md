@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RSS: A Great Standard That Can’t Keep Up](https://dev.to/justlig/rss-a-great-standard-that-cant-keep-up-4ibp)
-- [Instalando o Docker no Windows 10 Home ou Professional com WSL 2](https://dev.to/papitofernando/instalando-o-docker-no-windows-10-home-ou-professional-com-wsl-2-26m3)
-- [Monitoring the Yezin Dam: A Journey Through Time with Computer Vision](https://dev.to/nikhil_reddy_/monitoring-the-yezin-dam-a-journey-through-time-with-computer-vision-2lmg)
-- [Prompt Engineering Template for Writers: Create Prompts Easily and Intuitively](https://dev.to/angel_rojas_6904bae237a0d/prompt-engineering-template-for-writers-create-prompts-easily-and-intuitively-43l8)
+- [How To Set Up Gmail SMTP Server](https://dev.to/indrayyana/how-to-set-up-gmail-smtp-server-ka2)
+- [Database Migrations in Laravel](https://dev.to/adebayo_olukunle_06daa4ec/database-migrations-in-laravel-4nib)
+- [Semantic Similarity for Personal Knowledge Management](https://dev.to/pruthvikumarbk/semantic-similarity-for-personal-knowledge-management-3j9p)
+- [My first step in AI-driven indie development](https://dev.to/didy-kpn/my-first-step-in-ai-driven-indie-development-4b46)
 <!-- BLOG-POST-LIST:END -->
 
