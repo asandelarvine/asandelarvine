@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [STEPS TO CONFIGURE CLOUD INFRASTRUCTURE USING TERRAFORM AND AWS-CLI ON VISUAL CODE STUDIO](https://dev.to/ajayi/steps-to-configure-cloud-infrastructure-using-terraform-and-aws-cli-on-visual-code-studio-487)
-- [[Boost]](https://dev.to/timothy_2008/-2h88)
-- [What Two Years of Job Searching Taught Me](https://dev.to/brianseo/what-two-years-of-job-searching-taught-me-54l)
-- [Solidity Crash Course 🚀](https://dev.to/ayaz/-solidity-crash-course-series-4o4n)
+- [[Boost]](https://dev.to/proxyos/-37k)
+- [Top 15 Low Code No Code Platforms in 2025](https://dev.to/mehmetakar/low-code-no-code-platforms-346h)
+- [LIBRARIES USED IN PYTHON FOR DATA SCIENCE](https://dev.to/morriscapt/libraries-used-in-python-for-data-science-25aj)
+- [The last odd](https://dev.to/simongreennet/the-last-odd-kib)
 <!-- BLOG-POST-LIST:END -->
 
