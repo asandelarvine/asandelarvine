@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Archive System development technologies](https://dev.to/mugisha_alain_rw/archive-system-development-technologies-33fa)
-- [DeepSeek AI: The Disruptor Challenging OpenAI and Google in the AI Race](https://dev.to/ayusharpcoder/deepseek-ai-the-disruptor-challenging-openai-and-google-in-the-ai-race-56dh)
-- [Exploring MySQL Full-Text Search and Its Implementation in Laravel](https://dev.to/devmahfuz/exploring-mysql-full-text-search-and-its-implementation-in-laravel-4icl)
-- [Tortoise and Hare](https://dev.to/mujahida_joynab_64c7407d8/tortoise-and-hare-47ph)
+- [20+ Best Python Automation Project Ideas for Beginners](https://dev.to/tarunfulera1/20-best-python-automation-project-ideas-for-beginners-ci7)
+- [Amazon EC2 Setup &amp; Management](https://dev.to/godofgeeks/amazon-ec2-setup-management-12dj)
+- [JavaScript Functions Developers Should Know](https://dev.to/jenueldev/javascript-functions-developers-should-know-5f6f)
+- [Tanstack Router: The Future of Routing in React Applications](https://dev.to/asim786521/tanstack-router-the-future-of-routing-in-react-applications-3n5p)
 <!-- BLOG-POST-LIST:END -->
 
