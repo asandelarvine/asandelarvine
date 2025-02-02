@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://dev.to/jetthoughts/why-vertical-llm-agents-are-the-new-1-billion-saas-opportunities-4mb3)
-- [Understanding Why Arrays Cannot Be Compared to `nil` but Slices Can in Go](https://dev.to/minuda_saswitha/understanding-why-arrays-cannot-be-compared-to-nil-but-slices-can-in-go-kjl)
-- [Why India’s AI Future Depends on You](https://dev.to/codedetech/why-indias-ai-future-depends-on-you-5gic)
-- [Scaling Data Analytics: Building a Starter Kit with Neon, Airflow, and Streamlit](https://dev.to/olgabraginskaya/scaling-data-analytics-building-a-starter-kit-with-neon-airflow-and-streamlit-3f9i)
+- [STEPS TO CONFIGURE CLOUD INFRASTRUCTURE USING TERRAFORM AND AWS-CLI ON VISUAL CODE STUDIO](https://dev.to/ajayi/steps-to-configure-cloud-infrastructure-using-terraform-and-aws-cli-on-visual-code-studio-487)
+- [[Boost]](https://dev.to/timothy_2008/-2h88)
+- [What Two Years of Job Searching Taught Me](https://dev.to/brianseo/what-two-years-of-job-searching-taught-me-54l)
+- [Solidity Crash Course 🚀](https://dev.to/ayaz/-solidity-crash-course-series-4o4n)
 <!-- BLOG-POST-LIST:END -->
 
