@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Change Detection with Zoneless](https://dev.to/soumayaerradi/angular-change-detection-with-zoneless-413f)
-- [Setting Up an NGINX Web Server on Azure and Local Machine: My DevOps Stage 0 Experience](https://dev.to/hormogbolahan20/setting-up-an-nginx-web-server-on-azure-and-local-machine-my-devops-stage-0-experience-1ipo)
-- [1752. Check if Array Is Sorted and Rotated](https://dev.to/mdarifulhaque/1752-check-if-array-is-sorted-and-rotated-411g)
-- [Hello World! | Olá Mundo!](https://dev.to/na2kstudies/hello-world-ola-mundo-ac6)
+- [I Tested 3 No-Code Platforms to Create Chatbots!](https://dev.to/aiza_rashid_1826ae90a8102/i-tested-3-no-code-platforms-to-create-chatbots-216n)
+- [AI Agents in 2025: Revolutionizing Industries](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agents-in-2025-revolutionizing-industries-117j)
+- [Daily JavaScript Challenge #JS-90: Generate Collatz Sequence](https://dev.to/dpc/daily-javascript-challenge-js-90-generate-collatz-sequence-872)
+- [How to Choose the Best .NET Library for Your Task](https://dev.to/meletuananh/how-to-choose-the-best-net-library-for-your-task-467n)
 <!-- BLOG-POST-LIST:END -->
 
