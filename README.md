@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Software Architecture: A Guide to MVC, MVP, and MVVM](https://dev.to/lassiecoder/simplifying-software-architecture-a-guide-to-mvc-mvp-and-mvvm-87n)
-- [Digital Product Passport, quali prodotti non devono averlo?](https://dev.to/corradofacchini/digital-product-passport-quali-prodotti-non-devono-averlo-2dl0)
-- [DeepSeek R1 is creating waves in the developer community!](https://dev.to/lassiecoder/deepseek-r1-is-creating-waves-in-the-developer-community-oo8)
-- [Monitoring &amp; Alerting for AWS EKS Using Grafana, Prometheus &amp; Alertmanager with SNS Integration](https://dev.to/muhammad_ahmad_khan/monitoring-alerting-for-aws-eks-using-grafana-prometheus-alertmanager-with-sns-integration-5593)
+- [Fediverse: Exploring the Federated Web &amp; A Beginner&#39;s Guide to ActivityPub Development](https://dev.to/austinwdigital/fediverse-exploring-the-federated-web-a-beginners-guide-to-activitypub-development-2hc8)
+- [Playwright on Cloud: Automating Review Data Extraction](https://dev.to/fru2/playwright-on-cloud-automating-review-data-extraction-9i7)
+- [&quot;Conferindo Prova Objetiva&quot; Este é o assunto de Programação deste Domingo  &lpar;02/02/25&rpar;, onde é apresentado um programa que confere prova objetiva com um Gabarito. ---------------------------------------------------------------------- Pense nisto: &quot;IA escr](https://dev.to/profmario48/conferindo-prova-objetiva-este-e-o-assunto-de-programacao-deste-domingo-020225-onde-e-1bap)
+- [From AWS to Azure: My Multi-Cloud Adventure Begins! ☁️🚀](https://dev.to/kelechiedeh/from-aws-to-azure-my-multi-cloud-adventure-begins--27m6)
 <!-- BLOG-POST-LIST:END -->
 
