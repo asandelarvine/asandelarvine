@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Transitioned from Data Analyst to Data Scientist](https://dev.to/debrahayes1971/how-i-transitioned-from-data-analyst-to-data-scientist-24n9)
-- [Common Data Science Mistakes I Made &lpar;And How to Avoid Them&rpar;](https://dev.to/debrahayes1971/common-data-science-mistakes-i-made-and-how-to-avoid-them-37h8)
-- [ColorJitter in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-1-4o9o)
-- [My Favorite VS Code Extensions for Full-Stack Development](https://dev.to/enriqueminvielle1963/my-favorite-vs-code-extensions-for-full-stack-development-6i0)
+- [How to Set Up Custom Configuration Files in NestJS](https://dev.to/tamim_ikbal/how-to-setup-custom-configuration-files-intonestjs-288a)
+- [AI Revolution: OpenAI o3-mini, DeepSeek R1, and Meta Llama 3.3 Shaping the Future of Tomorrow’s Intelligence](https://dev.to/madds/ai-revolution-openai-o3-mini-deepseek-r1-and-meta-llama-33-shaping-the-future-of-tomorrows-20cn)
+- [The Role of Data Engineering Services in AI and Machine Learning](https://dev.to/reckonsys/the-role-of-data-engineering-services-in-ai-and-machine-learning-4aoi)
+- [Tokens and Embeddings: The Building Blocks of GenAI](https://dev.to/sharsha315/tokens-and-embeddings-the-building-blocks-of-genai-1pgk)
 <!-- BLOG-POST-LIST:END -->
 
