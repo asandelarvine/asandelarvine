@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility in Frontend Development: Building Inclusive Web Experiences](https://dev.to/drprime01/accessibility-in-frontend-development-building-inclusive-web-experiences-ek1)
-- [Building a Meme Battle Royale with SurrealDB and Gofr](https://dev.to/vaidehi_adhi_84b623a30da7/building-a-meme-battle-royale-with-surrealdb-and-gofr-9l6)
-- [General recommended VRAM Guidelines for LLMs](https://dev.to/simplr_sh/general-recommended-vram-guidelines-for-llms-4ef3)
-- [gulc: a C Library Built from Scratch](https://dev.to/landiluigi746/gulc-a-c-library-built-from-scratch-2ej6)
+- [How to measure Time Complexity and Space Complexity?](https://dev.to/jptlearn/how-to-measure-time-complexity-and-space-complexity-203p)
+- [What is Array.reduce in JavaScript?](https://dev.to/logannford/what-is-arrayreduce-in-javascript-3nbl)
+- [Hola mundo](https://dev.to/ggguille/hola-mundo-na4)
+- [Ransomware: A Wake-Up Call for the Digital Age](https://dev.to/victoruzoagba/ransomware-a-wake-up-call-for-the-digital-age-2687)
 <!-- BLOG-POST-LIST:END -->
 
