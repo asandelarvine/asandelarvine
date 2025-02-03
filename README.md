@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How One Package Manager Library Inspired Me to Build My Own🚀](https://dev.to/serban_eusebiu/how-one-package-manager-library-inspired-me-to-build-my-own-5796)
-- [Benchmarking ChatGPT, Qwen, and DeepSeek on Real-World AI Tasks](https://dev.to/harsh317/benchmarking-chatgpt-qwen-and-deepseek-on-real-world-ai-tasks-3e3d)
-- [The Art of Splitting Stories: Breaking Down Features for Continuous Progress](https://dev.to/thomas_kowalski_b8aa0374b/the-art-of-splitting-stories-breaking-down-features-for-continuous-progress-2gbf)
-- [How is your personal and professional growth journey in this 2025](https://dev.to/devmercy/how-is-your-personal-and-professional-growth-journey-in-this-2025-129b)
+- [Mastering the Art of Search: Tips](https://dev.to/ismah/mastering-the-art-of-search-tips-4p26)
+- [Extremely enlightening](https://dev.to/nullandvoid/extremely-enlightening-19mg)
+- [TIL: Slowly Changing Dimensions &lpar;SCD&rpar; in Data Warehousing](https://dev.to/pauletart/understanding-slowly-changing-dimensions-scd-in-data-warehousing-25fa)
+- [Big Issues in Vue 3: What Developers Need to Know](https://dev.to/mostafa_samir_fe0bbfde587/big-issues-in-vue-3-what-developers-need-to-know-4ekj)
 <!-- BLOG-POST-LIST:END -->
 
