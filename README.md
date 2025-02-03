@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy Design Pattern in Java](https://dev.to/mspilari/strategy-design-pattern-in-java-a-practical-guide-4l7j)
-- [&quot;AI and ML Integration: A Guide for Developers to Enhance Modern Applications&quot;](https://dev.to/game_apk_/ai-and-ml-integration-a-guide-for-developers-to-enhance-modern-applications-15ka)
-- [🚀 How to Run DeepSeek Locally: A Simple Guide to Your Personal AI](https://dev.to/hadil/how-to-run-deepseek-locally-a-simple-guide-to-your-personal-ai-5613)
-- [Web3 Needs More Than Just Developers: A Reflection on Awareness and Collaboration](https://dev.to/trancendgeeks/web3-needs-more-than-just-developers-a-reflection-on-awareness-and-collaboration-5h39)
+- [Building a Markdown blog with links optimized for Gatsby](https://dev.to/jonesbeach/building-a-markdown-blog-with-links-optimized-for-gatsby-3lce)
+- [📰 CAG building infra &amp; processes to harness AI&amp;ML: Sanjay Murthy](https://dev.to/d_thiranjaya_6d3ec4552111/cag-building-infra-processes-to-harness-aiml-sanjay-murthy-1pn6)
+- [closures in js](https://dev.to/asda/closures-in-js-3mi2)
+- [Scheduling in Effect: Understanding and Implementing](https://dev.to/khraks_mamtsov/scheduling-in-effect-understanding-and-implementing-1j70)
 <!-- BLOG-POST-LIST:END -->
 
