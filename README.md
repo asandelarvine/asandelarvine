@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Showdown: Figma, Adobe XD, and Sketch for UI Design](https://dev.to/jetthoughts/the-ultimate-showdown-figma-adobe-xd-and-sketch-for-ui-design-50k7)
-- [Webpack: six things to know before you get started](https://dev.to/maryalice/webpack-six-things-to-know-before-you-get-started-247j)
-- [A must read! Very informative and eye opening.](https://dev.to/adesina_abdulraheem_f0ded/a-must-read-very-informative-and-eye-opening-11hb)
-- [Automation to track Substack subscribers](https://dev.to/cloudnative_eng/automation-to-track-substack-subscribers-1mek)
+- [14 top developer tools to crack web3 development in 2025 🤑 💰](https://dev.to/composiodev/14-top-developer-tools-to-crack-web3-development-in-2025-5a5a)
+- [Building a Simple Rock, Paper, Scissors Game in Go](https://dev.to/m_muhd8/building-a-simple-rock-paper-scissors-game-in-go-gn3)
+- [Onlook: A React visual editor](https://dev.to/logrocket/onlook-a-react-visual-editor-1n23)
+- [Mastering Eloquent ORM: A Beginner&#39;s Guide to Laravel&#39;s Magic 🚀](https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3)
 <!-- BLOG-POST-LIST:END -->
 
