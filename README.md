@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Your First API with Python, Flask and Azure](https://dev.to/otumba/how-to-create-your-first-api-with-python-flask-and-azure-1bef)
-- [Single Responsibility Principle in React Development](https://dev.to/creowistech/single-responsibility-principle-in-react-development-431a)
-- [AI for Students – Smarter Studying!](https://dev.to/vivek123eq2/ai-for-students-smarter-studying-1hh5)
-- [Basic Explanation of Minecraft &lpar;Java Edition&rpar;](https://dev.to/peytonstrahan/basic-explanation-of-minecraft-java-edition-4jh2)
+- [Manual Testing](https://dev.to/kavibharathi_ravikumar/manual-testing-f1c)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/shado_w_alker/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-49gf)
+- [Stuck in a Rut? Let This Random A Day to Remember Song Picker Spark Your Creativity!](https://dev.to/highcenburg/stuck-in-a-rut-let-this-random-a-day-to-remember-song-picker-spark-your-creativity-fd7)
+- [🚀 The Full-Stack Developer’s Guide to Modern Web Development in 2025](https://dev.to/uveshmultani/the-full-stack-developers-guide-to-modern-web-development-in-2025-1p3j)
 <!-- BLOG-POST-LIST:END -->
 
