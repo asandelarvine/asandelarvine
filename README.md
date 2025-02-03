@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Layoffs Are Just Legacy Code Refactoring in Human Form](https://dev.to/hotfixhero/tech-layoffs-are-just-legacy-code-refactoring-in-human-form-5hc7)
-- [Building a Money–Making Blogging Website with DeepSeek AI](https://dev.to/resource_bunk_1077cab07da/building-a-money-making-blogging-website-with-deepseek-ai-3m63)
-- [Microservices Testing Cycles Are Too Slow](https://dev.to/signadot/microservices-testing-cycles-are-too-slow-1dbn)
-- [Quick Solutions: 12 No-Nonsense Guides for Every Coder](https://dev.to/0x2e_tech/quick-solutions-12-no-nonsense-guides-for-every-coder-2mgf)
+- [How One Package Manager Library Inspired Me to Build My Own🚀](https://dev.to/serban_eusebiu/how-one-package-manager-library-inspired-me-to-build-my-own-5796)
+- [Benchmarking ChatGPT, Qwen, and DeepSeek on Real-World AI Tasks](https://dev.to/harsh317/benchmarking-chatgpt-qwen-and-deepseek-on-real-world-ai-tasks-3e3d)
+- [The Art of Splitting Stories: Breaking Down Features for Continuous Progress](https://dev.to/thomas_kowalski_b8aa0374b/the-art-of-splitting-stories-breaking-down-features-for-continuous-progress-2gbf)
+- [How is your personal and professional growth journey in this 2025](https://dev.to/devmercy/how-is-your-personal-and-professional-growth-journey-in-this-2025-129b)
 <!-- BLOG-POST-LIST:END -->
 
