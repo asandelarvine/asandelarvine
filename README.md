@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Web Development: From HTML to Modern Full-Stack Frameworks](https://dev.to/byte-sized-news/the-evolution-of-web-development-from-html-to-modern-full-stack-frameworks-344)
-- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝗱𝘂𝗰𝗶𝗻𝗴 𝗟𝗖𝗣 𝗧𝗶𝗺𝗲 𝗶𝗻 𝗡𝗲𝘅𝘁.𝗷𝘀.](https://dev.to/haitham_medhat_faff3c8959/--2lbc)
-- [[Boost]](https://dev.to/proxyos/-8h6)
-- [HTML &amp; CSS Best Practices: Writing Clean, Maintainable, and Responsive Code](https://dev.to/erasmuskotoka/html-css-best-practices-writing-clean-maintainable-and-responsive-code-1d5o)
+- [Mise - Jump between Per-Folder Dev Environments like a Wizard](https://dev.to/zloeber/mise-jump-between-per-folder-dev-environments-like-a-wizard-19db)
+- [Funções Lambda em Java](https://dev.to/manucoutinho/funcoes-lambda-em-java-44n)
+- [Calling Web Developers: Join Our Open Beta for Edge-Native Feature Management](https://dev.to/devunus/calling-web-developers-join-our-open-beta-for-edge-native-feature-management-2d11)
+- [i need to create nuxt js web application connected to stripe](https://dev.to/lucasz/i-need-to-create-nuxt-js-web-application-connected-to-stripe-2in2)
 <!-- BLOG-POST-LIST:END -->
 
