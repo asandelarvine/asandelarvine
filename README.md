@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Art of Search: Tips](https://dev.to/ismah/mastering-the-art-of-search-tips-4p26)
-- [Extremely enlightening](https://dev.to/nullandvoid/extremely-enlightening-19mg)
-- [TIL: Slowly Changing Dimensions &lpar;SCD&rpar; in Data Warehousing](https://dev.to/pauletart/understanding-slowly-changing-dimensions-scd-in-data-warehousing-25fa)
-- [Big Issues in Vue 3: What Developers Need to Know](https://dev.to/mostafa_samir_fe0bbfde587/big-issues-in-vue-3-what-developers-need-to-know-4ekj)
+- [The Evolution of Web Development: From HTML to Modern Full-Stack Frameworks](https://dev.to/byte-sized-news/the-evolution-of-web-development-from-html-to-modern-full-stack-frameworks-344)
+- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝗱𝘂𝗰𝗶𝗻𝗴 𝗟𝗖𝗣 𝗧𝗶𝗺𝗲 𝗶𝗻 𝗡𝗲𝘅𝘁.𝗷𝘀.](https://dev.to/haitham_medhat_faff3c8959/--2lbc)
+- [[Boost]](https://dev.to/proxyos/-8h6)
+- [HTML &amp; CSS Best Practices: Writing Clean, Maintainable, and Responsive Code](https://dev.to/erasmuskotoka/html-css-best-practices-writing-clean-maintainable-and-responsive-code-1d5o)
 <!-- BLOG-POST-LIST:END -->
 
