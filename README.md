@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Markdown blog with links optimized for Gatsby](https://dev.to/jonesbeach/building-a-markdown-blog-with-links-optimized-for-gatsby-3lce)
-- [📰 CAG building infra &amp; processes to harness AI&amp;ML: Sanjay Murthy](https://dev.to/d_thiranjaya_6d3ec4552111/cag-building-infra-processes-to-harness-aiml-sanjay-murthy-1pn6)
-- [closures in js](https://dev.to/asda/closures-in-js-3mi2)
-- [Scheduling in Effect: Understanding and Implementing](https://dev.to/khraks_mamtsov/scheduling-in-effect-understanding-and-implementing-1j70)
+- [[Unity] UI Animation - How does it work?](https://dev.to/tkkoi/unity-ui-animation-how-does-it-work-37el)
+- [Celebrating all contributions to the PostgreSQL project](https://dev.to/floord/celebrating-all-contributions-to-the-postgresql-project-31pf)
+- [How to Implement WebCam Recording on the Web Using JavaScript](https://dev.to/drprime01/how-to-implement-webcam-recording-on-the-web-using-javascript-1p4g)
+- [Wrapping Up C and Moving into C++](https://dev.to/adhyanjain2512/wrapping-up-c-and-moving-into-c-5e4d)
 <!-- BLOG-POST-LIST:END -->
 
