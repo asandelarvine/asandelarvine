@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Amazon Scraper: Products &amp; Reviews](https://dev.to/leapcell/playwright-amazon-scraper-products-reviews-5h9b)
-- [Desenvolvendo um Projeto do zero: Análise de Requisitos do Sistema — Parte 2](https://dev.to/andrelcnunes/desenvolvendo-um-projeto-do-zero-analise-de-requisitos-do-sistema-parte-2-39in)
-- [Exploitation d&#39;une base de données](https://dev.to/javascriptx/exploitation-dune-base-de-donnees-3ja2)
-- [How I Built My Portfolio with React &amp; ThreeJS](https://dev.to/shivamkaushal/how-i-built-my-portfolio-with-react-threejs-41lk)
+- [Ainda dá pra falar do DeepSeek?](https://dev.to/if_else/ainda-da-pra-falar-do-deepseek-2cjc)
+- [Data Pipeline Monitoring: Ensuring Reliable and Scalable Data Operations](https://dev.to/kapusto/data-pipeline-monitoring-ensuring-reliable-and-scalable-data-operations-990)
+- [How to Create a Floating Button in React Native: A Step-by-Step Guide](https://dev.to/aneeqakhan/how-to-create-a-floating-button-in-react-native-a-step-by-step-guide-30f5)
+- [Custom Resource Definitions &lpar;CRD&rpar;](https://dev.to/574n13y/custom-resource-definitions-crd-1f78)
 <!-- BLOG-POST-LIST:END -->
 
