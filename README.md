@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manual Testing](https://dev.to/kavibharathi_ravikumar/manual-testing-f1c)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/shado_w_alker/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-49gf)
-- [Stuck in a Rut? Let This Random A Day to Remember Song Picker Spark Your Creativity!](https://dev.to/highcenburg/stuck-in-a-rut-let-this-random-a-day-to-remember-song-picker-spark-your-creativity-fd7)
-- [🚀 The Full-Stack Developer’s Guide to Modern Web Development in 2025](https://dev.to/uveshmultani/the-full-stack-developers-guide-to-modern-web-development-in-2025-1p3j)
+- [Understanding the Event Loop](https://dev.to/godofgeeks/understanding-the-event-loop-159a)
+- [MVVM in Android: Best Practices for a Scalable Architecture](https://dev.to/kevinpetterson1993/mvvm-in-android-best-practices-for-a-scalable-architecture-2jf8)
+- [Why You Can’t Ignore Customer Lifetime Value: Insights for Growth](https://dev.to/soniya-dixit/why-you-cant-ignore-customer-lifetime-value-insights-for-growth-f3c)
+- [User-Centered Design: Why It Matters More Than Ever](https://dev.to/karlsmith1906/user-centered-design-why-it-matters-more-than-ever-554k)
 <!-- BLOG-POST-LIST:END -->
 
