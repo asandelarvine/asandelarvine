@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Event Loop](https://dev.to/godofgeeks/understanding-the-event-loop-159a)
-- [MVVM in Android: Best Practices for a Scalable Architecture](https://dev.to/kevinpetterson1993/mvvm-in-android-best-practices-for-a-scalable-architecture-2jf8)
-- [Why You Can’t Ignore Customer Lifetime Value: Insights for Growth](https://dev.to/soniya-dixit/why-you-cant-ignore-customer-lifetime-value-insights-for-growth-f3c)
-- [User-Centered Design: Why It Matters More Than Ever](https://dev.to/karlsmith1906/user-centered-design-why-it-matters-more-than-ever-554k)
+- [Building Ethical AI with Neurolov’s Decentralized GPU Platform](https://dev.to/neurolov_ai_/building-ethical-ai-with-neurolovs-decentralized-gpu-platform-1fhp)
+- [What is Deepseek AI used for?](https://dev.to/daksh_kataria_9c4197f3f7c/what-is-deepseek-ai-used-for-b6m)
+- [Better feedback in Code Reviews with Conventional Comments](https://dev.to/jacobandrewsky/better-feedback-in-code-reviews-with-conventional-comments-2c3k)
+- [&quot;Unlocking Precision Medicine: Overcoming Barriers to Polygenic Risk Scores&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-precision-medicine-overcoming-barriers-to-polygenic-risk-scores-5k)
 <!-- BLOG-POST-LIST:END -->
 
