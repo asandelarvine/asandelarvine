@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ainda dá pra falar do DeepSeek?](https://dev.to/if_else/ainda-da-pra-falar-do-deepseek-2cjc)
-- [Data Pipeline Monitoring: Ensuring Reliable and Scalable Data Operations](https://dev.to/kapusto/data-pipeline-monitoring-ensuring-reliable-and-scalable-data-operations-990)
-- [How to Create a Floating Button in React Native: A Step-by-Step Guide](https://dev.to/aneeqakhan/how-to-create-a-floating-button-in-react-native-a-step-by-step-guide-30f5)
-- [Custom Resource Definitions &lpar;CRD&rpar;](https://dev.to/574n13y/custom-resource-definitions-crd-1f78)
+- [Tech Layoffs Are Just Legacy Code Refactoring in Human Form](https://dev.to/hotfixhero/tech-layoffs-are-just-legacy-code-refactoring-in-human-form-5hc7)
+- [Building a Money–Making Blogging Website with DeepSeek AI](https://dev.to/resource_bunk_1077cab07da/building-a-money-making-blogging-website-with-deepseek-ai-3m63)
+- [Microservices Testing Cycles Are Too Slow](https://dev.to/signadot/microservices-testing-cycles-are-too-slow-1dbn)
+- [Quick Solutions: 12 No-Nonsense Guides for Every Coder](https://dev.to/0x2e_tech/quick-solutions-12-no-nonsense-guides-for-every-coder-2mgf)
 <!-- BLOG-POST-LIST:END -->
 
