@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy way to configure your kubeconfig and to debug your your EKS Cluster](https://dev.to/aws-builders/easy-way-to-configure-your-kubeconfig-and-to-debug-your-your-eks-cluster-3k5p)
-- [Tsonnet #2 - Cram tests to the rescue](https://dev.to/bitmaybewise/tsonnet-2-cram-tests-to-the-rescue-1jpd)
-- [Modern Invoice Generation with XSLT and React: A Seamless Integration Guide](https://dev.to/serifcolakel/modern-invoice-generation-with-xslt-and-react-a-seamless-integration-guide-25n8)
-- [Building a Scalable Web Application on AWS Using Core Services [Perfect for Beginners]](https://dev.to/aws-builders/building-a-scalable-web-application-on-aws-using-core-services-perfect-for-beginners-22h8)
+- [Simple and Reusable React Native Radio Button](https://dev.to/matthewzruiz/simple-and-reusable-react-native-radio-button-37ao)
+- [Untitled](https://dev.to/matiasprestesinformatica/untitled-23jg)
+- [📰 Ransomware attack hit Indian multinational Tata Technologies](https://dev.to/d_thiranjaya_6d3ec4552111/ransomware-attack-hit-indian-multinational-tata-technologies-38eg)
+- [Mastering TCPDump &amp; Python for Ethical Hacking: Network Packet Analysis](https://dev.to/sebos/mastering-tcpdump-python-for-ethical-hacking-network-packet-analysis-2945)
 <!-- BLOG-POST-LIST:END -->
 
