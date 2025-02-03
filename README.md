@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Software Engineering Enables National-Scale Product Distribution](https://dev.to/farizmamad/how-software-engineering-enables-national-scale-product-distribution-45dd)
-- [Test Automation in the Modern Era: How Genqe.ai is Shaping the Future of Software Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-in-the-modern-era-how-genqeai-is-shaping-the-future-of-software-testing-5g6g)
-- [Setting Up an NGINX Web Server on Azure: My DevOps HNG Stage 0 Experience](https://dev.to/otumba/setting-up-an-nginx-web-server-on-azure-my-devops-hng-stage-0-experience-1i0k)
-- [Navigating the Cloud: Key Terms and Concepts Every Developer Should Know](https://dev.to/kelechiedeh/navigating-the-cloud-key-terms-and-concepts-every-developer-should-know-1pcp)
+- [AI for Students – Smarter Studying!](https://dev.to/vivek123eq2/ai-for-students-smarter-studying-1hh5)
+- [Basic Explanation of Minecraft &lpar;Java Edition&rpar;](https://dev.to/peytonstrahan/basic-explanation-of-minecraft-java-edition-4jh2)
+- [quieressermisanvalentin](https://dev.to/jhordan_rodriguez_19f5abd/quieressermisanvalentin-3n48)
+- [Compiling 2025 : - &rpar;](https://dev.to/matrixneo20/compiling-2025--2c8p)
 <!-- BLOG-POST-LIST:END -->
 
