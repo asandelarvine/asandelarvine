@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Ethical AI with Neurolov’s Decentralized GPU Platform](https://dev.to/neurolov_ai_/building-ethical-ai-with-neurolovs-decentralized-gpu-platform-1fhp)
-- [What is Deepseek AI used for?](https://dev.to/daksh_kataria_9c4197f3f7c/what-is-deepseek-ai-used-for-b6m)
-- [Better feedback in Code Reviews with Conventional Comments](https://dev.to/jacobandrewsky/better-feedback-in-code-reviews-with-conventional-comments-2c3k)
-- [&quot;Unlocking Precision Medicine: Overcoming Barriers to Polygenic Risk Scores&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-precision-medicine-overcoming-barriers-to-polygenic-risk-scores-5k)
+- [signal Effects uses](https://dev.to/anjali_gurjar_dff81513867/signal-effects-uses-1o9m)
+- [Brain-Like Neural Network Matches Human Visual and Language Processing Performance](https://dev.to/mikeyoung44/brain-like-neural-network-matches-human-visual-and-language-processing-performance-2p96)
+- [WHY I WANT TO BE A FRONTEND DEVELOPER AND HOW HNG WILL HELP ME ACHIEVE MY GOALS](https://dev.to/oloyede/why-i-want-to-be-a-frontend-developer-and-how-hng-will-help-me-achieve-my-goals-36pm)
+- [AI Factory Creates Millions of Unique Digital Characters with Consistent Personalities](https://dev.to/mikeyoung44/ai-factory-creates-millions-of-unique-digital-characters-with-consistent-personalities-3476)
 <!-- BLOG-POST-LIST:END -->
 
