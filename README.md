@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mise - Jump between Per-Folder Dev Environments like a Wizard](https://dev.to/zloeber/mise-jump-between-per-folder-dev-environments-like-a-wizard-19db)
-- [Funções Lambda em Java](https://dev.to/manucoutinho/funcoes-lambda-em-java-44n)
-- [Calling Web Developers: Join Our Open Beta for Edge-Native Feature Management](https://dev.to/devunus/calling-web-developers-join-our-open-beta-for-edge-native-feature-management-2d11)
-- [i need to create nuxt js web application connected to stripe](https://dev.to/lucasz/i-need-to-create-nuxt-js-web-application-connected-to-stripe-2in2)
+- [Time and Space Complexity: A Mind-Bending Adventure into the Realm of Efficient Algorithms!](https://dev.to/sayed_ali_alkamel/time-and-space-complexity-a-mind-bending-adventure-into-the-realm-of-efficient-algorithms-530g)
+- [Outgrowing Postgres: How to identify scale problems](https://dev.to/tbperegrine/outgrowing-postgres-how-to-identify-scale-problems-ggk)
+- [Unlocking the Power of Batch Processing with Spring Boot: A Deep Dive into Steps](https://dev.to/thiago_souza_1510/unlocking-the-power-of-batch-processing-with-spring-boot-a-deep-dive-into-steps-m70)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/somtoochukwu/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4k0l)
 <!-- BLOG-POST-LIST:END -->
 
