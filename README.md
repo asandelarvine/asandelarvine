@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [signal Effects uses](https://dev.to/anjali_gurjar_dff81513867/signal-effects-uses-1o9m)
-- [Brain-Like Neural Network Matches Human Visual and Language Processing Performance](https://dev.to/mikeyoung44/brain-like-neural-network-matches-human-visual-and-language-processing-performance-2p96)
-- [WHY I WANT TO BE A FRONTEND DEVELOPER AND HOW HNG WILL HELP ME ACHIEVE MY GOALS](https://dev.to/oloyede/why-i-want-to-be-a-frontend-developer-and-how-hng-will-help-me-achieve-my-goals-36pm)
-- [AI Factory Creates Millions of Unique Digital Characters with Consistent Personalities](https://dev.to/mikeyoung44/ai-factory-creates-millions-of-unique-digital-characters-with-consistent-personalities-3476)
+- [How to Charge Customer Again After Order Using Stripe ?](https://dev.to/venvaukt_company/how-to-charge-customer-again-after-order-using-stripe--2ho4)
+- [CEH: Advanced Penetration Testing Guide](https://dev.to/borisgigovic/ceh-advanced-penetration-testing-guide-3ji0)
+- [JavaScript Memory Management: 10 Essential Techniques for Peak Performance](https://dev.to/aaravjoshi/javascript-memory-management-10-essential-techniques-for-peak-performance-2nfm)
+- [NGINX 102 Baby](https://dev.to/thekbbohara/nginx-102-baby-4im2)
 <!-- BLOG-POST-LIST:END -->
 
