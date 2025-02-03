@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple and Reusable React Native Radio Button](https://dev.to/matthewzruiz/simple-and-reusable-react-native-radio-button-37ao)
-- [Untitled](https://dev.to/matiasprestesinformatica/untitled-23jg)
-- [📰 Ransomware attack hit Indian multinational Tata Technologies](https://dev.to/d_thiranjaya_6d3ec4552111/ransomware-attack-hit-indian-multinational-tata-technologies-38eg)
-- [Mastering TCPDump &amp; Python for Ethical Hacking: Network Packet Analysis](https://dev.to/sebos/mastering-tcpdump-python-for-ethical-hacking-network-packet-analysis-2945)
+- [Javascript Prototypal Inheritance once and for all](https://dev.to/mmvergara/prototypal-inheritance-4c6k)
+- [While loop:](https://dev.to/kaviyak/while-loop-p2e)
+- [From Nurse to Software Engineer: My Journey](https://dev.to/rossrosales/from-nurse-to-software-engineer-my-journey-152e)
+- [What is Full-Stack Development? 🌍💻](https://dev.to/erasmuskotoka/what-is-full-stack-development-46c0)
 <!-- BLOG-POST-LIST:END -->
 
