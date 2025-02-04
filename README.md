@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Ethics Matter in AI-Powered Documentation](https://dev.to/opman129/why-ethics-matter-in-ai-powered-documentation-31n2)
-- [ES6 Features &lpar;let, const, arrow functions&rpar;](https://dev.to/godofgeeks/es6-features-let-const-arrow-functions-dl)
-- [APK Dosyalarını Düzenleme ve Yeniden İmzalama: Adım Adım Kılavuz](https://dev.to/baris/apk-dosyalarini-duzenleme-ve-yeniden-imzalama-adim-adim-kilavuz-4i4p)
-- [Top 3 Free Bug Triage Tools 2025](https://dev.to/keploy/top-3-free-bug-triage-tools-2025-18oi)
+- [Status Pages vs Service Dashboards: Key Differences Explained](https://dev.to/statuspal/status-pages-vs-service-dashboards-key-differences-explained-20j2)
+- [Hello Dev Community! I’m Asadullah Kissana 👋](https://dev.to/asad_kissana_sqa_eng/hello-dev-community-im-asadullah-kissana-3gfh)
+- [Front-End Development Trends in 2025.](https://dev.to/devmercy/front-end-development-trends-in-2025-2oea)
+- [Coders Digest II: Rare and Interesting Resource Collection](https://dev.to/makalin/coders-digest-ii-rare-and-interesting-resource-collection-19a2)
 <!-- BLOG-POST-LIST:END -->
 
