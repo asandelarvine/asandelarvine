@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Freelance Marketplace Like Freelancer on a Budget](https://dev.to/laradavies/build-a-freelance-marketplace-like-freelancer-on-a-budget-2ckn)
-- [Baten AI: An Unexpected Breakthrough](https://dev.to/honayn/baten-ai-an-unexpected-breakthrough-4a4j)
-- [Understanding Large Language Models &lpar;LLMs&rpar;- Part 1](https://dev.to/sharsha315/understanding-large-language-models-llms-part-1-3gal)
-- [Микрофронтенды: мой опыт и взгляд на архитектуру будущего фронтенда](https://dev.to/sundaycoding/mikrofrontiendy-moi-opyt-i-vzghliad-na-arkhitiekturu-budushchiegho-frontienda-384f)
+- [How to Add Internationalization to a Tailwind CSS Admin Template](https://dev.to/hitesh_developer/how-to-add-internationalization-to-a-tailwind-css-admin-template-2lpc)
+- [Analisi del livello di granularità del Digital Product Passport. Modello, lotto o articolo: quale scegliere?](https://dev.to/corradofacchini/analisi-del-livello-di-granularita-del-digital-product-passport-modello-lotto-o-articolo-quale-2346)
+- [What is DeepSeek AI and how is it disrupting the AI sector?](https://dev.to/solutelabs/what-is-deepseek-ai-and-how-is-it-disrupting-the-ai-sector-5h55)
+- [Ask Gordon: Docker&#39;s AI-Powered Assistant for Developers 🚀](https://dev.to/krishnaaher/ask-gordon-dockers-ai-powered-assistant-for-developers-19kj)
 <!-- BLOG-POST-LIST:END -->
 
