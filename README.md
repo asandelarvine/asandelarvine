@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering RESTful API Design: A Practical Guide](https://dev.to/leapcell/mastering-restful-api-design-a-practical-guide-408)
-- [Rollout &amp; Rollback Kubernetes Deployment with Hands-on Sample](https://dev.to/omerberatsezer/rollout-rollback-kubernetes-deployment-with-hands-on-sample-3534)
-- [Custom Data Types](https://dev.to/aws-builders/custom-data-types-94)
-- [Grandma&#39;s recipe for mastering regular static analysis](https://dev.to/pvsdev/grandmas-recipe-for-mastering-regular-static-analysis-56b)
+- [Build a Freelance Marketplace Like Freelancer on a Budget](https://dev.to/laradavies/build-a-freelance-marketplace-like-freelancer-on-a-budget-2ckn)
+- [Baten AI: An Unexpected Breakthrough](https://dev.to/honayn/baten-ai-an-unexpected-breakthrough-4a4j)
+- [Understanding Large Language Models &lpar;LLMs&rpar;- Part 1](https://dev.to/sharsha315/understanding-large-language-models-llms-part-1-3gal)
+- [Микрофронтенды: мой опыт и взгляд на архитектуру будущего фронтенда](https://dev.to/sundaycoding/mikrofrontiendy-moi-opyt-i-vzghliad-na-arkhitiekturu-budushchiegho-frontienda-384f)
 <!-- BLOG-POST-LIST:END -->
 
