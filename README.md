@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The best free password generator i&#39;ve ever know](https://dev.to/adhiya/the-best-free-password-generatir-ive-ever-know-1c9o)
-- [Avoid Developer Tunnel Vision](https://dev.to/kgthedev/avoid-developer-tunnel-vision-548f)
-- [Start 2025 with this! 🚀🤓](https://dev.to/wahabshah23/start-2025-with-this-3hcg)
-- [Lua scripting in mpv video player](https://dev.to/sledov/lua-scripting-in-mpv-video-player-4fdh)
+- [🚀 Revolutionizing DevOps Debugging with DevOps-GPT &amp; OpenAI!🚀](https://dev.to/lakhera2015/revolutionizing-devops-debugging-with-devops-gpt-openai-1f9c)
+- [Popular Section 80C Investments: A Comprehensive Overview](https://dev.to/susheel_kumar/popular-section-80c-investments-a-comprehensive-overview-2oig)
+- [Short-Term vs. Long-Term: Understanding Goals, Investments, and Planning](https://dev.to/susheel_kumar/short-term-vs-long-term-understanding-goals-investments-and-planning-44la)
+- [Exploring Project IDX](https://dev.to/dev_orizon/exploring-project-idx-1n60)
 <!-- BLOG-POST-LIST:END -->
 
