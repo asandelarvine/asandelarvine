@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No, Wall Street, DeepSeek is not &quot;far superior&quot;](https://dev.to/alexjitbit/no-wall-street-deepseek-is-not-far-superior-51c7)
-- [How to Run DeepSeek R1 Locally on Your PC](https://dev.to/chemenggcalc/how-to-run-deepseek-r1-locally-on-your-pc-162i)
-- [Going Global with Serverless: Multi-Region Architectures on AWS](https://dev.to/aws-builders/going-global-with-serverless-multi-region-architectures-on-aws-2k8n)
-- [Building Robust Serverless Workflows with AWS Step Functions: Long-Running Order Fulfillment with Retries and Human Approvals](https://dev.to/sudoconsultants/building-robust-serverless-workflows-with-aws-step-functions-long-running-order-fulfillment-with-8ff)
+- [How to run Julia on Kaggle? And submit a notebook with internet off?](https://dev.to/devesh_jawla/how-to-run-julia-on-kaggle-and-submit-a-notebook-with-internet-off-l3o)
+- [Feeling stuck? Maybe it&#39;s not your coding skills...](https://dev.to/aozisik/feeling-stuck-maybe-its-not-your-coding-skills-3m4l)
+- [Create stunning artwork with stable-diffusion-webui-forge on linux](https://dev.to/chrisa/create-stunning-artwork-with-stable-diffusion-webui-forge-on-linux-4326)
+- [NodeJS WebForms Class Update to WebFormsJS 1.6](https://dev.to/elanatframework/nodejs-webforms-class-update-to-webformsjs-16-2h9k)
 <!-- BLOG-POST-LIST:END -->
 
