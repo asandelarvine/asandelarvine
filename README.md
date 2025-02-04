@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untapped Potential of Blockchain: A World beyond Cryptocurreny](https://dev.to/dfordp/untapped-potential-of-blockchain-a-world-beyond-cryptocurreny-3nm0)
-- [How to implement view transitions in multi-page apps](https://dev.to/logrocket/how-to-implement-view-transitions-in-multi-page-apps-2gek)
-- [The Importance of API Security in Modern Software Integration](https://dev.to/igventurelli/the-importance-of-api-security-in-modern-software-integration-44cj)
-- [VLT: The Future of JavaScript Package Management? A Deep Dive into the Next-Gen npm Alternative](https://dev.to/koushikmaratha/vlt-the-future-of-javascript-package-management-a-deep-dive-into-the-next-gen-npm-alternative-hof)
+- [Vite: The Ultimate Tool for Fast React Development](https://dev.to/ruturajj/vite-the-ultimate-tool-for-fast-react-development-47mj)
+- [Authentification JWT Complete en FastAPI [link]&lpar;https://dev.to/pemochamdev/implementation-dune-authentification-jwt-complete-en-fastapi-5gjb&rpar;](https://dev.to/pemochamdev/authentification-jwt-complete-en-fastapi-59ol)
+- [TIL Weekly #2](https://dev.to/uskdev/til-weekly-2-6pb)
+- [Unlocking the Power of NoSQL: Understanding HBase](https://dev.to/surajvatsya/unlocking-the-power-of-nosql-understanding-hbase-1n8j)
 <!-- BLOG-POST-LIST:END -->
 
