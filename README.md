@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Revolutionizing DevOps Debugging with DevOps-GPT &amp; OpenAI!🚀](https://dev.to/lakhera2015/revolutionizing-devops-debugging-with-devops-gpt-openai-1f9c)
-- [Popular Section 80C Investments: A Comprehensive Overview](https://dev.to/susheel_kumar/popular-section-80c-investments-a-comprehensive-overview-2oig)
-- [Short-Term vs. Long-Term: Understanding Goals, Investments, and Planning](https://dev.to/susheel_kumar/short-term-vs-long-term-understanding-goals-investments-and-planning-44la)
-- [Exploring Project IDX](https://dev.to/dev_orizon/exploring-project-idx-1n60)
+- [The process of creating an effective Application Security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-4g63)
+- [Making an Effective Application Security Programm: Strategies, techniques and tools for the best outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-programm-strategies-techniques-and-tools-for-the-best-9jc)
+- [The process of creating an effective Application Security Program: Strategies, Practices, and Tools for Optimal outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-41a8)
+- [Designing a successful Application Security program: Strategies, Tips and the right tools to achieve optimal End-to-End Results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-tips-and-the-right-tools-to-4132)
 <!-- BLOG-POST-LIST:END -->
 
