@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Kicking Off My Python Journey!](https://dev.to/numpyninja/kicking-off-my-python-journey-26fd)
-- [Two Pointer&lpar;java&rpar;;](https://dev.to/vasanthvnr_31/two-pointerjava-2b6c)
-- [[Boost]](https://dev.to/gkampitakis/-4c5)
-- [Batch Processing Large Datasets in Node.js Without Running Out of Memory](https://dev.to/rabindratamang/batch-processing-large-datasets-in-nodejs-without-running-out-of-memory-9a1)
+- [Radio](https://dev.to/preetha_vaishnavi_2b82358/radio-2gp7)
+- [Loader](https://dev.to/preetha_vaishnavi_2b82358/loader-3fmg)
+- [Button](https://dev.to/preetha_vaishnavi_2b82358/button-4h5p)
+- [🎙️ The future of Test Data Provisioning: Why automation is essential](https://dev.to/gigantics/the-future-of-test-data-provisioning-why-automation-is-essential-4fja)
 <!-- BLOG-POST-LIST:END -->
 
