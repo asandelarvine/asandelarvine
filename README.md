@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Internationalization to a Tailwind CSS Admin Template](https://dev.to/hitesh_developer/how-to-add-internationalization-to-a-tailwind-css-admin-template-2lpc)
-- [Analisi del livello di granularità del Digital Product Passport. Modello, lotto o articolo: quale scegliere?](https://dev.to/corradofacchini/analisi-del-livello-di-granularita-del-digital-product-passport-modello-lotto-o-articolo-quale-2346)
-- [What is DeepSeek AI and how is it disrupting the AI sector?](https://dev.to/solutelabs/what-is-deepseek-ai-and-how-is-it-disrupting-the-ai-sector-5h55)
-- [Ask Gordon: Docker&#39;s AI-Powered Assistant for Developers 🚀](https://dev.to/krishnaaher/ask-gordon-dockers-ai-powered-assistant-for-developers-19kj)
+- [Backend Development with Node.js](https://dev.to/bitthal47/backend-development-with-nodejs-183n)
+- [[Qt] III. Hello, World!](https://dev.to/misinahaiya/qt-iii-hello-world-34o2)
+- [Bug Testing on Cars.ng: Ensuring a Seamless User Experience](https://dev.to/khing_ghieg/bug-testing-on-carsng-ensuring-a-seamless-user-experience-1jg6)
+- [My Journey as a Frontend Developer: From Beginner to Certification.](https://dev.to/umair_arshad_64fe0df00380/my-journey-as-a-frontend-developer-from-beginner-to-certification-2edb)
 <!-- BLOG-POST-LIST:END -->
 
