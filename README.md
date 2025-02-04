@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to run Julia on Kaggle? And submit a notebook with internet off?](https://dev.to/devesh_jawla/how-to-run-julia-on-kaggle-and-submit-a-notebook-with-internet-off-l3o)
-- [Feeling stuck? Maybe it&#39;s not your coding skills...](https://dev.to/aozisik/feeling-stuck-maybe-its-not-your-coding-skills-3m4l)
-- [Create stunning artwork with stable-diffusion-webui-forge on linux](https://dev.to/chrisa/create-stunning-artwork-with-stable-diffusion-webui-forge-on-linux-4326)
-- [NodeJS WebForms Class Update to WebFormsJS 1.6](https://dev.to/elanatframework/nodejs-webforms-class-update-to-webformsjs-16-2h9k)
+- [Understanding Callbacks in JavaScript - From A Beginner For Beginners](https://dev.to/reilly-s/understanding-callbacks-in-javascript-from-a-beginner-for-beginners-8ec)
+- [My Experience Setting Up NGINX on Ubuntu in AWS – HNG DevOps Stage 0](https://dev.to/alao_abdulzahir_fce461da/my-experience-setting-up-nginx-on-ubuntu-in-aws-hng-devops-stage-0-2164)
+- [Why I Want to Be a Front-End Developer and How HNG Will Propel Me Toward My Goals](https://dev.to/j_6851992687dd11117c65187/why-i-want-to-be-a-front-end-developer-and-how-hng-will-propel-me-toward-my-goals-33n3)
+- [Using Drain framework and Rust to build web applications](https://dev.to/footer/using-drain-framework-and-rust-to-build-web-applications-5gdf)
 <!-- BLOG-POST-LIST:END -->
 
