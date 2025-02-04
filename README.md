@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um Validador Customizado no Spring usando `Validator`](https://dev.to/uiratan/criando-um-validador-customizado-no-spring-usando-validator-46kd)
-- [Cloud-Native Monitoring Tools](https://dev.to/574n13y/cloud-native-monitoring-tools-58kg)
-- [Building a Domain Analysis Tool: Memoirs of a Frontend Engineer](https://dev.to/jinlo/building-a-domain-analysis-tool-memoirs-of-a-frontend-engineer-20j1)
-- [HTML whitespace control](https://dev.to/stolzenhain/html-whitespace-control-36b5)
+- [🚀 Kicking Off My Python Journey!](https://dev.to/numpyninja/kicking-off-my-python-journey-26fd)
+- [Two Pointer&lpar;java&rpar;;](https://dev.to/vasanthvnr_31/two-pointerjava-2b6c)
+- [[Boost]](https://dev.to/gkampitakis/-4c5)
+- [Batch Processing Large Datasets in Node.js Without Running Out of Memory](https://dev.to/rabindratamang/batch-processing-large-datasets-in-nodejs-without-running-out-of-memory-9a1)
 <!-- BLOG-POST-LIST:END -->
 
