@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀My Portfolio is Now Open Source!](https://dev.to/ahmed_tabib_ts/my-portfolio-is-now-open-source-4lpb)
-- [Flutter vs. React Native: The Ultimate Developer’s Guide for 2025](https://dev.to/fabbuilder/flutter-vs-react-native-the-ultimate-developers-guide-for-2025-228m)
-- [Now Anyone Can Code: How AI Agents Can Build Your Whole App](https://dev.to/jetthoughts/now-anyone-can-code-how-ai-agents-can-build-your-whole-app-3146)
-- [Mastering AWS DevOps: A Complete Guide for Beginners](https://dev.to/shaik_muskansultana_f054/mastering-aws-devops-a-complete-guide-for-beginners-5eh9)
+- [Explorando o GitHub Copilot: Seu Novo Assistente de Código Inteligente!](https://dev.to/regina_celiacordeiromou/explorando-o-github-copilot-seu-novo-assistente-de-codigo-inteligente-3k9n)
+- [Migrating WordPress website to headless CMS: a step-by-step guide](https://dev.to/flotiq/migrating-wordpress-website-to-headless-cms-a-step-by-step-guide-ec1)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/jayzwillz/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-303d)
+- [Gérer les événements sur un bouton en JavaScript](https://dev.to/mdytrl/gerer-les-evenements-sur-un-bouton-en-javascript-31gp)
 <!-- BLOG-POST-LIST:END -->
 
