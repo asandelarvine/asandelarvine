@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vite: The Ultimate Tool for Fast React Development](https://dev.to/ruturajj/vite-the-ultimate-tool-for-fast-react-development-47mj)
-- [Authentification JWT Complete en FastAPI [link]&lpar;https://dev.to/pemochamdev/implementation-dune-authentification-jwt-complete-en-fastapi-5gjb&rpar;](https://dev.to/pemochamdev/authentification-jwt-complete-en-fastapi-59ol)
-- [TIL Weekly #2](https://dev.to/uskdev/til-weekly-2-6pb)
-- [Unlocking the Power of NoSQL: Understanding HBase](https://dev.to/surajvatsya/unlocking-the-power-of-nosql-understanding-hbase-1n8j)
+- [Criando um Validador Customizado no Spring usando `Validator`](https://dev.to/uiratan/criando-um-validador-customizado-no-spring-usando-validator-46kd)
+- [Cloud-Native Monitoring Tools](https://dev.to/574n13y/cloud-native-monitoring-tools-58kg)
+- [Building a Domain Analysis Tool: Memoirs of a Frontend Engineer](https://dev.to/jinlo/building-a-domain-analysis-tool-memoirs-of-a-frontend-engineer-20j1)
+- [HTML whitespace control](https://dev.to/stolzenhain/html-whitespace-control-36b5)
 <!-- BLOG-POST-LIST:END -->
 
