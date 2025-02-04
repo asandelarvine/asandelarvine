@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/balasubramani_manoj/-4h82)
-- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-lnc)
-- [play_video.html](https://dev.to/md_iam_b951d591f0e90626e0/playvideohtml-1072)
-- [Automating Flask App Deployment with Docker &amp; GitHub Actions](https://dev.to/sudo_anuj/automating-flask-app-deployment-with-docker-github-actions-8gh)
+- [Streamlined MTG: Easy Deck Archetypes for New Players](https://dev.to/shirtsong7/streamlined-mtg-easy-deck-archetypes-for-new-players-45di)
+- [Hearsay: &quot;Talkative Web Components&quot;](https://dev.to/paxfeline/hearsay-talkative-web-components-400o)
+- [Envoy Gateway 1.3.0 – Overview of the New “Rate Limiting with Cost” Feature](https://dev.to/reoring/envoy-gateway-130-overview-of-the-new-rate-limiting-with-cost-feature-252j)
+- [MTG Deck Archetypes 101: A Guide for New Players](https://dev.to/magicthegame523/mtg-deck-archetypes-101-a-guide-for-new-players-lc3)
 <!-- BLOG-POST-LIST:END -->
 
