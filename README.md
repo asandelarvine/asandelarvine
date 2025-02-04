@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Status Pages vs Service Dashboards: Key Differences Explained](https://dev.to/statuspal/status-pages-vs-service-dashboards-key-differences-explained-20j2)
-- [Hello Dev Community! I’m Asadullah Kissana 👋](https://dev.to/asad_kissana_sqa_eng/hello-dev-community-im-asadullah-kissana-3gfh)
-- [Front-End Development Trends in 2025.](https://dev.to/devmercy/front-end-development-trends-in-2025-2oea)
-- [Coders Digest II: Rare and Interesting Resource Collection](https://dev.to/makalin/coders-digest-ii-rare-and-interesting-resource-collection-19a2)
+- [Mastering RESTful API Design: A Practical Guide](https://dev.to/leapcell/mastering-restful-api-design-a-practical-guide-408)
+- [Rollout &amp; Rollback Kubernetes Deployment with Hands-on Sample](https://dev.to/omerberatsezer/rollout-rollback-kubernetes-deployment-with-hands-on-sample-3534)
+- [Custom Data Types](https://dev.to/aws-builders/custom-data-types-94)
+- [Grandma&#39;s recipe for mastering regular static analysis](https://dev.to/pvsdev/grandmas-recipe-for-mastering-regular-static-analysis-56b)
 <!-- BLOG-POST-LIST:END -->
 
