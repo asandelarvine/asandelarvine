@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Development with Node.js](https://dev.to/bitthal47/backend-development-with-nodejs-183n)
-- [[Qt] III. Hello, World!](https://dev.to/misinahaiya/qt-iii-hello-world-34o2)
-- [Bug Testing on Cars.ng: Ensuring a Seamless User Experience](https://dev.to/khing_ghieg/bug-testing-on-carsng-ensuring-a-seamless-user-experience-1jg6)
-- [My Journey as a Frontend Developer: From Beginner to Certification.](https://dev.to/umair_arshad_64fe0df00380/my-journey-as-a-frontend-developer-from-beginner-to-certification-2edb)
+- [🚀My Portfolio is Now Open Source!](https://dev.to/ahmed_tabib_ts/my-portfolio-is-now-open-source-4lpb)
+- [Flutter vs. React Native: The Ultimate Developer’s Guide for 2025](https://dev.to/fabbuilder/flutter-vs-react-native-the-ultimate-developers-guide-for-2025-228m)
+- [Now Anyone Can Code: How AI Agents Can Build Your Whole App](https://dev.to/jetthoughts/now-anyone-can-code-how-ai-agents-can-build-your-whole-app-3146)
+- [Mastering AWS DevOps: A Complete Guide for Beginners](https://dev.to/shaik_muskansultana_f054/mastering-aws-devops-a-complete-guide-for-beginners-5eh9)
 <!-- BLOG-POST-LIST:END -->
 
