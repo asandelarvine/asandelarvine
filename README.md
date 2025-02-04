@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlined MTG: Easy Deck Archetypes for New Players](https://dev.to/shirtsong7/streamlined-mtg-easy-deck-archetypes-for-new-players-45di)
-- [Hearsay: &quot;Talkative Web Components&quot;](https://dev.to/paxfeline/hearsay-talkative-web-components-400o)
-- [Envoy Gateway 1.3.0 – Overview of the New “Rate Limiting with Cost” Feature](https://dev.to/reoring/envoy-gateway-130-overview-of-the-new-rate-limiting-with-cost-feature-252j)
-- [MTG Deck Archetypes 101: A Guide for New Players](https://dev.to/magicthegame523/mtg-deck-archetypes-101-a-guide-for-new-players-lc3)
+- [The best free password generator i&#39;ve ever know](https://dev.to/adhiya/the-best-free-password-generatir-ive-ever-know-1c9o)
+- [Avoid Developer Tunnel Vision](https://dev.to/kgthedev/avoid-developer-tunnel-vision-548f)
+- [Start 2025 with this! 🚀🤓](https://dev.to/wahabshah23/start-2025-with-this-3hcg)
+- [Lua scripting in mpv video player](https://dev.to/sledov/lua-scripting-in-mpv-video-player-4fdh)
 <!-- BLOG-POST-LIST:END -->
 
