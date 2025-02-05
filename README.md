@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Callbacks in JavaScript - From A Beginner For Beginners](https://dev.to/reilly-s/understanding-callbacks-in-javascript-from-a-beginner-for-beginners-8ec)
-- [My Experience Setting Up NGINX on Ubuntu in AWS – HNG DevOps Stage 0](https://dev.to/alao_abdulzahir_fce461da/my-experience-setting-up-nginx-on-ubuntu-in-aws-hng-devops-stage-0-2164)
-- [Why I Want to Be a Front-End Developer and How HNG Will Propel Me Toward My Goals](https://dev.to/j_6851992687dd11117c65187/why-i-want-to-be-a-front-end-developer-and-how-hng-will-propel-me-toward-my-goals-33n3)
-- [Using Drain framework and Rust to build web applications](https://dev.to/footer/using-drain-framework-and-rust-to-build-web-applications-5gdf)
+- [Tailwind CSS 4: Novedades y Configuración](https://dev.to/johnserranodev/tailwind-css-4-novedades-y-configuracion-4495)
+- [Simplest ETL: Data Engineering](https://dev.to/alex_aslam/simplest-etl-data-engineering-47kb)
+- [What is String and its types in Python?](https://dev.to/atifwattoo/what-is-string-and-its-types-in-python-4ide)
+- [Text Preprocessing for NLP: A Step-by-Step Guide to Clean Raw Text Data](https://dev.to/adipamartulandi/text-preprocessing-for-nlp-a-step-by-step-guide-to-clean-raw-text-data-253n)
 <!-- BLOG-POST-LIST:END -->
 
