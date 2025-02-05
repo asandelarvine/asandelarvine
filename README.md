@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate from Postman to Hoppscotch Today](https://dev.to/hoppscotch/migrate-from-postman-to-hoppscotch-today-55ob)
-- [Functions &amp; Modules in Python](https://dev.to/godofgeeks/functions-modules-in-python-1e3b)
-- [virtualization inside almalinux 9](https://dev.to/dace/virtualization-inside-almalinux-9-o0c)
-- [Measuring ROI from AI Initiatives Using Azure AI Foundry Tools: A guide to CFO&#39;s and CIO&#39;s](https://dev.to/qservices_itsolutions_20/measuring-roi-from-ai-initiatives-using-azure-ai-foundry-tools-a-guide-to-cfos-and-cios-1fbn)
+- [🚀 Help Shape the Future of Developer Hiring with CoderFarm! 🌱](https://dev.to/aman_934d756e218a2f66b56a/help-shape-the-future-of-developer-hiring-with-coderfarm-h04)
+- [Using SSH Authentication with GitHub](https://dev.to/msnmongare/using-ssh-authentication-with-github-1p90)
+- [Boosting Business Efficiency with Web Scraping](https://dev.to/swiftproxy_residential/boosting-business-efficiency-with-web-scraping-1d1n)
+- [&quot;Boosting AI Resilience: Defending Against Overthink Attacks on LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-ai-resilience-defending-against-overthink-attacks-on-llms-3fgc)
 <!-- BLOG-POST-LIST:END -->
 
