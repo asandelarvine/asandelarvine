@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v313](https://dev.to/devteam/welcome-thread-v313-50bg)
-- [Account Email and Password Change using .NET Core Identity](https://dev.to/marian_s/account-email-and-password-change-using-net-core-identity-1kco)
-- [🚀Beginner&#39;s Guide to Deploying Projects on a VPS Server](https://dev.to/mahmud-r-farhan/beginners-guide-to-deploying-projects-on-a-vps-server-26a7)
-- [If a Language Learning Forum Were Like a Coding Forum:](https://dev.to/canro91/if-a-language-learning-forum-were-like-a-coding-forum-3cgp)
+- [#139 — Interconversion of Rows and Columns in Reverse Order](https://dev.to/judith677/139-interconversion-of-rows-and-columns-in-reverse-order-176b)
+- [Clojure Is Awesome!!! [PART 10]](https://dev.to/borba/clojure-is-awesome-part-10-222i)
+- [From Cloud to Code: My Journey Through AWS, Data Science, and Machine Learning](https://dev.to/rahulyyadav/from-cloud-to-code-my-journey-through-aws-data-science-and-machine-learning-4746)
+- [[Boost]](https://dev.to/mei/-3a26)
 <!-- BLOG-POST-LIST:END -->
 
