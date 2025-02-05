@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Windows 11 Virtual Machine on Azure &lpar;And Have Fun Doing It!&rpar;](https://dev.to/kelechiedeh/how-to-create-a-windows-11-virtual-machine-on-azure-and-have-fun-doing-it-16ib)
-- [[Algorithm] 151. Reverse Words in a String](https://dev.to/jihyunj/algorithm-151-reverse-words-in-a-string-5com)
-- [كيف اكتشفت اكثر من ٤٥٠ ثغرة](https://dev.to/ali_essam_40774f25f0f4182/kyf-ktshft-kthr-mn-450-thgr-24gm)
-- [Python’s Popularity in AI and Data Science](https://dev.to/alfred_ferrari_4359c13919/pythons-popularity-in-ai-and-data-science-o3i)
+- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-5hm7)
+- [Promise.all&lpar;&rpar;, Promise.any&lpar;&rpar;, and More: Handling Multiple Promises in JavaScript](https://dev.to/rakibrahman/promiseall-promiseany-and-more-handling-multiple-promises-in-javascript-32m5)
+- [GCD AND LCM:](https://dev.to/kaviyak/gcd-and-lcm-1hi1)
+- [JOKER LOWCODE PLATFORM 20250204 UPDATED LOG](https://dev.to/zhangchuanhui/joker-lowcode-platform-20250204-updated-log-2hgo)
 <!-- BLOG-POST-LIST:END -->
 
