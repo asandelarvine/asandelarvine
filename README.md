@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create the real time chat app by HTML , CSS JavaScript, Node.js and Scoket.io 🔥 🚀](https://dev.to/devtostd/create-the-real-time-chat-app-by-html-css-javascript-nodejs-and-scoketio-52a)
-- [🚀 Your Daily Crypto Job Digest For 05 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-05-february-45o2)
-- [[Boost]](https://dev.to/c2theg/-2157)
-- [Understanding IAM on AWS](https://dev.to/stack_dev/understanding-iam-on-aws-2g5d)
+- [Java Class definition](https://dev.to/kandasami_thirunavukarasu/java-class-definition-1oee)
+- [Send messages to WhatsApp via API using 2Chat](https://dev.to/dashpy/send-messages-to-whatsapp-via-api-using-2chat-510p)
+- [Benchmark test to compare Wire vs. Dig in Go](https://dev.to/rezende79/benchmark-test-to-compare-wire-vs-dig-in-go-4o69)
+- [Eligibility for ITR-4](https://dev.to/susheel_kumar/eligibility-for-itr-4-4m6m)
 <!-- BLOG-POST-LIST:END -->
 
