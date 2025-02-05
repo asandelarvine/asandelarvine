@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing: Angular UI](https://dev.to/shhdharmen/announcing-angular-ui-3kca)
-- [Stack implementation using list](https://dev.to/mujahida_joynab_64c7407d8/stack-implementation-using-list-3lij)
-- [The Impact of AI on Cryptocurrency: The Most Innovative Products 🚀](https://dev.to/cryptosandy/the-impact-of-ai-on-cryptocurrency-the-most-innovative-products-121b)
-- [Stack Input and Output](https://dev.to/mujahida_joynab_64c7407d8/stack-input-and-output-58n)
+- [How AI is Being Used to Predict Diseases from Genomic Data](https://dev.to/biopractify_team_69ab4279/how-ai-is-being-used-to-predict-diseases-from-genomic-data-3998)
+- [9 Cutting-Edge Developer Tools to Speed Up Your Coding 🚀](https://dev.to/cryptosandy/9-cutting-edge-developer-tools-to-speed-up-your-coding-12ko)
+- [Maximize Your CRM Efficiency with Flowtrail AI Report Agent](https://dev.to/flowtrail-admin/maximize-your-crm-efficiency-with-flowtrail-ai-report-agent-390p)
+- [Cleaning Up Stale Branches to Speed Up CI/CD and Reduce GitHub API Load](https://dev.to/abusithik/cleaning-up-stale-branches-to-speed-up-cicd-and-reduce-github-api-load-1de5)
 <!-- BLOG-POST-LIST:END -->
 
