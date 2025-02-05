@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Help Shape the Future of Developer Hiring with CoderFarm! 🌱](https://dev.to/aman_934d756e218a2f66b56a/help-shape-the-future-of-developer-hiring-with-coderfarm-h04)
-- [Using SSH Authentication with GitHub](https://dev.to/msnmongare/using-ssh-authentication-with-github-1p90)
-- [Boosting Business Efficiency with Web Scraping](https://dev.to/swiftproxy_residential/boosting-business-efficiency-with-web-scraping-1d1n)
-- [&quot;Boosting AI Resilience: Defending Against Overthink Attacks on LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-ai-resilience-defending-against-overthink-attacks-on-llms-3fgc)
+- [Understanding React Component Exports and TypeScript Conversion: A Case Study with a WhatsApp Chat Button](https://dev.to/tobidelly/understanding-react-component-exports-and-typescript-conversion-a-case-study-with-a-whatsapp-chat-3gl8)
+- [Reverse Linked List](https://dev.to/mujahida_joynab_64c7407d8/reverse-linked-list-144i)
+- [Mastering Git and GitHub: A Comprehensive Guide - Cheatsheet](https://dev.to/myogeshchavan97/mastering-git-and-github-a-comprehensive-guide-cheatsheet-1gm1)
+- [Terraform on AWS: An introductory guide](https://dev.to/aws-builders/terraform-on-aws-an-introductory-guide-5dfb)
 <!-- BLOG-POST-LIST:END -->
 
