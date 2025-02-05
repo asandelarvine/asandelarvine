@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CREATING A WINDOWS VITUAL MACHINE IN AZURE](https://dev.to/sheyitex/creating-a-windows-vitual-machine-in-azure-48m1)
-- [Zodiac – Seu Mapa Astral em Instantes ✨🔮](https://dev.to/w1redl4in/zodiac-seu-mapa-astral-em-instantes-1d9m)
-- [Next.js Portfolio Site Documentation](https://dev.to/ed_sels/nextjs-portfolio-site-documentation-193b)
-- [Introduction to Algorithms and Pseudocode](https://dev.to/mohbohlahji/introduction-to-algorithms-and-pseudocode-lnj)
+- [How to Dynamically Recognize Mobile Mode Using Pinia in Nuxt.js](https://dev.to/anisrasoul/how-to-dynamically-recognize-mobile-mode-using-pinia-in-nuxtjs-2jfp)
+- [Measuring Productivity?](https://dev.to/oculus42/measuring-productivity-31a2)
+- [An AI Chatbot with NextJS, Groq and Llama](https://dev.to/mintycyber/an-ai-chatbot-with-nextjs-groq-and-llama-2gc5)
+- [Building SpyClub: A Modern Telegram Mini App with Web3 Features 🚀](https://dev.to/tomtomdu73/building-spyclub-a-modern-telegram-mini-app-with-web3-features-2jlg)
 <!-- BLOG-POST-LIST:END -->
 
