@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun Hex Navigation](https://dev.to/preetha_vaishnavi_2b82358/fun-hex-navigation-1c7c)
-- [What&#39;s next with the Serverless Framework in 2025?](https://dev.to/aws-heroes/whats-next-with-the-serverless-framework-in-2025-121d)
-- [Lerian no DEV: um novo hub de conteúdo técnico](https://dev.to/lerian/lerian-no-dev-um-novo-hub-de-conteudo-tecnico-19le)
-- [DevOps 101: Part 4](https://dev.to/himanshu_bhatt/devops-101-part-4-3b2e)
+- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 2: GitHub OAuth](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-73g)
+- [A Cloud-based NBA Game Day Alert System using Python, AWS Lambda, SNS, and EventBridge.](https://dev.to/ljpeg/a-cloud-based-nba-game-day-alert-system-using-python-aws-lambda-sns-and-eventbridge-3g7o)
+- [What&#39;s arr[&#39;1&#39;] in JavaScript?](https://dev.to/bhumesh_15/whats-arr2-in-javascript-3ccl)
+- [Testing post](https://dev.to/joshua_leon_65b677a50c098/testing-post-4g54)
 <!-- BLOG-POST-LIST:END -->
 
