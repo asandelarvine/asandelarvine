@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [List a collection of music that helps you to stay focused when studying](https://dev.to/devmercy/list-a-collection-of-music-that-helps-you-to-stay-focused-when-studying-gbm)
-- [.NET MAUI 9 brings new improvements to Blazor](https://dev.to/logrocket/net-maui-9-brings-new-improvements-to-blazor-5chm)
-- [Why Tabular Data Reigns Supreme in the Real World of AI](https://dev.to/justdetermined/why-tabular-data-reigns-supreme-in-the-real-world-of-ai-5ena)
-- [🎯 February&#39;s Hottest Trading Competitions](https://dev.to/endeo/februarys-hottest-trading-competitions-4hac)
+- [Exploring ASGI: Python’s Async Protocol for Web Apps](https://dev.to/leapcell/exploring-asgi-pythons-async-protocol-for-web-apps-35kh)
+- [Find Duplicate in a list](https://dev.to/samson_jebaraj/find-duplicate-in-a-list-2hm0)
+- [&quot;Unlocking Image Generation: The Power of COCONut-PanCap and CaPO Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-coconut-pancap-and-capo-models-4dcj)
+- [How to bundle Sqflite_common_ffi Database file in Windows .exe executable: Flutter Offline Desktop App](https://dev.to/taiwo_divine_8f40cd7c508d/how-to-bundle-sqflitecommonffi-database-file-in-windows-exe-executable-flutter-offline-desktop-3kgl)
 <!-- BLOG-POST-LIST:END -->
 
