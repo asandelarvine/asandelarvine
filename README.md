@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This engineer uses LLMs](https://dev.to/nmiller15/this-engineer-uses-llms-37i5)
-- [[Boost]](https://dev.to/gsampaiowz/-3k3b)
-- [Multi-Tenancy in Java-Based Microservice-Platform](https://dev.to/thesimdak/multi-tenancy-in-java-based-microservice-platform-5e20)
-- [Project Nairobi: Building a Distributed Analytics Platform on AWS](https://dev.to/zuba/project-nairobi-building-a-distributed-analytics-platform-on-aws-4abo)
+- [FastAPI: The Ultimate Guide to Building High-Performance APIs with Python](https://dev.to/atifwattoo/fastapi-the-ultimate-guide-to-building-high-performance-apis-with-python-9hg)
+- [RAG on Azure OpenAI](https://dev.to/enriqueaguila/r-1d03)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/prince_gee_95d1f956189cb8/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4075)
+- [Komli AI](https://dev.to/tanner_curr_eff6cd362ff39/komli-ai-jd8)
 <!-- BLOG-POST-LIST:END -->
 
