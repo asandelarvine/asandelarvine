@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring ASGI: Python’s Async Protocol for Web Apps](https://dev.to/leapcell/exploring-asgi-pythons-async-protocol-for-web-apps-35kh)
-- [Find Duplicate in a list](https://dev.to/samson_jebaraj/find-duplicate-in-a-list-2hm0)
-- [&quot;Unlocking Image Generation: The Power of COCONut-PanCap and CaPO Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-coconut-pancap-and-capo-models-4dcj)
-- [How to bundle Sqflite_common_ffi Database file in Windows .exe executable: Flutter Offline Desktop App](https://dev.to/taiwo_divine_8f40cd7c508d/how-to-bundle-sqflitecommonffi-database-file-in-windows-exe-executable-flutter-offline-desktop-3kgl)
+- [Fun Hex Navigation](https://dev.to/preetha_vaishnavi_2b82358/fun-hex-navigation-1c7c)
+- [What&#39;s next with the Serverless Framework in 2025?](https://dev.to/aws-heroes/whats-next-with-the-serverless-framework-in-2025-121d)
+- [Lerian no DEV: um novo hub de conteúdo técnico](https://dev.to/lerian/lerian-no-dev-um-novo-hub-de-conteudo-tecnico-19le)
+- [DevOps 101: Part 4](https://dev.to/himanshu_bhatt/devops-101-part-4-3b2e)
 <!-- BLOG-POST-LIST:END -->
 
