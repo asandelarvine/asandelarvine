@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI: The Ultimate Guide to Building High-Performance APIs with Python](https://dev.to/atifwattoo/fastapi-the-ultimate-guide-to-building-high-performance-apis-with-python-9hg)
-- [RAG on Azure OpenAI](https://dev.to/enriqueaguila/r-1d03)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/prince_gee_95d1f956189cb8/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4075)
-- [Komli AI](https://dev.to/tanner_curr_eff6cd362ff39/komli-ai-jd8)
+- [CREATING A WINDOWS VITUAL MACHINE IN AZURE](https://dev.to/sheyitex/creating-a-windows-vitual-machine-in-azure-48m1)
+- [Zodiac – Seu Mapa Astral em Instantes ✨🔮](https://dev.to/w1redl4in/zodiac-seu-mapa-astral-em-instantes-1d9m)
+- [Next.js Portfolio Site Documentation](https://dev.to/ed_sels/nextjs-portfolio-site-documentation-193b)
+- [Introduction to Algorithms and Pseudocode](https://dev.to/mohbohlahji/introduction-to-algorithms-and-pseudocode-lnj)
 <!-- BLOG-POST-LIST:END -->
 
