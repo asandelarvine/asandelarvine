@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lambda vs Lambda vs Lambda: A Journey Through AWS Serverless GenAI Application Deployments](https://dev.to/subeshb1/lambda-vs-lambda-vs-lambda-a-journey-through-aws-serverless-genai-application-deployments-2m70)
-- [AI Web App Generators: Build in Minutes](https://dev.to/flatlogic/ai-web-app-generators-build-in-minutes-1olg)
-- [Fix Hydration Errors in Next.js](https://dev.to/rutuja_web_dev/understanding-hydration-in-nextjs-fixing-hydration-errors-j13)
-- [Advanced Search Engines](https://dev.to/ishani/advanced-search-engines-1ag7)
+- [Create the real time chat app by HTML , CSS JavaScript, Node.js and Scoket.io 🔥 🚀](https://dev.to/devtostd/create-the-real-time-chat-app-by-html-css-javascript-nodejs-and-scoketio-52a)
+- [🚀 Your Daily Crypto Job Digest For 05 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-05-february-45o2)
+- [[Boost]](https://dev.to/c2theg/-2157)
+- [Understanding IAM on AWS](https://dev.to/stack_dev/understanding-iam-on-aws-2g5d)
 <!-- BLOG-POST-LIST:END -->
 
