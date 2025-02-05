@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS 4: Novedades y Configuración](https://dev.to/johnserranodev/tailwind-css-4-novedades-y-configuracion-4495)
-- [Simplest ETL: Data Engineering](https://dev.to/alex_aslam/simplest-etl-data-engineering-47kb)
-- [What is String and its types in Python?](https://dev.to/atifwattoo/what-is-string-and-its-types-in-python-4ide)
-- [Text Preprocessing for NLP: A Step-by-Step Guide to Clean Raw Text Data](https://dev.to/adipamartulandi/text-preprocessing-for-nlp-a-step-by-step-guide-to-clean-raw-text-data-253n)
+- [The Ultimate Guide to 🤖 Qwen: Your Friendly AI Assistant from Alibaba Cloud🔥 🌐](https://dev.to/hanzla-baig/the-ultimate-guide-to-qwen-your-friendly-ai-assistant-from-alibaba-cloud-8n5)
+- [Understanding Objects in JavaScript](https://dev.to/ayako_yk/understanding-objects-in-javascript-10h9)
+- [Revolutionize Your Website with CSS3: The Ultimate Guide for Developers](https://dev.to/bkthemes/revolutionize-your-website-with-css3-the-ultimate-guide-for-developers-4ijf)
+- [Starting my Back-end Journey &lpar;1/?&rpar;](https://dev.to/larissa_dantier/starting-my-back-end-journey-1-367n)
 <!-- BLOG-POST-LIST:END -->
 
