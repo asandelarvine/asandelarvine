@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Being Used to Predict Diseases from Genomic Data](https://dev.to/biopractify_team_69ab4279/how-ai-is-being-used-to-predict-diseases-from-genomic-data-3998)
-- [9 Cutting-Edge Developer Tools to Speed Up Your Coding 🚀](https://dev.to/cryptosandy/9-cutting-edge-developer-tools-to-speed-up-your-coding-12ko)
-- [Maximize Your CRM Efficiency with Flowtrail AI Report Agent](https://dev.to/flowtrail-admin/maximize-your-crm-efficiency-with-flowtrail-ai-report-agent-390p)
-- [Cleaning Up Stale Branches to Speed Up CI/CD and Reduce GitHub API Load](https://dev.to/abusithik/cleaning-up-stale-branches-to-speed-up-cicd-and-reduce-github-api-load-1de5)
+- [Lambda vs Lambda vs Lambda: A Journey Through AWS Serverless GenAI Application Deployments](https://dev.to/subeshb1/lambda-vs-lambda-vs-lambda-a-journey-through-aws-serverless-genai-application-deployments-2m70)
+- [AI Web App Generators: Build in Minutes](https://dev.to/flatlogic/ai-web-app-generators-build-in-minutes-1olg)
+- [Fix Hydration Errors in Next.js](https://dev.to/rutuja_web_dev/understanding-hydration-in-nextjs-fixing-hydration-errors-j13)
+- [Advanced Search Engines](https://dev.to/ishani/advanced-search-engines-1ag7)
 <!-- BLOG-POST-LIST:END -->
 
