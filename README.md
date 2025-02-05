@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-5hm7)
-- [Promise.all&lpar;&rpar;, Promise.any&lpar;&rpar;, and More: Handling Multiple Promises in JavaScript](https://dev.to/rakibrahman/promiseall-promiseany-and-more-handling-multiple-promises-in-javascript-32m5)
-- [GCD AND LCM:](https://dev.to/kaviyak/gcd-and-lcm-1hi1)
-- [JOKER LOWCODE PLATFORM 20250204 UPDATED LOG](https://dev.to/zhangchuanhui/joker-lowcode-platform-20250204-updated-log-2hgo)
+- [Welcome Thread - v313](https://dev.to/devteam/welcome-thread-v313-50bg)
+- [Account Email and Password Change using .NET Core Identity](https://dev.to/marian_s/account-email-and-password-change-using-net-core-identity-1kco)
+- [🚀Beginner&#39;s Guide to Deploying Projects on a VPS Server](https://dev.to/mahmud-r-farhan/beginners-guide-to-deploying-projects-on-a-vps-server-26a7)
+- [If a Language Learning Forum Were Like a Coding Forum:](https://dev.to/canro91/if-a-language-learning-forum-were-like-a-coding-forum-3cgp)
 <!-- BLOG-POST-LIST:END -->
 
