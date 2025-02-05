@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Class definition](https://dev.to/kandasami_thirunavukarasu/java-class-definition-1oee)
-- [Send messages to WhatsApp via API using 2Chat](https://dev.to/dashpy/send-messages-to-whatsapp-via-api-using-2chat-510p)
-- [Benchmark test to compare Wire vs. Dig in Go](https://dev.to/rezende79/benchmark-test-to-compare-wire-vs-dig-in-go-4o69)
-- [Eligibility for ITR-4](https://dev.to/susheel_kumar/eligibility-for-itr-4-4m6m)
+- [List a collection of music that helps you to stay focused when studying](https://dev.to/devmercy/list-a-collection-of-music-that-helps-you-to-stay-focused-when-studying-gbm)
+- [.NET MAUI 9 brings new improvements to Blazor](https://dev.to/logrocket/net-maui-9-brings-new-improvements-to-blazor-5chm)
+- [Why Tabular Data Reigns Supreme in the Real World of AI](https://dev.to/justdetermined/why-tabular-data-reigns-supreme-in-the-real-world-of-ai-5ena)
+- [🎯 February&#39;s Hottest Trading Competitions](https://dev.to/endeo/februarys-hottest-trading-competitions-4hac)
 <!-- BLOG-POST-LIST:END -->
 
