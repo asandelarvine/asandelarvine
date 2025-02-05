@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to 🤖 Qwen: Your Friendly AI Assistant from Alibaba Cloud🔥 🌐](https://dev.to/hanzla-baig/the-ultimate-guide-to-qwen-your-friendly-ai-assistant-from-alibaba-cloud-8n5)
-- [Understanding Objects in JavaScript](https://dev.to/ayako_yk/understanding-objects-in-javascript-10h9)
-- [Revolutionize Your Website with CSS3: The Ultimate Guide for Developers](https://dev.to/bkthemes/revolutionize-your-website-with-css3-the-ultimate-guide-for-developers-4ijf)
-- [Starting my Back-end Journey &lpar;1/?&rpar;](https://dev.to/larissa_dantier/starting-my-back-end-journey-1-367n)
+- [How to Create a Windows 11 Virtual Machine on Azure &lpar;And Have Fun Doing It!&rpar;](https://dev.to/kelechiedeh/how-to-create-a-windows-11-virtual-machine-on-azure-and-have-fun-doing-it-16ib)
+- [[Algorithm] 151. Reverse Words in a String](https://dev.to/jihyunj/algorithm-151-reverse-words-in-a-string-5com)
+- [كيف اكتشفت اكثر من ٤٥٠ ثغرة](https://dev.to/ali_essam_40774f25f0f4182/kyf-ktshft-kthr-mn-450-thgr-24gm)
+- [Python’s Popularity in AI and Data Science](https://dev.to/alfred_ferrari_4359c13919/pythons-popularity-in-ai-and-data-science-o3i)
 <!-- BLOG-POST-LIST:END -->
 
