@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The RayCast Port Manager Extension](https://dev.to/nickytonline/the-raycast-port-manager-extension-lca)
-- [Bringing Multi-Agent AI to JavaScript with KaibanJS](https://dev.to/kaibanjs/bringing-multi-agent-ai-to-javascript-with-kaibanjs-4fo2)
-- [Simple QML models](https://dev.to/iomatix/simple-qml-models-539p)
-- [&#39;selenium.common.exceptions.SessionNotCreatedException&#39; Error using SeleniumBase](https://dev.to/zcodez777/seleniumcommonexceptionssessionnotcreatedexception-error-using-seleniumbase-9g9)
+- [Typescript scripts in the command line: Using Node.JS](https://dev.to/rerodrigues/typescript-scripts-in-the-command-line-using-nodejs-9ad)
+- [AWS WAF Intro Guide](https://dev.to/alexeybaltacov/aws-waf-intro-guide-25a3)
+- [Building Secure Web3 Ecosystems: Lessons from Centralized Crypto Exchanges](https://dev.to/sergi_web3/building-secure-web3-ecosystems-lessons-from-centralized-crypto-exchanges-jo3)
+- [Herramienta de Cumplimiento Regulatorio para Empresas Chilenas](https://dev.to/tyan99/herramienta-de-cumplimiento-regulatorio-para-empresas-chilenas-3mg2)
 <!-- BLOG-POST-LIST:END -->
 
