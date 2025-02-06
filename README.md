@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dynamically Recognize Mobile Mode Using Pinia in Nuxt.js](https://dev.to/anisrasoul/how-to-dynamically-recognize-mobile-mode-using-pinia-in-nuxtjs-2jfp)
-- [Measuring Productivity?](https://dev.to/oculus42/measuring-productivity-31a2)
-- [An AI Chatbot with NextJS, Groq and Llama](https://dev.to/mintycyber/an-ai-chatbot-with-nextjs-groq-and-llama-2gc5)
-- [Building SpyClub: A Modern Telegram Mini App with Web3 Features 🚀](https://dev.to/tomtomdu73/building-spyclub-a-modern-telegram-mini-app-with-web3-features-2jlg)
+- [Providing Storage for IT Department Testing and Training: A Simple Solution](https://dev.to/kelechiedeh/providing-storage-for-it-department-testing-and-training-a-simple-solution-2ped)
+- [Os 10 Melhores Acessórios de Informática para um Desenvolvedor](https://dev.to/marcosplusplus/os-10-melhores-acessorios-de-informatica-para-um-desenvolvedor-pke)
+- [Hi, We are Metacode!](https://dev.to/h_metacode_74e90df0ee5da6/hi-we-are-metacode-44a2)
+- [Hello Dev world](https://dev.to/precipex/hello-dev-world-59do)
 <!-- BLOG-POST-LIST:END -->
 
