@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek vs. ChatGPT in Jetpack Compose:](https://dev.to/vinay_reddysankalamaddi_/deepseek-vs-chatgpt-in-jetpack-compose-3bi0)
-- [Aplikasi Apple Invites: Menjadi Bintang di Undangan Dunia!](https://dev.to/bakaboun/aplikasi-apple-invites-menjadi-bintang-di-undangan-dunia-5g8f)
-- [Understanding Superglobal Variable in PHP: A Comprehensive Guide](https://dev.to/manan_raj_6289f257cd05087/understanding-superglobal-variable-in-php-a-comprehensive-guide-302f)
-- [Master Shopify Embedded Apps with Rails 8](https://dev.to/sulmanweb/master-shopify-embedded-apps-with-rails-8-f5g)
+- [Basic Syntax and Data Types in Go](https://dev.to/godofgeeks/basic-syntax-and-data-types-in-go-1o4)
+- [Why Does Every Business Need Customer Service Management?](https://dev.to/aelum-consulting/why-does-every-business-need-customer-service-management-4g1n)
+- [# Best Practices for Project Management &lpar;Focused on Productivity, Not Meetings&rpar;](https://dev.to/trinly01/-best-practices-for-project-management-focused-on-productivity-not-meetings-248o)
+- [LLM Product Development in 2025 – The Ultimate Guide](https://dev.to/ezinsightsai/llm-product-development-in-2025-the-ultimate-guide-37f1)
 <!-- BLOG-POST-LIST:END -->
 
