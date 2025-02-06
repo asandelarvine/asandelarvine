@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does Docker Do?](https://dev.to/sovannaro/what-does-docker-do-16jo)
-- [Vercel Fluid: Rendimiento de servidores tradicionales con la flexibilidad serverless](https://dev.to/jrobinsonc/vercel-fluid-rendimiento-de-servidores-tradicionales-con-la-flexibilidad-serverless-12ne)
-- [Best Practices for Optimizing Machine Learning Models on Multi-Cloud Platforms: Overcoming Infrastructure Challenges](https://dev.to/adityabhuyan/best-practices-for-optimizing-machine-learning-models-on-multi-cloud-platforms-overcoming-2j8c)
-- [Optimizing Python Back-End Performance: Best Practices](https://dev.to/janicehoover1989/optimizing-python-back-end-performance-best-practices-25ib)
+- [Networking 101: Part 1](https://dev.to/himanshu_bhatt/networking-101-part-1-1222)
+- [OSD700: Sprint 2 - Results](https://dev.to/amullagaliev/osd700-sprint-2-results-8kg)
+- [Check which shared folders a user has relevant permissions on, and remove those permissions](https://dev.to/excalibra/check-which-shared-folders-a-user-has-relevant-permissions-on-and-remove-those-permissions-d69)
+- [5 Tips to Level Up as an Angular Developer in 2025](https://dev.to/rating_rai_/5-tips-to-level-up-as-an-angular-developer-in-2025-2elc)
 <!-- BLOG-POST-LIST:END -->
 
