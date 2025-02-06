@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite Snapshots Unveiled: Why AI Fumbles and an Image Captcha Solver Saves the Day – A Wild Ride](https://dev.to/markus009/satellite-snapshots-unveiled-why-ai-fumbles-and-an-image-captcha-solver-saves-the-day-a-wild-ride-2k0j)
-- [⚙️ Building a better Ruby ORM for time series and analytics](https://dev.to/timescale/building-a-better-ruby-orm-for-time-series-and-analytics-1a78)
-- [Transitioning from Kubernetes to EC2 for Enhanced Kafka Performance](https://dev.to/hyperswitchio/transitioning-from-kubernetes-to-ec2-for-enhanced-kafka-performance-2nmi)
-- [Installing Kubernetes using kubeadm without installing docker in Ubuntu](https://dev.to/soram/installing-kubernetes-using-kubeadm-without-installing-docker-in-ubuntu-19bo)
+- [Conquering Flatpak Icons on LXDE &lpar;Pop!_OS Edition&rpar;](https://dev.to/ericsonwillians/conquering-flatpak-icons-on-lxde-popos-edition-5f7a)
+- [I built an AI Agent that creates README file for your code](https://dev.to/potpie/i-built-an-ai-agent-that-creates-readme-file-for-your-code-57l2)
+- [How to deploy a serverless application using Terragrunt](https://dev.to/aws-builders/how-to-deploy-a-serverless-application-using-terragrunt-1ap9)
+- [From AngularJS to React: Lessons Learned on Our Journey](https://dev.to/dylan_miyake/from-angularjs-to-react-lessons-learned-on-our-journey-5e86)
 <!-- BLOG-POST-LIST:END -->
 
