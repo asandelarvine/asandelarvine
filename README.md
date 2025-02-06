@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unexpected Struggle of Implementing Custom CAPTCHA on Linux](https://dev.to/vatana7/the-unexpected-struggle-of-implementing-custom-captcha-on-linux-1kh6)
-- [Problemas del Cap. 2 de Eloquent JavaScript](https://dev.to/math_doggo/problemas-del-cap-2-de-eloquent-javascript-4m7e)
-- [[Boost]](https://dev.to/xyz_oblivion/-3joe)
-- [Speed Up DB Queries Like a Pro](https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95)
+- [DeepSeek vs. ChatGPT in Jetpack Compose:](https://dev.to/vinay_reddysankalamaddi_/deepseek-vs-chatgpt-in-jetpack-compose-3bi0)
+- [Aplikasi Apple Invites: Menjadi Bintang di Undangan Dunia!](https://dev.to/bakaboun/aplikasi-apple-invites-menjadi-bintang-di-undangan-dunia-5g8f)
+- [Understanding Superglobal Variable in PHP: A Comprehensive Guide](https://dev.to/manan_raj_6289f257cd05087/understanding-superglobal-variable-in-php-a-comprehensive-guide-302f)
+- [Master Shopify Embedded Apps with Rails 8](https://dev.to/sulmanweb/master-shopify-embedded-apps-with-rails-8-f5g)
 <!-- BLOG-POST-LIST:END -->
 
