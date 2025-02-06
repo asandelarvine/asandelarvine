@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas v0.31: pgvector support for your LLM-based apps, custom schema rules, and more](https://dev.to/atlasgoio/atlas-v031-pgvector-support-for-your-llm-apps-custom-schema-rules-and-more-2aen)
-- [Regex!](https://dev.to/thomasbnt/regex-3nd)
-- [Effortlessly Share Ollama API and Open WebUI Online](https://dev.to/lightningdev123/effortlessly-share-ollama-api-and-open-webui-online-1li2)
-- [Which Cloud Managed Services Subscription Plan Should You Choose?](https://dev.to/mehul_budasana/which-cloud-managed-services-subscription-plan-should-you-choose-47p8)
+- [Satellite Snapshots Unveiled: Why AI Fumbles and an Image Captcha Solver Saves the Day – A Wild Ride](https://dev.to/markus009/satellite-snapshots-unveiled-why-ai-fumbles-and-an-image-captcha-solver-saves-the-day-a-wild-ride-2k0j)
+- [⚙️ Building a better Ruby ORM for time series and analytics](https://dev.to/timescale/building-a-better-ruby-orm-for-time-series-and-analytics-1a78)
+- [Transitioning from Kubernetes to EC2 for Enhanced Kafka Performance](https://dev.to/hyperswitchio/transitioning-from-kubernetes-to-ec2-for-enhanced-kafka-performance-2nmi)
+- [Installing Kubernetes using kubeadm without installing docker in Ubuntu](https://dev.to/soram/installing-kubernetes-using-kubeadm-without-installing-docker-in-ubuntu-19bo)
 <!-- BLOG-POST-LIST:END -->
 
