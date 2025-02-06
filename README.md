@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Never write repro steps again! Because AI 🙌](https://dev.to/ivanhapz/never-write-repro-steps-again-because-ai-4i33)
-- [Hidden Issue with whereFulltext and RefreshDatabase in Laravel](https://dev.to/tegos/hidden-issue-with-wherefulltext-and-refreshdatabase-in-laravel-2p4f)
-- [How to Add a Local Package in a React Native Project](https://dev.to/amitkumar13/how-to-add-a-local-package-in-a-react-native-project-6mc)
-- [&quot;Unlocking Machine Learning: pyLOT and VUTECO for Enhanced Data Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-machine-learning-pylot-and-vuteco-for-enhanced-data-analysis-3o0o)
+- [AWS roadmap for beginners](https://dev.to/navya_80b0833279414f0acda/aws-roadmap-for-beginners-13jo)
+- [Event Emitters: The Superpower of Asynchronous User Registration](https://dev.to/fredabod/event-emitters-the-superpower-of-asynchronous-user-registration-513i)
+- [Falling Gracefully: The Art of Software Resilience](https://dev.to/itxshakil/falling-gracefully-the-art-of-software-resilience-1odg)
+- [Implementing and Administering Cisco Solutions &lpar;CCNA&rpar; v2.1: The Ultimate Guide for 2025](https://dev.to/rohan_jee_085655230/implementing-and-administering-cisco-solutions-ccna-v21-the-ultimate-guide-for-2025-og2)
 <!-- BLOG-POST-LIST:END -->
 
