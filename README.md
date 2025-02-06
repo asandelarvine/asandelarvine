@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m Understanding JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/krushna_sananse/im-understanding-javascript-closures-a-beginners-guide-47hd)
-- [A Simple Script for Exporting Domain Accounts &lpar;Requires Regex&rpar;](https://dev.to/excalibra/a-simple-script-for-exporting-domain-accounts-requires-regex-2od3)
-- [Is the Presumptive Taxation Scheme Under Section 44AD Right for Your Business?](https://dev.to/susheel_kumar/is-the-presumptive-taxation-scheme-under-section-44ad-right-for-your-business-42l1)
-- [Understanding the Lock-In Period under Section 44AD and 44ADA](https://dev.to/susheel_kumar/understanding-the-lock-in-period-under-section-44ad-and-44ada-206d)
+- [The Unexpected Struggle of Implementing Custom CAPTCHA on Linux](https://dev.to/vatana7/the-unexpected-struggle-of-implementing-custom-captcha-on-linux-1kh6)
+- [Problemas del Cap. 2 de Eloquent JavaScript](https://dev.to/math_doggo/problemas-del-cap-2-de-eloquent-javascript-4m7e)
+- [[Boost]](https://dev.to/xyz_oblivion/-3joe)
+- [Speed Up DB Queries Like a Pro](https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95)
 <!-- BLOG-POST-LIST:END -->
 
