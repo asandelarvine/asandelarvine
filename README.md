@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide on How to Develop an Ecommerce Website](https://dev.to/isabella_harry_e56dfaa53c/a-comprehensive-guide-on-how-to-develop-an-ecommerce-website-14ke)
-- [Secure Your Computer Against Unattended Access&lpar;Windows&rpar;](https://dev.to/fola2royal/secure-your-computer-against-unattended-accesswindows-2epm)
-- [Software Testing in 2025 – Emerging Trends and Technologies](https://dev.to/nicholaswinst14/software-testing-in-2025-emerging-trends-and-technologies-2jp2)
-- [Comprendre l&#39;Authentification JWT : De la Théorie à la Pratique](https://dev.to/pemochamdev/comprendre-lauthentification-jwt-de-la-theorie-a-la-pratique-3e3p)
+- [como criar leones](https://dev.to/ricardojavister/como-criar-leones-48bn)
+- [Host Resume on Amazon Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/ogooluwa/host-resume-on-amazon-elastic-kubernetes-service-eks-1i49)
+- [How to use QuaggaJS – a barcode scanner example for your website or web app](https://dev.to/astrodog-joshh/how-to-use-quaggajs-a-barcode-scanner-example-for-your-website-or-web-app-3omc)
+- [Understanding Security Assessment: Identifying Risks and Strengthening Protection](https://dev.to/annexustechnologies/understanding-security-assessment-identifying-risks-and-strengthening-protection-378k)
 <!-- BLOG-POST-LIST:END -->
 
