@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab CI/CD Pipeline for Django/Node Application Deployment on AWS EC2](https://dev.to/oncloud7/gitlab-cicd-pipeline-for-djangonodeapplication-deployment-on-aws-ec2-4djl)
-- [Sikander Behl: A Beacon of Hope and Humanitarian Excellence Amidst Delhi’s Challenges](https://dev.to/sumi_rathore_27824c76422e/sikander-behl-a-beacon-of-hope-and-humanitarian-excellence-amidst-delhis-challenges-6o6)
-- [A must read if you are passionate about cryptography or security.](https://dev.to/siddheshk02/a-must-read-if-you-are-passionate-about-cryptography-or-security-19ak)
-- [What Is DAST? A Guide to Dynamic Application Security Testing](https://dev.to/teamcity/what-is-dast-a-guide-to-dynamic-application-security-testing-3kb9)
+- [Atlas v0.31: pgvector support for your LLM-based apps, custom schema rules, and more](https://dev.to/atlasgoio/atlas-v031-pgvector-support-for-your-llm-apps-custom-schema-rules-and-more-2aen)
+- [Regex!](https://dev.to/thomasbnt/regex-3nd)
+- [Effortlessly Share Ollama API and Open WebUI Online](https://dev.to/lightningdev123/effortlessly-share-ollama-api-and-open-webui-online-1li2)
+- [Which Cloud Managed Services Subscription Plan Should You Choose?](https://dev.to/mehul_budasana/which-cloud-managed-services-subscription-plan-should-you-choose-47p8)
 <!-- BLOG-POST-LIST:END -->
 
