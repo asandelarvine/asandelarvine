@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Syntax and Data Types in Go](https://dev.to/godofgeeks/basic-syntax-and-data-types-in-go-1o4)
-- [Why Does Every Business Need Customer Service Management?](https://dev.to/aelum-consulting/why-does-every-business-need-customer-service-management-4g1n)
-- [# Best Practices for Project Management &lpar;Focused on Productivity, Not Meetings&rpar;](https://dev.to/trinly01/-best-practices-for-project-management-focused-on-productivity-not-meetings-248o)
-- [LLM Product Development in 2025 – The Ultimate Guide](https://dev.to/ezinsightsai/llm-product-development-in-2025-the-ultimate-guide-37f1)
+- [Monolithic Architecture vs. Microservices: Which One to Choose?](https://dev.to/thenamerahulkr/monolithic-architecture-vs-microservices-which-one-to-choose-5d68)
+- [Create an Airport Reservation System in C++ with Full Code](https://dev.to/airfrance/create-an-airport-reservation-system-in-c-with-full-code-417a)
+- [Just published my first web service - Automated security scanning for webapps](https://dev.to/devman42/just-published-my-first-web-service-automated-security-scanning-for-webapps-1amd)
+- [Docker Exercises: Part 1](https://dev.to/docker/docker-exercises-part-1-26mc)
 <!-- BLOG-POST-LIST:END -->
 
