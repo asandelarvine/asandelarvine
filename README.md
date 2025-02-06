@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 ES6 Features that Every Developer Should know](https://dev.to/trimech_sarah/top-10-es6-features-that-every-developer-should-know-419a)
-- [You can now embed Bluesky on DEV/Forem](https://dev.to/devteam/you-can-now-embed-bluesky-on-devforem-2ak1)
-- [Algorithims](https://dev.to/mohbohlahji/-586l)
-- [How does ChatGPT generate human-like text?](https://dev.to/trimech_sarah/how-does-chatgpt-generate-human-like-text-5c42)
+- [The RayCast Port Manager Extension](https://dev.to/nickytonline/the-raycast-port-manager-extension-lca)
+- [Bringing Multi-Agent AI to JavaScript with KaibanJS](https://dev.to/kaibanjs/bringing-multi-agent-ai-to-javascript-with-kaibanjs-4fo2)
+- [Simple QML models](https://dev.to/iomatix/simple-qml-models-539p)
+- [&#39;selenium.common.exceptions.SessionNotCreatedException&#39; Error using SeleniumBase](https://dev.to/zcodez777/seleniumcommonexceptionssessionnotcreatedexception-error-using-seleniumbase-9g9)
 <!-- BLOG-POST-LIST:END -->
 
