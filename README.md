@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Providing Storage for IT Department Testing and Training: A Simple Solution](https://dev.to/kelechiedeh/providing-storage-for-it-department-testing-and-training-a-simple-solution-2ped)
-- [Os 10 Melhores Acessórios de Informática para um Desenvolvedor](https://dev.to/marcosplusplus/os-10-melhores-acessorios-de-informatica-para-um-desenvolvedor-pke)
-- [Hi, We are Metacode!](https://dev.to/h_metacode_74e90df0ee5da6/hi-we-are-metacode-44a2)
-- [Hello Dev world](https://dev.to/precipex/hello-dev-world-59do)
+- [What Does Docker Do?](https://dev.to/sovannaro/what-does-docker-do-16jo)
+- [Vercel Fluid: Rendimiento de servidores tradicionales con la flexibilidad serverless](https://dev.to/jrobinsonc/vercel-fluid-rendimiento-de-servidores-tradicionales-con-la-flexibilidad-serverless-12ne)
+- [Best Practices for Optimizing Machine Learning Models on Multi-Cloud Platforms: Overcoming Infrastructure Challenges](https://dev.to/adityabhuyan/best-practices-for-optimizing-machine-learning-models-on-multi-cloud-platforms-overcoming-2j8c)
+- [Optimizing Python Back-End Performance: Best Practices](https://dev.to/janicehoover1989/optimizing-python-back-end-performance-best-practices-25ib)
 <!-- BLOG-POST-LIST:END -->
 
