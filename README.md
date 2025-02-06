@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AN INFORMAL PATH](https://dev.to/israa_ali_9e888b51e9bb073/an-informal-path-1om5)
-- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 3: Transactions](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-3n49)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/zilla_3449/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-5ec4)
-- [ToolSphere: The Ultimate Nexus of Advanced Web-Based Utilities](https://dev.to/abeleric/toolsphere-the-ultimate-nexus-of-advanced-web-based-utilities-3akf)
+- [Top 10 ES6 Features that Every Developer Should know](https://dev.to/trimech_sarah/top-10-es6-features-that-every-developer-should-know-419a)
+- [You can now embed Bluesky on DEV/Forem](https://dev.to/devteam/you-can-now-embed-bluesky-on-devforem-2ak1)
+- [Algorithims](https://dev.to/mohbohlahji/-586l)
+- [How does ChatGPT generate human-like text?](https://dev.to/trimech_sarah/how-does-chatgpt-generate-human-like-text-5c42)
 <!-- BLOG-POST-LIST:END -->
 
