@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Counter Mode - manually!](https://dev.to/moritzhoeppner/the-counter-mode-manually-4d0)
-- [ALways nit. to hear nice words....](https://dev.to/ivicac/always-nit-to-hear-nice-words-4c4n)
-- [Build a Notion-like editor with Rails](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-25mk)
-- [Next.js 15: Unleashing the Future of Web Development](https://dev.to/ahr_dev/nextjs-15-unleashing-the-future-of-web-development-18ke)
+- [AN INFORMAL PATH](https://dev.to/israa_ali_9e888b51e9bb073/an-informal-path-1om5)
+- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 3: Transactions](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-3n49)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/zilla_3449/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-5ec4)
+- [ToolSphere: The Ultimate Nexus of Advanced Web-Based Utilities](https://dev.to/abeleric/toolsphere-the-ultimate-nexus-of-advanced-web-based-utilities-3akf)
 <!-- BLOG-POST-LIST:END -->
 
