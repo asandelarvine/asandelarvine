@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [como criar leones](https://dev.to/ricardojavister/como-criar-leones-48bn)
-- [Host Resume on Amazon Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/ogooluwa/host-resume-on-amazon-elastic-kubernetes-service-eks-1i49)
-- [How to use QuaggaJS – a barcode scanner example for your website or web app](https://dev.to/astrodog-joshh/how-to-use-quaggajs-a-barcode-scanner-example-for-your-website-or-web-app-3omc)
-- [Understanding Security Assessment: Identifying Risks and Strengthening Protection](https://dev.to/annexustechnologies/understanding-security-assessment-identifying-risks-and-strengthening-protection-378k)
+- [GitLab CI/CD Pipeline for Django/Node Application Deployment on AWS EC2](https://dev.to/oncloud7/gitlab-cicd-pipeline-for-djangonodeapplication-deployment-on-aws-ec2-4djl)
+- [Sikander Behl: A Beacon of Hope and Humanitarian Excellence Amidst Delhi’s Challenges](https://dev.to/sumi_rathore_27824c76422e/sikander-behl-a-beacon-of-hope-and-humanitarian-excellence-amidst-delhis-challenges-6o6)
+- [A must read if you are passionate about cryptography or security.](https://dev.to/siddheshk02/a-must-read-if-you-are-passionate-about-cryptography-or-security-19ak)
+- [What Is DAST? A Guide to Dynamic Application Security Testing](https://dev.to/teamcity/what-is-dast-a-guide-to-dynamic-application-security-testing-3kb9)
 <!-- BLOG-POST-LIST:END -->
 
