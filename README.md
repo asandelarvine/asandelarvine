@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking 101: Part 1](https://dev.to/himanshu_bhatt/networking-101-part-1-1222)
-- [OSD700: Sprint 2 - Results](https://dev.to/amullagaliev/osd700-sprint-2-results-8kg)
-- [Check which shared folders a user has relevant permissions on, and remove those permissions](https://dev.to/excalibra/check-which-shared-folders-a-user-has-relevant-permissions-on-and-remove-those-permissions-d69)
-- [5 Tips to Level Up as an Angular Developer in 2025](https://dev.to/rating_rai_/5-tips-to-level-up-as-an-angular-developer-in-2025-2elc)
+- [I’m Understanding JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/krushna_sananse/im-understanding-javascript-closures-a-beginners-guide-47hd)
+- [A Simple Script for Exporting Domain Accounts &lpar;Requires Regex&rpar;](https://dev.to/excalibra/a-simple-script-for-exporting-domain-accounts-requires-regex-2od3)
+- [Is the Presumptive Taxation Scheme Under Section 44AD Right for Your Business?](https://dev.to/susheel_kumar/is-the-presumptive-taxation-scheme-under-section-44ad-right-for-your-business-42l1)
+- [Understanding the Lock-In Period under Section 44AD and 44ADA](https://dev.to/susheel_kumar/understanding-the-lock-in-period-under-section-44ad-and-44ada-206d)
 <!-- BLOG-POST-LIST:END -->
 
