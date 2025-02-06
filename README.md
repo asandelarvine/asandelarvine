@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leitura Atual: Começando &#39;Data Science do Zero&#39;](https://dev.to/leticiaoliv/leitura-atual-comecando-data-science-do-zero-kd)
-- [Exploratory Testing Report for Cars.ng](https://dev.to/yeeshadev/exploratory-testing-report-for-carsng-bop)
-- [Exploring JavaScript: Higher Order Functions, Callbacks, Closures, the Event Loop and Classes](https://dev.to/mobolanleadebesin/exploring-javascript-higher-order-functions-callbacks-closures-the-event-loop-and-classes-6f5)
-- [Understanding Network Interfaces: Loopback, Local IPs, and Public IPs](https://dev.to/leapcell/understanding-network-interfaces-loopback-local-ips-and-public-ips-2p47)
+- [The Counter Mode - manually!](https://dev.to/moritzhoeppner/the-counter-mode-manually-4d0)
+- [ALways nit. to hear nice words....](https://dev.to/ivicac/always-nit-to-hear-nice-words-4c4n)
+- [Build a Notion-like editor with Rails](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-25mk)
+- [Next.js 15: Unleashing the Future of Web Development](https://dev.to/ahr_dev/nextjs-15-unleashing-the-future-of-web-development-18ke)
 <!-- BLOG-POST-LIST:END -->
 
