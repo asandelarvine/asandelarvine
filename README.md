@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [hibernate-003: @IdClass&lpar;PaymentId.class&rpar;](https://dev.to/hunor85/hibernate-003-idclasspaymentidclass-46bn)
-- [Unlock the Hidden Goldmine: How Integrating Public &amp; Private APIs Can Transform Your Data-Driven Content](https://dev.to/okoye_ndidiamaka_5e3b7d30/unlock-the-hidden-goldmine-how-integrating-public-private-apis-can-transform-your-data-driven-43dk)
-- [Executing Usability Tests For Mobile Apps](https://dev.to/abhayit2000/executing-usability-tests-for-mobile-apps-43mi)
-- [Using Technology to Bridge Learning Gaps with Bright Mind Enrichment](https://dev.to/rishabh_bansal_e6395b83e3/using-technology-to-bridge-learning-gaps-with-bright-mind-enrichment-1110)
+- [The Open-source SPL Boosts MongoDB Computing Ability](https://dev.to/esproc_spl/the-open-source-spl-boosts-mongodb-computing-ability-4p3m)
+- [make npmi](https://dev.to/erkantaylan/make-npmi-534p)
+- [Trustless Large Language Models&lpar;LLMs&rpar;](https://dev.to/amio13/trustless-large-language-modelsllms-5eg4)
+- [Concierge AI &lpar;Got +700 Upvotes on Launch Day&rpar;](https://dev.to/mehmetakar/concierge-ai-got-700-upvotes-on-launch-day-fo8)
 <!-- BLOG-POST-LIST:END -->
 
