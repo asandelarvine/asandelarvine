@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reddit Roundup of Reactions to the DeepSeek Saga](https://dev.to/aigurux/a-reddit-roundup-of-reactions-to-the-deepseek-saga-27l)
-- [Grateful for 2024, Inspired for 2025](https://dev.to/anuradhakumari/grateful-for-2024-inspired-for-2025-11o)
-- [Lang-Translate CLI](https://dev.to/riddhi_dhara_a9cbd38d7342/lang-translate-cli-m4m)
-- [Using the VAS6154A OBD Scanner Remotely with FlexiHub](https://dev.to/diana75082290/using-the-vas6154a-obd-scanner-remotely-with-flexihub-2204)
+- [From Diploma to B.Tech &amp; Full-Time Job: How I Balanced Work &amp; Studies in Tech](https://dev.to/jaydeep_kr_sahu/from-diploma-to-btech-full-time-job-how-i-balanced-work-studies-in-tech-12ip)
+- [Tenant Based Filtering: Apache Superset](https://dev.to/datamonk_/tenant-based-filtering-apache-superset-5db7)
+- [Introducing Zerodayf, A dynamic, AI-driven code analysis vulnerability scanner](https://dev.to/0xhamy/introducing-zerodayf-a-dynamic-ai-driven-code-analysis-vulnerability-scanner-pca)
+- [Friendly Guide to Functional Testing: Techniques, Steps, and Benefits](https://dev.to/lovestaco/friendly-guide-to-functional-testing-techniques-steps-and-benefits-515p)
 <!-- BLOG-POST-LIST:END -->
 
