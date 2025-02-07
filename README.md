@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript scripts in the command line: Using Node.JS](https://dev.to/rerodrigues/typescript-scripts-in-the-command-line-using-nodejs-9ad)
-- [AWS WAF Intro Guide](https://dev.to/alexeybaltacov/aws-waf-intro-guide-25a3)
-- [Building Secure Web3 Ecosystems: Lessons from Centralized Crypto Exchanges](https://dev.to/sergi_web3/building-secure-web3-ecosystems-lessons-from-centralized-crypto-exchanges-jo3)
-- [Herramienta de Cumplimiento Regulatorio para Empresas Chilenas](https://dev.to/tyan99/herramienta-de-cumplimiento-regulatorio-para-empresas-chilenas-3mg2)
+- [For, Four Ways: Mastering Loops in Go](https://dev.to/apondiart/for-four-ways-mastering-loops-in-go-5a6o)
+- [🚀Begini Cara Saya Percepat Proses Workflows di GitHub Actions](https://dev.to/ferryops/begini-cara-saya-percepat-proses-workflows-di-github-actions-43h)
+- [Looks cool!](https://dev.to/rjonesy/looks-cool-43oj)
+- [War Has Changed: Google’s AI Ethics Shift Sparks a New Battlefield](https://dev.to/madds/war-has-changed-googles-ai-ethics-shift-sparks-a-new-battlefield-h8)
 <!-- BLOG-POST-LIST:END -->
 
