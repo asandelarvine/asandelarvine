@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [For, Four Ways: Mastering Loops in Go](https://dev.to/apondiart/for-four-ways-mastering-loops-in-go-5a6o)
-- [🚀Begini Cara Saya Percepat Proses Workflows di GitHub Actions](https://dev.to/ferryops/begini-cara-saya-percepat-proses-workflows-di-github-actions-43h)
-- [Looks cool!](https://dev.to/rjonesy/looks-cool-43oj)
-- [War Has Changed: Google’s AI Ethics Shift Sparks a New Battlefield](https://dev.to/madds/war-has-changed-googles-ai-ethics-shift-sparks-a-new-battlefield-h8)
+- [#140 — Generate Continuous Arrays](https://dev.to/judith677/140-generate-continuous-arrays-4amd)
+- [O que é a Ativei Digital?](https://dev.to/pablostorymaker/o-que-e-a-ativei-digital-21o0)
+- [Blasting Off With Astro](https://dev.to/mattwillis/blasting-off-with-astro-c2p)
+- [GBASE数据库 | GBase 8a Cluster Automated Installation and Deployment Using ansible](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8a-cluster-automated-installation-and-deployment-using-ansible-a98)
 <!-- BLOG-POST-LIST:END -->
 
