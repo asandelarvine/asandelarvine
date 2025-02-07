@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Key Concepts &lpar;I&rpar;: Ownership System](https://dev.to/jolisper/rust-key-concepts-i-ownership-system-1mnm)
-- [Im a beginner developer i studied php mysql any project ideas i can build on](https://dev.to/lawrence_mayo01/im-a-beginner-developer-i-studied-php-mysql-any-project-ideas-i-can-build-on-1dh6)
-- [Marketing Insight Report](https://dev.to/faith_muluu/marketing-insight-report-3fi2)
-- [A Step-by-Step Guide to Creating SEO-Friendly Websites with Next.js](https://dev.to/raji_moshood_ee3a4c2638f6/a-step-by-step-guide-to-creating-seo-friendly-websites-with-nextjs-3p88)
+- [Creating a Browser Extension in 2025](https://dev.to/1ce/creating-a-browser-extension-in-2025-4h0)
+- [How I Built a SpeedtestTracker with Raspberry PI and AWS Lambda](https://dev.to/duncanlew/how-i-built-a-speedtesttracker-with-raspberry-pi-and-aws-lambda-5d6n)
+- [Infrastructure as Code: Creating an AWS EC2 Instance with Terraform](https://dev.to/prajwal_kp/infrastructure-as-code-creating-an-aws-ec2-instance-with-terraform-3074)
+- [How to Deploy Azure Pipeline Agent on EKS with Auto Scaling!](https://dev.to/alex_galperin_0cecc4a9bc2/how-to-deploy-azure-pipeline-agent-on-eks-with-auto-scaling-5fjo)
 <!-- BLOG-POST-LIST:END -->
 
