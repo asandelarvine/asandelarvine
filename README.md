@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Practical DeepSeek R1 Prompts for Coding](https://dev.to/apilover/10-practical-deepseek-r1-prompts-for-coding-16c3)
-- [Smart Contract Security](https://dev.to/fobabs/smart-contract-security-3584)
-- [Self-Updating Widgets &lpar;No Manual Changes!&rpar;](https://dev.to/shruti_jain_98b67e0d65330/self-updating-widgets-no-manual-changes-400i)
-- [Hello Dev Community! I’m Faizan Habib 👋](https://dev.to/faizanhabib/hello-dev-community-im-faizan-habib-3k02)
+- [[Boost]](https://dev.to/jnn5/-2jg1)
+- [Cordova vs Android System Webview.](https://dev.to/andrius_geciauskas_b9e550/cordova-vs-android-system-webview-260c)
+- [How to Deploy a Website on GitHub Pages and AWS EC2: A Step-by-Step Guide](https://dev.to/leonardkachi/how-to-deploy-a-website-on-github-pages-and-aws-ec2-a-step-by-step-guide-3j6k)
+- [How to Create a Crypto Trading Bot with CryptoTradeMate](https://dev.to/ctm8/how-to-create-a-crypto-trading-bot-with-cryptotrademate-236c)
 <!-- BLOG-POST-LIST:END -->
 
