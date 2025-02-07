@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Omni-Modal Understanding: The Rise of Ola and WorldSense&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-omni-modal-understanding-the-rise-of-ola-and-worldsense-4f8e)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4bdk)
-- [Bring Your Website to Life with GSAP Animations 🚀](https://dev.to/lumineth/bring-your-website-to-life-with-gsap-animations-2ko8)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/shigophobia/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-39e0)
+- [Leveraging LinkedIn for Career Changes: Rebranding Yourself on LinkedIn](https://dev.to/resumewriting_services/leveraging-linkedin-for-career-changes-rebranding-yourself-on-linkedin-3m9d)
+- [Deploying Qwen-2.5 Model on AWS Using Amazon SageMaker AI](https://dev.to/aws-builders/deploying-qwen-25-model-on-aws-using-amazon-sagemaker-ai-mn9)
+- [The Code Behind the Lens: Developing Web Applications for Automated Door Control Step by Step](https://dev.to/emily_johnson_dev/the-code-behind-the-lens-developing-web-applications-for-automated-door-control-step-by-step-2lfd)
+- [React na Prática: Lidando com requisições HTTP](https://dev.to/alvarogfn/react-na-pratica-lidando-com-requisicoes-http-524j)
 <!-- BLOG-POST-LIST:END -->
 
