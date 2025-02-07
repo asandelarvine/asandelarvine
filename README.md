@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs GraphQL](https://dev.to/godofgeeks/rest-vs-graphql-k3k)
-- [Advanced API Spec Management with AI: Shaping the Future of API Editing](https://dev.to/getambassador2024/advanced-api-spec-management-with-ai-shaping-the-future-of-api-editing-5641)
-- [🚀 10 Angular Hacks Every Developer Should Know](https://dev.to/abhay_yt_52a8e72b213be229/-10-angular-hacks-every-developer-should-know-5638)
-- [The Best 3 ReactJS Free GeoGuessr Alternatives for 2025](https://dev.to/marek_020e8a8dbae0260a69d/the-best-3-reactjs-free-geoguessr-alternatives-for-2025-56c1)
+- [Building a Serverless Number Classification API with AWS Lambda and API Gateway](https://dev.to/goodluck_ekeoma_2c98866d0/building-a-serverless-number-classification-api-with-aws-lambda-and-api-gateway-20fh)
+- [Market Trends in AI And CyberSecurity in 2025.](https://dev.to/devmercy/market-trends-in-ai-and-cybersecurity-in-2025-29ie)
+- [&quot;Unveiling LLM Vulnerabilities: The SPEAK EASY Framework Explained&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-llm-vulnerabilities-the-speak-easy-framework-explained-373o)
+- [Best Browser for 2025: Finding the Right Fit for You](https://dev.to/swiftproxy_residential/best-browser-for-2025-finding-the-right-fit-for-you-3nm3)
 <!-- BLOG-POST-LIST:END -->
 
