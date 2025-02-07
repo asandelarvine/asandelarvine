@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open-source SPL Boosts MongoDB Computing Ability](https://dev.to/esproc_spl/the-open-source-spl-boosts-mongodb-computing-ability-4p3m)
-- [make npmi](https://dev.to/erkantaylan/make-npmi-534p)
-- [Trustless Large Language Models&lpar;LLMs&rpar;](https://dev.to/amio13/trustless-large-language-modelsllms-5eg4)
-- [Concierge AI &lpar;Got +700 Upvotes on Launch Day&rpar;](https://dev.to/mehmetakar/concierge-ai-got-700-upvotes-on-launch-day-fo8)
+- [10 Practical DeepSeek R1 Prompts for Coding](https://dev.to/apilover/10-practical-deepseek-r1-prompts-for-coding-16c3)
+- [Smart Contract Security](https://dev.to/fobabs/smart-contract-security-3584)
+- [Self-Updating Widgets &lpar;No Manual Changes!&rpar;](https://dev.to/shruti_jain_98b67e0d65330/self-updating-widgets-no-manual-changes-400i)
+- [Hello Dev Community! I’m Faizan Habib 👋](https://dev.to/faizanhabib/hello-dev-community-im-faizan-habib-3k02)
 <!-- BLOG-POST-LIST:END -->
 
