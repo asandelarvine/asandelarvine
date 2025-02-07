@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get API Keys for Google and Facebook Authentication ?](https://dev.to/rutvikmakvana4/how-to-get-api-keys-for-google-and-facebook-authentication--4nbk)
-- [🚀 Your Daily Crypto Job Digest For 07 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-07-february-2l9)
-- [A Comprehensive Guide to the Domains of AI](https://dev.to/priya_naik_513dae9128e2a9/a-comprehensive-guide-to-the-domains-of-ai-5b31)
-- [About Micrometer Context Propagation](https://dev.to/be-hase/about-micrometer-context-propagation-5gg9)
+- [How to Implement Email Verification in Laravel Without User Registration?](https://dev.to/siraw_tadesse/how-to-implement-email-verification-in-laravel-without-user-registration-7f2)
+- [RandomAffine in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-1-ncp)
+- [Supercharge your React App With These Top 12 Expert Tricks ⚡](https://dev.to/codelamda/supercharge-your-react-app-with-these-top-12-expert-tricks-3dfn)
+- [while loop programes - sum and count](https://dev.to/hema_latha/while-loop-programes-sum-and-count-32ii)
 <!-- BLOG-POST-LIST:END -->
 
