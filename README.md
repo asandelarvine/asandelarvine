@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jnn5/-2jg1)
-- [Cordova vs Android System Webview.](https://dev.to/andrius_geciauskas_b9e550/cordova-vs-android-system-webview-260c)
-- [How to Deploy a Website on GitHub Pages and AWS EC2: A Step-by-Step Guide](https://dev.to/leonardkachi/how-to-deploy-a-website-on-github-pages-and-aws-ec2-a-step-by-step-guide-3j6k)
-- [How to Create a Crypto Trading Bot with CryptoTradeMate](https://dev.to/ctm8/how-to-create-a-crypto-trading-bot-with-cryptotrademate-236c)
+- [How to Get API Keys for Google and Facebook Authentication ?](https://dev.to/rutvikmakvana4/how-to-get-api-keys-for-google-and-facebook-authentication--4nbk)
+- [🚀 Your Daily Crypto Job Digest For 07 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-07-february-2l9)
+- [A Comprehensive Guide to the Domains of AI](https://dev.to/priya_naik_513dae9128e2a9/a-comprehensive-guide-to-the-domains-of-ai-5b31)
+- [About Micrometer Context Propagation](https://dev.to/be-hase/about-micrometer-context-propagation-5gg9)
 <!-- BLOG-POST-LIST:END -->
 
