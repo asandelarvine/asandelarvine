@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging LinkedIn for Career Changes: Rebranding Yourself on LinkedIn](https://dev.to/resumewriting_services/leveraging-linkedin-for-career-changes-rebranding-yourself-on-linkedin-3m9d)
-- [Deploying Qwen-2.5 Model on AWS Using Amazon SageMaker AI](https://dev.to/aws-builders/deploying-qwen-25-model-on-aws-using-amazon-sagemaker-ai-mn9)
-- [The Code Behind the Lens: Developing Web Applications for Automated Door Control Step by Step](https://dev.to/emily_johnson_dev/the-code-behind-the-lens-developing-web-applications-for-automated-door-control-step-by-step-2lfd)
-- [React na Prática: Lidando com requisições HTTP](https://dev.to/alvarogfn/react-na-pratica-lidando-com-requisicoes-http-524j)
+- [A Reddit Roundup of Reactions to the DeepSeek Saga](https://dev.to/aigurux/a-reddit-roundup-of-reactions-to-the-deepseek-saga-27l)
+- [Grateful for 2024, Inspired for 2025](https://dev.to/anuradhakumari/grateful-for-2024-inspired-for-2025-11o)
+- [Lang-Translate CLI](https://dev.to/riddhi_dhara_a9cbd38d7342/lang-translate-cli-m4m)
+- [Using the VAS6154A OBD Scanner Remotely with FlexiHub](https://dev.to/diana75082290/using-the-vas6154a-obd-scanner-remotely-with-flexihub-2204)
 <!-- BLOG-POST-LIST:END -->
 
