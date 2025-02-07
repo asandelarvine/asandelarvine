@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Regression Testing: How Genqe.ai is Transforming QA Efficiency](https://dev.to/radha_4c842d8e4362a7cdd9c/automated-regression-testing-how-genqeai-is-transforming-qa-efficiency-3l76)
-- [#140 — Generate Continuous Arrays](https://dev.to/judith677/140-generate-continuous-arrays-4amd)
-- [Best Web Scraping Browser | Utilizing Browserless AI to Intelligently Extract Data](https://dev.to/scraper0024/best-web-scraping-browser-utilizing-browserless-ai-to-intelligently-extract-data-28ik)
-- [Install-DeepSeek_Ollama-on-AWS-EC2](https://dev.to/enriqueaguila/install-deepseekollama-on-aws-ec2-223j)
+- [I developed an AI-Excel tool website](https://dev.to/alcor_zsm/i-developed-an-ai-excel-tool-website-146h)
+- [a simple solution to escape maze](https://dev.to/jeffliulab/a-simple-solution-to-escape-maze-onc)
+- [Implementation of Singleton Design Pattern in React](https://dev.to/nashirjamali/implementation-of-singleton-design-pattern-in-react-5dma)
+- [Portfolio - About Me](https://dev.to/onlinedevelopers/portfolio-about-me-1lhk)
 <!-- BLOG-POST-LIST:END -->
 
