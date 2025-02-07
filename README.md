@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One simple trick to increase Stimulus.js legacy browser compatibility](https://dev.to/mtimofiiv/one-simple-trick-to-increase-stimulusjs-legacy-browser-compatibility-2oih)
-- [Top Cybersecurity Trends and Essential Tips to Stay Secure in 2025 – Insights by Najib Ziazi](https://dev.to/najibziazi/top-cybersecurity-trends-and-essential-tips-to-stay-secure-in-2025-insights-by-najib-ziazi-5bmn)
-- [Rails Designer v1.13: Updated to Tailwind CSS v4](https://dev.to/railsdesigner/rails-designer-v113-updated-to-tailwind-css-v4-5a96)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ean)
+- [AWS Aurora DSQL for Django Developers: A Step-by-Step Guide](https://dev.to/aws-builders/aws-aurora-dsql-for-django-developers-a-step-by-step-guide-4pah)
+- [🚀 Low-Code &amp; No-Code Development: Revolutionizing How We Build Apps](https://dev.to/dct_technologyprivatelimited/low-code-no-code-development-revolutionizing-how-we-build-apps-3hib)
+- [It feels like you can&#39;t reach simplicity with REST nor graphql, when it comes to joins. With graphql, the resolvers get complicated. With REST, it&#39;s easier to join the data using sql/orm, but then there is more boilerplate serializing the joining data.](https://dev.to/codewander/it-feels-like-you-cant-reach-simplicity-with-rest-nor-graphql-when-it-comes-to-joins-with-67i)
+- [Practical Strategies to Boost Confidence in Your Coding Skills](https://dev.to/jps27cse/practical-strategies-to-boost-confidence-in-your-coding-skills-37nk)
 <!-- BLOG-POST-LIST:END -->
 
