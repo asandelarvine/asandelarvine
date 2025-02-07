@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Email Verification in Laravel Without User Registration?](https://dev.to/siraw_tadesse/how-to-implement-email-verification-in-laravel-without-user-registration-7f2)
-- [RandomAffine in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-1-ncp)
-- [Supercharge your React App With These Top 12 Expert Tricks ⚡](https://dev.to/codelamda/supercharge-your-react-app-with-these-top-12-expert-tricks-3dfn)
-- [while loop programes - sum and count](https://dev.to/hema_latha/while-loop-programes-sum-and-count-32ii)
+- [Avoiding Email Hacks: The Bat! Security Best Practices](https://dev.to/yasir252_my/avoiding-email-hacks-the-bat-security-best-practices-4a77)
+- [Exploring Alternatives to Docusaurus for Building Documentation Websites](https://dev.to/sovannaro/exploring-alternatives-to-docusaurus-for-building-documentation-websites-4n56)
+- [Amazing Gradio Batch Processing APP For Newest SOTA Open Source Background Remover Model BiRefNet HR](https://dev.to/furkangozukara/amazing-gradio-batch-processing-app-for-newest-sota-open-source-background-remover-model-birefnet-hr-pda)
+- [Introducing MedoPace:YourPortal to the Future of Gaming and Metaverse by VirtuPace](https://dev.to/press_release384/introducing-medopaceyourportal-to-the-future-of-gaming-and-metaverse-by-virtupace-15gi)
 <!-- BLOG-POST-LIST:END -->
 
