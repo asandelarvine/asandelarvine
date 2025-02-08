@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In 2025: The Future of Automation Testing: Adapting to AI Model Validation](https://dev.to/tak089/the-future-of-automation-testing-adapting-to-ai-model-validation-48k6)
-- [Reduce AI Training Costs with Neurolov AI’s Browser-Based GPU Platform](https://dev.to/neurolov_ai_/reduce-ai-training-costs-with-neurolov-ais-browser-based-gpu-platform-2oco)
-- [New NPM Package in Dev Town!!!](https://dev.to/codetirtho97/new-npm-package-in-dev-town-3go4)
-- [Google Drive tips and tricks to help you work more efficiently](https://dev.to/devops_den/google-drive-tips-and-tricks-to-help-you-work-more-efficiently-1hg2)
+- [Load Balancing Strategies](https://dev.to/godofgeeks/load-balancing-strategies-40hn)
+- [AI-Powered System Automates Medical Image Analysis with SAM Models, Boosting Speed and Accuracy](https://dev.to/mikeyoung44/ai-powered-system-automates-medical-image-analysis-with-sam-models-boosting-speed-and-accuracy-3b56)
+- [Memory-Efficient AI Training Method Cuts Memory Use by 75% While Maintaining Accuracy](https://dev.to/mikeyoung44/memory-efficient-ai-training-method-cuts-memory-use-by-75-while-maintaining-accuracy-2d9c)
+- [Poisoned MRI Images Can Reduce Brain Tumor Detection Accuracy by 27%, Study Shows](https://dev.to/mikeyoung44/poisoned-mri-images-can-reduce-brain-tumor-detection-accuracy-by-27-study-shows-3fj2)
 <!-- BLOG-POST-LIST:END -->
 
