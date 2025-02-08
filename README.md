@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/thestandardguy_220cf14772/-414m)
-- [Untitled](https://dev.to/liam_allard_62404aab94a8c/untitled-1egg)
-- [Navigating the Financial Landscape: Open Source Project Financial Tools](https://dev.to/lisa_strato/navigating-the-financial-landscape-open-source-project-financial-tools-nb5)
-- [About High Aspiration](https://dev.to/shrsv/about-high-aspiration-2i1f)
+- [Deploying a Serverless Hugging Face LLM with AWS Lambda](https://dev.to/gbenga_ifeoluwasaola_397/deploying-a-serverless-hugging-face-llm-with-aws-lambda-1732)
+- [Updating User Settings Without a Save Button](https://dev.to/jessalejo/updating-user-settings-without-a-save-button-3llj)
+- [Moving to a New Town? Let Me Make It Easier for You.](https://dev.to/eloho/moving-to-a-new-town-let-me-make-it-easier-for-you-gdi)
+- [Daily Quantum Learning #7 - Quantum Error Correction Basics](https://dev.to/quantumashx/daily-quantum-learning-7-quantum-error-correction-basics-2gc3)
 <!-- BLOG-POST-LIST:END -->
 
