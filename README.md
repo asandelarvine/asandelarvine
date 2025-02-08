@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File Upload in Laravel and Vue.js](https://dev.to/robin-ivi/-13i3)
-- [How to protect yourself against cyber threats](https://dev.to/daniellacatus/how-to-protect-yourself-against-cyber-threats-3m7m)
-- [What should I learn after Javascript?](https://dev.to/aqsa_zafar_3f878997dae27e/what-should-i-learn-after-javascript-2lop)
-- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-4349)
+- [🚀 How Kotlin is Powering Modern Web Development Projects](https://dev.to/dct_technologyprivatelimited/how-kotlin-is-powering-modern-web-development-projects-1732)
+- [🔍 Understanding Superglobal Variables in PHP: A Developer’s Secret Weapon!](https://dev.to/dct_technologyprivatelimited/understanding-superglobal-variables-in-php-a-developers-secret-weapon-1cbi)
+- [Security](https://dev.to/techie_1414/security-21mk)
+- [My First Year at an Aussie Company &lpar;from Singapore and previously China&rpar;](https://dev.to/jennieji/my-first-year-at-an-aussie-company-from-singapore-and-previously-china-1e0f)
 <!-- BLOG-POST-LIST:END -->
 
