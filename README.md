@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Serverless Functions: A Beginner’s Guide to AWS Lambda and Vercel](https://dev.to/raji_moshood_ee3a4c2638f6/exploring-serverless-functions-a-beginners-guide-to-aws-lambda-and-vercel-4ji5)
-- [Blast Off with Vercel: Your Launchpad for Next-Gen Web Deployments](https://dev.to/ravindu_sasanke_1/blast-off-with-vercel-your-launchpad-for-next-gen-web-deployments-p2e)
-- [How Next.js 14 is Revolutionizing the Front-End Experience](https://dev.to/raji_moshood_ee3a4c2638f6/how-nextjs-14-is-revolutionizing-the-front-end-experience-44jh)
-- [PPSSPP or psp? Uncovering bugs from the past](https://dev.to/pvsdev/ppsspp-or-psp-uncovering-bugs-from-the-past-2919)
+- [m files in GitHub](https://dev.to/luisaconsiglieri/m-files-in-github-5c0n)
+- [How is RFID Asset Tracking Different from Other Asset Tracking Solutions?](https://dev.to/seleam/how-is-rfid-asset-tracking-different-from-other-asset-tracking-solutions-5flm)
+- [How AI is Transforming Supply Chain Optimization: A Developer’s Perspective](https://dev.to/devopsmirc/how-ai-is-transforming-supply-chain-optimization-a-developers-perspective-2k9o)
+- [Bloom Filters Made Easy: Python Code &amp; Explanation 🐍](https://dev.to/leapcell/bloom-filters-made-easy-python-code-explanation-4ce9)
 <!-- BLOG-POST-LIST:END -->
 
