@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Chat App using React and Firebase 🔥 🌐](https://dev.to/hanzla-baig/chat-app-using-react-and-firebase-5hmk)
-- [Integrating Payment Gateways &lpar;e.g., Paystack or Stripe&rpar; in Your Web Apps](https://dev.to/raji_moshood_ee3a4c2638f6/integrating-payment-gateways-eg-paystack-or-stripe-in-your-web-apps-o06)
-- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-gd1)
-- [When using an S3-compatible Object Storage, be cautious when upgrading **SDK for Java 2.x** to version **2.30.0 or later**](https://dev.to/be-hase/when-using-an-s3-compatible-object-storage-be-cautious-when-upgrading-sdk-for-java-2x-to-3ce3)
+- [Debugging Node.js Applications Like a Pro: Tools and Techniques](https://dev.to/raji_moshood_ee3a4c2638f6/debugging-nodejs-applications-like-a-pro-tools-and-techniques-5fh1)
+- [Alibaba Cloud AI Search Solution Explained: Intelligent Search Driven by Large Language Models, Helping Enterprises in Digital](https://dev.to/a_lucas/alibaba-cloud-ai-search-solution-explained-intelligent-search-driven-by-large-language-models-h14)
+- [Rust for AI Engineers: Unleashing the Power of Performance and Safety](https://dev.to/mbayoun95/rust-for-ai-engineers-unleashing-the-power-of-performance-and-safety-5396)
+- [Answer: How can I add a static assert to check if a variable is static?](https://dev.to/dobby33/answer-how-can-i-add-a-static-assert-to-check-if-a-variable-is-static-2gjj)
 <!-- BLOG-POST-LIST:END -->
 
