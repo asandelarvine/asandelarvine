@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Talent Acquisition Software](https://dev.to/albertocubeddu/ai-talent-acquisition-software-15lj)
-- [My Exploratory Testing Journey on Cars.ng](https://dev.to/owolabi_farouqmaku_7bc5a/my-exploratory-testing-journey-on-carsng-5ded)
-- [The Language of the Digital Soul: Creating Sensory Experiences with Code and Smart Data](https://dev.to/justina_ockoner_7661/the-language-of-the-digital-soul-creating-sensory-experiences-with-code-and-smart-data-342p)
-- [Day 1098 : Runnin&#39;](https://dev.to/dwane/day-1098-runnin-26ic)
+- [🚀 Chat App using React and Firebase 🔥 🌐](https://dev.to/hanzla-baig/chat-app-using-react-and-firebase-5hmk)
+- [Integrating Payment Gateways &lpar;e.g., Paystack or Stripe&rpar; in Your Web Apps](https://dev.to/raji_moshood_ee3a4c2638f6/integrating-payment-gateways-eg-paystack-or-stripe-in-your-web-apps-o06)
+- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-gd1)
+- [When using an S3-compatible Object Storage, be cautious when upgrading **SDK for Java 2.x** to version **2.30.0 or later**](https://dev.to/be-hase/when-using-an-s3-compatible-object-storage-be-cautious-when-upgrading-sdk-for-java-2x-to-3ce3)
 <!-- BLOG-POST-LIST:END -->
 
