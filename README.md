@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Ultimate, Comprehensive Guide to Debugging JavaScript Like a Pro 🔍](https://dev.to/hanzla-baig/the-ultimate-comprehensive-guide-to-debugging-javascript-like-a-pro-1612)
-- [Navigating the Future of Open Source Funding](https://dev.to/lisa_strato/navigating-the-future-of-open-source-funding-mdb)
-- [Are small language model going to change the future?](https://dev.to/mcqueen/are-small-language-model-going-to-change-the-future-157l)
-- [All the latest feature releases, updates and announcements of AWS re:Invent 2024](https://dev.to/aws-builders/all-the-latest-feature-releases-updates-and-announcements-of-aws-reinvent-2024-433)
+- [&quot;Unlocking the Future: The Power of Omni-Modal Language Models Like Ola&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-the-power-of-omni-modal-language-models-like-ola-126b)
+- [AI Technology Support: Momo and Topo&#39;s Interaction](https://dev.to/topopet/ai-technology-support-momo-and-topos-interaction-3eh)
+- [How to Use LangChain for AI Workflow Automation](https://dev.to/koolkamalkishor/how-to-use-langchain-for-ai-workflow-automation-1i94)
+- [The Future of Open-Source LLMs vs. Proprietary AI Models](https://dev.to/koolkamalkishor/the-future-of-open-source-llms-vs-proprietary-ai-models-4j68)
 <!-- BLOG-POST-LIST:END -->
 
