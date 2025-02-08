@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to AWS Academy](https://dev.to/harsh_mehta/a-beginners-guide-to-aws-academy-1p5i)
-- [Introducing Tensor++](https://dev.to/suvrayan_bandyopadhyay/introducing-tensor-3f61)
-- [Why Cache Isn&#39;t Shared Across Sites: Double-keyed Caching Explained](https://dev.to/leapcell/why-cache-isnt-shared-across-sites-double-keyed-caching-explained-5389)
-- [My 3-Day Python Journey: From Basics to Brilliance 🚀](https://dev.to/shreyansh_19_kumar/my-3-day-python-journey-from-basics-to-brilliance-2jk0)
+- [Trending 30 Articles to Read by Every Python Developers.](https://dev.to/dev-resources/trending-30-articles-to-read-by-every-python-developers-1fn1)
+- [Object reference not set to an instance of an object.](https://dev.to/emmanuel_fiadufe_6b7d3037/object-reference-not-set-to-an-instance-of-an-object-4b4h)
+- [Java Game Coding: A Beginner&#39;s Guide to Creating Engaging Games](https://dev.to/devme/java-game-coding-a-beginners-guide-to-creating-engaging-games-52kh)
+- [Building Mobile Apps Tiresome? Learn how PWAs can get it done with minimal effort!](https://dev.to/rijultp/building-mobile-apps-tiresome-learn-how-pwas-can-get-it-done-with-minimal-effort-5f7k)
 <!-- BLOG-POST-LIST:END -->
 
