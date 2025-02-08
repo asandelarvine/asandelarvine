@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancing Strategies](https://dev.to/godofgeeks/load-balancing-strategies-40hn)
-- [AI-Powered System Automates Medical Image Analysis with SAM Models, Boosting Speed and Accuracy](https://dev.to/mikeyoung44/ai-powered-system-automates-medical-image-analysis-with-sam-models-boosting-speed-and-accuracy-3b56)
-- [Memory-Efficient AI Training Method Cuts Memory Use by 75% While Maintaining Accuracy](https://dev.to/mikeyoung44/memory-efficient-ai-training-method-cuts-memory-use-by-75-while-maintaining-accuracy-2d9c)
-- [Poisoned MRI Images Can Reduce Brain Tumor Detection Accuracy by 27%, Study Shows](https://dev.to/mikeyoung44/poisoned-mri-images-can-reduce-brain-tumor-detection-accuracy-by-27-study-shows-3fj2)
+- [The Vital Role of Developer Community Support in Open Source](https://dev.to/lisa_strato/the-vital-role-of-developer-community-support-in-open-source-327e)
+- [&quot;Revolutionizing Systems Engineering: The AI Advantage You Can&#39;t Ignore&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-ai-advantage-you-cant-ignore-26f)
+- [What on Earth is the PCCP Pattern?](https://dev.to/biswasprasana001/what-on-earth-is-the-pccp-pattern-4dd)
+- [How I Built PhotoG: A Generative AI Tool for Realistic Product Scenes, Hitting $10k MRR in 3 Months](https://dev.to/jasminechzi/how-i-built-photog-a-generative-ai-tool-for-realistic-product-scenes-hitting-10k-mrr-in-3-months-4fp9)
 <!-- BLOG-POST-LIST:END -->
 
