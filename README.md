@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Tools for Fake News Detection: A Comprehensive Guide](https://dev.to/asadullahmasood/ai-powered-tools-for-fake-news-detection-a-comprehensive-guide-36nb)
-- [🚀 React Patterns: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/react-patterns-essential-tips-and-tricks-for-developers-4b0l)
-- [Azure Data Factory](https://dev.to/indrasen_9d014cf224a46c4a/azure-data-factory-2oog)
-- [Federated Learning](https://dev.to/asadullahmasood/federated-learning-3ng6)
+- [Shutdown EC2 servers when unused](https://dev.to/mhamadelitawi/shutdown-ec2-servers-when-unused-koa)
+- [The Ultimate Guide to Responsive Typography Without Media Queries](https://dev.to/digitalminds/the-ultimate-guide-to-responsive-typography-without-media-queries-1jlm)
+- [From Local to Cloud: Deploying a Django Employment Management App with AWS RDS](https://dev.to/pravesh_sudha_3c2b0c2b5e0/from-local-to-cloud-deploying-a-django-employment-management-app-with-aws-rds-m80)
+- [Unlocking SEO Success, Referring Subnets vs. Referring Domains: The Backlink Diversity](https://dev.to/seosiri/unlocking-seo-success-referring-subnets-vs-referring-domains-the-backlink-diversity-3h3j)
 <!-- BLOG-POST-LIST:END -->
 
