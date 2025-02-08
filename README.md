@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trending 30 Articles to Read by Every Python Developers.](https://dev.to/dev-resources/trending-30-articles-to-read-by-every-python-developers-1fn1)
-- [Object reference not set to an instance of an object.](https://dev.to/emmanuel_fiadufe_6b7d3037/object-reference-not-set-to-an-instance-of-an-object-4b4h)
-- [Java Game Coding: A Beginner&#39;s Guide to Creating Engaging Games](https://dev.to/devme/java-game-coding-a-beginners-guide-to-creating-engaging-games-52kh)
-- [Building Mobile Apps Tiresome? Learn how PWAs can get it done with minimal effort!](https://dev.to/rijultp/building-mobile-apps-tiresome-learn-how-pwas-can-get-it-done-with-minimal-effort-5f7k)
+- [No one seems happy with react and a backend API, but every other option &lpar;rails/django + low-js or remix/next or react + trpc&rpar; is either immature, fringe, or not appealing.](https://dev.to/codewander/no-one-seems-happy-with-react-and-a-backend-api-but-every-other-option-railsdjango-low-js-or-53c7)
+- [Formatting Strings in JavaScript: Sorting, Plurals &amp; Lists](https://dev.to/diorla/formatting-strings-in-javascript-sorting-plurals-lists-19ge)
+- [Devops project](https://dev.to/mohammed_aminelaafoudi_d/devops-project-14ho)
+- [Empowering Financial Education Through Open Source](https://dev.to/lisa_strato/empowering-financial-education-through-open-source-4pac)
 <!-- BLOG-POST-LIST:END -->
 
