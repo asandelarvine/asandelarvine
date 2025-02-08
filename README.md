@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch vs Solr: A Dev Friendly Comparison](https://dev.to/lovestaco/elasticsearch-vs-solr-a-dev-friendly-comparison-ion)
-- [Creating a todo app with JDBC](https://dev.to/caresle/creating-a-todo-app-with-jdbc-3i5o)
-- [ChatGPT has officially passed the line from &quot;cool&quot; to &quot;creepy&quot;](https://dev.to/mileswk/chatgpt-has-officially-passed-the-line-from-cool-to-creepy-3gl1)
-- [DeepSeek&#39;s new model, OpenAI o3-mini, Mistral&#39;s 24B parameter model, and more](https://dev.to/thisweekinaiengineering/deepseeks-new-model-openai-o3-mini-mistrals-24b-parameter-model-and-more-16fi)
+- [A Beginner’s Guide to AWS Academy](https://dev.to/harsh_mehta/a-beginners-guide-to-aws-academy-1p5i)
+- [Introducing Tensor++](https://dev.to/suvrayan_bandyopadhyay/introducing-tensor-3f61)
+- [Why Cache Isn&#39;t Shared Across Sites: Double-keyed Caching Explained](https://dev.to/leapcell/why-cache-isnt-shared-across-sites-double-keyed-caching-explained-5389)
+- [My 3-Day Python Journey: From Basics to Brilliance 🚀](https://dev.to/shreyansh_19_kumar/my-3-day-python-journey-from-basics-to-brilliance-2jk0)
 <!-- BLOG-POST-LIST:END -->
 
