@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shutdown EC2 servers when unused](https://dev.to/mhamadelitawi/shutdown-ec2-servers-when-unused-koa)
-- [The Ultimate Guide to Responsive Typography Without Media Queries](https://dev.to/digitalminds/the-ultimate-guide-to-responsive-typography-without-media-queries-1jlm)
-- [From Local to Cloud: Deploying a Django Employment Management App with AWS RDS](https://dev.to/pravesh_sudha_3c2b0c2b5e0/from-local-to-cloud-deploying-a-django-employment-management-app-with-aws-rds-m80)
-- [Unlocking SEO Success, Referring Subnets vs. Referring Domains: The Backlink Diversity](https://dev.to/seosiri/unlocking-seo-success-referring-subnets-vs-referring-domains-the-backlink-diversity-3h3j)
+- [SafeLine WAF: A Powerful and User-Friendly Web Application Firewall](https://dev.to/carrie_luo1/safeline-waf-a-powerful-and-user-friendly-web-application-firewall-4jf6)
+- [NTP Synchronization and Its Importance in Modern Systems](https://dev.to/anish-anantharaman/ntp-synchronization-and-its-importance-in-modern-systems-1o46)
+- [Backend vs Frontend: Understanding the Two Sides of Web Development](https://dev.to/raji_moshood_ee3a4c2638f6/backend-vs-frontend-understanding-the-two-sides-of-web-development-1n7)
+- [Unlocking Potential: The Benefits of Open Source Developer Patronage](https://dev.to/lisa_strato/unlocking-potential-the-benefits-of-open-source-developer-patronage-k1)
 <!-- BLOG-POST-LIST:END -->
 
