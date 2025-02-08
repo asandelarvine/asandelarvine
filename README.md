@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [m files in GitHub](https://dev.to/luisaconsiglieri/m-files-in-github-5c0n)
-- [How is RFID Asset Tracking Different from Other Asset Tracking Solutions?](https://dev.to/seleam/how-is-rfid-asset-tracking-different-from-other-asset-tracking-solutions-5flm)
-- [How AI is Transforming Supply Chain Optimization: A Developer’s Perspective](https://dev.to/devopsmirc/how-ai-is-transforming-supply-chain-optimization-a-developers-perspective-2k9o)
-- [Bloom Filters Made Easy: Python Code &amp; Explanation 🐍](https://dev.to/leapcell/bloom-filters-made-easy-python-code-explanation-4ce9)
+- [AI Agents: The Good, The Bad, and Their Impact Across Industries](https://dev.to/jaydeep_kr_sahu/ai-agents-the-good-the-bad-and-their-impact-across-industries-4mgg)
+- [My Journey with SafeLine: A Practical Tool for Web Security](https://dev.to/carrie_luo1/my-journey-with-safeline-a-practical-tool-for-web-security-5e9a)
+- [[Boost]](https://dev.to/aakash_parashar/-554i)
+- [Hiring shouldn’t be complicated](https://dev.to/yazeed95/hiring-shouldnt-be-complicated-2e7i)
 <!-- BLOG-POST-LIST:END -->
 
