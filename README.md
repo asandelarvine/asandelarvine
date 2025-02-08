@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Boost for Flink &amp; Spark SQL: Both Tools Just Got Updated!](https://dev.to/dogeking/big-boost-for-flink-spark-sql-both-tools-just-got-updated-36nj)
-- [What is this?](https://dev.to/rm_sh/-5e89)
-- [9 Questions on Hoisting in JavaScript Answered](https://dev.to/codeguage/9-questions-on-hoisting-in-javascript-answered-6io)
-- [What is THIS ?](https://dev.to/rm_sh/what-is-this--1298)
+- [File Upload in Laravel and Vue.js](https://dev.to/robin-ivi/-13i3)
+- [How to protect yourself against cyber threats](https://dev.to/daniellacatus/how-to-protect-yourself-against-cyber-threats-3m7m)
+- [What should I learn after Javascript?](https://dev.to/aqsa_zafar_3f878997dae27e/what-should-i-learn-after-javascript-2lop)
+- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-4349)
 <!-- BLOG-POST-LIST:END -->
 
