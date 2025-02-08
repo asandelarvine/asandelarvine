@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No one seems happy with react and a backend API, but every other option &lpar;rails/django + low-js or remix/next or react + trpc&rpar; is either immature, fringe, or not appealing.](https://dev.to/codewander/no-one-seems-happy-with-react-and-a-backend-api-but-every-other-option-railsdjango-low-js-or-53c7)
-- [Formatting Strings in JavaScript: Sorting, Plurals &amp; Lists](https://dev.to/diorla/formatting-strings-in-javascript-sorting-plurals-lists-19ge)
-- [Devops project](https://dev.to/mohammed_aminelaafoudi_d/devops-project-14ho)
-- [Empowering Financial Education Through Open Source](https://dev.to/lisa_strato/empowering-financial-education-through-open-source-4pac)
+- [[Boost]](https://dev.to/thestandardguy_220cf14772/-414m)
+- [Untitled](https://dev.to/liam_allard_62404aab94a8c/untitled-1egg)
+- [Navigating the Financial Landscape: Open Source Project Financial Tools](https://dev.to/lisa_strato/navigating-the-financial-landscape-open-source-project-financial-tools-nb5)
+- [About High Aspiration](https://dev.to/shrsv/about-high-aspiration-2i1f)
 <!-- BLOG-POST-LIST:END -->
 
