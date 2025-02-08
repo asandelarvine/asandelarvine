@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking the Future: The Power of Omni-Modal Language Models Like Ola&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-the-power-of-omni-modal-language-models-like-ola-126b)
-- [AI Technology Support: Momo and Topo&#39;s Interaction](https://dev.to/topopet/ai-technology-support-momo-and-topos-interaction-3eh)
-- [How to Use LangChain for AI Workflow Automation](https://dev.to/koolkamalkishor/how-to-use-langchain-for-ai-workflow-automation-1i94)
-- [The Future of Open-Source LLMs vs. Proprietary AI Models](https://dev.to/koolkamalkishor/the-future-of-open-source-llms-vs-proprietary-ai-models-4j68)
+- [Elasticsearch vs Solr: A Dev Friendly Comparison](https://dev.to/lovestaco/elasticsearch-vs-solr-a-dev-friendly-comparison-ion)
+- [Creating a todo app with JDBC](https://dev.to/caresle/creating-a-todo-app-with-jdbc-3i5o)
+- [ChatGPT has officially passed the line from &quot;cool&quot; to &quot;creepy&quot;](https://dev.to/mileswk/chatgpt-has-officially-passed-the-line-from-cool-to-creepy-3gl1)
+- [DeepSeek&#39;s new model, OpenAI o3-mini, Mistral&#39;s 24B parameter model, and more](https://dev.to/thisweekinaiengineering/deepseeks-new-model-openai-o3-mini-mistrals-24b-parameter-model-and-more-16fi)
 <!-- BLOG-POST-LIST:END -->
 
