@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How Kotlin is Powering Modern Web Development Projects](https://dev.to/dct_technologyprivatelimited/how-kotlin-is-powering-modern-web-development-projects-1732)
-- [🔍 Understanding Superglobal Variables in PHP: A Developer’s Secret Weapon!](https://dev.to/dct_technologyprivatelimited/understanding-superglobal-variables-in-php-a-developers-secret-weapon-1cbi)
-- [Security](https://dev.to/techie_1414/security-21mk)
-- [My First Year at an Aussie Company &lpar;from Singapore and previously China&rpar;](https://dev.to/jennieji/my-first-year-at-an-aussie-company-from-singapore-and-previously-china-1e0f)
+- [In 2025: The Future of Automation Testing: Adapting to AI Model Validation](https://dev.to/tak089/the-future-of-automation-testing-adapting-to-ai-model-validation-48k6)
+- [Reduce AI Training Costs with Neurolov AI’s Browser-Based GPU Platform](https://dev.to/neurolov_ai_/reduce-ai-training-costs-with-neurolov-ais-browser-based-gpu-platform-2oco)
+- [New NPM Package in Dev Town!!!](https://dev.to/codetirtho97/new-npm-package-in-dev-town-3go4)
+- [Google Drive tips and tricks to help you work more efficiently](https://dev.to/devops_den/google-drive-tips-and-tricks-to-help-you-work-more-efficiently-1hg2)
 <!-- BLOG-POST-LIST:END -->
 
