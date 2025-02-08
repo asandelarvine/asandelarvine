@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: The Good, The Bad, and Their Impact Across Industries](https://dev.to/jaydeep_kr_sahu/ai-agents-the-good-the-bad-and-their-impact-across-industries-4mgg)
-- [My Journey with SafeLine: A Practical Tool for Web Security](https://dev.to/carrie_luo1/my-journey-with-safeline-a-practical-tool-for-web-security-5e9a)
-- [[Boost]](https://dev.to/aakash_parashar/-554i)
-- [Hiring shouldn’t be complicated](https://dev.to/yazeed95/hiring-shouldnt-be-complicated-2e7i)
+- [AI-Powered Tools for Fake News Detection: A Comprehensive Guide](https://dev.to/asadullahmasood/ai-powered-tools-for-fake-news-detection-a-comprehensive-guide-36nb)
+- [🚀 React Patterns: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/react-patterns-essential-tips-and-tricks-for-developers-4b0l)
+- [Azure Data Factory](https://dev.to/indrasen_9d014cf224a46c4a/azure-data-factory-2oog)
+- [Federated Learning](https://dev.to/asadullahmasood/federated-learning-3ng6)
 <!-- BLOG-POST-LIST:END -->
 
