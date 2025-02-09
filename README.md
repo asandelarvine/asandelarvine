@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Flask Python Web Application?](https://dev.to/tarunfulera1/how-to-build-a-flask-python-web-application-3lon)
-- [4+ Best Ways- Run Task Scheduler as Administrator on Windows 11!](https://dev.to/winsides/4-best-ways-run-task-scheduler-as-administrator-on-windows-11-23g0)
-- [ChamaleonLLM: Dynamic Adaptation for Large Language Models During Inference](https://dev.to/qur786/chamaleonllm-dynamic-adaptation-for-large-language-models-during-inference-chi)
-- [LDAP Injection in Laravel: Prevention &amp; Secure Coding](https://dev.to/pentest_testing_corp/ldap-injection-in-laravel-prevention-secure-coding-1hld)
+- [How AI is Becoming a Game-Changer in the Fight Against Climate Change](https://dev.to/morlevi23/how-ai-is-becoming-a-game-changer-in-the-fight-against-climate-change-36gm)
+- [# **🚀 How I Fixed &quot;Not Enough Free Space in /var&quot; While Upgrading Kali Linux**](https://dev.to/khurammurad/-how-i-fixed-not-enough-free-space-in-var-while-upgrading-kali-linux-25j5)
+- [Quantum Computing for Developers: What You Need to Know in 2025](https://dev.to/codetirtho97/quantum-computing-for-developers-what-you-need-to-know-in-2025-1khi)
+- [30 lines of Vue vs 150 lines of jQuery](https://dev.to/papa_house/30-lines-of-vue-vs-150-lines-of-jquery-1p4m)
 <!-- BLOG-POST-LIST:END -->
 
