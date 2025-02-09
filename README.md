@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is DeepSeek Really a Game Changer in 2025? Unpacking the AI Revolution](https://dev.to/aws-builders/is-deepseek-really-a-game-changer-in-2025-unpacking-the-ai-revolution-ai0)
-- [CSS Diamond Ring](https://dev.to/preetha_vaishnavi_2b82358/css-diamond-ring-i40)
-- [File System vs DBMS](https://dev.to/mujahida_joynab_64c7407d8/file-system-vs-dbms-4np3)
-- [Deploying a Cloudfront Lambda Image Optimization stack with Terraform Part 1 - Cloudfront](https://dev.to/aws-builders/deploying-a-cloudfront-lambda-image-optimization-stack-with-terraform-part-1-cloudfront-3ocf)
+- [The End of Software Engineers? Navigating the 2025 Tech Landscape](https://dev.to/bhuwan71/the-end-of-software-engineers-navigating-the-2025-tech-landscape-3g68)
+- [Authorization Types](https://dev.to/mustafasamedyeyin/authorization-types-1b13)
+- [Ways to Authentication](https://dev.to/mustafasamedyeyin/ways-to-authentication-2khl)
+- [Playwright E2E 테스트 실행 속도를 높이는 전략](https://dev.to/solleedata/playwright-e2e-teseuteu-silhaeng-sogdoreul-nopineun-jeonryag-4gcp)
 <!-- BLOG-POST-LIST:END -->
 
