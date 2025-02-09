@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Games Maintain Consistent Speed Across Different Devices](https://dev.to/petrova_line/how-games-maintain-consistent-speed-across-different-devices-9in)
-- [Rust Channels Guide: Thread Communication Patterns and Best Practices for Safe Concurrency](https://dev.to/aaravjoshi/rust-channels-guide-thread-communication-patterns-and-best-practices-for-safe-concurrency-4c45)
-- [Kubernetes And Container Orchestration](https://dev.to/nepalabhay/kubernetes-and-container-orchestration-ho8)
-- [Creating Maintainable AI Workflows with Python, Pydantic and LangChain](https://dev.to/eduard_knezovic/creating-maintainable-ai-workflows-with-python-pydantic-and-langchain-4lkg)
+- [Microservices vs. Monolith: What’s Best for Your Next Big Project?](https://dev.to/raji_moshood_ee3a4c2638f6/microservices-vs-monolith-whats-best-for-your-next-big-project-cb0)
+- [GitHub Copilot — Agent Mode Review](https://dev.to/danielsogl/github-copilot-agent-mode-review-4h23)
+- [🚀 Deploying a Flask API on AWS EC2 with Nginx &amp; Gunicorn: My Journey from Zero to Production](https://dev.to/msoluwademilade/deploying-a-flask-api-on-aws-ec2-with-nginx-gunicorn-my-journey-from-zero-to-production-4de9)
+- [Troubleshooting Kubernetes Persistent Volume Binding Issues.](https://dev.to/ollycare/troubleshooting-kubernetes-persistent-volume-binding-issues-pk3)
 <!-- BLOG-POST-LIST:END -->
 
