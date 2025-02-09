@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of High-Performance Computing: Understanding HPC Architectures &lpar;Series Part 2&rpar;](https://dev.to/mbayoun95/unleashing-the-power-of-high-performance-computing-understanding-hpc-architectures-series-part-2-ml1)
-- [USSD: The Silent Revolution in Communication &amp; Finance](https://dev.to/brian_oginga/ussd-the-silent-revolution-in-communication-finance-19np)
-- [Automatizando a criação de planilhas com .NET](https://dev.to/teuso99/automatizando-a-criacao-de-planilhas-com-net-1dia)
-- [RandomResizedCrop in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-1-48dn)
+- [Introduction to Programming Languages](https://dev.to/kevv_ly/introduction-to-programming-languages-2oa5)
+- [Setting Up an Apache Server with PHP and SSH on Linux](https://dev.to/idboussadel/setting-up-an-apache-server-with-php-and-ssh-on-linux-2d2)
+- [Unleash the Power of Reddit: Build Your Own AI-Driven Trend Finder](https://dev.to/nerding-io/unleash-the-power-of-reddit-build-your-own-ai-driven-trend-finder-34md)
+- [&quot;[PT-BR] Testes Unitários Eficientes no Django&quot;-Torne a saída mais legível usando o plugin pytest-sugar](https://dev.to/luanna_0c6e04a3fa54a77de1/pt-br-testes-unitarios-eficientes-no-django-torne-a-saida-mais-legivel-usando-o-plugin-41ap)
 <!-- BLOG-POST-LIST:END -->
 
