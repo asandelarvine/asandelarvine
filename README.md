@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReinforceUI-Studio: No More Memorizing Complex Commands in Reinforcement Learning](https://dev.to/dvalenciar/reinforceui-studio-no-more-memorizing-complex-commands-in-reinforcement-learning-1g53)
-- [Lexical 0.24 with Vanilla JS: Getting started](https://dev.to/nabbisen/lexical-024-with-vanilla-js-getting-started-4g5d)
-- [Getting Started with Next.js: A Simple Guide](https://dev.to/je_et15/getting-started-with-nextjs-a-simple-guide-2nk2)
-- [&quot;Revolutionizing Engineering: AI&#39;s Role in Requirements Analysis and Security&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-engineering-ais-role-in-requirements-analysis-and-security-jbj)
+- [How to Build a Flask Python Web Application?](https://dev.to/tarunfulera1/how-to-build-a-flask-python-web-application-3lon)
+- [4+ Best Ways- Run Task Scheduler as Administrator on Windows 11!](https://dev.to/winsides/4-best-ways-run-task-scheduler-as-administrator-on-windows-11-23g0)
+- [ChamaleonLLM: Dynamic Adaptation for Large Language Models During Inference](https://dev.to/qur786/chamaleonllm-dynamic-adaptation-for-large-language-models-during-inference-chi)
+- [LDAP Injection in Laravel: Prevention &amp; Secure Coding](https://dev.to/pentest_testing_corp/ldap-injection-in-laravel-prevention-secure-coding-1hld)
 <!-- BLOG-POST-LIST:END -->
 
