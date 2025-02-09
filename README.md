@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Probability in Decision-Making: A Blackjack Case Study](https://dev.to/alex_ricciardi/the-role-of-probability-in-decision-making-a-blackjack-case-study-2e5c)
-- [Weekly Challenge: Sorting and counting](https://dev.to/simongreennet/weekly-challenge-sorting-and-counting-2on)
-- [🌐 How To Make Markdown to HTML Converter 🔥🚀](https://dev.to/hanzla-baig/how-to-make-markdown-to-html-converter-220a)
-- [ICP: 10の分散型イノベーション](https://dev.to/izi_/icp-10nofen-san-xing-inobesiyon-6o8)
+- [From Theater to Tech: The Pros &lpar;&amp; Cons&rpar; of An Unusual Career Path.](https://dev.to/kaleene_robertson_5c3825d/from-theater-to-tech-the-pros-cons-of-an-unusual-career-path-g1)
+- [My AWS Cloud Practitioner Journey Begins!](https://dev.to/kushal_shah/my-aws-cloud-practitioner-journey-begins-1l66)
+- [Vim Command Cheat Sheet: From Beginner to Advanced](https://dev.to/dmotts/vim-command-cheat-sheet-from-beginner-to-advanced-3nnd)
+- [Supercharge Your Mac Terminal: A Step-by-Step Guide to iTerm2, Oh My Zsh &amp; Powerlevel10k](https://dev.to/gabriel_perez_337aabb5cfd/supercharge-your-mac-terminal-a-step-by-step-guide-to-iterm2-oh-my-zsh-powerlevel10k-41am)
 <!-- BLOG-POST-LIST:END -->
 
