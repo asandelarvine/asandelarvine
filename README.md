@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEVFEST 2024](https://dev.to/anshuman_rai/devfest-2024-1eci)
-- [Building a Number Analysis API, Fun Facts and Math Insights with AWS Lambda and FastAPI](https://dev.to/aws-builders/building-a-number-analysis-api-fun-facts-and-math-insights-with-aws-lambda-and-fastapi-4h3)
-- [Build Your First Telegram Bot: URL Shortener](https://dev.to/tansihmittal/build-your-first-telegram-bot-url-shortener-1ce4)
-- [[Boost]](https://dev.to/gabrielflorencio/-7kh)
+- [Unleashing the Power of High-Performance Computing: Understanding HPC Architectures &lpar;Series Part 2&rpar;](https://dev.to/mbayoun95/unleashing-the-power-of-high-performance-computing-understanding-hpc-architectures-series-part-2-ml1)
+- [USSD: The Silent Revolution in Communication &amp; Finance](https://dev.to/brian_oginga/ussd-the-silent-revolution-in-communication-finance-19np)
+- [Automatizando a criação de planilhas com .NET](https://dev.to/teuso99/automatizando-a-criacao-de-planilhas-com-net-1dia)
+- [RandomResizedCrop in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-1-48dn)
 <!-- BLOG-POST-LIST:END -->
 
