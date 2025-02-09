@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Dev Day 6: JavaScript Guide](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)
-- [Famiq - Getting start](https://dev.to/kimhong_muong/famiq-getting-start-jdo)
-- [Building a Real-Time NBA Game Day Notification System with AWS and Terraform](https://dev.to/princemaxi/building-a-real-time-nba-game-day-notification-system-with-aws-and-terraform-kli)
-- [&quot;Revolutionizing Systems Engineering: The Role of AI in Requirements Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-role-of-ai-in-requirements-analysis-29ja)
+- [Kubernetes 1.32: New Features, Enhancements and Upgrades](https://dev.to/mageshwaransekar/kubernetes-132-new-features-enhancements-and-upgrades-33ba)
+- [JavaScript Blackjack](https://dev.to/bmeinert8/javascript-blackjack-51d2)
+- [A really great tutorial !!!](https://dev.to/mince/a-really-great-tutorial--536o)
+- [Give me a post idea you would love to read about](https://dev.to/mince/give-me-a-post-idea-you-would-love-to-read-about-3p46)
 <!-- BLOG-POST-LIST:END -->
 
