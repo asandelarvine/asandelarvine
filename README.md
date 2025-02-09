@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Theater to Tech: The Pros &lpar;&amp; Cons&rpar; of An Unusual Career Path.](https://dev.to/kaleene_robertson_5c3825d/from-theater-to-tech-the-pros-cons-of-an-unusual-career-path-g1)
-- [My AWS Cloud Practitioner Journey Begins!](https://dev.to/kushal_shah/my-aws-cloud-practitioner-journey-begins-1l66)
-- [Vim Command Cheat Sheet: From Beginner to Advanced](https://dev.to/dmotts/vim-command-cheat-sheet-from-beginner-to-advanced-3nnd)
-- [Supercharge Your Mac Terminal: A Step-by-Step Guide to iTerm2, Oh My Zsh &amp; Powerlevel10k](https://dev.to/gabriel_perez_337aabb5cfd/supercharge-your-mac-terminal-a-step-by-step-guide-to-iterm2-oh-my-zsh-powerlevel10k-41am)
+- [Introducing Awesome SaaS Directory List](https://dev.to/mahseema/introducing-awesome-saas-directory-list-p16)
+- [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar;](https://dev.to/esthernaisimoi/reinforcement-learning-from-human-feedback-rlhf-5dag)
+- [All about integrating offline OpenStreetMap on Android](https://dev.to/mubaraknative/all-about-integrating-offline-openstreetmap-on-android-180e)
+- [Negative Versioning: The Only Honest Way to Version Software](https://dev.to/emmg17/negative-versioning-the-only-honest-way-to-version-software-40le)
 <!-- BLOG-POST-LIST:END -->
 
