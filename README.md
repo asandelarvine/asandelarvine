@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes 1.32: New Features, Enhancements and Upgrades](https://dev.to/mageshwaransekar/kubernetes-132-new-features-enhancements-and-upgrades-33ba)
-- [JavaScript Blackjack](https://dev.to/bmeinert8/javascript-blackjack-51d2)
-- [A really great tutorial !!!](https://dev.to/mince/a-really-great-tutorial--536o)
-- [Give me a post idea you would love to read about](https://dev.to/mince/give-me-a-post-idea-you-would-love-to-read-about-3p46)
+- [The Role of Probability in Decision-Making: A Blackjack Case Study](https://dev.to/alex_ricciardi/the-role-of-probability-in-decision-making-a-blackjack-case-study-2e5c)
+- [Weekly Challenge: Sorting and counting](https://dev.to/simongreennet/weekly-challenge-sorting-and-counting-2on)
+- [🌐 How To Make Markdown to HTML Converter 🔥🚀](https://dev.to/hanzla-baig/how-to-make-markdown-to-html-converter-220a)
+- [ICP: 10の分散型イノベーション](https://dev.to/izi_/icp-10nofen-san-xing-inobesiyon-6o8)
 <!-- BLOG-POST-LIST:END -->
 
