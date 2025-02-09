@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 11 Recap of #100DaysOfCode](https://dev.to/lymah/week-11-recap-of-100daysofcode-4008)
-- [Doing AI demos is... quite an experience 🤖](https://dev.to/balastrong/doing-ai-demos-is-quite-an-experience-4noj)
-- [Real-World DBA Use Cases for Snowflake LLMs](https://dev.to/srikatikala/real-world-dba-use-cases-for-snowflake-llms-4fj)
-- [Exploring Agentic Workflow Patterns](https://dev.to/dpaluy/exploring-agentic-workflow-patterns-312a)
+- [DEVFEST 2024](https://dev.to/anshuman_rai/devfest-2024-1eci)
+- [Building a Number Analysis API, Fun Facts and Math Insights with AWS Lambda and FastAPI](https://dev.to/aws-builders/building-a-number-analysis-api-fun-facts-and-math-insights-with-aws-lambda-and-fastapi-4h3)
+- [Build Your First Telegram Bot: URL Shortener](https://dev.to/tansihmittal/build-your-first-telegram-bot-url-shortener-1ce4)
+- [[Boost]](https://dev.to/gabrielflorencio/-7kh)
 <!-- BLOG-POST-LIST:END -->
 
