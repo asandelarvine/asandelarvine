@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of Software Engineers? Navigating the 2025 Tech Landscape](https://dev.to/bhuwan71/the-end-of-software-engineers-navigating-the-2025-tech-landscape-3g68)
-- [Authorization Types](https://dev.to/mustafasamedyeyin/authorization-types-1b13)
-- [Ways to Authentication](https://dev.to/mustafasamedyeyin/ways-to-authentication-2khl)
-- [Playwright E2E 테스트 실행 속도를 높이는 전략](https://dev.to/solleedata/playwright-e2e-teseuteu-silhaeng-sogdoreul-nopineun-jeonryag-4gcp)
+- [Migrating Plex from Windows to Linux &lpar;the missing pieces&rpar;](https://dev.to/spwoodcock/migrating-plex-from-windows-to-linux-the-missing-pieces-1do8)
+- [&quot;Revolutionizing Systems Engineering: The Role of AI and Gaussian Processes&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-role-of-ai-and-gaussian-processes-1nob)
+- [My Building Of Trading Order Management System Using AI Agents](https://dev.to/exploredataaiml/my-building-of-trading-order-management-system-using-ai-agents-2cb6)
+- [[Boost]](https://dev.to/npolyak/-3j5d)
 <!-- BLOG-POST-LIST:END -->
 
