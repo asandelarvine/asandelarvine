@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OS tool to debug LLM reasoning patterns with entropy analysis](https://dev.to/giovanna_8c3492d882250ac6/os-tool-to-debug-llm-reasoning-patterns-with-entropy-analysis-5hcf)
-- [APPLICATION OF C++ IN COMPILER AND INTERPRETER DEVELOPMENT](https://dev.to/ritika_gupta_2609/application-of-c-in-compiler-and-interpreter-development-all)
-- [From Java to Kotlin: A Java Developer&#39;s Guide to Kotlin Basics](https://dev.to/abhishek_peiris_/from-java-to-kotlin-a-java-developers-guide-to-kotlin-basics-423p)
-- [Recon v2: Um curto update sobre como estou mudando meu processo de recon](https://dev.to/bolhasec/recon-v2-um-curto-update-sobre-como-estou-mudando-meu-processo-de-recon-cmc)
+- [The Quinfall - Redefining MMORPG in an Epic Fantasy World](https://dev.to/peng_li_61507f5f744c1b66e/the-quinfall-redefining-mmorpg-in-an-epic-fantasy-world-11b)
+- [Network Model &amp;&amp; Hierarchical Model](https://dev.to/mujahida_joynab_64c7407d8/network-model-1mn4)
+- [Sprunki Incredibox](https://dev.to/peng_li_61507f5f744c1b66e/sprunki-incredibox-59ik)
+- [JBay](https://dev.to/jacob_liato_1166814de4e42/jbay-135g)
 <!-- BLOG-POST-LIST:END -->
 
