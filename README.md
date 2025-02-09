@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Awesome SaaS Directory List](https://dev.to/mahseema/introducing-awesome-saas-directory-list-p16)
-- [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar;](https://dev.to/esthernaisimoi/reinforcement-learning-from-human-feedback-rlhf-5dag)
-- [All about integrating offline OpenStreetMap on Android](https://dev.to/mubaraknative/all-about-integrating-offline-openstreetmap-on-android-180e)
-- [Negative Versioning: The Only Honest Way to Version Software](https://dev.to/emmg17/negative-versioning-the-only-honest-way-to-version-software-40le)
+- [Deploy Next.js Supabase App to Cloud Run using Artifact Registry and Secrets Manager](https://dev.to/jamescroissant/deploy-nextjs-supabase-app-to-cloud-run-using-artifact-registry-and-secrets-manager-cm9)
+- [Bringing AI to the Browser: How TensorFlow.js is Revolutionizing Web Development](https://dev.to/skyz03/bringing-ai-to-the-browser-how-tensorflowjs-is-revolutionizing-web-development-3559)
+- [WHAT IF #5: Every Social Media Algorithm Was Removed?](https://dev.to/trixsec/what-if-5-every-social-media-algorithm-was-removed-363i)
+- [NgContainer](https://dev.to/anjali_gurjar_dff81513867/ngcontainer-20pg)
 <!-- BLOG-POST-LIST:END -->
 
