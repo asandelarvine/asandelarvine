@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quinfall - Redefining MMORPG in an Epic Fantasy World](https://dev.to/peng_li_61507f5f744c1b66e/the-quinfall-redefining-mmorpg-in-an-epic-fantasy-world-11b)
-- [Network Model &amp;&amp; Hierarchical Model](https://dev.to/mujahida_joynab_64c7407d8/network-model-1mn4)
-- [Sprunki Incredibox](https://dev.to/peng_li_61507f5f744c1b66e/sprunki-incredibox-59ik)
-- [JBay](https://dev.to/jacob_liato_1166814de4e42/jbay-135g)
+- [Is DeepSeek Really a Game Changer in 2025? Unpacking the AI Revolution](https://dev.to/aws-builders/is-deepseek-really-a-game-changer-in-2025-unpacking-the-ai-revolution-ai0)
+- [CSS Diamond Ring](https://dev.to/preetha_vaishnavi_2b82358/css-diamond-ring-i40)
+- [File System vs DBMS](https://dev.to/mujahida_joynab_64c7407d8/file-system-vs-dbms-4np3)
+- [Deploying a Cloudfront Lambda Image Optimization stack with Terraform Part 1 - Cloudfront](https://dev.to/aws-builders/deploying-a-cloudfront-lambda-image-optimization-stack-with-terraform-part-1-cloudfront-3ocf)
 <!-- BLOG-POST-LIST:END -->
 
