@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Plex from Windows to Linux &lpar;the missing pieces&rpar;](https://dev.to/spwoodcock/migrating-plex-from-windows-to-linux-the-missing-pieces-1do8)
-- [&quot;Revolutionizing Systems Engineering: The Role of AI and Gaussian Processes&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-role-of-ai-and-gaussian-processes-1nob)
-- [My Building Of Trading Order Management System Using AI Agents](https://dev.to/exploredataaiml/my-building-of-trading-order-management-system-using-ai-agents-2cb6)
-- [[Boost]](https://dev.to/npolyak/-3j5d)
+- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-1a5c)
+- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-5715)
+- [Exploratory Testing of Cars.ng – Findings, Issues, and Recommendations](https://dev.to/beejhay/exploratory-testing-of-carsng-findings-issues-and-recommendations-48al)
+- [Best VS Code Extensions to Boost Your Productivity 🚀](https://dev.to/moibra/best-vs-code-extensions-to-boost-your-productivity-1n86)
 <!-- BLOG-POST-LIST:END -->
 
