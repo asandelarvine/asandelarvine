@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GMR earnings calculator](https://dev.to/jover_nuevaespana_6d510f0/gmr-earnings-calculator-h0f)
-- [✨It&#39;s 2025, But Jest🔧 is Still Rocking the Testing World 🚀](https://dev.to/jagroop2001/its-2025-but-jest-is-still-rocking-the-testing-world-48g2)
-- [Can GitHub Copilot Follow a Structured Development Workflow? A Real-World Experiment](https://dev.to/vigneshiyergithub/can-github-copilot-follow-a-structured-development-workflow-a-real-world-experiment-3el7)
-- [A tale about four gangsters](https://dev.to/lichtkind/a-tale-about-four-gangsters-29g6)
+- [OS tool to debug LLM reasoning patterns with entropy analysis](https://dev.to/giovanna_8c3492d882250ac6/os-tool-to-debug-llm-reasoning-patterns-with-entropy-analysis-5hcf)
+- [APPLICATION OF C++ IN COMPILER AND INTERPRETER DEVELOPMENT](https://dev.to/ritika_gupta_2609/application-of-c-in-compiler-and-interpreter-development-all)
+- [From Java to Kotlin: A Java Developer&#39;s Guide to Kotlin Basics](https://dev.to/abhishek_peiris_/from-java-to-kotlin-a-java-developers-guide-to-kotlin-basics-423p)
+- [Recon v2: Um curto update sobre como estou mudando meu processo de recon](https://dev.to/bolhasec/recon-v2-um-curto-update-sobre-como-estou-mudando-meu-processo-de-recon-cmc)
 <!-- BLOG-POST-LIST:END -->
 
