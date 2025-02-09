@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-1a5c)
-- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-5715)
-- [Exploratory Testing of Cars.ng – Findings, Issues, and Recommendations](https://dev.to/beejhay/exploratory-testing-of-carsng-findings-issues-and-recommendations-48al)
-- [Best VS Code Extensions to Boost Your Productivity 🚀](https://dev.to/moibra/best-vs-code-extensions-to-boost-your-productivity-1n86)
+- [How Games Maintain Consistent Speed Across Different Devices](https://dev.to/petrova_line/how-games-maintain-consistent-speed-across-different-devices-9in)
+- [Rust Channels Guide: Thread Communication Patterns and Best Practices for Safe Concurrency](https://dev.to/aaravjoshi/rust-channels-guide-thread-communication-patterns-and-best-practices-for-safe-concurrency-4c45)
+- [Kubernetes And Container Orchestration](https://dev.to/nepalabhay/kubernetes-and-container-orchestration-ho8)
+- [Creating Maintainable AI Workflows with Python, Pydantic and LangChain](https://dev.to/eduard_knezovic/creating-maintainable-ai-workflows-with-python-pydantic-and-langchain-4lkg)
 <!-- BLOG-POST-LIST:END -->
 
