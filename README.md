@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices vs. Monolith: What’s Best for Your Next Big Project?](https://dev.to/raji_moshood_ee3a4c2638f6/microservices-vs-monolith-whats-best-for-your-next-big-project-cb0)
-- [GitHub Copilot — Agent Mode Review](https://dev.to/danielsogl/github-copilot-agent-mode-review-4h23)
-- [🚀 Deploying a Flask API on AWS EC2 with Nginx &amp; Gunicorn: My Journey from Zero to Production](https://dev.to/msoluwademilade/deploying-a-flask-api-on-aws-ec2-with-nginx-gunicorn-my-journey-from-zero-to-production-4de9)
-- [Troubleshooting Kubernetes Persistent Volume Binding Issues.](https://dev.to/ollycare/troubleshooting-kubernetes-persistent-volume-binding-issues-pk3)
+- [Week 11 Recap of #100DaysOfCode](https://dev.to/lymah/week-11-recap-of-100daysofcode-4008)
+- [Doing AI demos is... quite an experience 🤖](https://dev.to/balastrong/doing-ai-demos-is-quite-an-experience-4noj)
+- [Real-World DBA Use Cases for Snowflake LLMs](https://dev.to/srikatikala/real-world-dba-use-cases-for-snowflake-llms-4fj)
+- [Exploring Agentic Workflow Patterns](https://dev.to/dpaluy/exploring-agentic-workflow-patterns-312a)
 <!-- BLOG-POST-LIST:END -->
 
