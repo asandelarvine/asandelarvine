@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Introducing AnonyPost: A Social Media App for Anonymous Sharing](https://dev.to/mahmud-r-farhan/introducing-anony-a-social-media-app-for-anonymous-sharing-36c5)
-- [A Deep Dive into Graceful Shutdown in Go](https://dev.to/yanev/a-deep-dive-into-graceful-shutdown-in-go-484a)
-- [What is Regression in Machine Learning?](https://dev.to/thenomadevel/what-is-regression-in-machine-learning-7m3)
-- [Practical Tips for Kubernetes Upgrades for Startups](https://dev.to/meteorops/practical-tips-for-kubernetes-upgrades-for-startups-22df)
+- [Dica de site para montagem de currículo: novoresume.com](https://dev.to/vivianbr/dica-de-site-para-montagem-de-curriculo-novoresumecom-28d4)
+- [AI, LocalLLM and DeepSeek. What is it all about and how to dive into the world of LLM?](https://dev.to/budzynskimaciej/ai-localllm-and-deepseek-what-is-it-all-about-and-how-to-dive-into-the-world-of-llm-3mjl)
+- [How to Build a Simple AI Agent with Langflow and Composio](https://dev.to/datastax/how-to-build-a-simple-ai-agent-with-langflow-and-composio-13d4)
+- [Mastering Python Context Managers: Efficient Resource Management Made Easy](https://dev.to/keshavadk/mastering-python-context-managers-efficient-resource-management-made-easy-2npb)
 <!-- BLOG-POST-LIST:END -->
 
