@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek Translation, ElevenLabs AI Dubbing, Sorensen M&amp;A](https://dev.to/slator_languageindustry/deepseek-translation-elevenlabs-ai-dubbing-sorensen-ma-4j7n)
-- [Testing Food Delivery Apps: Key Test Cases &amp; Best Practices](https://dev.to/shubham-theqa/testing-food-delivery-apps-key-test-cases-best-practices-48j)
-- [What is the Role of Machine Learning in the Era of Generative AI?](https://dev.to/glorialauren/what-is-the-role-of-machine-learning-in-the-era-of-generative-ai-52en)
-- [Composition Over Inheritence](https://dev.to/mirnes_mrkaljevic/composition-over-inheritence-8bg)
+- [Copilot Studio Agents, The New Excel](https://dev.to/wyattdave/copilot-studio-agents-the-new-excel-37eb)
+- [How a Service Catalog Empowers API Product Owners to Maximize Value](https://dev.to/getambassador2024/how-a-service-catalog-empowers-api-product-owners-to-maximize-value-26jn)
+- [Demystifying the dark arts of AI Agents 🤖](https://dev.to/kwnaidoo/demystifying-the-dark-arts-of-ai-agents-31c0)
+- [SSH Authentication with OpenPGP](https://dev.to/iwan_setiawan_9f2c3fd73f4/ssh-authentication-with-openpgp-2b4o)
 <!-- BLOG-POST-LIST:END -->
 
