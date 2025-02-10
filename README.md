@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS SageMaker: Train and Deploy a Model in the Cloud for Cybersecurity Threat Detection &lpar;Part 1&rpar;](https://dev.to/ogambakerubo/getting-started-with-aws-sagemaker-train-and-deploy-a-model-in-the-cloud-for-cybersecurity-threat-382d)
-- [Untitled](https://dev.to/hitendraedit/untitled-57c4)
-- [Revolutionizing Development with Internet Computer Protocol: 10 Groundbreaking Project Ideas](https://dev.to/caerlower/revolutionizing-development-with-internet-computer-protocol-10-groundbreaking-project-ideas-5ge4)
-- [The Ultimate Web Development Starter Toolkit](https://dev.to/dmotts/the-ultimate-web-development-starter-toolkit-465n)
+- [🚀 The Role of AI in Modern Web Development: A Game-Changer or Just a Buzzword? 🤖](https://dev.to/dct_technologyprivatelimited/the-role-of-ai-in-modern-web-development-a-game-changer-or-just-a-buzzword-58bf)
+- [Everything About Python Colons](https://dev.to/mike-vincent/everything-about-python-colons-10bp)
+- [Frontend Fundamentals 11 &lpar;Wtf is `this`?&rpar;](https://dev.to/c6z3h/frontend-fundamentals-11-wtf-is-this-33a5)
+- [TIL: Configure Default Values for Nullable Columns With Default Constraints in EntityFramework Core](https://dev.to/canro91/til-configure-default-values-for-nullable-columns-with-default-constraints-in-entityframework-core-3b0g)
 <!-- BLOG-POST-LIST:END -->
 
