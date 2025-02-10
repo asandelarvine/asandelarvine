@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS S3: A Technical Exploration](https://dev.to/coltongraygg/aws-s3-a-technical-exploration-4mjk)
-- [Integrating Error Monitoring and Performance Analysis with Sentry in a React Application](https://dev.to/kreshby/integrating-error-monitoring-and-performance-analysis-with-sentry-in-a-react-application-51l0)
-- [Complete Guide: Enabling Secure Boot with Linux and Windows Dual-Boot Setup](https://dev.to/berk/complete-guide-enabling-secure-boot-with-linux-and-windows-dual-boot-setup-24o8)
-- [This Week in Docker: AI, AI, AI!](https://dev.to/code42cate/this-week-in-docker-ai-ai-ai-2khe)
+- [Inspiring Young Coders: How CodeMonkey Turns Kids into Tech Creators](https://dev.to/michaellarocca/inspiring-young-coders-how-codemonkey-turns-kids-into-tech-creators-gpn)
+- [Empowering Open Source Through Funding Workshops](https://dev.to/jennythomas498/empowering-open-source-through-funding-workshops-40i2)
+- [Empowering Innovation: The Role of Open Source Project Sponsorship Platforms](https://dev.to/zhangwei42/empowering-innovation-the-role-of-open-source-project-sponsorship-platforms-2e46)
+- [Empowering Developers: The Role of Open Source Grants](https://dev.to/ashucommits/empowering-developers-the-role-of-open-source-grants-pnp)
 <!-- BLOG-POST-LIST:END -->
 
