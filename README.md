@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 25/06: Angular Documentary](https://dev.to/this-is-angular/ng-news-2506-angular-documentary-36m8)
-- [Designing for AI vs. Humans: Are We Ready for the Next Digital User?](https://dev.to/jeffrey_martin_44f7bcf2a3/designing-for-ai-vs-humans-are-we-ready-for-the-next-digital-user-2bml)
-- [Introduction to Message Brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
-- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-3cgl)
+- [AWS S3: A Technical Exploration](https://dev.to/coltongraygg/aws-s3-a-technical-exploration-4mjk)
+- [Integrating Error Monitoring and Performance Analysis with Sentry in a React Application](https://dev.to/kreshby/integrating-error-monitoring-and-performance-analysis-with-sentry-in-a-react-application-51l0)
+- [Complete Guide: Enabling Secure Boot with Linux and Windows Dual-Boot Setup](https://dev.to/berk/complete-guide-enabling-secure-boot-with-linux-and-windows-dual-boot-setup-24o8)
+- [This Week in Docker: AI, AI, AI!](https://dev.to/code42cate/this-week-in-docker-ai-ai-ai-2khe)
 <!-- BLOG-POST-LIST:END -->
 
