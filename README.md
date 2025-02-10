@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot Studio Agents, The New Excel](https://dev.to/wyattdave/copilot-studio-agents-the-new-excel-37eb)
-- [How a Service Catalog Empowers API Product Owners to Maximize Value](https://dev.to/getambassador2024/how-a-service-catalog-empowers-api-product-owners-to-maximize-value-26jn)
-- [Demystifying the dark arts of AI Agents 🤖](https://dev.to/kwnaidoo/demystifying-the-dark-arts-of-ai-agents-31c0)
-- [SSH Authentication with OpenPGP](https://dev.to/iwan_setiawan_9f2c3fd73f4/ssh-authentication-with-openpgp-2b4o)
+- [Real‑Time Coinbase Ticker Streaming with Node.js Native WebSocket &amp; TypeScript](https://dev.to/simplr_sh/real-time-coinbase-ticker-streaming-with-nodejs-native-websocket-typescript-252h)
+- [Next.js vs. Nuxt.js vs. Remix: Which SSR Framework is Right for You?](https://dev.to/raji_moshood_ee3a4c2638f6/nextjs-vs-nuxtjs-vs-remix-which-ssr-framework-is-right-for-you-53pa)
+- [Enabling HTTP-based Autoscaling in GKE with KEDA HTTP Add-on](https://dev.to/ibraheemcisse/enabling-http-based-autoscaling-in-gke-with-keda-http-add-on-36pf)
+- [&quot;Unlocking AI&#39;s Potential: Transformative Insights for Science and Hiring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-potential-transformative-insights-for-science-and-hiring-4j85)
 <!-- BLOG-POST-LIST:END -->
 
