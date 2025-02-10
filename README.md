@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Programming Languages](https://dev.to/kevv_ly/introduction-to-programming-languages-2oa5)
-- [Setting Up an Apache Server with PHP and SSH on Linux](https://dev.to/idboussadel/setting-up-an-apache-server-with-php-and-ssh-on-linux-2d2)
-- [Unleash the Power of Reddit: Build Your Own AI-Driven Trend Finder](https://dev.to/nerding-io/unleash-the-power-of-reddit-build-your-own-ai-driven-trend-finder-34md)
-- [&quot;[PT-BR] Testes Unitários Eficientes no Django&quot;-Torne a saída mais legível usando o plugin pytest-sugar](https://dev.to/luanna_0c6e04a3fa54a77de1/pt-br-testes-unitarios-eficientes-no-django-torne-a-saida-mais-legivel-usando-o-plugin-41ap)
+- [📰 Massive 7.6 magnitude earthquake rattles Caribbean, tsunami advisory issued](https://dev.to/d_thiranjaya_6d3ec4552111/massive-76-magnitude-earthquake-rattles-caribbean-tsunami-advisory-issued-1d24)
+- [Live Syncing to a Git Repository with a VS Code Extension](https://dev.to/bwfiq/live-syncing-to-a-git-repository-with-a-vs-code-extension-3p8m)
+- [In-Depth Tutorial: Multitable Queries &lpar;Joins&rpar; with Codes With Pankaj](https://dev.to/codeswithpankaj/in-depth-tutorial-multitable-queries-joins-with-codes-with-pankaj-2c8o)
+- [Using a Directed Acyclic Graph algorithm to predict productivity](https://dev.to/klaftech/using-a-directed-acyclic-graph-algorithm-to-predict-productivity-kkp)
 <!-- BLOG-POST-LIST:END -->
 
