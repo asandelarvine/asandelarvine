@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Customer Engagement: Why Your Business Needs a Chatbot App](https://dev.to/jirav_sharma/the-future-of-customer-engagement-why-your-business-needs-a-chatbot-app-33kj)
-- [How to Properly Handle Multiplayer Sync in Unity Using Mirror?](https://dev.to/michealklein/how-to-properly-handle-multiplayer-sync-in-unity-using-mirror-okj)
-- [Are Generics Really That Generic?](https://dev.to/rodschmod/are-generics-really-that-generic-o99)
-- [Why WebAssembly &lpar;WASM&rpar; is the Future of High-Performance Web Apps](https://dev.to/vibhuvibes/why-webassembly-wasm-is-the-future-of-high-performance-web-apps-4713)
+- [From Trading to Spending: How Crypto Cards Are Bringing Digital Assets Into Everyday Life](https://dev.to/leo_scott_357f10236fabe00/from-trading-to-spending-how-crypto-cards-are-bringing-digital-assets-into-everyday-life-1epk)
+- [Wish I Had Better Tools](https://dev.to/erykpiast/wish-i-had-better-tools-329c)
+- [Building for Scale: Introduction to the Cipher Horizon Journey](https://dev.to/dminatto/building-for-scale-introduction-to-the-cipher-horizon-journey-1idn)
+- [Implementing Real-Time Data Processing Using Apache Flink](https://dev.to/flnzba/implementing-real-time-data-processing-using-apache-flink-i0e)
 <!-- BLOG-POST-LIST:END -->
 
