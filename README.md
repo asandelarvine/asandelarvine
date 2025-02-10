@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dica de site para montagem de currículo: novoresume.com](https://dev.to/vivianbr/dica-de-site-para-montagem-de-curriculo-novoresumecom-28d4)
-- [AI, LocalLLM and DeepSeek. What is it all about and how to dive into the world of LLM?](https://dev.to/budzynskimaciej/ai-localllm-and-deepseek-what-is-it-all-about-and-how-to-dive-into-the-world-of-llm-3mjl)
-- [How to Build a Simple AI Agent with Langflow and Composio](https://dev.to/datastax/how-to-build-a-simple-ai-agent-with-langflow-and-composio-13d4)
-- [Mastering Python Context Managers: Efficient Resource Management Made Easy](https://dev.to/keshavadk/mastering-python-context-managers-efficient-resource-management-made-easy-2npb)
+- [Ng-News 25/06: Angular Documentary](https://dev.to/this-is-angular/ng-news-2506-angular-documentary-36m8)
+- [Designing for AI vs. Humans: Are We Ready for the Next Digital User?](https://dev.to/jeffrey_martin_44f7bcf2a3/designing-for-ai-vs-humans-are-we-ready-for-the-next-digital-user-2bml)
+- [Introduction to Message Brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
+- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-3cgl)
 <!-- BLOG-POST-LIST:END -->
 
