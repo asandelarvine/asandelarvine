@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Trending React Resources for Developers](https://dev.to/dev-resources/25-trending-react-resources-416k)
-- [How to Create Links in Web Pages](https://dev.to/thedevspace/how-to-create-links-in-web-pages-3npf)
-- [12 AI-Powered Social Media Posting Tips for Maximum Engagement in 2025](https://dev.to/dansasser/12-ai-powered-social-media-posting-tips-for-maximum-engagement-in-2025-5a63)
-- [TIL Weekly #3](https://dev.to/uskdev/til-weekly-3-e07)
+- [🌷Creating an SSR Gallery App in JavaScript](https://dev.to/hmpljs/creating-an-ssr-gallery-app-in-javascript-16kp)
+- [BettorEdge Expands Reach with Official Apple App Store Launch](https://dev.to/gkajewski/bettoredge-expands-reach-with-official-apple-app-store-launch-2o0b)
+- [Run Deepseek locally using Docker!](https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm)
+- [CI/CD Wars: GitHub Actions vs. GitLab CI vs. Jenkins vs. CircleCI](https://dev.to/raji_moshood_ee3a4c2638f6/cicd-wars-github-actions-vs-gitlab-ci-vs-jenkins-vs-circleci-3ahi)
 <!-- BLOG-POST-LIST:END -->
 
