@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Databases vs. PostgreSQL with pg_vector for RAG Setups](https://dev.to/simplr_sh/vector-databases-vs-postgresql-with-pgvector-for-rag-setups-1lg2)
-- [Day Spas in The Big Apple: Select with Assurance](https://dev.to/nycdayspa55/day-spas-in-the-big-apple-select-with-assurance-1g60)
-- [Understand data science before using LLM into your AI agents](https://dev.to/saad_ali_21c328f1cb588b4d/understand-data-science-before-using-llm-into-your-ai-agents-161e)
-- [Introduction to PHP](https://dev.to/bkthemes/introduction-to-php-4dfb)
+- [Getting Started with AWS SageMaker: Train and Deploy a Model in the Cloud for Cybersecurity Threat Detection &lpar;Part 1&rpar;](https://dev.to/ogambakerubo/getting-started-with-aws-sagemaker-train-and-deploy-a-model-in-the-cloud-for-cybersecurity-threat-382d)
+- [Untitled](https://dev.to/hitendraedit/untitled-57c4)
+- [Revolutionizing Development with Internet Computer Protocol: 10 Groundbreaking Project Ideas](https://dev.to/caerlower/revolutionizing-development-with-internet-computer-protocol-10-groundbreaking-project-ideas-5ge4)
+- [The Ultimate Web Development Starter Toolkit](https://dev.to/dmotts/the-ultimate-web-development-starter-toolkit-465n)
 <!-- BLOG-POST-LIST:END -->
 
