@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real‑Time Coinbase Ticker Streaming with Node.js Native WebSocket &amp; TypeScript](https://dev.to/simplr_sh/real-time-coinbase-ticker-streaming-with-nodejs-native-websocket-typescript-252h)
-- [Next.js vs. Nuxt.js vs. Remix: Which SSR Framework is Right for You?](https://dev.to/raji_moshood_ee3a4c2638f6/nextjs-vs-nuxtjs-vs-remix-which-ssr-framework-is-right-for-you-53pa)
-- [Enabling HTTP-based Autoscaling in GKE with KEDA HTTP Add-on](https://dev.to/ibraheemcisse/enabling-http-based-autoscaling-in-gke-with-keda-http-add-on-36pf)
-- [&quot;Unlocking AI&#39;s Potential: Transformative Insights for Science and Hiring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-potential-transformative-insights-for-science-and-hiring-4j85)
+- [BERT Models Can Now Classify Text Through Simple Instructions, Matching Traditional Methods](https://dev.to/mikeyoung44/bert-models-can-now-classify-text-through-simple-instructions-matching-traditional-methods-djg)
+- [Revisão do Artigo &quot;No Silver Bullet&quot; de Frederick Brooks: Um Conteúdo Atemporal](https://dev.to/asouza/revisao-do-artigo-no-silver-bullet-de-frederick-brooks-um-conteudo-atemporal-4gn3)
+- [Hello, I am honored to have made it to this forum. I set out looking for a way to crash course learn medical terminology so I could land a job at the chief Medical examiner&#39;s office; I got so involved 2 weeks disappeared an I can now find anything I want](https://dev.to/kimberly_nunley_d34b5907f/hello-i-am-honored-to-have-made-it-to-this-forum-i-set-out-looking-for-a-way-to-crash-course-354)
+- [SUBSCRIBE TO FRONT-END WORLD](https://dev.to/kristiyanvelkov/subscribe-to-front-end-world-4ngo)
 <!-- BLOG-POST-LIST:END -->
 
