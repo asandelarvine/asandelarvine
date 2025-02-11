@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master of HTML? Prove It with async and defer](https://dev.to/leapcell/master-of-html-prove-it-with-async-and-defer-5f7i)
-- [Exploring AWS Identity and Access Management &lpar;IAM&rpar;: A Hands-on Experience 🔐](https://dev.to/admiralng/exploring-aws-identity-and-access-management-iam-a-hands-on-experience-eoc)
-- [Study Notes 3.1.2: Partitioning and Clustering in BigQuery](https://dev.to/pizofreude/study-notes-312-partitioning-and-clustering-in-bigquery-oe)
-- [My Python Language Solution to Task 2: Decode XOR from The Weekly Challenge 308](https://dev.to/rcmcintosh/my-python-language-solution-to-task-2-decode-xor-from-the-weekly-challenge-308-3a3i)
+- [Como passar na certificação AI Practitioner - AWS](https://dev.to/airton_lirajunior_2ddebd/como-passar-na-certificacao-ai-practitioner-aws-1cni)
+- [🚀 TypeScript Crash Course: From Beginner to Advanced](https://dev.to/ebereplenty/typescript-crash-course-from-beginner-to-advanced-22dp)
+- [Real World Experience: Github Copilot Edits](https://dev.to/bytehala/real-world-experience-github-copilot-edits-4k37)
+- [🚀 ¡Go 1.24 ya está aquí! 🚀](https://dev.to/fuenrob/go-124-ya-esta-aqui-3ad3)
 <!-- BLOG-POST-LIST:END -->
 
