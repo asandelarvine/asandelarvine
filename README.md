@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power of DeepSeek AI for SEO Keyword Research](https://dev.to/resource_bunk_1077cab07da/power-of-deepseek-ai-for-seo-keyword-research-5ddn)
-- [Say Goodbye to WebSockets? Why SSE Might Be Your New Best Friend](https://dev.to/zakariachahboun/say-goodbye-to-websockets-why-sse-might-be-your-new-best-friend-4d7n)
-- [10 Practical Fixes for Dev Problems You’ll Actually Use](https://dev.to/0x2e_tech/10-practical-fixes-for-dev-problems-youll-actually-use-3m57)
-- [25+ Trending Programming Resources for Developers](https://dev.to/dev-resources/25-trending-programming-resources-for-developers-467)
+- [ElasticSearch Architecture: A Comprehensive Guide](https://dev.to/wadee_sami_4562c11ecf8066/elasticsearch-architecture-a-comprehensive-guide-12me)
+- [Observables &amp; Chill: Getting Started with RxJS](https://dev.to/lovestaco/observables-chill-getting-started-with-rxjs-4khe)
+- [20 Curated Articles on Real Money Making for Starters.](https://dev.to/rare_source/20-curated-articles-on-real-money-making-for-starters-27pn)
+- [10 Distinct Ways to Make $500 in a Week](https://dev.to/abubakersiddique761/10-distinct-ways-to-make-550-in-a-week-359k)
 <!-- BLOG-POST-LIST:END -->
 
