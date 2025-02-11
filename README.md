@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding V8 JIT: How JavaScript Gets Compiled and Optimized](https://dev.to/sajiram_a4704bc095/understanding-v8-jit-how-javascript-gets-compiled-and-optimized-3hi7)
-- [🚀 Deploying Your First Web App: A Beginner’s Guide](https://dev.to/fareedmunawar00/deploying-your-first-web-app-a-beginners-guide-276l)
-- [Flexible interval aggregation：From SQL to SPL](https://dev.to/esproc_spl/flexible-interval-aggregationfrom-sql-to-spl-598m)
-- [Hosting a Nuxt App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-nuxt-app-without-a-server-using-pinggy-474n)
+- [The Problem No One Talks About: Reviewing Mobile App PRs](https://dev.to/pratiksha_patil_2422d808e/the-problem-no-one-talks-about-reviewing-mobile-app-prs-2hbi)
+- [ChatGPT, Gemini, Copilot, or DeepSeek R1—Which One Should You Use?](https://dev.to/dhruvjoshi9/chatgpt-gemini-copilot-or-deepseek-r1-which-one-should-you-use-56ai)
+- [🎙️We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-53eg)
+- [Trunk-Based Development or GitFlow — What&#39;s your dev workflow?](https://dev.to/bucketdotco/trunk-based-development-or-gitflow-whats-your-dev-workflow-p9g)
 <!-- BLOG-POST-LIST:END -->
 
