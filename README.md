@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Auth Made Easy: A Beginner&#39;s Guide to Keeping Your Apps Secure](https://dev.to/rijultp/auth-made-easy-a-beginners-guide-to-keeping-your-apps-secure-bmp)
 - [ElasticSearch Architecture: A Comprehensive Guide](https://dev.to/wadee_sami_4562c11ecf8066/elasticsearch-architecture-a-comprehensive-guide-12me)
 - [Observables &amp; Chill: Getting Started with RxJS](https://dev.to/lovestaco/observables-chill-getting-started-with-rxjs-4khe)
 - [20 Curated Articles on Real Money Making for Starters.](https://dev.to/rare_source/20-curated-articles-on-real-money-making-for-starters-27pn)
-- [10 Distinct Ways to Make $500 in a Week](https://dev.to/abubakersiddique761/10-distinct-ways-to-make-550-in-a-week-359k)
 <!-- BLOG-POST-LIST:END -->
 
