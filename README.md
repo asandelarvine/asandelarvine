@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Attempt at the Cloud Resume Challenge &lpar;Azure Edition&rpar;](https://dev.to/skelingtonboi/my-attempt-at-the-cloud-resume-challenge-azure-edition-36h5)
-- [Detailed Steps of JVM Object Creation Using the new Keyword in Java](https://dev.to/ryan_zhi/detailed-steps-of-jvm-object-creation-using-the-new-keyword-in-java-3mgm)
-- [Blockchain em Cena: Documentários e Filmes](https://dev.to/valterlobo/blockchain-em-cena-documentarios-e-filmes-35jk)
-- [Master Terraform Advanced Functions — No Cloud Access Required!](https://dev.to/ramkumar_manickam_a24fec3/master-terraform-advanced-functions-no-cloud-access-required-3c46)
+- [The Power of Event Networking Apps: How They Revolutionize Attendee Connections](https://dev.to/saanvipatel099/the-power-of-event-networking-apps-how-they-revolutionize-attendee-connections-5579)
+- [The Future of AI: How OpenAI Development Companies Are Shaping Industries](https://dev.to/michael_oliver_12e41257b3/the-future-of-ai-how-openai-development-companies-are-shaping-industries-34ef)
+- [A quick rundown....](https://dev.to/mince/a-quick-rundown-560e)
+- [LIBRARY VS FRAMEWORK](https://dev.to/mince/library-vs-framework-17i7)
 <!-- BLOG-POST-LIST:END -->
 
