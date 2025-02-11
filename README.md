@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Traits in Laravel](https://dev.to/websilvercraft/how-to-use-traits-in-laravel-5232)
-- [10 React Mistakes You Must Avoid as a Developer 🚀](https://dev.to/kelvincode1234/10-react-mistakes-you-must-avoid-as-a-developer-4mpl)
-- [Efficiently Handling AWS Credentials: Best Practices and Techniques](https://dev.to/pizofreude/efficiently-handling-aws-credentials-best-practices-and-techniques-16i0)
-- [🚨GIVEAWAY🚨 - Help us reach 15,000 stars and win our Ultimate Swag Pack! 🐝 👕](https://dev.to/wasp/giveaway-help-us-reach-15000-stars-and-win-our-ultimate-swag-pack-5fal)
+- [The Evolution of Kafka and the Changing Data Landscape IS FINALLY OUT !!](https://dev.to/lorebrada00/the-evolution-of-kafka-and-the-changing-data-landscape-is-finally-out--296d)
+- [Free Admin Dashboard built with Shadcn UI and Tailwind CSS](https://dev.to/fredy/free-admin-dashboard-built-with-shadcn-ui-and-tailwind-css-2akj)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-157k)
+- [3 reasons you should tour a conference talk](https://dev.to/whitep4nth3r/3-reasons-you-should-tour-a-conference-talk-3n94)
 <!-- BLOG-POST-LIST:END -->
 
