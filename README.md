@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Windows Docker Images with GitHub Actions](https://dev.to/bobbyiliev/how-to-build-windows-docker-images-with-github-actions-2i9l)
-- [Golang Channel Deep Dive: From Zero to Hero](https://dev.to/leapcell/golang-channel-deep-dive-from-zero-to-hero-4com)
-- [Check if You Are Using a Local Account or Microsoft Account in Windows 11!](https://dev.to/narendhiran/check-if-you-are-using-a-local-account-or-microsoft-account-in-windows-11-4mlh)
-- [Choosing the Right Frontend Framework: React vs Vue vs Angular](https://dev.to/cryptosandy/choosing-the-right-frontend-framework-react-vs-vue-vs-angular-209f)
+- [How to Use Traits in Laravel](https://dev.to/websilvercraft/how-to-use-traits-in-laravel-5232)
+- [10 React Mistakes You Must Avoid as a Developer 🚀](https://dev.to/kelvincode1234/10-react-mistakes-you-must-avoid-as-a-developer-4mpl)
+- [Efficiently Handling AWS Credentials: Best Practices and Techniques](https://dev.to/pizofreude/efficiently-handling-aws-credentials-best-practices-and-techniques-16i0)
+- [🚨GIVEAWAY🚨 - Help us reach 15,000 stars and win our Ultimate Swag Pack! 🐝 👕](https://dev.to/wasp/giveaway-help-us-reach-15000-stars-and-win-our-ultimate-swag-pack-5fal)
 <!-- BLOG-POST-LIST:END -->
 
