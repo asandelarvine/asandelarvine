@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduce AI Training Costs with Neurolov AI’s Browser-Based GPU Platform](https://dev.to/neurolov_ai_/reduce-ai-training-costs-with-neurolov-ais-browser-based-gpu-platform-584g)
-- [Building a High-Performance Data Grid in React: A Developer’s Guide](https://dev.to/sencha_reext/building-a-high-performance-data-grid-in-react-a-developers-guide-7jc)
-- [How to Convert a PDF to an Image in Swift](https://dev.to/zubinajmera/how-to-convert-a-pdf-to-an-image-in-swift-512d)
-- [How to Structure a React App Like a Pro 🔥](https://dev.to/hadil/how-to-structure-a-react-app-like-a-pro-20b9)
+- [Dive AI Agent, an Open Source MCP Client and Host for Desktop](https://dev.to/dive_biggo/show-hn-dive-ai-agent-an-open-source-mcp-client-and-host-for-desktop-4bnb)
+- [DeepSeek’s R1 AI Model: A Game-Changer or a Security Nightmare?](https://dev.to/abdul_rehmankhan01/deepseeks-r1-ai-model-a-game-changer-or-a-security-nightmare-3024)
+- [The Future of Work: How AI is Reshaping Business Strategies](https://dev.to/article1/the-future-of-work-how-ai-is-reshaping-business-strategies-c89)
+- [Getting Started with CI/CD: A Beginner&#39;s Guide to Automating Your First Pipeline &lpar;With Github Actions&rpar;](https://dev.to/isaactony/getting-started-with-cicd-a-beginners-guide-to-automating-your-first-pipeline-with-github-2a5)
 <!-- BLOG-POST-LIST:END -->
 
