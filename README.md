@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inspiring Young Coders: How CodeMonkey Turns Kids into Tech Creators](https://dev.to/michaellarocca/inspiring-young-coders-how-codemonkey-turns-kids-into-tech-creators-gpn)
-- [Empowering Open Source Through Funding Workshops](https://dev.to/jennythomas498/empowering-open-source-through-funding-workshops-40i2)
-- [Empowering Innovation: The Role of Open Source Project Sponsorship Platforms](https://dev.to/zhangwei42/empowering-innovation-the-role-of-open-source-project-sponsorship-platforms-2e46)
-- [Empowering Developers: The Role of Open Source Grants](https://dev.to/ashucommits/empowering-developers-the-role-of-open-source-grants-pnp)
+- [&quot;Unlocking AI&#39;s Role in Revolutionizing Scientific Research and Job Hiring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-role-in-revolutionizing-scientific-research-and-job-hiring-2h0g)
+- [Daily JavaScript Challenge #JS-99: Find Non-Repeating Character in String](https://dev.to/dpc/daily-javascript-challenge-js-99-find-non-repeating-character-in-string-4cm0)
+- [How My AI Image Search Engine Learned to Love Porn](https://dev.to/oberst_murxes_93ab3a90a6e/how-my-ai-image-search-engine-learned-to-love-porn-3g97)
+- [Models - Oversimplified](https://dev.to/mindyzwan/models-oversimplified-5gk3)
 <!-- BLOG-POST-LIST:END -->
 
