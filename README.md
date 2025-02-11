@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auth Made Easy: A Beginner&#39;s Guide to Keeping Your Apps Secure](https://dev.to/rijultp/auth-made-easy-a-beginners-guide-to-keeping-your-apps-secure-bmp)
-- [ElasticSearch Architecture: A Comprehensive Guide](https://dev.to/wadee_sami_4562c11ecf8066/elasticsearch-architecture-a-comprehensive-guide-12me)
-- [Observables &amp; Chill: Getting Started with RxJS](https://dev.to/lovestaco/observables-chill-getting-started-with-rxjs-4khe)
-- [20 Curated Articles on Real Money Making for Starters.](https://dev.to/rare_source/20-curated-articles-on-real-money-making-for-starters-27pn)
+- [Master of HTML? Prove It with async and defer](https://dev.to/leapcell/master-of-html-prove-it-with-async-and-defer-5f7i)
+- [Exploring AWS Identity and Access Management &lpar;IAM&rpar;: A Hands-on Experience 🔐](https://dev.to/admiralng/exploring-aws-identity-and-access-management-iam-a-hands-on-experience-eoc)
+- [Study Notes 3.1.2: Partitioning and Clustering in BigQuery](https://dev.to/pizofreude/study-notes-312-partitioning-and-clustering-in-bigquery-oe)
+- [My Python Language Solution to Task 2: Decode XOR from The Weekly Challenge 308](https://dev.to/rcmcintosh/my-python-language-solution-to-task-2-decode-xor-from-the-weekly-challenge-308-3a3i)
 <!-- BLOG-POST-LIST:END -->
 
