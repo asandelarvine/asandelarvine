@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Kafka and the Changing Data Landscape IS FINALLY OUT !!](https://dev.to/lorebrada00/the-evolution-of-kafka-and-the-changing-data-landscape-is-finally-out--296d)
-- [Free Admin Dashboard built with Shadcn UI and Tailwind CSS](https://dev.to/fredy/free-admin-dashboard-built-with-shadcn-ui-and-tailwind-css-2akj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-157k)
-- [3 reasons you should tour a conference talk](https://dev.to/whitep4nth3r/3-reasons-you-should-tour-a-conference-talk-3n94)
+- [Do you want some tips for designing](https://dev.to/mince/do-you-want-some-tips-for-designing-30g7)
+- [Part 3 coming tomorrow](https://dev.to/mince/part-3-coming-tomorrow-2d9m)
+- [How I Debug Faster with These Simple Tricks](https://dev.to/rowsanali/how-i-debug-faster-with-these-simple-tricks-l2h)
+- [Valentine’s Day Crypto Activities Overview 🎁](https://dev.to/theodor_coin_4/valentines-day-crypto-activities-overview-4ibh)
 <!-- BLOG-POST-LIST:END -->
 
