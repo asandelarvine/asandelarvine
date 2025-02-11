@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking AI&#39;s Role in Revolutionizing Scientific Research and Job Hiring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-role-in-revolutionizing-scientific-research-and-job-hiring-2h0g)
-- [Daily JavaScript Challenge #JS-99: Find Non-Repeating Character in String](https://dev.to/dpc/daily-javascript-challenge-js-99-find-non-repeating-character-in-string-4cm0)
-- [How My AI Image Search Engine Learned to Love Porn](https://dev.to/oberst_murxes_93ab3a90a6e/how-my-ai-image-search-engine-learned-to-love-porn-3g97)
-- [Models - Oversimplified](https://dev.to/mindyzwan/models-oversimplified-5gk3)
+- [Milvus: Your Vector Database Powerhouse – A Deep Dive](https://dev.to/simplr_sh/milvus-your-vector-database-powerhouse-a-deep-dive-2d6h)
+- [React State: useState Explained Simply](https://dev.to/marveeeen/react-state-usestate-explained-simply-24ic)
+- [Inorder Traversal](https://dev.to/mujahida_joynab_64c7407d8/inorder-traversal-4l8d)
+- [WinUI i18n: how to create Resources.resw file](https://dev.to/shaunthegeek/winui-i18n-how-to-create-resourcesresw-file-4d25)
 <!-- BLOG-POST-LIST:END -->
 
