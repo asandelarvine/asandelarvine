@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive AI Agent, an Open Source MCP Client and Host for Desktop](https://dev.to/dive_biggo/show-hn-dive-ai-agent-an-open-source-mcp-client-and-host-for-desktop-4bnb)
-- [DeepSeek’s R1 AI Model: A Game-Changer or a Security Nightmare?](https://dev.to/abdul_rehmankhan01/deepseeks-r1-ai-model-a-game-changer-or-a-security-nightmare-3024)
-- [The Future of Work: How AI is Reshaping Business Strategies](https://dev.to/article1/the-future-of-work-how-ai-is-reshaping-business-strategies-c89)
-- [Getting Started with CI/CD: A Beginner&#39;s Guide to Automating Your First Pipeline &lpar;With Github Actions&rpar;](https://dev.to/isaactony/getting-started-with-cicd-a-beginners-guide-to-automating-your-first-pipeline-with-github-2a5)
+- [Semantic search on top of object detection](https://dev.to/mayank_laddha_21ef3e061ff/semantic-search-on-top-of-object-detection-1pf5)
+- [This was fun...](https://dev.to/mince/this-was-fun-77m)
+- [How I Solve Git Merge Conflicts Like a Pro](https://dev.to/rowsanali/how-i-solve-git-merge-conflicts-like-a-pro-b9o)
+- [Angular Addicts #34: Angular 19.1, AI &amp; Angular, introduction to DDD &amp; more](https://dev.to/this-is-angular/angular-addicts-34-angular-191-ai-angular-introduction-to-ddd-more-18d3)
 <!-- BLOG-POST-LIST:END -->
 
