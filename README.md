@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como passar na certificação AI Practitioner - AWS](https://dev.to/airton_lirajunior_2ddebd/como-passar-na-certificacao-ai-practitioner-aws-1cni)
-- [🚀 TypeScript Crash Course: From Beginner to Advanced](https://dev.to/ebereplenty/typescript-crash-course-from-beginner-to-advanced-22dp)
-- [Real World Experience: Github Copilot Edits](https://dev.to/bytehala/real-world-experience-github-copilot-edits-4k37)
-- [🚀 ¡Go 1.24 ya está aquí! 🚀](https://dev.to/fuenrob/go-124-ya-esta-aqui-3ad3)
+- [Spin up a License Key API on new Railway Functions In Less Than Two Minutes!](https://dev.to/dougwithseismic/spin-up-a-license-key-api-on-new-railway-functions-in-less-than-two-minutes-4m5i)
+- [Microfrontend Architecture: Breaking Down Monolith Frontends](https://dev.to/bebetos92/microfrontend-architecture-breaking-down-monolith-frontends-omb)
+- [Automation &amp; IaC in Azure: Key Benefits](https://dev.to/jakeinthecloud/automation-iac-with-azure-key-benefits-520b)
+- [Feature Toggles: A Simple Way to Manage Access to Premium Features](https://dev.to/budiwidhiyanto/feature-toggles-a-simple-way-to-manage-access-to-premium-features-52j6)
 <!-- BLOG-POST-LIST:END -->
 
