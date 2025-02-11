@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem No One Talks About: Reviewing Mobile App PRs](https://dev.to/pratiksha_patil_2422d808e/the-problem-no-one-talks-about-reviewing-mobile-app-prs-2hbi)
-- [ChatGPT, Gemini, Copilot, or DeepSeek R1—Which One Should You Use?](https://dev.to/dhruvjoshi9/chatgpt-gemini-copilot-or-deepseek-r1-which-one-should-you-use-56ai)
-- [🎙️We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-53eg)
-- [Trunk-Based Development or GitFlow — What&#39;s your dev workflow?](https://dev.to/bucketdotco/trunk-based-development-or-gitflow-whats-your-dev-workflow-p9g)
+- [How to Build Windows Docker Images with GitHub Actions](https://dev.to/bobbyiliev/how-to-build-windows-docker-images-with-github-actions-2i9l)
+- [Golang Channel Deep Dive: From Zero to Hero](https://dev.to/leapcell/golang-channel-deep-dive-from-zero-to-hero-4com)
+- [Check if You Are Using a Local Account or Microsoft Account in Windows 11!](https://dev.to/narendhiran/check-if-you-are-using-a-local-account-or-microsoft-account-in-windows-11-4mlh)
+- [Choosing the Right Frontend Framework: React vs Vue vs Angular](https://dev.to/cryptosandy/choosing-the-right-frontend-framework-react-vs-vue-vs-angular-209f)
 <!-- BLOG-POST-LIST:END -->
 
