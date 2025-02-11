@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Event Networking Apps: How They Revolutionize Attendee Connections](https://dev.to/saanvipatel099/the-power-of-event-networking-apps-how-they-revolutionize-attendee-connections-5579)
-- [The Future of AI: How OpenAI Development Companies Are Shaping Industries](https://dev.to/michael_oliver_12e41257b3/the-future-of-ai-how-openai-development-companies-are-shaping-industries-34ef)
-- [A quick rundown....](https://dev.to/mince/a-quick-rundown-560e)
-- [LIBRARY VS FRAMEWORK](https://dev.to/mince/library-vs-framework-17i7)
+- [Free Data and AI Courses: 365 Data Science&#39;s Free Access Initiative](https://dev.to/lily_amila/free-data-and-ai-courses-365-data-sciences-free-access-initiative-4b47)
+- [Prevent HTTP Parameter Pollution in Laravel: A Guide](https://dev.to/pentest_testing_corp/prevent-http-parameter-pollution-in-laravel-a-guide-23cg)
+- [How to Convert CRT to PEM Format Using OpenSSL Tool](https://dev.to/judypage/how-to-convert-crt-to-pem-format-using-openssl-tool-2ban)
+- [The One Developer Problem No One Talks About &lpar;But Everyone Faces&rpar;](https://dev.to/pratiksha_patil_2422d808e/the-one-developer-problem-no-one-talks-about-but-everyone-faces-3l2i)
 <!-- BLOG-POST-LIST:END -->
 
