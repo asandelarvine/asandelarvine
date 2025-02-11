@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking 101: Part 2](https://dev.to/himanshu_bhatt/networking-101-part-2-34f6)
-- [Content Security Policy: Your Website&#39;s Unsung Hero](https://dev.to/simplr_sh/content-security-policy-your-websites-unsung-hero-44dp)
-- [Parsing the ⭐&#39;s with txtai](https://dev.to/neuml/parsing-the-s-with-txtai-31lf)
-- [Game Changing Improvements to ArtistAssistApp in February 2025](https://dev.to/eugene-khyst/game-changing-improvements-to-artistassistapp-in-february-2025-5577)
+- [Building a financial dashboard with HTML5, TailwindCSS v4, and Vanilla JavaScript](https://dev.to/sirneij/building-a-financial-dashboard-with-html5-tailwindcss-v4-and-vanilla-javascript-5cmb)
+- [Chunking your data for RAG](https://dev.to/neuml/chunking-your-data-for-rag-5cab)
+- [7 Simple Tricks to Make Your Code Cleaner in 2025](https://dev.to/coderabbitai/7-simple-tricks-to-make-your-code-cleaner-in-2025-5eon)
+- [10 super under-rated open-source tools you don’t want to miss in 2025 🤯](https://dev.to/johnwoods12/10-super-under-rated-open-source-tools-you-dont-want-to-miss-in-2025-ond)
 <!-- BLOG-POST-LIST:END -->
 
