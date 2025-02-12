@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 React.js Hacks for Beginners in 2025 🚀](https://dev.to/joodi/15-reactjs-hacks-for-beginners-in-2025-1799)
-- [Svelte 5 on Bun 1.2: 始め方](https://dev.to/nabbisen/svelte-5-on-bun-12-shi-mefang-2c33)
-- [使用 Ollama + Ngrok 搭建本地 LLM，遠端存取 AI 模型教學](https://dev.to/letswrite/shi-yong-ollama-ngrok-da-jian-ben-di-llmyuan-duan-cun-qu-ai-mo-xing-jiao-xue-2jj)
-- [Email Verification with Sent Codes in Ruby on Rails without Devise](https://dev.to/pedroleo/email-verification-with-sent-codes-in-ruby-on-rails-without-devise-479a)
+- [How to Use CSS Grid for Complex Web Layouts: A Step-by-Step Guide](https://dev.to/rowsanali/how-to-use-css-grid-for-complex-web-layouts-a-step-by-step-guide-3fk9)
+- [How Ceiling Fan works?](https://dev.to/madgan95/how-ceiling-fan-works-3dgh)
+- [Join us for the next Frontend Challenge: February Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-february-edition-3070)
+- [Networking 101: Part 3](https://dev.to/himanshu_bhatt/networking-101-part-3-356h)
 <!-- BLOG-POST-LIST:END -->
 
