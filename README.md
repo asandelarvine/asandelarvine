@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gerenciando o Pull de Conexões do banco de dados com Golang](https://dev.to/booscaaa/gerenciando-o-pull-de-conexoes-do-banco-de-dados-com-golang-1261)
-- [20 Curated Articles on Side Hustles for 2025.](https://dev.to/rare_source/20-curated-articles-on-side-hustles-for-2025-27dh)
-- [Must-Know 30 Beginners Resources for Every Developers.](https://dev.to/dev-resources/must-know-30-beginners-resources-for-every-developers-169d)
-- [🚀 Build a Custom SaaS CRM in Hours &lpar;Not Months&rpar; with This React + Next.js Template](https://dev.to/shreyvijayvargiya/build-a-custom-saas-crm-in-hours-not-months-with-this-react-nextjs-template-14pd)
+- [Guide for Efficient Prompting in QA Automation](https://dev.to/cypress/guide-for-efficient-prompting-in-qa-automation-1hlf)
+- [i built fastest url shortener ever... it&#39;s open source](https://dev.to/abdibrokhim/i-built-fastest-url-shortener-ever-its-open-source-2khc)
+- [I Applied to Y Combinator Again | YC Founders Intro](https://dev.to/abdibrokhim/i-applied-to-y-combinator-again-yc-founders-intro-497h)
+- [Integrating DeepSeek API in NextJs and ExpressJs App](https://dev.to/itsrakesh/integrating-deepseek-api-in-nextjs-and-expressjs-app-3476)
 <!-- BLOG-POST-LIST:END -->
 
