@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you accept that we shouldn&#39;t care of followers in dev.to, They are all bots](https://dev.to/mince/do-you-accept-that-we-shouldnt-care-of-followers-in-devto-they-are-all-bots-2mc)
-- [How I’m Treating Myself &lpar;and Others&rpar; This Valentine’s Day as a Crypto Enthusiast](https://dev.to/leo_scott_357f10236fabe00/how-im-treating-myself-and-others-this-valentines-day-as-a-crypto-enthusiast-5akg)
-- [Don’t Rely on Social Media Alone! 9 Reasons Why Your Business Needs a Website?](https://dev.to/web_dev-usman/dont-rely-on-social-media-alone-9-reasons-why-your-business-needs-a-website-144l)
-- [Testing 3](https://dev.to/sarifht/testing-3-4c2k)
+- [How to Write Technical Documentation in 2025: A Step-by-Step Guide](https://dev.to/auden/how-to-write-technical-documentation-in-2025-a-step-by-step-guide-1hh1)
+- [A developers guide to v0.dev](https://dev.to/codeparrot/a-developers-guide-to-v0dev-4c4g)
+- [Game Design Constraints as a Driver for Educational Games](https://dev.to/valentin_briukhanov/game-design-constraints-as-a-driver-for-educational-games-2hn1)
+- [Perform CRUD on a database using Dapper](https://dev.to/fakestandard/dapper-perform-crud-on-a-database-using-dapper-2do3)
 <!-- BLOG-POST-LIST:END -->
 
