@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide for Efficient Prompting in QA Automation](https://dev.to/cypress/guide-for-efficient-prompting-in-qa-automation-1hlf)
-- [i built fastest url shortener ever... it&#39;s open source](https://dev.to/abdibrokhim/i-built-fastest-url-shortener-ever-its-open-source-2khc)
-- [I Applied to Y Combinator Again | YC Founders Intro](https://dev.to/abdibrokhim/i-applied-to-y-combinator-again-yc-founders-intro-497h)
-- [Integrating DeepSeek API in NextJs and ExpressJs App](https://dev.to/itsrakesh/integrating-deepseek-api-in-nextjs-and-expressjs-app-3476)
+- [Building More Inclusive and Accessible Mobile Apps: Lessons from My React Native Journey](https://dev.to/antoomartini/building-more-inclusive-and-accessible-mobile-apps-lessons-from-my-react-native-journey-4996)
+- [Build Features from the Outside In](https://dev.to/railsdesigner/build-features-from-the-outside-in-3b09)
+- [Using React Suspense with Data Fetching and Concurrent Rendering.](https://dev.to/melvinprince/using-react-suspense-with-data-fetching-and-concurrent-rendering-3nnh)
+- [Leet Code Palindrome problem in Javascript](https://dev.to/sushmeet/leet-code-palindrome-problem-in-javascript-238n)
 <!-- BLOG-POST-LIST:END -->
 
