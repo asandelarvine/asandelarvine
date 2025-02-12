@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ Elevate Your UI: Creating a Stunning Linear Gradient Border in React Native](https://dev.to/amitkumar13/elevate-your-ui-creating-a-stunning-linear-gradient-border-in-react-native-2ace)
+- [I made my DEV articles into a blog using the Forem API](https://dev.to/moopet/i-made-my-dev-articles-into-a-blog-using-the-forem-api-42d2)
+- [I Tested the Top AI Models to Build the Same App - Here are the Shocking Results!](https://dev.to/andrewbaisden/i-tested-the-top-ai-models-to-build-the-same-app-here-are-the-shocking-results-39l9)
 - [How to Use CSS Grid for Complex Web Layouts: A Step-by-Step Guide](https://dev.to/rowsanali/how-to-use-css-grid-for-complex-web-layouts-a-step-by-step-guide-3fk9)
-- [How Ceiling Fan works?](https://dev.to/madgan95/how-ceiling-fan-works-3dgh)
-- [Join us for the next Frontend Challenge: February Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-february-edition-3070)
-- [Networking 101: Part 3](https://dev.to/himanshu_bhatt/networking-101-part-3-356h)
 <!-- BLOG-POST-LIST:END -->
 
