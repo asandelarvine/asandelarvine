@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JUnit Testing | Spring Boot | Java Spring](https://dev.to/debeshpg90/junit-testing-spring-boot-java-spring-1891)
-- [Stop asking users for their AI API keys](https://dev.to/miguelaeh/stop-asking-users-for-their-ai-api-keys-2583)
-- [Networking 101: Part 4](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
-- [20+ Best Programming Project Ideas for Beginners](https://dev.to/tarunfulera1/20-best-programming-project-ideas-for-beginners-1g4p)
+- [Gerenciando o Pull de Conexões do banco de dados com Golang](https://dev.to/booscaaa/gerenciando-o-pull-de-conexoes-do-banco-de-dados-com-golang-1261)
+- [20 Curated Articles on Side Hustles for 2025.](https://dev.to/rare_source/20-curated-articles-on-side-hustles-for-2025-27dh)
+- [Must-Know 30 Beginners Resources for Every Developers.](https://dev.to/dev-resources/must-know-30-beginners-resources-for-every-developers-169d)
+- [🚀 Build a Custom SaaS CRM in Hours &lpar;Not Months&rpar; with This React + Next.js Template](https://dev.to/shreyvijayvargiya/build-a-custom-saas-crm-in-hours-not-months-with-this-react-nextjs-template-14pd)
 <!-- BLOG-POST-LIST:END -->
 
