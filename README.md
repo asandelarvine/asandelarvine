@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 38 - Primary key, Foreign key in Database, Types of SQL Languages](https://dev.to/lakshmipritha/day-38-primary-key-foreign-key-in-database-types-of-sql-languages-3g3p)
-- [Bootcamps Didn&#39;t Create Full Stack Developers—And If You Think Otherwise, You&#39;re a Fool](https://dev.to/itamartati/bootcamps-didnt-create-full-stack-developers-and-if-you-think-otherwise-youre-a-fool-lj8)
-- [Deploying Serverless Functions Across Regions with AWS Lambda](https://dev.to/aws-builders/deploying-serverless-functions-across-regions-with-aws-lambda-2khc)
-- [Rate Limiting: A Practical Guide to Prevent Overuse](https://dev.to/propelauth/rate-limiting-a-practical-guide-to-prevent-overuse-16lm)
+- [Update unitprice in order view via a custom module](https://dev.to/pabodah/update-unitprice-in-order-view-via-a-custom-module-1p2i)
+- [Scalability Testing: Automating for Performance and Growth](https://dev.to/radha_4c842d8e4362a7cdd9c/scalability-testing-automating-for-performance-and-growth-32l4)
+- [The Cracked Engineer: From JavaScript to Rust: The Engineer’s Guide to Systems Programming](https://dev.to/gho5t_97/the-cracked-engineer-moving-from-javascript-to-rust-the-basics-3ncl)
+- [Self-Hosting a Multiplayer WebXR App with Needle Engine on Vercel](https://dev.to/kojirovr/self-hosting-a-multiplayer-webxr-app-with-needle-engine-on-vercel-385c)
 <!-- BLOG-POST-LIST:END -->
 
