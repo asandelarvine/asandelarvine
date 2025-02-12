@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building More Inclusive and Accessible Mobile Apps: Lessons from My React Native Journey](https://dev.to/antoomartini/building-more-inclusive-and-accessible-mobile-apps-lessons-from-my-react-native-journey-4996)
-- [Build Features from the Outside In](https://dev.to/railsdesigner/build-features-from-the-outside-in-3b09)
-- [Using React Suspense with Data Fetching and Concurrent Rendering.](https://dev.to/melvinprince/using-react-suspense-with-data-fetching-and-concurrent-rendering-3nnh)
-- [Leet Code Palindrome problem in Javascript](https://dev.to/sushmeet/leet-code-palindrome-problem-in-javascript-238n)
+- [Install Hashicorp Vault with Ansible](https://dev.to/kubenetic/install-hashicorp-vault-with-ansible-lb3)
+- [Self-signed PKI for the homelab](https://dev.to/kubenetic/self-signed-pki-for-the-homelab-58hh)
+- [Module 3 of DataTalks club Data Engg bootcamp.](https://dev.to/grokker_f9bf83d79cb9beb6f/module-3-of-datatalks-club-data-engg-bootcamp-3h23)
+- [Prompt Engineering vs Fine-Tuning for LLMs: Choosing the Right Approach](https://dev.to/mikesays/prompt-engineering-vs-fine-tuning-for-llms-choosing-the-right-approach-56de)
 <!-- BLOG-POST-LIST:END -->
 
