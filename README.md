@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Common Mistakes Developers Make with CORS &lpar;and How to Avoid Them&rpar;](https://dev.to/reynaldichernando/7-common-mistakes-developers-make-with-cors-and-how-to-avoid-them-57pe)
-- [Top VSCode Extensions I Use Everyday - 2025 Edition](https://dev.to/bascodes/top-vscode-extensions-i-use-everyday-2025-edition-1lai)
-- [What is Deep Learning? A Comprehensive Guide](https://dev.to/aditya_tripathi_17ffee7f5/what-is-deep-learning-a-comprehensive-guide-3ap2)
-- [Streamlining CI/CD for Salesforce: A Step-by-Step Guide](https://dev.to/vimal-patel/streamlining-cicd-for-salesforce-a-step-by-step-guide-3d7n)
+- [Optimizing Performance and Cost on AWS: Strategies for Large-Scale Environments](https://dev.to/prakash_rao/optimizing-performance-and-cost-on-aws-strategies-for-large-scale-environments-20jj)
+- [🚀 Your Daily Crypto Job Digest For 12 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-12-february-2292)
+- [You are more than the tools you use: tell your story](https://dev.to/whitep4nth3r/you-are-more-than-the-tools-you-use-tell-your-story-epi)
+- [Guys part 3 is out!!!! 🥳🥳](https://dev.to/mince/guys-part-3-is-out-42c2)
 <!-- BLOG-POST-LIST:END -->
 
