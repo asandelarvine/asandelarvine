@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Contributed to Kestra: A Beginner’s Perspective](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-contributed-to-kestra-a-beginners-perspective-4leo)
-- [Go 1.24 Released: Massive Optimizations &amp; Key Upgrades!](https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn)
-- [Best Custom Insurance Software Development Platforms in 2025](https://dev.to/openkoda/best-custom-insurance-software-development-platforms-in-2025-5cpj)
-- [AI System Makes Lip Reading More Personal and Accurate with Audio-Visual Learning](https://dev.to/mikeyoung44/ai-system-makes-lip-reading-more-personal-and-accurate-with-audio-visual-learning-4jgn)
+- [7 Common Mistakes Developers Make with CORS &lpar;and How to Avoid Them&rpar;](https://dev.to/reynaldichernando/7-common-mistakes-developers-make-with-cors-and-how-to-avoid-them-57pe)
+- [Top VSCode Extensions I Use Everyday - 2025 Edition](https://dev.to/bascodes/top-vscode-extensions-i-use-everyday-2025-edition-1lai)
+- [What is Deep Learning? A Comprehensive Guide](https://dev.to/aditya_tripathi_17ffee7f5/what-is-deep-learning-a-comprehensive-guide-3ap2)
+- [Streamlining CI/CD for Salesforce: A Step-by-Step Guide](https://dev.to/vimal-patel/streamlining-cicd-for-salesforce-a-step-by-step-guide-3d7n)
 <!-- BLOG-POST-LIST:END -->
 
