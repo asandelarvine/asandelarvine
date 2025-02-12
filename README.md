@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflexões ao usar o GitHub Copilot](https://dev.to/edersontec/reflexoes-ao-usar-o-github-copilot-1cc1)
-- [Mastering API resources in Laravel: Transforming your data with power and flexibility](https://dev.to/aleson-franca/mastering-api-resources-in-laravel-transforming-your-data-with-power-and-flexibility-4f51)
-- [[Boost]](https://dev.to/vayolapradeep/-5fc9)
-- [Creating a RESTful API with Nolang](https://dev.to/nolang/creating-a-restful-api-with-nolang-8ne)
+- [How to Validate XML Against DTD Locally and Securely](https://dev.to/chatgptnexus/2025021308-07-55-article-3dd2)
+- [A Step-by-Step Guide to LLM Function Calling in Python](https://dev.to/angu10/a-step-by-step-guide-to-llm-function-calling-in-python-4pg7)
+- [Mozilla TTS: La Herramienta de Voz que Suena como un Humano 🦊](https://dev.to/angel_rojas_6904bae237a0d/mozilla-tts-la-herramienta-de-voz-que-suena-como-un-humano-1o8a)
+- [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://dev.to/chukwu3meka/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-1jf9)
 <!-- BLOG-POST-LIST:END -->
 
