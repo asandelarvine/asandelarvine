@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📄 How to Implement a PDF Viewer with Page Navigation in React](https://dev.to/hardik2208/how-to-implement-a-pdf-viewer-with-page-navigation-in-react-591h)
-- [🚀 Is Your Website Fast Enough?](https://dev.to/dct_technologyprivatelimited/is-your-website-fast-enough-14a)
-- [Python vs PHP: Which One is Better for Website Development? 🤔](https://dev.to/dct_technologyprivatelimited/python-vs-php-which-one-is-better-for-website-development-2d4f)
-- [Find x: React + MobX + SSR + x = Happiness](https://dev.to/viacheslav_muravyev_af526/find-x-react-mobx-ssr-x-happiness-3b8o)
+- [#143 — Expand One Row into Multiple Rows after Splitting Text](https://dev.to/judith677/143-expand-one-row-into-multiple-rows-after-splitting-text-21eg)
+- [Why Tailwind CSS is Revolutionizing Modern Web Development](https://dev.to/vibhuvibes/why-tailwind-css-is-revolutionizing-modern-web-development-4bdp)
+- [Kunal Kumar](https://dev.to/kunalkumar/kunal-kumar-lj1)
+- [Understanding the Difference Between npm and npx](https://dev.to/ramyasree_manthena_76c598/understanding-the-difference-between-npm-and-npx-463e)
 <!-- BLOG-POST-LIST:END -->
 
