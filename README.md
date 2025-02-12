@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow’s AI Revolution: Reshaping Enterprise Automation AI Is Transforming Enterprise Automation—Are You Ready?](https://dev.to/sip_mjb/servicenows-ai-revolution-reshaping-enterprise-automation-ai-is-transforming-enterprise-j32)
-- [Guide to Using Appium Inspector](https://dev.to/misterankit/guide-to-using-appium-inspector-4hi6)
-- [Ultimate Guide to REST API Design: Best Practices and Patterns](https://dev.to/kelvincode1234/ultimate-guide-to-rest-api-design-best-practices-and-patterns-1hia)
-- [tw.sh: I sent tweets via CLI with a new tool from X.](https://dev.to/evertontenorio/twsh-i-sent-tweets-via-cli-with-a-new-tool-from-x-3ekc)
+- [📄 How to Implement a PDF Viewer with Page Navigation in React](https://dev.to/hardik2208/how-to-implement-a-pdf-viewer-with-page-navigation-in-react-591h)
+- [🚀 Is Your Website Fast Enough?](https://dev.to/dct_technologyprivatelimited/is-your-website-fast-enough-14a)
+- [Python vs PHP: Which One is Better for Website Development? 🤔](https://dev.to/dct_technologyprivatelimited/python-vs-php-which-one-is-better-for-website-development-2d4f)
+- [Find x: React + MobX + SSR + x = Happiness](https://dev.to/viacheslav_muravyev_af526/find-x-react-mobx-ssr-x-happiness-3b8o)
 <!-- BLOG-POST-LIST:END -->
 
