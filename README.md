@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#143 — Expand One Row into Multiple Rows after Splitting Text](https://dev.to/judith677/143-expand-one-row-into-multiple-rows-after-splitting-text-21eg)
-- [Why Tailwind CSS is Revolutionizing Modern Web Development](https://dev.to/vibhuvibes/why-tailwind-css-is-revolutionizing-modern-web-development-4bdp)
-- [Kunal Kumar](https://dev.to/kunalkumar/kunal-kumar-lj1)
-- [Understanding the Difference Between npm and npx](https://dev.to/ramyasree_manthena_76c598/understanding-the-difference-between-npm-and-npx-463e)
+- [&quot;Revolutionizing Robot Task Planning with LLM-GP-BT: A Game Changer!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-robot-task-planning-with-llm-gp-bt-a-game-changer-3jpc)
+- [Python Requests: Mastering JSON Data POST](https://dev.to/apilover/python-requests-mastering-json-data-post-leh)
+- [My 3hr Landing Page Build Strategy in 2025](https://dev.to/pinknoise/my-3hr-landing-page-build-strategy-in-2025-4mff)
+- [Node.js E2E Testing with Cypress: A Comprehensive Setup Guide](https://dev.to/sivantha96/nodejs-e2e-testing-with-cypress-a-comprehensive-setup-guide-1287)
 <!-- BLOG-POST-LIST:END -->
 
