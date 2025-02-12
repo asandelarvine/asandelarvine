@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Update unitprice in order view via a custom module](https://dev.to/pabodah/update-unitprice-in-order-view-via-a-custom-module-1p2i)
-- [Scalability Testing: Automating for Performance and Growth](https://dev.to/radha_4c842d8e4362a7cdd9c/scalability-testing-automating-for-performance-and-growth-32l4)
-- [The Cracked Engineer: From JavaScript to Rust: The Engineer’s Guide to Systems Programming](https://dev.to/gho5t_97/the-cracked-engineer-moving-from-javascript-to-rust-the-basics-3ncl)
-- [Self-Hosting a Multiplayer WebXR App with Needle Engine on Vercel](https://dev.to/kojirovr/self-hosting-a-multiplayer-webxr-app-with-needle-engine-on-vercel-385c)
+- [Variables in python](https://dev.to/vayolapradeep/variables-in-python-350f)
+- [🌐 What is HTML? How Do Websites Work Behind the Scenes?](https://dev.to/behan05/what-is-html-how-do-websites-work-behind-the-scenes-368l)
+- [Convert DOCX to PDF Programmatically: AWS Lambda &amp; LibreOffice](https://dev.to/itsawaisahmad/convert-docx-to-pdf-programmatically-aws-lambda-libreoffice-1l24)
+- [Redux toolkit basic setup baby.](https://dev.to/thekbbohara/redux-toolkit-basic-setup-baby-1o4o)
 <!-- BLOG-POST-LIST:END -->
 
