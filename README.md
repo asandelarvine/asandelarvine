@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spin up a License Key API on new Railway Functions In Less Than Two Minutes!](https://dev.to/dougwithseismic/spin-up-a-license-key-api-on-new-railway-functions-in-less-than-two-minutes-4m5i)
-- [Microfrontend Architecture: Breaking Down Monolith Frontends](https://dev.to/bebetos92/microfrontend-architecture-breaking-down-monolith-frontends-omb)
-- [Automation &amp; IaC in Azure: Key Benefits](https://dev.to/jakeinthecloud/automation-iac-with-azure-key-benefits-520b)
-- [Feature Toggles: A Simple Way to Manage Access to Premium Features](https://dev.to/budiwidhiyanto/feature-toggles-a-simple-way-to-manage-access-to-premium-features-52j6)
+- [Deploying Serverless Functions Across Regions with AWS Lambda](https://dev.to/aws-builders/deploying-serverless-functions-across-regions-with-aws-lambda-2khc)
+- [Rate Limiting: A Practical Guide to Prevent Overuse](https://dev.to/propelauth/rate-limiting-a-practical-guide-to-prevent-overuse-16lm)
+- [Ruby, Rails, Multi-threading e Puma: Como tudo isso se conecta?](https://dev.to/erick_tmr/ruby-rails-multi-threading-e-puma-como-tudo-isso-se-conecta-3kc7)
+- [Introduction to AI-Generated Code and Its Ethics](https://dev.to/kartikmehta8/introduction-to-ai-generated-code-and-its-ethics-4ocf)
 <!-- BLOG-POST-LIST:END -->
 
