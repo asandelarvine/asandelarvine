@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing Robot Task Planning with LLM-GP-BT: A Game Changer!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-robot-task-planning-with-llm-gp-bt-a-game-changer-3jpc)
-- [Python Requests: Mastering JSON Data POST](https://dev.to/apilover/python-requests-mastering-json-data-post-leh)
-- [My 3hr Landing Page Build Strategy in 2025](https://dev.to/pinknoise/my-3hr-landing-page-build-strategy-in-2025-4mff)
-- [Node.js E2E Testing with Cypress: A Comprehensive Setup Guide](https://dev.to/sivantha96/nodejs-e2e-testing-with-cypress-a-comprehensive-setup-guide-1287)
+- [Do you accept that we shouldn&#39;t care of followers in dev.to, They are all bots](https://dev.to/mince/do-you-accept-that-we-shouldnt-care-of-followers-in-devto-they-are-all-bots-2mc)
+- [How I’m Treating Myself &lpar;and Others&rpar; This Valentine’s Day as a Crypto Enthusiast](https://dev.to/leo_scott_357f10236fabe00/how-im-treating-myself-and-others-this-valentines-day-as-a-crypto-enthusiast-5akg)
+- [Don’t Rely on Social Media Alone! 9 Reasons Why Your Business Needs a Website?](https://dev.to/web_dev-usman/dont-rely-on-social-media-alone-9-reasons-why-your-business-needs-a-website-144l)
+- [Testing 3](https://dev.to/sarifht/testing-3-4c2k)
 <!-- BLOG-POST-LIST:END -->
 
