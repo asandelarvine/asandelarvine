@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 38 - Primary key, Foreign key in Database, Types of SQL Languages](https://dev.to/lakshmipritha/day-38-primary-key-foreign-key-in-database-types-of-sql-languages-3g3p)
+- [Bootcamps Didn&#39;t Create Full Stack Developers—And If You Think Otherwise, You&#39;re a Fool](https://dev.to/itamartati/bootcamps-didnt-create-full-stack-developers-and-if-you-think-otherwise-youre-a-fool-lj8)
 - [Deploying Serverless Functions Across Regions with AWS Lambda](https://dev.to/aws-builders/deploying-serverless-functions-across-regions-with-aws-lambda-2khc)
 - [Rate Limiting: A Practical Guide to Prevent Overuse](https://dev.to/propelauth/rate-limiting-a-practical-guide-to-prevent-overuse-16lm)
-- [Ruby, Rails, Multi-threading e Puma: Como tudo isso se conecta?](https://dev.to/erick_tmr/ruby-rails-multi-threading-e-puma-como-tudo-isso-se-conecta-3kc7)
-- [Introduction to AI-Generated Code and Its Ethics](https://dev.to/kartikmehta8/introduction-to-ai-generated-code-and-its-ethics-4ocf)
 <!-- BLOG-POST-LIST:END -->
 
