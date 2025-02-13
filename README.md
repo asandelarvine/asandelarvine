@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate XML Against DTD Locally and Securely](https://dev.to/chatgptnexus/2025021308-07-55-article-3dd2)
-- [A Step-by-Step Guide to LLM Function Calling in Python](https://dev.to/angu10/a-step-by-step-guide-to-llm-function-calling-in-python-4pg7)
-- [Mozilla TTS: La Herramienta de Voz que Suena como un Humano 🦊](https://dev.to/angel_rojas_6904bae237a0d/mozilla-tts-la-herramienta-de-voz-que-suena-como-un-humano-1o8a)
-- [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://dev.to/chukwu3meka/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-1jf9)
+- [Mastering Duration Conversions with Duratii](https://dev.to/alphadevking/mastering-duration-conversions-with-duratii-3jn6)
+- [Meme Roulette Chrome Extension](https://dev.to/cendekia/meme-roulette-chrome-extension-425o)
+- [Crafting a Chrome Extension: TypeScript, Webpack, and Best Practices](https://dev.to/cendekia/crafting-a-chrome-extension-typescript-webpack-and-best-practices-3g9c)
+- [PHP as a stateless language](https://dev.to/joaovitorss/php-as-a-stateless-language-3k81)
 <!-- BLOG-POST-LIST:END -->
 
