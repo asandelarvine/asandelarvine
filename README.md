@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firestore CRUD 101: Building Apps with React](https://dev.to/debajit13/firestore-crud-101-building-apps-with-react-3913)
-- [Multicast &amp; Chill: Getting Started with RxJS - III](https://dev.to/lovestaco/multicast-chill-getting-started-with-rxjs-iii-4n63)
-- [10 Super Underrated Open-Source Tools You Don’t Want to Miss in 2025 🚀](https://dev.to/dct_technologyprivatelimited/10-super-underrated-open-source-tools-you-dont-want-to-miss-in-2025-26k1)
-- [How Web Development Languages Shape User Experience 🚀](https://dev.to/dct_technologyprivatelimited/how-web-development-languages-shape-user-experience-1fd)
+- [What is Contentbase?](https://dev.to/erikfiala/what-is-contentbase-42el)
+- [⚔️ Next.js vs. Django: ¿Cuándo usar cada tecnología en tus proyectos? 🚀](https://dev.to/alvaroapdev/nextjs-vs-django-cuando-usar-cada-tecnologia-en-tus-proyectos-3mc8)
+- [Difference Between Verified Mark Certificate &lpar;VMC&rpar; Vs Common Mark Certificate &lpar;CMC&rpar;](https://dev.to/certera_/difference-between-verified-mark-certificate-vmc-vs-common-mark-certificate-cmc-2am6)
+- [Tasmotizer: How to Flash a Sonoff S26R2 Power Switch with Custom Firmware](https://dev.to/admantium/tasmotizer-how-to-flash-a-sonoff-s26r2-power-switch-with-custom-firmware-99m)
 <!-- BLOG-POST-LIST:END -->
 
