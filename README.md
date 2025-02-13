@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Security: Mitigating Vulnerabilities, Prompt Injection, and Training Data Risks in AI Systems](https://dev.to/aragorn_talks/llm-security-mitigating-vulnerabilities-prompt-injection-and-training-data-risks-in-ai-systems-6fd)
-- [Memory Management in JavaScript: A Beginner-Friendly Guide](https://dev.to/rarai365/memory-management-in-javascript-a-beginner-friendly-guide-14ja)
-- [explica brevemente que es c# ?](https://dev.to/ricardojavister/explica-brevemente-que-es-c--4cb5)
-- [Model Tuning: Optimizing Machine Learning Performance](https://dev.to/kapusto/model-tuning-optimizing-machine-learning-performance-1j3k)
+- [Fiberplane: Your Hono-native API Playground, powered by OpenAPI](https://dev.to/fiberplane/fiberplane-your-hono-native-api-playground-powered-by-openapi-59j3)
+- [Removal of bootstrap unused code in website](https://dev.to/paga_1403a6980c16afd0444f/removal-of-bootstrap-unused-code-in-website-4j28)
+- [STL Pair](https://dev.to/mujahida_joynab_64c7407d8/stl-pair-19ho)
+- [Guía Completa: Instalación y Configuración de NGINX en Ubuntu 24.04](https://dev.to/hopsersmerk/guia-completa-instalacion-y-configuracion-de-nginx-en-ubuntu-2404-3i9k)
 <!-- BLOG-POST-LIST:END -->
 
