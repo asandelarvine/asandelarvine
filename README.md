@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Contentbase?](https://dev.to/erikfiala/what-is-contentbase-42el)
-- [⚔️ Next.js vs. Django: ¿Cuándo usar cada tecnología en tus proyectos? 🚀](https://dev.to/alvaroapdev/nextjs-vs-django-cuando-usar-cada-tecnologia-en-tus-proyectos-3mc8)
-- [Difference Between Verified Mark Certificate &lpar;VMC&rpar; Vs Common Mark Certificate &lpar;CMC&rpar;](https://dev.to/certera_/difference-between-verified-mark-certificate-vmc-vs-common-mark-certificate-cmc-2am6)
-- [Tasmotizer: How to Flash a Sonoff S26R2 Power Switch with Custom Firmware](https://dev.to/admantium/tasmotizer-how-to-flash-a-sonoff-s26r2-power-switch-with-custom-firmware-99m)
+- [Learn server actions in Nextjs](https://dev.to/khalidkhankakar/learn-this-the-server-actions-in-nextjs-237h)
+- [We are on Product Hunt!](https://dev.to/dev-to-rater-org/we-are-on-product-hunt-2a7l)
+- [NextJs Server Actions](https://dev.to/khalidkhankakar/nextjs-server-actions-3oc9)
+- [Explorando o Uso de `Thread` no Kotlin](https://dev.to/comunidadedevspace/explorando-o-uso-de-thread-no-kotlin-glk)
 <!-- BLOG-POST-LIST:END -->
 
