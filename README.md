@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kaia Portal: 分散型金融の未来とエポック2への道](https://dev.to/izi_/kaia-portal-fen-san-xing-jin-rong-nowei-lai-toepotuku2henodao-4ic0)
-- [RandomResizedCrop in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-3-25b2)
-- [RandomResizedCrop in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-2-20c5)
-- [RandomResizedCrop in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-1-2l56)
+- [Bow to the rectangle](https://dev.to/aaronblondeau/bow-to-the-rectangle-2dg5)
+- [Building a Multi-Source AI Agent: Bridging Databases, APIs, and AI Models](https://dev.to/burhanahmeed/building-a-multi-source-ai-agent-bridging-databases-apis-and-ai-models-3lna)
+- [RandomResizedCrop in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-4-2ken)
+- [Pentagon Programming Assignment 2 University of the People](https://dev.to/suraj_upadhyaya_e66fa7e68/pentagon-programming-assignment-2-university-of-the-people-2k7i)
 <!-- BLOG-POST-LIST:END -->
 
