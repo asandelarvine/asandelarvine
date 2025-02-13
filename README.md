@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⏳ Productividad para desarrolladores: herramientas y hábitos que te ahorrarán horas 🚀](https://dev.to/alvaroapdev/productividad-para-desarrolladores-herramientas-y-habitos-que-te-ahorraran-horas-2pi5)
-- [Stable and Steady: A Beginner’s Journey into the World of Stablecoins](https://dev.to/garima_97/stable-and-steady-a-beginners-journey-into-the-world-of-stablecoins-21jo)
-- [Are You Making These Node.js Security Mistakes?](https://dev.to/cyberwolves/are-you-making-these-nodejs-security-mistakes-hbn)
-- [How TBMQ Uses Redis for Reliable P2P MQTT Messaging](https://dev.to/dshvaika/how-tbmq-uses-redis-for-reliable-p2p-mqtt-messaging-1bgj)
+- [How to Install &amp; Run VideoLLaMA3-7B Locally](https://dev.to/nodeshiftcloud/how-to-install-run-videollama3-7b-locally-24p1)
+- [🚀 Your Daily Crypto Job Digest For 13 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-february-42nl)
+- [🔐 Secure Azure Static Web Apps &lpar;SWA&rpar; with C# Azure Functions &amp; Authentication](https://dev.to/champcbg/secure-azure-static-web-apps-swa-with-c-azure-functions-authentication-2pm)
+- [Guia Prático: Primeiros Passos com C#](https://dev.to/unhacked/guia-pratico-primeiros-passos-com-c-4a3e)
 <!-- BLOG-POST-LIST:END -->
 
