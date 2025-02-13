@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pull request testing on Kubernetes: testing locally and on GitHub workflows](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-testing-locally-and-on-github-workflows-2pha)
-- [I wanted to prompt a discussion on how people should read documentation effectively. It&#39;s a skill in itself and something that took me a long time to really figure out how to do. https://www.ramijames.com/thoughts/reading-documentation-effectively](https://dev.to/ramijames/i-wanted-to-prompt-a-discussion-on-how-people-should-read-documentation-effectively-its-a-skill-43c8)
-- [Expo Router Tutorial: Protected Routes, Tabs, and App Structure 🚀](https://dev.to/kumarsaurav/expo-router-tutorial-protected-routes-tabs-and-app-structure-3e28)
-- [How Spring Boot Application Works Internally?](https://dev.to/jottyjohn/how-spring-boot-application-works-internally-4nf6)
+- [How to Install Mistral-Small-3 24B Locally](https://dev.to/nodeshiftcloud/how-to-install-mistral-small-3-24b-locally-54fk)
+- [Running deepseek locally, Ollama and langchain](https://dev.to/shreyvijayvargiya/running-deepseek-locally-ollama-and-langchain-142n)
+- [How to Write Clean Code: Refactoring and Best Practices](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-315h)
+- [Zustand: A Beginner&#39;s Guide to State Management in React](https://dev.to/mahmud-r-farhan/zustand-a-beginners-guide-to-state-management-in-react-2jl4)
 <!-- BLOG-POST-LIST:END -->
 
