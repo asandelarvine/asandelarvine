@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Use Our APP to Build Our APP](https://dev.to/buildwebcrumbs/how-we-use-our-app-to-build-our-app-5c63)
-- [Css](https://dev.to/srijith_pr_21f9ed42dc6ec/css-f4j)
-- [Why should we keep writing? Let&#39;s Discuss! 🤝](https://dev.to/omerberatsezer/why-should-we-keep-writing-lets-discuss-2nc)
-- [AI Agents on Avalanche: The Future of Decentralized Intelligence](https://dev.to/xavierop877/ai-agents-on-avalanche-the-future-of-decentralized-intelligence-1d9c)
+- [LLM Security: Mitigating Vulnerabilities, Prompt Injection, and Training Data Risks in AI Systems](https://dev.to/aragorn_talks/llm-security-mitigating-vulnerabilities-prompt-injection-and-training-data-risks-in-ai-systems-6fd)
+- [Memory Management in JavaScript: A Beginner-Friendly Guide](https://dev.to/rarai365/memory-management-in-javascript-a-beginner-friendly-guide-14ja)
+- [explica brevemente que es c# ?](https://dev.to/ricardojavister/explica-brevemente-que-es-c--4cb5)
+- [Model Tuning: Optimizing Machine Learning Performance](https://dev.to/kapusto/model-tuning-optimizing-machine-learning-performance-1j3k)
 <!-- BLOG-POST-LIST:END -->
 
