@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Neurolov Neuro Image Gen](https://dev.to/neurolov_ai_/introducing-neurolov-neuro-image-gen-4mmj)
-- [Top 4 gRPC API Testing Tools You Need to Know](https://dev.to/apilover/top-4-grpc-api-testing-tools-you-need-to-know-5d1a)
-- [[Boost]](https://dev.to/shayan_holakouee/-3l83)
-- [SlimUUID: The Compact, Memory-Efficient Alternative to Standard UUIDs](https://dev.to/mitocondria/slimuuid-the-compact-memory-efficient-alternative-to-standard-uuids-2dak)
+- [⏳ Productividad para desarrolladores: herramientas y hábitos que te ahorrarán horas 🚀](https://dev.to/alvaroapdev/productividad-para-desarrolladores-herramientas-y-habitos-que-te-ahorraran-horas-2pi5)
+- [Stable and Steady: A Beginner’s Journey into the World of Stablecoins](https://dev.to/garima_97/stable-and-steady-a-beginners-journey-into-the-world-of-stablecoins-21jo)
+- [Are You Making These Node.js Security Mistakes?](https://dev.to/cyberwolves/are-you-making-these-nodejs-security-mistakes-hbn)
+- [How TBMQ Uses Redis for Reliable P2P MQTT Messaging](https://dev.to/dshvaika/how-tbmq-uses-redis-for-reliable-p2p-mqtt-messaging-1bgj)
 <!-- BLOG-POST-LIST:END -->
 
