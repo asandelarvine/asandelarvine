@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install &amp; Run VideoLLaMA3-7B Locally](https://dev.to/nodeshiftcloud/how-to-install-run-videollama3-7b-locally-24p1)
-- [🚀 Your Daily Crypto Job Digest For 13 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-february-42nl)
-- [🔐 Secure Azure Static Web Apps &lpar;SWA&rpar; with C# Azure Functions &amp; Authentication](https://dev.to/champcbg/secure-azure-static-web-apps-swa-with-c-azure-functions-authentication-2pm)
-- [Guia Prático: Primeiros Passos com C#](https://dev.to/unhacked/guia-pratico-primeiros-passos-com-c-4a3e)
+- [AI Community Pulse &lpar;February 13&rpar;](https://dev.to/future_ai/ai-community-pulse-february-13-4h62)
+- [How GitHub Copilot’s ROBIN Takes Debugging to the Next Level](https://dev.to/johnschibelli/how-github-copilots-robin-takes-debugging-to-the-next-level-36nh)
+- [Preparing for PCEP™ – My Journey into Python Certification](https://dev.to/cipherpodliq/preparing-for-pcep-my-journey-into-python-certification-274n)
+- [Installing A Linux Distribution Using WSL](https://dev.to/gokhanergentech/installing-a-linux-distribution-using-wsl-28oc)
 <!-- BLOG-POST-LIST:END -->
 
