@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Mistral-Small-3 24B Locally](https://dev.to/nodeshiftcloud/how-to-install-mistral-small-3-24b-locally-54fk)
-- [Running deepseek locally, Ollama and langchain](https://dev.to/shreyvijayvargiya/running-deepseek-locally-ollama-and-langchain-142n)
-- [How to Write Clean Code: Refactoring and Best Practices](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-315h)
-- [Zustand: A Beginner&#39;s Guide to State Management in React](https://dev.to/mahmud-r-farhan/zustand-a-beginners-guide-to-state-management-in-react-2jl4)
+- [Introducing Neurolov Neuro Image Gen](https://dev.to/neurolov_ai_/introducing-neurolov-neuro-image-gen-4mmj)
+- [Top 4 gRPC API Testing Tools You Need to Know](https://dev.to/apilover/top-4-grpc-api-testing-tools-you-need-to-know-5d1a)
+- [[Boost]](https://dev.to/shayan_holakouee/-3l83)
+- [SlimUUID: The Compact, Memory-Efficient Alternative to Standard UUIDs](https://dev.to/mitocondria/slimuuid-the-compact-memory-efficient-alternative-to-standard-uuids-2dak)
 <!-- BLOG-POST-LIST:END -->
 
