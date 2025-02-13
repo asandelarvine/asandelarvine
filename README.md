@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Redux-Saga: Advanced Concepts and Use Cases 🌪️](https://dev.to/tejastn10/mastering-redux-saga-advanced-concepts-and-use-cases-3kji)
-- [Zero Trust Architecture Practice](https://dev.to/windasunnie/zero-trust-architecture-practice-245m)
-- [Building Slack Platform Expert AI](https://dev.to/seratch/building-slack-platform-expert-ai-1555)
-- [A Practical Example Using MongoDB Atlas Search](https://dev.to/chukwu3meka/a-practical-example-using-mongodb-atlas-search-3nb9)
+- [Firestore CRUD 101: Building Apps with React](https://dev.to/debajit13/firestore-crud-101-building-apps-with-react-3913)
+- [Multicast &amp; Chill: Getting Started with RxJS - III](https://dev.to/lovestaco/multicast-chill-getting-started-with-rxjs-iii-4n63)
+- [10 Super Underrated Open-Source Tools You Don’t Want to Miss in 2025 🚀](https://dev.to/dct_technologyprivatelimited/10-super-underrated-open-source-tools-you-dont-want-to-miss-in-2025-26k1)
+- [How Web Development Languages Shape User Experience 🚀](https://dev.to/dct_technologyprivatelimited/how-web-development-languages-shape-user-experience-1fd)
 <!-- BLOG-POST-LIST:END -->
 
