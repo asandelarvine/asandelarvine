@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Salary Games: Why I Advocate for Pay Transparency in Tech](https://dev.to/samanthajeet/the-salary-games-why-i-advocate-for-pay-transparency-in-tech-2o82)
-- [OpenAI o3-mini Tested in LLM Chess](https://dev.to/maximsaplin/openai-o3-mini-tested-in-llm-chess-25c7)
-- [😱 You&#39;re Coding React Wrong! Fix It with These 15 Pro Hacks](https://dev.to/resource_bunk_1077cab07da/youre-coding-react-wrong-fix-it-with-these-15-pro-hacks-k17)
-- [The Future of Observability: Trends Shaping 2025](https://dev.to/leapcell/the-future-of-observability-trends-shaping-2025-om8)
+- [How We Use Our APP to Build Our APP](https://dev.to/buildwebcrumbs/how-we-use-our-app-to-build-our-app-5c63)
+- [Css](https://dev.to/srijith_pr_21f9ed42dc6ec/css-f4j)
+- [Why should we keep writing? Let&#39;s Discuss! 🤝](https://dev.to/omerberatsezer/why-should-we-keep-writing-lets-discuss-2nc)
+- [AI Agents on Avalanche: The Future of Decentralized Intelligence](https://dev.to/xavierop877/ai-agents-on-avalanche-the-future-of-decentralized-intelligence-1d9c)
 <!-- BLOG-POST-LIST:END -->
 
