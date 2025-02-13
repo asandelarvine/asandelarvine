@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fiberplane: Your Hono-native API Playground, powered by OpenAPI](https://dev.to/fiberplane/fiberplane-your-hono-native-api-playground-powered-by-openapi-59j3)
-- [Removal of bootstrap unused code in website](https://dev.to/paga_1403a6980c16afd0444f/removal-of-bootstrap-unused-code-in-website-4j28)
-- [STL Pair](https://dev.to/mujahida_joynab_64c7407d8/stl-pair-19ho)
-- [Guía Completa: Instalación y Configuración de NGINX en Ubuntu 24.04](https://dev.to/hopsersmerk/guia-completa-instalacion-y-configuracion-de-nginx-en-ubuntu-2404-3i9k)
+- [Google chrome inactive tabs extension](https://dev.to/thevie_mortiniera/google-chrome-inactive-tabs-extension-2ak)
+- [Thinking about Exceptions](https://dev.to/apontes77/thinking-about-exceptions-gf3)
+- [&quot;Mastering Cross-Lingual Semantic Search: Insights &amp; Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-cross-lingual-semantic-search-insights-innovations-44c0)
+- [Pull GitHub data into Databricks with dbutils](https://dev.to/encorepartners/pull-github-data-into-databricks-with-dbutils-3196)
 <!-- BLOG-POST-LIST:END -->
 
