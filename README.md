@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve your algorithmic thinking with my new article on Dev.to! Discover the Latin Square, a simple but useful algorithm for technical interviews. 🔥 Ready for the challenge?](https://dev.to/deotyma/improve-your-algorithmic-thinking-with-my-new-article-on-devto-discover-the-latin-square-a-jk5)
-- [🚀 Ashdeck is Live!](https://dev.to/ashdeck/ashdeck-is-live-2keg)
-- [People Are Getting Dumber, and AI Is Getting Smarter](https://dev.to/iwooky/people-are-getting-dumber-and-ai-is-getting-smarter-18bc)
-- [You should be this type of developer](https://dev.to/quave/you-should-be-this-type-of-developer-n2i)
+- [Setting Up a Powerful Windows Development Environment 💪](https://dev.to/heydantz/setting-up-a-powerful-windows-development-environment-10eh)
+- [GitHub Actions Pipeline using OpenIDConnect in AWS Cloud](https://dev.to/aws-builders/github-actions-pipeline-using-openidconnect-in-aws-cloud-lef)
+- [How to Send Requests from Stimulus Controllers](https://dev.to/railsdesigner/how-to-send-requests-from-stimulus-controllers-165f)
+- [How to Build and Deploy Full-Stack JavaScript Apps with NextJS, Tailwind, PostgreSQL, and Sevalla⚡👨‍💻](https://dev.to/madza/how-to-build-and-deploy-full-stack-javascript-apps-with-nextjs-tailwind-postgresql-and-3fkp)
 <!-- BLOG-POST-LIST:END -->
 
