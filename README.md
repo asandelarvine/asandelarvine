@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Bootstrap 5 Is the Best Way to Go](https://dev.to/bkthemes/why-bootstrap-5-is-the-best-way-to-go-25n8)
-- [Xcode SF Shortcut CMD+Shift+L](https://dev.to/carlosbbuild/xcode-sf-shortcut-cmd-shift-l-oh1)
-- [Grayscale in PyTorch](https://dev.to/hyperkai/grayscale-in-pytorch-347d)
-- [El lenguaje de programación Gleam](https://dev.to/baltasarq/el-lenguaje-de-programacion-gleam-248i)
+- [High-Confidence Testing with Mutation Analysis and Diverse Test Data](https://dev.to/copyleftdev/high-confidence-testing-with-mutation-analysis-and-diverse-test-data-27lm)
+- [E-Learning Management System API](https://dev.to/jibrin_masud_e989e2381636/e-learning-management-system-api-4lg0)
+- [AI-Powered Startups: How Small Companies are Beating Giants](https://dev.to/routeclouds/ai-powered-startups-how-small-companies-are-beating-giants-2641)
+- [Orthogonal and Orthonormal Vectors in Linear Algebra](https://dev.to/shlok2740/orthogonal-and-orthonormal-vectors-in-linear-algebra-50cn)
 <!-- BLOG-POST-LIST:END -->
 
