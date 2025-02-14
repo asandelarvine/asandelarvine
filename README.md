@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Handling &amp; Conditional Rendering in React](https://dev.to/johnschibelli/event-handling-conditional-rendering-in-react-2aee)
-- [FastAPI Book Project. My Stage 2 Task](https://dev.to/ameh_mathias/fastapi-book-project-my-stage-2-task-32b4)
-- [AI Community Pulse &lpar;February 14&rpar;](https://dev.to/future_ai/ai-community-pulse-february-14-58jh)
-- [RandomResizedCrop in PyTorch &lpar;6&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-6-2f94)
+- [Integrating Case Management Software With Fundraising Tools](https://dev.to/alex_ferguson/integrating-case-management-software-with-fundraising-tools-3424)
+- [Deep Dive into net/netip AddrPort Methods 6/7](https://dev.to/rezmoss/deep-dive-into-netnetip-addrport-methods-67-3gn3)
+- [Production Level MERN Project: A Beginner&#39;s Guide](https://dev.to/mahmud-r-farhan/production-level-mern-project-a-beginners-guide-5hmb)
+- [Networking 101: Part 6](https://dev.to/himanshu_bhatt/networking-101-part-6-3mmk)
 <!-- BLOG-POST-LIST:END -->
 
