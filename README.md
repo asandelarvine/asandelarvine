@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master React.js Development in 20 Days: Accelerate Your Career Quickly](https://dev.to/myogeshchavan97/master-reactjs-development-in-20-days-accelerate-your-career-quickly-359i)
-- [Insider Realities of Site Reliability Engineering: Lessons from a DevRel Perspective](https://dev.to/zenrohan/insider-realities-of-site-reliability-engineering-lessons-from-a-devrel-perspective-49ol)
-- [Devin Grosvenor: Financial Visionary and Hedge Fund Leader](https://dev.to/devingrosvenor/devin-grosvenor-financial-visionary-and-hedge-fund-leader-7h5)
-- [AI Document Automation -- Logistics’ Prerequisite for Success](https://dev.to/justinchen26/ai-document-automation-logistics-prerequisite-for-success-12hh)
+- [Set SELinux flags](https://dev.to/kubenetic/set-selinux-flags-4g17)
+- [Inclusive Technology: Making Digital Spaces for Everyone](https://dev.to/okoye_ndidiamaka_5e3b7d30/inclusive-technology-making-digital-spaces-for-everyone-2n6h)
+- [How to pass the OWASP MASVS verification by design](https://dev.to/owasp/how-to-pass-the-owasp-masvs-verification-by-design-2cf9)
+- [Create a Neovim plugin for a CLI tool](https://dev.to/praem90/create-a-neovim-plugin-for-a-cli-tool-37fm)
 <!-- BLOG-POST-LIST:END -->
 
