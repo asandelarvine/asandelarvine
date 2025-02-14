@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-28lf)
+- [When to Debounce vs Throttle: A Developer’s Guide to Efficient Event Handling](https://dev.to/web_dev-usman/when-to-debounce-vs-throttle-a-developers-guide-to-efficient-event-handling-k4d)
 - [Liskov Substitution Principle in React: Building Reliable Component Hierarchies](https://dev.to/creowistech/liskov-substitution-principle-in-react-building-reliable-component-hierarchies-5847)
 - [How note.com 🔖 Implements ⏳ Just-in-Time &lpar;JIT&rpar; Database Access Control 🗝️ with Bytebase](https://dev.to/bytebase/how-notecom-implements-just-in-time-jit-database-access-control-with-bytebase-55nk)
-- [Moderated vs Unmoderated Usability Testing: Which is Better?](https://dev.to/lollypopdesign/moderated-vs-unmoderated-usability-testing-which-is-better-1p2g)
-- [#144 — Insert Row after Specific Row](https://dev.to/judith677/144-insert-row-after-specific-row-16l9)
 <!-- BLOG-POST-LIST:END -->
 
