@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Case Management Software With Fundraising Tools](https://dev.to/alex_ferguson/integrating-case-management-software-with-fundraising-tools-3424)
-- [Deep Dive into net/netip AddrPort Methods 6/7](https://dev.to/rezmoss/deep-dive-into-netnetip-addrport-methods-67-3gn3)
-- [Production Level MERN Project: A Beginner&#39;s Guide](https://dev.to/mahmud-r-farhan/production-level-mern-project-a-beginners-guide-5hmb)
-- [Networking 101: Part 6](https://dev.to/himanshu_bhatt/networking-101-part-6-3mmk)
+- [Why Bootstrap 5 Is the Best Way to Go](https://dev.to/bkthemes/why-bootstrap-5-is-the-best-way-to-go-25n8)
+- [Xcode SF Shortcut CMD+Shift+L](https://dev.to/carlosbbuild/xcode-sf-shortcut-cmd-shift-l-oh1)
+- [Grayscale in PyTorch](https://dev.to/hyperkai/grayscale-in-pytorch-347d)
+- [El lenguaje de programación Gleam](https://dev.to/baltasarq/el-lenguaje-de-programacion-gleam-248i)
 <!-- BLOG-POST-LIST:END -->
 
