@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google chrome inactive tabs extension](https://dev.to/thevie_mortiniera/google-chrome-inactive-tabs-extension-2ak)
-- [Thinking about Exceptions](https://dev.to/apontes77/thinking-about-exceptions-gf3)
-- [&quot;Mastering Cross-Lingual Semantic Search: Insights &amp; Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-cross-lingual-semantic-search-insights-innovations-44c0)
-- [Pull GitHub data into Databricks with dbutils](https://dev.to/encorepartners/pull-github-data-into-databricks-with-dbutils-3196)
+- [How to Automate and Simplify Digital Onboarding Processes with FacePlugin](https://dev.to/faceplugin/how-to-automate-and-simplify-digital-onboarding-processes-with-faceplugin-1nm8)
+- [🚀 API Design: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/api-design-essential-tips-and-tricks-for-developers-l7d)
+- [Accessing HuggingFace datasets in Databricks](https://dev.to/encorepartners/accessing-huggingface-datasets-in-databricks-4k10)
+- [Understanding Differential Privacy in Data Analysis](https://dev.to/kartikmehta8/understanding-differential-privacy-in-data-analysis-2jj5)
 <!-- BLOG-POST-LIST:END -->
 
