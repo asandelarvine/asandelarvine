@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep It Simple: Focus on Problems, Not Features 🚀](https://dev.to/elvissautet/keep-it-simple-focus-on-problems-not-features-5fo7)
-- [External FSCSS](https://dev.to/fscss-ttr/external-fscss-17l7)
-- [💳 Advantages of Using a Crypto Card vs. a Traditional Bank Card](https://dev.to/cryptosandy/advantages-of-using-a-crypto-card-vs-a-traditional-bank-card-4enc)
-- [Dynamic Programming](https://dev.to/fdiazaguirre/dynamic-programming-2hai)
+- [The Versatility of Qwen AI](https://dev.to/maksim_tarasov_c60917a469/the-versatility-of-qwen-ai-577l)
+- [How to Create a Heartbeat Animation with CSS](https://dev.to/digitalminds/how-to-create-a-heartbeat-animation-with-css-jl8)
+- [What are serifs?](https://dev.to/monolisafont/what-are-serifs-3gkl)
+- [MariaDB to PostgreSQL: Lessons &amp; Challenges](https://dev.to/datamonk_/mariadb-to-postgresql-lessons-challenges-42oa)
 <!-- BLOG-POST-LIST:END -->
 
