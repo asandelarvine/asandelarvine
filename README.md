@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming Explained: A Deep Dive](https://dev.to/leapcell/functional-programming-explained-a-deep-dive-knh)
-- [How I Built Open Source Fastest URL Shortener Ever With Rust](https://dev.to/abdibrokhim/how-i-built-open-source-fastest-url-shortener-ever-with-rust-4ggm)
-- [Setup ComfyUI from Scratch to Run Flux diffusion model on RunPod – Step by Step Tutorial!](https://dev.to/mobisoftinfotech/setup-comfyui-from-scratch-to-run-flux-diffusion-model-on-runpod-step-by-step-tutorial-2kdg)
-- [RandomResizedCrop in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-5-54hj)
+- [Master React.js Development in 20 Days: Accelerate Your Career Quickly](https://dev.to/myogeshchavan97/master-reactjs-development-in-20-days-accelerate-your-career-quickly-359i)
+- [Insider Realities of Site Reliability Engineering: Lessons from a DevRel Perspective](https://dev.to/zenrohan/insider-realities-of-site-reliability-engineering-lessons-from-a-devrel-perspective-49ol)
+- [Devin Grosvenor: Financial Visionary and Hedge Fund Leader](https://dev.to/devingrosvenor/devin-grosvenor-financial-visionary-and-hedge-fund-leader-7h5)
+- [AI Document Automation -- Logistics’ Prerequisite for Success](https://dev.to/justinchen26/ai-document-automation-logistics-prerequisite-for-success-12hh)
 <!-- BLOG-POST-LIST:END -->
 
