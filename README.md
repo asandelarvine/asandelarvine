@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate and Simplify Digital Onboarding Processes with FacePlugin](https://dev.to/faceplugin/how-to-automate-and-simplify-digital-onboarding-processes-with-faceplugin-1nm8)
-- [🚀 API Design: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/api-design-essential-tips-and-tricks-for-developers-l7d)
-- [Accessing HuggingFace datasets in Databricks](https://dev.to/encorepartners/accessing-huggingface-datasets-in-databricks-4k10)
-- [Understanding Differential Privacy in Data Analysis](https://dev.to/kartikmehta8/understanding-differential-privacy-in-data-analysis-2jj5)
+- [Does Python Open the Doors to Success in IT?](https://dev.to/lekshmi_525/does-python-open-the-doors-to-success-in-it-2ajo)
+- [📈 80/20 Principles](https://dev.to/mrzaizai2k/8020-principles-ig0)
+- [[Boost]](https://dev.to/unqlite_db/-5jd)
+- [My First AWS Lambda Initializer – A Trial by Fire 🔥 Part 1](https://dev.to/harishankarr7/my-first-aws-lambda-initializer-a-trial-by-fire-2pp0)
 <!-- BLOG-POST-LIST:END -->
 
