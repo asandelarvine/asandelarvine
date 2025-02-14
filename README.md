@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Versatility of Qwen AI](https://dev.to/maksim_tarasov_c60917a469/the-versatility-of-qwen-ai-577l)
-- [How to Create a Heartbeat Animation with CSS](https://dev.to/digitalminds/how-to-create-a-heartbeat-animation-with-css-jl8)
-- [What are serifs?](https://dev.to/monolisafont/what-are-serifs-3gkl)
-- [MariaDB to PostgreSQL: Lessons &amp; Challenges](https://dev.to/datamonk_/mariadb-to-postgresql-lessons-challenges-42oa)
+- [Micro-Moments, Macro-Results: The Art of Time Gap Optimization](https://dev.to/wraith/micro-moments-macro-results-the-art-of-time-gap-optimization-17dc)
+- [OpenAI o1 Capabilities](https://dev.to/maksim_tarasov_c60917a469/openai-o1-capabilities-1pga)
+- [Es la Ballena China la mejor opción?](https://dev.to/hierro59/es-la-ballena-china-la-mejor-opcion-1j7i)
+- [🚀 Your Daily Crypto Job Digest For 14 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-february-4fb)
 <!-- BLOG-POST-LIST:END -->
 
