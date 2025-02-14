@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [is CSS the New Sass? Here’s What You Need to Know in 2025](https://dev.to/worldoftheweb/is-css-the-new-sass-heres-what-you-need-to-know-in-2025-4254)
-- [Create the Perfect Logo with Artificial Intelligence](https://dev.to/angel_rojas_6904bae237a0d/create-the-perfect-logo-with-artificial-intelligence-47ka)
-- [Deploying and Tagging ECR Container Images in AWS CodePipeline](https://dev.to/stevensmiley/deploying-and-tagging-ecr-container-images-in-aws-codepipeline-44dl)
-- [VPN &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/vpn-bite-size-article-44b0)
+- [Ahorra en EC2 con Spot Instances y Spot Fleets](https://dev.to/briansuarezsantiago/ahorra-en-ec2-con-spot-instances-y-spot-fleets-444k)
+- [Security news weekly round-up - 14th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-14th-february-2025-4bp7)
+- [Attended Bedrock Agents Hands on Workshop in AWS Helsinki](https://dev.to/vijaykodam/attended-bedrock-agents-hands-on-workshop-in-aws-helsinki-43hb)
+- [Understanding AI, Machine Learning, and Deep Learning: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/understanding-ai-machine-learning-and-deep-learning-a-comprehensive-guide-1j0)
 <!-- BLOG-POST-LIST:END -->
 
