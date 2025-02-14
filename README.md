@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Quitting Gaming to Focus on My Future in Tech](https://dev.to/rembursed/why-im-quitting-gaming-to-focus-on-my-future-in-computer-science-e2d)
-- [Creating an Azure Kubernetes Service lab environment with Bicep](https://dev.to/willvelida/creating-an-azure-kubernetes-service-lab-environment-with-bicep-46n)
-- [Local LLM Memo](https://dev.to/takeda1411123/local-llm-memo-2k98)
-- [Optimize It or Crash: The Big Key Problem in Redis](https://dev.to/leapcell/optimize-it-or-crash-the-big-key-problem-in-redis-36n2)
+- [💖Glam Up My Markup: Love Language Discovery](https://dev.to/kelvincode1234/glam-up-my-markup-love-language-discovery-4bg2)
+- [Product Owners, Aspire to be Product Managers](https://dev.to/edensoftlabs/product-owners-aspire-to-be-product-managers-25no)
+- [Google Cloud AI/ML Advantages: Unlocking the Future of AI](https://dev.to/rohan_jee_085655230/google-cloud-aiml-advantages-unlocking-the-future-of-ai-1bp3)
+- [Architecting a Large-Scale, Global Multiuser Game Platform &lpar;1-5 Million Users, 500K+ Concurrent Players&rpar;](https://dev.to/nsomara/architecting-a-large-scale-global-multiuser-game-platform-1-5-million-users-500k-concurrent-288a)
 <!-- BLOG-POST-LIST:END -->
 
