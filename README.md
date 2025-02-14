@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-28lf)
-- [When to Debounce vs Throttle: A Developer’s Guide to Efficient Event Handling](https://dev.to/web_dev-usman/when-to-debounce-vs-throttle-a-developers-guide-to-efficient-event-handling-k4d)
-- [Liskov Substitution Principle in React: Building Reliable Component Hierarchies](https://dev.to/creowistech/liskov-substitution-principle-in-react-building-reliable-component-hierarchies-5847)
-- [How note.com 🔖 Implements ⏳ Just-in-Time &lpar;JIT&rpar; Database Access Control 🗝️ with Bytebase](https://dev.to/bytebase/how-notecom-implements-just-in-time-jit-database-access-control-with-bytebase-55nk)
+- [The Ultimate Career Discussion Guide for Software Engineers](https://dev.to/robin-ivi/the-ultimate-career-discussion-guide-for-software-engineers-33jp)
+- [The Role of Automation in E-commerce Financial Management](https://dev.to/astutemarketing/the-role-of-automation-in-e-commerce-financial-management-aip)
+- [Android Lock Screen Widgets: How Weather Widgets Are Becoming Essential in 2025](https://dev.to/adambrooks1231/android-lock-screen-widgets-how-weather-widgets-are-becoming-essential-in-2025-eml)
+- [Mastering Data Labeling: Strategies for Fine-Tuning LLMs in Your Industry](https://dev.to/jetthoughts/mastering-data-labeling-strategies-for-fine-tuning-llms-in-your-industry-2l39)
 <!-- BLOG-POST-LIST:END -->
 
