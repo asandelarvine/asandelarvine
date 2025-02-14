@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Is the Number One UX &lpar;And You Can’t Convince Me Otherwise&rpar;](https://dev.to/hotfixhero/performance-is-the-number-one-ux-and-you-cant-convince-me-otherwise-1bo2)
-- [Angular SOLID Design Patterns: A Foundation for Robust Applications](https://dev.to/nurrehman/angular-solid-design-patterns-a-foundation-for-robust-applications-3739)
-- [[Boost]](https://dev.to/chrisvxd/-3hg)
-- [The Benefits of ChatGPT 4.5](https://dev.to/maksim_tarasov_c60917a469/the-benefits-of-chatgpt-45-1j76)
+- [Recursion is not a function calling itself!](https://dev.to/codingnninja/recursion-is-not-a-function-calling-itself-e0)
+- [Hot vs Cold Observables: Getting Started with RxJS - IV](https://dev.to/lovestaco/hot-vs-cold-observables-getting-started-with-rxjs-iv-kp)
+- [Mobile first design with Tailwind CSS](https://dev.to/slyskillet/mobile-first-design-with-tailwind-css-3phd)
+- [Automating AWS API Gateway Deployment with GitHub Actions and OpenAPI 3.0](https://dev.to/burgossrodrigo/automating-aws-api-gateway-deployment-with-github-actions-and-openapi-30-33gd)
 <!-- BLOG-POST-LIST:END -->
 
