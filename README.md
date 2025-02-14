@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Career Discussion Guide for Software Engineers](https://dev.to/robin-ivi/the-ultimate-career-discussion-guide-for-software-engineers-33jp)
-- [The Role of Automation in E-commerce Financial Management](https://dev.to/astutemarketing/the-role-of-automation-in-e-commerce-financial-management-aip)
-- [Android Lock Screen Widgets: How Weather Widgets Are Becoming Essential in 2025](https://dev.to/adambrooks1231/android-lock-screen-widgets-how-weather-widgets-are-becoming-essential-in-2025-eml)
-- [Mastering Data Labeling: Strategies for Fine-Tuning LLMs in Your Industry](https://dev.to/jetthoughts/mastering-data-labeling-strategies-for-fine-tuning-llms-in-your-industry-2l39)
+- [Functional Programming Explained: A Deep Dive](https://dev.to/leapcell/functional-programming-explained-a-deep-dive-knh)
+- [How I Built Open Source Fastest URL Shortener Ever With Rust](https://dev.to/abdibrokhim/how-i-built-open-source-fastest-url-shortener-ever-with-rust-4ggm)
+- [Setup ComfyUI from Scratch to Run Flux diffusion model on RunPod – Step by Step Tutorial!](https://dev.to/mobisoftinfotech/setup-comfyui-from-scratch-to-run-flux-diffusion-model-on-runpod-step-by-step-tutorial-2kdg)
+- [RandomResizedCrop in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-5-54hj)
 <!-- BLOG-POST-LIST:END -->
 
