@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating PDF from HTML](https://dev.to/andris_skutans_e17745a444/creating-pdf-from-html-552g)
-- [What is Emotion CSS? A Beginner’s Guide](https://dev.to/swhabitation/what-is-emotion-css-a-beginners-guide-4c60)
-- [Docker: Layers, Caching, Multi-Stage Explained](https://dev.to/atharvaunde/docker-layers-caching-multi-stage-explained-10b5)
-- [From Code to Contracts: A Beginner’s Expedition into the World of Smart Contracts](https://dev.to/garima_97/from-code-to-contracts-a-beginners-expedition-into-the-world-of-smart-contracts-52k6)
+- [Save Time and Money by Shifting HIPAA Compliance Checks Left with CDK-Nag](https://dev.to/aws-builders/save-time-and-money-by-shifting-hipaa-compliance-checks-left-with-cdk-nag-4ipf)
+- [Understanding useEffect vs. Class Component Lifecycle Methods in React Native](https://dev.to/amitkumar13/understanding-useeffect-vs-class-component-lifecycle-methods-in-react-native-25o4)
+- [Web LLM attacks](https://dev.to/golam_mostafa/web-llm-attacks-18ni)
+- [Building a CRUD API with ASP.NET Core Web API and PostgreSQL](https://dev.to/olymahmud/building-a-crud-api-with-aspnet-core-web-api-and-postgresql-p5f)
 <!-- BLOG-POST-LIST:END -->
 
