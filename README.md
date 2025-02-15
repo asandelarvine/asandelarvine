@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Save Time and Money by Shifting HIPAA Compliance Checks Left with CDK-Nag](https://dev.to/aws-builders/save-time-and-money-by-shifting-hipaa-compliance-checks-left-with-cdk-nag-4ipf)
-- [Understanding useEffect vs. Class Component Lifecycle Methods in React Native](https://dev.to/amitkumar13/understanding-useeffect-vs-class-component-lifecycle-methods-in-react-native-25o4)
-- [Web LLM attacks](https://dev.to/golam_mostafa/web-llm-attacks-18ni)
-- [Building a CRUD API with ASP.NET Core Web API and PostgreSQL](https://dev.to/olymahmud/building-a-crud-api-with-aspnet-core-web-api-and-postgresql-p5f)
+- [This is so good](https://dev.to/mince/this-is-so-good-1e9k)
+- [Practice Program &lpar;Java&rpar;](https://dev.to/vasanthvnr_31/practice-program-java-147c)
+- [🚀 Week 7 Recap: Learning in Public – Mastering Docker &amp; Containerization 🚀](https://dev.to/xetnopnawab/week-7-recap-learning-in-public-mastering-docker-containerization-59a6)
+- [🚀 Efficient API Calls with Axios: Cancelling Unwanted Requests 🚀](https://dev.to/dzungnt98/efficient-api-calls-with-axios-cancelling-unwanted-requests-4h20)
 <!-- BLOG-POST-LIST:END -->
 
