@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DO NOT use these LLM Metrics ⛔ And what to do instead!](https://dev.to/louis-dupont/do-not-use-these-llm-metrics-and-what-to-do-instead-4b95)
-- [JSON To Diagram](https://dev.to/aidevtools/json-to-diagram-299o)
-- [Create and Publish ASP.net Code on Azure App Service](https://dev.to/bestwatchprice/create-and-publish-aspnet-code-on-azure-app-service-3dlo)
-- [How I Optimized Database I/O from 100 Seconds to 3ms Using Multi-Level Indexing](https://dev.to/techsplot/how-i-optimized-database-io-from-100-seconds-to-3ms-using-multi-level-indexing-h29)
+- [Quantum Era: A Developer’s Plug-and-Play Roadmap](https://dev.to/snappytuts/quantum-era-a-developers-plug-and-play-roadmap-2abo)
+- [10 Secret Git Commands That Will Save You 5+ Hours Every Week](https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn)
+- [How to migrate a Rails app from Bootstrap to Bulma](https://dev.to/carmemias/how-to-migrate-a-rails-app-from-bootstrap-to-bulma-b02)
+- [✨10 Stunning Icon Libraries to Check Out &lpar;That Are Free and Open-Source&rpar; 🚀](https://dev.to/silviaodwyer/10-stunning-icon-libraries-to-check-out-that-are-free-and-open-source-52ln)
 <!-- BLOG-POST-LIST:END -->
 
