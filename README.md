@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing ChatGPT’s Hidden Edit Button – A Reminder That Testing Matters!](https://dev.to/priya01/fixing-chatgpts-hidden-edit-button-a-reminder-that-testing-matters-1me4)
-- [AMAZON CLOUDWATCH](https://dev.to/tolu_cloudops/introduction-to-simple-storage-service-5929)
-- [[Boost]](https://dev.to/djones/-364k)
-- [Building a Spring Boot CRUD API with Swagger Documentation](https://dev.to/devcorner/building-a-spring-boot-crud-api-with-swagger-documentation-387g)
+- [Building a Stunning Animated Image Carousel in React Native](https://dev.to/amitkumar13/building-a-stunning-animated-image-carousel-in-react-native-1bm)
+- [Show folder name instead of index.tsx in VS Code](https://dev.to/syed_ammar/show-folder-name-instead-of-indextsx-in-vs-code-3i0h)
+- [Stop the Code Review Bottleneck: Ship Faster, Ship Smarter](https://dev.to/pratesh_johnmathew_d25d4/stop-the-code-review-bottleneck-ship-faster-ship-smarter-36g7)
+- [Publish a NodeJS application online with Eyevinn Open Source Cloud](https://dev.to/oscdev/publish-a-nodejs-application-online-with-eyevinn-open-source-cloud-58c0)
 <!-- BLOG-POST-LIST:END -->
 
