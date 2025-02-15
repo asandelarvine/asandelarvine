@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [18+ Questions to Challenge and Expand Your Babel Knowledge](https://dev.to/toosriet/18-questions-to-challenge-and-expand-your-babel-knowledge-4bj8)
-- [Attendance System with Face Mask Detection using Azure Face API](https://dev.to/vivek0712/attendance-system-with-face-mask-detection-using-azure-face-api-2glb)
-- [Macro-Less, Highly Integrated OpenAPI Document Generation in Rust with Ohkami](https://dev.to/kanarus/macro-less-highly-integrated-openapi-document-generation-in-rust-with-ohkami-9b2)
-- [Creating a Smooth Animated Vertical List in React Native with Reanimated](https://dev.to/amitkumar13/creating-a-smooth-animated-vertical-list-in-react-native-with-reanimated-2bb4)
+- [Neurolov vs Traditional Cloud GPUs: A Cost and Performance Comparison](https://dev.to/neurolov_ai_/neurolov-vs-traditional-cloud-gpus-a-cost-and-performance-comparison-3en)
+- [Scraping NHK News Web Easy with Python: A Step-by-Step Guide](https://dev.to/van_mai/scraping-nhk-news-web-easy-with-python-a-step-by-step-guide-4e12)
+- [Announcing Kapper 1.2: Cleaner Transactions with Less Boilerplate](https://dev.to/driessamyn/announcing-kapper-12-cleaner-transactions-with-less-boilerplate-2dbi)
+- [From Tutorial Hell to Real-World Projects](https://dev.to/ayush_kumar_d3bf1b143ecc4/from-tutorial-hell-to-real-world-projects-5gdd)
 <!-- BLOG-POST-LIST:END -->
 
