@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Provide Storage for a New Company App](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-provide-storage-for-a-new-company-app-4509)
-- [Valentine&#39;s](https://dev.to/preetha_vaishnavi_2b82358/valentines-2cj1)
-- [Build a high-performance Brainf**k JIT and AOT compiler on top of C# type system](https://dev.to/hez2010/build-a-high-performance-brainfk-jit-and-aot-compiler-on-top-of-c-type-system-42i7)
-- [A simple key-value store with SQLite](https://dev.to/rjfranco_95/a-simple-key-value-store-with-sqlite-b4o)
+- [JavaScript Made Easy: Understanding Basics, Control Flow, and Loops](https://dev.to/pavanvarma/javascript-made-easy-understanding-basics-control-flow-and-loops-16eg)
+- [🚀Optimizing Large-Scale React Applications for Enterprise Use](https://dev.to/hamzakhan/optimizing-large-scale-react-applications-for-enterprise-use-2f8i)
+- [Announcing Kreuzberg v2.0: A Lightweight, Modern Python Text Extraction library](https://dev.to/nhirschfeld/announcing-kreuzberg-v20-a-lightweight-modern-python-text-extraction-library-4ca4)
+- [Must-Know 25+ ML Resources on Trending.](https://dev.to/dev-resources/must-know-25-ml-resources-on-trending-3m3f)
 <!-- BLOG-POST-LIST:END -->
 
