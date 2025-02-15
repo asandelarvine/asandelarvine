@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Made Easy: Understanding Basics, Control Flow, and Loops](https://dev.to/pavanvarma/javascript-made-easy-understanding-basics-control-flow-and-loops-16eg)
-- [🚀Optimizing Large-Scale React Applications for Enterprise Use](https://dev.to/hamzakhan/optimizing-large-scale-react-applications-for-enterprise-use-2f8i)
-- [Announcing Kreuzberg v2.0: A Lightweight, Modern Python Text Extraction library](https://dev.to/nhirschfeld/announcing-kreuzberg-v20-a-lightweight-modern-python-text-extraction-library-4ca4)
-- [Must-Know 25+ ML Resources on Trending.](https://dev.to/dev-resources/must-know-25-ml-resources-on-trending-3m3f)
+- [JAMstack Tech-Stack For 2025: Why JAMstack is the Future of Web Development](https://dev.to/abubakersiddique761/jamstack-tech-stack-for-2025-why-jamstack-is-the-future-of-web-development-534o)
+- [PHP PSRs : PSR-1 Basic Coding Standard](https://dev.to/xxzeroxx/php-psrs-psr-1-basic-coding-standard-3fla)
+- [Answer: How to detect if building with address sanitizer when building with gcc 4.8?](https://dev.to/dobby33/answer-how-to-detect-if-building-with-address-sanitizer-when-building-with-gcc-48-ka1)
+- [Which front-end framework is the most performant and lightweight?](https://dev.to/techelopment/which-front-end-framework-is-the-most-performant-and-lightweight-2hha)
 <!-- BLOG-POST-LIST:END -->
 
