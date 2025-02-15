@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Era: A Developer’s Plug-and-Play Roadmap](https://dev.to/snappytuts/quantum-era-a-developers-plug-and-play-roadmap-2abo)
-- [10 Secret Git Commands That Will Save You 5+ Hours Every Week](https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn)
-- [How to migrate a Rails app from Bootstrap to Bulma](https://dev.to/carmemias/how-to-migrate-a-rails-app-from-bootstrap-to-bulma-b02)
-- [✨10 Stunning Icon Libraries to Check Out &lpar;That Are Free and Open-Source&rpar; 🚀](https://dev.to/silviaodwyer/10-stunning-icon-libraries-to-check-out-that-are-free-and-open-source-52ln)
+- [How to Provide Storage for a New Company App](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-provide-storage-for-a-new-company-app-4509)
+- [Valentine&#39;s](https://dev.to/preetha_vaishnavi_2b82358/valentines-2cj1)
+- [Build a high-performance Brainf**k JIT and AOT compiler on top of C# type system](https://dev.to/hez2010/build-a-high-performance-brainfk-jit-and-aot-compiler-on-top-of-c-type-system-42i7)
+- [A simple key-value store with SQLite](https://dev.to/rjfranco_95/a-simple-key-value-store-with-sqlite-b4o)
 <!-- BLOG-POST-LIST:END -->
 
