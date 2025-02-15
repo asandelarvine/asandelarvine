@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Made $200 Million with One Color Change—How Much Are You Leaving on the Table?](https://dev.to/per-starke-642/google-made-200-million-with-one-color-change-how-much-are-you-leaving-on-the-table-pdd)
-- [AI System Beats Humans at Understanding Chinese Speech Disorders, Largest Study Shows](https://dev.to/mikeyoung44/ai-system-beats-humans-at-understanding-chinese-speech-disorders-largest-study-shows-41ae)
-- [AI-Powered Microphone Arrays Make Speech 40% Clearer in Noisy Environments](https://dev.to/mikeyoung44/ai-powered-microphone-arrays-make-speech-40-clearer-in-noisy-environments-io)
-- [New AI Training Method Uses Dual Captions to Create Better AI-Generated Images](https://dev.to/mikeyoung44/new-ai-training-method-uses-dual-captions-to-create-better-ai-generated-images-3bca)
+- [Build a Profitable Digital Art Business: Direct Steps with Pricing Models](https://dev.to/abubakersiddique761/build-a-profitable-digital-art-business-direct-steps-with-pricing-models-3d40)
+- [Linux 101: Part 3 - Decoding the Linux Prompt Structure &amp; A Beginner&#39;s Guide to Essential Commands](https://dev.to/himanshu_bhatt/linux-101-part-3-decoding-the-linux-prompt-structure-a-beginners-guide-to-essential-commands-27ia)
+- [hover text only with html](https://dev.to/tromo_sm_ce16da2afa22d285/hover-text-only-with-html-1664)
+- [Linux 101: Part 2 - Understanding the Linux File System](https://dev.to/himanshu_bhatt/linux-101-part-2-understanding-the-linux-file-system-216i)
 <!-- BLOG-POST-LIST:END -->
 
