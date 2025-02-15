@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Development: What is that?](https://dev.to/kevv_ly/web-development-what-is-that-39je)
+- [From Fractured to Forever: The Phases of Love 💔🤍💓❤️💞](https://dev.to/divya4879/from-fractured-to-forever-the-phases-of-love-3904)
+- [Networking 101: Part 7](https://dev.to/himanshu_bhatt/networking-101-part-7-1lg8)
 - [Heartbeats of Love: From Flutter to Forever ❤️💓💞](https://dev.to/divya4879/heartbeats-of-love-from-flutter-to-forever-2b6)
-- [Building AI Agents with Reinforcement Learning](https://dev.to/kartikmehta8/building-ai-agents-with-reinforcement-learning-52l1)
-- [Most Expensive NFT: 4 Mistakes New Investors Avoid](https://dev.to/cryptobass/most-expensive-nft-4-mistakes-new-investors-avoid-2cmo)
-- [[Boost]](https://dev.to/karavanjo/-f61)
 <!-- BLOG-POST-LIST:END -->
 
