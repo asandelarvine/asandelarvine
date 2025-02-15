@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [normal page for university events using LWS](https://dev.to/yuvrajmunjal9/normal-page-for-university-events-using-lws-228f)
-- [Measurement Protocol API: Unlocking Data-Rich Insights for Enhanced E-commerce and Marketing](https://dev.to/seosiri/measurement-protocol-api-unlocking-data-rich-insights-for-enhanced-e-commerce-and-marketing-3822)
-- [Concurrency vs Parallelism | Golang | Which is better and Why?](https://dev.to/gargkunal/concurrency-vs-parallelism-golang-which-is-better-and-why-m5j)
-- [[Boost]](https://dev.to/ddebajyati/-1fki)
+- [Google Made $200 Million with One Color Change—How Much Are You Leaving on the Table?](https://dev.to/per-starke-642/google-made-200-million-with-one-color-change-how-much-are-you-leaving-on-the-table-pdd)
+- [AI System Beats Humans at Understanding Chinese Speech Disorders, Largest Study Shows](https://dev.to/mikeyoung44/ai-system-beats-humans-at-understanding-chinese-speech-disorders-largest-study-shows-41ae)
+- [AI-Powered Microphone Arrays Make Speech 40% Clearer in Noisy Environments](https://dev.to/mikeyoung44/ai-powered-microphone-arrays-make-speech-40-clearer-in-noisy-environments-io)
+- [New AI Training Method Uses Dual Captions to Create Better AI-Generated Images](https://dev.to/mikeyoung44/new-ai-training-method-uses-dual-captions-to-create-better-ai-generated-images-3bca)
 <!-- BLOG-POST-LIST:END -->
 
