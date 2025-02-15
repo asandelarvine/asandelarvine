@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ahorra en EC2 con Spot Instances y Spot Fleets](https://dev.to/briansuarezsantiago/ahorra-en-ec2-con-spot-instances-y-spot-fleets-444k)
-- [Security news weekly round-up - 14th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-14th-february-2025-4bp7)
-- [Attended Bedrock Agents Hands on Workshop in AWS Helsinki](https://dev.to/vijaykodam/attended-bedrock-agents-hands-on-workshop-in-aws-helsinki-43hb)
-- [Understanding AI, Machine Learning, and Deep Learning: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/understanding-ai-machine-learning-and-deep-learning-a-comprehensive-guide-1j0)
+- [Building AI Agents with Reinforcement Learning](https://dev.to/kartikmehta8/building-ai-agents-with-reinforcement-learning-52l1)
+- [Most Expensive NFT: 4 Mistakes New Investors Avoid](https://dev.to/cryptobass/most-expensive-nft-4-mistakes-new-investors-avoid-2cmo)
+- [[Boost]](https://dev.to/karavanjo/-f61)
+- [Blockchain Security: Building Smart, Healthy Cities with a Secure Digital Twin Framework](https://dev.to/cryptobass/blockchain-security-building-smart-healthy-cities-with-a-secure-digital-twin-framework-23i1)
 <!-- BLOG-POST-LIST:END -->
 
