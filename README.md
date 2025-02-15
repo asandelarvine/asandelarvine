@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cupid&#39;s Cosmic Bang](https://dev.to/aniruddhaadak/cupids-cosmic-bang-3k79)
-- [Optimizing Vue.js Performance with `shallowRef`: An In-Depth Guide](https://dev.to/mochafreddo/optimizing-vuejs-performance-with-shallowref-an-in-depth-guide-25lb)
-- [sometimes ya just gotta tell the browser who’s boss and force a page refresh! 🦾](https://dev.to/wraith/sometimes-ya-just-gotta-tell-the-browser-whos-boss-and-force-a-page-refresh-53pa)
-- [Angular --### **Important Angular Interview Topics &lpar;With Explanation, Why &amp; Where to Use in Projects&rpar;**](https://dev.to/anjali_gurjar_dff81513867/angular-important-angular-interview-topics-with-explanation-why-where-to-use-in-ohi)
+- [normal page for university events using LWS](https://dev.to/yuvrajmunjal9/normal-page-for-university-events-using-lws-228f)
+- [Measurement Protocol API: Unlocking Data-Rich Insights for Enhanced E-commerce and Marketing](https://dev.to/seosiri/measurement-protocol-api-unlocking-data-rich-insights-for-enhanced-e-commerce-and-marketing-3822)
+- [Concurrency vs Parallelism | Golang | Which is better and Why?](https://dev.to/gargkunal/concurrency-vs-parallelism-golang-which-is-better-and-why-m5j)
+- [[Boost]](https://dev.to/ddebajyati/-1fki)
 <!-- BLOG-POST-LIST:END -->
 
