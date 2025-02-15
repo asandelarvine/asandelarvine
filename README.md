@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Stunning Animated Image Carousel in React Native](https://dev.to/amitkumar13/building-a-stunning-animated-image-carousel-in-react-native-1bm)
-- [Show folder name instead of index.tsx in VS Code](https://dev.to/syed_ammar/show-folder-name-instead-of-indextsx-in-vs-code-3i0h)
-- [Stop the Code Review Bottleneck: Ship Faster, Ship Smarter](https://dev.to/pratesh_johnmathew_d25d4/stop-the-code-review-bottleneck-ship-faster-ship-smarter-36g7)
-- [Publish a NodeJS application online with Eyevinn Open Source Cloud](https://dev.to/oscdev/publish-a-nodejs-application-online-with-eyevinn-open-source-cloud-58c0)
+- [Creating PDF from HTML](https://dev.to/andris_skutans_e17745a444/creating-pdf-from-html-552g)
+- [What is Emotion CSS? A Beginner’s Guide](https://dev.to/swhabitation/what-is-emotion-css-a-beginners-guide-4c60)
+- [Docker: Layers, Caching, Multi-Stage Explained](https://dev.to/atharvaunde/docker-layers-caching-multi-stage-explained-10b5)
+- [From Code to Contracts: A Beginner’s Expedition into the World of Smart Contracts](https://dev.to/garima_97/from-code-to-contracts-a-beginners-expedition-into-the-world-of-smart-contracts-52k6)
 <!-- BLOG-POST-LIST:END -->
 
