@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Heartbeats of Love: From Flutter to Forever ❤️💓💞](https://dev.to/divya4879/heartbeats-of-love-from-flutter-to-forever-2b6)
 - [Building AI Agents with Reinforcement Learning](https://dev.to/kartikmehta8/building-ai-agents-with-reinforcement-learning-52l1)
 - [Most Expensive NFT: 4 Mistakes New Investors Avoid](https://dev.to/cryptobass/most-expensive-nft-4-mistakes-new-investors-avoid-2cmo)
 - [[Boost]](https://dev.to/karavanjo/-f61)
-- [Blockchain Security: Building Smart, Healthy Cities with a Secure Digital Twin Framework](https://dev.to/cryptobass/blockchain-security-building-smart-healthy-cities-with-a-secure-digital-twin-framework-23i1)
 <!-- BLOG-POST-LIST:END -->
 
