@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pexl Keys - How to install smtp server on windows server 2022 ?](https://dev.to/pexlkeys/pexl-keys-how-to-install-smtp-server-on-windows-server-2022-i0d)
-- [As diferentes técnicas de navegação e renderização na web](https://dev.to/guiopen/as-diferentes-tecnicas-de-navegacao-e-renderizacao-na-web-4haa)
-- [Introduction to Neural Networks](https://dev.to/prezaei/introduction-to-neural-networks-39lj)
-- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-4lfc)
+- [Sq1](https://dev.to/gchar/sq1-1le9)
+- [Insert in BST](https://dev.to/mujahida_joynab_64c7407d8/insert-in-bst-120c)
+- [🚀 Build a Simple To-Do App with JavaScript – A Step-by-Step Guide](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd)
+- [How i got 500 stars on my first Open Source project](https://dev.to/dorianb/how-i-got-500-stars-on-my-first-open-source-project-3inb)
 <!-- BLOG-POST-LIST:END -->
 
