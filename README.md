@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This is so good](https://dev.to/mince/this-is-so-good-1e9k)
-- [Practice Program &lpar;Java&rpar;](https://dev.to/vasanthvnr_31/practice-program-java-147c)
-- [🚀 Week 7 Recap: Learning in Public – Mastering Docker &amp; Containerization 🚀](https://dev.to/xetnopnawab/week-7-recap-learning-in-public-mastering-docker-containerization-59a6)
-- [🚀 Efficient API Calls with Axios: Cancelling Unwanted Requests 🚀](https://dev.to/dzungnt98/efficient-api-calls-with-axios-cancelling-unwanted-requests-4h20)
+- [DO NOT use these LLM Metrics ⛔ And what to do instead!](https://dev.to/louis-dupont/do-not-use-these-llm-metrics-and-what-to-do-instead-4b95)
+- [JSON To Diagram](https://dev.to/aidevtools/json-to-diagram-299o)
+- [Create and Publish ASP.net Code on Azure App Service](https://dev.to/bestwatchprice/create-and-publish-aspnet-code-on-azure-app-service-3dlo)
+- [How I Optimized Database I/O from 100 Seconds to 3ms Using Multi-Level Indexing](https://dev.to/techsplot/how-i-optimized-database-io-from-100-seconds-to-3ms-using-multi-level-indexing-h29)
 <!-- BLOG-POST-LIST:END -->
 
