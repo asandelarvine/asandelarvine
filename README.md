@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JAMstack Tech-Stack For 2025: Why JAMstack is the Future of Web Development](https://dev.to/abubakersiddique761/jamstack-tech-stack-for-2025-why-jamstack-is-the-future-of-web-development-534o)
-- [PHP PSRs : PSR-1 Basic Coding Standard](https://dev.to/xxzeroxx/php-psrs-psr-1-basic-coding-standard-3fla)
-- [Answer: How to detect if building with address sanitizer when building with gcc 4.8?](https://dev.to/dobby33/answer-how-to-detect-if-building-with-address-sanitizer-when-building-with-gcc-48-ka1)
-- [Which front-end framework is the most performant and lightweight?](https://dev.to/techelopment/which-front-end-framework-is-the-most-performant-and-lightweight-2hha)
+- [🎉 J’ai créé ma première extension Google Chrome en moins de 10 minutes &lpar;et sans connaissances&rpar; ! 🚀](https://dev.to/developpeuz/jai-cree-ma-premiere-extension-google-chrome-2p48)
+- [Beninger set up for Video game development&lpar;Unreal Engine or others&rpar;](https://dev.to/gagecantrelle/beninger-set-up-for-video-game-developmentunreal-engine-or-others-4o83)
+- [Proxy reverse vs API Gateway vs Load Balancer](https://dev.to/wzorroman/proxy-reverse-vs-api-gateway-vs-load-balancer-5g3h)
+- [How to Check for Uncommitted or Unpushed Changes in Git](https://dev.to/msnmongare/how-to-check-for-uncommitted-or-unpushed-changes-in-git-11oh)
 <!-- BLOG-POST-LIST:END -->
 
