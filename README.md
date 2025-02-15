@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development: What is that?](https://dev.to/kevv_ly/web-development-what-is-that-39je)
-- [From Fractured to Forever: The Phases of Love 💔🤍💓❤️💞](https://dev.to/divya4879/from-fractured-to-forever-the-phases-of-love-3904)
-- [Networking 101: Part 7](https://dev.to/himanshu_bhatt/networking-101-part-7-1lg8)
-- [Heartbeats of Love: From Flutter to Forever ❤️💓💞](https://dev.to/divya4879/heartbeats-of-love-from-flutter-to-forever-2b6)
+- [Cupid&#39;s Cosmic Bang](https://dev.to/aniruddhaadak/cupids-cosmic-bang-3k79)
+- [Optimizing Vue.js Performance with `shallowRef`: An In-Depth Guide](https://dev.to/mochafreddo/optimizing-vuejs-performance-with-shallowref-an-in-depth-guide-25lb)
+- [sometimes ya just gotta tell the browser who’s boss and force a page refresh! 🦾](https://dev.to/wraith/sometimes-ya-just-gotta-tell-the-browser-whos-boss-and-force-a-page-refresh-53pa)
+- [Angular --### **Important Angular Interview Topics &lpar;With Explanation, Why &amp; Where to Use in Projects&rpar;**](https://dev.to/anjali_gurjar_dff81513867/angular-important-angular-interview-topics-with-explanation-why-where-to-use-in-ohi)
 <!-- BLOG-POST-LIST:END -->
 
