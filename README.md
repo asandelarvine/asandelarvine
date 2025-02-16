@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Laravel Reverb in the Background Using systemd](https://dev.to/edgaras/running-laravel-reverb-in-the-background-using-systemd-3732)
-- [Mongoose with MongoDB](https://dev.to/harshm03/mongoose-with-mongodb-4h0)
-- [Create Realtime ChatApp Website Without Coding by Create.xyz 🔥 🚀](https://dev.to/hanzla-baig/create-realtime-chatapp-website-without-coding-by-createxyz-1ec2)
-- [Building an AI Agent with LangGraph, TypeScript, Next.js, TailwindCSS, and Pinecone](https://dev.to/bobbyhalljr/building-an-ai-agent-with-langgraph-typescript-nextjs-tailwindcss-and-pinecone-3bkb)
+- [12 Must-Have Next.js Libraries to Improve Your Workflow! 🚀](https://dev.to/joodi/12-must-have-nextjs-libraries-to-boost-your-development-workflow-4p3d)
+- [¿Mi aplicación en la nube es compliance?](https://dev.to/briansuarezsantiago/mi-aplicacion-en-la-nube-es-compliance-3e5f)
+- [How to Build a Fast &amp; Secure PHP Contact Form with reCAPTCHA v3](https://dev.to/tanzi_bee/how-to-build-a-fast-secure-php-contact-form-with-recaptcha-v3-5do5)
+- [Select Dropdown + Searchbar + Clearable &lpar;React &amp; Shadcn&rpar;](https://dev.to/vic_ong/select-dropdown-searchbar-clearable-react-shadcn-cl8)
 <!-- BLOG-POST-LIST:END -->
 
