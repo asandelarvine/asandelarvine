@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Custom Aliases in Vite for Cleaner Imports](https://dev.to/gyantocode/how-to-create-custom-aliases-in-vite-for-cleaner-imports-20pk)
-- [TS1237: The return type of a parameter decorator function must be either &#39;void&#39; or &#39;any&#39;](https://dev.to/rivkaavraham/ts1237-the-return-type-of-a-parameter-decorator-function-must-be-either-void-or-any-3h6n)
-- [TS1234: An ambient module declaration is only allowed at the top level in a file](https://dev.to/rivkaavraham/ts1234-an-ambient-module-declaration-is-only-allowed-at-the-top-level-in-a-file-19pb)
-- [TS1235: A namespace declaration is only allowed at the top level of a namespace or module](https://dev.to/turingvangisms/ts1235-a-namespace-declaration-is-only-allowed-at-the-top-level-of-a-namespace-or-module-2e2b)
+- [Pioneering Web Aesthetics: Honoring Black History Month 2025](https://dev.to/govindvyas/pioneering-web-aesthetics-honoring-black-history-month-2025-3lap)
+- [GaussianBlur in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-2-1bj2)
+- [Optimizing Video Delivery with CDN and FFmpeg: Best Practices](https://dev.to/rabindratamang/optimizing-video-delivery-with-cdn-and-ffmpeg-best-practices-6ck)
+- [GaussianBlur in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-1-3ndn)
 <!-- BLOG-POST-LIST:END -->
 
