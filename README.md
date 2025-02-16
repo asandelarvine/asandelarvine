@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliability in Data-Intensive Applications](https://dev.to/oleksandr_kashytskyi_a630/reliability-in-data-intensive-applications-23l6)
-- [How Cloud-Based APIs Are Making GPT and Other AI Models More Accessible for Businesses and Developers Worldwide](https://dev.to/marufhossain/how-cloud-based-apis-are-making-gpt-and-other-ai-models-more-accessible-for-businesses-and-g0p)
-- [Building GetFitter: The Ultimate Workout App with Jetpack Compose](https://dev.to/himagaur2708/building-getfitter-the-ultimate-workout-app-with-jetpack-compose-57n0)
-- [Unlock the Power of Neural Networks – From Scratch!](https://dev.to/devinsights_blog_ed29ec86/unlock-the-power-of-neural-networks-from-scratch-3off)
+- [Setup a GitHub Self-Hosted Runner on an Ubuntu VM: A DevOps Guide](https://dev.to/codehirise/setup-a-github-self-hosted-runner-on-an-ubuntu-vm-a-devops-guide-3aim)
+- [Create React App is Dead, ES Modules are the new JavaScript Default, Vercel Fluid Compute, and more](https://dev.to/thisweekinjavascript/create-react-app-is-dead-es-modules-are-the-new-javascript-default-vercel-fluid-compute-and-more-2f4l)
+- [Java Reflection](https://dev.to/lahiru_rajapakshe_8634adb/java-reflection-141b)
+- [Deploy Flutter Web App to Vercel](https://dev.to/davidongora/deploy-flutter-web-app-to-vercel-49pp)
 <!-- BLOG-POST-LIST:END -->
 
