@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Ansible: A Beginner&#39;s Guide](https://dev.to/onlyfave/introduction-to-ansible-a-beginners-guide-1p70)
-- [Official Goodbye: The End of an Era for Create React App](https://dev.to/this-is-learning/official-goodbye-the-end-of-an-era-for-create-react-app-2a2i)
-- [How to Create Fully Styled Forms in Tailwind CSS &lpar;Including Validation&rpar;](https://dev.to/rowsanali/how-to-create-fully-styled-forms-in-tailwind-css-including-validation-15ee)
-- [My take on the Agentic Object Detection](https://dev.to/mayank_laddha_21ef3e061ff/my-take-on-the-agentic-object-detection-4612)
+- [Is the MERN Stack Dying? What’s Next for Full-Stack Development?](https://dev.to/codetirtho97/is-the-mern-stack-dying-whats-next-for-full-stack-development-35pg)
+- [Unlocking the Future of Social Networks: The Power of the Linkspreed Agency Partnership](https://dev.to/web4/unlocking-the-future-of-social-networks-the-power-of-the-linkspreed-agency-partnership-3ag8)
+- [Fabric &amp; Databricks Interoperability &lpar;2&rpar;: Configuring Hub Storage](https://dev.to/_d2a1ea24c442526a9777/fabric-databricks-interoperability-2-configuring-hub-storage-4l85)
+- [5 bước cơ bản để phân tích và tối ưu câu lệnh SQL](https://dev.to/sangtrandev00/5-buoc-co-ban-de-phan-tich-va-toi-uu-cau-lenh-sql-m6d)
 <!-- BLOG-POST-LIST:END -->
 
