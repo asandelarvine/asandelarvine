@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Continuous Delivery vs. Continuous Deployment](https://dev.to/godofgeeks/continuous-delivery-vs-continuous-deployment-3cca)
-- [Git &amp; GitHub Demystified:A Practical Guide to Git &amp; GitHub](https://dev.to/surajkumar00/git-github-demystifieda-practical-guide-to-git-github-2gff)
-- [New AI Method Makes Language Logic Crystal Clear by Breaking It Down Step-by-Step](https://dev.to/mikeyoung44/new-ai-method-makes-language-logic-crystal-clear-by-breaking-it-down-step-by-step-3m7p)
-- [AI-Enhanced Heart Rate Monitoring Cuts Through Exercise Motion Noise](https://dev.to/mikeyoung44/ai-enhanced-heart-rate-monitoring-cuts-through-exercise-motion-noise-52ge)
+- [FastAPI Book Management API with CI/CD: A Modern Developer&#39;s Guide Overview🔥](https://dev.to/onlyfave/fastapi-book-management-api-with-cicd-a-modern-developers-guideoverview-47j5)
+- [How can I ping the main machine on which I just launched my private instance?](https://dev.to/soram/how-can-i-ping-the-main-machine-on-which-i-just-launched-my-private-instance-2a92)
+- [How a New Graduate with No Industry Experience Passed the Databricks Certified Data Engineer Associate Exam in 3 Weeks](https://dev.to/_d2a1ea24c442526a9777/how-a-new-graduate-with-no-industry-experience-passed-the-databricks-certified-data-engineer-j8)
+- [Love Language](https://dev.to/pinky057/love-language-2el1)
 <!-- BLOG-POST-LIST:END -->
 
