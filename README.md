@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Profitable Digital Art Business: A Comprehensive Developer Roadmap](https://dev.to/resource_bunk_1077cab07da/how-to-build-a-profitable-digital-art-business-a-comprehensive-developer-roadmap-5cg2)
-- [Memes on Mina protocol](https://dev.to/luke1/memes-on-mina-protocol-4bic)
-- [Rare Coding Tips That Every Developer Should Know](https://dev.to/makalin/rare-coding-tips-that-every-developer-should-know-3539)
-- [Abstraction vs Encapsulation](https://dev.to/nozibul_islam_113b1d5334f/abstraction-vs-encapsulation-11ib)
+- [Continuous Delivery vs. Continuous Deployment](https://dev.to/godofgeeks/continuous-delivery-vs-continuous-deployment-3cca)
+- [Git &amp; GitHub Demystified:A Practical Guide to Git &amp; GitHub](https://dev.to/surajkumar00/git-github-demystifieda-practical-guide-to-git-github-2gff)
+- [New AI Method Makes Language Logic Crystal Clear by Breaking It Down Step-by-Step](https://dev.to/mikeyoung44/new-ai-method-makes-language-logic-crystal-clear-by-breaking-it-down-step-by-step-3m7p)
+- [AI-Enhanced Heart Rate Monitoring Cuts Through Exercise Motion Noise](https://dev.to/mikeyoung44/ai-enhanced-heart-rate-monitoring-cuts-through-exercise-motion-noise-52ge)
 <!-- BLOG-POST-LIST:END -->
 
