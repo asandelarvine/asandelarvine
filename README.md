@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pioneering Web Aesthetics: Honoring Black History Month 2025](https://dev.to/govindvyas/pioneering-web-aesthetics-honoring-black-history-month-2025-3lap)
-- [GaussianBlur in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-2-1bj2)
-- [Optimizing Video Delivery with CDN and FFmpeg: Best Practices](https://dev.to/rabindratamang/optimizing-video-delivery-with-cdn-and-ffmpeg-best-practices-6ck)
-- [GaussianBlur in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/gaussianblur-in-pytorch-1-3ndn)
+- [How to Build a Profitable Digital Art Business: A Comprehensive Developer Roadmap](https://dev.to/resource_bunk_1077cab07da/how-to-build-a-profitable-digital-art-business-a-comprehensive-developer-roadmap-5cg2)
+- [Memes on Mina protocol](https://dev.to/luke1/memes-on-mina-protocol-4bic)
+- [Rare Coding Tips That Every Developer Should Know](https://dev.to/makalin/rare-coding-tips-that-every-developer-should-know-3539)
+- [Abstraction vs Encapsulation](https://dev.to/nozibul_islam_113b1d5334f/abstraction-vs-encapsulation-11ib)
 <!-- BLOG-POST-LIST:END -->
 
