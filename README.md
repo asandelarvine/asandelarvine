@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Go’s Functional Programming is the Ultimate Coding Style](https://dev.to/leapcell/why-gos-functional-programming-is-the-ultimate-coding-style-53ee)
-- [How to Use Any AI for Free, Online, and Without Registration](https://dev.to/angel_rojas_6904bae237a0d/how-to-use-any-ai-for-free-online-and-without-registration-p2g)
-- [Success Pop up Modal](https://dev.to/preetha_vaishnavi_2b82358/success-pop-up-modal-hg5)
-- [Deepseek-R1: El Modelo Revolucionario que Eleva los Estándares de los LLM de Código Abierto](https://dev.to/angel_rojas_6904bae237a0d/deepseek-r1-el-modelo-revolucionario-que-eleva-los-estandares-de-los-llm-de-codigo-abierto-42cc)
+- [The DeepSeek Revolution: The AI Game Changer You Need to Know About](https://dev.to/nitdgplug/the-deepseek-revolution-the-ai-game-changer-you-need-to-know-about-1f57)
+- [Balaji Udayagiri](https://dev.to/balaji_udayagiri_aa6f571e/balaji-udayagiri-14o3)
+- [Appointment Form](https://dev.to/preetha_vaishnavi_2b82358/appointment-form-1kdl)
+- [Building a Slack Clone with Next.js and TailwindCSS - Part Three](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-three-4db6)
 <!-- BLOG-POST-LIST:END -->
 
