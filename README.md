@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Swiper.js Example](https://dev.to/preetha_vaishnavi_2b82358/simple-swiperjs-example-24j2)
-- [Preparing for Senior PHP Symfony Developer role at Clubee](https://dev.to/gurachek/preparing-for-senior-php-symfony-developer-role-at-clubee-2can)
-- [From Social Media Feeds to Self-Sovereignty: A Beginner’s Journey from Web2 to Web3](https://dev.to/garima_97/from-social-media-feeds-to-self-sovereignty-a-beginners-journey-from-web2-to-web3-a8c)
-- [Linux User Management Basics](https://dev.to/madhushan/linux-user-management-basics-me0)
+- [How to Use Tailwind CSS with the Clamp Function for Responsive Designs](https://dev.to/rowsanali/how-to-use-tailwind-css-with-the-clamp-function-for-responsive-designs-2pn)
+- [Các bước vẽ Collabarotion Diagram](https://dev.to/hcmute_project_988df1c63c/cac-buoc-ve-collabarotion-diagram-30fo)
+- [The Power of Promises: Separating UI and Business Logic in React](https://dev.to/anton_akhatov/the-power-of-promises-separating-ui-and-business-logic-in-react-55h0)
+- [🚀 Ensuring Unique Slugs in Next.js 15 with Prisma &amp; Slugify](https://dev.to/saiful7778/ensuring-unique-slugs-in-nextjs-15-with-prisma-slugify-4agc)
 <!-- BLOG-POST-LIST:END -->
 
