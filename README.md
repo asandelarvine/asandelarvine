@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 12 Recap of #100DaysOfCode](https://dev.to/lymah/week-12-recap-of-100daysofcode-21h7)
-- [GIT haqida ma&#39;lumot](https://dev.to/sunnat_qayumov/git-8a)
-- [Building a URL Shortener in Go](https://dev.to/luthfisauqi17/building-a-url-shortener-in-go-592d)
-- [Getting Started with Linux: Key Lessons from the Linux Foundation](https://dev.to/madhushan/getting-started-with-linux-key-lessons-from-the-linux-foundation-1g62)
+- [Simple Swiper.js Example](https://dev.to/preetha_vaishnavi_2b82358/simple-swiperjs-example-24j2)
+- [Preparing for Senior PHP Symfony Developer role at Clubee](https://dev.to/gurachek/preparing-for-senior-php-symfony-developer-role-at-clubee-2can)
+- [From Social Media Feeds to Self-Sovereignty: A Beginner’s Journey from Web2 to Web3](https://dev.to/garima_97/from-social-media-feeds-to-self-sovereignty-a-beginners-journey-from-web2-to-web3-a8c)
+- [Linux User Management Basics](https://dev.to/madhushan/linux-user-management-basics-me0)
 <!-- BLOG-POST-LIST:END -->
 
