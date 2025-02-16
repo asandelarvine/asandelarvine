@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The DeepSeek Revolution: The AI Game Changer You Need to Know About](https://dev.to/nitdgplug/the-deepseek-revolution-the-ai-game-changer-you-need-to-know-about-1f57)
-- [Balaji Udayagiri](https://dev.to/balaji_udayagiri_aa6f571e/balaji-udayagiri-14o3)
-- [Appointment Form](https://dev.to/preetha_vaishnavi_2b82358/appointment-form-1kdl)
-- [Building a Slack Clone with Next.js and TailwindCSS - Part Three](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-three-4db6)
+- [Week 12 Recap of #100DaysOfCode](https://dev.to/lymah/week-12-recap-of-100daysofcode-21h7)
+- [GIT haqida ma&#39;lumot](https://dev.to/sunnat_qayumov/git-8a)
+- [Building a URL Shortener in Go](https://dev.to/luthfisauqi17/building-a-url-shortener-in-go-592d)
+- [Getting Started with Linux: Key Lessons from the Linux Foundation](https://dev.to/madhushan/getting-started-with-linux-key-lessons-from-the-linux-foundation-1g62)
 <!-- BLOG-POST-LIST:END -->
 
