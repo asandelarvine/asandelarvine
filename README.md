@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Book Management API with CI/CD: A Modern Developer&#39;s Guide Overview🔥](https://dev.to/onlyfave/fastapi-book-management-api-with-cicd-a-modern-developers-guideoverview-47j5)
-- [How can I ping the main machine on which I just launched my private instance?](https://dev.to/soram/how-can-i-ping-the-main-machine-on-which-i-just-launched-my-private-instance-2a92)
-- [How a New Graduate with No Industry Experience Passed the Databricks Certified Data Engineer Associate Exam in 3 Weeks](https://dev.to/_d2a1ea24c442526a9777/how-a-new-graduate-with-no-industry-experience-passed-the-databricks-certified-data-engineer-j8)
-- [Love Language](https://dev.to/pinky057/love-language-2el1)
+- [Introduction to Ansible: A Beginner&#39;s Guide](https://dev.to/onlyfave/introduction-to-ansible-a-beginners-guide-1p70)
+- [Official Goodbye: The End of an Era for Create React App](https://dev.to/this-is-learning/official-goodbye-the-end-of-an-era-for-create-react-app-2a2i)
+- [How to Create Fully Styled Forms in Tailwind CSS &lpar;Including Validation&rpar;](https://dev.to/rowsanali/how-to-create-fully-styled-forms-in-tailwind-css-including-validation-15ee)
+- [My take on the Agentic Object Detection](https://dev.to/mayank_laddha_21ef3e061ff/my-take-on-the-agentic-object-detection-4612)
 <!-- BLOG-POST-LIST:END -->
 
