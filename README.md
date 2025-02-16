@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sq1](https://dev.to/gchar/sq1-1le9)
-- [Insert in BST](https://dev.to/mujahida_joynab_64c7407d8/insert-in-bst-120c)
-- [🚀 Build a Simple To-Do App with JavaScript – A Step-by-Step Guide](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd)
-- [How i got 500 stars on my first Open Source project](https://dev.to/dorianb/how-i-got-500-stars-on-my-first-open-source-project-3inb)
+- [🚀 JavaScript Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/javascript-tips-essential-tips-and-tricks-for-developers-4l9j)
+- [Solving software system problems](https://dev.to/daniel_oliveira_02af1acf2/solving-software-system-problems-3f44)
+- [[Boost]](https://dev.to/stefanyrepetcki/-3h92)
+- [What is complete binary tree](https://dev.to/mujahida_joynab_64c7407d8/what-is-complete-binary-tree-43bg)
 <!-- BLOG-POST-LIST:END -->
 
