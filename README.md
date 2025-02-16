@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a GitHub Self-Hosted Runner on an Ubuntu VM: A DevOps Guide](https://dev.to/codehirise/setup-a-github-self-hosted-runner-on-an-ubuntu-vm-a-devops-guide-3aim)
-- [Create React App is Dead, ES Modules are the new JavaScript Default, Vercel Fluid Compute, and more](https://dev.to/thisweekinjavascript/create-react-app-is-dead-es-modules-are-the-new-javascript-default-vercel-fluid-compute-and-more-2f4l)
-- [Java Reflection](https://dev.to/lahiru_rajapakshe_8634adb/java-reflection-141b)
-- [Deploy Flutter Web App to Vercel](https://dev.to/davidongora/deploy-flutter-web-app-to-vercel-49pp)
+- [Playwright: A Guide to Browser Automation &amp; Testing](https://dev.to/austinwdigital/playwright-a-guide-to-browser-automation-testing-hnd)
+- [How to Enable Virtual Machine Platform using CMD &amp; PowerShell?](https://dev.to/winsides/how-to-enable-virtual-machine-platform-using-cmd-powershell-33l6)
+- [Automate MySQL Backups with CRON Jobs in cPanel](https://dev.to/tahsin000/automate-mysql-backups-with-cron-jobs-in-cpanel-464n)
+- [🚀 Steam MiniProfile: A Real-Time, Embeddable Steam Widget for Your Website](https://dev.to/gamer2810/steam-miniprofile-a-real-time-embeddable-steam-widget-for-your-website-2ob5)
 <!-- BLOG-POST-LIST:END -->
 
