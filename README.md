@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Hate WordPress—But Why It’s Still Great and Necessary](https://dev.to/itamartati/why-i-hate-wordpress-but-why-its-still-great-and-necessary-1lbg)
-- [Ingesting documents using .NET to build a simple Retrieval Augmented Generation &lpar;RAG&rpar; system](https://dev.to/syamaner/a-simple-approach-for-ingesting-documents-using-net-for-a-simple-retrieval-augmented-generation-47e1)
-- [Trending Mobile App Development Frameworks on 2025](https://dev.to/resource_bunk_1077cab07da/trending-mobile-app-development-frameworks-on-2025-3i5g)
-- [Meet Checkmate.so — The Open-Source Tool to Keep Your Servers in Check!](https://dev.to/satwikloka/meet-checkmateso-the-open-source-tool-to-keep-your-servers-in-check-37cp)
+- [Ultimate Guide to Effective Unit Testing in .NET: From Beginner to Advanced](https://dev.to/leandroveiga/ultimate-guide-to-effective-unit-testing-in-net-from-beginner-to-advanced-289)
+- [🚀 Exploring Docker Ask Gordon: Your AI-Powered Dev Companion!](https://dev.to/raveendiran/exploring-docker-ask-gordon-your-ai-powered-dev-companion-2a3k)
+- [[Boost]](https://dev.to/0x1c3c01d/-2dc7)
+- [Darc Athletics: Revolutionizing Vogue, Exercise, as well as Functionality](https://dev.to/seo_worker_7c30fe1726aaed/darc-athletics-revolutionizing-vogue-exercise-as-well-as-functionality-3563)
 <!-- BLOG-POST-LIST:END -->
 
