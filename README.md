@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Awesome CSS text effects for your next project](https://dev.to/paul_freeman/10-awesome-css-text-effects-for-your-next-project-39on)
-- [CSS Tips and Tricks to Level Up Your Web Design](https://dev.to/ankitvermaonline/css-tips-and-tricks-to-level-up-your-web-design-1k0)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5888)
-- [Beginner in Web Dev &amp; React – Need Help](https://dev.to/tannu_2b5e04c8e660af79aee/beginner-in-web-dev-react-need-help-52ef)
+- [CORS Anywhere Alternative: Free vs. Premium CORS Proxy](https://dev.to/reynaldichernando/cors-anywhere-alternative-free-vs-premium-cors-proxy-2ebj)
+- [Will AI Replace Humans? The Future of Work in 2030 and Beyond](https://dev.to/futuristicgeeks/will-ai-replace-humans-the-future-of-work-in-2030-and-beyond-ge3)
+- [Best AIOps Tools and Platforms to Use in 2025](https://dev.to/quinnox_/best-aiops-tools-and-platforms-to-use-in-2025-4129)
+- [Deploying a Gemini-powered Mesop app to Cloud Run](https://dev.to/rsamborski/deploying-a-gemini-powered-mesop-app-to-cloud-run-17m5)
 <!-- BLOG-POST-LIST:END -->
 
