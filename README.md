@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Drosera Traps to Investigate a Vulnerable Smart Contract](https://dev.to/scofieldidehen/using-drosera-traps-to-investigate-a-vulnerable-smart-contract-3843)
-- [[Boost]](https://dev.to/owasp_foundation/-841)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/friendgrass7/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1677)
-- [Introducing Wave v0.0.1-pre-beta: The First Usable Version](https://dev.to/lunastev/introducing-wave-v001-pre-beta-the-first-usable-version-d8p)
+- [Zero Trust at the Edge &lpar;part 3&rpar;](https://dev.to/tmountjr/zero-trust-at-the-edge-part-3-569k)
+- [25+ Must-Read Swift Resource for Your Projects.](https://dev.to/dev-resources/must-read-25-swift-resource-for-your-projects-2h04)
+- [How To Set Pricing For Freelancing By The Hour](https://dev.to/mersano/how-to-set-pricing-for-freelancing-by-the-hour-50b6)
+- [What is the difference between fetch and XMLHTTPRequest? ⚙️](https://dev.to/hmpljs/what-is-the-difference-between-fetch-and-xmlhttprequest-1g9m)
 <!-- BLOG-POST-LIST:END -->
 
