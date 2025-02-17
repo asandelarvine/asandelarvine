@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Love Letter](https://dev.to/eseba_7f8f396f844dda830c3/love-letter-53oe)
-- [Jupyter AI &amp; .NET Aspire: Building an LLM-Enabled Jupyter Environment](https://dev.to/syamaner/jupyter-ai-net-aspire-building-an-llm-enabled-jupyter-environment-59bo)
-- [Level Up Your AI-Era Dev Rizz &lpar;No LeetCode Required!&rpar;](https://dev.to/fast/level-up-your-ai-era-dev-rizz-no-leetcode-required-30if)
-- [Freelancing for Web Development](https://dev.to/mikehtmlallthethings/freelancing-for-web-development-1573)
+- [API Schema Validation with Cypress](https://dev.to/cypress/api-schema-validation-with-cypress-185m)
+- [Buffer Overflow: From Basics to Exploitation](https://dev.to/sa4dus/buffer-overflow-from-basics-to-exploitation-5d0n)
+- [The Ugly Truth About VC-Funded Startups: Evidence Capitalism Doesn’t Work](https://dev.to/itamartati/the-ugly-truth-about-vc-funded-startups-evidence-capitalism-doesnt-work-2ip5)
+- [I Built a TypeScript SDK for Batch Processing LLM Calls Across Model Providers](https://dev.to/grantsingleton/i-built-a-typescript-sdk-for-batch-processing-llm-calls-across-model-providers-1jg5)
 <!-- BLOG-POST-LIST:END -->
 
