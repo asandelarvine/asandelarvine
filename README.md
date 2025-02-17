@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/introduction-to-amazon-ecs-elastic-container-service-10b)
-- [API Debugging is Really A Piece of Cake🎂](https://dev.to/apilover/api-debugging-is-really-a-piece-of-cake-3n77)
-- [Explain why we need .ruby-version file but no ruby DSL method in Gemfile in Rails apps](https://dev.to/tnir/explain-why-we-need-ruby-version-file-but-no-ruby-dsl-method-in-gemfile-in-rails-apps-468b)
-- [Power Platform - The Managed Delivery Process](https://dev.to/wyattdave/power-platform-the-managed-delivery-process-1fo6)
+- [Share your success stories in Green Software](https://dev.to/gaelduez/share-your-success-stories-in-green-software-ep4)
+- [The Upcoming Scenario of India’s E-commerce Market: An Analysis for 2030](https://dev.to/silverclouding_ads_0fb803/the-upcoming-scenario-of-indias-e-commerce-market-an-analysis-for-2030-55ch)
+- [&quot;Unlocking Multilingual Speech: The Future of AI Translation Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-multilingual-speech-the-future-of-ai-translation-models-52ec)
+- [The Simplest Eight Queens Code You’ll Find Online](https://dev.to/esproc_spl/the-simplest-eight-queens-code-youll-find-online-28ko)
 <!-- BLOG-POST-LIST:END -->
 
