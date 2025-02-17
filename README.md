@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Share your success stories in Green Software](https://dev.to/gaelduez/share-your-success-stories-in-green-software-ep4)
-- [The Upcoming Scenario of India’s E-commerce Market: An Analysis for 2030](https://dev.to/silverclouding_ads_0fb803/the-upcoming-scenario-of-indias-e-commerce-market-an-analysis-for-2030-55ch)
-- [&quot;Unlocking Multilingual Speech: The Future of AI Translation Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-multilingual-speech-the-future-of-ai-translation-models-52ec)
-- [The Simplest Eight Queens Code You’ll Find Online](https://dev.to/esproc_spl/the-simplest-eight-queens-code-youll-find-online-28ko)
+- [Why I Love Using Expo Over Custom React Native Architecture](https://dev.to/aneeqakhan/why-i-love-using-expo-over-custom-react-native-architecture-41fh)
+- [New AI Method Cuts Training Data Needs for Image Segmentation by 50%](https://dev.to/mikeyoung44/new-ai-method-cuts-training-data-needs-for-image-segmentation-by-50-jaa)
+- [New Memory-Based Neural Network Activation Cuts Computing Costs by 30%](https://dev.to/mikeyoung44/new-memory-based-neural-network-activation-cuts-computing-costs-by-30-1h5b)
+- [Study Shows Spatial Label Noise Severely Impacts AI Object Detection Performance](https://dev.to/mikeyoung44/study-shows-spatial-label-noise-severely-impacts-ai-object-detection-performance-3h4i)
 <!-- BLOG-POST-LIST:END -->
 
