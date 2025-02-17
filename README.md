@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS Anywhere Alternative: Free vs. Premium CORS Proxy](https://dev.to/reynaldichernando/cors-anywhere-alternative-free-vs-premium-cors-proxy-2ebj)
-- [Will AI Replace Humans? The Future of Work in 2030 and Beyond](https://dev.to/futuristicgeeks/will-ai-replace-humans-the-future-of-work-in-2030-and-beyond-ge3)
-- [Best AIOps Tools and Platforms to Use in 2025](https://dev.to/quinnox_/best-aiops-tools-and-platforms-to-use-in-2025-4129)
-- [Deploying a Gemini-powered Mesop app to Cloud Run](https://dev.to/rsamborski/deploying-a-gemini-powered-mesop-app-to-cloud-run-17m5)
+- [New DEV++ Deal: a free .Tech domain for every member!](https://dev.to/devteam/new-dev-deal-a-free-tech-domain-for-every-member-ipo)
+- [Detecting Violent Content with AI: A Simple Image Analyzer Using APILayer &amp; React](https://dev.to/kelvincode1234/detecting-violent-content-with-ai-a-simple-image-analyzer-using-apilayer-react-34ip)
+- [Build a software career with meaning: a playbook](https://dev.to/jonesbeach/build-a-software-career-with-meaning-a-playbook-d3b)
+- [Free and open-source collection of SVG illustrations for Flowbite](https://dev.to/themesberg/free-and-open-source-collection-of-svg-illustrations-for-flowbite-3lme)
 <!-- BLOG-POST-LIST:END -->
 
