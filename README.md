@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Custom Domain with AWS Amplify Without Using AWS Route 53](https://dev.to/binaryibex/attaching-a-custom-domain-to-aws-amplify-without-using-aws-route-53-2k0k)
-- [What is CORS? : Explained](https://dev.to/akshay_chauhan/what-is-cors-explained-8f1)
-- [Cut AWS EC2 Costs with Python: Automate Cost Optimization Using AWS Lambda](https://dev.to/venkatasrihari/cut-aws-ec2-costs-with-python-automate-cost-optimization-using-aws-lambda-45oi)
-- [Untitled](https://dev.to/sergey_bondarev_24dc2a84f/untitled-1j3n)
+- [Introduction to Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/introduction-to-amazon-ecs-elastic-container-service-10b)
+- [API Debugging is Really A Piece of Cake🎂](https://dev.to/apilover/api-debugging-is-really-a-piece-of-cake-3n77)
+- [Explain why we need .ruby-version file but no ruby DSL method in Gemfile in Rails apps](https://dev.to/tnir/explain-why-we-need-ruby-version-file-but-no-ruby-dsl-method-in-gemfile-in-rails-apps-468b)
+- [Power Platform - The Managed Delivery Process](https://dev.to/wyattdave/power-platform-the-managed-delivery-process-1fo6)
 <!-- BLOG-POST-LIST:END -->
 
