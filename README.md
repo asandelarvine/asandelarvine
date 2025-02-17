@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Love Using Expo Over Custom React Native Architecture](https://dev.to/aneeqakhan/why-i-love-using-expo-over-custom-react-native-architecture-41fh)
-- [New AI Method Cuts Training Data Needs for Image Segmentation by 50%](https://dev.to/mikeyoung44/new-ai-method-cuts-training-data-needs-for-image-segmentation-by-50-jaa)
-- [New Memory-Based Neural Network Activation Cuts Computing Costs by 30%](https://dev.to/mikeyoung44/new-memory-based-neural-network-activation-cuts-computing-costs-by-30-1h5b)
-- [Study Shows Spatial Label Noise Severely Impacts AI Object Detection Performance](https://dev.to/mikeyoung44/study-shows-spatial-label-noise-severely-impacts-ai-object-detection-performance-3h4i)
+- [10 Awesome CSS text effects for your next project](https://dev.to/paul_freeman/10-awesome-css-text-effects-for-your-next-project-39on)
+- [CSS Tips and Tricks to Level Up Your Web Design](https://dev.to/ankitvermaonline/css-tips-and-tricks-to-level-up-your-web-design-1k0)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5888)
+- [Beginner in Web Dev &amp; React – Need Help](https://dev.to/tannu_2b5e04c8e660af79aee/beginner-in-web-dev-react-need-help-52ef)
 <!-- BLOG-POST-LIST:END -->
 
