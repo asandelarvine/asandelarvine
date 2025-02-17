@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing StackQL - Manage Your Cloud Services &amp; Interact with APIs using SQL 🧑‍💻🔥](https://dev.to/madza/introducing-stackql-manage-your-cloud-services-interact-with-apis-using-sql-175m)
-- [Microsoft Copilot: First 90 Days - A Developer&#39;s Perspective](https://dev.to/borisgigovic/microsoft-copilot-first-90-days-a-developers-perspective-350c)
-- [Meme Monday](https://dev.to/ben/meme-monday-13in)
-- [Managing Lists, Keys, and Forms in React](https://dev.to/johnschibelli/managing-lists-keys-and-forms-in-react-5ao4)
+- [Hello](https://dev.to/elxmatah/hello-14bp)
+- [A guide to modern frontend architecture patterns](https://dev.to/leemeganj/a-guide-to-modern-frontend-architecture-patterns-392o)
+- [Spring Boot 3.4 application on AWS Lambda- Part 2 AWS Lambda Web Adapter](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-2-aws-lambda-web-adapter-ko9)
+- [Excel VBA - Subs and Functions](https://dev.to/kacper2048/excel-vba-subs-and-functions-1jh)
 <!-- BLOG-POST-LIST:END -->
 
