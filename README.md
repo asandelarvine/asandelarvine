@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Schema Validation with Cypress](https://dev.to/cypress/api-schema-validation-with-cypress-185m)
-- [Buffer Overflow: From Basics to Exploitation](https://dev.to/sa4dus/buffer-overflow-from-basics-to-exploitation-5d0n)
-- [The Ugly Truth About VC-Funded Startups: Evidence Capitalism Doesn’t Work](https://dev.to/itamartati/the-ugly-truth-about-vc-funded-startups-evidence-capitalism-doesnt-work-2ip5)
-- [I Built a TypeScript SDK for Batch Processing LLM Calls Across Model Providers](https://dev.to/grantsingleton/i-built-a-typescript-sdk-for-batch-processing-llm-calls-across-model-providers-1jg5)
+- [Chatbot with Semantic Kernel - Part 6: AI Connectors 🔌](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-6-ai-connectors-4b63)
+- [Understanding Data Interfaces: Simplifying Data Exchange with Stof](https://dev.to/amelia_wampler_e7aa93dab9/understanding-data-interfaces-simplifying-data-exchange-with-stof-8hm)
+- [Introducing the game-changer: Motion Provider](https://dev.to/burakdev/introducing-the-game-changer-motion-provider-48f4)
+- [𝗨𝗻𝗹𝗲𝗮𝘀𝗵𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗔𝗣𝗜 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝘄𝗮𝗴𝗴𝗲𝗿 𝗮𝗻𝗱 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁](https://dev.to/thiago_souza_1510/-33hf)
 <!-- BLOG-POST-LIST:END -->
 
