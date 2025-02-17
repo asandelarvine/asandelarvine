@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Must-Have Next.js Libraries to Improve Your Workflow! 🚀](https://dev.to/joodi/12-must-have-nextjs-libraries-to-boost-your-development-workflow-4p3d)
-- [¿Mi aplicación en la nube es compliance?](https://dev.to/briansuarezsantiago/mi-aplicacion-en-la-nube-es-compliance-3e5f)
-- [How to Build a Fast &amp; Secure PHP Contact Form with reCAPTCHA v3](https://dev.to/tanzi_bee/how-to-build-a-fast-secure-php-contact-form-with-recaptcha-v3-5do5)
-- [Select Dropdown + Searchbar + Clearable &lpar;React &amp; Shadcn&rpar;](https://dev.to/vic_ong/select-dropdown-searchbar-clearable-react-shadcn-cl8)
+- [learn Data Structure and Probleme-Solving](https://dev.to/ammardeche/learn-data-structure-and-probleme-solving-59e4)
+- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-h2f)
+- [Share authentication cookies between ASP.NET 4.x and ASP.NET Core](https://dev.to/roicp/share-authentication-cookies-between-aspnet-4x-and-aspnet-core-47gj)
+- [Always keep this hacking technique in mind](https://dev.to/blue_byte/always-keep-this-hacking-technique-in-mind-4mi0)
 <!-- BLOG-POST-LIST:END -->
 
