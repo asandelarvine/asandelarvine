@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust at the Edge &lpar;part 3&rpar;](https://dev.to/tmountjr/zero-trust-at-the-edge-part-3-569k)
-- [25+ Must-Read Swift Resource for Your Projects.](https://dev.to/dev-resources/must-read-25-swift-resource-for-your-projects-2h04)
-- [How To Set Pricing For Freelancing By The Hour](https://dev.to/mersano/how-to-set-pricing-for-freelancing-by-the-hour-50b6)
-- [What is the difference between fetch and XMLHTTPRequest? ⚙️](https://dev.to/hmpljs/what-is-the-difference-between-fetch-and-xmlhttprequest-1g9m)
+- [The Cybersecurity Risks of AI-Generated Code: What You Need to Know](https://dev.to/cyberwolves/the-cybersecurity-risks-of-ai-generated-code-what-you-need-to-know-5d12)
+- [Mastering watch and watchEffect in Vue 3 with Practical Examples](https://dev.to/ahmedfm/mastering-watch-and-watcheffect-in-vue-3-with-practical-examples-2gg3)
+- [Comparing Cross-Platform Mobile Development Tools](https://dev.to/resource_bunk_1077cab07da/comparing-cross-platform-mobile-development-tools-1o62)
+- [Understanding the @Value Annotation | Spring Boot | Java Spring](https://dev.to/debeshpg90/understanding-the-value-annotation-spring-boot-java-spring-2fmj)
 <!-- BLOG-POST-LIST:END -->
 
