@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use a CMS Instead of a Framework: Make the Right Choice for Your Project](https://dev.to/dct_technologyprivatelimited/when-to-use-a-cms-instead-of-a-framework-make-the-right-choice-for-your-project-2n89)
-- [New Writers and Bloggers: Here Are 5 Lessons from a Viral Post](https://dev.to/canro91/new-writers-and-bloggers-here-are-5-lessons-from-a-viral-post-4b55)
-- [List of essential Git commands](https://dev.to/matiar_rahman31/list-of-essential-git-commands-3b4)
-- [Recursion in Java](https://dev.to/neelakandan_ravi_2000/recursion-in-java-27pd)
+- [Setting Up a Custom Domain with AWS Amplify Without Using AWS Route 53](https://dev.to/binaryibex/attaching-a-custom-domain-to-aws-amplify-without-using-aws-route-53-2k0k)
+- [What is CORS? : Explained](https://dev.to/akshay_chauhan/what-is-cors-explained-8f1)
+- [Cut AWS EC2 Costs with Python: Automate Cost Optimization Using AWS Lambda](https://dev.to/venkatasrihari/cut-aws-ec2-costs-with-python-automate-cost-optimization-using-aws-lambda-45oi)
+- [Untitled](https://dev.to/sergey_bondarev_24dc2a84f/untitled-1j3n)
 <!-- BLOG-POST-LIST:END -->
 
