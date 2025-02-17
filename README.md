@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [notl.ink - open source blazingly fast url shortener ever. Live on ProductHunt.](https://dev.to/abdibrokhim/notlink-open-source-blazingly-fast-url-shortener-ever-live-on-producthunt-41mk)
-- [The React Folder Structure Exposé: From Newbie to Code Mastery Style](https://dev.to/toosriet/the-react-folder-structure-expose-from-newbie-to-code-mastery-style-3mlb)
-- [Factory Method in Java](https://dev.to/mspilari/factory-method-in-java-523)
-- [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
+- [Introducing StackQL - Manage Your Cloud Services &amp; Interact with APIs using SQL 🧑‍💻🔥](https://dev.to/madza/introducing-stackql-manage-your-cloud-services-interact-with-apis-using-sql-175m)
+- [Microsoft Copilot: First 90 Days - A Developer&#39;s Perspective](https://dev.to/borisgigovic/microsoft-copilot-first-90-days-a-developers-perspective-350c)
+- [Meme Monday](https://dev.to/ben/meme-monday-13in)
+- [Managing Lists, Keys, and Forms in React](https://dev.to/johnschibelli/managing-lists-keys-and-forms-in-react-5ao4)
 <!-- BLOG-POST-LIST:END -->
 
