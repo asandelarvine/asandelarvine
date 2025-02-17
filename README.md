@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [learn Data Structure and Probleme-Solving](https://dev.to/ammardeche/learn-data-structure-and-probleme-solving-59e4)
-- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-h2f)
-- [Share authentication cookies between ASP.NET 4.x and ASP.NET Core](https://dev.to/roicp/share-authentication-cookies-between-aspnet-4x-and-aspnet-core-47gj)
-- [Always keep this hacking technique in mind](https://dev.to/blue_byte/always-keep-this-hacking-technique-in-mind-4mi0)
+- [[Boost]](https://dev.to/_7bc44b7af58b2d5a7471/-4ele)
+- [ConfigMaps vs Secrets: Secure Configuration Management in Kubernetes](https://dev.to/olamyde/configmaps-vs-secrets-secure-configuration-management-in-kubernetes-4jj5)
+- [No More Hardcoded Secrets: Automatic Database Credential Rotation with Vault, AKS and Postgres🔐](https://dev.to/poojan18/no-more-hardcoded-secrets-automatic-database-credential-rotation-with-vault-aks-and-postgres-1nmn)
+- [Terraform Tree Structure: Boost Cloud Efficiency and Management](https://dev.to/olamyde/terraform-tree-structure-boost-cloud-efficiency-and-management-4il0)
 <!-- BLOG-POST-LIST:END -->
 
