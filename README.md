@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/elxmatah/hello-14bp)
-- [A guide to modern frontend architecture patterns](https://dev.to/leemeganj/a-guide-to-modern-frontend-architecture-patterns-392o)
-- [Spring Boot 3.4 application on AWS Lambda- Part 2 AWS Lambda Web Adapter](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-2-aws-lambda-web-adapter-ko9)
-- [Excel VBA - Subs and Functions](https://dev.to/kacper2048/excel-vba-subs-and-functions-1jh)
+- [Base64 Encoding Explained: How It Works and Why It Matters](https://dev.to/leapcell/base64-encoding-explained-how-it-works-and-why-it-matters-fh9)
+- [Simple User Event Tracker In Angular](https://dev.to/this-is-angular/simple-user-event-tracker-in-angular-1207)
+- [1079. Letter Tile Possibilities](https://dev.to/mdarifulhaque/1079-letter-tile-possibilities-4kcl)
+- [Why Mocks Fail: Real-Environment Testing for Microservices](https://dev.to/signadot/why-mocks-fail-real-environment-testing-for-microservices-h3a)
 <!-- BLOG-POST-LIST:END -->
 
