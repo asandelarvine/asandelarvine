@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ^ and ~ in package.json Dependencies](https://dev.to/makechi02/understanding-and-in-packagejson-dependencies-267c)
-- [How to Run PostgreSQL on my Local Machine.](https://dev.to/youjung-hong/how-to-run-postgresql-on-my-local-machine-38i9)
-- [Enhancing SwiftUI Alerts : A Reusable Approach with Unit and UI Testing 🔄](https://dev.to/kamimi01/enhancing-swiftui-alerts-a-reusable-approach-with-unit-and-ui-testing-30a4)
-- [Commit Message Policy for Your Team](https://dev.to/llepecki/commit-message-policy-for-your-team-57bo)
+- [Love Letter](https://dev.to/eseba_7f8f396f844dda830c3/love-letter-53oe)
+- [Jupyter AI &amp; .NET Aspire: Building an LLM-Enabled Jupyter Environment](https://dev.to/syamaner/jupyter-ai-net-aspire-building-an-llm-enabled-jupyter-environment-59bo)
+- [Level Up Your AI-Era Dev Rizz &lpar;No LeetCode Required!&rpar;](https://dev.to/fast/level-up-your-ai-era-dev-rizz-no-leetcode-required-30if)
+- [Freelancing for Web Development](https://dev.to/mikehtmlallthethings/freelancing-for-web-development-1573)
 <!-- BLOG-POST-LIST:END -->
 
