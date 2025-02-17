@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cybersecurity Risks of AI-Generated Code: What You Need to Know](https://dev.to/cyberwolves/the-cybersecurity-risks-of-ai-generated-code-what-you-need-to-know-5d12)
-- [Mastering watch and watchEffect in Vue 3 with Practical Examples](https://dev.to/ahmedfm/mastering-watch-and-watcheffect-in-vue-3-with-practical-examples-2gg3)
-- [Comparing Cross-Platform Mobile Development Tools](https://dev.to/resource_bunk_1077cab07da/comparing-cross-platform-mobile-development-tools-1o62)
-- [Understanding the @Value Annotation | Spring Boot | Java Spring](https://dev.to/debeshpg90/understanding-the-value-annotation-spring-boot-java-spring-2fmj)
+- [Understanding ^ and ~ in package.json Dependencies](https://dev.to/makechi02/understanding-and-in-packagejson-dependencies-267c)
+- [How to Run PostgreSQL on my Local Machine.](https://dev.to/youjung-hong/how-to-run-postgresql-on-my-local-machine-38i9)
+- [Enhancing SwiftUI Alerts : A Reusable Approach with Unit and UI Testing 🔄](https://dev.to/kamimi01/enhancing-swiftui-alerts-a-reusable-approach-with-unit-and-ui-testing-30a4)
+- [Commit Message Policy for Your Team](https://dev.to/llepecki/commit-message-policy-for-your-team-57bo)
 <!-- BLOG-POST-LIST:END -->
 
