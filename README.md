@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New DEV++ Deal: a free .Tech domain for every member!](https://dev.to/devteam/new-dev-deal-a-free-tech-domain-for-every-member-ipo)
-- [Detecting Violent Content with AI: A Simple Image Analyzer Using APILayer &amp; React](https://dev.to/kelvincode1234/detecting-violent-content-with-ai-a-simple-image-analyzer-using-apilayer-react-34ip)
-- [Build a software career with meaning: a playbook](https://dev.to/jonesbeach/build-a-software-career-with-meaning-a-playbook-d3b)
-- [Free and open-source collection of SVG illustrations for Flowbite](https://dev.to/themesberg/free-and-open-source-collection-of-svg-illustrations-for-flowbite-3lme)
+- [notl.ink - open source blazingly fast url shortener ever. Live on ProductHunt.](https://dev.to/abdibrokhim/notlink-open-source-blazingly-fast-url-shortener-ever-live-on-producthunt-41mk)
+- [The React Folder Structure Exposé: From Newbie to Code Mastery Style](https://dev.to/toosriet/the-react-folder-structure-expose-from-newbie-to-code-mastery-style-3mlb)
+- [Factory Method in Java](https://dev.to/mspilari/factory-method-in-java-523)
+- [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
 <!-- BLOG-POST-LIST:END -->
 
