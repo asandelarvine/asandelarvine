@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Titans Collide: OpenAPI vs. Swagger vs. Postman – The 2025 Developer’s Guide](https://dev.to/snappytuts/api-titans-collide-openapi-vs-swagger-vs-postman-the-2025-developers-guide-57dl)
-- [128/365 | ¥10M Job Challenge - Do we need to manage up?](https://dev.to/kameken100/128365-y10m-job-challenge-do-we-need-to-manage-up-3796)
-- [Stream Like a Pro, Secure Like a Fortress: The Ultimate Guide to HLS Multi-Quality Encoding](https://dev.to/ronishpaudel/stream-like-a-pro-secure-like-a-fortress-the-ultimate-guide-to-hls-multi-quality-encoding-3f5k)
-- [Code Reviews with AI: a Developer Guide](https://dev.to/jonathanvila/code-reviews-with-ai-a-developer-guide-3fam)
+- [Day -03 /100 - Configuring mail server using Postfix, Dovecot and Mutt](https://dev.to/sourav3366/day-03-100-configuring-mail-server-using-postfix-dovecot-and-mutt-2hln)
+- [structuredClone&lpar;&rpar; how to use it???](https://dev.to/viveksinh_rajput/structuredclone-how-to-use-it-3k97)
+- [How to Create Kubernetes&lpar;K8s&rpar; Cluster Home Lab using Ubuntu Server 24.04](https://dev.to/shalahur/how-to-create-kubernetesk8s-cluster-home-lab-using-ubuntu-server-2404-520i)
+- [I Finished The Odin Project&#39;s Foundation Track](https://dev.to/sydalwedaie/i-finished-the-odin-projects-foundation-track-58g)
 <!-- BLOG-POST-LIST:END -->
 
