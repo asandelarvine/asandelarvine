@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encoders and Decoders in TypeScript](https://dev.to/jesterxl/encoders-and-decoders-in-typescript-mp0)
-- [Mastering Columnstore Indexes in SQL Server: New Features and Performance Enhancements in 2022](https://dev.to/arvind_toorpu/mastering-columnstore-indexes-in-sql-server-new-features-and-performance-enhancements-in-2022-58d6)
-- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-2870)
-- [My First AWS EC2 Hosting Experience: A Step-by-Step Guide -- Nodejs](https://dev.to/ikenna_iheanaetu_d65e7013/my-first-aws-ec2-hosting-experience-a-step-by-step-guide-nodejs-3g95)
+- [Do Ordered Grouping and Aggregation within Groups — From SQL to SPL #1](https://dev.to/judith677/do-ordered-grouping-and-aggregation-within-groups-from-sql-to-spl-1-4p94)
+- [Escalabilidade na prática: o que você precisa entender antes de tudo - parte 1](https://dev.to/iagxferreira/escalabilidade-na-pratica-o-que-voce-precisa-entender-antes-de-tudo-parte-1-4dkp)
+- [Range, input type range.](https://dev.to/ykosinets/range-input-type-range-2jk3)
+- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-kid)
 <!-- BLOG-POST-LIST:END -->
 
