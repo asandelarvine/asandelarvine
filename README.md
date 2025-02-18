@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FAQ for DolphinScheduler Environment Setup and Service Startup](https://dev.to/chen_debra_3060b21d12b1b0/faq-for-dolphinscheduler-environment-setup-and-service-startup-56bi)
-- [The end: Create React App &lpar;2016-2025&rpar;](https://dev.to/dev-to-rater-org/the-end-create-react-app-2016-2025-3cdf)
-- [The Vital Role of Developer Community Support in Open Source](https://dev.to/jennythomas498/the-vital-role-of-developer-community-support-in-open-source-1lfc)
-- [Sustainable Funding for Open Source: A Path to Stability and Innovation](https://dev.to/rachellovestowrite/sustainable-funding-for-open-source-a-path-to-stability-and-innovation-36d1)
+- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-5cio)
+- [Git Architecture &amp; Installation](https://dev.to/vasutamil19/git-architecture-installation-334f)
+- [Debugging Google Chrome Extensions Locally: A Quick &amp; Easy Guide](https://dev.to/leo_chen_4c3f7844ff7bda2b/debugging-google-chrome-extensions-locally-a-quick-easy-guide-13il)
+- [How C++ and Proxies Revolutionize Your Web Scraping](https://dev.to/swiftproxy_residential/how-c-and-proxies-revolutionize-your-web-scraping-1ebn)
 <!-- BLOG-POST-LIST:END -->
 
