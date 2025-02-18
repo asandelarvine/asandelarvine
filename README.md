@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Poisoning in Laravel: Preventing Common Vulnerabilities](https://dev.to/pentest_testing_corp/cache-poisoning-in-laravel-preventing-common-vulnerabilities-4khf)
-- [Essential Skills for a Successful Full-Stack Developer in 2025](https://dev.to/jaykrishna_dogne/essential-skills-for-a-successful-full-stack-developer-in-2025-b39)
-- [Create package using Poetry, and deploy on private PyPi Server](https://dev.to/oktapiancaw/create-package-using-poetry-and-deploy-on-private-pypi-server-40g5)
-- [Mastering Defer &amp; Async Loading in JavaScript: Boost Your Website’s Performance Now!](https://dev.to/dct_technologyprivatelimited/mastering-defer-async-loading-in-javascript-boost-your-websites-performance-now-4hd)
+- [FAQ for DolphinScheduler Environment Setup and Service Startup](https://dev.to/chen_debra_3060b21d12b1b0/faq-for-dolphinscheduler-environment-setup-and-service-startup-56bi)
+- [The end: Create React App &lpar;2016-2025&rpar;](https://dev.to/dev-to-rater-org/the-end-create-react-app-2016-2025-3cdf)
+- [The Vital Role of Developer Community Support in Open Source](https://dev.to/jennythomas498/the-vital-role-of-developer-community-support-in-open-source-1lfc)
+- [Sustainable Funding for Open Source: A Path to Stability and Innovation](https://dev.to/rachellovestowrite/sustainable-funding-for-open-source-a-path-to-stability-and-innovation-36d1)
 <!-- BLOG-POST-LIST:END -->
 
