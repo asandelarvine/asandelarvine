@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot with Semantic Kernel - Part 6: AI Connectors 🔌](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-6-ai-connectors-4b63)
-- [Understanding Data Interfaces: Simplifying Data Exchange with Stof](https://dev.to/amelia_wampler_e7aa93dab9/understanding-data-interfaces-simplifying-data-exchange-with-stof-8hm)
-- [Introducing the game-changer: Motion Provider](https://dev.to/burakdev/introducing-the-game-changer-motion-provider-48f4)
-- [𝗨𝗻𝗹𝗲𝗮𝘀𝗵𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗔𝗣𝗜 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝘄𝗮𝗴𝗴𝗲𝗿 𝗮𝗻𝗱 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁](https://dev.to/thiago_souza_1510/-33hf)
+- [Encoders and Decoders in TypeScript](https://dev.to/jesterxl/encoders-and-decoders-in-typescript-mp0)
+- [Mastering Columnstore Indexes in SQL Server: New Features and Performance Enhancements in 2022](https://dev.to/arvind_toorpu/mastering-columnstore-indexes-in-sql-server-new-features-and-performance-enhancements-in-2022-58d6)
+- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-2870)
+- [My First AWS EC2 Hosting Experience: A Step-by-Step Guide -- Nodejs](https://dev.to/ikenna_iheanaetu_d65e7013/my-first-aws-ec2-hosting-experience-a-step-by-step-guide-nodejs-3g95)
 <!-- BLOG-POST-LIST:END -->
 
