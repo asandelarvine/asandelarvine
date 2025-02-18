@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CertiDocs – A Blockchain-Based Document Authentication Tool &lpar;Looking for Testers!&rpar;](https://dev.to/denji_fa2d9719464d6ab8c7e/certidocs-a-blockchain-based-document-authentication-tool-looking-for-testers-5h0b)
-- [🚀 useMutableState: Tiny state management hook to easily edit deeply nested properties](https://dev.to/synonymous2/usemutablestate-tiny-state-management-hook-to-easily-edit-deeply-nested-properties-3kn)
-- [Validate your SaaS idea while building an audience](https://dev.to/clerk/validate-your-saas-idea-while-building-an-audience-3380)
-- [Pluralization 101 in React](https://dev.to/archiemckenzie/pluralization-101-4be3)
+- [Boost Your Productivity with Nodindow](https://dev.to/thalysoncamposth/boost-your-productivity-with-nodindow-a9b)
+- [Brand strategy and rebranding for growth-focused companies](https://dev.to/jaymi_tripp/brand-strategy-and-rebranding-for-growth-focused-companies-1g5j)
+- [I created a CLI-Music Player in Rust!](https://dev.to/paradoxy/i-created-a-cli-music-player-in-rust-5a3f)
+- [CREATING A STORAGE ACCOUNT ON AZURE PORTAL](https://dev.to/sheyitex/creating-a-storage-account-on-azure-portal-4p51)
 <!-- BLOG-POST-LIST:END -->
 
