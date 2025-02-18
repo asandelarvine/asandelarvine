@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Must-Have GenAI Products for Faster LLM Development](https://dev.to/collhar/12-must-have-genai-products-for-faster-llm-development-3a60)
-- [Blackfire now supports Java: deeper insights, faster optimization 😎](https://dev.to/platformsh/blackfire-now-supports-javadeeper-insights-faster-optimization-4eg5)
-- [Building a Goroutine Pool in Go](https://dev.to/leapcell/building-a-goroutine-pool-in-go-38bk)
-- [How to Build a Vector Database with SQLite in Node.js.](https://dev.to/sfundomhlungu/how-to-build-a-vector-database-with-sqlite-in-nodejs-1epd)
+- [Agentic AI and the MCP Ecosystem](https://dev.to/blockopensource/agentic-ai-and-the-mcp-ecosystem-2m8d)
+- [What&#39;s the Catch?](https://dev.to/intersystems/whats-the-catch-1p98)
+- [Task 5 - Database](https://dev.to/lakshmipritha/task-5-database-306f)
+- [🚀 pgai Vectorizer: SQLAlchemy and LiteLLM Make Vector Search Simple](https://dev.to/timescale/pgai-vectorizer-sqlalchemy-and-litellm-make-vector-search-simple-29mp)
 <!-- BLOG-POST-LIST:END -->
 
