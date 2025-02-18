@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can AWS Amplify Improve Your Development Process?](https://dev.to/ijay/how-can-aws-amplify-improve-your-development-process-2gj5)
-- [Simplifying React Hooks: useEffect 💯](https://dev.to/alisamir/simplifying-react-hooks-useeffect-3ogb)
-- [Azure Data Factory vs. Databricks: A Comprehensive Comparison](https://dev.to/emily_smith_86b5b7960eebb/azure-data-factory-vs-databricks-a-comprehensive-comparison-559i)
-- [Finding Clients as a Freelancer — Web Developers &amp; Beyond!](https://dev.to/per-starke-642/finding-clients-as-a-freelancer-web-developers-beyond-5327)
+- [Dasar-Dasar Widget di Flutter](https://dev.to/yusuf_umbara_032d78512688/dasar-dasar-widget-di-flutter-57d6)
+- [SSH LLM Honeypot caught a real threat actor](https://dev.to/mariocandela/ssh-llm-honeypot-caught-a-real-threat-actor-3nh8)
+- [How cybercriminals make money with cryptojacking](https://dev.to/mariocandela/how-cybercriminals-make-money-with-cryptojacking-ohg)
+- [10 Tips &amp; Tricks de Visual Studio Code que Mejorarán tu Flujo de Trabajo 🚀](https://dev.to/alvaroapdev/10-tips-tricks-de-visual-studio-code-que-mejoraran-tu-flujo-de-trabajo-1868)
 <!-- BLOG-POST-LIST:END -->
 
