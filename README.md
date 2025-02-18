@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dasar-Dasar Widget di Flutter](https://dev.to/yusuf_umbara_032d78512688/dasar-dasar-widget-di-flutter-57d6)
-- [SSH LLM Honeypot caught a real threat actor](https://dev.to/mariocandela/ssh-llm-honeypot-caught-a-real-threat-actor-3nh8)
-- [How cybercriminals make money with cryptojacking](https://dev.to/mariocandela/how-cybercriminals-make-money-with-cryptojacking-ohg)
-- [10 Tips &amp; Tricks de Visual Studio Code que Mejorarán tu Flujo de Trabajo 🚀](https://dev.to/alvaroapdev/10-tips-tricks-de-visual-studio-code-que-mejoraran-tu-flujo-de-trabajo-1868)
+- [Analyzing a Suspicious Flash Loan Arbitrage Smart Contract](https://dev.to/fobabs/analyzing-a-suspicious-flash-loan-arbitrage-smart-contract-k04)
+- [10 Tools and Resources to Master CORS](https://dev.to/reynaldi/10-tools-and-resources-to-master-cors-oji)
+- [ColorJitter in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-2-167d)
+- [How to Create a Sample Resume and Deploy it on GitHub Pages](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-a-sample-resume-and-deploy-it-on-github-pages-3o7a)
 <!-- BLOG-POST-LIST:END -->
 
