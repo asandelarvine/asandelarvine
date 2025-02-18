@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Cool Pyramid Charts with VTable](https://dev.to/xuanhun/creating-cool-pyramid-charts-with-vtable-5cgd)
-- [Confessions of a Hacker: How I Would Take Down Your Online Store](https://dev.to/danny_anderson/confessions-of-a-hacker-how-i-would-take-down-your-online-store-f77)
-- [Real Estate AI Agents - 2025 Market Analysis of Competitors](https://dev.to/vtempest/real-estate-ai-agents-2025-market-analysis-of-competitors-5ng)
-- [✨ [4] - Build Beautiful Carousels in React Native Expo | Tôi tiếp tục code về React Native 💻 🚀](https://dev.to/skipperhoa/4-build-beautiful-carousels-in-react-native-expo-toi-tiep-tuc-code-ve-react-native-4036)
+- [SQL PATTERNS : Pivot and Unpivot in SQL - Transforming Data Effectively](https://dev.to/anwaar/sql-patterns-pivot-and-unpivot-in-sql-transforming-data-effectively-25k4)
+- [Problems in Crypto AI Agents: Security, Ethics, and Complexity](https://dev.to/foxgem/problems-in-crypto-ai-agents-security-ethics-and-complexity-5c6n)
+- [Thriving as a Personal Tech Consultant: Navigating the AI Revolution](https://dev.to/foxgem/thriving-as-a-personal-tech-consultant-navigating-the-ai-revolution-3pfp)
+- [A Step-by-Step Guide to Kube-green: Optimizing Kubernetes for Sustainability](https://dev.to/vimal-patel/a-step-by-step-guide-to-kube-green-optimizing-kubernetes-for-sustainability-5098)
 <!-- BLOG-POST-LIST:END -->
 
