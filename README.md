@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extracting code snippets from a call graph for LLM context](https://dev.to/vmotta8/extracting-code-snippets-from-a-call-graph-for-llm-context-6e9)
-- [C4 Model real world example with Google Maps](https://dev.to/anwaar/c4-model-real-world-example-with-google-maps-3ano)
-- [🎙️We have updated the site and here is what I want to say🔥](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-lfh)
-- [C4 Model](https://dev.to/anwaar/c4-model-1263)
+- [Mercur - Open source marketplace platform to build and iterate fast](https://dev.to/rigbyjs/mercur-open-source-marketplace-platform-to-build-and-iterate-fast-287d)
+- [How to Reduce Mobile App Size Without Sacrificing Performance](https://dev.to/vikrant_bhalodia/how-to-reduce-mobile-app-size-without-sacrificing-performance-1d65)
+- [Why is Automating Regression Testing So Important?](https://dev.to/radha_4c842d8e4362a7cdd9c/why-is-automating-regression-testing-so-important-29na)
+- [Building a Modern Portfolio with Next.js 13, Tailwind CSS, and Framer Motion](https://dev.to/noiseless47/building-a-modern-portfolio-with-nextjs-13-tailwind-css-and-framer-motion-12ei)
 <!-- BLOG-POST-LIST:END -->
 
