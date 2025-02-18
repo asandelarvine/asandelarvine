@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Method Reveals How AI Models Process Protein Sequences, Enables Control of Predictions](https://dev.to/mikeyoung44/new-method-reveals-how-ai-models-process-protein-sequences-enables-control-of-predictions-15i0)
-- [How to Deploy Flowise and Qdrant on Qubinets and Start Building AI Agents](https://dev.to/nix_25/how-to-deploy-flowise-and-qdrant-on-qubinets-and-start-building-ai-agents-1624)
-- [How to Build a dApp with React, Solidity, and MetaMask](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-build-a-dapp-with-react-solidity-and-metamask-3n7k)
-- [New AI Training Method Cuts Data Needs in Half While Boosting Performance by 20%](https://dev.to/mikeyoung44/new-ai-training-method-cuts-data-needs-in-half-while-boosting-performance-by-20-4a76)
+- [🚀 Your Daily Crypto Job Digest For 18 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-february-4n11)
+- [Java User Input &lpar;Scanner&rpar;](https://dev.to/neelakandan_ravi_2000/java-user-input-scanner-3l53)
+- [How to Actually Start &lpar;and Finish&rpar; Development Projects Without Losing Your Mind 😅](https://dev.to/0x2e73/how-to-actually-start-and-finish-development-projects-without-losing-your-mind-2eg0)
+- [🚀 Best VS Code Extensions for MERN Stack Developers in 2025](https://dev.to/masaudahmod/best-vs-code-extensions-for-mern-stack-developers-in-2025-4op6)
 <!-- BLOG-POST-LIST:END -->
 
