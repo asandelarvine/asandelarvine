@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL PATTERNS : Pivot and Unpivot in SQL - Transforming Data Effectively](https://dev.to/anwaar/sql-patterns-pivot-and-unpivot-in-sql-transforming-data-effectively-25k4)
-- [Problems in Crypto AI Agents: Security, Ethics, and Complexity](https://dev.to/foxgem/problems-in-crypto-ai-agents-security-ethics-and-complexity-5c6n)
-- [Thriving as a Personal Tech Consultant: Navigating the AI Revolution](https://dev.to/foxgem/thriving-as-a-personal-tech-consultant-navigating-the-ai-revolution-3pfp)
-- [A Step-by-Step Guide to Kube-green: Optimizing Kubernetes for Sustainability](https://dev.to/vimal-patel/a-step-by-step-guide-to-kube-green-optimizing-kubernetes-for-sustainability-5098)
+- [Cache Poisoning in Laravel: Preventing Common Vulnerabilities](https://dev.to/pentest_testing_corp/cache-poisoning-in-laravel-preventing-common-vulnerabilities-4khf)
+- [Essential Skills for a Successful Full-Stack Developer in 2025](https://dev.to/jaykrishna_dogne/essential-skills-for-a-successful-full-stack-developer-in-2025-b39)
+- [Create package using Poetry, and deploy on private PyPi Server](https://dev.to/oktapiancaw/create-package-using-poetry-and-deploy-on-private-pypi-server-40g5)
+- [Mastering Defer &amp; Async Loading in JavaScript: Boost Your Website’s Performance Now!](https://dev.to/dct_technologyprivatelimited/mastering-defer-async-loading-in-javascript-boost-your-websites-performance-now-4hd)
 <!-- BLOG-POST-LIST:END -->
 
