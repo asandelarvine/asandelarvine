@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gesture Control with ElectronJS, MediaPipe and Nut.js - Creative Coding fun](https://dev.to/anuragdeore/gesture-control-with-electronjs-mediapipe-and-nutjs-creative-coding-fun-4m9b)
-- [Different ways of setting State in React](https://dev.to/jessalejo/different-ways-of-setting-state-in-react-18nn)
-- [Building Modern SPAs with Vanilla JavaScript: A Beginner&#39;s Guide](https://dev.to/moseeh_52/building-modern-spas-with-vanilla-javascript-a-beginners-guide-9a3)
-- [🚀 A Better Way to Manage Middlewares in Next.js](https://dev.to/skyleen/a-better-way-to-manage-middlewares-in-nextjs-5d8o)
+- [CertiDocs – A Blockchain-Based Document Authentication Tool &lpar;Looking for Testers!&rpar;](https://dev.to/denji_fa2d9719464d6ab8c7e/certidocs-a-blockchain-based-document-authentication-tool-looking-for-testers-5h0b)
+- [🚀 useMutableState: Tiny state management hook to easily edit deeply nested properties](https://dev.to/synonymous2/usemutablestate-tiny-state-management-hook-to-easily-edit-deeply-nested-properties-3kn)
+- [Validate your SaaS idea while building an audience](https://dev.to/clerk/validate-your-saas-idea-while-building-an-audience-3380)
+- [Pluralization 101 in React](https://dev.to/archiemckenzie/pluralization-101-4be3)
 <!-- BLOG-POST-LIST:END -->
 
