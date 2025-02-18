@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Compile and Run NPU Test Programs Based on rknn_yolov5_demo on RK3568？](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-compile-and-run-npu-test-programs-based-on-rknnyolov5demo-on-rk3568-3f09)
-- [RandomAutocontrast in PyTorch](https://dev.to/hyperkai/randomautocontrast-in-pytorch-506f)
-- [Create your own Censorship-Resistant Links for X and More!](https://dev.to/mrmemory/create-your-own-censorship-resistant-links-for-x-and-more-1bg9)
-- [Instal WSO2 Api Manager di Server Ubuntu](https://dev.to/agusmerdeko/instal-wso2-api-manager-di-server-ubuntu-2a91)
+- [Creating Cool Pyramid Charts with VTable](https://dev.to/xuanhun/creating-cool-pyramid-charts-with-vtable-5cgd)
+- [Confessions of a Hacker: How I Would Take Down Your Online Store](https://dev.to/danny_anderson/confessions-of-a-hacker-how-i-would-take-down-your-online-store-f77)
+- [Real Estate AI Agents - 2025 Market Analysis of Competitors](https://dev.to/vtempest/real-estate-ai-agents-2025-market-analysis-of-competitors-5ng)
+- [✨ [4] - Build Beautiful Carousels in React Native Expo | Tôi tiếp tục code về React Native 💻 🚀](https://dev.to/skipperhoa/4-build-beautiful-carousels-in-react-native-expo-toi-tiep-tuc-code-ve-react-native-4036)
 <!-- BLOG-POST-LIST:END -->
 
