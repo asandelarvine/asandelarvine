@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing a Suspicious Flash Loan Arbitrage Smart Contract](https://dev.to/fobabs/analyzing-a-suspicious-flash-loan-arbitrage-smart-contract-k04)
-- [10 Tools and Resources to Master CORS](https://dev.to/reynaldi/10-tools-and-resources-to-master-cors-oji)
-- [ColorJitter in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-2-167d)
-- [How to Create a Sample Resume and Deploy it on GitHub Pages](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-a-sample-resume-and-deploy-it-on-github-pages-3o7a)
+- [New Method Reveals How AI Models Process Protein Sequences, Enables Control of Predictions](https://dev.to/mikeyoung44/new-method-reveals-how-ai-models-process-protein-sequences-enables-control-of-predictions-15i0)
+- [How to Deploy Flowise and Qdrant on Qubinets and Start Building AI Agents](https://dev.to/nix_25/how-to-deploy-flowise-and-qdrant-on-qubinets-and-start-building-ai-agents-1624)
+- [How to Build a dApp with React, Solidity, and MetaMask](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-build-a-dapp-with-react-solidity-and-metamask-3n7k)
+- [New AI Training Method Cuts Data Needs in Half While Boosting Performance by 20%](https://dev.to/mikeyoung44/new-ai-training-method-cuts-data-needs-in-half-while-boosting-performance-by-20-4a76)
 <!-- BLOG-POST-LIST:END -->
 
