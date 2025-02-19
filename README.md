@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PROXMOX: Creación de Cluster, Parte 2.](https://dev.to/camila_vinza/proxmox-creacion-de-cluster-parte-2-226f)
-- [Built It Because I Was Tired of Rebuilding It: The Story Behind ThemeShift](https://dev.to/ramasundaram_s/built-it-because-i-was-tired-of-rebuilding-it-the-story-behind-themeshift-1e39)
-- [4 Year Badge… but I Don’t Remember Joining? 🤔](https://dev.to/cypheroxide/4-year-badge-but-i-dont-remember-joining-2fl9)
-- [Windows 95 theme portfolio](https://dev.to/yuteoctober/windows-95-theme-portfolio-3477)
+- [🚀 Boost Your Website Speed with Lazy Loading in JavaScript!](https://dev.to/dct_technologyprivatelimited/boost-your-website-speed-with-lazy-loading-in-javascript-ec4)
+- [Welcome Thread - v315](https://dev.to/devteam/welcome-thread-v315-3n9p)
+- [The Best Data Science Tools for 2025](https://dev.to/abhishekjaiswal_4896/the-best-data-science-tools-for-2025-32md)
+- [Integrating Currency Exchange Rate APIs into SaaS Platforms: A Developer&#39;s Guide](https://dev.to/rameshchauhan/integrating-currency-exchange-rate-apis-into-saas-platforms-a-developers-guide-5cng)
 <!-- BLOG-POST-LIST:END -->
 
