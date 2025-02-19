@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Today deal with overflow on x axis](https://dev.to/saqib_tanveer_786/today-deal-with-overflow-on-x-axis-990)
-- [How to contact Amazon Web Services: Understanding AWS Support Phone Numbers](https://dev.to/muhammad_abdullah_0f40cb1/how-to-contact-amazon-web-services-understanding-aws-support-phone-numbers-p4a)
-- [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-4gam)
-- [My First DEV.to Post](https://dev.to/kin_test_8c229aecbd38506f/my-first-devto-post-39oe)
+- [🚀 Your Daily Crypto Job Digest For 19 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-february-37dd)
+- [SQL Explain is your friend: PostgreSQL edition](https://dev.to/sweemeng/sql-explain-is-your-friend-postgresql-edition-3aka)
+- [Is Elon’s Grok 3 the New AI King? A Deep Dive into xAI’s Latest Contender | Smartest AI on earth?](https://dev.to/mehul_pratap_singh/is-elons-grok-3-the-new-ai-king-a-deep-dive-into-xais-latest-contender-smartest-ai-on-earth-1bn9)
+- [Top 10 Glove Liners for Winter That Work with Touchscreens](https://dev.to/smithdevboat/top-10-glove-liners-for-winter-that-work-with-touchscreens-449a)
 <!-- BLOG-POST-LIST:END -->
 
