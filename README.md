@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [129/365 | ¥10M Job Challenge - Is AI taking away our ability to think?](https://dev.to/kameken100/129365-y10m-job-challenge-is-ai-taking-away-our-ability-to-think-51jf)
-- [live file-watching compressor for JavaScript, CSS, HTML files of your projects.](https://dev.to/ramoures/live-file-watching-compressor-for-javascript-css-html-files-of-your-projects-2okn)
-- [Exploring React Native Performance Optimization: My Deep Dive into Frontend Databases and MMKV](https://dev.to/gabrpimenta/exploring-react-native-performance-optimization-my-deep-dive-into-frontend-databases-and-mmkv-2ec3)
-- [Can anyone help me with MS SQL database migration? from on-prem to Azure SQL database and connect it with a .NET-based desktop application?](https://dev.to/akhil_vandanapu/can-anyone-help-me-with-ms-sql-database-migration-from-on-prem-to-azure-sql-database-and-connect-146c)
+- [Real-Time Lambda Monitoring on AWS](https://dev.to/mtrentz/real-time-lambda-monitoring-on-aws-3p5j)
+- [Laravel API Docs: A Guide to L5 Swagger](https://dev.to/aleson-franca/laravel-api-docs-a-guide-to-l5-swagger-333)
+- [COBOL, Dates, May 20, 1875, and Disinformation](https://dev.to/mdchaney/cobol-dates-may-20-1875-and-disinformation-5ggh)
+- [Optimizing IoT Data Management for Business Success](https://dev.to/ostapzabolotnyy/optimizing-iot-data-management-for-business-success-5dji)
 <!-- BLOG-POST-LIST:END -->
 
