@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Montando um ambiente local para testar LLM&#39;s OpenSource](https://dev.to/hebertrfreitas/montando-um-ambiente-local-para-testar-llms-opensource-1ia3)
-- [10 Best Practices for Writing Scalable Node.js Applications](https://dev.to/raajaryan/10-best-practices-for-writing-scalable-nodejs-applications-2d73)
-- [Job Opportunities After Completing a Full Stack Development Course](https://dev.to/lekshmi_525/job-opportunities-after-completing-a-full-stack-development-course-2lac)
-- [WU JWT](https://dev.to/fivez/wu-jwt-2b)
+- [SaaS vs. Traditional Software: What’s the Difference](https://dev.to/msnmongare/saas-vs-traditional-software-whats-the-difference-157k)
+- [20 Must-Know JavaScript Libraries for Data Visualization](https://dev.to/web_dev-usman/20-must-know-javascript-libraries-for-data-visualization-508d)
+- [aws服务器安装运行ollama](https://dev.to/dragon72463399/awsfu-wu-qi-an-zhuang-yun-xing-ollama-4dij)
+- [Detecting File Leak in the Kotlin Daemon](https://dev.to/pablobaxter/detecting-file-leak-in-the-kotlin-daemon-2130)
 <!-- BLOG-POST-LIST:END -->
 
