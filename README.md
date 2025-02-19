@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EBPF program to extract data from HTTPS traffic using MITM proxy and Java](https://dev.to/vijayakumar_kb/ebpf-program-to-extract-data-from-https-traffic-using-mitm-proxy-and-java-2hh2)
-- [30 Creative Projects created with HTML, CSS and JavaScript- Part 3 #30days30projects](https://dev.to/km-js/30-creative-projects-created-with-html-css-and-javascript-part-3-30days30projects-51ci)
-- [30 Creative Projects created with HTML, CSS and JavaScript- Part 2 #30days30projects](https://dev.to/km-js/30-creative-projects-created-with-html-css-and-javascript-part-2-30days30projects-56o4)
-- [30 Creative Projects created with HTML, CSS and JavaScript - Part 1 #30days30projects](https://dev.to/km-js/30-creative-projects-created-with-html-css-and-javascript-part-1-30days30projects-3gfh)
+- [Montando um ambiente local para testar LLM&#39;s OpenSource](https://dev.to/hebertrfreitas/montando-um-ambiente-local-para-testar-llms-opensource-1ia3)
+- [10 Best Practices for Writing Scalable Node.js Applications](https://dev.to/raajaryan/10-best-practices-for-writing-scalable-nodejs-applications-2d73)
+- [Job Opportunities After Completing a Full Stack Development Course](https://dev.to/lekshmi_525/job-opportunities-after-completing-a-full-stack-development-course-2lac)
+- [WU JWT](https://dev.to/fivez/wu-jwt-2b)
 <!-- BLOG-POST-LIST:END -->
 
