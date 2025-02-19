@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Kubernetes in Cloud Native Environments and Why It Has Become the Industry Standard](https://dev.to/marufhossain/the-role-of-kubernetes-in-cloud-native-environments-and-why-it-has-become-the-industry-standard-4204)
-- [Replacing Low Code with PureScript and Temporal &lpar;Dev Journal&rpar;](https://dev.to/klarkc/replacing-low-code-with-purescript-and-temporal-dev-journal-7co)
-- [The Complete Machine Learning Pipeline: From Data to Deployment](https://dev.to/hulk-pham/the-complete-machine-learning-pipeline-from-data-to-deployment-24p2)
-- [GDPR Compliant Logging in NestJS: Masking User Data in Real Time](https://dev.to/bytehide/gdpr-compliant-logging-in-nestjs-masking-user-data-in-real-time-46ep)
+- [Penetration Testing Guidelines for Finance Industry Workloads](https://dev.to/ikoh_sylva/penetration-testing-guidelines-for-finance-industry-workloads-37o0)
+- [DjangoGirls Dublin @ DjangoCon Europe 2025](https://dev.to/djangogirlsdub/djangogirls-dublin-djangocon-europe-2025-256j)
+- [Top 5️⃣ Debugging Tools🧐](https://dev.to/dev_kiran/top-5-debugging-tools-4o9)
+- [Fastify Boilerplate](https://dev.to/pedrolloliveira/fastify-boilerplate-38l1)
 <!-- BLOG-POST-LIST:END -->
 
