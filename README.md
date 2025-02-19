@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS vs. Traditional Software: What’s the Difference](https://dev.to/msnmongare/saas-vs-traditional-software-whats-the-difference-157k)
-- [20 Must-Know JavaScript Libraries for Data Visualization](https://dev.to/web_dev-usman/20-must-know-javascript-libraries-for-data-visualization-508d)
-- [aws服务器安装运行ollama](https://dev.to/dragon72463399/awsfu-wu-qi-an-zhuang-yun-xing-ollama-4dij)
-- [Detecting File Leak in the Kotlin Daemon](https://dev.to/pablobaxter/detecting-file-leak-in-the-kotlin-daemon-2130)
+- [PROXMOX: Creación de Cluster, Parte 2.](https://dev.to/camila_vinza/proxmox-creacion-de-cluster-parte-2-226f)
+- [Built It Because I Was Tired of Rebuilding It: The Story Behind ThemeShift](https://dev.to/ramasundaram_s/built-it-because-i-was-tired-of-rebuilding-it-the-story-behind-themeshift-1e39)
+- [4 Year Badge… but I Don’t Remember Joining? 🤔](https://dev.to/cypheroxide/4-year-badge-but-i-dont-remember-joining-2fl9)
+- [Windows 95 theme portfolio](https://dev.to/yuteoctober/windows-95-theme-portfolio-3477)
 <!-- BLOG-POST-LIST:END -->
 
