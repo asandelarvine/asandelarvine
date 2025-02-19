@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Host a FastAPI Application Without a Server](https://dev.to/lightningdev123/host-a-fastapi-application-without-a-server-43n7)
-- [25+ Must-Know React Resources for React Developers.](https://dev.to/dev-resources/25-must-know-react-resources-for-react-developers-2hha)
-- [Build RAG Chatbot with LangChain, Milvus, GPT-4o mini, and text-embedding-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-gpt-4o-mini-and-text-embedding-3-large-2199)
-- [Don&#39;t Miss Out! 40+ Free GitHub Repositories That Are Trending Right Now!](https://dev.to/gittech/dont-miss-out-40-free-github-repositories-that-are-trending-right-now-2h4j)
+- [Check Out! These 45+ Developer Solutions for Better Programming.](https://dev.to/0x2e_tech/check-out-these-45-developer-solutions-for-better-programming-1eod)
+- [Importance of DevSecOps: Integrating Security into DevOps](https://dev.to/jakeinthecloud/importance-of-devsecops-integrating-security-into-devops-13m)
+- [😵 Mes nouvelles traductions sous Prestashop ne remontent pas : la galère !](https://dev.to/developpeuz/mes-nouvelles-traductions-sous-prestashop-ne-remontent-pas-la-galere--59m3)
+- [NPM vs Yarn vs PNPM: Choosing the right package manager for your project](https://dev.to/mroman7/npm-vs-yarn-vs-pnpm-choosing-the-right-package-manager-for-your-project-5a77)
 <!-- BLOG-POST-LIST:END -->
 
