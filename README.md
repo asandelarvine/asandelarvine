@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Web UI with Cursify – Cursor Animations! 🖱️✨](https://dev.to/joodi/boost-your-web-ui-with-cursify-cursor-animations-356p)
-- [✍️ Markdown for Technical Writing](https://dev.to/mdocs/markdown-for-technical-writing-2aeo)
-- [To infinity and beyond 🚀](https://dev.to/mathio/to-infinity-and-beyond-4n1n)
-- [Infosys Frontend Developer &lpar;React&rpar; Interview Experience – Pune &lpar;3 Years of Experience&rpar;](https://dev.to/pratiksha_mane_c980c275ef/infosys-frontend-developer-react-interview-experience-pune-3-years-of-experience-2e67)
+- [The Role of Kubernetes in Cloud Native Environments and Why It Has Become the Industry Standard](https://dev.to/marufhossain/the-role-of-kubernetes-in-cloud-native-environments-and-why-it-has-become-the-industry-standard-4204)
+- [Replacing Low Code with PureScript and Temporal &lpar;Dev Journal&rpar;](https://dev.to/klarkc/replacing-low-code-with-purescript-and-temporal-dev-journal-7co)
+- [The Complete Machine Learning Pipeline: From Data to Deployment](https://dev.to/hulk-pham/the-complete-machine-learning-pipeline-from-data-to-deployment-24p2)
+- [GDPR Compliant Logging in NestJS: Masking User Data in Real Time](https://dev.to/bytehide/gdpr-compliant-logging-in-nestjs-masking-user-data-in-real-time-46ep)
 <!-- BLOG-POST-LIST:END -->
 
