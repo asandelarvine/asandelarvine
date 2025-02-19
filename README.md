@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Project Sponsorship Schemes: Fueling Innovation and Sustainability](https://dev.to/rachellovestowrite/open-source-project-sponsorship-schemes-fueling-innovation-and-sustainability-dkd)
-- [Navigating the Funding Maze: Open Source Software&#39;s Financial Challenges](https://dev.to/ashucommits/navigating-the-funding-maze-open-source-softwares-financial-challenges-54gk)
-- [Decoding Your Love Language: An Interactive Voyage 💖✨](https://dev.to/divya4879/decoding-your-love-language-an-interactive-voyage-51hb)
-- [🧹 Remove them with a single Fish Shell command:](https://dev.to/davidgarcia/remove-them-with-a-single-fish-shell-command-52jg)
+- [My first program](https://dev.to/idris-soyinka/my-first-program-29h2)
+- [Setting an IPSEC VPN using VyOS in AWS](https://dev.to/leroykayanda/setting-an-ipsec-vpn-using-vyos-in-aws-48fl)
+- [How to Build a Vector Database with SQLite in laravel for LLM&#39;s](https://dev.to/ehtesham_ali_abc367f36a5b/how-to-build-a-vector-database-with-sqlite-in-laravel-for-llms-in-windows-59g0)
+- [TailAdmin 2.0 – A Major Upgrade with 400+ Components &amp; Enhanced UI! 🚀](https://dev.to/tailwindcss/tailadmin-20-a-major-upgrade-with-400-components-enhanced-ui-4eh6)
 <!-- BLOG-POST-LIST:END -->
 
