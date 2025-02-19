@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Penetration Testing Guidelines for Finance Industry Workloads](https://dev.to/ikoh_sylva/penetration-testing-guidelines-for-finance-industry-workloads-37o0)
-- [DjangoGirls Dublin @ DjangoCon Europe 2025](https://dev.to/djangogirlsdub/djangogirls-dublin-djangocon-europe-2025-256j)
-- [Top 5️⃣ Debugging Tools🧐](https://dev.to/dev_kiran/top-5-debugging-tools-4o9)
-- [Fastify Boilerplate](https://dev.to/pedrolloliveira/fastify-boilerplate-38l1)
+- [Host a FastAPI Application Without a Server](https://dev.to/lightningdev123/host-a-fastapi-application-without-a-server-43n7)
+- [25+ Must-Know React Resources for React Developers.](https://dev.to/dev-resources/25-must-know-react-resources-for-react-developers-2hha)
+- [Build RAG Chatbot with LangChain, Milvus, GPT-4o mini, and text-embedding-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-gpt-4o-mini-and-text-embedding-3-large-2199)
+- [Don&#39;t Miss Out! 40+ Free GitHub Repositories That Are Trending Right Now!](https://dev.to/gittech/dont-miss-out-40-free-github-repositories-that-are-trending-right-now-2h4j)
 <!-- BLOG-POST-LIST:END -->
 
