@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Responsive Navigation Bar with Dropdowns Using Tailwind](https://dev.to/rowsanali/how-to-build-a-responsive-navigation-bar-with-dropdowns-using-tailwind-563b)
-- [Git Commands](https://dev.to/vasutamil19/git-commands-gca)
-- [Test API for CORS Enablement &amp; Find Issues](https://dev.to/ankitjaininfo/test-api-for-cors-enablement-find-issues-10pf)
-- [Vercel’s Fluid Compute and what it means for AWS Lambda](https://dev.to/andycasen/vercels-fluid-compute-and-what-it-means-for-aws-lambda-38dl)
+- [Your Need to Review Your Data Changes](https://dev.to/metis/your-need-to-review-your-data-changes-5260)
+- [Custom socket.io server.ts in nextjs baby.](https://dev.to/thekbbohara/custom-socketio-serverts-in-nextjs-baby-50fi)
+- [Written in the Stars: Unraveling Cosmic Love, Destiny, and Your Love Story&quot; ✨💖🌌💫](https://dev.to/divya4879/written-in-the-stars-unraveling-cosmic-love-destiny-and-your-love-story-495n)
+- [How to Fix &quot;Slow Filesystem Detected&quot; in Next.js](https://dev.to/adeyinkaesi1/how-to-fix-slow-filesystem-detected-in-nextjs-1ok8)
 <!-- BLOG-POST-LIST:END -->
 
