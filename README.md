@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Need to Review Your Data Changes](https://dev.to/metis/your-need-to-review-your-data-changes-5260)
-- [Custom socket.io server.ts in nextjs baby.](https://dev.to/thekbbohara/custom-socketio-serverts-in-nextjs-baby-50fi)
-- [Written in the Stars: Unraveling Cosmic Love, Destiny, and Your Love Story&quot; ✨💖🌌💫](https://dev.to/divya4879/written-in-the-stars-unraveling-cosmic-love-destiny-and-your-love-story-495n)
-- [How to Fix &quot;Slow Filesystem Detected&quot; in Next.js](https://dev.to/adeyinkaesi1/how-to-fix-slow-filesystem-detected-in-nextjs-1ok8)
+- [Advanced FastAPI Patterns: Building Production-Ready APIs with Python [2024 Guide]](https://dev.to/aaravjoshi/advanced-fastapi-patterns-building-production-ready-apis-with-python-2024-guide-2mf9)
+- [AI Models Struggle to Spot Impossible Scenarios in New Visual Test](https://dev.to/mikeyoung44/ai-models-struggle-to-spot-impossible-scenarios-in-new-visual-test-33c1)
+- [Fact-Checkers Demand Transparent AI: Study Shows Need for Explainable Automated Fact-Checking Systems](https://dev.to/mikeyoung44/fact-checkers-demand-transparent-ai-study-shows-need-for-explainable-automated-fact-checking-3b00)
+- [j-DataGrid — Total.js part 2](https://dev.to/palo/j-datagrid-totaljs-part-2-3fh2)
 <!-- BLOG-POST-LIST:END -->
 
