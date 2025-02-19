@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity with Nodindow](https://dev.to/thalysoncamposth/boost-your-productivity-with-nodindow-a9b)
-- [Brand strategy and rebranding for growth-focused companies](https://dev.to/jaymi_tripp/brand-strategy-and-rebranding-for-growth-focused-companies-1g5j)
-- [I created a CLI-Music Player in Rust!](https://dev.to/paradoxy/i-created-a-cli-music-player-in-rust-5a3f)
-- [CREATING A STORAGE ACCOUNT ON AZURE PORTAL](https://dev.to/sheyitex/creating-a-storage-account-on-azure-portal-4p51)
+- [EBPF program to extract data from HTTPS traffic using MITM proxy and Java](https://dev.to/vijayakumar_kb/ebpf-program-to-extract-data-from-https-traffic-using-mitm-proxy-and-java-2hh2)
+- [30 Creative Projects created with HTML, CSS and JavaScript- Part 3 #30days30projects](https://dev.to/km-js/30-creative-projects-created-with-html-css-and-javascript-part-3-30days30projects-51ci)
+- [30 Creative Projects created with HTML, CSS and JavaScript- Part 2 #30days30projects](https://dev.to/km-js/30-creative-projects-created-with-html-css-and-javascript-part-2-30days30projects-56o4)
+- [30 Creative Projects created with HTML, CSS and JavaScript - Part 1 #30days30projects](https://dev.to/km-js/30-creative-projects-created-with-html-css-and-javascript-part-1-30days30projects-3gfh)
 <!-- BLOG-POST-LIST:END -->
 
