@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced FastAPI Patterns: Building Production-Ready APIs with Python [2024 Guide]](https://dev.to/aaravjoshi/advanced-fastapi-patterns-building-production-ready-apis-with-python-2024-guide-2mf9)
-- [AI Models Struggle to Spot Impossible Scenarios in New Visual Test](https://dev.to/mikeyoung44/ai-models-struggle-to-spot-impossible-scenarios-in-new-visual-test-33c1)
-- [Fact-Checkers Demand Transparent AI: Study Shows Need for Explainable Automated Fact-Checking Systems](https://dev.to/mikeyoung44/fact-checkers-demand-transparent-ai-study-shows-need-for-explainable-automated-fact-checking-3b00)
-- [j-DataGrid — Total.js part 2](https://dev.to/palo/j-datagrid-totaljs-part-2-3fh2)
+- [Today deal with overflow on x axis](https://dev.to/saqib_tanveer_786/today-deal-with-overflow-on-x-axis-990)
+- [How to contact Amazon Web Services: Understanding AWS Support Phone Numbers](https://dev.to/muhammad_abdullah_0f40cb1/how-to-contact-amazon-web-services-understanding-aws-support-phone-numbers-p4a)
+- [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-4gam)
+- [My First DEV.to Post](https://dev.to/kin_test_8c229aecbd38506f/my-first-devto-post-39oe)
 <!-- BLOG-POST-LIST:END -->
 
