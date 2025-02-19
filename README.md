@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check Out! These 45+ Developer Solutions for Better Programming.](https://dev.to/0x2e_tech/check-out-these-45-developer-solutions-for-better-programming-1eod)
-- [Importance of DevSecOps: Integrating Security into DevOps](https://dev.to/jakeinthecloud/importance-of-devsecops-integrating-security-into-devops-13m)
-- [😵 Mes nouvelles traductions sous Prestashop ne remontent pas : la galère !](https://dev.to/developpeuz/mes-nouvelles-traductions-sous-prestashop-ne-remontent-pas-la-galere--59m3)
-- [NPM vs Yarn vs PNPM: Choosing the right package manager for your project](https://dev.to/mroman7/npm-vs-yarn-vs-pnpm-choosing-the-right-package-manager-for-your-project-5a77)
+- [Building an IBM AIX Expert Chatbot using RAG and FAISS](https://dev.to/kaustubhyerkade/building-an-ibm-aix-expert-chatbot-using-rag-and-faiss-1np2)
+- [Vibe Coding: The New Way We Create and Interact with Technology](https://dev.to/gentoro/directive-programming-a-new-paradigm-for-genai-2kgd)
+- [[Boost]](https://dev.to/gatan_compigni_649db22a7/-gfa)
+- [Best Practices for Software Development](https://dev.to/ororasoft/best-practices-for-software-development-15m8)
 <!-- BLOG-POST-LIST:END -->
 
