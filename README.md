@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ QueryLink - Streamlining Frontend-Backend Data Integration in .NET Applications](https://dev.to/gigaherz/streamlining-frontend-backend-data-integration-in-net-applications-1be0)
-- [Why HTML Evolves Slowly &lpar;and Why That’s a Good Thing&rpar;](https://dev.to/martinrojas/why-html-evolves-slowly-and-why-thats-a-good-thing-3mkh)
-- [The Complete DevOps Roadmap: From Zero to Cloud Native Expert](https://dev.to/biloustrike/the-complete-devops-roadmap-from-zero-to-cloud-native-expert-52kp)
-- [The Time Trap: How Much are You Losing?](https://dev.to/wraith/the-time-trap-how-much-are-you-losing-3im9)
+- [iPhone 17 design may be drastically different](https://dev.to/devmercy/iphone-17-design-may-be-drastically-different-7kd)
+- [Top CI/CD Tools to Streamline Your DevOps Pipeline: A Comprehensive Guide](https://dev.to/testwithtorin/top-cicd-tools-to-streamline-your-devops-pipeline-a-comprehensive-guide-p0a)
+- [GitHub Releases New GPT-4o Copilot Code Completion Model](https://dev.to/andreagriffiths11/github-releases-new-gpt-4o-copilot-code-completion-model-1ph8)
+- [[Boost]](https://dev.to/thefull/-59om)
 <!-- BLOG-POST-LIST:END -->
 
