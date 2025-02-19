@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first program](https://dev.to/idris-soyinka/my-first-program-29h2)
-- [Setting an IPSEC VPN using VyOS in AWS](https://dev.to/leroykayanda/setting-an-ipsec-vpn-using-vyos-in-aws-48fl)
-- [How to Build a Vector Database with SQLite in laravel for LLM&#39;s](https://dev.to/ehtesham_ali_abc367f36a5b/how-to-build-a-vector-database-with-sqlite-in-laravel-for-llms-in-windows-59g0)
-- [TailAdmin 2.0 – A Major Upgrade with 400+ Components &amp; Enhanced UI! 🚀](https://dev.to/tailwindcss/tailadmin-20-a-major-upgrade-with-400-components-enhanced-ui-4eh6)
+- [How to Build a Responsive Navigation Bar with Dropdowns Using Tailwind](https://dev.to/rowsanali/how-to-build-a-responsive-navigation-bar-with-dropdowns-using-tailwind-563b)
+- [Git Commands](https://dev.to/vasutamil19/git-commands-gca)
+- [Test API for CORS Enablement &amp; Find Issues](https://dev.to/ankitjaininfo/test-api-for-cors-enablement-find-issues-10pf)
+- [Vercel’s Fluid Compute and what it means for AWS Lambda](https://dev.to/andycasen/vercels-fluid-compute-and-what-it-means-for-aws-lambda-38dl)
 <!-- BLOG-POST-LIST:END -->
 
