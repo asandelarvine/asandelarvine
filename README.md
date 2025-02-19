@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 17 design may be drastically different](https://dev.to/devmercy/iphone-17-design-may-be-drastically-different-7kd)
-- [Top CI/CD Tools to Streamline Your DevOps Pipeline: A Comprehensive Guide](https://dev.to/testwithtorin/top-cicd-tools-to-streamline-your-devops-pipeline-a-comprehensive-guide-p0a)
-- [GitHub Releases New GPT-4o Copilot Code Completion Model](https://dev.to/andreagriffiths11/github-releases-new-gpt-4o-copilot-code-completion-model-1ph8)
-- [[Boost]](https://dev.to/thefull/-59om)
+- [Caching and How AWS DynamoDB DAX Works](https://dev.to/isaactony/caching-and-how-aws-dynamodb-dax-works-43lg)
+- [Some key concepts when working with AWS VPC &lpar;Virtual Private Cloud&rpar;](https://dev.to/hoangng/some-key-concepts-when-working-with-aws-vpc-virtual-private-cloud-1b58)
+- [I created my own search engine](https://dev.to/techtech/i-created-my-own-search-engine-41m3)
+- [How to Convert Figma Design to WordPress: A Step-by-Step Guide](https://dev.to/prostep_technologies/how-to-convert-figma-design-to-wordpress-a-step-by-step-guide-nin)
 <!-- BLOG-POST-LIST:END -->
 
