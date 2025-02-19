@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Boost Your Website Speed with Lazy Loading in JavaScript!](https://dev.to/dct_technologyprivatelimited/boost-your-website-speed-with-lazy-loading-in-javascript-ec4)
-- [Welcome Thread - v315](https://dev.to/devteam/welcome-thread-v315-3n9p)
-- [The Best Data Science Tools for 2025](https://dev.to/abhishekjaiswal_4896/the-best-data-science-tools-for-2025-32md)
-- [Integrating Currency Exchange Rate APIs into SaaS Platforms: A Developer&#39;s Guide](https://dev.to/rameshchauhan/integrating-currency-exchange-rate-apis-into-saas-platforms-a-developers-guide-5cng)
+- [Open Source Project Sponsorship Schemes: Fueling Innovation and Sustainability](https://dev.to/rachellovestowrite/open-source-project-sponsorship-schemes-fueling-innovation-and-sustainability-dkd)
+- [Navigating the Funding Maze: Open Source Software&#39;s Financial Challenges](https://dev.to/ashucommits/navigating-the-funding-maze-open-source-softwares-financial-challenges-54gk)
+- [Decoding Your Love Language: An Interactive Voyage 💖✨](https://dev.to/divya4879/decoding-your-love-language-an-interactive-voyage-51hb)
+- [🧹 Remove them with a single Fish Shell command:](https://dev.to/davidgarcia/remove-them-with-a-single-fish-shell-command-52jg)
 <!-- BLOG-POST-LIST:END -->
 
