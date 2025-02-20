@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Your API in Minutes—Forget the Code!](https://dev.to/snappytuts/make-your-api-in-minutes-forget-the-code-52k2)
-- [Dr. Muhammad Mehdi’s AI-Driven Approach to Sustainable Computing](https://dev.to/dr-muhammad-mehdi/dr-muhammad-mehdis-ai-driven-approach-to-sustainable-computing-33n3)
-- [Ultimate Project Listing Hack: Skyrocket Your Product Launch Overnight!](https://dev.to/resource_bunk_1077cab07da/ultimate-project-listing-hack-skyrocket-your-product-launch-overnight-3egm)
-- [🚀 Modular Terraform in 5 Minutes: The Key to Scalable Infrastructure](https://dev.to/infra_insider/modular-terraform-in-5-minutes-the-key-to-scalable-infrastructure-2nep)
+- [Monitoring Cost and Consumption of AI APIs and Apps](https://dev.to/dylan_frankcom_5d6a31e123/monitoring-cost-and-consumption-of-ai-apis-and-apps-56gb)
+- [I Built ExtraTools.dev – Privacy-Focused Dev Tools That Run 100% in Your Browser 🚀](https://dev.to/txordy/i-built-extratoolsdev-privacy-focused-dev-tools-that-run-100-in-your-browser-2b7j)
+- [My first CLI tool to make git commits faster](https://dev.to/el1fe/my-first-cli-tool-to-make-git-commits-faster-38eb)
+- [Developers, You’re Missing Out on These 35+ Open-Source Gems!](https://dev.to/gittech/developers-youre-missing-out-on-these-35-open-source-gems-33b)
 <!-- BLOG-POST-LIST:END -->
 
