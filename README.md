@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📰 Navigating the Web Platform Cheatsheet](https://dev.to/d_thiranjaya_6d3ec4552111/navigating-the-web-platform-cheatsheet-28eh)
-- [GANs vs. VANs: A Deep Dive into AI-Powered Image Generation and Attention Mechanisms](https://dev.to/aditya_tripathi_17ffee7f5/gans-vs-vans-a-deep-dive-into-ai-powered-image-generation-and-attention-mechanisms-1k0m)
-- [Making basicMarquee-Modifier More Accessible](https://dev.to/eevajonnapanula/making-basicmarquee-modifier-more-accessible-1f5i)
-- [How to build a scalable web application from scratch?](https://dev.to/jaykrishna_dogne/how-to-build-a-scalable-web-application-from-scratch-120a)
+- [My Love-Hate Relationship with Helm](https://dev.to/cyclops-ui/my-love-hate-relationship-with-helm-4ghg)
+- [Web Components &amp; Declarative Shadow DOM: A New Era for Reusable UI](https://dev.to/martinrojas/web-components-declarative-shadow-dom-a-new-era-for-reusable-ui-28m6)
+- [25 Google Alternatives every DEV must use in 2025 🤯💥](https://dev.to/ingosteinke/25-google-alternatives-every-dev-must-use-in-2025-20n2)
+- [The Role of DAOs in Blockchain Game Development: Shaping the Future of Decentralized Game Governance](https://dev.to/raiden_studio/the-role-of-daos-in-blockchain-game-development-shaping-the-future-of-decentralized-game-3mfj)
 <!-- BLOG-POST-LIST:END -->
 
