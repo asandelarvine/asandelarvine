@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BLOWAM &lpar;Demo version 0.0&rpar;](https://dev.to/blowam/blowam-demo-version-00-4an7)
-- [📈 Will $BTC Follow S&amp;P 500 to ATH as Fed Ends Tightening?](https://dev.to/sergi_web3/will-btc-follow-sp-500-to-ath-as-fed-ends-tightening-1hk4)
-- [From Code to Collaboration: How AI Assistants are Redefining the Developer Experience 🤖🚀](https://dev.to/richa_ma_469e0d43de4be15b/from-code-to-collaboration-how-ai-assistants-are-redefining-the-developer-experience-5caf)
-- [## Master Django Redirects in Under 3 Minutes 🚀](https://dev.to/ebereplenty/-master-django-redirects-in-under-3-minutes-4f6)
+- [JavaScript Essentials: How Rest Parameters and Spread Syntax Work](https://dev.to/ayako_yk/javascript-essentials-how-rest-parameters-and-spread-syntax-work-4d0p)
+- [Hallucination Engineer](https://dev.to/jwp/hallucination-engineer-2gf3)
+- [How to connect Git to GitHub](https://dev.to/ifeanyichima/how-to-connect-git-to-github-2efc)
+- [Python 3.13 No-GIL: What You Need to Know](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i)
 <!-- BLOG-POST-LIST:END -->
 
