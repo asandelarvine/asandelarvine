@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Love-Hate Relationship with Helm](https://dev.to/cyclops-ui/my-love-hate-relationship-with-helm-4ghg)
-- [Web Components &amp; Declarative Shadow DOM: A New Era for Reusable UI](https://dev.to/martinrojas/web-components-declarative-shadow-dom-a-new-era-for-reusable-ui-28m6)
-- [25 Google Alternatives every DEV must use in 2025 🤯💥](https://dev.to/ingosteinke/25-google-alternatives-every-dev-must-use-in-2025-20n2)
-- [The Role of DAOs in Blockchain Game Development: Shaping the Future of Decentralized Game Governance](https://dev.to/raiden_studio/the-role-of-daos-in-blockchain-game-development-shaping-the-future-of-decentralized-game-3mfj)
+- [Free Erasorio Alternative for Collaborative Design - Discover SketchFlow: The Ultimate](https://dev.to/sh20raj2/free-erasorio-alternative-for-collaborative-design-discover-sketchflow-the-ultimate-53k)
+- [Automating Software Testing: Everything You Need to Know](https://dev.to/asher_hartwell_f827d28b67/automating-software-testing-everything-you-need-to-know-5fl4)
+- [How To Build a Machine Learning Model For Heart Failure Prediction From Scratch](https://dev.to/luthfisauqi17/how-to-build-a-machine-learning-model-for-heart-failure-prediction-from-scratch-3n2h)
+- [Webpack: Supercharge Your JavaScript Projects!](https://dev.to/githubopensource/webpack-supercharge-your-javascript-projects-5190)
 <!-- BLOG-POST-LIST:END -->
 
