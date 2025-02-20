@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interface Segregation Principle &lpar;ISP&rpar; in React Development](https://dev.to/creowistech/interface-segregation-principle-isp-in-react-development-1fkn)
-- [💻 Step-by-Step: Hosting a Static Website on AWS EC2 🌟](https://dev.to/aws-builders/step-by-step-hosting-a-static-website-on-aws-ec2-5a8j)
-- [Front-End Only: Real-Time AI Stream Commentary with React, OBS Virtual Camera, and GPT-4o-mini](https://dev.to/shinshin86/front-end-only-real-time-ai-stream-commentary-with-react-obs-virtual-camera-and-gpt-4o-mini-2bda)
-- [Full-Stack Tester: Role and Skills](https://dev.to/radha_4c842d8e4362a7cdd9c/full-stack-tester-role-and-skills-3aji)
+- [remove trailing slash only on certain page in gatsby](https://dev.to/sudhasrs/remove-trailing-slash-only-on-certain-page-in-gatsby-4j3a)
+- [Creating My Own Portfolio Website](https://dev.to/samanamirza_dev/creating-my-own-portfolio-website-4mhd)
+- [EC2 Instance Store: High-Performance Temporary Storage for Your Workloads](https://dev.to/shiv15/ec2-instance-store-high-performance-temporary-storage-for-your-workloads-3co7)
+- [How to Scrape Google Scholar Results](https://dev.to/datacollectionscraper/how-to-scrape-google-scholar-results-3a32)
 <!-- BLOG-POST-LIST:END -->
 
