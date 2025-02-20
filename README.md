@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Support Global or Batch Records Triggering Custom Action Event](https://dev.to/nocobase/nocobase-weekly-updates-support-global-or-batch-records-triggering-custom-action-event-9fc)
-- [.NET Learning Notes: EFCore&lpar;Entity Framework&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-efcoreentity-framework-4210)
-- [Comparing JSON Libraries in .NET: Newtonsoft.Json vs. System.Text.Json](https://dev.to/chuongmep/comparing-json-libraries-in-net-newtonsoftjson-vs-systemtextjson-3gfo)
-- [[EN] How Angular 15+ Marked a Major Shift in the Framework’s Evolution](https://dev.to/benjamin_duroule_4a74f5f0/en-how-angular-15-marked-a-major-shift-in-the-frameworks-evolution-40a3)
+- [How to Run DeepSeek R1 Locally &lpar;Using Ollama + ChatboxAI&rpar;](https://dev.to/kbhatnagar/how-to-run-deepseek-r1-locally-using-ollama-chatboxai-4po9)
+- [🤖 Open-CUAK: “OpenAI Operator” Now Goes Open Source! 👥](https://dev.to/key_lu_3fba4ab5cd50d0a933/open-cuak-openai-operator-now-goes-open-source-1cch)
+- [Migration of nextjs 14 to next 15](https://dev.to/caresle/migration-of-nextjs-14-to-next-15-ij2)
+- [DeepSeek AI: Innovation or a Double-Edged Sword?](https://dev.to/jason_canon_89c6901c0086c/deepseek-ai-innovation-or-a-double-edged-sword-18fm)
 <!-- BLOG-POST-LIST:END -->
 
