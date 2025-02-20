@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
-- [Analyzing Lotto with Data: Can Machine Learning Provide the Answer?](https://dev.to/freyasky/analyzing-lotto-with-data-can-machine-learning-provide-the-answer-c6k)
-- [Building a Data Ingestion Solution for Amazon Bedrock Knowledge Bases](https://dev.to/aws-builders/building-a-data-ingestion-solution-for-amazon-bedrock-knowledge-bases-4on4)
-- [Step-by-Step Process for Migrating from Umbraco to WordPress](https://dev.to/johnsmith244303/step-by-step-process-for-migrating-from-umbraco-to-wordpress-38p0)
+- [Easiest Way to Run JavaScript, HTML &amp; CSS in One Place](https://dev.to/shubhamtiwari909/the-easiest-way-to-run-javascript-html-css-in-one-place-33b9)
+- [🚀 Automating Flask To-Do App with AWS: Terraform, Jenkins &amp; Docker](https://dev.to/pravesh_sudha_3c2b0c2b5e0/automating-flask-to-do-app-with-aws-terraform-jenkins-docker-16l7)
+- [Simplified Guide to SQL DELETE Queries](https://dev.to/dbvismarketing/simplified-guide-to-sql-delete-queries-1o79)
+- [Dispatchers e Contextos no Kotlin: Escolhendo o Lugar Certo para Suas Corrotinas](https://dev.to/comunidadedevspace/dispatchers-e-contextos-no-kotlin-escolhendo-o-lugar-certo-para-suas-corrotinas-3nh2)
 <!-- BLOG-POST-LIST:END -->
 
