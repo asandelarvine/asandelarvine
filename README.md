@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Erasorio Alternative for Collaborative Design - Discover SketchFlow: The Ultimate](https://dev.to/sh20raj2/free-erasorio-alternative-for-collaborative-design-discover-sketchflow-the-ultimate-53k)
-- [Automating Software Testing: Everything You Need to Know](https://dev.to/asher_hartwell_f827d28b67/automating-software-testing-everything-you-need-to-know-5fl4)
-- [How To Build a Machine Learning Model For Heart Failure Prediction From Scratch](https://dev.to/luthfisauqi17/how-to-build-a-machine-learning-model-for-heart-failure-prediction-from-scratch-3n2h)
-- [Webpack: Supercharge Your JavaScript Projects!](https://dev.to/githubopensource/webpack-supercharge-your-javascript-projects-5190)
+- [Unofficial LeetCode API + Daily Updated Google Sheet](https://dev.to/noworneverev/unofficial-leetcode-api-daily-updated-google-sheet-179o)
+- [Java Program For Finding First And Second Highest Scores](https://dev.to/guna_sekaran_/java-program-for-finding-first-and-second-highest-scores-1glp)
+- [How to check for null, undefined, or empty values in JavaScript](https://dev.to/logrocket/how-to-check-for-null-undefined-or-empty-values-in-javascript-5d0p)
+- [MuleSoft vs Apache Camel: Which Integration Framework Should You Use?](https://dev.to/igventurelli/mulesoft-vs-apache-camel-which-integration-framework-should-you-use-moi)
 <!-- BLOG-POST-LIST:END -->
 
