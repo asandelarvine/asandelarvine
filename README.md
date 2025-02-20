@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Essentials: How Rest Parameters and Spread Syntax Work](https://dev.to/ayako_yk/javascript-essentials-how-rest-parameters-and-spread-syntax-work-4d0p)
-- [Hallucination Engineer](https://dev.to/jwp/hallucination-engineer-2gf3)
-- [How to connect Git to GitHub](https://dev.to/ifeanyichima/how-to-connect-git-to-github-2efc)
-- [Python 3.13 No-GIL: What You Need to Know](https://dev.to/zackch/python-313-no-gil-what-you-need-to-know-352i)
+- [Raghu&#39;s View on Software Development](https://dev.to/tofukali/raghus-view-on-software-development-31hp)
+- [20 Scary Programming Theories You Should Know](https://dev.to/hi1talib1world/20-scary-programming-theories-you-should-know-3nn3)
+- [What the Heck is HTMX?](https://dev.to/gervaisamoah/what-the-heck-is-htmx-580n)
+- [API Testing for DummyJSON Endpoints using Postman](https://dev.to/loveline/api-testing-for-dummyjson-endpoints-using-postman-41in)
 <!-- BLOG-POST-LIST:END -->
 
