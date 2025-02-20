@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easiest Way to Run JavaScript, HTML &amp; CSS in One Place](https://dev.to/shubhamtiwari909/the-easiest-way-to-run-javascript-html-css-in-one-place-33b9)
-- [🚀 Automating Flask To-Do App with AWS: Terraform, Jenkins &amp; Docker](https://dev.to/pravesh_sudha_3c2b0c2b5e0/automating-flask-to-do-app-with-aws-terraform-jenkins-docker-16l7)
-- [Simplified Guide to SQL DELETE Queries](https://dev.to/dbvismarketing/simplified-guide-to-sql-delete-queries-1o79)
-- [Dispatchers e Contextos no Kotlin: Escolhendo o Lugar Certo para Suas Corrotinas](https://dev.to/comunidadedevspace/dispatchers-e-contextos-no-kotlin-escolhendo-o-lugar-certo-para-suas-corrotinas-3nh2)
+- [Getting Started with .NET: A Hands-On Guide for Student Developers](https://dev.to/powernest_solution_274b9c/getting-started-with-net-a-hands-on-guide-for-student-developers-2m77)
+- [How to Protect Laravel from WebSocket Vulnerabilities](https://dev.to/pentest_testing_corp/how-to-protect-laravel-from-websocket-vulnerabilities-52e)
+- [Pull Request testing on Kubernetes: working with GitHub Actions and GKE](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-working-with-github-actions-and-gke-1d91)
+- [Part 1: Detecting Alzheimer’s with EEG and Deep Learning – Theory, Motivation, and Preprocessing](https://dev.to/vivekvohra/part-1-detecting-alzheimers-with-eeg-and-deep-learning-theory-motivation-and-preprocessing-1hd1)
 <!-- BLOG-POST-LIST:END -->
 
