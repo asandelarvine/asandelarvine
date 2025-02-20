@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [remove trailing slash only on certain page in gatsby](https://dev.to/sudhasrs/remove-trailing-slash-only-on-certain-page-in-gatsby-4j3a)
-- [Creating My Own Portfolio Website](https://dev.to/samanamirza_dev/creating-my-own-portfolio-website-4mhd)
-- [EC2 Instance Store: High-Performance Temporary Storage for Your Workloads](https://dev.to/shiv15/ec2-instance-store-high-performance-temporary-storage-for-your-workloads-3co7)
-- [How to Scrape Google Scholar Results](https://dev.to/datacollectionscraper/how-to-scrape-google-scholar-results-3a32)
+- [The two versions of Parquet](https://dev.to/jerolba/the-two-versions-of-parquet-16il)
+- [Essential System Design Concepts for Beginners](https://dev.to/rajsingh11/essential-system-design-concepts-for-beginners-32fj)
+- [Practical Application of Speech Synthesis and Model Optimization in the Intelligent Voice Assistant of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-application-of-speech-synthesis-and-model-optimization-in-the-intelligent-voice-assistant-6ld)
+- [Unlocking Potential: The Benefits of Open Source Developer Patronage](https://dev.to/jennythomas498/unlocking-potential-the-benefits-of-open-source-developer-patronage-1h05)
 <!-- BLOG-POST-LIST:END -->
 
