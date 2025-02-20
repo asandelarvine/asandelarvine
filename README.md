@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Your Complex Code Migration Projects With AI](https://dev.to/hackmamba/simplify-your-complex-code-migration-projects-with-ai-3fn8)
-- [Reducing Insurance Product Development Time and Cost](https://dev.to/openkoda/reducing-insurance-product-development-time-and-cost-54mg)
-- [Call Center Wondr by BNI 0821-4448-0002](https://dev.to/vanglevan/call-center-wondr-by-bni-0821-4448-0002-1pjn)
-- [CS Wondr BNI 0821-4448-0002](https://dev.to/ayushsinghgithub/cs-wondr-bni-0821-4448-0002-bgn)
+- [Python input&lpar;&rpar; Function - Detailed Explanation](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-5b8m)
+- [&quot;Okay great, now can you briefly summarize why the original problem is mitigated by this overall approach?&quot; — Important when working with AI to make sure you *learn* about what you&#39;re doing before finishing the project.](https://dev.to/ben/okay-great-now-can-you-briefly-summarize-why-the-original-problem-is-mitigated-by-this-overall-3ac5)
+- [Our Project Got 100 First Stars on Github🔥](https://dev.to/hmpljs/our-project-got-100-first-stars-on-github-50jf)
+- [How to select oauth scopes in next-auth / authjs](https://dev.to/tigawanna/how-to-select-oauth-scopes-in-next-auth-authjs-18kd)
 <!-- BLOG-POST-LIST:END -->
 
