@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unofficial LeetCode API + Daily Updated Google Sheet](https://dev.to/noworneverev/unofficial-leetcode-api-daily-updated-google-sheet-179o)
-- [Java Program For Finding First And Second Highest Scores](https://dev.to/guna_sekaran_/java-program-for-finding-first-and-second-highest-scores-1glp)
-- [How to check for null, undefined, or empty values in JavaScript](https://dev.to/logrocket/how-to-check-for-null-undefined-or-empty-values-in-javascript-5d0p)
-- [MuleSoft vs Apache Camel: Which Integration Framework Should You Use?](https://dev.to/igventurelli/mulesoft-vs-apache-camel-which-integration-framework-should-you-use-moi)
+- [Simplify Your Complex Code Migration Projects With AI](https://dev.to/hackmamba/simplify-your-complex-code-migration-projects-with-ai-3fn8)
+- [Reducing Insurance Product Development Time and Cost](https://dev.to/openkoda/reducing-insurance-product-development-time-and-cost-54mg)
+- [Call Center Wondr by BNI 0821-4448-0002](https://dev.to/vanglevan/call-center-wondr-by-bni-0821-4448-0002-1pjn)
+- [CS Wondr BNI 0821-4448-0002](https://dev.to/ayushsinghgithub/cs-wondr-bni-0821-4448-0002-bgn)
 <!-- BLOG-POST-LIST:END -->
 
