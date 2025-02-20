@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Lambda Monitoring on AWS](https://dev.to/mtrentz/real-time-lambda-monitoring-on-aws-3p5j)
-- [Laravel API Docs: A Guide to L5 Swagger](https://dev.to/aleson-franca/laravel-api-docs-a-guide-to-l5-swagger-333)
-- [COBOL, Dates, May 20, 1875, and Disinformation](https://dev.to/mdchaney/cobol-dates-may-20-1875-and-disinformation-5ggh)
-- [Optimizing IoT Data Management for Business Success](https://dev.to/ostapzabolotnyy/optimizing-iot-data-management-for-business-success-5dji)
+- [NocoBase Weekly Updates: Support Global or Batch Records Triggering Custom Action Event](https://dev.to/nocobase/nocobase-weekly-updates-support-global-or-batch-records-triggering-custom-action-event-9fc)
+- [.NET Learning Notes: EFCore&lpar;Entity Framework&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-efcoreentity-framework-4210)
+- [Comparing JSON Libraries in .NET: Newtonsoft.Json vs. System.Text.Json](https://dev.to/chuongmep/comparing-json-libraries-in-net-newtonsoftjson-vs-systemtextjson-3gfo)
+- [[EN] How Angular 15+ Marked a Major Shift in the Framework’s Evolution](https://dev.to/benjamin_duroule_4a74f5f0/en-how-angular-15-marked-a-major-shift-in-the-frameworks-evolution-40a3)
 <!-- BLOG-POST-LIST:END -->
 
