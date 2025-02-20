@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with .NET: A Hands-On Guide for Student Developers](https://dev.to/powernest_solution_274b9c/getting-started-with-net-a-hands-on-guide-for-student-developers-2m77)
-- [How to Protect Laravel from WebSocket Vulnerabilities](https://dev.to/pentest_testing_corp/how-to-protect-laravel-from-websocket-vulnerabilities-52e)
-- [Pull Request testing on Kubernetes: working with GitHub Actions and GKE](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-working-with-github-actions-and-gke-1d91)
-- [Part 1: Detecting Alzheimer’s with EEG and Deep Learning – Theory, Motivation, and Preprocessing](https://dev.to/vivekvohra/part-1-detecting-alzheimers-with-eeg-and-deep-learning-theory-motivation-and-preprocessing-1hd1)
+- [Top 5 Phone Number Validation 📞 APIs for Developers: Features, Integration, and Pricing Guide ⚡](https://dev.to/stephaniedsouza/top-5-phone-number-validation-apis-for-developers-features-integration-and-pricing-guide-hbj)
+- [Why Learning Salesforce Marketing Cloud is Essential for IT Industries and Big Tech Companies](https://dev.to/markwayne/why-learning-salesforce-marketing-cloud-is-essential-for-it-industries-and-big-tech-companies-2028)
+- [Vulnerability Exploitability eXchange &lpar;VEX&rpar;: The Standard Revolutionizing Security Operations](https://dev.to/xshuden/vulnerability-exploitability-exchange-vex-the-standard-revolutionizing-security-operations-1a56)
+- [How to Debug the Grok, DeepSeek, OpenAI, and Other AI APIs: A Developer&#39;s Guide](https://dev.to/auden/how-to-debug-the-grok-deepseek-openai-and-other-ai-apis-a-developers-guide-424g)
 <!-- BLOG-POST-LIST:END -->
 
