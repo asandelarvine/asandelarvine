@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing composer and configuring permissions for Laravel projects](https://dev.to/damara_lucena/installing-composer-and-configuring-permissions-for-laravel-projects-3k21)
-- [🚀 API Maker : Release Notes for v1.12.0](https://dev.to/apimaker/api-maker-release-notes-for-v1120-aoe)
-- [Untitled](https://dev.to/vishu_sharma_9f72e1a985f2/untitled-l17)
-- [How to Run DeepSeek R1 Locally &lpar;Using Ollama + ChatboxAI&rpar;](https://dev.to/kbhatnagar/how-to-run-deepseek-r1-locally-using-ollama-chatboxai-4po9)
+- [Interface Segregation Principle &lpar;ISP&rpar; in React Development](https://dev.to/creowistech/interface-segregation-principle-isp-in-react-development-1fkn)
+- [💻 Step-by-Step: Hosting a Static Website on AWS EC2 🌟](https://dev.to/aws-builders/step-by-step-hosting-a-static-website-on-aws-ec2-5a8j)
+- [Front-End Only: Real-Time AI Stream Commentary with React, OBS Virtual Camera, and GPT-4o-mini](https://dev.to/shinshin86/front-end-only-real-time-ai-stream-commentary-with-react-obs-virtual-camera-and-gpt-4o-mini-2bda)
+- [Full-Stack Tester: Role and Skills](https://dev.to/radha_4c842d8e4362a7cdd9c/full-stack-tester-role-and-skills-3aji)
 <!-- BLOG-POST-LIST:END -->
 
