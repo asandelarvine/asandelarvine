@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python input&lpar;&rpar; Function - Detailed Explanation](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-5b8m)
-- [&quot;Okay great, now can you briefly summarize why the original problem is mitigated by this overall approach?&quot; — Important when working with AI to make sure you *learn* about what you&#39;re doing before finishing the project.](https://dev.to/ben/okay-great-now-can-you-briefly-summarize-why-the-original-problem-is-mitigated-by-this-overall-3ac5)
-- [Our Project Got 100 First Stars on Github🔥](https://dev.to/hmpljs/our-project-got-100-first-stars-on-github-50jf)
-- [How to select oauth scopes in next-auth / authjs](https://dev.to/tigawanna/how-to-select-oauth-scopes-in-next-auth-authjs-18kd)
+- [Make Your API in Minutes—Forget the Code!](https://dev.to/snappytuts/make-your-api-in-minutes-forget-the-code-52k2)
+- [Dr. Muhammad Mehdi’s AI-Driven Approach to Sustainable Computing](https://dev.to/dr-muhammad-mehdi/dr-muhammad-mehdis-ai-driven-approach-to-sustainable-computing-33n3)
+- [Ultimate Project Listing Hack: Skyrocket Your Product Launch Overnight!](https://dev.to/resource_bunk_1077cab07da/ultimate-project-listing-hack-skyrocket-your-product-launch-overnight-3egm)
+- [🚀 Modular Terraform in 5 Minutes: The Key to Scalable Infrastructure](https://dev.to/infra_insider/modular-terraform-in-5-minutes-the-key-to-scalable-infrastructure-2nep)
 <!-- BLOG-POST-LIST:END -->
 
