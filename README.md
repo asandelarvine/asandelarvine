@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [it&#39;s not Hacking, Just Coding](https://dev.to/maheswaripinneti/its-not-hacking-just-coding-47e3)
-- [Don&#39;t use React imports like this. Use Wrapper Pattern instead](https://dev.to/perisicnikola37/dont-use-react-imports-like-this-use-wrapper-pattern-instead-124p)
-- [Developing a Camera-Based Barcode Scanner in .NET MAUI for Windows Desktop](https://dev.to/yushulx/developing-a-camera-based-barcode-scanner-in-net-maui-for-windows-desktop-1aei)
-- [Implementing Layer and MLP Classes in micrograd &lpar;As Explained By Karpathy&rpar;](https://dev.to/shrsv/karpathy-10-45ih)
+- [The 5 best programming languages of 2025](https://dev.to/scrapestorm/the-5-best-programming-languages-of-2025-1dmb)
+- [How to Avoid Common Mistakes When Writing Tailwind Utility Classes](https://dev.to/rowsanali/how-to-avoid-common-mistakes-when-writing-tailwind-utility-classes-59n1)
+- [How to Grow a Strong Community in Web3: Strategies for Success](https://dev.to/vishal_singh_8666966f9bcc/how-to-grow-a-strong-community-in-web3-strategies-for-success-cgg)
+- [TinaCMS: A Headless CMS with Git Version Control](https://dev.to/n4n1t0/tinacms-a-headless-cms-with-git-version-control-hgm)
 <!-- BLOG-POST-LIST:END -->
 
