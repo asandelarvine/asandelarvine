@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 JavaScript Design Patterns Every Developer Should Know](https://dev.to/sovannaro/10-javascript-design-patterns-every-developer-should-know-n0m)
+- [🌟 Nullish Coalescing Operator &lpar;??&rpar; vs OR &lpar;||&rpar; in JavaScript : When to Use Each?](https://dev.to/dzungnt98/nullish-coalescing-operator-vs-or-in-javascript-when-to-use-each-1pi0)
+- [Blockchain and Proxy IP: Creating a More Secure and Decentralized Proxy Network](https://dev.to/98ip/blockchain-and-proxy-ip-creating-a-more-secure-and-decentralized-proxy-network-4il)
 - [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-11a1)
-- [TIL: 3️⃣ ways I use Large Language Models to increase learning efficiency](https://dev.to/mrzaizai2k/til-3-ways-i-use-large-language-models-to-increase-learning-efficiency-6i5)
-- [How Django Finds Static and Template Files: A Quick Guide](https://dev.to/jjokah/how-django-finds-static-and-template-files-a-quick-guide-dk6)
-- [Magic Methods in PHP: Why Programmers Need Magic Too](https://dev.to/ianpatricck/magic-methods-in-php-why-programmers-need-magic-too-2f02)
 <!-- BLOG-POST-LIST:END -->
 
