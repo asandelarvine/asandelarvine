@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [History of PHP language: How PHP Started and Where It Stands Today](https://dev.to/web_dev-usman/history-of-php-language-how-php-started-and-where-it-stands-today-5a2l)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2pib)
-- [Complement a certain average value to ensure that the total sum remains unchanged — From SQL to SPL #3](https://dev.to/judith677/complement-a-certain-average-value-to-ensure-that-the-total-sum-remains-unchanged-from-sql-to-spl-4mn)
-- [What role does AI play in modern travel management systems?](https://dev.to/itour_operatorsoftware_8/what-role-does-ai-play-in-modern-travel-management-systems-6k8)
+- [The Power of UX/UI Design: How It Impacts Your Website’s Success](https://dev.to/dct_technologyprivatelimited/the-power-of-uxui-design-how-it-impacts-your-websites-success-2adn)
+- [AWS CloudTrail Logs : Boost Your Security Now](https://dev.to/aws-builders/aws-cloudtrail-logs-boost-your-security-now-5fnh)
+- [embedz - Easy, dependency free embeds for Svelte and Vue.](https://dev.to/greenestgoat/embedz-easy-dependency-free-embeds-for-svelte-and-vue-1a01)
+- [Scaling Rails Background Jobs in Kubernetes: From Queue to HPA](https://dev.to/shettigarc/scaling-rails-background-jobs-in-kubernetes-from-queue-to-hpa-4b7g)
 <!-- BLOG-POST-LIST:END -->
 
