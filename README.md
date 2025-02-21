@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking to Contribute to Open Source, Preferably New Ideas](https://dev.to/mihastele/looking-to-contribute-to-open-source-preferably-new-ideas-b6)
-- [Installing Golang on Windows WSL/WSL2](https://dev.to/sonishivam10/installing-golang-on-windows-wslwsl2-3pn5)
-- [Wrote a new blog after a while!](https://dev.to/adityaoberai/-2iej)
-- [I need help deciding how to build my idea.](https://dev.to/james_courtney_5881df299c/i-need-help-deciding-how-to-build-my-idea-a2k)
+- [RandomAffine in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-2-3d3a)
+- [RandomAffine in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-1-2j6j)
+- [AI in Web Development – Is It Replacing Developers or Making Us 10x Faster?](https://dev.to/bigya/ai-in-web-development-is-it-replacing-developers-or-making-us-10x-faster-4f3h)
+- [Why Should You Use a CDN to Boost Your Website Speed?](https://dev.to/seyedahmaddv/why-should-you-use-a-cdn-to-boost-your-website-speed-2543)
 <!-- BLOG-POST-LIST:END -->
 
