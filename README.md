@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of UX/UI Design: How It Impacts Your Website’s Success](https://dev.to/dct_technologyprivatelimited/the-power-of-uxui-design-how-it-impacts-your-websites-success-2adn)
-- [AWS CloudTrail Logs : Boost Your Security Now](https://dev.to/aws-builders/aws-cloudtrail-logs-boost-your-security-now-5fnh)
-- [embedz - Easy, dependency free embeds for Svelte and Vue.](https://dev.to/greenestgoat/embedz-easy-dependency-free-embeds-for-svelte-and-vue-1a01)
-- [Scaling Rails Background Jobs in Kubernetes: From Queue to HPA](https://dev.to/shettigarc/scaling-rails-background-jobs-in-kubernetes-from-queue-to-hpa-4b7g)
+- [25+ Essential Linux Bash Commands Every Aspiring DevOps Must Know](https://dev.to/knight03/25-essential-linux-bash-commands-every-aspiring-devops-must-know-17cl)
+- [PEP and PDP for Secure Authorization with AVP](https://dev.to/aws-heroes/pep-and-pdp-for-secure-authorization-with-avp-290c)
+- [What&#39;s your opinion on &quot;One PR per Day Rule&quot; at workplace?](https://dev.to/gleuzio/whats-your-opinion-on-one-pr-per-day-rule-at-workplace-158)
+- [State Management with Pinia vs Vuex](https://dev.to/robin-ivi/state-management-with-pinia-vs-vuex-4mh)
 <!-- BLOG-POST-LIST:END -->
 
