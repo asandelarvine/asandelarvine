@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 best programming languages of 2025](https://dev.to/scrapestorm/the-5-best-programming-languages-of-2025-1dmb)
-- [How to Avoid Common Mistakes When Writing Tailwind Utility Classes](https://dev.to/rowsanali/how-to-avoid-common-mistakes-when-writing-tailwind-utility-classes-59n1)
-- [How to Grow a Strong Community in Web3: Strategies for Success](https://dev.to/vishal_singh_8666966f9bcc/how-to-grow-a-strong-community-in-web3-strategies-for-success-cgg)
-- [TinaCMS: A Headless CMS with Git Version Control](https://dev.to/n4n1t0/tinacms-a-headless-cms-with-git-version-control-hgm)
+- [♎Creating Mock Server for APIs: Postman or Apidog🤔](https://dev.to/apilover/creating-mock-server-for-apis-postman-or-apidog-38jd)
+- [What is a pharma sales consultant? Definition, duties and responsibilities](https://dev.to/pharmacrm/what-is-a-pharma-sales-consultant-definition-duties-and-responsibilities-kb9)
+- [How to style a PCF like a standard Model Driven App control](https://dev.to/_neronotte/how-to-style-a-pcf-like-a-standard-model-driven-app-control-1eeb)
+- [The Future of Forex Trading: AI and Real-Time Data Integration](https://dev.to/shridhargv/the-future-of-forex-trading-ai-and-real-time-data-integration-h06)
 <!-- BLOG-POST-LIST:END -->
 
