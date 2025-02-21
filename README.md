@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [History of PHP language: How PHP Started and Where It Stands Today](https://dev.to/web_dev-usman/history-of-php-language-how-php-started-and-where-it-stands-today-5a2l)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2pib)
 - [Complement a certain average value to ensure that the total sum remains unchanged — From SQL to SPL #3](https://dev.to/judith677/complement-a-certain-average-value-to-ensure-that-the-total-sum-remains-unchanged-from-sql-to-spl-4mn)
 - [What role does AI play in modern travel management systems?](https://dev.to/itour_operatorsoftware_8/what-role-does-ai-play-in-modern-travel-management-systems-6k8)
-- [Github Codespaces: A different way to code](https://dev.to/pooyan/github-codespaces-a-different-way-to-code-5af4)
-- [Introducing DeepSearcher: A Local Open Source Deep Research](https://dev.to/zilliz/introducing-deepsearcher-a-local-open-source-deep-research-52kh)
 <!-- BLOG-POST-LIST:END -->
 
