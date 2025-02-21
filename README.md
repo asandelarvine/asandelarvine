@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Panic and Recover: A Deep Dive into Error Handling](https://dev.to/leapcell/go-panic-and-recover-a-deep-dive-into-error-handling-56be)
-- [In-depth Guide to net/netip Prefix Methods 7/7](https://dev.to/rezmoss/in-depth-guide-to-netnetip-prefix-methods-77-4b3c)
-- [Leveraging parallel computing in Node.js](https://dev.to/logrocket/leveraging-parallel-computing-in-nodejs-41ll)
-- [Survival Guide: Why You Should Pursue and how to excel in the AWS Cloud Practitioner Exam](https://dev.to/henniefrancis/survival-guide-why-you-should-pursue-and-how-to-excel-in-the-aws-cloud-practitioner-exam-2016)
+- [Building High-Performance Apps with Redis, PostgreSQL &amp; Spring Boot](https://dev.to/olymahmud/building-high-performance-apps-with-redis-postgresql-spring-boot-3m36)
+- [&quot;Unlocking Efficiency: LServe&#39;s Breakthrough in Long-Sequence LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-lserves-breakthrough-in-long-sequence-llms-2hnb)
+- [Why Use a Schema Comparison Tool for SQL Server?](https://dev.to/samantha_brauer/why-use-a-schema-comparison-tool-for-sql-server-42me)
+- [Accuracy and Reliability of AI Models – A Look at Recent Evaluations](https://dev.to/englishchatcast/accuracy-and-reliability-of-ai-models-a-look-at-recent-evaluations-3l3c)
 <!-- BLOG-POST-LIST:END -->
 
