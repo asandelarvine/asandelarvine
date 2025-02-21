@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluating ChatGPT-4o&#39;s Performance in Creating Python Smart Contracts for Xian Blockchain](https://dev.to/crosschainer/evaluating-chatgpt-4os-performance-in-creating-python-smart-contracts-for-xian-blockchain-1eck)
-- [🚀 API Design: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/api-design-essential-tips-and-tricks-for-developers-1ikm)
-- [Fine-Tuning Resource Priorities: The Power of fetchpriority](https://dev.to/leapcell/fine-tuning-resource-priorities-the-power-of-fetchpriority-8ic)
-- [Discover Your Love Language with your loved ones.](https://dev.to/web_dev-usman/discover-your-love-language-with-your-loved-ones-5a23)
+- [Advancements in Age and Gender Recognition Using Deep Learning Techniques](https://dev.to/faceplugin/advancements-in-age-and-gender-recognition-using-deep-learning-techniques-5mn)
+- [From Dockerfile to Deployment: A Simple Guide for New Developers](https://dev.to/sir-j/from-dockerfile-to-deployment-a-simple-guide-for-new-developers-2mjh)
+- [swapping in array](https://dev.to/neelakandan_ravi_2000/swapping-in-array-20a5)
+- [Project Translate: The Translate API &lpar;Part 4&rpar;](https://dev.to/__dbrown__/project-translate-the-translate-api-part-4-1726)
 <!-- BLOG-POST-LIST:END -->
 
