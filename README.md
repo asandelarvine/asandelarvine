@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Performance Apps with Redis, PostgreSQL &amp; Spring Boot](https://dev.to/olymahmud/building-high-performance-apps-with-redis-postgresql-spring-boot-3m36)
-- [&quot;Unlocking Efficiency: LServe&#39;s Breakthrough in Long-Sequence LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-lserves-breakthrough-in-long-sequence-llms-2hnb)
-- [Why Use a Schema Comparison Tool for SQL Server?](https://dev.to/samantha_brauer/why-use-a-schema-comparison-tool-for-sql-server-42me)
-- [Accuracy and Reliability of AI Models – A Look at Recent Evaluations](https://dev.to/englishchatcast/accuracy-and-reliability-of-ai-models-a-look-at-recent-evaluations-3l3c)
+- [Tailwind css](https://dev.to/binarysunrise/tailwind-css-3j1o)
+- [Web Page Not updating on back navigation? The bfcache Problem and Fix](https://dev.to/riyanegi/web-page-not-updating-on-back-navigation-the-bfcache-problem-and-fix-954)
+- [GitOps Adoption](https://dev.to/neeljyo/gitops-adoption-e4k)
+- [🚀 Open-Source Financial Dashboard – Track &amp; Manage Your Money! 💰](https://dev.to/reactjsguru/open-source-financial-dashboard-track-manage-your-money-1jg1)
 <!-- BLOG-POST-LIST:END -->
 
