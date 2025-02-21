@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind css](https://dev.to/binarysunrise/tailwind-css-3j1o)
-- [Web Page Not updating on back navigation? The bfcache Problem and Fix](https://dev.to/riyanegi/web-page-not-updating-on-back-navigation-the-bfcache-problem-and-fix-954)
-- [GitOps Adoption](https://dev.to/neeljyo/gitops-adoption-e4k)
-- [🚀 Open-Source Financial Dashboard – Track &amp; Manage Your Money! 💰](https://dev.to/reactjsguru/open-source-financial-dashboard-track-manage-your-money-1jg1)
+- [Mengoptimalkan Proses Pengembangan dengan Docker Compose](https://dev.to/joniss/mengoptimalkan-proses-pengembangan-dengan-docker-compose-34k1)
+- [3D Data World Explorer](https://dev.to/carban/3d-data-world-explorer-po9)
+- [Ghost models and spooky manifests in dbt](https://dev.to/panasenco/ghost-models-and-spooky-manifests-in-dbt-o78)
+- [JavaScript schema library from the Future 🧬](https://dev.to/dzakh/javascript-schema-library-from-the-future-5420)
 <!-- BLOG-POST-LIST:END -->
 
