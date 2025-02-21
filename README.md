@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancements in Age and Gender Recognition Using Deep Learning Techniques](https://dev.to/faceplugin/advancements-in-age-and-gender-recognition-using-deep-learning-techniques-5mn)
-- [From Dockerfile to Deployment: A Simple Guide for New Developers](https://dev.to/sir-j/from-dockerfile-to-deployment-a-simple-guide-for-new-developers-2mjh)
-- [swapping in array](https://dev.to/neelakandan_ravi_2000/swapping-in-array-20a5)
-- [Project Translate: The Translate API &lpar;Part 4&rpar;](https://dev.to/__dbrown__/project-translate-the-translate-api-part-4-1726)
+- [Unleashing Creativity with Muse: Microsoft’s AI Game Changer](https://dev.to/aniruddhaadak/unleashing-creativity-with-muse-microsofts-ai-game-changer-56j9)
+- [How One Project Listing Trick Turned a Zero-Budget Startup Into a Million-Dollar Empire!](https://dev.to/resource_bunk_1077cab07da/how-one-project-listing-trick-turned-a-zero-budget-startup-into-a-million-dollar-empire-20fj)
+- [10 API Programming Tricks That Will Make You a 10x Dev. in 2025](https://dev.to/snappytuts/10-api-programming-tricks-that-will-make-you-a-10x-dev-in-2025-4hae)
+- [Lifecycle Methods and Introduction to Hooks](https://dev.to/johnschibelli/lifecycle-methods-and-introduction-to-hooks-5fj)
 <!-- BLOG-POST-LIST:END -->
 
