@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mengoptimalkan Proses Pengembangan dengan Docker Compose](https://dev.to/joniss/mengoptimalkan-proses-pengembangan-dengan-docker-compose-34k1)
-- [3D Data World Explorer](https://dev.to/carban/3d-data-world-explorer-po9)
-- [Ghost models and spooky manifests in dbt](https://dev.to/panasenco/ghost-models-and-spooky-manifests-in-dbt-o78)
-- [JavaScript schema library from the Future 🧬](https://dev.to/dzakh/javascript-schema-library-from-the-future-5420)
+- [The Unseen Influence of Past Job Experiences on Your Interview](https://dev.to/umitic/the-unseen-influence-of-past-job-experiences-on-your-interview-1578)
+- [Understanding OWASP Top 10 for LLMs: A Layman’s Guide](https://dev.to/sivolko/understanding-owasp-top-10-for-llms-a-laymans-guide-3c47)
+- [Top 10 Strategies for Cloud Cost Optimization in 2025](https://dev.to/cloudpilot-ai/top-10-strategies-for-cloud-cost-optimization-in-2025-1mn6)
+- [How to design A Rate Limiter](https://dev.to/mryankee2k1/how-to-design-a-rate-limiter-3kcb)
 <!-- BLOG-POST-LIST:END -->
 
