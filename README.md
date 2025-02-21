@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Creativity with Muse: Microsoft’s AI Game Changer](https://dev.to/aniruddhaadak/unleashing-creativity-with-muse-microsofts-ai-game-changer-56j9)
-- [How One Project Listing Trick Turned a Zero-Budget Startup Into a Million-Dollar Empire!](https://dev.to/resource_bunk_1077cab07da/how-one-project-listing-trick-turned-a-zero-budget-startup-into-a-million-dollar-empire-20fj)
-- [10 API Programming Tricks That Will Make You a 10x Dev. in 2025](https://dev.to/snappytuts/10-api-programming-tricks-that-will-make-you-a-10x-dev-in-2025-4hae)
-- [Lifecycle Methods and Introduction to Hooks](https://dev.to/johnschibelli/lifecycle-methods-and-introduction-to-hooks-5fj)
+- [Go Panic and Recover: A Deep Dive into Error Handling](https://dev.to/leapcell/go-panic-and-recover-a-deep-dive-into-error-handling-56be)
+- [In-depth Guide to net/netip Prefix Methods 7/7](https://dev.to/rezmoss/in-depth-guide-to-netnetip-prefix-methods-77-4b3c)
+- [Leveraging parallel computing in Node.js](https://dev.to/logrocket/leveraging-parallel-computing-in-nodejs-41ll)
+- [Survival Guide: Why You Should Pursue and how to excel in the AWS Cloud Practitioner Exam](https://dev.to/henniefrancis/survival-guide-why-you-should-pursue-and-how-to-excel-in-the-aws-cloud-practitioner-exam-2016)
 <!-- BLOG-POST-LIST:END -->
 
