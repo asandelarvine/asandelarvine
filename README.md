@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Essential Linux Bash Commands Every Aspiring DevOps Must Know](https://dev.to/knight03/25-essential-linux-bash-commands-every-aspiring-devops-must-know-17cl)
-- [PEP and PDP for Secure Authorization with AVP](https://dev.to/aws-heroes/pep-and-pdp-for-secure-authorization-with-avp-290c)
-- [What&#39;s your opinion on &quot;One PR per Day Rule&quot; at workplace?](https://dev.to/gleuzio/whats-your-opinion-on-one-pr-per-day-rule-at-workplace-158)
-- [State Management with Pinia vs Vuex](https://dev.to/robin-ivi/state-management-with-pinia-vs-vuex-4mh)
+- [it&#39;s not Hacking, Just Coding](https://dev.to/maheswaripinneti/its-not-hacking-just-coding-47e3)
+- [Don&#39;t use React imports like this. Use Wrapper Pattern instead](https://dev.to/perisicnikola37/dont-use-react-imports-like-this-use-wrapper-pattern-instead-124p)
+- [Developing a Camera-Based Barcode Scanner in .NET MAUI for Windows Desktop](https://dev.to/yushulx/developing-a-camera-based-barcode-scanner-in-net-maui-for-windows-desktop-1aei)
+- [Implementing Layer and MLP Classes in micrograd &lpar;As Explained By Karpathy&rpar;](https://dev.to/shrsv/karpathy-10-45ih)
 <!-- BLOG-POST-LIST:END -->
 
