@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking to Contribute to Open Source, Preferably New Ideas](https://dev.to/mihastele/looking-to-contribute-to-open-source-preferably-new-ideas-b6)
+- [Installing Golang on Windows WSL/WSL2](https://dev.to/sonishivam10/installing-golang-on-windows-wslwsl2-3pn5)
+- [Wrote a new blog after a while!](https://dev.to/adityaoberai/-2iej)
 - [I need help deciding how to build my idea.](https://dev.to/james_courtney_5881df299c/i-need-help-deciding-how-to-build-my-idea-a2k)
-- [10 Open-Source Documentation Frameworks to Check Out](https://dev.to/silviaodwyer/10-open-source-documentation-frameworks-to-check-out-331f)
-- [How I built an AI-Powered Code Reviewer &lpar;and you can too&rpar;.](https://dev.to/manasmoon_/how-i-built-an-ai-powered-code-reviewer-and-you-can-too-2fk4)
-- [From Layoff to Launch to Landing first 500 users in a month. Here is my story](https://dev.to/splattersoftware/from-layoff-to-launch-to-landing-first-500-users-in-a-month-here-is-my-story-36fe)
 <!-- BLOG-POST-LIST:END -->
 
