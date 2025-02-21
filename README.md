@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 JavaScript Design Patterns Every Developer Should Know](https://dev.to/sovannaro/10-javascript-design-patterns-every-developer-should-know-n0m)
-- [🌟 Nullish Coalescing Operator &lpar;??&rpar; vs OR &lpar;||&rpar; in JavaScript : When to Use Each?](https://dev.to/dzungnt98/nullish-coalescing-operator-vs-or-in-javascript-when-to-use-each-1pi0)
-- [Blockchain and Proxy IP: Creating a More Secure and Decentralized Proxy Network](https://dev.to/98ip/blockchain-and-proxy-ip-creating-a-more-secure-and-decentralized-proxy-network-4il)
-- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-11a1)
+- [Complement a certain average value to ensure that the total sum remains unchanged — From SQL to SPL #3](https://dev.to/judith677/complement-a-certain-average-value-to-ensure-that-the-total-sum-remains-unchanged-from-sql-to-spl-4mn)
+- [What role does AI play in modern travel management systems?](https://dev.to/itour_operatorsoftware_8/what-role-does-ai-play-in-modern-travel-management-systems-6k8)
+- [Github Codespaces: A different way to code](https://dev.to/pooyan/github-codespaces-a-different-way-to-code-5af4)
+- [Introducing DeepSearcher: A Local Open Source Deep Research](https://dev.to/zilliz/introducing-deepsearcher-a-local-open-source-deep-research-52kh)
 <!-- BLOG-POST-LIST:END -->
 
