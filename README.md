@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Raghu&#39;s View on Software Development](https://dev.to/tofukali/raghus-view-on-software-development-31hp)
-- [20 Scary Programming Theories You Should Know](https://dev.to/hi1talib1world/20-scary-programming-theories-you-should-know-3nn3)
-- [What the Heck is HTMX?](https://dev.to/gervaisamoah/what-the-heck-is-htmx-580n)
-- [API Testing for DummyJSON Endpoints using Postman](https://dev.to/loveline/api-testing-for-dummyjson-endpoints-using-postman-41in)
+- [No Code Low Code based Enterprise Application Architecture](https://dev.to/vaseem_anjum_b1050bcfaffe/no-code-low-code-based-enterprise-application-architecture-3ine)
+- [Creating a Minimal Container in Go: A Step-by-Step Guide &lpar; part 1 &rpar;](https://dev.to/micromax/creating-a-minimal-container-in-go-a-step-by-step-guide-283b)
+- [🚀 Terminal Tricks: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/terminal-tricks-essential-tips-and-tricks-for-developers-3no8)
+- [ElasticTransform in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-1-56fc)
 <!-- BLOG-POST-LIST:END -->
 
