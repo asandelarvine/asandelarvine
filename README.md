@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unseen Influence of Past Job Experiences on Your Interview](https://dev.to/umitic/the-unseen-influence-of-past-job-experiences-on-your-interview-1578)
-- [Understanding OWASP Top 10 for LLMs: A Layman’s Guide](https://dev.to/sivolko/understanding-owasp-top-10-for-llms-a-laymans-guide-3c47)
-- [Top 10 Strategies for Cloud Cost Optimization in 2025](https://dev.to/cloudpilot-ai/top-10-strategies-for-cloud-cost-optimization-in-2025-1mn6)
-- [How to design A Rate Limiter](https://dev.to/mryankee2k1/how-to-design-a-rate-limiter-3kcb)
+- [I need help deciding how to build my idea.](https://dev.to/james_courtney_5881df299c/i-need-help-deciding-how-to-build-my-idea-a2k)
+- [10 Open-Source Documentation Frameworks to Check Out](https://dev.to/silviaodwyer/10-open-source-documentation-frameworks-to-check-out-331f)
+- [How I built an AI-Powered Code Reviewer &lpar;and you can too&rpar;.](https://dev.to/manasmoon_/how-i-built-an-ai-powered-code-reviewer-and-you-can-too-2fk4)
+- [From Layoff to Launch to Landing first 500 users in a month. Here is my story](https://dev.to/splattersoftware/from-layoff-to-launch-to-landing-first-500-users-in-a-month-here-is-my-story-36fe)
 <!-- BLOG-POST-LIST:END -->
 
