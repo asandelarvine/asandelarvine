@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [♎Creating Mock Server for APIs: Postman or Apidog🤔](https://dev.to/apilover/creating-mock-server-for-apis-postman-or-apidog-38jd)
-- [What is a pharma sales consultant? Definition, duties and responsibilities](https://dev.to/pharmacrm/what-is-a-pharma-sales-consultant-definition-duties-and-responsibilities-kb9)
-- [How to style a PCF like a standard Model Driven App control](https://dev.to/_neronotte/how-to-style-a-pcf-like-a-standard-model-driven-app-control-1eeb)
-- [The Future of Forex Trading: AI and Real-Time Data Integration](https://dev.to/shridhargv/the-future-of-forex-trading-ai-and-real-time-data-integration-h06)
+- [Day 5: Managing User Input with Forms](https://dev.to/rishav_upadhaya/day-5-managing-user-input-with-forms-mjd)
+- [Create a personal website for Free](https://dev.to/sahil222/create-a-personal-website-for-free-3h31)
+- [How to Build a Fault-Tolerant Microservice for Payment Retries](https://dev.to/flutterwaveeng/how-to-build-a-fault-tolerant-microservice-for-payment-retries-5epg)
+- [Discover the Future of Tech: Trending GitHub Projects Revolutionizing AI and Development 🚀](https://dev.to/bruh_buh_f683772f171823db/discover-the-future-of-tech-trending-github-projects-revolutionizing-ai-and-development-57g8)
 <!-- BLOG-POST-LIST:END -->
 
