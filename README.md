@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Code Low Code based Enterprise Application Architecture](https://dev.to/vaseem_anjum_b1050bcfaffe/no-code-low-code-based-enterprise-application-architecture-3ine)
-- [Creating a Minimal Container in Go: A Step-by-Step Guide &lpar; part 1 &rpar;](https://dev.to/micromax/creating-a-minimal-container-in-go-a-step-by-step-guide-283b)
-- [🚀 Terminal Tricks: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/terminal-tricks-essential-tips-and-tricks-for-developers-3no8)
-- [ElasticTransform in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-1-56fc)
+- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-11a1)
+- [TIL: 3️⃣ ways I use Large Language Models to increase learning efficiency](https://dev.to/mrzaizai2k/til-3-ways-i-use-large-language-models-to-increase-learning-efficiency-6i5)
+- [How Django Finds Static and Template Files: A Quick Guide](https://dev.to/jjokah/how-django-finds-static-and-template-files-a-quick-guide-dk6)
+- [Magic Methods in PHP: Why Programmers Need Magic Too](https://dev.to/ianpatricck/magic-methods-in-php-why-programmers-need-magic-too-2f02)
 <!-- BLOG-POST-LIST:END -->
 
