@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: Managing User Input with Forms](https://dev.to/rishav_upadhaya/day-5-managing-user-input-with-forms-mjd)
-- [Create a personal website for Free](https://dev.to/sahil222/create-a-personal-website-for-free-3h31)
-- [How to Build a Fault-Tolerant Microservice for Payment Retries](https://dev.to/flutterwaveeng/how-to-build-a-fault-tolerant-microservice-for-payment-retries-5epg)
-- [Discover the Future of Tech: Trending GitHub Projects Revolutionizing AI and Development 🚀](https://dev.to/bruh_buh_f683772f171823db/discover-the-future-of-tech-trending-github-projects-revolutionizing-ai-and-development-57g8)
+- [Evaluating ChatGPT-4o&#39;s Performance in Creating Python Smart Contracts for Xian Blockchain](https://dev.to/crosschainer/evaluating-chatgpt-4os-performance-in-creating-python-smart-contracts-for-xian-blockchain-1eck)
+- [🚀 API Design: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/api-design-essential-tips-and-tricks-for-developers-1ikm)
+- [Fine-Tuning Resource Priorities: The Power of fetchpriority](https://dev.to/leapcell/fine-tuning-resource-priorities-the-power-of-fetchpriority-8ic)
+- [Discover Your Love Language with your loved ones.](https://dev.to/web_dev-usman/discover-your-love-language-with-your-loved-ones-5a23)
 <!-- BLOG-POST-LIST:END -->
 
