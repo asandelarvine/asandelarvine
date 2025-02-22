@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a List of Hooks in a WordPress Plugin](https://dev.to/muhammadmedhat/how-to-get-a-list-of-hooks-in-a-wordpress-plugin-3hf9)
-- [RandomAffine in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-2-3d3a)
-- [RandomAffine in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-1-2j6j)
-- [AI in Web Development – Is It Replacing Developers or Making Us 10x Faster?](https://dev.to/bigya/ai-in-web-development-is-it-replacing-developers-or-making-us-10x-faster-4f3h)
+- [Build RAG Chatbot with LangChain, Milvus, Anthropic Claude 3 Haiku, and voyage-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-anthropic-claude-3-haiku-and-voyage-3-large-25na)
+- [COBOL Fundamentals: Data Types &amp; Variables](https://dev.to/stephenkjohnston/cobol-fundamentals-data-types-variables-180d)
+- [🚀 Docker Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/docker-tips-essential-tips-and-tricks-for-developers-62l)
+- [Javascript Loops Cheatsheet](https://dev.to/kellyluu/javascript-loops-cheatsheet-4fad)
 <!-- BLOG-POST-LIST:END -->
 
