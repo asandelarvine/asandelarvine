@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Creation of Dr. Arthur Yeh’s Website: Planning, Design, and Development Phases](https://dev.to/sofiahedez/the-creation-of-dr-arthur-yehs-website-planning-design-and-development-phases-2ebd)
-- [Playwright-graphql: Revolutionize GraphQL Testing with Auto-Generated Type-Safe Client](https://dev.to/danteukraine/playwright-graphql-revolutionize-graphql-testing-with-auto-generated-type-safe-client-4i1l)
-- [What are the pros and cons of headless CMS vs. traditional CMS?](https://dev.to/jaykrishna_dogne/what-are-the-pros-and-cons-of-headless-cms-vs-traditional-cms-30ij)
-- [How to Copy files from Docker container to host?](https://dev.to/iamrj846/how-to-copy-files-from-docker-container-to-host-2kf4)
+- [AI won&#39;t take your job, those who use AI will.](https://dev.to/luk_rauf/ai-wont-take-your-job-those-who-use-ai-will-19c0)
+- [Untitled](https://dev.to/aylak_adamlar_9e87b58ae9b/untitled-eog)
+- [Replacing App Center with GitHub Actions](https://dev.to/vandebron/replacing-app-center-with-github-actions-emd)
+- [How to implement structured data for better SEO results?](https://dev.to/jaykrishna_dogne/how-to-implement-structured-data-for-better-seo-results-5bn4)
 <!-- BLOG-POST-LIST:END -->
 
