@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency with Goroutines](https://dev.to/godofgeeks/concurrency-with-goroutines-1g9p)
-- [MLGym: New Testing Framework Reveals Current AI Systems Excel at Data Analysis but Struggle with Creative Research](https://dev.to/mikeyoung44/mlgym-new-testing-framework-reveals-current-ai-systems-excel-at-data-analysis-but-struggle-with-5b2h)
-- [AI Language Models Show Major Gaps in Understanding Cultural Cooking Instructions](https://dev.to/mikeyoung44/ai-language-models-show-major-gaps-in-understanding-cultural-cooking-instructions-2a06)
-- [Boosting Developer Productivity: How Blackbird Simplifies Workflows &amp; Reduces Hassle](https://dev.to/getambassador2024/boosting-developer-productivity-how-blackbird-simplifies-workflows-reduces-hassle-78n)
+- [🔒 Renew Your SSL Certificate Like a Pro in 2024!](https://dev.to/hoainhoblogdev/renew-your-ssl-certificate-like-a-pro-in-2024-3463)
+- [Quick AWS Console Navigation: A Chrome Search Engine Hack The Problem](https://dev.to/hoangquochung1110/quick-aws-console-navigation-a-chrome-search-engine-hack-the-problem-4cnc)
+- [WebRTC Explained Simply: Your Ticket to Real-Time Web Magic](https://dev.to/expressturn/webrtc-explained-simply-your-ticket-to-real-time-web-magic-4o49)
+- [Advanced Routing Techniques in Next.js](https://dev.to/rowsanali/advanced-routing-techniques-in-nextjs-1189)
 <!-- BLOG-POST-LIST:END -->
 
