@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI won&#39;t take your job, those who use AI will.](https://dev.to/luk_rauf/ai-wont-take-your-job-those-who-use-ai-will-19c0)
-- [Untitled](https://dev.to/aylak_adamlar_9e87b58ae9b/untitled-eog)
-- [Replacing App Center with GitHub Actions](https://dev.to/vandebron/replacing-app-center-with-github-actions-emd)
-- [How to implement structured data for better SEO results?](https://dev.to/jaykrishna_dogne/how-to-implement-structured-data-for-better-seo-results-5bn4)
+- [FSLogix v3: Microsoft’s Quiet Comeback for VDI Warriors](https://dev.to/amalkabraham001/fslogix-v3-microsofts-quiet-comeback-for-vdi-warriors-do6)
+- [Why Computers Fail At Chess](https://dev.to/fabianfrankwerner/why-computers-fail-at-chess-1hil)
+- [Architecture Guide: Building Scalable React &lpar;or React Native&rpar; Apps with Zustand &amp; React Query](https://dev.to/neetigyachahar/architecture-guide-building-scalable-react-or-react-native-apps-with-zustand-react-query-1nn4)
+- [Credit Card Payment Form](https://dev.to/oluwa_shocker05/credit-card-payment-form-3833)
 <!-- BLOG-POST-LIST:END -->
 
