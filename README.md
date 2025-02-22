@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML: ¿Para qué sirve y qué son sus etiquetas?](https://dev.to/johnserranodev/html-para-que-sirve-y-que-son-sus-etiquetas-228d)
-- [VSCode Extensions - Adding Paid Features](https://dev.to/shawnroller/vscode-extensions-adding-paid-features-1noa)
-- [Creating the Paramus Park Oral Surgery Website: A Comprehensive Guide to Planning, Design, and Development](https://dev.to/noahnson/creating-the-paramus-park-oral-surgery-website-a-comprehensive-guide-to-planning-design-and-2fl1)
-- [Observability Made Easy: Adding Logs, Traces &amp; Metrics to FastAPI with Logfire](https://dev.to/devgeetech/observability-made-easy-adding-logs-traces-metrics-to-fastapi-with-logfire-529l)
+- [AI Chat App template — Next.js, Vercel AI SDK, Firebase](https://dev.to/shreyvijayvargiya/ai-chat-app-template-nextjs-vercel-ai-sdk-firebase-1dej)
+- [Evita sorpresas en tu factura de AWS con Budget Alerts](https://dev.to/briansuarezsantiago/evita-sorpresas-en-tu-factura-de-aws-j2a)
+- [Mastering SSR &amp; CSR in Next.js with GraphQL – With and Without Apollo](https://dev.to/hijazi313/mastering-ssr-csr-in-nextjs-with-graphql-with-and-without-apollo-17c5)
+- [Clojure Is Awesome!!! [PART 13]](https://dev.to/borba/clojure-is-awesome-part-13-1ao4)
 <!-- BLOG-POST-LIST:END -->
 
