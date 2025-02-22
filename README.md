@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a REST API with Django REST Framework: A Beginners Guide](https://dev.to/kihuni/building-a-rest-api-with-django-rest-framework-a-beginners-guide-1b1n)
-- [🚀 React 19: The Coolest Updates You Can&#39;t Miss! 😎](https://dev.to/neetigyachahar/react-19-the-coolest-updates-you-cant-miss-3blh)
-- [Is the Binance Effect Dead? Why New Listings No Longer Guarantee Profits](https://dev.to/lado_okhotnikov/is-the-binance-effect-dead-why-new-listings-no-longer-guarantee-profits-34i8)
-- [Setting Up a Kubernetes Cluster and More](https://dev.to/devcorner/setting-up-a-kubernetes-cluster-and-more-340b)
+- [Concurrency with Goroutines](https://dev.to/godofgeeks/concurrency-with-goroutines-1g9p)
+- [MLGym: New Testing Framework Reveals Current AI Systems Excel at Data Analysis but Struggle with Creative Research](https://dev.to/mikeyoung44/mlgym-new-testing-framework-reveals-current-ai-systems-excel-at-data-analysis-but-struggle-with-5b2h)
+- [AI Language Models Show Major Gaps in Understanding Cultural Cooking Instructions](https://dev.to/mikeyoung44/ai-language-models-show-major-gaps-in-understanding-cultural-cooking-instructions-2a06)
+- [Boosting Developer Productivity: How Blackbird Simplifies Workflows &amp; Reduces Hassle](https://dev.to/getambassador2024/boosting-developer-productivity-how-blackbird-simplifies-workflows-reduces-hassle-78n)
 <!-- BLOG-POST-LIST:END -->
 
