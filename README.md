@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Removability And Repairability Of WPC Door Frames](https://dev.to/monica6656/removability-and-repairability-of-wpc-door-frames-2ipc)
-- [Winter Festival Scratch Ticket 🎭](https://dev.to/boglarkasebestyen/winter-festival-scratch-ticket-4ae2)
-- [Framer Premium Templates: The Ultimate Guide to Stunning Website Designs](https://dev.to/pentaclay/framer-premium-templates-the-ultimate-guide-to-stunning-website-designs-4eag)
-- [Amor Mio](https://dev.to/kees_7874d132ecaa0b674c93/amor-mio-5537)
+- [The Hidden Language of the Web: A Deep Dive into HTTP Status Codes](https://dev.to/kedark/the-hidden-language-of-the-web-a-deep-dive-into-http-status-codes-2og9)
+- [Reveision java](https://dev.to/yaswanth_krishna_81faee1e/reveision-java-p54)
+- [3rd-Color: Best App for Colors](https://dev.to/mfm347/3rd-color-best-app-for-colors-4f1p)
+- [AWS Lambda SnapStart](https://dev.to/pooyan/aws-lambda-snapstart-31ma)
 <!-- BLOG-POST-LIST:END -->
 
