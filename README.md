@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Living Words](https://dev.to/pitel_market_33dbf8abec22/living-words-18c7)
-- [Mastering Vim: A Step-by-Step Guide to Essential Commands](https://dev.to/devcorner/mastering-vim-a-step-by-step-guide-to-essential-commands-k1b)
-- [Implementing Formique in Vue.js: A Comprehensive Guide](https://dev.to/gugulethu_nyoni/implementing-formique-in-vuejs-a-comprehensive-guide-2m57)
-- [Understanding Version Control with ~ and ^ in package.json](https://dev.to/manthanank/understanding-version-control-with-and-in-packagejson-h7g)
+- [Building a REST API with Django REST Framework: A Beginners Guide](https://dev.to/kihuni/building-a-rest-api-with-django-rest-framework-a-beginners-guide-1b1n)
+- [🚀 React 19: The Coolest Updates You Can&#39;t Miss! 😎](https://dev.to/neetigyachahar/react-19-the-coolest-updates-you-cant-miss-3blh)
+- [Is the Binance Effect Dead? Why New Listings No Longer Guarantee Profits](https://dev.to/lado_okhotnikov/is-the-binance-effect-dead-why-new-listings-no-longer-guarantee-profits-34i8)
+- [Setting Up a Kubernetes Cluster and More](https://dev.to/devcorner/setting-up-a-kubernetes-cluster-and-more-340b)
 <!-- BLOG-POST-LIST:END -->
 
