@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ [8] - Custom Navigation Header with Search Bar in React Native Expo](https://dev.to/skipperhoa/8-custom-navigation-header-with-search-bar-in-react-native-expo-4o3m)
-- [🧠🤖AI code assistant 3 &lpar;fast and safe &lpar;Cursor&rpar;&rpar;](https://dev.to/webdeveloperhyper/ai-code-assistant-3-fast-and-safe-cursor-38gm)
-- [Backtracking Unveiled: Mastering Depth-First Search and Pruning Techniques](https://dev.to/frorning/backtracking-unveiled-mastering-depth-first-search-and-pruning-techniques-251c)
-- [🔥 Stop Duplicate Data! How Redis Locks Saved Our App from Firestore Trigger Chaos](https://dev.to/cuongnp/stop-duplicate-data-how-redis-locks-saved-our-app-from-firestore-trigger-chaos-36dj)
+- [Fighting with Quick sort](https://dev.to/vasutamil19/fighting-with-quick-sort-412k)
+- [🛠️ Resolving GRUB Boot Issues After Reinstalling Windows 11 in a Dual-Boot Setup](https://dev.to/khurammurad/resolving-grub-boot-issues-after-reinstalling-windows-11-in-a-dual-boot-setup-5g12)
+- [Easiest way to implement Social Login Google and Email-Based Authentication using Better Auth, Next.js, and Tailwind CSS](https://dev.to/shahidkhans/easiest-way-to-implement-social-login-google-and-email-based-authentication-using-better-auth-1la3)
+- [Table-Valued Parameters in SQL Server](https://dev.to/shreyans_padmani/table-valued-parameters-in-sql-server-3pnk)
 <!-- BLOG-POST-LIST:END -->
 
