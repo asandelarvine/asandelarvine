@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your Own Twitter Wrapped App in 30 Minutes with Zero Cost 🚀](https://dev.to/kaito2046/how-to-build-your-own-twitter-wrapped-app-in-30-minutes-with-zero-cost-99n)
-- [Your Favorite Apps Are Spying on You &lpar;Yes, Even That One&rpar; 👀](https://dev.to/panicatthekernel/your-favorite-apps-are-spying-on-you-yes-even-that-one-4n2g)
-- [Bootstrap vs Tailwind CSS](https://dev.to/dahami_fabbio/bootstrap-vs-tailwind-css-ei3)
-- [🔓 Free Your Ports in One Command 🚀](https://dev.to/abgeo/free-your-ports-in-one-command-2kio)
+- [The Creation of Dr. Arthur Yeh’s Website: Planning, Design, and Development Phases](https://dev.to/sofiahedez/the-creation-of-dr-arthur-yehs-website-planning-design-and-development-phases-2ebd)
+- [Playwright-graphql: Revolutionize GraphQL Testing with Auto-Generated Type-Safe Client](https://dev.to/danteukraine/playwright-graphql-revolutionize-graphql-testing-with-auto-generated-type-safe-client-4i1l)
+- [What are the pros and cons of headless CMS vs. traditional CMS?](https://dev.to/jaykrishna_dogne/what-are-the-pros-and-cons-of-headless-cms-vs-traditional-cms-30ij)
+- [How to Copy files from Docker container to host?](https://dev.to/iamrj846/how-to-copy-files-from-docker-container-to-host-2kf4)
 <!-- BLOG-POST-LIST:END -->
 
