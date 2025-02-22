@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok-3: A Paradigm Shift in AI-Driven Software Development](https://dev.to/zeenox-stack/grok-3-a-paradigm-shift-in-ai-driven-software-development-6ol)
-- [&quot;Unlocking Efficiency: LServe&#39;s Breakthrough in Long-Sequence LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-lserves-breakthrough-in-long-sequence-llms-8ni)
-- [production-level Node.js project for a simple note-taking application](https://dev.to/kishan45/production-level-nodejs-project-for-a-simple-note-taking-application-1ghi)
-- [Dynamic Data Tables Concept in Flask](https://dev.to/sm0ke/dynamic-data-tables-concept-in-flask-39c7)
+- [Detect Unused Classes in Laravel](https://dev.to/tegos/detect-unused-classes-in-laravel-2jjm)
+- [How AI is Changing Software Development: Will Developers Be Replaced?](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-is-changing-software-development-will-developers-be-replaced-1i18)
+- [Laravel modular folder structure](https://dev.to/xwero/laravel-modular-folder-structure-4a94)
+- [Understanding Pass-Through Authentication &lpar;PTA&rpar; and Password Hash Synchronization &lpar;PHS&rpar;](https://dev.to/sachindra149/understanding-pass-through-authentication-pta-and-password-hash-synchronization-phs-412n)
 <!-- BLOG-POST-LIST:END -->
 
