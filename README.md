@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/alaa-samy/-1jbj)
-- [Macros vs. Functions in Rust: When to Use Which?](https://dev.to/leapcell/macros-vs-functions-in-rust-when-to-use-which-fh)
-- [Clean Code in JavaScript: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/clean-code-in-javascript-a-comprehensive-guide-152j)
-- [How to add ShadCN to an electron-vite project.](https://dev.to/nedwize/how-to-add-shadcn-to-an-electron-vite-project-dn)
+- [HTML: ¿Para qué sirve y qué son sus etiquetas?](https://dev.to/johnserranodev/html-para-que-sirve-y-que-son-sus-etiquetas-228d)
+- [VSCode Extensions - Adding Paid Features](https://dev.to/shawnroller/vscode-extensions-adding-paid-features-1noa)
+- [Creating the Paramus Park Oral Surgery Website: A Comprehensive Guide to Planning, Design, and Development](https://dev.to/noahnson/creating-the-paramus-park-oral-surgery-website-a-comprehensive-guide-to-planning-design-and-2fl1)
+- [Observability Made Easy: Adding Logs, Traces &amp; Metrics to FastAPI with Logfire](https://dev.to/devgeetech/observability-made-easy-adding-logs-traces-metrics-to-fastapi-with-logfire-529l)
 <!-- BLOG-POST-LIST:END -->
 
