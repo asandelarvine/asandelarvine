@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Someone Help Me Build My Website for my startup? I Need Guidance!](https://dev.to/sashankar_bhuyan/can-someone-help-me-build-my-website-for-my-startup-i-need-guidance-l86)
-- [How AI Can Help Startups Scale Faster Without Hiring More People](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-can-help-startups-scale-faster-without-hiring-more-people-416a)
-- [How to Automatically Disable Bluetooth and WiFi on MacBook Sleep](https://dev.to/shawon/how-to-automatically-disable-bluetooth-and-wifi-on-macbook-sleep-17o9)
-- [3.4 Indo mais afundo: primeiros detalhes](https://dev.to/fundamentosjava/34-indo-mais-afundo-primeiros-detalhes-51o3)
+- [How Portsicle works!](https://dev.to/amitsuthar69/how-portsicle-works-24k6)
+- [Building Your Dream Desktop](https://dev.to/cesilcarus/building-your-dream-desktop-dch)
+- [Estudos em Python - Objeto iterável](https://dev.to/douglasamarelo/estudos-em-python-objeto-iteravel-4a98)
+- [Building an AI-Powered Document Retrieval System with Docling and Granite 3.1](https://dev.to/aairom/building-an-ai-powered-document-retrieval-system-with-docling-and-granite-31-2dib)
 <!-- BLOG-POST-LIST:END -->
 
