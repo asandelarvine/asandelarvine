@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detect Unused Classes in Laravel](https://dev.to/tegos/detect-unused-classes-in-laravel-2jjm)
-- [How AI is Changing Software Development: Will Developers Be Replaced?](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-is-changing-software-development-will-developers-be-replaced-1i18)
-- [Laravel modular folder structure](https://dev.to/xwero/laravel-modular-folder-structure-4a94)
-- [Understanding Pass-Through Authentication &lpar;PTA&rpar; and Password Hash Synchronization &lpar;PHS&rpar;](https://dev.to/sachindra149/understanding-pass-through-authentication-pta-and-password-hash-synchronization-phs-412n)
+- [Can Someone Help Me Build My Website for my startup? I Need Guidance!](https://dev.to/sashankar_bhuyan/can-someone-help-me-build-my-website-for-my-startup-i-need-guidance-l86)
+- [How AI Can Help Startups Scale Faster Without Hiring More People](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-can-help-startups-scale-faster-without-hiring-more-people-416a)
+- [How to Automatically Disable Bluetooth and WiFi on MacBook Sleep](https://dev.to/shawon/how-to-automatically-disable-bluetooth-and-wifi-on-macbook-sleep-17o9)
+- [3.4 Indo mais afundo: primeiros detalhes](https://dev.to/fundamentosjava/34-indo-mais-afundo-primeiros-detalhes-51o3)
 <!-- BLOG-POST-LIST:END -->
 
