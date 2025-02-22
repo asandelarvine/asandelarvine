@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fighting with Quick sort](https://dev.to/vasutamil19/fighting-with-quick-sort-412k)
-- [🛠️ Resolving GRUB Boot Issues After Reinstalling Windows 11 in a Dual-Boot Setup](https://dev.to/khurammurad/resolving-grub-boot-issues-after-reinstalling-windows-11-in-a-dual-boot-setup-5g12)
-- [Easiest way to implement Social Login Google and Email-Based Authentication using Better Auth, Next.js, and Tailwind CSS](https://dev.to/shahidkhans/easiest-way-to-implement-social-login-google-and-email-based-authentication-using-better-auth-1la3)
-- [Table-Valued Parameters in SQL Server](https://dev.to/shreyans_padmani/table-valued-parameters-in-sql-server-3pnk)
+- [How to Build Your Own Twitter Wrapped App in 30 Minutes with Zero Cost 🚀](https://dev.to/kaito2046/how-to-build-your-own-twitter-wrapped-app-in-30-minutes-with-zero-cost-99n)
+- [Your Favorite Apps Are Spying on You &lpar;Yes, Even That One&rpar; 👀](https://dev.to/panicatthekernel/your-favorite-apps-are-spying-on-you-yes-even-that-one-4n2g)
+- [Bootstrap vs Tailwind CSS](https://dev.to/dahami_fabbio/bootstrap-vs-tailwind-css-ei3)
+- [🔓 Free Your Ports in One Command 🚀](https://dev.to/abgeo/free-your-ports-in-one-command-2kio)
 <!-- BLOG-POST-LIST:END -->
 
