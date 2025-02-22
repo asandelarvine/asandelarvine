@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Host LLMs from Your Laptop Using LM Studio and Pinggy](https://dev.to/lightningdev123/host-llms-from-your-laptop-using-lm-studio-and-pinggy-2c30)
-- [Unveiling the Magic: How Terraform Works Under the Hood to Manage Your Infrastructure as Code](https://dev.to/robert_coffie/unveiling-the-magic-how-terraform-works-under-the-hood-to-manage-your-infrastructure-as-code-3bd2)
-- [This One Library Will Save You 15 Hours – You Only Need to Copy and Paste.](https://dev.to/ibtihelbs/this-one-library-will-save-you-15-hours-you-only-need-to-copy-and-paste-2n2g)
-- [Nuxt Deployment Guide: How to Deploy Nuxt to Cloudflare](https://dev.to/tanay/nuxt-deployment-guide-how-to-deploy-nuxt-to-cloudflare-2a7j)
+- [Grok-3: A Paradigm Shift in AI-Driven Software Development](https://dev.to/zeenox-stack/grok-3-a-paradigm-shift-in-ai-driven-software-development-6ol)
+- [&quot;Unlocking Efficiency: LServe&#39;s Breakthrough in Long-Sequence LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-lserves-breakthrough-in-long-sequence-llms-8ni)
+- [production-level Node.js project for a simple note-taking application](https://dev.to/kishan45/production-level-nodejs-project-for-a-simple-note-taking-application-1ghi)
+- [Dynamic Data Tables Concept in Flask](https://dev.to/sm0ke/dynamic-data-tables-concept-in-flask-39c7)
 <!-- BLOG-POST-LIST:END -->
 
