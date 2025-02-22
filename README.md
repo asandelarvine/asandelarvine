@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Language of the Web: A Deep Dive into HTTP Status Codes](https://dev.to/kedark/the-hidden-language-of-the-web-a-deep-dive-into-http-status-codes-2og9)
-- [Reveision java](https://dev.to/yaswanth_krishna_81faee1e/reveision-java-p54)
-- [3rd-Color: Best App for Colors](https://dev.to/mfm347/3rd-color-best-app-for-colors-4f1p)
-- [AWS Lambda SnapStart](https://dev.to/pooyan/aws-lambda-snapstart-31ma)
+- [Living Words](https://dev.to/pitel_market_33dbf8abec22/living-words-18c7)
+- [Mastering Vim: A Step-by-Step Guide to Essential Commands](https://dev.to/devcorner/mastering-vim-a-step-by-step-guide-to-essential-commands-k1b)
+- [Implementing Formique in Vue.js: A Comprehensive Guide](https://dev.to/gugulethu_nyoni/implementing-formique-in-vuejs-a-comprehensive-guide-2m57)
+- [Understanding Version Control with ~ and ^ in package.json](https://dev.to/manthanank/understanding-version-control-with-and-in-packagejson-h7g)
 <!-- BLOG-POST-LIST:END -->
 
