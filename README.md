@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Chat App template — Next.js, Vercel AI SDK, Firebase](https://dev.to/shreyvijayvargiya/ai-chat-app-template-nextjs-vercel-ai-sdk-firebase-1dej)
-- [Evita sorpresas en tu factura de AWS con Budget Alerts](https://dev.to/briansuarezsantiago/evita-sorpresas-en-tu-factura-de-aws-j2a)
-- [Mastering SSR &amp; CSR in Next.js with GraphQL – With and Without Apollo](https://dev.to/hijazi313/mastering-ssr-csr-in-nextjs-with-graphql-with-and-without-apollo-17c5)
-- [Clojure Is Awesome!!! [PART 13]](https://dev.to/borba/clojure-is-awesome-part-13-1ao4)
+- [Set up Graph Databases in Large-Scale Applications for Complex Data Management](https://dev.to/flnzba/set-up-graph-databases-in-large-scale-applications-for-complex-data-management-1000)
+- [Streaming SQL in Stateful DataFlows](https://dev.to/debadyuti/streaming-sql-in-stateful-dataflows-3jng)
+- [Red Hat License Renewal and System Registration Guide](https://dev.to/ealtinor/red-hat-license-renewal-and-system-registration-guide-c0)
+- [What Should You Expect From a Marketing Agency ?](https://dev.to/marketmediama_team/what-should-you-expect-from-a-marketing-agency--507i)
 <!-- BLOG-POST-LIST:END -->
 
