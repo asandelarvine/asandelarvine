@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What building a phone number validator taught me about RegEx: FCC solution](https://dev.to/israelrotimi/what-building-a-phone-number-validator-taught-me-about-regex-fcc-solution-2n26)
-- [EF Core Database/Tables exists](https://dev.to/karenpayneoregon/ef-core-databasetables-exists-4lnj)
-- [Debian netinst: Conectar na Wi-Fi pela TTY](https://dev.to/easbarba/debian-netinst-conectar-ao-wi-fi-pelo-tty-pp0)
-- [Understanding Anonymous Functions in Go: A Practical Guide](https://dev.to/abstractmusa/understanding-anonymous-functions-in-go-a-practical-guide-57hd)
+- [Daily JavaScript Challenge #JS-109: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-109-convert-snake-case-to-camel-case-5ab6)
+- [Pull Vs Rebase](https://dev.to/muhammadazis/pull-vs-rebase-ikb)
+- [The Role of Technologies in Business Analytics: Unlocking Insights for Informed Decision-Making](https://dev.to/lekshmi_525/the-role-of-technologies-in-business-analytics-unlocking-insights-for-informed-decision-making-khg)
+- [NestJS Distributed systems using service bus with @nestjstools/messaging](https://dev.to/sebastianiwanczyszyn/nestjs-distributed-systems-using-service-bus-with-nestjstoolsmessaging-3oha)
 <!-- BLOG-POST-LIST:END -->
 
