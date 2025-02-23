@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [php switch, if else alternative](https://dev.to/ekopriyanto/php-switch-if-else-alternative-560e)
-- [How to Integrate EC2 Server with VS Code using Remote SSH](https://dev.to/ryoichihomma/how-to-integrate-ec2-server-with-vs-code-using-remote-ssh-1cpk)
-- [[Boost]](https://dev.to/reyronald/-2590)
-- [Dealing with open database transactions in Prisma](https://dev.to/reyronald/dealing-with-open-database-transactions-in-prisma-3clk)
+- [How do you set multiple commands in one yaml file with Kubernetes?](https://dev.to/iamrj846/how-do-you-set-multiple-commands-in-one-yaml-file-with-kubernetes-17oc)
+- [What is the difference between ClusterIP, NodePort, and LoadBalancer service types in Kubernetes?](https://dev.to/iamrj846/what-is-the-difference-between-clusterip-nodeport-and-loadbalancer-service-types-in-kubernetes-4gd6)
+- [How can I keep a container running on Kubernetes?](https://dev.to/iamrj846/how-can-i-keep-a-container-running-on-kubernetes-4h2c)
+- [Astro + Jails - A Perfect Match](https://dev.to/javiani/astro-jails-a-perfect-match-365l)
 <!-- BLOG-POST-LIST:END -->
 
