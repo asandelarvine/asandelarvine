@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequelize vs. TypeORM: Choosing the Right ORM for Your Node.js Project](https://dev.to/smitinfo/sequelize-vs-typeorm-choosing-the-right-orm-for-your-nodejs-project-m43)
-- [Getting Started with Docker for Mobile App Development](https://dev.to/swap11/getting-started-with-docker-for-mobile-app-development-cfe)
-- [How AI Tech Solutions, Led by Mohammad Alothman, Is Redefining Customer Support with AI](https://dev.to/mohammad-alothman/how-ai-tech-solutions-led-by-mohammad-alothman-is-redefining-customer-support-with-ai-nh0)
-- [How to Optimize SQL Queries for Better Performance](https://dev.to/million_formula_3be3d915d/how-to-optimize-sql-queries-for-better-performance-546c)
+- [What is &quot;right&quot; and what is &quot;wrong&quot;? — in IT](https://dev.to/pooyan/what-is-right-and-what-is-wrong-in-it-46ae)
+- [Helm Installation and Usage Guide for Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/devcorner/helm-installation-and-usage-guide-for-kubernetes-step-by-step-fmn)
+- [ElasticTransform in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-3-56pl)
+- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-2p5j)
 <!-- BLOG-POST-LIST:END -->
 
