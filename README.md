@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing vnetwork-player: A Flexible Video Player Library for React](https://dev.to/nguyn_qucan_417d35b403/introducing-vnetwork-player-a-flexible-video-player-library-for-react-5flb)
-- [BEN2: AI-powered one-click background removal – results so amazing, you&#39;ll scream!](https://dev.to/localfaceswap/ben2-ai-powered-one-click-background-removal-results-so-amazing-youll-scream-1cln)
-- [[Boost]](https://dev.to/waiyan_woody_113f31a591fe/-aoa)
-- [Blockchain and Academic Credentials: A New Era in Education](https://dev.to/jennythomas498/blockchain-and-academic-credentials-a-new-era-in-education-2f5j)
+- [How to Use Maatwebsite Excel in Laravel for Importing &amp; Exporting Data](https://dev.to/snehalkadwe/how-to-use-maatwebsite-excel-in-laravel-for-importing-exporting-data-2gac)
+- [Celebrating 75,000+ Views: A Huge Milestone for Our Tech Community! 🚀🎉](https://dev.to/raajaryan/celebrating-75000-views-a-huge-milestone-for-our-tech-community-5gja)
+- [DeepSeek AI: The Rise of China’s Ambitious AI Startup](https://dev.to/kritrim_dhi/deepseek-ai-the-rise-of-chinas-ambitious-ai-startup-6eh)
+- [Why Wait for System Failure Before Taking Action? Use Watchdog Software!](https://dev.to/heshamkaka75/why-wait-for-system-failure-before-taking-action-use-watchdog-software-3jdd)
 <!-- BLOG-POST-LIST:END -->
 
