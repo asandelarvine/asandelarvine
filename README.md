@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Maatwebsite Excel in Laravel for Importing &amp; Exporting Data](https://dev.to/snehalkadwe/how-to-use-maatwebsite-excel-in-laravel-for-importing-exporting-data-2gac)
-- [Celebrating 75,000+ Views: A Huge Milestone for Our Tech Community! 🚀🎉](https://dev.to/raajaryan/celebrating-75000-views-a-huge-milestone-for-our-tech-community-5gja)
-- [DeepSeek AI: The Rise of China’s Ambitious AI Startup](https://dev.to/kritrim_dhi/deepseek-ai-the-rise-of-chinas-ambitious-ai-startup-6eh)
-- [Why Wait for System Failure Before Taking Action? Use Watchdog Software!](https://dev.to/heshamkaka75/why-wait-for-system-failure-before-taking-action-use-watchdog-software-3jdd)
+- [Making Dating App Animation in SwiftUI [Video]](https://dev.to/yossabourne/making-dating-app-animation-in-swiftui-video-4ng6)
+- [The Role of Virtualization in Cloud Computing: Scalability, Elasticity, Availability, and Global Accessibility.](https://dev.to/nnennahumphrey/the-role-of-virtualization-in-cloud-computing-scalability-elasticity-availability-and-global-3o0o)
+- [Best Self-Hosted AI Meeting Note-Taker App &lpar;Open-Source&rpar;](https://dev.to/zackriya/best-self-hosted-ai-meeting-note-taker-app-open-source-2p9k)
+- [Three.js for my portfolio, seeking feedback.](https://dev.to/sababat/threejs-for-my-portfolio-seeking-feedback-2jnj)
 <!-- BLOG-POST-LIST:END -->
 
