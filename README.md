@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Set up Graph Databases in Large-Scale Applications for Complex Data Management](https://dev.to/flnzba/set-up-graph-databases-in-large-scale-applications-for-complex-data-management-1000)
-- [Streaming SQL in Stateful DataFlows](https://dev.to/debadyuti/streaming-sql-in-stateful-dataflows-3jng)
-- [Red Hat License Renewal and System Registration Guide](https://dev.to/ealtinor/red-hat-license-renewal-and-system-registration-guide-c0)
-- [What Should You Expect From a Marketing Agency ?](https://dev.to/marketmediama_team/what-should-you-expect-from-a-marketing-agency--507i)
+- [What building a phone number validator taught me about RegEx: FCC solution](https://dev.to/israelrotimi/what-building-a-phone-number-validator-taught-me-about-regex-fcc-solution-2n26)
+- [EF Core Database/Tables exists](https://dev.to/karenpayneoregon/ef-core-databasetables-exists-4lnj)
+- [Debian netinst: Conectar na Wi-Fi pela TTY](https://dev.to/easbarba/debian-netinst-conectar-ao-wi-fi-pelo-tty-pp0)
+- [Understanding Anonymous Functions in Go: A Practical Guide](https://dev.to/abstractmusa/understanding-anonymous-functions-in-go-a-practical-guide-57hd)
 <!-- BLOG-POST-LIST:END -->
 
