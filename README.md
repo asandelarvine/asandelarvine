@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BULB SEARCH ENGINE](https://dev.to/arsh_patel_74cf6a43525f5c/bulb-search-engine-3i43)
-- [Enable Recognize Non-Native Accents for this Language on Windows 11](https://dev.to/winsides/enable-recognize-non-native-accents-for-this-language-on-windows-11-4nnm)
-- [Running NestJS in a Lambda function with LocalStack and Serverless Framework](https://dev.to/nestjs-ninja/running-nestjs-in-a-lambda-function-with-localstack-and-serverless-framework-enk)
-- [Recipe Card](https://dev.to/preetha_vaishnavi_2b82358/recipe-card-4490)
+- [[Boost]](https://dev.to/jdgamble555/-2lg2)
+- [Insider Info About the New Results Class in Benchmark](https://dev.to/ukrguru/insider-info-about-the-new-results-class-in-benchmark-b51)
+- [Simplifier le développement de newsletters responsives avec MJML](https://dev.to/p0p0/simplifier-le-developpement-de-newsletters-responsives-avec-mjml-jpn)
+- [👋 Hello, World!](https://dev.to/auti/hello-world-38jp)
 <!-- BLOG-POST-LIST:END -->
 
