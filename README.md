@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is &quot;right&quot; and what is &quot;wrong&quot;? — in IT](https://dev.to/pooyan/what-is-right-and-what-is-wrong-in-it-46ae)
-- [Helm Installation and Usage Guide for Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/devcorner/helm-installation-and-usage-guide-for-kubernetes-step-by-step-fmn)
-- [ElasticTransform in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-3-56pl)
-- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-2p5j)
+- [php switch, if else alternative](https://dev.to/ekopriyanto/php-switch-if-else-alternative-560e)
+- [How to Integrate EC2 Server with VS Code using Remote SSH](https://dev.to/ryoichihomma/how-to-integrate-ec2-server-with-vs-code-using-remote-ssh-1cpk)
+- [[Boost]](https://dev.to/reyronald/-2590)
+- [Dealing with open database transactions in Prisma](https://dev.to/reyronald/dealing-with-open-database-transactions-in-prisma-3clk)
 <!-- BLOG-POST-LIST:END -->
 
