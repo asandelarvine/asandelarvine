@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI can make you a 10x professional](https://dev.to/aniruddhaadak/how-ai-can-make-you-a-10x-professional-1632)
-- [Is “Thinking AI” a Leap Forward or Just Marketing Hype?](https://dev.to/astrofruit/is-thinking-ai-a-leap-forward-or-just-marketing-hype-4efj)
-- [PapierJS - PaperCSS with stencil and storybook](https://dev.to/amiceli/papierjs-papercss-with-stencil-and-storybook-2cgd)
-- [Memoization in JavaScript: How Not to Be Dumb About It](https://dev.to/priya2422/memoization-in-javascript-how-not-to-be-dumb-about-it-p3m)
+- [AWS ECS vs Sliplane](https://dev.to/wimadev/aws-ecs-vs-sliplane-3758)
+- [How do I use ChatGPT as a developer? Top 10 + 1 best usages.](https://dev.to/chrdek/how-do-i-use-chatgpt-as-a-developer-top-10-1-best-usages-m1o)
+- [Event Tracking and Parameters: Setting Up Custom Events and Parameters in Google Analytics 4 &lpar;2025 Update&rpar;](https://dev.to/gerryleonugroho/event-tracking-and-parameters-setting-up-custom-events-and-parameters-in-google-analytics-4-2025-10gd)
+- [Common Exceptions In Spring Core and SpringMVC](https://dev.to/shikha_verma_1896/common-exceptions-in-spring-core-and-springmvc-3l69)
 <!-- BLOG-POST-LIST:END -->
 
