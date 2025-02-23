@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ECS vs Sliplane](https://dev.to/wimadev/aws-ecs-vs-sliplane-3758)
-- [How do I use ChatGPT as a developer? Top 10 + 1 best usages.](https://dev.to/chrdek/how-do-i-use-chatgpt-as-a-developer-top-10-1-best-usages-m1o)
-- [Event Tracking and Parameters: Setting Up Custom Events and Parameters in Google Analytics 4 &lpar;2025 Update&rpar;](https://dev.to/gerryleonugroho/event-tracking-and-parameters-setting-up-custom-events-and-parameters-in-google-analytics-4-2025-10gd)
-- [Common Exceptions In Spring Core and SpringMVC](https://dev.to/shikha_verma_1896/common-exceptions-in-spring-core-and-springmvc-3l69)
+- [Don&#39;t Let Your LLM Hallucinate—Check Out These Prompting Rules and Methods!](https://dev.to/lincemathew/dont-let-your-llm-hallucinate-check-out-these-prompting-rules-and-methods-39jb)
+- [React Hydration &amp; Browser Scheduling API: A Game Changer for Performance](https://dev.to/suzyg38/react-hydration-browser-scheduling-api-a-game-changer-for-performance-34ji)
+- [889. Construct Binary Tree from Preorder and Postorder Traversal](https://dev.to/mdarifulhaque/889-construct-binary-tree-from-preorder-and-postorder-traversal-nb1)
+- [Turning Parquet File into a Queryable RESTful API with DuckDB, Quarkus &amp; Kotlin](https://dev.to/brandy_chang_3f28b7a2cc16/turning-parquet-file-into-a-queryable-restful-api-with-duckdb-quarkus-kotlin-53bk)
 <!-- BLOG-POST-LIST:END -->
 
