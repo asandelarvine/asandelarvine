@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UML Class Diagrams](https://dev.to/edgaras/uml-class-diagram-2498)
-- [React Native v.0.78.0 rolls out. Here are three new features you will love](https://dev.to/evk_6713/react-native-v0780-rolls-out-here-are-three-new-features-you-will-love-bf7)
-- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
-- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
+- [Writing Human Readable Code: To Name or Not To Name](https://dev.to/mobolanleadebesin/writing-human-readable-code-to-name-or-not-to-name-2jci)
+- [#28.1 Part 1/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/281-part-12-basics-of-software-architecture-and-design-patterns-475e)
+- [HOW TO CREATE AN APP SERVICE APPLICATION WITH AZURE](https://dev.to/sheyitex/how-to-create-an-app-service-application-with-azure-gfo)
+- [🚀 Supercharge Your File Storage: SeaweedFS + PostgreSQL in 15 Minutes](https://dev.to/benjeddou_monem_68600c6c8/supercharge-your-file-storage-seaweedfs-postgresql-in-15-minutes-407f)
 <!-- BLOG-POST-LIST:END -->
 
