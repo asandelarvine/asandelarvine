@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IKO - Lessons Learned &lpar;Part 1 - Helm&rpar;](https://dev.to/intersystems/iko-lessons-learned-part-1-helm-7do)
-- [Creating an IRIS Cross Functional App in &lt;150 Lines of Code](https://dev.to/intersystems/creating-an-iris-cross-functional-app-in-150-lines-of-code-5h04)
-- [Day 19: Part 2 Jubilee Austen](https://dev.to/theoriginalbpc/day-19-part-2-jubilee-austen-389i)
-- [Getting JSON from SQL](https://dev.to/intersystems/getting-json-from-sql-4e2f)
+- [Navigating the Pressure of Delivery: A Software Developer&#39;s Perspective](https://dev.to/jwp/navigating-the-pressure-of-delivery-a-software-developers-perspective-22dg)
+- [Control your PlayStation 3 remotely](https://dev.to/mprog10/control-your-playstation-3-remotely-3lh9)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4l01)
+- [AWS X-Ray to break a monolith into microservice](https://dev.to/gurudev_prasadteketi/aws-x-ray-to-break-a-monolith-into-microservice-2da1)
 <!-- BLOG-POST-LIST:END -->
 
