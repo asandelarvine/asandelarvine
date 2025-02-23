@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking LLM Potential: Speed Up with LServe and Multimodal Insights&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-llm-potential-speed-up-with-lserve-and-multimodal-insights-459k)
-- [Journey Man](https://dev.to/preetha_vaishnavi_2b82358/journey-man-5dkh)
-- [파이썬과 OpenAI API로 간단한 AI 챗봇 만들기](https://dev.to/technomart/ai-caesbos-mandeulgi-52ma)
-- [From Student Struggle to SaaS Startup: Solving Invoicing with InvoiceTastic](https://dev.to/abdullahzulfiqar/from-student-struggle-to-saas-startup-solving-invoicing-with-invoicetastic-j88)
+- [📸 Building an Optimized Image Gallery with Thumbnails in React Native](https://dev.to/amitkumar13/building-an-optimized-image-gallery-with-thumbnails-in-react-native-4jbe)
+- [Gift box Animation](https://dev.to/preetha_vaishnavi_2b82358/gift-box-animation-51c7)
+- [Building Paikari : A Real-Time Grocery Price Comparison App](https://dev.to/jicoing/building-paikari-a-real-time-grocery-price-comparison-app-5088)
+- [SSR vs SSG vs ISR vs CSR – What’s the Difference?](https://dev.to/ahmedaldrabea/ssr-vs-ssg-vs-isr-vs-csr-whats-the-difference-1gj0)
 <!-- BLOG-POST-LIST:END -->
 
