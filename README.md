@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tech Journey So Far](https://dev.to/athulmuralidhar/my-tech-journey-so-far-1emk)
-- [Designing Scalable APIs](https://dev.to/godofgeeks/designing-scalable-apis-45lp)
-- [A Complete Guide to JavaScript DOM Selector Methods](https://dev.to/oeharuki/a-complete-guide-to-javascript-dom-selector-methods-55bb)
-- [Spring Boot REST API - Returning Response in JSON Format](https://dev.to/ayshriv/spring-boot-rest-api-returning-response-in-json-format-4db0)
+- [&quot;Unlocking LLM Potential: Speed Up with LServe and Multimodal Insights&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-llm-potential-speed-up-with-lserve-and-multimodal-insights-459k)
+- [Journey Man](https://dev.to/preetha_vaishnavi_2b82358/journey-man-5dkh)
+- [파이썬과 OpenAI API로 간단한 AI 챗봇 만들기](https://dev.to/technomart/ai-caesbos-mandeulgi-52ma)
+- [From Student Struggle to SaaS Startup: Solving Invoicing with InvoiceTastic](https://dev.to/abdullahzulfiqar/from-student-struggle-to-saas-startup-solving-invoicing-with-invoicetastic-j88)
 <!-- BLOG-POST-LIST:END -->
 
