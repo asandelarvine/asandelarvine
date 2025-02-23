@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you set multiple commands in one yaml file with Kubernetes?](https://dev.to/iamrj846/how-do-you-set-multiple-commands-in-one-yaml-file-with-kubernetes-17oc)
-- [What is the difference between ClusterIP, NodePort, and LoadBalancer service types in Kubernetes?](https://dev.to/iamrj846/what-is-the-difference-between-clusterip-nodeport-and-loadbalancer-service-types-in-kubernetes-4gd6)
-- [How can I keep a container running on Kubernetes?](https://dev.to/iamrj846/how-can-i-keep-a-container-running-on-kubernetes-4h2c)
-- [Astro + Jails - A Perfect Match](https://dev.to/javiani/astro-jails-a-perfect-match-365l)
+- [My Tech Journey So Far](https://dev.to/athulmuralidhar/my-tech-journey-so-far-1emk)
+- [Designing Scalable APIs](https://dev.to/godofgeeks/designing-scalable-apis-45lp)
+- [A Complete Guide to JavaScript DOM Selector Methods](https://dev.to/oeharuki/a-complete-guide-to-javascript-dom-selector-methods-55bb)
+- [Spring Boot REST API - Returning Response in JSON Format](https://dev.to/ayshriv/spring-boot-rest-api-returning-response-in-json-format-4db0)
 <!-- BLOG-POST-LIST:END -->
 
