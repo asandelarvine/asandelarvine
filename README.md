@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily JavaScript Challenge #JS-109: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-109-convert-snake-case-to-camel-case-5ab6)
-- [Pull Vs Rebase](https://dev.to/muhammadazis/pull-vs-rebase-ikb)
-- [The Role of Technologies in Business Analytics: Unlocking Insights for Informed Decision-Making](https://dev.to/lekshmi_525/the-role-of-technologies-in-business-analytics-unlocking-insights-for-informed-decision-making-khg)
-- [NestJS Distributed systems using service bus with @nestjstools/messaging](https://dev.to/sebastianiwanczyszyn/nestjs-distributed-systems-using-service-bus-with-nestjstoolsmessaging-3oha)
+- [Sequelize vs. TypeORM: Choosing the Right ORM for Your Node.js Project](https://dev.to/smitinfo/sequelize-vs-typeorm-choosing-the-right-orm-for-your-nodejs-project-m43)
+- [Getting Started with Docker for Mobile App Development](https://dev.to/swap11/getting-started-with-docker-for-mobile-app-development-cfe)
+- [How AI Tech Solutions, Led by Mohammad Alothman, Is Redefining Customer Support with AI](https://dev.to/mohammad-alothman/how-ai-tech-solutions-led-by-mohammad-alothman-is-redefining-customer-support-with-ai-nh0)
+- [How to Optimize SQL Queries for Better Performance](https://dev.to/million_formula_3be3d915d/how-to-optimize-sql-queries-for-better-performance-546c)
 <!-- BLOG-POST-LIST:END -->
 
