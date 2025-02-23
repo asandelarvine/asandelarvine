@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Dating App Animation in SwiftUI [Video]](https://dev.to/yossabourne/making-dating-app-animation-in-swiftui-video-4ng6)
-- [The Role of Virtualization in Cloud Computing: Scalability, Elasticity, Availability, and Global Accessibility.](https://dev.to/nnennahumphrey/the-role-of-virtualization-in-cloud-computing-scalability-elasticity-availability-and-global-3o0o)
-- [Best Self-Hosted AI Meeting Note-Taker App &lpar;Open-Source&rpar;](https://dev.to/zackriya/best-self-hosted-ai-meeting-note-taker-app-open-source-2p9k)
-- [Three.js for my portfolio, seeking feedback.](https://dev.to/sababat/threejs-for-my-portfolio-seeking-feedback-2jnj)
+- [Top 10 Resources to Learn Kubernetes &lpar;K8&rpar; in 2025](https://dev.to/somadevtoo/top-10-resources-to-learn-kubernetes-k8-in-2025-3nbj)
+- [J mail](https://dev.to/arsh_patel_74cf6a43525f5c/j-mail-398p)
+- [AI Writing Tools: Why Most Need Heavy Human Editing](https://dev.to/ostapzabolotnyy/ai-writing-tools-why-most-need-heavy-human-editing-5h4p)
+- [Navigating Software Development Problems: Strategies for Success in 2025](https://dev.to/jetthoughts/navigating-software-development-problems-strategies-for-success-in-2025-3no2)
 <!-- BLOG-POST-LIST:END -->
 
