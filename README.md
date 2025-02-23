@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Pressure of Delivery: A Software Developer&#39;s Perspective](https://dev.to/jwp/navigating-the-pressure-of-delivery-a-software-developers-perspective-22dg)
-- [Control your PlayStation 3 remotely](https://dev.to/mprog10/control-your-playstation-3-remotely-3lh9)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4l01)
-- [AWS X-Ray to break a monolith into microservice](https://dev.to/gurudev_prasadteketi/aws-x-ray-to-break-a-monolith-into-microservice-2da1)
+- [UML Class Diagrams](https://dev.to/edgaras/uml-class-diagram-2498)
+- [React Native v.0.78.0 rolls out. Here are three new features you will love](https://dev.to/evk_6713/react-native-v0780-rolls-out-here-are-three-new-features-you-will-love-bf7)
+- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
+- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
 <!-- BLOG-POST-LIST:END -->
 
