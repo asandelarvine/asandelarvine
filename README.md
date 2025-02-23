@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Resources to Learn Kubernetes &lpar;K8&rpar; in 2025](https://dev.to/somadevtoo/top-10-resources-to-learn-kubernetes-k8-in-2025-3nbj)
-- [J mail](https://dev.to/arsh_patel_74cf6a43525f5c/j-mail-398p)
-- [AI Writing Tools: Why Most Need Heavy Human Editing](https://dev.to/ostapzabolotnyy/ai-writing-tools-why-most-need-heavy-human-editing-5h4p)
-- [Navigating Software Development Problems: Strategies for Success in 2025](https://dev.to/jetthoughts/navigating-software-development-problems-strategies-for-success-in-2025-3no2)
+- [How AI can make you a 10x professional](https://dev.to/aniruddhaadak/how-ai-can-make-you-a-10x-professional-1632)
+- [Is “Thinking AI” a Leap Forward or Just Marketing Hype?](https://dev.to/astrofruit/is-thinking-ai-a-leap-forward-or-just-marketing-hype-4efj)
+- [PapierJS - PaperCSS with stencil and storybook](https://dev.to/amiceli/papierjs-papercss-with-stencil-and-storybook-2cgd)
+- [Memoization in JavaScript: How Not to Be Dumb About It](https://dev.to/priya2422/memoization-in-javascript-how-not-to-be-dumb-about-it-p3m)
 <!-- BLOG-POST-LIST:END -->
 
