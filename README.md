@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Let Your LLM Hallucinate—Check Out These Prompting Rules and Methods!](https://dev.to/lincemathew/dont-let-your-llm-hallucinate-check-out-these-prompting-rules-and-methods-39jb)
-- [React Hydration &amp; Browser Scheduling API: A Game Changer for Performance](https://dev.to/suzyg38/react-hydration-browser-scheduling-api-a-game-changer-for-performance-34ji)
-- [889. Construct Binary Tree from Preorder and Postorder Traversal](https://dev.to/mdarifulhaque/889-construct-binary-tree-from-preorder-and-postorder-traversal-nb1)
-- [Turning Parquet File into a Queryable RESTful API with DuckDB, Quarkus &amp; Kotlin](https://dev.to/brandy_chang_3f28b7a2cc16/turning-parquet-file-into-a-queryable-restful-api-with-duckdb-quarkus-kotlin-53bk)
+- [Error-Free Communication: How the Data Link Layer Ensures Reliable Data Transfer](https://dev.to/singhaayush/error-free-communication-how-the-data-link-layer-ensures-reliable-data-transfer-i4f)
+- [[Boost]](https://dev.to/tillawy/-30j6)
+- [Need help with my python project.](https://dev.to/tashibash/need-help-with-my-python-project-5b29)
+- [Machine Learning: Transforming the Future of Technology](https://dev.to/arjack/machine-learning-transforming-the-future-of-technology-3bf0)
 <!-- BLOG-POST-LIST:END -->
 
