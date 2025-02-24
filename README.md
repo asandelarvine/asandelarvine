@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Honest Review of Interserver.net](https://dev.to/nixx/my-honest-review-of-interservernet-17n)
-- [Descubre el mundo de Bitcoin con el curso de introducción de Synzen](https://dev.to/angel_rojas_6904bae237a0d/descubre-el-mundo-de-bitcoin-con-el-curso-de-introduccion-de-synzen-2odk)
-- [Blockchain and Social Media: A New Era of Digital Communication](https://dev.to/jennythomas498/blockchain-and-social-media-a-new-era-of-digital-communication-8d2)
-- [Blockchain and Intellectual Property: A Paradigm Shift in Rights Management](https://dev.to/ashucommits/blockchain-and-intellectual-property-a-paradigm-shift-in-rights-management-20f2)
+- [How to Run DeepSeek on Your Local Windows Machine](https://dev.to/devvemeka/how-to-run-deepseek-on-your-local-windows-machine-545g)
+- [Golang Concurrency: How Confinement Improves Performance Without Locks](https://dev.to/bahaanoah/golang-concurrency-how-confinement-improves-performance-without-locks-1ld5)
+- [🌟 Introducing Myself: CodeCart - Your Affordable Website Solution! 🌟](https://dev.to/hanzla-baig/introducing-myself-codecart-your-affordable-website-solution-48m7)
+- [Phone Numbers as Digital Footprints: Tracking Info with PhoneInfoga!!](https://dev.to/karanjain2527/phone-numbers-as-digital-footprints-tracking-info-with-phoneinfoga-a61)
 <!-- BLOG-POST-LIST:END -->
 
