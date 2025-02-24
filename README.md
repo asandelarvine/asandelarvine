@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile and Kanban improve project management by enhancing flexibility, efficiency, and collaboration. Agile enables iterative development, while Kanban optimizes workflow and reduces delays. Boost your team&#39;s productivity with these powerful methodologies!](https://dev.to/pratham_naik_project_manager/agile-and-kanban-improve-project-management-by-enhancing-flexibility-efficiency-and-5466)
-- [Agile and Kanban enhance project management by improving flexibility, efficiency, and team collaboration. Agile ensures iterative progress, while Kanban optimizes workflow and reduces bottlenecks. Discover how they boost development success! #Agile #Kanban](https://dev.to/pratham_naik_project_manager/agile-and-kanban-enhance-project-management-by-improving-flexibility-efficiency-and-team-1h6c)
-- [Enhance team productivity in software development with clear goals, Agile practices, automation, and strong collaboration. Streamline workflows, reduce bottlenecks, and boost efficiency for successful project delivery. #Productivity #DevTeams #Agile](https://dev.to/pratham_naik_project_manager/enhance-team-productivity-in-software-development-with-clear-goals-agile-practices-automation-2nj5)
-- [Master project management for development teams with Agile strategies, clear communication, and efficient workflows. Learn how to optimize processes, manage resources, and drive success. Unlock your team&#39;s full potential with expert tips! #ProjectManagemen](https://dev.to/pratham_naik_project_manager/master-project-management-for-development-teams-with-agile-strategies-clear-communication-and-i0j)
+- [AI Robot Goes Rogue at Chinese Festival: A Glitch or a Glimpse of the Future?](https://dev.to/nettribe/ai-robot-goes-rogue-at-chinese-festival-a-glitch-or-a-glimpse-of-the-future-48e3)
+- [Selenium](https://dev.to/s1eb0d54/selenium-417o)
+- [Building a Strong Personal Brand as a Service Provider](https://dev.to/irishiroy/building-a-strong-personal-brand-as-a-service-provider-4peg)
+- [Dark Mode in Web Design: Pros and Cons](https://dev.to/gaurav_jha_tps/dark-mode-in-web-design-pros-and-cons-54c1)
 <!-- BLOG-POST-LIST:END -->
 
