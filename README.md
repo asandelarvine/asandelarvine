@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Konami Service](https://dev.to/mrgrigri/angular-konami-service-2fjc)
-- [Data oriented python](https://dev.to/kristofbcoding/data-oriented-python-3m25)
-- [🌐 AI Agents: The Silent Revolution in Your Tech Stack &lpar;That’s About to Get Loud&rpar;](https://dev.to/tomtomdu73/ai-agents-the-silent-revolution-in-your-tech-stack-thats-about-to-get-loud-2e04)
-- [SQL-Server database table row count](https://dev.to/karenpayneoregon/sql-server-database-table-row-count-4l1h)
+- [Hello Blog 1](https://dev.to/capricious_daksh/hello-blog-1-25fn)
+- [#28.2 Part 2/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/282-part-23-basics-of-software-architecture-and-design-patterns-haf)
+- [Claude 3.7 Sonnet by Antrophic: A Revolutionary Hybrid Reasoning AI Model](https://dev.to/mehmetakar/claude-37-sonnet-by-antrophic-a-revolutionary-hybrid-reasoning-ai-model-4dj0)
+- [Image Optimization in Astro: Boost Site Performance and SEO](https://dev.to/saida_lachgar/image-optimization-in-astro-boost-site-performance-and-seo-2k80)
 <!-- BLOG-POST-LIST:END -->
 
