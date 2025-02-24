@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Supercharge Your Website Speed with Code Splitting &amp; CDN Optimization — A Complete Guide!](https://dev.to/dct_technologyprivatelimited/supercharge-your-website-speed-with-code-splitting-cdn-optimization-a-complete-guide-2fho)
-- [My HNG Internship Journey: A New Chapter in My Front-End Development Path](https://dev.to/toptech5419/my-hng-internship-journey-a-new-chapter-in-my-front-end-development-path-5boe)
-- [Microservices vs Monolithic vs Modular Architecture: Choosing the Right Approach](https://dev.to/amarachigoodness74/microservices-vs-monolithic-vs-modular-architecture-choosing-the-right-approach-1jn7)
-- [History of Laravel: How Laravel Started and Where It Stands Today](https://dev.to/ehtesham_ali_abc367f36a5b/history-of-laravel-how-laravel-started-and-where-it-stands-today-236n)
+- [🧠🤖Image generative AI on PC without GPU &lpar;free and fast &lpar;FastSD CPU&rpar;&rpar;](https://dev.to/webdeveloperhyper/image-generative-ai-on-pc-without-gpu-free-and-fast-fastsd-cpu-1jio)
+- [Tackling Cold Starts in AWS Lambda: A Deep Dive with LLRT](https://dev.to/siddhantkcode/tackling-cold-starts-in-aws-lambda-a-deep-dive-with-llrt-17d7)
+- [Bulk Email Service Provider](https://dev.to/sam_devid_65bbbe34ab06c1a/bulk-email-service-provider-2hn6)
+- [Property Management Made Simple: A Guide to Effortless Real Estate Operations](https://dev.to/bhavesh_gangani_/property-management-made-simple-a-guide-to-effortless-real-estate-operations-46a0)
 <!-- BLOG-POST-LIST:END -->
 
