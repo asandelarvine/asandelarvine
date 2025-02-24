@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns em C# - Builder](https://dev.to/carolrochafloro/design-patterns-em-c-builder-2jnf)
-- [&quot;Unlocking Privacy: The Hidden Risks of PII in Language Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-privacy-the-hidden-risks-of-pii-in-language-models-4hma)
-- [[Boost]](https://dev.to/sfundomhlungu/-1hl6)
-- [Trying to implement binary search tree](https://dev.to/xplozion/trying-to-implement-binary-search-tree-111m)
+- [Why Kafka? A Developer-Friendly Guide to Event-Driven Architecture](https://dev.to/lovestaco/why-kafka-a-developer-friendly-guide-to-event-driven-architecture-4ekf)
+- [🚀 Elon Musk’s Grok 3: A Game-Changer in AI or Just Another Competitor? 🤖](https://dev.to/stacks_gather_f66c31eb9d6/elon-musks-grok-3-a-game-changer-in-ai-or-just-another-competitor-337d)
+- [13 GitHub Projects that Empower AI, Enhance Privacy, and Simplify Development 🌟](https://dev.to/bruh_buh_f683772f171823db/13-github-projects-that-empower-ai-enhance-privacy-and-simplify-development-44f1)
+- [Build RAG Chatbot with LangChain, Milvus, Anthropic Claude 3 Opus, and OpenAI text-embedding-3-small](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-anthropic-claude-3-opus-and-openai-text-embedding-3-small-e2k)
 <!-- BLOG-POST-LIST:END -->
 
