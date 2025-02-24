@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Revolutionizing Video Content Creation &lpar;Or, How I Accidentally Made a Talking Potato Famous!&rpar;](https://dev.to/createvideoai/how-ai-is-revolutionizing-video-content-creation-or-how-i-accidentally-made-a-talking-potato-13n)
-- [Wordpress get_template_part&lpar;&rpar; is just great](https://dev.to/elbasiri/wordpress-gettemplatepart-is-just-great-5824)
-- [The Risk of Not Investing in Early Stages](https://dev.to/twelvepercent/the-risk-of-not-investing-in-early-stages-4ddp)
-- [Simple search and library application with Next.js x OpenSearch x Lambda&lpar;Python&rpar;](https://dev.to/toshipy/simple-search-and-library-application-with-nextjs-x-opensearch-x-lambdapython-1bdh)
+- [Agile and Kanban improve project management by enhancing flexibility, efficiency, and collaboration. Agile enables iterative development, while Kanban optimizes workflow and reduces delays. Boost your team&#39;s productivity with these powerful methodologies!](https://dev.to/pratham_naik_project_manager/agile-and-kanban-improve-project-management-by-enhancing-flexibility-efficiency-and-5466)
+- [Agile and Kanban enhance project management by improving flexibility, efficiency, and team collaboration. Agile ensures iterative progress, while Kanban optimizes workflow and reduces bottlenecks. Discover how they boost development success! #Agile #Kanban](https://dev.to/pratham_naik_project_manager/agile-and-kanban-enhance-project-management-by-improving-flexibility-efficiency-and-team-1h6c)
+- [Enhance team productivity in software development with clear goals, Agile practices, automation, and strong collaboration. Streamline workflows, reduce bottlenecks, and boost efficiency for successful project delivery. #Productivity #DevTeams #Agile](https://dev.to/pratham_naik_project_manager/enhance-team-productivity-in-software-development-with-clear-goals-agile-practices-automation-2nj5)
+- [Master project management for development teams with Agile strategies, clear communication, and efficient workflows. Learn how to optimize processes, manage resources, and drive success. Unlock your team&#39;s full potential with expert tips! #ProjectManagemen](https://dev.to/pratham_naik_project_manager/master-project-management-for-development-teams-with-agile-strategies-clear-communication-and-i0j)
 <!-- BLOG-POST-LIST:END -->
 
