@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Robot Goes Rogue at Chinese Festival: A Glitch or a Glimpse of the Future?](https://dev.to/nettribe/ai-robot-goes-rogue-at-chinese-festival-a-glitch-or-a-glimpse-of-the-future-48e3)
-- [Selenium](https://dev.to/s1eb0d54/selenium-417o)
-- [Building a Strong Personal Brand as a Service Provider](https://dev.to/irishiroy/building-a-strong-personal-brand-as-a-service-provider-4peg)
-- [Dark Mode in Web Design: Pros and Cons](https://dev.to/gaurav_jha_tps/dark-mode-in-web-design-pros-and-cons-54c1)
+- [I am Lazy and Exam is here,So here is Easy way to kill It.](https://dev.to/ujjwal_nepal/i-am-lazy-and-exam-is-hereso-here-is-easy-way-to-kill-it-4nod)
+- [Why mode: &quot;no-cors&quot; won&#39;t fix your CORS errors](https://dev.to/reynaldi/why-mode-no-cors-wont-fix-your-cors-errors-250)
+- [Talos Linux: The Kubernetes OS That’s Changing the Game &lpar;and Why You Should Care&rpar;](https://dev.to/binyam/talos-linux-the-kubernetes-os-thats-changing-the-game-and-why-you-should-care-462k)
+- [API Versioning in .NET 8](https://dev.to/hilman_karyadi_39272fd379/api-versioning-in-net-8-3ao4)
 <!-- BLOG-POST-LIST:END -->
 
