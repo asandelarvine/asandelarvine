@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Human Readable Code: To Name or Not To Name](https://dev.to/mobolanleadebesin/writing-human-readable-code-to-name-or-not-to-name-2jci)
-- [#28.1 Part 1/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/281-part-12-basics-of-software-architecture-and-design-patterns-475e)
-- [HOW TO CREATE AN APP SERVICE APPLICATION WITH AZURE](https://dev.to/sheyitex/how-to-create-an-app-service-application-with-azure-gfo)
-- [🚀 Supercharge Your File Storage: SeaweedFS + PostgreSQL in 15 Minutes](https://dev.to/benjeddou_monem_68600c6c8/supercharge-your-file-storage-seaweedfs-postgresql-in-15-minutes-407f)
+- [&quot;Unlocking Efficiency: LServe&#39;s Breakthrough in Long-Sequence Language Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-lserves-breakthrough-in-long-sequence-language-models-2jaa)
+- [Commit to marriage with TLA+ pt.2](https://dev.to/0xgeorgii/commit-to-marriage-with-tla-pt2-2n08)
+- [CSS Art: February - Sunflower Month](https://dev.to/danilo_abramowicz/css-art-february-sunflower-month-4i89)
+- [🚀 Bootstrap vs. Tailwind CSS – Which One Should You Use? 🎨💻](https://dev.to/erasmuskotoka/bootstrap-vs-tailwind-css-which-one-should-you-use-24io)
 <!-- BLOG-POST-LIST:END -->
 
