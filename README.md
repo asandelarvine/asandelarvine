@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run DeepSeek on Your Local Windows Machine](https://dev.to/devvemeka/how-to-run-deepseek-on-your-local-windows-machine-545g)
-- [Golang Concurrency: How Confinement Improves Performance Without Locks](https://dev.to/bahaanoah/golang-concurrency-how-confinement-improves-performance-without-locks-1ld5)
-- [🌟 Introducing Myself: CodeCart - Your Affordable Website Solution! 🌟](https://dev.to/hanzla-baig/introducing-myself-codecart-your-affordable-website-solution-48m7)
-- [Phone Numbers as Digital Footprints: Tracking Info with PhoneInfoga!!](https://dev.to/karanjain2527/phone-numbers-as-digital-footprints-tracking-info-with-phoneinfoga-a61)
+- [Design Patterns em C# - Builder](https://dev.to/carolrochafloro/design-patterns-em-c-builder-2jnf)
+- [&quot;Unlocking Privacy: The Hidden Risks of PII in Language Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-privacy-the-hidden-risks-of-pii-in-language-models-4hma)
+- [[Boost]](https://dev.to/sfundomhlungu/-1hl6)
+- [Trying to implement binary search tree](https://dev.to/xplozion/trying-to-implement-binary-search-tree-111m)
 <!-- BLOG-POST-LIST:END -->
 
