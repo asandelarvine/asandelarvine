@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Geração Automática de Testes: Comparando Abordagens Tradicionais e Baseadas em IA](https://dev.to/asouza/geracao-automatica-de-testes-comparando-abordagens-tradicionais-e-baseadas-em-ia-52d4)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-29k6)
-- [Security Triggers in PL/SQL](https://dev.to/mrcaption49/security-triggers-in-plsql-45pl)
-- [11+ Best Websites to Download Free Next.js Template](https://dev.to/vinishbhaskar/best-websites-for-free-nextjs-template-l87)
+- [How AI is Revolutionizing Video Content Creation &lpar;Or, How I Accidentally Made a Talking Potato Famous!&rpar;](https://dev.to/createvideoai/how-ai-is-revolutionizing-video-content-creation-or-how-i-accidentally-made-a-talking-potato-13n)
+- [Wordpress get_template_part&lpar;&rpar; is just great](https://dev.to/elbasiri/wordpress-gettemplatepart-is-just-great-5824)
+- [The Risk of Not Investing in Early Stages](https://dev.to/twelvepercent/the-risk-of-not-investing-in-early-stages-4ddp)
+- [Simple search and library application with Next.js x OpenSearch x Lambda&lpar;Python&rpar;](https://dev.to/toshipy/simple-search-and-library-application-with-nextjs-x-opensearch-x-lambdapython-1bdh)
 <!-- BLOG-POST-LIST:END -->
 
