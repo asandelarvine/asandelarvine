@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [45+ Free GitHub Repositories That Will Instantly Level Up Your Coding Game!](https://dev.to/gittech/45-free-github-repositories-that-will-instantly-level-up-your-coding-game-3pn8)
-- [Injectable Models - Influence How LLama Behaves](https://dev.to/shrsv/injectable-models-influence-how-llama-behaves-54ip)
-- [Classify &amp; Label Customer Service Chats with Python, OpenAI and Langchain](https://dev.to/andresurdaneta/classify-label-customer-service-chats-with-python-openai-and-langchain-2a53)
-- [Check out my new Portfolio!](https://dev.to/burakdev/check-out-my-new-portfolio-2hb4)
+- [police thief while using &quot;logical thinking&quot;](https://dev.to/yaswanth_krishna_81faee1e/police-thief-while-using-logical-thinking-4ipl)
+- [python using Eb bill basic](https://dev.to/yaswanth_krishna_81faee1e/python-using-eb-bill-basic-8f9)
+- [🍽️ Obsidian: Restaurantes](https://dev.to/oscareduardolp6/obsidian-restaurantes-28nm)
+- [🍽️ Obsidian: Restaurant&#39;s rating](https://dev.to/oscareduardolp6/obsidian-restaurants-rating-3fcb)
 <!-- BLOG-POST-LIST:END -->
 
