@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I am Lazy and Exam is here,So here is Easy way to kill It.](https://dev.to/ujjwal_nepal/i-am-lazy-and-exam-is-hereso-here-is-easy-way-to-kill-it-4nod)
-- [Why mode: &quot;no-cors&quot; won&#39;t fix your CORS errors](https://dev.to/reynaldi/why-mode-no-cors-wont-fix-your-cors-errors-250)
-- [Talos Linux: The Kubernetes OS That’s Changing the Game &lpar;and Why You Should Care&rpar;](https://dev.to/binyam/talos-linux-the-kubernetes-os-thats-changing-the-game-and-why-you-should-care-462k)
-- [API Versioning in .NET 8](https://dev.to/hilman_karyadi_39272fd379/api-versioning-in-net-8-3ao4)
+- [My Honest Review of Interserver.net](https://dev.to/nixx/my-honest-review-of-interservernet-17n)
+- [Descubre el mundo de Bitcoin con el curso de introducción de Synzen](https://dev.to/angel_rojas_6904bae237a0d/descubre-el-mundo-de-bitcoin-con-el-curso-de-introduccion-de-synzen-2odk)
+- [Blockchain and Social Media: A New Era of Digital Communication](https://dev.to/jennythomas498/blockchain-and-social-media-a-new-era-of-digital-communication-8d2)
+- [Blockchain and Intellectual Property: A Paradigm Shift in Rights Management](https://dev.to/ashucommits/blockchain-and-intellectual-property-a-paradigm-shift-in-rights-management-20f2)
 <!-- BLOG-POST-LIST:END -->
 
