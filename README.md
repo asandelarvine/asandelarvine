@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [npm, npx, yarn və pnpm - Hansı Paket Menecerini Seçməlisiniz? 🚀](https://dev.to/musali_murat_1caa10e3b631/npm-npx-yarn-v-pnpm-hansi-paket-menecerini-secmlisiniz-48lb)
-- [NVM Basics &amp; Bash Aliases: Simplify Your Development Workflow](https://dev.to/dionarodrigues/nvm-basics-bash-aliases-simplify-your-development-workflow-202g)
-- [The Resume-Driven Development Epidemic: Building for Your Next Job, Not the Business](https://dev.to/hotfixhero/the-resume-driven-development-epidemic-building-for-your-next-job-not-the-business-4e1)
-- [Deploying a Simple Number Classification API with Node.js and Render](https://dev.to/adetola_hannah_2e98442743/deploying-a-simple-number-classification-api-with-nodejs-and-render-3bo9)
+- [Angular Konami Service](https://dev.to/mrgrigri/angular-konami-service-2fjc)
+- [Data oriented python](https://dev.to/kristofbcoding/data-oriented-python-3m25)
+- [🌐 AI Agents: The Silent Revolution in Your Tech Stack &lpar;That’s About to Get Loud&rpar;](https://dev.to/tomtomdu73/ai-agents-the-silent-revolution-in-your-tech-stack-thats-about-to-get-loud-2e04)
+- [SQL-Server database table row count](https://dev.to/karenpayneoregon/sql-server-database-table-row-count-4l1h)
 <!-- BLOG-POST-LIST:END -->
 
