@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [To test or not to test, &quot;How&quot; is the question!](https://dev.to/pooyan/to-test-or-not-to-test-how-is-the-question-bga)
-- [How Does Continuous Performance Testing Benefit Retail Apps?](https://dev.to/grjoeay/how-does-continuous-performance-testing-benefit-retail-apps-3pi7)
-- [CodePipeline EC2 Action: Simplify your EC2 application deployment pipeline by 90%!](https://dev.to/aws-builders/simplify-your-ec2-application-deployment-pipeline-by-90-2mbk)
-- [Top 5 C# PPT Libraries .NET Developers Should Be Familiar With](https://dev.to/xeshan6981/top-5-c-ppt-libraries-net-developers-should-be-familiar-with-2ehe)
+- [🚀 Supercharge Your Website Speed with Code Splitting &amp; CDN Optimization — A Complete Guide!](https://dev.to/dct_technologyprivatelimited/supercharge-your-website-speed-with-code-splitting-cdn-optimization-a-complete-guide-2fho)
+- [My HNG Internship Journey: A New Chapter in My Front-End Development Path](https://dev.to/toptech5419/my-hng-internship-journey-a-new-chapter-in-my-front-end-development-path-5boe)
+- [Microservices vs Monolithic vs Modular Architecture: Choosing the Right Approach](https://dev.to/amarachigoodness74/microservices-vs-monolithic-vs-modular-architecture-choosing-the-right-approach-1jn7)
+- [History of Laravel: How Laravel Started and Where It Stands Today](https://dev.to/ehtesham_ali_abc367f36a5b/history-of-laravel-how-laravel-started-and-where-it-stands-today-236n)
 <!-- BLOG-POST-LIST:END -->
 
