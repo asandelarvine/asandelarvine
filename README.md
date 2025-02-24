@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Kafka? A Developer-Friendly Guide to Event-Driven Architecture](https://dev.to/lovestaco/why-kafka-a-developer-friendly-guide-to-event-driven-architecture-4ekf)
-- [🚀 Elon Musk’s Grok 3: A Game-Changer in AI or Just Another Competitor? 🤖](https://dev.to/stacks_gather_f66c31eb9d6/elon-musks-grok-3-a-game-changer-in-ai-or-just-another-competitor-337d)
-- [13 GitHub Projects that Empower AI, Enhance Privacy, and Simplify Development 🌟](https://dev.to/bruh_buh_f683772f171823db/13-github-projects-that-empower-ai-enhance-privacy-and-simplify-development-44f1)
-- [Build RAG Chatbot with LangChain, Milvus, Anthropic Claude 3 Opus, and OpenAI text-embedding-3-small](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-anthropic-claude-3-opus-and-openai-text-embedding-3-small-e2k)
+- [45+ Free GitHub Repositories That Will Instantly Level Up Your Coding Game!](https://dev.to/gittech/45-free-github-repositories-that-will-instantly-level-up-your-coding-game-3pn8)
+- [Injectable Models - Influence How LLama Behaves](https://dev.to/shrsv/injectable-models-influence-how-llama-behaves-54ip)
+- [Classify &amp; Label Customer Service Chats with Python, OpenAI and Langchain](https://dev.to/andresurdaneta/classify-label-customer-service-chats-with-python-openai-and-langchain-2a53)
+- [Check out my new Portfolio!](https://dev.to/burakdev/check-out-my-new-portfolio-2hb4)
 <!-- BLOG-POST-LIST:END -->
 
