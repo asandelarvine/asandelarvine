@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Ethereum Reach $10,000? Predictions &amp; Market Trends](https://dev.to/cryptogem123/will-ethereum-reach-10000-predictions-market-trends-2ic9)
-- [What Exactly is Debouncing in JavaScript?](https://dev.to/codeguage/what-exactly-is-debouncing-in-javascript-4o9e)
-- [A Beginner&#39;s Guide to C# Programming](https://dev.to/million_formula_3be3d915d/a-beginners-guide-to-c-programming-1li3)
-- [Guardius and OWASP ZAP: Boosting Web Application Security with Comprehensive Scanning](https://dev.to/guardius/guardius-and-owasp-zap-boosting-web-application-security-with-comprehensive-scanning-44fi)
+- [To test or not to test, &quot;How&quot; is the question!](https://dev.to/pooyan/to-test-or-not-to-test-how-is-the-question-bga)
+- [How Does Continuous Performance Testing Benefit Retail Apps?](https://dev.to/grjoeay/how-does-continuous-performance-testing-benefit-retail-apps-3pi7)
+- [CodePipeline EC2 Action: Simplify your EC2 application deployment pipeline by 90%!](https://dev.to/aws-builders/simplify-your-ec2-application-deployment-pipeline-by-90-2mbk)
+- [Top 5 C# PPT Libraries .NET Developers Should Be Familiar With](https://dev.to/xeshan6981/top-5-c-ppt-libraries-net-developers-should-be-familiar-with-2ehe)
 <!-- BLOG-POST-LIST:END -->
 
