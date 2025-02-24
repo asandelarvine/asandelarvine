@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [police thief while using &quot;logical thinking&quot;](https://dev.to/yaswanth_krishna_81faee1e/police-thief-while-using-logical-thinking-4ipl)
-- [python using Eb bill basic](https://dev.to/yaswanth_krishna_81faee1e/python-using-eb-bill-basic-8f9)
-- [🍽️ Obsidian: Restaurantes](https://dev.to/oscareduardolp6/obsidian-restaurantes-28nm)
-- [🍽️ Obsidian: Restaurant&#39;s rating](https://dev.to/oscareduardolp6/obsidian-restaurants-rating-3fcb)
+- [Hacking Leetcode runtimes!!](https://dev.to/tushar_sandhu/hacking-leetcode-runtimes-5blo)
+- [The Cracked Engineer - A Journey to Low-Latency Principles](https://dev.to/gho5t_97/the-cracked-engineer-a-journey-to-low-latency-principles-1jnc)
+- [🚀👨‍💻 Let me help you level up from junior!](https://dev.to/fonteeboa/let-me-help-you-level-up-from-junior-1jc2)
+- [Claude 3.7 Released](https://dev.to/peter/claude-37-released-e95)
 <!-- BLOG-POST-LIST:END -->
 
