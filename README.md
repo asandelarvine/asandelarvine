@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠🤖Image generative AI on PC without GPU &lpar;free and fast &lpar;FastSD CPU&rpar;&rpar;](https://dev.to/webdeveloperhyper/image-generative-ai-on-pc-without-gpu-free-and-fast-fastsd-cpu-1jio)
-- [Tackling Cold Starts in AWS Lambda: A Deep Dive with LLRT](https://dev.to/siddhantkcode/tackling-cold-starts-in-aws-lambda-a-deep-dive-with-llrt-17d7)
-- [Bulk Email Service Provider](https://dev.to/sam_devid_65bbbe34ab06c1a/bulk-email-service-provider-2hn6)
-- [Property Management Made Simple: A Guide to Effortless Real Estate Operations](https://dev.to/bhavesh_gangani_/property-management-made-simple-a-guide-to-effortless-real-estate-operations-46a0)
+- [The 4 API&#39;s of the Power Platform](https://dev.to/wyattdave/the-4-apis-of-the-power-platform-1mm8)
+- [How Python Powers Scalable and Cost-Effective Cloud Solutions](https://dev.to/chiragsinh_vaghela21/how-python-powers-scalable-and-cost-effective-cloud-solutions-230l)
+- [The Ever-Changing Tech Trends: How to Adapt Without Burning Out](https://dev.to/matemiller/the-ever-changing-tech-trends-how-to-adapt-without-burning-out-5e1a)
+- [I Launched My Portfolio Website! I Need Your Feedback](https://dev.to/sovannaro/i-launched-my-portfolio-website-i-need-your-feedback-3onp)
 <!-- BLOG-POST-LIST:END -->
 
