@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Efficiency: LServe&#39;s Breakthrough in Long-Sequence Language Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-lserves-breakthrough-in-long-sequence-language-models-2jaa)
-- [Commit to marriage with TLA+ pt.2](https://dev.to/0xgeorgii/commit-to-marriage-with-tla-pt2-2n08)
-- [CSS Art: February - Sunflower Month](https://dev.to/danilo_abramowicz/css-art-february-sunflower-month-4i89)
-- [🚀 Bootstrap vs. Tailwind CSS – Which One Should You Use? 🎨💻](https://dev.to/erasmuskotoka/bootstrap-vs-tailwind-css-which-one-should-you-use-24io)
+- [Hypothesis Testing: Purpose, Importance, and Applications](https://dev.to/sum_byron/hypothesis-testing-purpose-importance-and-applications-1nim)
+- [Taking pretty printing of logs to the next level with LogLayer](https://dev.to/theogravity/taking-pretty-printing-of-logs-to-the-next-level-with-loglayer-1nnp)
+- [Jekyll Github Pages Website](https://dev.to/anusree6154s/jekyll-github-pages-website-4poh)
+- [Code Coverage - Aim for 100% but not 100%](https://dev.to/adegiamb/code-coverage-aim-for-100-but-not-100-i0f)
 <!-- BLOG-POST-LIST:END -->
 
