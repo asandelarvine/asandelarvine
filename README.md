@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Access modifiers explained via anime! 🦸‍♀️🦸‍♂️](https://dev.to/iamabdul/access-modifiers-explained-via-anime-108p)
-- [Creating your own Ai Assistant - Core Backend walkthrough](https://dev.to/shaikr786/creating-your-own-ai-assistant-core-backend-walkthrough-3906)
-- [esProc SPL &amp; MongoDB: A Match Made in Data Heaven](https://dev.to/brett_hoffman/esproc-spl-mongodb-a-match-made-in-data-heaven-5fjj)
-- [Mastering Data Integration with Azure Data Factory](https://dev.to/sanket00123/mastering-data-integration-with-azure-data-factory-57lc)
+- [Geração Automática de Testes: Comparando Abordagens Tradicionais e Baseadas em IA](https://dev.to/asouza/geracao-automatica-de-testes-comparando-abordagens-tradicionais-e-baseadas-em-ia-52d4)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-29k6)
+- [Security Triggers in PL/SQL](https://dev.to/mrcaption49/security-triggers-in-plsql-45pl)
+- [11+ Best Websites to Download Free Next.js Template](https://dev.to/vinishbhaskar/best-websites-for-free-nextjs-template-l87)
 <!-- BLOG-POST-LIST:END -->
 
