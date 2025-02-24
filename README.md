@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Leetcode runtimes!!](https://dev.to/tushar_sandhu/hacking-leetcode-runtimes-5blo)
-- [The Cracked Engineer - A Journey to Low-Latency Principles](https://dev.to/gho5t_97/the-cracked-engineer-a-journey-to-low-latency-principles-1jnc)
-- [🚀👨‍💻 Let me help you level up from junior!](https://dev.to/fonteeboa/let-me-help-you-level-up-from-junior-1jc2)
-- [Claude 3.7 Released](https://dev.to/peter/claude-37-released-e95)
+- [npm, npx, yarn və pnpm - Hansı Paket Menecerini Seçməlisiniz? 🚀](https://dev.to/musali_murat_1caa10e3b631/npm-npx-yarn-v-pnpm-hansi-paket-menecerini-secmlisiniz-48lb)
+- [NVM Basics &amp; Bash Aliases: Simplify Your Development Workflow](https://dev.to/dionarodrigues/nvm-basics-bash-aliases-simplify-your-development-workflow-202g)
+- [The Resume-Driven Development Epidemic: Building for Your Next Job, Not the Business](https://dev.to/hotfixhero/the-resume-driven-development-epidemic-building-for-your-next-job-not-the-business-4e1)
+- [Deploying a Simple Number Classification API with Node.js and Render](https://dev.to/adetola_hannah_2e98442743/deploying-a-simple-number-classification-api-with-nodejs-and-render-3bo9)
 <!-- BLOG-POST-LIST:END -->
 
