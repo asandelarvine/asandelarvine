@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4 API&#39;s of the Power Platform](https://dev.to/wyattdave/the-4-apis-of-the-power-platform-1mm8)
-- [How Python Powers Scalable and Cost-Effective Cloud Solutions](https://dev.to/chiragsinh_vaghela21/how-python-powers-scalable-and-cost-effective-cloud-solutions-230l)
-- [The Ever-Changing Tech Trends: How to Adapt Without Burning Out](https://dev.to/matemiller/the-ever-changing-tech-trends-how-to-adapt-without-burning-out-5e1a)
-- [I Launched My Portfolio Website! I Need Your Feedback](https://dev.to/sovannaro/i-launched-my-portfolio-website-i-need-your-feedback-3onp)
+- [Access modifiers explained via anime! 🦸‍♀️🦸‍♂️](https://dev.to/iamabdul/access-modifiers-explained-via-anime-108p)
+- [Creating your own Ai Assistant - Core Backend walkthrough](https://dev.to/shaikr786/creating-your-own-ai-assistant-core-backend-walkthrough-3906)
+- [esProc SPL &amp; MongoDB: A Match Made in Data Heaven](https://dev.to/brett_hoffman/esproc-spl-mongodb-a-match-made-in-data-heaven-5fjj)
+- [Mastering Data Integration with Azure Data Factory](https://dev.to/sanket00123/mastering-data-integration-with-azure-data-factory-57lc)
 <!-- BLOG-POST-LIST:END -->
 
