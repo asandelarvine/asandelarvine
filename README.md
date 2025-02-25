@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend basics -Html &amp; CSS &lpar;1&rpar;](https://dev.to/kaushikalex/frontend-basics-html-css-1-4n4i)
-- [Untitled](https://dev.to/baqdaulet_dcb9f230420e417/untitled-1df6)
-- [Advanced NLP Tasks: Taking Text Processing to the Next Level](https://dev.to/mayankcse/advanced-nlp-tasks-taking-text-processing-to-the-next-level-4h0f)
-- [Simplifying React Hooks: useMemo 💯](https://dev.to/alisamir/simplifying-react-hooks-usememo-3e36)
+- [Why I&#39;m hooked on Rust 🦀 ?](https://dev.to/bekbrace/why-im-hooked-on-rust--2kab)
+- [JavaScript Closures – The Most Misunderstood Concept?](https://dev.to/hijazi313/javascript-closures-the-most-misunderstood-concept-5c2l)
+- [Flame Shield: Protect Your Firebase Budget](https://dev.to/dllewellyn/flame-shield-protect-your-firebase-budget-2mea)
+- [🔥 Τι θα μάθουμε σε αυτό το άρθρο;](https://dev.to/__b63657/ti-tha-mathoume-se-auto-to-arthro-3j8p)
 <!-- BLOG-POST-LIST:END -->
 
