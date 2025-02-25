@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Clearer Future: Trending Screen Resolutions to Watch in 2025](https://dev.to/asher_hartwell_f827d28b67/a-clearer-future-trending-screen-resolutions-to-watch-in-2025-51h5)
-- [Java Full Stack Developer Roadmap for Beginners](https://dev.to/vishalkumar1111/java-full-stack-developer-roadmap-for-beginners-3024)
-- [Blog: Building a Visitor Management System with PyQt6 and SQLite](https://dev.to/srimathi10/blog-building-a-visitor-management-system-with-pyqt6-and-sqlite-1b27)
-- [Exploring Innovative Ruby on Rails Open Source Projects for Developers](https://dev.to/jetthoughts/exploring-innovative-ruby-on-rails-open-source-projects-for-developers-4ale)
+- [Adaptive UI in React: Constructing Self-Configuring and Context-Aware Components](https://dev.to/raajaryan/adaptive-ui-in-react-constructing-self-configuring-and-context-aware-components-1e7n)
+- [Accurate PDF to Text Conversion in C# Apps](https://dev.to/shahzad_ashraf_5ea18e2b2d/accurate-pdf-to-text-conversion-in-c-apps-p6a)
+- [Prompt Engineering Patterns for Successful RAG Implementations](https://dev.to/shittu_olumide_/prompt-engineering-patterns-for-successful-rag-implementations-2m2e)
+- [Great learning resource 👍🏽](https://dev.to/rcarrasquillo19/great-learning-resource-294p)
 <!-- BLOG-POST-LIST:END -->
 
