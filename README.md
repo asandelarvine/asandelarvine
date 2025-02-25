@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Prototyping an Insulin Calculator WebApp with AI Tools and Open Food Facts API](https://dev.to/aflussing/rapid-prototyping-an-insulin-calculator-webapp-with-ai-tools-and-open-food-facts-api-2emk)
-- [Study Notes 4.3.1 - Build the First dbt Models](https://dev.to/pizofreude/study-notes-431-build-the-first-dbt-models-2nl3)
-- [About the Dead Internet Theory and AI](https://dev.to/rogiia/about-the-dead-internet-theory-and-ai-35g)
-- [Answer: How to use the addr2line command in Linux?](https://dev.to/dobby33/answer-how-to-use-the-addr2line-command-in-linux-35of)
+- [Kwaak, a different take on AI coding tools](https://dev.to/timonv/kwaak-a-different-take-on-ai-coding-tools-7fi)
+- [Using LAST_INSERT_ID&lpar;&rpar; in MySQL to Insert Related Data](https://dev.to/tommykw/using-lastinsertid-in-mysql-to-insert-related-data-b1j)
+- [D-Separation](https://dev.to/efeng2/d-separation-4pl5)
+- [Configurando TypeORM com PostgreSQL usando Docker.](https://dev.to/jardelima/configurando-typeorm-com-postgresql-usando-docker-2m48)
 <!-- BLOG-POST-LIST:END -->
 
