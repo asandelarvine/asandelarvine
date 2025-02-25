@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Time-Series Databases vs. Streaming Databases: Key Differences &amp; Use Cases](https://dev.to/__354f265b41dafa0d901b/time-series-databases-vs-streaming-databases-key-differences-use-cases-514e)
-- [Time-Series Databases vs. Streaming Databases: Key Differences &amp; Use Cases](https://dev.to/__354f265b41dafa0d901b/time-series-databases-vs-streaming-databases-key-differences-use-cases-4f4e)
-- [Building a Background Worker Service in .NET](https://dev.to/nick_proud/building-a-background-worker-service-in-net-97g)
-- [Just Launched My Side Project — Would Love Your Feedback! 🚀](https://dev.to/vladyusha/just-launched-my-side-project-would-love-your-feedback-4ilb)
+- [Chegg Sues Google Over AI Summaries, Citing Unfair Competition and Revenue Losses](https://dev.to/saad_hassan_8f937dc6fafc9/chegg-sues-google-over-ai-summaries-citing-unfair-competition-and-revenue-losses-3580)
+- [6 Advanced JavaScript Techniques for Building Fast Real-Time Search Interfaces | Tutorial 2024](https://dev.to/aaravjoshi/6-advanced-javascript-techniques-for-building-fast-real-time-search-interfaces-tutorial-2024-2ab8)
+- [Google Play Console — Introduction](https://dev.to/kamleshj/google-play-console-introduction-4d4n)
+- [Summary of Beginner&#39;s Knowledge of CPLD](https://dev.to/carolineee/summary-of-beginners-knowledge-of-cpld-2jc9)
 <!-- BLOG-POST-LIST:END -->
 
