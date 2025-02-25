@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AS Backend Dev](https://dev.to/anjali_gurjar_dff81513867/as-backend-dev-kfo)
-- [React v19 Sample Code Examples](https://dev.to/vteacher/react-v19-sample-code-examples-27jj)
-- [Mastering Python: A Comprehensive Guide](https://dev.to/million_formula_3be3d915d/mastering-python-a-comprehensive-guide-529g)
-- [Summer Web Internship: Low-JavaScript Development for 🧶Knitters/Crocheters &lpar;US Only&rpar;](https://dev.to/amigurumi_blhaj/summer-web-internship-low-javascript-development-for-knitterscrocheters-us-only-5504)
+- [Problema de configuración de la base de datos en un entorno virtual de django](https://dev.to/sersobrenatural/problema-de-configuracion-de-la-base-de-datos-en-un-entorno-virtual-de-django-4jn2)
+- [Technologies Learned During a Data Science Course](https://dev.to/lekshmi_525/technologies-learned-during-a-data-science-course-7a1)
+- [How to &quot;EXPIRE&quot; the &quot;HSET&quot; Child Key in Redis?](https://dev.to/iamrj846/how-to-expire-the-hset-child-key-in-redis-45gp)
+- [Which is better for efficiency - Redis Strings vs Redis Hashes to Represent JSON?](https://dev.to/iamrj846/which-is-better-for-efficiency-redis-strings-vs-redis-hashes-to-represent-json-2ge5)
 <!-- BLOG-POST-LIST:END -->
 
