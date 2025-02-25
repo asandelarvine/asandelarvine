@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1nc5)
-- [When I Finally Felt Like a Real Developer](https://dev.to/andrew_moody_41/when-i-finally-felt-like-a-real-developer-3fg5)
-- [Kubernetes Autoscaling 101: 3 Methods and 5 Best Practices](https://dev.to/cloudpilot-ai/kubernetes-autoscaling-101-3-methods-and-5-best-practices-2152)
-- [FRONT END DEVELOPMENT-1](https://dev.to/bagavath_98/front-end-development-3apl)
+- [Frontend basics -Html &amp; CSS &lpar;1&rpar;](https://dev.to/kaushikalex/frontend-basics-html-css-1-4n4i)
+- [Untitled](https://dev.to/baqdaulet_dcb9f230420e417/untitled-1df6)
+- [Advanced NLP Tasks: Taking Text Processing to the Next Level](https://dev.to/mayankcse/advanced-nlp-tasks-taking-text-processing-to-the-next-level-4h0f)
+- [Simplifying React Hooks: useMemo 💯](https://dev.to/alisamir/simplifying-react-hooks-usememo-3e36)
 <!-- BLOG-POST-LIST:END -->
 
