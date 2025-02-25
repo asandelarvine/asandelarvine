@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reactive System in Typescript - Introduction to Reactivity](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-introduction-to-reactivity-34lh)
-- [Building a Reactive System in Typescript - Writing a Signal](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-writing-a-signal-120c)
-- [One-click City Generation with GISBox](https://dev.to/gisbox/one-click-city-generation-with-gisbox-27h7)
-- [Using React-admin Dashboard for Application Management](https://dev.to/saurabh2k1/using-react-admin-dashboard-for-application-management-3eb2)
+- [📰 Americas Gold &amp; Silver Provides Galena Complex Operational and Exploration Update](https://dev.to/d_thiranjaya_6d3ec4552111/americas-gold-silver-provides-galena-complex-operational-and-exploration-update-1mkc)
+- [Why AI in Healthcare? My Journey into Product Management and Caregiving Innovation 🤖❤️](https://dev.to/tayelolu/why-ai-in-healthcare-my-journey-into-product-management-and-caregiving-innovation-1144)
+- [Discover Apple Arts Studios’ New Motion Capture Facility](https://dev.to/apple_arts_d3d81e0e4232f2/discover-apple-arts-studios-new-motion-capture-facility-38d0)
+- [Frontend Development](https://dev.to/vasutamil19/frontend-development-1835)
 <!-- BLOG-POST-LIST:END -->
 
