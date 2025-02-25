@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Blog 1](https://dev.to/capricious_daksh/hello-blog-1-25fn)
-- [#28.2 Part 2/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/282-part-23-basics-of-software-architecture-and-design-patterns-haf)
-- [Claude 3.7 Sonnet by Antrophic: A Revolutionary Hybrid Reasoning AI Model](https://dev.to/mehmetakar/claude-37-sonnet-by-antrophic-a-revolutionary-hybrid-reasoning-ai-model-4dj0)
-- [Image Optimization in Astro: Boost Site Performance and SEO](https://dev.to/saida_lachgar/image-optimization-in-astro-boost-site-performance-and-seo-2k80)
+- [How to Handle Date and Time Correctly to Avoid Timezone Bugs](https://dev.to/kcsujeet/how-to-handle-date-and-time-correctly-to-avoid-timezone-bugs-4o03)
+- [How to Make Your Internship Successful: Lessons from Hosting Interns Over the Years](https://dev.to/aaronli-mf/how-to-make-your-internship-successful-lessons-from-hosting-interns-over-the-years-1nko)
+- [Navigating Tech: Lessons in Growth, Mentorship, and Career Success](https://dev.to/tyreechrisp/navigating-tech-lessons-in-growth-mentorship-and-career-success-je3)
+- [Careers in cloud computing](https://dev.to/aws-builders/careers-in-cloud-computing-3da2)
 <!-- BLOG-POST-LIST:END -->
 
