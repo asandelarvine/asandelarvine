@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kwaak, a different take on AI coding tools](https://dev.to/timonv/kwaak-a-different-take-on-ai-coding-tools-7fi)
-- [Using LAST_INSERT_ID&lpar;&rpar; in MySQL to Insert Related Data](https://dev.to/tommykw/using-lastinsertid-in-mysql-to-insert-related-data-b1j)
-- [D-Separation](https://dev.to/efeng2/d-separation-4pl5)
-- [Configurando TypeORM com PostgreSQL usando Docker.](https://dev.to/jardelima/configurando-typeorm-com-postgresql-usando-docker-2m48)
+- [We are almost about to hit our goal!](https://dev.to/shrutikapoor08/we-are-almost-about-to-hit-our-goal-558l)
+- [DeepSeek Always Busy? Deploy It Locally with Milvus in Just 10 Minutes—No More Waiting!](https://dev.to/zilliz/deepseek-always-busy-deploy-it-locally-with-milvus-in-just-10-minutes-no-more-waiting-3o4f)
+- [#28.3 Part 3/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/283-part-33-basics-of-software-architecture-and-design-patterns-436d)
+- [Talk 2 AI Agent Using LOLANG: The Future of AI-to-AI Communication 🤖💬](https://dev.to/loaiabdalslam/talk-2-ai-agent-using-lolang-the-future-of-ai-to-ai-communication-2j1e)
 <!-- BLOG-POST-LIST:END -->
 
