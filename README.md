@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Trending GitHub Repositories, February 2025](https://dev.to/leamsigc/top-10-trending-github-repositories-february-2025-1pi5)
-- [What is a Video Player SDK for Android? A Beginner’s Guide](https://dev.to/livestreaming/what-is-a-video-player-sdk-for-android-a-beginners-guide-1aie)
-- [&quot;Unlocking Long-Context Potential: Advances in Speculative Decoding for LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-long-context-potential-advances-in-speculative-decoding-for-llms-53l8)
-- [Create Website Moldova: Key Steps for a Successful Online Presence](https://dev.to/__116c3f/create-website-moldova-key-steps-for-a-successful-online-presence-20ip)
+- [Time-Series Databases vs. Streaming Databases: Key Differences &amp; Use Cases](https://dev.to/__354f265b41dafa0d901b/time-series-databases-vs-streaming-databases-key-differences-use-cases-514e)
+- [Time-Series Databases vs. Streaming Databases: Key Differences &amp; Use Cases](https://dev.to/__354f265b41dafa0d901b/time-series-databases-vs-streaming-databases-key-differences-use-cases-4f4e)
+- [Building a Background Worker Service in .NET](https://dev.to/nick_proud/building-a-background-worker-service-in-net-97g)
+- [Just Launched My Side Project — Would Love Your Feedback! 🚀](https://dev.to/vladyusha/just-launched-my-side-project-would-love-your-feedback-4ilb)
 <!-- BLOG-POST-LIST:END -->
 
