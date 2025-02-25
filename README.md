@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adaptive UI in React: Constructing Self-Configuring and Context-Aware Components](https://dev.to/raajaryan/adaptive-ui-in-react-constructing-self-configuring-and-context-aware-components-1e7n)
-- [Accurate PDF to Text Conversion in C# Apps](https://dev.to/shahzad_ashraf_5ea18e2b2d/accurate-pdf-to-text-conversion-in-c-apps-p6a)
-- [Prompt Engineering Patterns for Successful RAG Implementations](https://dev.to/shittu_olumide_/prompt-engineering-patterns-for-successful-rag-implementations-2m2e)
-- [Great learning resource 👍🏽](https://dev.to/rcarrasquillo19/great-learning-resource-294p)
+- [How to Fix Common Issues with Responsive Layouts Using Tailwind CSS](https://dev.to/rowsanali/how-to-fix-common-issues-with-responsive-layouts-using-tailwind-css-30gi)
+- [Réseau fibre domestique](https://dev.to/v0id_lab/reseau-fibre-domestique-mf1)
+- [Implementing SSL/TLS Auth in gRPC](https://dev.to/letsdotech/implementing-ssltls-auth-in-grpc-2jmf)
+- [😃 AI.Facial.Emotion – A .NET Library for Facial Emotion Analysis](https://dev.to/ngtduc693/aifacialemotion-a-net-library-for-facial-emotion-analysis-4pe)
 <!-- BLOG-POST-LIST:END -->
 
