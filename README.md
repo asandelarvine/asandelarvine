@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Problema de configuración de la base de datos en un entorno virtual de django](https://dev.to/sersobrenatural/problema-de-configuracion-de-la-base-de-datos-en-un-entorno-virtual-de-django-4jn2)
-- [Technologies Learned During a Data Science Course](https://dev.to/lekshmi_525/technologies-learned-during-a-data-science-course-7a1)
-- [How to &quot;EXPIRE&quot; the &quot;HSET&quot; Child Key in Redis?](https://dev.to/iamrj846/how-to-expire-the-hset-child-key-in-redis-45gp)
-- [Which is better for efficiency - Redis Strings vs Redis Hashes to Represent JSON?](https://dev.to/iamrj846/which-is-better-for-efficiency-redis-strings-vs-redis-hashes-to-represent-json-2ge5)
+- [All Docker Commands](https://dev.to/sujithvsuresh/all-docker-commands-dbb)
+- [Using Prisma ORM with Next.js 15, TypeScript, and PostgreSQL](https://dev.to/mihir_bhadak/using-prisma-orm-with-nextjs-15-typescript-and-postgresql-2b96)
+- [1524. Number of Sub-arrays With Odd Sum](https://dev.to/mdarifulhaque/1524-number-of-sub-arrays-with-odd-sum-3f44)
+- [Stats Cards By Manish](https://dev.to/manish_gupta_c941c8554cae/stats-cards-by-manish-4bg2)
 <!-- BLOG-POST-LIST:END -->
 
