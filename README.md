@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m hooked on Rust 🦀 ?](https://dev.to/bekbrace/why-im-hooked-on-rust--2kab)
-- [JavaScript Closures – The Most Misunderstood Concept?](https://dev.to/hijazi313/javascript-closures-the-most-misunderstood-concept-5c2l)
-- [Flame Shield: Protect Your Firebase Budget](https://dev.to/dllewellyn/flame-shield-protect-your-firebase-budget-2mea)
-- [🔥 Τι θα μάθουμε σε αυτό το άρθρο;](https://dev.to/__b63657/ti-tha-mathoume-se-auto-to-arthro-3j8p)
+- [AI Proqramçılar Üçün Təhlükə, yoxsa Fürsət? 2025-2030](https://dev.to/musalimurat/ai-proqramcilar-ucun-thluk-yoxsa-furst-2025-2030-1256)
+- [GitHub Lança Novo Modelo de Sugestão de Código GPT-4o Copilot](https://dev.to/pachicodes/github-lanca-novo-modelo-de-sugestao-de-codigo-gpt-4o-copilot-3mml)
+- [Why Your Third-Party Plugins Are the Biggest Security Risk &lpar;And How Hackers Exploit Them&rpar;](https://dev.to/danny_anderson/why-your-third-party-plugins-are-the-biggest-security-risk-and-how-hackers-exploit-them-5h56)
+- [Smart Investments: What to be able to Look into a Kitchen and Bathroom Renovation](https://dev.to/homeimprovementtrend44/smart-investments-what-to-be-able-to-look-into-a-kitchen-and-bathroom-renovation-3bd8)
 <!-- BLOG-POST-LIST:END -->
 
