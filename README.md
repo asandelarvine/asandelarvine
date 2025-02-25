@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Must-Read for Beginners: Complete Guide to Registering on Shopee](https://dev.to/falldd/must-read-for-beginners-complete-guide-to-registering-on-shopee-429c)
-- [Microsoft Azure Training: A Beginner’s Guide to Cloud Computing](https://dev.to/aravindh_ramu_a8b26e63c48/microsoft-azure-training-a-beginners-guide-to-cloud-computing-5fmg)
-- [AI-Optimized FPGA Deployments: Challenges &amp; Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
-- [Adding Permissions in your application](https://dev.to/jami6/adding-permissions-in-your-application-43io)
+- [Top 10 Trending GitHub Repositories, February 2025](https://dev.to/leamsigc/top-10-trending-github-repositories-february-2025-1pi5)
+- [What is a Video Player SDK for Android? A Beginner’s Guide](https://dev.to/livestreaming/what-is-a-video-player-sdk-for-android-a-beginners-guide-1aie)
+- [&quot;Unlocking Long-Context Potential: Advances in Speculative Decoding for LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-long-context-potential-advances-in-speculative-decoding-for-llms-53l8)
+- [Create Website Moldova: Key Steps for a Successful Online Presence](https://dev.to/__116c3f/create-website-moldova-key-steps-for-a-successful-online-presence-20ip)
 <!-- BLOG-POST-LIST:END -->
 
