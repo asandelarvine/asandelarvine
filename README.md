@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Date and Time Correctly to Avoid Timezone Bugs](https://dev.to/kcsujeet/how-to-handle-date-and-time-correctly-to-avoid-timezone-bugs-4o03)
-- [How to Make Your Internship Successful: Lessons from Hosting Interns Over the Years](https://dev.to/aaronli-mf/how-to-make-your-internship-successful-lessons-from-hosting-interns-over-the-years-1nko)
-- [Navigating Tech: Lessons in Growth, Mentorship, and Career Success](https://dev.to/tyreechrisp/navigating-tech-lessons-in-growth-mentorship-and-career-success-je3)
-- [Careers in cloud computing](https://dev.to/aws-builders/careers-in-cloud-computing-3da2)
+- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3kkj)
+- [Vite: Modern Frontend İnkişafına Sürət Gətirən Alət 🚀 &lpar;CRA ilə Müqayisə&rpar;](https://dev.to/musalimurat/vite-modern-frontend-inkisafina-surt-gtirn-alt-cra-il-muqayis-1g2a)
+- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3a8f)
+- [Convert Cross Cell to Row Header, Row Header to Column — From SQL to SPL #4](https://dev.to/judith677/convert-cross-cell-to-row-header-row-header-to-column-from-sql-to-spl-4-jpa)
 <!-- BLOG-POST-LIST:END -->
 
