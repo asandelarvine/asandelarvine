@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All Docker Commands](https://dev.to/sujithvsuresh/all-docker-commands-dbb)
-- [Using Prisma ORM with Next.js 15, TypeScript, and PostgreSQL](https://dev.to/mihir_bhadak/using-prisma-orm-with-nextjs-15-typescript-and-postgresql-2b96)
-- [1524. Number of Sub-arrays With Odd Sum](https://dev.to/mdarifulhaque/1524-number-of-sub-arrays-with-odd-sum-3f44)
-- [Stats Cards By Manish](https://dev.to/manish_gupta_c941c8554cae/stats-cards-by-manish-4bg2)
+- [Essentials for a Quick Reliable Infrastructure in AWS Cloud](https://dev.to/sakin_deborah_4a68b191ad4/essentials-for-a-quick-reliable-infrastructure-in-aws-cloud-j8h)
+- [05. REACT NATIVE – EXPORT/IMPORT](https://dev.to/sandatya_widhi_ce7cb1c809/05-react-native-exportimport-26fn)
+- [HTTP Proxy IP: Protect Privacy, Hide Real IP Address](https://dev.to/98ip/http-proxy-ip-protect-privacy-hide-real-ip-address-26n)
+- [Claude 3.7 Sonnet: Where AI Meets Human-Like Problem Solving](https://dev.to/aws-builders/claude-37-sonnet-where-ai-meets-human-like-problem-solving-3bom)
 <!-- BLOG-POST-LIST:END -->
 
