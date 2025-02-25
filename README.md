@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Common Issues with Responsive Layouts Using Tailwind CSS](https://dev.to/rowsanali/how-to-fix-common-issues-with-responsive-layouts-using-tailwind-css-30gi)
-- [Réseau fibre domestique](https://dev.to/v0id_lab/reseau-fibre-domestique-mf1)
-- [Implementing SSL/TLS Auth in gRPC](https://dev.to/letsdotech/implementing-ssltls-auth-in-grpc-2jmf)
-- [😃 AI.Facial.Emotion – A .NET Library for Facial Emotion Analysis](https://dev.to/ngtduc693/aifacialemotion-a-net-library-for-facial-emotion-analysis-4pe)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1nc5)
+- [When I Finally Felt Like a Real Developer](https://dev.to/andrew_moody_41/when-i-finally-felt-like-a-real-developer-3fg5)
+- [Kubernetes Autoscaling 101: 3 Methods and 5 Best Practices](https://dev.to/cloudpilot-ai/kubernetes-autoscaling-101-3-methods-and-5-best-practices-2152)
+- [FRONT END DEVELOPMENT-1](https://dev.to/bagavath_98/front-end-development-3apl)
 <!-- BLOG-POST-LIST:END -->
 
