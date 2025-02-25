@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Proqramçılar Üçün Təhlükə, yoxsa Fürsət? 2025-2030](https://dev.to/musalimurat/ai-proqramcilar-ucun-thluk-yoxsa-furst-2025-2030-1256)
-- [GitHub Lança Novo Modelo de Sugestão de Código GPT-4o Copilot](https://dev.to/pachicodes/github-lanca-novo-modelo-de-sugestao-de-codigo-gpt-4o-copilot-3mml)
-- [Why Your Third-Party Plugins Are the Biggest Security Risk &lpar;And How Hackers Exploit Them&rpar;](https://dev.to/danny_anderson/why-your-third-party-plugins-are-the-biggest-security-risk-and-how-hackers-exploit-them-5h56)
-- [Smart Investments: What to be able to Look into a Kitchen and Bathroom Renovation](https://dev.to/homeimprovementtrend44/smart-investments-what-to-be-able-to-look-into-a-kitchen-and-bathroom-renovation-3bd8)
+- [Rapid Prototyping an Insulin Calculator WebApp with AI Tools and Open Food Facts API](https://dev.to/aflussing/rapid-prototyping-an-insulin-calculator-webapp-with-ai-tools-and-open-food-facts-api-2emk)
+- [Study Notes 4.3.1 - Build the First dbt Models](https://dev.to/pizofreude/study-notes-431-build-the-first-dbt-models-2nl3)
+- [About the Dead Internet Theory and AI](https://dev.to/rogiia/about-the-dead-internet-theory-and-ai-35g)
+- [Answer: How to use the addr2line command in Linux?](https://dev.to/dobby33/answer-how-to-use-the-addr2line-command-in-linux-35of)
 <!-- BLOG-POST-LIST:END -->
 
