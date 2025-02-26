@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Execute Shell Commands with Boost.Process](https://dev.to/marcosplusplus/execute-shell-commands-with-boostprocess-4m8l)
-- [🚀 Coding Smarter, Not Harder – Insights on Developer Focus &amp; Workflow](https://dev.to/devek/coding-smarter-not-harder-insights-on-developer-focus-workflow-4pka)
-- [My Experience Learning C++ &lpar;so far&rpar;](https://dev.to/pxlmastrxd/my-experience-learning-c-so-far-25pk)
-- [Como Configurar Múltiplas Contas do GitHub em um Único Computador](https://dev.to/vitorrios1001/como-configurar-multiplas-contas-do-github-em-um-unico-computador-aop)
+- [Apart from Clean Code, I prefer and recommend another one:](https://dev.to/canro91/apart-from-clean-code-i-prefer-and-recommend-another-one-48lo)
+- [Understanding the Digital World: Websites, Apps, and How to Own One](https://dev.to/nixx/understanding-the-digital-world-websites-apps-and-how-to-own-one-5am0)
+- [How to Set Up a Subdomain with Nginx and SSL on DigitalOcean](https://dev.to/unclejide1/how-to-set-up-a-subdomain-with-nginx-and-ssl-on-digitalocean-fg0)
+- [Platform-as-a-Runtime &lpar;PaaR&rpar;: Bridging Architectures for Faster, Scalable, and Cost-Effective Development](https://dev.to/naveens16/platform-as-a-runtime-paar-bridging-architectures-for-faster-scalable-and-cost-effective-3g00)
 <!-- BLOG-POST-LIST:END -->
 
