@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Generative AI? Everything You Need to Know](https://dev.to/trretatechnolabs/what-is-generative-ai-everything-you-need-to-know-5g5o)
-- [The Art of Data Scaffolding: Building Strong Foundations for Your Applications](https://dev.to/adamgolan/the-art-of-data-scaffolding-building-strong-foundations-for-your-applications-17n3)
-- [AI-Powered Secret Detection: Future-Proof Your .NET Codebase](https://dev.to/bytehide/ai-powered-secret-detection-future-proof-your-net-codebase-2p78)
-- [Linking Individual Engineering metrics to Business Metrics &lpar;But not the other way around&rpar;](https://dev.to/marcopatino/linking-individual-engineering-metrics-to-business-metrics-but-not-the-other-way-around-59k)
+- [Execute Shell Commands with Boost.Process](https://dev.to/marcosplusplus/execute-shell-commands-with-boostprocess-4m8l)
+- [🚀 Coding Smarter, Not Harder – Insights on Developer Focus &amp; Workflow](https://dev.to/devek/coding-smarter-not-harder-insights-on-developer-focus-workflow-4pka)
+- [My Experience Learning C++ &lpar;so far&rpar;](https://dev.to/pxlmastrxd/my-experience-learning-c-so-far-25pk)
+- [Como Configurar Múltiplas Contas do GitHub em um Único Computador](https://dev.to/vitorrios1001/como-configurar-multiplas-contas-do-github-em-um-unico-computador-aop)
 <!-- BLOG-POST-LIST:END -->
 
