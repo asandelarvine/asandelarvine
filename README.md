@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apart from Clean Code, I prefer and recommend another one:](https://dev.to/canro91/apart-from-clean-code-i-prefer-and-recommend-another-one-48lo)
-- [Understanding the Digital World: Websites, Apps, and How to Own One](https://dev.to/nixx/understanding-the-digital-world-websites-apps-and-how-to-own-one-5am0)
-- [How to Set Up a Subdomain with Nginx and SSL on DigitalOcean](https://dev.to/unclejide1/how-to-set-up-a-subdomain-with-nginx-and-ssl-on-digitalocean-fg0)
-- [Platform-as-a-Runtime &lpar;PaaR&rpar;: Bridging Architectures for Faster, Scalable, and Cost-Effective Development](https://dev.to/naveens16/platform-as-a-runtime-paar-bridging-architectures-for-faster-scalable-and-cost-effective-3g00)
+- [Best Practices for Implementing Automated Incident Response](https://dev.to/kapusto/best-practices-for-implementing-automated-incident-response-5e0m)
+- [The problem with indirections](https://dev.to/danrot90/the-problem-with-indirections-1iii)
+- [Boost Your Productivity with These Powerful Jira Integrations](https://dev.to/tmetric_timer_2b3a575fc8b/boost-your-productivity-with-these-powerful-jira-integrations-251k)
+- [Selecting the Right Website Speed Optimization Tools](https://dev.to/kapusto/selecting-the-right-website-speed-optimization-tools-3c5m)
 <!-- BLOG-POST-LIST:END -->
 
