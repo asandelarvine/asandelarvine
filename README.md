@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Addicted to Programming](https://dev.to/ezpieco/how-to-get-addicted-to-programming-1e37)
-- [Top 5 AI Search Engines to Know in 2025](https://dev.to/zilliz/top-5-ai-search-engines-to-know-in-2025-1p9e)
-- [Sharing Custom Rune Classes with SvelteKit](https://dev.to/jdgamble555/sharing-custom-runes-with-sveltekit-1e37)
-- [Desafio da Mochila &lpar;Knapsack Problem&rpar; em PHP](https://dev.to/matheussesso/desafio-da-mochila-knapsack-problem-em-php-fi9)
+- [[Boost]](https://dev.to/nathanhannon/-4cc4)
+- [How not to write Tailwind](https://dev.to/aryan015/how-not-to-write-tailwind-1dab)
+- [Testing End-to-End Salesforce Flows: Web and Mobile Applications](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-end-to-end-salesforce-flows-web-and-mobile-applications-dcj)
+- [Docker](https://dev.to/yuripeixinho/docker-4649)
 <!-- BLOG-POST-LIST:END -->
 
