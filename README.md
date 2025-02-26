@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang: The Language Revolutionizing Modern Development 🚀](https://dev.to/tavernetech/golang-the-language-revolutionizing-modern-development-22a2)
-- [PHP Tips | Exploring the Flyweight/Singleton Pattern 🏗️](https://dev.to/razielrodrigues/php-tips-exploring-the-flyweightsingleton-pattern-f10)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-iaf)
-- [Unleashing Creativity: Case Studies in Hightopo 3D and Gaussian Splatting](https://dev.to/hightopo/unleashing-creativity-case-studies-in-hightopo-3d-and-gaussian-splatting-59ff)
+- [CryptEnv: Secure Your Environment Variables 🔐](https://dev.to/imduchuyyy/cryptenv-secure-your-environment-variables-4o61)
+- [The Essential Guide to Choosing the Right Blockchain for Your Token](https://dev.to/createmytoken/the-essential-guide-to-choosing-the-right-blockchain-for-your-token-2594)
+- [🔓How to Choose between These Two API Testing Tools: Postman Flow or Apidog Tests✨](https://dev.to/apilover/how-to-choose-between-these-two-api-testing-tools-postman-flow-or-apidog-tests-9ae)
+- [AI-Powered Test Case Generation: The Future of Software Testing](https://dev.to/vaibhavkuls/ai-powered-test-case-generation-the-future-of-software-testing-136g)
 <!-- BLOG-POST-LIST:END -->
 
