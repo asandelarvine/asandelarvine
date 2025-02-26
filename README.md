@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Terraform: Infra as Code in Practice](https://dev.to/aleson-franca/introduction-to-terraform-infra-as-code-in-practice-2i72)
-- [🚀 BGMI Dashboard – Track Your Stats with a Simple Web App! 🎮](https://dev.to/sanjeevdeori/bgmi-dashboard-track-your-stats-with-a-simple-web-app-4ii0)
-- [Untitled](https://dev.to/khalid_75_eb95a7e94d69855/untitled-5o0)
-- [&quot;I Want to Rank #1 on Google!&quot; – How to Solve Real SEO Problems](https://dev.to/mikehtmlallthethings/i-want-to-rank-1-on-google-how-to-solve-real-seo-problems-2eng)
+- [Local vs. Shared Components – Striking the Right Balance](https://dev.to/lucas_cn/local-vs-shared-components-striking-the-right-balance-3g61)
+- [MongoDB find&lpar;&rpar; vs findOne&lpar;&rpar; – Key Differences &amp; Examples](https://dev.to/shehriyar_saleem_d2fd896a/mongodb-find-vs-findone-key-differences-examples-5fhm)
+- [🎯PL/SQL’de Bulk Collect ve FORALL nedir? Ne zaman kullanılır?](https://dev.to/cemgoksu/plsqlde-bulk-collect-ve-forall-nedir-ne-zaman-kullanilir-3nce)
+- [PL/SQL’de Cursor nasıl kullanılır? Cursor WITH HOLD ve WITHOUT HOLD nedir? PL/SQL’de REF CURSOR Nedir?](https://dev.to/cemgoksu/plsqlde-cursor-nasil-kullanilir-cursor-with-hold-ve-without-hold-nedir-plsqlde-ref-cursor-4lnc)
 <!-- BLOG-POST-LIST:END -->
 
