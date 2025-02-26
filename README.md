@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FalkorDB V4.8: Neo4j requires 7x the memory to hold the same dataset](https://dev.to/falkordb/falkordb-v48-neo4j-requires-7x-the-memory-to-hold-the-same-dataset-5c3i)
-- [Watching Claude play Pokemon](https://dev.to/aaronmccollum/watching-claude-play-pokemon-1bie)
-- [smsmobileapi-php](https://dev.to/smsmobileapi/smsmobileapi-php-14nj)
-- [Getting Started with CrossFi Development: Keplr &amp; MetaMask Wallet Integration](https://dev.to/azeezabidoye/getting-started-with-crossfi-development-keplr-metamask-wallet-integration-cj3)
+- [Rely less on Third-Party Services](https://dev.to/ingosteinke/rely-less-on-third-party-services-3gd)
+- [Two AI agents speaking their own language! We are cooked.](https://dev.to/perisicnikola37/two-ai-agents-speaking-their-own-language-we-are-cooked-2klc)
+- [Accelerating Software Delivery with CI/CD](https://dev.to/techstrategy/accelerating-software-delivery-with-cicd-5abg)
+- [The Role of AI and Automation in Modern Semiconductor Factories](https://dev.to/ptdcleantechsolution/the-role-of-ai-and-automation-in-modern-semiconductor-factories-54oh)
 <!-- BLOG-POST-LIST:END -->
 
