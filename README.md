@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1749. Maximum Absolute Sum of Any Subarray](https://dev.to/mdarifulhaque/1749-maximum-absolute-sum-of-any-subarray-3ekh)
-- [How Ibandronic acid 3 mg solution helps in managing osteoporosis effectively](https://dev.to/centurion_heathcare_cf845/how-ibandronic-acid-3-mg-solution-helps-in-managing-osteoporosis-effectively-1fic)
-- [A Guide to Building a Map Application with Svelte](https://dev.to/mierune/a-guide-to-building-a-map-application-with-svelte-58je)
-- [wasting time on env vars](https://dev.to/travisirby/wasting-time-on-env-vars-4apb)
+- [How Keisang HR Is Changing Tech Hiring: A Conversation on Speed and Innovation](https://dev.to/lucasbennett/how-keisang-hr-is-changing-tech-hiring-a-conversation-on-speed-and-innovation-1j74)
+- [Welcome Thread - v316](https://dev.to/devteam/welcome-thread-v316-4ief)
+- [7 Crucial Features to Look for in a JavaScript Framework for Modern Development](https://dev.to/sencha_reext/7-crucial-features-to-look-for-in-a-javascript-framework-for-modern-development-18h0)
+- [Why Fine-tune? Understanding Its Role in Medical AI Models](https://dev.to/matthewmcmullen/why-fine-tune-understanding-its-role-in-medical-ai-models-177p)
 <!-- BLOG-POST-LIST:END -->
 
