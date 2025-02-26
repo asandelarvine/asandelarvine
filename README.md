@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-2b1c)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/friendgrass7/agentic-ai-revolutionizing-cybersecurity-application-security-3fj2)
-- [How AI is Improving Cloud Automation &amp; Orchestration](https://dev.to/anshul_kichara/how-ai-is-improving-cloud-automation-orchestration-c7m)
-- [My Portfolio - Showcasing My MERN Stack Journey](https://dev.to/mahmud-r-farhan/my-portfolio-showcasing-my-mern-stack-journey-3lbd)
+- [Golang: The Language Revolutionizing Modern Development 🚀](https://dev.to/tavernetech/golang-the-language-revolutionizing-modern-development-22a2)
+- [PHP Tips | Exploring the Flyweight/Singleton Pattern 🏗️](https://dev.to/razielrodrigues/php-tips-exploring-the-flyweightsingleton-pattern-f10)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-iaf)
+- [Unleashing Creativity: Case Studies in Hightopo 3D and Gaussian Splatting](https://dev.to/hightopo/unleashing-creativity-case-studies-in-hightopo-3d-and-gaussian-splatting-59ff)
 <!-- BLOG-POST-LIST:END -->
 
