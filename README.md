@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We are almost about to hit our goal!](https://dev.to/shrutikapoor08/we-are-almost-about-to-hit-our-goal-558l)
-- [DeepSeek Always Busy? Deploy It Locally with Milvus in Just 10 Minutes—No More Waiting!](https://dev.to/zilliz/deepseek-always-busy-deploy-it-locally-with-milvus-in-just-10-minutes-no-more-waiting-3o4f)
-- [#28.3 Part 3/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/283-part-33-basics-of-software-architecture-and-design-patterns-436d)
-- [Talk 2 AI Agent Using LOLANG: The Future of AI-to-AI Communication 🤖💬](https://dev.to/loaiabdalslam/talk-2-ai-agent-using-lolang-the-future-of-ai-to-ai-communication-2j1e)
+- [How to Get Addicted to Programming](https://dev.to/ezpieco/how-to-get-addicted-to-programming-1e37)
+- [Top 5 AI Search Engines to Know in 2025](https://dev.to/zilliz/top-5-ai-search-engines-to-know-in-2025-1p9e)
+- [Sharing Custom Rune Classes with SvelteKit](https://dev.to/jdgamble555/sharing-custom-runes-with-sveltekit-1e37)
+- [Desafio da Mochila &lpar;Knapsack Problem&rpar; em PHP](https://dev.to/matheussesso/desafio-da-mochila-knapsack-problem-em-php-fi9)
 <!-- BLOG-POST-LIST:END -->
 
