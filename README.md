@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Create React App to Vite &lpar;with a bonus to Vitest&rpar;](https://dev.to/lucasmelo/migrating-from-create-react-app-to-vite-with-a-bonus-to-vitest-5hi7)
-- [How We Turned Bootstrapping into an Advantage](https://dev.to/lonti-davidb/how-we-turned-bootstrapping-into-an-advantage-3hl5)
-- [JSON Web Tokens &lpar;JWT&rpar; in Web Development](https://dev.to/aryan015/json-web-tokens-jwt-in-web-development-4f7l)
-- [Universal approach to integrate OAuth 2.0 and OpenID Connect into web apps and backends](https://dev.to/mechcloud_academy/universal-approach-to-integrate-oauth-20-and-openid-connect-into-web-apps-and-backends-33ol)
+- [1749. Maximum Absolute Sum of Any Subarray](https://dev.to/mdarifulhaque/1749-maximum-absolute-sum-of-any-subarray-3ekh)
+- [How Ibandronic acid 3 mg solution helps in managing osteoporosis effectively](https://dev.to/centurion_heathcare_cf845/how-ibandronic-acid-3-mg-solution-helps-in-managing-osteoporosis-effectively-1fic)
+- [A Guide to Building a Map Application with Svelte](https://dev.to/mierune/a-guide-to-building-a-map-application-with-svelte-58je)
+- [wasting time on env vars](https://dev.to/travisirby/wasting-time-on-env-vars-4apb)
 <!-- BLOG-POST-LIST:END -->
 
