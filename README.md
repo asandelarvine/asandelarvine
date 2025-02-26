@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CryptEnv: Secure Your Environment Variables 🔐](https://dev.to/imduchuyyy/cryptenv-secure-your-environment-variables-4o61)
-- [The Essential Guide to Choosing the Right Blockchain for Your Token](https://dev.to/createmytoken/the-essential-guide-to-choosing-the-right-blockchain-for-your-token-2594)
-- [🔓How to Choose between These Two API Testing Tools: Postman Flow or Apidog Tests✨](https://dev.to/apilover/how-to-choose-between-these-two-api-testing-tools-postman-flow-or-apidog-tests-9ae)
-- [AI-Powered Test Case Generation: The Future of Software Testing](https://dev.to/vaibhavkuls/ai-powered-test-case-generation-the-future-of-software-testing-136g)
+- [Complement a certain average value to ensure that the total sum remains unchanged:SQL VS SPL](https://dev.to/esproc_spl/complement-a-certain-average-value-to-ensure-that-the-total-sum-remains-unchangedsql-vs-spl-38n1)
+- [JavaScript Asynchronous Magic: Callbacks, Promises, and Async/Await](https://dev.to/sovannaro/javascript-asynchronous-magic-callbacks-promises-and-asyncawait-4aa3)
+- [7 Performance Considerations When Using UUIDs in Node.js: A Developer&#39;s Journey](https://dev.to/terfa_binda/7-performance-considerations-when-using-uuids-in-nodejs-a-developers-journey-6eh)
+- [The Ugly Truth - Upscaling Your Databases Doesn&#39;t Always Help](https://dev.to/metis/the-ugly-truth-upscaling-your-databases-doesnt-always-help-50i5)
 <!-- BLOG-POST-LIST:END -->
 
