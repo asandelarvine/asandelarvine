@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternative to Ruby&#39;s Monkey Patching](https://dev.to/railsdesigner/alternative-to-rubys-monkey-patching-4i7k)
-- [How to Build a Full Stack Agentic Researcher in 5 Minutes ⚡️⚡️](https://dev.to/copilotkit/how-to-build-a-full-stack-agentic-researcher-in-5-minutes-19dp)
-- [Top 5 Best Looking Weather App in JavaScript with Source Code | HTML, CSS &amp; JavaScript Projects](https://dev.to/vishalkumar1111/top-5-best-looking-weather-app-in-javascript-with-source-code-html-css-javascript-projects-2oid)
-- [Windows Blue screen of death](https://dev.to/asterdev/windows-blue-screen-of-death-4i35)
+- [Best JS Frameworks to Learn in 2025: My Expert Take](https://dev.to/holasoymalva/best-js-frameworks-to-learn-in-2025-my-expert-take-52bf)
+- [The Role of Computer Vision in Automation: Transforming Industries](https://dev.to/yoz966/the-role-of-computer-vision-in-automation-transforming-industries-51a3)
+- [Extract Structured Data from PDFs Using Documind](https://dev.to/documind/extract-structured-data-from-pdfs-using-documind-20m9)
+- [React Native To-Do App: Project](https://dev.to/ayoola_damilare_212d5bde0/react-native-to-do-app-project-3kne)
 <!-- BLOG-POST-LIST:END -->
 
