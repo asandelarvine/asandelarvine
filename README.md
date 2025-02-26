@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best JS Frameworks to Learn in 2025: My Expert Take](https://dev.to/holasoymalva/best-js-frameworks-to-learn-in-2025-my-expert-take-52bf)
-- [The Role of Computer Vision in Automation: Transforming Industries](https://dev.to/yoz966/the-role-of-computer-vision-in-automation-transforming-industries-51a3)
-- [Extract Structured Data from PDFs Using Documind](https://dev.to/documind/extract-structured-data-from-pdfs-using-documind-20m9)
-- [React Native To-Do App: Project](https://dev.to/ayoola_damilare_212d5bde0/react-native-to-do-app-project-3kne)
+- [Introduction to Terraform: Infra as Code in Practice](https://dev.to/aleson-franca/introduction-to-terraform-infra-as-code-in-practice-2i72)
+- [🚀 BGMI Dashboard – Track Your Stats with a Simple Web App! 🎮](https://dev.to/sanjeevdeori/bgmi-dashboard-track-your-stats-with-a-simple-web-app-4ii0)
+- [Untitled](https://dev.to/khalid_75_eb95a7e94d69855/untitled-5o0)
+- [&quot;I Want to Rank #1 on Google!&quot; – How to Solve Real SEO Problems](https://dev.to/mikehtmlallthethings/i-want-to-rank-1-on-google-how-to-solve-real-seo-problems-2eng)
 <!-- BLOG-POST-LIST:END -->
 
