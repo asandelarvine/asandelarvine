@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nathanhannon/-4cc4)
-- [How not to write Tailwind](https://dev.to/aryan015/how-not-to-write-tailwind-1dab)
-- [Testing End-to-End Salesforce Flows: Web and Mobile Applications](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-end-to-end-salesforce-flows-web-and-mobile-applications-dcj)
-- [Docker](https://dev.to/yuripeixinho/docker-4649)
+- [Migrating from Create React App to Vite &lpar;with a bonus to Vitest&rpar;](https://dev.to/lucasmelo/migrating-from-create-react-app-to-vite-with-a-bonus-to-vitest-5hi7)
+- [How We Turned Bootstrapping into an Advantage](https://dev.to/lonti-davidb/how-we-turned-bootstrapping-into-an-advantage-3hl5)
+- [JSON Web Tokens &lpar;JWT&rpar; in Web Development](https://dev.to/aryan015/json-web-tokens-jwt-in-web-development-4f7l)
+- [Universal approach to integrate OAuth 2.0 and OpenID Connect into web apps and backends](https://dev.to/mechcloud_academy/universal-approach-to-integrate-oauth-20-and-openid-connect-into-web-apps-and-backends-33ol)
 <!-- BLOG-POST-LIST:END -->
 
