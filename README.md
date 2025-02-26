@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local vs. Shared Components – Striking the Right Balance](https://dev.to/lucas_cn/local-vs-shared-components-striking-the-right-balance-3g61)
-- [MongoDB find&lpar;&rpar; vs findOne&lpar;&rpar; – Key Differences &amp; Examples](https://dev.to/shehriyar_saleem_d2fd896a/mongodb-find-vs-findone-key-differences-examples-5fhm)
-- [🎯PL/SQL’de Bulk Collect ve FORALL nedir? Ne zaman kullanılır?](https://dev.to/cemgoksu/plsqlde-bulk-collect-ve-forall-nedir-ne-zaman-kullanilir-3nce)
-- [PL/SQL’de Cursor nasıl kullanılır? Cursor WITH HOLD ve WITHOUT HOLD nedir? PL/SQL’de REF CURSOR Nedir?](https://dev.to/cemgoksu/plsqlde-cursor-nasil-kullanilir-cursor-with-hold-ve-without-hold-nedir-plsqlde-ref-cursor-4lnc)
+- [Dependency Inversion Principle &lpar;DIP&rpar; with Spring Framework](https://dev.to/gridou/dependency-inversion-principle-dip-with-spring-framework-26i8)
+- [Como criar um projeto com Vite, React, TypeScript e Tailwind v4 🚀](https://dev.to/geane_ramos/como-criar-um-projeto-com-vite-react-typescript-e-tailwind-v4-4ih1)
+- [Tree Shaking vs. Interface Segregation Principle](https://dev.to/gridou/tree-shaking-vs-interface-segregation-principle-399k)
+- [¿Qué es una Landing Zone en la nube? ¿Por qué es clave en AWS?](https://dev.to/briansuarezsantiago/que-es-una-landing-zone-en-la-nube-por-que-es-clave-en-aws-dk0)
 <!-- BLOG-POST-LIST:END -->
 
