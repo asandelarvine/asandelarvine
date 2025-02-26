@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rely less on Third-Party Services](https://dev.to/ingosteinke/rely-less-on-third-party-services-3gd)
-- [Two AI agents speaking their own language! We are cooked.](https://dev.to/perisicnikola37/two-ai-agents-speaking-their-own-language-we-are-cooked-2klc)
-- [Accelerating Software Delivery with CI/CD](https://dev.to/techstrategy/accelerating-software-delivery-with-cicd-5abg)
-- [The Role of AI and Automation in Modern Semiconductor Factories](https://dev.to/ptdcleantechsolution/the-role-of-ai-and-automation-in-modern-semiconductor-factories-54oh)
+- [What is Generative AI? Everything You Need to Know](https://dev.to/trretatechnolabs/what-is-generative-ai-everything-you-need-to-know-5g5o)
+- [The Art of Data Scaffolding: Building Strong Foundations for Your Applications](https://dev.to/adamgolan/the-art-of-data-scaffolding-building-strong-foundations-for-your-applications-17n3)
+- [AI-Powered Secret Detection: Future-Proof Your .NET Codebase](https://dev.to/bytehide/ai-powered-secret-detection-future-proof-your-net-codebase-2p78)
+- [Linking Individual Engineering metrics to Business Metrics &lpar;But not the other way around&rpar;](https://dev.to/marcopatino/linking-individual-engineering-metrics-to-business-metrics-but-not-the-other-way-around-59k)
 <!-- BLOG-POST-LIST:END -->
 
