@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Implementing Automated Incident Response](https://dev.to/kapusto/best-practices-for-implementing-automated-incident-response-5e0m)
-- [The problem with indirections](https://dev.to/danrot90/the-problem-with-indirections-1iii)
-- [Boost Your Productivity with These Powerful Jira Integrations](https://dev.to/tmetric_timer_2b3a575fc8b/boost-your-productivity-with-these-powerful-jira-integrations-251k)
-- [Selecting the Right Website Speed Optimization Tools](https://dev.to/kapusto/selecting-the-right-website-speed-optimization-tools-3c5m)
+- [What Are Agentic AI Tools?](https://dev.to/gentoro/what-are-agentic-ai-tools-e1m)
+- [My HNG Internship Journey: Stage 1 — Building a Color Guessing Game](https://dev.to/toptech5419/my-hng-internship-journey-stage-1-building-a-color-guessing-game-35bp)
+- [Ultimate Guide to Using NGINX as a Reverse Proxy and Load Balancer:Best Practices and Tips](https://dev.to/kodecapsule/ultimate-guide-to-using-nginx-as-a-reverse-proxy-and-load-balancerbest-practices-and-tips-2hfo)
+- [Using RAG with Java Spring Boot AI &amp; Google Vertex AI: Crafting an Automated Resume Matcher](https://dev.to/reebow/using-rag-with-java-spring-boot-ai-google-vertex-ai-crafting-an-automated-resume-matcher-47lg)
 <!-- BLOG-POST-LIST:END -->
 
