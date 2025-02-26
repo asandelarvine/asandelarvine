@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complement a certain average value to ensure that the total sum remains unchanged:SQL VS SPL](https://dev.to/esproc_spl/complement-a-certain-average-value-to-ensure-that-the-total-sum-remains-unchangedsql-vs-spl-38n1)
-- [JavaScript Asynchronous Magic: Callbacks, Promises, and Async/Await](https://dev.to/sovannaro/javascript-asynchronous-magic-callbacks-promises-and-asyncawait-4aa3)
-- [7 Performance Considerations When Using UUIDs in Node.js: A Developer&#39;s Journey](https://dev.to/terfa_binda/7-performance-considerations-when-using-uuids-in-nodejs-a-developers-journey-6eh)
-- [The Ugly Truth - Upscaling Your Databases Doesn&#39;t Always Help](https://dev.to/metis/the-ugly-truth-upscaling-your-databases-doesnt-always-help-50i5)
+- [FalkorDB V4.8: Neo4j requires 7x the memory to hold the same dataset](https://dev.to/falkordb/falkordb-v48-neo4j-requires-7x-the-memory-to-hold-the-same-dataset-5c3i)
+- [Watching Claude play Pokemon](https://dev.to/aaronmccollum/watching-claude-play-pokemon-1bie)
+- [smsmobileapi-php](https://dev.to/smsmobileapi/smsmobileapi-php-14nj)
+- [Getting Started with CrossFi Development: Keplr &amp; MetaMask Wallet Integration](https://dev.to/azeezabidoye/getting-started-with-crossfi-development-keplr-metamask-wallet-integration-cj3)
 <!-- BLOG-POST-LIST:END -->
 
