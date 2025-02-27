@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Simple Example: Generate Audio Stories with Google Gemini, TTS, and Cloudflare R2](https://dev.to/lico/go-simple-example-generate-audio-stories-with-google-gemini-tts-and-cloudflare-r2-3hm7)
-- [Work with data files from your terminal - visidata](https://dev.to/akaak/work-with-data-files-from-your-terminal-visidata-550d)
-- [Untitled](https://dev.to/lis_tan_1f6b3b2ce8ebc2526/untitled-47ni)
-- [API Testing with Postman: How to Test APIs Without Writing Code](https://dev.to/kihuni/api-testing-with-postman-how-to-test-apis-without-writing-code-i0j)
+- [BuilderBot - Crear chatbots es Un juego de niños !](https://dev.to/federincon/builderbot-crear-chatbots-es-un-juego-de-ninos--17e1)
+- [Hooked on React: The Complete Guide to React 19&#39;s Function Component Superpowers! 🪝⚛️✨](https://dev.to/philipjohnbasile/hooked-on-react-the-complete-guide-to-react-19s-function-component-superpowers-1hdj)
+- [Flexible Interval Aggregation — From SQL to SPL #5](https://dev.to/judith677/flexible-interval-aggregation-from-sql-to-spl-5-3l00)
+- [Seeking Guidance on Learning the Move Programming Language](https://dev.to/suhail_076/seeking-guidance-on-learning-the-move-programming-language-3ab4)
 <!-- BLOG-POST-LIST:END -->
 
