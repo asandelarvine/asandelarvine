@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Hacker Rank was started in India](https://dev.to/founder_pedia_945ceb88056/how-hacker-rank-was-started-in-india-58mi)
-- [What is Deepseek Flash MLA](https://dev.to/andylawrence/what-is-deepseek-flash-mla-1pkp)
-- [2025 Best PHP Micro Frameworks: Slim, Flight, Fat-Free, Lumen, and More!](https://dev.to/n0nag0n/2025-best-php-micro-frameworks-slim-flight-fat-free-lumen-and-more-2naj)
-- [Spring Boot 3.4 application on AWS Lambda- Part 5 Docker Container Image with AWS Serverless Java Container](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-5-docker-container-image-with-aws-serverless-java-15ge)
+- [Securing SPA React app with Duende BFF](https://dev.to/sangeetagarwal/securing-spa-react-app-with-duende-bff-3hb5)
+- [873. Length of Longest Fibonacci Subsequence](https://dev.to/mdarifulhaque/873-length-of-longest-fibonacci-subsequence-fmo)
+- [Introducing Metabase&#39;s new Embedded Analytics SDK for React](https://dev.to/metabase/introducing-metabases-new-embedded-analytics-sdk-for-react-528f)
+- [Evidence-Based Management: How Agile Forecasting and EBM Lead to Better Outcomes](https://dev.to/leading-edje/-evidence-based-management-how-agile-forecasting-and-ebm-lead-to-better-outcomes-5ih)
 <!-- BLOG-POST-LIST:END -->
 
