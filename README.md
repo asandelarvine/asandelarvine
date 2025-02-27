@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing SPA React app with Duende BFF](https://dev.to/sangeetagarwal/securing-spa-react-app-with-duende-bff-3hb5)
-- [873. Length of Longest Fibonacci Subsequence](https://dev.to/mdarifulhaque/873-length-of-longest-fibonacci-subsequence-fmo)
-- [Introducing Metabase&#39;s new Embedded Analytics SDK for React](https://dev.to/metabase/introducing-metabases-new-embedded-analytics-sdk-for-react-528f)
-- [Evidence-Based Management: How Agile Forecasting and EBM Lead to Better Outcomes](https://dev.to/leading-edje/-evidence-based-management-how-agile-forecasting-and-ebm-lead-to-better-outcomes-5ih)
+- [Searching ESLint for Beginners? Read This Now!](https://dev.to/codeparrot/searching-eslint-for-beginners-read-this-now-1dbd)
+- [Exploring Chrome&#39;s V8 Engine: The Magic Behind JavaScript Performance](https://dev.to/sovannaro/exploring-chromes-v8-engine-the-magic-behind-javascript-performance-4dj6)
+- [CSS PROPERTIES](https://dev.to/bagavath_98/css-properties-2an2)
+- [FreeWriter Dev Update: The Chaos is Organized &lpar;Mostly&rpar;](https://dev.to/virgil_storymaster/freewriter-dev-update-the-chaos-is-organized-mostly-9g1)
 <!-- BLOG-POST-LIST:END -->
 
