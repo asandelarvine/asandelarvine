@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Better Coding: Lessons Learned](https://dev.to/anukeerth_ek/my-journey-to-better-coding-lessons-learned-d43)
-- [Sunburst Chart](https://dev.to/preetha_vaishnavi_2b82358/sunburst-chart-29j9)
-- [OnChain-NFT with Solidity](https://dev.to/vivcis/onchain-nft-with-solidity-158i)
-- [How to Build a Dual-LLM Chat Application with Next.js, Python, and WebSocket Streaming](https://dev.to/sirneij/how-to-build-a-dual-llm-chat-application-with-nextjs-python-and-websocket-streaming-1e5l)
+- [🚀 Mastering JavaScript Arrow Functions: When &amp; How to Use Them! 🧠](https://dev.to/dct_technologyprivatelimited/mastering-javascript-arrow-functions-when-how-to-use-them-cfb)
+- [Javascript | Mutating array methods | push, pop, sort, splice](https://dev.to/shubhamtiwari909/javascript-mutating-array-methods-push-pop-sort-splice-12pi)
+- [Getting Started with Cloud Services: AWS, Google Cloud, and Azure](https://dev.to/satyamlucifer/getting-started-with-cloud-services-aws-google-cloud-and-azure-39k9)
+- [How can You horizontally center an element?](https://dev.to/ankitvermaonline/how-can-you-horizontally-center-an-element-3e9p)
 <!-- BLOG-POST-LIST:END -->
 
