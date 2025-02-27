@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I find this topic very useful, check it out too !](https://dev.to/kelvincode1234/i-find-this-topic-very-useful-check-it-out-too--ie4)
-- [Dicas sobre GitHub](https://dev.to/vivianbr/dicas-sobre-github-fkl)
-- [Unknown pleasures in a brave new world &lpar;AI &amp; Creativity&rpar;](https://dev.to/9ntonio/unknown-pleasures-in-a-brave-new-world-ai-creativity-3l6d)
-- [What happens when react native run android command is executed](https://dev.to/yogya_chhatwani_f9432967b/what-happens-when-react-native-run-android-command-is-executed-42l1)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4pi5)
+- [1 - Escreva um programa que calcule a área de um círculo a partir do raio, utilizando a fórmula A = Math.PI * Math.pow&lpar;raio, 2&rpar;](https://dev.to/vitorpaiola/1-escreva-um-programa-que-calcule-a-area-de-um-circulo-a-partir-do-raio-utilizando-a-formula-a--4g8)
+- [How to Learn React: A Guide for Aspiring Developers](https://dev.to/srdan_borovi_584c6b1d773/how-to-learn-react-a-guide-for-aspiring-developers-27kf)
+- [AI-Generated Shader Experiments: A Journey](https://dev.to/benny00100/ai-generated-shader-experiments-a-journey-1pog)
 <!-- BLOG-POST-LIST:END -->
 
