@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Lean Decision-Making Approach for Choosing Java Frameworks with Architecture Decision Records](https://dev.to/myfear/a-lean-decision-making-approach-for-choosing-java-frameworks-with-architecture-decision-records-1mki)
-- [OS designed to handle Kubernetes](https://dev.to/binyam/os-designed-to-handle-kubernetes-3pbi)
-- [EDA in GCP](https://dev.to/binyam/eda-in-gcp-5h80)
-- [How to Export Outlook Contact Group to vCard?](https://dev.to/ellestephen/how-to-export-outlook-contact-group-to-vcard-4ch8)
+- [Revolutionizing Business Efficiency with AI](https://dev.to/info_generalhazedawn_a3d/revolutionizing-business-efficiency-with-ai-3d3d)
+- [Intrusion Detection Systems &lpar;IDS/IPS&rpar;](https://dev.to/godofgeeks/intrusion-detection-systems-idsips-g60)
+- [[Boost]](https://dev.to/polycarp_mogaka_dff806e8c/-3kb9)
+- [The Future of MERN Stack: Trends and Emerging Tools](https://dev.to/lekshmi_525/the-future-of-mern-stack-trends-and-emerging-tools-39g3)
 <!-- BLOG-POST-LIST:END -->
 
