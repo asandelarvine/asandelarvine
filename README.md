@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Inversion Principle &lpar;DIP&rpar; with Spring Framework](https://dev.to/gridou/dependency-inversion-principle-dip-with-spring-framework-26i8)
-- [Como criar um projeto com Vite, React, TypeScript e Tailwind v4 🚀](https://dev.to/geane_ramos/como-criar-um-projeto-com-vite-react-typescript-e-tailwind-v4-4ih1)
-- [Tree Shaking vs. Interface Segregation Principle](https://dev.to/gridou/tree-shaking-vs-interface-segregation-principle-399k)
-- [¿Qué es una Landing Zone en la nube? ¿Por qué es clave en AWS?](https://dev.to/briansuarezsantiago/que-es-una-landing-zone-en-la-nube-por-que-es-clave-en-aws-dk0)
+- [Go Simple Example: Generate Audio Stories with Google Gemini, TTS, and Cloudflare R2](https://dev.to/lico/go-simple-example-generate-audio-stories-with-google-gemini-tts-and-cloudflare-r2-3hm7)
+- [Work with data files from your terminal - visidata](https://dev.to/akaak/work-with-data-files-from-your-terminal-visidata-550d)
+- [Untitled](https://dev.to/lis_tan_1f6b3b2ce8ebc2526/untitled-47ni)
+- [API Testing with Postman: How to Test APIs Without Writing Code](https://dev.to/kihuni/api-testing-with-postman-how-to-test-apis-without-writing-code-i0j)
 <!-- BLOG-POST-LIST:END -->
 
