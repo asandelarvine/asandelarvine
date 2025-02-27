@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating LaTeX Beamer Handouts without changing files](https://dev.to/bcardiff/generating-latex-beamer-handouts-without-changing-files-1hjp)
-- [Setting Up Ubuntu Server: Nginx, PHP, MySQL, SSL Certificates, Composer, and Adminer](https://dev.to/programmerhasan/setting-up-ubuntu-server-nginx-php-mysql-ssl-certificates-composer-and-adminer-4ci6)
-- [A Complete Guide to IBM i/AS400 Application GUI Modernization](https://dev.to/vijendra22/a-complete-guide-to-ibm-ias400-application-gui-modernization-42j3)
-- [How Indie Developers Are Using Blockchain Without Alienating Players](https://dev.to/raiden_studio/how-indie-developers-are-using-blockchain-without-alienating-players-4j62)
+- [Build a Basic CRUD Application With Flask-PyMongo](https://dev.to/mongodb/build-a-basic-crud-application-with-flask-pymongo-1kp3)
+- [Introducing The Event Destinations Initiative](https://dev.to/hookdeck/introducing-the-event-destinations-initiative-4065)
+- [Algorithm: Definition, Features, and Applications](https://dev.to/moghadassi/algorithm-definition-features-and-applications-27p3)
+- [𝐓𝐨𝐩 𝟔 𝐀𝐏𝐈 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐒𝐭𝐲𝐥𝐞𝐬](https://dev.to/dahami_fabbio/-581o)
 <!-- BLOG-POST-LIST:END -->
 
