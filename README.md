@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/tejasp/-4bld)
-- [How can Code Signing Certificates help Android developers secure apps?](https://dev.to/judypage/how-can-code-signing-certificates-help-android-developers-secure-apps-478i)
-- [ALTERA FPGA timing analysis](https://dev.to/carolineee/altera-fpga-timing-analysis-npk)
-- [How to Transition from IT Support to Cybersecurity: A Complete Career Guide](https://dev.to/dumebii/how-to-transition-from-it-support-to-cybersecurity-a-complete-career-guide-9nk)
+- [The Event Loop in JavaScript: Explained Like You&#39;re Five](https://dev.to/dannypreye/the-event-loop-in-javascript-explained-like-youre-five-b7k)
+- [How to Integrate LangChain with LangDB](https://dev.to/langdb/how-to-integrate-langchain-with-langdb-55o4)
+- [Why your environment variables aren’t safe](https://dev.to/flutterwaveeng/why-your-environment-variables-arent-safe-4pjo)
+- [How to Become a Freelance Technical Writer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/raajaryan/how-to-become-a-freelance-technical-writer-in-2025-step-by-step-guide-1c8i)
 <!-- BLOG-POST-LIST:END -->
 
