@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Updating my website&#39;s tech stack in 2025](https://dev.to/davidmorais/updating-my-websites-tech-stack-in-2025-35n3)
-- [🚀 Is $SUI Ready for a Breakout After a Strong Surge? 📈](https://dev.to/sergi_web3/is-sui-ready-for-a-breakout-after-a-strong-surge-1hok)
-- [Mining Tokenization: Future-Proofing Your Crypto Operation](https://dev.to/steveeys/mining-tokenization-future-proofing-your-crypto-operation-4h3n)
-- [📉 $BTC Faces Key Support as Price Drops 11% in One Week 🚀](https://dev.to/sergi_web3/btc-faces-key-support-as-price-drops-11-in-one-week-5178)
+- [I find this topic very useful, check it out too !](https://dev.to/kelvincode1234/i-find-this-topic-very-useful-check-it-out-too--ie4)
+- [Dicas sobre GitHub](https://dev.to/vivianbr/dicas-sobre-github-fkl)
+- [Unknown pleasures in a brave new world &lpar;AI &amp; Creativity&rpar;](https://dev.to/9ntonio/unknown-pleasures-in-a-brave-new-world-ai-creativity-3l6d)
+- [What happens when react native run android command is executed](https://dev.to/yogya_chhatwani_f9432967b/what-happens-when-react-native-run-android-command-is-executed-42l1)
 <!-- BLOG-POST-LIST:END -->
 
