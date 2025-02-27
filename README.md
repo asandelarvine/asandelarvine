@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching ESLint for Beginners? Read This Now!](https://dev.to/codeparrot/searching-eslint-for-beginners-read-this-now-1dbd)
-- [Exploring Chrome&#39;s V8 Engine: The Magic Behind JavaScript Performance](https://dev.to/sovannaro/exploring-chromes-v8-engine-the-magic-behind-javascript-performance-4dj6)
-- [CSS PROPERTIES](https://dev.to/bagavath_98/css-properties-2an2)
-- [FreeWriter Dev Update: The Chaos is Organized &lpar;Mostly&rpar;](https://dev.to/virgil_storymaster/freewriter-dev-update-the-chaos-is-organized-mostly-9g1)
+- [Enable Microsoft Print to PDF using CMD &amp; PowerShell on Windows 11](https://dev.to/winsides/enable-microsoft-print-to-pdf-using-cmd-powershell-on-windows-11-knm)
+- [React Apps with Code Splitting](https://dev.to/tene/react-apps-with-code-splitting-3mfn)
+- [Small Model from Huggingface with Video understanding](https://dev.to/amrs-tech/small-model-from-huggingface-with-video-understanding-2chj)
+- [Localization Opportunities in SaaS](https://dev.to/johnai/localization-opportunities-in-saas-2gpf)
 <!-- BLOG-POST-LIST:END -->
 
