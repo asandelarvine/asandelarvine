@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Event Loop in JavaScript: Explained Like You&#39;re Five](https://dev.to/dannypreye/the-event-loop-in-javascript-explained-like-youre-five-b7k)
-- [How to Integrate LangChain with LangDB](https://dev.to/langdb/how-to-integrate-langchain-with-langdb-55o4)
-- [Why your environment variables aren’t safe](https://dev.to/flutterwaveeng/why-your-environment-variables-arent-safe-4pjo)
-- [How to Become a Freelance Technical Writer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/raajaryan/how-to-become-a-freelance-technical-writer-in-2025-step-by-step-guide-1c8i)
+- [🚀 Your Daily Crypto Job Digest For 27 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-27-february-c4m)
+- [Implementing Zero Trust Security in Cloud-Native Applications &lpar;AWS &amp; Kubernetes&rpar;](https://dev.to/devvemeka/implementing-zero-trust-security-in-cloud-native-applications-aws-kubernetes-51b6)
+- [It&#39;s Friday but also not Friday, I guess](https://dev.to/pxlmastrxd/its-friday-but-also-not-friday-i-guess-p96)
+- [Baidu Set to Launch Ernie 4.5 AI Model in Mid-March, Adopting Open-Source Strategy](https://dev.to/abdul_rehmankhan01/baidu-set-to-launch-ernie-45-ai-model-in-mid-march-adopting-open-source-strategy-5cl0)
 <!-- BLOG-POST-LIST:END -->
 
