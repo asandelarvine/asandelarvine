@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 11: Customizing CBVs with Mixins &amp; Efficient Form Handling](https://dev.to/rishav_upadhaya/day-11-customizing-cbvs-with-mixins-efficient-form-handling-4agh)
-- [Can AI Make You Rich? The Best AI Money-Making Tools Right Now 💰](https://dev.to/panicatthekernel/-can-ai-make-you-rich-the-best-ai-money-making-tools-right-now-32k6)
-- [What is Cloud FinOps Culture and How to Do It Right?](https://dev.to/lucyzeniffer/what-is-cloud-finops-culture-and-how-to-do-it-right-58km)
-- [Orchisky’s Smart Manufacturing Upgrade: Why They Chose NocoBase](https://dev.to/nocobase/orchiskys-smart-manufacturing-upgrade-why-they-chose-nocobase-26hn)
+- [Top 10 Best Coworking Space Management Software Solutions in 2025](https://dev.to/marketing-blog/top-10-best-coworking-space-management-software-solutions-in-2025-1b79)
+- [Migrating Data from Local SQL Server to AWS RDS PostgreSQL Using AWS DMS - I](https://dev.to/ismailg/migrating-data-from-local-sql-server-to-aws-rds-postgresql-using-aws-dms-58k4)
+- [CodeFest 2025: Code for Innovation &amp; Make an Impact! 💡](https://dev.to/epo_codefest/codefest-2025-code-for-innovation-make-an-impact-5d5j)
+- [Role of Machine Learning in CAD](https://dev.to/alona_instandart/role-of-machine-learning-in-cad-3jk7)
 <!-- BLOG-POST-LIST:END -->
 
