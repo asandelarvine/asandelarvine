@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Best Coworking Space Management Software Solutions in 2025](https://dev.to/marketing-blog/top-10-best-coworking-space-management-software-solutions-in-2025-1b79)
-- [Migrating Data from Local SQL Server to AWS RDS PostgreSQL Using AWS DMS - I](https://dev.to/ismailg/migrating-data-from-local-sql-server-to-aws-rds-postgresql-using-aws-dms-58k4)
-- [CodeFest 2025: Code for Innovation &amp; Make an Impact! 💡](https://dev.to/epo_codefest/codefest-2025-code-for-innovation-make-an-impact-5d5j)
-- [Role of Machine Learning in CAD](https://dev.to/alona_instandart/role-of-machine-learning-in-cad-3jk7)
+- [[Boost]](https://dev.to/tejasp/-4bld)
+- [How can Code Signing Certificates help Android developers secure apps?](https://dev.to/judypage/how-can-code-signing-certificates-help-android-developers-secure-apps-478i)
+- [ALTERA FPGA timing analysis](https://dev.to/carolineee/altera-fpga-timing-analysis-npk)
+- [How to Transition from IT Support to Cybersecurity: A Complete Career Guide](https://dev.to/dumebii/how-to-transition-from-it-support-to-cybersecurity-a-complete-career-guide-9nk)
 <!-- BLOG-POST-LIST:END -->
 
