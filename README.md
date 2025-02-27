@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4pi5)
-- [1 - Escreva um programa que calcule a área de um círculo a partir do raio, utilizando a fórmula A = Math.PI * Math.pow&lpar;raio, 2&rpar;](https://dev.to/vitorpaiola/1-escreva-um-programa-que-calcule-a-area-de-um-circulo-a-partir-do-raio-utilizando-a-formula-a--4g8)
-- [How to Learn React: A Guide for Aspiring Developers](https://dev.to/srdan_borovi_584c6b1d773/how-to-learn-react-a-guide-for-aspiring-developers-27kf)
-- [AI-Generated Shader Experiments: A Journey](https://dev.to/benny00100/ai-generated-shader-experiments-a-journey-1pog)
+- [Demystifying Indian Law: A Guide for Every Citizen](https://dev.to/noxilune/demystifying-indian-law-a-guide-for-every-citizen-12a8)
+- [Day 1110 : Vinyl Is Forever](https://dev.to/dwane/day-1110-vinyl-is-forever-446b)
+- [Unlocking SEO Insights: Leveraging &#39;People Also Ask&#39; for Smarter Content Strategies](https://dev.to/nate_serpapi/unlocking-seo-insights-leveraging-people-also-ask-for-smarter-content-strategies-2ffo)
+- [Unified Data Analytics via a Semantic Layer](https://dev.to/johnai/unified-data-analytics-via-a-semantic-layer-gam)
 <!-- BLOG-POST-LIST:END -->
 
