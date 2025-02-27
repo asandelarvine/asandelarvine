@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Business Efficiency with AI](https://dev.to/info_generalhazedawn_a3d/revolutionizing-business-efficiency-with-ai-3d3d)
-- [Intrusion Detection Systems &lpar;IDS/IPS&rpar;](https://dev.to/godofgeeks/intrusion-detection-systems-idsips-g60)
-- [[Boost]](https://dev.to/polycarp_mogaka_dff806e8c/-3kb9)
-- [The Future of MERN Stack: Trends and Emerging Tools](https://dev.to/lekshmi_525/the-future-of-mern-stack-trends-and-emerging-tools-39g3)
+- [Day 11: Customizing CBVs with Mixins &amp; Efficient Form Handling](https://dev.to/rishav_upadhaya/day-11-customizing-cbvs-with-mixins-efficient-form-handling-4agh)
+- [Can AI Make You Rich? The Best AI Money-Making Tools Right Now 💰](https://dev.to/panicatthekernel/-can-ai-make-you-rich-the-best-ai-money-making-tools-right-now-32k6)
+- [What is Cloud FinOps Culture and How to Do It Right?](https://dev.to/lucyzeniffer/what-is-cloud-finops-culture-and-how-to-do-it-right-58km)
+- [Orchisky’s Smart Manufacturing Upgrade: Why They Chose NocoBase](https://dev.to/nocobase/orchiskys-smart-manufacturing-upgrade-why-they-chose-nocobase-26hn)
 <!-- BLOG-POST-LIST:END -->
 
