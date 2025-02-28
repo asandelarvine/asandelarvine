@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned from Head First Java: Variable Casting](https://dev.to/mitchiemt11/what-i-learned-from-head-first-java-variable-casting-1ii7)
-- [Open source vector databases](https://dev.to/e77/open-source-vector-databases-228)
-- [Build a JavaScript Analytics System: Step-by-Step Implementation Guide](https://dev.to/aaravjoshi/build-a-javascript-analytics-system-step-by-step-implementation-guide-p5l)
-- [🚨 Bybit Hack: A Wake-Up Call for Crypto Traders! 🚨](https://dev.to/cryptosandy/bybit-hack-a-wake-up-call-for-crypto-traders-5g53)
+- [🚀 Your Daily Crypto Job Digest For 28 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-february-i8o)
+- [Amanhã vai chover?](https://dev.to/godkelvin/amanha-vai-chover-d5k)
+- [Case Study: Developing a Robust E-commerce Platform with PHP](https://dev.to/ezeelive/case-study-developing-a-robust-e-commerce-platform-with-php-3ehf)
+- [TypeScript &#39;Satisfies&#39; Operator: Complete Guide with Examples](https://dev.to/hsmall/typescript-satisfies-operator-complete-guide-with-examples-3fm9)
 <!-- BLOG-POST-LIST:END -->
 
