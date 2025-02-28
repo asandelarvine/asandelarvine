@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Farewell to Window Functions, Embrace esProc SPL](https://dev.to/esproc_spl/farewell-to-window-functions-embrace-esproc-spl-460c)
-- [Cloud-Based Applications: Enhancing Productivity and Collaboration](https://dev.to/astutemarketing/cloud-based-applications-enhancing-productivity-and-collaboration-4d26)
-- [AI That Sings: Creating a Text-to-Music Generator with Code 🎵](https://dev.to/devresurrect_f18e7d7b7bc6/ai-that-sings-creating-a-text-to-music-generator-with-code-b2i)
-- [Understanding JavaScript with a beginner: Variables and Data Types](https://dev.to/theuzomavictor/understanding-javascript-with-a-beginner-variables-and-data-types-42ic)
+- [How to Implement a Search Functionality Using JavaScript](https://dev.to/rowsanali/how-to-implement-a-search-functionality-using-javascript-1n1b)
+- [Sorting an Array of Squared Values in JavaScript](https://dev.to/shaahzaibrehman/sorting-an-array-of-squared-values-in-javascript-dn9)
+- [Comparing Browser and Node.js: What&#39;s the Difference? 🤔](https://dev.to/sovannaro/comparing-browser-and-nodejs-whats-the-difference-e11)
+- [7 Common Mistakes to Avoid When Developing Software](https://dev.to/deepak_saini_b237bd71bc56/7-common-mistakes-to-avoid-when-developing-software-ga0)
 <!-- BLOG-POST-LIST:END -->
 
