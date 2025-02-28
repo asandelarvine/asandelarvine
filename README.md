@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Indian Law: A Guide for Every Citizen](https://dev.to/noxilune/demystifying-indian-law-a-guide-for-every-citizen-12a8)
-- [Day 1110 : Vinyl Is Forever](https://dev.to/dwane/day-1110-vinyl-is-forever-446b)
-- [Unlocking SEO Insights: Leveraging &#39;People Also Ask&#39; for Smarter Content Strategies](https://dev.to/nate_serpapi/unlocking-seo-insights-leveraging-people-also-ask-for-smarter-content-strategies-2ffo)
-- [Unified Data Analytics via a Semantic Layer](https://dev.to/johnai/unified-data-analytics-via-a-semantic-layer-gam)
+- [Discover Imgkits: Your All-in-One AI-Powered Image Processing Solution](https://dev.to/fagac_gvwc_0ebeec7ffe710a/discover-imgkits-your-all-in-one-ai-powered-image-processing-solution-11bp)
+- [🚀 Mastering Git &amp; GitHub: Best Practices for Developers](https://dev.to/erasmuskotoka/mastering-git-github-best-practices-for-developers-3mom)
+- [Building AI-Powered Cybersecurity Solutions](https://dev.to/kartikmehta8/building-ai-powered-cybersecurity-solutions-3hhj)
+- [Middlemen.Asia: Revolutionizing Legal Access Through AI](https://dev.to/noxilune/middlemenasia-revolutionizing-legal-access-through-ai-416k)
 <!-- BLOG-POST-LIST:END -->
 
