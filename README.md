@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Critical MongoDB Queries for Advanced Backend Development](https://dev.to/raajaryan/15-critical-mongodb-queries-for-advanced-backend-development-54ld)
-- [Why Serverless Architecture Might Be the Future &lpar;But Not for Everyone&rpar; 🚀](https://dev.to/dct_technologyprivatelimited/why-serverless-architecture-might-be-the-future-but-not-for-everyone-42hf)
-- [Fetching and Displaying Data in Angular Using httpResource](https://dev.to/manthanank/fetching-and-displaying-data-in-angular-using-httpresource-a1c)
-- [Data persistence for Amazon EC2 instance store volumes](https://dev.to/shiv15/data-persistence-for-amazon-ec2-instance-store-volumes-2752)
+- [Farewell to Window Functions, Embrace esProc SPL](https://dev.to/esproc_spl/farewell-to-window-functions-embrace-esproc-spl-460c)
+- [Cloud-Based Applications: Enhancing Productivity and Collaboration](https://dev.to/astutemarketing/cloud-based-applications-enhancing-productivity-and-collaboration-4d26)
+- [AI That Sings: Creating a Text-to-Music Generator with Code 🎵](https://dev.to/devresurrect_f18e7d7b7bc6/ai-that-sings-creating-a-text-to-music-generator-with-code-b2i)
+- [Understanding JavaScript with a beginner: Variables and Data Types](https://dev.to/theuzomavictor/understanding-javascript-with-a-beginner-variables-and-data-types-42ic)
 <!-- BLOG-POST-LIST:END -->
 
