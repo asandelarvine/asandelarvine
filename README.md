@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover Imgkits: Your All-in-One AI-Powered Image Processing Solution](https://dev.to/fagac_gvwc_0ebeec7ffe710a/discover-imgkits-your-all-in-one-ai-powered-image-processing-solution-11bp)
-- [🚀 Mastering Git &amp; GitHub: Best Practices for Developers](https://dev.to/erasmuskotoka/mastering-git-github-best-practices-for-developers-3mom)
-- [Building AI-Powered Cybersecurity Solutions](https://dev.to/kartikmehta8/building-ai-powered-cybersecurity-solutions-3hhj)
-- [Middlemen.Asia: Revolutionizing Legal Access Through AI](https://dev.to/noxilune/middlemenasia-revolutionizing-legal-access-through-ai-416k)
+- [Why Do Developers Struggle with Low-Code? &lpar;6 Tools That Actually Help&rpar;](https://dev.to/nocobase/why-do-developers-struggle-with-low-code-6-tools-that-actually-help-41c4)
+- [Leveraging Generative AI with DevSecOps for Enhanced Security](https://dev.to/snyk/leveraging-generative-ai-with-devsecops-for-enhanced-security-19of)
+- [[Boost]](https://dev.to/bigya/-1d4p)
+- [👨‍💻 How I build my personal assistant!](https://dev.to/mrzaizai2k/how-i-build-my-personal-assistant-4j8b)
 <!-- BLOG-POST-LIST:END -->
 
