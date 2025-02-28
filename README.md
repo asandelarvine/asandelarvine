@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement a Search Functionality Using JavaScript](https://dev.to/rowsanali/how-to-implement-a-search-functionality-using-javascript-1n1b)
-- [Sorting an Array of Squared Values in JavaScript](https://dev.to/shaahzaibrehman/sorting-an-array-of-squared-values-in-javascript-dn9)
-- [Comparing Browser and Node.js: What&#39;s the Difference? 🤔](https://dev.to/sovannaro/comparing-browser-and-nodejs-whats-the-difference-e11)
-- [7 Common Mistakes to Avoid When Developing Software](https://dev.to/deepak_saini_b237bd71bc56/7-common-mistakes-to-avoid-when-developing-software-ga0)
+- [What is the difference between static and default methods in a Java interface?](https://dev.to/dhanush9952/what-is-the-difference-between-static-and-default-methods-in-a-java-interface-5383)
+- [Establishing a secure connection to the AWS Elastic Beanstalk application](https://dev.to/aws-builders/establishing-a-secure-connection-to-the-aws-elastic-beanstalk-application-m4)
+- [DeepSeek Open Source Week Day 5: 3FS](https://dev.to/apilover/deepseek-open-source-week-day-5-3fs-jkj)
+- [How to Find Profitable App Ideas &lpar;Even If You Think Everything Already Exists&rpar;](https://dev.to/linwangg/how-to-find-profitable-app-ideas-even-if-you-think-everything-already-exists-1c7)
 <!-- BLOG-POST-LIST:END -->
 
