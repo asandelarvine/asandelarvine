@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Caching Deep Dive: Performance Optimization Patterns Every Developer Should Know](https://dev.to/requestmetrics/http-caching-deep-dive-performance-optimization-patterns-every-developer-should-know-330e)
-- [Icarus and the npm Updates: How Version Control Rescued My npm Upgrade Nightmare](https://dev.to/pokumars/icarus-and-the-npm-updates-how-version-control-rescued-my-npm-upgrade-nightmare-4a5p)
-- [Como criar Imagens? &lpar;Dockerfile&rpar;](https://dev.to/yuripeixinho/como-criar-imagens-dockerfile-335b)
-- [Progressive Web Apps &lpar;PWAs&rpar;: A Technology That Brings Websites Closer to Native Mobile Apps](https://dev.to/bkthemes/progressive-web-apps-pwas-a-technology-that-brings-websites-closer-to-native-mobile-apps-1c1c)
+- [Building Scalable Apps with Supabase: A Powerful Open-Source Backend](https://dev.to/lovestaco/building-scalable-apps-with-supabase-a-powerful-open-source-backend-3o6j)
+- [A Practical Guide to Translating &amp; Localizing Your Web App: Using i18n and Lingo.dev](https://dev.to/superherojt/a-practical-guide-to-translating-localizing-your-web-app-using-i18n-and-lingodev-3oll)
+- [Making A Simple Image With Tensors &lpar;Starting from Scratch&rpar;](https://dev.to/shrsv/making-a-simple-image-with-tensors-starting-from-scratch-1le2)
+- [Revolutionizing Outbound Sales: Why I Built a Natural Language Lead Generation MCP Server](https://dev.to/bashirk/revolutionizing-outbound-sales-why-i-built-a-natural-language-lead-generation-mcp-server-1i7i)
 <!-- BLOG-POST-LIST:END -->
 
