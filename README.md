@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Multiple Git Profiles with Ease: Introducing `gguser`](https://dev.to/camelcaseguy/managing-multiple-git-profiles-with-ease-introducing-gguser-3lcg)
-- [How AI-Powered Code Review Can Save Your Development Team Hours](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-powered-code-review-can-save-your-development-team-hours-2n03)
-- [DeepSeek - Recap](https://dev.to/bensantora/deepseek-recap-4m6h)
-- [Subroutines: Interview Problem Survey](https://dev.to/mehran_ghamaty/subroutines-interview-problem-survey-386g)
+- [How To Process IoT Sensor Data with Windowed Aggregations and ML Inference](https://dev.to/sudoconsultants/how-to-process-iot-sensor-data-with-windowed-aggregations-and-ml-inference-45im)
+- [Bootstrap Your Web Server on AWS: A Deep Dive into EC2 User Data](https://dev.to/lindiwe09/bootstrap-your-web-server-on-aws-a-deep-dive-into-ec2-user-data-2mp3)
+- [[Boost]](https://dev.to/ifihan/-2b1c)
+- [Redshift Serverless: Cost Optimization with Workload Management &lpar;WLM&rpar;](https://dev.to/sudoconsultants/redshift-serverless-cost-optimization-with-workload-management-wlm-27)
 <!-- BLOG-POST-LIST:END -->
 
