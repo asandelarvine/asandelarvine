@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python’s GIL and Enhancing Concurrency with Multithreading, Multiprocessing, and Asyncio](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e)
-- [Best Practices for Storing and Securing Passwords: A Developer&#39;s Guide](https://dev.to/abstract-333/best-practices-for-storing-and-securing-passwords-a-developers-guide-ocm)
-- [Introduction to AWS CloudFormation: A Beginner&#39;s Guide to Infrastructure as Code](https://dev.to/prajwal_kp/introduction-to-aws-cloudformation-a-beginners-guide-to-infrastructure-as-code-1k6d)
-- [🔥5 Best Chrome Extensions You Should Try 🫵](https://dev.to/dev_kiran/5-best-chrome-extensions-you-should-try-2fj0)
+- [How ChatGPT Helped Me Create My Startup Idea 💡🚀](https://dev.to/zartarcyber/how-chatgpt-helped-me-create-my-startup-idea-4nng)
+- [React Router v7: A Comprehensive Guide &amp; Migration from v6](https://dev.to/utkvishwas/react-router-v7-a-comprehensive-guide-migration-from-v6-7d1)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/friendgrass7/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-5a3n)
+- [The DevRel Digest February 2025: DevRel You Should Know for 2025](https://dev.to/lizzzzz/the-devrel-digest-february-2025-devrel-you-should-know-for-2025-4753)
 <!-- BLOG-POST-LIST:END -->
 
