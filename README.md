@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Process IoT Sensor Data with Windowed Aggregations and ML Inference](https://dev.to/sudoconsultants/how-to-process-iot-sensor-data-with-windowed-aggregations-and-ml-inference-45im)
-- [Bootstrap Your Web Server on AWS: A Deep Dive into EC2 User Data](https://dev.to/lindiwe09/bootstrap-your-web-server-on-aws-a-deep-dive-into-ec2-user-data-2mp3)
-- [[Boost]](https://dev.to/ifihan/-2b1c)
-- [Redshift Serverless: Cost Optimization with Workload Management &lpar;WLM&rpar;](https://dev.to/sudoconsultants/redshift-serverless-cost-optimization-with-workload-management-wlm-27)
+- [🚨 Micro-frontends: The Dumbest Idea Tech Bros Have Ever Sold to Businesses 🚨](https://dev.to/itamartati/micro-frontends-the-dumbest-idea-tech-bros-have-ever-sold-to-businesses-heh)
+- [new web framework](https://dev.to/m__mdy__m/new-web-framework-42f5)
+- [How To Fine-tune a Large Language Model &lpar;LLM&rpar; Using Model Parallelism](https://dev.to/sudoconsultants/how-to-fine-tune-a-large-language-model-llm-using-model-parallelism-55h2)
+- [Security news weekly round-up - 28th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-february-2025-56k7)
 <!-- BLOG-POST-LIST:END -->
 
