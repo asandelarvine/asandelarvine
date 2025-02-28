@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Essentials PART 2](https://dev.to/____marcell/web-essentials-part-2-58h2)
-- [Máquinas virtuales en Linux /1](https://dev.to/djsurgeon/maquinas-virtuales-en-linux-1-598d)
-- [🚀 Kickstarting the Multi-Vendor E-commerce Series in Laravel 12!](https://dev.to/stack_developers/kickstarting-the-multi-vendor-e-commerce-series-in-laravel-12-530d)
-- [How To Federate Events Between AWS Organizations for a Multi-Account SaaS Platform](https://dev.to/sudoconsultants/how-to-federate-events-between-aws-organizations-for-a-multi-account-saas-platform-347i)
+- [HTTP Caching Deep Dive: Performance Optimization Patterns Every Developer Should Know](https://dev.to/requestmetrics/http-caching-deep-dive-performance-optimization-patterns-every-developer-should-know-330e)
+- [Icarus and the npm Updates: How Version Control Rescued My npm Upgrade Nightmare](https://dev.to/pokumars/icarus-and-the-npm-updates-how-version-control-rescued-my-npm-upgrade-nightmare-4a5p)
+- [Como criar Imagens? &lpar;Dockerfile&rpar;](https://dev.to/yuripeixinho/como-criar-imagens-dockerfile-335b)
+- [Progressive Web Apps &lpar;PWAs&rpar;: A Technology That Brings Websites Closer to Native Mobile Apps](https://dev.to/bkthemes/progressive-web-apps-pwas-a-technology-that-brings-websites-closer-to-native-mobile-apps-1c1c)
 <!-- BLOG-POST-LIST:END -->
 
