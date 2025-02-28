@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 28 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-february-i8o)
-- [Amanhã vai chover?](https://dev.to/godkelvin/amanha-vai-chover-d5k)
-- [Case Study: Developing a Robust E-commerce Platform with PHP](https://dev.to/ezeelive/case-study-developing-a-robust-e-commerce-platform-with-php-3ehf)
-- [TypeScript &#39;Satisfies&#39; Operator: Complete Guide with Examples](https://dev.to/hsmall/typescript-satisfies-operator-complete-guide-with-examples-3fm9)
+- [Redoed #2: Containerizing the Go Server and PostgreSQL with Docker](https://dev.to/mahesh143/redoed-2-containerizing-the-go-server-and-postgresql-with-docker-efl)
+- [What&#39;s New in React Native 0.78: Performance, Native Integration, and React 19 Support 🚀](https://dev.to/babar_bilal_2e14c231dfa8d/whats-new-in-react-native-078-performance-native-integration-and-react-19-support-131k)
+- [O Poder da Arquitetura Orientada a Eventos](https://dev.to/edu_betim/o-poder-da-arquitetura-orientada-a-eventos-fg0)
+- [MVC Architecture](https://dev.to/akshay_chauhan/mvc-architecture-5hf4)
 <!-- BLOG-POST-LIST:END -->
 
