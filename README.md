@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Must-Try VS Code Extensions You Can’t Afford to Miss in 2025 🚀](https://dev.to/dct_technologyprivatelimited/7-must-try-vs-code-extensions-you-cant-afford-to-miss-in-2025-49d6)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nc7)
-- [Amazon Aurora vs. Amazon RDS](https://dev.to/gurudev_prasadteketi/amazon-aurora-vs-amazon-rds-5h80)
-- [🧠🤖AI code assistant 4 &lpar;free and fast and safe &lpar;Gemini Code Assist&rpar;&rpar;](https://dev.to/webdeveloperhyper/ai-code-assistant-4-free-and-fast-and-safe-gemini-code-assist-phd)
+- [15 Critical MongoDB Queries for Advanced Backend Development](https://dev.to/raajaryan/15-critical-mongodb-queries-for-advanced-backend-development-54ld)
+- [Why Serverless Architecture Might Be the Future &lpar;But Not for Everyone&rpar; 🚀](https://dev.to/dct_technologyprivatelimited/why-serverless-architecture-might-be-the-future-but-not-for-everyone-42hf)
+- [Fetching and Displaying Data in Angular Using httpResource](https://dev.to/manthanank/fetching-and-displaying-data-in-angular-using-httpresource-a1c)
+- [Data persistence for Amazon EC2 instance store volumes](https://dev.to/shiv15/data-persistence-for-amazon-ec2-instance-store-volumes-2752)
 <!-- BLOG-POST-LIST:END -->
 
