@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [BL-SOC01 - Jump Into SOC](https://dev.to/trumpiter/bl-soc01-jump-into-soc-j57)
 - [Why Do Developers Struggle with Low-Code? &lpar;6 Tools That Actually Help&rpar;](https://dev.to/nocobase/why-do-developers-struggle-with-low-code-6-tools-that-actually-help-41c4)
-- [Leveraging Generative AI with DevSecOps for Enhanced Security](https://dev.to/snyk/leveraging-generative-ai-with-devsecops-for-enhanced-security-19of)
-- [[Boost]](https://dev.to/bigya/-1d4p)
-- [👨‍💻 How I build my personal assistant!](https://dev.to/mrzaizai2k/how-i-build-my-personal-assistant-4j8b)
+- [Passo a passo para escolher a arquitetura ideal](https://dev.to/yuripeixinho/passo-a-passo-para-escolher-a-arquitetura-ideal-595m)
+- [Building a Physically Accurate Black Hole Visualization with Python, CUDA, and OpenGL](https://dev.to/ericsonwillians/building-a-physically-accurate-black-hole-visualization-with-python-cuda-and-opengl-gnb)
 <!-- BLOG-POST-LIST:END -->
 
