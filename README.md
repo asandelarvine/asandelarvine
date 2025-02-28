@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [$10 to Get a Powerful, Non-Signature-based WAF](https://dev.to/carrie_luo1/10-to-get-a-powerful-non-signature-based-waf-4l3o)
-- [A CORS Go-To-Bed Tale](https://dev.to/manuartero/a-cors-go-to-bed-tale-fhk)
-- [Managing PM2 Logs: Preventing Performance Issues in Node.js Applications](https://dev.to/manojspace/managing-pm2-logs-preventing-performance-issues-in-nodejs-applications-c6)
-- [Introduction to Amazon Redshift: A Data Warehouse Solution](https://dev.to/imsushant12/introduction-to-amazon-redshift-a-data-warehouse-solution-2o3g)
+- [Web Essentials PART 2](https://dev.to/____marcell/web-essentials-part-2-58h2)
+- [Máquinas virtuales en Linux /1](https://dev.to/djsurgeon/maquinas-virtuales-en-linux-1-598d)
+- [🚀 Kickstarting the Multi-Vendor E-commerce Series in Laravel 12!](https://dev.to/stack_developers/kickstarting-the-multi-vendor-e-commerce-series-in-laravel-12-530d)
+- [How To Federate Events Between AWS Organizations for a Multi-Account SaaS Platform](https://dev.to/sudoconsultants/how-to-federate-events-between-aws-organizations-for-a-multi-account-saas-platform-347i)
 <!-- BLOG-POST-LIST:END -->
 
