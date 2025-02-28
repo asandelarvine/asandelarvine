@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Laravel With Headless CMS: A Step-by-Step Guide](https://dev.to/dhruvil_joshi14/how-to-integrate-laravel-with-headless-cms-a-step-by-step-guide-2l6)
-- [Embracing the Future with Technology](https://dev.to/adonaitechnologies/embracing-the-future-with-technology-16n2)
-- [AI System Detects Medical Research Fraud with 91% Accuracy and Clear Explanations](https://dev.to/mikeyoung44/ai-system-detects-medical-research-fraud-with-91-accuracy-and-clear-explanations-43pn)
-- [Smart AI Training Method Cuts Language Model Training Time by 25% While Maintaining Performance](https://dev.to/mikeyoung44/smart-ai-training-method-cuts-language-model-training-time-by-25-while-maintaining-performance-4ah3)
+- [What I Learned from Head First Java: Variable Casting](https://dev.to/mitchiemt11/what-i-learned-from-head-first-java-variable-casting-1ii7)
+- [Open source vector databases](https://dev.to/e77/open-source-vector-databases-228)
+- [Build a JavaScript Analytics System: Step-by-Step Implementation Guide](https://dev.to/aaravjoshi/build-a-javascript-analytics-system-step-by-step-implementation-guide-p5l)
+- [🚨 Bybit Hack: A Wake-Up Call for Crypto Traders! 🚨](https://dev.to/cryptosandy/bybit-hack-a-wake-up-call-for-crypto-traders-5g53)
 <!-- BLOG-POST-LIST:END -->
 
