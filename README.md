@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Apps with Supabase: A Powerful Open-Source Backend](https://dev.to/lovestaco/building-scalable-apps-with-supabase-a-powerful-open-source-backend-3o6j)
-- [A Practical Guide to Translating &amp; Localizing Your Web App: Using i18n and Lingo.dev](https://dev.to/superherojt/a-practical-guide-to-translating-localizing-your-web-app-using-i18n-and-lingodev-3oll)
-- [Making A Simple Image With Tensors &lpar;Starting from Scratch&rpar;](https://dev.to/shrsv/making-a-simple-image-with-tensors-starting-from-scratch-1le2)
-- [Revolutionizing Outbound Sales: Why I Built a Natural Language Lead Generation MCP Server](https://dev.to/bashirk/revolutionizing-outbound-sales-why-i-built-a-natural-language-lead-generation-mcp-server-1i7i)
+- [Understanding Python’s GIL and Enhancing Concurrency with Multithreading, Multiprocessing, and Asyncio](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e)
+- [Best Practices for Storing and Securing Passwords: A Developer&#39;s Guide](https://dev.to/abstract-333/best-practices-for-storing-and-securing-passwords-a-developers-guide-ocm)
+- [Introduction to AWS CloudFormation: A Beginner&#39;s Guide to Infrastructure as Code](https://dev.to/prajwal_kp/introduction-to-aws-cloudformation-a-beginners-guide-to-infrastructure-as-code-1k6d)
+- [🔥5 Best Chrome Extensions You Should Try 🫵](https://dev.to/dev_kiran/5-best-chrome-extensions-you-should-try-2fj0)
 <!-- BLOG-POST-LIST:END -->
 
