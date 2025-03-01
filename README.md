@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/akinmyde/-3k06)
-- [Using dangerouslySetInnerHTML Safely in React and Next.js Production Systems](https://dev.to/hijazi313/using-dangerouslysetinnerhtml-safely-in-react-and-nextjs-production-systems-115n)
-- [Unlocking Potential: Innovative Open Source Web Development Projects to Explore in 2025](https://dev.to/jetthoughts/unlocking-potential-innovative-open-source-web-development-projects-to-explore-in-2025-mm2)
-- [Array, ArrayList, &amp; LinkedList](https://dev.to/muhammadazis/array-arraylist-linkedlist-2k9)
+- [Bitter organisation landscape](https://dev.to/grzegorzgrzegorz/bitter-organisation-landscape-1f7h)
+- [ATM Card Using CSS](https://dev.to/preetha_vaishnavi_2b82358/atm-card-using-css-293j)
+- [Exploring the Ethereum Blockchain: A Deep Dive into Decentralized Innovation](https://dev.to/adi271001/exploring-the-ethereum-blockchain-a-deep-dive-into-decentralized-innovation-4g4h)
+- [Why Learning to Code Doesn’t Have to Take Years &lpar;And How to Start Today&rpar;](https://dev.to/bhavishya_aggarwal_2651e7/why-learning-to-code-doesnt-have-to-take-years-and-how-to-start-today-4fb6)
 <!-- BLOG-POST-LIST:END -->
 
