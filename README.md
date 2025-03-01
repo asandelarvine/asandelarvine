@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀I Built Dokugen – A Tool That Automates README Docs!](https://dev.to/samuel_tuoyo/i-built-dokugen-a-tool-that-automates-readme-docs-4a9f)
-- [Claude 3.7 Sonnet Thinking vs. Deepseek r1: Complete Analysis](https://dev.to/composiodev/claude-37-sonnet-thinking-vs-deepseek-r1-complete-analysis-22p3)
-- [Using TenoxUI as a Utility-First or Utility-Classes Engine](https://dev.to/nousantx/using-tenoxui-as-a-utility-first-or-utility-classes-engine-1p4f)
-- [Claude 3.7 is EPIC for programming,OpenAI GPT 4.5 is here, and more](https://dev.to/thisweekinaiengineering/claude-37-is-epic-for-programmingopenai-gpt-45-is-here-and-more-234)
+- [IAM Roles Anywhere: Usa credenciales de AWS fuera de la nube](https://dev.to/briansuarezsantiago/iam-roles-anywhere-usa-credenciales-de-aws-fuera-de-la-nube-2o96)
+- [Formik &amp; React: Writing Cleaner, More Efficient Forms](https://dev.to/tuneshman/formik-react-writing-cleaner-more-efficient-forms-fdj)
+- [[Boost]](https://dev.to/gamer2810/-13ma)
+- [Recipe Generator](https://dev.to/ron_goudz_d2e22ff34a1c432/recipe-generator-i3p)
 <!-- BLOG-POST-LIST:END -->
 
