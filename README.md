@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EC2 Instance Store](https://dev.to/shiv15/aws-ec2-instance-store-op9)
-- [The Best Productivity Tools for Remote Workers in 2025: Work Smarter, Anywhere](https://dev.to/stan8086/the-best-productivity-tools-for-remote-workers-in-2025-work-smarter-anywhere-4k1h)
-- [Are You Bored of Try Catch😒](https://dev.to/nurulislamrimon/are-you-bored-of-try-catch-255p)
-- [How to Use AI to Generate Stunning Website Designs Automatically](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-to-generate-stunning-website-designs-automatically-1b2e)
+- [Building a Real-Time Voice Assistant with Local LLMs on a Raspberry Pi](https://dev.to/aswinvijayano/building-a-real-time-voice-assistant-with-local-llms-on-a-raspberry-pi-4inh)
+- [🔒 7 Ways SQL Injections Destroy Your App](https://dev.to/dosenngoding/7-ways-sql-injections-destroy-your-app-6a4)
+- [🦅 Vulture.js: The Powerful and Lightweight Form Validation Library](https://dev.to/anmolshrivastav/vulturejs-the-powerful-and-lightweight-form-validation-library-2hn8)
+- [30 Best Free Tools for Frontend Developers in 2025](https://dev.to/rowsanali/30-best-free-tools-for-frontend-developers-in-2025-1gdm)
 <!-- BLOG-POST-LIST:END -->
 
