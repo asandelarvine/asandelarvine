@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Voice Assistant with Local LLMs on a Raspberry Pi](https://dev.to/aswinvijayano/building-a-real-time-voice-assistant-with-local-llms-on-a-raspberry-pi-4inh)
-- [🔒 7 Ways SQL Injections Destroy Your App](https://dev.to/dosenngoding/7-ways-sql-injections-destroy-your-app-6a4)
-- [🦅 Vulture.js: The Powerful and Lightweight Form Validation Library](https://dev.to/anmolshrivastav/vulturejs-the-powerful-and-lightweight-form-validation-library-2hn8)
-- [30 Best Free Tools for Frontend Developers in 2025](https://dev.to/rowsanali/30-best-free-tools-for-frontend-developers-in-2025-1gdm)
+- [AI is Going to Change Programming Forever and Programmers Need to Adapt](https://dev.to/coderabbitai/ai-is-going-to-change-programming-forever-and-programmers-need-to-adapt-5egp)
+- [Deep Analysis of Image and Video Using Amazon Rekognition](https://dev.to/aws-builders/deep-analysis-of-image-and-video-using-amazon-rekognition-4nfm)
+- [TypeScript Best Practices in 2025](https://dev.to/mitu_mariam/typescript-best-practices-in-2025-57hb)
+- [Is Flutter really a App Development Framework?](https://dev.to/ajaythewizard/is-flutter-really-a-app-development-framework-3o6h)
 <!-- BLOG-POST-LIST:END -->
 
