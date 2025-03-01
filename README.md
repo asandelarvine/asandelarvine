@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Micro-frontends: The Dumbest Idea Tech Bros Have Ever Sold to Businesses 🚨](https://dev.to/itamartati/micro-frontends-the-dumbest-idea-tech-bros-have-ever-sold-to-businesses-heh)
-- [new web framework](https://dev.to/m__mdy__m/new-web-framework-42f5)
-- [How To Fine-tune a Large Language Model &lpar;LLM&rpar; Using Model Parallelism](https://dev.to/sudoconsultants/how-to-fine-tune-a-large-language-model-llm-using-model-parallelism-55h2)
-- [Security news weekly round-up - 28th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-february-2025-56k7)
+- [What is Deepseek 3FS](https://dev.to/andylawrence/what-is-deepseek-3fs-5e4o)
+- [Exploring the Next Generation of Containerization: WebContainers](https://dev.to/kartikmehta8/exploring-the-next-generation-of-containerization-webcontainers-2nd5)
+- [GearLang - A Systems Programming Language For Flexibility, Control, and Interoperability](https://dev.to/kwphil/gearlang-a-systems-programming-language-for-flexibility-control-and-interoperability-1765)
+- [Explaining Angular concepts to grandma 👵 - ViewRef / View ContainerRef](https://dev.to/tmcrs123/explaining-angular-concepts-to-grandma-viewref-view-containerref-2lo8)
 <!-- BLOG-POST-LIST:END -->
 
