@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Status Codes](https://dev.to/dvphuc_175/status-codes-h5c)
-- [Securing a Prankster Robot: Linux Security Strategies to Prevent Rogue AI](https://dev.to/sebos/securing-a-prankster-robot-linux-security-strategies-to-prevent-rogue-ai-279o)
-- [Consistent Hashing: A boon to distributed system](https://dev.to/cdx/consistent-hashing-a-boon-to-distributed-system-gi9)
-- [Quy chuẩn đặt tên trong thiết kế RESTful API](https://dev.to/dvphuc_175/quy-chuan-dat-ten-trong-thiet-ke-restful-api-52h)
+- [🚀I Built Dokugen – A Tool That Automates README Docs!](https://dev.to/samuel_tuoyo/i-built-dokugen-a-tool-that-automates-readme-docs-4a9f)
+- [Claude 3.7 Sonnet Thinking vs. Deepseek r1: Complete Analysis](https://dev.to/composiodev/claude-37-sonnet-thinking-vs-deepseek-r1-complete-analysis-22p3)
+- [Using TenoxUI as a Utility-First or Utility-Classes Engine](https://dev.to/nousantx/using-tenoxui-as-a-utility-first-or-utility-classes-engine-1p4f)
+- [Claude 3.7 is EPIC for programming,OpenAI GPT 4.5 is here, and more](https://dev.to/thisweekinaiengineering/claude-37-is-epic-for-programmingopenai-gpt-45-is-here-and-more-234)
 <!-- BLOG-POST-LIST:END -->
 
