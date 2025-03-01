@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is Going to Change Programming Forever and Programmers Need to Adapt](https://dev.to/coderabbitai/ai-is-going-to-change-programming-forever-and-programmers-need-to-adapt-5egp)
-- [Deep Analysis of Image and Video Using Amazon Rekognition](https://dev.to/aws-builders/deep-analysis-of-image-and-video-using-amazon-rekognition-4nfm)
-- [TypeScript Best Practices in 2025](https://dev.to/mitu_mariam/typescript-best-practices-in-2025-57hb)
-- [Is Flutter really a App Development Framework?](https://dev.to/ajaythewizard/is-flutter-really-a-app-development-framework-3o6h)
+- [RxJS Beyond Basics: Writing Your Own Operators](https://dev.to/artstesh/rxjs-beyond-basics-writing-your-own-operators-1h4b)
+- [🚀 20 Frontend Techniques to Skyrocket Your Productivity in 2025 🚀](https://dev.to/er-raj-aryan/20-frontend-techniques-to-skyrocket-your-productivity-in-2023-30ei)
+- [Import and Export Patterns in Node.js: Mastering Modules 🚀](https://dev.to/sovannaro/import-and-export-patterns-in-nodejs-mastering-modules-4lal)
+- [Will AI Take Your Job](https://dev.to/abdelaziz_moustakim_45a4c/will-ai-take-your-job-1khb)
 <!-- BLOG-POST-LIST:END -->
 
