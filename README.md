@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Redshift Cheat Sheet](https://dev.to/datatechbridge/aws-redshift-cheat-sheet-3m5o)
-- [Setting Up a Basic JavaScript Bundler with Esbuild](https://dev.to/lovestaco/setting-up-a-basic-javascript-bundler-with-esbuild-3jif)
-- [Best Practices for a .NET 10 Event Ticketing API](https://dev.to/diamond_debugger_e1ce5556/best-practices-for-a-net-10-event-ticketing-api-3480)
-- [Cấu trúc URL](https://dev.to/dvphuc_175/cau-truc-url-327o)
+- [Make AI Models Your Perfect Roommate! &lpar;ServBay+Ollama+ChatBox&rpar;](https://dev.to/neil27/make-ai-models-your-perfect-roommate-servbayollamachatbox-2ond)
+- [SEO for Beginners: A Simple Step-by-Step Guide to Get Started in 2025](https://dev.to/idgodcx/seo-for-beginners-a-simple-step-by-step-guide-to-get-started-in-2025-249p)
+- [Databases: How Data is Stored on Disk](https://dev.to/nikita_kutsokon/databases-how-data-is-stored-on-disk-22k8)
+- [Unlocking computer vision with openCv](https://dev.to/rhoda_mingotamanjong_ab9/unlocking-computer-vision-with-opencv-1dn4)
 <!-- BLOG-POST-LIST:END -->
 
