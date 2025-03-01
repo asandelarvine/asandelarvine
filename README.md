@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide on How to Create a Resource Group in Microsoft Azure Portal](https://dev.to/ibrahimbioabu/a-step-by-step-guide-on-how-to-create-a-resource-group-in-microsoft-azure-portal-447i)
-- [🌟 The Future is Here: A Glimpse into How Technology Will Transform Our Lives](https://dev.to/hanzla-baig/the-future-is-here-a-glimpse-into-how-technology-will-transform-our-lives-2j3j)
-- [Koin vs Dagger 2 vs Hilt: Which one should we use? ☕](https://dev.to/mikkelofficial7/koin-vs-dagger-2-vs-hilt-which-one-should-we-use-1e0n)
-- [Kubernetes CPU Limits: The Silent Killer of Performance &lpar;And How to Fix It&rpar;](https://dev.to/naveens16/kubernetes-cpu-limits-the-silent-killer-of-performance-and-how-to-fix-it-20d1)
+- [[Boost]](https://dev.to/akinmyde/-3k06)
+- [Using dangerouslySetInnerHTML Safely in React and Next.js Production Systems](https://dev.to/hijazi313/using-dangerouslysetinnerhtml-safely-in-react-and-nextjs-production-systems-115n)
+- [Unlocking Potential: Innovative Open Source Web Development Projects to Explore in 2025](https://dev.to/jetthoughts/unlocking-potential-innovative-open-source-web-development-projects-to-explore-in-2025-mm2)
+- [Array, ArrayList, &amp; LinkedList](https://dev.to/muhammadazis/array-arraylist-linkedlist-2k9)
 <!-- BLOG-POST-LIST:END -->
 
