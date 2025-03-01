@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code &lpar;IaC&rpar;: Why It’s a Game Changer in DevOps](https://dev.to/yash_sonawane25/infrastructure-as-code-iac-why-its-a-game-changer-in-devops-1e1p)
-- [Is Your Website Stuck in the Past? Here’s What You Might Be Missing in 2025!](https://dev.to/dct_technologyprivatelimited/is-your-website-stuck-in-the-past-heres-what-you-might-be-missing-in-2025-4dh6)
-- [Interactive Shell Virtual Desktop](https://dev.to/interactiveshell/interactive-shell-virtual-desktop-46ke)
-- [Top 200 Important Pointers about AWS EMR Service](https://dev.to/rahul_singh_c6a703cc3bb48/top-200-important-pointers-about-aws-emr-service-2e5n)
+- [AWS EC2 Instance Store](https://dev.to/shiv15/aws-ec2-instance-store-op9)
+- [The Best Productivity Tools for Remote Workers in 2025: Work Smarter, Anywhere](https://dev.to/stan8086/the-best-productivity-tools-for-remote-workers-in-2025-work-smarter-anywhere-4k1h)
+- [Are You Bored of Try Catch😒](https://dev.to/nurulislamrimon/are-you-bored-of-try-catch-255p)
+- [How to Use AI to Generate Stunning Website Designs Automatically](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-to-generate-stunning-website-designs-automatically-1b2e)
 <!-- BLOG-POST-LIST:END -->
 
