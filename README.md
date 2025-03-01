@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make AI Models Your Perfect Roommate! &lpar;ServBay+Ollama+ChatBox&rpar;](https://dev.to/neil27/make-ai-models-your-perfect-roommate-servbayollamachatbox-2ond)
-- [SEO for Beginners: A Simple Step-by-Step Guide to Get Started in 2025](https://dev.to/idgodcx/seo-for-beginners-a-simple-step-by-step-guide-to-get-started-in-2025-249p)
-- [Databases: How Data is Stored on Disk](https://dev.to/nikita_kutsokon/databases-how-data-is-stored-on-disk-22k8)
-- [Unlocking computer vision with openCv](https://dev.to/rhoda_mingotamanjong_ab9/unlocking-computer-vision-with-opencv-1dn4)
+- [Status Codes](https://dev.to/dvphuc_175/status-codes-h5c)
+- [Securing a Prankster Robot: Linux Security Strategies to Prevent Rogue AI](https://dev.to/sebos/securing-a-prankster-robot-linux-security-strategies-to-prevent-rogue-ai-279o)
+- [Consistent Hashing: A boon to distributed system](https://dev.to/cdx/consistent-hashing-a-boon-to-distributed-system-gi9)
+- [Quy chuẩn đặt tên trong thiết kế RESTful API](https://dev.to/dvphuc_175/quy-chuan-dat-ten-trong-thiet-ke-restful-api-52h)
 <!-- BLOG-POST-LIST:END -->
 
