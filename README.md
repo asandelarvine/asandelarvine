@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Top CheatSheets](https://dev.to/hanzla-baig/css-top-cheatsheets-461h)
-- [A Friendly Step-by-Step Tutorial on the Vanishing Gradient Problem](https://dev.to/shrsv/a-friendly-step-by-step-tutorial-on-the-vanishing-gradient-problem-5aj0)
-- [Pagination vs. Infinite Scrolling: What&#39;s Best for Your Website?](https://dev.to/vedangit/pagination-vs-infinite-scrolling-whats-best-for-your-website-453d)
-- [30+ String Manipulation Techniques in JavaScript](https://dev.to/jisan/30-string-manipulation-techniques-in-javascript-1pn2)
+- [AWS Redshift Cheat Sheet](https://dev.to/datatechbridge/aws-redshift-cheat-sheet-3m5o)
+- [Setting Up a Basic JavaScript Bundler with Esbuild](https://dev.to/lovestaco/setting-up-a-basic-javascript-bundler-with-esbuild-3jif)
+- [Best Practices for a .NET 10 Event Ticketing API](https://dev.to/diamond_debugger_e1ce5556/best-practices-for-a-net-10-event-ticketing-api-3480)
+- [Cấu trúc URL](https://dev.to/dvphuc_175/cau-truc-url-327o)
 <!-- BLOG-POST-LIST:END -->
 
