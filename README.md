@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 CSS Tricks Every Frontend Developer Should Know](https://dev.to/rowsanali/10-css-tricks-every-frontend-developer-should-know-4cj4)
 - [Angular Tips #3](https://dev.to/khoanguyen1411/angular-tips-3-54dm)
 - [Patient Identity and Access Management Using AWS Cognito](https://dev.to/ikoh_sylva/patient-identity-and-access-management-using-aws-cognito-3fjf)
 - [Comprehensive Guide to Load Balancing Algorithms, Caching Strategies, and Cache Eviction Policies](https://dev.to/devcorner/comprehensive-guide-to-load-balancing-algorithms-caching-strategies-and-cache-eviction-policies-1jpg)
-- [Angular Tips #2](https://dev.to/khoanguyen1411/angular-tips-2-5920)
 <!-- BLOG-POST-LIST:END -->
 
