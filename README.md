@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React State: The Brain of Your Components! 🧠](https://dev.to/aman_kureshi_/react-state-the-brain-of-your-components-2hmn)
-- [Laravel vs. Flight: A Guide to Picking Your PHP Framework](https://dev.to/n0nag0n/laravel-vs-flight-a-guide-to-picking-your-php-framework-41g5)
-- [CALLING ALL CHROME OS JAILBREAKERS!!!](https://dev.to/pricklypear-who-codes/calling-all-chrome-os-jailbreakers-39l7)
-- [Chain of Draft: Thinking Faster by Writing Less](https://dev.to/foxgem/chain-of-draft-thinking-faster-by-writing-less-54j6)
+- [🚀 ২এফএ অথেন্টিকেশন অ্যাপ সম্পর্কে কিছু চমকপ্রদ তথ্য!](https://dev.to/csrafsan/2ephe-athenttikeshn-ayaap-smprke-kichu-cmkprd-tthy-ch9)
+- [From &quot;spaghetti code&quot; to &quot;spaghetti architecture&quot; 🍝](https://dev.to/pooyan/from-spaghetti-code-to-spaghetti-architecture-295i)
+- [Innovate Workforce Training with AI-Driven L&amp;D Solutions](https://dev.to/neural-minds/innovate-workforce-training-with-ai-driven-ld-solutions-1po2)
+- [[Qt] VIII. Smart Memory Managements](https://dev.to/misinahaiya/qt-viii-smart-memory-managements-4i5l)
 <!-- BLOG-POST-LIST:END -->
 
