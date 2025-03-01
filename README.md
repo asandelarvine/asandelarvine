@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 ২এফএ অথেন্টিকেশন অ্যাপ সম্পর্কে কিছু চমকপ্রদ তথ্য!](https://dev.to/csrafsan/2ephe-athenttikeshn-ayaap-smprke-kichu-cmkprd-tthy-ch9)
-- [From &quot;spaghetti code&quot; to &quot;spaghetti architecture&quot; 🍝](https://dev.to/pooyan/from-spaghetti-code-to-spaghetti-architecture-295i)
-- [Innovate Workforce Training with AI-Driven L&amp;D Solutions](https://dev.to/neural-minds/innovate-workforce-training-with-ai-driven-ld-solutions-1po2)
-- [[Qt] VIII. Smart Memory Managements](https://dev.to/misinahaiya/qt-viii-smart-memory-managements-4i5l)
+- [Building an Application as a Beta User of the Low-Code Solution &#39;AWS App Studio&#39;: Cons &lpar;Part 2 of 2&rpar;](https://dev.to/aws-heroes/building-an-application-as-a-beta-user-of-the-low-code-solution-aws-app-studio-cons-part-2-of-2-4ipb)
+- [How I Passed the AZ-900 Exam: My Study Plan, Resources &amp; Tips](https://dev.to/jeshlin_pv_1628a63168e90/how-i-passed-the-az-900-exam-my-study-plan-resources-tips-2cam)
+- [Running Private Adguard Server on Cloud &lpar;Linode&rpar;](https://dev.to/prajwol-ad/running-private-adguard-server-on-cloud-linode-18ef)
+- [How to Write SEO Meta Descriptions Without Losing Your Sanity](https://dev.to/cbid2/how-to-write-seo-meta-descriptions-without-losing-your-sanity-437c)
 <!-- BLOG-POST-LIST:END -->
 
