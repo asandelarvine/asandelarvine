@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReferenceGenerator: A Lightweight C# Library for Generating Unique References](https://dev.to/mhizokuchi/referencegenerator-a-lightweight-c-library-for-generating-unique-references-4g89)
-- [Creating Essential Geometric Shapes Using CSS Only](https://dev.to/uiuxsatyam/creating-essential-geometric-shapes-using-css-only-5bba)
-- [Setup Laragon&#39;s Cmder in VSCode &lpar;VSCode Extension&rpar;](https://dev.to/abiruzzamanmolla/setup-laragons-cmder-in-vscode-vscode-extension-27p5)
-- [Comparing Popular Embedding Models: Choosing the Right One for Your Use Case](https://dev.to/simplr_sh/comparing-popular-embedding-models-choosing-the-right-one-for-your-use-case-43p1)
+- [Skyrocket Your Travel App with the Skypicker Locations API 🚀](https://dev.to/sourav_22cdd152890952704c/skyrocket-your-travel-app-with-the-skypicker-locations-api-4jn6)
+- [Virtual Private Cloud &lpar;VPC&rpar;: A Comprehensive Guide](https://dev.to/mazharhuda/virtual-private-cloud-vpc-a-comprehensive-guide-3552)
+- [Understanding AI SDKs: Why `streamText` is Superior to `generateText` for AI Chatbots and When to Use Each](https://dev.to/simplr_sh/understanding-ai-sdks-why-streamtext-is-superior-to-generatetext-for-ai-chatbots-and-when-to-450e)
+- [[Boost]](https://dev.to/osiris8/-12bn)
 <!-- BLOG-POST-LIST:END -->
 
