@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy Pattern](https://dev.to/asadullah_ehsan/strategy-pattern-60d)
-- [Code to Connection: Why Empathy is Your Secret Weapon in Coding?](https://dev.to/arpitstack/code-to-connection-why-empathy-is-your-secret-weapon-in-coding-5gdp)
-- [Getting Started with Docker: How to Containerize Your First Application](https://dev.to/yash_sonawane25/getting-started-with-docker-how-to-containerize-your-first-application-1cb8)
-- [Building a Vector Database in Ruby: A Comprehensive Guide](https://dev.to/daviducolo/building-a-vector-database-in-ruby-a-comprehensive-guide-1ep)
+- [Open Redirect Vulnerability: Exploitation, Prevention &amp; Real-World Examples - @verylazytech](https://dev.to/verylazytech/open-redirect-vulnerability-exploitation-prevention-real-world-examples-verylazytech-37ci)
+- [DOM Question #7 - Circular Reference](https://dev.to/shweta/dom-question-7-circular-reference-3hgj)
+- [Why Are Your URL Designs So Bad?](https://dev.to/leapcell/why-are-your-url-designs-so-bad-2k8l)
+- [Building a Beautiful Carousel with Left-Right Partial Visibility in React Native](https://dev.to/amitkumar13/building-a-beautiful-carousel-with-left-right-partial-visibility-in-react-native-397l)
 <!-- BLOG-POST-LIST:END -->
 
