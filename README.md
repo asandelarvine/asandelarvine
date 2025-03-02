@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rate Limiting Algorithms: A Deep Dive 2](https://dev.to/devcorner/rate-limiting-algorithms-a-deep-dive-2-14n5)
+- [Rate Limiting Algorithms: A Deep Dive](https://dev.to/devcorner/rate-limiting-algorithms-a-deep-dive-49a0)
 - [Hello world!](https://dev.to/wagnertomaz/hello-world-21kj)
 - [DOM &lpar;Document Object Model&rpar;](https://dev.to/rubiya_reba/dom-document-object-model-2537)
-- [What is Machine Learning? A Beginner’s Guide](https://dev.to/alex_aslam/what-is-machine-learning-a-beginners-guide-2ono)
-- [Handling Big Data Challenges: A Case Study of AllFreeNovel.cc](https://dev.to/winola_zoe/-handling-big-data-challenges-a-case-study-of-allfreenovelcc-35e7)
 <!-- BLOG-POST-LIST:END -->
 
