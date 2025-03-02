@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GCC Building - Lab 4](https://dev.to/jurozaw/gcc-building-lab-4-1892)
-- [Ancient Trade Routes and Their Impact on Today’s World](https://dev.to/snehasingh0212/ancient-trade-routes-and-their-impact-on-todays-world-1ncd)
-- [Optional Chaining in JavaScript](https://dev.to/arsalanmeee/optional-chaining-in-javascript-34kj)
-- [Understanding the True Cost of Ownership: ECS vs. EKS](https://dev.to/aws-builders/understanding-the-true-cost-of-ownership-ecs-vs-eks-2l0)
+- [MVC vs Modern Architectures](https://dev.to/sidge/mvc-vs-modern-architectures-3040)
+- [AWS sagemaker](https://dev.to/vikas_bharti/aws-sagemaker-23h9)
+- [Scaling &amp; DB Optimization](https://dev.to/jay818/scaling-db-optimization-b54)
+- [Use case for self-healing tests with a local LLM](https://dev.to/breakingtesting/use-case-for-self-healing-tests-with-a-local-llm-1h84)
 <!-- BLOG-POST-LIST:END -->
 
