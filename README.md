@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun just got 60% faster, Doom now runs on TypeScript, OpenAI launched GPT 4.5, and more](https://dev.to/thisweekinjavascript/bun-just-got-60-faster-doom-now-runs-on-typescript-openai-launched-gpt-45-and-more-3c8f)
-- [Rust&#39;s Result Type: Error Handling Made Easy](https://dev.to/leapcell/rusts-result-type-error-handling-made-easy-58i)
-- [Event Driven Architecture using GCP](https://dev.to/binyam/event-driven-architecture-using-gcp-g1g)
-- [Automate changelog generation and publish with Changesets](https://dev.to/sibiraj/automate-changelog-generation-and-publish-with-changesets-1p1g)
+- [pattern for loop](https://dev.to/hema_latha/pattern-for-loop-49kh)
+- [Book Review: Frontend Architecture for Design Systems - A Blueprint for Scalable Websites](https://dev.to/lazioleo/book-review-frontend-architecture-for-design-systems-a-blueprint-for-scalable-websites-2bpb)
+- [How to Turn Your Website into a Fully Functional Mobile App](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-turn-your-website-into-a-fully-functional-mobile-app-36of)
+- [pattern for loop program](https://dev.to/hema_latha/pattern-for-loop-program-b1i)
 <!-- BLOG-POST-LIST:END -->
 
