@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Skyrocket Your Travel App with the Skypicker Locations API 🚀](https://dev.to/sourav_22cdd152890952704c/skyrocket-your-travel-app-with-the-skypicker-locations-api-4jn6)
-- [Virtual Private Cloud &lpar;VPC&rpar;: A Comprehensive Guide](https://dev.to/mazharhuda/virtual-private-cloud-vpc-a-comprehensive-guide-3552)
-- [Understanding AI SDKs: Why `streamText` is Superior to `generateText` for AI Chatbots and When to Use Each](https://dev.to/simplr_sh/understanding-ai-sdks-why-streamtext-is-superior-to-generatetext-for-ai-chatbots-and-when-to-450e)
-- [[Boost]](https://dev.to/osiris8/-12bn)
+- [Leetcode - 11. Container With Most Water](https://dev.to/rakeshreddy512/leetcode-11-container-with-most-water-2ndo)
+- [AI Debate Method Boosts Logical Reasoning by 15% Using Multi-Expert Town Hall Format](https://dev.to/mikeyoung44/ai-debate-method-boosts-logical-reasoning-by-15-using-multi-expert-town-hall-format-3c58)
+- [[Boost]](https://dev.to/sumit_mochahary/-5ahl)
+- [Enable Mobile hotspot Windows 11 Registry Method](https://dev.to/winsides/enable-mobile-hotspot-windows-11-registry-method-3eh0)
 <!-- BLOG-POST-LIST:END -->
 
