@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix OAuth Misconfigurations in Laravel: Best Practices](https://dev.to/pentest_testing_corp/fix-oauth-misconfigurations-in-laravel-best-practices-2f3l)
-- [The Software Design /System Design Interview Preparation RoadMap &lpar;with Resources&rpar;](https://dev.to/somadevtoo/the-software-design-system-design-interview-preparation-roadmap-with-resources-1no0)
-- [Shaping the Future of the Internet with Linkspreed: A Partnership Opportunity for Agencies and Partners](https://dev.to/web4/shaping-the-future-of-the-internet-with-linkspreed-a-partnership-opportunity-for-agencies-and-2f0n)
-- [10 Easy Productivity Tricks That Really Work](https://dev.to/stan8086/10-easy-productivity-tricks-that-really-work-4c5j)
+- [API Design Best Practices in Spring Boot 2](https://dev.to/devcorner/api-design-best-practices-in-spring-boot-2-2e5l)
+- [API Design Best Practices in Spring Boot](https://dev.to/devcorner/api-design-best-practices-in-spring-boot-1mb1)
+- [How to Use AI for Real-Time Speech Recognition and Transcription](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-for-real-time-speech-recognition-and-transcription-993)
+- [Kubernetes in Crisis: How Multi-Cloud Complexity Undermines Efficiency, Security, and Your Bottom Line](https://dev.to/naveens16/kubernetes-in-crisis-how-multi-cloud-complexity-undermines-efficiency-security-and-your-bottom-35ki)
 <!-- BLOG-POST-LIST:END -->
 
