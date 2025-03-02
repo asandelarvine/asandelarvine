@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Redirect Vulnerability: Exploitation, Prevention &amp; Real-World Examples - @verylazytech](https://dev.to/verylazytech/open-redirect-vulnerability-exploitation-prevention-real-world-examples-verylazytech-37ci)
-- [DOM Question #7 - Circular Reference](https://dev.to/shweta/dom-question-7-circular-reference-3hgj)
-- [Why Are Your URL Designs So Bad?](https://dev.to/leapcell/why-are-your-url-designs-so-bad-2k8l)
-- [Building a Beautiful Carousel with Left-Right Partial Visibility in React Native](https://dev.to/amitkumar13/building-a-beautiful-carousel-with-left-right-partial-visibility-in-react-native-397l)
+- [🎙️We have implemented new features in HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-have-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-smaller-in-size-pef)
+- [Leetcode - 209. Minimum Size Subarray Sum](https://dev.to/rakeshreddy512/leetcode-209-minimum-size-subarray-sum-5eho)
+- [Mastering Kubernetes: Become a Pro in K8s Deployments](https://dev.to/arpitstack/mastering-kubernetes-become-a-pro-in-k8s-deployments-5epj)
+- [I wonder if mern Stack is any good?](https://dev.to/abd_elrhmanmohamedmansu/i-wonder-if-mern-stack-is-any-good-43i7)
 <!-- BLOG-POST-LIST:END -->
 
