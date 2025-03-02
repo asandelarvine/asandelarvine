@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 7 Steps to Professional Logo Integration in Filament](https://dev.to/dosenngoding/7-steps-to-professional-logo-integration-in-filament-2m9j)
-- [Hello, Dev Community! I&#39;m Umair Shakoor](https://dev.to/umairshakoor/hello-dev-community-im-umair-shakoor-4fek)
-- [How to Start Your #BuildInPublic Journey &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/huxlerapp/how-to-start-your-buildinpublic-journey-even-if-youre-just-getting-started-3o7m)
-- [Error Handling in Rust: A Comprehensive Guide](https://dev.to/sajiram_a4704bc095/error-handling-in-rust-a-comprehensive-guide-25np)
+- [Code to Connection: Why Empathy is Your Secret Weapon in Coding?](https://dev.to/arpitstack/code-to-connection-why-empathy-is-your-secret-weapon-in-coding-5gdp)
+- [Getting Started with Docker: How to Containerize Your First Application](https://dev.to/yash_sonawane25/getting-started-with-docker-how-to-containerize-your-first-application-1cb8)
+- [Building a Vector Database in Ruby: A Comprehensive Guide](https://dev.to/daviducolo/building-a-vector-database-in-ruby-a-comprehensive-guide-1ep)
+- [5 Common Mistakes Frontend Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/rowsanali/5-common-mistakes-frontend-developers-make-and-how-to-fix-them-2chb)
 <!-- BLOG-POST-LIST:END -->
 
