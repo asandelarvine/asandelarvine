@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - 11. Container With Most Water](https://dev.to/rakeshreddy512/leetcode-11-container-with-most-water-2ndo)
-- [AI Debate Method Boosts Logical Reasoning by 15% Using Multi-Expert Town Hall Format](https://dev.to/mikeyoung44/ai-debate-method-boosts-logical-reasoning-by-15-using-multi-expert-town-hall-format-3c58)
-- [[Boost]](https://dev.to/sumit_mochahary/-5ahl)
-- [Enable Mobile hotspot Windows 11 Registry Method](https://dev.to/winsides/enable-mobile-hotspot-windows-11-registry-method-3eh0)
+- [Fix OAuth Misconfigurations in Laravel: Best Practices](https://dev.to/pentest_testing_corp/fix-oauth-misconfigurations-in-laravel-best-practices-2f3l)
+- [The Software Design /System Design Interview Preparation RoadMap &lpar;with Resources&rpar;](https://dev.to/somadevtoo/the-software-design-system-design-interview-preparation-roadmap-with-resources-1no0)
+- [Shaping the Future of the Internet with Linkspreed: A Partnership Opportunity for Agencies and Partners](https://dev.to/web4/shaping-the-future-of-the-internet-with-linkspreed-a-partnership-opportunity-for-agencies-and-2f0n)
+- [10 Easy Productivity Tricks That Really Work](https://dev.to/stan8086/10-easy-productivity-tricks-that-really-work-4c5j)
 <!-- BLOG-POST-LIST:END -->
 
