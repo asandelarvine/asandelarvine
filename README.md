@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Design Best Practices in Spring Boot 2](https://dev.to/devcorner/api-design-best-practices-in-spring-boot-2-2e5l)
-- [API Design Best Practices in Spring Boot](https://dev.to/devcorner/api-design-best-practices-in-spring-boot-1mb1)
-- [How to Use AI for Real-Time Speech Recognition and Transcription](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-use-ai-for-real-time-speech-recognition-and-transcription-993)
-- [Kubernetes in Crisis: How Multi-Cloud Complexity Undermines Efficiency, Security, and Your Bottom Line](https://dev.to/naveens16/kubernetes-in-crisis-how-multi-cloud-complexity-undermines-efficiency-security-and-your-bottom-35ki)
+- [Trait in Rust Explained: From Basics to Advanced Usage](https://dev.to/leapcell/trait-in-rust-explained-from-basics-to-advanced-usage-14mn)
+- [Introduction to Android Development](https://dev.to/madgan95/introduction-to-android-development-6hl)
+- [I wanna know about the best place to learn and practice my Python](https://dev.to/maruti_jhawar/i-wanna-know-about-the-best-place-to-learn-and-practice-my-python-7p2)
+- [🎥 Building a Scalable Social Media Video Downloader: Open Source NestJS + Next.js Project](https://dev.to/fabwaseem/building-a-scalable-social-media-video-downloader-open-source-nestjs-nextjs-project-egm)
 <!-- BLOG-POST-LIST:END -->
 
