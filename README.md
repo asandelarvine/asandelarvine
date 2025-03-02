@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IAM Roles Anywhere: Usa credenciales de AWS fuera de la nube](https://dev.to/briansuarezsantiago/iam-roles-anywhere-usa-credenciales-de-aws-fuera-de-la-nube-2o96)
-- [Formik &amp; React: Writing Cleaner, More Efficient Forms](https://dev.to/tuneshman/formik-react-writing-cleaner-more-efficient-forms-fdj)
-- [[Boost]](https://dev.to/gamer2810/-13ma)
-- [Recipe Generator](https://dev.to/ron_goudz_d2e22ff34a1c432/recipe-generator-i3p)
+- [Hello world!](https://dev.to/wagnertomaz/hello-world-21kj)
+- [DOM &lpar;Document Object Model&rpar;](https://dev.to/rubiya_reba/dom-document-object-model-2537)
+- [What is Machine Learning? A Beginner’s Guide](https://dev.to/alex_aslam/what-is-machine-learning-a-beginners-guide-2ono)
+- [Handling Big Data Challenges: A Case Study of AllFreeNovel.cc](https://dev.to/winola_zoe/-handling-big-data-challenges-a-case-study-of-allfreenovelcc-35e7)
 <!-- BLOG-POST-LIST:END -->
 
