@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MVC vs Modern Architectures](https://dev.to/sidge/mvc-vs-modern-architectures-3040)
-- [AWS sagemaker](https://dev.to/vikas_bharti/aws-sagemaker-23h9)
-- [Scaling &amp; DB Optimization](https://dev.to/jay818/scaling-db-optimization-b54)
-- [Use case for self-healing tests with a local LLM](https://dev.to/breakingtesting/use-case-for-self-healing-tests-with-a-local-llm-1h84)
+- [AWS y el chip cuántico Ocelot: Un paso más cerca de la computación del futuro](https://dev.to/briansuarezsantiago/aws-y-el-chip-cuantico-ocelot-un-paso-mas-cerca-de-la-computacion-del-futuro-3ejn)
+- [Ensuring Reliable JSON from LLM Responses in PHP](https://dev.to/edgaras/ensuring-reliable-json-from-llm-responses-in-php-3ikb)
+- [Stop Forgetting! Automatically Remove console.log in Next.js Production](https://dev.to/achourmeguenni/stop-forgetting-automatically-remove-consolelog-in-nextjs-production-1nl1)
+- [Pod Disruption Budget vs NodePool Disruption Budget?](https://dev.to/vijaykodam/what-is-the-difference-between-pod-disruption-budget-and-nodepool-disruption-budget-pob)
 <!-- BLOG-POST-LIST:END -->
 
