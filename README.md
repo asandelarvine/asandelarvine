@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trait in Rust Explained: From Basics to Advanced Usage](https://dev.to/leapcell/trait-in-rust-explained-from-basics-to-advanced-usage-14mn)
-- [Introduction to Android Development](https://dev.to/madgan95/introduction-to-android-development-6hl)
-- [I wanna know about the best place to learn and practice my Python](https://dev.to/maruti_jhawar/i-wanna-know-about-the-best-place-to-learn-and-practice-my-python-7p2)
-- [🎥 Building a Scalable Social Media Video Downloader: Open Source NestJS + Next.js Project](https://dev.to/fabwaseem/building-a-scalable-social-media-video-downloader-open-source-nestjs-nextjs-project-egm)
+- [📝 7 Steps to Professional Logo Integration in Filament](https://dev.to/dosenngoding/7-steps-to-professional-logo-integration-in-filament-2m9j)
+- [Hello, Dev Community! I&#39;m Umair Shakoor](https://dev.to/umairshakoor/hello-dev-community-im-umair-shakoor-4fek)
+- [How to Start Your #BuildInPublic Journey &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/huxlerapp/how-to-start-your-buildinpublic-journey-even-if-youre-just-getting-started-3o7m)
+- [Error Handling in Rust: A Comprehensive Guide](https://dev.to/sajiram_a4704bc095/error-handling-in-rust-a-comprehensive-guide-25np)
 <!-- BLOG-POST-LIST:END -->
 
