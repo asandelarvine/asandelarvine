@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS y el chip cuántico Ocelot: Un paso más cerca de la computación del futuro](https://dev.to/briansuarezsantiago/aws-y-el-chip-cuantico-ocelot-un-paso-mas-cerca-de-la-computacion-del-futuro-3ejn)
-- [Ensuring Reliable JSON from LLM Responses in PHP](https://dev.to/edgaras/ensuring-reliable-json-from-llm-responses-in-php-3ikb)
-- [Stop Forgetting! Automatically Remove console.log in Next.js Production](https://dev.to/achourmeguenni/stop-forgetting-automatically-remove-consolelog-in-nextjs-production-1nl1)
-- [Pod Disruption Budget vs NodePool Disruption Budget?](https://dev.to/vijaykodam/what-is-the-difference-between-pod-disruption-budget-and-nodepool-disruption-budget-pob)
+- [Refactoring with Polymorphism: Say Goodbye to Complex Conditionals](https://dev.to/pathus90/refactoring-with-polymorphism-say-goodbye-to-complex-conditionals-50o9)
+- [Implementing Multi-Tenancy in DynamoDB with Python](https://dev.to/dm8ry/implementing-multi-tenancy-in-dynamodb-with-python-4c54)
+- [AWS Cloud Path Week 8 - Completing AWS 101 Workshop with CDK](https://dev.to/aws-builders/aws-cloud-path-week-8-completing-aws-101-workshop-with-cdk-4j4i)
+- [How I Built a Cloud Startup When Everyone Said It Was Impossible](https://dev.to/nidasahar/how-i-built-a-cloud-startup-when-everyone-said-it-was-impossible-21la)
 <!-- BLOG-POST-LIST:END -->
 
