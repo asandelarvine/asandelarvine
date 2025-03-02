@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rate Limiting Algorithms: A Deep Dive 2](https://dev.to/devcorner/rate-limiting-algorithms-a-deep-dive-2-14n5)
-- [Rate Limiting Algorithms: A Deep Dive](https://dev.to/devcorner/rate-limiting-algorithms-a-deep-dive-49a0)
-- [Hello world!](https://dev.to/wagnertomaz/hello-world-21kj)
-- [DOM &lpar;Document Object Model&rpar;](https://dev.to/rubiya_reba/dom-document-object-model-2537)
+- [Guide to Vite Plugins](https://dev.to/aryan015/guide-to-vite-plugins-1mdp)
+- [Firefighting with bashrc: How I restore my Ubuntu terminal](https://dev.to/santattech/firefighting-with-bashrc-how-i-restore-my-ubuntu-terminal-5958)
+- [Good Commit vs Bad Commit: The 5 Commandments of Git Bible](https://dev.to/ruppysuppy/good-commit-vs-bad-commit-the-5-commandments-of-git-bible-j4k)
+- [AWS CLF-C02 vs. Azure AZ-900: Which is Best for Beginners? 🔥🚀](https://dev.to/ramkumar-m-n/aws-clf-c02-vs-azure-az-900-which-is-best-for-beginners-1510)
 <!-- BLOG-POST-LIST:END -->
 
