@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Web Scraper: Build and Optimize HTML Parsers](https://dev.to/leapcell/go-web-scraper-build-and-optimize-html-parsers-1lhc)
-- [🚀 Pengenalan Flutter: Dasar, State Management, dan Contoh Kode 🎯](https://dev.to/joenathandevid/pengenalan-flutter-dasar-state-management-dan-contoh-kode-1lge)
-- [7 Leadership Traits Every Great Tech Leader Must Possess](https://dev.to/devcorner/7-leadership-traits-every-great-tech-leader-must-possess-5b23)
-- [What are your Goals for the week? #116.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-116-496b)
+- [🚀 Why I Started Learning Automation &amp; DevOps](https://dev.to/sruthi177/why-i-started-learning-automation-devops-5130)
+- [Unlocking Success: Essential Software Development Best Practices for 2025](https://dev.to/jetthoughts/unlocking-success-essential-software-development-best-practices-for-2025-1n2i)
+- [Tools404: Essential Web Dev Tools in One Place](https://dev.to/jafludo/tools404-essential-web-dev-tools-in-one-place-2f5n)
+- [Leetcode - 36. Valid Sudoku](https://dev.to/rakeshreddy512/leetcode-36-valid-sudoku-1nbl)
 <!-- BLOG-POST-LIST:END -->
 
