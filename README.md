@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [LangChain + FalkorDB: Building AI Agents with Memory](https://dev.to/falkordb/langchain-falkordb-building-ai-agents-with-memory-191)
+- [Get AWS Certifications 100% FREE](https://dev.to/aws-builders/get-aws-certifications-100-free-9c8)
+- [What I learned from Head First: The life of a Java object reference.](https://dev.to/mitchiemt11/what-i-learned-from-head-first-the-life-of-a-java-object-reference-3e6k)
 - [How to Prevent Your Supabase Project Database from Being Paused Using GitHub Actions](https://dev.to/jps27cse/how-to-prevent-your-supabase-project-database-from-being-paused-using-github-actions-3hel)
-- [🚀 Your Daily Crypto Job Digest For 03 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-march-4mh3)
-- [Technical Guide: Syncing Ingress Resources from various Virtual Cluster on GKE with vCluster](https://dev.to/loft/technical-guide-syncing-ingress-resources-from-various-vcluster-on-gke-with-vcluster-3c56)
-- [How Hopthru powers real-time transit analytics from a 1 TB table](https://dev.to/timescale/how-hopthru-powers-real-time-transit-analytics-from-a-1-tb-table-3o8n)
 <!-- BLOG-POST-LIST:END -->
 
