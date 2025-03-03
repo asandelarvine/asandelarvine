@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo Instalar el Sistema Operativo GParted Live: Guía Paso a Paso](https://dev.to/angel_rojas_6904bae237a0d/como-instalar-el-sistema-operativo-gparted-live-guia-paso-a-paso-448m)
-- [Revolutionize Your SVG icons Workflow: Store Only the &quot;d&quot; Attribute](https://dev.to/simprl/revolutionize-your-svg-workflow-store-only-the-d-attribute-kam)
-- [Mastering Sed: The Unsung Hero of Text Processing](https://dev.to/karandaid/mastering-sed-the-unsung-hero-of-text-processing-16ml)
-- [Blockchain’s Transformative Influence on Open Source Transparency](https://dev.to/bobcars/blockchains-transformative-influence-on-open-source-transparency-18cl)
+- [Building BlackJack Uno: A Fun Way to Learn JavaScript](https://dev.to/beanboi64/building-blackjack-uno-a-fun-way-to-learn-javascript-2p9g)
+- [Deploying Canvas LMS on Kubernetes: Unlocking Full Control, LTI 1.3 for Developers &amp; Educators](https://dev.to/adeyemi_aina_b48e323922d9/deploying-canvas-lms-on-kubernetes-unlocking-full-control-lti-13-for-developers-educators-3llb)
+- [Day 1112 : Sugar Coating](https://dev.to/dwane/day-1112-sugar-coating-3l0h)
+- [Integrating sg-autocomplete Component](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-autocomplete-component-3m58)
 <!-- BLOG-POST-LIST:END -->
 
