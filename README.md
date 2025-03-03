@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain + FalkorDB: Building AI Agents with Memory](https://dev.to/falkordb/langchain-falkordb-building-ai-agents-with-memory-191)
-- [Get AWS Certifications 100% FREE](https://dev.to/aws-builders/get-aws-certifications-100-free-9c8)
-- [What I learned from Head First: The life of a Java object reference.](https://dev.to/mitchiemt11/what-i-learned-from-head-first-the-life-of-a-java-object-reference-3e6k)
-- [How to Prevent Your Supabase Project Database from Being Paused Using GitHub Actions](https://dev.to/jps27cse/how-to-prevent-your-supabase-project-database-from-being-paused-using-github-actions-3hel)
+- [Go Web Scraper: Build and Optimize HTML Parsers](https://dev.to/leapcell/go-web-scraper-build-and-optimize-html-parsers-1lhc)
+- [🚀 Pengenalan Flutter: Dasar, State Management, dan Contoh Kode 🎯](https://dev.to/joenathandevid/pengenalan-flutter-dasar-state-management-dan-contoh-kode-1lge)
+- [7 Leadership Traits Every Great Tech Leader Must Possess](https://dev.to/devcorner/7-leadership-traits-every-great-tech-leader-must-possess-5b23)
+- [What are your Goals for the week? #116.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-116-496b)
 <!-- BLOG-POST-LIST:END -->
 
