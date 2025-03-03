@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Webhook Security](https://dev.to/angelamchoi/api-webhook-security-ig8)
-- [Publish your first Hive Adventure](https://dev.to/serpent7776/publish-your-first-hive-adventure-2l9l)
-- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/vitalisorenko/blockchain-for-open-source-funding-a-new-paradigm-1moe)
-- [🎮 The Secret to Game Jams](https://dev.to/jacob_johnstone/the-secret-to-game-jams-53f)
+- [Cómo Instalar el Sistema Operativo GParted Live: Guía Paso a Paso](https://dev.to/angel_rojas_6904bae237a0d/como-instalar-el-sistema-operativo-gparted-live-guia-paso-a-paso-448m)
+- [Revolutionize Your SVG icons Workflow: Store Only the &quot;d&quot; Attribute](https://dev.to/simprl/revolutionize-your-svg-workflow-store-only-the-d-attribute-kam)
+- [Mastering Sed: The Unsung Hero of Text Processing](https://dev.to/karandaid/mastering-sed-the-unsung-hero-of-text-processing-16ml)
+- [Blockchain’s Transformative Influence on Open Source Transparency](https://dev.to/bobcars/blockchains-transformative-influence-on-open-source-transparency-18cl)
 <!-- BLOG-POST-LIST:END -->
 
