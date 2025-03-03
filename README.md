@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Is this the next step in the evolution of front end dev?](https://dev.to/whitep4nth3r/is-this-the-next-step-in-the-evolution-of-front-end-dev-32en)
+- [Struggling with Coding Assignments? Get Expert Programming Homework Help Today!](https://dev.to/tarunfulera/struggling-with-coding-assignments-get-expert-programming-homework-help-today-1e7i)
 - [Sharing a Minecraft Server Running on Localhost with Friends Using Pinggy](https://dev.to/lightningdev123/sharing-a-minecraft-server-running-on-localhost-with-friends-using-pinggy-dai)
 - [Fine-tuning a Foundation Model for a Specific Task with Vertex AI](https://dev.to/ifihan/fine-tuning-a-foundation-model-for-a-specific-task-with-vertex-ai-1mkc)
-- [Beyond Adspower? Is there more?](https://dev.to/emamama/beyond-adspower-is-there-more-3b31)
-- [Correspondence Beyond Horizons 🌌: A Glimpse into AI’s Future from a Parallel World🤖✨](https://dev.to/divya4879/correspondence-beyond-horizons-a-glimpse-into-ais-future-from-a-parallel-world-3ag4)
 <!-- BLOG-POST-LIST:END -->
 
