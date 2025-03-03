@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Command Confirmation](https://dev.to/jacopo/linux-command-confirmation-595e)
-- [How to Build a Task Manager API with Django REST Framework &lpar;Step-by-Step Guide&rpar;](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-step-by-step-guide-22l8)
-- [Splitting Prisma Schema into Multiple Files: A Simple Guide](https://dev.to/tanzimhossain2/splitting-prisma-schema-into-multiple-files-a-simple-guide-ni1)
-- [Introducing SPIKE-RT: The C Language Software Platform for LEGO SPIKE Prime](https://dev.to/_ff41734170f7cc70ac79/introducing-spike-rt-the-c-language-software-platform-for-lego-spike-prime-4b73)
+- [Robots &amp; AI - Real Talk About Our Future &lpar;Less Scary, More &quot;Whoa!&quot;&rpar;](https://dev.to/pinky057/robots-ai-real-talk-about-our-future-less-scary-more-whoa-4ii0)
+- [Docker CMD vs ENTRYPOINT: Understanding the Differences](https://dev.to/sudo_anuj/docker-cmd-vs-entrypoint-understanding-the-differences-apc)
+- [Deploying a Microservices Stock Trading Application on AWS with Terraform, Kubernetes &amp; Helm](https://dev.to/dvsharma/deploying-a-microservices-stock-trading-application-on-aws-with-terraform-kubernetes-helm-3idn)
+- [JavaScript Closures Explained Like You’re Five](https://dev.to/anil_kumawat/javascript-closures-explained-like-youre-five-o1n)
 <!-- BLOG-POST-LIST:END -->
 
