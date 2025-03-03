@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 Lista de Exercícios Básicos em Java 🚀 Part 3](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-3-49b7)
-- [Artigo sensacional!](https://dev.to/douglasbreda/artigo-sensacional-47nm)
-- [The Future of E2E Testing: How to Overcome Flakiness with Natural Language + LLMs](https://dev.to/tom_greenwald/the-future-of-e2e-testing-how-to-overcome-flakiness-with-natural-language-llms-2h5)
-- [THE NEXT STEP: The 100 days Tech Challenge](https://dev.to/aibuedefe/the-next-step-the-100-days-tech-challenge-36hf)
+- [API Webhook Security](https://dev.to/angelamchoi/api-webhook-security-ig8)
+- [Publish your first Hive Adventure](https://dev.to/serpent7776/publish-your-first-hive-adventure-2l9l)
+- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/vitalisorenko/blockchain-for-open-source-funding-a-new-paradigm-1moe)
+- [🎮 The Secret to Game Jams](https://dev.to/jacob_johnstone/the-secret-to-game-jams-53f)
 <!-- BLOG-POST-LIST:END -->
 
