@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trending Python Stack Comparison Guide](https://dev.to/resource_bunk_1077cab07da/trending-python-stack-comparison-guide-362j)
-- [Object-Oriented Programming: Encapsulation, Moving Parts, and Functional Paradigms](https://dev.to/lovestaco/object-oriented-programming-encapsulation-moving-parts-and-functional-paradigms-30d0)
-- [AltSchool Of Engineering Tinyuka’24 Month 1 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-1-week-3-23g3)
-- [10 Essential Tips to Write Clean and Maintainable Code](https://dev.to/preeti_yadav/10-essential-tips-to-write-clean-and-maintainable-code-38dk)
+- [💻 Lista de Exercícios Básicos em Java 🚀 Part 3](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-3-49b7)
+- [Artigo sensacional!](https://dev.to/douglasbreda/artigo-sensacional-47nm)
+- [The Future of E2E Testing: How to Overcome Flakiness with Natural Language + LLMs](https://dev.to/tom_greenwald/the-future-of-e2e-testing-how-to-overcome-flakiness-with-natural-language-llms-2h5)
+- [THE NEXT STEP: The 100 days Tech Challenge](https://dev.to/aibuedefe/the-next-step-the-100-days-tech-challenge-36hf)
 <!-- BLOG-POST-LIST:END -->
 
