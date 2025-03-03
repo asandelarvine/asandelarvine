@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Time Travel Diaries: A Letter Across Time – A Deeper Dive as the Saga of AI Unfolds 🤖✨](https://dev.to/divya4879/time-travel-diaries-a-letter-across-time-a-deeper-dive-as-the-saga-of-ai-unfolds-5e3i)
-- [Callbacks vs Promises vs Async/Await: The Ultimate Guide to Asynchronous Javascript](https://dev.to/shubhamtiwari909/callbacks-vs-promises-vs-asyncawait-the-ultimate-guide-to-asynchronous-javascript-1j5n)
-- [Migrating from Express.js to Encore.ts for 9x Performance using Cursor](https://dev.to/encore/migrating-from-expressjs-to-encorets-for-9x-performance-using-cursor-ai-23h8)
-- [How to Easily Add Internationalization &lpar;i18n&rpar; to Your New Software Project](https://dev.to/adrai/how-to-easily-add-internationalization-i18n-to-your-new-software-project-4da)
+- [Correspondence Beyond Horizons 🌌: A Glimpse into AI’s Future from a Parallel World🤖✨](https://dev.to/divya4879/correspondence-beyond-horizons-a-glimpse-into-ais-future-from-a-parallel-world-3ag4)
+- [10 API Nightmares That Will Destroy Your App](https://dev.to/snappytuts/10-api-nightmares-that-will-destroy-your-app-5g36)
+- [HTTP Basics🌍](https://dev.to/prashant_1111/http-basics-3dmp)
+- [Flutter vs React Native vs NativeScript – Competition?](https://dev.to/resource_bunk_1077cab07da/flutter-vs-react-native-vs-nativescript-competition-3e73)
 <!-- BLOG-POST-LIST:END -->
 
