@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing shadcn-sveltekit-landing-page: A Modern Landing Page Template with SvelteKit &amp; Shadcn](https://dev.to/zxce3/introducing-shadcn-sveltekit-landing-page-a-modern-landing-page-template-with-sveltekit-shadcn-1g71)
-- [How Small Teams Can Achieve More with Strong Organizational Support](https://dev.to/futuristicgeeks/how-small-teams-can-achieve-more-with-strong-organizational-support-4ffb)
-- [I Hope You Don&#39;t Have To Write a CV. But if You Do, Follow These Tips](https://dev.to/canro91/i-hope-you-dont-have-to-write-a-cv-but-if-you-do-follow-these-tips-dm)
-- [Arrays e Slices em go](https://dev.to/mayconjesus/arrays-e-slices-em-go-2fec)
+- [Supercharging Web Apps with WebAssembly: A Hands-on Guide 🚀](https://dev.to/vibhuvibes/supercharging-web-apps-with-webassembly-a-hands-on-guide-162d)
+- [🤖 Set Up Your Own AI Agent in Minutes! Clone, Run, &amp; Deploy 🚀🛠️⚡](https://dev.to/ramkumar-m-n/set-up-your-own-ai-agent-in-minutes-clone-run-deploy-2n92)
+- [Small JavaScript Tricks That Feel Like Magic 🪄](https://dev.to/preeti_yadav/small-javascript-tricks-that-feel-like-magic-3a6g)
+- [🚀 Unlock Blazing Fast Performance with HybridCache in ASP.NET Core 9](https://dev.to/dct_technologyprivatelimited/unlock-blazing-fast-performance-with-hybridcache-in-aspnet-core-9-5hnc)
 <!-- BLOG-POST-LIST:END -->
 
