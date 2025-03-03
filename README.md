@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharing a Minecraft Server Running on Localhost with Friends Using Pinggy](https://dev.to/lightningdev123/sharing-a-minecraft-server-running-on-localhost-with-friends-using-pinggy-dai)
+- [Fine-tuning a Foundation Model for a Specific Task with Vertex AI](https://dev.to/ifihan/fine-tuning-a-foundation-model-for-a-specific-task-with-vertex-ai-1mkc)
+- [Beyond Adspower? Is there more?](https://dev.to/emamama/beyond-adspower-is-there-more-3b31)
 - [Correspondence Beyond Horizons 🌌: A Glimpse into AI’s Future from a Parallel World🤖✨](https://dev.to/divya4879/correspondence-beyond-horizons-a-glimpse-into-ais-future-from-a-parallel-world-3ag4)
-- [10 API Nightmares That Will Destroy Your App](https://dev.to/snappytuts/10-api-nightmares-that-will-destroy-your-app-5g36)
-- [HTTP Basics🌍](https://dev.to/prashant_1111/http-basics-3dmp)
-- [Flutter vs React Native vs NativeScript – Competition?](https://dev.to/resource_bunk_1077cab07da/flutter-vs-react-native-vs-nativescript-competition-3e73)
 <!-- BLOG-POST-LIST:END -->
 
