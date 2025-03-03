@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You should use CAG instead RAG everywhere](https://dev.to/wakeupmh/you-should-use-cag-instead-rag-everywhere-3ff2)
-- [Tools for Effective Fundraising and Networking in 2025: Product Hunt’s Picks](https://dev.to/julia_yu/tools-for-effective-fundraising-and-networking-in-2025-product-hunts-picks-3bp3)
-- [Definitive Guide to AI Benchmarks: Comparing Models, Testing Your Own, and Understanding the Future](https://dev.to/dfordp/definitive-guide-to-ai-benchmarks-comparing-models-testing-your-own-and-understanding-the-future-4d9i)
-- [10+ Best Analytics Dashboard Templates for 2025](https://dev.to/tailadmin/top-analytics-dashboard-templates-2198)
+- [Introducing shadcn-sveltekit-landing-page: A Modern Landing Page Template with SvelteKit &amp; Shadcn](https://dev.to/zxce3/introducing-shadcn-sveltekit-landing-page-a-modern-landing-page-template-with-sveltekit-shadcn-1g71)
+- [How Small Teams Can Achieve More with Strong Organizational Support](https://dev.to/futuristicgeeks/how-small-teams-can-achieve-more-with-strong-organizational-support-4ffb)
+- [I Hope You Don&#39;t Have To Write a CV. But if You Do, Follow These Tips](https://dev.to/canro91/i-hope-you-dont-have-to-write-a-cv-but-if-you-do-follow-these-tips-dm)
+- [Arrays e Slices em go](https://dev.to/mayconjesus/arrays-e-slices-em-go-2fec)
 <!-- BLOG-POST-LIST:END -->
 
