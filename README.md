@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Web Apps with WebAssembly: A Hands-on Guide 🚀](https://dev.to/vibhuvibes/supercharging-web-apps-with-webassembly-a-hands-on-guide-162d)
-- [🤖 Set Up Your Own AI Agent in Minutes! Clone, Run, &amp; Deploy 🚀🛠️⚡](https://dev.to/ramkumar-m-n/set-up-your-own-ai-agent-in-minutes-clone-run-deploy-2n92)
-- [Small JavaScript Tricks That Feel Like Magic 🪄](https://dev.to/preeti_yadav/small-javascript-tricks-that-feel-like-magic-3a6g)
-- [🚀 Unlock Blazing Fast Performance with HybridCache in ASP.NET Core 9](https://dev.to/dct_technologyprivatelimited/unlock-blazing-fast-performance-with-hybridcache-in-aspnet-core-9-5hnc)
+- [🚀 10 Best Full-Stack &lpar;MERN&rpar; Techniques to Skyrocket Your Productivity 🚀](https://dev.to/er-raj-aryan/10-best-full-stack-mern-techniques-to-skyrocket-your-productivity-594a)
+- [What is NAS? Does NAS Need a WAF?](https://dev.to/carrie_luo1/what-is-nas-does-nas-need-a-waf-5jh)
+- [Power Platform - Moving All Flows to Dataverse](https://dev.to/wyattdave/power-platform-moving-all-flows-to-dataverse-321)
+- [Embracing the Agentic AI Age: Transforming Productivity with Microsoft Ecosystem](https://dev.to/balagmadhu/embracing-the-agentic-ai-age-transforming-productivity-with-microsoft-ecosystem-540i)
 <!-- BLOG-POST-LIST:END -->
 
