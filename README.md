@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring with Polymorphism: Say Goodbye to Complex Conditionals](https://dev.to/pathus90/refactoring-with-polymorphism-say-goodbye-to-complex-conditionals-50o9)
-- [Implementing Multi-Tenancy in DynamoDB with Python](https://dev.to/dm8ry/implementing-multi-tenancy-in-dynamodb-with-python-4c54)
-- [AWS Cloud Path Week 8 - Completing AWS 101 Workshop with CDK](https://dev.to/aws-builders/aws-cloud-path-week-8-completing-aws-101-workshop-with-cdk-4j4i)
-- [How I Built a Cloud Startup When Everyone Said It Was Impossible](https://dev.to/nidasahar/how-i-built-a-cloud-startup-when-everyone-said-it-was-impossible-21la)
+- [Linux Command Confirmation](https://dev.to/jacopo/linux-command-confirmation-595e)
+- [How to Build a Task Manager API with Django REST Framework &lpar;Step-by-Step Guide&rpar;](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-step-by-step-guide-22l8)
+- [Splitting Prisma Schema into Multiple Files: A Simple Guide](https://dev.to/tanzimhossain2/splitting-prisma-schema-into-multiple-files-a-simple-guide-ni1)
+- [Introducing SPIKE-RT: The C Language Software Platform for LEGO SPIKE Prime](https://dev.to/_ff41734170f7cc70ac79/introducing-spike-rt-the-c-language-software-platform-for-lego-spike-prime-4b73)
 <!-- BLOG-POST-LIST:END -->
 
