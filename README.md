@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [🚀 10 Best Full-Stack &lpar;MERN&rpar; Techniques to Skyrocket Your Productivity 🚀](https://dev.to/er-raj-aryan/10-best-full-stack-mern-techniques-to-skyrocket-your-productivity-594a)
+- [Inside Out, Outside In: Our Topsy-Turvy Tech World](https://dev.to/gambhirsamarth/inside-out-outside-in-our-topsy-turvy-tech-world-3aj0)
+- [Mental Health and Developer Burnout: The Silent Struggle](https://dev.to/matemiller/mental-health-and-developer-burnout-the-silent-struggle-2h6b)
 - [What is NAS? Does NAS Need a WAF?](https://dev.to/carrie_luo1/what-is-nas-does-nas-need-a-waf-5jh)
-- [Power Platform - Moving All Flows to Dataverse](https://dev.to/wyattdave/power-platform-moving-all-flows-to-dataverse-321)
-- [Embracing the Agentic AI Age: Transforming Productivity with Microsoft Ecosystem](https://dev.to/balagmadhu/embracing-the-agentic-ai-age-transforming-productivity-with-microsoft-ecosystem-540i)
 <!-- BLOG-POST-LIST:END -->
 
