@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Align the existing data to the corresponding position and fill in any missing data with 0 — From SQL to SPL #6](https://dev.to/judith677/align-the-existing-data-to-the-corresponding-position-and-fill-in-any-missing-data-with-0-from-l06)
 - [Robots &amp; AI - Real Talk About Our Future &lpar;Less Scary, More &quot;Whoa!&quot;&rpar;](https://dev.to/pinky057/robots-ai-real-talk-about-our-future-less-scary-more-whoa-4ii0)
 - [Docker CMD vs ENTRYPOINT: Understanding the Differences](https://dev.to/sudo_anuj/docker-cmd-vs-entrypoint-understanding-the-differences-apc)
-- [Deploying a Microservices Stock Trading Application on AWS with Terraform, Kubernetes &amp; Helm](https://dev.to/dvsharma/deploying-a-microservices-stock-trading-application-on-aws-with-terraform-kubernetes-helm-3idn)
-- [JavaScript Closures Explained Like You’re Five](https://dev.to/anil_kumawat/javascript-closures-explained-like-youre-five-o1n)
+- [Optimistic rendering example in React with Typescript](https://dev.to/nicoenciso/renderizado-optimista-forked-3o34)
 <!-- BLOG-POST-LIST:END -->
 
