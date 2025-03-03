@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why I Started Learning Automation &amp; DevOps](https://dev.to/sruthi177/why-i-started-learning-automation-devops-5130)
-- [Unlocking Success: Essential Software Development Best Practices for 2025](https://dev.to/jetthoughts/unlocking-success-essential-software-development-best-practices-for-2025-1n2i)
-- [Tools404: Essential Web Dev Tools in One Place](https://dev.to/jafludo/tools404-essential-web-dev-tools-in-one-place-2f5n)
-- [Leetcode - 36. Valid Sudoku](https://dev.to/rakeshreddy512/leetcode-36-valid-sudoku-1nbl)
+- [Simple Python for Data Analysis](https://dev.to/0x3d_site/simple-python-for-data-analysis-2l85)
+- [Dictionary vs. defaultdict in Python: A Beginner’s Guide](https://dev.to/extinctsion/dictionary-vs-defaultdict-in-python-a-beginners-guide-2ao1)
+- [Learn about the priority levels of config files and distinguish between .yaml and .properties files in Java Spring Boot.](https://dev.to/hieunguyendev/learn-about-the-priority-levels-of-config-files-and-distinguish-between-yaml-and-properties-files-26fi)
+- [hax cli: publish on surge.sh fast!](https://dev.to/btopro/hax-cli-publish-on-surgesh-fast-4b3c)
 <!-- BLOG-POST-LIST:END -->
 
