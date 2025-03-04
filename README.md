@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Case Template: Free Examples &amp; Formats for QA Teams](https://dev.to/ronika_kashyap/test-case-template-free-examples-formats-for-qa-teams-5b88)
-- [Rahasia Website Anti-Downtime](https://dev.to/diorizqi/rahasia-website-anti-downtime-4ejb)
-- [matrix multipilication,matrix addision](https://dev.to/neelakandan_ravi_2000/matrix-multipilicationmatrix-addision-4p96)
-- [📚 Understanding Angular Dependency Injection: How It Works &amp; Best Practice](https://dev.to/artem_turlenko/understanding-angular-dependency-injection-how-it-works-best-practice-2j68)
+- [A Deep Dive Into Apache Flink Timers](https://dev.to/ipolyzos/a-deep-dive-into-apache-flink-timers-6m4)
+- [My First Internship Experience](https://dev.to/khushihiagrawal/my-first-internship-experience-3boc)
+- [The Decline of Stack Overflow: How AI is Changing Developer Help-Seeking Behavior](https://dev.to/surya_krishnan_2bd96d385c/the-decline-of-stack-overflow-how-ai-is-changing-developer-help-seeking-behavior-4c13)
+- [Radical Simplicity in Cloud Architecture](https://dev.to/aws-builders/radical-simplicity-in-cloud-architecture-5b40)
 <!-- BLOG-POST-LIST:END -->
 
