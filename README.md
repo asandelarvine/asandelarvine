@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building BlackJack Uno: A Fun Way to Learn JavaScript](https://dev.to/beanboi64/building-blackjack-uno-a-fun-way-to-learn-javascript-2p9g)
-- [Deploying Canvas LMS on Kubernetes: Unlocking Full Control, LTI 1.3 for Developers &amp; Educators](https://dev.to/adeyemi_aina_b48e323922d9/deploying-canvas-lms-on-kubernetes-unlocking-full-control-lti-13-for-developers-educators-3llb)
-- [Day 1112 : Sugar Coating](https://dev.to/dwane/day-1112-sugar-coating-3l0h)
-- [Integrating sg-autocomplete Component](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-autocomplete-component-3m58)
+- [Auracast and multiple subgroups](https://dev.to/denladeside/auracast-and-multiple-subgroups-4im3)
+- [Explorando Técnicas de Prompting para Modelos de IA](https://dev.to/zorasantos/explorando-tecnicas-de-prompting-para-modelos-de-ia-5bfb)
+- [AI-Powered Code Generation: Opportunities and Risks](https://dev.to/kartikmehta8/ai-powered-code-generation-opportunities-and-risks-190f)
+- [We got computer Models for Physics... Devs](https://dev.to/pen2iotchaote/we-got-computer-models-for-physics-devs-29ak)
 <!-- BLOG-POST-LIST:END -->
 
