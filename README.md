@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Most Valuable Skill in the Modern World Is Data Science](https://dev.to/ashwin_ash_14d1017720a11e/why-the-most-valuable-skill-in-the-modern-world-is-data-science-2m05)
-- [Jonathan Dale Benton success stories](https://dev.to/jonathandalebenton/jonathan-dale-benton-success-stories-56gk)
-- [💻 Free HTML, CSS &amp; JavaScript Cheat Sheets – Hope This Helps! 🚀](https://dev.to/kumar_c5d7577bb/free-html-css-javascript-cheat-sheets-hope-this-helps-b38)
-- [useful resources](https://dev.to/nawinkumarsharma/useful-resources-7nk)
+- [Why I Choose to Use a Chinese WAF?](https://dev.to/carrie_luo1/why-i-choose-to-use-a-chinese-waf-3e1m)
+- [Cypress - Automating SSO Login with Multi-Factor Authentication using Mobile Authenticator App OTPs in Azure AD](https://dev.to/rohitshinde/cypress-automating-sso-login-with-multi-factor-authentication-using-mobile-authenticator-app-otps-9gm)
+- [Kubernetes Cost Optimization: Strategies for Maximum Efficiency &amp; Savings](https://dev.to/getambassador2024/kubernetes-cost-optimization-strategies-for-maximum-efficiency-savings-39oe)
+- [How to Build an AI SaaS Startup: A Step-by-Step Guide](https://dev.to/sharvin26/how-to-build-an-ai-saas-startup-a-step-by-step-guide-2oj6)
 <!-- BLOG-POST-LIST:END -->
 
