@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Aging: Natural Habits for Youthful Life](https://dev.to/usmanseo/reverse-aging-natural-habits-for-youthful-life-3fmh)
-- [React useCallback: When and how to use it for better performance](https://dev.to/logrocket/react-usecallback-2o8i)
-- [Unit Testing vs. End-to-End Testing: Understanding the Differences](https://dev.to/keploy/unit-testing-vs-end-to-end-testing-understanding-the-differences-5002)
-- [How to build an AI Chatbot Using Python and Gemini AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/uabdul106/how-to-build-an-ai-chatbot-using-python-and-gemini-ai-step-by-step-guide-2lbc)
+- [🧪 Validando Mensagens no Kafka com Kotlin e Awaitility](https://dev.to/rafaelbercam/validando-mensagens-no-kafka-com-kotlin-e-awaitility-22hg)
+- [IOT based Parking app](https://dev.to/sidatgithubcode/iot-based-parking-app-5h62)
+- [Study Notes 5.1.1-2 Introduction to Batch Processing &amp; spark](https://dev.to/pizofreude/study-notes-511-2-introduction-to-batch-processing-spark-glb)
+- [Building a Redis-Powered Node.js Application: A Step-by-Step Guide](https://dev.to/fredabod/building-a-redis-powered-nodejs-application-a-step-by-step-guide-4jeb)
 <!-- BLOG-POST-LIST:END -->
 
