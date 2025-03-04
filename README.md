@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Choose to Use a Chinese WAF?](https://dev.to/carrie_luo1/why-i-choose-to-use-a-chinese-waf-3e1m)
-- [Cypress - Automating SSO Login with Multi-Factor Authentication using Mobile Authenticator App OTPs in Azure AD](https://dev.to/rohitshinde/cypress-automating-sso-login-with-multi-factor-authentication-using-mobile-authenticator-app-otps-9gm)
-- [Kubernetes Cost Optimization: Strategies for Maximum Efficiency &amp; Savings](https://dev.to/getambassador2024/kubernetes-cost-optimization-strategies-for-maximum-efficiency-savings-39oe)
-- [How to Build an AI SaaS Startup: A Step-by-Step Guide](https://dev.to/sharvin26/how-to-build-an-ai-saas-startup-a-step-by-step-guide-2oj6)
+- [Test Case Template: Free Examples &amp; Formats for QA Teams](https://dev.to/ronika_kashyap/test-case-template-free-examples-formats-for-qa-teams-5b88)
+- [Rahasia Website Anti-Downtime](https://dev.to/diorizqi/rahasia-website-anti-downtime-4ejb)
+- [matrix multipilication,matrix addision](https://dev.to/neelakandan_ravi_2000/matrix-multipilicationmatrix-addision-4p96)
+- [📚 Understanding Angular Dependency Injection: How It Works &amp; Best Practice](https://dev.to/artem_turlenko/understanding-angular-dependency-injection-how-it-works-best-practice-2j68)
 <!-- BLOG-POST-LIST:END -->
 
