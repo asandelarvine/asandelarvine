@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Using JSX Wrong in Next.js? Let’s Fix That Today! 🚀](https://dev.to/dct_technologyprivatelimited/are-you-using-jsx-wrong-in-nextjs-lets-fix-that-today-54i)
-- [Terraform for Beginners: Writing Your First Infrastructure Code](https://dev.to/yash_sonawane25/terraform-for-beginners-writing-your-first-infrastructure-code-2mp4)
-- [10 Best Chrome Extensions for Web Developers You Need to Try](https://dev.to/web_dev-usman/10-best-chrome-extensions-for-web-developers-you-need-to-try-343e)
-- [Struggling to keep up with new technologies? 🚀 Developers face info overload, time constraints &amp; imposter syndrome. Learn how to stay ahead without feeling overwhelmed! Read our latest blog &amp; boost your learning journey! #DevCommunity #LearningTech](https://dev.to/pratham_naik_project_manager/struggling-to-keep-up-with-new-technologies-developers-face-info-overload-time-constraints--13fd)
+- [Why the Most Valuable Skill in the Modern World Is Data Science](https://dev.to/ashwin_ash_14d1017720a11e/why-the-most-valuable-skill-in-the-modern-world-is-data-science-2m05)
+- [Jonathan Dale Benton success stories](https://dev.to/jonathandalebenton/jonathan-dale-benton-success-stories-56gk)
+- [💻 Free HTML, CSS &amp; JavaScript Cheat Sheets – Hope This Helps! 🚀](https://dev.to/kumar_c5d7577bb/free-html-css-javascript-cheat-sheets-hope-this-helps-b38)
+- [useful resources](https://dev.to/nawinkumarsharma/useful-resources-7nk)
 <!-- BLOG-POST-LIST:END -->
 
