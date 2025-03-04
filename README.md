@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing LTM-2: A Leap Forward in Workflow Management](https://dev.to/grenishrai/introducing-ltm-2-a-leap-forward-in-workflow-management-44aa)
-- [Django notes #4 &lpar;User, Auth&rpar;](https://dev.to/alvin_seyidov_6b9e3a5dffa/django-4-1l56)
-- [Elon Musk and Open Source: Redefining Innovation Through Collaboration](https://dev.to/ashucommits/elon-musk-and-open-source-redefining-innovation-through-collaboration-27k1)
-- [Django notes #2 &lpar;ORM&rpar;](https://dev.to/alvin_seyidov_6b9e3a5dffa/django-notes-2-orm-51de)
+- [New post on Stef&#39;s Dev Notes: https://stefsdevnotes.substack.com/p/reactjs-understanding-usecallback?r=aehwm](https://dev.to/stefania_barabas/new-post-on-stefs-dev-notes-1616)
+- [Open Source Alternatives to GitHub Codespaces](https://dev.to/bascodes/open-source-alternatives-to-github-codespaces-54e5)
+- [The Art of UI Component Design: Creating Engaging and Intuitive User Interfaces](https://dev.to/sencha_reext/the-art-of-ui-component-design-creating-engaging-and-intuitive-user-interfaces-3pj3)
+- [Blockchain and Open Source: A New Dawn of Innovation](https://dev.to/bobcars/blockchain-and-open-source-a-new-dawn-of-innovation-4acg)
 <!-- BLOG-POST-LIST:END -->
 
