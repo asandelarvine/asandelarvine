@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The most important programming language in 2025](https://dev.to/igorfragadev/the-most-important-programming-language-in-2025-19n3)
-- [Xargs: The Secret Weapon for Building Efficient Command Pipelines](https://dev.to/karandaid/xargs-the-secret-weapon-for-building-efficient-command-pipelines-168n)
-- [Find: The Ultimate File Discovery Tool Every Developer Must Master](https://dev.to/karandaid/find-the-ultimate-file-discovery-tool-every-developer-must-master-204g)
-- [Identity and Access Management &lpar;IAM&rpar;: A Deep Dive in AWS Resources](https://dev.to/roxane_fischer_79570c1b5b/identity-and-access-management-iam-a-deep-dive-in-aws-resources-1d7k)
+- [How to Use AWK Like an Expert: The Ultimate Guide for Bash Power Users](https://dev.to/karandaid/how-to-use-awk-like-an-expert-the-ultimate-guide-for-bash-power-users-1cd)
+- [Presentation](https://dev.to/gabrian/presentation-254)
+- [Hands-On Guide: AWS S3 Lifecycle Management, EBS Volume, and Snapshot](https://dev.to/seyilufadejucyberservices/hands-on-guide-aws-s3-lifecycle-management-ebs-volume-and-snapshot-1p8a)
+- [CFP Open - AI Native DevCon Spring Edition](https://dev.to/sammyhep/cfp-open-ai-native-devcon-spring-edition-529j)
 <!-- BLOG-POST-LIST:END -->
 
