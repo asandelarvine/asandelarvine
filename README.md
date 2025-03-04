@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive Into Apache Flink Timers](https://dev.to/ipolyzos/a-deep-dive-into-apache-flink-timers-6m4)
-- [My First Internship Experience](https://dev.to/khushihiagrawal/my-first-internship-experience-3boc)
-- [The Decline of Stack Overflow: How AI is Changing Developer Help-Seeking Behavior](https://dev.to/surya_krishnan_2bd96d385c/the-decline-of-stack-overflow-how-ai-is-changing-developer-help-seeking-behavior-4c13)
-- [Radical Simplicity in Cloud Architecture](https://dev.to/aws-builders/radical-simplicity-in-cloud-architecture-5b40)
+- [Certified Full Stack Data Scientist Specializing in AI and Machine Learning](https://dev.to/maria_mathur/certified-full-stack-data-scientist-specializing-in-ai-and-machine-learning-18i0)
+- [How to Build a CRUD API with Laravel for Beginners](https://dev.to/programmerhasan/how-to-build-a-crud-api-with-laravel-for-beginners-365a)
+- [The Ultimate Guide to Sandbox Environments: Safe &amp; Efficient Software Testing](https://dev.to/testwithtorin/the-ultimate-guide-to-sandbox-environments-safe-efficient-software-testing-lb5)
+- [Backend Development Process: What are the Tasks &amp; Tools Involved](https://dev.to/apilover/backend-development-process-what-are-the-tasks-tools-involved-2mol)
 <!-- BLOG-POST-LIST:END -->
 
