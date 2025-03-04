@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Certified Full Stack Data Scientist Specializing in AI and Machine Learning](https://dev.to/maria_mathur/certified-full-stack-data-scientist-specializing-in-ai-and-machine-learning-18i0)
-- [How to Build a CRUD API with Laravel for Beginners](https://dev.to/programmerhasan/how-to-build-a-crud-api-with-laravel-for-beginners-365a)
-- [The Ultimate Guide to Sandbox Environments: Safe &amp; Efficient Software Testing](https://dev.to/testwithtorin/the-ultimate-guide-to-sandbox-environments-safe-efficient-software-testing-lb5)
-- [Backend Development Process: What are the Tasks &amp; Tools Involved](https://dev.to/apilover/backend-development-process-what-are-the-tasks-tools-involved-2mol)
+- [Generate AI Art for Your Next Project – Free &amp; Fast!](https://dev.to/neurolov_ai_/generate-ai-art-for-your-next-project-free-fast-1dp2)
+- [How to Build Real-Time Analytics Systems with Go: A Complete Guide](https://dev.to/stellaacharoiro/how-to-build-real-time-analytics-systems-with-go-a-complete-guide-4hd0)
+- [7 Ways to Perfect Your Filament Table Filters](https://dev.to/dosenngoding/7-ways-to-perfect-your-filament-table-filters-46aa)
+- [3-Getting derivated values reactively - Building a Reactive System in TypeScript](https://dev.to/michaeljota/getting-derivated-values-reactively-building-a-reactive-system-in-typescript-4pg4)
 <!-- BLOG-POST-LIST:END -->
 
