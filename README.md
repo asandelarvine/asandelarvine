@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Archman GNU/Linux? A Lightweight and User-Friendly Arch-Based Distro 🐧](https://dev.to/angel_rojas_6904bae237a0d/what-is-archman-gnulinux-a-lightweight-and-user-friendly-arch-based-distro-3kpm)
-- [Manticore vs Elastic with Kibana](https://dev.to/sanikolaev/manticore-vs-elastic-with-kibana-3946)
-- [My HNG Internship Journey: Stage 3 — Building an AI-Powered Text Processing Interface](https://dev.to/toptech5419/my-hng-internship-journey-stage-3-building-an-ai-powered-text-processing-interface-58oe)
-- [Fixing Path of Exile 2 Loading Screen Freezes on Windows 11 24H2](https://dev.to/yawatasensei/fixing-path-of-exile-2-loading-screen-freezes-on-windows-11-24h2-24ep)
+- [Mastering Flavors in Flutter: A Step-by-Step Approach](https://dev.to/hunnguydev101/mastering-flavors-in-flutter-a-step-by-step-approach-1en3)
+- [JS Question 1](https://dev.to/anjali_gurjar_dff81513867/js-question-1-4870)
+- [SQL](https://dev.to/anjali_gurjar_dff81513867/sql-39p0)
+- [MASTERING VIM – A DEVOPS ESSENTIAL!](https://dev.to/aws-builders/mastering-vim-a-devops-essential-5409)
 <!-- BLOG-POST-LIST:END -->
 
