@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New post on Stef&#39;s Dev Notes: https://stefsdevnotes.substack.com/p/reactjs-understanding-usecallback?r=aehwm](https://dev.to/stefania_barabas/new-post-on-stefs-dev-notes-1616)
-- [Open Source Alternatives to GitHub Codespaces](https://dev.to/bascodes/open-source-alternatives-to-github-codespaces-54e5)
-- [The Art of UI Component Design: Creating Engaging and Intuitive User Interfaces](https://dev.to/sencha_reext/the-art-of-ui-component-design-creating-engaging-and-intuitive-user-interfaces-3pj3)
-- [Blockchain and Open Source: A New Dawn of Innovation](https://dev.to/bobcars/blockchain-and-open-source-a-new-dawn-of-innovation-4acg)
+- [Top Cloud Computing Trends Shaping the Future](https://dev.to/daya_jethva_42548b893edb9/top-cloud-computing-trends-shaping-the-future-1491)
+- [The Resilient Software Engineer: Thriving in a Rapidly Changing Tech World](https://dev.to/devcorner/the-resilient-software-engineer-thriving-in-a-rapidly-changing-tech-world-7p4)
+- [Using Git Version Control in a Company: Step-by-Step Guide](https://dev.to/devcorner/using-git-version-control-in-a-company-step-by-step-guide-3o0l)
+- [[Boost]](https://dev.to/ishwar_2/-21lf)
 <!-- BLOG-POST-LIST:END -->
 
