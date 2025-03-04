@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ACID or BASE](https://dev.to/lovestaco/acid-or-base-hjf)
-- [Kubectl Demystified: Mastering the `kubectl logs` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-logs-command-pj5)
-- [Level Up React: Deep Dive into State and useState](https://dev.to/56_kode/level-up-react-deep-dive-into-state-and-usestate-2m6f)
-- [🚀 Customizing GitHub Copilot &amp; GitLens for AI-Assisted Commit Messages 🧠💡](https://dev.to/mohammadrizvy/customizing-github-copilot-gitlens-for-ai-assisted-commit-messages-485j)
+- [30+ Brand-New GitHub Repos from Hacker News!](https://dev.to/gittech/30-brand-new-github-repos-from-hacker-news-467d)
+- [30 Dev.to Python Articles That Will Level Up Your Skills Instantly!](https://dev.to/dev-resources/30-devto-python-articles-that-will-level-up-your-skills-instantly-2ajb)
+- [AWS Technical Essentials Quiz: Questions and Answers](https://dev.to/skillboosttrainer/aws-technical-essentials-quiz-questions-and-answers-2fen)
+- [5 Lesser-Known Asynchronous Patterns in Node.js &lpar;With Examples&rpar;](https://dev.to/araldhafeeri/5-lesser-known-asynchronous-patterns-in-nodejs-with-examples-1k6j)
 <!-- BLOG-POST-LIST:END -->
 
