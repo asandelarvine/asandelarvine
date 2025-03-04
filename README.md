@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [30+ Brand-New GitHub Repos from Hacker News!](https://dev.to/gittech/30-brand-new-github-repos-from-hacker-news-467d)
-- [30 Dev.to Python Articles That Will Level Up Your Skills Instantly!](https://dev.to/dev-resources/30-devto-python-articles-that-will-level-up-your-skills-instantly-2ajb)
-- [AWS Technical Essentials Quiz: Questions and Answers](https://dev.to/skillboosttrainer/aws-technical-essentials-quiz-questions-and-answers-2fen)
-- [5 Lesser-Known Asynchronous Patterns in Node.js &lpar;With Examples&rpar;](https://dev.to/araldhafeeri/5-lesser-known-asynchronous-patterns-in-nodejs-with-examples-1k6j)
+- [Introducing Feather Wand: Your AI-Powered Companion for JMeter](https://dev.to/qainsights/introducing-feather-wand-your-ai-powered-companion-for-jmeter-2774)
+- [Is This the AI Breakthrough That Changes Everything?](https://dev.to/shahstavan/is-this-the-ai-breakthrough-that-changes-everything-4599)
+- [From Overwhelm to Action: The 2-Minute Solution](https://dev.to/wraith/from-overwhelm-to-action-the-2-minute-solution-10lj)
+- [POINT | Hackathon Winner | Most Creative Track | TechNYU](https://dev.to/poetryofcode/point-hackathon-winner-most-creative-track-technyu-3j9b)
 <!-- BLOG-POST-LIST:END -->
 
