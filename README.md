@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 Validando Mensagens no Kafka com Kotlin e Awaitility](https://dev.to/rafaelbercam/validando-mensagens-no-kafka-com-kotlin-e-awaitility-22hg)
-- [IOT based Parking app](https://dev.to/sidatgithubcode/iot-based-parking-app-5h62)
-- [Study Notes 5.1.1-2 Introduction to Batch Processing &amp; spark](https://dev.to/pizofreude/study-notes-511-2-introduction-to-batch-processing-spark-glb)
-- [Building a Redis-Powered Node.js Application: A Step-by-Step Guide](https://dev.to/fredabod/building-a-redis-powered-nodejs-application-a-step-by-step-guide-4jeb)
+- [ACID or BASE](https://dev.to/lovestaco/acid-or-base-hjf)
+- [Kubectl Demystified: Mastering the `kubectl logs` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-logs-command-pj5)
+- [Level Up React: Deep Dive into State and useState](https://dev.to/56_kode/level-up-react-deep-dive-into-state-and-usestate-2m6f)
+- [🚀 Customizing GitHub Copilot &amp; GitLens for AI-Assisted Commit Messages 🧠💡](https://dev.to/mohammadrizvy/customizing-github-copilot-gitlens-for-ai-assisted-commit-messages-485j)
 <!-- BLOG-POST-LIST:END -->
 
