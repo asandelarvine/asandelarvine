@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Cloud Computing Trends Shaping the Future](https://dev.to/daya_jethva_42548b893edb9/top-cloud-computing-trends-shaping-the-future-1491)
-- [The Resilient Software Engineer: Thriving in a Rapidly Changing Tech World](https://dev.to/devcorner/the-resilient-software-engineer-thriving-in-a-rapidly-changing-tech-world-7p4)
-- [Using Git Version Control in a Company: Step-by-Step Guide](https://dev.to/devcorner/using-git-version-control-in-a-company-step-by-step-guide-3o0l)
-- [[Boost]](https://dev.to/ishwar_2/-21lf)
+- [Reverse Aging: Natural Habits for Youthful Life](https://dev.to/usmanseo/reverse-aging-natural-habits-for-youthful-life-3fmh)
+- [React useCallback: When and how to use it for better performance](https://dev.to/logrocket/react-usecallback-2o8i)
+- [Unit Testing vs. End-to-End Testing: Understanding the Differences](https://dev.to/keploy/unit-testing-vs-end-to-end-testing-understanding-the-differences-5002)
+- [How to build an AI Chatbot Using Python and Gemini AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/uabdul106/how-to-build-an-ai-chatbot-using-python-and-gemini-ai-step-by-step-guide-2lbc)
 <!-- BLOG-POST-LIST:END -->
 
