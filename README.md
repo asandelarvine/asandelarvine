@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Feather Wand: Your AI-Powered Companion for JMeter](https://dev.to/qainsights/introducing-feather-wand-your-ai-powered-companion-for-jmeter-2774)
-- [Is This the AI Breakthrough That Changes Everything?](https://dev.to/shahstavan/is-this-the-ai-breakthrough-that-changes-everything-4599)
-- [From Overwhelm to Action: The 2-Minute Solution](https://dev.to/wraith/from-overwhelm-to-action-the-2-minute-solution-10lj)
-- [POINT | Hackathon Winner | Most Creative Track | TechNYU](https://dev.to/poetryofcode/point-hackathon-winner-most-creative-track-technyu-3j9b)
+- [Databases: Indexes. Part 1](https://dev.to/nikita_kutsokon/databases-indexes-part-1-3579)
+- [How to Spot a Fake Senior Developer in 5 Minutes](https://dev.to/hotfixhero/how-to-spot-a-fake-senior-developer-in-5-minutes-19hd)
+- [FFmpeg: The Ultimate Multimedia Processing Tool](https://dev.to/sundaram_pro/ffmpeg-the-ultimate-multimedia-processing-tool-166e)
+- [How can I start learning cyber security ?](https://dev.to/plack_sakar/how-can-i-start-learning-cyber-security--26o6)
 <!-- BLOG-POST-LIST:END -->
 
