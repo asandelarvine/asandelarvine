@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AWK Like an Expert: The Ultimate Guide for Bash Power Users](https://dev.to/karandaid/how-to-use-awk-like-an-expert-the-ultimate-guide-for-bash-power-users-1cd)
-- [Presentation](https://dev.to/gabrian/presentation-254)
-- [Hands-On Guide: AWS S3 Lifecycle Management, EBS Volume, and Snapshot](https://dev.to/seyilufadejucyberservices/hands-on-guide-aws-s3-lifecycle-management-ebs-volume-and-snapshot-1p8a)
-- [CFP Open - AI Native DevCon Spring Edition](https://dev.to/sammyhep/cfp-open-ai-native-devcon-spring-edition-529j)
+- [Enhancing Open Source Visibility with License-Token](https://dev.to/jennythomas498/enhancing-open-source-visibility-with-license-token-2f32)
+- [Year of the Snake 🐍](https://dev.to/richolive/year-of-the-snake-4nhp)
+- [What Are the Steps to Install Golang on Macos in 2025?](https://dev.to/cristianalex_17/what-are-the-steps-to-install-golang-on-macos-in-2025-1fjg)
+- [Overview：&quot;Agentic Retrieval-Augmented Generation: A Comprehensive Survey&quot;](https://dev.to/foxgem/overviewagentic-retrieval-augmented-generation-a-comprehensive-survey-34i6)
 <!-- BLOG-POST-LIST:END -->
 
