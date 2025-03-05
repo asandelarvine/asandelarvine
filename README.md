@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jira Kanban Board 101: Workflow Management and Beyond](https://dev.to/viktoriiagolovtseva/jira-kanban-board-101-workflow-management-and-beyond-g7p)
-- [Elon Musk’s Open-Source Journey: A Catalyst for Innovation](https://dev.to/vanessamcdurban/elon-musks-open-source-journey-a-catalyst-for-innovation-2d34)
-- [Hibernate HQL builder](https://dev.to/hrgdavor/hibernate-hql-builder-55md)
-- [🚀 Build Your Own AI Content Factory: From One Idea to Ten Platforms Automatically](https://dev.to/guerra2fernando/build-your-own-ai-content-factory-from-one-idea-to-ten-platforms-automatically-44al)
+- [Create A Weather Data Collection System Using Python In 7 Steps](https://dev.to/franklyn/create-a-weather-data-collection-system-using-python-in-7-steps-1lh8)
+- [A comprehensive guide on how to deploy laravel application to vps, using github action, ssh key, server permissions and more.](https://dev.to/abdulsalamamtech/a-comprehensive-guide-on-how-to-deploy-laravel-application-to-vps-using-github-action-ssh-key-15g3)
+- [用 Ollama？其實你在跑 llama.cpp！學會直接使用它，發揮更強性能！](https://dev.to/jambochen/yong-ollamaqi-shi-ni-zai-pao-llamacppxue-hui-zhi-jie-shi-yong-ta-fa-hui-geng-qiang-xing-neng--1m38)
+- [The future of dev, I&#39;m confused...](https://dev.to/echotedev/the-future-of-dev-im-confused-5433)
 <!-- BLOG-POST-LIST:END -->
 
