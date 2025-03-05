@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ngrok Alternative for UDP Tunneling: Exploring Better Options](https://dev.to/lightningdev123/ngrok-alternative-for-udp-tunneling-exploring-better-options-2556)
-- [Maximizing Network Performance: Zero-Copy I/O Techniques in Go](https://dev.to/aaravjoshi/maximizing-network-performance-zero-copy-io-techniques-in-go-384d)
-- [Shadcn/UI Marketing Blocks](https://dev.to/shahidkhans/shadcnui-marketing-blocks-1f7l)
-- [Breaking down bugs in TDengine to master refactoring, part 1: sausage code](https://dev.to/pvsdev/breaking-down-bugs-in-tdengine-to-master-refactoring-part-1-sausage-code-1l0d)
+- [How Playout Systems Handle Live Events and Breaking News](https://dev.to/livestreaming/how-playout-systems-handle-live-events-and-breaking-news-41m0)
+- [How to Integrate a Forex Rates API into Your Web or Mobile App](https://dev.to/martinbaldwin127/how-to-integrate-a-forex-rates-api-into-your-web-or-mobile-app-3pil)
+- [CodeInsight AI — Your Smartest Code Debugging Companion](https://dev.to/avinash_singh_43bbd94950f/codeinsight-ai-your-smartest-code-debugging-companion-3g64)
+- [My Journey in Tech - Decision Paralysis](https://dev.to/derick_rono_56311933c4051/my-journey-in-tech-decision-paralysis-1036)
 <!-- BLOG-POST-LIST:END -->
 
