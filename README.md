@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Impact: How the ReExt Contest Can Transform Your Developer Journey](https://dev.to/sencha_reext/from-idea-to-impact-how-the-reext-contest-can-transform-your-developer-journey-45c1)
-- [Hybrid Compact Block Spacing: A Practical Coding Format for Readability and Refactoring](https://dev.to/documendous/hybrid-compact-block-spacing-a-practical-coding-format-for-readability-and-refactoring-51kp)
-- [Bring Oracle Data to Elasticsearch for Real-Time Search](https://dev.to/bladepipe/bring-oracle-data-to-elasticsearch-for-real-time-search-4i73)
-- [AI locators for Playwright 🚀](https://dev.to/surfing_devs/ai-locators-for-playwright-5gmd)
+- [Today? Outsourcing, D0G3, AI. Tomorrow? Who knows!](https://dev.to/canro91/today-outsourcing-d0g3-ai-tomorrow-who-knows-5ede)
+- [14 AI APIs Every Developer Should Know in 2025](https://dev.to/andrewbaisden/14-ai-apis-every-developer-should-know-in-2025-31il)
+- [What is Web Scraping? Use Cases and Applications for Developers](https://dev.to/alex_aslam/what-is-web-scraping-use-cases-and-applications-for-developers-1dhf)
+- [Background tasks that help improve system performance](https://dev.to/devcorner/background-tasks-that-help-improve-system-performance-55o7)
 <!-- BLOG-POST-LIST:END -->
 
