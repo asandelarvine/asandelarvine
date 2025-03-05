@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WeCoded is back!](https://dev.to/thomasbnt/-2jh6)
-- [NFTs for Business: How to Monetize Digital Assets in Web3](https://dev.to/raji_moshood_ee3a4c2638f6/nfts-for-business-how-to-monetize-digital-assets-in-web3-2l05)
-- [[Boost]](https://dev.to/lucylu/-k2o)
-- [How Not to Build a Ledger](https://dev.to/formance/how-not-to-build-a-ledger-cfg)
+- [Go Dependency Injection: A Journey from Beginner to Expert](https://dev.to/leapcell/go-dependency-injection-a-journey-from-beginner-to-expert-1ddf)
+- [7 JavaScript Features Every Frontend Developer Should Know](https://dev.to/rowsanali/7-javascript-features-every-frontend-developer-should-know-1po4)
+- [10 Must-Have Free Design Tools for Developers and Designers in 2025](https://dev.to/mdkmann/10-must-have-free-design-tools-for-developers-and-designers-in-2025-5c42)
+- [How To Use Fetch API In JavaScript](https://dev.to/theudemezue/how-to-use-fetch-api-in-javascript-j2o)
 <!-- BLOG-POST-LIST:END -->
 
