@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Resource Requests vs. Limits](https://dev.to/mageshwaransekar/kubernetes-resource-requests-vs-limits-1hod)
-- [How to Make Your Predictive Models More Accurate and Reliable?](https://dev.to/emily_joe_3c9888fba293215/how-to-make-your-predictive-models-more-accurate-and-reliable-1a0a)
-- [How To Validate Email Address In Javascript](https://dev.to/theudemezue/how-to-validate-email-address-in-javascript-48l0)
-- [Descobrindo a Sobrescrita de Métodos no VS Code: Um Guia para Aumentar sua Produtividade](https://dev.to/rodrigorahman/descobrindo-a-sobrescrita-de-metodos-no-vs-code-um-guia-para-aumentar-sua-produtividade-1ao9)
+- [Building a Real-Time Serverless Chat App with AWS: A Scalable Approach](https://dev.to/devlinkstudios/building-a-real-time-serverless-chat-app-with-aws-a-scalable-approach-2fm6)
+- [Seeking for freelance fullstack project](https://dev.to/subham1901/seeking-for-freelance-fullstack-project-1dpc)
+- [Choosing between open-source frameworks and a unified platform](https://dev.to/devassure/choosing-between-open-source-frameworks-and-a-unified-platform-38ab)
+- [Best Programming Languages for Mobile Game Development](https://dev.to/raiden_studio/best-programming-languages-for-mobile-game-development-1cgn)
 <!-- BLOG-POST-LIST:END -->
 
