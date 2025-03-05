@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Storage Solutions](https://dev.to/godofgeeks/azure-storage-solutions-ih6)
-- [The Unexpected Rise of SyncDrawGuess: A Skribbl Clone I Barely Finished](https://dev.to/divyanshulohani/the-unexpected-rise-of-syncdrawguess-a-skribbl-clone-i-barely-finished-489l)
-- [The Unrealistic Expectations of Clients and Project Managers](https://dev.to/matemiller/the-unrealistic-expectations-of-clients-and-project-managers-59en)
-- [Como Fazer Migrations com MySQL no .NET Usando o Visual Studio](https://dev.to/tiagomabango/como-fazer-migrations-com-mysql-no-net-usando-o-visual-studio-5978)
+- [AI](https://dev.to/ai_customersupport_f54b9/ai-59nn)
+- [Podman vs Docker: Key Differences and Which One to Choose](https://dev.to/keploy/podman-vs-docker-key-differences-and-which-one-to-choose-3h7b)
+- [Side Project Ideas](https://dev.to/uhrzel/side-project-ideas-4bb7)
+- [Writing Human-Readable Code: Best Practices for Clean &amp; Maintainable Code](https://dev.to/abhay_yt_52a8e72b213be229/writing-human-readable-code-best-practices-for-clean-maintainable-code-mmf)
 <!-- BLOG-POST-LIST:END -->
 
