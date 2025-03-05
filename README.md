@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Open Source Visibility with License-Token](https://dev.to/jennythomas498/enhancing-open-source-visibility-with-license-token-2f32)
-- [Year of the Snake 🐍](https://dev.to/richolive/year-of-the-snake-4nhp)
-- [What Are the Steps to Install Golang on Macos in 2025?](https://dev.to/cristianalex_17/what-are-the-steps-to-install-golang-on-macos-in-2025-1fjg)
-- [Overview：&quot;Agentic Retrieval-Augmented Generation: A Comprehensive Survey&quot;](https://dev.to/foxgem/overviewagentic-retrieval-augmented-generation-a-comprehensive-survey-34i6)
+- [Microsoft&#39;s Journey into Open Source: A Transformational Tale](https://dev.to/vitalisorenko/microsofts-journey-into-open-source-a-transformational-tale-2jpj)
+- [The Pain and Agony of Parsing Nightmares](https://dev.to/asadk/the-pain-and-agony-of-parsing-nightmares-4p64)
+- [[Boost]](https://dev.to/viunow/-1o8j)
+- [Interactive Personal Website: Simulated Terminal with React and Next.js](https://dev.to/viunow/interactive-personal-website-simulated-terminal-with-react-and-nextjs-3hmk)
 <!-- BLOG-POST-LIST:END -->
 
