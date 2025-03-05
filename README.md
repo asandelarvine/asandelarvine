@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Playout Systems Handle Live Events and Breaking News](https://dev.to/livestreaming/how-playout-systems-handle-live-events-and-breaking-news-41m0)
-- [How to Integrate a Forex Rates API into Your Web or Mobile App](https://dev.to/martinbaldwin127/how-to-integrate-a-forex-rates-api-into-your-web-or-mobile-app-3pil)
-- [CodeInsight AI — Your Smartest Code Debugging Companion](https://dev.to/avinash_singh_43bbd94950f/codeinsight-ai-your-smartest-code-debugging-companion-3g64)
-- [My Journey in Tech - Decision Paralysis](https://dev.to/derick_rono_56311933c4051/my-journey-in-tech-decision-paralysis-1036)
+- [Kubernetes Resource Requests vs. Limits](https://dev.to/mageshwaransekar/kubernetes-resource-requests-vs-limits-1hod)
+- [How to Make Your Predictive Models More Accurate and Reliable?](https://dev.to/emily_joe_3c9888fba293215/how-to-make-your-predictive-models-more-accurate-and-reliable-1a0a)
+- [How To Validate Email Address In Javascript](https://dev.to/theudemezue/how-to-validate-email-address-in-javascript-48l0)
+- [Descobrindo a Sobrescrita de Métodos no VS Code: Um Guia para Aumentar sua Produtividade](https://dev.to/rodrigorahman/descobrindo-a-sobrescrita-de-metodos-no-vs-code-um-guia-para-aumentar-sua-produtividade-1ao9)
 <!-- BLOG-POST-LIST:END -->
 
