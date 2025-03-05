@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Visibility and Display Properties: A Developer&#39;s Guide](https://dev.to/arsalanmeee/mastering-css-visibility-and-display-properties-a-developers-guide-16cm)
-- [The Psychology of UX: Understanding BJ Fogg’s Behavior Model](https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf)
-- [📄 Función para Paginación con Firestore y Angular 🔥🔥🔥](https://dev.to/cristian_arieta_7df932e5f/funcion-para-paginacion-con-firestore-y-angular-397c)
-- [[Boost]](https://dev.to/marielourdesleperlier/-ae0)
+- [Navigating the World of Open Source Funding Strategies](https://dev.to/jennythomas498/navigating-the-world-of-open-source-funding-strategies-1be7)
+- [TECH](https://dev.to/tsotsi1/tech-1fll)
+- [CQRS &lpar;Command Query Responsibility Segregation&rpar; και MediatR Pattern στη C#](https://dev.to/__b63657/cqrs-command-query-responsibility-segregation-kai-mediatr-pattern-ste-c-8ca)
+- [How to Forward Messages from Discord to Telegram](https://dev.to/forwardmsg/how-to-forward-messages-from-discord-to-telegram-4hgb)
 <!-- BLOG-POST-LIST:END -->
 
