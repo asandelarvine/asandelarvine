@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Static vs Dynamic Caching in Next.js: What Every Developer Should Know](https://dev.to/melvinprince/static-vs-dynamic-caching-in-nextjs-what-every-developer-should-know-1do0)
-- [Static vs Dynamic Caching in Next.js: What Every Developer Should Know](https://dev.to/melvinprince/static-vs-dynamic-caching-in-nextjs-what-every-developer-should-know-2ie2)
-- [SPO600: Lab 02](https://dev.to/amullagaliev/spo600-lab-02-38e8)
-- [Building a Secure User Activation System in Django](https://dev.to/ndourc/building-a-secure-user-activation-system-in-django-3nil)
+- [Mastering CSS Visibility and Display Properties: A Developer&#39;s Guide](https://dev.to/arsalanmeee/mastering-css-visibility-and-display-properties-a-developers-guide-16cm)
+- [The Psychology of UX: Understanding BJ Fogg’s Behavior Model](https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf)
+- [📄 Función para Paginación con Firestore y Angular 🔥🔥🔥](https://dev.to/cristian_arieta_7df932e5f/funcion-para-paginacion-con-firestore-y-angular-397c)
+- [[Boost]](https://dev.to/marielourdesleperlier/-ae0)
 <!-- BLOG-POST-LIST:END -->
 
