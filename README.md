@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Serverless Chat App with AWS: A Scalable Approach](https://dev.to/devlinkstudios/building-a-real-time-serverless-chat-app-with-aws-a-scalable-approach-2fm6)
-- [Seeking for freelance fullstack project](https://dev.to/subham1901/seeking-for-freelance-fullstack-project-1dpc)
-- [Choosing between open-source frameworks and a unified platform](https://dev.to/devassure/choosing-between-open-source-frameworks-and-a-unified-platform-38ab)
-- [Best Programming Languages for Mobile Game Development](https://dev.to/raiden_studio/best-programming-languages-for-mobile-game-development-1cgn)
+- [From Idea to Impact: How the ReExt Contest Can Transform Your Developer Journey](https://dev.to/sencha_reext/from-idea-to-impact-how-the-reext-contest-can-transform-your-developer-journey-45c1)
+- [Hybrid Compact Block Spacing: A Practical Coding Format for Readability and Refactoring](https://dev.to/documendous/hybrid-compact-block-spacing-a-practical-coding-format-for-readability-and-refactoring-51kp)
+- [Bring Oracle Data to Elasticsearch for Real-Time Search](https://dev.to/bladepipe/bring-oracle-data-to-elasticsearch-for-real-time-search-4i73)
+- [AI locators for Playwright 🚀](https://dev.to/surfing_devs/ai-locators-for-playwright-5gmd)
 <!-- BLOG-POST-LIST:END -->
 
