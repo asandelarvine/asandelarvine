@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI](https://dev.to/ai_customersupport_f54b9/ai-59nn)
-- [Podman vs Docker: Key Differences and Which One to Choose](https://dev.to/keploy/podman-vs-docker-key-differences-and-which-one-to-choose-3h7b)
-- [Side Project Ideas](https://dev.to/uhrzel/side-project-ideas-4bb7)
-- [Writing Human-Readable Code: Best Practices for Clean &amp; Maintainable Code](https://dev.to/abhay_yt_52a8e72b213be229/writing-human-readable-code-best-practices-for-clean-maintainable-code-mmf)
+- [Ngrok Alternative for UDP Tunneling: Exploring Better Options](https://dev.to/lightningdev123/ngrok-alternative-for-udp-tunneling-exploring-better-options-2556)
+- [Maximizing Network Performance: Zero-Copy I/O Techniques in Go](https://dev.to/aaravjoshi/maximizing-network-performance-zero-copy-io-techniques-in-go-384d)
+- [Shadcn/UI Marketing Blocks](https://dev.to/shahidkhans/shadcnui-marketing-blocks-1f7l)
+- [Breaking down bugs in TDengine to master refactoring, part 1: sausage code](https://dev.to/pvsdev/breaking-down-bugs-in-tdengine-to-master-refactoring-part-1-sausage-code-1l0d)
 <!-- BLOG-POST-LIST:END -->
 
