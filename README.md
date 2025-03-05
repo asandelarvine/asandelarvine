@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start as a UX/UI Designer: A Step-by-Step Guide to Breaking Into the Industry](https://dev.to/epicx/how-to-start-as-a-uxui-designer-a-step-by-step-guide-to-breaking-into-the-industry-2kd5)
-- [Why Your Code Works &lpar;But You Have No Idea Why&rpar;](https://dev.to/mrshelby0/why-your-code-works-but-you-have-no-idea-why-21om)
-- [The Rise of Generative AI: More Than Just Words &amp; Images](https://dev.to/rage/the-rise-of-generative-ai-more-than-just-words-images-35af)
-- [Functional Programming Face-Off: Python vs JavaScript vs Go!](https://dev.to/mihailtd/functional-programming-face-off-python-vs-javascript-vs-go-3bmj)
+- [Jira Kanban Board 101: Workflow Management and Beyond](https://dev.to/viktoriiagolovtseva/jira-kanban-board-101-workflow-management-and-beyond-g7p)
+- [Elon Musk’s Open-Source Journey: A Catalyst for Innovation](https://dev.to/vanessamcdurban/elon-musks-open-source-journey-a-catalyst-for-innovation-2d34)
+- [Hibernate HQL builder](https://dev.to/hrgdavor/hibernate-hql-builder-55md)
+- [🚀 Build Your Own AI Content Factory: From One Idea to Ten Platforms Automatically](https://dev.to/guerra2fernando/build-your-own-ai-content-factory-from-one-idea-to-ten-platforms-automatically-44al)
 <!-- BLOG-POST-LIST:END -->
 
