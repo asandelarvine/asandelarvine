@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s Journey into Open Source: A Transformational Tale](https://dev.to/vitalisorenko/microsofts-journey-into-open-source-a-transformational-tale-2jpj)
-- [The Pain and Agony of Parsing Nightmares](https://dev.to/asadk/the-pain-and-agony-of-parsing-nightmares-4p64)
-- [[Boost]](https://dev.to/viunow/-1o8j)
-- [Interactive Personal Website: Simulated Terminal with React and Next.js](https://dev.to/viunow/interactive-personal-website-simulated-terminal-with-react-and-nextjs-3hmk)
+- [[Boost]](https://dev.to/ippatev/-16bb)
+- [How to build an online store with Momen: No transaction fees, full customization](https://dev.to/momen_hq/how-to-build-an-online-store-with-momen-no-transaction-fees-full-customization-528g)
+- [Elon Musk and the Open Source Revolution: Pioneering a New Era of Innovation](https://dev.to/ashucommits/elon-musk-and-the-open-source-revolution-pioneering-a-new-era-of-innovation-497p)
+- [🎧🖥️React Remix: 4 Common Mistakes That Can Wreck Your Code + How to Keep the Vibes Smooth](https://dev.to/tatianarjo/react-remix-5-common-mistakes-that-can-wreck-your-code-how-to-keep-the-vibes-smooth-1bl1)
 <!-- BLOG-POST-LIST:END -->
 
