@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙NEXT开发案例：记忆翻牌](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-ji-yi-fan-pai-2ko5)
-- [AI-Powered Debugging: Can GPT Fix Your Bugs Better Than You?](https://dev.to/devresurrect_f18e7d7b7bc6/ai-powered-debugging-can-gpt-fix-your-bugs-better-than-you-2m4e)
-- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
-- [AI Agents and LLM Models: Routers and Gateways for Efficient Management](https://dev.to/sreeni5018/ai-agents-and-llm-models-routers-and-gateways-for-efficient-management-3ef6)
+- [Why Event Check-In Apps Are Essential for Efficient Attendee Management](https://dev.to/saanvipatel099/why-event-check-in-apps-are-essential-for-efficient-attendee-management-1ip)
+- [What is hCaptcha?](https://dev.to/sham435/what-is-hcaptcha-29b8)
+- [Godot Audio Handler](https://dev.to/selfish_dev/godot-audio-handler-1576)
+- [Object Detection with ESP32-AI Thinker and Edge Impulse](https://dev.to/darshan_rathod_dev/object-detection-with-esp32-ai-thinker-and-edge-impulse-50h2)
 <!-- BLOG-POST-LIST:END -->
 
