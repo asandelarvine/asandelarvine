@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Success Behind Spring Security: Open Source Business Models, Funding, and Community](https://dev.to/bobcars/unveiling-the-success-behind-spring-security-open-source-business-models-funding-and-community-5f69)
-- [[Boost]](https://dev.to/arcanoix/-6e9)
-- [Chronology and Evolution of Angular through the Years - From v2 to v19](https://dev.to/windmateus/chronology-and-evolution-of-angular-through-the-years-from-v2-to-v19-4obc)
-- [From Template Troubles to Top 10: My 24-Hour Hackathon Journey](https://dev.to/47sathwik_sureshshetty_/from-template-troubles-to-top-10-my-24-hour-hackathon-journey-4bck)
+- [5 GenAI Things You Didn&#39;t Know About Astra DB](https://dev.to/datastax/5-genai-things-you-didnt-know-about-astra-db-3am9)
+- [Outage Notification Templates: Building Trust Even During Downtime](https://dev.to/leotulii/outage-notification-templates-57jg)
+- [Understanding Stacking Ensemble Method: A Comprehensive Guide -PART IV](https://dev.to/sreeni5018/understanding-stacking-ensemble-method-a-comprehensive-guide-part-iv-1c29)
+- [1minDocker #14 - Deploy an AI app with Docker on cloud](https://dev.to/astrabert/1mindocker-14-deploy-an-ai-app-with-docker-on-cloud-h27)
 <!-- BLOG-POST-LIST:END -->
 
