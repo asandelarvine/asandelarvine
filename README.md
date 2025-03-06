@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Domina la comunicación entre componentes en Angular: Guía completa](https://dev.to/cristian_arieta_7df932e5f/domina-la-comunicacion-entre-componentes-en-angular-guia-completa-13hd)
-- [Exploring AI Frameworks: A Deep Dive into Semantic Kernel and My Open Source Contributions](https://dev.to/shethaadit/exploring-ai-frameworks-a-deep-dive-into-semantic-kernel-and-my-open-source-contributions-1pdd)
-- [Dear Mom, Your Kid Has a Lot to Say- Again-](https://dev.to/himanshit/dear-mom-your-kid-has-a-lot-to-say-again--36pp)
-- [grandprixbingo Update I](https://dev.to/varzac/grandprixbingo-update-i-3o3)
+- [O início de uma nova jornada](https://dev.to/oliveriojnn/o-inicio-de-uma-nova-jornada-9m0)
+- [Extracting Information from PDFs in Markdown Format with Mistral OCR](https://dev.to/evertontenorio/extracting-information-from-pdfs-in-markdown-format-with-mistral-ocr-314o)
+- [8 Powerful Laravel Routing Methods Every Developer Should Know](https://dev.to/raheelshan/8-powerful-laravel-routing-methods-every-developer-should-know-1d0j)
+- [Criando Web APIs modernas, autônomas e rastreáveis com .Net Core utilizando arquitetura de microsserviços – Parte 1](https://dev.to/silvairsoares/criando-web-apis-modernas-autonomas-e-rastreaveis-com-net-core-utilizando-arquitetura-de-4c64)
 <!-- BLOG-POST-LIST:END -->
 
