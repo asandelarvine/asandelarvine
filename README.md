@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Trump&#39;s NFT Collection and Open-Source Platforms: A New Frontier in Digital Innovation](https://dev.to/jennythomas498/navigating-trumps-nft-collection-and-open-source-platforms-a-new-frontier-in-digital-innovation-k4h)
-- [鸿蒙NEXT开发案例：舒尔特方格](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-shu-er-te-fang-ge-4a1i)
-- [Introduction to Agile Framework](https://dev.to/madgan95/introduction-to-agile-framework-4p71)
-- [CSRF Issue in Postman with JWT Authentication](https://dev.to/khaled_abdelbar_43f8c0b1d/csrf-issue-in-postman-with-jwt-authentication-1117)
+- [The Evolution of Free Browser Games: A Look at Technology and Trends](https://dev.to/aigame/the-evolution-of-free-browser-games-a-look-at-technology-and-trends-3011)
+- [Git and Github](https://dev.to/tariqul420/git-and-github-2bph)
+- [Data Synchronization from Google BigQuery to ClickHouse in an AWS Air-Gapped Environment](https://dev.to/abhinav_singh_04da9e27ca7/data-synchronization-from-google-bigquery-to-clickhouse-in-an-aws-air-gapped-environment-4iki)
+- [How to use API Keys in NocoBase to retrieve data](https://dev.to/nocobase/how-to-use-api-keys-in-nocobase-to-retrieve-data-28ha)
 <!-- BLOG-POST-LIST:END -->
 
