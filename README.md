@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create A Weather Data Collection System Using Python In 7 Steps](https://dev.to/franklyn/create-a-weather-data-collection-system-using-python-in-7-steps-1lh8)
-- [A comprehensive guide on how to deploy laravel application to vps, using github action, ssh key, server permissions and more.](https://dev.to/abdulsalamamtech/a-comprehensive-guide-on-how-to-deploy-laravel-application-to-vps-using-github-action-ssh-key-15g3)
-- [用 Ollama？其實你在跑 llama.cpp！學會直接使用它，發揮更強性能！](https://dev.to/jambochen/yong-ollamaqi-shi-ni-zai-pao-llamacppxue-hui-zhi-jie-shi-yong-ta-fa-hui-geng-qiang-xing-neng--1m38)
-- [The future of dev, I&#39;m confused...](https://dev.to/echotedev/the-future-of-dev-im-confused-5433)
+- [Thinking Like a Programmer...](https://dev.to/testamplify/thinking-like-a-programmer-3b2d)
+- [InfluxDB 3.0 vs 1.8: A Surprising Decline in Ingestion Speed](https://dev.to/rebecca_tao_651f5198fd9ea/influxdb-30-vs-18-a-surprising-decline-in-ingestion-speed-4mh6)
+- [InfluxDB 3.0 vs 1.8: A Surprising Decline in Ingestion Speed](https://dev.to/rebecca_tao_651f5198fd9ea/influxdb-30-vs-18-a-surprising-decline-in-ingestion-speed-15m6)
+- [Need your feedback on my SaaS startup](https://dev.to/saasstarterkit/need-your-feedback-on-my-saas-startup-59bn)
 <!-- BLOG-POST-LIST:END -->
 
