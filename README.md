@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test Mobile Web Apps Without Deployment: Fast and Convenient Methods](https://dev.to/andylarkin677/how-to-test-mobile-web-apps-without-deployment-fast-and-convenient-methods-1cae)
-- [Multi Cloud vs. Hybrid-Cloud: What Are the Key Differences?](https://dev.to/clouddefenseai/multi-cloud-vs-hybrid-cloud-what-are-the-key-differences-5fm8)
-- [WebAssembly on Kubernetes](https://dev.to/loft/webassembly-on-kubernetes-5bdb)
-- [10 Top Tools for Detecting AI Content](https://dev.to/blog-1/10-top-tools-for-detecting-ai-content-3bei)
+- [Low Code/No Code &lpar;LCNC&rpar; Impact: Democratizing Web Development](https://dev.to/ciphernutz/low-codeno-code-lcnc-impact-democratizing-web-development-476p)
+- [Custom Snowflake Data Architecture: How Our Experts Tailor Solutions for Your Business](https://dev.to/smart_data_/custom-snowflake-data-architecture-how-our-experts-tailor-solutions-for-your-business-13mo)
+- [To set env variables using terminal for playwright](https://dev.to/midhunkrishnan/to-set-env-variables-using-terminal-for-playwright-32m0)
+- [Run AI Models Locally with Ollama: A Step-by-Step Guide to Installation, Deployment &amp; API Integration](https://dev.to/auden/run-ai-models-locally-with-ollama-a-step-by-step-guide-to-installation-deployment-api-2gp4)
 <!-- BLOG-POST-LIST:END -->
 
