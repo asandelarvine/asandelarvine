@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Exploring Software Development, Web Dev &amp; AI/ML! 🤖💻](https://dev.to/varun_sahil/exploring-software-development-web-dev-aiml-4o7o)
-- [The Future of Unity Game Development: Trends and Innovations](https://dev.to/jude_maxwell_fe6a32b5a286/the-future-of-unity-game-development-trends-and-innovations-2kfi)
-- [Python is Slow? Not Anymore! How I Made My Code 100x Faster with Cython &lpar;And Why You Should Too&rpar;](https://dev.to/sureshchandras3kar/python-is-slow-not-anymore-how-i-made-my-code-100x-faster-with-cython-and-why-you-should-too-2b5j)
-- [inline imports FTW!](https://dev.to/paulbrowne/inline-imports-ftw-1o3e)
+- [Build a Notion-like editor with Rails, part 2](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-part-2-45a2)
+- [How to Use Cmake to Manage Dependencies in My Project?](https://dev.to/nigelsilonero/how-to-use-cmake-to-manage-dependencies-in-my-project-4jp0)
+- [Design Patterns: Adapter](https://dev.to/nv3212/design-patterns-adapter-31il)
+- [The Glittering Climb: Decoding Gold Prices on March 6, 2025](https://dev.to/terjewilliamson/the-glittering-climb-decoding-gold-prices-on-march-6-2025-4i2b)
 <!-- BLOG-POST-LIST:END -->
 
