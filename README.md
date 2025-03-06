@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Python APIs: Future Is Here](https://dev.to/snappytuts/ai-in-python-apis-future-is-here-3d37)
-- [14 AI APIs Every Developer Should Know in 2025](https://dev.to/akshaymittal143/14-ai-apis-every-developer-should-know-in-2025-k96)
-- [Understanding .NET Compilation Process &lpar;C#&rpar;](https://dev.to/omogbai/understanding-net-compilation-process-c-g1p)
-- [Deno vs Bun vs Node.js: Performance &amp; Benchmarks](https://dev.to/yogeshhrathod/deno-vs-bun-vs-nodejs-performance-benchmarks-3e1n)
+- [Domina la comunicación entre componentes en Angular: Guía completa](https://dev.to/cristian_arieta_7df932e5f/domina-la-comunicacion-entre-componentes-en-angular-guia-completa-13hd)
+- [Exploring AI Frameworks: A Deep Dive into Semantic Kernel and My Open Source Contributions](https://dev.to/shethaadit/exploring-ai-frameworks-a-deep-dive-into-semantic-kernel-and-my-open-source-contributions-1pdd)
+- [Dear Mom, Your Kid Has a Lot to Say- Again-](https://dev.to/himanshit/dear-mom-your-kid-has-a-lot-to-say-again--36pp)
+- [grandprixbingo Update I](https://dev.to/varzac/grandprixbingo-update-i-3o3)
 <!-- BLOG-POST-LIST:END -->
 
