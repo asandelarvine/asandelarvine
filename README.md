@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking Like a Programmer...](https://dev.to/testamplify/thinking-like-a-programmer-3b2d)
-- [InfluxDB 3.0 vs 1.8: A Surprising Decline in Ingestion Speed](https://dev.to/rebecca_tao_651f5198fd9ea/influxdb-30-vs-18-a-surprising-decline-in-ingestion-speed-4mh6)
-- [InfluxDB 3.0 vs 1.8: A Surprising Decline in Ingestion Speed](https://dev.to/rebecca_tao_651f5198fd9ea/influxdb-30-vs-18-a-surprising-decline-in-ingestion-speed-15m6)
-- [Need your feedback on my SaaS startup](https://dev.to/saasstarterkit/need-your-feedback-on-my-saas-startup-59bn)
+- [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-e9e)
+- [Is PHP Front-End or Back-End?](https://dev.to/angelaswift/is-php-front-end-or-back-end-2hk4)
+- [[HELP] Looking for best practice in v-model binding a object](https://dev.to/xuyimingwork/help-looking-for-best-practice-in-v-model-binding-a-object-44l0)
+- [Start Test Automation: Step-by-Step Guide for Beginners](https://dev.to/testamplify/start-test-automation-step-by-step-guide-for-beginners-18l5)
 <!-- BLOG-POST-LIST:END -->
 
