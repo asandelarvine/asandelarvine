@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Event Check-In Apps Are Essential for Efficient Attendee Management](https://dev.to/saanvipatel099/why-event-check-in-apps-are-essential-for-efficient-attendee-management-1ip)
-- [What is hCaptcha?](https://dev.to/sham435/what-is-hcaptcha-29b8)
-- [Godot Audio Handler](https://dev.to/selfish_dev/godot-audio-handler-1576)
-- [Object Detection with ESP32-AI Thinker and Edge Impulse](https://dev.to/darshan_rathod_dev/object-detection-with-esp32-ai-thinker-and-edge-impulse-50h2)
+- [Why Open-Source Alternatives Are Replacing OutSystems in 2025?](https://dev.to/nocobase/why-open-source-alternatives-are-replacing-outsystems-in-2025-37n5)
+- [A Step-by-Step Guide to Install Kokoro-82M Locally for Fast and High-Quality TTS](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-kokoro-82m-locally-for-fast-and-high-quality-tts-58ed)
+- [GPT-4.5 vs Claude 3.7：A lower-cost option might be better for us](https://dev.to/max_peng_c9419453738ce589/gpt-45-vs-claude-37a-lower-cost-option-might-be-better-for-us-3ng1)
+- [How much time does it take to build a crypto wallet?](https://dev.to/callie_morgan/how-much-time-does-it-take-to-build-a-crypto-wallet-5heg)
 <!-- BLOG-POST-LIST:END -->
 
