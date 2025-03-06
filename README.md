@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Nginx &amp; SSL for Your JavaScript App on Azure VM : A Beginner’s Guide](https://dev.to/kristarking/how-to-set-up-nginx-ssl-for-your-javascript-app-on-azure-vm-a-beginners-guide-19o4)
-- [Why you should build your next React website using Astro](https://dev.to/andrewbaisden/why-you-should-build-your-next-react-website-using-astro-152f)
-- [Are practical assessments more effective than coding tests in developer recruitment? Seeking your insights.](https://dev.to/smartnewbie/are-practical-assessments-more-effective-than-coding-tests-in-developer-recruitment-seeking-your-1m48)
-- [⚠️ 3 Things I Wish I Knew Before Learning Solidity 💡](https://dev.to/fluffyfi3/3-things-i-wish-i-knew-before-learning-solidity-3nl9)
+- [Tesla and Open Source Licensing: Elon Musk&#39;s Vision – A New Era in Innovation](https://dev.to/zhangwei42/tesla-and-open-source-licensing-elon-musks-vision-a-new-era-in-innovation-4k1c)
+- [Laravel vs Nodejs: Security Comparison for Web Applications](https://dev.to/vaishali2/laravel-vs-nodejs-security-comparison-for-web-applications-1bn5)
+- [Filtering Nested Data in Tanstack Table](https://dev.to/jumbo02/filtering-nested-data-in-tanstack-table-1011)
+- [Congrats to the Frontend Challenge: February Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9)
 <!-- BLOG-POST-LIST:END -->
 
