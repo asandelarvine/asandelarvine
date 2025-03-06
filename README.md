@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla and Open Source Licensing: Elon Musk&#39;s Vision – A New Era in Innovation](https://dev.to/zhangwei42/tesla-and-open-source-licensing-elon-musks-vision-a-new-era-in-innovation-4k1c)
-- [Laravel vs Nodejs: Security Comparison for Web Applications](https://dev.to/vaishali2/laravel-vs-nodejs-security-comparison-for-web-applications-1bn5)
-- [Filtering Nested Data in Tanstack Table](https://dev.to/jumbo02/filtering-nested-data-in-tanstack-table-1011)
-- [Congrats to the Frontend Challenge: February Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9)
+- [Paint by Numbers - The Perfect Blend of Art &amp; Technology](https://dev.to/paintbynumberuk/paint-by-numbers-the-perfect-blend-of-art-technology-407p)
+- [&quot;How !To Be Mentored : Building Resilient Tech Careers Through Strategic Mentorship&quot;](https://dev.to/nerajno/how-not-to-be-mentored-building-resilient-tech-careers-through-strategic-mentorship-19b8)
+- [Go Concurrency: A Deep Dive to Expertise](https://dev.to/leapcell/go-concurrency-a-deep-dive-to-expertise-p7l)
+- [Navigating Open Source Licenses: A Journey with Theta Drop](https://dev.to/laetitiaperraut/navigating-open-source-licenses-a-journey-with-theta-drop-2hi2)
 <!-- BLOG-POST-LIST:END -->
 
