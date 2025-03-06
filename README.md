@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Laravel File Storage Retrieval in Minutes](https://dev.to/dosenngoding/master-laravel-file-storage-retrieval-in-minutes-4n3g)
-- [DeepSeek Completely Changed How We Use Google Zanzibar](https://dev.to/permit_io/deepseek-completely-changed-how-we-use-google-zanzibar-219l)
-- [How Does SLI Improve Multi-GPU Gaming Setups in Desktops?](https://dev.to/alice_carry_techie/how-does-sli-improve-multi-gpu-gaming-setups-in-desktops-ap7)
-- [AI Creates Stunning Videos with Perfect Camera Control Using 3D Consistency Breakthrough](https://dev.to/mikeyoung44/ai-creates-stunning-videos-with-perfect-camera-control-using-3d-consistency-breakthrough-cl0)
+- [Next.js 15 just dropped a major caching update, changing how data is handled compared to version 14. Instead of auto-caching everything, developers now have full control over what gets stored and](https://dev.to/hassan_rezaali_b64d94d40a/heres-a-short-explanation-in-english-for-your-repost-nextjs-15-just-dropped-a-major-2g3i)
+- [A little trick for &#39;Agentic Software Dev&#39;](https://dev.to/sebs/a-little-trick-for-agentic-software-dev-2clc)
+- [Unlocking Local AI Magic: DeepSeek and CodeGPT Empower Developers to Evolve Efficiently](https://dev.to/dheeraj-lee27/unlocking-local-ai-magic-deepseek-and-codegpt-empower-developers-to-evolve-efficiently-2bmn)
+- [LambdaTest vs. TestGrid: Which Cross-Browser Testing Platform Suits Your Needs?](https://dev.to/calderbughunter/lambdatest-vs-testgrid-which-cross-browser-testing-platform-suits-your-needs-bff)
 <!-- BLOG-POST-LIST:END -->
 
