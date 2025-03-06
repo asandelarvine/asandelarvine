@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O início de uma nova jornada](https://dev.to/oliveriojnn/o-inicio-de-uma-nova-jornada-9m0)
-- [Extracting Information from PDFs in Markdown Format with Mistral OCR](https://dev.to/evertontenorio/extracting-information-from-pdfs-in-markdown-format-with-mistral-ocr-314o)
-- [8 Powerful Laravel Routing Methods Every Developer Should Know](https://dev.to/raheelshan/8-powerful-laravel-routing-methods-every-developer-should-know-1d0j)
-- [Criando Web APIs modernas, autônomas e rastreáveis com .Net Core utilizando arquitetura de microsserviços – Parte 1](https://dev.to/silvairsoares/criando-web-apis-modernas-autonomas-e-rastreaveis-com-net-core-utilizando-arquitetura-de-4c64)
+- [Comparing Machine Learning Algorithms Using Friedman Test and Critical Difference Diagrams in Python](https://dev.to/milenamonteiro/comparing-machine-learning-algorithms-using-friedman-test-and-critical-difference-diagrams-in-python-10a9)
+- [Dashboard Interativo de CVE&#39;s - AWS Inspector + Lambda + S3](https://dev.to/aws-builders/dashboard-interativo-de-cves-aws-inspector-lambda-s3-13k2)
+- [Meteor.js: FlowRouter packages update](https://dev.to/smart_egg/meteorjs-flowrouter-packages-update-4d1d)
+- [Discovering Project Lombok: Simplifying Java Development Through Open Source Innovation](https://dev.to/ashucommits/discovering-project-lombok-simplifying-java-development-through-open-source-innovation-36h5)
 <!-- BLOG-POST-LIST:END -->
 
