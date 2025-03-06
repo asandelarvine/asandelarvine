@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Paint by Numbers - The Perfect Blend of Art &amp; Technology](https://dev.to/paintbynumberuk/paint-by-numbers-the-perfect-blend-of-art-technology-407p)
-- [&quot;How !To Be Mentored : Building Resilient Tech Careers Through Strategic Mentorship&quot;](https://dev.to/nerajno/how-not-to-be-mentored-building-resilient-tech-careers-through-strategic-mentorship-19b8)
-- [Go Concurrency: A Deep Dive to Expertise](https://dev.to/leapcell/go-concurrency-a-deep-dive-to-expertise-p7l)
-- [Navigating Open Source Licenses: A Journey with Theta Drop](https://dev.to/laetitiaperraut/navigating-open-source-licenses-a-journey-with-theta-drop-2hi2)
+- [🚀 Exploring Software Development, Web Dev &amp; AI/ML! 🤖💻](https://dev.to/varun_sahil/exploring-software-development-web-dev-aiml-4o7o)
+- [The Future of Unity Game Development: Trends and Innovations](https://dev.to/jude_maxwell_fe6a32b5a286/the-future-of-unity-game-development-trends-and-innovations-2kfi)
+- [Python is Slow? Not Anymore! How I Made My Code 100x Faster with Cython &lpar;And Why You Should Too&rpar;](https://dev.to/sureshchandras3kar/python-is-slow-not-anymore-how-i-made-my-code-100x-faster-with-cython-and-why-you-should-too-2b5j)
+- [inline imports FTW!](https://dev.to/paulbrowne/inline-imports-ftw-1o3e)
 <!-- BLOG-POST-LIST:END -->
 
