@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Notion-like editor with Rails, part 2](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-part-2-45a2)
-- [How to Use Cmake to Manage Dependencies in My Project?](https://dev.to/nigelsilonero/how-to-use-cmake-to-manage-dependencies-in-my-project-4jp0)
-- [Design Patterns: Adapter](https://dev.to/nv3212/design-patterns-adapter-31il)
-- [The Glittering Climb: Decoding Gold Prices on March 6, 2025](https://dev.to/terjewilliamson/the-glittering-climb-decoding-gold-prices-on-march-6-2025-4i2b)
+- [AI in Python APIs: Future Is Here](https://dev.to/snappytuts/ai-in-python-apis-future-is-here-3d37)
+- [14 AI APIs Every Developer Should Know in 2025](https://dev.to/akshaymittal143/14-ai-apis-every-developer-should-know-in-2025-k96)
+- [Understanding .NET Compilation Process &lpar;C#&rpar;](https://dev.to/omogbai/understanding-net-compilation-process-c-g1p)
+- [Deno vs Bun vs Node.js: Performance &amp; Benchmarks](https://dev.to/yogeshhrathod/deno-vs-bun-vs-nodejs-performance-benchmarks-3e1n)
 <!-- BLOG-POST-LIST:END -->
 
