@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving Target Detection Based on FPGA](https://dev.to/carolineee/moving-target-detection-based-on-fpga-c6h)
-- [TDengine Achieves 10x Compression vs. Elasticsearch for Smart Vehicle Solution Provider](https://dev.to/rebecca_tao_651f5198fd9ea/tdengine-achieves-10x-compression-vs-elasticsearch-for-smart-vehicle-solution-provider-1lkd)
-- [Building a REST API with Express and MongoDB](https://dev.to/kathir_b_7a1a5642d3c42779/building-a-rest-api-with-express-and-mongodb-2lp)
-- [Getting Started with Docker: A Beginner&#39;s Guide](https://dev.to/kathir_b_7a1a5642d3c42779/getting-started-with-docker-a-beginners-guide-1136)
+- [Dominate the Retail Market by Predictive Analytics and Data-Driven Solutions.](https://dev.to/priyansh_shah_786ec03624e/dominate-the-retail-market-by-predictive-analytics-and-data-driven-solutions-4bc9)
+- [Master Kubernetes Deployment for Your Spring Boot Microservices!](https://dev.to/mobisoftinfotech/master-kubernetes-deployment-for-your-spring-boot-microservices-1bc7)
+- [Is Your Data a Mess? Transform It with Expert Data Lake Consulting Services!](https://dev.to/drodriguez/is-your-data-a-mess-transform-it-with-expert-data-lake-consulting-services-5hdi)
+- [ResponsiveImage &amp; EmberJS &amp; glob vite imports](https://dev.to/michalbryxi/responsiveimage-emberjs-glob-vite-imports-o9i)
 <!-- BLOG-POST-LIST:END -->
 
