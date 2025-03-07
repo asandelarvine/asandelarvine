@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use RAG? Benefits Over Standard LLMs](https://dev.to/shaheryaryousaf/why-use-rag-benefits-over-standard-llms-487j)
-- [Trump Suspends Tariffs! 🚨](https://dev.to/neurolov_ai_/trump-suspends-tariffs-34cb)
-- [AI in 2025: Top Trends and Breaking News You Need to Know](https://dev.to/joinwithken/ai-in-2025-top-trends-and-breaking-news-you-need-to-know-13mn)
-- [6 Essential WebSocket Patterns for Real-Time Applications](https://dev.to/aaravjoshi/6-essential-websocket-patterns-for-real-time-applications-39gf)
+- [🚀 Your Daily Crypto Job Digest For 07 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-07-march-30lk)
+- [Best Practices For Using Accessibility Testing Tools](https://dev.to/keploy/best-practices-for-using-accessibility-testing-tools-10lk)
+- [GooglePlacesLib](https://dev.to/shivam_tailor/googleplaceslib-2md1)
+- [Get a list of endpoints in your NestJS app](https://dev.to/kasir-barati/get-a-list-of-endpoints-in-your-nestjs-app-2gfd)
 <!-- BLOG-POST-LIST:END -->
 
