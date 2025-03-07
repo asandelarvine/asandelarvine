@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactPress—A free CMS and blog system using Next.js.](https://dev.to/fecommunity_27/reactpress-a-free-cms-and-blog-system-using-nextjs-dg)
-- [Converting an old TV Box into an epic Picture Frame](https://dev.to/leocolman/converting-an-old-tv-box-into-an-epic-picture-frame-3iob)
-- [Breaking into Cybersecurity: My Experience and Career Roadmap](https://dev.to/samueladeduntan/the-path-to-becoming-a-cybersecurity-professional-my-journey-so-far-as-a-young-cybersecurity-1hnc)
-- [Building Dynamic Push Notifications with Firebase and Node.js](https://dev.to/this-is-learning/building-dynamic-push-notifications-with-firebase-and-nodejs-516h)
+- [Enabling Bank Transfer Payments with Live Reconciliation](https://dev.to/flutterwaveeng/enabling-bank-transfer-payments-with-live-reconciliation-1goi)
+- [Online AI Diagnosis: Use with Caution](https://dev.to/rustemsoft_llc_4b38a13294/online-ai-diagnosis-use-with-caution-1517)
+- [isValidHexString ColdFusion UDF](https://dev.to/gamesover/isvalidhexstring-coldfusion-udf-1cge)
+- [Implementing Monitoring in Azure: AZ-104 Lab 11 Review](https://dev.to/1suleyman/implementing-monitoring-in-azure-az-104-lab-11-review-3gl1)
 <!-- BLOG-POST-LIST:END -->
 
