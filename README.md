@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Power and Community Behind Apache Flink](https://dev.to/vitalisorenko/exploring-the-power-and-community-behind-apache-flink-1pfd)
-- [Cypress — Simple Custom Command to Conditionally Skip Tests](https://dev.to/cydavid/cypress-simple-custom-command-to-conditionally-skip-tests-3j2k)
-- [Monitoring APIs and Web Services: Benefits of Ensuring Uptime for Seamless User Experience](https://dev.to/tomcao2012/monitoring-apis-and-web-services-benefits-of-ensuring-uptime-for-seamless-user-experience-dkc)
-- [State Management in React: Context API vs. Redux](https://dev.to/erasmuskotoka/state-management-in-react-context-api-vs-redux-4fik)
+- [Understanding Software Test Coverage Criteria Step by Step: From Line Coverage to MC/DC](https://dev.to/yo-shi/understanding-software-test-coverage-criteria-step-by-step-from-line-coverage-to-mcdc-54k0)
+- [Custom OpenWRT Software Sources](https://dev.to/yawatasensei/custom-openwrt-software-sources-3o55)
+- [HEX 2 DEC Converter](https://dev.to/lukaszwojcikdev/hex-2-dec-converter-58bi)
+- [Apache Hadoop: Pioneering Open Source Innovation in Big Data](https://dev.to/ashucommits/apache-hadoop-pioneering-open-source-innovation-in-big-data-4cgc)
 <!-- BLOG-POST-LIST:END -->
 
