@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Convolution](https://dev.to/vivekvohra/convolution-267i)
-- [Chi-Square Tests and Degrees of Freedom](https://dev.to/dorcas_bwire/chi-square-tests-and-degrees-of-freedom-4op3)
-- [Pipeline de Dados](https://dev.to/sthefanyspina/pipeline-de-dados-1j68)
-- [Getting Hooked on React!](https://dev.to/senken18/getting-hooked-on-react-3c64)
+- [Streamline data transfer: The ultimate data integration guide SFTP to BigQuery](https://dev.to/mage_ai/streamline-data-transfer-the-ultimate-data-integration-guide-sftp-to-bigquery-501g)
+- [Linux](https://dev.to/blade_afc19585650ffbe0c68/linux-5h6p)
+- [AZURE LOAD BALANCER](https://dev.to/sheyitex/azure-load-balancer-223p)
+- [Migrate Aurora v1: Strategies Explained](https://dev.to/uzair004/migrate-aurora-v1-strategies-explained-3e7d)
 <!-- BLOG-POST-LIST:END -->
 
