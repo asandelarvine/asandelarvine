@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript AWS Policies](https://dev.to/kobybass/typescript-aws-policies-4nan)
-- [Jenkins Back To Basics](https://dev.to/mallikarjuna/jenkins-back-to-basics-b65)
-- [Aplicando Máscaras em Dados no PHP](https://dev.to/bruno_oliveira_d73cb98e24/aplicando-mascaras-em-dados-no-php-naa)
-- [7 Things LeetCode Doesn’t Teach You About Software Development](https://dev.to/dishitdevasia/7-things-leetcode-doesnt-teach-you-about-software-development-3d7m)
+- [Convolution](https://dev.to/vivekvohra/convolution-267i)
+- [Chi-Square Tests and Degrees of Freedom](https://dev.to/dorcas_bwire/chi-square-tests-and-degrees-of-freedom-4op3)
+- [Pipeline de Dados](https://dev.to/sthefanyspina/pipeline-de-dados-1j68)
+- [Getting Hooked on React!](https://dev.to/senken18/getting-hooked-on-react-3c64)
 <!-- BLOG-POST-LIST:END -->
 
