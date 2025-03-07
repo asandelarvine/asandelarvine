@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why LLMs Won&#39;t Replace My Junior Developers](https://dev.to/flare/why-llms-wont-replace-my-junior-developers-3pao)
-- [Automating Remote Branch Cleanup in Azure DevOps Using Git and Bash](https://dev.to/jefster_farleifernandes/automating-remote-branch-cleanup-in-azure-devops-using-git-and-bash-231g)
-- [Integrating Zoom SDK in a React Native App](https://dev.to/amitkumar13/integrating-zoom-sdk-in-a-react-native-app-2bdp)
-- [KMP-102 - Modularização no KMP](https://dev.to/rsicarelli/kmp-102-modularizacao-no-kmp-4oe5)
+- [Code. Named actors in Gleam](https://dev.to/axkira/code-named-actors-in-gleam-ji2)
+- [The Illusion of Accuracy: Why Gradient Descent Can Mislead Trading Forecasts](https://dev.to/vikas_srinivasa/the-illusion-of-accuracy-why-gradient-descent-can-mislead-trading-forecasts-aoi)
+- [🚀 Level Up Your Dev Skills: A Roadmap for Growth](https://dev.to/cryptosandy/level-up-your-dev-skills-a-roadmap-for-growth-39po)
+- [DevOps vs. SRE: Bridging the Gap, Not Building Walls](https://dev.to/hritikraj8804/devops-vs-sre-bridging-the-gap-not-building-walls-7e8)
 <!-- BLOG-POST-LIST:END -->
 
