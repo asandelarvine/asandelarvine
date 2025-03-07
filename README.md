@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix a Stuck Offline POS in React.js While Saving Transactions?](https://dev.to/shubham_jain_029af1ad6ec3/offline-pos-21pk)
-- [Project Release: Fix My Signal](https://dev.to/oliveripkanam/project-release-fix-my-signal-2d92)
-- [Python One Trick at a Time: A Guide for Dev.to Readers](https://dev.to/0x3d_site/python-one-trick-at-a-time-a-guide-for-devto-readers-hj5)
-- [Introducing yaps.chat - one-time end-to-end encrypted anonymous chats](https://dev.to/abdibrokhim/introducing-yapschat-one-time-end-to-end-encrypted-anonymous-chats-23kf)
+- [TypeScript AWS Policies](https://dev.to/kobybass/typescript-aws-policies-4nan)
+- [Jenkins Back To Basics](https://dev.to/mallikarjuna/jenkins-back-to-basics-b65)
+- [Aplicando Máscaras em Dados no PHP](https://dev.to/bruno_oliveira_d73cb98e24/aplicando-mascaras-em-dados-no-php-naa)
+- [7 Things LeetCode Doesn’t Teach You About Software Development](https://dev.to/dishitdevasia/7-things-leetcode-doesnt-teach-you-about-software-development-3d7m)
 <!-- BLOG-POST-LIST:END -->
 
