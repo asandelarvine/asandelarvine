@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 GenAI Things You Didn&#39;t Know About Astra DB](https://dev.to/datastax/5-genai-things-you-didnt-know-about-astra-db-3am9)
-- [Outage Notification Templates: Building Trust Even During Downtime](https://dev.to/leotulii/outage-notification-templates-57jg)
-- [Understanding Stacking Ensemble Method: A Comprehensive Guide -PART IV](https://dev.to/sreeni5018/understanding-stacking-ensemble-method-a-comprehensive-guide-part-iv-1c29)
-- [1minDocker #14 - Deploy an AI app with Docker on cloud](https://dev.to/astrabert/1mindocker-14-deploy-an-ai-app-with-docker-on-cloud-h27)
+- [How to Successfully Set Up and Grow Your Shopee Store: A Seller&#39;s Roadmap](https://dev.to/miaandere_/how-to-successfully-set-up-and-grow-your-shopee-store-a-sellers-roadmap-27kp)
+- [Implement a Natural Language System Configuration Manager with Spring AI](https://dev.to/z98743660/implement-a-natural-language-system-configuration-manager-with-spring-ai-3dpc)
+- [Hack the Planet as a Service](https://dev.to/bcornils/hack-the-planet-as-a-service-588j)
+- [Article on how to create and deploy azure App services using Azure CLI](https://dev.to/onyemuche/article-on-how-to-create-and-deploy-azure-app-services-using-azure-cli-13j2)
 <!-- BLOG-POST-LIST:END -->
 
