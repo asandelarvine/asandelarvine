@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code. Named actors in Gleam](https://dev.to/axkira/code-named-actors-in-gleam-ji2)
-- [The Illusion of Accuracy: Why Gradient Descent Can Mislead Trading Forecasts](https://dev.to/vikas_srinivasa/the-illusion-of-accuracy-why-gradient-descent-can-mislead-trading-forecasts-aoi)
-- [🚀 Level Up Your Dev Skills: A Roadmap for Growth](https://dev.to/cryptosandy/level-up-your-dev-skills-a-roadmap-for-growth-39po)
-- [DevOps vs. SRE: Bridging the Gap, Not Building Walls](https://dev.to/hritikraj8804/devops-vs-sre-bridging-the-gap-not-building-walls-7e8)
+- [ReactPress—A free CMS and blog system using Next.js.](https://dev.to/fecommunity_27/reactpress-a-free-cms-and-blog-system-using-nextjs-dg)
+- [Converting an old TV Box into an epic Picture Frame](https://dev.to/leocolman/converting-an-old-tv-box-into-an-epic-picture-frame-3iob)
+- [Breaking into Cybersecurity: My Experience and Career Roadmap](https://dev.to/samueladeduntan/the-path-to-becoming-a-cybersecurity-professional-my-journey-so-far-as-a-young-cybersecurity-1hnc)
+- [Building Dynamic Push Notifications with Firebase and Node.js](https://dev.to/this-is-learning/building-dynamic-push-notifications-with-firebase-and-nodejs-516h)
 <!-- BLOG-POST-LIST:END -->
 
