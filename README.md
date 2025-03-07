@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The art of creating an effective application security program: Strategies, Tips and Tools for the Best Results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-tools-for-the-3akm)
-- [Elevating Your IT Expertise With Software Testing Certification](https://dev.to/kara_masterson/elevating-your-it-expertise-with-software-testing-certification-3i9b)
-- [Making an effective Application Security program: Strategies, Tips, and Tooling for Optimal End-to-End Results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-tips-and-tooling-for-optimal-3ghg)
-- [Optimizing AWS EventBridge - Default vs. Custom Event Buses and Best Practices](https://dev.to/jajera/optimizing-aws-eventbridge-default-vs-custom-event-buses-and-best-practices-h2a)
+- [Design with Patterns: Elegant Data Mapping](https://dev.to/roman-vidayko/design-with-patterns-elegant-data-mapping-4b02)
+- [[#0] LifeMission - Introduction](https://dev.to/duzik/0-lifemission-introduction-2jk8)
+- [How to Create a Load Balancer in Azure](https://dev.to/ibrahimbioabu/how-to-create-a-load-balancer-in-azure-4hpc)
+- [MarkMind: How I Built an AI Chrome extension to organize my 2,000+ Bookmarks](https://dev.to/migsilva89/markmind-how-i-built-an-ai-chrome-extension-to-organize-my-2000-bookmarks-28dc)
 <!-- BLOG-POST-LIST:END -->
 
