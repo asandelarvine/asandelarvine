@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting an Effective Application Security program: Strategies, Tips and Tools for the Best Performance](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-tips-and-tools-for-the-best-22p1)
-- [How do I get a response from American?&lpar;customer service ohio&rpar;](https://dev.to/danilo_gomez_3726a0afa449/how-do-i-get-a-response-from-americancustomer-service-ohio-2n1j)
-- [Blazingly Fast Lambda Functions With Rust](https://dev.to/aidanldev/blazingly-fast-lambda-functions-with-rust-3nk1)
-- [How do I get a response from American?](https://dev.to/danilo_gomez_3726a0afa449/how-do-i-get-a-response-from-american-3lka)
+- [Moving Target Detection Based on FPGA](https://dev.to/carolineee/moving-target-detection-based-on-fpga-c6h)
+- [TDengine Achieves 10x Compression vs. Elasticsearch for Smart Vehicle Solution Provider](https://dev.to/rebecca_tao_651f5198fd9ea/tdengine-achieves-10x-compression-vs-elasticsearch-for-smart-vehicle-solution-provider-1lkd)
+- [Building a REST API with Express and MongoDB](https://dev.to/kathir_b_7a1a5642d3c42779/building-a-rest-api-with-express-and-mongodb-2lp)
+- [Getting Started with Docker: A Beginner&#39;s Guide](https://dev.to/kathir_b_7a1a5642d3c42779/getting-started-with-docker-a-beginners-guide-1136)
 <!-- BLOG-POST-LIST:END -->
 
