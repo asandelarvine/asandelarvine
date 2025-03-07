@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Successfully Set Up and Grow Your Shopee Store: A Seller&#39;s Roadmap](https://dev.to/miaandere_/how-to-successfully-set-up-and-grow-your-shopee-store-a-sellers-roadmap-27kp)
-- [Implement a Natural Language System Configuration Manager with Spring AI](https://dev.to/z98743660/implement-a-natural-language-system-configuration-manager-with-spring-ai-3dpc)
-- [Hack the Planet as a Service](https://dev.to/bcornils/hack-the-planet-as-a-service-588j)
-- [Article on how to create and deploy azure App services using Azure CLI](https://dev.to/onyemuche/article-on-how-to-create-and-deploy-azure-app-services-using-azure-cli-13j2)
+- [Python in Bioinformatics Overview and Applications](https://dev.to/lisw05/python-in-bioinformatics-overview-and-applications-3nj6)
+- [OAuth 2.0 and JWT Tokens: One-Stop Interview Guide](https://dev.to/devcorner/oauth-20-and-jwt-tokens-one-stop-interview-guide-3a4i)
+- [Security in Backend Development: One-Stop Solution for Interviews](https://dev.to/devcorner/security-in-backend-development-one-stop-solution-for-interviews-2cd5)
+- [Cypress — Easy Multi-Environment Configuration](https://dev.to/cydavid/cypress-easy-multi-environment-configuration-4omi)
 <!-- BLOG-POST-LIST:END -->
 
