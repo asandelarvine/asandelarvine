@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the Right Path as a Developer: Roadmaps vs. Reality](https://dev.to/matemiller/finding-the-right-path-as-a-developer-roadmaps-vs-reality-5c6b)
-- [⚙️ Mastering Lazy Loading in Angular: Boosting Performance and Efficiency](https://dev.to/artem_turlenko/mastering-lazy-loading-in-angular-boosting-performance-and-efficiency-1ghj)
-- [I Tried This Tool for a Week and My Testing Productivity Exploded 🚀](https://dev.to/walse/i-tried-this-tool-for-a-week-and-my-testing-productivity-exploded-73a)
-- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/esproc_spl/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29c0)
+- [Crafting an Effective Application Security program: Strategies, Tips and Tools for the Best Performance](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-tips-and-tools-for-the-best-22p1)
+- [How do I get a response from American?&lpar;customer service ohio&rpar;](https://dev.to/danilo_gomez_3726a0afa449/how-do-i-get-a-response-from-americancustomer-service-ohio-2n1j)
+- [Blazingly Fast Lambda Functions With Rust](https://dev.to/aidanldev/blazingly-fast-lambda-functions-with-rust-3nk1)
+- [How do I get a response from American?](https://dev.to/danilo_gomez_3726a0afa449/how-do-i-get-a-response-from-american-3lka)
 <!-- BLOG-POST-LIST:END -->
 
