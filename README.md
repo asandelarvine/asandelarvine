@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Software Test Coverage Criteria Step by Step: From Line Coverage to MC/DC](https://dev.to/yo-shi/understanding-software-test-coverage-criteria-step-by-step-from-line-coverage-to-mcdc-54k0)
-- [Custom OpenWRT Software Sources](https://dev.to/yawatasensei/custom-openwrt-software-sources-3o55)
-- [HEX 2 DEC Converter](https://dev.to/lukaszwojcikdev/hex-2-dec-converter-58bi)
-- [Apache Hadoop: Pioneering Open Source Innovation in Big Data](https://dev.to/ashucommits/apache-hadoop-pioneering-open-source-innovation-in-big-data-4cgc)
+- [10 Amazing Python Project Ideas from Beginners to Advanced](https://dev.to/tarunfulera/10-amazing-python-project-ideas-from-beginners-to-advanced-1bn2)
+- [How to Run Tests in Visual Studio Code: A Complete Guide](https://dev.to/keploy/how-to-run-tests-in-visual-studio-code-a-complete-guide-19ni)
+- [Apache Mahout: A Deep Dive into Open Source Innovation and Funding Models](https://dev.to/bobcars/apache-mahout-a-deep-dive-into-open-source-innovation-and-funding-models-73m)
+- [Git Back to Basics](https://dev.to/mallikarjuna/git-back-to-basics-ejo)
 <!-- BLOG-POST-LIST:END -->
 
