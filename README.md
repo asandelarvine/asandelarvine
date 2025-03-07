@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline data transfer: The ultimate data integration guide SFTP to BigQuery](https://dev.to/mage_ai/streamline-data-transfer-the-ultimate-data-integration-guide-sftp-to-bigquery-501g)
-- [Linux](https://dev.to/blade_afc19585650ffbe0c68/linux-5h6p)
-- [AZURE LOAD BALANCER](https://dev.to/sheyitex/azure-load-balancer-223p)
-- [Migrate Aurora v1: Strategies Explained](https://dev.to/uzair004/migrate-aurora-v1-strategies-explained-3e7d)
+- [The art of creating an effective application security program: Strategies, Tips and Tools for the Best Results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-tools-for-the-3akm)
+- [Elevating Your IT Expertise With Software Testing Certification](https://dev.to/kara_masterson/elevating-your-it-expertise-with-software-testing-certification-3i9b)
+- [Making an effective Application Security program: Strategies, Tips, and Tooling for Optimal End-to-End Results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-tips-and-tooling-for-optimal-3ghg)
+- [Optimizing AWS EventBridge - Default vs. Custom Event Buses and Best Practices](https://dev.to/jajera/optimizing-aws-eventbridge-default-vs-custom-event-buses-and-best-practices-h2a)
 <!-- BLOG-POST-LIST:END -->
 
