@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python in Bioinformatics Overview and Applications](https://dev.to/lisw05/python-in-bioinformatics-overview-and-applications-3nj6)
-- [OAuth 2.0 and JWT Tokens: One-Stop Interview Guide](https://dev.to/devcorner/oauth-20-and-jwt-tokens-one-stop-interview-guide-3a4i)
-- [Security in Backend Development: One-Stop Solution for Interviews](https://dev.to/devcorner/security-in-backend-development-one-stop-solution-for-interviews-2cd5)
-- [Cypress — Easy Multi-Environment Configuration](https://dev.to/cydavid/cypress-easy-multi-environment-configuration-4omi)
+- [Exploring the Power and Community Behind Apache Flink](https://dev.to/vitalisorenko/exploring-the-power-and-community-behind-apache-flink-1pfd)
+- [Cypress — Simple Custom Command to Conditionally Skip Tests](https://dev.to/cydavid/cypress-simple-custom-command-to-conditionally-skip-tests-3j2k)
+- [Monitoring APIs and Web Services: Benefits of Ensuring Uptime for Seamless User Experience](https://dev.to/tomcao2012/monitoring-apis-and-web-services-benefits-of-ensuring-uptime-for-seamless-user-experience-dkc)
+- [State Management in React: Context API vs. Redux](https://dev.to/erasmuskotoka/state-management-in-react-context-api-vs-redux-4fik)
 <!-- BLOG-POST-LIST:END -->
 
