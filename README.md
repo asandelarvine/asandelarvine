@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Amazing Python Project Ideas from Beginners to Advanced](https://dev.to/tarunfulera/10-amazing-python-project-ideas-from-beginners-to-advanced-1bn2)
-- [How to Run Tests in Visual Studio Code: A Complete Guide](https://dev.to/keploy/how-to-run-tests-in-visual-studio-code-a-complete-guide-19ni)
-- [Apache Mahout: A Deep Dive into Open Source Innovation and Funding Models](https://dev.to/bobcars/apache-mahout-a-deep-dive-into-open-source-innovation-and-funding-models-73m)
-- [Git Back to Basics](https://dev.to/mallikarjuna/git-back-to-basics-ejo)
+- [The N+1 Query Problem: The Silent Performance Killer](https://dev.to/lovestaco/the-n1-query-problem-the-silent-performance-killer-2b1c)
+- [How Creators &amp; Small Businesses Can Automate Their YouTube Videos Using AI &amp; More](https://dev.to/nitinfab/how-creators-small-businesses-can-automate-their-youtube-videos-using-ai-more-13a8)
+- [How Containerization and Kubernetes Revolutionize Software Deployment Efficiency](https://dev.to/adityabhuyan/how-containerization-and-kubernetes-revolutionize-software-deployment-efficiency-45bd)
+- [How RBAC and ABAC Enhance Security and Compliance](https://dev.to/adityabhuyan/how-rbac-and-abac-enhance-security-and-compliance-4b66)
 <!-- BLOG-POST-LIST:END -->
 
