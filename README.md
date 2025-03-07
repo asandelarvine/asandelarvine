@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Bank Transfer Payments with Live Reconciliation](https://dev.to/flutterwaveeng/enabling-bank-transfer-payments-with-live-reconciliation-1goi)
-- [Online AI Diagnosis: Use with Caution](https://dev.to/rustemsoft_llc_4b38a13294/online-ai-diagnosis-use-with-caution-1517)
-- [isValidHexString ColdFusion UDF](https://dev.to/gamesover/isvalidhexstring-coldfusion-udf-1cge)
-- [Implementing Monitoring in Azure: AZ-104 Lab 11 Review](https://dev.to/1suleyman/implementing-monitoring-in-azure-az-104-lab-11-review-3gl1)
+- [How to Fix a Stuck Offline POS in React.js While Saving Transactions?](https://dev.to/shubham_jain_029af1ad6ec3/offline-pos-21pk)
+- [Project Release: Fix My Signal](https://dev.to/oliveripkanam/project-release-fix-my-signal-2d92)
+- [Python One Trick at a Time: A Guide for Dev.to Readers](https://dev.to/0x3d_site/python-one-trick-at-a-time-a-guide-for-devto-readers-hj5)
+- [Introducing yaps.chat - one-time end-to-end encrypted anonymous chats](https://dev.to/abdibrokhim/introducing-yapschat-one-time-end-to-end-encrypted-anonymous-chats-23kf)
 <!-- BLOG-POST-LIST:END -->
 
