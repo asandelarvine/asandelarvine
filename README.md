@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Query or SWR: Which is best in 2025?](https://dev.to/rigalpatel001/react-query-or-swr-which-is-best-in-2025-2oa3)
-- [Understanding JavaScript Arrays with a Family Analogy](https://dev.to/dikshant29/understanding-javascript-arrays-with-a-family-analogy-32oi)
-- [Leetcode - 54. Spiral Matrix](https://dev.to/rakeshreddy512/leetcode-54-spiral-matrix-23f7)
-- [A Deep Dive into C, C++, and C#: Similarities, Differences, and Standard Libraries](https://dev.to/kumar_kusumitsharma_b190/a-deep-dive-into-c-c-and-c-similarities-differences-and-standard-libraries-2dbo)
+- [AI Breakthrough: New Self-Teaching Model Masters PhD Science and Math Using Simple Tools](https://dev.to/mikeyoung44/ai-breakthrough-new-self-teaching-model-masters-phd-science-and-math-using-simple-tools-3doo)
+- [Advanced Linux Commands Every DevOps Engineer Must Know](https://dev.to/kristarking/advanced-linux-commands-every-devops-engineer-must-know-50f5)
+- [Cracker](https://dev.to/codewizard123/cracker-16nh)
+- [K3N4NPROEDİTOR](https://dev.to/kenan_canyreq_6da3350f12/k3n4nproeditor-4d0h)
 <!-- BLOG-POST-LIST:END -->
 
