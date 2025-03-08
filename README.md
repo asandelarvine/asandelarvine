@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Breakthrough: New Self-Teaching Model Masters PhD Science and Math Using Simple Tools](https://dev.to/mikeyoung44/ai-breakthrough-new-self-teaching-model-masters-phd-science-and-math-using-simple-tools-3doo)
-- [Advanced Linux Commands Every DevOps Engineer Must Know](https://dev.to/kristarking/advanced-linux-commands-every-devops-engineer-must-know-50f5)
-- [Cracker](https://dev.to/codewizard123/cracker-16nh)
-- [K3N4NPROEDİTOR](https://dev.to/kenan_canyreq_6da3350f12/k3n4nproeditor-4d0h)
+- [A utility for automatically generating files that follow the Next.js App Router structure based on folder name patterns.](https://dev.to/myjeong19/do-you-konw-notionpresso-29hc)
+- [🚀 la-resume: 100+ Signups in Just 14 Days – Here’s Our Journey So Far](https://dev.to/shubhamku044/la-resume-100-signups-in-just-14-days-heres-our-journey-so-far-5cl3)
+- [The Empty Box Analogy: Understanding Null and Undefined in Code](https://dev.to/agunechemba/the-empty-box-analogy-understanding-null-and-undefined-in-code-4c65)
+- [Unlocking the Secret to 90% Smaller Logs: How Flowgger Transforms Your Logging Strategy](https://dev.to/solothought/unlocking-the-secret-to-90-smaller-logs-how-flowgger-transforms-your-logging-strategy-3kfi)
 <!-- BLOG-POST-LIST:END -->
 
