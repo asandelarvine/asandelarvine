@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Celebrating the WeCoded Challenge with Code! 🎉](https://dev.to/hanzla-baig/celebrating-the-wecoded-challenge-with-code-2ohi)
-- [Warehouse Woes](https://dev.to/rmion/warehouse-woes-41i0)
-- [Synchronizing Java Collections for Thread Safety: A Complete Guide](https://dev.to/devcorner/synchronizing-java-collections-for-thread-safety-a-complete-guide-4f8p)
-- [# 🌗 How to Add Theme Switching with MobX in React](https://dev.to/hemantgovekar/-how-to-add-theme-switching-with-mobx-in-react-62h)
+- [鸿蒙开发：熟知@BuilderParam装饰器](https://dev.to/abnerming888/hong-meng-kai-fa-shou-zhi-builderparamzhuang-shi-qi-2kna)
+- [Push-based CLI Workflow on MacOS](https://dev.to/zhu424/push-based-cli-workflow-on-macos-1g76)
+- [How Does Database Management Improve Data Security?](https://dev.to/cristianalex_17/how-does-database-management-improve-data-security-5aoj)
+- [鸿蒙开发：弹性布局Flex](https://dev.to/abnerming888/hong-meng-kai-fa-dan-xing-bu-ju-flex-30fl)
 <!-- BLOG-POST-LIST:END -->
 
