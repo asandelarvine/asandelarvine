@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to New Relic Metrics: Application &amp; Infrastructure Monitoring](https://dev.to/devcorner/comprehensive-guide-to-new-relic-metrics-application-infrastructure-monitoring-516g)
-- [📝 Docker Images Cheat Sheet 🚀](https://dev.to/ciscoanass/docker-images-cheat-sheet-2on3)
-- [Nocode LLM based chatbot generator platform](https://dev.to/genraidev_23c4e0ee7422f/nocode-llm-based-chatbot-generator-platform-43a7)
-- [Move Your Hugging Face LLM to S3 Like a Pro &lpar;Without Wasting Local Space!&rpar; 🚀](https://dev.to/codexmakercompany/move-your-hugging-face-llm-to-s3-like-a-pro-without-wasting-local-space-15kp)
+- [🚀 Celebrating the WeCoded Challenge with Code! 🎉](https://dev.to/hanzla-baig/celebrating-the-wecoded-challenge-with-code-2ohi)
+- [Warehouse Woes](https://dev.to/rmion/warehouse-woes-41i0)
+- [Synchronizing Java Collections for Thread Safety: A Complete Guide](https://dev.to/devcorner/synchronizing-java-collections-for-thread-safety-a-complete-guide-4f8p)
+- [# 🌗 How to Add Theme Switching with MobX in React](https://dev.to/hemantgovekar/-how-to-add-theme-switching-with-mobx-in-react-62h)
 <!-- BLOG-POST-LIST:END -->
 
