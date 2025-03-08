@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#32 PHP Server Tools for your file management needs on the server](https://dev.to/flnzba/32-php-server-tools-for-your-file-management-needs-on-the-server-55fp)
-- [Route Declaration Order: Laravel&#39;s Hidden Routing Rule](https://dev.to/dosenngoding/route-declaration-order-laravels-hidden-routing-rule-o4a)
-- [8 MARS](https://dev.to/sofia-tech/8-mars-45cg)
-- [10 DevOps Hacks Every Freelancer Needs to Deliver Client Projects Faster](https://dev.to/kuberns_cloud/10-devops-hacks-every-freelancer-needs-to-deliver-client-projects-faster-35g9)
+- [Master Java Containerization: Essential Tools for Scalable Deployments](https://dev.to/aaravjoshi/master-java-containerization-essential-tools-for-scalable-deployments-541c)
+- [From Breaking Things to Building Them: My Journey from a Curious Kid to a self taught CTO](https://dev.to/criscmd/from-breaking-things-to-building-them-my-journey-from-a-curious-kid-to-a-self-taught-cto-4aoj)
+- [German LLM Benchmark](https://dev.to/landwehr/german-llm-benchmark-4bg7)
+- [Will AI Replace Programmers? A Reality Check 🤖💻](https://dev.to/razinrayees/will-ai-replace-programmers-a-reality-check-1njj)
 <!-- BLOG-POST-LIST:END -->
 
