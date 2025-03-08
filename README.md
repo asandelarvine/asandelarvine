@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 The Fastest Python API Frameworks Ranked — Which One Should You Choose?](https://dev.to/dct_technologyprivatelimited/the-fastest-python-api-frameworks-ranked-which-one-should-you-choose-31ak)
-- [I Tried 20+ No-Code Web Scraping Tools to Make Money - These 3 Are the Absolute Best](https://dev.to/nitinfab/i-tried-20-no-code-web-scraping-tools-to-make-money-these-3-are-the-absolute-best-4op4)
-- [#wecode Landing Page - WeCoded Challenge March 2025](https://dev.to/deathcrafter/wecode-landing-page-wecoded-challenge-march-2025-nci)
-- [Debugging taking forever? From unclear bug reports to hidden dependencies, find out why debugging slows you down &amp; how to fix it faster! 🚀 Read the full blog for expert tips &amp; smarter debugging strategies. #debugging #developersproblems](https://dev.to/pratham_naik_project_manager/debugging-taking-forever-from-unclear-bug-reports-to-hidden-dependencies-find-out-why-debugging-1b4b)
+- [React Query or SWR: Which is best in 2025?](https://dev.to/rigalpatel001/react-query-or-swr-which-is-best-in-2025-2oa3)
+- [Understanding JavaScript Arrays with a Family Analogy](https://dev.to/dikshant29/understanding-javascript-arrays-with-a-family-analogy-32oi)
+- [Leetcode - 54. Spiral Matrix](https://dev.to/rakeshreddy512/leetcode-54-spiral-matrix-23f7)
+- [A Deep Dive into C, C++, and C#: Similarities, Differences, and Standard Libraries](https://dev.to/kumar_kusumitsharma_b190/a-deep-dive-into-c-c-and-c-similarities-differences-and-standard-libraries-2dbo)
 <!-- BLOG-POST-LIST:END -->
 
