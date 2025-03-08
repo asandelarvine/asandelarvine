@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Set Up Terraform on Windows &lpar;Step-by-Step Guide&rpar;](https://dev.to/kristarking/how-to-install-and-set-up-terraform-on-windows-step-by-step-guide-9md)
-- [React hydration slowing your app? See how the Browser Scheduling API boosts perf with scheduler.postTask&lpar;&rpar; &amp; yield&lpar;&rpar;. Cut INP from 24179s to 62ms with a 3s delay—chunking next! Explore code &amp; React 19 teases. Tackle heavy components here. Dive in &amp; comment](https://dev.to/suzyg38/react-hydration-slowing-your-app-see-how-the-browser-scheduling-api-boosts-perf-with-gc2)
-- [Laravel 12 § Laravel Herd](https://dev.to/developpeurtaf/laravel-12-ss-laravel-herd-16b3)
-- [Funding a new tech project / find a company investor](https://dev.to/jackie-d/funding-a-new-tech-project-find-a-company-investor-5bmf)
+- [🐰 Kafka и Spring: Почтовый голубь против почтовой службы 🌸](https://dev.to/easycat/kafka-i-spring-pochtovyi-gholub-protiv-pochtovoi-sluzhby-5e4e)
+- [Kali Linux](https://dev.to/blade_afc19585650ffbe0c68/kali-linux-42i3)
+- [Kubectl Demystified: Mastering the `kubectl create` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-create-command-2nma)
+- [What is in silico cloning of disease genes?](https://dev.to/lisw05/what-is-in-silico-cloning-of-disease-genes-592k)
 <!-- BLOG-POST-LIST:END -->
 
