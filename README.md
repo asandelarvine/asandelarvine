@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design with Patterns: Elegant Data Mapping](https://dev.to/roman-vidayko/design-with-patterns-elegant-data-mapping-4b02)
-- [[#0] LifeMission - Introduction](https://dev.to/duzik/0-lifemission-introduction-2jk8)
-- [How to Create a Load Balancer in Azure](https://dev.to/ibrahimbioabu/how-to-create-a-load-balancer-in-azure-4hpc)
-- [MarkMind: How I Built an AI Chrome extension to organize my 2,000+ Bookmarks](https://dev.to/migsilva89/markmind-how-i-built-an-ai-chrome-extension-to-organize-my-2000-bookmarks-28dc)
+- [Why Feedback Loops Matter in API Development](https://dev.to/zuplo/why-feedback-loops-matter-in-api-development-1ljc)
+- [5 Must-Have Features for API Documentation Tools](https://dev.to/zuplo/5-must-have-features-for-api-documentation-tools-1fpb)
+- [Mastering API Throughput: 8 Key Strategies for Optimal Performance](https://dev.to/zuplo/mastering-api-throughput-8-key-strategies-for-optimal-performance-3f6o)
+- [5 Key Tips for Enhancing API Security Against DDoS Attacks](https://dev.to/zuplo/5-key-tips-for-enhancing-api-security-against-ddos-attacks-5e7o)
 <!-- BLOG-POST-LIST:END -->
 
