@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursive components](https://dev.to/flodev/recursive-components-4jp5)
-- [Article on how to Create Virtual Machine Scale Set.](https://dev.to/onyemuche/article-on-how-to-create-virtual-machine-scale-set-31hn)
-- [Mastering Advanced Routing and Load Balancing with YARP: Strategies, Code, and Best Practices](https://dev.to/leandroveiga/mastering-advanced-routing-and-load-balancing-with-yarp-strategies-code-and-best-practices-5ddh)
-- [Creating a solution from the CLI](https://dev.to/tallesl/creating-a-solution-from-the-cli-57o3)
+- [CodePen&#39;s 2019](https://dev.to/reham_mohamed_6d5b8db5a0c/codepens-2019-3kmd)
+- [Script Template in vim](https://dev.to/alimehr75/script-template-in-vim-2cjl)
+- [Criando um aplicativo de segurança para mulheres: precisamos de programadores para transformar essa ideia em realidade&quot;](https://dev.to/fufik_emportugues_c06738/criando-um-aplicativo-de-seguranca-para-mulheres-precisamos-de-programadores-para-transformar-essa-3d1f)
+- [Code Explanation: &quot;STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking&quot;](https://dev.to/foxgem/code-explanation-storm-synthesis-of-topic-outlines-through-retrieval-and-multi-perspective-26bi)
 <!-- BLOG-POST-LIST:END -->
 
