@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Career Opportunities After Completing AWS Training in Bangalore](https://dev.to/shaik_muskansultana_f054/top-career-opportunities-after-completing-aws-training-in-bangalore-3jlp)
-- [Odoo Database Migration: Module Not Installing After Upgrade](https://dev.to/james_scott_bf1d5c8cfcaa0/odoo-database-migration-module-not-installing-after-upgrade-26kg)
-- [Crawl4AI: AI-Ready Web Crawling](https://dev.to/ali_dz/crawl4ai-the-ultimate-guide-to-ai-ready-web-crawling-2620)
-- [Flutter Highlight: Discover New Snippets!](https://dev.to/flutter_canvas_/flutter-highlight-discover-new-snippets-fl8)
+- [🚀 20 Must-Know GitHub Repositories for Developers!](https://dev.to/sahinur/20-must-know-github-repositories-for-developers-in-2025-57a8)
+- [4 Ways to Deploy any LLM on Hugging Face every developer should know](https://dev.to/aigurux/4-ways-to-deploy-any-llm-on-hugging-face-every-developer-should-know-5217)
+- [Odoo Payment Gateway Integration: Transactions Not Processing](https://dev.to/james_scott_bf1d5c8cfcaa0/odoo-payment-gateway-integration-transactions-not-processing-69a)
+- [Authentication in nextjs app-router using Auth.js v5 with Credentials](https://dev.to/venumarious/authentication-in-nextjs-app-router-using-authjs-v5-with-credentials-47ji)
 <!-- BLOG-POST-LIST:END -->
 
