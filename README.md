@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Decorators: How They Work and How to Write One](https://dev.to/ariabramowitz/python-decorators-how-they-work-and-how-to-write-one-1dig)
-- [The Enigma of LIQU3D: Decoding Kenya’s Cybersecurity Prodigy &lpar;2025&rpar;](https://dev.to/4n0nus3r/the-enigma-of-liqu3d-decoding-kenyas-cybersecurity-prodigy-2025-36oi)
-- [Ada Lovelace: The Visionary Mathematician](https://dev.to/balagmadhu/ada-lovelace-the-visionary-mathematician-4nd5)
-- [Designing Your Go-To Friend Hangout Organizer 👥 - Starting ‘WhereNow’ 📍](https://dev.to/rtambunt/designing-your-go-to-friend-hangout-organizer-starting-wherenow-4bao)
+- [PHP - PER Coding Style 2.0](https://dev.to/xxzeroxx/php-per-coding-style-20-44ac)
+- [Python Shortcuts That Save You Hours](https://dev.to/0x3d_site/python-shortcuts-that-save-you-hours-5dfp)
+- [Test Dev.to Article](https://dev.to/beatrisilieva/test-devto-article-2i8c)
+- [Criar e publicar imagem para aplicação ASP .NET Core MVC](https://dev.to/yuripeixinho/criar-e-publicar-imagem-para-aplicacao-asp-net-core-mvc-3j9)
 <!-- BLOG-POST-LIST:END -->
 
