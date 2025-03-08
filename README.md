@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Git: Version Control Made Simple](https://dev.to/pawandeore/a-beginners-guide-to-git-version-control-made-simple-3bom)
-- [External Versioning in GCC: Defining Project Versions Without Modifying Source Code](https://dev.to/pcmagas/quicktip-how-to-define-version-your-project-written-in-c-4o8c)
-- [Dynamic routes in Next](https://dev.to/udit_saurabh_86a790171b67/dynamic-routes-in-next-5e84)
-- [What is Financial Spreading? How SimplAI’s Agentic AI Makes It Seamless](https://dev.to/simplai/what-is-financial-spreading-how-simplais-agentic-ai-makes-it-seamless-2h9c)
+- [LiveAPI: The GPS for Your Organization’s APIs](https://dev.to/shrsv/liveapi-the-gps-for-your-organizations-apis-mmj)
+- [Introducing yaps[dot]chat- one-time end-to-end encrypted anonymous chats.](https://dev.to/abdibrokhim/introducing-yapsdotchat-one-time-end-to-end-encrypted-anonymous-chats-26k)
+- [Easter Egg or a Bug? The Mysterious Case of npm rum dev 🍹](https://dev.to/vansh-codes/easter-egg-or-a-bug-the-mysterious-case-of-npm-rum-dev-3ki1)
+- [Creating a Microservice Architecture with Laravel APIs](https://dev.to/programmerhasan/creating-a-microservice-architecture-with-laravel-apis-3a16)
 <!-- BLOG-POST-LIST:END -->
 
