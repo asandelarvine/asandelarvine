@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐰 Kafka и Spring: Почтовый голубь против почтовой службы 🌸](https://dev.to/easycat/kafka-i-spring-pochtovyi-gholub-protiv-pochtovoi-sluzhby-5e4e)
-- [Kali Linux](https://dev.to/blade_afc19585650ffbe0c68/kali-linux-42i3)
-- [Kubectl Demystified: Mastering the `kubectl create` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-create-command-2nma)
-- [What is in silico cloning of disease genes?](https://dev.to/lisw05/what-is-in-silico-cloning-of-disease-genes-592k)
+- [HANDS ON GUIDE TO AWS ROLE AND PERMISSIONS &lpar;STS ASSUME ROLE&rpar;](https://dev.to/josephhonpah/hands-on-guide-to-aws-role-and-permissions-sts-assume-role-3k0g)
+- [AWS SECURITY MEASURES TO PUT IN PLACE.](https://dev.to/josephhonpah/aws-security-measures-to-put-in-place-5lf)
+- [I Built a Smart Bookmark Extension](https://dev.to/i_am_ziike/i-built-a-smart-bookmark-extension-1208)
+- [AWK Basics Tutorial](https://dev.to/leapcell/awk-basics-tutorial-4fe3)
 <!-- BLOG-POST-LIST:END -->
 
