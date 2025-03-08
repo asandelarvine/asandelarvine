@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Top 37 GitHub Projects You Can&#39;t Miss &lpar;March 2025&rpar;!](https://dev.to/gittech/top-37-github-projects-you-cant-miss-march-2025-42ak)
-- [🐋 Caso de Éxito con RDS Serverless: Ahorro Inteligente en la Nube 🚀](https://dev.to/francotel/caso-de-exito-con-rds-serverless-ahorro-inteligente-en-la-nube-4ff5)
-- [Free Convert Web Content to Markdown](https://dev.to/iw4p/free-convert-web-content-to-markdown-538)
-- [How time.After&lpar;&rpar; Can Cause Memory Leaks in Go and How to Fix Them](https://dev.to/iw4p/how-timeafter-can-cause-memory-leaks-in-go-and-how-to-fix-them-1kg3)
+- [Recursive components](https://dev.to/flodev/recursive-components-4jp5)
+- [Article on how to Create Virtual Machine Scale Set.](https://dev.to/onyemuche/article-on-how-to-create-virtual-machine-scale-set-31hn)
+- [Mastering Advanced Routing and Load Balancing with YARP: Strategies, Code, and Best Practices](https://dev.to/leandroveiga/mastering-advanced-routing-and-load-balancing-with-yarp-strategies-code-and-best-practices-5ddh)
+- [Creating a solution from the CLI](https://dev.to/tallesl/creating-a-solution-from-the-cli-57o3)
 <!-- BLOG-POST-LIST:END -->
 
