@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Feedback Loops Matter in API Development](https://dev.to/zuplo/why-feedback-loops-matter-in-api-development-1ljc)
-- [5 Must-Have Features for API Documentation Tools](https://dev.to/zuplo/5-must-have-features-for-api-documentation-tools-1fpb)
-- [Mastering API Throughput: 8 Key Strategies for Optimal Performance](https://dev.to/zuplo/mastering-api-throughput-8-key-strategies-for-optimal-performance-3f6o)
-- [5 Key Tips for Enhancing API Security Against DDoS Attacks](https://dev.to/zuplo/5-key-tips-for-enhancing-api-security-against-ddos-attacks-5e7o)
+- [Comprehensive Guide to New Relic Metrics: Application &amp; Infrastructure Monitoring](https://dev.to/devcorner/comprehensive-guide-to-new-relic-metrics-application-infrastructure-monitoring-516g)
+- [📝 Docker Images Cheat Sheet 🚀](https://dev.to/ciscoanass/docker-images-cheat-sheet-2on3)
+- [Nocode LLM based chatbot generator platform](https://dev.to/genraidev_23c4e0ee7422f/nocode-llm-based-chatbot-generator-platform-43a7)
+- [Move Your Hugging Face LLM to S3 Like a Pro &lpar;Without Wasting Local Space!&rpar; 🚀](https://dev.to/codexmakercompany/move-your-hugging-face-llm-to-s3-like-a-pro-without-wasting-local-space-15kp)
 <!-- BLOG-POST-LIST:END -->
 
