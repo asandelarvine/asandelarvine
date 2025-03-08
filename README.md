@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A utility for automatically generating files that follow the Next.js App Router structure based on folder name patterns.](https://dev.to/myjeong19/do-you-konw-notionpresso-29hc)
-- [🚀 la-resume: 100+ Signups in Just 14 Days – Here’s Our Journey So Far](https://dev.to/shubhamku044/la-resume-100-signups-in-just-14-days-heres-our-journey-so-far-5cl3)
-- [The Empty Box Analogy: Understanding Null and Undefined in Code](https://dev.to/agunechemba/the-empty-box-analogy-understanding-null-and-undefined-in-code-4c65)
-- [Unlocking the Secret to 90% Smaller Logs: How Flowgger Transforms Your Logging Strategy](https://dev.to/solothought/unlocking-the-secret-to-90-smaller-logs-how-flowgger-transforms-your-logging-strategy-3kfi)
+- [Top Career Opportunities After Completing AWS Training in Bangalore](https://dev.to/shaik_muskansultana_f054/top-career-opportunities-after-completing-aws-training-in-bangalore-3jlp)
+- [Odoo Database Migration: Module Not Installing After Upgrade](https://dev.to/james_scott_bf1d5c8cfcaa0/odoo-database-migration-module-not-installing-after-upgrade-26kg)
+- [Crawl4AI: AI-Ready Web Crawling](https://dev.to/ali_dz/crawl4ai-the-ultimate-guide-to-ai-ready-web-crawling-2620)
+- [Flutter Highlight: Discover New Snippets!](https://dev.to/flutter_canvas_/flutter-highlight-discover-new-snippets-fl8)
 <!-- BLOG-POST-LIST:END -->
 
