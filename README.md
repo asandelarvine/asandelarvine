@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP - PER Coding Style 2.0](https://dev.to/xxzeroxx/php-per-coding-style-20-44ac)
-- [Python Shortcuts That Save You Hours](https://dev.to/0x3d_site/python-shortcuts-that-save-you-hours-5dfp)
-- [Test Dev.to Article](https://dev.to/beatrisilieva/test-devto-article-2i8c)
-- [Criar e publicar imagem para aplicação ASP .NET Core MVC](https://dev.to/yuripeixinho/criar-e-publicar-imagem-para-aplicacao-asp-net-core-mvc-3j9)
+- [🔥 Top 37 GitHub Projects You Can&#39;t Miss &lpar;March 2025&rpar;!](https://dev.to/gittech/top-37-github-projects-you-cant-miss-march-2025-42ak)
+- [🐋 Caso de Éxito con RDS Serverless: Ahorro Inteligente en la Nube 🚀](https://dev.to/francotel/caso-de-exito-con-rds-serverless-ahorro-inteligente-en-la-nube-4ff5)
+- [Free Convert Web Content to Markdown](https://dev.to/iw4p/free-convert-web-content-to-markdown-538)
+- [How time.After&lpar;&rpar; Can Cause Memory Leaks in Go and How to Fix Them](https://dev.to/iw4p/how-timeafter-can-cause-memory-leaks-in-go-and-how-to-fix-them-1kg3)
 <!-- BLOG-POST-LIST:END -->
 
