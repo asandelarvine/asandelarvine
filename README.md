@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Java Containerization: Essential Tools for Scalable Deployments](https://dev.to/aaravjoshi/master-java-containerization-essential-tools-for-scalable-deployments-541c)
-- [From Breaking Things to Building Them: My Journey from a Curious Kid to a self taught CTO](https://dev.to/criscmd/from-breaking-things-to-building-them-my-journey-from-a-curious-kid-to-a-self-taught-cto-4aoj)
-- [German LLM Benchmark](https://dev.to/landwehr/german-llm-benchmark-4bg7)
-- [Will AI Replace Programmers? A Reality Check 🤖💻](https://dev.to/razinrayees/will-ai-replace-programmers-a-reality-check-1njj)
+- [How to Install and Set Up Terraform on Windows &lpar;Step-by-Step Guide&rpar;](https://dev.to/kristarking/how-to-install-and-set-up-terraform-on-windows-step-by-step-guide-9md)
+- [React hydration slowing your app? See how the Browser Scheduling API boosts perf with scheduler.postTask&lpar;&rpar; &amp; yield&lpar;&rpar;. Cut INP from 24179s to 62ms with a 3s delay—chunking next! Explore code &amp; React 19 teases. Tackle heavy components here. Dive in &amp; comment](https://dev.to/suzyg38/react-hydration-slowing-your-app-see-how-the-browser-scheduling-api-boosts-perf-with-gc2)
+- [Laravel 12 § Laravel Herd](https://dev.to/developpeurtaf/laravel-12-ss-laravel-herd-16b3)
+- [Funding a new tech project / find a company investor](https://dev.to/jackie-d/funding-a-new-tech-project-find-a-company-investor-5bmf)
 <!-- BLOG-POST-LIST:END -->
 
