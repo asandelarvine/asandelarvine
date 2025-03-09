@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning JS frameworks with me&lpar;Part 1&rpar; 😎: JQuery](https://dev.to/shaman_shetty/learning-js-frameworks-with-mepart-1-jquery-36p3)
-- [TikTok&#39;s new React Native killer, TypeScript 5.8, latest JavaScript usage stats, and more](https://dev.to/thisweekinjavascript/tiktoks-new-react-native-killer-typescript-58-latest-javascript-usage-stats-and-more-1jl3)
-- [Why Redis is a Game-Changer for High-Performance Applications](https://dev.to/prathvihan108/why-redis-is-a-game-changer-for-high-performance-applications-aj)
-- [Set Up Python in VS Code—Fast, Easy &amp; Beginner-Friendly!](https://dev.to/mahrukh_adeel/set-up-python-in-vs-code-fast-easy-beginner-friendly-172f)
+- [Boostez votre productivité avec les hooks Git ! 🚀](https://dev.to/herebuggedout/boostez-votre-productivite-avec-les-hooks-git--fka)
+- [busco una api de algun modelo que sea gratis de uso que me permita integrarlo en un aplicación para que analice datos y genere un pronostico en funcion de los datos que le suministro ?](https://dev.to/yulian_workspace_e22b277f/busco-una-api-de-algun-modelo-que-sea-gratis-de-uso-que-me-permita-integrarlo-en-un-aplicacion-para-20h0)
+- [Fast vs. Slow Thinking: Designing UX for Both Brains](https://dev.to/rijultp/fast-vs-slow-thinking-designing-ux-for-both-brains-31gg)
+- [The easiest way to use HTTPS in Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-1eba)
 <!-- BLOG-POST-LIST:END -->
 
