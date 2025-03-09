@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in Financial &amp; Mental Wellbeing](https://dev.to/prettysoul2025/the-role-of-ai-in-financial-mental-wellbeing-2m11)
-- [Why Linux is the Best Operating System for Developers](https://dev.to/md-afsar-mahmud/why-linux-is-the-best-operating-system-for-developers-16p8)
-- [Java-এর গুরুত্বপূর্ণ ৩০টি প্রশ্ন ও উত্তর](https://dev.to/musanna_galib/java-er-gurutbpuurnn-30tti-prshn-o-uttr-d6b)
-- [Navigating AWS Anti-Patterns: Common Pitfalls and Strategies to Avoid Them](https://dev.to/aws-builders/navigating-aws-anti-patterns-common-pitfalls-and-strategies-to-avoid-them-30dk)
+- [Javascript Developer&#39;s Survival Kit: Essential Tools, and Resources](https://dev.to/0x3d_site/javascript-developers-survival-kit-essential-tools-and-resources-34a2)
+- [Building a Music Showcase for My Portfolio: A Developer&#39;s Journey](https://dev.to/akshay_gupta/building-a-music-showcase-for-my-portfolio-a-developers-journey-4adl)
+- [LetsDefend SIEM Alert: Phishing Mail Detected - Internal to Internal - EventID: 52](https://dev.to/binarybastion/letsdefend-siem-alert-phishing-mail-detected-internal-to-internal-eventid-52-567e)
+- [AI in cybersecurity?](https://dev.to/jabran_mustafa_cf7667f97a/ai-in-cybersecurity-2pac)
 <!-- BLOG-POST-LIST:END -->
 
