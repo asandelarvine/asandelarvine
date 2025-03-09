@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Dynamically Linked Library](https://dev.to/selfish_dev/what-is-dynamically-linked-library-1e33)
-- [Coding Against the Odds: A Story of Growth](https://dev.to/mrinmoycty/coding-against-the-odds-a-story-of-growth-43a0)
-- [Git tips and tricks I use every day](https://dev.to/markhesketh/git-tips-and-tricks-i-use-every-day-ibc)
-- [Alertmanager with Telegram for Prometheus-Stack in K8S](https://dev.to/alimehr75/alertmanager-with-telegram-for-prometheus-stack-in-k8s-2n5p)
+- [Mastering OAuth 2.0: Step by Step](https://dev.to/leapcell/mastering-oauth-20-step-by-step-2726)
+- [[Boost]](https://dev.to/shidhincr/-1a3b)
+- [Formik &amp; React &lpar;Part 3&rpar;: Validation with yup &amp; Streamlining Code](https://dev.to/tuneshman/formik-react-part-3-validation-with-yup-streamlining-code-3a28)
+- [Core Web Vitals](https://dev.to/shidhincr/-4998)
 <!-- BLOG-POST-LIST:END -->
 
