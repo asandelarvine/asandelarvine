@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS FlexBox: Diseño avanzado desde cero](https://dev.to/johnserranodev/css-flexbox-diseno-avanzado-desde-cero-5ckm)
-- [What Are the Best Practices for Integrating Vue.js with a Laravel Backend?](https://dev.to/cristianalex_17/what-are-the-best-practices-for-integrating-vuejs-with-a-laravel-backend-54f6)
-- [Revolutionizing Sound: Top AI Tools for Voice and Audio Processing](https://dev.to/john-adams-ka/revolutionizing-sound-top-ai-tools-for-voice-and-audio-processing-475k)
-- [Azure Applied Skills: Attaching a Data Disk to a Virtual Machine](https://dev.to/johnogbonna/azure-applied-skills-attaching-a-data-disk-to-a-virtual-machine-i03)
+- [JUNIOR DEVELOPER JOURNEY](https://dev.to/elijah_ntan_740be735cb580/junior-developer-journey-4hgg)
+- [AWS GuardDuty vs. Inspector vs. Shield, What’s the Difference?](https://dev.to/simimwanza/aws-guardduty-vs-inspector-vs-shield-whats-the-difference-15id)
+- [Building the Future: How Web3 is Revolutionizing the Internet](https://dev.to/raji_moshood_ee3a4c2638f6/building-the-future-how-web3-is-revolutionizing-the-internet-2e81)
+- [AI Agent Chaos? Motia Hands You the Reins, Pronto](https://dev.to/mike_piccolo_51a85f7187e6/ai-agent-chaos-motia-hands-you-the-reins-pronto-jp1)
 <!-- BLOG-POST-LIST:END -->
 
