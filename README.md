@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 Blogs Start 🚀](https://dev.to/tibcsoszalontai/blogs-start-nc5)
-- [Godoc-Lint: a linter for Go Doc Comments &lpar;godocs&rpar; [RE#16]](https://dev.to/babakks/godoc-lint-a-linter-for-go-doc-comments-godocs-re16-1elh)
-- [The Easiest Way To Use Https In Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-3mgh)
-- [Understanding Spring Boot MVC](https://dev.to/ruturajj/understanding-spring-boot-mvc-2l99)
+- [ICC-CT Final Tech: How JioCinema &amp; Hotstar Handled Millions of Viewers](https://dev.to/raajaryan/icc-ct-final-tech-how-jiocinema-hotstar-handled-millions-of-viewers-58b8)
+- [Corner-only border around an image](https://dev.to/preetha_vaishnavi_2b82358/corner-only-border-around-an-image-3ghg)
+- [Building Wealth as a Young Developer: How I Used Digital Marketing &amp; Mindset to Achieve Success](https://dev.to/wealthbuilder/building-wealth-as-a-young-developer-how-i-used-digital-marketing-mindset-to-achieve-success-28g9)
+- [Magic Dust Redux: Shaders Are King - move/swipe to create magic dust, click/tap to warp](https://dev.to/preetha_vaishnavi_2b82358/magic-dust-redux-shaders-are-king-moveswipe-to-create-magic-dust-clicktap-to-warp-1jc2)
 <!-- BLOG-POST-LIST:END -->
 
