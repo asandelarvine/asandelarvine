@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Stack Behind My Side Projects &lpar;And Why I Stick to It&rpar;](https://dev.to/geiger01/the-tech-stack-behind-my-side-projects-and-why-i-stick-to-it-2bh9)
-- [[Boost]](https://dev.to/manojlingala/-3a0g)
-- [Orchestrating Financial Transactions with AWS Step Functions](https://dev.to/aws-builders/orchestrating-financial-transactions-with-aws-step-functions-3ilk)
-- [Members](https://dev.to/firdavs_mukhsimov_9f62550/members-4nng)
+- [What is Dynamically Linked Library](https://dev.to/selfish_dev/what-is-dynamically-linked-library-1e33)
+- [Coding Against the Odds: A Story of Growth](https://dev.to/mrinmoycty/coding-against-the-odds-a-story-of-growth-43a0)
+- [Git tips and tricks I use every day](https://dev.to/markhesketh/git-tips-and-tricks-i-use-every-day-ibc)
+- [Alertmanager with Telegram for Prometheus-Stack in K8S](https://dev.to/alimehr75/alertmanager-with-telegram-for-prometheus-stack-in-k8s-2n5p)
 <!-- BLOG-POST-LIST:END -->
 
