@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Recommendation Engines at Scale](https://dev.to/kartikmehta8/building-ai-powered-recommendation-engines-at-scale-3ghl)
-- [Product-Based vs. Service-Based Companies: Key Differences and Examples](https://dev.to/tene/product-based-vs-service-based-companies-key-differences-and-examples-3hg0)
-- [[Boost]](https://dev.to/dream_life_f3f4a537a11874/-2m73)
-- [How to use pgpainless-core](https://dev.to/wennan_xu/how-to-use-pgpainless-core-2amn)
+- [Why You Need SOLID as a Developer](https://dev.to/peixotons/why-you-need-solid-as-a-developer-1fp5)
+- [🚀 How to Apply Think and Grow Rich Principles for Success in Development &amp; Tech 🚀](https://dev.to/wealthbuilder/how-to-apply-think-and-grow-rich-principles-for-success-in-development-tech-3nc4)
+- [This is my submission for the wecoded challenge. I use the html, css, ja, jquery, bootstrap and forem api to fetch the articles from dev.to wecoded tag](https://dev.to/hanzla-baig/this-is-my-submission-for-the-wecoded-challenge-i-use-the-html-css-ja-jquery-bootstrap-and-3abj)
+- [My submission for the web coded challenge wecoded-dev.github.io](https://dev.to/hanzla-baig/my-submission-for-the-web-coded-challenge-wecoded-devgithubio-41oe)
 <!-- BLOG-POST-LIST:END -->
 
