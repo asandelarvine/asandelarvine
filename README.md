@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing My New Project Tarin, A TypeScript Backend Library For API Development](https://dev.to/abdelfetah/introducing-my-new-project-tarin-a-typescript-backend-library-for-api-development-506n)
-- [10 Essential Linux Commands Every Beginner Should Know: Your Path to Linux Mastery](https://dev.to/faelperetta/10-essential-linux-commands-every-beginner-should-know-your-path-to-linux-mastery-35ol)
-- [Deepfake Video: A Developer’s Guide to Innovation and Detection](https://dev.to/neural_defend/deepfake-video-a-developers-guide-to-innovation-and-detection-30fe)
-- [The Brains Behind the Wheel: A Deep Dive into the Types of Computers Powering Modern Cars](https://dev.to/kumar_kusumitsharma_b190/title-the-brains-behind-the-wheel-a-deep-dive-into-the-types-of-computers-powering-modern-cars-jik)
+- [📢 Blogs Start 🚀](https://dev.to/tibcsoszalontai/blogs-start-nc5)
+- [Godoc-Lint: a linter for Go Doc Comments &lpar;godocs&rpar; [RE#16]](https://dev.to/babakks/godoc-lint-a-linter-for-go-doc-comments-godocs-re16-1elh)
+- [The Easiest Way To Use Https In Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-3mgh)
+- [Understanding Spring Boot MVC](https://dev.to/ruturajj/understanding-spring-boot-mvc-2l99)
 <!-- BLOG-POST-LIST:END -->
 
