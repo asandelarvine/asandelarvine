@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Root vs. Non-Root Users, Docker, and Fixing ECR Authentication Issues](https://dev.to/lamsiddharth/understanding-root-vs-non-root-users-docker-and-fixing-ecr-authentication-issues-8jh)
-- [The Future of AI Agents in Web3 – Privacy, Blockchain &amp; Decentralized Computing](https://dev.to/rollingindo/the-future-of-ai-agents-in-web3-privacy-blockchain-decentralized-computing-5f77)
-- [Improving Japanese Input UX in Multilingual Applications: Properly Handling IME Conversion](https://dev.to/s4yuba/improving-japanese-input-ux-in-multilingual-applications-properly-handling-ime-conversion-2ild)
-- [Improving Software Development, One Tiny Kaizen Step at a Time](https://dev.to/makowskid/improving-software-development-one-tiny-kaizen-step-at-a-time-35oa)
+- [The Tech Stack Behind My Side Projects &lpar;And Why I Stick to It&rpar;](https://dev.to/geiger01/the-tech-stack-behind-my-side-projects-and-why-i-stick-to-it-2bh9)
+- [[Boost]](https://dev.to/manojlingala/-3a0g)
+- [Orchestrating Financial Transactions with AWS Step Functions](https://dev.to/aws-builders/orchestrating-financial-transactions-with-aws-step-functions-3ilk)
+- [Members](https://dev.to/firdavs_mukhsimov_9f62550/members-4nng)
 <!-- BLOG-POST-LIST:END -->
 
