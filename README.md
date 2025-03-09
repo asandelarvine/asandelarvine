@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering OAuth 2.0: Step by Step](https://dev.to/leapcell/mastering-oauth-20-step-by-step-2726)
-- [[Boost]](https://dev.to/shidhincr/-1a3b)
-- [Formik &amp; React &lpar;Part 3&rpar;: Validation with yup &amp; Streamlining Code](https://dev.to/tuneshman/formik-react-part-3-validation-with-yup-streamlining-code-3a28)
-- [Core Web Vitals](https://dev.to/shidhincr/-4998)
+- [Introducing My New Project Tarin, A TypeScript Backend Library For API Development](https://dev.to/abdelfetah/introducing-my-new-project-tarin-a-typescript-backend-library-for-api-development-506n)
+- [10 Essential Linux Commands Every Beginner Should Know: Your Path to Linux Mastery](https://dev.to/faelperetta/10-essential-linux-commands-every-beginner-should-know-your-path-to-linux-mastery-35ol)
+- [Deepfake Video: A Developer’s Guide to Innovation and Detection](https://dev.to/neural_defend/deepfake-video-a-developers-guide-to-innovation-and-detection-30fe)
+- [The Brains Behind the Wheel: A Deep Dive into the Types of Computers Powering Modern Cars](https://dev.to/kumar_kusumitsharma_b190/title-the-brains-behind-the-wheel-a-deep-dive-into-the-types-of-computers-powering-modern-cars-jik)
 <!-- BLOG-POST-LIST:END -->
 
