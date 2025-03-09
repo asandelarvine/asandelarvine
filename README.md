@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Serverless: CloudWatch Live Tail for Lambda in VS Code](https://dev.to/bhatiagirish/aws-serverless-cloudwatch-live-tail-for-lambda-in-vs-code-1d4b)
-- [How to get a gene sequence from entrez using biopython?](https://dev.to/lisw05/how-to-get-a-gene-sequence-from-entrez-using-biopython-1c56)
-- [What Are the Most Common Sql Interview Questions for Beginners and How to Prepare for Them?](https://dev.to/anna_golubkova/what-are-the-most-common-sql-interview-questions-for-beginners-and-how-to-prepare-for-them-1hj9)
-- [Open-Source ETL to prepare data for RAG 🦀 🐍](https://dev.to/badmonster0/open-source-etl-to-prepare-data-for-rag-2le3)
+- [Building an open-source community at HOTOSM: a thank you](https://dev.to/spwoodcock/building-an-open-source-community-at-hotosm-a-thank-you-41f)
+- [Deploying Your Own AI on a Website in Just 15 Minutes? Yes, It’s Possible!](https://dev.to/hell0_fri3nd/deploying-your-own-ai-on-a-website-in-just-15-minutes-yes-its-possible-1j9)
+- [The Ultimate Guide to Deploying a Node.js Express MongoDB Backend on Vercel](https://dev.to/pwnkdm/the-ultimate-guide-to-deploying-a-nodejs-express-mongodb-backend-on-vercel-lia)
+- [A bad advice by juniors who think they are seniors](https://dev.to/pooyan/a-bad-advice-by-juniors-who-think-they-are-seniors-3ddc)
 <!-- BLOG-POST-LIST:END -->
 
