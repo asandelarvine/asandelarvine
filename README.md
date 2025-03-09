@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Need SOLID as a Developer](https://dev.to/peixotons/why-you-need-solid-as-a-developer-1fp5)
-- [🚀 How to Apply Think and Grow Rich Principles for Success in Development &amp; Tech 🚀](https://dev.to/wealthbuilder/how-to-apply-think-and-grow-rich-principles-for-success-in-development-tech-3nc4)
-- [This is my submission for the wecoded challenge. I use the html, css, ja, jquery, bootstrap and forem api to fetch the articles from dev.to wecoded tag](https://dev.to/hanzla-baig/this-is-my-submission-for-the-wecoded-challenge-i-use-the-html-css-ja-jquery-bootstrap-and-3abj)
-- [My submission for the web coded challenge wecoded-dev.github.io](https://dev.to/hanzla-baig/my-submission-for-the-web-coded-challenge-wecoded-devgithubio-41oe)
+- [AWS Serverless: CloudWatch Live Tail for Lambda in VS Code](https://dev.to/bhatiagirish/aws-serverless-cloudwatch-live-tail-for-lambda-in-vs-code-1d4b)
+- [How to get a gene sequence from entrez using biopython?](https://dev.to/lisw05/how-to-get-a-gene-sequence-from-entrez-using-biopython-1c56)
+- [What Are the Most Common Sql Interview Questions for Beginners and How to Prepare for Them?](https://dev.to/anna_golubkova/what-are-the-most-common-sql-interview-questions-for-beginners-and-how-to-prepare-for-them-1hj9)
+- [Open-Source ETL to prepare data for RAG 🦀 🐍](https://dev.to/badmonster0/open-source-etl-to-prepare-data-for-rag-2le3)
 <!-- BLOG-POST-LIST:END -->
 
