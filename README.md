@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JUNIOR DEVELOPER JOURNEY](https://dev.to/elijah_ntan_740be735cb580/junior-developer-journey-4hgg)
-- [AWS GuardDuty vs. Inspector vs. Shield, What’s the Difference?](https://dev.to/simimwanza/aws-guardduty-vs-inspector-vs-shield-whats-the-difference-15id)
-- [Building the Future: How Web3 is Revolutionizing the Internet](https://dev.to/raji_moshood_ee3a4c2638f6/building-the-future-how-web3-is-revolutionizing-the-internet-2e81)
-- [AI Agent Chaos? Motia Hands You the Reins, Pronto](https://dev.to/mike_piccolo_51a85f7187e6/ai-agent-chaos-motia-hands-you-the-reins-pronto-jp1)
+- [Minecraft Game Server Hosting](https://dev.to/dare81/minecraft-game-server-hosting-16pl)
+- [could please you help me with c?](https://dev.to/far_han_23e5b3f6693104fcf/could-you-help-me-with-c-4com)
+- [Why I’m Learning C# and .NET After Two Decades of Programming](https://dev.to/kerricklong/why-im-learning-c-and-net-after-two-decades-of-programming-32nk)
+- [Spring Framework Ecosystem](https://dev.to/amdose/spring-framework-ecosystem-pbo)
 <!-- BLOG-POST-LIST:END -->
 
