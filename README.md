@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend interview question — Parallel task limit](https://dev.to/moniv9/frontend-interview-question-parallel-task-limit-118o)
-- [I made MCP &lpar;Model Context Protocol&rpar; alternative solution, for OpenAI and all other LLMs, that is cheaper than Anthropic Claude](https://dev.to/samchon/i-made-mcp-model-context-protocol-alternative-solution-for-openai-and-all-other-llms-that-is-i7f)
-- [5 commonly asked frontend interview questions in product-based companies](https://dev.to/moniv9/5-commonly-asked-frontend-interview-questions-in-product-based-companies-l2b)
-- [Professional Cloud Security Engineer Certification exam preparation 2025](https://dev.to/huydanggdg/professional-cloud-security-engineer-certification-exam-preparation-2025-4m9p)
+- [How to Hide Header and Footer Using JavaScript](https://dev.to/adopt_mevalues_5add47e85/how-to-hide-header-and-footer-using-javascript-4pe6)
+- [Manus: My New AI Sidekick That’s Taking Over &lpar;In a Good Way!&rpar;](https://dev.to/aniruddhaadak/manus-my-new-ai-sidekick-thats-taking-over-in-a-good-way-22o2)
+- [K8S Architecture simplified](https://dev.to/anil_kumar_ff4f6ad3549983/k8s-architecture-simplified-5g73)
+- [Processing 1 Million Records in Node.js and MySQL Efficiently](https://dev.to/pawandeore/processing-1-million-records-in-nodejs-and-mysql-efficiently-ca2)
 <!-- BLOG-POST-LIST:END -->
 
