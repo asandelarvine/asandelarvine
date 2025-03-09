@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling &amp; Exceptions in Python](https://dev.to/godofgeeks/error-handling-exceptions-in-python-n0k)
-- [DeepSeek 3FS: A High-Performance Distributed File System for Modern Workloads](https://dev.to/sf_1997/deepseek-3fs-a-high-performance-distributed-file-system-for-modern-workloads-5998)
-- [How To Use Google Fonts In React JS With Tailwind CSS](https://dev.to/theudemezue/how-to-use-google-fonts-in-react-js-with-tailwind-css-2249)
-- [Groundbreaking Study Reveals Why Two-Stage AI Training Works Better Than Direct Optimization](https://dev.to/mikeyoung44/groundbreaking-study-reveals-why-two-stage-ai-training-works-better-than-direct-optimization-3g0m)
+- [Understanding Lynx Core Elements](https://dev.to/iarchitsharma/understanding-lynx-core-elements-2jod)
+- [Understanding JavaScript Prototypes and Classes](https://dev.to/beatrisilieva/understanding-javascript-prototypes-and-classes-3537)
+- [🌟 The Ultimate Guide to DevOps: Unlocking Speed, Efficiency, and Innovation &lpar;With a Dash of Fun!&rpar;](https://dev.to/robinrai2612/the-ultimate-guide-to-devops-unlocking-speed-efficiency-and-innovation-with-a-dash-of-fun-c1k)
+- [OAuth vs JWT: Which One Secures Your APIs Better?](https://dev.to/raajaryan/oauth-vs-jwt-which-one-secures-your-apis-better-3c35)
 <!-- BLOG-POST-LIST:END -->
 
