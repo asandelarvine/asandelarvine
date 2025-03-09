@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Developer&#39;s Survival Kit: Essential Tools, and Resources](https://dev.to/0x3d_site/javascript-developers-survival-kit-essential-tools-and-resources-34a2)
-- [Building a Music Showcase for My Portfolio: A Developer&#39;s Journey](https://dev.to/akshay_gupta/building-a-music-showcase-for-my-portfolio-a-developers-journey-4adl)
-- [LetsDefend SIEM Alert: Phishing Mail Detected - Internal to Internal - EventID: 52](https://dev.to/binarybastion/letsdefend-siem-alert-phishing-mail-detected-internal-to-internal-eventid-52-567e)
-- [AI in cybersecurity?](https://dev.to/jabran_mustafa_cf7667f97a/ai-in-cybersecurity-2pac)
+- [Learning JS frameworks with me&lpar;Part 1&rpar; 😎: JQuery](https://dev.to/shaman_shetty/learning-js-frameworks-with-mepart-1-jquery-36p3)
+- [TikTok&#39;s new React Native killer, TypeScript 5.8, latest JavaScript usage stats, and more](https://dev.to/thisweekinjavascript/tiktoks-new-react-native-killer-typescript-58-latest-javascript-usage-stats-and-more-1jl3)
+- [Why Redis is a Game-Changer for High-Performance Applications](https://dev.to/prathvihan108/why-redis-is-a-game-changer-for-high-performance-applications-aj)
+- [Set Up Python in VS Code—Fast, Easy &amp; Beginner-Friendly!](https://dev.to/mahrukh_adeel/set-up-python-in-vs-code-fast-easy-beginner-friendly-172f)
 <!-- BLOG-POST-LIST:END -->
 
