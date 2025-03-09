@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hide Header and Footer Using JavaScript](https://dev.to/adopt_mevalues_5add47e85/how-to-hide-header-and-footer-using-javascript-4pe6)
-- [Manus: My New AI Sidekick That’s Taking Over &lpar;In a Good Way!&rpar;](https://dev.to/aniruddhaadak/manus-my-new-ai-sidekick-thats-taking-over-in-a-good-way-22o2)
-- [K8S Architecture simplified](https://dev.to/anil_kumar_ff4f6ad3549983/k8s-architecture-simplified-5g73)
-- [Processing 1 Million Records in Node.js and MySQL Efficiently](https://dev.to/pawandeore/processing-1-million-records-in-nodejs-and-mysql-efficiently-ca2)
+- [Error Handling &amp; Exceptions in Python](https://dev.to/godofgeeks/error-handling-exceptions-in-python-n0k)
+- [DeepSeek 3FS: A High-Performance Distributed File System for Modern Workloads](https://dev.to/sf_1997/deepseek-3fs-a-high-performance-distributed-file-system-for-modern-workloads-5998)
+- [How To Use Google Fonts In React JS With Tailwind CSS](https://dev.to/theudemezue/how-to-use-google-fonts-in-react-js-with-tailwind-css-2249)
+- [Groundbreaking Study Reveals Why Two-Stage AI Training Works Better Than Direct Optimization](https://dev.to/mikeyoung44/groundbreaking-study-reveals-why-two-stage-ai-training-works-better-than-direct-optimization-3g0m)
 <!-- BLOG-POST-LIST:END -->
 
