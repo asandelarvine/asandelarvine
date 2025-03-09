@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript prototype inheritance vs classes](https://dev.to/beatrisilieva/javascript-prototype-inheritance-vs-classes-3lh7)
-- [My Experience as a fullstack intern](https://dev.to/mb007/my-experience-as-a-fullstack-intern-1g2j)
-- [Sorting Algorithms #2: Insertion Sort](https://dev.to/tkouleris/sorting-algorithms-2-insertion-sort-370k)
-- [Vercel deployment error..Vercel deployment error for portfolio project using parcel....Fixxxxx 🚨🚨](https://dev.to/tarun_behera007/vercel-deployment-errorvercel-deployment-error-for-portfolio-project-using-parcelfixxxxx-cg1)
+- [Understanding Root vs. Non-Root Users, Docker, and Fixing ECR Authentication Issues](https://dev.to/lamsiddharth/understanding-root-vs-non-root-users-docker-and-fixing-ecr-authentication-issues-8jh)
+- [The Future of AI Agents in Web3 – Privacy, Blockchain &amp; Decentralized Computing](https://dev.to/rollingindo/the-future-of-ai-agents-in-web3-privacy-blockchain-decentralized-computing-5f77)
+- [Improving Japanese Input UX in Multilingual Applications: Properly Handling IME Conversion](https://dev.to/s4yuba/improving-japanese-input-ux-in-multilingual-applications-properly-handling-ime-conversion-2ild)
+- [Improving Software Development, One Tiny Kaizen Step at a Time](https://dev.to/makowskid/improving-software-development-one-tiny-kaizen-step-at-a-time-35oa)
 <!-- BLOG-POST-LIST:END -->
 
