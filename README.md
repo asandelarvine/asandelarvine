@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Routine for Work, Training &amp; Travel – Get Things Done &amp; Enjoy It All](https://dev.to/per-starke-642/my-routine-for-work-training-travel-get-things-done-enjoy-it-all-1gji)
 - [Understanding Lynx Core Elements](https://dev.to/iarchitsharma/understanding-lynx-core-elements-2jod)
 - [Understanding JavaScript Prototypes and Classes](https://dev.to/beatrisilieva/understanding-javascript-prototypes-and-classes-3537)
 - [🌟 The Ultimate Guide to DevOps: Unlocking Speed, Efficiency, and Innovation &lpar;With a Dash of Fun!&rpar;](https://dev.to/robinrai2612/the-ultimate-guide-to-devops-unlocking-speed-efficiency-and-innovation-with-a-dash-of-fun-c1k)
-- [OAuth vs JWT: Which One Secures Your APIs Better?](https://dev.to/raajaryan/oauth-vs-jwt-which-one-secures-your-apis-better-3c35)
 <!-- BLOG-POST-LIST:END -->
 
