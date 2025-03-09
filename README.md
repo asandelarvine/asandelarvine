@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CodePen&#39;s 2019](https://dev.to/reham_mohamed_6d5b8db5a0c/codepens-2019-3kmd)
-- [Script Template in vim](https://dev.to/alimehr75/script-template-in-vim-2cjl)
-- [Criando um aplicativo de segurança para mulheres: precisamos de programadores para transformar essa ideia em realidade&quot;](https://dev.to/fufik_emportugues_c06738/criando-um-aplicativo-de-seguranca-para-mulheres-precisamos-de-programadores-para-transformar-essa-3d1f)
-- [Code Explanation: &quot;STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking&quot;](https://dev.to/foxgem/code-explanation-storm-synthesis-of-topic-outlines-through-retrieval-and-multi-perspective-26bi)
+- [Building AI-Powered Recommendation Engines at Scale](https://dev.to/kartikmehta8/building-ai-powered-recommendation-engines-at-scale-3ghl)
+- [Product-Based vs. Service-Based Companies: Key Differences and Examples](https://dev.to/tene/product-based-vs-service-based-companies-key-differences-and-examples-3hg0)
+- [[Boost]](https://dev.to/dream_life_f3f4a537a11874/-2m73)
+- [How to use pgpainless-core](https://dev.to/wennan_xu/how-to-use-pgpainless-core-2amn)
 <!-- BLOG-POST-LIST:END -->
 
