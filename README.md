@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boostez votre productivité avec les hooks Git ! 🚀](https://dev.to/herebuggedout/boostez-votre-productivite-avec-les-hooks-git--fka)
-- [busco una api de algun modelo que sea gratis de uso que me permita integrarlo en un aplicación para que analice datos y genere un pronostico en funcion de los datos que le suministro ?](https://dev.to/yulian_workspace_e22b277f/busco-una-api-de-algun-modelo-que-sea-gratis-de-uso-que-me-permita-integrarlo-en-un-aplicacion-para-20h0)
-- [Fast vs. Slow Thinking: Designing UX for Both Brains](https://dev.to/rijultp/fast-vs-slow-thinking-designing-ux-for-both-brains-31gg)
-- [The easiest way to use HTTPS in Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-1eba)
+- [CSS FlexBox: Diseño avanzado desde cero](https://dev.to/johnserranodev/css-flexbox-diseno-avanzado-desde-cero-5ckm)
+- [What Are the Best Practices for Integrating Vue.js with a Laravel Backend?](https://dev.to/cristianalex_17/what-are-the-best-practices-for-integrating-vuejs-with-a-laravel-backend-54f6)
+- [Revolutionizing Sound: Top AI Tools for Voice and Audio Processing](https://dev.to/john-adams-ka/revolutionizing-sound-top-ai-tools-for-voice-and-audio-processing-475k)
+- [Azure Applied Skills: Attaching a Data Disk to a Virtual Machine](https://dev.to/johnogbonna/azure-applied-skills-attaching-a-data-disk-to-a-virtual-machine-i03)
 <!-- BLOG-POST-LIST:END -->
 
