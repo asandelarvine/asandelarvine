@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an open-source community at HOTOSM: a thank you](https://dev.to/spwoodcock/building-an-open-source-community-at-hotosm-a-thank-you-41f)
-- [Deploying Your Own AI on a Website in Just 15 Minutes? Yes, It’s Possible!](https://dev.to/hell0_fri3nd/deploying-your-own-ai-on-a-website-in-just-15-minutes-yes-its-possible-1j9)
-- [The Ultimate Guide to Deploying a Node.js Express MongoDB Backend on Vercel](https://dev.to/pwnkdm/the-ultimate-guide-to-deploying-a-nodejs-express-mongodb-backend-on-vercel-lia)
-- [A bad advice by juniors who think they are seniors](https://dev.to/pooyan/a-bad-advice-by-juniors-who-think-they-are-seniors-3ddc)
+- [Frontend interview question — Parallel task limit](https://dev.to/moniv9/frontend-interview-question-parallel-task-limit-118o)
+- [I made MCP &lpar;Model Context Protocol&rpar; alternative solution, for OpenAI and all other LLMs, that is cheaper than Anthropic Claude](https://dev.to/samchon/i-made-mcp-model-context-protocol-alternative-solution-for-openai-and-all-other-llms-that-is-i7f)
+- [5 commonly asked frontend interview questions in product-based companies](https://dev.to/moniv9/5-commonly-asked-frontend-interview-questions-in-product-based-companies-l2b)
+- [Professional Cloud Security Engineer Certification exam preparation 2025](https://dev.to/huydanggdg/professional-cloud-security-engineer-certification-exam-preparation-2025-4m9p)
 <!-- BLOG-POST-LIST:END -->
 
