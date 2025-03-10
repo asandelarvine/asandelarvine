@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft Game Server Hosting](https://dev.to/dare81/minecraft-game-server-hosting-16pl)
-- [could please you help me with c?](https://dev.to/far_han_23e5b3f6693104fcf/could-you-help-me-with-c-4com)
-- [Why I’m Learning C# and .NET After Two Decades of Programming](https://dev.to/kerricklong/why-im-learning-c-and-net-after-two-decades-of-programming-32nk)
-- [Spring Framework Ecosystem](https://dev.to/amdose/spring-framework-ecosystem-pbo)
+- [How to Create and Manage Computed Observables in Knockout.js?](https://dev.to/jordankeurope/how-to-create-and-manage-computed-observables-in-knockoutjs-1jj7)
+- [AWS EventBridge Transforms: Making Alerts Readable](https://dev.to/aws-builders/aws-eventbridge-transforms-making-alerts-readable-1pb5)
+- [Empowering Developers to Achieve Microservices Observability on Kubernetes with Tracestore, OPA, Flagger &amp; Custom Metrics](https://dev.to/prabhu_chinnasamy_086fba6/empowering-developers-to-achieve-microservices-observability-on-kubernetes-with-tracestore-opa-4mba)
+- [Automating GitHub Code Check-Ins: A Bash Script Approach](https://dev.to/sebos/automating-github-code-check-ins-a-bash-script-approach-26if)
 <!-- BLOG-POST-LIST:END -->
 
