@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating PostgreSQL - Views](https://dev.to/aditya999123/navigating-postgresql-views-4nlj)
-- [If You Enjoy Coding, Think Twice About Joining the Management Track](https://dev.to/canro91/if-you-enjoy-coding-think-twice-about-joining-the-management-track-2ljl)
-- [What is happening today,are we good to go?](https://dev.to/daneric399800/what-is-happening-todayare-we-good-to-go-979)
-- [What I can do ?](https://dev.to/dqva05/what-i-can-do--3joc)
+- [🚀 Tailwind Without Components? You’re Doing It Wrong!](https://dev.to/dct_technologyprivatelimited/tailwind-without-components-youre-doing-it-wrong-k91)
+- [Lynx Framework: A Powerful Tool for Modern Cross-Platform Framework](https://dev.to/gimkelum/lynx-framework-a-powerful-tool-for-modern-cross-platform-framework-2481)
+- [Srvra-Sync: Modern Frontend Framework for Web Development](https://dev.to/sign/srvra-sync-modern-frontend-framework-for-web-development-23h)
+- [How to Measure Video Quality Effectively: Expert Insights and Best Practices](https://dev.to/grjoeay/how-to-measure-video-quality-effectively-expert-insights-and-best-practices-44cm)
 <!-- BLOG-POST-LIST:END -->
 
