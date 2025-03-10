@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Manual Testing](https://dev.to/prathibha_vigneswaran_2c4/common-manual-testing-3j4n)
-- [MCP &lpar;Model Context Protocol&rpar; for Dummies 🫣](https://dev.to/davidteren/mcp-model-context-protocol-for-dummies-2ipj)
-- [RunAs-Stealer](https://dev.to/darkspace/runas-stealer-479m)
-- [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
+- [Chaos Mesh: O que é e faz?](https://dev.to/rafaelbonilha/chaos-mesh-o-que-e-e-faz-4p50)
+- [Hugging Face Tutorial - All You Need to Know!](https://dev.to/proflead/hugging-face-tutorial-all-you-need-to-know-cf8)
+- [Automating GitBook translations with GitHub Actions: A complete guide](https://dev.to/365talents/automating-gitbook-translations-with-github-actions-a-complete-guide-3maf)
+- [Hugging Face for AI Enthusiasts: A Comprehensive Walkthrough!](https://dev.to/proflead/hugging-face-for-ai-enthusiasts-a-comprehensive-walkthrough-11dd)
 <!-- BLOG-POST-LIST:END -->
 
