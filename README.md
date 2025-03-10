@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Mesh: O que é e faz?](https://dev.to/rafaelbonilha/chaos-mesh-o-que-e-e-faz-4p50)
-- [Hugging Face Tutorial - All You Need to Know!](https://dev.to/proflead/hugging-face-tutorial-all-you-need-to-know-cf8)
-- [Automating GitBook translations with GitHub Actions: A complete guide](https://dev.to/365talents/automating-gitbook-translations-with-github-actions-a-complete-guide-3maf)
-- [Hugging Face for AI Enthusiasts: A Comprehensive Walkthrough!](https://dev.to/proflead/hugging-face-for-ai-enthusiasts-a-comprehensive-walkthrough-11dd)
+- [𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗩𝗲𝗰𝘁𝗼𝗿 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: 𝗧𝗵𝗲 𝗕𝗮𝗰𝗸𝗯𝗼𝗻𝗲 𝗼𝗳 𝗥𝗔𝗚 𝗥𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹](https://dev.to/shaheryaryousaf/-8i6)
+- [Brain.fm: A Deep Dive into the Hype, the Hiccups, and Helpful Alternatives](https://dev.to/aigurux/brainfm-a-deep-dive-into-the-hype-the-hiccups-and-helpful-alternatives-4f61)
+- [How I Accidentally Found Myself Rewriting Laravel &lpar;Just to Fix Laravel Modules 😅&rpar;](https://dev.to/hichemtab-tech/how-i-accidentally-found-myself-rewriting-laravel-just-to-fix-laravel-modules--44k0)
+- [Building Scalable Microservices with Apache Kafka, django, docker and Keycloak,](https://dev.to/mutuwa99/building-scalable-microservices-with-apache-kafka-django-docker-and-keycloak-25fd)
 <!-- BLOG-POST-LIST:END -->
 
