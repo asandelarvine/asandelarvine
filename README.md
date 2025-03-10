@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Memory-Efficient Go Coding Techniques For Better GC Performance](https://dev.to/devdevgo/8-memory-efficient-go-coding-techniques-for-better-gc-performance-3hb4)
-- [What&#39;s in my Fridge](https://dev.to/aaryan_tahir_6c3500b9021a/whats-in-my-fridge-28na)
-- [What Is the Formula for Momentum Calculation in 2025?](https://dev.to/puratabla/what-is-the-formula-for-momentum-calculation-in-2025-2kfo)
-- [Achieving Zero Downtime Deployment with YARP: Blue-Green and Canary Strategies](https://dev.to/leandroveiga/achieving-zero-downtime-deployment-with-yarp-blue-green-and-canary-strategies-ele)
+- [AI Has Broken the Web Developer Job Market w/ Kent C. Dodds](https://dev.to/mikehtmlallthethings/ai-has-broken-the-web-developer-job-market-w-kent-c-dodds-4mhp)
+- [How to Create a Reusable React + TypeScript Component &lpar;Simple and Clean&rpar;](https://dev.to/gunnarhalen/how-to-create-a-reusable-react-typescript-component-simple-and-clean-1ho6)
+- [PHP , MVC , POO](https://dev.to/carlos_enoccalzadavarga/php-mvc-poo-1bd1)
+- [Guard state transitions with proto methods](https://dev.to/bbkr/guard-state-transitions-with-proto-methods-3b1n)
 <!-- BLOG-POST-LIST:END -->
 
