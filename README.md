@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficiently Managing Telescope Entries with Laravel-Telescope-Flusher](https://dev.to/tegos/efficiently-managing-telescope-entries-with-laravel-telescope-flusher-484a)
-- [💻 6+ years of coding… and still learning!](https://dev.to/rachidrabou/6-years-of-coding-and-still-learning-771)
-- [🚀 Looking for a new challenge in tech &amp; education](https://dev.to/willyvaessen/looking-for-a-new-challenge-in-tech-education-4m34)
-- [How To Build An Interactive Quiz Project Using Vanilla JavaScript](https://dev.to/emmykolic/how-to-build-an-interactive-quiz-project-using-vanilla-javascript-jdh)
+- [Common Manual Testing](https://dev.to/prathibha_vigneswaran_2c4/common-manual-testing-3j4n)
+- [MCP &lpar;Model Context Protocol&rpar; for Dummies 🫣](https://dev.to/davidteren/mcp-model-context-protocol-for-dummies-2ipj)
+- [RunAs-Stealer](https://dev.to/darkspace/runas-stealer-479m)
+- [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
 <!-- BLOG-POST-LIST:END -->
 
