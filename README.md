@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 JavaScript Animation Libraries in 2025](https://dev.to/hadil/top-10-javascript-animation-libraries-in-2025-2ch5)
-- [Necessary Python Concepts](https://dev.to/vijayr00/necessary-python-concepts-5f5d)
-- [Enhancing Your Power Platform Maker Experience with Power CAT Tools](https://dev.to/balagmadhu/enhancing-your-power-platform-maker-experience-with-power-cat-tools-1a87)
-- [Lost in Transition: How to Downgrade to Tailwind CSS v3 in Next.js And React](https://dev.to/myogeshchavan97/lost-in-transition-how-to-downgrade-to-tailwind-css-v3-in-nextjs-and-react-9kl)
+- [TanStack Table - Quick Learning](https://dev.to/abeertech01/tanstack-table-quick-learning-352p)
+- [Automatically Generating TypeScript Types from Storyblok Components](https://dev.to/kshevitsky/automatically-generating-typescript-types-from-storyblok-components-28ee)
+- [Pulumi Gestalt 0.0.1 released](https://dev.to/andrzejressel/pulumi-gestalt-001-released-4i8m)
+- [Flutter Offline Data Storage: Exploring Differents Solutions](https://dev.to/7oby/flutter-offline-data-storage-exploring-differents-solutions-25ma)
 <!-- BLOG-POST-LIST:END -->
 
