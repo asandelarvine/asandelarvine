@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Database? A Beginner’s Guide to Storing and Organizing Data](https://dev.to/be11amer/what-is-a-database-a-beginners-guide-to-storing-and-organizing-data-4953)
-- [Creating a Math Game for Kids: The Story of MathCraft Builders](https://dev.to/thabiso_lencekgati_585ce/creating-a-math-game-for-kids-the-story-of-mathcraft-builders-3gh6)
-- [SSL Certificate for Internal Servers](https://dev.to/jgngo/ssl-certificate-for-internal-servers-l8j)
-- [Perl 🐪 Weekly #711 - Obfuscating Perl](https://dev.to/szabgab/perl-weekly-711-obfuscating-perl-369j)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-28b3)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-1c6i)
+- [The process of creating an effective Application Security Programme: Strategies, practices and tools for optimal results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-15oc)
+- [How AI is Transforming Banking and Financial Security](https://dev.to/neha_agarwal_f6a30cac6c57/how-ai-is-transforming-banking-and-financial-security-nk0)
 <!-- BLOG-POST-LIST:END -->
 
