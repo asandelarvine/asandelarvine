@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing CORS Issues in a Flask-React App](https://dev.to/westsidedev/fixing-cors-issues-in-a-flask-react-app-2ndj)
-- [The Ultimate Guide to Improving Data Scraping Efficiency](https://dev.to/98ip/the-ultimate-guide-to-improving-data-scraping-efficiency-4okd)
-- [Why Java Developers Should Choose Jakarta EE / Microprofile Framework](https://dev.to/theelitegentleman/why-java-developers-should-choose-jakarta-ee-microprofile-framework-2l2d)
-- [How to Build a Successful TikTok Matrix Account Strategy &lpar;Without Losing Your Mind&rpar;](https://dev.to/avaed/how-to-build-a-successful-tiktok-matrix-account-strategy-without-losing-your-mind-23in)
+- [Own your goal - Forge the path](https://dev.to/thejoernal/own-your-goal-forge-the-path-459)
+- [Merging Two Sorted Linked List in Java](https://dev.to/brianseo/merging-two-sorted-linked-list-in-java-292)
+- [How to Check if Email is Spam Online: Tools and Best Practices](https://dev.to/foxinfotech/how-to-check-if-email-is-spam-online-tools-and-best-practices-2n85)
+- [Building My first React Web Application – A Developer&#39;s Journey 🚀](https://dev.to/manishydv98/building-my-first-react-web-application-a-developers-journey-125l)
 <!-- BLOG-POST-LIST:END -->
 
