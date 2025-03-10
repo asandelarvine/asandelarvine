@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code #10 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-10-in-gleam-2da7)
-- [Organize seu LinkedIn estrategicamente e atraia recrutadores](https://dev.to/laryssa/organize-seu-linkedin-estrategicamente-para-atrair-recrutadores-kfo)
-- [Stateful / Stateless](https://dev.to/ibrahimsi/stateful-stateless-46fd)
-- [SPO600: Project Stage 1 - Basic GCC Pass](https://dev.to/amullagaliev/spo600-project-stage-1-basic-gcc-pass-51i8)
+- [Navigating PostgreSQL - Views](https://dev.to/aditya999123/navigating-postgresql-views-4nlj)
+- [If You Enjoy Coding, Think Twice About Joining the Management Track](https://dev.to/canro91/if-you-enjoy-coding-think-twice-about-joining-the-management-track-2ljl)
+- [What is happening today,are we good to go?](https://dev.to/daneric399800/what-is-happening-todayare-we-good-to-go-979)
+- [What I can do ?](https://dev.to/dqva05/what-i-can-do--3joc)
 <!-- BLOG-POST-LIST:END -->
 
