@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python is Slow? Try These 5 Mind-Blowing Tricks](https://dev.to/resource_bunk_1077cab07da/python-is-slow-try-these-5-mind-blowing-tricks-iab)
-- [Python Reverse Engineering: What Can You Crack in 2025?](https://dev.to/snappytuts/python-reverse-engineering-what-can-you-crack-in-2025-52ni)
-- [Why is Openmanus censored by Github? Any guess? Openmanus gains 7-8k Stars per day on Github, but I&#39;ve never seen it on Github Trending Page. I know, Github&#39;s Trending algorithm works different but it appears to be censored by Github. Is it replica issue?](https://dev.to/mehmetakar/why-is-openmanus-censored-by-github-any-guess-openmanus-gains-7-8k-stars-per-day-on-github-but-2kc2)
-- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
+- [8 Memory-Efficient Go Coding Techniques For Better GC Performance](https://dev.to/devdevgo/8-memory-efficient-go-coding-techniques-for-better-gc-performance-3hb4)
+- [What&#39;s in my Fridge](https://dev.to/aaryan_tahir_6c3500b9021a/whats-in-my-fridge-28na)
+- [What Is the Formula for Momentum Calculation in 2025?](https://dev.to/puratabla/what-is-the-formula-for-momentum-calculation-in-2025-2kfo)
+- [Achieving Zero Downtime Deployment with YARP: Blue-Green and Canary Strategies](https://dev.to/leandroveiga/achieving-zero-downtime-deployment-with-yarp-blue-green-and-canary-strategies-ele)
 <!-- BLOG-POST-LIST:END -->
 
