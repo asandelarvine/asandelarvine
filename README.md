@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Has Broken the Web Developer Job Market w/ Kent C. Dodds](https://dev.to/mikehtmlallthethings/ai-has-broken-the-web-developer-job-market-w-kent-c-dodds-4mhp)
-- [How to Create a Reusable React + TypeScript Component &lpar;Simple and Clean&rpar;](https://dev.to/gunnarhalen/how-to-create-a-reusable-react-typescript-component-simple-and-clean-1ho6)
-- [PHP , MVC , POO](https://dev.to/carlos_enoccalzadavarga/php-mvc-poo-1bd1)
-- [Guard state transitions with proto methods](https://dev.to/bbkr/guard-state-transitions-with-proto-methods-3b1n)
+- [What Makes the Hedera Java SDK a Game-Changer in Blockchain Development?](https://dev.to/vitalisorenko/what-makes-the-hedera-java-sdk-a-game-changer-in-blockchain-development-29e1)
+- [Quadratic Python roadmap: building a spreadsheet developers love](https://dev.to/quadratic/quadratic-python-roadmap-building-a-spreadsheet-developers-love-ogi)
+- [Exploring the Callisto Network Java SDK: Open Source Innovation Meets Blockchain](https://dev.to/rachellovestowrite/exploring-the-callisto-network-java-sdk-open-source-innovation-meets-blockchain-42ic)
+- [Exploring the MintMe.com Coin Java Client: Revolutionizing Blockchain Funding and Community Innovation](https://dev.to/ashucommits/exploring-the-mintmecom-coin-java-client-revolutionizing-blockchain-funding-and-community-20i7)
 <!-- BLOG-POST-LIST:END -->
 
