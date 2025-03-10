@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack Table - Quick Learning](https://dev.to/abeertech01/tanstack-table-quick-learning-352p)
-- [Automatically Generating TypeScript Types from Storyblok Components](https://dev.to/kshevitsky/automatically-generating-typescript-types-from-storyblok-components-28ee)
-- [Pulumi Gestalt 0.0.1 released](https://dev.to/andrzejressel/pulumi-gestalt-001-released-4i8m)
-- [Flutter Offline Data Storage: Exploring Differents Solutions](https://dev.to/7oby/flutter-offline-data-storage-exploring-differents-solutions-25ma)
+- [I&#39;ve learned things the hard way so you don&#39;t have to 👩🏻‍💻](https://dev.to/_arpy/ive-learned-things-the-hard-way-so-you-dont-have-to-3ceg)
+- [Maximizing Value and Minimizing Risk with Software Asset Lifecycle](https://dev.to/emily_assetloom/maximizing-value-and-minimizing-risk-with-software-asset-lifecycle-2od)
+- [VS Code Hidden Features 🎉](https://dev.to/ramkumar-m-n/vs-code-hidden-features-328g)
+- [The Rise of Quantum Computing and Its Impact on Cybersecurity](https://dev.to/devraj_more_5a115bafe8b0f/the-rise-of-quantum-computing-and-its-impact-on-cybersecurity-2eij)
 <!-- BLOG-POST-LIST:END -->
 
