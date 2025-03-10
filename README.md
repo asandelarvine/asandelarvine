@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Tailwind Without Components? You’re Doing It Wrong!](https://dev.to/dct_technologyprivatelimited/tailwind-without-components-youre-doing-it-wrong-k91)
-- [Lynx Framework: A Powerful Tool for Modern Cross-Platform Framework](https://dev.to/gimkelum/lynx-framework-a-powerful-tool-for-modern-cross-platform-framework-2481)
-- [Srvra-Sync: Modern Frontend Framework for Web Development](https://dev.to/sign/srvra-sync-modern-frontend-framework-for-web-development-23h)
-- [How to Measure Video Quality Effectively: Expert Insights and Best Practices](https://dev.to/grjoeay/how-to-measure-video-quality-effectively-expert-insights-and-best-practices-44cm)
+- [What is a Database? A Beginner’s Guide to Storing and Organizing Data](https://dev.to/be11amer/what-is-a-database-a-beginners-guide-to-storing-and-organizing-data-4953)
+- [Creating a Math Game for Kids: The Story of MathCraft Builders](https://dev.to/thabiso_lencekgati_585ce/creating-a-math-game-for-kids-the-story-of-mathcraft-builders-3gh6)
+- [SSL Certificate for Internal Servers](https://dev.to/jgngo/ssl-certificate-for-internal-servers-l8j)
+- [Perl 🐪 Weekly #711 - Obfuscating Perl](https://dev.to/szabgab/perl-weekly-711-obfuscating-perl-369j)
 <!-- BLOG-POST-LIST:END -->
 
