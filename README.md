@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Key Benefits of an HRIS System: Revolutionizing Human Resource Management](https://dev.to/tarunfulera1/8-key-benefits-of-an-hris-system-revolutionizing-human-resource-management-42gm)
-- [Letter to My Family: The Future Is Now 🚀](https://dev.to/kelvincode1234/letter-to-my-family-the-future-is-now-93i)
-- [How I Built a Physically Accurate Power Grid Simulator as a Solo Developer](https://dev.to/david_madethis_94a972e747/how-i-built-a-physically-accurate-power-grid-simulator-as-a-solo-developer-3p2g)
-- [Practical Topic For Web Developer](https://dev.to/kelvincode1234/practical-topic-for-web-developer-4fab)
+- [ADBD: binary size-reduced version](https://dev.to/mprog10/adbd-binary-size-reduced-version-1d60)
+- [I built Perplexity from scratch, but mine is better. | Tutorial](https://dev.to/abdibrokhim/i-built-perplexity-from-scratch-but-mine-better-11pj)
+- [QR Codes in the Philippines: Convenience or Cyberthreat?](https://dev.to/kakacomputer-media/qr-codes-in-the-philippines-convenience-or-cyberthreat-cf)
+- [Java Collections Framework: Classes and Interfaces Explained with Code Snippets](https://dev.to/devcorner/java-collections-framework-classes-and-interfaces-explained-with-code-snippets-a33)
 <!-- BLOG-POST-LIST:END -->
 
