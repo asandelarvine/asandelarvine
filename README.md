@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ADBD: binary size-reduced version](https://dev.to/mprog10/adbd-binary-size-reduced-version-1d60)
-- [I built Perplexity from scratch, but mine is better. | Tutorial](https://dev.to/abdibrokhim/i-built-perplexity-from-scratch-but-mine-better-11pj)
-- [QR Codes in the Philippines: Convenience or Cyberthreat?](https://dev.to/kakacomputer-media/qr-codes-in-the-philippines-convenience-or-cyberthreat-cf)
-- [Java Collections Framework: Classes and Interfaces Explained with Code Snippets](https://dev.to/devcorner/java-collections-framework-classes-and-interfaces-explained-with-code-snippets-a33)
+- [Python is Slow? Try These 5 Mind-Blowing Tricks](https://dev.to/resource_bunk_1077cab07da/python-is-slow-try-these-5-mind-blowing-tricks-iab)
+- [Python Reverse Engineering: What Can You Crack in 2025?](https://dev.to/snappytuts/python-reverse-engineering-what-can-you-crack-in-2025-52ni)
+- [Why is Openmanus censored by Github? Any guess? Openmanus gains 7-8k Stars per day on Github, but I&#39;ve never seen it on Github Trending Page. I know, Github&#39;s Trending algorithm works different but it appears to be censored by Github. Is it replica issue?](https://dev.to/mehmetakar/why-is-openmanus-censored-by-github-any-guess-openmanus-gains-7-8k-stars-per-day-on-github-but-2kc2)
+- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
 <!-- BLOG-POST-LIST:END -->
 
