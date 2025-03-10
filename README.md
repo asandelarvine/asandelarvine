@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Own your goal - Forge the path](https://dev.to/thejoernal/own-your-goal-forge-the-path-459)
-- [Merging Two Sorted Linked List in Java](https://dev.to/brianseo/merging-two-sorted-linked-list-in-java-292)
-- [How to Check if Email is Spam Online: Tools and Best Practices](https://dev.to/foxinfotech/how-to-check-if-email-is-spam-online-tools-and-best-practices-2n85)
-- [Building My first React Web Application – A Developer&#39;s Journey 🚀](https://dev.to/manishydv98/building-my-first-react-web-application-a-developers-journey-125l)
+- [Advent of Code #10 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-10-in-gleam-2da7)
+- [Organize seu LinkedIn estrategicamente e atraia recrutadores](https://dev.to/laryssa/organize-seu-linkedin-estrategicamente-para-atrair-recrutadores-kfo)
+- [Stateful / Stateless](https://dev.to/ibrahimsi/stateful-stateless-46fd)
+- [SPO600: Project Stage 1 - Basic GCC Pass](https://dev.to/amullagaliev/spo600-project-stage-1-basic-gcc-pass-51i8)
 <!-- BLOG-POST-LIST:END -->
 
