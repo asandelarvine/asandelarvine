@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗩𝗲𝗰𝘁𝗼𝗿 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: 𝗧𝗵𝗲 𝗕𝗮𝗰𝗸𝗯𝗼𝗻𝗲 𝗼𝗳 𝗥𝗔𝗚 𝗥𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹](https://dev.to/shaheryaryousaf/-8i6)
-- [Brain.fm: A Deep Dive into the Hype, the Hiccups, and Helpful Alternatives](https://dev.to/aigurux/brainfm-a-deep-dive-into-the-hype-the-hiccups-and-helpful-alternatives-4f61)
-- [How I Accidentally Found Myself Rewriting Laravel &lpar;Just to Fix Laravel Modules 😅&rpar;](https://dev.to/hichemtab-tech/how-i-accidentally-found-myself-rewriting-laravel-just-to-fix-laravel-modules--44k0)
-- [Building Scalable Microservices with Apache Kafka, django, docker and Keycloak,](https://dev.to/mutuwa99/building-scalable-microservices-with-apache-kafka-django-docker-and-keycloak-25fd)
+- [8 Key Benefits of an HRIS System: Revolutionizing Human Resource Management](https://dev.to/tarunfulera1/8-key-benefits-of-an-hris-system-revolutionizing-human-resource-management-42gm)
+- [Letter to My Family: The Future Is Now 🚀](https://dev.to/kelvincode1234/letter-to-my-family-the-future-is-now-93i)
+- [How I Built a Physically Accurate Power Grid Simulator as a Solo Developer](https://dev.to/david_madethis_94a972e747/how-i-built-a-physically-accurate-power-grid-simulator-as-a-solo-developer-3p2g)
+- [Practical Topic For Web Developer](https://dev.to/kelvincode1234/practical-topic-for-web-developer-4fab)
 <!-- BLOG-POST-LIST:END -->
 
