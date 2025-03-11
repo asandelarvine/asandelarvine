@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[UA] Геттери і сеттери &lpar;JS&rpar;](https://dev.to/michail_novos/ua-giettieri-i-siettieri-js-4353)
-- [😵‍💫 JavaScript Promises: Avoiding Callback Hell](https://dev.to/artem_turlenko/mastering-javascript-promises-avoiding-callback-hell-2lm8)
-- [My Journey as a Freelance WordPress Developer](https://dev.to/robin-ivi/my-journey-as-a-freelance-wordpress-developer-4o84)
-- [My AWS Cloud Certification Was Expiring — Here’s How I Recertified It Through Gamification](https://dev.to/marcuscjh/my-aws-cloud-certification-was-expiring-heres-how-i-recertified-it-through-gamification-1j3)
+- [Building GRIQ: My First Big Backend Project](https://dev.to/sem22dev/building-griq-my-first-big-backend-project-2ehh)
+- [Chapter 6 HTML part one](https://dev.to/rossangus/nodejs-for-developers-course-chapter-6-html-part-one-8eo)
+- [&quot;Is my document a valid PDF?&quot;](https://dev.to/zubinajmera/is-my-document-a-valid-pdf-4pk9)
+- [🚀 Ultimate Git Cheatsheet: Your Go-To Guide for Version Control](https://dev.to/ersuman/ultimate-git-cheatsheet-your-go-to-guide-for-version-control-8e4)
 <!-- BLOG-POST-LIST:END -->
 
