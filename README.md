@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a RAG-Powered Research Paper Assistant](https://dev.to/shittu_olumide_/build-a-rag-powered-research-paper-assistant-3da1)
-- [Cypress Parallel Testing Made Easy: Step-by-Step Guide with Practical Code Examples](https://dev.to/asher_hartwell_f827d28b67/cypress-parallel-testing-made-easy-step-by-step-guide-with-practical-code-examples-5703)
-- [Kubernetes Is Just an API: Let’s See It on k3s Cluster, Running on AWS Spot Fleet](https://dev.to/mkdev/kubernetes-is-just-an-api-lets-see-it-on-k3s-cluster-running-on-aws-spot-fleet-543o)
-- [Unlocking Potential: Why Employee Engagement Matters](https://dev.to/ericitbk/unlocking-potential-why-employee-engagement-matters-4m45)
+- [Set Up a Web App in the Cloud using AWS and VsCode](https://dev.to/kenechukwu_okeke_cf4ed456/set-up-a-web-app-in-the-cloud-using-aws-and-vscode-3mfp)
+- [React vs Next.js: Which One to Choose?](https://dev.to/raajaryan/react-vs-nextjs-which-one-to-choose-p57)
+- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-30d5)
+- [PR Summarizer: Your GitHub Sidekick for Faster and Funnier Reviews! 🎉](https://dev.to/bansikah/pr-summarizer-your-github-sidekick-for-faster-and-funnier-reviews-1635)
 <!-- BLOG-POST-LIST:END -->
 
