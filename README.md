@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs. JavaScript: Differences and use cases for each](https://dev.to/logrocket/typescript-vs-javascript-differences-and-use-cases-for-each-3nkj)
-- [SVG essentials. Basic shapes and path](https://dev.to/jsha/svg-essentials-basic-shapes-and-path-24k2)
-- [Enhance Workflow Efficiency with AI: Tips for Employers](https://dev.to/emily_e832cc7d5902e1223ee/enhance-workflow-efficiency-with-ai-tips-for-employers-2b21)
-- [Unlocking AI’s potential: How to quickly set up a Cursor MCP Server](https://dev.to/apideck/unlocking-ais-potential-how-to-quickly-set-up-a-cursor-mcp-server-4bk1)
+- [&quot;SensorClean: IoT Automation in Meditation and Wellness Spaces Step by Step&quot;](https://dev.to/francis_lewwis_01dbf1609f/sensorclean-iot-automation-in-meditation-and-wellness-spaces-step-by-step-51km)
+- [ScribePal v1.2.0 - An Open Source Browser Extension for Private AI Chat Using Local Ollama Models](https://dev.to/code-forge-temple/scribepal-v120-an-open-source-browser-extension-for-private-ai-chat-using-local-ollama-models-2omf)
+- [IT Admin - Tamil](https://dev.to/diveyalan/it-admin-tamil-4hn)
+- [Migrating to TanStack Query v5](https://dev.to/tsudhishnair/migrating-to-tanstack-query-v5-17e1)
 <!-- BLOG-POST-LIST:END -->
 
