@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating PostgreSQL - Pages and Blocks](https://dev.to/aditya999123/navigating-postgresql-pages-and-blocks-238l)
-- [Hands-on Lab - Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda](https://dev.to/gurudev_prasadteketi/hands-on-lab-event-driven-architecture-with-amazon-api-gateway-amazon-eventbridge-and-aws-lambda-kn2)
-- [Using Logger Middleware in Go Fiber](https://dev.to/luthfisauqi17/using-logger-middleware-in-go-fiber-21cn)
-- [OData with .NET core: Essential Concepts &amp; Best Practices](https://dev.to/renukapatil/odata-with-net-core-essential-concepts-best-practices-1iea)
+- [10 Chrome Extensions Every Developer Should Use in 2025](https://dev.to/info_generalhazedawn_a3d/10-chrome-extensions-every-developer-should-use-in-2025-2kjo)
+- [Wow, my toys can talk ...](https://dev.to/aniruddhaadak/wow-my-toys-can-talk--cm2)
+- [NEWBIE](https://dev.to/minaketan_thokchom_4e08db/newbie-3o0g)
+- [Power BI Tutorial: How to Connect, Analyze, and Visualize Data](https://dev.to/power_bi/power-bi-tutorial-how-to-connect-analyze-and-visualize-data-1ihb)
 <!-- BLOG-POST-LIST:END -->
 
