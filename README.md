@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KelpsGet: Um Clone Moderno do Wget em Rust 🦀](https://dev.to/davimf7221/kelpsget-um-clone-moderno-do-wget-em-rust-38hg)
-- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
-- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
-- [How Improv Helped an Amazonian Overcome Stage Fear](https://dev.to/mastermentee/how-improv-helped-an-amazonian-overcome-stage-fear-4kli)
+- [AI-XP: The Product Owner Power-up for Agile Success](https://dev.to/dev3l/ai-xp-the-product-owner-power-up-for-agile-success-4c4e)
+- [How to Start a Career in Ethical Hacking – A Step-by-Step Guide](https://dev.to/serverzone/how-to-start-a-career-in-ethical-hacking-a-step-by-step-guide-3ln0)
+- [2025년에 안드로이드 앱을 만들기](https://dev.to/kingori/2025nyeone-andeuroideu-aebeul-mandeulgi-50df)
+- [Please check the comment section; I’ve added 3 more useful AI tools. Hopefully, you’ll like them!](https://dev.to/foxinfotech/please-check-the-comment-section-ive-added-3-more-useful-ai-tools-hopefully-youll-like-them-12jh)
 <!-- BLOG-POST-LIST:END -->
 
