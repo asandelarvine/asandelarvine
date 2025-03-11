@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Stopped Restarting My Go Server Every Time I Changed a Config](https://dev.to/nidasahar/how-i-stopped-restarting-my-go-server-every-time-i-changed-a-config-1c52)
-- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-h84)
-- [Review of an interview with the author of TypeScript about porting it to Go](https://dev.to/artalar/review-of-an-interview-with-the-author-of-typescript-about-porting-it-to-go-lag)
-- [🚀 Building Desktop Apps with Wails: A Go Developer&#39;s Perspective](https://dev.to/kaizerpwn/building-desktop-apps-with-wails-a-go-developers-perspective-526p)
+- [Como Criar um Raycaster&lpar;estilo DOOM&rpar; com C++](https://dev.to/marcosplusplus/como-criar-um-raycasterestilo-doom-com-c-42na)
+- [Day 1118 : Drop](https://dev.to/dwane/day-1118-drop-4e6a)
+- [4 lessons from learning webdev as a beginner](https://dev.to/jleung230/4-lessons-from-learning-webdev-as-a-beginner-2nm1)
+- [Implementación de &quot;EleganFlow&quot;: Arquitectura Modular y Sostenible](https://dev.to/juan_carlosvalderrbano/implementacion-de-eleganflow-arquitectura-modular-y-sostenible-odn)
 <!-- BLOG-POST-LIST:END -->
 
