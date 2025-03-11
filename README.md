@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking AI Potential: Denoising, Reinforcement Learning &amp; Visual Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-potential-denoising-reinforcement-learning-visual-models-hhp)
-- [The all-new Switch Case with steroids in Java 21](https://dev.to/igorfragadev/the-all-new-switch-case-with-steroids-in-java-21-2e76)
-- [Using OpenAPI to Automate API Integration With Rapyd&#39;s Payment Gateway](https://dev.to/rapyd/using-openapi-to-automate-api-integration-with-rapyds-payment-gateway-cng)
-- [Exploring ZZZCode.ai: An AI Coding Assistant for Developers](https://dev.to/codeparrot/exploring-zzzcodeai-an-ai-coding-assistant-for-developers-4phk)
+- [TypeScript vs. JavaScript: Differences and use cases for each](https://dev.to/logrocket/typescript-vs-javascript-differences-and-use-cases-for-each-3nkj)
+- [SVG essentials. Basic shapes and path](https://dev.to/jsha/svg-essentials-basic-shapes-and-path-24k2)
+- [Enhance Workflow Efficiency with AI: Tips for Employers](https://dev.to/emily_e832cc7d5902e1223ee/enhance-workflow-efficiency-with-ai-tips-for-employers-2b21)
+- [Unlocking AI’s potential: How to quickly set up a Cursor MCP Server](https://dev.to/apideck/unlocking-ais-potential-how-to-quickly-set-up-a-cursor-mcp-server-4bk1)
 <!-- BLOG-POST-LIST:END -->
 
