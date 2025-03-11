@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Chrome Extensions Every Developer Should Use in 2025](https://dev.to/info_generalhazedawn_a3d/10-chrome-extensions-every-developer-should-use-in-2025-2kjo)
-- [Wow, my toys can talk ...](https://dev.to/aniruddhaadak/wow-my-toys-can-talk--cm2)
-- [NEWBIE](https://dev.to/minaketan_thokchom_4e08db/newbie-3o0g)
-- [Power BI Tutorial: How to Connect, Analyze, and Visualize Data](https://dev.to/power_bi/power-bi-tutorial-how-to-connect-analyze-and-visualize-data-1ihb)
+- [Building Real-Time Trading Analytics: A Step-by-Step Guide with Solace PubSub+ and RisingWave](https://dev.to/__354f265b41dafa0d901b/building-real-time-trading-analytics-a-step-by-step-guide-with-solace-pubsub-and-risingwave-4hdi)
+- [How to nail AWS Architecting? ...with baby steps !!](https://dev.to/aws-builders/how-to-nail-aws-architecting-with-baby-steps--48nn)
+- [Why Databases Matter: Real-World Applications and Use Cases](https://dev.to/be11amer/why-databases-matter-real-world-applications-and-use-cases-53an)
+- [Shaping Your Personal Brand for the Tech Revolution: A Roadmap to Relevancy](https://dev.to/okoye_ndidiamaka_5e3b7d30/shaping-your-personal-brand-for-the-tech-revolution-a-roadmap-to-relevancy-10bk)
 <!-- BLOG-POST-LIST:END -->
 
