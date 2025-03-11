@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;SensorClean: IoT Automation in Meditation and Wellness Spaces Step by Step&quot;](https://dev.to/francis_lewwis_01dbf1609f/sensorclean-iot-automation-in-meditation-and-wellness-spaces-step-by-step-51km)
-- [ScribePal v1.2.0 - An Open Source Browser Extension for Private AI Chat Using Local Ollama Models](https://dev.to/code-forge-temple/scribepal-v120-an-open-source-browser-extension-for-private-ai-chat-using-local-ollama-models-2omf)
-- [IT Admin - Tamil](https://dev.to/diveyalan/it-admin-tamil-4hn)
-- [Migrating to TanStack Query v5](https://dev.to/tsudhishnair/migrating-to-tanstack-query-v5-17e1)
+- [🚀 60 Fresh GitHub Repos You’ve Never Seen!](https://dev.to/gittech/60-fresh-github-repos-youve-never-seen-662)
+- [Why I Created an E-Commerce Site For My Family Start Up Business](https://dev.to/johnogbonna/why-i-created-an-e-commerce-site-for-my-family-start-up-business-55mg)
+- [¿Qué son los Pipes en Angular y Cómo Usarlos?](https://dev.to/cristian_arieta_7df932e5f/que-son-los-pipes-en-angular-y-como-usarlos-1iek)
+- [🤖 Should I Use AI for Code Reviews? 🤔](https://dev.to/diegocarreirafr/should-i-use-ai-for-code-reviews-24gm)
 <!-- BLOG-POST-LIST:END -->
 
