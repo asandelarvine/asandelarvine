@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best tools for Frontend Developers in 2025](https://dev.to/requestly/best-tools-for-frontend-developers-in-2025-4g4n)
-- [5 Must-Have Socket.IO Debugging Tools for Modern Web Developers in 2025](https://dev.to/auden/5-must-have-socketio-debugging-tools-for-modern-web-developers-in-2025-1l46)
-- [When Milliseconds Matter: A Not-So-Scientific Guide to Reaction Time Tests](https://dev.to/letor/when-milliseconds-matter-a-not-so-scientific-guide-to-reaction-time-tests-4b23)
-- [The Art of Decorating: Making Utility Functions Work for You in TypeScript](https://dev.to/codequalitymonkey/the-art-of-decorating-making-utility-functions-work-for-you-in-typescript-fdl)
+- [Laravel Auto CRUD Generator: Save 8+ Hours Per Project](https://dev.to/dosenngoding/laravel-auto-crud-generator-save-8-hours-per-project-m2l)
+- [4-Optimizing and Refactoring the Code - Building a Reactive System in TypeScript](https://dev.to/michaeljota/4-optimizing-and-refactoring-the-code-building-a-reactive-system-in-typescript-2d3)
+- [Telegram mini-app development and testing specifics: from initialisation to launch](https://dev.to/dev_family/telegram-mini-app-development-and-testing-specifics-from-initialisation-to-launch-1ofh)
+- [Chapter 7: HTML part two](https://dev.to/rossangus/chapter-7-html-part-two-15k)
 <!-- BLOG-POST-LIST:END -->
 
