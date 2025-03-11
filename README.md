@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [get set Hola mundo en Soroban😀](https://dev.to/sergiotechx/get-set-hola-mundo-en-soroban-16mm)
-- [Meditations on Chasing a Developer Career](https://dev.to/mrsupercraft/meditations-on-chasing-a-developer-career-499b)
-- [Inception Labs released a production-grade diffusion LLM 🤯](https://dev.to/best_codes/inception-labs-released-a-production-grade-diffusion-llm-3a8j)
-- [Connecting your CDN to Fastly Object Storage](https://dev.to/fastly/connecting-your-cdn-to-fastly-object-storage-46n9)
+- [How I Stopped Restarting My Go Server Every Time I Changed a Config](https://dev.to/nidasahar/how-i-stopped-restarting-my-go-server-every-time-i-changed-a-config-1c52)
+- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-h84)
+- [Review of an interview with the author of TypeScript about porting it to Go](https://dev.to/artalar/review-of-an-interview-with-the-author-of-typescript-about-porting-it-to-go-lag)
+- [🚀 Building Desktop Apps with Wails: A Go Developer&#39;s Perspective](https://dev.to/kaizerpwn/building-desktop-apps-with-wails-a-go-developers-perspective-526p)
 <!-- BLOG-POST-LIST:END -->
 
