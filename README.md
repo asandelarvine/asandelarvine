@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Up a Web App in the Cloud using AWS and VsCode](https://dev.to/kenechukwu_okeke_cf4ed456/set-up-a-web-app-in-the-cloud-using-aws-and-vscode-3mfp)
-- [React vs Next.js: Which One to Choose?](https://dev.to/raajaryan/react-vs-nextjs-which-one-to-choose-p57)
-- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-30d5)
-- [PR Summarizer: Your GitHub Sidekick for Faster and Funnier Reviews! 🎉](https://dev.to/bansikah/pr-summarizer-your-github-sidekick-for-faster-and-funnier-reviews-1635)
+- [What is Model Context Protocol &lpar;MCP&rpar;: Explained in detail](https://dev.to/composiodev/what-is-model-context-protocol-mcp-explained-in-detail-5f53)
+- [Great article to learn basic file structure and various components of react to better understand how it works for both people learning react and experienced react developers.](https://dev.to/christopher_henry_4dd51f1/great-article-to-learn-basic-file-structure-and-various-components-of-react-to-better-understand-2okb)
+- [Graph database vs relational vs vector vs NoSQL](https://dev.to/falkordb/graph-database-vs-relational-vs-vector-vs-nosql-blp)
+- [Expect Tech to Change, But Not the Way You Think It Will](https://dev.to/laikokwui/expect-tech-to-change-but-not-the-way-you-think-it-will-1p0g)
 <!-- BLOG-POST-LIST:END -->
 
