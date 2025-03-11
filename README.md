@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Auto CRUD Generator: Save 8+ Hours Per Project](https://dev.to/dosenngoding/laravel-auto-crud-generator-save-8-hours-per-project-m2l)
-- [4-Optimizing and Refactoring the Code - Building a Reactive System in TypeScript](https://dev.to/michaeljota/4-optimizing-and-refactoring-the-code-building-a-reactive-system-in-typescript-2d3)
-- [Telegram mini-app development and testing specifics: from initialisation to launch](https://dev.to/dev_family/telegram-mini-app-development-and-testing-specifics-from-initialisation-to-launch-1ofh)
-- [Chapter 7: HTML part two](https://dev.to/rossangus/chapter-7-html-part-two-15k)
+- [Build a RAG-Powered Research Paper Assistant](https://dev.to/shittu_olumide_/build-a-rag-powered-research-paper-assistant-3da1)
+- [Cypress Parallel Testing Made Easy: Step-by-Step Guide with Practical Code Examples](https://dev.to/asher_hartwell_f827d28b67/cypress-parallel-testing-made-easy-step-by-step-guide-with-practical-code-examples-5703)
+- [Kubernetes Is Just an API: Let’s See It on k3s Cluster, Running on AWS Spot Fleet](https://dev.to/mkdev/kubernetes-is-just-an-api-lets-see-it-on-k3s-cluster-running-on-aws-spot-fleet-543o)
+- [Unlocking Potential: Why Employee Engagement Matters](https://dev.to/ericitbk/unlocking-potential-why-employee-engagement-matters-4m45)
 <!-- BLOG-POST-LIST:END -->
 
