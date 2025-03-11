@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start using gRPC with PHP - Part 1/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-14-29i4)
-- [Getting Started with PostgreSQL](https://dev.to/carol_caillaud/getting-started-with-postgresql-3h05)
-- [Simple example of reverse .apk &lpar;removing Ads&rpar;](https://dev.to/mardsoul/simple-example-of-reverse-apk-removing-ads-24dl)
-- [Challenge Lab: Creating a Static Website for the Café](https://dev.to/ameh_mathias/challenge-lab-creating-a-static-website-for-the-cafe-447i)
+- [KelpsGet: Um Clone Moderno do Wget em Rust 🦀](https://dev.to/davimf7221/kelpsget-um-clone-moderno-do-wget-em-rust-38hg)
+- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
+- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
+- [How Improv Helped an Amazonian Overcome Stage Fear](https://dev.to/mastermentee/how-improv-helped-an-amazonian-overcome-stage-fear-4kli)
 <!-- BLOG-POST-LIST:END -->
 
