@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building GRIQ: My First Big Backend Project](https://dev.to/sem22dev/building-griq-my-first-big-backend-project-2ehh)
-- [Chapter 6 HTML part one](https://dev.to/rossangus/nodejs-for-developers-course-chapter-6-html-part-one-8eo)
-- [&quot;Is my document a valid PDF?&quot;](https://dev.to/zubinajmera/is-my-document-a-valid-pdf-4pk9)
-- [🚀 Ultimate Git Cheatsheet: Your Go-To Guide for Version Control](https://dev.to/ersuman/ultimate-git-cheatsheet-your-go-to-guide-for-version-control-8e4)
+- [Best tools for Frontend Developers in 2025](https://dev.to/requestly/best-tools-for-frontend-developers-in-2025-4g4n)
+- [5 Must-Have Socket.IO Debugging Tools for Modern Web Developers in 2025](https://dev.to/auden/5-must-have-socketio-debugging-tools-for-modern-web-developers-in-2025-1l46)
+- [When Milliseconds Matter: A Not-So-Scientific Guide to Reaction Time Tests](https://dev.to/letor/when-milliseconds-matter-a-not-so-scientific-guide-to-reaction-time-tests-4b23)
+- [The Art of Decorating: Making Utility Functions Work for You in TypeScript](https://dev.to/codequalitymonkey/the-art-of-decorating-making-utility-functions-work-for-you-in-typescript-fdl)
 <!-- BLOG-POST-LIST:END -->
 
