@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-XP: The Product Owner Power-up for Agile Success](https://dev.to/dev3l/ai-xp-the-product-owner-power-up-for-agile-success-4c4e)
-- [How to Start a Career in Ethical Hacking – A Step-by-Step Guide](https://dev.to/serverzone/how-to-start-a-career-in-ethical-hacking-a-step-by-step-guide-3ln0)
-- [2025년에 안드로이드 앱을 만들기](https://dev.to/kingori/2025nyeone-andeuroideu-aebeul-mandeulgi-50df)
-- [Please check the comment section; I’ve added 3 more useful AI tools. Hopefully, you’ll like them!](https://dev.to/foxinfotech/please-check-the-comment-section-ive-added-3-more-useful-ai-tools-hopefully-youll-like-them-12jh)
+- [The Ugly Truth: All Popular fetch&lpar;&rpar; Wrappers Do It Wrong](https://dev.to/webjose/the-ugly-truth-all-popular-fetch-wrappers-do-it-wrong-4db6)
+- [It&#39;s 2025 and I still see people use NavigationLink in SwiftUI. Let&#39;s find out why you should AVOID it instead and use better alternatives!](https://dev.to/yossabourne/its-2025-and-i-still-see-people-use-navigationlink-in-swiftui-lets-find-out-why-you-should-avoid-3emd)
+- [Best Databases to Use with the MERN Stack Apart from MongoDB](https://dev.to/adityabhuyan/best-databases-to-use-with-the-mern-stack-apart-from-mongodb-254j)
+- [JPEG in PyTorch](https://dev.to/hyperkai/jpeg-in-pytorch-20fd)
 <!-- BLOG-POST-LIST:END -->
 
