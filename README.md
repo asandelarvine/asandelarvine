@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Software Training is Essential in 2025: Empowering the Workforce for a Digital Future](https://dev.to/lekshmi_525/why-software-training-is-essential-in-2025-empowering-the-workforce-for-a-digital-future-307k)
-- [Mistral OCR: The Future of Document Understanding &amp; AI-Powered OCR](https://dev.to/hardiksankhla/mistral-ocr-the-future-of-document-understanding-ai-powered-ocr-357p)
-- [JPA의 @ManyToOne 관계와 조인 전략](https://dev.to/junghwan18/jpayi-manytoone-gwangyewa-join-jeonryag-3i6p)
-- [Exploring Web3j-NFT: Open Source Innovation in the NFT Ecosystem](https://dev.to/vitalisorenko/exploring-web3j-nft-open-source-innovation-in-the-nft-ecosystem-37j3)
+- [Navigating PostgreSQL - Pages and Blocks](https://dev.to/aditya999123/navigating-postgresql-pages-and-blocks-238l)
+- [Hands-on Lab - Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda](https://dev.to/gurudev_prasadteketi/hands-on-lab-event-driven-architecture-with-amazon-api-gateway-amazon-eventbridge-and-aws-lambda-kn2)
+- [Using Logger Middleware in Go Fiber](https://dev.to/luthfisauqi17/using-logger-middleware-in-go-fiber-21cn)
+- [OData with .NET core: Essential Concepts &amp; Best Practices](https://dev.to/renukapatil/odata-with-net-core-essential-concepts-best-practices-1iea)
 <!-- BLOG-POST-LIST:END -->
 
