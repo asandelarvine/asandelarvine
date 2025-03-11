@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ugly Truth: All Popular fetch&lpar;&rpar; Wrappers Do It Wrong](https://dev.to/webjose/the-ugly-truth-all-popular-fetch-wrappers-do-it-wrong-4db6)
-- [It&#39;s 2025 and I still see people use NavigationLink in SwiftUI. Let&#39;s find out why you should AVOID it instead and use better alternatives!](https://dev.to/yossabourne/its-2025-and-i-still-see-people-use-navigationlink-in-swiftui-lets-find-out-why-you-should-avoid-3emd)
-- [Best Databases to Use with the MERN Stack Apart from MongoDB](https://dev.to/adityabhuyan/best-databases-to-use-with-the-mern-stack-apart-from-mongodb-254j)
-- [JPEG in PyTorch](https://dev.to/hyperkai/jpeg-in-pytorch-20fd)
+- [Why Software Training is Essential in 2025: Empowering the Workforce for a Digital Future](https://dev.to/lekshmi_525/why-software-training-is-essential-in-2025-empowering-the-workforce-for-a-digital-future-307k)
+- [Mistral OCR: The Future of Document Understanding &amp; AI-Powered OCR](https://dev.to/hardiksankhla/mistral-ocr-the-future-of-document-understanding-ai-powered-ocr-357p)
+- [JPA의 @ManyToOne 관계와 조인 전략](https://dev.to/junghwan18/jpayi-manytoone-gwangyewa-join-jeonryag-3i6p)
+- [Exploring Web3j-NFT: Open Source Innovation in the NFT Ecosystem](https://dev.to/vitalisorenko/exploring-web3j-nft-open-source-innovation-in-the-nft-ecosystem-37j3)
 <!-- BLOG-POST-LIST:END -->
 
