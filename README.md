@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 60 Fresh GitHub Repos You’ve Never Seen!](https://dev.to/gittech/60-fresh-github-repos-youve-never-seen-662)
-- [Why I Created an E-Commerce Site For My Family Start Up Business](https://dev.to/johnogbonna/why-i-created-an-e-commerce-site-for-my-family-start-up-business-55mg)
-- [¿Qué son los Pipes en Angular y Cómo Usarlos?](https://dev.to/cristian_arieta_7df932e5f/que-son-los-pipes-en-angular-y-como-usarlos-1iek)
-- [🤖 Should I Use AI for Code Reviews? 🤔](https://dev.to/diegocarreirafr/should-i-use-ai-for-code-reviews-24gm)
+- [Object Calisthenics: Writing Better Object-Oriented Code](https://dev.to/wallacefreitas/object-calisthenics-writing-better-object-oriented-code-2pgk)
+- [Deploying an AWS EKS Cluster with Terraform and GitHub Actions](https://dev.to/terrateam/deploying-an-aws-eks-cluster-with-terraform-and-github-actions-g01)
+- [[Boost]](https://dev.to/gilliandelvigne/-30j1)
+- [Explain Like I&#39;m Five](https://dev.to/raees_smile_5d4f8a3144393/explain-like-im-five-5eme)
 <!-- BLOG-POST-LIST:END -->
 
