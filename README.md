@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Real-Time Trading Analytics: A Step-by-Step Guide with Solace PubSub+ and RisingWave](https://dev.to/__354f265b41dafa0d901b/building-real-time-trading-analytics-a-step-by-step-guide-with-solace-pubsub-and-risingwave-4hdi)
-- [How to nail AWS Architecting? ...with baby steps !!](https://dev.to/aws-builders/how-to-nail-aws-architecting-with-baby-steps--48nn)
-- [Why Databases Matter: Real-World Applications and Use Cases](https://dev.to/be11amer/why-databases-matter-real-world-applications-and-use-cases-53an)
-- [Shaping Your Personal Brand for the Tech Revolution: A Roadmap to Relevancy](https://dev.to/okoye_ndidiamaka_5e3b7d30/shaping-your-personal-brand-for-the-tech-revolution-a-roadmap-to-relevancy-10bk)
+- [[UA] Геттери і сеттери &lpar;JS&rpar;](https://dev.to/michail_novos/ua-giettieri-i-siettieri-js-4353)
+- [😵‍💫 JavaScript Promises: Avoiding Callback Hell](https://dev.to/artem_turlenko/mastering-javascript-promises-avoiding-callback-hell-2lm8)
+- [My Journey as a Freelance WordPress Developer](https://dev.to/robin-ivi/my-journey-as-a-freelance-wordpress-developer-4o84)
+- [My AWS Cloud Certification Was Expiring — Here’s How I Recertified It Through Gamification](https://dev.to/marcuscjh/my-aws-cloud-certification-was-expiring-heres-how-i-recertified-it-through-gamification-1j3)
 <!-- BLOG-POST-LIST:END -->
 
