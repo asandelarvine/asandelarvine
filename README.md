@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Model Context Protocol &lpar;MCP&rpar;: Explained in detail](https://dev.to/composiodev/what-is-model-context-protocol-mcp-explained-in-detail-5f53)
-- [Great article to learn basic file structure and various components of react to better understand how it works for both people learning react and experienced react developers.](https://dev.to/christopher_henry_4dd51f1/great-article-to-learn-basic-file-structure-and-various-components-of-react-to-better-understand-2okb)
-- [Graph database vs relational vs vector vs NoSQL](https://dev.to/falkordb/graph-database-vs-relational-vs-vector-vs-nosql-blp)
-- [Expect Tech to Change, But Not the Way You Think It Will](https://dev.to/laikokwui/expect-tech-to-change-but-not-the-way-you-think-it-will-1p0g)
+- [Next-Stage: A Modern Next.js Starter Template for AI-Driven Development](https://dev.to/tim_yone/next-stage-a-modern-nextjs-starter-template-for-ai-driven-development-238b)
+- [What I wish I knew about Python when I started](https://dev.to/soapergem/what-i-wish-i-knew-about-python-when-i-started-14eh)
+- [Tutorial: Build an Agentic AI Application with Agents for Amazon Bedrock](https://dev.to/aws-builders/tutorial-build-an-agentic-ai-application-with-agents-for-amazon-bedrock-2cpk)
+- [Seamless Area Annotations in .NET: Unlock Powerful Presentation Workflows](https://dev.to/shahzad_ashraf_5ea18e2b2d/seamless-area-annotations-in-net-unlock-powerful-presentation-workflows-4gci)
 <!-- BLOG-POST-LIST:END -->
 
