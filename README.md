@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does Streaming Data Differ From Batch Processing?](https://dev.to/puratabla/how-does-streaming-data-differ-from-batch-processing-o32)
-- [Tree-sitter: Simplificando a Análise de Código para Desenvolvedores](https://dev.to/scovl/tree-sitter-simplificando-a-analise-de-codigo-para-desenvolvedores-4hko)
-- [Understanding RAG &lpar;Retrieval Augmented Generation&rpar; with APIpie.ai](https://dev.to/apipie-ai/understanding-rag-retrieval-augmented-generation-with-apipieai-n6k)
-- [Understanding Vector Databases with APIpie.ai](https://dev.to/apipie-ai/understanding-vector-databases-with-apipieai-3324)
+- [Building an AI Assistant with Langflow and AstraDB: From Architecture to Integration with NocoBase](https://dev.to/nocobase/building-an-ai-assistant-with-langflow-and-astradb-from-architecture-to-integration-with-nocobase-30cc)
+- [Unveiling Eclipse Public License 2.0: A Deep Dive](https://dev.to/vitalisorenko/unveiling-eclipse-public-license-20-a-deep-dive-42h)
+- [Securing Kubernetes with Kyverno: A Practical Guide to Deployment with Helm and ArgoCD in EKS](https://dev.to/aws-builders/securing-kubernetes-with-kyverno-a-practical-guide-to-deployment-with-helm-and-argocd-in-eks-3gba)
+- [Zhiyuan Robotics Unveils Lingxi X2: The Humanoid Robot Redefining AI Interaction](https://dev.to/lunadelo/zhiyuan-robotics-unveils-lingxi-x2-the-humanoid-robot-redefining-ai-interaction-3nmn)
 <!-- BLOG-POST-LIST:END -->
 
