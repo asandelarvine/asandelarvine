@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¡Vamos a bichear! - Dashboard de Ping](https://dev.to/aws-espanol/vamos-a-bichear-dashboard-de-ping-390m)
-- [Começando com testes no Flutter](https://dev.to/wuiz/comecando-com-testes-no-flutter-mba)
-- [Monte Hall problem simplified](https://dev.to/ompals/monte-hall-problem-simplified-36fk)
-- [Dynamically Exposing Endpoints Without Annotations](https://dev.to/philip_nahmias/dynamically-exposing-endpoints-without-annotations-4pk4)
+- [Diffusion Language Models: The Future of AI Programming](https://dev.to/erikstrelzoff/diffusion-language-models-the-future-of-ai-programming-2emb)
+- [Garbage Collection in Java](https://dev.to/samuel_odiaseomoighe_284/garbage-collection-in-java-2kkg)
+- [Introducing Apple AI: A Native macOS Menu Bar App for Seamless AI Integration](https://dev.to/bunnysayzz/introducing-apple-ai-a-native-macos-menu-bar-app-for-seamless-ai-integration-231d)
+- [AWS Fargate and SQS for Long-Running Jobs with TypeScript](https://dev.to/aws-builders/aws-fargate-and-sqs-for-long-running-jobs-with-typescript-2lb4)
 <!-- BLOG-POST-LIST:END -->
 
