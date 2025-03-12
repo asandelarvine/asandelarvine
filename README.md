@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Diffusion Language Models: The Future of AI Programming](https://dev.to/erikstrelzoff/diffusion-language-models-the-future-of-ai-programming-2emb)
-- [Garbage Collection in Java](https://dev.to/samuel_odiaseomoighe_284/garbage-collection-in-java-2kkg)
-- [Introducing Apple AI: A Native macOS Menu Bar App for Seamless AI Integration](https://dev.to/bunnysayzz/introducing-apple-ai-a-native-macos-menu-bar-app-for-seamless-ai-integration-231d)
-- [AWS Fargate and SQS for Long-Running Jobs with TypeScript](https://dev.to/aws-builders/aws-fargate-and-sqs-for-long-running-jobs-with-typescript-2lb4)
+- [Unveiling the Nokia Open Source License: A New Era in Fair Code Licensing](https://dev.to/ahmmrizv9/unveiling-the-nokia-open-source-license-a-new-era-in-fair-code-licensing-2ko5)
+- [Don&#39;t Let Incidents Drown Your Support Team: How to Minimize Support Requests](https://dev.to/leotulii/incidents-drown-your-team-22o5)
+- [Introduction](https://dev.to/jennythomas498/introduction-4pnd)
+- [Mapping History with Code: Digitizing the Île de la Cité](https://dev.to/marc_pissot_752975d2f3988/mapping-history-with-code-digitizing-the-ile-de-la-cite-57ae)
 <!-- BLOG-POST-LIST:END -->
 
