@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug the Ollama API: A Step-by-Step Guide](https://dev.to/auden/how-to-debug-the-ollama-api-a-step-by-step-guide-1feh)
-- [Leetcode - 73. Set Matrix Zeroes](https://dev.to/rakeshreddy512/leetcode-73-set-matrix-zeroes-5bkl)
-- [Testing Account Verification with Cypress](https://dev.to/lou_bku/testing-account-verification-with-cypress-4ccf)
-- [Your Next Application Will Be Low-Code… Whether You Like It or Not](https://dev.to/softyflow/your-next-application-will-be-low-code-whether-you-like-it-or-not-4mcn)
+- [Hardware Store Management System: A Complete Guide](https://dev.to/bhavesh_gangani_/hardware-store-management-system-a-complete-guide-2kj4)
+- [Tokenization of Real Assets: How Web3 is Changing Investments](https://dev.to/andylarkin677/tokenization-of-real-assets-how-web3-is-changing-investments-pmn)
+- [Supercharge Your Prototyping with Streamlit: A Quick and Powerful Web Framework 🚀](https://dev.to/sajjadali/supercharge-your-prototyping-with-streamlit-a-quick-and-powerful-web-framework-1l7c)
+- [Midweek grind? What&#39;s your weirdest comfort habit? 🧘‍♂️☕ I’m talking about the unique &lpar;or embarrassing&rpar; ways you recharge when the week hits hard. Share your best Hump Day hacks—I’ll go first!&quot; #HumpDayHacks #SelfCareForCoders #ProductivityBoost](https://dev.to/dougiehawes/midweek-grind-whats-your-weirdest-comfort-habit-im-talking-about-the-unique-or-2bi6)
 <!-- BLOG-POST-LIST:END -->
 
