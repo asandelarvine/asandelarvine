@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Typography Cheatsheet with Examples](https://dev.to/code_2/css-typography-cheatsheet-with-examples-fp3)
-- [Save a Gmail email as a PDF in Chrome](https://dev.to/anton_georgiev/save-a-gmail-email-as-a-pdf-in-chrome-3fe2)
-- [Exit Liquidity: Proof of Drink, Drink to Build](https://dev.to/kyohei_nft/exit-liquidity-12fh)
-- [Building FastRace: A High-Performance Traceroute Implementation in Pure C](https://dev.to/daviducolo/building-fastrace-a-high-performance-traceroute-implementation-in-pure-c-3h92)
+- [Best Performance Testing Tools in 2025: Compare Features, Pricing &amp; Benefits](https://dev.to/testwithtorin/best-performance-testing-tools-in-2025-compare-features-pricing-benefits-180j)
+- [Unveiling the wxWidgets License: A Deep Dive into Freedom, Fairness, and Flexibility](https://dev.to/ashucommits/unveiling-the-wxwidgets-license-a-deep-dive-into-freedom-fairness-and-flexibility-529n)
+- [Understanding SCRUM &lpar;An Agile Development Framework&rpar;](https://dev.to/tak089/understanding-scrum-an-agile-development-framework-2205)
+- [Automate Everything: Why Bash Scripting is a Must-Learn Skill](https://dev.to/saishanmukkha/automate-everything-why-bash-scripting-is-a-must-learn-skill-3n37)
 <!-- BLOG-POST-LIST:END -->
 
