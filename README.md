@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the KendoReact Free Components Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-kendoreact-free-components-challenge-5000-in-prizes-2896)
-- [Build A Personal AI-Powered Finance Copilot: Maybe + CopilotKit 🪁](https://dev.to/copilotkit/build-a-personal-ai-powered-finance-copilot-maybe-copilotkit-2knf)
-- [[Boost]](https://dev.to/boyina_sankar_068/-1m8b)
-- [Common JavaScript SEO Problems &amp; How to Fix Them!](https://dev.to/akramujjaman_mridha/common-javascript-seo-problems-how-to-fix-them-4od9)
+- [Explaining Python Type Annotations: A Comprehensive Guide to the typing Module](https://dev.to/leapcell/explaining-python-type-annotations-a-comprehensive-guide-to-the-typing-module-495i)
+- [[Boost]](https://dev.to/djones/-45i3)
+- [Building a Secure Password Manager with Python](https://dev.to/vithanagedanu/building-a-secure-password-manager-with-python-2i0k)
+- [Building Time Series Applications with GoFrame and TDengine](https://dev.to/jones_charles_ad50858dbc0/building-time-series-applications-with-goframe-and-tdengine-15h3)
 <!-- BLOG-POST-LIST:END -->
 
