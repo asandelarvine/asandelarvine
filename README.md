@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Level Language vs. Low-Level Language: A Detailed Comparison](https://dev.to/devcorner/high-level-language-vs-low-level-language-a-detailed-comparison-29ga)
-- [Escaping the Digital Treadmill: How to Daily Drive a Flip phone in 2025 - TCL Flip 2](https://dev.to/tylerboni/escaping-the-digital-treadmill-how-to-daily-drive-a-flip-phone-in-2025-tcl-flip-2-17el)
-- [Unveiling GNU Free Documentation License 1.3: A Deep Dive into Open Documentation Freedom](https://dev.to/laetitiaperraut/unveiling-gnu-free-documentation-license-13-a-deep-dive-into-open-documentation-freedom-4e0h)
-- [Great!](https://dev.to/masutaka/great-2l3g)
+- [[Learning Notes] Hightopo’s HT for Web &lpar;2&rpar; - 2D Display, Node, Edge, and Animation](https://dev.to/saymyname/learning-notes-hightopos-ht-for-web-2-2d-display-node-edge-and-animation-cdo)
+- [My 1st Experience with AG Grid](https://dev.to/sarthak_chhabra_123/my-1st-experience-with-ag-grid-1df8)
+- [Beyond Commits: Real Engineering Happens Behind Closed Doors](https://dev.to/ethanlloyd21/your-github-profile-is-not-your-resume-2gh9)
+- [Welcome Thread - v318](https://dev.to/devteam/welcome-thread-v318-56i1)
 <!-- BLOG-POST-LIST:END -->
 
