@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Beauty and Struggles of the Dev World](https://dev.to/matemiller/the-beauty-and-struggles-of-the-dev-world-1ogm)
-- [AI Code Generator : The Best Free AI Code Generators](https://dev.to/keploy/ai-code-generator-the-best-free-ai-code-generators-omb)
-- [ArkFlow - High-performance Rust stream processing engine](https://dev.to/chenquan/arkflow-high-performance-rust-stream-processing-engine-2d0p)
-- [Importance of Data Security in Fintech Services](https://dev.to/neha_agarwal_f6a30cac6c57/importance-of-data-security-in-fintech-services-2g24)
+- [InfluxDB 3 Core vs. 1.8: Query Performance and Compatibility Tested](https://dev.to/rebecca_tao_651f5198fd9ea/influxdb-3-core-vs-18-query-performance-and-compatibility-tested-5dce)
+- [Export Figma to CSS](https://dev.to/builderio/export-figma-to-css-503g)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-559i)
+- [&quot;Unlocking Code Efficiency: The Power of GraphSense in IDEs and Beyond&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-code-efficiency-the-power-of-graphsense-in-ides-and-beyond-16n8)
 <!-- BLOG-POST-LIST:END -->
 
