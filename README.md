@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guía Completa de SEO: Qué es, Para Qué Sirve y las Diferencias con SEM](https://dev.to/niaxusweb/guia-completa-de-seo-que-es-para-que-sirve-y-las-diferencias-con-sem-5958)
-- [Debugging by REPL](https://dev.to/lizmat/debugging-by-repl-43ff)
-- [TypeScript Is Getting a Big Upgrade!](https://dev.to/abhay1kumar/typescript-is-getting-a-big-upgrade-3l71)
-- [Pricing Card Code Challenge](https://dev.to/thek2j/pricing-card-code-challenge-453c)
+- [Daily React Learning -10](https://dev.to/utsabnepal55/daily-react-learning-10-n42)
+- [Ditching the Overhead: My Experience with Go, HTMX, Tailwind &amp; Alpine.js](https://dev.to/thesimdak/ditching-the-overhead-my-experience-with-go-htmx-tailwind-alpinejs-1gif)
+- [When Files Ask for a Password: A Developer&#39;s Solution](https://dev.to/tabuna/when-files-ask-for-a-password-a-developers-solution-396a)
+- [TypeScript 7: 10x Speedup and the Go Language 🚨](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
 <!-- BLOG-POST-LIST:END -->
 
