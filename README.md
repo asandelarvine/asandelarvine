@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Performance Testing Tools in 2025: Compare Features, Pricing &amp; Benefits](https://dev.to/testwithtorin/best-performance-testing-tools-in-2025-compare-features-pricing-benefits-180j)
-- [Unveiling the wxWidgets License: A Deep Dive into Freedom, Fairness, and Flexibility](https://dev.to/ashucommits/unveiling-the-wxwidgets-license-a-deep-dive-into-freedom-fairness-and-flexibility-529n)
-- [Understanding SCRUM &lpar;An Agile Development Framework&rpar;](https://dev.to/tak089/understanding-scrum-an-agile-development-framework-2205)
-- [Automate Everything: Why Bash Scripting is a Must-Learn Skill](https://dev.to/saishanmukkha/automate-everything-why-bash-scripting-is-a-must-learn-skill-3n37)
+- [70+ Free Web Dev Gems](https://dev.to/aniruddhaadak/70-free-web-dev-gems-471l)
+- [Projects in Java Script](https://dev.to/kaviya_1929/projects-in-java-script-5h08)
+- [Introduction to AI and Machine Learning on Google Cloud](https://dev.to/rohan_jee_085655230/introduction-to-ai-and-machine-learning-on-google-cloud-2af4)
+- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
 <!-- BLOG-POST-LIST:END -->
 
