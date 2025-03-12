@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-instance Deployment and Data Migration of ohpm-repo in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/multi-instance-deployment-and-data-migration-of-ohpm-repo-in-harmonyos-next-3h56)
-- [Package Management of ohpm-repo Private Repository in HarmonyOS Next: Uploading, Downloading and Installation](https://dev.to/xun_wang_6384a403f9817c2/package-management-of-ohpm-repo-private-repository-in-harmonyos-next-uploading-downloading-and-2cfi)
-- [Enhancing your Aya program with eBPF maps](https://dev.to/littlejo/enhancing-your-aya-program-with-ebpf-maps-4hdj)
-- [Configuration and Optimization of ohpm-repo Private Repository in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/configuration-and-optimization-of-ohpm-repo-private-repository-in-harmonyos-next-52ba)
+- [How to Debug the Ollama API: A Step-by-Step Guide](https://dev.to/auden/how-to-debug-the-ollama-api-a-step-by-step-guide-1feh)
+- [Leetcode - 73. Set Matrix Zeroes](https://dev.to/rakeshreddy512/leetcode-73-set-matrix-zeroes-5bkl)
+- [Testing Account Verification with Cypress](https://dev.to/lou_bku/testing-account-verification-with-cypress-4ccf)
+- [Your Next Application Will Be Low-Code… Whether You Like It or Not](https://dev.to/softyflow/your-next-application-will-be-low-code-whether-you-like-it-or-not-4mcn)
 <!-- BLOG-POST-LIST:END -->
 
