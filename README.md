@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 12 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-12-march-1m4j)
-- [Javascript methods](https://dev.to/bagavath_98/javascript-methods-13d2)
-- [I love slots, do you ?](https://dev.to/obiwanpelosi/i-love-slots-do-you--4h5d)
-- [Self-Taught Java Dev Targeting NYC: Beyond Spring Boot/SSM, What Skills Maximize Junior Role Competitiveness?](https://dev.to/huahzenm_bb394fcf5fc2ea/self-taught-java-dev-targeting-nyc-beyond-spring-bootssm-what-skills-maximize-junior-role-hm)
+- [Join the KendoReact Free Components Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-kendoreact-free-components-challenge-5000-in-prizes-2896)
+- [Build A Personal AI-Powered Finance Copilot: Maybe + CopilotKit 🪁](https://dev.to/copilotkit/build-a-personal-ai-powered-finance-copilot-maybe-copilotkit-2knf)
+- [[Boost]](https://dev.to/boyina_sankar_068/-1m8b)
+- [Common JavaScript SEO Problems &amp; How to Fix Them!](https://dev.to/akramujjaman_mridha/common-javascript-seo-problems-how-to-fix-them-4od9)
 <!-- BLOG-POST-LIST:END -->
 
