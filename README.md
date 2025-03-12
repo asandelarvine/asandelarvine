@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Learning Notes] Hightopo’s HT for Web &lpar;2&rpar; - 2D Display, Node, Edge, and Animation](https://dev.to/saymyname/learning-notes-hightopos-ht-for-web-2-2d-display-node-edge-and-animation-cdo)
-- [My 1st Experience with AG Grid](https://dev.to/sarthak_chhabra_123/my-1st-experience-with-ag-grid-1df8)
-- [Beyond Commits: Real Engineering Happens Behind Closed Doors](https://dev.to/ethanlloyd21/your-github-profile-is-not-your-resume-2gh9)
-- [Welcome Thread - v318](https://dev.to/devteam/welcome-thread-v318-56i1)
+- [🚀 SQL vs NoSQL: Which Database Will Make or Break Your Project?](https://dev.to/dct_technologyprivatelimited/sql-vs-nosql-which-database-will-make-or-break-your-project-h9g)
+- [[Boost]](https://dev.to/hemath923604/-11b4)
+- [[Boost]](https://dev.to/akshaybond30160/-1fbk)
+- [Understanding cover and contain CSS values](https://dev.to/deshalpadmakar/understanding-cover-and-contain-css-values-242f)
 <!-- BLOG-POST-LIST:END -->
 
