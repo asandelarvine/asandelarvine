@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily React Learning -10](https://dev.to/utsabnepal55/daily-react-learning-10-n42)
-- [Ditching the Overhead: My Experience with Go, HTMX, Tailwind &amp; Alpine.js](https://dev.to/thesimdak/ditching-the-overhead-my-experience-with-go-htmx-tailwind-alpinejs-1gif)
-- [When Files Ask for a Password: A Developer&#39;s Solution](https://dev.to/tabuna/when-files-ask-for-a-password-a-developers-solution-396a)
-- [TypeScript 7: 10x Speedup and the Go Language 🚨](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
+- [Why I created Deeper Dark Color Theme for VS Code ?](https://dev.to/abanoubha/why-i-created-deeper-dark-color-theme-for-vs-code--3f0m)
+- [Manus AI + Ollama: Build &amp; Scrape ANYTHING &lpar;First-Ever General AI Agent&rpar; = OpenManus](https://dev.to/gaodalie_ai/manus-ai-ollama-build-scrape-anything-first-ever-general-ai-agent-openmanus-2f1a)
+- [The Siren Song of Representative Samples: Why Telemetry Still Reigns Supreme in Software Development](https://dev.to/abanoubha/the-siren-song-of-representative-samples-why-telemetry-still-reigns-supreme-in-software-development-2h83)
+- [&#39;How to boost Python program performance with Zig&#39;](https://dev.to/davidcassel/how-to-boost-python-program-performance-with-zig-lcm)
 <!-- BLOG-POST-LIST:END -->
 
