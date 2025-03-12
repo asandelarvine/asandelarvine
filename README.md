@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining Python Type Annotations: A Comprehensive Guide to the typing Module](https://dev.to/leapcell/explaining-python-type-annotations-a-comprehensive-guide-to-the-typing-module-495i)
-- [[Boost]](https://dev.to/djones/-45i3)
-- [Building a Secure Password Manager with Python](https://dev.to/vithanagedanu/building-a-secure-password-manager-with-python-2i0k)
-- [Building Time Series Applications with GoFrame and TDengine](https://dev.to/jones_charles_ad50858dbc0/building-time-series-applications-with-goframe-and-tdengine-15h3)
+- [CSS Typography Cheatsheet with Examples](https://dev.to/code_2/css-typography-cheatsheet-with-examples-fp3)
+- [Save a Gmail email as a PDF in Chrome](https://dev.to/anton_georgiev/save-a-gmail-email-as-a-pdf-in-chrome-3fe2)
+- [Exit Liquidity: Proof of Drink, Drink to Build](https://dev.to/kyohei_nft/exit-liquidity-12fh)
+- [Building FastRace: A High-Performance Traceroute Implementation in Pure C](https://dev.to/daviducolo/building-fastrace-a-high-performance-traceroute-implementation-in-pure-c-3h92)
 <!-- BLOG-POST-LIST:END -->
 
