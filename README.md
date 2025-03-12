@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I created Deeper Dark Color Theme for VS Code ?](https://dev.to/abanoubha/why-i-created-deeper-dark-color-theme-for-vs-code--3f0m)
-- [Manus AI + Ollama: Build &amp; Scrape ANYTHING &lpar;First-Ever General AI Agent&rpar; = OpenManus](https://dev.to/gaodalie_ai/manus-ai-ollama-build-scrape-anything-first-ever-general-ai-agent-openmanus-2f1a)
-- [The Siren Song of Representative Samples: Why Telemetry Still Reigns Supreme in Software Development](https://dev.to/abanoubha/the-siren-song-of-representative-samples-why-telemetry-still-reigns-supreme-in-software-development-2h83)
-- [&#39;How to boost Python program performance with Zig&#39;](https://dev.to/davidcassel/how-to-boost-python-program-performance-with-zig-lcm)
+- [¡Vamos a bichear! - Dashboard de Ping](https://dev.to/aws-espanol/vamos-a-bichear-dashboard-de-ping-390m)
+- [Começando com testes no Flutter](https://dev.to/wuiz/comecando-com-testes-no-flutter-mba)
+- [Monte Hall problem simplified](https://dev.to/ompals/monte-hall-problem-simplified-36fk)
+- [Dynamically Exposing Endpoints Without Annotations](https://dev.to/philip_nahmias/dynamically-exposing-endpoints-without-annotations-4pk4)
 <!-- BLOG-POST-LIST:END -->
 
