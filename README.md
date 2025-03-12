@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InfluxDB 3 Core vs. 1.8: Query Performance and Compatibility Tested](https://dev.to/rebecca_tao_651f5198fd9ea/influxdb-3-core-vs-18-query-performance-and-compatibility-tested-5dce)
-- [Export Figma to CSS](https://dev.to/builderio/export-figma-to-css-503g)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-559i)
-- [&quot;Unlocking Code Efficiency: The Power of GraphSense in IDEs and Beyond&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-code-efficiency-the-power-of-graphsense-in-ides-and-beyond-16n8)
+- [Multi-instance Deployment and Data Migration of ohpm-repo in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/multi-instance-deployment-and-data-migration-of-ohpm-repo-in-harmonyos-next-3h56)
+- [Package Management of ohpm-repo Private Repository in HarmonyOS Next: Uploading, Downloading and Installation](https://dev.to/xun_wang_6384a403f9817c2/package-management-of-ohpm-repo-private-repository-in-harmonyos-next-uploading-downloading-and-2cfi)
+- [Enhancing your Aya program with eBPF maps](https://dev.to/littlejo/enhancing-your-aya-program-with-ebpf-maps-4hdj)
+- [Configuration and Optimization of ohpm-repo Private Repository in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/configuration-and-optimization-of-ohpm-repo-private-repository-in-harmonyos-next-52ba)
 <!-- BLOG-POST-LIST:END -->
 
