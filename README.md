@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Assistant with Langflow and AstraDB: From Architecture to Integration with NocoBase](https://dev.to/nocobase/building-an-ai-assistant-with-langflow-and-astradb-from-architecture-to-integration-with-nocobase-30cc)
-- [Unveiling Eclipse Public License 2.0: A Deep Dive](https://dev.to/vitalisorenko/unveiling-eclipse-public-license-20-a-deep-dive-42h)
-- [Securing Kubernetes with Kyverno: A Practical Guide to Deployment with Helm and ArgoCD in EKS](https://dev.to/aws-builders/securing-kubernetes-with-kyverno-a-practical-guide-to-deployment-with-helm-and-argocd-in-eks-3gba)
-- [Zhiyuan Robotics Unveils Lingxi X2: The Humanoid Robot Redefining AI Interaction](https://dev.to/lunadelo/zhiyuan-robotics-unveils-lingxi-x2-the-humanoid-robot-redefining-ai-interaction-3nmn)
+- [High-Level Language vs. Low-Level Language: A Detailed Comparison](https://dev.to/devcorner/high-level-language-vs-low-level-language-a-detailed-comparison-29ga)
+- [Escaping the Digital Treadmill: How to Daily Drive a Flip phone in 2025 - TCL Flip 2](https://dev.to/tylerboni/escaping-the-digital-treadmill-how-to-daily-drive-a-flip-phone-in-2025-tcl-flip-2-17el)
+- [Unveiling GNU Free Documentation License 1.3: A Deep Dive into Open Documentation Freedom](https://dev.to/laetitiaperraut/unveiling-gnu-free-documentation-license-13-a-deep-dive-into-open-documentation-freedom-4e0h)
+- [Great!](https://dev.to/masutaka/great-2l3g)
 <!-- BLOG-POST-LIST:END -->
 
