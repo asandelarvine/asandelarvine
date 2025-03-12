@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [70+ Free Web Dev Gems](https://dev.to/aniruddhaadak/70-free-web-dev-gems-471l)
-- [Projects in Java Script](https://dev.to/kaviya_1929/projects-in-java-script-5h08)
-- [Introduction to AI and Machine Learning on Google Cloud](https://dev.to/rohan_jee_085655230/introduction-to-ai-and-machine-learning-on-google-cloud-2af4)
-- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
+- [Guía Completa de SEO: Qué es, Para Qué Sirve y las Diferencias con SEM](https://dev.to/niaxusweb/guia-completa-de-seo-que-es-para-que-sirve-y-las-diferencias-con-sem-5958)
+- [Debugging by REPL](https://dev.to/lizmat/debugging-by-repl-43ff)
+- [TypeScript Is Getting a Big Upgrade!](https://dev.to/abhay1kumar/typescript-is-getting-a-big-upgrade-3l71)
+- [Pricing Card Code Challenge](https://dev.to/thek2j/pricing-card-code-challenge-453c)
 <!-- BLOG-POST-LIST:END -->
 
