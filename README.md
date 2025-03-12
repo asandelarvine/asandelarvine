@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardware Store Management System: A Complete Guide](https://dev.to/bhavesh_gangani_/hardware-store-management-system-a-complete-guide-2kj4)
-- [Tokenization of Real Assets: How Web3 is Changing Investments](https://dev.to/andylarkin677/tokenization-of-real-assets-how-web3-is-changing-investments-pmn)
-- [Supercharge Your Prototyping with Streamlit: A Quick and Powerful Web Framework 🚀](https://dev.to/sajjadali/supercharge-your-prototyping-with-streamlit-a-quick-and-powerful-web-framework-1l7c)
-- [Midweek grind? What&#39;s your weirdest comfort habit? 🧘‍♂️☕ I’m talking about the unique &lpar;or embarrassing&rpar; ways you recharge when the week hits hard. Share your best Hump Day hacks—I’ll go first!&quot; #HumpDayHacks #SelfCareForCoders #ProductivityBoost](https://dev.to/dougiehawes/midweek-grind-whats-your-weirdest-comfort-habit-im-talking-about-the-unique-or-2bi6)
+- [🚀 Your Daily Crypto Job Digest For 12 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-12-march-1m4j)
+- [Javascript methods](https://dev.to/bagavath_98/javascript-methods-13d2)
+- [I love slots, do you ?](https://dev.to/obiwanpelosi/i-love-slots-do-you--4h5d)
+- [Self-Taught Java Dev Targeting NYC: Beyond Spring Boot/SSM, What Skills Maximize Junior Role Competitiveness?](https://dev.to/huahzenm_bb394fcf5fc2ea/self-taught-java-dev-targeting-nyc-beyond-spring-bootssm-what-skills-maximize-junior-role-hm)
 <!-- BLOG-POST-LIST:END -->
 
