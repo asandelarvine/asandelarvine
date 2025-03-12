@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 SQL vs NoSQL: Which Database Will Make or Break Your Project?](https://dev.to/dct_technologyprivatelimited/sql-vs-nosql-which-database-will-make-or-break-your-project-h9g)
-- [[Boost]](https://dev.to/hemath923604/-11b4)
-- [[Boost]](https://dev.to/akshaybond30160/-1fbk)
-- [Understanding cover and contain CSS values](https://dev.to/deshalpadmakar/understanding-cover-and-contain-css-values-242f)
+- [Designing for Enterprise as opposed to Consumer products, is it different?](https://dev.to/copods/designing-for-enterprise-as-opposed-to-consumer-products-is-it-different-3kfh)
+- [Bridging the Gap: How Event Management Apps Connect Organizers and Attendees](https://dev.to/saanvipatel099/bridging-the-gap-how-event-management-apps-connect-organizers-and-attendees-14dn)
+- [How to Organize Your React Project Like a Pro](https://dev.to/wegin/how-to-organize-your-react-project-like-a-pro-16kp)
+- [How to Fix CORS Error in Angular](https://dev.to/reynaldi/how-to-fix-cors-error-in-angular-1n63)
 <!-- BLOG-POST-LIST:END -->
 
