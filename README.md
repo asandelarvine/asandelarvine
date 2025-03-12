@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar um Raycaster&lpar;estilo DOOM&rpar; com C++](https://dev.to/marcosplusplus/como-criar-um-raycasterestilo-doom-com-c-42na)
-- [Day 1118 : Drop](https://dev.to/dwane/day-1118-drop-4e6a)
-- [4 lessons from learning webdev as a beginner](https://dev.to/jleung230/4-lessons-from-learning-webdev-as-a-beginner-2nm1)
-- [Implementación de &quot;EleganFlow&quot;: Arquitectura Modular y Sostenible](https://dev.to/juan_carlosvalderrbano/implementacion-de-eleganflow-arquitectura-modular-y-sostenible-odn)
+- [How Does Streaming Data Differ From Batch Processing?](https://dev.to/puratabla/how-does-streaming-data-differ-from-batch-processing-o32)
+- [Tree-sitter: Simplificando a Análise de Código para Desenvolvedores](https://dev.to/scovl/tree-sitter-simplificando-a-analise-de-codigo-para-desenvolvedores-4hko)
+- [Understanding RAG &lpar;Retrieval Augmented Generation&rpar; with APIpie.ai](https://dev.to/apipie-ai/understanding-rag-retrieval-augmented-generation-with-apipieai-n6k)
+- [Understanding Vector Databases with APIpie.ai](https://dev.to/apipie-ai/understanding-vector-databases-with-apipieai-3324)
 <!-- BLOG-POST-LIST:END -->
 
