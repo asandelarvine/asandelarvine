@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Engine: How AI Coding Assistants Work and What Every Developer Must Know Before Using Them](https://dev.to/naveens16/inside-the-engine-how-ai-coding-assistants-work-and-what-every-developer-must-know-before-using-4d7)
-- [Unveiling the Q Public License: A New Era in Fair Code Licensing](https://dev.to/vitalisorenko/unveiling-the-q-public-license-a-new-era-in-fair-code-licensing-3fk1)
-- [GraphQL vs. REST APIs: What’s the difference between them](https://dev.to/logrocket/graphql-vs-rest-apis-whats-the-difference-between-them-3005)
-- [Django admin tricks I commonly use](https://dev.to/exler/django-admin-tricks-i-commonly-use-2imp)
+- [The Biggest QA Myths – Debunked](https://dev.to/bmroby01/the-biggest-qa-myths-debunked-2416)
+- [How to Build an AI-Powered Open-Source Financial Manager using Maybe Finance + CopilotKit🪁](https://dev.to/copilotkit/how-to-build-an-ai-powered-open-source-financial-manager-using-maybe-finance-copilotkit-16k0)
+- [Unveiling the Secrets Behind the Unicode License](https://dev.to/laetitiaperraut/unveiling-the-secrets-behind-the-unicode-license-217a)
+- [Implementing Multi-Touch Using Embarcadero Delphi FMX App](https://dev.to/softacom/implementing-multi-touch-using-embarcadero-delphi-fmx-app-4pjp)
 <!-- BLOG-POST-LIST:END -->
 
