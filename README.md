@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Biggest QA Myths – Debunked](https://dev.to/bmroby01/the-biggest-qa-myths-debunked-2416)
-- [How to Build an AI-Powered Open-Source Financial Manager using Maybe Finance + CopilotKit🪁](https://dev.to/copilotkit/how-to-build-an-ai-powered-open-source-financial-manager-using-maybe-finance-copilotkit-16k0)
-- [Unveiling the Secrets Behind the Unicode License](https://dev.to/laetitiaperraut/unveiling-the-secrets-behind-the-unicode-license-217a)
-- [Implementing Multi-Touch Using Embarcadero Delphi FMX App](https://dev.to/softacom/implementing-multi-touch-using-embarcadero-delphi-fmx-app-4pjp)
+- [Code Theory #1](https://dev.to/alvin_seyidov_6b9e3a5dffa/code-theory-1-39b0)
+- [How to generate random colors in SPFx](https://dev.to/ruthramugesh/how-to-generate-random-colors-in-spfx-5ak7)
+- [Building an AI Chatbot with Google AI Studio &amp; Flask. And how you can create one yourself.](https://dev.to/arseytech/building-an-ai-chatbot-with-google-ai-studio-flask-on-a-smartphone-and-how-you-can-27f9)
+- [Overview of Statsmodels](https://dev.to/shittu_olumide_/overview-of-statsmodels-2jba)
 <!-- BLOG-POST-LIST:END -->
 
