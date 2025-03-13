@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Theory #1](https://dev.to/alvin_seyidov_6b9e3a5dffa/code-theory-1-39b0)
-- [How to generate random colors in SPFx](https://dev.to/ruthramugesh/how-to-generate-random-colors-in-spfx-5ak7)
-- [Building an AI Chatbot with Google AI Studio &amp; Flask. And how you can create one yourself.](https://dev.to/arseytech/building-an-ai-chatbot-with-google-ai-studio-flask-on-a-smartphone-and-how-you-can-27f9)
-- [Overview of Statsmodels](https://dev.to/shittu_olumide_/overview-of-statsmodels-2jba)
+- [10 Latest Animation Tools for Designers and Devs: Smooth Handoff Included](https://dev.to/muyheeza/10-latest-animation-tools-for-designers-and-devs-smooth-handoff-included-5h0k)
+- [A detailed comparison of Amazon Web Services cost models for compute storage and data transfer](https://dev.to/marufhossain/a-detailed-comparison-of-amazon-web-services-cost-models-for-compute-storage-and-data-transfer-3l4e)
+- [Mieux tester en optimisant la génération de données de test : Panorama des patterns](https://dev.to/singebob/mieux-tester-en-optimisant-la-generation-de-donnees-de-test-panorama-des-patterns-1cde)
+- [Overcoming Four Hours of Terraform Troubleshooting: Automating Nginx Deployment on AWS](https://dev.to/jamiu_cloud/overcoming-four-hours-of-terraform-troubleshooting-automating-nginx-deployment-on-aws-5205)
 <!-- BLOG-POST-LIST:END -->
 
