@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the Keyboard with Stimulus](https://dev.to/railsdesigner/using-the-keyboard-with-stimulus-4p08)
-- [🧙‍♂️ Directivas en Angular: ¡Magia para tu HTML! 🪄](https://dev.to/cristian_arieta_7df932e5f/directivas-en-angular-magia-para-tu-html-1b52)
-- [Data Redaction and View Enhancements – Oracle 23ai&lpar;23.6&rpar;](https://dev.to/vahidusefzadeh/data-redaction-and-view-enhancements-oracle-23ai236-462a)
-- [5 Easy Methods to Implement Dark Mode in React Native](https://dev.to/buttercms/5-easy-methods-to-implement-dark-mode-in-react-native-3n08)
+- [Designing a successful Application Security Program: Strategies, Practices and tools for optimal Results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-practices-and-tools-for-optimal-489f)
+- [Building a Real-time Laptop Monitoring System with Flask and Redis](https://dev.to/bansikah/building-a-real-time-laptop-monitoring-system-with-flask-and-redis-3mch)
+- [Interacting with Amazon Bedrock Model through API Gateway and Lambda Functions](https://dev.to/andrii-shykhov/interacting-with-amazon-bedrock-model-through-api-gateway-and-lambda-functions-1g36)
+- [TanStack for Beginners: A Complete Guide &amp; Tutorial](https://dev.to/codeparrot/tanstack-for-beginners-a-complete-guide-tutorial-2ch3)
 <!-- BLOG-POST-LIST:END -->
 
