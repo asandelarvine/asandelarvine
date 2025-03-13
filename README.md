@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Approach to Building a Developer Portfolio](https://dev.to/tomomomomomomomo/my-approach-to-building-a-developer-portfolio-17do)
-- [from fpdf import FPDF # Membuat objek PDF pdf = FPDF&lpar;&rpar; pdf.set_auto_page_break&lpar;auto=True, margin=15&rpar; pdf.add_page&lpar;&rpar; pdf.set_font&lpar;&quot;Arial&quot;, style=&#39;&#39;, size=12&rpar; # Cover pdf.set_font&lpar;&quot;Arial&quot;, style=&#39;B&#39;, size=16&rpar; pdf.cell&lpar;200, 10, &quot;KAJIAN TEORI: TEORI DAN PRAK](https://dev.to/lula_moon_62d5dba26e056e0/from-fpdf-import-fpdf-membuat-objek-pdf-pdf-fpdf-pdfsetautopagebreakautotrue-k2p)
-- [🚀 Mastering React Hooks: The Ultimate Guide &lpar;With Examples!&rpar;](https://dev.to/ersuman/mastering-react-hooks-the-ultimate-guide-with-examples-ao9)
-- [Tired of Confusing Commits? Here’s How to Fix Them with Commitlint!🚀](https://dev.to/amankrsahu/tired-of-confusing-commits-heres-how-to-fix-them-with-commitlint-3lfj)
+- [DEV.to API를 통한 자동 포스팅 테스트](https://dev.to/goodword2654/devto-apireul-tonghan-jadong-poseuting-teseuteu-4g14)
+- [GemCity TECH: Tech Roulette](https://dev.to/rfornal/gemcity-tech-tech-roulette-oln)
+- [Hardware Entropy: The Hidden Foundation of Modern Cryptography](https://dev.to/mochafreddo/hardware-entropy-the-hidden-foundation-of-modern-cryptography-1a88)
+- [Future Is Here | Submission For Future Writing Challenge](https://dev.to/hanzla-baig/future-is-here-submission-for-future-writing-challenge-2l1m)
 <!-- BLOG-POST-LIST:END -->
 
