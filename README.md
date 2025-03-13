@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a successful Application Security Program: Strategies, Practices and tools for optimal Results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-practices-and-tools-for-optimal-489f)
-- [Building a Real-time Laptop Monitoring System with Flask and Redis](https://dev.to/bansikah/building-a-real-time-laptop-monitoring-system-with-flask-and-redis-3mch)
-- [Interacting with Amazon Bedrock Model through API Gateway and Lambda Functions](https://dev.to/andrii-shykhov/interacting-with-amazon-bedrock-model-through-api-gateway-and-lambda-functions-1g36)
-- [TanStack for Beginners: A Complete Guide &amp; Tutorial](https://dev.to/codeparrot/tanstack-for-beginners-a-complete-guide-tutorial-2ch3)
+- [Fix &#39;sh: next: command not found&#39; in Next.js – Quick &amp; Easy Solution!](https://dev.to/surjoyday_kt/fix-sh-next-command-not-found-in-nextjs-quick-easy-solution-2ilf)
+- [ECS CloudFormation Taking Forever - Just for a Failed Deployment](https://dev.to/aws-builders/ecs-cloudformation-taking-forever-just-for-a-failed-deployment-41k7)
+- [Mastering Error Handling in Rust: Beyond Result and Option](https://dev.to/leapcell/mastering-error-handling-in-rust-beyond-result-and-option-468f)
+- [Creating Company-Standard Errors in Node.js Microservices &lpar;Part 1&rpar;](https://dev.to/skillnter/creating-company-standard-errors-in-nodejs-microservices-part-1-3d2n)
 <!-- BLOG-POST-LIST:END -->
 
