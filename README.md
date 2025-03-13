@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Ready Development Environments: How Daytona Powers Code Agents](https://dev.to/jaysaadana/building-ai-ready-development-environments-how-daytona-powers-code-agents-460g)
-- [Implementing Protected Dashboards Using Node.JS](https://dev.to/bhavyajain/implementing-protected-dashboards-using-nodejs-52p5)
-- [System.Security.Cryptogrphy.X509Certificate is not supported with blazor.webassembly. How to proceed for this?](https://dev.to/upreti/systemsecuritycryptogrphyx509certificate-is-not-supported-with-blazorwebassembly-how-to-3193)
-- [Breaking Barriers: My Journey from SEO to Cloud Engineering](https://dev.to/nishanth1810/breaking-barriers-my-journey-from-seo-to-cloud-engineering-pfb)
+- [ToastMagic — Laravel Toaster: Enhance Your Laravel App with Elegant Toast Notifications](https://dev.to/devrabiul/toastmagic-laravel-toaster-enhance-your-laravel-app-with-elegant-toast-notifications-3019)
+- [JavaScript Obfuscator – Secure Your Code with ToolXPro JS Obfuscator](https://dev.to/saneflixofficial/javascript-obfuscator-secure-your-code-with-toolxpro-js-obfuscator-3f4d)
+- [What is a Secure Web Gateway &lpar;SWG&rpar;?](https://dev.to/clouddefenseai/what-is-a-secure-web-gateway-swg-2bjd)
+- [From Hype to Reality: Why Generative AI Adoption Stalls &lpar;and How to Fix It&rpar;](https://dev.to/azeem_shafeeq/from-hype-to-reality-why-generative-ai-adoption-stalls-and-how-to-fix-it-5bnm)
 <!-- BLOG-POST-LIST:END -->
 
