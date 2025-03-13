@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S3e2: Gitting, Started](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e2-gitting-started-5bfe)
-- [[Boost]](https://dev.to/vitalets/-5gg9)
-- [Part 3: Exit animations](https://dev.to/qwerjoe/part-3-exit-animations-5bn4)
-- [Building a System Information Fetch Tool in Bash](https://dev.to/beta_shorts_7f1150259405a/building-a-system-information-fetch-tool-in-bash-56h0)
+- [TDD vs BDD: Which Testing Method Drives Better Code Quality?](https://dev.to/testwithtorin/tdd-vs-bdd-which-testing-method-drives-better-code-quality-3apn)
+- [🚀 Your Daily Crypto Job Digest For 13 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-march-323b)
+- [[Tutorial] Chapter 4: Task and Comment Plugins](https://dev.to/nocobase/tutorial-chapter-4-task-and-comment-plugins-4kbh)
+- [Understanding Uvicorn: The basics](https://dev.to/ceb10n/understanding-uvicorn-4gi8)
 <!-- BLOG-POST-LIST:END -->
 
