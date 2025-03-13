@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurolov Partners with Victus Global: Strategic Services to Supercharge $NLOV and Decentralized AI Growth](https://dev.to/neurolov_ai_/neurolov-partners-with-victus-global-strategic-services-to-supercharge-nlov-and-decentralized-ai-1jpm)
-- [Hybrid Chatbots and REST API: Custom Development vs. Available Solutions](https://dev.to/janwiesner/hybrid-chatbots-and-rest-api-custom-development-vs-available-solutions-58hc)
-- [80% of Software Engineers Fail to Become Senior Developers — And Here’s Why](https://dev.to/web_dev-usman/80-of-software-engineers-fail-to-become-senior-developers-and-heres-why-5di4)
-- [Почему язык программирования Java - это прекрасный выбор для начинающих разработчиков?](https://dev.to/sundaycoding/pochiemu-iazyk-proghrammirovaniia-java-eto-priekrasnyi-vybor-dlia-nachinaiushchikh-razrabotchikov-1gjo)
+- [The Adventures of Blink S3e2: Gitting, Started](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e2-gitting-started-5bfe)
+- [[Boost]](https://dev.to/vitalets/-5gg9)
+- [Part 3: Exit animations](https://dev.to/qwerjoe/part-3-exit-animations-5bn4)
+- [Building a System Information Fetch Tool in Bash](https://dev.to/beta_shorts_7f1150259405a/building-a-system-information-fetch-tool-in-bash-56h0)
 <!-- BLOG-POST-LIST:END -->
 
