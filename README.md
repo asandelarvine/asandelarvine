@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 17 DevOps AI Tools [2025]](https://dev.to/aws-builders/top-17-devops-ai-tools-2025-4go5)
-- [Struggling with unrealistic deadlines, endless meetings, and poor project planning? Developers face these challenges daily! 🚀 Check out the 10 biggest project management mistakes that frustrate dev teams—and how Teamcamp helps solve them. Read now! #devop](https://dev.to/pratham_naik_project_manager/struggling-with-unrealistic-deadlines-endless-meetings-and-poor-project-planning-developers-face-pl9)
-- [10 Project Management Mistakes That Drive Developers Crazy](https://dev.to/pratham_naik_project_manager/10-project-management-mistakes-that-drive-developers-crazy-57pk)
-- [Navigating PostgreSQL - Index, Index Only and Bitmap Index Scans Explained](https://dev.to/aditya999123/navigating-postgresql-index-index-only-and-bitmap-index-scans-explained-4bml)
+- [Building AI-Ready Development Environments: How Daytona Powers Code Agents](https://dev.to/jaysaadana/building-ai-ready-development-environments-how-daytona-powers-code-agents-460g)
+- [Implementing Protected Dashboards Using Node.JS](https://dev.to/bhavyajain/implementing-protected-dashboards-using-nodejs-52p5)
+- [System.Security.Cryptogrphy.X509Certificate is not supported with blazor.webassembly. How to proceed for this?](https://dev.to/upreti/systemsecuritycryptogrphyx509certificate-is-not-supported-with-blazorwebassembly-how-to-3193)
+- [Breaking Barriers: My Journey from SEO to Cloud Engineering](https://dev.to/nishanth1810/breaking-barriers-my-journey-from-seo-to-cloud-engineering-pfb)
 <!-- BLOG-POST-LIST:END -->
 
