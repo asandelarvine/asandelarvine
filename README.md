@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TDD vs BDD: Which Testing Method Drives Better Code Quality?](https://dev.to/testwithtorin/tdd-vs-bdd-which-testing-method-drives-better-code-quality-3apn)
-- [🚀 Your Daily Crypto Job Digest For 13 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-march-323b)
-- [[Tutorial] Chapter 4: Task and Comment Plugins](https://dev.to/nocobase/tutorial-chapter-4-task-and-comment-plugins-4kbh)
-- [Understanding Uvicorn: The basics](https://dev.to/ceb10n/understanding-uvicorn-4gi8)
+- [Unveiling the Netscape Public License: A Journey Through Innovation and Fair Code](https://dev.to/ahmmrizv9/unveiling-the-netscape-public-license-a-journey-through-innovation-and-fair-code-2j6n)
+- [Self-Hosting Wikipedia &lpar;and other sites ...&rpar; with Kiwix](https://dev.to/matthieusb/self-hosting-wikipedia-and-other-sites-with-kiwix-2nfn)
+- [Interpreted vs. Compiled Languages: Understanding the Difference](https://dev.to/gridou/interpreted-vs-compiled-languages-understanding-the-difference-4ak8)
+- [Embedded Wallets 2.0: A More Powerful, Flexible Web3 Experience](https://dev.to/deseniska/embedded-wallets-20-a-more-powerful-flexible-web3-experience-1gec)
 <!-- BLOG-POST-LIST:END -->
 
