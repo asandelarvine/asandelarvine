@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Exploits That Got Patched](https://dev.to/snappytuts/python-exploits-that-got-patched-4fja)
-- [Setting the correct database connection on production with Render](https://dev.to/bendirtdev/setting-the-correct-database-connection-on-production-with-render-5dm5)
-- [Stop Wasting Time: Learn JavaScript Smarter, Not Harder](https://dev.to/0x3d_site/stop-wasting-time-learn-javascript-smarter-not-harder-25od)
-- [How to Build Reusable Components Using React](https://dev.to/buttercms/how-to-build-reusable-components-using-react-2d36)
+- [Using the Keyboard with Stimulus](https://dev.to/railsdesigner/using-the-keyboard-with-stimulus-4p08)
+- [🧙‍♂️ Directivas en Angular: ¡Magia para tu HTML! 🪄](https://dev.to/cristian_arieta_7df932e5f/directivas-en-angular-magia-para-tu-html-1b52)
+- [Data Redaction and View Enhancements – Oracle 23ai&lpar;23.6&rpar;](https://dev.to/vahidusefzadeh/data-redaction-and-view-enhancements-oracle-23ai236-462a)
+- [5 Easy Methods to Implement Dark Mode in React Native](https://dev.to/buttercms/5-easy-methods-to-implement-dark-mode-in-react-native-3n08)
 <!-- BLOG-POST-LIST:END -->
 
