@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix &#39;sh: next: command not found&#39; in Next.js – Quick &amp; Easy Solution!](https://dev.to/surjoyday_kt/fix-sh-next-command-not-found-in-nextjs-quick-easy-solution-2ilf)
-- [ECS CloudFormation Taking Forever - Just for a Failed Deployment](https://dev.to/aws-builders/ecs-cloudformation-taking-forever-just-for-a-failed-deployment-41k7)
-- [Mastering Error Handling in Rust: Beyond Result and Option](https://dev.to/leapcell/mastering-error-handling-in-rust-beyond-result-and-option-468f)
-- [Creating Company-Standard Errors in Node.js Microservices &lpar;Part 1&rpar;](https://dev.to/skillnter/creating-company-standard-errors-in-nodejs-microservices-part-1-3d2n)
+- [AWS Fargate Deep Dive: Key Takeaways from Melbourne User Group](https://dev.to/aws-builders/aws-fargate-deep-dive-key-takeaways-from-melbourne-user-group-kl5)
+- [Game-Changing Guide to SQL for SEO Optimization](https://dev.to/anastasia-kotsiubynska/game-changing-guide-to-sql-for-seo-optimization-i78)
+- [Y&#39;all. What the heck is Vibe Coding?](https://dev.to/patchnotes_/yall-what-the-heck-is-vibe-coding-55dl)
+- [Building a community-led product roadmap](https://dev.to/quadraticai/building-a-community-led-product-roadmap-4lgb)
 <!-- BLOG-POST-LIST:END -->
 
