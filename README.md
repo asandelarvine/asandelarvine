@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Nokia Open Source License: A New Era in Fair Code Licensing](https://dev.to/ahmmrizv9/unveiling-the-nokia-open-source-license-a-new-era-in-fair-code-licensing-2ko5)
-- [Don&#39;t Let Incidents Drown Your Support Team: How to Minimize Support Requests](https://dev.to/leotulii/incidents-drown-your-team-22o5)
-- [Introduction](https://dev.to/jennythomas498/introduction-4pnd)
-- [Mapping History with Code: Digitizing the Île de la Cité](https://dev.to/marc_pissot_752975d2f3988/mapping-history-with-code-digitizing-the-ile-de-la-cite-57ae)
+- [My Approach to Building a Developer Portfolio](https://dev.to/tomomomomomomomo/my-approach-to-building-a-developer-portfolio-17do)
+- [from fpdf import FPDF # Membuat objek PDF pdf = FPDF&lpar;&rpar; pdf.set_auto_page_break&lpar;auto=True, margin=15&rpar; pdf.add_page&lpar;&rpar; pdf.set_font&lpar;&quot;Arial&quot;, style=&#39;&#39;, size=12&rpar; # Cover pdf.set_font&lpar;&quot;Arial&quot;, style=&#39;B&#39;, size=16&rpar; pdf.cell&lpar;200, 10, &quot;KAJIAN TEORI: TEORI DAN PRAK](https://dev.to/lula_moon_62d5dba26e056e0/from-fpdf-import-fpdf-membuat-objek-pdf-pdf-fpdf-pdfsetautopagebreakautotrue-k2p)
+- [🚀 Mastering React Hooks: The Ultimate Guide &lpar;With Examples!&rpar;](https://dev.to/ersuman/mastering-react-hooks-the-ultimate-guide-with-examples-ao9)
+- [Tired of Confusing Commits? Here’s How to Fix Them with Commitlint!🚀](https://dev.to/amankrsahu/tired-of-confusing-commits-heres-how-to-fix-them-with-commitlint-3lfj)
 <!-- BLOG-POST-LIST:END -->
 
