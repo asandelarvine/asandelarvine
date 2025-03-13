@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pad in PyTorch](https://dev.to/hyperkai/pad-in-pytorch-3f5g)
-- [Type Inference vs. Explicit Types in TypeScript: Are You Doing It Right?](https://dev.to/bytecrafter/type-inference-vs-explicit-types-in-typescript-are-you-doing-it-right-7ig)
-- [Understanding Metrics in Microservices &amp; Kubernetes](https://dev.to/sharada_vallem_e7b5e08dd1/understanding-metrics-in-microservices-kubernetes-1mbd)
-- [Connecting C++ to Python using Boost.Python...](https://dev.to/sommukhopadhyay/connecting-c-to-python-using-boostpython-321)
+- [How to Make Dynamic Configuration Changes in Spring Boot Without Restarting Your Application](https://dev.to/adityabhuyan/how-to-make-dynamic-configuration-changes-in-spring-boot-without-restarting-your-application-1f7f)
+- [AI Agents with Fetch.ai: Tips for Smarter Automation ⚡](https://dev.to/ramkumar-m-n/ai-agents-with-fetchai-tips-for-smarter-automation-52nc)
+- [Isolated API Routing in ViteJS with `vite-plugin-api-routes`](https://dev.to/yracnet/isolated-api-routing-in-vitejs-with-vite-plugin-api-routes-480e)
+- [150/365 | ¥10M Job Challenge - Beliefs about life](https://dev.to/kameken100/150365-y10m-job-challenge-beliefs-about-life-a9c)
 <!-- BLOG-POST-LIST:END -->
 
