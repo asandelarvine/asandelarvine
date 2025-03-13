@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fargate Deep Dive: Key Takeaways from Melbourne User Group](https://dev.to/aws-builders/aws-fargate-deep-dive-key-takeaways-from-melbourne-user-group-kl5)
-- [Game-Changing Guide to SQL for SEO Optimization](https://dev.to/anastasia-kotsiubynska/game-changing-guide-to-sql-for-seo-optimization-i78)
-- [Y&#39;all. What the heck is Vibe Coding?](https://dev.to/patchnotes_/yall-what-the-heck-is-vibe-coding-55dl)
-- [Building a community-led product roadmap](https://dev.to/quadraticai/building-a-community-led-product-roadmap-4lgb)
+- [Creating a Scalable ETL Pipeline with S3, Lambda, and AWS Glue using AWS Glue](https://dev.to/devlinkstudios/creating-a-scalable-etl-pipeline-with-s3-lambda-and-aws-glue-using-aws-glue-1339)
+- [Directory-Based Resolver Mapping for AWS AppSync](https://dev.to/thesnups/directory-based-resolver-mapping-for-aws-appsync-3cp4)
+- [From ServerPilot to ServerHash: How I Built My Own SaaS and Made $700 in the First Month](https://dev.to/ifbasit/from-serverpilot-to-serverhash-how-i-built-my-own-saas-and-made-700-in-the-first-month-3jb5)
+- [MongoDB Multi-Planner Optimizer and Plan Cache](https://dev.to/franckpachot/mongodb-multi-planner-optimizer-and-plan-cache-3g27)
 <!-- BLOG-POST-LIST:END -->
 
