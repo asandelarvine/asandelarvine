@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Netscape Public License: A Journey Through Innovation and Fair Code](https://dev.to/ahmmrizv9/unveiling-the-netscape-public-license-a-journey-through-innovation-and-fair-code-2j6n)
-- [Self-Hosting Wikipedia &lpar;and other sites ...&rpar; with Kiwix](https://dev.to/matthieusb/self-hosting-wikipedia-and-other-sites-with-kiwix-2nfn)
-- [Interpreted vs. Compiled Languages: Understanding the Difference](https://dev.to/gridou/interpreted-vs-compiled-languages-understanding-the-difference-4ak8)
-- [Embedded Wallets 2.0: A More Powerful, Flexible Web3 Experience](https://dev.to/deseniska/embedded-wallets-20-a-more-powerful-flexible-web3-experience-1gec)
+- [Inside the Engine: How AI Coding Assistants Work and What Every Developer Must Know Before Using Them](https://dev.to/naveens16/inside-the-engine-how-ai-coding-assistants-work-and-what-every-developer-must-know-before-using-4d7)
+- [Unveiling the Q Public License: A New Era in Fair Code Licensing](https://dev.to/vitalisorenko/unveiling-the-q-public-license-a-new-era-in-fair-code-licensing-3fk1)
+- [GraphQL vs. REST APIs: What’s the difference between them](https://dev.to/logrocket/graphql-vs-rest-apis-whats-the-difference-between-them-3005)
+- [Django admin tricks I commonly use](https://dev.to/exler/django-admin-tricks-i-commonly-use-2imp)
 <!-- BLOG-POST-LIST:END -->
 
