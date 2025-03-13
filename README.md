@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Boosting RAG Systems: Master Text Chunking for Optimal Performance!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-rag-systems-master-text-chunking-for-optimal-performance-5d8j)
-- [Does MiniScript Need Variadic Functions?](https://dev.to/bibleclinger/does-miniscript-need-variadic-functions-53a0)
-- [A Step-by-Step Guide to Building Your First GAN Model](https://dev.to/aditya_tripathi_17ffee7f5/a-step-by-step-guide-to-building-your-first-gan-model-1egp)
-- [Accelerate Your Software Delivery With These Top 5 DevOps Services](https://dev.to/msystech/accelerate-your-software-delivery-with-these-top-5-devops-services-5e41)
+- [Prevent Session Replay Attacks in Laravel: A Complete Guide](https://dev.to/pentest_testing_corp/prevent-session-replay-attacks-in-laravel-a-complete-guide-e28)
+- [Solving the Valid Palindrome Problem in Java](https://dev.to/brianseo/solving-the-valid-palindrome-problem-in-java-4i70)
+- [JSON to XML Converter - A Free Online Tool by Pinggy](https://dev.to/lightningdev123/json-to-xml-converter-a-free-online-tool-by-pinggy-285m)
+- [The Pain Point — Database Changes Gone Wrong](https://dev.to/mghassen/the-pain-point-database-changes-gone-wrong-m3a)
 <!-- BLOG-POST-LIST:END -->
 
