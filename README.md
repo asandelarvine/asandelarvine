@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Latest Animation Tools for Designers and Devs: Smooth Handoff Included](https://dev.to/muyheeza/10-latest-animation-tools-for-designers-and-devs-smooth-handoff-included-5h0k)
-- [A detailed comparison of Amazon Web Services cost models for compute storage and data transfer](https://dev.to/marufhossain/a-detailed-comparison-of-amazon-web-services-cost-models-for-compute-storage-and-data-transfer-3l4e)
-- [Mieux tester en optimisant la génération de données de test : Panorama des patterns](https://dev.to/singebob/mieux-tester-en-optimisant-la-generation-de-donnees-de-test-panorama-des-patterns-1cde)
-- [Overcoming Four Hours of Terraform Troubleshooting: Automating Nginx Deployment on AWS](https://dev.to/jamiu_cloud/overcoming-four-hours-of-terraform-troubleshooting-automating-nginx-deployment-on-aws-5205)
+- [Python Exploits That Got Patched](https://dev.to/snappytuts/python-exploits-that-got-patched-4fja)
+- [Setting the correct database connection on production with Render](https://dev.to/bendirtdev/setting-the-correct-database-connection-on-production-with-render-5dm5)
+- [Stop Wasting Time: Learn JavaScript Smarter, Not Harder](https://dev.to/0x3d_site/stop-wasting-time-learn-javascript-smarter-not-harder-25od)
+- [How to Build Reusable Components Using React](https://dev.to/buttercms/how-to-build-reusable-components-using-react-2d36)
 <!-- BLOG-POST-LIST:END -->
 
