@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV.to API를 통한 자동 포스팅 테스트](https://dev.to/goodword2654/devto-apireul-tonghan-jadong-poseuting-teseuteu-4g14)
-- [GemCity TECH: Tech Roulette](https://dev.to/rfornal/gemcity-tech-tech-roulette-oln)
-- [Hardware Entropy: The Hidden Foundation of Modern Cryptography](https://dev.to/mochafreddo/hardware-entropy-the-hidden-foundation-of-modern-cryptography-1a88)
-- [Future Is Here | Submission For Future Writing Challenge](https://dev.to/hanzla-baig/future-is-here-submission-for-future-writing-challenge-2l1m)
+- [Pad in PyTorch](https://dev.to/hyperkai/pad-in-pytorch-3f5g)
+- [Type Inference vs. Explicit Types in TypeScript: Are You Doing It Right?](https://dev.to/bytecrafter/type-inference-vs-explicit-types-in-typescript-are-you-doing-it-right-7ig)
+- [Understanding Metrics in Microservices &amp; Kubernetes](https://dev.to/sharada_vallem_e7b5e08dd1/understanding-metrics-in-microservices-kubernetes-1mbd)
+- [Connecting C++ to Python using Boost.Python...](https://dev.to/sommukhopadhyay/connecting-c-to-python-using-boostpython-321)
 <!-- BLOG-POST-LIST:END -->
 
