@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent Session Replay Attacks in Laravel: A Complete Guide](https://dev.to/pentest_testing_corp/prevent-session-replay-attacks-in-laravel-a-complete-guide-e28)
-- [Solving the Valid Palindrome Problem in Java](https://dev.to/brianseo/solving-the-valid-palindrome-problem-in-java-4i70)
-- [JSON to XML Converter - A Free Online Tool by Pinggy](https://dev.to/lightningdev123/json-to-xml-converter-a-free-online-tool-by-pinggy-285m)
-- [The Pain Point — Database Changes Gone Wrong](https://dev.to/mghassen/the-pain-point-database-changes-gone-wrong-m3a)
+- [Neurolov Partners with Victus Global: Strategic Services to Supercharge $NLOV and Decentralized AI Growth](https://dev.to/neurolov_ai_/neurolov-partners-with-victus-global-strategic-services-to-supercharge-nlov-and-decentralized-ai-1jpm)
+- [Hybrid Chatbots and REST API: Custom Development vs. Available Solutions](https://dev.to/janwiesner/hybrid-chatbots-and-rest-api-custom-development-vs-available-solutions-58hc)
+- [80% of Software Engineers Fail to Become Senior Developers — And Here’s Why](https://dev.to/web_dev-usman/80-of-software-engineers-fail-to-become-senior-developers-and-heres-why-5di4)
+- [Почему язык программирования Java - это прекрасный выбор для начинающих разработчиков?](https://dev.to/sundaycoding/pochiemu-iazyk-proghrammirovaniia-java-eto-priekrasnyi-vybor-dlia-nachinaiushchikh-razrabotchikov-1gjo)
 <!-- BLOG-POST-LIST:END -->
 
