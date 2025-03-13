@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ToastMagic — Laravel Toaster: Enhance Your Laravel App with Elegant Toast Notifications](https://dev.to/devrabiul/toastmagic-laravel-toaster-enhance-your-laravel-app-with-elegant-toast-notifications-3019)
-- [JavaScript Obfuscator – Secure Your Code with ToolXPro JS Obfuscator](https://dev.to/saneflixofficial/javascript-obfuscator-secure-your-code-with-toolxpro-js-obfuscator-3f4d)
-- [What is a Secure Web Gateway &lpar;SWG&rpar;?](https://dev.to/clouddefenseai/what-is-a-secure-web-gateway-swg-2bjd)
-- [From Hype to Reality: Why Generative AI Adoption Stalls &lpar;and How to Fix It&rpar;](https://dev.to/azeem_shafeeq/from-hype-to-reality-why-generative-ai-adoption-stalls-and-how-to-fix-it-5bnm)
+- [&quot;Boosting RAG Systems: Master Text Chunking for Optimal Performance!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-rag-systems-master-text-chunking-for-optimal-performance-5d8j)
+- [Does MiniScript Need Variadic Functions?](https://dev.to/bibleclinger/does-miniscript-need-variadic-functions-53a0)
+- [A Step-by-Step Guide to Building Your First GAN Model](https://dev.to/aditya_tripathi_17ffee7f5/a-step-by-step-guide-to-building-your-first-gan-model-1egp)
+- [Accelerate Your Software Delivery With These Top 5 DevOps Services](https://dev.to/msystech/accelerate-your-software-delivery-with-these-top-5-devops-services-5e41)
 <!-- BLOG-POST-LIST:END -->
 
