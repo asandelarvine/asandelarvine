@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Dynamic Configuration Changes in Spring Boot Without Restarting Your Application](https://dev.to/adityabhuyan/how-to-make-dynamic-configuration-changes-in-spring-boot-without-restarting-your-application-1f7f)
-- [AI Agents with Fetch.ai: Tips for Smarter Automation ⚡](https://dev.to/ramkumar-m-n/ai-agents-with-fetchai-tips-for-smarter-automation-52nc)
-- [Isolated API Routing in ViteJS with `vite-plugin-api-routes`](https://dev.to/yracnet/isolated-api-routing-in-vitejs-with-vite-plugin-api-routes-480e)
-- [150/365 | ¥10M Job Challenge - Beliefs about life](https://dev.to/kameken100/150365-y10m-job-challenge-beliefs-about-life-a9c)
+- [Top 17 DevOps AI Tools [2025]](https://dev.to/aws-builders/top-17-devops-ai-tools-2025-4go5)
+- [Struggling with unrealistic deadlines, endless meetings, and poor project planning? Developers face these challenges daily! 🚀 Check out the 10 biggest project management mistakes that frustrate dev teams—and how Teamcamp helps solve them. Read now! #devop](https://dev.to/pratham_naik_project_manager/struggling-with-unrealistic-deadlines-endless-meetings-and-poor-project-planning-developers-face-pl9)
+- [10 Project Management Mistakes That Drive Developers Crazy](https://dev.to/pratham_naik_project_manager/10-project-management-mistakes-that-drive-developers-crazy-57pk)
+- [Navigating PostgreSQL - Index, Index Only and Bitmap Index Scans Explained](https://dev.to/aditya999123/navigating-postgresql-index-index-only-and-bitmap-index-scans-explained-4bml)
 <!-- BLOG-POST-LIST:END -->
 
