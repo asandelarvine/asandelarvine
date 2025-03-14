@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Small Teams Are Changing the World 🎯](https://dev.to/alikolahdoozan/how-small-teams-are-changing-the-world-hd4)
-- [How Kubernetes Simplifies Cloud Application Deployment, Scaling, and Management](https://dev.to/adityabhuyan/how-kubernetes-simplifies-cloud-application-deployment-scaling-and-management-588o)
-- [Deploy Next.js on AWS EC2 with PM2, Nginx, and Cloudflare CDN](https://dev.to/duythenight/deploy-nextjs-on-aws-ec2-with-pm2-nginx-and-cloudflare-cdn-b42)
-- [Using Excel Today Function in 2025!](https://dev.to/excel24x7/using-excel-today-function-in-2025-2de)
+- [Map vs Set: Modern Alternatives to Objects in JavaScript](https://dev.to/ayako_yk/map-vs-set-modern-alternatives-to-objects-in-javascript-24a9)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-d7f)
+- [Stop Wasting Time Writing Code for APIs](https://dev.to/lonti-davidb/stop-wasting-time-writing-code-for-apis-2hlf)
+- [Understanding Asynchronous Programming in JavaScript](https://dev.to/million_formula_3be3d915d/understanding-asynchronous-programming-in-javascript-bk9)
 <!-- BLOG-POST-LIST:END -->
 
