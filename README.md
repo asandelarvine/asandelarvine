@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS Fundamentals](https://dev.to/godofgeeks/dns-fundamentals-5ng)
-- [7 Useful Custom Hooks Every React Beginner Should Know](https://dev.to/muhammed_fayazts_e35676/7-useful-custom-hooks-every-react-beginner-should-know-566m)
-- [Dev Roles and the Truth Behind Them](https://dev.to/matemiller/dev-roles-and-the-truth-behind-them-1acn)
-- [Dynamic Programming](https://dev.to/mujahida_joynab_64c7407d8/dynamic-programming-eb1)
+- [What is URL Filtering?](https://dev.to/clouddefenseai/what-is-url-filtering-58fa)
+- [Automating Code Reviews with AI: A Game Changer for Dev Teams](https://dev.to/devresurrect_f18e7d7b7bc6/automating-code-reviews-with-ai-a-game-changer-for-dev-teams-2li7)
+- [Overcoming Challenges in Selenium Scraping with Proxies](https://dev.to/swiftproxy_residential/overcoming-challenges-in-selenium-scraping-with-proxies-h6j)
+- [How to Enable Dynamic Lighting on Windows 11?](https://dev.to/winsides/how-to-enable-dynamic-lighting-on-windows-11-5c3b)
 <!-- BLOG-POST-LIST:END -->
 
