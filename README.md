@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [aliali2005](https://dev.to/ali_daaif_665ed19face5c32/aliali2005-2f86)
-- [Supercharge Your Automation: Integrating Model Context Protocol &lpar;#mcp&rpar; in n8n](https://dev.to/nerding-io/supercharge-your-automation-integrating-model-context-protocol-mcp-in-n8n-cll)
-- [Unleash the Power of AI: Build a Memory Game in Your Browser](https://dev.to/nerding-io/unleash-the-power-of-ai-build-a-memory-game-in-your-browser-3l5l)
-- [Night Climbing: Tips for Safe and Thrilling After-Dark Adventures by Mountaineering Enthusiasts such as Cesar Alcantara](https://dev.to/cesar12/night-climbing-tips-for-safe-and-thrilling-after-dark-adventures-by-mountaineering-enthusiasts-1l3f)
+- [What Big Tech Companies Can Teach Us About Incident Management](https://dev.to/leotulii/what-big-tech-companies-can-teach-us-about-incident-management-1dof)
+- [How to Build a Custom Django Authentication System: A Comprehensive Guide.](https://dev.to/eslintpurity/how-to-build-a-custom-django-authentication-system-a-comprehensive-guide-33de)
+- [10 Powerful CSS Tips and Tricks That Will Elevate Your Web Design](https://dev.to/italogermando/10-powerful-css-tips-and-tricks-that-will-elevate-your-web-design-4i3l)
+- [How AI is Revolutionizing Web Scraping: Techniques and Code Examples](https://dev.to/alex_aslam/how-ai-is-revolutionizing-web-scraping-techniques-and-code-examples-6k1)
 <!-- BLOG-POST-LIST:END -->
 
