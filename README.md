@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Pi Day! I made a Pi-ano 😆](https://dev.to/best_codes/happy-pi-day-i-made-a-pi-ano-14cj)
-- [4 Costly Mistakes Startups Make and How to Avoid Them](https://dev.to/maeve_daan/4-costly-mistakes-startups-make-and-how-to-avoid-them-53ib)
-- [Mastering React Query: A Practical Guide to Essential Hooks](https://dev.to/luisafc/mastering-react-query-a-practical-guide-to-essential-hooks-21l6)
-- [How to Create Themes &lpar;light/dark&rpar; with Styled-components](https://dev.to/gunnarhalen/how-to-create-themes-lightdark-with-styled-components-4d3f)
+- [Ethical Implications of IP Spoofing: A Technical Examination for Security Practitioners](https://dev.to/micromax/ethical-implications-of-ip-spoofing-a-technical-examination-for-security-practitioners-10ah)
+- [How next.js works on server side rendering ?](https://dev.to/tam_anna/how-nextjs-works-on-server-side-rendering--bal)
+- [Network Link Conditioner: Simulando Conexões Lentas](https://dev.to/hjdesigner/network-link-conditioner-simulando-conexoes-lentas-20o3)
+- [Easy Car Wash Tips](https://dev.to/victorioberra/easy-car-wash-tips-499g)
 <!-- BLOG-POST-LIST:END -->
 
