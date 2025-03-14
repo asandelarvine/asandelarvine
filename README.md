@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Cooperation: Teaming Up with Different Creators](https://dev.to/womansalmon96/the-power-of-cooperation-teaming-up-with-different-creators-4im3)
 - [Making API requests from your spreadsheets](https://dev.to/quadraticai/making-api-requests-from-your-spreadsheets-1m3e)
 - [Git e seu funcionamento interno](https://dev.to/lucasr-luz/git-e-seu-funcionamento-interno-4ale)
 - [&quot;Buggy&quot; bfcache Behavior](https://dev.to/besworks/buggy-bfcache-behavior-1a6e)
-- [Turning testing frameworks &quot;post-it notes&quot; into a Testing Arsenal](https://dev.to/inanoniloquent/turning-testing-frameworks-post-it-notes-into-a-testing-arsenal-4m0b)
 <!-- BLOG-POST-LIST:END -->
 
