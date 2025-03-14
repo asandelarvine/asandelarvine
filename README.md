@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Change the App Icon in React Native](https://dev.to/amitkumar13/how-to-change-the-app-icon-in-react-native-1k43)
-- [Building a Scalable &amp; Secure ELK Stack Infrastructure – A Practical Guide](https://dev.to/chaira/building-a-scalable-secure-elk-stack-infrastructure-a-practical-guide-37hb)
-- [Build Y: An Open-Source Playground for Breakthrough Inventions](https://dev.to/abhinavsharma_devto/an-open-source-playground-for-breakthrough-inventions-3ank)
-- [Game Dev Digest — Issue #273 - Small Games, Data Structures, Patterns and more](https://dev.to/gamedevdigest/game-dev-digest-issue-273-small-games-data-structures-patterns-and-more-230f)
+- [Efficient File Uploads in CampusX with Multer](https://dev.to/prathvihan108/efficient-file-uploads-in-campusx-with-multer-4p90)
+- [How To Fetch &lpar;Get&rpar; HTML From Server 🛤️](https://dev.to/hmpljs/how-to-fetch-get-html-from-server-4mdg)
+- [When AI isn&#39;t there, but it feels as though it is.](https://dev.to/deven_trafny_39709b220b1d/when-ai-isnt-there-but-it-feels-as-though-it-is-143i)
+- [How AI Makes Our Leisure Smarter: From Travel Planning to Playlist Creation](https://dev.to/klimd1389/how-ai-makes-our-leisure-smarter-from-travel-planning-to-playlist-creation-4lnj)
 <!-- BLOG-POST-LIST:END -->
 
