@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Cooperation: Teaming Up with Different Creators](https://dev.to/womansalmon96/the-power-of-cooperation-teaming-up-with-different-creators-4im3)
-- [Making API requests from your spreadsheets](https://dev.to/quadraticai/making-api-requests-from-your-spreadsheets-1m3e)
-- [Git e seu funcionamento interno](https://dev.to/lucasr-luz/git-e-seu-funcionamento-interno-4ale)
-- [&quot;Buggy&quot; bfcache Behavior](https://dev.to/besworks/buggy-bfcache-behavior-1a6e)
+- [aliali2005](https://dev.to/ali_daaif_665ed19face5c32/aliali2005-2f86)
+- [Supercharge Your Automation: Integrating Model Context Protocol &lpar;#mcp&rpar; in n8n](https://dev.to/nerding-io/supercharge-your-automation-integrating-model-context-protocol-mcp-in-n8n-cll)
+- [Unleash the Power of AI: Build a Memory Game in Your Browser](https://dev.to/nerding-io/unleash-the-power-of-ai-build-a-memory-game-in-your-browser-3l5l)
+- [Night Climbing: Tips for Safe and Thrilling After-Dark Adventures by Mountaineering Enthusiasts such as Cesar Alcantara](https://dev.to/cesar12/night-climbing-tips-for-safe-and-thrilling-after-dark-adventures-by-mountaineering-enthusiasts-1l3f)
 <!-- BLOG-POST-LIST:END -->
 
