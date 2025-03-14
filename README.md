@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient File Uploads in CampusX with Multer](https://dev.to/prathvihan108/efficient-file-uploads-in-campusx-with-multer-4p90)
-- [How To Fetch &lpar;Get&rpar; HTML From Server 🛤️](https://dev.to/hmpljs/how-to-fetch-get-html-from-server-4mdg)
-- [When AI isn&#39;t there, but it feels as though it is.](https://dev.to/deven_trafny_39709b220b1d/when-ai-isnt-there-but-it-feels-as-though-it-is-143i)
-- [How AI Makes Our Leisure Smarter: From Travel Planning to Playlist Creation](https://dev.to/klimd1389/how-ai-makes-our-leisure-smarter-from-travel-planning-to-playlist-creation-4lnj)
+- [Automating CPU and Memory Utilization Logging with Cron Jobs on Windows and Linux](https://dev.to/vachhanirishi/automating-cpu-and-memory-utilization-logging-with-cron-jobs-on-windows-and-linux-2phl)
+- [&quot;Unlocking Image Generation: The Power of Conditional Optimal Transport and GoT&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-conditional-optimal-transport-and-got-31ip)
+- [19+ Laravel Best Practices for Developers in 2024](https://dev.to/buttercms/19-laravel-best-practices-for-developers-in-2024-3h07)
+- [Введение в пакетную обработку и Spark](https://dev.to/pro100v/vviedieniie-v-pakietnuiu-obrabotku-i-spark-14ah)
 <!-- BLOG-POST-LIST:END -->
 
