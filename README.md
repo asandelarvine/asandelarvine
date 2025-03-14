@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Global collaboration: What open source and big tech can teach us](https://dev.to/rob_macdonald_f901970a9ce/global-collaboration-what-open-source-and-big-tech-can-teach-us-4c5a)
-- [How to Use the Skew Tool in 3D CAD Software](https://dev.to/julia970/how-to-use-the-skew-tool-in-3d-cad-software-1fgd)
-- [How to Design an Eye Using 3D CAD Software](https://dev.to/julia970/how-to-design-an-eye-using-3d-cad-software-1i0f)
-- [Getting Started with Cloud Marketplace](https://dev.to/unique-tea/getting-started-with-cloud-marketplace-269b)
+- [Insurance Legacy Software Modernization: Complete Guide](https://dev.to/openkoda/insurance-legacy-software-modernization-complete-guide-2n0c)
+- [Creating A Compute Gallery in Microsoft Azure.](https://dev.to/essy/creating-a-compute-gallery-in-microsoft-azure-1i54)
+- [Signals Are A Game Change For Scalable Angular Apps That Shouldn’t Memory-Leak](https://dev.to/tomaszs2/signals-are-a-game-change-for-scalable-angular-apps-that-shouldnt-memory-leak-3j8k)
+- [Apache Tomcat Partial PUT Remote Code Execution Vulnerability &lpar;CVE-2025-24813&rpar;](https://dev.to/carrie_luo1/apache-tomcat-partial-put-remote-code-execution-vulnerability-cve-2025-24813-1pae)
 <!-- BLOG-POST-LIST:END -->
 
