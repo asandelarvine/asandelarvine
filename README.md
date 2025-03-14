@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 14 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-march-2k18)
-- [Understanding Public Interest Litigation &lpar;PIL&rpar; in India: A Guide for Citizens](https://dev.to/sam_3432cf27edf43445/understanding-public-interest-litigation-pil-in-india-a-guide-for-citizens-1ld9)
-- [Google Gemma 3 Unlocked: The 128K-Token Multimodal AI Breakthrough Every Developer Must Explore](https://dev.to/sayed_ali_alkamel/google-gemma-3-unlocked-the-128k-token-multimodal-ai-breakthrough-every-developer-must-explore-n5k)
-- [𝗛𝗼𝘄 𝘁𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗨𝗽𝗱𝗮𝘁𝗲 𝗦𝗽𝗲𝗻𝘁 𝗔𝗺𝗼𝘂𝗻𝘁 𝗶𝗻 𝗕𝘂𝗱𝗴𝗲𝘁 𝗨𝘀𝗶𝗻𝗴 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿](https://dev.to/supraja_tangella_b7f0738e/-5da2)
+- [How to Change the App Icon in React Native](https://dev.to/amitkumar13/how-to-change-the-app-icon-in-react-native-1k43)
+- [Building a Scalable &amp; Secure ELK Stack Infrastructure – A Practical Guide](https://dev.to/chaira/building-a-scalable-secure-elk-stack-infrastructure-a-practical-guide-37hb)
+- [Build Y: An Open-Source Playground for Breakthrough Inventions](https://dev.to/abhinavsharma_devto/an-open-source-playground-for-breakthrough-inventions-3ank)
+- [Game Dev Digest — Issue #273 - Small Games, Data Structures, Patterns and more](https://dev.to/gamedevdigest/game-dev-digest-issue-273-small-games-data-structures-patterns-and-more-230f)
 <!-- BLOG-POST-LIST:END -->
 
