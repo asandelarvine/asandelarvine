@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Scalable ETL Pipeline with S3, Lambda, and AWS Glue using AWS Glue](https://dev.to/devlinkstudios/creating-a-scalable-etl-pipeline-with-s3-lambda-and-aws-glue-using-aws-glue-1339)
-- [Directory-Based Resolver Mapping for AWS AppSync](https://dev.to/thesnups/directory-based-resolver-mapping-for-aws-appsync-3cp4)
-- [From ServerPilot to ServerHash: How I Built My Own SaaS and Made $700 in the First Month](https://dev.to/ifbasit/from-serverpilot-to-serverhash-how-i-built-my-own-saas-and-made-700-in-the-first-month-3jb5)
-- [MongoDB Multi-Planner Optimizer and Plan Cache](https://dev.to/franckpachot/mongodb-multi-planner-optimizer-and-plan-cache-3g27)
+- [The Impact of Cloud Technology on Custom Software Development](https://dev.to/hybrid-it-services/the-impact-of-cloud-technology-on-custom-software-development-5djf)
+- [📣 &lpar;03.19.25&rpar; Upcoming Live Mentoring Webinar &lpar;Free Admission&rpar;](https://dev.to/h_metacode_74e90df0ee5da6/031925-upcoming-live-mentoring-webinar-free-admission-404)
+- [Why do carpets have to be tested for 16CFR1630 surface flammability?](https://dev.to/rebecca_zhang_53170276935/why-do-carpets-have-to-be-tested-for-16cfr1630-surface-flammability-15o2)
+- [Are 16 CFR 1632 and 16 CFR 1633 the same?](https://dev.to/rebecca_zhang_53170276935/are-16-cfr-1632-and-16-cfr-1633-the-same-5akj)
 <!-- BLOG-POST-LIST:END -->
 
