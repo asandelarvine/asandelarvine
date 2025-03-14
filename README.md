@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Insurance Legacy Software Modernization: Complete Guide](https://dev.to/openkoda/insurance-legacy-software-modernization-complete-guide-2n0c)
-- [Creating A Compute Gallery in Microsoft Azure.](https://dev.to/essy/creating-a-compute-gallery-in-microsoft-azure-1i54)
-- [Signals Are A Game Change For Scalable Angular Apps That Shouldn’t Memory-Leak](https://dev.to/tomaszs2/signals-are-a-game-change-for-scalable-angular-apps-that-shouldnt-memory-leak-3j8k)
-- [Apache Tomcat Partial PUT Remote Code Execution Vulnerability &lpar;CVE-2025-24813&rpar;](https://dev.to/carrie_luo1/apache-tomcat-partial-put-remote-code-execution-vulnerability-cve-2025-24813-1pae)
+- [The Gang of Four &lpar;GOF&rpar; Design Patterns: A Developer&#39;s Guide](https://dev.to/lovestaco/the-gang-of-four-gof-design-patterns-a-developers-guide-473a)
+- [Why Companies in Mexico Are Choosing AWS for Their Cloud Computing Needs and Digital Transformation](https://dev.to/marufhossain/why-companies-in-mexico-are-choosing-aws-for-their-cloud-computing-needs-and-digital-transformation-d2m)
+- [How Technology Makes Our Lives Easier: From Smart Homes to Web3](https://dev.to/andylarkin677/how-technology-makes-our-lives-easier-from-smart-homes-to-web3-52ia)
+- [CryptQuiz - hash quiz](https://dev.to/codewizard123/cryptquiz-hash-quiz-593a)
 <!-- BLOG-POST-LIST:END -->
 
