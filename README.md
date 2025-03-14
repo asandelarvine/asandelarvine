@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gang of Four &lpar;GOF&rpar; Design Patterns: A Developer&#39;s Guide](https://dev.to/lovestaco/the-gang-of-four-gof-design-patterns-a-developers-guide-473a)
-- [Why Companies in Mexico Are Choosing AWS for Their Cloud Computing Needs and Digital Transformation](https://dev.to/marufhossain/why-companies-in-mexico-are-choosing-aws-for-their-cloud-computing-needs-and-digital-transformation-d2m)
-- [How Technology Makes Our Lives Easier: From Smart Homes to Web3](https://dev.to/andylarkin677/how-technology-makes-our-lives-easier-from-smart-homes-to-web3-52ia)
-- [CryptQuiz - hash quiz](https://dev.to/codewizard123/cryptquiz-hash-quiz-593a)
+- [🚀 Your Daily Crypto Job Digest For 14 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-march-2k18)
+- [Understanding Public Interest Litigation &lpar;PIL&rpar; in India: A Guide for Citizens](https://dev.to/sam_3432cf27edf43445/understanding-public-interest-litigation-pil-in-india-a-guide-for-citizens-1ld9)
+- [Google Gemma 3 Unlocked: The 128K-Token Multimodal AI Breakthrough Every Developer Must Explore](https://dev.to/sayed_ali_alkamel/google-gemma-3-unlocked-the-128k-token-multimodal-ai-breakthrough-every-developer-must-explore-n5k)
+- [𝗛𝗼𝘄 𝘁𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗨𝗽𝗱𝗮𝘁𝗲 𝗦𝗽𝗲𝗻𝘁 𝗔𝗺𝗼𝘂𝗻𝘁 𝗶𝗻 𝗕𝘂𝗱𝗴𝗲𝘁 𝗨𝘀𝗶𝗻𝗴 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿](https://dev.to/supraja_tangella_b7f0738e/-5da2)
 <!-- BLOG-POST-LIST:END -->
 
