@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is URL Filtering?](https://dev.to/clouddefenseai/what-is-url-filtering-58fa)
-- [Automating Code Reviews with AI: A Game Changer for Dev Teams](https://dev.to/devresurrect_f18e7d7b7bc6/automating-code-reviews-with-ai-a-game-changer-for-dev-teams-2li7)
-- [Overcoming Challenges in Selenium Scraping with Proxies](https://dev.to/swiftproxy_residential/overcoming-challenges-in-selenium-scraping-with-proxies-h6j)
-- [How to Enable Dynamic Lighting on Windows 11?](https://dev.to/winsides/how-to-enable-dynamic-lighting-on-windows-11-5c3b)
+- [How to merge JSON files - Fastest and Easiest way](https://dev.to/imaduddin_101/how-to-merge-json-files-fastest-and-easiest-way-4ag)
+- [From Deepfake to Surreal Fake: The Dawn of Digital Chaos](https://dev.to/doozieakshay/from-deepfake-to-surreal-fake-the-dawn-of-digital-chaos-5d47)
+- [Crop image to circle or heart in Shortcuts on iOS and macOS](https://dev.to/no_op_co/crop-image-to-circle-or-heart-in-shortcuts-on-ios-and-macos-5d5l)
+- [The Impact of Artificial Intelligence on Data Entry Services in 2025](https://dev.to/csmith/the-impact-of-artificial-intelligence-on-data-entry-services-in-2025-2n8n)
 <!-- BLOG-POST-LIST:END -->
 
