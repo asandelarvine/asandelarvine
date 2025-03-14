@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Cloud Technology on Custom Software Development](https://dev.to/hybrid-it-services/the-impact-of-cloud-technology-on-custom-software-development-5djf)
-- [📣 &lpar;03.19.25&rpar; Upcoming Live Mentoring Webinar &lpar;Free Admission&rpar;](https://dev.to/h_metacode_74e90df0ee5da6/031925-upcoming-live-mentoring-webinar-free-admission-404)
-- [Why do carpets have to be tested for 16CFR1630 surface flammability?](https://dev.to/rebecca_zhang_53170276935/why-do-carpets-have-to-be-tested-for-16cfr1630-surface-flammability-15o2)
-- [Are 16 CFR 1632 and 16 CFR 1633 the same?](https://dev.to/rebecca_zhang_53170276935/are-16-cfr-1632-and-16-cfr-1633-the-same-5akj)
+- [Build a BMI Calculator Using JavaScript – Try It Now!](https://dev.to/babynamenestlings_efe5ba9/build-a-bmi-calculator-using-javascript-try-it-now-4hk7)
+- [[ Solution Library AWS ] Live Chat Content AI on AWS](https://dev.to/aws-builders/-solution-library-aws-live-chat-content-ai-on-aws-5gih)
+- [What to Say to an AI Chatbot? Starters and Prompts for Fun](https://dev.to/jajaji/what-to-say-to-an-ai-chatbot-starters-and-prompts-for-fun-17f6)
+- [🍺 Drinking Culture and How I Survive?](https://dev.to/mrzaizai2k/drinking-culture-and-how-i-survive-2c6k)
 <!-- BLOG-POST-LIST:END -->
 
