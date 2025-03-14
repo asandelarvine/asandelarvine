@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RandAugment in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-4-4mmo)
-- [RandAugment in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-3-1co6)
-- [Crafting an Effective Application Security Program: Strategies, Practices and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-practices-and-tools-for-the-best-2gnd)
-- [Why You Should Focus on Systems, Not Just Goals, in Your Software Career](https://dev.to/jps27cse/why-you-should-focus-on-systems-not-just-goals-in-your-software-career-1j8)
+- [Additional Notes on Responses API and Agents SDK](https://dev.to/seratch/additional-notes-on-responses-api-and-agents-sdk-5bfk)
+- [A Java Learning Roadmap: From Basics to Spring Boot for Beginners](https://dev.to/dimagi_sihilel_0d6234fd02/a-java-learning-roadmap-from-basics-to-spring-boot-for-beginners-3nnk)
+- [Creating Custom SCSS Breakpoints for Responsive Design](https://dev.to/joydippaul/creating-custom-scss-breakpoints-for-responsive-design-4njd)
+- [Pergola Grey or Gazebo Grey? Choosing the Right Structure for Your Yard](https://dev.to/tuff_digitalmarketing_e7/pergola-grey-or-gazebo-grey-choosing-the-right-structure-for-your-yard-ib0)
 <!-- BLOG-POST-LIST:END -->
 
