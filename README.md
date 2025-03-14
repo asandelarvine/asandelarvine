@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating CPU and Memory Utilization Logging with Cron Jobs on Windows and Linux](https://dev.to/vachhanirishi/automating-cpu-and-memory-utilization-logging-with-cron-jobs-on-windows-and-linux-2phl)
-- [&quot;Unlocking Image Generation: The Power of Conditional Optimal Transport and GoT&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-conditional-optimal-transport-and-got-31ip)
-- [19+ Laravel Best Practices for Developers in 2024](https://dev.to/buttercms/19-laravel-best-practices-for-developers-in-2024-3h07)
-- [Введение в пакетную обработку и Spark](https://dev.to/pro100v/vviedieniie-v-pakietnuiu-obrabotku-i-spark-14ah)
+- [Happy Pi Day! I made a Pi-ano 😆](https://dev.to/best_codes/happy-pi-day-i-made-a-pi-ano-14cj)
+- [4 Costly Mistakes Startups Make and How to Avoid Them](https://dev.to/maeve_daan/4-costly-mistakes-startups-make-and-how-to-avoid-them-53ib)
+- [Mastering React Query: A Practical Guide to Essential Hooks](https://dev.to/luisafc/mastering-react-query-a-practical-guide-to-essential-hooks-21l6)
+- [How to Create Themes &lpar;light/dark&rpar; with Styled-components](https://dev.to/gunnarhalen/how-to-create-themes-lightdark-with-styled-components-4d3f)
 <!-- BLOG-POST-LIST:END -->
 
