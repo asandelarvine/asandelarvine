@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build React App with KendoReact Components](https://dev.to/code_2/build-react-app-with-kendoreact-components-14lk)
-- [TryHackMe Smol Walkthrough: Step-by-Step Guide to Exploitation &amp; Privilege Escalation](https://dev.to/cybrpunked/tryhackme-smol-walkthrough-step-by-step-guide-to-exploitation-privilege-escalation-241e)
-- [Real time colaboration white board](https://dev.to/adonaitechnologies/real-time-colaboration-white-board-4kk)
-- [🚀 Quer aprender a programar do zero e já sair criando projetos inteligentes?](https://dev.to/juarezasjunior/quer-aprender-a-programar-do-zero-e-ja-sair-criando-projetos-inteligentes-2lj8)
+- [Making API requests from your spreadsheets](https://dev.to/quadraticai/making-api-requests-from-your-spreadsheets-1m3e)
+- [Git e seu funcionamento interno](https://dev.to/lucasr-luz/git-e-seu-funcionamento-interno-4ale)
+- [&quot;Buggy&quot; bfcache Behavior](https://dev.to/besworks/buggy-bfcache-behavior-1a6e)
+- [Turning testing frameworks &quot;post-it notes&quot; into a Testing Arsenal](https://dev.to/inanoniloquent/turning-testing-frameworks-post-it-notes-into-a-testing-arsenal-4m0b)
 <!-- BLOG-POST-LIST:END -->
 
