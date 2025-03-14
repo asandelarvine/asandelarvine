@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Additional Notes on Responses API and Agents SDK](https://dev.to/seratch/additional-notes-on-responses-api-and-agents-sdk-5bfk)
-- [A Java Learning Roadmap: From Basics to Spring Boot for Beginners](https://dev.to/dimagi_sihilel_0d6234fd02/a-java-learning-roadmap-from-basics-to-spring-boot-for-beginners-3nnk)
-- [Creating Custom SCSS Breakpoints for Responsive Design](https://dev.to/joydippaul/creating-custom-scss-breakpoints-for-responsive-design-4njd)
-- [Pergola Grey or Gazebo Grey? Choosing the Right Structure for Your Yard](https://dev.to/tuff_digitalmarketing_e7/pergola-grey-or-gazebo-grey-choosing-the-right-structure-for-your-yard-ib0)
+- [DNS Fundamentals](https://dev.to/godofgeeks/dns-fundamentals-5ng)
+- [7 Useful Custom Hooks Every React Beginner Should Know](https://dev.to/muhammed_fayazts_e35676/7-useful-custom-hooks-every-react-beginner-should-know-566m)
+- [Dev Roles and the Truth Behind Them](https://dev.to/matemiller/dev-roles-and-the-truth-behind-them-1acn)
+- [Dynamic Programming](https://dev.to/mujahida_joynab_64c7407d8/dynamic-programming-eb1)
 <!-- BLOG-POST-LIST:END -->
 
