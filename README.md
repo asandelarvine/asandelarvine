@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Map vs Set: Modern Alternatives to Objects in JavaScript](https://dev.to/ayako_yk/map-vs-set-modern-alternatives-to-objects-in-javascript-24a9)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-d7f)
-- [Stop Wasting Time Writing Code for APIs](https://dev.to/lonti-davidb/stop-wasting-time-writing-code-for-apis-2hlf)
-- [Understanding Asynchronous Programming in JavaScript](https://dev.to/million_formula_3be3d915d/understanding-asynchronous-programming-in-javascript-bk9)
+- [RandAugment in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-4-4mmo)
+- [RandAugment in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-3-1co6)
+- [Crafting an Effective Application Security Program: Strategies, Practices and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-practices-and-tools-for-the-best-2gnd)
+- [Why You Should Focus on Systems, Not Just Goals, in Your Software Career](https://dev.to/jps27cse/why-you-should-focus-on-systems-not-just-goals-in-your-software-career-1j8)
 <!-- BLOG-POST-LIST:END -->
 
