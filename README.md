@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to merge JSON files - Fastest and Easiest way](https://dev.to/imaduddin_101/how-to-merge-json-files-fastest-and-easiest-way-4ag)
-- [From Deepfake to Surreal Fake: The Dawn of Digital Chaos](https://dev.to/doozieakshay/from-deepfake-to-surreal-fake-the-dawn-of-digital-chaos-5d47)
-- [Crop image to circle or heart in Shortcuts on iOS and macOS](https://dev.to/no_op_co/crop-image-to-circle-or-heart-in-shortcuts-on-ios-and-macos-5d5l)
-- [The Impact of Artificial Intelligence on Data Entry Services in 2025](https://dev.to/csmith/the-impact-of-artificial-intelligence-on-data-entry-services-in-2025-2n8n)
+- [Global collaboration: What open source and big tech can teach us](https://dev.to/rob_macdonald_f901970a9ce/global-collaboration-what-open-source-and-big-tech-can-teach-us-4c5a)
+- [How to Use the Skew Tool in 3D CAD Software](https://dev.to/julia970/how-to-use-the-skew-tool-in-3d-cad-software-1fgd)
+- [How to Design an Eye Using 3D CAD Software](https://dev.to/julia970/how-to-design-an-eye-using-3d-cad-software-1i0f)
+- [Getting Started with Cloud Marketplace](https://dev.to/unique-tea/getting-started-with-cloud-marketplace-269b)
 <!-- BLOG-POST-LIST:END -->
 
