@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [D&amp;D-Style Alignment Chart for X Users](https://dev.to/goroman/dd-style-alignment-chart-for-x-users-1315)
-- [Disruptive, Viral, Productive AI Agents 🚀](https://dev.to/vijayr00/disruptive-viral-productive-ai-agents-1g97)
-- [🚀 Introducing FlowBlog: A Minimalist, Developer-First Blogging Platform](https://dev.to/mrsupercraft/introducing-flowblog-a-minimalist-developer-first-blogging-platform-bcd)
-- [🚀 Managing Merge Conflicts in Git: Strategies and Best Practices](https://dev.to/imevanc/managing-merge-conflicts-in-git-strategies-and-best-practices-21g2)
+- [Analysing Patterns in an SMS Spam Dataset Using Data Mining Techniques](https://dev.to/marvelefe/analysing-patterns-in-an-sms-spam-dataset-using-data-mining-techniques-2pk9)
+- [From Sci-Fi to Say-Hi: The History of Conversational AI](https://dev.to/john_irby/from-sci-fi-to-say-hi-the-history-of-conversational-ai-12ao)
+- [🧠🥷How to use MCP in Cline and Cursor](https://dev.to/webdeveloperhyper/how-to-use-mcp-in-cline-and-cursor-54hg)
+- [JS DOM shortcuts for easy coding](https://dev.to/vasutamil19/js-dom-shortcuts-for-easy-coding-2a91)
 <!-- BLOG-POST-LIST:END -->
 
