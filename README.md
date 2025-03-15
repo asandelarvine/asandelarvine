@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [new dev](https://dev.to/dalney/new-dev-4o2n)
+- [new dev](https://dev.to/dalney/new-dev-4f5b)
+- [Cara Mudah Reverse Proxy di cPanel dengan Nginx](https://dev.to/ferryops/cara-mudah-reverse-proxy-di-cpanel-dengan-nginx-4opi)
 - [[Boost]](https://dev.to/foxinfotech/-1epn)
-- [RedEventStore](https://dev.to/fco/redeventstore-3o9o)
-- [supabase_vector_project container is not ready: unhealthy](https://dev.to/davidshq/supabasevectorproject-container-is-not-ready-unhealthy-518i)
-- [AI Image &amp; Video Generation: What&#39;s Next?](https://dev.to/the_sea_shell/ai-image-video-generation-whats-next-apb)
 <!-- BLOG-POST-LIST:END -->
 
