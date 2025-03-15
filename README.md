@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Samir Salih is Transforming the Mental Health Industry with Technology](https://dev.to/jessicase0/how-samir-salih-is-transforming-the-mental-health-industry-with-technology-3fph)
-- [What is LLM in AI](https://dev.to/mehmetakar/what-is-llm-in-ai-487d)
-- [Week 2 Done! 🚀 My DevOps Learning Journey 🎯](https://dev.to/princemalikk/week-2-done-my-devops-learning-journey-3aod)
-- [#job #aws# #devsecops #cloud #kubernetes](https://dev.to/anu_raj_64b3fb7b7f1ed80b6/job-aws-devsecops-cloud-kubernetes-486j)
+- [VIM is gem!!](https://dev.to/arunkrish11/vim-is-gem-3kh7)
+- [Breaking Free from AI Subscriptions: Cost-Effective All-in-One Solution with OpenRouter](https://dev.to/phsaurav/breaking-free-from-ai-subscriptions-cost-effective-all-in-one-solution-with-openrouter-3ce)
+- [My Journey into Elixir/Erlang &lpar;Part One&rpar;](https://dev.to/broflovski/my-journey-into-elixirerlang-part-one-1kn)
+- [How Does Hibernate Support Inheritance Mapping in 2025?](https://dev.to/cristianalex_17/how-does-hibernate-support-inheritance-mapping-in-2025-1n79)
 <!-- BLOG-POST-LIST:END -->
 
