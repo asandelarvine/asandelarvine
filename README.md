@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Flutter vs. React Native: Which One Should You Choose?](https://dev.to/stacks_gather_f66c31eb9d6/flutter-vs-react-native-which-one-should-you-choose-1dpf)
-- [Top 10 Cloud Computing Certifications to Get Hired in 2025:](https://dev.to/devlinkstudios/top-10-cloud-computing-certifications-to-get-hired-in-2025-2hpl)
-- [Creating Company-Standard Errors in Node.js Microservices &lpar;Part 2&rpar;](https://dev.to/skillnter/creating-company-standard-errors-in-nodejs-microservices-part-2-3i5k)
-- [Future AI Deployment: Automating Full Lifecycle Management with Rollback Strategies and Cloud Migration](https://dev.to/prabhu_chinnasamy_086fba6/future-ai-deployment-automating-full-lifecycle-management-with-rollback-strategies-and-cloud-34on)
+- [Implementing AWS Identity and Access Management &lpar;IAM&rpar; in Migration](https://dev.to/enna/implementing-aws-identity-and-access-management-iam-in-migration-lm9)
+- [Domain Driven Design](https://dev.to/lovestaco/domain-driven-design-3i2j)
+- [Game Design Cannibals: Who’s Eating AAA Games and Why?](https://dev.to/nickkeepkind/game-design-cannibals-whos-eating-aaa-games-and-why-2c0c)
+- [How to use fonts with &lt;link&gt; tag](https://dev.to/practicing_datscy/how-to-use-fonts-with-tag-o48)
 <!-- BLOG-POST-LIST:END -->
 
