@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6.7 Outros tipos de referências](https://dev.to/fundamentosjava/67-outros-tipos-de-referencias-4o11)
-- [The choice of Tech Stack is overrated!](https://dev.to/pratikgchaudhari/the-choice-of-tech-stack-is-overrated-5922)
-- [Cloud-Native vs. Traditional IT: Why USA Businesses Are Moving to Cloud-Native Architectur](https://dev.to/anshul_kichara/c-why-usa-businesses-are-moving-to-cloud-native-architectures-kp9)
-- [Azure For Data Engineering](https://dev.to/madgan95/azure-for-data-engineering-33p2)
+- [10 Essential Software Development Methodologies You Should Know](https://dev.to/matin676/10-essential-software-development-methodologies-you-should-know-20k7)
+- [Encoding &amp; Hashing magnifique](https://dev.to/jacopo/encoding-hashing-magnifique-2pc2)
+- [AI-Powered Debugging: How AI Detects and Fixes Bugs Before Developers Notice:](https://dev.to/devlinkstudios/ai-powered-debugging-how-ai-detects-and-fixes-bugs-before-developers-notice-11ha)
+- [Navigating PostgreSQL - Query Optimizations](https://dev.to/aditya999123/navigating-postgresql-query-optimizations-1cgf)
 <!-- BLOG-POST-LIST:END -->
 
