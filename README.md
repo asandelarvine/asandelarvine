@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [new dev](https://dev.to/dalney/new-dev-4o2n)
-- [new dev](https://dev.to/dalney/new-dev-4f5b)
-- [Cara Mudah Reverse Proxy di cPanel dengan Nginx](https://dev.to/ferryops/cara-mudah-reverse-proxy-di-cpanel-dengan-nginx-4opi)
-- [[Boost]](https://dev.to/foxinfotech/-1epn)
+- [🌟 Unlocking Kubernetes Ingress: The Gateway to Simplified Traffic Management 🌟](https://dev.to/anil_kumar_ff4f6ad3549983/unlocking-kubernetes-ingress-the-gateway-to-simplified-traffic-management-582b)
+- [Securing Your Container Pipeline: Using AWS Inspector with GitHub Actions](https://dev.to/aws-builders/securing-your-container-pipeline-using-aws-inspector-with-github-actions-4fma)
+- [Tamilnadu Tourism Website Mockup](https://dev.to/swotkarthik/tamilnadu-tourism-website-mockup-2mk4)
+- [Admin Panel Design Tailwind](https://dev.to/swotkarthik/admin-panel-design-tailwind-3con)
 <!-- BLOG-POST-LIST:END -->
 
