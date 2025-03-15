@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing AWS Identity and Access Management &lpar;IAM&rpar; in Migration](https://dev.to/enna/implementing-aws-identity-and-access-management-iam-in-migration-lm9)
-- [Domain Driven Design](https://dev.to/lovestaco/domain-driven-design-3i2j)
-- [Game Design Cannibals: Who’s Eating AAA Games and Why?](https://dev.to/nickkeepkind/game-design-cannibals-whos-eating-aaa-games-and-why-2c0c)
-- [How to use fonts with &lt;link&gt; tag](https://dev.to/practicing_datscy/how-to-use-fonts-with-tag-o48)
+- [How Samir Salih is Transforming the Mental Health Industry with Technology](https://dev.to/jessicase0/how-samir-salih-is-transforming-the-mental-health-industry-with-technology-3fph)
+- [What is LLM in AI](https://dev.to/mehmetakar/what-is-llm-in-ai-487d)
+- [Week 2 Done! 🚀 My DevOps Learning Journey 🎯](https://dev.to/princemalikk/week-2-done-my-devops-learning-journey-3aod)
+- [#job #aws# #devsecops #cloud #kubernetes](https://dev.to/anu_raj_64b3fb7b7f1ed80b6/job-aws-devsecops-cloud-kubernetes-486j)
 <!-- BLOG-POST-LIST:END -->
 
