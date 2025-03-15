@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysing Patterns in an SMS Spam Dataset Using Data Mining Techniques](https://dev.to/marvelefe/analysing-patterns-in-an-sms-spam-dataset-using-data-mining-techniques-2pk9)
-- [From Sci-Fi to Say-Hi: The History of Conversational AI](https://dev.to/john_irby/from-sci-fi-to-say-hi-the-history-of-conversational-ai-12ao)
-- [🧠🥷How to use MCP in Cline and Cursor](https://dev.to/webdeveloperhyper/how-to-use-mcp-in-cline-and-cursor-54hg)
-- [JS DOM shortcuts for easy coding](https://dev.to/vasutamil19/js-dom-shortcuts-for-easy-coding-2a91)
+- [Python for OSINT: Stalking the Internet Like a Pro](https://dev.to/rocky_rowdy/python-for-osint-stalking-the-internet-like-a-pro-59na)
+- [Most Used NPM Packages for React Developers](https://dev.to/tahir_rafique/most-used-npm-packages-for-react-developers-3784)
+- [Project: Syncing Govee lights to sports events](https://dev.to/eric_maclean_9b816003b56d/project-syncing-govee-lights-to-sports-events-2h34)
+- [Asynchronous Events: Getting Rid of Internal Services in Angular applications](https://dev.to/artstesh/asynchronous-events-getting-rid-of-callbacks-and-subscriptions-in-angular-applications-2hib)
 <!-- BLOG-POST-LIST:END -->
 
