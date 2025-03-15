@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Chatbots Still Can&#39;t Remember Personal Details Like Humans Do, Study Shows](https://dev.to/mikeyoung44/ai-chatbots-still-cant-remember-personal-details-like-humans-do-study-shows-4daj)
-- [OWASP Top 10 Overview](https://dev.to/godofgeeks/owasp-top-10-overview-c2f)
-- [Mamba AI Model Achieves Breakthrough in Satellite Image Analysis with Less Computing Power](https://dev.to/mikeyoung44/mamba-ai-model-achieves-breakthrough-in-satellite-image-analysis-with-less-computing-power-288l)
-- [AI Creates Movie-Like Videos with Multiple Characters Using Language Models](https://dev.to/mikeyoung44/ai-creates-movie-like-videos-with-multiple-characters-using-language-models-4180)
+- [소프트웨어 엔트로피](https://dev.to/junghwan18/sopeuteuweeo-enteuropi-4i72)
+- [Pure CSS Range Slider with custom variables](https://dev.to/prahalad/pure-css-range-slider-with-custom-variables-l7i)
+- [고양이가 내 소스코드를 삼켰어요](https://dev.to/junghwan18/goyangiga-nae-soseukodeureul-samkyeosseoyo-57kd)
+- [&quot;Revolutionizing Data Centers: The Future of Lithium Tantalate Silicon Photonics&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-data-centers-the-future-of-lithium-tantalate-silicon-photonics-3488)
 <!-- BLOG-POST-LIST:END -->
 
