@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential JavaScript Methods Every Developer Should Know](https://dev.to/santoshpremi/essential-javascript-methods-every-developer-should-know-37ha)
-- [### 🚀 How to Install Git Bash on Windows and Configure Your Identity Like a Pro 🔹 *By Samuel Peter*](https://dev.to/peter_samuel_052b9056e236/-how-to-install-git-bash-on-windows-and-configure-your-identity-like-a-pro-by-samuel-4do)
-- [Leveraging Cloud Analytics to Combat Banking Fraud](https://dev.to/piya__c204c9e90/leveraging-cloud-analytics-to-combat-banking-fraud-10ma)
-- [Understanding HTTP client using node:http module](https://dev.to/iamsujit/understanding-http-client-using-nodehttp-module-49nf)
+- [Exploring JSON Encoding in Scala: The Role of Macros and Derived Encoders](https://dev.to/depa_reddy_5e0e3025aa6eed/exploring-json-encoding-in-scala-the-role-of-macros-and-derived-encoders-4a05)
+- [🔥 How Does Image Optimization Affect Conversions?](https://dev.to/typeimg/how-does-image-optimization-affect-conversions-1g2c)
+- [HiveTorrent – A Web-Based Torrent Client &amp; Search Engine &lpar;Looking for Contributors !&rpar;](https://dev.to/urnem/hivetorrent-a-web-based-torrent-client-search-engine-looking-for-contributors--53h8)
+- [Tutorial: What is JSON? How Douglas Crockford Created JSON.](https://dev.to/agunechemba/tutorial-what-is-json-how-douglas-crockford-created-json-2o04)
 <!-- BLOG-POST-LIST:END -->
 
