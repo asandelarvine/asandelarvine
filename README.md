@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Software Development Methodologies You Should Know](https://dev.to/matin676/10-essential-software-development-methodologies-you-should-know-20k7)
-- [Encoding &amp; Hashing magnifique](https://dev.to/jacopo/encoding-hashing-magnifique-2pc2)
-- [AI-Powered Debugging: How AI Detects and Fixes Bugs Before Developers Notice:](https://dev.to/devlinkstudios/ai-powered-debugging-how-ai-detects-and-fixes-bugs-before-developers-notice-11ha)
-- [Navigating PostgreSQL - Query Optimizations](https://dev.to/aditya999123/navigating-postgresql-query-optimizations-1cgf)
+- [Multi-Cloud Deployment: Running Your App on AWS, Azure, and GCP](https://dev.to/yash_sonawane25/multi-cloud-deployment-running-your-app-on-aws-azure-and-gcp-2ink)
+- [Data Indexing and Common Challenges](https://dev.to/badmonster0/data-indexing-and-common-challenges-32cp)
+- [React Native vs Flutter: Which Framework is Better in 2025?](https://dev.to/dct_technologyprivatelimited/react-native-vs-flutter-which-framework-is-better-in-2025-4in3)
+- [Ableton Live Control Surface Development Adventure: EP-02](https://dev.to/heinthanth/ableton-live-control-surface-development-adventure-ep-02-21b7)
 <!-- BLOG-POST-LIST:END -->
 
