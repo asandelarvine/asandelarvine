@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CAP: Unveiling the PACELC Theorem for Modern Systems](https://dev.to/ashokan/beyond-cap-unveiling-the-pacelc-theorem-for-modern-systems-465j)
-- [𝐃𝐣𝐚𝐧𝐠𝐨-এর 𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐋𝐢𝐟𝐞𝐜𝐲𝐜𝐥𝐞 বাংলায় এক নজরে!](https://dev.to/hrid620/-er-baanlaay-ek-njre-2png)
-- [Mini-Micro : Physics , Fixes and WTF](https://dev.to/selfish_dev/mini-micro-physics-fixes-and-wtf-3gc4)
-- [What Place Will AI Have in Future Human Relationships?](https://dev.to/john_irby/what-place-will-ai-have-in-future-human-relationships-2m2k)
+- [🚀 Introducing Supreme Bot: A Python-Based Web Automation Tool 🛒](https://dev.to/francio/introducing-supreme-bot-a-python-based-web-automation-tool-4i43)
+- [Curve V1 notes](https://dev.to/zt_myo/curve-v1-notes-17c2)
+- [how javascript works](https://dev.to/robin_sonroy_ccee41c269f/how-javascript-works-4474)
+- [Using LiveReload with Spring boot devtools.](https://dev.to/ratulsharker/using-livereload-with-spring-boot-devtools-1347)
 <!-- BLOG-POST-LIST:END -->
 
