@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Supreme Bot: A Python-Based Web Automation Tool 🛒](https://dev.to/francio/introducing-supreme-bot-a-python-based-web-automation-tool-4i43)
-- [Curve V1 notes](https://dev.to/zt_myo/curve-v1-notes-17c2)
-- [how javascript works](https://dev.to/robin_sonroy_ccee41c269f/how-javascript-works-4474)
-- [Using LiveReload with Spring boot devtools.](https://dev.to/ratulsharker/using-livereload-with-spring-boot-devtools-1347)
+- [🚀 New Feature: Receive SMS via Webhook on SMS Textr!](https://dev.to/saltypenguin313/new-feature-receive-sms-via-webhook-on-sms-textr-3hhe)
+- [&quot;Mastering Attacks on Vision-Language Models: Strategies &amp; Insights Revealed&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-attacks-on-vision-language-models-strategies-insights-revealed-4o7c)
+- [Amazed by AWS IAM🫨](https://dev.to/nurulislamrimon/surprised-of-aws-iam-2n4h)
+- [DUCKDB, S3 Tables with iceberg using Iceberg Rest API](https://dev.to/jverhoeks/duckdb-s3-tables-with-iceberg-using-iceberg-rest-api-1c1)
 <!-- BLOG-POST-LIST:END -->
 
