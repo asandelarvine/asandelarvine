@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Big Tech Companies Can Teach Us About Incident Management](https://dev.to/leotulii/what-big-tech-companies-can-teach-us-about-incident-management-1dof)
-- [How to Build a Custom Django Authentication System: A Comprehensive Guide.](https://dev.to/eslintpurity/how-to-build-a-custom-django-authentication-system-a-comprehensive-guide-33de)
-- [10 Powerful CSS Tips and Tricks That Will Elevate Your Web Design](https://dev.to/italogermando/10-powerful-css-tips-and-tricks-that-will-elevate-your-web-design-4i3l)
-- [How AI is Revolutionizing Web Scraping: Techniques and Code Examples](https://dev.to/alex_aslam/how-ai-is-revolutionizing-web-scraping-techniques-and-code-examples-6k1)
+- [[Boost]](https://dev.to/foxinfotech/-1epn)
+- [RedEventStore](https://dev.to/fco/redeventstore-3o9o)
+- [supabase_vector_project container is not ready: unhealthy](https://dev.to/davidshq/supabasevectorproject-container-is-not-ready-unhealthy-518i)
+- [AI Image &amp; Video Generation: What&#39;s Next?](https://dev.to/the_sea_shell/ai-image-video-generation-whats-next-apb)
 <!-- BLOG-POST-LIST:END -->
 
