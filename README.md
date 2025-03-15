@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VIM is gem!!](https://dev.to/arunkrish11/vim-is-gem-3kh7)
-- [Breaking Free from AI Subscriptions: Cost-Effective All-in-One Solution with OpenRouter](https://dev.to/phsaurav/breaking-free-from-ai-subscriptions-cost-effective-all-in-one-solution-with-openrouter-3ce)
-- [My Journey into Elixir/Erlang &lpar;Part One&rpar;](https://dev.to/broflovski/my-journey-into-elixirerlang-part-one-1kn)
-- [How Does Hibernate Support Inheritance Mapping in 2025?](https://dev.to/cristianalex_17/how-does-hibernate-support-inheritance-mapping-in-2025-1n79)
+- [From PHP to Python - porting a Reddit clone with the help of Amazon Q Developer](https://dev.to/aws/from-php-to-python-porting-a-reddit-clone-with-the-help-of-amazon-q-developer-23g)
+- [Mastering Algorithms with Python: A Beginner&#39;s Guide](https://dev.to/abibtechid/mastering-algorithms-with-python-a-beginners-guide-4l0m)
+- [بده ۲@](https://dev.to/aein_bagheri_10ffa69696b9/bdh-2-2pho)
+- [PHP PSRs : PSR-3 Logger Interface](https://dev.to/xxzeroxx/php-psrs-psr-3-logger-interface-44mo)
 <!-- BLOG-POST-LIST:END -->
 
