@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [소프트웨어 엔트로피](https://dev.to/junghwan18/sopeuteuweeo-enteuropi-4i72)
-- [Pure CSS Range Slider with custom variables](https://dev.to/prahalad/pure-css-range-slider-with-custom-variables-l7i)
-- [고양이가 내 소스코드를 삼켰어요](https://dev.to/junghwan18/goyangiga-nae-soseukodeureul-samkyeosseoyo-57kd)
-- [&quot;Revolutionizing Data Centers: The Future of Lithium Tantalate Silicon Photonics&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-data-centers-the-future-of-lithium-tantalate-silicon-photonics-3488)
+- [Essential JavaScript Methods Every Developer Should Know](https://dev.to/santoshpremi/essential-javascript-methods-every-developer-should-know-37ha)
+- [### 🚀 How to Install Git Bash on Windows and Configure Your Identity Like a Pro 🔹 *By Samuel Peter*](https://dev.to/peter_samuel_052b9056e236/-how-to-install-git-bash-on-windows-and-configure-your-identity-like-a-pro-by-samuel-4do)
+- [Leveraging Cloud Analytics to Combat Banking Fraud](https://dev.to/piya__c204c9e90/leveraging-cloud-analytics-to-combat-banking-fraud-10ma)
+- [Understanding HTTP client using node:http module](https://dev.to/iamsujit/understanding-http-client-using-nodehttp-module-49nf)
 <!-- BLOG-POST-LIST:END -->
 
