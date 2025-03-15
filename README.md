@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring JSON Encoding in Scala: The Role of Macros and Derived Encoders](https://dev.to/depa_reddy_5e0e3025aa6eed/exploring-json-encoding-in-scala-the-role-of-macros-and-derived-encoders-4a05)
-- [🔥 How Does Image Optimization Affect Conversions?](https://dev.to/typeimg/how-does-image-optimization-affect-conversions-1g2c)
-- [HiveTorrent – A Web-Based Torrent Client &amp; Search Engine &lpar;Looking for Contributors !&rpar;](https://dev.to/urnem/hivetorrent-a-web-based-torrent-client-search-engine-looking-for-contributors--53h8)
-- [Tutorial: What is JSON? How Douglas Crockford Created JSON.](https://dev.to/agunechemba/tutorial-what-is-json-how-douglas-crockford-created-json-2o04)
+- [D&amp;D-Style Alignment Chart for X Users](https://dev.to/goroman/dd-style-alignment-chart-for-x-users-1315)
+- [Disruptive, Viral, Productive AI Agents 🚀](https://dev.to/vijayr00/disruptive-viral-productive-ai-agents-1g97)
+- [🚀 Introducing FlowBlog: A Minimalist, Developer-First Blogging Platform](https://dev.to/mrsupercraft/introducing-flowblog-a-minimalist-developer-first-blogging-platform-bcd)
+- [🚀 Managing Merge Conflicts in Git: Strategies and Best Practices](https://dev.to/imevanc/managing-merge-conflicts-in-git-strategies-and-best-practices-21g2)
 <!-- BLOG-POST-LIST:END -->
 
