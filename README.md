@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Unlocking Kubernetes Ingress: The Gateway to Simplified Traffic Management 🌟](https://dev.to/anil_kumar_ff4f6ad3549983/unlocking-kubernetes-ingress-the-gateway-to-simplified-traffic-management-582b)
-- [Securing Your Container Pipeline: Using AWS Inspector with GitHub Actions](https://dev.to/aws-builders/securing-your-container-pipeline-using-aws-inspector-with-github-actions-4fma)
-- [Tamilnadu Tourism Website Mockup](https://dev.to/swotkarthik/tamilnadu-tourism-website-mockup-2mk4)
-- [Admin Panel Design Tailwind](https://dev.to/swotkarthik/admin-panel-design-tailwind-3con)
+- [6.7 Outros tipos de referências](https://dev.to/fundamentosjava/67-outros-tipos-de-referencias-4o11)
+- [The choice of Tech Stack is overrated!](https://dev.to/pratikgchaudhari/the-choice-of-tech-stack-is-overrated-5922)
+- [Cloud-Native vs. Traditional IT: Why USA Businesses Are Moving to Cloud-Native Architectur](https://dev.to/anshul_kichara/c-why-usa-businesses-are-moving-to-cloud-native-architectures-kp9)
+- [Azure For Data Engineering](https://dev.to/madgan95/azure-for-data-engineering-33p2)
 <!-- BLOG-POST-LIST:END -->
 
