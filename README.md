@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Cloud Deployment: Running Your App on AWS, Azure, and GCP](https://dev.to/yash_sonawane25/multi-cloud-deployment-running-your-app-on-aws-azure-and-gcp-2ink)
-- [Data Indexing and Common Challenges](https://dev.to/badmonster0/data-indexing-and-common-challenges-32cp)
-- [React Native vs Flutter: Which Framework is Better in 2025?](https://dev.to/dct_technologyprivatelimited/react-native-vs-flutter-which-framework-is-better-in-2025-4in3)
-- [Ableton Live Control Surface Development Adventure: EP-02](https://dev.to/heinthanth/ableton-live-control-surface-development-adventure-ep-02-21b7)
+- [AI Chatbots Still Can&#39;t Remember Personal Details Like Humans Do, Study Shows](https://dev.to/mikeyoung44/ai-chatbots-still-cant-remember-personal-details-like-humans-do-study-shows-4daj)
+- [OWASP Top 10 Overview](https://dev.to/godofgeeks/owasp-top-10-overview-c2f)
+- [Mamba AI Model Achieves Breakthrough in Satellite Image Analysis with Less Computing Power](https://dev.to/mikeyoung44/mamba-ai-model-achieves-breakthrough-in-satellite-image-analysis-with-less-computing-power-288l)
+- [AI Creates Movie-Like Videos with Multiple Characters Using Language Models](https://dev.to/mikeyoung44/ai-creates-movie-like-videos-with-multiple-characters-using-language-models-4180)
 <!-- BLOG-POST-LIST:END -->
 
