@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Success: How MVP Software Development Services Propel Startups Forward](https://dev.to/jetthoughts/unlocking-success-how-mvp-software-development-services-propel-startups-forward-f9)
-- [Multi-Factor Authentication &lpar;MFA&rpar; on AWS: A Critical Security Measure](https://dev.to/aws-builders/multi-factor-authentication-mfa-on-aws-a-critical-security-measure-4po6)
-- [LCM vs. LLM](https://dev.to/mehmetakar/lcm-vs-llm-20kk)
-- [What is HTML?](https://dev.to/merndev_enamul/what-is-html-54l2)
+- [Pokemon3D API v0.2.1](https://dev.to/sudhanshuambastha/pokemon3d-api-v021-38ok)
+- [Mobile Agents Powered by LLMs: Revolutionizing On-Device Intelligence](https://dev.to/vihuvac/mobile-agents-powered-by-llms-revolutionizing-on-device-intelligence-5gdi)
+- [Developing Explainable AI Models for Compliance](https://dev.to/kartikmehta8/developing-explainable-ai-models-for-compliance-pg)
+- [How to Capture Screenshots of Any Website Automatically? Discover ZonySnap API](https://dev.to/mga_dev/how-to-capture-screenshots-of-any-website-automatically-discover-zonysnap-api-47mh)
 <!-- BLOG-POST-LIST:END -->
 
