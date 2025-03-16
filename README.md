@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Social Media App that Encourages Quality Over Quantity](https://dev.to/kareem_itani_e51fee03fb7a/a-social-media-app-that-encourages-quality-over-quantity-3f36)
-- [Setting up Cloudflare Full &lpar;Strict&rpar; SSL/TLS on Apache](https://dev.to/edgaras/setting-up-full-strict-ssltls-on-apache-with-cloudflare-4lbe)
-- [Understanding Language Models: A Beginner-Friendly Introduction](https://dev.to/mshojaei77/understanding-language-models-a-beginner-friendly-introduction-17io)
-- [Supercharging Medusa v2 with Supabase Storage](https://dev.to/jake_ngatchu_e2d75794a1a6/supercharging-medusa-v2-with-supabase-storage-3cd1)
+- [How to Keep Customers Happy During Service Outages: Ticket Volume Reduction Guide](https://dev.to/leotulii/how-to-keep-customers-happy-during-service-outages-ticket-volume-reduction-guide-o97)
+- [How &lpar;not&rpar; to Expose Your Entra ID Password in Plain Text When Using AWS Transfer Family SFTP](https://dev.to/chkso/how-not-to-expose-your-entra-id-password-in-plain-text-when-using-aws-transfer-family-sftp-3d9p)
+- [Check Out My Portfolio](https://dev.to/vimukthi_jayasanka_816593/check-out-my-portfolio-1k83)
+- [Overview: &quot;OWASP Top 10 for LLM Applications 2025: A Comprehensive Guide&quot;](https://dev.to/foxgem/overview-owasp-top-10-for-llm-applications-2025-a-comprehensive-guide-8pk)
 <!-- BLOG-POST-LIST:END -->
 
