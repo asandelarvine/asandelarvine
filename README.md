@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WeCoded Challenge: A Celebration of Voices and Code](https://dev.to/pranavjana/wecoded-challenge-a-celebration-of-voices-and-code-llh)
-- [problem solver](https://dev.to/just0_0kidding/problem-solver-p)
-- [How does ChatGPT produce text that sounds natural and human-like?](https://dev.to/keshava_72/how-does-chatgpt-produce-text-that-sounds-natural-and-human-like-4clm)
-- [JourneySkill is Live on Product Hunt! 🚀](https://dev.to/ashraful__malik/journeyskill-is-live-on-product-hunt-4506)
+- [Choosing the Right Tech Stack for App Development: Cost vs. Performance](https://dev.to/deepak_kumar_01114ce97046/choosing-the-right-tech-stack-for-app-development-cost-vs-performance-4e6d)
+- [Top 5 Effective Methods to Enhance API Performance](https://dev.to/mohamed_el_laithy/top-5-effective-methods-to-enhance-api-performance-51hi)
+- [How to create and print an invoice with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-and-print-an-invoice-with-tailwind-css-5hc6)
+- [Understanding Ripple &lpar;XRP&rpar; in Blockchain](https://dev.to/blessedtechnologist/understanding-ripple-xrp-in-blockchain-30c9)
 <!-- BLOG-POST-LIST:END -->
 
