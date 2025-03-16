@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Tech Stack for App Development: Cost vs. Performance](https://dev.to/deepak_kumar_01114ce97046/choosing-the-right-tech-stack-for-app-development-cost-vs-performance-4e6d)
-- [Top 5 Effective Methods to Enhance API Performance](https://dev.to/mohamed_el_laithy/top-5-effective-methods-to-enhance-api-performance-51hi)
-- [How to create and print an invoice with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-and-print-an-invoice-with-tailwind-css-5hc6)
-- [Understanding Ripple &lpar;XRP&rpar; in Blockchain](https://dev.to/blessedtechnologist/understanding-ripple-xrp-in-blockchain-30c9)
+- [RandAugment in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-1-4dpn)
+- [How to Track Configuration Changes and Compliance of AWS Resources](https://dev.to/dixonaws/how-to-track-configuration-changes-and-compliance-of-aws-resources-h44)
+- [Open CDB v0.1](https://dev.to/open_cdb/open-cdb-v01-463p)
+- [Audio Share: Revolutionizing Local Audio Sharing](https://dev.to/githubopensource/audio-share-revolutionizing-local-audio-sharing-36ha)
 <!-- BLOG-POST-LIST:END -->
 
