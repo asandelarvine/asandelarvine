@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Glimpse of RadhaSphere Wallet – The Future of Web3 UX&quot; 🚀](https://dev.to/omniradhanexus/a-glimpse-of-radhasphere-wallet-the-future-of-web3-ux-49j2)
-- [How to build logic in programming.](https://dev.to/tahir_rafique/how-to-build-logic-in-programming-oo8)
-- [&quot;Unlocking AI Navigation: The Power of UniGoal and Multi-Turn Security&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-navigation-the-power-of-unigoal-and-multi-turn-security-213j)
-- [Several popular fonts in social media](https://dev.to/jsam/several-popular-fonts-in-social-media-1ic5)
+- [How to Fix Weak API Authentication in Laravel &lpar;With Code Examples&rpar;](https://dev.to/pentest_testing_corp/how-to-fix-weak-api-authentication-in-laravel-with-code-examples-443c)
+- [How to Build Your Own Social Network with Web4 Lite from Linkspreed - An Open Source Facebook Clone @Home](https://dev.to/web4/how-to-build-your-own-social-network-with-web4-lite-from-linkspreed-an-open-source-facebook-47c4)
+- [How to Hide Local Git Changes Without Ignoring Files](https://dev.to/sarath191181208/what-git-hide-1da3)
+- [Dynamic Data in Test Automation: Guide to Best Practices](https://dev.to/radha_4c842d8e4362a7cdd9c/dynamic-data-in-test-automation-guide-to-best-practices-4acg)
 <!-- BLOG-POST-LIST:END -->
 
