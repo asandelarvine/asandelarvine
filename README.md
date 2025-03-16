@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Life Advise]: be urself!!](https://dev.to/abdibrokhim/life-advise-be-urself-did)
-- [Daily React Learning -13](https://dev.to/utsabnepal55/daily-react-learning-13-317k)
-- [🏆 Best AOS &lpar;Animation on Scroll&rpar; Libraries in 2025](https://dev.to/idevgames/best-aos-animation-on-scroll-libraries-in-2025-c9o)
-- [Dynamic component supports bindings and directives](https://dev.to/railsstudent/dynamic-component-supports-bindings-and-directives-l07)
+- [&quot;Unlocking Quantum Secrets: The Power of Discrete Variable Representations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-secrets-the-power-of-discrete-variable-representations-4np5)
+- [PHP: making arrays more robust](https://dev.to/xwero/php-making-arrays-more-robust-82b)
+- [sobre github](https://dev.to/m1rr4/sobre-github-2keb)
+- [Manter o GitHub como central de mudanças é como uma prova de trabalho: cada commit é um registro do esforço e progresso. Trabalhar no GitHub é investir na sua marca como dev, criando um portfólio vivo e mostrando responsabilidade e excelência. 🚀](https://dev.to/m1rr4/manter-o-github-como-central-de-mudancas-e-como-uma-prova-de-trabalho-cada-commit-e-um-registro-do-26go)
 <!-- BLOG-POST-LIST:END -->
 
