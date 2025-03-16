@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Backend-to-Full Stack Savior: AI Revamps the App Interface](https://dev.to/mjiee/a-backend-to-full-stack-savior-ai-revamps-the-app-interface-13hh)
-- [“The Hidden Shortcut to Open GitHub Repositories in VS Code”](https://dev.to/ramyasree_manthena_76c598/the-hidden-shortcut-to-open-github-repositories-in-vs-code-j9k)
-- [Server-Side vs. Client-Side Rendering: Which One Should You Choose?](https://dev.to/aryan015/server-side-vs-client-side-rendering-which-one-should-you-choose-1m2e)
-- [Roar! You&#39;ve Found Me Here!](https://dev.to/gabethebear/roar-youve-found-me-here-34c1)
+- [[Boost]](https://dev.to/foxinfotech/-48d6)
+- [What is an ER Diagram](https://dev.to/mujahida_joynab_64c7407d8/what-is-an-er-diagram-198i)
+- [Understanding Data Pipelines: A Comprehensive Guide](https://dev.to/devcorner/understanding-data-pipelines-a-comprehensive-guide-35cp)
+- [🚀TypeScript 10x Lebih Ngebut: Inovasi Gede Buat Developer JavaScript](https://dev.to/ferryops/typescript-10x-lebih-ngebut-inovasi-gede-buat-developer-javascript-4gm1)
 <!-- BLOG-POST-LIST:END -->
 
