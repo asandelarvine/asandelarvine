@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Task Management and Staying Motivated](https://dev.to/taskframe_team/the-psychology-of-task-management-and-staying-motivated-4aod)
-- [Making the internet more accesible for elderly users](https://dev.to/hiddes03/making-the-internet-more-accesible-for-elderly-users-1m)
-- [Variables and GO!](https://dev.to/selfish_dev/variables-and-go-1ml9)
-- [How To Get Web Development Clients](https://dev.to/webdevamin/how-to-get-web-development-clients-5gb1)
+- [[Life Advise]: be urself!!](https://dev.to/abdibrokhim/life-advise-be-urself-did)
+- [Daily React Learning -13](https://dev.to/utsabnepal55/daily-react-learning-13-317k)
+- [🏆 Best AOS &lpar;Animation on Scroll&rpar; Libraries in 2025](https://dev.to/idevgames/best-aos-animation-on-scroll-libraries-in-2025-c9o)
+- [Dynamic component supports bindings and directives](https://dev.to/railsstudent/dynamic-component-supports-bindings-and-directives-l07)
 <!-- BLOG-POST-LIST:END -->
 
