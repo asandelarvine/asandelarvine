@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Learning to Code is So Damn Hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
-- [AWS refuerza su compromiso con el agua: más de 7 mil millones de litros al año para comunidades locales](https://dev.to/briansuarezsantiago/aws-refuerza-su-compromiso-con-el-agua-mas-de-7-mil-millones-de-litros-al-ano-para-comunidades-31hk)
-- [Manual Testing Techniques, Boundary Value Analysis, Decision Table Testing and The future of manual testing in the age of &lpar;AI&rpar;](https://dev.to/thillai_devikanthan_205a/manual-testing-techniques-boundary-value-analysis-decision-table-testing-and-the-future-of-manual-35og)
-- [Vibe coding a nifty Umbraco tool](https://dev.to/skttl/vibe-coding-a-nifty-umbraco-tool-3jic)
+- [The Psychology of Task Management and Staying Motivated](https://dev.to/taskframe_team/the-psychology-of-task-management-and-staying-motivated-4aod)
+- [Making the internet more accesible for elderly users](https://dev.to/hiddes03/making-the-internet-more-accesible-for-elderly-users-1m)
+- [Variables and GO!](https://dev.to/selfish_dev/variables-and-go-1ml9)
+- [How To Get Web Development Clients](https://dev.to/webdevamin/how-to-get-web-development-clients-5gb1)
 <!-- BLOG-POST-LIST:END -->
 
