@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why i dropped Golang and started rust.](https://dev.to/tanishparashar/why-i-dropped-golang-and-started-rust-1al3)
-- [Why Python is Taking Over Electronics Programming](https://dev.to/coursedia/why-python-is-taking-over-electronics-programming-3mn)
-- [Building a Multi-Section Page for a Game Interface](https://dev.to/ouma_ouma/building-a-multi-section-page-for-a-game-interfacet-56g2)
-- [AWS Community Days 2025](https://dev.to/aws-builders/aws-community-days-2025-5hna)
+- [How to Build an AI Application with Quarkus and LangChain4j](https://dev.to/yanev/how-to-build-an-ai-application-with-quarkus-and-langchain4j-3do5)
+- [DevLog: A Journaling App for Developers](https://dev.to/loicboset/devlog-a-journaling-app-for-developers-1bhc)
+- [Solving pandas pickle compatibility issues across different versions](https://dev.to/abdellahhallou/solving-pandas-pickle-compatibility-issues-across-different-versions-fbl)
+- [What exactly is a Ruby binding?](https://dev.to/jvon1904/what-exactly-is-a-ruby-binding-340g)
 <!-- BLOG-POST-LIST:END -->
 
