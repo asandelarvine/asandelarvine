@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RandAugment in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-1-4dpn)
-- [How to Track Configuration Changes and Compliance of AWS Resources](https://dev.to/dixonaws/how-to-track-configuration-changes-and-compliance-of-aws-resources-h44)
-- [Open CDB v0.1](https://dev.to/open_cdb/open-cdb-v01-463p)
-- [Audio Share: Revolutionizing Local Audio Sharing](https://dev.to/githubopensource/audio-share-revolutionizing-local-audio-sharing-36ha)
+- [Why Learning to Code is So Damn Hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
+- [AWS refuerza su compromiso con el agua: más de 7 mil millones de litros al año para comunidades locales](https://dev.to/briansuarezsantiago/aws-refuerza-su-compromiso-con-el-agua-mas-de-7-mil-millones-de-litros-al-ano-para-comunidades-31hk)
+- [Manual Testing Techniques, Boundary Value Analysis, Decision Table Testing and The future of manual testing in the age of &lpar;AI&rpar;](https://dev.to/thillai_devikanthan_205a/manual-testing-techniques-boundary-value-analysis-decision-table-testing-and-the-future-of-manual-35og)
+- [Vibe coding a nifty Umbraco tool](https://dev.to/skttl/vibe-coding-a-nifty-umbraco-tool-3jic)
 <!-- BLOG-POST-LIST:END -->
 
