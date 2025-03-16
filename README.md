@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/foxinfotech/-48d6)
-- [What is an ER Diagram](https://dev.to/mujahida_joynab_64c7407d8/what-is-an-er-diagram-198i)
-- [Understanding Data Pipelines: A Comprehensive Guide](https://dev.to/devcorner/understanding-data-pipelines-a-comprehensive-guide-35cp)
-- [🚀TypeScript 10x Lebih Ngebut: Inovasi Gede Buat Developer JavaScript](https://dev.to/ferryops/typescript-10x-lebih-ngebut-inovasi-gede-buat-developer-javascript-4gm1)
+- [To Find Whether the Given Number is Prime or Not!!](https://dev.to/aafthab_ali/to-find-whether-the-given-number-is-prime-or-not-e00)
+- [Is Ionic Lagging Behind in Cross-Platform App Development?](https://dev.to/mmar58/is-ionic-lagging-behind-in-cross-platform-app-development-29hi)
+- [1. Introduction to C# and .NET framework](https://dev.to/yandralal/1-introduction-to-c-and-net-framework-26ck)
+- [O básico que você precisa saber sobre internet.](https://dev.to/gusvasconcelos/o-basico-que-voce-precisa-saber-sobre-internet-5g3k)
 <!-- BLOG-POST-LIST:END -->
 
