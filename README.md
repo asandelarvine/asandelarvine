@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Application with Quarkus and LangChain4j](https://dev.to/yanev/how-to-build-an-ai-application-with-quarkus-and-langchain4j-3do5)
-- [DevLog: A Journaling App for Developers](https://dev.to/loicboset/devlog-a-journaling-app-for-developers-1bhc)
-- [Solving pandas pickle compatibility issues across different versions](https://dev.to/abdellahhallou/solving-pandas-pickle-compatibility-issues-across-different-versions-fbl)
-- [What exactly is a Ruby binding?](https://dev.to/jvon1904/what-exactly-is-a-ruby-binding-340g)
+- [Introducing Accord: A Better Way to Make Technical Decisions](https://dev.to/gunnigylfa/introducing-accord-a-better-way-to-make-technical-decisions-5854)
+- [ESP32 Defender: Building an Alien Attack-Inspired Game with T-Display ESP32 and Arduino IDE](https://dev.to/wildsonluiz/esp32-defender-building-an-alien-attack-inspired-game-with-t-display-esp32-and-arduino-ide-3c84)
+- [[Boost]](https://dev.to/babibubebojr/-2022)
+- [Hyperparameter Optimization Across Frameworks Made Simple - Neural DSL v0.2.3](https://dev.to/neural/hyperparameter-optimization-across-frameworks-made-simple-neural-dsl-v023-338e)
 <!-- BLOG-POST-LIST:END -->
 
