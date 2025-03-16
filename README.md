@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Accord: A Better Way to Make Technical Decisions](https://dev.to/gunnigylfa/introducing-accord-a-better-way-to-make-technical-decisions-5854)
-- [ESP32 Defender: Building an Alien Attack-Inspired Game with T-Display ESP32 and Arduino IDE](https://dev.to/wildsonluiz/esp32-defender-building-an-alien-attack-inspired-game-with-t-display-esp32-and-arduino-ide-3c84)
-- [[Boost]](https://dev.to/babibubebojr/-2022)
-- [Hyperparameter Optimization Across Frameworks Made Simple - Neural DSL v0.2.3](https://dev.to/neural/hyperparameter-optimization-across-frameworks-made-simple-neural-dsl-v023-338e)
+- [Optimizing Rust Performance with jemalloc](https://dev.to/leapcell/optimizing-rust-performance-with-jemalloc-36lo)
+- [Python Doesn’t Have True Constants—So I Built setconstant](https://dev.to/anuraj_r/python-doesnt-have-true-constants-so-i-built-setconstant-220h)
+- [Can any give best tips when learning springboot ?](https://dev.to/freedom27lukhele/can-any-give-best-tips-when-learning-springboot--4fjc)
+- [Star Schema: The Data Warehouse Hack So Simple, Experts Hate It](https://dev.to/spkibe/star-schema-the-data-warehouse-hack-so-simple-experts-hate-it-4eef)
 <!-- BLOG-POST-LIST:END -->
 
