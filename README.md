@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [To Find Whether the Given Number is Prime or Not!!](https://dev.to/aafthab_ali/to-find-whether-the-given-number-is-prime-or-not-e00)
-- [Is Ionic Lagging Behind in Cross-Platform App Development?](https://dev.to/mmar58/is-ionic-lagging-behind-in-cross-platform-app-development-29hi)
-- [1. Introduction to C# and .NET framework](https://dev.to/yandralal/1-introduction-to-c-and-net-framework-26ck)
-- [O básico que você precisa saber sobre internet.](https://dev.to/gusvasconcelos/o-basico-que-voce-precisa-saber-sobre-internet-5g3k)
+- [Decimal Value input in angular](https://dev.to/webfaisalbd/decimal-value-input-in-angular-420)
+- [Koin Vs Hilt](https://dev.to/samseptiano/koin-vs-hilt-3jek)
+- [Taming Circular Dependencies with Kahn’s Algorithm](https://dev.to/sathish/taming-circular-dependencies-with-kahns-algorithm-59gk)
+- [Shadcn UI Kit: A Modern and Flexible UI Solution](https://dev.to/tobybelhome/shadcn-ui-kit-a-modern-and-flexible-ui-solution-80j)
 <!-- BLOG-POST-LIST:END -->
 
