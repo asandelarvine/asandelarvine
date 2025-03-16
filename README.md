@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Rust Performance with jemalloc](https://dev.to/leapcell/optimizing-rust-performance-with-jemalloc-36lo)
-- [Python Doesn’t Have True Constants—So I Built setconstant](https://dev.to/anuraj_r/python-doesnt-have-true-constants-so-i-built-setconstant-220h)
-- [Can any give best tips when learning springboot ?](https://dev.to/freedom27lukhele/can-any-give-best-tips-when-learning-springboot--4fjc)
-- [Star Schema: The Data Warehouse Hack So Simple, Experts Hate It](https://dev.to/spkibe/star-schema-the-data-warehouse-hack-so-simple-experts-hate-it-4eef)
+- [A Social Media App that Encourages Quality Over Quantity](https://dev.to/kareem_itani_e51fee03fb7a/a-social-media-app-that-encourages-quality-over-quantity-3f36)
+- [Setting up Cloudflare Full &lpar;Strict&rpar; SSL/TLS on Apache](https://dev.to/edgaras/setting-up-full-strict-ssltls-on-apache-with-cloudflare-4lbe)
+- [Understanding Language Models: A Beginner-Friendly Introduction](https://dev.to/mshojaei77/understanding-language-models-a-beginner-friendly-introduction-17io)
+- [Supercharging Medusa v2 with Supabase Storage](https://dev.to/jake_ngatchu_e2d75794a1a6/supercharging-medusa-v2-with-supabase-storage-3cd1)
 <!-- BLOG-POST-LIST:END -->
 
