@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pokemon3D API v0.2.1](https://dev.to/sudhanshuambastha/pokemon3d-api-v021-38ok)
-- [Mobile Agents Powered by LLMs: Revolutionizing On-Device Intelligence](https://dev.to/vihuvac/mobile-agents-powered-by-llms-revolutionizing-on-device-intelligence-5gdi)
-- [Developing Explainable AI Models for Compliance](https://dev.to/kartikmehta8/developing-explainable-ai-models-for-compliance-pg)
-- [How to Capture Screenshots of Any Website Automatically? Discover ZonySnap API](https://dev.to/mga_dev/how-to-capture-screenshots-of-any-website-automatically-discover-zonysnap-api-47mh)
+- [A Backend-to-Full Stack Savior: AI Revamps the App Interface](https://dev.to/mjiee/a-backend-to-full-stack-savior-ai-revamps-the-app-interface-13hh)
+- [“The Hidden Shortcut to Open GitHub Repositories in VS Code”](https://dev.to/ramyasree_manthena_76c598/the-hidden-shortcut-to-open-github-repositories-in-vs-code-j9k)
+- [Server-Side vs. Client-Side Rendering: Which One Should You Choose?](https://dev.to/aryan015/server-side-vs-client-side-rendering-which-one-should-you-choose-1m2e)
+- [Roar! You&#39;ve Found Me Here!](https://dev.to/gabethebear/roar-youve-found-me-here-34c1)
 <!-- BLOG-POST-LIST:END -->
 
