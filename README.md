@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlined AI Image Generator Cuts Size by 50% Without Losing Quality](https://dev.to/mikeyoung44/streamlined-ai-image-generator-cuts-size-by-50-without-losing-quality-4a31)
-- [AI Breakthrough Makes Object Editing in Photos as Easy as Copy and Paste](https://dev.to/mikeyoung44/ai-breakthrough-makes-object-editing-in-photos-as-easy-as-copy-and-paste-29c8)
-- [AugMix in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-2-568g)
-- [DiLoCo: New Training Method Cuts AI Model Communication by 32x While Maintaining Performance](https://dev.to/mikeyoung44/diloco-new-training-method-cuts-ai-model-communication-by-32x-while-maintaining-performance-2k8a)
+- [A Glimpse of RadhaSphere Wallet – The Future of Web3 UX&quot; 🚀](https://dev.to/omniradhanexus/a-glimpse-of-radhasphere-wallet-the-future-of-web3-ux-49j2)
+- [How to build logic in programming.](https://dev.to/tahir_rafique/how-to-build-logic-in-programming-oo8)
+- [&quot;Unlocking AI Navigation: The Power of UniGoal and Multi-Turn Security&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-navigation-the-power-of-unigoal-and-multi-turn-security-213j)
+- [Several popular fonts in social media](https://dev.to/jsam/several-popular-fonts-in-social-media-1ic5)
 <!-- BLOG-POST-LIST:END -->
 
