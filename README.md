@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Weak API Authentication in Laravel &lpar;With Code Examples&rpar;](https://dev.to/pentest_testing_corp/how-to-fix-weak-api-authentication-in-laravel-with-code-examples-443c)
-- [How to Build Your Own Social Network with Web4 Lite from Linkspreed - An Open Source Facebook Clone @Home](https://dev.to/web4/how-to-build-your-own-social-network-with-web4-lite-from-linkspreed-an-open-source-facebook-47c4)
-- [How to Hide Local Git Changes Without Ignoring Files](https://dev.to/sarath191181208/what-git-hide-1da3)
-- [Dynamic Data in Test Automation: Guide to Best Practices](https://dev.to/radha_4c842d8e4362a7cdd9c/dynamic-data-in-test-automation-guide-to-best-practices-4acg)
+- [WeCoded Challenge: A Celebration of Voices and Code](https://dev.to/pranavjana/wecoded-challenge-a-celebration-of-voices-and-code-llh)
+- [problem solver](https://dev.to/just0_0kidding/problem-solver-p)
+- [How does ChatGPT produce text that sounds natural and human-like?](https://dev.to/keshava_72/how-does-chatgpt-produce-text-that-sounds-natural-and-human-like-4clm)
+- [JourneySkill is Live on Product Hunt! 🚀](https://dev.to/ashraful__malik/journeyskill-is-live-on-product-hunt-4506)
 <!-- BLOG-POST-LIST:END -->
 
