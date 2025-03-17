@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [155/365 | ¥10M Job Challenge - Practical uses of AI](https://dev.to/kameken100/155365-y10m-job-challenge-practical-uses-of-ai-1pcf)
-- [Easily Create Complex Stacks in Just a Few Clicks — New Release!](https://dev.to/diploi/easily-create-complex-stacks-in-just-a-few-clicks-new-release-3gdl)
-- [AI-Powered Conversational Avatar System: Tools &amp; Best Practices](https://dev.to/anhducmata/ai-powered-conversational-avatar-system-tools-best-practices-oe0)
-- [The Future of Frontend with AI](https://dev.to/lvieira268/the-future-of-frontend-with-ai-47g2)
+- [Say Goodbye to Tedious Icon Imports in Umbraco with Icoover!](https://dev.to/skttl/say-goodbye-to-tedious-icon-imports-in-umbraco-with-icoover-1c36)
+- [Concerning God objects in Rails legacy app](https://dev.to/janmpeterka/concerning-god-objects-in-rails-legacy-app-1oc0)
+- [NuDEX: Understanding Slippage and the Need for Precision for Traders](https://dev.to/nudex/nudex-understanding-slippage-and-the-need-for-precision-for-traders-2k5c)
+- [How to build Dashboards from MySQL data](https://dev.to/ameenashad/how-to-build-dashboards-from-mysql-data-1300)
 <!-- BLOG-POST-LIST:END -->
 
