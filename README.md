@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/foxinfotech/-4p2g)
-- [Guided Lab: Encrypting Data at Rest by Using AWS Encryption Options](https://dev.to/ameh_mathias/guided-lab-encrypting-data-at-rest-by-using-aws-encryption-options-oae)
-- [🔥 Meet Rich-TODO: Turn Your Terminal into a Stunning Task Manager! 🔥](https://dev.to/mehranmv/meet-rich-todo-turn-your-terminal-into-a-stunning-task-manager-422p)
-- [[Boost]](https://dev.to/angkhana_lila_0e4c359c86a/-5li)
+- [155/365 | ¥10M Job Challenge - Practical uses of AI](https://dev.to/kameken100/155365-y10m-job-challenge-practical-uses-of-ai-1pcf)
+- [Easily Create Complex Stacks in Just a Few Clicks — New Release!](https://dev.to/diploi/easily-create-complex-stacks-in-just-a-few-clicks-new-release-3gdl)
+- [AI-Powered Conversational Avatar System: Tools &amp; Best Practices](https://dev.to/anhducmata/ai-powered-conversational-avatar-system-tools-best-practices-oe0)
+- [The Future of Frontend with AI](https://dev.to/lvieira268/the-future-of-frontend-with-ai-47g2)
 <!-- BLOG-POST-LIST:END -->
 
