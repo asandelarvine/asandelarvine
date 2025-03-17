@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A new GSAP Nuxt Module](https://dev.to/lucaargentieri/a-new-gsap-nuxt-module-4fj4)
-- [An Engaging Look into Academic Free License 1.1](https://dev.to/bobcars/an-engaging-look-into-academic-free-license-11-55o)
-- [The Rise of &quot;Vibe Coders&quot; and the Imperative of Foundational Skills](https://dev.to/mrasadatik/the-rise-of-vibe-coders-and-the-imperative-of-foundational-skills-1p5b)
-- [Trig.js vs AOS.js vs ScrollTrigger – Which Scroll Animation Library Wins?](https://dev.to/idevgames/trigjs-vs-aosjs-vs-scrolltrigger-which-scroll-animation-library-wins-4i36)
+- [KendoReact Component Explorer](https://dev.to/pranavjana/kendoreact-component-explorer-300h)
+- [Cafeto: My First Plugin on PyPI](https://dev.to/jondoe-666/cafeto-my-first-plugin-on-pypi-4eh)
+- [React Suspense and Concurrent Rendering: The Future of Smooth UIs](https://dev.to/aneeqakhan/react-suspense-and-concurrent-rendering-the-future-of-smooth-uis-gho)
+- [From JSON String to JavaScript Object: The Ultimate Guide for Developers](https://dev.to/mustache/from-json-string-to-javascript-object-the-ultimate-guide-for-developers-20oe)
 <!-- BLOG-POST-LIST:END -->
 
