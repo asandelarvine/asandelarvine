@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - 290. Word Pattern](https://dev.to/rakeshreddy512/leetcode-290-word-pattern-n87)
-- [Leetcode - 205. Isomorphic Strings](https://dev.to/rakeshreddy512/leetcode-205-isomorphic-strings-34ec)
-- [🚀 Want to add Live Streaming to your React Native app? Learn how to set up seamless live](https://dev.to/stacks_gather_f66c31eb9d6/want-to-add-live-streaming-to-your-react-native-app-learn-how-to-set-up-seamless-live-bi4)
-- [What Subscription Developers Can Learn from This Year&#39;s Benchmark Data](https://dev.to/rikh81/what-subscription-developers-can-learn-from-this-years-benchmark-data-3ke9)
+- [Python vs Rust: I Tested Both. The Winner Is…](https://dev.to/resource_bunk_1077cab07da/python-vs-rust-i-tested-both-the-winner-is-1d8b)
+- [Sliding Window Pattern in JavaScript: A Beginner-Friendly Guide](https://dev.to/biswasprasana001/sliding-window-pattern-in-javascript-a-beginner-friendly-guide-2kpo)
+- [How AI is Changing Affiliate Marketing: The Future of Automated Earnings](https://dev.to/savemitra/how-ai-is-changing-affiliate-marketing-the-future-of-automated-earnings-4mfk)
+- [Leetcode - 242. Valid Anagram](https://dev.to/rakeshreddy512/leetcode-242-valid-anagram-j9b)
 <!-- BLOG-POST-LIST:END -->
 
