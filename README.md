@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining Reinforcement Learning to My Barber](https://dev.to/fotiecodes/explaining-reinforcement-learning-to-my-barber-2nh7)
-- [TRISUM: A Hybrid Graph-Based Keyword Extraction Algorithm 🚀](https://dev.to/talhaahsan/trisum-a-hybrid-graph-based-keyword-extraction-algorithm-1p2c)
-- [Mastering MuleSoft Integration: Patterns, Architecture, and Best Practices](https://dev.to/kapusto/mastering-mulesoft-integration-patterns-architecture-and-best-practices-3e7i)
-- [How to build your Solana sniper bot &lpar;4&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-4-55c3)
+- [The Future of Development: Are We Moving Toward a Hybrid Approach Between Code and No-Code?](https://dev.to/tomas_artuso_/the-future-of-development-are-we-moving-toward-a-hybrid-approach-between-code-and-no-code-4mk3)
+- [Is AI the Future, or Is It Already Here? 🤖](https://dev.to/diamantino_almeida/is-ai-the-future-or-is-it-already-here-d10)
+- [React vs. Svelte: A Developer&#39;s Honest Opinion](https://dev.to/ezek-iel/react-vs-svelte-a-developers-honest-opinion-jj7)
+- [💀 Insomni&#39;hack 2025 CTF write-up](https://dev.to/kkrypt0nn/insomnihack-2025-ctf-write-up-1boo)
 <!-- BLOG-POST-LIST:END -->
 
