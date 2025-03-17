@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create animated blog cards with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-animated-blog-cards-with-tailwind-css-1nnm)
-- [Top 20 European Alternatives to Major US Technology Services: You Could Change Right Now](https://dev.to/devlinkstudios/top-20-european-alternatives-to-major-us-technology-services-you-could-change-right-now-1aan)
-- [HOW TO CREATE A SHARED FILED STORAGE FOR OFFICES IN AZURE.](https://dev.to/astranan/how-to-create-a-shared-filed-storage-for-offices-in-azure-20e3)
-- [Why Jinno is a Better Alternative to Storybook](https://dev.to/wegin/why-jinno-is-a-better-alternative-to-storybook-pl)
+- [The Future of Wearable App Development: How to Build Apps for the Next Generation of Devices](https://dev.to/lbm_solution/the-future-of-wearable-app-development-how-to-build-apps-for-the-next-generation-of-devices-10md)
+- [🚀 Your Daily Crypto Job Digest For 17 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-march-304f)
+- [Designing and Building an Application with Anima, Figma, and React](https://dev.to/andrewbaisden/designing-and-building-an-application-with-anima-figma-and-react-2nek)
+- [How To Fetch The Data From API In React JS](https://dev.to/theudemezue/how-to-fetch-the-data-from-api-in-react-js-e4d)
 <!-- BLOG-POST-LIST:END -->
 
