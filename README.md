@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Deep Dive: YAML Describe Explained!](https://dev.to/aws-builders/kubernetes-deep-dive-yaml-describe-explained-4hl4)
-- [&quot;Day in the Life of XY Developer&quot; - Who is it for?](https://dev.to/matemiller/day-in-the-life-of-xy-developer-who-is-it-for-23el)
-- [Best Certifications to Elevate Your IT and AI Skills in 2025](https://dev.to/skillboosttrainer/best-certifications-to-elevate-your-it-and-ai-skills-in-2025-12h8)
-- [Everything you didn&#39;t know you needed to know about Power Automate Errors](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-automate-errors-429f)
+- [.NET Learning Notes: How to use Identity](https://dev.to/alexleeeeeeeeee/net-learning-notes-how-to-use-identity-37m4)
+- [unleashing the potential of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-j50)
+- [Crie seu primeiro RPA com BotCity](https://dev.to/olucascruz/crie-seu-primeiro-rpa-com-botcity-4490)
+- [Scrape Jobs for Competitive Advantage](https://dev.to/swiftproxy_residential/scrape-jobs-for-competitive-advantage-3951)
 <!-- BLOG-POST-LIST:END -->
 
