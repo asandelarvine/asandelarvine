@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Wearable App Development: How to Build Apps for the Next Generation of Devices](https://dev.to/lbm_solution/the-future-of-wearable-app-development-how-to-build-apps-for-the-next-generation-of-devices-10md)
-- [🚀 Your Daily Crypto Job Digest For 17 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-march-304f)
-- [Designing and Building an Application with Anima, Figma, and React](https://dev.to/andrewbaisden/designing-and-building-an-application-with-anima-figma-and-react-2nek)
-- [How To Fetch The Data From API In React JS](https://dev.to/theudemezue/how-to-fetch-the-data-from-api-in-react-js-e4d)
+- [[Boost]](https://dev.to/foxinfotech/-4p2g)
+- [Guided Lab: Encrypting Data at Rest by Using AWS Encryption Options](https://dev.to/ameh_mathias/guided-lab-encrypting-data-at-rest-by-using-aws-encryption-options-oae)
+- [🔥 Meet Rich-TODO: Turn Your Terminal into a Stunning Task Manager! 🔥](https://dev.to/mehranmv/meet-rich-todo-turn-your-terminal-into-a-stunning-task-manager-422p)
+- [[Boost]](https://dev.to/angkhana_lila_0e4c359c86a/-5li)
 <!-- BLOG-POST-LIST:END -->
 
