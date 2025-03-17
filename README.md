@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Assistant: Measuring Air Quality, Humidity and Temperature with a BME680 Sensor](https://dev.to/admantium/home-assistant-measuring-air-quality-humidity-and-temperature-with-a-bme680-sensor-3pb3)
-- [Flutter’s Impeller vs. React Native’s Fabric - Who Wins in UI Rendering?](https://dev.to/p_0c0278d/flutters-impeller-vs-react-natives-fabric-who-wins-in-ui-rendering-36bj)
-- [Today, I came across this amazing blog on Project Management for Developers—a must-read for devs looking to balance coding and collaboration effectively! It offers practical insights on streamlining workflows without distractions. Check it out! 🔥 #Dev](https://dev.to/nikhil_sachapara/today-i-came-across-this-amazing-blog-on-project-management-for-developers-a-must-read-for-devs-5893)
-- [🎮 Breaking Down the Real-World Complexity of Fortnite’s Matchmaking Algorithm](https://dev.to/umut_bayindir_/breaking-down-the-real-world-complexity-of-fortnites-matchmaking-algorithm-2ane)
+- [Kubernetes Deep Dive: YAML Describe Explained!](https://dev.to/aws-builders/kubernetes-deep-dive-yaml-describe-explained-4hl4)
+- [&quot;Day in the Life of XY Developer&quot; - Who is it for?](https://dev.to/matemiller/day-in-the-life-of-xy-developer-who-is-it-for-23el)
+- [Best Certifications to Elevate Your IT and AI Skills in 2025](https://dev.to/skillboosttrainer/best-certifications-to-elevate-your-it-and-ai-skills-in-2025-12h8)
+- [Everything you didn&#39;t know you needed to know about Power Automate Errors](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-automate-errors-429f)
 <!-- BLOG-POST-LIST:END -->
 
