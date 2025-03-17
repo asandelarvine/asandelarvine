@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python vs Rust: I Tested Both. The Winner Is…](https://dev.to/resource_bunk_1077cab07da/python-vs-rust-i-tested-both-the-winner-is-1d8b)
-- [Sliding Window Pattern in JavaScript: A Beginner-Friendly Guide](https://dev.to/biswasprasana001/sliding-window-pattern-in-javascript-a-beginner-friendly-guide-2kpo)
-- [How AI is Changing Affiliate Marketing: The Future of Automated Earnings](https://dev.to/savemitra/how-ai-is-changing-affiliate-marketing-the-future-of-automated-earnings-4mfk)
-- [Leetcode - 242. Valid Anagram](https://dev.to/rakeshreddy512/leetcode-242-valid-anagram-j9b)
+- [Explaining Reinforcement Learning to My Barber](https://dev.to/fotiecodes/explaining-reinforcement-learning-to-my-barber-2nh7)
+- [TRISUM: A Hybrid Graph-Based Keyword Extraction Algorithm 🚀](https://dev.to/talhaahsan/trisum-a-hybrid-graph-based-keyword-extraction-algorithm-1p2c)
+- [Mastering MuleSoft Integration: Patterns, Architecture, and Best Practices](https://dev.to/kapusto/mastering-mulesoft-integration-patterns-architecture-and-best-practices-3e7i)
+- [How to build your Solana sniper bot &lpar;4&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-4-55c3)
 <!-- BLOG-POST-LIST:END -->
 
