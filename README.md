@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep Customers Happy During Service Outages: Ticket Volume Reduction Guide](https://dev.to/leotulii/how-to-keep-customers-happy-during-service-outages-ticket-volume-reduction-guide-o97)
-- [How &lpar;not&rpar; to Expose Your Entra ID Password in Plain Text When Using AWS Transfer Family SFTP](https://dev.to/chkso/how-not-to-expose-your-entra-id-password-in-plain-text-when-using-aws-transfer-family-sftp-3d9p)
-- [Check Out My Portfolio](https://dev.to/vimukthi_jayasanka_816593/check-out-my-portfolio-1k83)
-- [Overview: &quot;OWASP Top 10 for LLM Applications 2025: A Comprehensive Guide&quot;](https://dev.to/foxgem/overview-owasp-top-10-for-llm-applications-2025-a-comprehensive-guide-8pk)
+- [3D Zig-Zag Matrix](https://dev.to/dan52242644dan/3d-zig-zag-matrix-3neo)
+- [KendoReact Project Management App](https://dev.to/aniruddhaadak/kendoreact-project-management-app-agf)
+- [Minha Jornada com Python: Aprendendo a Programar e Sonhando com Developer Advocacy](https://dev.to/mvcruzs/minha-jornada-com-python-aprendendo-a-programar-e-sonhando-com-developer-advocacy-mo3)
+- [Swine Transformers](https://dev.to/sanjidh090/swine-transformers-25k2)
 <!-- BLOG-POST-LIST:END -->
 
