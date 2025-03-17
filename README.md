@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Development: Are We Moving Toward a Hybrid Approach Between Code and No-Code?](https://dev.to/tomas_artuso_/the-future-of-development-are-we-moving-toward-a-hybrid-approach-between-code-and-no-code-4mk3)
-- [Is AI the Future, or Is It Already Here? 🤖](https://dev.to/diamantino_almeida/is-ai-the-future-or-is-it-already-here-d10)
-- [React vs. Svelte: A Developer&#39;s Honest Opinion](https://dev.to/ezek-iel/react-vs-svelte-a-developers-honest-opinion-jj7)
-- [💀 Insomni&#39;hack 2025 CTF write-up](https://dev.to/kkrypt0nn/insomnihack-2025-ctf-write-up-1boo)
+- [A new GSAP Nuxt Module](https://dev.to/lucaargentieri/a-new-gsap-nuxt-module-4fj4)
+- [An Engaging Look into Academic Free License 1.1](https://dev.to/bobcars/an-engaging-look-into-academic-free-license-11-55o)
+- [The Rise of &quot;Vibe Coders&quot; and the Imperative of Foundational Skills](https://dev.to/mrasadatik/the-rise-of-vibe-coders-and-the-imperative-of-foundational-skills-1p5b)
+- [Trig.js vs AOS.js vs ScrollTrigger – Which Scroll Animation Library Wins?](https://dev.to/idevgames/trigjs-vs-aosjs-vs-scrolltrigger-which-scroll-animation-library-wins-4i36)
 <!-- BLOG-POST-LIST:END -->
 
