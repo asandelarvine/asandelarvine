@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Zig-Zag Matrix](https://dev.to/dan52242644dan/3d-zig-zag-matrix-3neo)
-- [KendoReact Project Management App](https://dev.to/aniruddhaadak/kendoreact-project-management-app-agf)
-- [Minha Jornada com Python: Aprendendo a Programar e Sonhando com Developer Advocacy](https://dev.to/mvcruzs/minha-jornada-com-python-aprendendo-a-programar-e-sonhando-com-developer-advocacy-mo3)
-- [Swine Transformers](https://dev.to/sanjidh090/swine-transformers-25k2)
+- [🚀 Building a Ruby HTTP Server from Scratch – No Frameworks, Just Raw Sockets!](https://dev.to/connerj70/building-a-ruby-http-server-from-scratch-no-frameworks-just-raw-sockets-2pfl)
+- [Diving into Banking Infrastructure on AWS Cloud – Thoughts on this Series?](https://dev.to/devopsvn/diving-into-banking-infrastructure-on-aws-cloud-thoughts-on-this-series-5456)
+- [25+ Best Open Source Icon Library Options &lpar;2025 Edition&rpar;](https://dev.to/masumparvej/25-best-open-source-icon-library-options-2025-edition-ne7)
+- [[AI Image Prompt Generator]&lpar;https://aiparabellum.com/ai-image-prompt-generator/&rpar; helps craft detailed prompts for AI art tools like Midjourney, DALL-E, and Stable Diffusion effortlessly.](https://dev.to/foxinfotech/ai-image-prompt-generatorhttpsaiparabellumcomai-image-prompt-generator-helps-craft-3khh)
 <!-- BLOG-POST-LIST:END -->
 
