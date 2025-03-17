@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget OpenAI Sora: Meet Open-Sora, the AI Video Tool Everyone&#39;s Talking About](https://dev.to/aibyamdad/forget-openai-sora-meet-open-sora-the-ai-video-tool-everyones-talking-about-3701)
-- [Is the AI Revolution a Boom or Doom for Programmers?](https://dev.to/chattermate/is-the-ai-revolution-a-boom-or-doom-for-programmers-2nef)
-- [Load-balancing using docker and nginx](https://dev.to/ifeanyichima/load-balancing-using-docker-and-nginx-16p7)
-- [&lt;&gt;Building a Cross-Chain Swap with LayerZero on Monad &lt;/&gt;](https://dev.to/kalidecoder/building-a-cross-chain-swap-with-layerzero-on-monad--l0d)
+- [Leetcode - 290. Word Pattern](https://dev.to/rakeshreddy512/leetcode-290-word-pattern-n87)
+- [Leetcode - 205. Isomorphic Strings](https://dev.to/rakeshreddy512/leetcode-205-isomorphic-strings-34ec)
+- [🚀 Want to add Live Streaming to your React Native app? Learn how to set up seamless live](https://dev.to/stacks_gather_f66c31eb9d6/want-to-add-live-streaming-to-your-react-native-app-learn-how-to-set-up-seamless-live-bi4)
+- [What Subscription Developers Can Learn from This Year&#39;s Benchmark Data](https://dev.to/rikh81/what-subscription-developers-can-learn-from-this-years-benchmark-data-3ke9)
 <!-- BLOG-POST-LIST:END -->
 
