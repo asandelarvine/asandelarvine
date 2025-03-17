@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KendoReact Component Explorer](https://dev.to/pranavjana/kendoreact-component-explorer-300h)
-- [Cafeto: My First Plugin on PyPI](https://dev.to/jondoe-666/cafeto-my-first-plugin-on-pypi-4eh)
-- [React Suspense and Concurrent Rendering: The Future of Smooth UIs](https://dev.to/aneeqakhan/react-suspense-and-concurrent-rendering-the-future-of-smooth-uis-gho)
-- [From JSON String to JavaScript Object: The Ultimate Guide for Developers](https://dev.to/mustache/from-json-string-to-javascript-object-the-ultimate-guide-for-developers-20oe)
+- [How to code like a boss?](https://dev.to/matthijsschuurman/how-to-code-like-a-boss-2i8)
+- [Programming Doesn’t Happen at the Keyboard — But It Also Does](https://dev.to/skilleddevs/programming-doesnt-happen-at-the-keyboard-but-it-also-does-154)
+- [What exactly is Active Directory?](https://dev.to/timo_reusch/what-exactly-is-active-directory-389d)
+- [RootMe CTF](https://dev.to/khelil_cherfimohamedfar/rootme-ctf-12e9)
 <!-- BLOG-POST-LIST:END -->
 
