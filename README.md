@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Ruby HTTP Server from Scratch – No Frameworks, Just Raw Sockets!](https://dev.to/connerj70/building-a-ruby-http-server-from-scratch-no-frameworks-just-raw-sockets-2pfl)
-- [Diving into Banking Infrastructure on AWS Cloud – Thoughts on this Series?](https://dev.to/devopsvn/diving-into-banking-infrastructure-on-aws-cloud-thoughts-on-this-series-5456)
-- [25+ Best Open Source Icon Library Options &lpar;2025 Edition&rpar;](https://dev.to/masumparvej/25-best-open-source-icon-library-options-2025-edition-ne7)
-- [[AI Image Prompt Generator]&lpar;https://aiparabellum.com/ai-image-prompt-generator/&rpar; helps craft detailed prompts for AI art tools like Midjourney, DALL-E, and Stable Diffusion effortlessly.](https://dev.to/foxinfotech/ai-image-prompt-generatorhttpsaiparabellumcomai-image-prompt-generator-helps-craft-3khh)
+- [Learning 3D Graphics From Scratch](https://dev.to/justinhhorner/learning-3d-graphics-from-scratch-4p2j)
+- [Learning 3D Graphics From Scratch](https://dev.to/justinhhorner/learning-3d-graphics-from-scratch-2bmh)
+- [Baidu Launches 2 New Models, Claims Same Performance But Cheaper than DeepSeek R1](https://dev.to/wearetechi/baidu-launches-2-new-models-claims-same-performance-but-cheaper-than-deepseek-r1-111)
+- [Next-Gen Tech](https://dev.to/tylermorganaqe/next-gen-tech-5cb8)
 <!-- BLOG-POST-LIST:END -->
 
