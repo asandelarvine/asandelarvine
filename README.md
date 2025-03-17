@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning 3D Graphics From Scratch](https://dev.to/justinhhorner/learning-3d-graphics-from-scratch-4p2j)
-- [Learning 3D Graphics From Scratch](https://dev.to/justinhhorner/learning-3d-graphics-from-scratch-2bmh)
-- [Baidu Launches 2 New Models, Claims Same Performance But Cheaper than DeepSeek R1](https://dev.to/wearetechi/baidu-launches-2-new-models-claims-same-performance-but-cheaper-than-deepseek-r1-111)
-- [Next-Gen Tech](https://dev.to/tylermorganaqe/next-gen-tech-5cb8)
+- [I can&#39;t believe it took me 5 years to stumble upon such a good read. :&rpar;](https://dev.to/jason_nathan/i-cant-believe-it-took-me-5-years-to-stumble-upon-such-a-good-read--1og)
+- [Handling Forms in React: Controlled vs. Uncontrolled Components](https://dev.to/hasunnilupul/handling-forms-in-react-controlled-vs-uncontrolled-components-27nh)
+- [TIL: AutoMapper Only Considers Simple Mappings When Validating Configurations](https://dev.to/canro91/til-automapper-only-considers-simple-mappings-when-validating-configurations-2bbh)
+- [Build a Speaking RAG Locally](https://dev.to/shelwyn_corte/build-a-speaking-rag-locally-3kap)
 <!-- BLOG-POST-LIST:END -->
 
