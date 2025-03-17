@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation Release Notes - February 2025](https://dev.to/pubnub/documentation-release-notes-february-2025-42cl)
-- [The high cost of outdated software: A friend’s wake-up call](https://dev.to/naveera/the-high-cost-of-outdated-software-a-friends-wake-up-call-43hb)
-- [How do I evaluate the security features of a Rummy software provider?](https://dev.to/philip_branson_f9d8123203/how-do-i-evaluate-the-security-features-of-a-rummy-software-provider-4nam)
-- [CSS &gt; JS for Scroll Animations: Here’s Why](https://dev.to/idevgames/css-js-for-scroll-animations-heres-why-3587)
+- [How to create animated blog cards with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-animated-blog-cards-with-tailwind-css-1nnm)
+- [Top 20 European Alternatives to Major US Technology Services: You Could Change Right Now](https://dev.to/devlinkstudios/top-20-european-alternatives-to-major-us-technology-services-you-could-change-right-now-1aan)
+- [HOW TO CREATE A SHARED FILED STORAGE FOR OFFICES IN AZURE.](https://dev.to/astranan/how-to-create-a-shared-filed-storage-for-offices-in-azure-20e3)
+- [Why Jinno is a Better Alternative to Storybook](https://dev.to/wegin/why-jinno-is-a-better-alternative-to-storybook-pl)
 <!-- BLOG-POST-LIST:END -->
 
