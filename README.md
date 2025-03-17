@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Tedious Icon Imports in Umbraco with Icoover!](https://dev.to/skttl/say-goodbye-to-tedious-icon-imports-in-umbraco-with-icoover-1c36)
-- [Concerning God objects in Rails legacy app](https://dev.to/janmpeterka/concerning-god-objects-in-rails-legacy-app-1oc0)
-- [NuDEX: Understanding Slippage and the Need for Precision for Traders](https://dev.to/nudex/nudex-understanding-slippage-and-the-need-for-precision-for-traders-2k5c)
-- [How to build Dashboards from MySQL data](https://dev.to/ameenashad/how-to-build-dashboards-from-mysql-data-1300)
+- [Forget OpenAI Sora: Meet Open-Sora, the AI Video Tool Everyone&#39;s Talking About](https://dev.to/aibyamdad/forget-openai-sora-meet-open-sora-the-ai-video-tool-everyones-talking-about-3701)
+- [Is the AI Revolution a Boom or Doom for Programmers?](https://dev.to/chattermate/is-the-ai-revolution-a-boom-or-doom-for-programmers-2nef)
+- [Load-balancing using docker and nginx](https://dev.to/ifeanyichima/load-balancing-using-docker-and-nginx-16p7)
+- [&lt;&gt;Building a Cross-Chain Swap with LayerZero on Monad &lt;/&gt;](https://dev.to/kalidecoder/building-a-cross-chain-swap-with-layerzero-on-monad--l0d)
 <!-- BLOG-POST-LIST:END -->
 
