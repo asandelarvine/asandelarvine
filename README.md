@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Overengineer’s Handbook: How to Build a Rocket to Toast Bread](https://dev.to/hotfixhero/the-overengineers-handbook-how-to-build-a-rocket-to-toast-bread-ac7)
-- [DeepShell: Your self-hosted shell assistant](https://dev.to/abyss-c0re/deepshell-your-self-hosted-shell-assistant-1e74)
-- [Use Promise.all](https://dev.to/codescirahul/use-promiseall-4dam)
-- [Windows Security Alert: Signs of a Hack &amp; How to Remove Malware](https://dev.to/cybrpunked/windows-security-alert-signs-of-a-hack-how-to-remove-malware-1gin)
+- [The Curious Case of the Ageing Nintendo 90s Console](https://dev.to/justin_downes/the-curious-case-of-the-ageing-nintendo-90s-console-368l)
+- [Unveiling the Checkstyle License: A Deep Dive into Fair Code and Open Source Innovation](https://dev.to/zhangwei42/unveiling-the-checkstyle-license-a-deep-dive-into-fair-code-and-open-source-innovation-633)
+- [Mastering the CSS `animation-delay` Property: A Handy Cheatsheet.](https://dev.to/code_2/mastering-the-css-animation-delay-property-a-handy-cheatsheet-2046)
+- [Why Most Python Devs Struggle &lpar;And How to Fix It for Good&rpar;](https://dev.to/0x3d_site/why-most-python-devs-struggle-and-how-to-fix-it-for-good-3pkn)
 <!-- BLOG-POST-LIST:END -->
 
