@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 10 Best Free API Testing Tools You Should Use in 2025](https://dev.to/dct_technologyprivatelimited/10-best-free-api-testing-tools-you-should-use-in-2025-ohj)
-- [Top 10 Free SVG Icon Categories from Lineicons](https://dev.to/icons/top-10-free-svg-icon-categories-from-lineicons-1pj4)
-- [Mastering Microsoft Loop Storage Management: A Guide for Administrators and Users](https://dev.to/jaloplo/mastering-microsoft-loop-storage-management-a-guide-for-administrators-and-users-19i3)
-- [The Path to Becoming a Top 1% Programmer](https://dev.to/web_dev-usman/the-path-to-becoming-a-top-1-programmer-3f1k)
+- [try yaps.chat - &quot;Don&#39;t be like Bezos. Own your gf. Don&#39;t let Zuck to cook smth&quot;.](https://dev.to/abdibrokhim/try-yapschat-dont-be-like-bezos-own-your-gf-dont-let-zuck-to-cook-smth-fam)
+- [ServiceNow and GitHub Integration for Database Change Automation](https://dev.to/bytebase/servicenow-and-github-integration-for-database-change-automation-21e0)
+- [Going from an Idea to MVP in Weeks: PromptPanda&#39;s Launch&lpar;es&rpar;](https://dev.to/wasp/going-from-an-idea-to-mvp-in-weeks-promptpandas-launches-287n)
+- [How to Prevent Cross-Site Script Inclusion &lpar;XSSI&rpar; in Laravel](https://dev.to/pentest_testing_corp/how-to-prevent-cross-site-script-inclusion-xssi-in-laravel-5cea)
 <!-- BLOG-POST-LIST:END -->
 
