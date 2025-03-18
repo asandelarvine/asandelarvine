@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Data Types](https://dev.to/ramyasree_manthena_76c598/understanding-javascript-data-types-28i0)
-- [Address Common Machine Learning Challenges With Managed MLflow](https://dev.to/engroso/address-common-machine-learning-challenges-with-managed-mlflow-kfb)
-- [Level Up React: Mastering useEffect for performant React applications](https://dev.to/56_kode/level-up-react-mastering-useeffect-for-performant-react-applications-118n)
-- [What is CAMEL-AI and Why is it Important?](https://dev.to/0x113/what-is-camel-ai-and-why-is-it-important-ebh)
+- [Load Balancer vs Reverse Proxy: What&#39;s the Difference?](https://dev.to/criscmd/load-balancer-vs-reverse-proxy-whats-the-difference-30o5)
+- [Redis Headless Service vs. Cluster IP Service: Which one should you use?](https://dev.to/suvink/redis-headless-service-vs-cluster-ip-service-which-one-should-you-use-2hio)
+- [JavaScript let, var, and const: Understanding the Differences With Examples](https://dev.to/buildwithgagan/javascript-let-var-and-const-understanding-the-differences-with-examples-om8)
+- [Automating SEPA XML File Updates with PowerShell](https://dev.to/hrizzz/automating-sepa-xml-file-updates-with-powershell-eho)
 <!-- BLOG-POST-LIST:END -->
 
