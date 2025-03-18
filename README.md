@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Insight Hub: Visualizing the Digital Ledger Universe](https://dev.to/binarygarage/blockchain-insight-hub-visualizing-the-digital-ledger-universe-f3)
-- [Welcome to the world of programming](https://dev.to/arifcseru/welcome-to-the-world-of-programming-145l)
-- [Coming Soon: JavaScript for Rails Developers](https://dev.to/railsdesigner/coming-soon-javascript-for-rails-developers-p44)
-- [How To Start A Dev Tools Company: Insights From YC](https://dev.to/jetthoughts/how-to-start-a-dev-tools-company-insights-from-yc-2gdm)
+- [Building a Todo List App with Elixir and Phoenix LiveView](https://dev.to/msnmongare/building-a-todo-list-app-with-elixir-and-phoenix-liveview-3lfn)
+- [Dica Java: Evite trafegar objetos de DTO&#39;s #002](https://dev.to/oigorrudel/dica-java-evite-trafegar-objetos-de-dtos-002-265a)
+- [Supercharge Your Jupyter Notebook: SQL Command Magic for IPython](https://dev.to/amadou6e/supercharge-your-jupyter-notebook-sql-command-magic-for-ipython-1ahf)
+- [Day 1123 : Power](https://dev.to/dwane/day-1123-power-37hb)
 <!-- BLOG-POST-LIST:END -->
 
