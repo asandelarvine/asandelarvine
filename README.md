@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Command-Line Arguments in Go: How to Use the Flag Library](https://dev.to/leapcell/command-line-arguments-in-go-how-to-use-the-flag-library-1j62)
+- [🚀 Your Daily Crypto Job Digest For 18 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-march-4i9p)
 - [Implementing Load More Animation in React Native with Reanimated and Lottie](https://dev.to/amitkumar13/implementing-load-more-animation-in-react-native-with-reanimated-and-lottie-3ddh)
 - [The Quite Nice and Fairly Accurate Intro to JS Primitive Data Types &lpar;pt. 1&rpar;](https://dev.to/ale3oula/the-quite-nice-and-fairly-accurate-intro-to-js-primitive-data-types-pt-1-oj4)
-- [Just posted this article](https://dev.to/syakirurahman/just-posted-this-article-498g)
-- [Top 10 AI Figma / Design to Code Tools to Build Web App Effortlessly](https://dev.to/syakirurahman/top-10-ai-figma-design-to-code-tools-to-build-web-app-effortlessly-3lod)
 <!-- BLOG-POST-LIST:END -->
 
