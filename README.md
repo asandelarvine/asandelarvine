@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Payment APIs: Simplifying Business Transactions](https://dev.to/apilover/payment-apis-simplifying-business-transactions-4hfc)
+- [Create Prompts That Get AI to See Your Vision](https://dev.to/foxinfotech/create-prompts-that-get-ai-to-see-your-vision-4mhd)
+- [open source notification Inbox](https://dev.to/novu/open-source-notification-inbox-2fji)
 - [No Hassle: Serverless Social Login Powered by AWS Cognito](https://dev.to/ooye_sanket/no-hassle-serverless-social-login-powered-by-aws-cognito-f3i)
-- [open source notification Inbox for Next.js](https://dev.to/novu/open-source-notification-inbox-for-nextjs-4ji4)
-- [🎨 Figma vs. Adobe XD: Which Web Design Tool Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/figma-vs-adobe-xd-which-web-design-tool-should-you-use-in-2025-59fi)
-- [SPL assists MongoDB: Grouping adjacent documents](https://dev.to/esproc_spl/spl-assists-mongodb-grouping-adjacent-documents-fjg)
 <!-- BLOG-POST-LIST:END -->
 
