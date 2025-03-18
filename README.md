@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Todo List App with Elixir and Phoenix LiveView](https://dev.to/msnmongare/building-a-todo-list-app-with-elixir-and-phoenix-liveview-3lfn)
-- [Dica Java: Evite trafegar objetos de DTO&#39;s #002](https://dev.to/oigorrudel/dica-java-evite-trafegar-objetos-de-dtos-002-265a)
-- [Supercharge Your Jupyter Notebook: SQL Command Magic for IPython](https://dev.to/amadou6e/supercharge-your-jupyter-notebook-sql-command-magic-for-ipython-1ahf)
-- [Day 1123 : Power](https://dev.to/dwane/day-1123-power-37hb)
+- [How to Install Postman on Fedora 41 &lpar;Standalone Version&rpar;](https://dev.to/edwinepr/how-to-install-postman-on-fedora-41-standalone-version-32fh)
+- [Quadratic: The AI-Powered Spreadsheet for Modern Teams](https://dev.to/quadraticai/quadratic-the-ai-powered-spreadsheet-for-modern-teams-gh2)
+- [algorithms : intro to sorting algorithms 2 {merge sort and quick sort }](https://dev.to/atoms19/algorithms-1-intro-to-sorting-algorithms-i9p)
+- [From Employee to Entrepreneur: The Identity Shift No One Talks About by Successful Entrepreneurs such as Yasmin Bashirova](https://dev.to/yasminbashirova/from-employee-to-entrepreneur-the-identity-shift-no-one-talks-about-by-successful-entrepreneurs-1p5l)
 <!-- BLOG-POST-LIST:END -->
 
