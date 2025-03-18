@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Use Cases for CAMEL-AI](https://dev.to/0x113/common-use-cases-for-camel-ai-28mo)
-- [Just Between Us](https://dev.to/shaq_attack/just-between-us-225l)
-- [🚀 Bitcoin Rebound Gains Momentum as Whales Buy 200K BTC](https://dev.to/sergi_web3/bitcoin-rebound-gains-momentum-as-whales-buy-200k-btc-3040)
-- [Mastering React Debugging: 15 Essential Steps Every Developer Should Know](https://dev.to/engrsakib/mastering-react-debugging-15-essential-steps-every-developer-should-know-3748)
+- [Blockchain Insight Hub: Visualizing the Digital Ledger Universe](https://dev.to/binarygarage/blockchain-insight-hub-visualizing-the-digital-ledger-universe-f3)
+- [Welcome to the world of programming](https://dev.to/arifcseru/welcome-to-the-world-of-programming-145l)
+- [Coming Soon: JavaScript for Rails Developers](https://dev.to/railsdesigner/coming-soon-javascript-for-rails-developers-p44)
+- [How To Start A Dev Tools Company: Insights From YC](https://dev.to/jetthoughts/how-to-start-a-dev-tools-company-insights-from-yc-2gdm)
 <!-- BLOG-POST-LIST:END -->
 
