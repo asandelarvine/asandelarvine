@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancer vs Reverse Proxy: What&#39;s the Difference?](https://dev.to/criscmd/load-balancer-vs-reverse-proxy-whats-the-difference-30o5)
-- [Redis Headless Service vs. Cluster IP Service: Which one should you use?](https://dev.to/suvink/redis-headless-service-vs-cluster-ip-service-which-one-should-you-use-2hio)
-- [JavaScript let, var, and const: Understanding the Differences With Examples](https://dev.to/buildwithgagan/javascript-let-var-and-const-understanding-the-differences-with-examples-om8)
-- [Automating SEPA XML File Updates with PowerShell](https://dev.to/hrizzz/automating-sepa-xml-file-updates-with-powershell-eho)
+- [The Overengineer’s Handbook: How to Build a Rocket to Toast Bread](https://dev.to/hotfixhero/the-overengineers-handbook-how-to-build-a-rocket-to-toast-bread-ac7)
+- [DeepShell: Your self-hosted shell assistant](https://dev.to/abyss-c0re/deepshell-your-self-hosted-shell-assistant-1e74)
+- [Use Promise.all](https://dev.to/codescirahul/use-promiseall-4dam)
+- [Windows Security Alert: Signs of a Hack &amp; How to Remove Malware](https://dev.to/cybrpunked/windows-security-alert-signs-of-a-hack-how-to-remove-malware-1gin)
 <!-- BLOG-POST-LIST:END -->
 
