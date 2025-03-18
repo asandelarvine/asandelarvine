@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to code like a boss?](https://dev.to/matthijsschuurman/how-to-code-like-a-boss-2i8)
-- [Programming Doesn’t Happen at the Keyboard — But It Also Does](https://dev.to/skilleddevs/programming-doesnt-happen-at-the-keyboard-but-it-also-does-154)
-- [What exactly is Active Directory?](https://dev.to/timo_reusch/what-exactly-is-active-directory-389d)
-- [RootMe CTF](https://dev.to/khelil_cherfimohamedfar/rootme-ctf-12e9)
+- [Hello, devs! 👋](https://dev.to/nikhilgoesfullstack/hello-devs-4f27)
+- [Como testes mudaram minha forma de trabalhar](https://dev.to/h1bertobarbosa/como-testes-mudaram-minha-forma-de-trabalhar-1g0e)
+- [&quot;Unlocking Quantum Error Correction: The Power of Chiral Cat Qubits&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-error-correction-the-power-of-chiral-cat-qubits-5hd2)
+- [Python Tips for Beginners: A Guide to Writing Clean Code](https://dev.to/adetola_jesulayomi_e3bd55/python-tips-for-beginners-a-guide-to-writing-clean-code-26id)
 <!-- BLOG-POST-LIST:END -->
 
