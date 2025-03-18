@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Study Notes 6.3-4: What is Kafka &amp; Confluent Cloud](https://dev.to/pizofreude/study-notes-63-4-what-is-kafka-confluent-cloud-gfm)
-- [Introduction to Azure Databricks](https://dev.to/madgan95/introduction-to-azure-databricks-5gle)
-- [have a look to this](https://dev.to/ooye_sanket/have-a-look-to-this-ok6)
-- [[Boost]](https://dev.to/ooye_sanket/-2jo8)
+- [Understanding JavaScript Data Types](https://dev.to/ramyasree_manthena_76c598/understanding-javascript-data-types-28i0)
+- [Address Common Machine Learning Challenges With Managed MLflow](https://dev.to/engroso/address-common-machine-learning-challenges-with-managed-mlflow-kfb)
+- [Level Up React: Mastering useEffect for performant React applications](https://dev.to/56_kode/level-up-react-mastering-useeffect-for-performant-react-applications-118n)
+- [What is CAMEL-AI and Why is it Important?](https://dev.to/0x113/what-is-camel-ai-and-why-is-it-important-ebh)
 <!-- BLOG-POST-LIST:END -->
 
