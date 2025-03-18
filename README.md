@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Curious Case of the Ageing Nintendo 90s Console](https://dev.to/justin_downes/the-curious-case-of-the-ageing-nintendo-90s-console-368l)
-- [Unveiling the Checkstyle License: A Deep Dive into Fair Code and Open Source Innovation](https://dev.to/zhangwei42/unveiling-the-checkstyle-license-a-deep-dive-into-fair-code-and-open-source-innovation-633)
-- [Mastering the CSS `animation-delay` Property: A Handy Cheatsheet.](https://dev.to/code_2/mastering-the-css-animation-delay-property-a-handy-cheatsheet-2046)
-- [Why Most Python Devs Struggle &lpar;And How to Fix It for Good&rpar;](https://dev.to/0x3d_site/why-most-python-devs-struggle-and-how-to-fix-it-for-good-3pkn)
+- [Common Use Cases for CAMEL-AI](https://dev.to/0x113/common-use-cases-for-camel-ai-28mo)
+- [Just Between Us](https://dev.to/shaq_attack/just-between-us-225l)
+- [🚀 Bitcoin Rebound Gains Momentum as Whales Buy 200K BTC](https://dev.to/sergi_web3/bitcoin-rebound-gains-momentum-as-whales-buy-200k-btc-3040)
+- [Mastering React Debugging: 15 Essential Steps Every Developer Should Know](https://dev.to/engrsakib/mastering-react-debugging-15-essential-steps-every-developer-should-know-3748)
 <!-- BLOG-POST-LIST:END -->
 
