@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best React Icon Libraries &lpar;2025 Edition&rpar;](https://dev.to/masumparvej/10-best-react-icon-libraries-2025-edition-46g3)
-- [Fix &quot;Tailwind CSS IntelliSense Plugin Not Working in Tailwind v4&quot;](https://dev.to/bektur_aslan/fix-tailwind-css-intellisense-plugin-not-working-in-tailwind-v4-5cfb)
-- [Hello, devs! 👋](https://dev.to/nikhilgoesfullstack/hello-devs-4f27)
-- [Como testes mudaram minha forma de trabalhar](https://dev.to/h1bertobarbosa/como-testes-mudaram-minha-forma-de-trabalhar-1g0e)
+- [LLM Agent Internal As a Graph - Tutorial For Dummies](https://dev.to/zachary62/llm-agent-internal-as-a-graph-tutorial-for-dummies-1h47)
+- [Software project management used to be a nightmare—constant delays, unclear tasks, and endless miscommunication. This blog helped me find a structured way to handle it all. If you&#39;re facing similar struggles, it’s a must-read! #DevTeam #ProjectManagement](https://dev.to/nikhil_sachapara/software-project-management-used-to-be-a-nightmare-constant-delays-unclear-tasks-and-endless-37km)
+- [Software development projects can get chaotic with scope creep, miscommunication &amp; missed deadlines. How do you keep your team on track? Discover strategies &amp; tools to streamline workflows &amp; boost productivity in our latest blog! Read now #Devlopersproblem](https://dev.to/pratham_naik_project_manager/software-development-projects-can-get-chaotic-with-scope-creep-miscommunication-missed-12cm)
+- [How to Manage Software Development Projects Without the Chaos](https://dev.to/teamcamp/how-to-manage-software-development-projects-without-the-chaos-1f9k)
 <!-- BLOG-POST-LIST:END -->
 
