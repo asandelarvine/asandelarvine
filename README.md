@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter or React Native? 5 Things That Should Influence Your Choice](https://dev.to/p_0c0278d/flutter-or-react-native-5-things-that-should-influence-your-choice-40cn)
-- [Hoppscotch Self-Host: The Open-Source Postman Alternative for On-Premise Hosting](https://dev.to/hoppscotch/hoppscotch-self-host-the-open-source-postman-alternative-for-on-premise-hosting-18ac)
-- [JavaScript’s New structuredClone&lpar;&rpar; Function – Say Goodbye to Deep Cloning Headaches!](https://dev.to/knight03/javascripts-new-structuredclone-function-say-goodbye-to-deep-cloning-headaches-5gpm)
-- [25+ Essential JavaScript One-Liners You Need to Know in 2025 🚀🔥](https://dev.to/ananiket/25-essential-javascript-one-liners-you-need-to-know-in-2025-196)
+- [🚀 10 Best Free API Testing Tools You Should Use in 2025](https://dev.to/dct_technologyprivatelimited/10-best-free-api-testing-tools-you-should-use-in-2025-ohj)
+- [Top 10 Free SVG Icon Categories from Lineicons](https://dev.to/icons/top-10-free-svg-icon-categories-from-lineicons-1pj4)
+- [Mastering Microsoft Loop Storage Management: A Guide for Administrators and Users](https://dev.to/jaloplo/mastering-microsoft-loop-storage-management-a-guide-for-administrators-and-users-19i3)
+- [The Path to Becoming a Top 1% Programmer](https://dev.to/web_dev-usman/the-path-to-becoming-a-top-1-programmer-3f1k)
 <!-- BLOG-POST-LIST:END -->
 
