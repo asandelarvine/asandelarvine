@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KendoReact Playground](https://dev.to/aniruddhaadak/kendoreact-playground-51j1)
-- [How to check out a remote branch in Git: A step-by-step guide](https://dev.to/logrocket/how-to-check-out-a-remote-branch-in-git-a-step-by-step-guide-glo)
-- [Unveiling a New Frontier in Open Source Licensing: The Ricoh Source Code Public License](https://dev.to/bobcars/unveiling-a-new-frontier-in-open-source-licensing-the-ricoh-source-code-public-license-354i)
-- [Understanding Method Chaining in Javascript 🚀](https://dev.to/gowrishankar_saravanamuthu/understanding-method-chaining-in-javascript-21jc)
+- [Call Center Pusat Informasi dan Pelayanan Terpadu &lpar;PINTU&rpar; +62811 721 812](https://dev.to/harmulyadi_harmulyadi_989/call-center-pusat-informasi-dan-pelayanan-terpadu-pintu-62811-721-812-2nam)
+- [The Surprising Reason Your JSON Data is Returning null in Spring Boot](https://dev.to/oxtimilehin/the-surprising-reason-your-json-data-is-returning-null-in-spring-boot-15n3)
+- [The Privacy Paradigm: How Web3 Empowers Users Over Corporations](https://dev.to/aliciadawsom/the-privacy-paradigm-how-web3-empowers-users-over-corporations-3ka6)
+- [🚀 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗕𝗜𝗚 𝗶𝘀 𝗰𝗼𝗺𝗶𝗻𝗴... 🚀](https://dev.to/simplai/-18i8)
 <!-- BLOG-POST-LIST:END -->
 
