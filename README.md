@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Your TCP Connections Alive &amp; Healthy with GoFrame&#39;s gtimer](https://dev.to/jones_charles_ad50858dbc0/keep-your-tcp-connections-alive-healthy-with-goframes-gtimer-1jp)
-- [Can AI Really Code? I Put DeepSeek to the Test](https://dev.to/ideradevtools/can-ai-really-code-i-put-deepseek-to-the-test-5h9h)
-- [Understanding OAuth: Secure Authentication Simplified](https://dev.to/devcorner/understanding-oauth-secure-authentication-simplified-1md2)
-- [Automate Uptime Monitoring with Zapier and Globalping](https://dev.to/globalping/automate-uptime-monitoring-with-zapier-and-globalping-11hd)
+- [2025: Is WordPress still the best CMS choice for many businesses?](https://dev.to/web_dev-usman/2025-is-wordpress-still-the-best-cms-choice-for-many-businesses-50n9)
+- [&quot;Unlocking MLLMs: Aligning AI with Human Preferences for Future Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-mllms-aligning-ai-with-human-preferences-for-future-innovations-4ga3)
+- [Unveiling the Intricacies of the OSGi Specification License](https://dev.to/ashucommits/unveiling-the-intricacies-of-the-osgi-specification-license-4k14)
+- [Very insightful. Back to basics.](https://dev.to/changmasajr/very-insightful-back-to-basics-1cmg)
 <!-- BLOG-POST-LIST:END -->
 
