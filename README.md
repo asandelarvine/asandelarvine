@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025: Is WordPress still the best CMS choice for many businesses?](https://dev.to/web_dev-usman/2025-is-wordpress-still-the-best-cms-choice-for-many-businesses-50n9)
-- [&quot;Unlocking MLLMs: Aligning AI with Human Preferences for Future Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-mllms-aligning-ai-with-human-preferences-for-future-innovations-4ga3)
-- [Unveiling the Intricacies of the OSGi Specification License](https://dev.to/ashucommits/unveiling-the-intricacies-of-the-osgi-specification-license-4k14)
-- [Very insightful. Back to basics.](https://dev.to/changmasajr/very-insightful-back-to-basics-1cmg)
+- [KendoReact Playground](https://dev.to/aniruddhaadak/kendoreact-playground-51j1)
+- [How to check out a remote branch in Git: A step-by-step guide](https://dev.to/logrocket/how-to-check-out-a-remote-branch-in-git-a-step-by-step-guide-glo)
+- [Unveiling a New Frontier in Open Source Licensing: The Ricoh Source Code Public License](https://dev.to/bobcars/unveiling-a-new-frontier-in-open-source-licensing-the-ricoh-source-code-public-license-354i)
+- [Understanding Method Chaining in Javascript 🚀](https://dev.to/gowrishankar_saravanamuthu/understanding-method-chaining-in-javascript-21jc)
 <!-- BLOG-POST-LIST:END -->
 
