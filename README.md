@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Step Functions IDE Extension: A Game Changer, But What’s Next?](https://dev.to/vigneshwarsoma/aws-step-functions-ide-extension-a-game-changer-but-whats-next-4f2m)
-- [Google’s $32B Power Move: Wiz Acquisition Shakes Up the Cloud Wars](https://dev.to/wearetechi/googles-32b-power-move-wiz-acquisition-shakes-up-the-cloud-wars-3fp9)
-- [The Future of Healthcare Data: Secure, Accessible, and Smarter with Cloud](https://dev.to/tylermorganaqe/the-future-of-healthcare-data-secure-accessible-and-smarter-with-cloud-1cap)
-- [Data architecture stack](https://dev.to/max_verstappen_c26d3a7c99/data-architecture-stack-j99)
+- [Tired of project management chaos? Discover how to tackle the 5 biggest pain points for dev teams and streamline your workflow with Teamcamp! #DevCommunity #ProjectManagement](https://dev.to/pratham_naik_project_manager/tired-of-project-management-chaos-discover-how-to-tackle-the-5-biggest-pain-points-for-dev-teams-1ag0)
+- [How to Fix the 5 Biggest Project Management Pain Points for Dev Teams](https://dev.to/teamcamp/how-to-fix-the-5-biggest-project-management-pain-points-for-dev-teams-32pc)
+- [Efficient AJAX Handling in jQuery: Custom Wrapper for Aborting &amp; Error Management](https://dev.to/zeeshanali0704/efficient-ajax-handling-in-jquery-custom-wrapper-for-aborting-error-management-3oam)
+- [[Boost]](https://dev.to/foxinfotech/-1bgf)
 <!-- BLOG-POST-LIST:END -->
 
