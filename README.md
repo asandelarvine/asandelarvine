@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning with Python: A Beginner’s Guide to TensorFlow &amp; Keras](https://dev.to/devraj_more_5a115bafe8b0f/deep-learning-with-python-a-beginners-guide-to-tensorflow-keras-13jg)
-- [Can You Really Trust a Business Application Built Without a Developer?](https://dev.to/softyflow/can-you-really-trust-a-business-application-built-without-a-developer-1ceb)
-- [HarmonyOS NEXT 实战系列06-路由](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-06-lu-you-1290)
-- [Working with PHP Sessions and Cookies Securely](https://dev.to/patoliyainfotech/working-with-php-sessions-and-cookies-securely-1396)
+- [Accessibility: No More Excuses, It&#39;s Time to Step Up](https://dev.to/wraith/accessibility-no-more-excuses-its-time-to-step-up-3b1l)
+- [Redux: A Powerful State Management Library for React – Insights from Kimaya Kapoor](https://dev.to/kimayakapoor/redux-a-powerful-state-management-library-for-react-insights-from-kimaya-kapoor-5ao9)
+- [পাইথন স্ট্রিং এবং টেক্সট ম্যানিপুলেশন](https://dev.to/shafiemoji/paaithn-sttrin-ebn-ttekstt-myaanipuleshn-1h2l)
+- [Backend Deployment on Azure App Service with Bitbucket CI/CD Pipeline](https://dev.to/anshul_02/backend-deployment-on-azure-app-service-with-bitbucket-cicd-pipeline-5dga)
 <!-- BLOG-POST-LIST:END -->
 
