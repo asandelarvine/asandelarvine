@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Development Life Cycle Explained: 7 Critical Phases You Can&#39;t Ignore](https://dev.to/levitation_infotechllp/software-development-life-cycle-explained-7-critical-phases-you-cant-ignore-10b2)
-- [Go vs. TypeScript: Choosing the Right Backend](https://dev.to/jayptl_rq/go-vs-typescript-choosing-the-right-backend-24jn)
-- [How to use dynatrace for anomalies detection to increase performance of application?](https://dev.to/rogupta/how-to-use-dynatrace-for-anomalies-detection-which-can-increase-performance-of-application-3gef)
-- [Unveiling Cube License: An In-Depth Exploration of Fair Code and Open Source Innovation](https://dev.to/ahmmrizv9/unveiling-cube-license-an-in-depth-exploration-of-fair-code-and-open-source-innovation-1732)
+- [Unveiling the Power and Complexity of GPL 2.0](https://dev.to/rachellovestowrite/unveiling-the-power-and-complexity-of-gpl-20-4468)
+- [How to Value a Tech Startup in Belgium](https://dev.to/gratiswaardering/how-to-value-a-tech-startup-in-belgium-23b6)
+- [Calculate the Hierarchy of Recursive References — From SQL to SPL #11](https://dev.to/judith677/calculate-the-hierarchy-of-recursive-references-from-sql-to-spl-11-4kmp)
+- [How to Use Cursor Email Like a Pro &lpar;Without the Headaches&rpar;](https://dev.to/syntaxbloom/how-to-use-cursor-email-like-a-pro-without-the-headaches-5078)
 <!-- BLOG-POST-LIST:END -->
 
