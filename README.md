@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Call Center Pusat Informasi dan Pelayanan Terpadu &lpar;PINTU&rpar; +62811 721 812](https://dev.to/harmulyadi_harmulyadi_989/call-center-pusat-informasi-dan-pelayanan-terpadu-pintu-62811-721-812-2nam)
-- [The Surprising Reason Your JSON Data is Returning null in Spring Boot](https://dev.to/oxtimilehin/the-surprising-reason-your-json-data-is-returning-null-in-spring-boot-15n3)
-- [The Privacy Paradigm: How Web3 Empowers Users Over Corporations](https://dev.to/aliciadawsom/the-privacy-paradigm-how-web3-empowers-users-over-corporations-3ka6)
-- [🚀 𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗕𝗜𝗚 𝗶𝘀 𝗰𝗼𝗺𝗶𝗻𝗴... 🚀](https://dev.to/simplai/-18i8)
+- [Stay Ahead of Threats: Master Governance, Risk, and Compliance with Microminder](https://dev.to/micromindercs/stay-ahead-of-threats-master-governance-risk-and-compliance-with-microminder-4l6d)
+- [This is a great advice](https://dev.to/shanibpatel/this-is-a-great-advice-304h)
+- [The Python Loophole That Made My Code 100x Faster](https://dev.to/resource_bunk_1077cab07da/the-python-loophole-that-made-my-code-100x-faster-59n4)
+- [Top 5 HR SaaS Tools for 2025](https://dev.to/uchechi_e/top-5-hr-saas-tools-for-2025-36o9)
 <!-- BLOG-POST-LIST:END -->
 
