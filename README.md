@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Legacy of Netscape Public License 1.0](https://dev.to/zhangwei42/unveiling-the-legacy-of-netscape-public-license-10-5anj)
-- [MERN - Html &lpar;Day 3&rpar;](https://dev.to/ranjithsrt1/mern-html-day-3-6pd)
-- [How to Build a Remote Document Scanner in SwiftUI to Digitize Documents Over Network](https://dev.to/yushulx/how-to-build-a-remote-document-scanner-in-swiftui-to-digitize-documents-over-network-3noo)
-- [Exploring the Impact of Flexible Work on Productivity](https://dev.to/remotly/exploring-the-impact-of-flexible-work-on-productivity-4mnf)
+- [Deep Learning with Python: A Beginner’s Guide to TensorFlow &amp; Keras](https://dev.to/devraj_more_5a115bafe8b0f/deep-learning-with-python-a-beginners-guide-to-tensorflow-keras-13jg)
+- [Can You Really Trust a Business Application Built Without a Developer?](https://dev.to/softyflow/can-you-really-trust-a-business-application-built-without-a-developer-1ceb)
+- [HarmonyOS NEXT 实战系列06-路由](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-06-lu-you-1290)
+- [Working with PHP Sessions and Cookies Securely](https://dev.to/patoliyainfotech/working-with-php-sessions-and-cookies-securely-1396)
 <!-- BLOG-POST-LIST:END -->
 
