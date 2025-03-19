@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Postman on Fedora 41 &lpar;Standalone Version&rpar;](https://dev.to/edwinepr/how-to-install-postman-on-fedora-41-standalone-version-32fh)
-- [Quadratic: The AI-Powered Spreadsheet for Modern Teams](https://dev.to/quadraticai/quadratic-the-ai-powered-spreadsheet-for-modern-teams-gh2)
-- [algorithms : intro to sorting algorithms 2 {merge sort and quick sort }](https://dev.to/atoms19/algorithms-1-intro-to-sorting-algorithms-i9p)
-- [From Employee to Entrepreneur: The Identity Shift No One Talks About by Successful Entrepreneurs such as Yasmin Bashirova](https://dev.to/yasminbashirova/from-employee-to-entrepreneur-the-identity-shift-no-one-talks-about-by-successful-entrepreneurs-1p5l)
+- [Software Development Life Cycle Explained: 7 Critical Phases You Can&#39;t Ignore](https://dev.to/levitation_infotechllp/software-development-life-cycle-explained-7-critical-phases-you-cant-ignore-10b2)
+- [Go vs. TypeScript: Choosing the Right Backend](https://dev.to/jayptl_rq/go-vs-typescript-choosing-the-right-backend-24jn)
+- [How to use dynatrace for anomalies detection to increase performance of application?](https://dev.to/rogupta/how-to-use-dynatrace-for-anomalies-detection-which-can-increase-performance-of-application-3gef)
+- [Unveiling Cube License: An In-Depth Exploration of Fair Code and Open Source Innovation](https://dev.to/ahmmrizv9/unveiling-cube-license-an-in-depth-exploration-of-fair-code-and-open-source-innovation-1732)
 <!-- BLOG-POST-LIST:END -->
 
