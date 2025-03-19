@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose the Best Browser Extension Framework for Your Project](https://dev.to/iotric/how-to-choose-the-best-browser-extension-framework-for-your-project-49i4)
-- [AWS Cloud Migration](https://dev.to/copubah/aws-cloud-migration-3886)
-- [Figma to React instantly: Introduction Anima app](https://dev.to/shreyvijayvargiya/figma-to-react-instantly-introduction-anima-app-1kii)
-- [AWS Shared Responsibility Model](https://dev.to/copubah/aws-shared-responsibility-model-2h2m)
+- [From &quot;Zero to Hero&quot;: Where/What Is Your Destination?](https://dev.to/matemiller/from-zero-to-hero-wherewhat-is-your-destination-19o2)
+- [AWS Interview Questions: From Beginner to Advanced &lpar;2025&rpar;](https://dev.to/skillboosttrainer/aws-interview-questions-from-beginner-to-advanced-2025-4c98)
+- [Top 10 WordPress Automation &amp; Marketing Plugins](https://dev.to/abu_noimmdtoha_036541e/top-10-wordpress-automation-marketing-plugins-4nkb)
+- [It is interesting to see discussions about ai generated code and code generator..](https://dev.to/sally3525/it-is-interesting-to-see-discussions-about-ai-generated-code-and-code-generator-5111)
 <!-- BLOG-POST-LIST:END -->
 
