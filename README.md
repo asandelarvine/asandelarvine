@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Deploying a Custom Site Using GitHub Actions and GitHub Pages.](https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-and-github-pages-3fjf)
-- [Reversed Strings](https://dev.to/maddiepst/reversed-strings-1861)
-- [The Problem: PowerShell’s Hashing Illusion](https://dev.to/dmidlo/the-problem-powershells-hashing-illusion-74p)
-- [How to Migrate From Sql to Mongodb in 2025?](https://dev.to/anna_golubkova/how-to-migrate-from-sql-to-mongodb-in-2025-4kbi)
+- [SQL evaluation framework for accurate query assessment](https://dev.to/ibmdeveloper-staff/sql-evaluation-framework-for-accurate-query-assessment-257l)
+- [Untitled](https://dev.to/ann_ladasha_050d522ccd7a3/untitled-44pl)
+- [Common Exam Scenarios for AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/franciscojeg78/common-exam-scenarios-for-aws-certified-ai-practitioner-aif-c01-41hh)
+- [Directory structure of a PHP Symfony project](https://dev.to/neothone/directory-structure-of-a-php-symfony-project-26m)
 <!-- BLOG-POST-LIST:END -->
 
