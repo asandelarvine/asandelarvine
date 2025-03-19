@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS is Emotional: Debugging CSS - A Journey of Self-Discovery](https://dev.to/eioluseyi/css-is-emotional-debugging-css-a-journey-of-self-discovery-59he)
-- [Unveiling a New Era of Fair Open Source Licensing](https://dev.to/ahmmrizv9/unveiling-a-new-era-of-fair-open-source-licensing-5474)
-- [Why Web3 Projects Win with Strong Communities &lpar;and How We&#39;re Building Ours&rpar;](https://dev.to/omniradhanexus/why-web3-projects-win-with-strong-communities-and-how-were-building-ours-2ph5)
-- [Why I Love Python 🐍❤️](https://dev.to/azpwnz/why-i-love-python-4b5n)
+- [Unveiling the Legacy of Netscape Public License 1.0](https://dev.to/zhangwei42/unveiling-the-legacy-of-netscape-public-license-10-5anj)
+- [MERN - Html &lpar;Day 3&rpar;](https://dev.to/ranjithsrt1/mern-html-day-3-6pd)
+- [How to Build a Remote Document Scanner in SwiftUI to Digitize Documents Over Network](https://dev.to/yushulx/how-to-build-a-remote-document-scanner-in-swiftui-to-digitize-documents-over-network-3noo)
+- [Exploring the Impact of Flexible Work on Productivity](https://dev.to/remotly/exploring-the-impact-of-flexible-work-on-productivity-4mnf)
 <!-- BLOG-POST-LIST:END -->
 
