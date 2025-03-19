@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL evaluation framework for accurate query assessment](https://dev.to/ibmdeveloper-staff/sql-evaluation-framework-for-accurate-query-assessment-257l)
-- [Untitled](https://dev.to/ann_ladasha_050d522ccd7a3/untitled-44pl)
-- [Common Exam Scenarios for AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/franciscojeg78/common-exam-scenarios-for-aws-certified-ai-practitioner-aif-c01-41hh)
-- [Directory structure of a PHP Symfony project](https://dev.to/neothone/directory-structure-of-a-php-symfony-project-26m)
+- [Unveiling SGE-Intelligence—A Scholarly Study of AI-Driven Content Optimization in the Search Generative Experience](https://dev.to/arash_mansourpour/unveiling-sge-intelligence-a-scholarly-study-of-ai-driven-content-optimization-in-the-search-158m)
+- [How to containerize an Application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-containerize-an-application-159)
+- [web dev](https://dev.to/james_arias_7248f4e27bbb4/web-dev-3k08)
+- [Developer Diary #29. Time for Change](https://dev.to/kiolk/developer-diary-29-time-for-change-21ck)
 <!-- BLOG-POST-LIST:END -->
 
