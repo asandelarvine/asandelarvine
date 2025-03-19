@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Loader Animation – No JavaScript! Create a Smooth Loading Spinner in HTML &amp; CSS](https://dev.to/learncodewithalex/css-loader-animation-no-javascript-create-a-smooth-loading-spinner-in-html-css-396h)
-- [Next.js sucks in terms of real single page application](https://dev.to/moniruzzamansaikat/nextjs-sucks-in-terms-of-really-single-page-application-1hhf)
-- [Setting Up PostgreSQL Replication with Docker](https://dev.to/wallacefreitas/setting-up-postgresql-replication-with-docker-26fi)
-- [Deploy your MEVN &lpar;MongoDB, Express, Vue and Node&rpar; application on a server using Docker and Docker-compose](https://dev.to/apfirebolt/deploy-your-mevn-mongodb-express-vue-and-node-application-on-a-server-using-docker-and-262c)
+- [Building and Deploying a Custom Site Using GitHub Actions and GitHub Pages.](https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-and-github-pages-3fjf)
+- [Reversed Strings](https://dev.to/maddiepst/reversed-strings-1861)
+- [The Problem: PowerShell’s Hashing Illusion](https://dev.to/dmidlo/the-problem-powershells-hashing-illusion-74p)
+- [How to Migrate From Sql to Mongodb in 2025?](https://dev.to/anna_golubkova/how-to-migrate-from-sql-to-mongodb-in-2025-4kbi)
 <!-- BLOG-POST-LIST:END -->
 
