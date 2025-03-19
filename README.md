@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Power and Complexity of GPL 2.0](https://dev.to/rachellovestowrite/unveiling-the-power-and-complexity-of-gpl-20-4468)
-- [How to Value a Tech Startup in Belgium](https://dev.to/gratiswaardering/how-to-value-a-tech-startup-in-belgium-23b6)
-- [Calculate the Hierarchy of Recursive References — From SQL to SPL #11](https://dev.to/judith677/calculate-the-hierarchy-of-recursive-references-from-sql-to-spl-11-4kmp)
-- [How to Use Cursor Email Like a Pro &lpar;Without the Headaches&rpar;](https://dev.to/syntaxbloom/how-to-use-cursor-email-like-a-pro-without-the-headaches-5078)
+- [AWS Step Functions IDE Extension: A Game Changer, But What’s Next?](https://dev.to/vigneshwarsoma/aws-step-functions-ide-extension-a-game-changer-but-whats-next-4f2m)
+- [Google’s $32B Power Move: Wiz Acquisition Shakes Up the Cloud Wars](https://dev.to/wearetechi/googles-32b-power-move-wiz-acquisition-shakes-up-the-cloud-wars-3fp9)
+- [The Future of Healthcare Data: Secure, Accessible, and Smarter with Cloud](https://dev.to/tylermorganaqe/the-future-of-healthcare-data-secure-accessible-and-smarter-with-cloud-1cap)
+- [Data architecture stack](https://dev.to/max_verstappen_c26d3a7c99/data-architecture-stack-j99)
 <!-- BLOG-POST-LIST:END -->
 
