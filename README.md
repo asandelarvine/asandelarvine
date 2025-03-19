@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Baserow 1.32: Dashboards, enhanced Airtable import, SSO for Application Builder, and more - Open Source Airtable Alternative](https://dev.to/baserow/baserow-132-dashboards-enhanced-airtable-import-sso-for-application-builder-and-more-open-3k1a)
-- [Exercise 04: Configure Network Routing](https://dev.to/1suleyman/exercise-04-configure-network-routing-5fll)
-- [Secure Client-Side Encryption and Decryption with JavaScript: A Practical Guide](https://dev.to/babynamenestlings_efe5ba9/secure-client-side-encryption-and-decryption-with-javascript-a-practical-guide-6h0)
-- [PSQL Day:](https://dev.to/sugumar_r_a5f301adf1fb49a/psql-day-3hoh)
+- [Coder and Coding](https://dev.to/seosiri/coder-and-coding-1i8f)
+- [Smart Contracts + AI: The Future of Automation](https://dev.to/joinwithken/smart-contracts-ai-the-future-of-automation-1l11)
+- [TryHackMe: HTTP Request Smuggling](https://dev.to/seanleeys/tryhackme-http-request-smuggling-2oph)
+- [Beyond chat: Rethinking how we use LLMs](https://dev.to/logrocket/beyond-chat-rethinking-how-we-use-llms-2hf)
 <!-- BLOG-POST-LIST:END -->
 
