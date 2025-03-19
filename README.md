@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Ahead of Threats: Master Governance, Risk, and Compliance with Microminder](https://dev.to/micromindercs/stay-ahead-of-threats-master-governance-risk-and-compliance-with-microminder-4l6d)
-- [This is a great advice](https://dev.to/shanibpatel/this-is-a-great-advice-304h)
-- [The Python Loophole That Made My Code 100x Faster](https://dev.to/resource_bunk_1077cab07da/the-python-loophole-that-made-my-code-100x-faster-59n4)
-- [Top 5 HR SaaS Tools for 2025](https://dev.to/uchechi_e/top-5-hr-saas-tools-for-2025-36o9)
+- [CSS Loader Animation – No JavaScript! Create a Smooth Loading Spinner in HTML &amp; CSS](https://dev.to/learncodewithalex/css-loader-animation-no-javascript-create-a-smooth-loading-spinner-in-html-css-396h)
+- [Next.js sucks in terms of real single page application](https://dev.to/moniruzzamansaikat/nextjs-sucks-in-terms-of-really-single-page-application-1hhf)
+- [Setting Up PostgreSQL Replication with Docker](https://dev.to/wallacefreitas/setting-up-postgresql-replication-with-docker-26fi)
+- [Deploy your MEVN &lpar;MongoDB, Express, Vue and Node&rpar; application on a server using Docker and Docker-compose](https://dev.to/apfirebolt/deploy-your-mevn-mongodb-express-vue-and-node-application-on-a-server-using-docker-and-262c)
 <!-- BLOG-POST-LIST:END -->
 
