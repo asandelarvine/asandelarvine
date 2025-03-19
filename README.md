@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of project management chaos? Discover how to tackle the 5 biggest pain points for dev teams and streamline your workflow with Teamcamp! #DevCommunity #ProjectManagement](https://dev.to/pratham_naik_project_manager/tired-of-project-management-chaos-discover-how-to-tackle-the-5-biggest-pain-points-for-dev-teams-1ag0)
-- [How to Fix the 5 Biggest Project Management Pain Points for Dev Teams](https://dev.to/teamcamp/how-to-fix-the-5-biggest-project-management-pain-points-for-dev-teams-32pc)
-- [Efficient AJAX Handling in jQuery: Custom Wrapper for Aborting &amp; Error Management](https://dev.to/zeeshanali0704/efficient-ajax-handling-in-jquery-custom-wrapper-for-aborting-error-management-3oam)
-- [[Boost]](https://dev.to/foxinfotech/-1bgf)
+- [How to Choose the Best Browser Extension Framework for Your Project](https://dev.to/iotric/how-to-choose-the-best-browser-extension-framework-for-your-project-49i4)
+- [AWS Cloud Migration](https://dev.to/copubah/aws-cloud-migration-3886)
+- [Figma to React instantly: Introduction Anima app](https://dev.to/shreyvijayvargiya/figma-to-react-instantly-introduction-anima-app-1kii)
+- [AWS Shared Responsibility Model](https://dev.to/copubah/aws-shared-responsibility-model-2h2m)
 <!-- BLOG-POST-LIST:END -->
 
