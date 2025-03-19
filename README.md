@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility: No More Excuses, It&#39;s Time to Step Up](https://dev.to/wraith/accessibility-no-more-excuses-its-time-to-step-up-3b1l)
-- [Redux: A Powerful State Management Library for React – Insights from Kimaya Kapoor](https://dev.to/kimayakapoor/redux-a-powerful-state-management-library-for-react-insights-from-kimaya-kapoor-5ao9)
-- [পাইথন স্ট্রিং এবং টেক্সট ম্যানিপুলেশন](https://dev.to/shafiemoji/paaithn-sttrin-ebn-ttekstt-myaanipuleshn-1h2l)
-- [Backend Deployment on Azure App Service with Bitbucket CI/CD Pipeline](https://dev.to/anshul_02/backend-deployment-on-azure-app-service-with-bitbucket-cicd-pipeline-5dga)
+- [Building a Multitenant Cloud Application With Azure Functions and Neon Postgres](https://dev.to/antonmartyniuk/building-a-multitenant-cloud-application-with-azure-functions-and-neon-postgres-3i43)
+- [Protect Secrets and Passwords with Ansible Vault: A Practical Guide with Examples](https://dev.to/env0/protect-secrets-and-passwords-with-ansible-vault-a-practical-guide-with-examples-5ael)
+- [For me I love Restful API, coz I use that mostly __what bout you ?](https://dev.to/kelvincode1234/for-me-i-love-restful-api-coz-i-use-that-mostly-what-bout-you--27p5)
+- [Learn Python- Thank Me Later](https://dev.to/charlene_/learn-python-thank-me-later-4nfn)
 <!-- BLOG-POST-LIST:END -->
 
