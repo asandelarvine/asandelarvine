@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coder and Coding](https://dev.to/seosiri/coder-and-coding-1i8f)
-- [Smart Contracts + AI: The Future of Automation](https://dev.to/joinwithken/smart-contracts-ai-the-future-of-automation-1l11)
-- [TryHackMe: HTTP Request Smuggling](https://dev.to/seanleeys/tryhackme-http-request-smuggling-2oph)
-- [Beyond chat: Rethinking how we use LLMs](https://dev.to/logrocket/beyond-chat-rethinking-how-we-use-llms-2hf)
+- [Keep Your TCP Connections Alive &amp; Healthy with GoFrame&#39;s gtimer](https://dev.to/jones_charles_ad50858dbc0/keep-your-tcp-connections-alive-healthy-with-goframes-gtimer-1jp)
+- [Can AI Really Code? I Put DeepSeek to the Test](https://dev.to/ideradevtools/can-ai-really-code-i-put-deepseek-to-the-test-5h9h)
+- [Understanding OAuth: Secure Authentication Simplified](https://dev.to/devcorner/understanding-oauth-secure-authentication-simplified-1md2)
+- [Automate Uptime Monitoring with Zapier and Globalping](https://dev.to/globalping/automate-uptime-monitoring-with-zapier-and-globalping-11hd)
 <!-- BLOG-POST-LIST:END -->
 
