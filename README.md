@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tariff Wars Will Hit US Medicine Costs After Trump&#39;s Irish Big Pharma Swipe, Martin Warns – How CloseUp CRM Can Help](https://dev.to/pharmacrm/tariff-wars-will-hit-us-medicine-costs-after-trumps-irish-big-pharma-swipe-martin-warns-how-1f3l)
-- [News on update 04.05.2020](https://dev.to/labrob2013/news-on-update-04052020-38oi)
-- [Optimizing OpenStack Networking with Calico: Step by step Guide](https://dev.to/alakkadshaw/optimizing-openstack-networking-with-calico-step-by-step-guide-2h2f)
-- [News on update 14.03.2020](https://dev.to/labrob2013/news-on-update-14032020-1i1o)
+- [News on update 12.03.2023](https://dev.to/labrob2013/news-on-update-12032023-1jh7)
+- [The Power of Plant-Based Diets in Fighting Climate Change](https://dev.to/rashaanayah2/the-power-of-plant-based-diets-in-fighting-climate-change-4b5a)
+- [Core Principles of HTM](https://dev.to/robin_sonroy_ccee41c269f/core-principles-of-htm-2k58)
+- [Deixe o If...Else de lado! Use Hashtable em JavaScript](https://dev.to/viniciusbavosa/deixe-o-ifelse-de-lado-use-hashtable-em-javascript-gpf)
 <!-- BLOG-POST-LIST:END -->
 
