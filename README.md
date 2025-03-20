@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Deep Research AI agent using Next.js, the Vercel AI SDK, and multiple LLMs, including Gemini and Deepseek.](https://dev.to/codebucks/build-a-deep-research-ai-agent-using-nextjs-the-vercel-ai-sdk-and-multiple-llms-including-3ji0)
-- [Why I Swapped NX for Standalone Projects](https://dev.to/unicolored/why-i-swapped-nx-for-standalone-projects-3o62)
-- [[Boost]](https://dev.to/pragativerma18/-487i)
-- [[Boost]](https://dev.to/ofri_wolfus_38f4979b65436/-31lm)
+- [7 Must Read Tech Books for Experienced Developers and Leads in 2025](https://dev.to/somadevtoo/7-must-read-tech-books-for-experienced-developers-and-leads-in-2025-2j0n)
+- [HAVE YOU HEARD OF FEDORA PROJECT? THE COOLEST LINUX DISTRIBUTOR](https://dev.to/shadeakinremi/have-you-heard-of-fedora-project-the-coolest-linux-distributor-4h30)
+- [[Help wanted] IDE-Flexible and No-Install Solution for User Studies?](https://dev.to/aidbar/help-wanted-ide-flexible-and-no-install-solution-for-user-studies-457e)
+- [9 Modern JavaScript Tips for Beginners in 2025 🚀🔥](https://dev.to/ananiket/9-modern-javascript-tips-for-beginners-in-2025-3bkm)
 <!-- BLOG-POST-LIST:END -->
 
