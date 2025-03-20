@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Loglan&#39;82: A Forgotten Programming Language Ahead of Its Time](https://dev.to/deotyma/loglan82-a-forgotten-programming-language-ahead-of-its-time-5g2k)
-- [&quot;Unlocking Multimodal Mastery: The Power of TULIP and NORA in Imaging&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-multimodal-mastery-the-power-of-tulip-and-nora-in-imaging-k0e)
-- [Common Mistakes in Coding Interviews and How to Avoid Them](https://dev.to/codere5c/common-mistakes-in-coding-interviews-and-how-to-avoid-them-453p)
-- [My Certificate](https://dev.to/liton_ali/my-certificate-28fb)
+- [Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/stopped-using-typescript-for-small-projects-2ejp)
+- [Clone graph](https://dev.to/prashantrmishra/clone-graph-12fg)
+- [The complete guide to the AbortController API](https://dev.to/logrocket/the-complete-guide-to-the-abortcontroller-api-144f)
+- [AI-Assisted Coding: The Hype vs. The Hidden Risks](https://dev.to/ash_grover/ai-assisted-coding-the-hype-vs-the-hidden-risks-1560)
 <!-- BLOG-POST-LIST:END -->
 
