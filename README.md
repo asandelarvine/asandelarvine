@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Diff ME 1.1: Excel 比較 ツール](https://dev.to/nabbisen/quick-diff-me-11-excel-bi-jiao-turu-3mem)
-- [6 Common React Anti-Patterns That Are Hurting Your Code Quality](https://dev.to/shikshatech/6-common-react-anti-patterns-that-are-hurting-your-code-quality-4jgb)
-- [Planetoids! - my first attempt at indie game dev in Python](https://dev.to/chrisgreening/planetoids-my-first-attempt-at-indie-game-dev-in-python-1o2p)
-- [Artificial Intelligence Trends in Business for 2025](https://dev.to/luxandcloud/artificial-intelligence-trends-in-business-for-2025-kc3)
+- [Build a Deep Research AI agent using Next.js, the Vercel AI SDK, and multiple LLMs, including Gemini and Deepseek.](https://dev.to/codebucks/build-a-deep-research-ai-agent-using-nextjs-the-vercel-ai-sdk-and-multiple-llms-including-3ji0)
+- [Why I Swapped NX for Standalone Projects](https://dev.to/unicolored/why-i-swapped-nx-for-standalone-projects-3o62)
+- [[Boost]](https://dev.to/pragativerma18/-487i)
+- [[Boost]](https://dev.to/ofri_wolfus_38f4979b65436/-31lm)
 <!-- BLOG-POST-LIST:END -->
 
