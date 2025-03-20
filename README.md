@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 The Python Debugging Playbook: Fix Your Code](https://dev.to/0x3d_site/the-python-debugging-playbook-fix-your-code-4nbb)
-- [Guía Práctica de EIP-7702: Agrupa Transacciones y Controla Privilegios en Ethereum](https://dev.to/turupawn/guia-practica-de-eip-7702-agrupa-transacciones-y-controla-privilegios-en-ethereum-54nc)
-- [React Native’s New Architecture – What Developers Need to Know](https://dev.to/anytechie/react-natives-new-architecture-what-developers-need-to-know-32jm)
-- [Las 5 Habilidades Clave para Ser un Closer de Ventas en la Era Digital](https://dev.to/erick_granja_34/las-5-habilidades-clave-para-ser-un-closer-de-ventas-en-la-era-digital-21nm)
+- [Tariff Wars Will Hit US Medicine Costs After Trump&#39;s Irish Big Pharma Swipe, Martin Warns – How CloseUp CRM Can Help](https://dev.to/pharmacrm/tariff-wars-will-hit-us-medicine-costs-after-trumps-irish-big-pharma-swipe-martin-warns-how-1f3l)
+- [News on update 04.05.2020](https://dev.to/labrob2013/news-on-update-04052020-38oi)
+- [Optimizing OpenStack Networking with Calico: Step by step Guide](https://dev.to/alakkadshaw/optimizing-openstack-networking-with-calico-step-by-step-guide-2h2f)
+- [News on update 14.03.2020](https://dev.to/labrob2013/news-on-update-14032020-1i1o)
 <!-- BLOG-POST-LIST:END -->
 
