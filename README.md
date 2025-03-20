@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to convert Gaussian splat files into 3D Tiles? GISBox can do it!](https://dev.to/gisbox/how-to-convert-gaussian-splat-files-into-3d-tiles-gisbox-can-do-it-pe1)
-- [Desvendando SQL: Procedures](https://dev.to/cristuker/desvendando-sql-procedures-1nbl)
-- [Smarter Axis Label Formatting Based on Zoom Level in CanvasJS](https://dev.to/ananya_deka/smarter-axis-label-formatting-based-on-zoom-level-in-canvasjs-2pc7)
-- [OhMyZsh and Janus: Set Up Productive Work Environment in 10 Minutes or Less](https://dev.to/mkdev/ohmyzsh-and-janus-set-up-productive-work-environment-in-10-minutes-or-less-3da2)
+- [Quick Diff ME 1.1: Excel 比較 ツール](https://dev.to/nabbisen/quick-diff-me-11-excel-bi-jiao-turu-3mem)
+- [6 Common React Anti-Patterns That Are Hurting Your Code Quality](https://dev.to/shikshatech/6-common-react-anti-patterns-that-are-hurting-your-code-quality-4jgb)
+- [Planetoids! - my first attempt at indie game dev in Python](https://dev.to/chrisgreening/planetoids-my-first-attempt-at-indie-game-dev-in-python-1o2p)
+- [Artificial Intelligence Trends in Business for 2025](https://dev.to/luxandcloud/artificial-intelligence-trends-in-business-for-2025-kc3)
 <!-- BLOG-POST-LIST:END -->
 
