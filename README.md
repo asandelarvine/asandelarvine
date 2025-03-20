@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Part 3]Control Flow and Decision Making in TypeScript for QA Scripts](https://dev.to/testamplify/part-3control-flow-and-decision-making-in-typescript-for-qa-scripts-4foh)
-- [[Part 4]Data Structures in TypeScript – Organizing Test Data with Strong Typing](https://dev.to/testamplify/part-4data-structures-in-typescript-organizing-test-data-with-strong-typing-296p)
-- [🚀 Manual vs. Automated Testing: Which One Should You Use and When?](https://dev.to/dct_technologyprivatelimited/manual-vs-automated-testing-which-one-should-you-use-and-when-24k6)
-- [Implementing Secure Single Sign-On Between Vue &amp; NodeJs Applications](https://dev.to/abdur_rakibrony_349a3f89/implementing-secure-single-sign-on-between-laravel-applications-1553)
+- [Create Your Shader to Win Up to $1000 — V Hackathon](https://dev.to/v_systems/create-your-shader-to-win-up-to-1000-v-hackathon-5bdj)
+- [10. BASIC JAVASCRIPT -VARIABEL, TIPE DATA, CONDITION, LOOPING](https://dev.to/sandatya_widhi_ce7cb1c809/10-basic-javascript-variabel-tipe-data-condition-looping-2on9)
+- [Top AI Tools for Academic writing](https://dev.to/gerald_ayakins/top-ai-tools-for-academic-writing-314b)
+- [Artificial Intelligence Syllabus 2025: What to Learn &amp; How to Stay Ahead](https://dev.to/bikashdaga/artificial-intelligence-syllabus-2025-what-to-learn-how-to-stay-ahead-2p74)
 <!-- BLOG-POST-LIST:END -->
 
