@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Identity Verification Compliance is Critical for Financial Services](https://dev.to/faceplugin/why-identity-verification-compliance-is-critical-for-financial-services-1ogf)
-- [How to Use Qwen 2.5: A Comprehensive Guide](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-qwen-25-a-comprehensive-guide-2khn)
-- [Beyond Boilerplate: Leveraging Java Records for Faster Development Cycles with Java Development Services](https://dev.to/metadesignsolutions/beyond-boilerplate-leveraging-java-records-for-faster-development-cycles-with-java-development-9k7)
-- [Rust&#39;s Type-Driven Error Handling: A Better Programming Model](https://dev.to/aaravjoshi/rusts-type-driven-error-handling-a-better-programming-model-hma)
+- [How to convert Gaussian splat files into 3D Tiles? GISBox can do it!](https://dev.to/gisbox/how-to-convert-gaussian-splat-files-into-3d-tiles-gisbox-can-do-it-pe1)
+- [Desvendando SQL: Procedures](https://dev.to/cristuker/desvendando-sql-procedures-1nbl)
+- [Smarter Axis Label Formatting Based on Zoom Level in CanvasJS](https://dev.to/ananya_deka/smarter-axis-label-formatting-based-on-zoom-level-in-canvasjs-2pc7)
+- [OhMyZsh and Janus: Set Up Productive Work Environment in 10 Minutes or Less](https://dev.to/mkdev/ohmyzsh-and-janus-set-up-productive-work-environment-in-10-minutes-or-less-3da2)
 <!-- BLOG-POST-LIST:END -->
 
