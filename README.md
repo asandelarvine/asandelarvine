@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/stopped-using-typescript-for-small-projects-2ejp)
-- [Clone graph](https://dev.to/prashantrmishra/clone-graph-12fg)
-- [The complete guide to the AbortController API](https://dev.to/logrocket/the-complete-guide-to-the-abortcontroller-api-144f)
-- [AI-Assisted Coding: The Hype vs. The Hidden Risks](https://dev.to/ash_grover/ai-assisted-coding-the-hype-vs-the-hidden-risks-1560)
+- [Adding Multiple Authors to my Astro Writing Blog: A Technical Walkthrough](https://dev.to/bekahhw/adding-multiple-authors-to-my-astro-writing-blog-a-technical-walkthrough-42n1)
+- [Security Considerations for Healthcare IoT Device Management](https://dev.to/ikoh_sylva/security-considerations-for-healthcare-iot-device-management-4k59)
+- [[Boost]](https://dev.to/monojmkd/-3ggm)
+- [Optimizing React Apps for Production with Vite](https://dev.to/programmerhasan/optimizing-react-apps-for-production-with-vite-15gi)
 <!-- BLOG-POST-LIST:END -->
 
