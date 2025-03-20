@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/karanverma/-2p9o)
-- [Middleware Mastery in .NET with Essential Techniques and Hands-On Examples](https://dev.to/satyakarki/middleware-mastery-in-net-with-essential-techniques-and-hands-on-examples-51ga)
-- [PWC 312 Time to be random](https://dev.to/boblied/pwc-312-time-to-be-random-o0f)
-- [How to hide browsing history from Internet Provider?](https://dev.to/asya_karapetyan_7dd3a62f8/how-to-hide-browsing-history-from-internet-provider-306o)
+- [Loglan&#39;82: A Forgotten Programming Language Ahead of Its Time](https://dev.to/deotyma/loglan82-a-forgotten-programming-language-ahead-of-its-time-5g2k)
+- [&quot;Unlocking Multimodal Mastery: The Power of TULIP and NORA in Imaging&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-multimodal-mastery-the-power-of-tulip-and-nora-in-imaging-k0e)
+- [Common Mistakes in Coding Interviews and How to Avoid Them](https://dev.to/codere5c/common-mistakes-in-coding-interviews-and-how-to-avoid-them-453p)
+- [My Certificate](https://dev.to/liton_ali/my-certificate-28fb)
 <!-- BLOG-POST-LIST:END -->
 
