@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your Shader to Win Up to $1000 — V Hackathon](https://dev.to/v_systems/create-your-shader-to-win-up-to-1000-v-hackathon-5bdj)
-- [10. BASIC JAVASCRIPT -VARIABEL, TIPE DATA, CONDITION, LOOPING](https://dev.to/sandatya_widhi_ce7cb1c809/10-basic-javascript-variabel-tipe-data-condition-looping-2on9)
-- [Top AI Tools for Academic writing](https://dev.to/gerald_ayakins/top-ai-tools-for-academic-writing-314b)
-- [Artificial Intelligence Syllabus 2025: What to Learn &amp; How to Stay Ahead](https://dev.to/bikashdaga/artificial-intelligence-syllabus-2025-what-to-learn-how-to-stay-ahead-2p74)
+- [Responsive Design Confusion. How to fix it?](https://dev.to/rowsanali/responsive-design-confusion-how-to-fix-it-4mg5)
+- [鸿蒙元服务项目实战：备忘录UI页面开发](https://dev.to/abnerming888/hong-meng-yuan-fu-wu-xiang-mu-shi-zhan-bei-wang-lu-uiye-mian-kai-fa-h8m)
+- [build-my-own-datalake: Part 1](https://dev.to/kination/build-my-own-datalake-part-1-367h)
+- [鸿蒙开发：加密算法封装](https://dev.to/abnerming888/hong-meng-kai-fa-jia-mi-suan-fa-feng-zhuang-58fa)
 <!-- BLOG-POST-LIST:END -->
 
