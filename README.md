@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Docker](https://dev.to/bhavyajain/advanced-docker-2jee)
-- [Python’s Multiple Inheritance and Method Resolution Order &lpar;MRO&rpar;!](https://dev.to/nkpydev/pythons-multiple-inheritance-and-method-resolution-order-mro-51i7)
-- [Fixing &#39;Unable to Get Local Issuer Certificate&#39; SSL Problem](https://dev.to/keploy/fixing-unable-to-get-local-issuer-certificate-ssl-problem-ci1)
-- [How to create an expandable image gallery with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-expandable-image-gallery-with-tailwind-css-89j)
+- [Why Identity Verification Compliance is Critical for Financial Services](https://dev.to/faceplugin/why-identity-verification-compliance-is-critical-for-financial-services-1ogf)
+- [How to Use Qwen 2.5: A Comprehensive Guide](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-qwen-25-a-comprehensive-guide-2khn)
+- [Beyond Boilerplate: Leveraging Java Records for Faster Development Cycles with Java Development Services](https://dev.to/metadesignsolutions/beyond-boilerplate-leveraging-java-records-for-faster-development-cycles-with-java-development-9k7)
+- [Rust&#39;s Type-Driven Error Handling: A Better Programming Model](https://dev.to/aaravjoshi/rusts-type-driven-error-handling-a-better-programming-model-hma)
 <!-- BLOG-POST-LIST:END -->
 
