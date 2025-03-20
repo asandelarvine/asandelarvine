@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Gemini DeepResearch Report](https://dev.to/aniruddhaadak/my-gemini-deepresearch-report-4f7o)
-- [Why I Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/why-i-stopped-using-typescript-for-small-projects-3ej7)
-- [Why can deleted files be recovered?](https://dev.to/valdeirpsr/why-can-deleted-files-be-recovered-3gln)
-- [🚀 Next.js Auth Starter – Auth.js, Prisma &amp; Tailwind](https://dev.to/abdelmajid_bendada_0ed2ab/nextjs-auth-starter-authjs-prisma-tailwind-1h1b)
+- [Unit Testing: Beyond Code Coverage](https://dev.to/harrytmthy/unit-testing-beyond-code-coverage-ai8)
+- [Accessibility as a core principle](https://dev.to/nick_fe_nick/accessibility-as-a-core-principle-2f90)
+- [How Windows Detects Virtual Machines: Methods and Techniques Explained](https://dev.to/adityabhuyan/how-windows-detects-virtual-machines-methods-and-techniques-explained-5b34)
+- [10 Best Countries to Outsource Software Development in 2025](https://dev.to/saigontechnologycompany/10-best-countries-to-outsource-software-development-in-2025-2g5j)
 <!-- BLOG-POST-LIST:END -->
 
