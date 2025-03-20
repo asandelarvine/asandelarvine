@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Design Confusion. How to fix it?](https://dev.to/rowsanali/responsive-design-confusion-how-to-fix-it-4mg5)
-- [鸿蒙元服务项目实战：备忘录UI页面开发](https://dev.to/abnerming888/hong-meng-yuan-fu-wu-xiang-mu-shi-zhan-bei-wang-lu-uiye-mian-kai-fa-h8m)
-- [build-my-own-datalake: Part 1](https://dev.to/kination/build-my-own-datalake-part-1-367h)
-- [鸿蒙开发：加密算法封装](https://dev.to/abnerming888/hong-meng-kai-fa-jia-mi-suan-fa-feng-zhuang-58fa)
+- [Gmail Agent Built with TypeScript](https://dev.to/kakasoo/gmail-agent-built-with-typescript-5boo)
+- [Software Egg: Understanding Its Role in Python Packaging](https://dev.to/keploy/software-egg-understanding-its-role-in-python-packaging-5a7h)
+- [How to Force an LLM to Output JSON](https://dev.to/sunrabbit123/how-to-force-an-llm-to-output-json-493f)
+- [&quot;How Renting Industrial Equipment Can Improve Workflow Efficiency in Construction and Logistics Projects&quot;](https://dev.to/pacopil368_b14de187d3614b/how-renting-industrial-equipment-can-improve-workflow-efficiency-in-construction-and-logistics-4123)
 <!-- BLOG-POST-LIST:END -->
 
