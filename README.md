@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing: Beyond Code Coverage](https://dev.to/harrytmthy/unit-testing-beyond-code-coverage-ai8)
-- [Accessibility as a core principle](https://dev.to/nick_fe_nick/accessibility-as-a-core-principle-2f90)
-- [How Windows Detects Virtual Machines: Methods and Techniques Explained](https://dev.to/adityabhuyan/how-windows-detects-virtual-machines-methods-and-techniques-explained-5b34)
-- [10 Best Countries to Outsource Software Development in 2025](https://dev.to/saigontechnologycompany/10-best-countries-to-outsource-software-development-in-2025-2g5j)
+- [Best Flutter Icon Libraries in 2025](https://dev.to/masumparvej/best-flutter-icon-libraries-in-2025-1k7l)
+- [scrapy自定义的extension日志被打印两次的问题](https://dev.to/dragon72463399/scrapyzi-ding-yi-de-extensionri-zhi-bei-da-yin-liang-ci-de-wen-ti-1h2e)
+- [HarmonyOS NEXT-Flutter混合开发之鸿蒙-代码实践](https://dev.to/zhousg/harmonyos-next-flutterhun-he-kai-fa-zhi-hong-meng-dai-ma-shi-jian-40hk)
+- [Optimizing Neural Network Architectures for Improved AI Efficiency and Scalability](https://dev.to/adityabhuyan/optimizing-neural-network-architectures-for-improved-ai-efficiency-and-scalability-jmg)
 <!-- BLOG-POST-LIST:END -->
 
