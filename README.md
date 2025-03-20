@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail Agent Built with TypeScript](https://dev.to/kakasoo/gmail-agent-built-with-typescript-5boo)
-- [Software Egg: Understanding Its Role in Python Packaging](https://dev.to/keploy/software-egg-understanding-its-role-in-python-packaging-5a7h)
-- [How to Force an LLM to Output JSON](https://dev.to/sunrabbit123/how-to-force-an-llm-to-output-json-493f)
-- [&quot;How Renting Industrial Equipment Can Improve Workflow Efficiency in Construction and Logistics Projects&quot;](https://dev.to/pacopil368_b14de187d3614b/how-renting-industrial-equipment-can-improve-workflow-efficiency-in-construction-and-logistics-4123)
+- [Advanced Docker](https://dev.to/bhavyajain/advanced-docker-2jee)
+- [Python’s Multiple Inheritance and Method Resolution Order &lpar;MRO&rpar;!](https://dev.to/nkpydev/pythons-multiple-inheritance-and-method-resolution-order-mro-51i7)
+- [Fixing &#39;Unable to Get Local Issuer Certificate&#39; SSL Problem](https://dev.to/keploy/fixing-unable-to-get-local-issuer-certificate-ssl-problem-ci1)
+- [How to create an expandable image gallery with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-expandable-image-gallery-with-tailwind-css-89j)
 <!-- BLOG-POST-LIST:END -->
 
