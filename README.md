@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Pokédex with Vue.js and PokéAPI - A Step-by-Step Guide](https://dev.to/batiar_rahmamulia/building-a-pokedex-with-vuejs-and-pokeapi-a-step-by-step-guide-lb0)
-- [Golang 1.24: Breaking Down the Latest Features and Enhancements &lpar;#1&rpar;](https://dev.to/mx_tech/-golang-124-breaking-down-the-latest-features-and-enhancements-1-1l5p)
-- [How to Measure IT Service Quality: Key Metrics &amp; Best Practices for 2025](https://dev.to/adityabhuyan/how-to-measure-it-service-quality-key-metrics-best-practices-for-2025-4pi9)
-- [Software Testing vs Firmware Testing: Understanding the Key Differences](https://dev.to/radha_4c842d8e4362a7cdd9c/software-testing-vs-firmware-testing-understanding-the-key-differences-1mfe)
+- [[Part 3]Control Flow and Decision Making in TypeScript for QA Scripts](https://dev.to/testamplify/part-3control-flow-and-decision-making-in-typescript-for-qa-scripts-4foh)
+- [[Part 4]Data Structures in TypeScript – Organizing Test Data with Strong Typing](https://dev.to/testamplify/part-4data-structures-in-typescript-organizing-test-data-with-strong-typing-296p)
+- [🚀 Manual vs. Automated Testing: Which One Should You Use and When?](https://dev.to/dct_technologyprivatelimited/manual-vs-automated-testing-which-one-should-you-use-and-when-24k6)
+- [Implementing Secure Single Sign-On Between Vue &amp; NodeJs Applications](https://dev.to/abdur_rakibrony_349a3f89/implementing-secure-single-sign-on-between-laravel-applications-1553)
 <!-- BLOG-POST-LIST:END -->
 
