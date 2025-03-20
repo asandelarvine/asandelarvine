@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Flutter Icon Libraries in 2025](https://dev.to/masumparvej/best-flutter-icon-libraries-in-2025-1k7l)
-- [scrapy自定义的extension日志被打印两次的问题](https://dev.to/dragon72463399/scrapyzi-ding-yi-de-extensionri-zhi-bei-da-yin-liang-ci-de-wen-ti-1h2e)
-- [HarmonyOS NEXT-Flutter混合开发之鸿蒙-代码实践](https://dev.to/zhousg/harmonyos-next-flutterhun-he-kai-fa-zhi-hong-meng-dai-ma-shi-jian-40hk)
-- [Optimizing Neural Network Architectures for Improved AI Efficiency and Scalability](https://dev.to/adityabhuyan/optimizing-neural-network-architectures-for-improved-ai-efficiency-and-scalability-jmg)
+- [Building a Pokédex with Vue.js and PokéAPI - A Step-by-Step Guide](https://dev.to/batiar_rahmamulia/building-a-pokedex-with-vuejs-and-pokeapi-a-step-by-step-guide-lb0)
+- [Golang 1.24: Breaking Down the Latest Features and Enhancements &lpar;#1&rpar;](https://dev.to/mx_tech/-golang-124-breaking-down-the-latest-features-and-enhancements-1-1l5p)
+- [How to Measure IT Service Quality: Key Metrics &amp; Best Practices for 2025](https://dev.to/adityabhuyan/how-to-measure-it-service-quality-key-metrics-best-practices-for-2025-4pi9)
+- [Software Testing vs Firmware Testing: Understanding the Key Differences](https://dev.to/radha_4c842d8e4362a7cdd9c/software-testing-vs-firmware-testing-understanding-the-key-differences-1mfe)
 <!-- BLOG-POST-LIST:END -->
 
