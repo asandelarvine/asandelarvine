@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Must Read Tech Books for Experienced Developers and Leads in 2025](https://dev.to/somadevtoo/7-must-read-tech-books-for-experienced-developers-and-leads-in-2025-2j0n)
-- [HAVE YOU HEARD OF FEDORA PROJECT? THE COOLEST LINUX DISTRIBUTOR](https://dev.to/shadeakinremi/have-you-heard-of-fedora-project-the-coolest-linux-distributor-4h30)
-- [[Help wanted] IDE-Flexible and No-Install Solution for User Studies?](https://dev.to/aidbar/help-wanted-ide-flexible-and-no-install-solution-for-user-studies-457e)
-- [9 Modern JavaScript Tips for Beginners in 2025 🚀🔥](https://dev.to/ananiket/9-modern-javascript-tips-for-beginners-in-2025-3bkm)
+- [[Boost]](https://dev.to/karanverma/-2p9o)
+- [Middleware Mastery in .NET with Essential Techniques and Hands-On Examples](https://dev.to/satyakarki/middleware-mastery-in-net-with-essential-techniques-and-hands-on-examples-51ga)
+- [PWC 312 Time to be random](https://dev.to/boblied/pwc-312-time-to-be-random-o0f)
+- [How to hide browsing history from Internet Provider?](https://dev.to/asya_karapetyan_7dd3a62f8/how-to-hide-browsing-history-from-internet-provider-306o)
 <!-- BLOG-POST-LIST:END -->
 
