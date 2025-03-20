@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Multiple Authors to my Astro Writing Blog: A Technical Walkthrough](https://dev.to/bekahhw/adding-multiple-authors-to-my-astro-writing-blog-a-technical-walkthrough-42n1)
-- [Security Considerations for Healthcare IoT Device Management](https://dev.to/ikoh_sylva/security-considerations-for-healthcare-iot-device-management-4k59)
-- [[Boost]](https://dev.to/monojmkd/-3ggm)
-- [Optimizing React Apps for Production with Vite](https://dev.to/programmerhasan/optimizing-react-apps-for-production-with-vite-15gi)
+- [🚨 The Python Debugging Playbook: Fix Your Code](https://dev.to/0x3d_site/the-python-debugging-playbook-fix-your-code-4nbb)
+- [Guía Práctica de EIP-7702: Agrupa Transacciones y Controla Privilegios en Ethereum](https://dev.to/turupawn/guia-practica-de-eip-7702-agrupa-transacciones-y-controla-privilegios-en-ethereum-54nc)
+- [React Native’s New Architecture – What Developers Need to Know](https://dev.to/anytechie/react-natives-new-architecture-what-developers-need-to-know-32jm)
+- [Las 5 Habilidades Clave para Ser un Closer de Ventas en la Era Digital](https://dev.to/erick_granja_34/las-5-habilidades-clave-para-ser-un-closer-de-ventas-en-la-era-digital-21nm)
 <!-- BLOG-POST-LIST:END -->
 
