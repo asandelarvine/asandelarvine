@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Features of Ovron Total Security](https://dev.to/ovrontotalsecurity/key-features-of-ovron-total-security-23aj)
-- [Experience the Power of Yardlie Professional Rice Water 2-in-1 Shampoo 500ml – Now Available on Feenzay](https://dev.to/feenzayofficals/experience-the-power-of-yardlie-professional-rice-water-2-in-1-shampoo-500ml-now-available-on-5960)
-- [What Is Exception Propagation in Java?](https://dev.to/devmercy/what-is-exception-propagation-in-java-m12)
-- [KendoReact Free Games [5] Hub](https://dev.to/aniruddhaadak/kendoreact-free-games-5-hub-2goo)
+- [Setting up a pentest lab with an Android Phone and Kali Linux](https://dev.to/llucasduartee/setting-up-a-pentest-lab-with-an-android-phone-and-kali-linux-1ack)
+- [Starting TypeScript! Any Tips?](https://dev.to/imrancodes/starting-typescript-any-tips-3mnj)
+- [Data Modeling for Java Developers: Structuring With PostgreSQL and MongoDB](https://dev.to/mongodb/data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb-456l)
+- [A Comprehensive Guide to TikTok API](https://dev.to/scrapfly_dev/a-comprehensive-guide-to-tiktok-api-49f6)
 <!-- BLOG-POST-LIST:END -->
 
