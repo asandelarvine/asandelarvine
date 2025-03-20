@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [News on update 12.03.2023](https://dev.to/labrob2013/news-on-update-12032023-1jh7)
-- [The Power of Plant-Based Diets in Fighting Climate Change](https://dev.to/rashaanayah2/the-power-of-plant-based-diets-in-fighting-climate-change-4b5a)
-- [Core Principles of HTM](https://dev.to/robin_sonroy_ccee41c269f/core-principles-of-htm-2k58)
-- [Deixe o If...Else de lado! Use Hashtable em JavaScript](https://dev.to/viniciusbavosa/deixe-o-ifelse-de-lado-use-hashtable-em-javascript-gpf)
+- [Key Features of Ovron Total Security](https://dev.to/ovrontotalsecurity/key-features-of-ovron-total-security-23aj)
+- [Experience the Power of Yardlie Professional Rice Water 2-in-1 Shampoo 500ml – Now Available on Feenzay](https://dev.to/feenzayofficals/experience-the-power-of-yardlie-professional-rice-water-2-in-1-shampoo-500ml-now-available-on-5960)
+- [What Is Exception Propagation in Java?](https://dev.to/devmercy/what-is-exception-propagation-in-java-m12)
+- [KendoReact Free Games [5] Hub](https://dev.to/aniruddhaadak/kendoreact-free-games-5-hub-2goo)
 <!-- BLOG-POST-LIST:END -->
 
