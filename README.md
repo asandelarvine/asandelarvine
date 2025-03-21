@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Async Programming: Future Executors and Task Scheduling](https://dev.to/leapcell/rust-async-programming-future-executors-and-task-scheduling-56bk)
-- [1000 stars on GitHub feels like a Million likes on any other platform](https://dev.to/sarthakwer/1000-stars-on-github-feels-like-a-million-likes-on-any-other-platform-4ie1)
-- [Forget C and Rust – Python Is the Future of IoT!](https://dev.to/coursedia/forget-c-and-rust-python-is-the-future-of-iot-234c)
-- [[Boost]](https://dev.to/efraim9/-2d7m)
+- [Testing Strapi Integration with Dev.to](https://dev.to/arshiash80/testing-strapi-integration-with-devto-45ff)
+- [Adobe Commerce as a Cloud Service is NOT like Shopify](https://dev.to/rafaelcg/adobe-commerce-as-a-cloud-service-is-not-like-shopify-1dp1)
+- [KendoReact Challenge Submission: A Waku Project](https://dev.to/roggc/kendoreact-challenge-submission-a-waku-project-1do6)
+- [Building a little whisper thingy](https://dev.to/charlescrowley/esl-meets-ai-53b6)
 <!-- BLOG-POST-LIST:END -->
 
