@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS WAF: Keeping Your Web Applications Secure](https://dev.to/sameer_khanal_7a66fbe8002/aws-waf-keeping-your-web-applications-secure-2g24)
-- [CSS Shadow Generator For Everyone 🔥](https://dev.to/hanzla-baig/css-shadow-generator-for-everyone-1adn)
-- [🔥 CSS Shadow Generator | Happy Coding](https://dev.to/hanzla-baig/css-shadow-generator-happy-coding-1phn)
-- [Creating a React-Native library using New Architecture &lpar;JSI, C++&rpar;](https://dev.to/sergei_kazakov/creating-a-react-native-library-using-new-architecture-jsi-c-fj3)
+- [I Tried Apidog MCP Server and It&#39;s a Total Game-Changer for API Development](https://dev.to/apilover/i-tried-apidog-mcp-server-and-its-a-total-game-changer-for-api-development-121n)
+- [Sustainable AI: 3 tools to measure the environmental impact of ML solutions](https://dev.to/audaciatechnology/sustainable-ai-3-tools-to-measure-the-environmental-impact-of-ml-solutions-2hgk)
+- [Implementing temporal table auditing in software development projects](https://dev.to/audaciatechnology/implementing-temporal-table-auditing-in-software-development-projects-16k2)
+- [Testing an AI WhatsApp Chatbot](https://dev.to/audaciatechnology/testing-an-ai-whatsapp-chatbot-14l7)
 <!-- BLOG-POST-LIST:END -->
 
