@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Economics Explained: A Simple Guide for Smarter Decision-Making](https://dev.to/piya__c204c9e90/cloud-economics-explained-a-simple-guide-for-smarter-decision-making-3bca)
-- [How Aluminum Oxide Grit Size Impacts Surface Roughness: A Buyer’s Guide for Industrial Procurement Managers](https://dev.to/js-henglihong/how-aluminum-oxide-grit-size-impacts-surface-roughness-a-buyers-guide-for-industrial-procurement-1154)
-- [Remove String Spaces](https://dev.to/maddiepst/remove-string-spaces-16m7)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-1k07)
+- [Mastering AWS for Scalable Web Apps — A Beginner’s Guide](https://dev.to/dct_technologyprivatelimited/mastering-aws-for-scalable-web-apps-a-beginners-guide-4e38)
+- [Go Fundamentals](https://dev.to/somprasongd/go-fundamentals-jne)
+- [The Power of TypeScript Utility Types 🚀](https://dev.to/hasunnilupul/the-power-of-typescript-utility-types-50nn)
+- [পাইথন এরর হ্যান্ডলিং এবং ডিবাগিং: সমস্যা মোকাবিলা করা](https://dev.to/shafiemoji/paaithn-err-hyaanddlin-ebn-ddibaagin-smsyaa-mokaabilaa-kraa-35kp)
 <!-- BLOG-POST-LIST:END -->
 
