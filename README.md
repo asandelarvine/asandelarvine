@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Set Up All My Subscriptions to Be Paid in Crypto](https://dev.to/alexroor4/how-i-set-up-all-my-subscriptions-to-be-paid-in-crypto-af1)
-- [Mastering Kubernetes Persistent Volumes: A Simplified Beginner Guide](https://dev.to/david_oyewole/mastering-kubernetes-persistent-volumes-a-simplified-beginner-guide-5e1l)
-- [Unveiling the Tech Behind Video Streaming Web Applications](https://dev.to/andreita_bello_aa877b46c5/unveiling-the-tech-behind-video-streaming-web-applications-46dg)
-- [Code Craft #7 - Working with Text and Formatting Elements in HTML](https://dev.to/xtirian/code-craft-7-working-with-text-and-formatting-elements-in-html-2hnn)
+- [DAY4-GIT BRANCH,STASH.](https://dev.to/sabari_vasan/day4-git-branchstash-4ckc)
+- [How to Stand Out as a Developer in Your Company](https://dev.to/fedorovalexander/how-to-stand-out-as-a-developer-in-your-company-46mj)
+- [gent TARS: Revolutionizing Workflow Automation with Multimodal AI](https://dev.to/brooks_wilson_36fbefbbae4/gent-tars-revolutionizing-workflow-automation-with-multimodal-ai-3fkm)
+- [ReST: It is more than just a CRUD over HTTP](https://dev.to/justcatdev/rest-it-is-more-than-just-a-crud-over-http-31gi)
 <!-- BLOG-POST-LIST:END -->
 
