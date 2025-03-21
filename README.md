@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vagrant vProfile Multi-Tier Java Application](https://dev.to/surendergupta/vagrant-vprofile-multi-tier-java-application-1fp4)
-- [Understanding Pagination in Manticore Search](https://dev.to/sanikolaev/understanding-pagination-in-manticore-search-3n8j)
-- [Building a Scalable PetClinic Web Application: A Full-Stack Approach](https://dev.to/surendergupta/building-a-scalable-petclinic-web-application-a-full-stack-approach-4ace)
-- [Testing Amazon Application Recovery Controller &lpar;ARC&rpar; on EKS](https://dev.to/daitak/testing-amazon-application-recovery-controller-arc-on-eks-59gc)
+- [Why Kochi is Emerging as a Hub for Data Analytics Education](https://dev.to/lekshmi_525/why-kochi-is-emerging-as-a-hub-for-data-analytics-education-eln)
+- [&quot;Unlocking Video Magic: The Future of Trajectory-Controlled Visuals&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-video-magic-the-future-of-trajectory-controlled-visuals-3m91)
+- [Solving the Two-Sum Problem: A Comprehensive Guide](https://dev.to/mohaiminul69/solving-the-two-sum-problem-a-comprehensive-guide-324h)
+- [➡️ 7 Effective JavaScript Debugging Techniques Every Developer Should Know](https://dev.to/artem_turlenko/effective-javascript-debugging-techniques-every-developer-should-know-2e78)
 <!-- BLOG-POST-LIST:END -->
 
