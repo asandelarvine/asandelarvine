@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe Hackfinity Battle Writeups](https://dev.to/seanleeys/tryhackme-hackfinity-battle-writeups-33ej)
-- [CCIE Certification Cost: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/ccie-certification-cost-a-complete-guide-for-2025-52g2)
-- [A Comprehensive Framework for Navigating Product-Based Company Interviews 🎯](https://dev.to/devcorner/a-comprehensive-framework-for-navigating-product-based-company-interviews-4pc1)
-- [Comment l&#39;intelligence artificielle a sauvé la vie d&#39;un homme](https://dev.to/adam_alem_31802ff2ccd7e60/comment-lintelligence-artificielle-a-sauve-la-vie-dun-homme-1nab)
+- [Roadmap to Becoming a Shopify App Developer](https://dev.to/nyasha_madzokere/roadmap-to-becoming-a-shopify-app-developer-30eg)
+- [Managing Deeply Nested React Components: An Architectural Approach 🤓](https://dev.to/sebasqui/managing-deeply-nested-react-components-an-architectural-approach-1ehb)
+- [Shapes, slots, and traces: optimizing the property pattern](https://dev.to/nyctef/shapes-slots-and-traces-optimizing-the-property-pattern-21c8)
+- [5 Killer Habits- BE A REBEL by Sree krishna Salem](https://dev.to/arijit1998/5-killer-habits-be-a-rebel-by-sree-krishna-salem-1c68)
 <!-- BLOG-POST-LIST:END -->
 
