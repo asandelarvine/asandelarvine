@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-02: Open Source Community links](https://dev.to/e00049/day-02-open-source-community-links-coo)
-- [Earn Free Crypto with CoinW’s Mission Center: A Beginner-Friendly Guide](https://dev.to/coinw/earn-free-crypto-with-coinws-mission-center-a-beginner-friendly-guide-mna)
-- [Ultimate Guide for API key management in Flutter Projects](https://dev.to/valerianagit/ultimate-guide-for-api-key-management-in-flutter-projects-4kdg)
-- [How to install CUDA on WSL2](https://dev.to/gabriellavoura/how-to-install-cuda-on-wsl2-45g6)
+- [Design and Manage Pub/Sub Messaging with Amazon Simple Notification Service &lpar;SNS&rpar;](https://dev.to/gurudev_prasadteketi/design-and-manage-pubsub-messaging-with-amazon-simple-notification-service-sns-42en)
+- [Thankful for CodeSandbox](https://dev.to/d2d_weizhi/thankful-for-codesandbox-1jii)
+- [How to Fix Shopee Email Verification Issues: A Quick Guide for Sellers](https://dev.to/mindlily/how-to-fix-shopee-email-verification-issues-a-quick-guide-for-sellers-2mfd)
+- [Understanding Assignment Operators in JavaScript: From Basics to Advanced Concepts](https://dev.to/coder_studios/understanding-assignment-operators-in-javascript-from-basics-to-advanced-concepts-34e0)
 <!-- BLOG-POST-LIST:END -->
 
