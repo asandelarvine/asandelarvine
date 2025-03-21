@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Friday Deployments: A Horror Story 💀](https://dev.to/francotel/friday-deployments-a-horror-story-4m12)
-- [CCNP vs CCNA: Which Cisco Certification is Right for You?](https://dev.to/rohan_jee_085655230/ccnp-vs-ccna-which-cisco-certification-is-right-for-you-3pg4)
-- [Innovative Insurance Products to Introduce in 2025](https://dev.to/openkoda/innovative-insurance-products-to-introduce-in-2025-4b5m)
-- [Weekly #12-2025: Astro 5.5, Tailwind Plus, TypeScript 7, and More](https://dev.to/weekly/astro-55-tailwind-plus-typescript-7-and-more-2pmd)
+- [TryHackMe Hackfinity Battle Writeups](https://dev.to/seanleeys/tryhackme-hackfinity-battle-writeups-33ej)
+- [CCIE Certification Cost: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/ccie-certification-cost-a-complete-guide-for-2025-52g2)
+- [A Comprehensive Framework for Navigating Product-Based Company Interviews 🎯](https://dev.to/devcorner/a-comprehensive-framework-for-navigating-product-based-company-interviews-4pc1)
+- [Comment l&#39;intelligence artificielle a sauvé la vie d&#39;un homme](https://dev.to/adam_alem_31802ff2ccd7e60/comment-lintelligence-artificielle-a-sauve-la-vie-dun-homme-1nab)
 <!-- BLOG-POST-LIST:END -->
 
