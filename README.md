@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design and Manage Pub/Sub Messaging with Amazon Simple Notification Service &lpar;SNS&rpar;](https://dev.to/gurudev_prasadteketi/design-and-manage-pubsub-messaging-with-amazon-simple-notification-service-sns-42en)
-- [Thankful for CodeSandbox](https://dev.to/d2d_weizhi/thankful-for-codesandbox-1jii)
-- [How to Fix Shopee Email Verification Issues: A Quick Guide for Sellers](https://dev.to/mindlily/how-to-fix-shopee-email-verification-issues-a-quick-guide-for-sellers-2mfd)
-- [Understanding Assignment Operators in JavaScript: From Basics to Advanced Concepts](https://dev.to/coder_studios/understanding-assignment-operators-in-javascript-from-basics-to-advanced-concepts-34e0)
+- [Cloud Economics Explained: A Simple Guide for Smarter Decision-Making](https://dev.to/piya__c204c9e90/cloud-economics-explained-a-simple-guide-for-smarter-decision-making-3bca)
+- [How Aluminum Oxide Grit Size Impacts Surface Roughness: A Buyer’s Guide for Industrial Procurement Managers](https://dev.to/js-henglihong/how-aluminum-oxide-grit-size-impacts-surface-roughness-a-buyers-guide-for-industrial-procurement-1154)
+- [Remove String Spaces](https://dev.to/maddiepst/remove-string-spaces-16m7)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-1k07)
 <!-- BLOG-POST-LIST:END -->
 
