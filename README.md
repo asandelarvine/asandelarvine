@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma alternativa de processo seletivo para contratar melhores QAs](https://dev.to/talking-about-testing/uma-alternativa-de-processo-seletivo-para-contratar-melhores-qas-1n78)
-- [MQ: How Does It Achieve Peak Shaving and Valley Filling?](https://dev.to/yangguangyong/mq-how-does-it-achieve-peak-shaving-and-valley-filling-jfp)
-- [BS 4790: Method for Determination of the Effect of Small Ignition Sources on Flooring Fabrics](https://dev.to/rebecca_zhang_53170276935/bs-4790-method-for-determination-of-the-effect-of-small-ignition-sources-on-flooring-fabrics-59jf)
-- [Using Trigonometry to create a circle with C++ and OpenGL | Android Game dev](https://dev.to/theplebdev/using-trigonometry-to-create-a-circle-with-c-and-opengl-android-game-dev-3di2)
+- [Day-02: Open Source Community links](https://dev.to/e00049/day-02-open-source-community-links-coo)
+- [Earn Free Crypto with CoinW’s Mission Center: A Beginner-Friendly Guide](https://dev.to/coinw/earn-free-crypto-with-coinws-mission-center-a-beginner-friendly-guide-mna)
+- [Ultimate Guide for API key management in Flutter Projects](https://dev.to/valerianagit/ultimate-guide-for-api-key-management-in-flutter-projects-4kdg)
+- [How to install CUDA on WSL2](https://dev.to/gabriellavoura/how-to-install-cuda-on-wsl2-45g6)
 <!-- BLOG-POST-LIST:END -->
 
