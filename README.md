@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mental Health and Public Interest Litigation &lpar;PIL&rpar; in India – Insights from the Book](https://dev.to/afrashahana/mental-health-and-public-interest-litigation-pil-in-india-insights-from-the-book-36np)
-- [Revolutionizing IT Ops: LogicMonitor’s AI-Powered Envision and Edwin Take Monitoring to the Next Level](https://dev.to/wearetechi/revolutionizing-it-ops-logicmonitors-ai-powered-envision-and-edwin-take-monitoring-to-the-next-4gk)
-- [User unable to enter textbox value more than one digit](https://dev.to/chbala/user-unable-to-enter-textbox-value-more-than-one-digit-2o98)
-- [Leetcode - 452. Minimum Number of Arrows to Burst Balloons](https://dev.to/rakeshreddy512/leetcode-452-minimum-number-of-arrows-to-burst-balloons-33e2)
+- [Vagrant vProfile Multi-Tier Java Application](https://dev.to/surendergupta/vagrant-vprofile-multi-tier-java-application-1fp4)
+- [Understanding Pagination in Manticore Search](https://dev.to/sanikolaev/understanding-pagination-in-manticore-search-3n8j)
+- [Building a Scalable PetClinic Web Application: A Full-Stack Approach](https://dev.to/surendergupta/building-a-scalable-petclinic-web-application-a-full-stack-approach-4ace)
+- [Testing Amazon Application Recovery Controller &lpar;ARC&rpar; on EKS](https://dev.to/daitak/testing-amazon-application-recovery-controller-arc-on-eks-59gc)
 <!-- BLOG-POST-LIST:END -->
 
