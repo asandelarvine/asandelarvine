@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 PostgreSQL + Python = Absolute Power: Meet PL/Python](https://dev.to/aleksei_aleinikov/postgresql-python-absolute-power-meet-plpython-2pnc)
-- [Building a Scalable Computer Vision System for Large-Scale Manufacturing](https://dev.to/chandraks/building-a-scalable-computer-vision-system-for-large-scale-manufacturing-38mg)
-- [⚡ How to Speed Up Python in Kubernetes: Caching, CDN &amp; Dirty Tricks](https://dev.to/aleksei_aleinikov/how-to-speed-up-python-in-kubernetes-caching-cdn-dirty-tricks-59jd)
-- [EXPLORING MANUAL TESTING TECHNIQUES: AN IN-DEPTH ANALYSIS](https://dev.to/soundharya_ramprasad_ea84/exploring-manual-testing-techniques-an-in-depth-analysis-l4e)
+- [How I Set Up All My Subscriptions to Be Paid in Crypto](https://dev.to/alexroor4/how-i-set-up-all-my-subscriptions-to-be-paid-in-crypto-af1)
+- [Mastering Kubernetes Persistent Volumes: A Simplified Beginner Guide](https://dev.to/david_oyewole/mastering-kubernetes-persistent-volumes-a-simplified-beginner-guide-5e1l)
+- [Unveiling the Tech Behind Video Streaming Web Applications](https://dev.to/andreita_bello_aa877b46c5/unveiling-the-tech-behind-video-streaming-web-applications-46dg)
+- [Code Craft #7 - Working with Text and Formatting Elements in HTML](https://dev.to/xtirian/code-craft-7-working-with-text-and-formatting-elements-in-html-2hnn)
 <!-- BLOG-POST-LIST:END -->
 
