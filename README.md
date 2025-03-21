@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI’s Hidden Superpower: Why Retrieval-Augmented Generation &lpar;RAG&rpar; is Game-Changing](https://dev.to/femtoware_infotechllp/ais-hidden-superpower-why-retrieval-augmented-generation-rag-is-game-changing-4ee0)
-- [Rich vs Anemic Entities in PHP: How to Structure Your Business Logic Right](https://dev.to/mykola_vantukh/rich-vs-anemic-entities-in-php-how-to-structure-your-business-logic-right-7a0)
-- [Unlocking the Power of Salesforce Marketing Cloud: The Future of Intelligent Marketing](https://dev.to/janelee/unlocking-the-power-of-salesforce-marketing-cloud-the-future-of-intelligent-marketing-1bbj)
-- [The Importance of Full-Stack Development within Modern Software Engineering](https://dev.to/towersand55/the-importance-of-full-stack-development-within-modern-software-engineering-dk1)
+- [Friday Deployments: A Horror Story 💀](https://dev.to/francotel/friday-deployments-a-horror-story-4m12)
+- [CCNP vs CCNA: Which Cisco Certification is Right for You?](https://dev.to/rohan_jee_085655230/ccnp-vs-ccna-which-cisco-certification-is-right-for-you-3pg4)
+- [Innovative Insurance Products to Introduce in 2025](https://dev.to/openkoda/innovative-insurance-products-to-introduce-in-2025-4b5m)
+- [Weekly #12-2025: Astro 5.5, Tailwind Plus, TypeScript 7, and More](https://dev.to/weekly/astro-55-tailwind-plus-typescript-7-and-more-2pmd)
 <!-- BLOG-POST-LIST:END -->
 
