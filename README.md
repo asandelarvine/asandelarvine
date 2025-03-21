@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap to Becoming a Shopify App Developer](https://dev.to/nyasha_madzokere/roadmap-to-becoming-a-shopify-app-developer-30eg)
-- [Managing Deeply Nested React Components: An Architectural Approach 🤓](https://dev.to/sebasqui/managing-deeply-nested-react-components-an-architectural-approach-1ehb)
-- [Shapes, slots, and traces: optimizing the property pattern](https://dev.to/nyctef/shapes-slots-and-traces-optimizing-the-property-pattern-21c8)
-- [5 Killer Habits- BE A REBEL by Sree krishna Salem](https://dev.to/arijit1998/5-killer-habits-be-a-rebel-by-sree-krishna-salem-1c68)
+- [Creating a Firebase Admin Panel with React.js and Next.js](https://dev.to/_2b24d641ced84dd4ac/creating-a-firebase-admin-panel-with-reactjs-and-nextjs-164a)
+- [algorithms: intro to sorting algorithms 5 {counting sort and radix sort}](https://dev.to/atoms19/algorithms-intro-to-sorting-algorithms-5-counting-sort-and-radix-sort-4l40)
+- [FitAI](https://dev.to/sakshamm0507/fitai-1a68)
+- [Building and Deploying a Mentorship Platform with Django: A Journey from Local to Live](https://dev.to/sanaipei/building-and-deploying-a-mentorship-platform-with-django-a-journey-from-local-to-live-1gfc)
 <!-- BLOG-POST-LIST:END -->
 
