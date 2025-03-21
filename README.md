@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Where to Start in Web Development: Ignoring learning HTTP&lpar;S&rpar;, URLs, DNS, IP, SSL will have consequences...](https://dev.to/dev-charodeyka/where-to-start-in-web-development-ignoring-learning-https-urls-dns-ip-ssl-will-have-57le)
-- [Web Scraping with Python: Learn It Fast! 🚀](https://dev.to/0x3d_site/web-scraping-with-python-learn-it-fast-4c6b)
-- [Workout and Diet based on Inbody Report](https://dev.to/rakeshreddy512/my-inbody-report-1kk4)
-- [Simplifying Multi-line Strings with Text Blocks in Java](https://dev.to/igorfragadev/simplifying-multi-line-strings-with-text-blocks-in-java-159a)
+- [Rust Async Programming: Future Executors and Task Scheduling](https://dev.to/leapcell/rust-async-programming-future-executors-and-task-scheduling-56bk)
+- [1000 stars on GitHub feels like a Million likes on any other platform](https://dev.to/sarthakwer/1000-stars-on-github-feels-like-a-million-likes-on-any-other-platform-4ie1)
+- [Forget C and Rust – Python Is the Future of IoT!](https://dev.to/coursedia/forget-c-and-rust-python-is-the-future-of-iot-234c)
+- [[Boost]](https://dev.to/efraim9/-2d7m)
 <!-- BLOG-POST-LIST:END -->
 
