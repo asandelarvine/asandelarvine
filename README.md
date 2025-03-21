@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Apidog MCP Server and It&#39;s a Total Game-Changer for API Development](https://dev.to/apilover/i-tried-apidog-mcp-server-and-its-a-total-game-changer-for-api-development-121n)
-- [Sustainable AI: 3 tools to measure the environmental impact of ML solutions](https://dev.to/audaciatechnology/sustainable-ai-3-tools-to-measure-the-environmental-impact-of-ml-solutions-2hgk)
-- [Implementing temporal table auditing in software development projects](https://dev.to/audaciatechnology/implementing-temporal-table-auditing-in-software-development-projects-16k2)
-- [Testing an AI WhatsApp Chatbot](https://dev.to/audaciatechnology/testing-an-ai-whatsapp-chatbot-14l7)
+- [🐍 PostgreSQL + Python = Absolute Power: Meet PL/Python](https://dev.to/aleksei_aleinikov/postgresql-python-absolute-power-meet-plpython-2pnc)
+- [Building a Scalable Computer Vision System for Large-Scale Manufacturing](https://dev.to/chandraks/building-a-scalable-computer-vision-system-for-large-scale-manufacturing-38mg)
+- [⚡ How to Speed Up Python in Kubernetes: Caching, CDN &amp; Dirty Tricks](https://dev.to/aleksei_aleinikov/how-to-speed-up-python-in-kubernetes-caching-cdn-dirty-tricks-59jd)
+- [EXPLORING MANUAL TESTING TECHNIQUES: AN IN-DEPTH ANALYSIS](https://dev.to/soundharya_ramprasad_ea84/exploring-manual-testing-techniques-an-in-depth-analysis-l4e)
 <!-- BLOG-POST-LIST:END -->
 
