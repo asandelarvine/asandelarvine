@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AWS for Scalable Web Apps — A Beginner’s Guide](https://dev.to/dct_technologyprivatelimited/mastering-aws-for-scalable-web-apps-a-beginners-guide-4e38)
-- [Go Fundamentals](https://dev.to/somprasongd/go-fundamentals-jne)
-- [The Power of TypeScript Utility Types 🚀](https://dev.to/hasunnilupul/the-power-of-typescript-utility-types-50nn)
-- [পাইথন এরর হ্যান্ডলিং এবং ডিবাগিং: সমস্যা মোকাবিলা করা](https://dev.to/shafiemoji/paaithn-err-hyaanddlin-ebn-ddibaagin-smsyaa-mokaabilaa-kraa-35kp)
+- [Mental Health and Public Interest Litigation &lpar;PIL&rpar; in India – Insights from the Book](https://dev.to/afrashahana/mental-health-and-public-interest-litigation-pil-in-india-insights-from-the-book-36np)
+- [Revolutionizing IT Ops: LogicMonitor’s AI-Powered Envision and Edwin Take Monitoring to the Next Level](https://dev.to/wearetechi/revolutionizing-it-ops-logicmonitors-ai-powered-envision-and-edwin-take-monitoring-to-the-next-4gk)
+- [User unable to enter textbox value more than one digit](https://dev.to/chbala/user-unable-to-enter-textbox-value-more-than-one-digit-2o98)
+- [Leetcode - 452. Minimum Number of Arrows to Burst Balloons](https://dev.to/rakeshreddy512/leetcode-452-minimum-number-of-arrows-to-burst-balloons-33e2)
 <!-- BLOG-POST-LIST:END -->
 
