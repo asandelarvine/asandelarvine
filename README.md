@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Kochi is Emerging as a Hub for Data Analytics Education](https://dev.to/lekshmi_525/why-kochi-is-emerging-as-a-hub-for-data-analytics-education-eln)
-- [&quot;Unlocking Video Magic: The Future of Trajectory-Controlled Visuals&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-video-magic-the-future-of-trajectory-controlled-visuals-3m91)
-- [Solving the Two-Sum Problem: A Comprehensive Guide](https://dev.to/mohaiminul69/solving-the-two-sum-problem-a-comprehensive-guide-324h)
-- [➡️ 7 Effective JavaScript Debugging Techniques Every Developer Should Know](https://dev.to/artem_turlenko/effective-javascript-debugging-techniques-every-developer-should-know-2e78)
+- [AWS WAF: Keeping Your Web Applications Secure](https://dev.to/sameer_khanal_7a66fbe8002/aws-waf-keeping-your-web-applications-secure-2g24)
+- [CSS Shadow Generator For Everyone 🔥](https://dev.to/hanzla-baig/css-shadow-generator-for-everyone-1adn)
+- [🔥 CSS Shadow Generator | Happy Coding](https://dev.to/hanzla-baig/css-shadow-generator-happy-coding-1phn)
+- [Creating a React-Native library using New Architecture &lpar;JSI, C++&rpar;](https://dev.to/sergei_kazakov/creating-a-react-native-library-using-new-architecture-jsi-c-fj3)
 <!-- BLOG-POST-LIST:END -->
 
