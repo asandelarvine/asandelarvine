@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a pentest lab with an Android Phone and Kali Linux](https://dev.to/llucasduartee/setting-up-a-pentest-lab-with-an-android-phone-and-kali-linux-1ack)
-- [Starting TypeScript! Any Tips?](https://dev.to/imrancodes/starting-typescript-any-tips-3mnj)
-- [Data Modeling for Java Developers: Structuring With PostgreSQL and MongoDB](https://dev.to/mongodb/data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb-456l)
-- [A Comprehensive Guide to TikTok API](https://dev.to/scrapfly_dev/a-comprehensive-guide-to-tiktok-api-49f6)
+- [Uma alternativa de processo seletivo para contratar melhores QAs](https://dev.to/talking-about-testing/uma-alternativa-de-processo-seletivo-para-contratar-melhores-qas-1n78)
+- [MQ: How Does It Achieve Peak Shaving and Valley Filling?](https://dev.to/yangguangyong/mq-how-does-it-achieve-peak-shaving-and-valley-filling-jfp)
+- [BS 4790: Method for Determination of the Effect of Small Ignition Sources on Flooring Fabrics](https://dev.to/rebecca_zhang_53170276935/bs-4790-method-for-determination-of-the-effect-of-small-ignition-sources-on-flooring-fabrics-59jf)
+- [Using Trigonometry to create a circle with C++ and OpenGL | Android Game dev](https://dev.to/theplebdev/using-trigonometry-to-create-a-circle-with-c-and-opengl-android-game-dev-3di2)
 <!-- BLOG-POST-LIST:END -->
 
