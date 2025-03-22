@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to containerize a Node.js application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-containerize-a-nodejs-application-1pb2)
-- [How to Check if a Word Exists in a Text Using Python](https://dev.to/cmanish049/check-if-a-word-exists-in-given-text-bj3)
-- [The Bot Assistant??](https://dev.to/phay_vo/the-bot-assistant-3g6o)
-- [Form - Next15/React19/ReactHookForm + Zod + useActionState](https://dev.to/ccslu/forms-en-next15react19-4gmo)
+- [Generate complex passwords by KendoReact](https://dev.to/pranavjana/generate-complex-passwords-by-kendoreact-1lka)
+- [Making an Effective Application Security Programme: Strategies, practices and tools for the best results](https://dev.to/lynxfelony1/making-an-effective-application-security-programme-strategies-practices-and-tools-for-the-best-34h9)
+- [Write Internals and Get CGPA ❌ | Bunk Internals and Win Hackathons ✅ - Our Hack to Crack 2.0 Journey](https://dev.to/47sathwik_sureshshetty_/write-internals-and-get-cgpa-bunk-internals-and-win-hackathons-our-hack-to-crack-20-journey-5d23)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1l6m)
 <!-- BLOG-POST-LIST:END -->
 
