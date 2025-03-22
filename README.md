@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chuẩn Bị Phỏng Vấn Dành Cho Các Bạn Sinh Viên Sắp Tốt Nghiệp Hoặc Fresher Đang Đi Xin Việc!](https://dev.to/thefreepeak/chuan-bi-phong-van-danh-cho-cac-ban-sinh-vien-sap-tot-nghiep-hoac-fresher-dang-di-xin-viec-3e8f)
-- [A Deep Dive into JavaScript Classes: Syntax, Constructors, Fields, and More](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-syntax-constructors-fields-and-more-1dpj)
-- [NestJS with TypeORM and PostgreSQL](https://dev.to/refifauzan/nestjs-with-typeorm-and-postgresql-3466)
-- [AI-Driven DevOps, Cloud Transformation, and Cybersecurity in Project Management](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-devops-cloud-transformation-and-cybersecurity-in-project-management-1g0h)
+- [Instant Share: Simplifying File Sharing Across Devices](https://dev.to/sofia-tech/instant-share-simplifying-file-sharing-across-devices-fn8)
+- [A Personal Tutor &lpar;Powered by AI&rpar;](https://dev.to/baliachbryan/a-personal-tutor-powered-by-ai-28ai)
+- [ParserGenie – AI-Powered Image-to-Text App](https://dev.to/piyush_takrani_e7b2596e0c/parsergenie-ai-powered-image-to-text-app-2281)
+- [Web API vs. XMLHttpRequest in Dynamics 365: Which One To Use?](https://dev.to/nikhildynamicsce/web-api-vs-xmlhttprequest-in-dynamics-365-which-one-to-use-52k2)
 <!-- BLOG-POST-LIST:END -->
 
