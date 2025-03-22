@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes End-to-End project: Using EKS to deploy an app with Ingress](https://dev.to/keneojiteli/kubernetes-end-to-end-project-using-eks-to-deploy-an-app-with-ingress-1in4)
-- [The Invisible Hand: How AI Shapes My Daily Life](https://dev.to/waisnu/the-invisible-hand-how-ai-shapes-my-daily-life-6g3)
-- [Beginner Series #3 Sum of Numbers](https://dev.to/maddiepst/beginner-series-3-sum-of-numbers-2ie)
-- [Re-Evaluating My JourneySkill Idea: New Features for a Better Experience](https://dev.to/ashraful__malik/re-evaluating-my-journeyskill-idea-new-features-for-a-better-experience-2ml7)
+- [How to Build Trust on Your Website - My Go-To Checklist for Authentic, High-Impact Websites](https://dev.to/per-starke-642/how-to-build-trust-on-your-website-my-go-to-checklist-for-authentic-high-impact-websites-2hgb)
+- [AI-Powered TradingView Chart Analysis – No More Screenshots!](https://dev.to/kareee98/ai-powered-tradingview-chart-analysis-no-more-screenshots-5fjl)
+- [Setting Up a Machine Learning Development Environment on Mac](https://dev.to/creative_moon/setting-up-a-machine-learning-development-environment-on-mac-2nal)
+- [Ternyata Selama Ini Saya Fetching Data Tidak Efisien di React](https://dev.to/ferryops/ternyata-selama-ini-saya-fetching-data-tidak-efisien-di-react-57kh)
 <!-- BLOG-POST-LIST:END -->
 
