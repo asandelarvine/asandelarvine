@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Trust on Your Website - My Go-To Checklist for Authentic, High-Impact Websites](https://dev.to/per-starke-642/how-to-build-trust-on-your-website-my-go-to-checklist-for-authentic-high-impact-websites-2hgb)
-- [AI-Powered TradingView Chart Analysis – No More Screenshots!](https://dev.to/kareee98/ai-powered-tradingview-chart-analysis-no-more-screenshots-5fjl)
-- [Setting Up a Machine Learning Development Environment on Mac](https://dev.to/creative_moon/setting-up-a-machine-learning-development-environment-on-mac-2nal)
-- [Ternyata Selama Ini Saya Fetching Data Tidak Efisien di React](https://dev.to/ferryops/ternyata-selama-ini-saya-fetching-data-tidak-efisien-di-react-57kh)
+- [Android Architecture Components: ViewModel, Lifecycle.](https://dev.to/harsh_lade/android-architecture-components-viewmodel-lifecycle-25nl)
+- [Contacts Application with Microservices and Asynchronous Communication with RabbitMQ](https://dev.to/agitrubard/contacts-application-with-microservices-and-asynchronous-communication-with-rabbitmq-2bc1)
+- [Queen Bee Syndrome &amp; Me: Navigating internalised misogyny](https://dev.to/sophiekaelin/what-is-queen-bee-syndrome-14gh)
+- [A Hidden Character Mystery](https://dev.to/abbazs/a-hidden-character-mystery-43d9)
 <!-- BLOG-POST-LIST:END -->
 
