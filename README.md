@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 - What are vectors?](https://dev.to/meclin/1-what-are-vectors-1k9o)
-- [Useful Sites for Privacy and Security](https://dev.to/rubi/useful-sites-for-privacy-and-security-34ll)
-- [Struggling with remote work productivity? Developers often face collaboration issues, unclear workflows, and isolation. This blog dives into the biggest remote work challenges and provides actionable fixes](https://dev.to/nikhil_sachapara/struggling-with-remote-work-productivity-developers-often-face-collaboration-issues-unclear-40k5)
-- [Working remotely as a developer? Balancing productivity, communication, and focus isn’t always easy. This blog breaks down common challenges and offers practical solutions to help you work smarter.](https://dev.to/naik_sejal/working-remotely-as-a-developer-balancing-productivity-communication-and-focus-isnt-always-4n36)
+- [Azure Data Lake Storage](https://dev.to/madgan95/azure-data-lake-storage-5h6)
+- [The second part of my containerization series is here! let&#39;s explore how to deploy containers on Azure](https://dev.to/aghyad/the-second-part-of-my-containerization-series-is-here-lets-explore-how-to-deploy-containers-on-3op6)
+- [How AI is Transforming Lesson Planning for Educators](https://dev.to/academic54/how-ai-is-transforming-lesson-planning-for-educators-2gp8)
+- [Containerization simplified: Part 2.a - Deploying containers to Azure](https://dev.to/aghyad/containerization-simplified-part-2a-deploying-containers-to-azure-1ab4)
 <!-- BLOG-POST-LIST:END -->
 
