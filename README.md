@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Chaos and Kanika&#39;s Cool](https://dev.to/aniruddhaadak/ai-chaos-and-kanikas-cool-4g6m)
-- [The Best AOS &lpar;Animate on Scroll&rpar; Alternative for Fast and Smooth Scroll Animations](https://dev.to/idevgames/the-best-aos-animate-on-scroll-alternative-for-fast-and-smooth-scroll-animations-1haj)
-- [Understanding ChatGPT&#39;s Memory: How AI Remembers &lpar;and Forgets&rpar;](https://dev.to/gervaisamoah/understanding-chatgpts-memory-how-ai-remembers-and-forgets-54f8)
-- [How to Write a Good index.html File](https://dev.to/rogiia/how-to-write-a-good-indexhtml-file-1ajd)
+- [🚀 Type Safety, Tool Management &amp; HTTP Enhancements in Go 1.24](https://dev.to/mx_tech/golang-3m6i)
+- [Revolutionizing Data Access with QueryJinn 🚀](https://dev.to/ajdamiao/revolutionizing-data-access-with-queryjinn-4e61)
+- [Embracing the API Economy – How Integrations Drive Startup Growth](https://dev.to/ai-expert/embracing-the-api-economy-how-integrations-drive-startup-growth-1cok)
+- [Google Vertex RAG Engine with C# .Net](https://dev.to/gunpal5/google-vertex-rag-engine-with-c-net-4e6b)
 <!-- BLOG-POST-LIST:END -->
 
