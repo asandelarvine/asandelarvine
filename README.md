@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙开发：实现AI打字机效果](https://dev.to/abnerming888/hong-meng-kai-fa-shi-xian-aida-zi-ji-xiao-guo-2139)
-- [鸿蒙开发：申请授权权限](https://dev.to/abnerming888/hong-meng-kai-fa-shen-qing-shou-quan-quan-xian-2cp)
-- [鸿蒙开发：权限管理之授权方式](https://dev.to/abnerming888/hong-meng-kai-fa-quan-xian-guan-li-zhi-shou-quan-fang-shi-4i7n)
-- [3d model of the real language](https://dev.to/berrycow/3d-model-of-the-real-language-871)
+- [How LLMs Understand Images: The Secret Behind AI That Sees](https://dev.to/sathish/how-llms-understand-images-the-secret-behind-ai-that-sees-19m5)
+- [7.6 Liste apenas os pontos de todos os usuários com o map](https://dev.to/fundamentosjava/76-liste-apenas-os-pontos-de-todos-os-usuarios-com-o-map-574l)
+- [Introduction to the World of Tetris](https://dev.to/danilo444/introduction-to-the-world-of-tetris-o0p)
+- [My Favorite MCP Directories](https://dev.to/techgirl1908/my-favorite-mcp-directories-573n)
 <!-- BLOG-POST-LIST:END -->
 
