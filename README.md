@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Architecture Components: ViewModel, Lifecycle.](https://dev.to/harsh_lade/android-architecture-components-viewmodel-lifecycle-25nl)
-- [Contacts Application with Microservices and Asynchronous Communication with RabbitMQ](https://dev.to/agitrubard/contacts-application-with-microservices-and-asynchronous-communication-with-rabbitmq-2bc1)
-- [Queen Bee Syndrome &amp; Me: Navigating internalised misogyny](https://dev.to/sophiekaelin/what-is-queen-bee-syndrome-14gh)
-- [A Hidden Character Mystery](https://dev.to/abbazs/a-hidden-character-mystery-43d9)
+- [How to Know if a Platform is Fake/Scam: Protect Yourself from Online Fraud](https://dev.to/wizdomtek/how-to-know-if-a-platform-is-fakescam-protect-yourself-from-online-fraud-20l1)
+- [yaps[dot]chat is better than telegram, whatsapp, messengers. &quot;just refresh to delete&quot;.](https://dev.to/abdibrokhim/yapsdotchat-is-better-than-telegram-whatsapp-messengers-just-refresh-to-delete-1l4o)
+- [Interview Experience at Walmart Global Tech for SWE-III position](https://dev.to/kriti_pare/interview-experience-at-walmart-global-tech-for-swe-iii-position-k95)
+- [DevOps Made Simple: A Beginner’s Guide to DevSecOps in Action - Securing Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-devsecops-in-action-securing-your-cicd-pipeline-39i1)
 <!-- BLOG-POST-LIST:END -->
 
