@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate complex passwords by KendoReact](https://dev.to/pranavjana/generate-complex-passwords-by-kendoreact-1lka)
-- [Making an Effective Application Security Programme: Strategies, practices and tools for the best results](https://dev.to/lynxfelony1/making-an-effective-application-security-programme-strategies-practices-and-tools-for-the-best-34h9)
-- [Write Internals and Get CGPA ❌ | Bunk Internals and Win Hackathons ✅ - Our Hack to Crack 2.0 Journey](https://dev.to/47sathwik_sureshshetty_/write-internals-and-get-cgpa-bunk-internals-and-win-hackathons-our-hack-to-crack-20-journey-5d23)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1l6m)
+- [Why Wait? JavaScript Asynchronous Code](https://dev.to/lovestaco/why-wait-javascript-asynchronous-code-307o)
+- [How to Detect AdBlock/AdBlockPlus Activation Status with JavaScript](https://dev.to/kai000/how-to-detect-adblockadblockplus-activation-status-with-javascript-3fad)
+- [GraphQL + NestJS + Interfaces &amp; Unions](https://dev.to/kasir-barati/graphql-nestjs-interfaces-unions-3794)
+- [2685. Count the Number of Complete Components](https://dev.to/mdarifulhaque/2685-count-the-number-of-complete-components-1j33)
 <!-- BLOG-POST-LIST:END -->
 
