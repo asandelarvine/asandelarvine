@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Impact of Proxies in Process Mining](https://dev.to/swiftproxy_residential/exploring-the-impact-of-proxies-in-process-mining-g6i)
-- [[Boost]](https://dev.to/duplessisvanaswegen/-77m)
-- [What You Need to Know About HTTP Cookies](https://dev.to/swiftproxy_residential/what-you-need-to-know-about-http-cookies-4jce)
-- [A Comprehensive Guide to Developing a Massage Therapist Booking App](https://dev.to/simonharris/a-comprehensive-guide-to-developing-a-massage-therapist-booking-app-1bge)
+- [Day 1 - What are vectors?](https://dev.to/meclin/1-what-are-vectors-1k9o)
+- [Useful Sites for Privacy and Security](https://dev.to/rubi/useful-sites-for-privacy-and-security-34ll)
+- [Struggling with remote work productivity? Developers often face collaboration issues, unclear workflows, and isolation. This blog dives into the biggest remote work challenges and provides actionable fixes](https://dev.to/nikhil_sachapara/struggling-with-remote-work-productivity-developers-often-face-collaboration-issues-unclear-40k5)
+- [Working remotely as a developer? Balancing productivity, communication, and focus isn’t always easy. This blog breaks down common challenges and offers practical solutions to help you work smarter.](https://dev.to/naik_sejal/working-remotely-as-a-developer-balancing-productivity-communication-and-focus-isnt-always-4n36)
 <!-- BLOG-POST-LIST:END -->
 
