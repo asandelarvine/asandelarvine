@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 RootAlert - Real-time Exception Tracking &amp; Alerting for .NET on Slack &amp; Teams](https://dev.to/satsvelke/rootalert-real-time-exception-tracking-alerting-for-net-on-slack-teams-1edh)
-- [Introducing AWS Service Reference Information MCP Server](https://dev.to/aws-builders/introducing-aws-service-reference-information-mcp-server-15g5)
-- [Blogging Tools](https://dev.to/vakin_mosa_009/blogging-tools-3l2j)
-- [Digital Clocks in CSS](https://dev.to/madsstoumann/digital-clocks-in-css-3dkg)
+- [Hello Community](https://dev.to/techie_chief/hello-community-2k33)
+- [&quot;Argo CD: A GitOps Tool for Kubernetes Continuous Deployment&quot;](https://dev.to/soram/argo-cd-a-gitops-tool-for-kubernetes-continuous-deployment-3d2k)
+- [La Colaboración de Agentes Inteligentes en Amazon Bedrock - Automatización Inteligente y Escalable](https://dev.to/exiadev/la-colaboracion-de-agentes-inteligentes-en-amazon-bedrock-automatizacion-inteligente-y-escalable-59gn)
+- [more efficient Calculator in Java](https://dev.to/aafthab_ali/more-efficient-calculator-in-java-271a)
 <!-- BLOG-POST-LIST:END -->
 
