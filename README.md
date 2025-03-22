@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Graph Databases: Efficient Techniques for Connected Data Analysis](https://dev.to/aaravjoshi/python-graph-databases-efficient-techniques-for-connected-data-analysis-h6m)
-- [An application to view and manage saved WiFi networks on the Windows operating system.](https://dev.to/tv31415/an-application-to-view-and-manage-saved-wifi-networks-on-the-windows-operating-system-54kc)
-- [How Cursor Editor Helped Me Revive a Laravel Package After 7 Years](https://dev.to/alihesari/how-cursor-editor-helped-me-revive-a-laravel-package-after-7-years-kl0)
-- [🚀 Docker vs Kubernetes: Which One Do You Really Need in 2025?](https://dev.to/dct_technologyprivatelimited/docker-vs-kubernetes-which-one-do-you-really-need-in-2025-50mb)
+- [Mama, ooh, I am not AI](https://dev.to/placetobejohan/mama-ooh-i-am-not-ai-4aji)
+- [Google Cloud Unveils A4 VMs with NVIDIA Blackwell GPUs for AI](https://dev.to/ssojet/google-cloud-unveils-a4-vms-with-nvidia-blackwell-gpus-for-ai-3fp0)
+- [Dimensional Rift: A Horror VHS Glitch Experience](https://dev.to/alansdead/dimensional-rift-a-horror-vhs-glitch-experience-2gdm)
+- [Balancing AI and Developer Skills: How I Keep Growing in a Changing Tech World](https://dev.to/cbanlawi/balancing-ai-and-developer-skills-how-i-keep-growing-in-a-changing-tech-world-37d5)
 <!-- BLOG-POST-LIST:END -->
 
