@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Data Lake Storage](https://dev.to/madgan95/azure-data-lake-storage-5h6)
-- [The second part of my containerization series is here! let&#39;s explore how to deploy containers on Azure](https://dev.to/aghyad/the-second-part-of-my-containerization-series-is-here-lets-explore-how-to-deploy-containers-on-3op6)
-- [How AI is Transforming Lesson Planning for Educators](https://dev.to/academic54/how-ai-is-transforming-lesson-planning-for-educators-2gp8)
-- [Containerization simplified: Part 2.a - Deploying containers to Azure](https://dev.to/aghyad/containerization-simplified-part-2a-deploying-containers-to-azure-1ab4)
+- [Python Graph Databases: Efficient Techniques for Connected Data Analysis](https://dev.to/aaravjoshi/python-graph-databases-efficient-techniques-for-connected-data-analysis-h6m)
+- [An application to view and manage saved WiFi networks on the Windows operating system.](https://dev.to/tv31415/an-application-to-view-and-manage-saved-wifi-networks-on-the-windows-operating-system-54kc)
+- [How Cursor Editor Helped Me Revive a Laravel Package After 7 Years](https://dev.to/alihesari/how-cursor-editor-helped-me-revive-a-laravel-package-after-7-years-kl0)
+- [🚀 Docker vs Kubernetes: Which One Do You Really Need in 2025?](https://dev.to/dct_technologyprivatelimited/docker-vs-kubernetes-which-one-do-you-really-need-in-2025-50mb)
 <!-- BLOG-POST-LIST:END -->
 
