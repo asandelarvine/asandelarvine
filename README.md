@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Wait? JavaScript Asynchronous Code](https://dev.to/lovestaco/why-wait-javascript-asynchronous-code-307o)
-- [How to Detect AdBlock/AdBlockPlus Activation Status with JavaScript](https://dev.to/kai000/how-to-detect-adblockadblockplus-activation-status-with-javascript-3fad)
-- [GraphQL + NestJS + Interfaces &amp; Unions](https://dev.to/kasir-barati/graphql-nestjs-interfaces-unions-3794)
-- [2685. Count the Number of Complete Components](https://dev.to/mdarifulhaque/2685-count-the-number-of-complete-components-1j33)
+- [Chuẩn Bị Phỏng Vấn Dành Cho Các Bạn Sinh Viên Sắp Tốt Nghiệp Hoặc Fresher Đang Đi Xin Việc!](https://dev.to/thefreepeak/chuan-bi-phong-van-danh-cho-cac-ban-sinh-vien-sap-tot-nghiep-hoac-fresher-dang-di-xin-viec-3e8f)
+- [A Deep Dive into JavaScript Classes: Syntax, Constructors, Fields, and More](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-syntax-constructors-fields-and-more-1dpj)
+- [NestJS with TypeORM and PostgreSQL](https://dev.to/refifauzan/nestjs-with-typeorm-and-postgresql-3466)
+- [AI-Driven DevOps, Cloud Transformation, and Cybersecurity in Project Management](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-devops-cloud-transformation-and-cybersecurity-in-project-management-1g0h)
 <!-- BLOG-POST-LIST:END -->
 
