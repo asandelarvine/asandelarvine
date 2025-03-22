@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Community](https://dev.to/techie_chief/hello-community-2k33)
-- [&quot;Argo CD: A GitOps Tool for Kubernetes Continuous Deployment&quot;](https://dev.to/soram/argo-cd-a-gitops-tool-for-kubernetes-continuous-deployment-3d2k)
-- [La Colaboración de Agentes Inteligentes en Amazon Bedrock - Automatización Inteligente y Escalable](https://dev.to/exiadev/la-colaboracion-de-agentes-inteligentes-en-amazon-bedrock-automatizacion-inteligente-y-escalable-59gn)
-- [more efficient Calculator in Java](https://dev.to/aafthab_ali/more-efficient-calculator-in-java-271a)
+- [How to containerize a Node.js application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-containerize-a-nodejs-application-1pb2)
+- [How to Check if a Word Exists in a Text Using Python](https://dev.to/cmanish049/check-if-a-word-exists-in-given-text-bj3)
+- [The Bot Assistant??](https://dev.to/phay_vo/the-bot-assistant-3g6o)
+- [Form - Next15/React19/ReactHookForm + Zod + useActionState](https://dev.to/ccslu/forms-en-next15react19-4gmo)
 <!-- BLOG-POST-LIST:END -->
 
