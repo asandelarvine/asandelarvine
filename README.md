@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Instant Share: Simplifying File Sharing Across Devices](https://dev.to/sofia-tech/instant-share-simplifying-file-sharing-across-devices-fn8)
-- [A Personal Tutor &lpar;Powered by AI&rpar;](https://dev.to/baliachbryan/a-personal-tutor-powered-by-ai-28ai)
-- [ParserGenie – AI-Powered Image-to-Text App](https://dev.to/piyush_takrani_e7b2596e0c/parsergenie-ai-powered-image-to-text-app-2281)
-- [Web API vs. XMLHttpRequest in Dynamics 365: Which One To Use?](https://dev.to/nikhildynamicsce/web-api-vs-xmlhttprequest-in-dynamics-365-which-one-to-use-52k2)
+- [Composite Types in Go: Arrays, Slices, Maps, Structs, JSON, and Templates](https://dev.to/l_walid/composite-types-in-go-arrays-slices-maps-structs-json-and-templates-894)
+- [Deloy Next or React App to VPS](https://dev.to/abdulsalamamtech/deloy-next-or-react-app-to-vps-2ald)
+- [Mac Dev Environment Automation: From Reset to Ready in 5 Minutes](https://dev.to/lico/mac-dev-environment-automation-from-reset-to-ready-in-5-minutes-3b1e)
+- [Buenas prácticas para escribir commits en Git con Conventional Commits](https://dev.to/johnserranodev/buenas-practicas-para-escribir-commits-en-git-con-conventional-commits-44jm)
 <!-- BLOG-POST-LIST:END -->
 
