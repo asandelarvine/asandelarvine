@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Cache vs Semantic Cache en AI Agentics: ¿Cuál usar y cuándo?](https://dev.to/exiadev/memory-cache-vs-semantic-cache-en-ai-agentics-cual-usar-y-cuando-3e4n)
-- [Daily JavaScript Challenge #JS-132: Find Majority Element in an Array](https://dev.to/dpc/daily-javascript-challenge-js-132-find-majority-element-in-an-array-2fj)
-- [Signals in Python: How reaktiv brings Feline Reflexes to Your Backend Code](https://dev.to/buiapp/signals-in-python-how-reaktiv-brings-feline-reflexes-to-your-backend-code-1m8b)
-- [Cómo hacer un buen Makefile](https://dev.to/djsurgeon/como-hacer-un-buen-makefile-2pol)
+- [鸿蒙开发：实现AI打字机效果](https://dev.to/abnerming888/hong-meng-kai-fa-shi-xian-aida-zi-ji-xiao-guo-2139)
+- [鸿蒙开发：申请授权权限](https://dev.to/abnerming888/hong-meng-kai-fa-shen-qing-shou-quan-quan-xian-2cp)
+- [鸿蒙开发：权限管理之授权方式](https://dev.to/abnerming888/hong-meng-kai-fa-quan-xian-guan-li-zhi-shou-quan-fang-shi-4i7n)
+- [3d model of the real language](https://dev.to/berrycow/3d-model-of-the-real-language-871)
 <!-- BLOG-POST-LIST:END -->
 
