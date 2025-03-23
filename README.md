@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙Next开发入门教程--公历日期转农历日期](https://dev.to/youlanjihua/hong-meng-nextkai-fa-ru-men-jiao-cheng-gong-li-ri-qi-zhuan-nong-li-ri-qi-15c4)
-- [在鸿蒙Next中开发一个底部选项弹窗](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-kai-fa-ge-di-bu-xuan-xiang-dan-chuang-1mal)
-- [The 5 Most Popular Node.js Web Frameworks in 2025](https://dev.to/leapcell/the-5-most-popular-nodejs-web-frameworks-in-2025-12po)
-- [Building a Scalable USSD Banking Solution for a Bank](https://dev.to/korirmoze/building-a-scalable-ussd-banking-solution-for-a-bank-19e7)
+- [Open/Closed Principle in C#: Making Your Code Flexible Without Breaking Stuff](https://dev.to/sathish/openclosed-principle-in-c-making-your-code-flexible-without-breaking-stuff-3oof)
+- [Best AI and ML Certification Programs Online: A Comprehensive Guide for Aspiring Professionals](https://dev.to/vikas76/best-ai-and-ml-certification-programs-online-a-comprehensive-guide-for-aspiring-professionals-3een)
+- [在鸿蒙NEXT中实现完全自定义导航栏](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-shi-xian-wan-quan-zi-ding-yi-dao-hang-lan-1dma)
+- [HarmonyOS NEXT开发实战教程--招聘app](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-zhao-pin-app-3e57)
 <!-- BLOG-POST-LIST:END -->
 
