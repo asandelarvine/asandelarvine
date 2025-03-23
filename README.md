@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Basics of Machine Learning with Python](https://dev.to/million_formula_3be3d915d/understanding-the-basics-of-machine-learning-with-python-3f75)
-- [Smart Dashboard: AI-Powered Insights &amp; Team Collaboration](https://dev.to/viswanthan_ss_a97e4276d1/smart-dashboard-ai-powered-insights-team-collaboration-25fe)
-- [Join the 7-Day Web Dev Challenge Series: Build, Learn, and Level-Up Your Skills!](https://dev.to/project-verse/join-the-7-day-web-dev-challenge-series-build-learn-and-level-up-your-skills-1gfm)
-- [Join the Fastest-Growing Developer Community](https://dev.to/coderlegi0n/join-the-fastest-growing-developer-community-4e34)
+- [10 more Awesome Resources for Devs](https://dev.to/mfm347/10-awesome-resources-for-devs-17l3)
+- [Personal Picks: Data Product News &lpar;March 19, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-march-19-2025-7f2)
+- [Js Basics](https://dev.to/ahmad_abduljeleel_a69309c/js-basics-4o8g)
+- [[Boost]](https://dev.to/ahmad_abduljeleel_a69309c/-4a3c)
 <!-- BLOG-POST-LIST:END -->
 
