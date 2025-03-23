@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Aliases and ChatGPT to Help You Code or Solve Project Problems](https://dev.to/flavioespinoza/al-aliases-756)
-- [Async Generators and For-Await-Of Loop](https://dev.to/omriluz1/async-generators-and-for-await-of-loop-1dk9)
-- [Nike Airforce](https://dev.to/abdullah_ba6ed63b8aa61d6e/nike-airforce-7oa)
-- [Notes from course: Generative AI with Large Language Models - Week 3](https://dev.to/valyouw/notes-from-course-generative-ai-with-large-language-models-week-3-4ao)
+- [🚀 From Sci-Fi to Theme Parks : Our Favourite Robots Are Coming to Life! 🤖💙](https://dev.to/tejas2292/from-sci-fi-to-theme-parks-our-favourite-robots-are-coming-to-life-1p9j)
+- [Passo a Passo: Configuração do WSL para DevOps e SRE no Windows](https://dev.to/thorhexsec/passo-a-passo-configuracao-do-wsl-para-devops-e-sre-no-windows-48cf)
+- [Bridging Java and AI Systems with Model Integration Protocol](https://dev.to/vishalmysore/bridging-java-and-ai-systems-with-model-integration-protocol-3chd)
+- [Goodbye JSON - Hello Protobuf: a more robust alternative](https://dev.to/jacopo/goodbye-json-hello-protobuf-a-more-robust-alternative-5bbm)
 <!-- BLOG-POST-LIST:END -->
 
