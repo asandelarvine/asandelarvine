@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 more Awesome Resources for Devs](https://dev.to/mfm347/10-awesome-resources-for-devs-17l3)
-- [Personal Picks: Data Product News &lpar;March 19, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-march-19-2025-7f2)
-- [Js Basics](https://dev.to/ahmad_abduljeleel_a69309c/js-basics-4o8g)
-- [[Boost]](https://dev.to/ahmad_abduljeleel_a69309c/-4a3c)
+- [How Secure Is Your Smartphone? 5 Simple Ways to Protect Your Mobile Device](https://dev.to/wizdomtek/how-secure-is-your-smartphone-5-simple-ways-to-protect-your-mobile-device-2cd7)
+- [LINQ - methods](https://dev.to/sunnat_qayumov/linq-methods-1b1b)
+- [IntelliGrid: AI KendoReact Pricing Grid generator 🤖](https://dev.to/ion_finisher/intelligrid-ai-kendoreact-pricing-grid-generator-1jn0)
+- [itertools](https://dev.to/johnsone_emett_c5c2b56a4a/itertools-14mp)
 <!-- BLOG-POST-LIST:END -->
 
