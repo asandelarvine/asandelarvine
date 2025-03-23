@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI and the Need for SVG to PNG Conversion](https://dev.to/cz_f0e935d1943be/the-rise-of-ai-and-the-need-for-svg-to-png-conversion-mli)
-- [Opensource Pose Detection Demo](https://dev.to/cz_f0e935d1943be/opensource-pose-detection-demo-3od2)
-- [Layer by Layer: The OSI Model: Layer 3](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-2-hf0)
-- [Mind Tracker: Your Personal Mental Health Journal](https://dev.to/aniruddhaadak/mind-tracker-your-personal-mental-health-journal-22go)
+- [Unlocking the Power of Delta Lake UNIFORM in Databricks](https://dev.to/anil_kumarmoka_f93e418d0/unlocking-the-power-of-delta-lake-uniform-in-databricks-297f)
+- [🔥 3 - Laravel 10 JWT Authentication: Secure Login &amp; API Tokens 🔐](https://dev.to/skipperhoa/3-laravel-10-jwt-authentication-secure-login-api-tokens-2o47)
+- [🔥 2 - Laravel Breeze: Easy Authentication Setup &lpar;Login &amp; Register&rpar;](https://dev.to/skipperhoa/2-laravel-breeze-easy-authentication-setup-login-register-g6n)
+- [Anthropic’s Claude Computer Use: A Game Changer in AI](https://dev.to/jetthoughts/anthropics-claude-computer-use-a-game-changer-in-ai-3ihp)
 <!-- BLOG-POST-LIST:END -->
 
