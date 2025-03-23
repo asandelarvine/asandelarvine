@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Sci-Fi to Theme Parks : Our Favourite Robots Are Coming to Life! 🤖💙](https://dev.to/tejas2292/from-sci-fi-to-theme-parks-our-favourite-robots-are-coming-to-life-1p9j)
-- [Passo a Passo: Configuração do WSL para DevOps e SRE no Windows](https://dev.to/thorhexsec/passo-a-passo-configuracao-do-wsl-para-devops-e-sre-no-windows-48cf)
-- [Bridging Java and AI Systems with Model Integration Protocol](https://dev.to/vishalmysore/bridging-java-and-ai-systems-with-model-integration-protocol-3chd)
-- [Goodbye JSON - Hello Protobuf: a more robust alternative](https://dev.to/jacopo/goodbye-json-hello-protobuf-a-more-robust-alternative-5bbm)
+- [The essential guide to installing Amazon Q Developer CLI on Linux &lpar;headless and desktop&rpar;](https://dev.to/aws/the-essential-guide-to-installing-amazon-q-developer-cli-on-linux-headless-and-desktop-3bo7)
+- [Using Cloudflare AI Models with PHP](https://dev.to/edgaras/using-cloudflare-ai-models-with-php-2oh9)
+- [FastFill – My First Open-Source Project! A Text Snippet Manager for Windows](https://dev.to/paulk68/fastfill-my-first-open-source-project-a-text-snippet-manager-for-windows-5664)
+- [On Surviving Difficult Managers](https://dev.to/imtiaz101325/on-surviving-difficult-managers-5dom)
 <!-- BLOG-POST-LIST:END -->
 
