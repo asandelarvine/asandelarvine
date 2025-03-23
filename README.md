@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Financial Data Analysis with AWS: A Step-by-Step Guide](https://dev.to/alexcurtis1969/building-financial-data-analysis-with-aws-a-step-by-step-guide-2je4)
-- [The Technology Behind AI-Powered Fake ID Scanners](https://dev.to/idgodcx/the-technology-behind-ai-powered-fake-id-scanners-1nbl)
-- [Building AWS Lambda Functions](https://dev.to/aws-builders/building-aws-lambda-functions-ogb)
-- [🐍 I Love Python, But It’s a Pain at Scale](https://dev.to/criscmd/i-love-python-but-its-a-pain-at-scale-1ng7)
+- [Rust Async Programming: Parallelism with join! vs select!](https://dev.to/leapcell/rust-async-programming-parallelism-with-join-vs-select-3l4b)
+- [10 Game Development Tips Every Beginner Should Know](https://dev.to/alok_krishali/10-game-development-tips-every-beginner-should-know-5ghd)
+- [1976. Number of Ways to Arrive at Destination](https://dev.to/mdarifulhaque/1976-number-of-ways-to-arrive-at-destination-516g)
+- [What is HarmonyOS NEXT - Page Router?](https://dev.to/victordeng/what-is-harmonyos-next-page-router-40io)
 <!-- BLOG-POST-LIST:END -->
 
