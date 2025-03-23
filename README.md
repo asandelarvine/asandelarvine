@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task Management Dashboard](https://dev.to/ravi_rajput/task-management-dashboard-3847)
-- [A Simple Tool to Convert Images to Base64 Strings](https://dev.to/kobusbredell/a-simple-tool-to-convert-images-to-base64-strings-3ii1)
-- [JavaScript Generators and Iterator Protocol](https://dev.to/omriluz1/javascript-generators-and-iterator-protocol-4fej)
-- [Different Methods to Generate Random Numbers &lpar;RNG&rpar;](https://dev.to/babynamenestlings_efe5ba9/different-methods-to-generate-random-numbers-rng-5dk8)
+- [鸿蒙Next开发入门教程--公历日期转农历日期](https://dev.to/youlanjihua/hong-meng-nextkai-fa-ru-men-jiao-cheng-gong-li-ri-qi-zhuan-nong-li-ri-qi-15c4)
+- [在鸿蒙Next中开发一个底部选项弹窗](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-kai-fa-ge-di-bu-xuan-xiang-dan-chuang-1mal)
+- [The 5 Most Popular Node.js Web Frameworks in 2025](https://dev.to/leapcell/the-5-most-popular-nodejs-web-frameworks-in-2025-12po)
+- [Building a Scalable USSD Banking Solution for a Bank](https://dev.to/korirmoze/building-a-scalable-ussd-banking-solution-for-a-bank-19e7)
 <!-- BLOG-POST-LIST:END -->
 
