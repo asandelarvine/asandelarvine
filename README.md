@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Skillcrush 105: Introducing Version Control &amp; Git](https://dev.to/theoriginalbpc/skillcrush-105-introducing-version-control-git-2c0i)
-- [[Boost]](https://dev.to/lovestaco/-4jkn)
-- [Static Site Generator - 11ty v3 tutorial](https://dev.to/climentea/11ty-static-site-generator-tutorial-11ty-v3-15g3)
-- [Day 1: Laying the Foundation for My DSA Visualizer](https://dev.to/shravan250/day-1-laying-the-foundation-for-my-dsa-visualizer-1en7)
+- [Building Financial Data Analysis with AWS: A Step-by-Step Guide](https://dev.to/alexcurtis1969/building-financial-data-analysis-with-aws-a-step-by-step-guide-2je4)
+- [The Technology Behind AI-Powered Fake ID Scanners](https://dev.to/idgodcx/the-technology-behind-ai-powered-fake-id-scanners-1nbl)
+- [Building AWS Lambda Functions](https://dev.to/aws-builders/building-aws-lambda-functions-ogb)
+- [🐍 I Love Python, But It’s a Pain at Scale](https://dev.to/criscmd/i-love-python-but-its-a-pain-at-scale-1ng7)
 <!-- BLOG-POST-LIST:END -->
 
