@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open/Closed Principle in C#: Making Your Code Flexible Without Breaking Stuff](https://dev.to/sathish/openclosed-principle-in-c-making-your-code-flexible-without-breaking-stuff-3oof)
-- [Best AI and ML Certification Programs Online: A Comprehensive Guide for Aspiring Professionals](https://dev.to/vikas76/best-ai-and-ml-certification-programs-online-a-comprehensive-guide-for-aspiring-professionals-3een)
-- [在鸿蒙NEXT中实现完全自定义导航栏](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-shi-xian-wan-quan-zi-ding-yi-dao-hang-lan-1dma)
-- [HarmonyOS NEXT开发实战教程--招聘app](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-zhao-pin-app-3e57)
+- [Integrate Google AdSense in NextJs](https://dev.to/devwhirl/integrate-google-adsense-in-nextjs-4a2b)
+- [The MCP Trap: Is the &quot;Open Source&quot; MCP Exploiting AI Developers?](https://dev.to/internationale/the-mcp-trap-is-the-open-source-mcp-exploiting-ai-developers-53bn)
+- [Standard ML idiosyncrasies](https://dev.to/bitmaybewise/standard-ml-idiosyncrasies-5ehj)
+- [Fun with Words: How an Incorrect Quotes Generator Can Boost Your Creativity](https://dev.to/codifyformatter/fun-with-words-how-an-incorrect-quotes-generator-can-boost-your-creativity-4j7i)
 <!-- BLOG-POST-LIST:END -->
 
