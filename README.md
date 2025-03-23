@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The essential guide to installing Amazon Q Developer CLI on Linux &lpar;headless and desktop&rpar;](https://dev.to/aws/the-essential-guide-to-installing-amazon-q-developer-cli-on-linux-headless-and-desktop-3bo7)
-- [Using Cloudflare AI Models with PHP](https://dev.to/edgaras/using-cloudflare-ai-models-with-php-2oh9)
-- [FastFill – My First Open-Source Project! A Text Snippet Manager for Windows](https://dev.to/paulk68/fastfill-my-first-open-source-project-a-text-snippet-manager-for-windows-5664)
-- [On Surviving Difficult Managers](https://dev.to/imtiaz101325/on-surviving-difficult-managers-5dom)
+- [how actually react works behind the scenes](https://dev.to/3o2kmpcodes/how-actually-react-works-behind-the-scenes-50hj)
+- [Tired of losing your cursor when switching tabs in VSCode? Meet Cursorghost 👻](https://dev.to/kupumaru21/tired-of-losing-your-cursor-when-switching-tabs-in-vscode-meet-cursorghost-23ni)
+- [Flash Learning- a platform for users learn and thereafter take a Quiz](https://dev.to/aliyualbako/flash-learning-a-platform-for-users-learn-and-thereafter-take-a-quiz-1f1j)
+- [Building Robust React Apps with Zustand and Immer](https://dev.to/gicrisf/building-robust-react-apps-with-zustand-and-immer-482m)
 <!-- BLOG-POST-LIST:END -->
 
