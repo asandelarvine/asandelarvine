@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Google AdSense in NextJs](https://dev.to/devwhirl/integrate-google-adsense-in-nextjs-4a2b)
-- [The MCP Trap: Is the &quot;Open Source&quot; MCP Exploiting AI Developers?](https://dev.to/internationale/the-mcp-trap-is-the-open-source-mcp-exploiting-ai-developers-53bn)
-- [Standard ML idiosyncrasies](https://dev.to/bitmaybewise/standard-ml-idiosyncrasies-5ehj)
-- [Fun with Words: How an Incorrect Quotes Generator Can Boost Your Creativity](https://dev.to/codifyformatter/fun-with-words-how-an-incorrect-quotes-generator-can-boost-your-creativity-4j7i)
+- [Simplify Java and SpringBoot migration with OpenRewrite](https://dev.to/hgky95/simplify-java-and-springboot-migration-with-openrewrite-g3d)
+- [Enhancing Golang Applications with Comprehensive Observability](https://dev.to/vaidehi_adhi_84b623a30da7/enhancing-golang-applications-with-comprehensive-observability-17m1)
+- [Hyponitic illusion using the core javascript.](https://dev.to/prince_beec5ccde00b7c6c73/hyponitic-illusion-using-the-core-javascript-3ckh)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2p9e)
 <!-- BLOG-POST-LIST:END -->
 
