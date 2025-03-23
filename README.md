@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming in Node.js](https://dev.to/godofgeeks/asynchronous-programming-in-nodejs-2744)
-- [Neural DSL v0.2.4: Automatic Shape Propagation and More](https://dev.to/neural/neural-dsl-v024-automatic-shape-propagation-and-more-ol1)
-- [Gamification in eLearning: How to Make Education Addictive Like a Game](https://dev.to/okoye_ndidiamaka_5e3b7d30/gamification-in-elearning-how-to-make-education-addictive-like-a-game-1lal)
-- [Best Flutter Weather Icons Pack](https://dev.to/masumparvej/best-flutter-weather-icons-pack-1h5m)
+- [Task Management Dashboard](https://dev.to/ravi_rajput/task-management-dashboard-3847)
+- [A Simple Tool to Convert Images to Base64 Strings](https://dev.to/kobusbredell/a-simple-tool-to-convert-images-to-base64-strings-3ii1)
+- [JavaScript Generators and Iterator Protocol](https://dev.to/omriluz1/javascript-generators-and-iterator-protocol-4fej)
+- [Different Methods to Generate Random Numbers &lpar;RNG&rpar;](https://dev.to/babynamenestlings_efe5ba9/different-methods-to-generate-random-numbers-rng-5dk8)
 <!-- BLOG-POST-LIST:END -->
 
