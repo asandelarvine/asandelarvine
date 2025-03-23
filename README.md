@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Wealth: The CTO’s Hidden Advantage in Legacy Systems](https://dev.to/karoriwal/technical-wealth-the-ctos-hidden-advantage-in-legacy-systems-db)
-- [鸿蒙NEXT开发实战教程：仿抖音短视频](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-jiao-cheng-fang-dou-yin-duan-shi-pin-2ici)
-- [HarmonyOS NEXT开发实战案例--圆盘](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-an-li-yuan-pan-2jh8)
-- [HarmonyOS NEXT开发实战教程—搜索页](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-sou-suo-ye-3p2d)
+- [Understanding Cascading in CSS](https://dev.to/nanisamireddy/understanding-cascading-in-css-2n60)
+- [HarmonyOS NEXT数据列表加载更多&lpar;无需监听列表滑到最底部&rpar;](https://dev.to/yohuo/harmonyos-nextshu-ju-lie-biao-jia-zai-geng-duo-wu-xu-jian-ting-lie-biao-hua-dao-zui-di-bu--oj4)
+- [HarmonyOS NEXT多环境+多渠道+自定义路径输出+自定义名称一键打app和hap包](https://dev.to/yohuo/harmonyos-nextduo-huan-jing-duo-qu-dao-zi-ding-yi-lu-jing-shu-chu-zi-ding-yi-ming-cheng-jian-da-apphe-hapbao-353f)
+- [How to Set Up VS Code for C# Development to Build a Console and Web App](https://dev.to/ibrahimbioabu/how-to-set-up-vs-code-for-c-development-to-build-a-console-and-web-app-7l5)
 <!-- BLOG-POST-LIST:END -->
 
