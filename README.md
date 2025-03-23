@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Delta Lake UNIFORM in Databricks](https://dev.to/anil_kumarmoka_f93e418d0/unlocking-the-power-of-delta-lake-uniform-in-databricks-297f)
-- [🔥 3 - Laravel 10 JWT Authentication: Secure Login &amp; API Tokens 🔐](https://dev.to/skipperhoa/3-laravel-10-jwt-authentication-secure-login-api-tokens-2o47)
-- [🔥 2 - Laravel Breeze: Easy Authentication Setup &lpar;Login &amp; Register&rpar;](https://dev.to/skipperhoa/2-laravel-breeze-easy-authentication-setup-login-register-g6n)
-- [Anthropic’s Claude Computer Use: A Game Changer in AI](https://dev.to/jetthoughts/anthropics-claude-computer-use-a-game-changer-in-ai-3ihp)
+- [Understanding the Basics of Machine Learning with Python](https://dev.to/million_formula_3be3d915d/understanding-the-basics-of-machine-learning-with-python-3f75)
+- [Smart Dashboard: AI-Powered Insights &amp; Team Collaboration](https://dev.to/viswanthan_ss_a97e4276d1/smart-dashboard-ai-powered-insights-team-collaboration-25fe)
+- [Join the 7-Day Web Dev Challenge Series: Build, Learn, and Level-Up Your Skills!](https://dev.to/project-verse/join-the-7-day-web-dev-challenge-series-build-learn-and-level-up-your-skills-1gfm)
+- [Join the Fastest-Growing Developer Community](https://dev.to/coderlegi0n/join-the-fastest-growing-developer-community-4e34)
 <!-- BLOG-POST-LIST:END -->
 
