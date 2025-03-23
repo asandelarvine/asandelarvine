@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Secure Is Your Smartphone? 5 Simple Ways to Protect Your Mobile Device](https://dev.to/wizdomtek/how-secure-is-your-smartphone-5-simple-ways-to-protect-your-mobile-device-2cd7)
-- [LINQ - methods](https://dev.to/sunnat_qayumov/linq-methods-1b1b)
-- [IntelliGrid: AI KendoReact Pricing Grid generator 🤖](https://dev.to/ion_finisher/intelligrid-ai-kendoreact-pricing-grid-generator-1jn0)
-- [itertools](https://dev.to/johnsone_emett_c5c2b56a4a/itertools-14mp)
+- [Asynchronous Programming in Node.js](https://dev.to/godofgeeks/asynchronous-programming-in-nodejs-2744)
+- [Neural DSL v0.2.4: Automatic Shape Propagation and More](https://dev.to/neural/neural-dsl-v024-automatic-shape-propagation-and-more-ol1)
+- [Gamification in eLearning: How to Make Education Addictive Like a Game](https://dev.to/okoye_ndidiamaka_5e3b7d30/gamification-in-elearning-how-to-make-education-addictive-like-a-game-1lal)
+- [Best Flutter Weather Icons Pack](https://dev.to/masumparvej/best-flutter-weather-icons-pack-1h5m)
 <!-- BLOG-POST-LIST:END -->
 
