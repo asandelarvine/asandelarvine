@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs. TanStack, rsdoctor for rspack, OpenAI o1&#39;s pricing problem, and more](https://dev.to/thisweekinjavascript/nextjs-vs-tanstack-rsdoctor-for-rspack-openai-o1s-pricing-problem-and-more-1ech)
-- [Updating the UI for orientation changes with C++ android OpenGL | Android game dev](https://dev.to/theplebdev/updating-the-ui-for-orientation-changes-with-c-android-opengl-android-game-dev-42gh)
-- [Firebase Cloud functions](https://dev.to/buildandcodewithraman/firebase-cloud-functions-2fbo)
-- [In search of a BigQuery agent in LangChain, I built a Toolkit that acts as a BigQuery agent for Text-to-SQL.](https://dev.to/redoc28/in-search-of-a-bigquery-agent-in-langchain-i-built-a-toolkit-that-acts-as-a-bigquery-agent-for-1d62)
+- [🚀 Will $XRP Hit $1,000 if Ripple Partners With SWIFT? 🔄](https://dev.to/sergi_web3/will-xrp-hit-1000-if-ripple-partners-with-swift-4gbi)
+- [Optimizing Atlas Search Indexes with Views](https://dev.to/joe_nyirenda/optimizing-atlas-search-indexes-with-views-4ogp)
+- [12 Tools That Give Smart Developers an Unfair Advantage](https://dev.to/dipraj_girase_/12-tools-that-give-smart-developers-an-unfair-advantage-1l16)
+- [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
 <!-- BLOG-POST-LIST:END -->
 
