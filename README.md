@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Will $XRP Hit $1,000 if Ripple Partners With SWIFT? 🔄](https://dev.to/sergi_web3/will-xrp-hit-1000-if-ripple-partners-with-swift-4gbi)
-- [Optimizing Atlas Search Indexes with Views](https://dev.to/joe_nyirenda/optimizing-atlas-search-indexes-with-views-4ogp)
-- [12 Tools That Give Smart Developers an Unfair Advantage](https://dev.to/dipraj_girase_/12-tools-that-give-smart-developers-an-unfair-advantage-1l16)
-- [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
+- [AI Aliases and ChatGPT to Help You Code or Solve Project Problems](https://dev.to/flavioespinoza/al-aliases-756)
+- [Async Generators and For-Await-Of Loop](https://dev.to/omriluz1/async-generators-and-for-await-of-loop-1dk9)
+- [Nike Airforce](https://dev.to/abdullah_ba6ed63b8aa61d6e/nike-airforce-7oa)
+- [Notes from course: Generative AI with Large Language Models - Week 3](https://dev.to/valyouw/notes-from-course-generative-ai-with-large-language-models-week-3-4ao)
 <!-- BLOG-POST-LIST:END -->
 
