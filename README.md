@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Async Programming: Parallelism with join! vs select!](https://dev.to/leapcell/rust-async-programming-parallelism-with-join-vs-select-3l4b)
-- [10 Game Development Tips Every Beginner Should Know](https://dev.to/alok_krishali/10-game-development-tips-every-beginner-should-know-5ghd)
-- [1976. Number of Ways to Arrive at Destination](https://dev.to/mdarifulhaque/1976-number-of-ways-to-arrive-at-destination-516g)
-- [What is HarmonyOS NEXT - Page Router?](https://dev.to/victordeng/what-is-harmonyos-next-page-router-40io)
+- [Next.js vs. TanStack, rsdoctor for rspack, OpenAI o1&#39;s pricing problem, and more](https://dev.to/thisweekinjavascript/nextjs-vs-tanstack-rsdoctor-for-rspack-openai-o1s-pricing-problem-and-more-1ech)
+- [Updating the UI for orientation changes with C++ android OpenGL | Android game dev](https://dev.to/theplebdev/updating-the-ui-for-orientation-changes-with-c-android-opengl-android-game-dev-42gh)
+- [Firebase Cloud functions](https://dev.to/buildandcodewithraman/firebase-cloud-functions-2fbo)
+- [In search of a BigQuery agent in LangChain, I built a Toolkit that acts as a BigQuery agent for Text-to-SQL.](https://dev.to/redoc28/in-search-of-a-bigquery-agent-in-langchain-i-built-a-toolkit-that-acts-as-a-bigquery-agent-for-1d62)
 <!-- BLOG-POST-LIST:END -->
 
