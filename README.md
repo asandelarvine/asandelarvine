@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Java and SpringBoot migration with OpenRewrite](https://dev.to/hgky95/simplify-java-and-springboot-migration-with-openrewrite-g3d)
-- [Enhancing Golang Applications with Comprehensive Observability](https://dev.to/vaidehi_adhi_84b623a30da7/enhancing-golang-applications-with-comprehensive-observability-17m1)
-- [Hyponitic illusion using the core javascript.](https://dev.to/prince_beec5ccde00b7c6c73/hyponitic-illusion-using-the-core-javascript-3ckh)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2p9e)
+- [Technical Wealth: The CTO’s Hidden Advantage in Legacy Systems](https://dev.to/karoriwal/technical-wealth-the-ctos-hidden-advantage-in-legacy-systems-db)
+- [鸿蒙NEXT开发实战教程：仿抖音短视频](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-jiao-cheng-fang-dou-yin-duan-shi-pin-2ici)
+- [HarmonyOS NEXT开发实战案例--圆盘](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-an-li-yuan-pan-2jh8)
+- [HarmonyOS NEXT开发实战教程—搜索页](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-sou-suo-ye-3p2d)
 <!-- BLOG-POST-LIST:END -->
 
