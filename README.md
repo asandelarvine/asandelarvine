@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Non-Deterministic LLM Output with Pydantic: A Text-to-SQL Journey](https://dev.to/mayankcse/taming-non-deterministic-llm-output-with-pydantic-a-text-to-sql-journey-1d05)
-- [🚀 AI in the Cloud: Why Serverless Will Dominate by 2025 &lpar;And What It Means for You&rpar;](https://dev.to/techiesourav/ai-in-the-cloud-why-serverless-will-dominate-by-2025-and-what-it-means-for-you-c25)
-- [Understanding AWS VPC and Its Components](https://dev.to/gafol/understanding-aws-vpc-and-its-components-2c7b)
-- [SKT: If Statements](https://dev.to/paulallies/skt-if-statements-2ggm)
+- [How MCP Transforms AI-Powered IDEs Like Cursor](https://dev.to/kumarprateek18/how-mcp-transforms-ai-powered-ides-like-cursor-77o)
+- [Why I Changed My Approach to SaaS Design: The Journey of Building Lalye](https://dev.to/tyjust_music_1c42b047cdf4/why-i-changed-my-approach-to-saas-design-the-journey-of-building-lalye-4b4o)
+- [What’s New in Next.js 15? A Developer’s Guide to the Latest Features](https://dev.to/shaahzaibrehman/whats-new-in-nextjs-15-a-developers-guide-to-the-latest-features-154p)
+- [The Evolution of Trading: How the Lightning Match System Works](https://dev.to/nudex/the-evolution-of-trading-how-the-lightning-match-system-works-26jp)
 <!-- BLOG-POST-LIST:END -->
 
