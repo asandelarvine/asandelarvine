@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Placegoose: Seeding and deployment with HONC](https://dev.to/fiberplane/placegoose-seeding-and-deployment-with-honc-5f88)
-- [JAVA INTRODUCTION DAY](https://dev.to/vimal_krush_349f0675b4ef9/java-introduction-day-4ene)
-- [Mastering JavaScript Assignment Operators: Key Questions and Concepts](https://dev.to/coder_studios/mastering-javascript-assignment-operators-key-questions-and-concepts-3cdl)
-- [Ensuring Service Availability in Modern Infrastructure with Wait4X&#39;s TCP Checker](https://dev.to/atkrad/ensuring-service-availability-in-modern-infrastructure-with-wait4xs-tcp-checker-3jg2)
+- [Taming Non-Deterministic LLM Output with Pydantic: A Text-to-SQL Journey](https://dev.to/mayankcse/taming-non-deterministic-llm-output-with-pydantic-a-text-to-sql-journey-1d05)
+- [🚀 AI in the Cloud: Why Serverless Will Dominate by 2025 &lpar;And What It Means for You&rpar;](https://dev.to/techiesourav/ai-in-the-cloud-why-serverless-will-dominate-by-2025-and-what-it-means-for-you-c25)
+- [Understanding AWS VPC and Its Components](https://dev.to/gafol/understanding-aws-vpc-and-its-components-2c7b)
+- [SKT: If Statements](https://dev.to/paulallies/skt-if-statements-2ggm)
 <!-- BLOG-POST-LIST:END -->
 
