@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building LLM-Powered Real Estate Intelligent Agents: Technical Implementation and Business Value](https://dev.to/jamesli/building-llm-powered-real-estate-intelligent-agents-technical-implementation-and-business-value-5dbj)
-- [What&#39;s Better, Suno or Udio?](https://dev.to/_37bbf0c253c0b3edec531e/whats-better-suno-or-udio-1236)
-- [SPL assists MongoDB: Only keep the running total for the last item in the partition](https://dev.to/esproc_spl/spl-assists-mongodb-only-keep-the-running-total-for-the-last-item-in-the-partition-4pk7)
-- [What is Data Science?](https://dev.to/e77/what-is-data-science-5fih)
+- [My quick git fix for a recent merge conflict](https://dev.to/the_code_witcher/my-quick-git-fix-for-a-recent-merge-conflict-36ah)
+- [Part 7: Deploying to PythonAnywhere](https://dev.to/ngemuantony/part-7-deploying-to-pythonanywhere-47b7)
+- [Convert PDF to Word - Fixed Layout vs. Reflowable Layout?](https://dev.to/derek-compdf/convert-pdf-to-word-fixed-layout-vs-reflowable-layout-ml9)
+- [This is my first blog](https://dev.to/jogendra_parmar_c064dd57a/this-is-my-first-blog-12db)
 <!-- BLOG-POST-LIST:END -->
 
