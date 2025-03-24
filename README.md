@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How MCP Transforms AI-Powered IDEs Like Cursor](https://dev.to/kumarprateek18/how-mcp-transforms-ai-powered-ides-like-cursor-77o)
-- [Why I Changed My Approach to SaaS Design: The Journey of Building Lalye](https://dev.to/tyjust_music_1c42b047cdf4/why-i-changed-my-approach-to-saas-design-the-journey-of-building-lalye-4b4o)
-- [What’s New in Next.js 15? A Developer’s Guide to the Latest Features](https://dev.to/shaahzaibrehman/whats-new-in-nextjs-15-a-developers-guide-to-the-latest-features-154p)
-- [The Evolution of Trading: How the Lightning Match System Works](https://dev.to/nudex/the-evolution-of-trading-how-the-lightning-match-system-works-26jp)
+- [Healthcare Application Testing: A Step-by-Step Guide for QA Teams](https://dev.to/asher_hartwell_f827d28b67/healthcare-application-testing-a-step-by-step-guide-for-qa-teams-4nah)
+- [MongoDB for Beginners: The Complete Guide to CRUD Operations](https://dev.to/anandku06/mongodb-for-beginners-the-complete-guide-to-crud-operations-1dfh)
+- [Building a SaaS with Svelte: How Lalye is Redefining Project Management](https://dev.to/tyjust_music_1c42b047cdf4/reinvent-task-managementwith-okrs-kpis-and-ai-2d03)
+- [Understanding Awaitables: Coroutines, Tasks, and Futures in Python](https://dev.to/jeffrey04/understanding-awaitables-coroutines-tasks-and-futures-in-python-gk7)
 <!-- BLOG-POST-LIST:END -->
 
