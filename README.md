@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how actually react works behind the scenes](https://dev.to/3o2kmpcodes/how-actually-react-works-behind-the-scenes-50hj)
-- [Tired of losing your cursor when switching tabs in VSCode? Meet Cursorghost 👻](https://dev.to/kupumaru21/tired-of-losing-your-cursor-when-switching-tabs-in-vscode-meet-cursorghost-23ni)
-- [Flash Learning- a platform for users learn and thereafter take a Quiz](https://dev.to/aliyualbako/flash-learning-a-platform-for-users-learn-and-thereafter-take-a-quiz-1f1j)
-- [Building Robust React Apps with Zustand and Immer](https://dev.to/gicrisf/building-robust-react-apps-with-zustand-and-immer-482m)
+- [Want AI to Actually Understand Your Code? This Tool Says It Can Help](https://dev.to/badmonster0/want-ai-to-actually-understand-your-code-this-tool-says-it-can-help-530p)
+- [The Bird&#39;s Way of Printing PDFs under the hood](https://dev.to/wari/the-birds-way-of-printing-pdfs-under-the-hood-1g2i)
+- [Explore BS 476 - 4 Non-combustibility test for building materials](https://dev.to/rebecca_zhang_53170276935/explore-bs-476-4-non-combustibility-test-for-building-materials-1j5b)
+- [Biomechanics of pitching &lpar;1&rpar;: an overview of ball dynamics during throwing](https://dev.to/ken_ohta_8690712348aeef88/biomechanics-of-pitching-1-an-overview-of-ball-dynamics-during-throwing-4n96)
 <!-- BLOG-POST-LIST:END -->
 
