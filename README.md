@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Healthcare Application Testing: A Step-by-Step Guide for QA Teams](https://dev.to/asher_hartwell_f827d28b67/healthcare-application-testing-a-step-by-step-guide-for-qa-teams-4nah)
-- [MongoDB for Beginners: The Complete Guide to CRUD Operations](https://dev.to/anandku06/mongodb-for-beginners-the-complete-guide-to-crud-operations-1dfh)
-- [Building a SaaS with Svelte: How Lalye is Redefining Project Management](https://dev.to/tyjust_music_1c42b047cdf4/reinvent-task-managementwith-okrs-kpis-and-ai-2d03)
-- [Understanding Awaitables: Coroutines, Tasks, and Futures in Python](https://dev.to/jeffrey04/understanding-awaitables-coroutines-tasks-and-futures-in-python-gk7)
+- [Next.js 15 Scroll Behavior: A Comprehensive Guide](https://dev.to/hijazi313/nextjs-15-scroll-behavior-a-comprehensive-guide-387j)
+- [Rust Concurrency: A Beginner&#39;s Exploration](https://dev.to/leapcell/rust-concurrency-a-beginners-exploration-4om4)
+- [🚀 Slash Your WordPress Setup Time to Seconds with Python Automation](https://dev.to/proga100/slash-your-wordpress-setup-time-to-seconds-with-python-automation-38od)
+- [How MCP Can Supercharge GenAI-Powered BI Dashboards with Real-Time Data Access from Your Databases](https://dev.to/harsh9410/how-mcp-can-supercharge-genai-powered-bi-dashboards-with-real-time-data-access-from-your-databases-59c6)
 <!-- BLOG-POST-LIST:END -->
 
