@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Want AI to Actually Understand Your Code? This Tool Says It Can Help](https://dev.to/badmonster0/want-ai-to-actually-understand-your-code-this-tool-says-it-can-help-530p)
-- [The Bird&#39;s Way of Printing PDFs under the hood](https://dev.to/wari/the-birds-way-of-printing-pdfs-under-the-hood-1g2i)
-- [Explore BS 476 - 4 Non-combustibility test for building materials](https://dev.to/rebecca_zhang_53170276935/explore-bs-476-4-non-combustibility-test-for-building-materials-1j5b)
-- [Biomechanics of pitching &lpar;1&rpar;: an overview of ball dynamics during throwing](https://dev.to/ken_ohta_8690712348aeef88/biomechanics-of-pitching-1-an-overview-of-ball-dynamics-during-throwing-4n96)
+- [Power Platform, The Emergency Tool Kit](https://dev.to/wyattdave/power-platform-the-emergency-tool-kit-2bgo)
+- [Boas Práticas de Segurança e Qualidade no Terraform.](https://dev.to/hugollemos/boas-praticas-de-seguranca-e-qualidade-no-terraform-29oi)
+- [Calculate a Pair of Minimum Values that Meet the Criteria within the Group — From SQL to SPL #12](https://dev.to/judith677/calculate-a-pair-of-minimum-values-that-meet-the-criteria-within-the-group-from-sql-to-spl-12-309m)
+- [Real Time Page Updates with Rails and Hotwire - Turbo Broadcasts](https://dev.to/reinteractive/real-time-page-updates-with-rails-and-hotwire-turbo-broadcasts-3fnn)
 <!-- BLOG-POST-LIST:END -->
 
