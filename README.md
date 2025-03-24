@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best CRM Software for Small, Medium, and Big Businesses: A Detailed CRM Features Comparison](https://dev.to/mobisoftinfotech/how-to-choose-the-best-crm-software-for-your-business-35e9)
-- [Cloudera DataFlow vs. Data Flow Manager: A Comprehensive Comparison](https://dev.to/dataflowmanager/cloudera-dataflow-vs-data-flow-manager-a-comprehensive-comparison-1nkg)
-- [Quick and Easy Video Thumbnail Generation in Rust](https://dev.to/yeauty/quick-and-easy-video-thumbnail-generation-in-rust-3d1c)
-- [JSONcon](https://dev.to/codewizard123/jsoncon-384c)
+- [🚀 Your Daily Crypto Job Digest For 24 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-march-2a0f)
+- [[Turkish] Domain-Driven Design &lpar;DDD&rpar; Rehberi](https://dev.to/alicankorkmaz/turkish-domain-driven-design-ddd-rehberi-pah)
+- [Top 7 Grafana Consulting &amp; Enterprise Support Companies in 2025](https://dev.to/samlongbottom/top-7-grafana-consulting-enterprise-support-companies-in-2025-35fc)
+- [Five Strategies for Creating Composable Applications](https://dev.to/engroso/five-strategies-for-creating-composable-applications-3k7b)
 <!-- BLOG-POST-LIST:END -->
 
