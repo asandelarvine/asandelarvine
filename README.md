@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Blockchain and Cloud Work Together for Real-Time Logging? - HELP ME](https://dev.to/bhargavirengarajan21/can-blockchain-and-cloud-work-together-for-real-time-logging-help-me-c6l)
-- [5+ Best AI Profile Picture Generators of 2025](https://dev.to/artturijalli/5-best-ai-profile-picture-generators-of-2025-d56)
-- [Rclone: Cloudflare R2 and Nginx Reverse Proxy](https://dev.to/medrix/rclone-cloudflare-r2-and-nginx-reverse-proxy-509b)
-- [Khabar Suno: Multi Lingual News website](https://dev.to/coder_dragon/khabar-suno-multi-lingual-news-website-1nb)
+- [The Benefits of Screen Scraping for Data Extraction](https://dev.to/swiftproxy_residential/the-benefits-of-screen-scraping-for-data-extraction-amf)
+- [I Created My Portfolio Site Within Hours Using AI](https://dev.to/myogeshchavan97/i-created-my-portfolio-site-within-hours-using-ai-3b26)
+- [10 Most Common Web Design Mistakes and How to Avoid Them](https://dev.to/alenajames/10-most-common-web-design-mistakes-and-how-to-avoid-them-7o5)
+- [Overcoming Scraping Barriers with Screen Scraping](https://dev.to/swiftproxy_residential/overcoming-scraping-barriers-with-screen-scraping-18fd)
 <!-- BLOG-POST-LIST:END -->
 
