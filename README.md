@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Corporate Burnout: How the CIA Invented Your 9 to 5](https://dev.to/mikehtmlallthethings/corporate-burnout-how-the-cia-invented-your-9-to-5-3kco)
-- [Are there any Ruby on Rails 2.x-3.x apps still running?](https://dev.to/juhat/are-there-any-ruby-on-rails-2x-3x-apps-still-running-3m0c)
-- [AI Can’t Do This for You: Building the Developer Skills That Still Matter](https://dev.to/cbanlawi/ai-cant-do-this-for-you-building-the-developer-skills-that-still-matter-1266)
-- [Check if you are breaking your admin rules in your GitHub repos](https://dev.to/mattstratton/check-if-you-are-breaking-your-admin-rules-in-your-github-repos-467b)
+- [162/365 | ¥10M Job Challenge - Dietary Adjustments](https://dev.to/kameken100/161365-y10m-job-challenge-dietary-adjustments-4kp7)
+- [useDeferredValue Hook in React!](https://dev.to/joodi/usedeferredvalue-hook-in-react-5855)
+- [Nixos config for nvim](https://dev.to/mirrr/nixos-config-for-nvim-3pm6)
+- [[Boost]](https://dev.to/david_oyewole/-146i)
 <!-- BLOG-POST-LIST:END -->
 
