@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform, The Emergency Tool Kit](https://dev.to/wyattdave/power-platform-the-emergency-tool-kit-2bgo)
-- [Boas Práticas de Segurança e Qualidade no Terraform.](https://dev.to/hugollemos/boas-praticas-de-seguranca-e-qualidade-no-terraform-29oi)
-- [Calculate a Pair of Minimum Values that Meet the Criteria within the Group — From SQL to SPL #12](https://dev.to/judith677/calculate-a-pair-of-minimum-values-that-meet-the-criteria-within-the-group-from-sql-to-spl-12-309m)
-- [Real Time Page Updates with Rails and Hotwire - Turbo Broadcasts](https://dev.to/reinteractive/real-time-page-updates-with-rails-and-hotwire-turbo-broadcasts-3fnn)
+- [Wrapping PrimeVue Components: Tips for a Better Developer Experience](https://dev.to/doantrongnam/wrapping-primevue-components-tips-for-a-better-developer-experience-2lja)
+- [Java Strings: A Comprehensive Guide by Namrata Hinduja - Blogger &amp; Full Stack Developer](https://dev.to/namratahinduja/java-strings-a-comprehensive-guide-by-namrata-hinduja-blogger-full-stack-developer-1fgb)
+- [What is Generative AI and How Does it Work?](https://dev.to/anshul_kichara/what-is-generative-ai-and-how-does-it-work-1meg)
+- [Burnout After Years of Grinding: What I Learned About Passion, Balance, and Rebuilding My Drive](https://dev.to/yassineldeeb/burnout-after-years-of-grinding-what-i-learned-about-passion-balance-and-rebuilding-my-drive-2c48)
 <!-- BLOG-POST-LIST:END -->
 
