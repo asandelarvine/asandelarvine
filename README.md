@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 Scroll Behavior: A Comprehensive Guide](https://dev.to/hijazi313/nextjs-15-scroll-behavior-a-comprehensive-guide-387j)
-- [Rust Concurrency: A Beginner&#39;s Exploration](https://dev.to/leapcell/rust-concurrency-a-beginners-exploration-4om4)
-- [🚀 Slash Your WordPress Setup Time to Seconds with Python Automation](https://dev.to/proga100/slash-your-wordpress-setup-time-to-seconds-with-python-automation-38od)
-- [How MCP Can Supercharge GenAI-Powered BI Dashboards with Real-Time Data Access from Your Databases](https://dev.to/harsh9410/how-mcp-can-supercharge-genai-powered-bi-dashboards-with-real-time-data-access-from-your-databases-59c6)
+- [How to Deploy a Vite React App to GitHub Pages](https://dev.to/suryanag0999/how-to-deploy-a-vite-react-app-to-github-pages-189i)
+- [Compatibilidad entre Apex y Base de datos Oracle](https://dev.to/apexgov/compatibilidad-entre-apex-y-base-de-datos-oracle-2l06)
+- [Next.js shallow search params routing](https://dev.to/arekrgw/nextjs-shallow-search-params-routing-3dl6)
+- [What Hogwarts Can Teach Us About Security](https://dev.to/angelamchoi/what-hogwarts-can-teach-us-about-security-5bme)
 <!-- BLOG-POST-LIST:END -->
 
