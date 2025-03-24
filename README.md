@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/haseeb1009/-20bj)
-- [Composer Linker: The npm link for PHP Developers](https://dev.to/takeshiyu/composer-linker-the-npm-link-for-php-developers-4lel)
-- [&quot;Revolutionizing Memory: The Future of Superconducting GCS Technology&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-memory-the-future-of-superconducting-gcs-technology-3336)
-- [Overcoming Common Challenges in Remote Onboarding](https://dev.to/rapidbee/overcoming-common-challenges-in-remote-onboarding-3kcl)
+- [Building LLM-Powered Real Estate Intelligent Agents: Technical Implementation and Business Value](https://dev.to/jamesli/building-llm-powered-real-estate-intelligent-agents-technical-implementation-and-business-value-5dbj)
+- [What&#39;s Better, Suno or Udio?](https://dev.to/_37bbf0c253c0b3edec531e/whats-better-suno-or-udio-1236)
+- [SPL assists MongoDB: Only keep the running total for the last item in the partition](https://dev.to/esproc_spl/spl-assists-mongodb-only-keep-the-running-total-for-the-last-item-in-the-partition-4pk7)
+- [What is Data Science?](https://dev.to/e77/what-is-data-science-5fih)
 <!-- BLOG-POST-LIST:END -->
 
