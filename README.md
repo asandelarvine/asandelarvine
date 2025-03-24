@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Benefits of Screen Scraping for Data Extraction](https://dev.to/swiftproxy_residential/the-benefits-of-screen-scraping-for-data-extraction-amf)
-- [I Created My Portfolio Site Within Hours Using AI](https://dev.to/myogeshchavan97/i-created-my-portfolio-site-within-hours-using-ai-3b26)
-- [10 Most Common Web Design Mistakes and How to Avoid Them](https://dev.to/alenajames/10-most-common-web-design-mistakes-and-how-to-avoid-them-7o5)
-- [Overcoming Scraping Barriers with Screen Scraping](https://dev.to/swiftproxy_residential/overcoming-scraping-barriers-with-screen-scraping-18fd)
+- [[Boost]](https://dev.to/haseeb1009/-20bj)
+- [Composer Linker: The npm link for PHP Developers](https://dev.to/takeshiyu/composer-linker-the-npm-link-for-php-developers-4lel)
+- [&quot;Revolutionizing Memory: The Future of Superconducting GCS Technology&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-memory-the-future-of-superconducting-gcs-technology-3336)
+- [Overcoming Common Challenges in Remote Onboarding](https://dev.to/rapidbee/overcoming-common-challenges-in-remote-onboarding-3kcl)
 <!-- BLOG-POST-LIST:END -->
 
