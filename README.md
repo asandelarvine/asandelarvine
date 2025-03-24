@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [İnternet Sansürüne Karşı Mücadele: Bilgiye Erişimi Kısıtlayanlara &quot;Dur&quot; Deyin!](https://dev.to/eagledofc/internet-sansurune-karsi-mucadele-bilgiye-erisimi-kisitlayanlara-dur-deyin-1k6f)
-- [Check Out My Latest Kendo Project! ⚔️](https://dev.to/nazim_akkal_a6c14939d5955/check-out-my-latest-kendo-project-57dp)
-- [ByeDPI Android: Windows İçin GodByeDPI&#39;nin Mobil Sürümü](https://dev.to/eagledofc/byedpi-android-windows-icin-godbyedpinin-mobil-surumu-ed7)
-- [Discriminated Unions in C# with OneOf – Azure Functions](https://dev.to/martinpersson/discriminated-unions-in-c-with-oneof-azure-functions-4na8)
+- [Streaming de datos Serverless con Aurora DSQL](https://dev.to/londoso/streaming-de-datos-serverless-con-aurora-dsql-2hmd)
+- [EasyJPA – Your Best Partner for JPA Development!](https://dev.to/paganini2008/easyjpa-your-best-partner-for-jpa-development-adj)
+- [Layer by Layer: The OSI Model Layer 4](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-4-21fo)
+- [Kendi Blog Siteni DEV.to Üzerinden Nasıl Kurabilirsin?](https://dev.to/eagledofc/kendi-blog-siteni-devto-uzerinden-nasil-kurabilirsin-5h62)
 <!-- BLOG-POST-LIST:END -->
 
