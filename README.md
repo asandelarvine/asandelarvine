@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a Vite React App to GitHub Pages](https://dev.to/suryanag0999/how-to-deploy-a-vite-react-app-to-github-pages-189i)
-- [Compatibilidad entre Apex y Base de datos Oracle](https://dev.to/apexgov/compatibilidad-entre-apex-y-base-de-datos-oracle-2l06)
-- [Next.js shallow search params routing](https://dev.to/arekrgw/nextjs-shallow-search-params-routing-3dl6)
-- [What Hogwarts Can Teach Us About Security](https://dev.to/angelamchoi/what-hogwarts-can-teach-us-about-security-5bme)
+- [İnternet Sansürüne Karşı Mücadele: Bilgiye Erişimi Kısıtlayanlara &quot;Dur&quot; Deyin!](https://dev.to/eagledofc/internet-sansurune-karsi-mucadele-bilgiye-erisimi-kisitlayanlara-dur-deyin-1k6f)
+- [Check Out My Latest Kendo Project! ⚔️](https://dev.to/nazim_akkal_a6c14939d5955/check-out-my-latest-kendo-project-57dp)
+- [ByeDPI Android: Windows İçin GodByeDPI&#39;nin Mobil Sürümü](https://dev.to/eagledofc/byedpi-android-windows-icin-godbyedpinin-mobil-surumu-ed7)
+- [Discriminated Unions in C# with OneOf – Azure Functions](https://dev.to/martinpersson/discriminated-unions-in-c-with-oneof-azure-functions-4na8)
 <!-- BLOG-POST-LIST:END -->
 
