@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Twelve-Factor Architecture: Best Practices for Modern Applications](https://dev.to/lovestaco/twelve-factor-architecture-best-practices-for-modern-applications-56p)
-- [Meet Lynx – A New Multiplatform Framework!](https://dev.to/divyeshvekariya/meet-lynx-a-new-multiplatform-framework-5al7)
-- [iOS 18.4 Brings AI-Powered Priority Notifications](https://dev.to/divyeshvekariya/ios-184-brings-ai-powered-priority-notifications-43b7)
-- [Building a MCP server in Swift](https://dev.to/divyeshvekariya/building-a-mcp-server-in-swift-4gge)
+- [Representation in tech matters. The #WeCoded challenge is creating a platform to recognize and celebrate diverse contributions to the industry. Discover the progress and join the movement.](https://dev.to/rajesh_patel/representation-in-tech-matters-the-wecoded-challenge-is-creating-a-platform-to-recognize-and-pnd)
+- [JavaScript Myths You Still Believe &lpar;But Shouldn’t!&rpar;](https://dev.to/dct_technologyprivatelimited/javascript-myths-you-still-believe-but-shouldnt-30nb)
+- [The #WeCoded challenge is a powerful initiative that brings together developers to create a platform promoting inclusivity in tech. Join the conversation and see how this project is driving meaningful change.](https://dev.to/nikhil_sachapara/the-wecoded-challenge-is-a-powerful-initiative-that-brings-together-developers-to-create-a-c4g)
+- [Diversity and inclusion are essential in the tech industry. The #WeCoded challenge is building a landing page to highlight and celebrate diverse voices in technology. Explore the initiative and its impact.](https://dev.to/naik_sejal/diversity-and-inclusion-are-essential-in-the-tech-industry-the-wecoded-challenge-is-building-a-1lbl)
 <!-- BLOG-POST-LIST:END -->
 
