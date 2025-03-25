@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Go&#39;s Equality Operator](https://dev.to/leapcell/deep-dive-into-gos-equality-operator-g40)
-- [How DNS Helps in Optimizing Internet Performance](https://dev.to/lightningdev123/how-dns-helps-in-optimizing-internet-performance-4b1)
-- [How to Reduce VCF File Size? A Easy Guide for Users](https://dev.to/ellestephen/how-to-reduce-vcf-file-size-a-easy-guide-for-users-2gfj)
-- [Semantic HTML and Accessibility Best Practices: How to Write Accessible and Semantic Code](https://dev.to/keshav_kumar/semantic-html-and-accessibility-best-practices-how-to-write-accessible-and-semantic-code-45gk)
+- [Embracing Innovation in Software Development: A Path to Success](https://dev.to/jabran_mustafa_cf7667f97a/embracing-innovation-in-software-development-a-path-to-success-4eb9)
+- [How to start using gRPC with PHP - Part 3/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-34-1d0l)
+- [What is ERPNext?](https://dev.to/nolletorre/what-is-erpnext-g1o)
+- [Introducing @nixxy/react-simple-select: A Lightweight and Customizable Select Component for React](https://dev.to/nixx/introducing-nixxyreact-simple-select-a-lightweight-and-customizable-select-component-for-react-dhi)
 <!-- BLOG-POST-LIST:END -->
 
