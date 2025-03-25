@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Not Automating Means Accepting Defeat Against Your Competitors](https://dev.to/softyflow/not-automating-means-accepting-defeat-against-your-competitors-llp)
-- [Convert ChatGPT Markdown Content into Beautiful HTML Code Effortlessly!](https://dev.to/ajayyadav/convert-chatgpt-markdown-content-into-beautiful-html-code-effortlessly-561h)
-- [Java Checkstyle Tool: Enforce Coding Standards with Ease](https://dev.to/serhat_ozdursun_03644ef56/java-checkstyle-tool-enforce-coding-standards-with-ease-loe)
-- [Microsoft Dragon Copilot: Revolutionizing Productivity with AI-Powered Assistance](https://dev.to/emily_smith_86b5b7960eebb/microsoft-dragon-copilot-revolutionizing-productivity-with-ai-powered-assistance-3b6k)
+- [I tested the most popular AI website builders—here’s what I found ✨](https://dev.to/fredy/i-tested-the-most-popular-ai-website-builders-heres-what-i-found-4on8)
+- [My journey to Senior Software Engineer](https://dev.to/danoak/my-journey-to-senior-software-engineer-4akg)
+- [Tính test API dev.to](https://dev.to/nguyn_vntnh_53d53bb75/huong-dan-su-dung-devto-api-2334)
+- [How to Configure Grafana to Send Alerts to Slack and Telegram](https://dev.to/devopsvn/how-to-configure-grafana-to-send-alerts-to-slack-and-telegram-2o2a)
 <!-- BLOG-POST-LIST:END -->
 
