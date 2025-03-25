@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Relations: What, Why, and How](https://dev.to/envitab/developer-relations-what-why-and-how-ne9)
-- [Inboxes are overflowing. Attention spans are shrinking. So how do you make your emails actually get read? This article explores the psychology behind short, effective emails—and how to apply it today. #ashkanrajaee #communication #emailstrategy](https://dev.to/marcusquinn05/inboxes-are-overflowing-attention-spans-are-shrinking-so-how-do-you-make-your-emails-actually-21fg)
-- [Java Unveiled: Efficiency, Security &amp; The Magic of Object-Oriented Programming.](https://dev.to/vigneshwaralingam/java-unveiled-efficiency-security-the-magic-of-object-oriented-programming-4o99)
-- [AWS CloudWatch: Why I stopped paying for external Monitoring tools](https://dev.to/aws-builders/aws-cloudwatch-why-i-stopped-paying-for-external-monitoring-tools-13d5)
+- [Korea Temu Coupon Code 40% off ||*acs512482*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/korea-temu-coupon-code-40-off-acs512482-new-existing-user-3lal)
+- [My First](https://dev.to/nguyn_vntnh_53d53bb75/my-first-4chj)
+- [OLAP vs OLTP: The war that is not meant to be](https://dev.to/oramirezperera/olap-vs-oltp-the-war-that-is-not-meant-to-be-516b)
+- [My First Article](https://dev.to/nguyn_vntnh_53d53bb75/my-first-article-3gm5)
 <!-- BLOG-POST-LIST:END -->
 
