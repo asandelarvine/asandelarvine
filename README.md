@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCV Porting on T507 Platform with Linux 4.19: A Deep Comparison Between Standalone Compilation and Buildroot Compilation](https://dev.to/ronnie_r_152dc2151d9449c6/opencv-porting-on-t507-platform-with-linux-419-a-deep-comparison-between-standalone-compilation-3gj1)
-- [Introduction to Machine Learning for Everyone!](https://dev.to/sarko07/introduction-to-machine-learning-for-everyone-5d5f)
-- [The Essential Role of Cloud Consultants in IT Management](https://dev.to/teleglobalintermational/the-essential-role-of-cloud-consultants-in-it-management-2k4o)
-- [Why My Open Source Project Wunjo Can’t Reach 1K Stars? 😢](https://dev.to/wladradchenko/why-my-open-source-project-wunjo-cant-reach-1k-stars-10b3)
+- [Master Functional Programming in Python: 7 Essential Techniques for Cleaner Code](https://dev.to/aaravjoshi/master-functional-programming-in-python-7-essential-techniques-for-cleaner-code-2a9c)
+- [🔎 AWS GuardDuty vs. Inspector vs. Shield 🛡️ Which One Do You Need?](https://dev.to/aws-builders/aws-guardduty-vs-inspector-vs-shield-which-one-do-you-need-2ia5)
+- [Build a Twitter ReplyGuy using AI/ML API and Twitter API V2.](https://dev.to/abdibrokhim/build-a-twitter-replyguy-using-aiml-api-and-twitter-api-v2-3c3j)
+- [Introduction to Linux](https://dev.to/prasanth_fcf045e10b53562c/introduction-to-linux-4c7g)
 <!-- BLOG-POST-LIST:END -->
 
