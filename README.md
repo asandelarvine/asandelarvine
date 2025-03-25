@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Marketing your SaaS](https://dev.to/schnitzel/marketing-your-saas-4861)
-- [Elevating Digital Experiences with Innovation](https://dev.to/auroanimate12/elevating-digital-experiences-with-innovation-1b5m)
-- [Tricentis Automated Software Testing Tools: The Ultimate Guide](https://dev.to/vinay_h2kinfosys_a71b70a7/tricentis-automated-software-testing-tools-the-ultimate-guide-15a3)
-- [Top Event Booking Apps to Simplify Your Events in 2025](https://dev.to/saanvipatel099/top-event-booking-apps-to-simplify-your-events-in-2025-1aec)
+- [Working with Virtual Environments in Python](https://dev.to/godofgeeks/working-with-virtual-environments-in-python-2517)
+- [When Not to Use AI: A Developer’s Perspective](https://dev.to/divyanshulohani/when-not-to-use-ai-a-developers-perspective-4l60)
+- [A Beginner’s Guide to CISSP Certification](https://dev.to/markwayne/a-beginners-guide-to-cissp-certification-33ok)
+- [The Art of Code: Rediscovering Creativity in Programming](https://dev.to/copyleftdev/the-art-of-code-rediscovering-creativity-in-programming-29f8)
 <!-- BLOG-POST-LIST:END -->
 
