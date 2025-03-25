@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Innovation in Software Development: A Path to Success](https://dev.to/jabran_mustafa_cf7667f97a/embracing-innovation-in-software-development-a-path-to-success-4eb9)
-- [How to start using gRPC with PHP - Part 3/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-34-1d0l)
-- [What is ERPNext?](https://dev.to/nolletorre/what-is-erpnext-g1o)
-- [Introducing @nixxy/react-simple-select: A Lightweight and Customizable Select Component for React](https://dev.to/nixx/introducing-nixxyreact-simple-select-a-lightweight-and-customizable-select-component-for-react-dhi)
+- [Not Automating Means Accepting Defeat Against Your Competitors](https://dev.to/softyflow/not-automating-means-accepting-defeat-against-your-competitors-llp)
+- [Convert ChatGPT Markdown Content into Beautiful HTML Code Effortlessly!](https://dev.to/ajayyadav/convert-chatgpt-markdown-content-into-beautiful-html-code-effortlessly-561h)
+- [Java Checkstyle Tool: Enforce Coding Standards with Ease](https://dev.to/serhat_ozdursun_03644ef56/java-checkstyle-tool-enforce-coding-standards-with-ease-loe)
+- [Microsoft Dragon Copilot: Revolutionizing Productivity with AI-Powered Assistance](https://dev.to/emily_smith_86b5b7960eebb/microsoft-dragon-copilot-revolutionizing-productivity-with-ai-powered-assistance-3b6k)
 <!-- BLOG-POST-LIST:END -->
 
