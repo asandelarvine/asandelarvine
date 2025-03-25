@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel Temu Coupon Code 40% off ||*acs512482*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/israel-temu-coupon-code-40-off-acs512482-new-existing-user-n44)
-- [Configurations? Forget about it!](https://dev.to/kiponos/configurations-forget-about-it-4gjp)
-- [I am on a journey of learning Next.js](https://dev.to/ctrl_z_2ce0745dec2108aa8c/i-am-on-a-journey-of-learning-nextjs-3kp)
-- [Exercise 01: Configure an Azure Linux Virtual Machine](https://dev.to/1suleyman/exercise-01-configure-an-azure-linux-virtual-machine-5hn9)
+- [Armenia Temu Coupon Code 40% off ||*acr621129*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/armenia-temu-coupon-code-40-off-acr621129-new-existing-user-4eba)
+- [Brazil Temu Coupon Code 40% off ||*acr983993*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/brazil-temu-coupon-code-40-off-acr983993-new-existing-user-3dfm)
+- [Is Your Code the Hope Diamond? Entering the National Museum with SAST and Spring Boot!](https://dev.to/tyrell_wellicq_767cb57340/is-your-code-the-hope-diamond-entering-the-national-museum-with-sast-and-spring-boot-22mk)
+- [Handling Invisible characters with PHP](https://dev.to/yasserelgammal/handling-invisible-characters-with-php-1507)
 <!-- BLOG-POST-LIST:END -->
 
