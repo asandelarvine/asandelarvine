@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use CSS variables like a pro](https://dev.to/logrocket/how-to-use-css-variables-like-a-pro-1j5i)
-- [Day 2: Basic opps consept](https://dev.to/sugumar_r_a5f301adf1fb49a/day-2-basic-opps-consept-2f8c)
-- [The Dark Side of Building AI Agents on Poor Data Quality](https://dev.to/farahkim/the-dark-side-of-building-ai-agents-on-poor-data-quality-l18)
-- [Announcing: Azure API Center Hands-on Workshop 🚀](https://dev.to/azure/announcing-azure-api-center-hands-on-workshop-g7f)
+- [Orchestrating Models: Machine Learning with Docker Compose](https://dev.to/yhary_arias/orchestrating-models-machine-learning-with-docker-compose-5dlo)
+- [Common Java Errors in a Hello World Program and How to Fix Them.](https://dev.to/vigneshwaralingam/common-java-errors-in-a-hello-world-program-and-how-to-fix-them-5a2b)
+- [Python Notes #4 - Functions](https://dev.to/elvinseyidov/python-notes-4-functions-2em6)
+- [Understanding Errors in Java: A Beginner’s Guide..](https://dev.to/vigneshwaralingam/understanding-errors-in-java-a-beginners-guide-47gj)
 <!-- BLOG-POST-LIST:END -->
 
