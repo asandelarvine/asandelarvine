@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating Models: Machine Learning with Docker Compose](https://dev.to/yhary_arias/orchestrating-models-machine-learning-with-docker-compose-5dlo)
-- [Common Java Errors in a Hello World Program and How to Fix Them.](https://dev.to/vigneshwaralingam/common-java-errors-in-a-hello-world-program-and-how-to-fix-them-5a2b)
-- [Python Notes #4 - Functions](https://dev.to/elvinseyidov/python-notes-4-functions-2em6)
-- [Understanding Errors in Java: A Beginner’s Guide..](https://dev.to/vigneshwaralingam/understanding-errors-in-java-a-beginners-guide-47gj)
+- [Developer Relations: What, Why, and How](https://dev.to/envitab/developer-relations-what-why-and-how-ne9)
+- [Inboxes are overflowing. Attention spans are shrinking. So how do you make your emails actually get read? This article explores the psychology behind short, effective emails—and how to apply it today. #ashkanrajaee #communication #emailstrategy](https://dev.to/marcusquinn05/inboxes-are-overflowing-attention-spans-are-shrinking-so-how-do-you-make-your-emails-actually-21fg)
+- [Java Unveiled: Efficiency, Security &amp; The Magic of Object-Oriented Programming.](https://dev.to/vigneshwaralingam/java-unveiled-efficiency-security-the-magic-of-object-oriented-programming-4o99)
+- [AWS CloudWatch: Why I stopped paying for external Monitoring tools](https://dev.to/aws-builders/aws-cloudwatch-why-i-stopped-paying-for-external-monitoring-tools-13d5)
 <!-- BLOG-POST-LIST:END -->
 
