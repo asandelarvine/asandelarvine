@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Armenia Temu Coupon Code 40% off ||*acr621129*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/armenia-temu-coupon-code-40-off-acr621129-new-existing-user-4eba)
-- [Brazil Temu Coupon Code 40% off ||*acr983993*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/brazil-temu-coupon-code-40-off-acr983993-new-existing-user-3dfm)
-- [Is Your Code the Hope Diamond? Entering the National Museum with SAST and Spring Boot!](https://dev.to/tyrell_wellicq_767cb57340/is-your-code-the-hope-diamond-entering-the-national-museum-with-sast-and-spring-boot-22mk)
-- [Handling Invisible characters with PHP](https://dev.to/yasserelgammal/handling-invisible-characters-with-php-1507)
+- [Day 1126 : Laser](https://dev.to/dwane/day-1126-laser-26k1)
+- [Env Shield: Your Secret Guardian in VS Code](https://dev.to/csuriel/env-shield-your-secret-guardian-in-vs-code-788)
+- [Secure OTP Generation &amp; Management in a Modern Node.js Stack](https://dev.to/yugjadvani/secure-otp-generation-management-in-a-modern-nodejs-stack-228i)
+- [[Boost]](https://dev.to/javadev4life/-10ji)
 <!-- BLOG-POST-LIST:END -->
 
