@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Image Management Efficiency Using AWS ECR Pull-Through Cache](https://dev.to/polar3130/optimizing-image-management-efficiency-using-aws-ecr-pull-through-cache-4846)
-- [[Boost]](https://dev.to/whoisnaisu/-2kc3)
-- [The process of creating an effective Application Security Programm: Strategies, techniques and tools for the best results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programm-strategies-techniques-and-dc0)
-- [The Dockerfile Disaster: How a Non-Root User Broke Our Production App!](https://dev.to/devopswithkishore/the-dockerfile-disaster-how-a-non-root-user-broke-my-apps-file-exports-5a5j)
+- [Twelve-Factor Architecture: Best Practices for Modern Applications](https://dev.to/lovestaco/twelve-factor-architecture-best-practices-for-modern-applications-56p)
+- [Meet Lynx – A New Multiplatform Framework!](https://dev.to/divyeshvekariya/meet-lynx-a-new-multiplatform-framework-5al7)
+- [iOS 18.4 Brings AI-Powered Priority Notifications](https://dev.to/divyeshvekariya/ios-184-brings-ai-powered-priority-notifications-43b7)
+- [Building a MCP server in Swift](https://dev.to/divyeshvekariya/building-a-mcp-server-in-swift-4gge)
 <!-- BLOG-POST-LIST:END -->
 
