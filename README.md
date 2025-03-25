@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Korea Temu Coupon Code 40% off ||*acs512482*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/korea-temu-coupon-code-40-off-acs512482-new-existing-user-3lal)
-- [My First](https://dev.to/nguyn_vntnh_53d53bb75/my-first-4chj)
-- [OLAP vs OLTP: The war that is not meant to be](https://dev.to/oramirezperera/olap-vs-oltp-the-war-that-is-not-meant-to-be-516b)
-- [My First Article](https://dev.to/nguyn_vntnh_53d53bb75/my-first-article-3gm5)
+- [Israel Temu Coupon Code 40% off ||*acs512482*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/israel-temu-coupon-code-40-off-acs512482-new-existing-user-n44)
+- [Configurations? Forget about it!](https://dev.to/kiponos/configurations-forget-about-it-4gjp)
+- [I am on a journey of learning Next.js](https://dev.to/ctrl_z_2ce0745dec2108aa8c/i-am-on-a-journey-of-learning-nextjs-3kp)
+- [Exercise 01: Configure an Azure Linux Virtual Machine](https://dev.to/1suleyman/exercise-01-configure-an-azure-linux-virtual-machine-5hn9)
 <!-- BLOG-POST-LIST:END -->
 
