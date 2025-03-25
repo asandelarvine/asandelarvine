@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming de datos Serverless con Aurora DSQL](https://dev.to/londoso/streaming-de-datos-serverless-con-aurora-dsql-2hmd)
-- [EasyJPA – Your Best Partner for JPA Development!](https://dev.to/paganini2008/easyjpa-your-best-partner-for-jpa-development-adj)
-- [Layer by Layer: The OSI Model Layer 4](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-4-21fo)
-- [Kendi Blog Siteni DEV.to Üzerinden Nasıl Kurabilirsin?](https://dev.to/eagledofc/kendi-blog-siteni-devto-uzerinden-nasil-kurabilirsin-5h62)
+- [Code Mind, Beginners Mind](https://dev.to/shiftyp/code-mind-beginners-mind-5d3d)
+- [Spring Architecture Series-4.Building Spring Framework from Scratch: A Learning Path Guide](https://dev.to/yaruyng/spring-architecture-series-4building-spring-framework-from-scratch-a-learning-path-guide-1nl6)
+- [Spring Architecture Series-3.Understanding Spring MVC Implementation](https://dev.to/yaruyng/spring-architecture-series-3understanding-spring-mvc-implementation-421c)
+- [How to plan your engineering team&#39;s capacity](https://dev.to/kodus/how-to-plan-your-engineering-teams-capacity-e9b)
 <!-- BLOG-POST-LIST:END -->
 
