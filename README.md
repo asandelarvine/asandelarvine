@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Mind, Beginners Mind](https://dev.to/shiftyp/code-mind-beginners-mind-5d3d)
-- [Spring Architecture Series-4.Building Spring Framework from Scratch: A Learning Path Guide](https://dev.to/yaruyng/spring-architecture-series-4building-spring-framework-from-scratch-a-learning-path-guide-1nl6)
-- [Spring Architecture Series-3.Understanding Spring MVC Implementation](https://dev.to/yaruyng/spring-architecture-series-3understanding-spring-mvc-implementation-421c)
-- [How to plan your engineering team&#39;s capacity](https://dev.to/kodus/how-to-plan-your-engineering-teams-capacity-e9b)
+- [Optimizing Image Management Efficiency Using AWS ECR Pull-Through Cache](https://dev.to/polar3130/optimizing-image-management-efficiency-using-aws-ecr-pull-through-cache-4846)
+- [[Boost]](https://dev.to/whoisnaisu/-2kc3)
+- [The process of creating an effective Application Security Programm: Strategies, techniques and tools for the best results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programm-strategies-techniques-and-dc0)
+- [The Dockerfile Disaster: How a Non-Root User Broke Our Production App!](https://dev.to/devopswithkishore/the-dockerfile-disaster-how-a-non-root-user-broke-my-apps-file-exports-5a5j)
 <!-- BLOG-POST-LIST:END -->
 
