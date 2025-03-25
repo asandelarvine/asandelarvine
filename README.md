@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Virtual Environments in Python](https://dev.to/godofgeeks/working-with-virtual-environments-in-python-2517)
-- [When Not to Use AI: A Developer’s Perspective](https://dev.to/divyanshulohani/when-not-to-use-ai-a-developers-perspective-4l60)
-- [A Beginner’s Guide to CISSP Certification](https://dev.to/markwayne/a-beginners-guide-to-cissp-certification-33ok)
-- [The Art of Code: Rediscovering Creativity in Programming](https://dev.to/copyleftdev/the-art-of-code-rediscovering-creativity-in-programming-29f8)
+- [OpenCV Porting on T507 Platform with Linux 4.19: A Deep Comparison Between Standalone Compilation and Buildroot Compilation](https://dev.to/ronnie_r_152dc2151d9449c6/opencv-porting-on-t507-platform-with-linux-419-a-deep-comparison-between-standalone-compilation-3gj1)
+- [Introduction to Machine Learning for Everyone!](https://dev.to/sarko07/introduction-to-machine-learning-for-everyone-5d5f)
+- [The Essential Role of Cloud Consultants in IT Management](https://dev.to/teleglobalintermational/the-essential-role-of-cloud-consultants-in-it-management-2k4o)
+- [Why My Open Source Project Wunjo Can’t Reach 1K Stars? 😢](https://dev.to/wladradchenko/why-my-open-source-project-wunjo-cant-reach-1k-stars-10b3)
 <!-- BLOG-POST-LIST:END -->
 
