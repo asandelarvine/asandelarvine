@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I tested the most popular AI website builders—here’s what I found ✨](https://dev.to/fredy/i-tested-the-most-popular-ai-website-builders-heres-what-i-found-4on8)
-- [My journey to Senior Software Engineer](https://dev.to/danoak/my-journey-to-senior-software-engineer-4akg)
-- [Tính test API dev.to](https://dev.to/nguyn_vntnh_53d53bb75/huong-dan-su-dung-devto-api-2334)
-- [How to Configure Grafana to Send Alerts to Slack and Telegram](https://dev.to/devopsvn/how-to-configure-grafana-to-send-alerts-to-slack-and-telegram-2o2a)
+- [This is day 2 of learning CSS](https://dev.to/umar_ali/this-is-day-2-of-learning-css-2hoa)
+- [DAY5 OF PSQL Using Join Query](https://dev.to/elayaraj_c_04396748f52a1c/day5-of-psql-using-join-query-3d26)
+- [Mastering Big Data with GCP: My Capstone Journey in Cloud Data Analysis](https://dev.to/rama13850/mastering-big-data-with-gcp-my-capstone-journey-in-cloud-data-analysis-hcp)
+- [Introduction to AWS CDK: Fundamentals and Benefits](https://dev.to/issy929/introduction-to-aws-cdk-fundamentals-and-benefits-2k1e)
 <!-- BLOG-POST-LIST:END -->
 
