@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Functional Programming in Python: 7 Essential Techniques for Cleaner Code](https://dev.to/aaravjoshi/master-functional-programming-in-python-7-essential-techniques-for-cleaner-code-2a9c)
-- [🔎 AWS GuardDuty vs. Inspector vs. Shield 🛡️ Which One Do You Need?](https://dev.to/aws-builders/aws-guardduty-vs-inspector-vs-shield-which-one-do-you-need-2ia5)
-- [Build a Twitter ReplyGuy using AI/ML API and Twitter API V2.](https://dev.to/abdibrokhim/build-a-twitter-replyguy-using-aiml-api-and-twitter-api-v2-3c3j)
-- [Introduction to Linux](https://dev.to/prasanth_fcf045e10b53562c/introduction-to-linux-4c7g)
+- [163/365 | ¥10M Job Challenge - Diet matters](https://dev.to/kameken100/163365-y10m-job-challenge-diet-matters-5769)
+- [Hyperparameter Tuning in Deep Learning: Best Practices for Optimizing Your Model](https://dev.to/devraj_more_5a115bafe8b0f/hyperparameter-tuning-in-deep-learning-best-practices-for-optimizing-your-model-1o9o)
+- [[Boost]](https://dev.to/fuzztech95/-5e40)
+- [A Free WAF Trusted by 300,000 Users Worldwide– SafeLine](https://dev.to/carrie_luo1/a-free-waf-trusted-by-300000-users-worldwide-safeline-1328)
 <!-- BLOG-POST-LIST:END -->
 
