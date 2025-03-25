@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Representation in tech matters. The #WeCoded challenge is creating a platform to recognize and celebrate diverse contributions to the industry. Discover the progress and join the movement.](https://dev.to/rajesh_patel/representation-in-tech-matters-the-wecoded-challenge-is-creating-a-platform-to-recognize-and-pnd)
-- [JavaScript Myths You Still Believe &lpar;But Shouldn’t!&rpar;](https://dev.to/dct_technologyprivatelimited/javascript-myths-you-still-believe-but-shouldnt-30nb)
-- [The #WeCoded challenge is a powerful initiative that brings together developers to create a platform promoting inclusivity in tech. Join the conversation and see how this project is driving meaningful change.](https://dev.to/nikhil_sachapara/the-wecoded-challenge-is-a-powerful-initiative-that-brings-together-developers-to-create-a-c4g)
-- [Diversity and inclusion are essential in the tech industry. The #WeCoded challenge is building a landing page to highlight and celebrate diverse voices in technology. Explore the initiative and its impact.](https://dev.to/naik_sejal/diversity-and-inclusion-are-essential-in-the-tech-industry-the-wecoded-challenge-is-building-a-1lbl)
+- [Marketing your SaaS](https://dev.to/schnitzel/marketing-your-saas-4861)
+- [Elevating Digital Experiences with Innovation](https://dev.to/auroanimate12/elevating-digital-experiences-with-innovation-1b5m)
+- [Tricentis Automated Software Testing Tools: The Ultimate Guide](https://dev.to/vinay_h2kinfosys_a71b70a7/tricentis-automated-software-testing-tools-the-ultimate-guide-15a3)
+- [Top Event Booking Apps to Simplify Your Events in 2025](https://dev.to/saanvipatel099/top-event-booking-apps-to-simplify-your-events-in-2025-1aec)
 <!-- BLOG-POST-LIST:END -->
 
