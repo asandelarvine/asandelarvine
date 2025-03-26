@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Trading on Your Wrist: Which Exchanges Support Wear OS?](https://dev.to/iri_denis/crypto-trading-on-your-wrist-which-exchanges-support-wear-os-2jek)
-- [Scanning Open Source Packages for Malicious Code 🚨](https://dev.to/abhisek/scanning-open-source-packages-for-malicious-code-4f09)
-- [MERN - Html &lpar;Day 6&rpar;](https://dev.to/ranjithsrt1/mern-html-day-6-4fnm)
-- [Database Management Systems for SaaS: A Comprehensive Guide](https://dev.to/mghassen/database-management-systems-for-saas-a-comprehensive-guide-1185)
+- [Hướng dẫn API Dev.to](https://dev.to/hunh_trungc/huong-dan-api-devto-4p63)
+- [Slice vs Splice in JavaScript: Key Differences Explained](https://dev.to/muhammadjareer/slice-vs-splice-in-javascript-key-differences-explained-45pa)
+- [JavaScript Loops](https://dev.to/vikrant_shitole_182356d46/javascript-loops-4pad)
+- [Cypress Dynamic Fixtures](https://dev.to/gregjacobs/cypress-dynamic-fixtures-5bm)
 <!-- BLOG-POST-LIST:END -->
 
