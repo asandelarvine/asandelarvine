@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOC 2 Compliance in India, Extensive Security &amp; Privacy Protection](https://dev.to/cybersigma/soc-2-compliance-in-india-extensive-security-privacy-protection-40la)
-- [How Grok 3 Works? Why Choose it?](https://dev.to/_37bbf0c253c0b3edec531e/how-grok-3-works-why-choose-it-4085)
-- [How Does IP Addressing Work In AWS?](https://dev.to/nadeem_zia_257af7e986ffc6/how-does-ip-addressing-work-in-aws-4221)
-- [Troubleshoot Your Last Boot Crash on Linux](https://dev.to/jakariya3/troubleshoot-your-last-boot-crash-on-linux-11hl)
+- [Tech Stack of Swedish Price Comparison Websites](https://dev.to/nico091/tech-stack-of-swedish-price-comparison-websites-1ji)
+- [Build AI SaaS products faster: My starter kit with Next.js, Supabase &amp; GPT](https://dev.to/abay_assenov_582e07244733/build-ai-saas-products-faster-my-starter-kit-with-nextjs-supabase-gpt-f0)
+- [AI Image Editor Gets Better at Following Instructions by Learning from its Mistakes](https://dev.to/mikeyoung44/ai-image-editor-gets-better-at-following-instructions-by-learning-from-its-mistakes-h30)
+- [New AI Model Cuts Remote Sensing Analysis Time by 90% While Matching Top Accuracy](https://dev.to/mikeyoung44/new-ai-model-cuts-remote-sensing-analysis-time-by-90-while-matching-top-accuracy-flk)
 <!-- BLOG-POST-LIST:END -->
 
