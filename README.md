@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Single View?](https://dev.to/engroso/what-is-a-single-view-222l)
-- [How to Retrieve User Country from IP Address](https://dev.to/idrisakintobi/how-to-retrieve-user-country-from-ip-address-4i9b)
-- [Video Watermarking with Rust and FFmpeg: A Deep Dive into Techniques and Applications](https://dev.to/yeauty/video-watermarking-with-rust-and-ffmpeg-a-deep-dive-into-techniques-and-applications-166j)
-- [How To Fetch Data From API In React JS Axios](https://dev.to/theudemezue/how-to-fetch-data-from-api-in-react-js-axios-1p3g)
+- [&quot;Unlocking Quantum Circuit Speed: The Power of Gate Fusion Optimization&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-circuit-speed-the-power-of-gate-fusion-optimization-3f83)
+- [Developing a WebRTC SFU library in Rust](https://dev.to/h3poteto/developing-a-webrtc-sfu-library-in-rust-2g8p)
+- [AI Can Build Fast, But Can It Scale?](https://dev.to/iamhassank/ai-can-build-fast-but-can-it-scale-354k)
+- [Implementing an effective Application Security Program: Strategies, methods and tools to maximize results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-124p)
 <!-- BLOG-POST-LIST:END -->
 
