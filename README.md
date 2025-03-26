@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Developer Debate: Tabs vs. Spaces – Does It Really Matter? 🤔](https://dev.to/vibhuvibes/the-great-developer-debate-tabs-vs-spaces-does-it-really-matter-52dk)
-- [Why is PHP Ideal for Developing an Event Management Platform?](https://dev.to/dilshaddurani/why-is-php-ideal-for-developing-an-event-management-platform-1dp8)
-- [Gasless Transactions: The Missing UX Layer in Web3 Adoption](https://dev.to/omniradhanexus/gasless-transactions-the-missing-ux-layer-in-web3-adoption-1in7)
-- [Cloud Tester Certification to be a Successful Software Testing Professional](https://dev.to/tom_cruise_47f47443bff64e/cloud-tester-certification-to-be-a-successful-software-testing-professional-3o38)
+- [DeepSeek V3-0324: A &quot;Minor&quot; Upgrade That Feels Major](https://dev.to/james_lin_e0b4cf88eff0124/deepseek-v3-0324-a-minor-upgrade-that-feels-major-29ea)
+- [Top AI Service Providers in the USA: CRM Modernization Accelerating Cloud Digital Transformation](https://dev.to/visa_61644daeb201934700eb/top-ai-service-providers-in-the-usa-crm-modernization-accelerating-cloud-digital-transformation-46f8)
+- [Building an E-Commerce Support Chatbot: Part 2 - Building the Knowledge Base](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-2-building-the-knowledge-base-2mj2)
+- [&quot;Revolutionizing Robotics: Unleashing PartRM for Motion Mastery&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-robotics-unleashing-partrm-for-motion-mastery-24h4)
 <!-- BLOG-POST-LIST:END -->
 
