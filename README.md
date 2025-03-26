@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1126 : Laser](https://dev.to/dwane/day-1126-laser-26k1)
-- [Env Shield: Your Secret Guardian in VS Code](https://dev.to/csuriel/env-shield-your-secret-guardian-in-vs-code-788)
-- [Secure OTP Generation &amp; Management in a Modern Node.js Stack](https://dev.to/yugjadvani/secure-otp-generation-management-in-a-modern-nodejs-stack-228i)
-- [[Boost]](https://dev.to/javadev4life/-10ji)
+- [Security Protection and Log Monitoring of ohpm-repo in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/security-protection-and-log-monitoring-of-ohpm-repo-in-harmonyos-next-12mh)
+- [Data Storage Security and Multi-instance High-availability Deployment of ohpm-repo in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/data-storage-security-and-multi-instance-high-availability-deployment-of-ohpm-repo-in-harmonyos-next-4jen)
+- [Access Control and Permission Management of ohpm-repo in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/access-control-and-permission-management-of-ohpm-repo-in-harmonyos-next-1eo7)
+- [Encrypted Connection and HTTPS Configuration of ohpm-repo in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/encrypted-connection-and-https-configuration-of-ohpm-repo-in-harmonyos-next-cfo)
 <!-- BLOG-POST-LIST:END -->
 
