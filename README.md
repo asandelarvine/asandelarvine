@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Squash, Rebase, Merge: Keeping Your CI/CD Pipelines Clean and Efficient 🚀](https://dev.to/favxlaw/squash-rebase-merge-keeping-your-cicd-pipelines-clean-and-efficient-8cc)
-- [Discover how to build a trust-based culture for your dev team! This blog offers strategies for balancing autonomy and productivity with tools like Teamcamp](https://dev.to/rajesh_patel/discover-how-to-build-a-trust-based-culture-for-your-dev-team-this-blog-offers-strategies-for-3597)
-- [CSS Performance Tips: Writing Faster, More Efficient Styles](https://dev.to/hasunnilupul/css-performance-tips-writing-faster-more-efficient-styles-46f0)
-- [Want to track developer productivity without disrupting their flow? This insightful blog covers all aspects, including how Teamcamp can help you manage projects smarter!](https://dev.to/nikhil_sachapara/want-to-track-developer-productivity-without-disrupting-their-flow-this-insightful-blog-covers-all-4jj3)
+- [Handling Backpressure in Software Systems](https://dev.to/lovestaco/handling-backpressure-in-software-systems-23m1)
+- [AppSheet Alternative: Build a Many-to-Many Task System No-Code](https://dev.to/nocobase/appsheet-alternative-build-a-many-to-many-task-system-no-code-22l6)
+- [🚀 10 Frontend Development Hacks That Will Make You a PRO in 2024! 💻🔥](https://dev.to/er-raj-aryan/10-frontend-development-hacks-that-will-make-you-a-pro-in-2024-33bd)
+- [Security Redefined: Introducing DaggerX V3.0.0 for Unbreakable PHP Protection](https://dev.to/dagger_x_2752263ef90f5488/security-redefined-introducing-daggerx-v300-for-unbreakable-php-protection-1no4)
 <!-- BLOG-POST-LIST:END -->
 
