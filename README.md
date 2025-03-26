@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hướng dẫn API Dev.to](https://dev.to/hunh_trungc/huong-dan-api-devto-4p63)
-- [Slice vs Splice in JavaScript: Key Differences Explained](https://dev.to/muhammadjareer/slice-vs-splice-in-javascript-key-differences-explained-45pa)
-- [JavaScript Loops](https://dev.to/vikrant_shitole_182356d46/javascript-loops-4pad)
-- [Cypress Dynamic Fixtures](https://dev.to/gregjacobs/cypress-dynamic-fixtures-5bm)
+- [Descubre los Servicios en Angular: Potencia tu Aplicación como un Pro](https://dev.to/cristian_arieta_7df932e5f/descubre-los-servicios-en-angular-potencia-tu-aplicacion-como-un-pro-4gmb)
+- [Software&#39;s Future: Developer&#39;s Role Evolves Software drives our world, from phones to global systems. Developers are key, but tech advances bring change. The world is increasingly powered by software. From the smartphones in our pockets to the complex](https://dev.to/ogc16/-softwares-future-developers-role-evolves-software-drives-our-world-from-phones-to-global-533j)
+- [My First Step Into Web Design! 🚀](https://dev.to/queenlisaomondi/my-first-step-into-web-design-3g0g)
+- [How I Learned Linux: A Deep Dive into Debugging, Troubleshooting, and System Mastery](https://dev.to/sourav_mahato_3900/how-i-learned-linux-a-deep-dive-into-debugging-troubleshooting-and-system-mastery-29m3)
 <!-- BLOG-POST-LIST:END -->
 
