@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Color Management Across Apple Frameworks](https://dev.to/divyeshvekariya/color-management-across-apple-frameworks-non)
-- [Extending Claude&#39;s Brain: How MCP makes AI actually useful for developers](https://dev.to/siddhantkcode/extending-claudes-brain-how-mcp-makes-ai-actually-useful-for-developers-35c4)
-- [Simulating GCash&#39;s Luck Load Game with Minimal Ruby Code](https://dev.to/jessalejo/simulating-gcashs-luck-load-game-with-minimal-ruby-code-4edl)
-- [8 Key Principles for Effective RESTful APIs in Node.js](https://dev.to/arunangshu_das/8-key-principles-for-effective-restful-apis-in-nodejs-4omg)
+- [Squash, Rebase, Merge: Keeping Your CI/CD Pipelines Clean and Efficient 🚀](https://dev.to/favxlaw/squash-rebase-merge-keeping-your-cicd-pipelines-clean-and-efficient-8cc)
+- [Discover how to build a trust-based culture for your dev team! This blog offers strategies for balancing autonomy and productivity with tools like Teamcamp](https://dev.to/rajesh_patel/discover-how-to-build-a-trust-based-culture-for-your-dev-team-this-blog-offers-strategies-for-3597)
+- [CSS Performance Tips: Writing Faster, More Efficient Styles](https://dev.to/hasunnilupul/css-performance-tips-writing-faster-more-efficient-styles-46f0)
+- [Want to track developer productivity without disrupting their flow? This insightful blog covers all aspects, including how Teamcamp can help you manage projects smarter!](https://dev.to/nikhil_sachapara/want-to-track-developer-productivity-without-disrupting-their-flow-this-insightful-blog-covers-all-4jj3)
 <!-- BLOG-POST-LIST:END -->
 
