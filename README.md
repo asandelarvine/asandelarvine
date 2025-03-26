@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Big Thing in AI &lpar;Here’s Why It Matters&rpar;](https://dev.to/itshayder/the-next-big-thing-in-ai-heres-why-it-matters-3e9h)
-- [Recommended Session Calculator Based on Age and Skin Type](https://dev.to/emily_johnson_dev/recommended-session-calculator-based-on-age-and-skin-type-57oi)
-- [Rust Concurrency: Fearless Concurrency](https://dev.to/leapcell/rust-concurrency-fearless-concurrency-24h)
-- [Unlocking Hidden Performance Bottlenecks in Golang using GoFr: The Underrated Power of pprof](https://dev.to/aryanmehrotra/unlocking-hidden-performance-bottlenecks-in-golang-using-gofr-the-underrated-power-of-pprof-2dc7)
+- [JavoTK - A Better OpenTK](https://dev.to/wddeter/javotk-a-better-opentk-494o)
+- [Building Stateful AI Research Agent with openai-agents and AutoKitteh](https://dev.to/itayd/building-stateful-ai-research-agent-with-openai-agents-and-autokitteh-4aif)
+- [Cartoon Cricket Grid](https://dev.to/mickaellherminez/cartoon-cricket-grid-15if)
+- [How to Set Up a Jenkins Host on a Remote Server for Ansible Job Execution](https://dev.to/titans_sarim_42380409554b/how-to-set-up-a-jenkins-host-on-a-remote-server-for-ansible-job-execution-3dl0)
 <!-- BLOG-POST-LIST:END -->
 
