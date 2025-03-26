@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay Launches Educational Program for Students and Teachers](https://dev.to/servbay/servbay-launches-educational-program-for-students-and-teachers-che)
-- [Re-Revisiting Performance in Ruby 3.4.1](https://dev.to/reinteractive/re-revisiting-performance-in-ruby-341-2g9m)
-- [How to use gdb to debug Golf applications](https://dev.to/golf-lang/how-to-use-gdb-to-debug-golf-applications-5abj)
-- [All Builders Welcome - Applications for the All Builders Welcome Grant are now open](https://dev.to/tobyvu/all-builders-welcome-applications-for-the-all-builders-welcome-grant-are-now-open-3c3o)
+- [In - Depth Analysis of RuleOS Plugins: Powerful Tools for Token Issuance and Management](https://dev.to/amandacoco/in-depth-analysis-of-ruleos-plugins-powerful-tools-for-token-issuance-and-management-3c6l)
+- [GenAI vs. Data Scientists: Cutting Through the Hype in the Future of Analytics](https://dev.to/futureofanalytics/genai-vs-data-scientists-cutting-through-the-hype-in-the-future-of-analytics-5a33)
+- [Day 27-Java collections:](https://dev.to/reegan/day-27-java-collections-58cg)
+- [Crafting an Effective Application Security Program: Strategies, Techniques and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-optimal-136b)
 <!-- BLOG-POST-LIST:END -->
 
