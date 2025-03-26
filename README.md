@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V3-0324: A &quot;Minor&quot; Upgrade That Feels Major](https://dev.to/james_lin_e0b4cf88eff0124/deepseek-v3-0324-a-minor-upgrade-that-feels-major-29ea)
-- [Top AI Service Providers in the USA: CRM Modernization Accelerating Cloud Digital Transformation](https://dev.to/visa_61644daeb201934700eb/top-ai-service-providers-in-the-usa-crm-modernization-accelerating-cloud-digital-transformation-46f8)
-- [Building an E-Commerce Support Chatbot: Part 2 - Building the Knowledge Base](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-2-building-the-knowledge-base-2mj2)
-- [&quot;Revolutionizing Robotics: Unleashing PartRM for Motion Mastery&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-robotics-unleashing-partrm-for-motion-mastery-24h4)
+- [SafeLine WAF: Website Inaccessible After Configuration](https://dev.to/carrie_luo1/safeline-waf-troubleshooting-guide-website-inaccessible-after-configuration-16m3)
+- [HarmonyOS NEXT Practical: Storage data - Preferences Tools](https://dev.to/victordeng/harmonyos-next-practical-storage-data-preferences-tools-31i8)
+- [Building your own code assistant! How long does it take?](https://dev.to/aairom/building-your-own-code-assistant-how-long-does-it-take-4e8c)
+- [Gamifying Link Building: Engaging Audiences for Natural Backlinks](https://dev.to/lucasjack/gamifying-link-building-engaging-audiences-for-natural-backlinks-463e)
 <!-- BLOG-POST-LIST:END -->
 
