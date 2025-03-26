@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 26 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-march-l78)
-- [Introducing HIP-991: Permissionless Revenue-Generating Topic Ids for Topic Operators](https://dev.to/hedera/introducing-hip-991-permissionless-revenue-generating-topic-ids-for-topic-operators-4ie0)
-- [Aligning Sales and Marketing Teams for Effective B2B Marketing Attribution](https://dev.to/blink_smartlinks_9507a05e/aligning-sales-and-marketing-teams-for-effective-b2b-marketing-attribution-3k4d)
-- [Type Safety, Custom Iterators, and Runtime Structures in the Real World](https://dev.to/timbeaudet/type-safety-custom-iterators-and-runtime-structures-in-the-real-world-5e71)
+- [How I&#39;d Approach DevRel for AssemblyAI](https://dev.to/the_ladybella/how-id-approach-devrel-for-assemblyai-4gc2)
+- [Bridgin&#39; EffectTS and GraphQL](https://dev.to/amar4enko/bridgin-effectts-and-graphql-929)
+- [Introduction to branched RAG](https://dev.to/ibmdeveloper/introduction-to-branched-rag-1a7p)
+- [NIXX/DEV: Free Online Tools for Developers &amp; Everyone](https://dev.to/nixx/nixxdev-free-online-tools-for-developers-everyone-144l)
 <!-- BLOG-POST-LIST:END -->
 
