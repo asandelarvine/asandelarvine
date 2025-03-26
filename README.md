@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Quantum Circuit Speed: The Power of Gate Fusion Optimization&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-circuit-speed-the-power-of-gate-fusion-optimization-3f83)
-- [Developing a WebRTC SFU library in Rust](https://dev.to/h3poteto/developing-a-webrtc-sfu-library-in-rust-2g8p)
-- [AI Can Build Fast, But Can It Scale?](https://dev.to/iamhassank/ai-can-build-fast-but-can-it-scale-354k)
-- [Implementing an effective Application Security Program: Strategies, methods and tools to maximize results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-124p)
+- [Crypto Trading on Your Wrist: Which Exchanges Support Wear OS?](https://dev.to/iri_denis/crypto-trading-on-your-wrist-which-exchanges-support-wear-os-2jek)
+- [Scanning Open Source Packages for Malicious Code 🚨](https://dev.to/abhisek/scanning-open-source-packages-for-malicious-code-4f09)
+- [MERN - Html &lpar;Day 6&rpar;](https://dev.to/ranjithsrt1/mern-html-day-6-4fnm)
+- [Database Management Systems for SaaS: A Comprehensive Guide](https://dev.to/mghassen/database-management-systems-for-saas-a-comprehensive-guide-1185)
 <!-- BLOG-POST-LIST:END -->
 
