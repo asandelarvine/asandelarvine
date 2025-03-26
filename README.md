@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In - Depth Analysis of RuleOS Plugins: Powerful Tools for Token Issuance and Management](https://dev.to/amandacoco/in-depth-analysis-of-ruleos-plugins-powerful-tools-for-token-issuance-and-management-3c6l)
-- [GenAI vs. Data Scientists: Cutting Through the Hype in the Future of Analytics](https://dev.to/futureofanalytics/genai-vs-data-scientists-cutting-through-the-hype-in-the-future-of-analytics-5a33)
-- [Day 27-Java collections:](https://dev.to/reegan/day-27-java-collections-58cg)
-- [Crafting an Effective Application Security Program: Strategies, Techniques and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-optimal-136b)
+- [Color Management Across Apple Frameworks](https://dev.to/divyeshvekariya/color-management-across-apple-frameworks-non)
+- [Extending Claude&#39;s Brain: How MCP makes AI actually useful for developers](https://dev.to/siddhantkcode/extending-claudes-brain-how-mcp-makes-ai-actually-useful-for-developers-35c4)
+- [Simulating GCash&#39;s Luck Load Game with Minimal Ruby Code](https://dev.to/jessalejo/simulating-gcashs-luck-load-game-with-minimal-ruby-code-4edl)
+- [8 Key Principles for Effective RESTful APIs in Node.js](https://dev.to/arunangshu_das/8-key-principles-for-effective-restful-apis-in-nodejs-4omg)
 <!-- BLOG-POST-LIST:END -->
 
