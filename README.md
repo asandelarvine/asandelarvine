@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RDP to your EC2-Ubuntu](https://dev.to/sambo2021/rdp-to-your-ec2-ubuntu-c4n)
-- [RDP to your EC2-Ubuntu](https://dev.to/sambo2021/rdp-to-your-ec2-ubuntu-k1o)
-- [Get Private Packages in Go](https://dev.to/erfandiakoo/get-private-packages-in-go-321b)
-- [Using RabbitMQ with Queues in Laravel](https://dev.to/aleson-franca/using-rabbitmq-with-queues-in-laravel-l1d)
+- [Login Page for Modern Applications](https://dev.to/devh0us3/login-page-for-modern-applications-297)
+- [Golang Game Development: Building a Basic Platformer with Bappa Framework](https://dev.to/thebitdrifter/golang-game-development-building-a-basic-platformer-with-bappa-framework-4eoj)
+- [Drifting Through Code: My Journey to Building Bappa](https://dev.to/thebitdrifter/drifting-through-code-my-journey-to-building-bappa-1jdh)
+- [Exercise 03: Access Storage for an Azure Linux Virtual Machine](https://dev.to/1suleyman/exercise-03-access-storage-for-an-azure-linux-virtual-machine-bl4)
 <!-- BLOG-POST-LIST:END -->
 
