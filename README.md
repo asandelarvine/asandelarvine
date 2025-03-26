@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Backpressure in Software Systems](https://dev.to/lovestaco/handling-backpressure-in-software-systems-23m1)
-- [AppSheet Alternative: Build a Many-to-Many Task System No-Code](https://dev.to/nocobase/appsheet-alternative-build-a-many-to-many-task-system-no-code-22l6)
-- [🚀 10 Frontend Development Hacks That Will Make You a PRO in 2024! 💻🔥](https://dev.to/er-raj-aryan/10-frontend-development-hacks-that-will-make-you-a-pro-in-2024-33bd)
-- [Security Redefined: Introducing DaggerX V3.0.0 for Unbreakable PHP Protection](https://dev.to/dagger_x_2752263ef90f5488/security-redefined-introducing-daggerx-v300-for-unbreakable-php-protection-1no4)
+- [The Great Developer Debate: Tabs vs. Spaces – Does It Really Matter? 🤔](https://dev.to/vibhuvibes/the-great-developer-debate-tabs-vs-spaces-does-it-really-matter-52dk)
+- [Why is PHP Ideal for Developing an Event Management Platform?](https://dev.to/dilshaddurani/why-is-php-ideal-for-developing-an-event-management-platform-1dp8)
+- [Gasless Transactions: The Missing UX Layer in Web3 Adoption](https://dev.to/omniradhanexus/gasless-transactions-the-missing-ux-layer-in-web3-adoption-1in7)
+- [Cloud Tester Certification to be a Successful Software Testing Professional](https://dev.to/tom_cruise_47f47443bff64e/cloud-tester-certification-to-be-a-successful-software-testing-professional-3o38)
 <!-- BLOG-POST-LIST:END -->
 
