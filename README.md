@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Stack of Swedish Price Comparison Websites](https://dev.to/nico091/tech-stack-of-swedish-price-comparison-websites-1ji)
-- [Build AI SaaS products faster: My starter kit with Next.js, Supabase &amp; GPT](https://dev.to/abay_assenov_582e07244733/build-ai-saas-products-faster-my-starter-kit-with-nextjs-supabase-gpt-f0)
-- [AI Image Editor Gets Better at Following Instructions by Learning from its Mistakes](https://dev.to/mikeyoung44/ai-image-editor-gets-better-at-following-instructions-by-learning-from-its-mistakes-h30)
-- [New AI Model Cuts Remote Sensing Analysis Time by 90% While Matching Top Accuracy](https://dev.to/mikeyoung44/new-ai-model-cuts-remote-sensing-analysis-time-by-90-while-matching-top-accuracy-flk)
+- [🚀 Your Daily Crypto Job Digest For 26 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-march-l78)
+- [Introducing HIP-991: Permissionless Revenue-Generating Topic Ids for Topic Operators](https://dev.to/hedera/introducing-hip-991-permissionless-revenue-generating-topic-ids-for-topic-operators-4ie0)
+- [Aligning Sales and Marketing Teams for Effective B2B Marketing Attribution](https://dev.to/blink_smartlinks_9507a05e/aligning-sales-and-marketing-teams-for-effective-b2b-marketing-attribution-3k4d)
+- [Type Safety, Custom Iterators, and Runtime Structures in the Real World](https://dev.to/timbeaudet/type-safety-custom-iterators-and-runtime-structures-in-the-real-world-5e71)
 <!-- BLOG-POST-LIST:END -->
 
