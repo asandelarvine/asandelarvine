@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Login Page for Modern Applications](https://dev.to/devh0us3/login-page-for-modern-applications-297)
-- [Golang Game Development: Building a Basic Platformer with Bappa Framework](https://dev.to/thebitdrifter/golang-game-development-building-a-basic-platformer-with-bappa-framework-4eoj)
-- [Drifting Through Code: My Journey to Building Bappa](https://dev.to/thebitdrifter/drifting-through-code-my-journey-to-building-bappa-1jdh)
-- [Exercise 03: Access Storage for an Azure Linux Virtual Machine](https://dev.to/1suleyman/exercise-03-access-storage-for-an-azure-linux-virtual-machine-bl4)
+- [The Next Big Thing in AI &lpar;Here’s Why It Matters&rpar;](https://dev.to/itshayder/the-next-big-thing-in-ai-heres-why-it-matters-3e9h)
+- [Recommended Session Calculator Based on Age and Skin Type](https://dev.to/emily_johnson_dev/recommended-session-calculator-based-on-age-and-skin-type-57oi)
+- [Rust Concurrency: Fearless Concurrency](https://dev.to/leapcell/rust-concurrency-fearless-concurrency-24h)
+- [Unlocking Hidden Performance Bottlenecks in Golang using GoFr: The Underrated Power of pprof](https://dev.to/aryanmehrotra/unlocking-hidden-performance-bottlenecks-in-golang-using-gofr-the-underrated-power-of-pprof-2dc7)
 <!-- BLOG-POST-LIST:END -->
 
