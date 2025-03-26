@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF: Website Inaccessible After Configuration](https://dev.to/carrie_luo1/safeline-waf-troubleshooting-guide-website-inaccessible-after-configuration-16m3)
-- [HarmonyOS NEXT Practical: Storage data - Preferences Tools](https://dev.to/victordeng/harmonyos-next-practical-storage-data-preferences-tools-31i8)
-- [Building your own code assistant! How long does it take?](https://dev.to/aairom/building-your-own-code-assistant-how-long-does-it-take-4e8c)
-- [Gamifying Link Building: Engaging Audiences for Natural Backlinks](https://dev.to/lucasjack/gamifying-link-building-engaging-audiences-for-natural-backlinks-463e)
+- [SOC 2 Compliance in India, Extensive Security &amp; Privacy Protection](https://dev.to/cybersigma/soc-2-compliance-in-india-extensive-security-privacy-protection-40la)
+- [How Grok 3 Works? Why Choose it?](https://dev.to/_37bbf0c253c0b3edec531e/how-grok-3-works-why-choose-it-4085)
+- [How Does IP Addressing Work In AWS?](https://dev.to/nadeem_zia_257af7e986ffc6/how-does-ip-addressing-work-in-aws-4221)
+- [Troubleshoot Your Last Boot Crash on Linux](https://dev.to/jakariya3/troubleshoot-your-last-boot-crash-on-linux-11hl)
 <!-- BLOG-POST-LIST:END -->
 
