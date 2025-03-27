@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Local Storage for Prototyping](https://dev.to/nightwavesprogramming/using-local-storage-for-prototyping-15fd)
-- [Hướng Dẫn Gọi API với Pmn](https://dev.to/chu_anhhuy_db2ab2820ca3/huong-dan-goi-api-voi-pmn-5969)
-- [Azure Data Factory](https://dev.to/madgan95/azure-data-factory-4pdp)
-- [Write your first code using C#](https://dev.to/bdporomon/write-your-first-code-using-c-5dc0)
+- [Hướng dẫn sử dụng API Dev.to](https://dev.to/hunh_trungc/hhuong-dan-english-5051)
+- [The New Era of Mobile Accessibility Testing: How Genqe.ai is Revolutionizing 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-new-era-of-mobile-accessibility-testing-how-genqeai-is-revolutionizing-2025-59fe)
+- [Hướng dẫn sử dụng API Dev.to](https://dev.to/hunh_trungc/hhuong-dan-a-4n5m)
+- [Apache SeaTunnel optimization strategy for synchronizing MySQL to Doris](https://dev.to/seatunnel/apache-seatunnel-optimization-strategy-for-synchronizing-mysql-to-doris-21g)
 <!-- BLOG-POST-LIST:END -->
 
