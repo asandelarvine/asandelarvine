@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Think Before You Code: The Art of Understanding Problems](https://dev.to/wraith/think-before-you-code-the-art-of-understanding-problems-1hpa)
-- [Stopping the Stream: A Pythonic Guide to Controlling OpenAI Responses](https://dev.to/biancassilva/stopping-the-stream-a-pythonic-guide-to-controlling-openai-responses-4gpb)
-- [The Complete Guide to Secure Angular Authentication Using OAuth + JWT with Refresh Tokens](https://dev.to/indugrand/the-complete-guide-to-secure-angular-authentication-using-oauth-jwt-with-refresh-tokens-4a3o)
-- [Python vs. C for Microcontrollers — Which One Wins?](https://dev.to/coursedia/python-vs-c-for-microcontrollers-which-one-wins-211a)
+- [AI Runner: now with Pygame support](https://dev.to/w4ffl35/ai-runner-now-with-pygame-support-2jfm)
+- [Efficiently handle large datasets, huge files and data streams with PHP generators](https://dev.to/robertobutti/efficiently-handle-large-datasets-huge-files-and-data-streams-with-php-generators-4ajf)
+- [Low-Code: A Practical Solution or Just Another Buzzword?](https://dev.to/anna-szpakowska/low-code-a-practical-solution-or-just-another-buzzword-d1l)
+- [Day 1128 : Believe](https://dev.to/dwane/day-1128-believe-1bik)
 <!-- BLOG-POST-LIST:END -->
 
