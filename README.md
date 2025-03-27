@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [About Me – DevOps &amp; DevSecOps Engineer](https://dev.to/devopswithkishore/about-me-devops-devsecops-engineer-20lh)
-- [Contribute to Open English VN – Help Build a Valuable Learning Resource!](https://dev.to/gianguyen1234/contribute-to-open-english-vn-help-build-a-valuable-learning-resource-gal)
-- [greedy challenges](https://dev.to/johnsone_emett_c5c2b56a4a/greedy-challenges-oe3)
-- [[Boost]](https://dev.to/sudhanshu_dasgupta/-868)
+- [Measuring your program speed correctly](https://dev.to/absterdabster/measuring-your-program-speed-correctly-4a52)
+- [🐰 Coloriage Lapin – Un’attività creativa e divertente per grandi e piccoli! 🎨✨](https://dev.to/laurencefocke/coloriage-lapin-unattivita-creativa-e-divertente-per-grandi-e-piccoli-101c)
+- [The Future of Workplace Efficiency: Balancing Productivity and Privacy](https://dev.to/remotly/the-future-of-workplace-efficiency-balancing-productivity-and-privacy-4fhc)
+- [Setup a Redis Cluster using Redis Stack](https://dev.to/hedgehog/setup-a-redis-cluster-using-redis-stack-4jdl)
 <!-- BLOG-POST-LIST:END -->
 
