@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Busy Waiting in Java Multithreading: Explanation and Examples](https://dev.to/tpointtechadu/busy-waiting-in-java-multithreading-explanation-and-examples-1o1g)
-- [Making a Clicker Game with a Leaderboard](https://dev.to/anvil/making-a-clicker-game-with-a-leaderboard-oa1)
-- [The five best AI tools of 2025](https://dev.to/scrapestorm/the-five-best-ai-tools-of-2025-3291)
-- [Attract, Don’t Chase: The Key to Effortless Success](https://dev.to/teki_solves_fb72717580279/attract-dont-chase-the-key-to-effortless-success-3g5b)
+- [Run Postgres For Free: Top 3 Options](https://dev.to/hackmamba/run-postgres-for-free-top-3-options-2pk6)
+- [How to Add Menu in any Website](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-menu-in-any-website-47jc)
+- [Revolutionizing Creativity: The Power of Artificial Intelligence in Image Creation](https://dev.to/article-1/revolutionizing-creativity-the-power-of-artificial-intelligence-in-image-creation-nj0)
+- [10 Things a Non-Tech Founder Should Know to Run a Tech Start-up](https://dev.to/phyniks/10-things-a-non-tech-founder-should-know-to-run-a-tech-start-up-3bll)
 <!-- BLOG-POST-LIST:END -->
 
