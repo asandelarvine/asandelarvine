@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Runner: now with Pygame support](https://dev.to/w4ffl35/ai-runner-now-with-pygame-support-2jfm)
-- [Efficiently handle large datasets, huge files and data streams with PHP generators](https://dev.to/robertobutti/efficiently-handle-large-datasets-huge-files-and-data-streams-with-php-generators-4ajf)
-- [Low-Code: A Practical Solution or Just Another Buzzword?](https://dev.to/anna-szpakowska/low-code-a-practical-solution-or-just-another-buzzword-d1l)
-- [Day 1128 : Believe](https://dev.to/dwane/day-1128-believe-1bik)
+- [Beyond Assistants: The Birth of KinAI](https://dev.to/gustavothethird/beyond-assistants-the-birth-of-kinai-daa)
+- [Quantum Leaps and Grandma&#39;s Hugs, A Letter to My Beloved Grandma](https://dev.to/aniruddhaadak/quantum-leaps-and-grandmas-hugs-a-letter-to-my-beloved-grandma-jie)
+- [The Future of Cloud Computing: Trends and Technologies to Watch](https://dev.to/bmadupati1108/the-future-of-cloud-computing-trends-and-technologies-to-watch-42e5)
+- [Portfolio - feedback](https://dev.to/sababat/portfolio-feedback-4kln)
 <!-- BLOG-POST-LIST:END -->
 
