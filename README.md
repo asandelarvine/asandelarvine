@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forward vs. Reverse Proxy: A Developer Friendly Guide](https://dev.to/lovestaco/forward-vs-reverse-proxy-a-developer-friendly-guide-3248)
-- [A Comprehensive Guide to CSS Terminology](https://dev.to/gerryleonugroho/a-comprehensive-guide-to-css-terminology-1bdo)
-- [SQL Day 5: UNION, UNION ALL, Data Type Changes, and CAST in PostgreSQL](https://dev.to/vigneshwaralingam/sql-day-5-union-union-all-data-type-changes-and-cast-in-postgresql-3lk8)
-- [How I Built a Fully Functional Email Signature Generator Web App Using AI](https://dev.to/aleez/how-i-built-a-fully-functional-email-signature-generator-web-app-using-ai-1ec)
+- [Desplegando Aplicaciones Frontend en AWS App Runner: Desde el Build hasta el Escalamiento](https://dev.to/geramireze/desplegando-aplicaciones-frontend-en-aws-app-runner-desde-el-build-hasta-el-escalamiento-4d60)
+- [Integración de PWA con AWS Amplify: Llevando tu Aplicación al Siguiente Nivel](https://dev.to/geramireze/integracion-de-pwa-con-aws-amplify-llevando-tu-aplicacion-al-siguiente-nivel-1bao)
+- [Why I Regret Learning Python First?](https://dev.to/holasoymalva/why-i-regret-learning-python-first-3pkg)
+- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
 <!-- BLOG-POST-LIST:END -->
 
