@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breakthrough AI Model Creates Ultra-Realistic Videos by Processing All Frames at Once](https://dev.to/mikeyoung44/breakthrough-ai-model-creates-ultra-realistic-videos-by-processing-all-frames-at-once-3e0h)
-- [AI Neural Network Speeds Up Physics Simulations by 8x Using Multi-Scale Approach](https://dev.to/mikeyoung44/ai-neural-network-speeds-up-physics-simulations-by-8x-using-multi-scale-approach-2p07)
-- [DeepSeek vs ChatGPT: Coding Efficiency Test](https://dev.to/wadizaatour/deepseek-vs-chatgpt-coding-efficiency-test-fdg)
-- [OOP Explained Like You&#39;re Five &lpar;But Not Really!&rpar;](https://dev.to/preeti_yadav/oop-explained-like-youre-five-but-not-really-2m75)
+- [Busy Waiting in Java Multithreading: Explanation and Examples](https://dev.to/tpointtechadu/busy-waiting-in-java-multithreading-explanation-and-examples-1o1g)
+- [Making a Clicker Game with a Leaderboard](https://dev.to/anvil/making-a-clicker-game-with-a-leaderboard-oa1)
+- [The five best AI tools of 2025](https://dev.to/scrapestorm/the-five-best-ai-tools-of-2025-3291)
+- [Attract, Don’t Chase: The Key to Effortless Success](https://dev.to/teki_solves_fb72717580279/attract-dont-chase-the-key-to-effortless-success-3g5b)
 <!-- BLOG-POST-LIST:END -->
 
