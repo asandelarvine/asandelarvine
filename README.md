@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Best SaaS Integration Platform: Complete 2025 Guide](https://dev.to/albert_kavin_186c1005a3a8/best-saas-integration-platform-complete-2025-guide-2m0l)
-- [Optimize Core Web Vitals - FCP and LCP: Remove not need dependencies](https://dev.to/jenchen/optimize-core-web-vitals-fcp-and-lcp-remove-not-need-dependencies-42ik)
-- [Is RAG Still Needed? Retrieval Beyond Vector Embeddings](https://dev.to/badmonster0/is-rag-still-needed-retrieval-beyond-vector-embeddings-24mb)
-- [Optimize Core Web Vitals - FCP and LCP: Render-blocking resources](https://dev.to/jenchen/optimize-core-web-vitals-fcp-and-lcp-render-blocking-resources-34ng)
+- [A Beginner’s Guide to Distributed Tracing with OpenTelemetry and Jaeger](https://dev.to/shashankpai/a-beginners-guide-to-distributed-tracing-with-opentelemetry-and-jaeger-fn1)
+- [&quot;Unlocking 6G: The Future of Semantic Communication and Machine Learning&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-6g-the-future-of-semantic-communication-and-machine-learning-4c3a)
+- [Clean Your 𝕏 Feed in seconds with this new Chrome Extension!](https://dev.to/yazeedaloyoun/clean-your-feed-in-seconds-with-this-new-chrome-extension-51ci)
+- [Building a Simple CDN with NGINX and Docker: A Step-by-Step Guide](https://dev.to/shashankpai/building-a-simple-cdn-with-nginx-and-docker-a-step-by-step-guide-lkg)
 <!-- BLOG-POST-LIST:END -->
 
