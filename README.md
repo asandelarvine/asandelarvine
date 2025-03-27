@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install HUGO with Tailwind CSS and Flowbite](https://dev.to/zoltanszogyenyi/how-to-install-hugo-with-tailwind-cs-and-flowbite-56e)
-- [Master Your Project Management Career with PMI Authorized PMP Exam Prep](https://dev.to/skillboosttrainer/master-your-project-management-career-with-pmi-authorized-pmp-exam-prep-22mo)
-- [Recursion Power Sum](https://dev.to/ethanhaseaten/recursion-power-sum-56h9)
-- [Building a Webflow Portal That Vibrates: KELEALife Launch Log #1](https://dev.to/stampdmedia/-building-a-webflow-portal-that-vibrates-kelealife-launch-log-1-hon)
+- [Git Conventional Commits:](https://dev.to/rajnishjaisankar/git-conventional-commits-427i)
+- [Git Conventional Commits:](https://dev.to/rajnishjaisankar/git-conventional-commits-2n6i)
+- [CyberTemp.xyz – A Fast &amp; Private Temporary Email Service](https://dev.to/narereti/cybertempxyz-a-fast-private-temporary-email-service-5aj4)
+- [Definitivamente pontuando tasks](https://dev.to/felipe0liveira/definitivamente-pontuando-tasks-89c)
 <!-- BLOG-POST-LIST:END -->
 
