@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Postgres For Free: Top 3 Options](https://dev.to/hackmamba/run-postgres-for-free-top-3-options-2pk6)
-- [How to Add Menu in any Website](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-menu-in-any-website-47jc)
-- [Revolutionizing Creativity: The Power of Artificial Intelligence in Image Creation](https://dev.to/article-1/revolutionizing-creativity-the-power-of-artificial-intelligence-in-image-creation-nj0)
-- [10 Things a Non-Tech Founder Should Know to Run a Tech Start-up](https://dev.to/phyniks/10-things-a-non-tech-founder-should-know-to-run-a-tech-start-up-3bll)
+- [Leveraging Computed Properties with ChangeNotifier in Flutter](https://dev.to/vayuz_insights/leveraging-computed-properties-with-changenotifier-in-flutter-18gc)
+- [Food Delivery System – Low Level Design &lpar;Cleartax Machine Coding Round&rpar;](https://dev.to/rakeshreddy512/food-delivery-system-low-level-design-cleartax-machine-coding-round-111g)
+- [Technical and Business Refinement: Why Tech Teams Cannot Ignore It](https://dev.to/kecbm/technical-and-business-refinement-why-tech-teams-cannot-ignore-it-43i5)
+- [React Simple Select: A Lightweight and Customizable Select Component for React](https://dev.to/nixx/react-simple-select-a-lightweight-and-customizable-select-component-for-react-5fh4)
 <!-- BLOG-POST-LIST:END -->
 
