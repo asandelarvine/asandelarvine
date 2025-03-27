@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python’s 10 Insane Underground Scripts: You Didn’t Know Exist](https://dev.to/snappytuts/pythons-10-insane-underground-scripts-you-didnt-know-exist-10hd)
-- [🚀 Introducing `neo`: A CLI Tool for Your NeoHaskell Projects](https://dev.to/neohaskell/introducing-neo-a-cli-tool-for-your-neohaskell-projects-58gp)
-- [Understanding EKS Compute Options: Self-Managed, Managed Node Groups, Fargate, and Karpenter](https://dev.to/jajera/understanding-eks-compute-options-self-managed-managed-node-groups-fargate-and-karpenter-1aoi)
-- [Introdução MCP](https://dev.to/gabrielhsilvestre/introducao-mcp-1b47)
+- [Think Before You Code: The Art of Understanding Problems](https://dev.to/wraith/think-before-you-code-the-art-of-understanding-problems-1hpa)
+- [Stopping the Stream: A Pythonic Guide to Controlling OpenAI Responses](https://dev.to/biancassilva/stopping-the-stream-a-pythonic-guide-to-controlling-openai-responses-4gpb)
+- [The Complete Guide to Secure Angular Authentication Using OAuth + JWT with Refresh Tokens](https://dev.to/indugrand/the-complete-guide-to-secure-angular-authentication-using-oauth-jwt-with-refresh-tokens-4a3o)
+- [Python vs. C for Microcontrollers — Which One Wins?](https://dev.to/coursedia/python-vs-c-for-microcontrollers-which-one-wins-211a)
 <!-- BLOG-POST-LIST:END -->
 
