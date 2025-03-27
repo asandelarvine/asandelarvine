@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desplegando Aplicaciones Frontend en AWS App Runner: Desde el Build hasta el Escalamiento](https://dev.to/geramireze/desplegando-aplicaciones-frontend-en-aws-app-runner-desde-el-build-hasta-el-escalamiento-4d60)
-- [Integración de PWA con AWS Amplify: Llevando tu Aplicación al Siguiente Nivel](https://dev.to/geramireze/integracion-de-pwa-con-aws-amplify-llevando-tu-aplicacion-al-siguiente-nivel-1bao)
-- [Why I Regret Learning Python First?](https://dev.to/holasoymalva/why-i-regret-learning-python-first-3pkg)
-- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
+- [Python’s 10 Insane Underground Scripts: You Didn’t Know Exist](https://dev.to/snappytuts/pythons-10-insane-underground-scripts-you-didnt-know-exist-10hd)
+- [🚀 Introducing `neo`: A CLI Tool for Your NeoHaskell Projects](https://dev.to/neohaskell/introducing-neo-a-cli-tool-for-your-neohaskell-projects-58gp)
+- [Understanding EKS Compute Options: Self-Managed, Managed Node Groups, Fargate, and Karpenter](https://dev.to/jajera/understanding-eks-compute-options-self-managed-managed-node-groups-fargate-and-karpenter-1aoi)
+- [Introdução MCP](https://dev.to/gabrielhsilvestre/introducao-mcp-1b47)
 <!-- BLOG-POST-LIST:END -->
 
