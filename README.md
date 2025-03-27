@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Conventional Commits:](https://dev.to/rajnishjaisankar/git-conventional-commits-427i)
-- [Git Conventional Commits:](https://dev.to/rajnishjaisankar/git-conventional-commits-2n6i)
-- [CyberTemp.xyz – A Fast &amp; Private Temporary Email Service](https://dev.to/narereti/cybertempxyz-a-fast-private-temporary-email-service-5aj4)
-- [Definitivamente pontuando tasks](https://dev.to/felipe0liveira/definitivamente-pontuando-tasks-89c)
+- [Forward vs. Reverse Proxy: A Developer Friendly Guide](https://dev.to/lovestaco/forward-vs-reverse-proxy-a-developer-friendly-guide-3248)
+- [A Comprehensive Guide to CSS Terminology](https://dev.to/gerryleonugroho/a-comprehensive-guide-to-css-terminology-1bdo)
+- [SQL Day 5: UNION, UNION ALL, Data Type Changes, and CAST in PostgreSQL](https://dev.to/vigneshwaralingam/sql-day-5-union-union-all-data-type-changes-and-cast-in-postgresql-3lk8)
+- [How I Built a Fully Functional Email Signature Generator Web App Using AI](https://dev.to/aleez/how-i-built-a-fully-functional-email-signature-generator-web-app-using-ai-1ec)
 <!-- BLOG-POST-LIST:END -->
 
