@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Install DeepSeek-V3-0324 Locally](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-v3-0324-locally-4c51)
-- [Custom literals in C++](https://dev.to/pikotutorial/custom-literals-in-c-55l2)
-- [10 Natural Hayfever Remedies That Actually Work](https://dev.to/simon-khela/10-natural-hayfever-remedies-that-actually-work-1id5)
-- [OpenVoice added to AI Runner](https://dev.to/w4ffl35/openvoice-added-to-ai-runner-1aa2)
+- [Breakthrough AI Model Creates Ultra-Realistic Videos by Processing All Frames at Once](https://dev.to/mikeyoung44/breakthrough-ai-model-creates-ultra-realistic-videos-by-processing-all-frames-at-once-3e0h)
+- [AI Neural Network Speeds Up Physics Simulations by 8x Using Multi-Scale Approach](https://dev.to/mikeyoung44/ai-neural-network-speeds-up-physics-simulations-by-8x-using-multi-scale-approach-2p07)
+- [DeepSeek vs ChatGPT: Coding Efficiency Test](https://dev.to/wadizaatour/deepseek-vs-chatgpt-coding-efficiency-test-fdg)
+- [OOP Explained Like You&#39;re Five &lpar;But Not Really!&rpar;](https://dev.to/preeti_yadav/oop-explained-like-youre-five-but-not-really-2m75)
 <!-- BLOG-POST-LIST:END -->
 
