@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Distributed Tracing with OpenTelemetry and Jaeger](https://dev.to/shashankpai/a-beginners-guide-to-distributed-tracing-with-opentelemetry-and-jaeger-fn1)
-- [&quot;Unlocking 6G: The Future of Semantic Communication and Machine Learning&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-6g-the-future-of-semantic-communication-and-machine-learning-4c3a)
-- [Clean Your 𝕏 Feed in seconds with this new Chrome Extension!](https://dev.to/yazeedaloyoun/clean-your-feed-in-seconds-with-this-new-chrome-extension-51ci)
-- [Building a Simple CDN with NGINX and Docker: A Step-by-Step Guide](https://dev.to/shashankpai/building-a-simple-cdn-with-nginx-and-docker-a-step-by-step-guide-lkg)
+- [A Step-by-Step Guide to Install DeepSeek-V3-0324 Locally](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-v3-0324-locally-4c51)
+- [Custom literals in C++](https://dev.to/pikotutorial/custom-literals-in-c-55l2)
+- [10 Natural Hayfever Remedies That Actually Work](https://dev.to/simon-khela/10-natural-hayfever-remedies-that-actually-work-1id5)
+- [OpenVoice added to AI Runner](https://dev.to/w4ffl35/openvoice-added-to-ai-runner-1aa2)
 <!-- BLOG-POST-LIST:END -->
 
