@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Computed Properties with ChangeNotifier in Flutter](https://dev.to/vayuz_insights/leveraging-computed-properties-with-changenotifier-in-flutter-18gc)
-- [Food Delivery System – Low Level Design &lpar;Cleartax Machine Coding Round&rpar;](https://dev.to/rakeshreddy512/food-delivery-system-low-level-design-cleartax-machine-coding-round-111g)
-- [Technical and Business Refinement: Why Tech Teams Cannot Ignore It](https://dev.to/kecbm/technical-and-business-refinement-why-tech-teams-cannot-ignore-it-43i5)
-- [React Simple Select: A Lightweight and Customizable Select Component for React](https://dev.to/nixx/react-simple-select-a-lightweight-and-customizable-select-component-for-react-5fh4)
+- [🚀 Master JavaScript Loops: for, while, do-while &amp; More! 🔄](https://dev.to/ebereplenty/master-javascript-loops-for-while-do-while-more-4n2l)
+- [Breaking Boundaries: Ethereum&#39;s Pioneering Upgrade with Pectra on Hoodi Testnet Sets Stage for Mainnet Launch](https://dev.to/bernardkibathi/breaking-boundaries-ethereums-pioneering-upgrade-with-pectra-on-hoodi-testnet-sets-stage-for-11fa)
+- [S2S Compilers: Understanding Switch Case Statements](https://dev.to/alex01/s2s-compilers-understanding-switch-case-statements-4ibk)
+- [Optimize Core Web Vitals - FCP and LCP: Images](https://dev.to/jenchen/optimize-core-web-vitals-fcp-and-lcp-images-hlc)
 <!-- BLOG-POST-LIST:END -->
 
