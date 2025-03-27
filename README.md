@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Framer vs. Adobe XD: Which One Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/framer-vs-adobe-xd-which-one-should-you-use-in-2025-47ac)
-- [A Guide to Using Singleton Design Pattern in Android](https://dev.to/shalenmathew/a-guide-to-using-singleton-design-pattern-in-android-41bd)
-- [Measuring your program speed correctly](https://dev.to/absterdabster/measuring-your-program-speed-correctly-4a52)
-- [🐰 Coloriage Lapin – Un’attività creativa e divertente per grandi e piccoli! 🎨✨](https://dev.to/laurencefocke/coloriage-lapin-unattivita-creativa-e-divertente-per-grandi-e-piccoli-101c)
+- [Freezing Issue for Internal Tools in Pyqt](https://dev.to/mukkanti_ecf064e/freezing-issue-for-internal-tools-in-pyqt-17do)
+- [The Future is Serverless](https://dev.to/ayon_ssp/the-future-is-serverless-1cp0)
+- [What Is the Model Context Protocol &lpar;MCP&rpar; and How It Works](https://dev.to/e77/what-is-the-model-context-protocol-mcp-and-how-it-works-1jjd)
+- [Reducing Security Threats Through Strengthened Access Control](https://dev.to/emmax/reducing-security-threats-through-strengthened-access-control-418p)
 <!-- BLOG-POST-LIST:END -->
 
