@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Assistants: The Birth of KinAI](https://dev.to/gustavothethird/beyond-assistants-the-birth-of-kinai-daa)
-- [Quantum Leaps and Grandma&#39;s Hugs, A Letter to My Beloved Grandma](https://dev.to/aniruddhaadak/quantum-leaps-and-grandmas-hugs-a-letter-to-my-beloved-grandma-jie)
-- [The Future of Cloud Computing: Trends and Technologies to Watch](https://dev.to/bmadupati1108/the-future-of-cloud-computing-trends-and-technologies-to-watch-42e5)
-- [Portfolio - feedback](https://dev.to/sababat/portfolio-feedback-4kln)
+- [【编译器】VSCODE烧录ESP32-C3——xiaozhi智能聊天机器人固件](https://dev.to/kisorge/bian-yi-qi-vscodeshao-lu-esp32-c3-xiaozhizhi-neng-liao-tian-ji-qi-ren-gu-jian-2ca7)
+- [Bài Viết Kiểm Thử Từ API](https://dev.to/annnn1324/bai-viet-kiem-thu-tu-api-4dcn)
+- [Burnout, Side Projects &amp; Slippers: Let&#39;s Talk About The Dev Struggle](https://dev.to/skyler44/burnout-side-projects-slippers-lets-talk-about-the-dev-struggle-1pn3)
+- [Parte 1: Criando um Sistema de Login com Google e JWT no Spring Boot](https://dev.to/uiratan/criando-um-sistema-de-login-com-google-e-jwt-no-spring-boot-23dc)
 <!-- BLOG-POST-LIST:END -->
 
