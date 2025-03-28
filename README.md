@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Made my first video about how I program. Maybe someone will be interested 👽](https://dev.to/anthonymax/made-my-first-video-about-how-i-program-maybe-someone-will-be-interested-36m)
-- [Why You Should Just Study Computer Science: Regrets of a Self-Taught Software Engineer*](https://dev.to/itamartati/why-you-should-just-study-computer-science-regrets-of-a-self-taught-software-engineer-15f)
-- [How Focus Bubble™ Works: Enter Your Distraction-Free Zone](https://dev.to/neurosync/how-focus-bubble-works-enter-your-distraction-free-zone-4gji)
-- [Add Authentication to your React App with Frontegg](https://dev.to/akdombrowski/add-authentication-to-your-react-app-with-frontegg-c6c)
+- [Role-Based Access Control in Django](https://dev.to/yokwejuste/role-based-access-control-in-django-4j1d)
+- [Tips on Building Android Applications with Long-running Location Service using Google Play Location API](https://dev.to/johnandout/tips-on-building-android-applications-with-long-running-location-service-using-google-play-location-bpi)
+- [Building an Isolated Application Environment on a Linux Server](https://dev.to/njengac/build-your-own-container-understanding-docker-through-diy-implementation-mmn)
+- [how to create something &quot;stateless&quot; or &quot;stateful&quot;](https://dev.to/3o2kmpcodes/how-to-create-something-stateless-or-stateful-5cj8)
 <!-- BLOG-POST-LIST:END -->
 
