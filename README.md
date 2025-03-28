@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT Practical: Countdown](https://dev.to/victordeng/harmonyos-next-practical-countdown-2ch)
-- [The Factors That Make Java One of the Most Popular Programming Languages](https://dev.to/kishore_e36391d34adb46d90/the-factors-that-make-java-one-of-the-most-popular-programming-languages-4e4b)
-- [The Rise of Embedded Finance: How Developers Can Capitalize on the $305 Billion Fintech Market](https://dev.to/nanneparmar/the-rise-of-embedded-finance-how-developers-can-capitalize-on-the-305-billion-fintech-market-3la4)
-- [[Boost]](https://dev.to/shaunstanislaus/-1lf1)
+- [Web application firewall on Netlify for free](https://dev.to/softbeehive/web-application-firewall-on-netlify-for-free-3m4f)
+- [dotnet cross-platform interop with C via Environment.ProcessId system call](https://dev.to/semuserable/dotnet-cross-platform-interop-with-c-via-environmentprocessid-system-call-46bi)
+- [Logging Options in Amazon EKS: Fluent Bit vs Fluentd](https://dev.to/jajera/logging-options-in-amazon-eks-fluent-bit-vs-fluentd-5b6m)
+- [&quot;Unlocking the Future: Vortex-Free Angular Momentum in Photonics and Satellites&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-vortex-free-angular-momentum-in-photonics-and-satellites-ba5)
 <!-- BLOG-POST-LIST:END -->
 
