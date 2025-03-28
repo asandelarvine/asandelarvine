@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pomerium 0.29.0 is Here!](https://dev.to/pomerium/pomerium-0290-is-here-2km4)
-- [New AI Method Keeps Generated Images Natural While Enhancing Quality and Text Alignment](https://dev.to/mikeyoung44/new-ai-method-keeps-generated-images-natural-while-enhancing-quality-and-text-alignment-2m9i)
-- [Breakthrough: Parallel Processing Makes AI Language Models 3x Faster Without Accuracy Loss](https://dev.to/mikeyoung44/breakthrough-parallel-processing-makes-ai-language-models-3x-faster-without-accuracy-loss-5gde)
-- [AI System Lets You Control Video Generation with Just One Motion Clip](https://dev.to/mikeyoung44/ai-system-lets-you-control-video-generation-with-just-one-motion-clip-5fpc)
+- [Mobile App Security: The Hidden Threat of Abandoned Libraries](https://dev.to/mobisoftinfotech/mobile-app-security-the-hidden-threat-of-abandoned-libraries-1fda)
+- [10 Internal Developer Platforms to Improve Your Developer Workflow 🚀](https://dev.to/microtica/10-internal-developer-platforms-to-improve-your-developer-workflow-55ee)
+- [10 Ways You Can Build Developer Communities Through Virtual Events](https://dev.to/joywinter90/10-ways-you-can-build-developer-communities-through-virtual-events-533)
+- [Chia sẻ kinh nghiệm ôn thi và đăng ký &lpar;voucher 50%&rpar; chứng chỉ Python: PCAP 🐍📜](https://dev.to/banhmysuawx/chia-se-kinh-nghiem-on-thi-va-dang-ky-voucher-50-chung-chi-python-pcap-16ep)
 <!-- BLOG-POST-LIST:END -->
 
