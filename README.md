@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【电机控制器】PY32F00BF15U6TR——ADC](https://dev.to/kisorge/dian-ji-kong-zhi-qi-py32f00bf15u6tr-adc-20p0)
-- [Understanding Component State Management in React](https://dev.to/louay24/understanding-component-state-management-in-react-4570)
-- [【电机控制器】LKS32MC037M6S8——UART、TIMER](https://dev.to/kisorge/dian-ji-kong-zhi-qi-lks32mc037m6s8-uart-timer-ilk)
-- [Understanding the React Concurrent Mode: A Deep Dive](https://dev.to/louay24/understanding-the-react-concurrent-mode-a-deep-dive-15le)
+- [unleashing the potential of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5cdl)
+- [ทำความรู้จัก Modular Monolith: สถาปัตยกรรมที่สมดุลระหว่าง Monolith และ Microservices](https://dev.to/somprasongd/thamkhwaamruucchak-modular-monolith-sthaapatykrrmthiismdulrahwaang-monolith-aela-microservices-3oe5)
+- [Implementing an effective Application Security Program: Strategies, Practices, and Tools for Optimal results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-practices-and-tools-for-1h07)
+- [How to Get Started with Python for Data Analytics: A Beginner’s Guide](https://dev.to/lekshmi_525/how-to-get-started-with-python-for-data-analytics-a-beginners-guide-l99)
 <!-- BLOG-POST-LIST:END -->
 
