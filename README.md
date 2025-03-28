@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Stack of a Cloud Computing Startup](https://dev.to/code42cate/the-tech-stack-of-a-cloud-computing-startup-1h09)
-- [[Boost]](https://dev.to/gwenshap/-1clb)
-- [🚀 Vonage Dev Newsletter, March 2025: Share your feedback + enjoy new releases and tutorials](https://dev.to/vonagedev/vonage-dev-newsletter-march-2025-share-your-feedback-enjoy-new-releases-and-tutorials-5592)
-- [🚀 Vonage Dev Newsletter, February 2025: Free events, releases, and more](https://dev.to/vonagedev/vonage-dev-newsletter-february-2025-free-events-releases-and-more-2nel)
+- [The Rise of AI-Powered Code Assistants in 2025: Revolutionizing Development](https://dev.to/soumyadeepdey/the-rise-of-ai-powered-code-assistants-in-2025-revolutionizing-development-4kgb)
+- [In this blog post we will see how to connect OneEntry Headless CMS with Next.js.](https://dev.to/oneentry/in-this-blog-post-we-will-see-how-to-connect-with-oneentry-headless-cms-with-nextjs-1dgk)
+- [DevLog #1: Why I’m Building 14 Projects &lpar;and What Comes After&rpar;](https://dev.to/trevorbrowning/devlog-1-why-im-building-14-projects-and-what-comes-after-3ngo)
+- [Scheduling Tasks with Cronjobs in Laravel](https://dev.to/aleson-franca/scheduling-tasks-with-cronjobs-in-laravel-4ljk)
 <!-- BLOG-POST-LIST:END -->
 
