@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallelize work using parwork in Go](https://dev.to/mantzas/parallelize-work-using-parwork-in-go-596o)
-- [dotnet counters tool](https://dev.to/inacio88/dotnet-counters-tool-44j8)
-- [Rewriting an old app with AI: a reality check](https://dev.to/stacklok/rewriting-an-old-app-with-ai-a-reality-check-2dma)
-- [How to Make Images GHIBLIFIED!](https://dev.to/fahimfba/how-to-make-images-ghiblified-4l2i)
+- [Tailwind CSS: A Beginner&#39;s Guide to Understanding Its Syntax and Structure](https://dev.to/mehrinshamim/tailwind-css-a-beginners-guide-to-understanding-its-syntax-and-structure-a30)
+- [Understanding SSH Keys and EC2: A Complete Guide 🔐](https://dev.to/techwithhari/understanding-ssh-keys-and-ec2-a-complete-guide-37eh)
+- [Counting Words at Lightning Speed: Golang Channels &amp; Worker Pools to Process Text Files](https://dev.to/shrsv/counting-words-at-lightning-speed-golang-channels-worker-pools-to-process-text-files-376k)
+- [Why Python Is a Terrible First Language](https://dev.to/holasoymalva/why-python-is-a-terrible-first-language-2inj)
 <!-- BLOG-POST-LIST:END -->
 
