@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Started with DeepSeek API for FREE: Guide with Multiple Tools!🔥](https://dev.to/fallon_jimmy/get-started-with-deepseek-api-for-free-guide-with-multiple-tools-4ihh)
-- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-819)
-- [Git Session at Payilagam](https://dev.to/kuhanraja_ar_1df623b8e2e/git-session-at-payilagam-2abd)
-- [Cải Thiện Hiệu Suất Trong Next.js [2]](https://dev.to/va2212/cai-thien-hieu-suat-trong-nextjs-2-5gc1)
+- [Pomerium 0.29.0 is Here!](https://dev.to/pomerium/pomerium-0290-is-here-2km4)
+- [New AI Method Keeps Generated Images Natural While Enhancing Quality and Text Alignment](https://dev.to/mikeyoung44/new-ai-method-keeps-generated-images-natural-while-enhancing-quality-and-text-alignment-2m9i)
+- [Breakthrough: Parallel Processing Makes AI Language Models 3x Faster Without Accuracy Loss](https://dev.to/mikeyoung44/breakthrough-parallel-processing-makes-ai-language-models-3x-faster-without-accuracy-loss-5gde)
+- [AI System Lets You Control Video Generation with Just One Motion Clip](https://dev.to/mikeyoung44/ai-system-lets-you-control-video-generation-with-just-one-motion-clip-5fpc)
 <!-- BLOG-POST-LIST:END -->
 
