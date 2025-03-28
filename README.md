@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Loyalty Marketing? Benefits and Strategies](https://dev.to/piyushsingh_22/what-is-loyalty-marketing-benefits-and-strategies-9md)
-- [Working on Your UX? Here’s Why These 5 Forces Are Key to Making an Impact](https://dev.to/rijultp/working-on-your-ux-heres-why-these-5-forces-are-key-to-making-an-impact-28m9)
-- [JavaScript Numbers](https://dev.to/vikrant_shitole_182356d46/javascript-numbers-12c3)
-- [Start Making Games](https://dev.to/justinhhorner/start-making-games-4gpc)
+- [Rebuilding the Internet from the Ground Up: Introducing STF](https://dev.to/cyberchriscto/rebuilding-the-internet-from-the-ground-up-introducing-stf-3c8g)
+- [Exploring NASA API: Creating Data-Rich Applications](https://dev.to/zuplo/exploring-nasa-api-creating-data-rich-applications-5ffk)
+- [Simplify JSON Data Like Never Before!](https://dev.to/rajesh1761/simplify-json-data-like-never-before-2d1)
+- [Tutorial: How to Extract JWT Data](https://dev.to/zuplo/tutorial-how-to-extract-jwt-data-3m02)
 <!-- BLOG-POST-LIST:END -->
 
