@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Security: The Hidden Threat of Abandoned Libraries](https://dev.to/mobisoftinfotech/mobile-app-security-the-hidden-threat-of-abandoned-libraries-1fda)
-- [10 Internal Developer Platforms to Improve Your Developer Workflow 🚀](https://dev.to/microtica/10-internal-developer-platforms-to-improve-your-developer-workflow-55ee)
-- [10 Ways You Can Build Developer Communities Through Virtual Events](https://dev.to/joywinter90/10-ways-you-can-build-developer-communities-through-virtual-events-533)
-- [Chia sẻ kinh nghiệm ôn thi và đăng ký &lpar;voucher 50%&rpar; chứng chỉ Python: PCAP 🐍📜](https://dev.to/banhmysuawx/chia-se-kinh-nghiem-on-thi-va-dang-ky-voucher-50-chung-chi-python-pcap-16ep)
+- [Setting up a translation system for your Android and iOS app](https://dev.to/rockandnull/setting-up-a-translation-system-for-your-android-and-ios-app-57oo)
+- [How to Run Puppeteer on AWS Lambda](https://dev.to/geiger01/how-to-run-puppeteer-on-aws-lambda-466d)
+- [SQL vs NoSQL: Key Differences and Use Cases Explained](https://dev.to/priya_naik_513dae9128e2a9/sql-vs-nosql-key-differences-and-use-cases-explained-33jd)
+- [Infinite Compute Glitch - Why Local AI Matters](https://dev.to/akshayballal/infinite-compute-glitch-why-local-ai-matters-4n64)
 <!-- BLOG-POST-LIST:END -->
 
