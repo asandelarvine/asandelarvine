@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Building Real-Time Data Processing Systems with .NET Core, SignalR, and Azure](https://dev.to/bmadupati1108/title-building-real-time-data-processing-systems-with-net-core-signalr-and-azure-4dcl)
-- [Don&#39;t Let Automation Replace Good Testing Behaviors](https://dev.to/jnsartwell/dont-let-automation-replace-good-testing-behaviors-1lnj)
-- [Introduction to Kubernetes &amp; EKS: Learnings &amp; Pitfalls](https://dev.to/ayhansetirekli/introduction-to-kubernetes-eks-learnings-pitfalls-3bhe)
-- [Avoid Duplicate Code with DRY: A Simple Python Example](https://dev.to/alexis_jean/avoid-duplicate-code-with-dry-a-simple-python-example-2ke7)
+- [Made my first video about how I program. Maybe someone will be interested 👽](https://dev.to/anthonymax/made-my-first-video-about-how-i-program-maybe-someone-will-be-interested-36m)
+- [Why You Should Just Study Computer Science: Regrets of a Self-Taught Software Engineer*](https://dev.to/itamartati/why-you-should-just-study-computer-science-regrets-of-a-self-taught-software-engineer-15f)
+- [How Focus Bubble™ Works: Enter Your Distraction-Free Zone](https://dev.to/neurosync/how-focus-bubble-works-enter-your-distraction-free-zone-4gji)
+- [Add Authentication to your React App with Frontegg](https://dev.to/akdombrowski/add-authentication-to-your-react-app-with-frontegg-c6c)
 <!-- BLOG-POST-LIST:END -->
 
