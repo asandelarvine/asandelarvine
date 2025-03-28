@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding the Internet from the Ground Up: Introducing STF](https://dev.to/cyberchriscto/rebuilding-the-internet-from-the-ground-up-introducing-stf-3c8g)
-- [Exploring NASA API: Creating Data-Rich Applications](https://dev.to/zuplo/exploring-nasa-api-creating-data-rich-applications-5ffk)
-- [Simplify JSON Data Like Never Before!](https://dev.to/rajesh1761/simplify-json-data-like-never-before-2d1)
-- [Tutorial: How to Extract JWT Data](https://dev.to/zuplo/tutorial-how-to-extract-jwt-data-3m02)
+- [Title: Building Real-Time Data Processing Systems with .NET Core, SignalR, and Azure](https://dev.to/bmadupati1108/title-building-real-time-data-processing-systems-with-net-core-signalr-and-azure-4dcl)
+- [Don&#39;t Let Automation Replace Good Testing Behaviors](https://dev.to/jnsartwell/dont-let-automation-replace-good-testing-behaviors-1lnj)
+- [Introduction to Kubernetes &amp; EKS: Learnings &amp; Pitfalls](https://dev.to/ayhansetirekli/introduction-to-kubernetes-eks-learnings-pitfalls-3bhe)
+- [Avoid Duplicate Code with DRY: A Simple Python Example](https://dev.to/alexis_jean/avoid-duplicate-code-with-dry-a-simple-python-example-2ke7)
 <!-- BLOG-POST-LIST:END -->
 
