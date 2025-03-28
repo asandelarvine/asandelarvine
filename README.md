@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The AI Revolution in DevOps – Are You Ready for the Future?](https://dev.to/dct_technology/the-ai-revolution-in-devops-are-you-ready-for-the-future-3dnd)
-- [Mastering React Refs: Understanding useRef vs. Callback Refs](https://dev.to/hasunnilupul/mastering-react-refs-understanding-useref-vs-callback-refs-4f20)
-- [Next.js vs Nest.js: Understanding the Difference](https://dev.to/codeparrot/nextjs-vs-nestjs-understanding-the-difference-ifi)
-- [Building a Local AI-Friendly Code Viewer Inspired by Uithub](https://dev.to/mnishiguchi/building-a-local-ai-friendly-code-viewer-inspired-by-uithub-24ll)
+- [【VB语言】EXCEL中VB宏的应用](https://dev.to/kisorge/vbyu-yan-excelzhong-vbhong-de-ying-yong-132d)
+- [【电机控制】直流有刷电机电流采样](https://dev.to/kisorge/dian-ji-kong-zhi-zhi-liu-you-shua-dian-ji-dian-liu-cai-yang-45p6)
+- [How to Build a Live Streaming App using ZEGOCLOUD in React.js](https://dev.to/zgbocode/how-to-build-a-live-streaming-app-using-zegocloud-in-reactjs-2l0f)
+- [Enhancing Graphics Performance with OffscreenCanvas and D3.js](https://dev.to/jeevankishore/enhancing-graphics-performance-with-offscreencanvas-and-d3js-19ka)
 <!-- BLOG-POST-LIST:END -->
 
