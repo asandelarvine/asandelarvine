@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [unleashing the potential of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5cdl)
-- [ทำความรู้จัก Modular Monolith: สถาปัตยกรรมที่สมดุลระหว่าง Monolith และ Microservices](https://dev.to/somprasongd/thamkhwaamruucchak-modular-monolith-sthaapatykrrmthiismdulrahwaang-monolith-aela-microservices-3oe5)
-- [Implementing an effective Application Security Program: Strategies, Practices, and Tools for Optimal results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-practices-and-tools-for-1h07)
-- [How to Get Started with Python for Data Analytics: A Beginner’s Guide](https://dev.to/lekshmi_525/how-to-get-started-with-python-for-data-analytics-a-beginners-guide-l99)
+- [🚀 The AI Revolution in DevOps – Are You Ready for the Future?](https://dev.to/dct_technology/the-ai-revolution-in-devops-are-you-ready-for-the-future-3dnd)
+- [Mastering React Refs: Understanding useRef vs. Callback Refs](https://dev.to/hasunnilupul/mastering-react-refs-understanding-useref-vs-callback-refs-4f20)
+- [Next.js vs Nest.js: Understanding the Difference](https://dev.to/codeparrot/nextjs-vs-nestjs-understanding-the-difference-ifi)
+- [Building a Local AI-Friendly Code Viewer Inspired by Uithub](https://dev.to/mnishiguchi/building-a-local-ai-friendly-code-viewer-inspired-by-uithub-24ll)
 <!-- BLOG-POST-LIST:END -->
 
