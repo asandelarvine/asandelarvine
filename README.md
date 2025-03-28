@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web application firewall on Netlify for free](https://dev.to/softbeehive/web-application-firewall-on-netlify-for-free-3m4f)
-- [dotnet cross-platform interop with C via Environment.ProcessId system call](https://dev.to/semuserable/dotnet-cross-platform-interop-with-c-via-environmentprocessid-system-call-46bi)
-- [Logging Options in Amazon EKS: Fluent Bit vs Fluentd](https://dev.to/jajera/logging-options-in-amazon-eks-fluent-bit-vs-fluentd-5b6m)
-- [&quot;Unlocking the Future: Vortex-Free Angular Momentum in Photonics and Satellites&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-vortex-free-angular-momentum-in-photonics-and-satellites-ba5)
+- [AI Agents Memory And Context Window In PHP](https://dev.to/ilvalerione/ai-agents-memory-and-context-window-in-php-2e6p)
+- [Grok 3 vs Claude 3.7: Which AI Model Is Better?](https://dev.to/_37bbf0c253c0b3edec531e/grok-3-vs-claude-37-which-ai-model-is-better-mbe)
+- [Integrate AI in E-commerce: Have You Tried This Success Shortcut?!](https://dev.to/ciphernutz/integrate-ai-in-e-commerce-have-you-tried-this-success-shortcut-2moa)
+- [Amazon Aurora](https://dev.to/anishka/amazon-aurora-2nbb)
 <!-- BLOG-POST-LIST:END -->
 
