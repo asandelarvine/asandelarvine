@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【VB语言】EXCEL中VB宏的应用](https://dev.to/kisorge/vbyu-yan-excelzhong-vbhong-de-ying-yong-132d)
-- [【电机控制】直流有刷电机电流采样](https://dev.to/kisorge/dian-ji-kong-zhi-zhi-liu-you-shua-dian-ji-dian-liu-cai-yang-45p6)
-- [How to Build a Live Streaming App using ZEGOCLOUD in React.js](https://dev.to/zgbocode/how-to-build-a-live-streaming-app-using-zegocloud-in-reactjs-2l0f)
-- [Enhancing Graphics Performance with OffscreenCanvas and D3.js](https://dev.to/jeevankishore/enhancing-graphics-performance-with-offscreencanvas-and-d3js-19ka)
+- [HarmonyOS NEXT Practical: Countdown](https://dev.to/victordeng/harmonyos-next-practical-countdown-2ch)
+- [The Factors That Make Java One of the Most Popular Programming Languages](https://dev.to/kishore_e36391d34adb46d90/the-factors-that-make-java-one-of-the-most-popular-programming-languages-4e4b)
+- [The Rise of Embedded Finance: How Developers Can Capitalize on the $305 Billion Fintech Market](https://dev.to/nanneparmar/the-rise-of-embedded-finance-how-developers-can-capitalize-on-the-305-billion-fintech-market-3la4)
+- [[Boost]](https://dev.to/shaunstanislaus/-1lf1)
 <!-- BLOG-POST-LIST:END -->
 
