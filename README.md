@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ELK stack Project](https://dev.to/mallikarjuna/elk-stack-project-577j)
-- [What is the Difference Between Docker and Virtual Machines?](https://dev.to/cristianalex_17/what-is-the-difference-between-docker-and-virtual-machines-3oal)
-- [Python for DevOps is becoming a hot topic on Internet! 🚀](https://dev.to/varghesechacko/python-for-devops-is-becoming-a-hot-topic-on-internet-46ai)
-- [Deploying nginx application with self signed certificates](https://dev.to/mallikarjuna/deploying-nginx-application-with-self-signed-certificates-3dbe)
+- [Parallelize work using parwork in Go](https://dev.to/mantzas/parallelize-work-using-parwork-in-go-596o)
+- [dotnet counters tool](https://dev.to/inacio88/dotnet-counters-tool-44j8)
+- [Rewriting an old app with AI: a reality check](https://dev.to/stacklok/rewriting-an-old-app-with-ai-a-reality-check-2dma)
+- [How to Make Images GHIBLIFIED!](https://dev.to/fahimfba/how-to-make-images-ghiblified-4l2i)
 <!-- BLOG-POST-LIST:END -->
 
