@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Memory And Context Window In PHP](https://dev.to/ilvalerione/ai-agents-memory-and-context-window-in-php-2e6p)
-- [Grok 3 vs Claude 3.7: Which AI Model Is Better?](https://dev.to/_37bbf0c253c0b3edec531e/grok-3-vs-claude-37-which-ai-model-is-better-mbe)
-- [Integrate AI in E-commerce: Have You Tried This Success Shortcut?!](https://dev.to/ciphernutz/integrate-ai-in-e-commerce-have-you-tried-this-success-shortcut-2moa)
-- [Amazon Aurora](https://dev.to/anishka/amazon-aurora-2nbb)
+- [Get Started with DeepSeek API for FREE: Guide with Multiple Tools!🔥](https://dev.to/fallon_jimmy/get-started-with-deepseek-api-for-free-guide-with-multiple-tools-4ihh)
+- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-819)
+- [Git Session at Payilagam](https://dev.to/kuhanraja_ar_1df623b8e2e/git-session-at-payilagam-2abd)
+- [Cải Thiện Hiệu Suất Trong Next.js [2]](https://dev.to/va2212/cai-thien-hieu-suat-trong-nextjs-2-5gc1)
 <!-- BLOG-POST-LIST:END -->
 
