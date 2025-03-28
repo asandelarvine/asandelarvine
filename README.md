@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a translation system for your Android and iOS app](https://dev.to/rockandnull/setting-up-a-translation-system-for-your-android-and-ios-app-57oo)
-- [How to Run Puppeteer on AWS Lambda](https://dev.to/geiger01/how-to-run-puppeteer-on-aws-lambda-466d)
-- [SQL vs NoSQL: Key Differences and Use Cases Explained](https://dev.to/priya_naik_513dae9128e2a9/sql-vs-nosql-key-differences-and-use-cases-explained-33jd)
-- [Infinite Compute Glitch - Why Local AI Matters](https://dev.to/akshayballal/infinite-compute-glitch-why-local-ai-matters-4n64)
+- [The Tech Stack of a Cloud Computing Startup](https://dev.to/code42cate/the-tech-stack-of-a-cloud-computing-startup-1h09)
+- [[Boost]](https://dev.to/gwenshap/-1clb)
+- [🚀 Vonage Dev Newsletter, March 2025: Share your feedback + enjoy new releases and tutorials](https://dev.to/vonagedev/vonage-dev-newsletter-march-2025-share-your-feedback-enjoy-new-releases-and-tutorials-5592)
+- [🚀 Vonage Dev Newsletter, February 2025: Free events, releases, and more](https://dev.to/vonagedev/vonage-dev-newsletter-february-2025-free-events-releases-and-more-2nel)
 <!-- BLOG-POST-LIST:END -->
 
