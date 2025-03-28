@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS: A Beginner&#39;s Guide to Understanding Its Syntax and Structure](https://dev.to/mehrinshamim/tailwind-css-a-beginners-guide-to-understanding-its-syntax-and-structure-a30)
-- [Understanding SSH Keys and EC2: A Complete Guide 🔐](https://dev.to/techwithhari/understanding-ssh-keys-and-ec2-a-complete-guide-37eh)
-- [Counting Words at Lightning Speed: Golang Channels &amp; Worker Pools to Process Text Files](https://dev.to/shrsv/counting-words-at-lightning-speed-golang-channels-worker-pools-to-process-text-files-376k)
-- [Why Python Is a Terrible First Language](https://dev.to/holasoymalva/why-python-is-a-terrible-first-language-2inj)
+- [What is Loyalty Marketing? Benefits and Strategies](https://dev.to/piyushsingh_22/what-is-loyalty-marketing-benefits-and-strategies-9md)
+- [Working on Your UX? Here’s Why These 5 Forces Are Key to Making an Impact](https://dev.to/rijultp/working-on-your-ux-heres-why-these-5-forces-are-key-to-making-an-impact-28m9)
+- [JavaScript Numbers](https://dev.to/vikrant_shitole_182356d46/javascript-numbers-12c3)
+- [Start Making Games](https://dev.to/justinhhorner/start-making-games-4gpc)
 <!-- BLOG-POST-LIST:END -->
 
