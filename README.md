@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【编译器】VSCODE烧录ESP32-C3——xiaozhi智能聊天机器人固件](https://dev.to/kisorge/bian-yi-qi-vscodeshao-lu-esp32-c3-xiaozhizhi-neng-liao-tian-ji-qi-ren-gu-jian-2ca7)
-- [Bài Viết Kiểm Thử Từ API](https://dev.to/annnn1324/bai-viet-kiem-thu-tu-api-4dcn)
-- [Burnout, Side Projects &amp; Slippers: Let&#39;s Talk About The Dev Struggle](https://dev.to/skyler44/burnout-side-projects-slippers-lets-talk-about-the-dev-struggle-1pn3)
-- [Parte 1: Criando um Sistema de Login com Google e JWT no Spring Boot](https://dev.to/uiratan/criando-um-sistema-de-login-com-google-e-jwt-no-spring-boot-23dc)
+- [【电机控制器】PY32F00BF15U6TR——ADC](https://dev.to/kisorge/dian-ji-kong-zhi-qi-py32f00bf15u6tr-adc-20p0)
+- [Understanding Component State Management in React](https://dev.to/louay24/understanding-component-state-management-in-react-4570)
+- [【电机控制器】LKS32MC037M6S8——UART、TIMER](https://dev.to/kisorge/dian-ji-kong-zhi-qi-lks32mc037m6s8-uart-timer-ilk)
+- [Understanding the React Concurrent Mode: A Deep Dive](https://dev.to/louay24/understanding-the-react-concurrent-mode-a-deep-dive-15le)
 <!-- BLOG-POST-LIST:END -->
 
