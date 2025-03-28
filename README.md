@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI-Powered Code Assistants in 2025: Revolutionizing Development](https://dev.to/soumyadeepdey/the-rise-of-ai-powered-code-assistants-in-2025-revolutionizing-development-4kgb)
-- [In this blog post we will see how to connect OneEntry Headless CMS with Next.js.](https://dev.to/oneentry/in-this-blog-post-we-will-see-how-to-connect-with-oneentry-headless-cms-with-nextjs-1dgk)
-- [DevLog #1: Why I’m Building 14 Projects &lpar;and What Comes After&rpar;](https://dev.to/trevorbrowning/devlog-1-why-im-building-14-projects-and-what-comes-after-3ngo)
-- [Scheduling Tasks with Cronjobs in Laravel](https://dev.to/aleson-franca/scheduling-tasks-with-cronjobs-in-laravel-4ljk)
+- [ELK stack Project](https://dev.to/mallikarjuna/elk-stack-project-577j)
+- [What is the Difference Between Docker and Virtual Machines?](https://dev.to/cristianalex_17/what-is-the-difference-between-docker-and-virtual-machines-3oal)
+- [Python for DevOps is becoming a hot topic on Internet! 🚀](https://dev.to/varghesechacko/python-for-devops-is-becoming-a-hot-topic-on-internet-46ai)
+- [Deploying nginx application with self signed certificates](https://dev.to/mallikarjuna/deploying-nginx-application-with-self-signed-certificates-3dbe)
 <!-- BLOG-POST-LIST:END -->
 
