@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting my app into IzzyOnDroid: Making It Fully Reproducible](https://dev.to/ronynn/getting-karui-into-izzyondroid-making-it-fully-reproducible-1lnk)
-- [Caching &amp; Performance Optimization in Node.js &amp; React](https://dev.to/uniyalmanas/caching-performance-optimization-in-nodejs-react-4gi9)
-- [&quot;Unlocking Real-Time Video Understanding: The Power of Mobile-VideoGPT&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-real-time-video-understanding-the-power-of-mobile-videogpt-5gin)
-- [Life After Graduation: A New Chapter](https://dev.to/htsagara/life-after-graduation-a-new-chapter-50nk)
+- [2818. Apply Operations to Maximize Score](https://dev.to/mdarifulhaque/2818-apply-operations-to-maximize-score-48dm)
+- [Convert into the studio Ghibli](https://dev.to/saniya_praveen_3732c6a9f6/convert-into-the-studio-ghibli-g9a)
+- [Security Comparison Of Best Web3 Wallets To Develop On](https://dev.to/thirdwebdeveloper/security-comparison-of-best-web3-wallets-to-develop-on-dof)
+- [High-Performance Secure Networking with RIOC](https://dev.to/mehrant/high-performance-secure-networking-with-rioc-3kco)
 <!-- BLOG-POST-LIST:END -->
 
