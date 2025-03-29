@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Generics Made Simple](https://dev.to/leapcell/rust-generics-made-simple-5b79)
+- [DevOps Made Simple: A Beginner’s Guide to How to Set Up Kubernetes on AWS Using EKS](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-how-to-set-up-kubernetes-on-aws-using-eks-22bj)
 - [8.9 FlatMap](https://dev.to/fundamentosjava/89-flatmap-4pnk)
 - [8.8 Praticando o que aprendemos com java.nio.file.Files](https://dev.to/fundamentosjava/88-praticando-o-que-aprendemos-com-javaniofilefiles-5c0l)
-- [The Principle Analysis of Frontend Monitoring SDK](https://dev.to/woai3c/the-principle-analysis-of-frontend-monitoring-sdk-bpf)
-- [8.7 Streams primitivos e infinitos](https://dev.to/fundamentosjava/87-streams-primitivos-e-infinitos-10df)
 <!-- BLOG-POST-LIST:END -->
 
