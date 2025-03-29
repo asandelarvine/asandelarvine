@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Role-Based Access Control in Django](https://dev.to/yokwejuste/role-based-access-control-in-django-4j1d)
-- [Tips on Building Android Applications with Long-running Location Service using Google Play Location API](https://dev.to/johnandout/tips-on-building-android-applications-with-long-running-location-service-using-google-play-location-bpi)
-- [Building an Isolated Application Environment on a Linux Server](https://dev.to/njengac/build-your-own-container-understanding-docker-through-diy-implementation-mmn)
-- [how to create something &quot;stateless&quot; or &quot;stateful&quot;](https://dev.to/3o2kmpcodes/how-to-create-something-stateless-or-stateful-5cj8)
+- [Adding Electronic Signatures to a Rails 8 App](https://dev.to/ukaypromise/adding-electronic-signatures-to-a-rails-8-app-1jdo)
+- [5 Ways AI Is Revolutionizing Software Engineering in 2025 : A Developer’s Guide](https://dev.to/acodewell/5-ways-ai-is-revolutionizing-software-engineering-in-2025-a-developers-guide-18hl)
+- [Developing Secure AI Models with Differential Privacy](https://dev.to/kartikmehta8/developing-secure-ai-models-with-differential-privacy-4h1m)
+- [Implementing Rate Limiting and Throttling in .NET 8: Safeguard Your Backend Services](https://dev.to/leandroveiga/implementing-rate-limiting-and-throttling-in-net-8-safeguard-your-backend-services-4ei7)
 <!-- BLOG-POST-LIST:END -->
 
