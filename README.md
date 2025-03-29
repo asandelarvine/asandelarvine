@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What can I add to start interactive learning?](https://dev.to/ogeymohvic/what-can-i-add-to-start-interactive-learning-3hdm)
-- [Node.js streams | pipe through your way ✅ | say NO to pressure!](https://dev.to/ompals/nodejs-streams-pipe-through-your-way-say-no-to-pressure-41mp)
-- [Building a Modern Theme Switcher in Angular](https://dev.to/dmmishchenko/building-a-modern-theme-switcher-in-angular-emf)
-- [GeeksforGeeks : M Coloring Problem](https://dev.to/rohithv07/geeksforgeeks-m-coloring-problem-d16)
+- [[Boost]](https://dev.to/karanverma/-1866)
+- [Beyond the Basics: HCDN, CMS, and Hosting – A Performance Powerhouse Guide](https://dev.to/seosiri/beyond-the-basics-hcdn-cms-and-hosting-a-performance-powerhouse-guide-42pb)
+- [Linux-Directory](https://dev.to/prasanth362k/directory-101c)
+- [$2 Startup: Launching a Full Tech Product on a Shoestring Budget](https://dev.to/roshan_pant_c010183d71922/2-startup-launching-a-full-tech-product-on-a-shoestring-budget-50k3)
 <!-- BLOG-POST-LIST:END -->
 
