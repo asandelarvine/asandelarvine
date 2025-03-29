@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/karanverma/-1866)
-- [Beyond the Basics: HCDN, CMS, and Hosting – A Performance Powerhouse Guide](https://dev.to/seosiri/beyond-the-basics-hcdn-cms-and-hosting-a-performance-powerhouse-guide-42pb)
-- [Linux-Directory](https://dev.to/prasanth362k/directory-101c)
-- [$2 Startup: Launching a Full Tech Product on a Shoestring Budget](https://dev.to/roshan_pant_c010183d71922/2-startup-launching-a-full-tech-product-on-a-shoestring-budget-50k3)
+- [Getting my app into IzzyOnDroid: Making It Fully Reproducible](https://dev.to/ronynn/getting-karui-into-izzyondroid-making-it-fully-reproducible-1lnk)
+- [Caching &amp; Performance Optimization in Node.js &amp; React](https://dev.to/uniyalmanas/caching-performance-optimization-in-nodejs-react-4gi9)
+- [&quot;Unlocking Real-Time Video Understanding: The Power of Mobile-VideoGPT&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-real-time-video-understanding-the-power-of-mobile-videogpt-5gin)
+- [Life After Graduation: A New Chapter](https://dev.to/htsagara/life-after-graduation-a-new-chapter-50nk)
 <!-- BLOG-POST-LIST:END -->
 
