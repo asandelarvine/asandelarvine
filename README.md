@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the application areas of large-scale network interaction technology?](https://dev.to/mais0807/what-are-the-application-areas-of-large-scale-network-interaction-technology-21nk)
-- [Leetcode 19 : Remove nth Node from end of List](https://dev.to/rohithv07/leetcode-19-remove-nth-node-from-end-of-list-dai)
-- [DeepSeek V3-0324 vs. Claude 3.7 Sonnet Base: Which AI Codes Better?](https://dev.to/composiodev/deepseek-v3-0324-vs-claude-37-sonnet-base-which-ai-codes-better-2a8j)
-- [Doodle Cricket : The Fun Online Cricket Game You Can Play Anywhere](https://dev.to/googleblockbreaker/doodle-cricket-the-fun-online-cricket-game-you-can-play-anywhere-2ec)
+- [使用 Google Apps Script 串接 Google Analytics API，整合多站數據](https://dev.to/letswrite/shi-yong-google-apps-script-chuan-jie-google-analytics-apizheng-he-duo-zhan-shu-ju-4leh)
+- [Cutting-Edge AI Agents You Haven’t Heard Of in 2025](https://dev.to/jaysaadana/cutting-edge-ai-agents-you-havent-heard-of-in-2025-43p5)
+- [Learning Game Architecture with Unity – My New Book is Out Now!](https://dev.to/niraj_gaming/learning-game-architecture-with-unity-my-new-book-is-out-now-4hji)
+- [Next.js Deployment to AWS Amplify: Environment Variable Issue &amp; Fix](https://dev.to/dilumdarshana/nextjs-deployment-to-aws-amplify-environment-variable-issue-fix-333k)
 <!-- BLOG-POST-LIST:END -->
 
