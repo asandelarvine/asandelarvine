@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore Golang Metaprogramming: A Deep Dive](https://dev.to/leapcell/explore-golang-metaprogramming-a-deep-dive-3i0k)
-- [Conditional Rendering in React: The Ultimate Guide](https://dev.to/devshefali/conditional-rendering-in-react-the-ultimate-guide-5c09)
-- [🌟 Hackathon Tamasha: Where DevOps Meets Creativity! 🚀](https://dev.to/francescobianco/hackathon-tamasha-where-devops-meets-creativity-o3o)
-- [Checkout Slate - A super simple markdown editor with AI superpowers](https://dev.to/thetronjohnson/checkout-slate-a-super-simple-markdown-editor-with-ai-superpowers-3l5)
+- [What can I add to start interactive learning?](https://dev.to/ogeymohvic/what-can-i-add-to-start-interactive-learning-3hdm)
+- [Node.js streams | pipe through your way ✅ | say NO to pressure!](https://dev.to/ompals/nodejs-streams-pipe-through-your-way-say-no-to-pressure-41mp)
+- [Building a Modern Theme Switcher in Angular](https://dev.to/dmmishchenko/building-a-modern-theme-switcher-in-angular-emf)
+- [GeeksforGeeks : M Coloring Problem](https://dev.to/rohithv07/geeksforgeeks-m-coloring-problem-d16)
 <!-- BLOG-POST-LIST:END -->
 
