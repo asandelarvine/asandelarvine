@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cost Categories with OU Structure](https://dev.to/shu85t/aws-cost-categories-with-ou-structure-61n)
-- [Building LiteLLM Plugins with `async_pre_call_hook` for Proxy Mode](https://dev.to/yigit-konur/building-litellm-plugins-with-asyncprecallhook-for-proxy-mode-3lp6)
-- [Understanding this in JavaScript: Common Pitfalls and Fixes](https://dev.to/alex_aslam/understanding-this-in-javascript-common-pitfalls-and-fixes-1nk0)
-- [Sorting Algorithms Made Visual – Feedback Needed!](https://dev.to/bokul_ahmed_ae041b6bc8cb8/sorting-algorithm-visualizer-interactive-learning-with-react-2jmo)
+- [The Future of Software Development: Will AI Take Over, or Will Humans Still Rule?](https://dev.to/asakpke/the-future-of-software-development-will-ai-take-over-or-will-humans-still-rule-3a0h)
+- [Solução para Problema de Glitch Gráfico Nvidia GPU](https://dev.to/dublado/solucao-para-problema-de-glitch-grafico-nvidia-gpu-7kk)
+- [Modern Software Engineering Chapter 4–8 Summary](https://dev.to/markadel/modern-software-engineering-chapter-4-8-summary-41fp)
+- [C# Lowering](https://dev.to/pedro_drewanz/c-lowering-1keb)
 <!-- BLOG-POST-LIST:END -->
 
