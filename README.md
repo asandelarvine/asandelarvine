@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git tricks 2/3](https://dev.to/facubotta/git-tricks-23-55h9)
-- [Intro to Data Analytics](https://dev.to/teddykimosop/intro-to-data-analytics-2n4p)
-- [What If Money Is Time? A Wild Take on Economical Relativity](https://dev.to/oxcl/what-if-money-is-time-a-wild-take-on-economical-relativity-111b)
-- [Root Cause Analysis Guide: Ensuring Uptime Post-Incident](https://dev.to/tomcao2012/root-cause-analysis-guide-ensuring-uptime-post-incident-l2c)
+- [Why Startup Weekend Pitch Events Fail Great Ideas](https://dev.to/criticalmynd/why-startup-weekend-pitches-fail-great-ideas-2em3)
+- [🚀 Master JavaScript Operators &amp; Math Methods](https://dev.to/ebereplenty/master-javascript-operators-math-methods-5879)
+- [JavaFX Notepad Tutorial](https://dev.to/mklestil/javafx-notepad-tutorial-52hk)
+- [Tokenizing Nigerian Real Estate: How Blockchain is Changing Property Investment](https://dev.to/raji_moshood_ee3a4c2638f6/tokenizing-nigerian-real-estate-how-blockchain-is-changing-property-investment-2ojf)
 <!-- BLOG-POST-LIST:END -->
 
