@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Approaches for Comprehensive Educational Institution Management Systems](https://dev.to/nishath_yapa_c772324a466e/architectural-approaches-for-comprehensive-educational-institution-management-systems-714)
-- [[FR] MapData App &lpar;un terrain de jeu full-stack&rpar;](https://dev.to/joaofelipefaria/fr-mapdata-app-un-terrain-de-jeu-full-stack-5a7j)
-- [What are Filter Keys on Windows 11?](https://dev.to/winsides/what-are-filter-keys-on-windows-11-32l4)
-- [Unpacking Go Channels: A Peek Under the Hood](https://dev.to/shrsv/unpacking-go-channels-a-peek-under-the-hood-2c42)
+- [Keep Users on Track: The Importance of Visible Progress in UX](https://dev.to/rijultp/keep-users-on-track-the-importance-of-visible-progress-in-ux-748)
+- [DNS Explained: From Basics to Building My Own DNS Server](https://dev.to/denyme24/dns-explained-from-basics-to-building-my-own-dns-server-25o6)
+- [Use of the Basics: Case Study - Making a 2048 Game with Just JS Canvas](https://dev.to/benedekkata/use-of-the-basics-case-study-making-a-2048-game-with-just-js-canvas-27mp)
+- [How to Ensure Your Chain Link Fence Meets Local Regulations Step by Step](https://dev.to/eliana_coleman_332/how-to-ensure-your-chain-link-fence-meets-local-regulations-step-by-step-50kn)
 <!-- BLOG-POST-LIST:END -->
 
