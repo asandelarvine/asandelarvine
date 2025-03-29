@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI: A Blessing or a Curse ?](https://dev.to/srihawi/generative-ai-a-blessing-or-a-curse--klc)
-- [Technical Assessment](https://dev.to/imajenasyon/technical-assessment-1kk2)
-- [Cách Treo Tranh Mã Đáo Thành Công](https://dev.to/baoanfts/cach-treo-tranh-ma-dao-thanh-cong-23pa)
-- [Cómo mejorar el rendimiento de tu aplicación web con prácticas de optimización en Angular](https://dev.to/cristian_arieta_7df932e5f/como-mejorar-el-rendimiento-de-tu-aplicacion-web-con-practicas-de-optimizacion-en-angular-48bn)
+- [🚀 𝐌𝐲 𝐛𝐨𝐨𝐤 𝐢𝐬 𝐧𝐨𝐰 𝐢𝐧 𝐭𝐡𝐞 𝐓𝐎𝐏 5 𝐨𝐧 𝐋𝐞𝐚𝐧𝐩𝐮𝐛 𝐢𝐧 𝐭𝐡𝐞 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐲! 🏆](https://dev.to/kristiyanvelkov/5--1b9a)
+- [Securing Digital Identities in a Decentralized World: The Promise of Web3 Technologies](https://dev.to/slyvestang/securing-digital-identities-in-a-decentralized-world-the-promise-of-web3-technologies-5ag)
+- [Image illustrating the psychology of colors in UI/UX! 🎨](https://dev.to/swetty_sultania_834f90237/image-illustrating-the-psychology-of-colors-in-uiux-4gdo)
+- [How to Use Different SSH Keys for GitHub and Bitbucket on the Same Machine](https://dev.to/koushikweb/how-to-use-different-ssh-keys-for-github-and-bitbucket-on-the-same-machine-hf)
 <!-- BLOG-POST-LIST:END -->
 
