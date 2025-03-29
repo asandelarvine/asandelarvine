@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Users on Track: The Importance of Visible Progress in UX](https://dev.to/rijultp/keep-users-on-track-the-importance-of-visible-progress-in-ux-748)
-- [DNS Explained: From Basics to Building My Own DNS Server](https://dev.to/denyme24/dns-explained-from-basics-to-building-my-own-dns-server-25o6)
-- [Use of the Basics: Case Study - Making a 2048 Game with Just JS Canvas](https://dev.to/benedekkata/use-of-the-basics-case-study-making-a-2048-game-with-just-js-canvas-27mp)
-- [How to Ensure Your Chain Link Fence Meets Local Regulations Step by Step](https://dev.to/eliana_coleman_332/how-to-ensure-your-chain-link-fence-meets-local-regulations-step-by-step-50kn)
+- [OPEN SOURCE](https://dev.to/maddy_mathan/open-source-32gd)
+- [Backend vs. Frontend: Which Path Should You Choose?](https://dev.to/learn_skills/backend-vs-frontend-which-path-should-you-choose-2f3k)
+- [Tools to Automate GitHub Projects](https://dev.to/benji377/tools-to-automate-github-projects-2cbl)
+- [JavaScript Tail Call Optimization](https://dev.to/omriluz1/javascript-tail-call-optimization-27po)
 <!-- BLOG-POST-LIST:END -->
 
