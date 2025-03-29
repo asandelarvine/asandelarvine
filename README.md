@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Calling All Developers! Join Our Vibrant Community on Discord! 🌟](https://dev.to/hanzla-baig/calling-all-developers-join-our-vibrant-community-on-discord-1j95)
-- [How to setup simple flask application](https://dev.to/mathivathana_s_b38c7b046b/how-to-setup-simple-flask-application-f96)
-- [Dark Mode in Web Design: Is It Just a Trend or a Necessity?](https://dev.to/desinoir/dark-mode-in-web-design-is-it-just-a-trend-or-a-necessity-407k)
-- [An Introduction to AWS Virtual Private Cloud](https://dev.to/bobokech/an-introduction-to-aws-virtual-private-cloud-1lid)
+- [Explore Golang Metaprogramming: A Deep Dive](https://dev.to/leapcell/explore-golang-metaprogramming-a-deep-dive-3i0k)
+- [Conditional Rendering in React: The Ultimate Guide](https://dev.to/devshefali/conditional-rendering-in-react-the-ultimate-guide-5c09)
+- [🌟 Hackathon Tamasha: Where DevOps Meets Creativity! 🚀](https://dev.to/francescobianco/hackathon-tamasha-where-devops-meets-creativity-o3o)
+- [Checkout Slate - A super simple markdown editor with AI superpowers](https://dev.to/thetronjohnson/checkout-slate-a-super-simple-markdown-editor-with-ai-superpowers-3l5)
 <!-- BLOG-POST-LIST:END -->
 
