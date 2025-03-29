@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Software Development: Will AI Take Over, or Will Humans Still Rule?](https://dev.to/asakpke/the-future-of-software-development-will-ai-take-over-or-will-humans-still-rule-3a0h)
-- [Solução para Problema de Glitch Gráfico Nvidia GPU](https://dev.to/dublado/solucao-para-problema-de-glitch-grafico-nvidia-gpu-7kk)
-- [Modern Software Engineering Chapter 4–8 Summary](https://dev.to/markadel/modern-software-engineering-chapter-4-8-summary-41fp)
-- [C# Lowering](https://dev.to/pedro_drewanz/c-lowering-1keb)
+- [Rethinking the Operator Access Experience](https://dev.to/srujan_jonnadula_ad988587/rethinking-the-operator-access-experience-2ee)
+- [Understanding Helm Releases in 2025: A Comprehensive Guide](https://dev.to/anna_golubkova/understanding-helm-releases-in-2025-a-comprehensive-guide-28gj)
+- [How to create a Jenkins Pipeline job](https://dev.to/olalekan_oladiran_d74b7a6/how-to-create-a-jenkins-pipeline-job-3193)
+- [How to Handle Errors in Bash Scripts in 2025?](https://dev.to/rociogarciavf/how-to-handle-errors-in-bash-scripts-in-2025-3bo)
 <!-- BLOG-POST-LIST:END -->
 
