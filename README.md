@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Electronic Signatures to a Rails 8 App](https://dev.to/ukaypromise/adding-electronic-signatures-to-a-rails-8-app-1jdo)
-- [5 Ways AI Is Revolutionizing Software Engineering in 2025 : A Developer’s Guide](https://dev.to/acodewell/5-ways-ai-is-revolutionizing-software-engineering-in-2025-a-developers-guide-18hl)
-- [Developing Secure AI Models with Differential Privacy](https://dev.to/kartikmehta8/developing-secure-ai-models-with-differential-privacy-4h1m)
-- [Implementing Rate Limiting and Throttling in .NET 8: Safeguard Your Backend Services](https://dev.to/leandroveiga/implementing-rate-limiting-and-throttling-in-net-8-safeguard-your-backend-services-4ei7)
+- [8.9 FlatMap](https://dev.to/fundamentosjava/89-flatmap-4pnk)
+- [8.8 Praticando o que aprendemos com java.nio.file.Files](https://dev.to/fundamentosjava/88-praticando-o-que-aprendemos-com-javaniofilefiles-5c0l)
+- [The Principle Analysis of Frontend Monitoring SDK](https://dev.to/woai3c/the-principle-analysis-of-frontend-monitoring-sdk-bpf)
+- [8.7 Streams primitivos e infinitos](https://dev.to/fundamentosjava/87-streams-primitivos-e-infinitos-10df)
 <!-- BLOG-POST-LIST:END -->
 
