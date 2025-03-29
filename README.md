@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Generics Made Simple](https://dev.to/leapcell/rust-generics-made-simple-5b79)
-- [DevOps Made Simple: A Beginner’s Guide to How to Set Up Kubernetes on AWS Using EKS](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-how-to-set-up-kubernetes-on-aws-using-eks-22bj)
-- [8.9 FlatMap](https://dev.to/fundamentosjava/89-flatmap-4pnk)
-- [8.8 Praticando o que aprendemos com java.nio.file.Files](https://dev.to/fundamentosjava/88-praticando-o-que-aprendemos-com-javaniofilefiles-5c0l)
+- [🚀 Why Kotlin is the Best Choice for Android Development in 2025!](https://dev.to/dct_technology/why-kotlin-is-the-best-choice-for-android-development-in-2025-25n6)
+- [Top 15 React useState Mistakes Every Developer Should Know](https://dev.to/myogeshchavan97/top-15-react-usestate-mistakes-every-developer-should-know-njg)
+- [Installing Oracle Grid Infrastructure 19.25 on Oracle Linux 9.5 Using ASMLIB 3](https://dev.to/vahidusefzadeh/installing-oracle-grid-infrastructure-1925-on-oracle-linux-95-using-asmlib-3-4bki)
+- [🚀 Angular Signals: The Game-Changer for State Management!](https://dev.to/matin676/angular-signals-the-game-changer-for-state-management-4cdf)
 <!-- BLOG-POST-LIST:END -->
 
