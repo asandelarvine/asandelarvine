@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 Google Apps Script 串接 Google Analytics API，整合多站數據](https://dev.to/letswrite/shi-yong-google-apps-script-chuan-jie-google-analytics-apizheng-he-duo-zhan-shu-ju-4leh)
-- [Cutting-Edge AI Agents You Haven’t Heard Of in 2025](https://dev.to/jaysaadana/cutting-edge-ai-agents-you-havent-heard-of-in-2025-43p5)
-- [Learning Game Architecture with Unity – My New Book is Out Now!](https://dev.to/niraj_gaming/learning-game-architecture-with-unity-my-new-book-is-out-now-4hji)
-- [Next.js Deployment to AWS Amplify: Environment Variable Issue &amp; Fix](https://dev.to/dilumdarshana/nextjs-deployment-to-aws-amplify-environment-variable-issue-fix-333k)
+- [Git tricks 2/3](https://dev.to/facubotta/git-tricks-23-55h9)
+- [Intro to Data Analytics](https://dev.to/teddykimosop/intro-to-data-analytics-2n4p)
+- [What If Money Is Time? A Wild Take on Economical Relativity](https://dev.to/oxcl/what-if-money-is-time-a-wild-take-on-economical-relativity-111b)
+- [Root Cause Analysis Guide: Ensuring Uptime Post-Incident](https://dev.to/tomcao2012/root-cause-analysis-guide-ensuring-uptime-post-incident-l2c)
 <!-- BLOG-POST-LIST:END -->
 
