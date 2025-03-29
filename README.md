@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OPEN SOURCE](https://dev.to/maddy_mathan/open-source-32gd)
-- [Backend vs. Frontend: Which Path Should You Choose?](https://dev.to/learn_skills/backend-vs-frontend-which-path-should-you-choose-2f3k)
-- [Tools to Automate GitHub Projects](https://dev.to/benji377/tools-to-automate-github-projects-2cbl)
-- [JavaScript Tail Call Optimization](https://dev.to/omriluz1/javascript-tail-call-optimization-27po)
+- [AWS Cost Categories with OU Structure](https://dev.to/shu85t/aws-cost-categories-with-ou-structure-61n)
+- [Building LiteLLM Plugins with `async_pre_call_hook` for Proxy Mode](https://dev.to/yigit-konur/building-litellm-plugins-with-asyncprecallhook-for-proxy-mode-3lp6)
+- [Understanding this in JavaScript: Common Pitfalls and Fixes](https://dev.to/alex_aslam/understanding-this-in-javascript-common-pitfalls-and-fixes-1nk0)
+- [Sorting Algorithms Made Visual – Feedback Needed!](https://dev.to/bokul_ahmed_ae041b6bc8cb8/sorting-algorithm-visualizer-interactive-learning-with-react-2jmo)
 <!-- BLOG-POST-LIST:END -->
 
