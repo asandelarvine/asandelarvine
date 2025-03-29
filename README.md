@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 𝐌𝐲 𝐛𝐨𝐨𝐤 𝐢𝐬 𝐧𝐨𝐰 𝐢𝐧 𝐭𝐡𝐞 𝐓𝐎𝐏 5 𝐨𝐧 𝐋𝐞𝐚𝐧𝐩𝐮𝐛 𝐢𝐧 𝐭𝐡𝐞 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐲! 🏆](https://dev.to/kristiyanvelkov/5--1b9a)
-- [Securing Digital Identities in a Decentralized World: The Promise of Web3 Technologies](https://dev.to/slyvestang/securing-digital-identities-in-a-decentralized-world-the-promise-of-web3-technologies-5ag)
-- [Image illustrating the psychology of colors in UI/UX! 🎨](https://dev.to/swetty_sultania_834f90237/image-illustrating-the-psychology-of-colors-in-uiux-4gdo)
-- [How to Use Different SSH Keys for GitHub and Bitbucket on the Same Machine](https://dev.to/koushikweb/how-to-use-different-ssh-keys-for-github-and-bitbucket-on-the-same-machine-hf)
+- [What are the application areas of large-scale network interaction technology?](https://dev.to/mais0807/what-are-the-application-areas-of-large-scale-network-interaction-technology-21nk)
+- [Leetcode 19 : Remove nth Node from end of List](https://dev.to/rohithv07/leetcode-19-remove-nth-node-from-end-of-list-dai)
+- [DeepSeek V3-0324 vs. Claude 3.7 Sonnet Base: Which AI Codes Better?](https://dev.to/composiodev/deepseek-v3-0324-vs-claude-37-sonnet-base-which-ai-codes-better-2a8j)
+- [Doodle Cricket : The Fun Online Cricket Game You Can Play Anywhere](https://dev.to/googleblockbreaker/doodle-cricket-the-fun-online-cricket-game-you-can-play-anywhere-2ec)
 <!-- BLOG-POST-LIST:END -->
 
