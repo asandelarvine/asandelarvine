@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Startup Weekend Pitch Events Fail Great Ideas](https://dev.to/criticalmynd/why-startup-weekend-pitches-fail-great-ideas-2em3)
-- [🚀 Master JavaScript Operators &amp; Math Methods](https://dev.to/ebereplenty/master-javascript-operators-math-methods-5879)
-- [JavaFX Notepad Tutorial](https://dev.to/mklestil/javafx-notepad-tutorial-52hk)
-- [Tokenizing Nigerian Real Estate: How Blockchain is Changing Property Investment](https://dev.to/raji_moshood_ee3a4c2638f6/tokenizing-nigerian-real-estate-how-blockchain-is-changing-property-investment-2ojf)
+- [🌟 Calling All Developers! Join Our Vibrant Community on Discord! 🌟](https://dev.to/hanzla-baig/calling-all-developers-join-our-vibrant-community-on-discord-1j95)
+- [How to setup simple flask application](https://dev.to/mathivathana_s_b38c7b046b/how-to-setup-simple-flask-application-f96)
+- [Dark Mode in Web Design: Is It Just a Trend or a Necessity?](https://dev.to/desinoir/dark-mode-in-web-design-is-it-just-a-trend-or-a-necessity-407k)
+- [An Introduction to AWS Virtual Private Cloud](https://dev.to/bobokech/an-introduction-to-aws-virtual-private-cloud-1lid)
 <!-- BLOG-POST-LIST:END -->
 
