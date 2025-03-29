@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why Kotlin is the Best Choice for Android Development in 2025!](https://dev.to/dct_technology/why-kotlin-is-the-best-choice-for-android-development-in-2025-25n6)
-- [Top 15 React useState Mistakes Every Developer Should Know](https://dev.to/myogeshchavan97/top-15-react-usestate-mistakes-every-developer-should-know-njg)
-- [Installing Oracle Grid Infrastructure 19.25 on Oracle Linux 9.5 Using ASMLIB 3](https://dev.to/vahidusefzadeh/installing-oracle-grid-infrastructure-1925-on-oracle-linux-95-using-asmlib-3-4bki)
-- [🚀 Angular Signals: The Game-Changer for State Management!](https://dev.to/matin676/angular-signals-the-game-changer-for-state-management-4cdf)
+- [Generative AI: A Blessing or a Curse ?](https://dev.to/srihawi/generative-ai-a-blessing-or-a-curse--klc)
+- [Technical Assessment](https://dev.to/imajenasyon/technical-assessment-1kk2)
+- [Cách Treo Tranh Mã Đáo Thành Công](https://dev.to/baoanfts/cach-treo-tranh-ma-dao-thanh-cong-23pa)
+- [Cómo mejorar el rendimiento de tu aplicación web con prácticas de optimización en Angular](https://dev.to/cristian_arieta_7df932e5f/como-mejorar-el-rendimiento-de-tu-aplicacion-web-con-practicas-de-optimizacion-en-angular-48bn)
 <!-- BLOG-POST-LIST:END -->
 
