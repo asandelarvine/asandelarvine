@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Abusing &lt;div&gt; – Use the Right HTML Elements Instead!](https://dev.to/joodi/stop-abusing-use-the-right-html-elements-instead-1p45)
-- [Stop the Leaks! User Stickiness + SEO = Retention Gold &lpar;Your Guide to Building a Loyal Audience&rpar;](https://dev.to/seosiri/stop-the-leaks-user-stickiness-seo-retention-gold-your-guide-to-building-a-loyal-audience-26c3)
-- [Pulumi Deploy and Document Challenge: Fast Static Website Deployment](https://dev.to/shubham_kokane_1bd2fa4d20/pulumi-deploy-and-document-challenge-fast-static-website-deployment-522f)
-- [DevLog #2: When APIs Finally Clicked](https://dev.to/trevorbrowning/devlog-2-when-apis-finally-clicked-443l)
+- [Emerging Trends in Java Garbage Collection](https://dev.to/jillthornhill/emerging-trends-in-java-garbage-collection-f2)
+- [All React Concepts in One Read: Interview Insights](https://dev.to/joodi/all-react-concepts-in-one-read-interview-insights-30ij)
+- [🎓💻 Is College Still Worth It for Aspiring Software Engineers? 💻🎓](https://dev.to/hanzla-baig/is-college-still-worth-it-for-aspiring-software-engineers-30ne)
+- [&quot;Unlocking Video Magic: The Future of Customization with VideoMage&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-video-magic-the-future-of-customization-with-videomage-1c55)
 <!-- BLOG-POST-LIST:END -->
 
