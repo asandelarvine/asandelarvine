@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into JavaScript Classes: Static, Public, Private, and Protected](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-static-public-private-and-protected-21gc)
-- [Day 6: Mastering Git Branching: A beginner&#39;s Guide to efficient version control in 2025](https://dev.to/s_j_9c4bdb31f6630da7/day-6-mastering-git-branching-a-beginners-guide-to-efficient-version-control-in-2025-fgm)
-- [🚀 Go From Zero to K8s Hero: Local Kubernetes Dev with DevSpace + Kind](https://dev.to/narmidm/go-from-zero-to-k8s-hero-local-kubernetes-dev-with-devspace-kind-3c8e)
-- [Your Next.js website might be hacked, ChatGPT-4o Image Generation, State of Vue.js 2025, and more](https://dev.to/thisweekinjavascript/your-nextjs-website-might-be-hacked-chatgpt-4o-image-generation-state-of-vuejs-2025-and-more-15ep)
+- [Comprehensive Guide to Building a CI/CD Pipeline in AWS with GitHub](https://dev.to/seyilufadejucyberservices/comprehensive-guide-to-building-a-cicd-pipeline-in-aws-with-github-j4m)
+- [What is Redis? A Beginner’s Guide to Blazing-Fast Databases](https://dev.to/rijultp/what-is-redis-a-beginners-guide-to-blazing-fast-databases-1c36)
+- [The Ultimate Guide to Flutter Lists with Bloc : Part 2](https://dev.to/thanasistraitsis/the-ultimate-guide-to-flutter-lists-with-bloc-part-2-1o67)
+- [Automating secure CloudWatch Alarms with CDK Monitoring Constructs and encrypted SNS](https://dev.to/aws-builders/automating-secure-cloudwatch-alarms-with-cdk-monitoring-constructs-and-encrypted-sns-2hmp)
 <!-- BLOG-POST-LIST:END -->
 
