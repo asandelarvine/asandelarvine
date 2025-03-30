@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Develop Webapps for Everyone: A Guide to Web Accessibility](https://dev.to/debajit13/develop-webapps-for-everyone-a-guide-to-web-accessibility-4cfc)
-- [F*ck distraction. Just jot down the things.](https://dev.to/abdibrokhim/fck-distraction-just-jot-down-the-things-3ob)
-- [AWS: Powering the Future of Data Science](https://dev.to/aws-builders/aws-powering-the-future-of-data-science-2e1b)
-- [Leetcode 621. Task Scheduler](https://dev.to/rohithv07/leetcode-621-task-scheduler-59jn)
+- [Self-Hosting ownCloud on a Hetzner Ubuntu Server](https://dev.to/code42cate/self-hosting-owncloud-on-a-hetzner-ubuntu-server-171e)
+- [Understanding Traits and Trait Bounds in Rust](https://dev.to/leapcell/understanding-traits-and-trait-bounds-in-rust-8b1)
+- [MCP Servers: Plugging AI into Your Developer Toolkit](https://dev.to/nagarakesh4/mcp-servers-plugging-ai-into-your-developer-toolkit-32k9)
+- [&quot;Você conhece o Problema dos Três Marinheiros?&quot; Conheça esse problema e a sua solução no texto da postagem de Programação deste domingo &lpar;30/03/25&rpar;, com a implementação de um programa bem simples. https://professormarioleite.netlify.app](https://dev.to/profmario48/voce-conhece-o-problema-dos-tres-marinheiros-conheca-esse-problema-e-a-sua-solucao-no-texto-da-23ib)
 <!-- BLOG-POST-LIST:END -->
 
