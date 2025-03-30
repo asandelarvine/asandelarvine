@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking the Operator Access Experience](https://dev.to/srujan_jonnadula_ad988587/rethinking-the-operator-access-experience-2ee)
-- [Understanding Helm Releases in 2025: A Comprehensive Guide](https://dev.to/anna_golubkova/understanding-helm-releases-in-2025-a-comprehensive-guide-28gj)
-- [How to create a Jenkins Pipeline job](https://dev.to/olalekan_oladiran_d74b7a6/how-to-create-a-jenkins-pipeline-job-3193)
-- [How to Handle Errors in Bash Scripts in 2025?](https://dev.to/rociogarciavf/how-to-handle-errors-in-bash-scripts-in-2025-3bo)
+- [Tutorial 2: Swift Basics - Variables, Constants, and Data Types](https://dev.to/cl0udleadanis/swift-basics-variables-constants-and-data-types-4ep6)
+- [backup and restore etcd](https://dev.to/mohammed_banabila_3bc9e49/backup-and-restore-etcd-4e8o)
+- [Sorting Without Comparisons? Index Placement Sort &lpar;IPS&rpar;: A Simple Yet Powerful Sorting Trick I Developed](https://dev.to/klinsmann_r_da48223dc95dc/sorting-without-comparisons-index-placement-sort-ips-a-simple-yet-powerful-sorting-trick-i-225b)
+- [How I Ended Up Coding: My Journey Through Different Paths](https://dev.to/isaacurban0/how-i-ended-up-coding-my-journey-through-different-paths-2g90)
 <!-- BLOG-POST-LIST:END -->
 
