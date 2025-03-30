@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Solution Architect- Associate: Important Topics](https://dev.to/afshan/aws-solution-architect-associate-important-topics-28gn)
-- [Building Real-time Collaborative Applications with Go Backends and React Frontends](https://dev.to/seth_athooh_85836d9884b79/building-real-time-collaborative-applications-with-go-backends-and-react-frontends-43ig)
-- [Flow Icons, a new VS Code Icon Pack – Looking for Feedback!](https://dev.to/lebinhan/flow-icons-a-new-vs-code-icon-pack-looking-for-feedback-map)
-- [Boost your Website&#39;s Performance: How to provide Seamless Storage for the Public](https://dev.to/sammyug7/boost-your-websites-performance-how-to-provide-seamless-storage-for-the-public-3iea)
+- [Self-Hosting Nextcloud on a Hetzner Ubuntu Server](https://dev.to/code42cate/self-hosting-nextcloud-on-a-hetzner-ubuntu-server-5cm5)
+- [How to Investigate a CVE: A Practical Workflow for Engineers](https://dev.to/crud5th-273-/how-to-investigate-a-cve-a-practical-workflow-for-engineers-29f)
+- [A Tactical Overview of Penetration Testing: From Recon to Reporting](https://dev.to/crud5th-273-/a-tactical-overview-of-penetration-testing-from-recon-to-reporting-4j4)
+- [Frontend Security Fundamentals Every Developer Should Know](https://dev.to/crud5th-273-/frontend-security-fundamentals-every-developer-should-know-4e4f)
 <!-- BLOG-POST-LIST:END -->
 
