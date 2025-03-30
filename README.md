@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced My Oracle SQL Execution Time from 110s to 2s](https://dev.to/thellu/how-i-reduced-my-oracle-sql-execution-time-from-110s-to-2s-5428)
-- [Top 5 AI-Powered VS Code Extensions](https://dev.to/dev_kiran/top-5-ai-powered-vs-code-extensions-4gim)
-- [Getting Started with Generative AI – A Developer’s Perspective](https://dev.to/vpjigin/getting-started-with-generative-ai-a-developers-perspective-5d9a)
-- [Cloudflare Workers: New age computing](https://dev.to/alexmyronov/cloudflare-workers-new-age-computing-40k0)
+- [Stop Abusing &lt;div&gt; – Use the Right HTML Elements Instead!](https://dev.to/joodi/stop-abusing-use-the-right-html-elements-instead-1p45)
+- [Stop the Leaks! User Stickiness + SEO = Retention Gold &lpar;Your Guide to Building a Loyal Audience&rpar;](https://dev.to/seosiri/stop-the-leaks-user-stickiness-seo-retention-gold-your-guide-to-building-a-loyal-audience-26c3)
+- [Pulumi Deploy and Document Challenge: Fast Static Website Deployment](https://dev.to/shubham_kokane_1bd2fa4d20/pulumi-deploy-and-document-challenge-fast-static-website-deployment-522f)
+- [DevLog #2: When APIs Finally Clicked](https://dev.to/trevorbrowning/devlog-2-when-apis-finally-clicked-443l)
 <!-- BLOG-POST-LIST:END -->
 
