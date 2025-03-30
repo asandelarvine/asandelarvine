@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Você não está mais codificando sozinho&lpar;a&rpar;: O desenvolvimento na era dos code agents](https://dev.to/kaic/voce-nao-esta-mais-codificando-sozinhoa-o-desenvolvimento-na-era-dos-code-agents-11o9)
-- [How Smart Monitoring Automation Enhances Incident Management and Ensures Uptime](https://dev.to/tomcao2012/how-smart-monitoring-automation-enhances-incident-management-and-ensures-uptime-djh)
-- [Learning: Observability](https://dev.to/bolt04/learning-observability-3i37)
-- [Streaming APIs with FastAPI and Next.js — Part 1](https://dev.to/sahan/streaming-apis-with-fastapi-and-nextjs-part-1-3ndj)
+- [Neural DSL v0.2.5 Update: Explore Multi-Framework HPO Features](https://dev.to/neural/neural-dsl-v025-update-explore-multi-framework-hpo-features-4h10)
+- [Tutorial 7: Working with Auto Layout and Stack Views](https://dev.to/cl0udleadanis/tutorial-7-working-with-auto-layout-and-stack-views-36g0)
+- [Tutorial 8: Creating and Customizing Buttons, Labels, and Text Fields](https://dev.to/cl0udleadanis/tutorial-8-creating-and-customizing-buttons-labels-and-text-fields-5epk)
+- [How to Land Your First Internship in 2025](https://dev.to/mahas1234/how-to-land-your-first-internship-in-2025-1o28)
 <!-- BLOG-POST-LIST:END -->
 
