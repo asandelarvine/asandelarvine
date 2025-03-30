@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural DSL v0.2.5 Update: Explore Multi-Framework HPO Features](https://dev.to/neural/neural-dsl-v025-update-explore-multi-framework-hpo-features-4h10)
-- [Tutorial 7: Working with Auto Layout and Stack Views](https://dev.to/cl0udleadanis/tutorial-7-working-with-auto-layout-and-stack-views-36g0)
-- [Tutorial 8: Creating and Customizing Buttons, Labels, and Text Fields](https://dev.to/cl0udleadanis/tutorial-8-creating-and-customizing-buttons-labels-and-text-fields-5epk)
-- [How to Land Your First Internship in 2025](https://dev.to/mahas1234/how-to-land-your-first-internship-in-2025-1o28)
+- [AWS Solution Architect- Associate: Important Topics](https://dev.to/afshan/aws-solution-architect-associate-important-topics-28gn)
+- [Building Real-time Collaborative Applications with Go Backends and React Frontends](https://dev.to/seth_athooh_85836d9884b79/building-real-time-collaborative-applications-with-go-backends-and-react-frontends-43ig)
+- [Flow Icons, a new VS Code Icon Pack – Looking for Feedback!](https://dev.to/lebinhan/flow-icons-a-new-vs-code-icon-pack-looking-for-feedback-map)
+- [Boost your Website&#39;s Performance: How to provide Seamless Storage for the Public](https://dev.to/sammyug7/boost-your-websites-performance-how-to-provide-seamless-storage-for-the-public-3iea)
 <!-- BLOG-POST-LIST:END -->
 
