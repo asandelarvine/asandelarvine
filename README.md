@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting ownCloud on a Hetzner Ubuntu Server](https://dev.to/code42cate/self-hosting-owncloud-on-a-hetzner-ubuntu-server-171e)
-- [Understanding Traits and Trait Bounds in Rust](https://dev.to/leapcell/understanding-traits-and-trait-bounds-in-rust-8b1)
-- [MCP Servers: Plugging AI into Your Developer Toolkit](https://dev.to/nagarakesh4/mcp-servers-plugging-ai-into-your-developer-toolkit-32k9)
-- [&quot;Você conhece o Problema dos Três Marinheiros?&quot; Conheça esse problema e a sua solução no texto da postagem de Programação deste domingo &lpar;30/03/25&rpar;, com a implementação de um programa bem simples. https://professormarioleite.netlify.app](https://dev.to/profmario48/voce-conhece-o-problema-dos-tres-marinheiros-conheca-esse-problema-e-a-sua-solucao-no-texto-da-23ib)
+- [A Deep Dive into JavaScript Classes: Static, Public, Private, and Protected](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-static-public-private-and-protected-21gc)
+- [Day 6: Mastering Git Branching: A beginner&#39;s Guide to efficient version control in 2025](https://dev.to/s_j_9c4bdb31f6630da7/day-6-mastering-git-branching-a-beginners-guide-to-efficient-version-control-in-2025-fgm)
+- [🚀 Go From Zero to K8s Hero: Local Kubernetes Dev with DevSpace + Kind](https://dev.to/narmidm/go-from-zero-to-k8s-hero-local-kubernetes-dev-with-devspace-kind-3c8e)
+- [Your Next.js website might be hacked, ChatGPT-4o Image Generation, State of Vue.js 2025, and more](https://dev.to/thisweekinjavascript/your-nextjs-website-might-be-hacked-chatgpt-4o-image-generation-state-of-vuejs-2025-and-more-15ep)
 <!-- BLOG-POST-LIST:END -->
 
