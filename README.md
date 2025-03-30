@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to Building a CI/CD Pipeline in AWS with GitHub](https://dev.to/seyilufadejucyberservices/comprehensive-guide-to-building-a-cicd-pipeline-in-aws-with-github-j4m)
-- [What is Redis? A Beginner’s Guide to Blazing-Fast Databases](https://dev.to/rijultp/what-is-redis-a-beginners-guide-to-blazing-fast-databases-1c36)
-- [The Ultimate Guide to Flutter Lists with Bloc : Part 2](https://dev.to/thanasistraitsis/the-ultimate-guide-to-flutter-lists-with-bloc-part-2-1o67)
-- [Automating secure CloudWatch Alarms with CDK Monitoring Constructs and encrypted SNS](https://dev.to/aws-builders/automating-secure-cloudwatch-alarms-with-cdk-monitoring-constructs-and-encrypted-sns-2hmp)
+- [uv: Up to 100x Faster Than pip—Is This Python&#39;s Future?](https://dev.to/jay-thakur/uv-up-to-100x-faster-than-pip-is-this-pythons-future-1aed)
+- [How I Saved a Startup $15k/month on AWS Without Downtime](https://dev.to/aws_optimizer/how-i-saved-a-startup-15kmonth-on-aws-without-downtime-33k2)
+- [Ember Essence](https://dev.to/wlegard/ember-essence-16mf)
+- [Understanding Operating System concepts](https://dev.to/leadpresence/understanding-operating-system-concepts-41e9)
 <!-- BLOG-POST-LIST:END -->
 
