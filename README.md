@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerging Trends in Java Garbage Collection](https://dev.to/jillthornhill/emerging-trends-in-java-garbage-collection-f2)
-- [All React Concepts in One Read: Interview Insights](https://dev.to/joodi/all-react-concepts-in-one-read-interview-insights-30ij)
-- [🎓💻 Is College Still Worth It for Aspiring Software Engineers? 💻🎓](https://dev.to/hanzla-baig/is-college-still-worth-it-for-aspiring-software-engineers-30ne)
-- [&quot;Unlocking Video Magic: The Future of Customization with VideoMage&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-video-magic-the-future-of-customization-with-videomage-1c55)
+- [Develop Webapps for Everyone: A Guide to Web Accessibility](https://dev.to/debajit13/develop-webapps-for-everyone-a-guide-to-web-accessibility-4cfc)
+- [F*ck distraction. Just jot down the things.](https://dev.to/abdibrokhim/fck-distraction-just-jot-down-the-things-3ob)
+- [AWS: Powering the Future of Data Science](https://dev.to/aws-builders/aws-powering-the-future-of-data-science-2e1b)
+- [Leetcode 621. Task Scheduler](https://dev.to/rohithv07/leetcode-621-task-scheduler-59jn)
 <!-- BLOG-POST-LIST:END -->
 
