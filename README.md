@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/uliyahoo/-a5p)
-- [Comprehensive Guide for Understanding the Self-Taught Web Developer Path in 2025](https://dev.to/shadbalti/comprehensive-guide-for-understanding-the-self-taught-web-developer-path-in-2025-32ng)
-- [How to Escape Callback Hell in JavaScript: A Developer’s Guide](https://dev.to/alex_aslam/how-to-escape-callback-hell-in-javascript-a-developers-guide-2hpm)
-- [Unleash Your Inner Inventor: Discover Endless Arduino Uno Project Ideas! 🚀](https://dev.to/wildshark/unleash-your-inner-inventor-discover-endless-arduino-uno-project-ideas-1k06)
+- [Estratégias de Caching para Resolver Problemas de Latência e Sobrecarga em Bancos de Dados](https://dev.to/asouza/estrategias-de-caching-para-resolver-problemas-de-latencia-e-sobrecarga-em-bancos-de-dados-517)
+- [Test Article from SmartScrapAI](https://dev.to/gaurav4288/test-article-from-smartscrapai-2kl1)
+- [Shopping cart](https://dev.to/rifat_hasan_497b839e408d3/shopping-cart-bdk)
+- [Beyond HTML &amp; CSS: 15+ Frontend Niches to Level Up Your Career](https://dev.to/solat-ali/beyond-html-css-15-frontend-niches-to-level-up-your-career-1eoh)
 <!-- BLOG-POST-LIST:END -->
 
