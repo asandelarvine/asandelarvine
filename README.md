@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Video Generation: VBench-2.0&#39;s Game-Changing Evaluation Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-video-generation-vbench-20s-game-changing-evaluation-framework-21mk)
-- [Building Teamwork Through Online Learning: A New Era of Digital Collaboration for Students](https://dev.to/ghummantech/building-teamwork-through-online-learning-a-new-era-of-digital-collaboration-for-students-2d3d)
-- [A sleek solidity cheatsheet](https://dev.to/atharvsan/a-sleek-solidity-cheatsheet-4b28)
-- [V8 Engine Optimization Techniques](https://dev.to/omriluz1/v8-engine-optimization-techniques-1bcd)
+- [Você não está mais codificando sozinho&lpar;a&rpar;: O desenvolvimento na era dos code agents](https://dev.to/kaic/voce-nao-esta-mais-codificando-sozinhoa-o-desenvolvimento-na-era-dos-code-agents-11o9)
+- [How Smart Monitoring Automation Enhances Incident Management and Ensures Uptime](https://dev.to/tomcao2012/how-smart-monitoring-automation-enhances-incident-management-and-ensures-uptime-djh)
+- [Learning: Observability](https://dev.to/bolt04/learning-observability-3i37)
+- [Streaming APIs with FastAPI and Next.js — Part 1](https://dev.to/sahan/streaming-apis-with-fastapi-and-nextjs-part-1-3ndj)
 <!-- BLOG-POST-LIST:END -->
 
