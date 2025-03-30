@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting Nextcloud on a Hetzner Ubuntu Server](https://dev.to/code42cate/self-hosting-nextcloud-on-a-hetzner-ubuntu-server-5cm5)
-- [How to Investigate a CVE: A Practical Workflow for Engineers](https://dev.to/crud5th-273-/how-to-investigate-a-cve-a-practical-workflow-for-engineers-29f)
-- [A Tactical Overview of Penetration Testing: From Recon to Reporting](https://dev.to/crud5th-273-/a-tactical-overview-of-penetration-testing-from-recon-to-reporting-4j4)
-- [Frontend Security Fundamentals Every Developer Should Know](https://dev.to/crud5th-273-/frontend-security-fundamentals-every-developer-should-know-4e4f)
+- [🌟 Why Web3 Is More Than Just Crypto: A Developer&#39;s Guide 🚀](https://dev.to/hanzla-baig/why-web3-is-more-than-just-crypto-a-developers-guide-3g08)
+- [You naming illusion and effects with the simple html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/you-naming-illusion-and-effects-with-the-simple-html-css-and-javascript-1ac2)
+- [Magnetic effect illusions with the html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/magnetic-effect-illusions-with-the-html-css-and-javascript-1h9j)
+- [🚀 How to Set Up a High Availability k3s Cluster on Hetzner &lpar;in ~15 Minutes&rpar;](https://dev.to/giveitatry/how-to-set-up-a-high-availability-k3s-cluster-on-hetzner-in-15-minutes-gdk)
 <!-- BLOG-POST-LIST:END -->
 
