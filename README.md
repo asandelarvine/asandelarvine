@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host a Static Website on Amazon S3](https://dev.to/akuphe-devops/how-to-host-a-static-website-on-amazon-s3-332j)
-- [Ascent of Man Project created by Syd Geraghty](https://dev.to/syd_geraghty_dff543158698/ascent-of-man-project-created-by-syd-geraghty-e6)
-- [Deploy Scalable VPC Architecture on AWS Cloud](https://dev.to/ashunair/deploy-scalable-vpc-architecture-on-aws-cloud-80i)
-- [Code For Viewing Driving License: A Simple Definition](https://dev.to/honeyhemp36/code-for-viewing-driving-license-a-simple-definition-597d)
+- [Building a Team That Resembles Your Brand Values and Vision](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-a-team-that-resembles-your-brand-values-and-vision-5586)
+- [Optimizing Multithreading Performance in Java: Best Practices and Techniques](https://dev.to/tpointtechadu/optimizing-multithreading-performance-in-java-best-practices-and-techniques-lf7)
+- [Finding the Right Collaborator on GitHub](https://dev.to/miltonhyndrex/finding-the-right-collaborator-on-github-g0p)
+- [AI Model Predicts Node Importance in Networks Using Limited Data and Uncertainty Analysis](https://dev.to/mikeyoung44/ai-model-predicts-node-importance-in-networks-using-limited-data-and-uncertainty-analysis-205m)
 <!-- BLOG-POST-LIST:END -->
 
