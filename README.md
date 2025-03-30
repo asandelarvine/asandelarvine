@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [uv: Up to 100x Faster Than pip—Is This Python&#39;s Future?](https://dev.to/jay-thakur/uv-up-to-100x-faster-than-pip-is-this-pythons-future-1aed)
-- [How I Saved a Startup $15k/month on AWS Without Downtime](https://dev.to/aws_optimizer/how-i-saved-a-startup-15kmonth-on-aws-without-downtime-33k2)
-- [Ember Essence](https://dev.to/wlegard/ember-essence-16mf)
-- [Understanding Operating System concepts](https://dev.to/leadpresence/understanding-operating-system-concepts-41e9)
+- [[Boost]](https://dev.to/uliyahoo/-a5p)
+- [Comprehensive Guide for Understanding the Self-Taught Web Developer Path in 2025](https://dev.to/shadbalti/comprehensive-guide-for-understanding-the-self-taught-web-developer-path-in-2025-32ng)
+- [How to Escape Callback Hell in JavaScript: A Developer’s Guide](https://dev.to/alex_aslam/how-to-escape-callback-hell-in-javascript-a-developers-guide-2hpm)
+- [Unleash Your Inner Inventor: Discover Endless Arduino Uno Project Ideas! 🚀](https://dev.to/wildshark/unleash-your-inner-inventor-discover-endless-arduino-uno-project-ideas-1k06)
 <!-- BLOG-POST-LIST:END -->
 
