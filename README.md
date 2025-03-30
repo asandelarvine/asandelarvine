@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Team That Resembles Your Brand Values and Vision](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-a-team-that-resembles-your-brand-values-and-vision-5586)
-- [Optimizing Multithreading Performance in Java: Best Practices and Techniques](https://dev.to/tpointtechadu/optimizing-multithreading-performance-in-java-best-practices-and-techniques-lf7)
-- [Finding the Right Collaborator on GitHub](https://dev.to/miltonhyndrex/finding-the-right-collaborator-on-github-g0p)
-- [AI Model Predicts Node Importance in Networks Using Limited Data and Uncertainty Analysis](https://dev.to/mikeyoung44/ai-model-predicts-node-importance-in-networks-using-limited-data-and-uncertainty-analysis-205m)
+- [&quot;Unlocking Video Generation: VBench-2.0&#39;s Game-Changing Evaluation Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-video-generation-vbench-20s-game-changing-evaluation-framework-21mk)
+- [Building Teamwork Through Online Learning: A New Era of Digital Collaboration for Students](https://dev.to/ghummantech/building-teamwork-through-online-learning-a-new-era-of-digital-collaboration-for-students-2d3d)
+- [A sleek solidity cheatsheet](https://dev.to/atharvsan/a-sleek-solidity-cheatsheet-4b28)
+- [V8 Engine Optimization Techniques](https://dev.to/omriluz1/v8-engine-optimization-techniques-1bcd)
 <!-- BLOG-POST-LIST:END -->
 
