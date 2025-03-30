@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Web Component Modules in Raku: A Journey of Diverse Approaches](https://dev.to/fco/the-evolution-of-web-component-modules-in-raku-a-journey-of-diverse-approaches-1i7g)
-- [Introducing Inboto: Your AI Copilot for Effortless Email Support](https://dev.to/jianping_liu/introducing-inboto-your-ai-copilot-for-effortless-email-support-4987)
-- [DevOps Made Simple: A Beginner’s Guide to Landing a DevOps Internship](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-landing-a-devops-internship-4ch6)
-- [Superintelligence: Choosing Life](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligence-choosing-life-9ni)
+- [GitHub Issue Importer](https://dev.to/faraib/github-issue-importer-56gd)
+- [0. Dear Everyone](https://dev.to/lukeshim/0-dear-everyone-4ggg)
+- [AWS Three-Tier Architecture](https://dev.to/harshad_dpt/aws-three-tier-architecture-3kki)
+- [CSS Grid vs. Flexbox: How to Choose the Right Tool for Your Layout](https://dev.to/code_2/css-grid-vs-flexbox-how-to-choose-the-right-tool-for-your-layout-3nl0)
 <!-- BLOG-POST-LIST:END -->
 
