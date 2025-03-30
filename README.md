@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial 2: Swift Basics - Variables, Constants, and Data Types](https://dev.to/cl0udleadanis/swift-basics-variables-constants-and-data-types-4ep6)
-- [backup and restore etcd](https://dev.to/mohammed_banabila_3bc9e49/backup-and-restore-etcd-4e8o)
-- [Sorting Without Comparisons? Index Placement Sort &lpar;IPS&rpar;: A Simple Yet Powerful Sorting Trick I Developed](https://dev.to/klinsmann_r_da48223dc95dc/sorting-without-comparisons-index-placement-sort-ips-a-simple-yet-powerful-sorting-trick-i-225b)
-- [How I Ended Up Coding: My Journey Through Different Paths](https://dev.to/isaacurban0/how-i-ended-up-coding-my-journey-through-different-paths-2g90)
+- [The Evolution of Web Component Modules in Raku: A Journey of Diverse Approaches](https://dev.to/fco/the-evolution-of-web-component-modules-in-raku-a-journey-of-diverse-approaches-1i7g)
+- [Introducing Inboto: Your AI Copilot for Effortless Email Support](https://dev.to/jianping_liu/introducing-inboto-your-ai-copilot-for-effortless-email-support-4987)
+- [DevOps Made Simple: A Beginner’s Guide to Landing a DevOps Internship](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-landing-a-devops-internship-4ch6)
+- [Superintelligence: Choosing Life](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligence-choosing-life-9ni)
 <!-- BLOG-POST-LIST:END -->
 
