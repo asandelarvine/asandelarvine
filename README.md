@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #183 - 31-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-183-31-march-2025-4534)
-- [What are your Goals for the week? #120](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-120-4gdh)
-- [AWS 101 Practice Workshop](https://dev.to/19naveen/aws-101-practice-workshop-43dh)
-- [How to set up TypeScript with Node.js and Express](https://dev.to/logrocket/how-to-set-up-typescript-with-nodejs-and-express-3ab4)
+- [Clases anidadas en Java](https://dev.to/asjordi/clases-anidadas-en-java-48ih)
+- [My IDE Journey](https://dev.to/tkouleris/my-ide-journey-4ic8)
+- [10 Must-Read White Papers for Every Software Engineer](https://dev.to/devcorner/10-must-read-white-papers-for-every-software-engineer-oa2)
+- [Etherspot’s Skandha Bundler Now Supports ERC-4337 EntryPoint v0.8.0](https://dev.to/etherspot/etherspots-skandha-bundler-now-supports-erc-4337-entrypoint-v080-4ni9)
 <!-- BLOG-POST-LIST:END -->
 
