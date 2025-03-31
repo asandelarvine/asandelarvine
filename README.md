@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fountain of fire ministry](https://dev.to/khulisojohn/fountain-of-fire-ministry-a39)
-- [🚀 Optimizing Your React App: Best Practices for Developers](https://dev.to/ayon_ssp/optimizing-your-react-app-best-practices-for-developers-5egf)
-- [Basic Setup of Jenkins for CI/CD](https://dev.to/anujgupta345/basic-setup-of-jenkins-for-cicd-cfg)
-- [AI-Powered Test Automation: Transforming Software Testing for Speed and Accuracy](https://dev.to/keploy/ai-powered-test-automation-transforming-software-testing-for-speed-and-accuracy-3pdl)
+- [MacBook with Touch Bar – A Closer Look at Innovation](https://dev.to/keploy/macbook-with-touch-bar-a-closer-look-at-innovation-1g99)
+- [Difference between Javascript Framework Vs Library](https://dev.to/iam_prashanth_ks/difference-between-javascript-framework-vs-library-5e32)
+- [Mastering JavaScript Operators &lpar;Without Getting Overwhelmed&rpar;](https://dev.to/d-libro-digital-skills/mastering-javascript-operators-without-getting-overwhelmed-3e7)
+- [The Digital Dilemma: Balancing Visibility with Privacy](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-digital-dilemma-balancing-visibility-with-privacy-hej)
 <!-- BLOG-POST-LIST:END -->
 
