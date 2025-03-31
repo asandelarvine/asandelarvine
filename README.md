@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clases anidadas en Java](https://dev.to/asjordi/clases-anidadas-en-java-48ih)
-- [My IDE Journey](https://dev.to/tkouleris/my-ide-journey-4ic8)
-- [10 Must-Read White Papers for Every Software Engineer](https://dev.to/devcorner/10-must-read-white-papers-for-every-software-engineer-oa2)
-- [Etherspot’s Skandha Bundler Now Supports ERC-4337 EntryPoint v0.8.0](https://dev.to/etherspot/etherspots-skandha-bundler-now-supports-erc-4337-entrypoint-v080-4ni9)
+- [The 6/7 Coding Challenge: How I&#39;m Coding for 500 Days While Respecting the Sabbath](https://dev.to/joshuamichaelhall/the-67-coding-challenge-how-im-coding-for-500-days-while-respecting-the-sabbath-d82)
+- [Ways to Optimize PostgreSQL Queries](https://dev.to/santoshpremi/ways-to-optimize-postgresql-queries-bmd)
+- [How We Extended LLM Conversations by 10x with Intelligent Context Compaction](https://dev.to/amitksingh1490/how-we-extended-llm-conversations-by-10x-with-intelligent-context-compaction-4h0a)
+- [Training a Stellar Classification Model with Ensemble Machine Learning](https://dev.to/darkstalker/training-a-stellar-classification-model-with-ensemble-machine-learning-9bf)
 <!-- BLOG-POST-LIST:END -->
 
