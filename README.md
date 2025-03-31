@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-33j3)
-- [Tutorial 13: Observable Objects and Environment Objects in SwiftUI](https://dev.to/cl0udleadanis/tutorial-13-observable-objects-and-environment-objects-in-swiftui-9o2)
-- [Transforming Procrastination into Progress: A Practical Approach](https://dev.to/wraith/transforming-procrastination-into-progress-a-practical-approach-5f7j)
-- [11 Common MATLAB Keywords and Syntax for Engineers](https://dev.to/dumebii/11-common-matlab-keywords-and-syntax-for-engineers-37bg)
+- [Exploring the Architecture of All Node.js Web Frameworks](https://dev.to/leapcell/exploring-the-architecture-of-all-nodejs-web-frameworks-knl)
+- [Granting cross-account access in AWS](https://dev.to/aws-builders/granting-cross-account-access-in-aws-1a02)
+- [Mistral AI Launches New API for LLM-Based OCR of PDFs](https://dev.to/ssojet/mistral-ai-launches-new-api-for-llm-based-ocr-of-pdfs-4i1j)
+- [Elevate Your UI With React Paper](https://dev.to/charles_eugene_79230d4394/elevate-your-ui-with-react-paper-5eeh)
 <!-- BLOG-POST-LIST:END -->
 
