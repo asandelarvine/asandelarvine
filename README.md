@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Architecture of All Node.js Web Frameworks](https://dev.to/leapcell/exploring-the-architecture-of-all-nodejs-web-frameworks-knl)
-- [Granting cross-account access in AWS](https://dev.to/aws-builders/granting-cross-account-access-in-aws-1a02)
-- [Mistral AI Launches New API for LLM-Based OCR of PDFs](https://dev.to/ssojet/mistral-ai-launches-new-api-for-llm-based-ocr-of-pdfs-4i1j)
-- [Elevate Your UI With React Paper](https://dev.to/charles_eugene_79230d4394/elevate-your-ui-with-react-paper-5eeh)
+- [All Data and AI Weekly #183 - 31-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-183-31-march-2025-4534)
+- [What are your Goals for the week? #120](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-120-4gdh)
+- [AWS 101 Practice Workshop](https://dev.to/19naveen/aws-101-practice-workshop-43dh)
+- [How to set up TypeScript with Node.js and Express](https://dev.to/logrocket/how-to-set-up-typescript-with-nodejs-and-express-3ab4)
 <!-- BLOG-POST-LIST:END -->
 
