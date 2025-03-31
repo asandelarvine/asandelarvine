@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modernize Apps at Scale: Transform CSV to JSON with MongoImport | ETL Tutorial for MongoDB](https://dev.to/saint_vandora/modernize-apps-at-scale-transform-csv-to-json-with-mongoimport-etl-tutorial-for-mongodb-3o73)
-- [&quot;Revolutionizing Healthcare AI: MedAgentSim and Q-Insight Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-healthcare-ai-medagentsim-and-q-insight-innovations-2lmh)
-- [AI-Generated Music: Will Machines Replace Human Composers?](https://dev.to/aditya_tripathi_17ffee7f5/ai-generated-music-will-machines-replace-human-composers-3lk9)
-- [Create a virtual keyboard with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/create-a-virtual-keyboard-with-tailwind-css-and-javascript-42pp)
+- [Breaking down bugs in TDengine to master refactoring, part 3: price of laziness](https://dev.to/pvsdev/breaking-down-bugs-in-tdengine-to-master-refactoring-part-3-price-of-laziness-a0d)
+- [5 TestContainers Strategies That Revolutionize Java Integration Testing](https://dev.to/aaravjoshi/5-testcontainers-strategies-that-revolutionize-java-integration-testing-4k7f)
+- [Mastering OIDC: A Developer&#39;s Guide to Secure Authentication](https://dev.to/andyssojet/mastering-oidc-a-developers-guide-to-secure-authentication-4460)
+- [Roadmap to Financial Freedom &lpar;April 1, 2025 - March 31, 2030&rpar;](https://dev.to/daudmabena/roadmap-to-financial-freedom-april-1-2025-march-31-2030-4hja)
 <!-- BLOG-POST-LIST:END -->
 
