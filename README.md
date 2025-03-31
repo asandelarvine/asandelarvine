@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tackling Asynchronous Bugs in JavaScript: Race Conditions and Unresolved Promises](https://dev.to/alex_aslam/tackling-asynchronous-bugs-in-javascript-race-conditions-and-unresolved-promises-7jo)
-- [Buttery-Smooth Scroll Animations: Building a High-Performance Canvas Parallax Effect](https://dev.to/nidal_tahir_cde5660ddbe04/buttery-smooth-scroll-animations-building-a-high-performance-canvas-parallax-effect-2m8l)
-- [Tutorial 18: Using Combine for Reactive Programming in Swift](https://dev.to/cl0udleadanis/tutorial-18-using-combine-for-reactive-programming-in-swift-38pn)
-- [My Experience at ROBOTRIX 4.0 – A Tech-Packed Workshop!](https://dev.to/anushree_shee_bb8d161905f/my-experience-at-robotrix-40-a-tech-packed-workshop-1k0k)
+- [Valentine’s Day Breakup: React Dumps Create React App](https://dev.to/tochi_/valentines-day-breakup-react-dumps-create-react-app-3oci)
+- [What if your browser actually helped you fill out forms—with your own data?](https://dev.to/sudhanva_mg_3d625287a49b9/what-if-your-browser-actually-helped-you-fill-out-forms-with-your-own-data-5a3d)
+- [Relevance Feedback in Informational Retrieval](https://dev.to/qdrant/relevance-feedback-in-informational-retrieval-54np)
+- [Flask Application Deployment using AWS ECS and AWS DynamoDB with Terraform](https://dev.to/aws-builders/flask-application-deployment-using-aws-ecs-and-aws-dynamodb-with-terraform-45oh)
 <!-- BLOG-POST-LIST:END -->
 
