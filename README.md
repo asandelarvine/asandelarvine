@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is revolutionizing the way we build for the web.](https://dev.to/sunny7899/how-ai-is-revolutionizing-the-way-we-build-for-the-web-2o0m)
-- [Building Bitcoin&#39;s Proof of Work: A TypeScript Implementation Guide](https://dev.to/radzion/building-bitcoins-proof-of-work-a-typescript-implementation-guide-236j)
-- [What happened isn&#39;t the point. How you respond is.](https://dev.to/adatole/what-happened-isnt-the-point-how-you-respond-is-29ip)
-- [Wasting Space! Master the Art of SEO-Optimized Content Snippets &lpar;Your Quick-Win Guide!&rpar;](https://dev.to/seosiri/wasting-space-master-the-art-of-seo-optimized-content-snippets-your-quick-win-guide-3nna)
+- [Fountain of fire ministry](https://dev.to/khulisojohn/fountain-of-fire-ministry-a39)
+- [🚀 Optimizing Your React App: Best Practices for Developers](https://dev.to/ayon_ssp/optimizing-your-react-app-best-practices-for-developers-5egf)
+- [Basic Setup of Jenkins for CI/CD](https://dev.to/anujgupta345/basic-setup-of-jenkins-for-cicd-cfg)
+- [AI-Powered Test Automation: Transforming Software Testing for Speed and Accuracy](https://dev.to/keploy/ai-powered-test-automation-transforming-software-testing-for-speed-and-accuracy-3pdl)
 <!-- BLOG-POST-LIST:END -->
 
