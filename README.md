@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MacBook with Touch Bar – A Closer Look at Innovation](https://dev.to/keploy/macbook-with-touch-bar-a-closer-look-at-innovation-1g99)
-- [Difference between Javascript Framework Vs Library](https://dev.to/iam_prashanth_ks/difference-between-javascript-framework-vs-library-5e32)
-- [Mastering JavaScript Operators &lpar;Without Getting Overwhelmed&rpar;](https://dev.to/d-libro-digital-skills/mastering-javascript-operators-without-getting-overwhelmed-3e7)
-- [The Digital Dilemma: Balancing Visibility with Privacy](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-digital-dilemma-balancing-visibility-with-privacy-hej)
+- [Breaking Barriers: How LLMs are Enabling Rapid No-Code Development](https://dev.to/balagmadhu/breaking-barriers-how-llms-are-enabling-rapid-no-code-development-2jpn)
+- [Dishwashers: Revolutionizing Kitchen Efficiency and Hygiene](https://dev.to/raquelmathew/dishwashers-revolutionizing-kitchen-efficiency-and-hygiene-34pd)
+- [Flowbite React vs. Shadcn: Which UI Library Should You Choose for Your React Project?](https://dev.to/adminmart/flowbite-react-vs-shadcn-which-ui-library-should-you-choose-for-your-react-project-nfl)
+- [Java Streams: The Gatherers API](https://dev.to/zenika/java-streams-the-gatherers-api-4b0d)
 <!-- BLOG-POST-LIST:END -->
 
