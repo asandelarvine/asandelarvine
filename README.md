@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gorombodevelopment/-5of)
-- [Building an Automated Bitcoin Price ETL Pipeline with Airflow and PostgreSQL](https://dev.to/luxdevhq/building-an-automated-bitcoin-price-etl-pipeline-with-airflow-and-postgresql-1ok7)
-- [Guía paso a paso: Probando Healenium Web](https://dev.to/jmr85/guia-paso-a-paso-probando-healenium-web-mjl)
-- [Azure Shared Responsibility Model: The Complete Guide to Cloud Security](https://dev.to/kapusto/azure-shared-responsibility-model-the-complete-guide-to-cloud-security-17dk)
+- [Tackling Asynchronous Bugs in JavaScript: Race Conditions and Unresolved Promises](https://dev.to/alex_aslam/tackling-asynchronous-bugs-in-javascript-race-conditions-and-unresolved-promises-7jo)
+- [Buttery-Smooth Scroll Animations: Building a High-Performance Canvas Parallax Effect](https://dev.to/nidal_tahir_cde5660ddbe04/buttery-smooth-scroll-animations-building-a-high-performance-canvas-parallax-effect-2m8l)
+- [Tutorial 18: Using Combine for Reactive Programming in Swift](https://dev.to/cl0udleadanis/tutorial-18-using-combine-for-reactive-programming-in-swift-38pn)
+- [My Experience at ROBOTRIX 4.0 – A Tech-Packed Workshop!](https://dev.to/anushree_shee_bb8d161905f/my-experience-at-robotrix-40-a-tech-packed-workshop-1k0k)
 <!-- BLOG-POST-LIST:END -->
 
