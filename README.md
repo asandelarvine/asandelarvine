@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playing with The DOM](https://dev.to/jasec7/playing-with-the-dom-4lg)
-- [2551. Put Marbles in Bags](https://dev.to/mdarifulhaque/2551-put-marbles-in-bags-4mla)
-- [Building AI-Driven Augmented Reality Experiences](https://dev.to/kartikmehta8/building-ai-driven-augmented-reality-experiences-40k1)
-- [Terraform for DevOps: Variables, Outputs, and Dynamic Workflows &lpar;Part 4&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-variables-outputs-and-dynamic-workflows-part-4-dpc)
+- [How to Name a Project](https://dev.to/gmitch215/how-to-name-a-project-40e6)
+- [Understanding the Role of Decision Table Testing](https://dev.to/yo-shi/understanding-the-role-of-decision-table-testing-23ep)
+- [Using Pulumi for Rapid Deployment](https://dev.to/celopez3/using-pulumi-for-rapid-deployment-5d95)
+- [[Boost]](https://dev.to/bogdannovotarskij/-2em8)
 <!-- BLOG-POST-LIST:END -->
 
