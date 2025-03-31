@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Valentine’s Day Breakup: React Dumps Create React App](https://dev.to/tochi_/valentines-day-breakup-react-dumps-create-react-app-3oci)
-- [What if your browser actually helped you fill out forms—with your own data?](https://dev.to/sudhanva_mg_3d625287a49b9/what-if-your-browser-actually-helped-you-fill-out-forms-with-your-own-data-5a3d)
-- [Relevance Feedback in Informational Retrieval](https://dev.to/qdrant/relevance-feedback-in-informational-retrieval-54np)
-- [Flask Application Deployment using AWS ECS and AWS DynamoDB with Terraform](https://dev.to/aws-builders/flask-application-deployment-using-aws-ecs-and-aws-dynamodb-with-terraform-45oh)
+- [Mastering Excel&#39;s IFNA: Efficient Value Retrieval and VLOOKUP Integration](https://dev.to/michaellarocca/mastering-excels-ifna-efficient-value-retrieval-and-vlookup-integration-360i)
+- [Creating a new Airbyte connector from scratch](https://dev.to/lgerthal/creating-a-new-airbyte-connector-from-scratch-37pm)
+- [Are Chain Link Fences Resistant to Strong Winds and Storms?](https://dev.to/eliana_coleman_332/are-chain-link-fences-resistant-to-strong-winds-and-storms-2d0)
+- [Clean Code Mastering, CSS Layout Strategies, and Semantic HTML: Why They RealyMatter](https://dev.to/rashid_seif_b7e4fd478f715/clean-code-mastering-css-layout-strategies-and-semantic-html-why-they-realymatter-ijm)
 <!-- BLOG-POST-LIST:END -->
 
