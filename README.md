@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Barriers: How LLMs are Enabling Rapid No-Code Development](https://dev.to/balagmadhu/breaking-barriers-how-llms-are-enabling-rapid-no-code-development-2jpn)
-- [Dishwashers: Revolutionizing Kitchen Efficiency and Hygiene](https://dev.to/raquelmathew/dishwashers-revolutionizing-kitchen-efficiency-and-hygiene-34pd)
-- [Flowbite React vs. Shadcn: Which UI Library Should You Choose for Your React Project?](https://dev.to/adminmart/flowbite-react-vs-shadcn-which-ui-library-should-you-choose-for-your-react-project-nfl)
-- [Java Streams: The Gatherers API](https://dev.to/zenika/java-streams-the-gatherers-api-4b0d)
+- [Modernize Apps at Scale: Transform CSV to JSON with MongoImport | ETL Tutorial for MongoDB](https://dev.to/saint_vandora/modernize-apps-at-scale-transform-csv-to-json-with-mongoimport-etl-tutorial-for-mongodb-3o73)
+- [&quot;Revolutionizing Healthcare AI: MedAgentSim and Q-Insight Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-healthcare-ai-medagentsim-and-q-insight-innovations-2lmh)
+- [AI-Generated Music: Will Machines Replace Human Composers?](https://dev.to/aditya_tripathi_17ffee7f5/ai-generated-music-will-machines-replace-human-composers-3lk9)
+- [Create a virtual keyboard with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/create-a-virtual-keyboard-with-tailwind-css-and-javascript-42pp)
 <!-- BLOG-POST-LIST:END -->
 
