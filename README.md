@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking down bugs in TDengine to master refactoring, part 3: price of laziness](https://dev.to/pvsdev/breaking-down-bugs-in-tdengine-to-master-refactoring-part-3-price-of-laziness-a0d)
-- [5 TestContainers Strategies That Revolutionize Java Integration Testing](https://dev.to/aaravjoshi/5-testcontainers-strategies-that-revolutionize-java-integration-testing-4k7f)
-- [Mastering OIDC: A Developer&#39;s Guide to Secure Authentication](https://dev.to/andyssojet/mastering-oidc-a-developers-guide-to-secure-authentication-4460)
-- [Roadmap to Financial Freedom &lpar;April 1, 2025 - March 31, 2030&rpar;](https://dev.to/daudmabena/roadmap-to-financial-freedom-april-1-2025-march-31-2030-4hja)
+- [Goodbye Codepush — Hello Instant Updates with Stallion OTA for React Native](https://dev.to/damancancode/goodbye-codepush-hello-instant-updates-with-stallion-ota-for-react-native-3hkj)
+- [Training a Machine Learning model in Azure](https://dev.to/sabahshariq/training-a-machine-learning-model-in-azure-ie6)
+- [What are the common methods to prevent unauthorized access to FPGA designs?](https://dev.to/carolineee/what-are-the-common-methods-to-prevent-unauthorized-access-to-fpga-designs-1pai)
+- [How I simplified testing in .NET via Storm Petrel](https://dev.to/scand/how-i-simplified-testing-in-net-via-storm-petrel-3emm)
 <!-- BLOG-POST-LIST:END -->
 
