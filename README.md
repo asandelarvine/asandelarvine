@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fostering Mutual Respect and Discipline at The Schram Academy](https://dev.to/ritu006/fostering-mutual-respect-and-discipline-at-the-schram-academy-23h2)
-- [ERP Implementation Challenges and How to Overcome Them](https://dev.to/niravparmar1/erp-implementation-challenges-and-how-to-overcome-them-34ik)
-- [Terraform Element Function – How It Works &amp; Use Cases](https://dev.to/spacelift/terraform-element-function-how-it-works-use-cases-3151)
-- [Automating My EC2 with Ansible: A Tale of WSL Woes and Nginx Triumphs](https://dev.to/tharun_reddy_a193bc1b993b/automating-my-ec2-with-ansible-a-tale-of-wsl-woes-and-nginx-triumphs-46n)
+- [Meme Monday](https://dev.to/ben/meme-monday-33j3)
+- [Tutorial 13: Observable Objects and Environment Objects in SwiftUI](https://dev.to/cl0udleadanis/tutorial-13-observable-objects-and-environment-objects-in-swiftui-9o2)
+- [Transforming Procrastination into Progress: A Practical Approach](https://dev.to/wraith/transforming-procrastination-into-progress-a-practical-approach-5f7j)
+- [11 Common MATLAB Keywords and Syntax for Engineers](https://dev.to/dumebii/11-common-matlab-keywords-and-syntax-for-engineers-37bg)
 <!-- BLOG-POST-LIST:END -->
 
