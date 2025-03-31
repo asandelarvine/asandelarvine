@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pacman just ate my whole essay 😭](https://dev.to/abdibrokhim/pacman-just-ate-my-whole-essay-5c92)
-- [Deploying a 3-tier application](https://dev.to/naveenkumarj/deploying-a-3-tier-application-5e4o)
-- [Containerization](https://dev.to/ritikkumar352/containerization-o3k)
-- [Dockerizing Spring Boot Application: A Beginner&#39;s Guide](https://dev.to/ritikkumar352/dockerizing-spring-boot-application-a-beginners-guide-4h8f)
+- [[Boost]](https://dev.to/gorombodevelopment/-5of)
+- [Building an Automated Bitcoin Price ETL Pipeline with Airflow and PostgreSQL](https://dev.to/luxdevhq/building-an-automated-bitcoin-price-etl-pipeline-with-airflow-and-postgresql-1ok7)
+- [Guía paso a paso: Probando Healenium Web](https://dev.to/jmr85/guia-paso-a-paso-probando-healenium-web-mjl)
+- [Azure Shared Responsibility Model: The Complete Guide to Cloud Security](https://dev.to/kapusto/azure-shared-responsibility-model-the-complete-guide-to-cloud-security-17dk)
 <!-- BLOG-POST-LIST:END -->
 
