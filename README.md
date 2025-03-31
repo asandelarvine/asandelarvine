@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval Augmented Generation &lpar;RAG&rpar; from Scratch — Tutorial For Dummies](https://dev.to/zachary62/retrieval-augmented-generation-rag-from-scratch-tutorial-for-dummies-508a)
-- [Preciso de alguém pra fazer design de um app](https://dev.to/brunoaraujo/preciso-de-alguem-pra-fazer-design-de-um-app-5egd)
-- [Prompt Necromancy: How Summoning Digital Shinigami Conjures Previously Unthinkable Knowledge](https://dev.to/numbpill3d/prompt-necromancy-how-summoning-digital-shinigami-conjures-previously-unthinkable-knowledge-34bn)
-- [Have you used Rust &lpar;or Go, or anything else&rpar; and just felt relieved by how they treat errors?](https://dev.to/danielhe4rt/have-you-used-rust-or-go-or-anything-else-and-just-felt-relieved-by-how-they-treat-errors-3akd)
+- [Pacman just ate my whole essay 😭](https://dev.to/abdibrokhim/pacman-just-ate-my-whole-essay-5c92)
+- [Deploying a 3-tier application](https://dev.to/naveenkumarj/deploying-a-3-tier-application-5e4o)
+- [Containerization](https://dev.to/ritikkumar352/containerization-o3k)
+- [Dockerizing Spring Boot Application: A Beginner&#39;s Guide](https://dev.to/ritikkumar352/dockerizing-spring-boot-application-a-beginners-guide-4h8f)
 <!-- BLOG-POST-LIST:END -->
 
