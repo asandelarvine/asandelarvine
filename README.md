@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 6/7 Coding Challenge: How I&#39;m Coding for 500 Days While Respecting the Sabbath](https://dev.to/joshuamichaelhall/the-67-coding-challenge-how-im-coding-for-500-days-while-respecting-the-sabbath-d82)
-- [Ways to Optimize PostgreSQL Queries](https://dev.to/santoshpremi/ways-to-optimize-postgresql-queries-bmd)
-- [How We Extended LLM Conversations by 10x with Intelligent Context Compaction](https://dev.to/amitksingh1490/how-we-extended-llm-conversations-by-10x-with-intelligent-context-compaction-4h0a)
-- [Training a Stellar Classification Model with Ensemble Machine Learning](https://dev.to/darkstalker/training-a-stellar-classification-model-with-ensemble-machine-learning-9bf)
+- [Retrieval Augmented Generation &lpar;RAG&rpar; from Scratch — Tutorial For Dummies](https://dev.to/zachary62/retrieval-augmented-generation-rag-from-scratch-tutorial-for-dummies-508a)
+- [Preciso de alguém pra fazer design de um app](https://dev.to/brunoaraujo/preciso-de-alguem-pra-fazer-design-de-um-app-5egd)
+- [Prompt Necromancy: How Summoning Digital Shinigami Conjures Previously Unthinkable Knowledge](https://dev.to/numbpill3d/prompt-necromancy-how-summoning-digital-shinigami-conjures-previously-unthinkable-knowledge-34bn)
+- [Have you used Rust &lpar;or Go, or anything else&rpar; and just felt relieved by how they treat errors?](https://dev.to/danielhe4rt/have-you-used-rust-or-go-or-anything-else-and-just-felt-relieved-by-how-they-treat-errors-3akd)
 <!-- BLOG-POST-LIST:END -->
 
