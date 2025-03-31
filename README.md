@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Codepush — Hello Instant Updates with Stallion OTA for React Native](https://dev.to/damancancode/goodbye-codepush-hello-instant-updates-with-stallion-ota-for-react-native-3hkj)
-- [Training a Machine Learning model in Azure](https://dev.to/sabahshariq/training-a-machine-learning-model-in-azure-ie6)
-- [What are the common methods to prevent unauthorized access to FPGA designs?](https://dev.to/carolineee/what-are-the-common-methods-to-prevent-unauthorized-access-to-fpga-designs-1pai)
-- [How I simplified testing in .NET via Storm Petrel](https://dev.to/scand/how-i-simplified-testing-in-net-via-storm-petrel-3emm)
+- [Fostering Mutual Respect and Discipline at The Schram Academy](https://dev.to/ritu006/fostering-mutual-respect-and-discipline-at-the-schram-academy-23h2)
+- [ERP Implementation Challenges and How to Overcome Them](https://dev.to/niravparmar1/erp-implementation-challenges-and-how-to-overcome-them-34ik)
+- [Terraform Element Function – How It Works &amp; Use Cases](https://dev.to/spacelift/terraform-element-function-how-it-works-use-cases-3151)
+- [Automating My EC2 with Ansible: A Tale of WSL Woes and Nginx Triumphs](https://dev.to/tharun_reddy_a193bc1b993b/automating-my-ec2-with-ansible-a-tale-of-wsl-woes-and-nginx-triumphs-46n)
 <!-- BLOG-POST-LIST:END -->
 
