@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Estratégias de Caching para Resolver Problemas de Latência e Sobrecarga em Bancos de Dados](https://dev.to/asouza/estrategias-de-caching-para-resolver-problemas-de-latencia-e-sobrecarga-em-bancos-de-dados-517)
-- [Test Article from SmartScrapAI](https://dev.to/gaurav4288/test-article-from-smartscrapai-2kl1)
-- [Shopping cart](https://dev.to/rifat_hasan_497b839e408d3/shopping-cart-bdk)
-- [Beyond HTML &amp; CSS: 15+ Frontend Niches to Level Up Your Career](https://dev.to/solat-ali/beyond-html-css-15-frontend-niches-to-level-up-your-career-1eoh)
+- [Playing with The DOM](https://dev.to/jasec7/playing-with-the-dom-4lg)
+- [2551. Put Marbles in Bags](https://dev.to/mdarifulhaque/2551-put-marbles-in-bags-4mla)
+- [Building AI-Driven Augmented Reality Experiences](https://dev.to/kartikmehta8/building-ai-driven-augmented-reality-experiences-40k1)
+- [Terraform for DevOps: Variables, Outputs, and Dynamic Workflows &lpar;Part 4&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-variables-outputs-and-dynamic-workflows-part-4-dpc)
 <!-- BLOG-POST-LIST:END -->
 
