@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Powerful Python Techniques for Processing Message Queues](https://dev.to/aaravjoshi/6-powerful-python-techniques-for-processing-message-queues-5gep)
-- [Bug of the week #6](https://dev.to/pikotutorial/bug-of-the-week-6-4lg2)
-- [News Roundup: Hp - April 01, 2025](https://dev.to/gaurav4288/news-roundup-hp-april-01-2025-3eo8)
-- [Jest vs Mocha: The Best JavaScript Testing Framework for Unit Testing](https://dev.to/ronika_kashyap/jest-vs-mocha-the-best-javascript-testing-framework-for-unit-testing-5d2)
+- [Automating Flask Deployment with GitHub Actions and Docker](https://dev.to/david_oyewole/automating-flask-deployment-with-github-actions-and-docker-4j1a)
+- [JavaScript Functions Tutorial: Writing Clean and Reusable Code](https://dev.to/tpointech/javascript-functions-tutorial-writing-clean-and-reusable-code-2ei6)
+- [5 Signs That Web Development Might Be the Perfect Career for You](https://dev.to/hamzasehouli/5-signs-that-web-development-might-be-the-perfect-career-for-you-2k40)
+- [Introduction to Laravel’s MVC architecture — A Complete Beginner’s Guide with Examples and Workflows](https://dev.to/hamzasehouli/introduction-to-laravels-mvc-architecture-a-complete-beginners-guide-with-examples-and-workflows-51jl)
 <!-- BLOG-POST-LIST:END -->
 
