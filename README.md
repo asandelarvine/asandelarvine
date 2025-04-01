@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out my new post guys](https://dev.to/jay818/check-out-my-new-post-guys-1125)
-- [[Boost]](https://dev.to/jay818/-4ldk)
-- [JS Basic concepts that some people miss](https://dev.to/jay818/js-basic-concepts-that-some-people-miss-3kgm)
-- [Mathematical Foundations for Machine Learning in JavaScript](https://dev.to/sajiram_a4704bc095/mathematical-foundations-for-machine-learning-in-javascript-h7o)
+- [Postgres Language Server: Initial Release](https://dev.to/supabase/postgres-language-server-initial-release-2j09)
+- [Como Criar uma Animação do Sistema Solar com C++ e Raylib](https://dev.to/marcosplusplus/como-criar-uma-animacao-do-sistema-solar-com-c-e-raylib-414p)
+- [Start Web Development the Easy Way](https://dev.to/masatech/start-web-development-the-easy-way-5309)
+- [Autenticação e Autorização](https://dev.to/reishenrique/autenticacao-e-autorizacao-1nkl)
 <!-- BLOG-POST-LIST:END -->
 
