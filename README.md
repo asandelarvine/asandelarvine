@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Tuesday](https://dev.to/ben/meme-tuesday-556)
-- [News Roundup: Cricket - April 01, 2025](https://dev.to/gaurav4288/news-roundup-cricket-april-01-2025-1k63)
-- [Day 12/250 - Full Stack Journey 🚀](https://dev.to/munin-1/day-12250-full-stack-journey-1e88)
-- [Test Article with Multiple Images](https://dev.to/gaurav4288/test-article-with-multiple-images-4647)
+- [check out my new landing page @ https://localhost:3000 and please send me feedback](https://dev.to/peter/check-out-my-new-landing-page-httpslocalhost3000-and-please-send-me-feedback-25dm)
+- [Dumb](https://dev.to/avanichols_dev/dumb-2jba)
+- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar;](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
+- [Just in! Supabase UI library](https://dev.to/iammtander/just-in-supabase-ui-library-4hfe)
 <!-- BLOG-POST-LIST:END -->
 
