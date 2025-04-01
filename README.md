@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft announces a revolutionary keyboard designed for vibe coding!](https://dev.to/alvaromontoro/microsoft-announces-a-revolutionary-keyboard-designed-for-vibe-coding-12d0)
-- [10 Powerful Bash Tricks Every Beginner Should Know 💡📚](https://dev.to/ramkumar-m-n/10-powerful-bash-tricks-every-beginner-should-know-lh0)
-- [M3Unator: Transform Any Open Directory into Beautiful M3U/M3U8 Playlists 🎬](https://dev.to/beder/m3unator-transform-any-open-directory-into-beautiful-m3um3u8-playlists-f55)
-- [Salesforce Developer Interview Questions: Answers and Explanations 2025](https://dev.to/niks_kirdak_47c783a80cbc7/salesforce-developer-interview-questions-answers-and-explanations-2025-2mga)
+- [Meme Tuesday](https://dev.to/ben/meme-tuesday-556)
+- [News Roundup: Cricket - April 01, 2025](https://dev.to/gaurav4288/news-roundup-cricket-april-01-2025-1k63)
+- [Day 12/250 - Full Stack Journey 🚀](https://dev.to/munin-1/day-12250-full-stack-journey-1e88)
+- [Test Article with Multiple Images](https://dev.to/gaurav4288/test-article-with-multiple-images-4647)
 <!-- BLOG-POST-LIST:END -->
 
