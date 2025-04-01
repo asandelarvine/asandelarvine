@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Flask Deployment with GitHub Actions and Docker](https://dev.to/david_oyewole/automating-flask-deployment-with-github-actions-and-docker-4j1a)
-- [JavaScript Functions Tutorial: Writing Clean and Reusable Code](https://dev.to/tpointech/javascript-functions-tutorial-writing-clean-and-reusable-code-2ei6)
-- [5 Signs That Web Development Might Be the Perfect Career for You](https://dev.to/hamzasehouli/5-signs-that-web-development-might-be-the-perfect-career-for-you-2k40)
-- [Introduction to Laravel’s MVC architecture — A Complete Beginner’s Guide with Examples and Workflows](https://dev.to/hamzasehouli/introduction-to-laravels-mvc-architecture-a-complete-beginners-guide-with-examples-and-workflows-51jl)
+- [How i built a private client space with sitenear.](https://dev.to/hitesh_marbate_84bd5b247c/how-i-built-a-private-client-space-with-sitenear-15n3)
+- [How an Employee Monitoring System Can Improve Business Efficiency](https://dev.to/colinbrown262/how-an-employee-monitoring-system-can-improve-business-efficiency-14pm)
+- [How to Defend Against Bot Attacks with SafeLine WAF](https://dev.to/carrie_luo1/how-to-defend-against-bot-attacks-with-safeline-waf-2m3c)
+- [Custom Software vs. Off-the-Shelf Solutions: What’s Best for Your Business](https://dev.to/emily_johnson/custom-software-vs-off-the-shelf-solutions-whats-best-for-your-business-c4c)
 <!-- BLOG-POST-LIST:END -->
 
