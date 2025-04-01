@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Stress-Free Remote Workflow With Just 6 Tools](https://dev.to/akashyadav31/how-we-built-a-stress-free-remote-workflow-with-just-6-tools-3n6m)
-- [Hướng dẫn sử dụng Forem API bằng Postmannn](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmannn-10f3)
-- [Hướng dẫn sử dụng Forem API bằng Postmann](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmann-1jg9)
-- [Data Science Course: A Pathway to a Successful Career](https://dev.to/vishal_more_02990955c9358/data-science-course-a-pathway-to-a-successful-career-4m47)
+- [Here Are All Popular PDF to Word Converters and Its Pros Cons - Stop Searching](https://dev.to/derek-compdf/here-are-all-popular-pdf-to-word-converters-and-its-pros-cons-stop-searching-4pl9)
+- [Best practices for managing Terraform State files in AWS](https://dev.to/aklm10barca/best-practices-for-managing-terraform-state-files-in-aws-56m1)
+- [A step-by-step guide to creating an EC2 instance in AWS &lpar;using Ubuntu server as the image&rpar; to install nginx.](https://dev.to/nelson_akpa01/a-step-by-step-guide-to-creating-an-ec2-instance-in-aws-using-ubuntu-server-as-the-image-to-1994)
+- [Why Web3 Must Move Beyond Seed Phrases](https://dev.to/omniradhanexus/why-web3-must-move-beyond-seed-phrases-8o6)
 <!-- BLOG-POST-LIST:END -->
 
