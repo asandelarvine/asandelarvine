@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating with LoyVerse POS – A proper Guide](https://dev.to/gilbert_hathaway_a9c814a9/integrating-with-loyverse-pos-a-proper-guide-18ed)
-- [Effective Teaching Strategies for Students with Learning Disabilities by Mentors such as Tracy Rose &lpar;Washington HS&rpar;](https://dev.to/johnalmond02/effective-teaching-strategies-for-students-with-learning-disabilities-by-mentors-such-as-tracy-rose-3im)
-- [link-preview-card](https://dev.to/btopro/link-preview-card-3502)
-- [Your Data Is Already Out There—You Just Don’t Know It Yet](https://dev.to/donald1981/your-data-is-already-out-there-you-just-dont-know-it-yet-43o)
+- [Check out my new post guys](https://dev.to/jay818/check-out-my-new-post-guys-1125)
+- [[Boost]](https://dev.to/jay818/-4ldk)
+- [JS Basic concepts that some people miss](https://dev.to/jay818/js-basic-concepts-that-some-people-miss-3kgm)
+- [Mathematical Foundations for Machine Learning in JavaScript](https://dev.to/sajiram_a4704bc095/mathematical-foundations-for-machine-learning-in-javascript-h7o)
 <!-- BLOG-POST-LIST:END -->
 
