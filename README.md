@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences between DXP, PIM and Headless CMS](https://dev.to/flotiq/differences-between-dxp-pim-and-headless-cms-4gjp)
-- [How to Rank Your Business Website on Google in Nigeria: SEO Strategies That Work](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-rank-your-business-website-on-google-in-nigeria-seo-strategies-that-work-4999)
-- [Professional Programmer Proves Prolog Prolongs Productivity](https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9)
-- [Implementing Advanced Search Functionalities for Better User Experience](https://dev.to/vayuz_insights/implementing-advanced-search-functionalities-for-better-user-experience-2174)
+- [Microsoft announces a revolutionary keyboard designed for vibe coding!](https://dev.to/alvaromontoro/microsoft-announces-a-revolutionary-keyboard-designed-for-vibe-coding-12d0)
+- [10 Powerful Bash Tricks Every Beginner Should Know 💡📚](https://dev.to/ramkumar-m-n/10-powerful-bash-tricks-every-beginner-should-know-lh0)
+- [M3Unator: Transform Any Open Directory into Beautiful M3U/M3U8 Playlists 🎬](https://dev.to/beder/m3unator-transform-any-open-directory-into-beautiful-m3um3u8-playlists-f55)
+- [Salesforce Developer Interview Questions: Answers and Explanations 2025](https://dev.to/niks_kirdak_47c783a80cbc7/salesforce-developer-interview-questions-answers-and-explanations-2025-2mga)
 <!-- BLOG-POST-LIST:END -->
 
