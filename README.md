@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Managed to Take My Laravel Application to the Serverless World &lpar;And How I Almost Died Trying&rpar;](https://dev.to/hschimpf/how-i-managed-to-take-my-laravel-application-to-the-serverless-world-and-how-i-almost-died-trying-3mhd)
-- [TIL SHORTCUTS!](https://dev.to/00oo00/til-shortcuts-10l0)
-- [Leveraging Webinars and Virtual Events to Generate Leads in Cybersecurity Sales with Sales Professionals like John Almond](https://dev.to/johnalmond02/leveraging-webinars-and-virtual-events-to-generate-leads-in-cybersecurity-sales-with-sales-4oi)
-- [How to Be a Senior PHP Developer &lpar;Without Faking It&rpar;](https://dev.to/itxshakil/how-to-be-a-senior-php-developer-without-faking-it-3jg2)
+- [Tutorial 22: Using SF Symbols and Custom Icons in Your App](https://dev.to/cl0udleadanis/tutorial-22-using-sf-symbols-and-custom-icons-in-your-app-22cd)
+- [Você Não Vai Acreditar no Que a IA Está Fazendo com o Desenvolvimento de Software!](https://dev.to/elyelsons/voce-nao-vai-acreditar-no-que-a-ia-esta-fazendo-com-o-desenvolvimento-de-software-1kag)
+- [Discovering DNS: A Beginner’s Introduction to nslookup](https://dev.to/rijultp/discovering-dns-a-beginners-introduction-to-nslookup-2pop)
+- [Aula02 - Desafie o Sheldon e sua equipe!](https://dev.to/iurycn_/aula02-desafie-o-sheldon-e-sua-equipe-5gmp)
 <!-- BLOG-POST-LIST:END -->
 
