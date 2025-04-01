@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding NodeJS STREAMS : Reading the Data in chunks &lpar;Part I&rpar;](https://dev.to/indraphoton/understanding-nodejs-streams-reading-the-data-in-chunks-part-i-50l1)
-- [Why Every Developer Needs a PDF Converter in Their Toolkit?](https://dev.to/pdf_4me/why-every-developer-needs-a-pdf-converter-in-their-toolkit-5439)
-- [News Roundup: Technology in India - April 01, 2025](https://dev.to/gaurav4288/news-roundup-technology-in-india-april-01-2025-58nk)
-- [Vibe Coding With AI Agents -LOL](https://dev.to/charlene_/vibe-coding-with-ai-agents-lol-4bkd)
+- [Kiểm thử API với Postman nâng cao](https://dev.to/quc_nghunh_7a5e62fb2/kiem-thu-api-voi-postman-nang-cao-2lcl)
+- [Dumb DEV Is the Best Thing to Happen to Developers—And You Don&#39;t Even Get It](https://dev.to/best_codes/dumb-dev-is-the-best-thing-to-happen-to-developers-and-you-dont-even-get-it-16cn)
+- [Kiểm thử API với Postman nâng cao](https://dev.to/quc_nghunh_7a5e62fb2/kiem-thu-api-voi-postman-nang-cao-2go4)
+- [Static and Non Static Members](https://dev.to/haryniramesh_90cfe77bda94/static-and-non-static-members-209b)
 <!-- BLOG-POST-LIST:END -->
 
