@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Stop Wasting Time! Here’s Why You Should Start Using Astro.js for Frontend Development](https://dev.to/dct_technology/stop-wasting-time-heres-why-you-should-start-using-astrojs-for-frontend-development-alc)
-- [Revolutionizing Contract Management with AI: The Future of CLM](https://dev.to/khattak/revolutionizing-contract-management-with-ai-the-future-of-clm-4kk7)
-- [OAuth2.0 Auth Tokens: A Comprehensive Guide](https://dev.to/aditya999123/oauth20-auth-tokens-a-comprehensive-guide-4h81)
-- [Projeto troca de imagem AULA1 _Alura](https://dev.to/prjefferson_oliveira_a99f/projeto-troca-de-imagem-aula1-alura-3cp7)
+- [How We Built a Stress-Free Remote Workflow With Just 6 Tools](https://dev.to/akashyadav31/how-we-built-a-stress-free-remote-workflow-with-just-6-tools-3n6m)
+- [Hướng dẫn sử dụng Forem API bằng Postmannn](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmannn-10f3)
+- [Hướng dẫn sử dụng Forem API bằng Postmann](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmann-1jg9)
+- [Data Science Course: A Pathway to a Successful Career](https://dev.to/vishal_more_02990955c9358/data-science-course-a-pathway-to-a-successful-career-4m47)
 <!-- BLOG-POST-LIST:END -->
 
