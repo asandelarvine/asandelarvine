@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [check out my new landing page @ https://localhost:3000 and please send me feedback](https://dev.to/peter/check-out-my-new-landing-page-httpslocalhost3000-and-please-send-me-feedback-25dm)
-- [Dumb](https://dev.to/avanichols_dev/dumb-2jba)
-- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar;](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
-- [Just in! Supabase UI library](https://dev.to/iammtander/just-in-supabase-ui-library-4hfe)
+- [My Journey into Web Design](https://dev.to/jakeewelsang/my-journey-into-web-design-e5o)
+- [What Is the Difference Between Black Hat and White Hat Hackers?](https://dev.to/puratabla/what-is-the-difference-between-black-hat-and-white-hat-hackers-2n7d)
+- [Electronics for Beginners: Your First Step into Tech](https://dev.to/buono/electronics-for-beginners-your-first-step-into-tech-bef)
+- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗦𝗽𝗿𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗝𝗣𝗔 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀](https://dev.to/thiago_souza_1510/--200j)
 <!-- BLOG-POST-LIST:END -->
 
