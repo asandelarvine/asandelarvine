@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Premium or Budget? A Gamer’s Guide to Keycap Brands &lpar;with Hands-On Reviews&rpar;](https://dev.to/mysticcoder/premium-or-budget-a-gamers-guide-to-keycap-brands-with-hands-on-reviews-1hhp)
-- [Supercharge Power BI with AI: Unlock Hidden Insights Effortlessly!](https://dev.to/guru_prasad_a18c810449892/supercharge-power-bi-with-ai-unlock-hidden-insights-effortlessly-4fg8)
-- [Captcha &amp; reCaptcha For Django](https://dev.to/yokwejuste/captcha-recaptcha-for-django-1ndp)
-- [Snowflake Data Quality Alerts: Monitoring and Notifying on New Data Issues](https://dev.to/sagara/snowflake-data-quality-alerts-monitoring-and-notifying-on-new-data-issues-44h0)
+- [Updated Test Article - Member 1](https://dev.to/nht_huy_f471b1a36e97347a/test-article-via-api-member-1-5fgb)
+- [Few-Shot Prompting: The Middle Ground Between Effort and Accuracy](https://dev.to/sathish/few-shot-prompting-the-middle-ground-between-effort-and-accuracy-1dm9)
+- [Disaster Recovery on AWS - Part 1: Multi-Site Active/Active &lpar;EC2, ECS, Fargate&rpar;](https://dev.to/marunkumar1983/disaster-recovery-on-aws-part-1-multi-site-activeactive-ec2-ecs-fargate-2on3)
+- [Updated Test Article - Member 1](https://dev.to/nht_huy_f471b1a36e97347a/test-article-via-api-member-1-1p4o)
 <!-- BLOG-POST-LIST:END -->
 
