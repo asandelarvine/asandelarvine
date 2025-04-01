@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Web Design](https://dev.to/jakeewelsang/my-journey-into-web-design-e5o)
-- [What Is the Difference Between Black Hat and White Hat Hackers?](https://dev.to/puratabla/what-is-the-difference-between-black-hat-and-white-hat-hackers-2n7d)
-- [Electronics for Beginners: Your First Step into Tech](https://dev.to/buono/electronics-for-beginners-your-first-step-into-tech-bef)
-- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗦𝗽𝗿𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗝𝗣𝗔 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀](https://dev.to/thiago_souza_1510/--200j)
+- [Understanding NodeJS STREAMS : Reading the Data in chunks &lpar;Part I&rpar;](https://dev.to/indraphoton/understanding-nodejs-streams-reading-the-data-in-chunks-part-i-50l1)
+- [Why Every Developer Needs a PDF Converter in Their Toolkit?](https://dev.to/pdf_4me/why-every-developer-needs-a-pdf-converter-in-their-toolkit-5439)
+- [News Roundup: Technology in India - April 01, 2025](https://dev.to/gaurav4288/news-roundup-technology-in-india-april-01-2025-58nk)
+- [Vibe Coding With AI Agents -LOL](https://dev.to/charlene_/vibe-coding-with-ai-agents-lol-4bkd)
 <!-- BLOG-POST-LIST:END -->
 
