@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How i built a private client space with sitenear.](https://dev.to/hitesh_marbate_84bd5b247c/how-i-built-a-private-client-space-with-sitenear-15n3)
-- [How an Employee Monitoring System Can Improve Business Efficiency](https://dev.to/colinbrown262/how-an-employee-monitoring-system-can-improve-business-efficiency-14pm)
-- [How to Defend Against Bot Attacks with SafeLine WAF](https://dev.to/carrie_luo1/how-to-defend-against-bot-attacks-with-safeline-waf-2m3c)
-- [Custom Software vs. Off-the-Shelf Solutions: What’s Best for Your Business](https://dev.to/emily_johnson/custom-software-vs-off-the-shelf-solutions-whats-best-for-your-business-c4c)
+- [Differences between DXP, PIM and Headless CMS](https://dev.to/flotiq/differences-between-dxp-pim-and-headless-cms-4gjp)
+- [How to Rank Your Business Website on Google in Nigeria: SEO Strategies That Work](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-rank-your-business-website-on-google-in-nigeria-seo-strategies-that-work-4999)
+- [Professional Programmer Proves Prolog Prolongs Productivity](https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9)
+- [Implementing Advanced Search Functionalities for Better User Experience](https://dev.to/vayuz_insights/implementing-advanced-search-functionalities-for-better-user-experience-2174)
 <!-- BLOG-POST-LIST:END -->
 
