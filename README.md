@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial 22: Using SF Symbols and Custom Icons in Your App](https://dev.to/cl0udleadanis/tutorial-22-using-sf-symbols-and-custom-icons-in-your-app-22cd)
-- [Você Não Vai Acreditar no Que a IA Está Fazendo com o Desenvolvimento de Software!](https://dev.to/elyelsons/voce-nao-vai-acreditar-no-que-a-ia-esta-fazendo-com-o-desenvolvimento-de-software-1kag)
-- [Discovering DNS: A Beginner’s Introduction to nslookup](https://dev.to/rijultp/discovering-dns-a-beginners-introduction-to-nslookup-2pop)
-- [Aula02 - Desafie o Sheldon e sua equipe!](https://dev.to/iurycn_/aula02-desafie-o-sheldon-e-sua-equipe-5gmp)
+- [Integrating with LoyVerse POS – A proper Guide](https://dev.to/gilbert_hathaway_a9c814a9/integrating-with-loyverse-pos-a-proper-guide-18ed)
+- [Effective Teaching Strategies for Students with Learning Disabilities by Mentors such as Tracy Rose &lpar;Washington HS&rpar;](https://dev.to/johnalmond02/effective-teaching-strategies-for-students-with-learning-disabilities-by-mentors-such-as-tracy-rose-3im)
+- [link-preview-card](https://dev.to/btopro/link-preview-card-3502)
+- [Your Data Is Already Out There—You Just Don’t Know It Yet](https://dev.to/donald1981/your-data-is-already-out-there-you-just-dont-know-it-yet-43o)
 <!-- BLOG-POST-LIST:END -->
 
