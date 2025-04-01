@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Here Are All Popular PDF to Word Converters and Its Pros Cons - Stop Searching](https://dev.to/derek-compdf/here-are-all-popular-pdf-to-word-converters-and-its-pros-cons-stop-searching-4pl9)
-- [Best practices for managing Terraform State files in AWS](https://dev.to/aklm10barca/best-practices-for-managing-terraform-state-files-in-aws-56m1)
-- [A step-by-step guide to creating an EC2 instance in AWS &lpar;using Ubuntu server as the image&rpar; to install nginx.](https://dev.to/nelson_akpa01/a-step-by-step-guide-to-creating-an-ec2-instance-in-aws-using-ubuntu-server-as-the-image-to-1994)
-- [Why Web3 Must Move Beyond Seed Phrases](https://dev.to/omniradhanexus/why-web3-must-move-beyond-seed-phrases-8o6)
+- [6 Powerful Python Techniques for Processing Message Queues](https://dev.to/aaravjoshi/6-powerful-python-techniques-for-processing-message-queues-5gep)
+- [Bug of the week #6](https://dev.to/pikotutorial/bug-of-the-week-6-4lg2)
+- [News Roundup: Hp - April 01, 2025](https://dev.to/gaurav4288/news-roundup-hp-april-01-2025-3eo8)
+- [Jest vs Mocha: The Best JavaScript Testing Framework for Unit Testing](https://dev.to/ronika_kashyap/jest-vs-mocha-the-best-javascript-testing-framework-for-unit-testing-5d2)
 <!-- BLOG-POST-LIST:END -->
 
