@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiểm thử API với Postman nâng cao](https://dev.to/quc_nghunh_7a5e62fb2/kiem-thu-api-voi-postman-nang-cao-2lcl)
-- [Dumb DEV Is the Best Thing to Happen to Developers—And You Don&#39;t Even Get It](https://dev.to/best_codes/dumb-dev-is-the-best-thing-to-happen-to-developers-and-you-dont-even-get-it-16cn)
-- [Kiểm thử API với Postman nâng cao](https://dev.to/quc_nghunh_7a5e62fb2/kiem-thu-api-voi-postman-nang-cao-2go4)
-- [Static and Non Static Members](https://dev.to/haryniramesh_90cfe77bda94/static-and-non-static-members-209b)
+- [How I Managed to Take My Laravel Application to the Serverless World &lpar;And How I Almost Died Trying&rpar;](https://dev.to/hschimpf/how-i-managed-to-take-my-laravel-application-to-the-serverless-world-and-how-i-almost-died-trying-3mhd)
+- [TIL SHORTCUTS!](https://dev.to/00oo00/til-shortcuts-10l0)
+- [Leveraging Webinars and Virtual Events to Generate Leads in Cybersecurity Sales with Sales Professionals like John Almond](https://dev.to/johnalmond02/leveraging-webinars-and-virtual-events-to-generate-leads-in-cybersecurity-sales-with-sales-4oi)
+- [How to Be a Senior PHP Developer &lpar;Without Faking It&rpar;](https://dev.to/itxshakil/how-to-be-a-senior-php-developer-without-faking-it-3jg2)
 <!-- BLOG-POST-LIST:END -->
 
