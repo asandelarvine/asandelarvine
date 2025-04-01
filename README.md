@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated Test Article - Member 1](https://dev.to/nht_huy_f471b1a36e97347a/test-article-via-api-member-1-5fgb)
-- [Few-Shot Prompting: The Middle Ground Between Effort and Accuracy](https://dev.to/sathish/few-shot-prompting-the-middle-ground-between-effort-and-accuracy-1dm9)
-- [Disaster Recovery on AWS - Part 1: Multi-Site Active/Active &lpar;EC2, ECS, Fargate&rpar;](https://dev.to/marunkumar1983/disaster-recovery-on-aws-part-1-multi-site-activeactive-ec2-ecs-fargate-2on3)
-- [Updated Test Article - Member 1](https://dev.to/nht_huy_f471b1a36e97347a/test-article-via-api-member-1-1p4o)
+- [🚀 Stop Wasting Time! Here’s Why You Should Start Using Astro.js for Frontend Development](https://dev.to/dct_technology/stop-wasting-time-heres-why-you-should-start-using-astrojs-for-frontend-development-alc)
+- [Revolutionizing Contract Management with AI: The Future of CLM](https://dev.to/khattak/revolutionizing-contract-management-with-ai-the-future-of-clm-4kk7)
+- [OAuth2.0 Auth Tokens: A Comprehensive Guide](https://dev.to/aditya999123/oauth20-auth-tokens-a-comprehensive-guide-4h81)
+- [Projeto troca de imagem AULA1 _Alura](https://dev.to/prjefferson_oliveira_a99f/projeto-troca-de-imagem-aula1-alura-3cp7)
 <!-- BLOG-POST-LIST:END -->
 
