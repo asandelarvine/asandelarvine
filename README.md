@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres Language Server: Initial Release](https://dev.to/supabase/postgres-language-server-initial-release-2j09)
-- [Como Criar uma Animação do Sistema Solar com C++ e Raylib](https://dev.to/marcosplusplus/como-criar-uma-animacao-do-sistema-solar-com-c-e-raylib-414p)
-- [Start Web Development the Easy Way](https://dev.to/masatech/start-web-development-the-easy-way-5309)
-- [Autenticação e Autorização](https://dev.to/reishenrique/autenticacao-e-autorizacao-1nkl)
+- [Upskilling In Tech &lpar;The 1 Hour Rule&rpar;](https://dev.to/ikemcodedit/upskilling-in-tech-the-1-hour-rule-5099)
+- [Aula02 do Juan Krupechacke](https://dev.to/juan_krupechacke_f0c6537e/aula02-do-juan-krupechacke-4a48)
+- [Beyond the Hype: A Practical Guide to Cloud and Datacenter Decisions](https://dev.to/ravishan16/beyond-the-hype-a-practical-guide-to-cloud-and-datacenter-decisions-39da)
+- [My Software Development Process](https://dev.to/ikemcodedit/my-software-development-process-2i64)
 <!-- BLOG-POST-LIST:END -->
 
