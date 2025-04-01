@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform for DevOps: Mastering Modules for Scalable Infrastructure &lpar;Part 5&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-mastering-modules-for-scalable-infrastructure-part-5-4llp)
-- [What if React never needed JavaScript? Introducing NO JS 🧠](https://dev.to/structax/what-if-react-never-needed-javascript-introducing-no-js-29gp)
-- [Apache Pyspark](https://dev.to/madgan95/apache-pyspark-272g)
-- [CDN vs. HCDN: The Ultimate Showdown &lpar;Plus CMS &amp; Hosting Secrets!&rpar;](https://dev.to/seosiri/cdn-vs-hcdn-the-ultimate-showdown-plus-cms-hosting-secrets-2kag)
+- [Premium or Budget? A Gamer’s Guide to Keycap Brands &lpar;with Hands-On Reviews&rpar;](https://dev.to/mysticcoder/premium-or-budget-a-gamers-guide-to-keycap-brands-with-hands-on-reviews-1hhp)
+- [Supercharge Power BI with AI: Unlock Hidden Insights Effortlessly!](https://dev.to/guru_prasad_a18c810449892/supercharge-power-bi-with-ai-unlock-hidden-insights-effortlessly-4fg8)
+- [Captcha &amp; reCaptcha For Django](https://dev.to/yokwejuste/captcha-recaptcha-for-django-1ndp)
+- [Snowflake Data Quality Alerts: Monitoring and Notifying on New Data Issues](https://dev.to/sagara/snowflake-data-quality-alerts-monitoring-and-notifying-on-new-data-issues-44h0)
 <!-- BLOG-POST-LIST:END -->
 
