@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Ambient Transactions: What They Are and Why They Matter](https://dev.to/eveissim/c-ambient-transactions-what-they-are-and-why-they-matter-5c9k)
-- [Desacoplando Leituras e Escritas: Uma Introdução à Separação de Responsabilidade entre Comandos e Consultas &lpar;CQRS&rpar;](https://dev.to/actor-dev/decoupling-reads-and-writes-an-introduction-to-command-query-responsibility-segregation-cqrs-1opn)
-- [Day 1130 : Doing Okay](https://dev.to/dwane/day-1130-doing-okay-57kj)
-- [Layer by Layer: The OSI Model Layers 5-7](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layers-5-7-1gnn)
+- [Terraform for DevOps: Mastering Modules for Scalable Infrastructure &lpar;Part 5&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-mastering-modules-for-scalable-infrastructure-part-5-4llp)
+- [What if React never needed JavaScript? Introducing NO JS 🧠](https://dev.to/structax/what-if-react-never-needed-javascript-introducing-no-js-29gp)
+- [Apache Pyspark](https://dev.to/madgan95/apache-pyspark-272g)
+- [CDN vs. HCDN: The Ultimate Showdown &lpar;Plus CMS &amp; Hosting Secrets!&rpar;](https://dev.to/seosiri/cdn-vs-hcdn-the-ultimate-showdown-plus-cms-hosting-secrets-2kag)
 <!-- BLOG-POST-LIST:END -->
 
