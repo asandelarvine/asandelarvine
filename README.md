@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/uliyahoo/-7fb)
-- [Testing Minimal Web APIs with ASP.NET: A Developer&#39;s Guide 🚀](https://dev.to/dorinandreidragan/testing-minimal-web-apis-with-aspnet-a-developers-guide-1gio)
-- [day-12: A Comprehensive Guide to Java Objects, Data Types, and Variable Initialization](https://dev.to/e00049/day-12-a-comprehensive-guide-to-java-objects-data-types-and-variable-initialization-56db)
-- [Understanding the .github](https://dev.to/oleonardorodrigues/understanding-the-github-213b)
+- [How to Optimize a Slow Query](https://dev.to/codewithved/how-to-optimize-a-slow-query-cj4)
+- [I WANT TALK ABOUT LINUX SYSTEM ADMINISTRATION,INTRODUCTION TO LINUX AND SOME COMMAND LINES.](https://dev.to/sirvicky1/i-want-talk-about-linux-system-administrationintroduction-to-linux-and-some-command-lines-3ick)
+- [Consolidado](https://dev.to/david_bermenvliz/consolidado-2ec4)
+- [📱 Generate and Extract APKs from AAB Using BundleTool](https://dev.to/amitkumar13/generate-and-extract-apks-from-aab-using-bundletool-2jp9)
 <!-- BLOG-POST-LIST:END -->
 
