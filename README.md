@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Testers&#39; Needs Are Critical for Software Success](https://dev.to/grjoeay/why-testers-needs-are-critical-for-software-success-1ijn)
 - [Understanding concepts in Event Driven Architectures &lpar;EDA&rpar;](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj)
+- [How to create dynamic GitHub Actions based on the contents of a repository](https://dev.to/diploi/how-to-create-dynamic-github-actions-based-on-the-contents-of-a-repository-50j8)
 - [What Is MCP &lpar;Model Context Protocol&rpar;?](https://dev.to/carrie_luo1/what-is-mcp-model-context-protocol-5dlc)
-- [How to create a decentralized AI agent with Gaianet.](https://dev.to/tobysolutions/how-to-create-a-decentralized-ai-agent-with-gaianet-1mk)
-- [Apple Magic Keyboard &lpar;USB-C&rpar; function keys not working](https://dev.to/peter/apple-magic-keyboard-usb-c-function-keys-not-working-3kag)
 <!-- BLOG-POST-LIST:END -->
 
