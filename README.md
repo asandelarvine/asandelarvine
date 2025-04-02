@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Super Slim Containerized Lambdas on AWS - Revisited](https://dev.to/aws-builders/building-super-slim-containerized-lambdas-on-aws-revisited-8m7)
-- [3º Projeto da Imersão Alura - Soldado](https://dev.to/juniordamazeno/3o-projeto-da-imersao-alura-soldado-4ei7)
-- [Introduction to React: Understanding the Basics-part.8](https://dev.to/nedajahanfar/introduction-to-react-understanding-the-basics-part8-5hie)
-- [Self-hosting n8n on Ubuntu Server](https://dev.to/code42cate/self-hosting-n8n-on-ubuntu-server-2p7h)
+- [Easily create products from admin panel and display in website using Laravel app](https://dev.to/oitoit/easily-create-products-from-admin-panel-and-display-in-website-using-laravel-app-n2p)
+- [Aula03-Arquivo0](https://dev.to/luis_paulonunes_a060c904/aula03-arquivo0-2l70)
+- [Pattern CQRS &lpar;Command Query Responsibility Segregation&rpar; kết hợp Event Sourcing &lpar;Phần 1&rpar;](https://dev.to/thunganpham/pattern-cqrs-command-query-responsibility-segregation-ket-hop-event-sourcing-phan-1-kjk)
+- [Top Node.js Libraries and Packages for Backend Dev in 2025](https://dev.to/probir-sarkar/top-nodejs-libraries-and-packages-for-backend-dev-in-2025-2761)
 <!-- BLOG-POST-LIST:END -->
 
