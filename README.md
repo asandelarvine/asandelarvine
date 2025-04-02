@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Llama 3.2 Locally with Ollama and Open WebUI: A Complete Guide](https://dev.to/raviagheda/setting-up-llama-32-locally-with-ollama-and-open-webui-a-complete-guide-3lcj)
+- [New mega update for my GameBoy style portfolio](https://dev.to/matteosant_dev/new-mega-update-for-my-gameboy-style-portfolio-kip)
 - [Learn How to Auto-Deploy a MongoDB Atlas Cluster with Terraform](https://dev.to/saint_vandora/learn-how-to-auto-deploy-a-mongodb-atlas-cluster-with-terraform-28m1)
 - [Upgrading sahansera.dev to Gatsby 5](https://dev.to/sahan/upgrading-sahanseradev-to-gatsby-5-3p99)
-- [How to Build a Internal Data App with Google Sheets Backend Using Streamlit](https://dev.to/morph-data/how-to-build-a-internal-data-app-with-google-sheets-backend-using-streamlit-27d8)
-- [HandCount: Real-Time Finger Counting with MediaPipe and OpenCV](https://dev.to/sripadh_sujith_1487e8db18/handcount-real-time-finger-counting-with-mediapipe-and-opencv-5c0h)
 <!-- BLOG-POST-LIST:END -->
 
