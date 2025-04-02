@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what is arguments in python](https://dev.to/maddy_mathan/what-is-arguments-in-python-4bn6)
-- [Bodyoids: Medical Marvel or Ethical Minefield?](https://dev.to/justin_downes/bodyoids-medical-marvel-or-ethical-minefield-4fgf)
-- [My Journey as a Flutter Developer: From Commerce to Code](https://dev.to/patelpatel007/my-journey-as-a-flutter-developer-from-commerce-to-code-1lie)
-- [Agendador enc](https://dev.to/david_bermenvliz/agendador-enc-2gkc)
+- [Realtime: Broadcast from Database](https://dev.to/supabase/realtime-broadcast-from-database-17k4)
+- [Regex in Action: Tuning Fail2ban with Ansible](https://dev.to/evertontenorio/regex-in-action-tuning-fail2ban-with-ansible-3n2a)
+- [Mastering System Design: The 25 Key Concepts You Must Learn](https://dev.to/msnmongare/mastering-system-design-the-25-key-concepts-you-must-learn-1plj)
+- [Beginner&#39;s Guide To Try And Catch In Java](https://dev.to/zerotomastery/beginners-guide-to-try-and-catch-in-java-4oc2)
 <!-- BLOG-POST-LIST:END -->
 
