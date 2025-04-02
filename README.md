@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Upskilling In Tech &lpar;The 1 Hour Rule&rpar;](https://dev.to/ikemcodedit/upskilling-in-tech-the-1-hour-rule-5099)
-- [Aula02 do Juan Krupechacke](https://dev.to/juan_krupechacke_f0c6537e/aula02-do-juan-krupechacke-4a48)
-- [Beyond the Hype: A Practical Guide to Cloud and Datacenter Decisions](https://dev.to/ravishan16/beyond-the-hype-a-practical-guide-to-cloud-and-datacenter-decisions-39da)
-- [My Software Development Process](https://dev.to/ikemcodedit/my-software-development-process-2i64)
+- [2873. Maximum Value of an Ordered Triplet I](https://dev.to/mdarifulhaque/2873-maximum-value-of-an-ordered-triplet-i-3m9i)
+- [Make the Todo App Anyway](https://dev.to/adnjoo/make-the-todo-app-anyway-3cjp)
+- [Calculating Days Between Dates with Python: A Simple Guide](https://dev.to/bytecrafter/calculating-days-between-dates-with-python-a-simple-guide-3me2)
+- [The Ultimate Guide to Web Application Observability](https://dev.to/andre_escobar/the-ultimate-guide-to-web-application-observability-2ebc)
 <!-- BLOG-POST-LIST:END -->
 
