@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 02 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-april-317m)
-- [10M IoT Data Points Daily at 50% Lower Storage Costs Using PostgreSQL](https://dev.to/timescale/10m-iot-data-points-daily-at-50-lower-storage-costs-using-postgresql-m9d)
-- [Why Testers&#39; Needs Are Critical for Software Success](https://dev.to/grjoeay/why-testers-needs-are-critical-for-software-success-1ijn)
-- [Understanding concepts in Event Driven Architectures &lpar;EDA&rpar;](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj)
+- [Building Super Slim Containerized Lambdas on AWS - Revisited](https://dev.to/aws-builders/building-super-slim-containerized-lambdas-on-aws-revisited-8m7)
+- [3º Projeto da Imersão Alura - Soldado](https://dev.to/juniordamazeno/3o-projeto-da-imersao-alura-soldado-4ei7)
+- [Introduction to React: Understanding the Basics-part.8](https://dev.to/nedajahanfar/introduction-to-react-understanding-the-basics-part8-5hie)
+- [Self-hosting n8n on Ubuntu Server](https://dev.to/code42cate/self-hosting-n8n-on-ubuntu-server-2p7h)
 <!-- BLOG-POST-LIST:END -->
 
