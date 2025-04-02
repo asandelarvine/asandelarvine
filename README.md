@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating GitHub Code Reviews with AI agent](https://dev.to/arkad23/automating-github-code-reviews-with-ai-agent-114p)
-- [A Beginner’s Trial of MCP Server: SafeLine MCP](https://dev.to/carrie_luo1/a-beginners-trial-of-mcp-server-safeline-mcp-38bb)
-- [Efficient Video Processing in Rust: Leveraging Hardware Acceleration for High-Resolution Content](https://dev.to/yeauty/efficient-video-processing-in-rust-leveraging-hardware-acceleration-for-high-resolution-content-53fe)
-- [Why Companies Are Looking for PMO-Certified Professionals in 2025](https://dev.to/mansi_patil_ba50a09f10264/why-companies-are-looking-for-pmo-certified-professionals-in-2025-2c5e)
+- [Learn How to Auto-Deploy a MongoDB Atlas Cluster with Terraform](https://dev.to/saint_vandora/learn-how-to-auto-deploy-a-mongodb-atlas-cluster-with-terraform-28m1)
+- [Upgrading sahansera.dev to Gatsby 5](https://dev.to/sahan/upgrading-sahanseradev-to-gatsby-5-3p99)
+- [How to Build a Internal Data App with Google Sheets Backend Using Streamlit](https://dev.to/morph-data/how-to-build-a-internal-data-app-with-google-sheets-backend-using-streamlit-27d8)
+- [HandCount: Real-Time Finger Counting with MediaPipe and OpenCV](https://dev.to/sripadh_sujith_1487e8db18/handcount-real-time-finger-counting-with-mediapipe-and-opencv-5c0h)
 <!-- BLOG-POST-LIST:END -->
 
