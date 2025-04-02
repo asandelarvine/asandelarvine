@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily create products from admin panel and display in website using Laravel app](https://dev.to/oitoit/easily-create-products-from-admin-panel-and-display-in-website-using-laravel-app-n2p)
-- [Aula03-Arquivo0](https://dev.to/luis_paulonunes_a060c904/aula03-arquivo0-2l70)
-- [Pattern CQRS &lpar;Command Query Responsibility Segregation&rpar; kết hợp Event Sourcing &lpar;Phần 1&rpar;](https://dev.to/thunganpham/pattern-cqrs-command-query-responsibility-segregation-ket-hop-event-sourcing-phan-1-kjk)
-- [Top Node.js Libraries and Packages for Backend Dev in 2025](https://dev.to/probir-sarkar/top-nodejs-libraries-and-packages-for-backend-dev-in-2025-2761)
+- [Understanding Strings, Object Memory, Static vs. Non-Static, and &#39;this&#39; Keyword in Java Day 7 ...](https://dev.to/vigneshwaralingam/understanding-strings-object-memory-static-vs-non-static-and-this-keyword-in-java-day-7--27l8)
+- [&quot;Revolutionizing 4D Reconstruction: Discover the Power of Easi3R!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-4d-reconstruction-discover-the-power-of-easi3r-47e8)
+- [#33 Stripe Integration Guide for Next.js 15 with Supabase](https://dev.to/flnzba/33-stripe-integration-guide-for-nextjs-15-with-supabase-13b5)
+- [Let’s Build Something for Nature and Humanity – Join the GreenPulse Community!](https://dev.to/mahmud-r-farhan/lets-build-something-for-nature-and-humanity-join-the-greenpulse-community-4i0d)
 <!-- BLOG-POST-LIST:END -->
 
