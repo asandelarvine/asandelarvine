@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize a Slow Query](https://dev.to/codewithved/how-to-optimize-a-slow-query-cj4)
-- [I WANT TALK ABOUT LINUX SYSTEM ADMINISTRATION,INTRODUCTION TO LINUX AND SOME COMMAND LINES.](https://dev.to/sirvicky1/i-want-talk-about-linux-system-administrationintroduction-to-linux-and-some-command-lines-3ick)
-- [Consolidado](https://dev.to/david_bermenvliz/consolidado-2ec4)
-- [📱 Generate and Extract APKs from AAB Using BundleTool](https://dev.to/amitkumar13/generate-and-extract-apks-from-aab-using-bundletool-2jp9)
+- [Adding Field Attributes to multiple fields at once in Odoo](https://dev.to/trishan_fernando/adding-field-attributes-to-multiple-fields-at-once-in-odoo-h0l)
+- [IA filha e filhos da Nona](https://dev.to/adevilsonx/ia-filha-e-filhos-da-nona-2p9i)
+- [How to Write Maintainable Code: A Developer’s Guide to Future-Proofing Your Work](https://dev.to/imparaag/how-to-write-maintainable-code-a-developers-guide-to-future-proofing-your-work-2jc8)
+- [Probando Model Context Protocol &lpar;MCP&rpar; con Claude y una API real](https://dev.to/ronniemh/probando-model-context-protocol-mcp-con-claude-y-una-api-real-3a0d)
 <!-- BLOG-POST-LIST:END -->
 
