@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transpose of Matrix | GeeksforGeeks‬ Beginner&#39;s DSA Sheet | Full Solution Explained | With Source Code](https://dev.to/debeshpg90/transpose-of-matrix-geeksforgeeks-beginners-dsa-sheet-full-solution-explained-with-source-1n7a)
-- [Performance Guide Pt. 3: Setting Up and Testing RAID](https://dev.to/pltnvs/performance-guide-pt-3-setting-up-and-testing-raid-38df)
-- [Microsoft Is the Best &lpar;But Slow&rpar;, IBM Beats Most of OpenAI: What I Found Testing 50+ LLMs](https://dev.to/nikl/microsoft-is-the-best-but-slow-ibm-beats-most-of-openai-what-i-found-testing-50-llms-l3h)
-- [Why Do Devs Spend a Sprint on 20% of the features?](https://dev.to/flyee/why-do-devs-spend-a-sprint-on-20-of-the-features-2dai)
+- [Automating GitHub Code Reviews with AI agent](https://dev.to/arkad23/automating-github-code-reviews-with-ai-agent-114p)
+- [A Beginner’s Trial of MCP Server: SafeLine MCP](https://dev.to/carrie_luo1/a-beginners-trial-of-mcp-server-safeline-mcp-38bb)
+- [Efficient Video Processing in Rust: Leveraging Hardware Acceleration for High-Resolution Content](https://dev.to/yeauty/efficient-video-processing-in-rust-leveraging-hardware-acceleration-for-high-resolution-content-53fe)
+- [Why Companies Are Looking for PMO-Certified Professionals in 2025](https://dev.to/mansi_patil_ba50a09f10264/why-companies-are-looking-for-pmo-certified-professionals-in-2025-2c5e)
 <!-- BLOG-POST-LIST:END -->
 
