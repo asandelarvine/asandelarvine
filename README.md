@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Field Attributes to multiple fields at once in Odoo](https://dev.to/trishan_fernando/adding-field-attributes-to-multiple-fields-at-once-in-odoo-h0l)
-- [IA filha e filhos da Nona](https://dev.to/adevilsonx/ia-filha-e-filhos-da-nona-2p9i)
-- [How to Write Maintainable Code: A Developer’s Guide to Future-Proofing Your Work](https://dev.to/imparaag/how-to-write-maintainable-code-a-developers-guide-to-future-proofing-your-work-2jc8)
-- [Probando Model Context Protocol &lpar;MCP&rpar; con Claude y una API real](https://dev.to/ronniemh/probando-model-context-protocol-mcp-con-claude-y-una-api-real-3a0d)
+- [Predicciones](https://dev.to/david_bermenvliz/predicciones-39nn)
+- [Using Model Context Protocol with Rig](https://dev.to/joshmo_dev/using-model-context-protocol-with-rig-m7o)
+- [Aula03 Imersão Dev. -Cristiane Oliveira * &lpar;Salto no Vidro&rpar;](https://dev.to/cristianeoliveira/aula03-imersao-dev-cristiane-oliveira-salto-no-vidro-3lnk)
+- [10 Cool CodePen Demos &lpar;March 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-2025-1beh)
 <!-- BLOG-POST-LIST:END -->
 
