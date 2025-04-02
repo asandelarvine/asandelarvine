@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Your Daily Crypto Job Digest For 02 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-april-317m)
+- [10M IoT Data Points Daily at 50% Lower Storage Costs Using PostgreSQL](https://dev.to/timescale/10m-iot-data-points-daily-at-50-lower-storage-costs-using-postgresql-m9d)
 - [Why Testers&#39; Needs Are Critical for Software Success](https://dev.to/grjoeay/why-testers-needs-are-critical-for-software-success-1ijn)
 - [Understanding concepts in Event Driven Architectures &lpar;EDA&rpar;](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj)
-- [How to create dynamic GitHub Actions based on the contents of a repository](https://dev.to/diploi/how-to-create-dynamic-github-actions-based-on-the-contents-of-a-repository-50j8)
-- [What Is MCP &lpar;Model Context Protocol&rpar;?](https://dev.to/carrie_luo1/what-is-mcp-model-context-protocol-5dlc)
 <!-- BLOG-POST-LIST:END -->
 
