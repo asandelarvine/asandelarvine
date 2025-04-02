@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Container monitoring trends in 2025](https://dev.to/swetha_suresh_18c9975c236/8-container-monitoring-trends-in-2025-3mkj)
-- [Looking to boost your productivity as a developer in 2025? Here’s a concise guide to the top tools that are transforming workflows and making coding faster, smarter, and more efficient](https://dev.to/pratham_naik_project_manager/looking-to-boost-your-productivity-as-a-developer-in-2025-heres-a-concise-guide-to-the-top-tools-1pj7)
-- [10 Developer Productivity Tools That Will Transform Your Workflow in 2025](https://dev.to/teamcamp/10-developer-productivity-tools-that-will-transform-your-workflow-in-2025-1g39)
-- [I Will Teach You SQL in 3 Minutes](https://dev.to/dehemi_fabio/i-will-teach-you-sql-in-3-minutes-3d1d)
+- [Transpose of Matrix | GeeksforGeeks‬ Beginner&#39;s DSA Sheet | Full Solution Explained | With Source Code](https://dev.to/debeshpg90/transpose-of-matrix-geeksforgeeks-beginners-dsa-sheet-full-solution-explained-with-source-1n7a)
+- [Performance Guide Pt. 3: Setting Up and Testing RAID](https://dev.to/pltnvs/performance-guide-pt-3-setting-up-and-testing-raid-38df)
+- [Microsoft Is the Best &lpar;But Slow&rpar;, IBM Beats Most of OpenAI: What I Found Testing 50+ LLMs](https://dev.to/nikl/microsoft-is-the-best-but-slow-ibm-beats-most-of-openai-what-i-found-testing-50-llms-l3h)
+- [Why Do Devs Spend a Sprint on 20% of the features?](https://dev.to/flyee/why-do-devs-spend-a-sprint-on-20-of-the-features-2dai)
 <!-- BLOG-POST-LIST:END -->
 
