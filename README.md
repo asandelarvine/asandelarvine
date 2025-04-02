@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Llama 3.2 Locally with Ollama and Open WebUI: A Complete Guide](https://dev.to/raviagheda/setting-up-llama-32-locally-with-ollama-and-open-webui-a-complete-guide-3lcj)
-- [New mega update for my GameBoy style portfolio](https://dev.to/matteosant_dev/new-mega-update-for-my-gameboy-style-portfolio-kip)
-- [Learn How to Auto-Deploy a MongoDB Atlas Cluster with Terraform](https://dev.to/saint_vandora/learn-how-to-auto-deploy-a-mongodb-atlas-cluster-with-terraform-28m1)
-- [Upgrading sahansera.dev to Gatsby 5](https://dev.to/sahan/upgrading-sahanseradev-to-gatsby-5-3p99)
+- [Let Cursor Talk to Your APIs in Minutes! The Magic Bridge You Never Knew You Needed](https://dev.to/apilover/let-cursor-talk-to-your-apis-in-minutes-the-magic-bridge-you-never-knew-you-needed-4751)
+- [Why PaaS Deployment Platforms are preferred by developers?](https://dev.to/kuberns_cloud/why-paas-deployment-platforms-are-preferred-by-developers-n1d)
+- [Should the Backend Be “Beautiful”?](https://dev.to/kaankaya/should-the-backend-be-beautiful-4a17)
+- [Getting started with Amazon Q Developer CLI](https://dev.to/aws/getting-started-with-amazon-q-developer-cli-4dkd)
 <!-- BLOG-POST-LIST:END -->
 
