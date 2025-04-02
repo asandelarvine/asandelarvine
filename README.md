@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Strings, Object Memory, Static vs. Non-Static, and &#39;this&#39; Keyword in Java Day 7 ...](https://dev.to/vigneshwaralingam/understanding-strings-object-memory-static-vs-non-static-and-this-keyword-in-java-day-7--27l8)
-- [&quot;Revolutionizing 4D Reconstruction: Discover the Power of Easi3R!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-4d-reconstruction-discover-the-power-of-easi3r-47e8)
-- [#33 Stripe Integration Guide for Next.js 15 with Supabase](https://dev.to/flnzba/33-stripe-integration-guide-for-nextjs-15-with-supabase-13b5)
-- [Let’s Build Something for Nature and Humanity – Join the GreenPulse Community!](https://dev.to/mahmud-r-farhan/lets-build-something-for-nature-and-humanity-join-the-greenpulse-community-4i0d)
+- [[Boost]](https://dev.to/uliyahoo/-7fb)
+- [Testing Minimal Web APIs with ASP.NET: A Developer&#39;s Guide 🚀](https://dev.to/dorinandreidragan/testing-minimal-web-apis-with-aspnet-a-developers-guide-1gio)
+- [day-12: A Comprehensive Guide to Java Objects, Data Types, and Variable Initialization](https://dev.to/e00049/day-12-a-comprehensive-guide-to-java-objects-data-types-and-variable-initialization-56db)
+- [Understanding the .github](https://dev.to/oleonardorodrigues/understanding-the-github-213b)
 <!-- BLOG-POST-LIST:END -->
 
