@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Predicciones](https://dev.to/david_bermenvliz/predicciones-39nn)
-- [Using Model Context Protocol with Rig](https://dev.to/joshmo_dev/using-model-context-protocol-with-rig-m7o)
-- [Aula03 Imersão Dev. -Cristiane Oliveira * &lpar;Salto no Vidro&rpar;](https://dev.to/cristianeoliveira/aula03-imersao-dev-cristiane-oliveira-salto-no-vidro-3lnk)
-- [10 Cool CodePen Demos &lpar;March 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-2025-1beh)
+- [what is arguments in python](https://dev.to/maddy_mathan/what-is-arguments-in-python-4bn6)
+- [Bodyoids: Medical Marvel or Ethical Minefield?](https://dev.to/justin_downes/bodyoids-medical-marvel-or-ethical-minefield-4fgf)
+- [My Journey as a Flutter Developer: From Commerce to Code](https://dev.to/patelpatel007/my-journey-as-a-flutter-developer-from-commerce-to-code-1lie)
+- [Agendador enc](https://dev.to/david_bermenvliz/agendador-enc-2gkc)
 <!-- BLOG-POST-LIST:END -->
 
