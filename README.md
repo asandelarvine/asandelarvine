@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Realtime: Broadcast from Database](https://dev.to/supabase/realtime-broadcast-from-database-17k4)
-- [Regex in Action: Tuning Fail2ban with Ansible](https://dev.to/evertontenorio/regex-in-action-tuning-fail2ban-with-ansible-3n2a)
-- [Mastering System Design: The 25 Key Concepts You Must Learn](https://dev.to/msnmongare/mastering-system-design-the-25-key-concepts-you-must-learn-1plj)
-- [Beginner&#39;s Guide To Try And Catch In Java](https://dev.to/zerotomastery/beginners-guide-to-try-and-catch-in-java-4oc2)
+- [JOKENPO ImersaoDEV Alura](https://dev.to/thimarques88/jokenpo-imersaodev-alura-27c)
+- [Why Every Developer Should Care About AI in Business](https://dev.to/bizriseadvisors/why-every-developer-should-care-about-ai-in-business-37ln)
+- [OCaml/Dune Tutorial](https://dev.to/david2am/ocamldune-tutorial-5688)
+- [Basic OCaml](https://dev.to/david2am/basic-ocaml-2j0g)
 <!-- BLOG-POST-LIST:END -->
 
