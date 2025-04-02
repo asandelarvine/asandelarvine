@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Container monitoring trends in 2025](https://dev.to/swetha_suresh_18c9975c236/8-container-monitoring-trends-in-2025-3mkj)
+- [Looking to boost your productivity as a developer in 2025? Here’s a concise guide to the top tools that are transforming workflows and making coding faster, smarter, and more efficient](https://dev.to/pratham_naik_project_manager/looking-to-boost-your-productivity-as-a-developer-in-2025-heres-a-concise-guide-to-the-top-tools-1pj7)
+- [10 Developer Productivity Tools That Will Transform Your Workflow in 2025](https://dev.to/teamcamp/10-developer-productivity-tools-that-will-transform-your-workflow-in-2025-1g39)
 - [I Will Teach You SQL in 3 Minutes](https://dev.to/dehemi_fabio/i-will-teach-you-sql-in-3-minutes-3d1d)
-- [Postgres 🐘 vs. SQL Server: a Complete Comparison ⚖️ in 2025](https://dev.to/bytebase/postgres-vs-sql-server-a-complete-comparison-in-2025-3emf)
-- [AULA1 _Arquivo 0](https://dev.to/naiara_santos_c09fdf6b932/aula1-arquivo-0-3c8p)
-- [Terraform for DevOps: Managing Infrastructure Across Multiple Environments &lpar;Part 6&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-infrastructure-across-multiple-environments-part-6-5g6o)
 <!-- BLOG-POST-LIST:END -->
 
