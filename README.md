@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NumPy: Python’s Numerical Powerhouse](https://dev.to/blackmare01/numpy-pythons-numerical-powerhouse-m7p)
-- [Mastering Objects, Methods, and Classes in JavaScript &lpar;With Help From AI&rpar;](https://dev.to/d-libro-digital-skills/mastering-objects-methods-and-classes-in-javascript-with-help-from-ai-2c04)
-- [Aula1_arquivo0](https://dev.to/danielec25/aula1arquivo0-253h)
-- [Appanomics: The Yen and Outs of Publishing on the App Store 💴📱](https://dev.to/cl0udleadanis/appanomics-the-yen-and-outs-of-publishing-on-the-app-store-3984)
+- [What is a transactional email? Everything you need to know](https://dev.to/k_vrbova/what-is-a-transactional-email-everything-you-need-to-know-42h2)
+- [How to Enforce Git Commit Conventions Using Cursor MCP: A Complete Guide](https://dev.to/gifflet/how-to-enforce-git-commit-conventions-using-cursor-mcp-a-complete-guide-3cfc)
+- [Make the most of technology.](https://dev.to/majtechnologies/make-the-most-of-technology-m8d)
+- [Clojure Is Awesome!!! [PART 19]](https://dev.to/borba/clojure-is-awesome-part-19-4133)
 <!-- BLOG-POST-LIST:END -->
 
