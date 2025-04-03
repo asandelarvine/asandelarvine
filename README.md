@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why Strings Are Immutable &lpar;And How to Fix Inefficient String Operations!&rpar;](https://dev.to/iamtayyab/why-strings-are-immutable-and-how-to-fix-inefficient-string-operations-4oi7)
-- [Pls Help](https://dev.to/t-beni/pls-help-30fl)
-- [# Getting Started with Cursor AI](https://dev.to/rifat87/-getting-started-with-cursor-ai-17a7)
-- [Doodles and the Indie Hacking Renaissance in the NFT Realm](https://dev.to/vitalisorenko/doodles-and-the-indie-hacking-renaissance-in-the-nft-realm-in)
+- [🚀 Introducing Laravel Cookie Consent – The Ultimate GDPR Compliance Solution for Laravel](https://dev.to/devrabiul/introducing-laravel-cookie-consent-the-ultimate-gdpr-compliance-solution-for-laravel-2kmf)
+- [The Render Props Pattern in React: A Flexible Approach to Component Reusability](https://dev.to/maximlogunov/the-render-props-pattern-in-react-a-flexible-approach-to-component-reusability-3imb)
+- [Getting Started with Azure for AWS Professionals: A Quick Guide](https://dev.to/rexben001/getting-started-with-azure-for-aws-professionals-a-quick-guide-25e8)
+- [🚀 Enhancing Your React Native Codebase: Best Practices &amp; Modern Tooling](https://dev.to/ersuman/enhancing-your-react-native-codebase-best-practices-modern-tooling-2h3e)
 <!-- BLOG-POST-LIST:END -->
 
