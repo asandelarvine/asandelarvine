@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Legacy Systems: Challenges &amp; Best Practices for Future-Proofing Your Business](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-hidden-cost-of-legacy-systems-challenges-best-practices-for-future-proofing-your-business-4l8o)
-- [List of Essential Terminal Commands for Windows Users &lpar;Command Prompt &amp; PowerShell&rpar;](https://dev.to/iam_prashanth_ks/list-of-essential-terminal-commands-for-windows-users-command-prompt-powershell-1cg3)
-- [How Verified Mark Certificate &lpar;VMC&rpar; Can Improve Your Email Open Rates](https://dev.to/judypage/how-verified-mark-certificate-vmc-can-improve-your-email-open-rates-5him)
-- [Write Better Error Messages in 3 Minutes](https://dev.to/arnaudhrt/write-better-error-messages-in-3-minutes-34n9)
+- [Blockchain for Business Certification and the Evolution of Transactions](https://dev.to/jackscory_bcfb7343b7082b0/blockchain-for-business-certification-and-the-evolution-of-transactions-450l)
+- [Verifying Cognito access tokens - Comparing three JWT packages for Lambda authorizers](https://dev.to/aws-builders/verifying-cognito-access-tokens-comparing-three-jwt-packages-for-lambda-authorizers-367b)
+- [Glass Beads vs. Ceramic Beads: A Comparative Guide to Sandblasting Effects and Applications in Machining](https://dev.to/js-henglihong/glass-beads-vs-ceramic-beads-a-comparative-guide-to-sandblasting-effects-and-applications-in-ne)
+- [7 Top API Documentation Software Tools 2025 &lpar;With Reviews and Pricing&rpar;✨](https://dev.to/fallon_jimmy/7-top-api-documentation-software-tools-2025-with-reviews-and-pricing-2k94)
 <!-- BLOG-POST-LIST:END -->
 
