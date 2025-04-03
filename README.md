@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Agile and What It&#39;s Definitely Not](https://dev.to/fortune-ndlovu/what-is-agile-and-what-its-definitely-not-45he)
-- [From Helm Chart to Developer UI in 5 Minutes](https://dev.to/cyclops-ui/from-helm-chart-to-developer-ui-in-5-minutes-5ff)
-- [Health Check for MySQL in a Docker Container](https://dev.to/samuelko123/health-check-for-mysql-in-a-docker-container-3m5a)
-- [Step-by-Step Guide to Fixing NDK source.properties File Missing Error in Flutter](https://dev.to/idrisadeyemi01/step-by-step-guide-to-fixing-ndk-sourceproperties-file-missing-error-in-flutter-3l2)
+- [How to create an effective application security Programme: Strategies, practices and tools for the best results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-programme-strategies-practices-and-tools-for-the-4gh2)
+- [The Role of Smart Technologies in Power Cable Engineering and Maintenance](https://dev.to/leadvent_172e38f89cc7ca98/the-role-of-smart-technologies-in-power-cable-engineering-and-maintenance-3068)
+- [Stock Management System](https://dev.to/shaikr786/stock-management-system-2ilh)
+- [Static](https://dev.to/sugumar_r_a5f301adf1fb49a/static-2k8o)
 <!-- BLOG-POST-LIST:END -->
 
