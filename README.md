@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2: Billing and Purchase Option](https://dev.to/shiv15/ec2-billing-and-purchase-option-2iop)
-- [My first real Project, made with AI](https://dev.to/lennydevx/my-first-real-project-made-with-ai-2043)
-- [Cloud Server vs Serverless Instance](https://dev.to/eagle_119/cloud-server-vs-serverless-instance-jm1)
-- [HarmonyOS for Android Devs: Environment Setup](https://dev.to/otako_q/harmonyos-for-android-devs-environment-setup-4hjp)
+- [Namrata Hinduja Explores How AI Models Enhance Online Shopping Recommendations with a Multi-Stage Coordination Approach](https://dev.to/namratahinduja/namrata-hinduja-explores-how-ai-models-enhance-online-shopping-recommendations-with-a-multi-stage-29d8)
+- [🎓 Building a Simple Grade Calculator with Tkinter](https://dev.to/blackmare01/building-a-simple-grade-calculator-with-tkinter-5gm0)
+- [TOP 12 Game-Changing MCP Libraries: Transform Your AI Development in 2025](https://dev.to/fallon_jimmy/top-12-game-changing-mcp-libraries-transform-your-ai-development-in-2025-iep)
+- [Unleash the power and flexibility of Laravel Facades](https://dev.to/hamzasehouli/unleash-the-power-and-flexibility-of-laravel-facades-1knh)
 <!-- BLOG-POST-LIST:END -->
 
