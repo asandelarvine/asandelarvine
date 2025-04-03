@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Browserless &lpar;Scrapeless scraping browser&rpar; can be the infrastructure of your AI Agent](https://dev.to/datacollectionscraper/why-browserless-scrapeless-scraping-browser-can-be-the-infrastructure-of-your-ai-agent-2747)
-- [How to Set Up Scrapeless MCP Server on Claude?](https://dev.to/scraper0024/how-to-set-up-scrapeless-mcp-server-on-claude-1o2g)
-- [How to Build an Effective Hiring Strategy: Balancing Lateral and Fresher Recruitment](https://dev.to/donsuk_consulting_09/how-to-build-an-effective-hiring-strategy-balancing-lateral-and-fresher-recruitment-43al)
-- [Innovative Chatbot Development: Shaping the Future of Customer Service](https://dev.to/anthony_simms/innovative-chatbot-development-shaping-the-future-of-customer-service-bi0)
+- [Modifying a Solana dApp to Support Sonic: &quot;SVM Greetings&quot;](https://dev.to/shivamsspirit/modifying-a-solana-dapp-to-support-sonic-svm-greetings-13jl)
+- [Understanding LLM Tools in LangChain with OpenAI](https://dev.to/es404020/understanding-llm-tools-in-langchain-with-openai-1mfj)
+- [How to Dispose of Styrofoam Packaging: Guide](https://dev.to/jowenkay/how-to-dispose-of-styrofoam-packaging-guide-2kih)
+- [DevOps Training in Bangalore: Step-by-Step Guide to Git Installation](https://dev.to/itz_amaze/devops-training-in-bangalore-step-by-step-guide-to-git-installation-2e77)
 <!-- BLOG-POST-LIST:END -->
 
