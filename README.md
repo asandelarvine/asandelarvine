@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer&#39;s Guide to Defining and Using Types in Vanilla JavaScript for Better IDE IntelliSense](https://dev.to/hijazi313/a-developers-guide-to-defining-and-using-types-in-vanilla-javascript-for-better-ide-intellisense-4en9)
-- [Getting Started With gRPC in Golang](https://dev.to/shrsv/getting-started-with-grpc-in-golang-f14)
-- [Day-3 Exploring Oracle, JavaScript](https://dev.to/vaishu_gajula_cb977a66e8a/day-3-exploring-oracle-javascript-2od7)
-- [11 ChatGPT Prompt Frameworks Every Marketer Should Know](https://dev.to/buttercms/11-chatgpt-prompt-frameworks-every-marketer-should-know-45co)
+- [🚀 Why Strings Are Immutable &lpar;And How to Fix Inefficient String Operations!&rpar;](https://dev.to/iamtayyab/why-strings-are-immutable-and-how-to-fix-inefficient-string-operations-4oi7)
+- [Pls Help](https://dev.to/t-beni/pls-help-30fl)
+- [# Getting Started with Cursor AI](https://dev.to/rifat87/-getting-started-with-cursor-ai-17a7)
+- [Doodles and the Indie Hacking Renaissance in the NFT Realm](https://dev.to/vitalisorenko/doodles-and-the-indie-hacking-renaissance-in-the-nft-realm-in)
 <!-- BLOG-POST-LIST:END -->
 
