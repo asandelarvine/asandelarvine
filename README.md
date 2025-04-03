@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JOKENPO ImersaoDEV Alura](https://dev.to/thimarques88/jokenpo-imersaodev-alura-27c)
-- [Why Every Developer Should Care About AI in Business](https://dev.to/bizriseadvisors/why-every-developer-should-care-about-ai-in-business-37ln)
-- [OCaml/Dune Tutorial](https://dev.to/david2am/ocamldune-tutorial-5688)
-- [Basic OCaml](https://dev.to/david2am/basic-ocaml-2j0g)
+- [How to Reload a Project in Visual Studio – Quick &amp; Easy Guide](https://dev.to/pexlkeys/how-to-reload-a-project-in-visual-studio-quick-easy-guide-6b9)
+- [Just Deployed My Text Encryption Decryption Tool](https://dev.to/sohillalakiya/just-deployed-my-text-encryption-decryption-tool-1h3e)
+- [反反爬浏览器自动化patchright](https://dev.to/dragon72463399/fan-fan-pa-liu-lan-qi-zi-dong-hua-patchright-4mla)
+- [2874. Maximum Value of an Ordered Triplet II](https://dev.to/mdarifulhaque/2874-maximum-value-of-an-ordered-triplet-ii-g3g)
 <!-- BLOG-POST-LIST:END -->
 
