@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a transactional email? Everything you need to know](https://dev.to/k_vrbova/what-is-a-transactional-email-everything-you-need-to-know-42h2)
-- [How to Enforce Git Commit Conventions Using Cursor MCP: A Complete Guide](https://dev.to/gifflet/how-to-enforce-git-commit-conventions-using-cursor-mcp-a-complete-guide-3cfc)
-- [Make the most of technology.](https://dev.to/majtechnologies/make-the-most-of-technology-m8d)
-- [Clojure Is Awesome!!! [PART 19]](https://dev.to/borba/clojure-is-awesome-part-19-4133)
+- [FantasIA fans](https://dev.to/david_bermenvliz/fantasia-fans-lp7)
+- [El inicio...](https://dev.to/resagar/el-inicio-41o2)
+- [Global QS World University Rankings API](https://dev.to/gugudata/global-qs-world-university-rankings-api-2glo)
+- [&lpar;Beyond&rpar; The Art of Database Indexing](https://dev.to/benedetto_proietti/beyond-the-art-of-database-indexing-5fd7)
 <!-- BLOG-POST-LIST:END -->
 
