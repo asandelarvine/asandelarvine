@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating a Self Signed ECC Certificate and Private Key and Validating the same](https://dev.to/hobbyistprogrammerar/generating-a-self-signed-ecc-certificate-and-private-key-and-validating-the-same-3mbf)
-- [Master JavaScript Arrays: Essential Methods &amp; Best Practices 🚀](https://dev.to/ebereplenty/master-javascript-arrays-essential-methods-best-practices-4fbc)
-- [Free Next.js Hosting Providers in 2025: Pros and Cons](https://dev.to/probir-sarkar/free-nextjs-hosting-providers-in-2025-pros-and-cons-3bap)
-- [More Than Just a PDF: Why Online Courses Certificates Are Your Secret Weapon in Today&#39;s Job Market](https://dev.to/skillboosttrainer/more-than-just-a-pdf-why-online-courses-certificates-are-your-secret-weapon-in-todays-job-market-50a7)
+- [A Developer&#39;s Guide to Defining and Using Types in Vanilla JavaScript for Better IDE IntelliSense](https://dev.to/hijazi313/a-developers-guide-to-defining-and-using-types-in-vanilla-javascript-for-better-ide-intellisense-4en9)
+- [Getting Started With gRPC in Golang](https://dev.to/shrsv/getting-started-with-grpc-in-golang-f14)
+- [Day-3 Exploring Oracle, JavaScript](https://dev.to/vaishu_gajula_cb977a66e8a/day-3-exploring-oracle-javascript-2od7)
+- [11 ChatGPT Prompt Frameworks Every Marketer Should Know](https://dev.to/buttercms/11-chatgpt-prompt-frameworks-every-marketer-should-know-45co)
 <!-- BLOG-POST-LIST:END -->
 
