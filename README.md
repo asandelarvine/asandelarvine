@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing LinguaSignAI: Real-Time American Sign Language Detection](https://dev.to/rohan_khan_c5830d05075a08/introducing-linguasignai-real-time-american-sign-language-detection-23f5)
-- [Getting Started with Angular Signals: A Beginner’s Guide Part 1](https://dev.to/galpodlipnik/getting-started-with-angular-signals-a-beginners-guide-part-1-2kg5)
-- [[Boost]](https://dev.to/elizabeth8012/-4bb7)
-- [Evaluating the Legitimacy of Drip Network: A Comprehensive Analysis](https://dev.to/ahmmrizv9/evaluating-the-legitimacy-of-drip-network-a-comprehensive-analysis-1h86)
+- [Aula0](https://dev.to/juan_krupechacke_f0c6537e/aula03-arquivo0-16f1)
+- [Aula03-Arquivo0](https://dev.to/claudineiclemente48/aula03-arquivo0-51ba)
+- [Cracking JavaScript: My Notes from LeetCode’s 30-Day Challenge](https://dev.to/mihalidis/cracking-javascript-my-notes-from-leetcodes-30-day-challenge-2opd)
+- [React&#39;s useEffect vs. useSWR: Exploring Data Fetching in React.](https://dev.to/emmanueloloke/reacts-useeffect-vs-useswr-exploring-data-fetching-in-react-2j60)
 <!-- BLOG-POST-LIST:END -->
 
