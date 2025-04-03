@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [another of my blog, check it out.](https://dev.to/jufianto/another-of-my-blog-check-it-out-13dl)
-- [NestJS, Next.js, Express.js, Nuxt.js, Deno: Framework or Runtime?](https://dev.to/artem_turlenko/nestjs-nextjs-expressjs-nuxtjs-deno-framework-or-runtime-4147)
-- [Taming the Concurrency Beast: A Guide to Go&#39;s Goroutines and Channels 🐹💪](https://dev.to/tavernetech/taming-the-concurrency-beast-a-guide-to-gos-goroutines-and-channels-1cj6)
-- [Mutation Testing in Rust](https://dev.to/nfrankel/mutation-testing-in-rust-3hpl)
+- [Why Browserless &lpar;Scrapeless scraping browser&rpar; can be the infrastructure of your AI Agent](https://dev.to/datacollectionscraper/why-browserless-scrapeless-scraping-browser-can-be-the-infrastructure-of-your-ai-agent-2747)
+- [How to Set Up Scrapeless MCP Server on Claude?](https://dev.to/scraper0024/how-to-set-up-scrapeless-mcp-server-on-claude-1o2g)
+- [How to Build an Effective Hiring Strategy: Balancing Lateral and Fresher Recruitment](https://dev.to/donsuk_consulting_09/how-to-build-an-effective-hiring-strategy-balancing-lateral-and-fresher-recruitment-43al)
+- [Innovative Chatbot Development: Shaping the Future of Customer Service](https://dev.to/anthony_simms/innovative-chatbot-development-shaping-the-future-of-customer-service-bi0)
 <!-- BLOG-POST-LIST:END -->
 
