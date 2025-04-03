@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aula0](https://dev.to/juan_krupechacke_f0c6537e/aula03-arquivo0-16f1)
-- [Aula03-Arquivo0](https://dev.to/claudineiclemente48/aula03-arquivo0-51ba)
-- [Cracking JavaScript: My Notes from LeetCode’s 30-Day Challenge](https://dev.to/mihalidis/cracking-javascript-my-notes-from-leetcodes-30-day-challenge-2opd)
-- [React&#39;s useEffect vs. useSWR: Exploring Data Fetching in React.](https://dev.to/emmanueloloke/reacts-useeffect-vs-useswr-exploring-data-fetching-in-react-2j60)
+- [AI-Powered Email Security: The Protection You Didn’t Know You Needed](https://dev.to/donald1981/ai-powered-email-security-the-protection-you-didnt-know-you-needed-5hcc)
+- [Untitled](https://dev.to/luis_manuel/untitled-5h4l)
+- [How to Build a Portfolio Website the Right Way](https://dev.to/devlawrence/how-to-build-a-portfolio-website-the-right-way-2n87)
+- [Untitled](https://dev.to/luis_manuel/untitled-11nh)
 <!-- BLOG-POST-LIST:END -->
 
