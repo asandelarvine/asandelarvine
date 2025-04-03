@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain for Business Certification and the Evolution of Transactions](https://dev.to/jackscory_bcfb7343b7082b0/blockchain-for-business-certification-and-the-evolution-of-transactions-450l)
-- [Verifying Cognito access tokens - Comparing three JWT packages for Lambda authorizers](https://dev.to/aws-builders/verifying-cognito-access-tokens-comparing-three-jwt-packages-for-lambda-authorizers-367b)
-- [Glass Beads vs. Ceramic Beads: A Comparative Guide to Sandblasting Effects and Applications in Machining](https://dev.to/js-henglihong/glass-beads-vs-ceramic-beads-a-comparative-guide-to-sandblasting-effects-and-applications-in-ne)
-- [7 Top API Documentation Software Tools 2025 &lpar;With Reviews and Pricing&rpar;✨](https://dev.to/fallon_jimmy/7-top-api-documentation-software-tools-2025-with-reviews-and-pricing-2k94)
+- [My Journey into Coding: How I Started with Python &lpar;And You Can Too!&rpar;](https://dev.to/oliviastarlingg/my-journey-into-coding-how-i-started-with-python-and-you-can-too-1ch8)
+- [Python reduce explained](https://dev.to/pikotutorial/python-reduce-explained-57pp)
+- [How to Plan Your First Indie App Launch](https://dev.to/alexcloudstar/how-to-plan-your-first-indie-app-launch-fcl)
+- [Understanding Authentication &amp; Authorization &lpar;JWT, OAuth2.0, Session&rpar; Concepts](https://dev.to/arcadebuilds/understanding-authentication-authorization-jwt-oauth20-session-concepts-390i)
 <!-- BLOG-POST-LIST:END -->
 
