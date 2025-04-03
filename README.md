@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Coding: How I Started with Python &lpar;And You Can Too!&rpar;](https://dev.to/oliviastarlingg/my-journey-into-coding-how-i-started-with-python-and-you-can-too-1ch8)
-- [Python reduce explained](https://dev.to/pikotutorial/python-reduce-explained-57pp)
-- [How to Plan Your First Indie App Launch](https://dev.to/alexcloudstar/how-to-plan-your-first-indie-app-launch-fcl)
-- [Understanding Authentication &amp; Authorization &lpar;JWT, OAuth2.0, Session&rpar; Concepts](https://dev.to/arcadebuilds/understanding-authentication-authorization-jwt-oauth20-session-concepts-390i)
+- [another of my blog, check it out.](https://dev.to/jufianto/another-of-my-blog-check-it-out-13dl)
+- [NestJS, Next.js, Express.js, Nuxt.js, Deno: Framework or Runtime?](https://dev.to/artem_turlenko/nestjs-nextjs-expressjs-nuxtjs-deno-framework-or-runtime-4147)
+- [Taming the Concurrency Beast: A Guide to Go&#39;s Goroutines and Channels 🐹💪](https://dev.to/tavernetech/taming-the-concurrency-beast-a-guide-to-gos-goroutines-and-channels-1cj6)
+- [Mutation Testing in Rust](https://dev.to/nfrankel/mutation-testing-in-rust-3hpl)
 <!-- BLOG-POST-LIST:END -->
 
