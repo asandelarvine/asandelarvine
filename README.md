@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modifying a Solana dApp to Support Sonic: &quot;SVM Greetings&quot;](https://dev.to/shivamsspirit/modifying-a-solana-dapp-to-support-sonic-svm-greetings-13jl)
-- [Understanding LLM Tools in LangChain with OpenAI](https://dev.to/es404020/understanding-llm-tools-in-langchain-with-openai-1mfj)
-- [How to Dispose of Styrofoam Packaging: Guide](https://dev.to/jowenkay/how-to-dispose-of-styrofoam-packaging-guide-2kih)
-- [DevOps Training in Bangalore: Step-by-Step Guide to Git Installation](https://dev.to/itz_amaze/devops-training-in-bangalore-step-by-step-guide-to-git-installation-2e77)
+- [What is Agile and What It&#39;s Definitely Not](https://dev.to/fortune-ndlovu/what-is-agile-and-what-its-definitely-not-45he)
+- [From Helm Chart to Developer UI in 5 Minutes](https://dev.to/cyclops-ui/from-helm-chart-to-developer-ui-in-5-minutes-5ff)
+- [Health Check for MySQL in a Docker Container](https://dev.to/samuelko123/health-check-for-mysql-in-a-docker-container-3m5a)
+- [Step-by-Step Guide to Fixing NDK source.properties File Missing Error in Flutter](https://dev.to/idrisadeyemi01/step-by-step-guide-to-fixing-ndk-sourceproperties-file-missing-error-in-flutter-3l2)
 <!-- BLOG-POST-LIST:END -->
 
