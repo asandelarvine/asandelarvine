@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an effective application security Programme: Strategies, practices and tools for the best results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-programme-strategies-practices-and-tools-for-the-4gh2)
-- [The Role of Smart Technologies in Power Cable Engineering and Maintenance](https://dev.to/leadvent_172e38f89cc7ca98/the-role-of-smart-technologies-in-power-cable-engineering-and-maintenance-3068)
-- [Stock Management System](https://dev.to/shaikr786/stock-management-system-2ilh)
-- [Static](https://dev.to/sugumar_r_a5f301adf1fb49a/static-2k8o)
+- [NumPy: Python’s Numerical Powerhouse](https://dev.to/blackmare01/numpy-pythons-numerical-powerhouse-m7p)
+- [Mastering Objects, Methods, and Classes in JavaScript &lpar;With Help From AI&rpar;](https://dev.to/d-libro-digital-skills/mastering-objects-methods-and-classes-in-javascript-with-help-from-ai-2c04)
+- [Aula1_arquivo0](https://dev.to/danielec25/aula1arquivo0-253h)
+- [Appanomics: The Yen and Outs of Publishing on the App Store 💴📱](https://dev.to/cl0udleadanis/appanomics-the-yen-and-outs-of-publishing-on-the-app-store-3984)
 <!-- BLOG-POST-LIST:END -->
 
