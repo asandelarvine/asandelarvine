@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FantasIA fans](https://dev.to/david_bermenvliz/fantasia-fans-lp7)
-- [El inicio...](https://dev.to/resagar/el-inicio-41o2)
-- [Global QS World University Rankings API](https://dev.to/gugudata/global-qs-world-university-rankings-api-2glo)
-- [&lpar;Beyond&rpar; The Art of Database Indexing](https://dev.to/benedetto_proietti/beyond-the-art-of-database-indexing-5fd7)
+- [Generating a Self Signed ECC Certificate and Private Key and Validating the same](https://dev.to/hobbyistprogrammerar/generating-a-self-signed-ecc-certificate-and-private-key-and-validating-the-same-3mbf)
+- [Master JavaScript Arrays: Essential Methods &amp; Best Practices 🚀](https://dev.to/ebereplenty/master-javascript-arrays-essential-methods-best-practices-4fbc)
+- [Free Next.js Hosting Providers in 2025: Pros and Cons](https://dev.to/probir-sarkar/free-nextjs-hosting-providers-in-2025-pros-and-cons-3bap)
+- [More Than Just a PDF: Why Online Courses Certificates Are Your Secret Weapon in Today&#39;s Job Market](https://dev.to/skillboosttrainer/more-than-just-a-pdf-why-online-courses-certificates-are-your-secret-weapon-in-todays-job-market-50a7)
 <!-- BLOG-POST-LIST:END -->
 
