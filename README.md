@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reload a Project in Visual Studio – Quick &amp; Easy Guide](https://dev.to/pexlkeys/how-to-reload-a-project-in-visual-studio-quick-easy-guide-6b9)
-- [Just Deployed My Text Encryption Decryption Tool](https://dev.to/sohillalakiya/just-deployed-my-text-encryption-decryption-tool-1h3e)
-- [反反爬浏览器自动化patchright](https://dev.to/dragon72463399/fan-fan-pa-liu-lan-qi-zi-dong-hua-patchright-4mla)
-- [2874. Maximum Value of an Ordered Triplet II](https://dev.to/mdarifulhaque/2874-maximum-value-of-an-ordered-triplet-ii-g3g)
+- [EC2: Billing and Purchase Option](https://dev.to/shiv15/ec2-billing-and-purchase-option-2iop)
+- [My first real Project, made with AI](https://dev.to/lennydevx/my-first-real-project-made-with-ai-2043)
+- [Cloud Server vs Serverless Instance](https://dev.to/eagle_119/cloud-server-vs-serverless-instance-jm1)
+- [HarmonyOS for Android Devs: Environment Setup](https://dev.to/otako_q/harmonyos-for-android-devs-environment-setup-4hjp)
 <!-- BLOG-POST-LIST:END -->
 
