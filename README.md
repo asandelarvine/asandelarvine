@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [D2](https://dev.to/gchar/d2-49dk)
-- [Introduction to Node.js Worker Threads](https://dev.to/artem_turlenko/introduction-to-nodejs-worker-threads-kd4)
-- [Why Do You Need a CI/CD Platform](https://dev.to/linhgumiho/why-do-you-need-a-cicd-platform-18bc)
-- [How I Used Pulumi ESC to Securely Manage Secrets and Configs in My Infrastructure](https://dev.to/rajeshwari_vakharia_fdcc7/how-i-used-pulumi-esc-to-securely-manage-secrets-and-configs-in-my-infrastructure-dch)
+- [How to Build Interactive Web Pages Without Using JavaScript](https://dev.to/shubhamtiwari909/interactive-elements-without-js-56cc)
+- [StarHub Pioneers Southeast Asia’s First 5G Cloud RAN, Revolutionizing Connectivity and Enterprise Solutions](https://dev.to/techi-news/starhub-pioneers-southeast-asias-first-5g-cloud-ran-revolutionizing-connectivity-and-enterprise-2j5c)
+- [How to Easily Implement RTMP Live Streaming in Rust: A Practical Guide](https://dev.to/yeauty/how-to-easily-implement-rtmp-live-streaming-in-rust-a-practical-guide-4ed1)
+- [How to build MCP server that triggers an Agent using AI SDK](https://dev.to/andyrewlee/how-to-build-mcp-server-that-triggers-an-agent-using-ai-sdk-pd1)
 <!-- BLOG-POST-LIST:END -->
 
