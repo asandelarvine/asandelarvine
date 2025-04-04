@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye JNI: Embracing Java’s Foreign Function &amp; Memory API](https://dev.to/myexamcloud/goodbye-jni-embracing-javas-foreign-function-memory-api-3c8f)
-- [Implementing LangGraph for Multi-Agent AI Systems](https://dev.to/jamiu__tijani/implementing-langgraph-for-multi-agent-ai-systems-4fck)
-- [Enhance Productivity: Compare TXT Files in .NET Using Cloud REST API](https://dev.to/shahzad_ashraf_5ea18e2b2d/enhance-productivity-compare-txt-files-in-net-using-cloud-rest-api-40kp)
-- [The Second Step into the World of RxJS: RxJS Operators — How to Learn and Why They Are Needed](https://dev.to/artstesh/the-second-step-into-the-world-of-rxjs-rxjs-operators-how-to-learn-and-why-they-are-needed-1f22)
+- [Cloud Monitoring – Ensuring Performance &amp; Security](https://dev.to/kevin_asutton_/cloud-monitoring-ensuring-performance-security-1hm)
+- [Modernizing the Workplace with Hybrid IT](https://dev.to/kevin_asutton_/modernizing-the-workplace-with-hybrid-it-40e8)
+- [Orchestrating Long-Running APIs | A Step-by-Step Guide to Asynchronous Execution](https://dev.to/orkes/orchestrating-long-running-apis-a-step-by-step-guide-to-asynchronous-execution-4n9c)
+- [Welcome to Developers for Contributing Open Source Project &quot;CapsuleOS&quot;](https://dev.to/abhishek00-1/welcome-to-developers-for-contributing-open-source-project-capsuleos-2p4p)
 <!-- BLOG-POST-LIST:END -->
 
