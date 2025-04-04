@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Fragment Telegram Usernames: Innovation Versus Tradition](https://dev.to/jennythomas498/exploring-fragment-telegram-usernames-innovation-versus-tradition-365n)
-- [Untitled](https://dev.to/jony_khan_556534fa14882fe/untitled-3nl9)
-- [Static and non static methods:](https://dev.to/jeya_lakshmi_c417e8c65649/static-and-non-static-methods-1a25)
-- [How to customize Scramble – Laravel OpenAPI Docs](https://dev.to/satulg/how-to-customize-scramble-laravel-openapi-docs-5bg5)
+- [🚀](https://dev.to/akhilesh_verma_4dd53b7054/-1edj)
+- [The best Saas idea comes from solving your own problems](https://dev.to/paterson1720/the-best-saas-idea-comes-from-solving-your-own-problems-g4n)
+- [🚀 15 SQL Query Optimization Techniques for Blazing Fast Performance](https://dev.to/full_stack_fusion/15-sql-query-optimization-techniques-for-blazing-fast-performance-3n1b)
+- [..](https://dev.to/pkkashyap/i-am-starting-journey-of-technology-industry-and-i-am-very-strong-confidencial-and-knowledgeable-2fgb)
 <!-- BLOG-POST-LIST:END -->
 
