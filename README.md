@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Worrying About LLM Downtime: Build Resilient AI Apps with `ai-fallback`](https://dev.to/simplr_sh/stop-worrying-about-llm-downtime-build-resilient-ai-apps-with-ai-fallback-1bkc)
-- [Troubleshooting High Load Averages: How Remote SSH Execution Saved My Build Server](https://dev.to/imperatoroz/troubleshooting-high-load-averages-how-remote-ssh-execution-saved-my-build-server-j5d)
-- [what to do after clone git hub repo for laravel](https://dev.to/takippu/what-to-do-after-clone-git-hub-repo-for-laravel-3d9k)
-- [How to Setup Android SDK without Android Studio](https://dev.to/riya_kumari_995011174ff8b/how-to-setup-android-sdk-without-android-studio-3g2)
+- [Redefining Modern Web Infrastructure](https://dev.to/aniruddhaadak/redefining-modern-web-infrastructure-nng)
+- [Clean up your Azure Container Registry](https://dev.to/kummerer94/clean-up-your-azure-container-registry-23c2)
+- [QVM-Manager: The Linux Hypervisor You&#39;ve Been Waiting For?](https://dev.to/dev_prince/qvm-manager-the-linux-hypervisor-youve-been-waiting-for-2bm0)
+- [I explain the Model Context Protocol or MCP used to interact with LLMs](https://dev.to/zeedu_dev/i-explain-the-model-context-protocol-or-mcp-used-to-interact-with-llms-4ci5)
 <!-- BLOG-POST-LIST:END -->
 
