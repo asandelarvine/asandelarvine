@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BigInt: Handling Large Integers in JavaScript](https://dev.to/omriluz1/bigint-handling-large-integers-in-javascript-35bb)
-- [Aigency](https://dev.to/nuri_kaplan_3990fed3f6725/aigency-20e5)
-- [Building a Simple RESTful API with Node.js and Express](https://dev.to/ernest_litsa_6cbeed4e5669/building-a-simple-restful-api-with-nodejs-and-express-3hb6)
-- [5º Projeto Imersão Alura - Quiz](https://dev.to/juniordamazeno/5o-projeto-imersao-alura-quiz-5h9a)
+- [Mastering Virtual Machines in Azure](https://dev.to/lotanna_obianefo/mastering-virtual-machines-in-azure-12e5)
+- [Elon Rewrites AI Rules](https://dev.to/justin_downes/elon-rewrites-ai-rules-2j2g)
+- [Monitoring What Matters: Practical Alerting for Scalable Systems](https://dev.to/gaurav_bansal_2e1ca573623/alert-strategy-best-practices-1b79)
+- [🚀 ¡A Navegar con Bucles en Angular!](https://dev.to/cristian_arieta_7df932e5f/a-navegar-con-bucles-en-angular-ao)
 <!-- BLOG-POST-LIST:END -->
 
