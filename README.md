@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wow!!](https://dev.to/arya_teja_2106/wow-22mg)
-- [Pulumi is the first ever IaC, i&#39;ve ever tried + Pulumi Copilot is the perfect cherry on top to make the development much easier. Thanks a lot Team Pulumi](https://dev.to/sojinsamuel/pulumi-is-the-first-ever-iac-ive-ever-tried-pulumi-copilot-is-the-perfect-cherry-on-top-to-make-58cd)
-- [This is a really good perspective! The ability to understand and address root causes of problems is essential for continuous development. A recommended read!](https://dev.to/dev_prince/this-is-a-really-good-perspective-the-ability-to-understand-and-address-root-causes-of-problems-is-3mkc)
-- [Consistency Patterns](https://dev.to/parulchaddha/consistency-patterns-p1j)
+- [Primeiros testes unitários em C# com xUnit &lpar;parte 1&rpar;](https://dev.to/aguiardev/primeiros-testes-unitarios-em-c-com-xunit-parte-1-1pp9)
+- [Security news weekly round-up - 4th April 2025](https://dev.to/ziizium/security-news-weekly-round-up-4th-april-2025-pi6)
+- [O que significa ChatGPT? Saiba tudo sobre o assunto!](https://dev.to/paulofreitas_py/o-que-significa-chatgpt-saiba-tudo-sobre-o-assunto-3iok)
+- [Day 1134 : Blur](https://dev.to/dwane/day-1134-blur-2k5n)
 <!-- BLOG-POST-LIST:END -->
 
