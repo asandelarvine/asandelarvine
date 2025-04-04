@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Virtual Machines in Azure](https://dev.to/lotanna_obianefo/mastering-virtual-machines-in-azure-12e5)
-- [Elon Rewrites AI Rules](https://dev.to/justin_downes/elon-rewrites-ai-rules-2j2g)
-- [Monitoring What Matters: Practical Alerting for Scalable Systems](https://dev.to/gaurav_bansal_2e1ca573623/alert-strategy-best-practices-1b79)
-- [🚀 ¡A Navegar con Bucles en Angular!](https://dev.to/cristian_arieta_7df932e5f/a-navegar-con-bucles-en-angular-ao)
+- [Wow!!](https://dev.to/arya_teja_2106/wow-22mg)
+- [Pulumi is the first ever IaC, i&#39;ve ever tried + Pulumi Copilot is the perfect cherry on top to make the development much easier. Thanks a lot Team Pulumi](https://dev.to/sojinsamuel/pulumi-is-the-first-ever-iac-ive-ever-tried-pulumi-copilot-is-the-perfect-cherry-on-top-to-make-58cd)
+- [This is a really good perspective! The ability to understand and address root causes of problems is essential for continuous development. A recommended read!](https://dev.to/dev_prince/this-is-a-really-good-perspective-the-ability-to-understand-and-address-root-causes-of-problems-is-3mkc)
+- [Consistency Patterns](https://dev.to/parulchaddha/consistency-patterns-p1j)
 <!-- BLOG-POST-LIST:END -->
 
