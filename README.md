@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Website Design Trends for 2025 in Nigeria: Stay Ahead of Your Competitors](https://dev.to/raji_moshood_ee3a4c2638f6/best-website-design-trends-for-2025-in-nigeria-stay-ahead-of-your-competitors-2d4k)
-- [Enhancing Cloud Security with Amazon CloudFront and Signed URLs](https://dev.to/shlok-talepa/enhancing-cloud-security-with-amazon-cloudfront-and-signed-urls-oh6)
-- [Mastering Data Visualization: A Comprehensive Guide for CBSE Class 12 Computer Science.](https://dev.to/kwickprep/mastering-data-visualization-a-comprehensive-guide-for-cbse-class-12-computer-science-378l)
-- [What is SuccessFactors in SAP?](https://dev.to/niks_kirdak_47c783a80cbc7/what-is-successfactors-in-sap-36jb)
+- [8 Reasons Why TypeScript is Becoming the Go-To for Large-Scale JavaScript Projects](https://dev.to/jigar_online/8-reasons-why-typescript-is-becoming-the-go-to-for-large-scale-javascript-projects-2hla)
+- [How Information Technology Consulting Firms Help Improve Operational Efficiency](https://dev.to/manish25/how-information-technology-consulting-firms-help-improve-operational-efficiency-18he)
+- [Exploring Telegram&#39;s Official Website, Privacy &amp; The Broader Digital Ecosystem](https://dev.to/bobcars/exploring-telegrams-official-website-privacy-the-broader-digital-ecosystem-2703)
+- [hey, what are the best libraries to learn in python to some who wants to specialize in AI](https://dev.to/hamzh_skeef_7/hey-what-are-the-best-libraries-to-learn-in-python-to-some-who-wants-to-specialize-in-ai-3358)
 <!-- BLOG-POST-LIST:END -->
 
