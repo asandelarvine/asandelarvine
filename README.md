@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter VS Appium? Here&#39;re My Thoughts!](https://dev.to/audrey_lopez/flutter-vs-appium-herere-my-thoughts-401b)
-- [Deep Dive - How Chunked Transfer Encoding Works](https://dev.to/sahan/deep-dive-how-chunked-transfer-encoding-works-4o9n)
-- [🚀Introducing the DevOps &amp; Cloud Docs Portal – Your Ultimate Learning Hub! 📚](https://dev.to/prodevopsguytech/introducing-the-devops-cloud-docs-portal-your-ultimate-learning-hub-38j2)
-- [The Best Postman Alternatives to Streamline API testing](https://dev.to/ronika_kashyap/the-best-postman-alternatives-to-streamline-api-testing-4dpo)
+- [D2](https://dev.to/gchar/d2-49dk)
+- [Introduction to Node.js Worker Threads](https://dev.to/artem_turlenko/introduction-to-nodejs-worker-threads-kd4)
+- [Why Do You Need a CI/CD Platform](https://dev.to/linhgumiho/why-do-you-need-a-cicd-platform-18bc)
+- [How I Used Pulumi ESC to Securely Manage Secrets and Configs in My Infrastructure](https://dev.to/rajeshwari_vakharia_fdcc7/how-i-used-pulumi-esc-to-securely-manage-secrets-and-configs-in-my-infrastructure-dch)
 <!-- BLOG-POST-LIST:END -->
 
