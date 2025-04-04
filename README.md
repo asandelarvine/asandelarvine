@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang LLD: Design a Task Scheduler](https://dev.to/arcadebuilds/golang-lld-design-a-task-scheduler-5deo)
-- [What is a Remote Access VPN?](https://dev.to/clouddefenseai/what-is-a-remote-access-vpn-cdh)
-- [What is a Quality Engineer? Roles, Responsibilities, and Skills](https://dev.to/keploy/what-is-a-quality-engineer-roles-responsibilities-and-skills-o34)
-- [⚡️10 JavaScript One-Liners That Will Blow Your Mind &lpar;and Save You HOURS of Coding&rpar;](https://dev.to/dct_technology/10-javascript-one-liners-that-will-blow-your-mind-and-save-you-hours-of-coding-5g6h)
+- [Flutter VS Appium? Here&#39;re My Thoughts!](https://dev.to/audrey_lopez/flutter-vs-appium-herere-my-thoughts-401b)
+- [Deep Dive - How Chunked Transfer Encoding Works](https://dev.to/sahan/deep-dive-how-chunked-transfer-encoding-works-4o9n)
+- [🚀Introducing the DevOps &amp; Cloud Docs Portal – Your Ultimate Learning Hub! 📚](https://dev.to/prodevopsguytech/introducing-the-devops-cloud-docs-portal-your-ultimate-learning-hub-38j2)
+- [The Best Postman Alternatives to Streamline API testing](https://dev.to/ronika_kashyap/the-best-postman-alternatives-to-streamline-api-testing-4dpo)
 <!-- BLOG-POST-LIST:END -->
 
