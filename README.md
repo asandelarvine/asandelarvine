@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join &amp; Earn with TheCampusCoders: Build, Learn, and Get Rewarded!](https://dev.to/raajaryan/join-earn-with-thecampuscoders-build-learn-and-get-rewarded-3906)
-- [Rendering Big JSON in React? You&#39;re Probably Doing It Terribly Wrong 😬](https://dev.to/muhayminbinmehmood/how-to-optimize-large-json-data-rendering-in-react-1jj3)
-- [How to Prevent Theme Flash in a React: Instant Dark Mode Switching](https://dev.to/gaisdav/how-to-prevent-theme-flash-in-a-react-instant-dark-mode-switching-o20)
-- [[Boost]](https://dev.to/isumix/-20am)
+- [Bridging Generations: Running COBOL on Kubernetes with EFS](https://dev.to/semperfitodd/bridging-generations-running-cobol-on-kubernetes-with-efs-pgk)
+- [what is tRPC ? how to use it in react project?](https://dev.to/santoshpremi/what-is-trpc-how-to-use-it-in-react-project-38o5)
+- [🚀 How Amazon Shapes the Future of Dev &amp; Cloud ☁️](https://dev.to/cecile_agrios_8f41df14128/how-amazon-shapes-the-future-of-dev-cloud-14h5)
+- [🚀 Readme Forge: The Ultimate README Generator for Developers](https://dev.to/senathenu/readme-forge-the-ultimate-readme-generator-for-developers-bgd)
 <!-- BLOG-POST-LIST:END -->
 
