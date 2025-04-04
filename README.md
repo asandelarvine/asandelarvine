@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Interactive Web Pages Without Using JavaScript](https://dev.to/shubhamtiwari909/interactive-elements-without-js-56cc)
-- [StarHub Pioneers Southeast Asia’s First 5G Cloud RAN, Revolutionizing Connectivity and Enterprise Solutions](https://dev.to/techi-news/starhub-pioneers-southeast-asias-first-5g-cloud-ran-revolutionizing-connectivity-and-enterprise-2j5c)
-- [How to Easily Implement RTMP Live Streaming in Rust: A Practical Guide](https://dev.to/yeauty/how-to-easily-implement-rtmp-live-streaming-in-rust-a-practical-guide-4ed1)
-- [How to build MCP server that triggers an Agent using AI SDK](https://dev.to/andyrewlee/how-to-build-mcp-server-that-triggers-an-agent-using-ai-sdk-pd1)
+- [Best Website Design Trends for 2025 in Nigeria: Stay Ahead of Your Competitors](https://dev.to/raji_moshood_ee3a4c2638f6/best-website-design-trends-for-2025-in-nigeria-stay-ahead-of-your-competitors-2d4k)
+- [Enhancing Cloud Security with Amazon CloudFront and Signed URLs](https://dev.to/shlok-talepa/enhancing-cloud-security-with-amazon-cloudfront-and-signed-urls-oh6)
+- [Mastering Data Visualization: A Comprehensive Guide for CBSE Class 12 Computer Science.](https://dev.to/kwickprep/mastering-data-visualization-a-comprehensive-guide-for-cbse-class-12-computer-science-378l)
+- [What is SuccessFactors in SAP?](https://dev.to/niks_kirdak_47c783a80cbc7/what-is-successfactors-in-sap-36jb)
 <!-- BLOG-POST-LIST:END -->
 
