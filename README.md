@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redefining Modern Web Infrastructure](https://dev.to/aniruddhaadak/redefining-modern-web-infrastructure-nng)
-- [Clean up your Azure Container Registry](https://dev.to/kummerer94/clean-up-your-azure-container-registry-23c2)
-- [QVM-Manager: The Linux Hypervisor You&#39;ve Been Waiting For?](https://dev.to/dev_prince/qvm-manager-the-linux-hypervisor-youve-been-waiting-for-2bm0)
-- [I explain the Model Context Protocol or MCP used to interact with LLMs](https://dev.to/zeedu_dev/i-explain-the-model-context-protocol-or-mcp-used-to-interact-with-llms-4ci5)
+- [Exploring Fragment Telegram Usernames: Innovation Versus Tradition](https://dev.to/jennythomas498/exploring-fragment-telegram-usernames-innovation-versus-tradition-365n)
+- [Untitled](https://dev.to/jony_khan_556534fa14882fe/untitled-3nl9)
+- [Static and non static methods:](https://dev.to/jeya_lakshmi_c417e8c65649/static-and-non-static-methods-1a25)
+- [How to customize Scramble – Laravel OpenAPI Docs](https://dev.to/satulg/how-to-customize-scramble-laravel-openapi-docs-5bg5)
 <!-- BLOG-POST-LIST:END -->
 
