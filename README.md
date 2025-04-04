@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Reasons Why TypeScript is Becoming the Go-To for Large-Scale JavaScript Projects](https://dev.to/jigar_online/8-reasons-why-typescript-is-becoming-the-go-to-for-large-scale-javascript-projects-2hla)
-- [How Information Technology Consulting Firms Help Improve Operational Efficiency](https://dev.to/manish25/how-information-technology-consulting-firms-help-improve-operational-efficiency-18he)
-- [Exploring Telegram&#39;s Official Website, Privacy &amp; The Broader Digital Ecosystem](https://dev.to/bobcars/exploring-telegrams-official-website-privacy-the-broader-digital-ecosystem-2703)
-- [hey, what are the best libraries to learn in python to some who wants to specialize in AI](https://dev.to/hamzh_skeef_7/hey-what-are-the-best-libraries-to-learn-in-python-to-some-who-wants-to-specialize-in-ai-3358)
+- [IDC predicts the future of IT: Top 10 trends shaping 2025](https://dev.to/theodor_coin_4/idc-predicts-the-future-of-it-top-10-trends-shaping-2025-3fn1)
+- [🧠 Meta Hive Robotics: Building the Future with Agentic Intelligence and MCP](https://dev.to/ramkashyap2050/meta-hive-robotics-building-the-future-with-agentic-intelligence-and-mcp-cg0)
+- [Liquidity Management in Crypto: Why It Matters and How to Do It Right](https://dev.to/vishal_singh_8666966f9bcc/liquidity-management-in-crypto-why-it-matters-and-how-to-do-it-right-5702)
+- [AI Model Processes Hour-Long Videos Using Smart Frame Selection and Mixed Precision Technology](https://dev.to/mikeyoung44/ai-model-processes-hour-long-videos-using-smart-frame-selection-and-mixed-precision-technology-5fek)
 <!-- BLOG-POST-LIST:END -->
 
