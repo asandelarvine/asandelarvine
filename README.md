@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Email Security: The Protection You Didn’t Know You Needed](https://dev.to/donald1981/ai-powered-email-security-the-protection-you-didnt-know-you-needed-5hcc)
-- [Untitled](https://dev.to/luis_manuel/untitled-5h4l)
-- [How to Build a Portfolio Website the Right Way](https://dev.to/devlawrence/how-to-build-a-portfolio-website-the-right-way-2n87)
-- [Untitled](https://dev.to/luis_manuel/untitled-11nh)
+- [I Built a Parking App MVP That Uses Real-Time Data -- Meet LotFinder](https://dev.to/thofficialcoder/i-built-a-parking-app-mvp-that-uses-real-time-data-meet-lotfinder-1i61)
+- [When to Use type vs interface in TypeScript?](https://dev.to/joodi/when-to-use-type-vs-interface-in-typescript-2dld)
+- [ATTACHING A DATA DISK TO AN AZURE VM](https://dev.to/iniobong_ema_92e60ed18028/attaching-a-data-disk-to-an-azure-vm-5e55)
+- [ArticleGenerator.site – Free SEO Article Generator Powered by AI](https://dev.to/articlegenerator/articlegeneratorsite-free-seo-article-generator-powered-by-ai-dkb)
 <!-- BLOG-POST-LIST:END -->
 
