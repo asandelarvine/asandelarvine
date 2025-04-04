@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Parking App MVP That Uses Real-Time Data -- Meet LotFinder](https://dev.to/thofficialcoder/i-built-a-parking-app-mvp-that-uses-real-time-data-meet-lotfinder-1i61)
-- [When to Use type vs interface in TypeScript?](https://dev.to/joodi/when-to-use-type-vs-interface-in-typescript-2dld)
-- [ATTACHING A DATA DISK TO AN AZURE VM](https://dev.to/iniobong_ema_92e60ed18028/attaching-a-data-disk-to-an-azure-vm-5e55)
-- [ArticleGenerator.site – Free SEO Article Generator Powered by AI](https://dev.to/articlegenerator/articlegeneratorsite-free-seo-article-generator-powered-by-ai-dkb)
+- [AI-Powered Test Data Generation: Ensuring Quality with Synthetic Data](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-powered-test-data-generation-ensuring-quality-with-synthetic-data-5h1f)
+- [DuckDB 🦆: Unleashing the Powerhouse Query Engine Within](https://dev.to/mikekenneth77/duckdb-unleashing-the-powerhouse-query-engine-within-5286)
+- [Unlocking Passive Income: The Drip Network Guide](https://dev.to/zhangwei42/unlocking-passive-income-the-drip-network-guide-4pfo)
+- [Fragmentation of Linux and impact on packaging](https://dev.to/golf-lang/fragmentation-of-linux-and-impact-on-packaging-5akm)
 <!-- BLOG-POST-LIST:END -->
 
