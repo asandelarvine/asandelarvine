@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Atoms to Web App: Crafting an Interactive Periodic Table Explorer 🧪💻](https://dev.to/learncomputer/from-atoms-to-web-app-crafting-an-interactive-periodic-table-explorer-33d6)
-- [writer in GeeksforGeeks](https://dev.to/rahul_d_69c56a981e11c6728/writer-in-geeksforgeeks-649)
-- [DevOps is a culture, not a role!](https://dev.to/pooyan/devops-is-a-culture-not-a-role-d71)
-- [You don&#39;t need that many meetings](https://dev.to/pooyan/you-dont-need-that-many-meetings-3d2l)
+- [Golang LLD: Design a Task Scheduler](https://dev.to/arcadebuilds/golang-lld-design-a-task-scheduler-5deo)
+- [What is a Remote Access VPN?](https://dev.to/clouddefenseai/what-is-a-remote-access-vpn-cdh)
+- [What is a Quality Engineer? Roles, Responsibilities, and Skills](https://dev.to/keploy/what-is-a-quality-engineer-roles-responsibilities-and-skills-o34)
+- [⚡️10 JavaScript One-Liners That Will Blow Your Mind &lpar;and Save You HOURS of Coding&rpar;](https://dev.to/dct_technology/10-javascript-one-liners-that-will-blow-your-mind-and-save-you-hours-of-coding-5g6h)
 <!-- BLOG-POST-LIST:END -->
 
