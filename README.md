@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀](https://dev.to/akhilesh_verma_4dd53b7054/-1edj)
-- [The best Saas idea comes from solving your own problems](https://dev.to/paterson1720/the-best-saas-idea-comes-from-solving-your-own-problems-g4n)
-- [🚀 15 SQL Query Optimization Techniques for Blazing Fast Performance](https://dev.to/full_stack_fusion/15-sql-query-optimization-techniques-for-blazing-fast-performance-3n1b)
-- [..](https://dev.to/pkkashyap/i-am-starting-journey-of-technology-industry-and-i-am-very-strong-confidencial-and-knowledgeable-2fgb)
+- [BigInt: Handling Large Integers in JavaScript](https://dev.to/omriluz1/bigint-handling-large-integers-in-javascript-35bb)
+- [Aigency](https://dev.to/nuri_kaplan_3990fed3f6725/aigency-20e5)
+- [Building a Simple RESTful API with Node.js and Express](https://dev.to/ernest_litsa_6cbeed4e5669/building-a-simple-restful-api-with-nodejs-and-express-3hb6)
+- [5º Projeto Imersão Alura - Quiz](https://dev.to/juniordamazeno/5o-projeto-imersao-alura-quiz-5h9a)
 <!-- BLOG-POST-LIST:END -->
 
