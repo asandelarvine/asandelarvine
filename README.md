@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Test Data Generation: Ensuring Quality with Synthetic Data](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-powered-test-data-generation-ensuring-quality-with-synthetic-data-5h1f)
-- [DuckDB 🦆: Unleashing the Powerhouse Query Engine Within](https://dev.to/mikekenneth77/duckdb-unleashing-the-powerhouse-query-engine-within-5286)
-- [Unlocking Passive Income: The Drip Network Guide](https://dev.to/zhangwei42/unlocking-passive-income-the-drip-network-guide-4pfo)
-- [Fragmentation of Linux and impact on packaging](https://dev.to/golf-lang/fragmentation-of-linux-and-impact-on-packaging-5akm)
+- [From Atoms to Web App: Crafting an Interactive Periodic Table Explorer 🧪💻](https://dev.to/learncomputer/from-atoms-to-web-app-crafting-an-interactive-periodic-table-explorer-33d6)
+- [writer in GeeksforGeeks](https://dev.to/rahul_d_69c56a981e11c6728/writer-in-geeksforgeeks-649)
+- [DevOps is a culture, not a role!](https://dev.to/pooyan/devops-is-a-culture-not-a-role-d71)
+- [You don&#39;t need that many meetings](https://dev.to/pooyan/you-dont-need-that-many-meetings-3d2l)
 <!-- BLOG-POST-LIST:END -->
 
