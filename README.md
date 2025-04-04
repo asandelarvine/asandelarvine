@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Monitoring – Ensuring Performance &amp; Security](https://dev.to/kevin_asutton_/cloud-monitoring-ensuring-performance-security-1hm)
-- [Modernizing the Workplace with Hybrid IT](https://dev.to/kevin_asutton_/modernizing-the-workplace-with-hybrid-it-40e8)
-- [Orchestrating Long-Running APIs | A Step-by-Step Guide to Asynchronous Execution](https://dev.to/orkes/orchestrating-long-running-apis-a-step-by-step-guide-to-asynchronous-execution-4n9c)
-- [Welcome to Developers for Contributing Open Source Project &quot;CapsuleOS&quot;](https://dev.to/abhishek00-1/welcome-to-developers-for-contributing-open-source-project-capsuleos-2p4p)
+- [Stop Worrying About LLM Downtime: Build Resilient AI Apps with `ai-fallback`](https://dev.to/simplr_sh/stop-worrying-about-llm-downtime-build-resilient-ai-apps-with-ai-fallback-1bkc)
+- [Troubleshooting High Load Averages: How Remote SSH Execution Saved My Build Server](https://dev.to/imperatoroz/troubleshooting-high-load-averages-how-remote-ssh-execution-saved-my-build-server-j5d)
+- [what to do after clone git hub repo for laravel](https://dev.to/takippu/what-to-do-after-clone-git-hub-repo-for-laravel-3d9k)
+- [How to Setup Android SDK without Android Studio](https://dev.to/riya_kumari_995011174ff8b/how-to-setup-android-sdk-without-android-studio-3g2)
 <!-- BLOG-POST-LIST:END -->
 
