@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Generations: Running COBOL on Kubernetes with EFS](https://dev.to/semperfitodd/bridging-generations-running-cobol-on-kubernetes-with-efs-pgk)
-- [what is tRPC ? how to use it in react project?](https://dev.to/santoshpremi/what-is-trpc-how-to-use-it-in-react-project-38o5)
-- [🚀 How Amazon Shapes the Future of Dev &amp; Cloud ☁️](https://dev.to/cecile_agrios_8f41df14128/how-amazon-shapes-the-future-of-dev-cloud-14h5)
-- [🚀 Readme Forge: The Ultimate README Generator for Developers](https://dev.to/senathenu/readme-forge-the-ultimate-readme-generator-for-developers-bgd)
+- [Goodbye JNI: Embracing Java’s Foreign Function &amp; Memory API](https://dev.to/myexamcloud/goodbye-jni-embracing-javas-foreign-function-memory-api-3c8f)
+- [Implementing LangGraph for Multi-Agent AI Systems](https://dev.to/jamiu__tijani/implementing-langgraph-for-multi-agent-ai-systems-4fck)
+- [Enhance Productivity: Compare TXT Files in .NET Using Cloud REST API](https://dev.to/shahzad_ashraf_5ea18e2b2d/enhance-productivity-compare-txt-files-in-net-using-cloud-rest-api-40kp)
+- [The Second Step into the World of RxJS: RxJS Operators — How to Learn and Why They Are Needed](https://dev.to/artstesh/the-second-step-into-the-world-of-rxjs-rxjs-operators-how-to-learn-and-why-they-are-needed-1f22)
 <!-- BLOG-POST-LIST:END -->
 
