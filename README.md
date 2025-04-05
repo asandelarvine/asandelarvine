@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Centos-PackageManager](https://dev.to/prasanth362k/centos-packagemanager-2728)
-- [Just launched a side project](https://dev.to/gulsher7/just-launched-a-side-project-1odg)
-- [Spring &amp; Validations: Supporting Both Infrastructure and Business Logic](https://dev.to/dejvis_beqiraj/spring-validations-a-flexible-way-that-supports-both-infrastructure-and-business-logic-o6f)
-- [🚀 Introducing Stack Render: Instantly Generate Express + GraphQL APIs from Your ERD](https://dev.to/karim_tamani/introducing-stack-render-instantly-generate-express-graphql-apis-from-your-erd-1881)
+- [Why Some Companies Are Moving Away from Kubernetes](https://dev.to/aws_optimizer/why-some-companies-are-moving-away-from-kubernetes-11ki)
+- [Criei dois bots no discord](https://dev.to/joashneves/criei-dois-bots-no-discord-3a2g)
+- [9.3 Executando o pipeline em paralelo](https://dev.to/fundamentosjava/93-executando-o-pipeline-em-paralelo-2467)
+- [Smooth Database Migrations in a Fast-Moving World](https://dev.to/lovestaco/smooth-database-migrations-in-a-fast-moving-world-1mjg)
 <!-- BLOG-POST-LIST:END -->
 
