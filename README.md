@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Video Series: A Structured, Concise Blueprint for Essential Modern CSS](https://dev.to/josemariairiarte/mastering-css-video-series-a-structured-concise-blueprint-for-essential-modern-css-3oi1)
-- [I canceled ChatGPT Plus and built my own offline GPT](https://dev.to/noah_street_d0755cbf9a58d/i-canceled-chatgpt-plus-and-built-my-own-offline-gpt-f6)
-- [SharedArrayBuffer and Atomics](https://dev.to/omriluz1/sharedarraybuffer-and-atomics-27f2)
-- [Never Miss a Service Disruption Again: How I Learned the Hard Way](https://dev.to/statusfield/never-miss-a-service-disruption-again-how-i-learned-the-hard-way-5l)
+- [How to Submit a Bounty on Gitcoin: A Comprehensive Guide to Accelerating Open Source Development](https://dev.to/kallileiser/how-to-submit-a-bounty-on-gitcoin-a-comprehensive-guide-to-accelerating-open-source-development-4lg3)
+- [Deploying a Static E-commerce Site to AWS Using Pulumi](https://dev.to/iamsherif/deploying-a-static-e-commerce-site-to-aws-using-pulumi-1nlf)
+- [Day-15: Static vs Non-Static Methods, Global vs Local Variables in Java](https://dev.to/e00049/day-15-static-vs-non-static-methods-global-vs-local-variables-in-java-4mji)
+- [Role-Based Route Permissions in Remix / React Router v7](https://dev.to/princetomarappdev/role-based-route-permissions-in-remix-react-router-v7-1d3j)
 <!-- BLOG-POST-LIST:END -->
 
