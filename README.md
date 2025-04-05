@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/tusharshahi/-5aaf)
-- [Cross-Browser Compatibility: Keeping Older Sites Shining Bright on Newer Browsers](https://dev.to/okoye_ndidiamaka_5e3b7d30/cross-browser-compatibility-keeping-older-sites-shining-bright-on-newer-browsers-lm8)
-- [How Does Salesforce Work?](https://dev.to/niks_kirdak_47c783a80cbc7/how-does-salesforce-work-21ip)
-- [Designing a Smart Commentator Bot: Applying Software Patterns and Principles](https://dev.to/softmaker/designing-a-smart-commentator-bot-applying-software-patterns-and-principles-4h0)
+- [Configuration Management &lpar;Ansible, Chef, Puppet&rpar;](https://dev.to/godofgeeks/configuration-management-ansible-chef-puppet-32i3)
+- [TS1383: Only named exports may use &#39;export type&#39;](https://dev.to/rivkaavraham/ts1383-only-named-exports-may-use-export-type-3jb4)
+- [TS1387: Function type notation must be parenthesized when used in an intersection type](https://dev.to/rivkaavraham/ts1387-function-type-notation-must-be-parenthesized-when-used-in-an-intersection-type-5en7)
+- [TS1386: Constructor type notation must be parenthesized when used in a union type](https://dev.to/rivkaavraham/ts1386-constructor-type-notation-must-be-parenthesized-when-used-in-a-union-type-1g2l)
 <!-- BLOG-POST-LIST:END -->
 
