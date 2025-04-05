@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AULA1-LOV](https://dev.to/gabriela_bueno_aafd93378e/aula1-lov-1d54)
-- [Aula02 - fuyuki](https://dev.to/gabriela_bueno_aafd93378e/aula02-fuyuki-1hon)
-- [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
-- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
+- [Which AWS Certification Is Best for You?](https://dev.to/nathamuni_nk_af1dd728d76b/which-aws-certification-is-best-for-you-2pfc)
+- [Things to Consider When Developing an SEO-Friendly Website](https://dev.to/seoprog/things-to-consider-when-developing-an-seo-friendly-website-5304)
+- [A Serverless secrets manager demo using Pulumi ESC &lpar;AWS&rpar;](https://dev.to/aniruddhaadak/a-serverless-secrets-manager-demo-using-pulumi-esc-aws-559h)
+- [Lern Javascript With Pineaple](https://dev.to/openpineaplehub/lern-javascript-with-pineaple-56f9)
 <!-- BLOG-POST-LIST:END -->
 
