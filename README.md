@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeiros testes unitários em C# com xUnit &lpar;parte 1&rpar;](https://dev.to/aguiardev/primeiros-testes-unitarios-em-c-com-xunit-parte-1-1pp9)
-- [Security news weekly round-up - 4th April 2025](https://dev.to/ziizium/security-news-weekly-round-up-4th-april-2025-pi6)
-- [O que significa ChatGPT? Saiba tudo sobre o assunto!](https://dev.to/paulofreitas_py/o-que-significa-chatgpt-saiba-tudo-sobre-o-assunto-3iok)
-- [Day 1134 : Blur](https://dev.to/dwane/day-1134-blur-2k5n)
+- [Gitcoin and the Evolution of Web3: Pioneering the Decentralized Future](https://dev.to/jennythomas498/gitcoin-and-the-evolution-of-web3-pioneering-the-decentralized-future-3moe)
+- [game5_VFernanda_imersão](https://dev.to/juniorolivaldo/game5vfernandaimersao-1p3d)
+- [DAY-14 -Static method and Non static method..](https://dev.to/sangamithra_k_78d83d6fb9d/day-14-static-method-and-non-static-method-3h25)
+- [How to group large data into classes using R](https://dev.to/maxwizard01/how-to-group-large-data-into-classes-42mc)
 <!-- BLOG-POST-LIST:END -->
 
