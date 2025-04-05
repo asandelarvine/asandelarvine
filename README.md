@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo Euronics Hungary migró sus cargas de SAP a AWS sin downtime](https://dev.to/briansuarezsantiago/como-euronics-hungary-migro-sus-cargas-de-sap-a-aws-sin-downtime-d60)
-- [Specialized Data Types in Python – Unlock Powerful Tools for Real-World Applications!](https://dev.to/python-enthusiast/specialized-data-types-in-python-unlock-powerful-tools-for-real-world-applications-4jhc)
-- [BackEnd only Include Databases and API developement?](https://dev.to/qudduslarix/backend-only-include-databases-and-api-developement-2o7n)
-- [React Context API: The Best Way to Manage Global State?](https://dev.to/devshefali/react-context-api-the-best-way-to-manage-global-state-531n)
+- [is Back-End only Have APIs and DBMS connectivity!?](https://dev.to/qudduslarix/is-back-end-only-have-apis-and-dbms-connectivity-1m5h)
+- [How I Fixed ERR_TOO_MANY_REDIRECTS with Cloudflare + Vercel](https://dev.to/samitkapoor/how-i-fixed-errtoomanyredirects-with-cloudflare-vercel-1dbd)
+- [Learning Elixir: Advanced Control Structures](https://dev.to/abreujp/learning-elixir-advanced-control-structures-132n)
+- [🧩 Questions about general web development. &lpar;Share your knowledge&rpar;](https://dev.to/geanny_deraben_75b1f0f21/questions-about-general-web-development-share-your-knowledge-54nn)
 <!-- BLOG-POST-LIST:END -->
 
