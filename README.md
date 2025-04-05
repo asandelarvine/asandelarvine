@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what an amazing tool](https://dev.to/taogeegi/what-an-amazing-tool-2mm4)
-- [Unemployed, I felt lost and anxious, and my nighttime dreams became frequent and bizarre](https://dev.to/xie_yujin_362ad63fdfd62ca/unemployed-i-felt-lost-and-anxious-and-my-nighttime-dreams-became-frequent-and-bizarre-4p91)
-- [&quot;Hello C++&quot;](https://dev.to/rohit_juyal_68a5f2251c433/hello-c-3m6i)
-- [🔐 Securing Your Spring Boot Application: JWT, OAuth 1.0, OAuth 2.0, and OpenID Connect Explained with Code](https://dev.to/devcorner/securing-your-spring-boot-application-jwt-oauth-10-oauth-20-and-openid-connect-explained-33k)
+- [Build an Instant HR Policy Q&amp;A Bot with Chainlit](https://dev.to/criticalmynd/stop-drowning-in-hr-questions-build-your-own-ai-policy-bot-with-chainlit-3nj8)
+- [Every CSS Function You Need – With Practical Examples](https://dev.to/web_dev-usman/every-css-function-you-need-with-practical-examples-23h)
+- [List Of Best Artificial Intelligence Companies In Pakistan](https://dev.to/seo_glaxit_8e9af3e01a9970/list-of-best-artificial-intelligence-companies-in-pakistan-2hk2)
+- [Handling Transactions on Large Tables in High-Traffic C# Applications](https://dev.to/syawqy/handling-transactions-on-large-tables-in-high-traffic-c-applications-103m)
 <!-- BLOG-POST-LIST:END -->
 
