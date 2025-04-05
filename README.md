@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AWS Certification Is Best for You?](https://dev.to/nathamuni_nk_af1dd728d76b/which-aws-certification-is-best-for-you-2pfc)
-- [Things to Consider When Developing an SEO-Friendly Website](https://dev.to/seoprog/things-to-consider-when-developing-an-seo-friendly-website-5304)
-- [A Serverless secrets manager demo using Pulumi ESC &lpar;AWS&rpar;](https://dev.to/aniruddhaadak/a-serverless-secrets-manager-demo-using-pulumi-esc-aws-559h)
-- [Lern Javascript With Pineaple](https://dev.to/openpineaplehub/lern-javascript-with-pineaple-56f9)
+- [From AI-powered coding tools to productivity hacks and smart workspace setups, this blog explores how remote developers can boost efficiency, reduce burnout!!](https://dev.to/nikhil_sachapara/from-ai-powered-coding-tools-to-productivity-hacks-and-smart-workspace-setups-this-blog-explores-k8o)
+- [Angular 19: Two-Way Binding with Standalone Components 🚀](https://dev.to/matin676/angular-19-two-way-binding-with-standalone-components-3d6f)
+- [How Developers Can Maximize Productivity While Working Remotely in 2025](https://dev.to/teamcamp/how-developers-can-maximize-productivity-while-working-remotely-in-2025-ied)
+- [How to Scale a Node.js Application for High Performance](https://dev.to/khushii_34ceada974a6bfcc2/how-to-scale-a-nodejs-application-for-high-performance-24il)
 <!-- BLOG-POST-LIST:END -->
 
