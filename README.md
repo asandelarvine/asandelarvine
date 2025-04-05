@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🍪 Basic Cookie Consent vs GDPR-Compliant Cookie Consent — Know the Difference](https://dev.to/devrabiul/basic-cookie-consent-vs-gdpr-compliant-cookie-consent-know-the-difference-and-how-to-implement-2h6j)
-- [🍪 Basic Cookie Consent vs GDPR-Compliant Cookie Consent — Know the Difference &lpar;And How to Implement It in Laravel&rpar;](https://dev.to/devrabiul/basic-cookie-consent-vs-gdpr-compliant-cookie-consent-know-the-difference-and-how-to-implement-59ad)
-- [TETRIS - JS, Socket, Express](https://dev.to/plzbugmenot/tetris-js-socket-express-4c8k)
-- [Floating Point Numbers and Scientific Notation](https://dev.to/nozibul_islam_113b1d5334f/floating-point-numbers-and-scientific-notation-1ih1)
+- [Cómo Euronics Hungary migró sus cargas de SAP a AWS sin downtime](https://dev.to/briansuarezsantiago/como-euronics-hungary-migro-sus-cargas-de-sap-a-aws-sin-downtime-d60)
+- [Specialized Data Types in Python – Unlock Powerful Tools for Real-World Applications!](https://dev.to/python-enthusiast/specialized-data-types-in-python-unlock-powerful-tools-for-real-world-applications-4jhc)
+- [BackEnd only Include Databases and API developement?](https://dev.to/qudduslarix/backend-only-include-databases-and-api-developement-2o7n)
+- [React Context API: The Best Way to Manage Global State?](https://dev.to/devshefali/react-context-api-the-best-way-to-manage-global-state-531n)
 <!-- BLOG-POST-LIST:END -->
 
