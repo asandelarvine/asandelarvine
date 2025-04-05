@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future of Education: The Transformative Power of Mobile Learning](https://dev.to/ghummantech/unlocking-the-future-of-education-the-transformative-power-of-mobile-learning-1kpe)
-- [&quot;Unlocking Neural Networks: Innovative Testing and Smart Contract Upgrades&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-neural-networks-innovative-testing-and-smart-contract-upgrades-4gpi)
-- [Gitcoin: Pioneering Sustainable Open-Source Funding in a Blockchain World](https://dev.to/laetitiaperraut/gitcoin-pioneering-sustainable-open-source-funding-in-a-blockchain-world-1j1i)
-- [agrs and kwargs in python](https://dev.to/lea_abraham_7a0232a6cd616/agrs-and-kwargs-in-python-4e96)
+- [what an amazing tool](https://dev.to/taogeegi/what-an-amazing-tool-2mm4)
+- [Unemployed, I felt lost and anxious, and my nighttime dreams became frequent and bizarre](https://dev.to/xie_yujin_362ad63fdfd62ca/unemployed-i-felt-lost-and-anxious-and-my-nighttime-dreams-became-frequent-and-bizarre-4p91)
+- [&quot;Hello C++&quot;](https://dev.to/rohit_juyal_68a5f2251c433/hello-c-3m6i)
+- [🔐 Securing Your Spring Boot Application: JWT, OAuth 1.0, OAuth 2.0, and OpenID Connect Explained with Code](https://dev.to/devcorner/securing-your-spring-boot-application-jwt-oauth-10-oauth-20-and-openid-connect-explained-33k)
 <!-- BLOG-POST-LIST:END -->
 
