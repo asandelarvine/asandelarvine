@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [is Back-End only Have APIs and DBMS connectivity!?](https://dev.to/qudduslarix/is-back-end-only-have-apis-and-dbms-connectivity-1m5h)
-- [How I Fixed ERR_TOO_MANY_REDIRECTS with Cloudflare + Vercel](https://dev.to/samitkapoor/how-i-fixed-errtoomanyredirects-with-cloudflare-vercel-1dbd)
-- [Learning Elixir: Advanced Control Structures](https://dev.to/abreujp/learning-elixir-advanced-control-structures-132n)
-- [🧩 Questions about general web development. &lpar;Share your knowledge&rpar;](https://dev.to/geanny_deraben_75b1f0f21/questions-about-general-web-development-share-your-knowledge-54nn)
+- [The Power of Graphs: From Social Network Analysis to Disease Tracking](https://dev.to/ritu_gupta2334/the-power-of-graphs-from-social-network-analysis-to-disease-tracking-59ld)
+- [Swift Protocol Magic: Building a Beautiful, Reusable Option Selection System](https://dev.to/salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-37ai)
+- [1- STATEMENTS &amp; OPERATORS](https://dev.to/sudhakar_v_c404997aeec839/1-statements-operators-4bdo)
+- [A Comprehensive Guide on How to Buy DRIP Tokens: Navigating DeFi on Binance Smart Chain](https://dev.to/ashucommits/a-comprehensive-guide-on-how-to-buy-drip-tokens-navigating-defi-on-binance-smart-chain-4bg6)
 <!-- BLOG-POST-LIST:END -->
 
