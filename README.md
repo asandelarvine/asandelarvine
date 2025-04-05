@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Now Hiring: Sac, CA Senior .NET Application Developer](https://dev.to/karen_robison_215f7e0ce30/now-hiring-sac-ca-senior-net-application-developer-407c)
-- [How I Built My First ASP.NET Core API: Project Structure, DTOs, and CRUD Explained](https://dev.to/guzen/how-i-built-my-first-aspnet-core-api-project-structure-dtos-and-crud-explained-97b)
-- [How to Create and Use userChrome.css in Firefox](https://dev.to/jakariyaaa/how-to-create-and-use-userchromecss-in-firefox-26g7)
-- [Java Dead Code Confusion: Is My Sir Right?](https://dev.to/vigneshwaralingam/java-dead-code-confusion-is-my-sir-right-3j7n)
+- [Mastering CSS Video Series: A Structured, Concise Blueprint for Essential Modern CSS](https://dev.to/josemariairiarte/mastering-css-video-series-a-structured-concise-blueprint-for-essential-modern-css-3oi1)
+- [I canceled ChatGPT Plus and built my own offline GPT](https://dev.to/noah_street_d0755cbf9a58d/i-canceled-chatgpt-plus-and-built-my-own-offline-gpt-f6)
+- [SharedArrayBuffer and Atomics](https://dev.to/omriluz1/sharedarraybuffer-and-atomics-27f2)
+- [Never Miss a Service Disruption Again: How I Learned the Hard Way](https://dev.to/statusfield/never-miss-a-service-disruption-again-how-i-learned-the-hard-way-5l)
 <!-- BLOG-POST-LIST:END -->
 
