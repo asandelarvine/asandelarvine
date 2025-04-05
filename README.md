@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Help] Issues integrating AdMob with Expo &lpar;Kotlin version conflict&rpar;](https://dev.to/bceg_26d3b091e0691e32a1d3/help-issues-integrating-admob-with-expo-kotlin-version-conflict-23hb)
-- [Alibaba’s Qwen-32B: The Open-Source AI That Rivals DeepSeek-R1 with Just a Fraction of the Size](https://dev.to/utcli-solutions/alibabas-qwen-32b-the-open-source-ai-that-rivals-deepseek-r1-with-just-a-fraction-of-the-size-414m)
-- [Clojure Is Awesome!!! [PART 22]](https://dev.to/borba/clojure-is-awesome-part-22-412i)
-- [[Boost]](https://dev.to/djhuertasg/-32de)
+- [Centos-PackageManager](https://dev.to/prasanth362k/centos-packagemanager-2728)
+- [Just launched a side project](https://dev.to/gulsher7/just-launched-a-side-project-1odg)
+- [Spring &amp; Validations: Supporting Both Infrastructure and Business Logic](https://dev.to/dejvis_beqiraj/spring-validations-a-flexible-way-that-supports-both-infrastructure-and-business-logic-o6f)
+- [🚀 Introducing Stack Render: Instantly Generate Express + GraphQL APIs from Your ERD](https://dev.to/karim_tamani/introducing-stack-render-instantly-generate-express-graphql-apis-from-your-erd-1881)
 <!-- BLOG-POST-LIST:END -->
 
