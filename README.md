@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitcoin and the Evolution of Web3: Pioneering the Decentralized Future](https://dev.to/jennythomas498/gitcoin-and-the-evolution-of-web3-pioneering-the-decentralized-future-3moe)
-- [game5_VFernanda_imersão](https://dev.to/juniorolivaldo/game5vfernandaimersao-1p3d)
-- [DAY-14 -Static method and Non static method..](https://dev.to/sangamithra_k_78d83d6fb9d/day-14-static-method-and-non-static-method-3h25)
-- [How to group large data into classes using R](https://dev.to/maxwizard01/how-to-group-large-data-into-classes-42mc)
+- [AULA1-LOV](https://dev.to/gabriela_bueno_aafd93378e/aula1-lov-1d54)
+- [Aula02 - fuyuki](https://dev.to/gabriela_bueno_aafd93378e/aula02-fuyuki-1hon)
+- [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
+- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
 <!-- BLOG-POST-LIST:END -->
 
