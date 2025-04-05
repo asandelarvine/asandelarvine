@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Up a RAG Chatbot in Bedrock](https://dev.to/learnwithandres/set-up-a-rag-chatbot-in-bedrock-gib)
-- [Making Animations and Transitions Accessible: A Guide for Developers](https://dev.to/accessibly_speaking/making-animations-and-transitions-accessible-a-guide-for-developers-3ih9)
-- [Fragment Telegram: Bridging Secure Messaging, Open Source, and Blockchain Innovation](https://dev.to/vitalisorenko/fragment-telegram-bridging-secure-messaging-open-source-and-blockchain-innovation-1l5)
-- [Meet Exa: The Modern Replacement for &#39;ls&#39; Every Linux User Needs](https://dev.to/axisinfo_0a61830e06c3c950/meet-exa-the-modern-replacement-for-ls-every-linux-user-needs-31pl)
+- [License-Token: A New Paradigm for OSS Sustainability](https://dev.to/ahmmrizv9/license-token-a-new-paradigm-for-oss-sustainability-3p6a)
+- [Llama 4 Unleashed: Revolutionizing AI with Multimodal Models and Massive Context Windows](https://dev.to/aniruddhaadak/llama-4-unleashed-revolutionizing-ai-with-multimodal-models-and-massive-context-windows-d6p)
+- [Building a Serverless Image Organizer with AWS Rekognition, S3, Lambda &amp; CloudWatch with Terraform](https://dev.to/sin4ch1/building-a-serverless-image-organizer-with-aws-rekognition-s3-lambda-cloudwatch-with-terraform-6mb)
+- [The Uneasy Truth I Found in AI Research](https://dev.to/usamaa/the-uneasy-truth-i-found-in-ai-research-270b)
 <!-- BLOG-POST-LIST:END -->
 
