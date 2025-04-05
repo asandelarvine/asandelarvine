@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuration Management &lpar;Ansible, Chef, Puppet&rpar;](https://dev.to/godofgeeks/configuration-management-ansible-chef-puppet-32i3)
-- [TS1383: Only named exports may use &#39;export type&#39;](https://dev.to/rivkaavraham/ts1383-only-named-exports-may-use-export-type-3jb4)
-- [TS1387: Function type notation must be parenthesized when used in an intersection type](https://dev.to/rivkaavraham/ts1387-function-type-notation-must-be-parenthesized-when-used-in-an-intersection-type-5en7)
-- [TS1386: Constructor type notation must be parenthesized when used in a union type](https://dev.to/rivkaavraham/ts1386-constructor-type-notation-must-be-parenthesized-when-used-in-a-union-type-1g2l)
+- [Unlocking the Future of Education: The Transformative Power of Mobile Learning](https://dev.to/ghummantech/unlocking-the-future-of-education-the-transformative-power-of-mobile-learning-1kpe)
+- [&quot;Unlocking Neural Networks: Innovative Testing and Smart Contract Upgrades&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-neural-networks-innovative-testing-and-smart-contract-upgrades-4gpi)
+- [Gitcoin: Pioneering Sustainable Open-Source Funding in a Blockchain World](https://dev.to/laetitiaperraut/gitcoin-pioneering-sustainable-open-source-funding-in-a-blockchain-world-1j1i)
+- [agrs and kwargs in python](https://dev.to/lea_abraham_7a0232a6cd616/agrs-and-kwargs-in-python-4e96)
 <!-- BLOG-POST-LIST:END -->
 
