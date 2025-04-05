@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Graphs: From Social Network Analysis to Disease Tracking](https://dev.to/ritu_gupta2334/the-power-of-graphs-from-social-network-analysis-to-disease-tracking-59ld)
-- [Swift Protocol Magic: Building a Beautiful, Reusable Option Selection System](https://dev.to/salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-37ai)
-- [1- STATEMENTS &amp; OPERATORS](https://dev.to/sudhakar_v_c404997aeec839/1-statements-operators-4bdo)
-- [A Comprehensive Guide on How to Buy DRIP Tokens: Navigating DeFi on Binance Smart Chain](https://dev.to/ashucommits/a-comprehensive-guide-on-how-to-buy-drip-tokens-navigating-defi-on-binance-smart-chain-4bg6)
+- [[Help] Issues integrating AdMob with Expo &lpar;Kotlin version conflict&rpar;](https://dev.to/bceg_26d3b091e0691e32a1d3/help-issues-integrating-admob-with-expo-kotlin-version-conflict-23hb)
+- [Alibaba’s Qwen-32B: The Open-Source AI That Rivals DeepSeek-R1 with Just a Fraction of the Size](https://dev.to/utcli-solutions/alibabas-qwen-32b-the-open-source-ai-that-rivals-deepseek-r1-with-just-a-fraction-of-the-size-414m)
+- [Clojure Is Awesome!!! [PART 22]](https://dev.to/borba/clojure-is-awesome-part-22-412i)
+- [[Boost]](https://dev.to/djhuertasg/-32de)
 <!-- BLOG-POST-LIST:END -->
 
