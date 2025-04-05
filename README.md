@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HLD vs LLD: The Ultimate System Design Interview Preparation Guide &lpar;2025&rpar;](https://dev.to/devcorner/hld-vs-lld-the-ultimate-system-design-interview-preparation-guide-2025-54do)
-- [Mejorando el git checkout](https://dev.to/juliolinarez/mejorando-el-git-checkout-4h9c)
-- [Mastering JavaScript: The Ultimate Interview Preparation Guide for 2025](https://dev.to/devcorner/title-mastering-javascript-the-ultimate-interview-preparation-guide-for-2025-3f42)
-- [Unlocking the Full Potential of Kong Plugins](https://dev.to/dmaxter/unlocking-the-full-potential-of-kong-plugins-5313)
+- [Now Hiring: Sac, CA Senior .NET Application Developer](https://dev.to/karen_robison_215f7e0ce30/now-hiring-sac-ca-senior-net-application-developer-407c)
+- [How I Built My First ASP.NET Core API: Project Structure, DTOs, and CRUD Explained](https://dev.to/guzen/how-i-built-my-first-aspnet-core-api-project-structure-dtos-and-crud-explained-97b)
+- [How to Create and Use userChrome.css in Firefox](https://dev.to/jakariyaaa/how-to-create-and-use-userchromecss-in-firefox-26g7)
+- [Java Dead Code Confusion: Is My Sir Right?](https://dev.to/vigneshwaralingam/java-dead-code-confusion-is-my-sir-right-3j7n)
 <!-- BLOG-POST-LIST:END -->
 
