@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Instant HR Policy Q&amp;A Bot with Chainlit](https://dev.to/criticalmynd/stop-drowning-in-hr-questions-build-your-own-ai-policy-bot-with-chainlit-3nj8)
-- [Every CSS Function You Need – With Practical Examples](https://dev.to/web_dev-usman/every-css-function-you-need-with-practical-examples-23h)
-- [List Of Best Artificial Intelligence Companies In Pakistan](https://dev.to/seo_glaxit_8e9af3e01a9970/list-of-best-artificial-intelligence-companies-in-pakistan-2hk2)
-- [Handling Transactions on Large Tables in High-Traffic C# Applications](https://dev.to/syawqy/handling-transactions-on-large-tables-in-high-traffic-c-applications-103m)
+- [🍪 Basic Cookie Consent vs GDPR-Compliant Cookie Consent — Know the Difference](https://dev.to/devrabiul/basic-cookie-consent-vs-gdpr-compliant-cookie-consent-know-the-difference-and-how-to-implement-2h6j)
+- [🍪 Basic Cookie Consent vs GDPR-Compliant Cookie Consent — Know the Difference &lpar;And How to Implement It in Laravel&rpar;](https://dev.to/devrabiul/basic-cookie-consent-vs-gdpr-compliant-cookie-consent-know-the-difference-and-how-to-implement-59ad)
+- [TETRIS - JS, Socket, Express](https://dev.to/plzbugmenot/tetris-js-socket-express-4c8k)
+- [Floating Point Numbers and Scientific Notation](https://dev.to/nozibul_islam_113b1d5334f/floating-point-numbers-and-scientific-notation-1ih1)
 <!-- BLOG-POST-LIST:END -->
 
