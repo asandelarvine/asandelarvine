@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Submit a Bounty on Gitcoin: A Comprehensive Guide to Accelerating Open Source Development](https://dev.to/kallileiser/how-to-submit-a-bounty-on-gitcoin-a-comprehensive-guide-to-accelerating-open-source-development-4lg3)
-- [Deploying a Static E-commerce Site to AWS Using Pulumi](https://dev.to/iamsherif/deploying-a-static-e-commerce-site-to-aws-using-pulumi-1nlf)
-- [Day-15: Static vs Non-Static Methods, Global vs Local Variables in Java](https://dev.to/e00049/day-15-static-vs-non-static-methods-global-vs-local-variables-in-java-4mji)
-- [Role-Based Route Permissions in Remix / React Router v7](https://dev.to/princetomarappdev/role-based-route-permissions-in-remix-react-router-v7-1d3j)
+- [Set Up a RAG Chatbot in Bedrock](https://dev.to/learnwithandres/set-up-a-rag-chatbot-in-bedrock-gib)
+- [Making Animations and Transitions Accessible: A Guide for Developers](https://dev.to/accessibly_speaking/making-animations-and-transitions-accessible-a-guide-for-developers-3ih9)
+- [Fragment Telegram: Bridging Secure Messaging, Open Source, and Blockchain Innovation](https://dev.to/vitalisorenko/fragment-telegram-bridging-secure-messaging-open-source-and-blockchain-innovation-1l5)
+- [Meet Exa: The Modern Replacement for &#39;ls&#39; Every Linux User Needs](https://dev.to/axisinfo_0a61830e06c3c950/meet-exa-the-modern-replacement-for-ls-every-linux-user-needs-31pl)
 <!-- BLOG-POST-LIST:END -->
 
