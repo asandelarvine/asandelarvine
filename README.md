@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Next.js 15 and Server Actions: A Deep Dive](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-a-deep-dive-fhn)
-- [SPO600 Project Stage 2, Part 2: &quot;Where Art Thou, Clones?&quot;](https://dev.to/jpjpjp/spo600-project-stage-2-part-2-where-art-thou-clones-3hkf)
-- [Criando uma API OCR com FaaS na Azure – Parte 1: Arquitetura e Upload Seguro](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-1-arquitetura-e-upload-seguro-3616)
-- [Part 2: AI Agent Truly Intelligent?](https://dev.to/ajanthan_hr_c019bb2b72c79/part-2-ai-agent-truly-intelligent-4653)
+- [10 Next.js Performance Tips I Learned from Real Client Projects](https://dev.to/raajaryan/10-nextjs-performance-tips-i-learned-from-real-client-projects-210k)
+- [Getting started with Zustand state management for React](https://dev.to/finalgirl321/getting-started-with-zustand-state-management-for-react-5786)
+- [Creating a Minimal Reddit App with Meteor 3 and Blaze](https://dev.to/kafechew/creating-a-minimal-reddit-app-with-meteor-3-and-blaze-38pm)
+- [CSS Tutorial in 2 Minutes — The Ultimate Guide for Beginners](https://dev.to/code_2/css-tutorial-in-2-minutes-the-ultimate-guide-for-beginners-1lcc)
 <!-- BLOG-POST-LIST:END -->
 
