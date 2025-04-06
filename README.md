@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Next.js Performance Tips I Learned from Real Client Projects](https://dev.to/raajaryan/10-nextjs-performance-tips-i-learned-from-real-client-projects-210k)
-- [Getting started with Zustand state management for React](https://dev.to/finalgirl321/getting-started-with-zustand-state-management-for-react-5786)
-- [Creating a Minimal Reddit App with Meteor 3 and Blaze](https://dev.to/kafechew/creating-a-minimal-reddit-app-with-meteor-3-and-blaze-38pm)
-- [CSS Tutorial in 2 Minutes — The Ultimate Guide for Beginners](https://dev.to/code_2/css-tutorial-in-2-minutes-the-ultimate-guide-for-beginners-1lcc)
+- [How Tokenization Secures Digital Payments – A Deep Dive](https://dev.to/kunal_nandi/how-tokenization-secures-digital-payments-a-deep-dive-15jb)
+- [I proposed an approximate solution to the NP-Hard Minimum Dominating Set Problem for general graphs G = &lpar;V, E&rpar; in O&lpar;|V| log |V| + |E|&rpar;. The experimental findings demonstrate a 2-approximation ratio for this problem providing compelling evidence that P = NP](https://dev.to/frank_vega_987689489099bf/i-proposed-an-approximate-solution-to-the-np-hard-minimum-dominating-set-problem-for-general-graphs-1do2)
+- [SecurePasswordCrypt: Secure AES-GCM Encryption &amp; Password Hashing for .NET Projects](https://dev.to/alwil17/securepasswordcrypt-secure-aes-gcm-encryption-password-hashing-for-net-projects-kap)
+- [Getting Started with GraphQL and React](https://dev.to/debajit13/getting-started-with-graphql-and-react-b5k)
 <!-- BLOG-POST-LIST:END -->
 
