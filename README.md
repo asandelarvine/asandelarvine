@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nipundinuranga/-1p67)
-- [My one stop for solution open source setup of software on Linux](https://dev.to/sammy_cloud/my-one-stop-for-solution-open-source-setup-of-software-on-linux-1cmk)
-- [One SQL Query That Could Destroy Your Entire Database &lpar;And How Hackers Use It&rpar;](https://dev.to/yuvasec/one-sql-query-that-could-destroy-your-entire-database-and-how-hackers-use-it-2ld7)
-- [AltSchool Of Engineering Tinyuka’24 Month 2 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-2-week-2-329d)
+- [Exploring Next.js 15 and Server Actions: A Deep Dive](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-a-deep-dive-fhn)
+- [SPO600 Project Stage 2, Part 2: &quot;Where Art Thou, Clones?&quot;](https://dev.to/jpjpjp/spo600-project-stage-2-part-2-where-art-thou-clones-3hkf)
+- [Criando uma API OCR com FaaS na Azure – Parte 1: Arquitetura e Upload Seguro](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-1-arquitetura-e-upload-seguro-3616)
+- [Part 2: AI Agent Truly Intelligent?](https://dev.to/ajanthan_hr_c019bb2b72c79/part-2-ai-agent-truly-intelligent-4653)
 <!-- BLOG-POST-LIST:END -->
 
