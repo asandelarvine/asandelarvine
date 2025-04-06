@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SWE-bench &amp; SWE-bench Verified Benchmarks](https://dev.to/duplys/swe-bench-swe-bench-verified-benchmarks-1cm)
-- [Aula03-Arquivo0](https://dev.to/lainasantos/aula03-arquivo0-996)
-- [Duplicated Number Remover Tool](https://dev.to/nada2react/duplicated-number-remover-tool-2ibl)
-- [Gamers are leveraging their backlogs to skip the Nintendo Switch 2](https://dev.to/owly/gamers-are-leveraging-their-backlogs-to-skip-the-nintendo-switch-2-324p)
+- [2. Logs](https://dev.to/haaragard/2-logs-cpk)
+- [Refactoring 026 - Migrate Global Console Input to Declarative Function](https://dev.to/mcsee/refactoring-026-migrate-global-console-input-to-declarative-function-29k)
+- [IaC in Action: Deploying a Static Site with Pulumi, AWS &amp; Cloudflare](https://dev.to/onlyfave/iac-in-action-deploying-a-static-site-with-pulumi-aws-cloudflare-29cj)
+- [Commentary on the ThoughtWorks Radar 2025](https://dev.to/jesterxl/commentary-on-the-thoughtworks-radar-2025-gd9)
 <!-- BLOG-POST-LIST:END -->
 
