@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Solve Fizz Buzz With JavaScript](https://dev.to/chikeredev/how-to-solve-fizz-buzz-with-javascript-3gk2)
-- [What is MVC?](https://dev.to/chikeredev/what-is-mvc-58f0)
-- [How to Wait for Page to Load in Puppeteer](https://dev.to/geiger01/how-to-wait-for-page-to-load-in-puppeteer-59dn)
-- [Intl API for Internationalization](https://dev.to/omriluz1/intl-api-for-internationalization-3j20)
+- [SWE-bench &amp; SWE-bench Verified Benchmarks](https://dev.to/duplys/swe-bench-swe-bench-verified-benchmarks-1cm)
+- [Aula03-Arquivo0](https://dev.to/lainasantos/aula03-arquivo0-996)
+- [Duplicated Number Remover Tool](https://dev.to/nada2react/duplicated-number-remover-tool-2ibl)
+- [Gamers are leveraging their backlogs to skip the Nintendo Switch 2](https://dev.to/owly/gamers-are-leveraging-their-backlogs-to-skip-the-nintendo-switch-2-324p)
 <!-- BLOG-POST-LIST:END -->
 
