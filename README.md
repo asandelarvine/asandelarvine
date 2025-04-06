@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognitive Load in UI/UX – Keep It Simple! #CognitiveLoad](https://dev.to/swetty_sultania_834f90237/cognitive-load-in-uiux-keep-it-simple-cognitiveload-42g8)
-- [Open Source Developer Support Networks: Empowering Collaboration and Innovation](https://dev.to/vitalisorenko/open-source-developer-support-networks-empowering-collaboration-and-innovation-124j)
-- [Top 11 Blockchain Startups Revolutionizing Real Estate](https://dev.to/jetthoughts/top-11-blockchain-startups-revolutionizing-real-estate-2ol2)
-- [[Boost]](https://dev.to/karanverma/-5bom)
+- [Meta Just Unveiled Llama 4 Multimodal AI - Proje Defteri](https://dev.to/projedefteri/meta-just-unveiled-llama-4-multimodal-ai-proje-defteri-3jk5)
+- [I Tested Every MCP Client So You Don&#39;t Have To 🔥](https://dev.to/makhlevich/i-tested-every-mcp-client-so-you-dont-have-to-1dn7)
+- [Open Source Funding and Blockchain Project Funding: Building a Community-Driven Future](https://dev.to/jennythomas498/open-source-funding-and-blockchain-project-funding-building-a-community-driven-future-1ebl)
+- [✨ Voices in Tech](https://dev.to/preethi-g/voices-in-tech-366l)
 <!-- BLOG-POST-LIST:END -->
 
