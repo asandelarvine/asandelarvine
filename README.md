@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring SSL Certificate with CLI](https://dev.to/tomcao2012/monitoring-ssl-certificate-with-cli-1n4n)
-- [Portfolio Website](https://dev.to/kartikaysharma2004/portfolio-website-a7e)
-- [Stock Data Extraction Using Apache Kafka](https://dev.to/milcah03/stock-data-extraction-using-apache-kafka-59g0)
-- [Android Manifest file checklist](https://dev.to/tkuenneth/android-manifest-file-checklist-4ne2)
+- [Building a Modern To-Do List App with Dark Mode—Complete Guide](https://dev.to/mohamud_dahirabdi_1ed193/building-a-modern-to-do-list-app-with-dark-mode-complete-guide-fio)
+- [Title: Supersolid Light: The Future of Quantum Computingr?](https://dev.to/asad_hussain_efed8ee765b9/title-supersolid-light-the-future-of-quantum-computingr-2leb)
+- [Deploy Kata Containers in Ubuntu 24.04](https://dev.to/kikifachry/deploy-kata-containers-in-ubuntu-2404-17le)
+- [Why We Still Use Laravel, PHP &amp; jQuery at DoozieSoft — And Why We’re Not Ashamed of It](https://dev.to/doozieakshay/why-we-still-use-laravel-php-jquery-at-dooziesoft-and-why-were-not-ashamed-of-it-5dbd)
 <!-- BLOG-POST-LIST:END -->
 
