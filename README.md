@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Programming: Building my first Full-Stack Application](https://dev.to/desiii_notfound/my-journey-to-programming-building-my-first-full-stack-application-51k4)
-- [Why JSONsilo is Perfect for Prototyping and Small Projects](https://dev.to/jaironlanda/why-jsonsilo-is-perfect-for-prototyping-and-small-projects-1h8b)
-- [🚗 Help Wanted: Admin CMS for Car Listing Platform](https://dev.to/andreas_2630/help-wanted-admin-cms-for-car-listing-platform-2633)
-- [📱 RadhaSphere Wallet – The Wallet UX We Deserve](https://dev.to/omniradhanexus/radhasphere-wallet-the-wallet-ux-we-deserve-3f6n)
+- [Monitoring SSL Certificate with CLI](https://dev.to/tomcao2012/monitoring-ssl-certificate-with-cli-1n4n)
+- [Portfolio Website](https://dev.to/kartikaysharma2004/portfolio-website-a7e)
+- [Stock Data Extraction Using Apache Kafka](https://dev.to/milcah03/stock-data-extraction-using-apache-kafka-59g0)
+- [Android Manifest file checklist](https://dev.to/tkuenneth/android-manifest-file-checklist-4ne2)
 <!-- BLOG-POST-LIST:END -->
 
