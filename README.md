@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Engineering para Embeddings com SparkML e MLFlow no Databricks Experiments](https://dev.to/airton_lirajunior_2ddebd/feature-engineering-para-embeddings-com-sparkml-e-mlflow-no-databricks-experiments-4hfp)
-- [The Three Tiers - Performance Options](https://dev.to/davinceleecode/the-three-tiers-performance-options-42gi)
-- [Mastering Custom Hooks in React – A Beginner’s Guide 🪝](https://dev.to/maheshg_11/mastering-custom-hooks-in-react-a-beginners-guide-26nn)
-- [Flutter Error AGP](https://dev.to/fares_mohamed/flutter-error-agp-53eg)
+- [Multi-Tenant Architecture: A Complete Guide &lpar;Basic to Advanced&rpar;](https://dev.to/tak089/multi-tenant-architecture-a-complete-guide-basic-to-advanced-119o)
+- [Implementing WebAuthn: 6 Practical Techniques for Passwordless Authentication](https://dev.to/aaravjoshi/implementing-webauthn-6-practical-techniques-for-passwordless-authentication-1la3)
+- [Bootstrap 5 dialogs for ASP .NET Core/C# using ChatGPT](https://dev.to/karenpayneoregon/bootstrap-5-dialogs-for-aspnet-corec-using-chatgpt-3k27)
+- [Aula03-Arquivo0](https://dev.to/naiara_santos_c09fdf6b932/aula03-arquivo0-1fml)
 <!-- BLOG-POST-LIST:END -->
 
