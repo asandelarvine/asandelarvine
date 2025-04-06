@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Just Unveiled Llama 4 Multimodal AI - Proje Defteri](https://dev.to/projedefteri/meta-just-unveiled-llama-4-multimodal-ai-proje-defteri-3jk5)
-- [I Tested Every MCP Client So You Don&#39;t Have To 🔥](https://dev.to/makhlevich/i-tested-every-mcp-client-so-you-dont-have-to-1dn7)
-- [Open Source Funding and Blockchain Project Funding: Building a Community-Driven Future](https://dev.to/jennythomas498/open-source-funding-and-blockchain-project-funding-building-a-community-driven-future-1ebl)
-- [✨ Voices in Tech](https://dev.to/preethi-g/voices-in-tech-366l)
+- [Making an Effective Application Security Program: Strategies, methods and tools for the best outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-4ekl)
+- [The art of creating an effective application security Program: Strategies, Methods and Tools for the Best Performance](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tools-for-ke7)
+- [How to create an effective application security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-for-2e1k)
+- [Meta Unveils Llama 4 Scout and Maverick](https://dev.to/justin_downes/meta-unveils-llama-4-scout-and-maverick-4g87)
 <!-- BLOG-POST-LIST:END -->
 
