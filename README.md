@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Tokenization Secures Digital Payments – A Deep Dive](https://dev.to/kunal_nandi/how-tokenization-secures-digital-payments-a-deep-dive-15jb)
-- [I proposed an approximate solution to the NP-Hard Minimum Dominating Set Problem for general graphs G = &lpar;V, E&rpar; in O&lpar;|V| log |V| + |E|&rpar;. The experimental findings demonstrate a 2-approximation ratio for this problem providing compelling evidence that P = NP](https://dev.to/frank_vega_987689489099bf/i-proposed-an-approximate-solution-to-the-np-hard-minimum-dominating-set-problem-for-general-graphs-1do2)
-- [SecurePasswordCrypt: Secure AES-GCM Encryption &amp; Password Hashing for .NET Projects](https://dev.to/alwil17/securepasswordcrypt-secure-aes-gcm-encryption-password-hashing-for-net-projects-kap)
-- [Getting Started with GraphQL and React](https://dev.to/debajit13/getting-started-with-graphql-and-react-b5k)
+- [Visualize System Metrics with Grafana &amp; Prometheus in Docker](https://dev.to/rajeshwari_vakharia_fdcc7/visualize-system-metrics-with-grafana-prometheus-in-docker-31mp)
+- [Open Source Monetization: Challenges, Strategies, and Future Trends](https://dev.to/jennythomas498/open-source-monetization-challenges-strategies-and-future-trends-4715)
+- [I published a book about HTTP — it&#39;s free now &lpar;in German&rpar;](https://dev.to/chrdiede/i-published-a-book-about-http-its-free-now-in-german-2dc)
+- [Alien Dictionary](https://dev.to/rohithv07/alien-dictionary-2jjb)
 <!-- BLOG-POST-LIST:END -->
 
