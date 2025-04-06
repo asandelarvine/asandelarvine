@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2. Logs](https://dev.to/haaragard/2-logs-cpk)
-- [Refactoring 026 - Migrate Global Console Input to Declarative Function](https://dev.to/mcsee/refactoring-026-migrate-global-console-input-to-declarative-function-29k)
-- [IaC in Action: Deploying a Static Site with Pulumi, AWS &amp; Cloudflare](https://dev.to/onlyfave/iac-in-action-deploying-a-static-site-with-pulumi-aws-cloudflare-29cj)
-- [Commentary on the ThoughtWorks Radar 2025](https://dev.to/jesterxl/commentary-on-the-thoughtworks-radar-2025-gd9)
+- [calculadora de inss .](https://dev.to/paulo_roberto_91f7f091c42/calculadora-de-inss--3b66)
+- [TEST](https://dev.to/rudrabhardwaj/test-d2)
+- [Como simplifiquei um processo em Museologia com uma solução digital](https://dev.to/vitoriazzp/como-simplifiquei-um-processo-em-museologia-com-uma-solucao-digital-c92)
+- [06/04/2025](https://dev.to/whamdot/06042025-1glf)
 <!-- BLOG-POST-LIST:END -->
 
