@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [License-Token: A New Paradigm for OSS Sustainability](https://dev.to/ahmmrizv9/license-token-a-new-paradigm-for-oss-sustainability-3p6a)
-- [Llama 4 Unleashed: Revolutionizing AI with Multimodal Models and Massive Context Windows](https://dev.to/aniruddhaadak/llama-4-unleashed-revolutionizing-ai-with-multimodal-models-and-massive-context-windows-d6p)
-- [Building a Serverless Image Organizer with AWS Rekognition, S3, Lambda &amp; CloudWatch with Terraform](https://dev.to/sin4ch1/building-a-serverless-image-organizer-with-aws-rekognition-s3-lambda-cloudwatch-with-terraform-6mb)
-- [The Uneasy Truth I Found in AI Research](https://dev.to/usamaa/the-uneasy-truth-i-found-in-ai-research-270b)
+- [[Boost]](https://dev.to/nipundinuranga/-1p67)
+- [My one stop for solution open source setup of software on Linux](https://dev.to/sammy_cloud/my-one-stop-for-solution-open-source-setup-of-software-on-linux-1cmk)
+- [One SQL Query That Could Destroy Your Entire Database &lpar;And How Hackers Use It&rpar;](https://dev.to/yuvasec/one-sql-query-that-could-destroy-your-entire-database-and-how-hackers-use-it-2ld7)
+- [AltSchool Of Engineering Tinyuka’24 Month 2 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-2-week-2-329d)
 <!-- BLOG-POST-LIST:END -->
 
