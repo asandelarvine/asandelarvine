@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Resource Manager &lpar;ARM&rpar; Templates](https://dev.to/godofgeeks/azure-resource-manager-arm-templates-gel)
-- [A beginner&#39;s guide to the Kokoro-82m model by Jaaari on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-kokoro-82m-model-by-jaaari-on-replicate-l6)
-- [Unity Learning Note&lpar;CHN&rpar; 1](https://dev.to/alexzander_khan_paul/unity-learning-notechn-1-367a)
-- [100 DevOps Interview Questions and Answers for 2025](https://dev.to/devlinkstudios/100-devops-interview-questions-and-answers-for-2025-588j)
+- [📱 RadhaSphere Wallet – The Wallet UX We Deserve](https://dev.to/omniradhanexus/radhasphere-wallet-the-wallet-ux-we-deserve-3f6n)
+- [&quot;Unlocking Reliability: Testing Neural Networks for Critical Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-reliability-testing-neural-networks-for-critical-systems-3607)
+- [From Frontend to Go: Why I’m Switching Gears](https://dev.to/ullas0bito/from-frontend-to-go-why-im-switching-gears-1087)
+- [11 Step Checklist for Internationalizing a Website](https://dev.to/wimadev/11-step-checklist-for-internationalizing-a-website-4mof)
 <!-- BLOG-POST-LIST:END -->
 
