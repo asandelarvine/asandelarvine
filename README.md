@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey to Programming: Building my first Full-Stack Application](https://dev.to/desiii_notfound/my-journey-to-programming-building-my-first-full-stack-application-51k4)
+- [Why JSONsilo is Perfect for Prototyping and Small Projects](https://dev.to/jaironlanda/why-jsonsilo-is-perfect-for-prototyping-and-small-projects-1h8b)
+- [🚗 Help Wanted: Admin CMS for Car Listing Platform](https://dev.to/andreas_2630/help-wanted-admin-cms-for-car-listing-platform-2633)
 - [📱 RadhaSphere Wallet – The Wallet UX We Deserve](https://dev.to/omniradhanexus/radhasphere-wallet-the-wallet-ux-we-deserve-3f6n)
-- [&quot;Unlocking Reliability: Testing Neural Networks for Critical Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-reliability-testing-neural-networks-for-critical-systems-3607)
-- [From Frontend to Go: Why I’m Switching Gears](https://dev.to/ullas0bito/from-frontend-to-go-why-im-switching-gears-1087)
-- [11 Step Checklist for Internationalizing a Website](https://dev.to/wimadev/11-step-checklist-for-internationalizing-a-website-4mof)
 <!-- BLOG-POST-LIST:END -->
 
