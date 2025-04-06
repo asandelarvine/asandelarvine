@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize System Metrics with Grafana &amp; Prometheus in Docker](https://dev.to/rajeshwari_vakharia_fdcc7/visualize-system-metrics-with-grafana-prometheus-in-docker-31mp)
-- [Open Source Monetization: Challenges, Strategies, and Future Trends](https://dev.to/jennythomas498/open-source-monetization-challenges-strategies-and-future-trends-4715)
-- [I published a book about HTTP — it&#39;s free now &lpar;in German&rpar;](https://dev.to/chrdiede/i-published-a-book-about-http-its-free-now-in-german-2dc)
-- [Alien Dictionary](https://dev.to/rohithv07/alien-dictionary-2jjb)
+- [Azure Resource Manager &lpar;ARM&rpar; Templates](https://dev.to/godofgeeks/azure-resource-manager-arm-templates-gel)
+- [A beginner&#39;s guide to the Kokoro-82m model by Jaaari on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-kokoro-82m-model-by-jaaari-on-replicate-l6)
+- [Unity Learning Note&lpar;CHN&rpar; 1](https://dev.to/alexzander_khan_paul/unity-learning-notechn-1-367a)
+- [100 DevOps Interview Questions and Answers for 2025](https://dev.to/devlinkstudios/100-devops-interview-questions-and-answers-for-2025-588j)
 <!-- BLOG-POST-LIST:END -->
 
