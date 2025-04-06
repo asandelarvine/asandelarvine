@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making an Effective Application Security Program: Strategies, methods and tools for the best outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-4ekl)
-- [The art of creating an effective application security Program: Strategies, Methods and Tools for the Best Performance](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tools-for-ke7)
-- [How to create an effective application security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-for-2e1k)
-- [Meta Unveils Llama 4 Scout and Maverick](https://dev.to/justin_downes/meta-unveils-llama-4-scout-and-maverick-4g87)
+- [Feature Engineering para Embeddings com SparkML e MLFlow no Databricks Experiments](https://dev.to/airton_lirajunior_2ddebd/feature-engineering-para-embeddings-com-sparkml-e-mlflow-no-databricks-experiments-4hfp)
+- [The Three Tiers - Performance Options](https://dev.to/davinceleecode/the-three-tiers-performance-options-42gi)
+- [Mastering Custom Hooks in React – A Beginner’s Guide 🪝](https://dev.to/maheshg_11/mastering-custom-hooks-in-react-a-beginners-guide-26nn)
+- [Flutter Error AGP](https://dev.to/fares_mohamed/flutter-error-agp-53eg)
 <!-- BLOG-POST-LIST:END -->
 
