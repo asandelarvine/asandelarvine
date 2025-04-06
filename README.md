@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World! Just started coding at Python!](https://dev.to/drdablack/hello-worldjust-started-coding-at-python-4lea)
-- [Blockchain for Charity and Non-Profits: Revolutionizing Social Impact with Transparency, Efficiency, and Open Source Innovation](https://dev.to/kallileiser/blockchain-for-charity-and-non-profits-revolutionizing-social-impact-with-transparency-p5m)
-- [Prototype Map](https://dev.to/angeloman87/prototype-map-42k3)
-- [Um breve estudo sobre observabilidade](https://dev.to/haaragard/um-breve-estudo-sobre-observabilidade-48cf)
+- [You can reduce the size of web applications several times using these tips 🔥](https://dev.to/hmpljs/you-can-reduce-the-size-of-web-applications-several-times-using-these-tips-28j)
+- [Analyst AI: A Founder&#39;s Journey to Revolutionize Market Research](https://dev.to/prajwal_vv/analyst-ai-a-founders-journey-to-revolutionize-market-research-31l8)
+- [Pip](https://dev.to/anthonybanion/pip-224d)
+- [Pulumi ESC Config: Simplify Your Local Configuration Management](https://dev.to/ion_finisher/pulumi-esc-config-simplify-your-local-configuration-management-40jk)
 <!-- BLOG-POST-LIST:END -->
 
