@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern To-Do List App with Dark Mode—Complete Guide](https://dev.to/mohamud_dahirabdi_1ed193/building-a-modern-to-do-list-app-with-dark-mode-complete-guide-fio)
-- [Title: Supersolid Light: The Future of Quantum Computingr?](https://dev.to/asad_hussain_efed8ee765b9/title-supersolid-light-the-future-of-quantum-computingr-2leb)
-- [Deploy Kata Containers in Ubuntu 24.04](https://dev.to/kikifachry/deploy-kata-containers-in-ubuntu-2404-17le)
-- [Why We Still Use Laravel, PHP &amp; jQuery at DoozieSoft — And Why We’re Not Ashamed of It](https://dev.to/doozieakshay/why-we-still-use-laravel-php-jquery-at-dooziesoft-and-why-were-not-ashamed-of-it-5dbd)
+- [Cognitive Load in UI/UX – Keep It Simple! #CognitiveLoad](https://dev.to/swetty_sultania_834f90237/cognitive-load-in-uiux-keep-it-simple-cognitiveload-42g8)
+- [Open Source Developer Support Networks: Empowering Collaboration and Innovation](https://dev.to/vitalisorenko/open-source-developer-support-networks-empowering-collaboration-and-innovation-124j)
+- [Top 11 Blockchain Startups Revolutionizing Real Estate](https://dev.to/jetthoughts/top-11-blockchain-startups-revolutionizing-real-estate-2ol2)
+- [[Boost]](https://dev.to/karanverma/-5bom)
 <!-- BLOG-POST-LIST:END -->
 
