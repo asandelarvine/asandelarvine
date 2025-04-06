@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Reasons Why You Need a Status Page Aggregator](https://dev.to/incidenthub/top-6-reasons-why-you-need-a-status-page-aggregator-5a2m)
-- [Linux İşletim Sisteminde Malware Analizi](https://dev.to/abdulkadir_gungor/linux-isletim-sisteminde-malware-analizi-56on)
-- [Building an FPL Transfer RAG Agent using Amazon Bedrock](https://dev.to/delaneys/building-an-fpl-transfer-rag-agent-using-amazon-bedrock-3k05)
-- [A Smarter Way to Run AppImages &lpar;Without the Rename Game&rpar;](https://dev.to/whoismikey/a-smarter-way-to-run-appimages-without-the-rename-game-4ija)
+- [Hello World! Just started coding at Python!](https://dev.to/drdablack/hello-worldjust-started-coding-at-python-4lea)
+- [Blockchain for Charity and Non-Profits: Revolutionizing Social Impact with Transparency, Efficiency, and Open Source Innovation](https://dev.to/kallileiser/blockchain-for-charity-and-non-profits-revolutionizing-social-impact-with-transparency-p5m)
+- [Prototype Map](https://dev.to/angeloman87/prototype-map-42k3)
+- [Um breve estudo sobre observabilidade](https://dev.to/haaragard/um-breve-estudo-sobre-observabilidade-48cf)
 <!-- BLOG-POST-LIST:END -->
 
