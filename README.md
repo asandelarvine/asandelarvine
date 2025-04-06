@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You can reduce the size of web applications several times using these tips 🔥](https://dev.to/hmpljs/you-can-reduce-the-size-of-web-applications-several-times-using-these-tips-28j)
-- [Analyst AI: A Founder&#39;s Journey to Revolutionize Market Research](https://dev.to/prajwal_vv/analyst-ai-a-founders-journey-to-revolutionize-market-research-31l8)
-- [Pip](https://dev.to/anthonybanion/pip-224d)
-- [Pulumi ESC Config: Simplify Your Local Configuration Management](https://dev.to/ion_finisher/pulumi-esc-config-simplify-your-local-configuration-management-40jk)
+- [How To Solve Fizz Buzz With JavaScript](https://dev.to/chikeredev/how-to-solve-fizz-buzz-with-javascript-3gk2)
+- [What is MVC?](https://dev.to/chikeredev/what-is-mvc-58f0)
+- [How to Wait for Page to Load in Puppeteer](https://dev.to/geiger01/how-to-wait-for-page-to-load-in-puppeteer-59dn)
+- [Intl API for Internationalization](https://dev.to/omriluz1/intl-api-for-internationalization-3j20)
 <!-- BLOG-POST-LIST:END -->
 
