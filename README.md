@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Fixing &quot;Invalid image file&quot; Error When Uploading Videos to Cloudinary with Next.js](https://dev.to/nahom_kasa_a3859f822d2b4c/fixing-invalid-image-file-error-when-uploading-videos-to-cloudinary-with-nextjs-3bae)
-- [AI in Regression Testing: Speeding Up Releases Without Compromising Quality](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-in-regression-testing-speeding-up-releases-without-compromising-quality-50lc)
-- [Pour Your Heart Into It](https://dev.to/getjv/pour-your-heart-into-it-13gc)
-- [The role of Python in real time computer vision and image recognition tasks](https://dev.to/marufhossain/the-role-of-python-in-real-time-computer-vision-and-image-recognition-tasks-58an)
+- [Agents vs MCPs: Is the AI Hype Shifting?](https://dev.to/bekahhw/agents-vs-mcps-is-the-ai-hype-shifting-4593)
+- [Best Proxies for Web Scrapers in 2025](https://dev.to/crawlbase/best-proxies-for-web-scrapers-in-2025-10o1)
+- [From scratch. Nice one!](https://dev.to/rangaraj_shanmugam_226482/from-scratch-nice-one-4adf)
+- [Building an ELT Pipeline with Python and SQL Server: A Netflix Dataset Walkthrough](https://dev.to/oramirezperera/building-an-elt-pipeline-with-python-and-sql-server-a-netflix-dataset-walkthrough-3hje)
 <!-- BLOG-POST-LIST:END -->
 
