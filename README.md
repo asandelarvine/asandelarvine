@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS com Super Poderes: Uma Introdução ao SASS](https://dev.to/joaobatistajr/css-com-super-poderes-uma-introducao-ao-sass-ekd)
-- [Open Source Funding Platforms: Empowering Innovation and Collaboration](https://dev.to/ashucommits/open-source-funding-platforms-empowering-innovation-and-collaboration-ldc)
-- [STEP-BY-STEP GUIDE: Lambda + CRR + EC2 Control + SNS &lpar;Email&rpar;](https://dev.to/leonardkachi/step-by-step-guide-lambda-crr-ec2-control-sns-email-n3c)
-- [P.D.R.G.: The Pimp-Daddy Alternative to readme.so](https://dev.to/steven_j_blair/pdrg-the-pimp-daddy-alternative-to-readmeso-2m5a)
+- [River tile exploration](https://dev.to/magipunk/river-tile-exploration-ec0)
+- [Why Debouncing Still Matters](https://dev.to/davinceleecode/why-debouncing-still-matters-43j8)
+- [🎉 Apache Ambari 3.0.0 Released: A New Chapter in Hadoop Cluster Management](https://dev.to/jialiang_cai_9eff69bf9807/apache-ambari-300-released-a-new-chapter-in-hadoop-cluster-management-4k4o)
+- [Quiz english app](https://dev.to/paulo_roberto_91f7f091c42/quiz-english-app-26i5)
 <!-- BLOG-POST-LIST:END -->
 
