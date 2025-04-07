@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Animations: From Beginner Basics to Heroic Transitions](https://dev.to/destinyed/flutter-animations-from-beginner-basics-to-heroic-transitions-1adf)
-- [Day 6 Towards my Career](https://dev.to/vaishu_gajula_cb977a66e8a/day-6-towards-my-career-12bj)
-- [Clerk, Webhooks, and Svix — A Story You&#39;ll Never Forget](https://dev.to/nahom_kasa_a3859f822d2b4c/clerk-webhooks-and-svix-a-story-youll-never-forget-2bg4)
-- [Performance optimization using React-Compiler](https://dev.to/rohit_khatri302/performance-optimization-using-react-compiler-31c1)
+- [React API: Best Practices for Building Large-Scale Applications](https://dev.to/buttercms/react-api-best-practices-for-building-large-scale-applications-blc)
+- [Small models for the win!](https://dev.to/kwnaidoo/small-models-for-the-win-e8k)
+- [Swiss trail closures to Locus](https://dev.to/michalbryxi/swiss-trail-closures-to-locus-3e71)
+- [[Boost]](https://dev.to/aymanepraxe/-2n66)
 <!-- BLOG-POST-LIST:END -->
 
