@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Position Elements Using CSS](https://dev.to/thedevspace/how-to-position-elements-using-css-5503)
-- [How to send transaction that is shown as outgoing to receiver?](https://dev.to/lukars123/how-to-send-transaction-that-is-shown-as-outgoing-to-receiver-5dc9)
-- [Static method and Non Static method](https://dev.to/jeya_lakshmi_c417e8c65649/static-method-and-non-static-method-1alc)
-- [REST API CRUD with DJANGO](https://dev.to/vytroo_e77e89f49d4188b8fa/rest-api-crud-with-django-ep7)
+- [💥 Fixing &quot;Invalid image file&quot; Error When Uploading Videos to Cloudinary with Next.js](https://dev.to/nahom_kasa_a3859f822d2b4c/fixing-invalid-image-file-error-when-uploading-videos-to-cloudinary-with-nextjs-3bae)
+- [AI in Regression Testing: Speeding Up Releases Without Compromising Quality](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-in-regression-testing-speeding-up-releases-without-compromising-quality-50lc)
+- [Pour Your Heart Into It](https://dev.to/getjv/pour-your-heart-into-it-13gc)
+- [The role of Python in real time computer vision and image recognition tasks](https://dev.to/marufhossain/the-role-of-python-in-real-time-computer-vision-and-image-recognition-tasks-58an)
 <!-- BLOG-POST-LIST:END -->
 
