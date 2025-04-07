@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming local git branches](https://dev.to/joestrout/taming-local-git-branches-4nd9)
-- [Finite State Machines no React: Gerenciado Estados de Forma Elegante](https://dev.to/judsonkerller/finite-state-machines-no-react-gerenciado-estados-de-forma-elegante-m7b)
-- [Além do Código: DevOps, Cloud e Segurança com Glaucia Lemos &lpar;Developer Advocate na Microsoft&rpar;](https://dev.to/womakerscode/alem-do-codigo-devops-cloud-e-seguranca-com-glaucia-lemos-developer-advocate-na-microsoft-12h4)
-- [How to Build an AI-Powered UI Component in Vue 3](https://dev.to/yahav10/how-to-build-an-ai-powered-ui-component-in-vue-3-5b91)
+- [Copilot Code Reviewer - What&#39;s your experience been like? Worth it?](https://dev.to/iammtander/copilot-code-reviewer-whats-your-experience-been-like-worth-it-235d)
+- [This is really fun](https://dev.to/neusacodes/this-is-really-fun-250p)
+- [Hacking Ético, Kali Linux y Metasploitable 3: Conceptos Claves](https://dev.to/ezavalar/hacking-etico-kali-linux-y-metasploitable-3-conceptos-claves-4mi3)
+- [Into the Spider-verse: Maybe the best movie soundtrack of all time?](https://dev.to/ben/into-the-spider-verse-maybe-the-best-movie-soundtrack-of-all-time-393f)
 <!-- BLOG-POST-LIST:END -->
 
