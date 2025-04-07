@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 07 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-07-april-4ked)
-- [Better input method for C#](https://dev.to/pradcode/better-input-method-for-c-4hnb)
-- [เข้าใจ Uniform Cost Search แบบง่าย ๆ พร้อมตัวอย่างเส้นทางการเดินทางที่มีต้นทุนน้อยที่สุด](https://dev.to/prattraphorn_hiruntiwakul/ekhaaaicch-uniform-cost-search-aebbngaay-phrmtawyaangesnthaangkaaredinthaangthiimiitnthunnythiisud-1jkn)
-- [Predicting Band Gaps for Next-Gen Lithium-Ion Batteries with Machine Learning](https://dev.to/darkstalker/predicting-band-gaps-for-next-gen-lithium-ion-batteries-with-machine-learning-7g0)
+- [How to Position Elements Using CSS](https://dev.to/thedevspace/how-to-position-elements-using-css-5503)
+- [How to send transaction that is shown as outgoing to receiver?](https://dev.to/lukars123/how-to-send-transaction-that-is-shown-as-outgoing-to-receiver-5dc9)
+- [Static method and Non Static method](https://dev.to/jeya_lakshmi_c417e8c65649/static-method-and-non-static-method-1alc)
+- [REST API CRUD with DJANGO](https://dev.to/vytroo_e77e89f49d4188b8fa/rest-api-crud-with-django-ep7)
 <!-- BLOG-POST-LIST:END -->
 
