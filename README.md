@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code, Coffee, and AI: How Machine Learning is Supercharging Developer Productivity in 2025](https://dev.to/teamcamp/code-coffee-and-ai-how-machine-learning-is-supercharging-developer-productivity-in-2025-2icn)
-- [Why react deprecated react-react-app ?](https://dev.to/sohillalakiya/why-react-deprecated-react-react-app--le6)
-- [Day 17: Arguments and Parameters](https://dev.to/sangamithra_k_78d83d6fb9d/day-17-arguments-and-parameters-30m4)
-- [Building a CAGED System Visualization: Guitar Theory Interactive Guide](https://dev.to/radzion/building-a-caged-system-visualization-guitar-theory-interactive-guide-3lgd)
+- [Making an Effective Application Security Program: Strategies, methods and tools for optimal results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-results-54aa)
+- [Excited to Be Here](https://dev.to/karthikeyan_n_d1ca77b06df/excited-to-be-here-409c)
+- [Implementing an effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-554o)
+- [Building Native Mobile Apps with Next.js 14 and Capacitor: A Step-by-Step Guide](https://dev.to/nakib_saiyad/building-native-mobile-apps-with-nextjs-14-and-capacitor-a-step-by-step-guide-1kif)
 <!-- BLOG-POST-LIST:END -->
 
