@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React API: Best Practices for Building Large-Scale Applications](https://dev.to/buttercms/react-api-best-practices-for-building-large-scale-applications-blc)
-- [Small models for the win!](https://dev.to/kwnaidoo/small-models-for-the-win-e8k)
-- [Swiss trail closures to Locus](https://dev.to/michalbryxi/swiss-trail-closures-to-locus-3e71)
-- [[Boost]](https://dev.to/aymanepraxe/-2n66)
+- [How I Built My Own User Feedback Platform](https://dev.to/shayy/how-i-built-my-own-user-feedback-platform-2kf4)
+- [How to Build a Python app with PyInstaller using Jenkins.](https://dev.to/olalekan_oladiran_d74b7a6/how-to-build-a-python-app-with-pyinstaller-using-jenkins-349k)
+- [Implementing Drag &amp; Drop File Uploads in React Without External Libraries](https://dev.to/hexshift/implementing-drag-drop-file-uploads-in-react-without-external-libraries-1d31)
+- [Migrating from Node.js to Go: Real-world Results from Our E-commerce Analytics Pipeline](https://dev.to/absami10/migrating-from-nodejs-to-go-real-world-results-from-our-e-commerce-analytics-pipeline-34fb)
 <!-- BLOG-POST-LIST:END -->
 
