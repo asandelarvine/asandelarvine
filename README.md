@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making an Effective Application Security Program: Strategies, methods and tools for optimal results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-results-54aa)
-- [Excited to Be Here](https://dev.to/karthikeyan_n_d1ca77b06df/excited-to-be-here-409c)
-- [Implementing an effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-554o)
-- [Building Native Mobile Apps with Next.js 14 and Capacitor: A Step-by-Step Guide](https://dev.to/nakib_saiyad/building-native-mobile-apps-with-nextjs-14-and-capacitor-a-step-by-step-guide-1kif)
+- [SNMP Monitoring: The Complete Guide](https://dev.to/uptrace/snmp-monitoring-the-complete-guide-n94)
+- [AI Won&#39;t Save Your Team - Unless You&#39;re Willing to Change, Bit by Bit](https://dev.to/network_intelligence_25e4/ai-wont-save-your-team-unless-youre-willing-to-change-bit-by-bit-34bp)
+- [Unlock Your Global Career: Top 25 Remote Job Sites Paying in USD for 2025 🌎💰](https://dev.to/wildshark/unlock-your-global-career-top-25-remote-job-sites-paying-in-usd-for-2025-4kh7)
+- [Balancing Automation and Expertise in Machine Learning with AutoML](https://dev.to/levitation_infotech/balancing-automation-and-expertise-in-machine-learning-with-automl-4i0g)
 <!-- BLOG-POST-LIST:END -->
 
