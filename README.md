@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Own User Feedback Platform](https://dev.to/shayy/how-i-built-my-own-user-feedback-platform-2kf4)
-- [How to Build a Python app with PyInstaller using Jenkins.](https://dev.to/olalekan_oladiran_d74b7a6/how-to-build-a-python-app-with-pyinstaller-using-jenkins-349k)
-- [Implementing Drag &amp; Drop File Uploads in React Without External Libraries](https://dev.to/hexshift/implementing-drag-drop-file-uploads-in-react-without-external-libraries-1d31)
-- [Migrating from Node.js to Go: Real-world Results from Our E-commerce Analytics Pipeline](https://dev.to/absami10/migrating-from-nodejs-to-go-real-world-results-from-our-e-commerce-analytics-pipeline-34fb)
+- [Taming local git branches](https://dev.to/joestrout/taming-local-git-branches-4nd9)
+- [Finite State Machines no React: Gerenciado Estados de Forma Elegante](https://dev.to/judsonkerller/finite-state-machines-no-react-gerenciado-estados-de-forma-elegante-m7b)
+- [Além do Código: DevOps, Cloud e Segurança com Glaucia Lemos &lpar;Developer Advocate na Microsoft&rpar;](https://dev.to/womakerscode/alem-do-codigo-devops-cloud-e-seguranca-com-glaucia-lemos-developer-advocate-na-microsoft-12h4)
+- [How to Build an AI-Powered UI Component in Vue 3](https://dev.to/yahav10/how-to-build-an-ai-powered-ui-component-in-vue-3-5b91)
 <!-- BLOG-POST-LIST:END -->
 
