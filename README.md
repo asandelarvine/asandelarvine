@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [River tile exploration](https://dev.to/magipunk/river-tile-exploration-ec0)
-- [Why Debouncing Still Matters](https://dev.to/davinceleecode/why-debouncing-still-matters-43j8)
-- [🎉 Apache Ambari 3.0.0 Released: A New Chapter in Hadoop Cluster Management](https://dev.to/jialiang_cai_9eff69bf9807/apache-ambari-300-released-a-new-chapter-in-hadoop-cluster-management-4k4o)
-- [Quiz english app](https://dev.to/paulo_roberto_91f7f091c42/quiz-english-app-26i5)
+- [Code, Coffee, and AI: How Machine Learning is Supercharging Developer Productivity in 2025](https://dev.to/teamcamp/code-coffee-and-ai-how-machine-learning-is-supercharging-developer-productivity-in-2025-2icn)
+- [Why react deprecated react-react-app ?](https://dev.to/sohillalakiya/why-react-deprecated-react-react-app--le6)
+- [Day 17: Arguments and Parameters](https://dev.to/sangamithra_k_78d83d6fb9d/day-17-arguments-and-parameters-30m4)
+- [Building a CAGED System Visualization: Guitar Theory Interactive Guide](https://dev.to/radzion/building-a-caged-system-visualization-guitar-theory-interactive-guide-3lgd)
 <!-- BLOG-POST-LIST:END -->
 
