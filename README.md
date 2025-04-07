@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of PHP Version Hell? ServBay Makes Multi-Version Management a Breeze](https://dev.to/cathyclark/tired-of-php-version-hell-servbay-makes-multi-version-management-a-breeze-2k44)
-- [Deduplicate between an uncertain number of columns：SQL VS SPL #15](https://dev.to/esproc_spl/deduplicate-between-an-uncertain-number-of-columnssql-vs-spl-15-28p1)
-- [Grafana K6: Load testing for awareness of your infrastructure](https://dev.to/sanghuynhthanh/grafana-k6-load-testing-for-awareness-of-your-infrastructure-4hf)
-- [Large Language Models &lpar;LLMs&rpar;](https://dev.to/sunny7899/large-language-models-llms-10li)
+- [10 Best AI Tools for UI UX to Explore in 2025](https://dev.to/vasundhara/10-best-ai-tools-for-ui-ux-to-explore-in-2025-53hj)
+- [Exercise 01 - Provide Storage for the IT Department Testing and Training](https://dev.to/1suleyman/exercise-01-provide-storage-for-the-it-department-testing-and-training-1j2d)
+- [Is Arduino Suitable for Developing Commercial Products?](https://dev.to/carolineee/is-arduino-suitable-for-developing-commercial-products-185l)
+- [Educational App Development: A Complete Guide to Building the Future of Learning](https://dev.to/stevejacob45678/educational-app-development-a-complete-guide-to-building-the-future-of-learning-1kck)
 <!-- BLOG-POST-LIST:END -->
 
