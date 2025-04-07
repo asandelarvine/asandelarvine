@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Endless&#39; $1M Developer Grant Program is expecting you to join!](https://dev.to/endlessdevrel/endless-1m-developer-grant-program-is-expecting-you-to-join-1an)
-- [The Project of My Dreams: What I&#39;d Create With Unlimited Resources 💭✨](https://dev.to/alina_khmilevska_lee/the-project-of-my-dreams-what-id-create-with-unlimited-resources-2e81)
-- [2JCIE-EV01-FT1: The Wizard’s Multi-Sensor Marauder’s Map](https://dev.to/ersajay/2jcie-ev01-ft1-the-wizards-multi-sensor-marauders-map-1ipf)
-- [Modular Architecture in Nuxt](https://dev.to/jacobandrewsky/modular-architecture-in-nuxt-4jh9)
+- [Tired of PHP Version Hell? ServBay Makes Multi-Version Management a Breeze](https://dev.to/cathyclark/tired-of-php-version-hell-servbay-makes-multi-version-management-a-breeze-2k44)
+- [Deduplicate between an uncertain number of columns：SQL VS SPL #15](https://dev.to/esproc_spl/deduplicate-between-an-uncertain-number-of-columnssql-vs-spl-15-28p1)
+- [Grafana K6: Load testing for awareness of your infrastructure](https://dev.to/sanghuynhthanh/grafana-k6-load-testing-for-awareness-of-your-infrastructure-4hf)
+- [Large Language Models &lpar;LLMs&rpar;](https://dev.to/sunny7899/large-language-models-llms-10li)
 <!-- BLOG-POST-LIST:END -->
 
