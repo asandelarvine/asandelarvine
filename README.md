@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [calculadora de inss .](https://dev.to/paulo_roberto_91f7f091c42/calculadora-de-inss--3b66)
-- [TEST](https://dev.to/rudrabhardwaj/test-d2)
-- [Como simplifiquei um processo em Museologia com uma solução digital](https://dev.to/vitoriazzp/como-simplifiquei-um-processo-em-museologia-com-uma-solucao-digital-c92)
-- [06/04/2025](https://dev.to/whamdot/06042025-1glf)
+- [CSS com Super Poderes: Uma Introdução ao SASS](https://dev.to/joaobatistajr/css-com-super-poderes-uma-introducao-ao-sass-ekd)
+- [Open Source Funding Platforms: Empowering Innovation and Collaboration](https://dev.to/ashucommits/open-source-funding-platforms-empowering-innovation-and-collaboration-ldc)
+- [STEP-BY-STEP GUIDE: Lambda + CRR + EC2 Control + SNS &lpar;Email&rpar;](https://dev.to/leonardkachi/step-by-step-guide-lambda-crr-ec2-control-sns-email-n3c)
+- [P.D.R.G.: The Pimp-Daddy Alternative to readme.so](https://dev.to/steven_j_blair/pdrg-the-pimp-daddy-alternative-to-readmeso-2m5a)
 <!-- BLOG-POST-LIST:END -->
 
