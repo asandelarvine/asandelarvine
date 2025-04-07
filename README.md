@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Abdulkadir Güngör: Mühendislik Disiplininden Yazılım Zanaatkarlığına Uzanan Analitik Bir Yolculuk](https://dev.to/abdulkadir_gungor/abdulkadir-gungor-muhendislik-disiplininden-yazilim-zanaatkarligina-uzanan-analitik-bir-yolculuk-1gfi)
-- [First Blog](https://dev.to/hammad_zahoor/first-blog-2mmn)
-- [Pros and Cons of Staff Augmentation vs Outsourcing](https://dev.to/harsh_lodhi_706b5920d93d1/pros-and-cons-of-staff-augmentation-vs-outsourcing-19pl)
-- [IP Address and DNS](https://dev.to/ravindra_pawar_6712096614/ip-address-and-dns-4bm5)
+- [Types of AI agents and their impact](https://dev.to/sparkout/types-of-ai-agents-and-their-impact-20ml)
+- [Superposition Checkers: A Game Where AI&#39;s Strengths Become Fatal Flaws](https://dev.to/rob_a_mccormack/superposition-checkers-a-game-where-ais-strengths-become-fatal-flaws-1p2c)
+- [Peer Code Review: What Is It and Why Do You Need It?](https://dev.to/rabitsolutions/peer-code-review-what-is-it-and-why-do-you-need-it-564k)
+- [Mastering Database Connection Pooling in Go: Performance Best Practices](https://dev.to/aaravjoshi/mastering-database-connection-pooling-in-go-performance-best-practices-4mic)
 <!-- BLOG-POST-LIST:END -->
 
