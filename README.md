@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 core software design principles every developer should know &lpar;with examples&rpar;.](https://dev.to/rowsanali/5-core-software-design-principles-every-developer-should-know-with-examples-pjp)
-- [New AI System Beats Google Translate for Vietnamese-Japanese Language Pairs](https://dev.to/mikeyoung44/new-ai-system-beats-google-translate-for-vietnamese-japanese-language-pairs-5g5h)
-- [List of top AI Assistants for your Business](https://dev.to/info-list/list-of-top-ai-assistants-for-your-business-5g6)
-- [AI Models Still Can&#39;t Get Visual Jokes: Top Systems Miss 28% of Contradictory Humor](https://dev.to/mikeyoung44/ai-models-still-cant-get-visual-jokes-top-systems-miss-28-of-contradictory-humor-274k)
+- [Abdulkadir Güngör: Mühendislik Disiplininden Yazılım Zanaatkarlığına Uzanan Analitik Bir Yolculuk](https://dev.to/abdulkadir_gungor/abdulkadir-gungor-muhendislik-disiplininden-yazilim-zanaatkarligina-uzanan-analitik-bir-yolculuk-1gfi)
+- [First Blog](https://dev.to/hammad_zahoor/first-blog-2mmn)
+- [Pros and Cons of Staff Augmentation vs Outsourcing](https://dev.to/harsh_lodhi_706b5920d93d1/pros-and-cons-of-staff-augmentation-vs-outsourcing-19pl)
+- [IP Address and DNS](https://dev.to/ravindra_pawar_6712096614/ip-address-and-dns-4bm5)
 <!-- BLOG-POST-LIST:END -->
 
