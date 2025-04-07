@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of AI agents and their impact](https://dev.to/sparkout/types-of-ai-agents-and-their-impact-20ml)
-- [Superposition Checkers: A Game Where AI&#39;s Strengths Become Fatal Flaws](https://dev.to/rob_a_mccormack/superposition-checkers-a-game-where-ais-strengths-become-fatal-flaws-1p2c)
-- [Peer Code Review: What Is It and Why Do You Need It?](https://dev.to/rabitsolutions/peer-code-review-what-is-it-and-why-do-you-need-it-564k)
-- [Mastering Database Connection Pooling in Go: Performance Best Practices](https://dev.to/aaravjoshi/mastering-database-connection-pooling-in-go-performance-best-practices-4mic)
+- [🚀 Your Daily Crypto Job Digest For 07 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-07-april-4ked)
+- [Better input method for C#](https://dev.to/pradcode/better-input-method-for-c-4hnb)
+- [เข้าใจ Uniform Cost Search แบบง่าย ๆ พร้อมตัวอย่างเส้นทางการเดินทางที่มีต้นทุนน้อยที่สุด](https://dev.to/prattraphorn_hiruntiwakul/ekhaaaicch-uniform-cost-search-aebbngaay-phrmtawyaangesnthaangkaaredinthaangthiimiitnthunnythiisud-1jkn)
+- [Predicting Band Gaps for Next-Gen Lithium-Ion Batteries with Machine Learning](https://dev.to/darkstalker/predicting-band-gaps-for-next-gen-lithium-ion-batteries-with-machine-learning-7g0)
 <!-- BLOG-POST-LIST:END -->
 
