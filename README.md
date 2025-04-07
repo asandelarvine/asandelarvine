@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents vs MCPs: Is the AI Hype Shifting?](https://dev.to/bekahhw/agents-vs-mcps-is-the-ai-hype-shifting-4593)
-- [Best Proxies for Web Scrapers in 2025](https://dev.to/crawlbase/best-proxies-for-web-scrapers-in-2025-10o1)
-- [From scratch. Nice one!](https://dev.to/rangaraj_shanmugam_226482/from-scratch-nice-one-4adf)
-- [Building an ELT Pipeline with Python and SQL Server: A Netflix Dataset Walkthrough](https://dev.to/oramirezperera/building-an-elt-pipeline-with-python-and-sql-server-a-netflix-dataset-walkthrough-3hje)
+- [How to Design a Patient Management System for a Med Spa: A Step-by-Step Guide](https://dev.to/eliana_coleman_332/how-to-design-a-patient-management-system-for-a-med-spa-a-step-by-step-guide-17ai)
+- [Get Creative with Pulumi and GitHub: Sustainable Codebase Carbon Calculator 🌍](https://dev.to/aniruddhaadak/get-creative-with-pulumi-and-github-sustainable-codebase-carbon-calculator-1jhj)
+- [Diagram As Prompt, or how to write less text with Amazon Q Developer CLI](https://dev.to/welcloud-io/diagram-as-prompt-or-how-to-write-less-text-with-amazon-q-developer-cli-3ca7)
+- [Build a local ChatGPT-like App with Blazor and MaIN.NET - Part 1: Getting Started with LLM Integration.](https://dev.to/paweljanda/build-a-local-chatgpt-like-app-with-blazor-and-mainnet-part-1-getting-started-with-llm-16j)
 <!-- BLOG-POST-LIST:END -->
 
