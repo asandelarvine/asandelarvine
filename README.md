@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best AI Tools for UI UX to Explore in 2025](https://dev.to/vasundhara/10-best-ai-tools-for-ui-ux-to-explore-in-2025-53hj)
-- [Exercise 01 - Provide Storage for the IT Department Testing and Training](https://dev.to/1suleyman/exercise-01-provide-storage-for-the-it-department-testing-and-training-1j2d)
-- [Is Arduino Suitable for Developing Commercial Products?](https://dev.to/carolineee/is-arduino-suitable-for-developing-commercial-products-185l)
-- [Educational App Development: A Complete Guide to Building the Future of Learning](https://dev.to/stevejacob45678/educational-app-development-a-complete-guide-to-building-the-future-of-learning-1kck)
+- [5 core software design principles every developer should know &lpar;with examples&rpar;.](https://dev.to/rowsanali/5-core-software-design-principles-every-developer-should-know-with-examples-pjp)
+- [New AI System Beats Google Translate for Vietnamese-Japanese Language Pairs](https://dev.to/mikeyoung44/new-ai-system-beats-google-translate-for-vietnamese-japanese-language-pairs-5g5h)
+- [List of top AI Assistants for your Business](https://dev.to/info-list/list-of-top-ai-assistants-for-your-business-5g6)
+- [AI Models Still Can&#39;t Get Visual Jokes: Top Systems Miss 28% of Contradictory Humor](https://dev.to/mikeyoung44/ai-models-still-cant-get-visual-jokes-top-systems-miss-28-of-contradictory-humor-274k)
 <!-- BLOG-POST-LIST:END -->
 
