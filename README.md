@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot Code Reviewer - What&#39;s your experience been like? Worth it?](https://dev.to/iammtander/copilot-code-reviewer-whats-your-experience-been-like-worth-it-235d)
-- [This is really fun](https://dev.to/neusacodes/this-is-really-fun-250p)
-- [Hacking Ético, Kali Linux y Metasploitable 3: Conceptos Claves](https://dev.to/ezavalar/hacking-etico-kali-linux-y-metasploitable-3-conceptos-claves-4mi3)
-- [Into the Spider-verse: Maybe the best movie soundtrack of all time?](https://dev.to/ben/into-the-spider-verse-maybe-the-best-movie-soundtrack-of-all-time-393f)
+- [Build a Simple Visitor Counter with Me Using Node.js and Redis](https://dev.to/arbythecoder/build-a-simple-visitor-counter-with-me-using-nodejs-and-redis-6d2)
+- [Synchronizing Terraform State Files to External Storage from TFC/TFE](https://dev.to/quixoticmonk/synchronizing-terraform-state-files-to-external-storage-from-tfctfe-4cbg)
+- [uBlock Origin is Dead in Chrome: What Next for Ad Blocking?](https://dev.to/ashucommits/ublock-origin-is-dead-in-chrome-what-next-for-ad-blocking-27m9)
+- [Custom RAG in Zurich: Revolutionizing the Search and Retrieval Landscape](https://dev.to/antegris/custom-rag-in-zurich-revolutionizing-the-search-and-retrieval-landscape-58be)
 <!-- BLOG-POST-LIST:END -->
 
