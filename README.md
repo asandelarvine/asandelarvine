@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SNMP Monitoring: The Complete Guide](https://dev.to/uptrace/snmp-monitoring-the-complete-guide-n94)
-- [AI Won&#39;t Save Your Team - Unless You&#39;re Willing to Change, Bit by Bit](https://dev.to/network_intelligence_25e4/ai-wont-save-your-team-unless-youre-willing-to-change-bit-by-bit-34bp)
-- [Unlock Your Global Career: Top 25 Remote Job Sites Paying in USD for 2025 🌎💰](https://dev.to/wildshark/unlock-your-global-career-top-25-remote-job-sites-paying-in-usd-for-2025-4kh7)
-- [Balancing Automation and Expertise in Machine Learning with AutoML](https://dev.to/levitation_infotech/balancing-automation-and-expertise-in-machine-learning-with-automl-4i0g)
+- [Endless&#39; $1M Developer Grant Program is expecting you to join!](https://dev.to/endlessdevrel/endless-1m-developer-grant-program-is-expecting-you-to-join-1an)
+- [The Project of My Dreams: What I&#39;d Create With Unlimited Resources 💭✨](https://dev.to/alina_khmilevska_lee/the-project-of-my-dreams-what-id-create-with-unlimited-resources-2e81)
+- [2JCIE-EV01-FT1: The Wizard’s Multi-Sensor Marauder’s Map](https://dev.to/ersajay/2jcie-ev01-ft1-the-wizards-multi-sensor-marauders-map-1ipf)
+- [Modular Architecture in Nuxt](https://dev.to/jacobandrewsky/modular-architecture-in-nuxt-4jh9)
 <!-- BLOG-POST-LIST:END -->
 
