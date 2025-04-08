@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Model Context Protocol &lpar;MCP&rpar;: The 2025 Beginner&#39;s Guide](https://dev.to/neo-cruz/what-is-model-context-protocol-mcp-the-2025-beginners-guide-5h15)
-- [Word of Mouth: DoozieSoft’s Silent Growth Engine](https://dev.to/doozieakshay/word-of-mouth-dooziesofts-silent-growth-engine-4lcf)
-- [AG Grid React Crashes Inside Tableau Extension Due to Invalid CSS Selector &#39;:not&lpar;title, meta&rpar;&#39; DOMException](https://dev.to/athuldas/ag-grid-react-crashes-inside-tableau-extension-due-to-invalid-css-selector-nottitle-meta-2odm)
-- [Maximize your dev team&#39;s focus and output by combining the Pomodoro Technique with Teamcamp — see how it’s done.](https://dev.to/pratham_naik_project_manager/maximize-your-dev-teams-focus-and-output-by-combining-the-pomodoro-technique-with-teamcamp-see-222c)
+- [Attention to Detail in Linux Commands](https://dev.to/youngtech/attention-to-detail-in-linux-commands-tackling-common-errors-7p5)
+- [Comparing Docker Directives: A Guide to CMD vs ENTRYPOINT](https://dev.to/fabzen_xyz_73bb6fb19029ed/comparing-docker-directives-a-guide-to-cmd-vs-entrypoint-2gfg)
+- [Top Features to Look for in a Reliable BBPS Software Provider](https://dev.to/ankitkumar1/top-features-to-look-for-in-a-reliable-bbps-software-provider-3mmo)
+- [Database Migrations Done Right: How to Safely Transfer Data from Legacy Systems to Contemporary Databases](https://dev.to/okoye_ndidiamaka_5e3b7d30/database-migrations-done-right-how-to-safely-transfer-data-from-legacy-systems-to-contemporary-1oob)
 <!-- BLOG-POST-LIST:END -->
 
