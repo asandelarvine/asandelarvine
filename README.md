@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Attention to Detail in Linux Commands](https://dev.to/youngtech/attention-to-detail-in-linux-commands-tackling-common-errors-7p5)
-- [Comparing Docker Directives: A Guide to CMD vs ENTRYPOINT](https://dev.to/fabzen_xyz_73bb6fb19029ed/comparing-docker-directives-a-guide-to-cmd-vs-entrypoint-2gfg)
-- [Top Features to Look for in a Reliable BBPS Software Provider](https://dev.to/ankitkumar1/top-features-to-look-for-in-a-reliable-bbps-software-provider-3mmo)
-- [Database Migrations Done Right: How to Safely Transfer Data from Legacy Systems to Contemporary Databases](https://dev.to/okoye_ndidiamaka_5e3b7d30/database-migrations-done-right-how-to-safely-transfer-data-from-legacy-systems-to-contemporary-1oob)
+- [Agentic AI: Building an Interview Simulator with Autonomous Agents 🤖](https://dev.to/buildandcodewithraman/agentic-ai-building-an-interview-simulator-with-autonomous-agents-2728)
+- [Grit Size Selection Guide for Abrasive Blasting: How to Avoid Common Mistakes?](https://dev.to/js-henglihong/grit-size-selection-guide-for-abrasive-blasting-how-to-avoid-common-mistakes-4kbd)
+- [Real-Time Updates with Convex DB and Authentication using Clerk in Next.js 🔥🔥](https://dev.to/said96dev/real-time-updates-with-convex-db-and-authentication-using-clerk-in-nextjs-3akb)
+- [Faster Shell, Calmer Brain: Three Terminal Tweaks I Can’t Live Without](https://dev.to/alexopengrid/faster-shell-calmer-brain-three-terminal-tweaks-i-cant-live-without-4hpg)
 <!-- BLOG-POST-LIST:END -->
 
