@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Merge Me If You Can — The Art of the Pull Request Ego](https://dev.to/copyleftdev/merge-me-if-you-can-the-art-of-the-pull-request-ego-4540)
-- [🔧 Recommended Branch Setup](https://dev.to/imajenasyon/recommended-branch-setup-699)
-- [Refactoring Is About Clarity. Clarity Builds Confidence. Confidence Scales.](https://dev.to/joaomaranhao/refactoring-is-about-clarity-clarity-builds-confidence-confidence-scales-2jjn)
-- [HTML básico para estudantes de TI](https://dev.to/lixeletto/html-basico-para-estudantes-de-ti-loj)
+- [Visualize Before You Build: Why Developers Should Use Creately for Planning](https://dev.to/krishcomments/visualize-before-you-build-why-developers-should-use-creately-for-planning-nk1)
+- [Free $245 Oracle Certifications till May 15th](https://dev.to/farisdurrani/free-245-oracle-certifications-till-may-15th-2fj3)
+- [Securing the Model Context Protocol](https://dev.to/blockopensource/securing-the-model-context-protocol-1jfm)
+- [Context API + TypeScript: How to avoid prop drilling in React](https://dev.to/gunnarhalen/context-api-typescript-how-to-avoid-prop-drilling-in-react-3862)
 <!-- BLOG-POST-LIST:END -->
 
