@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: Building an Interview Simulator with Autonomous Agents 🤖](https://dev.to/buildandcodewithraman/agentic-ai-building-an-interview-simulator-with-autonomous-agents-2728)
-- [Grit Size Selection Guide for Abrasive Blasting: How to Avoid Common Mistakes?](https://dev.to/js-henglihong/grit-size-selection-guide-for-abrasive-blasting-how-to-avoid-common-mistakes-4kbd)
-- [Real-Time Updates with Convex DB and Authentication using Clerk in Next.js 🔥🔥](https://dev.to/said96dev/real-time-updates-with-convex-db-and-authentication-using-clerk-in-nextjs-3akb)
-- [Faster Shell, Calmer Brain: Three Terminal Tweaks I Can’t Live Without](https://dev.to/alexopengrid/faster-shell-calmer-brain-three-terminal-tweaks-i-cant-live-without-4hpg)
+- [Best UAT Testing Tools to Streamline User Acceptance Testing](https://dev.to/keploy/best-uat-testing-tools-to-streamline-user-acceptance-testing-5eco)
+- [AI Doesn’t Just Run Tests—It Predicts Where Your Next Bug Will Be](https://dev.to/pritig/ai-doesnt-just-run-tests-it-predicts-where-your-next-bug-will-be-hp6)
+- [Data transfer with curl](https://dev.to/pikotutorial/data-transfer-with-curl-224a)
+- [Integrating ChatGPT with Node.js: Build Your Own AI Chatbot](https://dev.to/syed_mudasseranayat_e251/integrating-chatgpt-with-nodejs-build-your-own-ai-chatbot-4p1i)
 <!-- BLOG-POST-LIST:END -->
 
