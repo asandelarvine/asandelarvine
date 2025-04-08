@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Visitor Counter with Me Using Node.js and Redis](https://dev.to/arbythecoder/build-a-simple-visitor-counter-with-me-using-nodejs-and-redis-6d2)
-- [Synchronizing Terraform State Files to External Storage from TFC/TFE](https://dev.to/quixoticmonk/synchronizing-terraform-state-files-to-external-storage-from-tfctfe-4cbg)
-- [uBlock Origin is Dead in Chrome: What Next for Ad Blocking?](https://dev.to/ashucommits/ublock-origin-is-dead-in-chrome-what-next-for-ad-blocking-27m9)
-- [Custom RAG in Zurich: Revolutionizing the Search and Retrieval Landscape](https://dev.to/antegris/custom-rag-in-zurich-revolutionizing-the-search-and-retrieval-landscape-58be)
+- [Part 1: How Google Routes Your Search in Milliseconds – A Realistic Dev&#39;s Perspective](https://dev.to/raajaryan/part-1-how-google-routes-your-search-in-milliseconds-a-realistic-devs-perspective-213k)
+- [Unlocking the Power of AI Training Data Monetization: Strategies, Platforms, and Future Trends](https://dev.to/ahmmrizv9/unlocking-the-power-of-ai-training-data-monetization-strategies-platforms-and-future-trends-4bc5)
+- [Read the Book Domain Modelling Made Functional](https://dev.to/jesterxl/read-the-book-domain-modelling-made-functional-3afb)
+- [AI and Time Series Data: Harnessing Temporal Insights in a Digital Age](https://dev.to/jennythomas498/ai-and-time-series-data-harnessing-temporal-insights-in-a-digital-age-4ea3)
 <!-- BLOG-POST-LIST:END -->
 
