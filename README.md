@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: Google Front Ends &lpar;GFEs&rpar; – The Intelligent Traffic Managers](https://dev.to/raajaryan/part-3-google-front-ends-gfes-the-intelligent-traffic-managers-9pn)
-- [Part 2: DNS – Google’s First Line of Routing Defense &lpar;and Speed&rpar;](https://dev.to/raajaryan/part-2-dns-googles-first-line-of-routing-defense-and-speed-2gje)
-- [🚀 Your Daily Crypto Job Digest For 08 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-april-3cg5)
-- [Amazon SageMaker for Data Scientists: Unifying Your Machine Learning Workflow on AWS in 2025](https://dev.to/skillboosttrainer/amazon-sagemaker-for-data-scientists-unifying-your-machine-learning-workflow-on-aws-in-2025-4nfh)
+- [Web Development Using React Framework](https://dev.to/souhaillaghchimdev/web-development-using-react-framework-1n2i)
+- [Understanding Algorithms and Data Structures](https://dev.to/souhaillaghchimdev/understanding-algorithms-and-data-structures-30a5)
+- [Secure Auto-Login in Web Apps: Step-by-Step with Blazor Frontend for Central Management Systems &lpar;CMS&rpar;](https://dev.to/hasanmonsur/secure-auto-login-in-web-apps-step-by-step-with-blazor-frontend-for-central-management-systems-4ihe)
+- [Infrastructure as a Code &lpar;IaC&rpar;; AWS CloudFormation: Automating Infrastructure Setup](https://dev.to/jamiu_cloud/infrastructure-as-a-code-iac-aws-cloudformation-automating-infrastructure-setup-dnd)
 <!-- BLOG-POST-LIST:END -->
 
