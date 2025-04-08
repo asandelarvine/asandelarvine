@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize Before You Build: Why Developers Should Use Creately for Planning](https://dev.to/krishcomments/visualize-before-you-build-why-developers-should-use-creately-for-planning-nk1)
-- [Free $245 Oracle Certifications till May 15th](https://dev.to/farisdurrani/free-245-oracle-certifications-till-may-15th-2fj3)
-- [Securing the Model Context Protocol](https://dev.to/blockopensource/securing-the-model-context-protocol-1jfm)
-- [Context API + TypeScript: How to avoid prop drilling in React](https://dev.to/gunnarhalen/context-api-typescript-how-to-avoid-prop-drilling-in-react-3862)
+- [Forms in react with react-hook-form](https://dev.to/joedev090/forms-in-react-with-react-hook-form-25el)
+- [Many ways to express one thing in Ruby &lpar;_n syntax, _ prefix, &amp; ampersand&rpar;](https://dev.to/darcylol/many-ways-to-express-one-thing-in-ruby-n-syntax-prefix-ampersand-2h0j)
+- [Database Backup In Django](https://dev.to/daviekim13/database-backup-in-django-1h49)
+- [From Diagnosis to Development: Building Celio!](https://dev.to/rapheal_suber_d5fd1bd08e6/from-diagnosis-to-development-building-celio-3cn9)
 <!-- BLOG-POST-LIST:END -->
 
