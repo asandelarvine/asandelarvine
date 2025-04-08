@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A GitHub automation tool that uses Pulumi to deploy a CI/CD pipeline with](https://dev.to/aniruddhaadak/a-github-automation-tool-that-uses-pulumi-to-deploy-a-cicd-pipeline-with-3lg5)
-- [Developing your easy alternative to the MediatR library in C#](https://dev.to/criscoelho/developing-your-easy-alternative-to-the-mediatr-library-in-c-1og2)
-- [Do I need to know how to make software to build one using AI?](https://dev.to/dewmal/do-i-need-to-know-how-to-make-software-to-build-one-using-ai-11en)
-- [DevOps is a culture, not a role!](https://dev.to/pooyan/devops-is-a-culture-not-a-role-14m)
+- [What is Model Context Protocol &lpar;MCP&rpar;: The 2025 Beginner&#39;s Guide](https://dev.to/neo-cruz/what-is-model-context-protocol-mcp-the-2025-beginners-guide-5h15)
+- [Word of Mouth: DoozieSoft’s Silent Growth Engine](https://dev.to/doozieakshay/word-of-mouth-dooziesofts-silent-growth-engine-4lcf)
+- [AG Grid React Crashes Inside Tableau Extension Due to Invalid CSS Selector &#39;:not&lpar;title, meta&rpar;&#39; DOMException](https://dev.to/athuldas/ag-grid-react-crashes-inside-tableau-extension-due-to-invalid-css-selector-nottitle-meta-2odm)
+- [Maximize your dev team&#39;s focus and output by combining the Pomodoro Technique with Teamcamp — see how it’s done.](https://dev.to/pratham_naik_project_manager/maximize-your-dev-teams-focus-and-output-by-combining-the-pomodoro-technique-with-teamcamp-see-222c)
 <!-- BLOG-POST-LIST:END -->
 
