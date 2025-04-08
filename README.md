@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Solaris UI v3 — A React Component Library I Built to Speed Up Development](https://dev.to/devnaseem/introducing-solaris-ui-v3-a-react-component-library-i-built-to-speed-up-development-19em)
-- [Java Day 8:](https://dev.to/vigneshwaralingam/java-day-8-16nc)
-- [Website Development Using WordPress](https://dev.to/souhaillaghchimdev/website-development-using-wordpress-3j59)
-- [Introduction to Server and Network Programming](https://dev.to/souhaillaghchimdev/introduction-to-server-and-network-programming-1jmb)
+- [Ransomware Attacks Are Surging — Is Your Business Actually Prepared?](https://dev.to/donald1981/ransomware-attacks-are-surging-is-your-business-actually-prepared-2n6a)
+- [How I went from wasting hours on dashboards to building plug-and-play visualizations in under 1 minute](https://dev.to/kodalogic/how-i-went-from-wasting-hours-on-dashboards-to-building-plug-and-play-visualizations-in-under-1-4n6f)
+- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-2ome)
+- [LeetCode problem 3396](https://dev.to/mehemmed77/leetcode-problem-3396-26fc)
 <!-- BLOG-POST-LIST:END -->
 
