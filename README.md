@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: How Google Routes Your Search in Milliseconds – A Realistic Dev&#39;s Perspective](https://dev.to/raajaryan/part-1-how-google-routes-your-search-in-milliseconds-a-realistic-devs-perspective-213k)
-- [Unlocking the Power of AI Training Data Monetization: Strategies, Platforms, and Future Trends](https://dev.to/ahmmrizv9/unlocking-the-power-of-ai-training-data-monetization-strategies-platforms-and-future-trends-4bc5)
-- [Read the Book Domain Modelling Made Functional](https://dev.to/jesterxl/read-the-book-domain-modelling-made-functional-3afb)
-- [AI and Time Series Data: Harnessing Temporal Insights in a Digital Age](https://dev.to/jennythomas498/ai-and-time-series-data-harnessing-temporal-insights-in-a-digital-age-4ea3)
+- [Building Raku Codeboard: A Simple Full-Stack App with Red, Cromponent, and HTMX](https://dev.to/fco/building-raku-codeboard-a-simple-full-stack-app-with-red-cromponent-and-htmx-30k9)
+- [game5_VFernanda_imersão](https://dev.to/fernandamaresi/game5vfernandaimersao-49o3)
+- [Paulo Bank](https://dev.to/paulo_roberto_91f7f091c42/paulo-bank-4077)
+- [Good Luck Everyone!](https://dev.to/poppy_wang/good-luck-everyone-5foh)
 <!-- BLOG-POST-LIST:END -->
 
