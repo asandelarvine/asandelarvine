@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ransomware Attacks Are Surging — Is Your Business Actually Prepared?](https://dev.to/donald1981/ransomware-attacks-are-surging-is-your-business-actually-prepared-2n6a)
-- [How I went from wasting hours on dashboards to building plug-and-play visualizations in under 1 minute](https://dev.to/kodalogic/how-i-went-from-wasting-hours-on-dashboards-to-building-plug-and-play-visualizations-in-under-1-4n6f)
-- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-2ome)
-- [LeetCode problem 3396](https://dev.to/mehemmed77/leetcode-problem-3396-26fc)
+- [Crafting a Business Plan for Your Tech Startup: A Developer&#39;s Guide](https://dev.to/juliyajohnson/crafting-a-business-plan-for-your-tech-startup-a-developers-guide-4nhm)
+- [Why gRPC is a Great Choice](https://dev.to/emiroberti/why-grpc-is-a-great-choice-2coc)
+- [Building a Career in Machine Learning](https://dev.to/abhishekdesikan/building-a-career-in-machine-learning-3g70)
+- [Llama 4 - 10M Context? Coding? Decent Follow-up?](https://dev.to/maximsaplin/llama-4-10m-context-coding-decent-follow-up-426n)
 <!-- BLOG-POST-LIST:END -->
 
