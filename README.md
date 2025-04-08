@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting a Business Plan for Your Tech Startup: A Developer&#39;s Guide](https://dev.to/juliyajohnson/crafting-a-business-plan-for-your-tech-startup-a-developers-guide-4nhm)
-- [Why gRPC is a Great Choice](https://dev.to/emiroberti/why-grpc-is-a-great-choice-2coc)
-- [Building a Career in Machine Learning](https://dev.to/abhishekdesikan/building-a-career-in-machine-learning-3g70)
-- [Llama 4 - 10M Context? Coding? Decent Follow-up?](https://dev.to/maximsaplin/llama-4-10m-context-coding-decent-follow-up-426n)
+- [Merge Me If You Can — The Art of the Pull Request Ego](https://dev.to/copyleftdev/merge-me-if-you-can-the-art-of-the-pull-request-ego-4540)
+- [🔧 Recommended Branch Setup](https://dev.to/imajenasyon/recommended-branch-setup-699)
+- [Refactoring Is About Clarity. Clarity Builds Confidence. Confidence Scales.](https://dev.to/joaomaranhao/refactoring-is-about-clarity-clarity-builds-confidence-confidence-scales-2jjn)
+- [HTML básico para estudantes de TI](https://dev.to/lixeletto/html-basico-para-estudantes-de-ti-loj)
 <!-- BLOG-POST-LIST:END -->
 
