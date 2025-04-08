@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategic Integration of Google Maps in React for Next-Level Business Insights](https://dev.to/yugjadvani/strategic-integration-of-google-maps-in-react-for-next-level-business-insights-3mm7)
-- [Method Overloading](https://dev.to/sudhakar_v_c404997aeec839/method-overloading-1han)
-- [While loop With Examples](https://dev.to/sudhakar_v_c404997aeec839/while-loop-with-examples-1jg1)
-- [Experimenting with Using an iPad as Your Main Display](https://dev.to/uskdev/experimenting-with-using-an-ipad-as-your-main-display-495f)
+- [🚀 Introducing Solaris UI v3 — A React Component Library I Built to Speed Up Development](https://dev.to/devnaseem/introducing-solaris-ui-v3-a-react-component-library-i-built-to-speed-up-development-19em)
+- [Java Day 8:](https://dev.to/vigneshwaralingam/java-day-8-16nc)
+- [Website Development Using WordPress](https://dev.to/souhaillaghchimdev/website-development-using-wordpress-3j59)
+- [Introduction to Server and Network Programming](https://dev.to/souhaillaghchimdev/introduction-to-server-and-network-programming-1jmb)
 <!-- BLOG-POST-LIST:END -->
 
