@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Raku Codeboard: A Simple Full-Stack App with Red, Cromponent, and HTMX](https://dev.to/fco/building-raku-codeboard-a-simple-full-stack-app-with-red-cromponent-and-htmx-30k9)
-- [game5_VFernanda_imersão](https://dev.to/fernandamaresi/game5vfernandaimersao-49o3)
-- [Paulo Bank](https://dev.to/paulo_roberto_91f7f091c42/paulo-bank-4077)
-- [Good Luck Everyone!](https://dev.to/poppy_wang/good-luck-everyone-5foh)
+- [A GitHub automation tool that uses Pulumi to deploy a CI/CD pipeline with](https://dev.to/aniruddhaadak/a-github-automation-tool-that-uses-pulumi-to-deploy-a-cicd-pipeline-with-3lg5)
+- [Developing your easy alternative to the MediatR library in C#](https://dev.to/criscoelho/developing-your-easy-alternative-to-the-mediatr-library-in-c-1og2)
+- [Do I need to know how to make software to build one using AI?](https://dev.to/dewmal/do-i-need-to-know-how-to-make-software-to-build-one-using-ai-11en)
+- [DevOps is a culture, not a role!](https://dev.to/pooyan/devops-is-a-culture-not-a-role-14m)
 <!-- BLOG-POST-LIST:END -->
 
