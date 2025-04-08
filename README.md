@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Job searching in tech - Trying the sandwich method](https://dev.to/gabriel_rowan_1b96f237438/job-searching-in-tech-trying-the-sandwich-method-345o)
-- [What Is a Social Investor? Everything You Need to Know](https://dev.to/socialinvesting/what-is-a-social-investor-everything-you-need-to-know-248)
-- [KISS &lpar;Keep It Simple, Stupid&rpar;: Yazılım Tasarımında Basitliğin Gücü ve Gerekliliği](https://dev.to/abdulkadir_gungor/kiss-keep-it-simple-stupid-yazilim-tasariminda-basitligin-gucu-ve-gerekliligi-4p4e)
-- [how to set up status checks in your GitHub repo using GitHub Actions](https://dev.to/imajenasyon/how-to-set-up-status-checks-in-your-github-repo-using-github-actions-2o8o)
+- [ef core select](https://dev.to/mustafacam/ef-core-select-6h9)
+- [Implement BDD in python using behave &amp; allure](https://dev.to/nitinkumar30/implement-bdd-in-python-using-behave-allure-56c3)
+- [Reasoning Engine vs. Search Engine](https://dev.to/msnmongare/reasoning-engine-vs-search-engine-569n)
+- [Installing Linux Mint with LVM and LUKS](https://dev.to/netikras/installing-linux-mint-with-lvm-and-luks-2kga)
 <!-- BLOG-POST-LIST:END -->
 
