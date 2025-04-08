@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Using React Framework](https://dev.to/souhaillaghchimdev/web-development-using-react-framework-1n2i)
-- [Understanding Algorithms and Data Structures](https://dev.to/souhaillaghchimdev/understanding-algorithms-and-data-structures-30a5)
-- [Secure Auto-Login in Web Apps: Step-by-Step with Blazor Frontend for Central Management Systems &lpar;CMS&rpar;](https://dev.to/hasanmonsur/secure-auto-login-in-web-apps-step-by-step-with-blazor-frontend-for-central-management-systems-4ihe)
-- [Infrastructure as a Code &lpar;IaC&rpar;; AWS CloudFormation: Automating Infrastructure Setup](https://dev.to/jamiu_cloud/infrastructure-as-a-code-iac-aws-cloudformation-automating-infrastructure-setup-dnd)
+- [Strategic Integration of Google Maps in React for Next-Level Business Insights](https://dev.to/yugjadvani/strategic-integration-of-google-maps-in-react-for-next-level-business-insights-3mm7)
+- [Method Overloading](https://dev.to/sudhakar_v_c404997aeec839/method-overloading-1han)
+- [While loop With Examples](https://dev.to/sudhakar_v_c404997aeec839/while-loop-with-examples-1jg1)
+- [Experimenting with Using an iPad as Your Main Display](https://dev.to/uskdev/experimenting-with-using-an-ipad-as-your-main-display-495f)
 <!-- BLOG-POST-LIST:END -->
 
