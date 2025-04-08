@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Code Analysis: Ensuring Code Quality Before Execution](https://dev.to/keploy/static-code-analysis-ensuring-code-quality-before-execution-4pk9)
-- [Build your first AI Agent for Postgres on Azure](https://dev.to/bobur/build-your-first-ai-agent-for-postgres-on-azure-ano)
-- [RTO vs RPO: What&#39;s the Difference?](https://dev.to/tomcao2012/rto-vs-rpo-whats-the-difference-758)
-- [The Headless CMS Mindset: Rethinking Content Architecture in 2025](https://dev.to/caisy_b3dab8bba6a26f388ca/the-headless-cms-mindset-rethinking-content-architecture-in-2025-470)
+- [Job searching in tech - Trying the sandwich method](https://dev.to/gabriel_rowan_1b96f237438/job-searching-in-tech-trying-the-sandwich-method-345o)
+- [What Is a Social Investor? Everything You Need to Know](https://dev.to/socialinvesting/what-is-a-social-investor-everything-you-need-to-know-248)
+- [KISS &lpar;Keep It Simple, Stupid&rpar;: Yazılım Tasarımında Basitliğin Gücü ve Gerekliliği](https://dev.to/abdulkadir_gungor/kiss-keep-it-simple-stupid-yazilim-tasariminda-basitligin-gucu-ve-gerekliligi-4p4e)
+- [how to set up status checks in your GitHub repo using GitHub Actions](https://dev.to/imajenasyon/how-to-set-up-status-checks-in-your-github-repo-using-github-actions-2o8o)
 <!-- BLOG-POST-LIST:END -->
 
