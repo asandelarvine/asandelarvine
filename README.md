@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Car Insurance: How to Build It?](https://dev.to/openkoda/embedded-car-insurance-how-to-build-it-27dp)
-- [Get Productive with Pulumi](https://dev.to/mohamednizzad/get-productive-with-pulumi-3bfo)
-- [🚀 Frontend Development Trends to Watch in 2025](https://dev.to/theodor_coin_4/frontend-development-trends-to-watch-in-2025-cb3)
-- [Beyond Create React App: A Comprehensive Comparison of Modern Build Tools](https://dev.to/diegocarreirafr/beyond-create-react-app-a-comprehensive-comparison-of-modern-build-tools-3gbp)
+- [Part 3: Google Front Ends &lpar;GFEs&rpar; – The Intelligent Traffic Managers](https://dev.to/raajaryan/part-3-google-front-ends-gfes-the-intelligent-traffic-managers-9pn)
+- [Part 2: DNS – Google’s First Line of Routing Defense &lpar;and Speed&rpar;](https://dev.to/raajaryan/part-2-dns-googles-first-line-of-routing-defense-and-speed-2gje)
+- [🚀 Your Daily Crypto Job Digest For 08 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-april-3cg5)
+- [Amazon SageMaker for Data Scientists: Unifying Your Machine Learning Workflow on AWS in 2025](https://dev.to/skillboosttrainer/amazon-sagemaker-for-data-scientists-unifying-your-machine-learning-workflow-on-aws-in-2025-4nfh)
 <!-- BLOG-POST-LIST:END -->
 
