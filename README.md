@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/louis_vincent_07b01686378/untitled-496d)
-- [Mastering iOS App Development: A Complete Guide](https://dev.to/mobisoftinfotech/mastering-ios-app-development-a-complete-guide-5514)
-- [A deep dive into the latest resource management enhancements in Kubernetes v1.32, focusing on CPU isolation, smarter scheduling, and consistent storage snapshots.](https://dev.to/alialp/a-deep-dive-into-the-latest-resource-management-enhancements-in-kubernetes-v132-focusing-on-cpu-4b1e)
-- [🚀 Deep Dive into Resource Management in **Kubernetes v1.32** &lpar;December 2024&rpar;](https://dev.to/alialp/deep-dive-into-resource-management-in-kubernetes-v132-december-2024-480o)
+- [Embedded Car Insurance: How to Build It?](https://dev.to/openkoda/embedded-car-insurance-how-to-build-it-27dp)
+- [Get Productive with Pulumi](https://dev.to/mohamednizzad/get-productive-with-pulumi-3bfo)
+- [🚀 Frontend Development Trends to Watch in 2025](https://dev.to/theodor_coin_4/frontend-development-trends-to-watch-in-2025-cb3)
+- [Beyond Create React App: A Comprehensive Comparison of Modern Build Tools](https://dev.to/diegocarreirafr/beyond-create-react-app-a-comprehensive-comparison-of-modern-build-tools-3gbp)
 <!-- BLOG-POST-LIST:END -->
 
