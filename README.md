@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best UAT Testing Tools to Streamline User Acceptance Testing](https://dev.to/keploy/best-uat-testing-tools-to-streamline-user-acceptance-testing-5eco)
-- [AI Doesn’t Just Run Tests—It Predicts Where Your Next Bug Will Be](https://dev.to/pritig/ai-doesnt-just-run-tests-it-predicts-where-your-next-bug-will-be-hp6)
-- [Data transfer with curl](https://dev.to/pikotutorial/data-transfer-with-curl-224a)
-- [Integrating ChatGPT with Node.js: Build Your Own AI Chatbot](https://dev.to/syed_mudasseranayat_e251/integrating-chatgpt-with-nodejs-build-your-own-ai-chatbot-4p1i)
+- [Static Code Analysis: Ensuring Code Quality Before Execution](https://dev.to/keploy/static-code-analysis-ensuring-code-quality-before-execution-4pk9)
+- [Build your first AI Agent for Postgres on Azure](https://dev.to/bobur/build-your-first-ai-agent-for-postgres-on-azure-ano)
+- [RTO vs RPO: What&#39;s the Difference?](https://dev.to/tomcao2012/rto-vs-rpo-whats-the-difference-758)
+- [The Headless CMS Mindset: Rethinking Content Architecture in 2025](https://dev.to/caisy_b3dab8bba6a26f388ca/the-headless-cms-mindset-rethinking-content-architecture-in-2025-470)
 <!-- BLOG-POST-LIST:END -->
 
