@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forms in react with react-hook-form](https://dev.to/joedev090/forms-in-react-with-react-hook-form-25el)
-- [Many ways to express one thing in Ruby &lpar;_n syntax, _ prefix, &amp; ampersand&rpar;](https://dev.to/darcylol/many-ways-to-express-one-thing-in-ruby-n-syntax-prefix-ampersand-2h0j)
-- [Database Backup In Django](https://dev.to/daviekim13/database-backup-in-django-1h49)
-- [From Diagnosis to Development: Building Celio!](https://dev.to/rapheal_suber_d5fd1bd08e6/from-diagnosis-to-development-building-celio-3cn9)
+- [🔐 OAuth 2.0 + OpenID Connect &lpar;OIDC&rpar; 🪪](https://dev.to/zaqueucavalcante/oauth-20-openid-connect-oidc-3bi4)
+- [Frontend Developer | Open to Work | Ready to Build Stunning Web Experiences](https://dev.to/muhammad_sheraz_dev/frontend-developer-open-to-work-ready-to-build-stunning-web-experiences-1mce)
+- [Building a Scalable E-commerce Backend with DynamoDB, Lambda, API Gateway, and S3](https://dev.to/glory_ugochukwu_57b6cf663/building-a-scalable-e-commerce-backend-with-dynamodb-lambda-api-gateway-and-s3-2i30)
+- [Untitled](https://dev.to/luis_manuel/untitled-106b)
 <!-- BLOG-POST-LIST:END -->
 
