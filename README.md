@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ef core select](https://dev.to/mustafacam/ef-core-select-6h9)
-- [Implement BDD in python using behave &amp; allure](https://dev.to/nitinkumar30/implement-bdd-in-python-using-behave-allure-56c3)
-- [Reasoning Engine vs. Search Engine](https://dev.to/msnmongare/reasoning-engine-vs-search-engine-569n)
-- [Installing Linux Mint with LVM and LUKS](https://dev.to/netikras/installing-linux-mint-with-lvm-and-luks-2kga)
+- [Untitled](https://dev.to/louis_vincent_07b01686378/untitled-496d)
+- [Mastering iOS App Development: A Complete Guide](https://dev.to/mobisoftinfotech/mastering-ios-app-development-a-complete-guide-5514)
+- [A deep dive into the latest resource management enhancements in Kubernetes v1.32, focusing on CPU isolation, smarter scheduling, and consistent storage snapshots.](https://dev.to/alialp/a-deep-dive-into-the-latest-resource-management-enhancements-in-kubernetes-v132-focusing-on-cpu-4b1e)
+- [🚀 Deep Dive into Resource Management in **Kubernetes v1.32** &lpar;December 2024&rpar;](https://dev.to/alialp/deep-dive-into-resource-management-in-kubernetes-v132-december-2024-480o)
 <!-- BLOG-POST-LIST:END -->
 
