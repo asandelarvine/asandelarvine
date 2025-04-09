@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashkan Rajaee isn’t just building software—he’s building systems, culture, and structure that scale. An insightful dive by Felix Ellington. #tech #startups #CRM #developerlife #engineeringleadership #AshkanRajaee](https://dev.to/sofiarights/ashkan-rajaee-isnt-just-building-software-hes-building-systems-culture-and-structure-that-5f38)
-- [Create an AWS S3 bucket with smart Budget Alerts💰🔔!](https://dev.to/shubham_gharage/create-an-aws-s3-bucket-with-smart-budget-alerts-278k)
-- [Readable and Writable Streams: Advanced Concepts](https://dev.to/omriluz1/readable-and-writable-streams-advanced-concepts-4e8j)
-- [Silent Intruders](https://dev.to/yuvasec/silent-intruders-400e)
+- [Inversion Of Control&lpar;IOC&rpar; and Dependency Injection](https://dev.to/ramya_kamalasekaran/inversion-of-controlioc-and-dependency-injection-4eed)
+- [Protocol Agnostic Framework](https://dev.to/m__mdy__m/protocol-agnostic-framework-9p2)
+- [Schema Changes in MySQL: Will Your Table Be Locked?](https://dev.to/leapcell/schema-changes-in-mysql-will-your-table-be-locked-3k8)
+- [Crafting Go Testing Module: Step 2 - Core](https://dev.to/rzajac/crafting-go-testing-module-step-2-core-1a33)
 <!-- BLOG-POST-LIST:END -->
 
