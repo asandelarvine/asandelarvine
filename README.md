@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [As](https://dev.to/gchar/as-384e)
-- [RT](https://dev.to/maducsharp/-50jj)
-- [How GPT Works Behind The Scene](https://dev.to/piyushpk/how-gpt-works-42h8)
-- [&quot;Unlocking Success: The Ultimate Guide to Choosing the Right Web Hosting for Freelancers and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/unlocking-success-the-ultimate-guide-to-choosing-the-right-web-hosting-for-freelancers-and-8k5)
+- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-and-e-commerce-3789)
+- [AWS verified Access services](https://dev.to/vasanthbal5220/aws-verified-access-services-17mk)
+- [Manually testing sign up for my Django app](https://dev.to/gabriel_rowan_1b96f237438/manually-testing-my-django-app-2g2i)
+- [🌱 New Feature: Beautiful Per-Command Help for the Greening CLI](https://dev.to/chrisgreening/new-feature-beautiful-per-command-help-for-the-greening-cli-4iah)
 <!-- BLOG-POST-LIST:END -->
 
