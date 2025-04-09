@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Data Handling - Part 1 - Understanding Encoding](https://dev.to/samuelko123/secure-data-handling-part-1-understanding-encoding-5f95)
-- [Code is Written, Not Born: Overcoming the Idea of a &quot;Perfect Project Start&quot;](https://dev.to/artstesh/code-is-written-not-born-overcoming-the-idea-of-a-perfect-project-start-52ln)
-- [Boost Your Training Revenue with an LMS: Tips and Strategies](https://dev.to/atrixware/boost-your-training-revenue-with-an-lms-tips-and-strategies-36bm)
-- [Standardizing AI Tooling with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/aws/standardizing-ai-tooling-with-model-context-protocol-mcp-nmj)
+- [Cloudflare Durable Objects &amp; Nuxt: Building a Real-Time Chat App](https://dev.to/tanay/cloudflare-durable-objects-nuxt-building-a-real-time-chat-app-pii)
+- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers, Developers, and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-developers-and-bj7)
+- [From Zero to EKS and Hybrid-Nodes — Part 1: The VPC and VPN configuration.](https://dev.to/csepulvedab/from-zero-to-eks-and-hybrid-nodes-part-1-the-vpc-and-vpn-configuration-1f11)
+- [Run any file loop on YouTube](https://dev.to/avinash_tare_6d6e81721bb6/run-any-file-loop-on-youtube-dfj)
 <!-- BLOG-POST-LIST:END -->
 
