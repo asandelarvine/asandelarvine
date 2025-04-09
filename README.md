@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to TensorFlow with real code examples](https://dev.to/josmel/introduction-to-tensorflow-with-real-code-examples-1odo)
-- [Connecting to a Private RDS Instance via an EC2 Proxy](https://dev.to/aws-builders/connecting-to-a-private-rds-instance-via-an-ec2-proxy-4al1)
-- [The Lightcone 2025 Forecast: Predictions for Startups, AI, and Crypto](https://dev.to/jetthoughts/the-lightcone-2025-forecast-predictions-for-startups-ai-and-crypto-5h01)
-- [esMain&lpar;import.meta&rpar; in Nue.js source code.](https://dev.to/ramunarasinga-11/esmainimportmeta-in-nuejs-source-code-2dbj)
+- [Impact of Technical Debt on Software Testing](https://dev.to/sapna_soni_ca03e57cf5b470/impact-of-technical-debt-on-software-testing-38b5)
+- [LLM Benchmarking: Cost-Efficient Performance](https://dev.to/nosana/llm-benchmarking-cost-efficient-performance-5h69)
+- [🚀 Why Most Angular Developers Still Struggle With Dependency Injection &lpar;And How to Master It Today&rpar;](https://dev.to/dct_technology/why-most-angular-developers-still-struggle-with-dependency-injection-and-how-to-master-it-today-35fc)
+- [🥊 Flask vs Django in 2025: Why Picking the Wrong Framework Could Hurt Your Project](https://dev.to/dct_technology/flask-vs-django-in-2025-why-picking-the-wrong-framework-could-hurt-your-project-2d4i)
 <!-- BLOG-POST-LIST:END -->
 
