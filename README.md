@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InsightFlow Part 1: Building an Integrated Retail &amp; Economic Data Pipeline - Project Introduction](https://dev.to/pizofreude/insightflow-part-1-building-an-integrated-retail-economic-data-pipeline-project-introduction-d74)
-- [AWS Lambda Strategies - Auto-Calling Like a Pro 🚀🔥](https://dev.to/codexmaker/aws-lambda-strategies-auto-calling-like-a-pro-3fep)
-- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers, Developers, and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-developers-and-4i0k)
-- [The Unexpected Journey into ASCII — How One Exam Question Triggered My Curiosity](https://dev.to/vigneshwaralingam/the-unexpected-journey-into-ascii-how-one-exam-question-triggered-my-curiosity-2mka)
+- [🧠 How a Simple Java Question Taught Me About Static vs Instance Variables : Triggered Questions 2](https://dev.to/vigneshwaralingam/how-a-simple-java-question-taught-me-about-static-vs-instance-variables-triggered-questions-2-32lk)
+- [Olake &lpar;Lakehouse&rpar;](https://dev.to/sandarbh_bajpai/olake-lakehouse-1670)
+- [🐉 Loong: Synthesize Long CoTs at Scale through Verifiers](https://dev.to/camelai/loong-synthesize-long-cots-at-scale-through-verifiers-27b4)
+- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Your Online Business](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-your-online-business-1kam)
 <!-- BLOG-POST-LIST:END -->
 
