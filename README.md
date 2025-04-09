@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Durable Objects &amp; Nuxt: Building a Real-Time Chat App](https://dev.to/tanay/cloudflare-durable-objects-nuxt-building-a-real-time-chat-app-pii)
-- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers, Developers, and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-developers-and-bj7)
-- [From Zero to EKS and Hybrid-Nodes — Part 1: The VPC and VPN configuration.](https://dev.to/csepulvedab/from-zero-to-eks-and-hybrid-nodes-part-1-the-vpc-and-vpn-configuration-1f11)
-- [Run any file loop on YouTube](https://dev.to/avinash_tare_6d6e81721bb6/run-any-file-loop-on-youtube-dfj)
+- [As](https://dev.to/gchar/as-384e)
+- [RT](https://dev.to/maducsharp/-50jj)
+- [How GPT Works Behind The Scene](https://dev.to/piyushpk/how-gpt-works-42h8)
+- [&quot;Unlocking Success: The Ultimate Guide to Choosing the Right Web Hosting for Freelancers and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/unlocking-success-the-ultimate-guide-to-choosing-the-right-web-hosting-for-freelancers-and-8k5)
 <!-- BLOG-POST-LIST:END -->
 
