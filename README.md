@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Turned ERP Implementation into a Game](https://dev.to/freshtech/how-we-turned-erp-implementation-into-a-game-2c4d)
-- [&quot;Unlocking the Future: zkSpeed and HyperPlonk in Zero-Knowledge Proofs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-zkspeed-and-hyperplonk-in-zero-knowledge-proofs-55ci)
-- [ToolHive: Making MCP Servers Easy, Secure, and Fun](https://dev.to/stacklok/toolhive-making-mcp-servers-easy-secure-and-fun-7hi)
-- [Ceramic Blasting Technology: The &quot;Silent Hero&quot; in Enhancing Aerospace Component Performance](https://dev.to/js-henglihong/ceramic-blasting-technology-the-silent-hero-in-enhancing-aerospace-component-performance-24a6)
+- [A Guide to Crafting Effective AI Prompts](https://dev.to/msnmongare/a-guide-to-crafting-effective-ai-prompts-end)
+- [Smart Supermarkets: 7 Machine Learning Techniques Powering Modern Retail](https://dev.to/vivek_kapri/smart-supermarkets-7-machine-learning-techniques-powering-modern-retail-1bfg)
+- [Dealing with local HTTPS development](https://dev.to/logto/dealing-with-local-https-development-34k1)
+- [How to Speed Up COUNT DISTINCT with esProc](https://dev.to/esproc_spl/how-to-speed-up-count-distinct-with-esproc-46kk)
 <!-- BLOG-POST-LIST:END -->
 
