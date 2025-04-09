@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective DevOps Strategies for Scaling Microservices: Best Practices and Tools](https://dev.to/adityabhuyan/effective-devops-strategies-for-scaling-microservices-best-practices-and-tools-4i06)
-- [Custom Theming in Ant Design v5 with Dynamic Theme Switching](https://dev.to/rakeshreddy512/custom-theming-in-ant-design-v5-with-dynamic-theme-switching-c3l)
-- [How to List Things in Markdown &lpar;Properly&rpar;](https://dev.to/alexopengrid/how-to-list-things-in-markdown-properly-54i2)
-- [Leveraging PHP Streams for Efficient File and Network Handling](https://dev.to/patoliyainfotech/leveraging-php-streams-for-efficient-file-and-network-handling-466l)
+- [A Definitive Guide for P2P Payment App Development in 2025](https://dev.to/stevejacob45678/a-definitive-guide-for-p2p-payment-app-development-in-2025-3632)
+- [The Golden Rules of Web Accessibility — A Must-Read for Front-End Developers!](https://dev.to/kristiyanvelkov/the-golden-rules-of-web-accessibility-a-must-read-for-front-end-developers-59m7)
+- [Meta Launches Llama 4 AI Models: Meet Scout, Maverick, and the Beast Called Behemoth](https://dev.to/james_lin_e0b4cf88eff0124/meta-launches-llama-4-ai-models-meet-scout-maverick-and-the-beast-called-behemoth-5bde)
+- [Why Isn&#39;t Your CSS Working? Understanding Specificity](https://dev.to/umarsiddique010/why-isnt-your-css-working-understanding-specificity-3lf3)
 <!-- BLOG-POST-LIST:END -->
 
