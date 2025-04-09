@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📸 I need a place to store preview screenshots of my React components and a button that says &quot;copy code&quot; to easily paste it into my project. Why is it so hard to find a simple solution for something so straightforward? 🤔](https://dev.to/joseamaya/i-need-a-place-to-store-preview-screenshots-of-my-react-components-and-a-button-that-says-copy-4dbc)
-- [4 Reasons Why Cross-Age Face Recognition is Essential for Biometrics](https://dev.to/faceplugin/4-reasons-why-cross-age-face-recognition-is-essential-for-biometrics-234)
-- [Stand for Palestine: A Call to Action 🌍💔](https://dev.to/codecartbydev/stand-for-palestine-a-call-to-action-1n8a)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3fl4)
+- [What is a good platform I can use along with Gemini app or website, so I can build my own app?](https://dev.to/thatsoundedscary/what-is-a-good-platform-i-can-use-along-with-gemini-app-or-website-so-i-can-build-my-own-app-3gnb)
+- [🔥Flametoter: Visual storytelling via digital art &amp; motion graphics. Let&#39;s create magic!](https://dev.to/karl_risch_7866bf4c73c5b9/flametoter-visual-storytelling-via-digital-art-motion-graphics-lets-create-magic-h3i)
+- [UX Engineers | Explained](https://dev.to/d2d_weizhi/ux-engineers-explained-pjl)
+- [A Portfolio website using Hugo and deployed to AWS using Pulumi](https://dev.to/aniruddhaadak/a-portfolio-website-using-hugo-and-deployed-to-aws-using-pulumi-1la3)
 <!-- BLOG-POST-LIST:END -->
 
