@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Impact of Technical Debt on Software Testing](https://dev.to/sapna_soni_ca03e57cf5b470/impact-of-technical-debt-on-software-testing-38b5)
-- [LLM Benchmarking: Cost-Efficient Performance](https://dev.to/nosana/llm-benchmarking-cost-efficient-performance-5h69)
-- [🚀 Why Most Angular Developers Still Struggle With Dependency Injection &lpar;And How to Master It Today&rpar;](https://dev.to/dct_technology/why-most-angular-developers-still-struggle-with-dependency-injection-and-how-to-master-it-today-35fc)
-- [🥊 Flask vs Django in 2025: Why Picking the Wrong Framework Could Hurt Your Project](https://dev.to/dct_technology/flask-vs-django-in-2025-why-picking-the-wrong-framework-could-hurt-your-project-2d4i)
+- [Effective DevOps Strategies for Scaling Microservices: Best Practices and Tools](https://dev.to/adityabhuyan/effective-devops-strategies-for-scaling-microservices-best-practices-and-tools-4i06)
+- [Custom Theming in Ant Design v5 with Dynamic Theme Switching](https://dev.to/rakeshreddy512/custom-theming-in-ant-design-v5-with-dynamic-theme-switching-c3l)
+- [How to List Things in Markdown &lpar;Properly&rpar;](https://dev.to/alexopengrid/how-to-list-things-in-markdown-properly-54i2)
+- [Leveraging PHP Streams for Efficient File and Network Handling](https://dev.to/patoliyainfotech/leveraging-php-streams-for-efficient-file-and-network-handling-466l)
 <!-- BLOG-POST-LIST:END -->
 
