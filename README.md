@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How a Simple Java Question Taught Me About Static vs Instance Variables : Triggered Questions 2](https://dev.to/vigneshwaralingam/how-a-simple-java-question-taught-me-about-static-vs-instance-variables-triggered-questions-2-32lk)
-- [Olake &lpar;Lakehouse&rpar;](https://dev.to/sandarbh_bajpai/olake-lakehouse-1670)
-- [🐉 Loong: Synthesize Long CoTs at Scale through Verifiers](https://dev.to/camelai/loong-synthesize-long-cots-at-scale-through-verifiers-27b4)
-- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Your Online Business](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-your-online-business-1kam)
+- [Stitching Giant JSONs Together with JSON Patch](https://dev.to/shrsv/stitching-giant-jsons-together-with-json-patch-5gmc)
+- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Freelancers and E-commerce Entrepreneurs](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-freelancers-and-1d85)
+- [macOS AI Agent](https://dev.to/techtech/macos-ai-agent-3k5g)
+- [Hands-On Selenium with Python: From Basics to Framework Building](https://dev.to/testwithtorin/hands-on-selenium-with-python-from-basics-to-framework-building-6kd)
 <!-- BLOG-POST-LIST:END -->
 
