@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-and-e-commerce-3789)
-- [AWS verified Access services](https://dev.to/vasanthbal5220/aws-verified-access-services-17mk)
-- [Manually testing sign up for my Django app](https://dev.to/gabriel_rowan_1b96f237438/manually-testing-my-django-app-2g2i)
-- [🌱 New Feature: Beautiful Per-Command Help for the Greening CLI](https://dev.to/chrisgreening/new-feature-beautiful-per-command-help-for-the-greening-cli-4iah)
+- [InsightFlow Part 1: Building an Integrated Retail &amp; Economic Data Pipeline - Project Introduction](https://dev.to/pizofreude/insightflow-part-1-building-an-integrated-retail-economic-data-pipeline-project-introduction-d74)
+- [AWS Lambda Strategies - Auto-Calling Like a Pro 🚀🔥](https://dev.to/codexmaker/aws-lambda-strategies-auto-calling-like-a-pro-3fep)
+- [&quot;Choosing the Right Web Hosting: A Comprehensive Guide for U.S. Freelancers, Developers, and E-Commerce Entrepreneurs&quot;](https://dev.to/florentv11/choosing-the-right-web-hosting-a-comprehensive-guide-for-us-freelancers-developers-and-4i0k)
+- [The Unexpected Journey into ASCII — How One Exam Question Triggered My Curiosity](https://dev.to/vigneshwaralingam/the-unexpected-journey-into-ascii-how-one-exam-question-triggered-my-curiosity-2mka)
 <!-- BLOG-POST-LIST:END -->
 
