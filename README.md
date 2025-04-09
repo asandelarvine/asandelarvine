@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python’da Kalıtım &lpar;Inheritance&rpar; ve “Is-A” İlişkisi: Kod Mirası ve Hiyerarşi](https://dev.to/abdulkadir_gungor/pythonda-kalitim-inheritance-ve-is-a-iliskisi-kod-mirasi-ve-hiyerarsi-a6k)
-- [Part 7: Searching Algorithms in Python – Mastering Binary Search and Beyond](https://dev.to/nkpydev/part-7-searching-algorithms-in-python-mastering-binary-search-and-beyond-181f)
-- [Python Erişim Belirleyiciler ve Kapsülleme İlişkisi](https://dev.to/abdulkadir_gungor/python-erisim-belirleyiciler-ve-kapsulleme-iliskisi-57ml)
-- [🚩 Microsoft UX Dark Patterns, CSS-only blurry image placeholders + Inclusive Design](https://dev.to/adam/microsoft-ux-dark-patterns-css-only-blurry-image-placeholders-inclusive-design-19ed)
+- [Introducing Neuro Swarm - Transforming Idle Devices into Income Generators](https://dev.to/neurolov_ai_/introducing-neuro-swarm-transforming-idle-devices-into-income-generators-k4l)
+- [Staying Hydrated with React and Next.js](https://dev.to/austinwdigital/staying-hydrated-with-react-and-nextjs-3cj3)
+- [How to create an effective application security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-for-19ck)
+- [Amazon Bedrock and Retrieval-Augmented Generation &lpar;RAG&rpar;: Building Smarter AI Systems with Context-Aware Responses](https://dev.to/microtica/amazon-bedrock-and-retrieval-augmented-generation-rag-building-smarter-ai-systems-with-28lm)
 <!-- BLOG-POST-LIST:END -->
 
