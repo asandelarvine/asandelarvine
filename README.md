@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Neuro Swarm - Transforming Idle Devices into Income Generators](https://dev.to/neurolov_ai_/introducing-neuro-swarm-transforming-idle-devices-into-income-generators-k4l)
-- [Staying Hydrated with React and Next.js](https://dev.to/austinwdigital/staying-hydrated-with-react-and-nextjs-3cj3)
-- [How to create an effective application security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-for-19ck)
-- [Amazon Bedrock and Retrieval-Augmented Generation &lpar;RAG&rpar;: Building Smarter AI Systems with Context-Aware Responses](https://dev.to/microtica/amazon-bedrock-and-retrieval-augmented-generation-rag-building-smarter-ai-systems-with-28lm)
+- [Secure Data Handling - Part 1 - Understanding Encoding](https://dev.to/samuelko123/secure-data-handling-part-1-understanding-encoding-5f95)
+- [Code is Written, Not Born: Overcoming the Idea of a &quot;Perfect Project Start&quot;](https://dev.to/artstesh/code-is-written-not-born-overcoming-the-idea-of-a-perfect-project-start-52ln)
+- [Boost Your Training Revenue with an LMS: Tips and Strategies](https://dev.to/atrixware/boost-your-training-revenue-with-an-lms-tips-and-strategies-36bm)
+- [Standardizing AI Tooling with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/aws/standardizing-ai-tooling-with-model-context-protocol-mcp-nmj)
 <!-- BLOG-POST-LIST:END -->
 
