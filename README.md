@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 OAuth 2.0 + OpenID Connect &lpar;OIDC&rpar; 🪪](https://dev.to/zaqueucavalcante/oauth-20-openid-connect-oidc-3bi4)
-- [Frontend Developer | Open to Work | Ready to Build Stunning Web Experiences](https://dev.to/muhammad_sheraz_dev/frontend-developer-open-to-work-ready-to-build-stunning-web-experiences-1mce)
-- [Building a Scalable E-commerce Backend with DynamoDB, Lambda, API Gateway, and S3](https://dev.to/glory_ugochukwu_57b6cf663/building-a-scalable-e-commerce-backend-with-dynamodb-lambda-api-gateway-and-s3-2i30)
-- [Untitled](https://dev.to/luis_manuel/untitled-106b)
+- [📸 I need a place to store preview screenshots of my React components and a button that says &quot;copy code&quot; to easily paste it into my project. Why is it so hard to find a simple solution for something so straightforward? 🤔](https://dev.to/joseamaya/i-need-a-place-to-store-preview-screenshots-of-my-react-components-and-a-button-that-says-copy-4dbc)
+- [4 Reasons Why Cross-Age Face Recognition is Essential for Biometrics](https://dev.to/faceplugin/4-reasons-why-cross-age-face-recognition-is-essential-for-biometrics-234)
+- [Stand for Palestine: A Call to Action 🌍💔](https://dev.to/codecartbydev/stand-for-palestine-a-call-to-action-1n8a)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3fl4)
 <!-- BLOG-POST-LIST:END -->
 
