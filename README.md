@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# ve .NET [9]](https://dev.to/abdulkadir_gungor/c-ve-net-9-5be4)
-- [Testing the Quiet Layers: How 2025 Builds Apps We Trust](https://dev.to/vaibhavkuls/testing-the-quiet-layers-how-2025-builds-apps-we-trust-njj)
-- [C# ve .NET [8]](https://dev.to/abdulkadir_gungor/c-ve-net-8-7aa)
-- [Modern React State Management in 2025: A Practical Guide](https://dev.to/joodi/modern-react-state-management-in-2025-a-practical-guide-2j8f)
+- [Python’da Kalıtım &lpar;Inheritance&rpar; ve “Is-A” İlişkisi: Kod Mirası ve Hiyerarşi](https://dev.to/abdulkadir_gungor/pythonda-kalitim-inheritance-ve-is-a-iliskisi-kod-mirasi-ve-hiyerarsi-a6k)
+- [Part 7: Searching Algorithms in Python – Mastering Binary Search and Beyond](https://dev.to/nkpydev/part-7-searching-algorithms-in-python-mastering-binary-search-and-beyond-181f)
+- [Python Erişim Belirleyiciler ve Kapsülleme İlişkisi](https://dev.to/abdulkadir_gungor/python-erisim-belirleyiciler-ve-kapsulleme-iliskisi-57ml)
+- [🚩 Microsoft UX Dark Patterns, CSS-only blurry image placeholders + Inclusive Design](https://dev.to/adam/microsoft-ux-dark-patterns-css-only-blurry-image-placeholders-inclusive-design-19ed)
 <!-- BLOG-POST-LIST:END -->
 
