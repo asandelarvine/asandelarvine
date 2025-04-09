@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inversion Of Control&lpar;IOC&rpar; and Dependency Injection](https://dev.to/ramya_kamalasekaran/inversion-of-controlioc-and-dependency-injection-4eed)
-- [Protocol Agnostic Framework](https://dev.to/m__mdy__m/protocol-agnostic-framework-9p2)
-- [Schema Changes in MySQL: Will Your Table Be Locked?](https://dev.to/leapcell/schema-changes-in-mysql-will-your-table-be-locked-3k8)
-- [Crafting Go Testing Module: Step 2 - Core](https://dev.to/rzajac/crafting-go-testing-module-step-2-core-1a33)
+- [My First Time Speaking at a Tech Conference: Orlando Code Camp Recap](https://dev.to/calypso_coding/my-first-time-speaking-at-a-tech-conference-orlando-code-camp-recap-c1i)
+- [Day 1137 : Double Trouble](https://dev.to/dwane/day-1137-double-trouble-2l36)
+- [How to Create an API Using Next.js](https://dev.to/marianafantini/how-to-create-an-api-using-nextjs-3p5d)
+- [From Idea to Infra: Building Scalable Systems with Kubernetes, Terraform &amp; Cloud &lpar;Detailed&rpar;](https://dev.to/suryadeepsinh_gohil/from-idea-to-infra-building-scalable-systems-with-kubernetes-terraform-cloud-detailed-1dl0)
 <!-- BLOG-POST-LIST:END -->
 
