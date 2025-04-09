@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Definitive Guide for P2P Payment App Development in 2025](https://dev.to/stevejacob45678/a-definitive-guide-for-p2p-payment-app-development-in-2025-3632)
-- [The Golden Rules of Web Accessibility — A Must-Read for Front-End Developers!](https://dev.to/kristiyanvelkov/the-golden-rules-of-web-accessibility-a-must-read-for-front-end-developers-59m7)
-- [Meta Launches Llama 4 AI Models: Meet Scout, Maverick, and the Beast Called Behemoth](https://dev.to/james_lin_e0b4cf88eff0124/meta-launches-llama-4-ai-models-meet-scout-maverick-and-the-beast-called-behemoth-5bde)
-- [Why Isn&#39;t Your CSS Working? Understanding Specificity](https://dev.to/umarsiddique010/why-isnt-your-css-working-understanding-specificity-3lf3)
+- [How We Turned ERP Implementation into a Game](https://dev.to/freshtech/how-we-turned-erp-implementation-into-a-game-2c4d)
+- [&quot;Unlocking the Future: zkSpeed and HyperPlonk in Zero-Knowledge Proofs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-zkspeed-and-hyperplonk-in-zero-knowledge-proofs-55ci)
+- [ToolHive: Making MCP Servers Easy, Secure, and Fun](https://dev.to/stacklok/toolhive-making-mcp-servers-easy-secure-and-fun-7hi)
+- [Ceramic Blasting Technology: The &quot;Silent Hero&quot; in Enhancing Aerospace Component Performance](https://dev.to/js-henglihong/ceramic-blasting-technology-the-silent-hero-in-enhancing-aerospace-component-performance-24a6)
 <!-- BLOG-POST-LIST:END -->
 
