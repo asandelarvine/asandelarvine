@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Crafting Effective AI Prompts](https://dev.to/msnmongare/a-guide-to-crafting-effective-ai-prompts-end)
-- [Smart Supermarkets: 7 Machine Learning Techniques Powering Modern Retail](https://dev.to/vivek_kapri/smart-supermarkets-7-machine-learning-techniques-powering-modern-retail-1bfg)
-- [Dealing with local HTTPS development](https://dev.to/logto/dealing-with-local-https-development-34k1)
-- [How to Speed Up COUNT DISTINCT with esProc](https://dev.to/esproc_spl/how-to-speed-up-count-distinct-with-esproc-46kk)
+- [C# ve .NET [9]](https://dev.to/abdulkadir_gungor/c-ve-net-9-5be4)
+- [Testing the Quiet Layers: How 2025 Builds Apps We Trust](https://dev.to/vaibhavkuls/testing-the-quiet-layers-how-2025-builds-apps-we-trust-njj)
+- [C# ve .NET [8]](https://dev.to/abdulkadir_gungor/c-ve-net-8-7aa)
+- [Modern React State Management in 2025: A Practical Guide](https://dev.to/joodi/modern-react-state-management-in-2025-a-practical-guide-2j8f)
 <!-- BLOG-POST-LIST:END -->
 
