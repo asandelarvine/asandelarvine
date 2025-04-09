@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a good platform I can use along with Gemini app or website, so I can build my own app?](https://dev.to/thatsoundedscary/what-is-a-good-platform-i-can-use-along-with-gemini-app-or-website-so-i-can-build-my-own-app-3gnb)
-- [🔥Flametoter: Visual storytelling via digital art &amp; motion graphics. Let&#39;s create magic!](https://dev.to/karl_risch_7866bf4c73c5b9/flametoter-visual-storytelling-via-digital-art-motion-graphics-lets-create-magic-h3i)
-- [UX Engineers | Explained](https://dev.to/d2d_weizhi/ux-engineers-explained-pjl)
-- [A Portfolio website using Hugo and deployed to AWS using Pulumi](https://dev.to/aniruddhaadak/a-portfolio-website-using-hugo-and-deployed-to-aws-using-pulumi-1la3)
+- [Introduction to TensorFlow with real code examples](https://dev.to/josmel/introduction-to-tensorflow-with-real-code-examples-1odo)
+- [Connecting to a Private RDS Instance via an EC2 Proxy](https://dev.to/aws-builders/connecting-to-a-private-rds-instance-via-an-ec2-proxy-4al1)
+- [The Lightcone 2025 Forecast: Predictions for Startups, AI, and Crypto](https://dev.to/jetthoughts/the-lightcone-2025-forecast-predictions-for-startups-ai-and-crypto-5h01)
+- [esMain&lpar;import.meta&rpar; in Nue.js source code.](https://dev.to/ramunarasinga-11/esmainimportmeta-in-nuejs-source-code-2dbj)
 <!-- BLOG-POST-LIST:END -->
 
