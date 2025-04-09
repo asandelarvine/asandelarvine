@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Time Speaking at a Tech Conference: Orlando Code Camp Recap](https://dev.to/calypso_coding/my-first-time-speaking-at-a-tech-conference-orlando-code-camp-recap-c1i)
-- [Day 1137 : Double Trouble](https://dev.to/dwane/day-1137-double-trouble-2l36)
-- [How to Create an API Using Next.js](https://dev.to/marianafantini/how-to-create-an-api-using-nextjs-3p5d)
-- [From Idea to Infra: Building Scalable Systems with Kubernetes, Terraform &amp; Cloud &lpar;Detailed&rpar;](https://dev.to/suryadeepsinh_gohil/from-idea-to-infra-building-scalable-systems-with-kubernetes-terraform-cloud-detailed-1dl0)
+- [Week 2 Note 1](https://dev.to/donnellycarroll/week-2-note-1-2am0)
+- [Mastering useMemo in React: Boosting Performance the Right Way 🚀](https://dev.to/onedev/mastering-usememo-in-react-boosting-performance-the-right-way-52kh)
+- [🚀 Google Agentspace: The Future of Enterprise AI Integration is Here &lpar;2025 Edition&rpar;](https://dev.to/aniruddhaadak/google-agentspace-the-future-of-enterprise-ai-integration-is-here-2025-edition-3nhl)
+- [Untitled](https://dev.to/jogri_anggara_f1af3050261/untitled-h4c)
 <!-- BLOG-POST-LIST:END -->
 
