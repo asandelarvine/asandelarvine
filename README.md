@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 10 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-april-3clb)
-- [A Deep Dive into Neuro Swarm’s Reward System](https://dev.to/neurolov_ai_/a-deep-dive-into-neuro-swarms-reward-system-199m)
-- [🚨 From Chaos to Card perfection &lpar;CSS Journey&rpar; 🚨](https://dev.to/abdultalha08/from-chaos-to-card-perfection-css-journey-3i8m)
-- [Building an Instagram Dashboard: From API Hell to Business Solution &lpar;My 72-Hour Deep Dive 🚀&rpar;](https://dev.to/karan_sinha_15b445f287ec1/building-an-instagram-dashboard-from-api-hell-to-business-solution-my-72-hour-deep-dive--3i24)
+- [What Happens When You Break the Rules of Hooks in React?](https://dev.to/oba1dkhan/what-happens-when-you-break-the-rules-of-hooks-in-react-4ell)
+- [สร้างโมเดล AI ตรวจจับอารมณ์จากภาพใบหน้าด้วย Python บน Google Colab](https://dev.to/tawannn/sraangomedl-ai-trwcchcchabaarmncchaakphaaphaibhnaadwy-python-bn-google-colab-14ph)
+- [🧠✨ 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗜𝗺𝗮𝗴𝗲𝘀 𝘂𝘀𝗶𝗻𝗴 𝗔𝗜 𝘄𝗶𝘁𝗵 .𝗡𝗘𝗧](https://dev.to/supraja_tangella_b7f0738e/-k7)
+- [Can Web Apps Really Replace Desktop Software?](https://dev.to/matemiller/can-web-apps-really-replace-desktop-software-3ijk)
 <!-- BLOG-POST-LIST:END -->
 
