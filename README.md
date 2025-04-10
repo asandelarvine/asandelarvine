@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS 本番移行に向けた準備、移行リハーサルの進め方](https://dev.to/aws-builders/aws-ben-fan-yi-xing-nixiang-ketazhun-bei-yi-xing-rihasarunojin-mefang-12g5)
-- [From it works to it reverts: learning Solidity the hard way](https://dev.to/hanane_bendisari/from-it-works-to-it-reverts-learning-solidity-the-hard-way-5b9f)
-- [Guia completo de UX/UI Design do Zero ao Avançado](https://dev.to/lincolixavier/guia-completo-de-uxui-design-do-zero-ao-avancado-5d63)
-- [WaFi – A Desktop Ethereum Wallet Toolkit for Developers &amp; Power Users](https://dev.to/tony_spontana_d78d688b0a4/wafi-a-desktop-ethereum-wallet-toolkit-for-developers-power-users-47bg)
+- [I&#39;ve been receiving plenty of support from the dev community this morning, now that I&#39;ve officially began a new stage of my professional journey as an UX Engineer. I am feeling very thankful.](https://dev.to/d2d_weizhi/ive-been-receiving-plenty-of-support-from-the-dev-community-this-morning-now-that-ive-officially-3ghe)
+- [TERMINAL MASTERY: Master Linux File Commands in 10 Minutes Flat!](https://dev.to/dtemi/terminal-mastery-master-linux-file-commands-in-10-minutes-flat-1c32)
+- [Cognitive QA: The Next Evolution in Software Testing with AI](https://dev.to/radha_4c842d8e4362a7cdd9c/cognitive-qa-the-next-evolution-in-software-testing-with-ai-mej)
+- [Google&#39;s New Move! How Does the A2A Protocol Enable AI Agents to &quot;Add Friends&quot;?](https://dev.to/sienna/googles-new-move-how-does-the-a2a-protocol-enable-ai-agents-to-add-friends-3iff)
 <!-- BLOG-POST-LIST:END -->
 
