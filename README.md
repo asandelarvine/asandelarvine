@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve been receiving plenty of support from the dev community this morning, now that I&#39;ve officially began a new stage of my professional journey as an UX Engineer. I am feeling very thankful.](https://dev.to/d2d_weizhi/ive-been-receiving-plenty-of-support-from-the-dev-community-this-morning-now-that-ive-officially-3ghe)
-- [TERMINAL MASTERY: Master Linux File Commands in 10 Minutes Flat!](https://dev.to/dtemi/terminal-mastery-master-linux-file-commands-in-10-minutes-flat-1c32)
-- [Cognitive QA: The Next Evolution in Software Testing with AI](https://dev.to/radha_4c842d8e4362a7cdd9c/cognitive-qa-the-next-evolution-in-software-testing-with-ai-mej)
-- [Google&#39;s New Move! How Does the A2A Protocol Enable AI Agents to &quot;Add Friends&quot;?](https://dev.to/sienna/googles-new-move-how-does-the-a2a-protocol-enable-ai-agents-to-add-friends-3iff)
+- [Custom Error Pages in .Net Core](https://dev.to/davinceleecode/custom-error-pages-in-net-core-2cnf)
+- [Solving Poor API Performance Issues: Tips for Developers](https://dev.to/zuplo/solving-poor-api-performance-issues-tips-for-developers-h46)
+- [Performance Optimization for SaaS APIs: Key Considerations](https://dev.to/zuplo/performance-optimization-for-saas-apis-key-considerations-1nmp)
+- [API Workflows and How to Define Them](https://dev.to/zuplo/api-workflows-and-how-to-define-them-1cda)
 <!-- BLOG-POST-LIST:END -->
 
