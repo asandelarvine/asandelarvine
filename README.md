@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework-less Framework](https://dev.to/framemuse/framework-less-framework-11i3)
-- [From Designer to Builder: L&amp;A’s Digital Transformation with NocoBase](https://dev.to/nocobase/from-designer-to-builder-las-digital-transformation-with-nocobase-4o2d)
-- [Will Testing Evolve into Fully AI-Automated Testing with Complete Coverage in the Future?](https://dev.to/dheerajpd411/will-testing-evolve-into-fully-ai-automated-testing-with-complete-coverage-in-the-future-4b5a)
-- [Accelerate Your Software Delivery with DevOps Expertise](https://dev.to/vishal_more_02990955c9358/accelerate-your-software-delivery-with-devops-expertise-3mfi)
+- [Salesforce Sales GPT and Service GPT - Revolutionizing Sales and Service](https://dev.to/y_kumar_19a907c109f27be81/salesforce-sales-gpt-and-service-gpt-revolutionizing-sales-and-service-2oi1)
+- [Weekly Indie Log #2](https://dev.to/hirvesh/weekly-indie-log-2-5d59)
+- [What Is A Headless CMS? How Does It Help Websites Scale?](https://dev.to/johnsmith244303/what-is-a-headless-cms-how-does-it-help-websites-scale-22m8)
+- [Weekly Indie Log #6](https://dev.to/hirvesh/weekly-indie-log-6-d4a)
 <!-- BLOG-POST-LIST:END -->
 
