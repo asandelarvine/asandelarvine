@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF Waiting Room: The Terminator of HTTP Flood DDoS Attack](https://dev.to/carrie_luo1/safeline-waf-waiting-room-the-terminator-of-http-flood-ddos-attack-1kjp)
-- [OAuth 2.0 Security Best Practices for Developers](https://dev.to/kimmaida/oauth-20-security-best-practices-for-developers-2ba5)
-- [How to Build Your Own Deep Research Agent Using Gemini 2.5 &lpar;Free &amp; Paid Methods&rpar;](https://dev.to/checklive/how-to-build-your-own-deep-research-agent-using-gemini-25-free-paid-methods-1f83)
-- [Social Links Card](https://dev.to/umairshakoor/social-links-card-99o)
+- [Automating Salesforce Testing: Best Practices for Modern QA Teams](https://dev.to/testwithtorin/automating-salesforce-testing-best-practices-for-modern-qa-teams-45o8)
+- [[Boost]](https://dev.to/darkosubotica/-48cg)
+- [“Chain Unification” - The Next Stage of Blockchain Interoperability](https://dev.to/concero_io/chain-unification-the-next-stage-of-blockchain-interoperability-4113)
+- [How count up lines in a directory](https://dev.to/lgtome/how-count-up-lines-in-a-directory-36op)
 <!-- BLOG-POST-LIST:END -->
 
