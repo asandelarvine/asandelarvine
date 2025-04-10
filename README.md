@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When You Break the Rules of Hooks in React?](https://dev.to/oba1dkhan/what-happens-when-you-break-the-rules-of-hooks-in-react-4ell)
-- [สร้างโมเดล AI ตรวจจับอารมณ์จากภาพใบหน้าด้วย Python บน Google Colab](https://dev.to/tawannn/sraangomedl-ai-trwcchcchabaarmncchaakphaaphaibhnaadwy-python-bn-google-colab-14ph)
-- [🧠✨ 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗜𝗺𝗮𝗴𝗲𝘀 𝘂𝘀𝗶𝗻𝗴 𝗔𝗜 𝘄𝗶𝘁𝗵 .𝗡𝗘𝗧](https://dev.to/supraja_tangella_b7f0738e/-k7)
-- [Can Web Apps Really Replace Desktop Software?](https://dev.to/matemiller/can-web-apps-really-replace-desktop-software-3ijk)
+- [Understanding Networking Commands - Why They Matter](https://dev.to/wvnuola/understanding-networking-commands-why-they-matter-n4m)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-2dgp)
+- [EU vs. Big Tech: The $Trillion Tug of War Over Data, Power, and Sovereignty:](https://dev.to/devlinkstudios/eu-vs-big-tech-the-trillion-tug-of-war-over-data-power-and-sovereignty-3409)
+- [[DDD] Tactical Design Patterns Part 4: Consistency](https://dev.to/minericefield/ddd-tactical-design-patterns-part-4-consistency-2fd8)
 <!-- BLOG-POST-LIST:END -->
 
