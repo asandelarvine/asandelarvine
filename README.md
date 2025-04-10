@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Not Overthinking: Occam’s Razor for Developers](https://dev.to/rijultp/the-art-of-not-overthinking-occams-razor-for-developers-a5e)
-- [Navigating Common Web Hosting Pitfalls: A Freelancer&#39;s Survival Guide](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-a-freelancers-survival-guide-35am)
-- [software testing](https://dev.to/balaji_venkat_f5135ec07b8/software-testing-1c7b)
-- [Pinta&#39;s website refresh - Giving back with design](https://dev.to/rolandixor/pintas-website-refresh-giving-back-with-design-17cm)
+- [Console Utilities You &lpar;Didn&#39;t&rpar; Know](https://dev.to/railsdesigner/console-utilities-you-didnt-know-5ei2)
+- [Emoji-Driven Development with Amazon Q Developer CLI agent](https://dev.to/brooke_jamieson/emoji-driven-development-with-amazon-q-developer-cli-agent-om8)
+- [PostgreSQL](https://dev.to/wlegard/postgresql-8ih)
+- [Python Can Draw? I Built a Game Without Pygame](https://dev.to/resource_bunk_1077cab07da/python-can-draw-i-built-a-game-without-pygame-27i5)
 <!-- BLOG-POST-LIST:END -->
 
