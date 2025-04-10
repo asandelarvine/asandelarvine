@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Networking Commands - Why They Matter](https://dev.to/wvnuola/understanding-networking-commands-why-they-matter-n4m)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-2dgp)
-- [EU vs. Big Tech: The $Trillion Tug of War Over Data, Power, and Sovereignty:](https://dev.to/devlinkstudios/eu-vs-big-tech-the-trillion-tug-of-war-over-data-power-and-sovereignty-3409)
-- [[DDD] Tactical Design Patterns Part 4: Consistency](https://dev.to/minericefield/ddd-tactical-design-patterns-part-4-consistency-2fd8)
+- [Integrating Vite into WordPress Plugins for Modern Frontend Development &lpar;React Approach&rpar;](https://dev.to/mattyedwards/integrating-vite-into-wordpress-plugins-for-modern-frontend-development-react-approach-51im)
+- [🔥 Only 2 Lines of code to create an MCP server from a FastAPI - Major updates 🚀](https://dev.to/makhlevich/only-2-lines-of-code-to-create-an-mcp-server-from-a-fastapi-major-updates-3p03)
+- [Day-16:variable explanation](https://dev.to/pavithra_c_butterfly/day-16variable-explanation-52ao)
+- [My Kaggle Project - Making Huge Manuals Talk with Gen AI! &lpar;The Deep Dive&rpar;](https://dev.to/d3p4rt/my-kaggle-project-making-huge-manuals-talk-with-gen-ai-the-deep-dive-1klh)
 <!-- BLOG-POST-LIST:END -->
 
