@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2 Note 1](https://dev.to/donnellycarroll/week-2-note-1-2am0)
-- [Mastering useMemo in React: Boosting Performance the Right Way 🚀](https://dev.to/onedev/mastering-usememo-in-react-boosting-performance-the-right-way-52kh)
-- [🚀 Google Agentspace: The Future of Enterprise AI Integration is Here &lpar;2025 Edition&rpar;](https://dev.to/aniruddhaadak/google-agentspace-the-future-of-enterprise-ai-integration-is-here-2025-edition-3nhl)
-- [Untitled](https://dev.to/jogri_anggara_f1af3050261/untitled-h4c)
+- [AWS 本番移行に向けた準備、移行リハーサルの進め方](https://dev.to/aws-builders/aws-ben-fan-yi-xing-nixiang-ketazhun-bei-yi-xing-rihasarunojin-mefang-12g5)
+- [From it works to it reverts: learning Solidity the hard way](https://dev.to/hanane_bendisari/from-it-works-to-it-reverts-learning-solidity-the-hard-way-5b9f)
+- [Guia completo de UX/UI Design do Zero ao Avançado](https://dev.to/lincolixavier/guia-completo-de-uxui-design-do-zero-ao-avancado-5d63)
+- [WaFi – A Desktop Ethereum Wallet Toolkit for Developers &amp; Power Users](https://dev.to/tony_spontana_d78d688b0a4/wafi-a-desktop-ethereum-wallet-toolkit-for-developers-power-users-47bg)
 <!-- BLOG-POST-LIST:END -->
 
