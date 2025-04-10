@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Salesforce Testing: Best Practices for Modern QA Teams](https://dev.to/testwithtorin/automating-salesforce-testing-best-practices-for-modern-qa-teams-45o8)
-- [[Boost]](https://dev.to/darkosubotica/-48cg)
-- [“Chain Unification” - The Next Stage of Blockchain Interoperability](https://dev.to/concero_io/chain-unification-the-next-stage-of-blockchain-interoperability-4113)
-- [How count up lines in a directory](https://dev.to/lgtome/how-count-up-lines-in-a-directory-36op)
+- [The Art of Not Overthinking: Occam’s Razor for Developers](https://dev.to/rijultp/the-art-of-not-overthinking-occams-razor-for-developers-a5e)
+- [Navigating Common Web Hosting Pitfalls: A Freelancer&#39;s Survival Guide](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-a-freelancers-survival-guide-35am)
+- [software testing](https://dev.to/balaji_venkat_f5135ec07b8/software-testing-1c7b)
+- [Pinta&#39;s website refresh - Giving back with design](https://dev.to/rolandixor/pintas-website-refresh-giving-back-with-design-17cm)
 <!-- BLOG-POST-LIST:END -->
 
