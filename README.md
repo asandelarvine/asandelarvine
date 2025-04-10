@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EXPOSED! The Authorization Blind Spot!](https://dev.to/yuvasec/exposed-the-authorization-blind-spot-that-makes-idor-attacks-unstoppable-4o88)
-- [Insightify Analytics Dashboard Designed](https://dev.to/worapon_code404/insightify-analytics-dashboard-designed-59pl)
-- [Primes in Style: Mastering the Sieve of Eratosthenes and Segmented Sieve in Java](https://dev.to/anupam_kumar/primes-in-style-mastering-the-sieve-of-eratosthenes-and-segmented-sieve-in-java-2o9m)
-- [Navigating the Hidden Costs of Web Hosting for Your Growing Business](https://dev.to/florentv11/navigating-the-hidden-costs-of-web-hosting-for-your-growing-business-2fbl)
+- [Linux Process Management – Monitor, Control, Optimize](https://dev.to/shamain_anjum/linux-process-management-monitor-control-optimize-5f9c)
+- [Frida vs. Obscured WebView: Diagnosing the Path to an iOS CAPTCHA Automation](https://dev.to/neverlow512/frida-vs-obscured-webview-diagnosing-the-path-to-an-ios-captcha-automation-part-1-5017)
+- [Navigating Common Hosting Pitfalls: Solutions for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-common-hosting-pitfalls-solutions-for-us-digital-entrepreneurs-3abh)
+- [Building a RAG System for Video Content Search and Analysis](https://dev.to/aws/building-a-rag-system-for-video-content-search-and-analysis-5g8l)
 <!-- BLOG-POST-LIST:END -->
 
