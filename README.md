@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Vite into WordPress Plugins for Modern Frontend Development &lpar;React Approach&rpar;](https://dev.to/mattyedwards/integrating-vite-into-wordpress-plugins-for-modern-frontend-development-react-approach-51im)
-- [🔥 Only 2 Lines of code to create an MCP server from a FastAPI - Major updates 🚀](https://dev.to/makhlevich/only-2-lines-of-code-to-create-an-mcp-server-from-a-fastapi-major-updates-3p03)
-- [Day-16:variable explanation](https://dev.to/pavithra_c_butterfly/day-16variable-explanation-52ao)
-- [My Kaggle Project - Making Huge Manuals Talk with Gen AI! &lpar;The Deep Dive&rpar;](https://dev.to/d3p4rt/my-kaggle-project-making-huge-manuals-talk-with-gen-ai-the-deep-dive-1klh)
+- [SafeLine WAF Waiting Room: The Terminator of HTTP Flood DDoS Attack](https://dev.to/carrie_luo1/safeline-waf-waiting-room-the-terminator-of-http-flood-ddos-attack-1kjp)
+- [OAuth 2.0 Security Best Practices for Developers](https://dev.to/kimmaida/oauth-20-security-best-practices-for-developers-2ba5)
+- [How to Build Your Own Deep Research Agent Using Gemini 2.5 &lpar;Free &amp; Paid Methods&rpar;](https://dev.to/checklive/how-to-build-your-own-deep-research-agent-using-gemini-25-free-paid-methods-1f83)
+- [Social Links Card](https://dev.to/umairshakoor/social-links-card-99o)
 <!-- BLOG-POST-LIST:END -->
 
