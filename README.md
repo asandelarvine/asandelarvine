@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S3e6: Git Beyond the Code](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e6-git-beyond-the-code-37aa)
-- [🎨 Mastering CSS Selectors: How to Target Only What You Want](https://dev.to/rakeshreddy512/mastering-css-selectors-how-to-target-only-what-you-want-cpd)
-- [TCP protocols](https://dev.to/dushyant_singhrao_08/tcp-protocols-23ja)
-- [Hasslefree version management of Golang](https://dev.to/parthib_deb23/hasslefree-version-management-of-golang-584j)
+- [🚀 Your Daily Crypto Job Digest For 10 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-april-3clb)
+- [A Deep Dive into Neuro Swarm’s Reward System](https://dev.to/neurolov_ai_/a-deep-dive-into-neuro-swarms-reward-system-199m)
+- [🚨 From Chaos to Card perfection &lpar;CSS Journey&rpar; 🚨](https://dev.to/abdultalha08/from-chaos-to-card-perfection-css-journey-3i8m)
+- [Building an Instagram Dashboard: From API Hell to Business Solution &lpar;My 72-Hour Deep Dive 🚀&rpar;](https://dev.to/karan_sinha_15b445f287ec1/building-an-instagram-dashboard-from-api-hell-to-business-solution-my-72-hour-deep-dive--3i24)
 <!-- BLOG-POST-LIST:END -->
 
