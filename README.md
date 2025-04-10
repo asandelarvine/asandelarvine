@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Chatbots Are Transforming Modern Businesses | Tech Magazine](https://dev.to/steven_yang_267/how-ai-chatbots-are-transforming-modern-businesses-tech-magazine-4495)
-- [NocoBase Weekly Updates: Optimize save job logic](https://dev.to/nocobase/nocobase-weekly-updates-optimize-save-job-logic-hoh)
-- [PawSQL for Jetbrains - Optimize your SQL Queries within Jetbrains IDEs](https://dev.to/pawsql/pawsql-for-jetbrains-optimize-your-sql-queries-within-jetbrains-ides-4pco)
-- [15 Free Status Page Tools in 2025](https://dev.to/cbartlett/15-free-status-page-tools-in-2025-5elg)
+- [Building a Multi-Agent Conversational AI System with Amazon Bedrock](https://dev.to/shadow_b/building-a-multi-agent-conversational-ai-system-with-amazon-bedrock-3elp)
+- [10 Best Video Hosting Platforms in 2025 for Businesses &amp; Creators](https://dev.to/livestreaming/10-best-video-hosting-platforms-in-2025-for-businesses-creators-2flb)
+- [Create a JavaScript-free modal popup with only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-javascript-free-modal-popup-with-only-tailwind-css-4ge3)
+- [5 Future-Proof Skills for Students to Earn $100K+ by 2025 &lpar;AI-Powered Opportunities Inside&rpar;](https://dev.to/paulthedev/5-future-proof-skills-for-students-to-earn-100k-by-2025-ai-powered-opportunities-inside-4989)
 <!-- BLOG-POST-LIST:END -->
 
