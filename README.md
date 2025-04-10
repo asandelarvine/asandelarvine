@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Process Management – Monitor, Control, Optimize](https://dev.to/shamain_anjum/linux-process-management-monitor-control-optimize-5f9c)
-- [Frida vs. Obscured WebView: Diagnosing the Path to an iOS CAPTCHA Automation](https://dev.to/neverlow512/frida-vs-obscured-webview-diagnosing-the-path-to-an-ios-captcha-automation-part-1-5017)
-- [Navigating Common Hosting Pitfalls: Solutions for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-common-hosting-pitfalls-solutions-for-us-digital-entrepreneurs-3abh)
-- [Building a RAG System for Video Content Search and Analysis](https://dev.to/aws/building-a-rag-system-for-video-content-search-and-analysis-5g8l)
+- [DNS Demystified: A Step-by-Step Guide from a DevOps Veteran.](https://dev.to/codingkrills/dns-demystified-a-step-by-step-guide-from-a-devops-veteran-14nl)
+- [How did university/college folks learnt development &lpar; be it web/mobile or anything else &rpar; before the chatgpt or youtube era?](https://dev.to/shivansh_varshney_03cf4a5/how-did-universitycollege-folks-learnt-development-be-it-webmobile-or-anything-else-before-1o0o)
+- [🚀 How to Integrate Commitizen &lpar;`cz`&rpar; into Your NvChad Setup for Better Git Commits](https://dev.to/oskhar/how-to-integrate-commitizen-cz-into-your-nvchad-setup-for-better-git-commits-2poi)
+- [Navigating Web Hosting Woes: Solutions for Freelancers and E-Commerce Founders](https://dev.to/florentv11/navigating-web-hosting-woes-solutions-for-freelancers-and-e-commerce-founders-999)
 <!-- BLOG-POST-LIST:END -->
 
