@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Console Utilities You &lpar;Didn&#39;t&rpar; Know](https://dev.to/railsdesigner/console-utilities-you-didnt-know-5ei2)
-- [Emoji-Driven Development with Amazon Q Developer CLI agent](https://dev.to/brooke_jamieson/emoji-driven-development-with-amazon-q-developer-cli-agent-om8)
-- [PostgreSQL](https://dev.to/wlegard/postgresql-8ih)
-- [Python Can Draw? I Built a Game Without Pygame](https://dev.to/resource_bunk_1077cab07da/python-can-draw-i-built-a-game-without-pygame-27i5)
+- [EXPOSED! The Authorization Blind Spot!](https://dev.to/yuvasec/exposed-the-authorization-blind-spot-that-makes-idor-attacks-unstoppable-4o88)
+- [Insightify Analytics Dashboard Designed](https://dev.to/worapon_code404/insightify-analytics-dashboard-designed-59pl)
+- [Primes in Style: Mastering the Sieve of Eratosthenes and Segmented Sieve in Java](https://dev.to/anupam_kumar/primes-in-style-mastering-the-sieve-of-eratosthenes-and-segmented-sieve-in-java-2o9m)
+- [Navigating the Hidden Costs of Web Hosting for Your Growing Business](https://dev.to/florentv11/navigating-the-hidden-costs-of-web-hosting-for-your-growing-business-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
