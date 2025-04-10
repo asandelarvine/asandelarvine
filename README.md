@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Error Pages in .Net Core](https://dev.to/davinceleecode/custom-error-pages-in-net-core-2cnf)
-- [Solving Poor API Performance Issues: Tips for Developers](https://dev.to/zuplo/solving-poor-api-performance-issues-tips-for-developers-h46)
-- [Performance Optimization for SaaS APIs: Key Considerations](https://dev.to/zuplo/performance-optimization-for-saas-apis-key-considerations-1nmp)
-- [API Workflows and How to Define Them](https://dev.to/zuplo/api-workflows-and-how-to-define-them-1cda)
+- [🧠 The Role of WebAssembly in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-webassembly-in-modern-frontend-development-3ji6)
+- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. Must read](https://dev.to/rajesh_patel/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-4kid)
+- [Codium vs Copilot: Which AI Coding Assistant Should You Choose?](https://dev.to/keploy/codium-vs-copilot-which-ai-coding-assistant-should-you-choose-4dgj)
+- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. The blend of real-world examples, challenges, and actionable insights makes it highly relatable for the dev community.](https://dev.to/naik_sejal/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-2ddn)
 <!-- BLOG-POST-LIST:END -->
 
