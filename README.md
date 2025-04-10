@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The Role of WebAssembly in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-webassembly-in-modern-frontend-development-3ji6)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. Must read](https://dev.to/rajesh_patel/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-4kid)
-- [Codium vs Copilot: Which AI Coding Assistant Should You Choose?](https://dev.to/keploy/codium-vs-copilot-which-ai-coding-assistant-should-you-choose-4dgj)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. The blend of real-world examples, challenges, and actionable insights makes it highly relatable for the dev community.](https://dev.to/naik_sejal/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-2ddn)
+- [Framework-less Framework](https://dev.to/framemuse/framework-less-framework-11i3)
+- [From Designer to Builder: L&amp;A’s Digital Transformation with NocoBase](https://dev.to/nocobase/from-designer-to-builder-las-digital-transformation-with-nocobase-4o2d)
+- [Will Testing Evolve into Fully AI-Automated Testing with Complete Coverage in the Future?](https://dev.to/dheerajpd411/will-testing-evolve-into-fully-ai-automated-testing-with-complete-coverage-in-the-future-4b5a)
+- [Accelerate Your Software Delivery with DevOps Expertise](https://dev.to/vishal_more_02990955c9358/accelerate-your-software-delivery-with-devops-expertise-3mfi)
 <!-- BLOG-POST-LIST:END -->
 
