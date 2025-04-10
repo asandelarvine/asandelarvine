@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce Sales GPT and Service GPT - Revolutionizing Sales and Service](https://dev.to/y_kumar_19a907c109f27be81/salesforce-sales-gpt-and-service-gpt-revolutionizing-sales-and-service-2oi1)
-- [Weekly Indie Log #2](https://dev.to/hirvesh/weekly-indie-log-2-5d59)
-- [What Is A Headless CMS? How Does It Help Websites Scale?](https://dev.to/johnsmith244303/what-is-a-headless-cms-how-does-it-help-websites-scale-22m8)
-- [Weekly Indie Log #6](https://dev.to/hirvesh/weekly-indie-log-6-d4a)
+- [How AI Chatbots Are Transforming Modern Businesses | Tech Magazine](https://dev.to/steven_yang_267/how-ai-chatbots-are-transforming-modern-businesses-tech-magazine-4495)
+- [NocoBase Weekly Updates: Optimize save job logic](https://dev.to/nocobase/nocobase-weekly-updates-optimize-save-job-logic-hoh)
+- [PawSQL for Jetbrains - Optimize your SQL Queries within Jetbrains IDEs](https://dev.to/pawsql/pawsql-for-jetbrains-optimize-your-sql-queries-within-jetbrains-ides-4pco)
+- [15 Free Status Page Tools in 2025](https://dev.to/cbartlett/15-free-status-page-tools-in-2025-5elg)
 <!-- BLOG-POST-LIST:END -->
 
