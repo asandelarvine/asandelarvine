@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS Demystified: A Step-by-Step Guide from a DevOps Veteran.](https://dev.to/codingkrills/dns-demystified-a-step-by-step-guide-from-a-devops-veteran-14nl)
-- [How did university/college folks learnt development &lpar; be it web/mobile or anything else &rpar; before the chatgpt or youtube era?](https://dev.to/shivansh_varshney_03cf4a5/how-did-universitycollege-folks-learnt-development-be-it-webmobile-or-anything-else-before-1o0o)
-- [🚀 How to Integrate Commitizen &lpar;`cz`&rpar; into Your NvChad Setup for Better Git Commits](https://dev.to/oskhar/how-to-integrate-commitizen-cz-into-your-nvchad-setup-for-better-git-commits-2poi)
-- [Navigating Web Hosting Woes: Solutions for Freelancers and E-Commerce Founders](https://dev.to/florentv11/navigating-web-hosting-woes-solutions-for-freelancers-and-e-commerce-founders-999)
+- [การพยากรณ์ยอดขาย โดยใช้การเปรียบเทียบโมเดล Linear Regression และ DNN &lpar;TensorFlow&rpar;](https://dev.to/pin_pailin/kaarphyaakrnydkhaay-odyaichkaarepriiybethiiybomedl-linear-regression-aela-dnn-tensorflow-3igl)
+- [Calculate the DORA Lead Time Metric in Python](https://dev.to/sualeh/calculate-the-dora-lead-time-metric-in-python-2bhn)
+- [How I Used Nova-Act to find the Best Hotel Deals for AWS re:Invent 2025](https://dev.to/aws-builders/how-i-used-nova-act-to-find-the-best-hotel-deals-for-aws-reinvent-2025-ma8)
+- [NextJS Consume api](https://dev.to/vytroo_e77e89f49d4188b8fa/nextjs-consume-api-4jbj)
 <!-- BLOG-POST-LIST:END -->
 
