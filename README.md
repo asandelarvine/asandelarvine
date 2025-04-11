@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a register success page for my Django app](https://dev.to/gabriel_rowan_1b96f237438/building-a-register-success-page-for-my-django-app-3onj)
-- [Using Grammatical Evolution to Discover Test Payloads: A New Frontier in API Testing](https://dev.to/copyleftdev/using-grammatical-evolution-to-discover-test-payloads-a-new-frontier-in-api-testing-3h98)
-- [How Vite resolves relative and absolute paths](https://dev.to/vivecodes/how-vite-resolves-relative-and-absolute-paths-3f8n)
-- [Realms API: Isolated Execution Contexts](https://dev.to/omriluz1/realms-api-isolated-execution-contexts-53og)
+- [A Beginner’s Guide to Getting Started with Prompt Templates in LangChain JavaScript](https://dev.to/aiengineering/a-beginners-guide-to-getting-started-with-prompt-templates-in-langchain-javascript-2mpf)
+- [Um post diário de um Dev diário](https://dev.to/notmadebyahuman/um-post-diario-de-um-dev-diario-19kn)
+- [Navigating Hosting Hurdles: Solutions for Freelancers and E-Commerce Entrepreneurs](https://dev.to/florentv11/navigating-hosting-hurdles-solutions-for-freelancers-and-e-commerce-entrepreneurs-24p4)
+- [🔍 Você sabe realmente a diferença entre Funções, BAPIs e BADIs no SAP ABAP? Se ainda confunde os conceitos ou quer uma explicação clara, com exemplos práticos e linguagem acessível, acabei de publicar um guia gratuito para iniciantes. 📘 Funções, BAPIs](https://dev.to/rafael_valim/voce-sabe-realmente-a-diferenca-entre-funcoes-bapis-e-badis-no-sap-abap-se-ainda-confunde-os-2fd6)
 <!-- BLOG-POST-LIST:END -->
 
