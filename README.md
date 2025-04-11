@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer&#39;s Perspective: Unveiling the Mechanics of Artificial Trading Volume in Crypto Exchanges](https://dev.to/iri_denis/the-developers-perspective-unveiling-the-mechanics-of-artificial-trading-volume-in-crypto-5g7a)
-- [Key Advantages of Agentic AI Workflows](https://dev.to/chetanmistry/key-advantages-of-agentic-ai-workflows-5fh5)
-- [Hera Developer Survey 2025](https://dev.to/elliot_gunton_73028975583/hera-developer-survey-2025-168d)
-- [Install n8n locally in windows easily](https://dev.to/slimpython/install-n8n-locally-in-windows-easily-223i)
+- [🔥 Google Launches Firebase Studio: A New Era for AI App Development](https://dev.to/sonichigo/google-launches-firebase-studio-a-new-era-for-ai-app-development-1p36)
+- [Understanding Dynamic Programming](https://dev.to/srivastava16/understanding-dynamic-programming-mm8)
+- [Navigating Web Hosting Pitfalls: Essential Tips for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-web-hosting-pitfalls-essential-tips-for-us-digital-entrepreneurs-5dem)
+- [&quot;เข้าใจเทคนิค Recursion บน Python&quot;](https://dev.to/baiiilel/ekhaaaicchethkhnikh-recursion-bn-python-2p4d)
 <!-- BLOG-POST-LIST:END -->
 
