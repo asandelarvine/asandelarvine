@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [การพยากรณ์ยอดขาย โดยใช้การเปรียบเทียบโมเดล Linear Regression และ DNN &lpar;TensorFlow&rpar;](https://dev.to/pin_pailin/kaarphyaakrnydkhaay-odyaichkaarepriiybethiiybomedl-linear-regression-aela-dnn-tensorflow-3igl)
-- [Calculate the DORA Lead Time Metric in Python](https://dev.to/sualeh/calculate-the-dora-lead-time-metric-in-python-2bhn)
-- [How I Used Nova-Act to find the Best Hotel Deals for AWS re:Invent 2025](https://dev.to/aws-builders/how-i-used-nova-act-to-find-the-best-hotel-deals-for-aws-reinvent-2025-ma8)
-- [NextJS Consume api](https://dev.to/vytroo_e77e89f49d4188b8fa/nextjs-consume-api-4jbj)
+- [Prompt Engineering Is Just Asking Better Questions](https://dev.to/engineeredai/prompt-engineering-is-just-asking-better-questions-4l8b)
+- [Building a Dark Mode Toggle in React With Tailwind CSS](https://dev.to/hexshift/building-a-dark-mode-toggle-in-react-with-tailwind-css-2273)
+- [Tired of Manual Deployments? Let AI Automate the Process.](https://dev.to/charan_19/tired-of-manual-deployments-let-ai-automate-the-process-12fc)
+- [What are the highest-paying Java full-stack roles?](https://dev.to/the_medicaltreasure_cf3a/what-are-the-highest-paying-java-full-stack-roles-2e9m)
 <!-- BLOG-POST-LIST:END -->
 
