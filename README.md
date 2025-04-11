@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v321](https://dev.to/devteam/welcome-thread-v321-444l)
-- [What is Webpack?](https://dev.to/gauravdalvi/what-is-webpack-371g)
-- [I Built an AI-Powered Journaling App That Understands Your Emotions — Meet Echo ☁️](https://dev.to/uthsob_cb/i-built-an-ai-powered-journaling-app-that-understands-your-emotions-meet-echo-3a91)
-- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗝𝗮𝘃𝗮 𝗙𝗹𝗶𝗴𝗵𝘁 𝗥𝗲𝗰𝗼𝗿𝗱𝗲𝗿: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 🚀](https://dev.to/thiago_souza_1510/--3o9)
+- [GraphQL in 2025: What It Is, Why It Matters, and Whether You Should Bother Learning It](https://dev.to/pravinjadhav/graphql-in-2025-what-it-is-why-it-matters-and-whether-you-should-bother-learning-it-e9h)
+- [🚀 Future of Developers is changing faster than your VS Code auto-save!](https://dev.to/sameech/future-of-developers-is-changing-faster-than-your-vs-code-auto-save-1ih)
+- [🧠 What is the Temporal Dead Zone?](https://dev.to/devcorner/what-is-the-temporal-dead-zone-11j9)
+- [BSides San Diego 2025: Shifting the Risk Conversation By The Sea Shore](https://dev.to/gitguardian/bsides-san-diego-2025-shifting-the-risk-conversation-by-the-sea-shore-4gg3)
 <!-- BLOG-POST-LIST:END -->
 
