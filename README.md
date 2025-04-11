@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Web Hosting Minefields: Solutions for Freelancers and E-Commerce Founders](https://dev.to/florentv11/navigating-web-hosting-minefields-solutions-for-freelancers-and-e-commerce-founders-3l71)
-- [What is BIM and Why It&#39;s Revolutionizing the AEC Industry](https://dev.to/artee091842/what-is-bim-and-why-its-revolutionizing-the-aec-industry-3cgn)
-- [Java Constructor.](https://dev.to/vasutamil19/java-constructor-3aka)
-- [DAY 10 in python](https://dev.to/maddy_mathan/day-10-in-python-3ln)
+- [What is Security as Code &lpar;SaC&rpar;?](https://dev.to/clouddefenseai/what-is-security-as-code-sac-4p77)
+- [The ChatGPT Action Figure Trend: A New Wave of Digital Creativity](https://dev.to/kp_midhlaj/the-chatgpt-action-figure-trend-a-new-wave-of-digital-creativity-11f2)
+- [This Is Likely the Computing Technology that Supports the Most Data Sources](https://dev.to/esproc_spl/this-is-likely-the-computing-technology-that-supports-the-most-data-sources-11cf)
+- [Yet Another Product Hunt Alternative?](https://dev.to/sachindas246/yet-another-product-hunt-alternative-1fa8)
 <!-- BLOG-POST-LIST:END -->
 
