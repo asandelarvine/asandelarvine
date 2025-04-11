@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Number Non-Null Values in Order within the Group — From SQL to SPL #17](https://dev.to/judith677/number-non-null-values-in-order-within-the-group-from-sql-to-spl-17-49p)
-- [Navigating Web Hosting Pitfalls: Essential Tips for U.S. Freelancers and Agencies](https://dev.to/florentv11/navigating-web-hosting-pitfalls-essential-tips-for-us-freelancers-and-agencies-5417)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-40kn)
-- [[Boost]](https://dev.to/arunadayb/-4821)
+- [Navigating Web Hosting Minefields: Solutions for Freelancers and E-Commerce Founders](https://dev.to/florentv11/navigating-web-hosting-minefields-solutions-for-freelancers-and-e-commerce-founders-3l71)
+- [What is BIM and Why It&#39;s Revolutionizing the AEC Industry](https://dev.to/artee091842/what-is-bim-and-why-its-revolutionizing-the-aec-industry-3cgn)
+- [Java Constructor.](https://dev.to/vasutamil19/java-constructor-3aka)
+- [DAY 10 in python](https://dev.to/maddy_mathan/day-10-in-python-3ln)
 <!-- BLOG-POST-LIST:END -->
 
