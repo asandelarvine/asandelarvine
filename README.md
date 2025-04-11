@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Hosting Challenges: Essential Strategies for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-hosting-challenges-essential-strategies-for-us-digital-entrepreneurs-55hh)
-- [Superintelligent AI &lpar;ASI&rpar;, Grand Outdoors, and Continued Development](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligent-ai-asi-grand-outdoors-and-continued-development-146e)
-- [Built a Tool to Auto-Apply to Jobs on Naukri.com Using AI](https://dev.to/pranesh_nangare_2dff2c3a1/built-a-tool-to-auto-apply-to-jobs-on-naukricom-using-ai-1557)
-- [Clean Code in the Age of AI: Why Machines Need Comments Too 🤖🧠](https://dev.to/bgauryy/clean-code-in-the-age-of-ai-why-machines-need-comments-too-15d0)
+- [Day 1: if else](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-if-else-566)
+- [Top Software Testing Statistics &amp; Trends for 2025](https://dev.to/ronika_kashyap/top-software-testing-statistics-trends-for-2025-31ak)
+- [Mind the Gap: Bridging AI and Human Communication](https://dev.to/bgauryy/making-ai-agents-more-human-the-missing-part-in-ai-communication-59o)
+- [Configuração de MCP Server de Arquivos Locais com Claude Desktop](https://dev.to/tom-log/configuracao-de-mcp-server-de-arquivos-locais-com-claude-desktop-4lg2)
 <!-- BLOG-POST-LIST:END -->
 
