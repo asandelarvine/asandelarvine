@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Megazord Um- Nicho Promissor para criação do software no :Mercado Imobiliário&lpar;Por:Leonardo Belilo Messias&rpar;](https://dev.to/leonardobelilomessia/megazord-um-nicho-promissor-para-criacao-do-software-no-mercado-imobiliarioporleonardo-44ce)
-- [Why React Native Development Sucks &lpar;Unless You&#39;re Using Expo&rpar;](https://dev.to/pranta/why-react-native-development-sucks-unless-youre-using-expo-221c)
-- [The Rise of AI: A Turning Point for All of Us](https://dev.to/jenueldev/the-rise-of-ai-a-turning-point-for-all-of-us-2ddc)
-- [DevOps Roadmap 2025: From Beginner to Pro with Linux, Docker, Kubernetes &amp; Cloud](https://dev.to/kishgi/devops-roadmap-2025-from-beginner-to-pro-with-linux-docker-kubernetes-cloud-4p8e)
+- [Welcome Thread - v321](https://dev.to/devteam/welcome-thread-v321-444l)
+- [What is Webpack?](https://dev.to/gauravdalvi/what-is-webpack-371g)
+- [I Built an AI-Powered Journaling App That Understands Your Emotions — Meet Echo ☁️](https://dev.to/uthsob_cb/i-built-an-ai-powered-journaling-app-that-understands-your-emotions-meet-echo-3a91)
+- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗝𝗮𝘃𝗮 𝗙𝗹𝗶𝗴𝗵𝘁 𝗥𝗲𝗰𝗼𝗿𝗱𝗲𝗿: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 🚀](https://dev.to/thiago_souza_1510/--3o9)
 <!-- BLOG-POST-LIST:END -->
 
