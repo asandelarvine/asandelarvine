@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Tools to Build Your First MVP in Days, Not Months🚀🚀🚀](https://dev.to/taradepan/5-ai-tools-to-build-your-first-mvp-in-days-not-months-38aj)
-- [AI-Powered Wearables: The Future of Personal Health](https://dev.to/avalily/ai-powered-wearables-the-future-of-personal-health-55ca)
-- [Introduction to Demo Time – Use Visual Studio Code as your presentation tool](https://dev.to/estruyf/introduction-to-demo-time-use-visual-studio-code-as-your-presentation-tool-m3m)
-- [Exploring the Strategic Approach for Crypto Token Development](https://dev.to/abijohn/exploring-the-strategic-approach-for-crypto-token-development-52dn)
+- [How to Configure GraphQL in Angular: For Public and Private APIs](https://dev.to/kingsley/how-to-configure-graphql-in-angular-for-public-and-private-apis-3fc7)
+- [Ai In Web Development: Personal Experience.](https://dev.to/mohammad_kh4441/ai-in-web-development-personal-experience-5gb7)
+- [How I Built VyapaarX: A Business Management System Using the MERN Stack with WhatsApp Billing](https://dev.to/arora99/how-i-built-vyapaarx-a-business-management-system-using-the-mern-stack-with-whatsapp-billing-3jo7)
+- [The Evolution of 6G: What’s Next for Connectivity?](https://dev.to/avalily/the-evolution-of-6g-whats-next-for-connectivity-133g)
 <!-- BLOG-POST-LIST:END -->
 
