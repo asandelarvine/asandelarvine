@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform and Nuxt: Deployment Automation](https://dev.to/evertontenorio/terraform-and-nuxt-deployment-automation-1eif)
-- [Making Your Documentation AI-Friendly: A Practical Guide](https://dev.to/sudo_overflow/making-your-documentation-ai-friendly-a-practical-guide-2h1f)
-- [WTF Is Everyone Talking About? A developer dictionary that doesn’t suck](https://dev.to/saida_lachgar/-2omg)
-- [AZ INSTANT PAYDAY Review: Is It Worth It? My Honest Thoughts &lpar;2025&rpar;](https://dev.to/liliya10/az-instant-payday-review-is-it-worth-it-my-honest-thoughts-2025-3b3f)
+- [Untitled](https://dev.to/said_idrissi_8af59eeb7400/untitled-jpb)
+- [Zen and the Art of Workflow Automation](https://dev.to/joshycodes/zen-and-the-art-of-workflow-automation-1k4b)
+- [Build Function-Calling Agents in Node.js with Agentic](https://dev.to/obaydmerz/build-function-calling-agents-in-nodejs-with-agentic-315c)
+- [Flask and ReactJS Web App Deployment](https://dev.to/codewithmycah/flask-and-reactjs-web-app-deployment-2h86)
 <!-- BLOG-POST-LIST:END -->
 
