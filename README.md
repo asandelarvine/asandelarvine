@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering Is Just Asking Better Questions](https://dev.to/engineeredai/prompt-engineering-is-just-asking-better-questions-4l8b)
-- [Building a Dark Mode Toggle in React With Tailwind CSS](https://dev.to/hexshift/building-a-dark-mode-toggle-in-react-with-tailwind-css-2273)
-- [Tired of Manual Deployments? Let AI Automate the Process.](https://dev.to/charan_19/tired-of-manual-deployments-let-ai-automate-the-process-12fc)
-- [What are the highest-paying Java full-stack roles?](https://dev.to/the_medicaltreasure_cf3a/what-are-the-highest-paying-java-full-stack-roles-2e9m)
+- [Number Non-Null Values in Order within the Group — From SQL to SPL #17](https://dev.to/judith677/number-non-null-values-in-order-within-the-group-from-sql-to-spl-17-49p)
+- [Navigating Web Hosting Pitfalls: Essential Tips for U.S. Freelancers and Agencies](https://dev.to/florentv11/navigating-web-hosting-pitfalls-essential-tips-for-us-freelancers-and-agencies-5417)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-40kn)
+- [[Boost]](https://dev.to/arunadayb/-4821)
 <!-- BLOG-POST-LIST:END -->
 
