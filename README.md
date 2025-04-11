@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian News Opinion Mining: New Dataset &amp; Extraction Methods](https://dev.to/aimodels-fyi/russian-news-opinion-mining-new-dataset-extraction-methods-249p)
-- [AI Vision Fails Global Test: New 101-Language Benchmark Exposes Weaknesses](https://dev.to/aimodels-fyi/ai-vision-fails-global-test-new-101-language-benchmark-exposes-weaknesses-3gbd)
-- [[Boost]](https://dev.to/acrylicshrimp/-4cl7)
-- [AWARE: 74x Faster, Accurate AI Text Control &lpar;No Retraining!&rpar;](https://dev.to/aimodels-fyi/aware-74x-faster-accurate-ai-text-control-no-retraining-olh)
+- [Turn Your React App into a PWA That Works Offline, Installs Like Magic &amp; Feels Native](https://dev.to/codewithsuhani/turn-your-react-app-into-a-pwa-that-works-offline-installs-like-magic-feels-native-40dn)
+- [Understanding Constraints in DBMS](https://dev.to/rishabhtpt/understanding-constraints-in-dbms-4kb9)
+- [hey guys speed up your python code, especially with dynamic programming and recursive functions](https://dev.to/coderatul/hey-guys-speed-up-your-python-code-especially-with-dynamic-programming-and-recursive-functions-2hol)
+- [Cache in Python !](https://dev.to/coderatul/cache-in-python--18g)
 <!-- BLOG-POST-LIST:END -->
 
