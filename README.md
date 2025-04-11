@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure GraphQL in Angular: For Public and Private APIs](https://dev.to/kingsley/how-to-configure-graphql-in-angular-for-public-and-private-apis-3fc7)
-- [Ai In Web Development: Personal Experience.](https://dev.to/mohammad_kh4441/ai-in-web-development-personal-experience-5gb7)
-- [How I Built VyapaarX: A Business Management System Using the MERN Stack with WhatsApp Billing](https://dev.to/arora99/how-i-built-vyapaarx-a-business-management-system-using-the-mern-stack-with-whatsapp-billing-3jo7)
-- [The Evolution of 6G: What’s Next for Connectivity?](https://dev.to/avalily/the-evolution-of-6g-whats-next-for-connectivity-133g)
+- [⚙️ SQL Patterns for Optimizing IoT Queries in TimescaleDB](https://dev.to/timescale/sql-patterns-for-optimizing-iot-queries-in-timescaledb-kp9)
+- [Day - 10 at payilagam &quot;Discussion&quot;](https://dev.to/kuhanraja_ar_1df623b8e2e/day-10-at-payilagam-discussion-3fp9)
+- [🔍Linear Search Made Easy – Find Like a Detective!🎯](https://dev.to/khushi2488/lets-find-it-linear-search-2o42)
+- [Building Your First Trading Bot: A Step-by-Step Guide](https://dev.to/tomhardy/building-your-first-trading-bot-a-step-by-step-guide-385b)
 <!-- BLOG-POST-LIST:END -->
 
