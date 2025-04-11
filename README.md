@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Cluster Internals: How Clients Locate the Right Shard](https://dev.to/leapcell/redis-cluster-internals-how-clients-locate-the-right-shard-48je)
-- [Navigating the Future: The Leading Enterprise Software Development Firms](https://dev.to/jabran_mustafa_cf7667f97a/navigating-the-future-the-leading-enterprise-software-development-firms-4m9g)
-- [Modernize the Workplace – Boost Productivity with the Right Tech Stack](https://dev.to/kevin_asutton_/modernize-the-workplace-boost-productivity-with-the-right-tech-stack-3efk)
-- [The vibes are off](https://dev.to/joelkang/the-vibes-are-off-4n69)
+- [Building a register success page for my Django app](https://dev.to/gabriel_rowan_1b96f237438/building-a-register-success-page-for-my-django-app-3onj)
+- [Using Grammatical Evolution to Discover Test Payloads: A New Frontier in API Testing](https://dev.to/copyleftdev/using-grammatical-evolution-to-discover-test-payloads-a-new-frontier-in-api-testing-3h98)
+- [How Vite resolves relative and absolute paths](https://dev.to/vivecodes/how-vite-resolves-relative-and-absolute-paths-3f8n)
+- [Realms API: Isolated Execution Contexts](https://dev.to/omriluz1/realms-api-isolated-execution-contexts-53og)
 <!-- BLOG-POST-LIST:END -->
 
