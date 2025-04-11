@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Your React App into a PWA That Works Offline, Installs Like Magic &amp; Feels Native](https://dev.to/codewithsuhani/turn-your-react-app-into-a-pwa-that-works-offline-installs-like-magic-feels-native-40dn)
-- [Understanding Constraints in DBMS](https://dev.to/rishabhtpt/understanding-constraints-in-dbms-4kb9)
-- [hey guys speed up your python code, especially with dynamic programming and recursive functions](https://dev.to/coderatul/hey-guys-speed-up-your-python-code-especially-with-dynamic-programming-and-recursive-functions-2hol)
-- [Cache in Python !](https://dev.to/coderatul/cache-in-python--18g)
+- [The Developer&#39;s Perspective: Unveiling the Mechanics of Artificial Trading Volume in Crypto Exchanges](https://dev.to/iri_denis/the-developers-perspective-unveiling-the-mechanics-of-artificial-trading-volume-in-crypto-5g7a)
+- [Key Advantages of Agentic AI Workflows](https://dev.to/chetanmistry/key-advantages-of-agentic-ai-workflows-5fh5)
+- [Hera Developer Survey 2025](https://dev.to/elliot_gunton_73028975583/hera-developer-survey-2025-168d)
+- [Install n8n locally in windows easily](https://dev.to/slimpython/install-n8n-locally-in-windows-easily-223i)
 <!-- BLOG-POST-LIST:END -->
 
