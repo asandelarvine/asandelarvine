@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Security as Code &lpar;SaC&rpar;?](https://dev.to/clouddefenseai/what-is-security-as-code-sac-4p77)
-- [The ChatGPT Action Figure Trend: A New Wave of Digital Creativity](https://dev.to/kp_midhlaj/the-chatgpt-action-figure-trend-a-new-wave-of-digital-creativity-11f2)
-- [This Is Likely the Computing Technology that Supports the Most Data Sources](https://dev.to/esproc_spl/this-is-likely-the-computing-technology-that-supports-the-most-data-sources-11cf)
-- [Yet Another Product Hunt Alternative?](https://dev.to/sachindas246/yet-another-product-hunt-alternative-1fa8)
+- [Vibe Coding: The Coolest Way to Code Like a Rebel](https://dev.to/manas_tole_039/vibe-coding-the-coolest-way-to-code-like-a-rebel-3io0)
+- [Automating CS Refund Inquiries with an AI Agent: Using Agentica](https://dev.to/leo_ko_7e30548a8d765dde77/automating-cs-refund-inquiries-with-an-ai-agent-using-agentica-6bn)
+- [Aluminum Nitride Ceramic Resistors: High Performance for High Frequency and High Power Applications](https://dev.to/ba_cool_bf802250fed13cfca/aluminum-nitride-ceramic-resistors-high-performance-for-high-frequency-and-high-power-applications-5gf0)
+- [🧠 Ever wondered how useReducer actually works under the hood?](https://dev.to/aleksei_aleinikov/ever-wondered-how-usereducer-actually-works-under-the-hood-2onb)
 <!-- BLOG-POST-LIST:END -->
 
