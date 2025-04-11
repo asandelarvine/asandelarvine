@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: if else](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-if-else-566)
-- [Top Software Testing Statistics &amp; Trends for 2025](https://dev.to/ronika_kashyap/top-software-testing-statistics-trends-for-2025-31ak)
-- [Mind the Gap: Bridging AI and Human Communication](https://dev.to/bgauryy/making-ai-agents-more-human-the-missing-part-in-ai-communication-59o)
-- [Configuração de MCP Server de Arquivos Locais com Claude Desktop](https://dev.to/tom-log/configuracao-de-mcp-server-de-arquivos-locais-com-claude-desktop-4lg2)
+- [Redis Cluster Internals: How Clients Locate the Right Shard](https://dev.to/leapcell/redis-cluster-internals-how-clients-locate-the-right-shard-48je)
+- [Navigating the Future: The Leading Enterprise Software Development Firms](https://dev.to/jabran_mustafa_cf7667f97a/navigating-the-future-the-leading-enterprise-software-development-firms-4m9g)
+- [Modernize the Workplace – Boost Productivity with the Right Tech Stack](https://dev.to/kevin_asutton_/modernize-the-workplace-boost-productivity-with-the-right-tech-stack-3efk)
+- [The vibes are off](https://dev.to/joelkang/the-vibes-are-off-4n69)
 <!-- BLOG-POST-LIST:END -->
 
