@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: The Coolest Way to Code Like a Rebel](https://dev.to/manas_tole_039/vibe-coding-the-coolest-way-to-code-like-a-rebel-3io0)
-- [Automating CS Refund Inquiries with an AI Agent: Using Agentica](https://dev.to/leo_ko_7e30548a8d765dde77/automating-cs-refund-inquiries-with-an-ai-agent-using-agentica-6bn)
-- [Aluminum Nitride Ceramic Resistors: High Performance for High Frequency and High Power Applications](https://dev.to/ba_cool_bf802250fed13cfca/aluminum-nitride-ceramic-resistors-high-performance-for-high-frequency-and-high-power-applications-5gf0)
-- [🧠 Ever wondered how useReducer actually works under the hood?](https://dev.to/aleksei_aleinikov/ever-wondered-how-usereducer-actually-works-under-the-hood-2onb)
+- [Russian News Opinion Mining: New Dataset &amp; Extraction Methods](https://dev.to/aimodels-fyi/russian-news-opinion-mining-new-dataset-extraction-methods-249p)
+- [AI Vision Fails Global Test: New 101-Language Benchmark Exposes Weaknesses](https://dev.to/aimodels-fyi/ai-vision-fails-global-test-new-101-language-benchmark-exposes-weaknesses-3gbd)
+- [[Boost]](https://dev.to/acrylicshrimp/-4cl7)
+- [AWARE: 74x Faster, Accurate AI Text Control &lpar;No Retraining!&rpar;](https://dev.to/aimodels-fyi/aware-74x-faster-accurate-ai-text-control-no-retraining-olh)
 <!-- BLOG-POST-LIST:END -->
 
