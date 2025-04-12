@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗹𝗼𝘀𝘂𝗿𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗡𝗮𝗶𝗹 𝗬𝗼𝘂𝗿 𝗡𝗲𝘅𝘁 𝗧𝗲𝗰𝗵 𝗥𝗼𝗹𝗲🚀](https://dev.to/hasan_rifat/20-267j)
-- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
-- [Unlock Effortless Scanning with Epson ScanSmart – Boost Productivity](https://dev.to/tobbystalin/unlock-effortless-scanning-with-epson-scansmart-boost-productivity-3658)
-- [AI Doctor Paradox: Right Diagnosis, Wrong Reasoning in Rheumatoid Arthritis](https://dev.to/aimodels-fyi/ai-doctor-paradox-right-diagnosis-wrong-reasoning-in-rheumatoid-arthritis-4456)
+- [🔍 Understanding Clustered vs Non-Clustered Indexes in SQL Server](https://dev.to/davinceleecode/understanding-clustered-vs-non-clustered-indexes-in-sql-server-2a2c)
+- [🚀 Building a Custom Windows Installer with Inno Setup for WPF Applications 💻✨](https://dev.to/yash_maisuriya/building-a-custom-windows-installer-with-inno-setup-for-wpf-applications-113j)
+- [IA: A Era da Preguiça ou a Era da Produtividade?](https://dev.to/tiagomabango/ia-a-era-da-preguica-ou-a-era-da-produtividade-8pd)
+- [MOV vs MP4: Why You Should Make the Switch Today](https://dev.to/smartdev72/mov-vs-mp4-why-you-should-make-the-switch-today-4iim)
 <!-- BLOG-POST-LIST:END -->
 
