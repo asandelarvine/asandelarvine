@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Let&#39;s Find It – Binary Search! 🚀](https://dev.to/khushi2488/lets-find-it-binary-search-6n0)
-- [Kagent: Agents de IA em clusters Kubernetes](https://dev.to/rafaelbonilha/kagent-agents-de-ia-em-clusters-kubernetes-3pkb)
-- [Letting Agents Write and Review Code — A 0dev Milestone&lpar;Demo&rpar;](https://dev.to/mohsenkamrani/letting-agents-write-and-review-code-a-0dev-milestonedemo-578g)
-- [Build Better UIs: A Framework-Agnostic Tree View with Drag &amp; Drop for Vue &lpar;and Beyond&rpar;](https://dev.to/jmkcoder/build-better-uis-a-framework-agnostic-tree-view-with-drag-drop-for-vue-and-beyond-29ga)
+- [Forgot the CAPTCHA Again? This Simple C#/.NET Open-Source Package Can Be Your Bot-Stopping Hero!](https://dev.to/hussein_nakhostin_f9aa5b1/forgot-the-captcha-again-this-simple-cnet-open-source-package-can-be-your-bot-stopping-hero-4nm4)
+- [The future of dynamic pricing lies in AI driven pricing tools](https://dev.to/mike_teriwall/the-future-of-dynamic-pricing-lies-in-ai-driven-pricing-tools-5891)
+- [📌 10.7 – Diferenças para o Joda-Time](https://dev.to/fundamentosjava/107-diferencas-para-o-joda-time-4gj6)
+- [Ajay Hinduja Techie One: Embracing the Future of AI Technology](https://dev.to/ajayhinduja/ajay-hinduja-techie-one-embracing-the-future-of-ai-technology-23gl)
 <!-- BLOG-POST-LIST:END -->
 
