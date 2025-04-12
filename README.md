@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Custom Authentication System in Next.js With JWT](https://dev.to/hexshift/creating-a-custom-authentication-system-in-nextjs-with-jwt-3763)
-- [VsCode not opening with code](https://dev.to/ranit/vscode-not-opening-with-code-511g)
-- [D2](https://dev.to/gchar/d2-2e02)
-- [B2B Sales KPIs](https://dev.to/hassankotb/b2b-sales-kpis-6b1)
+- [Migrating from Bitbucket to GitLab? Here’s how to keep your teams moving without missing a beat.](https://dev.to/superorange0707/migrating-from-bitbucket-to-gitlab-heres-how-to-keep-your-teams-moving-without-missing-a-beat-182i)
+- [Making Unity WebGL Games Run Smoothly on Low-End Browsers](https://dev.to/alok_krishali/making-unity-webgl-games-run-smoothly-on-low-end-browsers-58g7)
+- [AWS Graviton4 in 2025: Arm Chips Boost Cloud Efficiency](https://dev.to/justin_downes/aws-graviton4-in-2025-arm-chips-boost-cloud-efficiency-3d56)
+- [If you are looking to learn oops concept in fun way do check this out!](https://dev.to/akashjana/if-you-are-looking-to-learn-oops-concept-in-fun-way-do-check-this-out-obm)
 <!-- BLOG-POST-LIST:END -->
 
