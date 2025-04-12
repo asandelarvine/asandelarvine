@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inbox Zero Workflow: Filters, Labels, and Shortcuts That Actually Work](https://dev.to/ravishan16/inbox-zero-workflow-filters-labels-and-shortcuts-that-actually-work-4ib5)
-- [Looking for a Real Front-End Dev Friend — Not Just a Collab Partner ✨](https://dev.to/kelvincode1234/looking-for-a-real-front-end-dev-friend-not-just-a-collab-partner-3ap9)
-- [hello everyone, i am a new techguy in this community](https://dev.to/ezra_iorkyaa_f775e9e64768/hello-everyone-i-am-a-new-techguy-in-this-community-18ah)
-- [How to Build a WordPress Online Store with Blocks: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-build-a-wordpress-online-store-with-blocks-a-step-by-step-guide-3jdh)
+- [Build Better UIs: A Framework-Agnostic Tree View with Drag &amp; Drop for Vue &lpar;and Beyond&rpar;](https://dev.to/jmkcoder/build-better-uis-a-framework-agnostic-tree-view-with-drag-drop-for-vue-and-beyond-29ga)
+- [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-25l7)
+- [Phrest Finder - v20](https://dev.to/notmadebyahuman/phrest-finder-v20-1lkl)
+- [Level Up as a Developer: Using AI to Spot and Close Your Coding Skill Gaps](https://dev.to/raajaryan/level-up-as-a-developer-using-ai-to-spot-and-close-your-coding-skill-gaps-759)
 <!-- BLOG-POST-LIST:END -->
 
