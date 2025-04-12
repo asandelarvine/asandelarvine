@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert MP4 to GIF &lpar;Easy &amp; Fast Guide&rpar;](https://dev.to/smartdev72/how-to-convert-mp4-to-gif-easy-fast-guide-1592)
-- [The zen and art of co-learning](https://dev.to/rameenak/the-zen-andd-art-of-co-learning-7oc)
-- [How is Gen AI used in education?](https://dev.to/shriyansh_iot_98734929139/how-is-gen-ai-used-in-education-12kj)
-- [HeadSpin Alternatives with Better ROI: Top Tools Compared](https://dev.to/shubham-theqa/headspin-alternatives-with-better-roi-top-tools-compared-4j7o)
+- [Top 10 Katalon Alternatives: A Comprehensive Comparison](https://dev.to/morrismoses149/top-10-katalon-alternatives-a-comprehensive-comparison-dkk)
+- [Struggling with MOV Files? Here’s How to Convert Them Easily](https://dev.to/smartdev72/struggling-with-mov-files-heres-how-to-convert-them-easily-3pe9)
+- [From Idea to Impact: Understanding the Most Valuable Product in Modern Software Development by Ted Vitale NJ](https://dev.to/tedvitalenjproduct/from-idea-to-impact-understanding-the-most-valuable-product-in-modern-software-development-by-ted-2gde)
+- [The Only WEBM Converter Guide You’ll Ever Need](https://dev.to/smartdev72/the-only-webm-converter-guide-youll-ever-need-7o9)
 <!-- BLOG-POST-LIST:END -->
 
