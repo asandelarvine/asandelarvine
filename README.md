@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an End-to-End Data Pipeline for NYC Citi Bike 2024: A DE Zoomcamp Journey](https://dev.to/ccinaza/building-an-end-to-end-data-pipeline-for-nyc-citi-bike-2024-a-de-zoomcamp-journey-47o)
-- [Asynchronous Processing in Java with Promises](https://dev.to/siy/asynchronous-processing-in-java-with-promises-3hhe)
-- [Linux + Terraform: Building Safe Infrastructure with Variable Validation](https://dev.to/rajpreet_gill_6272051bd31/linux-terraform-building-safe-infrastructure-with-variable-validation-d6b)
-- [# Day 4 JavaScript Practice: Beginner Exercises Cheatsheet](https://dev.to/code_2/-day-4-javascript-practice-beginner-exercises-cheatsheet-3g6p)
+- [Optimize Your WordPress Website with Object Caching](https://dev.to/minima_desk_cd9b151c4e2fb/optimize-your-wordpress-website-with-object-caching-1509)
+- [Why Does JavaScript Fetch Need Two Awaits?](https://dev.to/bharathvajganesan/why-does-javascript-fetch-need-two-awaits-2ppp)
+- [How to Change Font Size in WordPress: A Beginner&#39;s Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-change-font-size-in-wordpress-a-beginners-guide-58h3)
+- [Optimizing Your Dedicated Game Server: Strategies for Maximum Performance](https://dev.to/minima_desk_cd9b151c4e2fb/optimizing-your-dedicated-game-server-strategies-for-maximum-performance-555l)
 <!-- BLOG-POST-LIST:END -->
 
