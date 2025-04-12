@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming vs Queuing: What Happens If You Choose Wrong?](https://dev.to/smiah/streaming-vs-queuing-what-happens-if-you-choose-wrong-2h6e)
-- [Mutate or Replace: What Really Triggers UI Re-Renders in JavaScript Frameworks](https://dev.to/sandheep_kumarpatro_1c48/mutate-or-replace-what-really-triggers-ui-re-renders-in-javascript-frameworks-4i24)
-- [Reverse Proxy vs. API Gateway vs. Load Balancer🌐](https://dev.to/mohamed_nabil_19a2c451a59/reverse-proxy-vs-api-gateway-vs-load-balancer-2dm)
-- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-5ca6)
+- [Building an End-to-End Data Pipeline for NYC Citi Bike 2024: A DE Zoomcamp Journey](https://dev.to/ccinaza/building-an-end-to-end-data-pipeline-for-nyc-citi-bike-2024-a-de-zoomcamp-journey-47o)
+- [Asynchronous Processing in Java with Promises](https://dev.to/siy/asynchronous-processing-in-java-with-promises-3hhe)
+- [Linux + Terraform: Building Safe Infrastructure with Variable Validation](https://dev.to/rajpreet_gill_6272051bd31/linux-terraform-building-safe-infrastructure-with-variable-validation-d6b)
+- [# Day 4 JavaScript Practice: Beginner Exercises Cheatsheet](https://dev.to/code_2/-day-4-javascript-practice-beginner-exercises-cheatsheet-3g6p)
 <!-- BLOG-POST-LIST:END -->
 
