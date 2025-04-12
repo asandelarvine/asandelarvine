@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zarin is a free, open-source AI chat app with multi-model support.](https://dev.to/abdibrokhim/zarin-is-a-free-open-source-ai-chat-app-with-multi-model-support-4h8k)
-- [🌳 Mastering Binary Tree Traversal &lpar;with Java Code Examples&rpar;](https://dev.to/devcorner/mastering-binary-tree-traversal-with-java-code-examples-4f5i)
-- [Computer Vision I - Intro](https://dev.to/sc0v0ne/computer-vision-i-intro-3hm0)
-- [🔍 Mastering the Binary Search Pattern &lpar;with Java Code Examples&rpar;](https://dev.to/devcorner/mastering-the-binary-search-pattern-with-java-code-examples-2mb9)
+- [Creating a Custom Authentication System in Next.js With JWT](https://dev.to/hexshift/creating-a-custom-authentication-system-in-nextjs-with-jwt-3763)
+- [VsCode not opening with code](https://dev.to/ranit/vscode-not-opening-with-code-511g)
+- [D2](https://dev.to/gchar/d2-2e02)
+- [B2B Sales KPIs](https://dev.to/hassankotb/b2b-sales-kpis-6b1)
 <!-- BLOG-POST-LIST:END -->
 
