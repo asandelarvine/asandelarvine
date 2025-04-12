@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Career of Joshua Vignona_ Pioneering Agile Practices - Joshua Vignona](https://dev.to/joshua022/inside-the-career-of-joshua-vignona-pioneering-agile-practices-joshua-vignona-4g8h)
-- [Pixelated Photos? Here’s How to Upscale Them Like a Pro](https://dev.to/smartdev72/pixelated-photos-heres-how-to-upscale-them-like-a-pro-5fd2)
-- [🧠 JS Pop Quiz: ⚡️Faster iterations](https://dev.to/tusharshahi/js-pop-quiz-faster-iterations-3n39)
-- [Python: From Darkness to Dawn](https://dev.to/souhaillaghchimdev/python-from-darkness-to-dawn-3ibn)
+- [🤖 Master the Art of Building AI Agents - FREE YouTube Course!](https://dev.to/bytesinstitute/master-the-art-of-building-ai-agents-free-youtube-course-3pl1)
+- [Creating Jenkins on AWS](https://dev.to/olalekan_oladiran_d74b7a6/creating-jenkins-on-aws-jo5)
+- [CORS and Same-Origin Policy Deep Dive](https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-337g)
+- [Cartoonify Your Image: Add a Fun Twist to Any Picture](https://dev.to/smartdev72/cartoonify-your-image-add-a-fun-twist-to-any-picture-25ak)
 <!-- BLOG-POST-LIST:END -->
 
