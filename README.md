@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Understanding Clustered vs Non-Clustered Indexes in SQL Server](https://dev.to/davinceleecode/understanding-clustered-vs-non-clustered-indexes-in-sql-server-2a2c)
-- [🚀 Building a Custom Windows Installer with Inno Setup for WPF Applications 💻✨](https://dev.to/yash_maisuriya/building-a-custom-windows-installer-with-inno-setup-for-wpf-applications-113j)
-- [IA: A Era da Preguiça ou a Era da Produtividade?](https://dev.to/tiagomabango/ia-a-era-da-preguica-ou-a-era-da-produtividade-8pd)
-- [MOV vs MP4: Why You Should Make the Switch Today](https://dev.to/smartdev72/mov-vs-mp4-why-you-should-make-the-switch-today-4iim)
+- [How to Convert MP4 to GIF &lpar;Easy &amp; Fast Guide&rpar;](https://dev.to/smartdev72/how-to-convert-mp4-to-gif-easy-fast-guide-1592)
+- [The zen and art of co-learning](https://dev.to/rameenak/the-zen-andd-art-of-co-learning-7oc)
+- [How is Gen AI used in education?](https://dev.to/shriyansh_iot_98734929139/how-is-gen-ai-used-in-education-12kj)
+- [HeadSpin Alternatives with Better ROI: Top Tools Compared](https://dev.to/shubham-theqa/headspin-alternatives-with-better-roi-top-tools-compared-4j7o)
 <!-- BLOG-POST-LIST:END -->
 
