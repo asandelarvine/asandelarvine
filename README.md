@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚛️ 50 Must-Have VS Code Extensions for React Native Developers](https://dev.to/amitkumar13/50-must-have-vs-code-extensions-for-react-native-developers-44ha)
-- [Dbms Definition](https://dev.to/rishabhtpt/dbms-definition-365d)
-- [10 &lpar;+1&rpar; QA Archetypes Dominating 2025 &lpar;Memes Included&rpar;](https://dev.to/harsha_vardhanreddy_9017/10-1-qa-archetypes-dominating-2025-memes-included-2hb8)
-- [Optimizing React Performance With Memoization and Code Splitting](https://dev.to/hexshift/optimizing-react-performance-with-memoization-and-code-splitting-18gi)
+- [20 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗹𝗼𝘀𝘂𝗿𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗡𝗮𝗶𝗹 𝗬𝗼𝘂𝗿 𝗡𝗲𝘅𝘁 𝗧𝗲𝗰𝗵 𝗥𝗼𝗹𝗲🚀](https://dev.to/hasan_rifat/20-267j)
+- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
+- [Unlock Effortless Scanning with Epson ScanSmart – Boost Productivity](https://dev.to/tobbystalin/unlock-effortless-scanning-with-epson-scansmart-boost-productivity-3658)
+- [AI Doctor Paradox: Right Diagnosis, Wrong Reasoning in Rheumatoid Arthritis](https://dev.to/aimodels-fyi/ai-doctor-paradox-right-diagnosis-wrong-reasoning-in-rheumatoid-arthritis-4456)
 <!-- BLOG-POST-LIST:END -->
 
