@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Master the Art of Building AI Agents - FREE YouTube Course!](https://dev.to/bytesinstitute/master-the-art-of-building-ai-agents-free-youtube-course-3pl1)
-- [Creating Jenkins on AWS](https://dev.to/olalekan_oladiran_d74b7a6/creating-jenkins-on-aws-jo5)
-- [CORS and Same-Origin Policy Deep Dive](https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-337g)
-- [Cartoonify Your Image: Add a Fun Twist to Any Picture](https://dev.to/smartdev72/cartoonify-your-image-add-a-fun-twist-to-any-picture-25ak)
+- [Streaming vs Queuing: What Happens If You Choose Wrong?](https://dev.to/smiah/streaming-vs-queuing-what-happens-if-you-choose-wrong-2h6e)
+- [Mutate or Replace: What Really Triggers UI Re-Renders in JavaScript Frameworks](https://dev.to/sandheep_kumarpatro_1c48/mutate-or-replace-what-really-triggers-ui-re-renders-in-javascript-frameworks-4i24)
+- [Reverse Proxy vs. API Gateway vs. Load Balancer🌐](https://dev.to/mohamed_nabil_19a2c451a59/reverse-proxy-vs-api-gateway-vs-load-balancer-2dm)
+- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-5ca6)
 <!-- BLOG-POST-LIST:END -->
 
