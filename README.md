@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simba: Unleash the Power of Your Knowledge with this Open-Source KMS](https://dev.to/githubopensource/simba-unleash-the-power-of-your-knowledge-with-this-open-source-kms-31b5)
-- [Innovation Management Platform in 2025 — Meet Lubyc!](https://dev.to/2020_8sima_6852080c40207/innovation-management-platform-in-2025-meet-lubyc-3fch)
-- [# Criando APIs com Grape e Rails: Uma Jornada Completa - Parte 1](https://dev.to/videosdeti/-criando-apis-com-grape-e-rails-uma-jornada-completa-parte-1-2edk)
-- [Java 24 Launch - Live from JavaOne 2025](https://dev.to/mehdi1/java-24-launch-live-from-javaone-2025-5fdm)
+- [Useful Dev Tools for Hardware Beyond the IDE](https://dev.to/buonoatsushi/useful-dev-tools-for-hardware-beyond-the-ide-27kp)
+- [[Boost]](https://dev.to/dumboprogrammer/-4399)
+- [Meta&#39;s Llama 4 Scandal](https://dev.to/dumboprogrammer/metas-llama-4-scandal-fak)
+- [Clean Architecture in .net application step by step](https://dev.to/ravivis13370227/clean-architecture-in-net-application-step-by-step-2ol0)
 <!-- BLOG-POST-LIST:END -->
 
