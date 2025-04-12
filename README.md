@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/said_idrissi_8af59eeb7400/untitled-jpb)
-- [Zen and the Art of Workflow Automation](https://dev.to/joshycodes/zen-and-the-art-of-workflow-automation-1k4b)
-- [Build Function-Calling Agents in Node.js with Agentic](https://dev.to/obaydmerz/build-function-calling-agents-in-nodejs-with-agentic-315c)
-- [Flask and ReactJS Web App Deployment](https://dev.to/codewithmycah/flask-and-reactjs-web-app-deployment-2h86)
+- [Inbox Zero Workflow: Filters, Labels, and Shortcuts That Actually Work](https://dev.to/ravishan16/inbox-zero-workflow-filters-labels-and-shortcuts-that-actually-work-4ib5)
+- [Looking for a Real Front-End Dev Friend — Not Just a Collab Partner ✨](https://dev.to/kelvincode1234/looking-for-a-real-front-end-dev-friend-not-just-a-collab-partner-3ap9)
+- [hello everyone, i am a new techguy in this community](https://dev.to/ezra_iorkyaa_f775e9e64768/hello-everyone-i-am-a-new-techguy-in-this-community-18ah)
+- [How to Build a WordPress Online Store with Blocks: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-build-a-wordpress-online-store-with-blocks-a-step-by-step-guide-3jdh)
 <!-- BLOG-POST-LIST:END -->
 
