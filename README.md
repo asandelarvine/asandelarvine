@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Katalon Alternatives: A Comprehensive Comparison](https://dev.to/morrismoses149/top-10-katalon-alternatives-a-comprehensive-comparison-dkk)
-- [Struggling with MOV Files? Here’s How to Convert Them Easily](https://dev.to/smartdev72/struggling-with-mov-files-heres-how-to-convert-them-easily-3pe9)
-- [From Idea to Impact: Understanding the Most Valuable Product in Modern Software Development by Ted Vitale NJ](https://dev.to/tedvitalenjproduct/from-idea-to-impact-understanding-the-most-valuable-product-in-modern-software-development-by-ted-2gde)
-- [The Only WEBM Converter Guide You’ll Ever Need](https://dev.to/smartdev72/the-only-webm-converter-guide-youll-ever-need-7o9)
+- [Best Odoo-Based Project Management Tool for Businesses in 2025](https://dev.to/bhavesh_gangani_/best-odoo-based-project-management-tool-for-businesses-in-2025-4gaa)
+- [The Evolution of Prompt Engineering: From Basic Commands to Complex AI Conversations](https://dev.to/aditya_tripathi_17ffee7f5/the-evolution-of-prompt-engineering-from-basic-commands-to-complex-ai-conversations-4jc5)
+- [🎉 8,215+ downloads in just 30 days!](https://dev.to/sajijohn/8215-downloads-in-just-30-days-lh4)
+- [Anime JS , a JavaScript animation library](https://dev.to/gariglow/anime-js-a-javascript-animation-library-5ha9)
 <!-- BLOG-POST-LIST:END -->
 
