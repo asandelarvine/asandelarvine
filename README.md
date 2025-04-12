@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Formulário](https://dev.to/mythads/formulario-28j9)
-- [OpenAI Unveils New Program to Redefine AI Benchmarking Standards](https://dev.to/affectionate_code/openai-unveils-new-program-to-redefine-ai-benchmarking-standards-1naf)
-- [The Only 6 Commands You Need to Find Anything in Linux &lpar;Day 6 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/the-only-6-commands-you-need-to-find-anything-in-linux-day-6-of-30-5el1)
-- [Integrating Full-Text Search with Hibernate Search in a Java Application](https://dev.to/netz/integrating-full-text-search-with-hibernate-search-in-a-java-application-36jh)
+- [Inside the Career of Joshua Vignona_ Pioneering Agile Practices - Joshua Vignona](https://dev.to/joshua022/inside-the-career-of-joshua-vignona-pioneering-agile-practices-joshua-vignona-4g8h)
+- [Pixelated Photos? Here’s How to Upscale Them Like a Pro](https://dev.to/smartdev72/pixelated-photos-heres-how-to-upscale-them-like-a-pro-5fd2)
+- [🧠 JS Pop Quiz: ⚡️Faster iterations](https://dev.to/tusharshahi/js-pop-quiz-faster-iterations-3n39)
+- [Python: From Darkness to Dawn](https://dev.to/souhaillaghchimdev/python-from-darkness-to-dawn-3ibn)
 <!-- BLOG-POST-LIST:END -->
 
