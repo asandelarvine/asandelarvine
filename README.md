@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go - &lpar;1&rpar; Begining](https://dev.to/chathurashmini/go-1-begining-2pfl)
-- [Cracking the Code on Market Indicators: How Analyst AI Simplifies the Most Complex Stats](https://dev.to/prajwal_vv/cracking-the-code-on-market-indicators-how-analyst-ai-simplifies-the-most-complex-stats-5b8m)
-- [I Built and Deployed My First Project As a Front-end Developer.](https://dev.to/kay_dev/i-built-and-deployed-my-first-project-as-a-front-end-developer-37o9)
-- [The Ultimate Guide to Choosing AI Testing Tools for Your Team](https://dev.to/testjace/the-ultimate-guide-to-choosing-ai-testing-tools-for-your-team-2773)
+- [Simba: Unleash the Power of Your Knowledge with this Open-Source KMS](https://dev.to/githubopensource/simba-unleash-the-power-of-your-knowledge-with-this-open-source-kms-31b5)
+- [Innovation Management Platform in 2025 — Meet Lubyc!](https://dev.to/2020_8sima_6852080c40207/innovation-management-platform-in-2025-meet-lubyc-3fch)
+- [# Criando APIs com Grape e Rails: Uma Jornada Completa - Parte 1](https://dev.to/videosdeti/-criando-apis-com-grape-e-rails-uma-jornada-completa-parte-1-2edk)
+- [Java 24 Launch - Live from JavaOne 2025](https://dev.to/mehdi1/java-24-launch-live-from-javaone-2025-5fdm)
 <!-- BLOG-POST-LIST:END -->
 
