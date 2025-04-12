@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Useful Dev Tools for Hardware Beyond the IDE](https://dev.to/buonoatsushi/useful-dev-tools-for-hardware-beyond-the-ide-27kp)
-- [[Boost]](https://dev.to/dumboprogrammer/-4399)
-- [Meta&#39;s Llama 4 Scandal](https://dev.to/dumboprogrammer/metas-llama-4-scandal-fak)
-- [Clean Architecture in .net application step by step](https://dev.to/ravivis13370227/clean-architecture-in-net-application-step-by-step-2ol0)
+- [Zarin is a free, open-source AI chat app with multi-model support.](https://dev.to/abdibrokhim/zarin-is-a-free-open-source-ai-chat-app-with-multi-model-support-4h8k)
+- [🌳 Mastering Binary Tree Traversal &lpar;with Java Code Examples&rpar;](https://dev.to/devcorner/mastering-binary-tree-traversal-with-java-code-examples-4f5i)
+- [Computer Vision I - Intro](https://dev.to/sc0v0ne/computer-vision-i-intro-3hm0)
+- [🔍 Mastering the Binary Search Pattern &lpar;with Java Code Examples&rpar;](https://dev.to/devcorner/mastering-the-binary-search-pattern-with-java-code-examples-2mb9)
 <!-- BLOG-POST-LIST:END -->
 
