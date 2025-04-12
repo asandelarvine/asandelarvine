@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forgot the CAPTCHA Again? This Simple C#/.NET Open-Source Package Can Be Your Bot-Stopping Hero!](https://dev.to/hussein_nakhostin_f9aa5b1/forgot-the-captcha-again-this-simple-cnet-open-source-package-can-be-your-bot-stopping-hero-4nm4)
-- [The future of dynamic pricing lies in AI driven pricing tools](https://dev.to/mike_teriwall/the-future-of-dynamic-pricing-lies-in-ai-driven-pricing-tools-5891)
-- [📌 10.7 – Diferenças para o Joda-Time](https://dev.to/fundamentosjava/107-diferencas-para-o-joda-time-4gj6)
-- [Ajay Hinduja Techie One: Embracing the Future of AI Technology](https://dev.to/ajayhinduja/ajay-hinduja-techie-one-embracing-the-future-of-ai-technology-23gl)
+- [⚛️ 50 Must-Have VS Code Extensions for React Native Developers](https://dev.to/amitkumar13/50-must-have-vs-code-extensions-for-react-native-developers-44ha)
+- [Dbms Definition](https://dev.to/rishabhtpt/dbms-definition-365d)
+- [10 &lpar;+1&rpar; QA Archetypes Dominating 2025 &lpar;Memes Included&rpar;](https://dev.to/harsha_vardhanreddy_9017/10-1-qa-archetypes-dominating-2025-memes-included-2hb8)
+- [Optimizing React Performance With Memoization and Code Splitting](https://dev.to/hexshift/optimizing-react-performance-with-memoization-and-code-splitting-18gi)
 <!-- BLOG-POST-LIST:END -->
 
