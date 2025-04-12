@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Odoo-Based Project Management Tool for Businesses in 2025](https://dev.to/bhavesh_gangani_/best-odoo-based-project-management-tool-for-businesses-in-2025-4gaa)
-- [The Evolution of Prompt Engineering: From Basic Commands to Complex AI Conversations](https://dev.to/aditya_tripathi_17ffee7f5/the-evolution-of-prompt-engineering-from-basic-commands-to-complex-ai-conversations-4jc5)
-- [🎉 8,215+ downloads in just 30 days!](https://dev.to/sajijohn/8215-downloads-in-just-30-days-lh4)
-- [Anime JS , a JavaScript animation library](https://dev.to/gariglow/anime-js-a-javascript-animation-library-5ha9)
+- [Go - &lpar;1&rpar; Begining](https://dev.to/chathurashmini/go-1-begining-2pfl)
+- [Cracking the Code on Market Indicators: How Analyst AI Simplifies the Most Complex Stats](https://dev.to/prajwal_vv/cracking-the-code-on-market-indicators-how-analyst-ai-simplifies-the-most-complex-stats-5b8m)
+- [I Built and Deployed My First Project As a Front-end Developer.](https://dev.to/kay_dev/i-built-and-deployed-my-first-project-as-a-front-end-developer-37o9)
+- [The Ultimate Guide to Choosing AI Testing Tools for Your Team](https://dev.to/testjace/the-ultimate-guide-to-choosing-ai-testing-tools-for-your-team-2773)
 <!-- BLOG-POST-LIST:END -->
 
