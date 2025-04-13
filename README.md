@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launched a public beta test of next-generation virtual fitting rooms based on artificial intelligence](https://dev.to/devsdaddy/launched-a-public-beta-test-of-next-generation-virtual-fitting-rooms-based-on-artificial-1h7l)
-- [Building a Developer Community from Scratch](https://dev.to/aws-builders/building-a-developer-community-from-scratch-2aem)
-- [Dockerizing a React Project with Nginx](https://dev.to/krisha_arya_55/dockerizing-a-react-project-with-nginx-3mpo)
-- [XSS URL Analysis and SQL Injection Workflow](https://dev.to/mrgh0st/xss-url-analysis-and-sql-injection-workflow-245k)
+- [1️⃣ 🚀 Can I Lick It: Programming Journey.](https://dev.to/mileswk/1-can-i-lick-it-programming-journey-2hi3)
+- [Relationships in Databases: One-to-One, One-to-Many, and Many-to-Many](https://dev.to/be11amer/relationships-in-databases-one-to-one-one-to-many-and-many-to-many-cnm)
+- [web3](https://dev.to/poland_silvia/web3-1002)
+- [A Beginner&#39;s Guide to WordPress Plugins: How to Use, Install, and Manage Them](https://dev.to/minima_desk_cd9b151c4e2fb/a-beginners-guide-to-wordpress-plugins-how-to-use-install-and-manage-them-2ob1)
 <!-- BLOG-POST-LIST:END -->
 
