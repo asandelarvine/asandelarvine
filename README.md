@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [itsToaster &lpar;v1.0.1&rpar;](https://dev.to/dipeshmurmu/itstoaster-v101-15jm)
-- [Next.js vs PHP: Real Code Comparison for Web Applications](https://dev.to/leapcell/nextjs-vs-php-real-code-comparison-for-web-applications-3he9)
-- [Cosmetic vs. Functional Goals: Preparing for Diverse Rhinoplasty Outcomes with Plastic Surgeons including Dr Reish](https://dev.to/richardreish/cosmetic-vs-functional-goals-preparing-for-diverse-rhinoplasty-outcomes-with-plastic-surgeons-2gae)
-- [A Minimal Static Blog Generator in Purescript - My Notes and Code Walkthrough](https://dev.to/druchan/a-minimal-static-blog-generator-in-purescript-my-notes-and-code-walkthrough-f4j)
+- [A very beginner... Some HTML questions on text. Font etc.](https://dev.to/eric_groen_17205fd4409957/a-very-beginner-some-html-questions-on-text-font-etc-mlf)
+- [Starting my Data Analyst Journey at LuxDev bootcamp](https://dev.to/kelly_10/starting-my-data-analyst-journey-1100)
+- [🚀 Designing Idempotent APIs in Spring Boot](https://dev.to/devcorner/designing-idempotent-apis-in-spring-boot-2fhi)
+- [From TheCampusCoders to the 9-5 Grind: My Journey and How I’m Looking for New Opportunities](https://dev.to/raajaryan/from-thecampuscoders-to-the-9-5-grind-my-journey-and-how-im-looking-for-new-opportunities-2h2g)
 <!-- BLOG-POST-LIST:END -->
 
