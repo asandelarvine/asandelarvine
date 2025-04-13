@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Wasm On Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/thenjdevopsguy/configuring-wasm-on-azure-kubernetes-service-aks-2bg)
-- [Optimizing AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/thenjdevopsguy/optimizing-aws-elastic-kubernetes-service-eks-jnd)
-- [The Power of Daily Standups - How Teams Stay Aligned and Productive](https://dev.to/taskframe/the-power-of-daily-standups-how-teams-stay-aligned-and-productive-8io)
-- [Leetcode - 86. Partition List](https://dev.to/rakeshreddy512/leetcode-86-partition-list-4odb)
+- [Step-by-Step Installation and Usage Guide for Web Security Testing Applications Using Docker](https://dev.to/mrgh0st/step-by-step-installation-and-usage-guide-for-web-security-testing-applications-using-docker-5abc)
+- [Setting Up MySQL and MongoDB Together in Laravel 12](https://dev.to/edgaras/setting-up-mysql-and-mongodb-together-in-laravel-12-3171)
+- [[Boost]](https://dev.to/denisakp/-38ok)
+- [What is AI Security &amp; Hacking? Understanding the Role of Artificial Intelligence in Cyber Security](https://dev.to/mrgh0st/what-is-ai-security-hacking-understanding-the-role-of-artificial-intelligence-in-cyber-security-2ib2)
 <!-- BLOG-POST-LIST:END -->
 
