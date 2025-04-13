@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Custom Babel Plugin: A Step-by-Step Guide for Advanced JavaScript Developers](https://dev.to/hexshift/building-a-custom-babel-plugin-a-step-by-step-guide-for-advanced-javascript-developers-fi7)
-- [Stop Sharing API Keys! Announcing AgentVault v0.1.0 - Open Source Toolkit for Secure AI Agent Comms &lpar;A2A/MCP&rpar;](https://dev.to/agentvault/stop-sharing-api-keys-announcing-agentvault-v010-open-source-toolkit-for-secure-ai-agent-comms-1p39)
-- [How I Built Full-Stack TypeScript Apps Faster with tRPC and Next.js 15](https://dev.to/code_2/how-i-built-full-stack-typescript-apps-faster-with-trpc-and-nextjs-15-2oib)
-- [Selenium vs Puppeteer vs Playwright: Choosing the Right Tool for Web Automation](https://dev.to/mechcloud_academy/selenium-vs-puppeteer-vs-playwright-choosing-the-right-tool-for-web-automation-5el)
+- [From Timezone Chaos to Clarity: Crafting an Interactive Time Zone Converter](https://dev.to/learncomputer/from-timezone-chaos-to-clarity-crafting-an-interactive-time-zone-converter-54h)
+- [[Boost]](https://dev.to/rs0579_73/-3175)
+- [A Practical Guide to Data Architecture: Real-World Use Cases from Lakes to Warehouses](https://dev.to/harsh9410/a-practical-guide-to-data-architecture-real-world-use-cases-from-lakes-to-warehouses-497j)
+- [The Importance of Clean Code](https://dev.to/xsoto/the-importance-of-clean-code-2ke1)
 <!-- BLOG-POST-LIST:END -->
 
