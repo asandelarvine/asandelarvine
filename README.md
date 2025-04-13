@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LASRS Login app offers secure, mobile access for Louisiana providers to manage data, reports, and compliance on the go.](https://dev.to/ghulam_murtaza_25dd49e5a9/lasrs-login-app-offers-secure-mobile-access-for-louisiana-providers-to-manage-data-reports-and-kja)
-- [🚀 Set Up Node.js Logging with Winston and OpenSearch Dashboard &lpar;Step-by-Step Guide&rpar;](https://dev.to/subham1901/set-up-nodejs-logging-with-winston-and-opensearch-dashboard-step-by-step-guide-nge)
-- [Daily JavaScript Challenge #JS-154: Currency String Parser](https://dev.to/dpc/daily-javascript-challenge-js-154-currency-string-parser-56de)
-- [Daily JavaScript Challenge #JS-153: Identify Unique Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-153-identify-unique-words-in-a-sentence-4mn1)
+- [No More Blurry Screenshots: Capture High-Res Images in Chrome &lpar;No Extensions Needed&rpar;](https://dev.to/kevin_schmidt_/no-more-blurry-screenshots-capture-high-res-images-in-chrome-no-extensions-needed-1oil)
+- [Fundhog: Helping Creators Accept Crypto Donations Directly](https://dev.to/itssamperson/fundhog-helping-creators-accept-crypto-donations-directly-2921)
+- [Eloquent: is an ORM too restrictive?](https://dev.to/xwero/eloquent-is-an-orm-too-restrictive-29n3)
+- [VoIP for Gaming: Low-Latency Voice Chat Solutions in 2025](https://dev.to/justin_downes/voip-for-gaming-low-latency-voice-chat-solutions-in-2025-578n)
 <!-- BLOG-POST-LIST:END -->
 
