@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Models in DBMS](https://dev.to/mrayushbajpai/data-models-in-dbms-34b0)
-- [Programming for retro computers](https://dev.to/laci1953/programming-for-retro-computers-3jn8)
-- [🚀 Built a Coffee Website in 2 Days with Next.js &amp; Tailwind CSS! ☕️](https://dev.to/aeon_roamer/built-a-coffee-website-in-2-days-with-nextjs-tailwind-css-2997)
-- [Superintelligent AI &lpar;ASI&rpar; going far, but staying logical](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligent-ai-asi-going-far-but-staying-logical-5bkg)
+- [Designing for Scalability](https://dev.to/godofgeeks/designing-for-scalability-1o0p)
+- [GitHub Copilot Agent Mode: Enhancing Developer Workflows](https://dev.to/brylie/github-copilot-agent-mode-enhancing-developer-workflows-2ae0)
+- [Firework Simulator v2](https://dev.to/tran_minhbinh_9681e9d6e1/firework-simulator-v2-16jj)
+- [A beginner&#39;s guide to the Grounding-Dino model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grounding-dino-model-by-adirik-on-replicate-1hgg)
 <!-- BLOG-POST-LIST:END -->
 
