@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Installation and Usage Guide for Web Security Testing Applications Using Docker](https://dev.to/mrgh0st/step-by-step-installation-and-usage-guide-for-web-security-testing-applications-using-docker-5abc)
-- [Setting Up MySQL and MongoDB Together in Laravel 12](https://dev.to/edgaras/setting-up-mysql-and-mongodb-together-in-laravel-12-3171)
-- [[Boost]](https://dev.to/denisakp/-38ok)
-- [What is AI Security &amp; Hacking? Understanding the Role of Artificial Intelligence in Cyber Security](https://dev.to/mrgh0st/what-is-ai-security-hacking-understanding-the-role-of-artificial-intelligence-in-cyber-security-2ib2)
+- [Launched a public beta test of next-generation virtual fitting rooms based on artificial intelligence](https://dev.to/devsdaddy/launched-a-public-beta-test-of-next-generation-virtual-fitting-rooms-based-on-artificial-1h7l)
+- [Building a Developer Community from Scratch](https://dev.to/aws-builders/building-a-developer-community-from-scratch-2aem)
+- [Dockerizing a React Project with Nginx](https://dev.to/krisha_arya_55/dockerizing-a-react-project-with-nginx-3mpo)
+- [XSS URL Analysis and SQL Injection Workflow](https://dev.to/mrgh0st/xss-url-analysis-and-sql-injection-workflow-245k)
 <!-- BLOG-POST-LIST:END -->
 
