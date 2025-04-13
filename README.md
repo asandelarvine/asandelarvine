@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing for Scalability](https://dev.to/godofgeeks/designing-for-scalability-1o0p)
-- [GitHub Copilot Agent Mode: Enhancing Developer Workflows](https://dev.to/brylie/github-copilot-agent-mode-enhancing-developer-workflows-2ae0)
-- [Firework Simulator v2](https://dev.to/tran_minhbinh_9681e9d6e1/firework-simulator-v2-16jj)
-- [A beginner&#39;s guide to the Grounding-Dino model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grounding-dino-model-by-adirik-on-replicate-1hgg)
+- [Prevent CSRF Vulnerabilities in Symfony Easily](https://dev.to/pentest_testing_corp/prevent-csrf-vulnerabilities-in-symfony-easily-1jg5)
+- [Getting the Most Out of V0: AI UI Generation for Frontend Projects](https://dev.to/mr_nova/getting-the-most-out-of-v0-ai-ui-generation-for-frontend-projects-1iad)
+- [Entity-Relationship &lpar;ER&rpar; Diagrams: Visualizing Your Database Structure](https://dev.to/be11amer/entity-relationship-er-diagrams-visualizing-your-database-structure-obb)
+- [Content Security Policy &lpar;CSP&rpar; for Web Apps](https://dev.to/omriluz1/content-security-policy-csp-for-web-apps-l0d)
 <!-- BLOG-POST-LIST:END -->
 
