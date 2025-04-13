@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Your WordPress Website with Object Caching](https://dev.to/minima_desk_cd9b151c4e2fb/optimize-your-wordpress-website-with-object-caching-1509)
-- [Why Does JavaScript Fetch Need Two Awaits?](https://dev.to/bharathvajganesan/why-does-javascript-fetch-need-two-awaits-2ppp)
-- [How to Change Font Size in WordPress: A Beginner&#39;s Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-change-font-size-in-wordpress-a-beginners-guide-58h3)
-- [Optimizing Your Dedicated Game Server: Strategies for Maximum Performance](https://dev.to/minima_desk_cd9b151c4e2fb/optimizing-your-dedicated-game-server-strategies-for-maximum-performance-555l)
+- [Building a Custom Babel Plugin: A Step-by-Step Guide for Advanced JavaScript Developers](https://dev.to/hexshift/building-a-custom-babel-plugin-a-step-by-step-guide-for-advanced-javascript-developers-fi7)
+- [Stop Sharing API Keys! Announcing AgentVault v0.1.0 - Open Source Toolkit for Secure AI Agent Comms &lpar;A2A/MCP&rpar;](https://dev.to/agentvault/stop-sharing-api-keys-announcing-agentvault-v010-open-source-toolkit-for-secure-ai-agent-comms-1p39)
+- [How I Built Full-Stack TypeScript Apps Faster with tRPC and Next.js 15](https://dev.to/code_2/how-i-built-full-stack-typescript-apps-faster-with-trpc-and-nextjs-15-2oib)
+- [Selenium vs Puppeteer vs Playwright: Choosing the Right Tool for Web Automation](https://dev.to/mechcloud_academy/selenium-vs-puppeteer-vs-playwright-choosing-the-right-tool-for-web-automation-5el)
 <!-- BLOG-POST-LIST:END -->
 
