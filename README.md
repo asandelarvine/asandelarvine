@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A very beginner... Some HTML questions on text. Font etc.](https://dev.to/eric_groen_17205fd4409957/a-very-beginner-some-html-questions-on-text-font-etc-mlf)
-- [Starting my Data Analyst Journey at LuxDev bootcamp](https://dev.to/kelly_10/starting-my-data-analyst-journey-1100)
-- [🚀 Designing Idempotent APIs in Spring Boot](https://dev.to/devcorner/designing-idempotent-apis-in-spring-boot-2fhi)
-- [From TheCampusCoders to the 9-5 Grind: My Journey and How I’m Looking for New Opportunities](https://dev.to/raajaryan/from-thecampuscoders-to-the-9-5-grind-my-journey-and-how-im-looking-for-new-opportunities-2h2g)
+- [St🚫p Saying That AI Will Replace Developers](https://dev.to/wafa_bergaoui/stp-saying-that-ai-will-replace-developers-160d)
+- [Python](https://dev.to/bisnak/python-31ik)
+- [FeatureLens: Real-time Go monitor for ML feature pipeline quality &amp; drift detection.](https://dev.to/sanspareilsmyn/featurelens-real-time-go-monitor-for-ml-feature-pipeline-quality-drift-detection-2f1a)
+- [Analysis of Key Technical Principles for a Visual Drag-and-Drop Component Library - 3](https://dev.to/woai3c/analysis-of-key-technical-principles-for-a-visual-drag-and-drop-component-library-3-4kfd)
 <!-- BLOG-POST-LIST:END -->
 
