@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent CSRF Vulnerabilities in Symfony Easily](https://dev.to/pentest_testing_corp/prevent-csrf-vulnerabilities-in-symfony-easily-1jg5)
-- [Getting the Most Out of V0: AI UI Generation for Frontend Projects](https://dev.to/mr_nova/getting-the-most-out-of-v0-ai-ui-generation-for-frontend-projects-1iad)
-- [Entity-Relationship &lpar;ER&rpar; Diagrams: Visualizing Your Database Structure](https://dev.to/be11amer/entity-relationship-er-diagrams-visualizing-your-database-structure-obb)
-- [Content Security Policy &lpar;CSP&rpar; for Web Apps](https://dev.to/omriluz1/content-security-policy-csp-for-web-apps-l0d)
+- [React Router: Navigating the Modern Web! 🧭](https://dev.to/aman_kureshi_/react-router-navigating-the-modern-web-2p6d)
+- [How to Fix #VALUE! Excel Error?](https://dev.to/excel24x7/how-to-fix-value-excel-error-37hd)
+- [How to create ChatGPT like generative UI Chat box](https://dev.to/samitkapoor/how-to-create-chatgpt-like-generative-ui-chat-box-461e)
+- [What&#39;s new in Angular 19.2](https://dev.to/mehdi1/whats-new-in-angular-192-3kkh)
 <!-- BLOG-POST-LIST:END -->
 
