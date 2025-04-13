@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Timezone Chaos to Clarity: Crafting an Interactive Time Zone Converter](https://dev.to/learncomputer/from-timezone-chaos-to-clarity-crafting-an-interactive-time-zone-converter-54h)
-- [[Boost]](https://dev.to/rs0579_73/-3175)
-- [A Practical Guide to Data Architecture: Real-World Use Cases from Lakes to Warehouses](https://dev.to/harsh9410/a-practical-guide-to-data-architecture-real-world-use-cases-from-lakes-to-warehouses-497j)
-- [The Importance of Clean Code](https://dev.to/xsoto/the-importance-of-clean-code-2ke1)
+- [Bridging the ML Gap: How Java Powers Enterprise AI in Production](https://dev.to/engnelson/bridging-the-ml-gap-how-java-powers-enterprise-ai-in-production-28kp)
+- [Turning Discipline Into an App &lpar;Personal Project&rpar;](https://dev.to/ashwanidev101/turning-discipline-into-an-app-personal-project-57eh)
+- [To learn or not to learn TRITON, that is the question](https://dev.to/aviraj_bevli_3b8e3c728620/should-i-learn-triton-47b5)
+- [Common Painting Mistakes with 3D Prints &lpar;and How to Avoid Them&rpar;](https://dev.to/stewie_gilligan_/common-painting-mistakes-with-3d-prints-and-how-to-avoid-them-2ocj)
 <!-- BLOG-POST-LIST:END -->
 
