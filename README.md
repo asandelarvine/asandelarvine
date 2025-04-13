@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No More Blurry Screenshots: Capture High-Res Images in Chrome &lpar;No Extensions Needed&rpar;](https://dev.to/kevin_schmidt_/no-more-blurry-screenshots-capture-high-res-images-in-chrome-no-extensions-needed-1oil)
-- [Fundhog: Helping Creators Accept Crypto Donations Directly](https://dev.to/itssamperson/fundhog-helping-creators-accept-crypto-donations-directly-2921)
-- [Eloquent: is an ORM too restrictive?](https://dev.to/xwero/eloquent-is-an-orm-too-restrictive-29n3)
-- [VoIP for Gaming: Low-Latency Voice Chat Solutions in 2025](https://dev.to/justin_downes/voip-for-gaming-low-latency-voice-chat-solutions-in-2025-578n)
+- [What I Actually Do When I Say I&#39;m “Working on My SaaS”](https://dev.to/shayy/what-i-actually-do-when-i-say-im-working-on-my-saas-pak)
+- [👷 #İnşa-Edici &lpar;Builder&rpar;](https://dev.to/mustafasamedyeyin/insa-edici-builder-23pp)
+- [From VMs to Unikernels: The Evolution of Application Deployment](https://dev.to/pillaimanish/from-vms-to-unikernels-the-evolution-of-application-deployment-3b38)
+- [🔨 #Soyut-Fabrika &lpar;Abstract Factory&rpar;](https://dev.to/mustafasamedyeyin/soyut-fabrika-abstract-factory-2g9)
 <!-- BLOG-POST-LIST:END -->
 
