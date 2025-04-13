@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode 4 —— Commands and Keybindings System](https://dev.to/kurt_harris_c64a57d4a680d/vscode-4-commands-and-keybindings-system-4nhm)
-- [10 Daily Linux Questions and Answers Series &lpar;part 2&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-2-5ggh)
-- [Nocturne IDE: Building a Voice-Powered IDE for Blind Developers](https://dev.to/__dd0839/nocturne-ide-building-a-voice-powered-ide-for-blind-developers-35ip)
-- [API Destinations for Private Endpoints: From Oversight to Insight!](https://dev.to/lovee_jain/api-destinations-for-private-endpoints-from-oversight-to-insight-4l8i)
+- [itsToaster &lpar;v1.0.1&rpar;](https://dev.to/dipeshmurmu/itstoaster-v101-15jm)
+- [Next.js vs PHP: Real Code Comparison for Web Applications](https://dev.to/leapcell/nextjs-vs-php-real-code-comparison-for-web-applications-3he9)
+- [Cosmetic vs. Functional Goals: Preparing for Diverse Rhinoplasty Outcomes with Plastic Surgeons including Dr Reish](https://dev.to/richardreish/cosmetic-vs-functional-goals-preparing-for-diverse-rhinoplasty-outcomes-with-plastic-surgeons-2gae)
+- [A Minimal Static Blog Generator in Purescript - My Notes and Code Walkthrough](https://dev.to/druchan/a-minimal-static-blog-generator-in-purescript-my-notes-and-code-walkthrough-f4j)
 <!-- BLOG-POST-LIST:END -->
 
