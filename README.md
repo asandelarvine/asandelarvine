@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mesmo pra quem já teve essa primeira aula, acho que vale olhar. Eu tive minha primeira em html 3 e 4 &lpar;quando tava começando a ser semântico&rpar;, achei ótimo o exemplo em um editor de texto.](https://dev.to/vitoriazzp/mesmo-pra-quem-ja-teve-essa-primeira-aula-acho-que-vale-olhar-eu-tive-minha-primeira-em-html-3-e-k45)
-- [From Flask App to CI/CD Pipeline with GitHub Actions &amp; Docker Hub](https://dev.to/adeleke123/from-flask-app-to-cicd-pipeline-with-github-actions-docker-hub-aoa)
-- [Feeling the Code: Understanding &quot;Vibe Coding&quot; and the AI Revolution in Software Development](https://dev.to/simplr_sh/feeling-the-code-understanding-vibe-coding-and-the-ai-revolution-in-software-development-5flg)
-- [Building Your Own Scalable Video Streaming Server: Part 3 - Data, Deployment &amp; Durability](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-3-data-deployment-durability-172h)
+- [VSCode 4 —— Commands and Keybindings System](https://dev.to/kurt_harris_c64a57d4a680d/vscode-4-commands-and-keybindings-system-4nhm)
+- [10 Daily Linux Questions and Answers Series &lpar;part 2&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-2-5ggh)
+- [Nocturne IDE: Building a Voice-Powered IDE for Blind Developers](https://dev.to/__dd0839/nocturne-ide-building-a-voice-powered-ide-for-blind-developers-35ip)
+- [API Destinations for Private Endpoints: From Oversight to Insight!](https://dev.to/lovee_jain/api-destinations-for-private-endpoints-from-oversight-to-insight-4l8i)
 <!-- BLOG-POST-LIST:END -->
 
