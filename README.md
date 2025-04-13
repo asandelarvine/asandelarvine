@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the ML Gap: How Java Powers Enterprise AI in Production](https://dev.to/engnelson/bridging-the-ml-gap-how-java-powers-enterprise-ai-in-production-28kp)
-- [Turning Discipline Into an App &lpar;Personal Project&rpar;](https://dev.to/ashwanidev101/turning-discipline-into-an-app-personal-project-57eh)
-- [To learn or not to learn TRITON, that is the question](https://dev.to/aviraj_bevli_3b8e3c728620/should-i-learn-triton-47b5)
-- [Common Painting Mistakes with 3D Prints &lpar;and How to Avoid Them&rpar;](https://dev.to/stewie_gilligan_/common-painting-mistakes-with-3d-prints-and-how-to-avoid-them-2ocj)
+- [Data Models in DBMS](https://dev.to/mrayushbajpai/data-models-in-dbms-34b0)
+- [Programming for retro computers](https://dev.to/laci1953/programming-for-retro-computers-3jn8)
+- [🚀 Built a Coffee Website in 2 Days with Next.js &amp; Tailwind CSS! ☕️](https://dev.to/aeon_roamer/built-a-coffee-website-in-2-days-with-nextjs-tailwind-css-2997)
+- [Superintelligent AI &lpar;ASI&rpar; going far, but staying logical](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligent-ai-asi-going-far-but-staying-logical-5bkg)
 <!-- BLOG-POST-LIST:END -->
 
