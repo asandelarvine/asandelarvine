@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Router: Navigating the Modern Web! 🧭](https://dev.to/aman_kureshi_/react-router-navigating-the-modern-web-2p6d)
-- [How to Fix #VALUE! Excel Error?](https://dev.to/excel24x7/how-to-fix-value-excel-error-37hd)
-- [How to create ChatGPT like generative UI Chat box](https://dev.to/samitkapoor/how-to-create-chatgpt-like-generative-ui-chat-box-461e)
-- [What&#39;s new in Angular 19.2](https://dev.to/mehdi1/whats-new-in-angular-192-3kkh)
+- [🔐 Spring Security: Using JWT and Basic Auth for Different URL Patterns](https://dev.to/javafullstackdev/spring-security-using-jwt-and-basic-auth-for-different-url-patterns-1ogd)
+- [Day 3/200 — Full Stack Journey](https://dev.to/munin-1/day-3200-full-stack-journey-3efo)
+- [&quot;Getting Started with Dahua Wireless CCTV Cameras: A Developer’s Perspective&quot;](https://dev.to/rayandid_c0e5c72f81e0e8b7/getting-started-with-dahua-wireless-cctv-cameras-a-developers-perspective-5853)
+- [Fixing &quot;Package org.springframework.boot Does Not Exist&quot; in Maven](https://dev.to/javafullstackdev/fixing-package-orgspringframeworkboot-does-not-exist-in-maven-10oe)
 <!-- BLOG-POST-LIST:END -->
 
