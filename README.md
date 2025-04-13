@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [St🚫p Saying That AI Will Replace Developers](https://dev.to/wafa_bergaoui/stp-saying-that-ai-will-replace-developers-160d)
-- [Python](https://dev.to/bisnak/python-31ik)
-- [FeatureLens: Real-time Go monitor for ML feature pipeline quality &amp; drift detection.](https://dev.to/sanspareilsmyn/featurelens-real-time-go-monitor-for-ml-feature-pipeline-quality-drift-detection-2f1a)
-- [Analysis of Key Technical Principles for a Visual Drag-and-Drop Component Library - 3](https://dev.to/woai3c/analysis-of-key-technical-principles-for-a-visual-drag-and-drop-component-library-3-4kfd)
+- [Understanding Higher Order Components in React: A Comprehensive Guide](https://dev.to/bholu_tiwari/understanding-higher-order-components-in-react-a-comprehensive-guide-f2b)
+- [Part 1: Packaging Our iOS SDK as a Binary Framework](https://dev.to/sianwa/part-1-packaging-our-ios-sdk-as-a-binary-framework-1ej)
+- [🚀 Installing Stimulus in an Existing Rails 7 Project &lpar;with Importmap&rpar;](https://dev.to/fadlystwn/installing-stimulus-in-an-existing-rails-7-project-with-importmap-86l)
+- [Data Races in Go: What They Are and Why You Should Care](https://dev.to/lincemathew/data-races-in-go-what-they-are-and-why-you-should-care-14fa)
 <!-- BLOG-POST-LIST:END -->
 
