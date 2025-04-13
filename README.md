@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Actually Do When I Say I&#39;m “Working on My SaaS”](https://dev.to/shayy/what-i-actually-do-when-i-say-im-working-on-my-saas-pak)
-- [👷 #İnşa-Edici &lpar;Builder&rpar;](https://dev.to/mustafasamedyeyin/insa-edici-builder-23pp)
-- [From VMs to Unikernels: The Evolution of Application Deployment](https://dev.to/pillaimanish/from-vms-to-unikernels-the-evolution-of-application-deployment-3b38)
-- [🔨 #Soyut-Fabrika &lpar;Abstract Factory&rpar;](https://dev.to/mustafasamedyeyin/soyut-fabrika-abstract-factory-2g9)
+- [Configuring Wasm On Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/thenjdevopsguy/configuring-wasm-on-azure-kubernetes-service-aks-2bg)
+- [Optimizing AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/thenjdevopsguy/optimizing-aws-elastic-kubernetes-service-eks-jnd)
+- [The Power of Daily Standups - How Teams Stay Aligned and Productive](https://dev.to/taskframe/the-power-of-daily-standups-how-teams-stay-aligned-and-productive-8io)
+- [Leetcode - 86. Partition List](https://dev.to/rakeshreddy512/leetcode-86-partition-list-4odb)
 <!-- BLOG-POST-LIST:END -->
 
