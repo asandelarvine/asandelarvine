@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReСaptcha Enterprise: recognition, bypass and Captcha solvers](https://dev.to/markus009/resaptcha-enterprise-recognition-bypass-and-captcha-solvers-58dk)
-- [From chaos to calm. How I built a focus app.](https://dev.to/iammtander/from-chaos-to-calm-how-i-built-a-focus-app-36ng)
-- [Understanding Few-Shot, Zero-Shot, and One-Shot Learning in AI](https://dev.to/thi_le_26e54b136ffaa84ad1/understanding-few-shot-zero-shot-and-one-shot-learning-in-ai-24ol)
-- [Celebrating World Quantum Day: Advancing Quantum State Tomography with Physics-Informed Neural Networks](https://dev.to/darkstalker/celebrating-world-quantum-day-advancing-quantum-state-tomography-with-physics-informed-neural-3ode)
+- [Concurrency Synchronization Techniques in Go’s sync Package](https://dev.to/leapcell/concurrency-synchronization-techniques-in-gos-sync-package-4od6)
+- [Mastering VBA: How VBA Modules Enhance Excel Solutions](https://dev.to/michaellarocca/mastering-vba-how-vba-modules-enhance-excel-solutions-415c)
+- [Unity Lerp Secrets: Achieving Buttery-Smooth Transitions](https://dev.to/alok_krishali/unity-lerp-secrets-achieving-buttery-smooth-transitions-1604)
+- [AI Agent Development: Evolving from Passive to Active Intelligence](https://dev.to/kapusto/ai-agent-development-evolving-from-passive-to-active-intelligence-4kg9)
 <!-- BLOG-POST-LIST:END -->
 
