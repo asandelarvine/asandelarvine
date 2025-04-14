@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Tech Giants Leverage AI Acquisitions: Building a Strong Foundation in 2025](https://dev.to/antonmihai/how-tech-giants-leverage-ai-acquisitions-building-a-strong-foundation-in-2025-1ech)
-- [🌳 Binary Trees Demystified: A Beginner’s Guide Using JavaScript](https://dev.to/rakeshreddy512/mastering-binary-trees-in-javascript-a-complete-guide-for-developers-1pi)
-- [Python Browser Compilers](https://dev.to/maryalice/python-browser-compilers-5dg5)
-- [Introducing SASTGPT: an AI-powered SAST](https://dev.to/adriatik_raci/introducing-sastgpt-an-ai-powered-sast-4439)
+- [ReСaptcha Enterprise: recognition, bypass and Captcha solvers](https://dev.to/markus009/resaptcha-enterprise-recognition-bypass-and-captcha-solvers-58dk)
+- [From chaos to calm. How I built a focus app.](https://dev.to/iammtander/from-chaos-to-calm-how-i-built-a-focus-app-36ng)
+- [Understanding Few-Shot, Zero-Shot, and One-Shot Learning in AI](https://dev.to/thi_le_26e54b136ffaa84ad1/understanding-few-shot-zero-shot-and-one-shot-learning-in-ai-24ol)
+- [Celebrating World Quantum Day: Advancing Quantum State Tomography with Physics-Informed Neural Networks](https://dev.to/darkstalker/celebrating-world-quantum-day-advancing-quantum-state-tomography-with-physics-informed-neural-3ode)
 <!-- BLOG-POST-LIST:END -->
 
