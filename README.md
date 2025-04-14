@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Excel: The Underrated Backbone of Data Analytics](https://dev.to/emmanuel_kiriinya_416fc40/microsoft-excel-the-underrated-backbone-of-data-analytics-5953)
-- [Building Resilience in Students: The Unexpected Power of Online Learning](https://dev.to/ghummantech/building-resilience-in-students-the-unexpected-power-of-online-learning-2j08)
-- [How Networking Helps You Gain Insights and Stay Ahead](https://dev.to/seoservice09/how-networking-helps-you-gain-insights-and-stay-ahead-3279)
-- [Conquer the 33% WordPress Freeze on AWS Lightsail: A Plugin Troubleshooting Guide](https://dev.to/prathish_deivendiran_86b5/conquer-the-33-wordpress-freeze-on-aws-lightsail-a-plugin-troubleshooting-guide-37m8)
+- [How can a poker software developer improve the quality of my game?](https://dev.to/james_cowell_bd5c93f5f20b/how-can-a-poker-software-developer-improve-the-quality-of-my-game-11n)
+- [Liskov Substitution Principle &lpar;LSP&rpar; in MuleSoft: Ensuring Consistency and Substitutability](https://dev.to/brunosouzas/liskov-substitution-principle-lsp-in-mulesoft-ensuring-consistency-and-substitutability-28n8)
+- [Interface Segregation Principle &lpar;ISP&rpar; in MuleSoft: Specific Interfaces for Specific Needs](https://dev.to/brunosouzas/interface-segregation-principle-isp-in-mulesoft-specific-interfaces-for-specific-needs-57jd)
+- [Dependency Inversion Principle &lpar;DIP&rpar; in MuleSoft: Rely on Abstractions, Not Implementations](https://dev.to/brunosouzas/dependency-inversion-principle-dip-in-mulesoft-rely-on-abstractions-not-implementations-20nn)
 <!-- BLOG-POST-LIST:END -->
 
