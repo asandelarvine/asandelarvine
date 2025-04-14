@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Google&#39;s A2A?](https://dev.to/_37bbf0c253c0b3edec531e/what-is-googles-a2a-g8m)
-- [How to Create Ghibli-Style AI Art with GPT-4o](https://dev.to/_37bbf0c253c0b3edec531e/how-to-create-ghibli-style-ai-art-with-gpt-4o-aa7)
-- [Top 10 AWS Cloud Security Misconfigurations &lpar;and How to Avoid Them&rpar;](https://dev.to/akhtarjalbani/top-10-aws-cloud-security-misconfigurations-and-how-to-avoid-them-408d)
-- [Evaluating the Best AI Image Generators As of April 2025](https://dev.to/_37bbf0c253c0b3edec531e/evaluating-the-best-ai-image-generators-as-of-april-2025-3ooi)
+- [Why Businesses Need to Migrate to a New ERP System](https://dev.to/bhavesh_gangani_/why-businesses-need-to-migrate-to-a-new-erp-system-n6g)
+- [Understanding RAG: Retrieval Augmented Generation Essentials for AI Projects ✅](https://dev.to/apideck/understanding-rag-retrieval-augmented-generation-essentials-for-ai-projects-5dpi)
+- [Need for AI-Driven Hyperpersonalization in Digital Products](https://dev.to/yujofficial/need-for-ai-driven-hyperpersonalization-in-digital-products-18an)
+- [🧠 Understanding the OSI Model with Real-World Examples](https://dev.to/sakir_malek_1959c345947de/understanding-the-osi-model-with-real-world-examples-kdg)
 <!-- BLOG-POST-LIST:END -->
 
