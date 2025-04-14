@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Meets Blockchain: Top Companies Making It Happen in 2025](https://dev.to/angelinajasper/ai-meets-blockchain-top-companies-making-it-happen-in-2025-5ajg)
-- [🚀 Starting Dev.to from Day 5 | MERN Stack + CS Learning Journey 🚀](https://dev.to/rahul_das_1f0a3a266be0725/starting-devto-from-day-5-mern-stack-cs-learning-journey-40j8)
-- [AI Innovations and Insights from Google Cloud Next 2025](https://dev.to/ssojet/ai-innovations-and-insights-from-google-cloud-next-2025-1b3j)
-- [Unveiling the Inner Workings of Large Language Models: AI Insights](https://dev.to/ssojet/unveiling-the-inner-workings-of-large-language-models-ai-insights-3ipf)
+- [Microsoft Excel: The Underrated Backbone of Data Analytics](https://dev.to/emmanuel_kiriinya_416fc40/microsoft-excel-the-underrated-backbone-of-data-analytics-5953)
+- [Building Resilience in Students: The Unexpected Power of Online Learning](https://dev.to/ghummantech/building-resilience-in-students-the-unexpected-power-of-online-learning-2j08)
+- [How Networking Helps You Gain Insights and Stay Ahead](https://dev.to/seoservice09/how-networking-helps-you-gain-insights-and-stay-ahead-3279)
+- [Conquer the 33% WordPress Freeze on AWS Lightsail: A Plugin Troubleshooting Guide](https://dev.to/prathish_deivendiran_86b5/conquer-the-33-wordpress-freeze-on-aws-lightsail-a-plugin-troubleshooting-guide-37m8)
 <!-- BLOG-POST-LIST:END -->
 
