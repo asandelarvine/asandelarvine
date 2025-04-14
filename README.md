@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How can a poker software developer improve the quality of my game?](https://dev.to/james_cowell_bd5c93f5f20b/how-can-a-poker-software-developer-improve-the-quality-of-my-game-11n)
-- [Liskov Substitution Principle &lpar;LSP&rpar; in MuleSoft: Ensuring Consistency and Substitutability](https://dev.to/brunosouzas/liskov-substitution-principle-lsp-in-mulesoft-ensuring-consistency-and-substitutability-28n8)
-- [Interface Segregation Principle &lpar;ISP&rpar; in MuleSoft: Specific Interfaces for Specific Needs](https://dev.to/brunosouzas/interface-segregation-principle-isp-in-mulesoft-specific-interfaces-for-specific-needs-57jd)
-- [Dependency Inversion Principle &lpar;DIP&rpar; in MuleSoft: Rely on Abstractions, Not Implementations](https://dev.to/brunosouzas/dependency-inversion-principle-dip-in-mulesoft-rely-on-abstractions-not-implementations-20nn)
+- [What Is Google&#39;s A2A?](https://dev.to/_37bbf0c253c0b3edec531e/what-is-googles-a2a-g8m)
+- [How to Create Ghibli-Style AI Art with GPT-4o](https://dev.to/_37bbf0c253c0b3edec531e/how-to-create-ghibli-style-ai-art-with-gpt-4o-aa7)
+- [Top 10 AWS Cloud Security Misconfigurations &lpar;and How to Avoid Them&rpar;](https://dev.to/akhtarjalbani/top-10-aws-cloud-security-misconfigurations-and-how-to-avoid-them-408d)
+- [Evaluating the Best AI Image Generators As of April 2025](https://dev.to/_37bbf0c253c0b3edec531e/evaluating-the-best-ai-image-generators-as-of-april-2025-3ooi)
 <!-- BLOG-POST-LIST:END -->
 
