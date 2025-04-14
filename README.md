@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a VS Code Extension to track coding time with beautiful charts and heatmaps](https://dev.to/twentytwo/i-made-a-vs-code-extension-to-track-coding-time-with-beautiful-charts-and-heatmaps-1a07)
-- [The Importance of Teamwork in Software Development](https://dev.to/maximlogunov/the-importance-of-teamwork-in-software-development-5bbk)
-- [LLMs &amp; RAG for Enterprise: Free 4-Part Workshop Series &lpar;YouTube&rpar;](https://dev.to/clickit_devops/llms-rag-for-enterprise-free-4-part-workshop-series-youtube-a3f)
-- [Navigating the AI Landscape: Key Trends and Monetization Strategies for 2025](https://dev.to/supreme_c94d2e21f71444c89/navigating-the-ai-landscape-key-trends-and-monetization-strategies-for-2025-e0)
+- [Let&#39;s vibe](https://dev.to/ben/lets-vibe-3l21)
+- [Redis Persistence Explained: AOF &amp; RDB](https://dev.to/leapcell/redis-persistence-explained-aof-rdb-1i23)
+- [Showcasing my GitHub CLI extension: gh-unpushed – easily see your local commits that haven’t been pushed yet](https://dev.to/achoreim/showcasing-my-github-cli-extension-gh-unpushed-easily-see-your-local-commits-that-havent-been-5bcc)
+- [Showcasing my GitHub CLI extension: gh-unpushed – easily see your local commits that haven’t been pushed yet](https://dev.to/achoreim/showcasing-my-github-cli-extension-gh-unpushed-easily-see-your-local-commits-that-havent-been-50fn)
 <!-- BLOG-POST-LIST:END -->
 
