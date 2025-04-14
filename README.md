@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Monetization Strategies for AI, Software Monetization, and Data Technologies](https://dev.to/supreme_c94d2e21f71444c89/exploring-monetization-strategies-for-ai-software-monetization-and-data-technologies-2644)
-- [Potato](https://dev.to/ben/potato-2ln2)
-- [Using IndexedDB for Offline-First Web Applications](https://dev.to/hexshift/using-indexeddb-for-offline-first-web-applications-33o0)
-- [Meme Monday 🦐](https://dev.to/ben/meme-monday-47p4)
+- [Security, Privacy &amp; Control: Who Holds the Power?](https://dev.to/matemiller/security-privacy-control-who-holds-the-power-37jb)
+- [“We Are Not Waiting for Permission”](https://dev.to/apetechpioneer/we-are-not-waiting-for-permission-2jjl)
+- [TS1436: Decorators must precede the name and all keywords of property declarations](https://dev.to/turingvangisms/ts1436-decorators-must-precede-the-name-and-all-keywords-of-property-declarations-37ec)
+- [TS1417: Entry point of type library &#39;{0}&#39; specified in compilerOptions](https://dev.to/rivkaavraham/ts1417-entry-point-of-type-library-0-specified-in-compileroptions-2a0c)
 <!-- BLOG-POST-LIST:END -->
 
