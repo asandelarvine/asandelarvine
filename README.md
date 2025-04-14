@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security, Privacy &amp; Control: Who Holds the Power?](https://dev.to/matemiller/security-privacy-control-who-holds-the-power-37jb)
-- [“We Are Not Waiting for Permission”](https://dev.to/apetechpioneer/we-are-not-waiting-for-permission-2jjl)
-- [TS1436: Decorators must precede the name and all keywords of property declarations](https://dev.to/turingvangisms/ts1436-decorators-must-precede-the-name-and-all-keywords-of-property-declarations-37ec)
-- [TS1417: Entry point of type library &#39;{0}&#39; specified in compilerOptions](https://dev.to/rivkaavraham/ts1417-entry-point-of-type-library-0-specified-in-compileroptions-2a0c)
+- [How Tech Giants Leverage AI Acquisitions: Building a Strong Foundation in 2025](https://dev.to/antonmihai/how-tech-giants-leverage-ai-acquisitions-building-a-strong-foundation-in-2025-1ech)
+- [🌳 Binary Trees Demystified: A Beginner’s Guide Using JavaScript](https://dev.to/rakeshreddy512/mastering-binary-trees-in-javascript-a-complete-guide-for-developers-1pi)
+- [Python Browser Compilers](https://dev.to/maryalice/python-browser-compilers-5dg5)
+- [Introducing SASTGPT: an AI-powered SAST](https://dev.to/adriatik_raci/introducing-sastgpt-an-ai-powered-sast-4439)
 <!-- BLOG-POST-LIST:END -->
 
