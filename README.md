@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get the Records after and before the Searched One — From SQL to SPL #18](https://dev.to/judith677/get-the-records-after-and-before-the-searched-one-from-sql-to-spl-18-5f22)
-- [Redis Delayed Queue: Explained Once and for All](https://dev.to/leapcell/redis-delayed-queue-explained-once-and-for-all-51o8)
-- [Cloud-Native Security: How to Secure Kubernetes &amp; Serverless Apps](https://dev.to/yash_sonawane25/cloud-native-security-how-to-secure-kubernetes-serverless-apps-4fp6)
-- [From Confused to Confident: How Vim Made Me Better in Cloud &amp; DevOps](https://dev.to/dtemi/from-confused-to-confident-how-vim-made-me-better-in-cloud-devops-17jk)
+- [generateUUID&lpar;&rpar; util in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/generateuuid-util-in-vercelai-chatbot-source-code-96p)
+- [✨ Designing RadhaSphere Wallet for Real Users: Not Just Developers](https://dev.to/omniradhanexus/designing-radhasphere-wallet-for-real-users-not-just-developers-1mb6)
+- [Ultimate Guide to Supercharging LLM JSON Outputs with Precision Schema Descriptions](https://dev.to/yigit-konur/the-art-of-the-description-your-ultimate-guide-to-optimizing-llm-json-outputs-with-json-schema-jne)
+- [🔍 Breadth-First Search &lpar;BFS&rpar; Algorithm](https://dev.to/khushi2488/breadth-first-search-bfs-algorithm-3lmh)
 <!-- BLOG-POST-LIST:END -->
 
