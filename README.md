@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns: Prototype](https://dev.to/mirnes_mrkaljevic/design-patterns-prototype-2797)
-- [Key Strategies for Successful AI Integration in Finance](https://dev.to/levitation_infotech/key-strategies-for-successful-ai-integration-in-finance-pae)
-- [Getting Authentication Right is Critical to Running MCP Servers](https://dev.to/stacklok/getting-authentication-right-is-critical-to-running-mcp-servers-39fk)
-- [Laravel IQ - Level 1 - Part 4 &lpar;BST&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/laravel-iq-level-1-part-4-bst-3ko2)
+- [AI Meets Blockchain: Top Companies Making It Happen in 2025](https://dev.to/angelinajasper/ai-meets-blockchain-top-companies-making-it-happen-in-2025-5ajg)
+- [🚀 Starting Dev.to from Day 5 | MERN Stack + CS Learning Journey 🚀](https://dev.to/rahul_das_1f0a3a266be0725/starting-devto-from-day-5-mern-stack-cs-learning-journey-40j8)
+- [AI Innovations and Insights from Google Cloud Next 2025](https://dev.to/ssojet/ai-innovations-and-insights-from-google-cloud-next-2025-1b3j)
+- [Unveiling the Inner Workings of Large Language Models: AI Insights](https://dev.to/ssojet/unveiling-the-inner-workings-of-large-language-models-ai-insights-3ipf)
 <!-- BLOG-POST-LIST:END -->
 
