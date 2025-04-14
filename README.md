@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Auto-Generate Sequelize Models and Migrations with StackRender](https://dev.to/karim_tamani/auto-generate-sequelize-models-and-migrations-with-stackrender-4983)
-- [Architecting on AWS: Building Resilient, High-Performing Cloud Infrastructures](https://dev.to/skillboosttrainer/architecting-on-aws-building-resilient-high-performing-cloud-infrastructures-33an)
-- [Vibe Check: Securing AI-Generated Code Using MCP](https://dev.to/semgrep/vibe-check-securing-ai-generated-code-using-mcp-4d9n)
-- [Tried printing &#39;Hello&#39; in Malbolge...](https://dev.to/ysathyasai/tried-printing-hello-in-malbolge-3mge)
+- [20 Essential Monitoring Tools for Next.js in 2025 📊](https://dev.to/joodi/20-essential-monitoring-tools-for-nextjs-in-2025-4dk5)
+- [How to Build an AI-Powered Website Generator Like Lovable.ai](https://dev.to/er-raj-aryan/how-to-build-an-ai-powered-website-generator-like-lovableai-17hn)
+- [I Built My First SaaS as a 22-Year-Old Student: A Lightweight Project Management Tool for Personal Use](https://dev.to/kobslbj/i-built-my-first-saas-as-a-22-year-old-student-a-lightweight-project-management-tool-for-personal-41ha)
+- [Backend Product Software Engineer](https://dev.to/farcoder/backend-product-software-engineer-189a)
 <!-- BLOG-POST-LIST:END -->
 
