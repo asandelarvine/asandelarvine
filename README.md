@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [generateUUID&lpar;&rpar; util in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/generateuuid-util-in-vercelai-chatbot-source-code-96p)
-- [✨ Designing RadhaSphere Wallet for Real Users: Not Just Developers](https://dev.to/omniradhanexus/designing-radhasphere-wallet-for-real-users-not-just-developers-1mb6)
-- [Ultimate Guide to Supercharging LLM JSON Outputs with Precision Schema Descriptions](https://dev.to/yigit-konur/the-art-of-the-description-your-ultimate-guide-to-optimizing-llm-json-outputs-with-json-schema-jne)
-- [🔍 Breadth-First Search &lpar;BFS&rpar; Algorithm](https://dev.to/khushi2488/breadth-first-search-bfs-algorithm-3lmh)
+- [🔥 Mastering HTTP Requests in JavaScript &lpar;2025 Guide&rpar;](https://dev.to/shib_itsme/mastering-http-requests-in-javascript-2025-guide-52ja)
+- [JavaScript Event loop](https://dev.to/parth_patel_1505c905ab430/javascript-event-loop-egm)
+- [The Psychology of Decision Pulse: Why We Make the Choices We Do](https://dev.to/tableautopowerbimigration/the-psychology-of-decision-pulse-why-we-make-the-choices-we-do-23i1)
+- [Spring Cleaning: Tidy Your Java Code &amp; Maybe Your Framework? ✨](https://dev.to/myfear/spring-cleaning-tidy-your-java-code-maybe-your-framework-bpe)
 <!-- BLOG-POST-LIST:END -->
 
