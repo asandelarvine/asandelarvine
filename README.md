@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1️⃣ 🚀 Can I Lick It: Programming Journey.](https://dev.to/mileswk/1-can-i-lick-it-programming-journey-2hi3)
-- [Relationships in Databases: One-to-One, One-to-Many, and Many-to-Many](https://dev.to/be11amer/relationships-in-databases-one-to-one-one-to-many-and-many-to-many-cnm)
-- [web3](https://dev.to/poland_silvia/web3-1002)
-- [A Beginner&#39;s Guide to WordPress Plugins: How to Use, Install, and Manage Them](https://dev.to/minima_desk_cd9b151c4e2fb/a-beginners-guide-to-wordpress-plugins-how-to-use-install-and-manage-them-2ob1)
+- [From Confused to Confident: How Vim Made Me Better in Cloud &amp; DevOps](https://dev.to/dtemi/from-confused-to-confident-how-vim-made-me-better-in-cloud-devops-17jk)
+- [10 Best Wiki Plugins for WordPress &lpar;2025 Guide&rpar;](https://dev.to/minima_desk_cd9b151c4e2fb/10-best-wiki-plugins-for-wordpress-2025-guide-3241)
+- [Building a Scalable Sales Process: Strategies for Growth in Cybersecurity by Industry Leaders including John Almond &lpar;TX&rpar;](https://dev.to/johnalmond02/building-a-scalable-sales-process-strategies-for-growth-in-cybersecurity-by-industry-leaders-20l1)
+- [Mastering GoFrame&#39;s glist: A Practical Guide for Go Developers 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-glist-a-practical-guide-for-go-developers-4hi1)
 <!-- BLOG-POST-LIST:END -->
 
