@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux in Action - File Structure Hierarchy and Its Role in Modern Business](https://dev.to/dhavalthakar97/linux-in-action-file-structure-hierarchy-and-its-role-in-modern-business-4a27)
-- [The World Was Built on Broken English](https://dev.to/norbs/the-world-was-built-on-broken-english-53i1)
-- [Find Any Web Element with Just One Sentence — talk2dom](https://dev.to/feng_jian_f8d0a9834be/find-any-web-element-with-just-one-sentence-talk2dom-nf5)
-- [Bazel in 1 Min](https://dev.to/iarunsaragadam/bazel-in-1-min-27m1)
+- [Building a Scalable Real-Time Ticket Queue System - BookMyShow](https://dev.to/gauravsingh9356/building-a-scalable-real-time-ticket-queue-system-bookmyshow-5h4b)
+- [Welcome to my Blog!](https://dev.to/josh_hsiehh/welcome-to-my-blog-34cc)
+- [Day 1140 : Family](https://dev.to/dwane/day-1140-family-4397)
+- [Open Call for Railway App Enthusiasts 🚂 | Collaborate on an Open Source Resource Hub](https://dev.to/realtalks/open-call-for-railway-app-enthusiasts-collaborate-on-an-open-source-resource-hub-1f42)
 <!-- BLOG-POST-LIST:END -->
 
