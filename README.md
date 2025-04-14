@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Mastering HTTP Requests in JavaScript &lpar;2025 Guide&rpar;](https://dev.to/shib_itsme/mastering-http-requests-in-javascript-2025-guide-52ja)
-- [JavaScript Event loop](https://dev.to/parth_patel_1505c905ab430/javascript-event-loop-egm)
-- [The Psychology of Decision Pulse: Why We Make the Choices We Do](https://dev.to/tableautopowerbimigration/the-psychology-of-decision-pulse-why-we-make-the-choices-we-do-23i1)
-- [Spring Cleaning: Tidy Your Java Code &amp; Maybe Your Framework? ✨](https://dev.to/myfear/spring-cleaning-tidy-your-java-code-maybe-your-framework-bpe)
+- [Design Patterns: Prototype](https://dev.to/mirnes_mrkaljevic/design-patterns-prototype-2797)
+- [Key Strategies for Successful AI Integration in Finance](https://dev.to/levitation_infotech/key-strategies-for-successful-ai-integration-in-finance-pae)
+- [Getting Authentication Right is Critical to Running MCP Servers](https://dev.to/stacklok/getting-authentication-right-is-critical-to-running-mcp-servers-39fk)
+- [Laravel IQ - Level 1 - Part 4 &lpar;BST&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/laravel-iq-level-1-part-4-bst-3ko2)
 <!-- BLOG-POST-LIST:END -->
 
