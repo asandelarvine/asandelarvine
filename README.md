@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Essential Monitoring Tools for Next.js in 2025 📊](https://dev.to/joodi/20-essential-monitoring-tools-for-nextjs-in-2025-4dk5)
-- [How to Build an AI-Powered Website Generator Like Lovable.ai](https://dev.to/er-raj-aryan/how-to-build-an-ai-powered-website-generator-like-lovableai-17hn)
-- [I Built My First SaaS as a 22-Year-Old Student: A Lightweight Project Management Tool for Personal Use](https://dev.to/kobslbj/i-built-my-first-saas-as-a-22-year-old-student-a-lightweight-project-management-tool-for-personal-41ha)
-- [Backend Product Software Engineer](https://dev.to/farcoder/backend-product-software-engineer-189a)
+- [I made a VS Code Extension to track coding time with beautiful charts and heatmaps](https://dev.to/twentytwo/i-made-a-vs-code-extension-to-track-coding-time-with-beautiful-charts-and-heatmaps-1a07)
+- [The Importance of Teamwork in Software Development](https://dev.to/maximlogunov/the-importance-of-teamwork-in-software-development-5bbk)
+- [LLMs &amp; RAG for Enterprise: Free 4-Part Workshop Series &lpar;YouTube&rpar;](https://dev.to/clickit_devops/llms-rag-for-enterprise-free-4-part-workshop-series-youtube-a3f)
+- [Navigating the AI Landscape: Key Trends and Monetization Strategies for 2025](https://dev.to/supreme_c94d2e21f71444c89/navigating-the-ai-landscape-key-trends-and-monetization-strategies-for-2025-e0)
 <!-- BLOG-POST-LIST:END -->
 
