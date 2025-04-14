@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Real-Time Ticket Queue System - BookMyShow](https://dev.to/gauravsingh9356/building-a-scalable-real-time-ticket-queue-system-bookmyshow-5h4b)
-- [Welcome to my Blog!](https://dev.to/josh_hsiehh/welcome-to-my-blog-34cc)
-- [Day 1140 : Family](https://dev.to/dwane/day-1140-family-4397)
-- [Open Call for Railway App Enthusiasts 🚂 | Collaborate on an Open Source Resource Hub](https://dev.to/realtalks/open-call-for-railway-app-enthusiasts-collaborate-on-an-open-source-resource-hub-1f42)
+- [AWS Fargate: Execute Contêineres Sem Se preocupar com Servidores](https://dev.to/andersoncode66/aws-fargate-execute-conteineres-sem-se-preocupar-com-servidores-36bk)
+- [Integração do Brighter com AWS SNS/SQS: Guia Prático](https://dev.to/actor-dev/integracao-do-brighter-com-aws-snssqs-guia-pratico-5bj9)
+- [What is a service mesh? Discover the key functionalities, pros and cons of modern service mesh technologies [6 min read] 🚀](https://dev.to/lorenzo_tettamanti/what-is-a-service-mesh-discover-the-key-functionalities-pros-and-cons-of-modern-service-mesh-599f)
+- [What Is The Ship Of Theseus In Software Development?](https://dev.to/maria_manolova_9f0bb55f6a/what-is-the-ship-of-theseus-in-software-development-50d0)
 <!-- BLOG-POST-LIST:END -->
 
