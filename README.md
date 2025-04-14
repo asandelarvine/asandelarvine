@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency Synchronization Techniques in Go’s sync Package](https://dev.to/leapcell/concurrency-synchronization-techniques-in-gos-sync-package-4od6)
-- [Mastering VBA: How VBA Modules Enhance Excel Solutions](https://dev.to/michaellarocca/mastering-vba-how-vba-modules-enhance-excel-solutions-415c)
-- [Unity Lerp Secrets: Achieving Buttery-Smooth Transitions](https://dev.to/alok_krishali/unity-lerp-secrets-achieving-buttery-smooth-transitions-1604)
-- [AI Agent Development: Evolving from Passive to Active Intelligence](https://dev.to/kapusto/ai-agent-development-evolving-from-passive-to-active-intelligence-4kg9)
+- [🚀 Auto-Generate Sequelize Models and Migrations with StackRender](https://dev.to/karim_tamani/auto-generate-sequelize-models-and-migrations-with-stackrender-4983)
+- [Architecting on AWS: Building Resilient, High-Performing Cloud Infrastructures](https://dev.to/skillboosttrainer/architecting-on-aws-building-resilient-high-performing-cloud-infrastructures-33an)
+- [Vibe Check: Securing AI-Generated Code Using MCP](https://dev.to/semgrep/vibe-check-securing-ai-generated-code-using-mcp-4d9n)
+- [Tried printing &#39;Hello&#39; in Malbolge...](https://dev.to/ysathyasai/tried-printing-hello-in-malbolge-3mge)
 <!-- BLOG-POST-LIST:END -->
 
