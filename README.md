@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s vibe](https://dev.to/ben/lets-vibe-3l21)
-- [Redis Persistence Explained: AOF &amp; RDB](https://dev.to/leapcell/redis-persistence-explained-aof-rdb-1i23)
-- [Showcasing my GitHub CLI extension: gh-unpushed – easily see your local commits that haven’t been pushed yet](https://dev.to/achoreim/showcasing-my-github-cli-extension-gh-unpushed-easily-see-your-local-commits-that-havent-been-5bcc)
-- [Showcasing my GitHub CLI extension: gh-unpushed – easily see your local commits that haven’t been pushed yet](https://dev.to/achoreim/showcasing-my-github-cli-extension-gh-unpushed-easily-see-your-local-commits-that-havent-been-50fn)
+- [Linux in Action - File Structure Hierarchy and Its Role in Modern Business](https://dev.to/dhavalthakar97/linux-in-action-file-structure-hierarchy-and-its-role-in-modern-business-4a27)
+- [The World Was Built on Broken English](https://dev.to/norbs/the-world-was-built-on-broken-english-53i1)
+- [Find Any Web Element with Just One Sentence — talk2dom](https://dev.to/feng_jian_f8d0a9834be/find-any-web-element-with-just-one-sentence-talk2dom-nf5)
+- [Bazel in 1 Min](https://dev.to/iarunsaragadam/bazel-in-1-min-27m1)
 <!-- BLOG-POST-LIST:END -->
 
