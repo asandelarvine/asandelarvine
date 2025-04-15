@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fargate: Execute Contêineres Sem Se preocupar com Servidores](https://dev.to/andersoncode66/aws-fargate-execute-conteineres-sem-se-preocupar-com-servidores-36bk)
-- [Integração do Brighter com AWS SNS/SQS: Guia Prático](https://dev.to/actor-dev/integracao-do-brighter-com-aws-snssqs-guia-pratico-5bj9)
-- [What is a service mesh? Discover the key functionalities, pros and cons of modern service mesh technologies [6 min read] 🚀](https://dev.to/lorenzo_tettamanti/what-is-a-service-mesh-discover-the-key-functionalities-pros-and-cons-of-modern-service-mesh-599f)
-- [What Is The Ship Of Theseus In Software Development?](https://dev.to/maria_manolova_9f0bb55f6a/what-is-the-ship-of-theseus-in-software-development-50d0)
+- [What is supervised learning?](https://dev.to/shriyansh_iot_98734929139/what-is-supervised-learning-em2)
+- [3-Way PTFE Sleeved Plug Valve Redefines Precision Flow Control](https://dev.to/dee_galleno_fe0dfdce11410/3-way-ptfe-sleeved-plug-valve-redefines-precision-flow-control-4k12)
+- [Rate Limiting in Node.js Using Redis and Token Bucket Algorithm](https://dev.to/hexshift/rate-limiting-in-nodejs-using-redis-and-token-bucket-algorithm-30ah)
+- [Stainless Steel Diaphragm Valves: A Growing Trend in Industrial Applications](https://dev.to/dee_galleno_fe0dfdce11410/stainless-steel-diaphragm-valves-a-growing-trend-in-industrial-applications-1p31)
 <!-- BLOG-POST-LIST:END -->
 
