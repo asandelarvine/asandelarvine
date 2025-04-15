@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Submariner Lighthouse: Multi-Cluster Service Discovery for Kubernetes](https://dev.to/reoring/submariner-lighthouse-multi-cluster-service-discovery-for-kubernetes-4fj7)
-- [How to Chat with Gemini 2.5 Pro from VSCode via AI Studio &lpar;Free and Unlimited&rpar;](https://dev.to/this-is-learning/how-to-chat-with-gemini-25-pro-from-vscode-via-ai-studio-free-and-unlimited-2c3g)
-- [10 Daily Linux Questions and Answers Series &lpar;part 4&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-4-4l0o)
-- [🤔 Why Not Always Put &quot;Relationships&quot; in the Table? The Secret of the Join Table!](https://dev.to/khaled17/why-not-always-put-relationships-in-the-table-the-secret-of-the-join-table-3aek)
+- [🚀 Your Daily Crypto Job Digest For 15 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-april-1jo5)
+- [Blog Draft Top Ai Trends Transforming Software Development In 2025 20250415 175754](https://dev.to/pponali/blog-draft-top-ai-trends-transforming-software-development-in-2025-20250415-175754-3k14)
+- [Master Power BI and Transform Your Career](https://dev.to/aditya_c90047909cf234c949/master-power-bi-and-transform-your-career-74g)
+- [JVM, JDK &amp; JRE](https://dev.to/shrinidhi_s/jvm-jdk-jre-jk4)
 <!-- BLOG-POST-LIST:END -->
 
