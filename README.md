@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Cross-Border Payments in a Single Codebase](https://dev.to/flutterwaveeng/setting-up-cross-border-payments-in-a-single-codebase-la8)
-- [Dijital Kentin İnşası: Web Mimarisi ve Şehir Planlamasının Evrimi, Felsefesi ve Geleceği](https://dev.to/abdulkadir_gungor_86/dijital-kentin-insasi-web-mimarisi-ve-sehir-planlamasinin-evrimi-felsefesi-ve-gelecegi-pl0)
-- [Why AI-Powered Biscuit Dimension Detection is a Game-Changer in Food Manufacturing](https://dev.to/chandraks/why-ai-powered-biscuit-dimension-detection-is-a-game-changer-in-food-manufacturing-1pah)
-- [Should a Tech Lead Prepare AI Instructions for the Team?](https://dev.to/dabych/should-a-tech-lead-prepare-ai-instructions-for-the-team-39hg)
+- [Submariner Lighthouse: Multi-Cluster Service Discovery for Kubernetes](https://dev.to/reoring/submariner-lighthouse-multi-cluster-service-discovery-for-kubernetes-4fj7)
+- [How to Chat with Gemini 2.5 Pro from VSCode via AI Studio &lpar;Free and Unlimited&rpar;](https://dev.to/this-is-learning/how-to-chat-with-gemini-25-pro-from-vscode-via-ai-studio-free-and-unlimited-2c3g)
+- [10 Daily Linux Questions and Answers Series &lpar;part 4&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-4-4l0o)
+- [🤔 Why Not Always Put &quot;Relationships&quot; in the Table? The Secret of the Join Table!](https://dev.to/khaled17/why-not-always-put-relationships-in-the-table-the-secret-of-the-join-table-3aek)
 <!-- BLOG-POST-LIST:END -->
 
