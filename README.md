@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Reasons Why Java is Still Relevant](https://dev.to/babita/best-reasons-why-java-is-still-relevant-17dm)
-- [How to build SER model?](https://dev.to/joepaulvilsan_7/how-to-build-ser-model-23da)
-- [Top 9 React JS Frameworks Developers Are Using in 2025](https://dev.to/brilworks/top-9-react-js-frameworks-developers-are-using-in-2025-4ff)
-- [Top 10 Icon Libraries for Next.js - 2025](https://dev.to/icons/icon-libraries-for-nextjs-1915)
+- [Best Browser For Mac In 2025: Top Picks For Speed, Privacy &amp; Features](https://dev.to/keploy/best-browser-for-mac-in-2025-top-picks-for-speed-privacy-features-3fle)
+- [7 Easy Ways to Improve Search Optimization on WordPress](https://dev.to/adam_smith_7fbc88c4a0af46/7-easy-ways-to-improve-search-optimization-on-wordpress-4e3o)
+- [The Ultimate CSS Roadmap for Frontend Developers &lpar;2025 Edition](https://dev.to/rakeshreddy512/the-ultimate-css-roadmap-for-frontend-developers-2025-edition-n56)
+- [Today, I was reminded of everything that I had to endure and overcome to get to this very moment. For me, this will always be a reminder to appreciate where I am today, and to make the most of every single moment that I have now.](https://dev.to/d2d_weizhi/today-i-was-reminded-of-everything-that-i-had-to-endure-and-overcome-to-get-to-this-very-moment-5bld)
 <!-- BLOG-POST-LIST:END -->
 
