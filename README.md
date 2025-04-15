@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Browser For Mac In 2025: Top Picks For Speed, Privacy &amp; Features](https://dev.to/keploy/best-browser-for-mac-in-2025-top-picks-for-speed-privacy-features-3fle)
-- [7 Easy Ways to Improve Search Optimization on WordPress](https://dev.to/adam_smith_7fbc88c4a0af46/7-easy-ways-to-improve-search-optimization-on-wordpress-4e3o)
-- [The Ultimate CSS Roadmap for Frontend Developers &lpar;2025 Edition](https://dev.to/rakeshreddy512/the-ultimate-css-roadmap-for-frontend-developers-2025-edition-n56)
-- [Today, I was reminded of everything that I had to endure and overcome to get to this very moment. For me, this will always be a reminder to appreciate where I am today, and to make the most of every single moment that I have now.](https://dev.to/d2d_weizhi/today-i-was-reminded-of-everything-that-i-had-to-endure-and-overcome-to-get-to-this-very-moment-5bld)
+- [Why Top IMEs Depend on Organized Deposition Transcript Summaries](https://dev.to/kiaraliam/why-top-imes-depend-on-organized-deposition-transcript-summaries-li7)
+- [Tighten Security on EC2 Instances: Fast and Simple](https://dev.to/youngtech/tighten-security-on-ec2-instances-fast-and-simple-34bj)
+- [Again self-hosting! on k3s](https://dev.to/3sky/again-self-hosting-on-k3s-2bji)
+- [Unlocking Business Potential Through AI and Machine Learning](https://dev.to/vishal_more_02990955c9358/unlocking-business-potential-through-ai-and-machine-learning-4lp9)
 <!-- BLOG-POST-LIST:END -->
 
