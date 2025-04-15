@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chrome Extension: Key Concepts Explained](https://dev.to/akk_dev/building-a-chrome-extension-key-concepts-explained-1f4)
-- [Client vs Server side Rendering: Who wins in SEO?](https://dev.to/tushar_rastogi_96c4dfb067/client-vs-server-side-rendering-who-wins-in-seo-4inp)
-- [Liman Çekirdek 2.2 Duyuruldu](https://dev.to/liman/liman-cekirdek-22-duyuruldu-1e1k)
-- [Red Hat Expands AI Capabilities Across Hybrid Cloud and OpenShift](https://dev.to/ssojet/red-hat-expands-ai-capabilities-across-hybrid-cloud-and-openshift-2681)
+- [A basic Golang project Makefile](https://dev.to/devbyj/a-basic-golang-project-makefile-1nhe)
+- [Why you should cancel your HTTP requests](https://dev.to/dodson/why-you-should-cancel-your-http-requests-23pj)
+- [Why Linux Town Is the Best Place to Lose &lpar;and Find&rpar; Your Files?](https://dev.to/higgs182092/why-linux-town-is-the-best-place-to-lose-and-find-your-files-500g)
+- [⚡️ From Zero to Deployed Portfolio &lt; 1 Hour: My Experience with Vercel &amp; Cursor](https://dev.to/hei72/from-zero-to-deployed-portfolio-in-under-an-hour-my-experience-with-vercel-cursor-5c3i)
 <!-- BLOG-POST-LIST:END -->
 
