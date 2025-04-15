@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-30ap)
-- [Blog Draft Ai Trends In 2025 20250415 223233](https://dev.to/pponali/blog-draft-ai-trends-in-2025-20250415-223233-199)
-- [🧠 The Ultimate List of AI Tools by Category [Updated 2025]](https://dev.to/maxwell_smutseo_dd57786/the-ultimate-list-of-ai-tools-by-category-updated-2025-1d91)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3al2)
+- [🛡️ Setting Up a Secure ROS 2 System: Part 2 – Updating Ubuntu and Creating a ROS User](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-2-updating-ubuntu-and-creating-a-ros-user-jl7)
+- [🛠️ Why `openssl.cafile` Configuration Matters for Your Queue System](https://dev.to/tahsin000/why-opensslcafile-configuration-matters-for-your-queue-system-4jlk)
+- [💥 $BTC , $ETH , $XRP Price Prediction as S&amp;P 500 Forms First Death Cross Since 2022](https://dev.to/sergi_web3/btc-eth-xrp-price-prediction-as-sp-500-forms-first-death-cross-since-2022-3c8c)
+- [Difference between this &amp; this&lpar;&rpar; and Packages in java.](https://dev.to/elayaraj_c_04396748f52a1c/difference-between-this-this-and-packages-in-java-39i0)
 <!-- BLOG-POST-LIST:END -->
 
