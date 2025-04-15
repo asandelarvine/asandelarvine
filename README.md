@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A basic Golang project Makefile](https://dev.to/devbyj/a-basic-golang-project-makefile-1nhe)
-- [Why you should cancel your HTTP requests](https://dev.to/dodson/why-you-should-cancel-your-http-requests-23pj)
-- [Why Linux Town Is the Best Place to Lose &lpar;and Find&rpar; Your Files?](https://dev.to/higgs182092/why-linux-town-is-the-best-place-to-lose-and-find-your-files-500g)
-- [⚡️ From Zero to Deployed Portfolio &lt; 1 Hour: My Experience with Vercel &amp; Cursor](https://dev.to/hei72/from-zero-to-deployed-portfolio-in-under-an-hour-my-experience-with-vercel-cursor-5c3i)
+- [Resume Evolution Engine - AI agent architecture for ATS optimization](https://dev.to/srikarpunna/resume-evolution-engine-ai-agent-architecture-for-ats-optimization-162n)
+- [I built a relativity calculator in the browser &lpar;iTensor&rpar; — now trying to fully launch it](https://dev.to/klaudiusz_sroka_f4036e79a/i-built-a-relativity-calculator-in-the-browser-itensor-now-trying-to-fully-launch-it-4828)
+- [Building Universal npm Libraries: Supporting Both CJS and ESM](https://dev.to/ecalcutin/building-universal-npm-libraries-supporting-both-cjs-and-esm-50lb)
+- [Twelve Weeks of Growth](https://dev.to/timothy_97/twelve-weeks-of-growth-3471)
 <!-- BLOG-POST-LIST:END -->
 
