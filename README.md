@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How A Small Team of Developers Created React at Facebook | React.js: The Documentary](https://dev.to/the-modern-web/how-a-small-team-of-developers-created-react-at-facebook-reactjs-the-documentary-1d5g)
-- [AugMix in PyTorch &lpar;9&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-9-2283)
-- [[Boost]](https://dev.to/abhilash8/-3mad)
-- [I make my own BAAS for my small apps](https://dev.to/kiraaziz/i-make-my-own-baas-for-my-small-apps-h9j)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-30ap)
+- [Blog Draft Ai Trends In 2025 20250415 223233](https://dev.to/pponali/blog-draft-ai-trends-in-2025-20250415-223233-199)
+- [🧠 The Ultimate List of AI Tools by Category [Updated 2025]](https://dev.to/maxwell_smutseo_dd57786/the-ultimate-list-of-ai-tools-by-category-updated-2025-1d91)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3al2)
 <!-- BLOG-POST-LIST:END -->
 
