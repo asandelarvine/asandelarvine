@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Proxies: The Key to Enhanced Speed and Privacy](https://dev.to/swiftproxy_residential/telegram-proxies-the-key-to-enhanced-speed-and-privacy-4kap)
-- [web-console and processes](https://dev.to/renuo/web-console-and-processes-m89)
-- [Make C++ a better place #2: CppFront as an alternative](https://dev.to/pikotutorial/make-c-a-better-place-2-cppfront-as-an-alternative-3gb5)
-- [Headless Vue + WordPress Boilerplate](https://dev.to/chrischase011/headless-vue-wordpress-boilerplate-2je5)
+- [What is Functional Programming?](https://dev.to/obrizan/what-is-functional-programming-4i4d)
+- [Future-proofing by design.](https://dev.to/copods/future-proofing-by-design-1jj9)
+- [Create a JavaScript-Free dismissible notification with only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-javascript-free-dismissible-notification-with-only-tailwind-css-oap)
+- [What is Active Hours on Windows 11?](https://dev.to/winsides/what-is-active-hours-on-windows-11-eo2)
 <!-- BLOG-POST-LIST:END -->
 
