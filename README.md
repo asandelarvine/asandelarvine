@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs Talk, Agents Act: A New Dawn in AI](https://dev.to/engrrajib/llms-talk-agents-act-a-new-dawn-in-ai-43o2)
-- [From Hackathon Pain Point to NPM Package: Introducing react-markerless-ar – A Markerless 3D AR Viewer in React](https://dev.to/cowthegreat/from-hackathon-pain-point-to-npm-package-introducing-react-markerless-ar-a-markerless-3d-ar-4j6)
-- [Cloud Monitoring – Visibility is Everything in the Cloud Era](https://dev.to/kevin_asutton_/cloud-monitoring-visibility-is-everything-in-the-cloud-era-5df2)
-- [AugMix in PyTorch &lpar;7&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-7-46i)
+- [How A Small Team of Developers Created React at Facebook | React.js: The Documentary](https://dev.to/the-modern-web/how-a-small-team-of-developers-created-react-at-facebook-reactjs-the-documentary-1d5g)
+- [AugMix in PyTorch &lpar;9&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-9-2283)
+- [[Boost]](https://dev.to/abhilash8/-3mad)
+- [I make my own BAAS for my small apps](https://dev.to/kiraaziz/i-make-my-own-baas-for-my-small-apps-h9j)
 <!-- BLOG-POST-LIST:END -->
 
