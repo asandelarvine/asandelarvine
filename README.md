@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is supervised learning?](https://dev.to/shriyansh_iot_98734929139/what-is-supervised-learning-em2)
-- [3-Way PTFE Sleeved Plug Valve Redefines Precision Flow Control](https://dev.to/dee_galleno_fe0dfdce11410/3-way-ptfe-sleeved-plug-valve-redefines-precision-flow-control-4k12)
-- [Rate Limiting in Node.js Using Redis and Token Bucket Algorithm](https://dev.to/hexshift/rate-limiting-in-nodejs-using-redis-and-token-bucket-algorithm-30ah)
-- [Stainless Steel Diaphragm Valves: A Growing Trend in Industrial Applications](https://dev.to/dee_galleno_fe0dfdce11410/stainless-steel-diaphragm-valves-a-growing-trend-in-industrial-applications-1p31)
+- [A tiny 1MB iOS app for spinning up local HTTP/WebDAV Servers that persist in the background](https://dev.to/ducbao414/a-tiny-1mb-ios-app-for-spinning-up-local-httpwebdav-servers-that-persist-in-the-background-2ma3)
+- [# Neo4j Tutorial: Comprehensive Guide to Neo4j Indexing](https://dev.to/mangesh28/-comprehensive-guide-to-neo4j-indexing-current-best-practices-2b48)
+- [How I Built a Travel Assistant Chat App Using GPT and Jetpack Compose](https://dev.to/kevinhui98/how-i-built-a-travel-assistant-chat-app-using-gpt-and-jetpack-compose-o7c)
+- [# Neo4j Tutorial: Mastering Variable Length Relationships and Path Algorithms](https://dev.to/mangesh28/-neo4j-tutorial-mastering-variable-length-relationships-and-path-algorithms-196m)
 <!-- BLOG-POST-LIST:END -->
 
