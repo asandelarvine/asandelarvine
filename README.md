@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Setting Up a Secure ROS 2 System: Part 2 – Updating Ubuntu and Creating a ROS User](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-2-updating-ubuntu-and-creating-a-ros-user-jl7)
-- [🛠️ Why `openssl.cafile` Configuration Matters for Your Queue System](https://dev.to/tahsin000/why-opensslcafile-configuration-matters-for-your-queue-system-4jlk)
-- [💥 $BTC , $ETH , $XRP Price Prediction as S&amp;P 500 Forms First Death Cross Since 2022](https://dev.to/sergi_web3/btc-eth-xrp-price-prediction-as-sp-500-forms-first-death-cross-since-2022-3c8c)
-- [Difference between this &amp; this&lpar;&rpar; and Packages in java.](https://dev.to/elayaraj_c_04396748f52a1c/difference-between-this-this-and-packages-in-java-39i0)
+- [Building a Chrome Extension: Key Concepts Explained](https://dev.to/akk_dev/building-a-chrome-extension-key-concepts-explained-1f4)
+- [Client vs Server side Rendering: Who wins in SEO?](https://dev.to/tushar_rastogi_96c4dfb067/client-vs-server-side-rendering-who-wins-in-seo-4inp)
+- [Liman Çekirdek 2.2 Duyuruldu](https://dev.to/liman/liman-cekirdek-22-duyuruldu-1e1k)
+- [Red Hat Expands AI Capabilities Across Hybrid Cloud and OpenShift](https://dev.to/ssojet/red-hat-expands-ai-capabilities-across-hybrid-cloud-and-openshift-2681)
 <!-- BLOG-POST-LIST:END -->
 
