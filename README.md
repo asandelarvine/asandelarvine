@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Functional Programming?](https://dev.to/obrizan/what-is-functional-programming-4i4d)
-- [Future-proofing by design.](https://dev.to/copods/future-proofing-by-design-1jj9)
-- [Create a JavaScript-Free dismissible notification with only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-javascript-free-dismissible-notification-with-only-tailwind-css-oap)
-- [What is Active Hours on Windows 11?](https://dev.to/winsides/what-is-active-hours-on-windows-11-eo2)
+- [Setting up Cross-Border Payments in a Single Codebase](https://dev.to/flutterwaveeng/setting-up-cross-border-payments-in-a-single-codebase-la8)
+- [Dijital Kentin İnşası: Web Mimarisi ve Şehir Planlamasının Evrimi, Felsefesi ve Geleceği](https://dev.to/abdulkadir_gungor_86/dijital-kentin-insasi-web-mimarisi-ve-sehir-planlamasinin-evrimi-felsefesi-ve-gelecegi-pl0)
+- [Why AI-Powered Biscuit Dimension Detection is a Game-Changer in Food Manufacturing](https://dev.to/chandraks/why-ai-powered-biscuit-dimension-detection-is-a-game-changer-in-food-manufacturing-1pah)
+- [Should a Tech Lead Prepare AI Instructions for the Team?](https://dev.to/dabych/should-a-tech-lead-prepare-ai-instructions-for-the-team-39hg)
 <!-- BLOG-POST-LIST:END -->
 
