@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dijital Kentin İmar Planı: Monolitik Kalelerden Mikroservis Kampüslerine Mimari Evrim](https://dev.to/abdulkadir_gungor_86/dijital-kentin-imar-plani-monolitik-kalelerden-mikroservis-kampuslerine-mimari-evrim-4n3)
-- [CI is not CD](https://dev.to/_steve_fenton_/ci-is-not-cd-1kc8)
-- [Multithreading in C#](https://dev.to/adrianbailador/multithreading-in-c-427f)
-- [Exciting opportunity at Streetbeat](https://dev.to/gemma_niglio_c3c5c21d9e2b/exciting-opportunity-at-streetbeat-58m4)
+- [LLMs Talk, Agents Act: A New Dawn in AI](https://dev.to/engrrajib/llms-talk-agents-act-a-new-dawn-in-ai-43o2)
+- [From Hackathon Pain Point to NPM Package: Introducing react-markerless-ar – A Markerless 3D AR Viewer in React](https://dev.to/cowthegreat/from-hackathon-pain-point-to-npm-package-introducing-react-markerless-ar-a-markerless-3d-ar-4j6)
+- [Cloud Monitoring – Visibility is Everything in the Cloud Era](https://dev.to/kevin_asutton_/cloud-monitoring-visibility-is-everything-in-the-cloud-era-5df2)
+- [AugMix in PyTorch &lpar;7&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-7-46i)
 <!-- BLOG-POST-LIST:END -->
 
