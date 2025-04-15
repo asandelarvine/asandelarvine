@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Devs Are Quietly Leaving Stack Overflow in 2025](https://dev.to/abdulbasithh/why-devs-are-quietly-leaving-stack-overflow-in-2025-368d)
-- [US Privacy Laws Are Getting Out of Hand](https://dev.to/mehwish_malik_4f29ff7fb04/us-privacy-laws-are-getting-out-of-hand-a97)
-- [Cloud MDM – The Complete Guide for Decision Makers](https://dev.to/hana_sato/cloud-mdm-the-complete-guide-for-decision-makers-1bp5)
-- [Distribution &amp; Dev Workflow: Shipping Software vs Deploying the Web](https://dev.to/matemiller/distribution-dev-workflow-shipping-software-vs-deploying-the-web-2h1d)
+- [Dijital Kentin İmar Planı: Monolitik Kalelerden Mikroservis Kampüslerine Mimari Evrim](https://dev.to/abdulkadir_gungor_86/dijital-kentin-imar-plani-monolitik-kalelerden-mikroservis-kampuslerine-mimari-evrim-4n3)
+- [CI is not CD](https://dev.to/_steve_fenton_/ci-is-not-cd-1kc8)
+- [Multithreading in C#](https://dev.to/adrianbailador/multithreading-in-c-427f)
+- [Exciting opportunity at Streetbeat](https://dev.to/gemma_niglio_c3c5c21d9e2b/exciting-opportunity-at-streetbeat-58m4)
 <!-- BLOG-POST-LIST:END -->
 
