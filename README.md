@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Random Quote Machine](https://dev.to/dis_ndat_a07a52673e28c45/random-quote-machine-4nbj)
-- [On Trunk-Based Development](https://dev.to/bucketdotco/on-trunk-based-development-4b05)
-- [Making IT Work Easier with Red Hat Linux and Ansible Automation](https://dev.to/axisinfo_0a61830e06c3c950/making-it-work-easier-with-red-hat-linux-and-ansible-automation-3fh9)
-- [OpenAI vs Perplexity: Why They’re NOT the Same Tool](https://dev.to/clickit_devops/openai-vs-perplexity-why-theyre-not-the-same-tool-3fd3)
+- [Powering Cloud Apps with DynamoDB Integrations](https://dev.to/leonardkachi/powering-cloud-apps-with-dynamodb-integrations-24l7)
+- [Responsive Web Design for Fence Installation Companies](https://dev.to/karen_londres/responsive-web-design-for-fence-installation-companies-37l7)
+- [The PaperMC Hard Fork](https://dev.to/derexxd/the-papermc-hard-fork-p1)
+- [Web Development using Off-Stack Languages&lpar;Python,Rust,..&rpar;](https://dev.to/jyo561/web-development-using-off-stack-languagespythonrust-1bd6)
 <!-- BLOG-POST-LIST:END -->
 
