@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Top IMEs Depend on Organized Deposition Transcript Summaries](https://dev.to/kiaraliam/why-top-imes-depend-on-organized-deposition-transcript-summaries-li7)
-- [Tighten Security on EC2 Instances: Fast and Simple](https://dev.to/youngtech/tighten-security-on-ec2-instances-fast-and-simple-34bj)
-- [Again self-hosting! on k3s](https://dev.to/3sky/again-self-hosting-on-k3s-2bji)
-- [Unlocking Business Potential Through AI and Machine Learning](https://dev.to/vishal_more_02990955c9358/unlocking-business-potential-through-ai-and-machine-learning-4lp9)
+- [Telegram Proxies: The Key to Enhanced Speed and Privacy](https://dev.to/swiftproxy_residential/telegram-proxies-the-key-to-enhanced-speed-and-privacy-4kap)
+- [web-console and processes](https://dev.to/renuo/web-console-and-processes-m89)
+- [Make C++ a better place #2: CppFront as an alternative](https://dev.to/pikotutorial/make-c-a-better-place-2-cppfront-as-an-alternative-3gb5)
+- [Headless Vue + WordPress Boilerplate](https://dev.to/chrischase011/headless-vue-wordpress-boilerplate-2je5)
 <!-- BLOG-POST-LIST:END -->
 
