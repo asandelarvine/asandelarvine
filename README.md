@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Evolution Engine - AI agent architecture for ATS optimization](https://dev.to/srikarpunna/resume-evolution-engine-ai-agent-architecture-for-ats-optimization-162n)
-- [I built a relativity calculator in the browser &lpar;iTensor&rpar; — now trying to fully launch it](https://dev.to/klaudiusz_sroka_f4036e79a/i-built-a-relativity-calculator-in-the-browser-itensor-now-trying-to-fully-launch-it-4828)
-- [Building Universal npm Libraries: Supporting Both CJS and ESM](https://dev.to/ecalcutin/building-universal-npm-libraries-supporting-both-cjs-and-esm-50lb)
-- [Twelve Weeks of Growth](https://dev.to/timothy_97/twelve-weeks-of-growth-3471)
+- [Random Quote Machine](https://dev.to/dis_ndat_a07a52673e28c45/random-quote-machine-4nbj)
+- [On Trunk-Based Development](https://dev.to/bucketdotco/on-trunk-based-development-4b05)
+- [Making IT Work Easier with Red Hat Linux and Ansible Automation](https://dev.to/axisinfo_0a61830e06c3c950/making-it-work-easier-with-red-hat-linux-and-ansible-automation-3fh9)
+- [OpenAI vs Perplexity: Why They’re NOT the Same Tool](https://dev.to/clickit_devops/openai-vs-perplexity-why-theyre-not-the-same-tool-3fd3)
 <!-- BLOG-POST-LIST:END -->
 
