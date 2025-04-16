@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Started Saying &quot;No&quot; to Feature Requests — My Product Got Better Overnight](https://dev.to/shayy/i-started-saying-no-to-feature-requests-my-product-got-better-overnight-4e74)
-- [Smart Home MCP Server with VSCode Copilot](https://dev.to/victorioberra/smart-home-mcp-server-with-vscode-copilot-3ckj)
-- [The Role of SQL in Data Analytics.](https://dev.to/kelvin_munene/the-role-of-sql-in-data-analytics-30db)
-- [Lessons learned from 5 years operating huge ClickHouse® clusters: Part II](https://dev.to/tinybirdco/lessons-learned-from-5-years-operating-huge-clickhouser-clusters-part-ii-g6g)
+- [Adding Audit Columns to Existing Tables: Comparing Approaches for Large Datasets](https://dev.to/vishwa_swaroop_c4dc415de5/adding-audit-columns-to-existing-tables-comparing-approaches-for-large-datasets-a6l)
+- [Apostrophe 4.15.0: In-Context Live Preview, Enhanced Tables, and Translation Tools](https://dev.to/stuartromanek/apostrophe-4150-in-context-live-preview-enhanced-tables-and-translation-tools-46e1)
+- [Build Smarter Web Automation with ActionChain](https://dev.to/feng_jian_f8d0a9834be/build-smarter-web-automation-with-actionchain-1168)
+- [What the Heck Is Linux, and Why You Should Bother Learning It &lpar;Especially Red Hat&rpar; in 2025](https://dev.to/higgs182092/what-the-heck-is-linux-and-why-you-should-bother-learning-it-especially-red-hat-in-2025-45jn)
 <!-- BLOG-POST-LIST:END -->
 
