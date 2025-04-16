@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Powering Cloud Apps with DynamoDB Integrations](https://dev.to/leonardkachi/powering-cloud-apps-with-dynamodb-integrations-24l7)
-- [Responsive Web Design for Fence Installation Companies](https://dev.to/karen_londres/responsive-web-design-for-fence-installation-companies-37l7)
-- [The PaperMC Hard Fork](https://dev.to/derexxd/the-papermc-hard-fork-p1)
-- [Web Development using Off-Stack Languages&lpar;Python,Rust,..&rpar;](https://dev.to/jyo561/web-development-using-off-stack-languagespythonrust-1bd6)
+- [Enterprise Design Patterns: Aplicando el patrón Data Mapper con Java](https://dev.to/paltadash/enterprise-design-patterns-aplicando-el-patron-data-mapper-con-java-1okh)
+- [How to Design and Deploy Data Models as APIs with Negroni](https://dev.to/lonti-davidb/how-to-design-and-deploy-data-models-as-apis-with-negroni-4i4k)
+- [How to debug AI generated code?](https://dev.to/anicetn/how-to-debug-ai-generated-code-3434)
+- [Shortcode](https://dev.to/david_bermenvliz/shortcode-1mm0)
 <!-- BLOG-POST-LIST:END -->
 
