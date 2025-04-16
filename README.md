@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of ITSM Incident Management: Lessons from the July 2024 CrowdStrike Incident](https://dev.to/kapusto/the-importance-of-itsm-incident-management-lessons-from-the-july-2024-crowdstrike-incident-3bl5)
-- [Testing Apps for Seamless User Onboarding in 2025](https://dev.to/vaibhavkuls/testing-apps-for-seamless-user-onboarding-in-2025-2io1)
-- [When Web Meets Hardware: USB, Serial, and the New Web Frontier](https://dev.to/matemiller/when-web-meets-hardware-usb-serial-and-the-new-web-frontier-bnf)
-- [I built a Mental Math version of Monkeytype! Feedback appreciated!](https://dev.to/om3x4/i-built-a-mental-math-version-of-monkeytype-feedback-appreciated-4nhb)
+- [Clean code , Clear Mind](https://dev.to/mehfila_parkkulthil_23/clean-code-clear-mind-281)
+- [Analisis de](https://dev.to/david_bermenvliz/analisis-de-1eef)
+- [Understanding SDLC: The Backbone of Software Development](https://dev.to/badalraj9203/understanding-sdlc-the-backbone-of-software-development-213h)
+- [Boosting Golang JSON Performance: 10 Proven Techniques for High-Speed Processing](https://dev.to/aaravjoshi/boosting-golang-json-performance-10-proven-techniques-for-high-speed-processing-4f9m)
 <!-- BLOG-POST-LIST:END -->
 
