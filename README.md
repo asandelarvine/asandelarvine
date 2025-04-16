@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Audit Columns to Existing Tables: Comparing Approaches for Large Datasets](https://dev.to/vishwa_swaroop_c4dc415de5/adding-audit-columns-to-existing-tables-comparing-approaches-for-large-datasets-a6l)
-- [Apostrophe 4.15.0: In-Context Live Preview, Enhanced Tables, and Translation Tools](https://dev.to/stuartromanek/apostrophe-4150-in-context-live-preview-enhanced-tables-and-translation-tools-46e1)
-- [Build Smarter Web Automation with ActionChain](https://dev.to/feng_jian_f8d0a9834be/build-smarter-web-automation-with-actionchain-1168)
-- [What the Heck Is Linux, and Why You Should Bother Learning It &lpar;Especially Red Hat&rpar; in 2025](https://dev.to/higgs182092/what-the-heck-is-linux-and-why-you-should-bother-learning-it-especially-red-hat-in-2025-45jn)
+- [Building Authority Without Chasing Virality](https://dev.to/ociel_gonzalez/building-authority-without-chasing-virality-24mn)
+- [Built a 2d collision simulator](https://dev.to/noltekcar/built-a-2d-collision-simulator-pg2)
+- [Gerando Pagamentos via Pix com a AbacatePay](https://dev.to/wiliamvj/gerando-pagamentos-via-pix-com-a-abacatepay-1lk9)
+- [Downloooooad PDFs without using web Browsers with python](https://dev.to/madhushan/downloooooad-pdfs-without-using-web-browsers-with-python-2ejj)
 <!-- BLOG-POST-LIST:END -->
 
