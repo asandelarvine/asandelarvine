@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Unblock Gmail and Regain Full Access](https://dev.to/swiftproxy_residential/how-to-unblock-gmail-and-regain-full-access-4imd)
-- [PHANTOM BRACKETH THYNDROME](https://dev.to/biggeye/phantom-bracketh-thyndrome-37ac)
-- [VibeScript - GenZ programming language](https://dev.to/grahamthedev/vibescript-genz-programming-language-2l0b)
-- [Understanding Protocol Data Units &lpar;PDUs&rpar;: The Building Blocks of Network Communication](https://dev.to/keploy/understanding-protocol-data-units-pdus-the-building-blocks-of-network-communication-4923)
+- [Contracts 101: What Every Nigerian Freelancer and Developer Needs to Know](https://dev.to/mantle_bearer/contracts-101-what-every-nigerian-freelancer-and-developer-needs-to-know-44me)
+- [Shift-To-Middle Array](https://dev.to/attilatorda/shift-to-middle-array-53jd)
+- [🚀 I Launched A WebApp— Your One-Stop Destination for Market News Updates 📈](https://dev.to/myogeshchavan97/i-launched-a-webapp-your-one-stop-destination-for-market-news-updates-12n7)
+- [Best AI Code Editors in 2025](https://dev.to/kristiyanvelkov/best-ai-code-editors-in-2025-1gjc)
 <!-- BLOG-POST-LIST:END -->
 
