@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pickle Rick | TryHackMe](https://dev.to/c4rnotaurus/pickle-rick-tryhackme-4afe)
-- [Blog Draft Monetizing Ai Technologies 20250416 103908](https://dev.to/pponali/blog-draft-monetizing-ai-technologies-20250416-103908-1bc6)
-- [Write Like A Professional Copywriter: How To Use Jeda.ai for Copywriting?](https://dev.to/ishmam_jahan_4269b6f13ba5/write-like-a-professional-copywriter-how-to-use-jedaai-for-copywriting-2lgg)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3p98)
+- [Glowing plants](https://dev.to/preetha_vaishnavi_2b82358/glowing-plants-3c9k)
+- [Crystal Ball Coding: The Top 10 Open-Source Tools You&#39;ll Wish You Knew About Yesterday &lpar;But Will Definitely Need Tomorrow&rpar;](https://dev.to/sakethkowtha/crystal-ball-coding-the-top-10-open-source-tools-youll-wish-you-knew-about-yesterday-but-will-43k0)
+- [10 React Best Practices Every Developer Should Follow](https://dev.to/patoliyainfotech/10-react-best-practices-every-developer-should-follow-5306)
+- [Tab Carousel](https://dev.to/preetha_vaishnavi_2b82358/tab-carousel-2n2e)
 <!-- BLOG-POST-LIST:END -->
 
