@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Configuration and Feature Flags](https://dev.to/quorummind/remote-configuration-and-feature-flags-k7c)
-- [Kubernetes 1.30: Features, Real-World Use Cases, and Practical Examples](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-130-features-real-world-use-cases-and-practical-examples-3h48)
-- [Welcome Thread - v322](https://dev.to/devteam/welcome-thread-v322-g8h)
-- [Adaptive Compression for Cache Systems with Hexagonal Architecture](https://dev.to/aws-builders/adaptive-compression-for-cache-systems-with-hexagonal-architecture-560e)
+- [Pickle Rick | TryHackMe](https://dev.to/c4rnotaurus/pickle-rick-tryhackme-4afe)
+- [Blog Draft Monetizing Ai Technologies 20250416 103908](https://dev.to/pponali/blog-draft-monetizing-ai-technologies-20250416-103908-1bc6)
+- [Write Like A Professional Copywriter: How To Use Jeda.ai for Copywriting?](https://dev.to/ishmam_jahan_4269b6f13ba5/write-like-a-professional-copywriter-how-to-use-jedaai-for-copywriting-2lgg)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3p98)
 <!-- BLOG-POST-LIST:END -->
 
