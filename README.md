@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Storage Virtualization – Simplify and Scale Your Data Infrastructure](https://dev.to/kevin_asutton_/storage-virtualization-simplify-and-scale-your-data-infrastructure-5573)
-- [The role of AI integration in creating smarter fitness apps that personalize user experiences](https://dev.to/marufhossain/the-role-of-ai-integration-in-creating-smarter-fitness-apps-that-personalize-user-experiences-jm6)
-- [Automate Multilingual Translations in Frontends with OpenAI](https://dev.to/cloudx/automate-multilingual-translations-in-frontends-with-openai-17j7)
-- [Cloud Migration – Moving with Confidence, Not Complexity](https://dev.to/kevin_asutton_/cloud-migration-moving-with-confidence-not-complexity-43i5)
+- [Launching My AI Portfolio – Brian Tham](https://dev.to/nightey3s/launching-my-ai-portfolio-brian-tham-49db)
+- [Add a Transcription to Your Video using Next.js](https://dev.to/engroso/add-a-transcription-to-your-video-using-nextjs-2815)
+- [Alpha Image: Open Source Canvas Tool [built with GPT]](https://dev.to/arber/alpha-image-open-source-canvas-tool-built-with-gpt-3pkm)
+- [Create a Custom Playground to your LLM application](https://dev.to/agenta/create-a-custom-playground-to-your-llm-application-21j0)
 <!-- BLOG-POST-LIST:END -->
 
