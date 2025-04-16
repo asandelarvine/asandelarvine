@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless is a Scam.](https://dev.to/code42cate/serverless-is-a-scam-5fc0)
-- [The Hive Is Recruiting: Join Me in Building the First AI-Native Operating System](https://dev.to/matrixswarm/the-hive-is-recruiting-join-me-in-building-the-first-ai-native-operating-system-31eb)
-- [How to Profile API Endpoint Performance](https://dev.to/zuplo/how-to-profile-api-endpoint-performance-39ff)
-- [Understanding AI: The Future of Programming and Its Impact on Developers](https://dev.to/algo_sync/understanding-ai-the-future-of-programming-and-its-impact-on-developers-3gdl)
+- [Why Kubernetes Is Everywhere — But Setting It Up Still Kinda Sucks &lpar;Unless You Follow This Guide&rpar;](https://dev.to/geek_ai_0c946f0e3c594e59b/why-kubernetes-is-everywhere-but-setting-it-up-still-kinda-sucks-unless-you-follow-this-guide-o06)
+- [Java notes](https://dev.to/donnellycarroll/java-notes-2dk9)
+- [What is DAX? Amazon DynamoDB Accelerator Explained](https://dev.to/leonardkachi/what-is-dax-amazon-dynamodb-accelerator-explained-10al)
+- [POS Terminals: Fintech Reinvented](https://dev.to/rapyd/pos-terminals-fintech-reinvented-2ipf)
 <!-- BLOG-POST-LIST:END -->
 
