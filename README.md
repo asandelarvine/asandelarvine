@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean code , Clear Mind](https://dev.to/mehfila_parkkulthil_23/clean-code-clear-mind-281)
-- [Analisis de](https://dev.to/david_bermenvliz/analisis-de-1eef)
-- [Understanding SDLC: The Backbone of Software Development](https://dev.to/badalraj9203/understanding-sdlc-the-backbone-of-software-development-213h)
-- [Boosting Golang JSON Performance: 10 Proven Techniques for High-Speed Processing](https://dev.to/aaravjoshi/boosting-golang-json-performance-10-proven-techniques-for-high-speed-processing-4f9m)
+- [Storage Virtualization – Simplify and Scale Your Data Infrastructure](https://dev.to/kevin_asutton_/storage-virtualization-simplify-and-scale-your-data-infrastructure-5573)
+- [The role of AI integration in creating smarter fitness apps that personalize user experiences](https://dev.to/marufhossain/the-role-of-ai-integration-in-creating-smarter-fitness-apps-that-personalize-user-experiences-jm6)
+- [Automate Multilingual Translations in Frontends with OpenAI](https://dev.to/cloudx/automate-multilingual-translations-in-frontends-with-openai-17j7)
+- [Cloud Migration – Moving with Confidence, Not Complexity](https://dev.to/kevin_asutton_/cloud-migration-moving-with-confidence-not-complexity-43i5)
 <!-- BLOG-POST-LIST:END -->
 
