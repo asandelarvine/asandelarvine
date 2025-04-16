@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching My AI Portfolio – Brian Tham](https://dev.to/nightey3s/launching-my-ai-portfolio-brian-tham-49db)
-- [Add a Transcription to Your Video using Next.js](https://dev.to/engroso/add-a-transcription-to-your-video-using-nextjs-2815)
-- [Alpha Image: Open Source Canvas Tool [built with GPT]](https://dev.to/arber/alpha-image-open-source-canvas-tool-built-with-gpt-3pkm)
-- [Create a Custom Playground to your LLM application](https://dev.to/agenta/create-a-custom-playground-to-your-llm-application-21j0)
+- [The Coming Collapse of White Collar Illusions](https://dev.to/noah_street_d0755cbf9a58d/the-coming-collapse-of-white-collar-illusions-56ge)
+- [Blog Draft Monetization Strategies For Ai Technologies 20250416 222218](https://dev.to/pponali/blog-draft-monetization-strategies-for-ai-technologies-20250416-222218-i57)
+- [Building a Game App with Just Python](https://dev.to/anvil/building-a-game-app-with-just-python-4fbm)
+- [Artificial Intelligence in Software Development](https://dev.to/udee_mbno_603cbc3fb9cf3ff/artificial-intelligence-in-software-development-3h68)
 <!-- BLOG-POST-LIST:END -->
 
