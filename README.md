@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy a Postgres continuous backup solution in under 5 minutes using Docker](https://dev.to/andriotis/how-to-deploy-a-postgres-continuous-backup-solution-in-under-5-minutes-using-docker-4mmb)
-- [Day 1142 : The Prototype](https://dev.to/dwane/day-1142-the-prototype-4a4k)
-- [Sprint 5 - Chakra UI v3 Migration](https://dev.to/theoforger/sprint-5-chakra-ui-v3-migration-4pfi)
-- [We Built a Birthday Party Planner App in 4 Weeks with Next.js – Here’s What We Learned](https://dev.to/kakimaru/i-built-a-birthday-party-planner-app-with-nextjs-2gpo)
+- [Serverless is a Scam.](https://dev.to/code42cate/serverless-is-a-scam-5fc0)
+- [The Hive Is Recruiting: Join Me in Building the First AI-Native Operating System](https://dev.to/matrixswarm/the-hive-is-recruiting-join-me-in-building-the-first-ai-native-operating-system-31eb)
+- [How to Profile API Endpoint Performance](https://dev.to/zuplo/how-to-profile-api-endpoint-performance-39ff)
+- [Understanding AI: The Future of Programming and Its Impact on Developers](https://dev.to/algo_sync/understanding-ai-the-future-of-programming-and-its-impact-on-developers-3gdl)
 <!-- BLOG-POST-LIST:END -->
 
