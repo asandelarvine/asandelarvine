@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 16 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-16-april-4a2l)
-- [Dynamic Pruning Strategy - Fixing Flow Defects in Merged Nodes of LangGraphJS Graphs](https://dev.to/techwalker/dynamic-pruning-strategy-in-langgraphjs-4ed5)
-- [METRICS: STREAMLINE YOUR SYSTEM INSIGHTS](https://dev.to/rajeshwari_vakharia_fdcc7/metrics-streamline-your-system-insights-1nhd)
-- [What Role Does Manpower Play in Egypt’s Tech Outsourcing Landscape?](https://dev.to/yehia_samir123/what-role-does-manpower-play-in-egypts-tech-outsourcing-landscape-5dih)
+- [The Importance of ITSM Incident Management: Lessons from the July 2024 CrowdStrike Incident](https://dev.to/kapusto/the-importance-of-itsm-incident-management-lessons-from-the-july-2024-crowdstrike-incident-3bl5)
+- [Testing Apps for Seamless User Onboarding in 2025](https://dev.to/vaibhavkuls/testing-apps-for-seamless-user-onboarding-in-2025-2io1)
+- [When Web Meets Hardware: USB, Serial, and the New Web Frontier](https://dev.to/matemiller/when-web-meets-hardware-usb-serial-and-the-new-web-frontier-bnf)
+- [I built a Mental Math version of Monkeytype! Feedback appreciated!](https://dev.to/om3x4/i-built-a-mental-math-version-of-monkeytype-feedback-appreciated-4nhb)
 <!-- BLOG-POST-LIST:END -->
 
