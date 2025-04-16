@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Design Patterns: Aplicando el patrón Data Mapper con Java](https://dev.to/paltadash/enterprise-design-patterns-aplicando-el-patron-data-mapper-con-java-1okh)
-- [How to Design and Deploy Data Models as APIs with Negroni](https://dev.to/lonti-davidb/how-to-design-and-deploy-data-models-as-apis-with-negroni-4i4k)
-- [How to debug AI generated code?](https://dev.to/anicetn/how-to-debug-ai-generated-code-3434)
-- [Shortcode](https://dev.to/david_bermenvliz/shortcode-1mm0)
+- [How I Built My First Developer Profile as a Complete Beginner](https://dev.to/sankworks/how-i-built-my-first-developer-profile-as-a-complete-beginner-589c)
+- [Why I’m Learning to Code as a Civil Servant in Korea](https://dev.to/sankworks/why-im-learning-to-code-as-a-civil-servant-in-korea-354k)
+- [Domain Model e as entidades persistíveis](https://dev.to/leonardomelosantos/domain-model-e-as-entidades-persistiveis-2i04)
+- [The Future of Digital Empowerment Is Here — Meet Hastro](https://dev.to/hastroworld/the-future-of-digital-empowerment-is-here-meet-hastro-fp6)
 <!-- BLOG-POST-LIST:END -->
 
