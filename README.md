@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Contracts 101: What Every Nigerian Freelancer and Developer Needs to Know](https://dev.to/mantle_bearer/contracts-101-what-every-nigerian-freelancer-and-developer-needs-to-know-44me)
-- [Shift-To-Middle Array](https://dev.to/attilatorda/shift-to-middle-array-53jd)
-- [🚀 I Launched A WebApp— Your One-Stop Destination for Market News Updates 📈](https://dev.to/myogeshchavan97/i-launched-a-webapp-your-one-stop-destination-for-market-news-updates-12n7)
-- [Best AI Code Editors in 2025](https://dev.to/kristiyanvelkov/best-ai-code-editors-in-2025-1gjc)
+- [Twitch Advertising in 2025: How Brands Can Win With Entyx and Native Ads](https://dev.to/entyx/twitch-advertising-in-2025-how-brands-can-win-with-entyx-and-native-ads-3om1)
+- [AI Agents and the Attention Economy: The Age of A2A Protocol](https://dev.to/czmilo/ai-agents-and-the-attention-economy-the-age-of-a2a-protocol-4hl1)
+- [What is @Environment and Why Is It Useful?](https://dev.to/voinkoder/what-is-environment-and-why-is-it-useful-53ap)
+- [DIY Database Backup - quick and dirty backup using rsync and s3](https://dev.to/yuval1024/diy-database-backup-quick-and-dirty-backup-using-rsync-and-s3-1cn2)
 <!-- BLOG-POST-LIST:END -->
 
