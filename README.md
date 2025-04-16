@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Authority Without Chasing Virality](https://dev.to/ociel_gonzalez/building-authority-without-chasing-virality-24mn)
-- [Built a 2d collision simulator](https://dev.to/noltekcar/built-a-2d-collision-simulator-pg2)
-- [Gerando Pagamentos via Pix com a AbacatePay](https://dev.to/wiliamvj/gerando-pagamentos-via-pix-com-a-abacatepay-1lk9)
-- [Downloooooad PDFs without using web Browsers with python](https://dev.to/madhushan/downloooooad-pdfs-without-using-web-browsers-with-python-2ejj)
+- [How to deploy a Postgres continuous backup solution in under 5 minutes using Docker](https://dev.to/andriotis/how-to-deploy-a-postgres-continuous-backup-solution-in-under-5-minutes-using-docker-4mmb)
+- [Day 1142 : The Prototype](https://dev.to/dwane/day-1142-the-prototype-4a4k)
+- [Sprint 5 - Chakra UI v3 Migration](https://dev.to/theoforger/sprint-5-chakra-ui-v3-migration-4pfi)
+- [We Built a Birthday Party Planner App in 4 Weeks with Next.js – Here’s What We Learned](https://dev.to/kakimaru/i-built-a-birthday-party-planner-app-with-nextjs-2gpo)
 <!-- BLOG-POST-LIST:END -->
 
