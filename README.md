@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My First Developer Profile as a Complete Beginner](https://dev.to/sankworks/how-i-built-my-first-developer-profile-as-a-complete-beginner-589c)
-- [Why I’m Learning to Code as a Civil Servant in Korea](https://dev.to/sankworks/why-im-learning-to-code-as-a-civil-servant-in-korea-354k)
-- [Domain Model e as entidades persistíveis](https://dev.to/leonardomelosantos/domain-model-e-as-entidades-persistiveis-2i04)
-- [The Future of Digital Empowerment Is Here — Meet Hastro](https://dev.to/hastroworld/the-future-of-digital-empowerment-is-here-meet-hastro-fp6)
+- [Remote Configuration and Feature Flags](https://dev.to/quorummind/remote-configuration-and-feature-flags-k7c)
+- [Kubernetes 1.30: Features, Real-World Use Cases, and Practical Examples](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-130-features-real-world-use-cases-and-practical-examples-3h48)
+- [Welcome Thread - v322](https://dev.to/devteam/welcome-thread-v322-g8h)
+- [Adaptive Compression for Cache Systems with Hexagonal Architecture](https://dev.to/aws-builders/adaptive-compression-for-cache-systems-with-hexagonal-architecture-560e)
 <!-- BLOG-POST-LIST:END -->
 
