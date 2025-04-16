@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate AI Into Your Personal Brand and Become an Authority in the Digital Age](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-to-integrate-ai-into-your-personal-brand-and-become-an-authority-in-the-digital-age-20c1)
-- [Why I Chose the Name: RadhaSphere &amp; OmniRadhaNexus](https://dev.to/omniradhanexus/why-i-named-my-web3-wallet-radhasphere-building-tech-with-soul-59em)
-- [Simple Chat UI](https://dev.to/preetha_vaishnavi_2b82358/simple-chat-ui-35f1)
-- [Introducing Myself: An IT Software Developer Exploring Web Tech, Blockchain, and More](https://dev.to/wikithink/introducing-myself-an-it-software-developer-exploring-web-tech-blockchain-and-more-ik)
+- [How to Unblock Gmail and Regain Full Access](https://dev.to/swiftproxy_residential/how-to-unblock-gmail-and-regain-full-access-4imd)
+- [PHANTOM BRACKETH THYNDROME](https://dev.to/biggeye/phantom-bracketh-thyndrome-37ac)
+- [VibeScript - GenZ programming language](https://dev.to/grahamthedev/vibescript-genz-programming-language-2l0b)
+- [Understanding Protocol Data Units &lpar;PDUs&rpar;: The Building Blocks of Network Communication](https://dev.to/keploy/understanding-protocol-data-units-pdus-the-building-blocks-of-network-communication-4923)
 <!-- BLOG-POST-LIST:END -->
 
