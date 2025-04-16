@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Coming Collapse of White Collar Illusions](https://dev.to/noah_street_d0755cbf9a58d/the-coming-collapse-of-white-collar-illusions-56ge)
-- [Blog Draft Monetization Strategies For Ai Technologies 20250416 222218](https://dev.to/pponali/blog-draft-monetization-strategies-for-ai-technologies-20250416-222218-i57)
-- [Building a Game App with Just Python](https://dev.to/anvil/building-a-game-app-with-just-python-4fbm)
-- [Artificial Intelligence in Software Development](https://dev.to/udee_mbno_603cbc3fb9cf3ff/artificial-intelligence-in-software-development-3h68)
+- [I Started Saying &quot;No&quot; to Feature Requests — My Product Got Better Overnight](https://dev.to/shayy/i-started-saying-no-to-feature-requests-my-product-got-better-overnight-4e74)
+- [Smart Home MCP Server with VSCode Copilot](https://dev.to/victorioberra/smart-home-mcp-server-with-vscode-copilot-3ckj)
+- [The Role of SQL in Data Analytics.](https://dev.to/kelvin_munene/the-role-of-sql-in-data-analytics-30db)
+- [Lessons learned from 5 years operating huge ClickHouse® clusters: Part II](https://dev.to/tinybirdco/lessons-learned-from-5-years-operating-huge-clickhouser-clusters-part-ii-g6g)
 <!-- BLOG-POST-LIST:END -->
 
