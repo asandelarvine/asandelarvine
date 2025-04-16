@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Glowing plants](https://dev.to/preetha_vaishnavi_2b82358/glowing-plants-3c9k)
-- [Crystal Ball Coding: The Top 10 Open-Source Tools You&#39;ll Wish You Knew About Yesterday &lpar;But Will Definitely Need Tomorrow&rpar;](https://dev.to/sakethkowtha/crystal-ball-coding-the-top-10-open-source-tools-youll-wish-you-knew-about-yesterday-but-will-43k0)
-- [10 React Best Practices Every Developer Should Follow](https://dev.to/patoliyainfotech/10-react-best-practices-every-developer-should-follow-5306)
-- [Tab Carousel](https://dev.to/preetha_vaishnavi_2b82358/tab-carousel-2n2e)
+- [How to Integrate AI Into Your Personal Brand and Become an Authority in the Digital Age](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-to-integrate-ai-into-your-personal-brand-and-become-an-authority-in-the-digital-age-20c1)
+- [Why I Chose the Name: RadhaSphere &amp; OmniRadhaNexus](https://dev.to/omniradhanexus/why-i-named-my-web3-wallet-radhasphere-building-tech-with-soul-59em)
+- [Simple Chat UI](https://dev.to/preetha_vaishnavi_2b82358/simple-chat-ui-35f1)
+- [Introducing Myself: An IT Software Developer Exploring Web Tech, Blockchain, and More](https://dev.to/wikithink/introducing-myself-an-it-software-developer-exploring-web-tech-blockchain-and-more-ik)
 <!-- BLOG-POST-LIST:END -->
 
