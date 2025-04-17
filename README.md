@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 OpenAI O3 and O4-Mini Released – A Must-Know for Developers!](https://dev.to/blurbify/openai-o3-and-o4-mini-released-a-must-know-for-developers-1a65)
-- [Card Mentalism](https://dev.to/muzammiliqbalkhosa/card-mentalism-4hcn)
-- [learned basics of Java today, variables , expressions ,and basic programs](https://dev.to/ayush_kumar_f0dd69996cd7a/learned-basics-of-java-today-variables-expressions-and-basic-programs-1mdd)
-- [Android Studio: Read All Songs From User Storage With permissions](https://dev.to/avinash_tare_6d6e81721bb6/android-studio-read-all-songs-from-user-storage-with-permissions-3l0p)
+- [Python: 100 Simple Codes](https://dev.to/souhaillaghchimdev/python-100-simple-codes-2mmp)
+- [Blog Draft Comprehensive Monetization Plan For Ai Technologies 20250417 232641](https://dev.to/pponali/blog-draft-comprehensive-monetization-plan-for-ai-technologies-20250417-232641-43co)
+- [Why Enterprises Need to Rethink Learning Strategies in 2025](https://dev.to/professional_trainer_c8c1/why-enterprises-need-to-rethink-learning-strategies-in-2025-3m06)
+- [🧠 What Every Web2 Dev Should Know Before Going Web3](https://dev.to/vadym_info_polus/what-every-web2-dev-should-know-before-going-web3-501j)
 <!-- BLOG-POST-LIST:END -->
 
