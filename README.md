@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Overview of Cloud Computing, Starting with AWS](https://dev.to/nathamuni_nk_af1dd728d76b/an-overview-of-cloud-computing-starting-with-aws-2i1p)
-- [Understanding Crypto Custody Services: Why Developers Should Care](https://dev.to/yumnafatima/understanding-crypto-custody-services-why-developers-should-care-1geg)
-- [High-cardinality values for build flags in Rust](https://dev.to/nfrankel/high-cardinality-values-for-build-flags-in-rust-19ob)
-- [BIM Coordination, Clash Detection and Coordination: Streamlining Construction with Precision](https://dev.to/artee091842/bim-coordination-clash-detection-and-coordination-streamlining-construction-with-precision-c8p)
+- [A Beginner&#39;s Journey: Deploying Applications on Amazon EKS](https://dev.to/aws-builders/a-beginners-journey-deploying-applications-on-amazon-eks-2004)
+- [Why 3D Videos Are the Future of Visual Storytelling](https://dev.to/dm_xplorazzi_8a0f94f88e0c/why-3d-videos-are-the-future-of-visual-storytelling-5bip)
+- [Visualising Stream Chat Data with Kibana: A Step-by-Step Guide](https://dev.to/getstreamhq/visualising-stream-chat-data-with-kibana-a-step-by-step-guide-5g4d)
+- [LangChain is the new popular guy in the ai agent town](https://dev.to/b2brepo/langchain-is-the-new-popular-guy-in-the-ai-agent-town-1m9m)
 <!-- BLOG-POST-LIST:END -->
 
