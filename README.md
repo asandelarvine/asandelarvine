@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Forks in Bitcoin’s Evolution](https://dev.to/coinw/the-role-of-forks-in-bitcoins-evolution-2mbp)
-- [Styling Text with Gradients Using Only CSS](https://dev.to/elainesajets/styling-text-with-gradients-using-only-css-7pd)
-- [Understanding the CAP Theorem in System Design](https://dev.to/msnmongare/understanding-the-cap-theorem-in-system-design-of9)
-- [How to exclude classes from jacoco in Gradle](https://dev.to/sineaggi/how-to-exclude-classes-from-jacoco-in-gradle-2go9)
+- [A2A vs. MCP: Data Security Woes and a Subtle Fix](https://dev.to/abs_050c1/a2a-vs-mcp-data-security-woes-and-a-subtle-fix-25mg)
+- [Major Types of Cloud Malware](https://dev.to/clouddefenseai/major-types-of-cloud-malware-1f7n)
+- [AI&#39;s Evil Twin: When Algorithms Go Rogue &lpar;and How We Can Stop Them&rpar;](https://dev.to/sakethkowtha/ais-evil-twin-when-algorithms-go-rogue-and-how-we-can-stop-them-4ag5)
+- [Part 4: Ask Questions About PDF Files with LangChain4j](https://dev.to/haraf/part-4-ask-questions-about-pdf-files-with-langchain4j-1ka0)
 <!-- BLOG-POST-LIST:END -->
 
