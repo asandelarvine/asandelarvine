@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aluguel de Vans para Grandes Grupos: Conforto e Praticidade em Viagens](https://dev.to/transladobus225/aluguel-de-vans-para-grandes-grupos-conforto-e-praticidade-em-viagens-1i42)
-- [🧠 JavaScript Conditional Statements Explained for Beginners](https://dev.to/ebereplenty/javascript-conditional-statements-explained-for-beginners-3k5g)
-- [Mastering the Basics: Key Elements of a Good Basketball Shot for Beginners by Basketball Enthusiasts including Matthew Skorny](https://dev.to/matthew12/mastering-the-basics-key-elements-of-a-good-basketball-shot-for-beginners-by-basketball-245e)
-- [FortiOS 7.6.3 Update: SSL VPN Tunnel Mode No Longer Supported](https://dev.to/madhushan/fortios-763-update-ssl-vpn-tunnel-mode-no-longer-supported-27hg)
+- [Functional Principles Still Matter](https://dev.to/myungsunrex/functional-principles-still-matter-2onh)
+- [New approach from DeepMind partitions LLMs to mitigate prompt injection](https://dev.to/sadiksajid/new-approach-from-deepmind-partitions-llms-to-mitigate-prompt-injection-17b)
+- [Supercharging Productivity with Cursor AI: A React Developer&#39;s Guide to MCP Servers and JSON Prompts](https://dev.to/__a8ddb34aa3c6/supercharging-productivity-with-cursor-ai-a-react-developers-guide-to-mcp-servers-and-json-prompts-4j6h)
+- [Angular 19 Signals: `update&lpar;&rpar;` vs `.push&lpar;&rpar;` – Why Immutability Matters](https://dev.to/cristiansifuentes/angular-19-signals-update-vs-push-why-immutability-matters-2ffg)
 <!-- BLOG-POST-LIST:END -->
 
