@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 OpenAI Just Leveled Up &lpar;Again&rpar;: What I Think Devs Should Know from the o3 &amp; o4 Update](https://dev.to/adit/openai-just-leveled-up-again-what-i-think-devs-should-know-from-the-o3-o4-update-2o3e)
-- [Generative AI Interview Questions Practice Test Series](https://dev.to/pawandeore/generative-ai-interview-questions-practice-test-series-4lpo)
-- [A developer&#39;s reference to Postgres change data capture &lpar;CDC&rpar;](https://dev.to/sequin/a-developers-reference-to-postgres-change-data-capture-cdc-2bpk)
-- [How Debezium captures changes from Postgres](https://dev.to/sequin/how-debezium-captures-changes-from-postgres-35bn)
+- [The Role of Forks in Bitcoin’s Evolution](https://dev.to/coinw/the-role-of-forks-in-bitcoins-evolution-2mbp)
+- [Styling Text with Gradients Using Only CSS](https://dev.to/elainesajets/styling-text-with-gradients-using-only-css-7pd)
+- [Understanding the CAP Theorem in System Design](https://dev.to/msnmongare/understanding-the-cap-theorem-in-system-design-of9)
+- [How to exclude classes from jacoco in Gradle](https://dev.to/sineaggi/how-to-exclude-classes-from-jacoco-in-gradle-2go9)
 <!-- BLOG-POST-LIST:END -->
 
