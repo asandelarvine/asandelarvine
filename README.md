@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Paperwork to Digital Excellence: LMS in Compliance Training](https://dev.to/lukasjeremy/from-paperwork-to-digital-excellence-lms-in-compliance-training-jki)
-- [Getting Started with ServiceNow: A Beginner’s Guide](https://dev.to/markwayne/getting-started-with-servicenow-a-beginners-guide-35ph)
-- [Active Directory Attacks: Hardening Strategies Every Organization Needs in 2025](https://dev.to/kapusto/active-directory-attacks-hardening-strategies-every-organization-needs-in-2025-3ejo)
-- [Ultimate Interview Prep Guide: React, Git, Behavioral, and DSA](https://dev.to/koolkamalkishor/react-javascript-technical-questions-55fl)
+- [🚀 Your Daily Crypto Job Digest For 17 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-april-1al9)
+- [My Blog Title](https://dev.to/info_team_420fb1eee8c6696/my-blog-title-3716)
+- [Beginner’s Guide: How to Start a TV Network Step by Step](https://dev.to/livestreaming/beginners-guide-how-to-start-a-tv-network-step-by-step-57eo)
+- [Registration From Application in Spring boot java](https://dev.to/v_inoth_f0fad29baec4c/registration-from-application-in-spring-boot-java-3a27)
 <!-- BLOG-POST-LIST:END -->
 
