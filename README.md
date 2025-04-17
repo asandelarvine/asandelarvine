@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Hotel Channel Manager Software in 2025](https://dev.to/sonu_kumar_45/top-5-hotel-channel-manager-software-in-2025-4kcf)
-- [My Journey with Trae: Why Trae AI is the Future of Coding🔥🔥🔥](https://dev.to/ashinno/my-journey-with-trae-why-trae-ai-is-the-future-of-coding-17h6)
-- [Why Chaos Engineering is Essential for SREs](https://dev.to/quinnox_/why-chaos-engineering-is-essential-for-sres-2he7)
-- [How to dockerize a Python application?](https://dev.to/pikotutorial/how-to-dockerize-a-python-application-2kpi)
+- [An Overview of Cloud Computing, Starting with AWS](https://dev.to/nathamuni_nk_af1dd728d76b/an-overview-of-cloud-computing-starting-with-aws-2i1p)
+- [Understanding Crypto Custody Services: Why Developers Should Care](https://dev.to/yumnafatima/understanding-crypto-custody-services-why-developers-should-care-1geg)
+- [High-cardinality values for build flags in Rust](https://dev.to/nfrankel/high-cardinality-values-for-build-flags-in-rust-19ob)
+- [BIM Coordination, Clash Detection and Coordination: Streamlining Construction with Precision](https://dev.to/artee091842/bim-coordination-clash-detection-and-coordination-streamlining-construction-with-precision-c8p)
 <!-- BLOG-POST-LIST:END -->
 
