@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing the Top 10 Managed Kubernetes Providers &lpar;2025 Edition&rpar;](https://dev.to/devlinkstudios/comparing-the-top-10-managed-kubernetes-providers-2025-edition-12h8)
-- [Variáveis de Ambiente em Docker](https://dev.to/yuripeixinho/variaveis-de-ambiente-em-docker-508h)
-- [Beyond the Buzzwords: The Relevance of DORA Metrics in Contemporary Cloud Hosting for Developers](https://dev.to/devlinkstudios/beyond-the-buzzwords-the-relevance-of-dora-metrics-in-contemporary-cloud-hosting-for-developers-1hb1)
-- [Parsing and Formatting Time Strings 5/10](https://dev.to/rezmoss/parsing-and-formatting-time-strings-510-2cj1)
+- [🧠 OpenAI Just Leveled Up &lpar;Again&rpar;: What I Think Devs Should Know from the o3 &amp; o4 Update](https://dev.to/adit/openai-just-leveled-up-again-what-i-think-devs-should-know-from-the-o3-o4-update-2o3e)
+- [Generative AI Interview Questions Practice Test Series](https://dev.to/pawandeore/generative-ai-interview-questions-practice-test-series-4lpo)
+- [A developer&#39;s reference to Postgres change data capture &lpar;CDC&rpar;](https://dev.to/sequin/a-developers-reference-to-postgres-change-data-capture-cdc-2bpk)
+- [How Debezium captures changes from Postgres](https://dev.to/sequin/how-debezium-captures-changes-from-postgres-35bn)
 <!-- BLOG-POST-LIST:END -->
 
