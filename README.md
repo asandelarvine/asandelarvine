@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple To-Do List App with Python &lpar;Beginner Project&rpar;](https://dev.to/sankworks/building-a-simple-to-do-list-app-with-python-beginner-project-1pab)
-- [Verifiable Digital Credential Ecosystem: All You Need to Know](https://dev.to/everycred/verifiable-digital-credential-ecosystem-all-you-need-to-know-3inh)
-- [When Vue&#39;s watch Made Me Think of React&#39;s useEffect](https://dev.to/pravinjadhav/when-vues-watch-made-me-think-of-reacts-useeffect-2fge)
-- [🔥 Kadane&#39;s Algorithm — The Power of Maximum Subarrays](https://dev.to/br-lovanshi/kadanes-algorithm-the-power-of-maximum-subarrays-22kg)
+- [Understanding Core React Hooks with Simple Analogies](https://dev.to/joodi/understanding-core-react-hooks-with-simple-analogies-49l0)
+- [Rethinking Reasoning in AI: Why LLMs Should Be Interns, Not Architects](https://dev.to/ryo_suwito/rethinking-reasoning-in-ai-why-llms-should-be-interns-not-architects-2dge)
+- [Software design vs software architecture: Stop mixing up these two tech twins!](https://dev.to/mohini_chauhan_1403/software-design-vs-software-architecture-stop-mixing-up-these-two-tech-twins-38o2)
+- [A Practical 10 Step Guide to Networking &lpar;the people kind&rpar;](https://dev.to/clark_teeple/a-practical-10-step-guide-to-networking-the-people-kind-a8a)
 <!-- BLOG-POST-LIST:END -->
 
