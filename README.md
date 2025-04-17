@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Engineers Don’t Block - They Unblock](https://dev.to/duplessisvanaswegen/the-best-engineers-dont-block-they-unblock-4ho4)
-- [Vietnam’s Biometric Verification Mandate: Key Regulatory Impact and Opportunities for Banks &amp; Corporates](https://dev.to/vdelitz/vietnams-biometric-verification-mandate-key-regulatory-impact-and-opportunities-for-banks--4cgn)
-- [Building yet another Remote Jobs Aggregator &lpar;FlexHired&rpar; - My strategy for differentiation &amp; seeking feedback](https://dev.to/xuho/building-yet-another-remote-jobs-aggregator-flexhired-my-strategy-for-differentiation-seeking-435d)
-- [AWS Shared Responsibility Model and Security Principles](https://dev.to/eunice-js/aws-shared-responsibility-model-and-security-principles-e3f)
+- [🚀 OpenAI O3 and O4-Mini Released – A Must-Know for Developers!](https://dev.to/blurbify/openai-o3-and-o4-mini-released-a-must-know-for-developers-1a65)
+- [Card Mentalism](https://dev.to/muzammiliqbalkhosa/card-mentalism-4hcn)
+- [learned basics of Java today, variables , expressions ,and basic programs](https://dev.to/ayush_kumar_f0dd69996cd7a/learned-basics-of-java-today-variables-expressions-and-basic-programs-1mdd)
+- [Android Studio: Read All Songs From User Storage With permissions](https://dev.to/avinash_tare_6d6e81721bb6/android-studio-read-all-songs-from-user-storage-with-permissions-3l0p)
 <!-- BLOG-POST-LIST:END -->
 
