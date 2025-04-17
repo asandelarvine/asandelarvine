@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript for Rails Developers is out now](https://dev.to/railsdesigner/javascript-for-rails-developers-is-out-now-451d)
-- [🚀 Build Apps Faster with These 10 Ready-Made Flutter UI Kits &lpar;Free + Paid&rpar; 10 USD ONLY](https://dev.to/open_sea_c2bcd5d551fbbb4b/build-apps-faster-with-these-10-ready-made-flutter-ui-kits-free-paid-10-usd-only-1i1b)
-- [WordPress vs Other CMS: Why WordPress is Better Than Other CMS](https://dev.to/johnsmith244303/wordpress-vs-other-cms-why-wordpress-is-better-than-other-cms-dgn)
-- [1N4007-T: The Elder Wand of Diodes](https://dev.to/ersajay/1n4007-t-the-elder-wand-of-diodes-24nk)
+- [Top 5 Hotel Channel Manager Software in 2025](https://dev.to/sonu_kumar_45/top-5-hotel-channel-manager-software-in-2025-4kcf)
+- [My Journey with Trae: Why Trae AI is the Future of Coding🔥🔥🔥](https://dev.to/ashinno/my-journey-with-trae-why-trae-ai-is-the-future-of-coding-17h6)
+- [Why Chaos Engineering is Essential for SREs](https://dev.to/quinnox_/why-chaos-engineering-is-essential-for-sres-2he7)
+- [How to dockerize a Python application?](https://dev.to/pikotutorial/how-to-dockerize-a-python-application-2kpi)
 <!-- BLOG-POST-LIST:END -->
 
