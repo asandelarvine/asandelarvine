@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FumaDocs React Component to Display Code from Github Repos](https://dev.to/rjvim/fumadocs-react-component-to-display-code-from-github-repos-4dlm)
-- [Smart AI Landscaping Tips for Tiny Yards: Transform Limited Space into Lush Beauty](https://dev.to/yardflip/smart-ai-landscaping-tips-for-tiny-yards-transform-limited-space-into-lush-beauty-1n23)
-- [How to Optimize Website Performance for Faster Load Times](https://dev.to/dbhatasana/how-to-optimize-website-performance-for-faster-load-times-19bb)
-- [Data Science Career Role In Pune.](https://dev.to/niks_kirdak_47c783a80cbc7/data-science-career-role-in-pune-44ih)
+- [JavaScript for Rails Developers is out now](https://dev.to/railsdesigner/javascript-for-rails-developers-is-out-now-451d)
+- [🚀 Build Apps Faster with These 10 Ready-Made Flutter UI Kits &lpar;Free + Paid&rpar; 10 USD ONLY](https://dev.to/open_sea_c2bcd5d551fbbb4b/build-apps-faster-with-these-10-ready-made-flutter-ui-kits-free-paid-10-usd-only-1i1b)
+- [WordPress vs Other CMS: Why WordPress is Better Than Other CMS](https://dev.to/johnsmith244303/wordpress-vs-other-cms-why-wordpress-is-better-than-other-cms-dgn)
+- [1N4007-T: The Elder Wand of Diodes](https://dev.to/ersajay/1n4007-t-the-elder-wand-of-diodes-24nk)
 <!-- BLOG-POST-LIST:END -->
 
