@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the winners of our first-ever WeCoded Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-ever-wecoded-challenge-1j8i)
-- [Understanding the V8 Garbage Collector](https://dev.to/omriluz1/understanding-the-v8-garbage-collector-1a36)
-- [ChatGPT Knows Your IQ](https://dev.to/besworks/chatgpt-knows-your-iq-3nac)
-- [Closing the Chapter - Recap](https://dev.to/theoforger/closing-the-chapter-recap-mhd)
+- [Aluguel de Vans para Grandes Grupos: Conforto e Praticidade em Viagens](https://dev.to/transladobus225/aluguel-de-vans-para-grandes-grupos-conforto-e-praticidade-em-viagens-1i42)
+- [🧠 JavaScript Conditional Statements Explained for Beginners](https://dev.to/ebereplenty/javascript-conditional-statements-explained-for-beginners-3k5g)
+- [Mastering the Basics: Key Elements of a Good Basketball Shot for Beginners by Basketball Enthusiasts including Matthew Skorny](https://dev.to/matthew12/mastering-the-basics-key-elements-of-a-good-basketball-shot-for-beginners-by-basketball-245e)
+- [FortiOS 7.6.3 Update: SSL VPN Tunnel Mode No Longer Supported](https://dev.to/madhushan/fortios-763-update-ssl-vpn-tunnel-mode-no-longer-supported-27hg)
 <!-- BLOG-POST-LIST:END -->
 
