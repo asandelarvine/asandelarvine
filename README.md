@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [``` Python Power: 7 Battle-Tested Techniques for Building Resilient Distributed Systems ```](https://dev.to/aaravjoshi/python-power-7-battle-tested-techniques-for-building-resilient-distributed-systems-5dbp)
-- [From Euclid to Euler: A Journey Through Primes, Proofs, and Modern Cryptography](https://dev.to/mysteryminusplus/from-euclid-to-euler-a-journey-through-primes-proofs-and-modern-cryptography-47o9)
-- [Curly Quotes with QuoteQuote](https://dev.to/tomherni/curly-quotes-with-quotequote-cf1)
-- [AI talk and learning](https://dev.to/wesbite-ai/ai-talk-and-learning-1l0)
+- [The Best Engineers Don’t Block - They Unblock](https://dev.to/duplessisvanaswegen/the-best-engineers-dont-block-they-unblock-4ho4)
+- [Vietnam’s Biometric Verification Mandate: Key Regulatory Impact and Opportunities for Banks &amp; Corporates](https://dev.to/vdelitz/vietnams-biometric-verification-mandate-key-regulatory-impact-and-opportunities-for-banks--4cgn)
+- [Building yet another Remote Jobs Aggregator &lpar;FlexHired&rpar; - My strategy for differentiation &amp; seeking feedback](https://dev.to/xuho/building-yet-another-remote-jobs-aggregator-flexhired-my-strategy-for-differentiation-seeking-435d)
+- [AWS Shared Responsibility Model and Security Principles](https://dev.to/eunice-js/aws-shared-responsibility-model-and-security-principles-e3f)
 <!-- BLOG-POST-LIST:END -->
 
