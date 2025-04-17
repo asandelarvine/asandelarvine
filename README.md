@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Writes First Peer-Reviewed Paper: Meet AI Scientist-v2](https://dev.to/aimodels-fyi/ai-writes-first-peer-reviewed-paper-meet-ai-scientist-v2-54kg)
-- [When Your IoT Data Outgrows Your Architecture](https://dev.to/timescale/when-your-iot-data-outgrows-your-architecture-e9)
-- [Need initial collaborators &lpar;partners&rpar; for an startup](https://dev.to/ahtesham2000/need-initial-collaborators-partners-for-an-startup-3p5h)
-- [🚀 Hello DEV Community! My First Post 🌟](https://dev.to/shifa_2/hello-dev-community-my-first-post-4ip)
+- [Congrats to the winners of our first-ever WeCoded Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-ever-wecoded-challenge-1j8i)
+- [Understanding the V8 Garbage Collector](https://dev.to/omriluz1/understanding-the-v8-garbage-collector-1a36)
+- [ChatGPT Knows Your IQ](https://dev.to/besworks/chatgpt-knows-your-iq-3nac)
+- [Closing the Chapter - Recap](https://dev.to/theoforger/closing-the-chapter-recap-mhd)
 <!-- BLOG-POST-LIST:END -->
 
