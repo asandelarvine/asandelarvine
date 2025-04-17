@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Journey: Deploying Applications on Amazon EKS](https://dev.to/aws-builders/a-beginners-journey-deploying-applications-on-amazon-eks-2004)
-- [Why 3D Videos Are the Future of Visual Storytelling](https://dev.to/dm_xplorazzi_8a0f94f88e0c/why-3d-videos-are-the-future-of-visual-storytelling-5bip)
-- [Visualising Stream Chat Data with Kibana: A Step-by-Step Guide](https://dev.to/getstreamhq/visualising-stream-chat-data-with-kibana-a-step-by-step-guide-5g4d)
-- [LangChain is the new popular guy in the ai agent town](https://dev.to/b2brepo/langchain-is-the-new-popular-guy-in-the-ai-agent-town-1m9m)
+- [From Paperwork to Digital Excellence: LMS in Compliance Training](https://dev.to/lukasjeremy/from-paperwork-to-digital-excellence-lms-in-compliance-training-jki)
+- [Getting Started with ServiceNow: A Beginner’s Guide](https://dev.to/markwayne/getting-started-with-servicenow-a-beginners-guide-35ph)
+- [Active Directory Attacks: Hardening Strategies Every Organization Needs in 2025](https://dev.to/kapusto/active-directory-attacks-hardening-strategies-every-organization-needs-in-2025-3ejo)
+- [Ultimate Interview Prep Guide: React, Git, Behavioral, and DSA](https://dev.to/koolkamalkishor/react-javascript-technical-questions-55fl)
 <!-- BLOG-POST-LIST:END -->
 
