@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: 100 Simple Codes](https://dev.to/souhaillaghchimdev/python-100-simple-codes-2mmp)
-- [Blog Draft Comprehensive Monetization Plan For Ai Technologies 20250417 232641](https://dev.to/pponali/blog-draft-comprehensive-monetization-plan-for-ai-technologies-20250417-232641-43co)
-- [Why Enterprises Need to Rethink Learning Strategies in 2025](https://dev.to/professional_trainer_c8c1/why-enterprises-need-to-rethink-learning-strategies-in-2025-3m06)
-- [🧠 What Every Web2 Dev Should Know Before Going Web3](https://dev.to/vadym_info_polus/what-every-web2-dev-should-know-before-going-web3-501j)
+- [AI Writes First Peer-Reviewed Paper: Meet AI Scientist-v2](https://dev.to/aimodels-fyi/ai-writes-first-peer-reviewed-paper-meet-ai-scientist-v2-54kg)
+- [When Your IoT Data Outgrows Your Architecture](https://dev.to/timescale/when-your-iot-data-outgrows-your-architecture-e9)
+- [Need initial collaborators &lpar;partners&rpar; for an startup](https://dev.to/ahtesham2000/need-initial-collaborators-partners-for-an-startup-3p5h)
+- [🚀 Hello DEV Community! My First Post 🌟](https://dev.to/shifa_2/hello-dev-community-my-first-post-4ip)
 <!-- BLOG-POST-LIST:END -->
 
