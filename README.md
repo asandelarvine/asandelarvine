@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 17 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-april-1al9)
-- [My Blog Title](https://dev.to/info_team_420fb1eee8c6696/my-blog-title-3716)
-- [Beginner’s Guide: How to Start a TV Network Step by Step](https://dev.to/livestreaming/beginners-guide-how-to-start-a-tv-network-step-by-step-57eo)
-- [Registration From Application in Spring boot java](https://dev.to/v_inoth_f0fad29baec4c/registration-from-application-in-spring-boot-java-3a27)
+- [Building a Simple To-Do List App with Python &lpar;Beginner Project&rpar;](https://dev.to/sankworks/building-a-simple-to-do-list-app-with-python-beginner-project-1pab)
+- [Verifiable Digital Credential Ecosystem: All You Need to Know](https://dev.to/everycred/verifiable-digital-credential-ecosystem-all-you-need-to-know-3inh)
+- [When Vue&#39;s watch Made Me Think of React&#39;s useEffect](https://dev.to/pravinjadhav/when-vues-watch-made-me-think-of-reacts-useeffect-2fge)
+- [🔥 Kadane&#39;s Algorithm — The Power of Maximum Subarrays](https://dev.to/br-lovanshi/kadanes-algorithm-the-power-of-maximum-subarrays-22kg)
 <!-- BLOG-POST-LIST:END -->
 
