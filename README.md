@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A2A vs. MCP: Data Security Woes and a Subtle Fix](https://dev.to/abs_050c1/a2a-vs-mcp-data-security-woes-and-a-subtle-fix-25mg)
-- [Major Types of Cloud Malware](https://dev.to/clouddefenseai/major-types-of-cloud-malware-1f7n)
-- [AI&#39;s Evil Twin: When Algorithms Go Rogue &lpar;and How We Can Stop Them&rpar;](https://dev.to/sakethkowtha/ais-evil-twin-when-algorithms-go-rogue-and-how-we-can-stop-them-4ag5)
-- [Part 4: Ask Questions About PDF Files with LangChain4j](https://dev.to/haraf/part-4-ask-questions-about-pdf-files-with-langchain4j-1ka0)
+- [FumaDocs React Component to Display Code from Github Repos](https://dev.to/rjvim/fumadocs-react-component-to-display-code-from-github-repos-4dlm)
+- [Smart AI Landscaping Tips for Tiny Yards: Transform Limited Space into Lush Beauty](https://dev.to/yardflip/smart-ai-landscaping-tips-for-tiny-yards-transform-limited-space-into-lush-beauty-1n23)
+- [How to Optimize Website Performance for Faster Load Times](https://dev.to/dbhatasana/how-to-optimize-website-performance-for-faster-load-times-19bb)
+- [Data Science Career Role In Pune.](https://dev.to/niks_kirdak_47c783a80cbc7/data-science-career-role-in-pune-44ih)
 <!-- BLOG-POST-LIST:END -->
 
