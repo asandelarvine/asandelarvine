@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Core React Hooks with Simple Analogies](https://dev.to/joodi/understanding-core-react-hooks-with-simple-analogies-49l0)
-- [Rethinking Reasoning in AI: Why LLMs Should Be Interns, Not Architects](https://dev.to/ryo_suwito/rethinking-reasoning-in-ai-why-llms-should-be-interns-not-architects-2dge)
-- [Software design vs software architecture: Stop mixing up these two tech twins!](https://dev.to/mohini_chauhan_1403/software-design-vs-software-architecture-stop-mixing-up-these-two-tech-twins-38o2)
-- [A Practical 10 Step Guide to Networking &lpar;the people kind&rpar;](https://dev.to/clark_teeple/a-practical-10-step-guide-to-networking-the-people-kind-a8a)
+- [``` Python Power: 7 Battle-Tested Techniques for Building Resilient Distributed Systems ```](https://dev.to/aaravjoshi/python-power-7-battle-tested-techniques-for-building-resilient-distributed-systems-5dbp)
+- [From Euclid to Euler: A Journey Through Primes, Proofs, and Modern Cryptography](https://dev.to/mysteryminusplus/from-euclid-to-euler-a-journey-through-primes-proofs-and-modern-cryptography-47o9)
+- [Curly Quotes with QuoteQuote](https://dev.to/tomherni/curly-quotes-with-quotequote-cf1)
+- [AI talk and learning](https://dev.to/wesbite-ai/ai-talk-and-learning-1l0)
 <!-- BLOG-POST-LIST:END -->
 
