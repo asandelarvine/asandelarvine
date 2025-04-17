@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Kubernetes Is Everywhere — But Setting It Up Still Kinda Sucks &lpar;Unless You Follow This Guide&rpar;](https://dev.to/geek_ai_0c946f0e3c594e59b/why-kubernetes-is-everywhere-but-setting-it-up-still-kinda-sucks-unless-you-follow-this-guide-o06)
-- [Java notes](https://dev.to/donnellycarroll/java-notes-2dk9)
-- [What is DAX? Amazon DynamoDB Accelerator Explained](https://dev.to/leonardkachi/what-is-dax-amazon-dynamodb-accelerator-explained-10al)
-- [POS Terminals: Fintech Reinvented](https://dev.to/rapyd/pos-terminals-fintech-reinvented-2ipf)
+- [Comparing the Top 10 Managed Kubernetes Providers &lpar;2025 Edition&rpar;](https://dev.to/devlinkstudios/comparing-the-top-10-managed-kubernetes-providers-2025-edition-12h8)
+- [Variáveis de Ambiente em Docker](https://dev.to/yuripeixinho/variaveis-de-ambiente-em-docker-508h)
+- [Beyond the Buzzwords: The Relevance of DORA Metrics in Contemporary Cloud Hosting for Developers](https://dev.to/devlinkstudios/beyond-the-buzzwords-the-relevance-of-dora-metrics-in-contemporary-cloud-hosting-for-developers-1hb1)
+- [Parsing and Formatting Time Strings 5/10](https://dev.to/rezmoss/parsing-and-formatting-time-strings-510-2cj1)
 <!-- BLOG-POST-LIST:END -->
 
