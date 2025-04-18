@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 with AI assist](https://dev.to/brazford/day-2-with-ai-assist-b0)
-- [This Framework Made Me Love Building Websites Again](https://dev.to/shayy/this-framework-made-me-love-building-websites-again-57oa)
-- [Today I learned how to use java language into a GUI.](https://dev.to/ayush_kumar_f0dd69996cd7a/today-i-learned-how-to-use-java-language-into-a-gui-2o0c)
-- [MCP &lpar;Model Context Protocol&rpar; Simplified](https://dev.to/hirushafernando/mcp-model-context-protocol-simplified-2dd2)
+- [Comparing Cursor and Trae: AI IDEs for Front-End Developers](https://dev.to/joodi/comparing-cursor-and-trae-ai-ides-for-front-end-developers-1i0n)
+- [Simple Python Script to Scrape and Download All Files from a Web Page &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/simple-python-script-to-scrape-and-download-all-files-from-a-web-page-bite-size-article-5en4)
+- [How LLMs &#39;Know&#39; Stuff](https://dev.to/monday-sun/how-llms-know-stuff-3fgi)
+- [Why I Built a Game Where You Pay to Exist](https://dev.to/nicho1991/why-i-built-a-game-where-you-pay-to-exist-5c5h)
 <!-- BLOG-POST-LIST:END -->
 
