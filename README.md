@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Design Patterns: Recursive, Partial, and Composition for Scalable Code 🚀](https://dev.to/0xtanzim/exploring-react-design-patterns-recursive-partial-and-composition-2mef)
-- [SPO600 - Lab 3: Building a Number Guessing Game in 6502 Assembly](https://dev.to/amullagaliev/spo600-lab-3-building-a-number-guessing-game-in-6502-assembly-3ca2)
-- [[Boost]](https://dev.to/pa1_explorer/-1p9g)
-- [Integrating MCP Servers](https://dev.to/heetvekariya/integrating-mcp-servers-1fp2)
+- [Qwen2.5 Omni: GenAI Meets Multimodality](https://dev.to/farrruh/qwen25-omni-genai-meets-multimodality-2f87)
+- [🌏 Community Over Code Asia 2025 Is Coming to Beijing — Call for Proposals Now Open!](https://dev.to/seatunnel/community-over-code-asia-2025-is-coming-to-beijing-call-for-proposals-now-open-2gea)
+- [Applications of Cloud Computing in Banking](https://dev.to/piya__c204c9e90/applications-of-cloud-computing-in-banking-234k)
+- [&#39;useIsMobile&#39; hook in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/useismobile-hook-in-vercelai-chatbot-source-code-5894)
 <!-- BLOG-POST-LIST:END -->
 
