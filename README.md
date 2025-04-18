@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastOpenAPI: A Reason to Believe in Open Source Community](https://dev.to/mr_fatalyst/fastopenapi-a-reason-to-believe-in-open-source-community-22k)
-- [What if your Unity project had its own AI teammate?](https://dev.to/codemaestro_ai/what-if-your-unity-project-had-its-own-ai-teammate-17l2)
-- [Create a Trap for A **Raffle Draw Smart Contract Using Drosera**](https://dev.to/scofieldidehen/create-a-trap-for-a-raffle-draw-smart-contract-using-drosera-4m27)
-- [150+ DevOps Interview Questions with expert tips](https://dev.to/rohan_jee_085655230/150-devops-interview-questions-with-expert-tips-3eh7)
+- [Don&#39;t be afraid of asking too many questions at work. Always ask why: 1&rpar; Why this task? 2&rpar; What&#39;s the real problem? 3&rpar; And why solve it now? It&#39;s better if you annoy people with questions than with mistakes from not asking.](https://dev.to/canro91/dont-be-afraid-of-asking-too-many-questions-at-work-always-ask-why-why-this-task--1j49)
+- [RisingWave Turns Four: Our Journey Beyond Democratizing Stream Processing](https://dev.to/__354f265b41dafa0d901b/risingwave-turns-four-our-journey-beyond-democratizing-stream-processing-fka)
+- [Python: Why Quart Might Be the Better Choice over FastAPI](https://dev.to/mechcloud_academy/python-why-quart-might-be-the-better-choice-over-fastapi-398b)
+- [Replace HELM with KISS](https://dev.to/avkr/replace-helm-with-kiss-456a)
 <!-- BLOG-POST-LIST:END -->
 
