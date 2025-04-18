@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Website Planning: 8 Essential Steps for Your Success](https://dev.to/minimadesk_gpl/mastering-website-planning-8-essential-steps-for-your-success-5ca1)
-- [[Boost]](https://dev.to/kilianvalkhof/-1dok)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-5c7m)
-- [Simplify Your Unit Tests with Mock Builders in Java](https://dev.to/sysoievb/simplify-your-unit-tests-with-mock-builders-in-java-5529)
+- [Top 5 Reasons to Join a Full Stack Development Course in Coimbatore](https://dev.to/kannan_palanisamy_c10fdfb/top-5-reasons-to-join-a-full-stack-development-course-in-coimbatore-4bah)
+- [Mastering WordPress Search and Replace Operations](https://dev.to/minimadesk_gpl/mastering-wordpress-search-and-replace-operations-3epf)
+- [🗣️ Build a Full Text-to-Speech Web App with HTML, CSS &amp; JavaScript](https://dev.to/code_2/build-a-full-text-to-speech-web-app-with-html-css-javascript-emm)
+- [Bicep vs. Terraform](https://dev.to/spacelift/bicep-vs-terraform-46on)
 <!-- BLOG-POST-LIST:END -->
 
