@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Cursor and Trae: AI IDEs for Front-End Developers](https://dev.to/joodi/comparing-cursor-and-trae-ai-ides-for-front-end-developers-1i0n)
-- [Simple Python Script to Scrape and Download All Files from a Web Page &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/simple-python-script-to-scrape-and-download-all-files-from-a-web-page-bite-size-article-5en4)
-- [How LLMs &#39;Know&#39; Stuff](https://dev.to/monday-sun/how-llms-know-stuff-3fgi)
-- [Why I Built a Game Where You Pay to Exist](https://dev.to/nicho1991/why-i-built-a-game-where-you-pay-to-exist-5c5h)
+- [Fetch API Advanced Features and Error Handling](https://dev.to/omriluz1/fetch-api-advanced-features-and-error-handling-3271)
+- [Essential SQL Commands: A Quick Reference Guide](https://dev.to/dionarodrigues/essential-sql-commands-a-quick-reference-guide-59ff)
+- [VS Code vs. Cursor vs. Trae: Navigating the AI IDE Landscape in 2025](https://dev.to/joodi/vs-code-vs-cursor-vs-trae-navigating-the-ai-ide-landscape-in-2025-4e2k)
+- [Setting Up a Secure ROS 2 System: Part 3 Installing ROS 2](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-3-installing-ros-2-3p2c)
 <!-- BLOG-POST-LIST:END -->
 
