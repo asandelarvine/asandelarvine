@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Podcast Producer AI Agent🎙️](https://dev.to/emmakodes_/build-your-own-podcast-producer-agent-using-supercog-agentic-framework-3njc)
-- [Post 4: Caching and Cache Busting - Ensuring a Smooth User Experience:](https://dev.to/dawoodxp97/post-4-caching-and-cache-busting-ensuring-a-smooth-user-experience-52cl)
-- [The Nokia 1100: The World’s Best-Selling Mobile Phone](https://dev.to/justin_downes/the-nokia-1100-the-worlds-best-selling-mobile-phone-3o7)
-- [What kind of math calculator/tool do you wish existed but can&#39;t find online?](https://dev.to/calculatequick/what-kind-of-math-calculatortool-do-you-wish-existed-but-cant-find-online-55ii)
+- [Day 2 with AI assist](https://dev.to/brazford/day-2-with-ai-assist-b0)
+- [This Framework Made Me Love Building Websites Again](https://dev.to/shayy/this-framework-made-me-love-building-websites-again-57oa)
+- [Today I learned how to use java language into a GUI.](https://dev.to/ayush_kumar_f0dd69996cd7a/today-i-learned-how-to-use-java-language-into-a-gui-2o0c)
+- [MCP &lpar;Model Context Protocol&rpar; Simplified](https://dev.to/hirushafernando/mcp-model-context-protocol-simplified-2dd2)
 <!-- BLOG-POST-LIST:END -->
 
