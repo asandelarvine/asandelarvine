@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring Season is Here: Top Companies Are Hiring for 2026 Batch Graduates!](https://dev.to/codewithsuhani/hiring-season-is-here-top-companies-are-hiring-for-2026-batch-graduates-58hi)
-- [Beyond Hype: The Real Metrics Behind Commercially Successful Blockchains](https://dev.to/martin_call/beyond-hype-the-real-metrics-behind-commercially-successful-blockchains-2ol6)
-- [Generate Realistic Mock Data with ease in VS Code with this Super Extension](https://dev.to/joebuddie/generate-realistic-mock-data-with-ease-in-vs-code-with-this-super-extension-496b)
-- [MCP Server/Client and Agent and my unanswered philosophical question!](https://dev.to/aairom/mcp-serverclient-and-agent-and-my-unanswered-philosophical-question-2hnc)
+- [IOPub data rate exceeded JupyterLab](https://dev.to/hyperkai/iopub-data-rate-exceeded-jupyterlab-3oj3)
+- [Quantum Leap Forward: From Labs to Real-World Impact](https://dev.to/avalily/quantum-leap-forward-from-labs-to-real-world-impact-3pkf)
+- [Functional Programming in Python: Leveraging Lambda Functions and Higher-Order Functions](https://dev.to/shittu_olumide_/functional-programming-in-python-leveraging-lambda-functions-and-higher-order-functions-797)
+- [🚀 Introducing Qastra — A Curiosity-Driven Q&amp;A Platform](https://dev.to/puneetkumar2010/introducing-qastra-a-curiosity-driven-qa-platform-4f0d)
 <!-- BLOG-POST-LIST:END -->
 
