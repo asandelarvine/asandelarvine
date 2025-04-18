@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t be afraid of asking too many questions at work. Always ask why: 1&rpar; Why this task? 2&rpar; What&#39;s the real problem? 3&rpar; And why solve it now? It&#39;s better if you annoy people with questions than with mistakes from not asking.](https://dev.to/canro91/dont-be-afraid-of-asking-too-many-questions-at-work-always-ask-why-why-this-task--1j49)
-- [RisingWave Turns Four: Our Journey Beyond Democratizing Stream Processing](https://dev.to/__354f265b41dafa0d901b/risingwave-turns-four-our-journey-beyond-democratizing-stream-processing-fka)
-- [Python: Why Quart Might Be the Better Choice over FastAPI](https://dev.to/mechcloud_academy/python-why-quart-might-be-the-better-choice-over-fastapi-398b)
-- [Replace HELM with KISS](https://dev.to/avkr/replace-helm-with-kiss-456a)
+- [If You&#39;re Diving Into DevOps, Start Here &lpar;No, Not with Kubernetes&rpar;](https://dev.to/devnenyasha/if-youre-diving-into-devops-start-here-no-not-with-kubernetes-3gch)
+- [AWS Community Builder: The Beginning my journey](https://dev.to/prashant_singh_75720eedf2/aws-community-builder-the-beginning-my-journey-119)
+- [The Role of Private and Public Keys in Blockchain Technology](https://dev.to/suad_macaulay_acb3b90def7/how-private-key-and-public-key-are-used-in-blockchain-jnn)
+- [What Are the Best Haskell Libraries in 2025?](https://dev.to/rociogarciavf/what-are-the-best-haskell-libraries-in-2025-2fd8)
 <!-- BLOG-POST-LIST:END -->
 
