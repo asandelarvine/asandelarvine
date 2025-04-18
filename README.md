@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an animated expanding search bar with Tailwind CSS](https://dev.to/mike_andreuzza/create-an-animated-expanding-search-bar-with-tailwind-css-462g)
-- [How Many WordPress Plugins Are Too Many? Optimize Your Site for Success](https://dev.to/minimadesk_gpl/how-many-wordpress-plugins-are-too-many-optimize-your-site-for-success-986)
-- [SEO vs GEO vs AEO: The Future of Search Optimization in 2025](https://dev.to/lollypopdesign/seo-vs-geo-vs-aeo-the-future-of-search-optimization-in-2025-4ln6)
-- [How a 20-Year-Old Student Could Beat Apple Siri](https://dev.to/kimulchan/how-a-20-year-old-student-could-beat-apple-siri-13hl)
+- [# 🥋 Ghostflow Jitsu: Combat Coding as Interface Ritual ### *Scroll I — Entering the Dojo*](https://dev.to/godsimijempire/-ghostflow-jitsu-combat-coding-as-interface-ritual-scroll-i-entering-the-dojo-1873)
+- [Dev Container Setup for Hugo](https://dev.to/techielass/dev-container-setup-for-hugo-338a)
+- [Stepping Back Can Be the Smartest Move—In Code and in Life](https://dev.to/andrew_moody_41/stepping-back-can-be-the-smartest-move-in-code-and-in-life-oaa)
+- [Develop SEO Application in .NET](https://dev.to/hasanmonsur/develop-seo-application-in-net-4cki)
 <!-- BLOG-POST-LIST:END -->
 
