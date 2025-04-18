@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# 🥋 Ghostflow Jitsu: Combat Coding as Interface Ritual ### *Scroll I — Entering the Dojo*](https://dev.to/godsimijempire/-ghostflow-jitsu-combat-coding-as-interface-ritual-scroll-i-entering-the-dojo-1873)
-- [Dev Container Setup for Hugo](https://dev.to/techielass/dev-container-setup-for-hugo-338a)
-- [Stepping Back Can Be the Smartest Move—In Code and in Life](https://dev.to/andrew_moody_41/stepping-back-can-be-the-smartest-move-in-code-and-in-life-oaa)
-- [Develop SEO Application in .NET](https://dev.to/hasanmonsur/develop-seo-application-in-net-4cki)
+- [Calculator](https://dev.to/tusshal_tushalk_37e3ccf1/calculator-49i1)
+- [File Permissions and Ownership in Linux](https://dev.to/chielo_chiamaka/file-permissions-and-ownership-in-linux-oj4)
+- [Mobile Device Camera/Bluetooth/Location Access](https://dev.to/sasikumar_p_f431b106888c0/mobile-device-camerabluetoothlocation-access-3n14)
+- [KitOps: Bringing DevOps Discipline to Machine Learning Artifacts](https://dev.to/kitops/kitops-bringing-devops-discipline-to-machine-learning-artifacts-n9h)
 <!-- BLOG-POST-LIST:END -->
 
