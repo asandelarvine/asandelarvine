@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Transforming Industries with Agentic AI: Real-World Wins](https://dev.to/dms/transforming-industries-with-agentic-ai-real-world-wins-pbg)
-- [[Boost]](https://dev.to/ippatev/-499)
-- [Angular 19: Mastering `input.required&lpar;&rpar;` and Functional Inputs with Signals](https://dev.to/cristiansifuentes/angular-19-mastering-inputrequired-and-functional-inputs-with-signals-101p)
-- [NDPR, GDPR, and CCPA — What Every Nigerian Techie Should Know About Data Compliance](https://dev.to/mantle_bearer/ndpr-gdpr-and-ccpa-what-every-nigerian-techie-should-know-about-data-compliance-26j6)
+- [Mastering React Design Patterns: Recursive, Partial, and Composition for Scalable Code 🚀](https://dev.to/0xtanzim/exploring-react-design-patterns-recursive-partial-and-composition-2mef)
+- [SPO600 - Lab 3: Building a Number Guessing Game in 6502 Assembly](https://dev.to/amullagaliev/spo600-lab-3-building-a-number-guessing-game-in-6502-assembly-3ca2)
+- [[Boost]](https://dev.to/pa1_explorer/-1p9g)
+- [Integrating MCP Servers](https://dev.to/heetvekariya/integrating-mcp-servers-1fp2)
 <!-- BLOG-POST-LIST:END -->
 
