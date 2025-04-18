@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If You&#39;re Diving Into DevOps, Start Here &lpar;No, Not with Kubernetes&rpar;](https://dev.to/devnenyasha/if-youre-diving-into-devops-start-here-no-not-with-kubernetes-3gch)
-- [AWS Community Builder: The Beginning my journey](https://dev.to/prashant_singh_75720eedf2/aws-community-builder-the-beginning-my-journey-119)
-- [The Role of Private and Public Keys in Blockchain Technology](https://dev.to/suad_macaulay_acb3b90def7/how-private-key-and-public-key-are-used-in-blockchain-jnn)
-- [What Are the Best Haskell Libraries in 2025?](https://dev.to/rociogarciavf/what-are-the-best-haskell-libraries-in-2025-2fd8)
+- [Build Your Own Podcast Producer AI Agent🎙️](https://dev.to/emmakodes_/build-your-own-podcast-producer-agent-using-supercog-agentic-framework-3njc)
+- [Post 4: Caching and Cache Busting - Ensuring a Smooth User Experience:](https://dev.to/dawoodxp97/post-4-caching-and-cache-busting-ensuring-a-smooth-user-experience-52cl)
+- [The Nokia 1100: The World’s Best-Selling Mobile Phone](https://dev.to/justin_downes/the-nokia-1100-the-worlds-best-selling-mobile-phone-3o7)
+- [What kind of math calculator/tool do you wish existed but can&#39;t find online?](https://dev.to/calculatequick/what-kind-of-math-calculatortool-do-you-wish-existed-but-cant-find-online-55ii)
 <!-- BLOG-POST-LIST:END -->
 
