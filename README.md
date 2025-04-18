@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IOPub data rate exceeded JupyterLab](https://dev.to/hyperkai/iopub-data-rate-exceeded-jupyterlab-3oj3)
-- [Quantum Leap Forward: From Labs to Real-World Impact](https://dev.to/avalily/quantum-leap-forward-from-labs-to-real-world-impact-3pkf)
-- [Functional Programming in Python: Leveraging Lambda Functions and Higher-Order Functions](https://dev.to/shittu_olumide_/functional-programming-in-python-leveraging-lambda-functions-and-higher-order-functions-797)
-- [🚀 Introducing Qastra — A Curiosity-Driven Q&amp;A Platform](https://dev.to/puneetkumar2010/introducing-qastra-a-curiosity-driven-qa-platform-4f0d)
+- [FastOpenAPI: A Reason to Believe in Open Source Community](https://dev.to/mr_fatalyst/fastopenapi-a-reason-to-believe-in-open-source-community-22k)
+- [What if your Unity project had its own AI teammate?](https://dev.to/codemaestro_ai/what-if-your-unity-project-had-its-own-ai-teammate-17l2)
+- [Create a Trap for A **Raffle Draw Smart Contract Using Drosera**](https://dev.to/scofieldidehen/create-a-trap-for-a-raffle-draw-smart-contract-using-drosera-4m27)
+- [150+ DevOps Interview Questions with expert tips](https://dev.to/rohan_jee_085655230/150-devops-interview-questions-with-expert-tips-3eh7)
 <!-- BLOG-POST-LIST:END -->
 
