@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Machine Learning, and How Does It Work?](https://dev.to/blurbify/what-is-machine-learning-and-how-does-it-work-4j8h)
-- [Boosting Node.js Performance on AWS Lambda](https://dev.to/marciojc/boosting-nodejs-performance-on-aws-lambda-1733)
-- [Command the Crowd with Linux Group Management](https://dev.to/dtemi/command-the-crowd-with-linux-group-management-17g6)
-- [From Foundations to Cybersecurity Architect: My Microsoft Certification Journey](https://dev.to/attaullahshafiq10/from-foundations-to-cybersecurity-architect-my-microsoft-certification-journey-5339)
+- [Understanding keyword Yield in Dart + Examples in other languages](https://dev.to/vlopess/understanding-keyword-yield-in-dart-examples-in-other-languages-4410)
+- [Security news weekly round-up - 18th April 2025](https://dev.to/ziizium/security-news-weekly-round-up-18th-april-2025-59ik)
+- [A Beginner’s Guide to Returning Structured Outputs in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-returning-structured-outputs-in-langchain-36ac)
+- [Creation d&#39;une page web simple avec html et css](https://dev.to/josu_olamba_990b7a055e48/creation-dune-page-web-simple-avec-html-et-css-9ij)
 <!-- BLOG-POST-LIST:END -->
 
