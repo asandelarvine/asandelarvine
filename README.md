@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen2.5 Omni: GenAI Meets Multimodality](https://dev.to/farrruh/qwen25-omni-genai-meets-multimodality-2f87)
-- [🌏 Community Over Code Asia 2025 Is Coming to Beijing — Call for Proposals Now Open!](https://dev.to/seatunnel/community-over-code-asia-2025-is-coming-to-beijing-call-for-proposals-now-open-2gea)
-- [Applications of Cloud Computing in Banking](https://dev.to/piya__c204c9e90/applications-of-cloud-computing-in-banking-234k)
-- [&#39;useIsMobile&#39; hook in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/useismobile-hook-in-vercelai-chatbot-source-code-5894)
+- [Why Partnering With a Custom PHP Development Company is the Smart Move for Your Next Web Project](https://dev.to/alex_3c165a96b43112b35d9e/title-why-partnering-with-a-custom-php-development-company-is-the-smart-move-for-your-next-web-5ehm)
+- [Want to become a better Developer? Read this!](https://dev.to/urbanisierung/want-to-become-a-better-developer-read-this-2jb5)
+- [Hello Community](https://dev.to/ph0enix46/hello-community-l96)
+- [Function Calling vs. MCP &lpar;Model Context Protocol&rpar; + A2A: A Clean Architecture Analogy](https://dev.to/sreeni5018/function-calling-vs-mcp-model-context-protocol-a2a-a-clean-architecture-analogy-j4g)
 <!-- BLOG-POST-LIST:END -->
 
