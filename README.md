@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Partnering With a Custom PHP Development Company is the Smart Move for Your Next Web Project](https://dev.to/alex_3c165a96b43112b35d9e/title-why-partnering-with-a-custom-php-development-company-is-the-smart-move-for-your-next-web-5ehm)
-- [Want to become a better Developer? Read this!](https://dev.to/urbanisierung/want-to-become-a-better-developer-read-this-2jb5)
-- [Hello Community](https://dev.to/ph0enix46/hello-community-l96)
-- [Function Calling vs. MCP &lpar;Model Context Protocol&rpar; + A2A: A Clean Architecture Analogy](https://dev.to/sreeni5018/function-calling-vs-mcp-model-context-protocol-a2a-a-clean-architecture-analogy-j4g)
+- [Cloud Computing in Banking Applications](https://dev.to/aimi_suzuki_c3ff8ef797ccc/cloud-computing-in-banking-applications-45ma)
+- [Launching the first ever State of Devs survey](https://dev.to/sachagreif/launching-the-first-ever-state-of-devs-survey-23il)
+- [What Is Java Programming Language? Complete Guide for Beginners](https://dev.to/tpointtechadu/what-is-java-programming-language-complete-guide-for-beginners-14ff)
+- [Search Bar Design: Essential Tips for an Effortless Searching](https://dev.to/lollypopdesign/search-bar-design-essential-tips-for-an-effortless-searching-3bhi)
 <!-- BLOG-POST-LIST:END -->
 
