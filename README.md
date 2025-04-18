@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch API Advanced Features and Error Handling](https://dev.to/omriluz1/fetch-api-advanced-features-and-error-handling-3271)
-- [Essential SQL Commands: A Quick Reference Guide](https://dev.to/dionarodrigues/essential-sql-commands-a-quick-reference-guide-59ff)
-- [VS Code vs. Cursor vs. Trae: Navigating the AI IDE Landscape in 2025](https://dev.to/joodi/vs-code-vs-cursor-vs-trae-navigating-the-ai-ide-landscape-in-2025-4e2k)
-- [Setting Up a Secure ROS 2 System: Part 3 Installing ROS 2](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-3-installing-ros-2-3p2c)
+- [What is Machine Learning, and How Does It Work?](https://dev.to/blurbify/what-is-machine-learning-and-how-does-it-work-4j8h)
+- [Boosting Node.js Performance on AWS Lambda](https://dev.to/marciojc/boosting-nodejs-performance-on-aws-lambda-1733)
+- [Command the Crowd with Linux Group Management](https://dev.to/dtemi/command-the-crowd-with-linux-group-management-17g6)
+- [From Foundations to Cybersecurity Architect: My Microsoft Certification Journey](https://dev.to/attaullahshafiq10/from-foundations-to-cybersecurity-architect-my-microsoft-certification-journey-5339)
 <!-- BLOG-POST-LIST:END -->
 
