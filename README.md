@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing in Banking Applications](https://dev.to/aimi_suzuki_c3ff8ef797ccc/cloud-computing-in-banking-applications-45ma)
-- [Launching the first ever State of Devs survey](https://dev.to/sachagreif/launching-the-first-ever-state-of-devs-survey-23il)
-- [What Is Java Programming Language? Complete Guide for Beginners](https://dev.to/tpointtechadu/what-is-java-programming-language-complete-guide-for-beginners-14ff)
-- [Search Bar Design: Essential Tips for an Effortless Searching](https://dev.to/lollypopdesign/search-bar-design-essential-tips-for-an-effortless-searching-3bhi)
+- [Mastering Website Planning: 8 Essential Steps for Your Success](https://dev.to/minimadesk_gpl/mastering-website-planning-8-essential-steps-for-your-success-5ca1)
+- [[Boost]](https://dev.to/kilianvalkhof/-1dok)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-5c7m)
+- [Simplify Your Unit Tests with Mock Builders in Java](https://dev.to/sysoievb/simplify-your-unit-tests-with-mock-builders-in-java-5529)
 <!-- BLOG-POST-LIST:END -->
 
