@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Reasons to Join a Full Stack Development Course in Coimbatore](https://dev.to/kannan_palanisamy_c10fdfb/top-5-reasons-to-join-a-full-stack-development-course-in-coimbatore-4bah)
-- [Mastering WordPress Search and Replace Operations](https://dev.to/minimadesk_gpl/mastering-wordpress-search-and-replace-operations-3epf)
-- [🗣️ Build a Full Text-to-Speech Web App with HTML, CSS &amp; JavaScript](https://dev.to/code_2/build-a-full-text-to-speech-web-app-with-html-css-javascript-emm)
-- [Bicep vs. Terraform](https://dev.to/spacelift/bicep-vs-terraform-46on)
+- [Create an animated expanding search bar with Tailwind CSS](https://dev.to/mike_andreuzza/create-an-animated-expanding-search-bar-with-tailwind-css-462g)
+- [How Many WordPress Plugins Are Too Many? Optimize Your Site for Success](https://dev.to/minimadesk_gpl/how-many-wordpress-plugins-are-too-many-optimize-your-site-for-success-986)
+- [SEO vs GEO vs AEO: The Future of Search Optimization in 2025](https://dev.to/lollypopdesign/seo-vs-geo-vs-aeo-the-future-of-search-optimization-in-2025-4ln6)
+- [How a 20-Year-Old Student Could Beat Apple Siri](https://dev.to/kimulchan/how-a-20-year-old-student-could-beat-apple-siri-13hl)
 <!-- BLOG-POST-LIST:END -->
 
