@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable, Secure Multi-Tier Architecture on AWS — My Recent Infrastructure Project](https://dev.to/leonardkachi/building-a-scalable-secure-multi-tier-architecture-on-aws-my-recent-infrastructure-project-1a16)
-- [Working on the Open Data Editor at the Open Knowledge Foundation](https://dev.to/guergana/working-at-the-open-knowledge-foundation-42n3)
-- [Mentorship To Me](https://dev.to/jacobmgevans/mentorship-to-me-fg7)
-- [Nice blog!](https://dev.to/elizabethfuentes12/-m98)
+- [🚀 Transforming Industries with Agentic AI: Real-World Wins](https://dev.to/dms/transforming-industries-with-agentic-ai-real-world-wins-pbg)
+- [[Boost]](https://dev.to/ippatev/-499)
+- [Angular 19: Mastering `input.required&lpar;&rpar;` and Functional Inputs with Signals](https://dev.to/cristiansifuentes/angular-19-mastering-inputrequired-and-functional-inputs-with-signals-101p)
+- [NDPR, GDPR, and CCPA — What Every Nigerian Techie Should Know About Data Compliance](https://dev.to/mantle_bearer/ndpr-gdpr-and-ccpa-what-every-nigerian-techie-should-know-about-data-compliance-26j6)
 <!-- BLOG-POST-LIST:END -->
 
