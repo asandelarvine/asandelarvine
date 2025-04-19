@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Server for NoSQL](https://dev.to/hasanmonsur/sql-server-for-nosql-g6o)
-- [Why Linux over Windows?](https://dev.to/omkarsharma2821/why-linux-over-windows-3nmc)
-- [Which AI Model Should You Use? A Super Simple Guide for Developers](https://dev.to/itxshakil/which-ai-model-should-you-use-a-super-simple-guide-for-developers-427)
-- [External vs Internal Monitoring: Which is Better for Uptime?](https://dev.to/tomcao2012/external-vs-internal-monitoring-which-is-better-for-uptime-9h9)
+- [I made a website for AI raw pictures](https://dev.to/jming_chen_556b89784fe792/i-made-a-website-for-ai-raw-pictures-55eg)
+- [Comparing development AI tools](https://dev.to/sadiksajid/comparing-development-ai-tools-3bjp)
+- [Setting up WSL Ubuntu on your Windows Machine &lpar;Laptops| PCs&rpar;](https://dev.to/iyac_technologies_d27014a/setting-up-wsl-ubuntu-on-your-windows-machine-laptops-pcs-4597)
+- [Blog Draft Monetization Strategies For Ai Technologies In 2025 20250419 152443](https://dev.to/pponali/blog-draft-monetization-strategies-for-ai-technologies-in-2025-20250419-152443-1g09)
 <!-- BLOG-POST-LIST:END -->
 
