@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Volumes and Data Management](https://dev.to/godofgeeks/docker-volumes-and-data-management-g5l)
-- [What My Auto Repair Shop Taught Me About Front-End Development](https://dev.to/michael_david_3b5ec3a74c1/what-my-auto-repair-shop-taught-me-about-front-end-development-523m)
-- [Post 3: Implementing a Spring Boot Forward Proxy Client](https://dev.to/raman_239/post-3-implementing-a-spring-boot-forward-proxy-client-4hp8)
-- [Post 2: The Power of Forward Proxies - Privacy, Control &amp; Performance](https://dev.to/raman_239/post-2-the-power-of-forward-proxies-privacy-control-performance-137a)
+- [Maximizing Online Education: Unleashing the Power of Reflective Learning](https://dev.to/ghummantech/maximizing-online-education-unleashing-the-power-of-reflective-learning-291g)
+- [Why I Don’t Make Predictions Anymore: A Cautionary List of Confidently Wrong Technology Forecasts](https://dev.to/sadiksajid/why-i-dont-make-predictions-anymore-a-cautionary-list-of-confidently-wrong-technology-forecasts-1kjl)
+- [Prolog-MCP Server: Neuro-Symbolic AI for Modern Workflows](https://dev.to/adamrybinski/prolog-mcp-server-neurosymbolic-ai-for-modern-workflows-3e35)
+- [AWS Amplifyの古いハンズオンを実施してハマった話](https://dev.to/aws-builders/aws-amplifynogu-ihanzuonwoshi-shi-sitehamatutahua-1490)
 <!-- BLOG-POST-LIST:END -->
 
