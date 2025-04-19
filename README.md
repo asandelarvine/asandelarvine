@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn React - Your First Component](https://dev.to/buildlogmmd/learn-react-your-first-component-1b50)
-- [Helping developers to build their favorite apps at ease](https://dev.to/softalpha/helping-developers-to-build-their-favorite-apps-at-ease-280k)
-- [Learn React — Describing the UI](https://dev.to/buildlogmmd/learn-react-describing-the-ui-4o3i)
-- [Powers of 2](https://dev.to/maddiepst/powers-of-2-jid)
+- [Inspired by the video game Split Fiction, I&#39;m amazed by the creators&#39; imagination in showcasing two distinct worlds side by side through a split screen. Motivated by their creativity, I am eager to recreate this split effect right within the browser.](https://dev.to/louis7/inspired-by-the-video-game-split-fiction-im-amazed-by-the-creators-imagination-in-showcasing-two-253e)
+- [Building a Plugin System in React Using Dynamic Imports and Context API](https://dev.to/hexshift/building-a-plugin-system-in-react-using-dynamic-imports-and-context-api-3j6e)
+- [Gro](https://dev.to/david_bermenvliz/gro-3ojp)
+- [Reciprocity Intelligence: The Essential Core Skill for Modern Work](https://dev.to/bekahhw/reciprocity-intelligence-the-essential-core-skill-for-modern-work-3324)
 <!-- BLOG-POST-LIST:END -->
 
