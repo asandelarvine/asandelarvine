@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing Online Education: Unleashing the Power of Reflective Learning](https://dev.to/ghummantech/maximizing-online-education-unleashing-the-power-of-reflective-learning-291g)
-- [Why I Don’t Make Predictions Anymore: A Cautionary List of Confidently Wrong Technology Forecasts](https://dev.to/sadiksajid/why-i-dont-make-predictions-anymore-a-cautionary-list-of-confidently-wrong-technology-forecasts-1kjl)
-- [Prolog-MCP Server: Neuro-Symbolic AI for Modern Workflows](https://dev.to/adamrybinski/prolog-mcp-server-neurosymbolic-ai-for-modern-workflows-3e35)
-- [AWS Amplifyの古いハンズオンを実施してハマった話](https://dev.to/aws-builders/aws-amplifynogu-ihanzuonwoshi-shi-sitehamatutahua-1490)
+- [SQL Server for NoSQL](https://dev.to/hasanmonsur/sql-server-for-nosql-g6o)
+- [Why Linux over Windows?](https://dev.to/omkarsharma2821/why-linux-over-windows-3nmc)
+- [Which AI Model Should You Use? A Super Simple Guide for Developers](https://dev.to/itxshakil/which-ai-model-should-you-use-a-super-simple-guide-for-developers-427)
+- [External vs Internal Monitoring: Which is Better for Uptime?](https://dev.to/tomcao2012/external-vs-internal-monitoring-which-is-better-for-uptime-9h9)
 <!-- BLOG-POST-LIST:END -->
 
