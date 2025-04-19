@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Freelancing for Tech Students](https://dev.to/learncomputer/guide-to-freelancing-for-tech-students-4555)
-- [Stop Using Docker like its 2015](https://dev.to/code42cate/stop-using-docker-like-its-2015-1o5l)
-- [Telegram Name Scam - Be Vigilant](https://dev.to/scofieldidehen/telegram-name-scam-be-vigilant-41lg)
-- [Machine Learning](https://dev.to/congngheaivn/machine-learning-3k9i)
+- [Apache Airflow and MongoDB](https://dev.to/saint_vandora/apache-airflow-and-mongodb-35f9)
+- [How to Build Real-Time Applications with WebTransport: The Successor to WebSockets](https://dev.to/hexshift/how-to-build-real-time-applications-with-webtransport-the-successor-to-websockets-3aik)
+- [How to Use HTTP/3 and QUIC for Faster, Secure Web Applications](https://dev.to/hexshift/how-to-use-http3-and-quic-for-faster-secure-web-applications-9go)
+- [How to Use WebAssembly to Speed Up CPU-Intensive Tasks in the Browser](https://dev.to/hexshift/how-to-use-webassembly-to-speed-up-cpu-intensive-tasks-in-the-browser-12be)
 <!-- BLOG-POST-LIST:END -->
 
