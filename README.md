@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Social Engineering 101: How Hackers Trick People](https://dev.to/pawanjswal/social-engineering-101-how-hackers-trick-people-58ob)
-- [📝 Building a Simple &amp; Optimized ToDo App in React Native](https://dev.to/amitkumar13/building-a-simple-optimized-todo-app-in-react-native-2468)
-- [Setting Up Your First HTML Project &lpar;Without Any Framework&rpar;](https://dev.to/raajaryan/setting-up-your-first-html-project-without-any-framework-4d0j)
-- [How to Force Enable 3D Acceleration in VMware Workstation/Fusion](https://dev.to/sorecchione07435/how-to-force-enable-3d-acceleration-in-vmware-workstationfusion-37db)
+- [3 Lessons I was Reminded of While Building a Pomodoro-inspired Web App](https://dev.to/d2d_weizhi/3-lessons-i-was-reminded-of-while-building-a-pomodoro-inspired-web-app-j34)
+- [Scaling Data Intelligence: How Web Scraping Services and Proxy APIs Empower Developers and Businesses](https://dev.to/rameshchauhan/scaling-data-intelligence-how-web-scraping-services-and-proxy-apis-empower-developers-and-22cp)
+- [Securing APIs Against Unauthorized Access](https://dev.to/tushar_i7/securing-apis-against-unauthorized-access-gi9)
+- [I Spent 45 Hours To Built this Image Compressor Give Your Thoughts On it](https://dev.to/baba_yaga_b9d904b509/i-spent-45-hours-to-built-this-image-compressor-give-your-thoughts-on-it-43cm)
 <!-- BLOG-POST-LIST:END -->
 
