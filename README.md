@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-on with DAX: Supercharge Your DynamoDB Reads &lpar;Python + Terraform&rpar;](https://dev.to/leonardkachi/hands-on-with-dax-supercharge-your-dynamodb-reads-python-terraform-2m29)
-- [Manus có gì mà nổi đình đám3](https://dev.to/thi_le_26e54b136ffaa84ad1/manus-co-gi-ma-noi-dinh-dam3-19g0)
-- [Ứng Dụng của Manus AI trong Nhiều Lĩnh Vực3](https://dev.to/thi_le_26e54b136ffaa84ad1/ung-dung-cua-manus-ai-trong-nhieu-linh-vuc3-49jb)
-- [Tìm Hiểu Về MCP Server: Thành Phần Quan Trọng Trong Model Context Protocol3](https://dev.to/thi_le_26e54b136ffaa84ad1/tim-hieu-ve-mcp-server-thanh-phan-quan-trong-trong-model-context-protocol3-4ha4)
+- [Do Humans Really Need AI?](https://dev.to/doozieakshay/do-humans-really-need-ai-405p)
+- [The Secret History of the Illuminati: Myth, Power &amp; Hidden Truths](https://dev.to/scriptedbytruth/the-secret-history-of-the-illuminati-myth-power-hidden-truths-3pga)
+- [Angular 16–19: Understanding `input.required&lt;T&gt;&lpar;&rpar;` vs `input.required&lt;T&gt;&lpar;&rpar;.signal`](https://dev.to/cristiansifuentes/angular-16-19-understanding-inputrequired-vs-inputrequiredsignal-f3l)
+- [AI Reasoning: Thinking May Not Be Required for Top Performance](https://dev.to/aimodels-fyi/ai-reasoning-thinking-may-not-be-required-for-top-performance-4gmk)
 <!-- BLOG-POST-LIST:END -->
 
