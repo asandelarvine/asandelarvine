@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a website for AI raw pictures](https://dev.to/jming_chen_556b89784fe792/i-made-a-website-for-ai-raw-pictures-55eg)
-- [Comparing development AI tools](https://dev.to/sadiksajid/comparing-development-ai-tools-3bjp)
-- [Setting up WSL Ubuntu on your Windows Machine &lpar;Laptops| PCs&rpar;](https://dev.to/iyac_technologies_d27014a/setting-up-wsl-ubuntu-on-your-windows-machine-laptops-pcs-4597)
-- [Blog Draft Monetization Strategies For Ai Technologies In 2025 20250419 152443](https://dev.to/pponali/blog-draft-monetization-strategies-for-ai-technologies-in-2025-20250419-152443-1g09)
+- [Social Engineering 101: How Hackers Trick People](https://dev.to/pawanjswal/social-engineering-101-how-hackers-trick-people-58ob)
+- [📝 Building a Simple &amp; Optimized ToDo App in React Native](https://dev.to/amitkumar13/building-a-simple-optimized-todo-app-in-react-native-2468)
+- [Setting Up Your First HTML Project &lpar;Without Any Framework&rpar;](https://dev.to/raajaryan/setting-up-your-first-html-project-without-any-framework-4d0j)
+- [How to Force Enable 3D Acceleration in VMware Workstation/Fusion](https://dev.to/sorecchione07435/how-to-force-enable-3d-acceleration-in-vmware-workstationfusion-37db)
 <!-- BLOG-POST-LIST:END -->
 
