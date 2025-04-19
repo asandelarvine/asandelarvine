@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Lessons I was Reminded of While Building a Pomodoro-inspired Web App](https://dev.to/d2d_weizhi/3-lessons-i-was-reminded-of-while-building-a-pomodoro-inspired-web-app-j34)
-- [Scaling Data Intelligence: How Web Scraping Services and Proxy APIs Empower Developers and Businesses](https://dev.to/rameshchauhan/scaling-data-intelligence-how-web-scraping-services-and-proxy-apis-empower-developers-and-22cp)
-- [Securing APIs Against Unauthorized Access](https://dev.to/tushar_i7/securing-apis-against-unauthorized-access-gi9)
-- [I Spent 45 Hours To Built this Image Compressor Give Your Thoughts On it](https://dev.to/baba_yaga_b9d904b509/i-spent-45-hours-to-built-this-image-compressor-give-your-thoughts-on-it-43cm)
+- [Blog Post: My first Neovim plugin](https://dev.to/amorino/blog-post-my-first-neovim-plugin-4aco)
+- [Hands-on with Amazon Q Business! 🧪 Learn &amp; build with my step-by-step lab. Unlock enterprise AI now! #AI #AmazonQ](https://dev.to/anitha_senthilnathan/hands-on-with-amazon-q-business-learn-build-with-my-step-by-step-lab-unlock-enterprise-ai-31n6)
+- [The Role of Recitals and Concerts in Shaping Your Career as a Horn Player by Master Teachers like William VerMeulen](https://dev.to/william04/the-role-of-recitals-and-concerts-in-shaping-your-career-as-a-horn-player-by-master-teachers-like-3oop)
+- [Getting Started with Kubernetes](https://dev.to/cloudwithabhi/getting-started-with-kubernetes-27gl)
 <!-- BLOG-POST-LIST:END -->
 
