@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Dissi with Agno and MCP](https://dev.to/komsenapati/building-dissi-with-agno-and-mcp-4044)
-- [What Uses a DBMS? Real-Life Examples](https://dev.to/rishabhtpt/what-uses-a-dbms-real-life-examples-628)
-- [Java Interview Questions for Freshers: Your First Step to Success](https://dev.to/tpointtechadu/java-interview-questions-for-freshers-your-first-step-to-success-27dd)
-- [Mastering Pipeline Environments in Microsoft Power Platform: A Step-by-Step Guide](https://dev.to/seenakhan/mastering-pipeline-environments-in-microsoft-power-platform-a-step-by-step-guide-4o36)
+- [Docker Volumes and Data Management](https://dev.to/godofgeeks/docker-volumes-and-data-management-g5l)
+- [What My Auto Repair Shop Taught Me About Front-End Development](https://dev.to/michael_david_3b5ec3a74c1/what-my-auto-repair-shop-taught-me-about-front-end-development-523m)
+- [Post 3: Implementing a Spring Boot Forward Proxy Client](https://dev.to/raman_239/post-3-implementing-a-spring-boot-forward-proxy-client-4hp8)
+- [Post 2: The Power of Forward Proxies - Privacy, Control &amp; Performance](https://dev.to/raman_239/post-2-the-power-of-forward-proxies-privacy-control-performance-137a)
 <!-- BLOG-POST-LIST:END -->
 
