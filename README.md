@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 HustleGPT: Your Generative AI-Powered Startup Advisor](https://dev.to/drishti_goel_c03271fd1d5c/hustlegpt-your-generative-ai-powered-startup-advisor-11o9)
-- [Quiz-App](https://dev.to/farouk_/quiz-app-3ddl)
-- [day-27: Java Abstraction and Inheritance: Key Concepts, Code Examples, and Interview Insights](https://dev.to/e00049/day-27-java-abstraction-and-inheritance-key-concepts-code-examples-and-interview-insights-22n0)
-- [Leetcode - 226. Invert Binary Tree](https://dev.to/rakeshreddy512/leetcode-226-invert-binary-tree-3en4)
+- [Bilgisayara Gizli Mesajlar Gömmek: Steganografi ile Dijital Casusluk](https://dev.to/eagledfc/bilgisayara-gizli-mesajlar-gommek-steganografi-ile-dijital-casusluk-1696)
+- [How to Monitor and Profile Python Code With Py-Spy for Performance Bottlenecks](https://dev.to/hexshift/how-to-monitor-and-profile-python-code-with-py-spy-for-performance-bottlenecks-kj1)
+- [How to Use TensorRT to Accelerate Deep Learning Inference on NVIDIA GPUs](https://dev.to/hexshift/how-to-use-tensorrt-to-accelerate-deep-learning-inference-on-nvidia-gpus-kp4)
+- [Using Streams with Fetch for Efficient Data Processing](https://dev.to/omriluz1/using-streams-with-fetch-for-efficient-data-processing-335l)
 <!-- BLOG-POST-LIST:END -->
 
