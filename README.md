@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 I Tried Building an App in Just 24 Hours – Here’s What I Learned](https://dev.to/adityapandey-dev/i-tried-building-an-app-in-just-24-hours-heres-what-i-learned-b8n)
-- [Software Design Principles with Ruby &lpar;Applying SOLID&rpar;](https://dev.to/paltadash/software-design-principles-with-ruby-applying-solid-19g9)
-- [# 🚀 Hosting a Static Portfolio Website on AWS with CI/CD](https://dev.to/gakuruuri/-hosting-a-static-portfolio-website-on-aws-with-cicd-31b9)
-- [# The Third Step Into the World of RxJS: Combining Streams in RxJS](https://dev.to/artstesh/-the-third-step-into-the-world-of-rxjs-combining-streams-in-rxjs-42i9)
+- [Day 5/30 Days of Linux Mastery: User Account Management Like a Pro](https://dev.to/amandaigwe/day-530-days-of-linux-mastery-user-account-management-like-a-pro-5hdg)
+- [CoderLegion](https://dev.to/codingpanel/coderlegion-2474)
+- [From YouTube to Insights: Using Gen AI to Query Video Transcripts](https://dev.to/tahrim_bilal/from-youtube-to-insights-using-gen-ai-to-query-video-transcripts-11c3)
+- [🧨 Why Being a Software Developer Sucks in 2025](https://dev.to/pranta/why-being-a-software-developer-sucks-in-2025-46ia)
 <!-- BLOG-POST-LIST:END -->
 
