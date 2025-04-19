@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bilgisayara Gizli Mesajlar Gömmek: Steganografi ile Dijital Casusluk](https://dev.to/eagledfc/bilgisayara-gizli-mesajlar-gommek-steganografi-ile-dijital-casusluk-1696)
-- [How to Monitor and Profile Python Code With Py-Spy for Performance Bottlenecks](https://dev.to/hexshift/how-to-monitor-and-profile-python-code-with-py-spy-for-performance-bottlenecks-kj1)
-- [How to Use TensorRT to Accelerate Deep Learning Inference on NVIDIA GPUs](https://dev.to/hexshift/how-to-use-tensorrt-to-accelerate-deep-learning-inference-on-nvidia-gpus-kp4)
-- [Using Streams with Fetch for Efficient Data Processing](https://dev.to/omriluz1/using-streams-with-fetch-for-efficient-data-processing-335l)
+- [CoreIdent v0.3.5: OIDC ID Tokens, Real-World Gaps, and What’s Next](https://dev.to/solutionsjon/coreident-v035-oidc-id-tokens-real-world-gaps-and-whats-next-b3i)
+- [Easily Manage Node.js Versions with NVM — Complete Setup + Tips &lpar;macOS, Linux, Windows&rpar;](https://dev.to/khushalsarode/easily-manage-nodejs-versions-with-nvm-complete-setup-tips-macos-linux-windows-17m6)
+- [🌍 Soplang: The Programming Language Bringing Somali to Code](https://dev.to/ismailainte/soplang-the-programming-language-bringing-somali-to-code-4f3i)
+- [Mastering the mkdir Command in Linux &lpar;Made Simple &amp; Practical&rpar;](https://dev.to/sanasadiq/mastering-the-mkdir-command-in-linux-made-simple-practical-3071)
 <!-- BLOG-POST-LIST:END -->
 
