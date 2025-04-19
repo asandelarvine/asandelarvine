@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixed image backgrounds](https://dev.to/preetha_vaishnavi_2b82358/fixed-image-backgrounds-12eh)
-- [Mastering Azure: Core Architectural Components Explained](https://dev.to/theodora_e6f61d02577a5f06/mastering-azure-core-architectural-components-explained-28g6)
-- [Most absurd programming stories.](https://dev.to/gamelord2011/most-absurd-programming-stories-129i)
-- [JavaScript vs Python: What to Choose?](https://dev.to/dhanushnehru/javascript-vs-python-what-to-choose-31la)
+- [We All Know Objects, But What’s Object Prototypes?](https://dev.to/lovestaco/we-all-know-objects-but-whats-objects-prototypes-2jhj)
+- [How Frontend Mentor Projects Finally Got Me Moving Again](https://dev.to/emmanuelmalik/how-frontend-mentor-projects-finally-got-me-moving-again-4027)
+- [How to Dynamically Change Favicon Color in a NextJS](https://dev.to/bdhamithkumara/how-to-dynamically-change-favicon-color-in-a-nextjs-4g27)
+- [WYSIWYG editor in LiveView with embedded images that are uploaded to S3 bucket](https://dev.to/azyzz/wysiwyg-editor-in-liveview-with-embedded-images-that-are-uploaded-to-s3-bucket-2n51)
 <!-- BLOG-POST-LIST:END -->
 
