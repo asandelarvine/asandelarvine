@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Humans Really Need AI?](https://dev.to/doozieakshay/do-humans-really-need-ai-405p)
-- [The Secret History of the Illuminati: Myth, Power &amp; Hidden Truths](https://dev.to/scriptedbytruth/the-secret-history-of-the-illuminati-myth-power-hidden-truths-3pga)
-- [Angular 16–19: Understanding `input.required&lt;T&gt;&lpar;&rpar;` vs `input.required&lt;T&gt;&lpar;&rpar;.signal`](https://dev.to/cristiansifuentes/angular-16-19-understanding-inputrequired-vs-inputrequiredsignal-f3l)
-- [AI Reasoning: Thinking May Not Be Required for Top Performance](https://dev.to/aimodels-fyi/ai-reasoning-thinking-may-not-be-required-for-top-performance-4gmk)
+- [Struggling to get clean structured data &lpar;like YAML/JSON&rpar; from LLMs? I break down 3 must-know prompting tips for reliable structured output in this article: https://dev.to/zachary62/structured-output-for-beginners-3-must-know-prompting-tips-8cc](https://dev.to/zachary62/struggling-to-get-clean-structured-data-like-yamljson-from-llms-i-break-down-3-must-know-2ee7)
+- [cmdfx v0.1.3 - Physics Engine in the Terminal](https://dev.to/gmitch215/cmdfx-v013-physics-engine-in-the-terminal-5bj)
+- [# 🎯 Anime.js Learning — Day 2](https://dev.to/anticoder03/-animejs-learning-day-2-3dh1)
+- [AquaScript 🌊✨ | Free JSON APIs 📡](https://dev.to/aquascript/aquascript-free-json-apis-1eoa)
 <!-- BLOG-POST-LIST:END -->
 
