@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5/30 Days of Linux Mastery: User Account Management Like a Pro](https://dev.to/amandaigwe/day-530-days-of-linux-mastery-user-account-management-like-a-pro-5hdg)
-- [CoderLegion](https://dev.to/codingpanel/coderlegion-2474)
-- [From YouTube to Insights: Using Gen AI to Query Video Transcripts](https://dev.to/tahrim_bilal/from-youtube-to-insights-using-gen-ai-to-query-video-transcripts-11c3)
-- [🧨 Why Being a Software Developer Sucks in 2025](https://dev.to/pranta/why-being-a-software-developer-sucks-in-2025-46ia)
+- [Semantic HTML](https://dev.to/mitchell_cheng/semantic-html-1m1c)
+- [Title: How I Fixed Broadcom BCM43142 WiFi on Fedora &lpar;Hyprland Edition&rpar;](https://dev.to/iredox10/title-how-i-fixed-broadcom-bcm43142-wifi-on-fedora-hyprland-edition-4353)
+- [Static &amp; Non static variables](https://dev.to/shrinidhi_s/static-non-static-variables-2877)
+- [Trippy 3D Cube Room Demo](https://dev.to/preetha_vaishnavi_2b82358/trippy-3d-cube-room-demo-4l2c)
 <!-- BLOG-POST-LIST:END -->
 
