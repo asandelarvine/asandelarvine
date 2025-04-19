@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic HTML](https://dev.to/mitchell_cheng/semantic-html-1m1c)
-- [Title: How I Fixed Broadcom BCM43142 WiFi on Fedora &lpar;Hyprland Edition&rpar;](https://dev.to/iredox10/title-how-i-fixed-broadcom-bcm43142-wifi-on-fedora-hyprland-edition-4353)
-- [Static &amp; Non static variables](https://dev.to/shrinidhi_s/static-non-static-variables-2877)
-- [Trippy 3D Cube Room Demo](https://dev.to/preetha_vaishnavi_2b82358/trippy-3d-cube-room-demo-4l2c)
+- [Fixed image backgrounds](https://dev.to/preetha_vaishnavi_2b82358/fixed-image-backgrounds-12eh)
+- [Mastering Azure: Core Architectural Components Explained](https://dev.to/theodora_e6f61d02577a5f06/mastering-azure-core-architectural-components-explained-28g6)
+- [Most absurd programming stories.](https://dev.to/gamelord2011/most-absurd-programming-stories-129i)
+- [JavaScript vs Python: What to Choose?](https://dev.to/dhanushnehru/javascript-vs-python-what-to-choose-31la)
 <!-- BLOG-POST-LIST:END -->
 
