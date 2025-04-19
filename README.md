@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Airflow and MongoDB](https://dev.to/saint_vandora/apache-airflow-and-mongodb-35f9)
-- [How to Build Real-Time Applications with WebTransport: The Successor to WebSockets](https://dev.to/hexshift/how-to-build-real-time-applications-with-webtransport-the-successor-to-websockets-3aik)
-- [How to Use HTTP/3 and QUIC for Faster, Secure Web Applications](https://dev.to/hexshift/how-to-use-http3-and-quic-for-faster-secure-web-applications-9go)
-- [How to Use WebAssembly to Speed Up CPU-Intensive Tasks in the Browser](https://dev.to/hexshift/how-to-use-webassembly-to-speed-up-cpu-intensive-tasks-in-the-browser-12be)
+- [Building Dissi with Agno and MCP](https://dev.to/komsenapati/building-dissi-with-agno-and-mcp-4044)
+- [What Uses a DBMS? Real-Life Examples](https://dev.to/rishabhtpt/what-uses-a-dbms-real-life-examples-628)
+- [Java Interview Questions for Freshers: Your First Step to Success](https://dev.to/tpointtechadu/java-interview-questions-for-freshers-your-first-step-to-success-27dd)
+- [Mastering Pipeline Environments in Microsoft Power Platform: A Step-by-Step Guide](https://dev.to/seenakhan/mastering-pipeline-environments-in-microsoft-power-platform-a-step-by-step-guide-4o36)
 <!-- BLOG-POST-LIST:END -->
 
