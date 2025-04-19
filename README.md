@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling to get clean structured data &lpar;like YAML/JSON&rpar; from LLMs? I break down 3 must-know prompting tips for reliable structured output in this article: https://dev.to/zachary62/structured-output-for-beginners-3-must-know-prompting-tips-8cc](https://dev.to/zachary62/struggling-to-get-clean-structured-data-like-yamljson-from-llms-i-break-down-3-must-know-2ee7)
-- [cmdfx v0.1.3 - Physics Engine in the Terminal](https://dev.to/gmitch215/cmdfx-v013-physics-engine-in-the-terminal-5bj)
-- [# 🎯 Anime.js Learning — Day 2](https://dev.to/anticoder03/-animejs-learning-day-2-3dh1)
-- [AquaScript 🌊✨ | Free JSON APIs 📡](https://dev.to/aquascript/aquascript-free-json-apis-1eoa)
+- [My Journey Creating a Hate Speech Detection App with Machine Learning](https://dev.to/foxinfotech/my-journey-creating-a-hate-speech-detection-app-with-machine-learning-2p5l)
+- [The Ultimate Home 3D Modeling &amp; Rendering Setup for $2,000 + $100/Month](https://dev.to/hexshift/the-ultimate-home-3d-modeling-rendering-setup-for-2000-100month-3lg7)
+- [Kiến Trúc Hệ Thống Lớn và Phức Tạp](https://dev.to/hcmute_project_988df1c63c/kien-truc-he-thong-lon-va-phuc-tap-2bof)
+- [Mastering Python: A Comprehensive Guide](https://dev.to/million_formula_3be3d915d/mastering-python-a-comprehensive-guide-ien)
 <!-- BLOG-POST-LIST:END -->
 
