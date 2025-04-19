@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CoreIdent v0.3.5: OIDC ID Tokens, Real-World Gaps, and What’s Next](https://dev.to/solutionsjon/coreident-v035-oidc-id-tokens-real-world-gaps-and-whats-next-b3i)
-- [Easily Manage Node.js Versions with NVM — Complete Setup + Tips &lpar;macOS, Linux, Windows&rpar;](https://dev.to/khushalsarode/easily-manage-nodejs-versions-with-nvm-complete-setup-tips-macos-linux-windows-17m6)
-- [🌍 Soplang: The Programming Language Bringing Somali to Code](https://dev.to/ismailainte/soplang-the-programming-language-bringing-somali-to-code-4f3i)
-- [Mastering the mkdir Command in Linux &lpar;Made Simple &amp; Practical&rpar;](https://dev.to/sanasadiq/mastering-the-mkdir-command-in-linux-made-simple-practical-3071)
+- [Learn React - Your First Component](https://dev.to/buildlogmmd/learn-react-your-first-component-1b50)
+- [Helping developers to build their favorite apps at ease](https://dev.to/softalpha/helping-developers-to-build-their-favorite-apps-at-ease-280k)
+- [Learn React — Describing the UI](https://dev.to/buildlogmmd/learn-react-describing-the-ui-4o3i)
+- [Powers of 2](https://dev.to/maddiepst/powers-of-2-jid)
 <!-- BLOG-POST-LIST:END -->
 
