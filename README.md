@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AdSense for YouTube and Start Earning from Your Videos](https://dev.to/blogzeros/how-to-use-adsense-for-youtube-and-start-earning-from-your-videos-4dem)
-- [Attending Manus’s First Event in Japan](https://dev.to/atsushiambo/attending-manuss-first-event-in-japan-3o4e)
-- [New blog alert! 📣 Essential JavaScript Cheat Sheet for beginners 👉 Check it](https://dev.to/nikeshdahal/new-blog-alert-essential-javascript-cheat-sheet-for-beginners-check-it-566c)
-- [Attending Manus’s First Event in Japan](https://dev.to/atsushiambo/attending-manuss-first-event-in-japan-2e7h)
+- [How the Blog Got Its Name?](https://dev.to/bharathvaj_ganesan/how-the-blog-got-its-name-2fpc)
+- [📺 Find the Anime: A Semantic AI Anime Search Tool](https://dev.to/yuki_lun_8c8d3a0d2421e395/find-the-anime-a-semantic-ai-anime-search-tool-1d1l)
+- [Building a Finance Dashboard with Vue &amp; Node.js — A Modular Approach](https://dev.to/ernest_litsa_6cbeed4e5669/building-a-finance-dashboard-with-vue-nodejs-a-modular-approach-4m0e)
+- [SSH key setup](https://dev.to/rsk_2002/ssh-key-setup-1c6)
 <!-- BLOG-POST-LIST:END -->
 
