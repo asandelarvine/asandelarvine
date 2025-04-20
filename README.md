@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-30d1)
-- [Learn Google ADK: Build a farming agent.](https://dev.to/sten/learn-google-agent-adk-build-a-farming-agent-pc8)
-- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-416h)
-- [Weekly Challenge: Short and friendly](https://dev.to/simongreennet/weekly-challenge-short-and-friendly-jf)
+- [SPF, DKIM, and DMARC](https://dev.to/ibrahimsi/spf-dkim-and-dmarc-2g30)
+- [&quot;GitHub Kung Fu: Mastering Repos Like a Linux CLI Ninja with terraform&quot;](https://dev.to/rajpreet_gill_6272051bd31/github-kung-fu-mastering-repos-like-a-linux-cli-ninja-with-terraform-ee7)
+- [The Three Normal Forms in Database and Why You Might Ignore Them](https://dev.to/leapcell/the-three-normal-forms-in-database-and-why-you-might-ignore-them-1fm0)
+- [When AI Isn&#39;t Enough: How to Automate Human Questions in Your Workflo](https://dev.to/zankidine/when-ai-isnt-enough-how-to-automate-human-questions-in-your-workflo-1f3j)
 <!-- BLOG-POST-LIST:END -->
 
