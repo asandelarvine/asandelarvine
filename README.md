@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Browser Works: DNS, HTTP Request, DOM, CSSOM](https://dev.to/ashikrnhq04/how-a-browser-works-dns-http-request-dom-cssom-50kc)
-- [Create a Cool Music Chart Site with Deezer API 🎧 &lpar;No Backend Needed!&rpar;](https://dev.to/reynaldi/create-a-cool-music-chart-site-with-deezer-api-no-backend-needed-386e)
-- [TASK 2 – Constants and Variables](https://dev.to/pradeepmtm/task-2-constants-and-variables-58gl)
-- [When Gandhi met Satoshi](https://dev.to/prahladyeri/when-gandhi-met-satoshi-15il)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-30d1)
+- [Learn Google ADK: Build a farming agent.](https://dev.to/sten/learn-google-agent-adk-build-a-farming-agent-pc8)
+- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-416h)
+- [Weekly Challenge: Short and friendly](https://dev.to/simongreennet/weekly-challenge-short-and-friendly-jf)
 <!-- BLOG-POST-LIST:END -->
 
