@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Blog Got Its Name?](https://dev.to/bharathvaj_ganesan/how-the-blog-got-its-name-2fpc)
-- [📺 Find the Anime: A Semantic AI Anime Search Tool](https://dev.to/yuki_lun_8c8d3a0d2421e395/find-the-anime-a-semantic-ai-anime-search-tool-1d1l)
-- [Building a Finance Dashboard with Vue &amp; Node.js — A Modular Approach](https://dev.to/ernest_litsa_6cbeed4e5669/building-a-finance-dashboard-with-vue-nodejs-a-modular-approach-4m0e)
-- [SSH key setup](https://dev.to/rsk_2002/ssh-key-setup-1c6)
+- [🚀 Easily Connect LLMs and MCP Servers with mcp-use &lpar;TypeScript&rpar;](https://dev.to/zand/easily-connect-llms-and-mcp-servers-with-mcp-use-typescript-4gnd)
+- [Power Platform: Copying Environments — With Data or Just Customizations?](https://dev.to/nikhildynamicsce/power-platform-copying-environments-with-data-or-just-customizations-3n4p)
+- [C++ import for Faceone tutorial](https://dev.to/zako_mako_9a4826822204c78/c-import-for-faceone-tutorial-52bf)
+- [781. Rabbits in Forest](https://dev.to/mdarifulhaque/781-rabbits-in-forest-4fnh)
 <!-- BLOG-POST-LIST:END -->
 
