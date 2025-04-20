@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Easily Connect LLMs and MCP Servers with mcp-use &lpar;TypeScript&rpar;](https://dev.to/zand/easily-connect-llms-and-mcp-servers-with-mcp-use-typescript-4gnd)
-- [Power Platform: Copying Environments — With Data or Just Customizations?](https://dev.to/nikhildynamicsce/power-platform-copying-environments-with-data-or-just-customizations-3n4p)
-- [C++ import for Faceone tutorial](https://dev.to/zako_mako_9a4826822204c78/c-import-for-faceone-tutorial-52bf)
-- [781. Rabbits in Forest](https://dev.to/mdarifulhaque/781-rabbits-in-forest-4fnh)
+- [How Modern Encryption Algorithms Work: A Practical Python Perspective](https://dev.to/leapcell/how-modern-encryption-algorithms-work-a-practical-python-perspective-b1m)
+- [AI Agents vs. Traditional LLMs: Revolutionizing AI Workflows](https://dev.to/thi_le_26e54b136ffaa84ad1/ai-agents-vs-traditional-llms-revolutionizing-ai-workflows-533l)
+- [wavy wobbly lava orb](https://dev.to/preetha_vaishnavi_2b82358/wavy-wobbly-lava-orb-187c)
+- [Mastering the Art of Learning: A Professional’s Guide](https://dev.to/mrchike/-1mpa)
 <!-- BLOG-POST-LIST:END -->
 
