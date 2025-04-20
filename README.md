@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bilgisayarda Yazılanları Sessizce Takip Et: Revealer Keylogger Nedir, Nasıl Kullanılır?](https://dev.to/eagledfc/bilgisayarda-yazilanlari-sessizce-takip-et-revealer-keylogger-nedir-nasil-kullanilir-2988)
-- [CSS Spinning Die](https://dev.to/preetha_vaishnavi_2b82358/css-spinning-die-16ek)
-- [Difference of Volumes of Cuboids](https://dev.to/maddiepst/difference-of-volumes-of-cuboids-5bj4)
-- [Pure CSS | Jake&#39;s Instagram](https://dev.to/preetha_vaishnavi_2b82358/pure-css-jakes-instagram-1lbo)
+- [Cicada Principal synthesizer](https://dev.to/preetha_vaishnavi_2b82358/cicada-principal-synthesizer-11d4)
+- [Sessizce İzle, Akıllıca Koru: Spyrix ile Tüm Dijital Cihazlar Artık Kontrolünüzde](https://dev.to/eagledfc/sessizce-izle-akillica-koru-spyrix-ile-tum-dijital-cihazlar-artik-kontrolunuzde-47d8)
+- [GPT 4.1, o3 and o4-mini are OpenAI&#39;s smartest, RIP JavaScript Records and Tuples, a new 800KB JavaScript runtime, and more](https://dev.to/thisweekinjavascript/gpt-41-o3-and-o4-mini-are-openais-smartest-rip-javascript-records-and-tuples-a-new-800kb-5ea3)
+- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-3618)
 <!-- BLOG-POST-LIST:END -->
 
