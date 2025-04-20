@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [collection grid](https://dev.to/preetha_vaishnavi_2b82358/collection-grid-208o)
-- [Fitness Tracking App](https://dev.to/preetha_vaishnavi_2b82358/fitness-tracking-app-58hi)
-- [Understanding MCP Architecture: The Control Plane for Responsible AI at Scale](https://dev.to/rajarshi_tarafdar/understanding-mcp-architecture-the-control-plane-for-responsible-ai-at-scale-43m0)
-- [Glitch Crypt: P2P Encryption](https://dev.to/preetha_vaishnavi_2b82358/glitch-crypt-p2p-encryption-mlo)
+- [Bilgisayarda Yazılanları Sessizce Takip Et: Revealer Keylogger Nedir, Nasıl Kullanılır?](https://dev.to/eagledfc/bilgisayarda-yazilanlari-sessizce-takip-et-revealer-keylogger-nedir-nasil-kullanilir-2988)
+- [CSS Spinning Die](https://dev.to/preetha_vaishnavi_2b82358/css-spinning-die-16ek)
+- [Difference of Volumes of Cuboids](https://dev.to/maddiepst/difference-of-volumes-of-cuboids-5bj4)
+- [Pure CSS | Jake&#39;s Instagram](https://dev.to/preetha_vaishnavi_2b82358/pure-css-jakes-instagram-1lbo)
 <!-- BLOG-POST-LIST:END -->
 
