@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Negating TTS to STT feedback](https://dev.to/owly/negating-tts-to-stt-feedback-5216)
-- [Digital Clock](https://dev.to/diptobd71/digital-clock-13jc)
-- [What is the Superchain?](https://dev.to/damel_design_ff701441a63b/what-is-the-superchain-71e)
-- [Simple Calculator](https://dev.to/diptobd71/simple-calculator-2m8f)
+- [Frontend at Scale: Building Maintainable Enterprise Apps with Angular](https://dev.to/ashishgp64/frontend-at-scale-building-maintainable-enterprise-apps-with-angular-3o2d)
+- [Quick Slots and Item Equipping](https://dev.to/whamdot/quick-slots-and-item-equipping-3l0f)
+- [User Management in Red Hat Linux: Proven Strategies and Practical Use Cases](https://dev.to/ibrahim_morakinyo_8f47965/user-management-in-red-hat-linux-proven-strategies-and-practical-use-cases-5gca)
+- [Testing Storage Limits of localStorage and sessionStorage in Chrome](https://dev.to/tommykw/testing-storage-limits-of-localstorage-and-sessionstorage-in-chrome-21ab)
 <!-- BLOG-POST-LIST:END -->
 
