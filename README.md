@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Modern Encryption Algorithms Work: A Practical Python Perspective](https://dev.to/leapcell/how-modern-encryption-algorithms-work-a-practical-python-perspective-b1m)
-- [AI Agents vs. Traditional LLMs: Revolutionizing AI Workflows](https://dev.to/thi_le_26e54b136ffaa84ad1/ai-agents-vs-traditional-llms-revolutionizing-ai-workflows-533l)
-- [wavy wobbly lava orb](https://dev.to/preetha_vaishnavi_2b82358/wavy-wobbly-lava-orb-187c)
-- [Mastering the Art of Learning: A Professional’s Guide](https://dev.to/mrchike/-1mpa)
+- [collection grid](https://dev.to/preetha_vaishnavi_2b82358/collection-grid-208o)
+- [Fitness Tracking App](https://dev.to/preetha_vaishnavi_2b82358/fitness-tracking-app-58hi)
+- [Understanding MCP Architecture: The Control Plane for Responsible AI at Scale](https://dev.to/rajarshi_tarafdar/understanding-mcp-architecture-the-control-plane-for-responsible-ai-at-scale-43m0)
+- [Glitch Crypt: P2P Encryption](https://dev.to/preetha_vaishnavi_2b82358/glitch-crypt-p2p-encryption-mlo)
 <!-- BLOG-POST-LIST:END -->
 
