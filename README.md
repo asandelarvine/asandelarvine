@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend at Scale: Building Maintainable Enterprise Apps with Angular](https://dev.to/ashishgp64/frontend-at-scale-building-maintainable-enterprise-apps-with-angular-3o2d)
-- [Quick Slots and Item Equipping](https://dev.to/whamdot/quick-slots-and-item-equipping-3l0f)
-- [User Management in Red Hat Linux: Proven Strategies and Practical Use Cases](https://dev.to/ibrahim_morakinyo_8f47965/user-management-in-red-hat-linux-proven-strategies-and-practical-use-cases-5gca)
-- [Testing Storage Limits of localStorage and sessionStorage in Chrome](https://dev.to/tommykw/testing-storage-limits-of-localstorage-and-sessionstorage-in-chrome-21ab)
+- [Teste md legal](https://dev.to/piluvitu/teste-md-legal-1ecc)
+- [🛡️Scan and Secure Your Mobile App with AppSweep &lpar;SAST for Android&rpar;](https://dev.to/brunoenr/scan-and-secure-your-mobile-app-with-appsweep-sast-for-android-5h2d)
+- [ajax to turbostream](https://dev.to/donnellycarroll/ajax-to-turbostream-3076)
+- [Caching DynamoDB Results with Redis using AWS Lambda + API Gateway &lpar;with Terraform&rpar;](https://dev.to/leonardkachi/caching-dynamodb-results-with-redis-using-aws-lambda-api-gateway-with-terraform-2pp8)
 <!-- BLOG-POST-LIST:END -->
 
