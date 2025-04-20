@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SPF, DKIM, and DMARC](https://dev.to/ibrahimsi/spf-dkim-and-dmarc-2g30)
-- [&quot;GitHub Kung Fu: Mastering Repos Like a Linux CLI Ninja with terraform&quot;](https://dev.to/rajpreet_gill_6272051bd31/github-kung-fu-mastering-repos-like-a-linux-cli-ninja-with-terraform-ee7)
-- [The Three Normal Forms in Database and Why You Might Ignore Them](https://dev.to/leapcell/the-three-normal-forms-in-database-and-why-you-might-ignore-them-1fm0)
-- [When AI Isn&#39;t Enough: How to Automate Human Questions in Your Workflo](https://dev.to/zankidine/when-ai-isnt-enough-how-to-automate-human-questions-in-your-workflo-1f3j)
+- [Top AI-Powered Chrome Extensions for Web Developers 🚀](https://dev.to/moibra/top-ai-powered-chrome-extensions-for-web-developers-343e)
+- [The AWS Step Functions WorkshopをCDKデプロイで試してみる](https://dev.to/aws-builders/the-aws-step-functions-workshopwocdkdepuroideshi-sitemiru-emg)
+- [openapi-fetch-gen – Generate TypeScript API client from OpenAPI TypeScript interface definitions created by openapi-typescript](https://dev.to/moznion/openapi-fetch-gen-generate-typescript-api-client-from-openapi-typescript-interface-definitions-kjd)
+- [[Boost]](https://dev.to/lorebrada00/-4p0o)
 <!-- BLOG-POST-LIST:END -->
 
