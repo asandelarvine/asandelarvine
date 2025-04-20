@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Your Old Devices 💻 into an AI Supercomputer: Run Powerful Models Locally with Exo](https://dev.to/shahdeep/turn-your-old-devices-into-an-ai-supercomputer-run-powerful-models-locally-with-exo-55ak)
-- [🛠️ Building My Own Mini ORM in Java &lpar;As a Beginner&rpar;](https://dev.to/outsideprogrammer/building-my-own-mini-orm-in-java-as-a-beginner-kd0)
-- [AI Agents and the Future of App Development: A Beginner&#39;s Guide &lpar;101&rpar;](https://dev.to/vinod827/ai-agents-and-the-future-of-app-development-a-beginners-guide-101-597c)
-- [Sorting SharePoint Documents by Date in Dynamics 365 CRM — Why It Fails and How to Fix It](https://dev.to/nikhildynamicsce/sorting-sharepoint-documents-by-date-in-dynamics-365-crm-why-it-fails-and-how-to-fix-it-5p5)
+- [How a Browser Works: DNS, HTTP Request, DOM, CSSOM](https://dev.to/ashikrnhq04/how-a-browser-works-dns-http-request-dom-cssom-50kc)
+- [Create a Cool Music Chart Site with Deezer API 🎧 &lpar;No Backend Needed!&rpar;](https://dev.to/reynaldi/create-a-cool-music-chart-site-with-deezer-api-no-backend-needed-386e)
+- [TASK 2 – Constants and Variables](https://dev.to/pradeepmtm/task-2-constants-and-variables-58gl)
+- [When Gandhi met Satoshi](https://dev.to/prahladyeri/when-gandhi-met-satoshi-15il)
 <!-- BLOG-POST-LIST:END -->
 
