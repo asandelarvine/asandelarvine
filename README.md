@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A post without AI](https://dev.to/j3ronimo/a-post-without-ai-3cm)
-- [The Way Claude and GPT Handle Ethical Dilemmas in Generative AI Responses](https://dev.to/marufhossain/the-way-claude-and-gpt-handle-ethical-dilemmas-in-generative-ai-responses-3174)
-- [Are you curious about how Retrieval-Augmented Generation &lpar;RAG&rpar; actually works? Dive into this overview to gain a deeper understanding of the concept and its applications. This is Chapter 1, with more detailed insights coming soon. Stay tuned for further](https://dev.to/master-rj/are-you-curious-about-how-retrieval-augmented-generation-rag-actually-works-dive-into-this-3l2n)
-- [Say What You Mean &lpar;Without Being a Jerk&rpar;](https://dev.to/duplessisvanaswegen/say-what-you-mean-without-being-a-jerk-2md9)
+- [Unleashing Creativity: Exploring the World of AI Doll Generation](https://dev.to/aigame/unleashing-creativity-exploring-the-world-of-ai-doll-generation-49ai)
+- [They Can’t Read Your Mind – Communicate Proactively](https://dev.to/duplessisvanaswegen/they-cant-read-your-mind-communicate-proactively-2n41)
+- [They Can’t Read Your Mind – Communicate Proactively](https://dev.to/duplessisvanaswegen/they-cant-read-your-mind-communicate-proactively-38a5)
+- [I Need a Payday Loan Immediately – Here’s How to Get Cash in 1 Hour](https://dev.to/__b9e6063cf/i-need-a-payday-loan-immediately-heres-how-to-get-cash-in-1-hour-556m)
 <!-- BLOG-POST-LIST:END -->
 
