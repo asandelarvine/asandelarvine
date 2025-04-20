@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI-Powered Chrome Extensions for Web Developers 🚀](https://dev.to/moibra/top-ai-powered-chrome-extensions-for-web-developers-343e)
-- [The AWS Step Functions WorkshopをCDKデプロイで試してみる](https://dev.to/aws-builders/the-aws-step-functions-workshopwocdkdepuroideshi-sitemiru-emg)
-- [openapi-fetch-gen – Generate TypeScript API client from OpenAPI TypeScript interface definitions created by openapi-typescript](https://dev.to/moznion/openapi-fetch-gen-generate-typescript-api-client-from-openapi-typescript-interface-definitions-kjd)
-- [[Boost]](https://dev.to/lorebrada00/-4p0o)
+- [Maximizing Online Education: Uncover The Power of Experiential Learning](https://dev.to/ghummantech/maximizing-online-education-uncover-the-power-of-experiential-learning-54g)
+- [Sensitive Data Exposure in Symfony Apps](https://dev.to/pentest_testing_corp/sensitive-data-exposure-in-symfony-apps-33jc)
+- [A Beginner’s DevOps Journey – Starting with Ansible &lpar;Part 3&rpar;](https://dev.to/sheharyar566/a-beginners-devops-journey-starting-with-ansible-part-3-57ma)
+- [htmx.php – Advanced HTMX Helper for PHP](https://dev.to/makalin/htmxphp-advanced-htmx-helper-for-php-59b5)
 <!-- BLOG-POST-LIST:END -->
 
