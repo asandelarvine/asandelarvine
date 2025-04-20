@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Docker Images and Containers: A Comprehensive Guide](https://dev.to/mayankcse/managing-docker-images-and-containers-a-comprehensive-guide-2b0h)
-- [Handling Binary Data with DataView and Buffer](https://dev.to/omriluz1/handling-binary-data-with-dataview-and-buffer-4fd7)
-- [Generative AI](https://dev.to/tahrim_bilal/-af9)
-- [Convert and scale a PIL Image to an Image in PyTorch](https://dev.to/hyperkai/convert-and-scale-a-pil-image-to-an-image-in-pytorch-3e8e)
+- [Negating TTS to STT feedback](https://dev.to/owly/negating-tts-to-stt-feedback-5216)
+- [Digital Clock](https://dev.to/diptobd71/digital-clock-13jc)
+- [What is the Superchain?](https://dev.to/damel_design_ff701441a63b/what-is-the-superchain-71e)
+- [Simple Calculator](https://dev.to/diptobd71/simple-calculator-2m8f)
 <!-- BLOG-POST-LIST:END -->
 
