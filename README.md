@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Creativity: Exploring the World of AI Doll Generation](https://dev.to/aigame/unleashing-creativity-exploring-the-world-of-ai-doll-generation-49ai)
-- [They Can’t Read Your Mind – Communicate Proactively](https://dev.to/duplessisvanaswegen/they-cant-read-your-mind-communicate-proactively-2n41)
-- [They Can’t Read Your Mind – Communicate Proactively](https://dev.to/duplessisvanaswegen/they-cant-read-your-mind-communicate-proactively-38a5)
-- [I Need a Payday Loan Immediately – Here’s How to Get Cash in 1 Hour](https://dev.to/__b9e6063cf/i-need-a-payday-loan-immediately-heres-how-to-get-cash-in-1-hour-556m)
+- [How to Use AdSense for YouTube and Start Earning from Your Videos](https://dev.to/blogzeros/how-to-use-adsense-for-youtube-and-start-earning-from-your-videos-4dem)
+- [Attending Manus’s First Event in Japan](https://dev.to/atsushiambo/attending-manuss-first-event-in-japan-3o4e)
+- [New blog alert! 📣 Essential JavaScript Cheat Sheet for beginners 👉 Check it](https://dev.to/nikeshdahal/new-blog-alert-essential-javascript-cheat-sheet-for-beginners-check-it-566c)
+- [Attending Manus’s First Event in Japan](https://dev.to/atsushiambo/attending-manuss-first-event-in-japan-2e7h)
 <!-- BLOG-POST-LIST:END -->
 
