@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow - Interview Questions and Answers](https://dev.to/guru_prasanna_01/servicenow-interview-questions-and-answers-3fmd)
-- [The Future of Figma with AI: Revolutionising Design Collaboration](https://dev.to/yujofficial/the-future-of-figma-with-ai-revolutionising-design-collaboration-48p7)
-- [Microsoft Defender for Storage: Threat Detection &amp; Protection for Your Data](https://dev.to/techielass/microsoft-defender-for-storage-threat-detection-protection-for-your-data-3l47)
-- [Beginner&#39;s Guide to ADO.NET: Connection, Command &amp; Dataset Explained](https://dev.to/sharpen_code_14ab82f71db6/beginners-guide-to-adonet-connection-command-dataset-explained-2k9o)
+- [China’s Great Leap into the Future: Embodied AI is Reshaping Daily Life](https://dev.to/abdul_rehmankhan01/chinas-great-leap-into-the-future-embodied-ai-is-reshaping-daily-life-3c2o)
+- [Why Your Coding Agent Keeps Failing — And How to Make It Project-Aware with MCP](https://dev.to/siage/why-your-coding-agent-keeps-failing-and-how-to-make-it-project-aware-with-mcp-1675)
+- [Generating SQL Insert Statements from ActiveRecord Models in Ruby on Rails](https://dev.to/suryadavinci/generating-sql-insert-statements-from-activerecord-models-in-ruby-on-rails-4aci)
+- [10 Daily Linux Questions and Answers Series &lpar;part 10&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-10-4dib)
 <!-- BLOG-POST-LIST:END -->
 
