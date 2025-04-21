@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 21 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-april-852)
-- [I Tested 5 AI-Powered App Cost Estimators. Here’s What They Actually Gave Me](https://dev.to/appstackwriter/i-tested-5-ai-powered-app-cost-estimators-heres-what-they-actually-gave-me-325a)
-- [Just tried A11yInspect browser extension— must-have for accessibility enthusiasts! It simplifies testing and helps ensure inclusive digital experiences. Anyone passionate about accessibility, give it a try! https://shorturl.at/IVjdo](https://dev.to/ramya_venkitesh_3e6c7acfe/just-tried-a11yinspect-browser-extension-must-have-for-accessibility-enthusiasts-it-simplifies-24nb)
-- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-73g)
+- [From CosmosDB to DynamoDB: Migrating and Containerizing a FastAPI + React App](https://dev.to/richard_atodo/from-cosmosdb-to-dynamodb-migrating-and-containerizing-a-fastapi-react-app-28dk)
+- [Turbocharge Your Rails Apps with Smart Database Indexing](https://dev.to/jetthoughts/turbocharge-your-rails-apps-with-smart-database-indexing-2a26)
+- [Programming- Fibonacci Series](https://dev.to/sudhakar_v_c404997aeec839/programming-fibonacci-series-4bn)
+- [Pull Requests, Done Right: The Hidden Lever of Engineering Velocity](https://dev.to/flemzord/pull-requests-done-right-the-hidden-lever-of-engineering-velocity-37dl)
 <!-- BLOG-POST-LIST:END -->
 
