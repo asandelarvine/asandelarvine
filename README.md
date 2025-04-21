@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From CosmosDB to DynamoDB: Migrating and Containerizing a FastAPI + React App](https://dev.to/richard_atodo/from-cosmosdb-to-dynamodb-migrating-and-containerizing-a-fastapi-react-app-28dk)
-- [Turbocharge Your Rails Apps with Smart Database Indexing](https://dev.to/jetthoughts/turbocharge-your-rails-apps-with-smart-database-indexing-2a26)
-- [Programming- Fibonacci Series](https://dev.to/sudhakar_v_c404997aeec839/programming-fibonacci-series-4bn)
-- [Pull Requests, Done Right: The Hidden Lever of Engineering Velocity](https://dev.to/flemzord/pull-requests-done-right-the-hidden-lever-of-engineering-velocity-37dl)
+- [Fashion concept](https://dev.to/preetha_vaishnavi_2b82358/fashion-concept-31g4)
+- [CSS Flexbox: Layouts Made Easy](https://dev.to/thedevspace/css-flexbox-layouts-made-easy-5dg3)
+- [How AI-Powered Ad Targeting is Reshaping Paid Campaigns &lpar;And How to Use It&rpar;](https://dev.to/c3controls/how-ai-powered-ad-targeting-is-reshaping-paid-campaigns-and-how-to-use-it-4cmd)
+- [Responsive Pure CSS Masonry Layout - Column Count](https://dev.to/preetha_vaishnavi_2b82358/responsive-pure-css-masonry-layout-column-count-1n65)
 <!-- BLOG-POST-LIST:END -->
 
