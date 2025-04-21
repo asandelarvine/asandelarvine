@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teste md legal](https://dev.to/piluvitu/teste-md-legal-1ecc)
-- [🛡️Scan and Secure Your Mobile App with AppSweep &lpar;SAST for Android&rpar;](https://dev.to/brunoenr/scan-and-secure-your-mobile-app-with-appsweep-sast-for-android-5h2d)
-- [ajax to turbostream](https://dev.to/donnellycarroll/ajax-to-turbostream-3076)
-- [Caching DynamoDB Results with Redis using AWS Lambda + API Gateway &lpar;with Terraform&rpar;](https://dev.to/leonardkachi/caching-dynamodb-results-with-redis-using-aws-lambda-api-gateway-with-terraform-2pp8)
+- [Next.js Multilingual Sitemap Optimization: Dodge Redirect Issues &amp; Boost SEO](https://dev.to/solomakerstudio/nextjs-multilingual-sitemap-optimization-dodge-redirect-issues-boost-seo-3b73)
+- [How to Use apiexplorer.io to Prototype Your Next Integration](https://dev.to/lonti-davidb/how-to-use-apiexplorerio-to-prototype-your-next-integration-2661)
+- [How to Deploy FastAPI Apps on Google Cloud Run &lpar;Step-by-Step Guide&rpar;](https://dev.to/hexshift/how-to-deploy-fastapi-apps-on-google-cloud-run-step-by-step-guide-26ed)
+- [🧠 Auto-Generating Knowledge Base Articles from Jira Tickets Using AI](https://dev.to/sarthak_bhardwaj/auto-generating-knowledge-base-articles-from-jira-tickets-using-ai-5hdo)
 <!-- BLOG-POST-LIST:END -->
 
