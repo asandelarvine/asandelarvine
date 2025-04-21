@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⏱️ 142 Days Lost, New Chapter Starts](https://dev.to/munin-1/142-days-lost-new-chapter-starts-4djn)
-- [🏗️ Brick by Brick – 1825 Days to Transform My Life.](https://dev.to/munin-1/brick-by-brick-1825-days-to-transform-my-life-1f7)
-- [Introducing AnuDB: A Lightweight, Serverless Document Database](https://dev.to/hashanu/introducing-anudb-a-lightweight-serverless-document-database-3bci)
-- [SQL DDL Commands Explained: Structuring Your Database](https://dev.to/dbvismarketing/sql-ddl-commands-explained-structuring-your-database-4i92)
+- [How to solve CORS error while fetching an external API? &lpar;Solution Explained&rpar;](https://dev.to/reynaldi/how-to-solve-cors-error-while-fetching-an-external-api-solution-explained-6af)
+- [Connecting to an EC2 Instance: A Deep Dive into Session Manager](https://dev.to/glory_ugochukwu_57b6cf663/connecting-to-an-ec2-instance-a-deep-dive-into-session-manager-1gbl)
+- [Best Blog Post Formats That Keep Readers Hooked &lpar;With Examples&rpar;](https://dev.to/blogzeros/best-blog-post-formats-that-keep-readers-hooked-with-examples-7jj)
+- [Step-by-Step Guide to Scraping Google Search](https://dev.to/swiftproxy_residential/step-by-step-guide-to-scraping-google-search-2n14)
 <!-- BLOG-POST-LIST:END -->
 
