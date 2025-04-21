@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Face Comparison in Web Apps with AWS Rekognition](https://dev.to/lovestaco/face-comparison-in-web-apps-with-aws-rekognition-21bh)
-- [Building a Full-Stack AI Chatbot with FastAPI &lpar;Backend&rpar; and React &lpar;Frontend&rpar;](https://dev.to/vipascal99/building-a-full-stack-ai-chatbot-with-fastapi-backend-and-react-frontend-51ph)
-- [Generics in Go: Your Friendly Guide to Reusable Code](https://dev.to/shrsv/generics-in-go-your-friendly-guide-to-reusable-code-4fkc)
-- [Understanding How Neural Networks Can Beat Chess Champions [Simplified Explanation]](https://dev.to/dominiconorton/understanding-how-neural-networks-can-beat-chess-champions-simplified-explanation-il8)
+- [Context-Sensitive Semantic Reasoning via Dynamic Triplet Graph Embeddings](https://dev.to/ryo_suwito/context-sensitive-semantic-reasoning-via-dynamic-triplet-graph-embeddings-1hal)
+- [How to Create and Publish Your Own NPM Package](https://dev.to/abdelkader_bouzomita_c34e/how-to-create-and-publish-your-own-npm-package-4okk)
+- [AI is fast. Human intuition is smarter. Objections aren’t problems. They’re your competitive edge. #AshkanRajaee #Futurism #BusinessGrowth #AI #SalesTips](https://dev.to/jc_ordiz_86ff31935afdccda/ai-is-fast-human-intuition-is-smarter-objections-arent-problems-theyre-your-competitive-1ean)
+- [Rediscovering Code: My Late-Career Leap into AI](https://dev.to/thutch1976/rediscovering-code-my-late-career-leap-into-ai-63h)
 <!-- BLOG-POST-LIST:END -->
 
