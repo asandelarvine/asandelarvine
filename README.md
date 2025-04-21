@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trigonometric Functions on TI Arm Cores ========================================== functions are commonly used in real-time control applications, particularly within the inner loops of control algorithms, where speed and accuracy are essential. Th](https://dev.to/cyrus_zargaani_6a19e0c497/trigonometric-functions-on-ti-arm-cores--1apc)
-- [Creación de un DTE de boleta electrónica usando AppDTE Api:](https://dev.to/esteban_guenul_a8b43f3f31/creacion-de-un-dte-de-boleta-electronica-usando-appdte-api-580c)
-- [Compose Animations](https://dev.to/alt_j/compose-animations-46c)
-- [Informativo](https://dev.to/david_bermenvliz/informativo-43ai)
+- [190/365 | ¥10M Job Challenge - Mistake](https://dev.to/kameken100/189365-y10m-job-challenge-mistake-335i)
+- [From Scripts to Cloud: My Hands-On Guide to ML + DevOps](https://dev.to/azeemah/from-scripts-to-cloud-my-hands-on-guide-to-ml-devops-2kbg)
+- [Valide as Bordas do Seu Sistema](https://dev.to/mtbarr/valide-as-bordas-do-seu-sistema-51bg)
+- [Your First Lua Binding](https://dev.to/minmax2296/your-first-lua-binding-4n62)
 <!-- BLOG-POST-LIST:END -->
 
