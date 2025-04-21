@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why RK3566 is a Great Choice for Your Next Embedded SBC Project](https://dev.to/kevinzhang109/why-rk3566-is-a-great-choice-for-your-next-embedded-sbc-project-394m)
-- [Deep Learning](https://dev.to/congngheaivn/deep-learning-278e)
-- [How to Use Firebase Functions With Express and Firestore for a Full Backend API](https://dev.to/hexshift/how-to-use-firebase-functions-with-express-and-firestore-for-a-full-backend-api-19ne)
-- [Staring at shapes](https://dev.to/magipunk/staring-at-shapes-37l7)
+- [Revolutionizing Healthcare with Generative AI: Transforming Diagnosis, Drug Discovery, and Personalized Care](https://dev.to/siddharthbhalsod/revolutionizing-healthcare-with-generative-ai-transforming-diagnosis-drug-discovery-and-3ajk)
+- [Next.js 15 Features You Should Know in 2025](https://dev.to/dct_technology/nextjs-15-features-you-should-know-in-2025-277k)
+- [How to Install Cursor AI Code Editor on Android Phone](https://dev.to/maheshtechnicals/how-to-install-cursor-ai-code-editor-on-android-phone-4gd7)
+- [Docmost, an open-source alternative to Confluence and Notion.](https://dev.to/ramunarasinga-11/docmost-an-open-source-alternative-to-confluence-and-notion-1a1k)
 <!-- BLOG-POST-LIST:END -->
 
