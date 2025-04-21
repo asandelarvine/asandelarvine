@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Software Development Trends That Will Shape 2025](https://dev.to/orionik_seo_1c8659c41c8d8/key-software-development-trends-that-will-shape-2025-22gi)
-- [AWS Fargate and Lambda: A Clear Comparison of Pros and Cons](https://dev.to/piya__c204c9e90/aws-fargate-and-lambda-a-clear-comparison-of-pros-and-cons-27a5)
-- [Mastering React HOCs: A Clear Guide to Reusable Code 🚀](https://dev.to/0xtanzim/mastering-react-hocs-a-clear-guide-to-reusable-code-3l1)
-- [Deploy a Next.js App on AWS EC2 with Docker, NGINX, and Automate with GitHub Actions.](https://dev.to/kilamaelie/deploy-a-nextjs-app-on-aws-ec2-with-docker-nginx-and-automate-with-github-actions-5g4m)
+- [LR44: The Polyjuice Battery of Electronics](https://dev.to/ersajay/lr44-the-polyjuice-battery-of-electronics-dgc)
+- [How to Secure AWS Lambda Webhooks With Signature Verification](https://dev.to/hexshift/how-to-secure-aws-lambda-webhooks-with-signature-verification-1ckg)
+- [AI Code Reviewers: Can They Replace Your Teammates?](https://dev.to/s_chathuranga_j/ai-code-reviewers-can-they-replace-your-teammates-48f)
+- [Zero Trust in Cloud Environments: Practical Implementation Tips](https://dev.to/network_intelligence_25e4/zero-trust-in-cloud-environments-practical-implementation-tips-5c5j)
 <!-- BLOG-POST-LIST:END -->
 
