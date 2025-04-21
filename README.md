@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LR44: The Polyjuice Battery of Electronics](https://dev.to/ersajay/lr44-the-polyjuice-battery-of-electronics-dgc)
-- [How to Secure AWS Lambda Webhooks With Signature Verification](https://dev.to/hexshift/how-to-secure-aws-lambda-webhooks-with-signature-verification-1ckg)
-- [AI Code Reviewers: Can They Replace Your Teammates?](https://dev.to/s_chathuranga_j/ai-code-reviewers-can-they-replace-your-teammates-48f)
-- [Zero Trust in Cloud Environments: Practical Implementation Tips](https://dev.to/network_intelligence_25e4/zero-trust-in-cloud-environments-practical-implementation-tips-5c5j)
+- [⏱️ 142 Days Lost, New Chapter Starts](https://dev.to/munin-1/142-days-lost-new-chapter-starts-4djn)
+- [🏗️ Brick by Brick – 1825 Days to Transform My Life.](https://dev.to/munin-1/brick-by-brick-1825-days-to-transform-my-life-1f7)
+- [Introducing AnuDB: A Lightweight, Serverless Document Database](https://dev.to/hashanu/introducing-anudb-a-lightweight-serverless-document-database-3bci)
+- [SQL DDL Commands Explained: Structuring Your Database](https://dev.to/dbvismarketing/sql-ddl-commands-explained-structuring-your-database-4i92)
 <!-- BLOG-POST-LIST:END -->
 
