@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [China’s Great Leap into the Future: Embodied AI is Reshaping Daily Life](https://dev.to/abdul_rehmankhan01/chinas-great-leap-into-the-future-embodied-ai-is-reshaping-daily-life-3c2o)
-- [Why Your Coding Agent Keeps Failing — And How to Make It Project-Aware with MCP](https://dev.to/siage/why-your-coding-agent-keeps-failing-and-how-to-make-it-project-aware-with-mcp-1675)
-- [Generating SQL Insert Statements from ActiveRecord Models in Ruby on Rails](https://dev.to/suryadavinci/generating-sql-insert-statements-from-activerecord-models-in-ruby-on-rails-4aci)
-- [10 Daily Linux Questions and Answers Series &lpar;part 10&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-10-4dib)
+- [🚀 Your Daily Crypto Job Digest For 21 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-april-852)
+- [I Tested 5 AI-Powered App Cost Estimators. Here’s What They Actually Gave Me](https://dev.to/appstackwriter/i-tested-5-ai-powered-app-cost-estimators-heres-what-they-actually-gave-me-325a)
+- [Just tried A11yInspect browser extension— must-have for accessibility enthusiasts! It simplifies testing and helps ensure inclusive digital experiences. Anyone passionate about accessibility, give it a try! https://shorturl.at/IVjdo](https://dev.to/ramya_venkitesh_3e6c7acfe/just-tried-a11yinspect-browser-extension-must-have-for-accessibility-enthusiasts-it-simplifies-24nb)
+- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-73g)
 <!-- BLOG-POST-LIST:END -->
 
