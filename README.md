@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fashion concept](https://dev.to/preetha_vaishnavi_2b82358/fashion-concept-31g4)
-- [CSS Flexbox: Layouts Made Easy](https://dev.to/thedevspace/css-flexbox-layouts-made-easy-5dg3)
-- [How AI-Powered Ad Targeting is Reshaping Paid Campaigns &lpar;And How to Use It&rpar;](https://dev.to/c3controls/how-ai-powered-ad-targeting-is-reshaping-paid-campaigns-and-how-to-use-it-4cmd)
-- [Responsive Pure CSS Masonry Layout - Column Count](https://dev.to/preetha_vaishnavi_2b82358/responsive-pure-css-masonry-layout-column-count-1n65)
+- [4 Powerful Ways to Create Custom Apps in Frappe &lpar;with Code Examples&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/4-powerful-ways-to-create-custom-apps-in-frappe-with-code-examples-5h01)
+- [8 Open Source Projects to Build Modern Full-stack Apps 🧙🪄](https://dev.to/madza/8-open-source-projects-to-build-modern-full-stack-apps-3b3o)
+- [🚀 10 Laravel Eloquent Tricks You Didn’t Know &lpar;But Will Love!&rpar;](https://dev.to/arafatweb/10-laravel-eloquent-tricks-you-didnt-know-but-will-love-505c)
+- [A no-BS guide for developers to implement SSO](https://dev.to/saif_shines/a-no-bs-guide-for-developers-to-implement-sso-1kkn)
 <!-- BLOG-POST-LIST:END -->
 
