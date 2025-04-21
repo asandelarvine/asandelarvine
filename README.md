@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-22dm)
-- [I would pay a LOT of money for this absolutely incredible AI laptop... But maybe not as much as it actually costs](https://dev.to/sadiksajid/i-would-pay-a-lot-of-money-for-this-absolutely-incredible-ai-laptop-but-maybe-not-as-much-as-it-4d29)
-- [Top LLMOps Tools to Manage Your AI Stack in 2025](https://dev.to/learndevts/top-llmops-tools-to-manage-your-ai-stack-in-2025-3joi)
-- [Why your crypto seed deserves more than paper &lpar;and what we built to fix it&rpar;](https://dev.to/hercules_crypto/why-your-crypto-seed-deserves-more-than-paper-and-what-we-built-to-fix-it-3h3o)
+- [🔐 I Built a JavaScript Web Vulnerability Scanner Devs Can Actually Use &lpar;CLI, Web UI, and AI-Powered Fixes&rpar;](https://dev.to/pratikacharya1234/i-built-a-javascript-web-vulnerability-scanner-devs-can-actually-use-cli-web-ui-and-ai-powered-g5b)
+- [Reduce Java Object Size with Field Ordering](https://dev.to/princefsdev/reduce-java-object-size-with-field-ordering-2bkp)
+- [Getting Started with Boto3: The AWS SDK for Python](https://dev.to/leonardkachi/getting-started-with-boto3-the-aws-sdk-for-python-nha)
+- [Building AWS Infrastructure with Terraform From Scratch!](https://dev.to/timisdev/building-aws-infrastructure-with-terraform-from-scratch-1p55)
 <!-- BLOG-POST-LIST:END -->
 
