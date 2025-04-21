@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Healthcare with Generative AI: Transforming Diagnosis, Drug Discovery, and Personalized Care](https://dev.to/siddharthbhalsod/revolutionizing-healthcare-with-generative-ai-transforming-diagnosis-drug-discovery-and-3ajk)
-- [Next.js 15 Features You Should Know in 2025](https://dev.to/dct_technology/nextjs-15-features-you-should-know-in-2025-277k)
-- [How to Install Cursor AI Code Editor on Android Phone](https://dev.to/maheshtechnicals/how-to-install-cursor-ai-code-editor-on-android-phone-4gd7)
-- [Docmost, an open-source alternative to Confluence and Notion.](https://dev.to/ramunarasinga-11/docmost-an-open-source-alternative-to-confluence-and-notion-1a1k)
+- [Key Software Development Trends That Will Shape 2025](https://dev.to/orionik_seo_1c8659c41c8d8/key-software-development-trends-that-will-shape-2025-22gi)
+- [AWS Fargate and Lambda: A Clear Comparison of Pros and Cons](https://dev.to/piya__c204c9e90/aws-fargate-and-lambda-a-clear-comparison-of-pros-and-cons-27a5)
+- [Mastering React HOCs: A Clear Guide to Reusable Code 🚀](https://dev.to/0xtanzim/mastering-react-hocs-a-clear-guide-to-reusable-code-3l1)
+- [Deploy a Next.js App on AWS EC2 with Docker, NGINX, and Automate with GitHub Actions.](https://dev.to/kilamaelie/deploy-a-nextjs-app-on-aws-ec2-with-docker-nginx-and-automate-with-github-actions-5g4m)
 <!-- BLOG-POST-LIST:END -->
 
