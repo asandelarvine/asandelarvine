@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Powerful Ways to Create Custom Apps in Frappe &lpar;with Code Examples&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/4-powerful-ways-to-create-custom-apps-in-frappe-with-code-examples-5h01)
-- [8 Open Source Projects to Build Modern Full-stack Apps 🧙🪄](https://dev.to/madza/8-open-source-projects-to-build-modern-full-stack-apps-3b3o)
-- [🚀 10 Laravel Eloquent Tricks You Didn’t Know &lpar;But Will Love!&rpar;](https://dev.to/arafatweb/10-laravel-eloquent-tricks-you-didnt-know-but-will-love-505c)
-- [A no-BS guide for developers to implement SSO](https://dev.to/saif_shines/a-no-bs-guide-for-developers-to-implement-sso-1kkn)
+- [Trigonometric Functions on TI Arm Cores ========================================== functions are commonly used in real-time control applications, particularly within the inner loops of control algorithms, where speed and accuracy are essential. Th](https://dev.to/cyrus_zargaani_6a19e0c497/trigonometric-functions-on-ti-arm-cores--1apc)
+- [Creación de un DTE de boleta electrónica usando AppDTE Api:](https://dev.to/esteban_guenul_a8b43f3f31/creacion-de-un-dte-de-boleta-electronica-usando-appdte-api-580c)
+- [Compose Animations](https://dev.to/alt_j/compose-animations-46c)
+- [Informativo](https://dev.to/david_bermenvliz/informativo-43ai)
 <!-- BLOG-POST-LIST:END -->
 
