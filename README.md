@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [190/365 | ¥10M Job Challenge - Mistake](https://dev.to/kameken100/189365-y10m-job-challenge-mistake-335i)
-- [From Scripts to Cloud: My Hands-On Guide to ML + DevOps](https://dev.to/azeemah/from-scripts-to-cloud-my-hands-on-guide-to-ml-devops-2kbg)
-- [Valide as Bordas do Seu Sistema](https://dev.to/mtbarr/valide-as-bordas-do-seu-sistema-51bg)
-- [Your First Lua Binding](https://dev.to/minmax2296/your-first-lua-binding-4n62)
+- [Face Comparison in Web Apps with AWS Rekognition](https://dev.to/lovestaco/face-comparison-in-web-apps-with-aws-rekognition-21bh)
+- [Building a Full-Stack AI Chatbot with FastAPI &lpar;Backend&rpar; and React &lpar;Frontend&rpar;](https://dev.to/vipascal99/building-a-full-stack-ai-chatbot-with-fastapi-backend-and-react-frontend-51ph)
+- [Generics in Go: Your Friendly Guide to Reusable Code](https://dev.to/shrsv/generics-in-go-your-friendly-guide-to-reusable-code-4fkc)
+- [Understanding How Neural Networks Can Beat Chess Champions [Simplified Explanation]](https://dev.to/dominiconorton/understanding-how-neural-networks-can-beat-chess-champions-simplified-explanation-il8)
 <!-- BLOG-POST-LIST:END -->
 
