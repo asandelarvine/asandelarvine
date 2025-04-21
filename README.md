@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the mv Command in Linux](https://dev.to/sanasadiq/mastering-the-mv-command-in-linux-3mmd)
-- [My Tech Stack in 2025](https://dev.to/mendesbarreto/my-tech-stack-in-2025-242h)
-- [Automatic Game Deployment on Alibaba Cloud Using GitHub Actions](https://dev.to/jamesrmoro/automatic-game-deployment-on-alibaba-cloud-using-github-actions-59pe)
-- [How to Host a Game on Alibaba Cloud Using OSS and OSSUtil](https://dev.to/jamesrmoro/how-to-host-a-game-on-alibaba-cloud-using-oss-and-ossutil-5el6)
+- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-22dm)
+- [I would pay a LOT of money for this absolutely incredible AI laptop... But maybe not as much as it actually costs](https://dev.to/sadiksajid/i-would-pay-a-lot-of-money-for-this-absolutely-incredible-ai-laptop-but-maybe-not-as-much-as-it-4d29)
+- [Top LLMOps Tools to Manage Your AI Stack in 2025](https://dev.to/learndevts/top-llmops-tools-to-manage-your-ai-stack-in-2025-3joi)
+- [Why your crypto seed deserves more than paper &lpar;and what we built to fix it&rpar;](https://dev.to/hercules_crypto/why-your-crypto-seed-deserves-more-than-paper-and-what-we-built-to-fix-it-3h3o)
 <!-- BLOG-POST-LIST:END -->
 
