@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Multilingual Sitemap Optimization: Dodge Redirect Issues &amp; Boost SEO](https://dev.to/solomakerstudio/nextjs-multilingual-sitemap-optimization-dodge-redirect-issues-boost-seo-3b73)
-- [How to Use apiexplorer.io to Prototype Your Next Integration](https://dev.to/lonti-davidb/how-to-use-apiexplorerio-to-prototype-your-next-integration-2661)
-- [How to Deploy FastAPI Apps on Google Cloud Run &lpar;Step-by-Step Guide&rpar;](https://dev.to/hexshift/how-to-deploy-fastapi-apps-on-google-cloud-run-step-by-step-guide-26ed)
-- [🧠 Auto-Generating Knowledge Base Articles from Jira Tickets Using AI](https://dev.to/sarthak_bhardwaj/auto-generating-knowledge-base-articles-from-jira-tickets-using-ai-5hdo)
+- [Why RK3566 is a Great Choice for Your Next Embedded SBC Project](https://dev.to/kevinzhang109/why-rk3566-is-a-great-choice-for-your-next-embedded-sbc-project-394m)
+- [Deep Learning](https://dev.to/congngheaivn/deep-learning-278e)
+- [How to Use Firebase Functions With Express and Firestore for a Full Backend API](https://dev.to/hexshift/how-to-use-firebase-functions-with-express-and-firestore-for-a-full-backend-api-19ne)
+- [Staring at shapes](https://dev.to/magipunk/staring-at-shapes-37l7)
 <!-- BLOG-POST-LIST:END -->
 
