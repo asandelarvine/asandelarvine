@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Guide to ACLs in Linux](https://dev.to/chielo_chiamaka/a-simple-guide-to-acls-in-linux-pd3)
-- [The importance of mental models](https://dev.to/yulei-chen/the-importance-of-mental-models-4l00)
-- [Case Study: Deploying a Python AI Application with Ollama and FastAPI](https://dev.to/mitchell_cheng/case-study-deploying-a-python-ai-application-with-ollama-and-fastapi-l9p)
-- [AWS VPC Setup: Public &amp; Private Subnets with IGW, NAT, and EC2](https://dev.to/durga_v/aws-vpc-setup-public-private-subnets-with-igw-nat-and-ec2-4hkm)
+- [ServiceNow - Interview Questions and Answers](https://dev.to/guru_prasanna_01/servicenow-interview-questions-and-answers-3fmd)
+- [The Future of Figma with AI: Revolutionising Design Collaboration](https://dev.to/yujofficial/the-future-of-figma-with-ai-revolutionising-design-collaboration-48p7)
+- [Microsoft Defender for Storage: Threat Detection &amp; Protection for Your Data](https://dev.to/techielass/microsoft-defender-for-storage-threat-detection-protection-for-your-data-3l47)
+- [Beginner&#39;s Guide to ADO.NET: Connection, Command &amp; Dataset Explained](https://dev.to/sharpen_code_14ab82f71db6/beginners-guide-to-adonet-connection-command-dataset-explained-2k9o)
 <!-- BLOG-POST-LIST:END -->
 
