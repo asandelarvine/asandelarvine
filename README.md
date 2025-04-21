@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context-Sensitive Semantic Reasoning via Dynamic Triplet Graph Embeddings](https://dev.to/ryo_suwito/context-sensitive-semantic-reasoning-via-dynamic-triplet-graph-embeddings-1hal)
-- [How to Create and Publish Your Own NPM Package](https://dev.to/abdelkader_bouzomita_c34e/how-to-create-and-publish-your-own-npm-package-4okk)
-- [AI is fast. Human intuition is smarter. Objections aren’t problems. They’re your competitive edge. #AshkanRajaee #Futurism #BusinessGrowth #AI #SalesTips](https://dev.to/jc_ordiz_86ff31935afdccda/ai-is-fast-human-intuition-is-smarter-objections-arent-problems-theyre-your-competitive-1ean)
-- [Rediscovering Code: My Late-Career Leap into AI](https://dev.to/thutch1976/rediscovering-code-my-late-career-leap-into-ai-63h)
+- [10 Python Scripts That Break Websites &lpar;Kinda Ethically&rpar;](https://dev.to/snappytuts/10-python-scripts-that-break-websites-kinda-ethically-115d)
+- [10 JavaScript Scripts You Should Paste Right Now](https://dev.to/0x3d_site/10-javascript-scripts-you-should-paste-right-now-iee)
+- [Building My First Weather App at Moringa School-A Develper&#39;s Journey](https://dev.to/edwinkipyego/building-my-first-weather-app-at-moringa-school-a-develpers-journey-55ad)
+- [DMM: AI Model Merging Creates Powerful, Efficient Image Generation](https://dev.to/aimodels-fyi/dmm-ai-model-merging-creates-powerful-efficient-image-generation-16lh)
 <!-- BLOG-POST-LIST:END -->
 
