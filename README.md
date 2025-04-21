@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Python Scripts That Break Websites &lpar;Kinda Ethically&rpar;](https://dev.to/snappytuts/10-python-scripts-that-break-websites-kinda-ethically-115d)
-- [10 JavaScript Scripts You Should Paste Right Now](https://dev.to/0x3d_site/10-javascript-scripts-you-should-paste-right-now-iee)
-- [Building My First Weather App at Moringa School-A Develper&#39;s Journey](https://dev.to/edwinkipyego/building-my-first-weather-app-at-moringa-school-a-develpers-journey-55ad)
-- [DMM: AI Model Merging Creates Powerful, Efficient Image Generation](https://dev.to/aimodels-fyi/dmm-ai-model-merging-creates-powerful-efficient-image-generation-16lh)
+- [Mastering the mv Command in Linux](https://dev.to/sanasadiq/mastering-the-mv-command-in-linux-3mmd)
+- [My Tech Stack in 2025](https://dev.to/mendesbarreto/my-tech-stack-in-2025-242h)
+- [Automatic Game Deployment on Alibaba Cloud Using GitHub Actions](https://dev.to/jamesrmoro/automatic-game-deployment-on-alibaba-cloud-using-github-actions-59pe)
+- [How to Host a Game on Alibaba Cloud Using OSS and OSSUtil](https://dev.to/jamesrmoro/how-to-host-a-game-on-alibaba-cloud-using-oss-and-ossutil-5el6)
 <!-- BLOG-POST-LIST:END -->
 
