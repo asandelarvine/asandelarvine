@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Type Hierarchy](https://dev.to/anurag_saini_/understanding-python-type-hierarchy-m37)
-- [Advanced Alpha Hunting: Methods and Tools](https://dev.to/martin_call/advanced-alpha-hunting-methods-and-tools-4dbc)
-- [Understanding Weak Pointers in Go](https://dev.to/l_walid/understanding-weak-pointers-in-go-2ibh)
-- [Anonimlik Tehdit Değil Çevrimiçi Özgürlüktür Çünkü Mahremiyet Lüks Değil Temel Bir Haktır](https://dev.to/eagledfc/anonimlik-tehdit-degil-cevrimici-ozgurluktur-cunku-mahremiyet-luks-degil-temel-bir-haktir-jlj)
+- [The Truth About Vibe Coding: From Zero Swift to App Store](https://dev.to/ismail9k/the-truth-about-vibe-coding-from-zero-swift-to-app-store-1im9)
+- [I continued with loops today ...solved few problems of loops.](https://dev.to/ayush_kumar_f0dd69996cd7a/i-continued-with-loops-today-solved-few-problems-of-loops-411c)
+- [Understanding Google&#39;s A2A Protocol: The Future of AI Agents Communication -Part I](https://dev.to/sreeni5018/understanding-googles-a2a-protocol-the-future-of-agent-communication-part-i-334p)
+- [From chaos to order: how the mv command simplifies Linux file management](https://dev.to/marzena_pugo_b8978575380f/from-chaos-to-order-how-the-mv-command-simplifies-linux-file-management-847)
 <!-- BLOG-POST-LIST:END -->
 
