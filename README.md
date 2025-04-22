@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LR41: The Time-Turner of Micro-Power](https://dev.to/ersajay/lr41-the-time-turner-of-micro-power-cb1)
-- [How to Fix CORS Error in Flutter Web](https://dev.to/reynaldi/how-to-fix-cors-error-in-flutter-web-3e03)
-- [Considerations during data transfer between Salesforce and AWS using Amazon Appflow:](https://dev.to/bhosalevijayawssa/considerations-during-data-transfer-between-salesforce-software-as-a-service-crm-and-aws-using-4g6d)
-- [The One, One-and-Two, Multiple Pass Algorithms](https://dev.to/dima853/the-one-one-and-two-multiple-pass-algorithms-1eg1)
+- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 2&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-2-lkl)
+- [🍪 “Wait, Cookies Know My Name?!” — A Tech Tale You Didn’t Know You Were Living](https://dev.to/prabathkavinda/wait-cookies-know-my-name-a-tech-tale-you-didnt-know-you-were-living-3cf8)
+- [8 Career Tips for Senior Salesforce Pros, No Need for Docusign, Spring\&#39;25 List View API Updates](https://dev.to/sfdcnews/8-career-tips-for-senior-salesforce-pros-no-need-for-docusign-spring25-list-view-api-updates-1f6h)
+- [🚀 Getting Started with Amazon EFS &lpar;Elastic File System&rpar; Hey DEV Community! 👋](https://dev.to/aws_1_27d6cbc9e944aa228ef/getting-started-with-amazon-efs-elastic-file-systemhey-dev-community-39i6)
 <!-- BLOG-POST-LIST:END -->
 
