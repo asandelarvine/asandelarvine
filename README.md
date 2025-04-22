@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimized Management Of Configuration Files On Aws S3: Strategies And Best Practices](https://dev.to/keploy/optimized-management-of-configuration-files-on-aws-s3-strategies-and-best-practices-1dhg)
-- [20-Point Checklist Before You Buy Any Software Package](https://dev.to/hexshift/20-point-checklist-before-you-buy-any-software-package-2cni)
-- [Demmo](https://dev.to/diwakar810/demmo-3827)
-- [Fort Knox in the Cloud: A Practical Guide to AWS Security &amp; IAM](https://dev.to/pkkolla/fort-knox-in-the-cloud-a-practical-guide-to-aws-security-iam-48gk)
+- [LR41: The Time-Turner of Micro-Power](https://dev.to/ersajay/lr41-the-time-turner-of-micro-power-cb1)
+- [How to Fix CORS Error in Flutter Web](https://dev.to/reynaldi/how-to-fix-cors-error-in-flutter-web-3e03)
+- [Considerations during data transfer between Salesforce and AWS using Amazon Appflow:](https://dev.to/bhosalevijayawssa/considerations-during-data-transfer-between-salesforce-software-as-a-service-crm-and-aws-using-4g6d)
+- [The One, One-and-Two, Multiple Pass Algorithms](https://dev.to/dima853/the-one-one-and-two-multiple-pass-algorithms-1eg1)
 <!-- BLOG-POST-LIST:END -->
 
