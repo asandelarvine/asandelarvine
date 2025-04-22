@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I want to be comfortable with what is under a website.](https://dev.to/angie_derubeis_3d2aceb0af/i-want-to-be-comfortable-with-what-is-under-a-website-5cmj)
-- [Python](https://dev.to/rudrabhardwaj/python-11i1)
-- [How to Run Cron Jobs in Deno Without a Server Using Deno Deploy and Webhooks](https://dev.to/hexshift/how-to-run-cron-jobs-in-deno-without-a-server-using-deno-deploy-and-webhooks-7fp)
-- [How to Set Up Scheduled Cron Jobs in Node.js Without a Server Using Cloudflare Workers and Durable Objects](https://dev.to/hexshift/how-to-set-up-scheduled-cron-jobs-in-nodejs-without-a-server-using-cloudflare-workers-and-durable-neo)
+- [Avoid These Costly Mistakes in Cloud Deployments](https://dev.to/ramkumar-m-n/avoid-these-costly-mistakes-in-cloud-deployments-59cn)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1p7i)
+- [[Boost]](https://dev.to/robins163/-h0g)
+- [How to Install and Use Instagram OSINT Tool on Kali Linux](https://dev.to/terminaltools/how-to-install-and-use-instagram-osint-tool-on-kali-linux-4d19)
 <!-- BLOG-POST-LIST:END -->
 
