@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About Vibe Coding: From Zero Swift to App Store](https://dev.to/ismail9k/the-truth-about-vibe-coding-from-zero-swift-to-app-store-1im9)
-- [I continued with loops today ...solved few problems of loops.](https://dev.to/ayush_kumar_f0dd69996cd7a/i-continued-with-loops-today-solved-few-problems-of-loops-411c)
-- [Understanding Google&#39;s A2A Protocol: The Future of AI Agents Communication -Part I](https://dev.to/sreeni5018/understanding-googles-a2a-protocol-the-future-of-agent-communication-part-i-334p)
-- [From chaos to order: how the mv command simplifies Linux file management](https://dev.to/marzena_pugo_b8978575380f/from-chaos-to-order-how-the-mv-command-simplifies-linux-file-management-847)
+- [I Stopped Planning and Just Shipped — Here’s What Happened](https://dev.to/shreshthgoyal/i-stopped-planning-and-just-shipped-heres-what-happened-4pch)
+- [Crafting URLs That Search Engines &lpar;And Humans&rpar; Love: A Developer&#39;s 2025 Playbook](https://dev.to/codebucks/crafting-urls-that-search-engines-and-humans-love-a-developers-2025-playbook-3820)
+- [[Boost]](https://dev.to/brian_dussault/-3h6c)
+- [A Reflection on My First Steps in Tech](https://dev.to/johnking376/a-reflection-on-my-first-steps-in-tech-2eaj)
 <!-- BLOG-POST-LIST:END -->
 
