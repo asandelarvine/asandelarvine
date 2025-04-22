@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 2&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-2-lkl)
-- [🍪 “Wait, Cookies Know My Name?!” — A Tech Tale You Didn’t Know You Were Living](https://dev.to/prabathkavinda/wait-cookies-know-my-name-a-tech-tale-you-didnt-know-you-were-living-3cf8)
-- [8 Career Tips for Senior Salesforce Pros, No Need for Docusign, Spring\&#39;25 List View API Updates](https://dev.to/sfdcnews/8-career-tips-for-senior-salesforce-pros-no-need-for-docusign-spring25-list-view-api-updates-1f6h)
-- [🚀 Getting Started with Amazon EFS &lpar;Elastic File System&rpar; Hey DEV Community! 👋](https://dev.to/aws_1_27d6cbc9e944aa228ef/getting-started-with-amazon-efs-elastic-file-systemhey-dev-community-39i6)
+- [Building Your First AI Agent: A GitHub Repo Analyzer⚡](https://dev.to/voltagent/building-your-first-ai-agent-a-github-repo-analyzer-52fd)
+- [Understanding MCP and AI Agents in AI Development](https://dev.to/windosides/understanding-mcp-and-ai-agents-in-ai-development-45bj)
+- [Preparing for the CKS? Don&#39;t let Falco catch you off guard. In this article, I break down what you need to know about Falco by Sysdig for the exam.](https://dev.to/ptuladhar3/preparing-for-the-cks-dont-let-falco-catch-you-off-guard-in-this-article-i-break-down-what-you-1idb)
+- [Python lru_cache explained](https://dev.to/pikotutorial/python-lrucache-explained-2f5b)
 <!-- BLOG-POST-LIST:END -->
 
