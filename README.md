@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Solution Architect Job Description: Roles, Skills &amp; Responsibilities &lpar;2025&rpar;](https://dev.to/skillboosttrainer/aws-solution-architect-job-description-roles-skills-responsibilities-2025-2kgn)
-- [Kişisel mahremiyetinizi koruyun: Firefox Developer Edition ile güvenli ve uyumlu internet kullanımı](https://dev.to/eagledfc/kisisel-mahremiyetinizi-koruyun-firefox-developer-edition-ile-guvenli-ve-uyumlu-internet-kullanimi-3j8k)
-- [Web Scraping with Playwright in Python](https://dev.to/hasdata_com/web-scraping-with-playwright-in-python-54k0)
-- [Stop posting AI generated posts on dev](https://dev.to/amrtaher1234/stop-posting-ai-generated-posts-on-dev-55ji)
+- [AWS IAM Hands-on Quick Checklist](https://dev.to/aws_1_27d6cbc9e944aa228ef/aws-iam-hands-on-quick-checklist-1paf)
+- [Will AI Take My Job?](https://dev.to/anitaolsen/will-ai-take-my-job-1ap0)
+- [☠️ Life &amp; Death in the Swarm — ReaperAgent + UptimePingerAgent](https://dev.to/matrixswarm/life-death-in-the-swarm-reaperagent-uptimepingeragent-4hlo)
+- [Location and Device Fingerprinting](https://dev.to/yokwejuste/location-and-device-fingerprinting-1caa)
 <!-- BLOG-POST-LIST:END -->
 
