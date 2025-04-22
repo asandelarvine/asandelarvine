@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Ways E-Governance Solutions Are Revolutionizing Admin](https://dev.to/sadik_shaikh/11-ways-e-governance-solutions-are-revolutionizing-admin-39i1)
-- [Supercharge Your Development with Local AI: Unlock the Power of DeepSeek and CodeGPT](https://dev.to/mattyedwards/supercharge-your-development-with-local-ai-unlock-the-power-of-deepseek-and-codegpt-1jc8)
-- [Top 10 Lightning Components Every Developer Should Know](https://dev.to/niks_kirdak_47c783a80cbc7/top-10-lightning-components-every-developer-should-know-p7)
-- [What Is a BEP20 Token? A Beginners Guide](https://dev.to/tomhardy/what-is-a-bep20-token-a-beginners-guide-3h26)
+- [Master JavaScript&#39;s Hidden Realms](https://dev.to/anupam_kumar/master-javascripts-hidden-realms-1536)
+- [How to deploy a smart contract on NEAR using Windows: A step-by-step guide](https://dev.to/roman_horishkov_e8d6e30c3/how-to-deploy-a-smart-contract-on-near-using-windows-a-step-by-step-guide-4deo)
+- [GPT for Word. Use Powerful Gemma 3 QAT Models in Microsoft Word Locally &lpar;100% Private&rpar;.](https://dev.to/gptlocalhost/gpt-for-word-use-powerful-gemma-3-qat-models-in-microsoft-word-locally-100-private-5p1)
+- [Feeling Lost but Still Learning: My Web Dev Journey So Far](https://dev.to/lord_potato_c8a8c0086ffb5/feeling-lost-but-still-learning-my-web-dev-journey-so-far-34di)
 <!-- BLOG-POST-LIST:END -->
 
