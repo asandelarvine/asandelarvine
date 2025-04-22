@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing TCP Packets with BPF and Python](https://dev.to/hexshift/parsing-tcp-packets-with-bpf-and-python-4jg8)
-- [AI in the Workplace: Curse or Blessing?](https://dev.to/kmo/ai-in-the-workplace-curse-or-blessing-57pp)
-- [This is what intentional sales leadership looks like. Calm, clear, and completely in control of the moment. #AshkanRajaee #ModernSales #NoPressure #BusinessVisuals #SalesMoment](https://dev.to/ciarraverse/this-is-what-intentional-sales-leadership-looks-like-calm-clear-and-completely-in-control-of-the-3on4)
-- [The EventTarget Interface and Custom Events](https://dev.to/omriluz1/the-eventtarget-interface-and-custom-events-29jh)
+- [Imposter Syndrome in Software Engineering – You&#39;re Not Alone](https://dev.to/namanvashistha/title-imposter-syndrome-in-software-engineering-youre-not-alone-3a4g)
+- [How to Win $1M with Your GenAI App &lpar;with 0 Infra Setup&rpar;](https://dev.to/dobralin/how-to-win-1m-with-your-genai-app-with-0-infra-setup-d7b)
+- [Engineering a Sub‑Microsecond Queue for High‑Frequency Trading](https://dev.to/anupam_kumar/engineering-a-sub-microsecond-queue-for-high-frequency-trading-5c5i)
+- [Another Test Article: MCP Publishing System](https://dev.to/govindup63/another-test-article-mcp-publishing-system-98i)
 <!-- BLOG-POST-LIST:END -->
 
