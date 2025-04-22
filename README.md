@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IAM Hands-on Quick Checklist](https://dev.to/aws_1_27d6cbc9e944aa228ef/aws-iam-hands-on-quick-checklist-1paf)
-- [Will AI Take My Job?](https://dev.to/anitaolsen/will-ai-take-my-job-1ap0)
-- [☠️ Life &amp; Death in the Swarm — ReaperAgent + UptimePingerAgent](https://dev.to/matrixswarm/life-death-in-the-swarm-reaperagent-uptimepingeragent-4hlo)
-- [Location and Device Fingerprinting](https://dev.to/yokwejuste/location-and-device-fingerprinting-1caa)
+- [Advanced Strategies for Proactive MySQL Performance Optimization](https://dev.to/drupaladmin/advanced-strategies-for-proactive-mysql-performance-optimization-4h70)
+- [Ready to become a real developer java study -day02](https://dev.to/qianwen_guo/ready-to-become-a-real-developer-java-study-day02-3lf1)
+- [When a Tiny Bug in C# Breaks Everything: London vs. Classical Testing](https://dev.to/nawafmahsoun/when-a-tiny-bug-in-c-breaks-everything-london-vs-classical-testing-ae2)
+- [Responsive design is not hiding content on mobile. That’s just bad UX wearing skinny jeans.](https://dev.to/arnoldgunter/responsive-design-hiding-content-on-mobile-thats-just-bad-ux-wearing-skinny-jeans-3283)
 <!-- BLOG-POST-LIST:END -->
 
