@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Strategies for Proactive MySQL Performance Optimization](https://dev.to/drupaladmin/advanced-strategies-for-proactive-mysql-performance-optimization-4h70)
-- [Ready to become a real developer java study -day02](https://dev.to/qianwen_guo/ready-to-become-a-real-developer-java-study-day02-3lf1)
-- [When a Tiny Bug in C# Breaks Everything: London vs. Classical Testing](https://dev.to/nawafmahsoun/when-a-tiny-bug-in-c-breaks-everything-london-vs-classical-testing-ae2)
-- [Responsive design is not hiding content on mobile. That’s just bad UX wearing skinny jeans.](https://dev.to/arnoldgunter/responsive-design-hiding-content-on-mobile-thats-just-bad-ux-wearing-skinny-jeans-3283)
+- [Shadow Testing Superpowers: Four Ways To Bulletproof APIs](https://dev.to/signadot/shadow-testing-superpowers-four-ways-to-bulletproof-apis-5e9f)
+- [Exploring Python and Web Development: Key Concepts and Techniques](https://dev.to/uzair_khan_a88dc86d5117ce/exploring-python-and-web-development-key-concepts-and-techniques-5bib)
+- [Stack Wallet Kurulumu ve Kullanımı Anonim ve Açık Kaynak Cüzdan Rehberi](https://dev.to/eagledfc/stack-wallet-kurulumu-ve-kullanimi-anonim-ve-acik-kaynak-cuzdan-rehberi-3821)
+- [Building models on decentralized data? Federated Averaging &lpar;FedAvg&rpar; + gradient compression reduce communication overhead by 94%+ 🚀. Handle non-IID data, add DP for privacy. Code it with TensorFlow Federated. Guide here 👇](https://dev.to/alex-nguyen-duy-anh/building-models-on-decentralized-data-federated-averaging-fedavg-gradient-compression-reduce-1op6)
 <!-- BLOG-POST-LIST:END -->
 
