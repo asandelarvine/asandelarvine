@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 22 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-april-ob2)
-- [AI vs Machine Learning vs Deep Learning: Quick Guide](https://dev.to/blurbify/ai-vs-machine-learning-vs-deep-learning-quick-guide-2d9m)
-- [Unveiling the Power of Code Generator Tool: An In-Depth Exploration](https://dev.to/anil_kumar_945d8138e667a6/unveiling-the-power-of-code-generator-tool-an-in-depth-exploration-3ia4)
-- [How to Use Burp Suite for Bug Bounty Hunting: A Beginner-Friendly Guide](https://dev.to/sampa_kundu_cc41c09ee4c47/how-to-use-burp-suite-for-bug-bounty-hunting-a-beginner-friendly-guide-17f5)
+- [AWS Solution Architect Job Description: Roles, Skills &amp; Responsibilities &lpar;2025&rpar;](https://dev.to/skillboosttrainer/aws-solution-architect-job-description-roles-skills-responsibilities-2025-2kgn)
+- [Kişisel mahremiyetinizi koruyun: Firefox Developer Edition ile güvenli ve uyumlu internet kullanımı](https://dev.to/eagledfc/kisisel-mahremiyetinizi-koruyun-firefox-developer-edition-ile-guvenli-ve-uyumlu-internet-kullanimi-3j8k)
+- [Web Scraping with Playwright in Python](https://dev.to/hasdata_com/web-scraping-with-playwright-in-python-54k0)
+- [Stop posting AI generated posts on dev](https://dev.to/amrtaher1234/stop-posting-ai-generated-posts-on-dev-55ji)
 <!-- BLOG-POST-LIST:END -->
 
