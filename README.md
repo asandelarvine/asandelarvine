@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-12g8)
-- [Group Management in Linux: The First Step to Becoming a Sysadmin](https://dev.to/axisinfo_0a61830e06c3c950/group-management-in-linux-the-first-step-to-becoming-a-sysadmin-28o8)
-- [Tracking Memory Access Patterns in Python Using sys.settrace and Custom Hooks](https://dev.to/hexshift/tracking-memory-access-patterns-in-python-using-syssettrace-and-custom-3n08)
-- [🌍 5+ APIs Developers Can Use to Celebrate Earth Day 2025](https://dev.to/cobykalter/5-apis-developers-can-use-to-celebrate-earth-day-2025-2a0n)
+- [Data Structures &amp; Algorigthms - Serie](https://dev.to/onedev/data-structures-algorigthms-serie-14kd)
+- [🚀 Hosting a Static Website on AWS EC2 -My First Step Toward DevOps](https://dev.to/bluezeus/hosting-a-static-website-on-aws-ec2-my-first-step-toward-devops-3joj)
+- [Build Your Own Authenticator: TOTP vs HOTP Explained](https://dev.to/apalb/build-your-own-authenticator-totp-vs-hotp-explained-2315)
+- [Vue - Objetos: Mutáveis, Imutáveis ou Fixos](https://dev.to/stefanyrepetcki/vue-objetos-mutaveis-imutaveis-ou-fixos-5hj9)
 <!-- BLOG-POST-LIST:END -->
 
