@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Learning Path 2025: The Ultimate Roadmap to Mastering Modern Web Development](https://dev.to/code_2/nextjs-learning-path-2025-the-ultimate-roadmap-to-mastering-modern-web-development-34hl)
-- [Understanding the Ideal Uptime Rate for Websites](https://dev.to/tomcao2012/understanding-the-ideal-uptime-rate-for-websites-i97)
-- [Move docker volume to another disk](https://dev.to/calj/move-docker-volume-to-another-disk-3i4f)
-- [Routes Group - Next.js](https://dev.to/khanrabiul/routes-group-nextjs-4pfb)
+- [11 Ways E-Governance Solutions Are Revolutionizing Admin](https://dev.to/sadik_shaikh/11-ways-e-governance-solutions-are-revolutionizing-admin-39i1)
+- [Supercharge Your Development with Local AI: Unlock the Power of DeepSeek and CodeGPT](https://dev.to/mattyedwards/supercharge-your-development-with-local-ai-unlock-the-power-of-deepseek-and-codegpt-1jc8)
+- [Top 10 Lightning Components Every Developer Should Know](https://dev.to/niks_kirdak_47c783a80cbc7/top-10-lightning-components-every-developer-should-know-p7)
+- [What Is a BEP20 Token? A Beginners Guide](https://dev.to/tomhardy/what-is-a-bep20-token-a-beginners-guide-3h26)
 <!-- BLOG-POST-LIST:END -->
 
