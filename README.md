@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow Testing Superpowers: Four Ways To Bulletproof APIs](https://dev.to/signadot/shadow-testing-superpowers-four-ways-to-bulletproof-apis-5e9f)
-- [Exploring Python and Web Development: Key Concepts and Techniques](https://dev.to/uzair_khan_a88dc86d5117ce/exploring-python-and-web-development-key-concepts-and-techniques-5bib)
-- [Stack Wallet Kurulumu ve Kullanımı Anonim ve Açık Kaynak Cüzdan Rehberi](https://dev.to/eagledfc/stack-wallet-kurulumu-ve-kullanimi-anonim-ve-acik-kaynak-cuzdan-rehberi-3821)
-- [Building models on decentralized data? Federated Averaging &lpar;FedAvg&rpar; + gradient compression reduce communication overhead by 94%+ 🚀. Handle non-IID data, add DP for privacy. Code it with TensorFlow Federated. Guide here 👇](https://dev.to/alex-nguyen-duy-anh/building-models-on-decentralized-data-federated-averaging-fedavg-gradient-compression-reduce-1op6)
+- [Understanding Python Type Hierarchy](https://dev.to/anurag_saini_/understanding-python-type-hierarchy-m37)
+- [Advanced Alpha Hunting: Methods and Tools](https://dev.to/martin_call/advanced-alpha-hunting-methods-and-tools-4dbc)
+- [Understanding Weak Pointers in Go](https://dev.to/l_walid/understanding-weak-pointers-in-go-2ibh)
+- [Anonimlik Tehdit Değil Çevrimiçi Özgürlüktür Çünkü Mahremiyet Lüks Değil Temel Bir Haktır](https://dev.to/eagledfc/anonimlik-tehdit-degil-cevrimici-ozgurluktur-cunku-mahremiyet-luks-degil-temel-bir-haktir-jlj)
 <!-- BLOG-POST-LIST:END -->
 
