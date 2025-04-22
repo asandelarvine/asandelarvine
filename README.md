@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Planning and Just Shipped — Here’s What Happened](https://dev.to/shreshthgoyal/i-stopped-planning-and-just-shipped-heres-what-happened-4pch)
-- [Crafting URLs That Search Engines &lpar;And Humans&rpar; Love: A Developer&#39;s 2025 Playbook](https://dev.to/codebucks/crafting-urls-that-search-engines-and-humans-love-a-developers-2025-playbook-3820)
-- [[Boost]](https://dev.to/brian_dussault/-3h6c)
-- [A Reflection on My First Steps in Tech](https://dev.to/johnking376/a-reflection-on-my-first-steps-in-tech-2eaj)
+- [Parsing TCP Packets with BPF and Python](https://dev.to/hexshift/parsing-tcp-packets-with-bpf-and-python-4jg8)
+- [AI in the Workplace: Curse or Blessing?](https://dev.to/kmo/ai-in-the-workplace-curse-or-blessing-57pp)
+- [This is what intentional sales leadership looks like. Calm, clear, and completely in control of the moment. #AshkanRajaee #ModernSales #NoPressure #BusinessVisuals #SalesMoment](https://dev.to/ciarraverse/this-is-what-intentional-sales-leadership-looks-like-calm-clear-and-completely-in-control-of-the-3on4)
+- [The EventTarget Interface and Custom Events](https://dev.to/omriluz1/the-eventtarget-interface-and-custom-events-29jh)
 <!-- BLOG-POST-LIST:END -->
 
