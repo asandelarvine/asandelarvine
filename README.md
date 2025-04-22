@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 I Built a JavaScript Web Vulnerability Scanner Devs Can Actually Use &lpar;CLI, Web UI, and AI-Powered Fixes&rpar;](https://dev.to/pratikacharya1234/i-built-a-javascript-web-vulnerability-scanner-devs-can-actually-use-cli-web-ui-and-ai-powered-g5b)
-- [Reduce Java Object Size with Field Ordering](https://dev.to/princefsdev/reduce-java-object-size-with-field-ordering-2bkp)
-- [Getting Started with Boto3: The AWS SDK for Python](https://dev.to/leonardkachi/getting-started-with-boto3-the-aws-sdk-for-python-nha)
-- [Building AWS Infrastructure with Terraform From Scratch!](https://dev.to/timisdev/building-aws-infrastructure-with-terraform-from-scratch-1p55)
+- [I want to be comfortable with what is under a website.](https://dev.to/angie_derubeis_3d2aceb0af/i-want-to-be-comfortable-with-what-is-under-a-website-5cmj)
+- [Python](https://dev.to/rudrabhardwaj/python-11i1)
+- [How to Run Cron Jobs in Deno Without a Server Using Deno Deploy and Webhooks](https://dev.to/hexshift/how-to-run-cron-jobs-in-deno-without-a-server-using-deno-deploy-and-webhooks-7fp)
+- [How to Set Up Scheduled Cron Jobs in Node.js Without a Server Using Cloudflare Workers and Durable Objects](https://dev.to/hexshift/how-to-set-up-scheduled-cron-jobs-in-nodejs-without-a-server-using-cloudflare-workers-and-durable-neo)
 <!-- BLOG-POST-LIST:END -->
 
