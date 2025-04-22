@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Imposter Syndrome in Software Engineering – You&#39;re Not Alone](https://dev.to/namanvashistha/title-imposter-syndrome-in-software-engineering-youre-not-alone-3a4g)
-- [How to Win $1M with Your GenAI App &lpar;with 0 Infra Setup&rpar;](https://dev.to/dobralin/how-to-win-1m-with-your-genai-app-with-0-infra-setup-d7b)
-- [Engineering a Sub‑Microsecond Queue for High‑Frequency Trading](https://dev.to/anupam_kumar/engineering-a-sub-microsecond-queue-for-high-frequency-trading-5c5i)
-- [Another Test Article: MCP Publishing System](https://dev.to/govindup63/another-test-article-mcp-publishing-system-98i)
+- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-12g8)
+- [Group Management in Linux: The First Step to Becoming a Sysadmin](https://dev.to/axisinfo_0a61830e06c3c950/group-management-in-linux-the-first-step-to-becoming-a-sysadmin-28o8)
+- [Tracking Memory Access Patterns in Python Using sys.settrace and Custom Hooks](https://dev.to/hexshift/tracking-memory-access-patterns-in-python-using-syssettrace-and-custom-3n08)
+- [🌍 5+ APIs Developers Can Use to Celebrate Earth Day 2025](https://dev.to/cobykalter/5-apis-developers-can-use-to-celebrate-earth-day-2025-2a0n)
 <!-- BLOG-POST-LIST:END -->
 
