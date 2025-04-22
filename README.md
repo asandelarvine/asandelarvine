@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master JavaScript&#39;s Hidden Realms](https://dev.to/anupam_kumar/master-javascripts-hidden-realms-1536)
-- [How to deploy a smart contract on NEAR using Windows: A step-by-step guide](https://dev.to/roman_horishkov_e8d6e30c3/how-to-deploy-a-smart-contract-on-near-using-windows-a-step-by-step-guide-4deo)
-- [GPT for Word. Use Powerful Gemma 3 QAT Models in Microsoft Word Locally &lpar;100% Private&rpar;.](https://dev.to/gptlocalhost/gpt-for-word-use-powerful-gemma-3-qat-models-in-microsoft-word-locally-100-private-5p1)
-- [Feeling Lost but Still Learning: My Web Dev Journey So Far](https://dev.to/lord_potato_c8a8c0086ffb5/feeling-lost-but-still-learning-my-web-dev-journey-so-far-34di)
+- [🚀 Your Daily Crypto Job Digest For 22 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-april-ob2)
+- [AI vs Machine Learning vs Deep Learning: Quick Guide](https://dev.to/blurbify/ai-vs-machine-learning-vs-deep-learning-quick-guide-2d9m)
+- [Unveiling the Power of Code Generator Tool: An In-Depth Exploration](https://dev.to/anil_kumar_945d8138e667a6/unveiling-the-power-of-code-generator-tool-an-in-depth-exploration-3ia4)
+- [How to Use Burp Suite for Bug Bounty Hunting: A Beginner-Friendly Guide](https://dev.to/sampa_kundu_cc41c09ee4c47/how-to-use-burp-suite-for-bug-bounty-hunting-a-beginner-friendly-guide-17f5)
 <!-- BLOG-POST-LIST:END -->
 
