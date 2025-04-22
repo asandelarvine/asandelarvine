@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid These Costly Mistakes in Cloud Deployments](https://dev.to/ramkumar-m-n/avoid-these-costly-mistakes-in-cloud-deployments-59cn)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1p7i)
-- [[Boost]](https://dev.to/robins163/-h0g)
-- [How to Install and Use Instagram OSINT Tool on Kali Linux](https://dev.to/terminaltools/how-to-install-and-use-instagram-osint-tool-on-kali-linux-4d19)
+- [Basic KYC Implementation Guide using KYC_CHECK](https://dev.to/juninhopo/basic-kyc-implementation-guide-using-kyccheck-3fld)
+- [Do you think you can answer this?](https://dev.to/akashbijwe/do-you-think-you-can-answer-this-18k2)
+- [Convert boolean values to strings &#39;Yes&#39; or &#39;No&#39;.](https://dev.to/maddiepst/convert-boolean-values-to-strings-yes-or-no-21dd)
+- [Is Vibe Coding the Future of Software Development?](https://dev.to/champsoft/is-vibe-coding-the-future-of-software-development-1lhb)
 <!-- BLOG-POST-LIST:END -->
 
