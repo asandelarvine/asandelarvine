@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Guessing color code by eye — Try This Chrome Extension Instead &lpar;With JSON Export!&rpar;](https://dev.to/palettebox_official/stop-guessing-color-code-by-eye-try-this-chrome-extension-instead-with-json-export-3jdp)
-- [Python Get Current Directory – A Complete Guide](https://dev.to/keploy/python-get-current-directory-a-complete-guide-5anc)
-- [Understanding Network Security: A Simple Guide for Everyone](https://dev.to/terminaltools/understanding-network-security-a-simple-guide-for-everyone-90g)
-- [LLM Training: Data Costs 1000x More Than You Think!](https://dev.to/aimodels-fyi/llm-training-data-costs-1000x-more-than-you-think-2c1d)
+- [Switch Case in C# 8.0 and Later: What&#39;s New and Improved?](https://dev.to/pythontutorial/switch-case-in-c-80-and-later-whats-new-and-improved-3hp6)
+- [MySQL সার্ভার চালু আছে কিনা তা বোঝার উপায়](https://dev.to/swapnil_ahmmedshishir_2d/mysql-saarbhaar-caalu-aache-kinaa-taa-bojhaar-upaayy-4lp7)
+- [Use Enums Over Booleans for Status Fields](https://dev.to/codingpipe/use-enums-over-booleans-for-status-fields-49jp)
+- [Integración con Azure Advisor, Azure Service Health y próximos pasos](https://dev.to/danieljsaldana/integracion-con-azure-advisor-azure-service-health-y-proximos-pasos-1lhk)
 <!-- BLOG-POST-LIST:END -->
 
