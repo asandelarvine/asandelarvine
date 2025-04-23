@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best REST API Clients and Testing Tools for 2025 - Your Essential Rest Api Client Toolkit](https://dev.to/lynn_mikami_e94e5b9ad7daf/15-best-rest-api-clients-and-testing-tools-for-2025-your-essential-rest-api-client-toolkit-1ae8)
-- [Critical Path Method &lpar;CPM&rpar; Explained for Developers: Mastering Project Timelines](https://dev.to/teamcamp/critical-path-method-cpm-explained-for-developers-mastering-project-timelines-4k6j)
-- [Sify Cloud Services | Future-Ready Cloud Solutions for Digital Transformation](https://dev.to/sifytechnologies_1_4ed166/sify-cloud-services-future-ready-cloud-solutions-for-digital-transformation-445)
-- [Introducing My New Time Card Calculator – With Printable Timesheet PDFs](https://dev.to/john_butcher_4cd59cb2c041/introducing-my-new-time-card-calculator-with-printable-timesheet-pdfs-5fbg)
+- [Stop Guessing color code by eye — Try This Chrome Extension Instead &lpar;With JSON Export!&rpar;](https://dev.to/palettebox_official/stop-guessing-color-code-by-eye-try-this-chrome-extension-instead-with-json-export-3jdp)
+- [Python Get Current Directory – A Complete Guide](https://dev.to/keploy/python-get-current-directory-a-complete-guide-5anc)
+- [Understanding Network Security: A Simple Guide for Everyone](https://dev.to/terminaltools/understanding-network-security-a-simple-guide-for-everyone-90g)
+- [LLM Training: Data Costs 1000x More Than You Think!](https://dev.to/aimodels-fyi/llm-training-data-costs-1000x-more-than-you-think-2c1d)
 <!-- BLOG-POST-LIST:END -->
 
