@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Form Validation made easy for beginners. Learn how to monitor states in react](https://dev.to/iamonuwacj/form-validation-made-easy-for-beginners-learn-how-to-monitor-states-in-react-ld1)
-- [Mastering CI/CD with AWS DevOps: A Complete 2025 Guide](https://dev.to/adityabhuyan/mastering-cicd-with-aws-devops-a-complete-2025-guide-4d8g)
-- [Beginner&#39;s Guide to Form Validation](https://dev.to/iamonuwacj/beginners-guide-to-form-validation-35li)
-- [Lugares mas hermosos del mundo](https://dev.to/ricardojavister/lugares-mas-hermosos-del-mundo-59oj)
+- [Understanding Information Security: Protecting Your Data in the Digital Age](https://dev.to/terminaltools/understanding-information-security-protecting-your-data-in-the-digital-age-1oe7)
+- [&quot;ee&quot; folder in Docmost, an open-source alternative to Confluence and Notion](https://dev.to/ramunarasinga-11/ee-folder-in-docmost-an-open-source-alternative-to-confluence-and-notion-428e)
+- [pre-alpha release](https://dev.to/tamer-tawfik/-5633)
+- [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
 <!-- BLOG-POST-LIST:END -->
 
