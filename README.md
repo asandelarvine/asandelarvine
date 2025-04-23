@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stacking Elements with Z-index in CSS](https://dev.to/thedevspace/stacking-elements-with-z-index-in-css-2b73)
-- [KQL and syntex](https://dev.to/mallikarjunht/kql-and-syntex-3jjo)
-- [The Hidden Structure of Power in Tech Companies: What Most Devs Miss When Trying to Influence Change](https://dev.to/james007anthony/the-hidden-structure-of-power-in-tech-companies-what-most-devs-miss-when-trying-to-influence-change-afj)
-- [Yapay Zeka ve Makine Öğrenimi: Geleceğin Teknolojisini Şekillendiren Devrimler&quot;](https://dev.to/yunus_emremert_1756b71d3/yapay-zeka-ve-makine-ogrenimi-gelecegin-teknolojisini-sekillendiren-devrimler-f1)
+- [𝗖𝗼𝗱𝗶𝗻𝗴 𝗜𝘀 𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝗙𝗮𝘀𝘁!](https://dev.to/samee-ullah/-1kbo)
+- [Smart Food Shopping Tips for Seniors on a Budget](https://dev.to/allen_smith_bb892a0fb076f/smart-food-shopping-tips-for-seniors-on-a-budget-3o67)
+- [Scaling Your AWS Network with Transit Gateway, VPC Peering, and Hybrid Connectivity](https://dev.to/eunice-js/scaling-your-aws-network-with-transit-gateway-vpc-peering-and-hybrid-connectivity-2lo2)
+- [Join us for the Permit.io Authorization Challenge: $3,000 in Prizes and a Mechanical Keyboard for Each Winner 🤩](https://dev.to/devteam/join-us-for-the-permitio-authorization-challenge-3000-in-prizes-and-a-mechanical-keyboard-for-5ah)
 <!-- BLOG-POST-LIST:END -->
 
