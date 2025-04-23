@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Shared-Nothing Distributed Queue with SQLite and Python](https://dev.to/hexshift/build-a-shared-nothing-distributed-queue-with-sqlite-and-python-3p1)
-- [Интересно было читать](https://dev.to/bogdannovotarskij/intieriesno-bylo-chitat-2f7e)
-- [Очень полезно](https://dev.to/bogdannovotarskij/ochien-poliezno-2jip)
-- [[Boost]](https://dev.to/bogdannovotarskij/-3fc9)
+- [Form Validation made easy for beginners. Learn how to monitor states in react](https://dev.to/iamonuwacj/form-validation-made-easy-for-beginners-learn-how-to-monitor-states-in-react-ld1)
+- [Mastering CI/CD with AWS DevOps: A Complete 2025 Guide](https://dev.to/adityabhuyan/mastering-cicd-with-aws-devops-a-complete-2025-guide-4d8g)
+- [Beginner&#39;s Guide to Form Validation](https://dev.to/iamonuwacj/beginners-guide-to-form-validation-35li)
+- [Lugares mas hermosos del mundo](https://dev.to/ricardojavister/lugares-mas-hermosos-del-mundo-59oj)
 <!-- BLOG-POST-LIST:END -->
 
