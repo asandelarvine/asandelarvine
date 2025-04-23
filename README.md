@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nano-Models for Temporal AI - We created this new breakthrough to offload temporal understanding entirely to local hardware](https://dev.to/nikl/nano-models-for-temporal-ai-we-created-this-new-breakthrough-to-offload-temporal-understanding-4fi)
-- [We built a real-time dashboard for Bittensor validators &lpar;open-source, no wallet&rpar;](https://dev.to/taotrack/we-built-a-real-time-dashboard-for-bittensor-validators-open-source-no-wallet-3h22)
-- [Kickstart Your Web Development Journey with Fun Projects &lpar;Even as a Beginner&rpar;](https://dev.to/joyobaidu/kickstart-your-web-development-journey-with-fun-projects-even-as-a-beginner-339k)
-- [Step-by-Step Git Commands Execution:](https://dev.to/poojzz_/step-by-step-git-commands-execution-4g8a)
+- [5 best open source tools for cross-browser CSS testing](https://dev.to/logrocket/5-best-open-source-tools-for-cross-browser-css-testing-24ab)
+- [Git and GITHUB COMMANDS](https://dev.to/annishasaravanan/git-and-github-commands-gnm)
+- [Git Workflow for Modifying and Committing Changes](https://dev.to/harini_natarajan/git-workflow-for-modifying-and-committing-changes-405j)
+- [Vibe-design And Vibe-coding Best Practices](https://dev.to/keno_reloaded/vibe-designing-and-vibe-coding-best-practices-398k)
 <!-- BLOG-POST-LIST:END -->
 
