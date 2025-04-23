@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch Case in C# 8.0 and Later: What&#39;s New and Improved?](https://dev.to/pythontutorial/switch-case-in-c-80-and-later-whats-new-and-improved-3hp6)
-- [MySQL সার্ভার চালু আছে কিনা তা বোঝার উপায়](https://dev.to/swapnil_ahmmedshishir_2d/mysql-saarbhaar-caalu-aache-kinaa-taa-bojhaar-upaayy-4lp7)
-- [Use Enums Over Booleans for Status Fields](https://dev.to/codingpipe/use-enums-over-booleans-for-status-fields-49jp)
-- [Integración con Azure Advisor, Azure Service Health y próximos pasos](https://dev.to/danieljsaldana/integracion-con-azure-advisor-azure-service-health-y-proximos-pasos-1lhk)
+- [How Data Science and Analytics are transforming industries today](https://dev.to/wsgatungo/how-data-science-and-analytics-are-transforming-industries-today-433m)
+- [Why You Should Use Whoer Check IP](https://dev.to/swiftproxy_residential/why-you-should-use-whoer-check-ip-139a)
+- [Clipboard API and Web Share API](https://dev.to/omriluz1/clipboard-api-and-web-share-api-2eh)
+- [Memory Models of Distributed Systems](https://dev.to/ninjin/memory-models-of-distributed-systems-5b9i)
 <!-- BLOG-POST-LIST:END -->
 
