@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Important Steps in the Data Analysis Process](https://dev.to/seodigitexx/6-important-steps-in-the-data-analysis-process-14ca)
-- [DreamHost vs FastComet: Which Web Hosting Is Better?](https://dev.to/blogzeros/dreamhost-vs-fastcomet-which-web-hosting-is-better-511k)
-- [How to create a virtual machine in Azure](https://dev.to/zube/how-to-create-a-virtual-machine-in-azure-1mg6)
-- [Why ASP.NET Is Still a Leading Choice for Custom Web Application Development](https://dev.to/alex_3c165a96b43112b35d9e/why-aspnet-is-still-a-leading-choice-for-custom-web-application-development-269f)
+- [How Can a Corporate Interior Fit-Out Enhance Workplace Productivity?](https://dev.to/line_andspace_5e363c2bbd/how-can-a-corporate-interior-fit-out-enhance-workplace-productivity-2mlp)
+- [Test](https://dev.to/arpit_tiwari_22499eda78de/test-155m)
+- [What Makes a Great HR Consultant—and Why Your Business Needs One](https://dev.to/yehia_samir123/what-makes-a-great-hr-consultant-and-why-your-business-needs-one-466f)
+- [How do I get into Data Science from a Non-Technical Background?](https://dev.to/elearning_solutions_791be/how-do-i-get-into-data-science-from-a-non-technical-background-7mi)
 <!-- BLOG-POST-LIST:END -->
 
