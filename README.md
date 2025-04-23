@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Information Security: Protecting Your Data in the Digital Age](https://dev.to/terminaltools/understanding-information-security-protecting-your-data-in-the-digital-age-1oe7)
-- [&quot;ee&quot; folder in Docmost, an open-source alternative to Confluence and Notion](https://dev.to/ramunarasinga-11/ee-folder-in-docmost-an-open-source-alternative-to-confluence-and-notion-428e)
-- [pre-alpha release](https://dev.to/tamer-tawfik/-5633)
-- [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
+- [15 Best REST API Clients and Testing Tools for 2025 - Your Essential Rest Api Client Toolkit](https://dev.to/lynn_mikami_e94e5b9ad7daf/15-best-rest-api-clients-and-testing-tools-for-2025-your-essential-rest-api-client-toolkit-1ae8)
+- [Critical Path Method &lpar;CPM&rpar; Explained for Developers: Mastering Project Timelines](https://dev.to/teamcamp/critical-path-method-cpm-explained-for-developers-mastering-project-timelines-4k6j)
+- [Sify Cloud Services | Future-Ready Cloud Solutions for Digital Transformation](https://dev.to/sifytechnologies_1_4ed166/sify-cloud-services-future-ready-cloud-solutions-for-digital-transformation-445)
+- [Introducing My New Time Card Calculator – With Printable Timesheet PDFs](https://dev.to/john_butcher_4cd59cb2c041/introducing-my-new-time-card-calculator-with-printable-timesheet-pdfs-5fbg)
 <!-- BLOG-POST-LIST:END -->
 
