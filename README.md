@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗖𝗼𝗱𝗶𝗻𝗴 𝗜𝘀 𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝗙𝗮𝘀𝘁!](https://dev.to/samee-ullah/-1kbo)
-- [Smart Food Shopping Tips for Seniors on a Budget](https://dev.to/allen_smith_bb892a0fb076f/smart-food-shopping-tips-for-seniors-on-a-budget-3o67)
-- [Scaling Your AWS Network with Transit Gateway, VPC Peering, and Hybrid Connectivity](https://dev.to/eunice-js/scaling-your-aws-network-with-transit-gateway-vpc-peering-and-hybrid-connectivity-2lo2)
-- [Join us for the Permit.io Authorization Challenge: $3,000 in Prizes and a Mechanical Keyboard for Each Winner 🤩](https://dev.to/devteam/join-us-for-the-permitio-authorization-challenge-3000-in-prizes-and-a-mechanical-keyboard-for-5ah)
+- [Nano-Models for Temporal AI - We created this new breakthrough to offload temporal understanding entirely to local hardware](https://dev.to/nikl/nano-models-for-temporal-ai-we-created-this-new-breakthrough-to-offload-temporal-understanding-4fi)
+- [We built a real-time dashboard for Bittensor validators &lpar;open-source, no wallet&rpar;](https://dev.to/taotrack/we-built-a-real-time-dashboard-for-bittensor-validators-open-source-no-wallet-3h22)
+- [Kickstart Your Web Development Journey with Fun Projects &lpar;Even as a Beginner&rpar;](https://dev.to/joyobaidu/kickstart-your-web-development-journey-with-fun-projects-even-as-a-beginner-339k)
+- [Step-by-Step Git Commands Execution:](https://dev.to/poojzz_/step-by-step-git-commands-execution-4g8a)
 <!-- BLOG-POST-LIST:END -->
 
