@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2️⃣ 🚀 Can I Lick It: Programming Journey.](https://dev.to/mileswk/2-can-i-lick-it-programming-journey-1mg9)
-- [Node.js path Module](https://dev.to/samandarhodiev/nodejs-path-module-4h6m)
-- [CSS introduction](https://dev.to/fscss-ttr/css-introduction-bm5)
-- [Kubernetes Agent Blind to New Mounts? Demystifying Mount Propagation](https://dev.to/azalio/kubernetes-agent-blind-to-new-mounts-demystifying-mount-propagation-38ic)
+- [Great article, I love every single tool here](https://dev.to/polakshahar/great-article-i-love-every-single-tool-here-26al)
+- [Implementando Abstract Factory](https://dev.to/breno_baudson/implementando-abstract-factory-44h6)
+- [Why Every Developer Should Build a Side Project](https://dev.to/umairarshad-dev/why-every-developer-should-build-a-side-project-2d2)
+- [Service Mesh Explained: Building a Proxy Injector in Rust &lpar;with code&rpar;](https://dev.to/cortexflow/service-mesh-explained-building-a-proxy-injector-in-rust-with-code-5c48)
 <!-- BLOG-POST-LIST:END -->
 
