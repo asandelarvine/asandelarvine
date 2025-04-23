@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Great article, I love every single tool here](https://dev.to/polakshahar/great-article-i-love-every-single-tool-here-26al)
-- [Implementando Abstract Factory](https://dev.to/breno_baudson/implementando-abstract-factory-44h6)
-- [Why Every Developer Should Build a Side Project](https://dev.to/umairarshad-dev/why-every-developer-should-build-a-side-project-2d2)
-- [Service Mesh Explained: Building a Proxy Injector in Rust &lpar;with code&rpar;](https://dev.to/cortexflow/service-mesh-explained-building-a-proxy-injector-in-rust-with-code-5c48)
+- [Event-Driven Architecture in NestJS](https://dev.to/geampiere/event-driven-architecture-in-nestjs-ccj)
+- [How Cloud-Based ETL Pipelines Are Transforming Real-Time Healthcare Decision Making](https://dev.to/a_bojjam/how-cloud-based-etl-pipelines-are-transforming-real-time-healthcare-decision-making-5cfp)
+- [Diseño de un sistema de gestión de información del control de acceso para la biblioteca de mi universidad](https://dev.to/jose-c0/diseno-de-un-sistema-de-gestion-de-informacion-del-control-de-acceso-para-la-biblioteca-2k03)
+- [PostgreSQL vs MySQL vs Redis: Choose Your Fighter](https://dev.to/devlinkstudios/postgresql-vs-mysql-vs-redis-choose-your-fighter-2ea0)
 <!-- BLOG-POST-LIST:END -->
 
