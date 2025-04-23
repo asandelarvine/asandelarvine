@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 best open source tools for cross-browser CSS testing](https://dev.to/logrocket/5-best-open-source-tools-for-cross-browser-css-testing-24ab)
-- [Git and GITHUB COMMANDS](https://dev.to/annishasaravanan/git-and-github-commands-gnm)
-- [Git Workflow for Modifying and Committing Changes](https://dev.to/harini_natarajan/git-workflow-for-modifying-and-committing-changes-405j)
-- [Vibe-design And Vibe-coding Best Practices](https://dev.to/keno_reloaded/vibe-designing-and-vibe-coding-best-practices-398k)
+- [Building AI Agents to Prioritize CVEs — A Google ADK Guide](https://dev.to/protsenko/building-ai-agents-to-prioritize-cves-a-google-adk-guide-3gcf)
+- [SEO in Next.js: The 2025 Edition 🔍](https://dev.to/luan_dev/seo-in-nextjs-the-2025-edition-27ld)
+- [How AI is Transforming Front-End Development in 2025!](https://dev.to/taliandre49/how-ai-is-transforming-front-end-development-in-2025-4d0k)
+- [Take the Blame, Pass the Praise](https://dev.to/duplessisvanaswegen/take-the-blame-pass-the-praise-1k4a)
 <!-- BLOG-POST-LIST:END -->
 
