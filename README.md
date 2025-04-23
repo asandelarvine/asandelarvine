@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [192/365 | ¥10M Job Challenge - The simplest things are often the hardest](https://dev.to/kameken100/192365-y10m-job-challenge-the-simplest-things-are-often-the-hardest-4eb)
-- [How I Used xBlog AI to Rank for 10 Competitive Keywords in 3 Weeks](https://dev.to/it_clevers_366e2496e48cbc/how-i-used-xblog-ai-to-rank-for-10-competitive-keywords-in-3-weeks-c60)
-- [Solitaire](https://dev.to/ayegl_arslan_6e7626c21d/solitaire-k8o)
-- [How to Demo Your Application to a New Development Team: A Helpful Guide](https://dev.to/autumn_tonita/how-to-demo-your-application-to-a-new-development-team-a-helpful-guide-37mo)
+- [2️⃣ 🚀 Can I Lick It: Programming Journey.](https://dev.to/mileswk/2-can-i-lick-it-programming-journey-1mg9)
+- [Node.js path Module](https://dev.to/samandarhodiev/nodejs-path-module-4h6m)
+- [CSS introduction](https://dev.to/fscss-ttr/css-introduction-bm5)
+- [Kubernetes Agent Blind to New Mounts? Demystifying Mount Propagation](https://dev.to/azalio/kubernetes-agent-blind-to-new-mounts-demystifying-mount-propagation-38ic)
 <!-- BLOG-POST-LIST:END -->
 
