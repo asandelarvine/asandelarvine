@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Data Science and Analytics are transforming industries today](https://dev.to/wsgatungo/how-data-science-and-analytics-are-transforming-industries-today-433m)
-- [Why You Should Use Whoer Check IP](https://dev.to/swiftproxy_residential/why-you-should-use-whoer-check-ip-139a)
-- [Clipboard API and Web Share API](https://dev.to/omriluz1/clipboard-api-and-web-share-api-2eh)
-- [Memory Models of Distributed Systems](https://dev.to/ninjin/memory-models-of-distributed-systems-5b9i)
+- [6 Important Steps in the Data Analysis Process](https://dev.to/seodigitexx/6-important-steps-in-the-data-analysis-process-14ca)
+- [DreamHost vs FastComet: Which Web Hosting Is Better?](https://dev.to/blogzeros/dreamhost-vs-fastcomet-which-web-hosting-is-better-511k)
+- [How to create a virtual machine in Azure](https://dev.to/zube/how-to-create-a-virtual-machine-in-azure-1mg6)
+- [Why ASP.NET Is Still a Leading Choice for Custom Web Application Development](https://dev.to/alex_3c165a96b43112b35d9e/why-aspnet-is-still-a-leading-choice-for-custom-web-application-development-269f)
 <!-- BLOG-POST-LIST:END -->
 
