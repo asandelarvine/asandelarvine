@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Programming: Best Friend or Biggest Enemy?](https://dev.to/yahav10/ai-and-programming-best-friend-or-biggest-enemy-3i6m)
-- [Function Borrowing: Reusing Logic Without Inheritance](https://dev.to/lovestaco/function-borrowing-reusing-logic-without-inheritance-19cc)
-- [Conquering Valid Parentheses with Stack Magic](https://dev.to/luparinx/conquering-valid-parentheses-with-stack-magic-4ak6)
-- [O Papel das APIs no Desenvolvimento Moderno: Entendendo as Engrenagens Invisíveis da Tecnologia](https://dev.to/nicolaazdev/o-papel-das-apis-no-desenvolvimento-moderno-entendendo-as-engrenagens-invisiveis-da-tecnologia-mp8)
+- [192/365 | ¥10M Job Challenge - The simplest things are often the hardest](https://dev.to/kameken100/192365-y10m-job-challenge-the-simplest-things-are-often-the-hardest-4eb)
+- [How I Used xBlog AI to Rank for 10 Competitive Keywords in 3 Weeks](https://dev.to/it_clevers_366e2496e48cbc/how-i-used-xblog-ai-to-rank-for-10-competitive-keywords-in-3-weeks-c60)
+- [Solitaire](https://dev.to/ayegl_arslan_6e7626c21d/solitaire-k8o)
+- [How to Demo Your Application to a New Development Team: A Helpful Guide](https://dev.to/autumn_tonita/how-to-demo-your-application-to-a-new-development-team-a-helpful-guide-37mo)
 <!-- BLOG-POST-LIST:END -->
 
