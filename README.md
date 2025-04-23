@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Datatable](https://dev.to/samseptiano/reactjs-datatable-cm7)
-- [From Bugs to Trust: QA&#39;s Role in Building a Comfortable Crypto Trading Experience](https://dev.to/philip_crypto92/from-bugs-to-trust-qas-role-in-building-a-comfortable-crypto-trading-experience-65j)
-- [How to seed million rows!!](https://dev.to/vaitheeswaran-lm/how-to-seed-million-rows-3opa)
-- [Dev.to API ile Otomatik Yayın &lpar;TypeScript&rpar;](https://dev.to/yunus_emremert_1756b71d3/devto-api-ile-otomatik-yayin-typescript-4glf)
+- [Stacking Elements with Z-index in CSS](https://dev.to/thedevspace/stacking-elements-with-z-index-in-css-2b73)
+- [KQL and syntex](https://dev.to/mallikarjunht/kql-and-syntex-3jjo)
+- [The Hidden Structure of Power in Tech Companies: What Most Devs Miss When Trying to Influence Change](https://dev.to/james007anthony/the-hidden-structure-of-power-in-tech-companies-what-most-devs-miss-when-trying-to-influence-change-afj)
+- [Yapay Zeka ve Makine Öğrenimi: Geleceğin Teknolojisini Şekillendiren Devrimler&quot;](https://dev.to/yunus_emremert_1756b71d3/yapay-zeka-ve-makine-ogrenimi-gelecegin-teknolojisini-sekillendiren-devrimler-f1)
 <!-- BLOG-POST-LIST:END -->
 
